@@ -4,7 +4,7 @@
 这是软件折扣（SaaS，PaaS，IaaS等）的折扣清单，以及为碰巧是学生的开发人员提供的其他优惠.
 此列表的灵感来自 [free-for-dev list](https://github.com/ripienaar/free-for-dev).
 
- 您可以通过发送拉取请求添加更多服务来提供帮助.  请阅读 [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) first.
+ 您可以通过发送拉取请求添加更多服务来提供帮助.  请阅读 [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) 第一.
 一旦我在此README文件中拥有一组良好的链接，我就会为信息和链接寻找一个更好的布局（对此也有所帮助）.
 
 如果您不愿意提出PR，可以在 [@acho_arnold](https://twitter.com/acho_arnold)!
@@ -23,7 +23,18 @@
 
 ## IDE and Code Editing
 
-  * [PyCharm, PhpStorm, WebStorm, AppCode, CLion, RubyMine, IntelliJ IDEA](https://www.jetbrains.com/student/) [免费]-JetBrains提供的专业开发人员工具.
+  * [JetBrains IDE pack](https://www.jetbrains.com/student/) [免费]-JetBrains提供的免费专业开发人员IDE和工具，包括：
+    * ReSharper Ultimate-Visual Studio扩展
+    * IntelliJ-基于JVM的开发
+    * AppCode-iOS / macOS IDE
+    * CLion-C / C ++ IDE
+    * DataGrip-数据库/ SQL IDE
+    * GoLand-Go IDE
+    * PhpStorm-PHP IDE
+    * PyCharm-Python IDE
+    *车手-.NET IDE
+    * WebStorm-JavaScript IDE
+    * RubyMine-Ruby IDE
   * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student)  [免费]-工具套件，可简化代码的设计，开发，调试和调整，这些代码利用并行处理来提高应用程序性能.  学生免费.
   * [Xamarin IDE](http://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
   * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
@@ -32,6 +43,7 @@
   * [ShiftEdit](https://shiftedit.net/)  [折扣]-ShiftEdit是用于开发网站的功能强大的在线IDE.  教育折扣.  每年$ 750美元，可获取50个许可.
   * [Repl](https://repl.it/site/github-students)  [免费]-一种在线IDE，可让您立即使用五十多种语言进行编码.黑客计划包括无限的私人代表和多人邀请.  可通过以下方式免费使用一年 [Github Student Developer Pack](https://education.github.com/pack)
   * [GitPod](https://www.gitpod.io/github-student-developer-pack/)[免费]-GitHub的在线IDE，只需单击即可提供完整的开发环境.学生可以通过以下方式免费订阅六个月的个人计划： [Github Student Developer Pack](https://education.github.com/pack).
+  * [Atom](https://github.atom.io/) [免费]-Atom是由GitHub开发的免费且开源的文本和源代码编辑器（Atom –可破解的文本和源代码编辑器）.
 
 ## Version Control
 
@@ -43,21 +55,20 @@
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) [CREDIT]-Digital Ocean为每位报名参加该计划的学生提供$ 50的托管信用额 [Github Student Developer Pack](https://education.github.com/pack).
-  * [RoseHosting](https://www.rosehosting.com) [折扣]-RoseHosting为其所有会员提供20％的经常性折扣 [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) 和 [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html)  每月付款时.  学生可以通过使用优惠券代码“ STUDENT20”使用折扣.  仅对新客户有效.  不能与其他优惠同时使用.
+  * [RoseHosting](https://www.rosehosting.com) [折扣]-RoseHosting为其所有会员提供20％的经常性折扣 [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html)  每月付款时.  学生可以通过使用优惠券代码“ STUDENT20”来使用折扣.  仅对新客户有效.  不能与其他优惠同时使用.
   * [SiteGround](https://www.siteground.com/students-plan.htm) [折扣]-每月$ 1.99美元，而不是每月$ 3.95美元 [StartUp plan](https://www.siteground.com/students-plan.htm).
   * [Education Host](https://education.github.com/pack/redeem/educationhost) [免费]-可免费使用Designer软件包为学生提供1年的虚拟主机托管服务，并提供升级优惠.可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Design and Photo Editing
 
+  * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [折扣]-学生节省60％的Creative Cloud折扣.
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) [折扣]-获得教育许可证后，您的Sketch副本可享受50％的折扣.
   * [Canva](https://www.canva.com/) [免费]-通过以下方式免费订阅Canva Pro级别的12个月 [Github Student Developer Pack](https://education.github.com/pack).
-  * [Icons8](https://icons8.com/github-students)[免费]-Icons8提供设计资源：图标，UI插图，照片和软件以对您的项目进行分类.通过图标，照片，插图和音乐的3个月全访问订阅，可通过 
-[Github Student Developer Pack](https://education.github.com/pack).
+  * [Icons8](https://icons8.com/github-students) [免费]-Icons8提供设计资源：图标，UI插图，照片和用于对项目进行分类的软件.  通过[Github Student Developer Pack]（https://education.github.com/pack）进行为期3个月的全部访问订阅，包括图标，照片，插图和音乐.
   * [Figma](https://www.figma.com/education/) [免费]-通过学生身份验证后免费获得专业团队功能.
 
 ## SaaS
 
-  * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [折扣]-学生节省60％的Creative Cloud折扣.
   * [Ip Geolocation](https://ipgeolocation.io/) [折扣]-5万个请求免费，所有付费计划为学生提供50％的折扣.
   * [Taskade - Team Productivity](https://www.taskade.com/)  [折扣]-学生获得Taskade Pro订阅可获得50％的永久折扣.  在结帐时使用优惠券代码“ students50”，并开始在Taskade上与团队任务，笔记和聊天进行协作.
   * [Notion.so](https://www.notion.so/students) [免费]免费的写作，规划，协作和组织构想专业计划.
@@ -70,7 +81,7 @@
 
 ## Email
 
-  * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT]-当您通过以下方式为学生提供服务时，学生计划每月免费提供15,000封电子邮件（通常每天限制为200封免费电子邮件） [Github Student Developer Pack](https://education.github.com/pack).
+  * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT]-学生计划每月通过15K封免费电子邮件（通常每天限制为200封免费电子邮件） [Github Student Developer Pack](https://education.github.com/pack).
   * [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费]-强大的API，可让您轻松发送，接收和跟踪电子邮件.每月最多20,000个电子邮件和100个免费电子邮件验证（长达12个月），可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
@@ -87,7 +98,7 @@
 
   * [Bitnami](https://bitnami.com)  [免费]-单击即可安装云应用程序.  可通过以下方式获得一年的Business 3计划（通常为49美元/月），为期一年 [Github Student Developer Pack](https://education.github.com/pack).
   * [Yellow Circle](http://www.yellowcircle.net) [免费]-通过创建和配置虚拟路由器，虚拟机，虚拟防火墙，负载均衡器和存储设备，为所有级别的学生和教师提供免费的在线沙箱，以学习和实践IT，网络和编程技能.
-  * [Orchestrate](https://orchestrate.io/)  [免费]-Orchestrate是一个完整的数据库产品组合，包括通过API进行的搜索，时间序列事件，地理位置和图形查询.  您可以将数据托管在公共云中，例如在CenturyLink数据中心中，或使用Orchestrate Enterprise的专用集群. [Github Student Developer Pack](https://education.github.com/pack) 成员将获得一个免费的开发者帐户（通常为每月49美元）.
+  * [Orchestrate](https://orchestrate.io/)  [免费]-Orchestrate是一个完整的数据库产品组合，其中包括通过API进行的搜索，时间序列事件，地理位置和图形查询.  您可以将数据托管在公共云中，例如在CenturyLink数据中心中，或使用Orchestrate Enterprise的专用集群. [Github Student Developer Pack](https://education.github.com/pack) 成员将获得一个免费的开发者帐户（通常为每月49美元）.
   * [Vertabelo](http://www.vertabelo.com/)  [免费]-功能齐全的数据库设计在线工具.  免费用于教育目的.
  
 
@@ -104,7 +115,7 @@
 ## Programming Help
 
   * [HackHands](https://hackhands.com/education/)  [CREDIT]-24/7提供实时编程帮助.  通过以下方式向学生提供$ 25的平台赠送金额： [Github Student Developer Pack](https://education.github.com/pack).
-  * [Evernote](https://evernote.com/students) [DISCOUNT] - Capture, organize, and share notes from anywhere. Get 50% off a full year of Evernote Premium.
+  * [Evernote](https://evernote.com/students)  [折扣]-从任何地方捕获，整理和共享笔记.  全年享Evernote Premium优惠50％.
   * [Covalence](https://education.github.com/pack/redeem/covalence)[免费]-加入一个专有的开发人员社区，学习没有长期承诺的Full Stack网络开发.Covalence的Atomic Plan免费试用一个月，并通过以下方式进行了两次一对一的辅导 [Github Student Developer Pack](https://education.github.com/pack).
 
 
@@ -133,7 +144,7 @@
 
   * [CartoDB](https://cartodb.com/solutions/education-and-research/) [免费/折扣]-免费帐户的其他空间和功能，或付费帐户可享受20％的折扣.
   * [Tableau Desktop](https://www.tableau.com/academic/students) [免费]-一年的学生专业许可证.
-  * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) 和 [SAS OnDem和 Academic](http://www.sas.com/en_us/industry/higher-education/on-dem和-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM 和 hosts SAS Studio for use with a browser on the host computer. SAS OnDem和 hosts SAS Studio for use in the cloud without installation. Both are free for students 和 teachers at any level.
+  * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) and [SAS OnDemand Academic](http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html)  [免费]-SAS University Edition作为VirtualBox / VMWare的虚拟设备分发.  它在预打包的VM上以NAT模式运行，并托管SAS Studio，以与主机上的浏览器一起使用.  SAS OnDemand托管SAS Studio，无需安装即可在云中使用.  两者对于任何级别的学生和老师都是免费的.
 
 
 ## Game Development Tools
@@ -146,6 +157,7 @@
  * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [免费]-免费的Autodesk Education许可包括Autodesk Maya，3DS MAX，Softimage，Motion Builder，Mudbox，Inventor Professional ...
 
 ## Password Managers
+ * [1Password](https://www.studentappcentre.com/discounts/1password)  -[免费] 6个月的1Password帐户免费.  （之后使用个人帐户，每月需支付3美元）
  * [RoboForm](https://www.roboform.com/promotions/college) [免费]-免费提供第一年有效大学或学院电子邮件地址的学生和教授（此后每年$ 12）
  * [LastPass](https://lastpass.com/edupromo.php) [免费]-享受6个月的LastPass Premium，以帮助您管理学校的在线生活！
 
@@ -161,10 +173,11 @@
   * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [免费]-免费访问选定的英特尔®软件开发产品，包括：英特尔®XDK，英特尔®视频专业分析器，英特尔®System Studio，英特尔®Parallel Studio XE Composer版和英特尔®Parallel Studio XE群集版（包括Fortran）和C / C ++）.
   * [IBM Student Developer Community](https://developer.ibm.com/students/)  [免费]-轻松访问开发下一件伟大作品所需的工具.  享受来自IBM的强大技术和战略资源.
   * [Figure Eight](https://www.figure-eight.com/) [免费]-CrowdFlower现在是图8.图8是数据科学和机器学习团队必不可少的环内AI平台.
-  * [Exploratory](https://exploratory.io/) [免费]-Exploratory的简单UI体验使任何人都可以使用数据科学中的最新和最先进的创新来发现深刻的见解.学生注册可用于定价.
+  * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 
 ## Learning Resources
  * [Association of Computing Machinery with Digital Library](https://www.acm.org)  [折扣]-通常，访问ACM及其数字图书馆的费用为每年$ 198 USD，但是，当前的IT和计算机科学专业的学生每年只需$ 42 USD.  该数字图书馆允许访问O&#39;Reilly的在线学习平台，该平台通常每月收费39美元.  O&#39;Reilly的在线学习平台就像Netflix，可以通过Pearson，O&#39;Reilly，No Starch Press等发行商的书籍和视频课程来学习材料.
+ * [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)  [免费]-通过深入的JavaScript，Node.js和前端工程课程提高技能.  通过这门惊人的课程，开始您在FullStack开发领域的职业生涯.  6个月免费访问所有课程和研讨会.
 
 ## License
 

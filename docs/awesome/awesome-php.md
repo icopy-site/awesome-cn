@@ -60,6 +60,7 @@
 * [Drupal](https://www.drupal.org) -企业级CMS.
 * [Grav](https://github.com/getgrav/grav) -现代的平面文件CMS.
 * [Joomla](https://www.joomla.org/) -另一个领先的CMS.
+* [Magento](https://magento.com/) -最受欢迎的电子商务平台.
 * [WordPress](https://wordpress.org/) 博客平台和CMS.
 
 ### Components
@@ -69,17 +70,18 @@
 * [CakePHP Plugins](https://plugins.cakephp.org/) -CakePHP插件的目录.
 * [Hoa Project](https://hoa-project.net/En/) -另一个PHP组件包.
 * [League of Extraordinary Packages](https://thephpleague.com/) -一个PHP软件包开发小组.
+* [Spatie Open Source](https://spatie.be/open-source/packages) -开源PHP和Laravel软件包的集合.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) -组成Symfony的组件.
 * [Zend Framework Components](https://docs.zendframework.com/) -组成Zend Framework的组件.
 
 ### Micro Frameworks
 *微型框架和路由器.*
 
-* [Bullet PHP](http://bulletphp.com/) -用于构建REST API的微型框架.
+* [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](https://lumen.laravel.com) -Laravel制作的微框架.
 * [Radar](https://github.com/radarphp/Radar.Adr) -用于PHP的Action-Domain-Responder实现.
 * [Slim](https://www.slimframework.com/) -另一个简单的微框架.
-* [Expressive](https://getexpressive.org/) - A micro-framework by Zend.
+* [Expressive](https://getexpressive.org/) -Zend的微框架.
 
 ### Micro Framework Extras
 *与微框架和路由器有关的其他内容.
@@ -122,7 +124,7 @@
 *使用HTTP的库.*
 
 * [Buzz](https://github.com/kriswallsmith/Buzz) -另一个HTTP客户端.
-* [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) -全面的HTTP客户端.
+* [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
 * [HTTPlug](http://httplug.io) -没有绑定到特定实现的HTTP客户端抽象.
 * [PHP VCR](https://php-vcr.github.io/) -用于记录和重放HTTP请求的库.
 * [Requests](https://github.com/rmccue/Requests) -一个简单的HTTP库.
@@ -210,7 +212,7 @@
 
 * [Alice](https://github.com/nelmio/alice) -具表现力的灯具生成库.
 * [AspectMock](https://github.com/Codeception/AspectMock) -PHPUnit / Codeception的模拟框架.
-* [Atoum](https://github.com/atoum/atoum) - A simple testing library.
+* [Atoum](https://github.com/atoum/atoum) -一个简单的测试库.
 * [Behat](http://docs.behat.org/en/v2.5/) -行为驱动开发（BDD）测试框架.
 * [Codeception](https://github.com/Codeception/Codeception) -完整的堆栈测试框架.
 * [Faker](https://github.com/fzaninotto/Faker) -伪造的数据生成器库.
@@ -275,7 +277,7 @@
 * [Password Policy](https://github.com/ircmaxell/password-policy) -用于PHP和JavaScript的密码策略库.
 * [Password Validator](https://github.com/jeremykendall/password-validator) -用于验证和升级密码哈希的库.
 * [Password-Generator](https://github.com/hackzilla/password-generator) -PHP库可生成随机密码.
-* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
+* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) -用于生成和验证密码的库.
 * [phpass](https://www.openwall.com/phpass/) -便携式密码哈希框架.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) -基于Zxcvbn JS的逼真的PHP密码强度估算库.
 
@@ -305,11 +307,12 @@
 *用于对PHP代码进行静态分析的库.
 
 * [Exakat](https://github.com/exakat/exakat) -用于PHP的静态分析引擎.
+* [Deptrac](https://github.com/sensiolabs-de/deptrac) -静态代码分析工具，可帮助强制实施有关软件层之间依赖性的规则.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) -使用图论的代码分析工具.
 * [phan](https://github.com/phan/phan) -基于PHP 7+和php-ast扩展的静态分析器.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) -用于PHP CodeSniffer的PHP兼容性检查器.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) -创建可定制的依赖图的工具.
-* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) -静态指标库.
 * [PHP Migration](https://github.com/monque/PHP-Migration) -用于PHP版本迁移的静态分析器.
 * [PHPStan](https://github.com/phpstan/phpstan) -一个PHP静态分析工具.
 * [Psalm](https://github.com/vimeo/psalm) -用于在PHP应用程序中查找错误的静态分析工具.
@@ -361,6 +364,7 @@
 *用于构建导航结构的工具.*
 
 * [KnpMenu](https://github.com/KnpLabs/KnpMenu) -菜单库.
+* [Menu](https://github.com/spatie/menu) -灵活的菜单库，界面流畅.
 
 ### Asset Management
 *用于管理，压缩和最小化网站资产的工具.*
@@ -398,8 +402,9 @@
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) -事件源库.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) -另一个Web套接字库.
 * [Prooph Event Store](https://github.com/prooph/event-store) -事件源组件，用于保留事件消息
+* [PHP Defer](https://github.com/php-defer/php-defer) -Golang的PHP延迟声明.
 * [Ratchet](https://github.com/ratchetphp/Ratchet) -网络套接字库.
-* [React](https://github.com/reactphp/react) -事件驱动的非阻塞I / O库.
+* [React](https://github.com/reactphp/reactphp) -事件驱动的非阻塞I / O库.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) -反应性扩展库.
 * [Swoole](https://github.com/swoole/swoole-src) -一个事件驱动的异步和并发网络通信框架，具有高性能，适用于用C编写的PHP.
 * [Workerman](https://github.com/walkor/Workerman) -事件驱动的非阻塞I / O库.
@@ -432,7 +437,7 @@
 
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) -用于处理Microsoft PowerPoint演示文稿的库.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) -用于处理Microsoft Word文档的库.
-* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) -用于读取和写入电子表格文件的纯PHP库（PHPExcel的后继）.
+* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
 * [Spout](https://github.com/box/spout) -以快速和可扩展的方式读写电子表格文件（CSV，XLSX和ODS）.
 
 ### Database
@@ -540,7 +545,8 @@
 * [Hoa String](https://github.com/hoaproject/Ustring) -另一个UTF-8字符串库.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php)  -Python的jieba的PHP端口.  中文文本分割，用于自然语言处理.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -用于检测移动设备（包括平板电脑）的轻量级PHP类.
-* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
+* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) -用于处理UTF-8字符串的可移植库.
+* [Portable UTF-8](https://github.com/voku/portable-utf8) -具有UTF-8安全替换方法的字符串处理库.
 * [Slugify](https://github.com/cocur/slugify) -将字符串转换为段的库.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) -用于格式化SQL语句的库.
 * [Stringy](https://github.com/danielstjules/Stringy) -具有多字节支持的字符串处理库.
@@ -634,12 +640,12 @@
 ### Serverless
 *帮助构建无服务器Web应用程序的库和工具.
 
-* [Bref](https://bref.sh/) -AWS Lambda上的无服务器PHP.
+* [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
 * [OpenWhisk](http://openwhisk.apache.org/) -开源的无服务器云平台.
 * [Serverless Framework](https://serverless.com/cli/) -用于构建无服务器应用程序的开源框架.
 
 ## Configuration
-*用于配置的库和工具.**
+*用于配置的库和工具.*
 
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) -从.env文件中解析并加载环境变量.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)-从.env文件中解析并加载环境变量.
@@ -676,8 +682,9 @@
 * [Hprose-PHP](https://github.com/hprose/hprose-php) -一个非常新颖的RPC库，现在支持25种以上的语言.
 * [JSON Lint](https://github.com/Seldaek/jsonlint) -JSON皮棉实用程序.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) -用于验证JSONP回调的库.
+* [Lock](https://github.com/php-lock/lock) -提供独占执行的锁库.
 * [Metrics](https://github.com/beberlei/metrics) -一个简单的指标API库.
-* [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+* [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) -Google的noCAPTCHA（reCAPTCHA）的帮助程序.
 * [Nmap](https://github.com/willdurand/nmap) -一个PHP包装器 [Nmap](https://nmap.org/).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) -分页库.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) -iOS PassBook的PHP库.
@@ -743,7 +750,7 @@
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) -用于管理队列后端的应用程序.
 * [MailCatcher](https://github.com/sj26/mailcatcher) -用于捕获和查看电子邮件的网络工具.
 * [Cachet](https://github.com/cachethq/cachet) -开源状态页面系统.
-* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) -一个简单的Web界面即可管理 [Redis](https://redis.io/) 数据库.
+* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) -一个简单的Web界面即可管理 [Redis](https://redis.io/) databases.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) -MySQL / MariaDB的Web界面.
 * [Adminer](https://www.adminer.org/) -在单个PHP文件中进行数据库管理.
 * [Lychee](https://github.com/electerious/Lychee) -易于使用且外观精美的照片管理系统.
@@ -765,7 +772,7 @@
 * [PHP Best Practices](https://phpbestpractices.org/) -PHP最佳做法指南.
 * [PHP FIG](https://www.php-fig.org/) -PHP框架互操作性组.
 * [PHP Mentoring](https://php-mentoring.org/) -点对点PHP指导组织.
-* [PHP Package Development Standards](http://php-pds.com) -PHP的软件包开发标准.
+* [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
 * [PHP School](https://www.phpschool.io/) -PHP的开源学习.
 * [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) -PHP安全性指南.
 * [PHP The Right Way](https://phptherightway.com/) -PHP最佳做法快速参考指南.
@@ -799,7 +806,7 @@
 * [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·康努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
-* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书涵盖了解析和验证XML文档，利用XPath表达式以及使用名称空间以及如何以编程方式创建和修改XML文件的内容.
+* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了如何解析和验证XML文档，利用XPath表达式以及如何使用名称空间以及如何以编程方式创建和修改XML文件.
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) -用PHP编写的真实示例展示了DDD建筑风格.
 
 ### Other Books
@@ -825,9 +832,10 @@
 ### PHP Podcasts
 *有关PHP主题的播客.
 
+* [PHP Internals New](https://phpinternals.news) -关于PHP内部原理的播客.
+* [PHP Roundtable](https://www.phproundtable.com/) -PHP圆桌会议是开发人员的临时聚会，讨论PHP书呆子关心的主题.
 * [PHP Town Hall](https://phptownhall.com/) -Ben Edmunds和Phil Sturgeon的休闲PHP播客.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) 与使PHP社区特别的人们的访谈.
-* [PHP Roundtable](https://www.phproundtable.com/) -PHP圆桌会议是开发人员的临时聚会，讨论PHP书呆子关心的主题.
 
 ### PHP Reading
 *与PHP相关的阅读材料.*

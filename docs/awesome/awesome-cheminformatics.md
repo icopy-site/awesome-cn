@@ -50,7 +50,8 @@
 <a id="lib-visualization"></a>
 ### Visulization
 
-* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) -前端JavaScript库，用于在网络浏览器上提供表示，绘制，编辑，比较和搜索分子结构的功能.
+* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) -前端JavaScript库，用于提供在网络浏览器上表示，绘制，编辑，比较和搜索分子结构的功能.
+* [3Dmol.js](https://github.com/3dmol/3Dmol.js) -面向对象的基于webGL的JavaScript库，用于在线分子可视化.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) -基于的化学2D结构编辑器应用程序/小程序 [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) -使用PySide的简单RDKit分子编辑器GUI.
 
@@ -123,7 +124,7 @@
 
 ### Books
 
-* [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -同时包括来自公共（NIH），学术界和工业界的见解.
+* [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -  Include insights from public (NIH), academic, and industrial sources at the same time.
 * [Chemoinformatics for Drug Discovery](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785) -有关如何使用化学信息学策略改善药物发现结果的材料.
 
 <a id="see-also"></a>

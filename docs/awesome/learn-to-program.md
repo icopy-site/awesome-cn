@@ -22,7 +22,7 @@
 *（HTML，CSS，JavaScript，SQL）*
 
 #### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
-用于课程的**商业**平台，如何构建网站和应用\
+**Commercial** platform for courses how to build websites & apps\
 *（网页设计，前端Web开发，Rails，iOS，Android，PHP）*
 
 #### [Learn CSS Layout](https://learnlayout.com/)
@@ -80,6 +80,10 @@
 #### [Software Carpentry](https://software-carpentry.org/lessons/)
 **免费**为研究人员提供基础编码和数据科学技能.\
 *（Python，R，OpenRefine，Unix Shell，Git）*
+
+#### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
+**免费**通过创建逐步构建的小型应用程序来教授Java编程\
+*（Java，OOP，Gradle，Maven，Spring Boot）*
 
 ## Intermediate
 
@@ -154,7 +158,7 @@
 *（各种计算机科学学科，包括理论与编程，数据科学，算法等）*
 
 #### [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
-**Free** university-level courses scoured from around the internet.\
+从互联网上搜寻到的**免费**大学水平课程.\
 *（各种各样和广泛的计算机科学主题，...）*
 
 #### Metacademy [Roadmaps](https://metacademy.org/roadmaps/), [Course Guides](https://metacademy.org/course_guides/)

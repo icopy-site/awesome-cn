@@ -42,7 +42,7 @@
 * [pumice](https://github.com/ryutamaki/pumice) -zsh的轻量级插件管理器.
 * [pure](https://github.com/sindresorhus/pure) -漂亮，最小和快速的ZSH提示.
 * [slimzsh](https://github.com/changs/slimzsh) -ZSH的小型可用配置.
-* [zeesh](https://github.com/zeekay/zeesh) - Cross-platform Zsh framework.
+* [zeesh](https://github.com/zeekay/zeesh) -跨平台的Zsh框架.
 * [zgen](https://github.com/tarjoilija/zgen) -ZSH的轻巧简单的插件管理器.
 * [zilsh](https://github.com/zilsh/zilsh) -Zsh配置系统，旨在吸引更多高级用户，并遵循vim病原体的简单方法.
 * [zim](https://github.com/Eriner/zim) -具有惊人速度和模块化扩展的Zsh配置框架.
@@ -99,7 +99,7 @@
 * [GNU Screen](https://www.gnu.org/software/screen/) -全屏窗口管理器，在多个进程之间多路复用物理终端.
 * [Go2Shell](https://zipzapmac.com/Go2Shell) -在Finder中打开一个指向当前目录的终端窗口.
 * [Hyper](https://github.com/zeit/hyper) -基于网络技术的终端.
-* [iTerm2](https://github.com/gnachman/iTerm2) -适用于macOS的终端模拟器，可完成出色的工作.
+* [iTerm2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
 * [KiTTY](http://kitty.9bis.net/) -从PuTTY的0.70版本分支，这是世界上最好的telnet / SSH客户端.
 * [Konsole](https://konsole.kde.org/) -K桌面环境的终端模拟器.
 * [MacTerm](https://www.macterm.net/) -强大的macOS终端替代品.
@@ -174,7 +174,7 @@
 * [slap](https://github.com/slap-editor/slap) -基于Sublime的基于终端的文本编辑器.
 * [vim](https://www.vim.org/) -可广泛配置，跨平台和高效的文本编辑器.
     * [SpaceVim](https://spacevim.org) -社区驱动的vim分发.
-    * [neovim](https://neovim.io) -从字面上看vim的未来.
+    * [neovim](https://neovim.io) - Literally the future of vim.
 * [vis](https://github.com/martanne/vis) -高效的文本编辑器.
 
 
@@ -221,11 +221,11 @@
 * [neofetch](https://github.com/dylanaraps/neofetch)  -在终端中获取Linux桌面屏幕截图的系统/主题信息.  替代屏幕抓取.
 * [nnn](https://github.com/jarun/nnn) -小巧，快速，功能丰富的文件管理器.
 * [ranger](https://ranger.github.io/) -具有vi键绑定的控制台文件管理器.
-* [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
+* [rebound](https://github.com/shobrook/rebound) -命令行调试器，当您遇到编译器错误时可立即获取堆栈溢出结果.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) -从您的终端浏览Reddit.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) -代码搜索工具，例如ack和the_silver_searcher，但速度更快.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) -在终端中获取Linux桌面屏幕截图的系统/主题信息.
-* [shell2http](https://github.com/msoap/shell2http)  -HTTP服务器执行Shell命令.  专为开发，原型制作或远程控制而设计.
+* [shell2http](https://github.com/msoap/shell2http)  -HTTP服务器执行shell命令.  专为开发，原型制作或远程控制而设计.
 * [streamlink](https://github.com/streamlink/streamlink) -CLI，用于从各种网站提取流到您选择的视频播放器.
 * [taskell](https://taskell.app/) -类似于Trello的命令行看板/ TODO列表.
 * [taskwarrior](https://taskwarrior.org/) -命令行TODO列表管理器.
@@ -236,6 +236,7 @@
 * [tmux](https://tmux.github.io/) -终端多路复用器.
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) -轻松管理复杂的tmux会话.
 * [transfer.sh](https://transfer.sh/) -从您的外壳快速上传和共享文件.
+* [tre](https://github.com/dduan/tre) -改进的`tree`命令，它知道git，创建shell别名以快速打开等等！
 * [vifm](https://vifm.info/) -带有vi键绑定和mutt的一些想法的控制台文件管理器.
 * [wal](https://github.com/dylanaraps/wal) -即时生成和更改colorchemes.
 * [whereami](https://github.com/rafaelrinaldi/whereami) -从CLI获取您的地理位置信息.

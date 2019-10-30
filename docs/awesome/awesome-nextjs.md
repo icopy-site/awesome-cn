@@ -52,7 +52,7 @@
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) -使用Cloud Functions在Firebase中使用Bootstrap托管NextJS应用.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) -带有Next.js和Redux的简单PWA样板.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) -带有电子邮件和oAuth身份验证的Next.js入门项目.
-* [RAN!](https://github.com/sly777/ran) -生产就绪样板，支持GraphQL，SSR，热重载，JS-in-JS，缓存等.
+* [RAN!](https://github.com/sly777/ran) -支持GraphQL，SSR，热重载，CSS-in-JS，缓存等的生产就绪样板.
 * [Next Simple Blog](https://github.com/tscanlin/next-blog) -使用Next.js构建的基于Markdown的简单博客，具有静态导出功能.
 * [Create-Next-App](https://open.segment.com/create-next-app) -Facebook的create-react-app的分支，用于创建下一个应用程序.
 * [phox](https://github.com/herschel666/phox) -创建静态照片博客.
@@ -118,6 +118,7 @@
 * [NPM.js Search Page](https://www.npmjs.com/search) -NPM的搜索页面
 * [Docker Success Center](https://success.docker.com) -Docker成功中心
 * [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) -根据GPLv3许可的德国法律信息系统.
+* [TikTok's HomePage](https://www.tiktok.com/) -TikTok的主页
 
 ## Books
 * [Hands On Next.js](https://www.honext.io/) -一本关于React应用程序通用（服务器）渲染的实用全书.

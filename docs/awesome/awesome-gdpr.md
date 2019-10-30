@@ -27,6 +27,9 @@
 * [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
 * [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
 * [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
+
+## Tools
+* [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) -EDPS检查软件.
   
 ## Incident management
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
@@ -44,7 +47,7 @@
 ## Organisations / Projects
 * [Electronic Frontier Foundation](https://www.eff.org/) -非营利组织捍卫数字隐私，言论自由和创新.
 * [International Association of Privacy Professionals](https://iapp.org/) -隐私专业人员的资源.
-* [Privacy International](https://www.privacyinternational.org) -慈善机构向希望了解个人，团体和整个社会一切知识的政府和公司发起挑战.
+* [Privacy International](https://www.privacyinternational.org) -挑战政府和公司的慈善机构，他们想了解有关个人，团体和整个社会的所有知识.
 * [NOYB](https://noyb.eu/) -将重要问题引起DPA注意，在民事法院执行法律或直接与公司联系的组织.
 * [GDPR.eu](https://gdpr.eu/) -研究GDPR的组织和个人的资源（非官方网站）.
 * [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) -有关了解和改善隐私和安全性可用性的研究.

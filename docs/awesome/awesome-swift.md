@@ -12,7 +12,7 @@
 
  |  iOS应用|  很棒  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1004 |  十月28，2019
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1005 |  十月29，2019
 
 
 
@@ -120,6 +120,7 @@
 ## Misc
 *其他Swift相关项目* 
 * [Beak](https://github.com/yonaskolb/Beak) -您的Swift脚本的命令行界面.
+* [CodableWrappers](https://github.com/GottaGetSwifty/CodableWrappers) -PropertyWrappers的集合，使可编码类型的自定义序列化变得容易.
 * [Model2App](https://github.com/Q-Mobile/Model2App) -将您的数据模型变成可以正常使用的CRUD应用.
 * [SwagGen](https://github.com/yonaskolb/SwagGen) ：penguin：-一个命令行工具，用于基于Stencil模板从Swagger规范生成REST API.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) -导致编译器崩溃的测试用例集合.
@@ -377,7 +378,7 @@
 * [Himotoki](https://github.com/ikesyo/Himotoki) -类型安全的JSON解码库.
 * [JASON](https://github.com/delba/JASON) -JSON分析具有出色的性能和方便的运算符.
 * [JSONCodable](https://github.com/matthewcheok/JSONCodable) -轻松的JSON编码和解码.
-* [JSONHelper](https://github.com/isair/JSONHelper) -适用于iOS和OS X的快速JSON反序列化和值转换库.
+* [JSONHelper](https://github.com/isair/JSONHelper) - Lightning fast JSON deserialization and value conversion library for iOS & OS X.
 * [JSONNeverDie](https://github.com/johnlui/JSONNeverDie) -从JSON到模型的自动反映工具，用户友好的JSON编码器/解码器，旨在永生不死.
 * [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) -JSON对象映射器.
 * [PMJSON](https://github.com/postmates/PMJSON) -JSON编码/解码库.
@@ -1102,7 +1103,7 @@
 * [KALoader](https://github.com/Kirillzzy/KALoader) -漂亮的动画占位符，用于显示数据加载.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) -一个UINavigationController子类，该子类支持带有隐藏或显示的弹出交互式UINavigationBar.
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) -嵌入式通用库可帮助您管理导航栏样式，并使过渡动画在不同导航栏样式之间平滑过渡，同时为所有方向推动或弹出视图控制器.
-* [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
+* [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) -一个UITextView子类，它添加了对多行占位符的支持.
 * [LeeGo](https://github.com/wangshengjia/LeeGo) -以制作乐高积木的方式进行声明式，可配置和高度可重用的UI开发.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) -一个命令行工具，可自动生成所有依赖项的Plist.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) -带液体动画的微调加载程序组件.
@@ -1121,7 +1122,7 @@
 * [MultiSlider](https://github.com/yonat/MultiSlider) -具有多个拇指和值，范围突出显示，可选的捕捉间隔，可选的值标签（垂直或水平）的UISlider克隆.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) -UIScrollView的简单视差标头.
 * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) -提供了替代本机iOS UIModalPresentationFormSheet的功能，增加了对iPhone的支持，并提供了设置控制器尺寸和外观的更多机会.
-* [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) -针对iOS 7及更高版本进行了优化的下一代“不断增长的文本视图”.
+* [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - The next in the generations of 'growing textviews' optimized for iOS 7 and above.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) -漂亮的加载动画的集合.
 * [OverlayContainer](https://github.com/applidium/OverlayContainer) -OverlayContainer使开发基于叠加层的界面变得更加容易，例如Apple Maps或Stocks应用程序中提供的界面.
 * [PPAssetsActionController](https://github.com/pantuspavel/PPAssetsActionController) -具有资产预览功能的高度可定制的动作表控制器.
@@ -1174,7 +1175,7 @@
 * [PopupDialog](https://github.com/orderella/PopupDialog)  -一个简单的，可自定义的弹出对话框.  替换UIAlertController警报样式.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) -动画警报视图.
 * [Sheet](https://github.com/ParkGwangBeom/Sheet) -具有导航功能（如Flipboard App）的操作表.
-* [SPAlert](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+* [SPAlert](https://github.com/ivanvorobei/SPAlert)  -AppStore中Apple Music＆Feedback中的本机弹出窗口.  包含完成和心脏预设.
 * [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) -显示类似Apple系统的自动隐藏状态警报，而不会中断用户流程.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) -警报系统.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) -设计自定义提示，并提供多种选择.
@@ -1330,7 +1331,7 @@
 * [DTPagerController](https://github.com/tungvoduc/DTPagerController) -容器视图控制器，用于在水平滚动视图中显示一组ViewController.
 * [ESTabBarController](https://github.com/eggswift/ESTabBarController) -高度可定制的TabBarController组件，该组件继承自UITabBarController.
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) -轻巧的自定义标签栏视图.
-* [PolioPager](https://github.com/YuigaWada/PolioPager) - A flexible TabBarController with search tab like SNKRS.
+* [PolioPager](https://github.com/YuigaWada/PolioPager) -带有搜索选项卡（如SNKRS）的灵活TabBarController.
 * [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) -分页视图控制器和滚动选项卡视图.
 
@@ -1440,7 +1441,7 @@
 * [ApplyStyleKit](https://github.com/shindyu/ApplyStyleKit) -优雅地，使用“方法链”将样式应用于UIKit.
 * [Basis](https://github.com/typelift/Basis) -纯声明式编程.
 * [Bow](https://github.com/bow-swift/bow) -用于类型化功能编程的同伴库.
-* [Butterfly](https://github.com/wongzigii/Butterfly) -轻量级的库，用于将错误报告和反馈功能与震动事件集成在一起.
+* [Butterfly](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [CallbackURLKit](https://github.com/phimage/CallbackURLKit) -实现x-callback-url（应用间通信）.
 * [Closures](https://github.com/vhesener/Closures) -UIKit和Foundation的Swifty闭包.
 * [Codextended](https://github.com/JohnSundell/Codextended) -赋予Codable API类型推断超能力的扩展.

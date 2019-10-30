@@ -103,7 +103,7 @@
 * [Featuretools](https://github.com/Featuretools/featuretools) -自动化功能工程.
 
 ### Feature Selection
-* [scikit-feature](https://github.com/jundongl/scikit-feature) -python中的功能选择存储库.
+* [scikit-feature](https://github.com/jundongl/scikit-feature) -python中的功能选择存储库。
 
 ## Visualization
 * [Matplotlib](https://github.com/matplotlib/matplotlib) -使用Python进行绘图.
@@ -131,7 +131,7 @@
 * [Auralisation](https://github.com/keunwoochoi/Auralisation) -CNN中的学习功能的听觉化（用于音频）.
 * [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) -CapsNet层的可视化，以更好地了解其工作原理.
 * [lucid](https://github.com/tensorflow/lucid) -神经网络可解释性研究的基础设施和工具的集合.
-* [Netron](https://github.com/lutzroeder/Netron) -用于深度学习和机器学习模型的可视化工具（没有Python代码，但可以可视化大多数Python深度学习框架中的模型）.
+* [Netron](https://github.com/lutzroeder/Netron) -用于深度学习和机器学习模型的可视化工具（没有Python代码，但是可以显示大多数Python深度学习框架中的模型）.
 * [FlashLight](https://github.com/dlguys/flashlight) -适用于您的NeuralNetwork的可视化工具.
 * [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch) -用于pytorch的Tensorboard（以及链接器，mxnet，numpy等）.
 
@@ -149,7 +149,7 @@
 ## Distributed Computing
 * [Veles](https://github.com/Samsung/veles) -分布式机器学习平台.
 * [Jubatus](https://github.com/jubatus/jubatus) -分布式在线机器学习的框架和库.
-* [DMTK](https://github.com/Microsoft/DMTK) -Microsoft分布式机器学习工具包.
+* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) -PArallel分布式深度学习.
 * [Distributed](https://github.com/dask/distributed) -Python中的分布式计算.
 
@@ -168,8 +168,8 @@
 
 <a name="opt"></a>
 ## Optimization
-* [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
-* [scikit-opt](https://github.com/guofei9987/scikit-opt) -启发式算法（遗传算法，粒子群优化，模拟退火，蚁群算法，免疫算法，人工鱼群算法）用于优化.
+* [Spearmint](https://github.com/HIPS/Spearmint) -贝叶斯优化.
+* [scikit-opt](https://github.com/guofei9987/scikit-opt) -用于优化的启发式算法.
 * [SMAC3](https://github.com/automl/SMAC3) -基于顺序模型的算法配置.
 * [Optunity](https://github.com/claesenm/optunity) -是一个包含用于超参数调整的各种优化器的库.
 * [hyperopt](https://github.com/hyperopt/hyperopt) -Python中的分布式异步超参数优化.
@@ -221,7 +221,7 @@
 ## Distributed Computing
 * [Veles](https://github.com/Samsung/veles) -分布式机器学习平台.
 * [Jubatus](https://github.com/jubatus/jubatus) -分布式在线机器学习的框架和库.
-* [DMTK](https://github.com/Microsoft/DMTK) -Microsoft分布式机器学习工具包.
+* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) -PArallel分布式深度学习.
 * [Distributed](https://github.com/dask/distributed) -Python中的分布式计算.
 

@@ -53,7 +53,7 @@
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) -Ruby on Rails应用程序，允许公民“采用”市政基础设施，例如消防栓
 - [airCasting](https://github.com/HabitatMap/AirCasting) -使用智能手机记录，映射和共享健康和环境数据的平台 [:earth_africa:](http://aircasting.org)
 - [alaveteli](https://github.com/mysociety/alaveteli) -为您的辖区提供信息自由请求系统  [:earth_africa:](http://alaveteli.org)
-- [alonetone](https://github.com/sudara/alonetone) -独立的音乐平台，使音乐家可以在非商业，易于使用的环境中托管和分发音乐. [:earth_africa:](https://alonetone.com)
+- [alonetone](https://github.com/sudara/alonetone) -一个独立的音乐平台，使音乐家可以在非商业，易于使用的环境中托管和分发音乐. [:earth_africa:](https://alonetone.com)
 - [asakusaSatellite](https://github.com/codefirst/AsakusaSatellite) -开发人员的实时聊天应用程序 [:earth_africa:](https://www.codefirst.org/AsakusaSatellite)
 - [askaway](https://github.com/askaway/askaway) -在这次选举中向新西兰政党询问您的问题
 - [autolab](https://github.com/autolab/Autolab) -课程管理服务- [:earth_africa:](http://www.autolabproject.com)
@@ -62,7 +62,7 @@
 - [blackCandy](https://github.com/aidewoode/black_candy) -自托管音乐流服务器
 - [brimir](https://github.com/ivaldi/brimir) -使用Ruby on Rails和Zurb Foundation构建的电子邮件服务台
 - [calagator](https://github.com/calagator/calagator) -位于俄勒冈州波特兰市的事件汇总器
-- [calcentral](https://github.com/ets-berkeley-edu/calcentral) -在线门户网站，提供统一和个性化的一站式访问电子邮件，日历，共享文档和班级协作空间的方式 [:earth_africa:](https://calcentral.berkeley.edu)
+- [calcentral](https://github.com/ets-berkeley-edu/calcentral) -一个在线门户网站，提供统一和个性化的一站式访问电子邮件，日历，共享文档和班级协作空间的方式 [:earth_africa:](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) -基于Ruby on Rails的轻量级论坛应用程序  [:earth_africa:](http://codecampo.com)
 - [canvas-lms](https://github.com/instructure/canvas-lms) -由Instructure Inc提供的新的开源学习管理系统  
 - [catarse](https://github.com/catarse/catarse) -全球首个针对创意项目的开源众筹平台  [:earth_africa:](https://catarse.me/)
@@ -75,7 +75,7 @@
 - [crowdAI](https://github.com/crowdAI/crowdai) -通过机器学习挑战平台Open Data争取开放科学. [:earth_africa:](https://www.crowdai.org/)
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) -开源众筹平台
 - [cyberdojo](https://github.com/cyber-dojo/cyber-dojo) -免费的浏览器内编码dojo [:earth_africa:](http://cyber-dojo.org)
-- [danbooru](https://github.com/r888888888/danbooru) -用Rails 3编写的可标记图像板 [:earth_africa:](http://testbooru.donmai.us)
+- [danbooru](https://github.com/r888888888/danbooru) -用Rails 3编写的可标记图像板
 - [dgi-db](https://github.com/griffithlab/dgi-db) -基因组研究所药物基因相互作用数据库的Rails前端
 - [diaper](https://github.com/rubyforgood/diaper) -尿布银行库存系统- [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) -分布式和上下文社交网络 [:earth_africa:](https://diasporafoundation.org)
@@ -115,7 +115,7 @@
 - [openproject](https://github.com/opf/openproject) -基于Ruby on Rails的基于Web的项目管理系统  [:earth_africa:](https://www.openproject.org)
 - [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) -Rails应用程序的镜像  [:earth_africa:](http://www.openstreetmap.org)
 - [ossfriday](https://github.com/ossfriday/ossfriday) -鼓励公司，人员和维护者在每个星期五为开源做出贡献的运动
-- [otwarchive](https://github.com/otwcode/otwarchive) -一个开放源代码Web应用程序，用于托管fanworks档案，包括fanfic，fanart和fan vids  [:earth_africa:](http://archiveofourown.org)
+- [otwarchive](https://github.com/otwcode/otwarchive) -一个开放源代码Web应用程序，用于托管fanworks档案，包括fanfic，fanart和fan vid  [:earth_africa:](http://archiveofourown.org)
 - [passwordPusher](https://github.com/pglombardo/PasswordPusher) -Ruby on Rails应用程序，可通过Web交流密码  [:earth_africa:](https://pwpush.com)
 - [peatio](https://github.com/peatio/peatio) -开源加密货币交易所  [:earth_africa:](http://www.peatio.com)
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) -了解并就您所在地区正在建造和拆除的房屋发表意见
@@ -147,7 +147,7 @@
 - [whitehall](https://github.com/alphagov/whitehall) -内部政府：英国政府的运作方式，运作方式以及参与方式
 
 
-### Tutorials
+### Articles
 
 - [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App)
 - [Ruby on Rails Code Audits: 8 Steps to Review Your App](http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
@@ -165,6 +165,17 @@
 - [Crafting APIs With Rails](https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695)
 - [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
 - [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
+- [Working with the SQL ‘time’ type in Ruby on Rails](https://engineering.ezcater.com/youre-not-in-the-zone)
+- [Upgrading Rails apps with dual boot](https://medium.com/oreilly-engineering/upgrading-rails-apps-with-dual-boot-e5c271e68a6e)
+- [What Are Rails Parameters & How to Use Them Correctly](https://www.rubyguides.com/2019/06/rails-params/)
+- [How to Remove Single Table Inheritance from Your Rails Monolith](https://medium.com/flatiron-labs/how-to-remove-single-table-inheritance-from-your-rails-monolith-c6009239defb)
+- [Build a Rails application with VueJS using JSX](https://nebulab.it/blog/build-rails-application-vuejs-using-jsx/)
+- [How To Add Stimulus to a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-add-stimulus-to-a-ruby-on-rails-application)
+- [How to Write Fast Code in Ruby on Rails](https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails)
+- [Efficient GraphQL queries in Ruby on Rails & Postgres](https://pganalyze.com/blog/efficient-graphql-queries-in-ruby-on-rails-and-postgres)
+- [Fetching millions of rows from PostgreSQL with Rails](https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5)
+- [Implementing Multi-Table Full Text Search with Postgres in Rails](https://thoughtbot.com/blog/implementing-multi-table-full-text-search-with-postgres)
+- [Ruby on Rails ActiveRecord PostgreSQL Data Integrity and Validations](https://pawelurbanek.com/rails-postgresql-data-integrity)
 
 
 ### Other Rails Tools
@@ -179,7 +190,6 @@
  |  发电机|  准备运行|  复杂应用|  设置git |  Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
 | [Rails Composer](https://github.com/RailsApps/rails-composer) |  是的，但是需要配置Stripe |  带有条带化的SaaS的示例应用程序.  |  是的  是
-| [Hobo](http://www.hobocentral.net)  |  Rails版本问题，如果使用最新版本|  似乎根据截屏，对MVC样板有很大帮助.  |  没有  没有
 
 
 #### DevTools

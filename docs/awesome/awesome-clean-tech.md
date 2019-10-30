@@ -24,7 +24,11 @@
 
 - [AquaAgro](https://aquaagro.smartcube.pk/)  |  巴基斯坦卡拉奇|  2018年
 
- 提供用于精确农业的解决方案，使农民能够监控自己的作物并做出更好的决策.  他们的设备和平台可以为灌溉计划，肥料需求，病虫害预测和植物病害检测做出预测. 
+ 为精确农业提供解决方案，使农民能够监控自己的作物并做出更好的决策.  他们的设备和平台可以为灌溉计划，肥料需求，病虫害预测和植物病害检测做出预测. 
+
+- [Bowery Farming](https://boweryfarming.com)  |  美国纽约|  2015年
+
+  与传统农业相比，他们的室内垂直农场在城市内本地生产的土地用水量减少了95％，无农药，生产力提高了100倍.
 
 - [Droneseed](https://www.droneseed.co/)  |  美国西雅图|  2015年
 
@@ -52,11 +56,11 @@
 
 - [Peckas Tomater](http://www.peckas.com)  |  瑞典|  2015年
 
-   结合了番茄和养鱼场的养殖系统，鱼池中的废水可滋养番茄，而番茄床又可以净化流回鱼池的水.  他们的鱼生长时不使用抗生素，而且伴侣不需要肥料.
+   结合了番茄和养鱼场的系统，鱼池中的废水可滋养番茄，而番茄床又可以净化流回鱼池的水.  他们的鱼生长时不使用抗生素，而且伴侣不需要肥料.
 
 - [Phytoponics](https://phytoponics.com/)  |  英国|  2016年
 
-   生产商业规模的水培种植系统，该系统比传统的水培系统更便宜，更易于安装和维护.  目标是以较低的投资额带来水培优势（更少的水和土地，更稳定的产量）.
+   生产商业规模的水培种植系统，该系统比传统的水培系统便宜，易于安装和维护.  目标是以较低的投资额带来水培优势（更少的水和土地，更稳定的产量）.
 
 - [Solar Foods](https://solarfoods.fi/)  |  芬兰|  2017年
 
@@ -92,15 +96,15 @@
 
 - [The Ocean Cleanup](https://theoceancleanup.com/)  |  荷兰|  2013年
 
-  开发了一种被动收集海洋垃圾的技术，目标是到2040年清洁海洋中90％的塑料废料.2018年，他们将解决方案部署到了Great Pacific Garbage Patch.
+  开发了一种被动收集海洋垃圾的技术，目标是到2040年清洁海洋中90％的塑料废料.2018年，他们将解决方案部署在了大太平洋垃圾场中.
 
 - [Orbital Systems](https://orbital-systems.com/)  |  瑞典|  2012年
 
-   与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
+   与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水量减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
 
 - [Refill App](https://refill.org.uk/)  |  英国|  2015年
 
-   这是一个应用程序，可让您在英国各地找到免费的注水站.  目前，全国有超过20,000个免费电台.  该应用程序还跟踪保存的瓶子，节省的碳并在您每次向保护地球的露营地重新填充瓶子时捐赠13便士.
+  This is an app which lets you find free water refill stations across the UK. Currently there are more than 20,000 free stations across the nation. The app also tracks saved bottles, saved carbon and donates 13p every time you refill a bottle to planet protecting campaings.
 
 - [Seabin Project](https://seabinproject.com/)  |  澳大利亚|  2016年
 
@@ -118,7 +122,7 @@
 
 - [ElectricityMap.org](https://www.electricitymap.org/)  |  丹麦/法国|  2017年
 
-  一家软件公司，可根据开源贡献访问90多个国家/地区的电力来源及其相关碳排放的实时和历史数据.
+  A software company offering access to live and historical data of the origin of electricity and its associated carbon emissions in 90+ countries, based on open-source contributions.
 
 - [Gogoro](https://www.gogoro.com/) | Taiwan | 2011
 
@@ -182,13 +186,13 @@
 
 - [Vestas](https://www.vestas.com/)  |  丹麦|  1945年
 
-  Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
+   风力涡轮机的制造商，销售商，安装商和服务商.  截至2019年，维斯塔斯已在五大洲的80多个国家安装了超过66,000台风力涡轮机，容量达到100 GW.
 
 ### Social Impact
 
 - [Billions in Change](https://billionsinchange.com/)  |  美国|  2015年
 
-   变革中的数十亿美元开发和提供的发明可以帮助世界上不幸的一半地区获得基本需求，例如干净的水，可靠的电力和充足的食物.  这些基本要素为教育，健康和生计奠定了基础，使人们能够改善自己和家人的生活.
+   十亿个变革中的发明的发展和交付，可以帮助不幸的世界另一半获得基本需求，例如清洁水，可靠的电力和充足的食物.  这些基础为教育，健康和生计奠定了基础，使人们能够改善自己和家人的生活.
 
 - [Doconomy](https://doconomy.com/)  |  瑞典|  2018年
 
@@ -232,7 +236,7 @@
 - [Environmental Protection Agency](https://www.epa.gov/climate-research) -研究气候变化的影响和解决方案.
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) -联合国评估与气候变化有关的科学的机构.
 - [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) -提供以解决方案为导向的政策途径，以管理全球公域，以促进可持续发展和人类福祉.
-- [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
+- [NASA climate](http://climate.nasa.gov/) -地球的重要迹象，事实和解决方案.
 - [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019)  -其中包含来自多个联合国国家的特定国家/地区气候报告.  它具有2003年以来的数据.
 
 ## License

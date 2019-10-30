@@ -373,7 +373,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 ## Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
--通过模糊测试 [secfigo](https://github.com/secfigo/Awesome-Fuzzing) 和通过 [cpuu](https://github.com/cpuu/awesome-fuzzing)
+-通过模糊测试 [secfigo](https://github.com/secfigo/Awesome-Fuzzing) 和 [cpuu](https://github.com/cpuu/awesome-fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
@@ -383,6 +383,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 - [History of symbolic execution](https://github.com/enzet/symbolic-execution)
 - [awesome-provable](https://github.com/awesomo4000/awesome-provable)
 - [Visual regression testing](https://github.com/mojoaxel/awesome-regression-testing)
+- [UI Automation Tools](https://github.com/pywinauto/pywinauto/wiki/UI-Automation-tools-ratings)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems)
 - [SecLists](https://github.com/danielmiessler/SecLists) -收集在一个地方收集的用于安全评估的多种类型的列表.
@@ -393,7 +394,6 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung)
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
-- [UI Automation Tools](https://github.com/pywinauto/pywinauto/wiki/UI-Automation-tools-ratings)
 
 ### License
 
