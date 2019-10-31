@@ -6,7 +6,7 @@
 
 &gt;精选的Web组件资源精选列表.
 
-[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) —一套不同的技术，使您可以创建可重用的自定义元素（其功能与其他代码封装在一起），并在Web应用程序中使用它们.
+[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) —一套不同的技术，使您可以创建可重用的自定义元素（其功能与其余代码封装在一起），并在Web应用程序中使用它们.
 
 
 
@@ -48,6 +48,11 @@
 - [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) -由Google Chrome小组提供的文档.
 - [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) -Chrome平台状态中的功能.
 - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
+
+#### Custom State Pseudo class
+
+- [Blink: Intent to implement](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/CApU9QIu3TM)
+- [`ElementInternals`'s `states` property and the `:state()` pseudo class](https://github.com/w3c/webcomponents/blob/gh-pages/proposals/custom-states-and-state-pseudo-class.md)
 
 #### Constructable Stylesheet Objects
 
@@ -283,7 +288,7 @@
 ## History
 
 以下文章代表了Web组件规范在实现标准化方面的悠久历史.
-其中一些参考了早期的所谓“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
+其中一些参考了早期的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
 这些材料仅出于历史原因在这里，它们按年份分组并按时间顺序列出.
 
 ### 2017
@@ -372,7 +377,7 @@
       <td align="center">
         <a href="https://twitter.com/ebidel">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/955031454781616129/JRpZOp1l_80x80.jpg">
-          <div>埃里克·比德尔曼（Eric Bidelman） </div>
+          <div>埃里克·比德尔曼</div>
         </a>
       </td>
       <td align="center">

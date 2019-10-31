@@ -1,5 +1,6 @@
 <div class="github-widget" data-repo="viatsko/awesome-vscode"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 <br/>
 <div align="center">
   <img width="380px" src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">
@@ -45,6 +46,7 @@
 - [Hack(HHVM)](https://marketplace.visualstudio.com/items?itemName=pranayagarwal.vscode-hack)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [Hive SQL](https://marketplace.visualstudio.com/items?itemName=josephtbradley.hive-sql)
+- [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)
 - [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [LaTeX](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support)
@@ -187,6 +189,8 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode#overview) -从Sublime Text移植的Babel扩展
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) -该扩展程序提供了AI辅助的开发功能，包括自动完成和基于了解您的代码上下文的其他见解.
+![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
 看这两者之间的区别 [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
@@ -305,6 +309,12 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 - [Terraform](https://marketplace.visualstudio.com/items?itemName=mauve.terraform) -对Hashicorp的Terraform进行语法高亮显示，修饰，格式化和验证
 
 ## Productivity
+
+## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
+
+ &gt;显示Azure资源管理器（ARM）模板的图形预览.  该视图将显示带有正式Azure图标的所有资源，以及资源之间的链接.
+
+![Displays a graphical preview of Azure Resource Manager (ARM) templates](https://github.com/benc-uk/armview-vscode/raw/master/assets/readme/screen1.png)
 
 ## [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
 
@@ -597,7 +607,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
 
-> Allows you to toggle your formatter on and off with a simple click
+&gt;只需单击一下，即可打开和关闭格式化程序
 
 ## [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
@@ -639,6 +649,12 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 ## Uncategorized
+
+## [Ascii Tree Generator](https://marketplace.visualstudio.com/items?itemName=aprilandjan.ascii-tree-generator)
+
+&gt; VS Code扩展，可生成目录的ascii树或将选定的文本格式化为树字符串.
+
+![Ascii Tree Generator Demo](https://raw.githubusercontent.com/aprilandjan/ascii-tree-generator/master/images/text.gif)
 
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
@@ -798,6 +814,14 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## Syntax
 
+### [2077 theme by Endormi](https://vscodethemes.com/e/Endormi.2077-theme)
+
+赛博朋克2077灵感主题
+
+<a href="https://vscodethemes.com/e/Endormi.2077-theme">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/endormi.2077-theme.png" width="600" />
+</a>
+
 ### [An Old Hope Theme by Dustin Sanders](https://vscodethemes.com/e/dustinsanders.an-old-hope-theme-vscode)
 
 VSCode主题的灵感来自遥远的星系...
@@ -820,6 +844,14 @@ VSCode主题的灵感来自遥远的星系...
 
 <a href="https://vscodethemes.com/e/akamud.vscode-theme-onedark">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/akamud.vscode-theme-onedark.png" width="600" />
+</a>
+
+### [Atomize by emroussel](https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme)
+
+详细而准确的Atom One Dark主题.
+
+<a href="https://vscodethemes.com/e/emroussel.atomize-atom-one-dark-theme">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/atomize.png" width="600" />
 </a>
 
 ### [Ayu by teabyii](https://vscodethemes.com/e/teabyii.ayu)
@@ -872,7 +904,7 @@ VSCode主题的灵感来自遥远的星系...
 
 ### [Eva Theme by fisheva](https://vscodethemes.com/e/fisheva.eva-theme)
 
-一个丰富多彩的语义着色代码主题.
+A colorful and semantic coloring code theme.
 
 <a href="https://vscodethemes.com/e/fisheva.eva-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/fisheva.eva-theme.png" width="600" />
@@ -1012,17 +1044,17 @@ VS Code社区中各种人的Twitter帐户列表
 
 - [@code](https://twitter.com/code) -官方VS Code Twitter
 - [@auchenberg](https://twitter.com/auchenberg) -VS代码计划经理
-- [@BenjaminPasero](https://twitter.com/BenjaminPasero) -VS代码开发
+- [@BenjaminPasero](https://twitter.com/BenjaminPasero) - VS Code Dev
 - [@chrisdias](https://twitter.com/chrisdias) -VS代码计划经理
 - [@_clarkio](https://twitter.com/_clarkio)  -开发者倡导者@ Azure.  VS Code的创作者发布精彩视频
 - [@eamodio](https://twitter.com/eamodio) -GitLens创作者
-- [@ErichGamma](https://twitter.com/ErichGamma) -VS代码开发
-- [@IsidorN](https://twitter.com/@IsidorN) -VS代码开发
-- [@joaomoreno](https://twitter.com/joaomoreno) -VS代码开发
-- [@johannesrieken](https://twitter.com/johannesrieken) -VS代码开发
+- [@ErichGamma](https://twitter.com/ErichGamma) - VS Code Dev
+- [@IsidorN](https://twitter.com/@IsidorN) - VS Code Dev
+- [@joaomoreno](https://twitter.com/joaomoreno) - VS Code Dev
+- [@johannesrieken](https://twitter.com/johannesrieken) - VS Code Dev
 - [@lannonbr](https://twitter.com/lannonbr) -vscode.rocks和JS参数注释扩展程序的创建者
-- [@maeschli](https://twitter.com/maeschli) -VS代码开发
-- [@mattbierner](https://twitter.com/code) -VS代码开发
+- [@maeschli](https://twitter.com/maeschli) - VS Code Dev
+- [@mattbierner](https://twitter.com/code) - VS Code Dev
 - [@MrAhmadAwais](https://twitter.com/MrAhmadAwais)  -JS / WordPress核心开发.  VSCode.pro课程和“紫色阴影”主题的创建者
 - [@ramyanexus](https://twitter.com/ramyanexus)  -VS代码开发  Go扩展的维护者
 - [@Tyriar](https://twitter.com/Tyriar)  -VS代码开发  xterm.js的创建者
@@ -1054,7 +1086,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
-- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一个扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写器等.MarkdownPreview的灵感源自Markdown Preview Plus和RStudio Markdown.
+- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一个扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写者等.MarkdownPreview的灵感源自Markdown Preview Plus和RStudio Markdown.
 
 ## Online Courses
 

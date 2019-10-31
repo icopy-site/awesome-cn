@@ -23,7 +23,7 @@
 
 - [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Vim-fork专注于可扩展性和敏捷性.
 
-## <a name="c-sharp"></a>C#
+## C#
 
 - [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy)  _（标签：简单）_ <br>  一个实时战略游戏引擎，支持早期的Westwood经典游戏，例如Command＆Conquer：Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  音乐游戏.  节奏只需单击一下即可！
@@ -80,7 +80,7 @@
 
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  OpenStreetMap的规范通用品牌名称
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JavaScript中易于使用的OpenStreetMap编辑器.
-- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Mission Control是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
+- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  任务控制是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动Web应用程序，可将希望运送包裹的DAV用户与可在开放和免费市场中寻找工作的自动无人机连接起来.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  流行的语音识别库用于与从网站到智能镜像再到无人机的各种通信.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only)  _（标签：仅限首次）_ <br>  PouchDB是一个袖珍数据库.

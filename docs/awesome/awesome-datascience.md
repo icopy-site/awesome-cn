@@ -31,7 +31,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png)  |  如何选择统计或机器学习技术
 [<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)  |  选择合适的估算器
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png)  |  数据科学行业：谁在做什么
-[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友〜欧拉图
+[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友~~欧拉图
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  |  不同的数据科学技能和角色 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 由Springboard
 [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)  |  一种简单友好的方式来教您的非数据科学家/非统计学家同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) .  从壁虎板 [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
 
@@ -149,6 +149,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Microsoft Research Open Data](https://msropendata.com/)
 * [Open Government Data Platform India](https://data.gov.in/)
 * [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
+* [NAYN.CO Turkish News with categories](https://github.com/naynco/nayn.data)
 
 ## Bloggers
 
@@ -163,7 +164,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Hilary Mason](https://hilarymason.com/) -个人网页
 - [Noah Iliinsky](http://complexdiagrams.com/) -个人博客
 - [Matt Harrison](http://hairysun.com/) -个人博客
-- [Data Science Renee](http://www.becomingadatascientist.com/) 记录我从“攻读工程硕士学位的SQL数据分析师”到“数据科学家”的路径
+- [Data Science Renee](http://www.becomingadatascientist.com/) 记录我从“追求工程硕士学位的SQL数据分析师”到“数据科学家”的路径
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) -万物数据科学
 - [Prash Chan](http://www.mdmgeek.com/) -关于主数据管理及其周围所有嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) -开源数据科学大师
@@ -191,7 +192,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Meta Brown](http://www.metabrown.com/blog/) -个人博客
 - [Data Scientist](http://www.datascientists.net/) 正在建立数据科学家文化.
 - [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多内容，此博客探讨了它对信息技术，商业界，政府机构和我们生活的影响.
-- [Mic Farris](http://www.micfarris.com/) Focusing on science, datascience, business, technology, and channeling inner geekness!
+- [Mic Farris](http://www.micfarris.com/) 专注于科学，数据科学，业务，技术，并引导内在怪癖！
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - 伟大的通知
 - [New Data Scientist](http://newdatascientist.blogspot.com/) 社会科学家如何跳入大数据世界
 - [Harvard Data Science](http://harvarddatascience.com/) -关于统计计算和可视化的思考
@@ -339,7 +340,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Matt Harrison](https://twitter.com/__mharrison__)  -目前正在使用数据科学家的全栈Python专家，作家，讲师的观点.  偶尔做父亲，做丈夫，超终生，有机园艺.
 - [Matthew Russell](https://twitter.com/ptwobrussell) -挖掘社交网络.
 - [Mert Nuhoğlu](https://twitter.com/mertnuhoglu) BizQualify的数据科学家，开发人员
-- [Monica Rogati](https://twitter.com/mrogati)  -数据@ Jawbone.  在LinkedIn上将数据转换为故事和产品.  文本挖掘，应用机器学习，推荐系统.  前游戏者，前机器编码器；  命名者.
+- [Monica Rogati](https://twitter.com/mrogati) - Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer.
 - [Noah Iliinsky](https://twitter.com/noahi)  -可视化和交互设计师.  实用的自行车手.  视觉书籍的作者：http：//www.oreilly.com/pub/au/4419
 - [Paul Miller](https://twitter.com/PaulMiller)  -云计算/大数据/开放数据分析师和顾问.  作家，演讲者和主持人.  Gigaom研究分析师.
 - [Peter Skomoroch](https://twitter.com/peteskomoroch)  -创建智能系统以自动化任务并改善决策.  企业家，前首席数据科学家@LinkedIn.  机器学习，ProductRei，网络
@@ -354,7 +355,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Silvia K. Spiva](https://twitter.com/silviakspiva) - #DataScience at Cisco
 - [Harsh B. Gupta](https://twitter.com/harshbg) -BBVA指南针的数据科学家 
 - [Spencer Nelson](https://twitter.com/spenczar_n) -数据书呆子
-- [Talha Oz](https://twitter.com/tozCSS)  -享受ABM，SNA，DM，ML，NLP，HI，Python，Java.  顶级百分位数kaggler /数据科学家
+- [Talha Oz](https://twitter.com/tozCSS)  -拥有ABM，SNA，DM，ML，NLP，HI，Python，Java.  顶级百分位数kaggler /数据科学家
 - [Tasos Skarlatidis](https://twitter.com/anskarl)  -复杂的事件处理，大数据，人工智能和机器学习.  对编程和开源充满热情.
 - [Terry Timko](https://twitter.com/Terry_Timko)  -InfoGov；  大数据;  数据即服务；  数据科学；  开放，社交和业务数据融合
 - [Tony Baer](https://twitter.com/TonyBaer) -Ovum的IT分析师负责大数据和数据管理以及一些系统工程.
@@ -401,7 +402,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均由基于革命性知识的Wolfram语言提供支持.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
@@ -413,7 +414,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka是用于数据挖掘任务的机器学习算法的集合.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave是一种高级解释语言，主要用于数值计算.（免费Matlab）
  * [Apache Spark](https://spark.apache.org/) 快如闪电的集群计算
- * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) -用于将Apache Spark分析作业和机器学习模型公开为实时，批处理或反应式Web服务的服务.
+ * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) -一种将Apache Spark分析作业和机器学习模型公开为实时，批处理或反应式Web服务的服务.
  * [Caffe](http://caffe.berkeleyvision.org/) 深度学习框架
  * [Torch](http://torch.ch/) LuaJit的科学计算框架
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
@@ -435,6 +436,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Lambdo](https://github.com/asavinov/lambdo) 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
 * [Feast](https://github.com/gojek/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -用于可重现和可扩展的机器学习和深度学习的平台.
+* [LightTag](https://lighttag.io) -团队文字注释工具
 
 ## Visualization Tools - Environments
  
@@ -521,6 +523,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Data science your way](https://github.com/jadianes/data-science-your-way)
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 * [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) 
 
 
 ### Free Courses

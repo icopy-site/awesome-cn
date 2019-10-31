@@ -44,10 +44,11 @@
 
 - [wagtailgmaps](https://github.com/springload/wagtailgmaps) -Wa字段的简单Google Maps地址格式化程序.
 - [Wagtail-Geo-Widget](https://github.com/Frojd/wagtail-geo-widget) -Wa的GeoDjango PointField字段的Google Maps小部件.
+- [wagtail-leaflet-widget](https://github.com/icpac-igad/wagtail-leaflet-widget) -Leaflet JS-基于OSM的w地理定位小部件.
 - [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) -down的Markdown字段和块.
 - [wagtail-autocomplete](https://github.com/wagtail/wagtail-autocomplete) -自动填充“ ForeignKey”，“ ParentalKey”和“ ManyToMany”字段的选择器.
 - [wagtail-instance-selector](https://github.com/ixc/wagtail-instance-selector)  -一个“外键”小部件，用于创建和选择相关项目.  与Django的`raw_id_fields`类似.
-- [wagtail-generic-choooser](https://github.com/wagtail/wagtail-generic-chooser) -为Wagtail管理员提供用于构建选择器弹出窗口和表单小部件的基类，以匹配Wagtail的页面，文档，摘要和图像的内置选择器的外观.
+- [wagtail-generic-choooser](https://github.com/wagtail/wagtail-generic-chooser) -为Wagtail管理员提供用于构建选择器弹出窗口和表单小部件的基类，以匹配Wagtail内置的页面，文档，摘要和图像选择器的外观.
 
 ### StreamField
 
@@ -187,7 +188,7 @@
 - [An Introduction to Wagtail](https://www.youtube.com/watch?v=glIIF-kBXf0) 由Eloise“ Ducky” Macdonald-Meyer撰写-本演讲是Wagtail的简介，Wagtail是基于Python网络框架Django构建的内容管理系统.
 - [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) 由汤姆·戴森（Tom Dyson）撰写-汤姆（Tom）将解释其机构为何决定建立新的CMS，分享在运行不断发展的开源项目中吸取的一些经验教训，并概述Wagtail到第二版及更高版本的路线图. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
 - [Wellington Wagtail CMS Meetup - Meet Wagtail](https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit) 来自Springload开发团队的Josh，Jordi和Rich撰写-Wagtail的入门会议，展示了它所提供的主要功能.
-- [DjangoCon US 2016 - Atomic Wagtail](https://www.youtube.com/watch?v=kqAKiouk1lY)  作者：Kurt Wall –布拉德·弗罗斯特（Brad Frost）的原子设计原则正在席卷我们设计风暴的方式.  我将解释什么是Wa，如何将其与原子设计原则结合使用，并在此过程中遇到一些障碍，并提供有关如何提供帮助的建议.
+- [DjangoCon US 2016 - Atomic Wagtail](https://www.youtube.com/watch?v=kqAKiouk1lY)  作者：Kurt Wall –布拉德·弗罗斯特（Brad Frost）的原子设计原则正在迅速席卷我们设计网络的方式.  我将解释什么是Wa，如何将其与原子设计原则结合使用，并在此过程中遇到一些障碍，并提供有关如何提供帮助的建议.
 - [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) Adam Brenecki撰写的本期讲座探讨了每个CMS的不同方法，优点和缺点，以及它们对于您作为开发人员和内容编辑者的意义.
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) Mikalai Radchuk撰写的-这篇演讲是对俄罗斯Wa的介绍.
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) 由Edd Baldry撰写.
@@ -211,13 +212,13 @@
 - [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) 由Codie Roelf撰写.
 - [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) 由Daniele Procida.
 - [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) 由Michael van Tellingen撰写. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
-- [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) 拉杰夫·J·塞巴斯蒂安（Rajeev J Sebastian）.
+- [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
 - [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) 通过拉斯. [Code](https://github.com/specialunderwear/haunted-wagtail).
 - [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) 由Maarten Kling撰写.
 - [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由汤姆·戴森（Tom Dyson）设计.
 - [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由莱西·威廉姆斯·亨舍尔.
 - [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) 由Ryan Sullivan撰写.
-- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）创作.
+- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）
 - [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) 哈里斯·拉皮罗夫（Harris Lapiroff）撰写.
 - [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) 由Zarina Mustapha提供.
 - [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) 由Ryan Verner撰写.
@@ -256,7 +257,7 @@
 
 ### Podcasts
 
-- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) -在这一集中，汤姆·戴森（Tom Dyson）解释了Wa的创建方式，使其与其他选择区分开来的原因以及何时为项目实施它.
+- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) -在这一集中，汤姆·戴森（Tom Dyson）解释了Wagtail的创建方式，将其与其他选项区分开的地方以及何时为项目实现它.
 
 ### Videos
 
@@ -275,7 +276,7 @@
 ### Showcases
 
 - [Made with Wagtail](https://madewithwagtail.org/) -使用Wagtail CMS制作的网站和应用程序的展示.
-- [Contributed apps and website code](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps.
+- [Contributed apps and website code](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) -第三方贡献的Wagtail网站和应用的临时目录.
 
 ### Lists
 
@@ -318,7 +319,7 @@
 
 ## Contribute
 
-欢迎捐款！
+永远欢迎捐款！
 请阅读 [contribution guidelines](https://github.com/springload/awesome-wagtail/blob/master/.github/CONTRIBUTING.md) 第一.
 
 ## License

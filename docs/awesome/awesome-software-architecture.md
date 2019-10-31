@@ -2,10 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) 旨在描述软件的高级结构以及创建它们的学科. 
+[Software architecture](https://en.wikipedia.org/wiki/Software_architecture)  旨在描述软件的高级结构以及创建它们的学科.  由于该主题范围很广，因此它可能包含的资源也存在于更多细分市场中. 
 
- 想要帮助改善此列表？  首先看一下我们 [code of conduct](https://github.com/simskij/awesome-software-architecture/blob/master/code_of_conduct.md)
-and [contribution guidelines](https://github.com/simskij/awesome-software-architecture/blob/master/contributing.md)!
+ 想要帮助改善此列表？  是的，太棒了！  在开始之前，请先看一下我们 [code of conduct](https://github.com/simskij/awesome-software-architecture/blob/master/code_of_conduct.md) 和 [contribution guidelines](https://github.com/simskij/awesome-software-architecture/blob/master/contributing.md).
 
 
 
@@ -16,7 +15,7 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 - [Software Design Patterns: A Guide](https://airbrake.io/blog/design-patterns/software-design-patterns-guide) -常见软件设计模式简介.
 - [Software Design Patterns and Principes (quick overview)](https://www.youtube.com/watch?v=WV2Ed1QTst8) -常见设计模式的原因及其利弊.
 - [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) -使用单独的接口将读取数据的操作与更新数据的操作分开.
-- [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) -不仅将数据的当前状态存储在域中，还可以使用仅追加存储来记录对该数据执行的全部操作.
+- [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) -而不是仅将数据的当前状态存储在域中，而是使用仅追加存储来记录对该数据执行的全部操作.
 - [Feature Toggles](https://www.martinfowler.com/articles/feature-toggles.html) -功能切换（通常也称为功能标志）是一种强大的技术，可让团队无需更改代码即可修改系统行为.
 - [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2) -BDD使用人类可读的软件用户需求描述作为软件测试的基础.
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) -层是一种分离职责和管理依赖关系的方法.
@@ -24,9 +23,10 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 ## Methodology
 
 - [No silver bullet, by Brooks](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf) -以小幅增长的方式开发软件：orange_book:.
-- [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) -构建可持续和可维护软件的关键原则和概念：orange_book ：.
+- [Clean Architecture, by Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) -构建可持续和可维护软件的关键原则和概念：orange_book ：.
 - [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) -累积技术债务的成本和影响.
-- [The Magic Tricks of Testing, by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M) -简约的理想，是一种实用且务实的软件测试方法.
+- [The Magic Tricks of Testing, by Metz](https://www.youtube.com/watch?v=URSWYvyc42M) -简约的理想，是一种实用且务实的软件测试方法.
+- [TDD, Where did it all go wrong?, by Cooper](https://www.infoq.com/presentations/tdd-original/) -关于TDD做法和界限的建议，以减少耦合.
 
 ## Documentation
 
@@ -80,7 +80,7 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 ### DevOps
 
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) -结合软件开发和运营实践，以缩短上市时间，同时保持高质量.
-- [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) -有关IT，Devops和帮助您赢得业务的商业小说：orange_book：
+- [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) -有关IT，Devops和帮助您赢得业务的商业小说：orange_book ：.
 - [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) -BPDTS如何使用CALMS模型作为其devops适应的参考. 
 - [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) -混沌工程学是软件工程学中的一门新学科，使人们对大规模分布式系统的行为充满信心. 
 

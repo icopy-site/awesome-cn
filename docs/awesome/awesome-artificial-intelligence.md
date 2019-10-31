@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-人工智能（AI）课程，书籍，视频讲座和论文的精选列表.
+精选的人工智能（AI）课程，书籍，视频讲座和论文清单.
 
-贡献最受欢迎.
+贡献最欢迎.
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
@@ -12,81 +12,83 @@
 
 
 ## Courses
-* [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - 麻省理工学院设计的七天训练营，介绍深度学习方法和应用
-* [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - 免费的五周末计划，让自学者学习CNN，LSTM，RNN，VAE，GAN，DQN，A3C等深度学习架构的基础知识
-* [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) -  OpenAI免费深度强化学习课程
-* [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) -  MIT AI课程
-* [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion&a_bid=5d7bc0ba) - 初学者的课程，学习没有框架的深度学习和神经网络.
-* [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271)   - 学习人工智能的基础知识.  课程由Peter Norvig经营
-* [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - 该课程将介绍智能计算机系统设计的基本思想和技术
-* [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - 本课程将教您人工智能的基本方法，包括：概率推理，规划和搜索，定位，跟踪和控制，所有这些都侧重于机器人技术
-* [Machine Learning](https://class.coursera.org/ml-008) - 用于监督和无监督学习的基本机器学习算法
-* [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) - 人工神经网络的算法和实用技巧.
-* [Deep Learning](https://in.udacity.com/course/deep-learning--ud730/) - 深度学习世界的入门课程. 
-* [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014)   - 关于机器学习的入门课程，重点是：线性和多项式回归，逻辑回归和线性判别分析;  交叉验证和引导，模型选择和正则化方法（脊和套索）;  非线性模型，样条和广义加性模型;  基于树木的方法，随机森林和提升;  支持向量机.
-* [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - 佐治亚理工学院关于人工智能的课程，重点是符号AI.
-* [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) -  Deep Reinforcement Bootcamp讲座 -  2017年8月
-* [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) 机器学习速成课程包括一系列课程，包括视频讲座，实际案例研究和动手练习练习.
-* [Python Class By Google](https://developers.google.com/edu/python/)  对于想要学习Python的一点编程经验的人来说，这是一个免费课程.  该课程包括书面材料，讲座视频和许多代码练习，以练习Python编码.
-* [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) 在这个实时视频课程中，机器学习专家Oliver Zeigermann教您深度学习的基础知识.
-* [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) -  Stuart Russell和Peter Norvig
-  *还考虑浏览 [list of recommended reading](http://aima.cs.berkeley.edu/books.html)，除以“人工智能：现代方法”中的每一章.
-* [Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/exec/obidos/ASIN/1558601910) - 人工智能编程范例是第一个在构建主要人工智能系统的背景下教授高级Common Lisp技术的文本
-* [Reinforcement Learning: An Introduction](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html) - 这本关于强化学习的入门教材针对人工智能，运筹学，神经网络和控制系统的工程师和科学家，我们希望心理学家和神经科学家也会对此感兴趣.
-* [The Cambridge Handbook Of Artificial Intelligence](http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915) - 为非专业人士撰写，涵盖了该学科的基础，主要理论和主要研究领域，以及人工生命等相关主题
-* [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind ](http://www.amazon.com/gp/product/0743276647) - 在这本令人瞩目的书中，科学先驱马文·明斯基继续他的开创性研究，为我们的思想如何运作提供了一个迷人的新模型
-* [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677) - 从初级反应因子开始，尼尔森逐渐增加他们的认知能力，以说明人工智能中最重要和最持久的想法
-* [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927&sr=8-11)   - 霍金斯开发了一个关于人类大脑如何工作的强大理论，解释了为什么计算机不智能，以及如何基于这一新理论，我们最终能够建立智能机器.  音频版也可从audible.com获得
-* [How To Create A Mind](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7) -  Kurzweil讨论大脑如何运作，思维如何出现，大脑 - 计算机界面，以及大大增加我们智力的力量来解决世界问题的意义
-* [Deep Learning](http://www.deeplearningbook.org/) -  Goodfellow，Bengio和Courville介绍了深度学习的广泛主题，涵盖了数学和概念背景，工业中使用的深度学习技术以及研究视角. 
-* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) -  Hastie和Tibshirani涵盖了广泛的主题，从监督学习（预测）到无监督学习，包括神经网络，支持向量机，分类树和助推 - 这是任何一本书中对该主题的第一次综合处理.
-* [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go)   - 深度学习和Go游戏教你如何通过构建Go-playing AI将深度学习的力量应用于复杂的人类推理任务.  在让您了解机器和深度学习的基础之后，您将使用Python构建机器人，然后教它游戏规则.
-* [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) -  Deep Learning for Search教您如何利用神经网络，NLP和深度学习技术来提高搜索性能.
-* [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)   -  PyTorch将这些超级大国放在您的手中，提供舒适的Python体验，让您快速入门，然后与您一起成长 - 并且您的深度学习技巧 - 变得更加复杂.  使用PyTorch进行深度学习将使这段旅程充满乐趣.
-* [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) -  Deep Reinforcement Learning in Action向您介绍深度强化学习的基本概念和术语，以及将其实施到您自己的项目中所需的实用技能和技巧.
-* [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) -  Grokking Deep Reinforcement Learning介绍了这种强大的机器学习方法，使用示例，插图，练习和清晰的教学. 
-* [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action教您构建功能齐全的数据分析管道，包括文档和数据搜索以及分布式数据集群.
-* [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) - 关于如何使用Python创建实用NLP应用程序的早期访问书. 
-* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - 早期访问书，介绍最有价值的机器学习技术.
-* [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) -  AI简介是一个免费的在线课程，适合所有有兴趣了解AI的人，AI可能（并且不可能）的人，以及它如何影响我们的生活 - 无需复杂的数学或编程.
+* [MIT: Intro to Deep Learning](https://introtodeeplearning.com) -在麻省理工学院设计的为期7天的训练营，旨在介绍深度学习方法和应用
+* [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) -免费的五周计划，供自学者学习深度学习架构的基础，例如CNN，LSTM，RNN，VAE，GAN，DQN，A3C等
+* [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) -OpenAI提供的免费深度强化学习课程
+* [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) -麻省理工学院AI课程
+* [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion&a_bid=5d7bc0ba) -在没有框架的情况下学习深度学习和神经网络的初学者课程.
+* [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271)  -了解AI的基础知识.  彼得·诺维格（Peter Norvig）开设的课程
+* [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) -本课程将介绍智能计算机系统设计的基本思想和技术
+* [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) -本课程将教您人工智能的基本方法，包括：概率推理，计划和搜索，本地化，跟踪和控制，所有这些都将重点放在机器人技术上
+* [Machine Learning](https://class.coursera.org/ml-008) -用于监督学习和无监督学习的基本机器学习算法
+* [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) -人工神经网络的算法和实用技巧.
+* [Deep Learning](https://in.udacity.com/course/deep-learning--ud730/) -深度学习世界入门课程. 
+* [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014)  -机器学习入门课程，重点是：线性和多项式回归，逻辑回归和线性判别分析；  交叉验证和引导程序，模型选择和正则化方法（岭和套索）；  非线性模型，样条和广义加性模型；  基于树的方法，随机森林和增强；  支持向量机.
+* [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) -佐治亚理工学院的人工智能课程侧重于符号AI.
+* [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) -深度强化训练营讲座-2017年8月
+* [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) 机器学习速成课程提供了一系列课程，包括视频讲座，实际案例研究和动手实践练习.
+* [Python Class By Google](https://developers.google.com/edu/python/)  这是一门免费课程，适合那些有一点编程经验并希望学习Python的人.  该课程包括书面材料，讲座视频和大量的代码练习，以练习Python编码.
+* [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) 在本直播视频课程中，机器学习专家Oliver Zeigermann教您深度学习的基础知识.
+* [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) -斯图尔特·罗素（Stuart Russell）和彼得·诺维格（Peter Norvig）
+  *也可以考虑浏览 [list of recommended reading](http://aima.cs.berkeley.edu/books.html)，按“人工智能：现代方法”中的每一章划分.
+* [Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/exec/obidos/ASIN/1558601910) -AI编程范例是在构建主要AI系统的背景下教授高级Common Lisp技术的第一篇文章
+* [Reinforcement Learning: An Introduction](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html) -这本关于强化学习的入门教科书面向人工智能，运筹学，神经网络和控制系统方面的工程师和科学家，我们希望心理学家和神经科学家也能对此感兴趣.
+* [The Cambridge Handbook Of Artificial Intelligence](http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915) -专为非专业人士撰写，涵盖了该学科的基础，主要理论和主要研究领域，以及相关主题，例如人造生命
+* [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind ](http://www.amazon.com/gp/product/0743276647) -在这本思想扩展的书中，科学先驱Marvin Minsky继续了他的开创性研究，为我们的思想运作提供了一种令人着迷的新模式
+* [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677) -从基本反应剂开始，尼尔森逐渐提高其认知能力，以说明AI中最重要和持久的想法
+* [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927&sr=8-11)  -霍金斯（Hawkins）建立了关于人脑工作原理的有力理论，解释了为什么计算机不是智能的，以及基于这种新理论，我们最终将如何构建智能机器.  音频版本也可从audible.com获得
+* [How To Create A Mind](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8&refRID=0QY72H7NGRYH79R7S3K7) -Kurzweil讨论了大脑如何工作，大脑如何出现，大脑与计算机的接口以及极大地提高我们的智慧解决世界问题的能力的含义
+* [Deep Learning](http://www.deeplearningbook.org/) -Goodfellow，Bengio和Courville介绍了深度学习的广泛主题，涵盖数学和概念背景，行业中使用的深度学习技术以及研究观点. 
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) -Hastie和Tibshirani涵盖了广泛的主题，从监督学习（预测）到无监督学习，包括神经网络，支持向量机，分类树和boosting-这是本书中对该主题的首次全面处理.
+* [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go)  -深度学习和围棋游戏教您如何通过构建围棋AI来将深度学习的功能应用于复杂的人类味觉推理任务.  在向您介绍了机器和深度学习的基础之后，您将使用Python来构建机器人，然后教给它游戏规则.
+* [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) -搜索深度学习可以教您如何利用神经网络，NLP和深度学习技术来提高搜索性能.
+* [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)  -PyTorch将这些超级功能交到您手中，提供舒适的Python体验，可让您快速入门，然后随着您（以及您的深度学习技能）变得更加复杂而与您一起成长.  使用PyTorch进行深度学习将使旅程充满乐趣.
+* [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) -行动中的深度强化学习将教您深度强化学习的基本概念和术语，以及将其实施到您自己的项目中所需的实用技能.
+* [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) -Grokking深度强化学习通过示例，插图，练习和清晰的教学方法引入了这种强大的机器学习方法. 
+* [Fusion in Action](https://www.manning.com/books/fusion-in-action) -“行动中的融合”教您建立功能全面的数据分析管道，包括文档和数据搜索以及分布式数据集群.
+* [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) -关于如何使用Python创建实用的NLP应用程序的早期访问书籍. 
+* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) -介绍最有价值的机器学习技术的抢先体验书.
+* [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai) -介绍如何管理成功的AI项目以及如何将AI应用于现实生活中.
+* [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) -《人工智能入门》是一门免费的在线课程，适合所有有兴趣学习什么是人工智能，人工智能有可能（或不可能）以及它如何影响我们生活的人们，而无需复杂的数学或编程.
 
 ## Books
 
-* [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - 早期访问书，提供机器学习和使用R编程语言的基础知识.
+* [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) -抢先体验手册，提供机器学习和使用R编程语言的基础知识.
+* [How Machine Learning Works](https://www.manning.com/books/how-machine-learning-works)  -Mostafa Samir.  抢先体验书，以一种非主流的方式从实践和理论两个方面介绍了机器学习. 
 
 ## Programming
 
-* [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - 这本畅销的Prolog和人工智能指南专注于使用Prolog的基本机制解决有趣的AI问题的艺术.
+* [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) -该畅销书《 Prolog和人工智能》指南着重于使用Prolog的基本机制解决有趣的AI问题的艺术.
 * [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](http://www.cs.fsu.edu/~cap5605/Luger_0136070477_1.pdf)
 * [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
 * [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
 
 ## Philosophy
 
-* [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G)   - 超级智能问题：当机器在一般情报中超过人类时会发生什么.  一本非常棒的书.
-* [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8)   - 我们的最终发明探索了对不断追求高级AI的危险.  直到现在，人类情报还没有竞争对手.  我们可以与智力相形见绌的众生共存吗？  他们会允许我们吗？
-* [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - 谷歌工程总监雷·库兹威尔（Ray Kurzweil）探索了对大脑进行逆向工程的过程，以准确理解大脑是如何工作的，然后利用这些知识创建出色的智能机器.
-* [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)   -  1980年由philospher John Searle撰写的论文，其中包含着名的“中国室”思想实验.  可能是对拥有“心灵”或“意识”的强AI概念的最着名的攻击，以及对AI和心灵哲学交叉感兴趣的人的有趣阅读.
-* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - 由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写并以刘易斯·卡罗尔（Lewis Carroll）的精神标注“对思想和机器的隐喻赋格”，这一关于数学，对称性和智慧的基本概念的奇妙旅程在1979年赢得了普利策非虚构小说的价格.整个主题是看似“无意义”元素的意义的出现，如1和0，以特殊模式排列.
-* [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - 麻省理工学院物理学教授马克斯·泰格马克（Max Tegmark）讨论了人工智能如何影响犯罪，战争，正义，就业，社会以及我们在近期和远期都能成为人类的感觉.
+* [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G)  -超智能提出以下问题：当机器在一般智能中超过人类时，会发生什么.  一本非常好的书.
+* [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8)  -我们的最终发明探索了盲目追求高级AI的危险.  到目前为止，人类智能还没有竞争对手.  我们可以与智力相形见being的生物共存吗？  他们会允许我们这样做吗？
+* [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) -Google工程总监Ray Kurzweil探索了对大脑进行逆向工程的过程，以精确地了解其工作原理，然后运用这些知识来制造出高度智能的机器.
+* [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)  -哲学家约翰·塞尔（John Searle）在1980年发表的论文，其中包含著名的“中国房间”思想实验.  可能是对具有“思维”或“意识”的强大AI概念最著名的攻击，对于那些对AI与思维哲学交叉感兴趣的人来说，这是有趣的阅读.
+* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) -由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写，并标有“以刘易斯·卡罗尔（Lewis Carroll）精神对机器进行隐喻的赋格”，这一奇妙的旅程进入了数学，对称性和智力的基本概念，并因此赢得了1979年普利策非小说奖.贯穿整个主题的主题是看似无意义的元素（例如1和0）以特殊模式排列的意义的出现.
+* [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) -麻省理工学院物理学教授马克斯·泰格马克（Max Tegmark）讨论了人工智能如何在不久的将来影响犯罪，战争，正义，工作，社会以及我们对人的情感.
 
 
-* [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - 本书由剑桥大学出版社出版，2010年
-* [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - 本书追溯了这一主题的历史，从十八世纪（及早期）先驱的早期梦想到今天的AI工程师更成功的工作.
-* [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - 本课程提供机器学习和统计模式识别的广泛介绍.
-* [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/)   - 本书涵盖了人类活动的计算机模拟，如解决问题和理解自然语言;  计算机视觉;  AI工具和技术;  人工智能编程介绍;  符号和神经网络认知模型;  心灵和智慧的本质;  以及人工智能和认知科学的社会影响.
+* [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) -本书由剑桥大学出版社出版，2010年
+* [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) -本书追溯了该主题的历史，从18世纪（及更早）的先驱者的梦想到如今的AI工程师的更成功的工作.
+* [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) -本课程广泛介绍了机器学习和统计模式识别.
+* [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/)  -本书涵盖人类活动的计算机模拟，例如问题解决和自然语言理解；  计算机视觉;  人工智能工具和技术；  人工智能编程入门；  认知的符号和神经网络模型；  头脑和智力的性质；  以及AI和认知科学的社会意义.
 * [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
-* [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - 本书旨在帮助职前和在职教师了解当前人工智能使用的一些教育含义，以帮助解决问题和完成任务.
-* [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) -  Scholarpedia是由同行评审的开放获取百科全书，由来自世界各地的学者专家编写和维护.
-* [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - 比尔·希巴德（Bill Hibbard）的一本书，结合了几篇同行评审的论文和新材料来分析道德人工智能问题.
-* [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - 关于人工智能和机器学习的一组页面.
-* [R2D3](http://www.r2d3.us/)   - 一个网站，提供从机器学习到统计学的主题的解释.  所有这些都有助于美丽的动画图表和现实生活中的例子  有多种语言版本.
+* [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) -本书旨在帮助在职和在职教师了解当前使用人工智能作为解决问题和完成任务的辅助手段的一些教育意义.
+* [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) -Scholarpedia是由世界各地的学术专家撰写和维护的，经过同行评审的开放获取百科全书.
+* [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) -比尔·希伯德（Bill Hibbard）撰写的书，其中结合了一些同行评审的论文和新材料，以分析道德人工智能的问题.
+* [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) -有关人工智能和机器学习的页面集.
+* [R2D3](http://www.r2d3.us/)  -一个网站，提供有关从机器学习到统计的主题的解释.  所有这些都为美丽的动画图表和现实生活示例提供了帮助.  提供多种语言.
 
 ## Code
 
-* [AIMACode](https://github.com/aimacode)   -  Common Lisp，Java，Python中“人工智能：现代方法”的源代码.  更多来.
-* [FANN](http://leenissen.dk/fann/wp/) - 快速人工神经网络库，原生于C
-* [FARGonautica](https://github.com/Alex-Linhares/FARGonautica)   -  Douglas Hosftadter的流体概念和创意类比博士的源代码.  项目.
+* [AIMACode](https://github.com/aimacode)  -Common Lisp，Java，Python中“人工智能：一种现代方法”的源代码.  还有更多.
+* [FANN](http://leenissen.dk/fann/wp/) -快速人工神经网络库，适用于C语言
+* [FARGonautica](https://github.com/Alex-Linhares/FARGonautica)  -Douglas Hosftadter的流体概念和创意类比博士的源代码.  项目.
 
 ## Videos
 
@@ -94,34 +96,34 @@
 * [Basics of Computational Reinforcement Learning](http://videolectures.net/rldm2015_littman_computational_reinforcement)
 * [Deep Reinforcement Learning](http://videolectures.net/rldm2015_silver_reinforcement_learning)
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
-* [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) -  Facebook的AI研究主任Yann LeCun博士就深度卷积神经网络及其在机器学习和计算机视觉中的应用进行了演讲
-* [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)- 这个交互式的liveVideo课程为您提供了使用AWS进行机器学习的速成课程，教您如何构建一个全功能的预测算法.
-* [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Rep Learning with R in Motion教您使用强大的Keras库及其R语言界面将深度学习应用于文本和图像.
-* [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion不仅教你如何使用单个库或框架，你还会发现如何从头开始构建这些算法！
-* [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - 这个liveVideo分解了关于RL系统如何学习，如何感知和处理环境数据以及如何构建和训练AI代理等关键概念. 
+* [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) -Facebook的AI研究总监Yann LeCun博士就深度卷积神经网络及其在机器学习和计算机视觉中的应用作了演讲
+* [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)-该互动式实时视频课程为您提供了使用AWS进行机器学习的速成班，教您如何构建功能全面的预测算法.
+* [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-使用R in Motion进行深度学习可教您使用功能强大的Keras库及其R语言界面将深度学习应用于文本和图像.
+* [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-探究运动中的深度学习不仅会教您如何使用单个库或框架，而且您实际上会发现如何从头开始完全构建这些算法！
+* [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) -此直播视频分解了关键概念，例如RL系统如何学习，如何感测和处理环境数据以及如何构建和培训AI代理. 
 
 ## Learning
 
 * [Deep Learning. Methods And Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Microsoft Research的免费书籍
-* [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com)   - 神经网络和深度学习目前为图像识别，语音识别和自然语言处理中的许多问题提供了最佳解决方案.  本书将教您神经网络和深度学习背后的核心概念
-* [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - 该教科书基于统一的概率方法，提供机器学习领域的全面和独立的介绍
-* [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)   -  Yoshua Bengio，Ian Goodfellow和Aaron Courville整理了这本目前免费（和草稿版）的深度学习书.  本书保持最新，涵盖了广泛的主题（包括序列到序列学习）.
+* [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com)  -神经网络和深度学习目前为图像识别，语音识别和自然语言处理中的许多问题提供了最佳解决方案.  这本书将教你神经网络和深度学习背后的核心概念
+* [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) -这本教科书基于统一的概率方法，对机器学习领域进行了全面而独立的介绍
+* [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)  -Yoshua Bengio，Ian Goodfellow和Aaron Courville编写了这本关于深度学习的当前免费（和草案版本）的书.  这本书是最新的，涵盖了广泛的主题，包括深度学习（包括序列学习）.
 * [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 * [Machine Learning Mastery](http://machinelearningmastery.com/)
-* [Deep Learning.net](http://deeplearning.net/) -  DL资源的聚合站点
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - 像这个Github，但ML专注
+* [Deep Learning.net](http://deeplearning.net/) -DL资源的聚集站点
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) -像这个Github，但以ML为重点
 * [FastML](http://fastml.com/)
-* [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - 深度学习的粗略学习资源清单
-* [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - 免费的专业和深入的机器学习和数据科学视频教程和课程的集合
-* [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - 免费的专业和深入的人工智能视频教程和课程的集合
-* [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - 一系列免费的专业和深入的深度学习视频教程和课程
-* [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - 入门级机器学习速成课程
-* [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - 从图形结构化数据中学习
-* [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - 聚类图结构化数据
-* [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - 机器学习会议的决策树文件
-* [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - 机器学习会议的梯度提升论文
-* [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - 来自机器学习会议的欺诈检测文件
-* [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) - 使用深度神经网络创建艺术和操纵图像.
+* [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) -深度学习的学习资源清单
+* [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) -一系列免费的专业且深入的机器学习和数据科学视频教程和课程
+* [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) -免费的专业和深度人工智能视频教程和课程的集合
+* [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) -一系列免费的专业和深度学习视频教程和课程
+* [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) -入门级机器学习速成课程
+* [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) -从图结构化数据中学习
+* [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) -集群图结构化数据
+* [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) -来自机器学习会议的决策树论文
+* [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) -来自机器学习会议的梯度提升论文
+* [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) -来自机器学习会议的欺诈检测论文
+* [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) -使用深层神经网络创作艺术并处理图像.
 
 ## Organizations
 
@@ -173,17 +175,17 @@
 
 ## Newsletters
 
-* [AI Digest](https://aidigest.net/) .  每周通讯，以跟上人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
+* [AI Digest](https://aidigest.net/) .  每周新闻通讯，以了解有关AI，机器学习和数据科学的最新信息. [Archive](https://aidigest.net/digests).
 
 ## Misc
 
-* [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - 我们正在认真努力建立一个思维机器
-* [AITopics](http://aitopics.org/) - 大量的AI资源聚合
-* [AIResources](http://airesources.org/) -  AI研究社区的开源软件和开放获取数据目录
+* [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) -我们正竭尽全力打造思想机器
+* [AITopics](http://aitopics.org/) -大量的AI资源整合
+* [AIResources](http://airesources.org/) -面向AI研究社区的开源软件和开放访问数据目录
 * [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Owain Lewis](http://owainlewis.com) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Owain Lewis](http://owainlewis.com) 放弃了此作品的所有版权以及相关或邻近的权利.

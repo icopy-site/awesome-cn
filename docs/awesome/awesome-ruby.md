@@ -61,7 +61,7 @@
 * [Blanket](https://github.com/inf0rmer/blanket) -无效的简单API包装器.
 * [Crepe](https://github.com/crepe/crepe) -瘦API堆栈.
 * [Fast JSON API](https://github.com/Netflix/fast_jsonapi) -用于Ruby对象的快速的JSON：API序列化程序.
-* [Grape](http://www.ruby-grape.org) -一个自以为是的微框架，用于在Ruby中创建类似REST的API.
+* [Grape](http://www.ruby-grape.org) -在Ruby中创建类似于REST的API的自觉的微框架.
 * [Her](https://github.com/remiprev/her)  -将REST资源映射到Ruby对象的ORM.  设计用于构建由RESTful API（而非数据库）支持的应用程序.
 * [jbuilder](https://github.com/rails/jbuilder) -通过构建器风格的DSL创建JSON结构.
 * [jsonapi-rb](http://jsonapi-rb.org) –高效便捷的JSON API（反序列化）库.
@@ -106,7 +106,7 @@
 * [warden](https://github.com/hassox/warden) -通用机架身份验证框架.
 * OAuth：
   * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) -Rails的OAuth2提供程序.
-  * [OAuth2](https://github.com/intridea/oauth2) -用于OAuth 2.0协议的Ruby包装器.
+  * [OAuth2](https://github.com/intridea/oauth2) -OAuth 2.0协议的Ruby包装器.
 
 ## Authorization
 
@@ -159,7 +159,7 @@
 ## CLI Utilities
 
 * [Awesome Print](https://github.com/awesome-print/awesome_print) -用样式漂亮地打印您的Ruby对象-全彩和适当的压痕
-* [Betty](https://github.com/pickhardt/betty)  -命令行的友好英语式界面.  不记得命令了吗？  问贝蒂.
+* [Betty](https://github.com/pickhardt/betty)  -命令行的友好英语式界面.  不记得命令了吗？  问问贝蒂.
 * [colorize](https://github.com/fazibear/colorize) -扩展String类或使用设置文本颜色，背景颜色和文本效果的方法添加ColorizedString.
 * [colorls](https://github.com/athityakumar/colorls) -用彩色和超棒字体图标美化`ls`命令.
 * [formatador](https://github.com/geemus/formatador) -STDOUT文本格式.
@@ -426,7 +426,7 @@
 * [Inch](https://github.com/rrrene/inch) -Inch是基于YARD的用于Ruby代码的文档测量和评估工具.
 * [RDoc](https://github.com/ruby/rdoc) -RDoc为Ruby项目生成HTML和命令行文档.
 * [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation) -从RSpec自动生成API文档.
-* [YARD](http://yardoc.org) -YARD使用户能够生成一致且可用的文档，并且可以非常轻松地将其导出为多种格式.
+* [YARD](http://yardoc.org) -YARD使用户能够生成一致，可用的文档，并且可以非常轻松地将其导出为多种格式.
 
 ## E-Commerce and Payments
 
@@ -478,7 +478,7 @@
 * [RbNaCl](https://github.com/cryptosphere/rbnacl) -Ruby绑定到网络和密码学（NaCl）库.
 * [Sym](https://github.com/kigster/sym)  -基于OpenSSL的省时对称加密gem，使用256位（密码加密）密钥.  从STDIN，文件，ENV或在Mac：OS-X钥匙串上读取密钥.
 * [Symmetric Encryption](http://rocketjob.github.io/symmetric-encryption/)  -透明加密ActiveRecord，Mongoid和MongoMapper属性.  加密配置文件中的密码.  加密整个静态文件.
-* [Themis](https://github.com/cossacklabs/themis) -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有向前保密性的安全套接字.
+* [Themis](https://github.com/cossacklabs/themis) -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有前向保密性的安全套接字.
 
 ## Environment Management
 
@@ -711,6 +711,7 @@
 * [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) -使用Pocketsphinx进行Ruby语音识别.
 * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) -Pragmatic Segmenter是基于规则的句子边界检测工具，可跨多种语言即时使用.
 * [Ruby Natural Language Processing Resources](https://github.com/diasks2/ruby-nlp) -指向Ruby自然语言处理（NLP）库，工具和软件的链接的集合.
+* [Sentimental](https://github.com/7compass/sentimental) -使用Ruby进行简单的情绪分析.
 * [Text](https://github.com/threedaymonk/text) -文本算法的集合，包括Levenshtein距离，Metaphone，Soundex 2，Porter词干和White相似性.
 * [Treat](https://github.com/louismullie/treat) -Treat是用于Ruby中自然语言处理和计算语言学的工具包.
 * [Treetop](https://github.com/cjheath/treetop) -PEG（解析表达式语法）解析器.
@@ -722,7 +723,7 @@
 * [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) -一个简单的Ruby on Rails插件，用于创建和管理Rails项目的面包屑导航.
 * [Gretel](https://github.com/lassebunk/gretel) -Ruby on Rails插件，可以轻松而灵活地创建面包屑.
 * [loaf](https://github.com/peter-murach/loaf) -在Rails应用程序中管理和显示面包屑跟踪-精简和卑鄙.
-* [Simple Navigation](https://github.com/codeplant/simple-navigation) -红宝石，可为Rails 2、3和4，Sintratra或Padrino创建导航（html列表，链接列表或具有多个级别的面包屑）.
+* [Simple Navigation](https://github.com/codeplant/simple-navigation) -用于为Rails 2、3和4，Sinatra或Padrino创建导航（多级html列表，链接列表或面包屑）的红宝石.
 
 ## Networking
 
@@ -747,7 +748,7 @@
 * [NoBrainer](https://github.com/nviennot/nobrainer/) -用于Ruby的RethinkDB ORM
 * [Ohm](https://github.com/soveran/ohm) -用于Redis的对象哈希映射库.
 * [Perpetuity](https://github.com/jgaskins/perpetuity) -使用数据映射器模式的Ruby对象的持久性宝石.
-* [Redis-Objects](https://github.com/nateware/redis-objects) -Redis对象通过Redis宝石上的薄层将Redis数据类型映射到Ruby对象，从而提供了Redish的Rubyish接口.
+* [Redis-Objects](https://github.com/nateware/redis-objects) -Redis对象通过在Redis gem上的薄层将Redis数据类型映射到Ruby对象，从而提供了Redish的Rubyish接口.
 * [ROM](https://github.com/rom-rb/rom) -Ruby Object Mapper（ROM）是一个实验性Ruby库，其目标是提供强大的对象映射功能，而又不限制数据存储的全部功能.
 * [Sequel](https://github.com/jeremyevans/sequel) -Sequel是用于Ruby的简单，灵活且功能强大的SQL数据库访问工具包.
 
@@ -782,7 +783,7 @@
   * [Acts As Tennant](https://github.com/ErwinM/acts_as_tenant) -通过共享数据库策略向Rails应用添加多租户.
   * [Apartment](https://github.com/influitive/apartment) -Rails和ActiveRecord的多租户.
   * [Milia](https://github.com/jekuno/milia) -Rails的非侵入式多租户，支持开箱即用的Devise身份验证.
-*社交
+*社会
   * [Acts As Commentable](https://github.com/jackdempsey/acts_as_commentable) -提供一个可以附加到您应用内任何模型的注释模型.
   * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading)  -类似于act_as_commentable;  但是，利用awesome_nested_set提供了线程注释.
   * [acts_as_follower](https://github.com/tcocca/acts_as_follower) -允许任何ActiveRecord模型遵循其他任何模型.
@@ -1094,13 +1095,13 @@
 *额外
   * [Appraisal](https://github.com/thoughtbot/appraisal) -评估与捆绑程序和rake集成在一起，以针对不同版本的依赖项测试您的库.
   * [gitarro](https://github.com/openSUSE/gitarro) -针对您的GitHub Pull Requests运行，重新触发，处理所有类型和与操作系统无关的测试.
-  * [Knapsack](https://github.com/ArturT/knapsack) -RSpec，Cucumber，Minitest，Spinach和Turnip跨CI节点的最佳测试套件并行化.
+  * [Knapsack](https://github.com/ArturT/knapsack) -跨CI节点针对RSpec，Cucumber，Minitest，Spinach和Turnip的最佳测试套件并行化.
   * [mutant](https://github.com/mbj/mutant) -Mutant是Ruby的突变测试工具.
   * [Parallel Tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
   * [power_assert](https://github.com/k-tsj/power_assert) -Ruby的电源声明.
   * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) -用于构建JMeter测试计划的基于Ruby的DSL.
   * [Spring](https://github.com/rails/spring) -在后台预载Rails环境，以进行更快的测试和Rake任务.
-  * [timecop](https://github.com/travisjeffery/timecop) -提供“时间旅行”和“时间冻结”功能，使测试与时间有关的代码变得非常简单.
+  * [timecop](https://github.com/travisjeffery/timecop) -提供“时间旅行”和“时间冻结”功能，使测试与时间相关的代码变得非常简单.
   * [vcr](https://github.com/vcr/vcr) -记录测试套件的HTTP交互，并在以后的测试运行期间重播它们，以进行快速，确定性和准确的测试.
   * [Zapata](https://github.com/Nedomas/zapata)  -谁有时间编写测试？  这是使他们自我书写的革命性工具.
 
@@ -1153,7 +1154,7 @@
 
 * [anemone](https://github.com/chriskite/anemone) -用于爬网网站的Ruby库和CLI.
 * [LinkThumbnailer](https://github.com/gottfrois/link_thumbnailer)  -Ruby gem，可从给定的URL生成缩略图和视频.  非常类似于带有链接预览的流行社交网站.
-* [Mechanize](https://github.com/sparklemotion/mechanize) -机械化是一个红宝石库，可简化自动网络交互.
+* [Mechanize](https://github.com/sparklemotion/mechanize) -机械化是一个红宝石库，可以轻松实现自动的Web交互.
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes.
 * [Upton](https://github.com/propublica/upton) -包含电池的框架，可轻松进行网页抓取.
 * [Wombat](https://github.com/felipecsl/wombat) -具有优雅DSL的Web抓取工具，可以解析来自网页的结构化数据.

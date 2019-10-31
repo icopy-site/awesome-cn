@@ -21,7 +21,6 @@
 - [Pure](https://github.com/rafaelrinaldi/pure) -的港口 [sindresorhus/pure](https://github.com/sindresorhus/pure) 提示.
 - [Mono](https://github.com/fishpkg/fish-prompt-mono) -没有钟声或口哨声，最小的外壳提示.
 - [Metro](https://github.com/fishpkg/fish-prompt-metro) -具Git意识，空间意识，电力线提示.
-- [Spacefish](https://github.com/matchai/spacefish) -以太空为主题的提示给宇航员.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) -健壮，可识别git的电力线提示.
 
 ### Commands, utilities, functions

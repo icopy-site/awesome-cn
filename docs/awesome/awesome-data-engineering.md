@@ -23,7 +23,7 @@
 	* [Redis](https://redis.io/) 开源，BSD许可的高级键值缓存和存储.
 	* [Riak](http://docs.basho.com/riak/kv/) 分布式数据库旨在通过在多个服务器之间分布数据来提供最大的数据可用性.
 	* [AWS DynamoDB](https://aws.amazon.com/dynamodb/) 快速和灵活的NoSQL数据库服务，适用于所有需要任何规模的一致，单位毫秒毫秒延迟的应用程序.
-	* [HyperDex](https://github.com/rescrv/HyperDex)  HyperDex是可扩展的可搜索键值存储.  已过时.
+	* [HyperDex](https://github.com/rescrv/HyperDex)  HyperDex是可扩展的可搜索键值存储.  不推荐使用.
 	* [SSDB](http://ssdb.io) 高性能NoSQL数据库，支持许多数据结构，是Redis的替代方案
 	* [Kyoto Tycoon](https://github.com/alticelabs/kyoto) Kyoto Tycoon是在Kyoto Cabinet键值数据库之上的轻型网络服务器，旨在实现高性能和并发性
 	* [IonDB](https://github.com/iondbproject/iondb) 微控制器和物联网应用的键值存储
@@ -38,7 +38,7 @@
 	* [Vertica](https://www.vertica.com) 具有广泛分析SQL的分布式MPP列式数据库.
 -文件
 	* [MongoDB](https://www.mongodb.com) 一个开放源代码的文档数据库，旨在简化开发和扩展. 
-		* [Percona Server for MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) Percona Server forMongoDB®是MongoDB®Community Edition的免费，增强，完全兼容，开源的直接替代，其中包括企业级特性.
+		* [Percona Server for MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) Percona Server forMongoDB®是MongoDB®Community Edition的免费，增强，完全兼容，开源的直接替代，其中包括企业级功能.
 		* [MemDB](https://github.com/rain1017/memdb) 分布式事务性内存数据库（基于MongoDB）
 	* [Elasticsearch](https://www.elastic.co/) 实时搜索和分析数据.
 	* [Couchbase](https://www.couchbase.com/) 性能最高的NoSQL分布式数据库.
@@ -49,7 +49,7 @@
 	* [OrientDB](https://orientdb.com) 具有开放源代码商业友好许可证的一种产品中具有文档灵活性的第二代分布式图形数据库.
 	* [ArangoDB](https://www.arangodb.com/) 具有用于文档，图形和键值的灵活数据模型的分布式免费开放源数据库. 
 	* [Titan](https://titan.thinkaurelius.com) 可扩展的图形数据库经过优化，可以存储和查询包含分布在多机集群中的数千亿个顶点和边的图形.
-	* [FlockDB](https://github.com/twitter-archive/flockdb)  Twitter的分布式容错图数据库.  已过时.
+	* [FlockDB](https://github.com/twitter-archive/flockdb)  Twitter的分布式容错图数据库.  不推荐使用.
 - 分散式
 	* [DAtomic](https://www.datomic.com) 完全事务化，可用于云的分布式数据库.
 	* [Apache Geode](https://geode.apache.org/) 一个用于横向扩展应用程序的开源，分布式内存数据库.
@@ -74,7 +74,7 @@
 
 ## Data Ingestion
 * [Kafka](https://kafka.apache.org/) 重新考虑发布-订阅消息传递为分布式提交日志.
-	* [BottledWater](https://github.com/confluentinc/bottledwater-pg)  将数据捕获从PostgreSQL更改为Kafka.  已过时.
+	* [BottledWater](https://github.com/confluentinc/bottledwater-pg)  将数据捕获从PostgreSQL更改为Kafka.  不推荐使用.
 	* [kafkat](https://github.com/airbnb/kafkat) Kafka经纪人的简化命令行管理
 	* [kafkacat](https://github.com/edenhill/kafkacat) 通用命令行非JVM Apache Kafka生产者和使用者
 	* [pg-kafka](https://github.com/xstevens/pg_kafka) PostgreSQL扩展，用于向Apache Kafka生成消息
@@ -89,11 +89,12 @@
 * [FluentD](https://www.fluentd.org) 一个用于统一日志记录层的开源数据收集器.
 * [Embulk](https://www.embulk.org) 开源的批量数据加载器，可帮助在各种数据库，存储，文件格式和云服务之间进行数据传输.
 * [Apache Sqoop](https://sqoop.apache.org) 一种工具，用于在Apache Hadoop和结构化数据存储（例如关系数据库）之间有效地传输批量数据.
-* [Heka](https://github.com/mozilla-services/heka)  轻松进行数据采集和处理.  已过时.
+* [Heka](https://github.com/mozilla-services/heka)  轻松进行数据采集和处理.  不推荐使用.
 * [Gobblin](https://github.com/apache/incubator-gobblin) Linkedin的Hadoop通用数据提取框架
 * [Nakadi](https://nakadi.io) Nakadi是一个开源事件消息平台，在类似于Kafka的队列上提供了REST API.
 * [Pravega](http://www.pravega.io) Pravega为连续和无限制的数据提供了新的存储抽象-流.
 * [Apache Pulsar](https://pulsar.apache.org/) Apache Pulsar是一个开源的分布式pub-sub消息传递系统.
+* [AWS Data Wranlger](https://github.com/awslabs/aws-data-wrangler) 在AWS上处理数据的工具带.
 
 ## File System
 * [HDFS](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
@@ -140,12 +141,12 @@
 * [Hadoop MapReduce](https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) Hadoop MapReduce是一个软件框架，用于轻松编写应用程序，该应用程序以可靠，容错的方式在商品硬件的大型群集（数千个节点）上并行并行处理大量数据（多TB数据集）.
 * [Spark](https://spark.apache.org/)
 	* [Spark Packages](https://spark-packages.org) Apache Spark软件包的社区索引
-	* [Deep Spark](https://github.com/Stratio/deep-spark)  将Apache Spark与其他数据存储连接.  已过时.
+	* [Deep Spark](https://github.com/Stratio/deep-spark)  将Apache Spark与其他数据存储连接.  不推荐使用.
 	* [Spark RDD API Examples](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html) 甄和
 	* [Livy](https://livy.incubator.apache.org) Livy，REST Spark服务器
 * [AWS EMR](https://aws.amazon.com/emr/) 一种Web服务，可轻松快速且经济高效地处理大量数据.
 * [Tez](https://tez.apache.org/) 一个应用程序框架，允许使用复杂的有向无环图来处理数据.
-* [Bistro](https://github.com/asavinov/bistro)  是用于通用数据处理（包括批处理和流分析）的轻量级引擎.  它基于一种新颖的独特数据模型，与通过MapReduce或SQL等传统方法仅设置操作相反，该模型通过*函数*表示数据，并通过*列操作*处理数据.
+* [Bistro](https://github.com/asavinov/bistro)  是用于通用数据处理（包括批处理和流分析）的轻量级引擎.  它基于一种新颖的独特数据模型，该模型通过*函数*表示数据，并通过*列操作*处理数据，这与传统方法（如MapReduce或SQL）中仅设置操作相反.
 -批量ML
 	* [H2O](https://www.h2o.ai/) 快速扩展的机器学习API，适用于更智能的应用程序.
 	* [Mahout](https://mahout.apache.org/) 快速创建可扩展的高性能机器学习应用程序的环境.
@@ -178,7 +179,7 @@
 
 ## Workflow
 * [Luigi](https://github.com/spotify/luigi) Luigi是一个Python模块，可帮助您构建批处理作业的复杂管道.
-	* [CronQ](https://github.com/seatgeek/cronq) 类似cron的应用程序系统. [Used](https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/)  w / Luige.  已过时.
+	* [CronQ](https://github.com/seatgeek/cronq) 类似cron的应用程序系统. [Used](https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/)  w / Luige.  不推荐使用.
 * [Cascading](https://www.cascading.org/) 基于Java的应用程序开发平台.
 * [Airflow](https://github.com/apache/airflow) Airflow是一个用于以编程方式编写，计划和监视数据管道的系统.
 * [Azkaban](https://azkaban.github.io/)  Azkaban是在LinkedIn上创建的用于运行Hadoop作业的批处理工作流作业调度程序.  Azkaban通过工作依赖性解决订购问题，并提供易于使用的Web用户界面来维护和跟踪您的工作流程. 
@@ -200,7 +201,7 @@
 * [Zodiac](https://github.com/CenturyLinkLabs/zodiac) 轻量级工具，可轻松部署和回滚dockerized应用程序
 * [cAdvisor](https://github.com/google/cadvisor) 分析正在运行的容器的资源使用情况和性能特征
 * [Micro S3 persistence](https://github.com/figadore/micro-s3-persistence) 用于将卷数据保存/还原到S3的Docker微服务
-* [Rocker-compose](https://github.com/grammarly/rocker-compose)  具有幂等功能的Docker组合工具，可用于部署由多个容器组成的应用程序.  已过时.
+* [Rocker-compose](https://github.com/grammarly/rocker-compose)  具有幂等功能的Docker组合工具，可用于部署由多个容器组成的应用程序.  不推荐使用.
 * [Nomad](https://github.com/hashicorp/nomad) Nomad是一个集群管理器，设计用于长期服务和短期批处理工作负载
 * [ImageLayers](https://imagelayers.io/) 对Docker映像及其组成的层进行Vizualize
 

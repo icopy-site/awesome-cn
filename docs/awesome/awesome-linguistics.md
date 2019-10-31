@@ -24,7 +24,7 @@
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) -JSON格式的Pan-Romance单词列表.
 
 ### Resources
-*有趣的外部资源清单.*
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) 大型语言注释项目管理指南
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)

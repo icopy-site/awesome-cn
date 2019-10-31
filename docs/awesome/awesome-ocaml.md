@@ -86,7 +86,7 @@
 ## Code Analysis and Linters
 
 - [Mascot](http://mascot.x9c.fr/) -Mascot是OCaml来源的样式检查器
-- [pfff](https://github.com/facebook/pfff) – pfff是一组工具和API，用于执行一些静态分析，动态分析，代码可视化，代码导航或保留样式的源到源转换，例如对源代码进行重构.
+- [pfff](https://github.com/aryx/pfff) – pfff是一组工具和API，用于执行一些静态分析，动态分析，代码可视化，代码导航或保留样式的源到源转换，例如对源代码进行重构.
 - [Infer](https://github.com/facebook/infer) -Infer是用于Java，C和Objective-C的静态分析器
 - [Frama-C](http://frama-c.com) -Frama-C是针对C和C ++的静态分析和形式证明框架
 - [flow](https://github.com/facebook/flow) -flow是JavaScript的静态类型检查器
@@ -369,7 +369,7 @@
   - [Oasis](http://oasis.forge.ocamlcore.org/)  -在OCaml项目中集成配置，构建和安装系统的工具.  它有助于在构建系统中创建标准入口点，并允许外部工具轻松分析项目.
     - [oasis2opam](https://github.com/ocaml/oasis2opam) —将O​​ASIS元数据转换为OPAM软件包描述的工具.
   - [obuild](https://github.com/ocaml-obuild/obuild) –简单的ocaml软件包构建系统.
-  - [dune](https://github.com/ocaml/dune) –用于OCaml的可组合且自以为是的构建系统（以前的jbuilder）
+  - [dune](https://github.com/ocaml/dune) –用于OCaml的可组合且自以为是的构建系统（前jbuilder）
   - [jenga](https://github.com/janestreet/jenga) – Jane Street的Monadic构建系统.
   - [ocamlbuild](http://ocaml.org/learn/tutorials/ocamlbuild/) —编译器随附的构建系统.
   - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) —适用于中小型OCaml项目的易于使用的Makefile.
@@ -500,9 +500,9 @@
     对于Base64，带引号的可打印内容，URL编码和HTML转义，
     [Netmime](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netmime.html)
     用于MIME处理等.请参见[
-    模块（http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html）
+    模块]（http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html）
     在Ocamlnet的手册中.
-  - [tyxml](http://ocsigen.org/tyxml) —用于构建有效的（根据W3C规范）Html和Svg树的库.
+  - [tyxml](http://ocsigen.org/tyxml) —用于构建有效（根据W3C规范）Html和Svg树的库.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml)  – Js_of_ocaml是OCaml字节码到Javascript的编译器.  这样就可以在Web浏览器中运行Ocaml程序.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) -从js_of_ocaml项目轻松导入和导出CommonJS模块.
   - [BuckleScript](https://github.com/bloomberg/bucklescript)  -BuckleScript是OCaml的后端，可以生成可调试的Javascript.  它使OCaml能够无缝集成Java平台.
@@ -522,4 +522,4 @@
 
 * * *
 
- _受到了很棒的项目的启发.  发现 [more awesomeness](https://github.com/bayandin/awesome-awesomeness) ：闪耀：._
+ _受到了很棒的项目的启发.  发现 [more awesomeness](https://github.com/bayandin/awesome-awesomeness) ：sparkles：._
