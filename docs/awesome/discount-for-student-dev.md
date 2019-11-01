@@ -55,7 +55,7 @@
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) [CREDIT]-Digital Ocean为每位报名参加该计划的学生提供$ 50的托管信用额 [Github Student Developer Pack](https://education.github.com/pack).
-  * [RoseHosting](https://www.rosehosting.com) [折扣]-RoseHosting为其所有会员提供20％的经常性折扣 [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html)  每月付款时.  学生可以通过使用优惠券代码“ STUDENT20”来使用折扣.  仅对新客户有效.  不能与其他优惠同时使用.
+  * [RoseHosting](https://www.rosehosting.com) [折扣]-RoseHosting为其所有会员提供20％的经常性折扣 [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) 和 [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
   * [SiteGround](https://www.siteground.com/students-plan.htm) [折扣]-每月$ 1.99美元，而不是每月$ 3.95美元 [StartUp plan](https://www.siteground.com/students-plan.htm).
   * [Education Host](https://education.github.com/pack/redeem/educationhost) [免费]-可免费使用Designer软件包为学生提供1年的虚拟主机托管服务，并提供升级优惠.可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -78,11 +78,12 @@
   * [Amazon Web Services](http://www.awseducate.com/application) [免费]-立即加入AWS Educate，免费访问云内容，培训，协作工具和AWS技术.
   * [Google Cloud Platform](https://cloud.google.com) [暂时免费]-试用教育天数或通过卡详细信息，试用14天或注册一年即可访问Cloud Services和G-Suite.
   * [Heroku](https://heroku.com/github-students) [免费]-灵活，易于使用的平台，用于部署，运行和管理您的应用程序.  通过以下方式免费获得长达两年的业余爱好Dyno [Github Student Developer Pack](https://education.github.com/pack).
+  * [Microsoft Azure]（https://azure.microsoft.com/zh-cn/free/students/）-Microsoft Azure是一组不断扩展的云服务，可帮助您构建，管理和部署应用程序.通过学习云计算技能来提出您的想法，并使用免费的Azure for Students帐户获得$ 100的赠送金额-无需信用卡.
 
 ## Email
 
   * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT]-学生计划每月通过15K封免费电子邮件（通常每天限制为200封免费电子邮件） [Github Student Developer Pack](https://education.github.com/pack).
-  * [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费]-强大的API，可让您轻松发送，接收和跟踪电子邮件.每月最多20,000个电子邮件和100个免费电子邮件验证（长达12个月），可通过 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Mailgun](https://education.github.com/pack/redeem/mailgun) [FREE] - Powerful APIs that enable you to send, receive and track email effortlessly.20,000 free emails and 100 free email validations each month for up to 12 months , available via [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
 
@@ -144,7 +145,7 @@
 
   * [CartoDB](https://cartodb.com/solutions/education-and-research/) [免费/折扣]-免费帐户的其他空间和功能，或付费帐户可享受20％的折扣.
   * [Tableau Desktop](https://www.tableau.com/academic/students) [免费]-一年的学生专业许可证.
-  * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) and [SAS OnDemand Academic](http://www.sas.com/en_us/industry/higher-education/on-demand-for-academics.html)  [免费]-SAS University Edition作为VirtualBox / VMWare的虚拟设备分发.  它在预打包的VM上以NAT模式运行，并托管SAS Studio，以与主机上的浏览器一起使用.  SAS OnDemand托管SAS Studio，无需安装即可在云中使用.  两者对于任何级别的学生和老师都是免费的.
+  * [SAS University Edition](http://www.sas.com/en_us/software/university-edition.html) 和 [SAS OnDem和 Academic](http://www.sas.com/en_us/industry/higher-education/on-dem和-for-academics.html) [FREE] - The SAS University Edition is distributed as a virtual appliance for VirtualBox/VMWare. It runs in NAT mode on the prepackaged VM 和 hosts SAS Studio for use with a browser on the host computer. SAS OnDem和 hosts SAS Studio for use in the cloud without installation. Both are free for students 和 teachers at any level.
 
 
 ## Game Development Tools
@@ -158,13 +159,14 @@
 
 ## Password Managers
  * [1Password](https://www.studentappcentre.com/discounts/1password)  -[免费] 6个月的1Password帐户免费.  （之后使用个人帐户，每月需支付3美元）
- * [RoboForm](https://www.roboform.com/promotions/college) [免费]-免费提供第一年有效大学或学院电子邮件地址的学生和教授（此后每年$ 12）
+ * [Dashlane](https://www.dashlane.com/students) [免费]-为学生提供1年免费的Dashlane Premium，为新用户和现有用户提供合格的学生电子邮件（此后每月$ 3.33）
  * [LastPass](https://lastpass.com/edupromo.php) [免费]-享受6个月的LastPass Premium，以帮助您管理学校的在线生活！
+ * [RoboForm](https://www.roboform.com/promotions/college) [免费]-免费提供第一年有效大学或学院电子邮件地址的学生和教授（此后每年$ 12）
 
 ## Infrastructure Monitoring
  * [Datadog](http://studentpack.datadoghq.com/)  [免费]-Datadog Pro帐户的2年许可证，适用于监视10台服务器.  的一部分 [Github Student Developer Pack](https://education.github.com/pack)
  * [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[免费]-异常，正常运行时间和cron监控.免费的1年小帐户可通过 [Github Student Developer Pack](https://education.github.com/pack).
-  * [LogDNA](https://www.logdna.com/github-students)[免费]-日志管理平台，可从任何来源以任意数量提供任意数量的服务器和应用程序日志的聚合，监视和分析.最高每月50 GB的日志存储空间，可通过以下方式保留14天： [Github Student Developer Pack](https://education.github.com/pack).
+  * [LogDNA](https://www.logdna.com/github-students)[免费]-日志管理平台，可从任何来源以任意数量提供任意数量的服务器和应用程序日志的聚合，监视和分析.高达50 GB /月的日志存储空间，可通过以下方式保留14天： [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Software Packs
 
@@ -173,11 +175,15 @@
   * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [免费]-免费访问选定的英特尔®软件开发产品，包括：英特尔®XDK，英特尔®视频专业分析器，英特尔®System Studio，英特尔®Parallel Studio XE Composer版和英特尔®Parallel Studio XE群集版（包括Fortran）和C / C ++）.
   * [IBM Student Developer Community](https://developer.ibm.com/students/)  [免费]-轻松访问开发下一件伟大作品所需的工具.  享受来自IBM的强大技术和战略资源.
   * [Figure Eight](https://www.figure-eight.com/) [免费]-CrowdFlower现在是图8.图8是数据科学和机器学习团队必不可少的环内AI平台.
-  * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
+  * [Exploratory](https://exploratory.io/) [免费]-Exploratory的简单UI体验使任何人都可以使用数据科学中的最新和最先进的创新来发现深刻的见解.学生注册可用于定价.
 
 ## Learning Resources
  * [Association of Computing Machinery with Digital Library](https://www.acm.org)  [折扣]-通常，访问ACM及其数字图书馆的费用为每年$ 198 USD，但是，当前的IT和计算机科学专业的学生每年只需$ 42 USD.  该数字图书馆允许访问O&#39;Reilly的在线学习平台，该平台通常每月收费39美元.  O&#39;Reilly的在线学习平台就像Netflix，可以通过Pearson，O&#39;Reilly，No Starch Press等发行商的书籍和视频课程来学习材料.
  * [Frontend Masters](https://frontendmasters.com/welcome/github-student-developers/)  [免费]-通过深入的JavaScript，Node.js和前端工程课程提高技能.  通过这门惊人的课程，开始您在FullStack开发领域的职业生涯.  6个月免费访问所有课程和研讨会.
+ * [一个月]（https://onemonth.com/github/students）[免费]-在短短30天内学习HTML，CSS，JavaScript和Python！您将获得30天免费一月订阅.
+  * [Flatiron School]（https://flatironschool.com/github-student-pack/）[免费]-从主要的代码训练营学习Web开发，以启动开发人员.  如果您想逐步进行，这是一个了不起的课程.  社区动力训练营免费为期一个月的会员资格.
+ * [GO RAILS]（https://gorails.com/github-students）[免费]-针对Web开发人员的教程，用于学习Ruby，Rails，Javascript，Turbolinks，Stimulus.js，Vue.js等.  12个月内免费访问所有视频和课程.
+* [Thinkful]（https://www.thinkful.com/github-student-developer-pack/）[免费]-学习Web开发基础知识以开始您的开发生涯.访问Web开发课程至少1个月.
 
 ## License
 

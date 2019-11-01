@@ -46,7 +46,7 @@
 
 ## Dart
 
-- [dart.dev](https://github.com/dart-lang/site-www/labels/beginner)  _（标签：初学者）_ <br>  一个面向Dart库，Web应用程序，服务器端代码和移动（Flutter）应用程序开发人员的，涵盖Dart语言和公共库的网站.
+- [dart.dev](https://github.com/dart-lang/site-www/labels/beginner)  _（标签：初学者）_ <br>  一个涵盖Dart语言和公共库的网站，面向Dart库，Web应用程序，服务器端代码和移动（Flutter）应用程序的开发人员.
 
 ## Elixir
 

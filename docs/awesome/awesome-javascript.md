@@ -103,7 +103,7 @@
 * [ESLint](https://github.com/eslint/eslint) -完全可插拔的工具，用于识别和报告JavaScript模式.
 * [JSLint](https://github.com/douglascrockford/JSLint) -高标准，严格和自以为是的代码质量工具，旨在仅保留部分语言.
 * [JavaScript Standard Style](https://github.com/feross/standard) -固执己见的，无配置的样式指南，样式检查器和格式化程序
-
+* [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) -在构建时预先评估您的前端javascript代码
 
 ## MVC Frameworks and Libraries
 
@@ -117,7 +117,7 @@
 * [knockout](https://github.com/knockout/knockout) -淘汰赛可让您更轻松地使用JavaScript创建丰富的响应式UI.
 * [spine](https://github.com/spine/spine) -用于构建JavaScript应用程序的轻量级MVC库.
 * [espresso.js](https://github.com/techlayer/espresso.js) -用于制作用户界面的最小JavaScript库.
-* [canjs](https://github.com/canjs/canjs) -可以做JS，更好，更快，更容易.
+* [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/)  -用于构建用户界面的库.  它具有声明性，高效且极为灵活.  与虚拟DOM一起使用.
 * [hyperapp](https://github.com/hyperapp/hyperapp) -用于构建前端应用程序的1kb JavaScript库.
 * [preact](https://github.com/developit/preact)  -使用相同的ES6 API的快速3kb React替代方案.  组件和虚拟DOM.
@@ -182,7 +182,7 @@
 * [three.js](https://github.com/mrdoob/three.js) -JavaScript 3D库.
 * [Chart.js](https://github.com/chartjs/Chart.js)  -使用的简单HTML5图表 <canvas>  标签.
 * [paper.js](https://github.com/paperjs/paper.js) -矢量图形脚本的瑞士军刀–使用HTML5 Canvas将Scriptographer移植到JavaScript和浏览器.
-* [fabric.js](https://github.com/kangax/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
+* [fabric.js](https://github.com/kangax/fabric.js) -JavaScript Canvas库，SVG到画布（和canvas到SVG）解析器.
 * [peity](https://github.com/benpickles/peity)  -渐进式 <svg>  条形图，折线图和饼图.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) -JavaScript矢量库.
 * [echarts](https://github.com/ecomfe/echarts) -企业图表.
@@ -276,7 +276,7 @@
 *用于处理文件的库.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) -强大的CSV库，它支持解析CSV文件/字符串以及导出到CSV.
-* [jBinary](https://github.com/jDataView/jBinary) -具有声明性语法的二进制文件的高级I / O（加载，解析，操作，序列化，保存），用于描述文件类型和数据结构.
+* [jBinary](https://github.com/jDataView/jBinary) -使用声明性语法描述文件类型和数据结构的二进制文件的高级I / O（加载，解析，操作，序列化，保存）.
 * [diff2html](https://github.com/rtfpessoa/diff2html) -Git diff输出解析器和漂亮的HTML生成器.
 * [jsPDF](https://github.com/MrRio/jsPDF) -JavaScript PDF生成.
 * [PDF.js](https://github.com/mozilla/pdf.js) -JavaScript中的PDF Reader.
@@ -345,6 +345,7 @@
 * [jsurl](https://github.com/Mikhus/domurl) -使用JavaScript进行轻量级URL操作.
 * [sprintf.js](https://github.com/alexei/sprintf.js) -sprintf实现.
 * [url-pattern](https://github.com/snd/url-pattern)  -网址和其他字符串比正则表达式字符串匹配模式更容易.  将字符串转换为数据或将数据转换为字符串.
+* [plexis](https://github.com/plexis-js/plexis) -Lo-fi，功能强大，由社区驱动的字符串处理库.
 
 ## Number
 
@@ -400,9 +401,10 @@
 * [q](https://github.com/kriskowal/q) -用于在JavaScript中创建和组合异步承诺的工具.
 * [step](https://github.com/creationix/step/) -异步控制流库，使逐步学习逻辑变得容易.
 * [contra](https://github.com/bevacqua/contra/) -具有功能趣味的异步流控制.
-* [Bluebird](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
+* [Bluebird](https://github.com/petkaantonov/bluebird/) -功能齐全的承诺库，侧重于创新功能和性能.
 * [when](https://github.com/cujojs/when) -可靠，快速的Promises / A +和when（）实现，以及其他异步工具.
 * [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个为事件侦听器添加支持的原型（浏览器上提供的DOMElements具有与EventTarget相同的行为）.
+* [sporadic](https://github.com/marcoonroad/sporadic) -在Promise之上，针对Node和浏览器引擎的可组合并发抽象（例如流，协程和类似Go的通道）.
 
 
 ## Routing
@@ -412,6 +414,7 @@
 * [pathjs](https://github.com/mtrpcic/pathjs) -用于Web浏览器的简单，轻量级路由.
 * [crossroads](https://github.com/millermedeiros/crossroads.js) -JavaScript路由.
 * [davis.js](https://github.com/olivernn/davis.js) -使用pushState的RESTful可降解JavaScript路由.
+* [navaid](https://github.com/lukeed/navaid) -850字节的浏览器导航工具（又名路由器）〜！
 
 
 ## Security
@@ -449,7 +452,8 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的自以为是的REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
+* [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 
 ## Streaming
 
@@ -596,7 +600,7 @@
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) -使用此jQuery插件将简单的文本输入神奇地转换为很酷的标签列表.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) -纯JavaScript掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)  -jQuery插件，用于设置复选框和单选按钮的样式.  有皮肤支持.
-* [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - http://leaverou.github.io/awesomplete
+* [awesomplete](https://github.com/LeaVerou/awesomplete)  -超轻巧，可用，美观的自动完成功能，零依赖.  -http://leaverou.github.io/awesomplete
 
 ### Calendar
 
@@ -663,7 +667,7 @@
 
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) -一种简单快速的API，可在您滚动时监视元素.
 * [headroom](https://github.com/WickyNilliams/headroom.js)  -给页面留出一些空间.  隐藏标题，直到需要它为止.
-* [onepage-scroll](https://github.com/peachananr/onepage-scroll) -使用“一页滚动”插件创建类似苹果的一页滚动器网站（iPhone 5S网站）.
+* [onepage-scroll](https://github.com/peachananr/onepage-scroll) -使用“一页滚动”插件创建一个类似苹果的一页滚动器网站（iPhone 5S网站）.
 * [iscroll](https://github.com/cubiq/iscroll) -iScroll是一种高性能，占用空间小，无依赖项的多平台JavaScript滚动器.
 * [skrollr](https://github.com/Prinzhorn/skrollr)  -适用于移动设备（Android + iOS）和台式机的独立视差滚动库.  没有jQuery.
 * [parallax](https://github.com/wagerfield/parallax) -对智能设备的方向做出反应的视差引擎.
@@ -681,7 +685,7 @@
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)  -jQuery插件，当用户的光标指向特定的下拉菜单项时触发事件.  用于做出像Amazon这样的响应式超级下拉菜单.
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) -contextMenu管理器.
 * [Slideout](https://github.com/mango/slideout) -用于移动Web应用程序的响应式触摸滑出导航菜单.
-* [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) -与touchSwipe库一起使用的滑动式滑动菜单.
+* [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
 
 
 ## Table/Grid
@@ -708,7 +712,7 @@
  * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) -专业的前端模板，用于构建快速，健壮和适应性强的Web应用程序或网站.
  * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) -前端模板，可帮助您构建快速，现代的移动Web应用程序.
  * [webplate](https://github.com/chrishumboldt/webplate) -强大的前端框架，可让您专注于构建网站或应用程序，同时保持真正的易用性.
- * [Cerberus](https://github.com/TedGoas/Cerberus)  -响应HTML电子邮件的一些简单但可靠的模式.  即使在Outlook中.
+ * [Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
  * [full-page-intro-and-navigation](https://github.com/CodyHouse/full-page-intro-and-navigation) -简介页面，具有全角背景图片，大胆的动画菜单以及导航后的类似iOS的模糊效果.
  * [Fluid-Squares](https://github.com/crozynski/Fluid-Squares) -正方形单位的流体网格.
  * [Mobile-First-RWD](https://github.com/bradfrost/Mobile-First-RWD) -移动优先响应式网页设计的示例.

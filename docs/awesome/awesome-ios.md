@@ -878,7 +878,7 @@
 
 ## Math
 
-*数学框架，函数和库，用于自定义操作，统计计算等.*
+*数学框架，函数和库，可进行自定义操作，统计计算等.*
 
 - [Euler](https://github.com/mattt/Euler) -数学表示法的Swift自定义运算符.
 - [SwiftMath](https://github.com/madbat/SwiftMath)  -Swift的数学框架.  包括：向量，矩阵，复数，四元数和多项式.
@@ -2207,7 +2207,7 @@
 
 ### Keyboard
 * [RSKKeyboardAnimationObserver](https://github.com/ruslanskorb/RSKKeyboardAnimationObserver) -在简单的UIViewController类别中显示/关闭键盘动画.
-* [RFKeyboardToolbar](https://github.com/ruddfawcett/RFKeyboardToolbar) -这是一个灵活的UIView和UIButton子类，可将自定义的按钮和工具栏添加到UITextFields / UITextViews.
+* [RFKeyboardToolbar](https://github.com/ruddfawcett/RFKeyboardToolbar) -这是灵活的UIView和UIButton子类，可将自定义的按钮和工具栏添加到UITextFields / UITextViews.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) -无代码的通用库可防止键盘滑落并覆盖UITextField / UITextView.
 * [NgKeyboardTracker](https://github.com/meiwin/NgKeyboardTracker) - Objective-C library for tracking keyboard in iOS apps.
 * [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard) -一个简单的键盘，用于数字和小数点.
@@ -3135,15 +3135,6 @@
 - [@CocoaPods](https://twitter.com/CocoaPods)
 - [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
 - [@RubyMotion](https://twitter.com/RubyMotion)
-
-
-### Facebook Groups
-- [HH iOS](https://www.facebook.com/groups/hhios/about/)
-- [Sketch - Official group](https://www.facebook.com/groups/sketchformac/about/)
-- [Design-Code](https://www.facebook.com/groups/designcode/about/)
-- [Sketch-Design.io](https://www.facebook.com/groups/sketchdesignio/about/)
-- [Origami Community](https://www.facebook.com/groups/origami.community/about/)
-- [Framer JS](https://www.facebook.com/groups/framerjs/about/)
 
 ## Podcasts
 - [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
