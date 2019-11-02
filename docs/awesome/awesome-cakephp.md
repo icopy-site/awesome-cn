@@ -31,6 +31,7 @@
 *用于管理，压缩和最小化网站资产的工具.*
 
 - [AssetCompress plugin](https://github.com/markstory/asset_compress) -CakePHP的完整资产管理器.
+- [AssetMix plugin](https://github.com/ishanvyas22/asset-mix) -提供与 [Laravel Mix](https://laravel-mix.com) 资产编制.
 - [Assets plugin](https://github.com/mirko-pagliai/cakephp-assets) -动态和“即时”资产文件.
 - [Less plugin](https://github.com/elboletaire/less-cake-plugin) -CakePHP的解析器插件更少.
 - [MinifyHtml plugin](https://github.com/WyriHaximus/MinifyHtml) -压缩HTML输出.
@@ -50,7 +51,7 @@
 - [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) -允许使用 [HybridAuth](https://github.com/hybridauth/hybridauth) CakePHP在图书馆的社交标志.
 - [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) -一个用于使用JSON Web令牌进行身份验证的插件.
 - [Authentication plugin](https://github.com/cakephp/authentication) -官方的CakePHP身份验证中间件插件.
-- [Authorization plugin](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
+- [Authorization plugin](https://github.com/cakephp/authorization) -官方CakePHP授权栈.
 - [CakeDC/NavAuth plugin](https://github.com/CakeDC/cakephp-nav-auth)  -使用SOAP或OData服务针对Navision®服务进行身份验证的插件.  它包括NTLM身份验证等.
 - [CakeDC/Users plugin](https://github.com/CakeDC/users) -完整的用户管理（管理面板，记住我等），社交登录（FB，Twitter，LinkedIn，Google，Instagram），RBAC，API等.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) -一个简单的Cake 3插件，可通过Cookie自动验证用户身份.
@@ -100,7 +101,7 @@
 ## Email
 *用于发送和解析电子邮件的插件.
 
-- [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) -电子邮件传输插件，用于通过Elastic Email API发送电子邮件.
+- [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) - Email transport plugin for sending email via Elastic Email API.
 - [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) -具有预览和发件人外壳的电子邮件队列插件.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) -电子邮件帮助程序，布局等.
 - [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) -电子邮件传输插件，用于通过Mailgun发送电子邮件.
@@ -119,7 +120,7 @@
 
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) -抽象文件存储和上传插件.
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) -使用Flysystem进行抽象文件系统访问.
-- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) -使用的可自定义插件 [Flysystem](http://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
+- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
 - [Image plugin](https://github.com/josbeir/image) -图像行为与Cake在TranslateBehavior中内置的行为非常相似.
 - [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) -摘要 [Flysystem](http://flysystem.thephpleague.com/) +基于文件实体的上传插件.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) -具有缩略图生成功能的可自定义上传插件.
@@ -301,7 +302,7 @@
 - [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -生成弹头并按弹头查找记录的插件.  使用可插拔的体系结构，该体系结构允许使用自己的子弹生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) -自动创建和管理您的SEO标签.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) -一个简单的Cake3插件，用于处理字段和按内容查找记录.
-- [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的sl.
+- [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## Skeleton
 *围绕应用程序框架的插件和存储库.*
@@ -331,7 +332,7 @@
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) -一个视图类，可以轻松生成CSV.
 - [Datalist plugin](https://github.com/rrd108/cakephp-datalist) -支持HTML5数据列表元素，并可以在相关模型中创建新条目.
 - [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类，可轻松生成（复杂）RSS feed.
-- [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) -一个插件，可将HTML样式块转换为View模板上的内联CSS（旨在用于电子邮件模板）.
+- [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) -一个插件，可将HTML样式块转换为View模板上的内联CSS（旨在与电子邮件模板一起使用）.
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) -Jade模板引擎插件.
 - [Liquid plugin](https://github.com/gourmet/liquid) -使用Liquid模板语言进行查看的插件.
 - [Meta plugin](https://github.com/dereuromark/cakephp-meta) -使处理元标记和SEO相关的HTML标记DRY变得容易.
@@ -415,7 +416,7 @@
 
 - [AD7six.com](http://AD7six.com) -CakePHP核心开发博客.
 - [CakeDC](http://www.cakedc.com/articles) -关于CakePHP的文章.
-- [dereuromark.de](http://www.dereuromark.de) - An extensive CakePHP core dev blog.
+- [dereuromark.de](http://www.dereuromark.de) -广泛的CakePHP核心开发博客.
 - [florian-kraemer.net](http://florian-kraemer.net) -CakePHP相关的核心开发博客.
 - [jedistirfry.co.uk](http://jedistirfry.co.uk) -一个与CakePHP相关的开发者博客.
 - [josediazgonzalez.com](http://josediazgonzalez.com/) -一个主要与CakePHP相关的核心开发博客.

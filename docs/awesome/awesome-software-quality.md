@@ -127,7 +127,7 @@
 * [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) -Michael Genesereth，Eric Kao（斯坦福大学）
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) -PD Magnus（奥尔巴尼大学）
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) -Stefan Bilaniuk（特伦特大学）
-* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) -乔恩·巴里斯（John J.
+* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) -乔恩·巴里斯（Jon Barwise），约翰·埃特肯迪（John Etchemendy）
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) -Helmut Schwichtenberg
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) -斯蒂芬·辛普森（宾夕法尼亚州立大学）
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) -米格尔·帕洛米诺
@@ -318,7 +318,8 @@
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
 * [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf)  -A.S.  卡姆金
 * [Методы верификации программного обеспечения](https://www.ispras.ru/publications/2008/methods_of_software_verification/)  -V.V.  库利亚明
-
+* [Введение в язык формальной верификации Coq](https://compsciclub.ru/courses/intro-to-coq/2019-autumn/about/) -安东·特鲁诺夫（Anton Trunov）
+* [Введение в верификацию программ](https://www.youtube.com/playlist?list=PLQ-XJe6nVU5BwX1gV80aDhwW0Jt3tipIY) -安东·特鲁诺夫（MITT的特殊课程）
 
 ## Workshops and interactive learning tools
 
@@ -373,7 +374,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 ## Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
--通过模糊测试 [secfigo](https://github.com/secfigo/Awesome-Fuzzing) 和 [cpuu](https://github.com/cpuu/awesome-fuzzing)
+-通过模糊测试 [secfigo](https://github.com/secfigo/Awesome-Fuzzing) 和通过 [cpuu](https://github.com/cpuu/awesome-fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)

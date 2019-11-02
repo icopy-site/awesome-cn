@@ -194,7 +194,7 @@
 
 - [Structure Synth](http://structuresynth.sourceforge.net/) [跨平台]-通过指定设计语法生成3D结构的应用程序.
 - [F3](http://www.syedrezaali.com/f3-mac-app/) [Mac]-强大的3D设计应用程序，可让您实时编写3D表单代码.
-- [Fragment](http://www.syedrezaali.com/store/fragment-osx-app) [Mac]-用于实时编码GLSL图形的应用.
+- [Fragment](https://github.com/rezaali/fragment) [Mac]-用于实时编码GLSL图形的应用.
 - [ShaderTool](http://store.steampowered.com/app/314720/) [Win]-适用于程序员和FX美工的现代着色器IDE.
 - [Syphon](http://syphon.v002.info/) [Mac]-允许应用程序彼此实时共享帧.
 - [KodeLife](https://hexler.net/software/kodelife) -实时GPU着色器编辑器，实时代码性能工具和图形原型画板.
@@ -233,7 +233,7 @@
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
-- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -史蒂文·维滕斯（Steven Wittens）谈论WebGL，GPU和数学.
+- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -Matt DesLauriers的FITC谈谈他对艺术创作的热情.
 
@@ -499,7 +499,7 @@
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) -精选的很棒的OpenGL库，调试器和资源列表.
 - [Awesome webgl](https://github.com/sjfricke/awesome-webgl) -精选的很棒的WebGL库，资源列表等等.
-- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) -精选HTML5画布的精选清单，并提供示例，相关文章和帖子.
+- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) -精选的HTML5画布精选示例，相关文章和帖子的清单.
 - [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) -关于音频可视化的精选列表.
 - [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) -精选的计算机视觉资源精选清单.
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) -精选的推荐研究论文清单和有关数据可视化的其他阅读材料.

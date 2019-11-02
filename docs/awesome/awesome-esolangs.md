@@ -28,11 +28,13 @@
 * [Enterprise™](https://github.com/joaomilho/Enterprise) -非确定性不必要的静态类型语言.
 * [False](http://strlen.com/false-language) -极少使用的语言，实现量很少.
 * [Fetlang](https://github.com/Property404/fetlang) -旨在使源代码看起来像写得不好的恋物癖情色.
+* [Fugue](https://esolangs.org/wiki/Fugue) -音乐作为源代码.
 * [INTERCAL](http://www.catb.org/~esr/intercal/) -拟与其他语言完全不同的模仿语言.
 * [JSFuck](https://github.com/aemkei/jsfuck) -基于JavaScript原子部分的神秘编程风格.
 * [Lazy K](https://tromp.github.io/cl/lazy-k.html) -最小，图灵完整的纯函数式语言，没有其他功能.
 * [LolCode](http://lolcode.org) -具有基于lolcat meme表达式的关键字的语言.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) -以地狱的第8级命名，旨在尽可能地难以编程.
+* [Monicelli](https://github.com/esseks/monicelli) -使用类似意大利文的乱码进行编程.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) -类似于互联网语的语法.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) -基于Brainfuck的语言，其中的命令是猩猩词.
 * [Orca](https://hundredrabbits.itch.io/orca) -Livecoding环境，可快速创建程序音频定序器.
@@ -41,7 +43,7 @@
 * [Piet](http://www.dangermouse.net/esoteric/piet.html)  -使用颜色作为代码的程序看起来像抽象绘画的语言.  以Piet Mondrian的名字命名.
 * [Shakespeare](http://shakespearelang.sourceforge.net) -代码似乎是莎士比亚戏剧的语言.
 * [Suzy](https://github.com/gvx/suzy) -受Befunge启发的3D语言.
-* [Thue](https://github.com/jcolag/Thue) -* Matrioshka *语言，基于半确定语法的不确定性字符串重写.
+* [Thue](https://github.com/jcolag/Thue) -基于半确定语法的不确定字符串重写的* Matrioshka *语言.
 * [Unary](https://esolangs.org/wiki/Unary) -基于Brainfuck的语言，其中所有命令均为0.
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.
 * [Velato](http://velato.net) -使用MIDI文件作为源的语言，程序由音高和音高顺序定义.
@@ -49,6 +51,15 @@
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) -随时随地执行操作的语言.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) -仅使用白色字符（空格，制表符和换行符）.
 * [Z](https://esolangs.org/wiki/Z) -仅使用字母z.
+
+## Algorithms
+
+* [πfs](https://github.com/philipl/pifs) -基于Pi的存储系统，通过搜索pi中的匹配序列来存储数据.
+* [Stacksort](https://gkoberger.github.io/stacksort) -通过在Stack Overflow中搜索答案并执行代码段对列表进行排序，直到将其排序为止.
+
+## Others
+
+* [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) -基于随机动作和奖励/惩罚的操作系统概念.
 
 ## Resources
 
@@ -58,13 +69,14 @@
 * [Esoteric Codes](https://esoteric.codes) -文章和文件收集.
 * [Rosettacode](http://rosettacode.org/wiki/Rosetta_Code) -提供不同语言的示例，包括深奥的语言.
 * [Wikipedia/Esoteric programming languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) -维基百科的深奥语言列表.
-* [On the Turing Completeness Of MS PowerPoint](http://www.andrew.cmu.edu/user/twildenh/PowerPointTM/Paper.pdf) -PowerPoint上的图灵机.
+* [Esolang List of ideas](https://esolangs.org/wiki/List_of_ideas) -汇编深奥语言和相关思想.
 
 ## Articles
 
 * [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) -系列文章，解释了编译器和解释器的基础知识以及如何构建它们.
 * [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) -Yevgeniy Brikman的帖子描述了不常用的不同编程范例.
 * [The Fun (and Madness) of Esoteric Programming Languages](https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages) -简单易懂地介绍了深奥的语言，并附有示例.
+* [On the Turing Completeness Of MS PowerPoint](http://www.andrew.cmu.edu/user/twildenh/PowerPointTM/Paper.pdf) -PowerPoint上的图灵机.
 
 ## Community
 

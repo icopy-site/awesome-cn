@@ -149,7 +149,6 @@
 * [aurora](https://github.com/logrusorgru/aurora) -支持fmt.Printf / Sprintf的ANSI终端颜色.
 * [cfmt](https://github.com/mingrammer/cfmt) -受自举颜色类启发的内容相关的fmt.
 * [chalk](https://github.com/ttacon/chalk) -直观的软件包，用于美化终端/控制台输出.
-* [color](https://github.com/fatih/color) -彩色端子输出的多功能包装.
 * [colourize](https://github.com/TreyBastian/colourize) -在终端中转到ANSI颜色文本的库.
 * [ctc](https://github.com/wzshiming/ctc) -非侵入性跨平台终端颜色库不需要修改Print方法.
 * [go-ataman](https://github.com/workanator/go-ataman) -用于在终端中呈现ANSI彩色文本模板的库.
@@ -430,7 +429,7 @@
 *搜索和分析数据库.
     * [bleve](https://github.com/blevesearch/bleve) -可以使用的现代文本索引库.
     * [elastic](https://github.com/olivere/elastic) -Go的Elasticsearch客户端.
-    * [elasticsql](https://github.com/cch123/elasticsql) -在Go中将sql转换为elasticsearch dsl.
+    * [elasticsql](https://github.com/cch123/elasticsql) - Convert sql to elasticsearch dsl in Go.
     * [elastigo](https://github.com/mattbaird/elastigo) -Elasticsearch客户端库.
     * [go-elasticsearch](https://github.com/elastic/go-elasticsearch) -Go的官方Elasticsearch客户.
     * [goes](https://github.com/OwnLocal/goes) -与Elasticsearch进行交互的库.
@@ -862,7 +861,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go-log](https://github.com/siddontang/go-log) -日志库支持级别和多处理程序.
 * [go-log](https://github.com/ian-kent/go-log) -Go中的Log4j实现.
 * [go-logger](https://github.com/apsdehal/go-logger) -Go程序的简单记录器，带有级别处理程序.
-* [gologger](https://github.com/sadlil/gologger) -简单易用的日志库，可在彩色控制台，简单控制台，文件或Elasticsearch中登录.
+* [gologger](https://github.com/sadlil/gologger) -简单易用的日志库，可以在彩色控制台，简单控制台，文件或Elasticsearch中登录.
 * [gomol](https://github.com/aphistic/gomol) -具有可扩展日志输出的Go的多输出，结构化日志.
 * [gone/log](https://github.com/One-com/gone/tree/master/log) -快速，可扩展，全功能，std-lib源兼容的日志库.
 * [journald](https://github.com/ssgreg/journald) -实施systemd Journal的本机API进行日志记录.
@@ -1132,7 +1131,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [gmqtt](https://github.com/DrmagicE/gmqtt) -Gmqtt是一个灵活的高性能MQTT代理库，它完全实现了MQTT协议V3.1.1.
 * [gnet](https://github.com/panjf2000/gnet) -gnet是使用Go编写的高性能，轻量级，无阻塞，事件循环网络库.
 * [gNxI](https://github.com/google/gnxi) -使用gNMI和gNOI协议的网络管理工具的集合.
-* [go-getter](https://github.com/hashicorp/go-getter) - Go library for downloading files or directories from various sources using a URL.
+* [go-getter](https://github.com/hashicorp/go-getter) -转到库，以使用URL从各种来源下载文件或目录.
 * [go-powerdns](https://github.com/joeig/go-powerdns) - 为Golang PowerDNS API绑定.
 * [go-stun](https://github.com/ccding/go-stun) -实施STUN客户端（RFC 3489和RFC 5389）.
 * [gobgp](https://github.com/osrg/gobgp) -以Go编程语言实现的BGP.
@@ -1443,7 +1442,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [gomega](http://onsi.github.io/gomega/) -Rspec，例如匹配器/断言库.
     * [GoSpec](https://github.com/orfjackal/gospec) -Go编程语言的BDD风格测试框架.
     * [gospecify](https://github.com/stesla/gospecify)  -这提供了BDD语法来测试您的Go代码.  使用过rspec之类的库的任何人都应该熟悉.
-    * [gosuite](https://github.com/pavlo/gosuite) -利用Go1.7的子测试，将具有设置/拆卸功能的轻量级测试套件带到“测试”中.
+    * [gosuite](https://github.com/pavlo/gosuite) -通过利用Go1.7的子测试，将具有设置/拆卸功能的轻量级测试套件带入“测试”.
     * [gotest.tools](https://github.com/gotestyourself/gotest.tools) -软件包的集合，以增强go测试软件包并支持通用模式.
     * [Hamcrest](https://github.com/rdrdr/hamcrest) -声明式Matcher对象的流利框架，将其应用于输入值时，会产生自描述结果.
     * [httpexpect](https://github.com/gavv/httpexpect) -简洁，声明性且易于使用的端到端HTTP和REST API测试.
@@ -1635,7 +1634,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [blank](https://github.com/Henry-Sarabia/blank) -验证或删除字符串中的空格和空格.
 * [boilr](https://github.com/tmrts/boilr) -快速，快速的CLI工具，用于从样板模板创建项目.
 * [chyle](https://github.com/antham/chyle) -使用git存储库的Changelog生成器具有多种配置可能性.
-* [circuit](https://github.com/cep21/circuit) -断路器模式的高效且功能完整的Hystrix like Go实现.
+* [circuit](https://github.com/cep21/circuit) -断路器模式的高效且功能完善的Hystrix like Go实现.
 * [circuitbreaker](https://github.com/rubyist/circuitbreaker) -Go中的断路器.
 * [clockwork](https://github.com/jonboulle/clockwork) -用于golang的简单假时钟.
 * [cmd](https://github.com/SimonBaeumer/cmd) -在osx，windows和linux上执行shell命令的库.

@@ -124,7 +124,7 @@
 *使用HTTP的库.*
 
 * [Buzz](https://github.com/kriswallsmith/Buzz) -另一个HTTP客户端.
-* [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
+* [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) -全面的HTTP客户端.
 * [HTTPlug](http://httplug.io) -没有绑定到特定实现的HTTP客户端抽象.
 * [PHP VCR](https://php-vcr.github.io/) -用于记录和重放HTTP请求的库.
 * [Requests](https://github.com/rmccue/Requests) -一个简单的HTTP库.
@@ -229,7 +229,7 @@
 * [PHPT](https://qa.php.net/write-test.php) -PHP本身使用的测试工具.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) -单元测试框架.
 * [Prophecy](https://github.com/phpspec/prophecy) -一个自以为是的模拟框架.
-* [VFS Stream](https://github.com/bovigo/vfsStream) -用于测试的虚拟文件系统流包装器.
+* [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
 
 ### Continuous Integration
 *用于持续集成的库和应用程序.*
@@ -242,6 +242,7 @@
 * [SemaphoreCI](https://semaphoreci.com/) -用于开源和私有项目的持续集成平台.
 * [Shippable](https://www.shippable.com/) -基于Docker的持续集成平台，用于开源和私有项目.
 * [Travis CI](https://travis-ci.org/) -持续集成平台.
+* [Setup PHP](https://github.com/shivammathur/setup-php) -适用于PHP的GitHub Action.
 
 ### Documentation
 *用于生成项目文档的库.*
@@ -803,7 +804,7 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·康努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了如何解析和验证XML文档，利用XPath表达式以及如何使用名称空间以及如何以编程方式创建和修改XML文件.

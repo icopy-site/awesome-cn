@@ -45,11 +45,11 @@
 - [peerwiki](https://github.com/mafintosh/peerwiki) -关于BitTorrent的所有Wikipedia.
 - [peercast](https://github.com/mafintosh/peercast) -将torrent视频流传输到Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) -干净，可读，经过验证的比特币库.
-- [Bitcore](https://github.com/bitpay/bitcore) -强大的纯比特币库.
+- [Bitcore](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
 - [PDFKit](https://github.com/devongovett/pdfkit) -PDF生成库.
 - [turf](https://github.com/Turfjs/turf) -模块化地理空间处理和分析引擎.
 - [webcat](https://github.com/mafintosh/webcat) -使用WebRTC的p2p网络管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
-- [NodeOS](https://github.com/NodeOS/NodeOS) -由npm支持的第一个操作系统.
+- [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 - [YodaOS](https://github.com/yodaos-project/yodaos) -AI操作系统.
 - [Brain.js](https://github.com/BrainJS/brain.js) -机器学习框架.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) -图论（又名网络）建模和分析.
@@ -72,7 +72,7 @@
 - [emoj](https://github.com/sindresorhus/emoj) -从命令行中的文本中找到相关的表情符号.
 - [pageres](https://github.com/sindresorhus/pageres) -捕获网站截图.
 - [cpy](https://github.com/sindresorhus/cpy) -复制文件.
-- [vtop](https://github.com/MrRio/vtop) -更漂亮的顶部，漂亮的图表.
+- [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空垃圾.
 - [is-up](https://github.com/sindresorhus/is-up) -检查网站是否正常运行.
 - [is-online](https://github.com/sindresorhus/is-online) -检查互联网连接是否正常.
@@ -119,7 +119,7 @@
 - [gtop](https://github.com/aksakalli/gtop) -终端的系统监控仪表板.
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成主题.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) -代码的精美图片-从终端内部直接显示.
-- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+- [cash-cli](https://github.com/xxczaki/cash-cli) -在170种货币之间转换.
 - [taskbook](https://github.com/klauscfhq/taskbook) -命令行栖息地的任务，公告板和注释.
 - [discharge](https://github.com/brandonweiss/discharge) -轻松地将静态网站部署到Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) -轻松查找并删除旧的沉重的node_modules文件夹.
@@ -128,7 +128,7 @@
 ### Functional programming
 
 - [lodash](https://github.com/lodash/lodash)  -实用程序库，可提供一致性，自定义，性能和其他功能.  更好更快的Underscore.js.
-- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
+- [immutable](https://github.com/facebook/immutable-js) -不可变的数据收集.
 - [Ramda](https://github.com/ramda/ramda)  -实用程序库，侧重于通过自动计算和相反的参数顺序实现的灵活功能组合.  避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) -使用JavaScript进行通用功能编程的库套件，可让您编写优雅的模块化应用程序，减少错误，并增加重复使用率.
 - [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
@@ -195,7 +195,7 @@
 - [Ink](https://github.com/vadimdemedes/ink) -对交互式命令行应用程序做出反应.
 - [listr](https://github.com/samverschueren/listr) -终端任务列表.
 - [conf](https://github.com/sindresorhus/conf) -为您的应用或模块进行简单的配置处理.
-- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
+- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) -用于操作终端的ANSI转义码.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) -各种日志级别的彩色符号.
 - [figures](https://github.com/sindresorhus/figures) -具有Windows CMD后备功能的Unicode符号.
 - [boxen](https://github.com/sindresorhus/boxen) -在终端中创建方框.
@@ -206,13 +206,13 @@
 - [first-run](https://github.com/sindresorhus/first-run) -检查是否是第一次运行该过程.
 - [blessed](https://github.com/chjj/blessed) -像诅咒的图书馆.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) -交互式命令行提示符.
-- [yn](https://github.com/sindresorhus/yn) -分析是/否像值.
+- [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
 - [cli-table3](https://github.com/cli-table/cli-table3) -漂亮的unicode表.
 - [drawille](https://github.com/madbence/node-drawille) -在终端上用Unicode盲文字符绘制.
 - [update-notifier](https://github.com/yeoman/update-notifier) -更新CLI应用程序的通知.
 - [ascii-charts](https://github.com/jstrace/chart) -终端中的ASCII条形图.
 - [progress](https://github.com/tj/node-progress) -灵活的ascii进度栏.
-- [insight](https://github.com/yeoman/insight) -通过向Google Analytics（分析）匿名报告使用指标来帮助您了解工具的使用情况.
+- [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 - [cli-cursor](https://github.com/sindresorhus/cli-cursor) -切换CLI光标.
 - [columnify](https://github.com/timoxley/columnify)  -创建适合控制台输出的基于文本的列.  支持单元包装.
 - [cli-columns](https://github.com/shannonmoeller/cli-columns) -分栏的unicode和ansi安全文本列表.
@@ -262,7 +262,7 @@
 - [marko](https://github.com/marko-js/marko) -基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流，异步渲染和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) -具有继承，异步控制等功能的模板引擎（受Jinja2启发）.
 - [handlebars.js](https://github.com/wycats/handlebars.js) -胡子模板的超集，它添加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) -简单的简单的模板语言.
+- [EJS](https://github.com/mde/ejs) -简单的非模板化语言.
 - [Pug](https://github.com/pugjs/pug) -受Haml影响的高性能模板引擎.
 
 
@@ -277,11 +277,10 @@
 - [Restify](https://github.com/restify/node-restify) -使您能够构建正确的REST Web服务.
 - [ThinkJS](https://github.com/thinkjs/thinkjs) -具有ES2015 +支持的框架，WebSockets，REST API.
 - [ActionHero](https://github.com/actionhero/actionhero) -用于为TCP套接字，WebSocket和HTTP客户端制作可重用和可伸缩API的框架.
-- [MERN](https://github.com/Hashnode/mern-cli) -使用MongoDB，Express，React和Webpack轻松构建可用于生产环境的通用应用程序.
 - [Next.js](https://github.com/zeit/next.js) -服务器呈现的通用JavaScript Web应用程序的简约框架.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) -服务器呈现的Vue.js应用程序的简约框架.
 - [seneca](https://github.com/senecajs/seneca) -编写微服务的工具包.
-- [AdonisJs](http://adonisjs.com) -用于Node.js的真正MVC框架，该框架建立在依赖注入和IoC容器的坚实基础上.
+- [AdonisJs](http://adonisjs.com) -基于Dependency Injection和IoC容器的坚实基础的Node.js的真正MVC框架.
 - [Hemera](https://github.com/hemerajs/hemera) -使用编写可靠且容错的微服务 [NATS](https://nats.io).
 - [Micro](https://github.com/zeit/micro) -带有异步方法的简约微服务框架.
 - [Moleculer](https://moleculer.services) -快速而强大的微服务框架.
@@ -307,7 +306,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除“ rm -rf”之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -文件系统观察程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机的fsevents.
+- [chokidar](https://github.com/paulmillr/chokidar) -稳定来自fs.watch和fs.watchFile的事件以及在macOS上使用本机fsevents的文件系统监视程序.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -426,7 +425,7 @@
 - [ndarray](https://github.com/scijs/ndarray) -多维数组.
 - [mathjs](https://github.com/josdejong/mathjs) -广泛的数学库.
 - [math-clamp](https://github.com/sindresorhus/math-clamp) -固定一个数字.
-- [algebra](https://github.com/fibo/algebra) - Algebraic structures.
+- [algebra](https://github.com/fibo/algebra) -代数结构.
 - [multimath](https://github.com/nodeca/multimath) -在WebAssembly和JS中创建快速图像数学的核心.
 
 
@@ -495,7 +494,7 @@
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) -将毫秒转换为人类可读的字符串：“ 1337000000”→“ 15d 11h 23m 20s”.
 - [ms](https://github.com/rauchg/ms.js) -微小的毫秒转换工具.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) -错误更少.
-- [read-art](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
+- [read-art](https://github.com/Tjatse/node-readability) -从任何页面提取可读内容.
 
 
 ### Compression
@@ -539,6 +538,7 @@
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) -基于SQL查询生成器Knex构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) -适用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
+	- [MikroORM](https://github.com/mikro-orm/mikro-orm)  -基于数据映射器，工作单元和身份映射模式的TypeScript ORM.  支持MongoDB，PostgreSQL，MySQL和SQLite.
 -查询生成器
 	- [Knex](https://github.com/tgriesser/knex) -PostgreSQL，MySQL和SQLite3的查询生成器，旨在灵活，可移植且易于使用.
 -其他
@@ -714,7 +714,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) -获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) -获取超级恶名.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) -得到一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍˄·͈·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”`.
 - [nerds](https://github.com/SkyHacks/nerds) -从诸如哈利·波特，星球大战和神奇宝贝等讨厌的话题中获取数据.
 
 
@@ -742,7 +742,7 @@
 - [adit](https://github.com/markelog/adit) -SSH隧道变得简单.
 - [import-lazy](https://github.com/sindresorhus/import-lazy) -延迟导入模块.
 - [file-type](https://github.com/sindresorhus/file-type) -检测缓冲区的文件类型.
-- [Bottleneck](https://github.com/SGrondin/bottleneck) -速率限制器，使节流变得容易.
+- [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 - [ow](https://github.com/sindresorhus/ow) -对人类的功能参数验证.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) -带有本地线程的轻量级Web Worker API实现.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) -访问系统剪贴板（复制/粘贴）.
@@ -777,7 +777,7 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用少量简单的库和核心Node.js模块来构建和部署真实的实时Web应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用一些简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
 
 ### Discovery
 
@@ -809,6 +809,7 @@
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [Nodetuts](http://nodetuts.com) -一系列讲座，包括TCP和HTTP API服务器，异步编程等.
 - [V8 Garbage Collector](https://v8.dev/blog/trash-talk) -垃圾谈V8垃圾收集器.
+- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) -Node.js的创建者关于其某些局限性的深刻见解.
 
 ### Books
 
@@ -819,7 +820,6 @@
 - [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://practicalnodebook.com)
 - [Mixu's Node book](http://book.mixu.net/node/)
-- [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
 - [Pro Express.js](http://proexpressjs.com)
 - [Secure Your Node.js Web Application](http://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856)
 - [Express in Action](https://www.manning.com/books/express-in-action)

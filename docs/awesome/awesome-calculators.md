@@ -8,9 +8,9 @@
 
  列表中提到您的项目吗？  看到 [mentioned.md](https://github.com/xxczaki/awesome-calculators/blob/master/mentioned.md)!
 
-  
+
   ---
-  
+
 ## Calculator apps:
 
 ### Android
@@ -52,6 +52,7 @@
 - [mdlt](https://github.com/metadelta/mdlt) -用于快速数学运算的命令行实用程序.
 - [calc](https://github.com/alfredxing/calc) -用Go编写的简单，快速和直观的命令行计算器.
 - [J# Calculator Barebones](https://github.com/KrzysztofSzewczyk/JSharpCalculator) - Very simple calculator written in J#. Made as program for J# newcomers to extend and learn from.
+- [Qalculate!](https://qalculate.github.io/) -跨平台科学计算器，包括单位/货币转换器.
 
 ### Web
 - [Wolfram|Alpha](https://www.wolframalpha.com/) -计算知识引擎.

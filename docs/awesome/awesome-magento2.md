@@ -49,7 +49,7 @@
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) -基于CLI的配置管理.
 - [Codesniffer](https://github.com/magento-ecg/coding-standard) -Magento 2 Codesniffer.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) -Magento 2中酷儿童的PHP例外.
-- [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) -更快地取代了bin / magento缓存：由Vinai Kopp使用文件观察器进行清理]（https://twitter.com/vinaikopp）
+- [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) -替换bin / magento缓存的速度更快：由Vinai Kopp用文件观察器清理]（https://twitter.com/vinaikopp）
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) -Magento 2开发人员工具栏.
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) -Magento 2模板提示助手.
 - [Magento2 PHPStorm Templates](https://github.com/staempfli/magento2-phpstorm-templates) -Magento2的实时模板
@@ -148,7 +148,7 @@
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) -使用bin / magento通过设置客户密码 [Vinai Kopp](https://github.com/Vinai/).
 - [Admin Auto Login](https://github.com/rogyar/magento2-autologin) -自动登录Magento 2管理员，对演示非常有用
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) -快速轻松地将现有来宾结帐客户转换为注册客户.
-- [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) -重置UI书签允许管理员用户重置自己的UI书签，例如过滤器的状态，列位置和应用的排序（例如Sales&gt; Orders）.
+- [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) -重置UI书签允许管理员用户重置其自己的UI书签，例如过滤器的状态，列位置和应用的排序（例如Sales&gt; Orders）.
 
 ### Security 
 
@@ -159,6 +159,7 @@
 ### Payment Service Provider
 - [PAYONE](https://github.com/PAYONE-GmbH/magento-2) -PAYONE付款整合.
 - [Stripe](https://github.com/pmclain/module-stripe) -Magento 2的条纹付款.
+- [Square](https://squareup.com/help/us/en/article/5989-magento-and-square) -Magento 2的方形付款.
 
 ### Infrastructure
 

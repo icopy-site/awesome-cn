@@ -63,7 +63,7 @@
 ### Customization
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)  -允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能.  ！[免费软件] [免费软件图标]
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000一样.[！[开源软件] [OSS图标]]（https://github.com/passionate-coder/Classic-Start）！[免费] [免费软件]
+- [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000年一样.[！[开源软件] [OSS图标]]（https://github.com/passionate-coder/Classic-Start）！
 - [Clover](http://en.ejie.me/)  -将多选项卡功能添加到Windows资源管理器.  ！[免费软件] [免费软件图标]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  -通过系统托盘进行每个应用程序的音量控制.  [！[开源软件] [OSS图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
 - [QTTabBar](http://qttabbar.wikidot.com/)  -通过标签和额外的文件夹视图扩展资源管理器.  ！[免费软件] [免费软件图标]
@@ -90,7 +90,7 @@
 - [ExtendsClass](https://extendsclass.com/) -开发人员的在线工具（REST / SOAP客户端，SQLite浏览器，Regex测试器，XPath测试器）！[免费软件] [免费软件图标]
 - [Fiddler](http://www.telerik.com/fiddler) -Web调试代理.
 - [FileZilla](https://filezilla-project.org/)  -FTP，FTPS和SFTP客户端.  [！[开源软件] [OSS图标]]（https://download.filezilla-project.org/client/）！[免费软件] [免费软件图标]
-- [Fork](https://git-fork.com/windows)  -适用于Windows（和Mac）的快速友好的Git客户端.  ！[免费软件] [免费软件图标]
+- [Fork](https://git-fork.com/)  -适用于Windows（和Mac）的快速友好的Git客户端.  ！[免费软件] [免费软件图标]
 - [Git Extensions](https://gitextensions.github.io/)  -强大且易于使用的Git UI.  [！[开源软件] [OSS图标]]（https://github.com/gitextensions/gitextensions）！[免费软件] [免费软件图标]
 - [GitHub Desktop](https://desktop.github.com/)  -GitHub Desktop是一个基于Electron的开源GitHub应用.  [！[开源软件] [OSS图标]]（https://github.com/desktop/desktop）！[免费软件] [免费软件图标]
 - [GitKraken](https://www.gitkraken.com/)  -一个漂亮的，跨平台的Git客户端.  ！[免费软件] [免费软件图标]
@@ -112,12 +112,12 @@
 - [RazorSQL](http://www.razorsql.com/) -用于管理SQLite数据库的GUI，需要大量工作.
 - [Redis Desktop Manager](http://redisdesktop.com/) 跨平台开源Redis DB管理工具.
 - [Robo 3T](https://robomongo.org/) -适用于MongoDB爱好者的轻量级GUI.
-- [SourceTree](https://www.sourcetreeapp.com/) -免费的Git和Mercurial客户.
+- [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) -MySQL数据库管理器.
 - [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) -用于浏览日志的小型快速工具[！[开源软件] [OSS图标]]（https://github.com/RolandPheasant/TailBlazer）！[免费软件] [免费软件图标]
-- [TortoiseGit](https://tortoisegit.org/)  -具有完整外壳集成的Git客户端.  [！[开源软件] [OSS图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
-- [TortoiseSVN](https://tortoisesvn.net/)  -具有完全Shell集成的Subversion客户端.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/tortoisesvn/）！[免费软件] [免费软件图标]
+- [TortoiseGit](https://tortoisegit.org/)  -具有完整Shell集成的Git客户端.  [！[开源软件] [OSS图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
+- [Tower](https://www.git-tower.com/windows) -塔-Mac和Windows上功能最强大的Git客户端.
 - [Vagrant](https://www.vagrantup.com/)  -用于构建和管理虚拟机的工具.  [！[开源软件] [OSS图标]]（https://github.com/mitchellh/vagrant）
 - [Velocity](http://velocity.silverlakesoftware.com/)  -离线API文档工具.  （喜欢 [Dash](https://kapeli.com/dash) 对于macOS）
 - [Visual Studio Code](https://code.visualstudio.com/) -轻量级源代码编辑器.
@@ -163,7 +163,7 @@
 - [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][OSS Icon]](https://github.com/godotengine/godot) ![Freeware][Freeware Icon]
 - [GOG](https://www.gog.com/) -无DRM的游戏商店，既有很多旧游戏，又有很多新游戏.
 - [Itch.io](https://itch.io/app/)  -安装，更新和玩独立游戏.  [！[开源软件] [OSS图标]]（https://github.com/itchio/itch）！[免费软件] [免费软件图标]
-- [LuaStudio](http://scormpool.com/luastudio)  -免费游戏开发工具/引擎.  使用Lua / LuaJIT编程语言在Windows上创建游戏和其他图形应用程序.  将它们导出到许多平台，包括iOS，Android和Mac.
+- [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
 - [Origin](https://www.origin.com/en-in/store/) -与Steam类似，但适用于EA.
 - [Steam](http://store.steampowered.com/)  -最大的在线视频游戏零售商.  桌面应用程序可让您整理游戏库并随时播放.  但是你已经知道了.
 - [Unity](https://unity3d.com/)  -免费游戏引擎.  易于使用，并带有许多教程.
@@ -284,7 +284,7 @@
 - [Far](http://www.farmanager.com/index.php?l=en)  -文件和存档管理器.  诺顿指挥官的克隆.  [！[开源软件] [OSS图标]]（http://sourceforge.net/projects/farmanager/）
 - [Fraps](http://www.fraps.com/)-视频游戏捕获屏幕录像机，可与所有使用DirectX或OpenGL技术的游戏一起使用.
 - [FreeFileSync](http://www.freefilesync.org/) -一种用于文件和文件夹的简单备份解决方案，它支持源/目标之间的镜像/双向同步/更新.
-- [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL-like queries.
+- [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的查询搜索文件的命令行工具.
 - [Glary Utilities](http://www.glarysoft.com/) -提供ccleaner中不存在的许多更高级的功能.
 - [GPU-Z](http://www.techpowerup.com/gpuz/)  -免费的多合一GPU监控工具.  ！[免费软件] [免费软件图标]
 - [Greenshot](https://github.com/greenshot/greenshot)  -直接在屏幕上拍摄和裁剪屏幕截图.  [！[开源软件] [OSS图标]]（https://github.com/greenshot/greenshot）
@@ -297,8 +297,9 @@
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3)  -提供了一个快速的UI，用于在Windows10上的AC插件上切换电源模式和自动切换.  [！[开源软件] [OSS图标]]（https://github.com/petrroll/PowerSwitcher）
 - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)  -发现哪个程序打开了特定的文件或目录.  Process Explorer向您显示有关已打开或加载哪些句柄和DLL的信息.
 - [qBittorrent](https://qbittorrent.org/) -免费和可靠的P2P Bittorrent客户端.
+- [Retroshare](https://retroshare.cc/)  -朋友之间安全通信和文件共享的平台.  [！[开源软件] [OSS图标]]（https://github.com/RetroShare/RetroShare） 
 - [rimraf](https://www.npmjs.com/package/rimraf)  -节点的深度删除模块.  帮助删除路径很长的文件和文件夹
-- [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
+- [Rufus](https://rufus.akeo.ie/) -创建可启动USB驱动器的简便方法.
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -命令行实用程序，可以安全地删除文件或清理松弛空间.
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)  -此脚本将帮助您将喜爱的程序或自制脚本/文件夹添加到启动中.  [！[开源软件] [OSS图标]]（https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/）
 - [ShareX](https://getsharex.com/) -使您可以通过一个键来拍摄任何选定区域的屏幕截图或截屏视频.  [！[开源软件] [OSS图标]]（https://github.com/ShareX/ShareX）！[免费软件] [免费软件图标]
@@ -313,6 +314,8 @@
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/)  -更改Windows 10登录屏幕背景.  [！[开源软件] [OSS图标]]（https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer）
 - [`winreg-cli`](https://github.com/notlmn/winreg-cli)  -带有流畅API的命令行工具，用于修改Windows注册表.  ！[[开源软件] [OSS图标]]（https://github.com/notlmn/winreg-cli）！[免费软件] [免费软件图标]
 - [WizTree](https://wiztree.en.lo4d.com/)  -出色的小型实用程序，使用户可以快速找到硬盘上的大文件.  ！[免费软件] [免费软件图标]
+- [Yacy](https://github.com/yacy/yacy_search_server) -由人员组成的通用搜索引擎，包括搜索网页，通用爬网程序，索引和排名功能.[！[开源软件] [OSS图标]]（https://github.com/yacy/yacy_search_server ）
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)  -分散的网站.  [！[开源软件] [OSS图标]]（https://github.com/HelloZeroNet/ZeroNet）
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx)  -它是用于技术演示的屏幕缩放和注释工具.  它在进纸匣中运行顺畅，并通过可自定义的热键激活，以放大屏幕区域，在缩放时四处移动并绘制缩放后的图像.
 
 
@@ -321,7 +324,7 @@
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)  -用于编辑，视觉效果，色彩校正和音频后期制作的专业视频创建软件.  ！[免费软件] [免费软件图标]
 - [HandBrake](http://handbrake.fr/)  -带有漂亮GUI的高性能视频编码和转换工具.  [！[开源软件] [OSS图标]]（https://github.com/HandBrake/HandBrake）
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) -收集DirectShow过滤器，VFW / ACM编解码器和工具.
-- [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
+- [mpv](http://mpv.io/)  - 媒体播放器.  [！[开源软件] [OSS图标]]（https://github.com/mpv-player/mpv）
 - [Olive Video Editor](https://www.olivevideoeditor.org/)  -开源跨平台非线性视频编辑器.  [！[开源软件] [OSS图标]]（https://github.com/olive-editor/olive）！[免费软件] [免费软件图标]
 - [Open Broadcaster Software](https://obsproject.com/)  -用于视频记录和实时流媒体的免费和开源软件.  [！[开源软件] [OSS图标]]（https://github.com/jp9000/OBS）
 - [PotPlayer](http://potplayer.daum.net/) -具有大量编解码器的多媒体播放器，还为用户提供了广泛的配置选项.
