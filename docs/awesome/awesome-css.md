@@ -121,6 +121,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 - [MiniReset.css](https://github.com/jgthms/minireset.css) -小型的现代CSS重置.
 - [sanitize.css](https://github.com/jonathantneal/sanitize.css/) -一组CSS规则，可立即使用当今的最佳做法.
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) -专门的样式表，用于删除用户代理样式，并以基线为网络样式.
+- [reset.css](https://meyerweb.com/eric/tools/css/reset/) -CSS工具：重置CSS.
 
 <sub>[⇧ back to top](#contents)</sub>
 

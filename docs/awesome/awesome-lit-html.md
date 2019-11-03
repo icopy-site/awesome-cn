@@ -28,7 +28,7 @@
 
 - [lit-element](https://www.npmjs.com/package/lit-element) -用于创建快速，轻量级Web组件的简单基类.
 - [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) -用于构建Web组件和应用程序的轻量级库.
-- [@lit-any/core](https://github.com/hypermedia-app/lit-any-core) -Partials库，它使用lit-html从较小的模板组成视图和表单.
+- [@lit-any/core](https://github.com/hypermedia-app/lit-any-core) - 局部模板库，它使用的点燃HTML组成从较小的模板的观点和形式.
 - [lit-html-element](https://www.npmjs.com/package/lit-html-element) -使用lit-html创建Web组件的基类.
 - [fit-html](https://www.npmjs.com/package/fit-html) -lit-html，Web组件和Redux的组合.
 - [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) -一个lit-html扩展名，使用类似于Angular模板语法的括号语法.
@@ -37,12 +37,12 @@
 - [ullr](https://github.com/aggre/ullr) -使用lit-html通过功能编程构建Web组件.
 - [ce-decorators](https://www.npmjs.com/package/ce-decorators) -用于基于装饰器提案和lit-html构建Web组件的TypeScript库.
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) -轻量级的i18n库，提供lit-html指令.
-- [haunted](https://www.npmjs.com/package/haunted) -React的Hooks API，但适用于标准Web组件和hyperHTML或lit-html.
+- [haunted](https://www.npmjs.com/package/haunted) - 作出反应的挂钩API，但对于标准的网络组件和hyperHTML或上火，HTML.
 - [functional-web-component](https://www.npmjs.com/package/functional-web-component) -功能组件，如React，但用于Web组件.
 
 ### Renderers
 
-以下库允许使用lit-html作为渲染器，同时还提供其他替代方法，例如 [HyperHTML](https://github.com/WebReflection/hyperHTML) 或JSX.
+下面的库允许用点燃式HTML的渲染器，同时还提供替代品，如 [HyperHTML](https://github.com/WebReflection/hyperHTML) 或JSX.
 
 - [@corpuscule/lit-html-renderer](https://www.npmjs.com/package/@corpuscule/lit-html-renderer) -基于lit-html的渲染器 [Corpuscule](https://github.com/corpusculejs/corpuscule).
 - [@helikopter/render-lit-html](https://www.npmjs.com/package/@helikopter/render-lit-html) -基于lit-html的渲染器 [Helicopter](https://github.com/briancavalier/helikopter).
@@ -52,16 +52,16 @@
 
 ### LitElement Extensions
 
-这些不是lit-html本身的实现，而是官方LitElement基类的社区扩展.
+这些都不是自己点燃，HTML的实现，但官方LitElement基类的，而社区扩展.
 
 - [@adobe/lit-mobx](https://www.npmjs.com/package/@adobe/lit-mobx) -将mobx与LitElement一起使用的Mixin和基类.
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) -LitElement与Apollo GraphQL的集成.
 - [@collaborne/lit-flexbox-literals](https://www.npmjs.com/package/@collaborne/lit-flexbox-literals) -提供LitElement CSS文字和从移植的类 [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
-- [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) -用于LitElement的小型mixin，可通过属性getter获得轻松的更改事件.
+- [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) - 小混入了LitElement获得容易改变事件通过属性的getter.
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -LitElement扩展，可轻松实现开箱即用.
 - [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) -之间缺少连接 [Haunted](https://www.npmjs.com/package/haunted) 和LitElement.
 - [lit-robot](https://www.npmjs.com/package/lit-robot) -与LitElement集成 [Robot](https://thisrobot.life/).
-- [nextbone](https://www.npmjs.com/package/nextbone) - Backbone re-imagined with ES classes and decorators for using with LitElement.
+- [nextbone](https://www.npmjs.com/package/nextbone) -使用ES类和装饰器重新构想的主干，可与LitElement一起使用.
 
 ### Other
 
@@ -82,8 +82,9 @@
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -在本地API之上的企业风味糖！
+- [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) -用于创建使用Webview API的VSCode扩展的组件.
 - [Weightless](https://github.com/andreasbm/weightless) -占地面积小的高质量Web组件.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) -出现手绘元素的集合.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn.
 
 ### Individual Components
 
@@ -99,7 +100,7 @@
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) -由Polymer团队提供的入门模板.
 - [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) -基于Open Web Components建议的Starter应用.
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) -生成器，用于使用TypeScript中的最新LitElement开发下一个自定义元素.
-- [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) -使用`@ rxdi`，lit-html，GraphQL，依赖项注入构建客户端应用程序.
+- [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) - 客户端应用程序建立与`@ rxdi`，上火，HTML，GraphQL，依赖注入.
 
 ## IDE Plugins
 
@@ -119,16 +120,16 @@
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) -用于lit-html模板字符串的ESLint插件.
 - [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) -CLI类型，用于检查lit-html模板中的绑定.
 - [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件，以最小化带有标签的模板字符串中的HTML.
-- [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) -汇总插件，用于将CSS文件作为LitElement标记的`css`模板字符串导入.
-- [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -汇总插件，用于在LitElement组件中加载PostCSS处理的样式表.
+- [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - 汇总插件导入CSS文件作为LitElement标记`css`模板字符串.
+- [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) - 汇总插件加载在LitElement部件PostCSS处理样式表.
 - [lit-loader](https://github.com/PolymerX/lit-loader) -用于Webpack的LitElement单个文件组件加载器.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) -CLI工具，用于构建，测试和发布香草Web组件，只需要一点点香料.
-- [open-wc](https://github.com/open-wc) -一组建议，可帮助您生成，测试，检查，演示和发布Web组件.
+- [open-wc](https://github.com/open-wc) - 一组建议，以帮助您生成，测试，皮棉，演示，并发布Web组件.
 
 ## Static Site Generators
 
 - [Greenwood](https://github.com/ProjectEvergreen/greenwood) -现代化的高性能静态站点生成器，支持基于Web组件的开发.
-- [Hydrogen](https://github.com/ShailenNaidoo/hydrogen) -使用TypeScript构建的静态站点生成器，该模板使用受lit-html启发的模板.
+- [Hydrogen](https://github.com/ShailenNaidoo/hydrogen) - 以打字稿，它使用模板上火，HTML格式的内置静态现场发电机.
 
 ## Examples
 
@@ -168,12 +169,12 @@
 
 ## Inspired Solutions
 
- 这些库不依赖于lit-html，而是受其某些概念的启发.  他们使用标记为“ html”
+ 这些库不依赖于亮，HTML，但它的一些概念的启发.  他们使用标记为“ html”
 模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法突出显示.
 
-- [htm](https://github.com/developit/htm) -Hyperscript Tagged标记：使用标准标记模板的JSX替代品，并具有编译器支持.
+- [htm](https://github.com/developit/htm) -  Hyperscript标记标记：使用JSX替代标准的标签模板，用编译器支持.
 - [hybrids](https://github.com/hybridsjs/hybrids) -用于使用简单实用的API创建Web组件的UI库.
-- [lit-ntml](https://github.com/motss/lit-ntml) -受lit-html启发，在Node.js中实现了SSR的轻巧现代模板.
+- [lit-ntml](https://github.com/motss/lit-ntml) - 用于SSR在Node.js的，上火，HTML格式的轻型和现代模板.
 - [lite-html](https://github.com/ruphin/lite-html) -VirtualDOM渲染引擎的现代替代品.
 - [modulor-html](https://github.com/modulor-js/modulor-html) -Web组件缺少模板引擎.
 - [nanohtml](https://github.com/choojs/nanohtml) -用于浏览器的HTML模板字符串，支持Node中的服务器端渲染.

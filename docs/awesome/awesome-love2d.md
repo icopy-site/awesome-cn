@@ -79,7 +79,7 @@
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) -用于Lua的实体组件系统，简单，灵活且有用
 
 ## <a name="helper"></a>Helper Libraries
-*游戏专用的库捆绑包，提供可重复使用的功能*
+*特定于游戏的库捆绑包，提供可重复使用的功能*
 
 * [astray](https://github.com/SiENcE/astray) -Astray是一个基于lua的迷宫，房间和地下城生成库，用于地下城爬虫和类Rogue游戏
 * [cartographer](https://github.com/tesselode/cartographer) -小瓷砖地图加载器和抽屉.
@@ -149,7 +149,7 @@
 ## <a name="object"></a>Object Orientation
 *支持的对象定向库 [Class-Commons](https://github.com/bartbes/Class-Commons)*
 
-* [30log](https://github.com/Yonaba/30log)  -Lua中面向对象的精简框架.  它具有命名（和未命名）类，单一继承以及对mixins的基本支持
+* [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
 * [classic](https://github.com/rxi/classic/)  -Lua的微型类模块.  尝试保持简单并通过避免不必要的过度抽象来提供良好的性能
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) -具有多重继承的小型，快速的类/原型实现（常见类）
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) -提供单一继承和构造函数的极少基类.
@@ -186,7 +186,7 @@
 *在第三方商店中分发LÖVE游戏的指南*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) -用于包装LÖVE游戏以在Snappy商店中分发的模板
-* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可在基于Linux的常见操作系统（例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上运行的AppImages；  一局=一局
+* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可在基于Linux的常见操作系统（如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上运行的AppImages；  一局=一档
 
 ## Serialization
 *保存游戏和存储库*
@@ -194,9 +194,9 @@
 * [binser](https://github.com/bakpakin/binser) -可定制的Lua序列化器
 * [bitser](https://github.com/gvx/bitser) -使用LuaJIT序列化和反序列化Lua值
 * [cdata](https://github.com/excessive/cdata) -使用LuaJIT的FFI在Lua数据和C数据之间序列化
-* [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script
+* [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) -将数据序列化为Lua脚本
 * [Lady](https://github.com/gvx/Lady)  -保存和加载保存游戏；  基于Ser
-* [Ser](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua
+* [Ser](https://github.com/gvx/Ser) -用于Lua的快速，健壮，功能丰富的表序列化库
 * [Smallfolk](https://github.com/gvx/Smallfolk) -Lua的快速，健壮，安全，功能丰富的表序列化库
 * [trickle](https://github.com/bjornbytes/trickle) -专注于高压缩率的比特流库，用于网络
 
@@ -213,7 +213,7 @@
 * [busted](https://github.com/Olivine-Labs/busted) -具有可自定义断言的简单单元测试框架
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) -无夹具测试框架
 * [Luassert](https://github.com/Olivine-Labs/luassert) -使用其他可自定义的测试扩展`assert（）`
-* [Lunatest](https://github.com/silentbicycle/lunatest) -xUnit风格的随机单元测试框架
+* [Lunatest](https://github.com/silentbicycle/lunatest) -xUnit样式的随机单元测试框架
 * [lust](https://github.com/bjornbytes/lust) -最小的测试框架
 * [Specl](http://gvvaughan.github.io/specl/) -行为驱动开发（BDD）工具
 * [Telescope](http://norman.github.io/telescope/) -高度可定制的BDD风格的测试库
@@ -237,7 +237,7 @@
 * [Love Imgui](https://github.com/slages/love-imgui) -LÖVE游戏引擎的imgui模块
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) -LÖVE游戏的轻量级即时模式GUI
 * [Patchy](https://github.com/excessive/patchy) -9补丁库
-* [Polywell](https://gitlab.com/technomancy/polywell) -用Lua编写的可高度配置的文本编辑器/编码工具，可在LÖVE游戏引擎上运行.
+* [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [SafeWord](https://github.com/josefnpat/safeword) -LÖVE的过扫描检测库
 * [SUIT](https://github.com/vrld/SUIT) -小型即时模式GUI库
 * [ListBox](https://github.com/darkmetalic/ListBox) -LÖVE的动态列表框，支持触摸，鼠标和键盘输入
@@ -275,7 +275,7 @@
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) -有关在LÖVE游戏中使用Tiled创建的地图的文章
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) -关于如何通过nooowaay进行突破克隆的完整教程
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) -使用LÖVE（蛇，推箱子，俄罗斯方块等）制作简单游戏的教程
-* [Introduction to Game Development](https://cs50.harvard.edu/extension/web/2019/spring/) -哈佛学院的CS50扩展（2018年春季）
+* [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/) -哈佛学院的CS50 OpenCourseWare
 
 ## IDEs
 *集成开发环境和文本编辑器插件*

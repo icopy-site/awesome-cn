@@ -11,7 +11,7 @@
 
 ## About this list
 
- 科技和社交媒体正在对我们的社会产生重大影响.  尽管许多创新技术发明改善了我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech/problem)，由特里斯坦·哈里斯（Tristan Harris）领导的世界一流的团队，受到深切关注 [The Center of Humane Technology](https://humanetech.com) .  我们的愿景是：
+ 科技和社交媒体正在对我们的社会产生重大影响.  尽管许多创新技术发明改善了我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech/problem)，由特里斯坦·哈里斯（Tristan Harris）领导的世界一流的团队，受到深切关注的前技术内部专家 [The Center of Humane Technology](https://humanetech.com) .  我们的愿景是：
 
 &gt; **无处不在的人道技术，可刺激人的生活蓬勃发展，并使人蓬勃发展.**
 
@@ -39,9 +39,10 @@
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/MKDale/techoath) -一种可选的誓言，用于建立符合道德标准的经验.
 - [IoT Design Manifesto](https://www.iotmanifesto.com/) -参与开发物联网的每个人的行为准则
 - [switching.social](https://switching.social/) -流行社交应用程序的道德，易于使用和注重隐私的替代方案.
-- [The Critical Engineering Manifesto](https://criticalengineering.org/) -适用于工程态度的批判性思维概念宣言.
+- [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) -识别并减轻数字产品对个人和社会的风险.
-- [Fairwork Foundation](https://fair.work/) - A project working to set and measure standards and provide certification in the platform economy.
+- [Fairwork Foundation](https://fair.work/) -致力于制定和衡量标准并在平台经济中提供认证的项目.
+- [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) -基于基本权利和道德原则的可信赖AI系统指南.
 
 ## Security
 

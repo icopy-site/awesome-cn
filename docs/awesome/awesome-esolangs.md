@@ -29,6 +29,7 @@
 * [False](http://strlen.com/false-language) -极少使用的语言，实现量很少.
 * [Fetlang](https://github.com/Property404/fetlang) -旨在使源代码看起来像写得不好的恋物癖情色.
 * [Fugue](https://esolangs.org/wiki/Fugue) -音乐作为源代码.
+* [Haifu](http://www.dangermouse.net/esoteric/haifu.html) -设计时考虑了复活节哲学的核心价值观.
 * [INTERCAL](http://www.catb.org/~esr/intercal/) -拟与其他语言完全不同的模仿语言.
 * [JSFuck](https://github.com/aemkei/jsfuck) -基于JavaScript原子部分的神秘编程风格.
 * [Lazy K](https://tromp.github.io/cl/lazy-k.html) -最小，图灵完整的纯函数式语言，没有其他功能.
