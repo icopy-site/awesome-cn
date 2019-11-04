@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 awesome-kubernetes现在将以不同的发行版和软件包捆绑形式提供，这意味着您可以
- 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑软件发行版发行.  请查看发布列以获取更多信息.
+ 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑包发行版发行.  请查看发布列以获取更多信息.
 
 ## Featured On
 
@@ -216,7 +216,7 @@ Installers
 
 
 - [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
-- [Achieving CI/CD with Kubernetes](http://ramitsurana.github.io/myblog/achieving-ci-cd-with-kubernetes) 通过 [Ramit Surana](https://twitter.com/ramitsurana)
+- [Achieving CI/CD with Kubernetes](https://ramitsurana.github.io/myblog/2016/08/01/achieving-ci/cd-with-kubernetes/) 通过 [Ramit Surana](https://twitter.com/ramitsurana)
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
 - [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) 通过 [Matt Raible](https://twitter.com/mraible) 使用 [Jenkins X](https://jenkins-x.io/)
 - [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) 通过 [Henryk Konsek](https://twitter.com/hekonsek) 使用 [Jenkins X](https://jenkins-x.io/)
@@ -521,7 +521,7 @@ Projects
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
 * [loki](https://github.com/grafana/loki) -Loki是受Prometheus启发的水平可扩展，高度可用的多租户日志聚合系统.
-* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用一种简单的查询语言进行处理，并通过Web UI在线进行监视.
+* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
 
 ## Testing
 
@@ -550,7 +550,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps促销和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -611,7 +611,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和PostgreSQL管理PostgreSQL集群 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将图转换为可自我配置并响应集群更改的智能模块.
+* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将舵转换为可自我配置并响应集群变化的智能模块.
 * [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
 
 ## Custom Schedulers
@@ -686,7 +686,7 @@ Projects
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
-* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是一个简单，易于配置且非侵入式的服务网格，可查看和管理任何Kubernetes集群内部的流量.
+* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是直接，易于配置且非侵入式的服务网格，可对任何Kubernetes集群内部的流量进行可视化和管理.
 * [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) -构建，保护和观察您的现代服务网格.
 
 ## RPC
@@ -793,7 +793,7 @@ Projects
 * [Authenticator](https://github.com/heptio/authenticator) -使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) -广泛采用的开源实现，统一了Kubernetes网络策略和Istio应用程序策略.
 * [Dex](https://github.com/coreos/dex) -Kubernetes的OpenID和OAuth
-* [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持Github，Gitlab，Google，Azure和LDAP（AD）作为身份提供者.
+* [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持作为身份提供者的Github，Gitlab，Google，Azure和LDAP（AD）.
 * [kiam](https://github.com/uswitch/kiam) -允许群集用户将AWS IAM角色与Pod相关联.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) -Kubernetes Security Bench for Go是一个Go应用程序，可根据安全最佳实践检查是否已部署Kubernetes.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -寻找Kubernetes集群中的安全漏洞.
@@ -919,7 +919,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -992,7 +992,7 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，如果您能充分利用其潜力，它对于品牌或企业而言是非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且是充分利用品牌或企业潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [Apcera](https://twitter.com/Apcera)
@@ -1006,7 +1006,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 

@@ -42,7 +42,7 @@ Audio
 
 * [Open Music](https://github.com/openmusic-project/OM6)  -可视化程序，计算机辅助合成环境.  [GPL3] [2].
 * [OM7](https://github.com/openmusic-project/om7)  -OpenMusic可视化编程和计算机辅助合成环境的新实现，包括图形界面，计算模式以及与外部软件库的连接方面的许多改进.  [GPL3] [2].
-* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境.  从零开始设计软件合成器或声音插件很有用.  它也是一种合成工具，可以在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
+* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境.  从零开始设计软件合成器或声音插件很有用.  它也是一种合成工具，可以在样本级别上产生可控制的高质量声音，从而实时定义和重新定义数字信号处理器和音乐结构.
 * [cl-collider](https://github.com/byulparan/cl-collider) - 一种
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统.  包括用于Common Lisp的CFFI和FFI接口.
@@ -205,7 +205,7 @@ Tools
   分别用于libmpg123和libout123的库
   易于使用的mp3解码和跨平台音频
    输出.  [Artistic License 2.0] [47].
-* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) –使用这个小框架，您将能够制作简单的2D游戏：绘制基本的几何形式，图像和文本，播放声音以及收听鼠标和键盘输入.
+* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) –通过这种小型框架，您将能够制作简单的2D游戏：绘制基本的几何形式，图像和文本，播放声音以及收听鼠标和键盘输入.
 * [cl-gamepad](https://shirakumo.github.io/cl-gamepad)  -在Windows，Mac OS和Linux上访问游戏手柄和操纵杆.  [Artistic License 2.0] [51].
 
 Graphics
@@ -222,7 +222,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
-* [donuts](https://github.com/tkych/donuts)  -绘制Common Lisp的DSL图形.  [Expat] [14].
+* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [Expat] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -240,7 +240,7 @@ GUI
 *  [Qtools](https://github.com/Shinmera/qtools/)  -基于CommonQt的Qt工具包.  [Artistic License 2.0] [51]另外 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制的UI组件）， [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 *：星级： [CommonQt](https://github.com/commonqt/commonqt)  -通过QtSmoke为Qt4的Common Lisp绑定.  [FreeBSD] [39].
 *：星级： [ltk](http://www.peter-herth.de/ltk/)  -Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
-*：星级： [IUP](https://github.com/lispnik/iup/) -YFC绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/)  便携式用户界面库（ALPHA之前的版本）.  IUP是跨平台的（Windows，macOS，GNU / Linux），具有许多小部件，具有小的api，并且正在积极开发中.
+*：星级： [IUP](https://github.com/lispnik/iup/) - CFFI bindings to the [IUP](https://www.tecgraf.puc-rio.br/iup/)  便携式用户界面库（ALPHA之前的版本）.  IUP是跨平台的（Windows，macOS，GNU / Linux），具有许多小部件，具有小的api，并且正在积极开发中.
 * [nodgui](https://notabug.org/cage/nodgui)  -基于Ltk的Tk工具箱的绑定，带有语法糖和其他小部件.  [LLGPL] [8].
 * [cl-cffi-gtk](http://www.crategus.com/books/cl-cffi-gtk/)  -绑定GTK + 3.  [GNU LGPL2.1] [11].
 * [cl-gtk2](https://github.com/dmitryvk/cl-gtk2)  -绑定GTK + 2.  [LLGPL] [8].
@@ -332,6 +332,7 @@ CLOS扩展
 *：星级： [closer-mop](http://cliki.net/closer-mop)  -兼容性层，可纠正许多缺少或不正确的MOP功能.  [Expat] [14].
 * [defclass-std](https://github.com/EuAndreh/defclass-std)  -用于快速编写DEFCLASS表单的快捷方式宏.  [LLGPL] [8].
 * [specialization-store](https://github.com/markcox80/specialization-store/)  -基于类型的通用功能.  简化的BSD许可变体.
+* [filtered-functions](https://github.com/pcostanza/filtered-functions)  -允许使用任意谓词来选择和应用方法.  [MIT] [200].
 * [inlined-generic-function](https://github.com/guicho271828/inlined-generic-function) -
  将静态调度的速度带到CLOS.  [LLGPL] [8].
 * [static-dispatch](https://github.com/alex-gutev/static-dispatch)  -允许静态（在编译时）而不是动态（运行时）执行标准通用函数分派.  这类似于在C ++和Java等语言中所谓的“重载”.  [MIT] [200].
@@ -469,6 +470,7 @@ Community
 * [lisp-lang.org](https://lisp-lang.org/)
 * [Lisp Discord Server](https://discord.gg/hhk46CE)
 * [#lisp](http://log.irc.tymoon.eu/freenode/lisp) 在Freenode上-Common Lisp IRC主频道.
+* [chat.lisp.cl](https://chat.lisp.cl/) -Mattermost聊天服务器，具有到IRC和Discord的桥接.
 
 图书馆经理
 ===============
@@ -565,8 +567,8 @@ Web框架
 * [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是扩展的且对新手友好的神经元（通常更易于处理查询参数）.  [MIT] [200].
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
-* [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，而HTTP条件仅是Lisp条件.  [LLGPL] [8].
-* [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录，缓存，权限或身份验证的注释，通过Swagger的文档等功能.[MIT] [200].
+* [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
+* [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录的记录，缓存，权限或身份验证，通过Swagger进行文档记录等.[MIT] [200].
 * [Weblocks](https://github.com/40ants/weblocks)  -基于窗口小部件的框架，具有内置的ajax更新机制，可“解决JavaScript问题”.  [LLGPL] [8].
 
  有更多的项目，或多或少地中止了但很有趣.  请参阅其他资源.
@@ -713,7 +715,7 @@ Others
 ========================
 
 * [numcl](https://github.com/numcl/numcl)  -Common Lisp中的Numpy克隆.  [LGPL3] [9].
-* [magicl](https://github.com/rigetticomputing/magicl)  -Rigetti Computing公司基于BLAS / LAPACK和Expokit开发的Common Lisp中的矩阵代数程序.  [BSD_3Clause] [15].
+* [magicl](https://github.com/rigetticomputing/magicl)  -Rigetti Computing开发的基于BLAS / LAPACK和Expokit的Common Lisp中的矩阵代数程序.  [BSD_3Clause] [15].
 * [cl-spark](https://github.com/tkych/cl-spark)  -为数字列表生成迷你图字符串.  [Expat] [14].
 * [GSLL](https://common-lisp.net/project/gsll/)  -GNU Lisp科学图书馆；  允许使用Common Lisp提供的GSL.  [GNU LGPL2.1] [11].
 * [common-lisp-stat](https://github.com/blindglobe/common-lisp-stat/)  -通用Lisp统计资料库.  [FreeBSD] [39].
@@ -729,7 +731,7 @@ Others
 * [Petalisp](https://github.com/marcoheisig/Petalisp) -试图
   通过以下方式为并行计算机生成高性能代码
    JIT编译数组定义.  它适用于更多
-  通过提供更强大的功能，比NumPy的基本级别
+  通过提供更强大的功能，比NumPy具有更高的基本水平
   N维数组，但仅用于构建的几个构建基块
    他们.  [AGPL] [89].
 * [cmu-infix](https://github.com/rigetti/cmu-infix)  -用于在Common Lisp中编写中缀数学符号的库.  也可以看看 [polisher](https://github.com/mrcdr/polisher).
@@ -782,7 +784,7 @@ Others
 --------------
 
 * [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理.  受到Ruby的Sidekiq的启发，并与其Web UI兼容.  [LLGPL] [8].
-* [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的cron式调度程序.  [MIT] [200].
+* [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的类似cron的调度程序.  [MIT] [200].
 
 Regex
 =====
@@ -963,7 +965,7 @@ CSV
 -------------
 
 * [localtime](https://common-lisp.net/project/local-time/)  -一个开发库，用于以半标准方式处理日期和时间信息.  [3子BSD] [15].
-* [cl-date-time-parser](https://github.com/tkych/cl-date-time-parser) - Parse date-time-string, liberally. Hides the difference between date-time formats, and enables to manage date and time as the one date-time format. [MIT][200].
+* [cl-date-time-parser](https://github.com/tkych/cl-date-time-parser)  -自由地解析日期时间字符串.  隐藏日期时间格式之间的差异，并允许将日期和时间作为一种日期时间格式进行管理.  [MIT] [200].
 * [chronicity](https://github.com/chaitanyagupta/chronicity)  -自然语言的日期和时间解析，以解析“从现在开始3天”之类的字符串.  [BSD_3Clause] [15].
 * [local-time-duration](https://github.com/enaeher/local-time-duration) -
  持续时间处理库建立在本地时间之上.  [MIT] [200].
@@ -1031,7 +1033,7 @@ i18n
 * [enchant](https://github.com/tlikonen/cl-enchant)  -附魔拼写检查器库的绑定.  公共区域.
 * [oxenfurt](https://github.com/Shinmera/oxenfurt)  -牛津词典API的客户端库.  [ArtisticLicense2.0] [51].
 * [language-codes](https://shinmera.github.io/language-codes)  -ISO语言代码的数据库库.  [艺术许可2.0] [51]
-* [system-locale](https://shinmera.github.io/system-locale)  -检索用户首选语言的库，以便您的应用程序可以选择合理的默认值.  [Artistic License 2.0] [51].
+* [system-locale](https://shinmera.github.io/system-locale)  -用于检索用户首选语言的库，以便您的应用程序可以选择合理的默认值.  [Artistic License 2.0] [51].
 * [multilang-documentation](https://shinmera.github.io/multilang-documentation)  -允许以多种语言编写文档字符串，用于真正具有国际记录的库.  [Artistic License 2.0] [51].
 
 Linting

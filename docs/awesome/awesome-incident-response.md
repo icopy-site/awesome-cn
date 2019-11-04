@@ -42,15 +42,15 @@
 * [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/)  -另一个流行的分布式开源计算机取证框架.  该框架建立在Linux平台上，并使用postgreSQL数据库存储数据.
 * [osquery](https://osquery.io/)  -使用类似SQL的查询语言轻松询问有关Linux和macOS基础架构的问题；  随附的*事件响应包*可帮助您检测违规并做出响应.
 * [Redline](https://www.fireeye.com/services/freeware/redline.html) -为主机提供调查功能，以便用户通过内存和文件分析以及制定威胁评估配置文件来查找恶意活动的迹象.
-* [The Sleuth Kit & Autopsy](http://www.sleuthkit.org)  -基于Unix和Windows的工具，可帮助对计算机进行取证分析.  它带有各种有助于数字取证的工具.  这些工具有助于分析磁盘映像，执行文件系统的深入分析以及其他各种操作.
-* [TheHive](https://thehive-project.org/) -可扩展的三合一开源和免费解决方案，旨在使SOC，CSIRT，CERT和任何需要快速调查并采取行动的安全事件的信息安全从业人员，更加轻松.
+* [The Sleuth Kit & Autopsy](http://www.sleuthkit.org) - Unix and Windows based tool which helps in forensic analysis of computers. It comes with various tools which helps in digital forensics. These tools help in analyzing disk images, performing in-depth analysis of file systems, and various other things.
+* [TheHive](https://thehive-project.org/) -可扩展的三合一开源和免费解决方案，旨在使SOC，CSIRT，CERT和任何需要迅速调查并采取行动的安全事件的信息安全从业人员，更加轻松.
 * [X-Ways Forensics](http://www.x-ways.net/forensics/)  -用于磁盘克隆和映像的取证工具.  它可用于查找已删除的文件和磁盘分析.
 * [Zentral](https://github.com/zentralopensource/zentral)  -将osquery强大的端点清单功能与灵活的通知和操作框架相结合.  这使人们能够识别OS X和Linux客户端上的更改并对更改做出反应.
 
 ### Books
 
 * [DFIR intro](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) -Scott J. Roberts着.
-* [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) -理查德·贝特里奇（Richard Bejtlich）关于IR的书.
+* [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) -理查德·贝特里奇（Richard Bejtlich）的IR书.
 
 ### Communities
 
@@ -89,7 +89,7 @@
 
 * [The Appliance for Digital Investigation and Analysis (ADIA)](https://forensics.cert.org/#ADIA)  -用于数字调查和获取的基于VMware的设备，完全基于公共领域的软件构建.  ADIA中包含的工具包括尸检，侦探工具包，数字取证框架，log2timeline，Xplico和Wireshark.  大多数系统维护使用Webmin.  它设计用于中小型数字调查和获取.  该设备可在Linux，Windows和Mac OS上运行.  i386（32位）和x86_64（64位）版本均可用.
 * [Computer Aided Investigative Environment (CAINE)](http://www.caine-live.net/index.html) -包含许多工具，可帮助调查人员进行分析，包括法医证据收集.
-* [CCF-VM](https://github.com/rough007/CCF-VM) -CyLR CDQR取证虚拟机（CCF-VM）：一种用于解析收集的数据的多合一解决方案，使其可以通过内置的常用搜索轻松地进行搜索，并且可以同时搜索单个和多个主机.
+* [CCF-VM](https://github.com/rough007/CCF-VM) -CyLR CDQR取证虚拟机（CCF-VM）：一种用于解析收集的数据的多合一解决方案，使其可以通过内置的通用搜索轻松地进行搜索，并且可以同时搜索单个和多个主机.
 * [Digital Evidence & Forensics Toolkit (DEFT)](http://www.deftlinux.net/)  -用于计算机取证证据的Linux发行版.  它与Windows的Digital Advanced Response工具包（DART）捆绑在一起.  还提供了DEFT的轻型版本，称为DEFT Zero，其主要侧重于法医上合理的证据收集.
 * [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) -Linux发行版，其中包含大量对网络安全专业人员有用的同类最佳的开源网络安全应用程序.
 * [PALADIN](https://sumuri.com/software/paladin/)  -修改后的Linux发行版，以法医合理的方式执行各种法医任务.  它包含许多开放源代码取证工具.
@@ -138,20 +138,20 @@
 * [OSX Collector](https://github.com/yelp/osxcollector) -OSX Auditor分支以实时响应.
 
 ### Other Lists
-
+* [Eric Zimmerman Tools](https://ericzimmerman.github.io/) -由SANS研究所的讲师Eric Zimmerman创建的取证工具的更新列表.
 * [List of various Security APIs](https://github.com/deralexxx/security-apis) -用于安全性的公共JSON API的集体列表.
 
 ### Other Tools
 
 * [Cortex](https://thehive-project.org)  -Cortex允许您使用Web界面逐一或以批量模式分析IP和电子邮件地址，URL，域名，文件或哈希等可观察对象.  分析师还可以使用其REST API自动执行这些操作.
 * [Crits](https://crits.github.io/) -基于Web的工具，将分析引擎与网络威胁数据库结合在一起.
-* [Diffy](https://github.com/Netflix-Skunkworks/diffy) -由Netflix的SIRT开发的DFIR工具，使研究人员可以在事件发生期间跨云实例（当前在AWS上的Linux实例）快速确定妥协范围，并通过显示与基准的差异有效地将这些实例分类以采取后续行动.
+* [Diffy](https://github.com/Netflix-Skunkworks/diffy) -由Netflix的SIRT开发的DFIR工具，使研究人员可以在事件发生期间跨云实例（当前在AWS上的Linux实例）快速确定妥协范围，并通过显示与基准的差异有效地对这些实例进行后续操作.
 * [domfind](https://github.com/diogo-fernan/domfind) -Python DNS搜寻器，用于在不同TLD下查找相同的域名.
 * [Fenrir](https://github.com/Neo23x0/Fenrir)  -简单的IOC扫描仪.  它允许在纯bash中扫描任何Linux / Unix / OSX系统中的IOC.  由THOR和LOKI的创建者创建.
 * [Fileintel](https://github.com/keithjjones/fileintel) -提取每个文件哈希的智能.
 * [HELK](https://github.com/Cyb3rWard0g/HELK) -威胁搜寻平台.
 * [Hindsight](https://github.com/obsidianforensics/hindsight) -Google Chrome / Chromium的互联网历史取证.
-* [Hostintel](https://github.com/keithjjones/hostintel) -拉每个主机的情报.
+* [Hostintel](https://github.com/keithjjones/hostintel) -每个主机获取智能.
 * [imagemounter](https://github.com/ralphje/imagemounter) -命令行实用程序和Python软件包可简化（取消）法医磁盘映像的安装.
 * [Kansa](https://github.com/davehull/Kansa/) -Powershell中的模块化事件响应框架.
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) -非常简单的多线程多规则多文件YARA扫描Python脚本的恶意软件动物园和IR.
@@ -171,7 +171,7 @@
 * [Demisto Playbooks Collection](https://www.demisto.com/category/playbooks/) -剧本收藏.
 * [IRM](https://github.com/certsocietegenerale/IRM) -CERT法国兴业银行的事件响应方法.
 * [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  -不同的通用事件响应工作流程，例如针对恶意软件爆发，数据盗窃，未经授权的访问....每个工作流程包含七个步骤：准备，检测，分析，遏制，根除，恢复，事后处理.  这些工作流程可以在线获得或下载.
-* [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
+* [PagerDuty Incident Response Documentation](https://response.pagerduty.com/)  -描述PagerDuty事件响应过程部分内容的文档.  它不仅提供有关事件准备的信息，而且还提供事件发生期间和之后的处理方法.  资料来源为 [GitHub](https://github.com/PagerDuty/incident-response-docs).
 
 ### Process Dump Tools
 
@@ -181,6 +181,7 @@
 
 * [AMAaaS](https://amaaas.com/index.php/AMAaaS/dashboard) -在本地Android环境中执行的Android恶意软件分析即服务.
 * [Any Run](https://app.any.run/) -交互式在线恶意软件分析服务，可在任何环境下对大多数类型的威胁进行动态和静态研究.
+* [CAPE](https://github.com/ctxis/CAPE) -恶意软件配置和有效负载提取.
 * [Cuckoo](https://github.com/cuckoobox) -开源高度可配置的沙箱工具.
 * [Cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) -社区开发的经过大量修改的布谷鸟叉子.
 * [Cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api) -用于控制布谷鸟修改的沙箱的Python库.

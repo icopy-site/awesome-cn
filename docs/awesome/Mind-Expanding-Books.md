@@ -19,7 +19,7 @@
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
  |  鞋狗：耐克创作者的回忆录|  菲尔·奈特| [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
- |  复合效应|  Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
+ |  复合效应|  达伦·哈迪（Darren Hardy） [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
  |  高产出管理|  安迪·格罗夫| [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
  |  胜过魔鬼：自由与成功的秘诀  拿破仑山| [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
  |  如何从自己所在的地方到想要成为的地方：成功的25条原则|  杰克·坎菲尔德，珍妮特·斯威哲| [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
@@ -58,10 +58,10 @@
  |  大卫和巨人：失败者，不称职和巨人作战艺术  马尔科姆·格拉德威尔| [3.90](https://www.goodreads.com/book/show/15751404-david-and-goliath) | 2013 |  
  |  可持续发展战略：一项业务宣言  亚当·韦巴赫| [3.89](https://www.goodreads.com/book/show/6553353-strategy-for-sustainability) | 2009 |  
  |  黑天鹅：高度不可能的影响  纳西姆·尼古拉斯·塔莱布| [3.88](http://www.goodreads.com/book/show/242472.The_Black_Swan) | 2007 |  
- |  传染性：为什么事情继续流行  乔纳·伯杰| [3.88](https://www.goodreads.com/book/show/15801967-contagious) | 2013 |  
+ |  传染性：为什么事情继续流行  乔纳·贝格| [3.88](https://www.goodreads.com/book/show/15801967-contagious) | 2013 |  
  |  谁说大象不能跳舞？：通过戏剧性的变革领导伟大的企业  小路易斯·格斯特纳| [3.88](https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_) | 2003 |  
  |  Linchpin：您不可或缺吗？  塞思·戈丁（Seth Godin）| [3.87](https://www.goodreads.com/book/show/7155145-linchpin) | 2010 |  
- |  100美元的创业公司：重塑您的谋生方式，做自己喜欢的事以及创造新的未来|  克里斯·吉列波| [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |  
+ |  100美元的创业公司：重塑您的谋生方式，做自己喜欢的事并创造新的未来|  克里斯·吉列波| [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |  
  |  太大不能倒|  安德鲁·罗斯·索金| [3.85](https://www.goodreads.com/book/show/6687247-too-big-to-fail) | 2011 |  
  |  选择的悖论：为什么少花钱多？  巴里·史瓦兹（Barry Shwartz）| [3.84](https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice) | 2005 |  
  |  开始的艺术：历经时间考验，艰苦奋斗的指南，适用于任何人  川崎圭| [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |  
@@ -99,14 +99,14 @@
  |  创意可视化：利用您的想象力创造生活中想要的东西  Shakti Gawain | [4.13](https://www.goodreads.com/book/show/582533.Creative_Visualization) | 2002 |  
  |  Bulfinch的神话|  托马斯·布尔芬奇| [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
  |  自我是敌人  瑞安假日| [4.12](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) | 2016 |  
- |  唤醒内在的巨人：如何立即控制自己的心理，情感，身体和财务命运！  |  安东尼·罗宾斯| [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) |  |  
- |  现在的力量：精神启蒙指南|  埃克哈特·托勒| [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 |  
+ |  唤醒内心的巨人：如何立即控制您的心理，情感，身体和财务命运！  |  安东尼·罗宾斯| [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) |  |  
+| The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 |  
  |  可以预见的非理性  丹·阿里利| [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
  |  流：最佳体验心理学  Mihaly Csikszentmihalyi | [4.10](https://www.goodreads.com/book/show/66354.Flow) | 1990 |  
  |  思考，快慢  丹尼尔·卡尼曼| [4.09](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) | 2011 |  
  |  非理性的人：存在哲学研究  威廉·巴雷特| [4.09](https://www.goodreads.com/book/show/83321.Irrational_Man) |  |  
  |  无限的开始：改变世界的解释  大卫·德意志| [4.08](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |  |  
- |  我们赖以生存的隐喻  乔治·拉科夫（George Lakoff），马克·约翰逊（Mark Johnson）| [4.08](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) | 2003 |  
+ |  我们赖以生存的隐喻  乔治·拉科夫（Mark George Johnson）| [4.08](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) | 2003 |  
  |  砂砾  安吉拉·达克沃思| [4.08](https://www.goodreads.com/book/show/27213329-grit) | 2016 |  
  |  捍卫食物：食者宣言  迈克尔·波伦| [4.07](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) | 2008 |  
  |  的空白：现代人性的否定  史蒂文·平克| [4.07](http://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2003 |  
@@ -172,7 +172,7 @@
  |  失去童贞：自传  理查德·布兰森| [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |1999|  
  |  电线中的幽灵：作为世界上最想要的黑客的我的冒险  凯文·米特尼克| [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
  |  自传：走向自由|  Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
- |  iWoz：计算机狂热崇拜者图标：我是​​如何发明个人计算机，与他人共同创建Apple的，并且这样做很有趣|  史蒂夫·沃兹尼亚克| [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
+ |  iWoz：计算机狂热崇拜者图标：我是​​如何发明个人计算机，与人共同创立的Apple，以及这样做的乐趣|  史蒂夫·沃兹尼亚克| [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
 
 ## History
  |  姓名|  作者|  Goodreads评分|  出版年份|  
@@ -180,6 +180,7 @@
  |  智人：人类简史  Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
  |  互联网的发生方式：从Netscape到iPhone |  布莱恩·麦卡洛| [4.36](https://www.goodreads.com/en/book/show/38212134-how-the-internet-happened) | 2018 |
  |  发现者|  Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
+ |  Homo Deus：明天的历史|  Yuval Noah Harari | [4.27](https://www.goodreads.com/book/show/31138556-homo-deus) | 2017 |
  |  一分钟到午夜：处于核战争边缘的肯尼迪，赫鲁晓夫和卡斯特罗|  迈克尔·多布斯| [4.20](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) | 2008 |  
  |  密码破解者：从古代到互联网的秘密通信的全面历史  大卫·卡恩| [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 |  
  |  从黎明到衰落：西方文化生活500年1500年至今  雅克·巴尊| [4.12](https://www.goodreads.com/book/show/58233.From_Dawn_to_Decadence) | 2001 |  
@@ -382,7 +383,7 @@
 ### Fantasy
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
-| The Kingkiller Chronicle | Patrick Rothfuss | [4.55](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) | 2007 |  
+ |  国王杀手纪事|  帕特里克·罗斯富斯| [4.55](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) | 2007 |  
  |  指环王|  JRR Tolkien | [4.47](https://www.goodreads.com/series/66175-the-lord-of-the-rings) | 1954 |  
  |  冰与火之歌  乔治·RR·马丁| [4.45](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) | 2005 |  
  |  哈利·波特|  JK罗琳| [4.44](https://www.goodreads.com/series/45175-harry-potter) | 1997 |  
@@ -390,7 +391,7 @@
  |  哈利·波特与理性方法|  Eliezer Yudkowsky | [4.38](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) | 2015 |  
  |  Discworld |  特里·普拉切特| [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |  
  |  黑暗塔|  斯蒂芬·金| [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |  
- |  他的深色材料|  菲利普·普尔曼| [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
+ |  他的黑暗材料|  菲利普·普尔曼| [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
  |  最后的愿望-佐贺|  安德烈（Andrzej Sapkowski） [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
  |  城市与城市|  中国米维尔| [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
@@ -446,13 +447,13 @@
 |------|--------|------------------|----------------|  
  |  叶子之家|  Mark Z. Danielewski | [4.13](http://www.goodreads.com/book/show/24800.House_of_Leaves) | 2000 |  
  |  德古拉|  布拉姆·斯托克| [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
- |  科学怪人|  玛丽·雪莱，莫里斯·欣德尔 [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
+ |  科学怪人|  玛丽·雪莱（Mary Shelley），莫里斯·欣德尔（Maurice Hindle）| [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
 
 ### Miscellaneous
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
  |  女王的甘比特|  沃尔特·特维斯| [4.11](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) |  |  
- |  骨人|  Keri Hulme | [4.06](https://www.goodreads.com/book/show/460635.The_Bone_People) | 1986 |  
+ |  骨头人|  Keri Hulme | [4.06](https://www.goodreads.com/book/show/460635.The_Bone_People) | 1986 |  
  |  猫眼|  玛格丽特·阿特伍德| [3.92](https://www.goodreads.com/book/show/51019.Cat_s_Eye) | 1998 |  
  |  Xeelee序列|  斯蒂芬·巴克斯特| [3.69](http://www.goodreads.com/series/49784-xeelee-sequence) | 1992 |  
  |  幽灵舰队|  PW歌手和奥古斯特·科尔| [3.62](https://www.goodreads.com/book/show/22749719-ghost-fleet?from_search=true) | 2015 |  
@@ -463,14 +464,14 @@
 |------|--------|------------------|----------------|  
  |  如何不死：发现经科学证明可以预防和逆转疾病的食物  医学博士Michael Greger | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die) | 2015 |
  |  克服重力：一种系统的方法来锻炼体操和体重（第二版）|  史蒂文·洛| [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 | 
- |  定罪条件|  保罗·韦德| [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
- |  饮食与跑步：我不太可能参加的超级马拉松大赛|  斯科特·尤雷克（Steve Friedman）| [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
+ |  有罪的条件|  保罗·韦德| [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
+ |  饮食与跑步：我不太可能参加的超级马拉松大赛|  史考特·尤里克（Scott Jurek），史蒂夫·弗里德曼（Steve Friedman）| [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
  |  8周最佳健康|  安德鲁·威尔| [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
 
 ## Design
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
- |  模式语言：城镇，建筑物，建筑|  克里斯托弗·亚历山大（Christopher Alexander），石川萨拉（Sara Ishikawa），默里·西尔弗斯坦（Murray Silverstein），马克斯·雅各布森（Max Jacobson），英格丽·菲克斯达尔·金（Ingrid Fiksdahl-King）和Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
+ |  模式语言：城镇，建筑物，建筑|  克里斯托弗·亚历山大（Christopher Alexander），石川萨拉（Sara Ishikawa），默里·西尔弗斯坦（Murray Silverstein），马克斯·雅各布森（Max Jacobson），英格丽·菲克斯达·金（Ingrid Fiksdahl-King）和Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
  |  建筑物的学习方法：建筑物建成后会发生什么？  斯图尔特·布兰德| [4.32](https://www.goodreads.com/book/show/38310.How_Buildings_Learn) | 1995 |
  |  再谈：不要让我思考：Web可用性的常识方法  史蒂夫·克鲁格| [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
  |  日常用品的设计|  唐纳德·诺曼| [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  
@@ -499,4 +500,4 @@
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Vishnu Ks](https://github.com/hackerkid) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Vishnu Ks](https://github.com/hackerkid) 已放弃所有版权及相关或邻接权这项工作.

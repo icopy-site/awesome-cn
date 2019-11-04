@@ -85,7 +85,7 @@
 * [Emoji](https://github.com/wpeterson/emoji) -公开了Phantom Open Emoji库的unicode /图片素材资源和与之配合使用的API.
 * [Less Rails](https://github.com/metaskills/less-rails) -Rails资产管道的动态样式表语言.
 * [Less](https://github.com/cowboyd/less.rb) -在浏览器或Ruby中使用精益CSS.
-* [Rails Assets](https://rails-assets.org) -Bundler到Bower代理.
+* [Rails Assets](https://rails-assets.org) -捆绑器到Bower代理.
 * [Sass](http://sass-lang.com) -Sass使CSS再次有趣.
 * [Sprockets](https://github.com/rails/sprockets) -基于机架的资产包装系统.
 * [Torba](https://github.com/torba-rb/torba) -链轮的无弓捆扎机.
@@ -159,7 +159,7 @@
 ## CLI Utilities
 
 * [Awesome Print](https://github.com/awesome-print/awesome_print) -用样式漂亮地打印您的Ruby对象-全彩和适当的压痕
-* [Betty](https://github.com/pickhardt/betty)  -命令行的友好英语式界面.  不记得命令了吗？  问问贝蒂.
+* [Betty](https://github.com/pickhardt/betty)  -命令行的友好英语式界面.  不记得命令了吗？  问贝蒂.
 * [colorize](https://github.com/fazibear/colorize) -扩展String类或使用设置文本颜色，背景颜色和文本效果的方法添加ColorizedString.
 * [colorls](https://github.com/athityakumar/colorls) -用彩色和超棒字体图标美化`ls`命令.
 * [formatador](https://github.com/geemus/formatador) -STDOUT文本格式.
@@ -586,7 +586,7 @@
 * [HappyMapper](https://github.com/dam5s/happymapper) -使用Nokogiri的对象到XML映射库.
 * [HTML::Pipeline](https://github.com/jch/html-pipeline) -HTML处理过滤器和实用程序.
 * [Nokogiri](https://nokogiri.org) -具有XPath和CSS选择器支持的HTML，XML，SAX和Reader解析器.
-* [Oga](https://github.com/YorickPeterse/oga)  -用Ruby编写的XML / HTML解析器.  Oga不需要诸如libxml之类的系统库，因此可以更轻松快捷地在各种平台上进行安装.
+* [Oga](https://gitlab.com/yorickpeterse/oga)  -用Ruby编写的XML / HTML解析器.  Oga不需要诸如libxml之类的系统库，因此可以更轻松快捷地在各种平台上进行安装.
 * [Ox](https://github.com/ohler55/ox) -快速的XML解析器和对象编组器.
 * [ROXML](https://github.com/Empact/roxml) -通过Nokogiri或LibXML，使用注释样式的类方法在Ruby和XML之间进行自定义映射和双向编组.
 
@@ -723,7 +723,7 @@
 * [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) -一个简单的Ruby on Rails插件，用于创建和管理Rails项目的面包屑导航.
 * [Gretel](https://github.com/lassebunk/gretel) -Ruby on Rails插件，可以轻松而灵活地创建面包屑.
 * [loaf](https://github.com/peter-murach/loaf) -在Rails应用程序中管理和显示面包屑跟踪-精简和卑鄙.
-* [Simple Navigation](https://github.com/codeplant/simple-navigation) -用于为Rails 2、3和4，Sinatra或Padrino创建导航（多级html列表，链接列表或面包屑）的红宝石.
+* [Simple Navigation](https://github.com/codeplant/simple-navigation) -红宝石，可为Rails 2、3和4，Sintratra或Padrino创建导航（html列表，链接列表或具有多个级别的面包屑）.
 
 ## Networking
 
@@ -748,7 +748,7 @@
 * [NoBrainer](https://github.com/nviennot/nobrainer/) -用于Ruby的RethinkDB ORM
 * [Ohm](https://github.com/soveran/ohm) -用于Redis的对象哈希映射库.
 * [Perpetuity](https://github.com/jgaskins/perpetuity) -使用数据映射器模式的Ruby对象的持久性宝石.
-* [Redis-Objects](https://github.com/nateware/redis-objects) -Redis对象通过在Redis gem上的薄层将Redis数据类型映射到Ruby对象，从而提供了Redish的Rubyish接口.
+* [Redis-Objects](https://github.com/nateware/redis-objects) -Redis对象通过Redis宝石上的薄层将Redis数据类型映射到Ruby对象，从而提供了Redish的Rubyish接口.
 * [ROM](https://github.com/rom-rb/rom) -Ruby Object Mapper（ROM）是一个实验性Ruby库，其目标是提供强大的对象映射功能，而又不限制数据存储的全部功能.
 * [Sequel](https://github.com/jeremyevans/sequel) -Sequel是用于Ruby的简单，灵活且功能强大的SQL数据库访问工具包.
 
@@ -783,7 +783,7 @@
   * [Acts As Tennant](https://github.com/ErwinM/acts_as_tenant) -通过共享数据库策略向Rails应用添加多租户.
   * [Apartment](https://github.com/influitive/apartment) -Rails和ActiveRecord的多租户.
   * [Milia](https://github.com/jekuno/milia) -Rails的非侵入式多租户，支持开箱即用的Devise身份验证.
-*社会
+*社交
   * [Acts As Commentable](https://github.com/jackdempsey/acts_as_commentable) -提供一个可以附加到您应用内任何模型的注释模型.
   * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading)  -类似于act_as_commentable;  但是，利用awesome_nested_set提供了线程注释.
   * [acts_as_follower](https://github.com/tcocca/acts_as_follower) -允许任何ActiveRecord模型遵循其他任何模型.

@@ -52,7 +52,7 @@
 
 - [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) -插件可帮助识别开发过程中的可访问性冲突.
 - [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) -用于可访问的Ember.js应用程序的简单模式.
-- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) -Ember.js插件可帮助具有里程碑意义的角色，以实现更好的可访问性.
+- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) -Ember.js插件可帮助具有里程碑意义的角色，以实现更好的辅助功能.
 - [ember-a11y](https://github.com/ember-a11y/ember-a11y) -用于构建可访问的Ember.js应用程序的工具集合.
 - [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) -用于将方法添加到Ember.js组件的混合器，可帮助您管理当前关注的元素.
 - [ember-gestures](https://github.com/html-next/ember-gestures) -Ember.js手势通过在整个应用程序中轻松定义和使用HammerJS管理器和识别器，提供了一种使用手势的简便方法.
@@ -167,13 +167,13 @@
 ### Command-line apps
 
 - [ember-cli-create](https://github.com/gossi/ember-cli-create) -CLI向导创建一个新的余烬项目.
-- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清楚我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认启用的功能.  它仅适用于应用程序，不能与插件一起使用.
+- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清楚我们所说的“可选”的含义，这些功能在可以预见的将来将选择加入/退出，并且是可选的，而不是默认情况下将启用的功能.  它仅适用于应用程序，不能与插件一起使用.
 - [ember-cli-rename](https://github.com/trabus/ember-cli-rename) -ember-cli的插件，提供“ ember重命名”命令.
 
 ### Command-line utilities
 
 - [ember-cli-update](https://github.com/ember-cli/ember-cli-update) -更新Ember CLI Ember.js应用程序，插件和Glimmer.js应用程序.
-- [ember-cli-deprecation-workflow](https://github.com/mixonic/ember-cli-deprecation-workflow) -通过使您无需使用大量控制台噪音即可进行弃用工作，从而使Ember.js升级更容易的插件.
+- [ember-cli-deprecation-workflow](https://github.com/mixonic/ember-cli-deprecation-workflow) -旨在使Ember.js升级更容易的插件，它使您可以处理不推荐使用的内容而不会产生大量控制台噪音.
 
 ### Component addons
 
@@ -305,7 +305,7 @@
 ### External Components Integration
 
 - [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) -Ember.js中类似Glimmer.js的组件.
-- [sparkles-component](https://github.com/rwjblue/sparkles-component) -插件用于通过现有的公共API在Ember.js应用中尝试@ glimmer.js /组件样式的API.
+- [sparkles-component](https://github.com/rwjblue/sparkles-component) -插件用于通过现有的公共API在Ember.js应用程序中使用@ glimmer.js / component样式的API.
 - [hooked-components](https://github.com/lifeart/hooked-components) -受React Hooks方法启发的Ember.js定制组件.
 - [ember-functional-component](https://github.com/rwjblue/ember-functional-component) -尝试使用“纯函数”作为组件.
 - [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) -在Ember.js中渲染React组件.
@@ -1066,7 +1066,7 @@
 - [NaNoWriMo: How can Ember help you write a novel](https://slides.com/emma_be/nanowrimo-ember#/) -@EmmaDelecolle.
 - [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) -@chadian.
 - [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) -托尼·施耐德（@tonywok）.
-- [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) -本·利默（Ben Limmer）.
+- [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) -Ben Limmer.
 - [Deploying a Location-Aware Ember Application](https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application) -Ben Limmer.
 - [Developing Desktop Apps with Electron & Ember.js - FITC WebU2017](https://www.slideshare.net/anulman/developing-desktop-apps-with-electron-emberjs-fitc-webu2017) -艾丹·努尔曼（Aidan Nulman）.
 - [Developing Desktop Apps with Electron & Ember.js](https://www.slideshare.net/fitc_slideshare/developing-desktop-apps-with-electron-emberjs)
@@ -1074,11 +1074,11 @@
 - [Ember At Scale](https://www.slideshare.net/chadhietala/ember-at-scale) -Chad Hietala，LinkedIn.
 - [EmberConf 2015 – Ambitious UX for Ambitious Apps](https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps) -劳伦·伊丽莎白·谭（Lauren Elizabeth Tan）.
 - [EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity](https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity) -劳伦·伊丽莎白·谭（Lauren Elizabeth Tan）.
-- [Fun with Ember 2.x Features](https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features) -本·利默（Ben Limmer）.
+- [Fun with Ember 2.x Features](https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features) -Ben Limmer.
 - [How do I Even Web App](https://www.slideshare.net/lydiaguarino/how-do-i-even-web-app) -Lydia Guarino使用Ember CLI进行Web编程的介绍.
 - [Rapid prototyping and easy testing with ember cli mirage](https://www.slideshare.net/KrzysztofBiaek1/rapid-prototyping-and-easy-testing-with-ember-cli-mirage) -Krzysztof Bialek.
 - [Start Me Up - Building an MVP with EmberJS, Firebase and Material Design](https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design) -布兰登·奥哈拉（Brendan O&#39;Hara）.
-- [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) -本·利默（Ben Limmer）.
+- [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) -Ben Limmer.
 
 ### Styleguides
 
@@ -1188,6 +1188,8 @@
 - [Optional & upcoming features - Michał Staśkiewicz](https://www.youtube.com/watch?v=4XokzPT4rgg&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 - [Hybrid Apps with Ember/Glimmer](https://pusher.com/sessions/meetup/emberfest/hybrid-apps-with-emberglimmer)
 - [Productive Frontend Test Driven Development That Actually Works](https://www.youtube.com/watch?v=63Ya91f8W-8)
+- [EmberCamp 2018](https://www.youtube.com/watch?v=0ziETDm1QTI&list=PL4eq2DPpyBbm-vTgHMdBjUi1Qd5GiRIfW) -EmberCamp 2018的会议视频
+- [EmberCamp 2019](https://www.youtube.com/watch?v=a1HALof3r5M&list=PL4eq2DPpyBbmSKZLCqzMqdtpedlGrDQuc) -EmberCamp 2019的会议视频
 
 ### YouTube channels
 

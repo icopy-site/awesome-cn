@@ -31,7 +31,7 @@
 * [ksh93](https://github.com/att/ast) -康恩·壳
 * [mksh](https://github.com/MirBSD/mksh) -MirBSD Korn Shell
 * [oksh](https://github.com/ibara/oksh) -便携式OpenBSD ksh
-* [osh](https://www.oilshell.org) -Bash兼容，与新的/现代的Unix Shell语言称为Oil
+* [osh](https://www.oilshell.org) -与Bash兼容，并使用称为Oil的新/现代Unix Shell语言
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) -公共领域的Korn Shell
 * [shell++](https://github.com/alexst07/shell-plus-plus) -友好而现代的功能和面向对象的Shell脚本语言
 * [shenv](https://github.com/shenv/shenv) -简单的shell版本管理
@@ -66,7 +66,7 @@
 * [direnv](https://github.com/direnv/direnv) -Shell的环境切换器，与autoenv比较
 * [dnote](https://github.com/dnote/dnote) -开发人员使用的简单的端到端加密笔记本
 * [enhancd](https://github.com/b4b4r07/enhancd) -：rocket：具有交互式过滤器的下一代cd命令
-* [fasd](https://github.com/clvv/fasd) -命令行生产力提升器，可快速访问文件和目录
+* [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [fd](https://github.com/sharkdp/fd) -一种简单，快速且用户友好的替代方法.
 * [foxy](https://github.com/s-p-k/foxy) -用于Firefox和冲浪浏览器的纯文本书签.
 * [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的查询查找文件.
@@ -105,7 +105,7 @@
 * [SHML](https://github.com/odb/shml) -终端的样式框架（Shell标记语言）
 * [slugify](https://github.com/benlinton/slugify) -将文件名和目录转换为Web友好格式的命令
 * [sman](https://github.com/tokozedg/sman) -：bug：命令行摘要管理器
-* [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
+* [spark](https://github.com/holman/spark) -▂▃▅▂▇在你的壳里
 * [shark](https://github.com/jorgebucaran/fish-spark) -▂▃▅迷你图生成器
 * [sheet](https://github.com/oscardelben/sheet) -命令行的文本片段
 * [spot](https://github.com/rauchg/spot) -微小的文件搜索工具
@@ -175,7 +175,7 @@
 * [overcommit](https://github.com/sds/overcommit) -完全可配置和可扩展的Git挂钩管理器
 * [pre-commit](https://pre-commit.com) -用于管理和维护多语言预提交挂钩的框架
 * [rebound](https://github.com/shobrook/rebound) -遇到编译器错误时，立即在终端中浏览堆栈溢出结果
-* [repren](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
+* [repren](https://github.com/jlevy/repren) -命令行搜索替换和文件重命名瑞士军刀
 * [slap](https://github.com/slap-editor/slap) -在Node.js上运行的类似Sublime的基于终端的文本编辑器
 * [shipit](https://github.com/sapegin/shipit) -简约的SSH部署
 * [starring](https://github.com/ritz078/starring) -自动为您在GitHub上使用的npm-package加上星号.
@@ -189,6 +189,7 @@
 
 * [atop](https://www.atoptool.nl) -ASCII全屏性能监视器，能够报告所有进程的活动
 * [bat](https://github.com/sharkdp/bat) -带有翅膀的“猫”克隆
+* [bmon](https://github.com/tgraf/bmon) -实时网络带宽监控器和速率估算器，具有人性化的视觉输出
 * [catcli](https://github.com/deadc0de6/catcli) -用于离线数据的命令行目录工具
 * [exa](https://github.com/ogham/exa) -`ls`的现代版本.
 * [progress](https://github.com/Xfennec/progress) -Linux工具，用于显示`cp`，`rm`，`dd`等的进度.
@@ -262,7 +263,7 @@
 * [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行工具
 * [fanyi](https://github.com/afc163/fanyi) -在终端中将英语翻译成中文
 * [gcalcli](https://github.com/insanum/gcalcli) -Google日历命令行界面
-* [geeknote](https://github.com/VitaliyRodnenko/geeknote) -命令行Evernote客户端
+* [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [haxor-news](https://github.com/donnemartin/haxor-news) -像黑客一样浏览黑客新闻
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) -在舒适的终端上浏览黑客新闻
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) -使用IP地址在世界地图上绘制点

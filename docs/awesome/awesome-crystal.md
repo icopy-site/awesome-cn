@@ -202,7 +202,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) -GOF模式的示例
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) -用Crystal编写的本机Ruby扩展
  * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) 后端API实施
- * [exercism-crystal](https://github.com/exercism/crystal) - Exercism exercises
+ * [exercism-crystal](https://github.com/exercism/crystal) -锻炼运动
  * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) -从零开始示例应用程序的Crystal MySQL
  * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -Serdar Dogruyol博客的Crystal和Kemal版本
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) -使用Kemal和WebSocket构建实时应用程序
@@ -337,7 +337,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [m3u8](https://github.com/akiicat/m3u8) -生成和解析m3u8播放列表以进行HTTP Live Streaming
  * [manual-generator](https://github.com/blocknotes/manual-generator) -从文档站点生成PDF手册的工具
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) -验证并生成Rails的ActiveSupport :: MessageVerifier签名令牌
- * [monads](https://github.com/alex-lairan/monads) - 执行单子
+ * [monads](https://github.com/alex-lairan/monads) -Monad实施
  * [pangu.cr](https://github.com/isaced/pangu.cr) - 水晶偏执文字间距
  * [pinger](https://github.com/spider-gazelle/pinger) -在不需要sudo的情况下Ping IP地址和DNS条目
  * [port_midi](https://github.com/jimm/crystal_port_midi) -PortMIDI跨平台MIDI I / O库的Crystal C绑定
@@ -428,7 +428,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Serverless Computing
  * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) -使Crystal成为OpenFaaS中一流公民的模板
- * [FaaStRuby](https://faastruby.io) -用于Ruby和Crystal的无服务器软件开发平台.
+ * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal.
  * [gcf.cr](https://github.com/sam0x17/gcf.cr) -在Google Cloud Functions中管理Crystal的执行
 
 ## System
@@ -443,6 +443,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crinja](https://github.com/straight-shoota/crinja) -实现 [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) 水晶用
  * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) -编译使用普通晶体表达式的时间模板语言（Crystal stdlib）
+ * [Jbuilder](https://github.com/shootingfly/jbuilder) -受jbuilder启发，使用Builder风格的DSL生成JSON对象
  * [Kilt](https://github.com/jeromegn/kilt) -模板引擎的抽象层
  * [Slang](https://github.com/jeromegn/slang) -受Ruby Slim启发的轻巧，简洁，模板化的语言
  * [teeplate](https://github.com/mosop/teeplate) -用于渲染多个模板文件的库
@@ -487,7 +488,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) -Raven是的客户 [Sentry](https://github.com/getsentry/sentry)
  * [slack.cr](https://github.com/DougEverly/slack.cr) -松弛 [Real Time Messaging API](https://api.slack.com/rtm) 的WebSocket客户端库
- * [twitter-crystal](https://github.com/sferik/twitter-crystal) - 访问Twitter的API库
+ * [twitter-crystal](https://github.com/sferik/twitter-crystal) -访问Twitter API的库
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) -与您的YNAB数据进行交互的库
 
 ## Validation

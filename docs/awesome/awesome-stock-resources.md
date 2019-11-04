@@ -92,7 +92,7 @@
 * [Good Free Photos](https://www.goodfreephotos.com) - [:copyright:](https://www.goodfreephotos.com/pages/creative-commons-license-terms)  一个大型的免费图片网站，上面有数千张公共领域的照片，包括风景，物体，动物，植物，纹理以及许多其他免费照片.  拍摄的所有照片 [the website owner](https://www.goodfreephotos.com/pages/about-me).
 * [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr的世界公共照片档案目录.
 * [New Old Stock](https://nos.twnsnd.co/) - [:copyright:](https://nos.twnsnd.co/rights-and-usage)  公共档案中的老式照片.  已知的版权限制.
-* [NYPL Digital Collections](https://digitalcollections.nypl.org/) -[：版权所有：]（https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions）自2016年1月6日起，共有180.000个项目为公共领域 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
+* [NYPL Digital Collections](https://digitalcollections.nypl.org/) -[：版权所有：]（https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions）自2016年1月6日起180.000个项目为公共领域 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
 * [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright](https://creativecommons.org/publicdomain/mark/1.0/) 美国国家航空航天局（NASA）的约翰逊太空中心（Johnson Space Center）扫描了高分辨率的阿波罗（Apollo）图像.
 * [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 每星期有新库存照片.
 
@@ -242,7 +242,7 @@ SVG图标资源的集合，可以在您的界面和网站设计中使用.
 * [Colorful Gradients](https://colorfulgradients.tumblr.com/)  -由计算机自动创建的渐变.  每天48次.
 * [CoolHue 2.0](https://webkul.github.io/coolhue/) -最酷的精选渐变色板和色板.
 * [Colour Lovers](http://www.colourlovers.com) -一个创意社区，来自世界各地的人们可以创建和共享颜色，调色板和图案.
-* [Coolors](https://coolors.co/) -超酷的配色方案生成器，适用于酷炫的设计师.
+* [Coolors](https://coolors.co/) -超酷的配色方案生成器，适用于出色的设计师.
 * [Flat UI Colors](https://flatuicolors.com/) -平面颜色选择器，可为您提供平面设计的完美色彩.
 * [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) -一个不错的精选调色板灵感资源.
 * [Material Design Colors](https://www.materialui.co/colors) -适用于Android，Web和iOS的材质ui调色板.
@@ -261,7 +261,9 @@ SVG图标资源的集合，可以在您的界面和网站设计中使用.
 
 各种不同的网站提供免费的HTML模板和主题.
 
+* [HTML5 Rocket](https://html5rocket.github.io/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) 免费的HTML5网站模板.
 * [HTML5 Up](https://html5up.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) HTML5 UP制作了精美的HTML5网站模板.
+* [Start Bootstrap](https://startbootstrap.com/) - [:copyright:](https://opensource.org/licenses/MIT) 免费的Bootstrap模板和主题.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) 由Cherry + AJ设计和构建并在知识共享下发布的850个免费CSS和HTML5网站模板的集合.
 * [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) 免费的WordPress主题和网站模板.
 
@@ -317,4 +319,4 @@ SVG图标资源的集合，可以在您的界面和网站设计中使用.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Tony Phipps](https://twitter.com/neutraltone) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Tony Phipps](https://twitter.com/neutraltone) 已放弃所有版权及相关或邻接权这项工作.

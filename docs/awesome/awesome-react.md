@@ -147,11 +147,11 @@
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
-- [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
+- [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
 - [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型keydown包装器
-- [react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours for your apps
+- [react-joyride](https://github.com/gilbarbara/react-joyride) -为您的应用程序创建导览
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) -React组件，可有效呈现大型列表和表格数据
 - [react-window](https://github.com/bvaughn/react-window) -React组件，可有效呈现大型列表和表格数据
 - [react-text-mask](https://github.com/text-mask/text-mask) -React的输入掩码
@@ -171,6 +171,7 @@
 - [enzyme](https://github.com/airbnb/enzyme) -用于React的JavaScript测试实用程序
 - [react-testing-library](https://github.com/testing-library/react-testing-library) -简单而完整的React DOM测试实用程序
 - [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -React hooks测试实用程序，鼓励良好的测试实践
+- [majestic](https://github.com/Raathigesh/majestic) -玩笑的零配置GUI
 
 ##### React Libraries
 

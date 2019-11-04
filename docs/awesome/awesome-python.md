@@ -72,7 +72,7 @@
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) -嵌入式Linux的类似make的构建工具.
 * [buildout](http://www.buildout.org/en/latest/) -用于从多个部分创建，组装和部署应用程序的构建系统.
 * [PlatformIO](https://github.com/platformio/platformio-core) -用于使用不同开发平台构建代码的控制台工具.
-* [pybuilder](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
+* [pybuilder](https://github.com/pybuilder/pybuilder) -用纯Python编写的连续构建工具.
 * [SCons](http://www.scons.org/) -一种软件构造工具.
 
 ## Built-in Classes Enhancement
@@ -98,7 +98,7 @@
 *用于缓存数据的库.
 
 * [beaker](https://github.com/bbangert/beaker) -用于会话和缓存的WSGI中间件.
-* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) -Django模型的自动缓存和失效.
+* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models.
 * [django-cacheops](https://github.com/Suor/django-cacheops) -光滑的ORM高速缓存，具有自动粒度事件驱动的失效功能.
 * [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) -dogpile.cache是​​同一作者制作的Beaker的下一代替代产品.
 * [HermesCache](https://pypi.org/project/HermesCache/) -具有基于标记的失效和防止堆效应的Python缓存库.
@@ -267,7 +267,7 @@
 
 *用于连接和操作数据库的库.
 
-* MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
+* MySQL- [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
     * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python) -具有Python 3支持的MySQL连接器（[mysql-python](https://sourceforge.net/projects/mysql-python/) 叉子）.
     * [PyMySQL](https://github.com/PyMySQL/PyMySQL) -与mysql-python兼容的纯Python MySQL驱动程序.
 * PostgreSQL- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
@@ -275,18 +275,16 @@
     * [queries](https://github.com/gmr/queries) -psycopg2库的包装，用于与PostgreSQL交互.
 *其他关系数据库
     * [pymssql](http://www.pymssql.org/en/latest/) -Microsoft SQL Server的简单数据库接口.
+    * [SuperSQLite](https://github.com/plasticityai/supersqlite) -建立在 [apsw](https://github.com/rogerbinns/apsw).
 * NoSQL数据库
     * [cassandra-driver](https://github.com/datastax/python-driver) -Apache Cassandra的Python驱动程序.
     * [happybase](https://github.com/wbolster/happybase) -Apache HBase的开发人员友好型库.
     * [kafka-python](https://github.com/dpkp/kafka-python) -Apache Kafka的Python客户端.
-    * [py2neo](https://py2neo.org/) -Neo4j的restful接口的Python包装客户端.
+    * [py2neo](https://py2neo.org/) -用于Neo4j的客户端库和工具包.
     * [pymongo](https://github.com/mongodb/mongo-python-driver) -MongoDB的官方Python客户端.
     * [redis-py](https://github.com/andymccurdy/redis-py) -Redis的Python客户端.
 *异步客户端
     * [motor](https://github.com/mongodb/motor) -MongoDB的异步Python驱动程序.
-    * [Telephus](https://github.com/driftx/Telephus) -Cassandra的基于Twisted的客户端.
-    * [txpostgres](https://github.com/wulczer/txpostgres) -PostgreSQL的基于Twisted的异步驱动程序.
-    * [txRedis](https://github.com/deldotdr/txRedis) -Redis基于Twisted的客户端.
 
 ## Date and Time
 
@@ -423,7 +421,7 @@
     * [elpy](https://github.com/jorgenschaefer/elpy) -Emacs Python开发环境.
 *崇高的文字
     * [anaconda](https://github.com/DamnWidget/anaconda) -Anaconda可在功能齐全的Python开发IDE中转换Sublime Text 3.
-    * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) -出色的自动完成库Jedi的Sublime Text插件.
+    * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - A Sublime Text plugin to the awesome auto-complete library Jedi.
 *我来了
     * [jedi-vim](https://github.com/davidhalter/jedi-vim) -用于Python的Jedi自动完成库的Vim绑定.
     * [python-mode](https://github.com/python-mode/python-mode) -用于将Vim转换为Python IDE的多合一插件.
@@ -488,7 +486,7 @@
 * [django-bootstrap3](https://github.com/dyve/django-bootstrap3) -Bootstrap 3与Django的集成.
 * [django-bootstrap4](https://github.com/zostera/django-bootstrap4) -Bootstrap 4与Django的集成.
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) -Django应用程式，可让您以非常优雅且干燥的方式建立漂亮的表格.
-* [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) -独立于平台的Django表单序列化程序.
+* [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) - A platform independent Django form serializer.
 * [WTForms](https://github.com/wtforms/wtforms) -灵活的表单验证和渲染库.
 
 ## Functional Programming
@@ -526,7 +524,7 @@
 *很棒的游戏开发库.*
 
 * [Cocos2d](http://cocos2d.org/) -cocos2d是用于构建2D游戏，演示和其他图形/交互应用程序的框架.
-* [Harfang3D](http://www.harfang3d.com) -用于3D，VR和游戏开发的Python框架.
+* [Harfang3D](http://www.harfang3d.com) - Python framework for 3D, VR and game development.
 * [Panda3D](https://www.panda3d.org/) -迪士尼开发的3D游戏引擎.
 * [Pygame](http://www.pygame.org/news.html) -Pygame是一组旨在编写游戏的Python模块.
 * [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) -用于Ogre 3D渲染引擎的Python绑定，可用于游戏，模拟和任何3D.
@@ -568,7 +566,7 @@
 * [grequests](https://github.com/kennethreitz/grequests) -请求+ gevent用于异步HTTP请求.
 * [httplib2](https://github.com/httplib2/httplib2) -全面的HTTP客户端库.
 * [requests](https://requests.kennethreitz.org/en/master/) -人类HTTP请求.
-* [treq](https://github.com/twisted/treq) -像Twisted的HTTP客户端一样构建的API之类的Python请求.
+* [treq](https://github.com/twisted/treq) -Python要求，例如在Twisted的HTTP客户端之上构建的API.
 * [urllib3](https://github.com/shazow/urllib3) -具有线程安全连接池的HTTP库，支持文件发布，健全.
 
 ## Hardware
@@ -578,7 +576,7 @@
 * [ino](http://inotool.org/) -用于处理的命令行工具包 [Arduino](https://www.arduino.cc/).
 * [keyboard](https://github.com/boppreh/keyboard) -在Windows和Linux上挂钩并模拟全局键盘事件.
 * [mouse](https://github.com/boppreh/mouse) -在Windows和Linux上挂钩并模拟全局鼠标事件.
-* [Pingo](http://www.pingo.io/) -Pingo提供了统一的API来对Raspberry Pi，pcDuino，Intel Galileo等设备进行编程.
+* [Pingo](http://www.pingo.io/) -Pingo为编程设备提供了统一的API，例如Raspberry Pi，pcDuino，Intel Galileo等.
 * [PyUserInput](https://github.com/SavinaRoja/PyUserInput) -用于鼠标和键盘的跨平台控制的模块.
 * [scapy](https://github.com/secdev/scapy) -出色的数据包处理库.
 * [wifi](https://github.com/rockymeza/wifi) -用于在Linux上使用WiFi的Python库和命令行工具.
@@ -607,7 +605,7 @@
 * [CPython](https://github.com/python/cpython) -**默认的，使用C语言编写的Python编程语言的最广泛使用的实现.**
 * [Cython](http://cython.org/) -针对Python优化静态编译器.
 * [CLPython](https://github.com/metawilm/cl-python) -以Common Lisp编写的Python编程语言的实现.
-* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，是更强大的CPython2.7替代（alpha）.
+* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，因为它是更强大的CPython2.7替代（alpha）.
 * [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 * [Jython](https://hg.python.org/jython) -为JVM用Java编写的Python编程语言的实现.
 * [MicroPython](https://github.com/micropython/micropython) -精简高效的Python编程语言实现.
@@ -699,7 +697,7 @@
     * [langid.py](https://github.com/saffsd/langid.py) -独立的语言识别系统.
     * [nltk](http://www.nltk.org/) -用于构建Python程序以使用人类语言数据的领先平台.
     * [pattern](https://github.com/clips/pattern) -用于Python的网络挖掘模块.
-    * [polyglot](https://github.com/aboSamoor/polyglot) -支持数百种语言的自然语言管道.
+    * [polyglot](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
     * [pytext](https://github.com/facebookresearch/pytext) -基于PyTorch的自然语言建模框架.
     * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) -一个工具包，可用于研究的快速深度学习NLP原型.
     * [spacy](https://spacy.io/) -使用Python和Cython进行工业强度自然语言处理的库.
@@ -745,6 +743,7 @@
         * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
     * [dataset](https://github.com/pudo/dataset) -将Python字典存储在数据库中-与SQLite，MySQL和PostgreSQL一起使用.
     * [orator](https://github.com/sdispater/orator) -Orator ORM提供了一个简单而美观的ActiveRecord实现.
+    * [orm](https://github.com/encode/orm) -异步ORM.
     * [peewee](https://github.com/coleifer/peewee) -一个小的，富有表现力的ORM.
     * [pony](https://github.com/ponyorm/pony/) -ORM提供面向生成器的SQL接口.
     * [pydal](https://github.com/web2py/pydal/) -一个纯Python数据库抽象层.
@@ -828,7 +827,7 @@
     * [apistar](https://github.com/encode/apistar) -为Python 3设计的智能Web API框架.
     * [falcon](http://falconframework.org/) -用于构建云API和Web应用程序后端的高性能框架.
     * [hug](https://github.com/timothycrosley/hug) -一个用于彻底公开API的Python 3框架.
-    * [restless](https://github.com/toastdriven/restless) -与框架无关的REST框架，该框架基于从Deliciouspie汲取的经验教训.
+    * [restless](https://github.com/toastdriven/restless) -与框架无关的REST框架，该框架基于从Deliciouspie汲取的教训.
     * [ripozo](https://github.com/vertical-knowledge/ripozo) -快速创建REST / HATEOAS / Hypermedia API.
     * [sandman](https://github.com/jeffknupp/sandman) -用于现有数据库驱动系统的自动化REST API.
 
@@ -889,6 +888,7 @@
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) -用于将复杂对象与简单Python数据类型之间来回转换的轻量级库.
 * [pysimdjson](https://github.com/TkTech/pysimdjson) -的Python绑定 [simdjson](https://github.com/lemire/simdjson).
 * [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) -周围的Python包装器 [RapidJSON](https://github.com/Tencent/rapidjson).
+* [ultrajson](https://github.com/esnme/ultrajson) -使用Python绑定用C编写的快速JSON解码器和编码器.
 
 ## Serverless Frameworks
 
@@ -905,7 +905,7 @@
     * [tablib](https://github.com/kennethreitz/tablib) -XLS，CSV，JSON，YAML中的表格数据集模块.
 *办公室
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) -用于读取和写入Excel 2010 xlsx / xlsm / xltx / xltm文件的库.
-    * [pyexcel](https://github.com/pyexcel/pyexcel) -提供一个用于读取，操作和写入csv，ods，xls，xlsx和xlsm文件的API.
+    * [pyexcel](https://github.com/pyexcel/pyexcel) - Providing one API for reading, manipulating and writing csv, ods, xls, xlsx and xlsm files.
     * [python-docx](https://github.com/python-openxml/python-docx) -读取，查询和修改Microsoft Word 2007/2008 docx文件.
     * [python-pptx](https://github.com/scanny/python-pptx) -用于创建和更新PowerPoint（.pptx）文件的Python库.
     * [unoconv](https://github.com/unoconv/unoconv) -在LibreOffice / OpenOffice支持的任何文档格式之间转换.
@@ -922,7 +922,7 @@
 * YAML
     * [PyYAML](http://pyyaml.org/) -适用于Python的YAML实现.
 * CSV
-    * [csvkit](https://github.com/wireservice/csvkit) -用于转换为CSV并与CSV协同工作的实用程序.
+    * [csvkit](https://github.com/wireservice/csvkit) - Utilities for converting to and working with CSV.
 *存档
     * [unp](https://github.com/mitsuhiko/unp) -可以轻松解压缩档案的命令行工具.
 
@@ -981,7 +981,7 @@
 *对象工厂
     * [factory_boy](https://github.com/FactoryBoy/factory_boy) -Python的测试装置替代品.
     * [mixer](https://github.com/klen/mixer)  -更换其他灯具.  支持的Django，Flask，SQLAlchemy，Peewee等
-    * [model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
+    * [model_mommy](https://github.com/vandersonmota/model_mommy) -创建用于在Django中测试的随机装置.
 *代码覆盖率
     * [coverage](https://pypi.org/project/coverage/) -代码覆盖率测量.
 *假数据
@@ -1013,7 +1013,7 @@
     * [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
     * [shortuuid](https://github.com/skorokithakis/shortuuid) -生成器库，用于生成简洁，明确和URL安全的UUID.
 *解析器
-    * [ply](https://github.com/dabeaz/ply) - Implementation of lex and yacc parsing tools for Python.
+    * [ply](https://github.com/dabeaz/ply) -为Python实现lex和yacc解析工具.
     * [pygments](http://pygments.org/) -通用语法荧光笔.
     * [pyparsing](https://github.com/pyparsing/pyparsing) -用于生成解析器的通用框架.
     * [python-nameparser](https://github.com/derek73/python-nameparser) -将人名解析为其各个组成部分.
@@ -1028,7 +1028,7 @@
 * [apache-libcloud](https://libcloud.apache.org/) -一个适用于所有云的Python库.
 * [boto3](https://github.com/boto/boto3) -Amazon Web Services的Python接口.
 * [django-wordpress](https://github.com/istrategylabs/django-wordpress) -Django的WordPress模型和视图.
-* [facebook-sdk](https://github.com/mobolic/facebook-sdk) -Facebook平台Python SDK.
+* [facebook-sdk](https://github.com/mobolic/facebook-sdk) - Facebook Platform Python SDK.
 * [google-api-python-client](https://github.com/google/google-api-python-client) -适用于Python的Google API客户端库.
 * [gspread](https://github.com/burnash/gspread) -Google Spreadsheets Python API.
 * [twython](https://github.com/ryanmcgrath/twython) -Twitter API的Python包装器.
@@ -1066,7 +1066,7 @@
 * [django-compressor](https://github.com/django-compressor/django-compressor) -将链接的和内联的JavaScript或CSS压缩到单个缓存的文件中.
 * [django-pipeline](https://github.com/jazzband/django-pipeline) -Django的资产包装库.
 * [django-storages](https://github.com/jschneier/django-storages) -Django的自定义存储后端集合.
-* [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
+* [fanstatic](http://www.fanstatic.org/en/latest/) -打包，优化并作为Python包提供静态文件依赖项.
 * [fileconveyor](http://wimleers.com/fileconveyor) -守护程序，用于检测文件并将其同步到CDN，S3和FTP.
 * [flask-assets](https://github.com/miracle2k/flask-assets) -帮助您将Webassets集成到Flask应用中.
 * [webassets](https://github.com/miracle2k/webassets) -捆绑，优化和管理静态资源的唯一缓存无效化URL.
@@ -1097,16 +1097,19 @@
 
 *全栈Web框架*
 
-* [Django](https://www.djangoproject.com/) -Python中最流行的Web框架.
-    * [awesome-django](https://github.com/shahraizali/awesome-django)
-* [Flask](http://flask.pocoo.org/) - A microframework for Python.
-    * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
-* [Masonite](https://github.com/MasoniteFramework/masonite) -以开发人员为中心的现代Python Web框架.
-* [Pyramid](https://pylonsproject.org/) -一个小型，快速，扎实的开源Python Web框架.
-    * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
-* [Sanic](https://github.com/channelcat/sanic) -写得很快的Web服务器.
-* [Vibora](https://vibora.io/) -受Flask启发的快速，高效和异步的Web框架.
-* [Tornado](http://www.tornadoweb.org/en/latest/) -Web框架和异步网络库.
+*同步
+    * [Django](https://www.djangoproject.com/) -Python中最流行的Web框架.
+        * [awesome-django](https://github.com/shahraizali/awesome-django)
+    * [Flask](http://flask.pocoo.org/) -Python的微框架.
+        * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+    * [Pyramid](https://pylonsproject.org/) -一个小型，快速，扎实的开源Python Web框架.
+        * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
+    * [Masonite](https://github.com/MasoniteFramework/masonite) -以开发人员为中心的现代Python Web框架.
+*异步
+    * [FastAPI](https://github.com/tiangolo/fastapi) -一种现代，快速的Web框架，用于基于标准Python类型提示使用Python 3.6+构建API.
+    * [Sanic](https://github.com/huge-success/sanic) -写得很快的Web服务器.
+    * [Vibora](https://vibora.io/) -受Flask启发的快速，高效和异步的Web框架.
+    * [Tornado](http://www.tornadoweb.org/en/latest/) -Web框架和异步网络库.
 
 ## WebSocket
 
@@ -1129,12 +1132,12 @@
 * [CircleCI](https://circleci.com/) -可以运行非常快速的并行测试的CI服务.
 * [Travis CI](https://travis-ci.org) -流行的CI服务，可用于您的开源和 [private](https://travis-ci.com)  项目.  （仅限GitHub）
 * [Vexor CI](https://vexor.io) -具有按分钟计费模式的私人应用程序的持续集成工具.
-* [Wercker](http://www.wercker.com/) - A Docker-based platform for building and deploying applications and microservices.
+* [Wercker](http://www.wercker.com/) -基于Docker的平台，用于构建和部署应用程序和微服务.
 
 ## Code Quality
 
 * [Codacy](https://www.codacy.com/) -自动代码审查，可以更快地发布更好的代码.
-* [Codecov](https://codecov.io/) - Code coverage dashboard.
+* [Codecov](https://codecov.io/) -代码覆盖率仪表板.
 * [CodeFactor](https://www.codefactor.io/) -Git的自动代码审查.
 * [Landscape](https://landscape.io/) -托管的连续Python代码指标.
 * [PEP 8 Speaks](https://pep8speaks.com/) -GitHub集成以检查代码样式.

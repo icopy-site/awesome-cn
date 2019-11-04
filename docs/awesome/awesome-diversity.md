@@ -29,7 +29,7 @@
 - [Bridge Troll](https://www.bridgetroll.org/) -由志愿者组织的活动，以增强人们的技术能力.
 - [Code 2040](http://www.code2040.org/) -通过各种计划和研究金，Code2040是一项伟大的计划，为黑人和拉丁裔人才创造了技术机会.
 - [Codebar](https://codebar.io/) -Codebar是一项非营利性计划，通过举办定期的编程研讨会来促进多元化的技术社区的发展.
-- [Code Liberation](http://codeliberation.org/) -代码解放促进了女性，非二元，女性和识别女孩的人们创建数字游戏和创造技术，从而使STEAM领域多样化.
+- [Code Liberation](http://codeliberation.org/) -代码解放促进了女性，非二元，女性和识别女性的人们创建数字游戏和创造技术，从而使STEAM领域多样化.
 - [Consensual Software](http://consensualsoftware.com/) -一个开源项目，提倡在软件设计中更好地使用许可.
 - [Dear Tech People](http://www.deartechpeople.com) -种族和性别多样性排名，排名前100位的高科技公司.
 - [Dev Color](https://www.devcolor.org/) -一个非营利性组织，旨在促进Black软件工程师的职业发展.
@@ -49,13 +49,14 @@
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) -该计划将年轻的黑人男性与成为高级企业家和技术人员所需的一切联系在一起.
 - [Kapor Center](http://www.kaporcenter.org/) -Kapor家族组织致力于消除有代表性的有色人种对科学，技术，工程和数学（STEM）教育和科技职业的障碍.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) -科技界的女同志社区是科技界（或热爱她们的人）中或附近的同性恋女性社区.
-- [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目受欢迎，包容并赞赏其贡献者的多样性.
+- [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目值得欢迎，包容和赞赏其贡献者的多样性.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) -开源精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
 - [ParadigmIQ](https://www.paradigmiq.com/) -范式提供了一系列的研讨会，培训和评估，以帮助实现多样性，包容性，归属感，保留性等等.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) -致力于建立共享机会，经验和思想的社区的组织，最终改善了整个创意产业中少数民族的代表权.
 - [PHP Women](http://phpwomen.org) -一个包容性的全球网络，在PHP社区内提供支持.
 - [Ping A Programadoras](https://pingprogramadoras.org/) -一群妇女和非双性人，其目的是反映和增强技术领域的能力.
-- [Project Alloy](https://www.projectalloy.org/) -Alloy计划通过向职业生涯初期和技术代表不足的人们提供财政补助和其他资源，来一次建立一个更具包容性的技术社区，一次会议.
+- [Pink Programming](https://www.pinkprogramming.se) -一个非营利组织，为妇女，跨性别者和非二进制社区组织代码活动.
+- [Project Alloy](https://www.projectalloy.org/) -合金计划通过向职业生涯初期但技术代表不足的人们提供财政补助和其他资源，来一次建立一个更具包容性的技术社区，一次会议.
 - [Project Include](http://projectinclude.org/) -使用数据和倡导来加速技术行业的多样性和包容性解决方案的非营利组织.
 - [PyLadies](http://www.pyladies.com/) -国际指导小组，致力于帮助更多女性成为Python开源社区的积极参与者和领导者.
 - [Q-Space](http://qhumanity.org/index.php/our-projects/q-space/) -位于中国北京的酷儿和女权主义制造者空间，提供了学习空间和社区为变革而采取的行动.
@@ -64,7 +65,7 @@
 - [R-Ladies](https://rladies.org/) -在R社区促进性别多样性的世界范围组织.
 - [Scala Bridge](http://www.scalabridge.org/) -建立一个包容性的Scala社区，并为妇女提供入门编程讲习班.
 - [She++](https://sheplusplus.org) -非营利组织，致力于通过消除围绕技术职业的消极刻板印象来增强技术中代表性不足的群体的能力.
-- [Techtonica](https://techtonica.org/) -Techtonica与科技公司合作，为湾区妇女和低收入的非二元，女性相邻的成年人提供带薪水和职位安排的技术学徒.
+- [Techtonica](https://techtonica.org/) -Techtonica与科技公司合作，为湾区妇女和非二元，与女性相邻的低收入成年人提供助学金和职位安排的技术学徒.
 - [Tech Ladies](https://www.hiretechladies.com/) -科技女士将女性与最佳工作和技术机会联系在一起.
 - [Teens Exploring Technology](http://exploringtech.org/) -鼓励内城青少年黑人和拉丁裔男性成为城市社区变革的催化剂.
 - [TLA Women In Tech](http://tlawomenintech.org/) -致力于提高性别平衡和技术平等的工作组.
@@ -86,7 +87,7 @@
 - [ACT-W National Conference](http://www.act-w.org/) -由ChickTech主办的ACT-W National致力于为您提供关于职业发展，领导才能，技术和多样性的启发性和可行的教育.
 - [AlterConf](https://alterconf.com/) -AlterConf是一个旅行会议系列，为处于边缘地位的人们以及在技术和游戏行业中为他们提供支持的人们提供安全的机会.
 - [Elixir With Love](https://www.elixir-with-love.com/) -Elixir With Love是一个积极的会议，其使命是向开发人员介绍这种令人兴奋的新语言，并建立一个多样化的Elixir社区.
-- [Lambda World](http://www.lambda.world/)  -Lambda World是一个功能性编程会议，其思想是授权技术不足的少数群体.  在这种思维方式下，我们将采取一些行动，例如创建用于支付门票和住宿的补助金，举办包容性研讨会，以及通过提供旅游活动使个人更难以离开家人，从而使会议更容易进行，婴儿床和婴儿推车.
+- [Lambda World](http://www.lambda.world/)  -Lambda World是一个功能性编程会议，其思想是授权技术不足的少数群体.  在这种思维方式下，我们将采取一些行动，例如创建用于支付门票和住宿的补助金，举办包容性研讨会，以及通过提供旅游活动使个人更难以离开家庭，从而使会议更容易进行，婴儿床和婴儿推车.
 - [DDD Europe](https://dddeurope.com)  -欧洲域驱动设计专注于软件设计和建模.  他们为多样性和改善活动做出了惊人的承诺.
 
 ## Ally Resources
@@ -103,7 +104,7 @@
 
 - [5 Ally Actions | June 15, 2018](https://code.likeagirl.io/5-ally-actions-june-15-2018-cfdef1e590cb) -更好的盟友.
 - [10 Actionable Ways To Actually Increase Diversity In Tech](https://www.fastcompany.com/3041339/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec) -凯瑟琳·阿什克特（Catherine Ashcraft）.
-- [Bias and Hiring: How We Hire UX Researchers](https://medium.com/firefox-ux/bias-and-hiring-how-we-hire-ux-researchers-6f9db9f8d670) -莎朗·包蒂斯塔（Sharon Bautista）.
+- [Bias and Hiring: How We Hire UX Researchers](https://medium.com/firefox-ux/bias-and-hiring-how-we-hire-ux-researchers-6f9db9f8d670) - By Sharon Bautista.
 - [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/) -杰森·王（Jason Wong）.
 - [Building Inclusive Communities](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba) -Karolina Szczur.
 - [Dev Team Diversity #Realtalk](https://www.devmynd.com/blog/2015-08-09-dev-team-diversity-realtalk/) -莎拉·梅（Sarah Mei）.
@@ -127,7 +128,7 @@
 
 - [100 Women In Tech And Founders To Follow On Twitter](https://medium.com/athena-talks/100-women-in-tech-and-founders-to-follow-on-twitter-f98560b1a3c7) -作者：Allyson Kapin.
 - [30+ Diversity And Inclusion Activists And Organisations I Look Up To](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) -Karolina Szczur.
-- [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) -法鲁克·阿特斯
+- [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) -法鲁克·阿特斯（Faruk Ates）.
 - [A Counterintuitive Way To Increase Diversity In Tech](https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50) -Rachel Nabors.
 - [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) -斯蒂芬·特尔班（Stephen Turban），劳拉·弗里曼（Laura Freeman）和本·瓦伯（Ben Waber）.
 - [Accessibility 101: Introduction To Disability And Accessibility](https://www.youtube.com/watch?v=qM7wFZo5yfI) -詹妮·莱弗莱里（Jenny Lay-Flurrie）. 
@@ -155,7 +156,7 @@ Will Evans和Sinduja Rangarajan.
 - [I'm Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) -Diane Rubino.
 - [If You Can't Find A Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) -Avivah Wittenberg-Cox.
 - [If You Think Women In Tech Is Just A Pipeline Problem, You Haven't Been Paying Attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) -Rachel Thomas.
-- [Important Women In CS Who Aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/) - By Hillel Wayne.
+- [Important Women In CS Who Aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/) -希勒·韦恩（Hillel Wayne）.
 - [Not Applicable: What Your Job Post Is Really Saying](https://where.coraline.codes/blog/not_applicable/) -Coraline Ada.
 - [On Toxic Jobs, Low Self-Esteem, & Interviewing](https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a) -Rachel Thomas.
 - [Racial Bias At Tech Companies Is Real](http://www.complex.com/life/2016/03/tech-diversity-problem) -苏珊娜·魏斯（Suzannah Weiss）.
@@ -167,7 +168,7 @@ Will Evans和Sinduja Rangarajan.
 - [Struggling For Investments, Silicon Valley Women Reluctant To Speak Out On Harassment](https://www.npr.org/sections/alltechconsidered/2017/11/16/564498133/struggling-for-investments-silicon-valley-women-reluctant-to-speak-out-on-harass) -劳拉·赛德尔（Laura Sydell）.
 - [Survey Finds That In Tech, Retaliation For Speaking Up About Workplace Discrimination Is Common](https://www.marketplace.org/2018/07/24/business/retaliation-workplace) -Janet Nguyen和David Brancaccio.
 - [Survival Tips For Women In Tech](https://patricia.no/2018/09/06/survival_tips_for_women_in_tech.html) -帕特里夏·亚斯（Patricia Aas）.
-- [The Do's And Don'ts Of Being A Good Ally](http://theangryblackwoman.com/2009/10/01/the-dos-and-donts-of-being-a-good-ally/) -Karnythia.
+- [The Do's And Don'ts Of Being A Good Ally](http://theangryblackwoman.com/2009/10/01/the-dos-and-donts-of-being-a-good-ally/) - By Karnythia.
 - [The Other Diversity Dividend](https://hbr.org/2018/07/the-other-diversity-dividend) -Paul Gompers和Silpa Kovvali.
 - [The Perverse Incentives That Help Incels Thrive In Tech](https://www.wired.com/story/ellen-pao-the-perverse-incentives-that-help-incels-thrive-in-tech/) -艾伦·鲍（Ellen Pao）.
 - [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) -Sheelah Kolhatkar.
@@ -193,7 +194,7 @@ Will Evans和Sinduja Rangarajan.
 - [Why Men Don't Believe The Data On Gender Bias In Science](https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science/) -艾莉森·库尔（Allison Coil）.
 - [Why More Tech Companies Should Hire People With Disabilities](https://www.inc.com/zoe-henry/aapd-disability-equality-index-2017.html) -佐伊·亨利（ZoëHenry）.
 - [Why Tech Needs The Rooney Rule](https://techcrunch.com/2015/07/28/why-tech-needs-the-rooney-rule/) -萨米·艾哈迈德（Sammy Ahmed）.
-- [Why We Shouldn't Underestimate The Power Of Diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/) - By Joi Ito and Jeff Howe.
+- [Why We Shouldn't Underestimate The Power Of Diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/) -Joi Ito和Jeff Howe.
 - [Why Your Efforts To Fix Your Pipeline Aren’t Fixing Your Pipeline](https://chelseatroy.com/2018/04/12/why-your-efforts-to-fix-your-pipeline-arent-fixing-your-pipeline/) -切尔西·特洛伊.
 - [Women And Minorities Are Penalized For Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity) -Stefanie K. Johnson和David R. Hekman.
 - [You Can’t Just Hit The Diversity Button](https://medium.com/projectinclude/you-cant-just-hit-the-diversity-button-94b7043372a9) -按项目包括劳拉·戈麦斯（Laura I.Gómez）.
