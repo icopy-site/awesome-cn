@@ -26,6 +26,7 @@
 - [Akka](http://akka.io/) -用于在JVM上构建高度并发，分布式和弹性消息驱动的应用程序的工具包和运行时.
 -[Axon！[c]]（https://axoniq.io/）-一个端到端的开发和基础架构平台，用于在JVM上轻松开发和运行任何DDD，CQRS和事件源应用程序.
 - [Baratine](http://baratine.io/) -用于构建松耦合的POJO微服务网络的平台.
+- [Eclipse Microprofile](https://microprofile.io/) -一个开放论坛，通过跨多个实现进行创新并以标准化为目标在感兴趣的公共领域进行协作，从而为微服务架构优化Enterprise Java.
 - [Erlang/OTP](https://github.com/erlang/otp) -用于构建对高可用性有要求的大规模可扩展软实时系统的编程语言.
 - [Finagle](http://twitter.github.io/finagle) -用于JVM的可扩展RPC系统，用于构建高并发服务器.
 - [Flogo](https://github.com/TIBCOSoftware/flogo) -Flogo是一个开放源代码框架，可简化构建高效，现代的无服务器功能和边缘微服务的过程.
@@ -37,13 +38,15 @@
 - [Micro](https://micro.mu/) -微服务开发运行时.
 - [Microserver](https://github.com/aol/micro-server) -Java 8本机，零配置，基于标准的，经过战斗加固的库，可以运行Java REST微服务.
 - [Moleculer](http://moleculer.services/) -适用于Node.js，Java，Go和Ruby的快速而强大的微服务框架.
+- [Open Liberty](https://openliberty.io/) -用于构建快速，高效的云原生Java微服务的轻量级开放框架.
 - [Orbit](https://github.com/orbit/orbit) -JVM语言的现代框架，使构建和维护分布式和可伸缩的在线服务变得更加容易.
+- [SmallRye](https://smallrye.io/) -专为云开发量身定制的API和实现，包括Eclipse MicroProfile.
+- [Thorntail](https://thorntail.io/) -通过将Java EE应用程序打包到足够的服务器运行时中来打包和运行Java EE应用程序的一种创新方法，以“ java -jar”您的应用程序.
 - [Quasar](https://github.com/puniverse/quasar) -JVM的光纤，通道和参与者.
 - [ScaleCube](https://github.com/scalecube/scalecube) -用于为JVM构建响应式微服务的工具包：低延迟，高吞吐量，可扩展且具有弹性.
 - [Vert.X](http://vertx.io/) -用于在JVM上构建响应式应用程序的工具包.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) -一组Vert.x组件，用于构建响应式微服务应用程序.
 - [Wangle](https://github.com/facebook/wangle) -一个框架，提供了一组通用的客户端/服务器抽象，以一致，模块化和可组合的方式构建服务.
-- [WildFly Swarm](http://wildfly-swarm.io/) -基于以下条件的微服务以足够的Java EE运行时开始 [Eclipse MicroProfile](https://projects.eclipse.org/proposals/eclipse-microprofile).
 
 ## Service Toolkits
 
@@ -70,7 +73,7 @@
 - [Cap’n Proto RPC](https://capnproto.org/cxxrpc.html) -Cap&#39;n Proto C ++ RPC实现.
 - [C++ Micro Services](http://cppmicroservices.org/) -类似于OSGi的C ++动态模块系统和服务注册表.
 - [Enduro/X](https://github.com/endurox-dev/endurox/) -用于GNU / Linux的基于XATMI的服务框架.
-- [Pion](https://github.com/splunk/pion) -用于构建轻量级HTTP接口的C ++框架.
+- [Pion](https://github.com/splunk/pion) - C++ framework for building lightweight HTTP interfaces.
 - [Pistache](https://github.com/oktal/pistache) -用C ++编写的高性能REST工具包.
 - [Poco](http://pocoproject.org/) -用于构建基于网络的应用程序和服务器的C ++类库.
 - [Restbed](https://github.com/Corvusoft/restbed) -为C ++ 11应用程序带来了RESTful异步功能.
@@ -150,7 +153,7 @@
 - [Armeria](https://line.github.io/armeria/) -基于Java 8，Netty，Thrift和gRPC构建的开源异步HTTP / 2 RPC / REST客户端/服务器库.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) -高性能线程间消息传递库.
 - [Dropwizard](https://dropwizard.github.io/) -用于开发对ops友好的高性能RESTful Web服务的Java框架.
-- [Dubbo](http://dubbo.io/) - A high-performance, java based RPC framework open-sourced by Alibaba.
+- [Dubbo](http://dubbo.io/) -阿里巴巴开源的基于Java的高性能RPC框架.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) -用于基于Feign或Retrofit定义和创建RESTish / RPC服务器和客户端的库，并以JAX-RS服务定义作为服务器的Dropwizard / Jersey.
 - [Ja-micro](https://github.com/Sixt/ja-micro) -用于构建微服务的轻量级Java框架（与go-micro兼容）.
 - [Jersey](https://jersey.github.io/)  -Java中的RESTful服务.  JAX-RS参考实现.
@@ -183,7 +186,7 @@
 - [Actionhero](http://www.actionherojs.com/) -具有集成集群功能和延迟任务的多传输Node.js API服务器.
 - [Baucis](https://github.com/wprl/baucis) -建立和维护可扩展的HATEOAS / Level 3 REST API.
 - [ClaudiaJS](https://claudiajs.com/) -易于将Node.js项目部署到AWS Lambda和API网关.
-- [Cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
+- [Cote](https://github.com/dashersw/cote) -用于构建零配置微服务的Node.js库.
 - [Express](http://expressjs.com/) -适用于Node.js的快速，不受限制的极简Web框架
 - [Fastify](https://www.fastify.io/) -适用于Node.js的Fastify，快速且低开销的Web框架.
 - [FeathersJS](http://feathersjs.com/) -适用于现代应用程序的开源REST和实时API层.
@@ -334,7 +337,7 @@
 - [Bunyan](https://github.com/trentm/node-bunyan) -用于Node.js服务的简单快速的JSON日志记录库.
 - [Fluentd](http://www.fluentd.org/) -用于统一日志记录层的开源数据收集器.
 - [Graylog](https://www.graylog.org/) -完全集成的开源日志管理平台.
-- [Kibana](https://www.elastic.co/products/kibana) -灵活的分析和可视化平台.
+- [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
  -[LogDNA！[c]]（https://logdna.com/）-集中式日志管理软件.  从任何平台，任何数量实时实时收集，集中和分析日志.
 - [Logstash](https://www.elastic.co/products/logstash) -用于管理事件和日志的工具.
 - [Suro](https://github.com/Netflix/suro/wiki) -分布式数据管道，使服务能够移动，聚合，路由，存储数据.
@@ -346,7 +349,7 @@
 - [Aeron](https://github.com/real-logic/Aeron) -高效可靠的UDP单播，UDP组播和IPC消息传输.
 - [Apollo](http://activemq.apache.org/apollo/) -从原始ActiveMQ的基础构建的更快，更可靠，更易于维护的消息传递代理.
 - [Ascoltatori](https://github.com/mcollina/ascoltatori) -Node的发布/订阅库.
-- [Beanstalk](http://kr.github.io/beanstalkd/) -简单，快速的工作队列.
+- [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
 - [Crossbar](https://github.com/crossbario/crossbar)  -用于分布式和微服务应用程序的开源网络平台.  它实现了开放的Web应用程序消息协议（WAMP）.
 - [Disque](https://github.com/antirez/disque) -分布式消息代理.
 - [Eventuate](http://eventuate.io/) -开发异步微服务的平台，解决了分布式数据管理问题.
@@ -375,6 +378,7 @@
 -[IOpipe！[c]]（https://www.iopipe.com/）-监控Amazon Lambda的应用程序性能.
 - [Jaeger](https://www.jaegertracing.io/) -开源的端到端分布式跟踪
 - [Microservice Graph Explorer](https://github.com/hootsuite/microservice-graph-explorer) -使用实际的应用程序连接实时浏览和浏览应用程序中的所有微服务.
+- [OpenTracing](https://opentracing.io/) -供应商中立的API和用于分布式跟踪的工具.
 - [Parallec](https://github.com/eBay/parallec) -快速并行异步HTTP / SSH / TCP / Ping客户端Java库.
 - [Prometheus](http://prometheus.io/) -开源服务监视系统和时间序列数据库.
 - [REST Commander](https://github.com/eBay/restcommander) -快速并行异步HTTP客户端，作为监视和管理HTTP端点的服务.
@@ -512,7 +516,7 @@
 ### World Wide Web
 
 - [W3C.REC-Webarch](http://www.w3.org/TR/webarch/) -万维网体系结构，第一卷.
-- [RFC3986](https://tools.ietf.org/html/rfc3986) - Uniform Resource Identifier (URI): Generic Syntax.
+- [RFC3986](https://tools.ietf.org/html/rfc3986) -统一资源标识符（URI）：通用语法.
 - [RFC6570](https://tools.ietf.org/html/rfc6570) -URI模板.
 - [RFC7320](https://tools.ietf.org/html/rfc7320) -URI设计和所有权.
 
@@ -562,6 +566,7 @@
 
 - [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)  -JSON超文本应用程序语言（HAL）是一种标准，该标准建立了使用JSON表达超媒体控件（例如链接）的约定.  <sup>草案</sup>
 - [Hydra](http://www.hydra-cg.com/) -可互操作，超媒体驱动的Web API的规范.
+- [OpenAPI](https://github.com/OAI/openapi-specification/) -OpenAPI规范（OAS）为REST API定义了标准的，与编程语言无关的接口描述，使人和计算机都可以发现和理解服务的功能，而无需访问源代码，附加文档或检查网络交通.
 - [WADL](http://www.w3.org/Submission/wadl/) -Web应用程序描述语言规范.
 - [WSDL](http://www.w3.org/TR/wsdl20/) -Web服务描述语言版本2.0规范.
 
@@ -611,6 +616,7 @@
 
 ### Articles & Papers
 
+- [A sidecar for your service mesh](https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/) -简短的服务网格介绍.
 - [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/) -描述尺寸以扩展服务的模型.
 - [Benchmark Requirements for Microservices Architecture Research](https://goo.gl/14ElnV) <sup>：small_orange_diamond：PDF</sup> -设置的要求，可能在选择社区拥有的建筑基准，以支持重复微服务的研究是有用的.
 - [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) -基于实际经验的实用概述，介绍了构建微服务需要了解的知识.
@@ -635,7 +641,7 @@
 
 - [Bla Bla Microservices Bla Bla](http://jonasboner.com/bla-bla-microservices-bla-bla/) -在2016年4月的O&#39;Reilly软件架构会议上的演讲.
 - [Challenges in Implementing MicroServices](https://www.youtube.com/watch?v=yPf5MfOZPY0) -Fred George在GOTO 2015上的演讲.
-- [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) -Martin Fowler在2014年柏林GOTO上的演讲.
+- [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - A presentation at GOTO Berlin 2014 by Martin Fowler.
 
 ### Tutorials
 

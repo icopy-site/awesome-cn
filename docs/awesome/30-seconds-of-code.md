@@ -320,7 +320,7 @@ const sum = pipeAsyncFunctions（
   x =&gt; x + 3，
   异步x =&gt;（await x）+ 4
 );
-（异步（）=&gt; {
+（async（）=&gt; {
    console.log（await sum（5））;  // 15（一秒钟后）
 })();
 ```
@@ -380,10 +380,10 @@ const delay = promisify（（d，cb）=&gt; setTimeout（cb，d））;
 
 创建一个函数，该函数调用提供的函数，其参数根据指定的索引排列.
 
-使用Array.prototype.map（）结合散布运算符（...）将基于索引的参数重新排序，以将转换后的参数传递给fn.
+Use `Array.prototype.map()` to reorder arguments based on `indexes` in combination with the spread operator (`...`) to pass the transformed arguments to `fn`.
 
 ```js
-const Rearg =（fn，index）=&gt;（... args）=&gt; fn（... indexes.map（i =&gt; args [i]）））;
+const Rearg =（fn，index）=&gt;（... args）=&gt; fn（... indexes.map（i =&gt; args [i]））;;
 ```
 
 <details>
@@ -513,7 +513,7 @@ const any =（arr，fn = Boolean）=&gt; arr.some（fn）;
 将二维数组转换为逗号分隔值（CSV）字符串.
 
 使用Array.prototype.map（）和Array.prototype.join（delimiter）将单个一维数组（行）组合成字符串.
-使用Array.prototype.join（&#39;\ n&#39;）将所有行合并为CSV字符串，并用换行符分隔每一行.
+使用`Array.prototype.join（&#39;\ n&#39;）`将所有行合并为CSV字符串，并用换行符分隔每一行.
 省略第二个参数`delimiter`，以使用默认定界符`，`.
 
 ```js
@@ -783,7 +783,7 @@ const dropRight =（arr，n = 1）=&gt; arr.slice（0，-n）;
 ```js
  dropRight（[1,2,3]）;  // [1,2]
  dropRight（[1,2,3]，2）;  // [1]
-dropRight([1, 2, 3], 42); // []
+ dropRight（[1,2,3]，42）;  // []
 ```
 </details>
 
@@ -972,7 +972,7 @@ const findLastIndex =（arr，fn）=&gt;
 将数组展平到指定深度.
 
 使用递归，将每个深度级别的“深度”递减1.
-Use `Array.prototype.reduce()` and `Array.prototype.concat()` to merge elements or arrays.
+使用`Array.prototype.reduce（）`和`Array.prototype.concat（）`合并元素或数组.
 基本情况下，对于“深度”等于“ 1”，将停止递归.
 省略第二个参数“ depth”以仅展平至深度“ 1”（单展平）.
 
@@ -1058,6 +1058,26 @@ const head = arr =&gt; arr [0];
 </details>
 
 
+### includesAny
+
+如果arr中至少包含一个值元素，则返回`true`，否则返回&#39;false&#39;.
+
+使用“ Array.prototype.some（）”和“ Array.prototype.includes（）”来检查“ arr”中是否包含“ values”的至少一个元素.
+
+```js
+const includesAny =（arr，values）=&gt; values.some（v =&gt; arr.includes（v））;
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+ includeAny（[1、2、3、4]，[2、9]）;  //正确
+ includeAny（[1、2、3、4]，[8、9]）;  //错误
+```
+</details>
+
+
 ### indexOfAll
 
 返回数组中所有“ val”的索引.
@@ -1123,12 +1143,12 @@ const initialize2DArray =（w，h，val = null）=&gt;
 
 初始化一个数组，该数组包含指定范围内的数字，其中“ start”和“ end”包含其共同点“ step”.
 
-使用Array.from（）创建所需长度的数组，（结束-开始+ 1）/步长，并使用map函数在给定范围内填充所需的值.
+使用Array.from（）创建一个所需长度的数组，（结束-开始+ 1）/步长，并使用map函数在给定范围内填充所需的值.
 您可以省略“开始”以使用默认值“ 0”.
 您可以省略`step`以使用默认值&#39;1&#39;.
 
 ```js
-const initializeArrayWithRange = (end, start = 0, step = 1) =>
+const initializeArrayWithRange =（结束，开始= 0，步骤= 1）=&gt;
   Array.from（{length：Math.ceil（（end-start + 1）/ step）}，（v，i）=&gt; i * step + start）;
 ```
 
@@ -1136,7 +1156,7 @@ const initializeArrayWithRange = (end, start = 0, step = 1) =>
 <summary>Examples</summary>
 
 ```js
-initializeArrayWithRange(5); // [0,1,2,3,4,5]
+ initializeArrayWithRange（5）;  // [0,1,2,3,4,5]
  initializeArrayWithRange（7，3）;  // [3,4,5,6,7]
  initializeArrayWithRange（9，0，2）;  // [0,2,4,6,8]
 ```
@@ -1194,7 +1214,7 @@ const initializeArrayWithValues =（n，val = 0）=&gt; Array（n）.fill（val�
 创建具有给定值的n维数组.
 
 使用递归.
-使用Array.prototype.map（）生成行，其中的每个行都是使用initializeNDArray初始化的新数组.
+使用Array.prototype.map（）生成行，其中每个行都是使用initializeNDArray初始化的新数组.
 
 ```js
 const initializeNDArray =（val，... args）=&gt;
@@ -1278,7 +1298,7 @@ intersectionWith([1, 1.2, 1.5, 3, 0], [1.9, 3, 0, 3.9], (a, b) => Math.round(a) 
 
 ### isSorted
 
-如果数组按升序排序，则返回“ 1”，如果按降序排序，则返回“ -1”，如果未排序则返回“ 0”.
+Returns `1` if the array is sorted in ascending order, `-1` if it is sorted in descending order or `0` if it is not sorted.
 
 计算前两个元素的排序方向.
 使用Object.entries（）遍历数组对象并成对比较它们.
@@ -1322,8 +1342,8 @@ const join =（arr，分隔符=&#39;，&#39;，end =分隔符）=&gt;
       我===长度-2
          ？  acc + val +结束
         ：i ===长度-1
-           ？  acc + val
-          ：acc + val +分隔符，
+         ？  acc + val
+        ：acc + val +分隔符，
     ''
   );
 ```
@@ -1395,10 +1415,10 @@ const last = arr =&gt; arr [arr.length-1];
 如果多个对象的长度相同，则将返回第一个.
 如果未提供任何参数，则返回`undefined`.
 
-Use `Array.prototype.reduce()`, comparing the `length` of objects to find the longest one.
+使用“ Array.prototype.reduce（）”，比较对象的“长度”以找到最长的对象.
 
 ```js
-const longestItem =（... vals）=&gt; vals.reduce（（a，x）=&gt;（x.length&gt; a.length？x：a））;
+const longestItem = (...vals) => vals.reduce((a, x) => (x.length > a.length ? x : a));
 ```
 
 <details>
@@ -1417,7 +1437,7 @@ const longestItem =（... vals）=&gt; vals.reduce（（a，x）=&gt;（x.length
 
 使用函数将数组的值映射到对象，其中键-值对由字符串化的值（作为键）和映射的值组成.
 
- 使用匿名内部函数作用域声明未定义的内存空间，并使用闭包存储返回值.  使用新的“数组”将数组及其功能映射到其数据集，并使用逗号运算符返回第二步，而无需从一个上下文移到另一个上下文（由于闭包和操作顺序）.
+ 使用匿名内部函数作用域声明未定义的内存空间，并使用闭包存储返回值.  使用新的“数组”将数组及其功能映射到其数据集，并使用逗号运算符返回第二步，而无需从一个上下文移动到另一个上下文（由于闭包和操作顺序）.
 
 ```js
 const mapObject =（arr，fn）=&gt;
@@ -1807,7 +1827,7 @@ reduceWhich(
 
 ### reject
 
-根据谓词函数过滤数组的值，仅返回谓词函数返回true的值.
+Filters an array's values based on a predicate function, returning only values for which the predicate function returns `true`.
 
 将Array.prototype.filter（）与谓词函数pred结合使用，以仅返回pred（）返回true的值.
 
@@ -2083,7 +2103,7 @@ const sortedLastIndexBy =（arr，n，fn）=&gt; {
 不更改原始数组，而是返回一个新数组.
 
 使用Array.prototype.map（）将输入数组的每个元素与其对应的索引配对.
-Use `Array.prototype.sort()` and a `compare` function to sort the list, preserving their initial order if the items compared are equal.
+使用“ Array.prototype.sort（）”和“比较”功能对列表进行排序，如果比较的项目相等，则保留其初始顺序.
 使用Array.prototype.map（）转换回初始数组项.
 
 ```js
@@ -2199,7 +2219,7 @@ const tail = arr =&gt;（arr.length&gt; 1？arr.slice（1）：arr）;
 
 ### take
 
-返回一个数组，该数组从开头删除了n个元素.
+返回一个数组，其中数组的开头有n个元素.
 
 使用Array.prototype.slice（）从一开始就使用n个元素创建数组的一部分.
 
@@ -2363,7 +2383,7 @@ const unionBy =（a，b，fn）=&gt; {
 
 使用提供的比较器函数一次返回两个数组中任何一个存在的每个元素.
 
-使用Array.prototype.findIndex（）创建一个具有所有a值和b值的Set，比较器在a中找不到匹配项.
+使用Array.prototype.findIndex（）创建一个具有所有a值和所有b值的Set，比较器在a中找不到匹配项.
 
 ```js
 const unionWith =（a，b，comp）=&gt;
@@ -2610,7 +2630,7 @@ zip(['a'], [1, 2], [true, false]); // [['a', 1, true], [undefined, 2, false]]
 
 给定一个有效的属性标识符数组和一个值数组，返回一个将属性与值相关联的对象.
 
-由于对象可以具有未定义的值，但不能具有未定义的属性指针，因此属性数组用于通过Array.prototype.reduce（）来确定结果对象的结构.
+由于对象可以具有未定义的值，但不能具有未定义的属性指针，因此使用属性数组可以通过Array.prototype.reduce（）来确定结果对象的结构.
 
 ```js
 const zipObject =（属性，值）=&gt;
@@ -2715,7 +2735,7 @@ const bottomVisible =（）=&gt;
 将字符串复制到剪贴板. 
 仅由于用户操作（即在“ click”事件侦听器内部）而起作用.
 
- 创建一个新的 <textarea>  `元素，用提供的数据填充它并将其添加到HTML文档中.
+ 创建一个新的` <textarea>  `元素，用提供的数据填充它并将其添加到HTML文档中.
 使用“ Selection.getRangeAt（）”存储所选范围（如果有）.
 使用`document.execCommand（&#39;copy&#39;）`复制到剪贴板.
  移除` <textarea>  HTML文档中的`元素.
@@ -2745,7 +2765,7 @@ const copyToClipboard = str =&gt; {
 <summary>Examples</summary>
 
 ```js
- copyToClipboard（ &#39;Lorem存有&#39;）;  //“Lorem存有”复制到剪贴板.
+ copyToClipboard（ &#39;Lorem存有&#39;）;  //推出自身复制到剪贴板.
 ```
 </details>
 
@@ -2819,7 +2839,7 @@ const el = createElement（
 使用Object.create（null）创建一个空的hub对象，该对象不继承Object.prototype的属性.
 对于`emit`，请基于`event`参数解析处理程序数组，然后通过将数据作为参数传入来使用`Array.prototype.forEach（）`运行每个处理程序.
 对于on，为事件创建一个数组（如果尚不存在），然后使用Array.prototype.push（）添加处理程序.
-到阵列.
+到数组.
 对于“ off”，使用“ Array.prototype.findIndex（）”在事件数组中查找处理程序的索引，然后使用“ Array.prototype.splice（）”将其删除.
 
 ```js
@@ -3073,7 +3093,7 @@ const hasClass =（el，className）=&gt; el.classList.contains（className）;
 
 ```js
 const hashBrowser = val =&gt;
-  crypto.subtle.digest（&#39;SHA-256&#39;，新的TextEncoder（&#39;utf-8&#39;）.encode（val））.then（h =&gt; {
+  crypto.subtle.digest('SHA-256', new TextEncoder('utf-8').encode(val)).then(h => {
     让十六进制= []，
       view =新的DataView（h）;
     对于（让i = 0; i &lt;view.byteLength; i + = 4）
@@ -3114,7 +3134,7 @@ const hide =（... el）=&gt; [... el] .forEach（e =&gt;（e.style.display =&#3
 
  如果页面当前位于HTTP中，则将其重定向到HTTPS.  此外，按返回按钮不会将其带回到HTTP页面，因为它已被替换为历史记录.
 
- 使用`location.protocol`获取当前正在使用的协议.  如果不是HTTPS，请使用“ location.replace（）”将现有页面替换为该页面的HTTPS版本.  使用location.href获取完整的地址，使用String.prototype.split（）对其进行拆分，并删除URL的协议部分.
+ 使用`location.protocol`获取当前正在使用的协议.  如果不是HTTPS，请使用“ location.replace（）”将现有页面替换为该页面的HTTPS版本.  使用location.href获取完整的地址，使用String.prototype.split（）对其进行拆分，然后删除URL的协议部分.
 
 ```js
 const httpsRedirect =（）=&gt; {
@@ -3289,7 +3309,7 @@ const on =（el，evt，fn，opts = {}）=&gt; {
 ```js
 const fn =（）=&gt; console.log（&#39;！&#39;）;
  on（document.body，&#39;click&#39;，fn）;  //记录&#39;！&#39;  在点击身体时
- on（document.body，&#39;click&#39;，fn，{target：&#39;p&#39;}）;  //记录&#39;！&#39;  在点击身体的`p`元素子元素时
+on(document.body, 'click', fn, { target: 'p' }); // logs '!' upon clicking a `p` element child of the body
  on（document.body，&#39;click&#39;，fn，{options：true}）;  //使用捕获而不是冒泡
 ```
 </details>
@@ -3303,7 +3323,7 @@ const fn =（）=&gt; console.log（&#39;！&#39;）;
 在这两种情况下，都将输入类型作为参数运行回调.
 
 ```js
-const onUserInputChange =回调=&gt; {
+const onUserInputChange = callback => {
   让type =&#39;mouse&#39;，
     lastTime = 0;
   const mousemoveHandler =（）=&gt; {
@@ -3313,7 +3333,7 @@ const onUserInputChange =回调=&gt; {
     lastTime =现在；
   };
   document.addEventListener（&#39;touchstart&#39;，（）=&gt; {
-    如果（类型===&#39;触摸&#39;）返回;
+    if (type === 'touch') return;
     （type =&#39;touch&#39;），callback（type），document.addEventListener（&#39;mousemove&#39;，mousemoveHandler）;
   });
 };
@@ -3553,7 +3573,7 @@ const show =（... el）=&gt; [... el] .forEach（e =&gt;（e.style.display =&#3
 <summary>Examples</summary>
 
 ```js
-show(...document.querySelectorAll('img')); // Shows all <img> elements on the page
+ show（... document.querySelectorAll（&#39;img&#39;））;  //显示全部 <img>  页面上的元素
 ```
 </details>
 
@@ -3611,7 +3631,7 @@ const toggleClass =（el，className）=&gt; el.classList.toggle（className）;
 
 ```js
 const triggerEvent =（el，eventType，detail）=&gt;
-  el.dispatchEvent(new CustomEvent(eventType, { detail }));
+  el.dispatchEvent（new CustomEvent（eventType，{detail}））;
 ```
 
 <details>
@@ -3687,7 +3707,7 @@ const formatDuration = ms =&gt; {
   const time = {
     天：Math.floor（ms / 86400000），
     小时：Math.floor（ms / 3600000）％24，
-    分钟：Math.floor（ms / 60000）％60，
+    minute: Math.floor(ms / 60000) % 60,
     秒：Math.floor（ms / 1000）％60，
     毫秒：Math.floor（ms）％1000
   };
@@ -3758,10 +3778,10 @@ const getMeridiemSuffixOfInteger = num =&gt;
    是否=== 0 ||  ===是否24
      ？  12 +&#39;am&#39;
     ：num === 12
-       ？  12 +&#39;pm&#39;
-      ：num &lt;12
-         ？  （num％12）+&#39;am&#39;
-        ：（无论12％）PM“;
+     ？  12 +&#39;pm&#39;
+    ：num &lt;12
+     ？  （num％12）+&#39;am&#39;
+    ：（无论12％）PM“;
 ```
 
 <details>
@@ -4102,7 +4122,7 @@ chainAsync([
 
 ### checkProp
 
-给定一个“谓词”函数和一个“ prop”字符串，此咖喱函数将通过调用属性并将其传递给谓词来获取一个“对象”进行检查.
+给定一个“谓词”函数和一个“ prop”字符串，然后此咖喱函数将通过调用属性并将其传递给谓词来接受一个“对象”进行检查.
 
 召唤obj上的prop，将其传递给提供的predicate函数并返回一个带掩码的布尔值.
 
@@ -4244,7 +4264,7 @@ const反跳=（fn，ms = 0）=&gt; {
   让timeoutId;
   返回函数（... args）{
     clearTimeout（timeoutId）;
-    timeoutId = setTimeout（（）=&gt; fn.apply（this，args），ms）;
+    timeoutId = setTimeout(() => fn.apply(this, args), ms);
   };
 };
 ```
@@ -4379,7 +4399,7 @@ const sumForLoop =（）=&gt; {
 返回已记忆（缓存）的函数.
 
 通过实例化一个新的Map对象来创建一个空的缓存.
- 通过首先检查该特定输入值的函数输出是否已被缓存，返回存储一个参数的函数，该参数将被提供给已记忆的函数；否则，将其存储并返回.  必须使用关键字function，以便在必要时允许记忆的功能对其this上下文进行更改.
+ 通过首先检查该特定输入值的函数输出是否已缓存，返回存储一个参数的函数，该参数将被提供给已记忆的函数；如果没有，则存储并返回它.  必须使用关键字function，以便在必要时允许记忆的功能对其this上下文进行更改.
 通过将其设置为返回函数的属性来允许访问“缓存”.
 
 ```js
@@ -4388,7 +4408,7 @@ const memoize = fn =&gt; {
   const cached = function（val）{
      返回cache.has（val）吗？  cache.get（val）：cache.set（val，fn.call（this，val））&amp;&amp; cache.get（val）;
   };
-  cached.cache = cache;
+  cached.cache =缓存;
   返回缓存；
 };
 ```
@@ -4919,17 +4939,17 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 使用递归.
 如果n小于或等于1，则返回1.
 否则，返回“ n”和阶乘“ n-1”的乘积.
-Throws an exception if `n` is a negative number.
+如果n为负数，则抛出异常.
 
 ```js
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-    })()
+        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+      })()
     ：n &lt;= 1
-      ? 1
-      ：n *阶乘（n-1）;
+    ? 1
+    ：n *阶乘（n-1）;
 ```
 
 <details>
@@ -5257,7 +5277,7 @@ const maxBy =（arr，fn）=&gt; Math.max（... arr.map（typeof fn ===&#39;func
 <summary>Examples</summary>
 
 ```js
- maxBy（[{{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）;  // 8
+ maxBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）;  // 8
  maxBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 8
 ```
 </details>
@@ -5764,7 +5784,7 @@ const createDirIfNotExists = dir =&gt;（！fs.existsSync（dir）？fs.mkdirSyn
 
 检查当前进程的参数是否包含指定的标志.
 
-Use `Array.prototype.every()` and `Array.prototype.includes()` to check if `process.argv` contains all the specified flags.
+使用Array.prototype.every（）和Array.prototype.includes（）检查process.argv是否包含所有指定标志.
 使用正则表达式测试指定的标志是否以“-”或“-”为前缀，并相应地为它们添加前缀.
 
 ```js
@@ -5821,7 +5841,7 @@ const hashNode = val =&gt;
 检查给定的参数是否为双工（可读和可写）流.
 
 检查该值是否与“ null”不同，使用“ typeof”检查一个值是否为“ object”类型，并且“ pipe”属性为“ function”类型.
-另外检查一下typeof，_read，_write，_readState，_writableState的属性分别是function和object.
+另外，还要检查typeof，_read，_write，_readState，_writableState的属性分别是function和object.
 
 ```js
 const isDuplexStream = val =&gt;
@@ -5877,7 +5897,7 @@ const fs = require（&#39;fs&#39;）;
 检查该值是否与“ null”不同，请使用“ typeof”检查该值是否为“ object”类型，并且“ pipe”属性为“ function”类型.
 
 ```js
-const isStream = val => val !== null && typeof val === 'object' && typeof val.pipe === 'function';
+const isStream = val =&gt; val！== null &amp;&amp; typeof val ===&#39;object&#39;&amp;&amp; typeof val.pipe ===&#39;function&#39;;
 ```
 
 <details>
@@ -5894,7 +5914,7 @@ const fs = require（&#39;fs&#39;）;
 
 检查当前环境是否 [Travis CI](https://travis-ci.org/).
 
-检查当前环境是否具有`TRAVIS`和`CI`环境变量（[reference](https://docs.travis-ci.com/user/environment-variables/#Default-Environment-Variables)).
+Checks if the current environment has the `TRAVIS` and `CI` environment variables ([reference](https://docs.travis-ci.com/user/environment-variables/#Default-Environment-Variables)).
 
 ```js
 const isTravisCI =（）=&gt; process.env中的&#39;TRAVIS&#39;&amp;&amp; process.env中的&#39;CI&#39;;
@@ -6090,8 +6110,8 @@ const deepClone = obj =&gt; {
   return Array.isArray(obj) && obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
     ：Array.isArray（obj）
-      ? Array.from(obj)
-      ：克隆;
+    ? Array.from(obj)
+    ：克隆;
 };
 ```
 
@@ -6175,13 +6195,13 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（obj）
      什么啊  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;对象&#39;
-       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+     ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
            val！== null &amp;&amp; typeof val ===&#39;object&#39;吗？  deepMapKeys（val，f）：（acc [f（current）] = val）;
         返回acc；
       }, {})
-      ：obj;
+    ：obj;
 ```
 
 <details>
@@ -6206,7 +6226,7 @@ const upperKeysObj = deepMapKeys（obj，key =&gt; key.toUpperCase（））;
   “ FOO”：“ 1”，
   “嵌套”：{
     “儿童”：{
-      “ WITHARRAY”：[
+      "WITHARRAY":[
         {
           “ GRANDCHILD”：[&#39;hello&#39;]
         }
@@ -6250,9 +6270,9 @@ const dig =（obj，target）=&gt;
   obj中的目标
      ？  obj [目标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-      如果（acc！==未定义）返回acc;
-      如果（typeof val ===&#39;object&#39;）返回dig（val，target）;
-    }，未定义）；
+        如果（acc！==未定义）返回acc;
+        如果（typeof val ===&#39;object&#39;）返回dig（val，target）;
+      }，未定义）；
 ```
 
 <details>
@@ -6440,7 +6460,7 @@ const forOwnRight =（obj，fn）=&gt;
 const函数=（obj，继承的= false）=&gt;
   （遗传
      ？  [... Object.keys（obj），... Object.keys（Object.getPrototypeOf（obj））]
-    ：Object.keys（obj）
+    : Object.keys(obj)
   ）.filter（key =&gt; typeof obj [key] ===&#39;function&#39;）;
 ```
 
@@ -6463,7 +6483,7 @@ Foo.prototype.c =（）=&gt; 3;
 
 从对象检索由给定选择器指示的一组属性.
 
-对每个选择器使用“ Array.prototype.map（）”，“ String.prototype.replace（）”用点代替方括号，“ String.prototype.split（&#39;.”）”用于拆分每个选择器“ Array”. prototype.filter（）除去空值，而Array.prototype.reduce（）除去它指示的值.
+对每个选择器使用“ Array.prototype.map（）”，将“ String.prototype.replace（）”替换为圆括号，并使用“ String.prototype.split（&#39;.”）将每个选择器“ Array”分开. prototype.filter（）除去空值，而Array.prototype.reduce（）除去它指示的值.
 
 ```js
 const get =（from，... selectors）=&gt;
@@ -6480,7 +6500,7 @@ const get =（from，... selectors）=&gt;
 <summary>Examples</summary>
 
 ```js
-const obj = {选择器：{到：{val：&#39;要选择的val&#39;}}，目标：[1,2，{a：&#39;test&#39;}]};
+const obj = {选择器：{到：{val：&#39;要选择的val&#39;}}，目标：[1，2，{a：&#39;test&#39;}]};
  get（obj，&#39;selector.to.val&#39;，&#39;target [0]&#39;，&#39;target [2] .a&#39;）;  // [&#39;val to select&#39;，1，&#39;test&#39;]
 ```
 </details>
@@ -6498,11 +6518,14 @@ const obj = {选择器：{到：{val：&#39;要选择的val&#39;}}，目标：[1
 
 ```js
 const hasKey =（obj，keys）=&gt; {
-  返回（keys.length&gt; 0）&amp;&amp; keys.every（key =&gt; {
-    if（typeof obj！==&#39;object&#39;||！obj.hasOwnProperty（key））返回false;
-    obj = obj [key];
-    返回true；
-  });
+  返回（
+    keys.length&gt; 0 &amp;&amp;
+    keys.every（key =&gt; {
+      if（typeof obj！==&#39;object&#39;||！obj.hasOwnProperty（key））返回false;
+      obj = obj [key];
+      返回true；
+    })
+  );
 };
 ```
 
@@ -6660,7 +6683,7 @@ const匹配=（obj，源）=&gt;
 
 ```js
 constmatchesWith =（obj，source，fn）=&gt;
-  Object.keys(source).every(key =>
+  Object.keys（source）.every（key =&gt;
     obj.hasOwnProperty（key）&amp;&amp; fn
        ？  fn（obj [key]，source [key]，key，obj，source）
       ：obj [key] == source [key]
@@ -6739,7 +6762,7 @@ const nest =（items，id = null，link =&#39;parent_id&#39;）=&gt;
 <summary>Examples</summary>
 
 ```js
-//一个顶级评论
+// One top level comment
 const评论= [
   {id：1，parent_id：null}，
   {id：2，parent_id：1}，
@@ -6914,7 +6937,7 @@ const pickBy =（obj，fn）=&gt;
 
 用提供的值替换多个对象键的名称.
 
-将Object.keys（）与Array.prototype.reduce（）和散布运算符（...）结合使用，以获取对象的键并根据keysMap对其重命名.
+结合使用Object.keys（）和Array.prototype.reduce（）和散布运算符（...）来获取对象的键，并根据keysMap对其重命名.
 
 ```js
 const namedKeys =（keysMap，obj）=&gt;
@@ -7050,7 +7073,7 @@ const unflattenObject = obj =&gt;
         acc，
         JSON.parse（
           '{' +
-            keys.map（（v，i）=&gt;（i！== keys.length-1？“” $ {v}“：{`：`” $ {v}“：`））.join（&#39;&#39;） +
+            keys.map（（v，i）=&gt;（i！== keys.length-1？`“ $ {v}”：{`：`“ $ {v}”：`））.join（&#39;&#39;） +
             卷[k] +
             &#39;}&#39;.repeat（keys.length）
         )
@@ -7150,7 +7173,7 @@ const compactWhitespace = str =&gt; str.replace（/ \ s {2，} / g，&#39;&#39;�
 
 ```js
  compactWhitespace（ &#39;Lorem存有&#39;）;  // &#39;Lorem存有&#39;
- compactWhitespace（ &#39;LOREM \ n非常&#39;）;  // &#39;Lorem存有&#39;
+ compactWhitespace（ &#39;谢谢\ n非常&#39;）;  // &#39;Lorem存有&#39;
 ```
 </details>
 
@@ -7219,7 +7242,7 @@ const CSVToJSON =（数据，分隔符=&#39;，&#39;）=&gt; {
 
 将字符串的首字母大写.
 
-使用数组解构和“ String.toLowerCase（）”将首字母大写，“ ... rest”获取首字母后的字符数组，然后使用“ Array.prototype.join（&#39;&#39;）`再次使其成为字符串.
+使用数组解构和“ String.toLowerCase（）”将首字母大写，“ ... rest”获取首个字母后的字符数组，然后使用“ Array.prototype.join（&#39;&#39;）`再次使其成为字符串.
 省略参数upperRest以保持字符串的其余部分不变，或将其设置为true转换为大写.
 
 ```js
@@ -7327,8 +7350,8 @@ const indentString =（str，count，indent =&#39;&#39;）=&gt; str.replace（/ 
 <summary>Examples</summary>
 
 ```js
- indentString（“LOREM \夹口”，2）;  // &#39;LOREM \ n很&#39;
- indentString（ &#39;LOREM \咬&#39;，2， &#39;_&#39;）;  // __Lorem \ n__Ipsum“
+ indentString（“顾客\夹口”，2）;  // &#39;LOREM \ n很&#39;
+ indentString（ &#39;顾客\咬&#39;，2， &#39;_&#39;）;  // __Lorem \ n__Ipsum“
 ```
 </details>
 
@@ -7358,7 +7381,7 @@ const isAbsoluteURL = str =&gt; /^[az][a-z0-9+.-]*:/.test(str）;
 
 检查一个字符串是否是另一个字符串的字谜（不区分大小写，忽略空格，标点符号和特殊字符）.
 
-使用带有适当正则表达式的String.toLowerCase（），String.prototype.replace（）来删除不必要的字符，String.prototype.split（&#39;&#39;），Array.prototype.sort（）和在两个字符串上使用“ Array.prototype.join（&#39;&#39;）对其进行规范化，然后检查其规范化形式是否相等.
+使用带有适当正则表达式的String.toLowerCase（），String.prototype.replace（）去除不必要的字符，String.prototype.split（），Array.prototype.sort（）和在两个字符串上使用“ Array.prototype.join（&#39;&#39;）对其进行规范化，然后检查其规范化形式是否相等.
 
 ```js
 const isAnagram =（str1，str2）=&gt; {
@@ -7444,7 +7467,7 @@ const mapString =（str，fn）=&gt;
 <summary>Examples</summary>
 
 ```js
- mapString（ &#39;Lorem存有&#39;，C =&gt; c.toUpperCase（））;  // &#39;Lorem存有&#39;
+ mapString（ &#39;虚拟&#39;，C =&gt; c.toUpperCase（））;  // &#39;Lorem存有&#39;
 ```
 </details>
 
@@ -7500,7 +7523,7 @@ const pad =（str，length，char =&#39;&#39;）=&gt;
 如果给定的字符串是回文，则返回“ true”，否则返回“ false”.
 
 将字符串转换为String.prototype.toLowerCase（）并使用String.prototype.replace（）从其中删除非字母数字字符.
-然后，使用传播运算符（...）将字符串拆分为单个字符，即Array.prototype.reverse（），String.prototype.join（&#39;&#39;）并将其与原始的，未反转的字符进行比较字符串，将其转换为`String.prototype.toLowerCase（）`之后.
+然后，使用传播运算符（...）将字符串拆分为各个字符，即Array.prototype.reverse（），String.prototype.join（&#39;&#39;）并将其与原始的，未反转的字符进行比较字符串，将其转换为`String.prototype.toLowerCase（）`之后.
 
 ```js
 const palindrome = str =&gt; {
@@ -7525,10 +7548,10 @@ const palindrome = str =&gt; {
  如果num是-1或1，则返回单词的单数形式.  如果num是其他任何数字，则返回复数形式.  忽略第三个参数以使用单数词+`s`的默认值，或在必要时提供自定义的复数词.  如果第一个参数是“对象”，则通过返回一个函数来利用闭包，该函数可以使用提供的字典来解析单词的正确复数形式.
 
 ```js
-const pluralize =（val，单词，复数=单词+&#39;s&#39;）=&gt; {
+const pluralize =（val，单词，复数= word +&#39;s&#39;）=&gt; {
   const _pluralize =（数字，单词，复数=单词+&#39;s&#39;）=&gt;
      [1，-1] .includes（Number（num））吗？  复数
-  if（typeof val ===&#39;object&#39;）返回（num，word）=&gt; _pluralize（num，word，val [word]）;
+  如果（typeof val ===&#39;object&#39;）返回（num，word）=&gt; _pluralize（num，word，val [word]）;
   返回_pluralize（val，单词，复数）;
 };
 ```
@@ -7675,7 +7698,7 @@ const stripHTMLTags = str =&gt; str.replace（/ &lt;[^&gt;] *&gt; / g，&#39;&#3
 <summary>Examples</summary>
 
 ```js
- stripHTMLTags（&#39; <p>  <em>Lorem</em> <strong>存有</strong> </p>  “）;  // &#39;Lorem存有&#39;
+ stripHTMLTags（&#39; <p>  <em><strong>虚拟</strong></em> </p>  “）;  //“虚拟”
 ```
 </details>
 
@@ -7846,7 +7869,7 @@ unescapeHTML('&lt;a href=&quot;#&quot;&gt;Me &amp; you&lt;/a&gt;'); // '<a href=
 
 将所有给定的URL段连接在一起，然后标准化结果URL.
 
-使用`String.prototype.join（&#39;/&#39;）`组合URL段，然后使用各种正则表达式对一系列`String.prototype.replace（）`进行调用以标准化结果URL（删除双斜杠，为协议添加适当的斜杠） ，在参数前删除斜线，将参数与“&#39;＆&#39;`组合在一起并规范化第一个参数定界符）.
+使用`String.prototype.join（&#39;/&#39;）`组合URL段，然后用各种正则表达式调用一系列`String.prototype.replace（）`以标准化结果URL（删除双斜杠，为协议添加适当的斜杠，在参数前删除斜线，将参数与“&#39;＆&#39;`组合在一起并标准化第一个参数定界符）.
 
 ```js
 const URLJoin =（... args）=&gt;
@@ -7919,7 +7942,7 @@ const getType = v =&gt;
 
 检查提供的值是否为指定的类型.
 
-使用Array.prototype.includes（）确保该值不是undefined或null，然后将该值的constructor属性与type进行比较，以检查提供的值是否为指定的type. .
+使用Array.prototype.includes（）确保该值不是undefined或null，然后将该值的constructor属性与type进行比较，以检查提供的值是否为指定的type类型. .
 
 ```js
 const是=（type，val）=&gt;！[，null] .includes（val）&amp;&amp; val.constructor === type;
@@ -7931,7 +7954,7 @@ const是=（type，val）=&gt;！[，null] .includes（val）&amp;&amp; val.cons
 ```js
  is（Array，[1]）;  //正确
  is（ArrayBuffer，new ArrayBuffer（））;  //正确
-is(Map, new Map()); // true
+ is（Map，new Map（））;  //正确
  is（RegExp，/./g）;  //正确
  is（Set，new Set（））;  //正确
  is（WeakMap，new WeakMap（））;  //正确
@@ -8080,7 +8103,7 @@ const isNull = val =&gt; val === null;
 为了防范“ NaN”，请检查“ val === val”（因为“ NaN”的“ typeof”等于“ number”，并且是唯一不等于其自身的值）.
 
 ```js
-const isNumber = val => typeof val === 'number' && val === val;
+const isNumber = val =&gt; typeof val ===&#39;number&#39;&amp;&amp; val === val;
 ```
 
 <details>
@@ -8111,7 +8134,7 @@ const isObject = obj =&gt; obj === Object（obj）;
 ```js
  isObject（[1,2,3,4]）;  //正确
  isObject（[]）;  //正确
- isObject（[&#39;Hello！&#39;]）;  //正确
+isObject(['Hello!']); // true
  isObject（{a：1}）;  //正确
  isObject（{}）;  //正确
  isObject（true）;  //错误
@@ -8337,7 +8360,7 @@ const cloneRegExp = regExp =&gt;新的RegExp（regExp.source，regExp.flags）;
 <summary>Examples</summary>
 
 ```js
-正则表达式=常数/ Lorem存有/ GI;
+正则表达式=常数/虚拟/ GI;
  regExp2 =常数cloneRegExp（正则表达式）;  // / Lorem存有/ GI
 ```
 </details>
@@ -8347,7 +8370,7 @@ const cloneRegExp = regExp =&gt;新的RegExp（regExp.source，regExp.flags）;
 
 返回第一个非null / undefined参数.
 
-使用Array.prototype.find（）返回第一个非null / undefined参数.
+Use `Array.prototype.find()` to return the first non `null`/`undefined` argument.
 
 ```js
 const coalesce =（... args）=&gt; args.find（_ =&gt;！[undefined，null] .includes（_））;
@@ -8386,7 +8409,7 @@ const customCoalesce = coalesceFactory（_ =&gt;！[null，undefined，``，NaN]
 
 将3位颜色代码扩展为6位颜色代码.
 
-使用Array.prototype.map（），String.prototype.split（）和Array.prototype.join（）连接映射的数组，以将3位RGB表示的十六进制颜色代码转换为6数字形式.
+使用Array.prototype.map（），String.prototype.split（）和Array.prototype.join（）连接映射的数组，以将3位RGB表示的十六进制颜色代码转换为6位数形式.
 `Array.prototype.slice()` is used to remove `#` from string start since it's added once.
 
 ```js
@@ -8620,7 +8643,7 @@ mostPerformant([
   },
   () => {
     //在返回false之前只需要达到索引“ 1”
-    [1，&#39;2&#39;，3，4，5，6，7，8，8，9，10] .every（el =&gt; typeof el ===&#39;number&#39;）;
+    [1、2、3、4、5、6、7、8、9、10] .every（el =&gt; typeof el ===&#39;number&#39;）;
   }
 ]); // 1
 ```
@@ -8654,7 +8677,7 @@ const last = nthArg（-1）;
 
 返回从给定对象的键值对生成的查询字符串.
 
-Use `Array.prototype.reduce()` on `Object.entries(queryParameters)` to create the query string.
+在Object.entries（queryParameters）上使用Array.prototype.reduce（）创建查询字符串.
 根据`index`确定&#39;symbol&#39;为`？`或`＆`，仅当它是字符串时，将val链接到queryString.
 当queryParameters为假时，返回queryString或一个空字符串.
 
@@ -8662,10 +8685,10 @@ Use `Array.prototype.reduce()` on `Object.entries(queryParameters)` to create th
 const objectToQueryString = queryParameters =&gt; {
   返回queryParameters
      ？  Object.entries（queryParameters）.reduce（（queryString，[key，val]，index）=&gt; {
-         const符号=索引=== 0？  &#39;？&#39;  ：&#39;＆&#39;;
-         queryString + = typeof val ===&#39;字符串&#39;  `$ {symbol} $ {key} = $ {val}`：&#39;&#39;;
-        返回queryString;
-      }, '')
+       const符号=索引=== 0？  &#39;？&#39;  ：&#39;＆&#39;;
+       queryString + = typeof val ===&#39;字符串&#39;  `$ {symbol} $ {key} = $ {val}`：&#39;&#39;;
+      返回queryString;
+    }, '')
     : '';
 };
 ```
@@ -8801,7 +8824,7 @@ const serializeCookie =（name，val）=&gt;`$ {encodeURIComponent（name）} = 
 
 测量函数执行所需的时间.
 
-使用`console.time（）`和`console.timeEnd（）`来测量开始时间和结束时间之间的差，以确定回调执行的时间.
+使用`console.time（）`和`console.timeEnd（）`测量开始时间和结束时间之间的差，以确定回调执行的时间.
 
 ```js
 const timeTaken =回调=&gt; {

@@ -4,7 +4,7 @@
 这是软件折扣（SaaS，PaaS，IaaS等）的折扣清单，以及为碰巧是学生的开发人员提供的其他优惠.
 此列表的灵感来自 [free-for-dev list](https://github.com/ripienaar/free-for-dev).
 
- 您可以通过发送拉取请求添加更多服务来提供帮助.  请阅读 [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) 第一.
+You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) 第一.
 一旦我在此README文件中拥有一组良好的链接，我就会为信息和链接寻找一个更好的布局（对此也有所帮助）.
 
 如果您不愿意提出PR，可以在 [@acho_arnold](https://twitter.com/acho_arnold)!
@@ -55,7 +55,7 @@
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) [CREDIT]-Digital Ocean为每位报名参加该计划的学生提供$ 50的托管信用额 [Github Student Developer Pack](https://education.github.com/pack).
-  * [RoseHosting](https://www.rosehosting.com) [折扣]-RoseHosting为其所有会员提供20％的经常性折扣 [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) 和 [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
+  * [RoseHosting](https://www.rosehosting.com) [折扣]-RoseHosting为其所有会员提供20％的经常性折扣 [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) 和 [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html)  每月付款时.  学生可以通过使用优惠券代码“ STUDENT20”来使用折扣.  仅对新客户有效.  不能与其他优惠同时使用.
   * [SiteGround](https://www.siteground.com/students-plan.htm) [折扣]-每月$ 1.99美元，而不是每月$ 3.95美元 [StartUp plan](https://www.siteground.com/students-plan.htm).
   * [Education Host](https://education.github.com/pack/redeem/educationhost) [免费]-可免费使用Designer软件包为学生提供1年的虚拟主机托管服务，并提供升级优惠.可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -72,13 +72,14 @@
   * [Ip Geolocation](https://ipgeolocation.io/) [折扣]-5万个请求免费，所有付费计划为学生提供50％的折扣.
   * [Taskade - Team Productivity](https://www.taskade.com/)  [折扣]-学生获得Taskade Pro订阅可获得50％的永久折扣.  在结帐时使用优惠券代码“ students50”，并开始在Taskade上与团队任务，笔记和聊天进行协作.
   * [Notion.so](https://www.notion.so/students) [免费]免费的写作，规划，协作和组织构想专业计划.
+  * [netlicensing.io](https://netlicensing.io/github-students/)  [免费]-从台式机到物联网和SaaS的任何平台上针对您的软件的经济高效且集成的许可即服务（LaaS）解决方案.  您就读于[免费]的基本计划 [GitHub Student Developer Pack](https://education.github.com/pack).  
 
 ## PaaS
 
   * [Amazon Web Services](http://www.awseducate.com/application) [免费]-立即加入AWS Educate，免费访问云内容，培训，协作工具和AWS技术.
   * [Google Cloud Platform](https://cloud.google.com) [暂时免费]-试用教育天数或通过卡详细信息，试用14天或注册一年即可访问Cloud Services和G-Suite.
   * [Heroku](https://heroku.com/github-students) [免费]-灵活，易于使用的平台，用于部署，运行和管理您的应用程序.  通过以下方式免费获得长达两年的业余爱好Dyno [Github Student Developer Pack](https://education.github.com/pack).
-  * [Microsoft Azure]（https://azure.microsoft.com/zh-cn/free/students/）-Microsoft Azure是一组不断扩展的云服务，可帮助您构建，管理和部署应用程序.通过学习云计算技能来提出您的想法，并使用免费的Azure for Students帐户获得$ 100的赠送金额-无需信用卡.
+  * [Microsoft Azure]（https://azure.microsoft.com/zh-cn/free/students/）-Microsoft Azure是不断扩展的云服务集，可帮助您构建，管理和部署应用程序.通过学习云计算技能来提出您的想法，并使用免费的Azure for Students帐户获得$ 100的赠送金额-无需信用卡.
 
 ## Email
 
@@ -183,10 +184,10 @@
  * [一个月]（https://onemonth.com/github/students）[免费]-在短短30天内学习HTML，CSS，JavaScript和Python！您将获得30天免费一月订阅.
   * [Flatiron School]（https://flatironschool.com/github-student-pack/）[免费]-从主要的代码训练营学习Web开发，以启动开发人员.  如果您想逐步进行，这是一个了不起的课程.  社区动力训练营免费为期一个月的会员资格.
  * [GO RAILS]（https://gorails.com/github-students）[免费]-针对Web开发人员的教程，用于学习Ruby，Rails，Javascript，Turbolinks，Stimulus.js，Vue.js等.  12个月内免费访问所有视频和课程.
-* [Thinkful]（https://www.thinkful.com/github-student-developer-pack/）[免费]-学习Web开发基础知识以开始您的开发生涯.访问Web开发课程至少1个月.
+* [Thinkful]（https://www.thinkful.com/github-student-developer-pack/）[免费]-学习Web开发基础知识以开始您的开发生涯.可享受为期1个月的Web开发课程.
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Acho Arnold](https://acho.arnold.cf/) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Acho Arnold](https://acho.arnold.cf/) 已放弃所有版权及相关或邻接权这项工作.

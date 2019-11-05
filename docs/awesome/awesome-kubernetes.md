@@ -750,6 +750,7 @@ Projects
 * [Vikube](https://github.com/c9s/vikube.vim) -Vim中来自Vim的Kubernetes操作
 * [K9s](https://github.com/derailed/k9s) -Kubernetes CLI以时尚的方式管理您的集群！
 * [tubectl](https://github.com/reconquest/tubekit) -具有模式匹配的类固醇的Kubernetes CLI
+* [webkubectl](https://github.com/webkubectl/webkubectl) -基于Web的工具可帮助您管理kubernetes凭据并在Web浏览器中运行kubectl命令.
 
 ## Application deployment orchestration
 

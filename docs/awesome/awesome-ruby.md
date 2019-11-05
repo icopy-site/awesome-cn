@@ -13,7 +13,7 @@
 
  社区驱动的很棒的Ruby库，工具，框架和软件的分类集合.  构建现代应用程序和Web应用程序的必备Ruby.
 
- 随时欢迎分享，建议和贡献！  请看看 [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) 第一.
+ 随时欢迎分享，建议和贡献！  请看看 [contribution guidelines and quality standard](https://github.com/markets/awesome-ruby/blob/master/CONTRIBUTING.md) first.
 
 谢谢大家 [contributors](https://github.com/markets/awesome-ruby/graphs/contributors)，您真棒，没有您，这将是不可能的！
 
@@ -143,7 +143,7 @@
 
 ## CLI Builder
 
-* [Clamp](https://github.com/mdub/clamp) - A command-line application framework.
+* [Clamp](https://github.com/mdub/clamp) -命令行应用程序框架.
 * [cmdparse](http://cmdparse.gettalong.org) -支持嵌套命令的高级命令行解析器.
 * [Commander](https://github.com/commander-rb/commander) -Ruby命令行可执行文件的完整解决方案.
 * [GLI](https://github.com/davetron5000/gli) -类似于Git的界面命令行解析器.
@@ -195,7 +195,7 @@
 * [Cane](https://github.com/square/cane) -代码质量阈值检查作为构建的一部分.
 * [Coverband](https://github.com/danmayer/coverband) -机架中间件，以帮助评估生产代码覆盖率.
 * [Fasterer](https://github.com/DamirSvrtan/fasterer) -受快速红宝石和Sferik在Baruco Conf上的演讲启发，此命令行工具使您的红宝石运行得更快.
-* [Flay](https://github.com/seattlerb/flay)  -Flay分析代码的结构相似性.  文字值，变量，类，方法名称，空格，编程样式，花括号与do / end等的差异都将被忽略.  使这完全rad.
+* [Flay](https://github.com/seattlerb/flay)  -Flay分析代码的结构相似性.  文字值，变量，类，方法名称，空格，编程样式，花括号与执行/结束等方面的差异都将被忽略.  使这完全rad.
 * [Flog](https://github.com/seattlerb/flog)  -Flog在易于阅读的疼痛报告中报告了遭受最多折磨的代码.  分数越高，代码所处的痛苦就越大.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu#fukuzatsu) -具有丰富的Web前端的复杂度分析工具.
 * [MetricFu](https://github.com/metricfu/metric_fu) -充满代码度量的拳头.
@@ -603,7 +603,7 @@
 * [Patron](https://github.com/toland/patron) -Patron是基于libcurl的Ruby HTTP客户端库.
 * [RESTClient](https://github.com/rest-client/rest-client) -Ruby的简单HTTP和REST客户端，受用于指定操作的微框架语法的启发.
 * [Savon](https://github.com/savonrb/savon) -Savon是Ruby编程语言的SOAP客户端.
-* [Sawyer](https://github.com/lostisland/sawyer) -HTTP的秘密用户代理，建立在Faraday之上.
+* [Sawyer](https://github.com/lostisland/sawyer) - Secret user agent of HTTP, built on top of Faraday.
 * [Sniffer](https://github.com/aderyabin/sniffer) –跨多个ruby库记录和调试传出HTTP请求的工具.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) -Typhoeus封装了libcurl，以便发出快速而可靠的请求.
 
@@ -764,7 +764,7 @@
   * [marginalia](https://github.com/basecamp/marginalia)  -将注释附加到您的ActiveRecord查询中.  默认情况下，它在每个查询的末尾添加应用程序，控制器和操作名称作为注释.
   * [mongoid-history](https://github.com/aq1018/mongoid-history) -多用户非线性历史记录跟踪，审核，撤消，重做蒙古包.
   * [PaperTrail](https://github.com/airblade/paper_trail) -跟踪对ActiveRecord模型数据的更改以进行审核或版本控制.
-  * [Paranoia](https://github.com/radar/paranoia) -为Rails 3和Rails 4重新实现acts_as_paranoid，使用的代码少得多.
+  * [Paranoia](https://github.com/radar/paranoia) -为Rails 3和Rails 4重新实现act_as_paranoid，使用的代码少得多.
   * [PermenantRecords](https://github.com/JackDanger/permanent_records) -软删除您的ActiveRecord记录，例如ActsAsParanoid的显式版本.
 *进口
   * [ActiveImporter](https://github.com/continuum/active_importer) -定义将电子表格或CSV文件中的表格数据加载到任何类似ActiveRecord的ORM中的导入程序.
@@ -1097,7 +1097,7 @@
   * [gitarro](https://github.com/openSUSE/gitarro) -针对您的GitHub Pull Requests运行，重新触发，处理所有类型和与操作系统无关的测试.
   * [Knapsack](https://github.com/ArturT/knapsack) -跨CI节点针对RSpec，Cucumber，Minitest，Spinach和Turnip的最佳测试套件并行化.
   * [mutant](https://github.com/mbj/mutant) -Mutant是Ruby的突变测试工具.
-  * [Parallel Tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores).
+  * [Parallel Tests](https://github.com/grosser/parallel_tests) -通过在多个CPU（或内核）上并行运行来加速测试：: Unit + RSpec + Cucumber.
   * [power_assert](https://github.com/k-tsj/power_assert) -Ruby的电源声明.
   * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) -用于构建JMeter测试计划的基于Ruby的DSL.
   * [Spring](https://github.com/rails/spring) -在后台预载Rails环境，以进行更快的测试和Rake任务.
@@ -1156,6 +1156,7 @@
 * [LinkThumbnailer](https://github.com/gottfrois/link_thumbnailer)  -Ruby gem，可从给定的URL生成缩略图和视频.  非常类似于带有链接预览的流行社交网站.
 * [Mechanize](https://github.com/sparklemotion/mechanize) -机械化是一个红宝石库，可以轻松实现自动的Web交互.
 * [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes.
+* [Spidr](https://github.com/postmodern/spidr)  -通用的Ruby Web爬虫库，可以对站点，多个域，某些链接或无限地进行爬虫.  Spidr设计为快速且易于使用.
 * [Upton](https://github.com/propublica/upton) -包含电池的框架，可轻松进行网页抓取.
 * [Wombat](https://github.com/felipecsl/wombat) -具有优雅DSL的Web抓取工具，可以解析来自网页的结构化数据.
 

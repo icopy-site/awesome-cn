@@ -110,6 +110,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 ## Dataset
 
 - [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) -匹配排名游戏的详细信息.
+- [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) -Apple App Store中的策略游戏.
 - [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) -参加世界杯的球队的详细信息.
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) -来自棋盘游戏的数据.
 - [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) -桌游中的属性和等级 [BoardGameGeek](https://www.boardgamegeek.com/).
@@ -171,12 +172,12 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 
 - [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) -来自Play商店应用的数据.
 - [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) -来自的视频游戏数据 [JeuxVideo.com](http://www.jeuxvideo.com/).
-- [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) -项目详细信息.
+- [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) -来自的游戏数据 [metacritc](https://www.metacritic.com).
 - [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) -Steam提供的电子游戏价格.
 - [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) -有关视频游戏的问题.
 - [Steam Game Data](https://github.com/CraigKelly/steam-data) -Steam API和Steam Spy的组合.
-- [Steam Review Datasets](https://github.com/mulhod/steam_reviews) - Steam user reviews.
+- [Steam Review Datasets](https://github.com/mulhod/steam_reviews) -Steam用户评论.
 - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games) -Steam用户互动.
 - [Vandal Game Reviews](https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal) -来自的游戏数据 [Vandal.com](https://vandal.elespanol.com/).
 - [Video Game DATA](https://www.kaggle.com/juttugarakesh/video-game-data) -发布了视频游戏.

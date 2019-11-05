@@ -13,14 +13,15 @@
 ## Databases
 * [Arbovirus Catalog (ARBOCAT)](https://wwwn.cdc.gov/arbocat/) -CDC策划的虫媒病毒信息，包括首次隔离日期和野生动植物寄主.
 * [Arctos](http://arctos.database.museum/SpecimenSearch.cfm)  -博物馆标本的集体管理数据库.  请参阅下面的特定集合.  数据包括地区和收集日期，任何注册帐户均可下载. 
-* [Benesh et al. 2017, Ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1680)  -具有8510种具有复杂生命周期的寄生虫（棘头动物，虫和线虫）宿主物种的广泛数据库.  包括生命史数据，例如寄生虫每个生命周期阶段的发育时间和体型.
+* [Benesh et al. 2017, Ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1680)  -具有8510种具有复杂生命周期的寄生虫（棘头动物，虫和线虫）寄主物种的广泛数据库.  包括生命史数据，例如寄生虫每个生命周期阶段的发育时间和体型.
 * [ENHanCEd Infectious Diseases Database (EID2)](https://eid2.liverpool.ac.uk/)  -从NCBI序列和PubMed中提取生物关联的数据库.  请参阅中的数据库和简要分析 [Wardeh et al. 2015](https://www.nature.com/articles/sdata201549).
 * [Global Biotic Interactions (GloBI)](https://www.globalbioticinteractions.org/data.html) -物种相互作用信息库，可以通过“寄生虫”，“病原体”或“宿主”进行搜索.
 * [Global Mammal Parasite Database 2.0](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.1799) -野生有蹄类动物（动物指和壳类），食肉动物和灵长类动物的寄生虫数据库.
 * [DBatVir](https://github.com/ecohealthalliance/awesome-parasite/blob/master/www.mgc.ac.cn/DBatVir) -从Genbank整理的蝙蝠病毒数据库，其中包含宿主特征和位置摘要.
 * [DRodVir](http://www.mgc.ac.cn/DRodVir/) -从Genbank挑选的具有宿主特征的啮齿动物病毒数据库.
+* [MalAvi](http://130.235.244.92/Malavi/)  -疟原虫，变形杆菌和亮细胞类属的禽血寄生虫数据库，包括选定的宿主和载体信息.  请参阅数据库描述 [Bensch et al. 2009](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1755-0998.2009.02692.x).
 * [NCEAS Interaction Web data](https://www.nceas.ucsb.edu/interactionweb/resources.html#host_parasite)  -整理了几个加拿大犯罪学地点的鱼类寄主和寄生虫数据集，包括患病率和强度信息.  食物网和植物关系中物种相互作用的较大数据库的一部分.
-* [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/)  -从伦敦自然历史博物馆维护的科学文献中提取的寄生虫数据库.  HA Baylis博士于1922年开始进行编辑，直到LNHM的工作人员一直进行到2003年的编辑工作. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) 提供对此数据库的广泛分析，您可以通过R包访问数据 [helminthR](https://github.com/ropensci/helminthR). 
+* [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/)  -从伦敦自然历史博物馆维护的科学文献中提取的寄生虫数据库.  HA Baylis博士于1922年开始进行编辑，直到LNHM的工作人员一直进行到2003年为止. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) 提供对此数据库的广泛分析，您可以通过R包访问数据 [helminthR](https://github.com/ropensci/helminthR). 
  * [Olival et al. 2017, Nature](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) -具有的哺乳动物病毒数据库 [analysis](https://www.nature.com/articles/nature22975?sf90794030). 
 * [PEARL](http://pearl.berkeley.edu/) -对大型无脊椎动物的保护评估.
 * [PHI-base](http://www.phi-base.org/index.jsp)  -包含影响病原性的真菌，卵菌和细菌病原体特定基因信息的数据库.  着重于农业和医学上重要的病原体. 
@@ -34,7 +35,7 @@
 * [Invertebrates Collection of the Swedish Museum of Natural History](https://www.nrm.se/english/researchandcollections/zoology/collections/invertebrates.305_en.html)  -瑞典博物馆，收藏了超过10,000条扁虫，超过2,000条线虫以及其他寄生虫类.  通过访问 [GBIF](https://www.gbif.org/dataset/56aa0680-0c60-11dd-84cd-b8a03c50a862).
 * [Meguro Parasite Museum](https://www.kiseichu.org/e-top)  -日本东京的博物馆着重于人类寄生虫，标本超过60,000种.  尽管博物馆的创始人山古提博士（S. Yamaguti）曾以10册的形式描述了许多标本，但数据并未数字化 [Systema Helminthum](https://www.worldcat.org/title/systema-helminthum/oclc/427905372/editions?editionsView=true&referer=br) .  收藏品主要来自日本，印度尼西亚和夏威夷. 
 * [Muséum National d'Histoire Naturelle (MNHN - Paris)](https://www.mnhn.fr/en/collections/collection-groups/marine-invertebrates/parasitic-worms-helminths)  -蠕虫的收集，有30,000多种蠕虫，特别是热带地区.  通过访问 [GBIF](https://www.gbif.org/dataset/e0ebf2a1-3656-468a-b0b6-1aa93ff43fef#description). 
-* [Museum of Southwestern Biology, Division of Parasites](https://msb.unm.edu/divisions/parasites/index.html)  -收集寄生虫两栖动物，爬行动物，鸟类和哺乳动物的标本.  特别关注高海拔地区和新墨西哥州塞维利亚长期生态研究站中小型哺乳动物的寄生虫，以及北冰洋和南极洲的海鸟寄生虫.  通过访问 [Arctos](http://arctos.database.museum/SpecimenSearch.cfm). 
+* [Museum of Southwestern Biology, Division of Parasites](https://msb.unm.edu/divisions/parasites/index.html)  -收集寄生虫两栖动物，爬行动物，鸟类和哺乳动物的标本.  特别关注高海拔地区和新墨西哥州塞维利亚长期生态研究站内小型哺乳动物的寄生虫，以及北冰洋和南极洲的海鸟寄生虫.  通过访问 [Arctos](http://arctos.database.museum/SpecimenSearch.cfm). 
 * [Ohio State University Acarology Collection](https://acarology.osu.edu/database)  -从1864年开始，来自全球的近7万份带螨螨标本.信息包括寄主物种，采集gps点，采集位置（例如耳朵）和采集方法.  也可以通过访问 [GBIF](https://www.gbif.org/dataset/96b54e8c-f762-11e1-a439-00145eb45e9a).
 * [South Australian Museum’s Australian Helminthological Collection](http://www.samuseum.sa.gov.au/collections/biological-sciences/parasites/the-australian-helminthological-collection-database)  -可下载的excel文件，其中包含近50,000个主要来自澳大利亚脊椎动物的蠕虫标本.  大多数标本是来自哺乳动物，鸟类或细支气管虫的蠕虫，棘头虫或线虫.  一些标本包含在 [LNHM database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) 并可以通过 [helminthR](https://github.com/ropensci/helminthR). 
 * [The International Outbreak Museum](http://www.outbreakmuseum.com) -博物馆重点关注人类食源性暴发，每次 [exhibit](http://www.outbreakmuseum.com/exhibits/)  是一次不同的历史性爆发.  部分 [The Northwest Center for Foodborne Outbreak Management, Epidemiology, and Surveillance](https://health.oregonstate.edu/fomes). 
@@ -42,7 +43,7 @@
 
 ## Citizen Science Projects 
  * [Garden Wildlife Health](https://www.gardenwildlifehealth.org)  -这是英国伦敦动物学学会（ZSL），英国鸟类学信托基金会（BTO），蛙蛙和皇家鸟类保护协会（RSPB）之间的一项英国合作项目，该项目从1980年代开始一直运作（以前称为花园鸟类健康倡议和青蛙死亡率项目）.  市民可以提交有关野鸟，两栖动物，爬行动物和刺猬的疾病和死亡报告以及动物野生动植物样本. 
- * [Project Monarch Health](https://www.monarchparasites.org/)  -自2006年以来运行的一项公民科学项目，旨在测试来自美国和加拿大的成年帝王蝶是否具有原生动物寄生虫“ Ophryocystis elektroscirrha_”.  参与者用胶带将从成人腹部收集的孢子样本提交实验室进行评估. 
+ * [Project Monarch Health](https://www.monarchparasites.org/)  -自2006年以来运行的一项公民科学项目，旨在测试美国和加拿大的成年帝王蝶是否具有原生动物寄生虫“ Ophryocystis elektroscirrha_”.  参与者用胶带将从成人腹部收集的孢子样本提交实验室进行评估. 
 
 ## Reporting Systems 
 * [Healthmap](https://www.healthmap.org/en/) -一个网络平台，可为人类和动物提供传染病爆发警报.
@@ -58,8 +59,8 @@
 
 ## Scientific Journals 
 * [American Journal of Tropical Medicine and Hygiene](http://www.ajtmh.org/)  -AJTMH发表广泛的论文，涵盖热带医学的主题.  经过12个月的禁运后，他们的档案可以打开.
-* [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html)  -波兰寄生虫病学会的开放式科学期刊，原名为《WiadomościParazytologiczne_》，每季度出版一期.  开放档案始于2002年. 
-* [EFSA Journal](https://efsa.onlinelibrary.wiley.com/journal/18314732) -欧洲食品安全局的开放获取期刊，每年报告食源性疾病的暴发，人畜共患病的发生以及人类和动物出现抗生素耐药性的情况. 
+* [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html)  -波兰寄生虫学会的开放获取科学期刊，原名为《WiadomościParazytologiczne_》，每季度出版一期.  开放档案始于2002年. 
+* [EFSA Journal](https://efsa.onlinelibrary.wiley.com/journal/18314732) -欧洲食品安全局的开放获取期刊，每年报告食源性疾病的暴发，人畜共患病的人和抗生素耐药性的出现. 
 * [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/) -CDC开放存取日志.
 * [Journal of Wildlife Diseases](http://www.jwildlifedis.org/loi/jwdi) -JWD提供了许多有关新的寄生虫扩展或发现的开放获取文章.
 * [Mitteilungen der Österreichischen Gesellschaft für Tropenmedizin und Parasitologie](https://www.zobodat.at/publikation_series.php?id=1351) -奥地利热带医学与寄生虫学会的科学期刊的23种开放获取卷（1971-2001年）.
