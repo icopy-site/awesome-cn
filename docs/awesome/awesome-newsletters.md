@@ -184,7 +184,7 @@
 
 ### Groovy
 
-- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) .  最新版本，有趣的文章，访谈，演示，相关推文或Google+帖子，播客或截屏链接，代码段，书籍，即将举行的活动等.
+- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) .  最新版本，有趣的文章，访谈，演示，相关的推文或Google+帖子，播客或截屏链接，代码段，书籍，即将举行的活动等.
 
 ### Perl
 
@@ -301,7 +301,7 @@
 
 - [kubelist](https://kubelist.com) .  您策划的每周kubernetes信息对帐循环.
 - [KubeWeekly](https://kube.news) .  以时事通讯的形式提供有关Kubernetes的有趣的每周新闻.
-- [LWKD](http://lwkd.info) .  LWKD是每周新闻简讯，概述了Kubernetes项目中的代码活动：合并，PR，弃用，版本更新，发布时间表和每周社区会议.
+- [LWKD](http://lwkd.info) .  LWKD是每周新闻简讯，总结了Kubernetes项目中的代码活动：合并，PR，弃用，版本更新，发布时间表和每周社区会议.
 
 ## Mobile
 
@@ -335,7 +335,6 @@
 
 - [TLDR](https://www.tldrnewsletter.com/) .  TLDR是每日精选的新闻通讯，其中包含技术上最有趣的故事的链接和摘要.
 - [Barista.io](https://www.barista.io/) .  每天通过电子邮件发送来自网络的人群精选文章，以掌握当今最受欢迎的技术新闻.
-- [DevCraft](https://devcraftweekly.com/) .  关于软件工程的艺术，工艺和生活方式的每周新闻.
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) .  每个工作日有4条关于（主要是面向研究的）技术的短链接.
 - [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 - [TechMeme](https://www.techmeme.com/) .  Techmeme是近乎实时的汇总，过滤，可存档的摘要，涵盖了新事物并引发了技术对话.

@@ -22,20 +22,24 @@
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) -用于构建与恶意软件沙箱集成的最小，一致的Python API.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) -用于序列化和反序列化结构化威胁信息表达（STIX）JSON内容的Python API，以及用于常见任务的高级API.
 
+## Cloud platform security
+
+- [Prowler](https://github.com/toniblyx/prowler) -基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和强化.
+- [Scout Suite](https://github.com/nccgroup/ScoutSuite) -开源的多云安全审核工具，可对云环境进行安全状态评估.
+
 ## Communications security (COMSEC)
 
 - [GPG Sync](https://github.com/firstlookmedia/gpgsync) -在组织或团队的所有成员之间集中和自动化OpenPGP公钥分发，吊销和更新.
 
 ## DevSecOps
 
-也可以看看 [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
+See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 - [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将秘密安全地存储在Git / Mercurial / Subversion中.
 - [Cilium](https://cilium.io/) -开源软件，用于透明保护使用Docker和Kubernetes等Linux容器管理平台部署的应用程序服务之间的网络连接.
 - [Clair](https://github.com/coreos/clair) -静态分析工具，用于探测通过应用程序容器（例如Docker）映像引入的漏洞.
 - [Gauntlt](http://gauntlt.org/) -在常规持续集成过程中的Pentest应用程序构建管道.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -防止您将密码和其他敏感信息提交到git存储库.
-- [Prowler](https://github.com/toniblyx/prowler) -基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和强化.
 - [Vault](https://www.vaultproject.io/) -用于通过统一界面安全访问机密（例如API密钥，密码或证书）的工具.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/)  -git中的透明文件加密；  您选择保护的文件在提交时会加密，而在签出时会解密.
 - [SonarQube](https://sonarqube.org) -连续检查工具，可在自动化测试期间提供详细的报告，并就新引入的安全漏洞发出警报.
@@ -46,7 +50,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Honeypots
 
-也可以看看 [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
+See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens)  -可自承载的honeytoken生成器和报告仪表板；  演示版本可在 [CanaryTokens.org](https://canarytokens.org/).
 
@@ -69,7 +73,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Incident Response tools
 
-也可以看看 [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
+See also [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
 
 - [aws_ir](https://github.com/ThreatResponse/aws_ir) -使用零安全准备假设自动执行事件响应.
 
@@ -93,7 +97,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 （也称为“狩猎团队”和“威胁检测”.）
 
-也可以看看 [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
+See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
 
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) -基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) -用于通过Windows事件日志进行寻线分组的PowerShell模块.
@@ -105,17 +109,15 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -基于PowerShell的所有平台均可以执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，该工具与防病毒控制台集成.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的，提供基于主机的调查功能的免费端点审计和分析工具.
-- [Scout2](https://github.com/nccgroup/Scout2) -安全工具，可让Amazon Web Services管理员评估其环境的安全状况.
 
 ## Network Security Monitoring (NSM)
 
-也可以看看 [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
+See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 
 - [Bro](https://www.bro.org/) -专注于安全监控的强大网络分析框架.
 - [ChopShop](https://github.com/MITRECND/chopshop) -协助分析人员创建和执行基于APT的基于Pynids的解码器和检测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) -恶意网络流量检测系统.
 - [Respounder](https://github.com/codeexpress/respounder) -检测网络上是否存在响应者LLMNR / NBT-NS / MDNS中毒器.
-- [Security Monkey](https://github.com/Netflix/security_monkey) -监视您的AWS和GCP帐户是否有策略更改，以及有关不安全配置的警报.
 - [Snort](https://snort.org/) -广泛部署的免费软件IPS，能够进行实时数据包分析，流量记录和基于规则的自定义触发器.
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) -捕获欺骗的NetBIOS名称服务（NBNS）响应并提醒电子邮件或日志文件.
 - [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及深度数据包检查功能的免费，跨平台IDS / IPS，Lua也可以编写脚本.
@@ -139,8 +141,9 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Phishing awareness and reporting
 
-也可以看看 [awesome-pentest § Social Engineering Tools](https://github.com/meitar/awesome-pentest#social-engineering-tools).
+See also [awesome-pentest § Social Engineering Tools](https://github.com/meitar/awesome-pentest#social-engineering-tools).
 
+- [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可轻松测试组织对网络钓鱼的危害.
 - [King Phisher](https://github.com/securestate/king-phisher) -通过模拟真实的网络钓鱼攻击来测试和增强用户意识的工具.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
@@ -166,7 +169,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Service and performance monitoring
 
-也可以看看 [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
+See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
 
 - [Icinga](https://icinga.com/) -Nagios的模块化重新设计，带有可插拔的用户界面以及一组扩展的数据连接器，收集器和报告工具.
 - [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户涌入您的系统.
@@ -176,7 +179,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Threat intelligence
 
-也可以看看 [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
+See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
 - [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)  -将Active Directory权限配置（“控制关系”）可视化并绘制图形，以审核诸如“谁可以阅读CEO的电子邮件？”之类的问题.  和类似的.
 - [DATA](https://github.com/hadojae/DATA) -凭据网络钓鱼分析和自动化工具，可以直接接受可疑的网络钓鱼URL，也可以在观察到的包含此类URL的网络流量上触发.
@@ -190,7 +193,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Tor Onion service defenses
 
-也可以看看 [awesome-tor](https://github.com/ajvb/awesome-tor).
+See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 - [OnionBalance](https://onionbalance.readthedocs.io/) -提供负载平衡，同时通过消除单个故障点使Onion服务更具弹性和可靠性.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) -版本3洋葱服务防护发现缓解脚本（打算最终包含在Tor核心中）.
@@ -200,7 +203,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Certbot](https://certbot.eff.org/) -免费工具，可自动从TLS证书的发行和续签 [LetsEncrypt Root CA](https://letsencrypt.org/) 带有配置各种Web和电子邮件服务器软件的插件.
 - [MITMEngine](https://github.com/cloudflare/mitmengine) -Golang库，用于在服务器端检测TLS拦截事件.
 - [OpenVPN](https://openvpn.net/) -开源的基于SSL / TLS的虚拟专用网络（VPN）.
-- [Tor](https://torproject.org/) - Censorship circumvention and anonymizing overlay network providing distributed, cryptographically verified name services (`.onion` domains) to enhance publisher privacy and service availability.
+- [Tor](https://torproject.org/) -审查制度的规避和匿名覆盖网络，提供分布式的，经过密码验证的名称服务（.onion域），以增强发布者的隐私和服务可用性.
 
 ## macOS-based defenses
 
@@ -211,7 +214,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Windows-based defenses
 
-也可以看看 [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) 和 [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening).
+See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) 和 [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening).
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) -禁用许多危险Windows功能的实用程序.
 - [NotRuler](https://github.com/sensepost/notruler) -同时检测客户端使用的规则和VBScript启用的表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时使用的攻击工具.

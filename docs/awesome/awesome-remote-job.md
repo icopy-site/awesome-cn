@@ -72,7 +72,6 @@
   1. [Latest Telecommuting Statistics | Global Workplace Analytics](http://globalworkplaceanalytics.com/telecommuting-statistics)
   1. [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
   1. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
-  1. [Michael Bloomberg agrees with Marissa Mayer on telecommuting](http://www.capitalnewyork.com/article/politics/2013/03/8071699/michael-bloomberg-agrees-marissa-mayer-telecommuting)
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
   1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
   1. [One day offices will be a thing of the past](https://www.virgin.com/richard-branson/one-day-offices-will-be-a-thing-of-the-past)
@@ -116,7 +115,7 @@
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
-     由Robert Pankowecki和Andrzej Krzywda（Arkency），2014年.
+     Robert Pankowecki和Andrzej Krzywda（Arkency），2014年.
   1. [Distributed Teams](https://oduinn.com/book/).
      John O&#39;Duinn着，2018年.
   1. [Remote: Office Not Required](http://37signals.com/remote/).
@@ -176,7 +175,7 @@
   1. [Slasify](https://slasify.com/en/) -来自亚洲的远程技术，艺术/设计和营销机会，包括全球薪资服务.
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
-  1. [Vue.js Jobs](https://vuejobs.com/) 在世界各地查找Vue.js职位-单击“远程”选项卡.
+  1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [React.js Jobs](https://www.react-jobs.com) 在世界各地查找React.js职位-单击“远程”切换按钮.
   1. [Remote.com](https://remote.com) -尝试自动将您与工作匹配，可以从LinkedIn导入个人资料
   1. [We Love Angular](https://www.weloveangular.com/) 在世界各地找到Angular职位和AngularJS人员-单击“远程Angular职位”链接.
@@ -243,8 +242,6 @@
   1. [Daily Remote](https://dailyremote.com/newsletter) -包含为您精心设计和策划的远程工作的新闻通讯
   1. [NODESK](https://nodesk.co/) -每两周发送一次有关数字游牧民和远程工作的新闻通讯.
   1. [Remote Internships](http://foundersgrid.com/)
-  1. [Remote Jobs Direct](https://remotejobsdirect.com/) -每周新闻通讯，涵盖各种远程工作和相关新闻.
-  1. [Remote Report](http://remote.report) -每周交付的最佳远程，支持重点和非技术性工作的集合
   1. [Remoteur](http://www.remoteur.com) -欧洲的远程工作每两周发送到您的收件箱
   1. [Remotive - productive remote workers](http://remotive.io/) -每周向10,000多名远程工作者发送有关远程提示和工作的新闻通讯
   1. [Yonder Newsletter](https://yonder.io/newsletter) -每日远程工作提示，链接，文章和Yonder播客
@@ -252,11 +249,13 @@
 
 ## Podcasts
   1. [Building Remote Teams](https://www.buildingremoteteams.com/) -针对已经在远程工作的人员，并专注于远程工作的细微挑战.
+  1. [Distributed](https://distributed.blog/podcast/)  -Matt Mattlenweg的访谈播客.  专注于分布式工作的好处和挑战以及在全球范围内招募人员.
   1. [Free People Move Podcast](https://teleport.org/podcast/) -多数采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
   1. [Remote Works](https://remote.works) -远程工作播客每两周发布一次，主持人乔纳森·夏普（Jonathan Sharp）讨论远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
-  1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，高效，自由放养的工人.
+  1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，富有成效的自由放养工人.
   1. [Wide Teams](http://www.wideteams.com) -每集与远程工作者进行一对一的面试，介绍工作流程和做法
+  
 
 ## Companies with "remote DNA"
   1. [10up](https://10up.com/careers/) -10up通过为内容创建者精心设计网站和工具来改善网络.
@@ -360,7 +359,7 @@
   1. [Judge.me](https://judge.me/)  -电子商务审查平台.  我们的公司遍布四大洲.
   1. [Keepsafe](https://www.getkeepsafe.com) -移动优先的隐私产品，使世界更容易选择隐私.
   1. [Khan Academy](https://www.khanacademy.org/careers)  -EdTech.  专注于K-12 STEM的非营利组织.  更少，React，Flux，Backbone，jQuery，Python，Google App Engine，Swift和Objective-C.
-  1. [Knack](https://www.knack.com/jobs) -简单的在线数据库.
+  1. [Knack](https://www.knack.com/jobs)  -方便的在线数据库，可帮助客户简化业务流程并自动化工作流程.  该产品是DIY，无代码/低代码.  该公司是100％偏远地区. 
   1. [LaterPay](https://www.laterpay.net/)  -（微）付款支持器.  德国慕尼黑.  Python，JavaScript，AWS.
   1. [LaunchPotato](http://launchpotato.com/careers) -位于佛罗里达州德拉海滩的创业工作室.
   1. [Librato](http://solarwinds.jobs/solarwinds-cloud/) -云监控.
@@ -412,6 +411,7 @@
   1. [RebelMouse](https://blog.rebelmouse.com/careers/)  -社交发布平台.  Python，JS和iOS / Android开发人员.  世界各地的团队.
   1. [Recurly](https://recurly.com/jobs/) -基于订阅的业务的定期计费管理
   1. [Red Hat](http://jobs.redhat.com/)
+   1. [Redox]（https://www.redoxengine.com/company/careers/）-医疗保健API平台.  自豪地成为远程第一团队. 
   1. [RightScale](http://www.rightscale.com/jobs)
   1. [Sangoma](http://www.sangoma.com)  -在提供全球可扩展的现场和基于云的IP语音电话系统方面的可信赖领导者.  C，PHP，Python，JavaScript，Linux，FreePBX，VoIP.
   1. [Scrapinghub](https://scrapinghub.com/jobs)
@@ -476,7 +476,7 @@
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) -子网.
 1. [##remotes](https://github.com/remotesclub/remotes) -IRC频道（[web access](http://webchat.freenode.net/?channels=##remotes))
-1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
+1. [Hacker Paradise](http://www.hackerparadise.org/) -远程工作者.
 1. [Remote Year](http://www.remoteyear.com/) -旅行技术人员1年.
 1. [We work remotely in Romania](https://weworkremotely.ro/) -罗马尼亚的远程工人，全职或在途
 1. [Remote Indian](https://remoteindian.com/) -来自印度的远程工人.
@@ -512,7 +512,7 @@
   1. [Talky](https://talky.io/) -群组的真正简单的视频聊天和屏幕共享
   1. [TeamHub](https://teamhub.app/) -直接在IDE中实时显示状态和进度
   1. [Whereby](https://whereby.com) –基于浏览器的无插件群组视频通话.
-  1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
+  1. [Zoom](https://zoom.us) —高质量的团体视频和共享屏幕，在linux上运行，记录会话并支持电话.
 
 #### Project Management
   1. [Asana](https://asana.com/) -项目管理适合分散的团队.
@@ -524,6 +524,7 @@
   1. [Taskade](https://taskade.com/) -团队的实时协作注释，清单和大纲.
   1. [Trello](https://trello.com/) -精益项目委员会.
   1. [Notion](http://notion.so/) -全部集中在一个工作区中，以编写，计划，协作和组织起来.
+  1. [Jira](https://www.atlassian.com/software/jira) -问题和项目跟踪工具. 
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) -Coffitivity可再现咖啡馆的环境声音，以增强您的创造力并帮助您更好地工作.

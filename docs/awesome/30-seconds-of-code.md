@@ -11,7 +11,7 @@
 
 *使用<kbd>Ctrl</kbd> + <kbd>F</kbd>或<kbd>Command</kbd> + <kbd>F</kbd>搜索代码段.
 *欢迎捐款，请阅读 [contribution guide](https://github.com/30-seconds/30-seconds-of-code/blob/master/CONTRIBUTING.md).
-* Snippets are written in ES6, use the [Babel transpiler](https://babeljs.io/) 确保向后兼容.
+*片段是用ES6编写的，请使用 [Babel transpiler](https://babeljs.io/) 确保向后兼容.
 * You can import these snippets into VSCode, by following the instructions found [here](https://github.com/30-seconds/30-seconds-of-code/tree/master/vscode_snippets).
 *您可以使用以下命令中的CLI应用程序从终端搜索，查看和复制这些片段 [this repo](https://github.com/sQVe/30s).
 *如果您想在社交媒体上遵循30秒的代码，可以在以下位置找到我们 [Facebook](https://www.facebook.com/30secondsofcode), [Instagram](https://www.instagram.com/30secondsofcode) 和 [Twitter](https://twitter.com/30secondsofcode).
@@ -320,7 +320,7 @@ const sum = pipeAsyncFunctions（
   x =&gt; x + 3，
   异步x =&gt;（await x）+ 4
 );
-（async（）=&gt; {
+（异步（）=&gt; {
    console.log（await sum（5））;  // 15（一秒钟后）
 })();
 ```
@@ -1046,7 +1046,7 @@ const groupBy =（arr，fn）=&gt;
 使用`arr [0]`返回所传递数组的第一个元素.
 
 ```js
-const head = arr =&gt; arr [0];
+const head = arr => arr[0];
 ```
 
 <details>
@@ -1054,6 +1054,26 @@ const head = arr =&gt; arr [0];
 
 ```js
  头（[1,2,3]）;  // 1
+```
+</details>
+
+
+### includesAll
+
+如果所有元素“值”都包含在“ arr”中，则返回“ true”，否则返回“ false”.
+
+使用“ Array.prototype.every（）”和“ Array.prototype.includes（）”来检查“ value”的所有元素是否都包含在“ arr”中.
+
+```js
+const includesAll =（arr，values）=&gt; values.every（v =&gt; arr.includes（v））;
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+ includeAll（[1、2、3、4]，[1、4]）;  //正确
+ includeAll（[1、2、3、4]，[1、5]）;  //错误
 ```
 </details>
 
@@ -1134,7 +1154,7 @@ const initialize2DArray =（w，h，val = null）=&gt;
 <summary>Examples</summary>
 
 ```js
- initialize2DArray（2，2，0）;  // [[0,0]，[0,0]]
+initialize2DArray(2, 2, 0); // [[0,0], [0,0]]
 ```
 </details>
 
@@ -1284,14 +1304,14 @@ const交集By =（a，b，fn）=&gt; {
 将Array.prototype.filter（）和Array.prototype.findIndex（）与提供的比较器结合使用，以确定相交值.
 
 ```js
-constsectionWith =（a，b，comp）=&gt; a.filter（x =&gt; b.findIndex（y =&gt; comp（x，y））！== -1）;
+const交集With =（a，b，comp）=&gt; a.filter（x =&gt; b.findIndex（y =&gt; comp（x，y））！== -1）;
 ```
 
 <details>
 <summary>Examples</summary>
 
 ```js
-intersectionWith([1, 1.2, 1.5, 3, 0], [1.9, 3, 0, 3.9], (a, b) => Math.round(a) === Math.round(b)); // [1.5, 3, 0]
+ junctionWith（[1，1.2，1.5，3，0]，[1.9，3，0，3.9]，（a，b）=&gt; Math.round（a）=== Math.round（b））;  // [1.5，3，0]
 ```
 </details>
 
@@ -1342,8 +1362,8 @@ const join =（arr，分隔符=&#39;，&#39;，end =分隔符）=&gt;
       我===长度-2
          ？  acc + val +结束
         ：i ===长度-1
-         ？  acc + val
-        ：acc + val +分隔符，
+           ？  acc + val
+          ：acc + val +分隔符，
     ''
   );
 ```
@@ -1827,7 +1847,7 @@ reduceWhich(
 
 ### reject
 
-Filters an array's values based on a predicate function, returning only values for which the predicate function returns `true`.
+根据谓词函数过滤数组的值，仅返回谓词函数返回true的值.
 
 将Array.prototype.filter（）与谓词函数pred结合使用，以仅返回pred（）返回true的值.
 
@@ -1914,7 +1934,7 @@ const sampleSize =（[[arr]，n = 1）=&gt; {
 <summary>Examples</summary>
 
 ```js
- sampleSize（[1，2，3]，2）;  // [3,1]
+sampleSize([1, 2, 3], 2); // [3,1]
  sampleSize（[1、2、3]，4）;  // [2,3,1]
 ```
 </details>
@@ -3043,7 +3063,7 @@ const getScrollPosition =（el = window）=&gt;（{
 <summary>Examples</summary>
 
 ```js
- getScrollPosition（）;  // {x：0，y：200}
+getScrollPosition(); // {x: 0, y: 200}
 ```
 </details>
 
@@ -3309,7 +3329,7 @@ const on =（el，evt，fn，opts = {}）=&gt; {
 ```js
 const fn =（）=&gt; console.log（&#39;！&#39;）;
  on（document.body，&#39;click&#39;，fn）;  //记录&#39;！&#39;  在点击身体时
-on(document.body, 'click', fn, { target: 'p' }); // logs '!' upon clicking a `p` element child of the body
+ on（document.body，&#39;click&#39;，fn，{target：&#39;p&#39;}）;  //记录&#39;！&#39;  在点击身体的`p`元素子元素时
  on（document.body，&#39;click&#39;，fn，{options：true}）;  //使用捕获而不是冒泡
 ```
 </details>
@@ -3333,7 +3353,7 @@ const onUserInputChange = callback => {
     lastTime =现在；
   };
   document.addEventListener（&#39;touchstart&#39;，（）=&gt; {
-    if (type === 'touch') return;
+    如果（类型===&#39;触摸&#39;）返回;
     （type =&#39;touch&#39;），callback（type），document.addEventListener（&#39;mousemove&#39;，mousemoveHandler）;
   });
 };
@@ -3778,10 +3798,10 @@ const getMeridiemSuffixOfInteger = num =&gt;
    是否=== 0 ||  ===是否24
      ？  12 +&#39;am&#39;
     ：num === 12
-     ？  12 +&#39;pm&#39;
-    ：num &lt;12
-     ？  （num％12）+&#39;am&#39;
-    ：（无论12％）PM“;
+       ？  12 +&#39;pm&#39;
+      ：num &lt;12
+         ？  （num％12）+&#39;am&#39;
+        ：（无论12％）PM“;
 ```
 
 <details>
@@ -4122,7 +4142,7 @@ chainAsync([
 
 ### checkProp
 
-给定一个“谓词”函数和一个“ prop”字符串，然后此咖喱函数将通过调用属性并将其传递给谓词来接受一个“对象”进行检查.
+Given a `predicate` function and a `prop` string, this curried function will then take an `object` to inspect by calling the property and passing it to the predicate.
 
 召唤obj上的prop，将其传递给提供的predicate函数并返回一个带掩码的布尔值.
 
@@ -4235,7 +4255,7 @@ const average = converge（（（a，b）=&gt; a / b，[
 使用递归.
 If the number of provided arguments (`args`) is sufficient, call the passed function `fn`.
 否则，返回一个期望剩余参数的咖喱函数“ fn”.
-如果要咖喱接受可变数量参数的函数（可变函数，例如`Math.min（）`），则可以选择将数量参数传递给第二个参数“ arity”.
+If you want to curry a function that accepts a variable number of arguments (a variadic function, e.g. `Math.min()`), you can optionally pass the number of arguments to the second parameter `arity`.
 
 ```js
 const curry =（fn，arity = fn.length，... args）=&gt;
@@ -4264,7 +4284,7 @@ const反跳=（fn，ms = 0）=&gt; {
   让timeoutId;
   返回函数（... args）{
     clearTimeout（timeoutId）;
-    timeoutId = setTimeout(() => fn.apply(this, args), ms);
+    timeoutId = setTimeout（（）=&gt; fn.apply（this，args），ms）;
   };
 };
 ```
@@ -4945,11 +4965,11 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-      })()
+      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+    })()
     ：n &lt;= 1
-    ? 1
-    ：n *阶乘（n-1）;
+      ? 1
+      ：n *阶乘（n-1）;
 ```
 
 <details>
@@ -5657,7 +5677,7 @@ const toSafeInteger = num =&gt;
 
 返回两个向量之间的距离.
 
-使用Array.prototype.reduce（），Math.pow（）和Math.sqrt（）计算两个向量之间的欧几里得距离.
+Use `Array.prototype.reduce()`, `Math.pow()` and `Math.sqrt()` to calculate the Euclidean distance between two vectors.
 
 ```js
 const vectorDistance =（... coords）=&gt; {
@@ -6014,7 +6034,7 @@ test.txt的内容：
 
 将波浪号路径转换为绝对路径.
 
-使用带有正则表达式的String.prototype.replace（）和OS.homedir（）来替换主目录路径中的〜.
+使用带有正则表达式的String.prototype.replace（）和OS.homedir（）将主目录路径的〜替换为〜.
 
 ```js
 const untildify = str =&gt; str.replace（/ ^〜（$ | \ / | \\）/，`$ {require（&#39;os&#39;）.homedir（）} $ 1`）;
@@ -6107,11 +6127,11 @@ const deepClone = obj =&gt; {
   Object.keys（clone）.forEach（
     键=&gt;（clone [键] =类型obj [键] ===&#39;对象&#39;？deepClone（obj [键]）：obj [键]）
   );
-  return Array.isArray(obj) && obj.length
+  返回Array.isArray（obj）&amp;&amp; obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
     ：Array.isArray（obj）
-    ? Array.from(obj)
-    ：克隆;
+      ? Array.from(obj)
+      ：克隆;
 };
 ```
 
@@ -6195,13 +6215,13 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（obj）
      什么啊  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;对象&#39;
-     ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
            val！== null &amp;&amp; typeof val ===&#39;object&#39;吗？  deepMapKeys（val，f）：（acc [f（current）] = val）;
         返回acc；
       }, {})
-    ：obj;
+      ：obj;
 ```
 
 <details>
@@ -6270,9 +6290,9 @@ const dig =（obj，target）=&gt;
   obj中的目标
      ？  obj [目标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-        如果（acc！==未定义）返回acc;
-        如果（typeof val ===&#39;object&#39;）返回dig（val，target）;
-      }，未定义）；
+      如果（acc！==未定义）返回acc;
+      如果（typeof val ===&#39;object&#39;）返回dig（val，target）;
+    }，未定义）；
 ```
 
 <details>
@@ -6460,7 +6480,7 @@ const forOwnRight =（obj，fn）=&gt;
 const函数=（obj，继承的= false）=&gt;
   （遗传
      ？  [... Object.keys（obj），... Object.keys（Object.getPrototypeOf（obj））]
-    : Object.keys(obj)
+    ：Object.keys（obj）
   ）.filter（key =&gt; typeof obj [key] ===&#39;function&#39;）;
 ```
 
@@ -8643,7 +8663,7 @@ mostPerformant([
   },
   () => {
     //在返回false之前只需要达到索引“ 1”
-    [1、2、3、4、5、6、7、8、9、10] .every（el =&gt; typeof el ===&#39;number&#39;）;
+    [1, '2', 3, 4, 5, 6, 7, 8, 9, 10].every(el => typeof el === 'number');
   }
 ]); // 1
 ```
@@ -8685,10 +8705,10 @@ const last = nthArg（-1）;
 const objectToQueryString = queryParameters =&gt; {
   返回queryParameters
      ？  Object.entries（queryParameters）.reduce（（queryString，[key，val]，index）=&gt; {
-       const符号=索引=== 0？  &#39;？&#39;  ：&#39;＆&#39;;
-       queryString + = typeof val ===&#39;字符串&#39;  `$ {symbol} $ {key} = $ {val}`：&#39;&#39;;
-      返回queryString;
-    }, '')
+         const符号=索引=== 0？  &#39;？&#39;  ：&#39;＆&#39;;
+         queryString + = typeof val ===&#39;字符串&#39;  `$ {symbol} $ {key} = $ {val}`：&#39;&#39;;
+        返回queryString;
+      }, '')
     : '';
 };
 ```

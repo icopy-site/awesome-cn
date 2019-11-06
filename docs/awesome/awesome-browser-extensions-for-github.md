@@ -339,6 +339,14 @@ super超小型chrome扩展程序，使您的GitHub新闻源更加井井有条
 ## Notifications
 
 
+分类您的混合GitHub通知
+
+<details><summary>Screenshots</summary>
+
+ ![GitHub Categoric](https://github.com/ozlerhakan/categoric/raw/master/images/cover.png)
+</details>
+
+
 在GitHub上收到新通知时显示通知，并提供对弹出式窗口中所有通知的快速访问.
 
 <details><summary>Screenshots</summary>
@@ -364,7 +372,7 @@ Chrome和Firefox扩展程序，可在弹出窗口中快速查看您的通知，�
 </details>
 
 
- 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并提供仅显示您正在参与的问题的未读计数的选项.您可以单击图标以快速查看未读通知.
+ 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并提供仅显示您正在参与的问题的未读计数的选项.您可以单击图标快速查看未读通知.
 
 <details><summary>Screenshots</summary>
 
@@ -433,14 +441,6 @@ GitHub的整洁悬浮卡.
 
 
 ## PullRequest
-
-
-分类您的混合GitHub通知
-
-<details><summary>Screenshots</summary>
-
- ![GitHub Categoric](https://github.com/ozlerhakan/categoric/raw/master/images/cover.png)
-</details>
 
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.

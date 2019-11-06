@@ -125,7 +125,7 @@
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：抢钱，难度：1 /简单，技术/ JavaScript）_ <br>  Golang和React中的开源Slack替代方案
-- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，它使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
+- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Squirrelly是一个轻量级的模板引擎，支持辅助程序，过滤器，局部函数等.
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  NativeScript是一个开放源代码框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Angular和Vue.js，FlexBox和CSS等网络技能，并在iOS和Android上获得本机UI和性能.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建快速，现代化的应用程序和网站.
@@ -244,6 +244,7 @@
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一种新型工具，结合了代码编辑器的简单性和开发人员对其核心edit-build-debug周期的需求.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution)  _（标签：不错的第一笔捐款）_ <br>  TSLint的ESLint规则.
 - [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Reatom是声明式和反应式状态管理器，设计用于简单和复杂的应用程序.
+- [game-of-life](https://github.com/TroyTae/game-of-life/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  康威的《人生游戏》网络版！
 
 ## Contribute
 

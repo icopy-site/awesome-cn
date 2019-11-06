@@ -37,7 +37,7 @@
 * [Designing for Performance: Weighing Aesthetics and Speed](http://designingforperformance.com/) -拉拉·卡伦德·霍根（Lara Callender Hogan）
 * [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/9780596522315.do) -史蒂夫·苏德斯（Steve Souders）
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) -伊利亚·格里戈里克（Ilya Grigorik）
-* [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) 尼古拉斯·扎卡斯（Nicholas C.Zakas）
+* [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) -尼古拉斯·扎卡斯（Nicholas C.Zakas）
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) -史蒂夫·苏德斯（Steve Souders）
 * [High Performance Responsive Design: Building Faster Sites Across Devices](http://shop.oreilly.com/product/0636920033103.do) -汤姆·巴克
 * [Lean Websites](https://www.sitepoint.com/premium/books/lean-websites) -芭芭拉·伯姆斯
@@ -96,7 +96,7 @@
 * [DebugBear](https://www.debugbear.com/)  -DebugBear是基于Lighthouse的网站监视工具.  查看您的分数和指标如何随时间变化，重点是了解导致每次变化的原因.  DebugBear是具有30天免费试用版的付费产品.
 * [Page Speed](https://developers.google.com/speed/pagespeed/)  -PageSpeed系列工具旨在帮助您优化网站的性能.  PageSpeed Insights产品将帮助您确定可应用于您的网站的性能最佳实践，而PageSpeed优化工具可以帮助您使流程自动化.
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse) -渐进式Web应用程序的审核和性能指标工具.
-* [YSlow](https://github.com/marcelduran/yslow) -YSlow分析网页，并根据一组针对高性能网页的规则，提出改善网页性能的方法.
+* [YSlow](https://github.com/marcelduran/yslow) -YSlow分析网页，并根据一组高性能网页的规则提出改进网页性能的方法.
 * [YSlow for PhantomJS](http://yslow.org/phantomjs/) -PhantomJS的YSlow还为自动化测试框架引入了新的输出格式：TAP（任何测试协议）和JUnit.
 * [Grunt-WebPageTest](https://github.com/sideroad/grunt-wpt)  -Grunt插件，用于连续测量WebPageTest.  （[Demo](http://sideroad.github.io/sample-wpt-page/))
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) -使用PhantomJS（无头WebKit浏览器）测试页面性能的艰巨任务.
@@ -152,7 +152,7 @@
 
 ## Bookmarklets
 
-* [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) -YSlow分析网页，并根据一组针对高性能网页的规则，提出改善网页性能的方法.
+* [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) -YSlow分析网页，并根据一组高性能网页的规则提出改进网页性能的方法.
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights_extensions)  [不推荐使用]-PageSpeed Insights可作为Google Chrome的开源浏览器扩展使用.  网站管理员和网站开发人员可以使用PageSpeed Insights评估其网页的性能并获得有关如何改进网页的建议-解决方法 [@Kiquenet](https://github.com/kiquenet) - https://gist.github.com/davidsonfellipe/f8e3723b4dc0aaf9f6d4.
 * [PerfMap](https://github.com/zeman/perfmap) -一个书签，用于使用Resource Timing API创建浏览器中加载的资源的前端性能热图.
 * [DOM Monster](https://github.com/madrobby/dom-monster) -跨平台，跨浏览器的书签，将分析您所在页面的DOM和其他功能，并向您提供其健康状况.
@@ -261,7 +261,7 @@
 
 ## Minifiers - HTML
 
-* [Django-htmlmin](https://github.com/cobrateam/django-htmlmin)  -django-html，适用于Python的HTML压缩程序，完全支持HTML5.它支持Django，Flask和任何其他Python网络框架.  它还提供了可用于静态网站或部署脚本的命令行工具.
+* [Django-htmlmin](https://github.com/cobrateam/django-htmlmin)  -用于Linux的HTML压缩程序中的django-html，完全支持HTML5.它支持Django，Flask和任何其他Python网络框架.  它还提供了可用于静态网站或部署脚本的命令行工具.
 * [HTMLMinifier](https://github.com/kangax/html-minifier) -HTMLMinifier是一种高度可配置的，经过测试的，基于Javascript的HTML缩小器，具有类似lint的功能.
 * [Grunt-contrib-htmlmin](https://github.com/gruntjs/grunt-contrib-htmlmin) -一个咕gr的插件，用于缩小使用HTMLMinifier的HTML.
 * [Gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin) -gulp插件，用于使用HTMLMinifier缩小HTML.
@@ -280,7 +280,7 @@
 * [UglifyJS2](https://github.com/mishoo/UglifyJS2) -UglifyJS是用JavaScript编写的JavaScript解析器，压缩器，压缩器或美化器工具箱.
 * [CSSO](https://github.com/css/csso)  -CSS最小化工具与众不同.  除了常用的缩小技术外，它还可以执行CSS文件的结构优化，与其他缩小器相比，文件大小更小.
 * [CSSmin.js](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) -cssmin.js是YUICompressor的CSS缩小器的JavaScript端口.
-* [Grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
+* [Grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) -用于连接文件的Grunt插件.
 * [Grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) -Grunt插件，用于连接和缩小Javascript文件.
 * [Clean-css](https://github.com/jakubpawlowicz/clean-css) -用于node.js的快速，高效且经过良好测试的CSS缩小器.
 * [Django-compressor](https://github.com/django-compressor/django-compressor) -将链接和内联javascript或CSS压缩为单个缓存文件.
@@ -386,10 +386,11 @@
 
 ## Other Awesome Lists
 
+* [iamakulov/awesome-webpack-perf](https://github.com/iamakulov/awesome-webpack-perf) -用于网络性能的webpack工具精选清单
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 
 ## Contributing
 
-为了贡献， [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) 和/或 [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls).
+For contributing, [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) 和/或 [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls).
