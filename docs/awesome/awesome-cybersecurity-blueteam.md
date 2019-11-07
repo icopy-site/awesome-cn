@@ -4,7 +4,7 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效.  虽然不是排他性的，但此清单在很大程度上偏向 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目，并反对专有产品或公司服务.  有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效.  尽管不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目，并反对专有产品或公司服务.  有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
  衷心欢迎您的贡献和建议♥.  （✿◕‿◕）.  请检查 [Contributing Guidelines](https://github.com/meitar/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md)  更多细节.  这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -18,6 +18,7 @@
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) -VirusTotal.com API的PowerShell接口.
 - [censys-python](https://github.com/censys/censys-python) -Censys REST API的Python包装器.
 - [libcrafter](https://github.com/pellegre/libcrafter) -高级C ++网络数据包嗅探和制作库.
+- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Scriptable PDF file analyzer.
 - [python-dshield](https://github.com/rshipp/python-dshield) -Internet风暴中心/ DShield API的Pythonic接口.
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) -用于构建与恶意软件沙箱集成的最小，一致的Python API.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) -用于序列化和反序列化结构化威胁信息表达（STIX）JSON内容的Python API，以及用于常见任务的高级API.
@@ -33,7 +34,7 @@
 
 ## DevSecOps
 
-See also [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
+也可以看看 [awesome-devsecops](https://github.com/devsecops/awesome-devsecops).
 
 - [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将秘密安全地存储在Git / Mercurial / Subversion中.
 - [Cilium](https://cilium.io/) -开源软件，用于透明保护使用Docker和Kubernetes等Linux容器管理平台部署的应用程序服务之间的网络连接.
@@ -50,7 +51,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Honeypots
 
-See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
+也可以看看 [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens)  -可自承载的honeytoken生成器和报告仪表板；  演示版本可在 [CanaryTokens.org](https://canarytokens.org/).
 
@@ -73,7 +74,7 @@ See also [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 ## Incident Response tools
 
-See also [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
+也可以看看 [awesome-incident-response](https://github.com/meirwah/awesome-incident-response).
 
 - [aws_ir](https://github.com/ThreatResponse/aws_ir) -使用零安全准备假设自动执行事件响应.
 
@@ -97,7 +98,7 @@ See also [awesome-incident-response](https://github.com/meirwah/awesome-incident
 
 （也称为“狩猎团队”和“威胁检测”.）
 
-See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
+也可以看看 [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
 
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) -基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) -用于通过Windows事件日志进行寻线分组的PowerShell模块.
@@ -112,7 +113,7 @@ See also [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-det
 
 ## Network Security Monitoring (NSM)
 
-See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
+也可以看看 [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 
 - [Bro](https://www.bro.org/) -专注于安全监控的强大网络分析框架.
 - [ChopShop](https://github.com/MITRECND/chopshop) -协助分析人员创建和执行基于APT的基于Pynids的解码器和检测器的框架.
@@ -141,7 +142,7 @@ See also [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 
 ## Phishing awareness and reporting
 
-See also [awesome-pentest § Social Engineering Tools](https://github.com/meitar/awesome-pentest#social-engineering-tools).
+也可以看看 [awesome-pentest § Social Engineering Tools](https://github.com/meitar/awesome-pentest#social-engineering-tools).
 
 - [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可轻松测试组织对网络钓鱼的危害.
@@ -149,6 +150,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/meitar
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
 - [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) -有助于检测和响应网络钓鱼攻击的框架.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) -允许创建和管理（伪造）网络钓鱼活动的平台，旨在训练人们识别可疑邮件. 
+- [mailspoof](https://github.com/serain/mailspoof) -扫描SPF和DMARC记录以查找可能允许电子邮件欺骗的问题.
 - [phishing_catcher](https://github.com/x0rz/phishing_catcher) -可配置脚本，可使用以下命令在证书透明性日志（CTL）中按域名监视可疑TLS证书的颁发 [CertStream](https://certstream.calidog.io/) 服务.
 
 ## Preparedness training and wargaming
@@ -169,7 +171,7 @@ See also [awesome-pentest § Social Engineering Tools](https://github.com/meitar
 
 ## Service and performance monitoring
 
-See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
+也可以看看 [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
 
 - [Icinga](https://icinga.com/) -Nagios的模块化重新设计，带有可插拔的用户界面以及一组扩展的数据连接器，收集器和报告工具.
 - [Locust](https://locust.io/) -开源负载测试工具，您可以在其中使用Python代码定义用户行为，并使数以百万计的同时用户涌入您的系统.
@@ -179,7 +181,7 @@ See also [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmi
 
 ## Threat intelligence
 
-See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
+也可以看看 [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
 - [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)  -将Active Directory权限配置（“控制关系”）可视化并绘制图形，以审核诸如“谁可以阅读CEO的电子邮件？”之类的问题.  和类似的.
 - [DATA](https://github.com/hadojae/DATA) -凭据网络钓鱼分析和自动化工具，可以直接接受可疑的网络钓鱼URL，也可以在观察到的包含此类URL的网络流量上触发.
@@ -193,7 +195,7 @@ See also [awesome-threat-intelligence](https://github.com/hslatman/awesome-threa
 
 ## Tor Onion service defenses
 
-See also [awesome-tor](https://github.com/ajvb/awesome-tor).
+也可以看看 [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 - [OnionBalance](https://onionbalance.readthedocs.io/) -提供负载平衡，同时通过消除单个故障点使Onion服务更具弹性和可靠性.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) -版本3洋葱服务防护发现缓解脚本（打算最终包含在Tor核心中）.
@@ -214,7 +216,7 @@ See also [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 ## Windows-based defenses
 
-See also [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) 和 [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening).
+也可以看看 [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) 和 [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening).
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) -禁用许多危险Windows功能的实用程序.
 - [NotRuler](https://github.com/sensepost/notruler) -同时检测客户端使用的规则和VBScript启用的表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时使用的攻击工具.

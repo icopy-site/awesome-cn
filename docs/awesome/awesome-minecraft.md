@@ -4,9 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/bs-community/awesome-minecraft/master/screenshot.png" width="1920" />
 
-&gt;与Minecraft相关的精彩内容的精选列表.
+&gt;与Minecraft相关的精选精彩清单.
 
-[Minecraft](https://minecraft.net/)  是由Mojang开发的沙盒视频游戏.  该游戏允许玩家在3D程序生成的世界中使用各种不同的块进行构建，需要玩家的创造力.  游戏中的其他活动包括探索，资源收集，制作和战斗.
+[Minecraft](https://minecraft.net/)  是Mojang开发的沙盒视频游戏.  该游戏允许玩家在3D程序生成的世界中使用各种不同的块进行构建，需要玩家的创造力.  游戏中的其他活动包括探索，资源收集，制作和战斗.
 
 
 
@@ -14,90 +14,98 @@
 
 ### Wiki
 
-- [Official Minecraft Wiki](https://minecraft.gamepedia.com/Minecraft_Wiki) -  Minecraft Wiki是Minecraft的完整资源，包括游戏，块，制作，更新，事件，mod，运行服务器和资源包.
-- [Chinese Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) - 中国的Minecraft Wiki是Minecraft的官方维基，包括有关制作，块，生物甚至PE版本的详细教程.
-- [wiki.vg](http://wiki.vg/) - 技术Minecraft维基.
+- [Official Minecraft Wiki](https://minecraft.gamepedia.com/Minecraft_Wiki) -Minecraft Wiki是Minecraft的完整资源，包括游戏玩法，块，制作，更新，事件，mod，运行服务器和资源包.
+- [Chinese Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) -中国Minecraft Wiki是Minecraft的官方Wiki，涵盖有关制作，积木，生物甚至PE版本的详细教程.
+- [wiki.vg](http://wiki.vg/) -Minecraft技术Wiki.
 
 ### Forums
 
-- [Minecraft Forums](https://www.minecraftforum.net/) - 官方社区论坛，一个谈论游戏的好地方.
-- [Planet Minecraft](https://www.planetminecraft.com/forums/) - 创意社区粉丝.
-- [Minecraft Chinese Forum](http://www.mcbbs.net/) - 最大的中国玩家社区Minecraft.
+- [Minecraft Forums](https://www.minecraftforum.net/) -官方社区论坛，一个谈论游戏的好地方.
+- [Planet Minecraft](https://www.planetminecraft.com/forums/) -创意社区爱好者.
+- [Minecraft Chinese Forum](http://www.mcbbs.net/) -Minecraft最大的中国玩家社区.
 
 ## Mods
 
 ### Mod Loader
 
-- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - 修改Minecraft基础文件以协助mod之间的兼容性.
-- [liteloader](http://www.liteloader.com/) -  Minecraft的轻量级mod加载器，旨在为不需要修改游戏机制的mod提供简单，高性能和可靠的加载器功能.
-- [Meddle](https://github.com/FyberOptic/Meddle) - 与在一个地方修改1.9 / 1.10快照相关的一切.
-- [RopeMC](https://github.com/RopeMC/RopeMC) - 一种轻量级，基于反射的mod加载器，旨在提供用户友好性和以后版本无关.
+- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) -修改了Minecraft基本文件，以帮助改进模组之间的兼容性.
+- [liteloader](http://www.liteloader.com/) -Minecraft的轻量级Mod加载器，旨在为不需要修改游戏机制的Mod提供简单，高性能和可靠的加载器功能.
+- [Meddle](https://github.com/FyberOptic/Meddle) -与修改1.9 / 1.10快照有关的所有内容都集中在一处.
+- [RopeMC](https://github.com/RopeMC/RopeMC) -轻量级的基于反射的mod loader，旨在使用户友好并独立于更高版本.
 
 ### Performance
 
-- [Optifine](https://www.optifine.net/home) -  OptiFine是一款Minecraft优化模块.
+- [Optifine](https://www.optifine.net/home) -OptiFine是Minecraft优化模块.
 
 ### Skins And Capes
 
-- [Custom Skin Loader](https://github.com/xfl03/MCCustomSkinLoader) - 用于Minecraft的定制皮肤装载机.
-- [Universal Skin Mod](https://github.com/RecursiveG/UniSkinMod) -  Minecraft Forge Mod允许玩家加载自定义皮肤和斗篷纹理.
+- [Custom Skin Loader](https://github.com/xfl03/MCCustomSkinLoader) -Minecraft自定义皮肤加载器.
+- [Universal Skin Mod](https://github.com/RecursiveG/UniSkinMod) -Minecraft Forge Mod允许玩家加载自定义皮肤和斗篷纹理.
 
 ### Maps
 
-- [Journey Map](https://minecraft.curseforge.com/projects/journeymap) - 在您探索时，在游戏中或在Web浏览器中进行实时映射.
+- [Journey Map](https://minecraft.curseforge.com/projects/journeymap) -您可以在游戏中或在网络浏览器中实时映射.
 
 ### Items Management
 
-- [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) -  JEI是Minecraft的物品和食谱查看模式，从头开始构建，用于稳定性和性能.
+- [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) -JEI是Minecraft的物品和配方查看模块，它是从头开始构建的，旨在提高稳定性和性能.
 
 ### Technology
 
-- [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) -  Tinkers&#39;Construct是一种关于将工具以各种方式组合在一起的模式，然后修改它们直到它们变成其他东西.
-- [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) - 沉浸式工程是一种具有一定魅力的技术模型，基于思想和概念，以及Damien Hazard创造的大部分资产.
-- [Botania](https://github.com/Vazkii/Botania)   -  Botania本质上是一种技术模式.  主题是自然魔力.
-- [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) - 服务器友好且内容丰富的魔术和技术融合！
-- [Ender IO](https://github.com/CrazyPants/EnderIO) -  Ender IO是一个全尺寸的技术模块.
-- [Railcraft](https://github.com/Railcraft/Railcraft) - 大力拓展和改进Minecraft中的Minecart系统.
+- [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) -Tinkers&#39;Construct是一种mod，用于以多种方式将工具组合在一起，然后对其进行修改，直到它们变成其他东西为止.
+- [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) -沉浸式工程技术是一款具有一定魅力的技术模块，其设计思想和理念均基于达米恩·哈扎德（Damien Hazard）创造的大部分资产.
+- [Botania](https://github.com/Vazkii/Botania)  -Botania本质上是一个技术mod.  主题是自然魔术.
+- [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) -服务器友好且内容丰富的魔术与技术的融合！
+- [Ender IO](https://github.com/CrazyPants/EnderIO) -Ender IO是全尺寸的技术模型.
+- [Railcraft](https://github.com/Railcraft/Railcraft) -极大地扩展和完善Minecraft中的Minecart系统.
 
 ### Farming And Food
 
-- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) -  Pam的HarvestCraft是Minecraft的一种模式，目前增加了多种作物和食物.
+- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) -Pam的HarvestCraft是Minecraft的改良版，目前可添加多种农作物和食物.
 
 ### Energy
 
-- [RFTools](https://minecraft.curseforge.com/projects/rftools) -  RFTools是一个mod，包含与RF（Redflux）或一般技术相关的各种工具.
-- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - 关于物质，能量和使用它们征服世界的Minecraft Mod.
+- [RFTools](https://minecraft.curseforge.com/projects/rftools) -RFTools是一个Mod，包含与RF（Redflux）或一般技术相关的各种工具.
+- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) -关于物质，能源并利用它们征服世界的Minecraft Mod.
 
 ### Tweaking
 
-- [TNTUtils](https://github.com/ljfa-ag/TNTUtils) - 更好地控制Minecraft中的爆炸.
+- [TNTUtils](https://github.com/ljfa-ag/TNTUtils) -更好地控制Minecraft中的爆炸.
+
+### Building
+
+- [WorldEdit](https://github.com/EngineHub/WorldEdit) -WorldEdit是一个开放源代码的游戏内地图编辑器，可用于Bukkit，Forge，MinecraftEdu和许多其他平台.
 
 ## Server Plugins
 
-- [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) -  AntiCheatReloaded通过监控和分析其玩家的行为，帮助服务器管理员轻松识别和阻止恶意用户.
-- [ViaVersion](https://github.com/MylesIsCool/ViaVersion) - 允许将较新的客户端连接到Minecraft服务器的旧服务器版本.
-- [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded)   -  AdvancedKitsReloaded是Minecraft服务器的Kit管理插件，运行Bukkit，CraftBukkit，Spigot和Paper（&gt; 1.8）.  使用此插件，您可以轻松创建/编辑/删除您的工具包，您可以根据需要自定义它.
+- [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) -AntiCheatReloaded通过监视和分析播放器的行为来帮助服务器管理员轻松识别和阻止恶意用户.
+- [ViaVersion](https://github.com/MylesIsCool/ViaVersion) -允许将新客户端连接到Minecraft服务器的旧服务器版本.
+- [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded)  -AdvancedKitsReloaded是Minecraft服务器的工具包管理插件，可运行Bukkit，CraftBukkit，Spigot和Paper（&gt; 1.8）.  使用此插件，您可以轻松创建/编辑/删除工具箱，并且可以根据需要进行自定义.
+- [WorldGuard](https://github.com/EngineHub/WorldGuard) -WorldGuard可让您和玩家保护陆地区域免受悲痛和不良影响，并调整和禁用Minecraft的各种游戏功能.
+- [CraftBook](https://github.com/EngineHub/CraftBook) -CraftBook可让您创建神奇扩展的网桥，紧凑的Redstone电路，复杂的Minecart机制等，而所有这些都无需客户端mod即可由服务器完全自定义.
 
 ## Web Applications
 
-- [Blessing Skin Server](https://github.com/printempw/blessing-skin-server)   -  Web应用程序将您的自定义皮肤带回离线Minecraft服务器.  （[Live Demo](https://skin.prinzeugen.net/))
-- [yoshino](https://github.com/idawnlight/yoshino)   - 一个精简和快速的Minecraft皮肤服务器，用PHP编写.  （[Live Demo](https://skin.lim-light.com/))
+- [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) -Web应用程序将您的自定义皮肤带回离线Minecraft服务器.
+- [yoshino](https://github.com/idawnlight/yoshino)  -用php编写的轻便，快捷的Minecraft皮肤服务器.  （[Live Demo](https://skin.lim-light.com/))
+- [WorldEdit Golf](https://worldedit.golf/) -在比赛中挑战其他人，以便在尽可能少的命令中使用WorldEdit.
 
 ## Softwares
 
 ### Utilities
 
-- [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper)   - 关于生成Minecraft命令的WPF程序（带有NBT数据）.  （仅限Windows）
-- [Minecraft Command Science](https://minecraftcommand.science/) - 几个Minecraft香草JSON发电机.
+- [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper)  -有关生成Minecraft命令（带有NBT数据）的WPF程序.  （仅Windows）
+- [Minecraft Command Science](https://minecraftcommand.science/) -多个Minecraft原始JSON生成器.
 
 ### Launchers
 
-- [MultiMC](https://github.com/MultiMC/MultiMC5) -  Minecraft的自定义启动器，允许您一次轻松管理多个Minecraft安装.
-- [HMCL](https://github.com/huanghongxun/HMCL) - 支持许多功能的动力Minecraft发射器.
+- [MultiMC](https://github.com/MultiMC/MultiMC5) -Minecraft的自定义启动器，使您可以轻松地一次管理Minecraft的多个安装.
+- [HMCL](https://github.com/huanghongxun/HMCL) -支持许多功能的动力Minecraft启动器.
 
 ## Development
 
-- [FML Mod Development Tutorial](https://fmltutor.ustc-zzzz.net/) - （中文）Minecraft 1.8.9 FML Mod开发教程.
+- [FML Mod Development Tutorial](https://fmltutor.ustc-zzzz.net/) -（中文）Minecraft 1.8.9 FML Mod开发教程.
+- [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer) -一个JavaScript / TypeScript库，用于在网络上渲染和查看Minecraft原理图文件.
 
 ## License
 

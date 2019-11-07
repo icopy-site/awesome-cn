@@ -164,7 +164,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Hilary Mason](https://hilarymason.com/) -个人网页
 - [Noah Iliinsky](http://complexdiagrams.com/) -个人博客
 - [Matt Harrison](http://hairysun.com/) -个人博客
-- [Data Science Renee](http://www.becomingadatascientist.com/) 记录我从“追求工程硕士学位的SQL数据分析师”到“数据科学家”的路径
+- [Data Science Renee](http://www.becomingadatascientist.com/) 记录我从“攻读工程硕士学位的SQL数据分析师”到“数据科学家”的路径
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) -万物数据科学
 - [Prash Chan](http://www.mdmgeek.com/) -关于主数据管理及其周围所有嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) -开源数据科学大师
@@ -260,7 +260,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
+- [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
 - [The Art of Data Usability](https://www.manning.com/books/the-art-of-data-usability) -抢先体验
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
@@ -273,6 +273,10 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) 抢先体验
 - [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) 抢先体验
 - [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp) 抢先体验
+- [Data Science Thinking: The Next Scientific, Technological and Economic Revolution](https://www.springer.com/gp/book/9783319950914)
+- [Applied Data Science: Lessons Learned for the Data-Driven Business](https://www.springer.com/gp/book/9783030118204)
+- [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949)
+- [The Data Science Design Manual](http://www.data-manual.com/) 初学者友好
 
 ## Facebook Accounts
 
@@ -414,7 +418,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka是用于数据挖掘任务的机器学习算法的集合.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave是一种高级解释语言，主要用于数值计算.（免费Matlab）
  * [Apache Spark](https://spark.apache.org/) 快如闪电的集群计算
- * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) -一种将Apache Spark分析作业和机器学习模型公开为实时，批处理或反应式Web服务的服务.
+ * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) -用于将Apache Spark分析作业和机器学习模型公开为实时，批处理或反应式Web服务的服务.
  * [Caffe](http://caffe.berkeleyvision.org/) 深度学习框架
  * [Torch](http://torch.ch/) LuaJit的科学计算框架
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
