@@ -10,7 +10,7 @@
 
 &gt;精选的命令行应用程序列表.
 
-灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -30,7 +30,7 @@
 
 ### Music
 
-- [cmus](https://github.com/cmus/cmus) -小型，快速且功能强大的控制台音乐播放器.
+- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) -即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) -通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
@@ -47,7 +47,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户端.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户.
 - [RTV](https://github.com/michael-lazar/rtv) -从您的终端浏览Reddit.
 - [WeeChat](https://weechat.org/) -快速，轻便和可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -IRC聊天客户端.
@@ -120,7 +120,7 @@
 
 - [mycli](https://github.com/dbcli/mycli) -具有自动完成功能和语法突出显示功能的MySQL客户端.
 - [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的Postgres客户端.
-- [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+- [sqlline](https://github.com/julianhyde/sqlline) -通过JDBC发行SQL的Shell.
 
 ### Devops
 
@@ -189,7 +189,7 @@
 
 ### Note Taking and Lists
 
-- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您将想法安全快捷地保存在安全的地方.
+- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您轻松，快速地将想法保存在安全的地方.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) -Evernote客户.
 - [Taskwarrior](http://taskwarrior.org) -从命令行管理TODO列表.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) -终端的快速笔记应用程序.
@@ -254,7 +254,7 @@
 - [teleconsole](https://www.teleconsole.com/) -共享您的UNIX终端.
 - [tmate](https://tmate.io/) -即时终端（tmux）共享.
 - [warp](https://github.com/spolu/warp) -安全，简单的终端共享.
-- [OverTime](https://github.com/diit/overtime-cli) -远程团队的时间重叠表.
+- [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
 ### Network Utilities
 
@@ -271,6 +271,7 @@
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) -将来自unplash.com的随机/查询图像用作桌面墙纸.
 - [pywal](https://github.com/dylanaraps/pywal) -生成并更改颜色方案，然后将其在系统范围内应用于所有您喜欢的程序.
+- [QuickWall](https://github.com/deepjyoti30/QuickWall) -从Unsplash直接设置墙纸.
 
 ### Shell Utilities
 
@@ -313,11 +314,12 @@
 
 ### JSON
 
-- [jq](https://github.com/stedolan/jq) -命令行JSON处理器.
+- [jq](https://github.com/stedolan/jq) -JSON处理器.
 - [jp](https://github.com/therealklanni/jp) -只需在命令行上解析并钻取JSON，即可支持jsonpath和stdin流（jq兼容，不能替代）.
 - [fx](https://github.com/antonmedv/fx) -命令行JSON查看器.
 - [vj](https://github.com/busyloop/vj) -使JSON易于阅读.
-- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)  -从JSON剥离注释.  让您在JSON文件中使用注释！
+- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) -从JSON剥离注释.
+- [GROQ](https://github.com/sanity-io/groq-cli) –带有查​​询和投影的JSON处理器.
 
 ### Text
 
@@ -331,7 +333,7 @@
 - [ranger](https://github.com/ranger/ranger) -具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) -功能丰富的可视文件管理器.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载内容.
-- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt中借鉴了一些有用的想法.
+- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt那里借鉴了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) -快速，可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) -快速，简单的文件管理器.
@@ -452,7 +454,7 @@
 - [birthday](https://github.com/IonicaBizau/birthday) -知道朋友的生日是什么时候.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) -检测代码的缩进.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) -获取当前用户的全名.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) -获取文件或标准输入的压缩大小.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)  -哈希变得简单.  获取文本或标准输入的哈希.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) -使用Levenshtein距离算法测量两个字符串之间的差异.
@@ -495,4 +497,4 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Adam Garrett-Harris](https://twitter.com/agarrharr) 已放弃所有版权及相关或邻接权这项工作.
+在法律允许的范围内， [Adam Garrett-Harris](https://twitter.com/agarrharr) 放弃了此作品的所有版权以及相关或邻近的权利.

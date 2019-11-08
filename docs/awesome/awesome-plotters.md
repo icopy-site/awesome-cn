@@ -180,6 +180,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Martin O'Leary](https://shop.mewo2.com)
 - [Geoffrey Bradway](https://www.normedvector.space)
 - [Yuin Chien](http://store.yuinchien.com/)
+- [Andrew Heumann](https://shop.andrewheumann.com/)
 
 ## Other Awesomes
 

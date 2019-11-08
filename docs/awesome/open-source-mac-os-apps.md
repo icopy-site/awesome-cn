@@ -91,7 +91,7 @@
 - [ChitChat](https://github.com/stonesam92/ChitChat)  -WhatsApp Web的本机Mac应用程序包装.  ！[objective_c_icon] 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat)  -在macOS和Linux上更好的微信.  ！[javascript_icon] 
 - [Franz](https://github.com/meetfranz/franz)  -Franz是用于WhatsApp，Slack，Messenger等服务的消息传递应用程序.  ！[javascript_icon] 
-- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - Native macOS & Windows desktop app for Google Allo.  ![javascript_icon] 
+- [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop)  -适用于Google Allo的本地macOS和Windows桌面应用程序.  ！[javascript_icon] 
 - [GroupMe](https://github.com/dcrousso/GroupMe)  -非官方的GroupMe应用程序.  ！[javascript_icon]！[css_icon] 
 - [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser)  -macOS应用程序，可轻松浏览和搜索您的Messages.app历史记录.  ！[swift_icon] 
 - [Riot.im](https://github.com/vector-im/riot-web) -Riot.im是一款协作应用程序（当前为Electron），用于 [Matrix](https://matrix.org/blog/home/)  协议.  ！[javascript_icon] 
@@ -144,7 +144,7 @@
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper)  -简单的macOS应用程序，可从JSON生成Swift Object Mapper类.  ！[swift_icon] 
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，setter和getter导出为模型类.  ！[swift_icon] 
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象导出为模型类及其相关的构造函数，实用程序方法，setter和getter.  ！[swift_icon] 
 - [j2s](https://github.com/zadr/j2s)  -macOS应用程序，用于将JSON对象转换为Swift结构（当前针对Swift 4和Codable）.  ！[swift_icon] 
 
 #### Other Development
@@ -186,7 +186,7 @@
 - [FilterShop](https://github.com/KrisYu/FilterShop)  -macOS应用程序，用于浏览CoreImage滤镜.  ！[swift_icon] 
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)  -macOS应用程序以生成应用程序图标.  ！[javascript_icon] 
 - [Iconizer](https://github.com/raphaelhanneken/iconizer)  -动态创建Xcode图像目录（xcassets）.  ！[swift_icon] 
-- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标.[objective_c_icon] 
+- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标. 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)  -过期的Swift注入重写.  ！[objective_c_icon]！[swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)  -直观的应用程序，可在屏幕上显示透明图像.  ！[swift_icon] 
@@ -198,12 +198,12 @@
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater)  -macOS应用程序，可帮助您管理Podfile中的依赖项版本.  ！[swift_icon] 
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager)  -适用于Mac的Apple iOS / macOS供应配置文件管理，.provisionprofile，.mobileprovision文件管理器工具.  ！[objective_c_icon] 
 - [PushNotifications](https://github.com/onmyway133/PushNotifications)  -macOS应用程序，可在iOS和Android上测试推送通知.  ！[javascript_icon] 
-- [ResignTool](https://github.com/InjoyDeng/ResignTool)  -这是一个适用于macOS的应用程序，可以（重新）签名应用程序并将其捆绑到准备安装在iOS设备上的ipa文件中.  ！[objective_c_icon] 
+- [ResignTool](https://github.com/InjoyDeng/ResignTool)  -这是一个适用于macOS的应用程序，可以对应用程序进行（重新）签名并将其捆绑到准备安装在iOS设备上的ipa文件中.  ！[objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr)  -用于为iOS和Android应用创建AppIcon的MacOS应用.  ！[swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush)  -iOS推送通知调试应用程序.  ！[objective_c_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)  -适用于macOS的iOS / Android应用部署工具.  ！[swift_icon] 
 - [WWDC](https://github.com/insidegui/WWDC)  -适用于macOS的非官方WWDC应用程序.  ！[swift_icon] 
-- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于从（srt）格式开始为2013年以来的每个WWDC会话视频下载字幕.  ！[swift_icon] 
+- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于以（srt）格式自2013年以来为每个WWDC会话视频下载字幕.  ！[swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher)  -iOS Calabash Launcher是一个macOS应用程序，可帮助您在Mac上运行和管理Calabash测试.  ！[swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor)  -iOS Images Extractor是一个Mac应用程序，用于从iOS应用程序标准化，解码和提取图像.  ！[objective_c_icon] 
 - [iSimulator](https://github.com/wigl/iSimulator)  -iSimulator是一个GUI实用程序，用于控制模拟器并管理模拟器上安装的应用.  ！[objective_c_icon] 
@@ -247,11 +247,12 @@
 - [PageExtender](https://github.com/fphilipe/PageExtender.app)  -使用您自己的CSS和JS文件扩展页面.  ！[swift_icon]！[javascript_icon] 
 - [PiPTool](https://github.com/bfmatei/PiPTool)  -在macOS中将画中画功能添加到YouTube，Netflix，Plex和其他视频广播服务.  ！[javascript_icon] 
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier)  -PiPifier是本机macOS 10.12 Safari扩展，可让您在画中画模式下使用每个HTML5视频.  ！[swift_icon] 
+- [nef](https://github.com/bow-swift/nef-plugin)  -通过此Xcode扩展名，您可以进行代码选择并将其导出到代码段.  在Mac AppStore上可用.  ！[swift_icon] 
 
 ### Finder
 - [Clipy](https://github.com/Clipy/Clipy)  -Clipy是适用于macOS的剪贴板扩展应用程序.  ！[swift_icon] 
 - [FiScript](https://github.com/Mortennn/FiScript)  -从Finder的MacOS上下文菜单中执行自定义脚本（按CTRL键并单击）.  ！[swift_icon] 
-- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder打开终端，iTerm，Hyper.  ！[swift_icon] 
+- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder中打开Terminal，iTerm，Hyper.  ！[swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode)  -Finder工具栏应用程序可在Visual Studio Code中打开当前文件夹.  ！[objective_c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)  -mac适用于macOS的Finder工具栏应用程序可在Terminal，iTerm或Hyper中打开当前目录.  ！[swift_icon] 
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)  -对开发人员有用的Quick Look插件列表.  ！[objective_c_icon]！[c_icon] 
@@ -292,7 +293,7 @@
 - [Gimp](https://github.com/GNOME/gimp)  -Gimp是GNU图像处理程序.  ！[c_icon] 
 - [Iconology](https://github.com/liamrosenfeld/Iconology)  -编辑图标，然后导出到Xcode，ICn，Ico，Favicon，Mac Iconset或自定义尺寸列表.  ！[swift_icon] 
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha)  -Mac OS的pngquant，pngnq和posterizer.  ！[objective_c_icon]！[python_icon] 
-- [Imagine](https://github.com/meowtec/Imagine)  -Imagine是一款桌面应用程序，用于压缩PNG和JPEG，具有现代友好的UI.  ！[type_script_icon] 
+- [Imagine](https://github.com/meowtec/Imagine)  -Imagine是一款桌面应用程序，用于压缩PNG和JPEG，具有现代友好的用户界面.  ！[type_script_icon] 
 - [InVesalius](https://github.com/invesalius/invesalius3/) -3D医学影像重建软件！[python_icon] 
 - [Katana](https://github.com/bluegill/katana)  -Katana是macOS的简单截图工具，位于菜单栏中.  ！[javascript_icon]！[css_icon] 
 - [PhotoMiner](https://github.com/gergelysanta/photominer)  -macOS应用程序，用于查找磁盘上丢失的遗忘照片.  ！[swift_icon] 
@@ -503,7 +504,7 @@
 - [Alacritty](https://github.com/jwilm/alacritty)  -跨平台，GPU加速的终端仿真器.  ！[rust_icon] 
 - [Bifrost](https://github.com/ishuah/bifrost)  -用于串行端口通信（macOS / Linux）的微型终端仿真器.  ！[go_icon] 
 - [Console](https://github.com/macmade/Console)  -macOS控制台应用程序.  ！[swift_icon] 
-- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder打开终端，iTerm，Hyper.  ！[swift_icon] 
+- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder中打开Terminal，iTerm，Hyper.  ！[swift_icon] 
 - [Hyper](https://github.com/zeit/hyper)  -基于网络技术的终端.  ！[javascript_icon]！[css_icon] 
 - [Kitty](https://github.com/kovidgoyal/kitty)  -跨平台，快速，功能齐全的基于GPU的终端仿真器.  ！[python_icon]！[c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)  -mac适用于macOS的Finder工具栏应用程序可在Terminal，iTerm或Hyper中打开当前目录.  ！[swift_icon] 
@@ -521,7 +522,7 @@
 - [Touch Emoji](https://github.com/lessmess-dev/touch-emoji)  -适用于MacBook Pro Touch Bar的表情符号选择器.  ！[swift_icon] 
 
 ### Utilities
-- [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) -一键式屏幕截图，视频录制，适用于iOS和Android的应用安装！[swift_icon] 
+- [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) -一键式屏幕截图，录像，适用于iOS和Android的应用安装！[swift_icon] 
 - [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter)  -挂载归档文件，例如磁盘映像.  ！[swift_icon] 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice)  -使用Mac键盘上的媒体键控制基于Web的媒体播放器.  ！[objective_c_icon] 
 - [Bitwarden](https://github.com/bitwarden/desktop)  -针对个人，团队和业务组织的跨平台密码管理解决方案.  ！[type_script_icon] 
@@ -531,7 +532,7 @@
 - [CornerCal](https://github.com/ekreutz/CornerCal)  -适用于macOS的简单，干净的日历和时钟应用程序.  ！[swift_icon] 
 - [Crypter](https://github.com/HR/Crypter)  -Crypter是一款创新，方便且安全的跨平台加密应用程序，只需记住一位MasterPass，即可简化安全密码的生成和管理.  ！[javascript_icon] 
 - [ECheck](https://github.com/josejuanqm/ECheck)  -验证macOS的epub文件的小工具.  ！[swift_icon] 
-- [Flying Carpet](https://github.com/spieglt/flyingcarpet)  -通过专用wifi进行跨平台文件传输，例如AirDrop，但适用于Mac / Windows / Linux.  ！[go_icon] 
+- [Flying Carpet](https://github.com/spieglt/flyingcarpet) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux. ![go_icon] 
 - [Funky](https://github.com/thecatalinstan/Funky)  -在Mac上轻松按每个应用切换功能键.  ！[objective_c_icon] 
 - [Gray](https://github.com/zenangst/Gray) -只需按一下按钮，即可在每个应用程序的亮色和暗色之间进行选择！[swift_icon] 
 - [Kap](https://github.com/wulkano/kap)  -使用网络技术构建的屏幕录像机应用程序.  ！[javascript_icon] 

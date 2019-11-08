@@ -8,7 +8,7 @@
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Open Source Helpers](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps/badges/users.svg)](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps)
 
-精选的出色Web应用程序的列表，这些应用程序无需您创建帐户即可运行. 
+精选的出色Web应用程序的列表，这些应用程序无需您创建帐户即可运行.
 
 #### Inspiration
 
@@ -17,7 +17,7 @@
 #### Some pointers
 
  *此列表中链接的Web应用程序无需登录即可提供其大多数核心功能.  由于缺少适当的替代方法，一些需要注册的网站也已包含在此列表中.  他们在他们的清单中被标记为[Account].
- *这里提到的大多数应用程序确实提供了某种用户帐户功能来保存历史记录和进度.  但是，如前所述，使用这些应用程序的主要功能不需要用户帐户. 
+ *这里提到的大多数应用程序确实提供了某种用户帐户功能来保存历史记录和进度.  但是，如前所述，使用这些应用程序的主要功能不需要用户帐户.
 
 
 
@@ -75,7 +75,7 @@
 
 * [EtherCalc](https://ethercalc.net/) -在线电子表格编辑器，导出到Excel.
 * [PdfEscape](https://www.pdfescape.com/) -在浏览器本身中编辑或创建PDF.
-* [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
+* [Browserpad](http://browserpad.org/)  -浏览器中的无服务器纯文本编辑器.  允许您打开和保存纯文本文件.
 * [WriteURL](http://www.writeurl.com/) -协作式实时在线文本编辑器.
 
 
@@ -126,7 +126,7 @@
 * [Spark Chess](https://www.sparkchess.com/) -根据您的技能水平，学习下棋，与全球用户一起玩或与AI一起玩.
 * [Miniclip](https://www.miniclip.com)  -收集各种免费游戏，无需提供电子邮件即可玩.  需要闪光灯.
 * [CrossCode](http://www.cross-code.com/en/start)  -在遥远的未来中推出具有复古风格的2D游戏.  带有出色的游戏机制，例如连击，拼图，技能树，任务，物品等.
-* [agar.io](https://agar.io/) -目标是通过食用琼脂和小于玩家细胞的细胞来获得尽可能多的质量，同时避免较大的细胞吞食玩家的细胞.
+* [agar.io](https://agar.io/) -目标是通过食用琼脂和小于玩家细胞的细胞来获得尽可能多的质量，同时避免食用会吞噬玩家细胞的较大细胞.
 * [paper-io](http://paper-io.com)  -游戏的目的是控制竞技场的100％.  您扮演的是一个很小的，不断移动的正方形，其起始区域很小，与正方形的颜色相对应.
 * [diep.io](https://diep.io/)  -Diepio是一款您可以玩坦克射击游戏的游戏.  射击形状以升级您的坦克，然后射击玩家很多点.
 
@@ -143,11 +143,12 @@
 * [Realtime Board](https://realtimeboard.com/) `[Account]`-具有大面积，屏幕共享，视频和语音通信的协作黑板.
 * [ezGIF](https://ezgif.com/) -GIF图像编辑器（裁剪，缩放，优化等）.
 * [Adobe Color CC](https://color.adobe.com/) -配色方案设计师.
-* [Burner Bonanza](https://burner.bonanza.com/) `[Account]`-删除图像背景并立即在Facebook或Twitter上共享的工具，登录后以PNG或JPEG格式下载已编辑的图像.
-* [IcoMoon](https://icomoon.io/app/) -一个平台，可帮助您查找矢量图标包，将图标托管为SVG或字体，并生成选定图标的SVG + PNG +图标字体.
+* [Burner Bonanza](https://burner.bonanza.com/) `[Account]`-删除图像背景并立即在Facebook或Twitter上共享的工具，登录后以PNG或JPEG格式下载编辑后的图像.
+* [IcoMoon](https://icomoon.io/app/) -一个平台，可帮助您查找矢量图标包，将图标托管为SVG或字体以及生成选定图标的SVG + PNG +图标字体.
 * [Flaming Text](http://flamingtext.com/) -在线徽标或名称生成器/创建者，可以根据自己的意愿修改徽标，并采用多种格式，包括PNG和JPEG.
 * [LeanLogoMaker](https://leanlogomaker.com)  -生成100多个徽标，选择您喜欢的徽标并下载.  包括社交媒体网站的封面和个人资料图片.
 * [doka.photo](https://doka.photo/)  -易于使用的照片编辑器.  您可以裁剪，旋转，翻转，添加滤镜，调整大小和注释.
+
 
 ### Internet Downloaders
 
@@ -192,13 +193,12 @@
 * [jotti](https://virusscan.jotti.org) -扫描任何可疑文件或电子邮件附件中是否有病毒.
 * [scr.im](http://scr.im/) -自由共享电子邮件地址，而不必担心垃圾邮件.
 * [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) -10分钟的全功能临时电子邮件地址（可扩展）.
-* [BugMeNot](http://bugmenot.com/)  -查找和共享不同网站登录信息的平台.  它可以帮助您找到登录不同网站的凭据. 
+* [BugMeNot](http://bugmenot.com/)  -查找和共享不同网站登录信息的平台.  它可以帮助您找到登录不同网站的凭据.
 
 
 ### Programming Editors and IDEs
 
-* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm) -Ipython，Octave， 
- Powershell，Redis和许多其他工具.  还具有用于编程语言的大量IDE.
+* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm)  -Ipython，Octave，Powershell，Redis和其他许多设备的在线终端.  还具有用于编程语言的大量IDE.
 * [Ideone](http://ideone.com/) -支持大多数流行语言的在线IDE.
 * [codepad](http://codepad.org/)  -在线编译器，还允许您创建项目（为项目分配了子域）.  请注意，不支持读取stdin.
 * [Repl.it](https://repl.it/) -所有流行编程语言的在线终端.
@@ -210,6 +210,7 @@
 * [SQLFiddle](http://sqlfiddle.com/) -用于轻松在线测试和共享数据库问题及其解决方案的工具.
 * [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/)  -Javascript Brainfuck解释器+可视化器.  帮助您了解代码的工作方式.
 * [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) -在Web浏览器中可视化Python，Java，JavaScript，TypeScript，Ruby，C和C ++代码执行.
+* [DartPad](https://dartpad.dartlang.org/) -DartPad is an open-source tool that lets you play with the Dart language in any modern browser.
 
 
 ### Programming Tools
@@ -245,13 +246,13 @@
 * [Google Fonts](https://www.google.com/webfonts) -由Google收集开源字体.
 * [ChooseMyPC](https://choosemypc.net/) -在给定的预算下，考虑对PC的要求，搜索零件的最佳组合.
 * [Flaticon](https://www.flaticon.com/) -最大的免费图标搜索引擎.
+* [icon8](https://icons8.com/) -设计师，免费下载设计资料-图标，照片，UX插图和视频音乐.
 
 
 ### Study and Education
 
 * [Calculatoria Calculator](http://www.calculatoria.com/) -在线在线科学计算器，进度存储在您的系统中.
-* [WolframAlpha](https://www.wolframalpha.com) -强大的计算知识引擎. 
-See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) 获取有关如何绘制图形的帮助. 
+* [WolframAlpha](https://www.wolframalpha.com)  -强大的计算知识引擎.  看到 [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAndGraphics.html) 获取有关如何绘制图形的帮助.
 * [Desmos Graphing Calculator](https://www.desmos.com/calculator) -在同一张图纸上绘制多个2D图，请参见图形相交.
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) -如果您想玩数字游戏，在线简单的几何图形表.
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) -玩有向图.
@@ -271,6 +272,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Telegraph](http://telegra.ph/) -极简主义发布工具，支持格式丰富的文本.
 * [DiffNow](https://www.diffnow.com/) -先进的，在线的和免费的文件差异检查功能，包括上载文件，通过链接或文本输入比较文件的选项.
 * [Write.as](https://write.as/) -支持Markdown以及编辑/删除过去帖子的跨平台写作和发布工具.
+* [Emojify](https://matthewmiller.dev/experiments/emojify/) -通过添加表情符号为文字，歌词或诗歌增添趣味的工具.
 
 
 <a name="utilities"></a>
@@ -306,7 +308,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [followupthen](https://www.followupthen.com/) -设置电子邮件提醒的最简单方法.
 * [lmgtfy](http://lmgtfy.com/) -当您的朋友太懒惰而无法独自使用Google时.
 * [IFTTT](https://ifttt.com/)  `[Account]`-在您喜欢的在线服务之间建立联系.  例如，如果需要将自己的instagram作为本地照片在Twitter上发布，则IFTTT可以派上用场.
-* [AlarmDJ](https://alarmdj.com) -在线闹钟，使用MP3文件和YouTube视频作为闹钟.
+* [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Morsify](https://morsify.net) -在线摩尔斯电码翻译器.
 
 -----

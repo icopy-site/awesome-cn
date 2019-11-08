@@ -52,7 +52,7 @@
 
 - [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) -插件可帮助识别开发过程中的可访问性冲突.
 - [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) -用于可访问的Ember.js应用程序的简单模式.
-- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) -Ember.js插件可帮助具有里程碑意义的角色，以实现更好的辅助功能.
+- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) -Ember.js插件可帮助具有里程碑意义的角色，以实现更好的可访问性.
 - [ember-a11y](https://github.com/ember-a11y/ember-a11y) -用于构建可访问的Ember.js应用程序的工具集合.
 - [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) -用于将方法添加到Ember.js组件的混合器，可帮助您管理当前关注的元素.
 - [ember-gestures](https://github.com/html-next/ember-gestures) -Ember.js手势通过在整个应用程序中轻松定义和使用HammerJS管理器和识别器，提供了一种使用手势的简便方法.
@@ -167,7 +167,7 @@
 ### Command-line apps
 
 - [ember-cli-create](https://github.com/gossi/ember-cli-create) -CLI向导创建一个新的余烬项目.
-- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清楚我们所说的“可选”的含义，这些功能在可以预见的将来将选择加入/退出，并且是可选的，而不是默认情况下将启用的功能.  它仅适用于应用程序，不能与插件一起使用.
+- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清楚我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认启用的功能.  它仅适用于应用程序，不能与插件一起使用.
 - [ember-cli-rename](https://github.com/trabus/ember-cli-rename) -ember-cli的插件，提供“ ember重命名”命令.
 
 ### Command-line utilities
@@ -305,7 +305,7 @@
 ### External Components Integration
 
 - [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) -Ember.js中类似Glimmer.js的组件.
-- [sparkles-component](https://github.com/rwjblue/sparkles-component) -插件用于通过现有的公共API在Ember.js应用程序中使用@ glimmer.js / component样式的API.
+- [sparkles-component](https://github.com/rwjblue/sparkles-component) -插件用于通过现有的公共API在Ember.js应用中尝试@ glimmer.js /组件样式的API.
 - [hooked-components](https://github.com/lifeart/hooked-components) -受React Hooks方法启发的Ember.js定制组件.
 - [ember-functional-component](https://github.com/rwjblue/ember-functional-component) -尝试使用“纯函数”作为组件.
 - [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) -在Ember.js中渲染React组件.
@@ -900,7 +900,7 @@
 ### Codemods
 - [ember-es6-class-codemod](https://github.com/scalvert/ember-es6-class-codemod) -一个codemod-cli项目，用于将Ember.js对象转换为es6本机类.
 - [ember-native-class-codemod](https://github.com/ember-codemods/ember-native-class-codemod) -使用装饰器将您的余烬应用程序代码转换为原生JavaScript类语法的codemod！
-- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) -此codemod有助于从通过ember-cli-mirage导入仿造者过渡到直接从仿造者导入它.
+- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) -此codemod可帮助从通过ember-cli-mirage导入仿造者过渡到直接从仿造者导入它.
 - [ember-mocha-codemods](https://github.com/Turbo87/ember-mocha-codemods) -ember-mocha的Codemod脚本.
 - [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) -自动迁移新的Ember.js应用程序布局.
 - [ember-qunit-codemod](https://github.com/rwjblue/ember-qunit-codemod) -此codemod旨在自动将项目从ember-qunit @ 2的较旧moduleFor *语法转换为较新的语法.
@@ -1155,6 +1155,7 @@
 - [Ember: The Next 10 Years | Tom Dale | EmberCamp Chicago 2018](https://www.youtube.com/watch?v=9cseB2xoT-0)
 - [Stop Coding: You Have a Product Gap | Sam Selikoff | EmberCamp Chicago 2018](https://www.youtube.com/watch?v=fYHgyIlGttk)
 - [Caveats of the Default Store - Ember London - September 2018](https://www.youtube.com/watch?v=EcKaDu0xo_A)
+- [EmberFest 2019](https://www.youtube.com/playlist?list=PLN4SpDLOSVkT0e094BZhGkUnf2WBF09xx)
 - [EmberFest 2018](https://www.youtube.com/watch?v=oRzmDobMZ_Q&list=PLN4SpDLOSVkSB9034lDNdP1JoNBGssax9)
 - [EmberFest 2014](https://www.youtube.com/watch?v=z4oxa-UR7oA&list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA)
 - [Global Ember Meetup](https://vimeo.com/globalembermeetup)

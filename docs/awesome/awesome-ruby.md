@@ -85,7 +85,7 @@
 * [Emoji](https://github.com/wpeterson/emoji) -公开了Phantom Open Emoji库的unicode /图片素材资源和与之配合使用的API.
 * [Less Rails](https://github.com/metaskills/less-rails) -Rails资产管道的动态样式表语言.
 * [Less](https://github.com/cowboyd/less.rb) -在浏览器或Ruby中使用精益CSS.
-* [Rails Assets](https://rails-assets.org) -捆绑器到Bower代理.
+* [Rails Assets](https://rails-assets.org) -Bundler到Bower代理.
 * [Sass](http://sass-lang.com) -Sass使CSS再次有趣.
 * [Sprockets](https://github.com/rails/sprockets) -基于机架的资产包装系统.
 * [Torba](https://github.com/torba-rb/torba) -链轮的无弓捆扎机.
@@ -159,7 +159,7 @@
 ## CLI Utilities
 
 * [Awesome Print](https://github.com/awesome-print/awesome_print) -用样式漂亮地打印您的Ruby对象-全彩和适当的压痕
-* [Betty](https://github.com/pickhardt/betty)  -命令行的友好英语式界面.  不记得命令了吗？  问贝蒂.
+* [Betty](https://github.com/pickhardt/betty)  -命令行的友好英语式界面.  不记得命令了吗？  问问贝蒂.
 * [colorize](https://github.com/fazibear/colorize) -扩展String类或使用设置文本颜色，背景颜色和文本效果的方法添加ColorizedString.
 * [colorls](https://github.com/athityakumar/colorls) -用彩色和超棒字体图标美化`ls`命令.
 * [formatador](https://github.com/geemus/formatador) -STDOUT文本格式.
@@ -195,7 +195,7 @@
 * [Cane](https://github.com/square/cane) -代码质量阈值检查作为构建的一部分.
 * [Coverband](https://github.com/danmayer/coverband) -机架中间件，以帮助评估生产代码覆盖率.
 * [Fasterer](https://github.com/DamirSvrtan/fasterer) -受快速红宝石和Sferik在Baruco Conf上的演讲启发，此命令行工具使您的红宝石运行得更快.
-* [Flay](https://github.com/seattlerb/flay)  -Flay分析代码的结构相似性.  文字值，变量，类，方法名称，空格，编程样式，花括号与执行/结束等方面的差异都将被忽略.  使这完全rad.
+* [Flay](https://github.com/seattlerb/flay)  -Flay分析代码的结构相似性.  文字值，变量，类，方法名称，空格，编程样式，花括号与do / end等的差异都将被忽略.  使这完全rad.
 * [Flog](https://github.com/seattlerb/flog)  -Flog在易于阅读的疼痛报告中报告了遭受最多折磨的代码.  分数越高，代码所处的痛苦就越大.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu#fukuzatsu) -具有丰富的Web前端的复杂度分析工具.
 * [MetricFu](https://github.com/metricfu/metric_fu) -充满代码度量的拳头.
@@ -266,7 +266,7 @@
 ## Core Extensions
 
 * [ActiveSupport](https://github.com/rails/rails/tree/master/activesupport) -实用程序类和标准库扩展的集合.
-* [Addressable](https://github.com/sporkmonger/addressable)  -Addressable是URI实现的替代品，它是Ruby标准库的一部分.  它更符合RFC 3986，RFC 3987和RFC 6570（级别4），并提供对IRI和URI模板的支持.
+* [Addressable](https://github.com/sporkmonger/addressable)  -Addressable是URI实现的替代品，它是Ruby标准库的一部分.  它更符合RFC 3986，RFC 3987和RFC 6570（第4级），提供对IRI和URI模板的支持.
 * [Finishing Moves](https://github.com/forgecrafted/finishing_moves)  -向核心Ruby类添加的小型，集中，非常有用的方法.  包含无限有用的`nil_chain`.
 * [Hamster](https://github.com/hamstergem/hamster) -Ruby的高效，不可变和线程安全的收集类.
 * [Hanami::Utils](https://github.com/hanami/utils) -用于Hanami和Ruby应用程序的轻量级非猴子补丁类实用程序.
@@ -397,7 +397,7 @@
 * [Lita](https://www.lita.io/) -用于Ruby的ChatOps：可与任何聊天服务一起使用的可插拔聊天机器人框架.
 * [Logstash](https://github.com/elastic/logstash) -日志/事件传输，处理，管理，搜索.
 * [Mina](https://github.com/mina-deploy/mina) -真正快速的部署者和服务器自动化工具.
-* [Puppet](https://github.com/puppetlabs/puppet) -针对Linux，Unix和Windows系统的自动管理引擎，根据集中的规范执行管理任务（例如添加用户，安装软件包和更新服务器配置）.
+* [Puppet](https://github.com/puppetlabs/puppet) -用于Linux，Unix和Windows系统的自动化管理引擎，根据集中的规范执行管理任务（例如添加用户，安装软件包和更新服务器配置）.
 * [Request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer)  -根据您的日志文件创建报告.  支持Rails，Apache，MySQL，Delayed :: Job和其他格式.
 * [Rubber](https://github.com/rubber/rubber) -橡胶插件可将RubyOnRails应用程序相对复杂的多实例部署到Amazon的Elastic Compute Cloud（EC2）.
 * [SSHKey](https://github.com/bensie/sshkey) -纯Ruby（RSA和DSA）中的SSH私钥和公钥生成器.
@@ -723,7 +723,7 @@
 * [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) -一个简单的Ruby on Rails插件，用于创建和管理Rails项目的面包屑导航.
 * [Gretel](https://github.com/lassebunk/gretel) -Ruby on Rails插件，可以轻松而灵活地创建面包屑.
 * [loaf](https://github.com/peter-murach/loaf) -在Rails应用程序中管理和显示面包屑跟踪-精简和卑鄙.
-* [Simple Navigation](https://github.com/codeplant/simple-navigation) -红宝石，可为Rails 2、3和4，Sintratra或Padrino创建导航（html列表，链接列表或具有多个级别的面包屑）.
+* [Simple Navigation](https://github.com/codeplant/simple-navigation) -用于为Rails 2、3和4，Sinatra或Padrino创建导航（多级html列表，链接列表或面包屑）的红宝石.
 
 ## Networking
 
@@ -764,7 +764,7 @@
   * [marginalia](https://github.com/basecamp/marginalia)  -将注释附加到您的ActiveRecord查询中.  默认情况下，它在每个查询的末尾添加应用程序，控制器和操作名称作为注释.
   * [mongoid-history](https://github.com/aq1018/mongoid-history) -多用户非线性历史记录跟踪，审核，撤消，重做蒙古包.
   * [PaperTrail](https://github.com/airblade/paper_trail) -跟踪对ActiveRecord模型数据的更改以进行审核或版本控制.
-  * [Paranoia](https://github.com/radar/paranoia) -为Rails 3和Rails 4重新实现act_as_paranoid，使用的代码少得多.
+  * [Paranoia](https://github.com/radar/paranoia) -为Rails 3和Rails 4重新实现acts_as_paranoid，使用的代码少得多.
   * [PermenantRecords](https://github.com/JackDanger/permanent_records) -软删除您的ActiveRecord记录，例如ActsAsParanoid的显式版本.
 *进口
   * [ActiveImporter](https://github.com/continuum/active_importer) -定义将电子表格或CSV文件中的表格数据加载到任何类似ActiveRecord的ORM中的导入程序.
@@ -783,7 +783,7 @@
   * [Acts As Tennant](https://github.com/ErwinM/acts_as_tenant) -通过共享数据库策略向Rails应用添加多租户.
   * [Apartment](https://github.com/influitive/apartment) -Rails和ActiveRecord的多租户.
   * [Milia](https://github.com/jekuno/milia) -Rails的非侵入式多租户，支持开箱即用的Devise身份验证.
-*社交
+*社会
   * [Acts As Commentable](https://github.com/jackdempsey/acts_as_commentable) -提供一个可以附加到您应用内任何模型的注释模型.
   * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading)  -类似于act_as_commentable;  但是，利用awesome_nested_set提供了线程注释.
   * [acts_as_follower](https://github.com/tcocca/acts_as_follower) -允许任何ActiveRecord模型遵循其他任何模型.
@@ -1208,7 +1208,6 @@
 * [Codacy](https://www.codacy.com) -针对Ruby，Rails，JS，PHP，Python等的自动代码审查.安全性，覆盖范围和质量.
 * [CodeClimate](https://codeclimate.com) -Ruby on Rails和Javascript的质量和安全性分析.
 * [Dependabot](https://dependabot.com) -自动化的依赖项更新请求请求.
-* [deppbot](https://www.deppbot.com) -自动化的安全性和依赖性更新.
 * [GitHub](https://github.com) -开源和私有项目的强大协作，代码审查和代码管理.
 * [Gitlab CI](https://about.gitlab.com/gitlab-ci/) -与您的GitLab集成以为您的项目运行测试.
 * [GitLab](https://about.gitlab.com) -开源软件可在代码上进行协作.

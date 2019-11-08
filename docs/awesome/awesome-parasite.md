@@ -22,11 +22,11 @@
 * [MalAvi](http://130.235.244.92/Malavi/)  -疟原虫，变形杆菌和亮细胞类属的禽血寄生虫数据库，包括选定的宿主和载体信息.  请参阅数据库描述 [Bensch et al. 2009](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1755-0998.2009.02692.x).
 * [NCEAS Interaction Web data](https://www.nceas.ucsb.edu/interactionweb/resources.html#host_parasite)  -整理了几个加拿大犯罪学地点的鱼类寄主和寄生虫数据集，包括患病率和强度信息.  食物网和植物关系中物种相互作用的较大数据库的一部分.
 * [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/)  -从伦敦自然历史博物馆维护的科学文献中提取的寄生虫数据库.  HA Baylis博士于1922年开始进行编辑，直到LNHM的工作人员一直进行到2003年为止. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) 提供对此数据库的广泛分析，您可以通过R包访问数据 [helminthR](https://github.com/ropensci/helminthR). 
- * [Olival et al. 2017, Nature](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) -具有的哺乳动物病毒数据库 [analysis](https://www.nature.com/articles/nature22975?sf90794030). 
+ * [Olival et al. 2017, Nature](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) - Mammal-virus database with [analysis](https://www.nature.com/articles/nature22975?sf90794030). 
 * [PEARL](http://pearl.berkeley.edu/) -对大型无脊椎动物的保护评估.
 * [PHI-base](http://www.phi-base.org/index.jsp)  -包含影响病原性的真菌，卵菌和细菌病原体特定基因信息的数据库.  着重于农业和医学上重要的病原体. 
 * [PREDICT](http://data.predict.global/)  -来自美国国际开发署预测的2008-2019年项目的实地数据，该项目是全球新兴的病毒监视计划.  如果您有一个Healthmap帐户，则可以下载此数据. 
- * [Virus-Host DB](http://www.genome.jp/virushostdb/view/) -由NCBI / RefSeq和GenBank中发布的基因组合成宿主病毒关联.
+* [Virus-Host DB](http://www.genome.jp/virushostdb/view/) -由NCBI / RefSeq和GenBank中发布的基因组合成宿主病毒关联.
 
 ## Museums & Collections
 * [Biological Collections of Oswaldo Cruz Institute in Rio de Janeiro, Brazil](https://portal.fiocruz.br/en/biological-collections) -最大的科学机构 [helminth collection](http://chioc.fiocruz.br/catalogue)  在拉丁美洲有近40,000个标本.  该研究所还提供了其他几个开放获取的目录 [protozoa](http://colprot.fiocruz.br/index?catalogue) 和 [medically important vector species](http://cavaisc.fiocruz.br/catalogue).
@@ -48,6 +48,7 @@
 ## Reporting Systems 
 * [Healthmap](https://www.healthmap.org/en/) -一个网络平台，可为人类和动物提供传染病爆发警报.
 * [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/)  -对新出现和重新出现的疾病暴发的预警.  信息来源包括媒体报道，官方报道，在线摘要，当地观察员等. [EIDR-Connect](https://eidr-connect.eha.io/events/auto) 将ProMed报告解析为疾病暴发事件，由疾病专家策划. 
+* [The Contagion Outbreak Monitor](https://www.contagionlive.com/outbreak-monitor)  -过去两年中人类血源或食源性疾病暴发的互动地图.  针对从业者和临床医生. 
 * [WHISPers](https://whispers.usgs.gov/)  -由USGS国家野生动物健康中心管理的野生动物健康信息共享合作伙伴事件报告系统.  据报道，涉及五个或更多人的北美野生动植物死亡率（死亡）和发病率（疾病）事件. 
 * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive)  -世界动物卫生组织国家警报档案和某些病原体的定期报告.  他们也有一些不错的界面来显示疾病分布和时间表.
  

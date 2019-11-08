@@ -139,9 +139,9 @@
 
 *代表性状态转移.*
 
-* [Phalcon API](https://github.com/phalcon/phalcon-api) -使用Phalcon实现API应用程序
 * [phalcon-json-api-package](https://github.com/gte451f/phalcon-json-api-package) -一个旨在帮助您在Phalcon中创建JSON：API的作曲家软件包
 * [PhREST API](https://github.com/phrest/api) -Phalcon Framework REST API套件
+* [REST API](https://github.com/phalcon/rest-api) -使用Phalcon实现API应用程序
 
 
 ## Routing

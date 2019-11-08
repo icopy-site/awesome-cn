@@ -3,7 +3,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-游戏联网是计算机联网的一个子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，防作弊，负载平衡，带宽优化\
+游戏网络是计算机网络的子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，防作弊，负载平衡，带宽优化\
 -多人在线游戏编程中涉及的更多技术.
 
 **阅读后请随时贡献您的_awesome_资源 [contribution guidelines](https://github.com/MFatihMAR/Awesome-Game-Networking/blob/master/CONTRIBUTING.md)， 谢谢！**
@@ -14,7 +14,7 @@
 - [Ethernet vs. WiFi](https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) -Riot Games的Viscarious通过WiFi与以太网的互联网连接比较了指标.
 - [Explaining Delay-based and Rollback Netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/) -Ricky Pusch撰写的有关战斗游戏的回滚网络代码的深入文章.
 - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) -Gabriel Gambetta的客户端预测，实体插值，滞后补偿文章.
-- [Gaffer on Games](https://web.archive.org/web/https://gafferongames.com/) -Glenn Fiedler的可靠UDP协议和游戏网络开发文章.
+- [Gaffer on Games](https://gafferongames.com/) -Glenn Fiedler的可靠UDP协议和游戏网络开发文章.
 - [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) -Matthew Walker的多人游戏服务器架构博客.
 - [High Performance Browser Networking](https://hpbn.co/) -Ilya Grigorik撰写的关于现代Web协议的出色的免费在线书籍.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
