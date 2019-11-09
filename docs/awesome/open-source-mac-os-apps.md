@@ -93,7 +93,7 @@
 - [Franz](https://github.com/meetfranz/franz)  -Franz是用于WhatsApp，Slack，Messenger等服务的消息传递应用程序.  ！[javascript_icon] 
 - [Google Allo for Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop)  -适用于Google Allo的本地macOS和Windows桌面应用程序.  ！[javascript_icon] 
 - [GroupMe](https://github.com/dcrousso/GroupMe)  -非官方的GroupMe应用程序.  ！[javascript_icon]！[css_icon] 
-- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser)  -macOS应用程序，可轻松浏览和搜索您的Messages.app历史记录.  ！[swift_icon] 
+- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - macOS application to comfortably browse and search through your Messages.app history.  ![swift_icon] 
 - [Riot.im](https://github.com/vector-im/riot-web) -Riot.im是一款协作应用程序（当前为Electron），用于 [Matrix](https://matrix.org/blog/home/)  协议.  ！[javascript_icon] 
 - [Seaglass](https://github.com/neilalexander/seaglass) -真正的本地人 [Matrix](https://matrix.org/blog/home/)  macOS的客户端.  ！[swift_icon] 
 - [Signal Desktop](https://github.com/signalapp/Signal-Desktop)  -与您的Signal Android或Signal iOS应用程序链接的Electron应用程序.  ！[javascript_icon] 
@@ -139,7 +139,7 @@
 - [GithubNotify](https://github.com/erik/github-notify)  -简单的macOS应用程序，可在您未读GitHub通知时提醒您.  ！[swift_icon] 
 - [Streaker](https://github.com/jamieweavis/streaker)  -GitHub贡献条纹跟踪菜单栏应用程序.  ！[javascript_icon] 
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub)  -macOS状态栏应用程序，用于跟踪团队中的代码审查过程.  ！[swift_icon] 
-- [Trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise.  ![swift_icon] 
+- [Trailer](https://github.com/ptsochantaris/trailer)  -管理GitHub和GitHub Enterprise的请求请求和问题.  ！[swift_icon] 
 - [Xit](https://github.com/Uncommon/Xit)  -Xit是用于git存储库的图形工具.  ！[swift_icon] 
 
 #### JSON Parsing
@@ -159,7 +159,7 @@
 - [Insomnia](https://github.com/getinsomnia/insomnia)  -Insomnia是建立在Electron之上的跨平台REST客户端.  ！[javascript_icon] 
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor)  -KubeMonitor是一个macOS应用，可在菜单栏中显示有关活动的Kubernetes集群的信息.  ！[swift_icon] 
 - [KubeSwitch](https://github.com/nsriram/KubeSwitch)  -KubeSwitch在Mac的菜单栏中列出了Mac上可用的kubernetes集群上下文.  ！[swift_icon] 
-- [Lantern](https://github.com/BurntCaramel/Lantern)  -用于网站审核和抓取的专用Mac应用.  ！[swift_icon] 
+- [Lantern](https://github.com/RoyalIcing/Lantern)  -用于网站审核和抓取的专用Mac应用.  ！[swift_icon] 
 - [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).  ![swift_icon] 
 - [Mockup Generator](https://github.com/andypotts/mockup-generator)  -Mockup Generator是使用AngularJS / Electron构建的macOS应用，位于菜单栏中，可让您捕获自己喜欢的网站的屏幕截图并将其包装在设备模型中.  ！[javascript_icon] 
 - [Now Desktop](https://github.com/zeit/now-desktop)  -直接从任务栏菜单创建部署.  ！[javascript_icon] 
@@ -171,7 +171,7 @@
 
 #### iOS / macOS
 - [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator)  -只需单击一下即可找到资产图像的路径，并为您创建appiconset和imagesset.  ！[swift_icon] 
-- [Alloy](https://github.com/alexlee002/alloy) - Simple toolkit that makes your iOS / macOS apps development more easier.  ![objective_c_icon] 
+- [Alloy](https://github.com/alexlee002/alloy)  -简单的工具包，使您的iOS / macOS应用开发更加容易.  ！[objective_c_icon] 
 - [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation)  -iOS开发人员的工具，可通过您的Dropbox帐户直接将开发，临时和内部（企业）应用程序构建和部署到设备.  ！[objective_c_icon] 
 - [AppIcons](https://github.com/kuyawa/AppIcons)  -用于生成macOS和iOS应用所需的各种尺寸图标的工具.  ！[swift_icon] 
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes)  -提供有关平均iOS / macOS应用商店评论时间的指示.  ！[swift_icon] 
@@ -193,7 +193,7 @@
 - [Localizable.strings](https://github.com/ralcr/Localizable.strings)  -Mac应用程序可本地化您的iOS和macOS项目.  ！[swift_icon] 
 - [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor)  -简单的macOS编辑器应用程序，允许您并排编辑所有翻译，以帮助您管理iOS应用程序本地化.  ！[swift_icon] 
 - [Localizations](https://github.com/athiercelin/Localizations)  -Localizations是一个macOS应用程序，用于管理您的Xcode项目本地化文件（.strings）.  ！[swift_icon] 
-- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - macOS app for convenient access to the system color panel.  ![swift_icon] 
+- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)  -macOS应用程序，可方便地访问系统颜色面板.  ！[swift_icon] 
 - [Notarize](https://github.com/macmade/Notarize) -适用于macOS的公证状态监视工具，支持多个开发者帐户！[swift_icon] 
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater)  -macOS应用程序，可帮助您管理Podfile中的依赖项版本.  ！[swift_icon] 
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager)  -适用于Mac的Apple iOS / macOS供应配置文件管理，.provisionprofile，.mobileprovision文件管理器工具.  ！[objective_c_icon] 
@@ -410,6 +410,7 @@
 
 ### Productivity
 - [Ao](https://github.com/klaussinani/ao)  -优雅的Microsoft To-Do桌面应用程序.  ！[javascript_icon]！[css_icon] 
+- [Calculeta](https://github.com/varol/Calculeta)  -适用于状态栏的macOS计算器.  ！[swift_icon] 
 - [Cerebro](https://github.com/KELiON/cerebro)  -跨平台启动器应用程序.  ！[javascript_icon] 
 - [ClipMenu](https://github.com/naotaka/ClipMenu)  -适用于macOS的剪贴板管理器.  ！[objective_c_icon] 
 - [Clocker](https://github.com/n0shake/Clocker)  -macOS应用程序可通过时区进行计划和组织.  ！[objective_c_icon] 
@@ -433,10 +434,10 @@
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319)  -适用于Windows，Mac和Linux的Toggl Desktop应用程序.  ！[cpp_icon] 
 - [TomatoBar](https://github.com/ivoronin/TomatoBar)  -带有Touch Bar支持的macOS的Pomodoro技术计时器.  ！[swift_icon] 
 - [TrelloApp](https://github.com/jlong/TrelloApp)  -用Swift编写的Trello.com的非正式包装应用程序.  对于站点特定的浏览器来说，这几乎是一个“ Hello World”.  ！[swift_icon] 
-- [Watson](https://github.com/TailorDev/Watson) - A CLI application for time tracking.  ![python_icon] 
+- [Watson](https://github.com/TailorDev/Watson)  -用于时间跟踪的CLI应用程序.  ！[python_icon] 
 - [Whale](https://github.com/1000ch/whale)  -非官方的Trello应用程序.  ！[javascript_icon] 
 - [Xpiks](https://github.com/ribtoks/xpiks) -Xpiks是供微型图片摄影师，插画家和摄像师使用的加关键字和上传工具！[cpp_icon] 
-- [Yomu](https://github.com/sendyhalim/Yomu)  -适用于macOS的漫画阅读器应用程序.  ！[swift_icon] 
+- [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.  ![swift_icon] 
 - [espanso](https://github.com/federico-terzi/espanso) -跨平台文本扩展器，是Alfred Snippets的强大替代品！[rust_icon] 
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer)  -用于组织文件或删除不必要文件的macOS应用.  ！[swift_icon] 
 - [status-bar-todo](https://github.com/Onix-Systems/osx-status-bar-todo)  -简单的macOS应用程序，可将TODO列表保留在状态栏中.  ！[swift_icon] 
@@ -527,6 +528,7 @@
 - [BeardedSpice](https://github.com/beardedspice/beardedspice)  -使用Mac键盘上的媒体键控制基于Web的媒体播放器.  ！[objective_c_icon] 
 - [Bitwarden](https://github.com/bitwarden/desktop)  -针对个人，团队和业务组织的跨平台密码管理解决方案.  ！[type_script_icon] 
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop)  -适用于Mac和其他平台的安全密码管理器.  ！[javascript_icon] 
+- [Calculeta](https://github.com/varol/Calculeta)  -适用于状态栏的macOS计算器.  ！[swift_icon] 
 - [Catch](https://github.com/mipstian/catch/)  -赶上：轻松捉迷藏.  ！[swift_icon] 
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear)  -使用“清除剪贴板文本格式”轻松清除剪贴板文本的格式.  ！[objective_c_icon] 
 - [CornerCal](https://github.com/ekreutz/CornerCal)  -适用于macOS的简单，干净的日历和时钟应用程序.  ！[swift_icon] 
@@ -538,7 +540,7 @@
 - [Kap](https://github.com/wulkano/kap)  -使用网络技术构建的屏幕录像机应用程序.  ！[javascript_icon] 
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) -Windows应用程序“ Keepass Password Safe”的跨平台社区驱动端口！[cpp_icon] 
 - [KeeWeb](https://github.com/keeweb/keeweb)  -与KeePass兼容的跨平台密码管理器.  ！[javascript_icon] 
-- [Kyapchar](https://github.com/vishaltelangre/Kyapchar)  -适用于macOS的简单屏幕和麦克风音频记录器.  ！[swift_icon] 
+- [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - Simple screen and microphone audio recorder for macOS.  ![swift_icon] 
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar)  -生活日历.  ！[swift_icon] 
 - [Lunar](https://github.com/alin23/lunar)  -外部显示器的智能自适应亮度.  ！[swift_icon] 
 - [MacPass](https://github.com/MacPass/MacPass)  -本机macOS KeePass客户端.  ！[objective_c_icon] 
@@ -595,7 +597,7 @@
 - [Yoda](https://github.com/whoisandy/yoda)  -漂亮的macOS应用程序，可让您浏览和从YouTube下载视频.  ！[javascript_icon] 
 
 ### Wallpaper
-- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper)  -状态栏的简单macOS应用程序，可将照片从500px.com自动下载到可以设置为墙纸来源的本地文件夹中.  ！[swift_icon] 
+- [500-mac-wallpaper](https://github.com/cuddlecheek/500-mac-wallpaper) - Simple macOS app for the status bar to automatically download photos from 500px.com to a local folder that can be set as a source of wallpapers.  ![swift_icon] 
 - [ArtWall](https://github.com/JustinFincher/ASWP-for-macOS) -ArtStation设置为来自的壁纸 [artwork.rss](https://www.artstation.com) .  ！[objective_c_icon] 
 - [Artify](https://github.com/NghiaTranUIT/artify-macos) -一个macOS应用程序，专门为所有人带来18世纪的艺术！[swift_icon] 
 - [BingPaper](https://github.com/pengsrc/BingPaper)  -使用Bing日常照片作为macOS上的墙纸.  ！[swift_icon] 

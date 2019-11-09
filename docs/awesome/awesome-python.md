@@ -162,7 +162,7 @@
 
 ## Command-line Tools
 
-*有用的基于CLI的工具可提高工作效率.*
+*有用的基于CLI的工具可提高生产力*
 
 *生产力工具
     * [cookiecutter](https://github.com/audreyr/cookiecutter) -从cookiecutter（项目模板）创建项目的命令行实用程序.
@@ -682,7 +682,7 @@
 * [Python(x,y)](http://python-xy.github.io/) -基于Qt和Spyder的面向科学应用程序的Python发行版.
 * [pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs/) -用于Python扩展程序包的非官方Windows二进制文件.
 * [PythonNet](https://github.com/pythonnet/pythonnet) -与.NET公共语言运行库（CLR）的Python集成.
-* [PyWin32](https://sourceforge.net/projects/pywin32/) -Windows的Python扩展.
+* [PyWin32](https://github.com/mhammond/pywin32) -Windows的Python扩展.
 * [WinPython](https://winpython.github.io/) -Windows 7/8的可移植开发环境.
 
 ## Miscellaneous
@@ -691,7 +691,7 @@
 
 * [blinker](https://github.com/jek/blinker) -快速的Python处理中信号/事件分配系统.
 * [boltons](https://github.com/mahmoud/boltons) -一组纯Python实用程序.
-* [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将可信数据传递到不可信环境.
+* [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将受信任的数据传递到不受信任的环境.
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) -一个简单但灵活的Python插件系统.
 * [tryton](http://www.tryton.org/) -通用业务框架.
 

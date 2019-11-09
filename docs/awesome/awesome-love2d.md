@@ -149,7 +149,7 @@
 ## <a name="object"></a>Object Orientation
 *支持的对象定向库 [Class-Commons](https://github.com/bartbes/Class-Commons)*
 
-* [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
+* [30log](https://github.com/Yonaba/30log)  -Lua中面向对象的精简框架.  它具有命名（和未命名）类，单一继承以及对mixins的基本支持
 * [classic](https://github.com/rxi/classic/)  -Lua的微型类模块.  尝试保持简单并通过避免不必要的过度抽象来提供良好的性能
 * [hump.class](https://hump.readthedocs.io/en/latest/class.html) -具有多重继承的小型，快速的类/原型实现（常见类）
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) -提供单一继承和构造函数的极少基类.
@@ -252,6 +252,7 @@
 * [colorchanger](https://github.com/santoslove/colorchanger) -更改LÖVE游戏中的颜色
 * [Flirt](https://github.com/Alloyed/flirt)  -LÖVE版本管理器；  允许在同一台机器上的多个引擎版本之间切换
 * [GifCat](https://github.com/WetDesertRock/GifCat) -一个用于从LÖVE保存gif的简单模块
+* [hex2color](https://github.com/S-Walrus/hex2color/) -使用十六进制颜色值的单个功能
 * [i18n](https://github.com/excessive/i18n) -国际化库旨在帮助您本地化游戏
 * [Ini Parser](https://github.com/FivosM/ini_parser) -通用ini配置解析器
 * [log.lua](https://github.com/rxi/log.lua) -用于可配置日志输出的库
@@ -303,7 +304,7 @@
 	* [LÖVE IDEA](https://github.com/rm-code/love-IDEA-plugin) -IntelliJ-IDEA的代码片段和代码完成
 * [Vim](https://vim.sourceforge.io/) -Vim是高度可配置的文本编辑器，旨在使创建和更改任何类型的文本非常高效
 	* [Vim LOVE Docs](https://github.com/davisdude/vim-love-docs) -Vim的语法突出显示
-* [Notepad++](https://notepad-plus-plus.org/) -Notepad ++是免费的源代码编辑器和Notepad替代品，支持多种语言
+* [Notepad++](https://notepad-plus-plus.org) -Notepad ++是免费的源代码编辑器和Notepad替代品，支持多种语言
 	* [LÖVE API for Notepad++](https://github.com/dail8859/love-api-npp) -Notepad ++的代码完成和文档
 * [Visual Studio Code](https://code.visualstudio.com/) -VS Code是一种新型工具，结合了代码编辑器的简单性和开发人员对其核心edit-build-debug周期的需求
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) -用于Visual Studio Code的LöveLauncher扩展
@@ -324,4 +325,4 @@
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) -专为LÖVE设计的着色器集合
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) -精选的PICO-8资源，教程，工具等
 
-其他很棒的清单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 清单.
+其他很棒的清单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

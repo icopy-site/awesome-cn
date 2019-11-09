@@ -339,7 +339,6 @@
   * [skylight.io](https://www.skylight.io/) —前100,000个请求免费（仅适用于Rails）
   * [appdynamics.com](https://www.appdynamics.com/) —免费提供24小时指标，应用程序性能管理代理限于一种Java，一种.NET，一种PHP和一种Node.js
   * [deadmanssnitch.com](https://deadmanssnitch.com/)  —监视cron作业.  1个免费告密者（显示器），如果您推荐其他人进行注册，则更多
-  * [librato.com](https://www.librato.com/) —以60秒的分辨率释放多达100个指标
   * [freeboard.io](https://freeboard.io/)  —公共项目免费.  物联网（IoT）项目的仪表板
   * [loader.io](https://loader.io/) —有限制的免费负载测试工具
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) —性能监控API，检查Ping，DNS等.

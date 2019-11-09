@@ -158,6 +158,11 @@
 
 * [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) -用于Phalcon的Elasticsearch索引器组件
 
+## Shop & Ecommerce
+
+* [Shopping Cart](https://github.com/sinbadxiii/phalcon-cart) -在线商店的简单购物车
+
+
 
 ## Talks
 
