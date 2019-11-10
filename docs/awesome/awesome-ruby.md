@@ -112,6 +112,7 @@
 
 * [acl9](https://github.com/be9/acl9) -Acl9是基于角色的授权系统，可提供简洁的DSL来保护Rails应用程序.
 * [AccessGranted](https://github.com/chaps-io/access-granted) -适用于Rails的基于多角色和白名单的授权gem.
+* [ActionPolicy](https://github.com/palkan/action_policy)  -Ruby和Rails应用程序的授权框架.  可组合，可扩展和高性能.
 * [Authority](https://github.com/nathanl/authority) -与ORM无关的方法来授权Rails应用中的操作.
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) -延续CanCan（Ruby on Rails的授权宝石）.
 * [Declarative Authorization](https://github.com/stffn/declarative_authorization) -授权Rails插件，使用声明性DSL在一个地方指定授权规则.
@@ -353,7 +354,7 @@
 ## Date and Time Processing
 
 * [biz](https://github.com/zendesk/biz) -使用营业时间进行时间计算.
-* [business_time](https://github.com/bokmann/business_time) -支持在工作时间和工作天进行时间数学计算.
+* [business_time](https://github.com/bokmann/business_time) - Support for doing time math in business hours and days.
 * [ByStar](https://github.com/radar/by_star) -按年，月，两周，周等等查找ActiveRecord对象！
 * [Chronic](https://github.com/mojombo/chronic) -用纯Ruby编写的自然语言日期/时间解析器.
 * [groupdate](https://github.com/ankane/groupdate) -在ActiveRecord，数组和哈希中对时间数据进行分组的最简单方法.
@@ -516,7 +517,7 @@
 
 * [attache](https://github.com/choonkeat/attache) -独立的映像和文件服务器，可将您的应用与文件管理问题脱钩.
 * [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) -用于Rails，Sinatra和其他Ruby Web框架的文件上传的更高级解决方案.
-* [DragonFly](https://github.com/markevans/dragonfly) -即时处理的Ruby宝石-适用于在Rails，Sinatra等中上传图像！
+* [DragonFly](https://github.com/markevans/dragonfly) -一种用于即时处理的Ruby宝石-适用于在Rails，Sinatra等中上传图像！
 * [PaperClip](https://github.com/thoughtbot/paperclip)  -易于对ActiveRecord进行文件附件管理.  自2018年5月14日起弃用.
 * [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) -安全上传文件.
 * [Refile](https://github.com/refile/refile) -Refile是一种用于Ruby应用程序的现代文件上传库，是CarrierWave的原始作者试图修复CarrierWave中的设计错误和过度设计的尝试.
@@ -631,7 +632,7 @@
 * [i18n-tasks](https://github.com/glebm/i18n-tasks) -利用强大的静态分析功能管理丢失和未使用的翻译.
 * [i18n](https://github.com/svenfuchs/i18n) -Ruby国际化和本地化解决方案.
 * [rails-i18n](https://github.com/svenfuchs/rails-i18n) -用于收集Rails I18n以及其他有趣的与Rails相关的I18n内容的语言环境数据的存储库.
-* [r18n](https://github.com/ai/r18n) -先进的i18n库，适用于Rails，Sinatra，桌面应用程序，模型，可与复杂的语言（如俄语）很好地兼容.
+* [r18n](https://github.com/ai/r18n) -先进的i18n库，适用于Rails，Sinatra，桌面应用程序，模型，可与俄语等复杂语言很好地配合使用.
 * [Termit](https://github.com/pawurb/termit) -终端中带有语音合成功能的翻译.
 * [Tolk](https://github.com/tolk/tolk) -用于打包为Rails引擎的i18n转换的Web界面.
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) -ICU（Unicode的国际组件）的Ruby实现，它使用通用语言环境数据存储库来格式化日期，复数等.
@@ -830,7 +831,7 @@
 
 * [CombinePDF](https://github.com/boazsegev/combine_pdf) -一个纯红宝石库，用于合并或树桩PDF文件，数字页等.
 * [Gimli](https://github.com/walle/gimli) -用于将标记文件转换为pdf文件的实用程序.
-* [HexaPDF](https://github.com/gettalong/hexapdf) - A Versatile PDF Creation and Manipulation Library For Ruby.
+* [HexaPDF](https://github.com/gettalong/hexapdf) -面向Ruby的多功能PDF创建和操作库.
 * [InvoicePrinter](https://github.com/strzibny/invoice_printer) -Ruby中超简单的PDF发票（基于Prawn构建）.
 * [Kitabu](https://github.com/fnando/kitabu) -使用Ruby从Markdown / Textile文本标记创建电子书的框架.
 * [Pdfkit](https://github.com/pdfkit/pdfkit) -使用wkhtmltopdf将HTML + CSS转换为PDF.
@@ -1215,7 +1216,6 @@
 * [HoundCI](https://houndci.com) -检查您的Ruby代码是否违反样式指南.
 * [HuBoard](https://huboard.com) -看板董事会的GitHub问题.
 * [Inch CI](https://inch-ci.org/) -Ruby项目的文档徽章.
-* [Nanobox](https://github.com/nanobox-io/nanobox) -一个微PaaS（μPaaS），用于创建可部署在https://nanobox.io的任何地方的一致，隔离的Ruby环境.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) -使用OctoLinker浏览器扩展有效地浏览GitHub.com上的项目.
 * [SemaphoreCI](https://semaphoreci.com) -为开源和私有项目提供托管的持续集成和部署服务.
 * [SideCI](https://www.sideci.com)  -使用GitHub PR进行自动代码审查.  -监视样式违规，质量，安全性，依赖性.

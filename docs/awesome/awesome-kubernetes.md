@@ -121,7 +121,7 @@ Installers
 * [Kubicorn](https://github.com/kubicorn/kubicorn) -与操作系统无关-与云无关
 * [Kublr](https://docs.kublr.com/quickstart/) -不可知操作系统-本地-不可知云
 * [Linode](https://developers.linode.com/kubernetes/) -CoreOS-Linode
-* [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
+* [matchbox](https://github.com/coreos/matchbox) -CoreOS-网络启动和配置Container Linux集群（例如etcd3，Kubernetes等）.
 * [MetalK8s](https://github.com/scality/metalk8s) -CentOS-本地-云不可知- [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [MicroK8s](https://github.com/ubuntu/microk8s) -单个k8软件包，可在42种Linux上安装
 * [Minikube](https://github.com/kubernetes/minikube) -在本地运行Kubernetes
@@ -333,6 +333,7 @@ Installers
   - [Kel](http://www.kelproject.com)
   - [KubeSail](https://kubesail.com) -一种简单，免费的尝试Kubernetes的方法
   - [KubeSphere](https://kubesphere.io/en)
+  - [Kyma](https://kyma-project.io/)  -使用无服务器功能扩展应用程序的平台.  它提供了一系列粘合在一起的云原生项目，以简化服务的创建和管理.
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
@@ -520,7 +521,7 @@ Projects
 * [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) -用于监视和可视化K8指标，日志，应用程序跟踪等的开源解决方案.
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
-* [loki](https://github.com/grafana/loki) -Loki是受Prometheus启发的水平可扩展，高度可用的多租户日志聚合系统.
+* [loki](https://github.com/grafana/loki) - Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 * [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
 
 ## Testing
@@ -666,6 +667,7 @@ Projects
 * [illuminatio](https://github.com/inovex/illuminatio) 是用于自动测试kubernetes网络策略的工具
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
+* [KubeIP](http://github.com/doitintl/kubeip) 为GKE上的节点设置静态ip（用于将IP列入白名单）
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Kuryr](https://github.com/openstack/kuryr-kubernetes)
 * [Linen](https://github.com/John-Lin/linen-cni)
@@ -905,6 +907,7 @@ Projects
 * [Setting up a Kubernetes on ARM cluster](http://kubecloud.io/kubernetes-on-arm-cluster/)
 * [Setup Kubernetes on a Raspberry Pi Cluster easily the official way!](https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/) 通过 [Mathias Renner and Lucas Käldström](https://blog.hypriot.com/crew/)
 * [How to Build a Kubernetes Cluster with ARM Raspberry Pi then run .NET Core on OpenFaas](https://www.hanselman.com/blog/HowToBuildAKubernetesClusterWithARMRaspberryPiThenRunNETCoreOnOpenFaas.aspx) 通过 [Scott Hanselman](https://twitter.com/shanselman)
+* [Building a microcloud with a few Raspberry Pis and Kubernetes](https://mirailabs.io/blog/building-a-microcloud/) 通过 [Preetam D'Souza](https://preetam.io/)
 
 Books
 =======================================================================
@@ -920,7 +923,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -1007,7 +1010,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 

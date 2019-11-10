@@ -39,11 +39,14 @@ Prometheus是一个开源系统监视和警报工具包.
 
 ## Videos
 
+- [PromCon 2019](https://www.youtube.com/watch?v=4vZ1PqZ_Foc) -PromCon慕尼黑-2019年11月7日，PromCon EU 2019-第1天现场谈话录音.
+- [PromCon 2019](https://www.youtube.com/watch?v=bbIE9VyVgaY) -PromCon慕尼黑-2019年11月8日，PromCon EU 2019-第2天现场谈话录音.
+- [PromCon 2018](https://www.youtube.com/playlist?list=PLoz-W_CUquUlml1wBtQVBKErwoszt5B0h) -PromCon慕尼黑-2018年8月9日至10日-慕尼黑PromCon 2018的谈话录音.
+- [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) -PromCon慕尼黑-2017年8月17-18日-PromCon 2017在柏林的谈话录音.
 - [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) -PromCon Berlin-2016年8月25日至26日-柏林PromCon 2016谈话录音.
 - [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) -比利时Devoxx-2016年11月8日-FabianStäber.
 - [Prometheus: A Next Generation Monitoring System](https://www.youtube.com/watch?v=cwRmXqXKGtk) -FOSDEM 2016-2016年1月31日-Brian Brazil.
 - [PromCon 2016: So You Want to Write an Exporter](https://www.youtube.com/watch?v=KXq5ibSj2qA) -PromCon 2016-所以你想写出口商-Brian Brazil
-- [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) -PromCon慕尼黑-2017年8月17-18日在Google慕尼黑-谈话录音.
 - [Infrastructure and application monitoring using Prometheus](https://www.youtube.com/watch?v=5GYe_-qqP30) -Devoxx-2017年5月17日在英国Devoxx-Marco Pas.
 - [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) -比利时Devoxx-2017年11月7日-FabianStäber.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) -Docker-2016年10月14日-Julius Volz.
@@ -57,7 +60,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Podcasts and interviews
 
 - [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -FLOSS每周TWiT.tv节目上的朱利叶斯·沃尔兹（Julius Volz）.
-- [Prometheus and Service Monitoring](https://changelog.com/podcast/168) -Changelog播客中的Julius Volz.
+- [Prometheus and Service Monitoring](https://changelog.com/podcast/168) - Julius Volz on the Changelog podcast.
 - [Prometheus Monitoring with Brian Brazil](https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/) -Brian Brazil在《软件工程日报》播客中.
 
 ## Presentations

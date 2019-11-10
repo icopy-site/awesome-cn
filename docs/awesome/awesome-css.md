@@ -78,7 +78,7 @@
 * [Bulma](http://bulma.io/)  -基于Flexbox的现代CSS框架.  还具有Sass导入以进行修改.
 * [Butter Cake](http://getbuttercake.com/) -现代轻量级前端CSS框架，可更快，更轻松地进行Web开发.
 * [Chota](https://jenil.github.io/chota/) -具有有用的实用程序和网格系统的响应式，可自定义的微框架（3kb）.
-* [Cirrus](https://spiderpig86.github.io/Cirrus/) -完全响应的，全面的CSS框架，具有精美的控件和简单的结构.
+* [Cirrus](https://spiderpig86.github.io/Cirrus/) -具有精美控件和简单结构的完全响应和全面的CSS框架.
 * [eFrolic](http://efrolicss.com/) -不使用JavaScript的CSS框架是交互式的且具有动画效果.
 * [Foundation](http://foundation.zurb.com/) -先进的响应式前端框架.
 * [inuit.css](http://inuitcss.com/) -强大，可扩展，基于Sass的BEM，OOCSS框架.
@@ -110,7 +110,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## CSS Structure
 
 - [RSCSS](https://github.com/rstacruz/rscss) -CSS样式表结构的合理标准.
-- [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
+- [ITCSS](https://twitter.com/itcss_io) -适用于大型UI项目的健全，可扩展的托管CSS体系结构.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -239,7 +239,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [cssfx](https://cssfx.dev/) -精美简单的点击复制CSS效果
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) -适用于Chrome，Firefox和Edge的Magic CSS扩展.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) -通用JS UI组件的CSS替代品.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找不良标记的CSS小书签，无论您在何处编写不良HTML，它都会在喜剧无衬线中显示难看的粉红色错误消息 
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找错误标记的CSS小书签，无论您在何处编写错误的HTML，它都在喜剧无衬线中显示难看的粉红色错误消息 
 
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -341,13 +341,14 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css) -热门推荐资源.
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) -精选的有用CSS片段集合，您可以在30秒或更短的时间内理解.
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) -深入介绍OOCSS，BEM，SMACSS，并提供示例.
+* [Flexbox video tutorial](https://flexbox.io/) -Wes Bos提供的免费视频课程，用于学习flexbox.
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Maintainers
 
 [sotayamashita]：https://github.com/sotayamashita
-[Rishabh04-02]：https://github.com/Rishabh04-02
+[Rishabh04-02]:  https://github.com/Rishabh04-02
 [troxler]：https：//github.com/troxler
 
 [@sotayamashita] [sotayamashita]，[@ troxler] [troxler]，[@ Rishabh04-02] [Rishabh04-02]和您！

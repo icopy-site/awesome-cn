@@ -39,18 +39,18 @@ The term was coined by Eric Evans in his book of the same title.
 - [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) -实用的软件架构师核心实践摘要.
 - [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#.
 - [Secure by Design (early access)](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80) -显示如何使用域驱动设计来避免安全漏洞.
-- [Specification by Example](https://www.manning.com/books/specification-by-example) - This book distills from the experience of leading teams worldwide effective ways to specify, test, and deliver software in short, iterative delivery cycles. Case studies in this book range from small web startups to large financial institutions, working in many processes including XP, Scrum, and Kanban.
+- [Specification by Example](https://www.manning.com/books/specification-by-example)  -本书摘录了世界各地领先团队的经验，以有效的方式指定，测试和交付了简短，迭代的交付周期的软件.  本书中的案例研究范围从小型Web初创公司到大型金融机构，涉及XP，Scrum和看板等许多流程.
 - [Versioning in an Event Sourced System](https://leanpub.com/esversioning)  -在对事件源系统进行版本控制时遇到麻烦吗？  只是第一次进入新的事件源系统？  这本书是如何长时间处理版本的权威指南.
 - [What is Domain-Driven Design?](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/) -快速阅读，探讨领域驱动设计的核心模式和原理，以及在棕地项目中应用DDD的策略.
 - [Writing Great Specifications](https://www.manning.com/books/writing-great-specifications) -编写优秀规范是一个示例丰富的教程，该教程教您如何编写编写良好的Gherkin规范文档，以利用“规范得益于示例”的优势.
 
 ## Free eBooks
 
-- [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) -有关域驱动设计的解剖图.
+- [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - An infographic on the anatomy of Domain-Driven Design.
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) -提供有关使用DDD，ASP.NET Core和Azure构建整体Web应用程序的端到端指南. [eShopOnWeb sample](https://github.com/dotnet-architecture/eShopOnWeb)
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) -探索CQRS和事件来源.
 - [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years)  -为了庆祝这一周年，我们邀请了软件设计界的杰出作者来撰写新旧论文.  在Martin Fowler，James Coplien，Rebecca Wirfs-Brock，Mel Conway等人的贡献下.
-- [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) -DDD的模式和定义的摘要.
+- [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) - A summary of the patterns and definitions of DDD.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) -快速域驱动设计是一个简短，易读的摘要，并介绍了DDD的基础知识.
 - [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) -在这个由三部分组成的系列文章中，Vaughn Vernon讲述了一些常见的设计陷阱，讨论了各种聚合建模选择的优缺点，并提供了经验法则来指导聚合建模.
 - [Getting Started with DDD when Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) -描述了当您对旧版系统投入大量精力时开始使用DDD的三种策略.
@@ -60,7 +60,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Training Courses
 
-- [DDD Workshops across Europe](https://training.dddeurope.com/) -Eric Evans，Alberto Brandolini，Mathias Verraes，Rebecca Wirfs-Brock等举办的公共研讨会.
+- [DDD Workshops across Europe](https://training.dddeurope.com/) -Eric Evans，Alberto Brandolini，Mathias Verraes，Rebecca Wirfs-Brock等人举办的公开研讨会.
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) -通过与Eric Evans（我们是域驱动设计（DDD）的原始书的作者）一起使用我们的视频课，教给自己一些用于改进实用模型（不仅是文档）的实用模型的发展技巧.
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) -这些视频包括Greg Young的DDD，CQRS和Event Sourcing类的全部内容.
 - [Distilling Domain-Driven Design](https://forcomprehension.com/) -Vaughn Vernon的在线培训课程.
@@ -73,7 +73,7 @@ The term was coined by Eric Evans in his book of the same title.
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) -在实践中应用域驱动设计原则的描述性，深入的演练.
 	 - [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing)  -本课程涵盖DDD分析模式，有助于发现业务领域的顶级体系结构.  架构师和开发人员将找到实现模式的详细信息，例如域模型，CQRS和事件源.
 - [Rails + Domain Driven Design Workshop](https://blog.arkency.com/ddd-training/) -DDD简介，面向Ruby / Rails开发人员的CQRS和事件源基础.
-- [Reactive Architecture: Domain Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd/)  -使用DDD将问题域分解为可管理的部分.  了解这些部分如何成为反应式微服务和反应式架构的基础.  免费，在线，自定进度.  完成时提供证书.
+- [Reactive Architecture: Domain Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd/)  -使用DDD将问题域分解为可管理的部分.  了解这些部分如何成为反应式微服务和反应式架构的基础.  免费，在线，自定进度.  完成后提供证书.
 - [Reactive Architecture: CQRS and Event Sourcing](https://cognitiveclass.ai/courses/reactive-architecture-cqrs/)  -本课程将讨论我们使用CQRS / ES的原因，它为我们提供的好处以及使用的成本.  我们将看到CQRS / ES如何影响应用程序的可伸缩性，一致性和可用性.
 
 ## Video Collections
@@ -93,7 +93,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD in Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) -对于对域驱动设计感兴趣的Ruby开发人员的子目录.
 - [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) -面向对EventStorming和相关主题感兴趣的所有人的公开讨论组.
 - [DDD/CQRS/ES Slack](https://t.co/MRxpx0rLH2)  -对于那些想要讨论域驱动设计，CQRS，事件源以及有时是随机事物的人来说，这是一个闲散的团队.  主要渠道是与语言和框架无关的.
-- [Domain StoryTelling Slack](https://domainstorytelling.slack.com) - A slack team about Domain StoryTelling. It is currently invite only, but you can ask [@hofstef](https://twitter.com/hofstef)  邀请.  主页位于 [domainstorytelling.org](http://domainstorytelling.org/).
+- [Domain StoryTelling Slack](https://domainstorytelling.slack.com)  -有关Domain StoryTelling的小组.  目前仅受邀，但您可以询问 [@hofstef](https://twitter.com/hofstef)  邀请.  主页位于 [domainstorytelling.org](http://domainstorytelling.org/).
 - [Software Engineering Stack Exchange](http://softwareengineering.stackexchange.com/questions/tagged/domain-driven-design) -标记为“域驱动设计”的软件工程堆栈交换问题.
 - [Code Review Stack Exchange](http://codereview.stackexchange.com/questions/tagged/ddd) -代码复习堆栈交换标记为“域驱动设计”的问题.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/domain-driven-design) -标记为“域驱动设计”的堆栈溢出问题.
@@ -114,11 +114,11 @@ The term was coined by Eric Evans in his book of the same title.
 - [InfoQ Blog](https://www.infoq.com/domaindrivendesign/) -InfoQ上的域驱动设计内容.
 - [Dan North](https://dannorth.net/blog/)  -行为驱动设计的发明者.  有关事件风暴的博客和讨论.
 - [Mike Mogosanu](http://blog.sapiensworks.com)  -可维护的代码是业务优势.  域地图的创建者：域建模工具-简单而强大的域驱动设计.
-- [Christian Posta](http://blog.christianposta.com) -Red Hat的首席中间件架构师，开源爱好者，Apache，云，集成，Kubernetes，Docker，OpenShift，Fabric8的提交者.
+- [Christian Posta](http://blog.christianposta.com) -Red Hat首席中间件架构师@ Red Hat，开源爱好者，Apache @ Cloud，Integration，Kubernetes，Docker，OpenShift和Fabric8的提交者.
 - [Vladimir Khorikov](http://enterprisecraftsmanship.com)  -Pluralsight作者.  有关软件开发原理和最佳实践的博客.
 - [TechBeacon](http://techbeacon.com/) -TechBeacon上的文章标记了“域驱动设计”.
 - [Derek Comartin](http://codeopinion.com) -“域驱动设计”类别下的文章.
-- [Alberto Brandolini](https://ziobrando.blogspot.it)  -事件风暴的发明者.  断言问题无法用产生问题的相同思路来解决，Alberto经常以建筑师，导师，教练，经理或开发人员的观点来交换观点.
+- [Alberto Brandolini](https://ziobrando.blogspot.it)  -事件风暴的发明者.  断言问题无法用产生问题的相同思路来解决，因此Alberto经常以建筑师，导师，教练，经理或开发人员的观点来交换观点.
 - [Jérémie Chassaing](http://thinkbeforecoding.com/) - Various articles about DDD/CQRS.  Implemented Greg Young's SimpleCQRS sample in F#.
 - [Vaughn Vernon](https://vaughnvernon.co) -沃恩·弗农（Vaughn Vernon）了解软件开发的独特需求以及在快速发展的行业中提高自己的技能时所面临的挑战.
 - [Vladik Khononov](http://vladikk.com/) -各种与DDD相关的文章.
@@ -162,7 +162,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) （.Net Core Preview 2）-N层体系结构示例项目.
 - [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) -自适应咨询公司的反应性交易者云.
 - [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) -使用原始架构的.NET Core REST API CQRS实现，带有原始SQL和DDD.
-- [Scritchy](https://github.com/ToJans/Scritchy) -没有水暖的CQRS， [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
+- [Scritchy](https://github.com/ToJans/Scritchy) - CQRS without the Plumbing, [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
 - [Simple CQRS in F#](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
 - [SimpleCQRS](https://github.com/gregoryyoung/m-r) -格雷格·杨（Greg Young）的“最简单的事物” CQRS，带有事件来源项目.
 - [TodoMVC-DDD-CQRS-EventSourcing](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
@@ -240,6 +240,9 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### PHP
 - [Broadway](https://github.com/broadway/broadway) -Broadway是一个（PHP）项目，为创建CQRS和事件源应用程序提供基础结构和测试帮助程序.
+
+### Python
+- [Eventsoucing in Python](https://github.com/johnbywater/eventsourcing)  -成熟，稳定的Python库，用于事件源和DDD.  支持各种数据库，域事件的不同排序，应用程序级别加密，快照，乐观并发控制和流程事件.  可以独立于基础架构定义应用程序以及整个应用程序系统，并以不同的方式（单线程，多线程，计时，步进，多进程，参与者模型）和不同的基础架构运行.
 
 ### Ruby
 - [Rails Event Store](https://railseventstore.org)  -Rails Event Store（RES）是一个用于发布，使用，存储和检索事件的库.  它是为Rails应用程序使用事件驱动的体系结构的最佳伴侣.

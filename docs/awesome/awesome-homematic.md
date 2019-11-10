@@ -36,7 +36,7 @@
 ## Mobile Apps
 
 * [@home](https://www.athomeapp.de/) -iOS-（购买inApp即可删除广告）
-* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) -（inApp购买）-具有针对iOS和Android的扩展功能的CCU历史客户端
+* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) -（inApp购买）-具有适用于iOS和Android的扩展功能的CCU历史客户端
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) -安卓 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) -iOS
 * [TinyMatic](https://www.tinymatic.de/) -Android（以前为：HomeDroid）
@@ -54,7 +54,7 @@
 
 ## Alternative Sensors, Actuators and Hardware Modifications
 
-* [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) -使用AskSinPP进行DIY组件的介绍，文档和项目
+* [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) -AskSinPP围绕DIY组件的介绍，文档和项目
 * [Beispiel_AskSinPP](https://github.com/jp112sdl/Beispiel_AskSinPP) -使用的示例草图 [AskSinPP](https://github.com/pa-pa/AskSinPP) 图书馆
 * [HAUS-BUS.DE](http://www.haus-bus.de/) -Homematic有线兼容设备.
 * [Homematic Wired Hombrew Hardware](https://github.com/jfische) -用于Homematic有线的各种Homebrew传感器/执行器.
@@ -75,9 +75,9 @@
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) -Homematic CCU2或Raspberrymatic设备的插件，充当check_mk_agent.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) -jq打包为Homematic CCU3的插件.
 * [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) -蚊子包装为Homematic CCU3和RaspberryMatic的附件
-* [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) -RaspberryMatic插件，RaspberryMatic可以更新自身，通过GUI简化WLAN配置，并且可以安装和更新其他插件，而无需强制重启
+* [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) -RaspberryMatic插件，RaspberryMatic可以自我更新，通过GUI简化WLAN配置，并且可以安装和更新其他插件，而无需强制重启
 * [Redis](https://github.com/hobbyquaker/ccu-addon-redis) -Redis打包为Homematic CCU3和RaspberryMatic的插件
-* [RedMatic](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/)  作为Homematic CCU3和RaspberryMatic的插件.  提供舒适的HomeKit集成和用于将CCU连接到MQTT的特殊节点.
+* [RedMatic](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/)  作为Homematic CCU3和RaspberryMatic的插件.  提供舒适的HomeKit集成以及用于将CCU连接到MQTT的特殊节点.
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) -用于Homematic CCU的WebUI.
 * [XML-API](https://github.com/hobbyquaker/xml-api) -通过HTTP / XML简化了CCU访问.
 
@@ -123,6 +123,7 @@
 
 ## Misc
 
+* [eagle-homematic](https://github.com/dersimn/eagle-homematic) -Homematic模块Eagle库.
 * [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) -用于平板安装的框架.
 * [Homematic 3D Druck Collection auf Thingiverse](https://www.thingiverse.com/hobbyquaker/collections/homematic) -围绕Homematic的各个部分进行打印.
 
