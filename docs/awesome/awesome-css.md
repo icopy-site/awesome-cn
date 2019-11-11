@@ -164,7 +164,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Patterns](https://ux.mailchimp.com/patterns) 通过MailChimp
 * [Lighting Design System](https://www.lightningdesignsystem.com/) 通过Salesforce
 * [SASS Style Guide](http://sass-lang.com/styleguide) 由Sass团队
-* [Style Guide](https://www.starbucks.com/static/reference/styleguide/) 星巴克
+* [Style Guide](https://www.starbucks.com/static/reference/styleguide/) by Starbucks
 * [Website Style Guide Resources](http://styleguides.io/examples.html) 很棒的人
 
 查看更多样式指南，网址为 [Website Style Guide Resources](http://styleguides.io/)
@@ -280,7 +280,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Nicolas Gallagher](https://twitter.com/necolas) -@twitter的软件工程师.
 * [Harry Roberts](https://twitter.com/csswizardry)-顾问前端架构师：@ google，@ Etsy，@ kickstarter，@ BBC，@ Deloitte，@ FT等.
 * [Phil Walton](https://twitter.com/philwalton) -Google的工程师•开源倡导者•开发人员•设计人员•作家.
-* [Lea Verou](https://twitter.com/LeaVerou) -研究助理@ MIT_CSAIL，@ CSSWG IE，@ OReillyMedia作者，例如@ W3C员工.
+* [Lea Verou](https://twitter.com/LeaVerou) - Research Assistant @MIT_CSAIL, @CSSWG IE, @OReillyMedia author, Ex @W3C staff.
 * [Manoela Ilic](https://twitter.com/crnacura) -... aka Mary Lou @codrops ༶ CSS和HTML是我的蜡笔༶对认知科学，AI，HCI，UI设计和天体物理学感兴趣༶数字游牧.
 * [Una Kravets](https://twitter.com/Una)  -前端@IBMDesign.  鼓吹，社区建设者和手工匠.  STEMinist :)开源所有事物.
 * [Chris Coyier](https://twitter.com/chriscoyier)  -设计器@CodePen.  作家@Real_CSS_Tricks.
@@ -288,7 +288,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Eric Bidelman](https://twitter.com/ebidel) -Google的工程师，负责Chrome，Web组件和Polymer.
 * [Patrick Hamann](https://twitter.com/patrickhamann) -山区，手工啤酒和发现新食物的恋人.
 * [Dave McFarland](https://twitter.com/davemcfarland) -Web开发人员，CSS的作者：The Missing Manual，JavaScript和jQuery.
-* [L. David Baron](https://twitter.com/davidbaron) -Mozilla开发人员，CSS和W3C标准外交官.
+* [L. David Baron](https://twitter.com/davidbaron) -Mozilla开发人员，CSS和W3C标准外交官。
 * [Daniel Glazman](https://twitter.com/glazou)  -W3C CSS工作组联合主席，企业家，软件工程师，极客，两个孩子的父亲，通晓多国语言的人，爱鸭子的人.  没事  推文严格是我的.
 * [The Chris Eppstein](https://twitter.com/chriseppstein)  -爱.  讨厌恨.  有一个踢屁股的家庭.  编写代码.  领导样式表技术@LinkedIn.
 * [앗킨스 탭](https://twitter.com/tabatkins) -从字面上看，詹恩·希弗（Jenn Schiffer）的妈妈.
@@ -342,13 +342,14 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) -精选的有用CSS片段集合，您可以在30秒或更短的时间内理解.
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) -深入介绍OOCSS，BEM，SMACSS，并提供示例.
 * [Flexbox video tutorial](https://flexbox.io/) -Wes Bos提供的免费视频课程，用于学习flexbox.
+* [CSS Grids videos tutorial](https://cssgrid.io/) -Wes Bos提供的免费视频课程，用于学习CSS网格.
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Maintainers
 
 [sotayamashita]：https://github.com/sotayamashita
-[Rishabh04-02]:  https://github.com/Rishabh04-02
+[Rishabh04-02]：https://github.com/Rishabh04-02
 [troxler]：https：//github.com/troxler
 
 [@sotayamashita] [sotayamashita]，[@ troxler] [troxler]，[@ Rishabh04-02] [Rishabh04-02]和您！

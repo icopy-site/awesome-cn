@@ -18,7 +18,7 @@
 - [MapStruct](https://github.com/mapstruct/mapstruct) -代码生成器，它基于约定之上的配置方法简化了不同bean类型之间的映射.
 - [ModelMapper](https://github.com/jhalterman/modelmapper) -智能对象映射库，可自动将对象相互映射.
 - [Orika](https://github.com/orika-mapper/orika) JavaBean映射框架，将数据（除其他功能外）从一个对象递归复制到另一个对象.
-- [reMap](https://github.com/remondis-it/remap) -基于Lambda和方法句柄的映射，如果对象具有不同的名称，则需要代码，而无需注释.
+- [reMap](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
 - [Selma](https://github.com/xebia-france/selma) -基于注释处理器的bean映射器.
 
 ### Build
@@ -66,7 +66,7 @@
 - [Jexer](https://gitlab.com/klamonte/jexer)  -先进的控制台（和Swing）文本用户界面（TUI）库，带有可拖动鼠标的窗口，内置的终端窗口管理器和sixel图像支持.  看起来像 [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [JLine](https://github.com/jline/jline3) -包括来自现代炮弹的功能，例如完成或历史记录.
 - [JOpt Simple](https://jopt-simple.github.io/jopt-simple) - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.
-- [picocli](http://picocli.info) -ANSI颜色和样式的使用有助于基于注释的POSIX / GNU /任何语法，子命令，选项和位置参数的强类型化.
+- [picocli](http://picocli.info) -使用中的ANSI颜色和样式有助于基于注释的POSIX / GNU /任何语法，子命令，选项和位置参数的强类型化.
 - [Text-IO](https://github.com/beryx/text-io) -帮助创建基于控制台的完整应用程序.
 - [Lanterna](https://github.com/mabe02/lanterna)  -简单的控制台文本GUI库，类似于curses.  （仅限LGPL-3.0）
 
@@ -167,7 +167,7 @@
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) -高性能JDBC连接池.
 - [jasync-sql](https://github.com/jasync-sql/jasync-sql) -适用于MySQL和PostgreSQL的异步DB驱动程序.
 - [JDBI](http://jdbi.org) -方便的JDBC抽象.
-- [Jedis](https://github.com/xetorthio/jedis) - Small client for interaction with Redis, with methods for commands.
+- [Jedis](https://github.com/xetorthio/jedis) -用于与Redis交互的小型客户端，带有命令方法.
 - [Jest](https://github.com/searchbox-io/Jest) -Elasticsearch REST API的客户端.
 - [jetcd](https://github.com/justinsb/jetcd) -etcd的客户端库.
 - [Jinq](https://github.com/my2iu/Jinq) -通过Java 8 Lambda的符号执行（在JPA或jOOQ之上）进行类型安全的数据库查询.
@@ -493,7 +493,7 @@
 - [Apache Kafka](https://kafka.apache.org) -高吞吐量的分布式消息传递系统.
 - [Apache Pulsar](https://pulsar.apache.org) -分布式发布/子消息系统.
 - [Apache RocketMQ](https://rocketmq.apache.org) -快速，可靠且可扩展的分布式消息传递平台.
-- [Apache Qpid](https://qpid.apache.org) - Apache Qpid makes messaging tools that speak AMQP and support many languages and platforms.
+- [Apache Qpid](https://qpid.apache.org) -Apache Qpid开发了使用AMQP并支持多种语言和平台的消息传递工具.
 - [EventBus](https://github.com/greenrobot/EventBus) -简单的发布/订阅事件总线.
 - [Hermes](http://hermes.allegro.tech) -建立在Kafka之上的快速可靠的消息代理.
 - [JeroMQ](https://github.com/zeromq/jeromq) -实施ZeroMQ.
@@ -608,6 +608,7 @@
 - [MINA](https://mina.apache.org) -抽象的，事件驱动的异步I / O API，用于通过Java NIO在TCP / IP和UDP / IP上进行网络操作.
 - [Netty](https://netty.io) -构建高性能网络应用程序的框架.
 - [Nifty](https://github.com/facebook/nifty) -在Netty上实现Thrift客户端和服务器.
+- [ServiceTalk](https://github.com/apple/servicetalk) -基于Netty构建的框架，具有针对特定协议量身定制的API，并支持多种编程范例.
 - [sshj](https://github.com/hierynomus/sshj) -以编程方式使用SSH，SCP或SFTP.
 - [TLS Channel](https://github.com/marianobarrios/tls-channel) -通过SSLEngine实现ByteChannel接口，从而启用易于使用的（类似于套接字的）TLS.
 - [Undertow](http://undertow.io)  -提供基于NIO的阻塞和非阻塞API的Web服务器.  在WildFly中用作网络层.  （仅限LGPL-2.1）
@@ -653,7 +654,7 @@
 
 *用于性能分析，性能分析和基准测试的工具.*
 
-- [fastThread ![c]](http://fastthread.io) - Analyze and visualize thread dumps with a free cloud-based upload interface.
+-[fastThread！[c]]（http://fastthread.io）-使用免费的基于云的上传界面分析和可视化线程转储.
  -[GCeasy！[c]]（http://gceasy.io）-分析和可视化GC日志的工具.  它提供了一个免费的基于云的上传界面.
 - [honest-profiler](https://github.com/jvm-profiling-tools/honest-profiler) -低开销，无偏差的采样分析器.
 - [jHiccup](https://github.com/giltene/jHiccup) -记录和记录平台JVM停顿.
@@ -678,7 +679,7 @@
 - [ClassScan](http://commons.apache.org/sandbox/commons-classscan) -查找类接口，方法，字段和注释而无需加载.
 - [CLI](http://commons.apache.org/proper/commons-cli) -命令行参数解析器.
 - [CLI2](http://commons.apache.org/sandbox/commons-cli2) 重新设计Commons CLI.
-- [Codec](http://commons.apache.org/proper/commons-codec) -通用的编码/解码算法（例如，语音，base64，URL）.
+- [Codec](http://commons.apache.org/proper/commons-codec) - General encoding/decoding algorithms (for example phonetic, base64, URL).
 - [Collections](http://commons.apache.org/proper/commons-collections) -扩展或扩充Java Collections Framework.
 - [Compress](http://commons.apache.org/proper/commons-compress) -定义用于处理tar，zip和bzip2文件的API.
 - [Configuration](http://commons.apache.org/proper/commons-configuration) -读取各种格式的配置/首选项文件.
@@ -708,7 +709,7 @@
 - [JXPath](http://commons.apache.org/proper/commons-jxpath) -使用XPath语法处理Java Bean的实用程序.
 - [Lang](http://commons.apache.org/proper/commons-lang) -为java.lang中的类提供额外的功能.
 - [Logging](https://en.wikipedia.org/wiki/Apache_Commons_Logging) 包装各种日志API的实现.
-- [Math](http://commons.apache.org/proper/commons-math) -轻巧，独立的数学和统计组件.
+- [Math](http://commons.apache.org/proper/commons-math) - Lightweight, self-contained mathematics and statistics components.
 - [Monitoring](http://commons.apache.org/sandbox/commons-monitoring) -监视旨在为Java应用程序提供一个简单但可扩展的监视解决方案.
 - [Nabla](http://commons.apache.org/sandbox/commons-nabla) -Nabla提供了自动区分类，可以生成以Java语言实现的任何功能的派生类.
 - [Net](http://commons.apache.org/proper/commons-net) -网络实用程序和协议实现的集合.
@@ -869,7 +870,7 @@
 - [Cukes-REST](https://github.com/ctco/cukes-rest) -用于使用Cucumber进行REST服务测试的Gherkin步骤的集合.
 - [J8Spec](https://github.com/j8spec/j8spec) -遵循类似Jasmine的语法.
 - [JBehave](http://jbehave.org) -描述故事的可广泛配置的框架.
-- [JGiven](http://jgiven.org) -提供流利的API，可以简化组成。
+- [JGiven](http://jgiven.org) -提供流利的API，可以简化组成.
 - [Lamdba Behave](https://github.com/RichardWarburton/lambda-behave) -旨在提供流利的API，以长而描述性的句子编写测试，使句子看起来像普通的英语.
 - [Serenity BDD](https://www.thucydides.info) -与Cucumber，JBehave和JUnit一起使用的自动验收测试和报告库，使编写高质量的可执行规范变得更加容易.
 

@@ -73,7 +73,7 @@
 - [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) -了解如何使用Processing阅读，映射和说明数据.
 - [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) -加入Processing领域的信息设计师Nicholas Felton.
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) -加入Nicholas Felton，获取有关数据可视化的智能，全面且启发性的介绍.
-- [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
+- [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) -与约书亚·戴维斯（Joshua Davis）一起学习生成艺术和艺术处理.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/)  -Matt DesLauriers的工作坊.  教您有关生成艺术，交互式动画，3D图形和着色器的知识.
 
 
@@ -143,7 +143,7 @@
 - [picogl.js](https://github.com/tsherif/picogl.js) -最小的WebGL 2渲染库.
 - [Alfrid](https://github.com/yiwenl/Alfrid) -WebGL工具集.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) -用于使用HTML 5和WebGL构建3D游戏的完整JavaScript框架.
-- [twigl](https://github.com/greggman/twgl.js) -Tiny WebGL帮助程序库.
+- [twigl](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 - [luma.gl](https://github.com/uber/luma.gl) -用于数据可视化的WebGL2组件.
 - [css-doodle](https://css-doodle.com/) -使用CSS绘制图案的Web组件.
 
@@ -157,6 +157,8 @@
 - [VirtualMapper](https://github.com/baku89/VirtualMapper) -用于投影映射的实时预览工具.
 - [Millumin](https://www.millumin.com/v3/index.php) [Mac]-用于创建和执行交互式视听节目的软件.
 - [Smode](https://smode.fr/) [Win]-实时2D / 3D创建，合成和视频映射引擎.
+- [Veejay](http://veejayhq.net/) [Linux]-一种现场表演工具，具有简单的非线性编辑功能，可从多个来源（文件，设备，流...）进行混合
+
 
 ### Online
 
@@ -220,7 +222,7 @@
 - [Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) -有关WebGL 2.0的YouTube播放列表.
 - [Modern OpenGL 3.0+ Tutorials](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) -有关现代OpenGL的YouTube播放列表.
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) -有关顶点着色器的YouTube播放列表.
-- [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
+- [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) -YouTube播放列表深入到three.js.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) -YouTube播放列表，教您如何制作着色器，从使用着色器的零知识开始.
 - [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) -Greg Tatum的WebGL闪电介绍.
 
@@ -245,7 +247,7 @@
 - [Introduction to shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) -使用threejs的着色器简介的第1部分.
 - [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) -从创意编码器的角度介绍three.js.
 - [Experimenting with Three.js shaders and the ShaderMaterial](http://blog.2pha.com/experimenting-threejs-shaders-and-shadermaterial) -自定义网格着色器材料介绍.
-- [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - Shader tutorial in the context of lwjgl-basics.
+- [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) -在lwjgl-basics上下文中的着色器教程.
 - [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) -着色器入门.
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) -上一部分的第二部分.
 - [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) -片段着色器的简要介绍.
@@ -280,7 +282,7 @@
 - [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html) -如何使用Regl创建GPGPU粒子.
 - [WebGL Tutorial: Directional Shadow Mapping without extensions](https://github.com/terkelg/awesome-creative-coding/blob/master/9www.chinedufn.com/webgl-shadow-mapping-tutorial/) -实时定向光影映射背后的概念介绍.
 - [WebGL Quest](http://xem.github.io/articles/#webgl_quest_2) -一个教程和一系列有用的资源，可轻松使用WebGL raymarching和距离功能.
-- [Exploring bump mapping with WebGL](http://apoorvaj.io/exploring-bump-mapping-with-webgl.html) -介绍不同的凹凸贴图技术.
+- [Exploring bump mapping with WebGL](http://apoorvaj.io/exploring-bump-mapping-with-webgl.html) - Introduction to different bump mapping techniques.
 - [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) -甲板上的OpenGL / GLSL着色器编程.
 - [Particles in a Simplex Noise Flow Field](https://codepen.io/DonKarlssonSan/post/particles-in-simplex-noise-flow-field) -Perlin噪声流场教程.
 - [Flow Fields, Part 1](https://www.bit-101.com/blog/2017/10/23/flow-fields-part-i/) [Part 2](https://www.bit-101.com/blog/2017/10/28/flow-fields-part-ii/) -流场介绍，也称为矢量场.
@@ -292,7 +294,7 @@
 
 #### Canvas
 
-- [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Profound introduction to the canvas API.
+- [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) -关于canvas API的深刻介绍.
 - [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) -Seb Lee-Delisle的画布教程合集.
 
 #### Hardware
@@ -321,7 +323,7 @@
 - [Fragment-oundry](http://hughsk.io/fragment-foundry) -交互式片段着色器教程.
 - [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) -有关光线跟踪的Shadertoy教程.
 - [HOWTO: Ray Marching](https://www.shadertoy.com/view/XllGW4) -关于Ray Marching的Shadertoy教程.
-- [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) -Shadertoy raymarch教程.
+- [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.
 - [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) -Shadertoy GLSL 2D教程.
 - [Bubble Breakdown](http://mrl.nyu.edu/~perlin/bubble_breakdown/) -着色器由Perlin分解.
 - [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) -互动式着色器玩具，用于编写光线行进器.
@@ -435,7 +437,7 @@
 - [Model Zoo](https://modelzoo.co/) -探索开源深度学习代码和预训练的模型.
 - [Runway](https://runwayapp.ai/) -向设计和创意平台添加人工智能功能的工具包.
 - [Lobe](https://lobe.ai/) -使用简单的视觉界面构建，训练和运送自定义深度学习模型.
-- [ModelDepot](https://modeldepot.io/) -用于发现，共享和讨论易于使用和经过预训练的机器学习模型的平台.
+- [ModelDepot](https://modeldepot.io/) - Platform for discovering, sharing, and discussing easy to use and pre-trained machine learning models.
 
 ## Inspiration
 

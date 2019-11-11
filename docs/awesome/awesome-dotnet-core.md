@@ -34,7 +34,7 @@
 * GraphQL
   * [Dapper.GraphQL](https://github.com/landmarkhw/Dapper.GraphQL) -一个旨在将Dapper和graphql-dotnet项目集成在一起的库，主要考虑的是易用性和性能.
   * [graphql-aspnetcore](https://github.com/JuergenGutsch/graphql-aspnetcore) -ASP.NET Core MiddleWare创建GraphQL端点.
-  * [graphql-convention](https://github.com/graphql-dotnet/conventions) -此库是顶部的补充层，允许您使用现有的属性获取器和方法作为字段解析器，将.NET类自动包装到GraphQL模式定义中
+  * [graphql-convention](https://github.com/graphql-dotnet/conventions) -该库是顶部的补充层，使您可以使用现有的属性获取器和方法作为字段解析器，将.NET类自动包装到GraphQL模式定义中
   * [graphiql-dotnet](https://github.com/JosephWoodward/graphiql-dotnet) -用于ASP.NET Core的GraphiQL中间件.
   * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) -基于.NET Core的GraphQL [https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js).
   * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) -用于.NET的GraphQL.
@@ -74,10 +74,10 @@
 * [CAP](https://github.com/dotnetcore/CAP) -具有本地持久消息功能的EventBus，用于SOA或微服务体系结构中的系统集成.
 * [Carter](https://github.com/CarterCommunity/Carter) - Carter is a library that allows Nancy-esque routing for use with ASP.Net Core.
 * [Chromely](https://github.com/mattkol/Chromely) -轻巧的替代Electron.NET，Electron for .NET / .NET Core
-* [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) -用于.NET的ETL框架（用于CSV，Flat，Xml，JSON，键值格式的文件的解析器/编写器）.
+* [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) -用于.NET的ETL框架（用于CSV，Flat，Xml，JSON，键值格式文件的解析器/编写器）.
 * [CQRSlite](https://github.com/gautema/CQRSlite) - Lightweight framework for helping writing CQRS and Eventsourcing applications in C#.
 * [dataaccess_aspnetcore](https://github.com/digipolisantwerp/dataaccess_aspnetcore) -DataAccess Toolbox包含使用工作单元和存储库模式在带有Entity Framework Core 1.0的ASP.NET Core中进行数据访问的基类.
-* [DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore) -用于基于ASP.NET Core构建高质量Web应用程序的轻量级和可扩展基础结构.
+* [DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore) - Lightweight and Extensible Infrastructure for Building High Quality Web Applications Based on ASP.NET Core.
 * [DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) -.NET Core库，用于将程序集作为插件加载.
 * [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)  -DotnetSpider，一个类似于WebMagic和Scrapy的.NET Standard Web爬网库.  它是.NET的轻量级，高效且快速的高级Web爬网和抓取框架.
 * [DotNetty](https://github.com/Azure/DotNetty) -Netty端口，事件驱动的异步网络应用程序框架.
@@ -102,7 +102,7 @@
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) -适用于Golang和C的超快速分布式演员# [http://proto.actor](http://proto.actor).
 * [resin](https://github.com/kreeben/resin) -具有HTTP API和可插拔读/写管道的16位宽矢量空间搜索引擎.
 * [RService.io](https://github.com/Stoom/RService.IO) -专注于速度和易用性的ASP.Net Core RESTful微服务框架.
-* [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all [https://servicestack.net](https://servicestack.net).
+* [ServiceStack](https://github.com/ServiceStack/ServiceStack) -为所有人精心设计，速度快，完全愉悦的Web服务 [https://servicestack.net](https://servicestack.net).
 * [Steeltoe OSS](https://github.com/SteelToeOSS) -用于常见微服务模式的.NET工具包.
 * [Strathweb.TypedRouting.AspNetCore](https://github.com/filipw/Strathweb.TypedRouting.AspNetCore) -在ASP.NET Core MVC项目中启用强类型路由的库.
 * [Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
@@ -307,7 +307,7 @@
 * [ProxyKit](https://github.com/damianh/ProxyKit) -在ASP.NET Core上创建代码优先的HTTP反向代理的工具包
 
 ### E-Commerce and Payments
-* [nopCommerce](https://github.com/nopSolutions/nopCommerce) -具有广泛的社区和充满新功能，主题和插件的市场的免费开源电子商务购物车（ASP.NET MVC / ASP.NET Core MVC）.
+* [nopCommerce](https://github.com/nopSolutions/nopCommerce) - Free open-source ecommerce shopping cart (ASP.NET MVC / ASP.NET Core MVC ) with a vast community and a market place full of new features, themes and plugins.
 * [GrandNode](https://github.com/grandnode/grandnode) -基于ASP.NET Core 2.1和MongoDB的多平台，免费，开源电子商务购物车 [nopCommerce](https://github.com/nopSolutions/nopCommerce).
 * [PayPal](https://github.com/paypal/PayPal-NET-SDK) -用于PayPal RESTful API的.NET SDK.
 * [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) -建立在.NET Core上的超级简单的电子商务系统.
@@ -351,7 +351,7 @@
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) -多平台.NET UI框架（以前称为Perspex）.
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) -基于Avalonia的文本编辑器组件，由 [AvalonEdit](https://github.com/icsharpcode/AvalonEdit)
 * [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) -在控制台程序中创建进度栏的库
-* [Qml.Net](https://github.com/pauldotknopf/Qml.Net) - A cross-platform Qml/.NET integration for Mono/.NET/.NET Core.
+* [Qml.Net](https://github.com/pauldotknopf/Qml.Net) -用于Mono / .NET / .NET Core的跨平台Qml / .NET集成.
 * [WinApi](https://github.com/prasannavl/WinApi) -简单，直接，超薄的CLR库，用于具有自动化，窗口，DirectX，OpenGL和Skia帮助器的高性能Win32 Native Interop.
 
 ### IDE
@@ -373,14 +373,14 @@
 * [Castle.Windsor](https://github.com/castleproject/Windsor) 温莎城堡是可用于.NET的同类最佳，成熟的Inversion of Control容器.
 * [DryIoc](https://github.com/dadhi/DryIoc) -用于.NET的快速，小型，功能齐全的IoC容器.
 * [Grace](https://github.com/ipjohnson/Grace) -Grace是一个功能丰富的依赖注入容器，在设计时考虑了易用性和性能.
-* [Inyector](https://github.com/davidrevoledo/Inyector) -AspNetCore的依赖注入自动化 
-* [Lamar](https://github.com/jasperfx/lamar)  -.NET的依赖注入/控制反转工具.  （以前是StructureMap）
-* [LightInject](https://github.com/seesharper/LightInject) -超轻量IoC容器 [http://www.lightinject.net](http://www.lightinject.net).
+* [Inyector](https://github.com/davidrevoledo/Inyector) -AspNetCore的依赖注入自动化
+* [Lamar](https://github.com/JasperFx/lamar) -快速反转罗斯林制酒厂的控制工具和杂物.
+* [LightInject](https://github.com/seesharper/LightInject) -超轻量的IoC容器.
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) -简单，灵活和快速的依赖注入库，可促进最佳实践，以引导开发人员迈向成功之路.
 * [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻巧，可移植的依赖项注入框架.
 
 ### Logging
-* [common-logging](https://github.com/net-commons/common-logging) -.NET的便携式日志记录抽象 [http://net-commons.github.io/common-logging](http://net-commons.github.io/common-logging).
+* [common-logging](https://github.com/net-commons/common-logging) -.NET的便携式日志记录抽象.
 * [dnxcore-logging-logstash](https://github.com/jvandevelde/dnxcore-logging-logstash) -使用UDP和Redis传输的.NET Core应用程序的Logstash日志记录扩展.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) -出色的.NET客户端
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) -流畅的日志记录api，可用于记录整个应用程序中的消息.
@@ -408,7 +408,7 @@
 * [MailKit](https://github.com/jstedfast/MailKit) -用于IMAP，POP3和SMTP的跨平台.NET库.
 * [MailMergeLib](https://github.com/axuno/MailMergeLib) -SMTP邮件客户端库，为文本，嵌入式图像和附件提供舒适的邮件合并功能，以及良好的吞吐量和发送邮件的容错能力.
 * [MimeKit](https://github.com/jstedfast/MimeKit) -跨平台的.NET MIME创建和解析器库，支持S / MIME，PGP，DKIM，TNEF和Unix mbox线轴.
-* [netDumbster](https://github.com/cmendible/netDumbster)  -用于测试的.Net Fake SMTP服务器.  受欢迎的Dumbster的克隆.
+* [netDumbster](https://github.com/cmendible/netDumbster) - a .Net Fake SMTP Server used for testing. Clone of the popular Dumbster.
 * [Papercut](https://github.com/ChangemakerStudios/Papercut) -简单的桌面SMTP服务器
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 * [SendGrid Client](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
@@ -425,7 +425,7 @@
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) -AgileMapper是一个零配置，高度可配置的对象-对象映射器，具有可见的执行计划.
 * [AspNetCore Extension Library](https://github.com/sgjsakura/AspNetCore) -ASP.NET Core扩展库.
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) -.NET中基于约定的对象-对象映射器.
-* [Baget](https://github.com/loic-sharma/BaGet) - A lightweight NuGet server.
+* [Baget](https://github.com/loic-sharma/BaGet) -轻量级的NuGet服务器.
 * [Bleak](https://github.com/Akaion/Bleak) -Windows本机DLL注入库.
 * [Bullseye](https://github.com/adamralph/bullseye/) -用于描述和运行目标及其依赖关系的.NET程序包.
 * [Castle.Core](https://github.com/castleproject/Core) -Castle Core，包括Castle DynamicProxy，日志记录服务和DictionaryAdapter [http://www.castleproject.org](http://www.castleproject.org).
@@ -455,6 +455,7 @@
 * [JqueryDataTablesServerSide](https://github.com/fingers10/JqueryDataTablesServerSide) -ASP.NET Core服务器端处理库，用于在数据库级别具有Excel导出和TagHelper支持的多列过滤，排序和分页的Jquery数据表.
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) -.NET包装 [libSass](http://sass-lang.com/libsass) 支持虚拟文件系统的库.
 * [markdig](https://github.com/lunet-io/markdig) -用于.NET的快速，强大，兼容CommonMark的可扩展Markdown处理器.
+* [NFlags](https://github.com/bartoszgolek/NFlags)  -简化了CLI参数解析的简单库.  库还允许“开箱即用”打印使用帮助.
 * [NReco.LambdaParser](https://github.com/nreco/lambdaparser) -将字符串表达式（公式，方法调用，条件）解析为LINQ表达式树，可以将其编译为lambda并求值.
 * [NuGet Trends](https://github.com/NuGetTrends/nuget-trends) -具有NuGet软件包下载计数统计信息的网站.
 * [Otp.NET](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
@@ -467,6 +468,7 @@
 * [PdfReport.Core](https://github.com/VahidN/PdfReport.Core) -PdfReport.Core是代码优先报告引擎，它建立在iTextSharp.LGPLv2.Core和EPPlus.Core库的顶部.
 * [Scientist](https://github.com/github/Scientist.net)  -.NET库，用于仔细重构关键路径.  它是GitHub的Ruby Scientist库的端口.
 * [Scrutor](https://github.com/khellang/Scrutor) -Microsoft.Extensions.DependencyInjection的程序集扫描扩展.
+* [Sheller](https://github.com/twitchax/Sheller) -一个.NET库，使shell命令超级简单和流畅.
 * [SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET) -string.Format的可扩展替代.
 *股票
   * [Trady](https://github.com/lppkarl/Trady) -方便的库，用于计算技术指标，它的目标是成为一个自动交易系统，提供股票数据输入，指标计算，战略制定和自动交易.
@@ -506,7 +508,7 @@
   * [EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) -轻松获取任何实体的主键（包括组合键）.
   * [EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) -获取实体原始值的代理对象（对Property（“ ...”）.OriginalValue进行类型化访问）.
   * [EntityFramework.VersionedProperties](https://github.com/NickStrupat/EntityFramework.VersionedProperties) -自动保留对指定属性所做更改的审核历史记录的类.
-  * [LINQKit](https://github.com/scottksmith95/LINQKit) -LINQ对SQL和Entity Framework高级用户的一组免费扩展.
+  * [LINQKit](https://github.com/scottksmith95/LINQKit) -LINQ对SQL和Entity Framework高级用户的免费扩展集.
   * [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) -在mysql-net / MySqlConnector之上构建的MySql实体框架核心提供程序.
   * [spectre.query](https://github.com/spectresystems/spectre.query) -用于Entity Framework Core的简单查询语言.
 * [Dapper](https://github.com/StackExchange/Dapper) -用于.NET的简单对象映射器.
@@ -515,7 +517,7 @@
   * [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) -Dapper的CRUD.
 * [FreeSql](https://github.com/2881099/FreeSql) -在dotnet中方便的ORM，支持Mysql，Postgresql，SqlServer，Oracle和Sqlite.
 * [Limebean](https://nick-lucas.github.io/LimeBean/)  -Hybrid-ORM，设计简单易用，不会完全隐藏SQL，同时具有您期望从ORM获得的所有好处.  受RedBeanPHP启发.
-* [LINQ to DB (linq2db)](https://linq2db.github.io/) -最快的LINQ数据库访问库，在POCO对象和数据库之间提供了一个简单，轻巧，快速且类型安全的层，可支持10多个具有完整SQL支持的数据库引擎.
+* [LINQ to DB (linq2db)](https://linq2db.github.io/) -最快的LINQ数据库访问库，在POCO对象和数据库之间提供了一个简单，轻便，快速且类型安全的层，可支持10多个具有完整SQL支持的数据库引擎.
 * [nhibernate-core](https://github.com/nhibernate/nhibernate-core) -NHibernate对象关系映射器.
 * [NEventStore](https://github.com/NEventStore/NEventStore)  -使用事件源作为存储机制时，用于抽象化不同存储实现的持久性库.  该库的开发重点是DDD / CQRS应用程序.
 * [NPoco](https://github.com/schotime/NPoco)  -将查询结果映射到POCO对象上的简单microORM.  基于PetaPoco的Schotime分支的项目.

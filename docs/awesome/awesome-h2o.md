@@ -4,11 +4,11 @@
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://raw.githubusercontent.com/h2oai/h2o-3)
 
-以下是精选的所有令人敬畏的项目，应用程序，研究，教程，课程和书籍的清单 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供了许多有监督和无监督机器学习算法的并行实现，例如通用线性模型，梯度提升机（包括XGBoost），随机森林，深度神经网络（深度学习），堆叠式集成，朴素贝叶斯，Cox比例风险，K均值，PCA，Word2Vec以及全自动机器学习算法（AutoML）.
+以下是精选的所有出色项目，应用程序，研究，教程，课程和书籍的清单 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供了许多有监督和无监督机器学习算法的并行实现，例如通用线性模型，梯度提升机（包括XGBoost），随机森林，深度神经网络（深度学习），堆叠式集成，朴素贝叶斯，Cox比例风险，K均值，PCA，Word2Vec以及全自动机器学习算法（AutoML）.
 
 [H2O.ai](http://www.h2o.ai/about/) 产生很多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) 和 [videos](https://www.youtube.com/user/0xdata) 有关H2O的内容，但以下列表由更大的H2O用户社区产生的精彩内容组成.
 
- 我们刚刚开始使用此列表，因此非常感谢拉取请求！  请查看 [contribution guidelines](https://github.com/h2oai/awesome-h2o/blob/master/contributing.md)  在提出拉取请求之前.  如果您不是GitHub用户，但想做出贡献，请发送电子邮件至community@h2o.ai.
+ 我们刚刚开始使用此列表，因此非常感谢拉取请求！  请检查 [contribution guidelines](https://github.com/h2oai/awesome-h2o/blob/master/contributing.md)  在提出拉取请求之前.  如果您不是GitHub用户，但想做出贡献，请发送电子邮件至community@h2o.ai.
 
 如果您也认为H2O很棒，请⭐ [H2O GitHub repository](https://github.com/h2oai/h2o-3/).
 
@@ -35,16 +35,17 @@
 ## Books
 
 - [Hands on Time Series with R](https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r)  拉米·克里斯平（Rami Krispin）.  （2019）
-- [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330)  Karthik Ramasubramanian，Abhishek Singh.  （2016）
-- [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)  达伦·库克.  （2016）
-- [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7)  托马斯·丁斯莫尔.  （2016）
-- [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/)  布拉德利·埃夫隆（Bradley Efron），特雷弗·哈斯蒂（Trevor Hastie）.  （2016）
-- [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials)  约书亚·威利（Joshua F.  （2016）
+- [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330)  Karthik Ramasubramanian，Abhishek Singh.  （2016年）
+- [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)  达伦·库克.  （2016年）
+- [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7)  托马斯·丁斯莫尔.  （2016年）
+- [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/)  布拉德利·埃夫隆（Bradley Efron），特雷弗·哈斯蒂（Trevor Hastie）.  （2016年）
+- [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials)  约书亚·威利（Joshua F.  （2016年）
 - [Spark in Action](https://www.manning.com/books/spark-in-action)  Petar Zecevic，Marko Bonaqi.  （2016）
 - [Handbook of Big Data](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071) PeterBühlmann，Petros Drineas，Michael Kane，Mark J.van der Laan（2015）
 
 ## Research Papers
 
+- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.biorxiv.org/content/10.1101/792754v1) 史蒂文·N·哈特（Steven N.Hart），埃里克·C·波利（Eric C.Polley），埃米拉·希梅利斯（Hermella Shimelis），悉达多·亚达夫（Siddhartha Yadav），弗格斯·J·库什（Fergus J.Couch）（2019年）
 - [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970)  费尔南多·伊塔诺（Fernando Itano），里卡多·皮雷斯（Ricardo Pires），米格尔·安吉洛·德·阿布鲁乌·德·索萨（Miguel Angelo de Abreu de Sousa），埃米利奥·德尔·莫拉·埃尔南德萨（Emilio Del-Moral-Hernandeza）.  （2019）
 - [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)   费尔南多·伊塔诺（Fernando Itano），米格尔·安杰洛·德·阿布鲁乌·德·索萨（Emirio Del-Moral-Hernandez）.  （2018）
 - [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B.Auffenberg，Khurshid R.Ghani，Shreyas Ramani，Etiowo Usoro，Brian Denton，Craig Rogers，Benjamin Stockton，David C.Miller，Karandeep Singh.  （2018）
@@ -59,16 +60,16 @@
 - [Use of a machine learning framework to predict substance use disorder treatment success](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable)  劳拉·阿西翁（Laura Acion），戴安娜·凯尔曼斯基（Diana Kelmansky），马克·范德兰（Mark van der Laan），伊桑·萨克（Ethan Sahker），德肖纳·琼斯（DeShauna Jones），斯蒂芬·阿恩德（Stephan Arnd）.  （2017）
 - [Ultra-wideband antenna-induced error prediction using deep learning on channel response data](https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf)  Janis Tiemann，Johannes Pillmann，Christian Wietfeld.  （2017）
 - [Inferring passenger types from commuter eigentravel matrices](http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20)  埃里卡·菲尔（Erika Fille T.  （2017）
-- [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657)  克里斯托弗·克劳斯（Christopher Krauss），宣安·杜（Anna），尼古拉斯·赫克（Nicolas Huckb）.  （2016）
-- [Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)  西尔维奥·多明戈斯（Silvio L.Domingos），隆美尔·卡瓦略（Ronmel N.Carvalho），里卡多·卡瓦略（Ricardo S.  （2016）
-- [Predicting recovery of credit operations on a Brazilian bank](http://ieeexplore.ieee.org/abstract/document/7838243/)  RogérioG. Lopes，Rommel N. Carvalho，Marcelo Ladeira，Ricardo S. Carvalho.  （2016）
-- [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)  Ebberth L. Paula，Marcelo Ladeira，Rommel N. Carvalho，ThiagoMarzagão.  （2016）
-- [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490)  Konstantinos N.Vougas，Thomas Jackson，Alexander Polyzos，Michael Liontos，Elizabeth O.Johnson，Vassilis Georgoulias，Paul Townsend，Jiri Bartek，Vassilis G.Gorgoulis.  （2016）
+- [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657)  克里斯托弗·克劳斯（Christopher Krauss），宣安·杜（Anna），尼古拉斯·赫克（Nicolas Huckb）.  （2016年）
+- [Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)  西尔维奥·多明戈斯（Silvio L.Domingos），隆美尔·卡瓦略（Ronmel N.Carvalho），里卡多·卡瓦略（Ricardo S.Carvalho），吉尔赫姆·拉莫斯（Guilherme N.  （2016年）
+- [Predicting recovery of credit operations on a Brazilian bank](http://ieeexplore.ieee.org/abstract/document/7838243/)  RogérioG. Lopes，Rommel N. Carvalho，Marcelo Ladeira，Ricardo S. Carvalho.  （2016年）
+- [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)  Ebberth L. Paula，Marcelo Ladeira，Rommel N. Carvalho，ThiagoMarzagão.  （2016年）
+- [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490)  Konstantinos N.Vougas，Thomas Jackson，Alexander Polyzos，Michael Liontos，Elizabeth O.Johnson，Vassilis Georgoulias，Paul Townsend，Jiri Bartek，Vassilis G.Gorgoulis.  （2016年）
 - [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)  斯特凡妮·佛罗伦萨·维瑟（StéphanieFlorence Visser）.  （2016）
 - [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)  斯坦尼斯瓦夫·格鲁什奇津斯克（KrzysztofUrbański）.  （2016）
-- [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf)  艾琳·莱戴尔（Erin LeDell）.  （2015）
-- [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1)  罗杰里奥·诺曼德（Rogerio Normand），雨果·亚历山大·费雷拉（Hugo Alexandre Ferreira）.  （2015）
-- [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis)  吉尔斯·卢佩（Gilles Louppe）.  （2014）
+- [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf)  艾琳·莱戴尔（Erin LeDell）.  （2015年）
+- [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1)  罗杰欧·诺曼（Rogerio Normand），雨果·亚历山大·费雷拉（Hugo Alexandre Ferreira）.  （2015年）
+- [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis)  吉尔斯·卢佩  （2014）
 
 ## Benchmarks
 
