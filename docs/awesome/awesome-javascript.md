@@ -259,7 +259,7 @@
 * [docco](http://jashkenas.github.io/docco/) 是一个快速且肮脏的，长达一百行的，具有文化编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn)  建立手册.  它将简单的人类可读文本文件转换为roff以进行终端显示，还转换为HTML以进行网络显示.
-* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成有目的的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
+* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为文档生成确定的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
@@ -452,7 +452,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的自以为是的REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 
 ## Streaming
@@ -836,6 +836,7 @@ http://www.listjs.com
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://sdras.github.io/object-explorer/) -可帮助您确定在任何给定时间最好使用哪种本机JavaScript方法的资源
 * [Clipboard.js](https://clipboardjs.com/) -不使用Flash或使用Framework的“复制到剪贴板”.
 * [ky](https://github.com/sindresorhus/ky) -基于浏览器Fetch API的小巧优雅的HTTP客户端.
+* [Fcal](https://github.com/5anthosh/fcal) -数学表达式评估器
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) -有关JavaScript和Web平台的实时视频广播播客.

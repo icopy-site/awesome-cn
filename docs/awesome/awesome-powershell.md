@@ -6,7 +6,7 @@
 
 精选的令人愉快的清单 [PowerShell](https://en.wikipedia.org/wiki/PowerShell) 包和资源.
 
-PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，已针对结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
+PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，已针对处理结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
 它包括命令行外壳程序和关联的脚本语言.
 
 
@@ -23,6 +23,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) -用于在Powershell中与Atlassian的Confluence进行交互的模块（通过使用API​​）.
 * [JiraPS](https://atlassianps.org/module/JiraPS/) -在Powershell中与Atlassian的Jira进行交互的模块（通过使用API​​）.
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) -用于电报API的PowerShell模块
+* [PSTeams](https://github.com/EvotecIT/PSTeams) -用于将格式化的消息发送到Microsoft Teams Channel的PowerShell模块.
 
 ## Blogs
 
@@ -39,7 +40,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [Exploring PowerShell Automation](https://www.manning.com/books/exploring-powershell-automation) -一个免费的电子书采样器，概述了如何管理您的环境.
 * [PowerShell in Depth](https://www.manning.com/books/powershell-in-depth)  -管理员参考.  解释和演示了每种主要的Shell技术，技术和策略，为管理员在Shell中所做的几乎所有工作提供了全面的参考.
 * [Windows PowerShell in Action, Third Edition](https://www.manning.com/books/windows-powershell-in-action-third-edition) -综合参考指南的最新版本.
-* [Learn Windows PowerShell in a Month of Lunches, Third Edition](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition)  -专为繁忙的IT专业人员设计的创新教程.  每天只需留出一个小时-午餐时间将是一个完美的选择-一个月，您将以前所未有的速度自动化Windows任务.
+* [Learn Windows PowerShell in a Month of Lunches, Third Edition](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition)  -专为繁忙的IT专业人员设计的创新教程.  每天只需留出一个小时-午餐时间将是一个完美的-一个月，您将以前所未有的速度自动化Windows任务.
 * [Learn PowerShell in a Month of Lunches, Linux and macOS Edition](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition) -以任务为中心的教程，用于使用Microsoft PowerShell管理Linux和macOS系统.
 * [Learn PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches) -有关开发，测试和部署脚本的过程以及工具制作技巧的指南.
 * [The Monad Manifesto, Annotated - Jeffrey Snover](https://leanpub.com/s/4W-ob-YDw2LE2aSMyosCtA.pdf) -语言创建者背后的设计和理论.
@@ -157,7 +158,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 * [PowerShell Unplugged with Jeffrey Snover and Don Jones Ignite 2017](https://www.youtube.com/watch?v=D15vh-ryJGk)  -PowerShell的发明者谈论“可帮助您自动化和管理混合云的最新，最酷的PowerShell功能”.  专注于PowerShell社区.
 * [Getting Started With PowerShell 3.0 Jump Start](https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276) -快速入门系列适用于以前没有使用PowerShell的IT专业人员，并且希望快速学习它.
-* [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) -IT专业人员，请学习高级PowerShell课程，以了解如何将实时管理和自动化脚本转换为有用的可重用工具和cmdlet.
+* [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) -IT专业人员，请参加此高级PowerShell课程，以了解如何将实时管理和自动化脚本转换为有用的可重用工具和cmdlet.
 * [What's New in PowerShell v5](https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434) -通过描述PowerShell版本5.0中一些令人兴奋的新功能.
 * [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) -视频集全面演示了PowerShell开源项目如何在Linux上运行.
 * [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) -PowerShell开源项目及其在Linux上的运行方式的简要介绍.
@@ -188,8 +189,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 ## SQL Server
 
-* [dbachecks](https://dbachecks.io) -SQL Server环境验证（众包的SQL Server DBA检查表）.
-* [dbatools](https://dbatools.io) -帮助SQL Server专业人士在实例迁移等方面提高生产力.
+* [dbatools](https://dbachecks.io) -帮助SQL Server专业人士在实例迁移等方面提高生产力.
 
 ## Misc
 

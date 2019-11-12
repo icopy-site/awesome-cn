@@ -61,6 +61,7 @@ android安全相关资源的集合.
 21. [StaCoAn](https://github.com/vincentcox/StaCoAn)  -跨平台工具，可帮助开发人员，漏洞赏金猎人和道德黑客在移动应用程序上执行静态代码分析.  创建此工具时，重点放在用户界面中的可用性和图形指导上.
 22. [JAADAS](https://github.com/flankerhqd/JAADAS) -基于Soot和Scala的过程内和过程间联合程序分析工具可查找Android应用程序中的漏洞
 23. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
+24. [Quark-Engine](https://github.com/quark-engine/quark-engine) -忽略不清的Android恶意软件计分系统
 
 ### App Vulnerability Scanners
 
@@ -74,8 +75,8 @@ android安全相关资源的集合.
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)-用于评估Android应用程序，逆向工程和恶意软件分析的虚拟机
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) -移动安全框架是一种智能的，多合一的开源移动应用程序（Android / iOS）自动笔测试框架，能够执行静态，动态分析和Web API测试.
-5. [AppUse](https://appsec-labs.com/AppUse/) –为渗透测试定制
-6. [Cobradroid](https://thecobraden.com/projects/cobradroid/) –用于恶意软件分析的自定义图像
+5. [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
+6. [Cobradroid](https://thecobraden.com/projects/cobradroid/) –用于恶意软件分析的自定义映像
 7. [Droidbox](https://github.com/pjlantz/droidbox)
 10. [Drozer](https://github.com/mwrlabs/drozer)
 11. [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) -等效于执行基于存根的代码注入，但不对二进制文件进行任何修改
@@ -91,7 +92,7 @@ android安全相关资源的集合.
 21. [Android Security Evaluation Framework](https://code.google.com/p/asef/) -不再积极发展
 23. [Aurasium](https://github.com/xurubin/aurasium) –通过字节码重写和就地参考监视器为Android应用程序实施实用的安全策略.
 24. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
-25. [Appie](https://manifestsecurity.com/appie/)  -Appie是已预先配置为充当Android Pentesting环境的软件包.  它是完全便携式的，可以在USB记忆棒或智能手机上携带.  这是Android应用程序安全评估中所需的所有工具的一站式答案，并且是现有虚拟机的绝佳替代品.
+25. [Appie](https://manifestsecurity.com/appie/)  -Appie是已预先配置为充当Android Pentesting环境的软件包.  它是完全便携式的，可以在USB记忆棒或智能手机上携带.  这是Android应用程序安全评估所需的所有工具的一站式解决方案，并且是现有虚拟机的绝佳替代方案.
 26. [StaDynA](https://github.com/zyrikby/StaDynA)  -在存在动态代码更新功能（动态类加载和反射）的情况下支持安全应用分析的系统.  该工具结合了Android应用程序的静态和动态分析，以揭示隐藏/更新的行为并使用此信息扩展静态分析结果.
 27. [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) -不完整
 28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) -用于移动应用程序渗透测试和移动恶意软件分析的虚拟机
@@ -175,7 +176,7 @@ android安全相关资源的集合.
 10. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 11. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 12. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) -android-vts扫描设备中的漏洞集
-13. [AppMon](https://github.com/dpnishant/appmon) -AppMon是用于监视和篡改本机macOS，iOS和android应用程序的系统API调用的自动化框架.  它基于Frida.
+13. [AppMon](https://github.com/dpnishant/appmon) -AppMon是用于监视和篡改本地macOS，iOS和android应用程序的系统API调用的自动化框架.  它基于Frida.
 14. [Internal Blue](https://github.com/seemoo-lab/internalblue) -基于Broadcom蓝牙控制器逆向工程的蓝牙实验框架
 15. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~-现在好像死了
 
@@ -197,7 +198,7 @@ android安全相关资源的集合.
 2. [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 3. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 4. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
-5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) -一个阅览室，其中包含有关移动渗透测试，移动恶意软件，移动取证和所有与移动安全相关的主题的分类准确的技术阅读材料~~
+5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) -一个阅读室，其中包含有关移动渗透测试，移动恶意软件，移动取证和所有与移动安全相关的主题的分类准确的技术阅读材料~~
 6. ~~[Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)~~
 
 ## <a name="exploits"/></a>Exploits/Vulnerabilities/Bugs

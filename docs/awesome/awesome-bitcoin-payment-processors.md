@@ -12,7 +12,7 @@
 
 ## Self-Hosted Payment Processors
 
- 自托管付款处理器在您的服务器上运行，可为您提供对整个付款流程和资金的完全控制.  没有第三方的参与-可以显着提高您和您的客户的防审查性，隐私性和安全性. 
+ 自托管支付处理器在您的服务器上运行，可为您提供对整个支付流程和资金的完全控制.  没有第三方的参与-极大地提高了您和您的客户的审查审查抵抗力，隐私和安全性. 
 
  |  处理器|  费用|  闪电|  直接到您的钱包|  转换为菲亚特|  要求|
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
@@ -30,13 +30,14 @@
 | [BitcoinPay](https://www.bitcoinpay.com/en/)  |  0.8％|  没有  没有  是的  有关企业/网站的信息.  可能需要某些文件.  |
 | [Blockonomics](https://www.blockonomics.co/merchants)  |  1％|  没有  是的  通过 [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html)  |  没有
 | [CoinGate](https://coingate.com/accept-bitcoin)  |  1％|  是的  没有  是的  需要某些文件.  |
-| [CoinPayments](https://www.coinpayments.net/)  |  0.5％|  是的  没有  是的  提款可能需要多种形式的身份证明，并且需要结清任何未偿还款项.  |
+| [CoinPayments](https://www.coinpayments.net/)  |  0.5％|  是的  没有  是的  提款可能需要多种形式的身份证明，并且需要结清任何未偿还的款项.  |
 | [GloBee](https://globee.com/)  |  1％或（$ 30-$ 300）/ mo |  是的  没有  通过 [Luno](https://www.luno.com) 和 [Uphold](https://uphold.com/)  |  有关企业/网站的信息.  可能需要某些文件.  |
 | [OpenNode](https://www.opennode.co/)  |  1％|  是的  没有  是的  可能需要验证身份.  也可能需要核实有关已收款项的详细信息或资金来源.  |
 | [Savvy](https://www.savvy.io/)  |  无费用（临时）|  没有  是的  没有  对于接受超过2000美元的付款，ICO和其他类型的筹款，必须事先获得批准.  |
 | [Strike](https://strike.acinq.co/)  |  1％|  仅|  没有  没有  对于公司，是公司名称和实际地址.  |
 | [Payscrypt](https://payscrypt.com/)  |  没有费用|  没有  是的  没有  没有
 | [AtomicPay](https://atomicpay.io/)  |  0.7％+ |  没有  是的  没有  企业需要KYC.  |
+| [Coinremitter](https://coinremitter.com/)  |  0.23％|  没有  没有  没有  没有
 
 ## Merchant Stories
 

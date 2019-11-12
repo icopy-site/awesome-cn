@@ -115,7 +115,7 @@
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
-     Robert Pankowecki和Andrzej Krzywda（Arkency），2014年.
+     Robert Pankowecki和Andrzej Krzywda（方舟），2014年.
   1. [Distributed Teams](https://oduinn.com/book/).
      John O&#39;Duinn着，2018年.
   1. [Remote: Office Not Required](http://37signals.com/remote/).
@@ -175,7 +175,7 @@
   1. [Slasify](https://slasify.com/en/) -来自亚洲的远程技术，艺术/设计和营销机会，包括全球薪资服务.
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
-  1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
+  1. [Vue.js Jobs](https://vuejobs.com/) 在世界各地查找Vue.js职位-单击“远程”选项卡.
   1. [React.js Jobs](https://www.react-jobs.com) 在世界各地查找React.js职位-单击“远程”切换按钮.
   1. [Remote.com](https://remote.com) -尝试自动将您与工作匹配，可以从LinkedIn导入个人资料
   1. [We Love Angular](https://www.weloveangular.com/) 在世界各地找到Angular职位和AngularJS人员-单击“远程Angular职位”链接.
@@ -190,7 +190,7 @@
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)   –来自多个董事会和雇主地点的汇总，对位置，职位类型等敏感.  了解如何使用它 [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [JS Remotely](https://jsremotely.com/) -一块板上的所有远程JavaScript作业
   1. [Remote 4 Me](https://remote4me.com/) -用于技术和非技术领域远程工作的聚合器.
-  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以换取远程职位.
+  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供偏远职位使用.
   1. [RemotePHP.io](https://remotephp.io) -来自网络的远程PHP作业.
   1. [Remote Python](https://www.remotepython.com/) -专门用于远程Python作业的作业板和聚合器.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) -搜寻多个工作板以进行远程工作发布.
@@ -356,6 +356,7 @@
   1. [InVision](https://www.invisionapp.com/company#jobs) -原型，协作和工作流平台.
   1. [Isos Technology](https://careers.isostech.com/) -杰出的Atlassian白金和企业解决方案合作伙伴，使用Atlassian工具帮助组织解决复杂的开发和业务问题.
   1. [Jackson River](https://www.jacksonriver.com/about/jobs) -非营利组织的数字优先技术和策略.
+  1. [Jibble Group](http://careers.jibblegroup.com/) -在15个不同国家/地区的远程团队构建了下一个世界一流的劳动力管理和薪资软件即服务.
   1. [Judge.me](https://judge.me/)  -电子商务审查平台.  我们的公司遍布四大洲.
   1. [Keepsafe](https://www.getkeepsafe.com) -移动优先的隐私产品，使世界更容易选择隐私.
   1. [Khan Academy](https://www.khanacademy.org/careers)  -EdTech.  专注于K-12 STEM的非营利组织.  更少，React，Flux，Backbone，jQuery，Python，Google App Engine，Swift和Objective-C.
@@ -403,7 +404,7 @@
   1. [Pilot](https://pilot.co)  -Pilot是一个软件平台，可消除合同工作中的所有麻烦.  我们为全球数百名具有前瞻性的工程师和设计师寻找工作，谈判合同，发送发票和追讨付款.
   1. [Pleo](https://careers.pleo.io/) -Pleo是一种公司支付卡解决方案，可自动执行费用报告并简化公司支出.
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -在线营养辅导和认证.
-  1. [PreviousNext](https://www.previousnext.com.au) -澳大利亚的Drupal代理商.
+  1. [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
   1. [Prezly](https://www.prezly.com/)  -SaaS PR平台.  PHP，React，JS，Postgres.  100％远程.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) -按需质量检查即服务.
   1. [Reaction Commerce](https://reactioncommerce.com/careers/)  -增长最快的开源电子商务平台.  Node.js，MongoDB，Kubernetes，Docker
