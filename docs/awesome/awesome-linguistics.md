@@ -25,6 +25,7 @@
 
 ### Resources
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) 大型语言注释项目管理指南
+* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) -用于低资源（人类）语言的保护，开发和记录的资源清单.
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)

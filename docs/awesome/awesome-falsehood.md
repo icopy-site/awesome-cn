@@ -267,7 +267,7 @@ code.
 -[关于政治的谬论
 约会]（https://twitter.com/oliver_dw/status/737930439575404544）-
 设计选举系统有其自己的技巧.
-- [Falsehoods About Women In
+-[关于妇女的谬论
 科技]（https://gist.github.com/Su-Shee/5d1a417fa9de19c15477）-关于女性的神话
 在STEM（科学，技术，工程，数学）行业.
 
@@ -289,7 +289,7 @@ API]（http://slinkp.com/falsehoods-programmers-believe-about-apis.html）-
 创建和记录API时要注意的陷阱.
 -[关于谎言
 CSV]]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs）-
-尽管存在RFC4180，但它远非确定的，并且在很大程度上被忽略了.
+尽管存在RFC4180，但它远非定论，在很大程度上被忽略了.
 -[关于包装的错误
 经理]（https://meta-package-manager.readthedocs.io/en/develop/falsehoods.html）-
 包括包裹及其经理.
@@ -297,7 +297,7 @@ CSV]]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs）-
 测试]（https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371）-
 尝试建立有关测试的虚假列表.
 -[顽皮的大清单
-字符串]（https://github.com/minimaxir/big-list-of-naughty-strings）-挑战
+Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 您对字符串的假设.
 - [Popular misconceptions about mtime](https://apenwarr.ca/log/20181113) -部分
 为什么文件mtime比较可能被认为有害的帖子.
@@ -313,6 +313,7 @@ CSV]]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs）-
 complex.
 - [Hi! My name is...](https://www.youtube.com/watch?v=NIebelIpdYk) -这次谈话可能被称为用户名（和其他标识符）的虚假说法.
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom)  -关于/ dev / urandom和/ dev / random的一些事情会一再重复.  他们仍然是错误的.
+- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) -一系列（不仅是）计算机科学专业的学生往往会错误地认为，有时甚至令人惊讶地相信，即使他们（可能）应该更了解.
 
 
 ## Typography

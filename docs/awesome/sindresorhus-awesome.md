@@ -6,7 +6,7 @@
 	<br>
 	<p>
 		<a href="https://triplebyte.com/a/aZxgKGg/d">
-			<b>找工作吗？</b>
+			<b>找工作？</b>
 			<br>
 			 无需简历.  只要证明您可以编码即可.
 			<br>
@@ -60,7 +60,7 @@
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) -移动应用程序开发IDE，测试和分发.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) -虚拟机，使您可以编写更有效，更强大的Linux系统跟踪和监视.
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) -虚拟机，可让您编写更有效，更强大的Linux系统跟踪和监视.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme) -适用于Apple Mac电脑的操作系统.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
@@ -75,7 +75,7 @@
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) -移动开发工具.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) -云平台即服务.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) -信用卡大小的计算机，旨在教孩子们编程，但功能更多.
-- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
+- [Qt](https://github.com/JesseTG/awesome-qt#readme) -跨平台的GUI应用程序框架.
 - [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) -跨浏览器扩展系统.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) -使用Ruby编写适用于iOS，Android，macOS，tvOS和watchOS的跨平台本机应用程序.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) -为不同的电视平台创建应用.
@@ -137,7 +137,7 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) -通用语言，倾向于系统编程和嵌入式，资源受限的软件.
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) -倾向于系统编程和嵌入式，资源受限的软件的通用语言.
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme)
@@ -238,6 +238,7 @@
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) -UI组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics#readme) -有助于了解页面速度和用户体验的指标.
+- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) -实用程序优先的CSS框架，用于快速的UI开发.
 
 
 ## Back-End Development
@@ -361,6 +362,7 @@
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) -游戏中人工智能的材料和数据集.
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) -用于生成跨平台本机代码的高级强类型编程语言.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) -Java游戏框架.
+- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) -游戏引擎.
 
 
 ## Development Environment
@@ -636,7 +638,7 @@
 - [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) -使用计算机解决复杂的科学问题.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 - [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) -用于农业和园艺的开源技术.
-- [Plotters](https://github.com/beardicus/awesome-plotters#readme) -计算机控制的绘图机和其他视觉艺术机器人.
+- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 - [Product Design](https://github.com/teoga/awesome-product-design#readme) -从最初的概念到生产设计产品.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) -将您的数据库转换为GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) -设计和构建软件的学科.

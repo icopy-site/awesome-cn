@@ -107,7 +107,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) -VSC中丰富的1С：Enterprise 8（BSL）语言支持-在VSC中的* .bsl和* .os文件中添加语法高亮显示，为1Сlang添加IntelliSense和语法帮助器
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) -VSC中丰富的1С：Enterprise 8（BSL）语言支持-向VSC中的* .bslи* .os文件添加语法高亮显示，为1Сlang添加IntelliSense和语法帮助器
 
 ## Bash
 
@@ -314,7 +314,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
  &gt;显示Azure资源管理器（ARM）模板的图形预览.  该视图将显示带有正式Azure图标的所有资源，以及资源之间的链接.
 
-![Displays a graphical preview of Azure Resource Manager (ARM) templates](https://github.com/benc-uk/armview-vscode/raw/master/assets/readme/screen1.png)
+![Displays a graphical preview of Azure Resource Manager (ARM) templates](https://raw.githubusercontent.com/benc-uk/armview-vscode/master/assets/readme/screen1.png)
 
 ## [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
 
@@ -340,7 +340,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 &gt;大型项目或Monorepos的扩展程序，可根据当前软件包为选项卡/标题栏着色
 
-![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/example_gif.gif)
+![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/coverGif.gif)
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
@@ -405,7 +405,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 &gt;看看 [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) 关于如何开始使用此扩展程序的设置.
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
-&gt;该扩展使用GitHub api监视您的拉取请求的状态，并在何时合并或有人请求更改时通知您.
+> This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
@@ -413,6 +413,12 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
  &gt;添加一个GitLab侧栏图标以查看问题，合并请求和其他GitLab资源.  您还可以查看GitLab CI / CD管道的结果，并检查`.gitlab-ci.yml`的语法.
 
 ![GitLab Workflow](https://gitlab.com/fatihacet/gitlab-vscode-extension/raw/master/src/assets/_issues-in-vscode.png)
+
+#### [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
+
+&gt;在VS Code中运行gradle任务.
+
+![Gradle Tasks](https://raw.githubusercontent.com/badsyntax/vscode-gradle/master/images/screencast.gif)
 
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
@@ -809,7 +815,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 如果您觉得自己很勇敢，那么至少有两个针对VS Code的自定义UI：
 
-- [Essence](https://github.com/flagello/Essence)
+- [Essence](https://github.com/essence-language/vscode-extension)
 - [Pragmatic Essence](https://github.com/orta/Essence)
 
 ## Syntax
@@ -1044,17 +1050,17 @@ VS Code社区中各种人的Twitter帐户列表
 
 - [@code](https://twitter.com/code) -官方VS Code Twitter
 - [@auchenberg](https://twitter.com/auchenberg) -VS代码计划经理
-- [@BenjaminPasero](https://twitter.com/BenjaminPasero) - VS Code Dev
+- [@BenjaminPasero](https://twitter.com/BenjaminPasero) -VS代码开发
 - [@chrisdias](https://twitter.com/chrisdias) -VS代码计划经理
 - [@_clarkio](https://twitter.com/_clarkio)  -开发者倡导者@ Azure.  VS Code的创作者发布精彩视频
 - [@eamodio](https://twitter.com/eamodio) -GitLens创作者
-- [@ErichGamma](https://twitter.com/ErichGamma) - VS Code Dev
-- [@IsidorN](https://twitter.com/@IsidorN) - VS Code Dev
-- [@joaomoreno](https://twitter.com/joaomoreno) - VS Code Dev
-- [@johannesrieken](https://twitter.com/johannesrieken) - VS Code Dev
+- [@ErichGamma](https://twitter.com/ErichGamma) -VS代码开发
+- [@IsidorN](https://twitter.com/@IsidorN) -VS代码开发
+- [@joaomoreno](https://twitter.com/joaomoreno) -VS代码开发
+- [@johannesrieken](https://twitter.com/johannesrieken) -VS代码开发
 - [@lannonbr](https://twitter.com/lannonbr) -vscode.rocks和JS参数注释扩展程序的创建者
-- [@maeschli](https://twitter.com/maeschli) - VS Code Dev
-- [@mattbierner](https://twitter.com/code) - VS Code Dev
+- [@maeschli](https://twitter.com/maeschli) -VS代码开发
+- [@mattbierner](https://twitter.com/code) -VS代码开发
 - [@MrAhmadAwais](https://twitter.com/MrAhmadAwais)  -JS / WordPress核心开发.  VSCode.pro课程和“紫色阴影”主题的创建者
 - [@ramyanexus](https://twitter.com/ramyanexus)  -VS代码开发  Go扩展的维护者
 - [@Tyriar](https://twitter.com/Tyriar)  -VS代码开发  xterm.js的创建者
@@ -1086,7 +1092,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
-- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一个扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写者等.MarkdownPreview的灵感源自Markdown Preview Plus和RStudio Markdown.
+- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一项扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写者等. Plus和RStudio Markdown.
 
 ## Online Courses
 
@@ -1094,7 +1100,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 在使用Sublime Text十年后， [Ahmad Awais](https://twitter.com/MrAhmadAwais/) 切换到VSCode，内置 [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has launched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
 
-- [VSCode.pro](https://vscode.pro/) - 📺 Huge five hours 65 videos VSCode course.
+- [VSCode.pro](https://vscode.pro/) -长达5个小时的65个视频VSCode课程.
 - [Ahmad Awais](https://twitter.com/MrAhmadAwais/)  -紫色阴影主题的创建者.  WP / JS的核心开发人员.  OSS开发倡导者.
 
 ## Contribute

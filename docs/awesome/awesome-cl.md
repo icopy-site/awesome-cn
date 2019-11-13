@@ -41,7 +41,7 @@ Audio
 =====
 
 * [Open Music](https://github.com/openmusic-project/OM6)  -可视化程序，计算机辅助合成环境.  [GPL3] [2].
-* [OM7](https://github.com/openmusic-project/om7) - a new implementation of the OpenMusic visual programming and computer-aided composition environment including a number of improvements on graphical interface, computational mode, and connection to external software libraries. [GPL3][2].
+* [OM7](https://github.com/openmusic-project/om7)  -OpenMusic可视化编程和计算机辅助合成环境的新实现，包括图形界面，计算模式以及与外部软件库的连接方面的许多改进.  [GPL3] [2].
 * [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境.  从零开始设计软件合成器或声音插件很有用.  它也是一种合成工具，可以在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
 * [cl-collider](https://github.com/byulparan/cl-collider) - 一种
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
@@ -162,13 +162,13 @@ Tools
 
 ## C ##
 
-*：星级： [CFFI](https://github.com/cffi/cffi)  -便携式，易于使用的C外部功能界面.  [Expat] [14].
+*：星级： [CFFI](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat][14].
 * [cl-autowrap](https://github.com/rpav/cl-autowrap)  -自动将头文件解析为CFFI定义.  [FreeBSD] [39].
 * [cl-gobject-introspection](https://github.com/andy128k/cl-gobject-introspection) - [Gobject Introspection](https://gi.readthedocs.io/en/latest/)  FFI.  自动绑定以调用C库.  [BSD] [15].
 
 ## Java ##
 
-* [cl+j](https://common-lisp.net/project/cl-plus-j/) - A JNI-based interface to a JVM via CFFI. Not available on Quicklisp. Does not reliably work with all implementations. [Expat][14].
+* [cl+j](https://common-lisp.net/project/cl-plus-j/)  -通过CFFI与JVM的基于JNI的接口.  在Quicklisp上不可用.  不能可靠地与所有实现一起使用.  [Expat] [14].
 
 ## Objective-C ##
 
@@ -222,7 +222,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
-* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
+* [donuts](https://github.com/tkych/donuts)  -绘制Common Lisp的DSL图形.  [Expat] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [Expat] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -231,7 +231,7 @@ Graphics
 * [Varjo](https://github.com/cbaggers/varjo)  -Lisp到GLSL转换器.  [BSD_2Clause] [17].
 * [Vecto](http://www.xach.com/lisp/vecto/)  -简单的矢量绘图库.  [FreeBSD] [39].
 * [zpng](http://www.xach.com/lisp/zpng/)  -用于创建PNG文件的库.  [FreeBSD] [39].
-* [pngload-fast](https://github.com/mfiano/pngload-fast) - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. [MIT][200].
+* [pngload-fast](https://github.com/mfiano/pngload-fast)  -便携式Common Lisp中的PNG（便携式网络图形）图像格式解码器，着重于速度.  [MIT] [200].
 
 
 GUI
@@ -279,7 +279,8 @@ Proprietary:
 JSON
 ====
 
-* [cl-json](https://github.com/hankhero/cl-json)  -JSON编码器和解码器.  [Expat] [14].
+* [jonathan](https://github.com/Rudolph-Miller/jonathan)  -JSON编码器和解码器.  [MIT] [200].
+* [cl-json](https://github.com/hankhero/cl-json)  -高度可定制的JSON编码器和解码器.  [Expat] [14].
 * [jsown](https://github.com/madnificent/jsown)  -JSON格式的读取器和写入器.  [Expat] [14].
 * [json-mop](https://github.com/gschjetne/json-mop)  -用于桥接CLOS和JSON对象的元类.  [MIT] [200].
 
@@ -373,7 +374,7 @@ Lambda速记
 * [cl-prolog2](https://github.com/guicho271828/cl-prolog2)  -从Common Lisp到ISO Prolog实施的通用接口.  [MIT] [200].
 * [Screamer](https://github.com/nikodemus/screamer) -增加普通
   Lisp具有Prolog和Prolog的几乎所有功能
-  constraint logic programming
+  约束逻辑编程
   语言. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
    解决欧拉计划难题.  [MIT] [200].
 * [Screamer+](https://github.com/yakovzaytsev/screamer-plus)  -提高SCREAMER的表现力.  [MIT] [200].
@@ -418,7 +419,7 @@ Intermediate
 ------------
 
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
-* [Common Lisp tips](http://lisptips.com/) -包含有用技巧的博客.
+* [Common Lisp tips](http://lisptips.com/)  -包含有用技巧的博客.  由社区继续 [Lisp Tips](https://github.com/lisp-tips/lisp-tips/issues/).
 * [CommonQt tutorial](https://cheryllium.wordpress.com/2014/02/22/commonqt-tutorial-1/) -CommonQt很好的介绍.
 * [A tutorial for creating and publishing open-source Common Lisp software](https://arxiv.org/abs/1209.5626) -使用Quicklisp和其他工具在Common Lisp中创建和发布项目的便捷教程.
 
@@ -460,7 +461,7 @@ Advanced
 
  * [Lake Over Lambda] [156]-有关高级宏技术的书.  所有八章均在印刷版本中提供.
 * [Common Lisp中的面向对象编程：CLOS程序员指南] [21]-一本关于CLOS的古老但非常详尽的书.
-* [人工智能编程范例：Common Lisp中的案例研究] [157]-一本有关AI编程的书，涵盖了一些高级Lisp.
+* [人工智能编程范例：Common Lisp中的案例研究] [157]-有关编程AI的书，其中涵盖了一些高级Lisp.
 
 Community
 ---------
@@ -470,7 +471,7 @@ Community
 * [lisp-lang.org](https://lisp-lang.org/)
 * [Lisp Discord Server](https://discord.gg/hhk46CE)
 * [#lisp](http://log.irc.tymoon.eu/freenode/lisp) 在Freenode上-Common Lisp IRC主频道.
-* [chat.lisp.cl](https://chat.lisp.cl/) -Mattermost聊天服务器，具有到IRC和Discord的桥接.
+* [chat.lisp.cl](https://chat.lisp.cl/) - a Mattermost chat server, with bridges to IRC and Discord.
 
 图书馆经理
 ===============
@@ -541,7 +542,7 @@ HTTP服务器
 
 ### Hunchentoot plugins
 
-* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的分派，从URL路径中提取参数，装饰器，从路由名称中生成URL等.[MIT] [200].
+* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的分派，从URL路径提取参数，修饰符，从路由名称生成URL等.[MIT] [200].
 * [hunchentoot-cgi](https://github.com/slyrus/hunchentoot-cgi)  -用于从hunchentoot Web服务器执行CGI脚本的库.  [BSD] [207].
 * [hunchentoot-multi-acceptor](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/)  -使用单个端口在单个hunchentoot接受器上路由多个域（虚拟主机）.  [Apache2.0] [89].
 
@@ -567,7 +568,7 @@ Web框架
 * [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是扩展的且对新手友好的神经元（通常更易于处理查询参数）.  [MIT] [200].
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
-* [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
+* [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，而HTTP条件仅是Lisp条件.  [LLGPL] [8].
 * [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录的记录，缓存，权限或身份验证，通过Swagger进行文档记录等.[MIT] [200].
 * [Weblocks](https://github.com/40ants/weblocks)  -基于窗口小部件的框架，具有内置的ajax更新机制，可“解决JavaScript问题”.  [LLGPL] [8].
 
@@ -597,7 +598,7 @@ HTML生成器和模板
 -----------------------------
 *  [spinneret](https://github.com/ruricolist/spinneret)  -常见的Lisp HTML5生成器.  [Expat] [14].
 * [flute](https://github.com/ailisp/flute) -一个易于组合的HTML5生成库，其中包含
-   最简单的语法.  [MIT] [200].
+  most simplistic syntax. [MIT][200].
 *：星级： [cl-who](http://weitz.de/cl-who/)  -古老的HTML生成器.  [FreeBSD] [39].
 *：星级： [Djula](https://github.com/mmontone/djula)  -Django模板引擎到Common Lisp的端口.  [Expat] [14].
 * [cl-markup](https://github.com/arielnetworks/cl-markup)  -现代标记生成库.  [LLGPL] [8].
@@ -654,7 +655,7 @@ Websockets
 
 * [coleslaw](https://github.com/kingcons/coleslaw) 及其
   [coleslaw-cli](https://github.com/40ants/coleslaw-cli) -灵活
-   Lisp Blogware与Frog，Jekyll或Hakyll类似.  [BSD] [15].
+  Lisp Blogware similar to Frog, Jekyll, or Hakyll. [BSD][15].
 
 Deployment
 ----------
@@ -696,7 +697,7 @@ Monitoring
 * [cl-irc](https://www.common-lisp.net/project/cl-irc/)  -IRC客户端库.  [Expat] [14].
 * [cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki)  -MediaWiki API的包装.  [MIT] [200].
 * [cl-openid](https://github.com/cl-openid/cl-openid)  -OpenID的实现.  [LLGPL] [8].
-* [cl-pushover](https://github.com/TeMPOraL/cl-pushover) -  Common Lisp bindings to Pushover. [MIT][200].
+* [cl-pushover](https://github.com/TeMPOraL/cl-pushover)  -常见的Lisp绑定到Pushover.  [MIT] [200].
 * [humbler](https://github.com/Shinmera/humbler)  -Tumblr API接口.  [Artistic License 2.0] [51].
 *[multiposter](https://github.com/Shinmera/multiposter) -同时发布到多个服务.
 * [stripe-client](https://github.com/ruricolist/cl-stripe-client)  -Stripe付款系统的客户.  [MIT] [200].
@@ -715,7 +716,7 @@ Others
 ========================
 
 * [numcl](https://github.com/numcl/numcl)  -Common Lisp中的Numpy克隆.  [LGPL3] [9].
-* [magicl](https://github.com/rigetticomputing/magicl)  -Rigetti Computing开发的基于BLAS / LAPACK和Expokit的Common Lisp中的矩阵代数程序.  [BSD_3Clause] [15].
+* [magicl](https://github.com/rigetticomputing/magicl)  -Rigetti Computing公司基于BLAS / LAPACK和Expokit开发的Common Lisp中的矩阵代数程序.  [BSD_3Clause] [15].
 * [cl-spark](https://github.com/tkych/cl-spark)  -为数字列表生成迷你图字符串.  [Expat] [14].
 * [GSLL](https://common-lisp.net/project/gsll/)  -GNU Lisp科学图书馆；  允许使用Common Lisp提供的GSL.  [GNU LGPL2.1] [11].
 * [common-lisp-stat](https://github.com/blindglobe/common-lisp-stat/)  -通用Lisp统计资料库.  [FreeBSD] [39].
@@ -731,7 +732,7 @@ Others
 * [Petalisp](https://github.com/marcoheisig/Petalisp) -试图
   通过以下方式为并行计算机生成高性能代码
    JIT编译数组定义.  它适用于更多
-  通过提供更强大的功能，比NumPy具有更高的基本水平
+  通过提供更强大的功能，比NumPy的基本级别
   N维数组，但仅用于构建的几个构建基块
    他们.  [AGPL] [89].
 * [cmu-infix](https://github.com/rigetti/cmu-infix)  -用于在Common Lisp中编写中缀数学符号的库.  也可以看看 [polisher](https://github.com/mrcdr/polisher).
@@ -745,7 +746,7 @@ Others
 
 *：星级： [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/)  -可移植的共享状态并发.  [Expat] [14].
 *：星级： [lparallel](https://github.com/lmj/lparallel)  -用于并行编程的库.  [3子BSD] [15].
-* [lfarm](https://github.com/lmj/lfarm)  -在机器之间分配工作（在并行和usocket之上）.  [BSD_3Clause] [15]
+* [lfarm](https://github.com/lmj/lfarm) - distributing work across machines (on top of lparallel and usocket). [BSD_3Clause][15]
 * [chanl](https://github.com/zkat/chanl)  -可移植的基于通道的并发.  [Expat] [14]，部分内容位于[3-clause BSD] [15]下.
 * [cl-async](https://github.com/orthecreedence/cl-async)  -用于通用，非阻塞编程的库.  [Expat] [14].
 * [Moira](https://github.com/TBRSS/moira)  -监视并重新启动后台线程.  lisp过程主管.  未指定许可证.
@@ -805,7 +806,7 @@ Scripting
 * [cl-readline](https://github.com/vindarel/cl-readline) - 一套
   键入时编辑行的功能，以维护行列表
   先前输入的命令行，以对其进行重新调用和重新编辑，以及
-   执行类似csh的历史记录扩展.  Emacs和vi编辑
+  perform csh-like history expansion.  Emacs and vi editing
    模式.  [GPL3] [2].
 *  [Unix-opts](https://github.com/mrkkrp/unix-opts) -命令行
    选项解析器，带有简洁的选项声明.  [MIT] [200].
@@ -832,6 +833,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 程序，为混合语言调试提供支持.
 * [replic](https://github.com/vindarel/replic/)  -帮助程序将现有代码转换为readline应用程序，重点放在定义命令参数的完成.  还提供了一个随时可用的可执行文件，它将用户的lispy初始化文件转换为readline命令.  [MIT] [200].
 * [cl-all](https://github.com/shinmera/cl-all)  -在多个实现中运行Lisp代码段的脚本.  这使您可以快速比较实施行为和差异.  [Artistic License 2.0] [51].
+* [clawk](https://github.com/sharplispers/clawk)  -嵌入到Common Lisp中的AWK实现，用于在文件中搜索行并在其字段上执行指定的操作.  BSD风格.
 
 文字编辑器资源
 =====================
@@ -911,7 +913,7 @@ Tools
  * [quickapp] [188]-一个用于使用SBCL和buildapp生成模板项目的项目.  还包括命令行argparser.  [3子BSD] [15].
 * [quickapp-cli](https://github.com/triclops200/quickapp-cli)  -[quickapp] [188]作为命令行实用程序.  [3子BSD] [15].
 * [quicksearch](https://github.com/tkych/quicksearch)  -从REPL查找在线图书馆.  [Expat] [14].
-* [SWIG](http://www.swig.org/)  -一种用于从C / C ++头文件生成FFI代码的工具.  [GNU GPL3] [2].
+* [SWIG](http://www.swig.org/) - A tool for generating FFI code from C/C++ header files. [GNU GPL3][2].
 * [cl-project](https://github.com/fukamachi/cl-project)  -一般的现代项目骨架.  [LLGPL] [8].
 * [lake](https://github.com/takagi/lake)  -一个GNU make like build实用程序.  [MIT] [200].
 
@@ -982,7 +984,7 @@ Duration processing library built on top of local-time. [MIT][200].
 开发人员实用程序
 -------------------
 
-* [repl-utilities](https://github.com/m-n/repl-utilities) - Ease
+* [repl-utilities](https://github.com/m-n/repl-utilities) -轻松
 REPL的常见任务（打印文档，打印外部符号，
  加载程序包时调用钩子，…）.  [BSD_2Clause] [17].
 * [Linedit](https://common-lisp.net/project/linedit) -Readline风格的图书馆
@@ -1050,7 +1052,7 @@ Logging
 
 *：星级： [log4cl](https://github.com/sharplispers/log4cl/)  -根据Log4J建模的日志记录框架.  [Apache2.0] [89].  与Slime的高级集成.
 * [verbose](https://shinmera.github.io/verbose)  -快速且高度可配置的日志记录框架.  [Artistic License 2.0] [51].
-* [a-cl-logger](https://github.com/AccelerationNet/a-cl-logger)  -日志记录库提供上下文相关的日志记录，不仅记录字符串，还记录本地文件或输出流.  具有logstash支持，json支持，记录器层次结构，上下文相关记录，打印为可检查演示的对象等功能.
+* [a-cl-logger](https://github.com/AccelerationNet/a-cl-logger)  -日志记录库提供上下文相关的日志记录，不仅记录字符串，还记录本地文件或输出流.  具有logstash支持，json支持，记录器层次结构，上下文相关的记录，以可检查的演示形式打印的对象等功能…
 
 致第三方：
 
@@ -1077,7 +1079,7 @@ Plotting
   gnuplot绘图实用程序，旨在类似于
    八度或matlab的绘图命令.  [GPL3] [2].
 * [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一种
-  lispy, structure-less Gnuplot library. With its
+   lispy，无结构的Gnuplot库.  与它
   [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLGPL] [8]
 
 
