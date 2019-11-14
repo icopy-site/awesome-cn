@@ -33,13 +33,6 @@
 - [C# and Visual Basic - Use Roslyn to Write a Live Code Analyzer for Your API](https://msdn.microsoft.com/en-us/magazine/dn879356.aspx) -关于编写代码分析器的MSDN文章较旧，但仍未过时.
 - [C# - Adding a Code Fix to Your Roslyn Analyzer](https://msdn.microsoft.com/en-us/magazine/dn904670.aspx)  -上一篇MSDN文章的续集.  代码修复的详细介绍.
 
-## Testing Facility
-令人敬畏的库和框架，有助于测试Roslyn扩展.
-
-- [Microsoft.CodeAnalysis.Testing](https://github.com/dotnet/roslyn-sdk/tree/master/src/Microsoft.CodeAnalysis.Testing) -使用NUnit，xUnit和MSTest框架测试分析器和CodeFixes的库.
-- [RoslynTestKit](https://github.com/cezarypiatek/RoslynTestKit)  -用于编写Roslyn诊断分析仪的单元测试，代码修复，重构和完成提供程序的轻量级框架.  它是独立于单元测试框架的.  建立在 [RoslynNUnitLight](https://github.com/DustinCampbell/RoslynNUnitLight)
-
-
 ## Open Source Projects
 建立在罗斯林之上的很棒的开源项目.
 
@@ -75,18 +68,24 @@
 - [StyleCop Analyzers for the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) -将StyleCop规则移植到罗斯林.
 - [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics)  -收集代码质量分析器.  涵盖异步方法的使用，标志枚举，异常处理的最佳实践以及许多其他代码质量检查.
 
+## Libraries and Frameworks for Testing Analyzers, Code Fixes, and Refactorings
+很棒的库和框架，用于测试分析器，代码修复和重构.
+
+- [Microsoft.CodeAnalysis.Testing](https://github.com/dotnet/roslyn-sdk/tree/master/src/Microsoft.CodeAnalysis.Testing)  -用于使用NUnit，xUnit和MSTest框架测试分析器和代码修复的库.  一部分 [Roslyn SDK](https://github.com/dotnet/roslyn-sdk).
+- [RoslynTestKit](https://github.com/cezarypiatek/RoslynTestKit)  -用于为分析器，代码修复，重构和完成提供程序编写单元测试的轻型框架.  它是不可知的单元测试框架.
+
 ## Blog Posts and Articles
 很棒的博客文章和在线文章，涵盖了各种主题，例如性能，Roslyn内部知识等.
 
 - [Inside the .NET Compiler Platform – Performance Considerations during Syntax Analysis (#SpeakRoslyn)](https://robinsedlaczek.com/2015/04/29/inside-the-net-compiler-platform-performance-considerations-during-syntax-analysis-speakroslyn/) -深入了解Roslyn的性能，重点是内存消耗.
-- [Persistence, Facades and Roslyn's Red-Green Trees](https://blogs.msdn.microsoft.com/ericlippert/2012/06/08/persistence-facades-and-roslyns-red-green-trees/)  -关于罗斯林团队如何通过廉价的父级引用和许多其他优点实现不可变，可重用的树的鼓舞性介绍.  Quote：“但是在罗斯林团队中，我们通常会做不可能的事情” :-)
+- [Persistence, Facades and Roslyn's Red-Green Trees](https://blogs.msdn.microsoft.com/ericlippert/2012/06/08/persistence-facades-and-roslyns-red-green-trees/)  -关于罗斯林团队如何通过廉价的父级引用和许多其他优点实现不可变，可重用的树的鼓舞人心的介绍.  Quote：“但是在罗斯林团队中，我们通常会做不可能的事情” :-)
 - [ReSharper and Roslyn: Q&A](https://blog.jetbrains.com/dotnet/2014/04/10/resharper-and-roslyn-qa/)  -很好的解释了为什么ReSharper不会使用Roslyn.  包括有关静态代码分析的良好讨论以及Roslyn的一些限制.
 - [Roslyn performance (Matt Gertz)](https://blogs.msdn.microsoft.com/csharpfaq/2014/01/15/roslyn-performance-matt-gertz/) -了解罗斯林团队如何处理评估和实现绩效的主题.
 
 ## Talks
 关于罗斯林的精彩公共讨论.
 
-- [The Power of Roslyn](https://www.youtube.com/watch?v=nXljhGDokqA) -Kasey Uhlenhuth在NDC Oslo 2018上的精彩演讲，涵盖了Roslyn的要点和API以及用于构建代码分析器和修复程序的工具.
+- [The Power of Roslyn](https://www.youtube.com/watch?v=nXljhGDokqA) -Kasey Uhlenhuth在NDC Oslo 2018上的精彩演讲，涵盖了Roslyn的基本知识和API以及用于构建代码分析器和修复程序的工具.
 
 ## Contribute
 

@@ -74,6 +74,7 @@
 
 - [**Wing**](https://kbrsh.github.io/wing/) -专为极简主义者设计的漂亮CSS框架.  
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
+  [Docs](https://kbrsh.github.io/wing/#installation),
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
   

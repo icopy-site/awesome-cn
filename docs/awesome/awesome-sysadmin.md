@@ -29,6 +29,7 @@
 * [GNU Make](http://www.gnu.org/software/make/) -最受欢迎的自动化构建工具，可用于多种用途.
 * [Gradle](http://gradle.org/) -另一个构建自动化系统.
 * [Rake](https://github.com/ruby/rake) -使用Ruby编写并可扩展的，类似于Make的构建自动化工具.
+* [Bolt](https://puppet.com/products/bolt) -您可以使用Bolt来运行一次性任务，使用脚本来自动化某些节点的置备和管理，可以使用Bolt在脚本之外迈出一步，并使它们可共享.
 
 ## Backups
 
@@ -36,7 +37,7 @@
 
 * [Amanda](http://www.amanda.org/) -客户端-服务器模型备份工具.
 * [Bareos](http://www.bareos.org/en/) -Bacula备份工具的分支.
-* [BackupPC](http://backuppc.sourceforge.net/) -BackupPC是用于备份到磁盘的高性能系统.
+* [BackupPC](https://backuppc.github.io/backuppc/) -BackupPC是用于备份到磁盘的高性能系统.
 * [Backupninja](https://0xacab.org/riseuplabs/backupninja) -轻巧，可扩展的元备份系统.
 * [Barman](http://www.pgbarman.org) -Backup and Recovery Manager，用于PostgreSQL服务器的灾难恢复.
 * [BorgBackup](https://github.com/borgbackup/borg) -的叉子 [Attic](https://attic-backup.org) 使用Python编写的重复数据删除备份程序.
@@ -44,7 +45,7 @@
 * [Duplicati](http://www.duplicati.com) -多个后端，加密，Web UI和多操作系统备份工具.
 * [Duplicity](http://duplicity.nongnu.org/) -使用rsync算法加密的带宽有效备份.
 * [Elkarbackup](https://github.com/elkarbackup/elkarbackup) -基于RSnapshot的备份解决方案，具有简单的Web界面
-* [Lsyncd](https://github.com/axkibe/lsyncd) -文件监视器，它生成一个进程来同步更改（默认情况下为rsync）.
+* [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
 * [rclone](https://rclone.org/) -一个命令行程序，用于在多个云存储系统/提供程序之间来回同步文件和目录.
 * [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) -轻松的远程增量备份所有文件.
 * [Restic](https://restic.net/)  -安全的远程备份工具.  设计简便，快速，可验证且高效.
@@ -61,7 +62,8 @@
 
 * [EasyBuild](https://easybuild.readthedocs.org/en/latest/) -EasyBuild以高效的方式为高性能计算（HPC）系统构建软件和模块文件.
 * [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) -Lmod是基于Lua的模块系统，可以轻松处理MODULEPATH分层问题.
-* [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) -HPCBIOS是一种努力的工作，旨在跨多个HPC系统和站点（包括文档）建立一个通用的，文档记录良好且可复制的环境.
+* [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) -HPCBIOS致力于建立跨越多个HPC系统和站点（包括文档）的通用，文档完善且可重现的环境.
+* [Spack](https://spack.io/) -灵活的软件包管理器，支持多个版本，配置，平台和编译器.
 
 ## ChatOps
 
@@ -111,7 +113,7 @@
 
 ## Cloud Orchestration
 
-* [BOSH](http://bosh.io/docs/) -IaaS编排平台，最初用于部署和管理Cloud Foundry PaaS，但对通用分布式系统也很有用.
+* [BOSH](http://bosh.io/docs/) -IaaS编排平台最初是为部署和管理Cloud Foundry PaaS而编写的，但对通用分布式系统也很有用.
 * [Cloud Foundry](https://www.cloudfoundry.org/) -平台即服务套件，可提供编排服务，使分布式应用成为强大的功能.
 * [Cloudify](http://getcloudify.org/) -使用Python和YAML编写的基于TOSCA的云编排软件平台.
 * [CloudSlang](http://www.cloudslang.io/) -具有Docker功能的基于流程的编排工具，用于管理已部署的应用程序.
@@ -187,7 +189,7 @@
   * [Froxlor](https://froxlor.org/) -具有Nginx和PHP-FPM支持的Linux易于使用的面板.
   * [ISPConfig](http://www.ispconfig.org) -Linux的主机控制面板.
   * [Sentora](http://sentora.org/) -基于ZPanel的Linux，BSD和Windows的控制面板.
-  * [VestaCP](http://vestacp.com/) -Linux主机面板，但带有Nginx.
+  * [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
   * [Virtualmin](http://www.virtualmin.com/) -基于webmin的Linux主机面板.
 * DNS
   * [Atomia DNS](http://atomiadns.com/) -DNS管理系统.
@@ -213,7 +215,7 @@
 * [Fabric](http://www.fabfile.org/) -Python库和cli工具，用于简化SSH在应用程序部署或系统管理任务中的使用.
 * [Mina](http://nadarei.co/mina/) -真正快速的部署程序和服务器自动化工具（基于耙）.
 * [munki](https://www.munki.org/munki/) -基于Web服务器的软件包和软件包元数据存储库，允许macOS管理员管理软件安装.
-* [Rocketeer](http://rocketeer.autopergamene.eu/) -PHP任务运行器和部署工具.
+* [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
 * [sup](https://github.com/pressly/sup/) -超级简单的部署工具-仅限于Unix-将其视为服务器网络的“ make”.
 * [Vlad the Deployer](https://github.com/seattlerb/vlad) -部署自动化（基于耙）.
 
@@ -257,7 +259,9 @@
 
 *网域管理.*
 
+* [DnsControl](https://stackexchange.github.io/dnscontrol/) -备受赞誉的平台，可在云或您自己的基础架构中跨任意数量的DNS主机无缝管理您的DNS配置.
 * [DomainMOD](https://domainmod.org) -在中央位置管理您的域和其他Internet资产.
+* [octoDNS](https://github.com/github/octodns) -一组工具和模式，可轻松管理多个提供商之间的DNS记录.
 
 ## Editors
 
@@ -302,11 +306,12 @@
 * [Libravatar](https://www.libravatar.org/) -Libravatar是一项将您的头像（个人资料图片）传递到其他网站的服务.
 * [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) -Web前端，用于管理存储在LDAP目录中的条目（例如，用户，组，DHCP设置）.
 * [OpenID Connect](http://openid.net/developers/libraries/) -OAuth 2.0之上的简单身份层.
-* [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
-* [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
+* [OSIAM](http://osiam.github.io/) -安全的身份管理解决方案，提供基于REST的身份验证和授权服务.
+* [Pomerium](https://www.pomerium.io/) -受BeyondCorp启发的身份和上下文感知访问代理.
 * [Samba](https://www.samba.org/) – Active Directory和CIFS协议实施.
 * [BounCA](https://bounca.org/) -基于Web的个人SSL密钥/证书颁发机构的工具，用于创建自签名证书.
 * [easy-rsa](https://github.com/OpenVPN/easy-rsa) -用于创建和管理PKI CA的bash脚本.
+* [Smallstep Certificates](https://smallstep.com/certificates/) -专用证书颁发机构（X.509和SSH）和相关工具，用于安全的自动证书管理.
 
 ## IT Asset Management
 
@@ -323,7 +328,7 @@
 
 *日志管理工具：收集，解析，可视化... *
 
-* [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
+* [Elasticsearch](https://www.elastic.co/) -基于Lucene的文档存储，主要用于日志索引，存储和分析.
 * [Fluentd](http://www.fluentd.org/) -日志收集器和托运人.
 * [Flume](https://flume.apache.org/) -分布式日志收集和汇总系统.
 * [GoAccess](http://goaccess.io/)  -在终端中或通过浏览器运行的实时Web日志分析器和交互式查看器.  （[Source Code](https://github.com/allinurl/goaccess)）MIT C
@@ -381,7 +386,7 @@
 * [Sensu](https://sensuapp.org/) -监测框架.
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) -以美丽的方式显示和监视服务器统计信息.
 * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) -服务器状态网站脚本，显示正常运行时间（天），可用内存，可用硬盘
-* [Shinken](http://www.shinken-monitoring.org/) -另一个监测框架.
+* [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [SWMP - Server Web Monitor Page](https://swmp.ml/) -响应迅速，令人愉悦的Linux服务器统计信息显示板.[Source Code](https://github.com/fuzzymannerz/swmp))
 * [Thruk](http://www.thruk.org/) -支持Naemon，Nagios，Icinga和Shinken的多后端监视Web界面.
 * [Uchiwa](https://uchiwa.io/) -sensu的简单仪表板.
@@ -409,7 +414,7 @@
   * [RRDtool](http://oss.oetiker.ch/rrdtool/) -用于时间序列数据的行业标准高性能数据记录和图形系统.
   * [Dashing](http://dashing.io/)  -允许快速统计仪表板开发的Ruby gem.  全HTML5方法允许在数据中心或会议室中大屏幕显示.
   * [Facette](http://facette.io) -用Go语言编写的时间序列数据可视化和绘图软件.
-  * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
+  * [Freeboard](https://github.com/Freeboard/freeboard)  -物联网的该死的性感前端实时仪表板.  将原始JSON转换为美味的UI.
 
 *储存
   * [OpenTSDB](http://opentsdb.net/) -在不丢失粒度的情况下存储和服务器大量的时间序列数据.
@@ -426,7 +431,7 @@
 *网络配置管理工具.*
 
 * [GestióIP](http://www.gestioip.net/) -基于Web的自动IPv4 / IPv6 IP地址管理工具.
-* [GNS3](https://www.gns3.com/) -提供各种虚拟设备的图形网络模拟器-（[Source Code](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)）-`GPLv3`
+* [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)）-`GPLv3`
 * [Oxidized](https://github.com/ytti/oxidized) -通过Web界面和GIT存储对网络设备配置进行监视的现代方法.
 * [phpIPAM](http://phpipam.net/) -具有以下功能的开源IP地址管理 [PowerDNS](https://www.powerdns.com/) 积分.
 * [RANCID](http://www.shrubbery.net/rancid/) -监视网络设备的配置并维护更改历史记录.
@@ -456,6 +461,7 @@
   * [MongoDB](https://www.mongodb.org/) -另一个面向文档的数据库系统.
   * [RavenDB](http://ravendb.net/) -具有ACID /事务功能的基于文档的数据库.
   * [RethinkDB](http://www.rethinkdb.com/) -分布式文档存储数据库，专注于JSON.
+  * [eXist-DB]（Https://www.exist-db.org/）-开源XML数据库
 *图
   * [FlockDB](https://github.com/twitter/flockdb) -Twitter的分布式容错图数据库.
   * [Neo4j](http://neo4j.com/) -图形数据库.
@@ -572,8 +578,9 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [Packer](https://www.packer.io/) -一种用于从单一源配置为多个平台创建相同机器映像的工具.
 * [Proxmox VE](https://www.proxmox.com/proxmox-ve) -虚拟化管理解决方案.
 * [QEMU](http://www.qemu.org/) -QEMU是通用机器仿真器和虚拟器.
-* [Vagrant](https://www.vagrantup.com/) -用于构建完整开发环境的工具.
+* [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
 * [VirtualBox](https://www.virtualbox.org/) -Oracle Corporation的虚拟化产品.
+* [XCP-ng](http://www.xcp-ng.org/) -XCP-ng基于Citrix XenServer，是一个完全开源的虚拟化平台.
 * [Xen](http://www.xenproject.org/) -用于32/64位Intel / AMD（IA 64）和PowerPC 970体系结构的虚拟机监视器.
 * [XenServer](http://xenserver.org/) -使用Xen和扩展的工具栈/ API的基于CentOS分发的交钥匙虚拟化平台.
 
@@ -633,7 +640,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 
 *对于社会人士.*
 
-* [ArsTechnica OpenForum](http://arstechnica.com/civis/) – IT Forum which is attached to a large news site.
+* [ArsTechnica OpenForum](http://arstechnica.com/civis/) –附属于大型新闻站点的IT论坛.
 * [Reddit](https://www.reddit.com) -确实是非常大的公告板系统.
   * [/r/Linux](https://www.reddit.com/r/linux) -有关Linux的新闻和信息.
   * [/r/LinuxQuestions](https://www.reddit.com/r/linuxquestions)

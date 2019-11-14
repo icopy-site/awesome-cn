@@ -43,7 +43,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
     - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) -重播Apache日志.
 - [Concurrent, High Throughput Performance Testing with JMeter](https://planet.jboss.org/post/concurrent_high_throughput_performance_testing_with_jmeter)
 - [Functional Testing with JMeter](https://hub.packtpub.com/functional-testing-jmeter/)
-- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter) @ InfoSec Institute
+- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter) @ InfoSec学院
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) @教程点
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
@@ -62,12 +62,23 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 ## Scripting
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
-- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) -使用JMeter和Groovy进行负载测试.
+- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 - [JMeter: forget about BeanShell Sampler](https://habr.com/ru/post/250731/) *（俄语）*
 
-## DSL
+## Automation
+
+### DSL
 
 - [RubyJMeter](https://github.com/flood-io/ruby-jmeter) -用于构建JMeter测试计划的基于Ruby的DSL.
+
+### Packages
+
+- [loadtest](https://github.com/tmobile/loadtest) -用于使用JMeter进行负载测试的R包.
+
+### Frameworks
+
+- [Lightning](http://automatictester.github.io/lightning/) -将JMeter非功能测试与CI / CD服务器集成的框架.
+- [Taurus](https://gettaurus.org/) -自动化友好的连续测试框架.
 
 ## CI
 
@@ -78,7 +89,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) -Jenkins插件可捕获来自JMeter的报告，并生成具有性能和鲁棒性趋势报告的图形图表.
 - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin)
 -Bamboo JMeter聚合器插件： [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) -Bamboo插件，用于收集，声明和绘制JMeter测试结果.
-- [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter) -收集JMeter性能测试结果并显示在Sonar仪表板中的插件.
+- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter)  -收集JMeter性能测试结果并显示在Sonar仪表板中的插件.  *（已弃用）*
 - [Lightning](http://automatictester.github.io/lightning/) -将JMeter非功能测试与CI / CD服务器集成的框架.
 - [Taurus](https://gettaurus.org/) -自动化友好的连续测试框架.
 
@@ -86,15 +97,19 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 
 -詹金斯
     - [Automated performance testing using JMeter and Maven](https://www.atlassian.com/blog/archives/automated_performance_testing_using_jmeter_and_maven)
-    - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/?p=280)
+    - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
     - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
     - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
     - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
     -如何使用Maven和Jenkins自动执行JMeter测试： [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
     -JMeter持续性能测试（JMeter + Ant + Jenkins）： [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
-    - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins)
+    - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins/)
 -竹
-    - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo)
+    - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo/)
+-TeamCity
+    - [How to Run JMeter Tests with TeamCity for Continuous Integration](https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
+-CircleCI
+    - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/how-to-integrate-jmeter-into-circleci/)
 -SonarQube
     - [JMeter with Sonar](http://testersinaction.blogspot.com.by/2013/05/v-behaviorurldefaultvmlo_24.html)
 
@@ -175,10 +190,14 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 
 ### Streaming Protocols
 
-- [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](http://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
-- [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](http://www.realeyes.com/blog/2015/08/26/using-jmeter-to-load-test-live-hls-concurrency-of-wowza-streaming-engine/)
-- [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
-- [Load testing HLS with Ruby JMeter](https://smoothscaling.com/load-testing-hls-with-ruby-jmeter-85b9b1e6db72)
+- [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
+- [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
+- [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter/)
+- [Monitoring UX Metrics in HLS Load Testing in JMeter](https://www.blazemeter.com/blog/monitoring-ux-metrics-in-hls-load-testing-in-jmeter/)
+- [How to Load Test RTMPT Live Media Streaming with JMeter](https://www.blazemeter.com/blog/how-load-test-rtmpt-live-media-streaming-jmeter/)
+- [HLS vs. RTMP Live Streaming Load Testing with JMeter](https://www.blazemeter.com/blog/hls-vs-rtmp-live-streaming-load-testing-with-jmeter/)
+- [Load testing HLS with Ruby JMeter](https://flood.io/blog/load-testing-hls-with-ruby-jmeter/)
+-HLS JMeter插件： [guide v.1](https://www.blazemeter.com/blog/the-new-hls-plugin-for-jmeter-the-complete-guide/), [guide v.2](https://www.blazemeter.com/blog/Introducing-the-HLS-Plugin-2.0/), [sources](https://github.com/Blazemeter/HLSPlugin)
 
 ### Mobile Apps
 

@@ -2,21 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- 在计算机科学中，人工智能（AI）是机器演示的智能.  AI的定义是将AI研究视为“智能代理”的研究：能感知其环境并采取行动以实现其目标的任何设备.  al（2016）_.   
+ 在计算机科学中，人工智能（AI）是机器演示的智能.  定义为AI研究是对“智能代理”的研究：可以感知其环境并采取行动以实现其目标的任何设备.  al（2016）_.   
 
- 通常，数据挖掘（DM）是在数据集（或数据集）中发现模式的过程，其中涉及机器学习，统计和数据库系统的方法；  DM专注于提取数据集的信息_Han（2011）_.  
+ 总而言之，数据挖掘（DM）是在数据集（或数据集）中发现模式的过程，涉及机器学习，统计和数据库系统的方法.  DM专注于提取数据集的信息_Han（2011）_.  
 
- 该存储库为想要使用数字游戏中应用的“人工智能”或“数据挖掘”的任何人提供指南！  在这里，您将找到可用于构建_application_或_dataset_的一系列数据集，工具和材料.  
-
-
-**References**  
-
- Han，J.，Pei，J.，Kamber，M.（2011年）.  _数据挖掘：概念和技术_.  爱思唯尔  
-
- Russell，SJ，Norvig，P.（2016年）.  _人工智能：一种现代方法.  马来西亚;  培生教育有限公司.  
-
- Yannakakis，GN，Togelius，J.（2018年）.  _人工智能和游戏_.  施普林格.  
-
+ 该存储库为想要使用数字游戏中应用的“人工智能”或“数据挖掘”的任何人提供指南！  在这里，您将找到一系列可用于构建_application_或_dataset_的数据集，工具和材料.  
 
 **Contributing**  
 
@@ -28,7 +18,7 @@
 ---
 ## API
 
-API是_“一组允许创建访问操作系统，应用程序或其他服务的功能或数据的应用程序的功能和过程” _（Google）.  
+API是“允许创建访问操作系统，应用程序或其他服务的功能或数据的应用程序的一组功能和过程” _（Google）.  
 
 - [Battle.net](https://develop.battle.net/) -由开发的游戏合集 [Blizzard](https://www.blizzard.com).
 - [Battlefield 4 Stats](http://bf4stats.com/) -玩家的统计资料，排名和进度.
@@ -134,7 +124,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [GTA-3D Dataset](https://github.com/oscarmcnulty/gta-3d-dataset) -侠盗猎车手5（Grand Theft Auto 5）游戏中的2D和3D图像.
 - [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) -收集卡.
 - [Heroes of Might and Magic 3 Units](https://www.kaggle.com/daynearthur/heroes-of-might-and-magic-3-units) -游戏单位.
-- [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) -甲板的集合.
+- [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - Collection of decks.
 - [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) -球员和球队数据.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) -游戏数据.
 - [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) -卡数据.
@@ -172,7 +162,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 
 - [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) -来自Play商店应用的数据.
 - [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) -来自的视频游戏数据 [JeuxVideo.com](http://www.jeuxvideo.com/).
-- [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details.
+- [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) -项目详细信息.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) -来自的游戏数据 [metacritc](https://www.metacritic.com).
 - [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) -Steam提供的电子游戏价格.
 - [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) -有关视频游戏的问题.
@@ -206,6 +196,17 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [Reddit - Datasets](https://www.reddit.com/r/datasets) -数据集论坛.
 - [UCI](https://archive.ics.uci.edu/) -数据集.
 - [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) -数据集.
+
+---
+
+## Books
+ -Han，J.，Pei，J.，Kamber，M.（2011）.  _数据挖掘：概念和技术_.  爱思唯尔
+ -Russell，SJ，Norvig，P.（2016年）.  _人工智能：一种现代方法.  马来西亚;  培生教育有限公司.
+ -Yannakakis，GN，Togelius，J.（2018年）.  _人工智能和游戏_.  施普林格.
+ -El-Nasr，S.Drachen，A.Canossa，A.（2013）.  _Game Analytics：最大化玩家数据的价值_.  Sprigner
+ -Drachen，A.Mirza-Babaei，P.Nacke，L.（2018年）.  游戏用户研究.  牛津大学
+ -Loh，A. Sheng，Y.Ifenthaler，D.（2015）.  认真的游戏分析：绩效评估，评估和改进的方法.  施普林格
+ -Hennig-Thurau，T.休斯敦，M.（2018）.  娱乐科学：电影，游戏，音乐和书籍的数据分析和实用理论.  施普林格
 
 ---
 ## License

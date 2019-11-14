@@ -121,6 +121,7 @@
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) -当npm脚本失败时发送本机桌面通知.
 - [luna](https://github.com/rvpanoz/luna) -用于管理npm依赖关系的应用程序.
 - [emma-cli](https://github.com/maticzav/emma-cli) -交互式CLI软件包搜索实用程序.
+- [lockfile-lint](https://github.com/lirantal/lockfile-lint) -整理锁文件以提高安全性和信任策略，以减轻恶意程序包注入和不安全的锁文件资源.
 
 
 ## Clients
@@ -178,7 +179,7 @@ $ npm install --save-dev ava
 
 ### Run scripts
 
-您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script)  通过将npm添加到package.json的“ scripts”字段中来使用npm并使用npm run运行它们 <script-name>  `.  运行`npm run`来查看可用的脚本.  本地安装软件包的二进制文件位于 [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name.
+您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script)  通过将npm添加到package.json的“ scripts”字段中来使用npm并使用npm run运行它们 <script-name>  `.  运行`npm run`来查看可用的脚本.  本地安装软件包的二进制文件位于 [PATH](https://en.wikipedia.org/wiki/PATH_(variable)），因此您可以按名称运行它们.
 
 ```json
 {
@@ -313,7 +314,7 @@ $ npm开始
 $ npm测试
 ```
 
- 在运行测试之前，这将使文件掉毛.  如果掉毛失败，测试将不会运行.  或更普遍地说：如果按顺序运行的脚本之一以0以外的退出代码退出，则不会执行以下脚本.
+This will lint your files before running your tests. The tests will not run if linting fails. Or more generally spoken: the following script won’t be executed if one of the scripts running in sequence exits with an exit code other than 0.
 
  *注意：`pre`和`post`脚本也可以用于您的自定义npm脚本.  所以`npm run foo`也将运行`prefoo`和`postfoo`.
 

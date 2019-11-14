@@ -67,6 +67,7 @@ _使用开源许可证发布的项目.
 - [Perkeep](https://opencollective.com/perkeep) -个人存储系统.
 - [PHPStan](https://www.patreon.com/phpstan) -PHP静态分析器.
 - [PHPUnit](https://www.patreon.com/s_bergmann) -PHPUnit和相关项目.
+- [Pica Pica Messenger](https://www.patreon.com/picapicamessenger), [#2](https://picapica.im) -分散的安全即时通讯软件.
 - [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed), [#4](https://github.com/sponsors/dansup) -由ActivityPub协议支持的联合图像共享.
 - [PlantUML](https://www.patreon.com/plantuml) -UML图表创建软件.
 - [postActiv](https://www.patreon.com/postActiv) -微博平台. 
@@ -209,7 +210,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Sam Hewitt](https://www.patreon.com/snwh) -开源设计师.
 - [Sanjay Madan](https://paypal.me/mowgliiapps), [#2](https://cash.me/$Mowglii) -Mowglii应用程序，Itycal和Snk的作者.
 - [Scarlett Clark](https://www.patreon.com/sgclark) -KDE贡献者.
-- [Scott Lahteine](https://www.patreon.com/thinkyhead) - Contributor to Marlin Firmware for 3D printers.
+- [Scott Lahteine](https://www.patreon.com/thinkyhead) -3D打印机的Marlin固件的贡献者.
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) -无数的开源项目.
 - [skypjack](https://www.patreon.com/skypjack) -C ++库，例如uvw和EnTT
 - [Stéphane Peter](https://github.com/sponsors/megastep) -AudioKit贡献者，Makeself和其他库和项目.
@@ -242,7 +243,7 @@ _文章，视频，播客等..._
 
 ### Videos
 
-- [Arxiv Insights](https://www.patreon.com/ArxivInsights) -有关机器学习和AI的教育视频.
+- [Arxiv Insights](https://www.patreon.com/ArxivInsights) - Educational videos on machine learning & AI.
 - [CS Dojo](https://www.patreon.com/csdojo) -编程视频.
 - [Corey Schafer](https://www.patreon.com/coreyms) -Python教程.
 - [Devon Crawford](https://www.patreon.com/devoncrawford) -编程，开发和电子视频.
