@@ -234,6 +234,7 @@
 - [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) -用于构建Web应用程序的微型JavaScript库.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) -JavaScript的HTML模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) -基于客户端JavaScript，可重用API和预建标记的现代Web开发体系结构.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) -以WordPress为后端，以Gatsby为前端的Web开发技术堆栈.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) -创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) -UI组件的开发环境.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -591,7 +592,7 @@
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) -增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) -基于Python的配置管理系统.
@@ -618,7 +619,7 @@
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) -数字货币，其中加密用于调节单位的生成和验证转移.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) -建立一个更具包容性和多元化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) -免费提供开源项目的工具和服务的公司.
-- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
+- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) -创建更好，更一致的设计和体验.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) -确保更改不会破坏功能或样式.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) -上座部佛教传统的教Teaching.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) -开源Java应用性能管理工具.
@@ -638,7 +639,7 @@
 - [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) -使用计算机解决复杂的科学问题.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 - [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) -用于农业和园艺的开源技术.
-- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+- [Plotters](https://github.com/beardicus/awesome-plotters#readme) -计算机控制的绘图机和其他视觉艺术机器人.
 - [Product Design](https://github.com/teoga/awesome-product-design#readme) -从最初的概念到生产设计产品.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) -将您的数据库转换为GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) -设计和构建软件的学科.

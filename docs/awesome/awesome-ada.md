@@ -142,14 +142,19 @@
 #### Questions and Answers
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) -有一个Usenet新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) -堆栈溢出的Ada.
+- [subreddit-ada](https://www.reddit.com/r/ada/) -在Reddit上.
+- [subreddit-spark](https://www.reddit.com/r/spark/) -在Reddit发火花.
+- [gitter-ada](https://gitter.im/ada-lang/Lobby) -吉特（Gitter）有一个频道.
+- [telegram-ada](https://t.me/ada_lang) -Telegram有一个小组.
+- [irc-ada](http://webchat.freenode.net/?channels=%23ada) -IRC上有一个频道.
 
 #### News and Resources
 - [adacore-blog](https://blog.adacore.com/) -深入了解AdaCore生态系统.
-- [ada-programming](https://plus.google.com/u/0/communities/102688015980369378804) -有一个Google Plus社区.
 - [ada-europe](http://www.ada-europe.org/) -Ada-Europe是一个国际组织，旨在促进Ada的使用.
 - [acm-sig-ada](https://www.sigada.org/) -关于Ada的特别兴趣小组.
 - [ada-resource-association](http://www.adaic.org/community/) -自1990年以来，Ada资源协会的主要任务是“确保Ada用户的持续成功并促进Ada在软件行业的使用”.
 - [ada-information-clearinghouse](http://www.adaic.org/) -有关Ada编程语言的新闻和资源.
+- [ada-planet](https://www.laeran.pl/adaplanet/p/i/) -来自Ada编程语言世界的News Aggregator.
 
 #### Competition
 <a href="https://www.makewithada.org/">
@@ -239,7 +244,7 @@
 - [gneiss](https://github.com/Componolit/gneiss)  -Gneiss是一个接口集合，可与基于组件的系统的应用程序一起使用.  它旨在易于携带/与平台无关，并与 [ada-runtime](https://github.com/Componolit/ada-runtime).
 
 #### Distributed
-- [poly-orb](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.
+- [poly-orb](https://github.com/AdaCore/PolyORB) -PolyORB提供了一个统一的解决方案，以依赖于中间件标准来构建分布式应用程序.
 
 #### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) -适用于Ada的GNU Omnificent GUI.
@@ -272,7 +277,7 @@
 - [matreshka](http://forge.ada-ru.org/matreshka)  -Matreshka是开发信息系统的Ada框架.  它由五个主要组件组成：League，XML处理器，Web框架，SQL访问和Modeling框架.
 
 #### Unit Test
-- [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
+- [ahven](http://ahven.stronglytyped.org/) -Ahven是用于Ada编程的简单单元测试库和框架.
  语言.  它以JUnit和AUnit的一些想法为基础而松散地建模.
 - [aunit](http://libre.adacore.com/tools/aunit/) -有一个单元测试框架.
 - [testing](https://github.com/Entomy/Testing) -Ada单元测试和测量框架.
@@ -287,7 +292,7 @@
 ## Tools
 
 #### Verification
-- [gnat-coverage](https://github.com/AdaCore/gnatcoverage) -GNATcoverage是分析和报告计划覆盖率的工具.
+- [gnat-coverage](https://github.com/AdaCore/gnatcoverage) - GNATcoverage is a tool to analyze and report program coverage.
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) -Ada构造了皮棉工具.
 - [spark-2014](https://github.com/AdaCore/spark2014/) -SPARK正式验证工具集.
 
@@ -320,7 +325,7 @@
 - [booch95](https://sourceforge.net/projects/booch95/) -Ada 95 Booch组件是Grady Booch的C ++组件的一部分.
 - [ada-id](https://github.com/anthony-arnold/AdaID) -用于生成UUID的简单Ada库.
 - [ada-ga](https://github.com/frett27/Ada-GA) -Ada的遗传算法实现.
-- [ada-sodoku](https://github.com/frett27/Ada-Sodoku) - Small Library for Sodoku grid solving / finding.
+- [ada-sodoku](https://github.com/frett27/Ada-Sodoku) -用于Sodoku网格求解/查找的小型图书馆.
 - [sl3p](https://github.com/jklmnn/sl3p) -简单的第3层协议.
 - [sip-hash](https://github.com/grim7reaper/SipHash) -SipHash PRF的纯Ada实现.
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) -Ada的语言服务器协议.
@@ -372,7 +377,7 @@
 - [parser-tools](https://github.com/flyx/ParserTools) -在Ada中编写词法分析器的工具.
 
 #### Format Readers and Writers
-- [ini-file-manager](https://sourceforge.net/projects/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以读取和修改来自称为“ ini”文件的各种配置文件中的信息.
+- [ini-file-manager](https://sourceforge.net/projects/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以读取和修改来自称为“ ini”文件的各种配置文件的信息.
 - [ada-yaml](https://github.com/yaml/AdaYaml) -Ada中的实验性YAML 1.3实现.
 - [json-ada](https://github.com/onox/json-ada) -用于解析JSON的Ada 2012库.
 - [jwx](https://github.com/Componolit/jwx) -SPARK中经过正式验证的JSON库.
@@ -384,7 +389,7 @@
 - [zip-ada](http://unzip-ada.sourceforge.net/) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
 - [apdf](https://apdf.sourceforge.io/) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维二维码，如QR码）.
+- [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) -Ada条形码提供了一种软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（1D或2D，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理，最常见）的访问例程库.
 
@@ -396,10 +401,11 @@
 - [template-parser](https://github.com/AdaCore/templates-parser) -AWS模板引擎.
 
 #### Multimedia
-- [opengl-ada](https://github.com/flyx/OpenGLAda) -适用于OpenGL和GLFW的厚Ada绑定.
+- [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) -在Ada中实现的声音合成器库.
 - [engine-3d](https://sourceforge.net/projects/engine-3d) -用于DOS-talgics的3D引擎.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
+- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，可用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微调和大调音阶以及非西方音阶.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) -Ada包，用于编写独立于语言的消息.
@@ -520,7 +526,7 @@
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) -CUDA / Ada是绑定到NVIDIA CUDA并行计算平台和编程模型的Ada.
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) -D_Bus / Ada库提供Ada绑定到D-Bus消息总线系统.
 - [opus-ada](https://github.com/onox/opus-ada) -Opus音频编解码器的Ada 2012绑定.
-- [opengl-ada](http://flyx.github.io/OpenGLAda/) -适用于OpenGL和GLFW的厚Ada绑定.
+- [opengl-ada](http://flyx.github.io/OpenGLAda/) - Thick Ada binding for OpenGL and GLFW.
 - [opencl-ada](http://flyx.github.io/OpenCLAda) -用于OpenCL主机API的Ada绑定.
 - [rclada](https://github.com/ada-ros/rclada) -用于ROS2 / RCL的Ada客户端库.
 - [ada-v4l2](https://github.com/frett27/AdaV4L2) -Ada Posix绑定到Video 4 Linux，用于RPI.
@@ -536,7 +542,7 @@
 - [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) -Microsoft Win32 API有绑定.
 - [adasockets](https://github.com/samueltardieu/adasockets) -IPv4套接字库（TCP，UDP和多播）.
 - [areadline](https://github.com/samueltardieu/areadline) -Readline库的Ada接口.
-- [oto](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
+- [oto](https://github.com/darkestkhan/oto) -Ada与OpenAL的绑定，该OpenAL在使用Ada类型时尝试模仿原始API.
 - [tp7-ada-gtkada](https://github.com/Blady-Com/tp7ada-gtkada) -用GTKAda实现Turbo Pascal 7.0单元.
 - [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) -用Gnoga实现Turbo Pascal 7.0单元.
 - [ada-lzma](https://github.com/stcarrez/ada-lzma) -liblzma压缩库的Ada绑定.
@@ -548,7 +554,7 @@
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) -与NanoVG绑定.
 - [free-type-ada](https://github.com/flyx/FreeTypeAda) -适用于Ada 2005的FreeType绑定.
 - [opencl-ada](https://github.com/flyx/OpenCLAda) -用于OpenCL主机API的Ada绑定.
-- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) -Ada与Lua语言的绑定.
+- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
 - [libsodium-ada](https://github.com/jrmarino/libsodium-ada) -安全的密码库（用于Ada的libsodium）.
 
 ## License

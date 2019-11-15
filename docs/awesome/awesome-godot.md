@@ -41,7 +41,7 @@
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) -2016年3月的Godot Engine Jam游戏（Godot 2.1）.
 - [Meteorite](https://github.com/Bauxitedev/meteorite) -受银河战士Prime启发的低分辨率银河战士FPS，为LOWREZJAM 2018（Godot 3.0）设计.
 - [MouseBoat](https://github.com/CowThing/MouseBoat)  -像老鼠一样玩，在池塘里航行.  投下鱼竿并尝试钓些鱼（Godot 2.0）.
-- [Rapid Rescue](https://github.com/Azza292/RapidRescue) -快速救援是一款受迷宫（Godot 3.1）启发的本地多人战略游戏.
+- [Rapid Rescue](https://github.com/Azza292/RapidRescue) -Rapid Rescue是一款受迷宫（Godot 3.1）启发的本地多人战略游戏.
 - [Super Tux Party](https://anti.itch.io/super-tux-party) -一种免费/自由开放源代码的派对游戏，旨在复制Mario Party（Godot 3.1）等游戏的感觉.
 - [Veraball](https://github.com/Veraball/veraball)  -免费的“滚球”游戏.  收集硬币并达到终点，而不会掉出水准（Godot 2.0）.
 
@@ -144,6 +144,7 @@
 *实现GDscript支持的文本编辑器的附件.*
 
 - [Atom](https://atom.io/packages/lang-gdscript) -语法突出显示.
+- [Emacs](https://github.com/francogarcia/godot-gdscript.el) -语法突出显示，缩进和自动补全.
 - [Geany](https://github.com/haimat/GDScript-Geany) -语法突出显示.
 - [Gedit](https://github.com/haimat/GDScript-gedit) -语法突出显示.
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) -语法突出显示.
@@ -171,7 +172,7 @@
 
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) -使用Node.js与Godot客户端进行通信.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  -通过CI导出Godot游戏的Docker映像.  包括GitLab CI脚本示例.
-- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) -脚本，该脚本自动下载并启动最新版本的Godot，或编译并启动Git`master`分支.
+- [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) -脚本会自动下载并启动最新版本的Godot，或编译并启动Git`master`分支.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) -帮助Debian和Ubuntu用户安装和使用Godot的脚本.
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) -用于为所有支持的平台生成游戏手柄映射的工具.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) -使用一个主文件更新文件副本的脚本.

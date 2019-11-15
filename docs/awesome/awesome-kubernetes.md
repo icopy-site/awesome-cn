@@ -1010,7 +1010,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 
@@ -1053,6 +1053,7 @@ Videos
 * [London](https://www.meetup.com/Kubernetes-London/)
 * [Munich](https://www.meetup.com/Munchen-Kubernetes-Meetup/)
 * [New York](https://twitter.com/kubernetesnyc)
+* [Nuremberg](https://www.meetup.com/Kubernetes-Nurnberg/)
 * [Paris](https://twitter.com/kubernetesparis)
 * [Pittsburgh](https://www.meetup.com/Pittsburgh-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)

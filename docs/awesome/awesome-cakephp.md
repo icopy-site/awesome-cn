@@ -120,9 +120,9 @@
 
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) -抽象文件存储和上传插件.
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) -使用Flysystem进行抽象文件系统访问.
-- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
+- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
 - [Image plugin](https://github.com/josbeir/image) -图像行为与Cake在TranslateBehavior中内置的行为非常相似.
-- [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) -摘要 [Flysystem](http://flysystem.thephpleague.com/) +基于文件实体的上传插件.
+- [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) -摘要 [Flysystem](https://flysystem.thephpleague.com/) +基于文件实体的上传插件.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) -具有缩略图生成功能的可自定义上传插件.
 - [Upload plugin](https://github.com/Xety/Cake3-Upload) -一个用于上传文件的小插件.
 
@@ -137,7 +137,7 @@
 ## Geolocation
 *用于对地址进行地理编码以及使用纬度和经度的插件.
 
-- [Geo plugin](https://github.com/dereuromark/cakephp-geo) -包含 [Geocoder behavior](http://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) 和 [GoogleMaps helper](http://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
+- [Geo plugin](https://github.com/dereuromark/cakephp-geo) -包含 [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) 和 [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
 ## I18n
 * I18n（国际化）和L10n（本地化）的插件.
@@ -152,7 +152,7 @@
 ## Imagery
 *用于处理图像的插件.*
 
-- [ADmad/Glide plugin](https://github.com/ADmad/cakephp-glide) -使用的插件 [Glide](http://glide.thephpleague.com/) 图像处理库.
+- [ADmad/Glide plugin](https://github.com/ADmad/cakephp-glide) -使用的插件 [Glide](https://glide.thephpleague.com/) 图像处理库.
 - [HtmlToImageView plugin](https://github.com/andrej-griniuk/cakephp-html-to-image-view) -使用以下命令将HTML视图渲染为图像（jpg或png） [wkhtmltoimage](https://wkhtmltopdf.org).
 - [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) -图像处理插件和包装器 [Imagine](https://github.com/avalanche123/Imagine).
 - [Thumber plugin](https://github.com/mirko-pagliai/cakephp-thumber) -使用以下工具创建缩略图的插件 [intervention/image](https://github.com/Intervention/image).
@@ -166,7 +166,7 @@
 - [Composer Installers](https://github.com/composer/installers) -多框架Composer库安装程序.
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) -包和依赖项管理器.
 - [Graphviz](https://github.com/alexandresalome/graphviz) -Graphviz库.
-- [Jenkins](http://jenkins-ci.org/) -私有（GitHub）仓库的免费替代方案.
+- [Jenkins](https://jenkins.io/) -私有（GitHub）仓库的免费替代方案.
 - [Rocketeer](https://github.com/rocketeers/rocketeer) -PHP任务运行程序和部署包.
 - [Travis CI](https://travis-ci.org/) -持续集成平台-事实测试标准（GitHub）仓库.
 - [YamlRoute](https://github.com/makallio85/yaml-route) -使用简单的YAML文件配置路由.
@@ -174,7 +174,7 @@
 ## Markup
 *用于标记的插件.*
 
-- [Gourmet/CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](http://commonmark.org/) Markdown解析.
+- [Gourmet/CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](https://commonmark.org/) Markdown解析.
 - [Markup plugin](https://github.com/dereuromark/cakephp-markup) -允许使用基于PHP或JS的语法突出显示.
 
 ## Migration
@@ -183,7 +183,7 @@
 - [Migrations plugin](https://github.com/cakephp/migrations) -（DB）迁移插件.
 - [Upgrade app](https://github.com/cakephp/upgrade) -2.x =&gt; 3.x的官方升级应用程序.
 - [Upgrade app (extended)](https://github.com/dereuromark/upgrade) -适用于2.x =&gt; 3.x和3.x之间的扩展升级应用程序.
-- [Upgrade/Migration Guide](http://book.cakephp.org/3.0/en/appendices.html) -官方迁移指南.
+- [Upgrade/Migration Guide](https://book.cakephp.org/3.0/en/appendices.html) -官方迁移指南.
 
 ## Miscellaneous
 *其他插件和库.*
@@ -272,8 +272,8 @@
 - [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api)  -提供完整API的多合一解决方案.  它包括版本控制，渲染器，CRUD，身份验证，扩展（分页，过滤器，HATEOAS）等等.
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) -使用中间件激活CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
-- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -建筑的听众 [JSON API](http://jsonapi.org/) 兼容的API.
-- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](http://fractal.thephpleague.com/transformers/) 用于您的API输出.
+- [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -建筑的听众 [JSON API](https://jsonapi.org/) 兼容的API.
+- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) 用于您的API输出.
 - [RestApi plugin](https://github.com/multidots/cakephp-rest-api) -为构建REST API服务提供基本支持.
 
 ## Search
@@ -302,7 +302,7 @@
 - [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -生成弹头并按弹头查找记录的插件.  使用可插拔的体系结构，该体系结构允许使用自己的子弹生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) -自动创建和管理您的SEO标签.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) -一个简单的Cake3插件，用于处理字段和按内容查找记录.
-- [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+- [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的sl.
 
 ## Skeleton
 *围绕应用程序框架的插件和存储库.*
@@ -328,7 +328,7 @@
 - [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) -Bootstrap 3集成.
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel) -用于生成XLSX文件的Excel视图.
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) -前端框架FormHelper扩展.
-- [CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](http://commonmark.org) （降价）对模型和视图的支持.
+- [CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](https://commonmark.org) （降价）对模型和视图的支持.
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) -一个视图类，可以轻松生成CSV.
 - [Datalist plugin](https://github.com/rrd108/cakephp-datalist) -支持HTML5数据列表元素，并可以在相关模型中创建新条目.
 - [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类，可轻松生成（复杂）RSS feed.
@@ -343,7 +343,7 @@
 ## Testing
 *用于测试代码库和生成测试数据的插件/工具.
 
-- [CakePHP Codeception module](https://github.com/cakephp/codeception) -与CakePHP的官方集成 [Codeception](http://codeception.com).
+- [CakePHP Codeception module](https://github.com/cakephp/codeception) -与CakePHP的官方集成 [Codeception](https://codeception.com).
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) -官方CakePHP CS规则.
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) -自动查找代码问题/发出气味并自动修复CS错误.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) 支持CakePHP固定装置.
@@ -394,7 +394,7 @@
 - [CakeFest](http://cakefest.dereuromark.de/) -在每年的CakePHP会议“ CakeFest”周围的演示应用程序.
 - [Croogo 3.x](http://demo.croogo.org/3.0) -Croogo 3.x演示
 - [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) -包含真实示例（CRUD，身份验证，高级模式等）的CakePHP代码示例示例，该示例遵循 [RealWorld](https://github.com/gothinkster/realworld-example-apps) 规格和API.
-- [Sandbox](http://sandbox.dereuromark.de) -一个沙盒CakePHP应用程序，其中包含许多演示和插件展示.
+- [Sandbox](https://sandbox.dereuromark.de) -一个沙盒CakePHP应用程序，其中包含许多演示和插件展示.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) 高级查询构建示例.
 - [Xeta](https://github.com/XetaIO/Xeta) -一种帮助从CakePHP开始的人们的资源.
 - [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) -CakePHP + VueJS单页应用程序框架.
@@ -407,18 +407,18 @@
 
 - [CakePHP-FR.org](http://cakephp-fr.org) -法国社区网站.
 - [CakePHP.ir](http://forum.cakephp.ir/) -与其他开发者的讨论和波斯社区的一般性问题.
-- [Official CakePHP Forum](http://discourse.cakephp.org/) -这适用于一般性问题.
-- [IRC Channel](http://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) -与其他开发人员和核心开发人员的实时聊天/讨论.
-- [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) -这是针对特定问题的，最好是带有一些示例代码.
+- [Official CakePHP Forum](https://discourse.cakephp.org/) -这适用于一般性问题.
+- [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) -与其他开发人员和核心开发人员的实时聊天/讨论.
+- [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) -这是针对特定问题的，最好是带有一些示例代码.
 
 ## CakePHP Websites
 *有用和最新的CakePHP相关网站和博客.*
 
 - [AD7six.com](http://AD7six.com) -CakePHP核心开发博客.
 - [CakeDC](http://www.cakedc.com/articles) -关于CakePHP的文章.
-- [dereuromark.de](http://www.dereuromark.de) -广泛的CakePHP核心开发博客.
+- [dereuromark.de](https://www.dereuromark.de) -广泛的CakePHP核心开发博客.
 - [florian-kraemer.net](http://florian-kraemer.net) -CakePHP相关的核心开发博客.
-- [jedistirfry.co.uk](http://jedistirfry.co.uk) -一个与CakePHP相关的开发者博客.
+- [jedistirfry.co.uk](http://jedistirfry.co.uk) - A CakePHP related dev blog.
 - [josediazgonzalez.com](http://josediazgonzalez.com/) -一个主要与CakePHP相关的核心开发博客.
 - [mark-story.com](http://mark-story.com) -CakePHP首席开发博客.
 - [waltherlalk.com](http://waltherlalk.com) -CakePHP相关的核心开发博客.
@@ -435,13 +435,13 @@
 ## CakePHP Tutorials
 *必须做的教程.*
 
-- [Official Blog tutorial](http://book.cakephp.org/3.0/en/tutorials-and-examples/blog/blog.html)
+- [Official Blog tutorial](https://book.cakephp.org/3.0/en/tutorials-and-examples/blog/blog.html)
 
 ## CakePHP Reading and Listening
 *文档和CakePHP相关的阅读和听力材料.*
 
-- [CakePHP Cookbook(!)](http://book.cakephp.org/) -官方CakePHP文档.
-- [CakePHP Reporter](http://www.scoop.it/t/cakephp-reporter) -关于CakePHP的报纸和资料集.
+- [CakePHP Cookbook(!)](https://book.cakephp.org/) -官方CakePHP文档.
+- [CakePHP Reporter](https://www.scoop.it/topic/cakephp-reporter) -一份关于CakePHP的报纸和资料集.
 
 ## CakePHP Internals Reading
 *阅读与CakePHP内部和决策相关的材料.
@@ -454,14 +454,14 @@
 ## Official
 *国际会议.*
 
-- [cakefest.org](http://cakefest.org/) -年度CakePHP会议.
+- [cakefest.org](https://cakefest.org/) -年度CakePHP会议.
 
 ## MeetUps
 *区域聚会*
 
-- [CakePHP-DE](http://www.meetup.com/CakePHP-DE) -在德国见面.
-- [CakePHP-France](http://www.meetup.com/CakePHP-France) -法国的MeetUps.
-- [CakePHP-NL](http://www.meetup.com/CakePHP-NL) -荷兰的MeetUps.
+- [CakePHP-DE](https://www.meetup.com/CakePHP-DE) -在德国见面.
+- [CakePHP-France](https://www.meetup.com/CakePHP-France) -法国的MeetUps.
+- [CakePHP-NL](https://www.meetup.com/CakePHP-NL) -荷兰的MeetUps.
 
 ## Contributing
 请参见 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 有关详细信息.

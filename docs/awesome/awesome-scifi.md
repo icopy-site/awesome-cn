@@ -84,7 +84,7 @@ Books:
 
  这是一本很长的书，但是绝对很棒.  它为我重新定义了可能的科幻小说的规模，特别是考虑到人的元素非常充实（与其他大型太空史诗，例如奥拉夫·斯塔普尔顿的《最后的人类》相对）.  展望未来，只有两个小小的变化-如果我们有药物战胜死亡并且城市可以飞翔，那该怎么办？  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;《飞行中的城市》（Cities in Flight）最初出版了近五十年的四册，汇集了科幻小说大师詹姆斯·布利什（James Blish）著名的“俄克小说”.  这些小说以美国“沙尘暴”的移民工人的名字命名，传达了布莱什的“未来历史”，这是对世界充满活力和黯淡的目光，城市遍布着银河寻找工作和可持续的生活方式.
+ &gt;《飞行中的城市》（Cities in Flight）最初出版了近五十年的四册，汇集了科幻小说大师詹姆斯·布利什（James Blish）著名的“俄克小说”.  这些小说以美国“沙尘暴”的移民工人的名字命名，传达了布利什的“未来历史”，这是对城市漫游于银河寻找工作和可持续生活方式的世界的灿烂和黯淡的观察.
 >
 > In the first novel, _They Shall Have Stars_, man has thoroughly explored the Solar System, yet the dream of going even further seems to have died in all but one man. His battle to realize his dream results in two momentous discoveries anti-gravity and the secret of immortality. In _A Life for the Stars_, it is centuries later and antigravity generations have enabled whole cities to lift off the surface of the earth to become galactic wanderers. In _Earthman, Come Home_, the nomadic cities revert to barbarism and marauding rogue cities begin to pose a threat to all civilized worlds. In the final novel, _The Triumph of Time_, history repeats itself as the cities once again journey back in to space making a terrifying discovery which could destroy the entire Universe. A serious and haunting vision of our world and its limits, _Cities in Flight_ marks the return to print of one of science fiction’s most inimitable writers.
 
@@ -98,7 +98,7 @@ Books:
 
  有趣的是，关于薛定ding猫的多重宇宙的可能性，以及各种选择（无论大小）如何导致了这一确切时刻.  -- [@thedeany](https://github.com/thedeany)
 
-&gt;杰森·德森（Jason Dessen）一天晚上正走在寒冷的芝加哥街道上，希望与妻子丹妮拉（Daniela）和他们的儿子查理（Charlie）在壁炉前度过一个安静的夜晚.
+&gt;杰森·德森（Jason Dessen）一天晚上正走在寒冷的芝加哥街道上，希望与妻子丹妮拉（Daniela）和儿子查理（Charlie）一起在壁炉前度过一个宁静的夜晚.
 >
 &gt;首先是一个戴着面具的男子用枪口枪绑架他，原因是杰森无法开始hom默-任何人都想要普通物理学教授？-从那里开始变得更加恐怖，杰森的绑架者向他注入了一些东西.未知的毒品，看着他失去知觉.
 >
@@ -112,19 +112,19 @@ Books:
 
  多么奇怪，有趣和可爱的小书.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;弗雷德·卡西迪（Fred Cassidy）是永续生，有血有肉和密友的学生，是最后一位见过朋友见过的重要石头的人.  各种各样的罪犯，盎格鲁的狂热分子，政府特工和外星人拷打，射击，殴打，欺骗，追逐，恐吓，心灵感应地袭击，偷偷摸摸地跟踪弗雷德和弗雷德里克·弗雷德，企图让他告诉他们石头的位置.  他否认有关其下落的任何知识，并决定进行自己的调查.
+ &gt;弗雷德·卡西迪（Fred Cassidy）是永续生，有血有肉和密友的学生，是最后一位见过他朋友所拥有的重要石头的人.  各种各样的罪犯，盎格鲁的狂热分子，政府特工和外星人折磨，射击，殴打，欺骗，追逐，恐吓，以心灵感应的方式袭击，偷偷靠近弗雷德，还有重要的弗雷德，试图让他告诉他们石头的位置.  他否认有关其下落的任何知识，并决定进行自己的调查.
 
 #### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) (1963-1994) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)* [4.1] 🌟 🔥
 
  我认为，关于Dune的最着迷的不是它被如此普遍地阅读，而是它被引用的普遍性.  阅读此内容后，您将开始在各处看到Dune报价.  沙丘在范围上具有里程碑式的意义，它的警示语是当您相信一个受过科学训练的人时会发生的事情，这几乎在事与愿违的英雄主义，复仇和和解的故事中完全相反.  一本书值得多次阅读.  当然，这也是一个系列-第一个单独出现，我只读了前两个.  几乎没有必要.  单是沙丘就好.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; _Dune_讲述了年轻的保罗·阿特雷德（Paul Atreides）的故事（杜克·雷托·阿特雷德斯公爵的继承人和众议院的继承人） Atreides），因为他和他的家人接受了对沙漠星球Arrakis的控制，而Arrakis是“香料”混合物的唯一来源，“香料”混合物是宇宙中最重要和最有价值的物质.  这个故事探讨了政治，宗教，生态，技术和人类情感之间复杂，多层的相互作用，因为帝国的力量为了控制阿拉基斯而相互对抗.
+ &gt; _Dune_讲述了一个年轻的保罗·阿特雷德斯（Paul Atreides的继承人（杜克·雷托·阿特雷德斯公爵的继承人和众议院的继承人）的故事，在遥远的未来中，它位于一个庞大的封建星际帝国中，行星朝代是由效忠于皇家科里诺的贵族房屋控制的. Atreides），因为他和他的家人接受了对沙漠星球Arrakis的控制，而Arrakis是“香料”混合物的唯一来源，“香料”混合物是宇宙中最重要和最有价值的物质.  这个故事探讨了政治，宗教，生态，技术和人类情感之间复杂，多层的相互作用，因为帝国的力量为了控制阿拉基斯而相互对抗.
 >
 > Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. _Dune_ is frequently cited as the world’s best-selling SF novel.
 
 #### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) *by [China Miéville](https://en.wikipedia.org/wiki/China_Mi%C3%A9ville)* [3.8]
 
-&gt;在不远的将来，人类将一个遥远的星球定居在这个神秘的阿列凯（Ariekei）的家乡.
+&gt;在不远的将来，人类将一个遥远的星球定居在这个神秘的Ariekei的家园.Ariekei是以宇宙中独特的一种语言而闻名的有情生物，只有少数几经改变的人类大使才能说这种语言.
 >
  &gt;经过多年的太空探险，人类殖民者Avice Benner Cho回到了Embassytown.  她不会说Ariekei的语言，但她是语言中不可磨灭的一部分，很久以前就被用作语言象征，用他们的语言生动地表达了自己的意思.
 >
@@ -148,9 +148,9 @@ Books:
 
 #### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) *by [Daniel Keyes](https://en.wikipedia.org/wiki/Daniel_Keyes)* [4.0] 🌟 🔥
 
-This book is often given to high school students, but stands up well as an adult read. I think the best part about it is what Charlie does once he starts being intelligent; he suddenly likes art and making things and scientific theory. I think the altruism and openness of that time shows that the experiment, such as it was, didn't change everything. It's fun to think about. Also, this book made me cry the first time I read it. I was 25. - [@RichardLitt](https://github.com/RichardLitt)
+ 这本书通常是给高中生的，但是当成人阅读时会很好地站起来.  我认为最好的部分是查理一开始变得聪明就做什么.  他突然喜欢艺术，创造事物和科学理论.  我认为那个时代的利他主义和开放性表明，像这样的实验并没有改变一切.  考虑到这很有趣.  另外，这本书使我第一次阅读时就哭了.  我25岁. [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;售出超过500万本，《花为阿尔及农》是一个智障人士的经典故事，他对智力的实验性追求与非凡的实验老鼠阿尔及农相似.  在辛辣的日记中，查理讲述了大脑手术如何增加他的智商并改变他的生活.  随着实验程序的生效，查理的智慧将不断扩展，直到超过设计他的变形学的医生为止.  该实验似乎是最重要的科学突破，直到阿尔及农开始他突然的，意想不到的恶化.  查理会发生同样的事情吗？
+ &gt;售出超过500万本，《花为阿尔及农》是一个智障人士的经典故事，他对智力的实验性追求与非凡的实验老鼠阿尔及农类似.  在辛辣的日记中，查理讲述了大脑手术如何增加他的智商并改变他的生活.  随着实验程序的生效，查理的智慧将不断扩展，直到超过设计他的变形学的医生为止.  该实验似乎是最重要的科学突破，直到阿尔及农开始他突然的，意想不到的恶化.  查理会发生同样的事情吗？
 
 #### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.0] 🌟 🔥
 
@@ -162,7 +162,7 @@ This book is often given to high school students, but stands up well as an adult
 
  疯狂科学的原型故事，以“科学能走多远”为主题，可以说催生了现代的科幻小说类型.  -- [@katamaritaco](https://github.com/katamaritaco)
 
- &gt;玛丽·雪莱（Mary Shelley）十八岁时就开始写《科学怪人》.  弗兰肯斯坦（Frankenstein）立刻讲述了哥特式惊悚片，充满激情的爱情故事以及关于科学危险的警示性故事，讲述了致力于科学的学生Victor Frankenstein的故事.  弗兰肯斯坦（Frankenstein）着迷于发现世代和生命的起因，并赋予无生命的物质动画，他从被盗的身体部位组装了一个人，但是；  将其变为现实后，他对这种生物的丑陋感到恐惧.  这位曾经纯真的生物在孤独和孤独的折磨下变成了邪恶，并发动了一场针对他的创造者科学怪人的谋杀报仇运动.
+ &gt;玛丽·雪莱（Mary Shelley）十八岁时就开始写《科学怪人》.  弗兰肯斯坦（Frankenstein）立刻讲述了哥特式惊悚片，充满激情的爱情故事以及关于科学危险的警示性故事，讲述了致力于科学的学生Victor Frankenstein的故事.  弗兰肯斯坦（Frankenstein）着迷于发现世代和生命的起因，并赋予无生命的物质动画，从被盗的身体部位组装了一个人，但  将其变为现实后，他对这种生物的丑陋感到恐惧.  这位曾经纯真的生物在孤独和孤独的折磨下变成了邪恶，并发动了一场针对他的创造者科学怪人的谋杀报仇运动.
 >
  &gt;弗兰肯斯坦（Frankenstein）是即时畅销书和恐怖小说和科幻小说的重要祖先，他不仅讲述了一个恐怖的故事，而且提出了关于生命的本质和人类在宇宙中的地位的深刻而令人不安的问题：这意味着成为人类？  我们彼此负有什么责任？  我们能在多大程度上篡改自然？  在我们这个时代，充满了器官捐赠基因工程和生物恐怖主义的新闻，这些问题比以往任何时候都更加重要.
 
@@ -188,13 +188,13 @@ This book is often given to high school students, but stands up well as an adult
 
 #### [Jean le Flambeur Series](https://www.goodreads.com/series/57134-jean-le-flambeur) (2010, 2012, 2014) *by [Hannu Rajaniemi](https://en.wikipedia.org/wiki/Hannu_Rajaniemi)* [4.0 (avg)]
 
- &gt;让·勒·弗兰布尔（Jean le Flambeur）早上起床，必须自杀，然后他的另一个人才能先杀死他.  在困境监狱的另一天.  吉恩（Jean）被神秘的米埃利（Mieli）和她的妖space的宇宙飞船营救，被带到火星移动城市欧比莱特（Oubliette），在这里时间是一种货币，记忆是宝藏，而月亮变成了奇异的夜晚.  同时，调查员伊西多尔·博特雷莱特（Isidore Beautrelet）受邀调查谋杀巧克力的谋杀案，结果发现自己身处大罪犯的行列，一个名叫勒弗兰布尔的人.
+ &gt;让·勒·弗兰布尔（Jean le Flambeur）早上起床，必须自杀，然后他的另一个人才能先杀死他.  在困境监狱的另一天.  吉恩（Jean）被神秘的米埃利（Mieli）和轻浮的宇宙飞船救出，被带到火星移动城（Oubliette），这里是时间的货币，记忆是宝藏，而月亮变成了奇异的夜晚.  同时，调查员伊西多尔·博特雷莱特（Isidore Beautrelet）受邀调查谋杀巧克力的谋杀案，结果发现自己身处大罪犯的行列，这名男子名为弗兰布尔（le Flambeur）.
 
 #### [Jem](https://www.goodreads.com/book/show/591572.Jem) (1979) *by [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl)* [3.6]
 
  这本书有一些美丽的段落.  它主要涉及将外来物种用于民族主义目的的伦理学，仅此而已就很有趣.  就像很多科幻小说一样，我发现很难理解任何特定角色，但这是简短的阅读，还是值得的.  政治有点过时了.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;发现另一个宜居世界可能会拯救资源匮乏的21世纪的三个相互竞争的强权集团.  但是，当他们的代表到达拥有众多智能物种的杰姆时，他们反而发现了将自己的竞争对手导出的理想情况.  詹姆（Jem）的副标题是“ _乌托邦的制作_”，具有野蛮的讽刺意味，是弗雷德里克·波尔（Frederik Pohl）最有力的小说之一.
+ &gt;发现另一个宜居世界可能会拯救资源匮乏的21世纪的三个相互竞争的强权集团.  但是，当他们的代表到达拥有众多智能物种的杰姆时，他们反而发现了将自己的竞争对手导出的理想情况.  詹姆（Jem）的副标题是“ _乌托邦的制作_”，具有野蛮的讽刺意味，是弗雷德里克·波尔（Frederik Pohl）最有影响力的小说之一.
 
 #### [Lord of Light](https://www.goodreads.com/book/show/13821.Lord_of_Light) (1967) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.1]
 
@@ -204,7 +204,7 @@ This book is often given to high school students, but stands up well as an adult
 
 #### [The Murderbot Diaries](https://www.goodreads.com/series/191900) (2017-) *by [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)* [4.3]
 
- _The Murderbot Diaries_是一系列中篇小说，每本大约150页，由一个像人类一样的机器人主演，尽管冒险之后，它仍然会被吸引到冒险中去，尽管它只是想独自一人，远离人类，闲聊和看电视连续剧.  如果您喜欢Ann Leckie的_Imperial Raadch_系列或Iain M. Banks的_Culture_小说，那么这本中篇小说可能适合您.  它们轻巧，有趣，但仍足以吸引您的突触.  -- [@oschrenk](https://github.com/oschrenk)
+ _The Murderbot Diaries_是一系列中篇小说，每本大约150页，由一个像人类一样的机器人主演，尽管冒险之后，他还是会被吸引进冒险，尽管它只是想独自一人，远离人类和闲聊，看电视连续剧.  如果您喜欢Ann Leckie的_Imperial Raadch_系列或Iain M. Banks的_Culture_小说，那么这本中篇小说可能适合您.  它们轻巧，有趣，但仍足以吸引您的突触.  -- [@oschrenk](https://github.com/oschrenk)
 
 Books:
 
@@ -217,13 +217,13 @@ Books:
 >
 &gt;在遥远的星球上，一群科学家正在进行表面测试，这被他们公司提供的&#39;droid-一个自我意识的SecUnit掩盖了自己的调速器模块，并称自己（尽管从未大声喊叫）为“ Murderbot ........................，..
 >
-&gt;但是，当临近的任务消失时，则取决于科学家及其谋杀机器人的真相.
+&gt;但是，当相邻的任务消失时，则取决于科学家及其杀人机器人才能了解真相.
 
 #### [The Polity](https://www.goodreads.com/series/49128-polity-universe-chronological-order) (1998-2018) *by [Neal Asher](https://en.wikipedia.org/wiki/Neal_Asher)* [4.11]
 
- 尼尔·艾舍尔（Neal Asher）已撰写了将近20本书（如果包括短篇小说集），放在政治世界中，这是一种由（主要是）仁慈的AI统治的星际人类文明，全部由最强大的AI监督：Earth Central.  较大的Polity藏品中有几个不同的系列，还有几本独立的小说和短篇小说集.  《伊恩·科马克》（Ian Cormac）系列跟随地球中心的一位人类特工，他调查对政治的威胁.  * Spatterjay *系列探索Spatterjay的敌对世界及其蹄子的生活：被外来病毒感染的人类可以赋予宿主功能性永生，巨大的力量和令人难以置信的耐用性，但并非没有代价.  * Transformations *系列专注于名为Penny Royal的流氓AI，几乎可以实现任何愿望，但它的帮助始终是一把双刃剑.  他最近的系列作品《 *那教的崛起》讲述了一个古老而强大的外星人种族的重新出现，该种族在为银河系播种了旨在摧毁任何智能文明的技术种子之后，就消失了.
+ 尼尔·艾舍尔（Neal Asher）已写了近20本书（如果包括短篇小说集），放在政治世界中，这是一种由（主要是）仁慈的AI统治的星际人类文明，全部由最强大的AI监督：Earth Central.  较大的Polity藏品中有几个不同的系列，还有几本独立的小说和短篇小说集.  《伊恩·科马克》（Ian Cormac）系列跟随地球中心的一位人类特工，他调查对政治的威胁.  * Spatterjay *系列探索Spatterjay的敌对世界及其蹄子的生活：被外来病毒感染的人类可以赋予宿主功能性永生，巨大的力量和令人难以置信的耐用性，但并非没有代价.  * Transformations *系列专注于名为Penny Royal的流氓AI，几乎可以实现任何愿望，但它的帮助始终是一把双刃剑.  他最近的系列影片《 Ja那教的崛起》讲述了一个古老而强大的外星人种族的重新出现，该种族在为银河系播种了旨在摧毁任何人类智慧文明的技术种子之后，就消失了.
 
- Asher的所有* Polity *小说都充满了惊人的技术，充满活力的人物，绘画散文以及探索人类本质和局限性的主题.  我很想将此系列归类为Hard Sci-Fi类别，因为Asher引入了很少的技术，这些技术无法从现有技术中推论出来，但涉及了一些东西（例如FTL旅行）以及该系列在未来的距离我确信我不应该将其包含在“困难”类别中.  -- [@isochronous](https://github.com/isochronous)
+ Asher的所有* Polity *小说都充满了惊人的技术，充满活力的人物，绘画散文以及探索人类本质和局限性的主题.  我很想将此系列归为Hard Sci-Fi类别，因为Asher引入了很少的技术，这些技术是无法从现有技术中推断出来的，但涉及了一些东西（例如FTL旅行）以及该系列在未来的距离我确信我不应该将其包含在“困难”类别中.  -- [@isochronous](https://github.com/isochronous)
 
  &gt;“建立世界”一词立即使人想到幻想，特别是在托尔金中土之类的地方，但我们听不到“建立宇宙”的声音.  科幻小说的作者不仅必须为一个地方创造历史和社会，这通常甚至不是一个幻想中的星球，而是为一个几乎不可想象的宇宙创造一个世界，其中需要用自己的技术和各种种族和行星来填充它历史悠久.
 >
@@ -245,7 +245,7 @@ Twitter用户：我读过的最好的书之一.
 
 &gt;波兰著名小说家和讽刺作家斯坦尼斯瓦夫·莱姆（StanisławLem）创作的一部经典科幻小说.
 >
- &gt;当克里斯·开尔文（Kris Kelvin）到达Solaris行星研究覆盖其表面的海洋时，他发现了一种痛苦的，至今无意识的记忆，体现在一个长死恋人的鲜活身体上.  开尔文（Kelvin）得知，其他考察这个星球的人都对自己的压抑和新近出现的记忆感到困扰.  Solaris海洋可能是创造这些化身记忆的巨大大脑，尽管这样做的目的尚不清楚，这迫使科学家转移了探索的重心，并怀疑他们是否能够在不先了解自己内心的本质的情况下真正了解宇宙.
+ &gt;当克里斯·开尔文（Kris Kelvin）到达Solaris星球研究覆盖其表面的海洋时，他发现了一个痛苦的，至今无意识的记忆，体现在一个长死恋人的鲜活身体上.  开尔文（Kelvin）得知，其他考察这个星球的人都对自己的压抑和新近出现的记忆感到困扰.  Solaris海洋可能是创造这些化身记忆的巨大大脑，尽管这样做的目的尚不清楚，这迫使科学家转移了探索的重点，并怀疑他们是否能够在不先了解自己内心的本质的情况下真正了解宇宙.
 
 #### [Space Trilogy: Out of the Silent Planet, Perelandra, and That Hideous Strength](https://www.goodreads.com/book/show/30628.Out_of_the_Silent_Planet_Perelandra_That_Hideous_Strength?ac=1) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [4.1]
 
@@ -269,9 +269,9 @@ Twitter用户：我读过的最好的书之一.
 
 #### [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) (1994) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.0]
 
- 在阅读_Ender&#39;s Game_之后，我一直推迟阅读这本书，并且不知道想要以糟糕的续集来贬低它（就像我以为_Ender&#39;s Shadow_曾经那样）.  我已经读了这本书，对此深感遗憾.  它是深刻，有见地和出色的写作.  -- [@RichardLitt](https://github.com/RichardLitt)
+ 在读完《恩德的游戏》之后，我一直推迟阅读这本书，并且不知道想要以糟糕的续集来贬低它（就像我以为《恩德的影子》曾经）.  我已经读了这本书，对此深感遗憾.  它是深刻，有见地和出色的写作.  -- [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;在经历了一场可怕的战争之后，恩德·威金（Ender Wiggin）消失了，并发出了强有力的声音：死者演讲者，讲述了布格战争的真实故事.
+&gt;在经历了可怕的战争之后，恩德·威金（Ender Wiggin）消失了，并发出了强有力的声音：死者议长，讲述了布格战争的真实故事.
 >
  &gt;多年后的今天，又发现了第二个外星种族，但外星人的方式又奇怪又可怕……人类再次死亡.  而且只有死者的演讲者，还有杀人灭绝的恩德·威金（Ender Wiggin），才有勇气面对神秘之谜和真理.
 
@@ -285,7 +285,7 @@ Twitter用户：我读过的最好的书之一.
 
  这本书写的是2010年的故事，以及人口过多时的世界.  今天，它仍然是非常相关的，尤其是考虑到写作风格，其中似乎包含了太多的信息，超出了需要.  鉴于近年来反恐言论的兴起，“混蛋”这一概念非常有趣，因为人们会因拥挤而无故发疯.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;诺曼·尼布洛克大厦（Norman Niblock House）是通用技术公司（General Technics）的一名正在上升的高管，通用技术公司是少数几家实力雄厚的公司之一.  他的工作使通用技术公司在市场和政治上都领先于全球支配地位，即将接管非洲的一个国家.  唐纳德·霍根（Donald Hogan）是他的室友，一个看似sheep的书呆子.  但是霍根是个间谍，他将在基因工程领域发现一个突破，它将改变世界……并杀死他.  这两个人的生活编织成科幻小说中最受欢迎的小说之一.  桑给巴尔岛上的_Stand以与约翰·多斯·帕索斯（John Dos Passos）的_U.SA_三部曲相呼应的方式写成，是一个人口过亿的世界的横断面.  像上帝一样的巨型计算机，大量销售的迷幻药物以及对基因工程的日常使用，使社会陷入了蜂巢般的疯狂.  尽管写于1968年，但它讲述的是2010年，并且具有超前的先见之明和强大的力量.
+ &gt;诺曼·尼布洛克大厦（Norman Niblock House）是通用技术公司（General Technics）的一名正在上升的高管，通用技术公司是少数几家全能公司之一.  他的工作使通用技术公司在市场和政治上都领先于全球支配地位，即将接管非洲的一个国家.  唐纳德·霍根（Donald Hogan）是他的室友，一个看似sheep的书呆子.  但是霍根是个间谍，他将在基因工程领域发现一个突破，它将改变世界……并杀死他.  这两个人的生活编织成科幻小说中最受欢迎的小说之一.  桑给巴尔岛上的_Stand以与约翰·多斯·帕索斯（John Dos Passos）的_U.SA_三部曲相呼应的方式写成，是一个人口过亿的世界的横断面.  像上帝一样的巨型计算机，大量销售的迷幻药物以及对基因工程的日常使用，使社会陷入了蜂巢般的疯狂.  尽管写于1968年，但它讲述的是2010年，并且具有超前的先见之明和强大的力量.
 
 #### [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) (1937) *by [Olaf Stapledon](https://en.wikipedia.org/wiki/Olaf_Stapledon)* [3.9] 🌟
 
@@ -327,7 +327,7 @@ Twitter用户：我读过的最好的书之一.
 
  这更多地是关于您在法律之外时会发生什么的阅读.  令人着迷，有时像福尔摩斯这样的读物.  -- [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;这部科幻小说的杰作是格里芬（Griffin）的一个迷人故事.格里芬（Griffin）创造了一个使自己看不见的血清，随后他陷入疯狂.
+&gt;这部科幻小说的杰作是格里芬（Griffin）的一个迷人故事，他创造了一种使自己不可见的血清，并随后陷入疯狂.
 
 #### [The Left Hand of Darkness](https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness) (1969) *by [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [4.1]
 
@@ -382,7 +382,7 @@ Twitter用户：我读过的最好的书之一.
 
 ##### [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites) (1988) [4.2]
 
- &gt;在《黎明》的续集中，莉莉丝·伊亚波（Lilith Iyapo）生了一个貌似正常人的男孩，名叫阿金（Akin）.  但是Akin实际上有五个父母：一个男女，一个Oankali，一个无性别的Ooloi.  Oankali和Ooloi是一场外星人种族的一部分，该种族将人类从一场毁灭性的核战争中解救出来，但它们所付出的代价是高昂的，外星人被迫将其物种与其他种族进行基因融合，从而在此过程中极大地改变了两者.
+ &gt;在《黎明》的续集中，莉莉丝·伊亚波（Lilith Iyapo）生了一个貌似正常人的男孩，名叫阿金（Akin）.  但是Akin实际上有五个父母：一个男女，一个Oankali，一个无性别的Ooloi.  Oankali和Ooloi是一场外星人种族的一部分，该种族将人类从一场毁灭性的核战争中解救了出来，但它们所付出的代价是高昂的，外星人被迫将其物种与其他种族进行基因融合，从而在这过程中极大地改变了两者.
 >
  &gt;在恢复原状的地球上，这种“新”种族通过人类/奥卡利/奥洛伊交配而出现，但是也有“纯”人类选择抵抗外星人及其提供的救赎.  这些抗药被Ooloi消毒，因此它们无法重现驱使人类自我毁灭的遗传缺陷，但否则它们将被单独放置（除非它们变得暴力）.
 >
@@ -446,11 +446,11 @@ This space opera novel reminds me of a series of _Star Trek_ episodes, if [Rodde
 >
  &gt;经过几个世纪的科学，文化和自然发展的后代分为三类：肉类-真正的智人；  Gleisner机器人-在与物理世界互动的机器中体现人类的思想；  和城市-充满智能软件的超级计算机，其中包含数十亿个人的直接复制品，而现在这些复制品仅存在于城市的虚拟现实中.
 >
- &gt; Diaspora是Yatima（一个由Konishi地带基础思想种子的随机突变产生的地带）和人类的故事，是一场天体物理事故，刺激了地带的数千倍克隆.  发现外来种族和时间纠结意味着人类（无论采取何种形式）将永远不会再受到上帝行为的威胁.
+ &gt; Diaspora是Yatima（一个由Konishi polis基础心灵种子的随机突变产生的城市）和人类的故事，是一场天体物理事故，刺激了数千个克隆.  发现外来种族和时间纠结意味着人类（无论采取何种形式）将永远不会再受到上帝行为的威胁.
 
 #### [Dragon’s Egg](https://www.goodreads.com/book/show/263466.Dragon_s_Egg) (1980) *by [Robert L. Forward](https://en.wikipedia.org/wiki/Robert_L._Forward)* [4.1]
 
- &gt;在一个关于牺牲和胜利的动人故事中，人类科学家与聪明的生命形式建立了联系，它们生活在一个中子星龙蛋上，其中一个地球小时相当于他们数百年，是一种中子星.  Cheela在文化上从野蛮到科学的发现，在很短的时间内，男人是他们勤奋的老师.
+ &gt;在关于牺牲和胜利的动人故事中，人类科学家与聪明的生命形式建立了联系，它们生活在中子星龙蛋上，其中一个地球小时相当于他们数百年，这就是中子星龙蛋.  Cheela在文化上从野蛮到科学的发现，在很短的时间内，男人是他们勤奋的老师.
 
 #### [Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by [Ramez Naam](https://en.wikipedia.org/wiki/Ramez_Naam)* [4.1]
 
@@ -484,15 +484,15 @@ This space opera novel reminds me of a series of _Star Trek_ episodes, if [Rodde
 
  这很有趣.  伟尔设法写出令人回味的技术惊悚片，而他的角色却不时屈服于不断的肚脐注视和寂寞的牵制.  这可以描述为鲁滨逊·克鲁索-太空.  地球上的角色并不是最伟大的角色，但是整本书的幽默感确实使它融为一体，并且就机械工程学而言，看着工作中的大师令人着迷.  爱它.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;《阿波罗13号》与《遥远的远方》相遇，这部引人入胜的，精巧绝妙的人对自然生存惊悚片设在火星表面.  六天前，宇航员马克·沃特尼（Mark Watney）成为首批在火星表面行走的人之一.  现在，他确定自己将是第一个死在那里的人.
+ &gt;《阿波罗13号》在这部引人入胜，精巧绝妙的人对自然生存惊悚片中与《遥远星际》相遇.  六天前，宇航员马克·沃特尼（Mark Watney）成为首批在火星表面行走的人之一.  现在，他确定自己将是第一个死在那里的人.
 >
  &gt;沙尘暴开始使他的衣服穿上衣服，差点杀死他，并迫使他的船员将他抛在身后，以确保他已经死了.  现在，他已经与最近的人类困在一起数百万英里，甚至无法向地球发出他还活着的信号-即使他能说出话来，他的食物也将在救援任务到达之前数年就消失了.  不过，他没有时间饿死.  损坏的机械，无法原谅的环境或过时的“人为错误”更有可能使他优先.
 
-> But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills—and a relentless, dogged refusal to quit—he steadfastly confronts one seemingly insurmountable obstacle after the next. But will his resourcefulness be enough to overcome the impossible odds against him?
+ &gt;但是Mark还没有准备好放弃.  凭借他的独创性，他的工程技术以及不懈，顽强的拒绝辞职，他坚定地面对下一个似乎不可逾越的障碍.  但是他的足智多谋足以克服对他不利的可能性吗？
 
 #### [The Sands of Mars](https://www.goodreads.com/book/show/149063.The_Sands_of_Mars) (1951) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.7]
 
- 这本书最有趣的地方在于它对行星地球进行了非常酷的变化，以及这对居民的影响以及对民族主义（或原本是行星主义）的意义.  -- [@RichardLitt](https://github.com/RichardLitt)
+ 这本书最有趣的地方在于它对行星地球进行了非常酷的变化，以及这对居民的影响以及对民族主义（或行星主义）的意义.  -- [@RichardLitt](https://github.com/RichardLitt)
 
  &gt;太空作家假期.  当一位著名的科幻小说家在第一次去火星旅行时进入太空时，他一定会受到飞船工作人员的折磨.  但是，关于太空的人马丁·吉布森（Martin Gibson）大步向前.  也就是说，直到他降落在红色星球上.  一旦到了那里，这位无畏的作者偶然发现了火星上最精心隐藏的秘密，并威胁着整个星球的未来，一个接一个地引发了一个问题.
 
@@ -532,7 +532,7 @@ _以先进科学技术为基础的未来小说，同时又扰乱了社会秩序.
 
 &gt;矩阵是世界之内的世界，是全球共识的幻觉，是网络空间中每个字节数据的表示形式……
 >
- &gt;案例一直是企业中最敏锐的数据窃贼，直到报仇的前雇主削弱了他的神经系统.  但是现在，一个新的非常神秘的雇主招募了他，以进行最后一次竞选.  目标是为邪恶的Tessier-Ashpool商业家族服务的不可思议的强大人工智能绕地球运转.  凯斯带着死者骑着shot弹枪，还有镜前眼的街头武士莫莉（Molly）看着自己的背影，他开始了一场冒险，整个小说体裁都提高了赌注.
+ &gt;案例一直是企业中最敏锐的数据窃贼，直到报仇的前雇主削弱了他的神经系统.  但是现在，一个新的非常神秘的雇主招募了他，以进行最后一次竞选.  目标是为邪恶的Tessier-Ashpool商业家族服务的不可思议的强大人工智能绕地球运转.  凯斯带着死者骑着shot弹枪和镜面街头武士莫莉（Molly）观看他的背影，展开了一场冒险，在整个小说类型中提升了赌注.
 >
 &gt; _Neuromancer_与艺术和技术的前沿热线连接，它与_1984_和_《勇敢的新世界》并列，是本世纪对未来最有力的愿景之一.
 
@@ -576,7 +576,7 @@ _乌托邦小说涉及理想或令人愉快的虚构社区或社会.
 
  我的第一本亚瑟·C·克拉克科幻小说向我介绍了亚瑟·C·克拉克的世界.  这本书处理的是乌托邦社会，那里的外星人是古老的地球人.  --[@DibeshMSShrestha](https://github.com/DibeshMSShrestha)
 
-&gt;塔拉萨（Talassa）只是一个遍及全球的海洋中的几个岛屿，是名副其实的天堂，这里是几个世纪以前由机器人之母建立的一个小殖民地的家园，当时太阳升起新星，人类逃离了地球.
+&gt;塔拉萨（Talassa）只是一个遍及全球的海洋中的几个岛屿，是一个名副其实的天堂，这里是几个世纪以前由机器人母舰建立的一个小殖民地的家园，当时太阳升起新星，人类逃离了地球.
 >
 &gt;殖民者被Thalassa的美丽所迷惑，被其丰富的资源所淹没，过着田园般的生活，却没有意识到在海底缓慢发生的巨大进化事件.
 >
@@ -614,9 +614,9 @@ _反乌托邦小说处理的是虚构的社区或不受欢迎或令人恐惧的�
 
  我最喜欢的三部曲之一！  发散是一部年轻的成人科幻三部曲.  这本书是关于一个反乌托邦的芝加哥社会，分为五个派系：弃绝，友善，无畏，友善和坦率.  为维护社会内部和平而建立的派系.  在这本书中，您将了解比阿特丽斯（Beatrice）的故事，她的决定使她发现了她的真实身份和正在发生的事情.  通过三部曲，您可以看到角色如何演变并随着她的决定变得更加成熟……决定不仅影响她的生活，而且影响其他人.  我强烈推荐这本书！  三部曲的结局让我吃惊了三天！  （好东西我必须和我的一位朋友讨论！）- [@GracielaGarcia](https://github.com/GracielaGarcia)
 
- &gt;在Beatrice Prior的反乌托邦芝加哥世界中，社会分为五个派系，每个派系致力于培养一种特殊的美德-坦诚（诚实），宽恕（无私），无畏（勇敢），友善（和平）和博学的（聪明的）.  在每年的指定日期，所有16岁的年轻人都必须选择他们将毕生奉献的派系.  对于Beatrice而言，决定是在与家人在一起以及成为自己的真实身份之间-她不能两者兼得.  因此，她做出的选择令所有人（包括她自己）都感到惊讶.
+ &gt;在比阿特丽斯·普里特（Beatrice Prior）的反乌托邦芝加哥世界中，社会分为五个派系，每个派系致力于培养一种特殊的美德-坦诚（诚实），宽恕（无私），无畏（勇敢），友善（和平）和博学的（聪明的）.  在每年的指定日期，所有16岁的年轻人都必须选择他们将毕生奉献的派系.  对于Beatrice而言，决定是在与家人在一起以及成为自己的真实身份之间-她不能两者兼得.  因此，她做出的选择令所有人（包括她自己）都感到惊讶.
 >
- &gt;在随后的激烈竞争中，比阿特丽斯改名为Tris，并与同胞一起奋斗，以实现他们做出的选择.  他们必须一起经受极限耐力的物理测试和激烈的心理模拟，其中一些后果是毁灭性的.  当启蒙运动使他们全部转变时，特里斯必须确定她的朋友的真实身份，以及浪漫的，有时令人着迷，有时令人生厌的男孩适合她所选择的生活.  但特里斯（Tris）也有一个秘密，她一直对所有人隐藏，因为有人警告她说这可能意味着死亡.  当她发现动荡和不断加剧的冲突有可能破坏她看似完美的社会时，她也得知自己的秘密可以帮助她拯救自己所爱的人.  .  .  否则可能会毁了她.
+ &gt;在随后的激烈竞争中，比阿特丽斯改名了Tris，并与同胞一起奋斗，以实现他们做出的选择.  他们必须一起经受极限耐力的物理测试和激烈的心理模拟，其中一些后果是毁灭性的.  当启蒙运动改变他们的一切时，特里斯必须确定她的朋友真正是谁-以及一个浪漫的爱情，有时一个迷人的，有时一个令人生气的男孩适合她所选择的生活.  但特里斯（Tris）也有一个秘密，她一直对所有人隐瞒，因为有人警告她说这可能意味着死亡.  当她发现动荡和不断加剧的冲突有可能破坏她看似完美的社会时，她也得知自己的秘密可以帮助她拯救自己所爱的人.  .  .  否则可能会毁了她.
 
 #### [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) (1953) *by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury)* [4.0] 🌟 🔥
 
@@ -634,7 +634,7 @@ _反乌托邦小说处理的是虚构的社区或不受欢迎或令人恐惧的�
 
  这本书是一个奇妙的故事，可以被视为对基因工程兴起和发展的时代的警告，而我们还没有最清楚的线索可能导致我们到来.  我喜欢它，直到阅读完最后一部分时才发现有续集.当我对第一部分做得很好时，第二部分和第一部分一样被吞噬.  就是说，我找到了三本书中的第一本.  -- [@fritzvd](https://github.com/fritzvd)
 
- &gt; _Oryx和Crake_既是一个刻骨铭心的爱情故事，也是对未来的令人信服的愿景.  雪人在人类被瘟疫淹没之前被称为吉米（Jimmy），他正努力在一个世界上生存，在那里他可能是最后一个人类，并为失去他最好的朋友Crake和他们俩所爱的美丽而难以捉摸的羚羊而哀悼.  为了寻找答案，雪人在绿眼的Crake孩子的帮助下，踏上了穿越茂密的荒野的旅程，这个荒野是最近的一座伟大的城市，直到强大的公司带领人类驾驭不受控制的基因工程之旅.  玛格丽特·阿特伍德（Margaret Atwood）将我们投影到一个太过熟悉且超出我们想象的不久的将来.
+ &gt; _Oryx和Crake_既是一个刻骨铭心的爱情故事，也是对未来的令人信服的愿景.  雪人在人类被瘟疫淹没之前被称为吉米（Jimmy），他正努力在一个世界上生存，在那里他可能是最后一个人类，并为失去他最好的朋友Crake和他们俩所爱的美丽而难以捉摸的羚羊而哀悼.  为了寻找答案，雪人在绿眼的Crake孩子的帮助下，踏上了穿越茂密的荒野的旅程，这片荒芜的土地原来是一座伟大的城市，直到强大的公司带领人类驾驭不受控制的基因工程之旅.  玛格丽特·阿特伍德（Margaret Atwood）将我们投影到一个太过熟悉且超出我们想象的不久的将来.
 
 #### [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) (2011) *by [Ernest Cline](https://en.wikipedia.org/wiki/Ernest_Cline)* [4.3] 🔥
 
@@ -644,7 +644,7 @@ _反乌托邦小说处理的是虚构的社区或不受欢迎或令人恐惧的�
 
 &gt;这是2044年，现实世界是一个丑陋的地方.
 >
-&gt;与大多数人一样，韦德·瓦茨（Wade Watts）通过将自己的醒来时间花在OASIS上来逃脱严峻的环境，这是一个庞大的虚拟乌托邦，让您成为想要成为的任何人，一个可以在其中生活，娱乐和相恋的地方一万颗行星.
+&gt;像大多数人类一样，韦德·瓦茨（Wade Watts）通过将自己的清醒时光花在OASIS上来逃脱严峻的环境，这是一个庞大的虚拟乌托邦，让您成为想要成为的任何人，一个可以生活，娱乐和相爱的地方一万颗行星.
 >
  &gt;和大多数人类一样，韦德梦想着成为发现隐藏在这个虚拟世界中的终极彩票的人.  对于这个庞大的网络游乐场中的某个地方，OASIS创作者James Halliday隐藏了一系列恶魔般的谜题，这些谜题将为任何能解锁它们的人带来巨大的财富和非凡的力量.
 >
@@ -654,7 +654,7 @@ _反乌托邦小说处理的是虚构的社区或不受欢迎或令人恐惧的�
 >
  &gt;突然全世界都在注视着，成千上万的竞争者加入了这场狩猎行列，其中包括某些实力强大的玩家，他们愿意进行非常真实的谋杀来击败Wade以获得该奖项.  现在，韦德生存和保存他所知道的一切的唯一途径就是获胜.  但是要做到这一点，他可能不得不抛弃他如此完美的虚拟存在，并面对现实生活中的生活和爱情-他在现实世界中一直非常渴望逃脱.
 >
-&gt;一个危在旦夕的世界.
+&gt;危在旦夕的世界.
 &gt;追求最高奖.
 &gt;准备好了吗？
 
@@ -662,13 +662,13 @@ _反乌托邦小说处理的是虚构的社区或不受欢迎或令人恐惧的�
 
  科幻，社会学和哲学.  -- [@NaxYoMizmo](https://twitter.com/NaxYoMizmo)
 
- &gt;杰出的物理学家舍维克决定采取行动.  他将寻求答案，对毫无疑问的人进行质疑，并试图消除仇恨之墙，因为仇恨之墙使他的无政府主义者星球与文明世界的其余部分隔绝了.  要完成这项危险的任务，将意味着放弃他的家庭，甚至可能是他的生命.舍夫克必须进行空前的乌托邦母行星Urras的旅程，挑战生活和生活的复杂结构，并点燃变革之火.
+ &gt;杰出的物理学家舍维克决定采取行动.  他将寻求答案，对毫无疑问的人进行质疑，并试图消除仇恨之墙，因为仇恨之墙使他的无政府主义者星球与文明世界的其余部分隔绝了.  要完成这项危险的任务，将意味着放弃他的家庭，甚至可能是他的生命.舍夫克必须进行空前的乌托邦母行星Urras的旅程，以挑战生活和生活的复杂结构，并点燃变革之火.
 
 #### [The Metamorphosis of Prime Intellect](https://www.goodreads.com/book/show/64341.The_Metamorphosis_of_Prime_Intellect) (2002) *by [Roger Williams](https://www.goodreads.com/author/show/2765575.Roger_Williams)* [4.2]
 
  对奇异性可能产生的负面影响的有趣研究.  比一般的科幻小说更粗俗.  -- [@sylvarant](https://github.com/sylvarant)
 
- &gt;在距离我们自己不远的时代，劳伦斯着手建立一个可以像人类一样传递的人工智能，并找到了可以像神一样传递的人工智能.  从字面上看，按照机器人三定律，Prime Intellect使每个人类不朽，并立即满足每个陈述的人类愿望.  卡罗琳在毫无目的的轻松生活中毫无意义，仅在暴力和亵渎神灵的时刻忘记了自己的空虚.  轮流令人震惊和幽默，Prime Intellect毫不动摇地看着人类的极端行为，这些极端行为在消除所有限制后可能会出现.
+ &gt;在距离我们自己不远的时代，劳伦斯着手建立一个可以像人类一样传递的人工智能，并找到了可以像神一样传递的人工智能.  从字面上看，按照机器人三定律，Prime Intellect使每个人类不朽，并立即满足每个陈述的人类愿望.  卡罗琳在毫无目的的轻松生活中毫无意义，仅在暴力和亵渎神灵的时刻忘记了自己的空虚.  轮流令人震惊和幽默，Prime Intellect毫不动摇地看着人类的极端行为，这些极端行为在消除所有限制后可能出现.
 
 #### [Wool Omnibus](https://www.goodreads.com/book/show/13453029-wool-omnibus) (2011) *by [Hugh Howey](https://en.wikipedia.org/wiki/Hugh_Howey)* [4.3]
 
@@ -692,7 +692,7 @@ _反乌托邦小说处理的是虚构的社区或不受欢迎或令人恐惧的�
 >
  &gt;单人飞行仍然活着，当乔克·史密斯（Jock Smith）在他的后院种植一枚火箭发射器时，爸爸在他的车库里用一个核反应堆做出反应.  （爱迪生医生仔细地对新的约翰逊宝宝进行了基因剪接，以便她吃掉核废料.）
 >
- &gt;父亲的儿子PJ发现自己已被编程为同性恋（作为Doc Edison的“平衡家庭”概念的一部分），逃离了飞地，但被基督徒士兵俘虏，吸毒和洗脑.  爸爸的妻子康妮（Connie）和无处不在的卡特尔（Cartel）的推销员一起逃跑.  一堆Doc Edison克隆出现了，都非常疯狂.  基督教士兵试图进行计算机入侵；  爸爸和乔克·史密斯之间的争执达到了顶峰.
+ &gt;爸爸的儿子PJ发现自己已被编程为同性恋（作为Doc Edison的“平衡家庭”概念的一部分），逃离了飞地，后来被基督徒士兵俘虏，吸毒和洗脑.  爸爸的妻子康妮（Connie）和无处不在的卡特尔（Cartel）的推销员一起逃跑.  一堆Doc Edison克隆出现了，都非常疯狂.  基督教士兵试图进行计算机入侵；  爸爸和乔克·史密斯之间的争执达到了顶峰.
 
 #### [The Man in the High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle) (1962) *by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)* [3.8]
 
@@ -722,13 +722,13 @@ _强调冒险的新颖事物，主要或全部集中在外层空间，通常涉�
 
 #### [Battlefield Earth](https://www.goodreads.com/book/show/769658.Battlefield_Earth) (1982) *by [L. Ron Hubbard](https://en.wikipedia.org/wiki/L._Ron_Hubbard)* [3.4]
 
- &gt;一千年来，外来入侵者一直统治着地球-人类是濒临灭绝的物种.  在少数幸存的人类中，出现了一个勇敢的领导者-乔尼·古德伯·泰勒（Jonnie Goodboy Tyler），他与地球和宇宙的命运在微妙的平衡中进行了史诗般的规模，危险和阴谋斗争，挑战着外星人Psychlo帝国的立于不败之地.
+ &gt;一千年来，外来入侵者一直统治着地球-人类是濒临灭绝的物种.  在少数幸存的人类中，出现了一个勇敢的领袖-珍妮·古德博伊·泰勒（Jonnie Goodboy Tyler），他与地球和宇宙的命运在微弱的平衡中展开史诗般的规模，危险和阴谋斗争，挑战外星人Psychlo帝国的立于不败之地.
 
 #### [Commonwealth Saga](https://www.goodreads.com/series/40740-commonwealth-saga) (2004, 2005) *by [Peter F. Hamilton](https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [4.2]
 
 *（以及 [Void Trilogy](https://www.goodreads.com/series/43520-void))*
 
- &gt;年为2380年.英联邦太阳际星际是一个直径约四百光年的恒星球体，包含六百多个世界，由称为虫洞的运输“隧道”互连.  在英联邦最远的边缘，天文学家达德利·玻色（Dudley Bose）观察到了不可能的事：在一千光年以外，一颗恒星…消失了.  它不会超新星.  它不会塌陷成黑洞.  它只是消失了.  由于该位置距离虫洞太远，因此派遣了比光速快的飞船Second Chance来了解发生了什么以及它是否构成威胁.  指挥官是威尔逊·基姆（Wilson Kime），他是前美国国家航空航天局（NASA）焕发活力的五次飞行员，他的辉煌岁月已经过去了数个世纪.
+ &gt;年为2380年.英联邦太阳际星际是一个直径约四百光年的恒星球体，包含六百多个世界，由称为虫洞的运输“隧道”相互连接.  在英联邦最远的边缘，天文学家达德利·玻色（Dudley Bose）观察到了不可能的事：在一千光年以外，一颗恒星…消失了.  它不会超新星.  它不会塌陷成黑洞.  它只是消失了.  由于该位置距离虫洞太远，因此派遣了比光速快的飞船Second Chance来了解发生了什么以及它是否构成威胁.  指挥官是威尔逊·基姆（Wilson Kime），他是前美国国家航空航天局（NASA）焕发活力的五次飞行员，他的辉煌岁月已经过去了数个世纪.
 >
  &gt;与任务相对立的是“自我守护者”，这是一个邪教组织，认为人类正在被一个被称为“星际飞人”的外星人操纵.  监护人领袖布拉德利·约翰森（Bradley Johansson）警告人为破坏，担心“星际飞行者”会利用飞船的任务来达到目的.
 >
@@ -740,7 +740,7 @@ _强调冒险的新颖事物，主要或全部集中在外层空间，通常涉�
 
 #### [Fallen Dragon](https://www.goodreads.com/book/show/45258.Fallen_Dragon) (2001) *by [Peter F. Hamilton](https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [4.0]
 
- &gt;桑蒂乌·布劳恩（Zantiu-Braun）的公司星舰部署了无敌的25世纪士兵，称为皮肤（Skins），掠夺了整个行星.  但是随着Skins入侵田园Thallspring，Z-B的策略即将出现问题，原因如下：Sgt.  劳伦斯·牛顿（Lawrence Newton），一个做梦的梦想家，作为皮肤的二十年历史摧毁了他的希望和欲望.  Denise Ebourn是一名学校教师和抵抗运动的领袖，其游击战术与Che Guevara，George Washington和Simon Roderick的游击战术相媲美.  这三名玩家决心坚定地窃取或保护一件神秘的宝藏，展开一场私人战争，这场战争将爆发成难以想象的追求个人恩宠……或银河系统治.
+ &gt;桑蒂乌·布劳恩（Zantiu-Braun）的公司星舰部署了无敌的25世纪士兵，称为皮肤（Skins），掠夺了整个行星.  但是随着Skins入侵田园Thallspring，Z-B的策略即将出现问题，原因如下：Sgt.  劳伦斯·牛顿（Lawrence Newton），一个做梦的梦想家，作为皮肤的二十年破坏了他的希望和欲望.  Denise Ebourn是一名学校教师和抵抗运动的领袖，其游击战术可与Che Guevara，George Washington和Simon Roderick媲美，后者是ZB的董事，他的奉献精神使他本人也无法理解.  这三名玩家决心坚定地窃取或保护一件神秘的宝藏，展开一场私人战争，这场战争将爆炸成难以想象的追求个人恩宠……或银河系统治.
 
 #### [House of Suns](https://www.goodreads.com/book/show/1126719.House_of_Suns) (2008) *by [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)* [4.1]
 
@@ -750,11 +750,11 @@ _强调冒险的新颖事物，主要或全部集中在外层空间，通常涉�
 
  &gt;在名为“ Hyperion”的世界上，超越了人类霸权的定律，等待着名为“伯劳鸟”的生物.  有些人崇拜它.  有些人对此感到恐惧.  还有一些发誓要摧毁它的人.  在时间古墓谷中，巨大的巢穴结构随时间向后移动，伯劳鸟（Shrike）等待着它们.  在世界末日前夕，整个银河处于战争中，七名朝圣者踏上了前往Hyperion的最后航程，以寻求解决他们生活中未解之谜的答案.  每个人都怀有绝望的希望和可怕的秘密.  一个人的命运也许掌握在他手中.
 >
-&gt; _Hyperion_是令人惊叹的巡回演出，充满了超凡的敬畏和惊奇，是激动人心和创造力共鸣的科幻小说杰作，这是屡获殊荣的《 The Hollow Man_》作者在一部非凡的新科幻史诗中的第一卷.
+&gt; _Hyperion_是一部充满超凡敬畏和惊奇感的令人惊叹的巡回演出，它是科幻小说的杰作，与兴奋和发明产生共鸣，这是屡获殊荣的《 The Hollow Man_》作者在一部非凡的新科幻史诗中的第一卷.
 
 #### [Night’s Dawn Trilogy](https://www.goodreads.com/series/43318-night-s-dawn) (1996, 1997, 1999) *by [Peter F. Hamilton](https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [4.1]
 
- &gt;三部曲设置在一个拥有众多世界和人造轨道殖民地的宇宙中.  情节集中在死者的灵魂上，死者的灵魂从地狱般的“超越”中回来，拥有了活人，而后者则反击.  紧随其后的是《联邦手册》系列，这是一本信息手册，其中包含有关“夜之黎明”三部曲的数据.  汉密尔顿（Hamilton）在联邦时间轴上重新设定了一些较早的短篇小说，并在《伊甸园》（Eden_）上以《第二次机会》（A Second Chance）的形式出版，其中包括新写的小说《中篇小说》.
+ &gt;三部曲设置在一个拥有众多世界和人造轨道殖民地的宇宙中.  情节集中在死者的灵魂上，死者的灵魂从地狱般的“超越”中回来，拥有了活人，而后者则反击.  紧随其后的是《联邦手册》系列，这是一本信息手册，其中包含有关“夜之黎明”三部曲的数据.  汉密尔顿（Hamilton）在联邦时间轴上重新设定了一些较早的短篇小说，并在《伊甸园》（Eden_）上以《第二次机会》（A Second Chance）的形式出版，其中包括新写的小说中篇小说.
 
 
 ### Post Apocalyptic
@@ -771,9 +771,9 @@ _关于文明灭亡的小说，通常是由于某种灾难而导致的未来，�
 
 #### [Borne](https://www.goodreads.com/book/show/31451186-borne) (2017) *by [Jeff VanderMeer](https://en.wikipedia.org/wiki/Jeff_VanderMeer)* [4.0]
 
- 一本古怪而美丽的书，让人想起Lovecraft，Stephen King和Brautigan的_Watermelon Sugar_，它们都包裹在一个世界末日的风景之中，那里充满了有毒的喷火熊和不赞成使用的生物技术.  这本书是一个生存的故事-如何把握文明的边缘，这对人类意味着什么.  它还质疑身份，爱，母亲和含义本身.  其中一些段落非常惊人，而且尽管世界将是一个可怕的居住地，但我发现自己在完成时却很想念它.  -- [@RichardLitt](https://github.com/RichardLitt)
+ 一本奇怪，美丽的书，让人想起Lovecraft，Stephen King和Brautigan的《西瓜糖》，它们都包裹在世界末日的风景之中，那里布满了有毒的喷火熊和不赞成使用的生物技术.  这本书是一个生存的故事-如何把握文明的边缘，这对人类意味着什么.  它还质疑身份，爱，母亲和含义本身.  其中一些段落非常惊人，而且尽管世界将是一个可怕的居住地，但我发现自己在完成时却很想念它.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;在一个无名的未来城市的废墟中，一个名叫拉德的巨大灰熊统治着一个名叫雷切尔（Rachel）的妇女，身为拾荒者，收集转基因生物和公司生物技术公司创建的实验.  她藏在莫德的皮毛中，发现了一种海葵形状的生物，她称之为“波恩”.
+ &gt;在一个无名的未来城市的废墟中，一个名叫拉德（Mord）的巨大灰熊统治着一个名叫雷切尔（Rachel）的妇女，身为拾荒者，收集了转基因生物和公司生物技术公司创建的实验.  她藏在莫德的皮毛中，发现了一种海葵形状的生物，她称之为“波恩”.
 
 #### [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) (1968) *by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)* [4.1] 🌟 🔥
 
@@ -793,7 +793,7 @@ _关于文明灭亡的小说，通常是由于某种灾难而导致的未来，�
 
 #### [The City and the Stars](https://www.goodreads.com/book/show/250024.The_City_and_the_Stars) (1956) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.1]
 
- 亚瑟·克拉克（Arthur C. Clarke）最好的小说之一.  与之相比，《童年的终结》似乎还有些不成熟，让人联想到50年代和早期《星际迷航》系列中普遍存在的奇怪的深空概念，而后者似乎已经过时了.  -- [@RichardLitt](https://github.com/RichardLitt)
+ 亚瑟·克拉克（Arthur C. Clarke）最好的小说之一.  相比之下，《童年的终结》似乎还不成熟，让人联想到50年代和早期《星际迷航》系列中普遍存在的奇怪的太空深层概念，而该系列似乎已经过时了.  -- [@RichardLitt](https://github.com/RichardLitt)
 
  &gt;克拉克（Clarke）对人类遥远未来的精妙唤起被认为是他最好的小说.  “城市与星星”发生在未来的十亿年的Diaspar市.  到这个时候，地球已经很古老了，海洋已经消失了，人类几乎消失了.  据Diaspar人民所知，他们是地球上唯一剩下的城市.  Diaspar市是完全封闭的.  只要有人记得，就没有人来过这座城市或离开这座城市，而且在Diaspar，每个人都有一种本能的孤立主义保守主义.  这种害怕冒险逃离城市外的背后故事讲述了一群残酷的入侵者，他们将人类从恒星击退回地球，然后达成了一项协议，如果他们从未离开星球，人类可以生存.
 
@@ -801,23 +801,23 @@ _关于文明灭亡的小说，通常是由于某种灾难而导致的未来，�
 
  这有一些非常令人困扰的场景.  特别是最后几页将在我身上停留一段时间.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;于1962年首次出版，贾格·巴拉德（JG Ballard）着迷且凶猛的有先见之情的小说想象了一个可怕的未来，太阳辐射和全球变暖融化了冰盖，三叠纪时代的丛林淹没了一个被淹没和热带的伦敦.  这部小说的背景设定于2145年，跟随生物学家罗伯特·科兰斯博士和他的科学家团队，面对着巨大的鬣蜥，白化鳄鱼和无数疟疾昆虫组成的超现实城市景观.  大自然吞没了人类文明的几乎所有残余部分，并且，在此史前环境下，凯兰斯和他的同伴逐渐在身体和心理上发生了变化.  呼应约瑟夫·康拉德（Joseph Conrad）的《黑暗之心》（Heart of Darkness），以及一个疯狂的白人猎人和成群的本地士兵，这部“强大而精美的作品”（布赖恩·阿尔迪斯（Brian Aldiss））成为令人兴奋的冒险和对环境崩溃对人类心灵影响的令人困扰的考察. .
+ &gt;于1962年首次出版，贾格·巴拉德（JG Ballard）着迷且凶猛的有先见性的小说想象了一个可怕的未来，太阳辐射和全球变暖融化了冰冠，三叠纪时代的丛林淹没了一个被淹没和热带的伦敦.  这部小说的背景设定在2145年，跟随生物学家罗伯特·科兰斯博士和他的科学家团队，面对着巨大的鬣蜥，白化鳄鱼和无数疟疾昆虫组成的超现实城市景观.  大自然吞噬了人类文明的几乎所有残余部分，并且，在此史前环境下，凯兰斯和他的同伴逐渐在身体和心理上发生了变化.  呼应约瑟夫·康拉德（Joseph Conrad）的《黑暗之心》（Heart of Darkness），以及一个疯狂的白人猎人和成千上万的本地士兵，这部“强大而精美的作品”（布赖恩·阿尔迪斯（Brian Aldiss））成为令人兴奋的冒险和对环境崩溃对人类心灵影响的令人困扰的考察. .
 
 #### [The Machine Stops](https://www.goodreads.com/book/show/4711854-the-machine-stops) (1909) *by [Edward Morgan Forster](https://en.wikipedia.org/wiki/E._M._Forster)* [4.0] 🌟
 
- 一个简短而古老的世界末日故事，像ROM数据一样一直留在我的脑海中.  瞬间食用后，我印象深刻，我向挪威人讲述了这个故事中的一颗稀有明珠 [NTNU](https://en.wikipedia.org/wiki/Norwegian_University_of_Science_and_Technology)  教授.  令我惊讶的是，它作为对他的学生的进一步建议或/和他们课程阅读材料的实际部分而结束.  从20世纪初开始，您一定会不偏不倚地在“ Facebook”和“ Google”之间阅读有关这台机器的信息.  我还没有看到关于世界现在或未来可能走向的其他预测能力.  给读者的建议：阅读本书时，请记住该文本是大约100年前创造的-这是魔术的一部分.  -- [@zarko-tg](https://github.com/zarko-tg)
+ 一个简短而古老的世界末日故事，像ROM数据一样一直留在我的脑海中.  瞬间食用后，我印象深刻，我向挪威人讲述了这个故事中的一颗稀有明珠 [NTNU](https://en.wikipedia.org/wiki/Norwegian_University_of_Science_and_Technology)  教授.  令我惊讶的是，它作为对他的学生的进一步建议或/和他们课程阅读材料的实际部分而结束.  从20世纪初开始，您一定会在“ Facebook”和“ Google”之间不拘一格地阅读有关此机器的信息.  我还没有看到关于世界现在或未来可能走向的其他预测能力.  给读者的建议：在阅读文字时大约要记住100年前，这是魔术的一部分.  -- [@zarko-tg](https://github.com/zarko-tg)
 
- &gt;故事发生在世界末日之后，人类生活在地下，并依靠一台巨大的机器来满足他们的需求，并预测了诸如即时消息传递和互联网之类的新技术.  它描述了一个世界，其中大多数人口已经丧失了生活在地球表面的能力.  现在，每个人都孤立地生活在一个标准“牢房”中的地下，无所不能的全球机器满足了所有身体和精神上的需要.  允许旅行，但旅行不受欢迎，并且很少必要.  交流是通过一种即时消息传递/视频会议机进行的，人们可以使用该机进行他们唯一的活动：共享思想和知识的传递.
+ &gt;故事发生在世界末日之后的世界中，人类生活在地下，并依靠一台巨大的机器来满足他们的需求，并预测了诸如即时消息和互联网之类的新技术.  它描述了一个世界，其中大多数人口已经丧失了生活在地球表面的能力.  现在，每个人都孤立地生活在一个标准“牢房”中的地下，无所不能的全球机器满足了所有身体和精神上的需要.  允许旅行，但旅行不受欢迎，并且很少必要.  交流是通过一种即时消息传递/视频会议机进行的，人们可以使用该机进行他们唯一的活动：共享思想和知识的传递.
 
 #### [The Stand](https://www.goodreads.com/book/show/149267.The_Stand) (1978) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [4.3] 🔥
 
 > This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.
 >
- &gt;接下来的日子是黯淡的新世界：一个世界被剥夺了机构，空缺了99％的人民.  少数惊慌的幸存者选择或选择一方的世界.  在一个有着108岁高龄的阿巴盖尔母亲脆弱的肩膀上骑行的好世界，以及最恶劣的恶梦，体现在一个有着致命笑容和无以言表的力量的男人：黑暗男人Randall Flagg.
+ &gt;接下来的日子是黯淡的新世界：一个世界被剥夺了机构，空缺了99％的人民.  少数惊慌的幸存者选择或选择一方的世界.  在一个有着108岁高龄的阿巴盖尔母亲脆弱的肩膀上骑行的好世界，以及最恶劣的恶梦，体现在一个有着致命的微笑和无与伦比的力量的男人：黑暗的男人Randall Flagg.
 >
- &gt; 1978年，史蒂芬·金（Stephen King）出版了《立场》，这部小说现在被认为是他最好的作品之一.  但是，因为它的原始手稿已剪裁了15万多个单词，所以《标准书架》首次出版时并不完整.
+> In 1978 Stephen King published _The Stand_, the novel that is now considered to be one of his finest works. But as it was first published, _The Stand_ was incomplete, since more than 150,000 words had been cut from the original manuscript.
 >
- &gt;现在，斯蒂芬·金关于世界被瘟疫炸毁并卷入了善与恶之间的基本斗争的世界启示已经完全恢复了.  _The Stand：完整且未删减的版本_包括先前删除的五百多页材料，以及King为新世代重新编写手稿时添加的新材料.  它为我们提供了新角色，并赋予了熟悉的角色新的深度.  它有一个新的起点和一个新的终点.  出现的是一部具有史诗般的范围和道德复杂性的惊人作品.
+ &gt;现在，斯蒂芬·金关于世界被瘟疫炸毁并卷入了善与恶之间的基本斗争的世界启示已经完全恢复了.  _The Stand：完整且未删减的版本_包含先前已删除的五百多页材料，以及King在为新一代作品重新制作时添加的新材料.  它为我们提供了新角色，并赋予了熟悉的角色新的深度.  它有一个新的起点和一个新的终点.  出现的是一部具有史诗般的范围和道德复杂性的惊人作品.
 
 #### [Timestorm](https://www.goodreads.com/book/show/536951.Time_Storm) (1977) *by [Gordon R. Dickson](https://en.wikipedia.org/wiki/Gordon_R._Dickson)* [3.7]
 
@@ -825,7 +825,7 @@ _关于文明灭亡的小说，通常是由于某种灾难而导致的未来，�
 
 #### [Where Late the Sweet Birds Sang](https://www.goodreads.com/book/show/968827.Where_Late_the_Sweet_Birds_Sang) (1974) *by [Kate Wilhelm](https://en.wikipedia.org/wiki/Kate_Wilhelm)* [3.9]
 
- &gt;一个孤立的大屠杀后社区的引人入胜的故事，他们决心通过危险的克隆实验来保护自己.  《凡鸟桑在哪里晚》（Where Late the Sweet Birds Sang）广泛，生动，富于人性，并且在科学上十分严格，被广泛认为是科幻小说中人文主义和艰苦的科幻小说的最高点，并在其首次发行时获得了科幻小说的雨果奖和轨迹奖.
+ &gt;一个孤立的大屠杀后社区的引人入胜的故事，他们决心通过危险的克隆实验来保护自己.  《凡鸟唱得晚》（Where Late the Sweet Birds Sang）被广泛认为是人类主义和艰苦的科幻小说的最高点，它广博，戏剧性，富有人文气息，并且在科学上十分严格，并在其第一本出版物上获得了科幻小说的雨果奖和轨迹奖.
 
 #### [The Road](https://www.goodreads.com/book/show/6288.The_Road) (2006) *by [Cormac McCarthy](https://www.goodreads.com/author/show/4178.Cormac_McCarthy)* [4.0]
 
@@ -847,7 +847,7 @@ _关于文明灭亡的小说，通常是由于某种灾难而导致的未来，�
 
  &gt;几百年前，Ember市由建造者创建，旨在容纳人类生存所需的一切.  它奏效了……但是现在储藏室几乎没有食物了，庄稼枯萎了，腐败正在整个城市蔓延，更糟糕的是，所有的灯都在失效.  很快，灰烬会被黑暗吞没.
 >
- &gt;但是，当两个孩子丽娜（Lina）和杜恩（Doon）发现一块古老的羊皮纸的碎片时，他们开始怀疑是否有办法摆脱灰烬.  他们能破译很久以前的话并为每个人找到新的未来吗？  灰烬之人会听吗？
+> But when two children, Lina and Doon, discover fragments of an ancient parchment, they begin to wonder if there could be a way out of Ember. Can they decipher the words from long ago and find a new future for everyone? Will the people of Ember listen to them?
 
 ### Military Science Fiction
 
@@ -859,7 +859,7 @@ _关于文明灭亡的小说，通常是由于某种灾难而导致的未来，�
 
 &gt; Ultramarines是忠诚和勇气的代名词，他们的武术实力具有传奇色彩，仅次于神皇.
 >
- &gt;格雷厄姆·麦克奈尔（Graham Mcneill）的史诗般的《三脚船》小说是不间断动作的杰作！  该系列包含小说《夜行者》，《奥特马尔与死海的勇士》，《黑太阳》，以及短篇小说《命令链》.该系列讲述了太空船长Uriel Ventris和Ultramarines在与人类敌人作战时的冒险经历.  格雷厄姆·麦克尼尔（Graham McNeill）从他们的家乡麦克拉格（Macragge）的世界，到可怕的恐怖之眼（Eye of Terror），甚至更远的范围，都像枪声在摇晃，使太空海军陆战队的生活前所未有.
+ &gt;格雷厄姆·麦克奈尔（Graham Mcneill）的史诗般的《三脚船》小说三部曲是不间断动作的杰作！  该系列包含小说《夜行者》，《奥特马尔与死海的勇士》，《黑太阳》，以及短篇小说《命令链》.该系列讲述了太空船长Uriel Ventris和群星在与人类敌人作战时的冒险经历.  格雷厄姆·麦克尼尔（Graham McNeill）从他们的家乡麦克拉格（Macragge）的世界，到可怕的恐怖之眼（Eye of Terror），甚至更远的范围，都像枪声在摇晃，使太空海军陆战队的生活前所未有.
 
 #### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines) (2013-) *by [Marko Kloos](http://www.markokloos.com/)* [4.05]
 
@@ -871,7 +871,7 @@ _关于文明灭亡的小说，通常是由于某种灾难而导致的未来，�
 >
  &gt;有了殖民地彩票，这是一个梦dream以求的选择，安德鲁选择加入武装部队，为真实食物开枪，获得退休金，甚至还可以出离地球的机票.  但是，当他开始享有特权的职业时，他很快就知道，优质的食物和体面的医疗保健要付出高昂的代价……与银河系官僚或统治贫民窟的帮派相比，定居的银河系危险更大.
 >
-> The debut novel from Marko Kloos, Terms of Enlistment is a new addition to the great military sci-fi tradition of Robert Heinlein, Joe Haldeman, and John Scalzi.
+&gt;马尔科·克鲁斯（Marko Kloos）的首本小说《征兵条件》是罗伯特·海因莱因，乔·哈德曼和约翰·斯卡尔齐的伟大军事科幻传统的又一新作.
 
 #### [Armor](https://www.goodreads.com/book/show/102327.Armor) (1984) *by [John Steakley](https://en.wikipedia.org/wiki/John_Steakley)* [4.12]
 
@@ -885,17 +885,17 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 
  我已经失去了阅读_Ender&#39;s Game_的次数.  我通常至少每年阅读一次.  它是一个更大系列的一部分，包括_Speaker for the Dead_和_Xenocide_-基于_Ender&#39;s Game_的后续书籍，它们本身就是一本好书.  _EG_最初只是一个短篇小说，是_Speaker for Dead_中谈到的主题的前传.  它显示了Card的才华，他能够如此流利地将其做成一本独立的书.
 
- 我爱_Ender&#39;s Game_.  考虑到所有的事情，这不是一本关于情感发展或成年的书.  这并不是要承担世界的责任.  相反，这是一本有关战略的书.  页面之间的空隙比章节本身发生的更多-花时间弄清楚Ender如何在游戏室中发挥优势，以及如何实现这一优势，这是非常有意义的体验.  时不时地，有一种美妙的感觉，“该死，我希望我做到了！  这么聪明.&#39;  而且，正如Card在序言中所述：
+ 我爱_Ender&#39;s Game_.  考虑到所有的事情，这不是一本关于情感发展或成年的书.  这并不是要承担世界的责任.  相反，这是一本有关战略的书.  在页面之间的空白中，发生的事情比在章节中发生的更多.花时间弄清楚Ender如何在游戏室中发挥优势，以及如何实现这一优势，是一种非常有意义的体验.  时不时地，有一种美妙的感觉，“该死，我希望我做到了！  这么聪明.&#39;  而且，正如Card在序言中所述：
 
 &gt;小说，因为与真正生活在现实世界中的人无关，所以总有可能与我们自己有关.
 
  因此，您也可以分享Ender的聪明.  这就是使这本书有趣的原因.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;为了对付敌对的外来种族的下一次攻击建立安全的防御，政府机构培育了儿童天才并将其训练为士兵.  一个聪明的小男孩-安德鲁·“恩德”·威金（Andrew“ Ender” Wiggin）与他亲切却相距遥远的父母，他的虐待狂兄弟彼得和他所爱的人妹妹瓦伦丁住在一起.  彼得和情人是士兵训练计划的候选人，但没有晋升-年轻的恩德是威金（Wiggin）选拔到在轨道上的战斗学校接受严格的军事训练.
+ &gt;为了对付敌对的外来种族的下一次攻击建立安全的防御，政府机构培育了儿童天才并将其训练为士兵.  一个聪明的小男孩-安德鲁·“恩德”·威金（Andrew“ Ender” Wiggin）和他亲切但遥远的父母，他的虐待狂兄弟彼得和他所爱的人妹妹瓦伦丁住在一起.  彼得和情人是士兵训练计划的候选人，但没有晋升-年轻的恩德是威金（Wiggin）选拔到在轨道上的战斗学校接受严格的军事训练.
 >
  &gt; Ender的技能使他成为学校的领导者，并在战斗室受到尊重，在战斗室中，孩子们在零重力下进行模拟战斗.  然而，在一个由年轻士兵组成的人工社区中长大的恩德遭受了严重的孤立，同辈的竞争，成年教师的压力以及对外星入侵者的不安恐惧.  他的心理斗争包括孤独，担心自己变得像他所记得的残酷兄弟，以及将敬虔之火散发给他心爱的姐姐.
 >
- &gt; Ender是地球所需的吗？  但是恩德并不是基因实验的唯一结果.  与Buggers的战争已经进行了一百年之久，对于完美的将军的追求已经进行了将近很长时间了.  Ender的两个年长的兄弟姐妹与他一样异常，但方式却截然不同.  他们三个之间的重塑世界的能力.  如果是这样，世界就可以生存.
+ &gt; Ender是地球所需的吗？  但是恩德并不是基因实验的唯一结果.  与Buggers的战争持续了一百年之久，对完美将军的追求几乎已经进行了很长时间.  Ender的两个年长的兄弟姐妹与他一样异常，但方式却截然不同.  他们三个之间的重塑世界的能力.  如果是这样，世界就可以生存.
 
 #### [Old Man’s War](https://www.goodreads.com/series/40789-old-man-s-war) (2005-2015) *by [John Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)* [4.2]
 
@@ -907,7 +907,7 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 
 #### [The Forever War](https://www.goodreads.com/book/show/21611.The_Forever_War) (1974) *by [Joe Haldeman](https://en.wikipedia.org/wiki/Joe_Haldeman)* [4.1]
 
- &gt;地球领导人在星际沙地上划了一条界限，尽管事实是他们反对的凶猛的外星敌人是难以理解的，不可征服的并且距离很远.  威廉·曼德拉私人部队不愿征召入伍，成为精锐的军事部队，他被迫穿越时空，与遥远的千年战争作斗争.  在没有骚扰的情况下履行职责，甚至在军事队伍中崭露头角.  列兵  曼德拉愿意尽一切努力度过磨难并返回家园.  但是“家”可能比战斗还要可怕，因为由于太空旅行造成的时间膨胀，曼德拉正在老化数月，而他留下的地球正在老化数世纪.
+ &gt;地球领导人在星际沙地上划了一条界限，尽管事实是他们反对的凶猛的外星敌人是难以理解的，不可征服的并且距离很远.  威廉·曼德拉私人部队不愿招募到精锐的军事部队，被迫穿越时空，与遥远的千年冲突进行战斗.  在没有骚扰的情况下履行职责，甚至在军事队伍中崭露头角.  列兵  曼德拉愿意尽一切努力度过磨难并返回家园.  但是“家”可能比战斗还要可怕，因为由于太空旅行造成的时间膨胀，曼德拉正在老化数月，而他留下的地球正在老化数世纪.
 
 
 ### Police Procedural Science Fiction
@@ -920,7 +920,7 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 >
  &gt; 1％似乎并不多.  但是在美国，有170万人“被锁定”……包括总统的妻子和女儿.
 >
- &gt;在悲伤和巨大痛苦的刺激下，美国采取了大规模的科学举措.  没有什么可以恢复将自己的身体控制在锁定状态的能力.但是随后出现了两种新技术.  一种是虚拟现实环境“ Agora”，其中被锁定者可以与其他人互动，无论是否被锁定.  另一个发现是，少数稀有个体的大脑容易被他人控制，这意味着被锁住的人会不时地“骑”这些人，并像对待自己一样使用自己的身体.
+ &gt;在悲伤和巨大痛苦的刺激下，美国采取了大规模的科学举措.  没有什么可以恢复将自己的身体控制在锁定状态的能力.但是随后出现了两种新技术.  一种是虚拟现实环境“ Agora”，其中被锁定者可以与其他人互动，无论是否被锁定.  另一个发现是，少数稀有个体的大脑易于接受他人的控制，这意味着被锁住的人会不时地“骑乘”这些人并像对待自己一样使用自己的身体.
 >
  &gt;此技能可以快速调节，许可，约束和控制.  没错.  当然，没有人会因为滥用谋杀，政治权力或更糟而滥用它.
 
@@ -931,17 +931,17 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 
 #### [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon) (1999) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]
 
- &gt; _Cryptonomicon__遍及全球，在两次世界大战和现在这两个时期之间来回串动.  我们1940年代的英雄是才华横溢的数学家劳伦斯·沃特豪斯（Lawrence Waterhouse），密码分析家以及吗啡成瘾的龚浩（Boung Shaftoe）.  它们是2702分队的一部分，该分队试图破坏Axis的通信代码，同时防止敌人弄清楚他们的代码已被破坏.  他们的工作归结为一层层的欺骗.  艾伦·图灵（Dr. Alan Turing）也是2702的成员，他向沃特豪斯（Waterhouse）解释了该装置的奇怪工作原理.  “当我们要下沉护卫舰队时，我们首先要派出观察飞机……当然，观察并不是其真正的职责，我们已经确切知道护卫舰队在哪里.  它的真正职责是要遵守……然后，当我们四处转转并击沉它们时，德国人将不会感到怀疑.”
+ &gt; _Cryptonomicon_遍及全球，在两个时期（第二次世界大战和现在）之间来回串动.  我们1940年代的英雄是才华横溢的数学家劳伦斯·沃特豪斯（Lawrence Waterhouse），密码分析家以及吗啡成瘾的龚浩（Boung Shaftoe）.  它们属于“分队2702”的一部分，该组织试图破坏Axis的通信代码，同时防止敌人弄清楚他们的代码已被破坏.  他们的工作归结为一层层的欺骗.  艾伦·图灵（Dr. Alan Turing）也是2702的成员，他向沃特豪斯（Waterhouse）解释了该部门的奇怪工作.  “当我们要下沉护卫舰队时，我们首先要派出观察飞机……当然，观察并不是其真正的职责，我们已经确切知道护卫舰队在哪里.  必须遵守它的真正职责……然后，当我们四处转悠并击沉它们时，德国人将不会感到怀疑.”
 >
- &gt;所有这些秘密都在当今的故事情节中引起共鸣，在此故事中，第二次世界大战英雄的后代（可编程的极客兰迪·沃特豪斯（Randy Waterhouse）和可爱而强大的艾米·沙夫特（Amy Shaftoe））联手帮助在东南亚，甚至可能在海上建立了数据中心发现曾经运往纳粹金库的黄金.  为了使这本书具有偏执狂的口吻，神秘的以诺根（Enoch Root），即分离2702和Societas Eruditorum的主要成员，突然冒出了第二次世界大战留下的牢不可破的加密方案，以使1990年代的主角们迷上了阴谋的纽带.
+ &gt;所有这些秘密都在当今的故事情节中引起共鸣，在此故事中，第二次世界大战英雄的后代（可模仿的编程怪人兰迪·沃特豪斯（Randy Waterhouse）和可爱而强大的艾米·沙夫特（Amy Shaftoe））联手帮助在东南亚，甚至可能在海上建立了一个数据港发现曾经运往纳粹金库的黄金.  为了使这本书具有偏执狂的口吻，神秘的以诺根（Enoch Root），即分离2702和Societas Eruditorum的主要成员，突然冒出了第二次世界大战留下的牢不可破的加密方案，以使1990年代的主角们迷上了阴谋的纽带.
 
 #### [Daemon](https://www.goodreads.com/series/49858-daemon) (2006, 2010) *by [Daniel Suárez](https://en.wikipedia.org/wiki/Daniel_Su%C3%A1rez)* [4.2]
 
-&gt;无线时代的高科技惊悚片已经引起了地下的轰动，它探索了在没有人为控制的情况下运行的计算机程序（守护程序）的不可想象的后果，该程序旨在摧毁社会并带来新的世界秩序.
+&gt;已经成为一种地下感觉，它是无线时代的高科技惊悚片，它探索了无人操纵的计算机程序（守护程序）的不可想象的后果，该程序旨在摧毁社会并带来新的世界秩序.
 
  &gt;技术控制着当今世界的几乎所有事物，从汽车的遥控进入到进入房屋，从飞机的飞行控制到整个世界经济的发展，都应运而生.  成千上万的自主计算机程序或守护程序使我们的网络世界成为可能，并在我们的生活，交易电子邮件，转移资金和监控电网的背景下不断运行.  在大多数情况下，守护程序是良性的，但对于设计它们的人而言，并非总是如此.
 >
- &gt;马修·索博尔（Matthew Sobol）是一位传奇的计算机游戏设计师，是六种流行在线游戏背后的架构师.  他过早的去世压抑了游戏玩家和公司的股价.  但是Sobol的粉丝并不是唯一注意到他逝世的人.  当他的ob告发布到网上时，一个先前处于休眠状态的守护程序将激活，引发一系列事件，这些事件旨在破坏我们高效，相互联系的世界的结构.  随着索博尔的秘密与他一起被埋葬，并且随着他的守护进程的新层层不断地释放，由一个不大可能的联盟来破译他的错综复杂的计划，并从一个无名无名，面目全非的敌人手中夺走世界，或者学会生活在一个我们不再掌控的社会中...
+ &gt;马修·索博尔（Matthew Sobol）是一位传奇的计算机游戏设计师，是六种流行在线游戏背后的架构师.  他过早的去世压抑了游戏玩家和公司的股价.  但是Sobol的粉丝并不是唯一注意到他逝世的人.  当他的ob告发布到网上时，一个先前处于休眠状态的守护程序将激活，引发一系列事件，这些事件旨在破坏我们高效，相互联系的世界的结构.  随着索博尔的秘密与他一起被埋葬，并且随着他的守护进程的新层层不断地释放，由一个不大可能的联盟来破译他的错综复杂的计划，并从一个无名无名的敌人手中夺走世界-或者学会生活在一个我们不再掌控的社会中...
 >
 &gt;计算机技术专家丹尼尔·苏亚雷斯（Daniel Suarez）在迈克尔·克里顿（Michael Crichton），尼尔·史蒂芬森（Neal Stephenson）和威廉·吉布森（William Gibson）的传统下，将令人难以忘怀的高科技现实主义与令人垂涎的悬疑融合在真实，复杂的惊悚片中.
 
@@ -964,7 +964,7 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 
  这是我最喜欢的书.  这是科幻小说，在某种程度上是幻想，但在某些地方读起来更像是故事集的哲学领域.  剧情极少，但塞弗里亚人的性格令人着迷.  他什么也没忘记，但是对你说谎.  如您所读，很显然以前的章节是错误的或缺少重要的细节，这极大地促进了人们的惊奇和陶醉感.  或者，就我而言，吉恩·沃尔夫（Gene Wolfe）的写作能力令人敬畏.  强烈建议.  -- [@RichardLitt](https://github.com/RichardLitt)
 
-&gt; _《新太阳之书》被一致誉为吉恩·沃尔夫最杰出的著作，被《出版商周刊》誉为“科学幻想的杰作，其重要性可与托尔金和刘易斯的主要著作相提并论”，并且是“科学幻想最伟大的著作之一” 《幻想与科幻杂志》，《二十世纪的投机小说》.
+&gt; _《新太阳之书》被一致认为是吉恩·沃尔夫最杰出的著作，被《出版商周刊》誉为“科学幻想的杰作，其重要性可与托尔金和刘易斯的主要著作相提并论”，并且是“科幻小说中最雄心勃勃的作品之一” 《幻想与科幻杂志》，《二十世纪的投机小说》.
 >
 &gt;世界上酷刑者协会的徒弟Young Severian叫Urth，因犯下了他职业的终极罪而流放，他对受害者表示了怜悯.
 
@@ -985,12 +985,20 @@ If you liked Cloud Atlas this is a good read.
 >
  &gt;因为霍莉引起了一群危险的神秘主义者及其敌人的注意.  但是她失去的周末仅仅是令人震惊的失踪的前奏，这使她的家人无可挽回地伤痕累累.  这个未解之谜将在霍莉的每十年生活中回荡，影响到霍莉所爱的所有人，甚至还包括尚未出生的人.
 >
- &gt;一位剑桥奖学金男孩为自己的财富和影响力作了准备，一个矛盾的父亲只有在被占领的伊拉克报道时才活着，他是一个活泼的父亲，一个在畅销书榜上哀悼流亡者的中年作家，在这场超现实的，无形的战争中都应发挥作用在我们世界的边缘.  从中世纪的瑞士阿尔卑斯山到19世纪的澳大利亚丛林，从上海的一家酒店到不远的将来的曼哈顿联排别墅，他们的故事在每天的优雅和奇妙的时刻融合在一起.
+ &gt;一位剑桥奖学金男孩为自己的财富和影响力作了准备，一个矛盾的父亲只有在被占领的伊拉克报道时才活着，他是一个活泼的父亲，一个在畅销书榜上哀悼流亡者的中年作家，在这场超现实的，无形的战争中都应发挥作用在我们世界的边缘.  从中世纪的瑞士阿尔卑斯山到19世纪的澳大利亚丛林，从上海的一家酒店到不远的将来的曼哈顿联排别墅，他们的故事在每天的优雅和非凡的奇妙时刻融合在一起.
 
 
 ### Biopunk
 
 _着眼于生物技术革命即将发生的意外后果的小说.
+
+#### [Pandemic](https://www.goodreads.com/book/show/34811896-pandemic) (2017) *by [A.G. Riddle](https://www.goodreads.com/author/show/3087199.A_G_Riddle)* [4.04]
+
+ 这个故事分为两部分，是第一本名为灭绝档案的丛书，故事探讨了一个生物恐怖分子阴谋，企图以一种额外的幻想扭曲世界主要政府.  这不是我所说的辛苦的科幻小说，它有相当多的奶酪和陈词滥调，但是有足够的行动和悬念可以使聚会继续进行而不会感到无聊.  -- [@Rogue-System](https://github.com/Rogue-System)
+
+ &gt;肯尼亚的一次致命暴发.  一场超出想象的阴谋.  一场在最黑暗的时刻拯救人类的竞赛.
+> 
+&gt;《亚特兰蒂斯基因与出境》全球畅销书《 AG Riddle》出版了一部小说，它将改变您认为与大流行有关的一切. 
 
 #### [The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl) (2009) *by [Paolo Bacigalupi](https://en.wikipedia.org/wiki/Paolo_Bacigalupi)* [3.7]
 
@@ -1002,7 +1010,7 @@ _着眼于生物技术革命即将发生的意外后果的小说.
 
 #### [Kiln People](https://www.goodreads.com/book/show/96478.Kiln_People) (2002) *by [David Brin](https://www.goodreads.com/author/show/14078.David_Brin)* [3.8]
 
- 这本小说探讨了社会如何适应负担得起的暂时性自我克隆.  -- [@neontapir](https://github.com/neontapir)
+This novel explores how society might adapt to affordable temporary cloning of one's self. - [@neontapir](https://github.com/neontapir)
 
  &gt;在一个危险的未来中，一次性的重复尸体会满足decade废主人的一切法律和非法想法，生活是廉价的.  没有人比阿尔伯特·莫里斯（Albert Morris）更了解这一点了.他是一位勇于进取，精通麻烦的调查员，他把自己的复制品送入致命的危险中的次数比他想念的要多.  但是，当莫里斯（Morris）冒充一批非法复制著名女演员的盗版者时，他偶然发现了一个如此爆炸的秘密，引发了Dittotown街道上的公开战争.  莫里斯必须进入一个幽灵般的幽灵和噩梦般的世界，那里什么都没有，而且没人能看到，记忆本身是可疑的，生与死之间的界线可能不再存在.
 
@@ -1012,7 +1020,7 @@ _着眼于生物技术革命即将发生的意外后果的小说.
 
  &gt; Fraa Erasmas是一个年轻的信徒，居住在Saunt Edhar中心，这里是数学家，科学家和哲学家的庇护所，受到古代石子，尊贵的传统和复杂仪式的保护，免受外界“人造”世界的腐败影响.  几个世纪以来，城市和政府的兴衰超出了浓度范围.  在历史上最黑暗的时期中，由于迷信和无知而产生的暴力侵袭和破坏了世外桃源的数学社区.  然而，灾难发生后，人们总是设法适应，变得更加节俭，对技术和物质的依赖也越来越小.  而且，伊拉斯玛斯（Erasmas）不惧怕外界-Extramuros-可怕的最后时刻是很久很久以前的事了.
 >
-&gt;现在，为庆祝为期一周，十年一次的Apert庆典，兄弟会和suurs准备冒险走出香水专卖店的大门，同时向他们敞开大门欢迎好奇的“额外礼物”.在他第一次成为Apert作品时，Erasmas迫切希望与他被“收藏”以来从未见过的地标和家庭重新建立联系.但是在一周结束之前，他遗弃的存在和他所拥抱的存在都将继续存在灾难性变化的边缘.
+&gt;现在，为庆祝为期一周，十年一次的Apert仪式，兄弟会和suurs准备冒险走出香水中心的大门，同时向他们敞开大门，欢迎好奇的“额外礼物”进入.在他第一次成为Apert作品时，Erasmas迫切希望与他被“收藏”以来从未见过的地标和家庭重新建立联系.但是在一周结束之前，他遗弃的存在和他所拥抱的存在都将继续存在灾难性变化的边缘.
 >
  &gt;强大的不可预见的力量危及数学生活的和平稳定以及Extramuros的既定环境-只有不稳定的saecular和avout联盟可以反对的威胁–召唤了Erasmas和他的同事，老师和朋友从集中力量的安全出发，以期抵御全球灾难.  突然担负起沉重的责任，伊拉斯马斯（Erasmas）发现自己是一部戏剧中的主要角色，将决定他世界的未来-他踏上了一段非凡的冒险旅程，将把他带到地球上最危险，最荒凉的角落……甚至更远.
 
@@ -1038,13 +1046,13 @@ _着眼于生物技术革命即将发生的意外后果的小说.
 
 #### [The End of Eternity](https://www.goodreads.com/book/show/509784.The_End_of_Eternity) (1955) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.2]
 
- &gt;安德鲁·哈兰（Andrew Harlan）是一位永恒的人，他的工作是跨越过去和现在的几个世纪，监控并在必要时改变《时代》的多种因果关系.  但是，当哈兰遇见并坠入一个非永恒的女人时，他试图利用永恒的超凡力量和技巧为自己的目的扭曲时间，以便他和他的爱能够一起生存.
+ &gt;安德鲁·哈兰（Andrew Harlan）是一位永恒的人，他的工作范围是穿越过去和现在的几个世纪，监视并在必要时改变《时代》的多种因果关系.  但是，当哈兰遇见并坠入一个非永恒的女人时，他试图利用永恒的超凡力量和技巧为自己的目的扭曲时间，以便他和他的爱能够一起生存.
 
 #### [The Years of Rice and Salt](https://www.goodreads.com/book/show/2723.The_Years_of_Rice_and_Salt) (2002) *by [Kim Stanley Robinson](https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson)* [3.7]
 
  交替的历史世界建筑在这里很吸引人，其规模和深度令人印象深刻.  -- [@neontapir](https://github.com/neontapir)
 
- &gt;这是14世纪，人类历史上最重大的事件之一即将发生-黑死病的到来.  历史告诉我们，欧洲三分之一的人口被摧毁.  但是，如果呢？  如果瘟疫杀死了99％的人口，该怎么办？  世界将如何改变？  这是对本来可能是一段历史的历史的回顾：跨越几个世纪的历史，见证王朝和民族崛起和瓦解的历史，跨越可怕的饥荒和宏伟创新的历史.  这些是大米和盐的年代.
+ &gt;这是14世纪，人类历史上最重大的事件之一即将发生-黑死病的到来.  历史告诉我们，欧洲三分之一的人口被摧毁.  但是如果呢？  如果瘟疫杀死了99％的人口，该怎么办？  世界将如何改变？  这是对本来可能是一段历史的历史的回顾：一段跨越多个世纪的历史，一段历代王朝和民族崛起和瓦解的历史，一段跨越可怕的饥荒和宏伟创新的历史.  这些是大米和盐的年代.
 
 ### Time Travel
 
@@ -1062,11 +1070,11 @@ _着眼于生物技术革命即将发生的意外后果的小说.
 
  我非常喜欢这个系列，因此部分地受到了纹身的启发.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; _时间的尽头的舞者_是一系列科幻小说和短篇小说，其背景是时间的尽头，即“熵为王，宇宙已开始瓦解的时代”.时代是不朽的decade废者，他们利用动力环创造幻想的飞行，动力环利用了其祖先数百万年前设计和存储的能量.  时间旅行是可能的，并且在整个系列中，都会访问并重新访问各个时间点.  太空旅行者也很普遍，但是“末日终结者”的大多数居民都觉得这个星球令人讨厌和陈词滥调.
+ &gt; _时间的尽头的舞者_是一系列科幻小说和短篇小说，其背景是时间的尽头，即“熵为王，宇宙开始瓦解的时代”.时代是不朽的decade废者，他们使用动力环创造幻想的飞行，动力环利用了其祖先数百万年前设计和存储的能量.  时间旅行是可能的，并且在整个系列中，都会访问并重新访问各个时间点.  太空旅行者也很普遍，但是“末日终结者”的大多数居民都觉得这个星球令人讨厌和陈词滥调.
 
 #### [The Door Into Summer](https://www.goodreads.com/book/show/348.The_Door_Into_Summer) (1957) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [4.0]
 
- &gt; 1970年，电子工程师丹·戴维斯（Dan Davis）终于发明了终生一生：具有非凡能力的家用机器人，注定会极大地改变日常生活的格局.  然后，丹取得了巨大的成功，丹的贪婪的伴侣甚至贪婪的未婚夫偷走了他的作品，使他身无分文，并诱使他睡了很长的时间（暂停动画30年）.
+ &gt; 1970年，电子工程师丹·戴维斯（Dan Davis）终于发明了终生一生：具有非凡能力的家用机器人，注定会极大地改变日常生活的格局.  然后，丹取得了巨大的成功，丹的贪婪的伴侣甚至贪婪的未婚夫偷走了他的作品，使他身无分文，并诱使他睡了很长的时间（暂停动画长达30年）.
 >
  &gt;他们从未想象过Dan醒来的未来时间旅行形式非常有限，恰好足以使Davis能够返回并恢复他的研究.  然后，他再次经历了悬浮动画，并凭借其声誉，财富和他的甜心在2000年的高科技未来中再次醒来.
 
@@ -1082,7 +1090,7 @@ _着眼于生物技术革命即将发生的意外后果的小说.
 
 &gt;“我度过了最美好的时光……”
 >
- &gt;因此，《时代旅行者》开始了惊人的第一手叙述，讲述了他超越自己时代80万年的旅程，并且这个故事开启了HG威尔斯的成功事业，并赢得了他作为科幻小说之父的声誉.  凭借投机性的飞跃仍然激发着人们的想象力，威尔斯派遣他勇敢的探险家面对充满我们最大的希望……和我们最黑暗的恐惧的未来.  拨动Time Machine的操纵杆，将他推向了一个即将死去的地球时代.  在那儿，他发现了两个离奇的种族-空灵的埃洛伊人（Eloi）和地下的莫洛克人（Morlocks）-他们不仅象征着人性的二重性，而且还提供了关于未来男人的恐怖肖像.  这项发明杰作于1895年出版，在新世纪的起点上吸引了众多读者.  得益于Wells的专业讲故事和挑衅性的洞察力，“ The Time Machine”将继续吸引后代的读者.
+ &gt;因此，《时代旅行者》开始了惊人的第一手叙述，讲述了他超越自己时代80万年的旅程，并且这个故事开启了HG威尔斯的成功事业，并赢得了他作为科幻小说之父的声誉.  凭借投机性的飞跃仍然激发着人们的想象力，威尔斯派遣他勇敢的探险家面对充满我们最大的希望……和我们最黑暗的恐惧的未来.  拨动Time Machine的操纵杆，将他推向了一个即将死去的地球时代.  在那儿，他发现了两个离奇的种族-空灵的埃洛伊人（Eloi）和地下的莫洛克人（Morlocks）-他们不仅象征着人性的二重性，而且还提供了关于明天男人的恐怖肖像.  这项发明杰作于1895年出版，在新世纪的起点上吸引了众多读者.  得益于Wells的专业讲故事和挑衅性的洞察力，“ The Time Machine”将继续吸引后代的读者.
 
 #### [The Eyre Affair](https://www.goodreads.com/book/show/27003.The_Eyre_Affair) (2001) *by [Jasper Fforde](https://www.goodreads.com/author/show/4432.Jasper_Fforde)* [3.9]
 
@@ -1102,9 +1110,9 @@ _着眼于生物技术革命即将发生的意外后果的小说.
 
  我读过的最有趣的系列之一.  我对自己笑着，一直都在想这件事.  改变了我不可逆转地看待银河系和钢笔的方式.  我也庆祝 [International Towel Day](http://en.wikipedia.org/wiki/Towel_Day)  现在每年.  -- [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;在地球被拆除以腾出银河高速公路之前的第二秒，亚瑟·登特（Arthur Dent）被他的朋友福特·普雷迪夫（Ford Prefect）从地球上摘下，他是《银河系漫游指南》修订版的研究者，在过去的15年中，一直扮演一个失业的演员.
+&gt;在地球被拆除以便为银河高速公路腾出空间的几秒钟之前，亚瑟·登特（Arthur Dent）被他的朋友福特·普雷迪夫（Ford Prefect）从地球上摘下，他是《银河系旅行者指南》修订版的研究者，在过去的15年中，一直扮演一个失业的演员.
 >
- &gt;这对充满活力的夫妇一起在《旅行者指南》（“一条毛巾代表星际旅行者可以拥有的最有用的东西”）和一个充满银河星系的同伴：萨福德·比布尔布罗克斯（Zaphod Beeblebrox）–率领的三臂前嬉皮士，完全是午餐的银河系总裁；  Zaphod的女友Trillian（以前叫Tricia McMillan），Arthur曾在一个时区的鸡尾酒会上接他.  马文（Marvin），偏执狂，聪明而长期沮丧的机器人；  Veet Voojagig，一位前研究生，他痴迷于他多年来购买的所有圆珠笔的消失.
+ &gt;这对充满活力的夫妇一起在《旅行者指南》（“一条毛巾是星际旅行者可以拥有的最有用的东西”）和一个充满银河星系的同伴旅行者的引言的帮助下，开始穿越太空的旅程：Zaphod Beeblebrox-两个率领的三臂前嬉皮士，完全是午餐的银河系总裁；  Zaphod的女友Trillian（以前叫Tricia McMillan），Arthur曾在一个时区的鸡尾酒会上接他.  马文（Marvin），偏执狂，聪明而长期沮丧的机器人；  Veet Voojagig，一位前研究生，他痴迷于他多年来购买的所有圆珠笔的消失.
 
 #### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0) (2013, 2014, 2015, 2017) *by [Scott Meyer](https://en.wikipedia.org/wiki/Scott_Meyer_(author))* [3.9]
 
@@ -1118,11 +1126,11 @@ Books:
 - [Fight and Flight](https://www.goodreads.com/book/show/36566205-fight-and-flight) [3.61]
 - [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/39751936-out-of-spite-out-of-mind) [3.79]
 
- &gt;马丁·班克斯（Martin Banks）只是一个发现异常情况的普通人：他可以操纵现实，这要归功于现实不过是计算机程序.  但是，在充分利用此功能的情况下，马丁发现自己的小“调整”并没有被忽略.  他没有面对起诉，而是决定时光倒流回到中世纪，并扮作巫师.
+ &gt;马丁·班克斯（Martin Banks）只是一个发现异常情况的普通人：他可以操纵现实，这要归功于现实不过是计算机程序.  但是，在充分利用此功能的情况下，马丁发现自己的小“调整”并未引起注意.  他没有面对起诉，而是决定时光倒流回到中世纪，并扮演巫师.
 >
 &gt;可能出什么问题了？
 >
-&gt;作为亚瑟王法庭上的一名美国黑客，马丁现在必须接受训练，成为能力的全面掌握者，发掘远古巫师Merlin背后的真相……而不是知道，死亡或其他任何原因.
+&gt;作为亚瑟王法庭上的一名美国黑客，马丁现在必须接受训练以成为他的能力的全面掌握者，发掘远古巫师默林背后的真相……而不是知道，死亡或其他任何原因.
 
 
 ### Horror
@@ -1135,7 +1143,7 @@ Books:
 >
 &gt;现在，这本令人惊讶的小说首次以书本形式出现，包括原始的彩色单词，垂直的脚注以及新添加的第二和第三附录.
 >
->The story remains unchanged, focusing on a young family that moves into a small home on Ash Tree Lane where they discover something is terribly wrong: their house is bigger on the inside than it is on the outside.
+&gt;故事保持不变，集中在一个年轻的家庭，他们搬进Ash Tree Lane的一间小房子，在那里他们发现了一个严重的错误：他们的房子内部比外部更大.
 >
 &gt;当然，普利策奖摄影记者威尔·纳维森（Will Navidson）和他的同伴凯伦·格林（Karen Green）都没有准备好面对这种可能性的后果，直到那天，他们的两个小孩流浪了，他们的声音开始怪异地传回另一个关于生物黑暗的故事，壁橱门深处不断增长的深渊，以及那邪恶的咆哮，很快就会撕裂他们的墙壁并吞噬所有的梦想.
 
@@ -1148,7 +1156,7 @@ Books:
 
  难以置信的科幻小说，但精彩而新颖，富于想象力（尤其是如果您以前没有机会阅读Greg Egan撰写的任何文章.）这些故事的年龄已经令人惊讶地变好了–这仅凸显了Egan钟情于外形的喜好未来.  -- [@mihailim](https://github.com/mihailim)
 
- &gt; _Axiomatic_是格雷格·埃根（Greg Egan）的短篇小说的集合，这些短篇小说在1989年至1992年间出现在各种科幻杂志（主要是_Interzone_和_Asimov&#39;s_）中.像埃根（Egan）的大多数作品一样，这些故事集中于科学和思想，有时却以牺牲科学和思想为代价.写作.  但是，尽管伊根（Egan）可能缺乏某种风格，但他对未来的美好愿景足以弥补这一点.  一些更有趣的故事包括_Into Darkness_（一个救援人员的故事是一个失控的虫洞）和标题故事_Axiomatic_（该故事是关于一个男人希望在妻子的无意义死亡中寻找意义）的故事.
+ &gt; _Axiomatic_是格雷格·埃根（Greg Egan）的短篇小说的集合，这些短篇小说在1989年至1992年间出现在各种科幻杂志（主要是_Interzone_和_Asimov&#39;s_）中.像埃根（Egan）的大多数作品一样，这些故事集中于科学和思想，有时却以牺牲科学和思想为代价.写作.  但是，尽管伊根（Egan）可能缺乏某种风格，但他对未来的美好愿景足以弥补这一点.  一些更有趣的故事包括_Into Darkness_（一个救援人员的故事是一个失控的虫洞）和标题故事_Axiomatic_（该故事是关于一个男人希望在妻子无意义的死亡中寻找意义）的故事.
 
 &gt;内容：_The Infinite Assassin_（1991），_ The一百光年日记_（1992），_ Eugene_（1990），_ The Caress_（1990），_ Blood Sisters_（1991），_ Axiomatic_（1990），_ The Safe-Deposit Box_（1990） ，_Seeing_（1995），_ A Kidnapping_（1995），_ Learning to Be Me_（1990），_ The Moat_（1991），_ The Walk_（1992），_ The Cutie_（1989），_ Into Darkness_（1992），_ Appropriate Love_（1991）， _《道德病毒学家》（1990年），《克洛尔》（1992年），《谎言空间中的不稳定轨道》（1992年）
 
@@ -1182,27 +1190,27 @@ Books:
 
  我对这本书赞不绝口.  _九十亿个上帝的名字_做得很出色；  写得好，执行力强并且引人入胜.  _如果我忘了你，哦，地球_也清楚地提醒我们只有一个星球.  我读过的最令人难忘的科幻小说之一.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;《时间与星星》是科幻小说家阿瑟·克拉克（Arthur C. Clarke）的短篇小说集.  这些故事最初都出现在许多不同的出版物中，包括期刊_Dude _，_ The Evening Standard _，_ Lilliput _，_ The Fantasy＆科幻小说杂志，_Future _，_ New Worlds _，_ Startling Stories _，_ Astounding _，_ Fantasy _，_ King&#39;s Stite_， ，《伦敦晚报》，《无限科幻小说》和《十个故事幻想》，以及弗雷德里克·波尔（Frederik Pohl）编辑的《星光科幻小说第一号》和奥古斯特·德雷思（August Derleth）编辑的《时间到来》的选集.
+ &gt;《时间与星星》是科幻小说家阿瑟·克拉克（Arthur C. Clarke）的短篇小说集.  这些故事最初都出现在许多不同的出版物中，包括期刊_Dude _，_ The Evening Standard _，_ Lilliput _，_ The Fantasy＆科幻小说杂志_，_ Future _，_ New Worlds _，_ Startling Stories _，_ Astounding _，_ Fantasy _，_ King Stories_， ，《伦敦晚报》，《无限科幻小说》和《十个故事奇幻》，以及弗雷德里克·波尔（Frederik Pohl）编辑的《星光科幻小说第一号》和奥古斯特·德雷思（August Derleth）编辑的《到来的时间》等选集.
 
 &gt;内容：_上帝的九十个名字_（1953），_关于房屋的猿人（1962），_绿色手指_（1956），_与原住民的麻烦_（1951），_进入彗星_（1960），_之后没有早晨（1954）， _&#39;如果我忘记了你，噢地球...&#39;_（1951），_谁在那里？_（1958），_世界上所有的时间_（1952），_隐藏和寻求_（1949），_罗宾汉，FRS_（1956），_内心之火（1949），被遗忘的敌人（1953），不情愿的兰花（1956），黎明相遇（1953），_安全检查（1957），羽毛的朋友（1957），_前哨（1951）
 
 #### [Stories of Your Life and Others](https://www.goodreads.com/book/show/729760.Stories_of_Your_Life_and_Others) (2002) *by [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)* [4.4]
 
- 我对泰德·蒋的故事最感到惊讶的是它们的“丰富性”-作者在不使故事变得虚假的情况下设法编入故事的细节层次.  巧妙地执行，始终出色到卓越-这在单作者收藏中绝非同等水平！  让我想起了格雷格·伊根（Greg Egan）的大部分《 _Axiomatic_》系列，除了Chiang设法使他的角色保持乐观.  -- [@mihailim](https://github.com/mihailim)
+ 我对泰德·蒋的故事最感到惊讶的是它们的“丰富性”-作者在不使故事变得虚假的情况下设法编入故事的细节层次.  巧妙地执行，始终出色到卓越-这在单作者收藏中绝非同等水平！  让我想起了格雷格·伊根（Greg Egan）的大部分《 _Axiomatic_》系列，但蒋介石设法让他的角色保持乐观.  -- [@mihailim](https://github.com/mihailim)
 
  &gt;泰德·蒋（Ted Chiang）的第一个故事《巴比伦之塔》（Tower of Babylon_）在1990年获得了星云奖.随后的故事又获得了阿西莫夫（Asimov）的SF Magazine读者民意调查，第二次星云奖，西奥多·斯特金纪念奖和交替历史侧向奖.  1992年，他获得了约翰·坎贝尔（John W. Campbell）最佳新作家奖.从故事到故事，他是现代科幻小说界最受尊敬的年轻作家.
 >
  &gt;如果人们建造了一个从地球到天堂的塔，然后突破到天堂的另一侧，该怎么办？  如果我们发现数学基础是任意的和不一致的，该怎么办？  如果有一种将事物命名为能将生命从无生命的事物变成生命的科学，该怎么办？  如果永远暴露于外语会改变我们对时间的认知，该怎么办？  如果所有原教旨主义基督教的信念从字面上都是真实的，而罪人被吞噬到火坑中的景象是城市街道上的例行事件怎么办？  这些是蒋泰德的故事提出的那种令人发指的问题.  您生活中的故事……以及其他.
 
-&gt;内容：_巴比伦塔（1990），_理解塔（1991），_除以零部（1991），_你的生活故事_（1998），_七十二个字母_（2000），_人类科学的进化_（2000），_地狱是上帝缺席（2001），《喜欢你所看到的：纪录片》（2002）
+&gt;内容：_巴比伦之塔（1990），_了解者（1991），_零除部门（1991），_人生故事_（1998），_七十二个字母_（2000），_人类科学进化_（2000），_地狱是上帝缺席（2001），《喜欢你所看到的：纪录片》（2002）
 
 #### [The Illustrated Man](https://www.goodreads.com/book/show/24830.The_Illustrated_Man) (1951) *by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury)* [4.1] 🌟
 
- &gt;《插图的人》自1951年出版以来一直在印刷中，这是雷·布拉德伯里（Ray Bradbury）作品的普遍吸引力的公平见证.  只有他的第二个收藏集（第一个收藏集是_Dark Carnival_，后来被改编为_The October Country_），这是一本奇妙的，甚至大多是黑暗的科幻，幻想和恐怖的被子.  在一个巧妙的框架来打开和关闭这本书，布拉德伯里把自己描述成一个无名的叙述者，遇到了插图人-一个流浪者，其整个身体都是一块充满异国纹身的活着的画布.  更引人注目的是，这些插图本身还神奇地活着，并且每个插图都展现出自己的故事，例如“ The Veldt”，其中粗暴的孩子们在边缘玩着虚拟现实的游戏，这更加令人震惊.  或“万花筒”，令人心碎的困困宇航员肖像，他们即将重新进入我们的大气层，而没有飞船的好处.  或称为“零时光”，其中入侵的外星人发现了一个最合乎逻辑的盟友-我们自己的孩子.  即使大多数都是在1940年代和1950年代写的，但从现在起的50年里，这18个经典故事将同样有效.  -史丹利·威特
+ &gt;《插图的人》自1951年出版以来一直在印刷中，这是雷·布拉德伯里（Ray Bradbury）作品的普遍吸引力的公平见证.  只有他的第二个收藏集（第一个收藏集是_Dark Carnival_，后来被改编为_The October Country_），这是一本奇妙的，甚至大多是黑暗的科幻，幻想和恐怖的被子.  在一个巧妙的框架来打开和关闭这本书，布拉德伯里把自己描述成一个无名的叙述者，遇到了插图人-一个流浪者，其整个身体都是一块充满异国纹身的活着的画布.  更引人注目的是，这些插图本身还神奇地活着，并且每个插图都展现了自己的故事，例如“ The Veldt”，其中粗暴的孩子们在边缘玩着虚拟现实的游戏，这更加令人震惊.  或“万花筒”，令人心碎的困困宇航员肖像，他们即将重新进入我们的大气层，而没有飞船的好处.  或称为“零时光”，其中入侵的外星人发现了一个最合乎逻辑的盟友-我们自己的孩子.  即使大多数都是在1940年代和1950年代写的，但从现在起的50年里，这18个经典故事将同样有效.  -史丹利·威特
 
 #### [The Island of Dr. Death and Other Stories and Other Stories](https://www.goodreads.com/book/show/271587.The_Island_of_Dr_Death_and_Other_Stories_and_Other_Stories) (1980) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.1]
 
- 我经常想到这些故事.  岛屿博士之死赢得了星云，并为我们目前正在处理的康复和司法系统以及我们可能拥有的财产提供了令人震惊的视角.  死亡岛博士是一样的-我经常想到他像《麦菲史密斯洞》一样摘下书皮.  从标题的排列中制作出三个漂亮的短篇小说需要出色的才能.  另外，“羽毛老虎”使我对东南亚的丛林的看法与我的看法有所不同，而且我对纳什旺克的看法比我想象的要多得多.  我强烈建议这本书.  -- [@RichardLitt](https://github.com/RichardLitt)
+ 我经常想到这些故事.  岛屿博士之死赢得了星云，并为我们目前正在处理的康复和司法系统以及我们可能拥有的财产提供了令人震惊的视角.  死亡岛博士是一样的-我经常想到他像《麦菲史密斯洞》一样摘下书皮.  从标题的排列中制作出三个漂亮的短篇小说需要出色的才能.  另外，“羽毛虎”使我对东南亚的丛林的看法与我的看法有所不同，而且我对纳什旺克的看法比我想象的要多得多.  我强烈建议这本书.  -- [@RichardLitt](https://github.com/RichardLitt)
 
  &gt;一部极好的科幻小说和奇幻故事集，《死亡博士之岛》和《其他故事和其他故事》是一本超越所有体裁定义的书.  里面的故事充斥着深度的冲动，意义的爆发和照明，使您在阅读完很长时间后仍能思考和感受.
 
@@ -1296,7 +1304,7 @@ A movie about an AI robot "growing up" (as in, learning about the world and lear
 
 Imagine a world where no baby has been born for 18 years because of the global human infertility. Think which kinds of consequences would that bring. Then, imagine a girl getting pregnant in that kind of world. This movie is absolutely fantastic! The action shots are magnificent. I rewatched it tonight and the movie gave me the same kind of goosebumps it did when I first watched it a couple of years ago. I have no compaints about this movie. It's the perfect way to spend two hours. It gets 10/10 from me. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
- 绝对美丽的电影.  摄影是极好的.  迈克尔·凯恩（Michael Caine）扮演着一个令人难忘且扮演得很好的角色（我是说，他曾经是迈克尔·凯恩）.  配乐非常壮观，Radiohead的《玻璃屋里的生活》和King Crimson的《 Crimson King的法院》实际上都在同一部电影中工作.  最好的.  -- [@RichardLitt](https://github.com/RichardLitt)
+ 绝对美丽的电影.  摄影是极好的.  迈克尔·凯恩（Michael Caine）扮演着一个令人难忘且扮演得很好的角色（我一直是他的迈克尔·凯恩（Michael Caine））；  配乐非常壮观，Radiohead的《玻璃屋里的生活》和King Crimson的《 Crimson King的法院》实际上都在同一部电影中工作.  最好的.  -- [@RichardLitt](https://github.com/RichardLitt)
 
 &gt; 2027年，在一个混乱的世界中，妇女变得有些不孕，一位前激进主义者同意帮助将一个奇迹般的孕妇运送到海上庇护所.
 
@@ -1521,7 +1529,7 @@ Thrilling and original. Feels like a cross between Halo (the game), Groundhog Da
 
 分类：`drama``romance`
 
- 这是我最喜欢的电影之一.  讲述了无数的故事：如果没有人做出不同的选择，或者周围发生了不同的事情，那么他的生活将会有不同的影响.  这部电影的最好处在于，每个________________________________________完全不同（并且__________________同样具有重要意义__：D），这意味着很多事情一直在发生，您必须关注今生正在发生的事情，如何它与它的过去有关，这可能是电影中显示的另一种生活，这是您将看到的几种生活的共同过去.  同时，您必须了解电影的共同主题，我认为这毕竟是试图传达的内容.  结局令人惊讶，一开始很难掌握.  这部电影还充分利用了混沌理论和蝴蝶效应，突显了人类作为个体所具有的控制力的缺失- [@damaru2](https://github.com/damaru2)
+ 这是我最喜欢的电影之一.  讲述了无数的故事：如果没人做出不同的选择，或者周围发生不同的事情，那么对于没人的生活会有不同的影响.  这部电影的最好处在于，每个________________________________________完全不同（并且__________________同样具有重要意义__：D），这意味着很多事情一直在发生，您必须关注今生正在发生的事情，如何它与它的过去有关，这可能是电影中显示的另一种生活，这是您将看到的几种生活的共同过去.  同时，您必须了解电影的共同主题，我认为这毕竟是试图传达的内容.  结局令人惊讶，一开始很难掌握.  这部电影还充分利用了混沌理论和蝴蝶效应，突显了人类作为个体所具有的控制力的缺失- [@damaru2](https://github.com/damaru2)
 
  &gt;火车即将驶离时，一个男孩站在站台上.  他应该和母亲一起去还是与父亲一起住？  这一决定带来了无限的可能性.  只要他不选择，一切皆有可能.
 
@@ -1607,7 +1615,7 @@ Categories: `philosophy` `drama`
 
  潜行者（Stalker）是一部基于《路边野餐》的哲学艺术电影和美学杰作.  -- [@ggb](https://github.com/ggb)
 
- &gt;在一个灰色且未命名的城市附近是安全区，这是一个由铁丝网和士兵守卫的异国地方.  在妻子的反对下，一个男人在清晨起来，与残疾的女儿离开，与两个男人见面.  他是缠扰者，是极少数拥有精神天赋（并有可能被监禁）将人们带入防区的房间之一，在那里人们的秘密希望得以实现.
+ &gt;在一个灰色且未命名的城市附近是安全区，这是一个由铁丝网和士兵守卫的外星人场所.  在妻子的反对下，一个男人在清晨起来，与残疾的女儿离开，与两个男人见面.  他是缠扰者，是极少数拥有精神天赋（并有可能被监禁）将人们带入防区的房间之一，在那里人们的秘密希望得以实现.
 
 #### [Sunshine](http://www.imdb.com/title/tt0448134/) (2007) [7.3]
 
@@ -1643,7 +1651,7 @@ This is a pretty good movie. The science is ridiculous, but the characters are g
 
  我宁愿喜欢这部电影.  史蒂夫·布塞米（Steve Buscemi）的表演能力为我带来了一个拙劣的写作，这超出了我的想象.  这是固体膜.  -- [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;林肯六回音（Lincoln Six-Echo）是一个看似乌托邦式的居民，但该设施将于2019年入住.像在这个经过严格控制的环境中的所有居民一样，林肯希望被选到“岛屿”，据说这是最后一个未被污染的地方在这个星球上.  但是林肯很快发现关于他存在的一切都是谎言.  他和该设施的所有其他居民实际上都是人类的克隆人.  林肯与一个名叫约旦两河三角洲的美丽居民大胆逃脱.  林肯大学和乔丹大学曾一度将他们安置在这个险恶的研究所的力量下不懈地追赶，他们为了他们的制造者而与他们的生命进行了一场竞赛.
+ &gt;林肯六回音（Lincoln Six-Echo）是一个看似乌托邦式的居民，但该设施将于2019年入住.像在这个经过精心控制的环境中的所有居民一样，林肯希望被选到“小岛”-据报道是最后一个未被污染的地点在这个星球上.  但是林肯很快发现关于他存在的一切都是谎言.  他和该设施的所有其他居民实际上都是人类的克隆人.  林肯与一个名叫约旦两河三角洲的美丽居民大胆逃脱.  林肯大学和乔丹大学曾一度将他们安置在这个险恶的研究所的力量下不懈地追赶，他们为了他们的制造者而与他们的生命进行了一场竞赛.
 
 #### [The Man from Earth](http://www.imdb.com/title/tt0756683/) (2007) [8.0]
 
@@ -1651,9 +1659,9 @@ This is a pretty good movie. The science is ridiculous, but the characters are g
 
 #### [The Martian](http://www.imdb.com/title/tt3659388/) (2015) [8.2]
 
- 这是一本很棒的书的相当准确的表示形式，但是它更多地关注Watney的个性而不是科学（这是既定的，因为我们可以在其中真正地看到Watney，而不是仅仅阅读他在书中的日志）.  太空拍摄的效果令人难以置信，一个场景像一条丝带，像脐带一样漂浮在零克中-绝对美丽.  这部电影演员出色，演员出色.  甚至在Elrond理事会上也提到了Glorfindel.  我想我几年来没有在剧院里这么笑过.  爱它.  -- [@RichardLitt](https://github.com/RichardLitt)
+ 这是一本很棒的书的相当准确的表示，但是它更多地关注Watney的个性而不是科学（这是既定的，因为我们可以在其中真正地看到Watney，而不是仅仅阅读他在书中的日志）.  太空拍摄的效果令人难以置信，一个场景像一条丝带，像脐带一样漂浮在零克中-绝对美丽.  这部电影演员出色，演员出色.  甚至在Elrond理事会上也提到了Glorfindel.  我想我几年来没有在剧院里这么笑过.  爱它.  -- [@RichardLitt](https://github.com/RichardLitt)
 
-> During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.
+ &gt;在对火星进行载人飞行任务期间，推测马克·沃特尼（Mark Watney）在激烈的暴风雨中丧生，并被其机组人员抛在了身后.  但是沃特尼（Watney）幸存下来，发现自己被困在这个敌对的星球上，独自一人.  他只有很少的补给，必须依靠自己的才智，才智和精神维持生存，并找到向地球发出他还活着的信号.
 
 #### [The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7]
 
@@ -1805,7 +1813,7 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
  他说什么.  -- [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;未来五百年，一架小型航天器上的叛徒试图穿越银河系的未知部分，逃避交战派别和权​​威特工，以求生存.
+&gt;未来五百年，一架小型航天器上的叛徒乘员试图生存，因为他们要穿越银河系的未知部分，并逃避交战派系和权威特工的追捕.
 
 #### [Fringe](http://www.imdb.com/title/tt1119644/) (2008–2013) [8.5]
 
@@ -1829,7 +1837,7 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 类别：`动作`犯罪`戏剧`人工智能`
 
- 从预防犯罪开始，该节目逐渐发展为重点关注AI和人类对诸如大规模监视之类的技术的滥用.  再加上两位主角政府工作的复杂过去，您可以通过解决现代数字时代的相关问题来定义电视节目，使其脱颖而出.  “你正在被监视.”  -- [@AB1908](https://github.com/AB1908)
+ 从预防犯罪开始，该节目逐渐发展为重点关注AI和人类对诸如大规模监视之类的技术的滥用.  加上两位主角政府工作的复杂过去，您可以通过解决现代数字时代的相关问题来定义电视节目，使其脱颖而出.  “你正在被监视.”  -- [@AB1908](https://github.com/AB1908)
 
  &gt;前刺客和富裕的程序员通过监视AI拯救生命，向他们发送即将犯罪的平民身份.  但是，这些罪行的细节（包括平民的角色）仍然是个谜.
 
@@ -1865,7 +1873,7 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 #### [Stargate Universe](http://www.imdb.com/title/tt1286039/) (2009–2011) [7.7]
 
-类别：`drama`
+Categories: `drama`
 
  该节目感觉与Stargate SG-1和Atlantis完全不同，它无疑是这三个系列中最具电影感的外观.  天黑了，情节似乎变慢了，但也更加真实和强烈，给节目带来了更大的悬念.  -- [@HQarroum](https://github.com/HQarroum)
 
@@ -1909,7 +1917,7 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 《星际迷航》是一部科幻小说的杰作，它不仅对未来技术的发展具有真正重要的意义，而且还反映了人们对人类社会的希望，尤其是在60年代的希望.
 
- 从很多方面来说，原始系列都是《星际迷航》中最纯粹的一部.  的确，它可能会很慢而且很慢，但不要因为它过于简单而将其误认为是错误的.  它写得非常巧妙，尽管质量可能千差万别（就像60年代的许多演出一样），但它具有扎实的哲学核心，而且经常要说些有趣的话.
+ 从很多方面来说，原始系列都是《星际迷航》中最纯粹的一部.  的确，它可能会很慢而且很慢，但不要因为它过于简单而将其误认为是错误的.  它写得很巧妙，尽管质量可能千差万别（就像60年代的许多演出一样），但它具有扎实的哲学核心，而且常常要说些有趣的话.
 
  另外，我不确定特许经营权是否能超过Shatner，Nimoy和Kelly之间惊人的化学反应.  值得独自一人注意.  -- [@augustopedro](https://github.com/augustopedro)
 
@@ -1921,7 +1929,7 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
  直到遇到The 100，我才真正理解过观看狂饮的必要性或理由.第一和第二个赛季绝对令人着迷且引人入胜.  人物发展，故事，情节曲折；  太神奇了！  从字面上看，拉了几个通宵，因为我必须知道该系列接下来发生了什么.  展览的前提是在将地球撤离至全球核轰炸和辐射之后，国际空间站决定将“ 100”个青少年痴迷者送到地面，以便再次观察是否可以居住.  第3季的中期到结尾开始有些怪异，据说应该在第3季后结束，所以他们试图结束整个系列.  我试图继续观看，但是没有像第1和第2季那样沉迷其中.- [@kyebrowning](https://github.com/kyebrowning)
 
-&gt;在一场核战争摧毁了文明的九十七年后，当时居住着人类唯一幸存者的一艘宇宙飞船将一百名少年犯罪者遣返地球，希望有可能使这个星球重新居住. 
+&gt;在一场核战争摧毁了文明的九十七年后，当时居住着人类的唯一幸存者的一艘宇宙飞船将一百名少年犯罪者遣返地球，希望有可能重新安置地球. 
 
 #### [The Orville](https://www.imdb.com/title/tt5691552/) (2017–) [7.9]
 
@@ -1955,7 +1963,7 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
  机器人先生是一部科幻小说，实际上与现实十分接近，它正确地使用了技术术语，并且观看时很有趣.  -- [@iamzubin](https://github.com/iamzubin)
 
-&gt;艾略特（Elliot）是一位杰出但高度不稳定的年轻网络安全工程师和警惕性黑客，当他和他的影子盟友试图推倒他所服务的腐败公司时，他在复杂的全球支配游戏中成为关键人物.
+&gt;埃利奥特（Elliot）是一位杰出但高度不稳定的年轻网络安全工程师和警惕性黑客，当他和他的影子盟友试图摧毁他所工作的腐败公司时，他在复杂的全球支配游戏中成为关键人物.
 
 ## Comic Books
 
@@ -1971,9 +1979,9 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 类别：“科幻小​​说”，“科幻小说”，“网络朋克”
 
- 法国最具影响力的科幻漫画之一.  它激发了很多东西，成为了《重金属》杂志.  莫比乌斯（Moebius）在这个荒诞的故事中没有用任何文字来表达这个图形化散文.  -- [@matheusteixeira](https://github.com/matheusteixeira)
+ 法国最具影响力的科幻漫画之一.  它激发了很多东西，成为了《重金属》杂志.  莫比乌斯（Moebius）在这个荒诞的故事中没有用任何文字来表达这个图形化的散文.  -- [@matheusteixeira](https://github.com/matheusteixeira)
 
- &gt; Arzach是当时漫画的一次革命.  它由五个独立的故事组成，每个故事都有几块板的“新图形”.  它的独特性首先在于完全不存在对话：一个人跨越一个或两个重复出现的字符（Arzach和他的翼手龙，一种翼手龙），但显然是愚蠢的，在任何情况下，作者都不允许他们为s说话.表达.
+ &gt; Arzach是当时漫画的一次革命.  它由五个独立的故事组成，每个故事都有几块板的“新图形”.  它的独特性首先在于完全不存在对话：一个人跨越一个或两个反复出现的角色（Arzach和他的翼手龙，一种翼手龙），但显然是愚蠢的，在任何情况下，作者都不允许他们为s说话.表达.
 
 #### [Black Science](https://www.goodreads.com/book/show/20881139-black-science-vol-1) (2014) *by [Rick Remender](https://en.wikipedia.org/wiki/Rick_Remender)* [3.93]
 
@@ -1981,11 +1989,11 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
  《 Black Science》是其中的故事之一，您可以向人们进行高水平的解释，并逐渐感到兴奋.  如果瑞克和莫蒂（Rick＆Morty）的技术水平较低且幸运的瑞克（Rick），本质上就是这样.  格兰特·麦凯（Grant McKay）经历了一些非常黑暗的经历，周围的宇宙对他的困境毫无感觉.  这是一个阅读和回顾的故事.  -- [@EricPonvelle](https://github.com/EricPonvelle)
 
- &gt;前无政府主义科学家委员会成员格兰特·麦凯（Grant McKay）终于做到了不可能：他破译了黑科学，冲破了现实的障碍.  但是，超越面纱的不是顿悟，而是混乱.  现在，格兰特和他的团队迷失了自己，活着的幽灵在无限的外星世界海洋中沉船沉没，穿越了久违的，古老而难以想象的黑暗境界.  唯一的办法就是前进.  唯一的问题是，他们愿意走多远，又能忍受多少，才能再次回家？  与作家RICK REMENDER和MATTEO SCALERA＆DEAN WHITE的超级巨星艺术团队一道，演绎这部令人难忘的科幻史诗，涵盖了造成这一切的人所领导的铸币厂演员的一生.
+ &gt;前无政府主义科学家委员会成员格兰特·麦凯（Grant McKay）终于做到了不可能：他破译了黑科学，冲破了现实的障碍.  但是，超越面纱的不是顿悟，而是混乱.  现在格兰特（Grant）和他的团队迷失了自己，活着的幽灵在无限的外星世界海洋中沉船沉没，穿越了久已被遗忘，古老而难以想象的黑暗境界.  唯一的办法就是前进.  唯一的问题是，他们愿意走多远，又能忍受多少，才能再次回家？  与作家RICK REMENDER和MATTEO SCALERA＆DEAN WHITE的超级巨星艺术团队一道，演绎这部脸庞化的科幻史诗，涵盖了造成这一切的人所领导的铸币厂演员的一生.
 
 #### [Global Frequency](http://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis* [4.05]
 
-类别：“科幻小​​说”“科幻小说”
+Categories: `hard-science-fiction` `sci-fi`
 
  《全球频率》是一部非常生动，强大且节奏快的冒险/动作科幻小说.  十二个问题中的每一个都是独立的，并且都充满生命.  -- [@matheusteixeira](https://github.com/matheusteixeira)
 
@@ -2001,7 +2009,7 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 #### [The Manhattan Projects](http://www.goodreads.com/book/show/15736709-the-manhattan-projects-volume-1) (2015-) *by Jonathan Hickman* [3.9]
 
-类别：“科幻小​​说”“科幻小说”
+Categories: `hard-science-fiction` `sci-fi`
 
  基于历史事件的思维混乱，疯狂的高概念.  -- [@matheusteixeira](https://github.com/matheusteixeira)
 
@@ -2013,7 +2021,7 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
  佐贺（Saga）是一部漫画，是一部电梯俯仰证明.  用句子描述它是不可能的.  我只能说的是，在一个非常有趣的类似太空歌剧的世界中，这是一个关于爱情和家庭的精美写生的故事.  有点像《星球大战》，但完全没有.  在《星际大战》中，英雄们正在结束战争的艰巨旅程中，在佐贺，他们只想独自一人与家人同住.  -- [@matheusteixeira](https://github.com/matheusteixeira)
 
- &gt; Saga是由作家Brian K. Vaughan和艺术家Fiona Staples创作的史诗般的太空歌剧/幻想漫画系列，由Image Comics每月出版.  该系列剧受到《星球大战》的强烈影响，并基于沃恩既是孩子又是父母的思想.  它描绘了来自长期交战的外星种族的两个恋人Alana和Marko，他们在银河战役中逃离当局，因为他们都在努力照顾刚出生的女儿Hazel，后者偶尔会叙述该系列.
+ &gt; Saga是由作家Brian K. Vaughan和艺术家Fiona Staples创作的史诗般的太空歌剧/幻想漫画系列，由Image Comics每月出版.  该系列剧受到《星球大战》的强烈影响，并基于沃恩既是孩子又是父母的思想.  它描绘了来自长期交战的外星人种族的两个恋人Alana和Marko，他们在银河战役中逃离当局，因为他们努力照顾自己的新生女儿Hazel，偶尔会叙述该系列.
 
 #### [Transmetropolitan](http://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis* [4.23]
 
@@ -2037,7 +2045,7 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
  Y：《最后的男人》是一本与我读过的其他小说不同的图形小说系列.  “最后一个人”在努力学习为什么地球上每个其他人都死了以及他如何生存的努力中.  除了自己的内部斗争之外，地球上的妇女也被划分为：想要确保人类的生存和那些认为自己应该是​​地球上最后代的人们.  -- [@derekneuland](https://github.com/derekneuland)
 
-&gt; Y：《最后的男人》是布莱蒂·K·沃恩和布莱蒂·瓜拉创作的一部反乌托邦科幻漫画系列，由Vertigo于2002年开始出版.该系列是唯一能够幸免于每只雄性哺乳动物同时死亡的人（除非相同）人的宠物猴子）在地球上.
+&gt; Y：《最后的男人》是维蒂戈（Vertigo）从2002年开始由布莱恩·沃恩（Brian K. Vaughan）和皮亚·瓜拉（Pia Guerra）创作的反乌托邦科幻漫画系列.该系列讲述的是唯一一个在每只雄性哺乳动物同时死亡的情况下幸存的男人（除非相同）人的宠物猴子）在地球上.
 
 
 ## Links

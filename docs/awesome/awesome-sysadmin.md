@@ -159,7 +159,6 @@
 * [Pallet](http://palletops.com/) -通过Clojure DSL进行基础架构定义，配置和管理.
 * [Puppet](https://puppet.com/) -它是用Ruby编写的，并使用Puppet的声明性语言或Ruby DSL.
 * [Salt](http://saltstack.com/) -用Python编写.
-* [Slaughter](http://www.steve.org.uk/Software/slaughter/) -用Perl编写.
 
 ## Continuous Integration & Continuous Deployment
 
@@ -167,12 +166,12 @@
 
 - [Buildbot](http://buildbot.net/)  -基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)）`GPL-2.0`` Python`
 - [CapsuleCD](https://analogj.github.io/capsulecd-slides/)  -CD脚本，用于自动执行软件包/库的发布（npm，菜谱，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）`MIT`` Go`
-- [Concourse](https://concourse.ci/)  -Concourse是一种CI工具，可将管道视为一流的对象，并对沿途的每个步骤进行容器化.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）`Apache-2.0``Go`
+- [Concourse](https://concourse.ci/)  -Concourse是一种CI工具，可将管道视为一流的对象，并沿途对每个步骤进行容器化.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）`Apache-2.0``Go`
 - [drone](https://drone.io/)  -Drone是一个用Go语言编写的基于Docker的持续交付平台.  （[Source Code](https://github.com/drone/drone)）`Apache-2.0``Go`
 - [Factor](http://www.factor.io/)  -以编程方式定义和运行工作流，以连接配置管理，源代码管理，构建，持续集成，持续部署和通信工具.  （[Source Code](https://github.com/factor-io/factor)）`MIT`` Ruby`
 - [GitLab CI](https://about.gitlab.com/gitlab-ci/)  -Gitlab的内置功能齐全的CI / CD解决方案.  （[Source Code](https://gitlab.com/gitlab-org/gitlab-ce) MIT Ruby红宝石
 - [GoCD](http://www.go.cd/)  -连续交付服务器.  （[Source Code](https://github.com/gocd/gocd)）Apache-2.0 Java / Ruby
-- [GolangCI](https://golangci.com/)  -用于Go的开源自动代码审查服务，与GitHub拉取请求集成.  （[Source Code](https://github.com/golangci/golangci)）`AGPL-3.0``Go`
+- [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code](https://github.com/golangci/golangci)）`AGPL-3.0``Go`
 - [Jenkins](https://jenkins-ci.org/)  -持续集成服务器.  （[Source Code](https://github.com/jenkinsci/jenkins/)）MIT Java
 - [Laminar](http://laminar.ohwg.net)  -快速，轻巧，简单和灵活的持续集成.  （[Source Code](https://github.com/ohwgiles/laminar)）`GPL-3.0`` C ++`
 - [PHP Censor](https://github.com/php-censor/php-censor)  -用于PHP项目的开源自托管持续集成服务器.  `BSD-2-Clause``PHP`
@@ -189,7 +188,7 @@
   * [Froxlor](https://froxlor.org/) -具有Nginx和PHP-FPM支持的Linux易于使用的面板.
   * [ISPConfig](http://www.ispconfig.org) -Linux的主机控制面板.
   * [Sentora](http://sentora.org/) -基于ZPanel的Linux，BSD和Windows的控制面板.
-  * [VestaCP](http://vestacp.com/) - Hosting panel for Linux but with Nginx.
+  * [VestaCP](http://vestacp.com/) -Linux主机面板，但带有Nginx.
   * [Virtualmin](http://www.virtualmin.com/) -基于webmin的Linux主机面板.
 * DNS
   * [Atomia DNS](http://atomiadns.com/) -DNS管理系统.
@@ -317,7 +316,7 @@
 
 * IT资产管理软件.*
 
-* [GLPI](http://www.glpi-project.org/spip.php?lang=en) -带有附加管理界面的信息资源管理器.
+* [GLPI](https://www.glpi-project.org/) -带有附加管理界面的信息资源管理器.
 * [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) -使用户能够盘点其IT资产.
 * [OPSI](http://www.opsi.org) -Linux和Windows的硬件和软件清单，部署和修补.
 * [RackTables](http://racktables.org/) -数据中心和服务器机房资产管理，例如文档硬件资产，网络地址，机架空间，网络配置.
@@ -386,7 +385,7 @@
 * [Sensu](https://sensuapp.org/) -监测框架.
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) -以美丽的方式显示和监视服务器统计信息.
 * [ServerStatus moejda](https://github.com/mojeda/ServerStatus) -服务器状态网站脚本，显示正常运行时间（天），可用内存，可用硬盘
-* [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
+* [Shinken](http://www.shinken-monitoring.org/) -另一个监测框架.
 * [SWMP - Server Web Monitor Page](https://swmp.ml/) -响应迅速，令人愉悦的Linux服务器统计信息显示板.[Source Code](https://github.com/fuzzymannerz/swmp))
 * [Thruk](http://www.thruk.org/) -支持Naemon，Nagios，Icinga和Shinken的多后端监视Web界面.
 * [Uchiwa](https://uchiwa.io/) -sensu的简单仪表板.
@@ -431,7 +430,7 @@
 *网络配置管理工具.*
 
 * [GestióIP](http://www.gestioip.net/) -基于Web的自动IPv4 / IPv6 IP地址管理工具.
-* [GNS3](https://www.gns3.com/) - Graphical network simulator that provides a variety of virtual appliances - ([Source Code](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)）-`GPLv3`
+* [GNS3](https://www.gns3.com/) -提供各种虚拟设备的图形网络模拟器-（[Source Code](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)）-`GPLv3`
 * [Oxidized](https://github.com/ytti/oxidized) -通过Web界面和GIT存储对网络设备配置进行监视的现代方法.
 * [phpIPAM](http://phpipam.net/) -具有以下功能的开源IP地址管理 [PowerDNS](https://www.powerdns.com/) 积分.
 * [RANCID](http://www.shrubbery.net/rancid/) -监视网络设备的配置并维护更改历史记录.
@@ -486,7 +485,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 ## Queuing
 
 * [ActiveMQ](https://activemq.apache.org/) -Java消息代理.
-* [BeanstalkD](http://kr.github.io/beanstalkd/) -简单，快速的工作队列.
+* [BeanstalkD](http://kr.github.io/beanstalkd/) - A simple, fast work queue.
 * [Gearman](http://gearman.org/) -快速的多语言排队/工作处理平台.
 * [Kafka](http://kafka.apache.org) -极高性能的发布/订阅消息系统.
 * [NSQ](http://nsq.io/) -实时分布式消息传递平台.
@@ -529,7 +528,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
   * [Docker Swarm](https://docs.docker.com/engine/swarm/) -管理Docker引擎集群.
   * [Portainer](https://portainer.io/) -Docker的简单管理UI.
 * [LXC](https://linuxcontainers.org/lxc/) -Linux内核包含功能的用户空间接口.
-  * [LXD](https://linuxcontainers.org/lxd/) –容器“管理程序”和用于LXC的更好的UX.
+  * [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
 * [OpenVZ](http://openvz.org) -用于Linux的基于容器的虚拟化.
 
 ## Status Pages
