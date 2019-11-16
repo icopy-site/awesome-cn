@@ -122,9 +122,13 @@
 
    英国最大的绿色供应商.  他们为会员提供来自太阳能，风能和水力发电的100％可再生电力.  另外，该气体是100％碳中性的.  10％是从可再生资源（如食品或农业废料）中产生的绿色气体.
 
+- [Carbon Engineering](https://carbonengineering.com/)  |  加拿大|  2009年
+
+   碳工程公司采用直接空气捕获技术，旨在直接从空气中吸收现有的CO <sub>2</sub> ，然后利用该气体制造飞机，卡车和轮船使用的碳中性合成燃料.  Carbon Engineering由几个政府和可持续发展机构以及比尔·盖茨和油砂大亨诺曼·默里·爱德华兹（Norman Murray Edwards）等私人投资者资助.
+
 - [ElectricityMap.org](https://www.electricitymap.org/)  |  丹麦/法国|  2017年
 
-  A software company offering access to live and historical data of the origin of electricity and its associated carbon emissions in 90+ countries, based on open-source contributions.
+  一家软件公司，可根据开源贡献访问90多个国家/地区的电力来源及其相关碳排放的实时和历史数据.
 
 - [Gogoro](https://www.gogoro.com/) | Taiwan | 2011
 
@@ -182,7 +186,7 @@
 
   专门从事电动汽车制造及其子公司SolarCity的太阳能电池板制造.
 
-- [Ushva Clean Technology](http://www.ushva.com/)  |  印度孟买|  2015年
+- [Ushva Clean Technology](http://www.ushva.com/) | Mumbai, India | 2015
 
    他们相信在不降低便利性的前提下优化能耗，然后抵消剩余的能源需求.  他们的愿景是提供不受地域和输电限制的可再生能源来源的负担得起的电力.
 
@@ -202,7 +206,7 @@
 
 - [Ducky](https://www.ducky.eco/en/)  |  挪威|  2014年
 
-  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视您的个人足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
+  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视自己的足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
 
 - [Ecosia](https://ecosia.org/)  |  德国|  2009年
 

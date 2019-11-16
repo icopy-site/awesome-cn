@@ -20,7 +20,7 @@
 
 ## Books
 
-* [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) 朱利安·蓬吉（Julien Ponge），托马斯·塞吉斯蒙特（Thomas Segismont）和朱利安·越（Julien Viet）
+* [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) 朱利安·蓬吉，托马斯·塞吉斯蒙特和朱利安·越
 * [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) 由克莱门特·埃斯科菲耶（ClémentEscoffier）
 * [Vert.x in Action](https://www.manning.com/books/vertx-in-action) 通过朱利安蓬吉
 
@@ -37,7 +37,7 @@
 * [Handlers](https://github.com/spriet2000/vertx-handlers-http) -Vert.x的开放式Web框架.
 * [QBit](https://github.com/advantageous/qbit) -REST和WebSocket方法调用封送处理和反应式库.
 * [vertx-rest-storage](https://github.com/swisspush/vertx-rest-storage) -文件系统或redis数据库中REST资源的持久性.
-* [Jubilee](https://github.com/isaiah/jubilee) -建立在Vert.x 3上的机架兼容Ruby HTTP服务器.
+* [Jubilee](https://github.com/isaiah/jubilee) - A rack compatible Ruby HTTP server built on Vert.x 3.
 * [Knot.x](https://github.com/Cognifide/knotx) -基于Vert.x 3的现代网站的高效，高性能集成平台.
 * [Vert.x Jspare](https://github.com/jspare-projects/vertx-jspare) -使用Jspare Framework改善Vert.x 3体验.
 * [Irked](https://github.com/GreenfieldTech/irked) -Vert.x 3 Web和控制器框架的基于注释的配置.
@@ -77,7 +77,7 @@
 
 * [vertx-pojo-mapper](https://github.com/BraintagsGmbH/vertx-pojo-mapper) -MySQL和MongoDB的非阻塞POJO映射.
 * [vertx-mysql-binlog-client](https://github.com/guoyu511/vertx-mysql-binlog-client) -一个Vert.x客户端，用于接入MySQL复制流.
-* [vertx-mongo-streams](https://github.com/st-h/vertx-mongo-streams) -使用MongoDB异步驱动程序将Vert.x流泵送到MongoDB GridFS或从MongoDB GridFS泵送Vert.x流.
+* [vertx-mongo-streams](https://github.com/st-h/vertx-mongo-streams) -使用MongoDB异步驱动程序将Vert.x流泵送到MongoDB GridFS或从MongoDB GridFS泵出Vert.x流的助手.
 
 ## Integration
 
@@ -91,7 +91,7 @@
 
 *休息
   * [Vert.x REST Client](https://github.com/hubrick/vertx-rest-client) -Vert.x的REST客户端，支持RxJava和请求缓存.
-  * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) - A highly scalable adapter for Retrofit with Vert.x.
+  * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) -用于Vert.x改造的高度可扩展适配器.
 
 *消息
   * [AMQP 1.0](https://raw.githubusercontent.com/vert-x3/vertx-amqp-bridge) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -使用Vert.x Producer和Consumer API与AMQP 1.0服务器进行交互.
@@ -102,7 +102,7 @@
   * [Kafka Service](https://github.com/hubrick/vertx-kafka-service) -具有重试逻辑的Kafka生产者和消费者.
   * [SaltStack](https://github.com/cinterloper/vertx-salt) -SaltStack事件系统和Vert.x事件总线之间的双向桥接.
   * [STOMP](https://raw.githubusercontent.com/vert-x3/vertx-stomp) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -Kafka客户端和服务器.
-  * [ZeroMQ](https://github.com/dano/vertx-zeromq) -ZeroMQ事件总线桥.
+  * [ZeroMQ](https://github.com/dano/vertx-zeromq) - ZeroMQ Event Bus bridge.
   * [MQTT Broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) -MQTT Broker（符合MQTT 3.1.1和3.1版）.
   * [Azure ServiceBus](https://github.com/TextBack/vertx-azure-servicebus) -天蓝色 [ServiceBus](https://azure.microsoft.com/en-us/services/service-bus/) 生产者和使用者（完全异步，不使用Microsoft Azure SDK）.
   * [AMQP 1.0 - Kafka bridge](https://github.com/rhiot/amqp-kafka-bridge) -使用AMQP 1.0协议向Apache Kafka发送消息/从Apache Kafka接收消息的桥.
@@ -111,7 +111,7 @@
 
 * JavaEE
   * [JCA adaptor](https://raw.githubusercontent.com/vert-x3/vertx-jca) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -用于Vert.x事件总线的Java连接器体系结构适配器.
-  * [Weld](https://github.com/weld/weld-vertx) - Brings the CDI programming model into the Vert.x ecosystem (register CDI observer methods as Vert.x message consumers, CDI-powered Verticles, define routes in a declarative way, etc.).
+  * [Weld](https://github.com/weld/weld-vertx) -将CDI编程模型引入Vert.x生态系统（将CDI观察者方法注册为Vert.x消息使用者，CDI支持的Verticles，以声明方式定义路由等）.
 
 *流星
   * [Meteor](https://github.com/jmusacchio/vertxbus/) -通过Vert.x事件总线的流星集成支持.
@@ -204,7 +204,8 @@
 * [Vert.x GraphQL Service Discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) 服务发现和查询您的Vert.x微服务.
 * [HTTP Request Multiplexer - Kalfor](https://github.com/derveloper/kalfor)  -将多个HTTP GET请求合并到一个POST中.  Facebook的简单替代品 [GraphQL](http://graphql.org/) 和Netflix [Falcor](http://netflix.github.io/falcor/).
 * [Resilience4j](https://github.com/resilience4j/resilience4j)  -Resilience4j是为Java8和功能编程设计的容错库.  Resilience4j提供了用于断路，速率限制，隔离，自动重试，响应缓存和度量标准测量的模块.
-* [Autonomous Services](https://github.com/mikand13/autonomous-services)  -用于创建自主服务的工具包.  利用vert.x和nannoq工具的体系结构提供了基于事件的反应式体系结构，而没有用于通信或数据的集中式组件，从而在整个体系结构上提供了理论上的线性可伸缩性.
+* [Autonomous Services](https://github.com/mikand13/autonomous-services)  -用于创建自主服务的工具包.  利用vert.x和nannoq工具的体系结构可提供基于事件的反应式体系结构，而无需用于通信或数据的集中式组件，从而在整个体系结构上提供了理论上的线性可伸缩性.
+* [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) -ServiceComb Java Chassis是一个软件开发套件（SDK），用于在Java中快速开发微服务，提供服务注册，服务发现，动态路由和服务管理功能.
 
 ## Search Engines
 
@@ -269,7 +270,7 @@
 * [Vert.x Gentics Mesh Example](https://github.com/gentics/mesh-vertx-example) -有关如何使用Gentics Mesh和车把构建基于模板的Web服务器的示例.
 * [HTTP/2 showcase](https://github.com/aesteve/http2-showcase) -一个简单的演示，展示了当涉及大量延迟时HTTP / 2如何极大地改善用户体验.
 * [Vert.x Music Store](https://github.com/tsegismont/vertx-musicstore) -有关如何使用RxJava构建Vert.x应用程序的示例应用程序.
-* [Crabzilla](https://github.com/crabzilla/crabzilla)  -另一个事件搜寻实验.  探索Vert.x的项目，以开发事件源/ CQRS应用程序.
+* [Crabzilla](https://github.com/crabzilla/crabzilla)  -另一个事件搜寻实验.  一个探索Vert.x的项目，以开发Event Sourcing / CQRS应用程序.
 * [Vert.x PostgreSQL Starter](https://github.com/BillyYccc/vertx-postgresql-starter) -使用Vert.x堆栈和PostgreSQL构建整体CRUD RESTful Web服务的入门者.
 * [Cloud Foundry](https://github.com/amdelamar/vertx-cloudfoundry) -示例Vert.x，用于部署到 [Cloud Foundry](https://www.cloudfoundry.org/) 服务提供者.
 * [Knative](https://github.com/knative/docs/tree/master/serving/samples/helloworld-vertx) -有关如何使用的示例应用程序 [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) 与 [Knative](https://github.com/knative).

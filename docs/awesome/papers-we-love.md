@@ -4,15 +4,15 @@
  
  [![Gitter](https://badges.gitter.im/papers-we-love/community.svg)](https://gitter.im/papers-we-love/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
- **我们喜欢的论文**（* PWL *）是一个围绕阅读，讨论和学习更多关于学术计算机科学论文的社区.  该存储库充当社区可以找到的一些最佳论文的目录，将分散在Web上的文档汇集在一起​​.  你也可以访问 [Papers We Love site](http://paperswelove.org/) 了解更多信息.
+ **我们喜欢的纸张**（* PWL *）是一个围绕阅读，讨论和学习更多有关计算机科学论文的社区.  该存储库充当社区可以找到的一些最佳论文的目录，将散布在网络上的文档汇集在一起​​.  您也可以访问 [Papers We Love site](http://paperswelove.org/) 有关更多信息.
 
-由于 [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) 我们不能总是自己托管论文（当我们这样做时，你会看到：在目录README中它的标题旁边有一个：scroll：emoji）但我们可以提供指向它们位置的链接.
+由于 [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) 我们不能总是自己托管论文（这样做时，您会在自述目录中的标题旁边看到一个：scroll：表情符号），但是我们可以提供指向其位置的链接.
 
- 如果您喜欢这些论文，可能会在本地分会聚会上停下来，加入围绕他们的充满活力的讨论.  您还可以在我们的讨论中讨论* PWL *事件，此存储库中的内容和/或与* PWL *相关的​​任何内容 [Slack](https://paperswelove.slack.com/messages/general/)之后 [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
+ 如果您喜欢这些论文，也许可以停下来参加当地分会，然后参加围绕它们的热烈讨论.  您也可以在我们的网站上讨论* PWL *事件，此存储库中的内容和/或与* PWL *相关的​​任何内容 [Slack](https://paperswelove.slack.com/messages/general/)，之后 [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
 
 ### Chapters
 
- 这是我们的官方章节.  如果您对此感兴趣，请告诉我们 [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 在你的城市！
+ 这是我们的官方章节.  让我们知道您是否有兴趣 [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 在你的城市！
 
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Athens](https://www.meetup.com/Papers-We-Love-Athens)
@@ -27,6 +27,7 @@
 * [Brasilia](http://www.meetup.com/papers-we-love-bsb)
 * [Boulder](http://www.meetup.com/Papers-We-Love-Boulder/)
 * [Bucharest](http://www.meetup.com/papers-we-love-bucharest/)
+* [Buenos Aires](https://paperswelove.org/buenos-aires/)
 * [Cairo](http://www.meetup.com/Papers-We-Love-Cairo/)
 * [Chattanooga](http://www.meetup.com/Papers-We-Love-Chattanooga/)
 * [Chicago](http://www.meetup.com/papers-we-love-chicago/)
@@ -70,15 +71,15 @@
 * [Winnipeg](http://pwlwpg.ca/)
 * [Zürich](https://www.meetup.com/Papers-we-love-Zurich/)
 
-我们所有的聚会都跟着我们 [Code of Conduct](https://github.com/papers-we-love/papers-we-love/blob/master/CODE_OF_CONDUCT.md).
+我们所有的聚会都遵循我们 [Code of Conduct](https://github.com/papers-we-love/papers-we-love/blob/master/CODE_OF_CONDUCT.md).
 
 ### Past Presentations
 
-看看我们 [YouTube](https://www.youtube.com/user/PapersWeLove) 和 [MixCloud](https://www.mixcloud.com/paperswelove/) （纯音频格式）频道.
+看看我们 [YouTube](https://www.youtube.com/user/PapersWeLove) 和 [MixCloud](https://www.mixcloud.com/paperswelove/) （仅音频格式）通道.
 
 ## Info
 
-我们正在寻找与我们应该添加的论文相关的拉取请求，更好地组织我们所拥有的论文，和/或我们应该指向的其他纸质回购链接.
+我们正在寻找与应添加的论文相关的请求请求，可以更好地组织我们拥有的论文，和/或指向我们应指向的其他论文库的链接.
 
 ### Other Good Places to Find Papers
 
@@ -104,11 +105,11 @@
 * [Lobste.rs tagged as PDF](https://lobste.rs/t/pdf)
 * [The Morning Paper](http://blog.acolyer.org/)
 
-请查看我们 [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) 链接到博客，书籍，交流，值得一读.
+请检查我们 [wiki-page](https://github.com/papers-we-love/papers-we-love/wiki/Other-Good-Sources-of-Reading-Material) 指向值得一读的博客，书籍，交流的链接.
 
 ### How To Read a Paper
 
- 阅读论文与阅读博客或小说不同.  这里有一些方便的资源可以帮助您入门.
+ 阅读论文与阅读博客或小说并不相同.  这里有一些方便的资源可以帮助您入门.
 
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
@@ -118,7 +119,7 @@
  
 ### Applications/Ideas built around Papers We Love
 
-*喜欢纸 -  [@loveapaper](https://twitter.com/loveapaper)
+*爱论文- [@loveapaper](https://twitter.com/loveapaper)
 
 ## Contributing Guidelines
 
@@ -126,4 +127,4 @@
 
 ## Copyright
 
- “Papers We Love”这个名称以及该组织的徽标受版权保护，并且归Papers We Love Ltd所有，保留所有权利.  在开始章节时，请查看 [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 并询问我们使用该徽标.
+ “我们爱的纸”的名称和该组织的徽标均受版权保护，并由“我们爱纸”有限公司所有，并保留所有权利.  开始章节时，请复习 [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 并询问我们有关徽标的使用.

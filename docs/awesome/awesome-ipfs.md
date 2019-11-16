@@ -67,6 +67,7 @@
 - [ipfs.pics](https://github.com/ipfspics/ipfspics-server) -上传和分享图片.
 - [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) -Pastebin克隆版本.
 - [IpJot](https://ipjot.herokuapp.com/) -在IPFS上创建简短的笔记，故事，书籍，诗歌，对话.
+- [IPSE](https://www.ipse.io/) -IPFS网络的搜索引擎.
 - [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -Dolphin File Manager的服务菜单，用于将文件上传到IPFS用于交易请求的开放网络.
 - [killcord](https://killcord.io/) -防审查的死人开关 [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) -基于Pandoc的标记编辑器/预览器/转换器，已移植到IPFS. [Source](https://github.com/davidar/markup.rocks)

@@ -34,14 +34,14 @@
 - [Every Circuit](http://everycircuit.com) -免费试用在线，可视，交互式电路模拟器，以简化电路.
 - [Qucs](http://qucs.sourceforge.net/) -用于DC，AC，S参数，噪声分析等的开源集成电路模拟器
 - [iCircuit](http://icircuitapp.com/) -易于使用的电子电路模拟器，其先进的模拟引擎可以处理模拟和数字电路，并具有实时始终在线分析功能.
-
+  
 ## Gerber Viewers
 
 ### Online
 - [Tracespace Viewer](http://viewer.tracespace.io) -Gerber查看器，可让您检查各个图层以及板预览.
 - [Gerblook](http://gerblook.org/) -由Gerbv支持的在线Gerber查看器.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) -3D Gerber查看器.
-- [CircuitPeople](https://circuitpeople.com) -Gerbers的2D图层查看器没有多余的装饰，无需过多处理.
+- [CircuitPeople](https://circuitpeople.com) -Gerbers的2D图层查看器没有多余的装饰，没有过多的处理.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) -适用于Linux和BSD的出色Gerber查看器.
@@ -57,6 +57,7 @@
 - [DipTrace](https://diptrace.com) -具有免费版本的质量原理图捕获和PCB设计软​​件（受引脚和信号层限制）.
 - [LibrePCB](https://librepcb.org/) -针对所有人，跨平台和GNU GPLv3的新的，功能强大且直观的EDA工具.
 - [Horizon EDA](https://github.com/horizon-eda/horizon) -一个免费且开源的EDA工具，着重于快捷操作.
+- [Caneda](http://caneda.org/) -Caneda是专注于易用性和可移植性的开源EDA软件套件.
 
 ## CAD Specific
 

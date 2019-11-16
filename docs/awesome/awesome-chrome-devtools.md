@@ -23,7 +23,7 @@
 - [immutable-devtools](https://github.com/andrewdavey/immutable-devtools) -Immutable-js值的自定义格式化程序.
 
 ### Network Inspection
-- [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel.
+- [betwixt](https://github.com/kdzwinel/betwixt) -系统级网络代理，通过“网络”面板提供检查.
 - [Weer](https://weerdbg.com/) -HTTP协议调试器**（关闭源）**
 
 ### CPU profile
@@ -51,7 +51,7 @@
 - [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) -易于浏览的UI，用于浏览协议的域，方法和事件.
 
 ### Developing with the protocol
-- [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) -许多有用的食谱.
+- [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes.
 - [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) -使用devtools协议调试客户端的工具.
 - [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) -允许您一次将客户端连接到多个浏览器.
 - [DevTools Backend](https://github.com/christian-bromann/devtools-backend) -Chrome DevTools后端的独立实现，可调试任意网络环境.
@@ -143,9 +143,10 @@
 - [BEM devtools](https://github.com/escaton/bem-chrome-devtools) -检查以“ i-bem”框架表示的BEM实体.
 - [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) -检查金属组件层次结构.
 
-### UX
+### Themes
 - [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) -选择了一些主题来修改与创作Web应用程序有关的DevTools部分.
 - [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) -Chrome开发者工具的深色主题.
+- [Material UI Theme](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) -提供各种受材料设计启发的主题.
 
 ### Performance
 - [Chrome React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm) -react-addons-perf软件包的操作接口.

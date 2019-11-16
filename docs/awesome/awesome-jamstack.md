@@ -71,10 +71,10 @@
 - [Hexo](https://hexo.io) -由Node.js提供支持的快速，简单且功能强大的博客框架.
 - [Metalsmith](https://metalsmith.io) -非常简单，可插入的静态站点生成器.
 - [Phenomic](https://phenomic.io/) -模块化网站编译器.
-- [Gridsome](https://gridsome.org/) -Vue提供支持的静态站点生成器，用于为任何Headless CMS，API或Markdown文件构建CDN就绪的网站.
-- [Nuxt.js](https://nuxtjs.org/) -适用于服务器端渲染的静态和传统单页应用程序的基于vue的通用框架.
+- [Gridsome](https://gridsome.org/) -由Vue提供支持的静态网站生成器，用于为任何Headless CMS，API或Markdown文件构建可用于CDN的网站.
+- [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 - [eleventy](https://www.11ty.io/) -更简单的静态网站生成器，可将各种模板文件转换为HTML.
-- [Nift](https://nift.cc) -用C ++开发的跨平台开源网站生成器，快速，功能强大.
+- [Nift](https://nift.cc) -用C ++开发的跨平台开源网站生成器，速度快，功能强大.
 
 *有关更完整的列表，请参阅 [StaticGen](https://www.staticgen.com/).*
 
@@ -112,7 +112,7 @@
 - [Utterances](https://utteranc.es/)  -一个基于GitHub问题的轻量级注释小部件.  将GitHub问题用于博客评论，Wiki页面等.
 
 ### Forms
-
+- [Getform](https://getform.io)  -面向设计人员和开发人员的表单后端平台.  在几分钟之内为静态站点设置表单终结点，并通过Zapier集成和Webhooks支持扩展数据.
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) -通过在部署时直接解析HTML文件，在构建时进行内置表单处理.
 - [StaticKit](https://statickit.com) -静态网站的现代形式，带有用于React和HTML的客户端库.
 
@@ -129,13 +129,13 @@
 
 - [Algolia](https://www.algolia.com/) -建立企业搜索最可靠的平台.
 - [Lunr](https://lunrjs.com/) -搜索变得简单（在前端）.
-- [CloudSh](https://cloudsh.com/) - Powerful search with a few lines of JavaScript.
+- [CloudSh](https://cloudsh.com/) -使用几行JavaScript进行强大的搜索.
 
 ### Database
 
 - [GraphQL](https://graphql.org) -API的查询语言和用于使用现有数据完成这些查询的运行时.
 - [Graphcool](https://graph.cool) -开源和自托管后端即服务，用于开发无服务器的GraphQL后端.
-- [FaunaDB](https://fauna.com) -在云中或本地具有连接，索引和多区域ACID事务的关系NoSQL数据库.
+- [FaunaDB](https://fauna.com) -在云或内部部署中具有连接，索引和多区域ACID事务的关系NoSQL数据库.
 
 ### Automation
 
@@ -161,7 +161,7 @@
   - [BigQuery](https://cloud.google.com/bigquery/) -无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) -无服务器的机器学习服务，可在自定义Google硬件（张量处理单元）上自动扩展.
 - [Serverless](https://serverless.com/) -用于部署和操作无服务器架构的工具包.
-- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，从而轻松管理媒体，CDN，存储，转换等.
+- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，以简化管理媒体，CDN，存储，转换等的工作.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 

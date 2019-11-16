@@ -4,13 +4,13 @@
 
 &gt;精选的出色视觉回归测试资源列表.
 
- 回归测试是一种软件测试，它可以验证先前开发和测试的软件在更改或与其他软件连接后仍以相同的方式运行.  回归测试的目的是确保对软件的更改不会引入新的错误.
+ 回归测试是一种软件测试，它可以验证先前开发和测试的软件在更改或与其他软件连接后是否仍以相同的方式运行.  回归测试的目的是确保对软件的更改不会引入新的错误.
 
 ## Foreword
 
  这是关于视觉回归测试的资源的“不完整”列表.  它不是针对特定领域或角色（Developer / QA / UX-Designer）量身定制的.  请注意，这是在*编写有问题的代码之后*进行的所有回归软件测试领域.  有关常规软件测试的出色列表，请参见例如 [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
- 最后，我确定阅读此列表的每个人都想添加一件事.  请阅读 [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md)  页面和**随时添加到列表中！**.  如果您认为这样做有帮助**请给星号★**.
+ 最后，我确定阅读此列表的每个人都想添加一件事.  请阅读 [How to Contribute](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CONTRIBUTING.md)  页面和**随时添加到列表中！**.  如果您认为这样做有帮助**请给星号★**.
 
 
 
@@ -138,11 +138,11 @@
 
 ### Contributing
 
-See the [Contribution Guide](https://github.com/mojoaxel/awesome-regression-testing/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
+See the [Contribution Guide](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CONTRIBUTING.md) 有关如何贡献的详细信息.
 
 ### Code of Conduct
 
-See the [Code of Conduct](https://github.com/mojoaxel/awesome-regression-testing/blob/master/CODE-OF-CONDUCT.md)  有关详细信息.  基本上可以归结为：
+See the [Code of Conduct](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CODE-OF-CONDUCT.md)  有关详细信息.  基本上可以归结为：
 &gt;为了营造开放和热情的环境，我们
 贡献者和维护者承诺参与我们的项目，
 我们的社区为每个人，不论年龄，身材，提供无骚扰的体验
