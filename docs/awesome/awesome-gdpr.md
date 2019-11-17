@@ -53,6 +53,7 @@
 * [CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) -有关了解和改善隐私和安全性可用性的研究.
 * [EPIC](https://epic.org/) -电子隐私信息中心.
 * [Future of Privacy Forum](https://fpf.org/) -促进隐私权领导和奖学金的催化剂，推进有原则的数据实践以支持新兴技术.
+* [W3C Privacy Interest Group](https://www.w3.org/Privacy/) -引导网络发挥其全部潜力.
   
 ## Solutions providers
 * [OneTrust](https://www.onetrust.com/)

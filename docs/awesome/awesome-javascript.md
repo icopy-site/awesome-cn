@@ -403,7 +403,7 @@
 * [contra](https://github.com/bevacqua/contra/) -具有功能趣味的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) -功能齐全的承诺库，侧重于创新功能和性能.
 * [when](https://github.com/cujojs/when) -可靠，快速的Promises / A +和when（）实现，以及其他异步工具.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个为事件侦听器添加支持的原型（浏览器上提供的DOMElements具有与EventTarget相同的行为）.
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个为事件侦听器添加支持的原型（与浏览器上可用的DOMElements中的EventTarget行为相同）.
 * [sporadic](https://github.com/marcoonroad/sporadic) -在Promise之上，针对Node和浏览器引擎的可组合并发抽象（例如流，协程和类似Go的通道）.
 
 
@@ -452,7 +452,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的自以为是的REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 
 ## Streaming
@@ -570,7 +570,7 @@
 * [impress.js](https://github.com/impress/impress.js) -这是一个基于CSS3转换和转换功能的演示框架，其灵感来自于prezi.com背后的思想.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -DIY演示微框架
 * [Strut](https://github.com/tantaman/Strut) -Strut-Impress.js和Bespoke.js演示文稿编辑器
-* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) -适用于移动设备和台式机的JavaScript图片库，模块化，独立于框架.
+* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) -适用于移动和台式机的JavaScript图像库，模块化，框架独立.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) -带有CSS动画的自适应滑块jQuery插件.
 * [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) -使用简单，主题简单，易于定制.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) -带有自适应彩色figcaption和导航的滑块的jQuery插件.
@@ -852,6 +852,7 @@ http://www.listjs.com
 * [SJSJ](https://github.com/HugoGiraudel/SJSJ) -简化的JavaScript行话是一种由社区驱动的尝试，目的是用几个简单的词来解释使当前JavaScript生态系统流行的流行语.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) -通过一系列步骤发布JavaScript开源库的综合指南.
 * [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) -从各种各样的用户排名在线教程中在线学习Javascript.
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) -JavaScript中实用，平衡的FP.
 
 
 ## Other Awesome Lists

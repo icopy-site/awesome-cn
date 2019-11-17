@@ -6,7 +6,7 @@
 
 &gt;精选的KDE桌面环境应用程序，扩展，模块，主题和工具列表.
 
-[KDE](https://kde.org/) 是一个免费软件社区，致力于创造开放和用户友好的计算体验，它提供高级图形桌面，用于通讯，工作，教育和娱乐的各种应用程序，以及可轻松构建新应用程序的平台.
+[KDE](https://kde.org/) 是一个免费软件社区，致力于创建开放和用户友好的计算体验，它提供高级图形桌面，用于通讯，工作，教育和娱乐的各种应用程序以及可轻松构建新应用程序的平台.
 
 &gt;带有（推针）标记的项目是在KDE自己的基础结构上托管的项目，由KDE社区开发.
 
@@ -83,6 +83,7 @@
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) -具有简约UI的可靠MTP客户端.
 - [RSIBreak](https://userbase.kde.org/RSIBreak) -RSIBreak可用于提醒您不时休息.
 - [KRename](https://userbase.kde.org/KRename) -重命名多个文件的实用程序.
+- [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) -尝试减少在KDE中使用的流行KWin合成器中的延迟和卡顿现象.
 
 ### Development & Programming
 
@@ -152,7 +153,7 @@
 
 ## Communities
 
-- [Kreddit](https://www.reddit.com/r/kde/) Reddit上的KDE社区.
+- [Kreddit](https://www.reddit.com/r/kde/) Reddit上的KDE社区
 - [KDE Store](https://store.kde.org/) -官方的KDE商店，供开发人员共享Plasma定制.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) -用`kde`标记的问题.
 

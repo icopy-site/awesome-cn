@@ -111,7 +111,7 @@ _附加组件是易于安装的服务，可扩展功能
 - [Samba](https://www.home-assistant.io/addons/samba/) -使用Windows网络共享访问您的配置文件.
 - [NGINX SSL proxy](https://www.home-assistant.io/addons/nginx_proxy/) -具有SSL终止的反向代理.
 - [deCONZ](https://github.com/home-assistant/hassio-addons/tree/master/deconz) -使用Dresden Elektronik的ConBee或RaspBee硬件控制ZigBee网络.
-- [TellStick](https://github.com/home-assistant/hassio-addons/tree/master/tellstick) - Run a TellStick and TellStick Duo service.
+- [TellStick](https://github.com/home-assistant/hassio-addons/tree/master/tellstick) -运行TellStick和TellStick Duo服务.
 
 ### Third Party Add-ons
 
@@ -154,7 +154,7 @@ _Home Assistant前端已经很漂亮了，但是您可以对其进行自定义
 适合您的需求或更好地品尝.
 
 - [Lovelace UI Documentation](https://www.home-assistant.io/lovelace) -官方文件.
--  [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) -DrZzs对Lovelace UI的精彩介绍.
+-  [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) - Great introduction to Lovelace UI by DrZzs.
 - [Plan Coordinates](https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates) -有助于查找“图片元素”卡的左值和上值.
 - [Share the Love](https://sharethelove.io) -Lovelace的自定义卡演示和配置示例.
 -  [How to set up Lovelace](https://www.youtube.com/watch?v=n5xMtONydEo) -JuanMTech为初学者提供的优秀分步视频.
@@ -209,7 +209,7 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [Simple Weather Card](https://github.com/kalkih/simple-weather-card) -简约的气象卡，灵感来自Google Material Design.
 - [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) -通过平面图与您的实体进行交互.
 - [Home Card](https://github.com/postlund/home-card) -快速浏览您的房屋状况.
-- [Banner Card](https://github.com/nervetattoo/banner-card) -蓬松的可链接横幅，带有交互式的外观，可为您的家庭仪表板增添色彩.
+- [Banner Card](https://github.com/nervetattoo/banner-card) - A fluffy linkable banner with interactive glances to spice up your home dashboards.
 - [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -通过Plex，Kodi，Radarr，Sonarr和Trakt等服务显示即将来临的剧集和电影.
 - [Spotify Card](https://github.com/custom-cards/spotify-card) -在Spotify上列出并从当前可用的设备和用户中选择播放列表.
 - [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) -显示电池实体的电池电量.
@@ -230,11 +230,11 @@ _由社区创建的Home Assistant的其他组件.
 - [Hue Sensors](https://github.com/robmarkcole/Hue-sensors-HASS) -允许使用Philips Hue传感器.
 - [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) -将设备跟踪器的位置转换为人类可读的地址.
 - [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) -集成了路创Caseta Smart Bridge PRO / RA2 Select.
-- [SmartIR](https://github.com/smartHomeHub/SmartIR) - Integrates devices using Broadlink IR.
+- [SmartIR](https://github.com/smartHomeHub/SmartIR) -使用Broadlink IR集成设备.
 - [Xiaomi Hygrothermo](https://github.com/dolezsa/Xiaomi_Hygrothermo) -小米Mijia BT Hygrothermo温湿度传感器的传感器平台.
 - [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) -集成大众汽车通行证（需要有效的通行证订阅）.
 - [Untappd](https://github.com/custom-components/sensor.untapped) -与您的Untappd帐户关联.
-- [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch.
+- [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) -将事件发布到Elasticsearch.
 - [Sonoff/eWeLink](https://github.com/peterbuga/HASS-sonoff-ewelink) -使用库存固件控制Sonoff / eWeLink智能设备.
 - [Alexa Media Player](https://github.com/keatontaylor/alexa_media_player) -允许控制Amazon Alexa设备.
 - [iCloud3](https://github.com/gcobb321/icloud3) -具有许多功能的iCloud设备跟踪器组件的改进版本.
@@ -254,7 +254,7 @@ _由社区创建的Home Assistant的其他组件.
 
 ### DIY Gateways
 
-- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) -用于IR，RF，BLE，MiFlora，SMS和许多传感器的灵活MQTT网关.
+- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors.
 - [esp8266 Milight Hub](https://github.com/sidoh/esp8266_milight_hub) -使用MQTT的Milight / LimitlessLED设备的备用集线器.
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) -Zigbee到MQTT桥，摆脱您专有的Zigbee桥.
 

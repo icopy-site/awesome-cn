@@ -43,7 +43,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
     - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) -重播Apache日志.
 - [Concurrent, High Throughput Performance Testing with JMeter](https://planet.jboss.org/post/concurrent_high_throughput_performance_testing_with_jmeter)
 - [Functional Testing with JMeter](https://hub.packtpub.com/functional-testing-jmeter/)
-- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter) @ InfoSec学院
+- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter) @ InfoSec Institute
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) @教程点
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
@@ -62,7 +62,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 ## Scripting
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
-- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
+- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) -使用JMeter和Groovy进行负载测试.
 - [JMeter: forget about BeanShell Sampler](https://habr.com/ru/post/250731/) *（俄语）*
 
 ## Automation
@@ -84,12 +84,12 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 
 ### Tools & Plugins
 
-- [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/) -Ant任务可自动运行JMeter测试计划.
+- [JMeter Ant Task](https://github.com/jfifield/ant-jmeter) -Ant任务可自动运行JMeter测试计划.
 - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) -Maven插件，可以在构建过程中运行JMeter测试.
-- [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) -Jenkins插件可捕获来自JMeter的报告，并生成具有性能和鲁棒性趋势报告的图形图表.
-- [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin)
+- [Jenkins Performance Plugin](https://wiki.jenkins.io/display/JENKINS/Performance+Plugin) -Jenkins插件可捕获来自JMeter的报告，并生成具有性能和鲁棒性趋势报告的图形图表.
+- [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) -TeamCity插件可以在CI中组织最简单的性能测试*（没有更多更新）*.
 -Bamboo JMeter聚合器插件： [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) -Bamboo插件，用于收集，声明和绘制JMeter测试结果.
-- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter)  -收集JMeter性能测试结果并显示在Sonar仪表板中的插件.  *（已弃用）*
+- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) -收集JMeter性能测试结果并显示在Sonar仪表板*（已弃用）*中的插件.
 - [Lightning](http://automatictester.github.io/lightning/) -将JMeter非功能测试与CI / CD服务器集成的框架.
 - [Taurus](https://gettaurus.org/) -自动化友好的连续测试框架.
 
@@ -313,7 +313,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 
 - [JMeter @ Stack Overflow](http://stackoverflow.com/questions/tagged/jmeter)
 - [Skype chat of JMeter enthusiasts](http://is.gd/jmeterchat) *（俄语）*
--JMeter @网格： [![Have questions\issues\problems, join the chat at https://gitter.im/aliesbelik/jmeter-chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aliesbelik/jmeter-chat)
+- [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
 - [JMeter Slack workspace](http://jmeterusers.slack.com/)
 
 ## Related

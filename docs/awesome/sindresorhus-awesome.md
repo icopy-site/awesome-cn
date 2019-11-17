@@ -91,7 +91,7 @@
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) -开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) -建立在Google Cloud Platform上的应用程式开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) -一组软件库和工具，可帮助您构建机器人应用程序.
-- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) -可视化并存储来自任何设备的数据.
+- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) -您的站点的CDN，DNS，DDoS保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) -Google Assistant开发者平台.
 
@@ -122,6 +122,7 @@
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) -音频/音乐科学研究.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) -用于微控制器的Python版本.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) -数据分析和机器学习.
+	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) -Python的可选静态类型.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
@@ -309,6 +310,7 @@
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) -用于大规模数据处理的统一引擎.
+- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) -用于数据可视化，分析和报告应用程序的商业智能平台.
 
 
 ## Theory
@@ -528,6 +530,7 @@
 ## Higher Education
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) -使用计算方法研究神经系统的多学科科学.
+- [Digital History](https://github.com/maehr/awesome-digital-history#readme) -历史的计算机辅助科学研究.
 
 
 ## Miscellaneous
@@ -592,7 +595,7 @@
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) -增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) -基于Python的配置管理系统.
@@ -605,6 +608,7 @@
 - [Framer](https://github.com/podo/awesome-framer#readme) -交互式UI设计原型.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - 标记语言.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) -有趣的开发人员项目.
+- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) -意大利的技术相关活动.
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) -荷兰的技术相关活动.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) -适用于设施，提供商，开发商，政策专家和研究人员的开源医疗软件.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) -使用PHP构建的开源电子商务.
@@ -654,10 +658,3 @@
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
 - [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Sindre Sorhus](https://sindresorhus.com) 放弃了此作品的所有版权以及相关或邻近的权利.
