@@ -141,7 +141,7 @@ _任何人都可以创建一个附件，以下是由社区创建的._
 - [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) -将快照备份到Google云端硬盘.
 - [ADB](https://github.com/hassio-addons/addon-adb) -Android调试桥服务器程序.
 - [Glances](https://github.com/hassio-addons/addon-glances) -用Python编写的跨平台系统监视工具.
-- [Matrix](https://github.com/hassio-addons/addon-matrix) -安全，分散的通讯平台.
+- [Matrix](https://github.com/hassio-addons/addon-matrix) - A secure and decentralized communication platform.
 - [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) -具有家长控制功能的全网络广告和跟踪器阻止DNS服务器.
 - [Traccar](https://github.com/hassio-addons/addon-traccar) -Traccar是现代的GPS跟踪平台.
 - [Home Panel](https://github.com/hassio-addons/addon-home-panel) -触摸兼容的Web前端，用于控制房屋.
@@ -154,7 +154,7 @@ _Home Assistant前端已经很漂亮了，但是您可以对其进行自定义
 适合您的需求或更好地品尝.
 
 - [Lovelace UI Documentation](https://www.home-assistant.io/lovelace) -官方文件.
--  [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) - Great introduction to Lovelace UI by DrZzs.
+-  [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) -DrZzs对Lovelace UI的精彩介绍.
 - [Plan Coordinates](https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates) -有助于查找“图片元素”卡的左值和上值.
 - [Share the Love](https://sharethelove.io) -Lovelace的自定义卡演示和配置示例.
 -  [How to set up Lovelace](https://www.youtube.com/watch?v=n5xMtONydEo) -JuanMTech为初学者提供的优秀分步视频.
@@ -299,6 +299,7 @@ _坐下来，放松，观看和学习.
 - [vCloudInfo](https://www.youtube.com/vCloudInfo) -根据他的家和GitHub存储库发布视频.
 - [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) -有关硬件项目和Tasmota自动化的教程.
 - [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) -教程和评论：相机，家庭网络，ESP8266开发板，Node-RED.
+- [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g) -教程和3D打印.
 
 ### Podcasts
 

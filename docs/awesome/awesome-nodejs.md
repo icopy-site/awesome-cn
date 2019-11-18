@@ -262,7 +262,7 @@
 - [marko](https://github.com/marko-js/marko) -基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流，异步渲染和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) -具有继承，异步控制等功能的模板引擎（受Jinja2启发）.
 - [handlebars.js](https://github.com/wycats/handlebars.js) -胡子模板的超集，它添加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) -简单的非模板化语言.
+- [EJS](https://github.com/mde/ejs) -简单的简单的模板语言.
 - [Pug](https://github.com/pugjs/pug) -受Haml影响的高性能模板引擎.
 
 
@@ -280,7 +280,7 @@
 - [Next.js](https://github.com/zeit/next.js) -服务器呈现的通用JavaScript Web应用程序的简约框架.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) -服务器呈现的Vue.js应用程序的简约框架.
 - [seneca](https://github.com/senecajs/seneca) -编写微服务的工具包.
-- [AdonisJs](http://adonisjs.com) -基于Dependency Injection和IoC容器的坚实基础的Node.js的真正MVC框架.
+- [AdonisJs](http://adonisjs.com) -用于Node.js的真正MVC框架，该框架建立在依赖注入和IoC容器的坚实基础上.
 - [Hemera](https://github.com/hemerajs/hemera) -使用编写可靠且容错的微服务 [NATS](https://nats.io).
 - [Micro](https://github.com/zeit/micro) -带有异步方法的简约微服务框架.
 - [Moleculer](https://moleculer.services) -快速而强大的微服务框架.
@@ -606,7 +606,6 @@
 
 - [Passport](https://github.com/jaredhanson/passport) -简单，轻松的身份验证.
 - [Grant](https://github.com/simov/grant) -适用于Express，Koa和Hapi的OAuth中间件.
-- [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) -用于社交身份验证的统一API（Facebook，Twitter，Slack，Instagram等）.
 
 
 ### Authorization
