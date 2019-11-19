@@ -118,7 +118,7 @@
 * [spine](https://github.com/spine/spine) -用于构建JavaScript应用程序的轻量级MVC库.
 * [espresso.js](https://github.com/techlayer/espresso.js) -用于制作用户界面的最小JavaScript库.
 * [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
-* [react](https://facebook.github.io/react/)  -用于构建用户界面的库.  它具有声明性，高效且极为灵活.  与虚拟DOM一起使用.
+* [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 * [hyperapp](https://github.com/hyperapp/hyperapp) -用于构建前端应用程序的1kb JavaScript库.
 * [preact](https://github.com/developit/preact)  -使用相同的ES6 API的快速3kb React替代方案.  组件和虚拟DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) -使用JavaScript构建真正的本机跨平台iOS和Android应用程序.
@@ -143,7 +143,7 @@
 
 * [KeystoneJS](https://github.com/keystonejs/keystone) -强大的CMS和Web应用程序框架.
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) -反应式CMS，实时架构和设计.
-* [Ghost](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
+* [Ghost](https://github.com/tryghost/Ghost) -简单，强大的发布平台.
 * [We.js](https://github.com/wejs/we/) -实时应用，网站或博客的框架.
 * [Hatch.js](https://github.com/inventures/hatchjs) -具有社交功能的CMS平台.
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) -基于Node.js的快速，简约的CMS.
@@ -164,7 +164,7 @@
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) -压缩了约400字节的微型JavaScript模板框架.
 * [Pug](https://github.com/pugjs/pug)  -强大，优雅，功能丰富的Node.js模板引擎.  （原名翡翠）
-* [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
+* [EJS](https://github.com/mde/ejs) -有效的JavaScript模板.
 * [xtemplate](https://github.com/xtemplate/xtemplate) -用于节点和浏览器的可扩展模板引擎库
 * [marko](https://github.com/marko-js/marko) -用于Node.js和浏览器的快速，轻量，基于HTML的模板引擎，具有异步，流式传输，自定义标签和CommonJS模块作为已编译输出.
 * [swig](http://paularmstrong.github.io/swig/) -一个简单，功能强大且可扩展的Node.js和基于浏览器的JavaScript模板引擎.
@@ -296,7 +296,7 @@
 
 
 ## Reactive Programming
-*反应性编程库可扩展JavaScript的功能.*
+*Reactive programming libraries to extend JavaScript’s capabilities.*
 
 * [RxJS](https://github.com/ReactiveX/rxjs) -JavaScript的反应式编程库.
 * [Bacon](https://github.com/baconjs/bacon.js) -JavaScript的FRP（功能性反应式编程）库.
@@ -543,6 +543,7 @@
 * [hopscotch](https://github.com/linkedin/hopscotch) -一个框架，使开发人员可以轻松地向其页面添加产品浏览.
 * [joyride](https://github.com/zurb/joyride) -jQuery功能导览插件.
 * [focusable](https://github.com/zzarcon/focusable) -将焦点放在DOM元素上，向页面的其余部分添加一个覆盖层.
+* [driver.js](https://github.com/kamranahmedse/driver.js) -强大而轻巧的原始JavaScript引擎，可在页面上吸引用户的注意力
 
 ## Notifications
 

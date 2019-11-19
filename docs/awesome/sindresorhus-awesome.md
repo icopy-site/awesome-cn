@@ -61,6 +61,7 @@
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) -虚拟机，可让您编写更有效，更强大的Linux系统跟踪和监视.
+	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) -基于Arch Linux的Linux发行版和项目.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme) -适用于Apple Mac电脑的操作系统.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
@@ -595,7 +596,7 @@
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) -增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) -基于Python的配置管理系统.

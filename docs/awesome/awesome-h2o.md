@@ -4,7 +4,7 @@
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://raw.githubusercontent.com/h2oai/h2o-3)
 
-以下是精选的所有出色项目，应用程序，研究，教程，课程和书籍的清单 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供了许多有监督和无监督机器学习算法的并行实现，例如通用线性模型，梯度提升机（包括XGBoost），随机森林，深度神经网络（深度学习），堆叠式集成，朴素贝叶斯，Cox比例风险，K均值，PCA，Word2Vec以及全自动机器学习算法（AutoML）.
+以下是精选的所有出色的项目，应用程序，研究，教程，课程和书籍的清单 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供了许多有监督和无监督机器学习算法的并行实现，例如通用线性模型，梯度提升机（包括XGBoost），随机森林，深度神经网络（深度学习），堆叠式集成，朴素贝叶斯，考克斯比例风险，K均值，PCA，Word2Vec以及全自动机器学习算法（AutoML）.
 
 [H2O.ai](http://www.h2o.ai/about/) 产生很多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) 和 [videos](https://www.youtube.com/user/0xdata) 有关H2O的内容，但以下列表由更大的H2O用户社区产生的精彩内容组成.
 
@@ -14,6 +14,7 @@
 
 
 ## Blog Posts & Tutorials
+- [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) 2019年12月10日
 - [Anomaly Detection With Isolation Forests Using H2O](https://dzone.com/articles/anomaly-detection-with-isolation-forests-using-h2o-1) 2018年12月3日
 - [Predicting residential property prices in Bratislava using recipes - H2O Machine learning](https://www.michal-kapusta.com/post/2018-11-02-predicting-residential-property-prices-in-bratislava-using-recipes-h2o-machine-learning-part-ii/) 2018年11月25日
 - [Inspecting Decision Trees in H2O](https://dzone.com/articles/inspecting-decision-trees-in-h2o) 2018年11月7日
@@ -45,14 +46,14 @@
 
 ## Research Papers
 
-- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.biorxiv.org/content/10.1101/792754v1) 史蒂文·N·哈特（Steven N.Hart），埃里克·C·波利（Eric C.Polley），埃米拉·希梅利斯（Hermella Shimelis），悉达多·亚达夫（Siddhartha Yadav），弗格斯·J·库什（Fergus J.Couch）（2019年）
+- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.biorxiv.org/content/10.1101/792754v1) 史蒂文·N·哈特（Steven N.Hart），埃里克·C·波利（Eric C.Polley），埃米拉·希梅利斯（Hermella Shimelis），悉达多·亚达夫（Siddhartha Yadav），弗格斯·J·库什（Fergus J.
 - [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970)  费尔南多·伊塔诺（Fernando Itano），里卡多·皮雷斯（Ricardo Pires），米格尔·安吉洛·德·阿布鲁乌·德·索萨（Miguel Angelo de Abreu de Sousa），埃米利奥·德尔·莫拉·埃尔南德萨（Emilio Del-Moral-Hernandeza）.  （2019）
 - [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)   费尔南多·伊塔诺（Fernando Itano），米格尔·安杰洛·德·阿布鲁乌·德·索萨（Emirio Del-Moral-Hernandez）.  （2018）
 - [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B.Auffenberg，Khurshid R.Ghani，Shreyas Ramani，Etiowo Usoro，Brian Denton，Craig Rogers，Benjamin Stockton，David C.Miller，Karandeep Singh.  （2018）
 - [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato，Christophe Dutang和Leonardo Petrini.  （2018）
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940)  Yuriy Kochura，Sergii Stirenko，Yuri Gordienko.  （2017）
 - [Algorithmic trading using deep neural networks on high frequency data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14)  AndrésArévalo，JaimeNiño，德国人Hernandez，Javier Sandoval，DiegoLeón，ArbeyAragón.  （2017）
-- [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407)  雅各布·W·卡明加，海伦娜·C·比斯比，杜克·V·勒，涅rv乐队，保罗·J·哈马加.  （2017）
+- [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407)  雅各布·K·卡明加（Jacob W. Kamminga），海伦娜（Helena C.  （2017）
 - [Soil nutrient maps of Sub-Saharan Africa: assessment of soil nutrient content at 250 m spatial resolution using machine learning](https://link.springer.com/content/pdf/10.1007%2Fs10705-017-9870-x.pdf)  Tomislav Hengl，Johan GB Leenaars，Keith D.Shepherd，Markus G.Walsh，Gerard BM Heuvelink，Tekalign Mamo，Helina Tilahun，Ezra Berkhout，Matthew Cooper，Eric Fegraus，Ichsani Wheeler，Nketia A.Kwabena.  （2017）
 - [Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting](https://arxiv.org/pdf/1707.09021.pdf)  卡拉·鲁道夫，奥列格·索弗里金，郑文静和马克·范·德·兰.  （2017）
 - [Automated versus do-it-yourself methods for causal inference: Lessons learned from a data analysis competition](https://arxiv.org/abs/1707.02641)  Vincent Dorie，Jennifer Hill，Uri Shalit，Marc Scott和Dan Cervone.  （2017）
@@ -61,21 +62,21 @@
 - [Ultra-wideband antenna-induced error prediction using deep learning on channel response data](https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf)  Janis Tiemann，Johannes Pillmann，Christian Wietfeld.  （2017）
 - [Inferring passenger types from commuter eigentravel matrices](http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20)  埃里卡·菲尔（Erika Fille T.  （2017）
 - [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657)  克里斯托弗·克劳斯（Christopher Krauss），宣安·杜（Anna），尼古拉斯·赫克（Nicolas Huckb）.  （2016年）
-- [Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)  西尔维奥·多明戈斯（Silvio L.Domingos），隆美尔·卡瓦略（Ronmel N.Carvalho），里卡多·卡瓦略（Ricardo S.Carvalho），吉尔赫姆·拉莫斯（Guilherme N.  （2016年）
+- [Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)  西尔维奥·多明戈斯（Silvio L.Domingos），隆美尔·卡瓦略（Ronmel N.Carvalho），里卡多·卡瓦略（Ricardo S.  （2016年）
 - [Predicting recovery of credit operations on a Brazilian bank](http://ieeexplore.ieee.org/abstract/document/7838243/)  RogérioG. Lopes，Rommel N. Carvalho，Marcelo Ladeira，Ricardo S. Carvalho.  （2016年）
 - [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)  Ebberth L. Paula，Marcelo Ladeira，Rommel N. Carvalho，ThiagoMarzagão.  （2016年）
 - [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490)  Konstantinos N.Vougas，Thomas Jackson，Alexander Polyzos，Michael Liontos，Elizabeth O.Johnson，Vassilis Georgoulias，Paul Townsend，Jiri Bartek，Vassilis G.Gorgoulis.  （2016年）
 - [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)  斯特凡妮·佛罗伦萨·维瑟（StéphanieFlorence Visser）.  （2016）
 - [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)  斯坦尼斯瓦夫·格鲁什奇津斯克（KrzysztofUrbański）.  （2016）
 - [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf)  艾琳·莱戴尔（Erin LeDell）.  （2015年）
-- [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1)  罗杰欧·诺曼（Rogerio Normand），雨果·亚历山大·费雷拉（Hugo Alexandre Ferreira）.  （2015年）
-- [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis)  吉尔斯·卢佩  （2014）
+- [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1)  罗杰里奥·诺曼德（Rogerio Normand），雨果·亚历山大·费雷拉（Hugo Alexandre Ferreira）.  （2015年）
+- [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis)  吉尔斯·卢佩（Gilles Louppe）.  （2014）
 
 ## Benchmarks
 
 - [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/)  -分类编码方案的基准及其对基于树的模型的影响（Scikit学习与H2O）.  2016年10月28日
 - [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) -2016年3月7日，R开源深度学习软件包的基准测试
-- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml)  -通用开源ML框架中的随机森林，GBM，深度学习和GLM实施基准.  2015年7月3日
+- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml)  -通用开源ML框架中的Random Forest，GBM，深度学习和GLM实施基准.  2015年7月3日
 
 ## Presentations
 

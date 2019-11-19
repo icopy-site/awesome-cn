@@ -219,9 +219,10 @@
 - [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源事件管理器.  针对免费和开源软件会议量身定制的事件管理工具 </br>  看到 ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A)  _（标签：第一期好）_ <br>  一种通用系统，用于以自动，一致且可复制的方式从源构建和分发软件包. </br>  看到 ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly)  _（标签：初学者友好）_ <br>  Bolt是Ruby命令行工具，用于使用SSH和WinRM在远程系统上执行命令，脚本和任务.
-- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源客户支持平台，可以替代Intercom，Zendesk，Drift，Crisp等.
+- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue) _(label: good first issue)_ <br>Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
 - [mapknitter](https://github.com/publiclab/mapknitter/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  上传您自己的航拍图像，将其定位（橡胶板）在Web界面上的现有地图数据上，并通过Web或合成方式共享并导出以打印.
 - [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Ruby on Rails（Rails）是一个用Ruby编写的开源Web应用程序框架.
+- [Faker](https://github.com/faker-ruby/faker/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Faker是一个Ruby库，用于生成虚假数据，例如姓名，地址和电话号码.
 
 ## Rust
 
@@ -248,7 +249,7 @@
 
 ## Contribute
 
-Contributions are welcome! See the [contribution guidelines](https://github.com/MunGell/awesome-for-beginners/blob/master/CONTRIBUTING.md).
+ 欢迎捐款！  见 [contribution guidelines](https://github.com/MunGell/awesome-for-beginners/blob/master/CONTRIBUTING.md).
 
 ## License
 

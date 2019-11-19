@@ -65,6 +65,7 @@
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) -利用Tailwind CSS的配置来创建实用程序.
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
+- [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
 
 &gt;-_以下这些插件提供的功能已在最新的Tailwind CSS版本中完全或部分实现.
 
@@ -148,10 +149,10 @@
 -  [Laravel Dark Frontend Preset](https://github.com/Naoray/dark-tailwind-preset) -使用Laravel框架的Tailwind CSS的黑暗主题前端预设.
 -  [Laravel Boilerplate](https://github.com/hawezo/laravel-boilerplate) -使用Tailwind CSS，Inertia JS，TypeScript，Vue和字体结尾主题的Laravel样板.
 -  [Hugo Starter Theme Starter](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) -使用Tailwind CSS的Hugo主题入门.
--  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
--  [Tailwind Admin](https://github.com/tailwindadmin/admin) -具有Tailwind CSS的管理面板模板.
--  [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) -使用Tailwind CSS的Wordpress主题和PWA.
--  [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
+- 🎨 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
+- 🎨 [Tailwind Admin](https://github.com/tailwindadmin/admin) -具有Tailwind CSS的管理面板模板.
+- 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) -使用Tailwind CSS的Wordpress主题和PWA.
+- 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
 
  |  表情符号|  描述
 | ----- | ----------------------- |
@@ -210,8 +211,8 @@
 -  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
 -  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
 -  [Rebuilding Airbnb’s Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
-- 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
-- 🎥 [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
+-  [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
+-  [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 
  |  表情符号|  类型
 | ----- | -------------------------- |

@@ -76,10 +76,10 @@
 
 - [Remix](http://getremix.com/) -一个网络应用程序，可让运输公司轻松规划路线.
 - [AC Transit RestroomFinder](https://github.com/actransitorg/ACTransit.RestroomFinder) -使用GPS和屏幕上的地图，为公交运营商和现场工作人员确定最近的授权洗手间.
-- [AC Transit Training and Education Department (TED) application](https://github.com/actransitorg/ACTransit.Training) -尽管该系统支持新课程和学徒计划，但该应用程序支持学区对运输和维护员工的培训操作，主要是在公共汽车操作员和重型教练机修工（学徒和旅程）方面.
+- [AC Transit Training and Education Department (TED) application](https://github.com/actransitorg/ACTransit.Training) -尽管该系统支持新课程和学徒计划，但该应用程序支持学区对运输和维护员工的培训操作，主要是在公共汽车操作员和重型教练机修工（学徒和旅程）中担任.
 - [AC Transit Customer Relations application (CusRel)](https://github.com/actransitorg/ACTransit.CusRel) -用于客户问题和反馈的公交票务系统：部门间路由与通知，部门/人员分配，简单的工作流，票务搜索，预先罐装报告，每日提醒等.
 - [TransAM](http://camsys.software/products/transam)  -公共交通机构的开源资产管理平台.  开源 [on Github](https://github.com/camsys/transam_core).
-- [RidePilot](https://github.com/camsys/ridepilot) -开源的计算机辅助调度和调度（CASD）软件系统，可满足小型人力运输机构的需求（有关更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
+- [RidePilot](https://github.com/camsys/ridepilot) -开源的计算机辅助调度和调度（CASD）软件系统，可满足小型人力运输机构的需求（有关更多信息，请参见 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 - [TNExT](https://github.com/ODOT-PTS/TNExT) -公交网络浏览器工具（TNExT）是基于网络的软件工具，旨在对俄勒冈州的区域和州范围的公交网络进行可视化，分析和报告.
 -路线趋势（[webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)）-一个R Shiny应用程序，用于提取乘车时间序列，并根据以下信息返回季节，趋势和残差分量 [STL methodology](https://otexts.com/fpp2/stl.html)  以及包括这些成分的不确定性在内的预测.  由...赞助 [Metro Transit](https://www.metrotransit.org/) （明尼阿波利斯-圣保罗）.
 - [TBEST](https://tbest.org/)  -TBEST（过境登机估算和模拟工具）致力于开发基于GIS的多方面建模，规划和分析工具，该工具将社会经济，土地使用和过境网络数据集成到一个基于情景的过境旅客平台中估计和分析.  由佛罗里达州交通运输部资助.  免费使用，但不开源.
@@ -151,7 +151,7 @@
 
 ### GTFS
 
-- [GTFS Spec](https://developers.google.com/transit/gtfs/)  -通用公交数据Feed或GTFS的规范.  也可以在 [Español](https://developers.google.com/transit/gtfs/?hl=es), [Français](https://developers.google.com/transit/gtfs/?hl=fr).
+- [GTFS Spec](https://developers.google.com/transit/gtfs/)  -通用公交数据Feed或GTFS的规范.  也可用于 [Español](https://developers.google.com/transit/gtfs/?hl=es), [Français](https://developers.google.com/transit/gtfs/?hl=fr).
 - [GTFS Best Practices](http://gtfs.org/best-practices/) -GTFS Feed制作者的最佳做法.
 
 #### GTFS Libraries
@@ -196,7 +196,8 @@
 - [o2g](https://github.com/hiposfer/o2g) -从OpenStreetMap提取GTFS提要的简单工具.
 - [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) -尝试将GTFS stop_id分配给的Python应用程序 [TransLoc](http://transloc.com/) ID使用 [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) doesn't provide GTFS `stop_ids` in their API).
 - [Hafas2GTFS](https://github.com/geops/hafas2gtfs) -用Python编写的Hafas2GTFS转换器，已针对SBB HAFAS提要进行了优化.
-- [gtsf](https://github.com/r-gtfs/gtsf) - general transit (GTFS) simple (geographic) features (sf) in R. can be used to convert from GTFS to Shapefile, GeoJSON, and other formats through GDAL. 
+- [gtsf](https://github.com/r-gtfs/gtsf) - general transit (GTFS) simple (geographic) features (sf) in R. can be used to convert from GTFS to Shapefile, GeoJSON, and other formats through GDAL.
+- [transit_model](https://github.com/CanalTP/transit_model) -Rust库，可以将其转换为以下格式：GTFS，NTFS（有关Navitia，请参见 [Software for Creating APIs](#software-for-creating-apis)），TransXChange（）[UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)），KV1（[Netherland standard format](http://bison.connekt.nl/standaarden/)）或NeTEx（[European standard format](http://netex-cen.eu/)).
 
 #### GTFS Data Collection and Maintenance Tools
 
@@ -231,7 +232,7 @@
 
 #### GTFS Realtime
 
-- [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime) .  也可以在 [Español](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
+- [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime) .  也可用于 [Español](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
 - [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) -自动生成的GTFS实时文档，由官方生成 [GTFS-realtime protocol buffer specification](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) 并包括一些扩展.
 
 #### GTFS Realtime Libraries & Demo Apps
@@ -333,7 +334,7 @@
 
 - [Tang et al. - "Ridership effects of real-time bus information system: A case study in the City of Chicago"](https://www.sciencedirect.com/science/article/pii/S0968090X12000022) -在伊利诺伊州芝加哥市进行的实验表明，当骑手可以通过短信或电子邮件访问实时信息时，骑乘人数会适度增加.
 - [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf)  -论文试图回答“我们如何传达公交预测中的不确定性？”这一问题.  解释问题，现有解决方案并设计 [better interface for letting users know when to arrive at the bus stop](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
-- [Watkins et al. - "Where Is My Bus? Impact of mobile real-time information on the perceived and actual wait time of transit riders"](https://www.sciencedirect.com/science/article/pii/S0965856411001030) -西澳州西特尔（Seattl）的实验表明，当骑手可以通过移动应用访问实时信息时，他们会感觉到公交车的等待时间更短.
+- [Watkins et al. - "Where Is My Bus? Impact of mobile real-time information on the perceived and actual wait time of transit riders"](https://www.sciencedirect.com/science/article/pii/S0965856411001030) -西澳州西特尔（Seattl）的实验表明，当骑手能够通过移动应用访问实时信息时，他们会感觉到公交车的等待时间较短.
 - [Brakewood et al. - “An experiment evaluating the impacts of real-time transit information on bus riders in Tampa, Florida”](https://www.sciencedirect.com/science/article/pii/S0965856414002146)  -在佛罗里达州坦帕市进行的对照实验表明，与没有实时信息的骑手相比，能够通过移动应用访问实时信息的骑手的等待时间减少了近2分钟.  具有实时信息的骑手也减少了焦虑和沮丧，并更好地接受了代理.
 - [Brakewood et al. - "The impact of real-time information on bus ridership in New York City"](https://www.sciencedirect.com/science/article/pii/S0968090X15000297) -在纽约市进行的实验表明，向骑手提供实时信息后，长途骑行的人数增加了.
 
@@ -356,4 +357,4 @@
 
 最初由 [Luqmaan Dawoodjee](https://github.com/luqmaan)，现在由 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) 在 [University of South Florida](http://www.usf.edu/).
 
-该列表旨在作为社区资源，仅供参考，项目/产品的列表并不意味着认可.
+该列表仅用作社区资源，仅供参考；项目/产品的列表并不意味着认可.

@@ -33,9 +33,9 @@
 4. [Compilers](#Compilers)   
 	1. [Local](#Local)   
 	2. [Online](#Online)   
-5. [Edit](#Edit)   
-	1. [Integrated Development Editors](#Integrated-Development-Editor) 
-	3. [Text Modes](#Text-Modes)    
+5. [Editors](#Editors)   
+	1. [Integrated Development Editors](#Integrated-Development-Editor)   
+	2. [Text Modes](#Text-Modes)    
 6. [Deployment](#Deployment)   
 	1. [Build and Package](#Build-and-Package)   
 	2. [Continuous Integration](#Continuous-Integration)   
@@ -194,6 +194,12 @@
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) -TextAate对Ada的支持.
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) -BBEdit对Ada的支持.
 
+#### VSCode Extensions
+- [ada-language-server](https://github.com/AdaCore/ada_language_server) -Ada和SPARK的Microsoft语言协议的Adacore服务器实现.
+- [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) -Ada语言对VS Code的支持.
+- [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) -Ada和GPR的基本语法突出显示.
+- [ada-utilities](https://github.com/Lucretia/ada-utilities)-VSCode扩展Ada程序员，提供了一些实用程序功能.
+
 ## Deployment
 
 #### Build and Package
@@ -227,7 +233,7 @@
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) -在任何平台上的终端上运行的复古游戏.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) -MiniPac是Pacman的儿童友好型ASCII字符版本，可在命令行终端中播放.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) -这是一款以足球为主题的3D推箱子益智游戏，可在Windows，Mac OS-X和GNU Linux上运行.
-- [pasta](http://pasta.phyrama.com/)  - 意大利面条！  是“ match-3”类型的游戏.
+- [pasta](http://pasta.phyrama.com/)  - 意大利面！  是“ match-3”类型的游戏.
 - [buttons](https://github.com/andreacervetti/buttons) -一个简单的Gtkada Button Mania游戏.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) -地雷探测器：一种无需猜测的寻雷游戏.
 
@@ -280,7 +286,7 @@
 - [ahven](http://ahven.stronglytyped.org/) -Ahven是用于Ada编程的简单单元测试库和框架.
  语言.  它以JUnit和AUnit的一些想法为基础而松散地建模.
 - [aunit](http://libre.adacore.com/tools/aunit/) -有一个单元测试框架.
-- [testing](https://github.com/Entomy/Testing) -Ada单元测试和测量框架.
+- [testing](https://github.com/Entomy/Testing) - Ada unit testing and measuring framework.
 - [gnatbdd](https://github.com/briot/gnatbdd) -Ada中的行为驱动开发.
 
 #### Logging
@@ -372,12 +378,12 @@
 - [increment](https://github.com/reznikmm/increment) -在是中进行增量分析.
 - [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) -用Ada编写的词法分析器，它将代表Ada程序的字符流转换为特定于语言的标记流.
 - [parse-args](https://github.com/jhumphry/parse_args) -简单的命令行参数解析.
-- [aforth](https://github.com/samueltardieu/aforth) -用Ada编写的可嵌入Forth口译员.
+- [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 - [ada-toml](https://github.com/pmderodat/ada-toml) -Ada的TOML解析器.
 - [parser-tools](https://github.com/flyx/ParserTools) -在Ada中编写词法分析器的工具.
 
 #### Format Readers and Writers
-- [ini-file-manager](https://sourceforge.net/projects/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以读取和修改来自称为“ ini”文件的各种配置文件的信息.
+- [ini-file-manager](https://sourceforge.net/projects/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以读取和修改来自称为“ ini”文件的各种配置文件中的信息.
 - [ada-yaml](https://github.com/yaml/AdaYaml) -Ada中的实验性YAML 1.3实现.
 - [json-ada](https://github.com/onox/json-ada) -用于解析JSON的Ada 2012库.
 - [jwx](https://github.com/Componolit/jwx) -SPARK中经过正式验证的JSON库.
@@ -389,7 +395,7 @@
 - [zip-ada](http://unzip-ada.sourceforge.net/) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
 - [apdf](https://apdf.sourceforge.io/) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) -Ada条形码提供了一种软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（1D或2D，如QR码）.
+- [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维条形码，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理，最常见）的访问例程库.
 
@@ -401,7 +407,7 @@
 - [template-parser](https://github.com/AdaCore/templates-parser) -AWS模板引擎.
 
 #### Multimedia
-- [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
+- [opengl-ada](https://github.com/flyx/OpenGLAda) -适用于OpenGL和GLFW的厚Ada绑定.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) -在Ada中实现的声音合成器库.
 - [engine-3d](https://sourceforge.net/projects/engine-3d) -用于DOS-talgics的3D引擎.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
@@ -526,7 +532,7 @@
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) -CUDA / Ada是绑定到NVIDIA CUDA并行计算平台和编程模型的Ada.
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) -D_Bus / Ada库提供Ada绑定到D-Bus消息总线系统.
 - [opus-ada](https://github.com/onox/opus-ada) -Opus音频编解码器的Ada 2012绑定.
-- [opengl-ada](http://flyx.github.io/OpenGLAda/) - Thick Ada binding for OpenGL and GLFW.
+- [opengl-ada](http://flyx.github.io/OpenGLAda/) -适用于OpenGL和GLFW的厚Ada绑定.
 - [opencl-ada](http://flyx.github.io/OpenCLAda) -用于OpenCL主机API的Ada绑定.
 - [rclada](https://github.com/ada-ros/rclada) -用于ROS2 / RCL的Ada客户端库.
 - [ada-v4l2](https://github.com/frett27/AdaV4L2) -Ada Posix绑定到Video 4 Linux，用于RPI.
@@ -554,7 +560,7 @@
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) -与NanoVG绑定.
 - [free-type-ada](https://github.com/flyx/FreeTypeAda) -适用于Ada 2005的FreeType绑定.
 - [opencl-ada](https://github.com/flyx/OpenCLAda) -用于OpenCL主机API的Ada绑定.
-- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) - Ada bindings to the Lua language.
+- [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) -Ada与Lua语言的绑定.
 - [libsodium-ada](https://github.com/jrmarino/libsodium-ada) -安全的密码库（用于Ada的libsodium）.
 
 ## License

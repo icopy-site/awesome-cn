@@ -91,7 +91,7 @@ them.
 - [XDMF](http://www.xdmf.org/index.php/Main_Page) -可扩展的数据模型和格式，可在高性能计算代码和工具之间交换科学数据.
   （C ++， [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) -优质的四面体网格生成器和3D Delaunay三角剖分器.
-  (C++, AGPLv3)
+  （C ++，AGPLv3）
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) -二维质量网格生成器和Delaunay三角剖分器.
   （C，*非免费软件*）
 - [optimesh](https://github.com/nschloe/optimesh) -三角网格平滑.
@@ -137,9 +137,9 @@ them.
   （Python，麻省理工学院，GitHub）
 - [FiPy](https://www.ctcms.nist.gov/fipy/) -有限体积的PDF解算器.
   （Python，[自定义开源
-  许可]（https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software），
+  许可]（https://www.nist.gov/topics/data/public-access-nist-research/copyright-fair-use-and-licensing-statements-srd-data-and），
   [GitHub](https://github.com/usnistgov/fipy))
-- [accupy](https://github.com/nschloe/accupy) -适用于Python的精确求和和点积.
+- [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
   （Python，麻省理工学院，GitHub）
 - [SLEPc](http://slepc.upv.es) -特征值问题计算的可扩展库.
   （C，2句BSD， [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
@@ -151,13 +151,15 @@ them.
   （Python，Apache 2.0， [GitHub](https://github.com/cvxgrp/cvxpy))
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) -Python中的小波变换.
   （Python，麻省理工学院， [GitHub](https://github.com/PyWavelets/pywt))
+- [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) -非等距快速傅立叶变换.
+  （C / MATLAB，LPG 2， [GitHub](https://github.com/NFFT/nfft))
 
 
 ## Community
 
 - [SciComp StackExchange](https://scicomp.stackexchange.com/) -StackExchange网络上的计算科学.
 - [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) -MATH 676：科学计算中的有限元方法.
-- [Nick Higham's blog](https://nickhigham.wordpress.com/) -通常在MATLAB上提供一般计算建议.
+- [Nick Higham's blog](https://nhigham.com/) -通常在MATLAB上提供一般计算建议.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) -关于逼近理论/实践和科学计算的36个视频讲座.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) -科学计算的壮举.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) -解决线性代数问题的免费软件列表.
