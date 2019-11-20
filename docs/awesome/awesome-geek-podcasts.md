@@ -18,16 +18,15 @@
 
 ## In English
 
-* [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的互联网音频脱口秀节目.
+* [.NET Rocks!](https://www.dotnetrocks.com/) -与.Carl Franklin和Richard Campbell为.NET开发人员制作的互联网音频脱口秀.
 * [/dev/hell](http://devhell.info/) 克里斯·哈特斯（Chris Hartjes）和埃德·芬克勒（Ed Finkler）被困在“发展地狱”中，他们主要谈论PHP，Web，他们的开发经验以及特别邀请来宾.
 * [Accidental Tech Podcast](http://atp.fm/) -三个书呆子讨论技术，苹果，编程和松散相关的问题.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) -妇女在科学，技术，工程和数学方面的成就.
 * [Almost Better Than Silence](https://almostbetterthansilence.com/) -有关视频游戏的喜剧播客，其中包含技术新闻，客人采访和对话游戏！
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/)  -Android Backstage，这是由Android开发人员开发的播客.  该节目由Android工程团队的开发人员主持，涵盖了Android程序员感兴趣的主题，并与Google Android团队的工程师进行了深入的讨论和访谈.
 * [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) -诺亚回答有关技术，业务，社区和Linux的问题
-* [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) -在远离键盘的地方，技术人员讲述了他们如何开始，如何成长，如何学习以及如何放松的故事.
+* [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) -在远离键盘的地方，技术人员可以讲述他们如何开始，如何成长，如何学习以及如何放松的故事.
 * [Away from Keyboard](https://changelog.com/afk) –探索创作工作的人性化方面.
-* [AWS re:Invent 2015](https://www.youtube.com/user/AmazonWebServices/about) [iTunes](https://itunes.apple.com/us/podcast/aws-re-invent-2015/id1041854841?mt=2&ign-mpt=uo%3D4) [RSS](https://s3.amazonaws.com/reinvent-podcasts/AWS_reInvent2015_PodcastRSS.xml)-230多次技术会议，涵盖体系结构，操作，安全性等.
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday)  斯科特·汉塞尔曼（Scott Hanselman）与在其学习如何编程云的过程中建立Azure的实际工程师坐在一起.  没有营销，没有BS，只有两名工程师和一小段可管理的笔记本电脑.
 * [Base.cs](https://www.codenewbie.org/basecs) -基于CodeNewbie制作的Vaidehi Joshi的base.cs博客系列的入门级计算机科学课程.
 * [Beats, Rye & Types](http://beatsryetypes.com/) -两个老朋友，讨论他们的三个主要爱好：音乐，美食和编程.
@@ -52,7 +51,6 @@
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) -关于视觉和创意应用程序的编程.
 * [Curious Minds](https://www.cmpod.net/)  -好奇心是关于科学，技术和历史的播客.  每个插曲都会带来来自许多主题的有趣故事：从物理和天文学到医学，艺术和科幻小说.
 * [Darknet Diaries](https://darknetdiaries.com)  -黑客或受攻击者的故事.  他们是如何进入的，发生了什么.
-* [Data Skeptic](http://dataskeptic.com/) -数据怀疑播客具有采访和讨论与数据科学，统计，机器学习，人工智能等相关的主题的功能.
 * [Data Stories](http://datastori.es/) -Enrico Bertini和Moritz Stefaner讨论了数据分析，可视化和相关主题的最新发展.
 * [Design vs Dev](https://agileleague.com/) -从设计师和开发人员的不同角度进行的有关Web开发的播客.
 * [DevChat.tv](https://devchat.tv/)  -我们是程序员.  Ruby Rogues之家，Javascript Jabber，IPhreaks，自由职业者表演，Angular冒险和RailsClips.
@@ -60,7 +58,6 @@
 * [DevelopersHangout](http://www.developershangout.io/)  -两名开发人员谈论每两周就会遇到的挑战，文章，新闻，书籍和其他播客.  Laravel，PHP是两个关键主题，而其他出色的播客也类似于上面列出的播客.
 * [Developer Tea](https://spec.fm/podcasts/developer-tea) -由开发人员托管的网络和软件开发人员的播客，您可以在不到10分钟的时间内收听.
 * [Developing Perspective](https://github.com/ayr-ton/awesome-geek-podcasts/blob/master/	http://developingperspective.com/)  -从开发和设计到营销和支持，Under the Radar都是关于独立应用程序开发的.  永远不会超过30分钟.
-* [Devnology](http://devnology.nl/podcasts)  -荷兰用户组Devnology的播客.  它主要是英文的.  与有趣的人进行了许多有趣的讨论
 * [DevOps Cafe](http://devopscafe.org/) 在这次采访驱动的节目中，约翰·威利斯和达蒙·爱德华兹（Damon Edwards）务实地研究了新兴DevOps运动背后的技术，工具和业务发展.
 * [Digital Human](https://www.bbc.co.uk/programmes/b01n7094) -BBC系列探索Aleks Krotoski提出的数字世界.
 * [Disruptive](https://soundcloud.com/wyssinstitute/sets/disruptive)  -Wyss生物启发工程研究所的研究人员使用自然界的设计原理来开发生物启发的材料和设备，这些材料和设备将改变医学并创造一个更加可持续的世界.  在这个播客系列中，特伦斯·麦克纳利（Terrence McNally）直接与研究所的研究人员交谈，探讨了他们的动机以及他们如何展望我们的未来，因为这可能会受到其颠覆性技术的影响.
@@ -73,13 +70,12 @@
 * [Entreprogrammers](http://entreprogrammers.com/)  -从4位发展商转变为企业家的过程中获得飞速发展的视野，因为他们与企业苦苦挣扎并以艰难的方式学习课程.  这是程序员的每周策划者组.
 * [FiveJS](https://www.pluralsight.com/codeschool) -JavaScript社区中的最新消息.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) -与来自自由软件/开源社区的杰出来宾进行访谈.
-* [Founders Talk](https://changelog.com/founderstalk)  –与创始人，首席执行官和制造商进行深入的一对一对话.  旅途，经验教训和斗争.  我们开工吧！
+* [Founders Talk](https://changelog.com/founderstalk) – In-depth, one on one conversations with founders, CEOs, and makers. The journey, lessons learned, and the struggles. Let's do this!
 * [Fragmented](https://fragmentedpodcast.com/) -Android开发者播客.
 * [Full Stack Radio](http://www.fullstackradio.com/) -面向有兴趣开发出色软件产品的开发人员的播客.
 * [Functional Geekery](https://www.functionalgeekery.com/) -功能极客，功能极客.
 * [Future of Coding](https://futureofcoding.org/) -每月面试.
 * [Fw:Thinking](https://www.fwthinking.com/podcasts)  -关于技术.  关于人类.  这是关于我们的未来.  Fw：思考.
-* [Garbage](https://garbage.fm/) -两位OpenBSD开发人员的技术播客.
 * [Get Up and Code](https://simpleprogrammer.com/)  -Get Up and Code是有关适合程序员和软件开发人员的播客.  约翰·桑梅兹（John Sonmez）每周都会帮助您减肥，重构饮食并保持健康.
 * [GitMinutes](http://www.gitminutes.com/) -该节目面向熟练的Git用户.
 * [Google Cloud Platform Podcast](https://www.gcppodcast.com/)  -Google Cloud Platform播客，每周播报一次.  讨论从Google Cloud Platform到App Engine到Big Query的所有内容.
@@ -91,7 +87,7 @@
 * [HaskellCast](http://www.haskellcast.com/) —面向在行业中工作的Haskell开发人员的播客.
 * [Hello Internet](http://www.hellointernet.fm/) -科学YouTube使用者CGP Gray和布雷迪·哈兰（Brady Haran）讨论了从标志设计到《星球大战》的所有内容.
 * [Houston We Have a Podcast](https://www.nasa.gov/johnson/HWHAP/)  -约翰逊太空中心NASA官方播客.  每周举办一次，其主题一般是关于太空和国际空间站.
-* [HTTP 203](https://developers.google.com/web/shows/http203/) -在每场节目中，Jake和Paul都在Web开发领域中选择了一个热门话题，并讨论了Web开发的各个方面，同时还介绍了生活技巧，课程和一些相当诚实的事实.
+* [HTTP 203](https://developers.google.com/web/shows/http203/) -在每场演出中，Jake和Paul都在Web开发领域中选择了一个热门话题，并讨论了Web开发的各个方面，同时还介绍了生活技巧，课程和一些相当诚实的事实.
 * [Iron Sysadmin](https://www.ironsysadmin.com/) -现实世界系统管理员的播客，适用于现实世界系统管理员.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/)  -主持人Veronica Belmont分享了在线生活的真实故事以及有关Web未来的真实话题.  IRL是Mozilla的原始播客.
 * [JavaScript Air](https://javascriptair.com/) -有关JavaScript的现场直播播客.
@@ -112,33 +108,33 @@
 * [Mind the Cloud Podcast](http://mindthecloud.com) -关于使用云创建未来的开发人员和公司的播客.
 * [MS Dev Show](https://msdevshow.com/)  -Microsoft开发人员的播客.  Jason Young和Carl Schweitzer讨论了开发人员新闻中的最新消息，这些新闻涉及诸如Azure云，Windows，Windows Phone，Visual Studio和使用Microsoft平台的跨平台开发等主题.
 * [New Rustacean](https://newrustacean.com/) -这是有关从头开始学习编程语言Rust的播客.
-* [Nodeup](http://nodeup.com/) -一个Node.js播客.
 * [Note To Self](https://www.wnycstudios.org/shows/notetoself) -主持人Manoush Zomorodi与大牌技术员到小学老师的每个人都在讨论技术对我们生活的影响，以寻求有助于您思考和生活更好的明智选择.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) -唯一针对Office 365开发的展览，我们与来自全球的专家就Office 365平台的编码进行了交谈.
+* [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) - A security podcast geared towards those looking to better understand security topics of the day.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) -最新的开源项目和新闻！
 * [Our Ludicrous Future](https://ourludicrousfuture.com/) -主要是在太空，技术和埃隆·马斯克（Elon Musk）之间进行对话.
 * [Packet Pushers](https://packetpushers.net/)  -关于网络架构师的数据网络.  精深的技术和毫不掩饰的书呆子.
 * [Partially Derivative](http://partiallyderivative.com/) -关于数据，书呆子和啤酒的播客.
 * [PHP Round Table](https://www.phproundtable.com/) -PHP圆桌会议是开发人员的临时聚会，讨论PHP书呆子关心的主题.
 * [PHP Town Hall](http://phptownhall.com/) -市政厅，供PHP开发人员提出关于PHP社区中当前事件（或即将发生的事情）的问题，每周有不同的来宾.
-* [Podcast.\__init__](https://www.pythonpodcast.com/) -关于Python及其出色实现者的播客.
+* [Podcast.\__init__](https://www.pythonpodcast.com/) - A podcast about Python and the people who make it great.
 * [Practical AI](https://changelog.com/practicalai) –使人工智能实用，高效并且所有人都可以使用.
 * [Python Bytes](https://pythonbytes.fm/) -Python头条直接传送到您的耳塞.
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab)  -Radiolab是一个关于好奇心的节目.  声音照亮了思想，科学，哲学和人类经验之间的界限变得模糊.
 * [Reactive](http://reactive.audio/) -播客，可以合并，过滤，扫描和映射有关软件工程，文化和技术的思想流.
 * [React Podcast](https://reactpodcast.com/) -关于React.js的播客
 * [Reasonably Sound](http://reasonablysound.com/) -对音频的复杂性和令人敬畏度以及其周围和周围发展的各种文化的语境，解释和一些庆祝.
-* [Reply All](https://www.gimletmedia.com/reply-all) -全部答复是关于互联网的节目.
+* [Reply All](https://www.gimletmedia.com/reply-all) - Reply All is a show about the internet.
 * [Risky Business](https://risky.biz/netcasts/risky-business/) -Risky Business成立于2007年2月.它轻松地了解了信息安全新闻和功能.
 * [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch/) -NASA肯尼迪航天中心的官方播客.
 * [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) -Rocket Talk是Tor.com的科幻/幻想播客，将讨论风格的谈话广播与Tor.com屡获殊荣的短篇小说的音频旁白相结合.
-* [Ruby5](https://www.pluralsight.com/search?q=ruby) - The latest news in the Ruby and Rails community.
+* [Ruby5](https://www.pluralsight.com/search?q=ruby) -Ruby和Rails社区中的最新消息.
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/)  -Ruby Rogues是每周一次有关编程的小组讨论.  Ruby和Rails之类的技术是我们的共同点，但是讨论内容涵盖了Ruby生态系统，gem（库）的一部分以及编程实践，工具和职业.
 * [RunAs Radio](http://www.runasradio.com/) -每周一次的IT专业人员使用Microsoft产品的Internet音频脱口秀.
 * [Security Now!](https://www.grc.com/securitynow.htm)  -现在安全！  由史蒂夫·吉布森（Steve Gibson）和里奥·拉波特（Leo Laporte）之间的有关计算机安全性以及不安全性的讨论组成.
-* [Security Weekly](https://securityweekly.com) - A weekly podcast about security and info sec.
+* [Security Weekly](https://securityweekly.com) -关于安全和信息安全的每周播客.
 * [Semaphore Uncut](https://semaphoreci.com/podcast) -软件行业的专家讨论他们正在使用的产品正在解决的问题.
-* [Self Hosted](https://selfhosted.show/)  -发现新的软件和硬件，以充分利用网络，控制智能设备并保护云服务上的数据安全.  “自我托管”是克里斯和亚历克斯两个长期的“自我托管者”之间的聊天节目，他们分享了他们的课程，并带领您走上新的旅程.  Linux Academy播客，展示了您可以托管的免费和开源技术.
+* [Self Hosted](https://selfhosted.show/)  -发现新的软件和硬件，以充分利用网络，控制智能设备并保护云服务上的数据安全.  自托管是克里斯和亚历克斯两个长期的“自托管者”之间的聊天节目，他们共享课程并带您踏上新旅程.  Linux Academy播客，展示了您可以托管的免费和开源技术.
 * [ShopTalk Show](https://shoptalkshow.com/) -关于前端Web设计，开发和UX的播客.
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) -播客，每天采访针对专业软件开发人员的技术软件主题.
 * [Software Engineering Radio](http://www.se-radio.net/) -专业软件开发人员的播客.
@@ -152,19 +148,18 @@
 * [Syscast Podcast](http://podcast.sysca.st/) -谈论Linux，开源，Web开发和系统管理（DevOps）.
 * [Talking Code](http://www.talkingcode.com/) -简短的专家访谈，可帮助您解码开发人员在说什么.
 * [Talking Kotlin](http://talkingkotlin.com/) -关于Kotlin的双月播客，更多由Hadi Hariri主持.
-* [Talking Machines](http://www.thetalkingmachines.com/) -Talking Machines是您进入机器学习世界的窗口.
+* [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
 * [Talk Python to Me](https://talkpython.fm/) -每周播客（30分钟），涵盖了各种Python主题.
 * [TechStuff](https://www.stuffmedia.com/techstuff-podcast.htm)  -TechStuff处理从基本电子产品到大型强子对撞机以及介于两者之间的所有主题.  TechStuff致力于揭开技术及其在我们社会和文化中的作用的神秘面纱.
 * [Test and Code Podcast](https://testandcode.com/) -关于软件开发，软件测试和Python的播客.
 * [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) -关于软件测试实践的英国播客
 * [That Podcast](https://thatpodcast.io/) -Beau和Dave谈论父亲，程序员和企业家的生活.
-* [The 6 Figure Developer Podcast](https://6figuredev.com)  -6 Figure Developer Podcast是一个致力于帮助开发人员发展职业的节目.  主题包括测试驱动开发，简洁代码，专业精神，企业家精神，以及最新和最出色的编程语言和概念.
 * [The Accidental Engineer](https://theaccidentalengineer.com/) -就工程师的职业生涯进行访谈
 * [The Agile Coffee Podcast](http://agilecoffee.com/) -AgileCoffee聚集了一群对敏捷方法论和精益实践充满热情的从业人员.
-* [The Amp Hour](https://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
+* [The Amp Hour](https://theamphour.com/) -在一个小时（每周）的每周表演中讨论电子设计的世界.
 * [The Back to Front Show](https://backtofrontshow.com/)  -由网络行业资深人士Keir Whitaker和Kieran Masterton于2013年发起了Back to Front节目.  在前40集中，他们讨论了从网页设计和开发到初创公司和狗相关技术的所有内容.
 * [The Big Web Show](http://5by5.tv/bigwebshow) -重要的是网络.
-* [The Bike Shed](http://bikeshed.fm/) -在“自行车棚”上，主持人Derek Prior，Sean Griffin，Laila Winner和来宾讨论了他们在Ruby，Rails，JavaScript等方面的开发经验和挑战，以及本周引起他们注意，钦佩或不满的任何其他内容.
+* [The Bike Shed](http://bikeshed.fm/) -在“自行车棚”上，主持人Derek Prior，Sean Griffin，Laila Winner和来宾讨论了他们在Ruby，Rails，JavaScript等方面的开发经验和挑战，以及本周引起人们注意，钦佩或不满的任何其他内容.
 * [The Changelog](https://changelog.com/podcast) -与软件开发的黑客，领导者和创新者进行对话.
 * [The Cognicast](http://blog.cognitect.com/cognicast) -Cognicast以前是ThinkRelevance：Podcast是Cognitect家族的播客.
 * [The Distributed Data Show](https://academy.datastax.com/distributed-data-show)  -每周最新消息和技术专长，以帮助构建大型分布式系统.  由DataStax技术推广人员团队带队，与DataStax工程师和来自更广泛数据社区的特别嘉宾深入探讨.  每个星期二有新剧集.
@@ -176,7 +171,6 @@
 * [The Linux Action Show](https://www.jupiterbroadcasting.com/tag/linux-action-show/)  -关于Linux和开源的播客.  （已停产）
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) -Jeff Carouth和Matt Frost结合了他们数十年来作为Web开发人员的经验来谈论开发人员的生活.
 * [The Manifest](https://manifest.fm) -有关包管理的播客.
-* [The Music Makers](http://musicmakers.fm) -精选并阅读网络上最好的文章.
 * [The Path to Performance](https://pathtoperf.com/) -每个致力于提高网站速度的人的播客.
 * [The Ship Show](http://theshipshow.com/) -构建工程，DevOps，发布管理以及介于两者之间的所有内容！
 * [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) -关于开发人员和Stack Overflow社区的每周播客.
@@ -185,7 +179,7 @@
 * [This Developer's Life](http://thisdeveloperslife.com/) -关于开发人员及其生活的播客.
 * [Thoughtbot](https://thoughtbot.com/podcasts) -我们记录并发布来自Thoughtbot在设计，Ruby on Rails，iOS，正在运行的软件公司以及保持工作/生活平衡方面的每周播客.
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) -一个充满热情的个人社区，其目的是在倡导积极的社会变革的同时彻底改变软件设计，创建和交付.
-* [Three Devs and a Maybe](https://threedevsandamaybe.com/) - Weekly discussion podcast on all things web development. Topics range from daily developer life, PHP, frameworks, testing, good software design and our experiences using many other programming languages.
+* [Three Devs and a Maybe](https://threedevsandamaybe.com/)  -关于Web开发所有事物的每周讨论播客.  主题包括日常开发人员生活，PHP，框架，测试，良好的软件设计以及我们使用许多其他编程语言的经验.
 * [Toolsday Podcast](https://spec.fm/podcasts/toolsday) -在周二的2时20分钟的播客中，播报最新的技术工具，技巧和窍门！
 * [TTL Podcast](http://ttlpodcast.com/) -由丽贝卡·穆菲（Rebecca Murphey）主持的TTL播客，与大型组织的前端开发人员进行了对话，以讨论他们的工作方式.
 * [Ubuntu Podcast](http://ubuntupodcast.org) -由Ubuntu UK LoCo成员制作的生动活泼的播客，其中包括来自Ubuntu和开源社区的新闻，讨论和访谈.
@@ -194,16 +188,19 @@
 * [Why Are Computers](https://whyarecomputers.com/) -关于计算机和计算机程序及其原因的播客.
 * [WIRED's Webmonkey Podcast](https://www.wired.com/series/webmonkey/) -与技术团队一起浏览WIRED.com的幕后故事.
 * [Breach](https://www.carbonite.com/podcasts/breach/) -播客，探讨Carbonite的数据泄露和网络安全.
+* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast)  -Facebbok.  苹果.  亚马逊  Netflix.  谷歌.  该播客检查了它如何发挥作用，如何使用它以及将来会发生什么.
+* [a16z Podcast](https://a16z.com/podcasts/) -播客讨论技术和文化趋势，新闻和未来.
+
 
 ## In Portuguese
 
 * [10deploys](https://www.10deploys.com/) -讨论了DevOps背后的起源，趋势，影响和概念，以帮助组织成长为绩效较高的组织.
 * [CapyCast](https://soundcloud.com/rdshipit/) -与Digital Results产品小组进行播客，介绍他们的开发和设计学习.
+* [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) -坎皮纳格兰德联邦大学计算机科学课程的监护人小组的播客.
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) -在数据库上的第一个巴西播客.
 * [DevDrops](https://anchor.fm/devdrops) -您的软件开发播客.
 * [DataHackers](https://datahackers.com.br/podcast) -每月播客，可让数据科学专业人士谈论就业市场，职业和新闻.
 * [DevNaEstrada](https://devnaestrada.com.br/) -每周Web开发播客，带有幽默感.
-* [DioCast](https://www.diolinux.com.br/search/label/DioCast) -关于Linux和自由软件的播客.
 * [Elemencast](https://elemencast.github.io) -建议将有关前端Universe，NodeJ，函数式编程等的内容带给侦听器.
 * [FooCast](https://foocast.io/) -简短的播客，通常讨论开发.
 * [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) -四个老师，非常书呆子，很有趣，并且有很多故事要讲.
@@ -211,25 +208,24 @@
 * [Hipsters ponto Tech](https://hipsters.tech/) -关于启动，编程，UX，小工具和最新技术趋势的Caelum播客.
 * [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) -Podcast da Lambda3
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) -采访领导力和企业家精神等问题.
-* [Like a Boss](https://www.likeaboss.com.br)  -Like Boss播客是企业家的播客.  成功的初创公司和公司的领导者和创始人与该计划的两位主持人坐在一起.
+* [Like a Boss](https://www.likeaboss.com.br)  -Like Boss播客是企业家的播客.  成功的初创公司和公司的领导者和创始人坐在该计划的两位主持人中.
 * [Lovelace Podcast](https://twitter.com/LovelacePodcast) -互联网，模因，游戏，时事及其提供的时间-技术.
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) -播客有一个提案，可以解释几个主题，并使用科学，哲学，历史和其他主题来支持答案.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) -来自JovemNerd门户的播客，内容涉及书呆子，理论和rpg
-* [OpenDevPodcast](http://www.opendevpodcast.com.br) -关于信息技术的轻松聊天
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) -有关经验丰富和新手开发人员的PHP新闻的新闻.
 * [Pizza de Dados](https://pizzadedados.com/) -Data Pizza是一项举措，它以一种轻松有趣的方式带来了数据科学问题.
-* [PlayBook](https://astellainvest.com/playbook/) -企业家和投资者分享他们的旅程的故事.
 * [PODebug](http://www.podebug.com/) -通常以幽默和轻松的方式进行软件开发和技术.
 * [PodProgramar](https://podprogramar.com.br/)  -由妇女，开发人员介绍的播客，重点关注该地区的节目，新闻和故事.  在这个仍由男性主导的地区，所有女性都带有女性味.
 * [Quebradev](https://quebradev.com.br/) -面向外围起点和终点的播客.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) -带有rapadura的摄制组播客，今天被认为是巴西流行文化的参考.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) -播客，面向技术，科学，历史等各个领域的极客.
-* [Souforce.cloud](https://souforce.cloud/podcast/) -在葡萄牙语中，第一个针对Salesforce世界的播客，在这里我们谈论开发，平台管理，Salesforce产品以及诸如Career之类的主题.
+* [Souforce.cloud](https://souforce.cloud/podcast/) -第一个使用葡萄牙语的Salesforce播客，在这里我们谈论开发，平台管理，Salesforce产品以及诸如Career之类的主题.
 * [Tecnocast](https://tecnoblog.net/categoria/podcast/) -关于技术的Tecnoblog播客.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) -敏捷，建筑，语言和行动主义.
 * [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) -政治，历史和时事.
 * [Zeno Overflow](https://soundcloud.com/zenorocha) -有关巴西以外的技术，职业和生活的一系列现场问答.
-* [Zone Of Front-Enders](https://zofe.com.br/) -专注于前端Web开发的播客.
+* [Zone Of Front-Enders](https://zofe.com.br/) -专注于前端Web开发的播客.  
+* [Dragões de Garagem](http://dragoesdegaragem.com/) -流行科学播客，希望以一种易于访问和轻松的方式谈论科学，从而激发好奇心和批判性思维.
 
 ## In Spanish
 
@@ -238,7 +234,6 @@
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) -科学传播计划.
 * [Basta ya de picar](http://www.bastayadepicar.com/) -播客，其中讨论了各种编程主题和程序员的生活.
 * [CAChemE](https://cacheme.org/podcast/) -科学与工程应用程序（主要是Python）.
-* [Compilando podcast](https://compilando.audio/) -GNU / Linux和免费软件.
 * [El gato de Turing](https://elgatodeturing.com/) -科技新闻播客.
 * [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) -科学传播，科幻小说和视频游戏计划.
 * [Ideas ágiles](https://dosideas.com/podcast/ideasagiles/) -关于软件开发人员生活的讲座，访谈和体验的播客.
@@ -286,9 +281,10 @@
 * [Chaosradio](https://chaosradio.de) -混沌计算机俱乐部的每月直播脱口秀节目.
 * [Freak Show](https://freakshow.fm/)  -技术播客，通常每两周发布一次.  主要是苹果，比特币和播客.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) -关于网络政治的每周播客.
+* [Methodisch inkorrekt](http://minkorrekt.de/) -对论文进行幽默的评论4.两个星期几乎全部发布
+* [Radio Nukular](https://www.radionukular.de/) -主要（但不限于）电影，视频游戏和漫画.
 * [Request for Comments](https://requestforcomments.de/) -有RFC播客
 * [Working Draft](https://workingdraft.de/) -网页设计师和开发人员的每周新闻播客.
-* [Methodisch inkorrekt](http://minkorrekt.de/) -对论文进行幽默的评论4.两个星期几乎全部发布
 
 ## In Chinese
 
@@ -332,7 +328,7 @@
 ### Tooling
 
 * [Pocket Casts](https://www.pocketcasts.com/)
-* [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
+* [Overcast](https://overcast.fm) -适用于iOS和网络的优雅播客跟踪器
 * [AntennaPod](http://antennapod.org) -（Android和开源）
 * [Soundwaves](https://github.com/bottiger/SoundWaves) -（Android和开源）
 * [DoggCatcher](http://www.doggcatcher.com) -Android播客播放器

@@ -30,7 +30,7 @@
 
 ### Music
 
-- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
+- [cmus](https://github.com/cmus/cmus) -小型，快速且功能强大的控制台音乐播放器.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) -即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) -通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
@@ -47,7 +47,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户端.
 - [RTV](https://github.com/michael-lazar/rtv) -从您的终端浏览Reddit.
 - [WeeChat](https://weechat.org/) -快速，轻便和可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -IRC聊天客户端.
@@ -68,6 +68,12 @@
 
 - [Dwarf Fortress](http://www.bay12games.com/dwarves) -Roguelike建设和管理模拟.
 - [Cataclysm-DDA](https://cataclysmdda.org) -在世界末日之后的回合制生存游戏.
+
+### Books
+
+- [epr](https://github.com/wustho/epr) -epub阅读器.
+- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - 圣经.
+- [SpeedRead](https://github.com/sunsations/speed_read) -类似于Spritz的Speedreader.
 
 ## Development
 
@@ -120,7 +126,7 @@
 
 - [mycli](https://github.com/dbcli/mycli) -具有自动完成功能和语法突出显示功能的MySQL客户端.
 - [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的Postgres客户端.
-- [sqlline](https://github.com/julianhyde/sqlline) -通过JDBC发行SQL的Shell.
+- [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ### Devops
 
@@ -134,7 +140,7 @@
 - [dockly](https://github.com/lirantal/dockly) -交互式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose接口.
-- [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
+- [flog](http://github.com/mingrammer/flog) -用于日志格式（例如apache-common，apache错误和RFC3164 syslog）的伪造日志生成器.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 
 ### Release
@@ -193,7 +199,7 @@
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) -Evernote客户.
 - [Taskwarrior](http://taskwarrior.org) -从命令行管理TODO列表.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) -终端的快速笔记应用程序.
-- [eureka](https://github.com/simeg/eureka) -在不离开终端机的情况下存储您的想法.
+- [eureka](https://github.com/simeg/eureka) -无需离开终端即可存储您的想法.
 - [sncli](https://github.com/insanum/sncli) -Simplenote客户.
 - [td-cli](https://github.com/darrikonn/td-cli) -一个TODO管理员，可以跨多个项目组织和管理您的TODO.
 - [taskell](https://github.com/smallhadroncollider/taskell) -交互式看板/任务管理器.
@@ -254,7 +260,7 @@
 - [teleconsole](https://www.teleconsole.com/) -共享您的UNIX终端.
 - [tmate](https://tmate.io/) -即时终端（tmux）共享.
 - [warp](https://github.com/spolu/warp) -安全，简单的终端共享.
-- [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
+- [OverTime](https://github.com/diit/overtime-cli) -远程团队的时间重叠表.
 
 ### Network Utilities
 
@@ -306,7 +312,7 @@
 
 ## Data Manipulation
 
-- [underscore-cli](https://github.com/ddopson/underscore-cli) -用于破解JSON和Javascript的命令行实用程序带.
+- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ramda-cli](https://github.com/raine/ramda-cli) -使用功能管道处理数据的CLI工具.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) -用于查询和更新YAML文件的简单CLI.
 - [q](http://harelba.github.io/q/) -命令行工具，允许在CSV / TSV（和任何其他表格文本文件）上执行类似SQL的查询.
@@ -356,7 +362,7 @@
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) -Unix权限的瑞士军刀
 - [rclone](https://github.com/ncw/rclone) -与各种云提供商（Dropbox，Google Drive，Onedrive等）之间进行文件同步.
 - [transmission-cli](https://transmissionbt.com) -您的命令行的Torrent客户端.
-- [ffsend](https://github.com/timvisee/ffsend) -功能齐全的CLI [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
+- [ffsend](https://github.com/timvisee/ffsend) -功能齐全的CLI [Firefox Send](https://send.firefox.com/) -简单和私人的文件共享.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) –流洪流客户端.
 - [share-cli](https://github.com/marionebl/share-cli) -与您的本地网络共享文件.
 
@@ -450,7 +456,6 @@
 
 ## Other
 
-- [Bible.Js CLI client](https://github.com/BibleJS/BibleApp)  -：book：Bible.JS CLI客户端.  通过命令行阅读圣经.
 - [birthday](https://github.com/IonicaBizau/birthday) -知道朋友的生日是什么时候.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) -检测代码的缩进.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) -获取当前用户的全名.
@@ -462,7 +467,6 @@
 - [medium-cli](https://github.com/djadmin/medium-cli) -阅读 [medium.com](https://medium.com/) 终端中的故事，还可以提供热门故事.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) -从浏览器中的网络快捷文件中打开URL.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) -从网络快捷方式文件获取网址.
-- [SpeedRead](https://github.com/sunsations/speed_read) -一个简单的基于终端的开源Spritz-like.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) -将匹配的单引号转换为双引号：我“爱”独角兽=&gt;我“爱”独角兽.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) -将匹配的双引号转换为单引号：我“爱”独角兽→我“爱”独角兽.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) -Python中GDB的模块化可视界面.
@@ -487,7 +491,7 @@
 
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – cli应用程序的替代列表.
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) -特定于macOS的Shell命令和工具.
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) -扩展git cli的插件.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) –命令行实用程序和框架.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) –终端框架，插件和资源.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH框架，插件，教程和主题.
