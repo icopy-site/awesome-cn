@@ -2,11 +2,11 @@
 site_name: 超赞合集
 site_description: 超赞列表合集
 site_author: chenjiajia
-site_url: https://icopy-site.github.io/asm-cn/
+site_url: https://icopy-site.github.io/awesome-cn/
 
 # Repository
-repo_name: 'icopy-site/asm-cn'
-repo_url: 'https://github.com/icopy-site/asm-cn'
+repo_name: 'icopy-site/awesome-cn'
+repo_url: 'https://github.com/icopy-site/awesome-cn'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
@@ -24,8 +24,8 @@ theme:
     - 404.html
   language: 'zh'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'white'
+    accent: 'blue'
   logo:
     icon: 'school'
   font:

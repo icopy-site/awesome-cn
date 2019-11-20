@@ -1,7 +1,7 @@
 
 ## 超赞列表合集 地址 : [asmcn.icopy.site](https://asmcn.icopy.site)
 
-[![Build Status](https://travis-ci.org/icopy-site/asm-cn.svg?branch=master)](https://travis-ci.org/icopy-site/asm-en)
+[![Build Status](https://travis-ci.org/icopy-site/awesome-cn.svg?branch=master)](https://travis-ci.org/icopy-site/awesome-cn)
 
 从 github爬取的超赞列表,爬虫定时更新
 

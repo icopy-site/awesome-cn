@@ -5,8 +5,8 @@ site_author: chenjiajia
 site_url: https://asmcn.icopy.site
 
 # Repository
-repo_name: 'icopy-site/asm-cn'
-repo_url: 'https://github.com/icopy-site/asm-cn'
+repo_name: 'icopy-site/awesome-cn'
+repo_url: 'https://github.com/icopy-site/awesome-cn'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
@@ -506,8 +506,8 @@ theme:
     - 404.html
   language: 'zh'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'white'
+    accent: 'blue'
   logo:
     icon: 'school'
   font:

@@ -3,7 +3,7 @@
 
 # Fill this out with the correct org/repo
 ORG=icopy-site
-REPO=asm-cn
+REPO=awesome-cn
 # This probably should match an email for one of your users.
 EMAIL=chenjiajia1@gmail.com
 
@@ -11,7 +11,7 @@ set -e
 
 # Clone Theme for Editing
 if [ ! -d "mkdocs-material" ] ; then
-  git clone --depth 1 https://github.com/squidfunk/mkdocs-material.git
+   git clone --depth 1  -b 4.4.3 --single-branch https://github.com/squidfunk/mkdocs-material.git
 fi
 sed -i "s/name: 'material'/name: null\n  custom_dir: 'mkdocs-material\/material'\n  static_templates:\n    - 404.html/g" mkdocs.yml
 sed -i "s/<head>/<head>\n <script>base_url='{{ base_url }}'<\/script>/g" mkdocs-material/material/base.html
