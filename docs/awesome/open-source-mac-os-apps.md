@@ -144,7 +144,7 @@
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper)  -简单的macOS应用程序，可从JSON生成Swift Object Mapper类.  ！[swift_icon] 
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象导出为模型类及其相关的构造函数，实用程序方法，setter和getter.  ！[swift_icon] 
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，setter和getter导出为模型类.  ！[swift_icon] 
 - [j2s](https://github.com/zadr/j2s)  -macOS应用程序，用于将JSON对象转换为Swift结构（当前针对Swift 4和Codable）.  ！[swift_icon] 
 
 #### Other Development
@@ -186,7 +186,7 @@
 - [FilterShop](https://github.com/KrisYu/FilterShop)  -macOS应用程序，用于浏览CoreImage滤镜.  ！[swift_icon] 
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)  -macOS应用程序以生成应用程序图标.  ！[javascript_icon] 
 - [Iconizer](https://github.com/raphaelhanneken/iconizer)  -动态创建Xcode图像目录（xcassets）.  ！[swift_icon] 
-- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标. 
+- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标.[objective_c_icon] 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)  -过期的Swift注入重写.  ！[objective_c_icon]！[swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)  -直观的应用程序，可在屏幕上显示透明图像.  ！[swift_icon] 
@@ -198,12 +198,12 @@
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater)  -macOS应用程序，可帮助您管理Podfile中的依赖项版本.  ！[swift_icon] 
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager)  -适用于Mac的Apple iOS / macOS供应配置文件管理，.provisionprofile，.mobileprovision文件管理器工具.  ！[objective_c_icon] 
 - [PushNotifications](https://github.com/onmyway133/PushNotifications)  -macOS应用程序，可在iOS和Android上测试推送通知.  ！[javascript_icon] 
-- [ResignTool](https://github.com/InjoyDeng/ResignTool)  -这是一个适用于macOS的应用程序，可以对应用程序进行（重新）签名并将其捆绑到准备安装在iOS设备上的ipa文件中.  ！[objective_c_icon] 
+- [ResignTool](https://github.com/InjoyDeng/ResignTool)  -这是一个适用于macOS的应用程序，可以对应用程序进行（重新）签名，并将它们捆绑到准备安装在iOS设备上的ipa文件中.  ！[objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr)  -用于为iOS和Android应用创建AppIcon的MacOS应用.  ！[swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush)  -iOS推送通知调试应用程序.  ！[objective_c_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)  -适用于macOS的iOS / Android应用部署工具.  ！[swift_icon] 
 - [WWDC](https://github.com/insidegui/WWDC)  -适用于macOS的非官方WWDC应用程序.  ！[swift_icon] 
-- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于以（srt）格式自2013年以来为每个WWDC会话视频下载字幕.  ！[swift_icon] 
+- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于以（srt）格式下载自2013年以来的每个WWDC会话视频的字幕.  ！[swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher)  -iOS Calabash Launcher是一个macOS应用程序，可帮助您在Mac上运行和管理Calabash测试.  ！[swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor)  -iOS Images Extractor是一个Mac应用程序，用于从iOS应用程序标准化，解码和提取图像.  ！[objective_c_icon] 
 - [iSimulator](https://github.com/wigl/iSimulator)  -iSimulator是一个GUI实用程序，用于控制模拟器并管理模拟器上安装的应用.  ！[objective_c_icon] 
@@ -252,7 +252,7 @@
 ### Finder
 - [Clipy](https://github.com/Clipy/Clipy)  -Clipy是适用于macOS的剪贴板扩展应用程序.  ！[swift_icon] 
 - [FiScript](https://github.com/Mortennn/FiScript)  -从Finder的MacOS上下文菜单中执行自定义脚本（按CTRL键并单击）.  ！[swift_icon] 
-- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder中打开Terminal，iTerm，Hyper.  ！[swift_icon] 
+- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder打开终端，iTerm，Hyper.  ！[swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode)  -Finder工具栏应用程序可在Visual Studio Code中打开当前文件夹.  ！[objective_c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)  -mac适用于macOS的Finder工具栏应用程序可在Terminal，iTerm或Hyper中打开当前目录.  ！[swift_icon] 
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)  -对开发人员有用的Quick Look插件列表.  ！[objective_c_icon]！[c_icon] 
@@ -364,7 +364,7 @@
 - [FromScratch](https://github.com/Kilian/fromscratch)  -可以用作快速笔记或待办事项的小应用程序.  ！[javascript_icon]！[css_icon] 
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app)  -适用于macOS的笔记本查看器.  ！[swift_icon] 
 - [NoteTaker](https://github.com/insidegui/NoteTaker)  -适用于macOS和iOS的简单笔记应用程序，使用Realm和CloudKit进行同步.  ！[swift_icon] 
-- [Notes](https://github.com/SauvageP/Notes) -Notes是一个macOS应用程序，用于创建注释，使用文本以及其他格式：图像，视频，联系人等.！[swift_icon] 
+- [Notes](https://github.com/SauvageP/Notes) -Notes是一个macOS应用程序，用于创建注释，并使用文本以及其他格式：图像，视频，联系人等.！[swift_icon] 
 - [Simplenote](https://github.com/Automattic/simplenote-macos)  -记笔记的最简单方法.  ！[objective_c_icon] 
 - [Standard Notes](https://github.com/standardnotes/web)  -安全的地方，方便您记录笔记，思想和生活.  ！[javascript_icon]！[css_icon] 
 - [Tusk](https://github.com/klaussinani/tusk)  -非官方的，第三方，社区驱动的Evernote应用程序，具有一些有用的功能.  ！[javascript_icon]！[css_icon] 
@@ -460,6 +460,7 @@
 
 ### Sharing Files
 - [Deluge](https://git.deluge-torrent.org/deluge)  -轻量级的跨平台BitTorrent客户端.  ！[python_icon] 
+- [NitroShare](https://github.com/nitroshare/nitroshare-desktop) - Transferring files from one device to another ![cpp_icon] 
 - [Rhea](https://github.com/timonus/Rhea)  -macOS状态栏应用程序，用于快速共享文件和URL.  ！[objective_c_icon] 
 - [Transmission](https://github.com/transmission/transmission)  -官方传输BitTorrent客户端存储库.  ！[objective_c_icon]！[c_icon] 
 - [Tribler](https://github.com/Tribler/tribler)  -具有P2P内容发现功能的隐私增强型BitTorrent客户端.  ！[python_icon] 
@@ -505,7 +506,7 @@
 - [Alacritty](https://github.com/jwilm/alacritty)  -跨平台，GPU加速的终端仿真器.  ！[rust_icon] 
 - [Bifrost](https://github.com/ishuah/bifrost)  -用于串行端口通信（macOS / Linux）的微型终端仿真器.  ！[go_icon] 
 - [Console](https://github.com/macmade/Console)  -macOS控制台应用程序.  ！[swift_icon] 
-- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder中打开Terminal，iTerm，Hyper.  ！[swift_icon] 
+- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder打开终端，iTerm，Hyper.  ！[swift_icon] 
 - [Hyper](https://github.com/zeit/hyper)  -基于网络技术的终端.  ！[javascript_icon]！[css_icon] 
 - [Kitty](https://github.com/kovidgoyal/kitty)  -跨平台，快速，功能齐全的基于GPU的终端仿真器.  ！[python_icon]！[c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)  -mac适用于macOS的Finder工具栏应用程序可在Terminal，iTerm或Hyper中打开当前目录.  ！[swift_icon] 
@@ -581,7 +582,7 @@
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX)  -适用于macOS的Acid Cam v2扭曲了视频以创造艺术.  ！[cpp_icon] 
 - [AppleEvents](https://github.com/insidegui/AppleEvents)  -适用于macOS的非官方Apple Events应用.  ！[objective_c_icon] 
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital)  -在Mac上免费观看喜爱的开发者会议上最新，最精彩的视频的最佳方法.  ！[swift_icon] 
-- [Datamosh](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS.  ![swift_icon] 
+- [Datamosh](https://github.com/maelswarm/Datamosh)  -在macOS上对视频进行数据删除.  ！[swift_icon] 
 - [Face Data](https://github.com/xiaohk/FaceData)  -用于从视频中自动注释地标的macOS应用程序.  ！[swift_icon] 
 - [GNU Gatekeeper](https://github.com/willamowius/gnugk)  -用于H.323终端的视频会议服务器.  ！[cpp_icon] 
 - [Gifted](https://github.com/vdel26/gifted)  -快速轻松地将任何短视频转换为GIF动画.  ！[objective_c_icon] 

@@ -51,12 +51,13 @@
 - [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) -易于浏览的UI，用于浏览协议的域，方法和事件.
 
 ### Developing with the protocol
-- [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes.
+- [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) -许多有用的食谱.
 - [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) -使用devtools协议调试客户端的工具.
 - [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) -允许您一次将客户端连接到多个浏览器.
 - [DevTools Backend](https://github.com/christian-bromann/devtools-backend) -Chrome DevTools后端的独立实现，可调试任意网络环境.
 - [RemoteDebug](https://github.com/RemoteDebug) -主动在当今的浏览器中标准化调试协议.
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) -Chrome的官方Selenium / WebDriver实现是在DevTools协议之上实现的.
+- [BrowserGap Community Edition](https://github.com/dosycorp/browsergap.ce)  -远程浏览器产品，开源.  大量使用原始的树梢式Chrome DevTools协议.
 
 ### Automation
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer/) -Node.js提供了高级API，可通过DevTools协议控制无头Chrome.
@@ -97,7 +98,7 @@
 ## Using DevTools frontend with other platforms
 
 #### Android
-- [Facebook Stetho](https://github.com/facebook/stetho) -使用Chrome DevTools进行本机Android调试.
+- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
 - [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) -调试在其中运行的JavaScript [J2V8](https://github.com/eclipsesource/J2V8) 使用Chrome DevTools.
 
 #### ClojureScript
@@ -151,7 +152,7 @@
 ### Performance
 - [Chrome React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm) -react-addons-perf软件包的操作接口.
 - [sloth](https://github.com/denar90/sloth) -Chrome扩展程序可以启用和保存选定标签的CPU和网络限制.
-- [TracerBench](https://github.com/TracerBench/tracerbench) -TracerBench是用于Web应用程序的受控性能基准测试工具，可提供对性能增量的清晰，可操作和可用的见解.
+- [TracerBench](https://github.com/TracerBench/tracerbench) -TracerBench是用于Web应用程序的受控性能基准测试工具，可提供对性能增量的清晰，可操作和有用的见解.
 
 ---
 
