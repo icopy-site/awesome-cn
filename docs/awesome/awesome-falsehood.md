@@ -59,10 +59,6 @@ localization.
 -[关于谎言
 IBAN]（https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md）-
 国际银行帐号不能避免错误.
--[关于工作的谬论
-申请人]（https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616）-
-关于求职者及其工作经历的假设并不一定
-true.
 -[关于谎言
 经济学]（http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/）-
 经济学不是简单或理性的.
@@ -118,6 +114,12 @@ it.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) -“仅在UTC中存储日期”并不总是正确的方法.
 - [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) -注意second秒！
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) -臭名昭著的StackOverflow回答了两个复杂的历史时区，以及较新版本的软件如何重新解释历史日期. 
+
+
+## Education
+
+- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) -一系列（不仅是）计算机科学专业的学生往往会错误地认为，有时甚至令人惊讶地相信，即使他们（可能）应该更了解.
+
 
 ## Emails
 
@@ -191,6 +193,14 @@ be.
 code.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) -字符编码不一定令人困惑，但是有助于掌握一些基本知识
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) -字符编码很难.
+
+
+## Management
+
+-[关于工作的谬论
+申请人]（https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616）-
+关于求职者及其工作经历的假设并不一定
+true.
 
 
 ## Multimedia
@@ -289,7 +299,7 @@ API]（http://slinkp.com/falsehoods-programmers-believe-about-apis.html）-
 创建和记录API时要注意的陷阱.
 -[关于谎言
 CSV]]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs）-
-尽管存在RFC4180，但它远非定论，在很大程度上被忽略了.
+尽管存在RFC4180，但它远非确定的，并且在很大程度上被忽略了.
 -[关于包装的错误
 经理]（https://meta-package-manager.readthedocs.io/en/develop/falsehoods.html）-
 包括包裹及其经理.
@@ -313,7 +323,7 @@ Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 complex.
 - [Hi! My name is...](https://www.youtube.com/watch?v=NIebelIpdYk) -这次谈话可能被称为用户名（和其他标识符）的虚假说法.
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom)  -关于/ dev / urandom和/ dev / random的一些事情会一再重复.  他们仍然是错误的.
-- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) -一系列（不仅是）计算机科学专业的学生往往会错误地认为，有时甚至令人惊讶地相信，即使他们（可能）应该更了解.
+- [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) -对缓存的误解通常会导致错误的断言，尤其是在涉及并发和竞争条件时.
 
 
 ## Typography
@@ -354,7 +364,7 @@ complex.
  翻转表.  `（╯°□°）╯︵┻━┻`
 
 具有适用于产品和仅适用于产品的项目的文章
-can't really be considered as generic falsehood articles and should be avoided.
+不能真正视为一般的虚假文章，应避免使用.
 
 ### Libraries
 

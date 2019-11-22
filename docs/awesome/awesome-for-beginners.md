@@ -78,7 +78,7 @@
 
 ## JavaScript
 
-- [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  OpenStreetMap的规范通用品牌名称
+- [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue) _(label: good first issue)_ <br> Canonical common brand names for OpenStreetMap
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JavaScript中易于使用的OpenStreetMap编辑器.
 - [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  任务控制是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动Web应用程序，可将希望运送包裹的DAV用户与可在开放和免费市场中寻找工作的自动无人机连接起来.
@@ -87,7 +87,7 @@
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于移动设备的交互式地图的JavaScript库.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  拖放是如此简单，很痛苦.
 - [history](https://github.com/rackt/history/labels/good-for-beginner)  _（标签：初学者）_ <br>  JavaScript的最小功能历史记录库.
-- [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV\* framework by implementing Todo in lots of Javascript apps.
+- [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor)  _（标签：初次贡献者）_ <br>  通过在许多Javascript应用程序中实现Todo来帮助您选择MV \ *框架.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22)  _（标签：入门错误）_ <br>  Web的开放源代码编辑器，用JavaScript，HTML和CSS编写.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  未来派的测试跑步者.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick)  _（标签：轻松选择）_ <br>  离线优先JavaScript客户端，利用 [Kinto API](http://kinto.readthedocs.org/) 用于远程数据同步.
@@ -116,12 +116,12 @@
 - [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  打造优秀机器人的唯一明智的方法.
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  可入侵的文字编辑器
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS Web前端资源CDN
-- [Video.js](https://github.com/videojs/video.js/labels/first-timers-only) _(label: first-timers-only)_ <br> The player framework
+- [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  播放器框架
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  JavaScript变异测试框架
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用Web技术构建的开源屏幕录像机
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted)  _（标签：需要帮助）_ <br>  浏览器扩展，可增强Reddit浏览体验.
 - [Brave Browser](https://github.com/brave/brave-browser/labels/good%20first%20bug)  _（标签：良好的第一个错误）_ <br>  适用于macOS，Windows和Linux的桌面浏览器.
-- [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用于Node.js的快速，低开销的Web框架.
+- [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue) _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：抢钱，难度：1 /简单，技术/ JavaScript）_ <br>  Golang和React中的开源Slack替代方案
@@ -140,6 +140,7 @@
 - [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  git工作流程的开源内容管理.
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于所有平台的功能丰富的精美GraphQL客户端.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Angular＆Electron应用程序，用于在PC上浏览和搜索视频.
+- [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy)  _（标签：简单）_ <br>  回合制策略游戏，您可以3D打印具有独特能力的生物小队，以击败敌人.
 
 ## Julia
 
@@ -202,7 +203,7 @@
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue)  _（标签：启动程序问题）_ <br>  gpodder.net的Web服务，这是一个自由Web服务，允许用户管理其播客订阅并发现新内容.
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue)  _（标签：《好事》） <br>  使用您的母语在Python中学习和编码.
 - [mypy](https://github.com/python/mypy/labels/good-first-issue)  _（标签：优先事项）_ <br>  python的可选静态类型.
-- [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Python中数据结构和算法的存储库.
+- [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
 - [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  它是科学计算的核心库，其中包含强大的n维数组对象.
 
 ## Ruby
@@ -219,7 +220,7 @@
 - [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源事件管理器.  针对免费和开源软件会议量身定制的事件管理工具 </br>  看到 ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A)  _（标签：第一期好）_ <br>  一种通用系统，用于以自动，一致且可复制的方式从源构建和分发软件包. </br>  看到 ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly)  _（标签：初学者友好）_ <br>  Bolt是Ruby命令行工具，用于使用SSH和WinRM在远程系统上执行命令，脚本和任务.
-- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue) _(label: good first issue)_ <br>Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
+- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源客户支持平台，可以替代Intercom，Zendesk，Drift，Crisp等.
 - [mapknitter](https://github.com/publiclab/mapknitter/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  上传您自己的航拍图像，将其定位（橡胶板）在Web界面上的现有地图数据上，并通过Web或合成方式共享并导出以打印.
 - [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Ruby on Rails（Rails）是一个用Ruby编写的开源Web应用程序框架.
 - [Faker](https://github.com/faker-ruby/faker/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Faker是一个Ruby库，用于生成虚假数据，例如姓名，地址和电话号码.

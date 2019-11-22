@@ -103,7 +103,7 @@
 - [learn](https://learn.adacore.com/) -交互式学习平台，旨在教授Ada和SPARK编程语言.
 
 #### Tutorials
-- [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) -AdaCore大学视频教程.
+- [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials.
 - [ada-crash-course](http://www.pchapin.org/VTC/TutorialAda/AdaCrash.pdf) -佛蒙特州技术学院提供的Ada 2012速成课程少于50页.
 - [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) -通过编写简单的游戏学习Ada 2012.
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) -在SPARK中收集经过验证的功能和数据类型.
@@ -221,6 +221,9 @@
 - [muen](https://muen.codelabs.ch/) -高度保证的x86 / 64分离内核.
 - [ewok](https://github.com/wookey-project/ewok-kernel) -EwoK是针对微控制器和嵌入式系统的微内核.
 - [bare-bones](https://github.com/Lucretia/bare_bones) -阿达（Ada）港口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小的32位x86内核.
+- [lovelace-os](https://sourceforge.net/projects/lovelaceos/) -Lovelace致力于使用Ada 2012语言编写类似Unix的操作系统.
+- [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) -Ada_KALINDA是一种Mac Plus，类似于以Ada95编写的OS.
+- [cxos](https://github.com/ajxs/cxos) -Ada操作系统开发示例.
 
 ## Games
 - [steamsky](https://thindil.github.io/steamsky) -带有蒸汽朋克装扮的天空中的Roguelike.
@@ -242,7 +245,7 @@
 
 #### Components
 - [simple-components](http://www.dmitry-kazakov.de/ada/components.htm)  -B树，Chebyshev系列，密码术，双链接的网和列表，黑板（无锁），ELV / eQ-3 MAX！  客户端，事件（纯文本，脉冲，数组），GNUTLS绑定，图形（有向，加权，非循环，树），HTTP实现，FIFO（无锁），IEEE 754，进程间通信，MODBUS客户端，MQTT客户端服务器/代理，TCP，互斥对象，对象，ODBC绑定，解析器，持久性对象，持久性存储，池，集合，映射，SMTP客户端，SQLite绑定，堆栈，流，字符串编辑，表（字符串映射），无界数组.
-- [ada-util](https://github.com/stcarrez/ada-util/) -接近Java log4j框架的日志记录框架，支持属性，XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始文件，文件，缓冲区，管道，套接字），多个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库位于CURL或AWS.
+- [ada-util](https://github.com/stcarrez/ada-util/) -接近Java log4j框架的日志记录框架，支持属性，用于XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始文件，文件，缓冲区，管道，套接字），多个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库位于CURL或AWS.
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) -这是GNAT组件集合的核心模块.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) -这是GNAT组件集合的绑定模块.
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) -这是GNAT组件集合的DB模块.
@@ -286,7 +289,7 @@
 - [ahven](http://ahven.stronglytyped.org/) -Ahven是用于Ada编程的简单单元测试库和框架.
  语言.  它以JUnit和AUnit的一些想法为基础而松散地建模.
 - [aunit](http://libre.adacore.com/tools/aunit/) -有一个单元测试框架.
-- [testing](https://github.com/Entomy/Testing) - Ada unit testing and measuring framework.
+- [testing](https://github.com/Entomy/Testing) -Ada单元测试和测量框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) -Ada中的行为驱动开发.
 
 #### Logging
@@ -378,7 +381,7 @@
 - [increment](https://github.com/reznikmm/increment) -在是中进行增量分析.
 - [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) -用Ada编写的词法分析器，它将代表Ada程序的字符流转换为特定于语言的标记流.
 - [parse-args](https://github.com/jhumphry/parse_args) -简单的命令行参数解析.
-- [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
+- [aforth](https://github.com/samueltardieu/aforth) -用Ada编写的可嵌入Forth口译员.
 - [ada-toml](https://github.com/pmderodat/ada-toml) -Ada的TOML解析器.
 - [parser-tools](https://github.com/flyx/ParserTools) -在Ada中编写词法分析器的工具.
 
@@ -395,7 +398,7 @@
 - [zip-ada](http://unzip-ada.sourceforge.net/) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
 - [apdf](https://apdf.sourceforge.io/) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维条形码，如QR码）.
+- [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维二维码，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理，最常见）的访问例程库.
 
@@ -404,14 +407,14 @@
 - [adhcp](https://codelabs.ch/adhcp/index.html) -ADHCP是Ada中DHCP协议的实现.
 
 #### Web
-- [template-parser](https://github.com/AdaCore/templates-parser) -AWS模板引擎.
+- [template-parser](https://github.com/AdaCore/templates-parser) - AWS templates engine.
 
 #### Multimedia
 - [opengl-ada](https://github.com/flyx/OpenGLAda) -适用于OpenGL和GLFW的厚Ada绑定.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) -在Ada中实现的声音合成器库.
 - [engine-3d](https://sourceforge.net/projects/engine-3d) -用于DOS-talgics的3D引擎.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
-- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，可用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微调和大调音阶以及非西方音阶.
+- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微音阶和大音阶音阶以及非西方音阶.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) -Ada包，用于编写独立于语言的消息.

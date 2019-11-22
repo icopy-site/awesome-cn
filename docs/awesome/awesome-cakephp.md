@@ -378,6 +378,8 @@
 - [Puppet](https://puppetlabs.com/) -服务器自动化框架和应用程序.
 - [Vagrant](https://www.vagrantup.com/) -可移植的开发环境实用程序.
 
+可以找到IDE特定的兼容性信息和提示 [here](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips).
+
 ## Web Applications
 
 ## CMS and applications built on CakePHP

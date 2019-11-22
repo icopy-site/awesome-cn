@@ -288,7 +288,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [basex](https://github.com/dirkk/zsh-basex) -增加了几个 [BaseX](http://basex.org/) 别名以简化用法.
 * [bash-quote](https://github.com/jtprog/bash-quote) -从Bash.im获取随机报价.
 * [bash](https://github.com/chrissicool/zsh-bash)  -使ZSH更兼容Bash.  它重新定义了源命令，使其行为更像`bash`.  它还启用了“ bash”补全功能.
-* [battery_state](https://github.com/Jactry/zsh_battery_state) - Show battery state in right-prompt.
+* [battery_state](https://github.com/Jactry/zsh_battery_state) -以正确的方式显示电池状态.
 * [bd](https://github.com/Tarrasch/zsh-bd) -不执行cd ../../ ..而跳回到特定目录.
 * [bepoptimist](https://github.com/sheoak/zsh-bepoptimist) -重新映射法语的ZSH`vi`模式 [bépo keyboard](http://bepo.fr/wiki/Accueil).
 * [betterbrew](https://github.com/timothyrowan/betterbrew-zsh-plugin) -为“ brew”添加更多命令别名
@@ -412,7 +412,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [git-sync](https://github.com/caarlos0/zsh-git-sync) -一个ZSH插件来同步`git`存储库并清理它们.
 * [gitcd](https://github.com/viko16/gitcd.plugin.zsh) -克隆后将其复制到git工作目录.
 * [gitfast](https://github.com/tevren/gitfast-zsh-plugin) -更新了oh-my-zsh gitfast插件的分支.
-* [gitgo](https://github.com/ltj/gitgo) -从命令行在浏览器中打开Github / Gitlab存储库（仅限macOS）.
+* [gitgo](https://github.com/ltj/gitgo) -从命令行在浏览器中打开Github / Gitlab存储库（仅适用于macOS）.
 * [github-issues](https://github.com/zdharma/zsh-github-issues) -在Github上订阅项目，并在外壳内（在提示符下）接收有关新问题的通知.
 * [gitignore](https://github.com/voronkovich/gitignore.plugin.zsh) -用于创建`.gitignore`文件的插件.
 * [gitio](https://github.com/denysdovhan/gitio-zsh) -ZSH插件，用于使用生成GitHub短网址 [git.io](https://git.io).
@@ -445,7 +445,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [history](https://github.com/b4b4r07/zsh-history) -扩展历史记录，以便可以通过SQL查询.
 * [hooks](https://github.com/willghatch/zsh-hooks) -添加缺少的挂钩-供插件和个人使用.
 * [host-switch](https://github.com/LockonS/host-switch) -使开发过程中切换到不同的`/ etc / hosts`文件更加容易.
-* [hub-ci-zsh-plugin](https://github.com/raymondjcox/hub-ci-zsh-plugin) -一个简单的插件，用于在您的ZSH主题中添加`hub` ci-status.
+* [hub-ci-zsh-plugin](https://github.com/raymondjcox/hub-ci-zsh-plugin) -一个简单的插件，用于向您的ZSH主题添加`hub` ci-status.
 * [igit](https://github.com/ytakahashi/igit) -使用的交互式`git`命令 [fzf](https://github.com/junegunn/fzf).
 * [ing](https://github.com/rummik/zsh-ing) -`ping`，但输出较短.
 * [intellij](https://github.com/mgryszko/intellij) -将intellij书签提取为markdown格式.
@@ -608,7 +608,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [slugify](https://github.com/lashoun/slugify) -ZSH插件，可将文件名和目录转换为Web友好格式.
 * [smart-cd](https://github.com/dbkaplun/smart-cd) -在chpwd之后运行`ls`和`git status`.
 * [snippets](https://github.com/willghatch/zsh-snippets) -命令行摘要扩展.
-* [solarized-man](https://github.com/zlsun/solarized-man) -oh-my-zsh的有色人页面插件的修改版本，已针对 [solarized dark](https://github.com/altercation/solarized/blob/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors) 终端中的主题.
+* [solarized-man](https://github.com/zlsun/solarized-man) -oh-my-zsh的有色人页面插件的修改版本，针对 [solarized dark](https://github.com/altercation/solarized/blob/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors) 终端中的主题.
 * [ssh-connect](https://github.com/gko/ssh-connect) -一个简单的`ssh`经理.
 * [ssh-plugin](https://github.com/paraqles/zsh-plugin-ssh) -`ssh`的插件.
 * [startup-timer](https://github.com/paulmelnikow/zsh-startup-timer) -打印启动外壳所需的时间.
@@ -1009,7 +1009,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [infernus](https://github.com/jshiell/infernus-zsh-theme) -极简主义主题，在深色背景上效果更好.
 * [infoline](https://github.com/hevi9/infoline-zsh-theme) -干净的主题，显示git状态，后台作业，远程主机和其他信息.
 * [intheloop-powerline](https://github.com/zyphrus/intheloop-powerline) -的扩展 [intheloop](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/intheloop.zsh-theme) 主题以使用电力线字体.
-* [itg](https://github.com/itsthatguy/itg.zsh-theme) -itsthatguy的主题.
+* [itg](https://github.com/itsthatguy/itg.zsh-theme) - itsthatguy's theme.
 * [jake](https://github.com/JakeHuneau/Jake.zsh-theme) -显示时间，当前目录和`git`分支信息，包括分支名称和红色+（如果分支未按更改）.
 * [jam](https://github.com/jesusangelm/Jam-Zsh-Theme) -针对深色背景进行了优化，包括git状态和rvm状态.
 * [jc](https://github.com/jclementex/jc-zsh-theme) -对于深色终端背景，请包含`git`状态信息.
@@ -1107,6 +1107,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [nox](https://github.com/kbrsh/nox) -深色主题，显示当前工作目录和git状态.
 * [nt9](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme)  -清洁，无干扰且关注git的开发主题.  显示相对于`git`根的路径（或在`git` repo外的〜），自上次提交以来的时间，当前SHA，分支和分支状态.
 * [nuqlezsh](https://github.com/Nuqlear/nuqlezsh.zsh-theme) -prezto和oh-my-zsh的简单主题.
+* [nuts](https://github.com/rafaelsq/nuts.zsh-theme) -极简主义主题，包括`git`状态装饰和时间.
 * [odin](https://github.com/tylerreckart/odin) -Odin是具有git`风格的ZSH主题.
 * [oh-flowers](https://github.com/Flower7C3/oh-flowers-zsh-theme) -带有`git`装饰的多行主题.
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) -强烈要求bash和ZSH提示.

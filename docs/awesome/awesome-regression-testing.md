@@ -98,6 +98,7 @@
 - [Axcept](https://axcept.io)  -测试整个团队.  并行进行多达100个测试.  端点模拟.  代码覆盖率. 
 - [Fluxguard](https://fluxguard.com) -屏幕截图像​​素和DOM更改比较和回归.
 - [Vidiff](https://vidiff.com) -跨阶段的基于云的视觉回归测试.
+- [Reflect](https://reflect.run) -视觉回归测试和测试自动化工具.
 
 ## Blog posts
 

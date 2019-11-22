@@ -6,7 +6,7 @@
 
 &gt;与Tailwind CSS相关的精选精彩清单
 
-[Tailwind CSS](https://tailwindcss.com) 是实用程序优先的CSS框架，用于快速构建自定义用户界面.
+[Tailwind CSS](https://tailwindcss.com) is a utility-first CSS framework for rapidly building custom user interfaces.
 
 ---
 
@@ -149,10 +149,10 @@
 -  [Laravel Dark Frontend Preset](https://github.com/Naoray/dark-tailwind-preset) -使用Laravel框架的Tailwind CSS的黑暗主题前端预设.
 -  [Laravel Boilerplate](https://github.com/hawezo/laravel-boilerplate) -使用Tailwind CSS，Inertia JS，TypeScript，Vue和字体结尾主题的Laravel样板.
 -  [Hugo Starter Theme Starter](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) -使用Tailwind CSS的Hugo主题入门.
-- 🎨 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
-- 🎨 [Tailwind Admin](https://github.com/tailwindadmin/admin) -具有Tailwind CSS的管理面板模板.
-- 🎨 [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) -使用Tailwind CSS的Wordpress主题和PWA.
-- 🎨 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
+-  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
+-  [Tailwind Admin](https://github.com/tailwindadmin/admin) -具有Tailwind CSS的管理面板模板.
+-  [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) -使用Tailwind CSS的Wordpress主题和PWA.
+-  [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
 
  |  表情符号|  描述
 | ----- | ----------------------- |
@@ -165,6 +165,7 @@
 - [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) -Tailwind CSS的Visual Studio Code IntelliSense扩展.
 - [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) -Tailwind CSS的Visual Studio代码片段扩展.
 - [Tailwind CSS IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) -针对Tailwind CSS的Neovim IntelliSense扩展.
+- [Headwind for VS Code](https://github.com/heybourn/headwind) -用于Tailwind CSS的Visual Studio Code类排序器.
 
 ### Open-Source Projects
 

@@ -155,7 +155,7 @@
 
 ### R
 
-- [R Weekly](https://rweekly.org) .  关于R和数据科学的每周更新.  R Weekly是 [openly developed on GitHub](https://github.com/rweekly/rweekly.org).
+- [R Weekly](https://rweekly.org) .  关于R和数据科学的每周更新.  R每周是 [openly developed on GitHub](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -347,6 +347,7 @@
 - [Capital minded](https://capitalminded.com) .  每周情报简报，介绍了如何度过指数基金的年龄，了解经济状况以及如何利用资本主义.
 - [AngelList Weekly](https://angel.co/newsletters) .  每周精选最佳创业公司.
 - [Startup Curated](https://startup.curated.co) .  创业者社区的时事通讯，其中包含来自创始人或来自创始人的最佳内容. [Archive](https://startup.curated.co/issues).
+- [InspectCompany Weekly](https://inspectcompany.com/newsletter) .  每周不到5分钟的公司新闻和分析.
 
 ## Awesome news
 

@@ -28,6 +28,7 @@ awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 * [Callback Women](http://www.callbackwomen.com/) -通过共享CFP [Twitter](https://twitter.com/callbackwomen).
 * [PaperCall](https://papercall.io/) -可以管理您的演讲和提交的地方.
 * [IT CFP List](https://github.com/softwaremill/it-cfp-list) -IT会议征集论文清单，更改也通过Twitter发布 [@ItCfpList](https://twitter.com/ItCfpList).
+* [Tulu.la](https://tulu.la)  -精选的技术活动和开放CFP列表.  友好的社区和演讲者支持冠军.  社区驱动.
 
 ## Clubs/Organizations
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club)  -一个国际性的非营利性教育组织，致力于促进世界各地俱乐部的创建和发展.  俱乐部的目标是提高成员的领导能力和公开演讲技能.
