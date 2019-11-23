@@ -54,7 +54,7 @@
 
 ### Frameworks
 
-* [mocha](https://github.com/mochajs/mocha) -用于node.js和浏览器的简单，灵活，有趣的JavaScript测试框架.
+* [mocha](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 * [jasmine](https://github.com/jasmine/jasmine) -无DOM的简单JavaScript测试框架.
 * [qunit](https://github.com/jquery/qunit) -一个易于使用的JavaScript单元测试框架.
 * [jest](https://github.com/facebook/jest) -无痛的JavaScript单元测试.
@@ -259,7 +259,7 @@
 * [docco](http://jashkenas.github.io/docco/) 是一个快速且肮脏的，长达一百行的，具有文化编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn)  建立手册.  它将简单的人类可读文本文件转换为roff以进行终端显示，还转换为HTML以进行网络显示.
-* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为文档生成确定的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
+* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成有目的的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
@@ -403,7 +403,7 @@
 * [contra](https://github.com/bevacqua/contra/) -具有功能趣味的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) -功能齐全的承诺库，侧重于创新功能和性能.
 * [when](https://github.com/cujojs/when) -可靠，快速的Promises / A +和when（）实现，以及其他异步工具.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个为事件侦听器添加支持的原型（与浏览器上可用的DOMElements中的EventTarget行为相同）.
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个为事件侦听器添加支持的原型（浏览器上提供的DOMElements具有与EventTarget相同的行为）.
 * [sporadic](https://github.com/marcoonroad/sporadic) -在Promise之上，针对Node和浏览器引擎的可组合并发抽象（例如流，协程和类似Go的通道）.
 
 
@@ -454,6 +454,7 @@
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
 * [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
+* [Bearer.sh](https://github.com/Bearer/bearer-js) -支持OAuth / API密钥/基本等的通用API客户端.
 
 ## Streaming
 
@@ -507,7 +508,7 @@
 * [Ladda](https://github.com/hakimel/Ladda) -带有内置加载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) -用CSS动画制作的加载微调器集合
 
-除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)，以及类似的生成器 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
+除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)以及类似的生成器 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
 
 
 ## Validation
@@ -571,7 +572,7 @@
 * [impress.js](https://github.com/impress/impress.js) -这是一个基于CSS3转换和转换功能的演示框架，其灵感来自于prezi.com背后的思想.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -DIY演示微框架
 * [Strut](https://github.com/tantaman/Strut) -Strut-Impress.js和Bespoke.js演示文稿编辑器
-* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) -适用于移动和台式机的JavaScript图像库，模块化，框架独立.
+* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) -适用于移动设备和台式机的JavaScript图片库，模块化，独立于框架.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) -带有CSS动画的自适应滑块jQuery插件.
 * [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) -使用简单，主题简单，易于定制.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) -带有自适应彩色figcaption和导航的滑块的jQuery插件.
@@ -686,7 +687,7 @@
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim)  -jQuery插件，当用户的光标指向特定的下拉菜单项时触发事件.  用于做出像Amazon这样的响应式超级下拉菜单.
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) -contextMenu管理器.
 * [Slideout](https://github.com/mango/slideout) -用于移动Web应用程序的响应式触摸滑出导航菜单.
-* [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
+* [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) -与touchSwipe库一起使用的滑动式滑动菜单.
 
 
 ## Table/Grid

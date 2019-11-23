@@ -50,7 +50,6 @@
 
 - [Hass.io](https://www.home-assistant.io/getting-started/) -使用Docker托管环境进行安装（推荐方法）.
 - [Docker](https://www.home-assistant.io/docs/installation/docker/) -在Docker上安装.
-- [Hassbian](https://www.home-assistant.io/docs/installation/hassbian/installation/) -安装Hassbian.
 - [Manually](https://www.home-assistant.io/docs/installation/virtualenv/) -使用Python虚拟环境手动安装.
 
 ## In case you need help
@@ -141,7 +140,7 @@ _任何人都可以创建一个附件，以下是由社区创建的._
 - [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) -将快照备份到Google云端硬盘.
 - [ADB](https://github.com/hassio-addons/addon-adb) -Android调试桥服务器程序.
 - [Glances](https://github.com/hassio-addons/addon-glances) -用Python编写的跨平台系统监视工具.
-- [Matrix](https://github.com/hassio-addons/addon-matrix) - A secure and decentralized communication platform.
+- [Matrix](https://github.com/hassio-addons/addon-matrix) -安全，分散的通讯平台.
 - [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) -具有家长控制功能的全网络广告和跟踪器阻止DNS服务器.
 - [Traccar](https://github.com/hassio-addons/addon-traccar) -Traccar是现代的GPS跟踪平台.
 - [Home Panel](https://github.com/hassio-addons/addon-home-panel) -触摸兼容的Web前端，用于控制房屋.
@@ -218,6 +217,7 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [Xiaomi Vacuum Map Card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Xiaomi-Vacuum-Map-card) -交互式小米真空地图，就像在Mi Home应用中一样.
 - [Home Feed Card](https://github.com/gadgetchnnel/lovelace-home-feed-card) -以供稿样式显示持久性通知，日历事件和实体的组合.
 - [Config Template Card](https://github.com/custom-cards/config-template-card) -允许在Lovelace中使用模板.
+- [RGB Light Card](https://github.com/bokub/rgb-light-card) -彩色按钮可控制RGB灯.
 
 ### Alternative Dashboards
 
@@ -230,11 +230,11 @@ _由社区创建的Home Assistant的其他组件.
 - [Hue Sensors](https://github.com/robmarkcole/Hue-sensors-HASS) -允许使用Philips Hue传感器.
 - [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) -将设备跟踪器的位置转换为人类可读的地址.
 - [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) -集成了路创Caseta Smart Bridge PRO / RA2 Select.
-- [SmartIR](https://github.com/smartHomeHub/SmartIR) -使用Broadlink IR集成设备.
+- [SmartIR](https://github.com/smartHomeHub/SmartIR) - Integrates devices using Broadlink IR.
 - [Xiaomi Hygrothermo](https://github.com/dolezsa/Xiaomi_Hygrothermo) -小米Mijia BT Hygrothermo温湿度传感器的传感器平台.
 - [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) -集成大众汽车通行证（需要有效的通行证订阅）.
 - [Untappd](https://github.com/custom-components/sensor.untapped) -与您的Untappd帐户关联.
-- [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) -将事件发布到Elasticsearch.
+- [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch.
 - [Sonoff/eWeLink](https://github.com/peterbuga/HASS-sonoff-ewelink) -使用库存固件控制Sonoff / eWeLink智能设备.
 - [Alexa Media Player](https://github.com/keatontaylor/alexa_media_player) -允许控制Amazon Alexa设备.
 - [iCloud3](https://github.com/gcobb321/icloud3) -具有许多功能的iCloud设备跟踪器组件的改进版本.
@@ -254,7 +254,7 @@ _由社区创建的Home Assistant的其他组件.
 
 ### DIY Gateways
 
-- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - A flexible MQTT gateway for IR, RF, BLE, MiFlora, SMS, and many sensors.
+- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) -用于IR，RF，BLE，MiFlora，SMS和许多传感器的灵活MQTT网关.
 - [esp8266 Milight Hub](https://github.com/sidoh/esp8266_milight_hub) -使用MQTT的Milight / LimitlessLED设备的备用集线器.
 - [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) -Zigbee到MQTT桥，摆脱您专有的Zigbee桥.
 

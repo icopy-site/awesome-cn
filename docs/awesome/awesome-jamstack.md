@@ -74,7 +74,7 @@
 - [Gridsome](https://gridsome.org/) -由Vue提供支持的静态网站生成器，用于为任何Headless CMS，API或Markdown文件构建可用于CDN的网站.
 - [Nuxt.js](https://nuxtjs.org/) - Versatile vue-based framework for server-side-rendered, static and traditional single page applications.
 - [eleventy](https://www.11ty.io/) -更简单的静态网站生成器，可将各种模板文件转换为HTML.
-- [Nift](https://nift.cc) -用C ++开发的跨平台开源网站生成器，速度快，功能强大.
+- [Nift](https://nift.cc) -用C ++开发的跨平台开源网站生成器，快速，功能强大.
 
 *有关更完整的列表，请参阅 [StaticGen](https://www.staticgen.com/).*
 
@@ -112,7 +112,7 @@
 - [Utterances](https://utteranc.es/)  -一个基于GitHub问题的轻量级注释小部件.  将GitHub问题用于博客评论，Wiki页面等.
 
 ### Forms
-- [Getform](https://getform.io)  -面向设计人员和开发人员的表单后端平台.  在几分钟之内为静态站点设置表单终结点，并通过Zapier集成和Webhooks支持扩展数据.
+- [Getform](https://getform.io)  -面向设计人员和开发人员的表单后端平台.  在几分钟之内为静态站点设置表单端点，并通过Zapier集成和Webhooks支持扩展数据.
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) -通过在部署时直接解析HTML文件，在构建时进行内置表单处理.
 - [StaticKit](https://statickit.com) -静态网站的现代形式，带有用于React和HTML的客户端库.
 
@@ -135,7 +135,7 @@
 
 - [GraphQL](https://graphql.org) -API的查询语言和用于使用现有数据完成这些查询的运行时.
 - [Graphcool](https://graph.cool) -开源和自托管后端即服务，用于开发无服务器的GraphQL后端.
-- [FaunaDB](https://fauna.com) -在云或内部部署中具有连接，索引和多区域ACID事务的关系NoSQL数据库.
+- [FaunaDB](https://fauna.com) -在云中或本地具有连接，索引和多区域ACID事务的关系NoSQL数据库.
 
 ### Automation
 
@@ -179,6 +179,7 @@
 ## Tutorials / Articles
 
 - [Ghost on the JAMstack](https://blog.ghost.org/jamstack/)
+- [Building a contact form in Gatsby using Getform](https://blog.getform.io/building-a-gatsby-contact-form-using-getform)
 - [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
 - [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)

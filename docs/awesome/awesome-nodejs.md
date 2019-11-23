@@ -9,15 +9,25 @@
 		<sup>特别感谢：</sup>
 		<br>
 		<br>
-		<a href="https://segment.com">
-			<img src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/segment-logo.svg?sanitize=true" width="160" alt="Segment">
+		<a href="https://github.com/botpress/botpress">
+			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="180" alt="Botpress">
 		</a>
-	</p>
-	<p>
+		<br>
+		<p>
+			<sup>
+				和
+			</sup>
+		</p>
+		<a href="https://segment.com">
+			<img src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/segment-logo.svg?sanitize=true" width="180" alt="Segment">
+		</a>
+		<br>
 		<sup>
 			 使用细分节省设置分析的时间.  <a href="https://segment.com/jobs">我们正在招聘！</a>
 		</sup>
 	</p>
+	<br>
+	<br>
 	<br>
 	<br>
 	<a href="https://awesome.re">
@@ -206,7 +216,7 @@
 - [first-run](https://github.com/sindresorhus/first-run) -检查是否是第一次运行该过程.
 - [blessed](https://github.com/chjj/blessed) -像诅咒的图书馆.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) -交互式命令行提示符.
-- [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
+- [yn](https://github.com/sindresorhus/yn) -分析是/否像值.
 - [cli-table3](https://github.com/cli-table/cli-table3) -漂亮的unicode表.
 - [drawille](https://github.com/madbence/node-drawille) -在终端上用Unicode盲文字符绘制.
 - [update-notifier](https://github.com/yeoman/update-notifier) -更新CLI应用程序的通知.
@@ -294,7 +304,7 @@
 
 - [documentation.js](https://github.com/documentationjs/documentation) -API文档生成器，支持ES2015 +和流程注释.
 - [ESDoc](https://github.com/esdoc/esdoc) -针对ES2015的文档生成器，附带测试代码并衡量文档覆盖范围.
-- [Docco](https://github.com/jashkenas/docco) -文档生成器，该文档生成器生成一个HTML文档，该文档显示与代码混合在一起的注释.
+- [Docco](https://github.com/jashkenas/docco) -文档生成器，该文档生成器生成一个HTML文档，该文档显示与代码混合的注释.
 - [JSDoc](https://github.com/jsdoc3/jsdoc) -API文档生成器，类似于JavaDoc或PHPDoc.
 
 
@@ -713,7 +723,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) -获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) -获取超级恶名.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) -得到一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍˄·͈·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍˄·༝·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”`.
 - [nerds](https://github.com/SkyHacks/nerds) -从诸如哈利·波特，星球大战和神奇宝贝等讨厌的话题中获取数据.
 
 
@@ -728,7 +738,7 @@
 
 - [execa](https://github.com/sindresorhus/execa) -更好的`child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) -专为服务器设计的核心jQuery的快速，灵活和精益实现.
-- [Electron](https://github.com/atom/electron)  -使用网络技术构建跨平台的桌面应用.  *（你可能会喜欢 [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
+- [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
 - [open](https://github.com/sindresorhus/open) -打开网站，文件，可执行文件之类的东西.
 - [hasha](https://github.com/sindresorhus/hasha)  -哈希变得简单.  获取缓冲区/字符串/流/文件的哈希.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) -使用点路径从嵌套对象获取属性.

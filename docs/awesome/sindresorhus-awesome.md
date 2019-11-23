@@ -5,17 +5,19 @@
 	<br>
 	<br>
 	<p>
-		<a href="https://triplebyte.com/a/aZxgKGg/d">
-			<b>找工作？</b>
-			<br>
-			 无需简历.  只要证明您可以编码即可.
-			<br>
-			<div>
-				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
-			</div>
+		<p>
+			<sup>
+				<a href="https://github.com/sponsors/sindresorhus">我的开源工作得到了社区的支持</a>
+			</sup>
+		</p>
+		<sup>特别感谢：</sup>
+		<br>
+		<br>
+		<a href="https://github.com/botpress/botpress">
+			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="260" alt="Botpress">
 		</a>
-		<sub></sub>
 	</p>
+	<br>
 	<br>
 	<br>
 	<br>
@@ -44,6 +46,26 @@
 
 
 
+
+
+---
+
+<div align="center">
+	<p>
+		<a href="https://triplebyte.com/a/aZxgKGg/d">
+			<b>找工作吗？</b>
+			<br>
+			 无需简历.  只要证明您可以编码即可.
+			<br>
+			<div>
+				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
+			</div>
+		</a>
+		<sub></sub>
+	</p>
+</div>
+
+---
 
 
 ## Platforms
@@ -92,7 +114,7 @@
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) -开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) -建立在Google Cloud Platform上的应用程式开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) -一组软件库和工具，可帮助您构建机器人应用程序.
-- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) -可视化并存储来自任何设备的数据.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) -您的站点的CDN，DNS，DDoS保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) -Google Assistant开发者平台.
 
@@ -167,6 +189,7 @@
 - [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，这些应用对可靠性和效率至关重要.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
+- [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
 
 
 ## Front-End Development
@@ -474,7 +497,7 @@
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) -Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) -Django CMS专注于灵活性和用户体验.
-- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) -基于PHP的轻量级CMS.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) -基于PHP的可扩展CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) -内容优先的CMS.
 
@@ -497,6 +520,7 @@
 - [Indie](https://github.com/mezod/awesome-indie#readme) -独立开发商业务.
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -公司在Hacker News上使用的工具.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) -用技术应对气候变化.
+- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) -提供高度的态势感知能力，以帮助改善战略规划和决策.
 
 
 ## Work
@@ -596,7 +620,7 @@
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) -增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) -基于Python的配置管理系统.
@@ -630,7 +654,7 @@
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) -开源Java应用性能管理工具.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) -成为开源维护者的经验.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) -每个平台的计算器.
-- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) -一种用于计算以确定用户是否为人类的质询-响应测试.
+- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) -创建并共享包含代码，方程式，可视化和叙述文本的文档.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) -国际高中机器人冠军.
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) -有助于改善社会的开源项目.
@@ -653,6 +677,7 @@
 - [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) -计算生物学家基于图像的生物学表型分析.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) -开源消息传递协议.
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) -网站的广告和程序媒体.
+- [Earth](https://github.com/philsturgeon/awesome-earth#readme) -寻找解决气候危机的方法.
 
 
 ## Related

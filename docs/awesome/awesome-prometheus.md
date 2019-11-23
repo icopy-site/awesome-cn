@@ -60,7 +60,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Podcasts and interviews
 
 - [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -FLOSS每周TWiT.tv节目上的朱利叶斯·沃尔兹（Julius Volz）.
-- [Prometheus and Service Monitoring](https://changelog.com/podcast/168) - Julius Volz on the Changelog podcast.
+- [Prometheus and Service Monitoring](https://changelog.com/podcast/168) -Changelog播客中的Julius Volz.
 - [Prometheus Monitoring with Brian Brazil](https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/) -Brian Brazil在《软件工程日报》播客中.
 
 ## Presentations
@@ -95,7 +95,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Exporters
 
 - [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) -黑盒导出器允许通过HTTP，HTTPS，DNS，TCP和ICMP **（官方导出器）**对端点进行黑盒探测.
-- [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) -HAProxy出口商会定期抓取HAProxy统计信息**（官方出口商）**.
+- [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**.
 - [Memcached exporter](https://github.com/prometheus/memcached_exporter) -Memcached出口商会定期抓取Memcached统计信息**（官方出口商）**.
 - [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) -MySQL服务器导出器会定期抓取MySQL统计信息**（官方导出器）**.
 - [Node exporter](https://github.com/prometheus/node_exporter) -节点出口商会定期抓取系统统计信息**（官方出口商）**.
@@ -110,6 +110,11 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Proxies
 
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) -使用选择器策略将传入请求转发到一组部署为彼此的HA副本的多个Prometheus实例之一.
+
+## High Availability
+
+- [Cortex](https://github.com/cortexproject/cortex) -水平可扩展，高可用性，多租户的长期Prometheus.
+- [Thanos](https://github.com/thanos-io/thanos) -具有长期存储功能的高可用Prometheus设置.
 
 ## Uncategorized
 

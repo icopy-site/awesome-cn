@@ -18,7 +18,7 @@
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) -VirusTotal.com API的PowerShell接口.
 - [censys-python](https://github.com/censys/censys-python) -Censys REST API的Python包装器.
 - [libcrafter](https://github.com/pellegre/libcrafter) -高级C ++网络数据包嗅探和制作库.
-- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Scriptable PDF file analyzer.
+- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) -可编写脚本的PDF文件分析器.
 - [python-dshield](https://github.com/rshipp/python-dshield) -Internet风暴中心/ DShield API的Pythonic接口.
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) -用于构建与恶意软件沙箱集成的最小，一致的Python API.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) -用于序列化和反序列化结构化威胁信息表达（STIX）JSON内容的Python API，以及用于常见任务的高级API.
@@ -54,6 +54,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 也可以看看 [awesome-honeypots](https://github.com/paralax/awesome-honeypots).
 
 - [CanaryTokens](https://github.com/thinkst/canarytokens)  -可自承载的honeytoken生成器和报告仪表板；  演示版本可在 [CanaryTokens.org](https://canarytokens.org/).
+- [Kushtaka](https://kushtaka.org) -可持续的多合一蜜罐和honeytoken编排器，用于资源贫乏的蓝色团队.
 
 ### Tarpits
 
@@ -103,13 +104,13 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) -基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) -用于通过Windows事件日志进行寻线分组的PowerShell模块.
 - [GRR Rapid Response](https://github.com/google/grr) -事件响应框架专注于远程实时取证，该组件由安装在资产上的Python代理和基于Python的服务器基础结构组成，使分析人员能够快速分类攻击并进行远程分析.
-- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置分析集成.
+- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一自由软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置集成分析功能.
 - [MozDef](https://github.com/mozilla/MozDef) -使安全事件处理过程自动化，并促进事件处理程序的实时活动.
 - [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标或调查它们以获取与那些系统状态有关的更全面的信息.
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -基于PowerShell的所有平台均可以执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，该工具与防病毒控制台集成.
-- [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的，提供基于主机的调查功能的免费端点审计和分析工具.
+- [Redline](https://www.fireeye.com/services/freeware/redline.html) - Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.
 
 ## Network Security Monitoring (NSM)
 
@@ -123,7 +124,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) -捕获欺骗的NetBIOS名称服务（NBNS）响应并提醒电子邮件或日志文件.
 - [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及深度数据包检查功能的免费，跨平台IDS / IPS，Lua也可以编写脚本.
 - [Wireshark](https://www.wireshark.org) -免费的开源数据包分析器，可用于网络故障排除或法医网络流分析.
-- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（`flowtop`），流量生成器（`trafgen`）和自治系统（AS）跟踪路由实用程序（`astraceroute`）.
+- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（flowtop），流量生成器（trafgen）和自治系统（AS）跟踪路由实用程序（astraceroute）.
 
 ## Network perimeter defenses
 
