@@ -5,7 +5,7 @@
 固定链接：/
 ---
 
-## Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://github.com/ayr-ton/awesome-geek-podcasts/workflows/Awesome%20Bot/badge.svg)](https://github.com/ayr-ton/awesome-geek-podcasts/actions)
 
 我们喜欢听的精选播客列表.
 
@@ -66,11 +66,11 @@
 * [Elixir Mix](https://devchat.tv/elixir-mix/) -Elixir Mix是每周一次的节目，重点关注Elixir编程社区.
 * [Elixir Outlaws](https://elixiroutlaws.com) -关于Elixir开发及其周围主题的小组讨论.
 * [Embedded.fm](https://www.embedded.fm/) -讨论通常用于设备的工程的方式，原因和内容.
-* [Ember Weekend](https://emberweekend.com/episodes) -由乔恩（Jon）和蔡斯（Chase）主持的关于恩伯（Ember）的一周（末期）播客.
+* [Ember Weekend](https://emberweekend.com/episodes) -由乔恩（Jon）和蔡斯（Chase）主持的关于恩伯（Ember）的一周（末）播客.
 * [Entreprogrammers](http://entreprogrammers.com/)  -从4位发展商转变为企业家的过程中获得飞速发展的视野，因为他们与企业苦苦挣扎并以艰难的方式学习课程.  这是程序员的每周策划者组.
 * [FiveJS](https://www.pluralsight.com/codeschool) -JavaScript社区中的最新消息.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) -与来自自由软件/开源社区的杰出来宾进行访谈.
-* [Founders Talk](https://changelog.com/founderstalk) – In-depth, one on one conversations with founders, CEOs, and makers. The journey, lessons learned, and the struggles. Let's do this!
+* [Founders Talk](https://changelog.com/founderstalk)  –与创始人，首席执行官和制造商进行深入的一对一对话.  旅途，经验教训和斗争.  我们开工吧！
 * [Fragmented](https://fragmentedpodcast.com/) -Android开发者播客.
 * [Full Stack Radio](http://www.fullstackradio.com/) -面向有兴趣开发出色软件产品的开发人员的播客.
 * [Functional Geekery](https://www.functionalgeekery.com/) -功能极客，功能极客.
@@ -124,7 +124,7 @@
 * [Reactive](http://reactive.audio/) -播客，可以合并，过滤，扫描和映射有关软件工程，文化和技术的思想流.
 * [React Podcast](https://reactpodcast.com/) -关于React.js的播客
 * [Reasonably Sound](http://reasonablysound.com/) -对音频的复杂性和令人敬畏度以及其周围和周围发展的各种文化的语境，解释和一些庆祝.
-* [Reply All](https://www.gimletmedia.com/reply-all) - Reply All is a show about the internet.
+* [Reply All](https://www.gimletmedia.com/reply-all) -全部答复是关于互联网的节目.
 * [Risky Business](https://risky.biz/netcasts/risky-business/) -Risky Business成立于2007年2月.它轻松地了解了信息安全新闻和功能.
 * [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch/) -NASA肯尼迪航天中心的官方播客.
 * [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) -Rocket Talk是Tor.com的科幻/幻想播客，将讨论风格的谈话广播与Tor.com屡获殊荣的短篇小说的音频旁白相结合.
@@ -157,7 +157,7 @@
 * [The Accidental Engineer](https://theaccidentalengineer.com/) -就工程师的职业生涯进行访谈
 * [The Agile Coffee Podcast](http://agilecoffee.com/) -AgileCoffee聚集了一群对敏捷方法论和精益实践充满热情的从业人员.
 * [The Amp Hour](https://theamphour.com/) -在一个小时（每周）的每周表演中讨论电子设计的世界.
-* [The Back to Front Show](https://backtofrontshow.com/)  -由网络行业资深人士Keir Whitaker和Kieran Masterton于2013年发起了Back to Front节目.  在前40集中，他们讨论了从网页设计和开发到初创公司和狗相关技术的所有内容.
+* [The Back to Front Show](https://backtofrontshow.com/)  -由网络行业资深人士Keir Whitaker和Kieran Masterton于2013年发起了Back to Front节目.  在前40集中，他们讨论了从网页设计和开发到初创公司和狗相关技术的所有问题.
 * [The Big Web Show](http://5by5.tv/bigwebshow) -重要的是网络.
 * [The Bike Shed](http://bikeshed.fm/) -在“自行车棚”上，主持人Derek Prior，Sean Griffin，Laila Winner和来宾讨论了他们在Ruby，Rails，JavaScript等方面的开发经验和挑战，以及本周引起人们注意，钦佩或不满的任何其他内容.
 * [The Changelog](https://changelog.com/podcast) -与软件开发的黑客，领导者和创新者进行对话.
@@ -210,6 +210,7 @@
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) -采访领导力和企业家精神等问题.
 * [Like a Boss](https://www.likeaboss.com.br)  -Like Boss播客是企业家的播客.  成功的初创公司和公司的领导者和创始人与该计划的两位主持人坐在一起.
 * [Lovelace Podcast](https://twitter.com/LovelacePodcast) -互联网，模因，游戏，时事及其提供的时间-技术.
+* [Mamilos](https://www.b9.com.br/shows/mamilos/) -开胸新闻
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) -播客有一个提案，可以解释几个主题，并使用科学，哲学，历史和其他主题来支持答案.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) -来自JovemNerd门户的播客，内容涉及书呆子，理论和rpg
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) -有关经验丰富和新手开发人员的PHP新闻的新闻.
@@ -290,7 +291,7 @@
 ## In Chinese
 
 * [Code Time](http://codetimecn.com/) -由程序员主持的中文程序员播客 [业余西](https://www.weibo.com/us)
-* [Teahour](http://teahour.fm/) -由主持的播客 [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) 和 [Daniel Lv](https://github.com/lgn21st)，大多数主题与软件开发，启动等有关.
+* [Teahour](http://teahour.fm/) -由主持的播客 [Terry Tai](https://github.com/poshboytl), [Dingding Ye](https://github.com/sishen) 和 [Daniel Lv](https://github.com/lgn21st), Most topics are about software development, startups, etc.
 
 ## In Polish
 
@@ -300,7 +301,7 @@
 
 ## In Turkish
 
-* [devPod](https://devpod.org/) -土耳其播客，内容涉及现代软件技术，编程语言，会议，Linux，Unix，iOS，MacOS，Python，Ruby，Git等. [Uğur Özyılmazel(Vigo)](https://github.com/vigo) 和 [Üstün Özgür](https://github.com/ustun).
+* [devPod](https://devpod.org/) - Turkish podcast talking about modern software technology,programming languages,conferences,Linux,Unix,iOS,MacOS,Python,Ruby,Git etc. Hosted by [Uğur Özyılmazel(Vigo)](https://github.com/vigo) 和 [Üstün Özgür](https://github.com/ustun).
 
 ## In Finnish
 

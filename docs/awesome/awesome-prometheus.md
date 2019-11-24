@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;精选的Prometheus资源，项目和工具的精选清单.
+> A curated list of awesome Prometheus resources, projects and tools.
 
 [![Prometheus](https://raw.githubusercontent.com/roaldnefs/awesome-prometheus/master/media/prometheus.png)](https://prometheus.io/)
 
@@ -56,6 +56,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) -了解和扩展Prometheus AlertManager-SolarWinds的Lee Calcote
 - [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) -PromCon 2016：Prometheus时间序列数据库-BjörnRabenstein.
 - [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) -GOTO 2019：Prometheus的系统和服务监视简介-Julius Volz.
+- [Prometheus Deep Dive](https://www.youtube.com/watch?v=Me-kZi4xkEs) -GitLab：Prometheus深潜-Ben Kochie.
 
 ## Podcasts and interviews
 
@@ -95,7 +96,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Exporters
 
 - [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) -黑盒导出器允许通过HTTP，HTTPS，DNS，TCP和ICMP **（官方导出器）**对端点进行黑盒探测.
-- [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**.
+- [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) -HAProxy出口商会定期抓取HAProxy统计信息**（官方出口商）**.
 - [Memcached exporter](https://github.com/prometheus/memcached_exporter) -Memcached出口商会定期抓取Memcached统计信息**（官方出口商）**.
 - [MySQL Server exporter](https://github.com/prometheus/mysqld_exporter) -MySQL服务器导出器会定期抓取MySQL统计信息**（官方导出器）**.
 - [Node exporter](https://github.com/prometheus/node_exporter) -节点出口商会定期抓取系统统计信息**（官方出口商）**.
