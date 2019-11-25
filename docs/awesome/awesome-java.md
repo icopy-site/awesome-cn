@@ -18,7 +18,7 @@
 - [MapStruct](https://github.com/mapstruct/mapstruct) -代码生成器，它基于约定之上的配置方法简化了不同bean类型之间的映射.
 - [ModelMapper](https://github.com/jhalterman/modelmapper) -智能对象映射库，可自动将对象相互映射.
 - [Orika](https://github.com/orika-mapper/orika) JavaBean映射框架，将数据（除其他功能外）从一个对象递归复制到另一个对象.
-- [reMap](https://github.com/remondis-it/remap) - Lambda and method handle-based mapping which requires code and not annotations if objects have different names.
+- [reMap](https://github.com/remondis-it/remap) -基于Lambda和方法句柄的映射，如果对象具有不同的名称，则需要代码，而无需注释.
 - [Selma](https://github.com/xebia-france/selma) -基于注释处理器的bean映射器.
 
 ### Build
@@ -66,7 +66,7 @@
 - [Jexer](https://gitlab.com/klamonte/jexer)  -先进的控制台（和Swing）文本用户界面（TUI）库，带有可拖动鼠标的窗口，内置的终端窗口管理器和sixel图像支持.  看起来像 [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [JLine](https://github.com/jline/jline3) -包括来自现代炮弹的功能，例如完成或历史记录.
 - [JOpt Simple](https://jopt-simple.github.io/jopt-simple) - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.
-- [picocli](http://picocli.info) -使用中的ANSI颜色和样式有助于基于注释的POSIX / GNU /任何语法，子命令，选项和位置参数的强类型化.
+- [picocli](http://picocli.info) -ANSI颜色和样式的使用有助于基于注释的POSIX / GNU /任何语法，子命令，选项和位置参数的强类型化.
 - [Text-IO](https://github.com/beryx/text-io) -帮助创建基于控制台的完整应用程序.
 - [Lanterna](https://github.com/mabe02/lanterna)  -简单的控制台文本GUI库，类似于curses.  （仅限LGPL-3.0）
 
@@ -136,7 +136,7 @@
 
 ### Constraint Satisfaction Problem Solver
 
-*Libraries that help with implementing optimization and satisfiability problems.*
+*有助于实现优化和可满足性问题的库.*
 
 - [Choco](http://www.choco-solver.org) -使用约束编程技术的现成的约束满足问题解决程序.
 - [JaCoP](https://github.com/radsz/jacop)  -包含FlatZinc语言的界面，使其能够执行MiniZinc模型.  （AGPL-3.0）
@@ -167,13 +167,13 @@
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) -高性能JDBC连接池.
 - [jasync-sql](https://github.com/jasync-sql/jasync-sql) -适用于MySQL和PostgreSQL的异步DB驱动程序.
 - [JDBI](http://jdbi.org) -方便的JDBC抽象.
-- [Jedis](https://github.com/xetorthio/jedis) -用于与Redis交互的小型客户端，带有命令方法.
+- [Jedis](https://github.com/xetorthio/jedis) - Small client for interaction with Redis, with methods for commands.
 - [Jest](https://github.com/searchbox-io/Jest) -Elasticsearch REST API的客户端.
 - [jetcd](https://github.com/justinsb/jetcd) -etcd的客户端库.
 - [Jinq](https://github.com/my2iu/Jinq) -通过Java 8 Lambda的符号执行（在JPA或jOOQ之上）进行类型安全的数据库查询.
 - [jOOQ](https://www.jooq.org) -根据SQL模式生成类型安全代码.
 - [Liquibase](http://www.liquibase.org) -独立于数据库的库，用于跟踪，管理和应用数据库架构更改.
-- [MapDB](http://www.mapdb.org) -嵌入式数据库引擎，提供并发集合，这些并发集合备份在磁盘或堆外内存中.
+- [MapDB](http://www.mapdb.org) -嵌入式数据库引擎，可提供并发收集到磁盘或堆外内存的备份.
 - [MariaDB4j](https://github.com/vorburger/MariaDB4j) -无需安装或外部依赖项的MariaDB启动器.
 - [OrientDB](https://orientdb.com/orientdb) -在Hazelcast顶部编写的可嵌入式分布式数据库.
 - [Presto](https://github.com/prestodb/presto) -用于大数据的分布式SQL查询引擎.
@@ -219,7 +219,7 @@
 - [Dagger2](https://google.github.io/dagger) -无反射的编译时注入框架.
 - [Feather](https://github.com/zsoltherpai/feather) -符合JSR-330的超轻量级依赖注入库.
 - [Governator](https://github.com/Netflix/governator) -扩展了Google Guice的扩展程序和实用程序.
-- [Guice](https://github.com/google/guice) -轻巧且自以为是的框架，完善了Dagger.
+- [Guice](https://github.com/google/guice) -完善Dagger的轻量级，自以为是的框架.
 - [HK2](https://javaee.github.io/hk2) -轻量级和动态依赖注入框架.
 - [JayWire](https://github.com/vanillasource/jaywire)  -轻量级依赖注入框架.  （仅限LGPL-3.0）
 
@@ -334,7 +334,7 @@
 - [GraphHopper](https://github.com/graphhopper/graphhopper)  -路由引擎.  用作Java库或独立的Web服务.
 - [H2GIS](http://www.h2gis.org)  -H2数据库的空间扩展.  （仅限LGPL-3.0）
 - [Jgeohash](https://astrapi69.github.io/jgeohash) -使用GeoHash算法的库.
-- [Mapsforge](https://github.com/mapsforge/mapsforge)  -基于OpenStreetMap数据的地图渲染.  （仅限LGPL-3.0）
+- [Mapsforge](https://github.com/mapsforge/mapsforge) - Map rendering based on OpenStreetMap data. (LGPL-3.0-only)
 - [Spatial4j](https://github.com/locationtech/spatial4j) -通用空间/地理空间库.
 
 ### GUI
@@ -441,15 +441,16 @@
 
 * JVM / JDK的当前实现.*
 
-- [Adopt Open JDK](https://adoptopenjdk.net) -OpenJDK构建允许在HotSpot和OpenJ9之间进行选择.
+- [Adopt Open JDK](https://adoptopenjdk.net) -社区驱动的OpenJDK构建，包括HotSpot和OpenJ9.
 - [Avian](https://github.com/ReadyTalk/avian) -具有JIT，AOT模式和iOS端口的JVM.
 - [Corretto](https://aws.amazon.com/corretto)  -由Amazon提供的OpenJDK的免费，多平台，生产就绪的发行版.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Graal](https://github.com/oracle/graal)  -Polyglot可嵌入的JVM.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Liberica JDK](https://www.bell-sw.com/java.html)  -由OpenJDK构建，经过全面测试并通过了JCK.  （仅限GPL-2.0，带Classpath-exception-2.0）
-- [OpenJ9](https://github.com/eclipse/openj9) -高性能，企业级，灵活许可，开放管理的跨平台JVM，扩展并增强了Eclipse OMR和OpenJDK项目中的运行时技术组件.
-- [Open JDK](https://openjdk.java.net)  -由Oracle分发的开放JDK.  （仅限GPL-2.0，带Classpath-exception-2.0）
+- [OpenJ9](https://github.com/eclipse/openj9) -高性能，企业级，灵活许可，开放管理的跨平台JVM，用于扩展和增强Eclipse OMR和OpenJDK项目中的运行时技术组件.
+- [Open JDK](https://openjdk.java.net)  -打开JDK社区主页.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)  -具有非阻塞并发GC的VM for iOS.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview)  -RedHat的OpenJDK发行版.  （仅限GPL-2.0，带Classpath-exception-2.0）
+- [SAP Machine](https://sap.github.io/SapMachine)  -SAP的免费软件，经过严格测试并经过JCK验证的OpenJDK友好fork.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Zulu](https://www.azul.com/downloads/zulu) -OpenJDK为Windows，Linux和Mac OS X构建.（仅GPL-2.0，Classpath-exception-2.0）
 
 ### Logging
@@ -520,7 +521,7 @@
 - [JCuda](http://jcuda.org) -JCuda为CUDA和与CUDA相关的库提供Java绑定.
 - [Jimfs](https://github.com/google/jimfs) -内存文件系统.
 - [Joda-Money](http://www.joda.org/joda-money) -JDK未提供的基本货币和货币类以及算法.
-- [JPad](http://jpad.io) -片段跑步者.
+- [JPad](http://jpad.io) - Snippet runner.
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) -用于Maven的Gradle Wrapper的类比，允许在不安装maven的情况下构建项目.
 - [Membrane Service Proxy](https://github.com/membrane/service-proxy) -用Java编写的开源反向代理框架.
 - [MinimalFTP](https://github.com/Guichaguri/MinimalFTP) -轻巧，小型且可自定义的FTP服务器.
@@ -654,7 +655,7 @@
 
 *用于性能分析，性能分析和基准测试的工具.*
 
--[fastThread！[c]]（http://fastthread.io）-使用免费的基于云的上传界面分析和可视化线程转储.
+- [fastThread ![c]](http://fastthread.io) - Analyze and visualize thread dumps with a free cloud-based upload interface.
  -[GCeasy！[c]]（http://gceasy.io）-分析和可视化GC日志的工具.  它提供了一个免费的基于云的上传界面.
 - [honest-profiler](https://github.com/jvm-profiling-tools/honest-profiler) -低开销，无偏差的采样分析器.
 - [jHiccup](https://github.com/giltene/jHiccup) -记录和记录平台JVM停顿.
@@ -679,7 +680,7 @@
 - [ClassScan](http://commons.apache.org/sandbox/commons-classscan) -查找类接口，方法，字段和注释而无需加载.
 - [CLI](http://commons.apache.org/proper/commons-cli) -命令行参数解析器.
 - [CLI2](http://commons.apache.org/sandbox/commons-cli2) 重新设计Commons CLI.
-- [Codec](http://commons.apache.org/proper/commons-codec) - General encoding/decoding algorithms (for example phonetic, base64, URL).
+- [Codec](http://commons.apache.org/proper/commons-codec) -通用的编码/解码算法（例如，语音，base64，URL）.
 - [Collections](http://commons.apache.org/proper/commons-collections) -扩展或扩充Java Collections Framework.
 - [Compress](http://commons.apache.org/proper/commons-compress) -定义用于处理tar，zip和bzip2文件的API.
 - [Configuration](http://commons.apache.org/proper/commons-configuration) -读取各种格式的配置/首选项文件.
@@ -703,7 +704,7 @@
 - [Javaflow](http://commons.apache.org/sandbox/commons-javaflow) -继续实施以捕获应用程序的状态.
 - [JCI](http://commons.apache.org/proper/commons-jci) -Java编译器接口.
 - [JCS](http://commons.apache.org/proper/commons-jcs) -Java缓存系统.
-- [Jelly](http://commons.apache.org/proper/commons-jelly) - XML based scripting and processing engine.
+- [Jelly](http://commons.apache.org/proper/commons-jelly) -基于XML的脚本和处理引擎.
 - [Jexl](http://commons.apache.org/proper/commons-jexl) -扩展JSTL的表达语言的表达语言.
 - [JNet](http://commons.apache.org/sandbox/commons-jnet) -JNet允许通过java.net API动态使用注册的URL流处理程序.
 - [JXPath](http://commons.apache.org/proper/commons-jxpath) -使用XPath语法处理Java Bean的实用程序.

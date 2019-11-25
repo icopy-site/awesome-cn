@@ -7,11 +7,11 @@
 
 &gt;精心策划了很棒的“量化自我”资源列表.
 
-The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，食物消耗，周围空气的质量），状态（例如，情绪，唤醒，血氧水平）和性能（精神和身体）方面将技术整合到有关人们日常生活各个方面的数据采集中的运动.
+The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，食物消耗，周围空气的质量），状态（例如，情绪，唤醒，血氧水平）和性能（精神和身体）方面将技术整合到有关人们日常生活方面的技术的运动.
 
  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论.
 
-这一直是悲伤地看到一个服务关闭，或硬件更新停下，这里是有这个艰难的决定，我们收集名单 [Archived](https://github.com/woop/awesome-quantified-self/blob/master/ARCHIVED.md)
+这一直是悲伤地看到一个服务关闭，或硬件更新停止，这里是有这个艰难的决定，我们收集名单 [Archived](https://github.com/woop/awesome-quantified-self/blob/master/ARCHIVED.md)
 
 
 
@@ -220,7 +220,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 ## Open Source Projects
 
 - [Open mHealth](http://www.openmhealth.org/) -开源健康数据集成工具.
-- [Connector DB](https://github.com/connectordb/connectordb) -所有量化自我数据的存储库.
+- [Heedy](https://github.com/heedy/heedy) -所有量化自我数据的存储库.
 - [Quantifier](https://github.com/tsubery/quantifier) -量化自我应用程序，可跟踪各种适应性和生产率指标.
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) -开源的非营利个人数据可视化框架.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) -习惯追踪器和个人数据分析应用程序.
