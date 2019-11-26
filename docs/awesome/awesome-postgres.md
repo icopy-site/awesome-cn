@@ -6,7 +6,7 @@
 
 &gt;精选的超赞清单 [PostgreSQL](https://www.postgresql.org/) 受启发的软件，库，工具和资源 [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
 
-[PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)，通常只是Postgres， [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database)  （ORDBMS）.  PostgreSQL是 [ACID-compliant](https://en.wikipedia.org/wiki/ACID) 和 [transactional](https://en.wikipedia.org/wiki/Transaction_processing) .  （查看更多： [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
+[PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)，通常只是Postgres， [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database)  （ORDBMS）.  PostgreSQL是 [ACID-compliant](https://en.wikipedia.org/wiki/ACID) 和 [transactional](https://en.wikipedia.org/wiki/Transaction_processing) .  （看更多： [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
 
   ：elephant：欢迎捐助.  通过添加链接 [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) 或创建一个 [issue](https://github.com/dhamaniasad/awesome-postgres/issues)  开始讨论.  请看看 [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md).
 
@@ -30,7 +30,7 @@
 * [pg\_back](https://github.com/orgrim/pg_back/) -pg \ _back是一个简单的备份脚本
 * [pghoard](https://github.com/aiven/pghoard) -用于云对象存储（AWS S3，Azure，Google Cloud，OpenStack Swift）的备份和还原工具.
 * [wal-e](https://github.com/wal-e/wal-e) -Heroku的PostgreSQL到S3，Azure或Swift的简单连续归档.
-* [wal-g](https://github.com/wal-g/wal-g)  -在Go中重写了WAL-E的后继者.  当前仅支持S3.
+* [wal-g](https://github.com/wal-g/wal-g)  -在Go中重写了WAL-E的后继者.  当前支持AWS（S3），Google Cloud（GCS），Azure以及OpenStack Swift，MinIO和文件系统存储的云对象存储服务.  支持块级增量备份，将备份任务卸载到备用服务器，提供并行化和限制选项.  除了Postgres，WAL-G还可用于MySQL和MongoDB数据库.
 * [pitrery](https://dalibo.github.io/pitrery/) -pitrery是一组Bash脚本，用于管理PostgreSQL的时间点恢复（PITR）备份.
 
 ### GUI
@@ -118,7 +118,7 @@
 * [pg_web_stats](https://github.com/kirs/pg_web_stats) -用于查看pg_stat_statements的Web UI.
 
 ### Utilities
-* [apgdiff](https://www.apgdiff.com/) -比较两个数据库转储文件，并使用DDL语句创建输出，这些语句可用于将旧数据库架构更新为新的数据库架构.
+* [apgdiff](https://www.apgdiff.com/) -比较两个数据库转储文件，并使用DDL语句创建输出，这些语句可用于将旧数据库模式更新为新数据库.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) -ERAlchemy从数据库生成实体关系（ER）图.
 * [Hasura](https://hasura.io) -任何现有或新的Postgres应用程序上的即时实时GraphQL API.
 * [ldap2pg](https://github.com/dalibo/ldap2pg) -从YML和LDAP同步角色和特权.

@@ -30,7 +30,7 @@
 
 ### Music
 
-- [cmus](https://github.com/cmus/cmus) -小型，快速且功能强大的控制台音乐播放器.
+- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) -即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) -通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
@@ -42,6 +42,7 @@
 - [musikcube](https://github.com/clangen/musikcube) -跨平台，基于终端的音乐播放器，音频引擎，元数据索引器和服务器.
 - [beets](https://github.com/beetbox/beets) -音乐库管理器和标记器.
 - [playx](https://github.com/NISH1001/playx) -各种来源的歌曲/播放列表流.
+- [spotify-tui](https://github.com/Rigellute/spotify-tui) -Spotify客户端.
 
 ### Social Media
 
@@ -126,7 +127,7 @@
 
 - [mycli](https://github.com/dbcli/mycli) -具有自动完成功能和语法突出显示功能的MySQL客户端.
 - [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的Postgres客户端.
-- [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+- [sqlline](https://github.com/julianhyde/sqlline) -通过JDBC发行SQL的Shell.
 
 ### Devops
 
@@ -140,7 +141,7 @@
 - [dockly](https://github.com/lirantal/dockly) -交互式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose接口.
-- [flog](http://github.com/mingrammer/flog) -用于日志格式（例如apache-common，apache错误和RFC3164 syslog）的伪造日志生成器.
+- [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 
 ### Release
@@ -195,11 +196,11 @@
 
 ### Note Taking and Lists
 
-- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您轻松，快速地将想法保存在安全的地方.
+- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您将想法安全快捷地保存在安全的地方.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) -Evernote客户.
 - [Taskwarrior](http://taskwarrior.org) -从命令行管理TODO列表.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) -终端的快速笔记应用程序.
-- [eureka](https://github.com/simeg/eureka) -无需离开终端即可存储您的想法.
+- [eureka](https://github.com/simeg/eureka) -在不离开终端机的情况下存储您的想法.
 - [sncli](https://github.com/insanum/sncli) -Simplenote客户.
 - [td-cli](https://github.com/darrikonn/td-cli) -一个TODO管理员，可以跨多个项目组织和管理您的TODO.
 - [taskell](https://github.com/smallhadroncollider/taskell) -交互式看板/任务管理器.
@@ -339,7 +340,7 @@
 - [ranger](https://github.com/ranger/ranger) -具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) -功能丰富的可视文件管理器.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载内容.
-- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt那里借鉴了一些有用的想法.
+- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt中借鉴了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) -快速，可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) -快速，简单的文件管理器.

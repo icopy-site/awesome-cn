@@ -6,7 +6,7 @@
 
 &gt;与Tailwind CSS相关的精选精彩清单
 
-[Tailwind CSS](https://tailwindcss.com) is a utility-first CSS framework for rapidly building custom user interfaces.
+[Tailwind CSS](https://tailwindcss.com) 是实用程序优先的CSS框架，用于快速构建自定义用户界面.
 
 ---
 
@@ -65,7 +65,7 @@
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) -利用Tailwind CSS的配置来创建实用程序.
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
-- [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
+- [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) - Adds a component that shows the currently active screen (responsive breakpoint).
 
 &gt;-_以下这些插件提供的功能已在最新的Tailwind CSS版本中完全或部分实现.
 
@@ -120,6 +120,7 @@
 -  [vue-cli-plugin-tailwind](https://github.com/forsartis/vue-cli-plugin-tailwind) -将Tailwind CSS添加到项目的Vue CLI插件.
 -  [Tailwind CSS Figma Kit](https://github.com/impulse/tailwindcss-figma-kit) -尾风CSS的Figma套件.
 -  [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) -集成了Tailwind CSS的Figma插件.
+-  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI 
 
  |  表情符号|  描述
 | ----- | ---------------------------------------------- |

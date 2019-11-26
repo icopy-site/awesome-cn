@@ -21,19 +21,18 @@
 + [DevOps.md](https://github.com/svaksha/Julia.jl/blob/master/DevOps.md) ::用于基础架构管理，持续集成（CI），持续交付（CD），程序包管理，发布工程（RE），发布管理（RM），软件配置管理（SCM），测试驱动开发，沙箱，功能/单元测试，...与质量相关的工具，等等.
 + [Chemistry.md](https://github.com/svaksha/Julia.jl/blob/master/Chemistry.md) ::分析化学，化学信息学，晶体学，纳米化学，核化学...
 + [Database.md](https://github.com/svaksha/Julia.jl/blob/master/Database.md) :: NoSQL，RDBMS和中间件API.
-+ [DataManagement.md](https://github.com/svaksha/Julia.jl/blob/master/DataManagement.md) ::用于研究数据管理，临床研究数据，元数据，图书馆数据，计算可重复性等的数据管理工具.
-+ [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) :: software related to the subcategories of cartography, climatology, geobiology, geochemistry, geography, geoinformatics, geology‎, geophysics‎, geoscience/GIS, geomathematics, meteorology, oceanography, etc...
++ [DataScience.md](https://github.com/svaksha/Julia.jl/blob/master/DataScience.md) :: OpenData + OpenScience，免费数据集，可重现研究，RDM，临床研究数据，元数据，库数据，计算可重现性等.
++ [Earth-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Earth-Science.md) ::与制图学，气候学，地球生物学，地球化学，地理学，地理信息学，地质学，地球物理学，地球科学/ GIS，地理数学，气象学，海洋学等子分类有关的软件...
 + [FileIO.md](https://github.com/svaksha/Julia.jl/blob/master/FileIO.md) ::文件IO（输入/输出）功能，并支持各种数据类型和文件格式.
 + [Graphics.md](https://github.com/svaksha/Julia.jl/blob/master/Graphics.md) ::绘图，图形和其他可视化工具.
 + [i18n-L10n.md](https://github.com/svaksha/Julia.jl/blob/master/i18n-L10n.md) ::音译，国际化（i18n）和本地化（L10n）
 + [Machines.md](https://github.com/svaksha/Julia.jl/blob/master/Machines.md) ::用于跨平台硬件的软件，机器人技术以及用于与机器相关的软件的其他API库.
 + [Mathematics.md](https://github.com/svaksha/Julia.jl/blob/master/Mathematics.md)::代数，几何等任何与数学相关的知识.
-+ [OpenDataScience.md](https://github.com/svaksha/Julia.jl/blob/master/OpenDataScience.md) :: OpenData + OpenScience，免费数据集，可重现的研究等.
 + [Physics.md](https://github.com/svaksha/Julia.jl/blob/master/Physics.md) ::与物理学相关的Julia软件.
 + [Programming-Paradigms.md](https://github.com/svaksha/Julia.jl/blob/master/Programming-Paradigms.md) ::类型系统，数据类型等中使用的编程范例和语言概念.
 + [Publications.md](https://github.com/svaksha/Julia.jl/blob/master/Publications.md) ::研究论文（期刊和会议出版物）.
 + [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) ::社区资源列表，开发链接，包括事件，（un）会议，论坛/聚会组，新闻，博客，食谱，速查表，IJulia笔记本和其他有用资源.
-+ [Server.md](https://github.com/svaksha/Julia.jl/blob/master/Server.md) :: HTTP / Web，网络和其他服务器端实用程序...
++ [Server.md](https://github.com/svaksha/Julia.jl/blob/master/Server.md) :: HTTP/Web, Networking, and other server-side utils...
 + [Space-Science.md](https://github.com/svaksha/Julia.jl/blob/master/Space-Science.md) ::天文，影像，行星和 [space science](https://en.wikipedia.org/wiki/Outline_of_space_science) 相关软件包.
 + [Statistics.md](https://github.com/svaksha/Julia.jl/blob/master/Statistics.md) ::精算科学，金融，经济学，随机，保险统计，运筹学以及基准和优化工具包....
 + [Super-Computing.md](https://github.com/svaksha/Julia.jl/blob/master/Super-Computing.md) :: HPC，分布式计算，云计算，集群计算，网格计算，内核以及诸如ARM，MIPS，GPU，CUDA等架构
@@ -50,11 +49,11 @@
 
 ## [ODbL](https://opendatacommons.org/licenses/odbl/1-0/) and [AGPLv3](http://www.gnu.org/licenses/agpl-3.0.html)
 
-+此存储库（Julia.jl）中的__data __（用于Julia语言的知识资源的汇总和整理分贝）在以下位置发布： [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)  （ODbL-v1.0）.  开放数据库许可（ODbL）授予任何人自由，按许可中指定的那样以适当的__信贷归因__共享，创建和修改数据或数据库，并__以相同的条款__提供任何新作品__，并__使用新作品____发布公共副本.用于商业目
++此存储库（Julia.jl）中的__data __（用于Julia语言的知识资源的汇总和整理分贝）在以下位置发布： [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)  （ODbL-v1.0）.  开放数据库许可（ODbL）授予任何人自由，共享，创建和改编数据或数据库的权利，如许可中指定的那样__credit attribution__，并__以相同的条款__提供任何新作品__，并且__如果使用新作品则______________发行公共副本.用于商业目
 +`Julia.jl`中使用的__software__在 [AGPLv3 License](http://www.gnu.org/licenses/agpl-3.0.html)以及以上内容，如 [LICENSE-AGPLv3.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE-AGPLv3.md) 文件.
 +本作品的所有副本和叉子必须在新作品的所有副本或大部分内容中保留版权，程序代码的各自许可文件（AGPLv3）和数据（ODbL）以及本许可声明.
 
- 进行此更改的动机是使人们更容易将这些数据重新用作数据库中的知识资源.  例如， [julia-observer](https://juliaobserver.com)  是用于浏览程序包的可视化工具，该程序包从“ Julia.jl”，“ METADATA.jl”和各种来源中提取数据.  通过发布网站代码 [publicly](https://github.com/djsegal/julia_observer) 是一个示例，说明如何建立或转换数据以使社区受益.
+ 进行此更改的动机是使人们更容易将这些数据重新用作数据库中的知识资源.  例如， [julia-observer](https://juliaobserver.com)  是用于浏览程序包的可视化工具，该程序包从“ Julia.jl”，“ METADATA.jl”和各种来源提取数据.  通过发布网站代码 [publicly](https://github.com/djsegal/julia_observer) 是一个示例，说明如何建立或转换数据以使社区受益.
 
 
 ## Mirrors
@@ -69,7 +68,7 @@
 
 ## Guidelines
 
-朱莉娅社区有 [ethical guidelines](http://julialang.org/community/standards/)  旨在遵守版权，许可和归属标准<sup>{1}和{2}</sup> ，您在提交要列出的材料时必须遵循这些标准.  另外，如果您发现任何违反这些道德标准的材料（或代码存储库），请提交错误报告以将其从“ Julia.jl”中删除.
+朱莉娅社区有 [ethical guidelines](http://julialang.org/community/standards/)  目的是尊重您在提交要列出的材料时必须遵循的版权，许可和归属标准<sup>{1}和{2}</sup> .  此外，如果您发现任何违反这些道德标准的材料（或代码存储库），请提交错误报告以将其从“ Julia.jl”中删除.
 +参考：
    + {1} https://github.com/JuliaLang/julialang.github.com/issues/200
    + {2} https://github.com/JuliaLang/julialang.github.com/issues/194
@@ -93,6 +92,6 @@
 以1到5的比例（1 =最低，.5 =最高），请为您的包裹排名，
 
  +`可用性&#39;：包是否按照其说明的方式工作？  很容易找出来吗？  包装是否已准备好生产并得到了积极维护（问题/ PR及时得到响应和解决，维护和测试与Julia的发布周期相同）.
- +`Quality`：包装中有测试吗？  有很多错误吗？  你有好的文件吗？  可以在需要快速安全补丁的生产环境中使用吗？
+ +`Quality`：包装中有测试吗？  有很多错误吗？  你有好的文件吗？  可以在需要快速安全补丁的生产环境中使用它吗？
  +`Activity`：第三方用户是否应该打扰使用您的库，还是真的只打算由软件包作者使用？  假设有一个实验性的“扔掉的玩具仓库”，其开发现已被放弃.
  +`License`：您使用哪个软件许可证？  如果您没有许可证，请注明“无”. 

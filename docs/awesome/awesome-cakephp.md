@@ -237,6 +237,7 @@
 *实现对象关系映射或数据映射技术的插件.
 
 - [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) -维护记录的有序列表的行为.
+- [CakeDecimal plugin](https://github.com/dereuromark/cakephp-decimal) -处理小数的值对象方法.
 - [Duplicatable plugin](https://github.com/riesenia/cakephp-duplicatable) -复制实体（包括相关数据）的行为.
 - [JeremyHarris/LazyLoad plugin](https://github.com/jeremyharris/cakephp-lazyload) -实体的关联懒惰加载器.
 - [Lqdt/OrmJson plugin](https://github.com/liqueurdetoile/cakephp-orm-json) -通过CakePHP ORM在JSON类型字段中选择，查找，获取和设置属性和值的行为和特质.

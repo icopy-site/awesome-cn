@@ -28,7 +28,7 @@
 ## Inspectors
 - [Appium Desktop](https://github.com/appium/appium-desktop) -Mac，Windows和Linux桌面GUI中的Appium服务器和Inspector.
 - [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) -在模拟器中运行的iOS版WebDriver服务器.
-- [Selendroid Inspector](http://selendroid.io/inspector.html) -内置在selendroid测试服务器中的Web应用程序.
+- [Selendroid Inspector](http://selendroid.io/inspector.html) -内置在您的selendroid测试服务器中的Web应用程序.
 - [Appium iOS Inspector](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) -基于Selendroid Inspector原始来源的iOS元素定位工具.
 - [app-inspector](https://github.com/macacajs/app-inspector) -Macacajs应用检查器.
 
@@ -124,12 +124,17 @@
 - [Understanding Appium Drivers (And How To Choose Which One To Use)](https://appiumpro.com/editions/89)
 - [Optimizing Image Element Thresholds](https://appiumpro.com/editions/90)
 - [Getting Started With Appium For Android On Windows](https://appiumpro.com/editions/91)
+- [Using AI-based Object Detection For Finding Elements](https://appiumpro.com/editions/92)
+- [Managing Chromedriver for Android Chrome and Webview Testing](https://appiumpro.com/editions/93)
+- [Using the Appium Events API](https://appiumpro.com/editions/94)
+- [The 'Android Data Matcher' Locator Strategy](https://appiumpro.com/editions/95)
+- [Working With Cookies](https://appiumpro.com/editions/96)
 
 ## Tutorials
-- [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - 对于APPI教程初学者（Android和iOS）.
+- [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) -  APPI教程初学者（Android和IOS）.
 - [GURU99](http://www.guru99.com/introduction-to-appium.html) -  APPI教程初学者.
 - [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) -  APPI教程.
-- [Testing Diaries](http://www.testingdiaries.com/appium-tutorial/) -  APPI完整教程初学者.
+- [Testing Diaries](http://www.testingdiaries.com/appium-tutorial/) -  APPI完整的教程初学者.
 - [Appium Bootcamp](https://saucelabs.com/resources/articles/appium-bootcamp-chapter-1) -酱汁的鸦片训练营.
 - [Appium Mobile Grid Setup](http://www.slideshare.net/justinison75/mobile-selenium-grid-setup) -移动网格– Android和iOS入门.
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) -2016年硒营.
@@ -140,7 +145,7 @@
  - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - 阿皮亚的架构.
  - [All about Appium](https://en.wordpress.com/tag/appium/) -有关Wordpress中Appium的所有信息.
  - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) -  APPI与图像识别 - 西蒙卡兹.
- - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - 使用自动化机器人时代的行动 -  kkashyap1707.
+ - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - 自动使用Android上的时代操作 -  kkashyap1707.
  - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) -如何处理来自Appium 4.0.0的网络连接-Elias Nogueira.
  - [How to change language in Appium](https://medium.com/@eliasnogueira/appium-tips-changing-the-app-language-f0a1762dd927#.68mvqisri) -  APPI计划 - 更改语言的应用程序 - 埃利亚斯诺盖拉.
  - [Automated UI testing of a UWP app using Appium](https://medium.com/@yostane/automated-ui-testing-of-a-uwp-app-using-appium-dc10d8df6631#.3efp60w1j) -Windows应用程序驱动程序使用Appium-Yassine benabbas使UWP Apps兼容.
@@ -175,7 +180,7 @@
 
 ## Test Frameworks 
 - [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) - 样品黄瓜时期项目.
-- [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) -Appium Native Crawler CLI-功能包括：屏幕截图，性能，可访问性检测，Google翻译，Applitools，Monkey Tester.
+- [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) -Appium本机Crawler CLI-功能包括：屏幕截图，性能，可访问性检测，Google翻译，Applitools，Monkey Tester.
 - [coteafs-appium](https://github.com/WasiqB/coteafs-appium) -建立在Appium之上的对测试人员友好的移动自动化框架，该框架支持对Android，iOS和Windows real或仿真器Mobiles和Tablets的Web和本机应用程序进行测试.
 - [Optimus](https://github.com/testvagrant/optimusTemplate) -基于黄瓜的移动自动化框架，支持测试并行化.
 - [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) -示例页面对象模式框架可直接使用.

@@ -68,7 +68,7 @@
 ### Assertion
 
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-* [Enzyme](http://airbnb.io/enzyme/index.html) -Enzyme是用于React的JavaScript测试实用程序，可以更轻松地断言，操作和遍历React组件的输出.
+* [Enzyme](http://airbnb.io/enzyme/index.html) -Enzyme是用于React的JavaScript测试实用程序，使断言，操纵和遍历React组件的输出变得更加容易.
 * [react testing library](https://github.com/kentcdodds/react-testing-library) -简单而完整的React DOM测试实用程序，鼓励良好的测试实践.
 * [Sinon.JS](https://github.com/sinonjs/sinon) -测试JavaScript的间谍，存根和模拟.
 * [expect.js](https://github.com/Automattic/expect.js) -针对Node.JS和浏览器的BDD风格的断言.
@@ -213,7 +213,7 @@
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) -使用HTML 5和WebGL构建3D游戏的框架.
 * [recharts](https://github.com/recharts/recharts) -使用React和D3构建的重新定义的图表库.
 * [GraphicsJS](https://www.graphicsjs.org) -基于SVG / VML技术的具有直观API的轻量级JavaScript图形库.
-* [mxGraph](https://github.com/jgraph/mxgraph) -图表库，可快速创建交互式图形和图表应用程序，该应用程序可在其供应商支持的任何主要浏览器中本地运行.
+* [mxGraph](https://github.com/jgraph/mxgraph) -图表库，可快速创建交互式图形和图表应用程序，并在其供应商支持的任何主要浏览器中本机运行.
 
 还有一些很棒的商业图书馆，例如 [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/)和 [highchart](http://www.highcharts.com/).
 
@@ -250,6 +250,7 @@
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) -简单，漂亮的所见即所得编辑器
 * [wysihtml5](https://github.com/xing/wysihtml5)  -基于HTML5和渐进增强方法的开源富文本编辑器.  使用复杂的安全性概念，旨在通过防止无法维护的标签内容和内联样式来生成完全有效的HTML5标记.
 * [popline](https://github.com/kenshin54/popline) -Popline是HTML5 Rich-Text-Editor工具栏.
+* [Summernote](https://github.com/summernote/summernote) -超级简单的所见即所得编辑器.
 
 
 ## Documentation
@@ -508,7 +509,7 @@
 * [Ladda](https://github.com/hakimel/Ladda) -带有内置加载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) -用CSS动画制作的加载微调器集合
 
-除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)以及类似的生成器 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
+除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)，以及类似的生成器 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
 
 
 ## Validation
@@ -693,7 +694,7 @@
 ## Table/Grid
 
 * [jTable](https://github.com/hikalkan/jtable) -一个jQuery插件，用于创建基于AJAX的CRUD表.
-* [DataTables](https://www.datatables.net/) -（jQuery插件）这是一个高度灵活的工具，基于逐步增强的基础，并将向任何HTML表添加高级交互控件.
+* [DataTables](https://www.datatables.net/) -（jQuery插件）这是一个高度灵活的工具，基于渐进增强的基础，并将向任何HTML表添加高级交互控件.
 * [Tabulator](http://olifolkerd.github.io/tabulator/) -（jQuery插件）一种非常灵活的库，可以从任何JSON数据源或现有HTML表创建具有一系列交互功能的表.
 * [Bootstrap Table](http://bootstrap-table.wenzhixin.net.cn/) -流行的Bootstrap框架的扩展，用于创建适合您站点样式的表，而无需其他标记.
 * [floatThead](https://github.com/mkoryak/floatThead)  -（jQuery插件）在正文中滚动时锁定任何表的标题.  适用于任何表，不需要自定义html或css.
