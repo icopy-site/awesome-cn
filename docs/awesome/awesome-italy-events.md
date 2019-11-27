@@ -104,10 +104,10 @@
 - 24-31 - [DevFest Levante](https://devfestlevante.eu/) -Gallipoli-有关Google相关技术的会议.
 
 ## September
-- 20 - [Scala Italy 2019](http://2018.scala-italy.it/) -Bologna-关于Scala编程语言的年度会议.
+- 20 - [Scala Italy 2019](http://2019.scala-italy.it/) -Bologna-关于Scala编程语言的年度会议.
 - 20-21 - [WordCamp Catania 2019](https://2019.catania.wordcamp.org/) -卡塔尼亚-有关WordPress的一切.
 - 26 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-torino/area-visitatori/contenuti/) -都灵-安全性，合规性和业务连续性.
-- 26-27 - [Node.js Italian Conference](https://2018.nodejsconf.it/) -维罗纳-Node.js的全国会议.
+- 26-27 - [Node.js Italian Conference](https://2019.nodejsconf.it/) -维罗纳-Node.js的全国会议.
 - 28 - [RomHack](https://www.romhack.io/) -罗姆人-网络安全公约.
 
 ## October
@@ -164,6 +164,7 @@
 - 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) -Urbino（PU）-专门讨论编码和软件的会议.
 - 28 - [IoT Day](http://www.iotdayit.org/) -那不勒斯-会议主要集中在“物联网”上.
 - 28-29 - [LaravelDay](http://www.laravelday.it/) -维罗纳-意大利会议专门针对Laravel开发人员.
+- 30 - [Italian C++ conference](https://www.italiancpp.org) -Parma-意大利c ++会议.
 
 ## December
 - 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) -佛罗伦萨-佛罗伦萨的Python用户组.

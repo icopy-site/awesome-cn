@@ -73,7 +73,7 @@
 * [Butterfly Server .NET](https://github.com/firesharkstudios/butterfly-server-dotnet)  -允许轻松地构建实时Web应用程序和本机应用程序.  定义一个Web API和Subscription API，它们可以自动在连接的客户端之间同步数据集.
 * [CAP](https://github.com/dotnetcore/CAP) -具有本地持久消息功能的EventBus，用于SOA或微服务体系结构中的系统集成.
 * [Carter](https://github.com/CarterCommunity/Carter) - Carter is a library that allows Nancy-esque routing for use with ASP.Net Core.
-* [Chromely](https://github.com/mattkol/Chromely) -Electron.NET的轻型替代品，.NET / .NET Core的Electron.
+* [Chromely](https://github.com/mattkol/Chromely) -轻巧的替代Electron.NET，Electron for .NET / .NET Core
 * [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) -用于.NET的ETL框架（用于CSV，Flat，Xml，JSON，键值格式的文件的解析器/编写器）.
 * [CQRSlite](https://github.com/gautema/CQRSlite) - Lightweight framework for helping writing CQRS and Eventsourcing applications in C#.
 * [dataaccess_aspnetcore](https://github.com/digipolisantwerp/dataaccess_aspnetcore) - The DataAccess Toolbox contains the base classes for data access in ASP.NET Core with Entity Framework Core 1.0 using the unit-of-work and repository pattern.
@@ -98,7 +98,7 @@
 * [MoreLINQ](https://github.com/morelinq/MoreLINQ) -LINQ对象扩展.
 * [Nancy](https://github.com/NancyFx/Nancy) -轻量级，低礼仪的框架，用于在.NET和Mono上构建基于HTTP的服务.
 * [opencvsharp](https://github.com/shimat/opencvsharp) -用于OpenCV的.NET Framework包装器.
-* [orleans](https://github.com/dotnet/orleans) -框架，提供了直接的方法来构建分布式大规模计算应用程序，而无需学习和应用复杂的并发或其他扩展模式.
+* [orleans](https://github.com/dotnet/orleans) -框架，提供了一种直接的方法来构建分布式大规模计算应用程序，而无需学习和应用复杂的并发或其他扩展模式.
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) -适用于Golang和C的超快速分布式演员# [http://proto.actor](http://proto.actor).
 * [resin](https://github.com/kreeben/resin) -具有HTTP API和可插拔读/写管道的16位宽矢量空间搜索引擎.
 * [RService.io](https://github.com/Stoom/RService.IO) -专注于速度和易用性的ASP.Net Core RESTful微服务框架.
@@ -288,7 +288,7 @@
 * [roundhouse](https://github.com/chucknorris/roundhouse) -使用SQL文件和基于源代码控制的版本控制的.NET数据库迁移实用程序.
 * [SharpRepository](https://github.com/SharpRepository/SharpRepository) - SharpRepository is a generic repository written in C# which includes support for various relational, document and object databases including Entity Framework, RavenDB, MongoDb and Db4o. SharpRepository includes Xml and InMemory repository implementations as well.
 * [TrackableEntities.Core](https://github.com/TrackableEntities/TrackableEntities.Core) -使用.NET Core跨服务边界进行更改跟踪.
-* [Mongo.Migration](https://github.com/SRoddis/Mongo.Migration) -Mongo.Migration专为 [MongoDB C# Driver](https://github.com/thangchung/awesome-dotnet-core/blob/master/ https://github.com/mongodb/mongo-csharp-driver) to migrate your documents easily and on-the-fly. No more downtime for schema-migrations. Just write small and simple migrations. [Link](https://github.com/thangchung/awesome-dotnet-core/blob/master/ https://github.com/SRoddis/Mongo.Migration)
+* [Mongo.Migration](https://github.com/SRoddis/Mongo.Migration) -Mongo.Migration专为 [MongoDB C# Driver](https://github.com/thangchung/awesome-dotnet-core/blob/master/ https://github.com/mongodb/mongo-csharp-driver)  轻松，实时地迁移文档.  模式迁移不再需要停机.  只需编写小而简单的迁移. [Link](https://github.com/thangchung/awesome-dotnet-core/blob/master/ https://github.com/SRoddis/Mongo.Migration)
 
 ### Date and Time
 * [Exceptionless.DateTimeExtensions](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) -DateTimeRange，营业日以及各种DateTime，DateTimeOffset，TimeSpan扩展方法.
@@ -377,13 +377,14 @@
 * [Lamar](https://github.com/JasperFx/lamar) -快速反转罗斯林制酒厂的控制工具和杂物.
 * [LightInject](https://github.com/seesharper/LightInject) -超轻量的IoC容器.
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) -简单，灵活和快速的依赖注入库，可促进最佳实践，以引导开发人员迈向成功之路.
-* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻型，便携式依赖注入框架.
+* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻巧，可移植的依赖项注入框架.
 
 ### Logging
 * [common-logging](https://github.com/net-commons/common-logging) -.NET的便携式日志记录抽象.
 * [dnxcore-logging-logstash](https://github.com/jvandevelde/dnxcore-logging-logstash) -使用UDP和Redis传输的.NET Core应用程序的Logstash日志记录扩展.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) -出色的.NET客户端
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) -流畅的日志记录api，可用于记录整个应用程序中的消息.
+* [Karambolo.Extensions.Logging.File](https://github.com/adams85/filelogger) -一个轻量级的库，它为内置的.NET Core日志记录框架（Microsoft.Extensions.Logging）实现文件日志记录.
 * [LibLog](https://github.com/damianh/LibLog) -您可以将单个文件复制/粘贴或通过nuget安装到库/框架/应用程序中，以提供日志记录抽象.
 * [log4net](https://github.com/apache/logging-log4net) -log4net是优秀的Apache log4j™框架到Microsoft®.NET运行时的移植.
 * [NLog](https://github.com/NLog/NLog) -高级.NET，Silverlight和Xamarin日志记录.
@@ -413,7 +414,7 @@
 * [PreMailer.Net](https://github.com/milkshakesoftware/PreMailer.Net) - C# library that moves your stylesheets to inline style attributes, for maximum compatibility with E-mail clients.
 * [SendGrid Client](https://github.com/0xdeafcafe/sendgrid-dotnet) - C# library for the SendGrid v3 mail endpoint.
 * [SmtpServer](https://github.com/cosullivan/SmtpServer) -创建自己的SMTP服务器的库.
-* [StrongGrid](https://github.com/Jericho/StrongGrid)  -SendGrid v3 API的客户端.  不仅允许您发送电子邮件，还允许您批量导入联系人，管理列表和细分，为列表创建自定义字段等.还包括一个SendGrid Webhooks解析器.
+* [StrongGrid](https://github.com/Jericho/StrongGrid)  -SendGrid v3 API的客户端.  不仅允许您发送电子邮件，还允许您批量导入联系人，管理列表和细分，为列表创建自定义字段等.还包括一个用于SendGrid Webhooks的解析器.
 
 ### Mathematics
 * [UnitConversion](https://github.com/Stratajet/UnitConversion) -.NET Core和.NET Framework的可扩展单元转换库.
@@ -464,7 +465,7 @@
 * [PuppeteerSharp](https://github.com/kblok/puppeteer-sharp) -Puppeteer Sharp是官方Node.JS Puppeteer API的.NET端口.
 * [readline](https://github.com/tsolarin/readline) - Pure C# GNU-Readline like library for .NET/.NET Core.
 * [ReflectionMagic](https://github.com/ReflectionMagic/ReflectionMagic) - Framework to drastically simplify your private reflection code using C# dynamic
-* [Relinq](https://github.com/re-motion/Relinq) -使用re-linq，现在创建功能齐全的LINQ提供程序比以往任何时候都容易.
+* [Relinq](https://github.com/re-motion/Relinq) -使用re-linq，现在比以往任何时候都更容易创建功能齐全的LINQ提供程序.
 * [ReverseMarkdown](https://github.com/mysticmind/reversemarkdown-net) -HTML至Markdown转换器库.
 * [PdfReport.Core](https://github.com/VahidN/PdfReport.Core) -PdfReport.Core是代码优先报告引擎，它建立在iTextSharp.LGPLv2.Core和EPPlus.Core库的顶部.
 * [Scientist](https://github.com/github/Scientist.net)  -.NET库，用于仔细重构关键路径.  它是GitHub的Ruby Scientist库的端口.
@@ -476,7 +477,7 @@
 * [System.Linq.Dynamic.Core](https://github.com/StefH/System.Linq.Dynamic.Core) -System Linq Dynamic功能的.NET Standard（.NET Core）版本.
 * [UnitsNet](https://github.com/angularsen/UnitsNet) -Units.NET为您提供所有常用的度量单位以及它们之间的转换.
 *验证
-  * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) -适用于.NET的小型验证库，该库使用流利的接口和lambda表达式来构建验证规则.
+  * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) -适用于.NET的小型验证库，该库使用流利的接口和lambda表达式构建验证规则.
   * [Guard](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
   * [Valit](https://github.com/valit-stack/Valit)  -对.NET Core的简单验证.  您的代码周围不再有if语句.  改写漂亮干净的流利的验证器！
 * [warden-stack](https://github.com/warden-stack)  -针对您的应用程序，资源和基础架构的“运行状况检查”.  保持您的守望者在手表上.
@@ -507,7 +508,7 @@
   * [EntityFramework.Rx](https://github.com/NickStrupat/EntityFramework.Rx) -EF操作的反应性“热”可观察物.
   * [Npgsql.EntityFrameworkCore.PostgreSQL](https://github.com/npgsql/Npgsql.EntityFrameworkCore.PostgreSQL) -PostgreSQL的实体框架核心提供程序.
   * [EntityFramework.PrimaryKey](https://github.com/NickStrupat/EntityFramework.PrimaryKey) -轻松获取任何实体的主键（包括组合键）.
-  * [EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) -获取实体原始值的代理对象（对Property（“ ...”）.OriginalValue进行类型化访问）.
+  * [EntityFramework.TypedOriginalValues](https://github.com/NickStrupat/EntityFramework.TypedOriginalValues) -获取实体原始值的代理对象（对Property（“ ...”）.OriginalValue的类型化访问）.
   * [EntityFramework.VersionedProperties](https://github.com/NickStrupat/EntityFramework.VersionedProperties) -自动保留对指定属性所做更改的审核历史记录的类.
   * [LINQKit](https://github.com/scottksmith95/LINQKit) -LINQ对SQL和Entity Framework高级用户的一组免费扩展.
   * [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) -在mysql-net / MySqlConnector之上构建的MySql实体框架核心提供程序.
@@ -619,7 +620,7 @@
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) -帮助读取和写入CSV文件的库.
 * [Edi.Net](https://github.com/indice-co/EDI.Net)  -EDI序列化器/反序列化器.  支持EDIFact，X12和TRADACOMS格式.
 * [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer) -用于.NET的扩展Xml序列化器.
-* [Jil](https://github.com/kevin-montrose/Jil) -建立在Sigil上的快速.NET JSON（De）Serializer.
+* [Jil](https://github.com/kevin-montrose/Jil) - Fast .NET JSON (De)Serializer, Built On Sigil.
 * MessagePack 
   * [msgpack-cli](https://github.com/msgpack/msgpack-cli) -公共语言基础结构的MessagePack实现/ [msgpack.org](http://msgpack.org).
   * [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).
@@ -760,7 +761,7 @@
   * [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) -ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
   * [aspnet-servicediscovery-patterns](https://github.com/cecilphillip/aspnet-servicediscovery-patterns) -使用ASP.NET Core实现服务发现模式的示例.
   * [AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) -讨论ASP.NET Core授权中各种新内容的研讨会
-  * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 在2016年12月的Connect大会上发表了一系列面向企业用户和消费者（骑车者）的交互应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
+  * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 在2016年12月的Connect大会上发表了一系列面向企业用户和消费者（骑自行车的人）的交互应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
  [Azure Bot App](https://github.com/Microsoft/BikeSharing360_BotApps).
   * [cloudscribe](https://github.com/cloudscribe/cloudscribe) -ASP.NET Core多租户Web应用程序基础.
   * [CoreCodeCamp](https://github.com/shawnwildermuth/CoreCodeCamp) -一个开放源代码网站，用于运行小型本地开发活动.

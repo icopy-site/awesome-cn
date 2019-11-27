@@ -133,7 +133,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) -Google Cloud Platform插件.
 * [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) -Hetzner Cloud插件.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) -管理healthchecks.io资源的提供者.
-* [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) -头盔插件.
+* [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) - Plugin for Helm.
 * [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) -提供程序来管理您的设置 [Keycloak](https://www.keycloak.org/) 身份提供商服务器.
 * [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) -Kubernetes的插件.
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) -Linode插件.
@@ -199,6 +199,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [tfmask](https://github.com/cloudposse/tfmask) -Terraform实用程序，可屏蔽“ terraform plan”和“ terraform apply”中的选择输出
 * [tfscaffold](https://github.com/tfutils/tfscaffold) -用于控制多环境多组件地形管理的AWS基础架构的框架.
 * [tfschema](https://github.com/minamijoyo/tfschema) -Terraform提供程序的架构检查器.
+* [tfupdate](https://github.com/minamijoyo/tfupdate) -更新Terraform配置中的版本限制.
 * [tfwrapper](https://github.com/manheim/tfwrapper) -Rubygem提供耙任务，以合理地运行Hashicorp Terraform.
 * [tgf](https://github.com/coveo/tgf) -Terragrunt前端，用于通过Docker执行Terragrunt / Terraform.
 * [xterrafile](https://github.com/devopsmakers/xterrafile) 从模块注册表，git或本地目录中系统地管理外部模块，以在Terraform中使用（用Go编写）.
@@ -217,7 +218,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Talks
 
-* [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY) -演示Terraform如何通过使用托管的PostgreSQL在AWS中部署TeamCity来实现基础设施即代码的实践.
+* [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY) -演示Terraform如何通过使用托管PostgreSQL在AWS中部署TeamCity来实现将基础架构作为代码的实践.
 * [Creating a Google Compute Instance with Terraform](https://www.youtube.com/watch?v=fo3VX33Zx0c) -使用Terraform代码创建Google Compute实例的示例.
 * [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) -通过本演练了解如何为Terraform提供商做出贡献或创建自己的提供商.
 * [Evolving Your Infrastructure with Terraform](https://www.youtube.com/watch?v=wgzgVm7Sqlk) -OpenCredo的CTO借助一些有趣的用例，全面了解了在现实世界中使用Terraform的情况.
@@ -251,4 +252,4 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, Shuaib Yunus has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内，Shuaib Yunus放弃了该作品的所有版权以及相关或邻近的权利.

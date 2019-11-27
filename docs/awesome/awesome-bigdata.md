@@ -17,7 +17,7 @@
 
 ## Frameworks
 
-* [Bistro](https://github.com/asavinov/bistro)  -用于批处理和流分析的通用数据处理引擎.  它基于一种新颖的数据模型，该模型通过*函数*表示数据，并通过*列操作*处理数据，这与传统方法（如MapReduce或SQL）中仅具有设置操作相反.
+* [Bistro](https://github.com/asavinov/bistro)  -用于批处理和流分析的通用数据处理引擎.  它基于一种新颖的数据模型，与通过MapReduce或SQL等传统方法仅设置操作相反，该模型通过*函数*表示数据，并通过*列操作*处理数据.
 * [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  -分布式处理和实时分析的平台.  与大数据生态系统中的许多流行技术（Kafka，HDFS，Spark等）集成
 * [Apache Hadoop](http://hadoop.apache.org/)  -分布式处理的框架.  集成MapReduce（并行处理），YARN（作业调度）和HDFS（分布式文件系统）.
 * [Tigon](https://github.com/caskdata/tigon) -高吞吐量实时流处理框架.
@@ -96,7 +96,7 @@
 * [Quantcast File System QFS](https://www.quantcast.com/about-us/quantcast-file-system/) -开源分布式文件系统.
 * [Red Hat GlusterFS](http://gluster.org/) -横向扩展网络附加存储文件系统.
 * [Seaweed-FS](https://github.com/chrislusf/seaweedfs) -简单且高度可扩展的分布式文件系统.
-* [Alluxio](http://www.alluxio.org/) -在群集框架之间以内存速度可靠地共享文件.
+* [Alluxio](http://www.alluxio.org/) -在整个群集框架之间以内存速度可靠地共享文件.
 * [Tahoe-LAFS](https://www.tahoe-lafs.org/trac/tahoe-lafs) -分散式云存储系统.
 * [Baidu File System](https://github.com/baidu/bfs) -分布式文件系统.
 
@@ -109,7 +109,7 @@
 * [Actian Versant](https://www.actian.com/data-management/ingres-sql-rdbms/) -商业面向对象的数据库管理系统.
 * [Crate Data](https://crate.io/)  -是开源的大规模可扩展数据存储.  它需要零管理.
 * [Facebook Apollo](http://www.infoq.com/news/2014/06/facebook-apollo) -Facebook的类似Paxos的NoSQL数据库.
-* [jumboDB](http://comsysto.github.io/jumbodb/) -通过Hadoop面向文档的数据存储.
+* [jumboDB](http://comsysto.github.io/jumbodb/) - document oriented datastore over Hadoop.
 * [LinkedIn Espresso](https://engineering.linkedin.com/data) -水平可扩展的面向文档的NoSQL数据存储.
 * [MarkLogic](http://www.marklogic.com/) -与模式无关的企业NoSQL数据库技术.
 * [Microsoft Azure DocumentDB](https://azure.microsoft.com/en-us/services/cosmos-db/) -带有对MongoDB的协议支持的NoSQL云数据库服务 
@@ -163,7 +163,7 @@
 * [Riak](https://github.com/basho/riak) -分散的数据存储.
 * [Storehaus](https://github.com/twitter/storehaus) -通过Twitter与异步键值存储一起使用的库.
 * [SummitDB](https://github.com/tidwall/summitdb) -内存中的NoSQL键/值数据库，具有磁盘持久性并使用Raft共识算法.
-* [Tarantool](https://github.com/tarantool/tarantool) -高效的NoSQL数据库和Lua应用程序服务器.
+* [Tarantool](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 * [TiKV](https://github.com/pingcap/tikv) -由Rust提供动力并受Google Spanner和HBase启发的分布式键值数据库.
 * [Tile38](https://github.com/tidwall/tile38) -地理位置数据存储，空间索引和实时地理围栏，支持多种对象类型，包括纬度/经度点，边界框，XYZ磁贴，地理哈希和GeoJSON
 * [TreodeDB](https://github.com/Treode/store) -键值存储，已复制和分片，并提供原子多行写入.
@@ -181,7 +181,7 @@
 * [GCHQ Gaffer](https://github.com/gchq/Gaffer) -GCHQ的Gaffer是一个框架，可以轻松存储其中节点和边具有统计信息的大规模图形.
 * [Google Cayley](https://github.com/cayleygraph/cayley) -开源图形数据库.
 * [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) -图形处理框架.
-* [GraphLab PowerGraph](https://turi.com/products/create/docs/) -核心C ++ GraphLab API和在GraphLab API之上构建的高性能机器学习和数据挖掘工具包的集合.
+* [GraphLab PowerGraph](https://turi.com/products/create/docs/) -核心C ++ GraphLab API以及在GraphLab API之上构建的高性能机器学习和数据挖掘工具箱的集合.
 * [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) -Spark上的弹性分布式图系统.
 * [Gremlin](https://github.com/tinkerpop/gremlin) -图形遍历语言.
 * [Infovore](https://github.com/paulhoule/infovore) -以RDF为中心的Map / Reduce框架.
@@ -212,7 +212,7 @@
 * [Parquet](http://parquet.apache.org/) -Hadoop的列式存储格式.
 * [Pivotal Greenplum](https://pivotal.io/pivotal-greenplum) -专用的专用分析数据仓库，提供了列式引擎以及传统的基于行的引擎.
 * [Vertica](https://www.vertica.com/) -用于管理大量，快速增长的数据，并在用于数据仓库时提供非常快的查询性能.
-* [SQream DB](http://sqream.com/) -由GPU驱动的大数据数据库，专为分析和数据仓库而设计，具有符合ANSI-92的SQL，适用于10TB至1PB的数据集.
+* [SQream DB](http://sqream.com/) -由GPU驱动的大数据数据库，专为分析和数据仓库而设计，具有符合ANSI-92的SQL，适用于从10TB到1PB的数据集.
 * [Google BigQuery](https://cloud.google.com/bigquery/what-is-bigquery) -Google在Dremel上的开拓性工作为后盾的云产品.
 * [Amazon Redshift](https://aws.amazon.com/redshift/) -亚马逊的云产品，也基于列式数据存储后端.
 * [IndexR](https://github.com/shunfei/indexr) -一种开源的列式存储格式，用于大数据的快速实时分析.
@@ -237,12 +237,12 @@
 * [HandlerSocket](https://www.percona.com/doc/percona-server/5.5/performance/handlersocket.html) -适用于MySQL / MariaDB的NoSQL插件.
 * [InfiniSQL](http://www.infinisql.org/) -无限可扩展的RDBMS.
 * [Map-D](https://www.mapd.com/) -GPU内存数据库，大数据分析和可视化平台.
-* [MemSQL](http://www.memsql.com/) -内存中的SQL数据库，具有优化的Flash列存储.
+* [MemSQL](http://www.memsql.com/) -内存中的SQL数据库，具有优化的Flash列式存储.
 * [NuoDB](http://www.nuodb.com/) -符合SQL / ACID的分布式数据库.
 * [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) -具有持久性和可恢复性的内存中关系数据库管理系统.
 * [Pivotal GemFire XD](http://gemfirexd.docs.pivotal.io/latest/)  -低延迟，内存中的分布式SQL数据存储.  提供内存中表数据的SQL接口，可持久存储在HDFS中.
 * [SAP HANA](https://hana.sap.com/abouthana.html) -是一个内存，面向列的关系数据库管理系统.
-* [SenseiDB](http://senseidb.github.io/sensei/) - distributed, realtime, semi-structured database.
+* [SenseiDB](http://senseidb.github.io/sensei/) -分布式，实时，半结构化数据库.
 * [Sky](http://skydb.io/) -用于对行为数据进行灵活，高性能分析的数据库.
 * [SymmetricDS](http://www.symmetricds.org/) -用于文件和数据库同步的开源软件.
 * [TiDB](https://github.com/pingcap/tidb)  -TiDB是分布式SQL数据库.  受到Google F1设计的启发.
@@ -251,13 +251,13 @@
 ## Time-Series Databases
 
 * [Axibase Time Series Database](http://axibase.com/products/axibase-time-series-database/) -在HBase之上的集成时间序列数据库，具有内置的可视化，规则引擎和SQL支持.
-* [Chronix](http://chronix.io/) -时间序列存储，用于存储高度压缩的时间序列和快速访问时间.
+* [Chronix](http://chronix.io/) - a time series storage built to store time series highly compressed and for fast access times.
 * [Cube](http://square.github.io/cube/) -使用MongoDB存储时间序列数据.
 * [Heroic](https://spotify.github.io/heroic/#!/index) -是基于Cassandra和Elasticsearch的可伸缩时间序列数据库.
 * [InfluxDB](https://www.influxdata.com/) -分布式时间序列数据库.
 * [IronDB](https://www.circonus.com/irondb/) -可扩展的通用时间序列数据库.
 * [Kairosdb](https://github.com/kairosdb/kairosdb) -与OpenTSDB相似，但允许使用Cassandra.
-* [M3DB](http://m3db.github.io/m3/m3db/) - a distributed time series database that can be used for storing realtime metrics at long retention.
+* [M3DB](http://m3db.github.io/m3/m3db/) -分布式时间序列数据库，可用于长时间保留实时度量.
 * [Newts](https://opennms.github.io/newts/) -基于Apache Cassandra的时间序列数据库.
 * [OpenTSDB](http://opentsdb.net) -在HBase之上的分布式时间序列数据库.
 * [Prometheus](https://prometheus.io/) -时间序列数据库和服务监视系统.
@@ -278,7 +278,7 @@
 
 * [Actian SQL for Hadoop](http://www.actian.com/analytic-database/vectorh-sql-hadoop) -对所有Hadoop数据的高性能交互式SQL访问.
 * [Apache Drill](http://drill.apache.org/) -互动分析的框架，受到Dremel的启发.
-* [Apache HCatalog](https://cwiki.apache.org/confluence/display/HCATALOG/Index) -Hadoop的表和存储管理层.
+* [Apache HCatalog](https://cwiki.apache.org/confluence/display/Hive/HCatalog) -Hadoop的表和存储管理层.
 * [Apache Hive](http://hive.apache.org/) -用于Hadoop的类似SQL的数据仓库系统.
 * [Apache Calcite](http://calcite.apache.org/) -允许有效翻译涉及异构数据和联合数据的查询的框架.
 * [Apache Phoenix](http://phoenix.apache.org/index.html) -HBase上的SQL外观.
@@ -365,7 +365,7 @@
 * [Azure ML Studio](https://studio.azureml.net/) -基于云的AzureML，R，Python机器学习平台
 * [brain](https://github.com/harthur/brain) -JavaScript中的神经网络.
 * [Cloudera Oryx](https://github.com/cloudera/oryx) -实时大规模机器学习.
-* [Concurrent Pattern](http://www.cascading.org/projects/pattern/) -用于级联的机器学习库.
+* [Concurrent Pattern](http://www.cascading.org/projects/pattern/) - machine learning library for Cascading.
 * [convnetjs](https://github.com/karpathy/convnetjs)  -使用Java进行深度学习.  在浏览器中训练卷积神经网络（或普通的）.
 * [DataVec](https://github.com/deeplearning4j/DataVec)  -用于Java和Scala中的深度学习的矢量化和数据预处理库.  Deeplearning4j生态系统的一部分. 
 * [Deeplearning4j](https://github.com/deeplearning4j)  -JVM（Java，Scala，Clojure）的快速，开放式深度学习.  由C ++库提供支持的神经网络配置层.  使用Spark和Hadoop在多个GPU和CPU上训练网络.
@@ -376,14 +376,15 @@
 * [Feast](https://github.com/gojek/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
 * [GraphLab Create](https://dato.com/products/create/) -Python中的机器学习平台，其中包含大量ML工具包，数据工程和部署工具.
 * [H2O](https://github.com/h2oai/h2o-3/)  -使用Hadoop进行统计，机器学习和数学运行时.  R和Python.
-* [Keras](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
+* [Keras](https://github.com/fchollet/keras) -受Torch启发的直观神经网络API，在Theano和Tensorflow之上运行.
 * [Lambdo](https://github.com/asavinov/lambdo) 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）通过用户定义的（Python）函数进行表填充和列评估相结合，大大简化了数据处理和分析.
 * [Mahout](http://mahout.apache.org/) -Apache支持的Hadoop机器学习库.
 * [MLbase](http://www.mlbase.org/) -用于BDAS堆栈的分布式机器学习库.
 * [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet) -适用于iOS和Mac OS X的快速多层感知器神经网络库.
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) -专用于机器学习和数据科学的基于Web的多合一IDE.
 * [MOA](http://moa.cms.waikato.ac.nz) -MOA实时执行大数据流挖掘，并进行大规模机器学习.
 * [MonkeyLearn](https://monkeylearn.com/)  -文本挖掘变得容易.  从文本中提取和分类数据.
-* [ND4J](https://github.com/deeplearning4j/nd4j) - A matrix library for the JVM. Numpy for Java. 
+* [ND4J](https://github.com/deeplearning4j/nd4j)  -JVM的矩阵库.  Numpy for Java. 
 * [nupic](https://github.com/numenta/nupic) -Numenta智能计算平台：一个受大脑启发的机器智能平台，以及基于皮层学习算法的生物精确的神经网络.
 * [PredictionIO](http://predictionio.incubator.apache.org/index.html) -Hadoop，Mahout和Cascading上的机器学习服务器.
 * [RL4J](https://github.com/deeplearning4j/rl4j)  -Java和Scala的强化学习.  包括Deep-Q学习和A3C算法，并与Open AI的Gym集成.  在Deeplearning4j生态系统中运行. 
@@ -396,7 +397,7 @@
 * [Torch](https://github.com/torch) -带有Lua API的深度学习库，由纽约大学和Facebook支持.
 * [Velox](https://github.com/amplab/velox-modelserver) -服务机器学习预测的系统.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) -由Microsoft和Yahoo!赞助的学习系统.
-* [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
+* [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) -机器学习软件套件.
 * [BidMach](https://github.com/BIDData/BIDMach) -CPU和GPU加速的机器学习库.
 
 ## Benchmarking
@@ -454,6 +455,7 @@
 * [HIPI Library](http://hipi.cs.virginia.edu/) -用于在Hadoop的MapReduce上执行图像处理任务的API.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) -Hadoop的Splunk分析.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) -确实是大型分析平台.
+* [Indicative](https://www.indicative.com/) -具有数据仓库（AWS，BigQuery）集成的Web和移动分析工具.
 * [Jupyter](https://jupyter.org/) -用于所有编程语言的交互式数据科学和科学计算的笔记本和项目应用程序.
 * [MADlib](http://madlib.incubator.apache.org/community/) -RDBMS的数据处理库，用于分析数据.
 * [Kapacitor](https://github.com/influxdata/kapacitor) -用于处理，监视和预警时间序列数据的开源框架.
@@ -489,6 +491,8 @@
 * [MG4J](http://mg4j.di.unimi.it/)  -MG4J（用于Java的千兆字节管理）是用于以Java编写的大型文档集合的全文本搜索引擎.  它是高度可定制的，高性能的，并提供最新功能和新的研究算法.
 * [Sphinx Search Server](http://sphinxsearch.com/) -全文搜索引擎.
 * [Vespa](http://vespa.ai/)  -是用于对大型数据集进行低延迟计算的引擎.  它存储和索引您的数据，以便可以在服务时执行对数据的查询，选择和处理.
+* [Facebook Faiss](https://github.com/facebookresearch/faiss)  -是用于高效相似性搜索和密集矢量聚类的库.  它包含可搜索任意大小的向量集的算法，最多可搜索不适合RAM的向量.  它还包含用于评估和参数调整的支持代码.  Faiss用C ++编写，带有完整的Python / numpy包装器.
+* [Annoy](https://github.com/spotify/annoy)  -是具有Python绑定的C ++库，用于搜索空间中与给定查询点接近的点.  它还会创建大型的基于文件的只读数据结构，这些数据结构被映射到内存中，以便许多进程可以共享相同的数据.
 
 ## MySQL forks and evolutions
 
@@ -533,24 +537,25 @@
 ## Business Intelligence
 
 * [BIME Analytics](https://www.bimeanalytics.com/?lang=en) -云中的商业智能平台.
-* [Blazer](https://github.com/ankane/blazer) - business intelligence made simple.
+* [Blazer](https://github.com/ankane/blazer) -商业智能变得简单.
 * [Chartio](https://chartio.com) -精益的商业智能平台，以可视化和探索您的数据.
 * [datapine](https://www.datapine.com/) -云中的自助式商业智能工具.
 * [GoodData](https://www.gooddata.com/) -数据产品和嵌入式分析平台.
 * [Jaspersoft](https://www.jaspersoft.com/) -强大的商务智能套件.
 * [Jedox Palo](https://www.jedox.com/en/) -可定制的商业智能平台.
 * [Jethrodata](https://jethro.io/) -交互式大数据分析.
+* [intermix.io](https://intermix.io/) -Amazon Redshift的性能监控
 * [Metabase](https://github.com/metabase/metabase) -向公司中的每个人提供商业智能和分析的最简单，最快的方法.
 * [Microsoft](http://www.microsoft.com/en-us/server-cloud/solutions/business-intelligence/default.aspx) -商业智能软件和平台.
 * [Microstrategy](https://www.microstrategy.com/) -商业智能，移动智能和网络应用程序的软件平台.
 * [Numeracy](https://numeracy.co/) -快速，干净的SQL客户端和商业智能.
-* [Pentaho](http://www.pentaho.com/) -商业智能平台.
+* [Pentaho](http://www.pentaho.com/) - business intelligence platform.
 * [Qlik](http://www.qlik.com/us/) -商业智能和分析平台.
 * [Redash](https://redash.io/) -开源商业智能平台，支持多个数据源和计划的查询.
 * [Saiku](http://www.meteorite.bi/) -开源分析平台.
-* [SpagoBI](http://www.spagobi.org/) -开源商业智能平台.
+* [Knowage](https://www.knowage-suite.com/)  -开源商业智能平台.  （前任 [SpagoBi](http://www.spagobi.org/))
 * [SparklineData SNAP](http://sparklinedata.com/) -由Apache Spark支持的现代BI平台.
-* [Tableau](https://www.tableau.com/) -商业智能平台.
+* [Tableau](https://www.tableau.com/) - business intelligence platform.
 * [Zoomdata](https://www.zoomdata.com/) -大数据分析.
 
 
@@ -560,8 +565,8 @@
 * [AnyChart](http://www.anychart.com) -具有纯JS API的快速，简单和灵活的JavaScript（HTML5）图表库.
 * [Arbor](https://github.com/samizdatco/arbor) -使用Web Worker和jQuery的图形可视化库.
 * [Banana](https://github.com/LucidWorks/banana)  -可视化存储在Solr中的日志和带时间戳的数据.  基巴纳港口.
-* [Bloomery](https://github.com/ufukomer/bloomery) -Impala的Web UI.
-* [Bokeh](http://bokeh.pydata.org/en/latest/) -一个功能强大的Python交互式可视化库，该库针对现代Web浏览器进行演示，目标是以D3.js样式优雅，简洁地构造新颖的图形，同时还可以通过超大型或流式传输提供高性能的交互性数据集.
+* [Bloomery](https://github.com/ufukomer/bloomery) - Web UI for Impala.
+* [Bokeh](http://bokeh.pydata.org/en/latest/) -一个功能强大的Python交互式可视化库，该库针对现代Web浏览器进行演示，目标是以D3.js样式优雅，简洁地构造新颖的图形，同时还可以通过超大型或流式传输提供此功能以及高性能的交互性数据集.
 * [C3](http://c3js.org/) -基于D3的可重用图表库
 * [CartoDB](https://github.com/CartoDB/cartodb) -具有强大的前端编辑功能和强大的API的地理空间数据库的开源或免费增值托管.
 * [chartd](http://chartd.co/) -仅包含img标签的自适应视网膜兼容图表.
@@ -606,8 +611,8 @@
 
 
 ## Internet of things and sensor data
-* [Apache Edgent (Incubating)](http://edgent.apache.org/) -可以嵌入到网关和占地面积小的边缘设备中的编程模型和微内核样式运行时，可以在边缘设备上进行本地实时分析.
-* [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) -基于云的双向监视和消息传递中心
+* [Apache Edgent (Incubating)](http://edgent.apache.org/) -可以嵌入到网关和占用空间小的边缘设备中的编程模型和微内核样式运行时，可以在边缘设备上进行本地，实时分析.
+* [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Cloud-based bi-directional monitoring and messaging hub
 * [TempoIQ](https://www.tempoiq.com/) -基于云的传感器分析.
 * [2lemetry](http://2lemetry.com/) -物联网平台.
 * [Pubnub](https://www.pubnub.com/) -数据流网络
@@ -661,6 +666,7 @@ Twitter上的数据分析.
 ## Videos
 
 * [Spark in Motion](https://www.manning.com/livevideo/spark-in-motion) -Spark in Motion教您如何使用Spark进行批处理和流数据分析.
+* [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) -包含机器学习，Tensorflow，人工智能和神经网络的LiveVideo教程.
 
 ## Books
 

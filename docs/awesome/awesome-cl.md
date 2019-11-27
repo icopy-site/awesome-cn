@@ -101,6 +101,8 @@ Cryptocurrencies
 Database
 ========
 
+* [cl-yesql](https://github.com/ruricolist/cl-yesql)  -SQL语句以SQL语法存在于自己的文件中，并作为函数导入到Lisp中.  您不仅限于DSL支持的功能.  基于Clojure的Yesql.  [MIT] [200].
+
 ORMs
 ----
 
@@ -228,7 +230,7 @@ Graphics
 * [cl-cairo2](https://github.com/rpav/cl-cairo2)  -开罗装订.  [提升1.0] [54]
 * [cl-gd](http://weitz.de/cl-gd/)  -提供GD图形库接口的库.  [FreeBSD] [39].
 * [cl-horde3d](https://github.com/anwyn/cl-horde3d/)  -将FFI绑定到Horde3D图形库.  在Quicklisp上不可用.  [EPL 1.0] [59]
-* [cl-opengl](https://github.com/3b/cl-opengl) - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD][15].
+* [cl-opengl](https://github.com/3b/cl-opengl)  -CFFI绑定到OpenGL，GLU和GLUT API.  [3子BSD] [15].
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
@@ -587,7 +589,7 @@ Web框架
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，而HTTP条件仅是Lisp条件.  [LLGPL] [8].
-* [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录的记录，缓存，权限或身份验证，通过Swagger进行文档记录等.[MIT] [200].
+* [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录，缓存，权限或身份验证的注释，通过Swagger的文档等功能.[MIT] [200].
 * [Weblocks](https://github.com/40ants/weblocks)  -基于窗口小部件的框架，具有内置的ajax更新机制，可“解决JavaScript问题”.  [LLGPL] [8].
 
  有更多的项目，或多或少地中止了但很有趣.  请参阅其他资源.
@@ -735,7 +737,7 @@ Others
 数值科学
 ========================
 
-* [numcl](https://github.com/numcl/numcl)  -Common Lisp中的Numpy复制.  [LGPL3] [9].
+* [numcl](https://github.com/numcl/numcl)  -Common Lisp中的Numpy克隆.  [LGPL3] [9].
 * [magicl](https://github.com/rigetticomputing/magicl)  -Rigetti Computing开发的基于BLAS / LAPACK和Expokit的Common Lisp中的矩阵代数程序.  [BSD_3Clause] [15].
 * [cl-spark](https://github.com/tkych/cl-spark)  -为数字列表生成迷你图字符串.  [Expat] [14].
 * [GSLL](https://common-lisp.net/project/gsll/)  -GNU Lisp科学图书馆；  允许使用Common Lisp提供的GSL.  [GNU LGPL2.1] [11].
@@ -1136,7 +1138,7 @@ Other
 XML
 ===
 
-* [CXML](https://common-lisp.net/project/cxml/)  -XML解析器，带有一系列扩展库.  [LLGPL] [8].
+* [CXML](https://common-lisp.net/project/cxml/) - XML parser, with a range of extension libraries. [LLGPL][8].
  * [Plump] [71]-一个宽松的XML解析器.  [Artistic License 2.0] [51].
 * [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)  -XML路径语言（XPath）1.0版的实现.  [BSD_2Clause] [17].
 * [s-xml](http://cliki.net/S-XML)  -基本解析器.  [LLGPL] [8].

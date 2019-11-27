@@ -120,6 +120,7 @@
   *“成为开源维护者的感觉”（[post](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/))
 * [@pgbovine](https://github.com/pgbovine), [Python Tutor](https://github.com/pgbovine/OnlinePythonTutor)
   *“ Python导师软件开发哲学”（[video](https://www.youtube.com/watch?v=sVtXLdBRfyE))
+  *“十年来，接近一千万的用户：我是学术界开源软件的单独维护者的经验”（[post](http://pgbovine.net/python-tutor-ten-years.htm))
 * [@Schneems](https://github.com/Schneems), [Sprockets](https://github.com/rails/sprockets), [CodeTriage](https://www.codetriage.com)
   *“保存链轮-维修人员离开时会发生什么”（[video](https://www.youtube.com/watch?v=qxaE8yblHPk), [post with transcript](https://www.schneems.com/2016/05/31/saving-sprockets.html))
 * [@sebmck](https://github.com/sebmck), [Babel](https://github.com/babel/babel)

@@ -167,7 +167,7 @@
 ### Command-line apps
 
 - [ember-cli-create](https://github.com/gossi/ember-cli-create) -CLI向导创建一个新的余烬项目.
-- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清楚我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认启用的功能.  它仅适用于应用程序，不能与插件一起使用.
+- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认情况下将启用的功能.  它仅适用于应用程序，不能与插件一起使用.
 - [ember-cli-rename](https://github.com/trabus/ember-cli-rename) -ember-cli的插件，提供“ ember重命名”命令.
 
 ### Command-line utilities
@@ -337,6 +337,7 @@
 
 ### Helpers
 
+- [ember-element-helper](https://github.com/tildeio/ember-element-helper) -用于Glimmer模板的动态元素帮助器.
 - [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) -Ember.js中用于声明模板的可组合帮助器.
 - [ember-helpers](https://github.com/abcum/ember-helpers) -Ember.js的车把帮手集合.
 - [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) -用于构建可组合D3图表的Ember.js助手集合.

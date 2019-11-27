@@ -17,7 +17,7 @@
 - [Gaffer on Games](https://gafferongames.com/) -Glenn Fiedler的可靠UDP协议和游戏网络开发文章.
 - [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) -Matthew Walker的多人游戏服务器架构博客.
 - [High Performance Browser Networking](https://hpbn.co/) -Ilya Grigorik撰写的关于现代Web协议的出色的免费在线书籍.
-- [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
+- [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -Armin Ronacher对《战地风云3》多人射击机制的分析.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) -学术论文.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) -IT Hare团队的详细网络编程文章.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) -Keith Johnston简要介绍了NAT和P2P连接.
@@ -82,11 +82,12 @@
   - [Authoritative Networked Character Movement](https://wiki.unrealengine.com/Authoritative_Networked_Character_Movement) -实施联网运动功能的简介.
   - [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) -Epic Games的Wes Bunn提供的Blueprint多人游戏开发教程系列.
   - [Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) -（付费）Tom Looman撰写的C ++多人游戏开发教程系列.
+  - [Custom Struct Serialization For Networking](http://www.aclockworkberry.com/custom-struct-serialization-for-networking-in-unreal-engine/) -Giuseppe Portelli撰写的C ++教程文章.
   - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) -（付费）Sam Pattuzzi提供的C ++在线游戏开发教程系列.
   - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) -由Maik Hilfer提供的具有蒸汽支持的蓝图多人游戏教程.
 -团结
   - [Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) -使用MateriaGame的DarkRift2制作一个简单的网络弹力球.
-  - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) -AsbjørnThirslund提供的基于UNET的多人FPS游戏开发教程.
+  - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - UNET-based multiplayer FPS game development tutorials by Asbjørn Thirslund.
   - [Multiplayer and Networking](https://docs.unity3d.com/Manual/UNet.html) -Unity提供的基于UNET的官方多人游戏网络教程.
 
 ## Libraries

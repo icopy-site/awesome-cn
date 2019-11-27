@@ -19,7 +19,7 @@
 
  精选的优秀命令行框架，工具包，指南和小玩意的列表.  受到awesome-php的启发.  这个很棒的收藏也可以在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 -[** Awesome Zsh **] [awesome-zsh] [！[Awesome] [awesome-badge]] [awesome-zsh]
--[** Awesome Fish **] [awesome-fish] [！[Awesome] [awesome-badge]] [awesome-fish]
+- [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
 
 ## Shells
 
@@ -38,6 +38,7 @@
 * [tcsh](https://www.tcsh.org/) -具有文件名完成和命令行编辑功能的C Shell
 * [xiki](http://xiki.org) -使Shell控制台更加友好和强大
 * [xonsh](https://xon.sh) -类似于Python的BASHwards外观的Shell语言和命令提示符
+* [yash](https://yash.osdn.jp/) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
 * [zsh](http://www.zsh.org) -具有脚本语言的强大Shell
 
 ## Command-Line Productivity
@@ -66,10 +67,11 @@
 * [direnv](https://github.com/direnv/direnv) -Shell的环境切换器，与autoenv比较
 * [dnote](https://github.com/dnote/dnote) -开发人员使用的简单的端到端加密笔记本
 * [enhancd](https://github.com/b4b4r07/enhancd) -：rocket：具有交互式过滤器的下一代cd命令
-* [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
+* [fasd](https://github.com/clvv/fasd) -命令行生产力提升器，可快速访问文件和目录
 * [fd](https://github.com/sharkdp/fd) -一种简单，快速且用户友好的替代方法.
 * [foxy](https://github.com/s-p-k/foxy) -用于Firefox和冲浪浏览器的纯文本书签.
 * [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的查询查找文件.
+* [funky](https://github.com/bbugyi200/funky) -扩展外壳函数的功能，使其更强大，更灵活.
 * [fz](https://github.com/changyuheng/fz) -z的无缝模糊制表符完成
 * [fzf](https://github.com/junegunn/fzf) -命令行模糊查找器
 * [googler](https://github.com/jarun/googler) -终端上的Google搜索，Google站点搜索，Google新闻
@@ -77,6 +79,7 @@
 * [goto](https://github.com/iridakos/goto) -用于导航到支持自动完成的别名目录的Shell实用程序
 * [has](https://github.com/kdabir/has) -`has&#39;可帮助您检查路径中是否存在各种命令行工具及其版本
 * [how2](https://github.com/santinic/how2)  -`how2`找到在UNIX shell中做某事的最简单方法.  就像`man`，但是您可以用自然语言查询它.
+* [navi](https://github.com/denisidoro/navi) -命令行的交互式备忘单工具
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) -在命令输出中为单词着色
 * [hr](https://github.com/LuRsT/hr)  -` <hr />  为您的终端
 * [hss](https://github.com/six-ddc/hss) -具有自动完成和异步执行功能的交互式并行ssh客户端
@@ -116,7 +119,7 @@
 * [sudocabulary](https://github.com/badarsh2/Sudocabulary) -从您的终端学习英语词汇
 * [surfraw](https://gitlab.com/surfraw/Surfraw) -浏览特定站点并从没有浏览器的终端搜索网络.
 * [task-manager](https://github.com/lingtalfi/task-manager) -仅需执行两次或三个击键即可执行所有脚本.
-* [td-cli](https://github.com/darrikonn/td-cli) -一个待办事项命令行管理器，可以跨多个项目组织和管理您的待办事项.
+* [td-cli](https://github.com/darrikonn/td-cli) - A todo command line manager to organize and manage your todos across multiple projects.
 * [thefuck](https://github.com/nvbn/thefuck) -使用易于记忆的命令修复常见的Shell错误
 * [tldr](https://github.com/raylee/tldr) -用于tldr，简化和社区驱动的手册页的全功能bash客户端
 * [tmux](http://tmux.github.io/) -惊人的终端多路复用器
@@ -130,7 +133,7 @@
 
 ## Customization
 
-*Custom prompts, color themes, etc.*
+*自定义提示，颜色主题等*
 
 * [base16-builder](https://github.com/base16-builder/base16-builder) -Base16-Builder
 * [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) -屏幕，tmux，git支持等功能强大的提示
@@ -236,6 +239,7 @@
 * [Android-Kitchen](https://github.com/dsixda/Android-Kitchen)  -用于Android ROM定制的基于文本的厨房.  使用Shell脚本并与Cygwin / OS X / Linux一起使用
 * [Beets](https://github.com/beetbox/beets) -音乐库经理和MusicBrainz标记器
 * [cmus](https://github.com/cmus/cmus) -跨平台的cli音频播放器.
+* [fx](https://github.com/antonmedv/fx) -Anononymus JavaScript函数提供的命令行JSON处理工具
 * [gifgen](https://github.com/lukechilds/gifgen) -简单的高质量GIF编码
 * [image-scraper](https://github.com/sananth12/ImageScraper) -具有许多功能的超酷命令行图像抓取工具.
 * [imgp](https://github.com/jarun/imgp) -炽热的快速批处理图像缩放器和旋转器
@@ -248,7 +252,6 @@
 * [sejda](https://github.com/torakiki/sejda/) -PDF文档的命令行操作（拆分，合并，旋转，转换为jpg，提取文本等）
 * [xidel](https://github.com/benibela/xidel/) -Cli工具，用于（完整）XPath和XQuery来过滤，映射和创建HTML / XML / JSON数据.
 * [xmlstarlet](http://xmlstar.sourceforge.net/) -旧的但功能强大的工具，用于命令行XML格式，过滤和操作.
-* [fx](https://github.com/antonmedv/fx) -Anononymus JavaScript函数提供的命令行JSON处理工具
 
 ## Applications
 
@@ -263,7 +266,7 @@
 * [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行工具
 * [fanyi](https://github.com/afc163/fanyi) -在终端中将英语翻译成中文
 * [gcalcli](https://github.com/insanum/gcalcli) -Google日历命令行界面
-* [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
+* [geeknote](https://github.com/VitaliyRodnenko/geeknote) -命令行Evernote客户端
 * [haxor-news](https://github.com/donnemartin/haxor-news) -像黑客一样浏览黑客新闻
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) -在舒适的终端上浏览黑客新闻
 * [iponmap](https://github.com/nogizhopaboroda/iponmap) -使用IP地址在世界地图上绘制点

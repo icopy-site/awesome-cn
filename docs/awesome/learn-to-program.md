@@ -22,7 +22,7 @@
 *（HTML，CSS，JavaScript，SQL）*
 
 #### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
-**Commercial** platform for courses how to build websites & apps\
+用于课程的**商业**平台，如何构建网站和应用\
 *（网页设计，前端Web开发，Rails，iOS，Android，PHP）*
 
 #### [Learn CSS Layout](https://learnlayout.com/)
@@ -30,7 +30,7 @@
 *(CSS)*
 
 #### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
- 第三方提供商提供的“免费增值”课程市场.  质量可能会有所不同.\
+**Freemium** marketplace of courses from third party providers. Quality may vary.\
 *（HTML，CSS，JavaScript，Ruby，Rails，Python，iOS，Android）*
 
 #### [Code Avengers](https://www.codeavengers.com/)
@@ -147,17 +147,25 @@
 **针对初学者，中级和高级程度的免费**编程课程资料\
 *（Python，JavaScript，数据科学，人工智能，机器学习，AR和VR）*
 
+#### [Wes Bos](https://wesbos.com/courses/)
+**混合**指导视频课程，以使用新技术构建产品\
+*（JavaScript，CSS，React，Node.js，GraphQL，Redux）*
+ 
 ## Advanced
 
 #### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 麻省理工学院提供的有关高级计算机科学主题的**免费**课程\
 *（各种计算机科学主题，C，C ++等）*
 
-#### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
-**免费**平台，可提供来自全球顶级大学和组织的课程\
+#### [EDX](https://www.edx.org/course/subject/computer-science)
+哈佛，麻省理工学院和其他大学提供的**免费**课程\
 *（各种计算机科学学科，包括理论与编程，数据科学，算法等）*
 
-#### [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
+**免费**平台，适用于来自全球大学和组织的课程\
+*（各种计算机科学学科，包括理论与编程，数据科学，算法等）*
+
+#### [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 从互联网上搜寻到的**免费**大学水平课程.\
 *（各种各样和广泛的计算机科学主题，...）*
 

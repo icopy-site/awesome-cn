@@ -18,7 +18,7 @@
 
 ## In English
 
-* [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的互联网音频脱口秀节目.
+* [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的互联网音频脱口秀.
 * [/dev/hell](http://devhell.info/) 克里斯·哈特斯（Chris Hartjes）和埃德·芬克勒（Ed Finkler）被困在“发展地狱”中，他们主要谈论PHP，Web，他们的开发经验以及特别邀请来宾.
 * [Accidental Tech Podcast](http://atp.fm/) -三个书呆子讨论技术，苹果，编程和松散相关的问题.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) -妇女在科学，技术，工程和数学方面的成就.
@@ -66,7 +66,7 @@
 * [Elixir Mix](https://devchat.tv/elixir-mix/) -Elixir Mix是每周一次的节目，重点关注Elixir编程社区.
 * [Elixir Outlaws](https://elixiroutlaws.com) -关于Elixir开发及其周围主题的小组讨论.
 * [Embedded.fm](https://www.embedded.fm/) -讨论通常用于设备的工程的方式，原因和内容.
-* [Ember Weekend](https://emberweekend.com/episodes) -由乔恩（Jon）和蔡斯（Chase）主持的关于恩伯（Ember）的一周（末）播客.
+* [Ember Weekend](https://emberweekend.com/episodes) -由乔恩（Jon）和蔡斯（Chase）主持的关于恩伯（Ember）的一周（末期）播客.
 * [Entreprogrammers](http://entreprogrammers.com/)  -从4位发展商转变为企业家的过程中获得飞速发展的视野，因为他们与企业苦苦挣扎并以艰难的方式学习课程.  这是程序员的每周策划者组.
 * [FiveJS](https://www.pluralsight.com/codeschool) -JavaScript社区中的最新消息.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) -与来自自由软件/开源社区的杰出来宾进行访谈.
@@ -142,7 +142,7 @@
 * [Sound Of Symfony](https://www.soundofsymfony.com/) -非官方的Symfony播客.
 * [StarTalk Radio](https://www.startalkradio.net/?sfid=22493&post_types=show) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
 * [Sword & Laser](http://swordandlaser.com/) -Sword and Laser（S＆L）是一个以科幻小说和幻想为主题的读书俱乐部，视频节目和播客，由Veronica Belmont和Tom Merritt创立.
-* [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes)  -亚当·萨维奇（Adam Savage）与创作者，思想领袖和名人粉丝坐在一起，讨论改变了该类型宇宙的时刻，人物和里程碑.  所有科幻小说的怀旧庆祝活动.
+* [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes)  -亚当·萨维奇（Adam Savage）与创作者，思想领导者和名人粉丝坐下来，讨论改变了宇宙类型的时刻，人物和里程碑.  所有科幻小说的怀旧庆祝活动.
 * [Syntax FM](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 * [Sysadministrivia](https://sysadministrivia.com/) -Linux，更大的啤酒和深夜.
 * [Syscast Podcast](http://podcast.sysca.st/) -谈论Linux，开源，Web开发和系统管理（DevOps）.
@@ -157,7 +157,7 @@
 * [The Accidental Engineer](https://theaccidentalengineer.com/) -就工程师的职业生涯进行访谈
 * [The Agile Coffee Podcast](http://agilecoffee.com/) -AgileCoffee聚集了一群对敏捷方法论和精益实践充满热情的从业人员.
 * [The Amp Hour](https://theamphour.com/) -在一个小时（每周）的每周表演中讨论电子设计的世界.
-* [The Back to Front Show](https://backtofrontshow.com/)  -由网络行业资深人士Keir Whitaker和Kieran Masterton于2013年发起了Back to Front节目.  在前40集中，他们讨论了从网页设计和开发到初创公司和狗相关技术的所有问题.
+* [The Back to Front Show](https://backtofrontshow.com/)  -由网络行业资深人士Keir Whitaker和Kieran Masterton于2013年发起了Back to Front节目.  在前40集中，他们讨论了从网页设计和开发到初创公司和狗相关技术的所有内容.
 * [The Big Web Show](http://5by5.tv/bigwebshow) -重要的是网络.
 * [The Bike Shed](http://bikeshed.fm/) -在“自行车棚”上，主持人Derek Prior，Sean Griffin，Laila Winner和来宾讨论了他们在Ruby，Rails，JavaScript等方面的开发经验和挑战，以及本周引起人们注意，钦佩或不满的任何其他内容.
 * [The Changelog](https://changelog.com/podcast) -与软件开发的黑客，领导者和创新者进行对话.
@@ -167,7 +167,7 @@
 * [The Food Fight Show](http://foodfightshow.org/) -DevOps厨师参加战斗的播客
 * [The Hanselminutes podcast](https://hanselminutes.com/) -开发人员的新鲜空气.
 * [The Laravel Podcast](http://www.laravelpodcast.com) -Laravel播客带给您Laravel和PHP开发新闻和讨论.
-* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) -吉姆·哈利里（Jim Al-Khalili）教授与领先的科学家讨论了他们的生活和工作，找出了激发和激励他们的因素，并询问他们的发现可能为人类带来什么.
+* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) -吉姆·哈利里（Jim Al-Khalili）教授与领先的科学家讨论了他们的生活和工作，找出了激发和激励他们的因素，并询问他们的发现可能对人类产生什么影响.
 * [The Linux Action Show](https://www.jupiterbroadcasting.com/tag/linux-action-show/)  -关于Linux和开源的播客.  （已停产）
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) -Jeff Carouth和Matt Frost结合了他们数十年来作为Web开发人员的经验来谈论开发人员的生活.
 * [The Manifest](https://manifest.fm) -有关包管理的播客.
@@ -201,11 +201,12 @@
 * [DevDrops](https://anchor.fm/devdrops) -您的软件开发播客.
 * [DataHackers](https://datahackers.com.br/podcast) -每月播客，可让数据科学专业人士谈论就业市场，职业和新闻.
 * [DevNaEstrada](https://devnaestrada.com.br/) -每周Web开发播客，带有幽默感.
-* [Elemencast](https://elemencast.github.io) -建议将有关前端Universe，NodeJ，函数式编程等的内容带给侦听器.
+* [Elemencast](https://elemencast.github.io) -建议将有关前端Universe，NodeJ，函数式编程等的内容放给侦听器.
 * [FooCast](https://foocast.io/) -简短的播客，通常讨论开发.
 * [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) -四个老师，非常书呆子，很有趣，并且有很多故事要讲.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) -关于技术和开源/免费软件的播客
 * [Hipsters ponto Tech](https://hipsters.tech/) -关于启动，编程，UX，小工具和最新技术趋势的Caelum播客.
+* [Knowledge Cast](https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE?si=stsjeebMRQeH3ROpCeEYcw) -K21播客
 * [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) -Podcast da Lambda3
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) -采访领导力和企业家精神等问题.
 * [Like a Boss](https://www.likeaboss.com.br)  -Like Boss播客是企业家的播客.  成功的初创公司和公司的领导者和创始人与该计划的两位主持人坐在一起.
@@ -258,6 +259,7 @@
 * [GoLang Show](https://golangshow.com/) -关于Go语言的播客.
 * [DevOps Deflope](https://devopsdeflope.ru/) -关于DevOps的播客.
 * [HangOps.Ru](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA/feed) -在YouTube上播客+关于DevOps的现场直播.
+* [Podlodka](http://podlodka.io)  -关于软件开发的每周音频节目.  采访软件开发行业和其他相关领域的专业人员.
 
 ## In Persian
 
@@ -313,7 +315,7 @@
 * [Rebuild](http://rebuild.fm/)  -宫川达彦（Tatsuhiko Miyagawa）的播客.  谈论技术，软件开发和小工具.
 
 ## In Bahasa Indonesia
-* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  -关于如何成为开发人员的鼓舞人心的开发人员故事.
+* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  -有关如何开始成为开发人员的鼓舞人心的开发人员故事.
 * [Teh atau Kopi](https://tehataukopi.club/) -校外学习
 * [Developer Muslim](https://devmuslim.id/) -穆斯林开发者杂志
 * [Teman Macet](http://temanmacet.com/) -关于程序设计和信息学行业.

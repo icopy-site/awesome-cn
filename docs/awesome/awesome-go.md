@@ -109,6 +109,7 @@
 * [cli](https://github.com/teris-io/cli) -用于在Go中构建命令行界面的简单而完整的API.
 * [cli-init](https://github.com/tcnksm/gcli) -开始构建Golang命令行应用程序的简单方法.
 * [climax](http://github.com/tucnak/climax) -按照Go命令的精神，具有“人脸”功能的替代CLI.
+* [clîr](https://github.com/leaanthony/clir)  -简单明了的CLI库.  无依赖关系.
 * [cmdr](https://github.com/hedzr/cmdr) -POSIX / GNU样式，类似于getopt的命令行UI Go库.
 * [cobra](https://github.com/spf13/cobra) -用于现代Go CLI交互的指挥官.
 * [commandeer](https://github.com/jaffee/commandeer) -开发友好的CLI应用程序：根据结构字段和标签设置标志，默认值和用法.
@@ -875,7 +876,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [gomol](https://github.com/aphistic/gomol) -具有可扩展日志输出的Go的多输出，结构化日志.
 * [gone/log](https://github.com/One-com/gone/tree/master/log) -快速，可扩展，全功能，std-lib源兼容的日志库.
 * [journald](https://github.com/ssgreg/journald) -实施systemd Journal的本机API进行日志记录.
-* [log](https://github.com/aerogo/log) -O（1）日志记录系统，使您可以将一个日志连接到多个编写器（例如stdout，文件和TCP连接）.
+* [log](https://github.com/aerogo/log) -O（1）日志记录系统，使您可以将一个日志连接到多个写入器（例如，stdout，文件和TCP连接）.
 * [log](https://github.com/apex/log) -Go的结构化日志记录包.
 * [log](https://github.com/go-playground/log) -简单，可配置和可扩展的Go结构化日志记录.
 * [log](https://github.com/teris-io/log) -Go的结构化日志界面将日志记录外观与其实现完全分开.
@@ -1046,7 +1047,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [battery](https://github.com/distatus/battery) -跨平台的标准化电池信息库.
 * [bitio](https://github.com/icza/bitio) -高度优化的Go语言位读写器.
 * [browscap_go](https://github.com/digitalcrab/browscap_go) - 库GoLang [Browser Capabilities Project](http://browscap.org/).
-* [captcha](https://github.com/steambap/captcha) -验证码软件包为生成验证码提供了易于使用且不受质疑的API.
+* [captcha](https://github.com/steambap/captcha) -验证码软件包为生成验证码提供了一个易于使用且不受质疑的API.
 * [conv](https://github.com/cstockton/go-conv) -包转换功能可在Go类型之间提供快速直观的转换.
 * [datacounter](https://github.com/miolini/datacounter) -去读者/作家/http.ResponseWriter计数器.
 * [ffmt](https://github.com/go-ffmt/ffmt) -美化人类的数据显示.
@@ -1403,7 +1404,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [extemplate](https://github.com/dannyvankooten/extemplate) -围绕html / template的微型包装器，可轻松实现基于文件的模板继承.
 * [fasttemplate](https://github.com/valyala/fasttemplate)  -简单快速的模板引擎.  替换模板占位符的速度比原来快10倍 [text/template](http://golang.org/pkg/text/template/).
 * [gofpdf](https://github.com/jung-kurt/gofpdf) -PDF文档生成器，对文本，图形和图像提供高级支持.
-* [goview](https://github.com/foolin/goview) -Goview是基于golang html / template的轻量级，极简且惯用的模板库，用于构建Go Web应用程序.
+* [goview](https://github.com/foolin/goview) -Goview是一个基于golang html / template的轻量级，极简且惯用的模板库，用于构建Go Web应用程序.
 * [hero](https://github.com/shiyanhui/hero) -Hero是一款方便，快速且功能强大的go模板引擎.
 * [jet](https://github.com/CloudyKit/jet) -Jet模板引擎.
 * [kasia.go](https://github.com/ziutek/kasia.go) -HTML和其他文本文档的模板系统-实施.
