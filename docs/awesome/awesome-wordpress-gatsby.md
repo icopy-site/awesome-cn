@@ -95,6 +95,7 @@
 
 
 **WPGraphQL**
+- 2019.11: [Guide to Gatsby WordPress Starter Advanced with Previews, i18n and more](https://dev.to/nevernull/overview-guide-to-gatsby-wordpress-starter-advanced-with-previews-i18n-and-more-583l) -一个教程系列，从使用WPGraphQL进行WordPress和Gatsby的基本设置开始，然后深入研究更高级的主题，例如部署，预览，i18n和页面生成器，例如使用ACF flexible cotent字段进行设置.
 - 2019.08: [Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/) -教程展示了如何使用主题的高阶组件来简化WordPress帖子和自定义帖子类型的预览.
 - 2019.08: [Gatsby with WPGraphQL, ACF and Gatbsy-Image](https://dev.to/nevernull/gatsby-with-wpgraphql-acf-and-gatbsy-image-72m) -指南，显示了如何实现gatsby-image，因此可以将其用于WordPress媒体文件.
 
@@ -109,7 +110,9 @@
 ### Video Tutorials
 
 **WPGraphQL**
+- 2019.11: [30+ Videos - Gatsby + WordPress (2019) Complete Course](https://whatjackhasmade.co.uk/gatsby-wordpress-2019/)  -该系列重点介绍如何将WordPress用作具有GraphQL模式的无头CMS.  设置了WordPress网站和主题之后，我们将转到Gatsby上，以及如何使用新模式为Gatsby网站生成内容，以编程方式生成页面，将Gutenberg块转换为React组件并着重介绍本章.盖茨比的SEO.
 - 2019.07: [Gatsby + WordPress with WPGraphQL (with Jason Bahl) — Learn With Jason](https://www.youtube.com/watch?v=DH7I1xRrbxs) -在此流中，Jason Bahl讲授如何将WordPress与Advanced Custom Fields和WPGraphQL一起使用，以创建功能强大，灵活的管理仪表板，然后在Gatsby网站中查询和显示该数据.
+- 2019.07: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) -在此视频中，Alex Young（WPCasts）介绍了如何通过WPGraphQL和React获得简单的无头WordPress设置.
 - 2019.06: [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws) -在此视频中，您将学习如何使用名为WPGraphQL的超赞插件和GraphQL + Advanced Custom Fields等超酷工具，将GraphQL与WordPress结合使用.
 - 2019.04: [WPGraphQL for ACF](https://www.youtube.com/watch?v=rIg4MHc8elg) -Jason Bahl展示了如何将WPGraphQL用于高级自定义字段.
 -2018.07：[GraphQL with WordPress and Gutenberg-Jason Bahl-2018 JavaScript for WordPress Conference

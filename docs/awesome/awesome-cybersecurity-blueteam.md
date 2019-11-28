@@ -66,6 +66,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Artillery](https://github.com/BinaryDefense/artillery) -组合蜜罐，文件系统监视器和警报系统，旨在保护Linux和Windows操作系统.
 - [chkrootkit](http://chkrootkit.org/) -在GNU / Linux系统上本地检查rootkit的迹象.
 - [Fail2ban](https://www.fail2ban.org/) -入侵防御软件框架，可保护计算机服务器免受暴力攻击.
+- [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) -库和命令行工具（oscap）均用于根据SCAP基线配置文件评估系统，以报告扫描系统的安全状态. 
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) -完全开源和免费的，功能丰富的基于主机的入侵检测系统（HIDS）.
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) -符合POSIX的Bash脚本，可扫描主机以查找各种恶意软件迹象.
 
@@ -104,7 +105,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) -基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) -用于通过Windows事件日志进行寻线分组的PowerShell模块.
 - [GRR Rapid Response](https://github.com/google/grr) -事件响应框架专注于远程实时取证，该组件由安装在资产上的Python代理和基于Python的服务器基础结构组成，使分析人员能够快速分类攻击并进行远程分析.
-- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一自由软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置集成分析功能.
+- [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置分析集成.
 - [MozDef](https://github.com/mozilla/MozDef) -使安全事件处理过程自动化，并促进事件处理程序的实时活动.
 - [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标或调查它们以获取与那些系统状态有关的更全面的信息.
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.
@@ -124,7 +125,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) -捕获欺骗的NetBIOS名称服务（NBNS）响应并提醒电子邮件或日志文件.
 - [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及深度数据包检查功能的免费，跨平台IDS / IPS，Lua也可以编写脚本.
 - [Wireshark](https://www.wireshark.org) -免费的开源数据包分析器，可用于网络故障排除或法医网络流分析.
-- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（flowtop），流量生成器（trafgen）和自治系统（AS）跟踪路由实用程序（astraceroute）.
+- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（`flowtop`），流量生成器（`trafgen`）和自治系统（AS）跟踪路由实用程序（`astraceroute`）.
 
 ## Network perimeter defenses
 
@@ -213,7 +214,6 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [LuLu](https://objective-see.com/products/lulu.html) -免费的macOS防火墙.
 - [Stronghold](https://github.com/alichtman/stronghold) -从终端轻松配置macOS安全设置.
 - [macOS Fortress](https://github.com/essandess/macOS-Fortress) -自动配置内核级，操作系统级和客户端级安全功能，包括私有化代理和macOS的防病毒扫描.
-
 
 ## Windows-based defenses
 

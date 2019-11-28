@@ -53,7 +53,7 @@
 - [Cumulus](https://github.com/gillesdemey/Cumulus) -菜单栏中的SoundCloud播放器.
 - [Kitematic](https://kitematic.com) -Docker容器管理.
 - [FatFileFinder](https://github.com/pwambach/fat-file-finder) -在计算机上查找大文件.
-- [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
+- [ScreenCat](https://github.com/maxogden/screencat) -屏幕共享和远程协作.
 - [Gulp](https://github.com/sindresorhus/gulp-app) -从菜单栏中运行Gulp任务.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) -地图设计师.
 - [LevelUI](https://github.com/hij1nx/levelui) -LevelDB管理.
@@ -113,7 +113,7 @@
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) -非官方的Active Collab应用.
 - [Hain](https://github.com/appetizermonster/hain) -Windows启动器.
 - [Catify](https://github.com/MeoBeoI/Catify) -Spotify的实用程序.
-- [Minira](https://github.com/jenslind/minira) -菜单栏中的JIRA问题.
+- [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
 - [Ansel](https://github.com/m0g/ansel) -图片组织者.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) -检查CI服务器的构建状态.
 - [Tockler](https://github.com/MayGo/tockler) -跟踪您的时间.
@@ -151,7 +151,7 @@
 - [Cerebro](https://github.com/KELiON/cerebro) -具有内联预览的启动器.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) -控制任何显示器的亮度.
 - [LosslessCut](https://github.com/mifi/lossless-cut) -无损视频修剪和切割.
-- [Buka](https://github.com/oguzhaninan/Buka) -电子书管理.
+- [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) -创建和管理HTTP请求.
 - [Tusk](https://github.com/champloohq/tusk) -非官方的Evernote应用.
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) -非官方的ProtonMail应用程序.
@@ -219,6 +219,7 @@
 - [Mingo](https://mingo.io) -MongoDB GUI.
 - [Moon Modeler](https://datensen.com) -适用于MongoDB，Mongoose和MariaDB的架构设计工具.
 - [Notion](https://notion.so) -便笺，任务，Wiki和数据库的多合一工作区.
+- [FATpick](https://www.fatpick.com) -吉他弹奏器查看器，可在演奏时为您的演奏评分.
 
 ### Samples
 
@@ -264,7 +265,7 @@
 - [electron-dl](https://github.com/sindresorhus/electron-dl) -简化文件下载.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) -具有前端和自动更新程序支持的自托管发布服务器.
 - [electron-rebuild](https://github.com/electron/electron-rebuild) -根据当前安装的Electron版本重建本机Node.js模块.
-- [electron-compile](https://github.com/electron/electron-compile) -在您的应用中使用ES2015，CoffeeScript，Less，Stylus，而无需预编译步骤.
+- [electron-compile](https://github.com/electron/electron-compile) -在您的应用中使用ES2015，CoffeeScript，Less，Stylus，无需预编译步骤.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) -将窗户放在公共位置.
 - [electron-window-state](https://github.com/mawie81/electron-window-state) -保持窗口大小和位置.
 - [electron-drag](https://github.com/kapetan/electron-drag) -改进了窗口拖动.
@@ -300,7 +301,7 @@
 - [electron-router](https://github.com/m0n0l0c0/electron-router) -路由器整理IPC消息传递.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) -读取用户设置并将其写入磁盘.
 - [got](https://github.com/sindresorhus/got) -简化的HTTP请求.
-- [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
+- [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) -捕获未处理的错误并承诺拒绝.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) -流程管理器用户界面（如Chrome的任务管理器）.
 - [electron-util](https://github.com/sindresorhus/electron-util) -用于开发应用程序和模块的有用实用程序.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) -在开发过程中简单的自动重新加载.
@@ -341,7 +342,7 @@
 - [window](https://github.com/jprichardson/electron-window) -创建和管理窗口.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) -用于Mac OS和使用React构建的Windows的UI工具包.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) -输入元素的上下文菜单.
-- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -类似于Chrome的标签页.
+- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -像Chrome一样的标签页.
 - [titlebar](https://github.com/kapetan/titlebar) -模拟macOS窗口标题栏.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) -使用Photon和Etch构建和管理UI组件.
 - [Xel](https://xel-toolkit.org) -用于构建类似本机应用程序的小部件工具包.

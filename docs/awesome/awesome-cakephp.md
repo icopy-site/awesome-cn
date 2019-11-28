@@ -101,7 +101,7 @@
 ## Email
 *用于发送和解析电子邮件的插件.
 
-- [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) - Email transport plugin for sending email via Elastic Email API.
+- [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) -电子邮件传输插件，用于通过Elastic Email API发送电子邮件.
 - [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) -具有预览和发件人外壳的电子邮件队列插件.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) -电子邮件帮助程序，布局等.
 - [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) -电子邮件传输插件，用于通过Mailgun发送电子邮件.
@@ -120,7 +120,7 @@
 
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) -抽象文件存储和上传插件.
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) -使用Flysystem进行抽象文件系统访问.
-- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
+- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) -使用的可自定义插件 [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
 - [Image plugin](https://github.com/josbeir/image) -图像行为与Cake在TranslateBehavior中内置的行为非常相似.
 - [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) -摘要 [Flysystem](https://flysystem.thephpleague.com/) +基于文件实体的上传插件.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) -具有缩略图生成功能的可自定义上传插件.
@@ -244,7 +244,7 @@
 - [Money plugin](https://github.com/gourmet/money) -使用的CakePHP实体的Money数据类型 [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
 - [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) -允许设置表格的默认顺序.
 - [Muffin/Trash plugin](https://github.com/usemuffin/trash) -CakePHP的软删除行为.
-- [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) -保留相关模型的选定字段的行为.
+- [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
 - [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) -PHPExcel的ORM包装器.
 - [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) -单表继承（STI）插件.
 - [RowLocker plugin](https://github.com/lorenzo/row-locker) -表中行的排他锁.
@@ -331,11 +331,11 @@
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) -前端框架FormHelper扩展.
 - [CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](https://commonmark.org) （降价）对模型和视图的支持.
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) -一个视图类，可以轻松生成CSV.
-- [Datalist plugin](https://github.com/rrd108/cakephp-datalist) -支持HTML5数据列表元素，并可以在相关模型中创建新条目.
+- [Datalist plugin](https://github.com/rrd108/cakephp-datalist) - Support for HTML5 datalist element with the possibility to create new entries into associated models.
 - [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类，可轻松生成（复杂）RSS feed.
 - [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) -一个插件，可将HTML样式块转换为View模板上的内联CSS（旨在与电子邮件模板一起使用）.
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) -Jade模板引擎插件.
-- [Liquid plugin](https://github.com/gourmet/liquid) -使用Liquid模板语言进行查看的插件.
+- [Liquid plugin](https://github.com/gourmet/liquid) -使用Liquid模板语言进行视图的插件.
 - [Meta plugin](https://github.com/dereuromark/cakephp-meta) -使处理元标记和SEO相关的HTML标记DRY变得容易.
 - [SocialMeta plugin](https://github.com/gourmet/social-meta) -增加了对Facebook的OpenGraph和Twitter的Card meta标签的支持.
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) -使用Twig模板语言获取视图的插件.
@@ -357,6 +357,7 @@
 
 - [CakeTmdb plugin](https://github.com/drmonkeyninja/cakephp-tmdb) -电影数据库（TMDB）API集成.
 - [GitHub plugin](https://github.com/cvo-technologies/cakephp-github) -允许使用来访问GitHub REST API [Webservice](https://github.com/UseMuffin/Webservice) ORM.
+- [Jira plugin](https://github.com/fr3nch13/cakephp-jira) -提供帮助程序，以允许使用来访问Jira的REST API [lesstif/php-jira-rest-client](https://github.com/lesstif/php-jira-rest-client)  作为供应商.  当前只读访问.
 - [Ratchet plugin](https://github.com/WyriHaximus/Ratchet) -将Ratchet websocket软件包带到CakePHP.
 - [Salesforce plugin](https://github.com/voycey/cakephp-salesforce) -允许使用CakePHP的ORM查询和与Salesforce企业实例进行交互.
 - [Twitter plugin](https://github.com/cvo-technologies/cakephp-twitter) -允许使用来访问Twitter REST和流式API [Webservice](https://github.com/UseMuffin/Webservice) ORM.
@@ -406,7 +407,7 @@
 各种资源，例如书籍，网站和文章，可用于提高CakePHP开发技能和知识.
 
 ## Help
-*在哪里获得帮助.*
+*Where to get help.*
 
 - [CakePHP-FR.org](http://cakephp-fr.org) -法国社区网站.
 - [CakePHP.ir](http://forum.cakephp.ir/) -与其他开发者的讨论和波斯社区的一般性问题.
@@ -421,7 +422,7 @@
 - [CakeDC](http://www.cakedc.com/articles) -关于CakePHP的文章.
 - [dereuromark.de](https://www.dereuromark.de) -广泛的CakePHP核心开发博客.
 - [florian-kraemer.net](http://florian-kraemer.net) -CakePHP相关的核心开发博客.
-- [jedistirfry.co.uk](http://jedistirfry.co.uk) - A CakePHP related dev blog.
+- [jedistirfry.co.uk](http://jedistirfry.co.uk) -一个与CakePHP相关的开发者博客.
 - [josediazgonzalez.com](http://josediazgonzalez.com/) -一个主要与CakePHP相关的核心开发博客.
 - [mark-story.com](http://mark-story.com) -CakePHP首席开发博客.
 - [waltherlalk.com](http://waltherlalk.com) -CakePHP相关的核心开发博客.

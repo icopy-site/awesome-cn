@@ -6,7 +6,7 @@
 
 &gt;与Tailwind CSS相关的精选精彩清单
 
-[Tailwind CSS](https://tailwindcss.com) is a utility-first CSS framework for rapidly building custom user interfaces.
+[Tailwind CSS](https://tailwindcss.com) 是实用程序优先的CSS框架，用于快速构建自定义用户界面.
 
 ---
 
@@ -19,7 +19,7 @@
 ## Plugins
 
 - [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) -为表单元素添加更好的默认样式.
-- [benface's transitions](https://github.com/benface/tailwindcss-transitions) -添加带有或不带有CSS变量的可配置过渡实用程序.
+- [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) -通过CSS变量和`prefers-color-scheme`添加了强大的主题功能.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) -添加`text-indent`实用程序.
 - [Transforms](https://github.com/benface/tailwindcss-transforms) -添加`transform`实用程序.
@@ -113,6 +113,7 @@
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) -Tailwind CSS的TypeScript类型.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) -生成Tailwind配置的Zeplin扩展.
 -  [Gatsby Plugin Tailwind CSS](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) -Gastby插件，可将Tailwind CSS与CSS-in-JS结合使用.
+-  [Gridsome Plugin Tailwind CSS](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) -Gridsome插件，可将Tailwind CSS与PurgeCSS，postcss-import和postcss-env结合使用.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) -生成Tailwind类的ReasonML实用程序.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) -React Native输入系统.
 -  [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) -快速的Tailwind CSS文档搜索应用程序.

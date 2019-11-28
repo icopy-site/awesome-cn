@@ -90,7 +90,7 @@
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) -简短的截屏视频可以教您Erik Person的Elm编程语言.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) -构建您的第一个Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) -关于榆木的五部分教程.
-* [Elm FAQ](http://faq.elm-community.org/) -来自的榆木常见问题解答 [Elm Community](http://elm-community.org/).
+* [Elm FAQ](http://faq.elm-community.org/) -来自的榆树常见问题解答 [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) -有关在Elm中构建应用程序的教程，从身份验证到调用API.
 
 
@@ -132,6 +132,7 @@
 ### Playlists
 
 * [Elm Conf 2019](https://www.youtube.com/playlist?list=PLglJM3BYAMPGsAM4QTka7FwJ0xLPS0mkN) -2019年9月
+* [Elm Europe 2019](https://www.youtube.com/playlist?list=PL-cYi7I913S_oRLJEpsVbSTq_OOMSXlPD) - Jun 2019
 * [Elm in the Spring 2019](https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ) - Jun 2019
 * [Oslo Elm Day 2019](https://www.youtube.com/playlist?list=PLcAzxXzXQlPbalOfueVbHCRSo26ksIXiF) -2019年2月
 * [Elm Conf 2018](https://www.youtube.com/watch?v=28OdemxhfbU&list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) -elm-conf 2018的所有演讲
@@ -179,7 +180,7 @@
 ### Individual Podcast episodes
 
 * [Elixir Fountain Evan Czaplicki 2016-07-11](https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11) -Elm和Evan Czaplicki.
-* [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) -理查德·费尔德曼（Richard Feldman）和泰莎·凯利（Tessa Kelly）.
+* [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - Richard Feldman and Tessa Kelly.
 * [The Changelog 218](https://changelog.com/218/) -Elm和Evan Czaplicki和Richard Feldman
 * [The Changelog 191](https://changelog.com/191/) -与Richard Feldman一起进行Elm和函数式编程.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) -Elm与Richard Feldman和Srinivas Rao.
@@ -327,7 +328,7 @@
 
 ### Outdated Boilerplates
 
-* [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
+* [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) -用于编写Elm应用程序的简单Webpack设置.
 * [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) -Elm应用程序的功能齐全的基础项目：Webpack，HMR，ES6，JS和Elm测试，语义UI，示例代码等.
 * [elmkit](https://github.com/khusnetdinov/elmkit)  -针对Web应用的轻量级基于Brunch的设置.  包括早午餐，热模块更换，榆木，Scss，榆木测试.
 * [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) -一个简单的Makefile能够创建Elm应用程序.
@@ -358,15 +359,16 @@
 
 ## Inspired by Elm
 
-*由榆木启发的项目*
+*一些项目受到榆木的影响*
 
+* [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
+* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) 基于OCaml的Elm架构/ Reason and [Bucklescript](https://bucklescript.github.io/)
 * [Elchemy](https://github.com/wende/elchemy) -使用静态类型的类似Elm的语法编写Elixir代码
 * [Elmish](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
 * [Fabulous](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
-* [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
-* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [Iced](https://github.com/hecrj/iced) -受Elm启发的Rust跨平台GUI库
 * [Redux](https://redux.js.org/introduction/prior-art) -JavaScript应用程序的可预测状态容器.
-* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) 基于OCaml的Elm架构/ Reason and [Bucklescript](https://bucklescript.github.io/)
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 
 

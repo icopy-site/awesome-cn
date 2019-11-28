@@ -25,7 +25,7 @@
 
 * [Moodpath](https://www.moodpath.de/en/) -基于应用程序的交互式筛选，旨在识别抑郁症的症状.
 * [Pacifica](https://www.thinkpacifica.com/)  -日常的压力，焦虑和抑郁工具，以及支持社区.  基于认知行为疗法和正念冥想.
-* [Quirk](https://getquirk.app/) -适用于iOS的开源移动认知行为疗法（CBT）应用.
+* [Quirk](https://www.quirk.fyi/) -适用于iOS和Android的GPL许可的认知行为疗法（CBT）应用程序.
 * [Three Good Things](https://three-good-things.glitch.me/) -每天早上写下生活中的三件事.
 * [we are ANXIO.us](http://weareanxio.us) -精神健康和保健应用程序以及资源的集合.
 
@@ -85,7 +85,7 @@
 会议散布了关于软件产业中心理健康意识和自我保健重要性的信息.
 
 * [Computing And Mental Health](http://mentalhealth.media.mit.edu/) -汇集社区.
-* [Anxiety Tech](http://www.anxietytech.com) -了解如何倡导工作中的心理健康，如何更好地设计技术来支持心理健康，哪些技术已经在帮助患有精神疾病的患者，以及您或您的公司如何成为该领域的领导者.
+* [Anxiety Tech](http://www.anxietytech.com) -学习如何倡导工作中的心理健康，如何更好地设计技术来支持心理健康，哪些技术已经在帮助患有精神疾病的人，以及您或您的公司如何成为该领域的领导者.
 
 ## Meetups
 
