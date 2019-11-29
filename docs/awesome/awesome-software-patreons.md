@@ -75,7 +75,7 @@ _使用开源许可证发布的项目.
 - [Project Lombok](https://www.patreon.com/lombok) -Java编辑器插件.
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) -Reddit浏览器扩展.
 - [Remmina](https://remmina.org/donations/) -远程桌面客户端.
-- [ShareX Team](https://www.patreon.com/ShareX) -屏幕捕获和屏幕共享工具. 
+- [ShareX Team](https://www.patreon.com/ShareX) -屏幕捕获和屏幕共享工具.
 - [Synfig](https://www.patreon.com/synfig) -2D动画软件.
 - [SysV init](https://www.patreon.com/sysvinit) -系统V初始化实施.
 - [Tabulator](https://www.patreon.com/olifolkerd) -用于构建交互式表的JavaScript库.
@@ -104,6 +104,7 @@ _库和框架.
 - [Moleculer](https://www.patreon.com/moleculer) -用于Node.js的渐进式微服务框架.
 - [Musl libc](https://www.patreon.com/musl) -Musl libc项目.
 - [Phalcon](https://opencollective.com/phalcon) -作为PHP的C扩展提供的Web框架.
+- [stdlib](https://www.patreon.com/athan) -JavaScript和Node.js的标准库，重点是科学计算.
 - [Vapor](https://github.com/tanner0101), [#2](https://opencollective.com/vapor) -服务器端Swift框架.
 - [Vue.js](https://www.patreon.com/evanyou) -Vue.js. 
 - [Yii framework](https://www.patreon.com/samdark) -PHP框架.
@@ -166,7 +167,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Ethan Lee](https://github.com/users/flibitijibibo/sponsorship) - Contributions to FNA, SDL2 C# and other projects.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) -研究PyDev和相关项目.
 - [Felipe Lima](https://github.com/sponsors/felipecsl) -各种项目和库，例如OkReplay，AirMapView，AsymmetricGridView，GifImageView，Wombat.
-- [Ferros](https://www.patreon.com/feross) -WebTorrent，StandardJS和其他JavaScript项目.
+- [Feross Aboukhadijeh](https://github.com/sponsors/feross) -WebTorrent，StandardJS和其他JavaScript项目.
 - [Franck Nijhof](https://www.patreon.com/frenck) -创建Home Assistant附加组件，并为主要项目提供帮助.
 - [Gabriel Gonzalez](https://github.com/users/Gabriel439/sponsorship) -Dhall语言，Nix和Haskell教育项目以及Haskell库和工具. 
 - [Gilbert Pellegrom](https://github.com/users/gilbitron/sponsorship) -Raneto，Vue.js库等.
@@ -195,7 +196,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Nick Sweeting](https://github.com/sponsors/pirate) -ArchiveBox和OSS贡献，还有文章和文档.
 - [Nicolas Hafner](https://github.com/users/Shinmera/sponsorship) -各种常见的Lisp库.
 - [Nils Maier](https://www.patreon.com/nmaier)  -全部下载！  Firefox和Chrome扩展程序.
-- [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) -GNU Emacs插件，Ivy / Swiper / Counsel，Hydra，Avy，Lissy等的维护者.
+- [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) -GNU Emacs插件，Ivy / Swiper / Counsel，Hydra，Avy，Lispy等的维护者.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) -Debian打包器.
 - [Pablo Dobarro](https://www.patreon.com/pablodp606) -雕刻机的改进.
 - [Patrick Wardle](https://www.patreon.com/objective_see) -Objective-See的所有者，各种macOS安全工具和文章.
@@ -223,7 +224,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) -游戏相关项目. 
 - [Tim Oliver](https://github.com/sponsors/TimOliver) -众多的iOS库以及对iOS生态系统的各种贡献.
 - [Timothée Giet](https://www.patreon.com/animtim) -GCompris贡献者.
-- [Tobias Koppers](https://github.com/users/sokra/sponsorship) -Webpack的创始人兼维护者.
+- [Tobias Koppers](https://github.com/users/sokra/sponsorship) - Founder and maintaner of Webpack.
 - [Toby Zerner](https://www.patreon.com/tobyzerner) -Flarum贡献者.
 - [Yorik van Havre](https://www.patreon.com/yorikvanhavre), [#2](https://liberapay.com/yorik) -FreeCAD贡献者.
 - [Øyvind Kolås](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) -图形编辑器GIMP中使用的babl和GEGL库的首席开发人员.
@@ -244,7 +245,7 @@ _文章，视频，播客等…_
 
 ### Videos
 
-- [Arxiv Insights](https://www.patreon.com/ArxivInsights) - Educational videos on machine learning & AI.
+- [Arxiv Insights](https://www.patreon.com/ArxivInsights) -有关机器学习和AI的教育视频.
 - [CS Dojo](https://www.patreon.com/csdojo) -编程视频.
 - [Corey Schafer](https://www.patreon.com/coreyms) -Python教程.
 - [Devon Crawford](https://www.patreon.com/devoncrawford) -编程，开发和电子视频.

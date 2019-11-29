@@ -124,7 +124,7 @@
 
 - [Carbon Engineering](https://carbonengineering.com/)  |  加拿大|  2009年
 
-   碳工程公司采用直接空气捕获技术，旨在直接从空气中吸收现有的CO <sub>2</sub> ，然后利用该气体制造飞机，卡车和轮船使用的碳中性合成燃料.  Carbon Engineering由几个政府和可持续发展机构以及比尔·盖茨和油砂大亨诺曼·默里·爱德华兹（Norman Murray Edwards）等私人投资者资助.
+  Using Direct Air Capture technology, Carbon Engineering aims to take existing CO<sub>2</sub> directly out of the air, then use the gas to make carbon neutral synthetic fuels for planes, trucks, and ships. Carbon Engineering is funded by several government and sustainability-focused agencies as well as by private investors, including Bill Gates and oil sands magnate Norman Murray Edwards.
 
 - [ElectricityMap.org](https://www.electricitymap.org/)  |  丹麦/法国|  2017年
 
@@ -186,13 +186,17 @@
 
   专门从事电动汽车制造及其子公司SolarCity的太阳能电池板制造.
 
-- [Ushva Clean Technology](http://www.ushva.com/) | Mumbai, India | 2015
+- [Ushva Clean Technology](http://www.ushva.com/)  |  印度孟买|  2015年
 
    他们相信在不降低便利性的前提下优化能耗，然后抵消剩余的能源需求.  他们的愿景是提供不受地域和输电限制的可再生能源来源的负担得起的电力.
 
 - [Vestas](https://www.vestas.com/)  |  丹麦|  1945年
 
    风力涡轮机的制造商，销售商，安装商和服务商.  截至2019年，维斯塔斯已在五大洲的80多个国家安装了超过66,000台风力涡轮机，容量达到100 GW.
+
+- [WindCORES](https://www.windcores.de/en/homepage/)  |  德国|  2018年
+
+   德国风能开发商Westfalenwind的子公司.  他们是一个数据中心提供商，在风力涡轮机内部托管服务器，使电力消费者离生产商更近.
 
 ### Social Impact
 

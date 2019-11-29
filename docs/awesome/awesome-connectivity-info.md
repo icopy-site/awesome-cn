@@ -21,7 +21,7 @@
 
 **[`^        back to top        ^`](#)**
 
-- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) -（2018）针对移动互联网采用的四个推动因素对国家进行衡量：基础设施，可负担性，消费者就绪程度和内容.
+- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) -（2018）针对移动互联网采用的四个推动因素来衡量国家：基础设施，可负担性，消费者就绪程度和内容.
 - [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) -（2017）负担得起的互联网接入联盟的互联网负担能力指数（[A4AI](https://a4ai.org)).
 -A4AI移动宽带数据成本-（[Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)）宽带数据价格（预付费1GB移动设备）占人均GNI的百分比.
 - [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) -（2019）衡量可用性，可承受性，相关性和就绪性的互联网连接性的指数.
@@ -49,7 +49,7 @@
 - [Greg's Cable Map](http://cablemap.info/)
 - [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) -来自国际电联的地面光纤和微波网络在线地图.
 - [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) -有些国家有些过时但仍然有用的移动网络覆盖图.
-- [Hurricane Electric 3D map](http://he.net/3d-map/) -水下电缆，飓风现场指示（POP）和路线的交互式3D地图.
+- [Hurricane Electric 3D map](http://he.net/3d-map/) -水下电缆，飓风现场存在点（POP）和路线的交互式3D地图.
 - [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) -（2019）提供最准确的移动覆盖地图，目前覆盖加纳，尼日利亚，卢旺达，乌干达，坦桑尼亚和赞比亚.
 - [nperf Mobile coverage maps](https://www.nperf.com/en/map) -基于从 [nperf app](https://www.nperf.com/en/nperf-applications/).
 
@@ -59,11 +59,11 @@
 
 -Mozilla Internet运行状况报告-（[2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
 - [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - [2019 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf) [2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf).
--宽带委员会：宽带状态（[2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
+-宽带委员会：宽带状况（[2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 -国际电联衡量信息社会-（[2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 -GSMA-移动互联网连接状态（[2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
 - [ITU Facts and Figures](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf) - 2017.
-- [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - [November 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf) [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf).
+- [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - [November 2019](https://www.ericsson.com/en/mobility-report/reports/november-2019) [November 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf) [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf).
 - [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) (2017)
 - [A4AI Affordability Report](http://a4ai.org/affordability-report/report/) - ([2019](https://a4ai.org/affordability-report/report/2019/)) ([2018](http://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/A4AI-2018-Affordability-Report.pdf)) ([2017](http://a4ai.org/affordability-report/report/2017)).
 - [Opera State of the Mobile Web](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) -（2016）基于Opera Mobile浏览器使用情况的报告.
@@ -71,7 +71,7 @@
 - [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) -（2016）检查信息和通信技术（ICT）在推动创新中的作用，并包括网络就绪指数.
 -联合国电子政务调查 [2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) [2016](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) -全球电子政务和电子参与发展指数. 
 - [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) -最新数据更新：2019年7月9日.
-- [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf) -信息图重点介绍了全球南方16个发展中国家在公共领域的家庭和个人对ICT的访问和使用的全国代表性调查.
+- [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf) -信息图重点介绍了全球南方16个发展中国家在公共领域的家庭和个人对ICT的获取和使用的全国代表性调查.
 
 
 ## Regional Connectivity Reports and Data

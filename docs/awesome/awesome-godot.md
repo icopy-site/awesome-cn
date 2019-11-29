@@ -55,7 +55,7 @@
 - [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) -RPG演示（Godot 3.0）.
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) -JRPG风格的游戏演示和模板（Godot 3.1）.
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) -一个演示项目，演示使用tilemap进行寻路（Godot 2.1）.
-- [Realistic Water Shader](https://github.com/fire/godot-realistic-water) -具有泡沫和腐蚀性的逼真的3D水着色器（Godot 3.1）.
+- [Realistic Water Shader](https://github.com/godot-extended-libraries/godot-realistic-water) -具有泡沫和腐蚀性的逼真的3D水着色器（Godot 3.1）.
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) -可让您连接到服务器并查看网络物理（Godot 2.1）.
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) -比快照插值（Godot 2.1）更有效的网络演示.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) -类似Minecraft的体素地形演示（Godot 2.1）.
@@ -71,6 +71,7 @@
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) （Godot 2.1、3.0、3.1）
 - [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) -分步介绍（Godot 3.1）.
 - [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials)  -用于创建客户端-服务器多人游戏的教程.  包括用于在Google Compute Platform（Godot 3.1）上托管服务器的教程.
+- [Godot Recipes](http://kidscancode.org/godot_recipes/)  -从入门到高级的文本教程集合.  （Godot 3.x）
 
 ### Video tutorials
 
@@ -79,7 +80,7 @@
 - [Code with Tom](https://www.youtube.com/codewithtom) -通过制作游戏学习编码（Godot 3.1）.
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) （Godot 3.0）
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) -有关2D和3D游戏开发的教程（Godot 2.1、3.x）.
-- [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) -有关2D和3D游戏开发的教程（Godot 2.1）.
+- [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) -有关2D和3D游戏开发的教程（Godot 2.1、3.x）.
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) （Godot 3.1）
 - [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) -有关3D效果和知名游戏（Godot 3.0）中的复制概念的教程.
 
@@ -120,7 +121,7 @@
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
-- [gdstats](https://github.com/droxmusic/gdstats/) -用于常见统计分布的伪随机数生成器库（Godot 3.0）.
+- [gdstats](https://github.com/droxpopuli/gdstats) -用于常见统计分布的伪随机数生成器库（Godot 3.0）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
 - [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd（Godot 3.1）在Godot中进行快速3D碰撞检查.
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -Phoenix框架（Godot 3.1）的Channels API的GDScript和Godot引擎实现.

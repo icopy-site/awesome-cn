@@ -75,7 +75,7 @@
 - [ros2_grasp_library](https://github.com/intel/ros2_grasp_library) -可能是一个抓取库:). ![ros2_grasp_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
 - [apriltag_ros](https://github.com/christianrauch/apriltag_ros) -用于AprilTag检测的ROS2节点. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 - [ros2-web-bridge](https://github.com/RobotWebTools/ros2-web-bridge) -将浏览器桥接到ROS 2.0. ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg)
-- [ros2_message_filters](https://github.com/intel/ros2_message_filters) -ros2_message_filters根据过滤器需要满足的条件混合各种消息，并从ROS message_filters的ROS2移植获得. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
+- [ros2_message_filters](https://github.com/intel/ros2_message_filters) -ros2_message_filters根据过滤器需要满足的条件来混合各种消息，并从ROS message_filters的ROS2移植获得. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) -Tensorflow中用于计算机视觉任务的ROS2节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) -PyTorch中用于计算机视觉任务的ROS2节点 ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) -ROS2的PID控制器. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
@@ -96,7 +96,7 @@
 
 ### Driver layer
 
-- [Autoware.IO](https://www.autoware.io/) -Autoware.IO提供了一个异构的硬件参考平台，并使会员公司的解决方案能够集成到支持Autoware.Auto和Autoware.AI软件堆栈的平台上.
+- [Autoware.IO](https://www.autoware.io/) -Autoware.IO提供了一个异构的硬件参考平台，并使成员公司的解决方案能够集成到支持Autoware.Auto和Autoware.AI软件堆栈的平台上.
 - [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) -带有xmlrpc的ros2接口软件包，用于使用Sesto API与Sesto服务器进行通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) -ROS2的非官方Anki Cozmo节点. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) -ROS2 Sphero驱动程序. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
@@ -190,7 +190,7 @@
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) -官方的NuttX前叉，可用于micro-ROS.
-- [RIOT](https://github.com/RIOT-OS/RIOT) -RIOT是一种实时多线程操作系统（...）实时功能，较小的内存占用（...）API提供了部分POSIX兼容性.
+- [RIOT](https://github.com/RIOT-OS/RIOT) -RIOT是一种实时多线程操作系统（...）实时功能，较小的内存占用量（...）API提供了部分POSIX兼容性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) -适用于多核处理器的POSIX兼容实时操作系统有望在未来支持AUTOSAR.
 
 ## Forks
@@ -341,8 +341,10 @@ DDS安全性.
 - [Bosch](https://github.com/boschresearch) -博世研究机器人团队.
 - [Canonical](https://canonical.com/) -Ubuntu背后的公司.
 - [Eprosima](https://www.eprosima.com/) -《中间件专家》.
+- [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) -ROS工具箱.
 - [Rover Robotics](https://roverrobotics.com/) -坚固的工业级机器人.
+- [Sony Corporation](https://www.sony.net/SonyInfo/technology/element/robotics/).
 - [Wind River](https://labs.windriver.com/ros2-for-vxworks/) -VxWorks的ROS2.
 
 ## Working Groups

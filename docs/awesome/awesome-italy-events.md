@@ -128,7 +128,7 @@
 - 12 - [.NET Conf 2019 Catania](https://www.eventbrite.it/e/biglietti-net-conf-2019-catania-71623775641) -卡塔尼亚-Microsoft .NET Conf 2019本地活动.
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-bari/area-visitatori/contenuti/) -Bari-安全性，合规性和业务连续性.
 - 16-17 - [Milan Cloud Data Summit](https://www.clouddatasummit.com/) -米兰-云专用会议.
-- 17 - [Hacktoberfest in Unicam](https://www.eventbrite.it/e/biglietti-hacktoberfest-in-unicam-74954840947) -Camerino（MC）-Digital Ocean Hacktoberfest相关事件.
+- 17 - [Hacktoberfest in Unicam](https://www.eventbrite.it/e/biglietti-hacktoberfest-in-unicam-74954840947) - Camerino (MC) - Digital Ocean Hacktoberfest related event.
 - 17 - [Hacktoberfest Brescia 2019](https://www.meetup.com/Meetup-GDG-Brescia/events/264866119/) -布雷西亚-Digital Ocean Hacktoberfest相关事件.
 - 17 - [.NET Conf 2019 Verona](https://www.eventbrite.it/e/biglietti-tutte-le-novita-di-net-core-3-65353918329) -维罗纳-Microsoft .NET Conf 2019本地活动.
 - 17-18 - [ISF Festival 2019](https://festival.informaticisenzafrontiere.org/?page_id=2) -罗韦雷托（TN）-年度ISF（Informatici Senza Frontiere-无国界信息学）会议.
@@ -159,16 +159,23 @@
 - 15 - [PyRoma Meetup November 2019](https://roma.python.it/) -Roma-罗马的Python用户组.
 - 16 - [Visual Studio Saturday](https://sessionize.com/vssatpn19) -Pordenone-.Net和Visual Studio生态系统会议.
 - 16 - [Django Girls Rome](https://djangogirls.org/rome/) -罗马-“妇女免费编程讲习班”.
+- 20 - [Red Hat Open source day](https://www.redhat.com/it/events/red-hat-open-source-day-italia) -罗马-开源专用会议.
 - 22 - [FuffaDay 2019](http://www.fuffaday.org/) -米兰-敏捷沟通.
 - 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) -米兰-有关WordPress的一切.
 - 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) -Urbino（PU）-专门讨论编码和软件的会议.
 - 28 - [IoT Day](http://www.iotdayit.org/) -那不勒斯-会议主要集中在“物联网”上.
 - 28-29 - [LaravelDay](http://www.laravelday.it/) -维罗纳-意大利会议专门针对Laravel开发人员.
-- 30 - [Italian C++ conference](https://www.italiancpp.org) -Parma-意大利c ++会议.
+- 30 - [C++ Day 2019](https://www.italiancpp.org) -Parma-意大利c ++会议.
 
 ## December
+- 3 - [Red Hat Open source day](https://www.redhat.com/it/events/red-hat-open-source-day-italia) -Milano-开源专用会议.
+- 3-5 - [WPC 2019](https://www.wpc2019.it/cms/it-IT/Home) -米兰-关于微软技术的最重要的意大利会议.
 - 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) -佛罗伦萨-佛罗伦萨的Python用户组.
+- 5 - [HackNight 2019](https://www.eventbrite.com/e/hacknight-2019-adaptive-ui-challenge-registration-80833720835) -Roma-AI与设计之间的交集处的网络.
+- 6 - [Firenze Blockchain day](https://www.eventbrite.it/e/biglietti-firenze-blockchain-day-77871827733) -佛罗伦萨-今天的区块链经济.
+- 12 - [Cyber Warfare Conference](https://www.eucacs.org/en/) -米兰-战争的演进和新领域（信息，网络和混合）.
 - 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) -卡塞塔-“妇女免费编程讲习班”.
+- 14 - [Global AI Bootcamp](https://globalai.community/global-ai-bootcamp/italy-caserta) -Caserta-Microsoft Azure上的人工智能.
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) -热那亚-为有趣的圣诞节项目而刮刮乐.
 - 17 - [AWSome Day](https://pages.awscloud.com/EMEA_field_T1_awsome-day-bolzano_20191712_page-registration.html) -Bolzano-AWS初学者培训日.
 ---

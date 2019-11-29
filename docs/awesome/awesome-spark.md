@@ -8,7 +8,7 @@
 
  _Apache Spark是一个开放源代码群集计算框架.  最初开发于 [University of California](https://www.universityofcalifornia.edu/), [Berkeley's AMPLab](https://amplab.cs.berkeley.edu/)，后来将Spark代码库捐赠给了 [Apache Software Foundation](https://www.apache.org/) ，此后一直保持下去.  Spark提供了一个接口，用于使用隐式数据并行性和Fault-tolerance_（[Wikipedia 2017](#wikipedia-2017)).
 
-Apache Spark的用户可以选择不同的Python，R，Scala和Java编程语言来与Apache Spark API交互.
+Apache Spark的用户可以选择不同的Python，R，Scala和Java编程语言来与Apache Spark API进行接口.
 
 
 
@@ -20,9 +20,9 @@ Apache Spark的用户可以选择不同的Python，R，Scala和Java编程语言�
 
 
 ### Notebooks and IDEs
-
-* [Apache Zeppelin](https://zeppelin.incubator.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/zeppelin.svg"> -基于Web的笔记本，可通过即插即用的后端，集成的绘图以及广泛的Spark支持进行交互式数据分析.
-* [Polynote](https://polynote.org/)  <img src="https://img.shields.io/github/last-commit/polynote/polynote.svg">  -Polynote：灵感来自IDE的多国语言笔记本.  它支持在一个笔记本中混合多种语言，并在它们之间无缝共享数据.  它通过其不变的数据模型鼓励可复制的笔记本电脑.  始于 [Netflix](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
+* [almond](https://almond.sh/) <img src="https://img.shields.io/github/last-commit/almond-sh/almond.svg"> -用于的scala内核 [Jupyter](https://jupyter.org/).
+* [Apache Zeppelin](https://zeppelin.incubator.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/zeppelin.svg"> -基于Web的笔记本电脑，支持即插即用的后端，集成绘图和广泛的Spark支持进行交互式数据分析.
+* [Polynote](https://polynote.org/)  <img src="https://img.shields.io/github/last-commit/polynote/polynote.svg">  -Polynote：灵感来自IDE的多国语言笔记本.  它支持在一个笔记本中混合多种语言，并在它们之间无缝共享数据.  它通过其不变的数据模型鼓励可复制的笔记本电脑.  始于 [Netflix](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447).
 
 ### General Purpose Libraries
 

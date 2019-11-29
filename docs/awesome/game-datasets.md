@@ -18,7 +18,7 @@
 ---
 ## API
 
-API是“允许创建访问操作系统，应用程序或其他服务的功能或数据的应用程序的一组功能和过程” _（Google）.  
+API是_“一组允许创建访问操作系统，应用程序或其他服务的功能或数据的应用程序的功能和过程” _（Google）.  
 
 - [Battle.net](https://develop.battle.net/) -由开发的游戏合集 [Blizzard](https://www.blizzard.com).
 - [Battlefield 4 Stats](http://bf4stats.com/) -玩家的统计资料，排名和进度.
@@ -71,7 +71,7 @@ API是“允许创建访问操作系统，应用程序或其他服务的功能�
 - [qengine](https://github.com/klaussilveira/qengine) -复古游戏引擎.
 - [Retro Contest](https://github.com/openai/retro) -SEGA Genesis游戏竞赛. [Website](https://openai.com/blog/retro-contest/).
 - [Robocode](https://robocode.sourceforge.io/) -机器人战车比赛.
-- [Showdown AI Competition](https://github.com/scotchkorean27/showdownaiclient) -口袋妖怪之战的比赛. [Website](http://game.engineering.nyu.edu/showdown-ai-competition/), [paper](http://game.engineering.nyu.edu/wp-content/uploads/2017/02/CIG_2017_paper_87-1.pdf).
+- [Showdown AI Competition](https://github.com/scotchkorean27/showdownaiclient) -宠物小精灵之战. [Website](http://game.engineering.nyu.edu/showdown-ai-competition/), [paper](http://game.engineering.nyu.edu/wp-content/uploads/2017/02/CIG_2017_paper_87-1.pdf).
 - [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) -星际争霸游戏比赛.
 - [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) -文字冒险游戏竞赛. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
 - [The Genius](http://thegenius.sourceforge.net/) -象棋引擎.
@@ -80,6 +80,7 @@ API是“允许创建访问操作系统，应用程序或其他服务的功能�
 - [veloren](https://gitlab.com/veloren/veloren) -沙盒游戏. [Website](https://veloren.net/).
 - [Vindinium](https://github.com/leomaurodesenv/vindinium) -基于无赖竞赛的多人回合. [Documentation](https://pythonhosted.org/vindinium/).
 - [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) -厄运游戏竞赛. [Website](http://vizdoom.cs.put.edu.pl/).
+- [Wargus](https://github.com/Wargus/wargus) -实时策略游戏. [Website](https://wargus.github.io/).
 
 ### Mobile
 
