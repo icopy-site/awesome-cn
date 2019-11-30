@@ -68,7 +68,7 @@
 ### Assertion
 
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-* [Enzyme](http://airbnb.io/enzyme/index.html) -Enzyme是用于React的JavaScript测试实用程序，使断言，操纵和遍历React组件的输出变得更加容易.
+* [Enzyme](http://airbnb.io/enzyme/index.html) -Enzyme是用于React的JavaScript测试实用程序，可以更轻松地断言，操作和遍历React组件的输出.
 * [react testing library](https://github.com/kentcdodds/react-testing-library) -简单而完整的React DOM测试实用程序，鼓励良好的测试实践.
 * [Sinon.JS](https://github.com/sinonjs/sinon) -测试JavaScript的间谍，存根和模拟.
 * [expect.js](https://github.com/Automattic/expect.js) -针对Node.JS和浏览器的BDD风格的断言.
@@ -213,7 +213,7 @@
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) -使用HTML 5和WebGL构建3D游戏的框架.
 * [recharts](https://github.com/recharts/recharts) -使用React和D3构建的重新定义的图表库.
 * [GraphicsJS](https://www.graphicsjs.org) -基于SVG / VML技术的具有直观API的轻量级JavaScript图形库.
-* [mxGraph](https://github.com/jgraph/mxgraph) -图表库，可快速创建交互式图形和图表应用程序，并在其供应商支持的任何主要浏览器中本机运行.
+* [mxGraph](https://github.com/jgraph/mxgraph) -图表库，可快速创建交互式图形和图表应用程序，该应用程序可在其供应商支持的任何主要浏览器中本地运行.
 
 还有一些很棒的商业图书馆，例如 [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/)和 [highchart](http://www.highcharts.com/).
 
@@ -277,7 +277,7 @@
 *用于处理文件的库.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) -强大的CSV库，它支持解析CSV文件/字符串以及导出到CSV.
-* [jBinary](https://github.com/jDataView/jBinary) -使用声明性语法描述文件类型和数据结构的二进制文件的高级I / O（加载，解析，操作，序列化，保存）.
+* [jBinary](https://github.com/jDataView/jBinary) -具有声明性语法的二进制文件的高级I / O（加载，解析，操作，序列化，保存），用于描述文件类型和数据结构.
 * [diff2html](https://github.com/rtfpessoa/diff2html) -Git diff输出解析器和漂亮的HTML生成器.
 * [jsPDF](https://github.com/MrRio/jsPDF) -JavaScript PDF生成.
 * [PDF.js](https://github.com/mozilla/pdf.js) -JavaScript中的PDF Reader.
@@ -608,7 +608,7 @@
 ### Calendar
 
 * [pickadate.js](https://github.com/amsul/pickadate.js) -移动友好，响应迅速且轻巧的jQuery日期和时间输入选择器.
-* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) -由Stefan Petre（来自eyecon.ro）派生的@twitter引导程序日期选择器，通过@eternicode进行了改进.
+* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) -由Stefan Petre（来自eyecon.ro）派生的@twitter引导程序日期选择器，@ eternicode进行了改进.
 * [Pikaday](https://github.com/dbushell/Pikaday) -令人耳目一新的JavaScript Datepicker —轻巧，没有依赖关系，模块化CSS.
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) -完整的拖放事件日历（jQuery插件）.
 * [rome](https://github.com/bevacqua/rome)  -可自定义的日期（和时间）选择器.  无依赖关系的可选用户界面.
@@ -628,7 +628,7 @@
 * [flow.js](https://github.com/flowjs/flow.js) -一个JavaScript库，可通过HTML5 File API提供多个同时，稳定，容错和可恢复/可重启的文件上传.
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) -具有进度条，拖放，直接到S3上传的多个文件上传插件.
 * [FileAPI](https://github.com/mailru/FileAPI)  -一组用于处理文件的JavaScript工具.  多重上传，拖放和分块文件上传.  图片：通过EXIF裁剪，调整大小和自动定向.
-* [plupload](https://github.com/moxiecode/plupload) -用于处理文件上传的JavaScript API，它支持多个文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并且使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
+* [plupload](https://github.com/moxiecode/plupload) -用于处理文件上传的JavaScript API，它支持多种文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并且使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
 
 ### Other
 
@@ -694,7 +694,7 @@
 ## Table/Grid
 
 * [jTable](https://github.com/hikalkan/jtable) -一个jQuery插件，用于创建基于AJAX的CRUD表.
-* [DataTables](https://www.datatables.net/) -（jQuery插件）这是一个高度灵活的工具，基于渐进增强的基础，并将向任何HTML表添加高级交互控件.
+* [DataTables](https://www.datatables.net/) -（jQuery插件）这是一个高度灵活的工具，基于逐步增强的基础，并将向任何HTML表添加高级交互控件.
 * [Tabulator](http://olifolkerd.github.io/tabulator/) -（jQuery插件）一种非常灵活的库，可以从任何JSON数据源或现有HTML表创建具有一系列交互功能的表.
 * [Bootstrap Table](http://bootstrap-table.wenzhixin.net.cn/) -流行的Bootstrap框架的扩展，用于创建适合您站点样式的表，而无需其他标记.
 * [floatThead](https://github.com/mkoryak/floatThead)  -（jQuery插件）在正文中滚动时锁定任何表的标题.  适用于任何表，不需要自定义html或css.
@@ -854,7 +854,7 @@ http://www.listjs.com
 * [Superhero.js](http://superherojs.com) -有关创建，测试和维护大型JavaScript代码库的资源的集合.
 * [SJSJ](https://github.com/HugoGiraudel/SJSJ) -简化的JavaScript行话是一种由社区驱动的尝试，目的是用几个简单的词来解释使当前JavaScript生态系统流行的流行语.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) -通过一系列步骤发布JavaScript开源库的综合指南.
-* [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) -从各种各样的用户排名在线教程中在线学习Javascript.
+* [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) -从各种各样的用户排名在线教程中在线学习Javascript.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) -JavaScript中实用，平衡的FP.
 
 

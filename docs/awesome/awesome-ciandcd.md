@@ -26,7 +26,7 @@ devops
 ## Build And Release System
 用于软件构建和发布，持续集成和持续交付的系统  
 * [Jenkins](http://jenkins-ci.org)  可扩展的开源持续集成服务器  
-* [Solano CI](https://www.solanolabs.com)   通过获得专利的自动并行功能，可以更快地进行持续集成和部署.  查看结果快10到80倍.  14天免费试用.  无需信用卡.
+* [Solano CI](https://www.solanolabs.com)   通过获得专利的自动并行化功能，可以更快地进行持续集成和部署.  查看结果快10到80倍.  14天免费试用.  无需信用卡.
 * [Concourse](https://concourse-ci.org) 管道被定义为单个声明性配置文件，而不是无数的复选框
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  自动化并加速构建和发布过程  
 * [ElectricFlow](http://electric-cloud.com/products/electricflow/)   ElectricFlow / ElectricCommander为分布式团队提供了对基础架构，工具链和流程的共享控制和可见性.  它可以加速和自动化软件交付过程，从而跨许多构建-测试-部署管道实现敏捷性，可预测性和安全性  
@@ -36,12 +36,12 @@ devops
 * [go (the old snap-ci)](https://www.gocd.org/)  自动化并简化构建-测试-发布周期，以无忧地连续交付产品  
 * [hudson](http://hudson-ci.org)  詹金斯的前一个  
 * [openbuildservice](http://openbuildservice.org)   开放式构建服务（OBS）是一种通用系统，可以自动，一致且可复制的方式从源中构建和分发二进制包.  您可以发布适用于各种操作系统和硬件体系结构的软件包以及更新，附加组件，设备和整个发行版  
-* [buildbot](http://trac.buildbot.net)    Buildbot是一个连续集成系统，旨在自动执行构建/测试周期.  通过在每次发生更改时自动重新构建和测试树，可以在不给其他开发人员带来麻烦之前，快速查明构建问题  
+* [buildbot](http://trac.buildbot.net)    Buildbot是一个连续集成系统，旨在自动执行构建/测试周期.  通过在每次发生更改时自动重新构建和测试树，可以在不给其他开发人员带来麻烦之前，迅速找出构建问题  
 * [Parabuild](http://www.viewtier.com/index.htm)  Parabuild是企业软件构建和发布管理系统，可通过向软件团队提供几乎不间断的发布版本和持续集成来帮助软件团队按时发布.  
 * [FinalBuilder](https://www.finalbuilder.com/)   使用FinalBuilder可以使构建过程自动化.  使用FinalBuilder，您无需编辑xml或编写脚本.  可视地定义和调试您的构建脚本，然后使用Windows Scheduler对其进行调度，或者将它们与Continua CI，Jenkins或任何其他CI Server集成  
 * [VisualBuild](http://www.kinook.com/VisBuildPro/)  Visual Build使开发人员和构建大师可以轻松地创建自动化，可重复的构建过程  
 * [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET，一个自动持续集成服务器，使用.NET Framework实现  
-* [continuum](http://continuum.apache.org/) Apache Continuum™是企业级持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理管理系统集成的功能.  
+* [continuum](http://continuum.apache.org/) Apache Continuum™是企业就绪的持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理系统的集成等功能.  
 * [quickbuild](http://www.pmease.com/)   GitHub集成.  Perforce搁置了支持.  覆盖率报告呈现.  颠覆外部变更检索.  资源访问信息.  显示等待步骤的原因.  自定义构建和请求列.  最喜欢的仪表板列表.  可继承的环境变量以及更多...  
 * [rexify](http://www.rexify.org//)  perl部署和配置管理  
 * [SimpleCI](https://github.com/simpleci/simpleci)  基于Docker的自托管ci系统.  支持分布式构建缓存，外部提供程序（GCE），实时构建日志等.  
@@ -100,6 +100,7 @@ devops
 
 ## Dev env
 * [boxstarter](http://boxstarter.org/) 使用Chocolatey软件包，可重复执行的可重启的弹性Windows环境安装变得很容易.  
+* [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) 使用Ansible设置Docker Swarm环境的样板
 * [vagrantup](https://www.vagrantup.com/)  创建和配置轻量级，可复制且可移植的开发环境.  
 * [veewee](https://github.com/jedi4ever/veewee) 简化无业游民的盒子的建设  
 
@@ -210,7 +211,8 @@ Software performance analysis tools
 * [Ansible](http://www.ansible.com) 通过易读的剧本提供简单的基础架构管理工具
 * [Puppet]（）在任何公共或私有云上构建，销毁和重建服务器  
 * [Chef](https://www.chef.io/chef/)  快速，可扩展和灵活的软件，用于数据中心自动化  
-* [SaltStack](http://saltstack.com/community/) 极其简单的配置管理，应用程序部署，任务执行和多节点编排引擎
+* [SaltStack](http://saltstack.com/community/) 极其简单的配置管理，应用程序部署，任务执行和多节点编排引擎  
+* [terraform](https://www.terraform.io) 使用基础架构作为代码来配置和管理任何云，基础架构或服务  
 
 ## Web Server
 常用的Web服务器  

@@ -170,4 +170,4 @@
 * [Tapirx](https://github.com/virtalabs/tapirx) -网络医疗设备发现和识别.
 
 ### Logistics
-* [OpenLIMS](https://openlmis.org) -专为管理健康商品供应链而构建的基于Web的开源，电子物流管理信息系统（LMIS）软件
+* [OpenLMIS](https://openlmis.org) -专为管理健康商品供应链而构建的基于Web的开源，电子物流管理信息系统（LMIS）软件
