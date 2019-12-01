@@ -52,11 +52,12 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 awesome-kubernetes现在将以不同的发行版和软件包捆绑形式提供，这意味着您可以
- 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑包发行版发行.  请查看发布列以获取更多信息.
+ 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑软件发行版发行.  请查看发布列以获取更多信息.
 
 ## Featured On
 
 - https://cloud.google.com/community/
+- https://www.freecodecamp.org/news/a-friendly-introduction-to-kubernetes-670c50ce4542/
 
 -----------------------------------------------------------------------
 
@@ -599,7 +600,7 @@ Projects
 * [kooper](https://github.com/spotahome/kooper) -用于创建Kubernetes运算符和控制器的简单Go库
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [KubeVirt](https://github.com/kubevirt)
-* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的节点自动重新启动
+* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，可以执行安全的自动节点重新启动
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [MySQL](https://github.com/oracle/mysql-operator)
@@ -609,7 +610,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和PostgreSQL管理PostgreSQL集群 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将舵转换为可自我配置并响应集群变化的智能模块.
+* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将图转换为可自我配置并响应集群更改的智能模块.
 * [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
 
 ## Custom Schedulers
@@ -1008,7 +1009,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 
