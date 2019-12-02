@@ -94,7 +94,7 @@
 * [Vorbis](http://xiph.org/vorbis/)  -Ogg Vorbis是一种完全开放的，非专有的，免专利和免专利费的通用压缩音频格式.  [BSD]
 * [minimp3](https://github.com/lieff/minimp3)  -具有净室实现的公共域，仅标头的MP3解码器.  [CC0]
 * [Verovio](https://github.com/rism-ch/verovio)  -Verovio是一个快速，轻便的音乐符号雕刻库.  [LGPL] [website](https://www.verovio.org)
-* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) -公共领域，一种完全用C ++编写的快速开源语音处理工具包，并使用ArrayFire张量库和手电筒机器学习库来实现最高效率[BSD]
+* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) -公共领域，一种完全用C ++编写的快速开源语音处理工具包，它使用ArrayFire张量库和手电筒机器学习库来实现最高效率[BSD]
 
 ## Biology
 *生物信息学，基因组学，生物技术*
@@ -104,7 +104,7 @@
 * [libsequence](http://molpopgen.github.io/libsequence/)  -一个用于表示和分析种群遗传数据的C ++库.  [GPL]
 * [SeqAn](http://www.seqan.de/)  -以生物数据为重点的序列分析算法和数据结构.  [BSD / 3条款]
 * [Vcflib](https://github.com/ekg/vcflib)  -一个C ++库，用于解析和处理VCF文件.  [麻省理工学院]
-* [Wham](https://github.com/zeeev/wham)  -通过直接将关联测试应用于BAM文件，实现基因组中的结构变异（SV）.  [麻省理工]
+* [Wham](https://github.com/zeeev/wham)  -通过直接将关联测试应用于BAM文件，实现基因组中的结构变异（SV）.  [麻省理工学院]
 
 ## BitTorrent
 
@@ -199,7 +199,7 @@
 
 * [inih](https://github.com/benhoyt/inih)  -用C语言编写的简单.INI文件解析器，非常适合嵌入式系统.  [BSD-3-Clause]
 * [inih](https://github.com/jtilly/inih) -仅单头C ++版本 [inih](https://github.com/benhoyt/inih) .  [BSD-3-Clause]
-* [iniparser](https://github.com/ndevilla/iniparser)  -此解析器文件.  [麻省理工]
+* [iniparser](https://github.com/ndevilla/iniparser)  -此解析器文件.  [麻省理工学院]
 * [libconfig](https://github.com/hyperrealm/libconfig)  -C，C ++库，用于处理结构化配置文件.  [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) -C的小型配置文件解析器库.[ISC]
 * [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
@@ -358,8 +358,8 @@
 * [GTK+](http://www.gtk.org/)  -用于创建图形用户界面的多平台工具包.  [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/)  -流行的GUI库GTK +的官方C ++接口.  [LGPL]
 * [imgui](https://github.com/ocornut/imgui)  -具有最小依赖性的即时模式图形用户界面.  [麻省理工学院]
-* [iup](https://www.tecgraf.puc-rio.br/iup)  -用于构建图形用户界面的多平台工具包.  [麻省理工学院]
-* [libRocket](http://librocket.com/)  -libRocket是C ++ HTML / CSS游戏界面中间件.  [麻省理工]
+* [iup](https://www.tecgraf.puc-rio.br/iup)  -用于构建图形用户界面的多平台工具包.  [麻省理工]
+* [libRocket](http://librocket.com/)  -libRocket是C ++ HTML / CSS游戏界面中间件.  [麻省理工学院]
 * [libui](https://github.com/andlabs/libui)  -C中的简单和可移植（但不灵活）的GUI库，使用其支持的每个平台的本机GUI技术.  [麻省理工学院]
 * [MyGUI](http://mygui.info/)  -快速，灵活和简单的GUI.  [麻省理工学院]
 * [nana](http://nanapro.org/en-us/)  -Nana是用于现代C ++风格的GUI编程的跨平台库.  [促进]
@@ -435,7 +435,7 @@
 * [IBM ICU](http://site.icu-project.org/)  -一组提供Unicode和全球化支持的C / C ++和Java库.  [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/)  -不同字符编码之间的编码转换库.  [GPL]
 * [utf8.h](https://github.com/sheredom/utf8.h)  -用于C和C ++的单头utf8字符串函数.  [无牌]
-* [utf8proc](https://github.com/JuliaStrings/utf8proc)  -一个干净的C库，用于处理UTF-8 Unicode数据.  [麻省理工学院]
+* [utf8proc](https://github.com/JuliaStrings/utf8proc)  -一个干净的C库，用于处理UTF-8 Unicode数据.  [麻省理工]
 
 ## Inter-process communication
 
@@ -446,7 +446,7 @@
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp)  -用于C ++服务器和客户端的JSON-RPC框架.  [麻省理工学院]
 * [nanomsg](https://github.com/nanomsg/nanomsg)  -几个“可伸缩性协议”的简单高性能实现.  [麻省理工学院] [website](http://nanomsg.org/)
 * [nng](https://github.com/nanomsg/nng)  -nanomsg-下一代，轻量级的无代理消息传递库.  [麻省理工学院] [website](https://nanomsg.github.io/nng/)
-* [rpclib](https://github.com/rpclib/rpclib)  -现代的C ++ msgpack-RPC服务器和客户端库.  [麻省理工]
+* [rpclib](https://github.com/rpclib/rpclib)  -现代的C ++ msgpack-RPC服务器和客户端库.  [麻省理工学院]
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp)  -C / C ++函数的简单RPC包装器生成器.  [BSD]
 * [WAMP](http://wamp.ws/)  -提供RPC和发布/订阅消息模式.  （各种实现，各种语言）
 * [xmlrpc-c](http://xmlrpc-c.sourceforge.net/)  -基于XML和HTTP的轻量级RPC库.  [BSD]
@@ -584,7 +584,7 @@
 * [Restbed](https://github.com/corvusoft/restbed)  -C ++ 11异步RESTful框架.  [AGPL]
 * [Restinio](https://github.com/Stiffstream/restinio)  -仅标头的C ++ 14库，为您提供嵌入式HTTP / Websocket服务器.  [BSD]
 * [c-ares](https://github.com/c-ares/c-ares)  -用于异步DNS请求的AC库.  [麻省理工学院]
-* [cpp-httplib](https://github.com/yhirose/cpp-httplib)  -单个文件C ++ 11-only-Header HTTP / HTTPS服务器库.  [麻省理工]
+* [cpp-httplib](https://github.com/yhirose/cpp-httplib)  -单个文件C ++ 11-only-Header HTTP / HTTPS服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  -一组用于高级网络编程的开源库.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) -C ++的URI解析器/生成器库，与RFC 3986和RFC 3987兼容.[BSL-1.0]
 * [cpr](https://github.com/whoshuu/cpr)  -具有简单但功能强大的界面的现代C ++ HTTP请求库.  模仿Python Requests模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
@@ -617,7 +617,7 @@
 * [RakNet](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. [BSD]
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp)  -适用于C ++的简单REST客户端.  它包装libcurl用于HTTP请求.  [麻省理工学院]
 * [Seasocks](https://github.com/mattgodbolt/seasocks)  -具有WebSockets支持的简单，小型，C ++可嵌入式Web服务器.  [BSD]
-* [Silicon](http://siliconframework.org)  -面向中间件的高性能C ++ 14 http Web框架.  [麻省理工]
+* [Silicon](http://siliconframework.org)  -面向中间件的高性能C ++ 14 http Web框架.  [麻省理工学院]
 * [Tufão](https://github.com/vinipsmaker/tufao)  -基于Qt构建的C ++异步Web框架.  [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser)  -严格符合RFC 3986的URI解析和处理库.  [BSD-3-Clause]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)  -µWS是最轻便，高效和可扩展的WebSocket和HTTP服务器实现之一.  [Zlib]
@@ -650,7 +650,7 @@
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d)  -Box2D的openFrameworks包装器.  [类似BSD]
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)  -由Nvidia作为Nvidia GameWorks软件套件的一部分开发的开源实时物理引擎中间件SDK.  [BSD-3-Clause] 
 * [Project Chrono](https://github.com/projectchrono/chrono)  -开源的多物理场仿真引擎.  [BSD-3-Clause] [website](https://projectchrono.org/)
-* [Simbody](https://github.com/simbody/simbody)  -高性能的C ++多体动力学/物理库，用于模拟铰接的生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
+* [Simbody](https://github.com/simbody/simbody)  -高性能C ++多体动力学/物理库，用于仿真铰接式生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
 * [Quantum++](https://github.com/vsoftco/qpp)  -现代的C ++ 11量子计算库.  [麻省理工学院]
 
 ## Reflection
@@ -707,7 +707,7 @@
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)  -bash的外部功能接口.  [麻省理工学院]
 * [Cython](https://github.com/cython/cython)  -Cython是针对Python编程语言和扩展的Cython编程语言（基于Pyrex）的优化静态编译器.  它使为Python编写C扩展与Python本身一样容易.  [Apache] [website](http://cython.org/)
 * [djinni](https://github.com/dropbox/djinni)  -生成跨语言类型声明和接口绑定的工具.  [Apache2]
-* [Duktape](https://github.com/svaarala/duktape)  -占用空间小的嵌入式Javascript引擎.  [麻省理工] [website](http://duktape.org)
+* [Duktape](https://github.com/svaarala/duktape)  -占用空间小的嵌入式Javascript引擎.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. [Apache2]
 * [libffi](https://github.com/libffi/libffi)  -便携式外部功能接口库.  [麻省理工学院] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/)  -用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [麻省理工学院]
@@ -924,7 +924,7 @@
 * [Spack](https://spack.io/)  -灵活的软件包管理器，支持多个版本，配置，平台和编译器.  [Apache-2.0 / MIT]
 * [tundra](https://github.com/deplinenoise/tundra) -高性能代码构建系统，即使对于非常大的软件项目，也可提供最佳的增量构建时间.
 * [tup](http://gittup.org/tup/) -基于文件的构建系统，可在后台监视更改的文件.
-* [Premake](http://premake.github.io) -使用Lua脚本配置的工具，可在Windows，Mac OS X和Linux上为Visual Studio，GNU Make，Xcode，Code :: Blocks等生成项目文件.
+* [Premake](http://premake.github.io) -使用Lua脚本配置的工具，可以在Windows，Mac OS X和Linux上为Visual Studio，GNU Make，Xcode，Code :: Blocks等生成项目文件.
 * [Vcpkg](https://github.com/microsoft/vcpkg)  -适用于Windows，Linux和MacOS的C ++库管理器.  [麻省理工学院]
 * [waf](https://github.com/waf-project/waf)  -基于Python的框架，用于配置，编译和安装应用程序.  [BSD] [website](https://waf.io/)
 * [XMake](https://xmake.io/)  -基于Lua的AC / C ++跨平台构建实用程序.  [Apache]

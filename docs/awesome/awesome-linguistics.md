@@ -24,7 +24,7 @@
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) -JSON格式的Pan-Romance单词列表.
 
 ### Resources
-* [How To Label Data](https://www.lighttag.io/how-to-label-data/) 大型语言注释项目管理指南
+* [How To Label Data](https://www.lighttag.io/how-to-label-data/) -大型语言注释项目管理指南.
 * [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) -用于低资源（人类）语言的保护，开发和记录的资源清单.
 
 ### On Wikipedia
@@ -47,10 +47,10 @@
 *一些更有趣和更完整的书.
 
 #### Free
-* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) -一本入门书
+* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) -一本入门书.
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
-* [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) -使用haskell编程语言的未维护资源
-* [Natural Language Processing with Python](http://www.nltk.org/book/) -NLTK包装中的书 
+* [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) -使用haskell编程语言的未维护资源.
+* [Natural Language Processing with Python](http://www.nltk.org/book/) -NLTK套件中的书籍.
 * [Text Mining with R](https://www.tidytextmining.com)
 
 #### Non free
@@ -65,3 +65,4 @@
 
 ### Communities
 * [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)
+* [Untranslatable.co, Multilingual urban dictionary](https://untranslatable.co/)

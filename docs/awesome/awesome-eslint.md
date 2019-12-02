@@ -13,22 +13,23 @@
 ## Configs
 
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -最好的鲜为人知的eslint插件的集合，可与您的主要配置一起使用.
-- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -共享配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
-- [Canonical](https://github.com/gajus/eslint-config-canonical) -共享配置 [Canonical style guide](https://github.com/gajus/canonical).
+- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -可共享的配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
+- [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) -为您的React / Vue / TypeScript项目进行渐进式ESLint配置.
+- [Canonical](https://github.com/gajus/eslint-config-canonical) -可共享的配置 [Canonical style guide](https://github.com/gajus/canonical).
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) -包含用于ESLint团队维护的项目的ESLint配置.
 - [ES](https://github.com/thenativeweb/eslint-config-es) -可共享的配置，用于非常严格的代码.
 - [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) -用于Facebook风格指南的可共享配置.
 - [Google](https://github.com/google/eslint-config-google) -的共享配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
 - [Problems](https://github.com/RyanZim/eslint-config-problems) -可共享的配置，仅捕获实际问题，并且不强制使用样式偏好.
-- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -共享配置 [Shopify's style guide](https://github.com/Shopify/javascript).
+- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -可共享的配置 [Shopify's style guide](https://github.com/Shopify/javascript).
 - [Standard](https://github.com/feross/eslint-config-standard) -JavaScript的共享配置 [Standard Style](https://github.com/feross/standard).
 - [Supermind](https://github.com/supermind/eslint-config-supermind) -Supermind风格的共享配置.
-- [XO](https://github.com/sindresorhus/eslint-config-xo) -共享配置 [XO](https://github.com/sindresorhus/xo).
+- [XO](https://github.com/sindresorhus/eslint-config-xo) -可共享的配置 [XO](https://github.com/sindresorhus/xo).
 
 ## Parsers
 
 - [Babel](https://github.com/babel/babel-eslint) -使用Babel的解析器来整理所有Babel功能.
-- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) -一个TypeScript解析器，它产生与ESLint兼容的输出.
+- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku)  -用于Roku开发的BrightScript插件.  包括解析器和规则.
 
 ## Plugins
@@ -52,6 +53,7 @@
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) -响应本机特定的掉毛规则.
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) -RequireJS的Linting规则.
 - [VueJS](https://github.com/vuejs/eslint-plugin-vue) -VueJS插件.
+- [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) -VueJS中的范围CSS插件.
 
 ### Misc
 
@@ -61,6 +63,7 @@
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) -对CSS模块使用未定义或未使用的规则.
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) -将功能或模块标记为已弃用，并在使用时获得棉绒消息.
 - [disable](https://github.com/mradionov/eslint-plugin-disable) -使用文件路径模式和内联注释禁用指定的插件.
+- [es](https://github.com/mysticatea/eslint-plugin-es) -禁用特定的ECMAScript语言版本或单个功能.
 - [es5](https://github.com/nkt/eslint-plugin-es5) -适用于ES5用户的ESLint插件（禁止使用ES2015 +）.
 - [Flow](https://github.com/gajus/eslint-plugin-flowtype) -流型起毛规则.
 - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) -将Flow作为ESLint插件运行.
@@ -90,7 +93,7 @@
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -ESLint的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -是2019年，您仍然使用循环吗？
 
-- [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
+- [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) -兑现承诺时的最佳做法.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) -节点安全性的ESLint规则.

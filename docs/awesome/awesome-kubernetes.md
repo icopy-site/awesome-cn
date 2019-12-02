@@ -40,7 +40,7 @@ _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
 &gt; Google开发的第一个统一的容器管理系统是我们内部称为Borg的系统.
 它是为管理长期运行的服务和批处理作业而构建的，以前这些服务是由两个独立的部门处理
- 系统：保姆和全球工作队列.  后者的架构对博格产生了很大的影响，但专注于
+ 系统：保姆和全球工作队列.  后者的架构对Borg有很大影响，但专注
  批处理工作；  两者都早于Linux控制组.
 
 _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 awesome-kubernetes现在将以不同的发行版和软件包捆绑形式提供，这意味着您可以
- 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑软件发行版发行.  请查看发布列以获取更多信息.
+ 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑包发行版发行.  请查看发布列以获取更多信息.
 
 ## Featured On
 
@@ -479,7 +479,7 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Reloader](https://github.com/stakater/Reloader) -将ConfigMap和Secrets的更新自动加载到用于部署，StatefulSet和DaemonSet的容器​​中
 * [Telepresence](http://www.telepresence.io) -针对远程Kubernetes集群在本地开发/调试服务
-* [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy) -一个命令行工具，可帮助您将更改发送到Kubernetes命名空间并了解结果
+* [krane](https://github.com/Shopify/krane) -一个命令行工具，可帮助您将更改发送到Kubernetes命名空间并了解结果
 
 ## Package Managers
 
@@ -520,7 +520,7 @@ Projects
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
 * [loki](https://github.com/grafana/loki) - Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
-* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
+* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用一种简单的查询语言进行处理，并通过Web UI在线进行监视.
 
 ## Testing
 
@@ -549,7 +549,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -610,7 +610,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和PostgreSQL管理PostgreSQL集群 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将图转换为可自我配置并响应集群更改的智能模块.
+* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将舵转换为可自我配置并响应集群变化的智能模块.
 * [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
 
 ## Custom Schedulers
@@ -921,7 +921,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -1009,7 +1009,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 

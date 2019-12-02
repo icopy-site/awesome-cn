@@ -6,7 +6,7 @@
 
 &gt;与数字历史相关的精选精彩清单.
 
- 在历史科学和其他人文学科中，数字工具已成为日常生活中不可或缺的一部分.  该集合汇集了用于数字历史和相关学科的最佳工具，源集合和平台.
+ 在历史科学和其他人文学科中，数字工具已成为日常生活中不可或缺的一部分.  该集合汇集了面向数字历史和相关学科的最佳公共可访问工具，源集合和平台.
 
 
 
@@ -51,9 +51,8 @@
 - [COSMOV](http://www.cosmov.uzh.ch/) -COSMOV包含1968年夏天苏黎世活动的数字版本.
 - [Awesome Computer History](https://github.com/watson/awesome-computer-history) -很棒的计算机历史视频，纪录片和相关民俗清单.
 - [Ad*Access](https://repository.duke.edu/dc/adaccess) -1911年至1955年之间，超过7,000个美国和加拿大广告涵盖了五个产品类别-美容和卫生，广播，电视，运输和第二次世界大战宣传.
-- [Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/) -互动式门户网站，介绍德国妇女运动的历史.
+- [Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/) - An interactive portal on the history of women's movements in Germany.
 - [Marxist Internet Archive](https://www.marxists.org/) -您想知道的有关马克思（以及其他重要社会主义者）的一切.
-- [Tito's Home Page](https://www.titoville.com/) -围绕Josip Broz Tito的系列.
 
 ## Data and Statistics
 
@@ -61,7 +60,7 @@
 - [HSSO](https://hsso.ch/) -瑞士在线历史统计.
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) -联邦委员会向议会报告过去几年的收支情况.
 - [Industriekultur](https://industriekultur.ch/) -瑞士国家文物清单.
-- [fxtop.com](https://fxtop.com/) - Forex rate history since 1953.
+- [fxtop.com](https://fxtop.com/) -自1953年以来的汇率历史.
 
 ## Encyclopaedias
 
@@ -79,6 +78,8 @@
 - [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/topics/) -关于数字历史和数字人文学科的概述.
 - [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) -关于数字历史和数字人文学科的概述.
 - [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) -为历史学家（教师和学生，档案管理员和博物馆策展人，教授以及业余爱好者）提供的网络介绍，他们希望制作在线历史著作，或者在这种重要的新媒介上进一步发展和改进他们已经开始的项目.
+- [forText](https://fortext.net/routinen/lerneinheiten) -学习以数字方式（以德语）探索文学.
+- [Framework for Information Literacy for Higher Education](http://www.ala.org/acrl/standards/ilframework) -如何教授数字素养.
 
 ### Visualization
 
@@ -111,6 +112,10 @@
 - [Voyant](https://voyant-tools.org/) -数字文本的阅读和分析环境.
 - [Lexos](http://lexos.wheatoncollege.edu) -用于文本分析的在线工具.
 - [DocFetcher](http://docfetcher.sourceforge.net/) -开源桌面搜索应用程序.
+
+### Data Augmentation
+
+- [AutoCat](https://autocat.apps.allenai.org/)  -在线创建简单的文本分类模型.  由艾伦AI研究所（AI2）提供.
 
 ### Publishing
 

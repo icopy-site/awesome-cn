@@ -37,10 +37,8 @@
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) -在管理面板中运行cron的概述.
 - [QuickDevBar](https://github.com/vpietri/magento2-developer-quickdevbar) Magento2的开发人员工具栏 
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发人员工具栏
-- [mage2.docker](https://github.com/aliuosio/mage2.docker) -此安装程序安装了Magento 2的基本docker容器.如果在.env中设置了标志，也可以下载magento 2文件和示例数据.
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) -具有安装程序的Magento 2的基本Docker容器（更新：2019年11月27日）
 - [markshust/docker-magento](https://github.com/markshust/docker-magento) -Mark Shust的Magento Docker配置
-
----
 
 ## Open Source Extensions
 
@@ -85,7 +83,7 @@
 - [de_CH](https://github.com/staempfli/magento2-language-de-ch)  -瑞士语言包.
 - [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) ：fr：-法语包.
 - [da_DK](https://magentodanmark.dk/)  -丹麦语言包.
-- [es_AR](https://github.com/SemExpert/Magento2-language-es_ar)  -西班牙语（阿根廷）语言包.
+- [es_AR](https://github.com/SemExpert/Magento2-language-es_ar) 🇦🇷 - Spanish (Argentina) Language Package.
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) ：es：-西班牙语语言包.
 - [pt_BR](https://github.com/rafaelstz/traducao_magento2_pt_br)  -葡萄牙语巴西语言包.
 - [it_IT](https://github.com/mageplaza/magento-2-italian-language-pack) ：it：-意大利语.
@@ -163,7 +161,7 @@
 
 ### Infrastructure
 
-- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+- [Fastly Extension](https://github.com/fastly/fastly-magento2) -Magento 2快速集成.
 - [Docker Magento 2](https://github.com/fballiano/docker-magento2) -Magento2 +清漆+ PHP7 + Redis + SSL（群集可用）.
 
 ### Mobile Application

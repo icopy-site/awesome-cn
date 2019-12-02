@@ -36,7 +36,7 @@
 ## Mobile Apps
 
 * [@home](https://www.athomeapp.de/) -iOS-（购买inApp即可删除广告）
-* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) -（inApp购买）-具有适用于iOS和Android的扩展功能的CCU历史客户端
+* [HistClient](https://www.sa-com.de/smarthome-special/histclient-handbuch/) -（inApp购买）-具有针对iOS和Android的扩展功能的CCU历史客户端
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) -安卓 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) -iOS
 * [TinyMatic](https://www.tinymatic.de/) -Android（以前为：HomeDroid）
@@ -54,7 +54,7 @@
 
 ## Alternative Sensors, Actuators and Hardware Modifications
 
-* [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) -AskSinPP围绕DIY组件的介绍，文档和项目
+* [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) -使用AskSinPP进行DIY组件的介绍，文档和项目
 * [Beispiel_AskSinPP](https://github.com/jp112sdl/Beispiel_AskSinPP) -使用的示例草图 [AskSinPP](https://github.com/pa-pa/AskSinPP) 图书馆
 * [HAUS-BUS.DE](http://www.haus-bus.de/) -Homematic有线兼容设备.
 * [Homematic Wired Hombrew Hardware](https://github.com/jfische) -用于Homematic有线的各种Homebrew传感器/执行器.
@@ -65,7 +65,6 @@
 
 * [CCU Historian](https://ccu-historian.de/) -长期存档和图形.
 * [CUxD](https://www.homematic-inside.de/software/tag/Zusatzsoftware )  -CCU的“皮革工人”.  连接FS20，...（EnOcean，...），提供虚拟设备和有用的工具.
-* [CUxD-Highcharts](https://github.com/hobbyquaker/cuxd-highcharts) -以高图显示CUxD日志.
 * [Email](https://github.com/jens-maus/hm_email) -用于电子邮件传递的HomeMatic CCU插件.
 * [hm-print](https://github.com/litti/hm-print) -打印CCU程序.
 * [hm-tools](https://github.com/fhetty/hm-tools) -RaspberryMatic的工具集合.
@@ -77,15 +76,13 @@
 * [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) -蚊子包装为Homematic CCU3和RaspberryMatic的附件
 * [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) -RaspberryMatic插件，RaspberryMatic可以自我更新，通过GUI简化WLAN配置，并且可以安装和更新其他插件，而无需强制重启
 * [Redis](https://github.com/hobbyquaker/ccu-addon-redis) -Redis打包为Homematic CCU3和RaspberryMatic的插件
-* [RedMatic](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/)  作为Homematic CCU3和RaspberryMatic的插件.  提供舒适的HomeKit集成以及用于将CCU连接到MQTT的特殊节点.
-* [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) -用于Homematic CCU的WebUI.
+* [RedMatic](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/)  作为Homematic CCU3和RaspberryMatic的插件.  提供舒适的HomeKit集成和用于将CCU连接到MQTT的特殊节点.
 * [XML-API](https://github.com/hobbyquaker/xml-api) -通过HTTP / XML简化了CCU访问.
 
 
 ## Interfacing Software
 
 * [CCU-Jack](https://github.com/mdzio/ccu-jack) -CCU-Jack提供了简单，安全的基于REST的访问.
-* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) -的Homematic插件 [homebridge](https://homebridge.io)，这是一种轻量级的NodeJS服务器，您可以在家庭网络上运行它来模拟iOS HomeKit API.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Homematic CCU的节点.
 
 
@@ -95,7 +92,6 @@
 * [check_homematic](https://github.com/hobbyquaker/check_homematic) -Nagios / Icinga插件，用于检查Homematic CCU.
 * [hm-simulator](https://github.com/hobbyquaker/hm-simulator) -模拟（部分）Homematic CCU.
 * [hmcfgusb](https://git.zerfleddert.de/cgi-bin/gitweb.cgi/hmcfgusb) -在Linux / Unix上使用HM-CFG-USB（2）的实用程序.
-* [HMXMLBIN](https://github.com/leonsio/HMXMLBIN) -BINRPC和XMLRPC之间的转换器.
 * [homematic-manager](https://github.com/hobbyquaker/homematic-manager) -管理homematic接口进程（rfd / hs485d / homegear）.
 * [language-homematic](https://github.com/Ayngush/language-homematic) -在Atom中的HomeMatic脚本文件中添加语法突出显示和摘要.
 * [occu-test](https://github.com/hobbyquaker/occu-test) -ReGaHss的自动化系统测试-HomeMatic（O）CCU“逻辑层”.
@@ -107,7 +103,7 @@
 * [homematic-rega](https://github.com/hobbyquaker/homematic-rega) -Node.js Homematic CCU ReGaHSS远程脚本接口.
 * [homematicip-rest-api](https://github.com/coreGreenberet/homematicip-rest-api) -用于homematicIP REST API（基于云/访问点）的Python包装器.
 * [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) -Xmlrpc客户端和服务器Node.js模块.
-* [pmatic](https://github.com/LarsMichelsen/pmatic)  -用于Homematic的Python API.  易于使用.
+* [pmatic](https://github.com/LarsMichelsen/pmatic)  -用于Homematic的Python API.  使用方便.
 * [pyhomematic](https://github.com/danielperna84/pyhomematic) -与Homematic设备进行交互的Python 3接口.
 
 ## Smart Home Software supporting Homematic
