@@ -42,11 +42,11 @@ Audio
 
 * [Open Music](https://github.com/openmusic-project/OM6)  -可视化程序，计算机辅助合成环境.  [GPL3] [2].
 * [OM7](https://github.com/openmusic-project/om7)  -OpenMusic可视化编程和计算机辅助合成环境的新实现，包括图形界面，计算模式以及与外部软件库的连接方面的许多改进.  [GPL3] [2].
-* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境.  从零开始设计软件合成器或声音插件很有用.  它也是一种合成工具，可以在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
+* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境.  从零开始设计软件合成器或声音插件很有用.  它也是一种合成工具，可以在样本级别上产生可控制的高质量声音，从而实时定义和重新定义数字信号处理器和音乐结构.
 * [cl-collider](https://github.com/byulparan/cl-collider) - 一种
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统.  包括用于Common Lisp的CFFI和FFI接口.
-* [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
+* [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供了与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
 * [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在实现其中的大部分功能，但以一种更健壮，富有表现力，一致，反射性和脆弱的方式实现.  通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  -用于OpenAL音频库的绑定.  公共区域.
 * [Common Music](https://github.com/ormf/cm) -一个的存储库
@@ -107,7 +107,7 @@ ORMs
 ----
 
 *：星级： [clsql](http://www.cliki.net/CLSQL)  -具有Common Lisp接口的SQL数据库.  [LLGPL] [8].
-*  [mito](https://github.com/fukamachi/mito) -带有迁移，关系和PostgreSQL支持[LLGPL] [8]的Common Lisp的ORM. [mitho-auth](https://github.com/fukamachi/mito-auth)，一个用于使用授权的mixin类； [mito-attachment](https://github.com/fukamachi/mito-attachment)，RDBMS外部用于文件管理的混合类.
+*  [mito](https://github.com/fukamachi/mito) -带有迁移，关系和PostgreSQL支持[LLGPL] [8]的Common Lisp的ORM. [mitho-auth](https://github.com/fukamachi/mito-auth)，一个使用授权的mixin类； [mito-attachment](https://github.com/fukamachi/mito-attachment)，RDBMS外部用于文件管理的混合类.
 * [cl-dbi](https://github.com/fukamachi/cl-dbi)  -Common Lisp的独立于数据库的接口.  [LLGPL] [8].
 * [crane](https://github.com/eudoxia0/crane)  -另一个ORM.  [Expat] [14].
 * [datafly](https://github.com/fukamachi/datafly)  -轻量级的数据库库.  [3子BSD] [15].
@@ -234,7 +234,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
-* [donuts](https://github.com/tkych/donuts)  -绘制Common Lisp的DSL图形.  [Expat] [14].
+* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [Expat] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -252,9 +252,9 @@ GUI
 *  [Qtools](https://github.com/Shinmera/qtools/)  -基于CommonQt的Qt工具包.  [Artistic License 2.0] [51]另外 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制的UI组件）， [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 *：星级： [CommonQt](https://github.com/commonqt/commonqt)  -通过QtSmoke为Qt4的Common Lisp绑定.  [FreeBSD] [39].
 *：星级： [ltk](http://www.peter-herth.de/ltk/)  -Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
-*：星级： [IUP](https://github.com/lispnik/iup/) -YFC绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/)  便携式用户界面库（ALPHA之前的版本）.  IUP是跨平台的（Windows，macOS，GNU / Linux），具有许多小部件，具有小的api，并且正在积极开发中.
+* [IUP](https://github.com/lispnik/iup/) -YFC绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/)  便携式用户界面库（ALPHA之前的版本）.  IUP是跨平台的（Windows，macOS，GNU / Linux），具有许多小部件，具有小的api，并且正在积极开发中.
 * [nodgui](https://notabug.org/cage/nodgui)  -基于Ltk的Tk工具箱的绑定，带有语法糖和其他小部件.  [LLGPL] [8].
-* [cl-cffi-gtk](http://www.crategus.com/books/cl-cffi-gtk/)  -绑定GTK + 3.  [GNU LGPL2.1] [11].
+* [cl-cffi-gtk](http://www.crategus.com/index.php/projekte/)  -绑定GTK + 3.  [GNU LGPL2.1] [11].
 * [cl-gtk2](https://github.com/dmitryvk/cl-gtk2)  -绑定GTK + 2.  [LLGPL] [8].
 * [ceramic](https://ceramic.github.io/)  -带有Electron的桌面Web应用程序.  [Expat] [14].
 * [CocoaInterface](https://github.com/plkrueger/CocoaInterface/) -
@@ -427,7 +427,7 @@ Beginner
 --------
 
 * [Learn X in Y minutes - Where X = Common Lisp](https://learnxinyminutes.com/docs/common-lisp/) -涵盖基本内容的小型Common Lisp教程.
- * [Practical Common Lisp] [206]-Common Lisp的良好介绍性文字，并附有实际示例.  更好地阅读 [a Firefox add-on](https://github.com/vale981/practical-cl-beautified).
+ * [Practical Common Lisp] [206]-Common Lisp的一个很好的介绍性文字，并附有实例.  更好地阅读 [a Firefox add-on](https://github.com/vale981/practical-cl-beautified).
 * [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) -语言的不错介绍.
 * [Learn LISP: Simply Easy Learning](http://www.tutorialspoint.com/lisp/index.htm)  -一套很好的入门教程；  包括互动示例.
 * [Successful Lisp](http://successful-lisp.blogspot.com/) -对于具有某些编程背景的初学者的一本好书.
@@ -467,7 +467,7 @@ Beginner
 --------
 
 * [Land of Lisp](http://landoflisp.com/) -Common Lisp的有趣游戏导向介绍.
-* [Practical Common Lisp] [206]-Common Lisp的良好介绍性文字，并附有实际示例.
+* [Practical Common Lisp] [206]-Common Lisp的一个很好的介绍性文字，并附有实例.
 * [Common Lisp Koans] [201]-该项目通过许多Common Lisp语言功能逐步指导学习者.
 
 Intermediate
@@ -589,7 +589,7 @@ Web框架
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，而HTTP条件仅是Lisp条件.  [LLGPL] [8].
-* [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录，缓存，权限或身份验证的注释，通过Swagger的文档等功能.[MIT] [200].
+* [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录的记录，缓存，权限或身份验证，通过Swagger进行文档记录等.[MIT] [200].
 * [Weblocks](https://github.com/40ants/weblocks)  -基于窗口小部件的框架，具有内置的ajax更新机制，可“解决JavaScript问题”.  [LLGPL] [8].
 
  有更多的项目，或多或少地中止了但很有趣.  请参阅其他资源.
@@ -623,7 +623,7 @@ HTML生成器和模板
 *：星级： [Djula](https://github.com/mmontone/djula)  -Django模板引擎到Common Lisp的端口.  [Expat] [14].
 * [cl-markup](https://github.com/arielnetworks/cl-markup)  -现代标记生成库.  [LLGPL] [8].
 * [eco](https://github.com/eudoxia0/eco)  -快速，灵活，设计友好的模板引擎.  [Expat] [14].
-* [cl-closure-template](https://github.com/archimag/cl-closure-template)  -实施Google的“关闭”模板.  [LLGPL] [8].
+* [cl-closure-template](https://github.com/archimag/cl-closure-template)  -实施Google的关闭模板.  [LLGPL] [8].
 * [clip](https://shinmera.github.io/clip)  -HTML模板处理器，其中模板以HTML编写.  [Artistic License 2.0] [51].
 * [lsx](https://github.com/fukamachi/lsx/)  -具有类似JSX语法的可嵌入HTML模板引擎.  [BSD_2Clause] [17].
 
@@ -687,7 +687,7 @@ Deployment
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) -基础
   带有SBCL或CCL和最新版本的Common Lisp项目的Docker映像
   ASDF，Qlot和Roswell.
-* [s2i-lisp](https://github.com/container-lisp/s2i-lisp)  -基于CentOS或RHEL7的“源到映像”构建器映像，用于为OpenShift（以及Docker）构建Common LISP映像.  它具有可安装Quicklisp，SLIME或SLY集成的最新SBCL，并允许通过环境变量进行自定义.  [AGPL] [89]
+* [s2i-lisp](https://github.com/container-lisp/s2i-lisp)  -基于CentOS或RHEL7的“源到映像”构建器映像，用于为OpenShift（以及Docker）构建Common LISP映像.  它具有可与Quicklisp安装，SLIME或SLY集成的最新SBCL，并允许通过环境变量进行自定义.  [AGPL] [89]
 * [deploy](https://shinmera.github.io/deploy)  -用于Lisp应用程序二进制部署的工具包，并具有对外部共享库的额外支持.  [Artistic License 2.0] [51].
 * [cl-aws-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)  -使用Common Lisp（SBCL）作为AWS lambda上的自定义运行时的示例.  WTFPL.
 

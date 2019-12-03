@@ -30,11 +30,11 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 
 It's on GitHub for a reason! Please submit pull requests.
 
-
-[![instabug](https://user-images.githubusercontent.com/9888943/46256666-08746700-c4ae-11e8-8c64-406bbbfe2e0f.png)](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=banner)
-
- &gt; Instabug使您可以轻松地从Beta测试人员和用户那里收集反馈.  SDK会自动附加您调试和修复错误和崩溃时所需的所有详细信息.  加入依赖Instabug的世界顶级应用程序，以提高其应用程序质量并更快地进行迭代. [learn more.](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=learnmore)🚀
-> [![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
+### Understand How Your App is Doing with Real-Time Contextual Insights From Your Users
+[![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=banner)
+ &gt; Instabug可帮助Android开发人员轻松地从Beta测试人员和用户那里收集错误和反馈，以加快迭代速度并交付高质量的应用程序.  Instabug会自动附加屏幕截图，设备详细信息，网络日志，再现步骤以及解决问题和确定产品积压需求所需的大量其他关键见解. 
+&gt;移动团队通过与Github，Jira，Slack，Zendesk等第三方工具无缝集成来加速其工作流程. [Instabug is offering Tools of the Trade community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=get-started)
+>[![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
 
 
 
@@ -64,7 +64,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
  |  服务|  推特|  定价|  描述
 |:--------|:--------|:--------|:------------|
-| [BitBucket Issues](https://bitbucket.org) | [@bitbucket](https://twitter.com/bitbucket)  |  $ 10 / mo-$ 200 / mo，无限的私人代码存储库|  在云中托管，管理和共享Git和Mercurial存储库.  免费，无限制的私人存储库（最多可容纳5个开发人员）使团队可以灵活地增长和编码，而不受限制.  |
+| [BitBucket Issues](https://bitbucket.org) | [@bitbucket](https://twitter.com/bitbucket)  |  $ 10 / mo-$ 200 / mo，无限的私人代码存储库|  在云中托管，管理和共享Git和Mercurial存储库.  免费，无限制的私人存储库（最多可容纳5个开发人员）使团队可以灵活地增长和编码，而不受任何限制.  |
 | [BugHerd](https://bugherd.com) | [@bugherd](https://twitter.com/bugherd)  |  $ 29 / mo-$ 180 / mo |  将客户反馈变成可行的任务.  BugHerd使您可以快速查看项目进展情况以及每个人的工作情况.  通过任务板，您可以通过简单的拖放分配和安排任务，使团队成员保持同步.  |
 | [Bugify](https://bugify.com) | [@bugify](https://twitter.com/bugify)  |  $ 59.00 |  自托管的问题管理系统.  一次性支付.  用PHP编写.  |
 | [GitHub Issues](https://github.com) | [@GitHub](https://twitter.com/GitHub)  |  $ 7 / mo-$ 50 / mo |  一起更好地构建软件.  GitHub是地球上最大的代码宿主，拥有超过1,320万个存储库.  无论大小，每个存储库都具有相同的强大工具.  这些工具对社区开放，供公共项目使用，对私有项目安全.  |
@@ -89,7 +89,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Apollo](https://www.apollohq.com) | [@applicomhq](https://twitter.com/applicomhq)  |  $ 23 / mo-$ 148 / mo |  集成的项目和联系人管理正确完成Apollo是项目和联系人管理正确完成的项目.  使用Apollo，您将意识到它的构建是为了帮助您快速有效地完成工作.  使用Apollo，您将永远知道您的项目，联系人和生活在哪里，并且无论什么日程安排多么忙碌，您都将感受到一切.  |
 | [Pivotal Tracker](https://www.pivotaltracker.com) | [@pivotaltracker](https://twitter.com/pivotaltracker)  |  $ 7 / mo-$ 175 / mo |  建立更好的软件.  将您的项目分解成小故事，使您的产品更接近业务目标.  使用点来估计每个故事的相对复杂性，并在待办事项列表中对其进行优先排序.  |
 | [Asana](https://asana.com) | [@asana](https://twitter.com/asana)  |  $ 50 / mo-$ 800 / mo |  无需电子邮件的团队合作.  Asana是我们优先考虑项目，保持订单和保持在不断增加的待办事项清单上的首选工具|
-| [WeekPlan](https://weekplan.net) | [@weekplan](https://twitter.com/weekplan)  |  $ 7 / mo-$ 19 / mo |  时间管理受到“高效人才的7种习惯”的启发，具有以下特点：周目标，周视图和象限矩阵，番茄定时器，共享工作区等.
+| [WeekPlan](https://weekplan.net) | [@weekplan](https://twitter.com/weekplan) | $7/mo - $19/mo | Time management inspired by the "7 habits of highly effective people" Features: goals of the week, week view and quadrant matrix, pomodoro timer, shared workspaces, etc... |
 | [Trello](https://trello.com) | [@trello](https://twitter.com/trello)  |  $ 5 / mo |  整理任何东西，Trello是最快，最简单的整理任何东西的方式，从您的日常工作到喜爱的辅助项目，再到您最大的人生计划.  |
 | [Blossom](https://www.blossom.co) | [@blossom](https://twitter.com/blossom)  |  $ 19 / mo-$ 149 / mo |  敏捷项目管理.  Blossom为团队中的每位成员提供了清晰的概述，说明谁在做什么，为什么做以及与此同时，它可以帮助您专注于最重要的事情.  借助Blossom，您可以一心一意地高效管理整个开发过程，并且牢记简单性.  Blossom是基于看板原理的，它是一种强调迭代交付周期并不断改善团队或组织工作流程的工作方式.  |
 | [Redmine](https://www.redmine.org)  |  -|  -|  灵活的项目管理Web应用程序.  它是使用Ruby on Rails框架编写的，是跨平台和跨数据库的.  |
@@ -133,7 +133,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Paddle](https://paddle.com/) | [@PaddleHQ](https://twitter.com/PaddleHQ)  |  $ 0-$ 2500 / mo |  针对移动和Web应用程序的高级自定义分析.  Paddle是一个分析平台，可衡量用户操作而不是页面浏览量.  动作可以是用户所做的任何事情：查看产品，玩手机游戏，在您的网站上购买商品等.  Paddle处理自定义事件和自定义数据的能力使其超越了更多传统分析平台.  |
 | [Chartbeat](https://chartbeat.com) | [@chartbeat](https://twitter.com/chartbeat)  |  $ 9.95 / mo-$ 49.95 / mo |  为您的网站建立忠实而有价值的受众.  Chartbeat的实时流量和观众行为数据向您显示了谁在您的网站上，以及他们现在如何与您的内容互动-因此您可以在重要时采取行动.  |
 | [Chartio](https://chartio.com) | [@chartio](https://twitter.com/chartio)  |  -|  使用Chartio可视化和浏览数据.  通过直观的拖放界面创建交互式图表和完善的仪表板.  一次单击即可从基本表切换到复杂的数据可视化.  强大的过滤器可让您对数据进行切片和切块，并且无需进行任何配置即可深入了解大多数图表.  |
-| [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky)  |  $ 9.99 / mo-$ 19.99 / mo |  实时网络分析.  Clicky使您可以查看每个访问者以及他们对您的网站执行的每个操作，并可以选择向用户添加自定义数据，例如用户名或电子邮件地址.  单独分析每个访客，并查看其完整历史记录.  |
+| [Clicky](https://clicky.com) | [@clicky](https://twitter.com/clicky)  |  $ 9.99 / mo-$ 19.99 / mo |  实时网络分析.  Clicky使您可以查看每个访问者以及他们对您的网站执行的每个操作，并可以选择向用户添加自定义数据，例如用户名或电子邮件地址.  单独分析每个访问者，并查看其完整历史记录.  |
 | [Fathom Analytics](https://usefathom.com/)  |  -|  $ 0-79 / mo |  简单，有用的网站统计信息，而无需跟踪或存储您的用户的个人数据|
 | [Gauges](https://get.gaug.es) | [@gauges](https://twitter.com/gauges)  |  $ 6- $ 48 / mo |  量具提供实时的网络分析，例如，有多少人访问您的网站，他们来自哪里以及去哪里.  |
 | [GoSquared](https://www.gosquared.com) | [@gosquared](https://twitter.com/GoSquared)  |  £21.60-£396 /月|  易于使用的实时网络分析.  |
@@ -142,7 +142,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Improvely](https://www.improvely.com) | [@improvelycom](https://twitter.com/improvelycom)  |  $ 29-$ 899 / mo |  转化跟踪和点击欺诈监控平台.  跟踪营销活动效果并监视其是否存在点击欺诈的最简单方法.  |
 | [KISSmetrics](https://www.kissmetricshq.com/) | [@kissmetrics](https://twitter.com/kissmetrics/)  |  $ 150 / mo-$ 500 / mo |  KISSmetrics会告诉您谁在做.  最后的每一块都与一个真实的人联系在一起.  所有的.  人们在不同的浏览器和设备之间跳来跳去都没关系.  甚至需要6个月才能回来.  您将看到真正的人在做什么.  |
 | [Keen IO](https://keen.io) | [@keen_io](https://twitter.com/keen_io)  |  $ 0-$ 2000 + / mo |  自定义分析不应在后端带来麻烦.  Keen IO强大的API为您完成了繁重的工作，因此您可以收集所需的所有数据并开始获得所需的答案.  |
-| [Localytics](https://www.localytics.com) | [@localytics](https://twitter.com/localytics/)  |  最多可释放1万个MAU，月费为$ 200-高于$ 2700 / mo |  找出在您的移动或网络应用中有效的方法.  做更多.  全部集中在一处.  先进的分析功能可提供数据和见解，以帮助您构建更成功的应用程序.  整合行销可协助您轻松吸引和吸引更多客户.  |
+| [Localytics](https://www.localytics.com) | [@localytics](https://twitter.com/localytics/)  |  最多可释放1万个MAU，月费为$ 200-高于$ 2700 / mo |  找出在您的移动或网络应用中有效的方法.  做更多的事情.  全部集中在一处.  先进的分析功能可提供数据和见解，以帮助您构建更成功的应用程序.  整合行销可协助您轻松吸引和吸引更多客户.  |
 | [Matomo](https://matomo.org) | [@matomo_org](https://twitter.com/matomo_org)  |  -|  无论您是个人博客作者，小型企业还是大型公司，Matomo都能帮助您获得有价值的见解，以帮助您的企业或读者群增长.  |
 | [Mixpanel](https://mixpanel.com) | [@mixpanel/](https://twitter.com/mixpanel)  |  $ 150 / mo-$ 2000 / mo |  动作胜于页面浏览.  多年来，公司一直将页面浏览量作为成功的主要指标.  网页浏览量之所以受欢迎，是因为它们易于报告，但最终无法告诉您访问者的参与度.  通过Mixpanel，您可以通过报告操作（而非页面浏览量）来衡量客户在您的应用程序中的行为.  |
 | [Segment](https://segment.com) | [@segment](https://twitter.com/segment)  |  $ 29 / mo-$ 349 / mo |  正确的工具管理方式.  这个想法很简单：所有数据都有一条管道.  一次集成即可将数据发送到任何第三方工具.  |
@@ -177,7 +177,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
  |  服务|  推特|  定价|  描述
 |:--------|:--------|:--------|:------------|
-| [Workday](https://www.workday.com) | [@workday](https://twitter.com/workday)  |  -|  工作日以人们工作的方式进行工作，无论是在旅途中还是实时协作.  浏览下面的产品预览，了解Workday如何改变您的工作方式.  凭借强大的业务应用程序和企业软件无法比拟的用户体验，Workday为您提供了转变业务所需的一切.  |
+| [Workday](https://www.workday.com) | [@workday](https://twitter.com/workday) | - | Workday works the way people work—collaboratively, on the go, and in real-time. Explore the product previews below to learn how Workday can change the way you work. With powerful business applications and a user experience that's unmatched in enterprise software, Workday gives you everything you need to transform your business. |
 | [Lever](https://www.lever.co) | [@lever](https://twitter.com/lever)  |  -|  可供租用的现代网络应用程序.  利用您的整个公司–面试官，经理和招聘人员–进行采购，审核和关闭.  |
 | [Zenefits](https://www.zenefits.com) | [@zenefits](https://twitter.com/zenefits) | $0/mo | The #1 All-In-One HR Platform. Payroll. Benefits. Time. Compliance. All online, all in one place. |
 | [TestDome](https://www.testdome.com/) | [@TestDome](https://twitter.com/TestDome)  |  $ 8 /候选人-$ 20 /候选人|  自动化的编程技能测试，要求应聘者在面试之前写真实的代码.  |
@@ -218,7 +218,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Wercker](https://www.oracle.com/corporate/acquisitions/wercker/) | [@wercker](https://twitter.com/wercker)  |  $ 0 /月-$ 350 /月|  Wercker是用于Kubernetes和微服务部署的Docker原生CI / CD自动化平台.  |
 | [Monkey Test It](https://monkeytest.it) | [@monkeytestit](https://twitter.com/monkeytestit)  |  $ 0 / mo-$ 199 / mo |  自动化的网站检查工具，可在用户操作之前捕获网站上的错误（链接断开，图像丢失，JS错误等）.  与Slack，大多数CI系统，webook集成，并支持内置调度.  |
 | [Concourse](https://concourse-ci.org) | [@concourseci](https://twitter.com/concourseci)  |  免费|  广场是一个开放源代码的连续事物.  Concourse建立在简单的资源，任务和工作机制的基础上，提出了一种通用的自动化方法，使其非常适合CI / CD.  |
-| [PullRequest](https://www.pullrequest.com) | [@pullrequestinc](https://twitter.com/pullrequestinc) | $33+/10 min | Code review as a service by vetted, professional reviewers backed by static analysis  |
+| [PullRequest](https://www.pullrequest.com) | [@pullrequestinc](https://twitter.com/pullrequestinc)  |  $ 33 + / 10分钟|  由经过审查的专业评论员通过静态分析为您提供代码审查服务
 
 
 ### Dashboards
@@ -231,7 +231,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Klipfolio](https://www.klipfolio.com) | [@klipfolio](https://twitter.com/klipfolio)  |  $ 5 /用户/月-$ 20 /用户/月|  认识您的业务仪表板.  连接到任何数据服务，将您的关键号码集中在一个仪表板上.  将数据分配给可视化，以显示数字背后的故事.  通过与团队中的每个人共享仪表板来培养数据驱动的文化.  |
 | [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana)  |  $ 0-$ 90 / mo（+ 9 / user / mo）|  您所有指标的分析平台.  Grafana允许您查询，可视化，警报和了解指标，无论它们存储在哪里.  与您的团队一起创建，探索和共享仪表板，并培养数据驱动的文化.  |
 | [Redash](https://redash.io) | [@getredash](https://twitter.com/getredash)  |  自托管或$ 49 / mo-450 / mo |  “ Redash支持查询多个数据库，包括：Redshift，Google BigQuery，PostgreSQL，MySQL，Graphite，Presto，Google Spreadsheets，Cloudera Impala，Hive和自定义脚本.”  |
-| [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe)  |  $ 0-$ 29 / mo |  Cyfe为您的客户提供了多合一的Web仪表板，可帮助他们从一个位置实际监控和分析分散在所有在线服务（如Google Analytics，Salesforce，AdSense，MailChimp，Amazon，Facebook，WordPress，Twitter等）中的数据-时间.  |
+| [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe)  |  $ 0-$ 29 / mo |  Cyfe为您的客户提供了多合一的Web仪表板，可帮助他们从一个位置实际监控和分析分散在所有在线服务（例如Google Analytics，Salesforce，AdSense，MailChimp，Amazon，Facebook，WordPress，Twitter等）中的数据-时间.  |
 
 ### Error/Exception Handling
 
@@ -253,7 +253,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
  |  服务|  推特|  定价|  描述
 |:--------|:--------|:--------|:------------|
-| [HockeyApp](https://www.hockeyapp.net) | [@VSAppCenter](https://twitter.com/VSAppCenter) | Free - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps. Includes analytics, user feedback and crash reports. |
+| [HockeyApp](https://www.hockeyapp.net) | [@VSAppCenter](https://twitter.com/VSAppCenter)  |  免费-每月$ 29/9，取决于应用程序的数量和所有者的数量|  发行iOS，Android，Windows Phone和Mac OS应用程序.  包括分析，用户反馈和崩溃报告.  |
 | [Setapp](https://setapp.com) | [@setapp](https://twitter.com/setapp)  |  $ 9.99 / mo |  Setapp是一个单一订阅，其中包含大量适用于macOS的优质应用|
 
 ### Log Monitoring
@@ -292,7 +292,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns) | - | - | - |
 | [Flood.io](https://flood.io) | [@flood_io](https://twitter.com/flood_io)  |  免费至$ 399 /月|  自动设置和JMeter和Gatling负载测试的结果摘要/图表.  可以轻松扩展至100K + reqs / min.  |
 | [Neustar Website Load Testing](https://www.security.neustar/digital-performance/web-performance-management) | [@Neustar](https://twitter.com/Neustar)  |  $ 80 / mo |  解决性能问题，例如带宽限制，错误率超过阈值，服务器PU限制等等.  |
-| [Loader.io](https://loader.io) | [@loaderio](https://twitter.com/loaderio)  |  免费至100.00 $ /月|  Loader.io是一项免费的负载测试服务，可让您通过数千个并发连接对您的Web应用/ API进行压力测试.  |
+| [Loader.io](https://loader.io) | [@loaderio](https://twitter.com/loaderio)  |  免费至100.00 $ /月|  Loader.io是一项免费的负载测试服务，可让您通过成千上万的并发连接对Web-app / api进行压力测试.  |
 | [Locust.io](https://locust.io) | [@locustio](https://twitter.com/locustio)  |  开源|  用Python编写的自托管负载测试工具，测试本身用Python代码编写|
 | [k6.io](https://k6.io) | [@k6_io](https://twitter.com/k6_io)  |  免费，开源|  k6是一个以开发人员为中心的开源负载测试工具，用于测试后端基础架构的性能.  它是通过Go和JavaScript构建的，可以很好地集成到您的开发工作流程中，因此您可以始终保持最佳性能，而不会产生混乱.  |
 | [loadimpact.com](https://loadimpact.com/) | [@loadimpact](https://twitter.com/loadimpact)  |  $ 99.00 + |  在开源k6.io项目之上构建的，针对现代DevOps团队的SaaS性能测试解决方案.  |
@@ -325,7 +325,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Enchant](https://www.enchant.com) | [@enchant](https://twitter.com/enchant)  |  $ 9 / mo |  就像类固醇上的gmail！  Enchant是一个功能强大的服务台，可帮助您的团队为每位客户提供出色的支持.  对您的客户而言，这只是电子邮件.  他们将永远不会看到票号，也永远不必登录！  |
 | [Freshdesk](https://freshdesk.com) | [@freshdesk](https://twitter.com/freshdesk)  |  $ 16 / mo-$ 70 / mo |  提供卓越的客户支持所需的一切.  Freshdesk让您避免盲目地处理问题，并控制您的客户支持问题.  |
 | [UserDeck](https://userdeck.com) | [@user_deck](https://twitter.com/user_deck)  |  $ 0-$ 25 / mo |  嵌入到您现有网站中的客户支持软件.  |
-| [Sirportly](https://sirportly.com) | [@sirportly](https://twitter.com/sirportly)  |  £0-£15 /月|  发展您的业务并提供世界一流的客户支持.  只需在不到几分钟的时间内设置您的服务台.  与您的其他软件工具集成，并利用自动规则和宏将客户支持扩展到一个新的水平，变得更加专业和以客户为中心，并通过Sirportly将您的客户变成狂热的粉丝.  |
+| [Sirportly](https://sirportly.com) | [@sirportly](https://twitter.com/sirportly)  |  £0-£15 /月|  发展您的业务并提供世界一流的客户支持.  只需在不到几分钟的时间内设置您的服务台.  与您的其他软件工具集成，并利用自动规则和宏将您的客户支持提升到一个新的水平，变得更加专业和以客户为中心，并通过Sirportly将您的客户变成狂热的粉丝.  |
 | [Olark](https://www.olark.com/) | [@olark](https://twitter.com/olark) | - | - |
 | [SnapEngage](https://snapengage.com/) | [@snapengage](https://twitter.com/snapengage)  |  每次集成的自定义定价，或每月$ 81起|  高度定制的实时聊天集成|
 | [Get Satisfaction!](https://getsatisfaction.com/corp/) | [@getsatisfaction](https://twitter.com/getsatisfaction)  |  -|  客户社区以获得社会支持，社交营销和客户反馈-在线社区软件.  获得满意度是领先的客户参与平台，可通过最佳的在线客户社区帮助公司与客户和潜在客户建立更好的关系.  |
@@ -342,7 +342,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Postmark](https://postmarkapp.com) | [@postmarkapp](https://twitter.com/postmarkapp)  |  $ 1.50 |  Web应用程序的电子邮件传递–正确完成.  邮戳消除了为Web应用程序传递和解析交易电子邮件的麻烦，而其设置时间却非常短，并且零维护.  我们有多年将电子邮件发送到收件箱的经验，因此您可以更轻松地工作和休息.  |
 | [MailGun](https://www.mailgun.com) | [@Mail_Gun](https://twitter.com/Mail_Gun)  |  $ 20.00 |  开发人员电子邮件服务.  轻松的SMTP集成和简单的RESTful API抽象化了电子邮件的混乱细节.  无论您需要发送10或1000万封电子邮件，都可以快速扩展.  |
 | [Amazon Simple Email Service](https://aws.amazon.com/ses/) | [@AWSSupport](https://twitter.com/AWSSupport)  |  您每月发送的前62,000封电子邮件为$ 0 |  面向企业和开发人员的灵活，负担得起且高度可扩展的电子邮件发送和接收平台|
-| [SendGrid](https://sendgrid.com) | [@SendGrid](https://twitter.com/SendGrid)  |  $ 9.95 / mo-$ 399.95 |  电子邮件传递.  简化.  SendGrid每月为各种规模的公司提供数十亿封电子邮件.  选择最适合您的发送量的软件包，设置您的帐户，然后让SendGrid负责其余的工作！  |
+| [SendGrid](https://sendgrid.com) | [@SendGrid](https://twitter.com/SendGrid)  |  $ 9.95 / mo-$ 399.95 |  电子邮件传递.  简化了.  SendGrid每月为各种规模的公司提供数十亿封电子邮件.  选择最适合您的发送量的软件包，设置您的帐户，然后让SendGrid负责其余的工作！  |
 | [CritSend](https://www.critsend.com) | [@critsend](https://twitter.com/critsend)  |  $ 50 / mo-$ 3000 / mo |  适用于开发人员的最佳SMTP中继.  使用最可靠的基础结构处理您的交易和批量电子邮件.  只需5分钟即可设置Critsend，并开始享受快速的交付时间和自动可伸缩性.  |
 | [Postage](https://postageapp.com) | [@postagebird](https://twitter.com/postagebird)  |  $ 9 / mo-$ 399 / mo |  从网络应用发送电子邮件的更简便方法.  邮资应用程序可在几分钟之内帮助设计，发送和分析电子邮件.  |
 | [Sendwithus](https://www.dyspatch.io/sendwithus/) | [@sendwithus](https://twitter.com/send_with_us)  |  免费的“黑客”计划，每月可发送1000条消息|  交易电子邮件A / B测试和滴灌活动|
@@ -503,7 +503,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team)  |  -|  完全可交易的，可用于云的，不变的数据库.  不变的数据意味着强大的一致性，水平读取扩展性以及内置缓存.  Datomic是一个分布式数据库，旨在在下一代云体系结构上运行，以实现可扩展，灵活和智能的应用程序.  |
 | [Tinkerpop](https://tinkerpop.apache.org/)  |  -|  -|  图形空间中的开源软件产品.  |
 | [Vertabelo](http://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo)  |  -|  基于Web的数据库设计工具.  Vertabelo允许您直观地设计PostgreSQL，MySQL，Oracle，SQL Server，SQLite和IBM DB2的数据库模型.  您可以从SQL，XML或使用逆向工程工具导入现有数据库结构.  设计模型后，您可以为各种ORM（Propel，jOOQ，SQLAlchemy或SQL Server）生成SQL脚本或即用型代码. [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |
-| [TablePlus](https://tableplus.io) | [@TablePlus](https://twitter.com/TablePlus)  |  $ 0-$ 49 |  现代的本机客户端，具有直观的GUI工具，可以创建，访问，查询和编辑多个数据库：MySQL，PostgreSQL，SQLite，Microsoft SQL Server，Amazon Redshift，MariaDB，CockroachDB，Vertica，Cassandra，Oracle和Redis.  |
+| [TablePlus](https://tableplus.io) | [@TablePlus](https://twitter.com/TablePlus)  |  $ 0-$ 49 |  现代的本机客户端，具有直观的GUI工具来创建，访问，查询和编辑多个数据库：MySQL，PostgreSQL，SQLite，Microsoft SQL Server，Amazon Redshift，MariaDB，CockroachDB，Vertica，Cassandra，Oracle和Redis.  |
 | [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin)  |  免费|  数据库版本管理的多功能工具.  单击它，您可以设置任何版本的本地数据库服务器.  |
 
 
@@ -561,7 +561,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Pin](https://pinpayments.com) | [@PinPayments](https://twitter.com/PinPayments)  |  2.9％+ 30¢/成功充电.  |  付款，重新启动.  接受来自全球受众的信用卡付款通常需要一个商家帐户.  对于小型企业而言，为每种货币建立商家帐户的过程可能会非常困难且成本很高.  |
 | [PayMill](https://www.paymill.com) | [@Paymill](https://twitter.com/Paymill)  |  0.28€-0.25€| |  在线支付变得容易.  通过根据您的网站流程自定义结帐，使付款个性化|
 | [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly)  |  $ 150 / mo-$ 1500 / mo |  付款平台.  Spreedly的主要好处之一是，通过跨多个支付网关工作，可以到达大量商家帐户.  作为直接商家，您可以进行全球交易，但可以根据地理位置或其他业务规则将资金存入唯一的商家帐户.  作为SaaS平台，您可以支持单个客户的独特商家帐户.  付款网关令牌是您向我们指示该特定交易将针对哪个唯一商人帐户的方式.  每个唯一的商家帐户=一个唯一的支付网关令牌.  |
-| [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay)  |  2.9％+ 30¢/交易.  |  WePay是第一个提供平台，市场，众筹和商业软件/工具的支付引擎，这种平台拥有自己的客户体验，同时仍能使他们免受100％的欺诈和监管风险.  |
+| [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay)  |  2.9％+ 30¢/交易.  |  WePay是第一个提供平台（市场，众筹和业务软件/工具）的支付引擎，这种平台拥有自己的客户体验，同时仍能使他们免受100％的欺诈和监管风险.  |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ)  |  5％+ 50¢/交易.  |  付款处理和履行，专门用于桌面应用程序和SaaS订阅服务.  为您处理增值税和发票，因此您的会计变得更容易.  |
 | [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant)  |  0％+互换+ $ 99 + / mo |  付款统一.  |  将您的应用程序，网站，软件或硬件与Fattmerchant API集成在一起，以无缝接受所有主要的信用卡，ACH付款等等！  面对面和在线交易的理想选择.  |
 
@@ -758,7 +758,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Microsoft Azure](https://azure.microsoft.com) | [@Azure](https://twitter.com/azure)  |  -|  以IaaS着称|
 | [Amazon Web Services](https://aws.amazon.com/elasticbeanstalk/) | [@awscloud](https://twitter.com/awscloud)  |  -|  像Azure一样，它以IaaS闻名.
 | [AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/) | [@Azure](https://twitter.com/azure) | - | - |
-| [Scalingo](https://scalingo.com) | [@ScalingoHQ](https://twitter.com/ScalingoHQ)  .  -|  欧洲PAAS |
+| [Scalingo](https://scalingo.com) | [@ScalingoHQ](https://twitter.com/ScalingoHQ) | - | European PAAS |
 | [Eldarion](https://eldarion.com/) | [@eldarion](https://twitter.com/eldarion)  |  -|  他们在Python和Go中开发的开源Kelproject服务|
 
 ### VPS
@@ -854,7 +854,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Tarsnap](https://www.tarsnap.com/) | - | - | - |
 | [Rsync.net ](https://www.rsync.net/) | - | - | - |
-| [SpiderOak](https://spideroak.com) | [@spideroak](https://twitter.com/spideroak)  |  前2GB免费-US $ 100 / 100GB /年（支票） [twitter](https://twitter.com/spideroak)  交易）|  商店.  同步.  分享.  私人.  |
+| [SpiderOak](https://spideroak.com) | [@spideroak](https://twitter.com/spideroak)  |  前2GB免费-US $ 100 / 100GB /年（支票） [twitter](https://twitter.com/spideroak)  交易）|  商店.  同步.  分享.  私下  |
 
 ### Personal Machine Backups
 
@@ -933,7 +933,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
  |  服务|  推特|  定价|  描述
 |:--------|:--------|:--------|:------------|
-| [Kloudless](https://kloudless.com) | [@Kloudless](https://twitter.com/kloudless)  |  免费-每月$ 500 |  Kloudless为开发人员提供了一个单一的云存储API，代替了许多|  Kloudless是您唯一需要的云存储API.  集成单个REST API（而不是多个REST API），并使用我们的UI工具将云存储支持快速构建到您的应用程序中.  我们维护所有集成，因此您可以专注于构建出色的产品.  |
+| [Kloudless](https://kloudless.com) | [@Kloudless](https://twitter.com/kloudless)  |  免费-每月$ 500 |  Kloudless为开发人员提供了一个单一的云存储API，代替了许多|  Kloudless是您唯一需要的云存储API.  集成单个REST API（而不是多个REST API），并使用我们的UI工具将云存储支持快速构建到您的应用中.  我们维护所有集成，因此您可以专注于构建出色的产品.  |
 | [CloudBuddy](https://cloudbuddy.cloud)  |  -|  $ 1 / 10GB /月|  SFTP在线存储|
 
 ### Task Scheduling
@@ -952,7 +952,7 @@ It's on GitHub for a reason! Please submit pull requests.
 |:--------|:--------|:--------|:------------|
 | [Dash](https://kapeli.com/dash) | [@kapeli](https://twitter.com/kapeli) | - | - |
 | [Zeal](https://zealdocs.org) | [@zealdocs](https://twitter.com/zealdocs)  |  免费|  离线文档浏览器|
-| [DevDocs](https://devdocs.io/) | [@DevDocs](https://twitter.com/DevDocs) | Free | DevDocs combines multiple API documentations in a fast, organized, and searchable interface. You don't have to use your mouse — use keyboard shortcuts. The search supports fuzzy matching. You can search using your browser's address bar. DevDocs is Free and open source. |
+| [DevDocs](https://devdocs.io/) | [@DevDocs](https://twitter.com/DevDocs)  |  免费|  DevDocs在快速，有条理和可搜索的界面中结合了多个API文档.  您无需使用鼠标-使用键盘快捷键.  搜索支持模糊匹配.  您可以使用浏览器的地址栏进行搜索.  DevDocs是免费的开放源代码.  |
 
 ### Engineering Metrics
 

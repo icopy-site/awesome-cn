@@ -30,6 +30,7 @@
 * [fish](https://fishshell.com) -智能和用户友好的命令行外壳
 * [ksh93](https://github.com/att/ast) -康恩·壳
 * [mksh](https://github.com/MirBSD/mksh) -MirBSD Korn Shell
+* [nushell](https://github.com/nushell/nushell) -用Rust编写的现代外壳 
 * [oksh](https://github.com/ibara/oksh) -便携式OpenBSD ksh
 * [osh](https://www.oilshell.org) -与Bash兼容，并使用称为Oil的新/现代Unix Shell语言
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) -公共领域的Korn Shell

@@ -36,7 +36,7 @@
   * [graphql-aspnetcore](https://github.com/JuergenGutsch/graphql-aspnetcore) -ASP.NET Core MiddleWare创建GraphQL端点.
   * [graphql-convention](https://github.com/graphql-dotnet/conventions) -此库是顶部的补充层，允许您使用现有的属性获取器和方法作为字段解析器，将.NET类自动包装到GraphQL模式定义中
   * [graphiql-dotnet](https://github.com/JosephWoodward/graphiql-dotnet) -用于ASP.NET Core的GraphiQL中间件.
-  * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) -基于.NET Core的GraphQL [https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js).
+  * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) - GraphQL for .NET Core based on [https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js).
   * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) -用于.NET的GraphQL.
   * [graphql-dotnet-server](https://github.com/graphql-dotnet/server) -用于.NET的GraphQL-订阅传输WebSocket.
   * [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) -用于.Net Core和.NET Framework的GraphQL服务器.
@@ -98,7 +98,7 @@
 * [MoreLINQ](https://github.com/morelinq/MoreLINQ) -LINQ对象扩展.
 * [Nancy](https://github.com/NancyFx/Nancy) -轻量级，低礼仪的框架，用于在.NET和Mono上构建基于HTTP的服务.
 * [opencvsharp](https://github.com/shimat/opencvsharp) -用于OpenCV的.NET Framework包装器.
-* [orleans](https://github.com/dotnet/orleans) -框架，提供了一种直接的方法来构建分布式大规模计算应用程序，而无需学习和应用复杂的并发或其他扩展模式.
+* [orleans](https://github.com/dotnet/orleans) -框架，提供了直接的方法来构建分布式大规模计算应用程序，而无需学习和应用复杂的并发或其他扩展模式.
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) -适用于Golang和C的超快速分布式演员# [http://proto.actor](http://proto.actor).
 * [resin](https://github.com/kreeben/resin) -具有HTTP API和可插拔读/写管道的16位宽矢量空间搜索引擎.
 * [RService.io](https://github.com/Stoom/RService.IO) -专注于速度和易用性的ASP.Net Core RESTful微服务框架.
@@ -196,7 +196,7 @@
 * [Cofoundry](https://github.com/cofoundry-cms/cofoundry)  -开源.NET Core CMS和模块化应用程序框架.  代码优先，不显眼且可扩展.
 * [CoreWiki](https://github.com/csharpfritz/CoreWiki) -在实时编码流中我们正在研究的简单ASP.NET Core Wiki.
 * [dasblog-core](https://github.com/poppastring/dasblog-core) -使用ASP.NET Core重新构想的原始DasBlog
-* [Miniblog](https://github.com/madskristensen/Miniblog.Core) - An ASP.NET Core blogging engine.
+* [Miniblog](https://github.com/madskristensen/Miniblog.Core) -一个ASP.NET Core博客引擎.
 * [NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS)  -一个开放源代码的ASP.NET Core 2.0 CMS.  它目前支持MySQL，并计划实现MSSQL，SQLite和PostgreSQL.  它还是一个模块化的CMS，支持主题，外观，自定义布局，小部件，多种语言（英语，英语）.
 * [Piranha CMS](https://github.com/piranhacms/piranha.core) -用于ASP.NET Core和Entity Framework Core的轻量级且不干扰用户的开源CMS.
 * [Platformus](https://github.com/Platformus) -基于ASP.NET Core 1.0和ExtCore框架的免费，开源和跨平台CMS.
@@ -323,7 +323,7 @@
 * [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
 * [DynamicData](https://github.com/RolandPheasant/DynamicData) -基于Rx.NET的反应式集合.
 * [echo-process](https://github.com/louthy/echo-process) - Actor library for C# with additional modules that support persistence to Redis, as well as JS integration.
-* [FsCheck](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
+* [FsCheck](https://github.com/fscheck/FsCheck) -.NET的随机测试.
 * [Giraffe](https://github.com/dustinmoris/Giraffe) - A native functional ASP.NET Core web framework for F# developers.
 * [language-ext](https://github.com/louthy/language-ext) - C# functional language extensions and 'Erlang like' concurrency system.
 * [LaYumba.Functional](https://github.com/la-yumba/functional-csharp-code) - Utility library for programming functionally in C#.
@@ -521,7 +521,7 @@
   * [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) -Dapper的CRUD.
 * [FreeSql](https://github.com/2881099/FreeSql) -在dotnet中方便的ORM，支持Mysql，Postgresql，SqlServer，Oracle和Sqlite.
 * [Limebean](https://nick-lucas.github.io/LimeBean/)  -Hybrid-ORM，设计简单易用，不会完全隐藏SQL，同时具有您期望从ORM获得的所有好处.  受RedBeanPHP启发.
-* [LINQ to DB (linq2db)](https://linq2db.github.io/) -最快的LINQ数据库访问库，在POCO对象和数据库之间提供了一个简单，轻巧，快速且类型安全的层，可支持10多个具有完整SQL支持的数据库引擎.
+* [LINQ to DB (linq2db)](https://linq2db.github.io/) -最快的LINQ数据库访问库，在POCO对象和数据库之间提供了一个简单，轻便，快速且类型安全的层，可支持10多个具有完整SQL支持的数据库引擎.
 * [nhibernate-core](https://github.com/nhibernate/nhibernate-core) -NHibernate对象关系映射器.
 * [NEventStore](https://github.com/NEventStore/NEventStore)  -使用事件源作为存储机制时，用于抽象化不同存储实现的持久性库.  该库的开发重点是DDD / CQRS应用程序.
 * [NPoco](https://github.com/schotime/NPoco)  -将查询结果映射到POCO对象上的简单microORM.  基于PetaPoco的Schotime分支的项目.
@@ -679,7 +679,7 @@
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) -适用于.Net Core和.Net Framework 4.5+的可组合CLI（命令行）参数解析器.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  -用于原型或作为CRUD后端的虚假REST API.  无需定义类型，使用动态类型.  数据存储到单个JSON文件中.  具有身份验证，WebSocket通知，异步长时间运行的操作，针对错误/延迟的随机生成以及实验性GraphQL支持.
 * [gitignore.io](https://github.com/joeblau/gitignore.io) -为您的项目创建有用的.gitignore文件 [https://www.gitignore.io](https://www.gitignore.io).
-* [ICanHasDotnetCore](https://github.com/OctopusDeploy/ICanHasDotnetCore) -扫描上传的package.config文件或GitHub存储库，并确定nuget软件包是否以.NET Standard为目标 [https://icanhasdot.net](https://icanhasdot.net).
+* [ICanHasDotnetCore](https://github.com/OctopusDeploy/ICanHasDotnetCore) - Scans uploaded packages.config files or GitHub repository and determines whether the nuget packages target .NET Standard [https://icanhasdot.net](https://icanhasdot.net).
 * [json2csharp](http://json2csharp.com) - Generate C# classes from JSON.
 * [letsencrypt-win-simple](https://github.com/Lone-Coder/letsencrypt-win-simple) -适用于Windows的简单ACME客户端.
 * [Linq_Faster](https://github.com/jackmott/LinqFaster)  -类似于Linq的数组扩展功能，跨度 <T>  和列表 <T>  更快，分配更少.
@@ -766,6 +766,7 @@
   * [AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) -讨论ASP.NET Core授权中各种新内容的研讨会
   * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 在2016年12月的Connect大会上发表了一系列面向企业用户和消费者（骑车者）的交互应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
  [Azure Bot App](https://github.com/Microsoft/BikeSharing360_BotApps).
+  * [Clean Architecture Manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Clean Architecture sample with .NET Core 3.0 and C# 8. Use cases as central organising structure, completely testable, decoupled from frameworks.
   * [cloudscribe](https://github.com/cloudscribe/cloudscribe) -ASP.NET Core多租户Web应用程序基础.
   * [CoreCodeCamp](https://github.com/shawnwildermuth/CoreCodeCamp) -一个开放源代码网站，用于运行小型本地开发活动.
   * [DotNetClub](https://github.com/scheshan/DotNetClub) -用ASP.NET Core编写的微型俱乐部.

@@ -35,7 +35,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) -实现多集
  * [murmur3](https://github.com/kuende/murmur3) -Cassandra使用的Murmur3哈希算法的实现
  * [oak](https://github.com/obsidian/oak) -灵活的Radix Tree实现
- * [radix](https://github.com/luislavena/radix) -基数树实现
+ * [radix](https://github.com/luislavena/radix) -基数树实施
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) -三元搜索树
 
 ## Api Builders
@@ -248,7 +248,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [qt5.cr](https://github.com/Papierkorb/qt5.cr) -基于Bindgen的Crystal的Qt5绑定
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
  * [html_builder](https://github.com/crystal-lang/html_builder) -用于创建HTML的DSL
 
 ## HTML/XML Parsing
@@ -322,7 +322,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -burocracia.cr用于验证，生成和格式化巴西Croc，CNPJ和CEP等巴西Burocracia的无依赖碎片
  * [callbacks](https://github.com/vladfaust/callbacks.cr) -富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) -断路器模式的实现
- * [compiled_license](https://github.com/elorest/compiled_license) -在没有代码的情况下将二进制文件复制到系统或容器时，将许可证编译为二进制文件以便与MIT兼容
+ * [compiled_license](https://github.com/elorest/compiled_license) -在没有代码的情况下将二进制文件复制到系统或容器中时，将许可证编译为二进制文件以符合MIT
  * [containerregistry.cr](https://github.com/naqvis/containerregistry.cr) -与集装箱登记处合作的图书馆
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) -基于可扩展注释的序列化/反序列化库
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) -二进制解析器
@@ -522,7 +522,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Unofficial
  * [Chinese-speaking Telegram Group](https://t.me/crystal_cn) - 来吧！TG 中文圈的朋友们！
- * [Crystal Programming Discord Server](https://discord.gg/YPGkQ5A) -专用于Crystal编程语言的非官方Discord服务器
+ * [Crystal Programming Discord Server](https://discord.gg/YS7YvQy) -专用于Crystal编程语言的非官方Discord服务器
  * [Russian-speaking Telegram Group](https://t.me/crystal_ru) -欢迎您，同志！
 
 ## Resources

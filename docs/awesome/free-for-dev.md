@@ -121,6 +121,7 @@
   * [MailboxValidator](https://www.mailboxvalidator.com)  —使用真实邮件服务器连接的电子邮件验证服务，以确认有效的电子邮件.  免费API计划每月有300个验证.
   * [microlink.io](https://microlink.io/)  –它将任何网站转换为数据，例如元标记标准化，美容链接预览，抓取功能或屏幕截图即服务.  每天免费提供250请求.
   * [monkeylearn.com](https://monkeylearn.com/) —通过机器学习进行文本分析，每月免费300次查询
+   * [myfakeapi.com](https://myfakeapi.com) —为开发人员提供的免费的无服务器API模拟服务
   * [OCR.Space](https://ocr.space/)  —一个OCR API，用于解析图像和pdf文件，并以JSON格式返回文本结果.  每月免费提供25,000个请求.
   * [parsehub.com](https://parsehub.com/) —从动态网站提取数据，将动态网站转换为API，免费提供5个项目
   * [Pixela](https://pixe.la/)  -免费的日流数据库服务.  所有操作均由API执行.  热图和折线图的可视化也是可能的.
@@ -200,7 +201,7 @@
   * [codecov.io](https://codecov.io/) —代码覆盖率工具（SaaS），免费提供给开源和1个免费的私有仓库
   * [insight.sensiolabs.com](https://insight.sensiolabs.com/) — PHP / Symfony项目的代码质量，开放源代码免费
   * [codacy.com](https://www.codacy.com/) —针对PHP，Python，Ruby，Java，JavaScript，Scala，CSS和CoffeeScript的自动代码审查，免费提供无限制的公共和私有存储库
-  * [gocover.io](https://gocover.io/) —任何代码覆盖 [Go](https://golang.org/) 包
+  * [gocover.io](https://gocover.io/) —任何代码覆盖率 [Go](https://golang.org/) 包
   * [goreportcard.com](https://goreportcard.com/) — Go项目的代码质量，开源免费
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [webceo.com](https://www.webceo.com/) -SEO工具，但也具有代码验证和不同类型的建议
@@ -390,7 +391,7 @@
   * [sendinblue.com](https://www.sendinblue.com/) —每月9,000封电子邮件免费
   * [mailtrap.io](https://mailtrap.io/) -用于开发的假SMTP服务器，免费计划，带1个收件箱，50条消息，无团队成员，2封电子邮件/秒，无转发规则
   * [zoho.com](https://www.zoho.com/mail/) —最多5个用户的免费Webmail和协作
-  * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
+  * [Yandex.Connect](https://connect.yandex.com/pdd/) —最多可容纳1,000位用户的免费电子邮件和DNS托管
   * [moosend.com](https://moosend.com/)  —邮件列表管理服务.  初创企业6个月的免费帐户
   * [debugmail.io](https://debugmail.io/) -开发人员易于使用的测试邮件服务器
   * [mailboxlayer.com](https://mailboxlayer.com/)  —用于开发人员的电子邮件验证和验证JSON API.  每月1,000个免费API请求
@@ -432,7 +433,7 @@
 
 ## CDN and Protection
 
-  * [PageCDN.com](https://pagecdn.com/) -为所有人提供免费的公共CDN，并为开源/公益组织提供免费的私人CDN.
+  * [PageCDN.com](https://pagecdn.com/) - Offers free Public CDN for everyone, and free Private CDN for opensource / nonprofits.
   * [cloudflare.com](https://www.cloudflare.com/) —基本服务是免费的，对博客非常有用，它还提供免费的SSL证书服务和5条防火墙规则.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN，用于引导程序，bootswatch和fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN，用于JavaScript库，CSS库，SWF，图像等.
@@ -447,7 +448,7 @@
   * [speeder.io](https://speeder.io/)  —使用KeyCDN.  自动图像优化和免费CDN增强功能.  免费，不需要任何服务器更改
   * [jare.io](http://www.jare.io)  — CDN用于图像.  使用AWS CloudFront
   * [unpkg.com](https://unpkg.com/) -CDN上npm上的所有内容
-  * [staticaly.com](https://staticaly.com/) — CDN for Git仓库（GitHub，GitLab，Bitbucket），与WordPress相关的资产和图像
+  * [staticaly.com](https://staticaly.com/) — CDN for Git仓库（GitHub，GitLab，Bitbucket），WordPress相关的资产和图像
   * [ddos-guard.net](https://ddos-guard.net/store/web) —免费的CDN，DDoS保护和SSL证书
   * [ovh.ie](https://www.ovh.ie/ssl-gateway/) —免费的DDos保护和SSL证书
 
@@ -525,7 +526,7 @@
   * [Free Hosting](http://freehostingnoads.net/) —使用PHP 5，Perl，CGI，MySQL，FTP，文件管理器，POP电子邮件，免费子域，免费域托管，DNS区域编辑器，网站统计信息，免费在线支持以及许多其他功能所没有的免费托管其他免费主机.
   * [Awardspace.com](https://www.awardspace.com) —免费虚拟主机+免费短域名，PHP，MySQL，应用安装程序，电子邮件发送和无广告.
   * [Freehostia](https://www.freehostia.com)  — FreeHostia提供免费的托管服务，包括.  业界最佳的控制面板和一键安装50多种免费应用.  即时设置.  没有强制广告.
-  * [Byet](https://byet.host) — Byet为您提供了庞大的免费，无广告的负载平衡免费虚拟主机服务，包括PHP，MySQL，FTP，Vistapanel等！
+  * [Byet](https://byet.host) — Byet为您提供了大量免费且无广告的负载平衡免费虚拟主机服务，包括PHP，MySQL，FTP，Vistapanel等！
   * [Versoly](https://versoly.com/) — SaaS focussed website builder - unlimited websites, 70+ blocks, 5 templates, custom CSS, favicon, SEO and forms. No custom domain.
 
 ## DNS
@@ -533,7 +534,7 @@
   * [freedns.afraid.org](https://freedns.afraid.org/) —免费DNS托管
   * [dns.he.net](https://dns.he.net/) —具有动态DNS支持的免费DNS托管服务
   * [luadns.com](https://www.luadns.com/) —免费DNS托管，3个域，所有功能都有合理的限制
-  * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
+  * [Yandex.Connect](https://connect.yandex.com/pdd/) —最多可容纳1,000位用户的免费电子邮件和DNS托管
   * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting, anycast, 10 geo zones
   * [cloudns.net](https://www.cloudns.net/) —免费DNS托管最多1个具有50条记录的域
   * [ns1.com](https://ns1.com/) —数据驱动DNS，自动流量管理，500k免费查询
@@ -566,7 +567,7 @@
    * [heroku.com](https://www.heroku.com/) — PostgreSQL即服务，最多10,000行和20个免费连接（作为“附件”提供，但可以附加到原本为空的应用程序中并从外部访问）
    * [graphenedb.com](https://www.graphenedb.com/) — Neo4j即服务，最多可支持1,000个节点和10,000个关系
    * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) —免费套餐提供512 MB
-   * [scalingo.com](https://scalingo.com/) —主要是PaaS，但提供128MB至192MB的MySQL，PostgreSQL或MongoDB免费层
+   * [scalingo.com](https://scalingo.com/) —主要是PaaS，但提供了128MB至192MB的MySQL，PostgreSQL或MongoDB免费层
    * [skyvia.com](https://skyvia.com/) — Cloud Data Platform，提供免费套餐，并且处于Beta版时，所有计划都是完全免费
    * [airtable.com](https://airtable.com/) —看起来像电子表格，但它是一个关系数据库，无限制的基础，每月1,200行，每月1,000个API请求
    * [FaunaDB](https://fauna.com/) —无服务器云数据库，具有本地GraphQL，多模型访问和每日免费层达5GB
@@ -731,7 +732,7 @@
    * [heap.io](https://heap.io)  —自动捕获iOS或Web应用程序中的每个用户操作.  免费，每月最多访问5,000次
    * [sematext.com](https://sematext.com/cloud/) —每月最多可进行5万次操作，1天数据保留，无限制仪表板，用户等，免费.
    * [usabilityhub.com](https://usabilityhub.com/)  -在真实人物上测试设计和模型，跟踪访客.  一位用户免费，无限制测试
-   * [mixpanel.com](https://mixpanel.com/) -在您的网站上免费获得25,000点或200,000点带有他们的徽章
+   * [mixpanel.com](https://mixpanel.com/) -在您的网站上免费获得25,000点或200,000点带有其徽章
    * [amplitude.com](https://amplitude.com/) —每月百万次活动，最多2个应用
    * [keen.io](https://keen.io/)  —用于数据收集，分析和可视化的自定义分析.  每月50,000个事件免费
    * [metrica.yandex.com](https://metrica.yandex.com/) -无限的免费分析

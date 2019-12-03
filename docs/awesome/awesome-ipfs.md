@@ -14,7 +14,7 @@
 
 ## Contribute to this list!
 
- 欢迎每个人提交他们的新awesome-ipfs项目.  为了将元素添加到此列表，您需要修改`/ data`中的文件，然后运行一个简单的`make build`，然后再发布您的拉取请求，因为自述文件和网站是自动生成的.  检查 [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
+ 欢迎每个人提交他们的新awesome-ipfs项目.  为了向该列表添加元素，您需要修改`/ data`中的文件，然后运行一个简单的`make build`，然后再发布您的拉取请求，因为自述文件和网站是自动生成的.  检查 [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
 
 **注意**：如果您想直接编辑自述文件（而不是项目/链接），则需要修改 [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md)  而是再次运行`make build`.  谢谢！
 
@@ -48,7 +48,7 @@
 - [Global Upload](https://globalupload.io/) -IPFS的文件传输服务，将文件上传到未来的分布式Web.
 - [gogo.tattoo](http://gogo.tattoo)  -Gogo纹身项目使用IPFS，DLT和其他现代技术，为纹身艺术家和佩戴者提供了其作品集的坚不可摧的终生记录.  gogo.tattoo应用程序已经具有直接将作品共享到IPFS的功能.
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) -Gorilla是Clojure笔记本电脑风格的丰富REPL.
-- [Hardbin](https://github.com/jes/hardbin) -Hardbin是一种加密的pastebin，其解密密钥在URL片段中传递
+- [Hardbin](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/)  -基于IPFS的代码库.  （现在只读）
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) -具有许多功能的booru风格的媒体标记应用程序，最近添加了对ipfs的基本支持.
 - [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具可提供对以太坊和IPFS的安全，可靠和可扩展的访问，从而帮助简化分散式应用程序的构建.
@@ -102,6 +102,7 @@
 - 2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841) 
 - 2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po) 
 - 2019-03-10: [The Case for a Decentralized Social Network](https://medium.com/npfoss/the-case-for-a-decentralized-social-network-2683b727abf5) 
+- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 - 2019-01-30: [Ultimate Guide to Filecoin Breaking Down Filecoin Whitepaper & Economics](https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895) 
 - 2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/) 
 - 2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/) 
@@ -116,7 +117,6 @@
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
 - 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) 
-- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 
 ## Datasets
 
@@ -140,6 +140,7 @@
 
 ## Services
 
+- [Boom.FYI](https://www.boom.fyi) -IPFS链接缩短和访问控制服务.
 - [Eternum](https://www.eternum.io/) -使用易于使用的API的付费固定服务.
 - [NodeFort.io](https://www.nodefort.io) -基于Web的IPFS节点托管服务.
 - [Peergos](https://peergos.org)  -您的私人社交空间.  存储和编辑文档和媒体.  与朋友共享文件或文件夹. [Source](https://github.com/Peergos/Peergos)
@@ -153,7 +154,7 @@
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) -通过确保资产是相对的，增加了将Gatsby网站部署到IPFS的支持.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) -从/到IPFS推/拉存储库
 - [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) -go-stellar-ipfs是一个库，是Stellar和IPFS之间的桥梁.
-- [http2ipfs](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
+- [http2ipfs](https://github.com/jbenet/http2ipfs-web) -这是将URL添加到IPFS节点的简单网络工具.
 - [ipcat](https://github.com/noffle/ipcat) -：cat2：检索IPFS对象数据并将其发送到stdout.
 - [IPDR](https://github.com/miguelmota/ipdr) -IPFS支持的Docker注册表
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) -使用AES256加密文件或目录，然后添加到IPFS
@@ -170,7 +171,7 @@
 - [ipfs-publish](https://ipfs-publish.uhlir.dev) -持续交付工具，用于将静态网站从Git提供者交付到IPFS. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) -捕获屏幕截图，将其发布到IPFS，然后将链接复制到剪贴板.
 - [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) -清除所有资产的网页并将其放入IPFS
-- [ipfsecret](https://github.com/c2fo-lab/ipfsecret) -使用秘密密码加密和解密IPFS文件
+- [ipfsecret](https://github.com/c2fo-lab/ipfsecret) - Encrypt and decrypt IPFS files with a secret passphrase
 - [ipget](https://github.com/ipfs/ipget) -：satellite：用于IPFS的wget：通过IPFS检索文件并将其保存在本地.
 - [IPLD Explorer](https://explore.ipld.io) -在舒适的浏览器中探索默克尔森林 [Source](https://github.com/ipfs-shipyard/ipld-explorer)
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)  -用于将IPFS / IPNS地址重定向到本地网关的浏览器用户脚本.  这应该适用于尚未为其编写扩展名并支持用户脚本的任何浏览器.

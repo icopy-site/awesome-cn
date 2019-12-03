@@ -90,7 +90,6 @@
 *性感的第三方终端仿真应用程序.
 
 * [Alacritty](https://github.com/jwilm/alacritty) -跨平台，GPU加速的终端仿真器.
-* [Cathode](http://www.secretgeometry.com/apps/cathode/) -macOS的老式终端.
 * [Cmder](https://github.com/cmderdev/cmder) -适用于Windows的可爱的控制台模拟器程序包.
 * [ConEmu](https://github.com/Maximus5/ConEmu) -具有选项卡，拆分，地震样式等的可定制Windows终端.
 * [ConsoleZ](https://github.com/cbucher/console)  -Windows控制台窗口增强.  这是一个叉子 [Console](https://sourceforge.net/projects/console) 项目.
@@ -218,6 +217,7 @@
 * [lolcat](https://github.com/busyloop/lolcat) -彩虹和独角兽！
 * [lunchy](https://github.com/eddiezane/lunchy) -launchctl的友好包装.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) -基于终端的YouTube播放器和下载器
+* [navi](https://github.com/denisidoro/navi) -命令行的交互式备忘单工具.
 * [neofetch](https://github.com/dylanaraps/neofetch)  -在终端中获取Linux桌面屏幕截图的系统/主题信息.  替代屏幕抓取.
 * [nnn](https://github.com/jarun/nnn) -小巧，快速，功能丰富的文件管理器.
 * [ranger](https://ranger.github.io/) -具有vi键绑定的控制台文件管理器.
@@ -225,7 +225,7 @@
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) -从您的终端浏览Reddit.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) -代码搜索工具，例如ack和the_silver_searcher，但速度更快.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) -在终端中获取Linux桌面屏幕截图的系统/主题信息.
-* [shell2http](https://github.com/msoap/shell2http)  -HTTP服务器执行shell命令.  专为开发，原型制作或远程控制而设计.
+* [shell2http](https://github.com/msoap/shell2http)  -HTTP服务器执行Shell命令.  专为开发，原型制作或远程控制而设计.
 * [streamlink](https://github.com/streamlink/streamlink) -CLI，用于从各种网站提取流到您选择的视频播放器.
 * [taskell](https://taskell.app/) -类似于Trello的命令行看板/ TODO列表.
 * [taskwarrior](https://taskwarrior.org/) -命令行TODO列表管理器.

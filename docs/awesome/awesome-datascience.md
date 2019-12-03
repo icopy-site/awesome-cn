@@ -31,7 +31,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png)  |  如何选择统计或机器学习技术
 [<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)  |  选择合适的估算器
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png)  |  数据科学行业：谁在做什么
-[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友〜欧拉图
+[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友~~欧拉图
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  |  不同的数据科学技能和角色 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 由Springboard
 [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)  |  一种简单友好的方式来教您的非数据科学家/非统计学家同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) .  从壁虎板 [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
 
@@ -76,7 +76,6 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [CS 109 Data Science](http://cs109.github.io/2015/)
 * [Schoolofdata](https://schoolofdata.org/)
 * [OpenIntro](https://www.openintro.org/)
-* [Data science MOOC](http://datascience.sg/categories/MOOC/)
 * [CS 171 Visualization](http://www.cs171.org/#!index.md)
 * [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
 * [Oxford Deep Learning](http://www.cs.ox.ac.uk/projects/DeepLearn/)
@@ -279,6 +278,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [The Data Science Design Manual](http://www.data-manual.com/) 初学者友好
 - [Exploring Data with R](https://www.manning.com/books/exploring-data-with-r) -抢先体验
 - [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) -抢先体验
+- [Mining Massive Datasets](http://www.mmds.org/) -在线课程包含的免费电子书
 
 ## Facebook Accounts
 
@@ -408,7 +408,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均由基于革命性知识的Wolfram语言提供支持.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数字，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
