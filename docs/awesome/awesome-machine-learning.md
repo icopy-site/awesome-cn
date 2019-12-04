@@ -308,9 +308,9 @@
 * [OpenNLP](https://opennlp.apache.org/) -基于机器学习的工具包，用于处理自然语言文本.
 * [LingPipe](http://alias-i.com/lingpipe/index.html) -使用计算语言学处理文本的工具套件.
 * [ClearTK](https://github.com/ClearTK/cleartk)  -ClearTK提供了一个框架，用于在Java中开发统计自然语言处理（NLP）组件，并基于Apache UIMA构建.  ** [不推荐使用] **
-* [Apache cTAKES](https://ctakes.apache.org/) -Apache临床文本分析和知识提取系统（cTAKES）是一个开源自然语言处理系统，用于从电子病历临床自由文本中提取信息.
+* [Apache cTAKES](https://ctakes.apache.org/) -Apache临床文本分析和知识提取系统（cTAKES）是一种开源自然语言处理系统，用于从电子病历临床自由文本中提取信息.
 * [NLP4J](https://github.com/emorynlp/nlp4j)  -NLP4J项目提供用于自然语言处理的软件和资源.  该项目始于计算语言和教育研究中心，目前由埃默里大学语言和信息研究中心开发.  ** [不推荐使用] **
-* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) -该项目收集了伊利诺伊大学认知计算小组开发的许多自然语言处理（NLP）核心库，例如“ illinois-core-utilities”，该库提供了一组对NLP友好的数据结构以及许多与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，“ illinois-edison”是一个库，用于从illinois-core-utilities数据结构和许多其他程序包中提取特征.
+* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) -该项目收集了伊利诺伊大学认知计算小组开发的大量自然语言处理（NLP）核心库，例如“ illinois-core-utilities”，该库提供了一组对NLP友好的数据结构以及许多与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，“ illinois-edison”是一个库，用于从illinois-core-utilities数据结构和许多其他程序包中提取特征.
 
 <a name="java-general-purpose"></a>
 #### General-Purpose Machine Learning
@@ -429,7 +429,7 @@
 * [Synaptic](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser.
 * [kNear](https://github.com/NathanEpstein/kNear) -用于监督学习的k最近邻算法的JavaScript实现.
 * [NeuralN](https://github.com/totemstech/neuraln)  -适用于Node.js的C ++神经网络库.  它在大型数据集和多线程训练方面具有优势.  ** [不推荐使用] **
-* [kalman](https://github.com/itamarwe/kalman)  -适用于Javascript的Kalman过滤器.  ** [不推荐使用] **
+* [kalman](https://github.com/itamarwe/kalman)  -用于Javascript的Kalman过滤器.  ** [不推荐使用] **
 * [shaman](https://github.com/luccastera/shaman)  -支持简单线性回归和多元线性回归的Node.js库.  ** [不推荐使用] **
 * [ml.js](https://github.com/mljs/ml) -适用于Node.js和浏览器的机器学习和数值分析工具！
 * [ml5](https://github.com/ml5js/ml5-library) -网络友好的机器学习！
@@ -477,7 +477,7 @@
 * [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) -决策树分类器和回归器.
 * [Neural](https://github.com/compressed/BackpropNeuralNet.jl) -朱莉娅的神经网络.
 * [MCMC](https://github.com/doobwa/MCMC.jl)  -朱莉娅的MCMC工具.  ** [不推荐使用] **
-* [Mamba](https://github.com/brian-j-smith/Mamba.jl) -马尔可夫链蒙特卡洛（MCMC），用于Julia中的贝叶斯分析.
+* [Mamba](https://github.com/brian-j-smith/Mamba.jl) -马尔可夫链蒙特卡洛（MCMC），用于朱莉娅的贝叶斯分析.
 * [GLM](https://github.com/JuliaStats/GLM.jl) -Julia中的广义线性模型.
 * [Gaussian Processes](https://github.com/STOR-i/GaussianProcesses.jl) -高斯过程的Julia软件包.
 * [Online Learning](https://github.com/lendle/OnlineLearning.jl) ** [不推荐使用] **
@@ -569,7 +569,7 @@
   * [cutorch](https://github.com/torch/cutorch) -火炬CUDA实施.
   * [cunn](https://github.com/torch/cunn) -火炬CUDA神经网络实施.
   * [imgraph](https://github.com/clementfarabet/lua---imgraph)  -火炬的图像/图形库.  该软件包提供了在图像上构造图，对其进行分段，从中构建树并将其转换回图像的例程.  ** [不推荐使用] **
-  * [videograph](https://github.com/clementfarabet/videograph)  -火炬的视频/图形库.  该软件包提供了在视频上构建图形，对其进行分段，从中构建树并将其转换回视频的例程.  ** [不推荐使用] **
+  * [videograph](https://github.com/clementfarabet/videograph)  -火炬的视频/图形库.  该软件包提供了在视频上构建图形，对其进行分段，在其中构建树并将其转换回视频的例程.  ** [不推荐使用] **
   * [saliency](https://github.com/marcoscoffier/torch-saliency)  -围绕完整图像的代码和工具.  一个基于快速积分直方图查找兴趣点的库.  ** [不推荐使用] **
   * [stitch](https://github.com/marcoscoffier/lua---stitch)  -允许我们使用hugin缝合图像并将相同的缝合应用于视频序列.  ** [不推荐使用] **
   * [sfm](https://github.com/marcoscoffier/lua---sfm)  -运动包装中的捆扎调整/结构.  ** [不推荐使用] **
@@ -674,12 +674,13 @@ MNIST上的数字]]（https://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.h
 
 * [Accord-Framework](http://accord-framework.net/) -Accord.NET Framework是用于构建机器学习，计算机视觉，计算机试听，信号处理和统计应用程序的完整框架.
 * [Accord.MachineLearning](https://www.nuget.org/packages/Accord.MachineLearning/)  -支持向量机，决策树，朴素贝叶斯模型，K均值，高斯混合模型以及用于机器学习应用程序的通用算法，例如Ransac，交叉验证和网格搜索.  该程序包是Accord.NET Framework的一部分.
-* [DiffSharp](https://diffsharp.github.io/DiffSharp/)  -一个自动微分（AD）库，可为机器学习和优化应用程序提供精确而有效的导数（梯度，Hessian，Jacobian，方向导数以及无矩阵的Hessian和Jacobian矢量乘积）.  可以将操作嵌套到任何级别，这意味着您可以为超参数优化之类的应用计算精确的高阶导数，并在内部利用微分来微分函数.
+* [DiffSharp](https://diffsharp.github.io/DiffSharp/)  -一个自动微分（AD）库，为机器学习和优化应用程序提供了精确而有效的导数（梯度，Hessian，Jacobian，有向导数以及无矩阵的Hessian和Jacobian矢量乘积）.  可以将操作嵌套到任何级别，这意味着您可以为超参数优化之类的应用计算精确的高阶导数，并在内部利用微分来微分函数.
 * [Encog](https://www.nuget.org/packages/encog-dotnet-core/)  -先进的神经网络和机器学习框架.  Encog包含用于创建各种网络的类，以及用于对这些神经网络的数据进行规范化和处理的支持类.  Encog使用多线程弹性传播进行训练.  Encog还可以利用GPU进一步缩短处理时间.  还提供了基于GUI的工作台，以帮助建模和训练神经网络.
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  -用于.NET Core和.NET Framework的多平台遗传算法库.  该库具有GA运算符的几种实现，例如：选择，交叉，突变，重新插入和终止.
 * [Infer.NET](https://dotnet.github.io/infer/)  -Infer.NET是用于在图形模型中运行贝叶斯推理的框架.  可以使用Infer.NET解决许多不同种类的机器学习问题，从分类，推荐或聚类等标准问题到针对特定领域的问题的定制解决方案.  Infer.NET已在许多领域中使用，包括信息检索，生物信息学，流行病学，视觉以及许多其他领域.
 * [ML.NET](https://github.com/dotnet/machinelearning)  -ML.NET是跨平台的开源机器学习框架，它使.NET开发人员可以访问机器学习.  ML.NET最初是由Microsoft Research开发的，在过去的十年中发展成为一个重要的框架，并在Microsoft的许多产品组中使用，例如Windows，Bing，PowerPoint，Excel等.
 * [Neural Network Designer](https://sourceforge.net/projects/nnd/)  -DBMS管理系统和神经网络设计器.  设计器应用程序是使用WPF开发的，并且是一个用户界面，使您可以设计神经网络，查询网络，创建和配置能够提出问题并从反馈中学习的聊天机器人.  聊天机器人甚至可以抓取互联网以获取信息，以返回其输出以及用于学习.
+* [Synapses](https://github.com/mrdimosthenis/Synapses) - Neural network library in F#.
 * [Vulpes](https://github.com/fsprojects/Vulpes) - Deep belief and deep learning implementation written in F# and leverages CUDA GPU execution with Alea.cuBase.
 
 <a name="net-data-analysis"></a>
@@ -687,7 +688,7 @@ MNIST上的数字]]（https://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.h
 
 * [numl](https://www.nuget.org/packages/numl/) -numl是一个机器学习库，旨在简化将标准建模技术用于预测和聚类的使用.
 * [Math.NET Numerics](https://www.nuget.org/packages/MathNet.Numerics/)  -Math.NET项目的数值基础，旨在为科学，工程和日常使用中的数值计算提供方法和算法.  在Windows，Linux和Mac上支持.Net 4.0，.Net 3.5和Mono；  具有PCL便携式配置文件47和344的Silverlight 5，WindowsPhone / SL 8，WindowsPhone 8.1和Windows 8；  带有Xamarin的Android / iOS.
-* [Sho](https://www.microsoft.com/en-us/research/project/sho-the-net-playground-for-data/)  -Sho是一个用于数据分析和科学计算的交互式环境，可让您无缝连接脚本（在IronPython中）和编译后的代码（在.NET中），以实现快速灵活的原型制作.  该环境包括用于线性代数的功能强大且高效的库以及可以从任何.NET语言中使用的数据可视化，以及功能丰富的交互式外壳，可以快速开发.
+* [Sho](https://www.microsoft.com/en-us/research/project/sho-the-net-playground-for-data/)  -Sho是一个用于数据分析和科学计算的交互式环境，可让您无缝连接脚本（在IronPython中）和编译后的代码（在.NET中），以实现快速灵活的原型制作.  该环境包括用于线性代数的功能强大且高效的库以及可以从任何.NET语言使用的数据可视化，以及功能丰富的交互式外壳，可以快速开发.
 
 <a name="objectivec"></a>
 ## Objective C
@@ -785,7 +786,7 @@ be
 * [Detectron](https://github.com/facebookresearch/Detectron)  -FAIR的软件系统，它实现了最新的对象检测算法，包括Mask R-CNN.  它是用Python编写的，并由Caffe2深度学习框架提供支持.
 * [albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持分类，分割，开箱即用的检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
 * [pytessarct](https://github.com/madmaze/pytesseract)  -Python-tesseract是用于python的光学字符识别（OCR）工具.  也就是说，它将识别并“读取”图像中嵌入的文本.Python-tesseract是用于 [Google's Tesseract-OCR Engine](https://github.com/tesseract-ocr/tesseract)>.
-* [imutils](https://github.com/jrosebr1/imutils) -包含便利功能的库，可使用OpenCV和Python简化基本的图像处理操作，例如平移，旋转，调整大小，框架化和显示Matplotlib图像.
+* [imutils](https://github.com/jrosebr1/imutils) -包含便利功能的库，可使用OpenCV和Python简化基本图像处理操作，例如平移，旋转，调整大小，框架化和显示Matplotlib图像.
 * [PyTorchCV](https://github.com/donnyyou/PyTorchCV) -基于PyTorch的计算机视觉深度学习框架.
 * [neural-style-pt](https://github.com/ProGamerGov/neural-style-pt) -贾斯汀·约翰逊（Justin Johnson）的神经风格（神经风格转换）的PyTorch实现.
 
@@ -1028,7 +1029,7 @@ be
 * [Python Programming for the Humanities](https://www.karsdorp.io/python-course/)  -假设没有先验知识的人文科学Python编程课程.  侧重于文本处理/ NLP.
 * [GreatCircle](https://github.com/mwgg/GreatCircle) -用于计算大圆距离的库.
 * [Optunity examples](http://optunity.readthedocs.io/en/latest/notebooks/index.html) -演示如何与机器学习库协同使用Optunity的示例.
-* [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) -“我是通过首先黑客学习而学习Python的，后来变得更认真.我想通过机器学习来做到这一点.如果这是您的风格，请加入我的行列，以超越自己.
+* [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) -“我是通过首先进行黑客学习来学习Python的，后来变得更认真.我想通过机器学习来做到这一点.如果这是您的风格，请加入我的行列，以超越自己.”
 * [TDB](https://github.com/ericjang/tdb)  -TensorDebugger（TDB）是用于深度学习的可视调试器.  它具有针对TensorFlow的交互式，逐节点调试和可视化功能.
 * [Suiron](https://github.com/kendricktan/suiron/) -遥控车的机器学习.
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) -Data School的scikit-learn视频教程中的IPython笔记本.
@@ -1205,7 +1206,7 @@ be
 * [pamr](https://cran.r-project.org/web/packages/pamr/index.html)  -pamr：Pam：微阵列的预测分析.  ** [不推荐使用] **
 * [party](https://cran.r-project.org/web/packages/party/index.html) -派对：递归派对的实验室.
 * [partykit](https://cran.r-project.org/web/packages/partykit/index.html) -partykit：递归派对的工具包.
-* [penalized](https://cran.r-project.org/web/packages/penalized/index.html) -惩罚的：在GLM和Cox模型中，L1（套索和融合的套索）和L2（脊）被惩罚的估计.
+* [penalized](https://cran.r-project.org/web/packages/penalized/index.html) -惩罚：在GLM和Cox模型中，L1（套索和融合套索）和L2（脊）被惩罚的估计.
 * [penalizedLDA](https://cran.r-project.org/web/packages/penalizedLDA/index.html)  -刑罚的LDA：使用费舍尔线性判别器的刑罚分类.  ** [不推荐使用] **
 * [penalizedSVM](https://cran.r-project.org/web/packages/penalizedSVM/index.html) -penalizedSVM：使用惩罚功能的特征选择SVM.
 * [quantregForest](https://cran.r-project.org/web/packages/quantregForest/index.html) -quantregForest：分位数回归森林.
@@ -1288,7 +1289,7 @@ be
 
 * [ScalaNLP](http://www.scalanlp.org/) -ScalaNLP是一套机器学习和数值计算库.
 * [Breeze](https://github.com/scalanlp/breeze) -Breeze是Scala的数值处理库.
-* [Chalk](https://github.com/scalanlp/chalk) - Chalk is a natural language processing library. **[Deprecated]**
+* [Chalk](https://github.com/scalanlp/chalk)  -Chalk是自然语言处理库.  ** [不推荐使用] **
 * [FACTORIE](https://github.com/factorie/factorie)  -FACTORIE是用于可部署概率建模的工具包，在Scala中作为软件库实现.  它为用户提供了简洁的语言，用于创建关系因子图，估计参数和进行推理.
 * [Montague](https://github.com/Workday/upshot-montague) -Montague是具有易于使用的DSL的Scala语义解析库.
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) -建立在Apache Spark ML之上的自然语言处理库，可为机器学习管道提供简单，高效且准确的NLP注释，该注释可在分布式环境中轻松扩展.
@@ -1371,7 +1372,7 @@ be
 <a name="tools-misc"></a>
 #### Misc
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace)  -用于机器学习和数据科学的基于Web的多合一IDE.  工作区被部署为docker容器，并预加载了各种流行的数据科学库（例如Tensorflow，PyTorch）和开发工具（例如Jupyter，VS Code）.
-* [Notebooks](https://github.com/rlan/notebooks)  -适用于Jupyter笔记本和机器学习的入门套件.  随附的docker映像由python版本，机器学习框架（Keras，PyTorch和Tensorflow）和CPU / CUDA版本的所有组合组成.
+* [Notebooks](https://github.com/rlan/notebooks)  -适用于Jupyter笔记本和机器学习的入门套件.  随附的docker映像包含python版本，机器学习框架（Keras，PyTorch和Tensorflow）和CPU / CUDA版本的所有组合.
 * [DVC](https://github.com/iterative/dvc)  -Data Science Version Control是一个开放源代码版本控制系统，用于带有管道支持的机器学习项目.  它使ML项目具有可复制性和可共享性.
 * [Kedro](https://github.com/quantumblacklabs/kedro/) -Kedro是一个数据和开发工作流框架，旨在实现数据管道的最佳实践，并着眼于生产机器学习模型.
 * [guild.ai](https://guild.ai/)  -记录，分析，比较和“优化”实验的工具.  它是跨平台和独立于框架的，并提供了集成的可视化工具，例如张量板.

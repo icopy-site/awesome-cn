@@ -78,7 +78,7 @@
 ## Debugging
 *用于调试的插件.*
 
-- [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) 一个将Airbrake与CakePHP无缝集成以解决错误和异常的插件.
+- [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
@@ -91,7 +91,7 @@
 *实现依赖项注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖项注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -289,6 +289,7 @@
 ## Security
 *有关安全性的插件和信息，可防止漏洞并防御XSS等.
 
+- [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) -简单的解决方案，使加密的数据类型可以存储在数据库中.
 - [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) -简单，通俗易懂且可扩展的验证码解决方案，默认情况下提供基于图像的数学验证码.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior)  -使用这种行为来加密您的实体数据.  使用CakePHP Security类在PHP级别完成加密.
 - [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) -使用HashId，Optimus，Tiny和/或自定义混淆策略进行主密钥混淆.
@@ -335,7 +336,7 @@
 - [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类，可轻松生成（复杂）RSS feed.
 - [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) -一个插件，可将HTML样式块转换为View模板上的内联CSS（旨在与电子邮件模板一起使用）.
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) -Jade模板引擎插件.
-- [Liquid plugin](https://github.com/gourmet/liquid) -使用Liquid模板语言进行视图的插件.
+- [Liquid plugin](https://github.com/gourmet/liquid) -使用Liquid模板语言进行查看的插件.
 - [Meta plugin](https://github.com/dereuromark/cakephp-meta) -使处理元标记和SEO相关的HTML标记DRY变得容易.
 - [SocialMeta plugin](https://github.com/gourmet/social-meta) -增加了对Facebook的OpenGraph和Twitter的Card meta标签的支持.
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) -使用Twig模板语言获取视图的插件.
@@ -407,7 +408,7 @@
 各种资源，例如书籍，网站和文章，可用于提高CakePHP开发技能和知识.
 
 ## Help
-*Where to get help.*
+*在哪里获得帮助.*
 
 - [CakePHP-FR.org](http://cakephp-fr.org) -法国社区网站.
 - [CakePHP.ir](http://forum.cakephp.ir/) -与其他开发者的讨论和波斯社区的一般性问题.

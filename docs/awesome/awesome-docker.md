@@ -6,7 +6,7 @@
 &gt;灵感来自 [@sindresorhus](https://github.com/sindresorhus)&#39;[awesome] [sindresorhus]并通过这些改进**[amazing contributors](https://github.com/veggiemonk/awesome-docker/graphs/contributors)**.
 
 如果您想贡献，请先阅读[CONTRIBUTING.md] [贡献].
-It contains a lot of tips and guidelines to help keep things organized.
+它包含许多技巧和指南，可帮助您使事情井井有条.
 只需单击[README.md] [editreadme]即可提交[拉取请求] [editreadme].
  如果此列表不完整，则可以[贡献] [editreadme].  这是一个很棒的视频教程，学习如何 [contribute on Github](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
 
@@ -42,7 +42,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Benefits of using Docker](https://semaphoreci.com/blog/docker-benefits) 开发和交付，以及采用的实用路线图.
 - [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) ：关于Docker入门的综合教程.  教您如何使用Docker以及使用Elastic Beanstalk和Elastic Container Service在AWS上部署dockerized应用程序.
-- [Docker Documentation](https://docs.docker.com/)：官方文档
+- [Docker Documentation](https://docs.docker.com/)：官方文档.
+- [Docker for beginners](https://github.com/groda/big_data/blob/master/docker_for_beginners.md) ：面向需要从“ Hello world！”学习Docker基础的初学者的教程.  与容器的基本交互，以及对基本概念的简单说明.
 - [Docker for novices](https://www.youtube.com/watch?v=xsjSadjKXns)  从未使用过Docker的开发人员和测试人员的Docker简介.  （视频1h40，录制于linux.conf.au 2019-新西兰基督城），作者是Alex Clews. 
 - [Docker Training](https://success.docker.com/training) ：heavy_dollar_sign：
 - [Docker Tutorial for Beginners (Updated 2019 version)](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)  —在此Docker教程中，您将学习所有基础知识，并学习如何容器化Node.js和Go应用程序.  即使您不熟悉这些语言，也应该很容易阅读本教程并使用任何其他语言.
@@ -106,7 +107,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [habitus](https://github.com/cloud66-oss/habitus) -Docker的构建流程工具，作者： [@cloud66](https://github.com/cloud66)
 - [Maestro](https://github.com/toscanini/maestro) ：skull：-Maestro提供了通过以下方式轻松启动，协调和管理多个Docker容器的功能： [@tascanini](https://github.com/toscanini)
 - [percheron](https://github.com/ashmckenzie/percheron) ：skull：-通过组织和智能组织您的Docker容器 [@ashmckenzie](https://github.com/ashmckenzie)
-- [plash](https://github.com/ihucos/plash) -容器运行和构建引擎-在docker内部运行.
+- [plash](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
 - [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose)  ：skull：-具有幂等特性的Docker组合工具，用于部署由多个容器组成的应用程序.  通过 [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly)
 - [rocker](https://github.com/grammarly/rocker)  ：skull：-扩展的Dockerfile构建器  支持多个FROM，MOUNTS，模板等 [grammarly](https://github.com/grammarly).
 - [Stacker](https://github.com/stacker/stacker-cli)  -Docker撰写模板.  Stacker在Docker Compose之上提供了一个抽象层，并提供了更好的DX（开发人员体验）.
@@ -145,7 +146,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [LogJam](https://github.com/gocardless/logjam) -Logjam是一个日志转发器，旨在通过以下方式侦听本地端口，通过UDP接收日志条目，并将这些消息转发给日志收集服务器（例如logstash）， [@gocardless](https://github.com/gocardless)
 - [Logspout](https://github.com/gliderlabs/logspout) -[@gliderlabs] [gliderlabs]进行Docker容器日志的日志路由
 - [monit-docker](https://github.com/decryptus/monit-docker)  -监视Docker容器资源使用情况或状态并执行Docker命令或在容器内部.  [@decryptus] [decryptus]
-- [NexClipper](https://github.com/NexClipper/NexClipper) -NexClipper是专门用于Docker，Apache Mesos，Marathon，DC / OS，Mesosphere和Kubernetes的容器监视和性能管理解决方案 [@Nexclipper](https://github.com/NexClipper)
+- [NexClipper](https://github.com/NexClipper/NexClipper) - NexClipper is the container monitoring and performance management solution specialized in Docker, Apache Mesos, Marathon, DC/OS, Mesosphere, Kubernetes by [@Nexclipper](https://github.com/NexClipper)
 - [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. Set up in 5 Minutes. Secure mode for production use with built-in [Automated Nginx Reverse Proxy (jwilder's)][nginxproxy].
 - [SwarmAlert](https://github.com/gpulido/SwarmAlert) -监视Docker Swarm并在发现没有运行正常服务任务的容器时发送Pushover警报.
 - [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)  -Zabbix模块，提供发现运行中的容器，CPU /内存/ blk IO /网络容器指标的信息.  还支持系统化Docker和LXC执行驱动程序.  它是一个动态链接的共享对象库，因此其性能比任何脚本解决方案都要好（〜10倍）.
@@ -174,7 +175,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Helios](https://github.com/spotify/helios) ：skull：-通过[@spotify] [spotify]在整个服务器群中部署和管理容器的简单平台
 - [Kontena](https://github.com/kontena/kontena) -大众应用容器 [website](https://www.kontena.io/)
 - [Kubernetes](https://github.com/kubernetes/kubernetes) -Google的Docker容器的开源编排系统
-- [ManageIQ](https://github.com/ManageIQ/manageiq) - Discover, optimize and control your hybrid IT. By [ManageIQ](https://github.com/ManageIQ)
+- [ManageIQ](https://github.com/ManageIQ/manageiq)  -发现，优化和控制您的混合IT.  通过 [ManageIQ](https://github.com/ManageIQ)
 - [Mantl](https://github.com/mantl/mantl) -Mantl是用于快速部署全球分布式服务的现代平台
 - [Marathon](https://github.com/mesosphere/marathon)  -马拉松是建立在Mesos之上的私人PaaS.  它会自动处理硬件或软件故障，并确保应用程序“始终在线”
 - [Mesos](https://github.com/apache/mesos) -用于容器，VM和物理主机的资源/作业调度程序 [@apache](https://mesos.apache.org/)
@@ -198,7 +199,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Nanobox](https://github.com/nanobox-io/nanobox) ：heavy_dollar_sign：-一个应用程序开发平台，可创建本地环境，然后可以在云中进行部署和扩展.
 -[OpenShift] [openshift]-基于[Kubernetes] [kubernetes]构建的开源PaaS，并针对Dockerized应用开发和部署进行了优化 [Red Hat](https://www.redhat.com/en)
 - [Tsuru](https://github.com/tsuru/tsuru) -Tsuru是可扩展的开源平台即服务软件
-- [ZEIT Now](https://github.com/zeit/now) ：heavy_dollar_sign：-适用于Node.js应用程序或任何具有Dockerfile的应用程序的通用无服务器单命令部署.
+- [ZEIT Now](https://github.com/zeit/now) :heavy_dollar_sign: - A universal serverless single-command deploy for Node.js applications or any application with a Dockerfile.
 
 ### Reverse Proxy
 
@@ -485,7 +486,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [DIP](https://github.com/bibendi/dip)  -CLI实用程序，用于直接配置和与docker-compose配置的应用程序进行交互.  通过 [@bibendi](https://github.com/bibendi)
 - [DLite](https://github.com/nlf/dlite)  ：skull：-在OSX上使用Docker的最简单方法，不需要VM.  通过 [@nlf](https://github.com/nlf)
 - [dobi](https://github.com/dnephin/dobi)  -用于Docker应用程序的构建自动化工具.  通过 [@dnephin](https://github.com/dnephin)
-- [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)  -生成管理是python应用程序，与pip一起安装.  该应用程序通过配置一个描述如何构建，测试，运行或发布容器化解决方案的yaml文件，使基于Docker的构建系统管理变得容易.
+- [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)  -生成管理是python应用程序，与pip一起安装.  通过配置单个yaml文件，该文件描述了如何构建，测试，运行或发布容器化解决方案，该应用程序使基于Docker的构建系统管理变得容易.
 - [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)  -一组bash命令，用于简化典型的docker dev-ops.  在代码存储库中创建典型的帮助程序脚本（例如“ build.sh”和“ deploy.sh”）的替代方法.  通过 [@NandoQuintana](https://github.com/nandoquintana).
 - [Docker osx dev](https://github.com/brikis98/docker-osx-dev) ：skull：-在OS X上使用Docker的高效开发环境，作者： [@brikis98](https://github.com/brikis98)
 - [Docker-Arch](https://github.com/Ph3nol/Docker-Arch)  -从1个简单的YAML文件生成Web / CLI项目Dockerized开发环境.  通过 [@Ph3nol](https://github.com/ph3nol)
@@ -609,7 +610,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Demos and Examples
 
-- [Webstack-micro](https://github.com/ferbs/webstack-micro) 该演示Web应用程序展示了如何使用Docker Compose来将API网关，集中式身份验证，后台工作程序和WebSockets设置为容器化服务.
+- [Webstack-micro](https://github.com/ferbs/webstack-micro) Demo web app showing how Docker Compose might be used to set up an API Gateway, centralized authentication, background workers, and WebSockets as containerized services.
 
 
 ## Good Tips
@@ -711,7 +712,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [jessfraz]：https：//github.com/jessfraz
 [jpetazzo]：https://github.com/jpetazzo
 [jwilder]：https://github.com/jwilder
-[kubernetes]：https://kubernetes.io
+[kubernetes]：https：//kubernetes.io
 [nvidia]：https：//github.com/nvidia
 [nginxproxy]：https://github.com/jwilder/nginx-proxy
 [openshift]：https：//www.okd.io

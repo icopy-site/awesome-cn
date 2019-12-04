@@ -18,13 +18,13 @@
 
 ## In English
 
-* [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的互联网音频脱口秀.
+* [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的互联网音频脱口秀节目.
 * [/dev/hell](http://devhell.info/) 克里斯·哈特斯（Chris Hartjes）和埃德·芬克勒（Ed Finkler）被困在“发展地狱”中，他们主要谈论PHP，Web，他们的开发经验以及特别邀请来宾.
 * [Accidental Tech Podcast](http://atp.fm/) -三个书呆子讨论技术，苹果，编程和松散相关的问题.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) -妇女在科学，技术，工程和数学方面的成就.
 * [Almost Better Than Silence](https://almostbetterthansilence.com/) -有关视频游戏的喜剧播客，其中包含技术新闻，客人采访和对话游戏！
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/)  -Android Backstage，这是由Android开发人员开发的播客.  该节目由Android工程团队的开发人员主持，涵盖了Android程序员感兴趣的主题，并与Google Android团队的工程师进行了深入的讨论和访谈.
-* [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) - Noah answers questions about technology, business, community and Linux
+* [Ask Noah](https://www.jupiterbroadcasting.com/show/asknoah/) -诺亚回答有关技术，业务，社区和Linux的问题
 * [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) -在远离键盘的地方，技术人员可以讲述他们如何开始，如何成长，如何学习以及如何放松的故事.
 * [Away from Keyboard](https://changelog.com/afk) –探索创作工作的人性化方面.
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday)  斯科特·汉塞尔曼（Scott Hanselman）与在其学习如何编程云的过程中建立Azure的实际工程师坐在一起.  没有营销，没有BS，只有两名工程师和一小段可管理的笔记本电脑.
@@ -66,7 +66,7 @@
 * [Elixir Mix](https://devchat.tv/elixir-mix/) -Elixir Mix是每周一次的节目，重点关注Elixir编程社区.
 * [Elixir Outlaws](https://elixiroutlaws.com) -关于Elixir开发及其周围主题的小组讨论.
 * [Embedded.fm](https://www.embedded.fm/) -讨论通常用于设备的工程的方式，原因和内容.
-* [Ember Weekend](https://emberweekend.com/episodes) -由乔恩（Jon）和蔡斯（Chase）主持的关于恩伯（Ember）的一周（末期）播客.
+* [Ember Weekend](https://emberweekend.com/episodes) -由乔恩（Jon）和蔡斯（Chase）主持的关于恩伯（Ember）的一周（末）播客.
 * [Entreprogrammers](http://entreprogrammers.com/)  -从4位发展商转变为企业家的过程中获得飞速发展的视野，因为他们与企业苦苦挣扎并以艰难的方式学习课程.  这是程序员的每周策划者组.
 * [FiveJS](https://www.pluralsight.com/codeschool) -JavaScript社区中的最新消息.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) -与来自自由软件/开源社区的杰出来宾进行访谈.
@@ -87,18 +87,18 @@
 * [HaskellCast](http://www.haskellcast.com/) —面向在行业中工作的Haskell开发人员的播客.
 * [Hello Internet](http://www.hellointernet.fm/) -科学YouTube使用者CGP Gray和布雷迪·哈兰（Brady Haran）讨论了从标志设计到《星球大战》的所有内容.
 * [Houston We Have a Podcast](https://www.nasa.gov/johnson/HWHAP/)  -约翰逊太空中心NASA官方播客.  每周举办一次，其主题一般是关于太空和国际空间站.
-* [HTTP 203](https://developers.google.com/web/shows/http203/) -在每场演出中，Jake和Paul都在Web开发领域中选择了一个热门话题，并讨论了Web开发的各个方面，同时还介绍了生活技巧，课程和一些相当诚实的事实.
+* [HTTP 203](https://developers.google.com/web/shows/http203/) -在每个节目中，Jake和Paul都在Web开发领域中选择了一个热门话题，并讨论了Web开发的各个方面，同时还介绍了生活技巧，课程和一些相当诚实的事实.
 * [Iron Sysadmin](https://www.ironsysadmin.com/) -现实世界系统管理员的播客，适用于现实世界系统管理员.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/)  -主持人Veronica Belmont分享了在线生活的真实故事以及有关Web未来的真实话题.  IRL是Mozilla的原始播客.
 * [JavaScript Air](https://javascriptair.com/) -有关JavaScript的现场直播播客.
 * [Javascript to Elm](https://jstoelm.com/) -有关使用来自Javascript和其他语言的Elm的播客.
 * [JS Party](https://changelog.com/jsparty) – JavaScript和网络社区庆祝活动
-* [Ladybug Podcast](https://ladybug.dev/) –面向所有开发人员的由女士主持的技术播客，围绕如何开始编码，当前的热门技术，如何获得第一份开发人员工作，冒名顶替综合症，如何编写CSS等进行了大量讨论.
+* [Ladybug Podcast](https://ladybug.dev/) –面向所有开发人员的由女士主持的技术播客，围绕如何开始编码，当前的热门技术，如何获得第一份开发人员工作，冒名顶替综合症，如何编写CSS等进行了精彩的讨论.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) -Laravel新闻播客带给您与Laravel相关的所有最新新闻和事件.
 * [Linear Digressions](http://lineardigressions.com/) -通过现实世界中的故事和示例以可访问的方式探索数据科学和机器学习的主题.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) -有关Linux和开源世界的每周新闻.
 * [Linux Headlines](https://linuxheadlines.show/) -每个工作日在3分钟内发布Linux和开源新闻.
-* [Linux For Everyone](https://linuxforeveryone.fireside.fm/)  -关于桌面Linux，开放源代码软件以及创建它的社区的激动人心的展览.  对于初学者和退伍军人都一样！  由《福布斯》的Jason Evangelho和朋友主持.
+* [Linux For Everyone](https://linuxforeveryone.fireside.fm/)  -关于台式机Linux，开放源代码软件以及创建它的社区的激动人心的展览.  对于初学者和退伍军人都一样！  由《福布斯》的Jason Evangelho和朋友主持.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws/) -关于在Linux上运行的任何东西，关于在其他平台上的开源软件以及许多其他东西.
 * [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/) -每周Linux现场直播和脱口秀
 * [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/)  -Jeff Barr讨论了Amazon Web Services（AWS）产品的各个方面.  每个播客均包含AWS新闻，技术提示以及对初创公司，AWS合作伙伴和AWS员工的采访.
@@ -110,10 +110,11 @@
 * [New Rustacean](https://newrustacean.com/) -这是有关从头开始学习编程语言Rust的播客.
 * [Note To Self](https://www.wnycstudios.org/shows/notetoself) -主持人Manoush Zomorodi与大牌技术员到小学老师的每个人都在讨论技术对我们生活的影响，以寻求有助于您思考和生活更好的明智选择.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) -唯一针对Office 365开发的展览，我们与来自全球的专家就Office 365平台的编码进行了交谈.
+* [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) -硬件/软件界面的故事：“地球上最讨厌的播客”.
 * [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) -面向希望更好地了解当今安全主题的人员的安全播客.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) -最新的开源项目和新闻！
 * [Our Ludicrous Future](https://ourludicrousfuture.com/) -主要是在太空，技术和埃隆·马斯克（Elon Musk）之间进行对话.
-* [Packet Pushers](https://packetpushers.net/)  -关于网络架构师的数据网络.  精深的技术和毫不掩饰的书呆子.
+* [Packet Pushers](https://packetpushers.net/)  -关于网络架构师的数据网络.  深入的技术和毫不掩饰的书呆子.
 * [Partially Derivative](http://partiallyderivative.com/) -关于数据，书呆子和啤酒的播客.
 * [PHP Round Table](https://www.phproundtable.com/) -PHP圆桌会议是开发人员的临时聚会，讨论PHP书呆子关心的主题.
 * [PHP Town Hall](http://phptownhall.com/) -市政厅，供PHP开发人员提出关于PHP社区中当前事件（或即将发生的事情）的问题，每周有不同的来宾.
@@ -142,7 +143,7 @@
 * [Sound Of Symfony](https://www.soundofsymfony.com/) -非官方的Symfony播客.
 * [StarTalk Radio](https://www.startalkradio.net/?sfid=22493&post_types=show) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
 * [Sword & Laser](http://swordandlaser.com/) -Sword and Laser（S＆L）是一个以科幻小说和幻想为主题的读书俱乐部，视频节目和播客，由Veronica Belmont和Tom Merritt创立.
-* [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes)  -亚当·萨维奇（Adam Savage）与创作者，思想领导者和名人粉丝坐下来，讨论改变了宇宙类型的时刻，人物和里程碑.  所有科幻小说的怀旧庆祝活动.
+* [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes)  -亚当·萨维奇（Adam Savage）与创作者，思想领袖和名人粉丝坐在一起，讨论改变了该类型世界的时刻，人物和里程碑.  所有科幻小说的怀旧庆祝活动.
 * [Syntax FM](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 * [Sysadministrivia](https://sysadministrivia.com/) -Linux，更大的啤酒和深夜.
 * [Syscast Podcast](http://podcast.sysca.st/) -谈论Linux，开源，Web开发和系统管理（DevOps）.
@@ -181,7 +182,7 @@
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) -一个充满热情的个人社区，其目的是在倡导积极的社会变革的同时彻底改变软件设计，创建和交付.
 * [Three Devs and a Maybe](https://threedevsandamaybe.com/)  -关于Web开发所有事物的每周讨论播客.  主题包括日常开发人员生活，PHP，框架，测试，良好的软件设计以及我们使用许多其他编程语言的经验.
 * [Toolsday Podcast](https://spec.fm/podcasts/toolsday) -在周二的2时20分钟的播客中，播报最新的技术工具，技巧和窍门！
-* [TTL Podcast](http://ttlpodcast.com/) -由丽贝卡·穆菲（Rebecca Murphey）主持的TTL播客，与大型组织的前端开发人员进行了对话，以讨论他们的工作方式.
+* [TTL Podcast](http://ttlpodcast.com/) -由丽贝卡·穆菲（Rebecca Murphey）主持的TTL播客，与大型组织的前端开发人员进行了对话，讨论他们如何工作.
 * [Ubuntu Podcast](http://ubuntupodcast.org) -由Ubuntu UK LoCo成员制作的生动活泼的播客，其中包括来自Ubuntu和开源社区的新闻，讨论和访谈.
 * [Web of Tomorrow](https://www.orbit.fm/weboftomorrow/) -关于JavaScript和前端Web开发的播客.
 * [Weird Trick Mafia](https://weirdtrickmafia.fm/) -关于技术，感觉，开源和/ dev / urandom的播客.
@@ -201,7 +202,7 @@
 * [DevDrops](https://anchor.fm/devdrops) -您的软件开发播客.
 * [DataHackers](https://datahackers.com.br/podcast) -每月播客，可让数据科学专业人士谈论就业市场，职业和新闻.
 * [DevNaEstrada](https://devnaestrada.com.br/) -每周Web开发播客，带有幽默感.
-* [Elemencast](https://elemencast.github.io) -建议将有关前端Universe，NodeJ，函数式编程等的内容放给侦听器.
+* [Elemencast](https://elemencast.github.io) -建议将有关前端Universe，NodeJ，函数式编程等的内容带给侦听器.
 * [FooCast](https://foocast.io/) -简短的播客，通常讨论开发.
 * [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) -四个老师，非常书呆子，很有趣，并且有很多故事要讲.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) -关于技术和开源/免费软件的播客
@@ -288,7 +289,7 @@
 * [Methodisch inkorrekt](http://minkorrekt.de/) -对论文进行幽默的评论4.两个星期几乎全部发布
 * [Radio Nukular](https://www.radionukular.de/) -主要（但不限于）电影，视频游戏和漫画.
 * [Request for Comments](https://requestforcomments.de/) -有RFC播客
-* [Working Draft](https://workingdraft.de/) -网页设计师和开发人员的每周新闻播客.
+* [Working Draft](https://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
 
 ## In Chinese
 

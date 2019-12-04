@@ -8,7 +8,7 @@
 
  该特定列表的范围仅限于基础架构开发人员（系统管理员，DevOps实践人员等）可能会有用的东西.  我们喜欢那里的所有免费服务，但是最好还是保留它.  有时候这是一条灰色的线，所以有点自以为是.  如果我不接受您的捐款，请不要生气.
 
-此列表是500多人的拉取请求，评论，想法和工作的结果，您也可以通过发送帮助 [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务，或删除产品已更改或已淘汰的服务.
+此列表是500多个人的请求，评论，想法和工作的结果，您也可以通过发送帮助 [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务，或删除产品已更改或已淘汰的服务.
 
  *注意：*此列表仅适用于即服务产品，不适用于自托管软件.  为了使服务合格，它必须提供免费套餐，而不仅仅是免费试用.  如果免费套餐时间有限，则必须至少一年.
 
@@ -201,7 +201,7 @@
   * [codecov.io](https://codecov.io/) —代码覆盖率工具（SaaS），免费提供给开源和1个免费的私有仓库
   * [insight.sensiolabs.com](https://insight.sensiolabs.com/) — PHP / Symfony项目的代码质量，开放源代码免费
   * [codacy.com](https://www.codacy.com/) —针对PHP，Python，Ruby，Java，JavaScript，Scala，CSS和CoffeeScript的自动代码审查，免费提供无限制的公共和私有存储库
-  * [gocover.io](https://gocover.io/) —任何代码覆盖率 [Go](https://golang.org/) 包
+  * [gocover.io](https://gocover.io/) —任何代码覆盖 [Go](https://golang.org/) 包
   * [goreportcard.com](https://goreportcard.com/) — Go项目的代码质量，开源免费
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [webceo.com](https://www.webceo.com/) -SEO工具，但也具有代码验证和不同类型的建议
@@ -283,7 +283,7 @@
   * [bitninja.io](https://bitninja.io/) —通过黑名单的免费计划进行的僵尸网络保护仅报告有关每次攻击的有限信息
   * [onelogin.com](https://www.onelogin.com/) —身份即服务（IDaaS），单一登录身份提供程序，Cloud SSO IdP，3个公司应用程序和5个个人应用程序，无限的用户
   * [logintc.com](https://www.logintc.com/) —通过推送通知的两要素身份验证（2FA），可免费使用10个用户，VPN，网站和SSH
-  * [report-uri.io](https://report-uri.io/) — CSP and HPKP violation reporting
+  * [report-uri.io](https://report-uri.io/) -CSP和HPKP违规报告
   * [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services（AWS）安全性和合规性审核和监控
   * [Have I been pwned?](https://haveibeenpwned.com) — REST API，用于获取违规信息.
   * [Internet.nl](https://internet.nl) —测试现代互联网标准，例如IPv6，DNSSEC，HTTPS，DMARC，STARTTLS和DANE
@@ -411,7 +411,7 @@
   * [trashmail.com](https://www.trashmail.com) -免费的一次性电子邮件地址，具有转发和自动地址过期
   * [Sender](https://www.sender.net) 每月多达15000封电子邮件-多达2500个订阅者
   * [Buttondown](https://buttondown.email/)  —通讯服务.  多达1,000个免费订阅者
-  * [Substack](https://substack.com)  —无限的免费新闻通讯服务.  收费后开始付款.
+  * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
   * [10minutemail](https://10minutemail.com) -免费的临时电子邮件进行测试.
   * [Mailnesia](https://mailnesia.com) -免费的临时/一次性电子邮件，其中包含自动访问注册链接.
   * [ImprovMX](https://improvmx.com) –免费的电子邮件转发
@@ -587,7 +587,7 @@
 
 ## Issue Tracking and Project Management
 
-   * [todoist.com](https://todoist.com/) — Collaborative and individual task management. Free, Premium and Team plans are available. Discounts provided for eligible users.
+   * [todoist.com](https://todoist.com/)  —协作和个人任务管理.  提供免费，高级和团队计划.  为符合条件的用户提供折扣.
    * [bitrix24.com](https://www.bitrix24.com/) —免费的内部网和项目管理工具
    * [pivotaltracker.com](https://www.pivotaltracker.com/) —对于无限的公共项目和两个私有项目（总计3个活动用户（读写）和无限个被动用户（只读））免费.
    * [kanbantool.com](https://kanbantool.com/)  -基于看板的项目管理.  免费的付费计划，更多选择
@@ -601,7 +601,7 @@
    * [taiga.io](https://taiga.io/) —适用于初创企业和敏捷开发人员的项目管理平台，免费提供给开源
    * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud)  —针对FOSS项目，私人项目免费托管的YouTrack（InCloud）（3个用户免费）.  包括时间跟踪和敏捷板
    * [github.com](https://github.com/) —除了其Git存储设施外，GitHub还提供基本的问题跟踪
-   * [asana.com](https://asana.com/) — Free for private project with collaborators
+   * [asana.com](https://asana.com/) —与合作者一起私人项目免费
    * [acunote.com](https://www.acunote.com/) —免费的项目管理和SCRUM软件，最多可容纳5名团队成员
    * [gliffy.com](https://www.gliffy.com/)  —在线图：流程图，UML，线框，...也是Jira和Confluence的插件.  5张图和2 MB可用空间
    * [cacoo.com](https://cacoo.com/)  —实时在线图：流程图，UML，网络.  最高免费  15位使用者/图表，25张
@@ -666,7 +666,7 @@
   * [marvelapp.com](https://marvelapp.com/) —设计，原型制作和协作，免费计划仅限于一个用户和一个项目.
   * [Zeplin](https://zeplin.io/)  —设计师和开发人员协作平台.  显示设计，资产和样式指南.  1个项目免费.
   * [figma.com](https://www.figma.com)  —用于团队的在线协作设计工具；  免费套餐包括无限的文件和查看器，最多2个编辑器和3个项目.
-  * [designer.io](https://www.designer.io/)  —用于UI，插图等的设计工具.  有一个本机应用程序.  自由.
+  * [designer.io](https://www.designer.io/) — Design tool for UI, illustrations and more. Has a native app. Free.
   * [photopea.com](https://www.photopea.com) —具有Adobe Photoshop UI的免费，高级在线设计编辑器，支持PSD，XCF和Sketch格式（Adobe Photoshop，Gimp和Sketch App）.
   * [pexels.com](https://www.pexels.com/)  -免费的商业照片.  有免费的API，可让您按关键字搜索照片.
   * [unsplash.com](https://unsplash.com/) -用于商业和非商业目的的免费库存照片（随心所欲许可）.
@@ -745,12 +745,13 @@
    * [getinsights.io](https://getinsights.io) -注重隐私，无cookie的分析，每月最多可进行5k次活动.
 
 ## Visitor Session Recording
-   * [inspectlet.com](https://www.inspectlet.com/) — 1个网站每月免费提供100次会话
-   * [mousestats.com](https://www.mousestats.com/) — 1个网站每月免费提供100次会话
+   * [FullStory.com](https://www.fullstory.com)  —每月1,000次会话，具有1个月的数据保留和3个用户席位.  更多信息 [here](https://help.fullstory.com/hc/en-us/articles/360020623354-FullStory-Free-Edition).
+   * [inspectlet.com](https://www.inspectlet.com/) — 100 sessions/month free for 1 website
+   * [mousestats.com](https://www.mousestats.com/) — 100 sessions/month free for 1 website
    * [hotjar.com](https://www.hotjar.com/) —每个站点：每天2,000页浏览量，3张热图，存储3个月的数据，...
    * [usersurge.com](https://www.usersurge.com/) —每月个人250K次.
    * [smartlook.com](https://www.smartlook.com/) —适用于Web和移动应用程序的免费软件包（每月1500个会话），3个热图，1个渠道，1个月的数据历史记录
-   * [mouseflow.com](https://mouseflow.com/) — 1个网站每月免费提供100次会话
+   * [mouseflow.com](https://mouseflow.com/) — 100 sessions/month free for 1 website
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/)  —与使用SMS网关相比，通过创新，可靠的方法来免费增值移动电话号码验证.  每天免费10次尝试和15次验证

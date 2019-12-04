@@ -98,7 +98,7 @@ Graphics
 * ：钱袋子： [Spine](http://esotericsoftware.com/) -Spine致力于2D动画，可提供高效的工作流程，以创建出色的动画并将其集成到游戏中.
 * ：钱袋子： [Spriter](http://www.brashmonkey.com/spriter.htm) -用于精灵动画的现代工具.
 *：然后： [DragonBones](http://dragonbones.com) -Flash的开源2D骨架动画解决方案
-* ：钱袋子： [Mixamo](https://www.mixamo.com/#/) -3D人形模型的自动自动装配和动画制作工具，    
+* ：钱袋子： [Mixamo](https://www.mixamo.com/#/) -3D人形模型的自动自动装配和动画制作工具，
 
 #### Vector/Image Editor
 
@@ -320,7 +320,7 @@ Audio
 * ：自由： [Audiotool](http://www.audiotool.com/app) -在线音乐制作人.
 * ：自由： [Bfxr](http://www.bfxr.net/) -制作计算机游戏音效的工具.
 * ：自由： [Bosca Ceoil](http://boscaceoil.net/)  -Terry Cavanagh制作的在线（以及台式机）音乐制作人.  简单直观，具有鲜明的复古声音.
-* ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线声音效果生成器
+* ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线音效发生器
 * ：自由： [FamiTracker](http://famitracker.com/) -免费的Windows跟踪器，用于为NES / Famicom系统制作音乐.
 * ：自由： [iNudge](http://tonematrix.audiotool.com) -在线创建声音模式.
 *：然后： [jfxr](http://jfxr.frozenfractal.com) -Bfxr音效生成器的JavaScript端口.
@@ -379,6 +379,7 @@ Audio
 
 ### Books
 
+- ：自由： [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th)
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
 * [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
