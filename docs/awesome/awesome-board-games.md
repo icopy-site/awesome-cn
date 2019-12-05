@@ -14,13 +14,13 @@
 
 ### [Ghost Blitz](https://github.com/edm00se/awesome-board-games/blob/master/<https://boardgamegeek.com/boardgame/83195/ghost-blitz>)
 
- &gt;房屋鬼魂Balduin在城堡酒窖里发现了一台旧相机.  当他出没时，他立即拍摄了他爱使一切消失的照片-当然包括他自己.  不幸的是，附魔的相机以错误的颜色拍摄了许多照片.  有时，绿色的瓶子是白色的，而其他时候是蓝色的.  看着照片，Balduin真的不记得他接下来要消失的一切了.  您能帮助他解决问题并快速命名正确的物品，甚至让它自己消失吗？  如果您快速抓住正确的物品，您就有很大的机会赢取...
+ &gt;房屋鬼魂Balduin在城堡酒窖里发现了一台旧相机.  当他出没时，他立即拍摄了他爱使一切消失的照片-当然包括他自己.  不幸的是，附魔的相机以错误的颜色拍摄了许多照片.  有时，绿色的瓶子是白色的，而其他时候是蓝色的.  看着照片，Balduin真的不记得他接下来要消失的一切了.  您能帮助他解决问题并迅速命名正确的物品，甚至让它自己消失吗？  如果您快速抓住正确的物品，您就有很大的机会赢取...
 
 ![Ghost Blitz game image](https://cf.geekdo-images.com/itemrep/img/D-2aizsXhm-kpy0ffA4R--Xd07Y=/fit-in/246x300/pic2034769.jpg)
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2-8 |  8 |  20m |
+|   2 - 8 |        8 |  20m |
 
 
 ### [Ticket to Ride](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
@@ -45,7 +45,7 @@
 
 ### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
 
-&gt; ...玩家扮演勇敢的冒险家的角色，他们必须谨慎对待风，并在炽热的沙尘中幸存下来，以恢复埋在古老沙漠城市下的传奇飞行器.
+&gt; ...玩家扮演勇敢的冒险家的角色，他们必须谨慎对待风，并在狂热的沙尘中幸存下来，以恢复埋在古老沙漠城市下的传奇飞行器.
 
 ![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
 
@@ -83,7 +83,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  3-8 |  8  30m |
+|   3 - 8 |        8 |  30m |
 
 ### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
 
@@ -129,13 +129,24 @@
 
 ### [Candy Land](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Candy_Land>)
 
-&gt;这场比赛围绕着故事情节展开，故事情节涉及寻找失落的糖果之王康提国王-游戏不需要阅读和最少的计数技能，使其适合年幼的孩子-玩家无需做出选择，只需跟随指示.
+&gt;比赛围绕着故事情节进行，故事涉及寻找失落的糖果之王康提国王...游戏不需要阅读和最少的计数技能，使其适合年幼的孩子...再也不需要玩家做出选择，只需跟随指示.
 
 ![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-4 |  3 |  15-21m |
+
+### [Sorry](https://boardgamegeek.com/boardgame/2407/sorry)
+
+ &gt;滑动，碰撞并得分即可赢得对不起的游戏！  绘制卡片以查看将棋子之一移动到板上的距离.  如果您落在幻灯片上，则可以拉到最后并碰到对手的棋子或自己的棋子！
+
+![Sorry image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sorry_diamond_edit.jpg/300px-Sorry_diamond_edit.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-4 |  6  30m |
+
 
 ## Strategy
 
@@ -187,13 +198,13 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2  13  75m |
+ |  2  13 |  75m |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 
 <!-- nothing on wikipedia currently -->
 
- &gt; ...在Marvel Comics宇宙中进行的甲板建造游戏.  要设置游戏，玩家可以从蜘蛛侠，绿巨人，独眼巨人或金刚狼之类的游戏中选择一些英雄套牌，然后将它们洗牌以获得各种英雄套牌.  然后，玩家选择主谋恶棍（Magneto，Loki，Doom博士等），并将特定恶棍的攻击卡堆叠在其下.  接下来，根据该小人的特定方案，根据需要修改小人甲板.
+ &gt; ...在Marvel Comics宇宙中进行的甲板建造游戏.  要设置游戏，玩家可以从蜘蛛侠，绿巨人，独眼巨人或金刚狼之类的英雄中选择一些英雄套牌，然后将它们洗牌以获得各种英雄套牌.  然后，玩家选择主谋恶棍（Magneto，Loki，Doom博士等），并将特定恶棍的攻击卡堆叠在其下.  接下来，根据该小人的特定方案，根据需要修改小人甲板.
 
 ![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
 
@@ -213,7 +224,7 @@
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
- &gt;《权力的游戏》允许玩家扮演几家争夺七国王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，马拉松家族，格雷乔伊家族，泰瑞尔家族，以及扩展《冲突》之后的角色国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
+ &gt;《权力的游戏》允许玩家扮演几家争夺七大王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，Baratheon家族，Greyjoy家族，Tyrell家族以及《 A Clash》的扩展国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
@@ -223,7 +234,7 @@
 
 ### [YINSH](https://en.wikipedia.org/wiki/YINSH)
 
- &gt;玩家从棋盘上的五个环开始.  第一个删除3个环的玩家将成为赢家.  每次移动戒指时，都会留下一个标记.  标记的一侧是白色，另一侧是黑色，每次跳动时，都必须将其翻转.  一旦玩家排成一行5个颜色标记，他们就可以删除戒指.  面临的挑战是，您所做的每一排比赛都使您离胜利越来越近，但同时也使您变得更虚弱，因为您可以少玩一圈.
+ &gt;玩家从棋盘上的五个环开始.  第一个删除3个环的玩家将成为赢家.  每次移动戒指时，都会留下一个标记.  标记的一侧是白色，另一侧是黑色，每次跳动时，都必须将其翻转.  一旦玩家排成一行5个颜色标记，他们就可以删除戒指.  面临的挑战是，您所做的每一排比赛都使您离胜利越来越近，但同时也使您变得更虚弱，因为您的圈数更少.
 
 ![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
@@ -233,13 +244,13 @@
 
 ### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
 
- &gt;克苏鲁战争（Cthulhu Wars）是一个关于世界末日的快速发展的战略游戏.  您参与了各种试图统治世界的可怕外星人.  您可以扮演伟大的克苏鲁人，也可以掌控其他派系，例如，爬行混乱的小队或黄色标志的疯狂小兵.
+ &gt;克苏鲁战争（Cthulhu Wars）是一个关于世界末日的快速发展的战略游戏.  您参与了各种试图统治世界的可怕外星人.  您可以扮演大克苏鲁本人，也可以掌管其他派系，例如，爬行混乱的队伍成群结队，或者黄牌的疯狂仆从.
 
 ![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
-|   2 - 8 |       12 | 90-120m |
+ |  2-8 |  12 |  90-120m |
 
 ### [Anachrony](http://anachronyboardgame.com/)
 
@@ -263,7 +274,7 @@
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
-> A corrupt city, subject to vice and avarice, is under the control of vile characters. The seat of power is vacant and waiting for you to take it — unless someone else takes it first. In Complots, as in the original game Coup, you control two characters and start with two coins, and through trickery, manipulation and bluffing, you want to eliminate all other players who stand in your way, possibly by having them eliminate one another along the way.
+ &gt;腐败的城市受邪恶和贪婪的控制，受到邪恶人物的控制.  权力的位置空缺，等待您接管－除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是让他们沿着游戏中的彼此消灭.道路.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
@@ -343,7 +354,7 @@
 
 ### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
 
-> Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
+ &gt; Connect Four是一款两人连接游戏，其中，玩家首先选择一种颜色，然后轮流从顶部将一张彩色光盘放入七列，六行垂直悬挂的网格中.  碎片直落，占据了列中的最小可用空间.  游戏的目标是成为第一个形成自己四个碟片的水平，垂直或对角线的人.  连接四是一个解决的游戏.  第一个玩家总是可以通过正确的动作获胜.
 
 ![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
 
@@ -371,6 +382,16 @@
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-4 |  12 |  60-90m |
+
+### [Mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
+
+ &gt;猜测隐藏钉的颜色.  一种演绎游戏，其中每个玩家轮流进行有限的猜测，并使用逻辑推论对手隐藏的钉子.
+
+![Mastermind image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mastermind.jpg/226px-Mastermind.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2  8  30m |
 
 ## Party
 
@@ -416,7 +437,7 @@
 
 ### [Munchkin](http://www.worldofmunchkin.com/game/)
 
-> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
+ &gt;蒙奇金（Munchkin）是一款关于地下城冒险的热门打牌游戏，没有那么愚蠢的角色​​扮演游戏.  您和您的朋友竞争杀死怪物并抢夺魔法物品.  还有什么魔术物品！  穿上角质头盔和踢屁股长靴.  挥舞着纳帕姆的法杖……或者是血腥肢解的电锯.  首先屠宰盆栽植物和流口水的软泥，然后逐步到达way龙...
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
@@ -432,7 +453,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
- |  2-4 |  4 |  30-60m |
+|   2 - 4 |        4 | 30-60m |
 
 ### [Carrom](https://en.wikipedia.org/wiki/Carrom)
 
@@ -496,7 +517,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
- &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍保留着烈酒的地方宣称拥有主权；而一旦这样做，土地本身将与居住在那里的岛民一起反击.
+ &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍然保留着烈酒的地方宣称拥有主权，而当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
@@ -506,7 +527,7 @@
 
 ### [Bears vs. Babies](https://boardgamegeek.com/boardgame/211534/bears-vs-babies)
 
- &gt;熊与婴儿是一款纸牌游戏，您可以在其中建立英俊，令人难以置信的怪物，这些怪物会与可怕的可怕婴儿交战.  共享纸牌由熊的部分（和其他怪物的部分）和婴儿卡组成.  当您绘制零件时，您将使用它为自己构建一个怪物.  当您画婴儿时，它会放在桌子的中央.  当婴儿被挑衅时，他们会进攻，而怪物部分少于进攻婴儿数量的人将失去他们的怪物；  每个人都拥有比婴儿更多的部分，他们会击败这支婴儿部队并得分.
+ &gt;熊与婴儿是一款纸牌游戏，您可以在其中建立英俊，令人难以置信的怪物，这些怪物会与可怕的可怕婴儿交战.  共享纸牌由熊的部分（和其他怪物的部分）和婴儿卡组成.  当您绘制零件时，您将使用它为自己构建一个怪物.  当您画婴儿时，它会放在桌子的中央.  当婴儿被挑衅时，他们会进攻，而怪物零件少于进攻婴儿数量的人将失去他们的怪物；  每个人都拥有比婴儿更多的部分，他们会击败这支婴儿部队并得分.
 
 ![Bears vs. Babies Image](https://explodingkittens.com/img/store/games/bvb_core_thumb_x1.png)
 
@@ -527,7 +548,7 @@
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
- &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，《随机漫画生成器》通过计算机生成的喜剧就已经为数百万人娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+ &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们娱乐.在与Random Comic Generator玩了几周之后，我们开始怀疑它的数百个随机面板是否适合自己玩纸牌游戏，您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
@@ -577,7 +598,7 @@
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
- &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后竞争击败比对手更多的基地！  每个派系涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有巨大的力量-每个派系的组合都带来不同的游戏体验.
+ &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后竞争击败比对手更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
@@ -607,7 +628,7 @@
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
- &gt;垃圾熊猫是一款纸牌游戏，您可以像浣熊一样玩耍，在爪子穿过纸牌时尝试收集有用的垃圾.  开始收集一些珍贵的垃圾物品，例如日间破旧的比萨饼或吃了一半的糖果，并获得积分，成为街上最好的垃圾熊猫.  但是，请等一下，掷骰子以掩饰其他被掩盖的恶魔，以防止他们在顶端占据您的位置，但请确保您不要与任何会令您烦恼的Doggos混为一谈.  垃圾是宝藏，是最垃圾的藏匿地！
+ &gt;垃圾熊猫是一款纸牌游戏，您可以像浣熊一样玩耍，在用爪子穿过纸牌时尝试收集有用的垃圾.  开始收集珍贵的垃圾物品，例如日龄的比萨饼或半食的糖果，并获得积分，成为街上最好的垃圾熊猫.  但是，请稍等，掷骰子以撒谎其他被掩盖的恶魔，以防止他们在顶端占据您的位置，但请确保您不要与任何会折磨您的Doggos混为一谈.  垃圾是宝藏，是最垃圾的藏匿地！
 
 ![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
 
@@ -641,7 +662,7 @@
 
 ### [Love Letter](https://en.wikipedia.org/wiki/Love_Letter_(card_game))
 
- &gt;情书是一种冒险，演绎和运气的游戏.  每个玩家都试图先将自己的情书传递给暴风雨公主安妮特，然后再送给其他人.  在拥有16张卡和8个角色的卡组中，每个玩家都从一张卡开始.  随着游戏的进行，每个玩家都必须在自己当前的角色和剩余的甲板角色之间进行选择.  你的信会先送给公主吗？
+> Love Letter is a game of risk, deduction, and luck. Each player attempts to have their love letter delivered to Annette, the princess of Tempest, before anyone else does. From a deck with sixteen cards and eight roles, each player starts with one card. As the game progresses, each player must choose between their current role and those remaining in the deck. Will your letter reach the princess first?
 
 ![Love Letter Image](https://cf.geekdo-images.com/itemrep/img/x7Xa_F99E1UJXXKp2_NQi-sgwEM=/fit-in/246x300/pic1401448.jpg)
 
@@ -661,7 +682,7 @@
 
 ### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
 
- &gt;在这个思维敏捷，节奏快的类别游戏中与您的对手和蜂鸣器作战.  在压力下，您可以说出几个著名的演员，披萨馅料，红色的东西或狗的种类？  “捏”和“通过”类别卡的不同之处在于，您尝试通过喊出类别中的某些内容来吸引其他玩家的捏卡，并且尝试通过说出类别中的内容来摆脱通行卡的热土豆风格.  蜂鸣器响起时剩下的持卡人都将获得收益（对于捏卡）或遭受罚款（对于通行卡）.  终点线的第一个玩家是赢家，但不要因为被过多的通行卡而被淘汰！  每个玩家还可以召集另一位玩家进行正面交锋.  您只能执行一次，因此要计数！
+ &gt;在这个思维敏捷，节奏快的类别游戏中与您的对手和蜂鸣器作战.  在压力下，您可以说出几个著名的演员，披萨馅料，红色的东西或狗的种类？  “捏”和“通行证”类别卡的不同之处在于，您尝试通过喊出类别中的某些内容来吸引其他玩家的捏卡，并且尝试通过说出类别中的内容来摆脱通行卡的热土豆风格.  蜂鸣器响起时留下的持卡者将获得收益（对于捏卡）或遭受罚款（对于通行卡）.  终点线的第一个玩家是赢家，但不要因为被过多的通行卡而被淘汰！  每个玩家还可以召集另一位玩家进行正面交锋.  您只能执行一次，因此要计数！
 
 
 ![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)

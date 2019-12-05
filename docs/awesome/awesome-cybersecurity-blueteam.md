@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cybersecurity Blue Team [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-&gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
+&gt;真棒资源，工具和网络安全蓝队其他闪闪发光的东西的集合.
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效.  尽管不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目，并反对专有产品或公司服务.  有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
@@ -12,7 +12,8 @@
 
 ## Automation
 
-- [Ansible Lockdown](https://ansiblelockdown.io/) -精心搜集经过审查并积极维护的以信息安全为主题的Ansible角色.
+- [Ansible Lockdown](https://ansiblelockdown.io/) - 信息安全的策划集合主题，它们都审查和积极维护Ansible角色.
+- [Dev-Sec.io](https://dev-sec.io/) -服务器强化框架，提供各种基准安全性配置的Ansible，Chef和Puppet实现.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) -用Python编写的可扩展网络取证分析框架，可快速开发插件以支持剖析网络数据包捕获.
 - [MultiScanner](https://github.com/mitre/multiscanner) -用Python编写的文件分析框架，可通过自动对它们运行一套工具并汇总输出来帮助评估一组文件.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) -VirusTotal.com API的PowerShell接口.
@@ -38,10 +39,10 @@
 
 - [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将秘密安全地存储在Git / Mercurial / Subversion中.
 - [Cilium](https://cilium.io/) -开源软件，用于透明保护使用Docker和Kubernetes等Linux容器管理平台部署的应用程序服务之间的网络连接.
-- [Clair](https://github.com/coreos/clair) -静态分析工具，用于探测通过应用程序容器（例如Docker）映像引入的漏洞.
+- [Clair](https://github.com/coreos/clair) - 静态分析工具探测通过应用容器（例如，泊坞）图像引入漏洞.
 - [Gauntlt](http://gauntlt.org/) -在常规持续集成过程中的Pentest应用程序构建管道.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -防止您将密码和其他敏感信息提交到git存储库.
-- [Vault](https://www.vaultproject.io/) -用于通过统一界面安全访问机密（例如API密钥，密码或证书）的工具.
+- [Vault](https://www.vaultproject.io/) - 刀具用于通过统一的接口安全地访问机密，例如API密钥，密码，或证书.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/)  -git中的透明文件加密；  您选择保护的文件在提交时会加密，而在签出时会解密.
 - [SonarQube](https://sonarqube.org) -连续检查工具，可在自动化测试期间提供详细的报告，并就新引入的安全漏洞发出警报.
 
@@ -82,7 +83,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ### IR management consoles
 
-- [CIRTKit](https://github.com/opensourcesec/CIRTKit) -建立在Viper上的可编写脚本的数字取证和事件响应（DFIR）工具包.
+- [CIRTKit](https://github.com/opensourcesec/CIRTKit) - 脚本化数字取证和事故响应（DFIR）工具包构建于蝰蛇.
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) -网络安全事件管理平台，可轻松创建，跟踪和报告网络安全事件.
 - [Rekall](http://www.rekall-forensic.com/) -先进的法证和事件响应框架.
 - [TheHive](https://thehive-project.org/) -可扩展的免费安全事件响应平台，旨在简化SOC，CSIRT和CERT的工作，并与MISP紧密集成.
@@ -94,7 +95,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) -免费的macOS计算机取证工具.
 - [OSXCollector](https://github.com/Yelp/osxcollector) -适用于macOS的取证证据和分析工具包.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -Windows Batch脚本和Unix Bash脚本，可在事件响应期间全面收集主机取证数据.
-- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) -命令行实用程序（可与或不与Amazon EC2实例一起使用）并行化远程内存获取.
+- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - 命令行实用程序（即具有或不具有亚马逊EC2实例作品）并行远程存储器获取.
 
 ### Threat hunting
 
@@ -125,7 +126,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) -捕获欺骗的NetBIOS名称服务（NBNS）响应并提醒电子邮件或日志文件.
 - [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及深度数据包检查功能的免费，跨平台IDS / IPS，Lua也可以编写脚本.
 - [Wireshark](https://www.wireshark.org) -免费的开源数据包分析器，可用于网络故障排除或法医网络流分析.
-- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（`flowtop`），流量生成器（`trafgen`）和自治系统（AS）跟踪路由实用程序（`astraceroute`）.
+- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（flowtop），流量生成器（trafgen）和自治系统（AS）跟踪路由实用程序（astraceroute）.
 
 ## Network perimeter defenses
 
@@ -139,8 +140,8 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Operating System distributions
 
-- [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) -意大利GNU / Linux实时发行版，预打包了许多数字取证和证据收集工具.
-- [Security Onion](https://securityonion.net/) -免费和开源的GNU / Linux发行版，用于入侵检测，企业安全监视和日志管理.
+- [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - 意大利GNU / Linux的实时分布预包装产品众多数字取证和证据收集工具.
+- [Security Onion](https://securityonion.net/) - 免费和开源GNU / Linux发行版的入侵检测，企业的安全监控和日志管理.
 
 ## Phishing awareness and reporting
 
@@ -149,7 +150,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可轻松测试组织对网络钓鱼的危害.
 - [King Phisher](https://github.com/securestate/king-phisher) -通过模拟真实的网络钓鱼攻击来测试和增强用户意识的工具.
-- [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
+- [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -  Outlook中添加的用于帮助用户发现可疑的电子邮件报告给安全团队.
 - [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) -有助于检测和响应网络钓鱼攻击的框架.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) -允许创建和管理（伪造）网络钓鱼活动的平台，旨在训练人们识别可疑邮件. 
 - [mailspoof](https://github.com/serain/mailspoof) -扫描SPF和DMARC记录以查找可能允许电子邮件欺骗的问题.
@@ -157,7 +158,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Preparedness training and wargaming
 
-（也称为“对手模拟”，“威胁模拟”或类似内容.）
+（也称为*对手仿真*，*威胁仿真*，或类似的）.
 
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) -使系统看起来像是APT攻击的受害者的工具集.
 - [Atomic Red Team](https://atomicredteam.io/) -简单，可自动执行的测试库，以执行以测试安全性控制.
@@ -189,10 +190,10 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [DATA](https://github.com/hadojae/DATA) -凭据网络钓鱼分析和自动化工具，可以直接接受可疑的网络钓鱼URL，也可以在观察到的包含此类URL的网络流量上触发.
 - [Forager](https://github.com/opensourcesec/Forager) - Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) -通过被动映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）以及监督控制和数据采集（SCADA）的态势感知.
-- [MLSec Combine](https://github.com/mlsecproject/combine) -收集多种威胁情报源并将其组合成一种可定制的，基于CSV的标准化格式.
+- [MLSec Combine](https://github.com/mlsecproject/combine) - 收集和多重威胁情报饲料来源合并成一个可定制的，基于标准CSV格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) -用于收集，存储，分发和共享网络安全指标的开源软件解决方案.
 - [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) -可扩展工具，可从威胁源（包括Twitter，RSS源或其他来源）提取和汇总IOC.
-- [Unfetter](https://nsacyber.github.io/unfetter/) -利用Mitre的ATT＆CK框架识别安全态势中的防御性漏洞.
+- [Unfetter](https://nsacyber.github.io/unfetter/) - 在安全状态标识的防守缺口通过利用斜角的ATT＆CK框架.
 - [Viper](https://github.com/viper-framework/viper) -二进制分析和管理框架，可轻松组织恶意软件和利用样本.
 
 ## Tor Onion service defenses
@@ -200,7 +201,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 也可以看看 [awesome-tor](https://github.com/ajvb/awesome-tor).
 
 - [OnionBalance](https://onionbalance.readthedocs.io/) -提供负载平衡，同时通过消除单个故障点使Onion服务更具弹性和可靠性.
-- [Vanguards](https://github.com/mikeperry-tor/vanguards) -版本3洋葱服务防护发现缓解脚本（打算最终包含在Tor核心中）.
+- [Vanguards](https://github.com/mikeperry-tor/vanguards) - 第3版洋葱服务守卫发现攻击减轻脚本（用于最终纳入Tor的核心）.
 
 ## Transport-layer defenses
 
