@@ -192,7 +192,7 @@
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
- &gt; Antike Duellum（以Casus Belli的名字在Spiel 2011上预览）是一款基于Mac Gerdts的Antike修改规则的两人策略游戏.  游戏包括两种情况：棋盘一侧的《布匿战争》（罗马与卡塔戈），另一侧的波斯战争（希腊与波斯人）.  游戏的目标是成为第一个获得九个远古人物（国王，学者，将军，公民，航海家）的人.
+ &gt; Antike Duellum（以Casus Belli的名字在2011年Spiel上预览）是一款基于Mac Gerdts的Antike修改规则的两人策略游戏.  游戏包括两种情况：棋盘一侧的《布匿战争》（罗马与卡塔戈），另一侧的波斯战争（希腊与波斯人）.  游戏的目标是成为第一个获得九个远古人物（国王，学者，将军，公民，航海家）的人.
 
 ![Antike Duellum game image](https://cf.geekdo-images.com/itemrep/img/_wW6NgcIS12ZDpjZdXgzgMxqgQE=/fit-in/246x300/pic1282841.jpg)
 
@@ -214,7 +214,7 @@
 
 ### [Mansions of Madness, 2nd ed](https://wikipedia.org/wiki/Mansions_of_Madness)
 
- &gt;与Eldritch Horror和Elder Sign在同一个世界中发生的，完全协作，由应用程序驱动的恐怖和神秘棋盘游戏，适用于1-5个玩家.  在调查恐惧和谜团的四种情况时，在寻找答案时，探索因斯茅斯（Innsmouth）蒙面的街道和阿卡姆（Arkham）被诅咒的豪宅的鬼屋走廊.  收集武器，工具和信息，解决复杂的难题，与怪物，精神错乱和死亡作斗争.
+ &gt;与Eldritch Horror和Elder Sign在同一个世界中发生的，完全协作，由应用程序驱动的恐怖和神秘棋盘游戏，适用于1-5个玩家.  在调查恐惧和神秘的四种情况时，寻找答案时，探索因斯茅斯（Innsmouth）蒙面的街道和阿卡姆（Arkham）被诅咒的豪宅的鬼屋走廊.  收集武器，工具和信息，解决复杂的难题，与怪物，精神错乱和死亡作斗争.
 
 ![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
 
@@ -234,7 +234,7 @@
 
 ### [YINSH](https://en.wikipedia.org/wiki/YINSH)
 
- &gt;玩家从棋盘上的五个环开始.  第一个删除3个环的玩家将成为赢家.  每次移动戒指时，都会留下一个标记.  标记的一侧是白色，另一侧是黑色，每次跳动时，都必须将其翻转.  一旦玩家排成一行5个颜色标记，他们就可以删除戒指.  面临的挑战是，您所做的每一排比赛都使您离胜利越来越近，但同时也使您变得更虚弱，因为您的圈数更少.
+ &gt;玩家从棋盘上的五个环开始.  第一个删除3个环的玩家将成为赢家.  每次移动戒指时，都会留下一个标记.  标记的一侧是白色，另一侧是黑色，每次跳动时，都必须将其翻转.  一旦玩家排成一行5个颜色标记，他们就可以删除戒指.  面临的挑战是，您所做的每一排比赛都使您离胜利越来越近，但同时也使您变得更虚弱，因为您可以少玩一圈.
 
 ![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
@@ -392,6 +392,16 @@
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2  8  30m |
+
+### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
+
+ &gt; Call to Adventure是一款桌上游戏，玩家可以竞争来决定命运最大的英雄.  玩牌来建立自己的角色，投放符文以面对挑战，并选择走英雄主义还是反派的道路.  核心游戏模式是2-4人竞技游戏，但“冒险之旅”也可以单人玩或合作玩！
+
+![Call to Adventure box image](https://cf.geekdo-images.com/itemrep/img/9s46VFMEDqq9BGZwHDB0ZnDHwhw=/fit-in/246x300/pic4165094.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-4 |  13 |  30-45m |
 
 ## Party
 
@@ -672,7 +682,7 @@
 
 ### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
 
- &gt; TZAAR是GIPF系列抽象策略游戏中的第二款游戏.  每个玩家都有不同类型的棋子（6扎，9扎和15图）.  玩家轮流尝试捕获对手的棋子或堆叠棋子.  堆叠棋子可以使棋子更坚固，但可以减少玩家在棋盘上的棋子数量.  如果玩家无法抓住对手的棋子，或者在战线上没有每种棋子的至少一种类型，他们就会输掉比赛. 
+ &gt; TZAAR是GIPF系列抽象策略游戏中的第二款游戏.  每个玩家都有不同类型的棋子（6扎，9扎和15图）.  玩家轮流尝试捕获对手的棋子或堆叠棋子.  堆叠棋子可以使棋子更坚固，但可以减少玩家在棋盘上的棋子数量.  如果玩家无法抓住对手的棋子，或者他们在棋子上没有每种棋子的至少一种类型，他们就会输. 
 
 ![TZAAR image](https://upload.wikimedia.org/wikipedia/en/b/b2/TZAAR_box_cover.png)
 
@@ -682,7 +692,7 @@
 
 ### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
 
- &gt;在这个思维敏捷，节奏快的类别游戏中与您的对手和蜂鸣器作战.  在压力下，您可以说出几个著名的演员，披萨馅料，红色的东西或狗的种类？  “捏”和“通行证”类别卡的不同之处在于，您尝试通过喊出类别中的某些内容来吸引其他玩家的捏卡，并且尝试通过说出类别中的内容来摆脱通行卡的热土豆风格.  蜂鸣器响起时留下的持卡者将获得收益（对于捏卡）或遭受罚款（对于通行卡）.  终点线的第一个玩家是赢家，但不要因为被过多的通行卡而被淘汰！  每个玩家还可以召集另一位玩家进行正面交锋.  您只能执行一次，因此要计数！
+ &gt;在这个思维敏捷，节奏快的类别游戏中与您的对手和蜂鸣器作战.  在压力下，您可以说出几个著名的演员，披萨馅料，红色的东西或狗的种类？  “捏”和“通行证”类别卡的不同之处在于，您尝试通过喊出类别中的某些内容来吸引其他玩家的捏卡，并且尝试通过说出类别中的内容来摆脱通行卡的热土豆风格.  蜂鸣器响起时剩下的持卡人都将获得收益（对于捏卡）或遭受罚款（对于通行卡）.  终点线的第一个玩家是赢家，但不要因为被过多的通行卡而被淘汰！  每个玩家还可以召集另一位玩家进行正面交锋.  您只能执行一次，因此要计数！
 
 
 ![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)

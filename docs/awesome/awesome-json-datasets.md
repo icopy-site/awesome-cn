@@ -101,6 +101,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 *澳大利亚
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
   * [VIC Police Station Locations](http://data.gov.au/geoserver/police-station-locations/wfs?request=GetFeature&typeName=762b47b2_e706_4cab_b0c7_cf8e406aefc1&outputFormat=json)
+  * [Museums Victoria Collections](https://collections.museumvictoria.com.au/api/search)
 *阿姆斯特丹
   * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
@@ -125,7 +126,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Romanian](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=ro)
   * [Turkish](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=tr)
 
- &gt;专业提示：您可以在URL中更改`begin_date`和`end_date`来获取特定时间间隔内的事件.  更多选择 [here](http://www.vizgr.org/historical-events/).
+ &gt;专家提示：您可以在URL中更改`begin_date`和`end_date`来获取特定时间间隔内的事件.  更多的选择 [here](http://www.vizgr.org/historical-events/).
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
@@ -262,7 +263,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [Rick and Morty (Adult Swim)](http://api.tvmaze.com/singlesearch/shows?q=rick-&-morty&embed=episodes)
 * [Westworld (HBO)](http://api.tvmaze.com/singlesearch/shows?q=westworld&embed=episodes)
 
- &gt;专业提示：替换未列出的节目的字段值，例如“ shows？q = show-name”.  更多选择 [here](http://www.tvmaze.com/api)
+ &gt;专业提示：替换未列出的节目的字段值，例如“ shows？q = show-name”.  更多的选择 [here](http://www.tvmaze.com/api)
 
 *里克和莫蒂
   * [Get all characters](https://rickandmortyapi.com/api/character/)

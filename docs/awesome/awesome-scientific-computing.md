@@ -47,7 +47,7 @@ them.
 ## Finite Elements
 
 - [FEniCS](https://fenicsproject.org) -用于用Python和C ++解决PDE的开源计算平台.
-  （C ++ / Python，LGPL 3， [BitBucket](https://bitbucket.org/fenics-project/))
+  (C++/Python, LGPL 3, [BitBucket](https://bitbucket.org/fenics-project/))
 - [libMesh](https://libmesh.github.io) -使用任意非结构化离散化进行PDE数值模拟的框架.
   （C ++，LGPL 2.1， [GitHub](https://github.com/libMesh/libmesh))
 - [deal.II](https://dealii.org) -支持创建有限元代码的软件库.
@@ -62,7 +62,8 @@ them.
   （C ++，LGPL 2.1， [GitHub](https://github.com/mfem/mfem))
 - [SfePy](https://sfepy.org) -Python中的简单有限元.
   （Python，BSD， [GitHub](https://github.com/sfepy/sfepy))
-- [FreeFEM](https://freefem.org)  -高级Multiphysics-multimesh有限元语言.  （C ++，LGPL， [GitHub](https://github.com/FreeFem))
+- [FreeFEM](https://freefem.org) -高级Multiphysics-multimesh有限元语言.
+  （C ++，LGPL， [GitHub](https://github.com/FreeFem))
 
 ## Meshing
 
@@ -104,9 +105,13 @@ them.
   （Python，麻省理工学院， [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/nschloe/dmsh) -由distmesh启发的非结构三角形网格的简单生成器.
   （Python，麻省理工学院，GitHub）
-- [pmp-library](http://www.pmp-library.org/)  -多边形网格处理库.  （C ++，MIT，雇主免责声明， [GitHub](https://github.com/pmp-library/pmp-library/))
+- [pmp-library](https://www.pmp-library.org/)  -多边形网格处理库.  （C ++，MIT，雇主免责声明， [GitHub](https://github.com/pmp-library/pmp-library/))
 - [Mmg](https://www.mmgtools.org/)  -健壮，开放源代码和多学科的软件，可用于重新设计.  （C，LGPL 3， [GitHub](https://github.com/MmgTools/mmg))
 - [meshplex](https://github.com/nschloe/meshplex)  -单工网格的快速工具.  （Python，麻省理工学院，GitHub）
+- [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) -在野外强大的四面体啮合.
+  （C ++，GPL 3， [GitHub](https://github.com/Yixin-Hu/TetWild))
+- [TriWild](https://cs.nyu.edu/~yixinhu/triwild.pdf) -带有曲线约束的鲁棒三角剖分.
+  （C ++，MPL 2， [GitHub](https://github.com/wildmeshing/TriWild))
 
 ## Sparse linear solvers
 
@@ -119,6 +124,16 @@ them.
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) -高性能预处理器和求解器库.
   （C，Apache 2.0 / MIT， [GitHub](https://github.com/hypre-space/hypre))
 
+## Visualization
+
+- [ParaView](https://www.paraview.org) -基于VTK的多平台数据分析和可视化应用程序.
+  （100 ++，BSD， [GitLab](https://gitlab.kitware.com/paraview/paraview))
+- [VTK](https://vtk.org/) -处理图像并创建3D计算机图形.
+  （100 ++，BSD， [GitLab](https://gitlab.kitware.com/vtk/vtk))
+- [Mayavi](https://docs.enthought.com/mayavi/mayavi/) -使用Python进行3D科学数据可视化和绘图.
+  （Python，BSD， [GitHub](https://github.com/enthought/mayavi))
+- [Polyscope](https://polyscope.run/) -用于3D几何处理的查看器和用户界面.
+  （C ++，麻省理工学院， [GitHub](https://github.com/nmwsharp/polyscope))
 
 ## Other libraries and tools
 
@@ -131,15 +146,13 @@ them.
   （C / C ++，GPL 3， [Savannah](https://savannah.gnu.org/projects/gsl))
 - [OpenFOAM](https://www.openfoam.com) -免费的开源CFD（计算流体动力学）软件.
   （C ++，GPL 3， [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
-- [ParaView](https://www.paraview.org) -基于VTK的多平台数据分析和可视化应用程序.
-  （100 ++，BSD， [GitLab](https://gitlab.kitware.com/paraview/paraview))
 - [quadpy](https://github.com/nschloe/quadpy) -Python中的数值积分（正交，容积）.
   （Python，麻省理工学院，GitHub）
 - [FiPy](https://www.ctcms.nist.gov/fipy/) -有限体积的PDF解算器.
   （Python，[自定义开源
   许可]（https://www.nist.gov/topics/data/public-access-nist-research/copyright-fair-use-and-licensing-statements-srd-data-and），
   [GitHub](https://github.com/usnistgov/fipy))
-- [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
+- [accupy](https://github.com/nschloe/accupy) -适用于Python的精确求和和点积.
   （Python，麻省理工学院，GitHub）
 - [SLEPc](http://slepc.upv.es) -特征值问题计算的可扩展库.
   （C，2句BSD， [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
@@ -163,7 +176,7 @@ them.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) -关于逼近理论/实践和科学计算的36个视频讲座.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) -科学计算的壮举.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) -解决线性代数问题的免费软件列表.
-- [NA Digest](http://www.netlib.org/na-digest-html/) -收集与数值分析有关的主题和实践者的文章.
+- [NA Digest](https://www.netlib.org/na-digest-html/) -收集与数值分析有关的主题和实践者的文章.
 
 ## License
 
