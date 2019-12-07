@@ -262,7 +262,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [asciidoctor](https://github.com/sparsick/asciidoctor-zsh) -AsciiDoctor的插件.
 * [asdf](https://github.com/kiurchv/asdf.plugin.zsh) -的整合和完成 [asdf](https://github.com/asdf-vm/asdf)，可扩展的版本管理器，支持Ruby，Node.js，Elixir，Erlang等.
 * [assume-role](https://github.com/weizard/assume-role)  -ZSH插件，可让您轻松承担AWS IAM角色.  包括补全.
-* [async](https://github.com/mafredri/zsh-async)  -在ZSH中运行异步任务而无需任何外部工具的库.  允许您运行多个异步作业，强制执行独特的作业（同一作业的多个实例将不会运行），刷新所有当前正在运行的作业并创建多个工作程序（每个工作程序都有自己的工作）.
+* [async](https://github.com/mafredri/zsh-async)  -在ZSH中运行异步任务而无需任何外部工具的库.  允许您运行多个异步作业，强制执行唯一作业（同一作业的多个实例将不会运行），刷新所有当前正在运行的作业并创建多个工作程序（每个工作程序都有自己的工作）.
 * [atom-plugin](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) -基于 [Sublime](https://github.com/valentinocossar/sublime) 插件，可让您在其中启动文件或文件夹 [Atom](https://atom.io) 从 [iTerm 2](https://iterm2.com).
 * [atom](https://github.com/kingsj/atom_plugin.zsh) -的插件 [Atom](https://atom.io) macOS上的编辑器.
 * [auto-color-ls](https://github.com/gretzky/auto-color-ls) -用`colorls`自动列出目录.
@@ -301,11 +301,11 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [bumblebee](https://github.com/Niverton/zsh-bumblebee-plugin) -在命令行中切换optirun的插件.
 * [calc](https://github.com/arzzen/calc.plugin.zsh) -ZSH的计算器.
 * [caniuse](https://github.com/walesmd/caniuse.plugin.zsh) -添加 [Can I Use...](https://caniuse.com) 对ZSH的支持.
-* [careful_rm](https://github.com/MikeDacre/careful_rm) -rm的包装，添加了垃圾回收/有用的警告.
+* [careful_rm](https://github.com/MikeDacre/careful_rm) -rm包装纸，可添加垃圾/回收物和有用的警告.
 * [cd-gitroot](https://github.com/mollifier/cd-gitroot) -ZSH插件，用于`cd`到`git`仓库根目录.
 * [cd-reminder](https://github.com/bartboy011/cd-reminder) -当进入指定目录时，显示提醒.
 * [cd-reporoot](https://github.com/P4Cu/cd-reporoot) -ZSH插件，用于“ cd”到当前存储库检出的根目录.
-* [cd-ssh](https://github.com/jeffwalter/zsh-plugin-cd-ssh) -如果不小心将cd存入服务器，则将ssh存入服务器.
+* [cd-ssh](https://github.com/jeffwalter/zsh-plugin-cd-ssh) -当您不慎将CD存入服务器时，将SSH存入服务器.
 * [cdbk](https://github.com/MikeDacre/cdbk) -一个ZSH插件，可轻松创建命名目录-所需目录的快捷方式.
 * [cdc](https://github.com/evanthegrayt/cdc) -用于将目录更改为在您定义的常用位置之一中找到的目录的Shell函数.
 * [cdr](https://github.com/willghatch/zsh-cdr) -为ZSH轻松设置cdr.
@@ -452,14 +452,14 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [history](https://github.com/b4b4r07/zsh-history) -扩展历史记录，以便可以通过SQL查询.
 * [hooks](https://github.com/willghatch/zsh-hooks) -添加缺少的挂钩-供插件和个人使用.
 * [host-switch](https://github.com/LockonS/host-switch) -使开发过程中切换到不同的`/ etc / hosts`文件更加容易.
-* [hub-ci-zsh-plugin](https://github.com/raymondjcox/hub-ci-zsh-plugin) -一个简单的插件，用于在您的ZSH主题中添加`hub` ci-status.
+* [hub-ci-zsh-plugin](https://github.com/raymondjcox/hub-ci-zsh-plugin) -一个简单的插件，用于向您的ZSH主题添加`hub` ci-status.
 * [igit](https://github.com/ytakahashi/igit) -使用的交互式`git`命令 [fzf](https://github.com/junegunn/fzf).
 * [ing](https://github.com/rummik/zsh-ing) -`ping`，但输出较短.
 * [intellij](https://github.com/mgryszko/intellij) -将intellij书签提取为markdown格式.
 * [interactive-cd](https://github.com/changyuheng/zsh-interactive-cd) -类似于cd的类似于鱼的交互式制表符.
 * [iosctl](https://github.com/obayer/iosctl) -快速访问正在运行的模拟器的应用程序，数据和日志.
 * [ipip](https://github.com/SukkaW/zsh-ipip) -的插件 [IPIP](https://en.ipip.net).
-* [iterm-tab-color](https://github.com/bernardop/iterm-tab-color-oh-my-zsh) -增加了在iTerm2中设置选项卡颜色的功能，并可以基于cwd或正在执行的命令自动更改颜色.
+* [iterm-tab-color](https://github.com/bernardop/iterm-tab-color-oh-my-zsh) -添加了在iTerm2中设置选项卡颜色的功能，并可以基于cwd或正在执行的命令自动更改颜色.
 * [iterm-tab-colors](https://github.com/tysonwolker/iterm-tab-colors) -根据当前工作目录自动更改iTerm 2标签的颜色.
 * [iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar) -在MacbookPro TouchBar中显示iTerm2反馈（当前目录，git分支和状态）.
 * [iterm2-colors](https://github.com/shayneholmes/zsh-iterm2colors) -从命令行管理iTerm 2的配色方案.
@@ -501,7 +501,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [lux](https://github.com/pndurette/zsh-lux)  -ZSH插件可通过“ lux”命令在macOS以及其他项目和应用程序的明暗模式之间切换.  高度可定制：可以通过定义变量来配置包含的项目.  高度可扩展：可以通过定义功能来添加项目.  包括`macos_is_dark`帮助函数，用于确定macOS暗模式在主题中是否处于活动状态.
 * [mac-packaging](https://github.com/Temikus/mac-packaging) - A set of common functions used for enterprise Mac packaging with [Munki](https://www.munki.org/munki/).
 * [macos](https://github.com/joow/macos) -适用于macOS的ZSH插件.
-* [mage2docker](https://github.com/lukaszolszewski/mage2docker) -使使用Docker和Magento 2变得容易.在容器上的Magento 2中，加速并简化了诸如清理缓存，设置升级，编译di等常用命令.
+* [mage2docker](https://github.com/lukaszolszewski/mage2docker) -使使用Docker和Magento 2变得容易.在容器上的Magento 2中，加速并简化了常用命令，如干净缓存，设置升级，编译di以及更多操作.
 * [magento-2](https://github.com/dambrogia/oh-my-zsh-plugin-magento-2) -添加了`m2`函数来运行magento二进制文件，并添加了制表符补全.
 * [manydots-magic](https://github.com/knu/zsh-manydots-magic) -用于模拟`...&#39;==`../ ..&#39;等的zle调整.
 * [markedit](https://github.com/zakariaGatter/MarkEdit) -标记文件并使用自动补全功能对现有标记进行编辑.
@@ -522,7 +522,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [nice-exit-code](https://github.com/bric3/nice-exit-code) -将退出状态代码映射到人类可读的字符串.
 * [nix-shell](https://github.com/chisui/zsh-nix-shell) -可让您将ZSH用作默认`nix-shell` shell的插件.
 * [node-path](https://github.com/andyrichardson/zsh-node-path) -自动将当前目录的“ npm bin”添加到路径.
-* [node](https://github.com/srijanshetty/node.plugin.zsh) -Srijan Shetty的ZSH的nodejs插件，具有对`nvm`补全内容进行缓存并自动加载`nvm`的功能（如果存在）.
+* [node](https://github.com/srijanshetty/node.plugin.zsh) -Srijan Shetty的ZSH的nodejs插件，具有对`nvm`补全进行缓存和对`nvm`的自动加载（如果存在）的功能.
 * [nodenv](https://github.com/jsahlen/nodenv.plugin.zsh) -自动将nodenv及其补全加载到外壳中.
 * [nohup](https://github.com/micrenda/zsh-nohup) -按Ctrl-H将nohup添加到当前命令.
 * [nonotes](https://github.com/stevemcilwain/nonotes)  -用于笔测试的插件.  无需更多注释，也无需复制和粘贴命令.
@@ -848,7 +848,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [aperiodic](https://github.com/piccobit/aperiodic-zsh-theme) -显示git装饰，用户，主机，是否为root，活动的Python虚拟环境，当前的Ruby解释器，最后命令的视觉和数字状态，电源管理状态以及时间和日期.
 * [aphrodite](https://github.com/win0err/aphrodite-terminal-theme)  -简约主题，无视觉干扰.  仅显示必要的信息：当前用户，主机名，工作目录，“ git”分支（如果存在）.  深色和白色端子看起来都很棒.
 * [aplos](https://github.com/sunquan1991/aplos) -最小的ZSH提示，包括工作目录，git本地信息，git远程信息，时间和退出代码.
-* [archie](https://github.com/dcavalcante/archie)  -Arch Linux启发的ZSH主题.  基于 [norm](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/norm.zsh-theme) 主题.
+* [archie](https://github.com/dcavalcante/archie)  -Arch Linux启发了ZSH主题.  基于 [norm](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/norm.zsh-theme) 主题.
 * [arity](https://github.com/hybras/Arity-Zsh-Theme)  -Arity是一个易于阅读的简单主题，一目了然.  包括路径和`git`装饰.
 * [aronhoyer](https://github.com/aronhoyer/zsh-theme) -带有右侧`git`状态装饰的简约主题.
 * [arrow-minimal](https://github.com/maxim-usikov/arrow-minimal.zsh-theme) -带有`git`装饰的ZSH最小主题.
@@ -1188,6 +1188,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [raytek](https://github.com/Raytek/raytek-zsh-theme) -简单多彩的主题，带有git状态装饰.
 * [rb](https://github.com/rberenguel/rb-zsh-theme) -基于电力线的ZSH主题，基于 [Agnoster](https://gist.github.com/agnoster/3712874) ，针对git和日晒终端进行了优化.  需要兼容Powerline的字体.
 * [rbjorklin](https://github.com/rbjorklin/rbjorklin-zsh-theme) -针对日晒终端配色方案进行了优化，包括git状态装饰.
+* [redline](https://github.com/DrissTM/redline.zsh-theme)  -极简主义主题.  包括`git`状态，时间，用户.
 * [rei](https://github.com/arturoalviar/rei-zsh-theme) -一个简单的主题，第一个字符为零（rei），数字为0.包括git状态修饰.
 * [remiii](https://github.com/Remiii/remiii.zsh-theme) -基于agnoster，针对 [solarized](https://github.com/altercation/solarized) 终端主题.
 * [remolueoend](https://github.com/remolueoend/remolueoend.zsh-theme) -基于Sorin的Prezto ZSH主题，使用表情符号跟踪GIT上下文.
@@ -1219,6 +1220,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [shellder](https://github.com/simnalamburt/shellder)  -带有git分支显示的最小主题.  需要兼容Powerline的字体.
 * [shichi](https://github.com/arturoalviar/shichi-zsh-theme)  -一个简单的主题，第一个字符为七（shichi / nana），数字为7.主色为红色，带有黄色重音.  包括`git`状态装饰.
 * [shocm](https://github.com/ericvanjohnson/shocm-zsh-themes) -来自 [sixlive](https://github.com/sixlive/sixlive-zsh-theme) .  有`git`装饰.
+* [short-ys](https://github.com/OREOmini/short-ys-zsh-theme) -基于 [ys](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme)  主题.  包括git和hg状态装饰.
 * [shrikant](https://github.com/shr1k4nt/shrikant_zsh_theme) -包括git装饰.
 * [shrug](https://github.com/tmjoseantonio/shrug-zsh-theme) -显示当前目录和git信息的简单主题.
 * [siegerts](https://github.com/siegerts/zsh-theme) -在正确的提示中包含`git`状态修饰.

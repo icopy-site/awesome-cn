@@ -3,7 +3,7 @@
 ## Awesome Phalcon
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://api.travis-ci.org/phalcon/awesome-phalcon.svg?branch=master)](https://travis-ci.org/phalcon/awesome-phalcon)
+[![Actions Status](https://github.com/phalcon/awesome-phalcon/workflows/CI/badge.svg)](https://github.com/phalcon/awesome-phalcon/actions)
 
 
  精选的Phalcon库和资源的精选列表.  受启发 [awesome-go](https://github.com/avelino/awesome-go).

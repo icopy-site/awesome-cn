@@ -5,12 +5,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://books.zulipchat.com)
 
 
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hackerkid)
-
 &gt;精选的心智扩展书籍清单.
 
  我们正在一个网站上进行书籍扩展.  它正在建设中，可以在https://books.vishnuks.com上访问.  如果你
-有兴趣改善网站的人可以随时提出公开问题之一.
+有兴趣改善网站的人可以随时声明一个未解决的问题.
 
 
 ## Books
@@ -29,7 +27,7 @@
  |  思考并成长致富|  拿破仑山| [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) | 1937 |
  |  异常值：成功的故事|  马尔科姆·格拉德威尔| [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
  |  定价策略和策略：提高利润的指南|  Thomas Nagle，John Hogan，Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
- |  从为什么开始：伟大的领导人如何激励所有人采取行动  Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
+ |  从原因开始：伟大的领导者如何激励所有人采取行动  Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
  |  让微软改变世界：企业家的奥德赛教育世界的孩子们  约翰·伍德| [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |  
  |  黑客和画家|  保罗·格雷厄姆| [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |  
  |  从优秀到优秀：为什么有些公司实现飞跃，而另一些则没有？  吉姆·柯林斯| [4.05](https://www.goodreads.com/book/show/76865.Good_to_Great) | 2001 |  
@@ -39,7 +37,7 @@
  |  好主意从何而来？  史蒂文·约翰逊| [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |  
  |  传递幸福：获取利润，激情和目标的途径  谢东| [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
  |  创新者的困境|  克莱顿山  克里斯滕森| [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
- |  影响者：领导变革的新科学|  约瑟夫·格兰尼（Joseph Grenny），克里·帕特森（Kerry Patterson）| [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
+ |  影响者：领导变革的新科学|  约瑟夫·格兰尼（Joseph Grenny），凯里·帕特森（Kerry Patterson）| [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
  |  重新审视电子神话：为什么大多数小型企业不起作用以及如何处理|  迈克尔·格伯| [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |  
  |  完成事情：无压力生产力的艺术  大卫艾伦| [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |  
  |  失去童贞：我如何生存，玩乐并发家致富  理查德·布兰森| [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |  
@@ -58,13 +56,13 @@
  |  大卫和巨人：失败者，不称职和巨人作战艺术  马尔科姆·格拉德威尔| [3.90](https://www.goodreads.com/book/show/15751404-david-and-goliath) | 2013 |  
  |  可持续发展战略：一项业务宣言  亚当·韦巴赫| [3.89](https://www.goodreads.com/book/show/6553353-strategy-for-sustainability) | 2009 |  
  |  黑天鹅：高度不可能的影响  纳西姆·尼古拉斯·塔莱布| [3.88](http://www.goodreads.com/book/show/242472.The_Black_Swan) | 2007 |  
- |  传染性：为什么事情继续流行  乔纳·贝格| [3.88](https://www.goodreads.com/book/show/15801967-contagious) | 2013 |  
+ |  传染性：为什么事情继续流行  乔纳·伯杰| [3.88](https://www.goodreads.com/book/show/15801967-contagious) | 2013 |  
  |  谁说大象不能跳舞？：通过戏剧性的变革领导伟大的企业  小路易斯·格斯特纳| [3.88](https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_) | 2003 |  
  |  Linchpin：您不可或缺吗？  塞思·戈丁（Seth Godin）| [3.87](https://www.goodreads.com/book/show/7155145-linchpin) | 2010 |  
- |  100美元的创业公司：重塑您的谋生方式，做自己喜欢的事并创造新的未来|  克里斯·吉列波| [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |  
+ |  100美元的创业公司：重塑您的谋生方式，做自己喜欢的事以及创造新的未来|  克里斯·吉列波| [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |  
  |  太大不能倒|  安德鲁·罗斯·索金| [3.85](https://www.goodreads.com/book/show/6687247-too-big-to-fail) | 2011 |  
  |  选择的悖论：为什么少花钱多？  巴里·史瓦兹（Barry Shwartz）| [3.84](https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice) | 2005 |  
- |  开始的艺术：历经时间考验，艰苦奋斗的指南，适用于任何人  川崎圭| [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |  
+ |  开始的艺术：久经考验，艰苦奋斗的指南，适用于任何人  川崎圭| [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |  
  |  众包：为什么人群的力量驱动着商业的未来？  杰夫·豪| [3.82](https://www.goodreads.com/book/show/2601510-crowdsourcing) | 2008 |  
  |  认知过剩：互联时代的创造力和慷慨  Clay Shirky | [3.82](https://www.goodreads.com/book/show/7614793-cognitive-surplus) | 2010 |  
  |  零对一|  彼得·泰尔（Peter Thiel），布雷克大师赛| [3.75](https://www.goodreads.com/book/show/18050143-zero-to-one) | 2014 |  
@@ -88,7 +86,7 @@
  |  简明的48条功率定律|  罗伯特·格林| [4.25](https://www.goodreads.com/book/show/18224060-the-concise-48-laws-of-power) | 2011 |  
  |  千面英雄  约瑟夫·坎贝尔| [4.24](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) | 1972 |  
  |  Zen Mind，初学者的思维|  铃木俊龙，大卫·查德威克| [4.23](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind) |  |  
- |  洞察力时代：从艺术1900年至今的无意识艺术，思维和大脑中的探索|  埃里克·坎德尔| [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |
+ |  洞察力的时代：从艺术1900年至今的无意识艺术，思想和大脑中的探索|  埃里克·坎德尔| [4.22](https://www.goodreads.com/book/show/12263681-the-age-of-insight) | 2012 |
  |  冥想  Marcus Aurelius | [4.21](https://www.goodreads.com/book/show/30659.Meditations) |  |
  |  影响：说服心理  Robert B. Cialdini | [4.18](https://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2006 |  
  |  不完美的礼物|  布雷恩·布朗| [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
@@ -99,14 +97,14 @@
  |  创意可视化：利用您的想象力创造生活中想要的东西  Shakti Gawain | [4.13](https://www.goodreads.com/book/show/582533.Creative_Visualization) | 2002 |  
  |  Bulfinch的神话|  托马斯·布尔芬奇| [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
  |  自我是敌人  瑞安假日| [4.12](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) | 2016 |  
- |  唤醒内心的巨人：如何立即控制您的心理，情感，身体和财务命运！  |  安东尼·罗宾斯| [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) |  |  
+ |  唤醒内心的巨人：如何立即控制自己的心理，情感，身体和财务命运！  |  安东尼·罗宾斯| [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) |  |  
 | The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 |  
  |  可以预见的非理性  丹·阿里利| [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
  |  流：最佳体验心理学  Mihaly Csikszentmihalyi | [4.10](https://www.goodreads.com/book/show/66354.Flow) | 1990 |  
  |  思考，快慢  丹尼尔·卡尼曼| [4.09](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) | 2011 |  
  |  非理性的人：存在哲学研究  威廉·巴雷特| [4.09](https://www.goodreads.com/book/show/83321.Irrational_Man) |  |  
  |  无限的开始：改变世界的解释  大卫·德意志| [4.08](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |  |  
- |  我们赖以生存的隐喻  乔治·拉科夫（Mark George Johnson）| [4.08](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) | 2003 |  
+ |  我们赖以生存的隐喻  乔治·拉科夫（George Lakoff），马克·约翰逊（Mark Johnson）| [4.08](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) | 2003 |  
  |  砂砾  安吉拉·达克沃思| [4.08](https://www.goodreads.com/book/show/27213329-grit) | 2016 |  
  |  捍卫食物：食者宣言  迈克尔·波伦| [4.07](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) | 2008 |  
  |  的空白：现代人性的否定  史蒂文·平克| [4.07](http://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2003 |  
@@ -151,7 +149,7 @@
 ## Autobiographies and Biographies
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
- |  完整无缺：第二次世界大战中的生存，韧性和救赎故事  劳拉·希伦布兰德| [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
+ |  完整：第二次世界大战中的生存，韧性和救赎故事  劳拉·希伦布兰德| [4.39](https://www.goodreads.com/book/show/8664353-unbroken) | 2010 |  
  |  自由之路|  纳尔逊·曼德拉| [4.31](http://www.goodreads.com/book/show/318431.Long_Walk_to_Freedom) | 1995 |  
  |  我的生活和工作  亨利·福特| [4.29](http://www.goodreads.com/book/show/1122054.My_Life_And_Work) |  |  
  |  费曼先生，您确定是在开玩笑！  理查德·费曼| [4.29](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_) | 1997 |  
@@ -172,7 +170,7 @@
  |  失去童贞：自传  理查德·布兰森| [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |1999|  
  |  电线中的幽灵：作为世界上最想要的黑客的我的冒险  凯文·米特尼克| [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
  |  自传：走向自由|  Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
- |  iWoz：计算机狂热崇拜者图标：我是​​如何发明个人计算机，与人共同创立的Apple，以及这样做的乐趣|  史蒂夫·沃兹尼亚克| [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
+ |  iWoz：计算机狂热崇拜者图标：我是​​如何发明个人计算机，与他人共同创建Apple的，并且这样做很有趣|  史蒂夫·沃兹尼亚克| [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
 
 ## History
  |  姓名|  作者|  Goodreads评分|  出版年份|  
@@ -231,7 +229,7 @@
  |  如何找到一个宜居星球  詹姆斯·卡斯汀| [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
  |  10,000年的爆炸：文明如何促进人类进化  格雷戈里·科克伦，亨利·哈彭丁| [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) |  |  
  |  人人进化：达尔文的理论如何改变我们对生活的看法  戴维·斯隆·威尔逊| [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |
- |  光速生活：从双重螺旋到数字生活的黎明  J.克雷格·文特| [3.87](https://github.com/hackerkid/Mind-Expanding-Books/blob/master/www.goodreads.com/book/show/17674969-life-at-the-speed-of-light) | 2013 |
+ |  光速下的生命：从双重螺旋到数字生活的黎明  J.克雷格·文特| [3.87](https://github.com/hackerkid/Mind-Expanding-Books/blob/master/www.goodreads.com/book/show/17674969-life-at-the-speed-of-light) | 2013 |
  |  The Shallows：互联网对我们的大脑有何作用？  尼古拉斯·卡尔| [3.85](https://www.goodreads.com/book/show/9778945-the-shallows) | 2011 |  
  |  着火：烹饪如何使我们成为人类  Richard Wrangham | [3.83](https://www.goodreads.com/book/show/11148989-catching-fire) | 2009 |  
  |  芯片天堂：数字时代社会与科学的模糊愿景  Bart Kosko | [3.82](https://www.goodreads.com/book/show/172645.Heaven_in_a_Chip) | 2000 |  
@@ -272,7 +270,7 @@
  |  债务-更新和扩展：前5,000年|  David Graeber | [4.17](https://www.goodreads.com/book/show/6617037-debt) | 2011 |  
  |  二十一世纪的首都|  托马斯·皮凯蒂| [4.01](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) | 2014 |  
  |  他们没有告诉你关于资本主义的23件事  张河俊| [3.97](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) |  |  
- |  信号与噪声：为什么这么多的预测失败了，但有些却没有|  Nate Silver | [3.96](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) |  |  
+ |  信号与噪声：为何如此多的预测失败了，但有一些却没有呢？  Nate Silver | [3.96](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) |  |  
  |  货币战争：下一次全球危机的形成  詹姆斯·里卡兹| [3.96](https://www.goodreads.com/book/show/11515298-currency-wars) | 2011 |  
  |  金钱上升：世界金融史|世界银行  尼尔·弗格森| [3.88](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) |  |  
  |  最底层的十亿人：最贫穷的国家为什么会失败以及对此有何应对措施？  保罗·科利尔| [3.85](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) | 2007 |  
@@ -316,7 +314,7 @@
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
  |  每天晚上都不同：将剧本放在舞台上并保持新鲜感|  Mike Alfreds | [4.69](https://www.goodreads.com/book/show/3493241-different-every-night) | 2008 |  
- |  Impro：即兴表演和剧院|  基思·约翰斯通| [4.27](https://www.goodreads.com/book/show/306940.Impro) |  |  
+ |  Impro：即兴创作和剧院|  基思·约翰斯通| [4.27](https://www.goodreads.com/book/show/306940.Impro) |  |  
  |  演员和目标|  Declan Donnellan | [4.25](https://www.goodreads.com/book/show/611466.The_Actor_and_the_Target) | 2006 |  
  |  眨眼间：电影剪辑的视角  沃尔特·默奇| [4.24](https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye) | 1995 |  
  |  导演注意事项：董事长的130堂领导才能课程|  弗兰克·豪瑟，罗素·赖希| [4.21](https://www.goodreads.com/book/show/254808.Notes_on_Directing) |  |  
@@ -391,7 +389,7 @@
  |  哈利·波特与理性方法|  Eliezer Yudkowsky | [4.38](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) | 2015 |  
  |  Discworld |  特里·普拉切特| [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |  
  |  黑暗塔|  斯蒂芬·金| [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |  
- |  他的黑暗材料|  菲利普·普尔曼| [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
+ |  他的深色材料|  菲利普·普尔曼| [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
  |  最后的愿望-佐贺|  安德烈（Andrzej Sapkowski） [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
  |  城市与城市|  中国米维尔| [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
@@ -453,7 +451,7 @@
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
  |  女王的甘比特|  沃尔特·特维斯| [4.11](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) |  |  
- |  骨头人|  Keri Hulme | [4.06](https://www.goodreads.com/book/show/460635.The_Bone_People) | 1986 |  
+ |  骨人|  Keri Hulme | [4.06](https://www.goodreads.com/book/show/460635.The_Bone_People) | 1986 |  
  |  猫眼|  玛格丽特·阿特伍德| [3.92](https://www.goodreads.com/book/show/51019.Cat_s_Eye) | 1998 |  
  |  Xeelee序列|  斯蒂芬·巴克斯特| [3.69](http://www.goodreads.com/series/49784-xeelee-sequence) | 1992 |  
  |  幽灵舰队|  PW歌手和奥古斯特·科尔| [3.62](https://www.goodreads.com/book/show/22749719-ghost-fleet?from_search=true) | 2015 |  
@@ -464,7 +462,7 @@
 |------|--------|------------------|----------------|  
  |  如何不死：发现经科学证明可以预防和逆转疾病的食物  医学博士Michael Greger | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die) | 2015 |
  |  克服重力：一种系统的方法来锻炼体操和体重（第二版）|  史蒂文·洛| [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 | 
- |  有罪的条件|  保罗·韦德| [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
+ |  定罪条件|  保罗·韦德| [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
  |  饮食与跑步：我不太可能参加的超级马拉松大赛|  史考特·尤里克（Scott Jurek），史蒂夫·弗里德曼（Steve Friedman）| [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
  |  8周最佳健康|  安德鲁·威尔| [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
 
@@ -500,4 +498,4 @@
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Vishnu Ks](https://github.com/hackerkid) 已放弃所有版权及相关或邻接权这项工作.
+在法律允许的范围内， [Vishnu Ks](https://github.com/hackerkid) 放弃了此作品的所有版权以及相关或邻近的权利.

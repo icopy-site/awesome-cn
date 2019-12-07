@@ -69,7 +69,7 @@ VML和CSS.
 - [Campaign monitor](https://www.campaignmonitor.com/) -Campaign Monitor使您可以轻松创建，发送和优化电子邮件营销活动.
 - [Sendgrid](https://sendgrid.com/) -通过一个可靠的平台传递您的交易和营销电子邮件.
 - [Postal](https://github.com/atech/postal) -用于接收和发送电子邮件的功能齐全的开源邮件传递平台.
-- [SparkPost](https://www.sparkpost.com/) -您的应用程序的电子邮件：准时发送至收件箱.
+- [SparkPost](https://www.sparkpost.com/) -您应用程序的电子邮件：准时发送至收件箱.
 - [Mautic](https://mautic.com/)  -Mautic营销自动化.  利用易于学习，易于使用且易于迭代的营销自动化，构建更智能的广告系列并更快地构建它们.
 - [Mailgun](https://www.mailgun.com/) -针对开发人员的交易电子邮件API服务.
 - [eSputnik](https://esputnik.com/en) -eSputnik是一种行销自动化系统，受到全球3万多忠实客户的信赖，每月发送超过10亿封电子邮件.
@@ -83,11 +83,12 @@ VML和CSS.
 - [Mail-in-a-box](https://mailinabox.email/) -通过几个简单的步骤，您就可以成为自己的邮件服务提供商.
 - [iRedMail](https://iredmail.org/) -易于安装的开源邮件服务器解决方案
 - [mailcow](https://mailcow.email/)  -带有“ moo”的邮件服务器套件.  一个易于使用的dockerized自托管电子邮件解决方案.
+- [Poste.io](https://poste.io/) -内置在一个Docker容器中的完整邮件服务器.
 
 ## Workflows
 
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) -Grunt工作流程，用于使用SCSS设计和测试响应HTML电子邮件模板.
-- [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) -Gulp Email Creator是一个受Lee Munroe的咕gr电子邮件设计工作流程启发的gulp工作流程.
+- [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) -Gulp Email Creator是一个受Lee Munroe咕gr的电子邮件设计工作流程启发的工作流程.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) -通过Sitepoint进行的典型电子邮件开发工作流.
 
 ## Articles

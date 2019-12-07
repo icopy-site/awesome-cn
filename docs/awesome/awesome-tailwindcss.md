@@ -19,7 +19,7 @@
 ## Plugins
 
 - [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) -为表单元素添加更好的默认样式.
-- [benface's transitions](https://github.com/benface/tailwindcss-transitions) - Adds configurable transition utilities, with or without CSS variables.
+- [benface's transitions](https://github.com/benface/tailwindcss-transitions) -添加带有或不带有CSS变量的可配置过渡实用程序.
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) -通过CSS变量和`prefers-color-scheme`添加了强大的主题功能.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) -添加`text-indent`实用程序.
 - [Transforms](https://github.com/benface/tailwindcss-transforms) -添加`transform`实用程序.
@@ -113,7 +113,7 @@
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) -Tailwind CSS的TypeScript类型.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) -生成Tailwind配置的Zeplin扩展.
 -  [Gatsby Plugin Tailwind CSS](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) -Gastby插件，可将Tailwind CSS与CSS-in-JS结合使用.
--  [Gridsome Plugin Tailwind CSS](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) -Gridsome插件，可将Tailwind CSS与PurgeCSS，postcss-import和postcss-env结合使用.
+-  [Gridsome Plugin Tailwind CSS](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) -Gridsome插件，可将Tailwind CSS与PurgeCSS，postcss-import和postcss-env一起使用.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) -生成Tailwind类的ReasonML实用程序.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) -React Native输入系统.
 -  [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) -快速的Tailwind CSS文档搜索应用程序.
@@ -122,6 +122,7 @@
 -  [Tailwind CSS Figma Kit](https://github.com/impulse/tailwindcss-figma-kit) -尾风CSS的Figma套件.
 -  [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) -集成了Tailwind CSS的Figma插件.
 -  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
+-  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
 
  |  表情符号|  描述
 | ----- | ---------------------------------------------- |

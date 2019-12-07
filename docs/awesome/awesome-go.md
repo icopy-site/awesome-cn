@@ -140,7 +140,7 @@
 * [strumt](https://github.com/antham/strumt) -库创建提示链.
 * [ts](https://github.com/liujianping/ts) -时间戳转换和比较工具.
 * [ukautz/clif](https://github.com/ukautz/clif) -小型命令行界面框架.
-* [urfave/cli](https://github.com/urfave/cli) -简单，快速且有趣的软件包，用于在Go中构建命令行应用程序（以前称为codegangsta / cli）.
+* [urfave/cli](https://github.com/urfave/cli) -简单，快速，有趣的软件包，用于在Go中构建命令行应用程序（以前称为codegangsta / cli）.
 * [wlog](https://github.com/dixonwille/wlog) -支持跨平台颜色和并发性的简单日志记录界面.
 * [wmenu](https://github.com/dixonwille/wmenu) -cli应用程序易于使用的菜单结构，提示用户做出选择.
 
@@ -397,7 +397,7 @@
     * [avatica](https://github.com/apache/calcite-avatica-go) -用于数据库/ sql的Apache Avatica / Phoenix SQL驱动程序.
     * [bgc](https://github.com/viant/bgc) -BigQuery的数据存储连接.
     * [firebirdsql](https://github.com/nakagami/firebirdsql) -Go的Firebird RDBMS SQL驱动程序.
-    * [go-adodb](https://github.com/mattn/go-adodb) -用于使用数据库/ sql的go的Microsoft ActiveX Object DataBase驱动程序.
+    * [go-adodb](https://github.com/mattn/go-adodb) -用于使用数据库/ sql的Microsoft ActiveX Object DataBase驱动程序.
     * [go-mssqldb](https://github.com/denisenkom/go-mssqldb) -Go的Microsoft MSSQL驱动程序.
     * [go-oci8](https://github.com/mattn/go-oci8) -使用数据库/ sql的go的Oracle驱动程序.
     * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) -Go的MySQL驱动程序.
@@ -583,7 +583,7 @@
 * [flop](https://github.com/homedepot/flop) -文件操作库，旨在与功能镜像相同 [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
 * [go-csv-tag](https://github.com/artonge/go-csv-tag) -使用标签加载csv文件.
 * [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) -复制人类文件.
-* [go-exiftool](https://github.com/barasher/go-exiftool) -ExifTool的绑定，该库是著名的库，用于从文件（图片，PDF，office等）中提取尽可能多的元数据（EXIF，IPTC等）.
+* [go-exiftool](https://github.com/barasher/go-exiftool) -对ExifTool进行绑定，该库是著名的库，用于从文件（图片，PDF，Office等）中提取尽可能多的元数据（EXIF，IPTC等）.
 * [go-gtfs](https://github.com/artonge/go-gtfs) -在go中加载gtfs文件.
 * [notify](https://github.com/rjeczalik/notify) -具有简单API的文件系统事件通知库，类似于os / signal.
 * [opc](https://github.com/qmuntal/opc) -加载Go的开放包装约定（OPC）文件.
@@ -1079,7 +1079,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [shellwords](https://github.com/Wing924/shellwords) -一个Golang库，用于根据UNIX Bourne shell的单词解析规则来操作字符串.
 * [shortid](https://github.com/teris-io/shortid) -分布式生成超短，唯一，非顺序，URL友好的ID.
 * [stateless](https://github.com/qmuntal/stateless) -用于创建状态机的流利库.
-* [stats](https://github.com/go-playground/stats) -监视Go MemStats和系统统计信息（例如内存，交换和CPU），并通过UDP发送到您要记录的任何位置等.
+* [stats](https://github.com/go-playground/stats) -监视Go MemStats和系统统计信息（例如内存，交换和CPU），并通过UDP发送到您想要记录的任何位置等.
 * [turtle](https://github.com/hackebrot/turtle) -Go表情符号.
 * [url-shortener](https://github.com/pantrif/url-shortener) -具有mysql支持的现代，强大而强大的URL缩短器微服务.
 * [VarHandler](https://github.com/azr/generators/tree/master/varhandler) -生成样板http输入和输出处理.
@@ -1135,13 +1135,13 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [dhcp6](https://github.com/mdlayher/dhcp6) -软件包dhcp6实现了DHCPv6服务器，如RFC 3315中所述.
 * [dns](https://github.com/miekg/dns) -去使用DNS的库.
 * [ether](https://github.com/songgao/ether) -跨平台Go软件包，用于发送和接收以太网帧.
-* [ethernet](https://github.com/mdlayher/ethernet) -包以太网实现IEEE 802.3以太网II帧和IEEE 802.1Q VLAN标记的封送和封送.
+* [ethernet](https://github.com/mdlayher/ethernet) -包以太网实现了对IEEE 802.3以太网II帧和IEEE 802.1Q VLAN标签的封送处理.
 * [fasthttp](https://github.com/valyala/fasthttp) -软件包fasthttp是Go的快速HTTP实现，比net / http快10倍.
 * [fortio](https://github.com/fortio/fortio)  -负载测试库和命令行工具，高级回显服务器和Web UI.  允许指定设置的每秒查询负载，并记录延迟直方图和其他有用的统计数据并对其进行图形化.  Tcp，Http，gRPC.
 * [ftp](https://github.com/jlaffaye/ftp) -软件包ftp实现了FTP客户端，如 [RFC 959](http://tools.ietf.org/html/rfc959).
 * [gev](https://github.com/Allenxuxu/gev) -gev是基于Reactor模式的轻量级，快速，无阻塞的TCP网络库.
 * [gmqtt](https://github.com/DrmagicE/gmqtt) -Gmqtt是一个灵活的高性能MQTT代理库，它完全实现了MQTT协议V3.1.1.
-* [gnet](https://github.com/panjf2000/gnet) -gnet是使用Go编写的高性能，轻量级，无阻塞，事件循环网络库.
+* [gnet](https://github.com/panjf2000/gnet) -`gnet`是用纯Go编写的高性能，轻量级，无阻塞，事件循环网络库.
 * [gNxI](https://github.com/google/gnxi) -使用gNMI和gNOI协议的网络管理工具的集合.
 * [go-getter](https://github.com/hashicorp/go-getter) - Go library for downloading files or directories from various sources using a URL.
 * [go-powerdns](https://github.com/joeig/go-powerdns) - 为Golang PowerDNS API绑定.
@@ -1282,7 +1282,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go-resources](https://github.com/omeid/go-resources) -嵌入Go的多余资源.
 * [go.rice](https://github.com/GeertJohan/go.rice) -go.rice是一个Go程序包，可轻松处理html，js，css，图像和模板等资源.
 * [packr](https://github.com/gobuffalo/packr) -将静态文件嵌入Go二进制文件的简单方法.
-* [statics](https://github.com/go-playground/statics) -将静态资源嵌入到go文件中以进行单个二进制编译+与http.FileSystem + symlinks一起使用.
+* [statics](https://github.com/go-playground/statics) -将静态资源嵌入到go文件中以进行单个二进制编译，并且可以与http.FileSystem + symlinks一起使用.
 * [statik](https://github.com/rakyll/statik) -将静态文件嵌入到Go可执行文件中.
 * [templify](https://github.com/wlbr/templify) -将外部模板文件嵌入到Go代码中以创建单个文件二进制文件.
 * [vfsgen](https://github.com/shurcooL/vfsgen) -生成静态实现给定虚拟文件系统的vfsdata.go文件.
@@ -1687,7 +1687,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [godropbox](https://github.com/dropbox/godropbox) -用于从Dropbox编写Go服务/应用程序的通用库.
 * [gohper](https://github.com/cosiner/gohper) -各种工具/模块有助于开发.
 * [golarm](https://github.com/msempere/golarm) -带有系统事件的火警.
-* [golog](https://github.com/mlimaloureiro/golog) -简单，轻量级的CLI工具，可用于定时跟踪任务.
+* [golog](https://github.com/mlimaloureiro/golog) -简单，轻量级的CLI工具，可定时跟踪您的任务.
 * [gopencils](https://github.com/bndr/gopencils) -小型且简单的程序包，可轻松使用REST API.
 * [goplaceholder](https://github.com/michiwend/goplaceholder) -一个小的golang库，用于生成占位符图像.
 * [goreadability](https://github.com/philipjkim/goreadability) -使用Facebook Open Graph和arc90的可读性的网页摘要提取器.
@@ -1745,6 +1745,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [serve](https://github.com/syntaqx/serve) -您需要的任何位置的静态http服务器.
 * [shutdown](https://github.com/ztrue/shutdown) -用于OS.Signal处理的应用程序关闭挂钩.
 * [silk](https://github.com/chrispassas/silk) -读取丝网流文件.
+* [slice](https://github.com/psampaz/slice) -常见的Go Slice操作的类型安全功能.
 * [sliceconv](https://github.com/Henry-Sarabia/sliceconv) -基本类型之间的切片转换.
 * [slicer](https://github.com/leaanthony/slicer) -使切片操作更加轻松.
 * [spinner](https://github.com/briandowns/spinner) -打包即可轻松地为终端旋转器提供选项.
@@ -1842,7 +1843,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
 * [mango](https://github.com/paulbellamy/mango) -Mango是受Rack和PEP333启发的Go的模块化Web应用程序框架.
 * [Microservice](https://github.com/claygod/microservice) -用Golang编写的用于创建微服务的框架.
-* [neo](https://github.com/ivpusic/neo) -Neo是使用极简单的API的最小且快速的Go Web框架.
+* [neo](https://github.com/ivpusic/neo) Neo是使用极简单的API的最小且快速的Go Web框架.
 * [patron](https://github.com/beatlabs/patron) -Patron是遵循最佳云实践并注重生产力的微服务框架.
 * [Resoursea](https://github.com/resoursea/api) -用于快速编写基于资源的服务的REST框架.
 * [REST Layer](http://rest-layer.io) -用于在数据库之上构建REST / GraphQL API的框架，主要通过代码进行配置.

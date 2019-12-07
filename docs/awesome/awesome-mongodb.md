@@ -39,7 +39,6 @@
  - [Scaling MongoDB on Amazon Web Services (Michael Saffitz, Apptentive)](https://www.youtube.com/watch?v=bkjVhEQocFI) [50']
 
 ### Tutorials
- - [Create a TV Show Tracker Using AngularJS, Node.js, and MongoDB](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/) -使用Mongoose构建REST API以创建和检索数据
  - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
 
@@ -80,7 +79,7 @@
  - [mongodb](https://github.com/mongodb-haskell/mongodb/) -社区Haskell司机
 
 ### Java
- - [Jongo](https://github.com/bguerout/jongo) -在Java中像在Mongo Shell中进行查询
+ - [Jongo](https://github.com/bguerout/jongo) -在Java中像在Mongo Shell中一样进行查询
  - [Hibernate OGM](https://github.com/hibernate/hibernate-ogm) -JPA for NoSQL数据存储的强大功能和简单性
  - [mongo-java-driver](https://github.com/mongodb/mongo-java-driver) -官方Java驱动程序
  - [mongo-queue-java](https://github.com/gaillard/mongo-queue-java) -MongoDB之上的Java消息队列
@@ -120,7 +119,7 @@
  - [Doctrine MongoDB](https://github.com/doctrine/mongodb) -原生PHP Mongo PECL扩展周围的包装器，以提供其他功能
  - [eloquent-mongodb-repository](https://github.com/LaravelRepository/eloquent-mongodb-repository) -建立在laravel-mongodb之上的存储库实现
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) -Laravel雄辩的模型和查询生成器
- - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) -仓库实施
+ - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) -存储库实施
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) -基于PHP Mongo PECL扩展的ODM
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) -基于PHPMongo ODM的迁移工具
  - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) -官方PHP驱动程序
