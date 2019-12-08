@@ -47,7 +47,7 @@ them.
 ## Finite Elements
 
 - [FEniCS](https://fenicsproject.org) -用于用Python和C ++解决PDE的开源计算平台.
-  (C++/Python, LGPL 3, [BitBucket](https://bitbucket.org/fenics-project/))
+  （C ++ / Python，LGPL 3， [BitBucket](https://bitbucket.org/fenics-project/))
 - [libMesh](https://libmesh.github.io) -使用任意非结构化离散化进行PDE数值模拟的框架.
   （C ++，LGPL 2.1， [GitHub](https://github.com/libMesh/libmesh))
 - [deal.II](https://dealii.org) -支持创建有限元代码的软件库.
@@ -122,7 +122,7 @@ them.
 - [PyAMG](https://pyamg.github.io) -Python中的代数多重网格求解器.
   （Python，麻省理工学院， [GitHub](https://github.com/pyamg/pyamg))
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) -高性能预处理器和求解器库.
-  （C，Apache 2.0 / MIT， [GitHub](https://github.com/hypre-space/hypre))
+  (C, Apache 2.0/MIT, [GitHub](https://github.com/hypre-space/hypre))
 
 ## Visualization
 
@@ -177,6 +177,7 @@ them.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) -科学计算的壮举.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) -解决线性代数问题的免费软件列表.
 - [NA Digest](https://www.netlib.org/na-digest-html/) -收集与数值分析有关的主题和实践者的文章.
+- [Gabriel Peyré on Twitter](https://twitter.com/gabrielpeyre) -一天一则关于计算数学的推文.
 
 ## License
 

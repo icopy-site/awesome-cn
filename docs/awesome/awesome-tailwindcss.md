@@ -280,6 +280,7 @@
 - [AwesomeTechStack](https://awesometechstack.com)
 - [Allan White](https://allanwhite.design/)
 - [Dance of Dawn](https://www.danceofdawn.com/)
+- [MOODZ Travel Gallery](https://moodz.yakovleva.dev/)
 
 ## Contribute
 

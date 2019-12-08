@@ -231,6 +231,7 @@
 * [ngincat](https://github.com/jaburns/ngincat) -使用netcat的Tiny Bash HTTP服务器
 * [resty](https://github.com/micha/resty) -可在管道中使用的小命令行REST客户端
 * [shell2http](https://github.com/msoap/shell2http)  -HTTP服务器执行Shell命令.  专为开发，原型制作或远程控制而设计
+* [vesper](https://github.com/chris-rock/vesper) -Vesper是Bash / Unix Shell的HTTP框架
 * [youtube-dl](https://github.com/ytdl-org/youtube-dl) -小型命令行程序，可从YouTube.com和其他视频网站下载视频
 
 ## Multimedia and File Formats
@@ -300,7 +301,7 @@
 * [bash2048](https://github.com/mydzor/bash2048) -2048游戏的Bash实现
 * [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) -Bash实施扫雷
 * [nudoku](https://github.com/jubalh/nudoku) -用C语言编写的基于ncurses的数独游戏
-* [piu-piu](https://github.com/vaniacer/piu-piu-SH) -具有多人游戏模式的bash水平滚动游戏！
+* [piu-piu](https://github.com/vaniacer/piu-piu-SH) -带有多人游戏模式的bash水平滚动游戏！
 * [sedtris](https://github.com/uuner/sedtris) - 但世界
 * [sed-scripts](https://github.com/aureliojargas/sed-scripts) -使用sed编写的打砖块和推箱子
 * [SHTAP](https://notimetoplay.org/engines/shtap/) -适用于Bash 4的可重用文本冒险引擎
@@ -312,7 +313,7 @@
 
 * [bash-it](https://github.com/Bash-it/bash-it) -社区Bash框架
 * [basher](https://github.com/basherpm/basher) -Shell脚本的软件包管理器
-* [bashing](https://github.com/xsc/bashing) -砸成碎片
+* [bashing](https://github.com/xsc/bashing) -捣碎成碎片
 * [bpkg](http://www.bpkg.sh/) -JavaScript具有npm，Ruby具有Gems，Python具有pip，现在Shell具有bpkg
 * [dotdrop](https://github.com/deadc0de6/dotdrop) -一次保存您的点文件，将其部署到各处
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) –使用Python编写的基于Shell不可知git的dotfiles软件包管理器.
