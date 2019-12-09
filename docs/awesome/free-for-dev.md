@@ -126,7 +126,7 @@
   * [parsehub.com](https://parsehub.com/) —从动态网站提取数据，将动态网站转换为API，免费提供5个项目
   * [Pixela](https://pixe.la/)  -免费的日流数据库服务.  所有操作均由API执行.  热图和折线图的可视化也是可能的.
   * [Postman](https://postman.com)  —通过用于API开发的协作平台Postman简化工作流程并更快地创建更好的API.  永久免费使用Postman App.  邮递员云功能也永久免费，并具有一定的限制.
-  * [Postwoman]（https://postwoman.io）-API请求生成器-Postman的免费，快速，美观的替代方案.
+  * [Postwoman](https://postwoman.io) -API请求生成器-Postman的免费，快速，美观的替代方案.
   * [ProxyCrawl](https://proxycrawl.com/)  —无需代理，基础架构或浏览器即可抓取和抓取网站.  我们为您解决验证码并防止您被屏蔽.  前1000个电话免费.
   * [RequestBin.com](https://requestbin.com)  —创建一个免费的端点，可以向其发送HTTP请求.  发送到该端点的所有HTTP请求都将与相关的有效负载和标头一起记录，因此您可以观察来自Webhooks和其他服务的请求.
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark通过直观的浏览器界面使任何API，应用程序或数据所有者在数分钟内即可成为API提供者
@@ -144,7 +144,7 @@
   * [wolfram.com](http://wolfram.com/language/) —在云中内置基于知识的算法
   * [wrapapi.com](https://wrapapi.com/)  —将任何网站转换为参数化的API.  每月30k API调用
   * [Zenscrape](https://zenscrape.com/web-scraping-api)  —具有无头浏览器，住宅IP和简单定价的Web抓取API.  每月1000次免费API调用，为学生和非营利组织提供额外的免费积分
-  * [DB Designer](https://www.dbdesigner.net/) —基于云的数据库模式设计和建模工具，具有2个数据库模型和每个模型10个表的免费入门计划.
+  * [DB Designer](https://www.dbdesigner.net/) —基于云的数据库架构设计和建模工具，具有免费的入门计划，包括2个数据库模型和每个模型10个表.
   * [GeoDataSource](https://www.geodatasource.com)  —通过纬度和经度坐标查找城市名称的位置搜索服务.  免费API查询，每月多达500次.
 
 ## Artifact Repos
@@ -442,7 +442,7 @@
   * [jsdelivr.com](https://www.jsdelivr.com/) —适用于开发人员和网站管理员的OSS CDN（JS，CSS，字体），接受PR来添加更多内容
   * [raw.githack.com](https://raw.githack.com/) —现代化的** rawgit.com **替代，它仅使用Cloudflare托管文件
   * [developers.google.com](https://developers.google.com/speed/libraries/) — Google Hosted Libraries是最流行的开源JavaScript库的内容分发网络
-  * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — Microsoft Ajax CDN托管了流行的第三方JavaScript库（例如jQuery），使您可以轻松地将它们添加到Web应用程序中
+  * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — Microsoft Ajax CDN托管流行的第三方JavaScript库（例如jQuery），使您可以轻松地将它们添加到Web应用程序中
   * [toranproxy.com](https://toranproxy.com/)  — Packagist和GitHub的代理.  永不让CD失败.  免费供个人使用，1个开发人员，不支持
   * [Web Support Revolution](https://w.tools/) —免费的CDN，备份，防火墙，防病毒和监视.
   * [section.io](https://www.section.io/)  —启动和管理完整的Varnish Cache解决方案的简单方法.  据说一个站点永远免费
@@ -493,7 +493,7 @@
   * [pubnub.com](https://www.pubnub.com/) —免费推送通知，每月最多可发送一百万条消息，每天可使用100台设备
   * [pushtechnology.com](https://www.pushtechnology.com/)  —用于浏览器，智能手机和所有人的实时消息传递.  100个并发连接.  每月免费10 GB数据
   * [zapier.com](https://zapier.com/)  —连接您使用的应用程序，以自动执行任务.  每15分钟5个zaps，每月执行100个任务
-  * [stackstorm.com](https://stackstorm.com/) —由事件驱动的应用程序，服务和工作流自动化，无流量，访问控制，LDAP，...
+  * [stackstorm.com](https://stackstorm.com/) —由事件驱动的应用程序，服务和工作流自动化，无流量，访问控制，LDAP，无...
   * [simperium.com](https://simperium.com/)  —即时，自动，多平台，无限制地发送和存储结构化数据，最大程度地移动数据.  2500个用户/月
   * [pushcrew.com](https://pushcrew.com/)  —推送通知服务.  无限通知，最多2000个订户
   * [streamdata.io](https://streamdata.io/)  —将任何REST API转换为事件驱动的流API.  免费计划多达一百万条消息和10个并发连接
@@ -598,7 +598,7 @@
    * [zenhub.io](https://www.zenhub.io/)  — GitHub内唯一的项目管理解决方案.  公共回购，OSS和非营利组织免费
    * [trello.com](https://trello.com/)  -基于董事会的项目管理.  无限个人董事会，10个团队董事会.
    * [clickup.com](https://clickup.com/)  - 项目管理.  具有云存储功能的免费高级版本.  提供移动应用程序和Git集成
-   * [LeanBoard](https://www.leanboard.io) —带有便笺的协作白板，用于GitHub问题（用于示例映射和其他技术）
+   * [LeanBoard](https://www.leanboard.io) —带有便笺的协作白板，可用于GitHub问题（适用于示例映射和其他技术）
    * [huboard.com](https://huboard.com/) —针对您的GitHub问题的即时项目管理，免费提供给开源
    * [taiga.io](https://taiga.io/) —适用于初创企业和敏捷开发人员的项目管理平台，免费提供给开源
    * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud)  —针对FOSS项目，私人项目免费托管的YouTrack（InCloud）（3个用户免费）.  包括时间跟踪和敏捷板

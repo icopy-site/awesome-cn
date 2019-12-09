@@ -40,7 +40,7 @@ _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
 &gt; Google开发的第一个统一的容器管理系统是我们内部称为Borg的系统.
 它是为管理长期运行的服务和批处理作业而构建的，以前这些服务是由两个独立的部门处理
- 系统：保姆和全球工作队列.  后者的架构对Borg有很大影响，但专注
+ 系统：保姆和全球工作队列.  后者的架构对博格产生了很大的影响，但专注于
  批处理工作；  两者都早于Linux控制组.
 
 _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
@@ -288,7 +288,7 @@ Installers
 
 
   - [DevSpace](https://github.com/covexo/devspace) -直接在任何Kubernetes集群中构建，测试和运行代码
-  - [Draft](https://draft.sh) -开发人员使用Kubernetes创建云原生应用程序的工具
+  - [Draft](http://draft.sh) -开发人员使用Kubernetes创建云原生应用程序的工具
   - [Eclipse Che](https://github.com/eclipse/che) -具有SSH和多用户支持的云开发工作区
   - [Garden](https://garden.io) -编排您的开发工作流程，以使开发和开发微服务变得更快，更容易.
   - [goPaddle](http://www.gopaddle.io)
@@ -329,7 +329,7 @@ Installers
   - [Eldarion Cloud](http://eldarion.cloud)
   - [Hasura](http://www.hasura.io)
   - [Kel](http://www.kelproject.com)
-  - [KubeSail](https://kubesail.com) -一种简单，免费的尝试Kubernetes的方法
+  - [KubeSail](https://kubesail.com) -一种简单，免费的Kubernetes试用方法
   - [KubeSphere](https://kubesphere.io/en)
   - [Kyma](https://kyma-project.io/)  -使用无服务器功能扩展应用程序的平台.  它提供了一系列粘合在一起的云原生项目，以简化服务的创建和管理.
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
@@ -520,7 +520,7 @@ Projects
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
 * [loki](https://github.com/grafana/loki) - Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
-* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用一种简单的查询语言进行处理，并通过Web UI在线进行监视.
+* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
 
 ## Testing
 
@@ -549,7 +549,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -600,7 +600,7 @@ Projects
 * [kooper](https://github.com/spotahome/kooper) -用于创建Kubernetes运算符和控制器的简单Go库
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [KubeVirt](https://github.com/kubevirt)
-* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，可以执行安全的自动节点重新启动
+* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的节点自动重新启动
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [MySQL](https://github.com/oracle/mysql-operator)
@@ -786,7 +786,7 @@ Projects
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)  -一种数据约束语言，旨在简化涉及定义​​和使用数据的任务.  Cue是JSON的超集
-* [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，使您可以专注于数据，而不是如何正确地对其进行转义.
+* [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，可让您专注于数据，而不是如何正确地对其进行转义.
 
 ## Security
 
@@ -921,7 +921,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -995,7 +995,7 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，并且是充分利用品牌或企业潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且如果您能充分利用其潜力，那么它对于品牌或企业来说是非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [Apcera](https://twitter.com/Apcera)

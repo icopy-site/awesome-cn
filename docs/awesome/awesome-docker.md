@@ -6,7 +6,7 @@
 &gt;灵感来自 [@sindresorhus](https://github.com/sindresorhus)&#39;[awesome] [sindresorhus]并通过这些改进**[amazing contributors](https://github.com/veggiemonk/awesome-docker/graphs/contributors)**.
 
 如果您想贡献，请先阅读[CONTRIBUTING.md] [贡献].
-它包含许多技巧和指南，可帮助您使事情井井有条.
+It contains a lot of tips and guidelines to help keep things organized.
 只需单击[README.md] [editreadme]即可提交[拉取请求] [editreadme].
  如果此列表不完整，则可以[贡献] [editreadme].  这是一个很棒的视频教程，学习如何 [contribute on Github](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
 
@@ -16,7 +16,7 @@
 
  ** _如果您在此处看到的链接不再适合，可以通过提交[pull request] [editreadme]来改进此文件，以解决此问题.  谢谢！_**
 
- 此列表的创建者和维护者不会接受任何付款方式来接受任何贡献者所做的更改.  该页面绝不是官方的Docker产品.  它是项目链接的列表，由志愿者维护.  欢迎大家贡献力量.  该回购的目的是索引开源项目，而不是为了牟利而做广告.
+ 此列表的创建者和维护者不会接受任何付款方式来接受任何贡献者所做的更改.  该页面绝不是官方的Docker产品.  它是项目链接的列表，由志愿者维护.  欢迎大家贡献力量.  此仓库的目的是索引开源项目，而不是为了牟利而做广告.
 
 所有链接均通过以下方式进行监控和测试 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 由制成 [@dkhamsing](https://github.com/dkhamsing)
  
@@ -133,7 +133,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将来自Docker引擎的性能计数器，配置更改和生命周期事件流式传输到Axibase时间序列数据库中，以用于汇总仪表板并与上游监控系统集成.
 - [cAdvisor](https://github.com/google/cadvisor)  -分析正在运行的容器的资源使用情况和性能特征.  由[@Google] [google]创建
-- [dockprom](https://github.com/stefanprodan/dockprom) -通过Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager监视Docker主机和容器 [@stefanprodan](https://github.com/stefanprodan)
+- [dockprom](https://github.com/stefanprodan/dockprom) -通过Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager监控Docker主机和容器 [@stefanprodan](https://github.com/stefanprodan)
 - [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) -根据Docker容器资源使用情况/统计信息监视和发送警报
 - [Docker-Flow-Monitor](https://github.com/docker-flow/docker-flow-monitor) -[@ docker-flow] [docker-flow]自动更新或部署新服务时，重新配置Prometheus
 - [Dockerana](https://github.com/dockerana/dockerana) ：skull：-Graphite和Grafana的打包版本，专门针对Docker的指标.
@@ -164,7 +164,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### Orchestration
 
 - [athena](https://github.com/athena-oss/athena) -具有插件架构的自动化平台，可让您轻松创建和共享服务.
-- [blimp](https://github.com/tubes和lube/blimp) ：skull：-使用Docker Machine轻松地将容器从一台Docker主机移至另一台Docker主机，显示针对所有主机运行的容器，在多个主机之间复制容器以及更多 [@defermat](https://github.com/defermat) 和 [@schvin](https://github.com/schvin)
+- [blimp](https://github.com/tubes和lube/blimp) ：skull：-使用Docker Machine轻松地将容器从一台Docker主机移至另一台Docker主机，显示针对所有主机运行的容器，在多个主机之间复制容器，以及通过 [@defermat](https://github.com/defermat) 和 [@schvin](https://github.com/schvin)
 - [CloudSlang](https://github.com/CloudSlang/cloud-slang) -CloudSlang是用于创建Docker流程自动化的工作流引擎
 - [clusterdock](https://github.com/clusterdock/clusterdock) -Docker容器编排，以测试长期运行的集群部署
 - [ContainerShip](https://github.com/containership/containership) ：skull：-一个简单的容器管理平台
@@ -199,7 +199,6 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Nanobox](https://github.com/nanobox-io/nanobox) ：heavy_dollar_sign：-一个应用程序开发平台，可创建本地环境，然后可以在云中进行部署和扩展.
 -[OpenShift] [openshift]-基于[Kubernetes] [kubernetes]构建的开源PaaS，并针对Dockerized应用开发和部署进行了优化 [Red Hat](https://www.redhat.com/en)
 - [Tsuru](https://github.com/tsuru/tsuru) -Tsuru是可扩展的开源平台即服务软件
-- [ZEIT Now](https://github.com/zeit/now) :heavy_dollar_sign: - A universal serverless single-command deploy for Node.js applications or any application with a Dockerfile.
 
 ### Reverse Proxy
 
@@ -399,7 +398,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -Dockerfile的基于规则的&#39;linter&#39; [@projectatomic](https://github.com/projectatomic)
 - [dockfmt](https://github.com/jessfraz/dockfmt) ：construction：-Dockerfile格式化程序和解析器，由[@jessfraz] [jessfraz]
 - [FROM:latest](https://github.com/replicatedhq/dockerfilelint) -一个自以为是的Dockerfile linter [@replicatedhq](https://github.com/replicatedhq)
-- [Hadolint](https://github.com/hadolint/hadolint)  -一个Dockerfile linter，它检查最佳实践，常见错误，并且还可以清除任何以RUN指令编写的bash；  通过 [@lukasmartinelli](https://github.com/lukasmartinelli)
+- [Hadolint](https://github.com/hadolint/hadolint)  -Dockerfile linter，用于检查最佳实践，常见错误，并且还可以抹去用RUN指令编写的bash；  通过 [@lukasmartinelli](https://github.com/lukasmartinelli)
 - [Whale-linter](https://github.com/jeromepin/whale-linter) -用Python3 +编写的简单而小型的Dockerfile linter，无依赖 [@jeromepin](https://github.com/jeromepin)
 
 ### Metadata
@@ -567,7 +566,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Dockhero](https://dockhero.io/)  ：heavy_dollar_sign：-Dockhero是一个Heroku插件，它将Docker映像转换为附加到Heroku应用程序的微服务.  目前处于测试阶段.
 - [Giant Swarm](https://www.giantswarm.io/)  ：heavy_dollar_sign：-简单的微服务基础架构.  在几秒钟内部署您的容器.
 - [Google Container Engine](https://cloud.google.com/kubernetes-engine/docs/) ：heavy_dollar_sign：-由[Kubernetes] [kubernetes]驱动的Google Cloud Computing上的Docker容器.
-- [Jelastic Cloud](https://jelastic.cloud/)  ：heavy_dollar_sign：-“易于使用”的容器托管platfrom，具有自动垂直和水平缩放功能.  全球超过50多家托管服务提供商可用.
+- [Jelastic Cloud](https://jelastic.cloud/)  ：heavy_dollar_sign：-“易于使用”的容器托管platfrom，具有自动的垂直和水平缩放功能.  全球超过50多家托管服务提供商可用.
 - [Mesosphere DC/OS](https://d2iq.com/solutions/mesosphere) ：heavy_dollar_sign：-由Apache Mesos构建的用于数据和容器的集成平台，由 [@mesosphere](https://d2iq.com)
 - [OpenShift Dedicated](https://www.openshift.com/products/dedicated/) ：heavy_dollar_sign：-一个托管的[OpenShift] [openshift]集群，用于运行由Red Hat管理的Docker容器.
 - [Sloppy.io](https://sloppy.io/en/) ：heavy_dollar_sign：-用于容器部署和托管的多合一解决方案-在德国制造和托管
@@ -609,7 +608,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Demos and Examples
 
-- [Webstack-micro](https://github.com/ferbs/webstack-micro) Demo web app showing how Docker Compose might be used to set up an API Gateway, centralized authentication, background workers, and WebSockets as containerized services.
+- [Webstack-micro](https://github.com/ferbs/webstack-micro) 该演示Web应用程序展示了如何使用Docker Compose来将API网关，集中式身份验证，后台工作程序和WebSockets设置为容器化服务.
 
 
 ## Good Tips

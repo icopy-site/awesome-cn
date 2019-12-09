@@ -175,6 +175,7 @@
 - [Goodwork](https://github.com/iluminar/goodwork) -项目管理与协作工具.
 - [Statusfy](https://github.com/bazzite/statusfy) -使用Tailwind CSS的状态页面系统.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) -使用Tailwind CSS的待办事项列表应用程序.
+- [LeagueStats](https://github.com/vkaelin/LeagueStats) -英雄联盟玩家的统计网站.
 
 ### Learning
 
