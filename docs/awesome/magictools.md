@@ -25,7 +25,7 @@
 
 Graphics
 --------
-*出色的图形占位符和工具，可以将平方游戏变成毕加索画作*
+*出色的图形占位符和工具，可以将方形游戏变成毕加索画作*
 
 #### Assets/Placeholders
 
@@ -162,7 +162,7 @@ Code
 
 * ：自由： [Agen](http://2dengine.com) -用于使用Lua，兼容的iOS，Mac和Windows设备制作2D游戏的跨平台框架.
 *：然后： [Allegro](http://liballeg.org/) -Allegro 4和5是跨平台的，开放源代码的游戏编程库，主要用于C和C ++开发人员.
-*：然后： [Amethyst](https://www.amethyst.rs/) -使用`gfx-rs`用Rust编写的用于2D和3D的数据驱动游戏引擎.
+*：然后： [Amethyst](https://www.amethyst.rs/) -使用`gfx-rs`为2D和3D用Rust编写的数据驱动游戏引擎.
 *：然后： [amulet](http://www.amulet.xyz/)  -一个基于Lua的免费视听工具包，适用于小型游戏和实验.  它可以在Windows，Mac，Linux，HTML5和iOS上运行.
 *：然后： [AndEngine](http://www.andengine.org) -2D Android游戏引擎
 *：然后： [Azul3D](http://azul3d.org/) -用Go语言编写的3D引擎.
@@ -175,7 +175,7 @@ Code
 *：然后： [Box2D](http://box2d.org/) -游戏的2D物理引擎.
 *：然后： [Bullet](http://bulletphysics.org/wordpress/) -实时物理模拟.
 *：然后： [Cerberus X](https://www.cerberus-x.com/wordpress/) -多平台编程语言和交叉编译器，旨在进行快速的游戏编程.
-*：然后： [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) -支付您想要的用C ++编写的下一代3D游戏引擎.
+*：然后： [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) -按需付费，用C ++编写的下一代3D游戏引擎.
 *：然后： [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 *：然后： [Chipmunk2D](https://chipmunk-physics.net/) -快速，轻量的2D游戏物理库.
 *：然后： [Cinder](https://libcinder.org/) -Cinder是社区开发的免费开放源代码库，用于使用C ++进行专业质量的创意编码.
@@ -245,6 +245,7 @@ Code
 *：然后： [MelonJS](http://melonjs.org) -开源的轻量级HTML5游戏引擎.
 * ：自由： [Monkey2](http://monkeycoder.co.nz/) -多平台编程语言和交叉编译器，旨在进行快速的游戏编程.
 *：然后： [Monogame](http://www.monogame.net/) -Microsoft XNA 4 Framework的开源实现.
+*：然后： [Nakama](https://github.com/heroiclabs/nakama) -用于社交和实时游戏和应用程序的分布式服务器.
 * ：自由： [NodeBox](https://www.nodebox.net/) -创建生成设计的Python工具家族.
 *：然后： [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
 *：然后： [ODE](http://www.ode.org/) -ODE是用于模拟刚体动力学的开源高性能库.
@@ -320,7 +321,7 @@ Audio
 * ：自由： [Audiotool](http://www.audiotool.com/app) -在线音乐制作人.
 * ：自由： [Bfxr](http://www.bfxr.net/) -制作计算机游戏音效的工具.
 * ：自由： [Bosca Ceoil](http://boscaceoil.net/)  -Terry Cavanagh制作的在线（以及台式机）音乐制作人.  简单直观，具有鲜明的复古声音.
-* ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线音效发生器
+* ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线声音效果生成器
 * ：自由： [FamiTracker](http://famitracker.com/) -免费的Windows跟踪器，用于为NES / Famicom系统制作音乐.
 * ：自由： [iNudge](http://tonematrix.audiotool.com) -在线创建声音模式.
 *：然后： [jfxr](http://jfxr.frozenfractal.com) -Bfxr音效生成器的JavaScript端口.

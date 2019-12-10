@@ -58,40 +58,6 @@ https://twitter.com/riggaroo
 
 ## Asia
 
-## Pakistan 🇵🇰
-
-### Karachi
-
-<img src="https://twitter.com/ahsan_ayz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-** Ahsan Ayaz ** \
-主题：JavaScript，Angular，Node.js，Ionic，Firebase，Stencil，渐进式Web Apps \
-https://twitter.com/ahsan_ayz
-
-<img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**混血Rastgar ** \
- 主题：渐进式Web应用程序，Angular，Firebase.  Google Developer Expert Web \
-https://twitter.com/mashhoodr
-
-<img src="https://pbs.twimg.com/profile_images/1013094947388641284/Ym7b696E_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**穆罕默德·卡姆兰** \
-主题：Angular，Redux，RxJS，Flutter，Dart，React Native，JavaScript，TypeScript，Linux \
-https://twitter.com/smkamranqadri
-
-<img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="70px" align="left" alt="" />
-
-** Narain Sagar ** \
-主题：Angular，JavaScript，TypeScript，Node.js，Docker，持续集成，工具，自动化测试\
-https://twitter.com/narainsagar
-
-<img src="https://pbs.twimg.com/profile_images/1042913409635897344/jADDQpz1_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**纳西尔·侯赛因** \
-主题：区块链，智能合约，JavaScript，数据库，Python，Arduino，持续集成\
-https://twitter.com/i_am_the_dev
-
 ## India 🇮🇳
 
 ### Bangalore
@@ -168,6 +134,16 @@ https://twitter.com/amdsouza92
 主题：移动Web，PWA，Flask，Blockchain \
 https://twitter.com/aviaryan123
 
+## Indonesia 🇮🇩
+
+### Jakarta
+
+<img src="https://twitter.com/fransallen/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**弗朗斯·艾伦** \
+主题：CDN，云，SaaS，DNS，Web性能和安全性\
+https://twitter.com/fransallen
+
 ## Lebanon 🇱🇧
 
 ### Tyre
@@ -177,6 +153,40 @@ https://twitter.com/aviaryan123
 ** Sara Soueidan ** \
 主题：动画，CSS，SVG \
 https://twitter.com/sarasoueidan
+
+## Pakistan 🇵🇰
+
+### Karachi
+
+<img src="https://twitter.com/ahsan_ayz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+** Ahsan Ayaz ** \
+主题：JavaScript，Angular，Node.js，Ionic，Firebase，Stencil，渐进式Web Apps \
+https://twitter.com/ahsan_ayz
+
+<img src="https://twitter.com/mashhoodr/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**混血Rastgar ** \
+ 主题：渐进式Web应用程序，Angular，Firebase.  Google Developer Expert Web \
+https://twitter.com/mashhoodr
+
+<img src="https://twitter.com/smkamranqadri/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**穆罕默德·卡姆兰** \
+主题：Angular，Redux，RxJS，Flutter，Dart，React Native，JavaScript，TypeScript，Linux \
+https://twitter.com/smkamranqadri
+
+<img src="https://twitter.com/narainsagar/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+** Narain Sagar ** \
+主题：Angular，JavaScript，TypeScript，Node.js，Docker，持续集成，工具，自动化测试\
+https://twitter.com/narainsagar
+
+<img src="https://twitter.com/i_am_the_dev/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**纳西尔·侯赛因** \
+主题：区块链，智能合约，JavaScript，数据库，Python，Arduino，持续集成\
+https://twitter.com/i_am_the_dev
 
 ## Singapore 🇸🇬
 
@@ -238,7 +248,7 @@ https://twitter.com/philnash
 
 <img src="https://twitter.com/ddprrt/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Stefan Baumgartner**\
+**斯蒂芬·鲍姆加特纳**
 主题：Web操作，JavaScript，CSS，工具\
 https://twitter.com/ddprrt
 
@@ -260,7 +270,7 @@ https://twitter.com/sharifsbeat
 
 <img src="https://twitter.com/okonetchnikov/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**安德烈·奥康纳奇尼科夫** \
+** Andrey Okonetchnikov ** \
 主题：JS中的CSS，Linting，工具\
 https://twitter.com/okonetchnikov
 
@@ -326,7 +336,7 @@ https://twitter.com/nikgraf
 
 <img src="https://twitter.com/glyphe/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**奥利弗·舍恩多弗**
+**奥利弗·舍恩多弗（OliverSchöndorfer）**
 主题：印刷术，CSS \
 https://twitter.com/glyphe
 
@@ -384,11 +394,11 @@ https://twitter.com/mafintosh
 主题：虚拟现实，Web图像处理\
 https://twitter.com/enthusiasto
 
-<img src="https://twitter.com/terezk_a/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/tereza_sokol/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Tereza Sokol
 主题：榆木，可视化\
-https://twitter.com/terezk_a
+https://twitter.com/tereza_sokol
 
 ## Finland 🇫🇮
 
@@ -682,11 +692,11 @@ https://twitter.com/claudiopro
 主题：HTML，CSS，JavaScript \
 https://twitter.com/donovanh
 
-<img src="https://twitter.com/ingridepure/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/opinionatedpie/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Ingrid Epure ** \
 主题：安全，心理学\
-https://twitter.com/ingridepure
+https://twitter.com/opinionatedpie
 
 <img src="https://pbs.twimg.com/profile_images/897746004996435968/Y6NGgGUz_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
@@ -829,7 +839,7 @@ https://twitter.com/granze
 
 <img src="https://twitter.com/cef62/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Matteo Ronchi **
+**Matteo Ronchi**\
 主题：React，JavaScript，Flow，Web架构，前端操作\
 https://twitter.com/cef62
 
@@ -845,7 +855,7 @@ https://twitter.com/kureevalexey
 
 <img src="https://twitter.com/carmenpopoviciu/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Carmen Popoviciu**\
+**卡门·波波维丘（Carmen Popoviciu）** \
 主题：Angular，JavaScript，机器学习，神经网络，聚合物，Web组件\
 https://twitter.com/carmenpopoviciu
 
@@ -1199,7 +1209,7 @@ https://twitter.com/eagleeye_s
 
 <img src="https://twitter.com/SilentImp/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**安东·涅姆采夫** \
+**Anton Nemtsev**\
 主题：HTML，CSS，Web标准\
 https://twitter.com/SilentImp
 

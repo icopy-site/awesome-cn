@@ -1,22 +1,21 @@
 <div class="github-widget" data-repo="igorbarinov/awesome-bitcoin"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-令人敬畏的比特币
+很棒的比特币
 ===============
-为软件开发人员提供的比特币服务和工具的精选列表
+面向软件开发人员的精选比特币服务和工具清单
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-内容清单
 
 
 
 ## Utilities
-* [BitKey](https://bitkey.io) 实时USB用于空气交易和比特币瑞士军刀 
-* [Pycoin](https://github.com/richardkiss/pycoin) 基于Python的比特币和alt-coin实用程序库.
-* [bx](https://github.com/libbitcoin/libbitcoin-explorer) 比特币命令行工具
-* [txwatcher](https://github.com/tsileo/txwatcher)一个小的Python实用程序，允许您通过Blockchain Websocket API监视比特币地址并执行自定义回调.
-* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) 一系列简单程序，可以生成比特币钱包，创建和签署交易，以及通过比特币网络发送交易.
+* [BitKey](https://bitkey.io) -实时USB，可进行隔空交易和比特币瑞士军刀.
+* [Pycoin](https://github.com/richardkiss/pycoin) -基于Python的比特币和替代硬币实用程序库.
+* [bx](https://github.com/libbitcoin/libbitcoin-explorer) -比特币命令行工具.
+* [txwatcher](https://github.com/tsileo/txwatcher) -一个小的Python实用程序，可让您通过Blockchain Websocket API监视比特币地址并执行自定义回调.
+* [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) -一组简单的程序，可以生成比特币钱包，创建和签名交易以及通过比特币网络发送交易.
 * [Mining visualization](http://www.yogh.io/#mine:last)
-* [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) 查找比特币高清钱包中的所有已使用地址，绕过间隙限制.
+* [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) -绕过缺口限制，在您的比特币高清钱包中查找所有使用的地址.
 
 ## Blockchain API and Web services
 * [block.io](https://block.io)
@@ -26,9 +25,9 @@
 * [Chain.com](https://chain.com)
 * [Coinbase Wallet](https://wallet.coinbase.com/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - 自托管支付网关.
-* [Chainradar API](https://github.com/yasaricli/chainradar-api) Chainradar的Blockchain Explorer API
-* [One-Time Address](https://github.com/alexk111/One-Time-Address) 分享比特币地址的更好方法.
+* [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) -自托管的支付网关.
+* [Chainradar API](https://github.com/yasaricli/chainradar-api) -Chainradar的Blockchain Explorer API.
+* [One-Time Address](https://github.com/alexk111/One-Time-Address) 共享您的比特币地址的更好方法.
 
 ## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
@@ -48,7 +47,7 @@
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
-* [Bitkit](https://bitkit.live) - 实时交易更新
+* [Bitkit](https://bitkit.live) -实时交易更新.
 
 ## C++ Libraries
 * [Libbitcoin](https://libbitcoin.org/)
@@ -61,7 +60,7 @@
 * [Bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
 * [Cryptocoin](http://cryptocoinjs.com/#modules)
 * [BlockTrail SDK NodeJS](https://github.com/blocktrail/blocktrail-sdk-nodejs)
-* [bcoin](https://github.com/bcoin-org/bcoin) 用于node.js和浏览器的Javascript比特币库 
+* [bcoin](https://github.com/bcoin-org/bcoin) -用于node.js和浏览器的Javascript比特币库.
 
 ## PHP Libraries
 * [PHP-OP_RETURN](https://github.com/coinspark/php-OP_RETURN)
@@ -72,64 +71,75 @@
 
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
-* [btctxstore](https://github.com/F483/btctxstore) 使用OP_RETURN在比特币交易中存储/检索信息的简单库
-* [pybitcointools](https://github.com/vbuterin/pybitcointools)  来自Vitalik Buterin的比特币签名和交易的Python库.  项目已停止.
-* [pycoin](https://github.com/richardkiss/pycoin)  用于比特币密钥，签名，交易的Python库.  包括完整的VM实现和用于操作密钥（ku）和事务（tx）的工具.
-* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)  用于构建和分析事务和脚本（标准和自定义）的Python库.  附带一个UTXO集分析工具.  包括几个示例和详尽的文档. 
+* [btctxstore](https://github.com/F483/btctxstore) -使用OP_RETURN在比特币交易中存储/检索信息的简单库.
+* [pybitcointools](https://github.com/vbuterin/pybitcointools)  -来自Vitalik Buterin的Python库，用于比特币签名和交易.  项目已终止.
+* [pycoin](https://github.com/richardkiss/pycoin)  -用于比特币密钥，签名，交易的Python库.  包括完整的VM实现和用于操纵键（ku）和事务（tx）的工具.
+* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)  -用于构建和分析事务和脚本（标准和自定义）的Python库.  带有UTXO集分析工具.  包括几个示例和详尽的文档. 
 
 ## Java Libraries
-&gt;请注意，您也可以使用 [Scala libraries](#scala-libraries) 在Java中
+&gt;请注意，您也可以使用 [Scala libraries](#scala-libraries) 在Java中.
 * [BitcoinJ](https://bitcoinj.github.io)
-* [XChange](https://github.com/knowm/XChange) 提供简单一致的API的库，用于与50多个比特币货币交换进行交互.
+* [XChange](https://github.com/knowm/XChange) -提供简单且一致的API的库，可与50多种比特币货币交易所进行交互.
 
 ## Scala libraries
-&gt;请注意，您也可以使用 [Java libraries](#java-libraries) 在斯卡拉
-* [Bitcoin-S](https://bitcoin-s.org) 用于比特币应用程序的Scala / JVM工具包，包括比特币数据结构，事务签名，强类型`bitcoind` / Eclair RPC客户端等等
+&gt;请注意，您也可以使用 [Java libraries](#java-libraries) 在斯卡拉.
+* [Bitcoin-S](https://bitcoin-s.org) -用于比特币应用程序的Scala / JVM工具包，包括比特币数据结构，交易签名，强类型化的`bitcoind` / Eclair RPC客户端等.
 
 ## .Net Libraries
-* [NBitcoin](https://github.com/MetacoSA/NBitcoin)用于.NET框架的综合比特币库.
-* [BitcoinLib](https://github.com/cryptean/bitcoinlib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
-* [QBitNinja](https://github.com/MetacoSA/QBitNinja) 开源和强大的区块链API
+* [NBitcoin](https://github.com/MetacoSA/NBitcoin).NET框架的综合比特币库.
+* [BitcoinLib](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+* [QBitNinja](https://github.com/MetacoSA/QBitNinja) -开源且功能强大的区块链API.
 
 ## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
-* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) 比特币脚本傻瓜
+* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) -傻瓜的比特币脚本.
 * [Debug Script Execution](https://webbtc.com/script)
 * [Script Debugger](https://github.com/kallewoof/btcdeb)
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
-* [blockchain-demo](https://github.com/anders94/blockchain-demo/) 基于网络的区块链概念演示
-* [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) 可视化比特币脚本执行实际交易
+* [blockchain-demo](https://github.com/anders94/blockchain-demo/) -基于网络的区块链概念演示.
+* [Bitcoin Script Debugger](https://github.com/liuhongchao/bitcoin4s) -可视化比特币脚本执行的真实交易.
 
 ## Blockchain dump
-* [WebBTC](http://dumps.webbtc.com/bitcoin/) 这些是由webbtc.com生成的bitcoin-ruby-blockchain数据库的postgres数据库转储.
-* [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) 一种高性能数据传输工具，可用于将数据从比特币核心区块链文件复制到SQL Server数据库
-* [Blockparser+SQL](https://github.com/mcdee/blockparser) 快速，快速和脏的比特币区块链解析器
-* [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) 安倍：阻止比特币和类似货币的浏览器
-* [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) Azure云平台的可扩展和容错块链索引器.
-* [Blockchain2Graph](https://github.com/straumat/blockchain2graph) Graph Database Builder
+* [WebBTC](http://dumps.webbtc.com/bitcoin/) -这些是由webbtc.com生成的bitcoin-ruby-blockchain数据库的postgres数据库转储.
+* [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) -高性能数据传输工具，可用于将数据从比特币核心区块链文件复制到SQL Server数据库.
+* [Blockparser+SQL](https://github.com/mcdee/blockparser) -快速，快速和肮脏的比特币区块链解析器.
+* [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) -安倍：阻止比特币和类似货币的浏览器.
+* [NBitcoin.Indexer](https://github.com/MetacoSA/NBitcoin.Indexer) -适用于Azure云平台的可扩展且容错的区块链索引器.
+* [Blockchain2Graph](https://github.com/straumat/blockchain2graph) -图形数据库生成器.
 
 ## Full nodes
-* [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) 基于比特币 - 红宝石区块链的比特币节点
-* [Fullnode](https://github.com/ryanxcharles/yours-bitcoin) Javascript实现的比特币
-* [Bitcore Node](https://github.com/bitpay/bitcore-node) BitPind通过BitPay链接到node.js
-* [Bitcore](https://github.com/bitpay/bitcore) 以前只是一个Nodejs库，现在是一个完整的节点
+* [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) -基于bitcoin-ruby-blockchain的比特币节点.
+* [Fullnode](https://github.com/ryanxcharles/yours-bitcoin) -比特币的Javascript实现.
+* [Bitcore Node](https://github.com/bitpay/bitcore-node) -通过BitPay链接到node.js的bitcoind.
+* [Bitcore](https://github.com/bitpay/bitcore) -以前只是一个Nodejs库，现在是一个完整节点.
 
 ## Read
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
-* [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) 一本深入的技术书籍，内容丰富.
+* [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) -带有丰富插图的深入技术书籍.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
-* [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
-* [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS)
-
-灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
-由BlockchainU研究员创建.
+* [Elliptic Curve Cryptography A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/).
+* [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
+* [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum).
+* [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum).
 
 ## Course
 * [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/)
 
-## License
+## Additional Resources
+
+* [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
+* [Bitcoin Learning Master List](https://www.evernote.com/shard/s341/client/snv?noteGuid=b7065b5d-353e-4aca-8cf7-5c4d6392ba4b&noteKey=7c27ada4b31da804&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs341%2Fsh%2Fb7065b5d-353e-4aca-8cf7-5c4d6392ba4b%2F7c27ada4b31da804&title=Bitcoin%2BLearning%2BMaster%2BList).
+
+---
+
+受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+由BlockchainU研究员创建.
+
+---
+
+### License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Igor Barinov](https://github.com/igorbarinov/) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Igor Barinov](https://github.com/igorbarinov/) 放弃了此作品的所有版权以及相关或邻近的权利.

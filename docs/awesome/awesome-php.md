@@ -56,12 +56,13 @@
 * [Knp RAD Components](https://rad.knplabs.com/) -Symfony的一组快速应用程序开发（RAD）组件.
 
 * [Backdrop](https://backdropcms.org) -针对中小型企业和非营利组织的CMS（Drupal的分支）.
-* [Concrete5](https://www.concrete5.org/) -CMS用最少的技术技能来攻击用户.
+* [Concrete5](https://www.concrete5.org/) -以最低的技术水平为目标的CMS.
 * [Drupal](https://www.drupal.org) -企业级CMS.
 * [Grav](https://github.com/getgrav/grav) -现代的平面文件CMS.
 * [Joomla](https://www.joomla.org/) -另一个领先的CMS.
 * [Magento](https://magento.com/) -最受欢迎的电子商务平台.
-* [WordPress](https://wordpress.org/) 博客平台和CMS.
+* [WordPress](https://wordpress.org/) -博客平台和CMS.
+* [Moodle](https://moodle.org/) -开源学习平台.
 
 ### Components
 *来自Web开发框架和开发组的独立组件.*
@@ -77,7 +78,7 @@
 ### Micro Frameworks
 *微型框架和路由器.*
 
-* [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
+* [Bullet PHP](http://bulletphp.com/) -用于构建REST API的微型框架.
 * [Lumen](https://lumen.laravel.com) -Laravel制作的微框架.
 * [Radar](https://github.com/radarphp/Radar.Adr) -用于PHP的Action-Domain-Responder实现.
 * [Slim](https://www.slimframework.com/) -另一个简单的微框架.
@@ -124,8 +125,8 @@
 *使用HTTP的库.*
 
 * [Buzz](https://github.com/kriswallsmith/Buzz) -另一个HTTP客户端.
-* [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) -全面的HTTP客户端.
-* [HTTPlug](http://httplug.io) -没有绑定到特定实现的HTTP客户端抽象.
+* [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
+* [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
 * [PHP VCR](https://php-vcr.github.io/) -用于记录和重放HTTP请求的库.
 * [Requests](https://github.com/rmccue/Requests) -一个简单的HTTP库.
 * [Retrofit](https://github.com/tebru/retrofit-php) -简化REST API客户端创建的库.
@@ -229,7 +230,7 @@
 * [PHPT](https://qa.php.net/write-test.php) -PHP本身使用的测试工具.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) -单元测试框架.
 * [Prophecy](https://github.com/phpspec/prophecy) -一个自以为是的模拟框架.
-* [VFS Stream](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
+* [VFS Stream](https://github.com/bovigo/vfsStream) -用于测试的虚拟文件系统流包装器.
 
 ### Continuous Integration
 *用于持续集成的库和应用程序.*
@@ -249,7 +250,7 @@
 
 * [APIGen](https://github.com/apigen/apigen) -另一个API文档生成器.
 * [daux.io](https://github.com/justinwalsh/daux.io) -使用Markdown文件的文档生成器.
-* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor2) -文档生成器.
+* [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor) -文档生成器.
 * [phpDox](http://phpdox.de/) -PHP项目的文档生成器（不限于API文档）.
 * [Sami](https://github.com/FriendsOfPHP/Sami) -API文档生成器.
 
@@ -259,7 +260,7 @@
 * [Halite](https://paragonie.com/project/halite) -使用以下方法进行加密的简单库 [libsodium](https://github.com/jedisct1/libsodium).
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) -符合标准的HTML过滤器.
 * [IniScan](https://github.com/psecio/iniscan) -扫描PHP INI文件的安全性的工具.
-* [Optimus](https://github.com/jenssegers/optimus) -基于Knuth的乘法哈希方法进行ID混淆.
+* [Optimus](https://github.com/jenssegers/optimus) -根据Knuth的乘法散列方法进行ID模糊处理.
 * [PHP Encryption](https://github.com/defuse/php-encryption) -安全的PHP加密库.
 * [PHP SSH](https://github.com/Herzult/php-ssh) -面向实验对象的SSH包装器库.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) -一个纯PHP安全通信库.
@@ -438,7 +439,7 @@
 
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) -用于处理Microsoft PowerPoint演示文稿的库.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) -用于处理Microsoft Word文档的库.
-* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
+* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) -用于读取和写入电子表格文件的纯PHP库（PHPExcel的后继）.
 * [Spout](https://github.com/box/spout) -以快速和可扩展的方式读写电子表格文件（CSV，XLSX和ODS）.
 
 ### Database
@@ -564,14 +565,14 @@
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) -用于在度量单位之间转换的库.
 
 ### Filtering and Validation
-*用于过滤和验证数据的库.
+*Libraries for filtering and validating data.*
 
 * [Assert](https://github.com/beberlei/assert)  -具有丰富的断言集的验证库.  支持断言链接和惰性断言.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) -提供用于验证和清除对象和数组的工具.
 * [Cake Validation](https://github.com/cakephp/validation) -另一个验证库（CP）.
 * [Filterus](https://github.com/ircmaxell/filterus) -一个简单的PHP过滤库.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -一个用于根据许多国家/地区的ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的库.
-* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](http://json-schema.org) 验证库.
+* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) -支持YAML，JSON和XML的架构验证库.
 * [Respect Validation](https://github.com/Respect/Validation) -一个简单的验证库.
 * [Upload](https://github.com/brandonsavage/Upload) -用于处理文件上传和验证的库.
@@ -593,7 +594,7 @@
 *用于缓存数据的库.
 
 * [Alternative PHP Cache (APC)](https://secure.php.net/manual/en/book.apc.php) -为PHP打开操作码缓存.
-* [APIx Cache](https://github.com/apix/cache) -精简的PSR-6缓存包装器，用于各种缓存后端，强调缓存标记和索引.
+* [APIx Cache](https://github.com/apix/cache) -薄的PSR-6缓存包装器，用于各种缓存后端，强调缓存标记和索引.
 * [CacheTool](https://github.com/gordalina/cachetool) -从命令行清除APC /操作码缓存的工具.
 * [Cake Cache](https://github.com/cakephp/cache) -缓存库（CP）.
 * [Doctrine Cache](https://github.com/doctrine/cache) -缓存库.
@@ -613,7 +614,7 @@
 * [PINQ](https://github.com/TimeToogo/Pinq) -一个基于.NET的LINQ（语言集成查询）的PHP库.
 * [Porter](https://github.com/ScriptFUSION/Porter) -数据导入抽象框架.
 * [Serializer](https://github.com/schmittjoh/serializer) -用于序列化和反序列化数据的库.
-* [YaLinqo](https://github.com/Athari/YaLinqo) -另一个用于PHP的LINQ对象.
+* [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Zend Serializer](https://github.com/zendframework/zend-serializer) -另一个用于序列化和反序列化数据的库（ZF2）.
 
 ### Notifications
@@ -621,7 +622,7 @@
 
 * [JoliNotif](https://github.com/jolicode/JoliNotif) -用于桌面通知的跨平台库（支持Growl，通知发送，烤面包机等）
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) -用于设备推送通知的独立库.
-* [Notificato](https://github.com/mac-cain13/notificato) -用于处理推送通知的库.
+* [Notificato](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
 * [Notificator](https://github.com/namshi/notificator) -轻量级的通知库.
 * [Php-pushwoosh](https://github.com/gomoob/php-pushwoosh) -一个PHP库，可通过Pushwoosh REST Web服务轻松发送推送通知.
 
@@ -644,6 +645,7 @@
 * [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
 * [OpenWhisk](http://openwhisk.apache.org/) -开源的无服务器云平台.
 * [Serverless Framework](https://serverless.com/cli/) -用于构建无服务器应用程序的开源框架.
+* [Laravel Vapor](https://vapor.laravel.com/) -由AWS支持的Laravel无服务器部署平台.
 
 ## Configuration
 *用于配置的库和工具.*
@@ -751,7 +753,7 @@
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) -用于管理队列后端的应用程序.
 * [MailCatcher](https://github.com/sj26/mailcatcher) -用于捕获和查看电子邮件的网络工具.
 * [Cachet](https://github.com/cachethq/cachet) -开源状态页面系统.
-* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) -一个简单的Web界面即可管理 [Redis](https://redis.io/) databases.
+* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) -一个简单的Web界面即可管理 [Redis](https://redis.io/) 数据库.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) -MySQL / MariaDB的Web界面.
 * [Adminer](https://www.adminer.org/) -在单个PHP文件中进行数据库管理.
 * [Lychee](https://github.com/electerious/Lychee) -易于使用且外观精美的照片管理系统.
@@ -772,8 +774,7 @@
 * [Nomad PHP](https://nomadphp.com/) -在线PHP学习资源.
 * [PHP Best Practices](https://phpbestpractices.org/) -PHP最佳做法指南.
 * [PHP FIG](https://www.php-fig.org/) -PHP框架互操作性组.
-* [PHP Mentoring](https://php-mentoring.org/) -点对点PHP指导组织.
-* [PHP Package Development Standards](http://php-pds.com) - Package development standards for PHP.
+* [PHP Package Development Standards](http://php-pds.com) -PHP的软件包开发标准.
 * [PHP School](https://www.phpschool.io/) -PHP的开源学习.
 * [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) -PHP安全性指南.
 * [PHP The Right Way](https://phptherightway.com/) -PHP最佳做法快速参考指南.
@@ -804,7 +805,7 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·康努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了如何解析和验证XML文档，利用XPath表达式以及如何使用名称空间以及如何以编程方式创建和修改XML文件.
@@ -871,7 +872,7 @@
 * [When Does Foreach Copy?](https://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html) -有关foreach内部的文章.
 * [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) -有关对象和数组内部的文章.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) -有关内部ZVAL的文章.
-*收集垃圾： [1](https://secure.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://secure.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://secure.php.net/manual/en/features.gc.performance-considerations.php) -有关PHP垃圾回收内部的一系列文章.
+*收集垃圾： [1](https://secure.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://secure.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://secure.php.net/manual/en/features.gc.performance-considerations.php) -有关PHP垃圾回收内部原理的系列文章.
 *开发人员的PHP源代码： [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](https://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](https://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) -有关PHP源代码的系列.
 
 ### PHP Magazines

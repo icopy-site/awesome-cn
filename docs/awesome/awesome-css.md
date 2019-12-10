@@ -63,7 +63,7 @@
 
 *更快地编写CSS *
 
-* [LESS](https://github.com/less/less.js) -向后兼容CSS，它所添加的额外功能使用现有CSS语法.
+* [LESS](https://github.com/less/less.js) -向后与CSS兼容，并且它添加的其他功能使用现有CSS语法.
 * [PostCSS](https://github.com/postcss/postcss) -使用JS插件转换CSS.
 * [Sass](https://github.com/sass/sass) -成熟，稳定且功能强大的专业级CSS扩展语言.
 * [STYLIS](https://github.com/thysultan/stylis.js) -轻量级CSS预处理器.
@@ -78,7 +78,7 @@
 * [Bulma](http://bulma.io/)  -基于Flexbox的现代CSS框架.  还具有Sass导入以进行修改.
 * [Butter Cake](http://getbuttercake.com/) -现代轻量级前端CSS框架，可更快，更轻松地进行Web开发.
 * [Chota](https://jenil.github.io/chota/) -具有有用的实用程序和网格系统的响应式，可自定义的微框架（3kb）.
-* [Cirrus](https://spiderpig86.github.io/Cirrus/) -具有精美控件和简单结构的完全响应和全面的CSS框架.
+* [Cirrus](https://spiderpig86.github.io/Cirrus/) -完全响应的，全面的CSS框架，具有精美的控件和简单的结构.
 * [eFrolic](http://efrolicss.com/) -不使用JavaScript的CSS框架是交互式的且具有动画效果.
 * [Foundation](http://foundation.zurb.com/) -先进的响应式前端框架.
 * [inuit.css](http://inuitcss.com/) -强大，可扩展，基于Sass的BEM，OOCSS框架.
@@ -88,7 +88,7 @@
 * [Pure.css](http://purecss.io/) -一组小型的自适应CSS模块，您可以在每个Web项目中使用.
 * [Semantic UI](http://semantic-ui.com/) -使用人类友好的HTML的强大框架.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) -轻巧，响应迅速的现代CSS框架.
-* [Strawberry](https://github.com/jfet97/strawberry) -一组通用的flexbox实用程序，这些实用程序专注于使您的生活变得更加轻松和快捷.
+* [Strawberry](https://github.com/jfet97/strawberry) -一组通用的flexbox实用程序，这些实用程序专注于通过嵌套flexbox来使您的生活更轻松，更快.
 * [Tachyons](http://tachyons.io/) -适用于人类的功能CSS.
 * [Tacit](https://yegor256.github.io/tacit/) -平面设计零技能的虚拟人的CSS框架.
 * [tailwindcss](https://github.com/tailwindcss/tailwindcss) -实用程序优先的CSS框架，用于快速UI开发.
@@ -117,7 +117,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Reset and Normalize
 
 - [Normalize](https://github.com/necolas/normalize.css) -一组CSS规则，可在HTML元素的默认样式中提供更好的跨浏览器一致性.
-- [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) -向Normalize.css添加OpenType功能（连字，字距调整等）.
+- [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) -在Normalize.css中添加OpenType功能（连字，字距调整等）.
 - [MiniReset.css](https://github.com/jgthms/minireset.css) -小型的现代CSS重置.
 - [sanitize.css](https://github.com/jonathantneal/sanitize.css/) -一组CSS规则，可立即使用当今的最佳做法.
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) -专门的样式表，用于删除用户代理样式，并以基线为网络样式.
@@ -199,6 +199,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
 * [MaintainableCSS](http://maintainablecss.com)
 * [NCSS](https://ncss.io)
+* [RSCSS](https://rscss.io/)
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -239,7 +240,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [cssfx](https://cssfx.dev/) -精美简单的点击复制CSS效果
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) -适用于Chrome，Firefox和Edge的Magic CSS扩展.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) -通用JS UI组件的CSS替代品.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找错误标记的CSS小书签，无论您在何处编写错误的HTML，它都在喜剧无衬线中显示难看的粉红色错误消息 
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找不良标记的CSS小书签，无论您在何处编写不良HTML，它都会在喜剧无衬线中显示难看的粉红色错误消息 
 
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -252,7 +253,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) -由Anna Debenham和Brad Frost主持的关于风格指南的一小批访谈.
 * [The Web Ahead](http://5by5.tv/webahead/) -与世界专家就不断变化的技术和网络的未来进行对话.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) -在数字艺术，设计和开发中寻找最优秀，最聪明，最聪明的创造力人士.
-* [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展.  保持播报.”此播客以及随附的博客都是关于使您了解最新的开源技术的信息.
+* [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展.  跟上该播客以及随附的博客，都是关于使您了解最新的开源技术的最新信息.
 * [Syntax](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -264,10 +265,10 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS Animation](https://twitter.com/cssanimation)
 * [Andrey Sitnik](https://twitter.com/andreysitnik) -@ Autoprefixer，http：//easings.net和@PostCSS的作者.
-* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计师.  @multimedial_utn HTML5和CSS Freak教授.  临时翻译.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网站设计者.  @multimedial_utn HTML5和CSS Freak教授.  临时翻译.
 * [Sara Soueidan](https://twitter.com/SaraSoueidan) - Author of the @Codrops CSS Reference & Co-author of the Smashing Book #5.
 * [Hugo Giraudel](https://twitter.com/HugoGiraudel) -@edenspiekermann的CSS妖精和Sass黑客.
-* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，房地产势利者，Foodie.
+* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，地产势利小伙，Foodie.
 * [Heydon Pickering](https://twitter.com/heydonworks)  -大米消费量适中.  还是UX设计师，作者，@ smashingmag编辑器和程序员.
 * [Adam Morse](https://twitter.com/mrmrs_) -倡导用户和开源.
 * [Donovan Hutchinson](https://twitter.com/donovanh)  -设计师，开发人员，作家.  偶尔在http://Hop.ie上发布博客，目前正在构建@cssanimation.

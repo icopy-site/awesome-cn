@@ -108,8 +108,9 @@ Installers
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) -在Windows PC（Edge Channel）上本地运行Kubernetes和Docker
 * [eksctl](https://eksctl.io/) -Amazon EKS的官方CLI
 * [Juju](https://jujucharms.com/canonical-kubernetes) -Ubuntu-云不可知
+* [KubeSphere](https://github.com/kubesphere/kubesphere) -轻松地在多个实例中安装Kubernetes和KubeSphere，包括全栈云原生软件，例如istio，ES，Prometheus，Fluent Bit，SonarQube，Jenkins.
 * [k3s](https://github.com/rancher/k3s)  -轻量级的Kubernetes.  易于安装，一半内存，所有二进制文件不到40mb
-* [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”
+* [kind](https://kind.sigs.k8s.io) -使用Docker容器“节点”运行本地Kubernetes集群的工具
 * [Kops](https://github.com/kubernetes/kops) -与操作系统无关-AWS
 * [Kube-ansible](https://github.com/kairen/kube-ansible) -与操作系统无关-与云无关
 * [Kube-aws](https://github.com/coreos/kube-aws) -CoreOS-AWS
@@ -132,6 +133,7 @@ Installers
 * [Terraform](https://github.com/kz8s/tack) -CoreOS-AWS
 * [Typhoon](https://typhoon.psdn.io/) -容器Linux-不可知云
 * [aks-engine](https://github.com/Azure/aks-engine) -AKS Engine是在Azure上配置自管理Kubernetes群集的最简单方法.
+
 
 
 主要资源
@@ -215,6 +217,7 @@ Installers
 - [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 
 
+
 - [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
 - [Achieving CI/CD with Kubernetes](https://ramitsurana.github.io/myblog/2016/08/01/achieving-ci/cd-with-kubernetes/) 通过 [Ramit Surana](https://twitter.com/ramitsurana)
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
@@ -278,10 +281,10 @@ Installers
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) -阿里巴巴，AWS，Azure，GCP和OpenStack集群管理器
-  - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
+  - [Gravity](https://gravitational.com/gravity) -前Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
   - [Kubermatic](http://www.loodse.com/)
-  - [Kubesphere](https://kubesphere.io/en)
+  - [KubeSphere](https://github.com/kubesphere/kubesphere) -具有令人敬畏的用户体验和向导UI的全堆栈且易于使用的容器平台，支持在Linux和Kubernetes上进行安装.
   - [Kublr](https://kublr.com/how-it-works/) -AWS，Azure，GCP，vSphere，vCloud Director和本地群集管理器
   - [PKS](https://pivotal.io/platform/pivotal-container-service) -Pivotal，VMWare和Google的集群管理器
   - [Rancher](https://rancher.com/)
@@ -316,7 +319,7 @@ Installers
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) -Google Kubernetes引擎
    - [IKS](https://www.ibm.com/cloud/container-service) -IBM Cloud Kubernetes服务
-   - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -Oracle Kubernetes引擎
+   - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) - Oracle Kubernetes Engine
    - [OVH Managed Kubernetes](https://www.ovh.co.uk/kubernetes/) -OVH托管的Kubernetes
    - [Rackspace](https://www.rackspace.com/en-in) -机架空间
    - [VMware Cloud PKS](https://cloud.vmware.com/vmware-cloud-pks)
@@ -330,7 +333,7 @@ Installers
   - [Hasura](http://www.hasura.io)
   - [Kel](http://www.kelproject.com)
   - [KubeSail](https://kubesail.com) -一种简单，免费的Kubernetes试用方法
-  - [KubeSphere](https://kubesphere.io/en)
+  - [KubeSphere](https://github.com/kubesphere/kubesphere) -全栈且易于使用的容器平台，具有出色的用户体验和向导UI.
   - [Kyma](https://kyma-project.io/)  -使用无服务器功能扩展应用程序的平台.  它提供了一系列粘合在一起的云原生项目，以简化服务的创建和管理.
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
@@ -502,7 +505,7 @@ Projects
 * [kail](https://github.com/boz/kail)  -Kubernetes日志查看器.  从所有匹配的容器的所有容器中流式传输日志.
 * [Kubebox](https://github.com/astefanutti/kubebox) -Kubernetes的终端控制台
 * [Kubedash](https://github.com/kubernetes/kubedash) -**不推荐使用**信息库已归档且为只读
-* [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) -多个K8s集群的只读系统仪表板
+* [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
 * [K8Dash](https://github.com/herbrandson/k8dash) -实时K8S替代仪表板
 * [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) -在纯HTML前端中列出并查看具有永久链接友好URL的所有Kubernetes资源（包括CRD）
 * [Kubespy](https://github.com/pulumi/kubespy) -由Pulumi提供支持的实时观察Kubernetes资源的工具.
@@ -519,7 +522,7 @@ Projects
 * [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) -用于监视和可视化K8指标，日志，应用程序跟踪等的开源解决方案.
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
-* [loki](https://github.com/grafana/loki) - Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
+* [loki](https://github.com/grafana/loki) -Loki是受Prometheus启发的水平可扩展，高度可用的多租户日志聚合系统.
 * [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
 
 ## Testing
@@ -747,7 +750,7 @@ Projects
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) -解决kubectl
 * [StackStorm](https://github.com/StackStorm/st2)
 * [stern](https://github.com/wercker/stern) -多荚和集装箱原木尾矿
-* [Vikube](https://github.com/c9s/vikube.vim) -Vim中来自Vim的Kubernetes操作
+* [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
 * [K9s](https://github.com/derailed/k9s) -Kubernetes CLI以时尚的方式管理您的集群！
 * [tubectl](https://github.com/reconquest/tubekit) -具有模式匹配的类固醇的Kubernetes CLI
 * [webkubectl](https://github.com/webkubectl/webkubectl) -基于Web的工具可帮助您管理kubernetes凭据并在Web浏览器中运行kubectl命令.
@@ -823,6 +826,7 @@ Projects
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
 * [Linode NodeBalancer Ingress](https://github.com/linode/linode-cloud-controller-manager)
 * [MetalLB](https://metallb.universe.tf/) -使用标准路由协议为裸机Kubernetes集群实现负载均衡器.
+* [Porter](https://github.com/kubesphere/porter)  -为裸机Kubernetes集群设计的负载均衡器.  它由物理交换机实现，并使用BGP和ECMP来实现最佳性能和HA.
 * [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
 * [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 * [Skipper](https://github.com/zalando/skipper) -用于服务组合的HTTP路由器和反向代理，包括诸如Kubernetes Ingress之类的用例

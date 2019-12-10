@@ -156,7 +156,6 @@
   1. [Hasjob](https://hasjob.co/) –位置过滤器-&gt;“ *任何地方/远程*”
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) 具有远程类型过滤器.
   1. [HN hiring](http://hnhiring.me/) –过滤REMOTE.
-  1. [Jobbatical](https://jobbatical.com/)
   1. [JOBBOX.io](https://landing.jobs/offers) –过滤器-&gt;仅远程.
   1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)  –机器学习工作.  过滤器-&gt;仅远程.
   1. [Jobspresso](https://jobspresso.co/) *公开且合法的高质量远程位置*
@@ -274,7 +273,7 @@
   1. [Authentic F & F](http://authenticff.com/) -位于丹佛和明尼苏达州的独立设计和技术工作室
   1. [Aurity](https://www.aurity.co/) -100％的远程公司，专门从事React和React Native.
   1. [Automattic](https://automattic.com/work-with-us/) -WordPress.com和Gravatar的制造商
-  1. [Avallain](https://www.avallain.com/)  -教育技术和数字出版.  我们拥有工具和流程来实现技术增强型教育所能提供的对人类潜力的积极影响
+  1. [Avallain](https://www.avallain.com/)  -教育技术和数字出版.  我们拥有工具和流程来实现技术增强教育所能提供的对人类潜力的积极影响
   1. [AvantStay](https://avantstay.com/careers) -总部位于洛杉矶的短期租赁公司，拥有远程开发团队.
   1. [Axelerant](https://www.axelerant.com/careers)
   1. [Baremetrics](https://baremetrics.com/about) -Stripe，Braintree，Recurly和Chargify的分析和见解.
@@ -487,6 +486,7 @@
  1. [Out Of Office](http://www.outofoffice.hm/) -的在线远程工作活动 [Human Made](https://hmn.md/)
  1. [Yonder](http://www.yonder.io/events/) -圆桌会议，聚集了分布式公司的领导人.
  1. [9punto5](http://www.9punto5.cl) -拉丁美洲的远程工作会议.
+ 1. [Git Commit Show](http://gitcommit.show) -来自全球的开发者大会，旨在促进远程工作的教育
 
 ## Tools
 
@@ -505,7 +505,7 @@
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix是分布式团队的在线开源工作场所.
   1. [Mumble](https://wiki.mumble.info/) Mumble是一款开源语音聊天软件
   1. [Precursor](https://precursorapp.com) -通过实时协作进行简单的原型设计和集思广益的网络应用程序.
-  1. [PukkaTeam](https://www.pukkateam.com) -通过定期的自动自拍照和一键式视频通话实现真实的团队存在
+  1. [PukkaTeam](https://www.pukkateam.com) -通过定期自动自拍照和一键式视频通话实现真实团队的存在
   1. [Rocket.Chat](https://rocket.chat/) —最终开源WebChat平台.
   2. [Signal](https://signal.org/) -加密的安全聊天和视频通话.
   1. [Skype](https://www.skype.com/) –视频通话.
@@ -529,11 +529,11 @@
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) -Coffitivity可再现咖啡馆的环境声音，以增强您的创造力并帮助您更好地工作.
-  1. [Fiverr](https://www.fiverr.com/) -Fiverr是面向精益企业家的全球最大的自由职业服务市场，您可以在这里雇用远程工人为您做一些小工作.
+  1. [Fiverr](https://www.fiverr.com/) -Fiverr是面向精益企业家的全球最大的自由职业者服务市场，您可以在这里雇用远程工人为您完成一些小任务.
   1. [Funretro](https://funretro.github.io/distributed) -Funretro是分布式团队的回顾性在线董事会.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) -听听Wikipedia的最新更改提要的声音.
   1. [Noisli](https://www.noisli.com/) -Noisli提供了一系列不同的环境声音，可以组合使用这些声音来增强创造力和注意力.
-  1. [musicforprogramming.net](https://musicforprogramming.net/) -`return&#39;一系列旨在听的混音，而&#39;+ task +&#39;有助于集中注意力并提高生产率（也与其他活动兼容）.
+  1. [musicforprogramming.net](https://musicforprogramming.net/) -`return&#39;一系列旨在听的混音，而&#39;+ task +&#39;有助于集中注意力并提高生产力（也与其他活动兼容）.
   1. [Qbserve](https://qotoqot.com/qbserve/) -时间跟踪自动化：自由项目跟踪，时间表，发票和实时生产力反馈（Mac）.
   1. [Realtime Board](https://realtimeboard.com/) -分布式永久虚拟白板.
   1. [Teleport Sundial](https://sundial.teleport.org) -管理分布式团队的位置和时区.

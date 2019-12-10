@@ -47,10 +47,11 @@
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) -量子力学基本原理的概念介绍.
 - [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) -对计算的微妙介绍，其背后的数学及其量子对应物，然后深入讨论了一些量子算法.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) -了解量子计算机和量子互联网发展背后的原理和承诺，以及它们将如何影响我们的未来.
-- [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) -介绍使用最少数学的量子计算的关键概念.
+- [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) -介绍具有最少数学的量子计算的关键概念.
 
 ## Development Tools
 
+- [Amazon Braket](https://aws.amazon.com/braket/) -完全托管的服务，提供开发环境以在量子模拟器和计算机上运行量子电路.
 - [Cirq](https://github.com/quantumlib/Cirq) -Python库，用于编写，操纵和优化NISQ电路以在量子计算机上运行.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) -在线量子编辑器，可在真实的量子计算硬件上运行实验.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) -用于在近期量子计算机上执行量子人工智能的库.
@@ -102,7 +103,7 @@
 
 - [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) -YouTube视频系列展示了如何编写量子算法
 - [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) -重点介绍Rigetti的Python Forest SDK进行量子编程的原因和方式.
-- [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)  -有关计算机科学家入门量子计算的Microsoft Research Talk.  时长：1小时28分钟.
+- [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)  -有关计算机科学家入门量子计算的微软研究讲座.  时长：1小时28分钟.
 - [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) -一系列有关量子计算基础知识的讲座 [Michael Nielsen](http://michaelnielsen.org/).
 - [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) -一系列有关量子计算的讲座 [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/)
 

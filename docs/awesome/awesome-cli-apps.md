@@ -58,7 +58,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) -从YouTube.com和许多其他视频网站下载视频.
 - [streamlink](https://github.com/streamlink/streamlink) -从各种网站提取流到您选择的视频播放器.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) -YouTube播放器.
-- [mpv](https://mpv.io) -出色的视频播放器.
+- [mpv](https://mpv.io) - Superior video player.
 
 ### Movies
 
@@ -81,7 +81,7 @@
 - [bcal](https://github.com/jarun/bcal) -用于存储转换和计算的字节CALculator.
 - [cgasm](https://github.com/bnagy/cgasm) -提供x86汇编文档.
 - [legit](https://github.com/captainsafia/legit) -生成开放源代码许可证作为文件或文件头.
-- [mklicense](https://github.com/cezaraugusto/mklicense) -使用自定义信息轻松创建自定义许可文件.
+- [mklicense](https://github.com/cezaraugusto/mklicense) -使用自定义信息轻松创建自定义LICENSE文件.
 - [rebound](https://github.com/shobrook/rebound) -遇到编译器错误时，获取堆栈溢出会在您的终端中显示.
 - [grip](https://github.com/joeyespo/grip) -在提交之前预览具有GitHub样式的markdown文件.
 - [bitwise](https://github.com/mellowcandle/bitwise) -ncurses中的基本转换和位操纵器.
@@ -97,7 +97,7 @@
 
 ### Web Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) -搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 有关功能对浏览器的支持.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) -搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 有关功能的浏览器支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) -检查网站是否正常.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) -捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) -从CSS中删除注释.
@@ -196,7 +196,7 @@
 
 ### Note Taking and Lists
 
-- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您将想法安全快捷地保存在安全的地方.
+- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您快速，轻松地将想法保存在安全的地方.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) -Evernote客户.
 - [Taskwarrior](http://taskwarrior.org) -从命令行管理TODO列表.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) -终端的快速笔记应用程序.
@@ -304,7 +304,7 @@
 - [cmdchallenge](https://cmdchallenge.com/) -通过用户提交的解决方案提出小型外壳挑战.
 - [explainshell](http://www.explainshell.com/) -输入命令行摘要以查看每个参数的帮助文本.
 - [howdoi](https://github.com/gleitz/howdoi) -通过命令行即时编码答案.
-- [how2](https://github.com/santinic/how2) -查找在UNIX bash命令行上进行操作的最简单方法（howdoi的Nodejs实现）.
+- [how2](https://github.com/santinic/how2) -查找在UNIX bash命令行（howdoi的Nodejs实现）上做某事的最简单方法.
 - [The Fuck](https://github.com/nvbn/thefuck) -宏伟的应用程序，可纠正您以前的控制台命令.
 - [tldr](https://github.com/tldr-pages/tldr) -简化且由社区驱动的手册页.
 - [Wat](https://github.com/dthree/wat) -即时，集中，社区构建的文档.
@@ -313,7 +313,7 @@
 
 ## Data Manipulation
 
-- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
+- [underscore-cli](https://github.com/ddopson/underscore-cli) -用于破解JSON和Javascript的命令行实用程序带.
 - [ramda-cli](https://github.com/raine/ramda-cli) -使用功能管道处理数据的CLI工具.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) -用于查询和更新YAML文件的简单CLI.
 - [q](http://harelba.github.io/q/) -命令行工具，允许在CSV / TSV（和任何其他表格文本文件）上执行类似SQL的查询.
@@ -379,7 +379,7 @@
 - [fasd](https://github.com/clvv/fasd) -命令行生产力增强器，受自动跳转，z和v的启发，可以快速访问文件和目录.
 - [pm](https://github.com/Angelmmiguel/pm) -在Shell上切换到项目的简单方法.
 - [z](https://github.com/rupa/z) -z是新的j，哟.
-- [PathPicker](https://github.com/facebook/pathpicker/) -解析命令的输出后，PathPicker将为您提供一个不错的UI，以选择您感兴趣的文件.
+- [PathPicker](https://github.com/facebook/pathpicker/) -解析命令的输出后，PathPicker为您提供了一个不错的UI，可以选择您感兴趣的文件.
 - [fz](https://github.com/changyuheng/fz) -z的无缝模糊制表符完成.
 - [goto](https://github.com/iridakos/goto) -具有自动完成功能的Shell的目录别名.
 - [z.lua](https://github.com/skywind3000/z.lua) -新的cd命令，可帮助您通过学习习惯来更快地导航.
@@ -487,6 +487,7 @@
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) -通过命令行快速找到表情符号并将其复制到剪贴板.
 - [oji](https://github.com/xxczaki/oji) -互动文字表情符号制作工具.
 - [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) -在提交消息中使用表情符号.
+- [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog) -生成gitmoji变更日志.
 
 ## Other Awesome Lists
 

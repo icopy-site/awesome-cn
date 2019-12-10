@@ -88,7 +88,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) -轻量级的CLI文本编辑器/ IDE
  * [oq](https://github.com/Blacksmoke16/oq)  -高性能，可移植的jq包装器，以方便使用和输出JSON以外的其他格式；  使用 [jq](https://github.com/stedolan/jq) 过滤器以转换数据.
- * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) -一个简单且可自定义的进度条
+ * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [tablo](https://github.com/hutou/tablo) -灵活的终端表生成器
  * [tallboy](https://github.com/epoch/tallboy) -生成支持跨多个列的单元格的ASCII字符表
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) -简单的ASCII表生成器
@@ -145,7 +145,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Data Generators
  * [faker](https://github.com/askn/faker) -用于生成假数据的库
- * [hashids.cr](https://github.com/splattael/hashids.cr) -一个库，可从一个或多个数字生成类似YouTube的ID
+ * [hashids.cr](https://github.com/splattael/hashids.cr) -可以从一个或多个数字生成类似YouTube的ID的库
 
 ## Database Drivers/Clients
  * [couchdb.cr](https://github.com/TechMagister/couchdb.cr) -CouchDB客户端
@@ -232,8 +232,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [praetorian](https://github.com/ilanusse/praetorian) -受Pundit启发的极简主义授权库
  * [request_id](https://github.com/SuperPaintman/request-id) -中间件，用于生成/获取Crystal服务器的唯一请求ID
  * [response_time](https://github.com/SuperPaintman/response-time) -Crystal服务器（纯http服务器，凯末尔等）的响应时间
+ * [shrine.cr](https://github.com/jetrockets/shrine.cr)  -用于Crystal应用程序的文件附件工具包.  受神殿的红宝石启发
  * [spec-kemal](https://github.com/kemalcr/spec-kemal) -轻松测试Kemal
- * [tourmaline](https://github.com/watzon/tourmaline) -松散地基于API的电报bot框架 [telegraf.js](https://telegraf.js.org/)
+ * [tourmaline](https://github.com/watzon/tourmaline) -松散地基于API的电报机器人框架 [telegraf.js](https://telegraf.js.org/)
 
 ## Game Development
  * [cray](https://gitlab.com/Zatherz/cray) -的绑定 [raylib](http://www.raylib.com/)，一个易于使用的游戏开发库
@@ -248,7 +249,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [qt5.cr](https://github.com/Papierkorb/qt5.cr) -基于Bindgen的Crystal的Qt5绑定
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
  * [html_builder](https://github.com/crystal-lang/html_builder) -用于创建HTML的DSL
 
 ## HTML/XML Parsing
@@ -322,7 +323,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -burocracia.cr用于验证，生成和格式化巴西Croc，CNPJ和CEP等巴西Burocracia的无依赖碎片
  * [callbacks](https://github.com/vladfaust/callbacks.cr) -富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) -断路器模式的实现
- * [compiled_license](https://github.com/elorest/compiled_license) -在没有代码的情况下将二进制文件复制到系统或容器中时，将许可证编译为二进制文件以符合MIT
+ * [compiled_license](https://github.com/elorest/compiled_license) -在没有代码的情况下将二进制文件复制到系统或容器时，将许可证编译为二进制文件以便与MIT兼容
  * [containerregistry.cr](https://github.com/naqvis/containerregistry.cr) -与集装箱登记处合作的图书馆
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) -基于可扩展注释的序列化/反序列化库
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) -二进制解析器
@@ -401,7 +402,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Queues and Messaging
  * [dispatch](https://github.com/bmulvihill/dispatch) -内存中异步作业处理
  * [mosquito](https://github.com/robacarp/mosquito/) - Redis backed periodic and ad hoc job processing
- * [NATS.io](https://github.com/nats-io/nats.cr) - NATS client
+ * [NATS.io](https://github.com/nats-io/nats.cr) -NATS客户
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) -简单，高效的作业处理
 
 ## Routing
