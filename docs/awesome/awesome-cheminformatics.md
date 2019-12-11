@@ -22,7 +22,7 @@
 ### Command Line Tools
 
 * [Open Babel](http://openbabel.org/wiki/Main_Page) -化学工具箱，旨在说多种化学数据语言.
-* [MayaChemTools](http://www.mayachemtools.org/index.html) -收集支持日常计算发现需求的Perl和Python脚本，模块和类.
+* [MayaChemTools](http://www.mayachemtools.org/index.html) - Collection of Perl and Python scripts, modules, and classes that support day-to-day computational discovery needs.
 * [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) -通过填料优化进行分子动力学模拟的初始配置.
 
 <a id="app-docking"></a>
@@ -50,7 +50,7 @@
 <a id="lib-visualization"></a>
 ### Visulization
 
-* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) -前端JavaScript库，用于提供在网络浏览器上表示，绘制，编辑，比较和搜索分子结构的功能.
+* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) -前端JavaScript库，用于在网络浏览器上提供表示，绘制，编辑，比较和搜索分子结构的功能.
 * [3Dmol.js](https://github.com/3dmol/3Dmol.js) -面向对象的基于webGL的JavaScript库，用于在线分子可视化.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) -基于的化学2D结构编辑器应用程序/小程序 [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) -使用PySide的简单RDKit分子编辑器GUI.
@@ -99,7 +99,7 @@
 
 ### Courses
 
-* [Learncheminformatics.com](http://learncheminformatics.com/) 印第安纳大学的“化学信息学：在化学数据世界中导航”.
+* [Learncheminformatics.com](http://learncheminformatics.com/) -印第安那大学的“化学信息学：在化学数据世界中导航”.
 * [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) -一个用于化学信息学教育的YouTube频道.
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) -使用开源软件包和数据进行计算机辅助药物设计（CADD）的教学平台.
 * [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)％3A_Chem_4399％2F％2F5399）-罗伯特·贝尔福德（Robert Belford）的阿肯色大学小石城分校化学信息学课程（2017年春季）
@@ -121,10 +121,11 @@
 * [Macs in Chemistry](http://www.macinchem.org/) -为使用Apple Macintosh计算机的化学家提供资源.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) -的博客 [Andreas Bender](http://www.andreasbender.de/)，是剑桥大学分子信息学的读者.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) -化学信息学库的一些示例.
+* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是协作药物发现公司（Collaborative Drug Discovery）的研究科学家.
 
 ### Books
 
-* [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -  Include insights from public (NIH), academic, and industrial sources at the same time.
+* [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -同时包括来自公共（NIH），学术界和工业界的见解。
 * [Chemoinformatics for Drug Discovery](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785) -有关如何使用化学信息学策略改善药物发现结果的材料.
 
 <a id="see-also"></a>

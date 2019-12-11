@@ -7,19 +7,19 @@
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
 
 来自维基百科-
-&gt; A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) 是一种数字资产，旨在用作使用加密的交换媒介，以保护交易并控制货币其他单位的创建.
+&gt; A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) 是一种数字资产，旨在用作使用加密的交换媒介，以保护交易并控制货币的其他单位的创建.
 
- 在许多不同的加密货币中使用了许多算法.  本文档的作用是提供一个简单的地图以供参考，并提供有用的服务和实用的硬币管理清单.
+ 许多算法用于不同的加密货币中.  本文档引用了加密货币中使用的算法，并提供了一系列有用的服务和实用程序来管理硬币.
 
 ## So, Before We Begin…
 
- 如果您是新手，其中一些“硬币”的东西可能会令人困惑.  所以，让我解释一下我到目前为止所知道的-
+ 如果您不熟悉算法和数据结构，那么这些“硬币”的东西可能会令人困惑.  让我解释一下我到目前为止所知道的-
 
-有很多很多 [coins](http://coinbin.org/coins) .  人们喜欢 [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz)  它们，与股票或神奇宝贝卡不同.  人们也喜欢 [mine](https://www.nicehash.com/?refby=386829) 他们使用家用计算机或专用硬件.
+有很多很多 [coins](http://coinbin.org/coins) .  人们喜欢 [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz)  它们，与股票或神奇宝贝卡不同.  人们也 [mine](https://www.nicehash.com/?refby=386829) 他们使用家用计算机或专用硬件.
 
- 硬币存放在钱包中.  这些可以在线托管在本地计算机上，甚至可以放在一张纸上.
+硬币存储在可以在线托管，在本地计算机上或在纸上的钱包中.
 
- 自己开采硬币很难，有点像赌博，因此人们通常会选择加入一个游泳池（通常使用“ stratum”协议进行协调），即使您没有这样做，也会为您的工作带来回报.找不到任何东西，因为您帮助了成千上万的其他人做出了贡献，其中有些人确实找到了障碍.  然后根据池的规则将块拆分.
+ 自己开采硬币很难，就像赌博一样，因此人们通常会选择加入一个游泳池（通常使用“ stratum”协议进行协调），即使您没有这样做，也会为您的工作带来回报找到任何东西，因为您帮助了成千上万的其他人做出了贡献，其中有些人确实找到了障碍.  然后根据池的规则将块拆分.
 
 有些人 [rent hashing power](https://www.nicehash.com/?refby=386829) 来自农场，或者玩“区块链彩票”，试图自己寻找硬币块，或者像典型的家庭矿工一样，将农场指向游泳池—除了他们拥有巨大的计算能力之外，如果他们愿意为此付费.
 
@@ -36,12 +36,12 @@
 ## ☤ Coin Market Tools & Utilities
 
 - **[Coinbin.org](http://coinbin.org)**-人性化的API，可快速获取硬币数据（汇率，预测等）
-    * [List of All Known Coins](http://coinbin.org/coins) `/ coins`
+    * [List of All Known Coins](http://coinbin.org/coins) `/硬币`
     * [BTC Current Value](http://coinbin.org/btc) `/ btc`
-    * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/ BTC / history`
-    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/ BTC /到/ eth`
+    * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/ btc / history`
+    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/ btc / to / eth`
     * [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
-    * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/ ETH / 42 /到/ btc`
+    * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/ eth / 42 / to / btc`
     *支持所有加密货币.
 - [CoinMarketCap](https://coinmarketcap.com) —在实时仪表板上显示所有货币.
 - [CoinScanner.co](https://coinscanner.co/) —为您提供从一种加密货币到另一种加密货币的多种贸易路线.
@@ -51,7 +51,7 @@
 - [Overview of Cryptocurrencies](https://github.com/kilimchoi/cryptocurrency) — GitHub存储库.
 - [Map of Coins](http://mapofcoins.com) –从数字货币白皮书到当今，探索数字货币的可视化历史.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) （电子书）
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
 - [Binance Academy](https://www.binance.vision) —币安提供的开放获取教育.
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
 - [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) —超简化的区块链解释（正在建设中）.
@@ -95,7 +95,7 @@
 
 ### Hosted Coin Wallets
 
-**注意：**代币社区对使用这些服务感到不满，因为您无法直接控制代币-实际上，您根本不拥有代币-该服务确实像标准银行一样运行.
+**注意：**代币社区对使用这些服务不满意，因为您无法直接控制代币-实际上，您根本不拥有代币-该服务确实像标准银行一样运作.
 
 - [Coinbase **BTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [Coinbase **ETH**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
@@ -207,7 +207,7 @@
 
 ## ☤ Every Active Coin, Ranked
 
-As of 2017-08-23:
+截至2017-08-23：
 
 [btc](https://coinbin.org/btc)
 [eth](https://coinbin.org/eth)
@@ -404,13 +404,13 @@ As of 2017-08-23:
 
 ## Find this useful?
 
-如果您想为我在开源世界中的努力捐款，您可以使用以下钱包地址，任何贡献（无论多小）都将受到深深的感谢.
+如果您想为我在开源世界中的努力而捐款，则可以使用以下钱包地址，任何贡献（无论多小）都将受到赞赏.
 
 - **[BTC](http://coinbin.org/btc)**：`1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
 - **[ETH](http://coinbin.org/eth)**：`0x1321Ec9c7550a7c44ef3e583930556556c6557411d1`
 - **[LTC](http://coinbin.org/ltc)**：`Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
 - **[LBC](http://coinbin.org/lbc)**：`bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
-- **[SC](http://coinbin.org/sc)**：``f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884&#39;&#39;
+- **[SC](http://coinbin.org/sc)**：`f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884`
 
 Or, [Say Thanks!](http://saythanks.io/to/kennethreitz)
 

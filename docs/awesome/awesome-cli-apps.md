@@ -49,7 +49,7 @@
 - [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -Twitter客户端.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户端.
-- [RTV](https://github.com/michael-lazar/rtv) -从您的终端浏览Reddit.
+- [tuir](https://gitlab.com/ajak/tuir) -Reddit TUI.
 - [WeeChat](https://weechat.org/) -快速，轻便和可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -IRC聊天客户端.
 
@@ -58,7 +58,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) -从YouTube.com和许多其他视频网站下载视频.
 - [streamlink](https://github.com/streamlink/streamlink) -从各种网站提取流到您选择的视频播放器.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) -YouTube播放器.
-- [mpv](https://mpv.io) - Superior video player.
+- [mpv](https://mpv.io) -出色的视频播放器.
 
 ### Movies
 
@@ -363,7 +363,7 @@
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) -Unix权限的瑞士军刀
 - [rclone](https://github.com/ncw/rclone) -与各种云提供商（Dropbox，Google Drive，Onedrive等）之间进行文件同步.
 - [transmission-cli](https://transmissionbt.com) -您的命令行的Torrent客户端.
-- [ffsend](https://github.com/timvisee/ffsend) -功能齐全的CLI [Firefox Send](https://send.firefox.com/) -简单和私人的文件共享.
+- [ffsend](https://github.com/timvisee/ffsend) -功能齐全的CLI [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) –流洪流客户端.
 - [share-cli](https://github.com/marionebl/share-cli) -与您的本地网络共享文件.
 
@@ -460,7 +460,7 @@
 - [birthday](https://github.com/IonicaBizau/birthday) -知道朋友的生日是什么时候.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) -检测代码的缩进.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) -获取当前用户的全名.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) -获取文件或标准输入的压缩大小.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)  -哈希变得简单.  获取文本或标准输入的哈希.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) -使用Levenshtein距离算法测量两个字符串之间的差异.
@@ -493,7 +493,7 @@
 
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – cli应用程序的替代列表.
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) -特定于macOS的Shell命令和工具.
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) -扩展git cli的插件.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) –命令行实用程序和框架.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) –终端框架，插件和资源.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH框架，插件，教程和主题.

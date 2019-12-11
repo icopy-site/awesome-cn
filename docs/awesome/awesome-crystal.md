@@ -134,6 +134,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [CSV](https://crystal-lang.org/api/CSV.html) -解析并生成逗号分隔的值（Crystal stdlib）
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) -将文件开头的内容与其内容分开
  * [geoip2.cr](https://github.com/delef/geoip2.cr) -GeoIP2阅读器
+ * [HAR](https://github.com/NeuraLegion/har) -HAR（HTTP存档）解析器
  * [INI](https://crystal-lang.org/api/INI.html) -此文件解析器（Crystal stdlib）
  * [JSON](https://crystal-lang.org/api/JSON.html) -解析和生成JSON文档（Crystal stdlib）
  * [JSON tools](https://github.com/impatienttraveller/json-tools) -JSON补丁和指针RFC的实现
@@ -417,8 +418,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [tasker](https://github.com/spider-gazelle/tasker) -包括时区感知的cron作业在内的高精度调度程序
 
 ## Science and Data analysis
- * [bottle](https://github.com/crystal-data/bottle) -支持N维数据的数值计算库
  * [linalg](https://github.com/konovod/linalg) -受MATLAB和SciPy.linalg启发的线性代数库
+ * [num.cr](https://github.com/crystal-data/num.cr) -支持N维数据的数值计算库
  * [predict.cr](https://github.com/RX14/predict.cr) -使用sgp4模型的卫星预测库
  * [stats](https://git.sceptique.eu/Sceptique/stats) -统计分布的表达方式
 

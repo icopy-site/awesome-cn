@@ -13,7 +13,8 @@
 ### Streaming Engine
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java]-大数据流和批处理的统一平台.
-- [Apache Flink](https://github.com/apache/flink) [Java]-高吞吐量，低延迟的数据流处理系统，支持状态计算，数据驱动的窗口语义和迭代流处理.
+- [Apache Flink](https://github.com/apache/flink) [Java]-用于高吞吐量，低延迟的数据流处理的系统，支持状态计算，数据驱动的窗口语义和迭代流处理.
+- [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java]-来自Twitter的实时，分布式，容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala / Java]-基于Kafka（消息，存储）和YARN（容错，处理器隔离，安全性和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala]-使构建可扩展的容错流应用程序变得容易.
 - [Apache Storm](https://github.com/apache/storm)  [Clojure / Java]-分布式实时计算系统.  Storm是流处理，而Hadoop是批处理. 
@@ -22,7 +23,6 @@
 - [Gearpump](https://github.com/gearpump/gearpump) [Scala]-基于Akka构建的轻量级实时分布式流引擎.
 - [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) [Java]-基于Hazelcast构建的通用分布式数据处理引擎.
 - [hailstorm](https://github.com/hailstorm-hs/hailstorm) [Haskell]-基于Storm的具有精确一次语义的分布式流处理.
-- [heron](https://github.com/apache/incubator-heron)  [Java]-Twitter的实时分析平台，与Storm完全API兼容.  暴风雨已在Twitter上被苍鹭取代.
 - [mantis](https://github.com/Netflix/mantis) [Java]-Netflix建立实时流处理应用程序生态系统的平台
 - [mupd8(muppet)](https://github.com/walmartlabs/mupd8) [Scala / Java]-用于处理快速/流数据的mapReduce样式的框架.
 - [Onyx](https://github.com/onyx-platform/onyx) [Clojure]-分布式，无主控，高性能，容错数据处理.
@@ -42,7 +42,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [Benthos](https://github.com/Jeffail/benthos) [开始]-Benthos是一种高性能且具有弹性的消息流服务，能够连接各种源和接收器，并对有效负载执行任意操作，转换和过滤器
 - [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala]-Scala的组合式流I / O库.
 - [monix](https://github.com/monix/monix) [Scala]-高性能的Scala / Scala.js库，用于编写异步和基于事件的程序.
-- [Streamline](https://github.com/hortonworks/streamline)  [Java]-Hortonworks的Stream Analytics Framework，旨在作为现有流解决方案（如Storm）的包装.  旨在允许用户拖放流组件以专注于业务逻辑.
+- [Streamline](https://github.com/hortonworks/streamline) [Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python]-Airbnb的实时数据分析和警报.
 - [Swave](https://github.com/sirthias/swave) [Scala]-用于Scala的轻量级Reactive Streams基础结构工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python]-轻量级的库，用于构建管道以管理连续的数据流；  支持涉及分支，连接，流量控制，反馈，背压等的复杂管道.
@@ -55,7 +55,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 
 ### IoT
 
-- [sensorbee](https://github.com/sensorbee/sensorbee) [Go] - lightweight stream processing engine for IoT.
+- [sensorbee](https://github.com/sensorbee/sensorbee) [开始]-物联网的轻量级流处理引擎.
 - [Apache Edgent](https://github.com/apache/incubator-edgent) [Java]-一种编程模型和运行时，可在网关和边缘设备上进行连续的流分析，可以与集中式系统一起使用，以在整个IoT生态系统中提供高效，及时的分析：从中心到边缘，由IBM开源.
 - [StreamPipes](https://github.com/streampipes/streampipes) [Java]-一个完整的工具箱，无需编程技能即可轻松分析IoT（大型）数据流.
 
@@ -78,7 +78,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [LogDevice](https://logdevice.io/) [C ++]-Facebook的高性能分布式系统，用于使用日志结构流式传输和存储顺序数据.
 - [metaq](https://github.com/killme2008/Metamorphosis) [Java]-淘宝的高可用性，高性能分布式消息传递系统
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [开始]-快速的磁盘支持消息传递解决方案
-- [nsq](https://github.com/nsqio/nsq) [运行]-实时分布式消息传递平台，旨在大规模运行，每天处理数十亿条消息.
+- [nsq](https://github.com/nsqio/nsq) [开始]-实时分布式消息传递平台，旨在大规模运行，每天处理数十亿条消息.
 - [suro](https://github.com/Netflix/suro) [Java]-数据管道服务，用于收集，聚集和调度大量应用程序事件，包括日志数据.
 - [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]-连续的大数据摄取基础结构，可从大量端点进行读写，包括S3，JDBC，Hadoop，Kafka，Cassandra等.
 

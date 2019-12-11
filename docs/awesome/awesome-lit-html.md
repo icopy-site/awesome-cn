@@ -60,7 +60,7 @@
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) -用于LitElement的小型mixin，可通过属性getter获得轻松的更改事件.
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -LitElement扩展，可轻松实现开箱即用.
 - [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) -之间缺少连接 [Haunted](https://www.npmjs.com/package/haunted) 和LitElement.
-- [lit-robot](https://www.npmjs.com/package/lit-robot) -与LitElement集成 [Robot](https://thisrobot.life/).
+- [lit-robot](https://www.npmjs.com/package/lit-robot) - LitElement integration with [Robot](https://thisrobot.life/).
 - [nextbone](https://www.npmjs.com/package/nextbone) -通过ES类和装饰器重新构想了与LitElement一起使用的主干网.
 
 ### Other
@@ -84,7 +84,7 @@
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -在本地API之上的企业风味糖！
 - [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) -用于创建使用Webview API的VSCode扩展的组件.
 - [Weightless](https://github.com/andreasbm/weightless) -占地面积小的高质量Web组件.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) - Collection of elements that appear hand drawn.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) -出现手绘元素的集合.
 
 ### Individual Components
 
@@ -119,7 +119,7 @@
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) -Babel插件，用于最小化带有标签的模板字符串中的HTML.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) -用于lit-html模板字符串的ESLint插件.
 - [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) -CLI类型，用于检查lit-html模板中的绑定.
-- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件，以最小化带有标签的模板字符串中的HTML.
+- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件可最小化标记模板字符串中的HTML.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) -汇总插件，用于将CSS文件作为LitElement标记的`css`模板字符串导入.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -汇总插件，用于在LitElement组件中加载PostCSS处理的样式表.
 - [lit-loader](https://github.com/PolymerX/lit-loader) -用于Webpack的LitElement单个文件组件加载器.
@@ -180,6 +180,7 @@
 - [modulor-html](https://github.com/modulor-js/modulor-html) -Web组件缺少模板引擎.
 - [nanohtml](https://github.com/choojs/nanohtml) -用于浏览器的HTML模板字符串，支持Node中的服务器端渲染.
 - [picohtml](https://github.com/stepanvanzuriak/picohtml) -强大的〜2kB（gzip）HTML模板字符串.
+- [tiny-lit](https://github.com/alenaksu/tiny-lit) -用于使用模板文字构建用户界面的库.
 
 ## Other awesome resources
 

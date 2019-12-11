@@ -115,6 +115,7 @@
 * [Bitcore](https://github.com/bitpay/bitcore) -以前只是一个Nodejs库，现在是一个完整节点.
 
 ## Read
+* [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) -带有丰富插图的深入技术书籍.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
@@ -122,14 +123,16 @@
 * [Bitcoin Programming with BitcoinJS and Bitcoin Core CLI](https://github.com/bitcoin-studio/Bitcoin-Programming-with-BitcoinJS).
 * [Bitcoin Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/bitcoin-curriculum).
 * [Lightning Network Protocol Development Curriculum - Chaincode Labs](https://github.com/chaincodelabs/lightning-curriculum).
+* [btcinformation.org / Developer Documentation](https://btcinformation.org/en/developer-documentation) -为开发人员找到有用的资源，指南和参考资料.
 
 ## Course
-* [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/)
+* [Bitcoin & Cryptocurrency](http://bitcoinbook.cs.princeton.edu/).
 
 ## Additional Resources
-
+* [@lopp / Bitcoin Developers](https://twitter.com/lopp/lists/bitcoin-developers) -具有从事比特币实施或应用程序工作经验的软件开发人员.
+* [@lopp / Lightning Developers](https://twitter.com/lopp/lists/lightning-developers) -具有在LN实施/应用程序上工作的经验的软件开发人员.
 * [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
-* [Bitcoin Learning Master List](https://www.evernote.com/shard/s341/client/snv?noteGuid=b7065b5d-353e-4aca-8cf7-5c4d6392ba4b&noteKey=7c27ada4b31da804&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs341%2Fsh%2Fb7065b5d-353e-4aca-8cf7-5c4d6392ba4b%2F7c27ada4b31da804&title=Bitcoin%2BLearning%2BMaster%2BList).
+* [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
 
 ---
 
