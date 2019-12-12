@@ -82,7 +82,7 @@
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
-- [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) -一个插件，可帮助检测实时数据库和夹具中的不匹配情况，从而使基于夹具的测试更加可靠，部署更安全.
+- [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) -一个插件，可帮助检测实时数据库和灯具中的不匹配情况，从而使基于灯具的测试更加可靠，并且部署更安全.
 - [Sentry plugin](https://github.com/Connehito/cake-sentry) 一个将Sentry与CakePHP无缝集成以解决错误和异常的插件.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) -包含调试和维护工具的轻量级安装插件.
 - [Whoops plugin](https://github.com/dereuromark/cakephp-whoops) -适用于酷孩子的PHP错误和异常 [filp/whoops](https://github.com/filp/whoops).
@@ -275,7 +275,6 @@
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -建筑的听众 [JSON API](https://jsonapi.org/) 兼容的API.
 - [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) 用于您的API输出.
-- [RestApi plugin](https://github.com/multidots/cakephp-rest-api) -为构建REST API服务提供基本支持.
 
 ## Search
 *用于索引和执行数据查询的插件和软件.*

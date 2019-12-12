@@ -113,7 +113,7 @@
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) -Tailwind CSS的TypeScript类型.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) -生成Tailwind配置的Zeplin扩展.
 -  [Gatsby Plugin Tailwind CSS](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) -Gastby插件，可将Tailwind CSS与CSS-in-JS结合使用.
--  [Gridsome Plugin Tailwind CSS](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) -Gridsome插件，可将Tailwind CSS与PurgeCSS，postcss-import和postcss-env一起使用.
+-  [Gridsome Plugin Tailwind CSS](https://github.com/brandonpittman/gridsome-plugin-tailwindcss) -Gridsome插件，可将Tailwind CSS与PurgeCSS，postcss-import和postcss-env结合使用.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) -生成Tailwind类的ReasonML实用程序.
 -  [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) -React Native输入系统.
 -  [Alfred Workflow](https://github.com/clnt/alfred-tailwindcss-docs) -快速的Tailwind CSS文档搜索应用程序.
@@ -282,6 +282,7 @@
 - [Allan White](https://allanwhite.design/)
 - [Dance of Dawn](https://www.danceofdawn.com/)
 - [MOODZ Travel Gallery](https://moodz.yakovleva.dev/)
+- [Laravel Livewire](https://laravel-livewire.com/)
 
 ## Contribute
 

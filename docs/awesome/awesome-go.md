@@ -104,7 +104,7 @@
 
 * [1build](https://github.com/gopinath-langote/1build) -命令行工具，可轻松管理特定于项目的命令.
 * [argparse](https://github.com/akamensky/argparse) -受Python的argparse模块启发的命令行参数解析器.
-* [argv](https://github.com/cosiner/argv) -使用bash语法转到库以将命令行字符串拆分为参数数组.
+* [argv](https://github.com/cosiner/argv) -转到库以使用bash语法将命令行字符串拆分为参数数组.
 * [cli](https://github.com/mkideal/cli) -基于golang struct标签的功能丰富且易于使用的命令行包.
 * [cli](https://github.com/teris-io/cli) -用于在Go中构建命令行界面的简单而完整的API.
 * [cli-init](https://github.com/tcnksm/gcli) -开始构建Golang命令行应用程序的简单方法.
@@ -127,7 +127,7 @@
 * [go-getoptions](https://github.com/DavidGamba/go-getoptions) -Go选项解析器启发了Perl的GetOpt :: Long的灵活性.
 * [gocmd](https://github.com/devfacet/gocmd) -用于构建命令行应用程序的库.
 * [hiboot cli](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) -具有自动配置和依赖项注入的cli应用程序框架.
-* [job](https://github.com/liujianping/job) -工作，将您的短期命令作为一项长期工作.
+* [job](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
 * [kingpin](https://github.com/alecthomas/kingpin) -命令行和标志解析器支持子命令.
 * [liner](https://github.com/peterh/liner) -使用类似命令行的readline库.
 * [mitchellh/cli](https://github.com/mitchellh/cli) -用于实现命令行界面的Go库.
@@ -196,7 +196,7 @@
 * [godotenv](https://github.com/joho/godotenv) -转到Ruby的dotenv库的端口（从`.env`加载环境变量）.
 * [gofigure](https://github.com/ian-kent/gofigure) -轻松进行应用程序配置.
 * [gone/jconf](https://github.com/One-com/gone/tree/master/jconf)  -模块化JSON配置.  在不牺牲完整的配置序列化的情况下，使您的配置结构以及它们配置的代码以及将解析委派给子模块的过程.
-* [gookit/config](https://github.com/gookit/config)  -应用程序配置管理（加载，获取，设置）.  支持JSON，YAML，TOML，INI，HCL.  多文件加载，数据覆盖合并.
+* [gookit/config](https://github.com/gookit/config) - application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge.
 * [harvester](https://github.com/beatlabs/harvester) -Harvester，一个易于使用的静态和动态配置包，支持ig播种，env vars和Consul集成.
 * [hjson](https://github.com/hjson/hjson-go)  -Human JSON，人类的配置文件格式.  轻松的语法，更少的错误，更多的注释.
 * [ingo](https://github.com/schachmat/ingo) -标志保留在类似ini的配置文件中.
@@ -281,7 +281,7 @@
 * [ring](https://github.com/TheTannerRyan/ring) -实施高性能，线程安全的布隆过滤器.
 * [roaring](https://github.com/RoaringBitmap/roaring) -实施压缩位集的软件包.
 * [set](https://github.com/StudioSol/set) -使用LinkedHashMap在Go中简单设置数据结构.
-* [skiplist](https://github.com/MauriceGit/skiplist) - Very fast Go Skiplist implementation.
+* [skiplist](https://github.com/MauriceGit/skiplist) -非常快的Go Skiplist实施.
 * [skiplist](https://github.com/gansidui/skiplist) -Go中的Skiplist实现.
 * [timedmap](https://github.com/zekroTJA/timedmap) -具有过期的键/值对的地图.
 * [treap](https://github.com/perdata/treap) -使用树堆的持久，快速排序的地图.
@@ -757,7 +757,7 @@
 * [mac-activity-tracker](https://github.com/prashantgupta24/activity-tracker) - OSX library to notify about any (pluggable) activity on your machine.
 * [mac-sleep-notifier](https://github.com/prashantgupta24/mac-sleep-notifier) -使用golang的OSX睡眠/唤醒通知.
 * [robotgo](https://github.com/go-vgo/robotgo)  -进行本机跨平台GUI系统自动化.  控制鼠标，键盘等.
-* [systray](https://github.com/getlantern/systray) -跨平台转到库，以在通知区域中放置图标和菜单.
+* [systray](https://github.com/getlantern/systray) -跨平台转到库，将图标和菜单放置在通知区域中.
 * [trayhost](https://github.com/shurcooL/trayhost) -跨平台的Go库，用于在主机操作系统的任务栏中放置一个图标.
 
 
@@ -1024,6 +1024,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 
 *用于构造项目的非官方模式*
 
+* [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) -Go应用样板模板，用于遵循生产最佳实践的快速启动项目.
 * [go-sample](https://github.com/zitryss/go-sample) -具有实际代码的Go应用程序项目的示例布局.
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout) -Go生态系统中常见的历史和新兴项目布局模式集.
 * [modern-go-application](https://github.com/sagikazarmark/modern-go-application) -进入应用样板并应用现代实践的示例.
@@ -1550,7 +1551,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [toml](https://github.com/BurntSushi/toml) -TOML配置格式（带反射的编码器/解码器）.
 * 效用
     * [gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) -用于Go的基于消毒的誓言过滤器.
-    * [gotabulate](https://github.com/bndr/gotabulate) -使用Go轻松漂亮地打印表格数据.
+    * [gotabulate](https://github.com/bndr/gotabulate) - Easily pretty-print your tabular data with Go.
     * [kace](https://github.com/codemodus/kace) -涵盖常见首字母缩写的常见案例转换.
     * [parseargs-go](https://github.com/nproc/parseargs-go) -理解引号和反斜杠的字符串参数解析器.
     * [parth](https://github.com/codemodus/parth) -URL路径分段解析.
@@ -1722,7 +1723,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [mole](https://github.com/davrodpin/mole) -cli应用程序可轻松创建ssh隧道.
 * [mssqlx](https://github.com/linxGnu/mssqlx)  -数据库客户端库，任何主从服务器的代理，主主机结构.  轻巧且自动平衡.
 * [multitick](https://github.com/VividCortex/multitick) -多路复用器，用于对齐的行情.
-* [myhttp](https://github.com/inancgumus/myhttp) - Simple API to make HTTP GET requests with timeout support.
+* [myhttp](https://github.com/inancgumus/myhttp) -简单的API，可通过超时支持发出HTTP GET请求.
 * [okrun](https://github.com/xta/okrun) -去运行错误压路机.
 * [olaf](https://github.com/btnguyen2k/olaf) -Go中实现了Twitter Snowflake.
 * [onecache](https://github.com/adelowo/onecache) -缓存库，支持多个后端存储（Redis，Memcached，文件系统等）.
@@ -1789,7 +1790,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [terraform-validator](https://github.com/thazelart/terraform-validator) -Terraform的规范和约定验证器.
 * [validate](https://github.com/gookit/validate)  -进行数据验证和过滤的软件包.  支持验证Map，Struct，Request（Form，JSON，url.Values，Uploaded Files）数据和更多功能.
 * [validate](https://github.com/gobuffalo/validate) -该软件包提供了用于编写Go应用程序验证的框架.
-* [validator](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
+* [validator](https://github.com/go-playground/validator) -进行结构和场验证，包括跨场，跨结构，地图，切片和阵列潜水.
 
 ## Version Control
 
@@ -2111,7 +2112,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [orange-cat](https://github.com/noraesae/orange-cat) -用Go编写的Markdown预览器.
 * [Orbit](https://github.com/gulien/orbit) -用于运行命令并从模板生成文件的简单工具.
 * [peg](https://github.com/pointlander/peg) -Peg，解析表达式语法，是Packrat解析器生成器的实现.
-* [Pipe](https://github.com/b3log/pipe) -小型美观的博客平台.
 * [restic](https://github.com/restic/restic) -对备份程序进行重复数据删除.
 * [scc](https://github.com/boyter/scc) -Sloc Cloc and Code，一个非常快速的准确代码计数器，具有复杂度计算和COCOMO估计.
 * [Seaweed File System](https://github.com/chrislusf/seaweedfs) -具有O（1）磁盘查找功能的快速，简单和可扩展的分布式文件系统.

@@ -13,18 +13,19 @@
 ## Configs
 
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -最好的鲜为人知的eslint插件的集合，可与您的主要配置一起使用.
-- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -可共享的配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
+- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -共享配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) -为您的React / Vue / TypeScript项目进行渐进式ESLint配置.
-- [Canonical](https://github.com/gajus/eslint-config-canonical) -可共享的配置 [Canonical style guide](https://github.com/gajus/canonical).
+- [Canonical](https://github.com/gajus/eslint-config-canonical) -共享配置 [Canonical style guide](https://github.com/gajus/canonical).
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) -包含用于ESLint团队维护的项目的ESLint配置.
 - [ES](https://github.com/thenativeweb/eslint-config-es) -可共享的配置，用于非常严格的代码.
 - [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) -用于Facebook风格指南的可共享配置.
 - [Google](https://github.com/google/eslint-config-google) -的共享配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
 - [Problems](https://github.com/RyanZim/eslint-config-problems) -可共享的配置，仅捕获实际问题，并且不强制使用样式偏好.
-- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -可共享的配置 [Shopify's style guide](https://github.com/Shopify/javascript).
+- [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) -可共享的配置 [React](https://reactjs.org) 项目.
+- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -共享配置 [Shopify's style guide](https://github.com/Shopify/javascript).
 - [Standard](https://github.com/feross/eslint-config-standard) -JavaScript的共享配置 [Standard Style](https://github.com/feross/standard).
 - [Supermind](https://github.com/supermind/eslint-config-supermind) -Supermind风格的共享配置.
-- [XO](https://github.com/sindresorhus/eslint-config-xo) -可共享的配置 [XO](https://github.com/sindresorhus/xo).
+- [XO](https://github.com/sindresorhus/eslint-config-xo) -共享配置 [XO](https://github.com/sindresorhus/xo).
 
 ## Parsers
 

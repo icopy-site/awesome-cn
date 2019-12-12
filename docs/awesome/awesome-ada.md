@@ -103,7 +103,7 @@
 - [learn](https://learn.adacore.com/) -交互式学习平台，旨在教授Ada和SPARK编程语言.
 
 #### Tutorials
-- [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) - AdaCore University Video Tutorials.
+- [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) -AdaCore大学视频教程.
 - [ada-crash-course](http://www.pchapin.org/VTC/TutorialAda/AdaCrash.pdf) -佛蒙特州技术学院提供的Ada 2012速成课程少于50页.
 - [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) -通过编写简单的游戏学习Ada 2012.
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) -在SPARK中收集经过验证的功能和数据类型.
@@ -112,7 +112,7 @@
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) -Wikibooks上的Ada编程书.
 - [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) -2005年Ada蒸馏.
 - [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) -Ada 95：面向对象编程的技巧.
-- [ada-cpp-java](https://learn.adacore.com/books/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
+- [ada-cpp-java](https://learn.adacore.com/books/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) -通过SPARK的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  -安全可靠的软件.  2012年Ada邀请函.
 
@@ -172,6 +172,7 @@
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) -Green Hills Software为实时目标提供了业界首个经过充分验证的Ada Cross编译器系列.
 - [hac](https://sourceforge.net/projects/hacadacompiler/) -实验性有一个完整的编译器.
 - [byron](https://github.com/OneWingedShark/Byron) -Byron项目是社区驱动的Ada编译器，工具链和IDE系统.
+- [xgc](http://www.xgc.com/)  -XGC为基于航空航天特定目标（例如MIL1750，ERC32和LEON）的Ada95支持提供了基于GCC的裸机工具链.  以及旧版M68000工具链.
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) -基于CodingGround引擎构建的在线编译器.
@@ -182,11 +183,9 @@
 #### Integrated Development Editor
 <img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"> [The GNAT Programming Studio](https://raw.githubusercontent.com/AdaCore/gps)
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) -用于Visual Studio 2017的Ada语言集成.
-- [ada-vscode](https://marketplace.visualstudio.com/items?itemName=Entomy.ada) -Visual Studio Code支持Ada.
-
 
 #### Editors
-- [lea](https://sourceforge.net/projects/l-e-a/) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT之类的全面开发工具
+- [lea](https://sourceforge.net/projects/l-e-a/) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT的全面开发工具
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) -Gnu Emacs主模式，用于编辑Ada源.
@@ -198,7 +197,7 @@
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) -Ada和SPARK的Microsoft语言协议的Adacore服务器实现.
 - [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) -Ada语言对VS Code的支持.
 - [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) -Ada和GPR的基本语法突出显示.
-- [ada-utilities](https://github.com/Lucretia/ada-utilities)-VSCode扩展Ada程序员，提供了一些实用程序功能.
+- [ada-utilities](https://github.com/Lucretia/ada-utilities)- VSCode extension Ada programmers which provides a few utility functions.
 
 ## Deployment
 
@@ -245,7 +244,7 @@
 
 #### Components
 - [simple-components](http://www.dmitry-kazakov.de/ada/components.htm)  -B树，Chebyshev系列，密码术，双链接的网和列表，黑板（无锁），ELV / eQ-3 MAX！  客户端，事件（纯文本，脉冲，数组），GNUTLS绑定，图形（有向，加权，非循环，树），HTTP实现，FIFO（无锁），IEEE 754，进程间通信，MODBUS客户端，MQTT客户端服务器/代理，TCP，互斥对象，对象，ODBC绑定，解析器，持久性对象，持久性存储，池，集合，映射，SMTP客户端，SQLite绑定，堆栈，流，字符串编辑，表（字符串映射），无界数组.
-- [ada-util](https://github.com/stcarrez/ada-util/) -接近Java log4j框架的日志记录框架，支持属性，用于XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始文件，文件，缓冲区，管道，套接字），多个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库位于CURL或AWS.
+- [ada-util](https://github.com/stcarrez/ada-util/) -接近Java log4j框架的日志记录框架，支持属性，XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始文件，文件，缓冲区，管道，套接字），多个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库位于CURL或AWS.
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) -这是GNAT组件集合的核心模块.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) -这是GNAT组件集合的绑定模块.
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) -这是GNAT组件集合的DB模块.
@@ -323,7 +322,7 @@
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) -该程序包允许对多个变量的多项式进行形式化处理.
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) -绘制两个实变量的函数的库.
 - [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) -一组Ada软件包，可完全概括地计算尺寸标注的项目.
-- [mandelbrot_ascii](https://github.com/mosteo/mandelbrot_ascii) -Mandelbrot渲染器为“ ASCII”（实际上是unicode，但是仍然是文本）.
+- [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) -Mandelbrot渲染器为“ ASCII”（实际上是unicode，但是仍然是文本）.
 
 #### Algorithms, Containers and Protocols
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) -用于算法和容器的通用Ada库.
@@ -407,14 +406,14 @@
 - [adhcp](https://codelabs.ch/adhcp/index.html) -ADHCP是Ada中DHCP协议的实现.
 
 #### Web
-- [template-parser](https://github.com/AdaCore/templates-parser) - AWS templates engine.
+- [template-parser](https://github.com/AdaCore/templates-parser) -AWS模板引擎.
 
 #### Multimedia
 - [opengl-ada](https://github.com/flyx/OpenGLAda) -适用于OpenGL和GLFW的厚Ada绑定.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) -在Ada中实现的声音合成器库.
 - [engine-3d](https://sourceforge.net/projects/engine-3d) -用于DOS-talgics的3D引擎.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
-- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微音阶和大音阶音阶以及非西方音阶.
+- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，可用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微调和大调音阶以及非西方音阶.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) -Ada包，用于编写独立于语言的消息.

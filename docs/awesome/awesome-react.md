@@ -147,7 +147,7 @@
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
-- [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
+- [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
 - [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型keydown包装器
@@ -320,6 +320,7 @@
 - [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
 - [react-svg-morph - morph your svg components one into another](https://github.com/gorangajic/react-svg-morph)
 - [react-hooks-svgdrawing - SVG Drawing with React hooks](https://github.com/kmkzt/react-hooks-svgdrawing)
+- [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) -一个React组件，为SVG添加了平移和缩放功能.
 
 ##### Model Libraries
 
@@ -377,7 +378,7 @@
 - [Victory - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
-- [reaviz](https://github.com/jask-oss/reaviz) -基于D3.js的React数据可视化库
+- [reaviz](https://github.com/jask-oss/reaviz) - React Data Visualization Library based on D3.js
 - [react-vis - A React visualization library designed with the following principles in mind: React-friendly, high-level and customizable, expressive, and industry-strong.](https://github.com/uber/react-vis)
 - [nivo - It provides a rich set of data visualization components, built on top of the D3 and React libraries.](https://github.com/plouc/nivo)
 - [vx - A collection of reusable low-level visualization components. It combines the power of D3 to generate your visualization with the benefits of React for updating the DOM.](https://github.com/hshoff/vx)

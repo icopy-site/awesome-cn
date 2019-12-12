@@ -182,11 +182,11 @@ https://twitter.com/smkamranqadri
 主题：Angular，JavaScript，TypeScript，Node.js，Docker，持续集成，工具，自动化测试\
 https://twitter.com/narainsagar
 
-<img src="https://twitter.com/i_am_the_dev/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/_dev_nasir_/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **纳西尔·侯赛因** \
-主题：区块链，智能合约，JavaScript，数据库，Python，Arduino，持续集成\
-https://twitter.com/i_am_the_dev
+主题：网页设计，区块链，Python，物联网，持续集成，开发者生态系统\
+[https://twitter.com/\_dev_nasir_](https://twitter.com/_dev_nasir_)
 
 ## Singapore 🇸🇬
 
@@ -407,7 +407,7 @@ https://twitter.com/tereza_sokol
 <img src="https://twitter.com/pakastin/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Juha Lindstedt ** \
-主题：JavaScript，RE：DOM，渐进式Web应用程序，性能，标准，CSS，Node.js \
+主题：JavaScript，RE：DOM，渐进式Web应用，性能，标准，CSS，Node.js \
 https://twitter.com/pakastin
 
 <img src="https://twitter.com/varya_en/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -490,6 +490,12 @@ https://twitter.com/HugoGiraudel
 主题：平面设计，版式，品牌，用户体验\
 https://twitter.com/Lugotype
 
+<img src="https://twitter.com/ManuelBieh/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+曼努埃尔Bieh ** \
+主题：React，JavaScript，代码质量，干净代码，领导力，开发人员经验\
+https://twitter.com/ManuelBieh
+
 <img src="https://twitter.com/nataliepis/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 娜塔莉Pistunovich ** \
@@ -524,7 +530,7 @@ https://twitter.com/Srushtika
 
 ** Tejas Kumar ** \
 主题：JavaScript，React，WebAssembly，社区，团队，人文\
-[https://twitter.com/tejaskumar\_](https://twitter.com/tejaskumar_)
+[https://twitter.com/tejaskumar_](https://twitter.com/tejaskumar_)
 
 <img src="https://twitter.com/yoshuawuyts/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 

@@ -7,7 +7,7 @@
 精选的深奥编程语言和资源清单.
 
 
-&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以编程或作为玩笑，而不是用于实际用途.”  
+&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以被编程或作为玩笑，而不是实际使用.”  
 &gt; *** esolang.org ***
 
 
@@ -44,7 +44,7 @@
 * [Piet](http://www.dangermouse.net/esoteric/piet.html)  -使用颜色作为代码的程序看起来像抽象绘画的语言.  以Piet Mondrian的名字命名.
 * [Shakespeare](http://shakespearelang.sourceforge.net) -代码似乎是莎士比亚戏剧的语言.
 * [Suzy](https://github.com/gvx/suzy) -受Befunge启发的3D语言.
-* [Thue](https://github.com/jcolag/Thue) -基于半确定语法的不确定字符串重写的* Matrioshka *语言.
+* [Thue](https://github.com/jcolag/Thue) -* Matrioshka *语言，基于半确定语法的不确定性字符串重写.
 * [Unary](https://esolangs.org/wiki/Unary) -基于Brainfuck的语言，其中所有命令均为0.
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.
 * [Velato](http://velato.net) -使用MIDI文件作为源的语言，程序由音高和音高顺序定义.
@@ -52,6 +52,7 @@
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) -随时随地执行操作的语言.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) -仅使用白色字符（空格，制表符和换行符）.
 * [Z](https://esolangs.org/wiki/Z) -仅使用字母z.
+* [ZOMBIE](https://www.dangermouse.net/esoteric/zombie.html) -专为死灵法师设计的固有邪恶多线程语言.
 
 ## Algorithms
 
