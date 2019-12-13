@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Blockchain AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt;人工智能和机器学习区块链项目的精选列表.
+&gt;人工智能和机器学习的区块链项目精选清单.
 
-该列表探讨了利用区块链技术（分散化，不变性，智能合约等）的特性来构建下一代AI系统的令人敬畏的项目.
+该列表探索了一些很棒的项目，这些项目利用了区块链技术的特性（去中心化，不变性，智能合约等）来构建下一代AI系统.
 
 
 
@@ -12,83 +12,84 @@
 
 ### Wikipedia
 
-- [Blockchain](https://en.wikipedia.org/wiki/Blockchain)：“区块链是一个不断增长的记录列表，称为块，使用加密技术进行链接.”
-- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)：“在计算机科学领域，人工智能（AI），有时也被称为机器智能，是机器展示的智能，与人类和其他动物展示的自然智能形成鲜明对比.”
-- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)：“机器学习（ML）是算法和统计模型的科学研究，计算机系统使用它来有效地执行特定任务，而不使用明确的指令，而是依赖于模式和推理.”
+- [Blockchain](https://en.wikipedia.org/wiki/Blockchain)：“区块链是越来越多的记录列表，称为记录块，这些记录通过密码术链接在一起.”
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence): "In the field of computer science, artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals."
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)“机器学习（ML）是对算法和统计模型的科学研究，计算机系统使用这些算法和统计模型来有效地执行特定任务，而无需使用明确的指令，而是依靠模式和推理.”
 
 ### Blockchain, AI and Machine Learning
 
-- [Decentralizing AI: Dreamers vs. Pragmatists.](https://towardsdatascience.com/decentralizing-ai-dreamers-vs-pragmatists-230c48d1b350) - 耶稣罗德里格兹，2019年5月23日.
-- [How the Blockchain Could Break Big Tech’s Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) - 纽约时报，2018年10月20日.
-- [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) -  Hacker Noon，2018年6月7日.
-- [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) -  Fred Ehrsam，2018年3月13日.
-- [The convergence of AI and Blockchain: what’s the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc) -  Francesco Corea，2017年12月1日.
+- [Decentralizing AI: Dreamers vs. Pragmatists.](https://towardsdatascience.com/decentralizing-ai-dreamers-vs-pragmatists-230c48d1b350) -耶稣罗德里格斯，2019年5月23日.
+- [How the Blockchain Could Break Big Tech’s Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) -纽约时报，2018年10月20日.
+- [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) -黑客中午，2018年6月7日.
+- [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) -Fred Ehrsam，2018年3月13日.
+- [The convergence of AI and Blockchain: what’s the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc) -Francesco Corea，2017年12月1日.
 
 ## Foundations
 
-- [Decentralized AI Alliance (DAIA).](https://daia.foundation/) DAIA是人工智能和区块链相关生态系统的重要参与者联盟，共同解决共同挑战并创造美好未来.
+- [Decentralized AI Alliance (DAIA).](https://daia.foundation/) DAIA是AI和区块链相关生态系统中的重要参与者组成的联盟，共同致力于共同解决共同挑战并创造美好未来.
 
 ## Blockchains for AI algorithms
 
-- [SingularityNET](https://singularitynet.io/) -  SingularityNET是以太坊区块链上的分布式AI平台，每个区块链节点都备份AI算法.
-- [Intuition Fabric](https://intuitionfabric.com) -  Intuition Fabric的目标是通过存储在行星际文件系统上并通过以太坊区块链访问的深度学习模型网络实现对AI的访问民主化.
-- [Cerebrum](https://cerebrum.world/)   -  Cerebrum是众包机器学习的分散平台.  Cerebrum使任何人都可以加密他们的数据并主持机器学习竞赛，以利用众包机器学习模型. 
-- [OpenMined](https://openmined.org/)   -  OpenMined是一个专注于为分散的数据和情报所有权构建开源技术的社区.  通过OpenMined，AI可以接受从未访问过的数据的培训.
-- [Effect.ai](https://effect.ai) -  Effect.ai是一个区块链驱动的分散式平台，用于人工智能开发和AI相关服务.
-- [Decentralized Machine Learning](https://decentralizedml.com/) -  DML旨在创建基于区块链的分散式机器学习协议和生态系统.
-- [Raven Protocol](https://www.ravenprotocol.com/) -  Raven Protocol是一种分散的分布式深度学习培训协议.
-- [Thought Network](https://thought.live/) - 思想的支持区块链的Fabric通过将人工智能嵌入到每一位数据中，从根本上改变了应用程序，使其变得灵活，可操作且具有内在的安全性.
-- [MATRIX AI](https://www.matrix.io/) -  MATRIX是一个包含区块链和AI的平台，可以实现智能区块链.
-- [Pandora Boxchain](https://pandoraboxchain.ai/) - 由认知工作证明（PoCW）支持的AI内核，计算和大数据市场.
-- [Fitchain](https://fitchain.io/) -  Fitchain是一个基于区块链的机器学习工厂，它允许数据科学家训练模型，从开始到整个生命周期跟踪它们.
-- [Cortex Labs](https://www.cortexlabs.ai/) -  Cortex Labs是一个分散的AI平台，带有一个虚拟机，允许您在链上执行AI程序.
+- [SingularityNET](https://singularitynet.io/) -SingularityNET是以太坊区块链上的分布式AI平台，每个区块链节点都支持AI算法.
+- [Intuition Fabric](https://intuitionfabric.com) -Intuition Fabric的目标是通过存储在行星际文件系统上并通过以太坊区块链访问的深度学习模型网络，使对AI的访问民主化.
+- [Cerebrum](https://cerebrum.world/)  -Cerebrum是用于众包机器学习的去中心化平台.  Cerebrum使任何人都可以加密其数据并主持机器学习竞赛，以利用众包的机器学习模型. 
+- [OpenMined](https://openmined.org/)  -OpenMined是一个致力于构建开源技术以分散数据和情报所有权的社区.  借助OpenMined，可以对AI进行永远无法访问的数据培训.
+- [Effect.ai](https://effect.ai) -Effect.ai是一个区块链驱动的去中心化平台，用于人工智能开发和AI相关服务.
+- [Decentralized Machine Learning](https://decentralizedml.com/) -DML旨在创建基于区块链的去中心化机器学习协议和生态系统.
+- [Raven Protocol](https://www.ravenprotocol.com/) -Raven协议是一种分散式和分布式的深度学习培训协议.
+- [Thought Network](https://thought.live/) -Thought的支持区块链的Fabric通过将人工智能嵌入到每一个数据比特中来从根本上改变应用程序，从而使其变得敏捷，可操作且固有地安全.
+- [MATRIX AI](https://www.matrix.io/) -MATRIX是一个结合了区块链和AI的平台，可实现智能区块链.
+- [Pandora Boxchain](https://pandoraboxchain.ai/) -由认知工作证明（PoCW）支持的AI内核，计算和大数据市场.
+- [Fitchain](https://fitchain.io/) -Fitchain是基于区块链的机器学习工厂，它使数据科学家可以训练模型，从开始到整个生命周期都对其进行跟踪.
+- [Cortex Labs](https://www.cortexlabs.ai/) -Cortex Labs是带有虚拟机的去中心化AI平台，允许您在链上执行AI程序.
 
 ### Blockchain projects for AI algorithms
-- [Danku](https://github.com/algorithmiaio/danku) - 基于区块链的协议，用于评估和购买公共区块链（如以太坊）上的ML模型. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
-- [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) -  0xDeCA10B是一个框架，用于在智能合约中托管和培训公开可用的机器学习模型，其激励机制可以鼓励高质量的培训数据，同时保持模型可用于预测. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
+- [Danku](https://github.com/algorithmiaio/danku) -基于区块链的协议，用于在以太坊等公共区块链上评估和购买ML模型. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+- [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) -0xDeCA10B是一个框架，用于在智能合约中托管和培训可公开获得的机器学习模型，并具有激励机制，以鼓励高质量的培训数据，同时保持模型可免费用于预测. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ## Blockchains for data
 
-- [Ocean Protocol](https://oceanprotocol.com/)   - 海洋议定书是一种分散的数据交换协议，允许人们共享数据并从中获利，同时保证所有参与者的控制，可审计性，透明度和合规性.  它的网络处理元数据的存储（即谁拥有什么），数据本身的链接等等.
-- [Neuromation](https://neuromation.io/) - 合成数据集生成和算法训练平台.
-- [BOTTOS AI](https://bottos.org/) - 分散式AI数据共享网络，使用基于共识的应用程序平台，允许AI项目收集培训数据.
-- [Computable](https://www.computable.io/) - 用于人工智能应用的分散式数据市场.
-- [Synapse AI](https://blog.synapse.ai/) - 基于以太坊区块链的分散式全球数据市场.
-- [Neuromation.](https://neuromation.io/) - 深度学习应用程序的分布式综合数据平台.
+- [Ocean Protocol](https://oceanprotocol.com/)  -海洋协议是一种去中心化的数据交换协议，它使人们可以共享和货币化数据，同时保证对所有参与者的控制，可审计性，透明度和合规性.  它的网络处理元数据（即谁拥有什么）的存储，与数据本身的链接等等.
+- [Neuromation](https://neuromation.io/) -综合数据集生成和算法训练平台.
+- [BOTTOS AI](https://bottos.org/) -分散的AI数据共享网络，该网络使用基于共识的应用程序平台来允许AI项目收集培训数据.
+- [Computable](https://www.computable.io/) -人工智能应用的分散数据市场.
+- [Synapse AI](https://blog.synapse.ai/) -建立在以太坊区块链上的去中心化全球数据市场.
+- [Neuromation.](https://neuromation.io/) -用于深度学习应用程序的分布式合成数据平台.
 
 ## Blockchains for computation
 
-- [Neureal](https://neureal.net/) - 由区块链提供支持的开源，点对点AI超级计算.
-- [TrueBit](https://truebit.io/) -  TrueBit为以太坊智能合约提供了计算能力.
-- [DeepBrain Chain](https://www.deepbrainchain.org/) - 分散式人工智能计算平台，为希望开发人工智能技术的公司提供处理能力.
-- [AI Crypto](https://aicrypto.ai/) - AI Crypto is a blockchain-based ecosystem where AI resources such as GPU, models, and data are distributed in order to lower the cost of AI development.
+- [Neureal](https://neureal.net/) -由区块链支持的开源，对等AI超级计算.
+- [TrueBit](https://truebit.io/) -TrueBit为以太坊智能合约提供了计算上的提升.
+- [DeepBrain Chain](https://www.deepbrainchain.org/) -分散式AI计算平台，为希望开发AI技术的公司提供处理能力.
+- [AI Crypto](https://aicrypto.ai/) -AI Crypto是基于区块链的生态系统，其中分布了诸如GPU，模型和数据之类的AI资源，以降低AI开发的成本.
 
 ## Blockchains for AI in finance
 
-- [Numerai](https://numer.ai/) -  Numerai是一个由匿名数据科学家网络提供支持的对​​冲基金，该网络构建机器学习模型以对加密数据进行操作，并使用加密货币来表达对其模型的信心.
-- [Napoleon X](https://www.napoleonx.ai/) - 拿破仑X是一个开放的在线计算机驱动的资产管理平台，从世界级的交易者中选择定量策略（交易机器人），每个加密基金专用于特定的资产类别.
-- [Cindicator](https://cindicator.com/) -  Cindicator是一个众包预测引擎，用于财务和加密指标. 
-- [Erasure](https://erasure.xxx/) -  Erasure是一个用于财务预测的分散协议和数据市场.
+- [Numerai](https://numer.ai/) -Numerai是一个由匿名数据科学家网络提供支持的对​​冲基金，其建立机器学习模型以对加密数据进行操作并抵押加密货币以表达对其模型的信心.
+- [Napoleon X](https://www.napoleonx.ai/) -拿破仑X是一个开放的在线计算机驱动的资产管理平台，从世界一流的交易商中选择量化策略（交易机器人），每种加密货币专用于特定的资产类别.
+- [Cindicator](https://cindicator.com/) -Cindicator是针对金融和加密指标的众包预测引擎. 
+- [Erasure](https://erasure.xxx/) -擦除是用于财务预测的去中心化协议和数据市场.
 
 ## Blockchains for AI in medicine
 
-- [doc.ai](https://doc.ai/about) -  doc.ai旨在通过使用AI将精准医学分散到区块链上.
-- [BurstIQ](https://www.burstiq.com/)   - 具有细粒度所有权和细粒度数据同意的医疗保健数据市场.  通过在自定义区块链上使用链式存储，BurstIQ可以符合HIPAA，GDPR和其他法规.
+- [doc.ai](https://doc.ai/about) -doc.ai旨在通过使用AI在区块链上分散精准医学.
+- [BurstIQ](https://www.burstiq.com/)  -具有精细所有权和数据精细同意的医疗保健数据市场.  通过在自定义区块链上使用链上存储，BurstIQ可以遵守HIPAA，GDPR和其他法规.
+- [Vytalyx](https://vytalyx.io/) -Vytalyx是一家健康技术公司，计划使用AI和区块链来存储和分析医疗数据.
 
 ## Blockchains for AI in supply chains
 
-- [Namahe](https://namahe.io/) -  Namahe是一个旨在通过整合AI层为供应链行业带来效率的平台.
+- [Namahe](https://namahe.io/) -Namahe是一个旨在通过合并AI层为供应链行业带来效率的平台.
 
 ## Deadpool
 
 这些项目不再有效.
 
-- [Dopamine](https://dopamine.ai/) - 权力下放的AI劳动力和服务市场.
-- [Trane AI](http://www.trane.ai/) - 用于标记，存储和建模AI培训数据的分散经济.
-- [starmine AI](http://starmine.ai/) -  Starmine是一个强大且高度可扩展的平台，用于构建，交易和交换先进的算法生成的按需数据集，用于机器学习和人工智能工作.
+- [Dopamine](https://dopamine.ai/) -分散的AI劳动力和服务市场.
+- [Trane AI](http://www.trane.ai/) -用于标记，存储和建模用于AI培训的数据的分散式经济.
+- [starmine AI](http://starmine.ai/) -Starmine是一个健壮且高度可扩展的平台，用于构建，交易和交换先进的算法生成的按需数据集，以进行机器学习和人工智能工作.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Steven Van Vaerenbergh](https://github.com/steven2358) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Steven Van Vaerenbergh](https://github.com/steven2358) 放弃了此作品的所有版权以及相关或邻近的权利.

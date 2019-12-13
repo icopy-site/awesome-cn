@@ -59,7 +59,7 @@
 - [PDFKit](https://github.com/devongovett/pdfkit) -PDF生成库.
 - [turf](https://github.com/Turfjs/turf) -模块化地理空间处理和分析引擎.
 - [webcat](https://github.com/mafintosh/webcat) -使用WebRTC的p2p网络管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
-- [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
+- [NodeOS](https://github.com/NodeOS/NodeOS) -由npm支持的第一个操作系统.
 - [YodaOS](https://github.com/yodaos-project/yodaos) -AI操作系统.
 - [Brain.js](https://github.com/BrainJS/brain.js) -机器学习框架.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) -图论（又名网络）建模和分析.
@@ -82,7 +82,7 @@
 - [emoj](https://github.com/sindresorhus/emoj) -从命令行中的文本中找到相关的表情符号.
 - [pageres](https://github.com/sindresorhus/pageres) -捕获网站截图.
 - [cpy](https://github.com/sindresorhus/cpy) -复制文件.
-- [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
+- [vtop](https://github.com/MrRio/vtop) -更漂亮的顶部，漂亮的图表.
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空垃圾.
 - [is-up](https://github.com/sindresorhus/is-up) -检查网站是否正常运行.
 - [is-online](https://github.com/sindresorhus/is-online) -检查互联网连接是否正常.
@@ -125,7 +125,7 @@
 - [lessmd](https://github.com/linuxenko/lessmd) -在终端中降价.
 - [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) -找出哪些依赖性使您减速.
 - [localtunnel](https://github.com/localtunnel/localtunnel) -将您的本地主机公开.
-- [svg-term-cli](https://github.com/marionebl/svg-term-cli) -通过SVG分享终端会话.
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
 - [gtop](https://github.com/aksakalli/gtop) -终端的系统监控仪表板.
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成主题.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) -代码的精美图片-从终端内部直接显示.
@@ -290,7 +290,7 @@
 - [Next.js](https://github.com/zeit/next.js) -服务器呈现的通用JavaScript Web应用程序的简约框架.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) -服务器呈现的Vue.js应用程序的简约框架.
 - [seneca](https://github.com/senecajs/seneca) -编写微服务的工具包.
-- [AdonisJs](http://adonisjs.com) -用于Node.js的真正MVC框架，该框架建立在依赖注入和IoC容器的坚实基础上.
+- [AdonisJs](http://adonisjs.com) -基于Dependency Injection和IoC容器的坚实基础的Node.js的真正MVC框架.
 - [Hemera](https://github.com/hemerajs/hemera) -使用编写可靠且容错的微服务 [NATS](https://nats.io).
 - [Micro](https://github.com/zeit/micro) -带有异步方法的简约微服务框架.
 - [Moleculer](https://moleculer.services) -快速而强大的微服务框架.
@@ -304,7 +304,7 @@
 
 - [documentation.js](https://github.com/documentationjs/documentation) -API文档生成器，支持ES2015 +和流程注释.
 - [ESDoc](https://github.com/esdoc/esdoc) -针对ES2015的文档生成器，附带测试代码并衡量文档覆盖范围.
-- [Docco](https://github.com/jashkenas/docco) -文档生成器，该文档生成器生成一个HTML文档，该文档显示与代码混合的注释.
+- [Docco](https://github.com/jashkenas/docco) -文档生成器，该文档生成器生成一个HTML文档，该文档显示与代码混合在一起的注释.
 - [JSDoc](https://github.com/jsdoc3/jsdoc) -API文档生成器，类似于JavaDoc或PHPDoc.
 
 
@@ -316,7 +316,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除“ rm -rf”之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -稳定来自fs.watch和fs.watchFile的事件以及在macOS上使用本机fsevents的文件系统监视程序.
+- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机的fsevents.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -585,6 +585,7 @@
 - [abstruse](https://github.com/bleenco/abstruse) -持续集成服务器.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) -端到端测试.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) -无头铬.
+- [nve](https://github.com/ehmicky/nve) -在本地的多个版本的Node.js上运行任何命令.
 
 
 ### Security
@@ -659,7 +660,7 @@
 - [retext](https://github.com/wooorm/retext) -可扩展的自然语言系统.
 - [franc](https://github.com/wooorm/franc) -检测文字的语言.
 - [leven](https://github.com/sindresorhus/leven) -使用Levenshtein距离算法测量两个字符串之间的差异.
-- [natural](https://github.com/NaturalNode/natural) -自然语言设施.
+- [natural](https://github.com/NaturalNode/natural) - Natural language facility.
 - [nlp.js](https://github.com/axa-group/nlp.js) -具有实体提取，情感分析，自动语言识别等功能的构建机器人.
 
 
@@ -723,7 +724,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) -获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) -获取超级恶名.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) -得到一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍˄·༝·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍˄·͈·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”`.
 - [nerds](https://github.com/SkyHacks/nerds) -从诸如哈利·波特，星球大战和神奇宝贝等讨厌的话题中获取数据.
 
 
@@ -839,7 +840,7 @@
 ### Blogs
 
 - [Node.js blog](https://nodejs.org/en/blog/)
-- [webapplog.com](http://webapplog.com/tag/node-js/) -实用Node.js和Pro Express.js的作者Azat Mardan撰写的有关Node.js和JavaScript的博客文章.
+- [webapplog.com](http://webapplog.com/tag/node-js/) -实用Node.js和Pro Express.js Azat Mardan的作者撰写的有关Node.js和JavaScript的博客文章.
 
 ### Courses
 

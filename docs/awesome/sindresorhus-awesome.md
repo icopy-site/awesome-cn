@@ -53,7 +53,7 @@
 <div align="center">
 	<p>
 		<a href="https://triplebyte.com/a/aZxgKGg/d">
-			<b>找工作吗？</b>
+			<b>找工作？</b>
 			<br>
 			 无需简历.  只要证明您可以编码即可.
 			<br>
@@ -265,6 +265,7 @@
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics#readme) -有助于了解页面速度和用户体验的指标.
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) -实用程序优先的CSS框架，用于快速的UI开发.
+- [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) -用于创建在WebAssembly中运行的Web应用程序的Rust框架.
 
 
 ## Back-End Development
@@ -499,7 +500,7 @@
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) -Django CMS专注于灵活性和用户体验.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) -基于PHP的轻量级CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) -基于PHP的可扩展CMS.
-- [Craft CMS](https://github.com/craftcms/awesome#readme) -内容优先的CMS.
+- [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
 
 
 ## Hardware
@@ -547,7 +548,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) -开源分布式结算网络.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) -非金融区块链应用.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) -开源分散式微博网络.
-- [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+- [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) -用于智能合约开发的分布式计算平台.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) -人工智能和机器学习的区块链项目.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) -支持工业规模应用程序的分散式操作系统.
 
