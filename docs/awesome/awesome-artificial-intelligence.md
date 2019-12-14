@@ -50,6 +50,7 @@
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) -介绍最有价值的机器学习技术的抢先体验书.
 * [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai) -介绍如何管理成功的AI项目以及如何将AI应用于现实生活中.
 * [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) -《人工智能入门》是一门免费的在线课程，适合所有有兴趣学习什么是人工智能，人工智能有可能（或不可能）以及它如何影响我们生活的人们，而无需复杂的数学或编程.
+* [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) -有关NLP的动手指南，包括实用技术，大量基于Python的示例和实际案例研究.
 
 ## Books
 
@@ -69,18 +70,18 @@
 * [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8)  -我们的最终发明探索了盲目追求高级AI的危险.  到目前为止，人类智能还没有竞争对手.  我们可以与智力相形见being的生物共存吗？  他们会允许我们这样做吗？
 * [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) -Google工程总监Ray Kurzweil探索了对大脑进行逆向工程的过程，以精确地了解其工作原理，然后运用这些知识来制造出高度智能的机器.
 * [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)  -哲学家约翰·塞尔（John Searle）在1980年发表的论文，其中包含著名的“中国房间”思想实验.  可能是对具有“思维”或“意识”的强大AI概念最著名的攻击，对于那些对AI与思维哲学交叉感兴趣的人来说，这是有趣的阅读.
-* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) -由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写，并标有“以刘易斯·卡罗尔（Lewis Carroll）精神对机器进行隐喻的赋格”，这一奇妙的旅程进入了数学，对称性和智力的基本概念，并因此赢得了1979年普利策非小说奖.贯穿整个主题的主题是看似无意义的元素（例如1和0）以特殊模式排列的意义的出现.
+* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) -由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写，并标有“以刘易斯·卡罗尔（Lewis Carroll）精神对机器进行隐喻的赋格”，这条奇妙的旅程进入了数学，对称性和智力的基本概念，并因此赢得了1979年普利策非小说奖.贯穿整个主题的主题是看似无意义的元素（例如1和0）以特殊模式排列的意义的出现.
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) -麻省理工学院物理学教授马克斯·泰格马克（Max Tegmark）讨论了人工智能如何在不久的将来影响犯罪，战争，正义，工作，社会以及我们对人的情感.
 
 
-* [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) -本书由剑桥大学出版社出版，2010年
+* [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press, 2010
 * [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) -本书追溯了该主题的历史，从18世纪（及更早）的先驱者的梦想到如今的AI工程师的更成功的工作.
 * [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) -本课程广泛介绍了机器学习和统计模式识别.
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/)  -本书涵盖人类活动的计算机模拟，例如问题解决和自然语言理解；  计算机视觉;  人工智能工具和技术；  人工智能编程入门；  认知的符号和神经网络模型；  头脑和智力的性质；  以及AI和认知科学的社会意义.
-* [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
+* [Society of Mind](http://aurellem.org/society-of-mind/index.html)  -马文·明斯基（Marvin Minsky）关于我们的思想运作方式的开创性著作.  从此基础上衍生出许多符号AI概念.
 * [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) -本书旨在帮助在职和在职教师了解当前使用人工智能作为解决问题和完成任务的辅助手段的一些教育意义.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) -Scholarpedia是由世界各地的学术专家撰写和维护的，经过同行评审的开放获取百科全书.
-* [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) -比尔·希伯德（Bill Hibbard）撰写的书，其中结合了一些同行评审的论文和新材料，以分析道德人工智能的问题.
+* [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) -比尔·希伯德（Bill Hibbard）撰写的书，其中结合了一些同行评审的论文和新材料，以分析道德人工智能问题.
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) -有关人工智能和机器学习的页面集.
 * [R2D3](http://www.r2d3.us/)  -一个网站，提供有关从机器学习到统计的主题的解释.  所有这些都为美丽的动画图表和现实生活示例提供了帮助.  提供多种语言.
 

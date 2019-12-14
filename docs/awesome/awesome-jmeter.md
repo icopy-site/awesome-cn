@@ -1,13 +1,22 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome JMeter 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md)
+<p align="right">
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <a href="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/contributing.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
+</p>
+<br>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/assets/images/awesome-jmeter_square.svg?sanitize=true" alt="Awesome JMeter">
+</p>
+<br>
+<p align="center">
+    <h1 align="center">很棒的JMeter </h1>
+    <p align="center">精选的资源集合，涵盖<a href="http://jmeter.apache.org/">Apache JMeter</a>以及相关的东西和闪亮的东西：插件，集成，测试技术，devops实践等. </p>
+    <br>
+</p>
 
-[<img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/jmeter-logo.svg?sanitize=true" align="right" width="260">](http://jmeter.apache.org/)
+[<img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/assets/images/jmeter-logo.svg?sanitize=true" align="right" width="260" alt="Apache JMeter">](http://jmeter.apache.org/)
 
-&gt;精选的资源涵盖 [Apache JMeter](http://jmeter.apache.org/) 以及相关资源和闪亮的事物：插件，集成，测试技术，开发实践等.
-
-The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应用程序，旨在加载测试功能行为并衡量性能.
+&gt; [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应用程序，旨在加载测试功能行为并衡量性能.
 
 这个名单是从 [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和与JMeter相关的个人链接集，从中获得了进一步的启发 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/graphs/contributors).
 
@@ -25,7 +34,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 ## Distributions
 
 - [Download Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) -Apache JMeter：官方下载.
-- [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) -带有插件的安装JMeter的软件包.
+- [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) -带有插件的JMeter安装软件包.
 
 ## Getting Started
 
@@ -43,7 +52,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
     - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) -重播Apache日志.
 - [Concurrent, High Throughput Performance Testing with JMeter](https://planet.jboss.org/post/concurrent_high_throughput_performance_testing_with_jmeter)
 - [Functional Testing with JMeter](https://hub.packtpub.com/functional-testing-jmeter/)
-- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter) @ InfoSec Institute
+- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter) @ InfoSec学院
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) @教程点
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
@@ -62,7 +71,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 ## Scripting
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
-- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) -使用JMeter和Groovy进行负载测试.
+- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 - [JMeter: forget about BeanShell Sampler](https://habr.com/ru/post/250731/) *（俄语）*
 
 ## Automation
@@ -167,7 +176,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 -使用石墨和格拉法纳
     -*待定*
 -使用InfluxDB和Grafana
-    - [Using JMeter with InfluxDB & Grafana](http://www.vinsguru.com/category/influxdb/) -使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
+    - [Using JMeter with InfluxDB & Grafana](http://www.vinsguru.com/category/influxdb/) -收集使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
     - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
     -Grafana仪表板
         - [JMeter Load Test Dashboard](https://grafana.com/dashboards/1152) 通过NovaTec-APM

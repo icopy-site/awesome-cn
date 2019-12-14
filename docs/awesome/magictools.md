@@ -25,7 +25,7 @@
 
 Graphics
 --------
-*出色的图形占位符和工具，可以将方形游戏变成毕加索画作*
+*出色的图形占位符和工具，可以将平方游戏变成毕加索画作*
 
 #### Assets/Placeholders
 
@@ -39,6 +39,7 @@ Graphics
 * ：自由： [Iconmonstr](http://iconmonstr.com/) -您游戏的另一个免费图标资源.
 *：money_with_wings： [Kenney Assets](http://kenney.nl/assets) -免税资产
 * ：自由： [Liberated Pixel Cup assets](http://lpc.opengameart.org) -OpenGameArt论坛举办的解放像素杯（LPC）的免费图形资产
+* ：自由： [Matcaps](https://github.com/nidorx/matcaps#matcaps) -巨大的PNG和ZMT matcap纹理库，按颜色组织.
 * ：自由： [OpenClipart](https://openclipart.org/) -免费剪贴画的集合.
 * ：自由： [OpenGameArt](http://opengameart.org/) -旨在与免费软件游戏项目一起使用的媒体存储库.
 * ：钱袋子： [Oryx Design Lab](http://oryxdesignlab.com/) -便宜的高质量免版税精灵
@@ -59,7 +60,7 @@ Graphics
 *：然后： [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) -Libgdx内置的Texture Packer
 * ：自由： [Littera](http://kvazars.com/littera) -位图字体生成器
 * ：自由： [ShoeBox](http://renderhjs.net/shoebox/) -具有游戏和ui相关工具的基于Adobe Air的应用程序.
-*：然后： [Sprite Sheet Packer](https://github.com/nickgravelyn/SpriteSheetPacker/) - Combine multiple images into a single sprite sheet and generate a txt map of it.
+*：然后： [Sprite Sheet Packer](https://github.com/nickgravelyn/SpriteSheetPacker/) -将多个图像组合到一个精灵表中，并为其生成txt映射.
 *：money_with_wings： [TexturePacker](https://www.codeandweb.com/texturepacker) -出色的Spritesheet创建编辑器.
 
 #### Bitmap Compression
@@ -74,7 +75,7 @@ Graphics
 
 #### Texture Tools
 
-* ：钱袋子： [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
+* ：钱袋子： [FilterForge](https://www.filterforge.com/) -Adobe Photoshop的插件，可让您构建自己的滤镜.
 * ：自由： [Live Normal](https://tenebrislab.github.io/livenormal/)  -一个Android和iOS应用，可随时随地生成无缝材料.  拍照后，“实时法线”将创建可平铺的纹理并生成纹理图，以供您选择的PBR引擎使用.
 * ：钱袋子： [PixPlant](http://www.pixplant.com/) -PixPlant是一款智能3D纹理工具，可从照片创建高质量的法线，位移，镜面贴图和无缝纹理.
 * ：钱袋子： [STG](http://www.seamlesstexturegenerator.com/) -用于快速，轻松地从照片创建专业的无缝平铺纹理的工具.
@@ -113,7 +114,7 @@ Graphics
 *：money_with_wings： [Paint.NET](http://www.getpaint.net/) -Paint.NET是用于运行Windows的PC的免费图像和照片编辑软件.
 * ：钱袋子： [Pickle](http://www.pickleeditor.com/) -另一位像素艺术编辑.
 * ：自由： [PiskelApp](http://www.piskelapp.com/) -免费的在线像素艺术和动画精灵工具.
-* [Pixelmator](http://www.pixelmator.com) -适用于Mac的全功能图像编辑应用程序
+* [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
 * ：钱袋子： [Pixen](https://github.com/Pixen/Pixen) -OSX像素艺术编辑器
 * ：自由： [project one](http://p1.untergrund.net)  -Commodore 64的图片转换器和编辑器，涵盖了此计算机的不同图形模式.  仅Windows
 * ：钱袋子： [PXL8](http://www.pxl8.it) -正在开发中的跨平台（Windows，Mac，Linux）像素艺术编辑器，旨在消除干扰
@@ -162,7 +163,7 @@ Code
 
 * ：自由： [Agen](http://2dengine.com) -用于使用Lua，兼容的iOS，Mac和Windows设备制作2D游戏的跨平台框架.
 *：然后： [Allegro](http://liballeg.org/) -Allegro 4和5是跨平台的，开放源代码的游戏编程库，主要用于C和C ++开发人员.
-*：然后： [Amethyst](https://www.amethyst.rs/) -使用`gfx-rs`为2D和3D用Rust编写的数据驱动游戏引擎.
+*：然后： [Amethyst](https://www.amethyst.rs/) -使用`gfx-rs`用Rust编写的用于2D和3D的数据驱动游戏引擎.
 *：然后： [amulet](http://www.amulet.xyz/)  -一个基于Lua的免费视听工具包，适用于小型游戏和实验.  它可以在Windows，Mac，Linux，HTML5和iOS上运行.
 *：然后： [AndEngine](http://www.andengine.org) -2D Android游戏引擎
 *：然后： [Azul3D](http://azul3d.org/) -用Go语言编写的3D引擎.
@@ -175,7 +176,7 @@ Code
 *：然后： [Box2D](http://box2d.org/) -游戏的2D物理引擎.
 *：然后： [Bullet](http://bulletphysics.org/wordpress/) -实时物理模拟.
 *：然后： [Cerberus X](https://www.cerberus-x.com/wordpress/) -多平台编程语言和交叉编译器，旨在进行快速的游戏编程.
-*：然后： [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) -按需付费，用C ++编写的下一代3D游戏引擎.
+*：然后： [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) -支付您想要的用C ++编写的下一代3D游戏引擎.
 *：然后： [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 *：然后： [Chipmunk2D](https://chipmunk-physics.net/) -快速，轻量的2D游戏物理库.
 *：然后： [Cinder](https://libcinder.org/) -Cinder是社区开发的免费开放源代码库，用于使用C ++进行专业质量的创意编码.
@@ -194,8 +195,9 @@ Code
 *：然后： [ENGi](https://github.com/ajhager/engi) -用于Go的多平台2D游戏库.
 *：然后： [engo](https://engoengine.github.io/) -Engo是用Go语言编写的开源2D游戏引擎.
 *：然后： [Ebiten](https://ebiten.org/) -Go中已死的简单2D游戏库.
+*：然后： [ecs-lib](https://github.com/nidorx/ecs-lib#readme)  -** ecs-lib **是一个小巧易用的ECS（实体组件系统）库，用于游戏编程.  它是用Typescript编写的，但是您也可以在node.js和Web浏览器上使用.
 *：然后： [Ejecta](http://impactjs.com/ejecta) -适用于iOS的快速，开源JavaScript，画布和音频实现.
-*：然后： [EnchantJS](http://enchantjs.com/) -用于创建游戏和应用程序的简单JavaScript框架.
+*：然后： [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
 *：然后： [EnTT](https://github.com/skypjack/entt) -游戏符合现代C ++，快速可靠的实体组件系统（ECS）等
 *：然后： [FXGL](https://github.com/AlmasB/FXGL) -适用于Win / Mac / Linux的JavaFX / Kotlin游戏引擎.
 *：然后： [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) -具有逼真的物理响应的碰撞检测系统.
@@ -247,7 +249,7 @@ Code
 *：然后： [Monogame](http://www.monogame.net/) -Microsoft XNA 4 Framework的开源实现.
 *：然后： [Nakama](https://github.com/heroiclabs/nakama) -用于社交和实时游戏和应用程序的分布式服务器.
 * ：自由： [NodeBox](https://www.nodebox.net/) -创建生成设计的Python工具家族.
-*：然后： [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
+*：然后： [nuklear](https://github.com/vurtun/nuklear) -用ANSI C编写的简约即时模式GUI工具包.
 *：然后： [ODE](http://www.ode.org/) -ODE是用于模拟刚体动力学的开源高性能库.
 *：然后： [Ogre3D](http://www.ogre3d.org/) -是用C ++编写的面向场景的实时，灵活的3D渲染引擎（与游戏引擎相对）.
 *：然后： [OpenFL](http://www.openfl.org/) -用于制作多平台游戏的开源Haxe引擎.
@@ -321,7 +323,7 @@ Audio
 * ：自由： [Audiotool](http://www.audiotool.com/app) -在线音乐制作人.
 * ：自由： [Bfxr](http://www.bfxr.net/) -制作计算机游戏音效的工具.
 * ：自由： [Bosca Ceoil](http://boscaceoil.net/)  -Terry Cavanagh制作的在线（以及台式机）音乐制作人.  简单直观，具有鲜明的复古声音.
-* ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线声音效果生成器
+* ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线音效发生器
 * ：自由： [FamiTracker](http://famitracker.com/) -免费的Windows跟踪器，用于为NES / Famicom系统制作音乐.
 * ：自由： [iNudge](http://tonematrix.audiotool.com) -在线创建声音模式.
 *：然后： [jfxr](http://jfxr.frozenfractal.com) -Bfxr音效生成器的JavaScript端口.
@@ -340,7 +342,7 @@ Audio
 * ：自由： [Boardgamizer](http://www.boardgamizer.com/) -棋盘游戏设计理念生成器.
 *：然后： [RPTools](http://www.rptools.net/) -旨在增强传统笔和纸角色扮演游戏的开源程序品牌.
 
-必看
+Must see
 --------
 *博客，门户网站，杂志等*
 

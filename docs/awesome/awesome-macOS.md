@@ -221,7 +221,7 @@
 - [Finicky](https://johnste.github.io/finicky/)  -允许您设置规则的应用程序，该规则决定为每个链接打开哪个浏览器.  [！[开源软件] [OSS图标]]（https://github.com/johnste/finicky）！[免费软件] [免费软件图标]
 - [Flotato](https://flotato.com/) -使用任何网站作为精美的Mac应用程序.
 - [Fluid](http://fluidapp.com/) -将Web应用程序转换为Mac应用程序.
-- [gfxCardStatus](https://gfx.io/)  -菜单栏应用程序，用于监视MacBook Pro上的集成GPU和离散GPU并在其中切换.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
+- [gfxCardStatus](https://gfx.io/)  -菜单栏应用程序，用于监控MacBook Pro上集成的和离散的GPU并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
 - [Gray](https://github.com/zenangst/Gray)  -只需按一下按钮，即可在每个应用程序的亮色和暗色之间进行选择.  [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）！[免费软件] [免费软件图标]
 - [Helium](http://heliumfloats.com/)  -浮动的浏览器窗口，可让您在工作时观看媒体.  [！[开源软件] [OSS图标]]（https://github.com/JadenGeller/Helium）！[免费软件] [免费软件图标]
 - [Irvue](http://irvue.tumblr.com)  -Mac上成千上万的Unsplash精美照片和壁纸.  [！[开源软件] [OSS图标]]（https://github.com/leonspok/Irvue-Screensaver）！[免费软件] [免费软件图标]
@@ -279,6 +279,7 @@
 - [Amethyst](http://ianyh.com/amethyst/)  -窗口管理器（自动将窗口调整为网格大小）.  [！[开源软件] [OSS图标]]（https://github.com/ianyh/Amethyst）！[免费软件] [免费软件图标]
 - [Divvy Window Manager](http://mizage.com/divvy/) -用于平铺窗口的窗口管理.
 - [Hammerspoon](http://www.hammerspoon.org/)  -适用于macOS的极其强大的脚本引擎.  [！[开源软件] [OSS图标]]（https://github.com/Hammerspoon/hammerspoon）！[免费软件] [免费软件图标]
+- [Hummingbird](https://hummingbirdapp.site/) -在窗口内的任何位置，无需单击鼠标即可轻松移动和调整窗口大小.
 - [Moom](https://manytricks.com/moom/) -移动和缩放窗口，超轻量且可定制.
 - [Phoenix](https://github.com/kasper/phoenix)  -可使用JavaScript编写脚本的轻量级窗口和应用程序管理器.  [！[开源软件] [OSS图标]]（https://github.com/Hammerspoon/hammerspoon）！[免费软件] [免费软件图标]
 - [Rectangle](https://rectangleapp.com/)  -无需使用鼠标即可轻松组织窗口.  [！[开源软件] [OSS图标]]（https://github.com/rxhanson/Rectangle）！[免费软件] [免费软件图标]

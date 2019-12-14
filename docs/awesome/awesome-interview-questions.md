@@ -8,7 +8,24 @@
 
 请阅读 [contribution guidelines](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/contributing.md) 或者 [creating a list guide](https://github.com/MaximAbramchuck/awesome-interview-questions/blob/master/create-list.md) 如果你想贡献.
 
-**检查我 [channel](https://t.me/botcube) 要么 [blog](https://medium.com/@MaximAbramchuk).**
+---
+
+<div align="center">
+	<p>
+		<a href="https://triplebyte.com/a/TfjWb6Y/d">
+			<b>找工作？</b>
+			<br>
+			 无需简历.  只要证明您可以编码即可.
+			<br>
+			<div>
+				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
+			</div>
+		</a>
+		<sub></sub>
+	</p>
+</div>
+
+---
 
 
 
@@ -371,6 +388,7 @@
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
+* [10 Essential WordPress Interview Questions](https://www.toptal.com/wordpress/interview-questions)
 
 ### TypeScript
 
@@ -510,7 +528,8 @@
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+* [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+* [Design Pattens implemented in DotNet](https://www.dofactory.com/net/design-patterns)
 
 ## Data structures
 

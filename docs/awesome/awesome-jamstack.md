@@ -61,6 +61,7 @@
 - [Hopper](https://travel.hopper.com/) -建立在盖茨比上，并托管在Netlify上.
 - [VSCode Power User Course](https://vscode.pro/) -基于Gatsby并托管在Netlify上的PWA.
 - [CloudyCam](https://CloudyCam.dev/) -基于Next.js并托管在Zeit Now v2无服务器平台上的PWA.
+- [FbaMonthly](https://www.fbamonthly.com) -托管在由Jekyll，Netlify Functions和Netlify Forms构建的Netlify上.
 
 ## Static Site Generators
 
@@ -161,7 +162,7 @@
   - [BigQuery](https://cloud.google.com/bigquery/) -无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) -无服务器的机器学习服务，可在自定义Google硬件（张量处理单元）上自动扩展.
 - [Serverless](https://serverless.com/) -用于部署和操作无服务器架构的工具包.
-- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，以简化管理媒体，CDN，存储，转换等的工作.
+- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，从而轻松管理媒体，CDN，存储，转换等.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
