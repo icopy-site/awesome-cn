@@ -1,17 +1,16 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="right">
-    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <a href="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/contributing.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a> <a href="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/contributing.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
 </p>
 <br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/assets/images/awesome-jmeter_square.svg?sanitize=true" alt="Awesome JMeter">
 </p>
-<br>
 <p align="center">
     <h1 align="center">很棒的JMeter </h1>
     <p align="center">精选的资源集合，涵盖<a href="http://jmeter.apache.org/">Apache JMeter</a>以及相关的东西和闪亮的东西：插件，集成，测试技术，devops实践等. </p>
-    <br>
+    <br><br>
 </p>
 
 [<img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/assets/images/jmeter-logo.svg?sanitize=true" align="right" width="260" alt="Apache JMeter">](http://jmeter.apache.org/)

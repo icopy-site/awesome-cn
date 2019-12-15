@@ -73,6 +73,7 @@
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 - [Inside Fiber: In-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
+- [Entire React code base explanation by visual block schemes](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)
 
 ##### React Interview Questions
 
@@ -125,9 +126,9 @@
 - [reactstrap](https://github.com/reactstrap/reactstrap) -简单的React Bootstrap 4组件
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) -官方的语义UI集成
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) -用于React的Font Awesome 5组件库
-- [Reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
+- [reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
 - [rsuite](https://github.com/rsuite/rsuite) -一套React组件
-- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2/src/master/) -根据Atlassian设计指南构建的Atlassian官方UI库.
+- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -根据Atlassian设计指南构建的Atlassian官方UI库.
 
 ##### React Awesome Components
 
@@ -142,6 +143,7 @@
 - [react-resizable](https://github.com/strml/react-resizable) -一个简单的React组件，可以通过手柄调整其大小
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -React的可调整大小的组件
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) -React的可排序和可调整大小的窗格组件
+- [react-spaces](https://github.com/aeagle/react-spaces) -可调整大小，可锚定，可滚动的嵌套组件
 - [react-dates](https://github.com/airbnb/react-dates) -适用于网络的易于国际化，移动友好的日期选择器库
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
@@ -149,7 +151,7 @@
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
 - [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
-- [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
+- [react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
 - [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型keydown包装器
 - [react-joyride](https://github.com/gilbarbara/react-joyride) -为您的应用程序创建导览
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) -React组件，可有效呈现大型列表和表格数据
@@ -217,17 +219,11 @@
 
 - [React Rails](https://github.com/reactjs/react-rails)
 - [ReactJS.NET](https://github.com/reactjs/React.NET)
-- [React ASP.NET Boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate)
-- [React Bootstrap Components Playground](http://gcanti.github.io/resources/tcomb-react-bootstrap/playground/playground.html)
 - [om - ClojureScript interface](https://github.com/swannodette/om)
-- [quiescent - A lightweight ClojureScript abstraction over React](https://github.com/levand/quiescent)
 - [Reagent - A minimalistic ClojureScript interface to React.js](https://github.com/reagent-project/reagent)
-- [react-haskell - React bindings for Haskell](https://github.com/joelburget/react-haskell)
 - [Express React views](https://github.com/reactjs/express-react-views)
-- [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
 - [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 - [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
-- [React Laravel](https://github.com/talyssonoc/react-laravel)
 - [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
 - [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
 - [react-kup - A simple, non-intrusive alternative to jsx for coffeescript](https://github.com/snd/react-kup)
@@ -322,13 +318,6 @@
 - [react-hooks-svgdrawing - SVG Drawing with React hooks](https://github.com/kmkzt/react-hooks-svgdrawing)
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) -一个React组件，为SVG添加了平移和缩放功能.
 
-##### Model Libraries
-
-- [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
-- [NestedTypes - fast mutable models with "pure render" support](https://github.com/Volicon/NestedTypes)
-- [swarm - JavaScript replicated model (M of MVC) library](https://github.com/gritzko/swarm)
-- [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
-
 ##### Data Managing
 
 - [Immutable.js - Immutable Data Collections for Javascript](https://github.com/immutable-js/immutable-js)
@@ -341,7 +330,6 @@
 - [freezer-js - Lightweight and reactive immutable data structure for React](https://github.com/arqex/freezer)
 - [baobab - JavaScript persistent and optionally immutable data tree with cursors](https://github.com/Yomguithereal/baobab)
 - [baobab-react - React integration for Baobab](https://github.com/Yomguithereal/baobab-react)
-- [datascript - Immutable database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
 - [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
 - [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
 - [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
@@ -378,7 +366,7 @@
 - [Victory - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
-- [reaviz](https://github.com/jask-oss/reaviz) - React Data Visualization Library based on D3.js
+- [reaviz](https://github.com/jask-oss/reaviz) -基于D3.js的React数据可视化库
 - [react-vis - A React visualization library designed with the following principles in mind: React-friendly, high-level and customizable, expressive, and industry-strong.](https://github.com/uber/react-vis)
 - [nivo - It provides a rich set of data visualization components, built on top of the D3 and React libraries.](https://github.com/plouc/nivo)
 - [vx - A collection of reusable low-level visualization components. It combines the power of D3 to generate your visualization with the benefits of React for updating the DOM.](https://github.com/hshoff/vx)
@@ -807,10 +795,10 @@
 
 ### Real apps
 
-- [Firefox debugger](https://github.com/devtools-html/debugger.html)
-- [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
-- [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
-- [Mattermost – Open source Slack alternative](https://github.com/mattermost/mattermost-webapp)
+- [Kibana](https://github.com/elastic/kibana) -您进入弹性堆栈的窗口
+- [Firefox debugger](https://github.com/firefox-devtools/debugger) -可以在任何地方使用的Firefox调试器
+- [Spectrum](https://github.com/withspectrum/spectrum) –简单，强大的在线社区
+- [Mattermost](https://github.com/mattermost/mattermost-webapp) -开源Slack替代
 
 ---
 

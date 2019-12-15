@@ -17,7 +17,7 @@
 
  **无头CMS **是仅后端的内容管理系统（CMS）.  其目的是提供内容并使其可以通过API（例如REST或GraphQL）进行访问.
 
- 静态网站生成器（SSG）是一种框架或设置，可帮助您生成静态网站（HTML / CSS / JS）.  数据的来源可以是任何东西，从本地文件（例如文本文件或markdown）到API（例如REST，GraphQL）.
+ 静态网站生成器（SSG）是一种框架或设置，可帮助您生成静态网站（HTML / CSS / JS）.  数据的来源可以是任何内容，从本地文件（例如文本文件或markdown）到API（例如REST，GraphQL）.
 
 <br />
 
@@ -72,8 +72,8 @@
 
 **显而易见的是，上面的一些插件：**
 
-- [Advanced Custom Fields](https://de.wordpress.org/plugins/advanced-custom-fields/) - [ACF PRO](https://www.advancedcustomfields.com/pro/)
-- [Polylang](https://de.wordpress.org/plugins/polylang/)
+- [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - [ACF PRO](https://www.advancedcustomfields.com/pro/)
+- [Polylang](https://wordpress.org/plugins/polylang/)
 
 
 ### Gatsby
@@ -112,10 +112,10 @@
 **WPGraphQL**
 - 2019.11: [30+ Videos - Gatsby + WordPress (2019) Complete Course](https://whatjackhasmade.co.uk/gatsby-wordpress-2019/)  -该系列重点介绍如何将WordPress用作具有GraphQL模式的无头CMS.  设置了WordPress网站和主题之后，我们将转到Gatsby上，以及如何使用新模式为Gatsby网站生成内容，以编程方式生成页面，将Gutenberg块转换为React组件并着重介绍本章.盖茨比的SEO.
 - 2019.07: [Gatsby + WordPress with WPGraphQL (with Jason Bahl) — Learn With Jason](https://www.youtube.com/watch?v=DH7I1xRrbxs) -在此流中，Jason Bahl讲授如何将WordPress与Advanced Custom Fields和WPGraphQL一起使用，以创建功能强大，灵活的管理仪表板，然后在Gatsby网站中查询和显示该数据.
-- 2019.07: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) -在此视频中，Alex Young（WPCasts）介绍了如何通过WPGraphQL和React获得简单的无头WordPress设置.
+- 2019.07: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) -在此视频中，Alex Young（WPCasts）介绍了如何使用WPGraphQL和React获得简单的无头WordPress设置.
 - 2019.06: [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws) -在此视频中，您将学习如何使用名为WPGraphQL的超赞插件和GraphQL + Advanced Custom Fields等超酷工具，将GraphQL与WordPress结合使用.
 - 2019.04: [WPGraphQL for ACF](https://www.youtube.com/watch?v=rIg4MHc8elg) -Jason Bahl展示了如何将WPGraphQL用于高级自定义字段.
--2018.07：[GraphQL with WordPress and Gutenberg-Jason Bahl-2018 JavaScript for WordPress Conference
+-2018.07：[GraphQL与WordPress和古腾堡-Jason Bahl-2018 JavaScript for WordPress Conference
 ]（https://www.youtube.com/watch?v=6CuM1PY9ESQ）-在2018年WordPress的JavaScript会议的演讲中，WP GraphQL插件的开发人员Jason Bahl提供了有关如何使用GraphQL的更新示例. WordPress和古腾堡.
 
 
@@ -131,7 +131,7 @@
 
 
 ## Themes
-可以将WordPre用作源的gatsby主题列表，您可以在Gatsby设置中使用该主题.
+可以将WordPre用作源的gatsby主题列表，可以在Gatsby设置中使用.
 
 - [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme) -将二十十九个WordPress主题的端口转移到盖茨比.
 -[Gatsby WordPress发布者主题
