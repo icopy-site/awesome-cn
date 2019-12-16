@@ -88,7 +88,7 @@ ZSH框架，插件，教程和主题的集合受到那里各种出色列表列�
     *对GitHub存储库的额外支持.
     *对Gists的额外支持.
   *任意远程文件，只需指定URL.
-  *本地插件，只需指定目录路径.
+  * Local plugins, simply specify the directory path.
 *高度可配置的安装方法，使用 [handlebars](http://handlebarsjs.com/) 模板化.
 *超快速并行安装.
 *使用配置文件 [TOML](https://github.com/toml-lang/toml) 句法.
@@ -156,7 +156,7 @@ zapack是基本的快速最小ZSH插件加载程序.
 
 ### [Zplugin](https://github.com/zdharma/zplugin)
 
-** Zplugin **是创新的插件管理器，具有 [semigraphical UI](https://github.com/zdharma/zplugin-crasis), [Turbo Mode](http://zdharma.org/zplugin/wiki/INTRODUCTION/#turbo_mode_zsh_62_53)，干净的路径，报告，完成管理和 [services](https://github.com/zservices)  支持.  您可以使用 [crasis](https://github.com/zdharma/zplugin-crasis) and also
+** Zplugin **是创新的插件管理器，具有 [semigraphical UI](https://github.com/zdharma/zplugin-crasis), [Turbo Mode](http://zdharma.org/zplugin/wiki/INTRODUCTION/#turbo_mode_zsh_62_53)，干净的路径，报告，完成管理和 [services](https://github.com/zservices)  支持.  您可以使用 [crasis](https://github.com/zdharma/zplugin-crasis) 并且
 [declare-zsh](https://github.com/zdharma/declare-zsh) 编辑您的Zplugin
 〜.zshrc中的命令，也可以使用 [zplugin-console](https://github.com/zplugin/zplugin-console) 查看和更改
 Zsh会话的状态，并从磁盘中删除插件和片段.
@@ -355,7 +355,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [dotpyvenv](https://github.com/jeanpantoja/dotpyvenv) -当您通过cd进入目录时，自动切换到位于名为.pyvenv的目录中的python虚拟环境（您以前使用virtualenv程序创建过）.
 * [dropbox](https://github.com/zpm-zsh/dropbox) -ZSH的Dropbox插件，提供`dropbox-cli`和`dropbox-uploader`命令.
 * [dune-quotes](https://github.com/brokendisk/dune-quotes) -随机沙丘报价生成器插件.
-* [dwim](https://github.com/oknowton/zsh-dwim)  -zsh-dwim尝试预测下一步将要做什么.  它提供了一个键绑定（control-u），它将用您接下来要运行的命令替换当前（或上一个）命令行.
+* [dwim](https://github.com/oknowton/zsh-dwim) - zsh-dwim attempts to predict what you will want to do next. It provides a key binding (control-u) that will replace the current (or previous) command line with the command you will want to run next.
 * [ec2ssh](https://github.com/h3poteto/zsh-ec2ssh) -列出EC2实例和`ssh`登录实例.
 * [editing-workbench](https://github.com/psprint/zsh-editing-workbench) -添加合理，复杂的命令行编辑（例如，增量历史记录_word_完成）.
 * [elixir](https://github.com/gusaiani/elixir-oh-my-zsh) - 增加了仙丹捷径，IEX，混合，低调和凤凰城.
@@ -531,8 +531,8 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [notes (chipsenkbeil)](https://github.com/chipsenkbeil/zsh-notes) -在ZSH中提供快速的笔记编辑体验.
 * [notify](https://github.com/marzocchi/zsh-notify) -ZSH的插件（在macOS和Linux上），如果终端应用程序在后台（或命令的终端）在命令以非零退出状态终止或花费超过30秒的时间来完成时，它将发布桌面通知标签无效）.
 * [npm](https://github.com/igoradamenko/npm.插入.zsh)  -添加`npm`别名和命令完成.  基于Oh-My-Zsh [npm](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/npm) 插入.
-* [nvm-auto-use](https://github.com/tomsquest/nvm-auto-use.zsh) -每当您进入包含.nvmrc文件的目录时，都会自动调用nvm use，该文件带有一个字符串，告诉nvm使用哪个节点.
-* [nvm-auto](https://github.com/dijitalmunky/nvm-auto) -旨在尽可能减少键入`nvm use`的需求，尤其是当您经常在node.js版本之间切换并在项目中使用`.nvmrc`文件来管理项目所需的节点版本时.
+* [nvm-auto-use](https://github.com/tomsquest/nvm-auto-use.zsh) -每当您进入包含.nvmrc文件的目录时，都会自动调用nvm use，该文件包含一个字符串，告诉nvm使用哪个节点.
+* [nvm-auto](https://github.com/dijitalmunky/nvm-auto) -旨在尽可能减少键入nvm use的需求，尤其是当您经常在node.js版本之间切换并在项目中使用`.nvmrc`文件来管理项目所需的节点版本时.
 * [nvm-lazy](https://github.com/davidparsson/zsh-nvm-lazy)  -用于延迟加载oh-my-zsh的** nvm **插件的插件.  它支持延迟加载nvm到多个二进制/入口点，默认值为nvm，node和npm.
 * [nvm](https://github.com/lukechilds/zsh-nvm) -ZSH插件，用于安装，更新和加载`nvm`.
 * [oh-my-matrix](https://github.com/amstrad/oh-my-matrix) -将您的终端变成矩阵.
@@ -965,7 +965,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [forerunner](https://github.com/OpenReplyDE/zsh-forerunner) -自定义设置 [powerlevel9k](https://github.com/bhilburn/powerlevel9k) .  包括`git`状态装饰.
 * [fortuity](https://github.com/VGamezz19/oh-my-zsh-fortuity-theme) -包括最后命令的状态，git信息和当前目录.
 * [friendly-fiesta](https://github.com/bruino/friendly-fiesta) -的叉子 [terminal-party](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/terminalparty.zsh-theme) 主题.
-* [frisk-arrow](https://github.com/BakeRolls/frisk-arrow) - A theme based on the [frisk](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/frisk.zsh-theme) 哦，我的zsh主题.
+* [frisk-arrow](https://github.com/BakeRolls/frisk-arrow) -基于 [frisk](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/frisk.zsh-theme) 哦，我的zsh主题.
 * [frisk-red](https://github.com/aishsingh/zsh/tree/master/frisk-red) -红色版本 [frisk](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/frisk.zsh-theme) oh-my-zsh的主题.
 * [fritz](https://github.com/fritzccc/fritz-zsh-theme)  -在深色背景上效果很好.  包括`git`状态装饰.
 * [frlo](https://github.com/fiorillo/frlo) -使用计算机的主机名提出一个（希望）唯一的三色主题以显示在提示中，因此您一眼就能知道要登录的计算机.
@@ -1084,7 +1084,8 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [maxulysse/myzsh](https://github.com/MaxUlysse/myzsh) -Maxime Garcia的myzsh主题.
 * [mdmini](https://github.com/MarioDena/MDmini) -包括`git`和`ssh`状态装饰.
 * [megaprompt](https://github.com/willghatch/zsh-megaprompt)  -最大化提示，包括键盘模式，所有权信息和其他上下文信息，其中λ为提示字符.  需要 [hooks](https://github.com/willghatch/zsh-hooks) 插入.
-* [mexassi](https://github.com/Mexassi/mexassi-zsh-theme)  -检查“ / sys / class / power_supply”文件夹，以确定系统是否安装在便携式计算机或台式计算机上.  读取电池百分比grepping acpi命令并将其显示在提示中.  包括git装饰.
+* [metalmajor](https://github.com/deblauwetom/metalmajor-zsh-theme) -包含`git`状态修饰符，如果非零则显示最后一个命令的退出代码.
+* [mexassi](https://github.com/Mexassi/mexassi-zsh-theme) - Checks the `/sys/class/power_supply` folders to determine if the system is installed on a laptop or desktop machine. Reads the battery percentage grepping acpi command and displays it in the prompt. Includes `git` decorations.
 * [midin](https://github.com/xlshiz/midin) -在黑暗的终端背景下效果很好，包括`git`状态装饰.
 * [milight](https://github.com/frodoslaw/milight-zsh) -带有`git`状态显示的最小ZSH提示，最适合深色终端背景.
 * [min](https://github.com/andrepolischuk/min) -简约的ZSH提示.
@@ -1279,7 +1280,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [vanan](https://github.com/avano/vanan-zsh-theme) -极简主义主题，带有用于黑暗终端的git信息.
 * [vinhnx](https://github.com/vinhnx/vinhnx.zsh-theme) -修改自themes / mgutz.zsh-theme.当与 [Solarized](https://github.com/altercation/solarized) 配色方案.
 * [wade](https://github.com/wadehammes/wade.zsh-theme) -流行的ZSH主题混搭 [Agnoster](https://gist.github.com/agnoster/3712874) 和 [Fishy](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/fishy.zsh-theme)，并进行一些视觉上的调整.
-* [wang-iterm](https://github.com/0532/wang-iterm-zsh) - Based on the 0532 theme.
+* [wang-iterm](https://github.com/0532/wang-iterm-zsh) -基于0532主题.
 * [webicons](https://github.com/Jmclerck/webicons.zsh-theme) -在提示中包括`git`状态，节点和纱线版本.
 * [whale](https://github.com/whalesea520/whale-zsh-theme) -快速重新实现鲸鱼主题.
 * [wild-cherry](https://github.com/mashaal/wild-cherry) -ZSH，iTerm 2，Sublime，Atom和Mou的童话主题.

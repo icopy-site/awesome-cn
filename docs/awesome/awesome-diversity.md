@@ -22,10 +22,10 @@
 - [Algorithmic Justice League](https://www.ajlunited.org/) -旨在对抗算法偏差的集体.
 - [AnyKey](https://www.anykey.org) -旨在帮助边缘化游戏社区成员在电子竞技中创造公平和包容性空间的组织.
 - [Black Girls Code](http://www.blackgirlscode.com/) -致力于向世界展示黑人女孩可以编码的组织.
-- [Black Girl Gamers](http://blackgirlgamers.com)  -支持黑人女孩游戏玩家的安全空间.  也可在以下位置找到：
+- [Black Girl Gamers](http://blackgirlgamers.com)  -支持黑人女孩游戏玩家的安全空间.  也可以在以下位置找到：
   - [Twitch](https://www.twitch.tv/blackgirlgamers)
   - [Steam](https://steamcommunity.com/groups/BlackGirlsWhoPlayGames)
-- [Blacks In Technology](https://www.blacksintechnology.net/) -通过建立世界一流的技术卓越和创新蓝图，企业化专注于“跨越鸿沟”.
+- [Blacks In Technology](https://www.blacksintechnology.net/) -通过建立世界一流的技术卓越和创新蓝图，专注于“跨越鸿沟”的组织.
 - [Bridge Troll](https://www.bridgetroll.org/) -由志愿者组织的活动，以增强人们的技术能力.
 - [Code 2040](http://www.code2040.org/) -通过各种计划和研究金，Code2040是一项伟大的计划，为黑人和拉丁裔人才创造了技术机会.
 - [Codebar](https://codebar.io/) -Codebar是一项非营利性计划，通过举办定期的编程研讨会来促进多元化的技术社区的发展.
@@ -49,7 +49,7 @@
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) -该计划将年轻的黑人男性与成为高级企业家和技术人员所需的一切联系在一起.
 - [Kapor Center](http://www.kaporcenter.org/) -Kapor家族组织致力于消除有代表性的有色人种对科学，技术，工程和数学（STEM）教育和科技职业的障碍.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) -科技界的女同志社区是科技界（或热爱她们的人）中或附近的同性恋女性社区.
-- [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目值得欢迎，包容和赞赏其贡献者的多样性.
+- [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目受欢迎，包容并赞赏其贡献者的多样性.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) -开源精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
 - [ParadigmIQ](https://www.paradigmiq.com/) -范式提供了一系列的研讨会，培训和评估，以帮助实现多样性，包容性，归属感，保留性等等.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) -致力于建立共享机会，经验和思想的社区的组织，最终改善了整个创意产业中少数民族的代表权.

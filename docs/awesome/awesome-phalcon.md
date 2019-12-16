@@ -53,7 +53,7 @@
 
 
 * [giada-www](https://github.com/monocasual/giada-www) -的官方网站 [Giada Loop Machine](https://www.giadamusic.com/)
-* [KikCMS](https://github.com/krazzer/kikcms) - CMS built on Phalcon Framework
+* [KikCMS](https://github.com/krazzer/kikcms) -基于Phalcon框架的CMS
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) -一个适合想要开始学习Phalcon的人的简单博客引擎
 * [Yona CMS](https://github.com/alexander-torosh/yona-cms) -基于带有模块化结构的Phalcon框架的CMS
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) -基于Phalcon框架的博客
@@ -111,7 +111,7 @@
 * [Feedback](https://quasipickle.github.io/feedback/) -旨在替代Phalcon的内置Flash和Message功能
 * [Incubator](https://github.com/phalcon/incubator) -用于发布/共享/使用新适配器，原型或功能的存储库，这些适配器，原型或功能可能会合并到Phalcon框架中
 * [yarak](https://github.com/zachleigh/yarak) -Laravel启发了Phalcon devtools
-* [phalcon-data-table](https://github.com/maslo2017/phalcon-data-table) -允许您简化与Phalcon中的引导表的交互
+* [phalcon-data-table](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
 
 
 ## ORM
@@ -157,6 +157,14 @@
 *搜索工具和库.*
 
 * [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) -用于Phalcon的Elasticsearch索引器组件
+
+
+## SEO
+
+* Seo工具*
+
+* [Phalcon meta tags](https://github.com/izica/phalcon-meta-tags) -用于元标记的工具.
+
 
 ## Shop & Ecommerce
 

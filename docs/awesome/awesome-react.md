@@ -54,6 +54,7 @@
 
 - [TypeScript, React and Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
 - [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
+- [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 
 ##### React Performance
 
@@ -151,7 +152,7 @@
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
 - [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
-- [react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
+- [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
 - [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型keydown包装器
 - [react-joyride](https://github.com/gilbarbara/react-joyride) -为您的应用程序创建导览
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) -React组件，可有效呈现大型列表和表格数据
@@ -161,6 +162,7 @@
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) -用CSS动画化的React加载指示器集合
 - [rheostat](https://github.com/airbnb/rheostat) -使用React构建的可访问滑块组件
 - [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
+- [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
 
 ##### React for Command Line
 
@@ -214,9 +216,11 @@
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
 - [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
 - [react-esi](https://github.com/dunglas/react-esi) -React Edge侧面包括
+- [hookstate](https://github.com/avkonst/hookstate) -基于钩子的React的现代，非常快速和可扩展的状态管理
 
 ##### React Integration
 
+- [ReasonReact](https://reasonml.github.io/reason-react/)
 - [React Rails](https://github.com/reactjs/react-rails)
 - [ReactJS.NET](https://github.com/reactjs/React.NET)
 - [om - ClojureScript interface](https://github.com/swannodette/om)
@@ -270,6 +274,15 @@
 - [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
 - [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA](https://github.com/sarneeh/reaptcha)
 - [react-recaptcha-that-works - A reCAPTCHA bridge for React that works](https://github.com/douglasjunior/react-recaptcha-that-works)
+
+##### React State Management
+
+- [flux](http://facebook.github.io/flux/)
+
+##### React AR and VR
+
+- [React 360](https://facebook.github.io/react-360/) -使用React创建令人兴奋的360和VR体验
+- [Viro React](https://viromedia.com/viroreact/) -使用React Native快速构建AR / VR应用程序的平台
 
 ##### Forms
 
@@ -436,75 +449,6 @@
 - [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
 - [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 - [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
-
----
-
-### React AR/VR
-
-&gt;将React用于增强现实和虚拟现实
-
-- [React 360](https://facebook.github.io/react-360/) -使用React创建令人兴奋的360和VR体验
-- [Viro React](https://viromedia.com/viroreact/) -使用React Native快速构建AR / VR应用程序的平台
-
----
-
-### ReasonReact
-
-&gt; ReactJS的原因绑定
-
-- [ReasonReact Official Website](https://reasonml.github.io/reason-react/)
-
-### Flux
-
-&gt;建立用户界面的应用架构
-
-#### Flux General Resources
-
-- [Flux Official Site](http://facebook.github.io/flux/)
-- [Flux GitHub](https://github.com/facebook/flux)
-
-#### Flux Implementations
-
-- [Flux Comparision](https://github.com/voronianski/flux-comparison)
-- [RefluxJS](https://github.com/spoike/refluxjs)
-- [Fluxxor](https://github.com/BinaryMuse/fluxxor)
-- [Marty](https://github.com/martyjs/marty)
-- [McFly](https://github.com/kenwheeler/mcfly)
-- [Alt](https://github.com/goatslacker/alt)
-- [Fluxible](https://github.com/yahoo/fluxible)
-- [NuclearJS](https://github.com/optimizely/nuclear-js)
-- [Flummox](https://github.com/acdlite/flummox)
-- [Coflux](https://github.com/blainekasten/coflux)
-- [Sinux](https://github.com/jbpin/sinux)
-
-#### Flux Tutorials
-
-- [Building Applications with React and Flux](https://www.pluralsight.com/courses/react-flux-building-applications)
-- [Flux: A simple architecture model to build Client-side apps](https://speakerdeck.com/pedronauck/flux-a-simple-architecture-model-to-build-client-side-apps)
-- [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
-- [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
-- [Implementing Flux in CoffeeScript](https://archive.fo/l9ih6)
-- [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
-- [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
-- [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
-- [React.js architecture - Flux VS Reflux](http://blog.krawaller.se/posts/react-js-architecture-flux-vs-reflux/)
-- [Avoiding Event Chains in Single Page Applications](http://www.code-experience.com/avoiding-event-chains-in-single-page-applications/)
-- [ReactJS and Flux](http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html)
-- [Deconstructing ReactJS's Flux](http://spoike.ghost.io/deconstructing-reactjss-flux/)
-- [Flux Step By Step](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
-- [Flux in practice](https://medium.com/@garychambers108/flux-in-practice-ec08daa9041a)
-- [What is the Flux Application Architecture?](https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e)
-- [React + Flux Backed by Rails API: Part 1](http://fancypixel.github.io/blog/2015/01/28/react-plus-flux-backed-by-rails-api/)
-- [React + Flux Backed by Rails API: Part 2](http://fancypixel.github.io/blog/2015/01/29/react-plus-flux-backed-by-rails-api-part-2/)
-- [React + Flux Backed by Rails API: Part 3](http://fancypixel.github.io/blog/2015/01/30/react-plus-flux-backed-by-rails-api-part-3/)
-- [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
-- [Flux Cargo-Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
-- [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
-- [The Evolution of Flux Frameworks](http://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
-- [React with Flux by example - a simple Todo List dissected](http://reactkungfu.com/2015/07/react-with-flux-by-example-simple-todo-list-dissected/)
-- [FOR FLUX SAKE! - a beginners tutorial](https://github.com/MIJOTHY/FOR_FLUX_SAKE)
-- [Simple Counter App with React and Nuclear JS](https://github.com/haochuan/random-notes/blob/master/react/couter-app-with-react-nuclear.md)
-- [LearnCode.academy Flux Tutorial Series](https://www.youtube.com/watch?v=PvjNglsyOHs&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=9)
 
 ---
 
@@ -742,63 +686,24 @@
 
 ---
 
-### Demos
+### Demo React Apps
 
-- [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
-- [react.rocks - Pinterest-style directory of online demos with available code](http://react.rocks/)
-- [react-hn - A React & react-router-powered implementation of Hacker News](https://github.com/insin/react-hn)
-- [react-pokemon - A React component for displaying Pokémon](https://github.com/passy/react-pokemon)
-- [React + Backbone TodoMVC](http://todomvc.com/examples/react-backbone/)
-- [React + NestedTypes TodoMVC](https://github.com/gaperton/todomvc-nestedreact)
-- [react-rxjs-todomvc - TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
-- [react-mvc - A sample chat application written with React and pure MVC](https://github.com/ustun/react-mvc)
-- [react-observe-todomvc - TodoMVC implementation built on top of React and Object.observe](https://github.com/fdecampredon/react-observe-todomvc)
-- [react-lights-out - Simple demo of the React framework's power and flexibility](https://github.com/chenglou/react-lights-out)
-- [todomvc-swarm - React TodoMVC implementation using Swarm for real-time collaboration](https://github.com/gritzko/todomvc-swarm)
-- [reactodo - Multiple localStorage TODO lists, built with React](https://github.com/insin/reactodo)
-- [lifequote - React port of a life insurance quick quoting application](https://github.com/insin/lifequote)
-- [reactor-demo - Isomorphic Javascript app with React](https://github.com/natew/reactor-demo)
-- [imgsible - React-based Imgur-like isomorphic demo app](https://github.com/BinaryMuse/imgsible)
-- [wow-realm-status-react - WoW Realm Status: React Edition](https://github.com/BinaryMuse/wow-realm-status-react)
-- [react-json-editor - A generic JSON editor](https://github.com/dustingetz/react-json-editor)
-- [react-todos - Backbone's example TODO app with React JS for views](https://github.com/ssorallen/react-todos)
-- [github-issues-viewer - A github issues viewer build in react + backbone](https://github.com/jaredly/github-issues-viewer)
-- [wolfenstein3D-react - Wolfenstein with the rendering layer written in React](https://github.com/petehunt/wolfenstein3D-react)
-- [Flux ImmutableJS TodoList](https://github.com/MandarinConLaBarba/flux-immutable-todomvc)
-- [Hapi+React+Flux user management system](https://github.com/jedireza/aqua)
-- [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
-- [React/Redux CRUD with persistent state in Local Storage](https://github.com/cristianszwarc/react_crud_localStorage/)
-- [React Slack clone - comprehensive Slack clone built with React and Chatkit](https://github.com/pusher/react-slack-clone/)
-- [overreacted.io - Personal blog by Dan Abramov](https://github.com/gaearon/overreacted.io)
-
----
-
-### Example Apps
-
-- [isomorphic500 - Isomorphic JS app built with React and Fluxible](https://github.com/gpbl/isomorphic500)
-- [fil - A playground for in-browser interpreters (Redux)](https://github.com/fatiherikli/fil)
-- [sound-redux - A Soundcloud client built with React / Redux](https://github.com/andrewngu/sound-redux)
-- [react-pomodoro - A Pomodoro timer for developers](https://github.com/afonsopacifer/react-pomodoro)
-- [Do - Notes management application built with React and Redux](https://github.com/1ven/do)
-- [soundcloud-react-redux - A SoundCloud Client built with React / Redux](https://github.com/rwieruch/favesound-redux)
-- [soundcloud-react-mobx - A SoundCloud Client built with React / MobX](https://github.com/rwieruch/favesound-mobx)
-- [A Reimplementation of Winamp 2.9 with React and Redux](https://github.com/captbaritone/winamp2-js)
-- [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
-- [React Reduction - Admin Dashboard built with React + Bootstrap4](https://github.com/reduction-admin/react-reduction)
-- [React Code Splitting Sample - React + React Router + Flux](https://github.com/tiarebalbi/flux-main-sample)
-- [Responsive React 'The Movie Database' (TMDb) App](https://github.com/SKempin/reactjs-tmdb-app)
-- [CoreUI - Free Admin Panel built with React and Bootstrap 4](https://github.com/coreui/coreui-free-react-admin-template)
-- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) -使用React和Redux构建的简单电子商务购物车应用程序
 - [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) -使用React和GraphQL用通用JavaScript重写了Hacker News克隆
+- [react-reduction](https://github.com/reduction-admin/react-reduction) -使用React和Bootstrap4构建的免费管理模板
+- [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) -响应式反应电影数据库应用程序
+- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) -使用React Redux构建的简单电子商务购物车应用程序
+- [dnote](https://github.com/dnote/dnote) -简单的个人知识库
 
 ---
 
-### Real apps
+### Real React Apps
 
-- [Kibana](https://github.com/elastic/kibana) -您进入弹性堆栈的窗口
-- [Firefox debugger](https://github.com/firefox-devtools/debugger) -可以在任何地方使用的Firefox调试器
-- [Spectrum](https://github.com/withspectrum/spectrum) –简单，强大的在线社区
-- [Mattermost](https://github.com/mattermost/mattermost-webapp) -开源Slack替代
+- [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [firefox debugger](https://github.com/firefox-devtools/debugger) -可以在任何地方使用的Firefox调试器
+- [spectrum](https://github.com/withspectrum/spectrum) –简单，强大的在线社区
+- [mattermost](https://github.com/mattermost/mattermost-webapp) -开源Slack替代
+- [overreacted](https://github.com/gaearon/overreacted.io) -Dan Abramov的个人博客
+- [winamp2-js](https://github.com/captbaritone/winamp2-js) -为浏览器重新实现了Winamp 2
 
 ---
 

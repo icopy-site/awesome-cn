@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome Prometheus resources, projects and tools.
+&gt;精选的Prometheus资源，项目和工具的精选清单.
 
 [![Prometheus](https://raw.githubusercontent.com/roaldnefs/awesome-prometheus/master/media/prometheus.png)](https://prometheus.io/)
 
@@ -52,7 +52,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) -Docker-2016年10月14日-Julius Volz.
 - [Explain it Like I’m Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) -Monitorama PDX，2019年-Dave Cadwallader.
 - [Best Practices and Beastly Pitfalls](https://www.youtube.com/watch?v=_MNYuTNfTb4) -PromCon 2017：最佳实践和野兽陷阱-Julius Volz.
-- [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) -普罗米修斯计数-布莱恩·巴西（Brian Brazil），稳健的洞察力.
+- [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) - Counting with Prometheus - Brian Brazil, Robust Perception.
 - [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) -了解和扩展Prometheus AlertManager-SolarWinds的Lee Calcote
 - [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) -PromCon 2016：Prometheus时间序列数据库-BjörnRabenstein.
 - [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) -GOTO 2019：Prometheus的系统和服务监视简介-Julius Volz.
@@ -87,6 +87,8 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Prometheus Blog Series (Part 3): Exposing and collecting metrics](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-3-exposing-and-collecting-metrics/) -Pierre Vincent撰写的_Prometheus Blog Series_系列的第3部分.
 - [Prometheus Blog Series (Part 4): Instrumenting code in Go and Java](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-4-instrumenting-code-in-go-and-java/) -Pierre Vincent撰写的_Prometheus Blog Series_系列的第4部分.
 - [Horizontal Pod Autoscaling in Kubernetes with Prometheus](https://livewyer.io/blog/2019/05/28/horizontal-pod-autoscaling/) -Louise的Prometheus在Kubernetes中进行水平Pod自动缩放.
+- [PromQL tutorial for beginners](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085) -Aliaksandr Valialkin面向初学者的PromQL教程.
+- [Prometheus storage: technical terms explained](https://medium.com/@valyala/prometheus-storage-technical-terms-for-humans-4ab4de6c3d48) -普罗米修斯储存：Aliaksandr Valialkin所著的人类技术术语.
 
 ## Dashboards
 
@@ -111,11 +113,14 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Proxies
 
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) -使用选择器策略将传入请求转发到一组部署为彼此的HA副本的多个Prometheus实例之一.
+- [Promxy](https://github.com/jacksontj/promxy) -对Prometheus HA对中的数据进行重复数据删除.
 
 ## High Availability
 
 - [Cortex](https://github.com/cortexproject/cortex) -水平可扩展，高可用性，多租户的长期Prometheus.
 - [Thanos](https://github.com/thanos-io/thanos) -具有长期存储功能的高可用Prometheus设置.
+- [M3DB](https://github.com/m3db/m3) -适用于Prometheus的可扩展长期远程存储.
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) -具有成本效益的易于操作的Prometheus远程存储.
 
 ## Uncategorized
 
