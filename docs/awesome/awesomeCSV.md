@@ -42,6 +42,7 @@
 - [Mockaroo](https://www.mockaroo.com/) -CSV / JSON / SQL / Excel的随机数据生成器.
 - [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor)  -处理大文件，做一些神奇的事情.  用于永恒格式的永恒编辑器.
 - [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors)  -收集用于CSV / TSV语法突出显示的文本编辑器插件.  可以用来 [Vim](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) 和其他编辑.
+- [Mighty Merge](https://mightymerge.io/) -加入/联合csv文件.
 
 ### Repair or Validate CSV
 

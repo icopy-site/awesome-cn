@@ -150,6 +150,7 @@ Installers
 
 *来自Kubernetes团队的关于稳定Kubernetes发行版的正式发行说明*
 
+* [Kubernetes-1.17](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.17.md)
 * [Kubernetes-1.16](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.16.md)
 * [Kubernetes-1.15](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.15.md)
 * [Kubernetes-1.14](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.14.md)
@@ -332,7 +333,7 @@ Installers
   - [Eldarion Cloud](http://eldarion.cloud)
   - [Hasura](http://www.hasura.io)
   - [Kel](http://www.kelproject.com)
-  - [KubeSail](https://kubesail.com) -一种简单，免费的Kubernetes试用方法
+  - [KubeSail](https://kubesail.com) -一种简单，免费的尝试Kubernetes的方法
   - [KubeSphere](https://github.com/kubesphere/kubesphere) -全栈且易于使用的容器平台，具有出色的用户体验和向导UI.
   - [Kyma](https://kyma-project.io/)  -使用无服务器功能扩展应用程序的平台.  它提供了一系列粘合在一起的云原生项目，以简化服务的创建和管理.
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
@@ -552,7 +553,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -789,7 +790,7 @@ Projects
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)  -一种数据约束语言，旨在简化涉及定义​​和使用数据的任务.  Cue是JSON的超集
-* [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，可让您专注于数据，而不是如何正确地对其进行转义.
+* [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，使您可以专注于数据，而不是如何正确地对其进行转义.
 
 ## Security
 
@@ -925,7 +926,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)

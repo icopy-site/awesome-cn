@@ -33,7 +33,7 @@
 ## Distributions
 
 - [Download Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) -Apache JMeter：官方下载.
-- [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) -带有插件的JMeter安装软件包.
+- [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) -带有插件的安装JMeter的软件包.
 
 ## Getting Started
 
@@ -148,7 +148,7 @@
 - [OctoPerf](https://octoperf.com/) -具有JMeter和Selenium支持的Saas和本地负载测试工具.
 - [Tricentis Flood](http://flood.io/) -带有JMeter，Gatling和Selenium方案支持的负载测试服务.
 - [RedLine13](http://redline13.com/) -基于AWS的负载测试服务，支持JMeter，Gatling和Selenium方案.
-- [HP StormRunner Load](https://saas.hpe.com/en-us/software/stormrunner-load) -惠普基于云的解决方案，用于Web和移动性能测试，并具有JMeter和Gatling支持.
+- [HP StormRunner Load](https://saas.hpe.com/en-us/software/stormrunner-load) -惠普基于云的解决方案，通过JMeter和Gatling支持进行Web和移动性能测试.
 - [Loadster](http://www.loadsterperformance.com/) -用于分发Web应用程序和服务的负载测试的解决方案.
 - [Loadium](https://www.loadium.com/) -具有JMeter和Selenium支持的基于AWS的负载测试服务.
 
@@ -175,7 +175,7 @@
 -使用石墨和格拉法纳
     -*待定*
 -使用InfluxDB和Grafana
-    - [Using JMeter with InfluxDB & Grafana](http://www.vinsguru.com/category/influxdb/) -收集使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
+    - [Using JMeter with InfluxDB & Grafana](http://www.vinsguru.com/category/influxdb/) -使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
     - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
     -Grafana仪表板
         - [JMeter Load Test Dashboard](https://grafana.com/dashboards/1152) 通过NovaTec-APM
@@ -345,4 +345,4 @@
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />本作品是根据<a rel="license" href="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/LICENSE.md">CC-BY-4.0</a>许可的.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />这项工作是根据<a rel="license" href="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/LICENSE.md">CC-BY-4.0</a>许可的.

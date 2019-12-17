@@ -8,7 +8,7 @@
 
 [Next.js](https://github.com/zeit/next.js) 是服务器渲染的React应用程序的简约框架.
 
-*清单的灵感来自 [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
+*清单的灵感来自 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  你可能还喜欢 [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
 
 ## Community
@@ -50,7 +50,7 @@
 ## Boilerplates
 * [Next Graphql Apollo Typescript_Boostrap - Pobocha](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) -React + GraphQL + Next.js + Apollo + Scss +打字稿+ Prettier和EsLint样板
 * [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) -无服务器，Typescript，Jest，Github CI，SCSS，更漂亮的样板
-* [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) -使用Cloud Functions在Firebase中使用Bootstrap托管NextJS应用.
+* [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) -带有Next.js和Redux的简单PWA样板.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) -带有电子邮件和oAuth身份验证的Next.js入门项目.
 * [RAN!](https://github.com/sly777/ran) -生产就绪样板，支持GraphQL，SSR，热重载，JS-in-JS，缓存等.
@@ -119,8 +119,9 @@
 * [magicleap.com](https://www.magicleap.com/) -魔法飞跃
 * [NPM.js Search Page](https://www.npmjs.com/search) -NPM的搜索页面
 * [Docker Success Center](https://success.docker.com) -Docker成功中心
-* [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) -根据GPLv3许可的德国法律信息系统。
+* [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) -根据GPLv3许可的德国法律信息系统.
 * [TikTok's HomePage](https://www.tiktok.com/) -TikTok的主页
+* [njt.now.sh](https://njt.now.sh)  -npm跳转至（您梦about以求的软件包导航快捷方式）.  部分静态渲染，部分部署为lambda.  每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)， 谢谢 [Now integration](https://github.com/apps/now).
 
 ## Books
 * [Hands On Next.js](https://www.honext.io/) -一本关于React应用程序通用（服务器）渲染的实用全书.

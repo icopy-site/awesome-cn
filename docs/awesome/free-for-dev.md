@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## [free-for.dev](https://free-for.dev)
 
-开发人员和开放源代码作者现在拥有大量提供免费层的服务，但是要做出明智的决定，可能很难找到它们.
+开发人员和开放源代码作者现在拥有大量提供免费层的服务，但是要做出明智的决定，很难找到所有的层.
 
 这是软件（SaaS，PaaS，IaaS等）和为开发人员提供免费套餐的其他产品的列表.
 
@@ -122,7 +122,7 @@
   * [MailboxValidator](https://www.mailboxvalidator.com)  —使用真实邮件服务器连接的电子邮件验证服务，以确认有效的电子邮件.  免费API计划每月有300个验证.
   * [microlink.io](https://microlink.io/)  –它将任何网站转换为数据，例如元标记标准化，美容链接预览，抓取功能或屏幕截图即服务.  每天免费提供250请求.
   * [monkeylearn.com](https://monkeylearn.com/) —通过机器学习进行文本分析，每月免费300次查询
-   * [myfakeapi.com](https://myfakeapi.com) —为开发人员提供的免费的无服务器API模拟服务
+  * [myfakeapi.com](https://myfakeapi.com) —为开发人员提供的免费的无服务器API模拟服务
   * [OCR.Space](https://ocr.space/)  —一个OCR API，用于解析图像和pdf文件，并以JSON格式返回文本结果.  每月免费提供25,000个请求.
   * [parsehub.com](https://parsehub.com/) —从动态网站提取数据，将动态网站转换为API，免费提供5个项目
   * [Pixela](https://pixe.la/)  -免费的日流数据库服务.  所有操作均由API执行.  热图和折线图的可视化也是可能的.
@@ -170,7 +170,7 @@
   * [Discord](https://discordapp.com/)  —与公共/私人房间和VoIP服务聊天.  无限用户免费.
   * [hangouts.google.com](https://hangouts.google.com/) — One place for all your conversations, for free, need a Google account
   * [seafile.com](https://www.seafile.com/)  —私有或云存储，文件共享，同步，讨论.  私人版本已满.  云版本只有1 GB
-  * [yammer.com](https://www.yammer.com/) —独立的私人社交网络或用于MS Office365.免费的管理工具和用户管理功能少了一点
+  * [yammer.com](https://www.yammer.com/) —独立的私人社交网络或适用于MS Office 365的社交网络.免费提供的管理工具和用户管理功能要少一些
   * [helpmonks.com](https://helpmonks.com/) —团队的共享收件箱，开源和非营利组织免费
   * [typetalk.com](https://www.typetalk.com/) -通过网络或手机上的即时消息与团队共享和讨论想法
   * [talky.io](https://talky.io/)  —免费的小组视频聊天.  匿名.  点对点.  无需插件，注册或付款
@@ -516,7 +516,7 @@
   * [pantheon.io](https://pantheon.io/)  — Drupal和WordPress托管，自动化的DevOps和可扩展的基础架构.  开发人员和代理商免费
   * [acquia.com](https://www.acquia.com/)  —托管Drupal网站.  开发人员的免费套餐.  还提供免费的开发工具（例如Acquia Dev Desktop）
   * [readthedocs.org](https://readthedocs.org/) —免费文档托管，包括版本控制，PDF生成等
-  * [bubble.is](https://bubble.is/) —可视化编程，无需代码即可构建Web和移动应用程序，每月免费100位访问者，2个应用程序
+  * [bubble.is](https://bubble.is/) —可视化编程，无需代码即可构建Web和移动应用程序，每月免费100位访客，2个应用程序
   * [contentful.com](https://www.contentful.com/)  —无头CMS.  云中的内容管理和交付API.  带有一个免费的微型空间，其中包括10个用户，5000条记录，24种内容类型和2种语言环境.
   * [tilda.cc](https://tilda.cc/) —一个站点，50个页面，50 MB的存储空间，只有170个以上可用的主要预定义块，没有字体，没有网站图标，也没有自定义域
   * [surge.sh](https://surge.sh/)  —面向前端开发人员的静态Web发布.  具有自定义域支持的无限站点
@@ -709,7 +709,7 @@
 
    * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).
    * [ide.goorm.io](https://ide.goorm.io)  goormIDE是云上的完整IDE.  多语言支持，通过功能齐全的基于Web的终端，基于Linux的容器，端口转发，自定义URL，实时协作和聊天，共享链接，Git / Subversion支持.  还有更多功能（免费套餐包括每个容器1GB RAM和10GB存储空间，5个容器插槽）.
-   * [cocalc.com](https://cocalc.com/)  —（以前是cloud.sagemath.com上的SageMathCloud）—云中的协作计算.  浏览器可访问具有内置协作功能的完整Ubuntu以及许多用于数学，科学，数据科学的免费软件，并且预安装了以下软件：Python，LaTeX，Jupyter Notebooks，SageMath，scikitlearn等.
+   * [cocalc.com](https://cocalc.com/)  —（以前是cloud.sagemath.com上的SageMathCloud）—云中的协作计算.  浏览器可访问具有内置协作功能的完整Ubuntu，并提供许多用于数学，科学，数据科学的免费软件，并且预安装了以下软件：Python，LaTeX，Jupyter Notebooks，SageMath，scikitlearn等.
    * [wakatime.com](https://wakatime.com/) —使用文本编辑器插件免费获得有关您编码活动的量化自我指标，有限计划免费.
    * [apiary.io](https://apiary.io/) —带有即时API模拟和生成的文档的协作设计API（免费提供无限的API蓝图和具有一个管理员帐户和托管文档的无限用户）.
    * [mockable.io](https://www.mockable.io/)  — Mockable是一种简单的可配置服务，用于模拟RESTful API或SOAP Web服务.  此在线服务使您可以快速定义REST API或SOAP端点，并使它们返回JSON或XML数据.

@@ -49,7 +49,7 @@
 * **裸露**-将图像分类为NSFW（裸露）或SFW（非裸露）
  [Download](https://drive.google.com/open?id=0B5TjkH3njRqncDJpdDB1Tkl2S2s) | [Demo](https://github.com/ph1ps/Nudity-CoreML) | [Reference](https://github.com/yahoo/open_nsfw)
  * ** TextRecognition（ML Kit）**-使用ML Kit内置模型实时识别文本.  [下载]（）| [Demo](https://github.com/tucan9389/TextRecognition-MLKit) | [Reference](https://firebase.google.com/docs/ml-kit/ios/recognize-text)
-
+* ** ImageSegmentation **-将摄像机帧或图像的像素划分为一组预定义的类. [Download](https://developer.apple.com/machine-learning/models/) | [Demo](https://github.com/tucan9389/ImageSegmentation-CoreML) | [Reference](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 ## Image - Image
 *转换图像的模型.*

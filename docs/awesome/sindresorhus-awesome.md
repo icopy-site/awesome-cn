@@ -4,6 +4,7 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
 	<br>
+	<hr>
 	<p>
 		<p>
 			<sup>
@@ -16,7 +17,13 @@
 		<a href="https://github.com/botpress/botpress">
 			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="260" alt="Botpress">
 		</a>
+		<br>
+		<sub><b>Botpress是一个开放源代码的对话助手创建平台.</b></sub>
+		<br>
+		 <sub>他们<a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">欢迎</a>任何人的<a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">贡献</a> ，无论您是学习机器学习，</sub> <sub><br></sub>  <sub>想要开始开源，或者只是有一个改进的想法.</sub>
+		<br>
 	</p>
+	<hr>
 	<br>
 	<br>
 	<br>
@@ -46,14 +53,12 @@
 
 
 
-
-
 ---
 
 <div align="center">
 	<p>
 		<a href="https://triplebyte.com/a/aZxgKGg/d">
-			<b>找工作？</b>
+			<b>找工作吗？</b>
 			<br>
 			 无需简历.  只要证明您可以编码即可.
 			<br>
@@ -66,7 +71,6 @@
 </div>
 
 ---
-
 
 ## Platforms
 
@@ -117,7 +121,6 @@
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) -可视化并存储来自任何设备的数据.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) -您的站点的CDN，DNS，DDoS保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) -Google Assistant开发者平台.
-
 
 ## Programming Languages
 
@@ -190,7 +193,6 @@
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
-
 
 ## Front-End Development
 
@@ -267,7 +269,6 @@
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) -实用程序优先的CSS框架，用于快速的UI开发.
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) -用于创建在WebAssembly中运行的Web应用程序的Rust框架.
 
-
 ## Back-End Development
 
 - [Flask](https://github.com/humiaozuzu/awesome-flask#readme) -Python框架.
@@ -294,7 +295,6 @@
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) -用于构建，更改和版本控制基础结构的工具.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) -Swift中的服务器端开发.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) -Python Web应用程序框架.
-
 
 ## Computer Science
 
@@ -326,7 +326,6 @@
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) -学习开发自己的搜索引擎.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) -在量子计算机上利用量子力学和量子位的计算.
 
-
 ## Big Data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
@@ -336,7 +335,6 @@
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) -用于大规模数据处理的统一引擎.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) -用于数据可视化，分析和报告应用程序的商业智能平台.
-
 
 ## Theory
 
@@ -351,7 +349,6 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) -遍历嵌套的数据结构.
 
-
 ## Books
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
@@ -362,7 +359,6 @@
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
 
-
 ## Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
@@ -370,7 +366,6 @@
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
 - [Atom](https://github.com/mehcode/awesome-atom#readme) -开源和可入侵的文本编辑器.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) -跨平台的开源文本编辑器.
-
 
 ## Gaming
 
@@ -391,7 +386,6 @@
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) -用于生成跨平台本机代码的高级强类型编程语言.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) -Java游戏框架.
 - [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) -游戏引擎.
-
 
 ## Development Environment
 
@@ -416,7 +410,7 @@
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) -跨平台的面向对象的外壳.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) -适用于macOS的生产力应用程序.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
-
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) -创建任务以自动化您的工作流程并在GitHub上与其他人共享.
 
 ## Entertainment
 
@@ -425,7 +419,6 @@
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
-
 
 ## Databases
 
@@ -442,7 +435,6 @@
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) -分布式，可扩展的大数据存储.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) -帮助使用非关系型，分布式，开源和水平可伸缩的数据库.
 
-
 ## Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
@@ -458,7 +450,6 @@
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) -跨平台解决方案，用于记录，转换和流式传输音频和视频.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) -可下载的SVG / PNG /字体图标项目.
 
-
 ## Learn
 
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) -互动教程.
@@ -473,7 +464,6 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) -主要关于CSS –语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) -了解如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) -为您提供一条清晰的途径来提高您的知识和技能.
-
 
 ## Security
 
@@ -494,14 +484,12 @@
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) -欧盟内所有个人的数据保护和隐私法规.
 
 
-
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) -Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) -Django CMS专注于灵活性和用户体验.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) -基于PHP的轻量级CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) -基于PHP的可扩展CMS.
-- [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
-
+- [Craft CMS](https://github.com/craftcms/awesome#readme) -内容优先的CMS.
 
 ## Hardware
 
@@ -510,7 +498,6 @@
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) -适用于电子工程师和业余爱好者.
 - [Bluetooth Beacons](https://github.com/squaremetrics/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) -建立自己的电吉他的清单.
-
 
 ## Business
 
@@ -521,8 +508,7 @@
 - [Indie](https://github.com/mezod/awesome-indie#readme) -独立开发商业务.
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -公司在Hacker News上使用的工具.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) -用技术应对气候变化.
-- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) -提供高度的态势感知能力，以帮助改善战略规划和决策.
-
+- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 
 ## Work
 
@@ -534,13 +520,11 @@
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) -审核代码.
 
-
 ## Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
-
 
 ## Decentralized Systems
 
@@ -552,12 +536,10 @@
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) -人工智能和机器学习的区块链项目.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) -支持工业规模应用程序的分散式操作系统.
 
-
 ## Higher Education
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) -使用计算方法研究神经系统的多学科科学.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) -历史的计算机辅助科学研究.
-
 
 ## Miscellaneous
 
@@ -607,7 +589,7 @@
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) -Node.js CLI框架.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) -低开销，跨平台的3D图形和计算API.
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) -排版语言.
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
 - [Economics](https://github.com/antontarasenko/awesome-economics#readme) -经济学家的入门工具包.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
@@ -642,7 +624,7 @@
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) -研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) -无广告替代品.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) -为实验或玩笑而不是实际使用而设计的编程语言.
-- [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
+- [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - Open-source monitoring system.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) -智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) -在命令行上两次输入记帐.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) -公共领域的作品.
@@ -681,7 +663,6 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) -寻找解决气候危机的方法.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) -正确命名计算机科学中的事物.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) -如何从非结构化生物医学数据和文本中提取信息.
-
 
 ## Related
 

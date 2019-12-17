@@ -5,6 +5,7 @@
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
 	</div>
 	<br>
+	<hr>
 	<p>
 		<sup>特别感谢：</sup>
 		<br>
@@ -13,11 +14,12 @@
 			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="180" alt="Botpress">
 		</a>
 		<br>
-		<p>
-			<sup>
-				和
-			</sup>
-		</p>
+		<sub><b>Botpress是一个开放源代码的对话助手创建平台.</b></sub>
+		<br>
+		 <sub>他们<a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">欢迎</a>任何人的<a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">贡献</a> ，无论您是学习机器学习，</sub> <sub><br></sub>  <sub>想要开始开源，或者只是有一个改进的想法.</sub>
+		<br>
+		<br>
+		<br>
 		<a href="https://segment.com">
 			<img src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/segment-logo.svg?sanitize=true" width="180" alt="Segment">
 		</a>
@@ -26,6 +28,7 @@
 			 使用细分节省设置分析的时间.  <a href="https://segment.com/jobs">我们正在招聘！</a>
 		</sup>
 	</p>
+	<hr>
 	<br>
 	<br>
 	<br>
@@ -41,8 +44,6 @@
 
 
 
-
-
 ## Packages
 
 ### Mad science
@@ -55,7 +56,7 @@
 - [peerwiki](https://github.com/mafintosh/peerwiki) -关于BitTorrent的所有Wikipedia.
 - [peercast](https://github.com/mafintosh/peercast) -将torrent视频流传输到Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) -干净，可读，经过验证的比特币库.
-- [Bitcore](https://github.com/bitpay/bitcore) - Pure and powerful Bitcoin library.
+- [Bitcore](https://github.com/bitpay/bitcore) -强大的纯比特币库.
 - [PDFKit](https://github.com/devongovett/pdfkit) -PDF生成库.
 - [turf](https://github.com/Turfjs/turf) -模块化地理空间处理和分析引擎.
 - [webcat](https://github.com/mafintosh/webcat) -使用WebRTC的p2p网络管道，该WebRTC使用GitHub私钥/公钥进行身份验证.
@@ -69,7 +70,6 @@
 - [skale](https://github.com/skale-me/skale-engine) -高性能分布式数据处理引擎.
 - [xlsx](https://github.com/sheetjs/js-xlsx) -纯JS Excel电子表格阅读器和编写器.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) -Git的纯JavaScript实现.
-
 
 ### Command-line apps
 
@@ -125,7 +125,7 @@
 - [lessmd](https://github.com/linuxenko/lessmd) -在终端中降价.
 - [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) -找出哪些依赖性使您减速.
 - [localtunnel](https://github.com/localtunnel/localtunnel) -将您的本地主机公开.
-- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) -通过SVG分享终端会话.
 - [gtop](https://github.com/aksakalli/gtop) -终端的系统监控仪表板.
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成主题.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) -代码的精美图片-从终端内部直接显示.
@@ -133,7 +133,6 @@
 - [taskbook](https://github.com/klauscfhq/taskbook) -命令行栖息地的任务，公告板和注释.
 - [discharge](https://github.com/brandonweiss/discharge) -轻松地将静态网站部署到Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) -轻松查找并删除旧的沉重的node_modules文件夹.
-
 
 ### Functional programming
 
@@ -146,7 +145,6 @@
 - [RxJS](https://github.com/reactivex/rxjs) -功能性反应式库，用于转换，合成和查询各种数据.
 - [Lazy.js](https://github.com/dtao/lazy.js) -类似于lodash / Underscore的实用程序库，但具有懒惰的评估，在许多情况下可以转换为出色的性能.
 - [Kefir.js](https://github.com/kefirjs/kefir) -反应性库，专注于高性能和低内存使用.
-
 
 ### HTTP
 
@@ -164,7 +162,6 @@
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) -使用RFC兼容的缓存支持包装本机HTTP请求.
 - [gotql](https://github.com/khaosdoctor/gotql) -建立在GraphQL请求库上 [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) –可以使用环境变量配置的全局HTTP / HTTPS代理.
-
 
 ### Debugging / Profiling
 
@@ -184,7 +181,6 @@
 - [thetool](https://github.com/sfninja/thetool) -以Chrome DevTools友好格式为您的应用捕获不同的CPU，内存和其他配置文件.
 - [swagger-stats](https://github.com/slanatech/swagger-stats) -跟踪API调用并监视API性能，运行状况和使用情况指标.
 
-
 ### Logging
 
 - [pino](https://github.com/pinojs/pino) -受Bunyan启发的超快速记录器.
@@ -192,7 +188,6 @@
 - [console-log-level](https://github.com/watson/console-log-level) -可以想象的最简单的记录器，它支持日志级别和自定义前缀.
 - [storyboard](https://github.com/guigrpa/storyboard) -端到端，分层，实时，彩色日志和故事.
 - [signale](https://github.com/klauscfhq/signale) -可入侵的控制台记录器，输出精美.
-
 
 ### Command-line utilities
 
@@ -227,9 +222,9 @@
 - [columnify](https://github.com/timoxley/columnify)  -创建适合控制台输出的基于文本的列.  支持单元包装.
 - [cli-columns](https://github.com/shannonmoeller/cli-columns) -分栏的unicode和ansi安全文本列表.
 - [cfonts](https://github.com/dominikwilkowski/cfonts) -控制台的性感ASCII字体.
-- [multispinner](https://github.com/codekirei/node-multispinner) -多个同时进行的，可单独控制的CLI微调器.
+- [multispinner](https://github.com/codekirei/node-multispinner) -多个同时进行且可单独控制的CLI微调器.
 - [omelette](https://github.com/f/omelette) -Shell自动补全助手.
-- [cross-env](https://github.com/kentcdodds/cross-env) -跨平台设置环境变量.
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 - [shelljs](https://github.com/shelljs/shelljs) -可移植的Unix shell命令.
 - [sudo-block](https://github.com/sindresorhus/sudo-block) -阻止用户使用root权限运行您的应用程序.
 - [loud-rejection](https://github.com/sindresorhus/loud-rejection) -使未处理的承诺拒绝大声失败，而不是默认的静默失败.
@@ -239,7 +234,6 @@
 - [oclif](https://github.com/oclif/oclif) -CLI框架，包括解析器，自动文档，测试和插件.
 - [term-size](https://github.com/sindresorhus/term-size) -可靠地获得终端窗口的大小.
 - [Cliffy](https://github.com/drew-y/cliffy) -交互式CLI的框架.
-
 
 ### Build tools
 
@@ -254,7 +248,6 @@
 - [FuseBox](https://github.com/fuse-box/fuse-box) -快速构建的系统，结合了webpack，JSPM和SystemJS的强大功能，并具有一流的TypeScript支持.
 - [pkg](https://github.com/zeit/pkg) -将您的Node.js项目打包为可执行文件.
 
-
 ### Hardware
 
 - [johnny-five](https://github.com/rwaldron/johnny-five) -基于Firmata的Arduino框架.
@@ -266,15 +259,13 @@
 - [pigpio](https://github.com/fivdi/pigpio) -Raspberry Pi上的快速GPIO，PWM，伺服控制，状态更改通知和中断处理.
 - [gps](https://github.com/infusion/GPS.js) -NMEA解析器，用于处理GPS接收器.
 
-
 ### Templating
 
 - [marko](https://github.com/marko-js/marko) -基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流，异步渲染和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) -具有继承，异步控制等功能的模板引擎（受Jinja2启发）.
 - [handlebars.js](https://github.com/wycats/handlebars.js) -胡子模板的超集，它添加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) -简单的简单的模板语言.
+- [EJS](https://github.com/mde/ejs) -简单的非模板化语言.
 - [Pug](https://github.com/pugjs/pug) -受Haml影响的高性能模板引擎.
-
 
 ### Web frameworks
 
@@ -290,7 +281,7 @@
 - [Next.js](https://github.com/zeit/next.js) -服务器呈现的通用JavaScript Web应用程序的简约框架.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) -服务器呈现的Vue.js应用程序的简约框架.
 - [seneca](https://github.com/senecajs/seneca) -编写微服务的工具包.
-- [AdonisJs](http://adonisjs.com) -基于Dependency Injection和IoC容器的坚实基础的Node.js的真正MVC框架.
+- [AdonisJs](http://adonisjs.com) -用于Node.js的真正MVC框架，该框架建立在依赖注入和IoC容器的坚实基础上.
 - [Hemera](https://github.com/hemerajs/hemera) -使用编写可靠且容错的微服务 [NATS](https://nats.io).
 - [Micro](https://github.com/zeit/micro) -带有异步方法的简约微服务框架.
 - [Moleculer](https://moleculer.services) -快速而强大的微服务框架.
@@ -299,14 +290,12 @@
 - [Zeronode](https://github.com/sfast/zeronode) -用于可靠和容错微服务的最小构建块.
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) -用于使用TypeScript使用类和装饰器创建GraphQL API的现代框架.
 
-
 ### Documentation
 
 - [documentation.js](https://github.com/documentationjs/documentation) -API文档生成器，支持ES2015 +和流程注释.
 - [ESDoc](https://github.com/esdoc/esdoc) -针对ES2015的文档生成器，附带测试代码并衡量文档覆盖范围.
 - [Docco](https://github.com/jashkenas/docco) -文档生成器，该文档生成器生成一个HTML文档，该文档显示与代码混合在一起的注释.
 - [JSDoc](https://github.com/jsdoc3/jsdoc) -API文档生成器，类似于JavaDoc或PHPDoc.
-
 
 ### Filesystem
 
@@ -316,7 +305,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除“ rm -rf”之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机的fsevents.
+- [chokidar](https://github.com/paulmillr/chokidar) -稳定来自fs.watch和fs.watchFile的事件以及在macOS上使用本机fsevents的文件系统监视程序.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -331,7 +320,6 @@
 - [filehound](https://github.com/nspragg/filehound) -灵活流畅的界面，用于搜索文件系统.
 - [move-file](https://github.com/sindresorhus/move-file) -移动文件，甚至可以跨设备使用.
 - [tempy](https://github.com/sindresorhus/tempy) -获取随机的临时文件或目录路径.
-
 
 ### Control flow
 
@@ -356,7 +344,6 @@
 -频道
 	- [js-csp](https://github.com/ubolonton/js-csp) -通信JavaScript的顺序过程（例如Clojurescript core.async或Go）.
 
-
 ### Streams
 
 - [through2](https://github.com/rvagg/through2) -stream2周围的微小包装器进行转换以避免显式的子类化噪声.
@@ -375,7 +362,6 @@
 - [readable-stream](https://github.com/nodejs/readable-stream) -核心中Streams2和Streams3实现的镜像.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) -同时转换对象流.
 
-
 ### Real-time
 
 - [µWebSockets](https://github.com/uWebSockets/uWebSockets) -高度可扩展的WebSocket服务器和客户端库.
@@ -389,7 +375,6 @@
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) -通过WebSocket实现JSON-RPC 2.0.
 - [Aedes](https://github.com/mcollina/aedes) -可以在任何流服务器上运行的准系统MQTT服务器.
 
-
 ### Image
 
 - [sharp](https://github.com/lovell/sharp) -用于调整JPEG，PNG，WebP和TIFF图像大小的最快模块.
@@ -400,7 +385,6 @@
 - [jimp](https://github.com/oliver-moran/jimp) -使用纯JavaScript进行图像处理.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) -无需完全下载即可获取大多数图像格式的尺寸.
 - [qrcode](https://github.com/soldair/node-qrcode) -QR码和条形码生成器.
-
 
 ### Text
 
@@ -421,14 +405,12 @@
 - [i18next](https://github.com/i18next/i18next) -国际化框架.
 - [nanoid](https://github.com/ai/nanoid) -微型，安全，URL友好的唯一字符串ID生成器.
 
-
 ### Number
 
 - [random-int](https://github.com/sindresorhus/random-int) -生成一个随机整数.
 - [random-float](https://github.com/sindresorhus/random-float) -产生随机浮动.
 - [unique-random](https://github.com/sindresorhus/unique-random) -生成连续唯一的随机数.
 - [round-to](https://github.com/sindresorhus/round-to) -将数字四舍五入到特定的小数位数：“ 1.234”→“ 1.2”.
-
 
 ### Math
 
@@ -437,7 +419,6 @@
 - [math-clamp](https://github.com/sindresorhus/math-clamp) -固定一个数字.
 - [algebra](https://github.com/fibo/algebra) -代数结构.
 - [multimath](https://github.com/nodeca/multimath) -在WebAssembly和JS中创建快速图像数学的核心.
-
 
 ### Date
 
@@ -449,7 +430,6 @@
 - [tz-format](https://github.com/samverschueren/tz-format) -格式化带时区的日期：`2015-11-30T10：40：35 + 01：00`.
 - [cctz](https://github.com/floatdrop/node-cctz) -快速的日期解析，格式化和时区对话.
 
-
 ### URL
 
 - [normalize-url](https://github.com/sindresorhus/normalize-url) -规范化网址.
@@ -460,7 +440,6 @@
 - [url-pattern](https://github.com/snd/url-pattern) -URL和其他字符串比正则表达式字符串匹配模式更容易.
 - [embedza](https://github.com/nodeca/embedza) -使用来自oEmbed，Open Graph和meta标签的信息，从URL创建HTML代码段/嵌入.
 
-
 ### Data validation
 
 - [joi](https://github.com/hapijs/joi) -对象模式描述语言和JavaScript对象的验证器.
@@ -468,7 +447,6 @@
 - [property-validator](https://github.com/nettofarah/property-validator) -Express的简单属性验证.
 - [schema-inspector](https://github.com/Atinux/schema-inspector) -JSON API清理和验证.
 - [ajv](https://github.com/epoberezkin/ajv)  -最快的JSON模式验证器.  支持v5，v6和v7建议.
-
 
 ### Parsing
 
@@ -479,7 +457,7 @@
 - [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) -从CSS中删除注释.
 - [parse-json](https://github.com/sindresorhus/parse-json) -解析JSON有更多有用的错误.
 - [URI.js](https://github.com/medialize/URI.js) -URL突变.
-- [PostCSS](https://github.com/postcss/postcss) -CSS解析器/字符串化器.
+- [PostCSS](https://github.com/postcss/postcss) - CSS parser / stringifier.
 - [JSONStream](https://github.com/dominictarr/JSONStream) -流JSON.parse和stringify.
 - [neat-csv](https://github.com/sindresorhus/neat-csv)  -快速CSV解析器.  以上的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) -旨在比其他所有人更快的流式CSV解析器.
@@ -497,7 +475,6 @@
 - [Chevrotain](https://github.com/SAP/chevrotain) -非常快速且功能丰富的JavaScript解析器构建工具包.
 - [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) -验证和解析XML.
 
-
 ### Humanize
 
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) -将字节转换为人类可读的字符串：1337→1.34 kB.
@@ -505,7 +482,6 @@
 - [ms](https://github.com/rauchg/ms.js) -微小的毫秒转换工具.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) -错误更少.
 - [read-art](https://github.com/Tjatse/node-readability) -从任何页面提取可读内容.
-
 
 ### Compression
 
@@ -516,7 +492,6 @@
 - [tar-stream](https://github.com/mafintosh/tar-stream)  -流式tar解析器和生成器.  另见 [tar-fs](https://github.com/mafintosh/tar-fs).
 - [decompress](https://github.com/kevva/decompress) -解压模块，开箱即用，支持tar，tar.gz和zip文件.
 
-
 ### Network
 
 - [get-port](https://github.com/sindresorhus/get-port) -获取可用端口.
@@ -524,7 +499,6 @@
 - [getmac](https://github.com/bevry/getmac) -获取计算机的MAC地址.
 - [DHCP](https://github.com/infusion/node-dhcp) -DHCP客户端和服务器.
 - [netcat](https://github.com/roccomuso/netcat) -纯JS中的Netcat端口.
-
 
 ### Database
 
@@ -535,7 +509,7 @@
 	- [MySQL](https://github.com/mysqljs/mysql) -MySQL客户端.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) -CouchDB客户端.
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) -Aerospike客户.
-	- [Couchbase](https://github.com/couchbase/couchnode) -Couchbase客户端.
+	- [Couchbase](https://github.com/couchbase/couchnode) -客户沙发床.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -MongoDB驱动程序.
 -ODM / ORM
 	- [Sequelize](https://github.com/sequelize/sequelize)  -多方ORM.  支持PostgreSQL，SQLite，MySQL.
@@ -558,7 +532,6 @@
 	- [Finale](https://github.com/tommybananas/finale) -用于Sequelize模型的RESTful端点生成器.
 	- [database-js](https://github.com/mlaanderson/database-js) -具有类似JDBC连接的多个数据库的包装器.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) -使用JavaScript和JSON文件填充MongoDB数据库.
-
 
 ### Testing
 
@@ -587,43 +560,37 @@
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) -无头铬.
 - [nve](https://github.com/ehmicky/nve) -在本地的多个版本的Node.js上运行任何命令.
 
-
 ### Security
 
 - [upash](https://github.com/simonepri/upash) -适用于所有密码哈希算法的统一API.
 - [themis](https://github.com/cossacklabs/themis) -使简单的加密方案易于使用的多语言框架：静态数据，经过身份验证的数据交换，传输保护，身份验证等.
-- [GuardRails](https://github.com/apps/guardrails) -GitHub应用程序，可在请求请求中提供安全反馈.
+- [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) -暴力破解和DDoS攻击防护.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) -异步非阻塞哈希.
 - [jose-simple](https://github.com/davesag/jose-simple) —使用JOSE（JSON对象签名和加密）标准对数据进行加密和解密.
-
 
 ### Benchmarking
 
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js) -基准测试库，支持高分辨率计时器并返回具有统计意义的结果.
 - [matcha](https://github.com/logicalparadox/matcha) -基准化的简单方法.
 
-
 ### Minifiers
 
 - [babili](https://github.com/babel/babili) -基于Babel工具链的可感知ES2015 +的压缩程序.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) -JavaScript缩小器.
-- [clean-css](https://github.com/jakubpawlowicz/clean-css) -CSS缩小器.
+- [clean-css](https://github.com/jakubpawlowicz/clean-css) - CSS minifier.
 - [minimize](https://github.com/Swaagie/minimize) -HTML缩小器.
 - [imagemin](https://github.com/imagemin/imagemin) -图像缩小器.
-
 
 ### Authentication
 
 - [Passport](https://github.com/jaredhanson/passport) -简单，轻松的身份验证.
 - [Grant](https://github.com/simov/grant) -适用于Express，Koa和Hapi的OAuth中间件.
 
-
 ### Authorization
 
 - [CASL](https://github.com/stalniy/casl) -UI和API的同构授权.
 - [node-casbin](https://github.com/casbin/node-casbin) -支持访问控制模型（如ACL，RBAC和ABAC）的授权库.
-
 
 ### Email
 
@@ -631,7 +598,6 @@
 - [emailjs](https://github.com/eleith/emailjs) -将带有附件的文本/ HTML电子邮件发送到任何SMTP服务器.
 - [email-templates](https://github.com/niftylettuce/email-templates) -创建，预览和发送自定义电子邮件模板.
 - [MJML](https://github.com/mjmlio/mjml) -标记语言旨在减轻创建响应电子邮件的麻烦.
-
 
 ### Job queues
 
@@ -645,7 +611,6 @@
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) -在没有样板的情况下构建基于Amazon Simple Queue Service（SQS）的应用程序.
 - [better-queue](https://github.com/diamondio/better-queue) -无法使用Redis时，简单而高效的作业队列.
 
-
 ### Node.js management
 
 - [n](https://github.com/tj/n) -Node.js版本管理.
@@ -654,15 +619,13 @@
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) -Windows版本管理.
 - [nodenv](https://github.com/nodenv/nodenv)  -版本管理器，类似于Ruby的rbenv.  它支持自动版本切换.
 
-
 ### Natural language processing
 
 - [retext](https://github.com/wooorm/retext) -可扩展的自然语言系统.
 - [franc](https://github.com/wooorm/franc) -检测文字的语言.
 - [leven](https://github.com/sindresorhus/leven) -使用Levenshtein距离算法测量两个字符串之间的差异.
-- [natural](https://github.com/NaturalNode/natural) - Natural language facility.
+- [natural](https://github.com/NaturalNode/natural) -自然语言设施.
 - [nlp.js](https://github.com/axa-group/nlp.js) -具有实体提取，情感分析，自动语言识别等功能的构建机器人.
-
 
 ### Process management
 
@@ -674,18 +637,15 @@
 - [supervisor](https://github.com/petruisfan/node-supervisor) -当脚本崩溃时重新启动脚本，或在* .js文件更改时重新启动脚本.
 - [Phusion Passenger](https://github.com/phusion/passenger) -友好的流程管理器，直接集成到Nginx中.
 
-
 ### Automation
 
 - [robotjs](https://github.com/octalmage/robotjs) -桌面自动化：控制鼠标，键盘和阅读屏幕.
-
 
 ### AST
 
 - [Acorn](https://github.com/ternjs/acorn) -小型，快速的JavaScript解析器.
 - [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) -Babel中使用的JavaScript解析器.
 - [cherow](https://github.com/cherow/cherow) -注重性能和稳定性的JavaScript解析器.
-
 
 ### Static site generators
 
@@ -697,23 +657,19 @@
 - [Charge](https://github.com/brandonweiss/charge) -使用JSX和MDX的自带零配置静态站点生成器.
 
 
-
 - [KeystoneJS](https://github.com/keystonejs/keystone) -基于Express和MongoDB构建的CMS和Web应用程序平台.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) -基于Express和MongoDB的内容管理系统，重点在于直观的前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) -内容管理框架（headless-CMS），用于构建功能强大的API.
 - [Tipe](https://github.com/tipeio/tipe) -来自架构文件的具有GraphQL和REST API的开发人员优先的内容管理系统.
 
-
 ### Forum
 
 - [nodeBB](https://github.com/NodeBB/NodeBB) -现代网络论坛平台.
-
 
 ### Blogging
 
 - [Ghost](https://github.com/TryGhost/Ghost) -简单，功能强大的发布平台.
 - [Hexo](https://github.com/hexojs/hexo) -快速，简单而强大的博客框架.
-
 
 ### Weird
 
@@ -727,13 +683,11 @@
 - [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍˄·͈·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”`.
 - [nerds](https://github.com/SkyHacks/nerds) -从诸如哈利·波特，星球大战和神奇宝贝等讨厌的话题中获取数据.
 
-
 ### Serialization
 
 - [snappy](https://github.com/kesla/node-snappy) -Google的Snappy压缩库的本地绑定.
 - [protobuf](https://github.com/dcodeIO/protobuf.js) -协议缓冲区的实现.
 - [compactr](https://github.com/compactr/compactr.js) -压缩器协议的实现.
-
 
 ### Miscellaneous
 
@@ -752,7 +706,7 @@
 - [adit](https://github.com/markelog/adit) -SSH隧道变得简单.
 - [import-lazy](https://github.com/sindresorhus/import-lazy) -延迟导入模块.
 - [file-type](https://github.com/sindresorhus/file-type) -检测缓冲区的文件类型.
-- [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
+- [Bottleneck](https://github.com/SGrondin/bottleneck) -速率限制器，使节流变得容易.
 - [ow](https://github.com/sindresorhus/ow) -对人类的功能参数验证.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) -带有本地线程的轻量级Web Worker API实现.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) -访问系统剪贴板（复制/粘贴）.
@@ -774,7 +728,6 @@
 - [node-video-lib](https://github.com/gkozlenko/node-video-lib) -用于处理MP4和FLV视频文件并为HLS流创建MPEG-TS块的纯JavaScript库.
 - [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP / FTPS客户端.
 
-
 ## Resources
 
 ### Tutorials
@@ -787,7 +740,7 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用一些简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/实时流，可帮助您使用一些简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
 
 ### Discovery
 
@@ -840,7 +793,7 @@
 ### Blogs
 
 - [Node.js blog](https://nodejs.org/en/blog/)
-- [webapplog.com](http://webapplog.com/tag/node-js/) -实用Node.js和Pro Express.js Azat Mardan的作者撰写的有关Node.js和JavaScript的博客文章.
+- [webapplog.com](http://webapplog.com/tag/node-js/) -实用Node.js和Pro Express.js的作者Azat Mardan撰写的有关Node.js和JavaScript的博客文章.
 
 ### Courses
 
@@ -882,12 +835,10 @@
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) -在Microsoft平台上使用Node.js的提示，技巧和资源.
 - [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) -请求您希望存在的JavaScript模块或获取有关模块的想法.
 
-
 ## Related lists
 
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) -使用npm的资源和技巧.
 - [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) -用于编写和测试跨平台代码的资源.
-
 
 ## License
 
