@@ -107,7 +107,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) -VSC中丰富的1С：Enterprise 8（BSL）语言支持-向VSC中的* .bslи* .os文件添加语法高亮显示，为1Сlang添加IntelliSense和语法帮助器
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) -VSC中丰富的1С：Enterprise 8（BSL）语言支持-在VSC中的* .bsl和* .os文件中添加语法高亮显示，为1Сlang添加IntelliSense和语法帮助器
 
 ## Bash
 
@@ -350,7 +350,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Deploy](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy)
 
-&gt;用于将工作空间的文件上传或复制到目标的命令.
+> Commands for upload or copy files of a workspace to a destination.
 
 ![Upload/copy files animation](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
 
@@ -464,6 +464,12 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ![View and run your .NET Core tests directly in the editor animation](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer.gif)
 
+## [i18n Ally](https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally)
+
+&gt; VSCode的多合一i18n扩展
+
+![i18n Ally](https://raw.githubusercontent.com/antfu/i18n-ally/master/screenshots/overview.png)
+
 ## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 
 &gt;只需在vscode中编辑markdown文档，并在键入时立即在浏览器中预览.
@@ -512,6 +518,12 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 &gt;在项目之间轻松切换.
 
 ![Switch between projects screenshot](https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/project-manager-commands.png)
+
+## [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+
+&gt;允许用户打开容器，远程计算机，容器或Windows Subsystem for Linux（WSL）中的任何文件夹，并利用VS Code的全部功能集.
+
+![Remote SSH extension at work](https://microsoft.github.io/vscode-remote-release/images/ssh-readme.gif)
 
 ## [Remote VSCode](https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode)
 
@@ -1092,7 +1104,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
-- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一项扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写者等. Plus和RStudio Markdown.
+- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一个扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写器等.MarkdownPreview的灵感源自Markdown Preview Plus和RStudio Markdown.
 
 ## Online Courses
 

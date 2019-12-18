@@ -10,7 +10,7 @@
 令人敬畏的事物目前仅分为几个不同的类别： 
 
 
-是什么 [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)  清单？  这是使******成为世界上最令人惊奇的联合创作平台之一的东西的集合.
+是什么 [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)  清单？  这是使****成为世界上最令人惊叹的联合创作平台之一的东西的集合.
 
 它专门针对_GitHub_，而不是 [Git](https://git-scm.com/) .  Git确实很棒.  没有Git，就不会有GitHub.  然而，GitHub不仅成为人类许多开放源代码的所在地；  它已成为世界上最生动的大规模协作力量之一.
 
@@ -50,7 +50,7 @@
 - [GitHub Desktop](https://desktop.github.com/) - Simple collaboration from your desktop.
 - [Atom](https://github.com/blog/2031-announcing-atom-1-0)  -您知道GitHub是一名编辑吗？  用它来编写，编码等.
 - [Electron](http://electron.atom.io/) -使用网络技术构建跨平台桌面应用
-- [GitHub Buttons](https://ghbtns.com/) -通过可热链接的GitHub star，fork或Follow按钮来展示GitHub存储库的成功.
+- [GitHub Buttons](https://ghbtns.com/) -通过可热链接的GitHub star，fork或Follow按钮展示GitHub repo的成功.
 - [Resume](http://resume.github.io/) -使用GitHub生成的简历. 
 - [Speaker Deck](https://speakerdeck.com/) -通过GitHub分享简报.
 - [Blocks](http://bl.ocks.org/)  -这是GitHub Gist上托管的代码示例的简单查看器.  （简介是 [here](http://bost.ocks.org/mike/block/))
@@ -67,7 +67,7 @@
 - [Overv.io](https://overv.io/)  -面向喜欢GitHub的团队的敏捷项目管理.  看板包和更多.
 - [Penflip](https://www.penflip.com/) -由GitLab（类似于GitHub）提供支持的协作编写和版本控制.
 - [Gitbook](https://www.gitbook.com/)  -现代发布工具链.  只需将您从想法带入完成的精美书中.
-- [Prose](http://prose.io/#about) -散文为以下内容提供了一个非常漂亮的内容创作环境 [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/) .  这是一个基于Web的界面，用于在GitHub上管理内容. 
+- [Prose](http://prose.io/#about) -散文为以下内容提供了一个非常漂亮的内容创作环境： [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/) .  这是一个基于Web的界面，用于在GitHub上管理内容. 
 - [Redliner](https://github.com/benbalter/redliner) -一种在GitHub未启动的情况下促进文档重新编排的工具. 
 - [Gatekeeper](https://github.com/prose/gatekeeper) -使客户端应用程序能够与GitHub交流OAuth.
 - [github-secret-keeper](https://github.com/HenrikJoreteg/github-secret-keeper) -微服务，可为多个无服务器应用程序启用GitHub登录.
@@ -76,7 +76,7 @@
 - [cli-github](https://github.com/harshasrinivas/cli-github) -在命令行中，Github变得漂亮.
 - [GitHub Dark](https://github.com/StylishThemes/Github-Dark) -GitHub的复杂深色主题.
 - [github-issues-import](https://github.com/IQAndreas/github-issues-import) -一个Python脚本，允许您导入问题并将请求从一个GitHub存储库拉至另一个
-- [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) -一个Python脚本，可在本地搜索GitHub存储库并自动创建GitHub问题以生成TODO语句，并对其进行跟踪.
+- [Github-Auto-Issue-Creator](https://github.com/Ricky54326/Github-Auto-Issue-Creator) -一个Python脚本，可在本地搜索GitHub存储库，并自动为TODO语句创建GitHub问题，从而跟踪它们.
 - [Problem Child](https://github.com/benbalter/problem_child) -允许经过身份验证或匿名的用户填写标准的Web表单，以创建GitHub问题（和拉取请求）.
 - [gitify](http://gitify.io/) -您菜单上的所有GitHub通知.
 - [HubPress](https://github.com/HubPress/hubpress.io) -一个在GitHub上构建您的Blog的Web应用程序
@@ -87,6 +87,7 @@
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) -轻松管理Git项目中的大文件，对数据科学项目很有用
 - [Gitential.com](https://gitential.com) -测量和可视化编码时间，生产率，项目，团队，回购协议或单个开发人员的效率.
 - [Octotree](https://www.octotree.io/)  -浏览器扩展，可增强GitHub代码浏览和拉取请求审查.  在Chrome，Firefox，Opera和Safari上可用.
+- [FeatHub](https://feathub.com/) -对GitHub进行功能投票.
 
 ## Novel uses of GitHub
 

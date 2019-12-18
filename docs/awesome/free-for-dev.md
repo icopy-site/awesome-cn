@@ -2,11 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## [free-for.dev](https://free-for.dev)
 
-开发人员和开放源代码作者现在拥有大量提供免费层的服务，但是要做出明智的决定，很难找到所有的层.
+开发人员和开放源代码作者现在拥有大量提供免费层的服务，但是要做出明智的决定，可能很难找到它们.
 
 这是软件（SaaS，PaaS，IaaS等）和为开发人员提供免费套餐的其他产品的列表.
 
- 该特定列表的范围仅限于基础架构开发人员（系统管理员，DevOps实践人员等）可能会有用的东西.  我们喜欢那里的所有免费服务，但是最好还是保留它.  有时候这是一条灰色的线，所以有点自以为是.  如果我不接受您的捐款，请不要生气.
+ 该特定列表的范围仅限于基础设施开发人员（系统管理员，DevOps实践人员等）可能会有用的东西.  我们喜欢那里的所有免费服务，但是最好还是保留它.  有时候这是一条灰色的线，所以有点自以为是.  如果我不接受您的捐款，请不要生气.
 
 此列表是500多人的拉取请求，评论，想法和工作的结果，您也可以通过发送帮助 [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务，或删除产品已更改或已淘汰的服务.
 
@@ -113,7 +113,7 @@
   * [dreamfactory.com](https://dreamfactory.com/)  —适用于移动，Web和IoT应用程序的开源REST API后端.  连接任何SQL / NoSQL数据库，文件存储系统或外部服务，它会立即创建一个全面的REST API平台，其中包含实时文档，用户管理，...
   * [FraudLabs Pro](https://www.fraudlabspro.com)  —筛选用于信用卡付款欺诈的订单交易.  该REST API将基于订单的输入参数检测所有可能的欺诈特征.  免费Micro计划每月有500笔交易.
   * [FreeGeoIP.app](https://freegeoip.app/)  -完全免费的Geo IP信息（JSON，CSV，XML）.  无需注册，每小时15,000个查询的速率限制.
-  * [IP Geolocation](https://ipgeolocation.io/) — IP地理位置API-每月30k请求（每天（k / day）限制）的开发人员永久免费的计划.
+  * [IP Geolocation](https://ipgeolocation.io/) — IP地理位置API-永久免费计划，适用于每月限制3万个请求（每天1k /天）的开发人员.
   * [IP2Location](https://www.ip2location.com)  — Freemium IP地理位置服务.  LITE数据库可免费下载.  将数据库导入服务器，然后执行本地查询以确定城市，坐标和ISP信息.
   * [IPinfo](https://ipinfo.io/)  —快速，准确，免费（每月最多10万个）IP地址数据API.  提供有关地理位置，公司，运营商，IP范围，域，滥用联系人等详细信息的API.  所有付费API均可免费试用.
   * [IPList](https://www.iplist.cc)  —有关任何IP地址的查询详细信息，例如Geo IP信息，tor地址，主机名和ASN详细信息.  个人和企业用户免费.
@@ -186,6 +186,7 @@
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free)  — Microsoft Teams是一个基于聊天的数字中心，可以一次将所有对话，内容和应用程序集中在一起.  免费，最多可容纳300位用户.
   * [featurepeek.com](https://featurepeek.com)  -内置团队协作工具的，与云提供商无关的前端功能环境.  与静态和Dockerized前端一起使用.  免费用于公共存储库.
   * [Spectrum](https://spectrum.chat/) -免费创建公共或私人社区.
+  * [StatusPile](https://www.statuspile.com/)  -状态页的状态页.  跟踪上游提供商的状态页.
   * [Pendulums](https://pendulums.io/) -Pendulums是一个免费的时间跟踪工具，可通过易于使用的界面和有用的统计信息帮助您更好地管理时间.
   * [Notion](https://www.notion.so/)  -概念是一个记笔记和协作应用程序，具有降价支持，还集成了任务，Wiki和数据库.  该公司将该应用程序描述为一个多功能的工作空间，用于记笔记，项目管理和任务管理.  除了跨平台应用程序之外，还可以通过大多数Web浏览器访问它.
   * [Tadum](https://tadum.app) -专为定期会议而设计的会议议程和会议记录应用，免费供10人以下的团队使用
@@ -271,7 +272,7 @@
   * [threatconnect.com](https://threatconnect.com)  —威胁情报：它是为开始学习网络威胁情报的个人研究人员，分析人员和组织而设计的.  最多释放3位用户
   * [crypteron.com](https://www.crypteron.com/) —面向开发人员的云优先，对开发人员友好的安全平台可防止.NET和Java应用程序中的数据泄露
   * [snyk.io](https://snyk.io)  —可以在开源依赖项中找到并修复已知的安全漏洞.  开源项目的无限测试和修复.  每月最多只能为您的私人项目进行200次测试.
-  * [letsencrypt.org](https://letsencrypt.org/) —具有所有主要浏览器都信任的证书的免费SSL证书颁发机构
+  * [letsencrypt.org](https://letsencrypt.org/) —具有所有主要浏览器信任的证书的免费SSL证书颁发机构
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) —开源的免费SSL证书
   * [Okta](https://developer.okta.com/)  —用户管理，身份验证和授权.  免费，每月最多有1000位活跃用户.
   * [auth0.com](https://auth0.com/)  —免费托管用于开发SSO.  最多2个社交身份提供者用于封闭源项目.
@@ -361,10 +362,10 @@
   * [apimetrics.io](https://apimetrics.io/)  —自动化的API性能监控，测试和分析.  免费计划，手动进行API调用并从其西海岸服务器运行
   * [healthchecks.io](https://healthchecks.io)  —监视您的cron作业和后台任务.  免费，最多20张支票.
   * [assertible.com](https://assertible.com)  —自动化的API测试和监视.  为团队和个人提供免费计划.
-  * [opsgenie.com](https://www.opsgenie.com/)  —强大的警报和通话管理功能，用于操作始终在线的服务.  最多释放5个用户.
+  * [opsgenie.com](https://www.opsgenie.com/)  —强大的警报和通话管理功能，用于操作始终在线的服务.  释放最多5位用户.
   * [paessler.com](https://www.paessler.com/)  —强大的基础架构和网络监控解决方案，包括警报，强大的可视化功能和基本报告.  释放多达100个传感器.
   * [pingbreak.com](https://pingbreak.com/)  —现代的正常运行时间监控服务.  检查无限的URL，并通过Discord，Slack或电子邮件获取停机通知.
-  * [pagertree.com](https://pagertree.com/)  -简单的警报和通话管理界面.  最多释放5个用户.
+  * [pagertree.com](https://pagertree.com/)  -简单的警报和通话管理界面.  释放最多5位用户.
 
 ## Crash and Exception Handling
 
@@ -444,7 +445,7 @@
   * [jsdelivr.com](https://www.jsdelivr.com/) —适用于开发人员和网站管理员的OSS CDN（JS，CSS，字体），接受PR来添加更多内容
   * [raw.githack.com](https://raw.githack.com/) —现代化的** rawgit.com **替代，它仅使用Cloudflare托管文件
   * [developers.google.com](https://developers.google.com/speed/libraries/) — Google Hosted Libraries是最流行的开源JavaScript库的内容分发网络
-  * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — Microsoft Ajax CDN托管了流行的第三方JavaScript库（例如jQuery），使您可以轻松地将它们添加到Web应用程序中
+  * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — Microsoft Ajax CDN托管流行的第三方JavaScript库（例如jQuery），使您可以轻松地将它们添加到Web应用程序中
   * [toranproxy.com](https://toranproxy.com/)  — Packagist和GitHub的代理.  永不让CD失败.  免费供个人使用，1个开发人员，不支持
   * [Web Support Revolution](https://w.tools/) —免费的CDN，备份，防火墙，防病毒和监视.
   * [section.io](https://www.section.io/)  —启动和管理完整的Varnish Cache解决方案的简单方法.  据说一个站点永远免费
@@ -471,7 +472,7 @@
   * [sandstorm.io](https://sandstorm.io/)  — Sandstorm是用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)  — .NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
   * [glitch.com](https://glitch.com/) —具有代码共享和实时协作等功能的免费无限制公共/私人托管
-  * [gigalixir.com](https://gigalixir.com/) -Gigalixir为Elixir / Phoenix应用程序提供了1个永不休眠的免费实例，以及免费的PostgreSQL数据库限制为2个连接，10、000行且没有备份.
+  * [gigalixir.com](https://gigalixir.com/) - Gigalixir provide 1 free instance that never sleeps, and free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups, for Elixir/Phoenix apps.
   * [workers.dev](https://workers.dev)  -在Cloudflare的全球网络上免费部署无服务器代码.  每天使用worker.dev子域的100,000个免费请求.
   * [pipedream.com](https://pipedream.com)  -为开发人员构建的集成平台.  根据任何触发器开发任何工作流程.  工作流是代码，您可以运行 [for free](https://docs.pipedream.com/pricing/) .  无需管理服务器或云资源.
   * [okteto.com](https://okteto.com)  -专为开发人员设计的托管Kubernetes服务.  免费的开发人员帐户带有五个命名空间，每个命名空间都具有8GB的RAM和4个CPU.
@@ -560,7 +561,7 @@
 ## IaaS
 
   * [backblaze.com](https://www.backblaze.com/b2/)  — Backblaze B2云存储.  免费10 GB（类似于Amazon S3）对象存储，不受时间限制
-  * [www.terraform.io](https://www.terraform.io/) — Terraform Cloud. Free remote state management and team collaboration for teams up to 5 users.
+  * [www.terraform.io](https://www.terraform.io/)  —地形云.  免费的远程状态管理和团队协作，最多可容纳5个用户.
   * [scaleway.com](https://www.scaleway.com/en/object-storage/)  — S3兼容的对象存储.  75 GB的免费存储空间和外部传出流量
 
 ## DBaaS
@@ -615,7 +616,7 @@
    * [testlio.com](https://testlio.com/)  —问题跟踪，测试管理和Beta测试平台.  免费供私人使用
    * [vivifyscrum.com](https://www.vivifyscrum.com/)  —敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://www.targetprocess.com/)  —从看板和Scrum到几乎所有操作过程的可视项目管理.  无限用户免费使用，最多1000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
-   * [taskulu.com](https://taskulu.com/)  -基于角色的项目管理.  最多释放5个用户.  与GitHub / Trello / Dropbox / Google Drive集成
+   * [taskulu.com](https://taskulu.com/)  -基于角色的项目管理.  释放最多5位用户.  与GitHub / Trello / Dropbox / Google Drive集成
    * [contriber.com](https://www.contriber.com/) —可定制的项目管理平台，免费的入门计划，5个工作区
    * [planitpoker.com](https://www.planitpoker.com/) —免费的在线计划扑克（估算工具）
    * [ubertesters.com](https://ubertesters.com/) —测试平台，集成和人群测试人员，2个项目，5名成员

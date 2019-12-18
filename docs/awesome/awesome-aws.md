@@ -434,7 +434,7 @@ AWS存储库：
 
 AWS存储库：
 
-* [aws-device-farm-appium-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) -  APPI机器人TestNG的测试.
+* [aws-device-farm-appium-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) -  APPI TestNG的的android测试.
 * [aws-device-farm-calabash-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app) -葫芦Android测试.
 * [aws-device-farm-gradle-plugin](https://github.com/awslabs/aws-device-farm-gradle-plugin) -Gradle插件.
 * [aws-device-farm-jenkins-plugin](https://github.com/awslabs/aws-device-farm-jenkins-plugin) -Jenkins插件.
@@ -523,7 +523,7 @@ AWS存储库：
 * [ecs-blue-green-deployment :fire::fire:](https://github.com/awslabs/ecs-blue-green-deployment) -在ECS上进行蓝绿色部署.
 * [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) -使用Amazon ECS和Amazon CloudWatch日志来自博客的资产.
 * [ecs-demo-php-simple-app :fire:](https://github.com/awslabs/ecs-demo-php-simple-app) -简单的PHP应用程序.
-* [ecs-mesos-scheduler-driver :fire:](https://github.com/awslabs/ecs-mesos-scheduler-driver) -集成Apache月.
+* [ecs-mesos-scheduler-driver :fire:](https://github.com/awslabs/ecs-mesos-scheduler-driver) -集成的Apache月.
 * [ecs-refarch-continuous-deployment :fire::fire::fire:](https://github.com/awslabs/ecs-refarch-continuous-deployment) -使用CodePipeline持续部署到ECS的参考架构.
 * [ecs-task-kite](https://github.com/awslabs/ecs-task-kite) -用于任务间通信的简单大使容器.
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) -使用SQS和ECS扩展Lambda.
@@ -599,7 +599,7 @@ AWS存储库：
 * [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) -与其他AWS和非AWS服务集成的库.
 * [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) -样本数据可视化应用程序.
 * [amazon-kinesis-learning](https://github.com/awslabs/amazon-kinesis-learning) -学习运动学发展.
-* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) -生产者图书馆.
+* [amazon-kinesis-producer :fire::fire:](https://github.com/awslabs/amazon-kinesis-producer) -生产者库.
 * [amazon-kinesis-scaling-utils :fire::fire:](https://github.com/awslabs/amazon-kinesis-scaling-utils) -提供缩放流的功能.
 * [aws-fluent-plugin-kinesis :fire::fire:](https://github.com/awslabs/aws-fluent-plugin-kinesis) -流利的插件.
 * [dynamodb-streams-kinesis-adapter](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) -DynamoDB流适配器.
@@ -641,7 +641,7 @@ AWS存储库：
 * [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) -Kappa是一个CLI工具，可简化AWS Lambda的部署，更新和测试功能.
 * [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) -Lambda供电，高度分布式的负载测试工具.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) -通过Lambda自动化Chrome.
-* [jeremydaly/lambda-api :fire::fire:](https://github.com/jeremydaly/lambda-api) -用于无服务器应用程序的轻量级Web框架.
+* [jeremydaly/lambda-api :fire::fire::fire:](https://github.com/jeremydaly/lambda-api) -用于无服务器应用程序的轻量级Web框架.
 * [jimpick/lambda-comments :fire::fire::fire:](https://github.com/jimpick/lambda-comments) -使用Lambda构建的博客评论系统.
 * [jorgebastida/gordon :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/gordon) -λGordon是使用CloudFormation创建，连接和部署AWS Lambda的工具.
 * [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) -受StatusPage.io启发的状态页面系统，该系统基于AWS Lambda.
@@ -727,7 +727,7 @@ AWS存储库：
 社区回购：
 
 * [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
-* [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) -S3命令行工具，对于大型文件，它比S3cmd更快.
+* [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) -S3命令行工具，对于大型文件，它的速度比S3cmd好.
 * [CulturalMe/meteor-slingshot :fire::fire::fire:](https://github.com/CulturalMe/meteor-slingshot) -在流星中上传文件.
 * [danilop/yas3fs :fire::fire::fire:](https://github.com/danilop/yas3fs) -另一个受S3FS启发的S3支持的文件系统.
 * [grippy/node-s3](https://github.com/grippy/node-s3) -Node.js应用程序来管理存储桶.
@@ -911,7 +911,7 @@ AWS存储库：
 * [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash)  -开源的LaunchRock替代方案.  建立漂亮的启动页面.
 * [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) -用于管理资源以构建基础结构的Puppet模块.
 * [mhart/react-server-routing-example :fire::fire:](https://github.com/mhart/react-server-routing-example) -React中的示例通用客户端/服务器路由和数据.
-* [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) -由Hadoop，Kafka，Kinesis，Redshift和Elasticsearch支持的企业级网络，移动和事件分析.
+* [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) -由Hadoop，Kafka，Kinesis，Redshift和Elasticsearch支持的企业级Web，移动和事件分析.
 * [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) -asgard支持管道等的后继者.
 * [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) -允许您的python测试轻松模拟出boto库.
 
@@ -1077,7 +1077,7 @@ AWS博客：
 
 AWS Tweeps：
 
-* [@awscloud](https://twitter.com/awscloud) -官方Twitter Feed.
+* [@awscloud](https://twitter.com/awscloud) -官方Twitter供稿.
 * [@AWS_Partners](https://twitter.com/AWS_Partners)
 * [@AWSIdentity](https://twitter.com/AWSIdentity)
 * [@AWSMarketplace](https://twitter.com/AWSMarketplace)
