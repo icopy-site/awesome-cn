@@ -14,7 +14,7 @@
 
 ## Contribute to this list!
 
- 欢迎每个人提交他们的新awesome-ipfs项目.  为了向该列表添加元素，您需要修改`/ data`中的文件，然后运行一个简单的`make build`，然后再发布您的拉取请求，因为自述文件和网站是自动生成的.  检查 [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
+ 欢迎每个人提交他们的新awesome-ipfs项目.  为了将元素添加到此列表，您需要修改`/ data`中的文件，然后运行一个简单的`make build`，然后再发布您的拉取请求，因为自述文件和网站是自动生成的.  检查 [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
 
 **注意**：如果您想直接编辑自述文件（而不是项目/链接），则需要修改 [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md)  而是再次运行`make build`.  谢谢！
 
@@ -33,7 +33,7 @@
 - [beets](https://github.com/beetbox/beets) -甜菜有一个插件，可以使用IPFS轻松共享音乐库
 - [Blokaly](https://github.com/blokaly) -基于IPFS的徽章发行，共享和展示平台.
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) -在浏览器中运行的分布式社交平台. [Source](https://github.com/fazo96/ipfs-boards)
-- [brig](https://brig.readthedocs.io/en/latest) - File synchronization with git like interface and FUSE filesystem. [Source](https://github.com/sahib/brig)
+- [brig](https://brig.readthedocs.io/en/latest) -使用git之类的接口和FUSE文件系统进行文件同步. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) -一个golang应用程序，用于预置threejs界面并将其所有资产移出IPFS.
 - [Computes](https://computes.io) -Computes.io是由IPFS驱动的分布式超级计算机.
 - [Cyber](https://github.com/cybercongress)  -在IPFS之上运行的分布式共识超级计算机.  它可以通过使用从IPFS哈希创建的网络链接来计算与Web3数据的相关性. 
@@ -76,7 +76,7 @@
 - [OpenBazaar](https://www.openbazaar.org/) -这个新版本（v2.0）建立在IPFS之上，即使买家离线，现在也可以访问Openbazaar商店.
 - [Orbit](https://orbit.chat) -IPFS上的分布式对等聊天应用程序. [Source](https://github.com/haadcode/orbit)
 - [Origin Protocol](https://demo.originprotocol.com/) -具有存储在IPFS上的图像，元数据和ERC 725数据的分布式共享经济市场. [Source](https://github.com/OriginProtocol/demo-dapp)
-- [Partyshare](https://busterlabs.github.io/Partyshare) -一个简单的文件共享桌面应用程序. [Source](https://github.com/BusterLabs/Partyshare)
+- [Partyshare](https://busterlabs.github.io/Partyshare) - A simple file sharing desktop app. [Source](https://github.com/BusterLabs/Partyshare)
 - [Pathephone](https://pathephone.github.io) -分布式音乐流媒体应用程序.
 - [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) -使用IPFS Companion Web扩展提供的window.ipfs的演示应用程序，用于获取和绘制IPFS节点的带宽信息 [Source](https://github.com/tableflip/ipfs-peer-bw-example)
 - [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) -使用window.ipfs的IPv4 IPFS对等点的映射 [Source](https://github.com/tableflip/ipfs-peer-map-example)
@@ -146,6 +146,7 @@
 - [NodeFort.io](https://www.nodefort.io) -基于Web的IPFS节点托管服务.
 - [Peergos](https://peergos.org)  -您的私人社交空间.  存储和编辑文档和媒体.  与朋友共享文件或文件夹. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) -通过Pinata的REST API和IPFS工具包构建和管理dapp.
+- [Temporal](https://temporal.cloud) -可扩展的IPFS基础结构，具有免费的入门包，具有交钥匙API，工具包和存储.
 
 ## Tools
 

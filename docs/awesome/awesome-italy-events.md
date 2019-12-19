@@ -31,16 +31,16 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 - 12 - [Self-driving Data Center](https://web.cvent.com/event/2f2299a5-804b-428d-93a4-80fdf4629722/websitePage:3bf511cf-ea12-464b-888e-21ae7ccc1514) -罗马-敏捷业务的虚拟网络.
 - 12 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-milano/area-visitatori/contenuti/) -米兰-安全性，合规性和业务连续性.
 - 26 - [Speck&Tech #31 - Open Security](https://speckand.tech/2019/02/open-security/) -Trento-Speck＆Tech社区聚会.
-- 28 - [Hash Code 2019](https://www.meetup.com/GDG-Milano/events/258304715/) - 米兰 - 黑客马拉松.
+- 28 - [Hash Code 2019](https://www.meetup.com/GDG-Milano/events/258304715/) -米兰-哈克顿.
 
 ## March
 - 7-8 - [Incontro DevOps 2019](https://2019.incontrodevops.it/) -Bologna-关于DevOps，持续交付，云，微服务的会议.
 - 11 - [DevMarche](http://dev.marche.it/eventi/2019/03/06/introduzione-allo-unit-testing-ancona-6-marzo-2019/) -Ancona-单元测试简介.
 - 12 - [AWS Summit](https://aws.amazon.com/it/events/summits/milan/) -Milano-每年的Amazon Web Services云活动.
-- 12 - [Speck&Tech in MUSE::Next #1 - Guida galattica per Specker](https://speckand.tech/2019/03/mn-guida-galattica-per-specker/) - 特伦托 - 斯帕克和科技社区聚会与MUSE合作.
+- 12 - [Speck&Tech in MUSE::Next #1 - Guida galattica per Specker](https://speckand.tech/2019/03/mn-guida-galattica-per-specker/) -Trento-Speck＆Tech社区聚会与MUSE合作.
 - 14-15 - [CSSDay 2019](https://2019.cssday.it/) -Faenza-CSS专门会议.
 - 19 - [IT Infrastructure Day](https://soiel.it/eventi/2019/IT-Infrastructure-Day-Milano-Marzo-2019/area-visitatori/contenuti/) -米兰-有关数据中心，云，HPC的会议.
-- 19 - [Trend Micro Cyber Conference](http://go.trendmicro.com/events/cyberconference2019/) - 米兰 - 关于新的网络安全范例趋势科技会议.
+- 19 - [Trend Micro Cyber Conference](http://go.trendmicro.com/events/cyberconference2019/) -米兰-有关新的网络安全范例的趋势科技会议.
 - 21 - [Trend Micro Cyber Conference](http://go.trendmicro.com/events/cyberconference2019/) -罗马-有关新的网络安全范例的趋势科技会议.
 - 22-23 - [CodeMotion](https://events.codemotion.com/conferences/rome/2019/) -罗马-意大利最大的技术会议.
 - 27 - [Datacenter of the Future](http://www.cvent.com/events/datacenter-of-the-future-2019-italy/event-summary-3d578818e0594ac5a639cc87968e4e95.aspx) -Milano-不断发展的IT基础架构，以实现数字敏捷性.
@@ -52,29 +52,29 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 - 4-5 - [DroidCon](https://it.droidcon.com/2019/it) -Torino-意大利最大的Android活动.
 - 5-6 - [WordCamp Torino 2019](https://2019.torino.wordcamp.org/) -都灵-有关WordPress的一切.
 - 6 - [SQL Start! 2019](https://www.eventbrite.it/e/biglietti-sql-start-2019-56165372140) -Ancona-SQL Server讨论DBA，开发和数据分析师.
-- 9 - [Speck&Tech in MUSE::Next #2 - Homo Faber](https://speckand.tech/2019/04/mn-homo-faber/) - 特伦托 - 斯帕克和科技社区聚会与MUSE合作.
+- 9 - [Speck&Tech in MUSE::Next #2 - Homo Faber](https://speckand.tech/2019/04/mn-homo-faber/) -Trento-Speck＆Tech社区聚会与MUSE合作.
 - 10-11 - [RubyDay 2019](https://2019.rubyday.it/) -维罗纳-Ruby的全国会议.
-- 11 - [Cloudia](https://www.cloudia.pcsystem.it/) - 佛罗伦萨 - 网络安全，加密，活动渗透测试.
+- 11 - [Cloudia](https://www.cloudia.pcsystem.it/) -Firenze-网络安全，加密，测试活动.
 - 11 - [Meetup C++](https://conoscerelinux.org/courses/meetupcpp_apr19/) -Modena-使用C ++中的WebRTC进行实时通信.
 - 12 - [VueDay 2019](https://2019.vueday.it/) -维罗纳-Vue的全国会议.
 - 13 - [Voxxed](https://voxxeddays.com/milan/) -Milano-开发者大会（主要与Java相关）.
 - 13 - [DevFest](https://devfest.gdgpisa.it/) -比萨-有关Google相关技术的会议.
 - 16 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-roma/area-visitatori/contenuti/) -罗姆人-安全性，合规性和业务连续性.
 - 18 - [AWS Group Marche](https://www.meetup.com/AWS-User-Group-Marche/events/259802314/) -Ancona-Marche AWS用户组的首次聚会.
-- 27 - [Global Azure Bootcamp](https://global.azurebootcamp.net/locations) - 都灵/米兰/维罗纳/卡塞塔 -  Azure和云计算.
+- 27 - [Global Azure Bootcamp](https://global.azurebootcamp.net/locations) -都灵/米兰/维罗纳/卡塞塔-Azure和云计算.
 
 ## May
 - 2-4 - [SoCraTes IT 2019](http://www.socrates-conference.it/) -Rimini-软件工艺和测试会议.
-- 2-5 - [HackInBoat](https://hackinboat.it/) - 热那亚/巴塞罗那/马赛 - 黑客在巡航时.
+- 2-5 - [HackInBoat](https://hackinboat.it/) -热那亚/巴塞罗那/马赛-巡航时乱砍.
 - 2-5 - [PyCon X](https://www.pycon.it/) -Firenze-Python的全国性会议.
 - 5 - [ComputationWorld 2019](https://www.iaria.org/conferences2019/ComputationWorld19.html) -威尼斯-关于高级云计算的会议.
-- 7 - [MUSE::Next #3 - Chi controllerà l'intelligenza artificiale?](https://speckand.tech/2019/05/mn-ia/) - 特伦托 - 斯帕克和科技社区聚会与MUSE合作.
+- 7 - [MUSE::Next #3 - Chi controllerà l'intelligenza artificiale?](https://speckand.tech/2019/05/mn-ia/) -Trento-Speck＆Tech社区聚会与MUSE合作.
 - 8-9 - [jsday 2019](https://2019.jsday.it/) -Verona-JavaScript的国际会议.
 - 10 - [Agile Venture](https://www.agileday.it/venture/2019/bolzano/) -Bolzano-致力于敏捷方法论的会议.
 - 10-11 - [phpDay](https://2019.phpday.it/) -Verona-PHP的全国性会议.
 - 10-12 - [Level Up](http://www.lvlup.it/) -罗马-国际视频游戏开发者大会.
-- 10-12 - [Startup Weekend](http://communities.techstars.com/italy/milano-italy/startup-weekend/14456) - 米兰 - 启动编程马拉松比赛.
-- 14-15 - [ItaliaSec](https://cyberseries.io/italiasec/) - 罗马 - 这一突破性峰会旨在为高层安全领导.
+- 10-12 - [Startup Weekend](http://communities.techstars.com/italy/milano-italy/startup-weekend/14456) -米兰-创业黑客大赛.
+- 14-15 - [ItaliaSec](https://cyberseries.io/italiasec/) -罗姆人-这项具有开创意义的首脑会议是为高级安全领导人设计的.
 - 17 - [PGDay.IT](https://2019.pgday.it) -Bologna-PostgreSQL意大利语会议.
 - 17-18 - [WordCamp Bari 2019](https://2019.bari.wordcamp.org/) -巴里-有关WordPress的一切.
 - 23 - [Cloudia](https://www.cloudia.pcsystem.it/) -卢卡（Lucca）-网络安全性，加密技术和渗透测试事件.
@@ -92,7 +92,7 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 - 18 - [Sicurezza ICT Soiel](https://soiel.it/eventi/2019/sicurezza-2019-padova/area-visitatori/contenuti/) -Padova-安全性，合规性和业务连续性.
 - 21 - [Agile O'Day](http://www.agilecommunitycampania.it/agile-oday-2019/) -那不勒斯-致力于敏捷方法论的会议.
 - 21 - [ServerlessDays 2019](https://milan.serverlessdays.io/) -Milano-有关无服务器技术的面向开发人员的会议.
-- 25 - [Cloudia](https://www.cloudia.pcsystem.it/) - 利沃诺 - 网络安全，加密，活动渗透测试.
+- 25 - [Cloudia](https://www.cloudia.pcsystem.it/) -Livorno-网络安全性，加密技术，测试活动.
 -7月30日- [InfoWare 2019](https://www.iaria.org/conferences2019/InfoWare19.html) -Roma-与IT相关的会议系列.
 
 ## July
@@ -111,7 +111,7 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 - 28 - [RomHack](https://www.romhack.io/) -罗姆人-网络安全公约.
 
 ## October
-- 3 - [Python Firenze Meetup October 2019](https://www.meetup.com/Python-Firenze/) - 佛罗伦萨 - 佛罗伦萨的Python用户组.
+- 3 - [Python Firenze Meetup October 2019](https://www.meetup.com/Python-Firenze/) -佛罗伦萨-佛罗伦萨的Python用户组.
 - 3 - [Node.js Day 2019](https://2019.nodejsday.it/) -维罗纳-Node.js国家会议.
 - 4 - [ReactJsDay 2019](https://www.reactjsday.it/) -维罗纳-React的全国会议.
 - 4 - [Speck&Tech #34 - Cyber intelligence](https://speckand.tech/2019/10/cyber-intelligence/) -Trento-Speck＆Tech社区聚会.
@@ -120,7 +120,7 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 - 7 - [Migrating to public cloud and a real-world use case of Amazon Glacier](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) -Ancona-Amazon Glacier实际用例演示.
 - 7 - [NG Rome](https://ngrome.io/) -罗马-最大的意大利角会议.
 - 8 - [Torino Hacknight: Hacktoberfest](https://hacktoberfest-torino.eventbrite.it/) -都灵-Digital Ocean Hacktoberfest相关事件.
-- 10 - [Realtà Aumentata: un'introduzione allo sviluppo mobile e web](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) - 佩萨罗 - 通话，实例和关于AR的演变现场演示.
+- 10 - [Realtà Aumentata: un'introduzione allo sviluppo mobile e web](https://www.eventbrite.it/e/biglietti-realta-aumentata-unintroduzione-allo-sviluppo-mobile-e-web-71906531371) -Pesaro-有关AR演进的对话，示例和现场演示.
 - 10 - [.NET Conf 2019 Torino](http://www.torinotechnologiesgroup.it/eventi/20191010) -Torino-Microsoft .NET Conf 2019本地活动.
 - 10-13 - [Internet Festival 2019](https://www.internetfestival.it) -比萨-有关数字创新的最重要的意大利峰会，包括讲座，讲习班，圆桌会议，会议，书籍展示和表演.
 - 11-12 - [WordCamp Verona 2019](https://2019.verona.wordcamp.org/) -维罗纳-有关WordPress的一切.
@@ -135,7 +135,7 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 - 17-18 - [SymphonyDay](https://www.symfonyday.it/) -维罗纳-专门为交响乐开发者举办的意大利会议.
 - 18-19 - [Hacktoberfest Naples 2019](https://www.eventbrite.it/e/biglietti-hacktoberfest-napoli-1819-ottobre-2019-74668689059) -那不勒斯-Digital Ocean Hacktoberfest相关事件.
 - 19 - [Django Girls Palermo](https://djangogirls.org/palermo/) -巴勒莫-“妇女免费编程讲习班”.
-- 23 - [Hacktoberfest Open Hack Night](https://www.meetup.com/it-IT/pugSondrio-PHP-User-Group-Sondrio/events/264817389/) - 卡伊奥洛（SO） - 数字海洋Hacktoberfest相关的事件.
+- 23 - [Hacktoberfest Open Hack Night](https://www.meetup.com/it-IT/pugSondrio-PHP-User-Group-Sondrio/events/264817389/) -Caiolo（SO）-与Digital Ocean Hacktoberfest相关的活动.
 - 23 - [Hacktoberfest Open Hack Night](https://www.meetup.com/it-IT/pugCagliari-PHP-User-Group-Cagliari/events/264808283/) -卡利亚里-与数字海洋Hacktoberfest相关的活动.
 - 23-24 - [Wireless 2019](https://wirelesscommunication.expertconferences.org/) -罗马-连接和交流技术趋势.
 - 23-25 - [.NET Conf 2019 Caserta](https://www.eventbrite.com/e/net-conference-2019-caserta-tickets-55402309800) -Caserta-Microsoft .NET Conf 2019本地活动.
@@ -154,13 +154,14 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 - 7-8 - [ContainerDay](https://www.containerday.it/) -Bologna-致力于虚拟化最佳实践的意大利会议.
 - 8-9 - [Agile day(s)](https://www.agileday.it/front/) -Modena-致力于敏捷方法论的会议.
 - 8-9 - [Code4Future](https://www.code4future.it/) -罗姆人-开放式创新文化会议.
+- 9 - [HackInBo](https://www.hackinbo.it/) -博洛尼亚-免费的IT安全活动.
 - 10 - [.Net Conf 2019](https://www.eventbrite.it/e/biglietti-net-conf-2019-whats-new-in-net-ecosystem-70140288491) -都灵-Local .Net Conf 2019活动.
 - 13 - [World Usability Day 2019](https://www.wudmilan.it) -米兰-“我们想要的未来设计”.
 - 15 - [PyRoma Meetup November 2019](https://roma.python.it/) -Roma-罗马的Python用户组.
 - 16 - [Visual Studio Saturday](https://sessionize.com/vssatpn19) -Pordenone-.Net和Visual Studio生态系统会议.
 - 16 - [Django Girls Rome](https://djangogirls.org/rome/) -罗马-“妇女免费编程讲习班”.
 - 20 - [Red Hat Open source day](https://www.redhat.com/it/events/red-hat-open-source-day-italia) -罗马-开源专用会议.
-- 22 - [FuffaDay 2019](http://www.fuffaday.org/) - 米兰 - 敏捷通信.
+- 22 - [FuffaDay 2019](http://www.fuffaday.org/) -米兰-敏捷沟通.
 - 22-23 - [WordCamp Milano 2019](https://2019.milano.wordcamp.org/) -米兰-有关WordPress的一切.
 - 23 - [GDG DevFest Urbino 2019](https://www.meetup.com/it-IT/GDG-Urbino/events/264336374) -Urbino（PU）-专门讨论编码和软件的会议.
 - 28 - [IoT Day](http://www.iotdayit.org/) -那不勒斯-会议主要集中在“物联网”上.
@@ -170,7 +171,7 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 ## December
 - 3 - [Red Hat Open source day](https://www.redhat.com/it/events/red-hat-open-source-day-italia) -Milano-开源专用会议.
 - 3-5 - [WPC 2019](https://www.wpc2019.it/cms/it-IT/Home) -米兰-关于微软技术的最重要的意大利会议.
-- 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) - 佛罗伦萨 - 佛罗伦萨的Python用户组.
+- 5 - [Python Firenze Meetup December 2019](https://www.meetup.com/Python-Firenze/) -佛罗伦萨-佛罗伦萨的Python用户组.
 - 5 - [HackNight 2019](https://www.eventbrite.com/e/hacknight-2019-adaptive-ui-challenge-registration-80833720835) -Roma-AI与设计之间的交集处的网络.
 - 6 - [Firenze Blockchain day](https://www.eventbrite.it/e/biglietti-firenze-blockchain-day-77871827733) -佛罗伦萨-今天的区块链经济.
 - 10 - [Torino Hacknight](http://torino.hacknight.it/) -Torino-有关OpenStreeMap和HOT（人道主义Openstreetmap小组）的开源黑客.

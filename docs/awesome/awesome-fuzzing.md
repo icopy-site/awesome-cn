@@ -77,6 +77,9 @@
 
 
 ### ACM Conference on Computer and Communications Security (ACM CCS)
+- [Intriguer: Field-Level Constraint Solving for Hybrid Fuzzing, 2019](https://dl.acm.org/citation.cfm?id=3354249)
+- [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts, 2019](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf)
+- [Matryoshka: fuzzing deeply nested branches, 2019](https://web.cs.ucdavis.edu/~hchen/paper/chen2019matryoshka.pdf)
 - [Evaluating Fuzz Testing, 2018](http://www.cs.umd.edu/~mwh/papers/fuzzeval.pdf)
 - [Hawkeye: Towards a Desired Directed Grey-box Fuzzer, 2018](https://chenbihuan.github.io/paper/ccs18-chen-hawkeye.pdf)
 - [IMF: Inferred Model-based Fuzzer, 2017](http://daramg.gift/paper/han-ccs2017.pdf)
@@ -126,7 +129,7 @@
 - [radamsa](https://gitlab.com/akihe/radamsa) -通用模糊器.
 - [zzuf](https://github.com/samhocevar/zzuf) -透明的应用程序输入模糊器.
 ### Binary
-- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) -面向安全的模糊器，采用新型的编译时工具和遗传算法自动发现干净有趣的测试用例，这些用例会触发目标二进制文件中的新内部状态. 
+- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) -面向安全的模糊器，采用新型的编译时检测和遗传算法自动发现干净有趣的测试用例，这些用例会触发目标二进制文件中的新内部状态. 
 - [WinAFL](https://github.com/googleprojectzero/winafl) -AFL的一个分支，用于模糊Windows二进制文件.
 - [libFuzzer](http://llvm.org/docs/LibFuzzer.html) -用于覆盖率指导的模糊测试的库. [Tutorial from Google.](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Driller](https://github.com/shellphish/driller) -实现 [driller paper](https://www.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf) .  此实现基于AFL构建，其中angr用作符号跟踪器.

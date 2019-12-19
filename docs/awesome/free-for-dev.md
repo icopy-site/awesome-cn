@@ -88,7 +88,7 @@
   * [pijul.com](https://pijul.com/)  -无限的免费和开源分布式版本控制系统.  其独特的功能是基于可靠的补丁理论，它易于学习和使用，并且真正分发.  解决了git / hg / svn / darcs的许多问题.
   * [chiselapp.com](http://chiselapp.com/) -无限的公共和私人化石仓库
   * [Azure DevOps](https://azure.microsoft.com/services/devops/) —最多5个用户/团队的无限私人存储库（Git和TFS）
-  * [plasticscm.com](https://plasticscm.com/) — Free for individuals, OSS and nonprofit organizations
+  * [plasticscm.com](https://plasticscm.com/) —对个人，OSS和非营利组织免费
   * [codebasehq.com](https://www.codebasehq.com/) —一个具有100 MB空间和2个用户的免费项目
   * [NotABug](https://notabug.org) — NotABug.org是用于基于Git的免费许可项目的免费软件代码协作平台
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) —免费的1GB Cloud和Git，Mercurial或SVN存储库.
@@ -113,7 +113,7 @@
   * [dreamfactory.com](https://dreamfactory.com/)  —适用于移动，Web和IoT应用程序的开源REST API后端.  连接任何SQL / NoSQL数据库，文件存储系统或外部服务，它会立即创建一个全面的REST API平台，其中包含实时文档，用户管理，...
   * [FraudLabs Pro](https://www.fraudlabspro.com)  —筛选用于信用卡付款欺诈的订单交易.  该REST API将基于订单的输入参数检测所有可能的欺诈特征.  免费Micro计划每月有500笔交易.
   * [FreeGeoIP.app](https://freegeoip.app/)  -完全免费的Geo IP信息（JSON，CSV，XML）.  无需注册，每小时15,000个查询的速率限制.
-  * [IP Geolocation](https://ipgeolocation.io/) — IP地理位置API-永久免费计划，适用于每月限制3万个请求（每天1k /天）的开发人员.
+  * [IP Geolocation](https://ipgeolocation.io/) — IP Geolocation API-永久免费计划，适用于每月限制3万个请求（每天1k /天）的开发人员.
   * [IP2Location](https://www.ip2location.com)  — Freemium IP地理位置服务.  LITE数据库可免费下载.  将数据库导入服务器，然后执行本地查询以确定城市，坐标和ISP信息.
   * [IPinfo](https://ipinfo.io/)  —快速，准确，免费（每月最多10万个）IP地址数据API.  提供有关地理位置，公司，运营商，IP范围，域，滥用联系人等详细信息的API.  所有付费API均可免费试用.
   * [IPList](https://www.iplist.cc)  —有关任何IP地址的查询详细信息，例如Geo IP信息，tor地址，主机名和ASN详细信息.  个人和企业用户免费.
@@ -372,7 +372,7 @@
   * [rollbar.com](https://rollbar.com/) —异常和错误监控，每月有5,000个错误的免费计划，无限用户，保留30天
   * [bugsnag.com](https://www.bugsnag.com/) -初次试用后每月最多可免费提供2,000个错误
   * [sentry.io](https://sentry.io/)  -Sentry实时跟踪应用程序异常，有一个小的免费计划.  每月免费提供5k错误/ 1位用户，如果是自托管则可以不受限制地使用
-  * [honeybadger.io](https://www.honeybadger.io)  -非常棒的异常，正常运行时间和cron监视，您希望您的网站有更多错误.  Honeybadger对于单独的开发人员和开源项目是免费的（每月12,000个错误）.
+  * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring that's so awesome, you'll wish your site had more errors. Honeybadger is free for solo devs and open-source projects (12,000 errors/month).
 
 ## Search
 
@@ -525,7 +525,7 @@
   * [txti.es](http://txti.es/) —使用降价快速创建网页.
   * [kuber.host](https://kuber.host/) -Kubernetes免费计划托管
   * [cloudno.de](https://cloudno.de/) —用于Node.js应用程序的免费云托管.
-  * [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
+  * [heliohost.org](https://www.heliohost.org) -社区为每个人免费托管.
   * [render.com](https://render.com) —一个统一的平台，用于构建和运行所有应用程序和Web应用程序，其中包括免费的SSL，全局CDN，专用网络和来自Git的自动部署，对于静态网页免费.
   * [000WebHost](https://www.000webhost.com/) -使用PHP，MySQL，cPanel且无广告的零成本网站托管！
   * [Free Hosting](http://freehostingnoads.net/) —使用PHP 5，Perl，CGI，MySQL，FTP，文件管理器，POP电子邮件，免费子域，免费域托管，DNS区域编辑器，网站统计信息，免费在线支持以及许多其他功能所没有的免费托管其他免费主机.
@@ -570,7 +570,7 @@
    * [redsmin.com](https://www.redsmin.com/) — Redis的在线实时监视和管理服务，其中1个Redis实例免费
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL即服务，免费20 MB
    * [heroku.com](https://www.heroku.com/) — PostgreSQL即服务，最多10,000行和20个免费连接（作为“附件”提供，但可以附加到原本为空的应用程序中并从外部访问）
-   * [graphenedb.com](https://www.graphenedb.com/) — Neo4j即服务，最多可支持1,000个节点和10,000个关系
+   * [graphenedb.com](https://www.graphenedb.com/) — Neo4j as a service, up to 1,000 nodes and 10,000 relations free
    * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) —免费套餐提供512 MB
    * [scalingo.com](https://scalingo.com/) —主要是PaaS，但提供128MB至192MB的MySQL，PostgreSQL或MongoDB免费层
    * [skyvia.com](https://skyvia.com/) — Cloud Data Platform，提供免费套餐，并且处于Beta版时，所有计划都是完全免费
@@ -681,7 +681,9 @@
   * [Adobe XD](https://www.adobe.com/products/xd.html)  -与草图类似的线框和原型制作工具.  免费计划涵盖：1个有效的共享设计规范，Adobe Fonts Free（有限字体集），2GB的云存储.
   * [AllTheFreeStock](https://allthefreestock.com) -精选的免费图片，音频和视频列表.
   * [CodeMyUI](https://codemyui.com) -精选的Web设计和带有代码段的UI灵感.
-  * [Pencil](https://github.com/evolus/pencil) -使用Electron的开源设计工具. 
+  * [Pencil](https://github.com/evolus/pencil) -使用Electron的开源设计工具.
+  * [Invision App](https://www.invisionapp.com)  -UI设计和原型制作工具.  提供桌面和webapp.  可免费使用1个活动原型.
+  * [Proto.io](https://www.proto.io)  -创建无需编码的完全交互式的UI原型.  免费试用期结束后提供免费套餐.  免费套餐包括：1个用户，1个项目，5个原型，100MB在线存储和proto.io应用程序中的预览.
 
 ## Data Visualization on Maps
 
@@ -716,7 +718,7 @@
    * [mockable.io](https://www.mockable.io/)  — Mockable是一种简单的可配置服务，用于模拟RESTful API或SOAP Web服务.  此在线服务使您可以快速定义REST API或SOAP端点，并使它们返回JSON或XML数据.
    * [fakejson.com](https://fakejson.com/)  — FakeJSON可帮助您使用其API快速生成伪造数据.  发出一个API请求，描述您想要的东西和想要的方式.  API以JSON返回所有内容.  加快进入市场的过程，寻找创意，并进行伪造，直到实现为止.
    * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)  一些REST API端点以JSON格式返回一些虚假数据.  如果要在本地运行服务器，也可以使用源代码.
-   * [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools. Free license for students, teachers, Open Source and user groups.
+   * [jetbrains.com](https://jetbrains.com/products.html)  —生产力工具，IDE和部署工具（又名PyCharm，Webstorm等）.  为学生，教师，开源和用户组提供免费许可证.
    * [codepen.io](https://codepen.io/) — CodePen是Web前端侧的游乐场.
    * [jsfiddle.net](https://jsfiddle.net/) — JS Fiddle是前端Web的游乐场和代码共享站点，也支持协作.
    * [jsbin.com](https://jsbin.com) — JS Bin是前端Web的另一个游乐场和代码共享站点（HTML，CSS和JavaScript.还支持Markdown，Jade和Sass）.
@@ -778,7 +780,7 @@
 
   * [Docker Hub](https://hub.docker.com) —一个免费的私有存储库和无限的公共存储库来构建和存储Docker映像
   * [quay.io](https://quay.io/) —使用无限的免费公共存储库构建和存储容器映像
-  * [canister.io](https://canister.io/) —为开发人员提供20个免费的私有存储库，为团队构建和存储Docker映像提供30个免费的私有存储库
+  * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
   * [Whales](https://github.com/Gueils/whales) —一种免费自动对应用程序进行泊坞窗管理的工具.
   * [PWD](https://labs.play-with-docker.com/)  —与Docker一起玩.  一个简单，互动且有趣的游乐场，可学习Docker
   * [Gitlab](https://gitlab.com)  -每个仓库的注册表.  上限为10GB.

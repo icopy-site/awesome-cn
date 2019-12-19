@@ -105,14 +105,14 @@
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) -AdaCore大学视频教程.
 - [ada-crash-course](http://www.pchapin.org/VTC/TutorialAda/AdaCrash.pdf) -佛蒙特州技术学院提供的Ada 2012速成课程少于50页.
-- [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) -通过编写简单的游戏学习Ada 2012.
+- [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) - Learning Ada 2012 by writing simple games.
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) -在SPARK中收集经过验证的功能和数据类型.
 
 #### Online books
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) -Wikibooks上的Ada编程书.
 - [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) -2005年Ada蒸馏.
 - [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) -Ada 95：面向对象编程的技巧.
-- [ada-cpp-java](https://learn.adacore.com/books/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
+- [ada-cpp-java](https://learn.adacore.com/books/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) -通过SPARK的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  -安全可靠的软件.  2012年Ada邀请函.
 
@@ -143,7 +143,7 @@
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) -有一个Usenet新闻组/论坛.
 - [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) -堆栈溢出的Ada.
 - [subreddit-ada](https://www.reddit.com/r/ada/) -在Reddit上.
-- [subreddit-spark](https://www.reddit.com/r/spark/) -在Reddit发火花.
+- [subreddit-spark](https://www.reddit.com/r/spark/) -踢Reddit.
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) -吉特（Gitter）有一个频道.
 - [telegram-ada](https://t.me/ada_lang) -Telegram有一个小组.
 - [irc-ada](http://webchat.freenode.net/?channels=%23ada) -IRC上有一个频道.
@@ -170,7 +170,7 @@
 - [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) -PTC ObjectAda是广泛的本机和交叉开发工具以及运行时环境系列.
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) -PTC ApexAda是针对Ada和Ada / C / C ++混合应用程序的业界最受欢迎的开发环境之一.
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) -Green Hills Software为实时目标提供了业界首个经过充分验证的Ada Cross编译器系列.
-- [hac](https://sourceforge.net/projects/hacadacompiler/) -实验性有一个完整的编译器.
+- [hac](https://github.com/zertovitch/hac) -实验性有一个完整的编译器.
 - [byron](https://github.com/OneWingedShark/Byron) -Byron项目是社区驱动的Ada编译器，工具链和IDE系统.
 - [xgc](http://www.xgc.com/)  -XGC为基于航空航天特定目标（例如MIL1750，ERC32和LEON）的Ada95支持提供了基于GCC的裸机工具链.  以及旧版M68000工具链.
 
@@ -185,7 +185,7 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) -用于Visual Studio 2017的Ada语言集成.
 
 #### Editors
-- [lea](https://sourceforge.net/projects/l-e-a/) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT的全面开发工具
+- [lea](https://github.com/zertovitch/lea) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT之类的全面开发工具
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) -Gnu Emacs主模式，用于编辑Ada源.
@@ -256,16 +256,16 @@
 
 #### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) -适用于Ada的GNU Omnificent GUI.
-- [gnavi](https://sourceforge.net/projects/gnavi/) -GNU Ada可视界面.
+- [gwindows](https://github.com/zertovitch/gwindows) -GNU有一个可视界面.
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) -CLAW，Microsoft Windows的高级，可移植的Ada 95绑定.
 - [gtkada](https://github.com/AdaCore/gtkada) -基于Gtk3组件的Ada图形工具包.
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/qtada/qt5ada.html) -Ada-2012移植到QT 5框架.
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) -Ada-2012移植到VTK 8.1（可视化工具包）.
 
 #### 3D
-- [globe-3d](https://globe3d.sourceforge.io/) -用于3D的GL基于对象的引擎.
+- [globe-3d](https://github.com/zertovitch/globe-3d) -用于3D的GL基于对象的引擎.
 - [orka](https://github.com/onox/orka) -Ada 2012中的OpenGL 4.6渲染内核.
-- [ada-ogl](https://github.com/JulianSchutsch/AdaOGL) -Ada OpenGL框架.
+- [ada-ogl](https://github.com/JulianSchutsch/AdaOGL) -有一个OpenGL框架.
 - [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) -采用Ada编程语言的Id Software的Id-tech-4-BFG. 
 
 #### Database
@@ -287,7 +287,7 @@
 #### Unit Test
 - [ahven](http://ahven.stronglytyped.org/) -Ahven是用于Ada编程的简单单元测试库和框架.
  语言.  它以JUnit和AUnit的一些想法为基础而松散地建模.
-- [aunit](http://libre.adacore.com/tools/aunit/) -有一个单元测试框架.
+- [aunit](http://libre.adacore.com/tools/aunit/) -Ada单元测试框架.
 - [testing](https://github.com/Entomy/Testing) -Ada单元测试和测量框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) -Ada中的行为驱动开发.
 
@@ -312,13 +312,13 @@
 - [ajunitgen](https://github.com/mosteo/ajunitgen) -Ada中与JUnit兼容的XML报告的生成器.
 
 #### UML
-- [AdaML](https://github.com/rocher/AdaML) -Ada定制的UML建模语言.
+- [AdaML](https://github.com/rocher/AdaML) -有一种UML量身定制的建模语言.
 
 ## Libraries
 
 #### Math
 - [math-packages](https://github.com/jscparker/math_packages) -收集Ada中的基本数学例程.
-- [mathpaqs](http://mathpaqs.sourceforge.net/) -Mathpaqs是Ada编程语言中100％可移植的数学软件包的集合.
+- [mathpaqs](https://github.com/zertovitch/mathpaqs) -Mathpaqs是Ada编程语言中100％可移植的数学软件包的集合.
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) -该程序包允许对多个变量的多项式进行形式化处理.
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) -绘制两个实变量的函数的库.
 - [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) -一组Ada软件包，可完全概括地计算尺寸标注的项目.
@@ -377,7 +377,7 @@
 - [gela](https://github.com/reznikmm/gela) -有一个代码分析器.
 - [anagram](https://github.com/reznikmm/anagram) -语法处理和解析器生成Ada库.
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) -漂亮的Ada打印库.
-- [increment](https://github.com/reznikmm/increment) -在是中进行增量分析.
+- [increment](https://github.com/reznikmm/increment) -Ada中的增量分析.
 - [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) -用Ada编写的词法分析器，它将代表Ada程序的字符流转换为特定于语言的标记流.
 - [parse-args](https://github.com/jhumphry/parse_args) -简单的命令行参数解析.
 - [aforth](https://github.com/samueltardieu/aforth) -用Ada编写的可嵌入Forth口译员.
@@ -385,19 +385,19 @@
 - [parser-tools](https://github.com/flyx/ParserTools) -在Ada中编写词法分析器的工具.
 
 #### Format Readers and Writers
-- [ini-file-manager](https://sourceforge.net/projects/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以读取和修改来自称为“ ini”文件的各种配置文件中的信息.
+- [ini-files](https://github.com/zertovitch/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以读取和修改来自称为“ ini”文件的各种配置文件的信息.
 - [ada-yaml](https://github.com/yaml/AdaYaml) -Ada中的实验性YAML 1.3实现.
 - [json-ada](https://github.com/onox/json-ada) -用于解析JSON的Ada 2012库.
 - [jwx](https://github.com/Componolit/jwx) -SPARK中经过正式验证的JSON库.
 - [xmlada](https://github.com/AdaCore/xmlada) -XML / Ada工具包.
 - [xml-ez-out](http://www.mckae.com/xmlEz.html) -用于从Ada程序发出XML的库.
 - [spark-xml](https://github.com/Componolit/SXML) -SPARK中经过正式验证的XML库.
-- [excel-writer](http://excel-writer.sourceforge.net) -创建具有基本格式的Excel文件.
-- [generic-image-decoder](http://gen-img-dec.sourceforge.net/) -Ada的多格式图像解码器库.
-- [zip-ada](http://unzip-ada.sourceforge.net/) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
-- [apdf](https://apdf.sourceforge.io/) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
+- [excel-writer](https://github.com/zertovitch/excel-writer) -创建具有基本格式的Excel文件.
+- [generic-image-decoder](https://github.com/zertovitch/gid) -Ada的多格式图像解码器库.
+- [zip-ada](https://github.com/zertovitch/zip-ada) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
+- [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维二维码，如QR码）.
+- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一种软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（1D或2D，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理，最常见）的访问例程库.
 
@@ -411,7 +411,7 @@
 #### Multimedia
 - [opengl-ada](https://github.com/flyx/OpenGLAda) -适用于OpenGL和GLFW的厚Ada绑定.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) -在Ada中实现的声音合成器库.
-- [engine-3d](https://sourceforge.net/projects/engine-3d) -用于DOS-talgics的3D引擎.
+- [engine-3d](https://github.com/zertovitch/engine-3d) -用于DOS-talgics的3D引擎.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
 - [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，可用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微调和大调音阶以及非西方音阶.
 
@@ -473,15 +473,15 @@
 
 #### Bindings
 - [svd2ada](https://github.com/AdaCore/svd2ada) -用于裸板ARM设备的SVD描述中的Ada绑定生成器.
-- [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) -适用于Pebble Time智能手表的Ada绑定.
+- [ada-time](https://github.com/Fabien-Chouteau/Ada_Time) -Pebble Time智能手表具有绑定功能.
 - [wiring-pi-ada](https://github.com/jklmnn/wiringPi-Ada) -用于connectionPi的Ada绑定.
 
 ## Applications
 
 #### Office
-- [azip](https://azip.sourceforge.io) -免费的便携式Zip存档管理器.
-- [texcad](https://texcad.sourceforge.io) -TeXCAD是用于在LaTeX中绘制或修饰{picture}的程序.
-- [cbsg](http://cbsg.sf.net) -公司废话发生器.
+- [azip](https://github.com/zertovitch/azip) -免费的便携式Zip存档管理器.
+- [texcad](https://github.com/zertovitch/texcad) -TeXCAD是用于在LaTeX中绘制或修饰{picture}的程序.
+- [cbsg](https://github.com/zertovitch/cbsg) -公司废话发生器.
 - [hunter](https://github.com/thindil/hunter) -用于Linux的图形（GtkAda）文件管理器.
 
 #### Mail
@@ -489,6 +489,7 @@
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) -由SPARK / Ada验证的权威DNS服务器.
+- [wasabee](https://github.com/zertovitch/wasabee) -以安全为重点的Web浏览器.
 - [yass](https://github.com/yet-another-static-site-generator/yass) -另一个静态网站生成器（例如Jekyll或Hugo）.
 
 #### Multimedia
@@ -504,7 +505,7 @@
 #### Generators and Translators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) -Ada95库单元规格的HTML生成器.
 - [coldframe](https://github.com/simonjwright/coldframe) -ColdFrame从UML模型生成Ada框架代码和文档.
-- [p2ada](http://p2ada.sourceforge.net/) -帕斯卡尔到有翻译.
+- [pascal-to-ada](https://github.com/zertovitch/pascal-to-ada) -帕斯卡尔到有翻译.
 - [tiled-code-gen](https://github.com/Fabien-Chouteau/tiled-code-gen) -平铺地图编辑器的代码生成器.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) -此工具将在Ada合格评定机构上共享的CVS存储库导入Git存储库.
 - [j2ada](https://github.com/Blady-Com/j2ada) -Ada源代码中Java有效源代码的转换器.
@@ -526,7 +527,7 @@
 - [curses](https://github.com/annexi-strayline/Curses) -高级UNIX终端用户界面Ada绑定软件包.
 - [adacurses](http://invisible-island.net/ncurses/ncurses-Ada95.html) -ncurses的Ada95绑定.
 - [florist](https://www.cs.fsu.edu/~baker/florist.html) -POSIX Ada绑定，IEEE标准1003.5（b，c）.
-- [sdlada](https://github.com/Lucretia/sdlada) -Ada 2012与SDL 2的绑定.
+- [sdlada](https://github.com/Lucretia/sdlada) -2012年对SDL 2的绑定.
 - [pcsc-ada](http://www.codelabs.ch/pcscada)  -PCSC / Ada提供了对PC / SC中间件的浓厚Ada绑定.  该库允许使用Ada编写的程序使用SCard API与智能卡进行通信.
 - [ada-lua](https://github.com/AdaCore/ada-lua) -Lua有约束力.
 - [ada-base](http://jrmarino.github.io/AdaBase/) -用Ada编写的MySQL，PostgreSQL和SQLite的厚数据库绑定.
@@ -535,7 +536,7 @@
 - [dbus-ada](https://codelabs.ch/dbus-ada/index.html) -D_Bus / Ada库提供Ada绑定到D-Bus消息总线系统.
 - [opus-ada](https://github.com/onox/opus-ada) -Opus音频编解码器的Ada 2012绑定.
 - [opengl-ada](http://flyx.github.io/OpenGLAda/) -适用于OpenGL和GLFW的厚Ada绑定.
-- [opencl-ada](http://flyx.github.io/OpenCLAda) -用于OpenCL主机API的Ada绑定.
+- [opencl-ada](http://flyx.github.io/OpenCLAda) -OpenCL主机API具有绑定.
 - [rclada](https://github.com/ada-ros/rclada) -用于ROS2 / RCL的Ada客户端库.
 - [ada-v4l2](https://github.com/frett27/AdaV4L2) -Ada Posix绑定到Video 4 Linux，用于RPI.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) -与NanoVG绑定.
@@ -546,8 +547,8 @@
 - [zeromq-ada](https://github.com/persan/zeromq-Ada.git) -绑定到ZeroMQ通讯库.    
 - [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) -Microsft NetFramework Api的Ada绑定.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) -Microsft NetFramework Api（NetFrameworkCore上的包装器）的Ada绑定.
-- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) -Microsft WinRT API有绑定.
-- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) -Microsoft Win32 API有绑定.
+- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) -Microsft WinRT Fire有绑定.
+- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) -Microsoft Win32 Fire具有绑定.
 - [adasockets](https://github.com/samueltardieu/adasockets) -IPv4套接字库（TCP，UDP和多播）.
 - [areadline](https://github.com/samueltardieu/areadline) -Readline库的Ada接口.
 - [oto](https://github.com/darkestkhan/oto) -Ada与OpenAL的绑定，该OpenAL在使用Ada类型时尝试模仿原始API.

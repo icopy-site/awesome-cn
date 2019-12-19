@@ -38,7 +38,7 @@
 - [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) -Bootloader /通用OS安装程序，支持VNC和HDMI-CEC.
 - [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) -Raspberry Pi上的CentOS. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) -可直接引导至全屏Chrome的图像，非常适合仪表板和显示器. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
-- [DietPi](https://github.com/Fourdee/DietPi) -设计为可容纳2GB SD卡的最小图像，具有大量可配置的设置和脚本.
+- [DietPi](https://github.com/Fourdee/DietPi) -最小的图像设计适合2GB SD卡，并带有大量可配置的设置和脚本.
 - [DroneBridge](https://github.com/seeul8er/DroneBridge) -WifiBroadcast扩展程序，可以替代DJI Lightbridge和其他类似系统. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) -负担得起的无线数字高清视频传输变得容易. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [FabScanPi](https://mariolukas.github.io/FabScanPi-Server/) -FabScanPi是使用Raspberry Pi摄像头模块的开源3D激光扫描仪. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
@@ -102,7 +102,7 @@
 - [PiShrink](https://github.com/Drewsif/PiShrink/) -Bash脚本，该脚本会自动缩小pi映像，然后将其大小调整为启动时SD卡的最大大小.
 - [PoisonTap](https://github.com/samyk/poisontap) -通过USB利用锁定/受密码保护的计算机，丢弃基于WebSocket的持久后门，公开内部路由器，并使用Raspberry Pi Zero和Node.js虹吸cookie. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Processing](https://pi.processing.org/get-started/) -在Raspberry Pi上运行的处理开发环境.
-- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) -Pwnagotchi是一种基于AI的Wi-Fi破解工具，可从其周围的WiFi环境中学习，以最大程度地捕获捕获的WPA关键材料.
+- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) -Pwnagotchi是基于AI的Wi-Fi破解工具，可从其周围的WiFi环境中学习，以最大程度地捕获其捕获的可破解WPA密钥材料.
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) -一个简单的响应式Web界面，可控制Raspberry Pi上的wifi，hostapd和相关服务.
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  -简单的工具，可以在Raspbian上启动QEMU，并在系统和内核上进行了必要的修改.  自动网络访问.  方便在PC中创建图像.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) -简单的应用程序/存储库，可将Raspberry Pi的wlan0接口桥接到通过以太网（eth0）插入其中的设备.
@@ -125,7 +125,8 @@
 - [FistBump BLE Edition](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) -WPA哈希抓取蓝牙外围设备/ Android应用程序.
 - [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) -婴儿监视器，包括自定义案例，服务器和客户端源代码. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) -使用 [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) 应用程序来控制车库门.
-- [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
+- [Gaussmeter](https://github.com/gaussmeter/gaussmeter) -利用Raspberry Pi Zero W，WS2812B Leds和Tesla API收集和显示Tesla状态的项目. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) -使用7英寸Raspberry Pi显示器模仿哈利波特的《每日先知》的显示器.
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) -由Raspberry Pi驱动的助听器原型. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Jasper](https://jasperproject.github.io/) -灵活的开源个人助理.
 - [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) -在不到十分钟的时间内启动ARM设备并运行Kubernetes.
@@ -168,14 +169,15 @@
 - [Sonic Pi](https://github.com/samaaron/sonic-pi) -所有人的实时编码音乐合成器.
 - [Sonus](https://github.com/evancohen/sonus) -可自定义的脱机热门单词检测功能，用于Pi（以及其他所有功能）的Node.js语音控制.
 - [speed-camera](https://github.com/pageauc/speed-camera) -对象运动跟踪使用python，openCV，USB Cam或picamera模块记录速度数据.
-- [Stratux](https://github.com/cyoung/stratux) -开源ADS-B接收器，可通过wifi将天气，交通，GPS和AHRS数据馈送到电子飞行包软件.
+- [Stratux](https://github.com/cyoung/stratux) - Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.
 - [StreamPi](https://stream-pi.com/) -Elgato Stream Deck的强大替代品，可以启动应用程序，脚本，网站并控制OBS等应用程序.
+- [TeslaCam](https://github.com/LelandSindt/teslacam) -该项目利用Raspberry Pi Zero W进行USB大容量存储仿真，并利用PiJuice收集和存档TeslaCam视频. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) -使用倾斜和平移激光器在记录集合中查找记录.
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) -Google的AIY语音工具包，用于使用Google助手构建独立的语音识别系统，或为基于Raspberry Pi的项目添加语音识别和自然语言处理.
 - [Waves](https://github.com/euniceylee/waves) -通过麦克风，波形和热敏打印机将口语的瞬态转换为具体的物理内容.
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) -使用Hifiberry DAC进行交互式soundart安装.
 - [Wordpress using Docker](https://github.com/rothgar/rpi-wordpress) -在具有动态DNS的容器中运行Wordpress网站.
-- [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) -基于声音的音符识别的家庭自动化，在ocarina上演奏.
+- [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) -基于声音的声音识别的家庭自动化，在ocarina上演奏.
 
 ## Resources
 
@@ -216,7 +218,7 @@
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) -如何以35美元的价格构建Raspberry Pi Retro游戏机.
 - [Raspberry Pi login with SSH keys](https://thibmaek.com/post/raspberry-pi-login-with-ssh-keys) -在Raspberry Pi上以无密码的方式登录ssh会话.
 - [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) -HTPC指南中的Media Server和NAS教程.
-- [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) -通过USB电缆引导和访问Raspberry Pi Zero的指南，无需以太网/ WiFi连接，键盘或屏幕. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) -通过USB电缆引导和访问Raspberry Pi Zero的指南，而无需以太网/ WiFi连接，键盘或屏幕. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) -设置Plex媒体服务器以流式传输所有媒体内容的初学者指南.
 - [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) -设置pi0，使其能够通过USB进行ssh和vnc. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) -有关在多个网络上使用Raspberry Pi的教程.

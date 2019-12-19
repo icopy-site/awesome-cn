@@ -12,7 +12,7 @@
 
  |  iOS应用|  很棒  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1011 |  2019年11月21日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1011 |  2019年12月18日
 
 
 
@@ -186,7 +186,7 @@
 * [SpriteKitEasingSwift](https://github.com/craiggrummitt/SpriteKitEasingSwift) -简化SpriteKit.
 * [spruce-ios](https://github.com/willowtreeapps/spruce-ios) -屏幕上的编排动画.
 * [Stellar](https://github.com/AugustRush/Stellar) -物理动画库.
-* [SwiftyAnimate](https://github.com/rchatham/SwiftyAnimate) - Composable animations.
+* [SwiftyAnimate](https://github.com/rchatham/SwiftyAnimate) -可组合动画.
 * [TheAnimation](https://github.com/marty-suzuki/TheAnimation)  -类型安全的CAAnimation包装器.  这样可以防止设置错误的类型值.
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) -仅需一行即可使您的UI栩栩如生.
 * [YapAnimator](https://github.com/yapstudios/YapAnimator) -您快速友好的基于物理的动画系统.
@@ -232,8 +232,9 @@
 * [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) -持久性AVPlayer即使在后台模式下也无法通过网络连接恢复播放.
 * [MusicKit](https://github.com/benzguo/MusicKit) -创作和转换音乐的框架.
 * [Soundable](https://github.com/ThXou/Soundable) -声音可让您以一种非常简单的方式播放单个声音和顺序声音.
+* [SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) -适用于iOS的简单音频播放器，可通过AVAudioEngine流化并执行实时音频操作.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) -简单的库，使您可以用单行代码播放声音.
-* [TuningFork](https://github.com/comyar/TuningFork) -适用于iOS的简单调谐器.
+* [TuningFork](https://github.com/comyar/TuningFork) - A Simple Tuner for iOS.
 * [voice-overlay-ios](https://github.com/algolia/voice-overlay-ios) -一种覆盖层，可获取用户的语音权限并在可自定义的UI中以文本形式输入.
 
 ### Augmented Reality
@@ -296,7 +297,6 @@
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) -Chameleon是适用于iOS的轻量级但功能强大的色彩框架.
 * [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) -直观有趣的iOS颜色选择器.
-* [Colorify](https://github.com/czater/Colorify) -Colorify-简单但功能强大的颜色库.
 * [DynamicColor](https://github.com/yannickl/DynamicColor) -一种扩展，可以轻松操纵颜色.
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) -平面UI调色板.
 * [Gradients](https://github.com/Gradients/Gradients) -精选的180多种出色渐变.
@@ -623,7 +623,7 @@
 * [SwipyCell](https://github.com/moritzsternemann/SwipyCell) -UITableViewCell实现滑动以触发操作（从邮箱应用程序中可以知道）.
 
 ### Hardware
-*A category dedicated to hardware related libs* [back to top](#readme) 
+*专门用于与硬件相关的库的类别* [back to top](#readme) 
 
 
 #### 3D Touch
@@ -677,7 +677,7 @@
 * [AlamofireImage](https://github.com/Alamofire/AlamofireImage) -AlamofireImage是Alamofire的图像组件库.
 * [APNGKit](https://github.com/onevcat/APNGKit) -在iOS中以APNG格式播放的高性能和令人愉悦的方式.
 * [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) -具有多种预定义过渡样式的图像幻灯片查看器，并具有轻松创建新过渡的功能.
-* [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
+* [AXPhotoViewer](https://github.com/alexhillc/AXPhotoViewer) -iPhone / iPad照片库查看器，可用于查看大量（或较小！）照片.
 * [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift) -独特的块状identicons /个人资料图片生成器.
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) -使用基于触摸或运动的控件显示球形或圆柱形全景图的库.
 * [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController) -完全可自定义的照片查看器ViewController，可显示单张照片或照片集，灵感来自Facebook照片查看器.
@@ -686,13 +686,13 @@
 * [FMPhotoPicker](https://github.com/tribalmedia/FMPhotoPicker) -具有优雅且可自定义的图像编辑器的现代，简单和零依赖性照片选择器
 * [gifu](https://github.com/kaishin/gifu) -对iOS的高性能GIF动画支持.
 * [GPUImage 2](https://github.com/BradLarson/GPUImage2) -GPUImage 2是BSD许可的框架，用于GPU加速的视频和图像处理.
-* [GPUImage 3](https://github.com/BradLarson/GPUImage3) -GPUImage 3是BSD许可的框架，用于使用Metal进行GPU加速的视频和图像处理.
+* [GPUImage 3](https://github.com/BradLarson/GPUImage3) - GPUImage 3 is a BSD-licensed framework for GPU-accelerated video and image processing using Metal.
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) -适用于iOS的轻量级通用缓存，特别喜欢图像.
 * [ImageDetect](https://github.com/Feghal/ImageDetect) -使用iOS 11 Vision API检测并裁剪图像中的面部，条形码和文本.
 * [ImageLoader](https://github.com/hirohisa/ImageLoaderSwift) -适用于iOS的轻巧快速的图像加载器.
 * [ImageScout](https://github.com/kaishin/ImageScout) - 实施 [fastimage](https://pypi.org/project/fastimage/0.2.1/) -支持PNG，GIF和JPEG.
 * [ImageViewer](https://github.com/Krisiacik/ImageViewer) -Twitter上的图像查看器.
-* [JLStickerTextView](https://github.com/Textcat/JLStickerTextView) -一个UIImageView允许您在其上添加多个Label（支持多行文本），您可以用一根手指随意编辑，旋转，调整Label的大小，然后在Image上呈现文本.
+* [JLStickerTextView](https://github.com/Textcat/JLStickerTextView) -UIImageView允许您在其上添加多个Label（支持多行文本），您可以用一根手指随意编辑，旋转，调整Label的大小，然后在Image上呈现文本.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) -图像下载和缓存.
 * [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) -一个UIImage扩展，可生成基于字母的头像.
 * [Lightbox](https://github.com/hyperoslo/Lightbox) -适用于iOS应用的便捷易用的图片查看器.
@@ -835,7 +835,7 @@
 * [Alamofire](https://github.com/Alamofire/Alamofire) ：penguin：-优雅的网络.
 * [APIKit](https://github.com/ishkawa/APIKit) -用于构建类型安全的Web API客户端的库.
 * [Ciao](https://github.com/AlTavares/Ciao) -使用mDNS（Bonjour，Zeroconf）发布和发现服务.
-* [CodyFire](https://github.com/MihaelIsaev/CodyFire)  -强大的可编码API要求iOS的构建者和管理者.  基于Alamofire.
+* [CodyFire](https://github.com/MihaelIsaev/CodyFire)  -强大的Codable API要求iOS的构建者和管理者.  基于Alamofire.
 * [Conduit](https://github.com/mindbody/Conduit) -强大的网络API网络.
 * [Connectivity](https://github.com/rwbutler/Connectivity) -通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠.
 * [Dots](https://github.com/iAmrSalman/Dots) -轻量级并发网络框架.
@@ -929,7 +929,7 @@
 * [IBLinter](https://github.com/IBDecodable/IBLinter) -用于Interface Builder的linter工具.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) -一个验证库，其灵感来自Ruby On Rails Active Record验证的清晰性.
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) -用于重新格式化Swift代码的代码库和命令行格式化工具.
-* [SwiftLint](https://github.com/realm/SwiftLint) -强制执行编码约定的工具.
+* [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce coding conventions.
 * [Swimat](https://github.com/Jintin/Swimat) -Xcode插件来格式化代码.
 * [Tailor](https://github.com/sleekbyte/tailor) ：penguin：-跨平台静态分析器，可帮助您编写更简洁的代码并避免错误.
 
@@ -1078,7 +1078,7 @@
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) -经典样式的UI组件的集合.
 * [CostumeKit](https://github.com/jakemarsh/CostumeKit) -主题化应用程序的基本类型.
 * [CountryPickerView](https://github.com/kizitonwose/CountryPickerView) -简单，可自定义的视图，可有效收集iOS应用中的国家/地区信息.
-* [CustomSegue](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
+* [CustomSegue](https://github.com/phimage/CustomSegue) -具有幻灯片和交叉淡入淡出效果的OSX情节提要的自定义序列.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) -一个库，用于重新创建iOS 10 Apple Music，现在正在播放过渡.
 * [DockProgress](https://github.com/sindresorhus/DockProgress) -在macOS应用程序的Dock图标中显示进度.
 * [Dodo](https://github.com/evgenyneu/Dodo) -适用于iOS的消息栏.
@@ -1181,7 +1181,7 @@
 * [PopupDialog](https://github.com/orderella/PopupDialog)  -一个简单的，可自定义的弹出对话框.  替换UIAlertController警报样式.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) -动画警报视图.
 * [Sheet](https://github.com/ParkGwangBeom/Sheet) -具有导航功能（如Flipboard App）的操作表.
-* [SPAlert](https://github.com/ivanvorobei/SPAlert)  -AppStore中Apple Music＆Feedback中的本机弹出窗口.  包含完成和心脏预设.
+* [SPAlert](https://github.com/ivanvorobei/SPAlert)  -来自AppStore中Apple Music＆Feedback的本机弹出窗口.  包含完成和心脏预设.
 * [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) -显示类似Apple系统的自动隐藏状态警报，而不会中断用户流程.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) -警报系统.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) -设计自定义提示，并提供多种选择.
@@ -1304,7 +1304,7 @@
 [back to top](#readme) 
 
 * [Caishen](https://github.com/prolificinteractive/Caishen) -iOS的付款卡用户界面和验证程序.
-* [iCard](https://github.com/eliakorkmaz/iCard) -使用SnapKit DSL的银行卡生成器.
+* [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator using SnapKit DSL.
 * [MFCard](https://github.com/MobileFirstInc/MFCard) -轻松将信用卡付款集成到iOS App中.
 
 #### Permissions
@@ -1438,7 +1438,7 @@
 * [OnboardKit](https://github.com/NikolaKirev/OnboardKit) -您的iOS应用程序的可自定义用户入门.
 * [PaperOnboarding](https://github.com/Ramotion/paper-onboarding) -PaperOnboarding是一种材质设计UI滑块.
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) -一个iOS框架，允许开发人员创建美好的入门体验.
-* [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps.
+* [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) -在应用中创建出色的演练体验的最简单方法.
 
 ### Utility
 *一些有趣的实用程序可以在您的项目中为您提供帮助* [back to top](#readme) 
@@ -1459,7 +1459,7 @@
 * [Dollar](https://github.com/ankurp/Dollar) -与Java中的Lo-Dash或Underscore相似.
 * [DuctTape](https://github.com/marty-suzuki/DuctTape) -基于KeyPath dynamicMemberLookup的Swift语法糖.
 * [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) -适用于iOS的以太坊钱包工具包-您无需服务器和区块链知识即可实施以太坊钱包.
-* [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) -应该如何使用标准类型和类.
+* [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - How standard types and classes were supposed to work.
 * [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) ：penguin：-功能强大且易于使用的查询生成器.
 * [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) -FluxCapacitor使使用协议和类型别名轻松实现Flux设计模式成为可能.
 * [Focus](https://github.com/typelift/Focus) -受Haskell镜头库启发的光学库（包括镜头，棱镜和Isos）.
@@ -1492,7 +1492,7 @@
 * [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils) -我们在每个项目中需要的所有可重用代码.
 * [Swiftz](https://github.com/typelift/Swiftz) -功能编程.
 * [Then](https://github.com/devxoul/Then) -用于初始化程序的超级甜蜜语法糖.
-* [TSAO](https://github.com/lilyball/swift-tsao) -类型安全关联对象.
+* [TSAO](https://github.com/lilyball/swift-tsao) - Type-Safe Associated Objects.
 * [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder) -用于将任何可编码值编码为URLQueryItem数组的编码器.
 * [UTIKit](https://github.com/cockscomb/UTIKit) -UTI（统一类型标识符）包装.
 * [Vaccine](https://github.com/zenangst/Vaccine) -使您的应用程序免于重新编译-减少.

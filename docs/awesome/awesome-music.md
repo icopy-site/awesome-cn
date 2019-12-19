@@ -64,6 +64,7 @@
 
 * [Abjad](http://abjad.mbrsi.org/) -基于Lilypond的形式化分数控制的Python API.
 * [Denemo](http://www.denemo.org/) -基于Lilypond的免费音乐符号编辑器.
+* [Digital Music Stand](https://github.com/PatWie/digitalmusicstand) -用于显示乐谱的免费网络应用.
 * [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) -不同音乐字体的列表和视觉比较.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) -免费的Lilypond乐谱编辑器.
 * [Guido](http://guidolib.sourceforge.net/) -通用的便携式库和API，用于乐谱的图形呈现.

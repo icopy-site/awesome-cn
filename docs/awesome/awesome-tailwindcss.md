@@ -66,6 +66,7 @@
 - [Custom Native](https://github.com/SirNavith/tailwindcss-custom-native) -利用Tailwind CSS的配置来创建实用程序.
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
+- [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) -添加基于CSS类的“深色”变体.
 
 &gt;-_以下这些插件提供的功能已在最新的Tailwind CSS版本中完全或部分实现.
 
@@ -102,7 +103,7 @@
 
 -  [Color shades generator](https://javisperez.github.io/tailwindcolorshades) -Tailwind CSS（在线）的阴影生成器.
 -  [Color palette generator](https://adevade.github.io/color-scheme-generator) -调色板生成器，可为Tailwind CSS（在线）输出颜色配置.
--  [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground) -使用Tailwind CSS（在线）为按钮设置主题的游乐场.
+-  [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground) - Playground for theming a button with Tailwind CSS (online).
 -  [Stitches](https://stitches.hyperyolo.com/) -带有Tailwind的模板生成器（在线）.
 -  [Tailwind Colors](https://tailwind-colors.meidev.co) -Tailwind CSS的颜色配置生成器.
 -  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) -Tailwind类的前缀工具.

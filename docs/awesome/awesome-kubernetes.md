@@ -110,6 +110,7 @@ Installers
 * [Juju](https://jujucharms.com/canonical-kubernetes) -Ubuntu-云不可知
 * [KubeSphere](https://github.com/kubesphere/kubesphere) -轻松地在多个实例中安装Kubernetes和KubeSphere，包括全栈云原生软件，例如istio，ES，Prometheus，Fluent Bit，SonarQube，Jenkins.
 * [k3s](https://github.com/rancher/k3s)  -轻量级的Kubernetes.  易于安装，一半内存，所有二进制文件不到40mb
+* [k3d](https://github.com/rancher/k3d) -在容器节点中运行k3s集群的工具
 * [kind](https://kind.sigs.k8s.io) -使用Docker容器“节点”运行本地Kubernetes集群的工具
 * [Kops](https://github.com/kubernetes/kops) -与操作系统无关-AWS
 * [Kube-ansible](https://github.com/kairen/kube-ansible) -与操作系统无关-与云无关
@@ -305,7 +306,7 @@ Installers
 
 
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
-  - [Docker EE](https://www.docker.com/enterprise-edition) -Docker企业版2.0
+  - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
   - [Kublr](https://kublr.com/) -企业级Kubernetes-多云和本地Kubernetes运营中心
   - [NetApp Kubernetes Service](https://cloud.netapp.com/kubernetes-service)
@@ -320,7 +321,7 @@ Installers
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) -Google Kubernetes引擎
    - [IKS](https://www.ibm.com/cloud/container-service) -IBM Cloud Kubernetes服务
-   - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) - Oracle Kubernetes Engine
+   - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -Oracle Kubernetes引擎
    - [OVH Managed Kubernetes](https://www.ovh.co.uk/kubernetes/) -OVH托管的Kubernetes
    - [Rackspace](https://www.rackspace.com/en-in) -机架空间
    - [VMware Cloud PKS](https://cloud.vmware.com/vmware-cloud-pks)
@@ -466,6 +467,7 @@ Projects
 * [Ambassador](http://www.getambassador.io) -基于Envoy代理构建的API网关
 * [Argo](https://github.com/argoproj/argo) -Kubernetes的工作流引擎
 * [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
+* [Escalator](https://github.com/atlassian/escalator) -用于Kubernetes的批处理或作业优化的水平自动缩放器
 * [Fission Workflows](https://github.com/fission/fission-workflows) -基于工作流的无服务器功能组合
 * [Forecastle](https://github.com/stakater/Forecastle) -可以动态发现并提供启动板以访问Kubernetes上部署的应用程序的仪表板
 * [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) -代理，可让Webhook访问防火墙后的运行服务
@@ -506,7 +508,7 @@ Projects
 * [kail](https://github.com/boz/kail)  -Kubernetes日志查看器.  从所有匹配的容器的所有容器中流式传输日志.
 * [Kubebox](https://github.com/astefanutti/kubebox) -Kubernetes的终端控制台
 * [Kubedash](https://github.com/kubernetes/kubedash) -**不推荐使用**信息库已归档且为只读
-* [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
+* [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) -多个K8s集群的只读系统仪表板
 * [K8Dash](https://github.com/herbrandson/k8dash) -实时K8S替代仪表板
 * [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) -在纯HTML前端中列出并查看具有永久链接友好URL的所有Kubernetes资源（包括CRD）
 * [Kubespy](https://github.com/pulumi/kubespy) -由Pulumi提供支持的实时观察Kubernetes资源的工具.
@@ -514,7 +516,7 @@ Projects
 * [Kubewatch](https://github.com/skippbox/kubewatch)
 * [Netsil](https://github.com/netsil/manifests)
 * [New Relic](https://newrelic.com/platform/kubernetes) -Kubernetes监视和可视化服务.
-* [NexClipper](https://github.com/NexClipper/NexClipper) -用于监视Kubernetes和容器的开源软件.
+* [NexClipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
 * [Outcold Solutions](https://www.outcoldsolutions.com) -在Splunk Enterprise和Splunk Cloud中监控Kubernetes，OpenShift和Docker（指标和日志转发）
 * [Prometheus](http://prometheus.io)
 * [Searchlight](https://github.com/appscode/searchlight)
@@ -534,6 +536,7 @@ Projects
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) -用于Kubernetes集群的网络和负载测试的Helm图表
 * [kboom](https://github.com/mhausenblas/kboom) -Kubernetes规模和均质负载测试仪
 * [kind](https://github.com/bsycorp/kind) -一个单节点群集，可在30秒内针对您准备好的CI运行测试
+* [k3d](https://github.com/rancher/k3d) -在容器化节点中快速创建单节点或多节点k3s集群
 * [kube-monkey](https://github.com/asobti/kube-monkey) -Kubernetes集群的混沌猴子
 * [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) -基于kubeadm的多节点测试集群
 * [Litmus](https://github.com/openebs/litmus) -用于Kubernetes上有状态工作负载的混沌工程
@@ -541,6 +544,7 @@ Projects
 * [Sonobuoy](https://github.com/heptio/sonobuoy) -运行Kubernetes一致性测试的诊断工具
 * [Test-Infra](https://github.com/kubernetes/test-infra)
 * [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders)  -用于Kubernetes集群的Gamified Chaos工程工具.  就像太空侵略者，但外星飞船是豆荚.
+* [predator](https://github.com/Zooz/predator) -Kubernetes的分布式性能测试平台
 
 ## Continuous Delivery
 
@@ -557,7 +561,7 @@ Projects
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
-* [Buildkite](https://github.com/buildkite/charts) -具有基础架构上的代理的精益CI / CD云托管控制平面.
+* [Buildkite](https://github.com/buildkite/charts) - Lean CI/CD cloud hosted control plane with agents on your infrastructure.
 * [Codefresh](https://codefresh.io/) -Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) -通过GitLab轻松部署Kubernetes应用程序的框架.
@@ -604,7 +608,7 @@ Projects
 * [kooper](https://github.com/spotahome/kooper) -用于创建Kubernetes运算符和控制器的简单Go库
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [KubeVirt](https://github.com/kubevirt)
-* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的节点自动重新启动
+* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，可以执行安全的自动节点重新启动
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [MySQL](https://github.com/oracle/mysql-operator)
@@ -741,7 +745,7 @@ Projects
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) -Kubernetes tmux插件显示当前上下文和名称空间
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) -Kubectl的别名
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)  -一组kubectl插件，处理从简单的上下文切换到以任何用户（包括root用户）通过exec连接到容器的所有操作.  针对GKE用户量身定制.
-* [kubectl-trace](https://github.com/iovisor/kubectl-trace) -使用此kubectl插件在您的kubernetes集群上调度bpftrace程序
+* [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using this kubectl plugin
 * [kubectld](https://github.com/rancher/kubectld)
 * [kubectx](https://github.com/ahmetb/kubectx) -在kubectl上的集群之间切换
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
@@ -751,7 +755,7 @@ Projects
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) -解决kubectl
 * [StackStorm](https://github.com/StackStorm/st2)
 * [stern](https://github.com/wercker/stern) -多荚和集装箱原木尾矿
-* [Vikube](https://github.com/c9s/vikube.vim) - Kubernetes operations from Vim, in Vim
+* [Vikube](https://github.com/c9s/vikube.vim) -Vim中来自Vim的Kubernetes操作
 * [K9s](https://github.com/derailed/k9s) -Kubernetes CLI以时尚的方式管理您的集群！
 * [tubectl](https://github.com/reconquest/tubekit) -具有模式匹配的类固醇的Kubernetes CLI
 * [webkubectl](https://github.com/webkubectl/webkubectl) -基于Web的工具可帮助您管理kubernetes凭据并在Web浏览器中运行kubectl命令.
@@ -769,6 +773,7 @@ Projects
 * [Psykube](https://github.com/commercialtribe/psykube)
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) -命令行工具，可促进Kubernetes应用程序的持续开发.
 * [kubedog](https://github.com/flant/kubedog) -Kubedog是一个库和cli实用程序，它允许监视和跟踪CI / CD部署管道中的kubernetes资源.
+* [kapp](https://github.com/k14s/kapp) -专注于“ Kubernetes应用程序”概念的简单部署工具-一组带有相同标签的资源
 
 ## Configuration
 
@@ -1014,7 +1019,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 
