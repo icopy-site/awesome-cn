@@ -51,7 +51,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Learn Docker](https://github.com/dwyl/learn-docker)：循序渐进的教程和更多资源（视频，文章，备忘单），作者： [@dwyl](https://github.com/dwyl)
 - [Play With Docker](https://training.play-with-docker.com/) ：PWD是从初学者到高级用户入门Docker的绝佳方法.  Docker直接在您的浏览器中运行.
 - [Play With Moby](http://play-with-moby.com/) ：PWM是基于Web的Moby游乐场，可让您在几秒钟内尝试使用平台的不同组件.  它为您提供了在云中拥有免费的Alpine Linux虚拟机的体验，您可以在其中构建和运行Moby项目，甚至创建集群进行实验.
-- [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)  容器技术的前景不仅限于码头工人.  如果没有良好的术语处理，可能很难把握docker和（选择您的最爱，CRI-O，rkt，lxc / lxd）之间的关键区别，或者难以理解开放容器倡议正在采取哪些措施来标准化容器技术.
+- [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)  容器技术的前景不仅限于码头工人.  如果没有很好的术语处理，可能很难把握docker和（选择您的最爱，CRI-O，rkt，lxc / lxd）之间的关键区别，或者难以理解开放容器计划正在采取哪些措施来标准化容器技术.
 
 **备忘单**，作者：
 
@@ -131,7 +131,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Monitoring
 
-- [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将来自Docker引擎的性能计数器，配置更改和生命周期事件流式传输到Axibase时间序列数据库中，以用于汇总仪表板并与上游监控系统集成.
+- [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将性能计数器，配置更改和生命周期事件从Docker引擎流式传输到Axibase时间序列数据库中，以用于汇总仪表板并与上游监控系统集成.
 - [cAdvisor](https://github.com/google/cadvisor)  -分析正在运行的容器的资源使用情况和性能特征.  由[@Google] [google]创建
 - [dockprom](https://github.com/stefanprodan/dockprom) -通过Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager监视Docker主机和容器 [@stefanprodan](https://github.com/stefanprodan)
 - [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) -根据Docker容器资源的使用情况/统计信息监视和发送警报
@@ -188,7 +188,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### PaaS
 
 - [Atlantis](https://github.com/ooyala/atlantis) ：skull：-亚特兰蒂斯（Atlantis）是一个基于Docker并使用Go编写的HTTP应用程序的开源PaaS
-- [caprover](https://github.com/caprover/caprover) -[以前称为CaptainDuckDuck]自动化可扩展Web服务器程序包（自动化Docker + nginx）-类固醇上的Heroku
+- [caprover](https://github.com/caprover/caprover) -[以前称为CaptainDuckDuck]自动化可伸缩Web服务器程序包（自动化Docker + nginx）-类固醇上的Heroku
 - [Convox Rack](https://github.com/convox/rack) -Convox Rack是建立在专家基础架构自动化和最佳实践之上的开源PaaS.
 - [Dcw](https://github.com/pbertera/dcw) -Docker-compose SSH包装器：一个非常可怜的人PaaS，暴露了容器标签中定义的docker-compose和custom-container命令.
 - [Dokku](https://github.com/dokku/dokku) -由Docker驱动的mini-Heroku，可帮助您构建和管理应用程序的生命周期（最初是[@progrium] [progrium]）
@@ -228,7 +228,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [oscap-docker](https://github.com/OpenSCAP/openscap)  -OpenSCAP提供了oscap-docker工具，该工具用于扫描Docker容器和图像.  通过 [OpenSCAP](https://github.com/OpenSCAP)
 - [Phonito Security](https://phonito.io/?b=b) ：heavy_dollar_sign：-一个具有持续Kubernetes监视和管道集成功能的Docker漏洞扫描程序.
 - [Sysdig Falco](https://github.com/falcosecurity/falco)  -Sysdig Falco是一个开源容器安全监视器.  它可以监视应用程序，容器，主机和网络活动，并在发生未经授权的活动时发出警报.
-- [Sysdig Secure](https://sysdig.com/products/secure-kubernetes-security/) ：heavy_dollar_sign：-Sysdig Secure通过行为监视和防御来解决运行时安全性，并基于开源Sysdig提供深度的取证，以进行事件响应.
+- [Sysdig Secure](https://sysdig.com/products/kubernetes-security/runtime-security/) ：heavy_dollar_sign：-Sysdig Secure通过行为监视和防御来解决运行时安全性，并基于开源Sysdig提供深度的取证，以进行事件响应.
 - [Twistlock](https://www.twistlock.com/) ：heavy_dollar_sign：-Twistlock Security Suite在应用程序的整个生命周期中检测漏洞，加固容器映像并实施安全策略.
 
 ### Service Discovery
@@ -412,7 +412,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Amazon EC2 Container Registry :heavy_dollar_sign:](https://aws.amazon.com/ecr/) -Amazon EC2容器注册表（ECR）是完全托管的Docker容器注册表，使开发人员可以轻松存储，管理和部署Docker容器映像.
 - [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/en-us/services/container-registry/) -将Docker私有注册表作为一流的Azure资源进行管理
 - [CargoOS](https://github.com/RedCoolBeans/cargos-buildroot)  -在裸机或云上运行Docker引擎的基本操作系统.  通过 [@RedCoolBeans](https://github.com/RedCoolBeans)
-- [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.io/l/docker-registry/)  -全面管理的软件包管理SaaS，对公共和私有Docker注册管理机构（以及许多其他服务，包括Kubernetes生态系统的Helm图表）提供一流的支持.  具有慷慨的免费层，并且对于开源也完全免费.
+- [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.io/l/docker-registry/)  -完全托管的软件包管理SaaS，对公共和私有Docker注册管理机构（以及许多其他服务，包括Kubernetes生态系统的Helm图表）提供一流的支持.  具有慷慨的免费层，并且对于开源也完全免费.
 - [Cycle.io :heavy_dollar_sign:](https://cycle.io/) -裸金属容器托管.
 - [cleanreg](https://github.com/hcguersoy/cleanreg) -一个小工具，可从实现API v2的Docker注册表中删除映像清单，并通过以下方式将其引用给GC [@hcguersoy](https://github.com/hcguersoy)
 - [Docker Hub](https://hub.docker.com/) 由Docker Inc.提供
@@ -711,7 +711,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [jessfraz]：https：//github.com/jessfraz
 [jpetazzo]：https://github.com/jpetazzo
 [jwilder]：https://github.com/jwilder
-[kubernetes]：https://kubernetes.io
+[kubernetes]：https：//kubernetes.io
 [nvidia]：https：//github.com/nvidia
 [nginxproxy]：https://github.com/jwilder/nginx-proxy
 [openshift]：https：//www.okd.io

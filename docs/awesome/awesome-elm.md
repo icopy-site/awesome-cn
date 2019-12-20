@@ -12,7 +12,7 @@
 
 &gt;社区驱动的有用Elm教程，库和软件的列表.
 
-受到启发 [awesome](#more-awesome)  列出的东西.  随时<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
+受启发 [awesome](#more-awesome)  列出的东西.  随时<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
 
 
 - <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">贡献准则</a>
@@ -20,7 +20,7 @@
 
 ## Examples
 
-*一些用Elm编写的优秀应用程序.*
+*一些用Elm编写的优秀应用程序.
 
 * [Builtwithelm](http://builtwithelm.co/) -使用Elm构建的网站，以及使用Elm构建的项目和应用程序的列表.
 * [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) -具有CRUD操作，身份验证，路由，分页等功能的全栈Elm应用程序. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
@@ -90,7 +90,7 @@
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) -简短的截屏视频可以教您Erik Person的Elm编程语言.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) -构建您的第一个Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) -关于榆木的五部分教程.
-* [Elm FAQ](http://faq.elm-community.org/) -来自的榆树常见问题解答 [Elm Community](http://elm-community.org/).
+* [Elm FAQ](http://faq.elm-community.org/) -来自的榆木常见问题解答 [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) -有关在Elm中构建应用程序的教程，从身份验证到调用API.
 
 
@@ -151,7 +151,7 @@
 * [Jessica Kerr: Adventures in Elm | 2016](https://www.youtube.com/watch?v=cgXhMc8M4X4) -在GOTO Chicago 2016上讨论功能编程与Elm的结合.
 * [Aaron VonderHaar: Codevember | 2016 ](https://www.youtube.com/playlist?list=PLDA4wlOlLJvXAEsJDje4hdLazsihZiQNf) + [ElmLive](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw) -榆树实况视频示例.
 * [Richard Feldman: Making impossible states impossible | 2016](https://www.youtube.com/watch?v=IcgmSRJHu_8) -讨论以一种使无效状态无法表示的方式在Elm中建模数据结构
-* [Richard Feldman: Effects as Data | 2015](https://www.youtube.com/watch?v=6EdXaWfoslc) -谈论榆木如何管理副作用.
+* [Richard Feldman: Effects as Data | 2015](https://www.youtube.com/watch?v=6EdXaWfoslc) - A talk about how Elm manages side effects.
 * [Richard Feldman: Make the Back-End Team Jealous: Elm in Production | 2015](http://www.youtube.com/watch?v=FV0DXNB94NE) -讨论Elm及其在生产中使用它的初始步骤.
 * [Evan Czaplicki: Let's be mainstream! User focused design in Elm | 2015](https://www.youtube.com/watch?v=oYk8CKH7OhE) -榆树之父关于语言背后哲学的演讲.
 
@@ -180,7 +180,7 @@
 ### Individual Podcast episodes
 
 * [Elixir Fountain Evan Czaplicki 2016-07-11](https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11) -Elm和Evan Czaplicki.
-* [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - Richard Feldman and Tessa Kelly.
+* [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) -理查德·费尔德曼（Richard Feldman）和泰莎·凯利（Tessa Kelly）.
 * [The Changelog 218](https://changelog.com/218/) -Elm和Evan Czaplicki和Richard Feldman
 * [The Changelog 191](https://changelog.com/191/) -与Richard Feldman一起进行Elm和函数式编程.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) -Elm与Richard Feldman和Srinivas Rao.
@@ -219,6 +219,7 @@
 
 * [Elm test](https://github.com/elm-explorations/test) -单元测试和模糊测试
 * [Elm Program test](https://github.com/avh4/elm-program-test/tree/3.0.0) -测试完整的榆木程序
+* [Elmer](https://github.com/brian-watkins/elmer) -描述Elm HTML应用程序的行为
 
 
 
@@ -245,6 +246,7 @@
 * [Quicktype](https://github.com/quicktype/quicktype) -从JSON生成JSON解码器和编码器
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) -根据JSON模式规范生成Elm类型，JSON解码器，JSON编码器和模糊测试
 * [Elm Bridge](https://github.com/agrafix/elm-bridge) -从Haskell生成榆木类型
+* [haskell-to-elm](https://github.com/folq/haskell-to-elm) -从Haskell类型生成Elm类型，编码器和解码器
 
 ### Run Elm
 
@@ -297,7 +299,7 @@
 ### Visual Studio Code
 
 * [ElmLS](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode) -Elm语言服务器集成
-* [Elm Visual Studio Code Support](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) -语法突出显示，代码片段，功能信息，REPL，Reactor支持（Web服务器/调试器）-启动/停止
+* [Elm Visual Studio Code Support](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) -语法突出显示，摘要，功能信息，REPL，Reactor支持（Web服务器/调试器）-启动/停止
 * [Elmmet: Emmet for Elm (Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=necinc.elmmet) -Emmetio缩写扩展器，内部带有elm-format&#39;er，可组成Elm函数.
 * [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) -VSCode插件可将HTML转换为Elm
 

@@ -118,6 +118,7 @@
 - [GitHub Actions for Logtalk and Prolog](https://github.com/logtalk-actions)
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
+- [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
 
 ### Utility
 

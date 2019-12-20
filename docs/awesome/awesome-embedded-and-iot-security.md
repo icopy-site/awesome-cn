@@ -26,6 +26,7 @@
 
 - [EXPLIoT](https://gitlab.com/expliot_framework/expliot) -Pentest框架，例如Metasploit，但专门用于物联网.
 - [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) -功能齐全的静态分析框架，包括固件提取，使用不同插件的分析以及不同固件版本的比较.
+  - [Improving your firmware security analysis process with FACT](https://passthesalt.ubicast.tv/videos/improving-your-firmware-security-analysis-process-with-fact/) -关于FACT：tv：的会议讨论.
 - [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer)  -根据自定义规则分析固件的安全性.  打算作为DevSecOps中的附加步骤，类似于CI.
 
 ### Analysis Tools
@@ -82,6 +83,9 @@
 
 ## Research Papers
 <!--lint ignore match-punctuation-->
+2019年，Alrawi等人： [SoK: Security Evaluation of Home-Based IoT Deployments](https://alrawi.github.io/static/papers/alrawi_sok_sp19.pdf)
+-2019，Abbasi等： [Challenges in Designing Exploit Mitigations for Deeply Embedded Systems](https://ieeexplore.ieee.org/abstract/document/8806725)
+-2019年，宋等.. [PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04A-1_Song_paper.pdf)
 -2018年，Muench等人： [What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices](http://www.eurecom.fr/en/publication/5417/download/sec-publi-5417.pdf)
 -  2017年，欧米拉等人 [Embedded Device Vulnerability Analysis Case Study Using Trommel](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=509271)
 -2017年，Jacob等： [How to Break Secure Boot on FPGA SoCs through Malicious Hardware](https://eprint.iacr.org/2017/625.pdf)

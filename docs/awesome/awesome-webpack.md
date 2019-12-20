@@ -13,7 +13,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 &gt;精选的Webpack资源，库，工具和应用程序的精选列表
 
-受到启发 [awesome](https://github.com/sindresorhus/awesome)  清单.  随时通过以下方式改进此列表 [contributing](https://github.com/webpack-contrib/awesome-webpack/blob/master/contributing.md)!
+受启发 [awesome](https://github.com/sindresorhus/awesome)  清单.  随时通过以下方式改进此列表 [contributing](https://github.com/webpack-contrib/awesome-webpack/blob/master/contributing.md)!
 <!--lint disable list-item-indent-->
 
 
@@ -50,7 +50,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Kent C. Dodds - @kentcdodds](https://twitter.com/kentcdodds) 从 [PayPal Engineering](https://twitter.com/PayPalEng) 和 [JavaScript Air](https://twitter.com/JavaScriptAir) .  Webpack成员.
 - [Johannes Ewald - @Jhnnns](https://twitter.com/Jhnnns)：Webpack核心团队成员.
 - [Joshua Wiens - @d3viant0ne](https://twitter.com/d3viant0ne)：的技术主管 [EasyMetrics](https://easymetrics.com) .  Webpack成员.
-- [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898): Microsoft MVP and [Telerik](https://github.com/telerik) 开发人员专家.
+- [Jonathan Creamer - @jcreamer898](https://twitter.com/jcreamer898)：Microsoft MVP和 [Telerik](https://github.com/telerik) 开发人员专家.
 - [Kees Kluskens - @keeskluskens](https://twitter.com/keeskluskens)：-的软件工程师 [Code Yellow](https://codeyellow.nl)，Webpack核心团队成员.
 
 
@@ -90,6 +90,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Polymer Loader](https://github.com/webpack-contrib/polymer-webpack-loader)  -聚合物元件装载机.  -* Maintainers *：`Rob Dodson` [！[Github] [githubicon]]（https://github.com/robdodson）-`Chad Killingsworth` [！[Github] [githubicon]]（https：// github .com / ChadKillingsworth）-`Bryan Coulter` [！[Github] [githubicon]]（https://github.com/bryandcoulter）
 - [Tag Loader](https://github.com/riot/tag-loader)  -防暴标签文件的加载程序.  -* Maintainer *：`Riot Team` [！[Github] [githubicon]]（https://github.com/riot）[！[Twitter] [twittericon]]（https://twitter.com/riotjs_）
 - [Twig Loader](https://github.com/zimmo-be/twig-loader)  -树枝模板加载器.  -* Maintainer *：`Zimmo.be Team` [！[Github] [githubicon]]（https://github.com/zimmo-be）
+- [Pug Loader](https://github.com/pugjs/pug-loader)  -哈巴狗模板加载器（以前称为Jade）.  -* Maintainer *：`Pug Team` [！[Github] [githubicon]]（https://github.com/pugjs）
 
 #### Styles
 
@@ -131,6 +132,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [ngRouter Loader](https://github.com/shlomiassaf/ng-router-loader) -使用角度路由器的支持AOT的NgModule延迟加载-* Maintainer *：`Shlomi Assaf` [！[Github] [githubicon]]（https://github.com/shlomiassaf）[！[Twitter] [twittericon]]（https ：//twitter.com/shlomiassaf）
 - [Lingui Loader](https://github.com/lingui/js-lingui/tree/master/packages/loader) -即时为jsLingui，i18n库编译消息目录-* Maintainer *：`TomášEhrlich` [！[Github] [githubicon]]（https://github.com/tricoder42）[！[Twitter] [twittericon] ]（https://twitter.com/tomas_ehrlich）
 - [Shell Loader](https://github.com/localjo/shell-loader)  -在源文件上运行任意的Shell脚本.  -* Maintainer *：`Jo Sprague` [！[Github] [githubicon]]（https://github.com/localjo）
+- [EXIF Loader](https://github.com/herschel666/exif-loader)  -在构建期间从JPG中提取EXIF和IPTC数据.  -* Maintainer *：`Emanuel Kluge` [！[Github] [githubicon]]（https://github.com/herschel666/exif-loader）[！[Twitter] [twittericon]]（https：// twitter. com / herschel_r）
 
 #### Testing
 
@@ -177,12 +179,12 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Friendly errors](https://github.com/geowarin/friendly-errors-webpack-plugin)  -识别Webpack错误的某些类别，并清除，汇总并确定其优先级.  -* Maintainer *：`Geoffroy Warin` [！[Github] [githubicon]]（https://github.com/geowarin）
 - [FileManager Webpack Plugin](https://github.com/gregnb/filemanager-webpack-plugin) -在Webpack构建前后复制，移动，删除文件和目录-* Maintainer *：`Gregory Nowakowski` [！[Github] [githubicon]]（https://github.com/gregnb）
 - [Duplicate Package Checker Webpack Plugin](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) -当捆绑包中存在同一软件包的多个版本时，会向您发出警告-* Maintainer *：`Darren Scerri` [！[Github] [githubicon]]（https://github.com/darrenscerri）
-- [PurgeCSS Webpack Plugin](https://github.com/FullHuman/purgecss-webpack-plugin) -一个可以通过purgecss删除未使用的CSS的插件-* Maintainer *：`Floriel Fedry` [！[Github] [githubicon]]（https://github.com/Ffloriel）
+- [PurgeCSS Webpack Plugin](https://github.com/FullHuman/purgecss-webpack-plugin) - A plugin to remove unused css with purgecss -- *Maintainer*: `Floriel Fedry` [![Github][githubicon]](https://github.com/Ffloriel)
 - [Circular Dependency Plugin](https://github.com/aackerman/circular-dependency-plugin) -捆绑时检测具有循环依赖性的模块-* Maintainer *：`Aaron Ackerman` [！[Github] [githubicon]]（https://github.com/aackerman）
 - [webpack-inject-plugin](https://github.com/adierkens/webpack-inject-plugin)  -一个webpack插件，用于将代码动态注入到包中.  -* Maintainer *：`Adam Dierkens` [！[Github] [githubicon]]（https://github.com/adierkens）
 - [Public Path Manipulation Plugin](https://github.com/agoldis/webpack-require-from) -在运行时控制动态加载资源的“ publicPath”-* Maintainer *：`Andrew Goldis` [！[Github] [githubicon]]（https://github.com/agoldis）
 - [Build Notifier Plugin](https://github.com/roccoc/webpack-build-notifier)  -显示操作系统级别的构建错误和警告通知.  -* Maintainer *：`Rocco Cataldo` [！[Github] [githubicon]]（https://github.com/roccoc）
-- [CSS Cleanup Webpack Plugin](https://github.com/do-web/css-cleanup-webpack-plugin) - A plugin to remove duplicated and unused css rules -- *Maintainer*: `Dominik Weber` [![Github][githubicon]](https://github.com/do-web)
+- [CSS Cleanup Webpack Plugin](https://github.com/do-web/css-cleanup-webpack-plugin) -删除重复的和未使用的CSS规则的插件-* Maintainer *：`Dominik Weber` [！[Github] [githubicon]]（https://github.com/do-web）
 - [Extension Reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) -开发浏览器扩展时进行热重装-* Maintainer *：`Rubens PG Cavalcante` [！[Github] [githubicon]]（https://github.com/rubenspgcavalcante）[！[Twitter] [twittericon]]（https： //twitter.com/rubenspgc）
 - [Htmls Webpack Plugin](https://github.com/zaaack/htmls-webpack-plugin) ：用于webpack的简单快速的多HTML生成插件.  -* Maintainer *：`Zack Young` [！[Github] [githubicon]]（https://github.com/zaaack）[！[Twitter] [twittericon]]（https://twitter.com/ZaaackYoung）
 - [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin):
@@ -211,7 +213,8 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Webpack Chain](https://github.com/mozilla-neutrino/webpack-chain) ：用于生成和简化mod的链接API.  Webpack 2配置.  -* Maintainer *：`Eli Perelman` [！[Github] [githubicon]]（https://github.com/eliperelman）
 - [Speed Measure Plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin)  -测量Webpack插件和加载器的速度.  -* Maintainer *：`Stephen Cook` [！[Github] [githubicon]]（https://github.com/stephencookdev）
 - [packtracker.io](https://packtracker.io/?utm_source=github&utm_medium=awesome-webpack&utm_campaign=social) -对每个提交进行Webpack捆绑分析，向每个请求请求报告Webpack统计信息.
-- [BundleStats](https://github.com/bundle-stats/bundle-stats)  -生成捆绑报告（大小，资产，模块），并比较不同版本之间的结果.  -* Maintainer *：`Vio` [！[Github] [githubicon]]（https://github.com/vio）[！[Twitter] [twittericon]]（https://twitter.com/vio）
+- [BundleStats](https://github.com/bundle-stats/bundle-stats)  -生成捆绑报告（大小，资产，模块），并比较不同版本之间的结果.  -* Maintainer *：`Vio` [！[Github] [githubicon]]（https://github.com/vio）[！[Twitter] [twittericon]]（https://twitter.com/vio）  
+- [Webpack Landing Generator](https://github.com/kuncevic/webpack-landing-generator) ：创建转换目标网页的简便方法.  -* Maintainer *：`Aliaksei Kuncevic` [！[Github] [githubicon]]（https://github.com/kuncevic）[！[Twitter] [twittericon]]（https://twitter.com/kuncevic）
 
 
 ## Research & Training
@@ -225,7 +228,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
  -Joseph Zimmerman |  2017年2月2日- [A Detailed Introduction To Webpack.](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
  -Jamund Ferguson |  2016年7月22日- [Manually Tuning Webpack Builds.](https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44#.lbvkidezh)
  -Sean T. Larkin |  2016年7月21日- [Learn and Debug webpack with Chrome Dev Tools!.](https://medium.com/webpack/webpack-bits-learn-and-debug-webpack-with-chrome-dev-tools-da1c5b19554#.gpoentuxe)
- 拉贾（Raja Rao）DV错误？  2016年4月10日- [Webpack  —  The Confusing Parts.](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.qmfmplobc)
+ -Raja Rao DV |  2016年4月10日- [Webpack  —  The Confusing Parts.](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.qmfmplobc)
  -Andrew Ray |  2016年4月9日- [Webpack: When To Use and Why.](http://blog.andrewray.me/webpack-when-to-use-and-why/)
  -乔纳森·克里默|  2016年2月25日- [WebPack Code splitting with ES6 and Babel 6.](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
  -Gregory Grisogono |  15年2月15日- [Webpack 2 Tree Shaking Configuration.](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz)
@@ -288,7 +291,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 #### Framework Agnostic
 
-- [Annotated webpack 4 Config](https://github.com/nystudio107/annotated-webpack-4-config) -这是同伴的github回购 [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development) 文章.
+- [Annotated webpack 4 Config](https://github.com/nystudio107/annotated-webpack-4-config) - This is the companion github repo for the [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development) 文章.
 - [ES6 TodoMVC with Webpack](https://github.com/kentcdodds/es6-todomvc)  -回购用于教Webpack.  （检查分支）.  从 [Kent C. Dodds](https://github.com/kentcdodds).
 
 #### React

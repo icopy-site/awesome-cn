@@ -18,7 +18,7 @@
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) -David Kemp的量子门计算交互式学习.
 - [CNOT](https://cnot.io/) -易于理解，逐步介绍了量子计算概念.
-- [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) -Rigetti Computing SDK的教程.
+- [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) -拒绝计算SDK的教程.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) -有关光子连续变量量子计算方法的背景信息，以及Xanadu SDK的教程.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) -演示和教育资源，以及对D-Wave量子计算机的访问.
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) -简短的教程提供了对量子计算和IBM Q的简要介绍.
@@ -32,7 +32,7 @@
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) -四个量子位光子量子模拟器和计算机.
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) -解释量子机器学习算法.
-- [Quirk](http://algassert.com/quirk) -基于浏览器的拖放式量子电路模拟器，可实时进行反应，模拟和动画处理.
+- [Quirk](http://algassert.com/quirk) -基于浏览器的拖放式量子电路模拟器，可实时响应，模拟和设置动画.
 - [The Quantum Quest](https://www.quantum-quest.nl/) -为高中生设计的有关量子计算原理的入门网络课程. 
 
 ## MOOCs
@@ -45,9 +45,9 @@
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) -量子信息和计算基础课程.
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) -了解量子技术可以为机器学习带来的好处.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) -量子力学基本原理的概念介绍.
-- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) -对计算的微妙介绍，其背后的数学及其量子对应物，然后深入讨论了一些量子算法.
+- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) -对计算的微妙介绍，其背后的数学及其对应的量子，然后深入讨论了一些量子算法.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) -了解量子计算机和量子互联网发展背后的原理和承诺，以及它们将如何影响我们的未来.
-- [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) -介绍具有最少数学的量子计算的关键概念.
+- [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) -介绍使用最少数学的量子计算的关键概念.
 
 ## Development Tools
 
@@ -71,7 +71,7 @@
 
 ## Blogs
 
-- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google量子计算团队的成员.
+- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google Quantum Computing Team的成员.
 - [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享研究成果和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.
@@ -100,12 +100,12 @@
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) -量子机器学习以及量子计算对数据挖掘的意义.
 
 ## Videos
-
-- [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) -YouTube视频系列展示了如何编写量子算法
+- [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ) -专注于量子计算主题和通用技术的YouTube频道.
+- [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) -YouTube视频系列，展示了如何编写量子算法.
 - [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) -重点介绍Rigetti的Python Forest SDK进行量子编程的原因和方式.
-- [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)  -有关计算机科学家入门量子计算的微软研究讲座.  时长：1小时28分钟.
+- [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)  -有关计算机科学家入门量子计算的Microsoft Research Talk.  时长：1小时28分钟.
 - [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) -一系列有关量子计算基础知识的讲座 [Michael Nielsen](http://michaelnielsen.org/).
-- [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) -一系列有关量子计算的讲座 [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/)
+- [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) -一系列有关量子计算的讲座 [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
 
 ## Community
 

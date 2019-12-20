@@ -19,7 +19,7 @@ _awesome_ Common Lisp库的精选列表.
  这样.  标有a的库是我们喜欢并想要
  在Awesome-cl列表中进行推广.  他们证明是可靠的，他们可能会解决
 比社区标准更好的问题，但他们没有
- 普遍存在，或不被视为稳定.  例如，我们更喜欢
+ 普遍存在，或不被认为是稳定的.  例如，我们更喜欢
 Cl-Who上的喷丝板.
 
  添加新的东西！  见 [contributing](#contributing) 部分添加到
@@ -47,11 +47,11 @@ Audio
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统.  包括用于Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在实现其中的大部分功能，但以一种更健壮，富有表现力，一致，反射性和脆弱的方式实现.  通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在实现其中的大部分功能，但以一种更加健壮，富有表现力，一致，反射性和脆弱的方式实现.  通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  -用于OpenAL音频库的绑定.  公共区域.
 * [Common Music](https://github.com/ormf/cm) -一个的存储库
 古老版本的通用音乐（2.12.0版），大概是最后一个
-该版本在2007-09年左右的Common Lisp上运行，
+该版本在2007-09年左右的Common Lisp上运行，之前
 普通音乐的工作转移到（基于方案）cm3.
 * [cm-incudine](https://github.com/ormf/cm-incudine)  -扩展具有实时功能的Common Music 2.  GPL2.
 * [Mégra](https://github.com/the-drunk-coder/megra)  -用变序马尔可夫链和其他一些随机的恶作剧制作音乐的迷你语言.  [GPL3] [2].
@@ -66,8 +66,8 @@ Audio
 构建系统
 =============
 
-*：星级： [ASDF](https://common-lisp.net/project/asdf/)  -另一个系统定义工具；  Common Lisp的构建系统.  [Expat] [14].
-* [asdf-linguist](https://github.com/eudoxia0/asdf-linguist) - Extensions for ASDF. [Expat][14].
+*：星级： [ASDF](https://common-lisp.net/project/asdf/) - Another System Definition Facility; a build system for Common Lisp. [Expat][14].
+* [asdf-linguist](https://github.com/eudoxia0/asdf-linguist)  -ASDF的扩展.  [Expat] [14].
 * [asdf-viz](https://github.com/guicho271828/asdf-viz)  -可视化ASDF系统的库依赖性，函数的调用图和类继承的工具.  [LLGPL] [8].
 
 编译器，代码生成器
@@ -85,7 +85,7 @@ C，C ++
 Crypto
 ======
 
-*：星级： [Ironclad](https://github.com/sharplispers/ironclad) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat][14].
+*：星级： [Ironclad](https://github.com/sharplispers/ironclad)  -Common Lisp的加密函数库.  不被认为是安全的，但是对于消息摘要功能仍然有用.  [Expat] [14].
 * [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts)  -常见的加密快捷方式的集合.  [Artistic License 2.0] [51].
 * [trivial-ssh](https://github.com/eudoxia0/trivial-ssh)  -SSH客户端库.  [Expat] [14].
 
@@ -116,7 +116,7 @@ ORMs
 持久对象数据库
 ---------------------------
 
-* [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) -RAM中基于CLOS的仅Lisp数据库，具有事务日志记录持久性. [licence](http://bknr.net/html/license.html) .  （另请参见“常见的Lisp食谱”第21章）
+* [bknr.datastore](https://github.com/hanshuebner/bknr-datastore)  -RAM中基于CLOS的仅Lisp数据库，具有事务日志记录持久性.  [牌照] [208].  （另请参见“常见的Lisp食谱”第21章）
 * [ubiquitous](https://github.com/Shinmera/ubiquitous)  -提供易于使用的持久配置存储的库.  [Artistic License 2.0] [51].
 * [cl-prevalence](https://common-lisp.net/project/cl-prevalence/)  -内存数据库系统.  对象流行性的实现，其中将业务对象保留在内存中，并记录交易记录以进行系统恢复. [github fork](https://github.com/40ants/cl-prevalence) .  [LLGPL] [8].  也可以看看 [cl-prevalence-multimaster](https://github.com/40ants/cl-prevalence-multimaster)，以同步多个分类流行系统的状态.
 
@@ -234,7 +234,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
-* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
+* [donuts](https://github.com/tkych/donuts) - Graph drawing DSL for Common Lisp. [Expat][14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [Expat] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -310,7 +310,7 @@ YAML
 
 *：星级： [alexandria](https://common-lisp.net/project/alexandria/)  -通用实用程序库.  公共区域.
 * [serapeum](https://github.com/TBRSS/serapeum/)  -另一个通用实用程序库.  [Expat] [14].
-* [https://github.com/CodyReichert/awesome-cl/blob/master/rutils](https://github.com/CodyReichert/awesome-cl/blob/master/rutils)  -Common Lisp的基本但合理的语法实用程序.  [MIT] [200].
+* [rutils](https://github.com/vseloved/rutils)  -Common Lisp的基本但合理的语法实用程序.  [MIT] [200].
 * [anaphora](https://common-lisp.net/project/anaphora/)  -照应宏的集合.  公共区域.
 *：星级： [trivia](https://github.com/guicho271828/trivia/)  -优化的模式匹配库.  [LLGPL] [8].
 * [interface](https://bitbucket.org/tarballs_are_good/interface)  -协议库.  [3子BSD] [15].
@@ -384,7 +384,7 @@ Lambda速记
 * [cl-punch](https://github.com/windymelt/cl-punch/)  -类似于Scala的匿名Lambda文字.  `（mapcar ^（* 2 _）&#39;（1 2 3 4 5））`.  [MIT] [200].
 
 
-另请参阅CL21和[Rutils] [rutils].
+另请参阅CL21和 [Rutils](https://github.com/vseloved/rutils).
 
 
 
@@ -394,7 +394,7 @@ Lambda速记
 * [cl-prolog2](https://github.com/guicho271828/cl-prolog2)  -从Common Lisp到ISO Prolog实施的通用接口.  [MIT] [200].
 * [Screamer](https://github.com/nikodemus/screamer) -增加普通
   Lisp具有Prolog和Prolog的几乎所有功能
-  约束逻辑编程
+  constraint logic programming
   语言. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
    解决欧拉计划难题.  [MIT] [200].
 * [Screamer+](https://github.com/yakovzaytsev/screamer-plus)  -提高SCREAMER的表现力.  [MIT] [200].
@@ -408,7 +408,7 @@ Lambda速记
 合同编制
 --------------------
 
-* [quid-pro-quo](https://github.com/sellout/quid-pro-quo) - a contract
+* [quid-pro-quo](https://github.com/sellout/quid-pro-quo) - 合同
    Eiffel的《 Design by Contract™》风格的程序库.  公共区域.
 
 Typing
@@ -427,7 +427,7 @@ Beginner
 --------
 
 * [Learn X in Y minutes - Where X = Common Lisp](https://learnxinyminutes.com/docs/common-lisp/) -涵盖基本内容的小型Common Lisp教程.
- * [Practical Common Lisp] [206]-Common Lisp的一个很好的介绍性文字，并附有实际示例.  更好地阅读 [a Firefox add-on](https://github.com/vale981/practical-cl-beautified).
+ * [Practical Common Lisp] [206]-Common Lisp的良好介绍性文字，并附有实际示例.  更好地阅读 [a Firefox add-on](https://github.com/vale981/practical-cl-beautified).
 * [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) -语言的不错介绍.
 * [Learn LISP: Simply Easy Learning](http://www.tutorialspoint.com/lisp/index.htm)  -一套很好的入门教程；  包括互动示例.
 * [Successful Lisp](http://successful-lisp.blogspot.com/) -对于具有某些编程背景的初学者的一本好书.
@@ -467,7 +467,7 @@ Beginner
 --------
 
 * [Land of Lisp](http://landoflisp.com/) -Common Lisp的有趣游戏导向介绍.
-* [Practical Common Lisp] [206]-Common Lisp的一个很好的介绍性文字，并附有实际示例.
+* [Practical Common Lisp] [206]-Common Lisp的良好介绍性文字，并附有实际示例.
 * [Common Lisp Koans] [201]-该项目通过许多Common Lisp语言功能逐步指导学习者.
 
 Intermediate
@@ -514,7 +514,7 @@ Community
 * [cl-brewer](https://github.com/can3p/cl-brewer)  -用于（命令行）常见lisp应用程序的自制程序公式生成器.  公共区域.
 * [qldeb](https://github.com/ralt/qldeb) -Quicklisp系统到debian软件包，以及 [deb-packager](https://github.com/ralt/deb-packager) （只需通过定义s表达式创建一个debian软件包）和介绍 [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html) .  两者[MIT] [200].
 * [ql-to-deb](https://github.com/dimitri/ql-to-deb)  -从Quicklisp版本中更新cl- * debian软件包.  WTFPL.
-* [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  -debhelper实用程序，使您几乎不用费劲就将基于quicklisp的Common Lisp代码编译成.deb中的buildapp二进制文件.  [MIT] [200].
+* [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  -debhelper实用程序，使您几乎无需费力就可以将基于quicklisp的Common Lisp代码编译为.deb中的buildapp二进制文件.  [MIT] [200].
 
 也可以看看 [asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)，是通用软件包管理器的插件.
 
@@ -523,7 +523,7 @@ Community
 ================
 
 * [clml](https://github.com/mmaul/clml)  -最初由日本公司Mathematicl Systems Inc.开发.  用 [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html) .  [LLGPL] [8].
-* [mgl](https://github.com/melisgl/mgl) -由其使用 [author](http://quotenil.com/) 至 [win](https://github.com/melisgl/higgsml)  希格斯玻色子机器学习挑战赛.  [MIT] [200].
+* [mgl](https://github.com/melisgl/mgl) -由其使用 [author](https://github.com/melisgl) 至 [win](https://github.com/melisgl/higgsml)  希格斯玻色子机器学习挑战赛.  [MIT] [200].
 * [antik](https://www.common-lisp.net/project/antik/)  -Common Lisp中科学和工程计算的基础.  GPL.  也 [mgl-mat](https://github.com/melisgl/mgl-mat) 和 [LLA](https://github.com/tpapp/lla).
 
 Credit: [borretti.me' state of CL ecosystem 2015](http://borretti.me/article/common-lisp-sotu-2015#machine-learning).
@@ -562,7 +562,7 @@ HTTP服务器
 
 ### Hunchentoot plugins
 
-* [easy-routes](https://github.com/mmontone/easy-routes) - a routes handling system on top of Hunchentoot. It supports dispatch based on HTTP method, arguments extraction from the url path, decorators, url generation from route name, etc. [MIT][200].
+* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的分派，从URL路径提取参数，修饰符，从路由名称生成URL等.[MIT] [200].
 * [hunchentoot-cgi](https://github.com/slyrus/hunchentoot-cgi)  -用于从hunchentoot Web服务器执行CGI脚本的库.  [BSD] [207].
 * [hunchentoot-multi-acceptor](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/)  -使用单个端口在单个hunchentoot接受器上路由多个域（虚拟主机）.  [Apache2.0] [89].
 
@@ -585,10 +585,10 @@ Web框架
 * [Caveman](https://github.com/fukamachi/caveman)  -强大的网络框架.  [LLGPL] [8].
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web)  -用于构建现代Web应用程序的框架.  [Expat] [14].
-* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是扩展的且对新手友好的神经元（通常更易于处理查询参数）.  [MIT] [200].
+* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex), an extended and noob-friendly ningle (mostly easier handling of query parameters). [MIT][200].
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
-* [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，而HTTP条件仅是Lisp条件.  [LLGPL] [8].
+* [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
 * [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录的记录，缓存，权限或身份验证，通过Swagger进行文档记录等.[MIT] [200].
 * [Weblocks](https://github.com/40ants/weblocks)  -基于窗口小部件的框架，具有内置的ajax更新机制，可“解决JavaScript问题”.  [LLGPL] [8].
 
@@ -627,7 +627,7 @@ HTML生成器和模板
 * [clip](https://shinmera.github.io/clip)  -HTML模板处理器，其中模板以HTML编写.  [Artistic License 2.0] [51].
 * [lsx](https://github.com/fukamachi/lsx/)  -具有类似JSX语法的可嵌入HTML模板引擎.  [BSD_2Clause] [17].
 
-URI动作
+URI处理
 ------------
 
 * [quri](https://github.com/fukamachi/quri) -另一个URI库
@@ -648,7 +648,7 @@ Javascript
 * [SmackJack](https://github.com/aarvid/SmackJack)  -使用parenscript生成javascript和hunchentoot（目前）作为Web服务器的Ajax Common Lisp库.  还允许服务器端lisp函数调用客户端脚本.  [MIT] [200].
 * [Panic](https://github.com/michaeljforster/panic) ，一个React的Parenscript库.  不在Quicklisp中.  [MIT] [200].  它 [TodoMVC example](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
 * [remote-js](https://github.com/ceramic/remote-js)  -将JavaScript从Common Lisp发送到浏览器.  [MIT] [200].
-* [sigil](https://github.com/burtonsamograd/sigil) -的旁白
+* [sigil](https://github.com/burtonsamograd/sigil) - 一个Parenscript到
  Javascript命令行编译器和REPL.  [MIT] [200].
 
 也可以看看
@@ -687,7 +687,7 @@ Deployment
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) -基础
   带有SBCL或CCL和最新版本的Common Lisp项目的Docker映像
   ASDF，Qlot和Roswell.
-* [s2i-lisp](https://github.com/container-lisp/s2i-lisp)  -基于CentOS或RHEL7的“源到映像”构建器映像，用于为OpenShift（以及Docker）构建Common LISP映像.  它具有可与Quicklisp安装，SLIME或SLY集成的最新SBCL，并允许通过环境变量进行自定义.  [AGPL] [89]
+* [s2i-lisp](https://github.com/container-lisp/s2i-lisp)  -基于CentOS或RHEL7的“源到映像”构建器映像，用于为OpenShift（以及Docker）构建Common LISP映像.  它具有可安装Quicklisp，SLIME或SLY集成的最新SBCL，并允许通过环境变量进行自定义.  [AGPL] [89]
 * [deploy](https://shinmera.github.io/deploy)  -用于Lisp应用程序二进制部署的工具包，并具有对外部共享库的额外支持.  [Artistic License 2.0] [51].
 * [cl-aws-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)  -使用Common Lisp（SBCL）作为AWS lambda上的自定义运行时的示例.  WTFPL.
 
@@ -712,7 +712,7 @@ Monitoring
 * [north](https://shinmera.github.io/north) -的后继者
   南（Simple OaUTH）库，实现完整的oAuth 1.0a
    客户端和服务器端的协议.  使用北，您可以轻松
-   成为oAuth提供者或使用者.  [Artistic License 2.0] [51].
+  become an oAuth provider or consumer. [Artistic License 2.0][51].
 * [avatar-api](https://github.com/eudoxia0/avatar-api)  -从Google +，Gravatar和其他人那里获取化身.  [Expat] [14].
 * [chirp](https://github.com/Shinmera/chirp)  -Twitter客户端库.  [Artistic License 2.0] [51].
 * [tooter](https://github.com/Shinmera/tooter)  -为Mastodon实现完整的v1 REST API协议的客户端库.  [ArtisticLicense2.0] [51].
@@ -738,7 +738,7 @@ Others
 ========================
 
 * [numcl](https://github.com/numcl/numcl)  -Common Lisp中的Numpy克隆.  [LGPL3] [9].
-* [magicl](https://github.com/rigetticomputing/magicl)  -Rigetti Computing开发的基于BLAS / LAPACK和Expokit的Common Lisp中的矩阵代数程序.  [BSD_3Clause] [15].
+* [magicl](https://github.com/rigetticomputing/magicl)  -Rigetti Computing公司基于BLAS / LAPACK和Expokit编写的Common Lisp中的矩阵代数程序.  [BSD_3Clause] [15].
 * [cl-spark](https://github.com/tkych/cl-spark)  -为数字列表生成迷你图字符串.  [Expat] [14].
 * [GSLL](https://common-lisp.net/project/gsll/)  -GNU Lisp科学图书馆；  允许使用Common Lisp提供的GSL.  [GNU LGPL2.1] [11].
 * [common-lisp-stat](https://github.com/blindglobe/common-lisp-stat/)  -通用Lisp统计资料库.  [FreeBSD] [39].
@@ -784,7 +784,7 @@ Others
 
 * [erlangen](https://github.com/eugeneia/erlangen)  -Clozure Common Lisp的分布式异步消息传递系统.  [GNU GPL3] [2].
 * [Actors](https://github.com/aarvid/Actors) LispWorks的软​​件包（[announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)）[MIT] [200].
-* [common-lisp-actors](https://github.com/naveensundarg/Common-Lisp-Actors) - a simple and easy to use Actor system. [BSD_2Clause][17].
+* [common-lisp-actors](https://github.com/naveensundarg/Common-Lisp-Actors)  -一个简单易用的Actor系统.  [BSD_2Clause] [17].
 * [cl-muproc](https://common-lisp.net/project/cl-muproc/)  -受Erlang启发的多重处理.  [BSD] [15].
 * [memento-mori](https://github.com/zkat/memento-mori) -用于编写功能强大的基于参与者的系统的库.  它从Erlang / OTP中汲取了灵感，特别是它对高可用性系统以及Akka的崩溃优先方法.  [MIT] [200].
 
@@ -828,7 +828,7 @@ Scripting
 * [cl-readline](https://github.com/vindarel/cl-readline) - 一套
   键入时编辑行的功能，以维护行列表
   先前输入的命令行，以对其进行重新调用和重新编辑，以及
-   执行类似csh的历史记录扩展.  Emacs和vi编辑
+  perform csh-like history expansion.  Emacs and vi editing
    模式.  [GPL3] [2].
 *  [Unix-opts](https://github.com/mrkkrp/unix-opts) -命令行
    选项解析器，带有简洁的选项声明.  [MIT] [200].
@@ -850,7 +850,7 @@ Scripting
  Lisp和C代码可产生高效的应用程序.  例如，
 Lisp版本的“ Hello World！”的可执行文件！
  在32位x86 Linux上，该程序仅需要20k字节.  WCL也
-supports a full development environment, including dynamic file
+支持完整的开发环境，包括动态文件
  加载和调试.  GDB的修改版用于调试WCL
 程序，为混合语言调试提供支持.
 * [replic](https://github.com/vindarel/replic/)  -帮助程序将现有代码转换为readline应用程序，重点放在定义命令参数的完成.  还提供了一个随时可用的可执行文件，它将用户的lispy初始化文件转换为readline命令.  [MIT] [200].
@@ -920,7 +920,7 @@ supports a full development environment, including dynamic file
 * [montezuma](https://github.com/sharplispers/montezuma/)  -全文索引并搜索Common Lisp.  [Expat] [14].
 * [mk-string-metrics](https://github.com/cbaggers/mk-string-metrics) -
   在Common Lisp中高效地计算各种字符串指标
-  (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
+  （Damerau-Levenshtein，Hamming，Jaro，Jaro-Winkler，Levenshtein，
    等）.  [带] [200].
 * [cl-yacc](https://github.com/jech/cl-yacc)  -LALR（1）解析器生成器.  [带] [200].
 * [wiki-lang-detect](https://github.com/vseloved/wiki-lang-detect) -
@@ -946,11 +946,11 @@ Tools
 *：星级： [FiveAM](https://github.com/sionescu/fiveam)  -简单的回归测试框架.  [FreeBSD] [39].
 * [CLUnit](https://github.com/tgutu/clunit)  -单元测试库.  [Expat] [14].
 * [Rove](https://github.com/fukamachi/rove)  -Rove是Common Lisp应用程序的单元测试框架.  它旨在成为 [Prove](https://github.com/fukamachi/prove) .  [3子BSD] [15].
-* [Parachute](https://github.com/Shinmera/parachute) -可扩展
+* [Parachute](https://github.com/Shinmera/parachute) - An extensible
    和交叉兼容的测试框架.  有了测试依赖性
    条件，装置和重启.  [Artistic License 2.0] [51].
 * [Mockingbird](https://github.com/Chream/mockingbird) - 一个小
-   Common Lisp的存根和模拟库.  也可以检查一下
+  stubbing and mocking library for Common Lisp. Can also check wether
   一个存根函数被调用了多少次
    参数.  [带] [200].
 * [Check-it](https://github.com/DalekBaldwin/check-it)  -一种QuickCheck样式的基于属性的随机测试.  [LLGPL] [8].
@@ -1023,7 +1023,7 @@ REPL的常见任务（打印文档，打印外部符号，
 * [Staple](https://github.com/Shinmera/staple) -生成工具
    使用HTML模板的文档页面.  使用现有
   自述文件，将文档字符串，交叉引用和链接添加到
-   CLHS  [ArtisticLicense2.0] [51].
+   CLHS.  [ArtisticLicense2.0] [51].
 * [cl-bibtex](https://github.com/mkoeppe/cl-bibtex)  -使用BST到CL编译器的Common Lisp中的BibTeX程序的兼容重新实现.  [GNU LGPL2.1] [11].
 * [mgl-pax](https://github.com/melisgl/mgl-pax) -探索性
  编程环境和文档生成器.  一个可能
@@ -1054,7 +1054,7 @@ Git
 * [legit](https://shinmera.github.io/legit/) -Git的接口
    二进制  [Artistic License 2.0] [51].
 * [git-api](https://github.com/fourier/git-api) -通用Lisp库
- 访问git仓库.  它不需要安装git或libgit.  [BSD] [15].
+ 访问git存储库.  它不需要安装git或libgit.  [BSD] [15].
 
 i18n
 ----
@@ -1091,7 +1091,7 @@ Logging
 Markdown
 --------
 
-* [3bmd](https://github.com/3b/3bmd)  -markdown-&gt; html转换器.  [MY] [200].
+* [3bmd](https://github.com/3b/3bmd)  -markdown-&gt; html转换器.  [MIT] [200].
 
 PDF
 ---
@@ -1127,7 +1127,7 @@ Other
 * [named-readtables](https://github.com/melisgl/named-readtables)  -提供类似于包名称空间的可读表名称空间.  [3子BSD] [15].
 * [nEXT-Browser](http://github.com/nEXT-Browser/nEXT)  -注重生产力，可扩展/可编程的Web浏览器.  [3子BSD] [15].
 * [Salza2](http://www.xach.com/lisp/salza2/)  -用于创建压缩数据的库.  [FreeBSD] [39].
-* [simple-currency](https://github.com/a0-prw/simple-currency)  -使用欧洲央行发布的每日信息的货币换算库.  [FreeBSD] [39].
+* [simple-currency](https://github.com/a0-prw/simple-currency)  -使用欧洲央行发布的每日信息的货币转换库.  [FreeBSD] [39].
 * [template](https://bitbucket.org/tarballs_are_good/template)  -类似于C ++的模板和函数库.  [3子BSD] [15].
 * [texp](http://mr.gy/software/texp/)  -生成TeX的DSL.  未指定许可证.
 * [trivial-benchmark](https://github.com/Shinmera/trivial-benchmark)  -小型基准测试库.  [Artistic License 2.0] [51].
@@ -1138,7 +1138,7 @@ Other
 XML
 ===
 
-* [CXML](https://common-lisp.net/project/cxml/) - XML parser, with a range of extension libraries. [LLGPL][8].
+* [CXML](https://common-lisp.net/project/cxml/)  -XML解析器，带有一系列扩展库.  [LLGPL] [8].
  * [Plump] [71]-一个宽松的XML解析器.  [Artistic License 2.0] [51].
 * [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)  -XML路径语言（XPath）1.0版的实现.  [BSD_2Clause] [17].
 * [s-xml](http://cliki.net/S-XML)  -基本解析器.  [LLGPL] [8].
@@ -1176,21 +1176,21 @@ Contributing
 [9]: https://www.gnu.org/licenses/lgpl-3.0.en.html
 [11]: http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 [13]: http://www.sbcl.org/manual/index.html#ANSI-Conformance
-[14]: http://directory.fsf.org/wiki/License:Expat
-[15]: http://directory.fsf.org/wiki/License:BSD_3Clause
+[14]: https://directory.fsf.org/wiki/License:Expat
+[15]: https://directory.fsf.org/wiki/License:BSD_3Clause
 [16]: https://www.quicklisp.org/beta/
 [17]: https://directory.fsf.org/wiki/License:BSD_2Clause
 [20]: http://www.cs.northwestern.edu/academics/courses/325/readings/graham/graham-notes.html
 [21]: http://www.goodreads.com/book/show/1175730.Object_Oriented_Programming_in_Common_LISP
-[33]: http://directory.fsf.org/wiki/License:Zlib
-[39]: http://directory.fsf.org/wiki?title=License:FreeBSD
-[47]: http://directory.fsf.org/wiki/License:CPLv1.0
-[51]: http://directory.fsf.org/wiki/License:ArtisticLicense2.0
-[54]: http://directory.fsf.org/wiki/License:Boost1.0
-[59]: http://directory.fsf.org/wiki/License:EPLv1.0
+[33]: https://directory.fsf.org/wiki/License:Zlib
+[39]: https://directory.fsf.org/wiki?title=License:FreeBSD
+[47]: https://directory.fsf.org/wiki/License:CPLv1.0
+[51]: https://directory.fsf.org/wiki/License:ArtisticLicense2.0
+[54]: https://directory.fsf.org/wiki/License:Boost1.0
+[59]: https://directory.fsf.org/wiki/License:EPLv1.0
 [71]: https://github.com/Shinmera/plump
 [72]: https://github.com/Shinmera/lquery
-[89]: http://directory.fsf.org/wiki/License:Apache2.0
+[89]: https://directory.fsf.org/wiki/License:Apache2.0
 [156]: http://letoverlambda.com/
 [157]: http://norvig.com/paip.html
 [176]: https://github.com/gwkkwg/lift/blob/master/COPYING
@@ -1203,5 +1203,3 @@ Contributing
 [208]: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 [209]: http://www.eclipse.org/legal/epl-v10.html
 [210]: https://common-lisp.net/project/linedit/license.html
-
-[rutils]：https：//github.com/vseloved/rutils）

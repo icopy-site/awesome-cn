@@ -744,7 +744,7 @@ Projects
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) -用于Kubernetes CLI的集成外壳
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) -Kubernetes tmux插件显示当前上下文和名称空间
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) -Kubectl的别名
-* [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)  -一组kubectl插件，处理从简单的上下文切换到以任何用户（包括root用户）通过exec连接到容器的所有操作.  针对GKE用户量身定制.
+* [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)  -一个kubectl插件集合，处理从简单的上下文切换到以任何用户（包括root）通过exec连接到容器的所有操作.  针对GKE用户量身定制.
 * [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using this kubectl plugin
 * [kubectld](https://github.com/rancher/kubectld)
 * [kubectx](https://github.com/ahmetb/kubectx) -在kubectl上的集群之间切换
@@ -931,7 +931,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -943,6 +943,7 @@ Books
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) 通过 [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)
 * [The DevOps 2.3 Toolkit: Kubernetes](https://leanpub.com/the-devops-2-3-toolkit) 通过 [Viktor Farcic](https://twitter.com/vfarcic)
 * [Learn Azure in a Month of Lunches, Second Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition) 通过 [Iain Foulds](https://twitter.com/fouldsy)
+* [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches) 通过 [Elton Stoneman](https://twitter.com/EltonStoneman)
 
 Certifications
 =======================================================================
@@ -1005,7 +1006,7 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，并且如果您能充分利用其潜力，那么它对于品牌或企业来说是非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且是充分利用品牌或企业潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [Apcera](https://twitter.com/Apcera)
@@ -1019,7 +1020,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 
