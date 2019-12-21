@@ -49,6 +49,7 @@
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.
 * [Velato](http://velato.net) -使用MIDI文件作为源的语言，程序由音高和音高顺序定义.
 * [Vigil](https://github.com/munificent/vigil) -只有Vigil真正警惕不允许未通过编程规范的代码.
+* [wenyan‑lang](http://wenyan-lang.lingdong.works) -紧跟中国古典文学的语法和语气.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) -随时随地执行操作的语言.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) -仅使用白色字符（空格，制表符和换行符）.
 * [Z](https://esolangs.org/wiki/Z) -仅使用字母z.

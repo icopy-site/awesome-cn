@@ -32,7 +32,7 @@ _使用开源许可证发布的项目.
 - [DokuWiki](https://www.patreon.com/dokuwiki) -Wiki应用程序.
 - [Duplicati](https://opencollective.com/duplicati) -备份客户端.
 - [Flarum](https://opencollective.com/flarum/) -论坛平台.
-- [FreeCAD](https://salt.bountysource.com/teams/freecad) -参数3D建模器主要用于设计任何大小的现实对象.
+- [FreeCAD](https://freecadweb.org/wiki/Donate) -参数3D建模器主要用于设计任何大小的现实对象.
 - [Godot Engine](https://www.patreon.com/godotengine) -完整的3D引擎. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) -跨平台2D游戏引擎.
 - [HaxeUI](https://www.patreon.com/haxeui) -用户界面工具包.
@@ -113,7 +113,7 @@ _库和框架.
 ### Operating Systems
 _操作系统和Linux发行版.
 
-- [Elementary OS](https://www.patreon.com/elementary) -Ubuntu版本.
+- [Elementary OS](https://www.patreon.com/elementary) -  Ubuntu的变异.
 - [FreeDOS](https://www.patreon.com/freedos) -与MS-DOS兼容的操作系统.
 - [GhostBSD](https://www.patreon.com/GhostBSD) -面向桌面的BSD操作系统.
 - [LineageOS](https://www.paypal.me/LineageOS) -CyanogenMod的前叉. 
@@ -123,7 +123,7 @@ _操作系统和Linux发行版.
 - [Redox OS](https://www.patreon.com/redox_os) -用Rust编写的OS.
 - [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) -用于x86的图形化类Unix操作系统，具有90年代的美感.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) -Linux发行版.
-- [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) -Ubuntu版本. 
+- [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) -  Ubuntu的变异. 
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) -触摸友好的移动版Ubuntu.
 
 

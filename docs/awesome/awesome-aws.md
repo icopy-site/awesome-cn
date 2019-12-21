@@ -10,7 +10,7 @@
 
 精选的AWS库，开放源代码存储库，指南，博客和其他资源的精选列表.
 
-受到启发 [awesome](https://github.com/sindresorhus/awesome) 清单.
+受启发 [awesome](https://github.com/sindresorhus/awesome) 清单.
 
 ## The Fiery Meter of AWSome
 
@@ -157,7 +157,7 @@ Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/mas
 
 * [aws-sdk-php-laravel :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php-laravel)
 * [aws-sdk-php-silex](https://github.com/aws/aws-sdk-php-silex)
-* [aws-sdk-php-zf2 ](https://github.com/aws/aws-sdk-php-zf2)
+* [aws-sdk-php-zf2 :fire:](https://github.com/aws/aws-sdk-php-zf2)
 
 ### Python SDK
 
@@ -638,7 +638,7 @@ AWS存储库：
 * [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) -没有服务器的聊天应用程序.
 * [danilop/LambdAuth :fire::fire::fire::fire:](https://github.com/danilop/LambdAuth) -示例身份验证服务.
 * [eawsy/aws-lambda-go :fire::fire::fire:](https://github.com/eawsy/aws-lambda-go) -一种快速干净的方法来执行Go on Lambda.
-* [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) -Kappa是一个CLI工具，可简化AWS Lambda的部署，更新和测试功能.
+* [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) -Kappa是一个CLI工具，可以更轻松地部署，更新和测试AWS Lambda的功能.
 * [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) -Lambda供电，高度分布式的负载测试工具.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) -通过Lambda自动化Chrome.
 * [jeremydaly/lambda-api :fire::fire::fire:](https://github.com/jeremydaly/lambda-api) -用于无服务器应用程序的轻量级Web框架.
@@ -647,7 +647,7 @@ AWS存储库：
 * [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) -受StatusPage.io启发的状态页面系统，该系统基于AWS Lambda.
 * [kubek2k/lambdoku :fire::fire::fire:](https://github.com/kubek2k/lambdoku) -使用Lambda时具有类似Heroku的体验.
 * [lambci/lambci :fire::fire::fire::fire::fire:](https://github.com/lambci/lambci) -建立在Lambda上的持续集成系统.
-* [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) -Lambda通过并发控制（每个，映射，化简，过滤）对S3对象起作用.
+* [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) -Lambda通过并发控制（每个，映射，归约，过滤）对S3对象起作用.
 * [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) -轻松部署，运行并获得结果.
 * [Miserlou/Zappa :fire::fire::fire::fire::fire:](https://github.com/Miserlou/Zappa) -带有AWS Lambda + API网关的无服务器WSGI Python Web应用程序.
 * [nficano/python-lambda :fire::fire::fire::fire:](https://github.com/nficano/python-lambda) -用于在Lambda中开发和部署无服务器Python代码的工具包.
@@ -911,7 +911,7 @@ AWS存储库：
 * [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash)  -开源的LaunchRock替代方案.  建立漂亮的启动页面.
 * [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) -用于管理资源以构建基础结构的Puppet模块.
 * [mhart/react-server-routing-example :fire::fire:](https://github.com/mhart/react-server-routing-example) -React中的示例通用客户端/服务器路由和数据.
-* [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) -由Hadoop，Kafka，Kinesis，Redshift和Elasticsearch支持的企业级Web，移动和事件分析.
+* [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) -由Hadoop，Kafka，Kinesis，Redshift和Elasticsearch支持的企业级网络，移动和事件分析.
 * [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) -asgard支持管道等的后继者.
 * [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) -允许您的python测试轻松模拟出boto库.
 

@@ -49,18 +49,22 @@
 
 ## Tools
 
-- [caniemail](https://www.caniemail.com/) - Can I email… Support tables for HTML and CSS in emails 
+- [caniemail](https://www.caniemail.com/) -我可以通过电子邮件发送…支持电子邮件中的HTML和CSS表.
 - [Topol](https://topol.io/) -一分钟内创建令人赞叹的响应式HTML电子邮件.
 - [MJML App](https://mjmlio.github.io/mjml-app/) -MJML官方桌面应用程序.
 - [Rollover](http://freshinbox.com/tools/rollover/) -生成用于“滚动图像”的代码，当电子邮件收件人将光标悬停在图像上时，该图像将显示备用图像.
 - [Bulletproof Email Buttons](http://buttons.cm/) -使用逐步增强的VML和CSS设计漂亮的按钮.
-- [Bulletproof Background Images](http://backgrounds.cm/) -在一些帮助下，在HTML电子邮件中使用坚如磐石的背景图片.
+- [Bulletproof Background Images](http://backgrounds.cm/) -在VML和CSS的帮助下，为HTML电子邮件创建坚如磐石的背景图像.
 - [Stripo.email](https://stripo.email/) -在线拖放和HTML电子邮件构建器，无需任何HTML技能即可快速创建专业且响应迅速的电子邮件模板.
 - [MySigMail Card](https://mysigmail.com/card/) -免费的拖放生成器可帮助您直观，快速地创建电子邮件模板.
-
-VML和CSS.
 - [TestSubject](http://zurb.com/playground/testsubject) -测试电子邮件主题行在最流行的移动设备上的显示方式.
 - [mailspice analytics](https://mailspice.com) -适用于所有电子邮件服务的电子邮件分析插件，可深入了解所有电子邮件广告系列（适用于所有ESP）.
+- [Alter.email](https://alter.email/) -一个免费工具，可帮助您内联CSS，删除未使用的CSS，清理文本，为标签添加额外的属性，添加URL跟踪参数，缩小甚至整理HTML电子邮件.
+- [Sensitive Subjects](https://sensitivesubjects.com/) -切勿发送令人尴尬的主题行！
+- [Detergent](https://detergent.io) -一种准备文本以粘贴到HTML的工具：删除不可见的Unicode字符（例如 [ETX](https://www.fileformat.info/info/unicode/char/0003/index.htm) 可以来自PSD文件），对特殊字符进行编码（例如将£变成`£`）并改善版式.
+- [EmailComb](http://emailcomb.com/)  -对电子邮件友好的未使用CSS删除工具，该工具不会解析，因此可以接受混合源，包括您的ESP模板标签.  附加功能：CSS丑化和HTML / CSS缩小（由HTML Crush支持）.
+- [HTML Crush](https://htmlcrush.com/)  -电子邮件友好的HTML压缩程序：将行数限制为500个字符.  （最佳做法），尊重Outlook条件标签，并接受混合来源，包括ESP模板标签.  （可选）只能删除缩进（不能触摸换行符）.
+- [Tabifier](https://tools.arantius.com/tabifier)  -与HTML Crush相反-一种美化HTML文件中的缩进的工具.  适用于混合输入源，包括ESP模板标签.
 
 ## Services
 
@@ -69,7 +73,7 @@ VML和CSS.
 - [Campaign monitor](https://www.campaignmonitor.com/) -Campaign Monitor使您可以轻松创建，发送和优化电子邮件营销活动.
 - [Sendgrid](https://sendgrid.com/) -通过一个可靠的平台传递您的交易和营销电子邮件.
 - [Postal](https://github.com/atech/postal) -用于接收和发送电子邮件的功能齐全的开源邮件传递平台.
-- [SparkPost](https://www.sparkpost.com/) -您应用程序的电子邮件：准时发送至收件箱.
+- [SparkPost](https://www.sparkpost.com/) -您的应用程序的电子邮件：准时发送至收件箱.
 - [Mautic](https://mautic.com/)  -Mautic营销自动化.  利用易于学习，易于使用且易于迭代的营销自动化，构建更智能的广告系列并更快地构建它们.
 - [Mailgun](https://www.mailgun.com/) -针对开发人员的交易电子邮件API服务.
 - [eSputnik](https://esputnik.com/en) -eSputnik是一种行销自动化系统，受到全球3万多忠实客户的信赖，每月发送超过10亿封电子邮件.
@@ -88,7 +92,7 @@ VML和CSS.
 ## Workflows
 
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) -Grunt工作流程，用于使用SCSS设计和测试响应HTML电子邮件模板.
-- [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) -Gulp Email Creator是一个受Lee Munroe咕gr的电子邮件设计工作流程启发的工作流程.
+- [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) -Gulp Email Creator是一个受Lee Munroe的咕gr电子邮件设计工作流程启发的gulp工作流程.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) -通过Sitepoint进行的典型电子邮件开发工作流.
 
 ## Articles
@@ -164,7 +168,7 @@ VML和CSS.
 
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) -Justine Jordan和Jason Rodriguez的响应式电子邮件课程.
 - [HTML Email Design](http://teamtreehouse.com/library/html-email-design) -MailChimp UX设计师Fabio Carneiro演示了如何从头开始构建功能齐全，对移动设备友好的电子邮件.
-- [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) -本系列教程将带您了解基础知识，探索开发技术，工作流程和设计方法.
+- [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) -使用墨水构建响应式电子邮件模板.
 - [Litmus learning](https://litmus.com/community/learning) -石蕊学习资源.
 

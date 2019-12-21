@@ -36,7 +36,7 @@
 
 - **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
-   引导程序论坛.  由2013年开始 [Ian L和sman](https://twitter.com/ianl和sman) 和 [Andrey Butov](https://twitter.com/和rey_butov) 作为现已解散的延续 [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
+   引导程序论坛.  开始于2013 [Ian L和sman](https://twitter.com/ianl和sman) 和 [Andrey Butov](https://twitter.com/和rey_butov) 作为现已解散的延续 [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
   
 - **[##passiveincome](http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4)**在freenode上 
 
@@ -48,7 +48,7 @@
   
 - **[MegaMaker Club](https://megamaker.co/club/)** [$]
 
-  由...运营的独立制作者的独家社区 [Justin Jackson](https://twitter.com/mijustin) .  目前有一个候补名单.  终身访问费用为249美元.  我不是会员，所以我个人不能认可.  通常，我对面向独立制造商的产品持怀疑态度，但由于交叉引用，我仍然发现添加此特定产品很重要.  有些人可能会发现它很有趣.  随时参考评论！
+  由...运营的独立制作者的独家社区 [Justin Jackson](https://twitter.com/mijustin) .  目前有一个候补名单.  终身访问费用为249美元.  我不是会员，所以我个人不能认可.  通常，我对针对独立制造商的产品持怀疑态度，但由于交叉引用，我仍然发现添加此特定产品很重要.  有些人可能会发现它很有趣.  随时参考评论！
   
 - **[FounderCafe](https://www.foundercafe.com/)** [$]
 
@@ -65,7 +65,7 @@
 - **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)）-Slack社区，供从事其外部项目的人员使用.
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)**-适用于小型独立企业的子目录.
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
-- **[Work In Progress](https://wip.chat)** [$]-有关责任的公开待办事项清单，以及 [Telegram chat](https://t.me/wipchat)  800多个制造商.  免费增值.
+- **[Work In Progress](https://wip.chat)** [$]-有关责任的公开待办事项清单，以及 [Telegram chat](https://t.me/wipchat)  800多家制造商.  免费增值.
 - **[r/Startups](https://www.reddit.com/r/startups/)**-不只限于独立开发者/引导者，但仍具有与我们相关的内容.
 
 <!-- - lobsters -->
@@ -93,7 +93,7 @@
   
 - **[Bootstrap Money](https://bootstrap.money)**
   
-   每周综述故事，指南和资源，以帮助您发展互联网业务.  每星期五.  自由.
+   每周综述故事，指南和资源，以帮助您发展互联网业务.  每周五.  自由.
   策划人 [Nicolas de Thoré](https://twitter.com/ndethore)
 
 ### Podcasts
@@ -254,6 +254,10 @@
 - **[Pinboard](https://blog.pinboard.in/)**
 
   MaciejCegłowski的博客中有他的书签工具pinboard，可用于显示成功的个人业务的增长.
+  
+- **[The Bootstrapped Founder](https://thebootstrappedfounder.com/)**
+
+  如何创办，运营和出售一家自举自足的SaaS公司而又不感到疲倦-Arvid Kahl
   
 ##### Others
   
