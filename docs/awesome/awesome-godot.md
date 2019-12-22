@@ -18,7 +18,7 @@
 - [BlockPop](https://github.com/vnen/blockpop) -一个简单的Breakout克隆（Godot 2.1）.
 - [Bombs](https://github.com/randyyaj/Bombs)  -简单的手机游戏.  您需要触摸炸弹来化解它们（Godot 2.1）.
 - [Breakable](https://github.com/didier-v/breakable) -突破性游戏（Godot 3.0）.
-- [Drone Commander](https://github.com/securas/Drone_Commander)  -指挥无数无人机对付外星人.  专为CGA JAM（Godot 2.1）设计.
+- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM (Godot 2.1).
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)  -详细世界中的探索性平台游戏.  面向年轻玩家（Godot 2.1）.
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) -为A Game By It&#39;s Cover 2015 Game Jam（Godot 2.1）制作的平台游戏.
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) -在幻想宇宙中的炸弹人克隆（Godot 2.1）.
@@ -52,7 +52,7 @@
 - [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) -利用细胞自动机方法（Godot 2.0）的简单洞穴生成器.
 - [FPS Test](https://github.com/Calinou/fps-test)  -单人FPS测试.  物理可以工作，但是没有敌人，也没有适当的射击（Godot 2.1）.
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) -HTTP 1.0文件服务器（Godot 2.0）.
-- [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) -RPG演示（Godot 3.0）.
+- [Open Source A-RPG Demo](https://github.com/GDQuest/godot-make-pro-2d-games) -RPG演示（Godot 3.0）.
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) -JRPG风格的游戏演示和模板（Godot 3.1）.
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) -一个演示项目，演示使用tilemap进行寻路（Godot 2.1）.
 - [Realistic Water Shader](https://github.com/godot-extended-libraries/godot-realistic-water) -具有泡沫和腐蚀性的逼真的3D水着色器（Godot 3.1）.
@@ -63,7 +63,7 @@
 
 ## Tutorials
 
-*A more complete list can be found in
+*可以在下面找到更完整的列表
 [this Reddit thread](https://www.reddit.com/r/godot/comments/an0iq5/godot_tutorials_list_of_video_and_written/).*
 
 ### Text tutorials
@@ -119,7 +119,7 @@
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器（Godot 2.1、3.1）.
 - [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程.
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
-- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
+- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -插件可在GDScript（Godot 3.1）中使用FMOD音频引擎
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
 - [gdstats](https://github.com/droxpopuli/gdstats) -用于常见统计分布的伪随机数生成器库（Godot 3.0）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
@@ -142,7 +142,7 @@
 
 ## GDScript editor support
 
-*实现GDscript支持的文本编辑器的附件.*
+*实现GDScript支持的文本编辑器的附件.*
 
 - [Atom](https://atom.io/packages/lang-gdscript) -语法突出显示.
 - [Emacs](https://github.com/francogarcia/godot-gdscript.el) -语法突出显示，缩进和自动补全.
@@ -169,8 +169,9 @@
 
 ## Other
 
-*其他的东西.*
+ *其他的东西.  Bash脚本可以放在`〜/ .local / bin` *中
 
+- [build-godot](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) 和 [build-godot-mono](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono) - Scripts that build 和 run Godot, attempting to install dependencies if needed.
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) -使用Node.js与Godot客户端进行通信.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  -通过CI导出Godot游戏的Docker映像.  包括GitLab CI脚本示例.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) -脚本会自动下载并启动最新版本的Godot，或编译并启动Git`master`分支.

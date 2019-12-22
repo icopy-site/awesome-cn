@@ -38,6 +38,7 @@
 
 ### Maps
 
+- [OldMapsOnline](https://www.oldmapsonline.org/) -地图，始于17世纪.
 - [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) -超过250,000张地图.
 - [David Rumsey Map Collection](https://www.davidrumsey.com/) -超过94,000张地图和相关图像.
 
@@ -53,6 +54,7 @@
 - [Ad*Access](https://repository.duke.edu/dc/adaccess) -1911年至1955年之间，超过7,000个美国和加拿大广告涵盖了五个产品类别-美容和卫生，广播，电视，运输和第二次世界大战宣传.
 - [Digitales Deutsches Frauenarchiv](https://www.digitales-deutsches-frauenarchiv.de/) - An interactive portal on the history of women's movements in Germany.
 - [Marxist Internet Archive](https://www.marxists.org/) -您想知道的有关马克思（以及其他重要社会主义者）的一切.
+- [e-codices](http://e-codices.ch/) -瑞士的虚拟手稿库，其中包含来自92个不同馆藏的2297个手稿.
 
 ## Data and Statistics
 
@@ -71,7 +73,7 @@
 
 ### Learning
 
-- [HIST 7370](https://cblevins.github.io/f19-dig-hist/) -东北大学的卡梅隆·布列文（Cameron Blevins）在数字历史中的方法和阅读.
+- [HIST 7370](https://cblevins.github.io/f19-dig-hist/) -东北大学的卡梅隆·布列文（Cameron Blevins）在数字历史中的方法和读物.
 - [AdFontes](https://www.adfontes.uzh.ch/) -关于在存档中使用源的简介.
 - [Parthenos](https://training.parthenos-project.eu/) -来自PARTHENOS的数字人文和研究基础设施的培训模块和资源.
 - [Clio Guide](https://guides.clio-online.de/) -一本历史科学数字资源手册.
@@ -119,11 +121,13 @@
 
 ### Publishing
 
+- [Manifold](https://manifoldapp.org/) -学术出版，协作和社交阅读平台.
 - [Scalar](https://scalar.me/) -诞生于数字化，开源，媒体丰富的学术出版物，就像博客一样容易.
 - [Omeka](https://omeka.org/) -开源Web发布平台，用于共享数字馆藏并创建媒体丰富的在线展览.
 
 ## Platforms
 
+- [DHSlack](https://github.com/amandavisconti/DHslack/blob/master/CodeOfConduct.md) -数字人文学科学者的闲暇渠道.
 - [Perspectives on History](https://www.historians.org/publications-and-directories/perspectives-on-history/digital-history) -美国历史协会的新闻杂志.
 - [wethink.hypotheses.org](https://wethink.hypotheses.org/) -协作数字历史.
 - [HSS Digital](https://digital.hssonline.org/) -科学史倡议中的数字奖学金.
@@ -135,6 +139,12 @@
 - [Luxembourg Centre for Contemporary and Digital History](https://www.c2dh.uni.lu/) -研究用于历史研究和教学的新数字方法和工具.
 - [Austrian Centre for Digital Humanities](https://www.oeaw.ac.at/acdh/)
 - [Humanities + Design a Research Lab at Stanford University](http://hdlab.stanford.edu/)
+
+## Twitter
+
+- [Digital History by @moritzmaehr](https://twitter.com/moritzmaehr/lists/digital-history)
+- [Digital Humanities by @GrandjeanMartin](https://twitter.com/GrandjeanMartin/lists/digital-humanities)
+- [Digital Humanities by @normanlippert](https://twitter.com/normanlippert/lists/digital-humanities)
 
 ## Contribute
 

@@ -133,6 +133,7 @@
     * [code2flow](https://github.com/scottrogowski/code2flow) -将您的Python和JavaScript代码转换成DOT流程图.
     * [prospector](https://github.com/PyCQA/prospector) -分析Python代码的工具.
     * [pycallgraph](https://github.com/gak/pycallgraph) -可视化Python应用程序流程（调用图）的库.
+    * [vulture](https://github.com/jendrikseipp/vulture) -查找和分析无效的Python代码的工具.
 *代码短毛
     * [flake8](https://pypi.org/project/flake8/) -围绕着pycodestyle，pyflakes和McCabe的包装器.
         * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
@@ -380,7 +381,7 @@
     * [dask](https://github.com/dask/dask) -用于分析计算的灵活并行计算库.
     * [luigi](https://github.com/spotify/luigi) -一个模块，可帮助您构建批处理作业的复杂管道.
     * [mrjob](https://github.com/Yelp/mrjob) -在Hadoop或Amazon Web Services上运行MapReduce作业.
-    * [Ray](https://github.com/ray-project/ray/) -用于统一和分布式Python的系统，统一了机器学习生态系统.
+    * [Ray](https://github.com/ray-project/ray/) -一个用于并行和分布式Python的系统，该系统统一了机器学习生态系统.
 *流处理
     * [faust](https://github.com/robinhood/faust) -流处理库，可移植来自 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 到Python.
     * [streamparse](https://github.com/Parsely/streamparse) -通过实时数据流运行Python代码 [Apache Storm](http://storm.apache.org/).
@@ -438,11 +439,11 @@
     * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) -出色的自动完成库Jedi的Sublime Text插件.
 *我来了
     * [jedi-vim](https://github.com/davidhalter/jedi-vim) -用于Python的Jedi自动完成库的Vim绑定.
-    * [python-mode](https://github.com/python-mode/python-mode) -用于将Vim转换为Python IDE的多合一插件.
+    * [python-mode](https://github.com/python-mode/python-mode) - An all in one plugin for turning Vim into a Python IDE.
     * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) -包括 [Jedi](https://github.com/davidhalter/jedi)基于Python的完成引擎.
 * 视觉工作室
     * [PTVS](https://github.com/Microsoft/PTVS) -适用于Visual Studio的Python工具.
-* Visual Studio Code
+* Visual Studio代码
     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) -官方VSCode扩展，具有对Python的丰富支持.
 * IDE
     * [PyCharm](https://www.jetbrains.com/pycharm/)  -JetBrains的商业Python IDE.  有免费的社区版.
@@ -467,7 +468,6 @@
 *用于Python版本和虚拟环境管理的库.*
 
 * [pyenv](https://github.com/pyenv/pyenv) -简单的Python版本管理.
-* [poetry](https://github.com/sdispater/poetry) -Python依赖关系管理和打包变得容易.
 * [virtualenv](https://github.com/pypa/virtualenv) -创建隔离的Python环境的工具.
 
 ## Files
@@ -529,7 +529,7 @@
 * [pywebview](https://github.com/r0x0r/pywebview/) -围绕Webview组件的轻型跨平台本机包装.
 * [Tkinter](https://wiki.python.org/moin/TkInter) -Tkinter是Python的事实上的标准GUI软件包.
 * [Toga](https://github.com/pybee/toga) -Python本机，OS本机GUI工具包.
-* [urwid](http://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
+* [urwid](http://urwid.org/) -用于创建终端GUI应用程序的库，该库对窗口小部件，事件，丰富的颜色等具有强大的支持.
 * [wxPython](https://wxpython.org/) -wxWidgets C ++类库与Python的混合.
 
 ## GraphQL
@@ -568,7 +568,7 @@
 
 *用于处理HTML和XML的库.
 
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) -提供Pythonic惯用法来迭代，搜索和修改HTML或XML.
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
 * [bleach](https://github.com/mozilla/bleach) -基于白名单的HTML清理和文本链接库.
 * [cssutils](https://pypi.org/project/cssutils/) -Python的CSS库.
 * [html5lib](https://github.com/html5lib/html5lib-python) -符合标准的库，用于解析和序列化HTML文档和片段.
@@ -587,7 +587,7 @@
 * [grequests](https://github.com/kennethreitz/grequests) -请求+ gevent用于异步HTTP请求.
 * [httplib2](https://github.com/httplib2/httplib2) -全面的HTTP客户端库.
 * [requests](https://requests.kennethreitz.org/en/master/) -人类的HTTP请求.
-* [treq](https://github.com/twisted/treq) -像Twisted的HTTP客户端一样构建的API之类的Python请求.
+* [treq](https://github.com/twisted/treq) -Python要求，例如在Twisted的HTTP客户端之上构建的API.
 * [urllib3](https://github.com/shazow/urllib3) -具有线程安全连接池的HTTP库，支持文件发布，健全.
 
 ## Hardware
@@ -626,7 +626,7 @@
 * [CPython](https://github.com/python/cpython) -**默认的，使用C语言编写的Python编程语言的最广泛使用的实现.**
 * [Cython](http://cython.org/) -针对Python优化静态编译器.
 * [CLPython](https://github.com/metawilm/cl-python) -以Common Lisp编写的Python编程语言的实现.
-* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，是更强大的CPython2.7替代（alpha）.
+* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，因为它是更强大的CPython2.7替代（alpha）.
 * [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 * [Jython](https://hg.python.org/jython) -为JVM用Java编写的Python编程语言的实现.
 * [MicroPython](https://github.com/micropython/micropython) -精简高效的Python编程语言实现.
@@ -691,7 +691,7 @@
 
 ## Microsoft Windows
 
-* Microsoft Windows上的Python编程.
+*在Microsoft Windows上进行Python编程.
 
 * [Python(x,y)](http://python-xy.github.io/) -基于Qt和Spyder的面向科学应用程序的Python发行版.
 * [pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs/) -用于Python扩展程序包的非官方Windows二进制文件.
@@ -768,9 +768,10 @@
 
 *用于程序包和依赖项管理的库.
 
-* [pip](https://pip.pypa.io/en/stable/) -Python包和依赖项管理器.
+* [pip](https://pip.pypa.io/en/stable/) -Python的软件包安装程序.
     * [PyPI](https://pypi.org/)
     * [pip-tools](https://github.com/jazzband/pip-tools) -一组用于使固定的Python依赖关系保持最新的工具.
+* [poetry](https://github.com/sdispater/poetry) -Python依赖关系管理和打包变得容易.
 * [conda](https://github.com/conda/conda/) -跨平台，与Python无关的二进制软件包管理器.
 
 ## Package Repositories
@@ -787,7 +788,7 @@
 *允许或拒绝用户访问数据或功能的图书馆.*
 
 * [django-guardian](https://github.com/django-guardian/django-guardian) -为Django 1.2+实现每个对象的权限
-* [django-rules](https://github.com/dfunckt/django-rules) -一个小巧但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
+* [django-rules](https://github.com/dfunckt/django-rules) -一个微型但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
 
 ## Processes
 
@@ -1051,7 +1052,7 @@
 
 ## URL Manipulation
 
-*Libraries for parsing URLs.*
+*用于解析URL的库.
 
 * [furl](https://github.com/gruns/furl) -一个小的Python库，可轻松解析和处理URL.
 * [purl](https://github.com/codeinthehole/purl) -简单，不可变的URL类，带有用于查询和操作的干净API.
