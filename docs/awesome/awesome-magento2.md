@@ -28,7 +28,7 @@
 - [Pestle](https://github.com/astorm/pestle) -Alan Storm的代码生成工具.
 - [Mage2Gen](https://mage2gen.com/) -在线模块创建者.
 - [Magento 2 Code Generator](https://github.com/staempfli/magento2-code-generator) -Juan Alonso的代码生成器.
-- [Magento 2 Docker](https://hub.docker.com/r/rafaelcgstz/magento2/) -专注于开发过程，在Mac和Linux上更快.
+- [Magento 2 Docker](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on Mac and Linux.
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) -专注于开发过程，效果很好.
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) -由Magento 2提供的必备Chrome扩展程序 [MageSpecialist](https://github.com/magespecialist).
 - [convertm1m2](https://github.com/unirgy/convertm1m2) -一个简单的脚本，将扩展从Magento1转换为Magento 2.
@@ -39,6 +39,7 @@
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发人员工具栏
 - [mage2.docker](https://github.com/aliuosio/mage2.docker) -具有安装程序的Magento 2的基本Docker容器（更新：2019年11月27日）
 - [markshust/docker-magento](https://github.com/markshust/docker-magento) -Mark Shust的Magento Docker配置
+- [Warden](https://github.com/davidalger/warden) -CLI工具，用于通过docker-compose环境工作 [David Alger](https://davidalger.com/)
 
 ## Open Source Extensions
 
@@ -83,7 +84,7 @@
 - [de_CH](https://github.com/staempfli/magento2-language-de-ch)  -瑞士语言包.
 - [fr_FR](https://github.com/Imaginaerum/magento2-language-fr-fr) ：fr：-法语包.
 - [da_DK](https://magentodanmark.dk/)  -丹麦语言包.
-- [es_AR](https://github.com/SemExpert/Magento2-language-es_ar) 🇦🇷 - Spanish (Argentina) Language Package.
+- [es_AR](https://github.com/SemExpert/Magento2-language-es_ar)  -西班牙语（阿根廷）语言包.
 - [es_ES](https://github.com/eusonlito/magento2-language-es_es) ：es：-西班牙语语言包.
 - [pt_BR](https://github.com/rafaelstz/traducao_magento2_pt_br)  -葡萄牙语巴西语言包.
 - [it_IT](https://github.com/mageplaza/magento-2-italian-language-pack) ：it：-意大利语.

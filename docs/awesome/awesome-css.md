@@ -4,8 +4,10 @@
 [awesome-badge]：https：//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis链接]：https://travis-ci.org/awesome-css-group/awesome-css
 [travis-徽章]：https://travis-ci.org/awesome-css-group/awesome-css.svg?branch=master
+[HitCounter-link]：http://hits.dwyl.io/awesome-css-group/awesome-css
+[HitCounter-徽章]：http://hits.dwyl.io/awesome-css-group/awesome-css.svg
 
-## Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] {
+## Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link] {
 
  &gt; / *精选的很棒的框架，样式指南和其他很棒的块的清单，用于编写出色的CSS.  * /
 
@@ -63,7 +65,7 @@
 
 *更快地编写CSS *
 
-* [LESS](https://github.com/less/less.js) -向后与CSS兼容，并且它添加的其他功能使用现有CSS语法.
+* [LESS](https://github.com/less/less.js) -向后兼容CSS，它所添加的额外功能使用现有CSS语法.
 * [PostCSS](https://github.com/postcss/postcss) -使用JS插件转换CSS.
 * [Sass](https://github.com/sass/sass) -成熟，稳定且功能强大的专业级CSS扩展语言.
 * [STYLIS](https://github.com/thysultan/stylis.js) -轻量级CSS预处理器.
@@ -88,7 +90,7 @@
 * [Pure.css](http://purecss.io/) -一组小型的自适应CSS模块，您可以在每个Web项目中使用.
 * [Semantic UI](http://semantic-ui.com/) -使用人类友好的HTML的强大框架.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) -轻巧，响应迅速的现代CSS框架.
-* [Strawberry](https://github.com/jfet97/strawberry) -一组通用的flexbox实用程序，这些实用程序专注于通过嵌套flexbox来使您的生活更轻松，更快.
+* [Strawberry](https://github.com/jfet97/strawberry) -一组通用的flexbox实用程序，这些实用程序专注于使您的生活变得更加轻松和快捷.
 * [Tachyons](http://tachyons.io/) -适用于人类的功能CSS.
 * [Tacit](https://yegor256.github.io/tacit/) -平面设计零技能的虚拟人的CSS框架.
 * [tailwindcss](https://github.com/tailwindcss/tailwindcss) -实用程序优先的CSS框架，用于快速UI开发.
@@ -117,7 +119,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Reset and Normalize
 
 - [Normalize](https://github.com/necolas/normalize.css) -一组CSS规则，可在HTML元素的默认样式中提供更好的跨浏览器一致性.
-- [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) -在Normalize.css中添加OpenType功能（连字，字距调整等）.
+- [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) -向Normalize.css添加OpenType功能（连字，字距调整等）.
 - [MiniReset.css](https://github.com/jgthms/minireset.css) -小型的现代CSS重置.
 - [sanitize.css](https://github.com/jonathantneal/sanitize.css/) -一组CSS规则，可立即使用当今的最佳做法.
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) -专门的样式表，用于删除用户代理样式，并以基线为网络样式.
@@ -164,7 +166,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Patterns](https://ux.mailchimp.com/patterns) 通过MailChimp
 * [Lighting Design System](https://www.lightningdesignsystem.com/) 通过Salesforce
 * [SASS Style Guide](http://sass-lang.com/styleguide) 由Sass团队
-* [Style Guide](https://www.starbucks.com/static/reference/styleguide/) by Starbucks
+* [Style Guide](https://www.starbucks.com/static/reference/styleguide/) 星巴克
 * [Website Style Guide Resources](http://styleguides.io/examples.html) 很棒的人
 
 查看更多样式指南，网址为 [Website Style Guide Resources](http://styleguides.io/)
@@ -253,7 +255,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) -由Anna Debenham和Brad Frost主持的关于风格指南的一小批访谈.
 * [The Web Ahead](http://5by5.tv/webahead/) -与世界专家就不断变化的技术和网络的未来进行对话.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) -在数字艺术，设计和开发中寻找最优秀，最聪明，最聪明的创造力人士.
-* [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展.  跟上该播客以及随附的博客，都是关于使您了解最新的开源技术的最新信息.
+* [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展.  保持播报.”此播客以及随附的博客都是关于使您了解最新的开源技术的信息.
 * [Syntax](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -265,10 +267,10 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS Animation](https://twitter.com/cssanimation)
 * [Andrey Sitnik](https://twitter.com/andreysitnik) -@ Autoprefixer，http：//easings.net和@PostCSS的作者.
-* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网站设计者.  @multimedial_utn HTML5和CSS Freak教授.  临时翻译.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计师.  @multimedial_utn HTML5和CSS Freak教授.  临时翻译.
 * [Sara Soueidan](https://twitter.com/SaraSoueidan) - Author of the @Codrops CSS Reference & Co-author of the Smashing Book #5.
 * [Hugo Giraudel](https://twitter.com/HugoGiraudel) -@edenspiekermann的CSS妖精和Sass黑客.
-* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，地产势利小伙，Foodie.
+* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，房地产势利者，Foodie.
 * [Heydon Pickering](https://twitter.com/heydonworks)  -大米消费量适中.  还是UX设计师，作者，@ smashingmag编辑器和程序员.
 * [Adam Morse](https://twitter.com/mrmrs_) -倡导用户和开源.
 * [Donovan Hutchinson](https://twitter.com/donovanh)  -设计师，开发人员，作家.  偶尔在http://Hop.ie上发布博客，目前正在构建@cssanimation.
@@ -281,7 +283,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Nicolas Gallagher](https://twitter.com/necolas) -@twitter的软件工程师.
 * [Harry Roberts](https://twitter.com/csswizardry)-顾问前端架构师：@ google，@ Etsy，@ kickstarter，@ BBC，@ Deloitte，@ FT等.
 * [Phil Walton](https://twitter.com/philwalton) -Google的工程师•开源倡导者•开发人员•设计人员•作家.
-* [Lea Verou](https://twitter.com/LeaVerou) - Research Assistant @MIT_CSAIL, @CSSWG IE, @OReillyMedia author, Ex @W3C staff.
+* [Lea Verou](https://twitter.com/LeaVerou) -研究助理@ MIT_CSAIL，@ CSSWG IE，@ OReillyMedia作者，例如@ W3C员工.
 * [Manoela Ilic](https://twitter.com/crnacura) -... aka Mary Lou @codrops ༶ CSS和HTML是我的蜡笔༶对认知科学，AI，HCI，UI设计和天体物理学感兴趣༶数字游牧.
 * [Una Kravets](https://twitter.com/Una)  -前端@IBMDesign.  鼓吹，社区建设者和手工匠.  STEMinist :)开源所有事物.
 * [Chris Coyier](https://twitter.com/chriscoyier)  -设计器@CodePen.  作家@Real_CSS_Tricks.
@@ -289,13 +291,13 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Eric Bidelman](https://twitter.com/ebidel) -Google的工程师，负责Chrome，Web组件和Polymer.
 * [Patrick Hamann](https://twitter.com/patrickhamann) -山区，手工啤酒和发现新食物的恋人.
 * [Dave McFarland](https://twitter.com/davemcfarland) -Web开发人员，CSS的作者：The Missing Manual，JavaScript和jQuery.
-* [L. David Baron](https://twitter.com/davidbaron) -Mozilla开发人员，CSS和W3C标准外交官。
-* [Daniel Glazman](https://twitter.com/glazou)  -W3C CSS工作组联合主席，企业家，软件工程师，极客，两个孩子的父亲，通晓多国语言的人，爱鸭子的人.  没事  推文严格是我的.
+* [L. David Baron](https://twitter.com/davidbaron) -Mozilla开发人员，CSS和W3C标准外交官.
+* [Daniel Glazman](https://twitter.com/glazou)  -W3C CSS工作组联合主席，企业家，软件工程师，极客，两个孩子的父亲，通晓英语的人，爱鸭子的人.  没事  推文严格是我的.
 * [The Chris Eppstein](https://twitter.com/chriseppstein)  -爱.  讨厌恨.  有一个踢屁股的家庭.  编写代码.  领导样式表技术@LinkedIn.
-* [앗킨스 탭](https://twitter.com/tabatkins) -从字面上看，詹恩·希弗（Jenn Schiffer）的妈妈.
+* [앗킨스 탭](https://twitter.com/tabatkins) -从字面上看，珍妮·希弗（Jenn Schiffer）的妈妈
 * [Natalie Weizenbaum](https://twitter.com/nex3)  -转码器小姐.  @SassCSS的首席设计师/开发人员，在@dart_lang上为@google工作.
 * [Brad Frost](https://twitter.com/brad_frost) -网页设计师，演讲者，作家，顾问，音乐家.
-* [Maxime Thirouin](https://twitter.com/MoOx) -自由职业者前端警戒，UI / UX开发人员.
+* [Maxime Thirouin](https://twitter.com/MoOx) - Freelance front-end vigilante, UI/UX developer.
 * [Mark Otto](https://twitter.com/mdo)  -GitHub和Bootstrap.  以前在Twitter.  巨大的书呆子.
 * [Simon](https://twitter.com/simurai) -UI设计师，CSS涂鸦者.
 * [Connor Sears](https://twitter.com/connors) -GitHub上的设计师.
@@ -360,7 +362,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 [contributor-covenant]：https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
 
- 随时潜入！  打开一个问题或提交PR.
+Feel free to dive in! Open an issue or submit PRs.
 
 很棒的CSS遵循[贡献者契约] [contributor-covenant]行为准则.
 

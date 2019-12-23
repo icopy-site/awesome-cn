@@ -99,7 +99,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [data.gov](https://catalog.data.gov/dataset) -美国政府公开数据的所在地
 * [United States Census Bureau](http://www.census.gov/)
 * [usgovxml.com](http://usgovxml.com/)
-* [enigma.com](http://enigma.com/) -浏览公共数据世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
+* [enigma.com](http://enigma.com/) -浏览公共数据的世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
 * [datahub.io](https://datahub.io/)
 * [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 * [databib.org](http://databib.org/)
@@ -167,11 +167,11 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) -万物数据科学
 - [Prash Chan](http://www.mdmgeek.com/) -关于主数据管理及其周围所有嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) -开源数据科学大师
-- [Paul Miller](http://cloudofdata.com/) Cloud of Data的咨询服务总部位于英国，在全球范围内工作，可帮助客户了解将数据及更多内容带到Cloud的含义.
+- [Paul Miller](http://cloudofdata.com/) Cloud of Data的咨询服务总部位于英国，业务遍及全球，可帮助客户了解将数据及更多内容带到Cloud的含义.
 - [Data Science London](http://datasciencelondon.org/) 伦敦数据科学公司是一个非营利性组织，致力于数据科学的免费，开放，传播.
 我们是欧洲最大的数据科学社区.
 我们社区中有3190多名数据科学家和数据极客.
-- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）.  机器学习，数据挖掘及更多
+- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）  机器学习，数据挖掘及更多
 - [John Myles White](http://www.johnmyleswhite.com/) 个人博客
 - [Quora Data Science](https://www.quora.com/Data-Science) -来自专家的数据科学问答
 - [Siah](https://openresearch.wordpress.com/) 伯克利大学博士生
@@ -183,7 +183,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Revolution Analytics](http://blog.revolutionanalytics.com/) -数据科学博客
 - [R Bloggers](https://www.r-bloggers.com/) -R博客
 - [The Practical Quant](https://practicalquant.blogspot.com/) 大数据
-- [Micheal Le Gal](http://www.mickaellegal.com/)  一位数据爱好者，他热衷于解决有趣的问题并利用数据制作精美的故事和可视化内容.  在过去的5年中，他曾运用统计方法解决政府，脑科学以及最近的零售业中的问题.
+- [Micheal Le Gal](http://www.mickaellegal.com/)  一位数据爱好者，他热衷于解决有趣的问题并利用数据制作精美的故事和可视化内容.  在过去的5年中，他将统计数据用于解决政府，脑科学以及最近的零售业中的问题.
 - [Datascope Analytics](https://datascopeanalytics.com/) 数据驱动的咨询和设计
 - [另一个数据博客](http://yet-another-data-blog.blogspot.com.tr/) 另一个数据博客
 - [Spenczar](http://spenczar.com/)  _Twitch_的一位数据科学家.  我负责整个数据管道，从跟踪到模型构建再到报告.
@@ -240,7 +240,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 ## Newsletters
 
-- [AI Digest](https://aidigest.net/) .  每周新闻通讯，以了解人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
+- [AI Digest](https://aidigest.net/) .  每周新闻通讯，以了解有关AI，机器学习和数据科学的最新信息. [Archive](https://aidigest.net/digests).
 
 ## Podcasts
 
@@ -258,6 +258,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 ## Books
 
+- [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
 - [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
@@ -438,7 +439,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 使用SQL，Scala等进行交互式数据分析和协作文档
 * [Featuretools](https://github.com/featuretools/featuretools/) -用python编写的用于自动功能工程的开源框架
 * [Optimus](https://github.com/ironmussa/Optimus) -使用PySpark后端进行清理，预处理，功能工程，探索性数据分析和简单的ML. 
-* [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  开箱即用地支持分类，细分和检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
+* [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持分类，分割，开箱即用的检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
 * [DVC](https://github.com/iterative/dvc)  -开源数据科学版本控制系统.  它有助于跟踪，组织数据科学项目并使之可重现.  在其最基本的方案中，它有助于版本控制以及共享大数据和模型文件.
 * [Lambdo](https://github.com/asavinov/lambdo) 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
 * [Feast](https://github.com/gojek/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.

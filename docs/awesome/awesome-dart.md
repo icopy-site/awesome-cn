@@ -3,7 +3,7 @@
 很棒的飞镖 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ============
 
- 精选的Dart框架，库和软件的精选列表.  列表中的项目会得到积极维护，有据可查，并且在Dart社区中很受欢迎.  受到启发 [awesome](https://github.com/sindresorhus/awesome) 列表.
+ 精选的Dart框架，库和软件的精选列表.  列表中的项目会得到积极维护，有据可查，并且在Dart社区中很受欢迎.  受启发 [awesome](https://github.com/sindresorhus/awesome) 列表.
 
 ### Contributing
 
@@ -25,7 +25,7 @@
 
 ## Server Frameworks
 
-* [Jaguar](https://github.com/Jaguar-dart/jaguar) -为提高速度，简化性和可扩展性而构建的服务器框架.
+* [Jaguar](https://github.com/Jaguar-dart/jaguar) -为速度，简单性和可扩展性而构建的服务器框架.
 * [Angel](https://github.com/angel-dart/angel) -Angel是为全栈开发而设计的服务器端框架，重点在于代码共享，可伸缩性和较低的学习曲线.
 * [Aqueduct](https://github.com/stablekernel/aqueduct) -Aqueduct是功能齐全的服务器端框架，具有ORM，数据库迁移工具，OAuth 2.0实现，自动OpenAPI规范生成和多线程支持.
 * [Redstone](https://github.com/redstone-dart/redstone) -Redstone是Dart的服务器端元数据驱动微框架.
@@ -113,7 +113,7 @@
 * [Observatory](https://www.dartlang.org/tools/observatory/) -天文台是用于分析和调试Dart应用程序的工具.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) -将Dart代码编译为JavaScript.
 * [js2dart](https://github.com/vojtajina/js2dart) -将Javascript代码编译为Dart.
-* [Stagehand](https://github.com/google/stagehand) -受Web Starter Kit和Yeoman等工具启发的项目脚手架生成器.
+* [Stagehand](https://github.com/dart-lang/stagehand) -受Web Starter Kit和Yeoman等工具启发的项目脚手架生成器.
 * [Crossdart](https://crossdart.info) -来自Pub的软件包的交叉引用源代码.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
 * [gulp-dart](https://github.com/agudulin/gulp-dart) -一个gulp插件，用于使用dart2js将Dart代码编译为JavaScript.
@@ -154,7 +154,7 @@
 
 ## Everything Else
 
-有很多很棒的库被添加到 [Pub](https://pub.dartlang.org/)  每时每刻.  如果在此列表中找不到可以满足您需求的图书馆，请继续在Pub上进行搜索.  而且，如果您最终找到了一个很棒的库，我们将很乐意提供带有信息的请求请求，以便其他所有人也可以发现它.  只要确保阅读 [contributing guidelines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) 第一.
+有很多很棒的库被添加到 [Pub](https://pub.dartlang.org/)  每时每刻.  如果在此列表中找不到可以满足您需求的图书馆，请继续在Pub上进行搜索.  而且，如果您最终找到了一个很棒的库，我们将很乐意提供带有信息的请求请求，以便其他所有人也可以找到它.  只要确保阅读 [contributing guidelines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) 第一.
 
 ## License
 

@@ -164,6 +164,7 @@
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
+- [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) -将AWS Secrets Manager机密定义为环境值.
 
 ### Testing and Linting
 
@@ -336,6 +337,8 @@
 - [Deploy a Collection to Ansible Galaxy](https://github.com/artis3n/ansible_galaxy_collection)
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
 - [Publish module to Puppet Forge](https://github.com/barnumbirr/action-forge-publish)
+- [Build and publish Electron apps](https://github.com/samuelmeuli/action-electron-builder)
+- [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
 
 ### External Services
 
@@ -395,7 +398,7 @@
 - [Working with GitHub Actions](https://jeffrafter.com/working-with-github-actions)
 - [GitHub Actions for Rails Developers](https://www.youtube.com/watch?v=gGUXydw22zw)
 
- &gt;如果您有更多资源可以共享，请不要犹豫进行PR.  查看 [https://github.com/sdras/awesome-actions/blob/master/contributing.md](https://github.com/sdras/awesome-actions/blob/master/contributing.md) 想要查询更多的信息
+ &gt;如果您有更多资源可以共享，请不要犹豫进行PR.  查看 [https://github.com/sdras/awesome-actions/blob/master/contributing.md](https://github.com/sdras/awesome-actions/blob/master/contributing.md) 了解更多信息
 
 ## License
 

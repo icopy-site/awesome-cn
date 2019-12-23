@@ -66,7 +66,7 @@
 				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
 			</div>
 		</a>
-		<sub></sub>
+		<sub><i>Clicking this helps fund the Awesome project</i></sub>
 	</p>
 </div>
 
@@ -310,6 +310,7 @@
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
 	- [Question Answering](https://github.com/seriousmac/awesome-qa#readme) -用机器以自然语言提问和回答的科学.
+	- [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme) -将数据中使用的文本生成到文本，会话代理和叙述生成应用程序.
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) -非密码学家使用密码术的理论基础.
@@ -335,6 +336,7 @@
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) -用于大规模数据处理的统一引擎.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) -用于数据可视化，分析和报告应用程序的商业智能平台.
+- [Splunk](https://github.com/sduff/awesome-splunk#readme) -实时搜索，监视和分析机器生成的结构化和非结构化大数据的平台.
 
 ## Theory
 
@@ -508,7 +510,7 @@
 - [Indie](https://github.com/mezod/awesome-indie#readme) -独立开发商业务.
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -公司在Hacker News上使用的工具.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) -用技术应对气候变化.
-- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) -提供高度的态势感知能力，以帮助改善战略规划和决策.
 
 ## Work
 
@@ -589,13 +591,13 @@
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) -Node.js CLI框架.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) -低开销，跨平台的3D图形和计算API.
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) -排版语言.
 - [Economics](https://github.com/antontarasenko/awesome-economics#readme) -经济学家的入门工具包.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) -适用于化学问题的信息技术.
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) -选择下一个配色方案.
-- [Steam](https://github.com/scholtzm/awesome-steam#readme) -数字发行平台.
+- [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots#readme) -构建机器人.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) -建立和推广更具同情心的工程文化.
@@ -605,7 +607,7 @@
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
-- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
+- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) -基于Python的配置管理系统.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) -对于数字设计师.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) -负载测试和性能评估工具.
@@ -624,7 +626,7 @@
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) -研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) -无广告替代品.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) -为实验或玩笑而不是实际使用而设计的编程语言.
-- [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - Open-source monitoring system.
+- [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) -智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) -在命令行上两次输入记帐.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) -公共领域的作品.

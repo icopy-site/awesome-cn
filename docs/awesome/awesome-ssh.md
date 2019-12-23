@@ -6,9 +6,9 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
 
-灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
-请阅读 [contribution guidelines](https://github.com/moul/awesome-ssh/blob/master/CONTRIBUTING.md) 如果你想贡献.
+Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/blob/master/CONTRIBUTING.md) 如果你想贡献.
 
 **检查我 [blog](https://manfred.life/)  或说“嗨” [Twitter](https://twitter.com/moul).**
 
@@ -18,7 +18,7 @@
 
 ### `.ssh/config`
 
-* [`assh`](https://github.com/moul/assh) [![stars](https://img.shields.io/github/stars/moul/advanced-ssh-config.svg?style=social&label=stars) ]（https://github.com/moul/advanced-ssh-config）-透明包装器（ProxyCommand），它将正则表达式，别名，网关，包括动态主机名添加到* SSH *和`ssh-config`.  _以前：`advanced-ssh-config`_
+* [`assh`](https://github.com/moul/assh) [![stars](https://img.shields.io/github/stars/moul/advanced-ssh-config.svg?style=social&label=stars) ]（https://github.com/moul/advanced-ssh-config）-透明包装器（ProxyCommand），它将正则表达式，别名，网关，包括，动态主机名添加到* SSH *和`ssh-config`.  _以前：`advanced-ssh-config`_
 * [storm](https://github.com/emre/storm) [![stars](https://img.shields.io/github/stars/emre/storm.svg?style=social&label=stars)]（https://github.com/emre/storm）-像老板一样管理* SSH *.
 * [ansible-ssh-config](https://github.com/gaqzi/ansible-ssh-config) [![stars](https://img.shields.io/github/stars/gaqzi/ansible-ssh-config.svg?style=social&label=stars)]（https://github.com/gaqzi/ansible-ssh-config）-让* Ansible *管理`ssh_config`.
 * [ec2ssh](https://github.com/mirakui/ec2ssh) [![stars](https://img.shields.io/github/stars/mirakui/ec2ssh.svg?style=social&label=stars)]（https://github.com/mirakui/ec2ssh）-用于* AWS EC2 *的`ssh_config`管理器.
@@ -33,7 +33,7 @@
 
 ### Servers
 
-* [sshportal](https://github.com/moul/sshportal) [![stars](https://img.shields.io/github/stars/moul/sshportal.svg?style=social&label=stars)](https://github.com/moul/sshportal) - simple, fun, and transparent SSH (& Telnet) Bastion Server
+* [sshportal](https://github.com/moul/sshportal) [![stars](https://img.shields.io/github/stars/moul/sshportal.svg?style=social&label=stars)]（https://github.com/moul/sshportal）-简单，有趣和透明的SSH（＆Telnet）堡垒服务器
 * [ssh2docker](https://github.com/moul/ssh2docker) [![stars](https://img.shields.io/github/stars/moul/ssh2docker.svg?style=social&label=stars)]（https://github.com/moul/ssh2docker）-* SSH *服务器到Docker容器.
 * [whosthere](https://github.com/FiloSottile/whosthere) [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social&label=stars) ]（https://github.com/FiloSottile/whosthere）-知道您是谁的* SSH *服务器.  $ ssh whoami.filippo.io.
 * [sshfront](https://github.com/gliderlabs/sshfront) [![stars](https://img.shields.io/github/stars/gliderlabs/sshfront.svg?style=social&label=stars)]（https://github.com/gliderlabs/sshfront）-可编程* SSH *前端.
@@ -59,6 +59,7 @@
 * [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) [![stars](https://img.shields.io/github/stars/vieux/docker-volume-sshfs.svg?style=social&label=stars)]（https://github.com/vieux/docker-volume-sshfs）-`sshfs` docker volume插件
 * [quicssh](https://github.com/moul/quicssh) [![stars](https://img.shields.io/github/stars/moul/quicssh.svg?style=social&label=stars)]（https://github.com/moul/quicssh）-SSH的QUIC代理
 * [sshpiper](https://github.com/tg123/sshpiper) [![stars](https://img.shields.io/github/stars/tg123/sshpiper.svg?style=social&label=stars)]（https://github.com/tg123/sshpiper）-缺少ssh scp的反向代理.
+* [sshhub](https://sshhub.de) -Web服务：访问位于防火墙后面的SSH服务器（ssh-teamviewer）.
 
 ### Multiplexers
 
@@ -92,6 +93,7 @@
 * [ssh-vault](https://github.com/ssh-vault/ssh-vault) [![stars](https://img.shields.io/github/stars/ssh-vault/ssh-vault.svg?style=social&label=stars)]（https://github.com/ssh-vault/ssh-vault）-使用ssh密钥加密/解密文件
 * [ssh-ping](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social&label=stars)]（https://github.com/vaporup/ssh-tools）-使用ssh_config检查主机是否可访问
 * [SSHPry v2](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social&label=stars)]（https://github.com/nopernik/SSHPry2.0）-间谍和控制SSH SSH客户端的TTY
+* [redial](https://github.com/taypo/redial) [![stars](https://img.shields.io/github/stars/taypo/redial?style=social)]（https://github.com/taypo/redial）-用于Unix系统的基于终端的SSH会话管理器
 
 ### Automation
 
@@ -175,4 +177,4 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Manfred Touron](https://github.com/moul) 已放弃所有版权及相关或邻接权这项工作.
+在法律允许的范围内， [Manfred Touron](https://github.com/moul) 放弃了此作品的所有版权以及相关或邻近的权利.
