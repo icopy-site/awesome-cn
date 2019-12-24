@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="DavidLambauer/awesome-magento2"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/DavidLambauer/awesome-magento2.svg?branch=master)](https://travis-ci.org/DavidLambauer/awesome-magento2)
+## Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![pipeline status](https://gitlab.com/run_as_root/awesome-magento2-pipeline/badges/master/pipeline.svg)](https://gitlab.com/run_as_root/awesome-magento2-pipeline/commits/master)
 
 <h1 align="center">
 	<br>
@@ -63,7 +63,7 @@
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) -Magento 2模块自动刷新缓存.
 - [MUP](https://github.com/npoole81/MUP)  -从简单配置文件生成的bash菜单UI.  专为Magento 2而建，但不仅限于此.
 - [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) -PHPStorm Magento 2文件模板.
-- [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) -Composer Repository Manager，用于出售Magento 2扩展程序并提供定购软件包的composer安装.
+- [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) -Composer Repository Manager，用于出售Magento 2扩展程序并为订购的软件包提供composer安装.
 - [MageVulnDB](https://github.com/gwillem/magevulndb) -具有已知安全问题的第三方Magento扩展的中央存储库.
 - [Magento 2 Debug](https://github.com/clawrock/magento2-debug) -用于调试Magento 2性能问题的探查器.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) -通用Magento数据的Prometheus导出器.
@@ -131,7 +131,7 @@
 
 - [Customer Force Login](https://github.com/bitExpert/magento2-force-login) -由于支持原因，以客户身份登录.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) -用于快速测试Checkout更改的扩展.
-- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) -快速轻松地预览和测试您的订单确认页面，而无需每次都下新订单.
+- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) -快速，轻松地预览和测试您的订单确认页面，而无需每次都下新订单.
 - [Firebear Import/Export](https://github.com/firebearstudio/importexport) -标准Magento进口商的进口/出口改进.
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) -Magento 2 ImportExport功能包装器，可从阵列导入产品和客户
 - [Magento 2 Import Framework](https://github.com/techdivision/import) -支持通用Magento 2导入功能的库

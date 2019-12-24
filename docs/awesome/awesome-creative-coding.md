@@ -5,7 +5,7 @@
 
 &gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要面向初学者/中级的资源.
 
- 创意编码是与编程系统不同的学科.  我们的目标是创建具有表现力的东西，而不是功能性的东西.  **互动设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表示为编码的艺术品.
+ 创意编码是与编程系统不同的学科.  我们的目标是创建具有表现力的东西，而不是功能性的东西.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表示为代码的艺术品.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在捐款之前.*
 
@@ -33,7 +33,7 @@
 - [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/) -关于射线追踪的迷你书.
 - [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook) -指导您使用实用且有用的配方探索“加工”环境.
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) -视觉传达的创意编码.
-- [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) -了解如何使用现代技术在不到一秒钟的时间内生成合成三维图像.
+- [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) - Learn how to use modern techniques to generate synthetic three-dimensional images in a fraction of a second.
 - [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) -概述着色器编程，但主要关注GLSL着色语言.
 - [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -使用OpenGL启动3d编程的实用指南.
 - [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) -教JavaScript程序员如何将真实的物理方法融入其HTML5游戏，动画和模拟中.
@@ -282,7 +282,7 @@
 - [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html) -如何使用Regl创建GPGPU粒子.
 - [WebGL Tutorial: Directional Shadow Mapping without extensions](https://github.com/terkelg/awesome-creative-coding/blob/master/9www.chinedufn.com/webgl-shadow-mapping-tutorial/) -实时定向光影映射背后的概念介绍.
 - [WebGL Quest](http://xem.github.io/articles/#webgl_quest_2) -一个教程和一系列有用的资源，可轻松使用WebGL raymarching和距离功能.
-- [Exploring bump mapping with WebGL](http://apoorvaj.io/exploring-bump-mapping-with-webgl.html) - Introduction to different bump mapping techniques.
+- [Exploring bump mapping with WebGL](http://apoorvaj.io/exploring-bump-mapping-with-webgl.html) -介绍不同的凹凸贴图技术.
 - [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) -甲板上的OpenGL / GLSL着色器编程.
 - [Particles in a Simplex Noise Flow Field](https://codepen.io/DonKarlssonSan/post/particles-in-simplex-noise-flow-field) -Perlin噪声流场教程.
 - [Flow Fields, Part 1](https://www.bit-101.com/blog/2017/10/23/flow-fields-part-i/) [Part 2](https://www.bit-101.com/blog/2017/10/28/flow-fields-part-ii/) -流场介绍，也称为矢量场.
@@ -323,7 +323,7 @@
 - [Fragment-oundry](http://hughsk.io/fragment-foundry) -交互式片段着色器教程.
 - [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) -有关光线跟踪的Shadertoy教程.
 - [HOWTO: Ray Marching](https://www.shadertoy.com/view/XllGW4) -关于Ray Marching的Shadertoy教程.
-- [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.
+- [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) -Shadertoy raymarch教程.
 - [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) -Shadertoy GLSL 2D教程.
 - [Bubble Breakdown](http://mrl.nyu.edu/~perlin/bubble_breakdown/) -着色器由Perlin分解.
 - [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) -互动式着色器玩具，用于编写光线行进器.
@@ -362,7 +362,7 @@
 - [r/graphicsprogramming](https://www.reddit.com/r/GraphicsProgramming/) -关于图形编程的修订.
 - [r/processing](https://www.reddit.com/r/processing/) -处理上的修订.
 - [r/shaders](https://www.reddit.com/r/shaders/) -着色器上的子网.
-- [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) -关于程序生成的子网.
+- [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) -在程序生成上屈服.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) -对机器学习有所了解.
 
 ### Slack
@@ -389,7 +389,7 @@
 - [Math snippets](https://github.com/terkelg/math) -考虑图形编程的数学摘要.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) -数学绘画原理.
 - [Learning Maths again](https://github.com/silviopaganini/maths) -JS和GLSL数学摘要的集合.
-- [Eases](https://github.com/mattdesl/eases) -模块化缓和方程的抓包.
+- [Eases](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) -不同运动方程的可视化.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) -矩阵乘法可视化.
 - [Algebra rules](http://algebrarules.com/) -基本代数最有用的规则.
@@ -406,7 +406,7 @@
 - [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) -介绍2D和3D Perlin噪声.
 - [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) -矩阵的高级介绍.
 - [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) -所有数学符号和符号的列表.
-- [The magnificent 2d matrix](http://ncase.me/matrix/) -交互式工具，可以更好地理解变换矩阵.
+- [The magnificent 2d matrix](http://ncase.me/matrix/) - Interactive tool to better understand transformation matrices.
 - [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) -用于运动的JavaScript数学片段.
 - [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) -适用于2D和3D游戏制作者的数学备忘单.
 - [Tiny 3D](https://cantelope.org/tiny_3D/) -在2D画布上最小的透视引擎.
@@ -437,7 +437,7 @@
 - [Model Zoo](https://modelzoo.co/) -探索开源深度学习代码和预训练的模型.
 - [Runway](https://runwayapp.ai/) -向设计和创意平台添加人工智能功能的工具包.
 - [Lobe](https://lobe.ai/) -使用简单的视觉界面构建，训练和运送自定义深度学习模型.
-- [ModelDepot](https://modeldepot.io/) - Platform for discovering, sharing, and discussing easy to use and pre-trained machine learning models.
+- [ModelDepot](https://modeldepot.io/) -用于发现，共享和讨论易于使用和经过预训练的机器学习模型的平台.
 
 ## Inspiration
 
@@ -474,7 +474,11 @@
 - [Curated Creative Events](http://events.thesupply.com/) -精心挑选的设计，代码，艺术，时尚和创客活动.
 - [NextArt Night](https://nextart.tech/) -通过创造性地利用技术来激励人们.
 - [GROW](https://www.grow.paris/) -GROW是创意编码人员的巴黎聚会地，旨在为数字创作开辟新的可能性.
-
+  
+## Museums • Galleries
+- [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -ZKM组织有关媒体，数字化和全球化影响的展览和活动.
+- [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) -未来博物馆-一个展示和处理各种艺术流派，科学领域和技术指导的地方.
+- [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) -Technorama允许动手体验数百种自然现象和技术.
 
 ## Schools • Workshops
 

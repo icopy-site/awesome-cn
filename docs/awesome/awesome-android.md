@@ -14,7 +14,7 @@
 
 ### Understand How Your Android App is Doing with Real-Time Contextual Insights From Your Users
 [![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=awesomeandroid&utm_medium=spon&utm_content=banner)
- &gt; Instabug可帮助Android开发人员和产品团队轻松地收集来自Beta测试人员和用户的错误和反馈，以加快迭代速度并交付高质量的应用程序.  Instabug会自动附加屏幕快照，设备详细信息，网络日志，再现步骤以及解决问题和确定产品待办事项优先级所需的大量其他关键见解. 
+ &gt; Instabug可帮助Android开发人员和产品团队轻松地收集来自Beta测试人员和用户的错误和反馈，以加快迭代速度并交付高质量的应用程序.  Instabug会自动附加屏幕截图，设备详细信息，网络日志，再现步骤以及解决问题和确定产品积压需求所需的大量其他关键见解. 
 &gt;移动团队通过与Github，Jira，Slack，Zendesk等第三方工具无缝集成来加速其工作流程. [Instabug is offering Awesome Android community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=awesomeandroid&utm_medium=spon&utm_content=get-started)
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeandroid?pixel)](https://instabug.com)
 
@@ -90,7 +90,7 @@
 - [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)  -使用SVG路径的可填充进度视图.  创建有趣的应用程序徽标的不错选择.
 - [NexusDialog](https://github.com/dkharrat/NexusDialog) -使您可以用很少的代码在Android中轻松快速地创建表单.
 - [Snap RecyclerView Utils](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) -在不创建适配器的情况下填充单个或多个Layout RecyclerView.
-- [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) -Android库，用于多个RecyclerView的捕捉
+- [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
 - [SwipeableCard](https://github.com/michelelacorte/SwipeableCard) -实现像StreetView一样的刷卡功能！！
 - [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) -美丽的加载栏.
 - [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) -简介/条目/演练/开始屏幕.
@@ -332,7 +332,7 @@
 #### Custom Dialog
 
 - [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) -自定义对话框，用于录制音频，将其存储并在手机中播放.
-- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) -提供了一个hijri（伊斯兰日历）日期选择器，该日期选择器是根据Google的“材料设计负责人”使用的.
+- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) -提供了一个hijri（伊斯兰日历）日期选择器，该日期选择器是根据Google的“材料设计原则”供选择器设计的.
 - [Noty](https://github.com/emre1512/Noty) -一个用于创建动画警报/对话框/警告的简单库.
 
 ### Version Checking
@@ -419,6 +419,7 @@
 - [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) -有关MVVM（模型视图ViewModel）模式的示例.
 - [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) -有关VIPER（查看交互者演示者实体路由器）模式的示例.
 - [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) -通过完整的示例，学习如何从基础到高级使用适用于Android的Google Map API.
+- [Android Modular Architecture](https://github.com/VMadalin/kotlin-sample-app) -遵循Jetpack的最佳做法，使用以Kotlin编写的模块化，简洁，可扩展，可测试的架构的Android示例应用程序.
 
 ### Podcasts
 - [Fragmented](https://fragmentedpodcast.com/) 是Android开发者播客，Donn Felker和Kaushik Gopal讨论了如何构建出色的软件并成为更好的Android开发者.
@@ -467,7 +468,7 @@
 
 ### Kotlin
 - [Anko](https://github.com/Kotlin/anko) -由JetBrains用Kotlin编写的Android DSL.
-- [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife
+- [Kotterknife](https://github.com/JakeWharton/kotterknife) -基于ButtKnife用Kotlin编写的Android视图注入
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) -一些用Kotlin编写的基本Android代码示例.
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) -一组编程挑战，这有助于提高白板编码和解决问题的能力.
 - [KAndroid](https://github.com/pawegio/KAndroid) -轻量级库提供有用的扩展，以消除Android SDK中的样板代码.

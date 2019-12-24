@@ -7,13 +7,14 @@
 ## 3D
 *以3D为中心的图书馆*
 
+* [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) -LÖVE的绝佳3D引擎.
 * [anim9](https://github.com/excessive/anim9) -3D骨骼动画库（设计用于IQM和IQE）
+* [Brinevector3D](https://github.com/flamendless/brinevector3D) -启用FFI的3D矢量库（x，y，z）
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) -Lua的3D碰撞检测库.
 * [IQE](https://github.com/excessive/iqe) -Quake导出导出器（文本）
 * [IQM](https://github.com/excessive/iqm-exm) -Inter-Quake模型加载器（二进制）
-* [LÖVE3D](https://github.com/excessive/love3d) -LÖVE的3D扩展
 * [Lovox](https://github.com/tjakka5/Lovox) -用于体素的伪3D库
-* [Brinevector3D](https://github.com/flamendless/brinevector3D) -启用FFI的3D矢量库（x，y，z）
+* [ss3d](https://github.com/groverburger/ss3d) -love2d的简单易用3d引擎
 
 
 ## AI
@@ -27,6 +28,7 @@
 
 * [andross](https://github.com/pfirsich/andross) -用于带有Löve后端的2D骨骼/骨骼动画的Lua库
 * [anim8](https://github.com/kikito/anim8) -动画库
+* [animx](https://github.com/YoungNeer/animx) -一个功能强大的动画库，用于从XML文件加载动画！
 * [chiro](https://github.com/bjornbytes/chiro) -便利包装 [Spine](http://esotericsoftware.com)
 * [Peachy](https://github.com/josh-perry/peachy) -LÖVE中Aseprite动画的解析器/渲染器
 * [skeletor](https://github.com/pelevesque/skeletor) -2D骨骼动画系统
@@ -96,7 +98,7 @@
 * [roomy](https://github.com/tesselode/roomy) -LÖVE的屏幕管理库
 * [rotLove](https://github.com/paulofmandown/rotLove)  -《恋爱中的Roguelike工具包》.  rot.js的Love2D / lua端口
 * [ScreenManager](https://github.com/rm-code/screenmanager) -LÖVE框架的屏幕/状态管理
-* [shack](https://github.com/Ulydev/shack) -shack是一个LÖVE库，可让您轻松添加屏幕效果，例如摇动和旋转
+* [shack](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) -平铺的地图加载器和渲染器
 * [Vivid](https://github.com/WetDesertRock/vivid) -颜色数学，操作和转换库
 
@@ -180,7 +182,7 @@
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) -Windows Phone 8.1的进行中端口
 * [LovePotion](https://github.com/videah/LovePotion) -用于3DS Homebrew的LÖVEAPI的非正式开发中实施
 * [Love.js](https://github.com/TannerRogalsky/love.js) -使用Emscripten将LÖVE移植到网络上
-* [LÖVR](https://github.com/bjornbytes/lovr) -适用于虚拟现实设备的LÖVE
+* [LÖVR](https://github.com/bjornbytes/lovr) -喜欢虚拟现实设备
 
 ## Publishing
 *在第三方商店中分发LÖVE游戏的指南*
@@ -263,7 +265,7 @@
 * [luasteam](https://github.com/uspgamedev/luasteam) -Steamworks API的Lua绑定
 * [Luvent](https://github.com/ejmr/Luvent) -简单的事件驱动编程
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) -LÖVE的粒子编辑
-* [particle-system-playground](https://github.com/santoslove/particle-system-playground) -基本的LÖVE粒子系统编辑器
+* [particle-system-playground](https://github.com/santoslove/particle-system-playground) -基本的LOW粒子系统编辑器
 * [splashy](https://github.com/videah/splashy) -启动画面库
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) -使用加速度计数据进行Lua编写的震动设备检测
 * [tick](https://github.com/bjornbytes/tick) -对LÖVE的运行循环进行有用的定时调整
@@ -294,7 +296,7 @@
 		* [linter-luaparse](https://atom.io/packages/linter-luaparse) -Atom中的Lua语法错误检查
 * [Brackets](http://brackets.io/) -Adobe提供的现代开放源代码文本编辑器
 	* [Lua Syntax Highlighter](https://github.com/ForbesLindesay/brackets-language-extensions) -在括号中添加Lua语法突出显示
-	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) -提供LÖVE代码提示
+	* [LÖVE Hints for Brackets.io](https://gitlab.com/sdonalcreative/brackets-love-hints/) -提供低码提示
 	* [Run LÖVE](https://github.com/instilledbee/run-love2d) -使用热键运行LÖVE项目
 * [ZeroBrane Studio](https://studio.zerobrane.com/) -ZeroBrane Studio是一款轻量级的Lua IDE，具有代码完成，语法突出显示，实时编码，代码分析器和调试支持
 	* [API Syntax Hightlight](https://github.com/flamendless/LOVE-API-Extractor-for-ZeroBraneStudio) -将LOVE API语法突出显示添加到ZBS的脚本.
@@ -317,7 +319,7 @@
 
 ## Contributing
 
-请参见 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 有关详细信息.
+请参阅 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 有关详细信息.
 
 ## Other Awesome Lists
 
@@ -325,4 +327,4 @@
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) -专为LÖVE设计的着色器集合
 * [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) -精选的PICO-8资源，教程，工具等
 
-其他很棒的清单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+其他很棒的清单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 清单.
