@@ -165,6 +165,7 @@
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) -将AWS Secrets Manager机密定义为环境值.
+- [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
 
 ### Testing and Linting
 

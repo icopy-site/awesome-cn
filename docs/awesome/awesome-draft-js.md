@@ -45,7 +45,6 @@
 
 * [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) -在Draft.js之上的插件架构
   - [Alignment](https://www.draft-js-plugins.com/plugin/alignment)
-  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) -自动无序/有序列表创建.
   - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) -键入时突破块类型.
   - [Buttons](https://github.com/vacenz/last-draft-js-plugins)
   - [Color Picker](https://github.com/vacenz/last-draft-js-plugins)
@@ -63,6 +62,7 @@
   - [Katex](https://github.com/letranloc/draft-js-katex-plugin) -使用Katex插入并渲染LaTeX.
   - [Link](https://github.com/vacenz/last-draft-js-plugins)
   - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) -自动将链接变成锚标记.
+  - [List](https://github.com/samuelmeuli/draft-js-list-plugin) -自动创建列表，嵌套列表
   - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) -Markdown语法快捷方式.
   - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) -使用Mathjax渲染的（La）TeX编辑数学.
   - [Mention](https://www.draft-js-plugins.com/plugin/mention) -类似Twitter的提及支持

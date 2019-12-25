@@ -268,6 +268,7 @@
 - [Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics#readme) -有助于了解页面速度和用户体验的指标.
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) -实用程序优先的CSS框架，用于快速的UI开发.
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) -用于创建在WebAssembly中运行的Web应用程序的Rust框架.
+- [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) -确保网站某些性能指标的技术.
 
 ## Back-End Development
 

@@ -60,7 +60,7 @@
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) -用于LitElement的小型mixin，可通过属性getter获得轻松的更改事件.
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -LitElement扩展，可轻松实现开箱即用.
 - [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) -之间缺少连接 [Haunted](https://www.npmjs.com/package/haunted) 和LitElement.
-- [lit-robot](https://www.npmjs.com/package/lit-robot) - LitElement integration with [Robot](https://thisrobot.life/).
+- [lit-robot](https://www.npmjs.com/package/lit-robot) -与LitElement集成 [Robot](https://thisrobot.life/).
 - [nextbone](https://www.npmjs.com/package/nextbone) -通过ES类和装饰器重新构想了与LitElement一起使用的主干网.
 
 ### Other
@@ -78,6 +78,7 @@
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs的Web组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Ink Components](https://github.com/ink-components/ink-components) -用于交互式科学写作的Web组件.
+- [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件，可在任何地方使用.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
@@ -88,6 +89,7 @@
 
 ### Individual Components
 
+- [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) -Web组件的API文档和实时游乐场.
 - [`<app-datepicker>`](https://github.com/motss/app-datepicker) -使用LitElement和Material Design 2构建的Datepicker元素.
 - [`<dile-modal>`](https://github.com/Polydile/dile-modal) -基于LitElement的Web组件，用于实现模式框.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) -由LitElement支持的数据表的Material Design实现.
@@ -100,7 +102,7 @@
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) -由Polymer团队提供的入门模板.
 - [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) -基于Open Web Components建议的Starter应用.
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) -生成器，用于使用TypeScript中的最新LitElement开发下一个自定义元素.
-- [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) -使用`@ rxdi`，lit-html，GraphQL，依赖项注入构建客户端应用程序.
+- [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) - Client side application build with `@rxdi`, lit-html, GraphQL, dependency injection.
 
 ## IDE Plugins
 
@@ -119,7 +121,7 @@
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) -Babel插件，用于最小化带有标签的模板字符串中的HTML.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) -用于lit-html模板字符串的ESLint插件.
 - [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) -CLI类型，用于检查lit-html模板中的绑定.
-- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件可最小化标记模板字符串中的HTML.
+- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件，以最小化带有标签的模板字符串中的HTML.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) -汇总插件，用于将CSS文件作为LitElement标记的`css`模板字符串导入.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -汇总插件，用于在LitElement组件中加载PostCSS处理的样式表.
 - [lit-loader](https://github.com/PolymerX/lit-loader) -用于Webpack的LitElement单个文件组件加载器.
@@ -173,7 +175,7 @@
  这些库不依赖于lit-html，而是受其某些概念的启发.  他们使用标记为“ html”
 模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法突出显示.
 
-- [htm](https://github.com/developit/htm) -Hyperscript Tagged标记：使用标准标记模板的JSX替代品，并具有编译器支持.
+- [htm](https://github.com/developit/htm) -超标标记的标记：使用标准标记模板的JSX替代品，并具有编译器支持.
 - [hybrids](https://github.com/hybridsjs/hybrids) -用于使用简单实用的API创建Web组件的UI库.
 - [lit-ntml](https://github.com/motss/lit-ntml) -受lit-html启发，在Node.js中实现了SSR的轻巧现代模板.
 - [lite-html](https://github.com/ruphin/lite-html) -VirtualDOM渲染引擎的现代替代品.

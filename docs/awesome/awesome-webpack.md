@@ -81,7 +81,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 - [Angular2 Template Loader](https://github.com/TheLarkInn/angular2-template-loader) ：在Angular2组件中内嵌html和样式.  -* Maintainer *：`Sean Larkin` [！[Github] [githubicon]]（https://github.com/TheLarkInn）[！[Twitter] [twittericon]]（https://twitter.com/TheLarkInn）
 - [Handlebars Loader](https://github.com/pcardune/handlebars-loader) ：用于Webpack的车把模板加载器.  -* Maintainer *：`Paul Carduner` [！[Github] [githubicon]]（https://github.com/pcardune）[！[Twitter] [twittericon]]（https://twitter.com/pcardune）
-- [Vue Loader](https://github.com/vuejs/vue-loader) ：用于Vue.js组件的Webpack加载器.  -* Maintainer *：`Vuejs Team` [！[Github] [githubicon]]（https://github.com/vuejs）[！[Twitter] [twittericon]]（https://twitter.com/vuejs）
+- [Vue Loader](https://github.com/vuejs/vue-loader) ：用于Vue.js组件的Webpack加载程序.  -* Maintainer *：`Vuejs Team` [！[Github] [githubicon]]（https://github.com/vuejs）[！[Twitter] [twittericon]]（https://twitter.com/vuejs）
 - [SVG React Loader](https://github.com/jhamlet/svg-react-loader)  -Webpack SVG到React Component Loader.  -* Maintainer *：`Jerry Hamlet` [！[Github] [githubicon]]（https://github.com/jhamlet）[！[Twitter] [twittericon]]（https://twitter.com/jerryhamlet）
 - [Underscore Loader](https://github.com/emaphp/underscore-template-loader)  -下划线和Lodash模板加载器.  -* Maintainer *：`Emmanuel Antico` [！[Github] [githubicon]]（https://github.com/emaphp）[！[Twitter] [twittericon]]（https://twitter.com/emaphp）
 - [ngTemplate Loader](https://github.com/WearyMonkey/ngtemplate-loader)  -Angular1模板加载器.  -* Maintainer *：`Toby Rahilly` [！[Github] [githubicon]]（https://github.com/WearyMonkey）
@@ -90,6 +90,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Polymer Loader](https://github.com/webpack-contrib/polymer-webpack-loader)  -聚合物元件装载机.  -* Maintainers *：`Rob Dodson` [！[Github] [githubicon]]（https://github.com/robdodson）-`Chad Killingsworth` [！[Github] [githubicon]]（https：// github .com / ChadKillingsworth）-`Bryan Coulter` [！[Github] [githubicon]]（https://github.com/bryandcoulter）
 - [Tag Loader](https://github.com/riot/tag-loader)  -防暴标签文件的加载程序.  -* Maintainer *：`Riot Team` [！[Github] [githubicon]]（https://github.com/riot）[！[Twitter] [twittericon]]（https://twitter.com/riotjs_）
 - [Twig Loader](https://github.com/zimmo-be/twig-loader)  -树枝模板加载器.  -* Maintainer *：`Zimmo.be Team` [！[Github] [githubicon]]（https://github.com/zimmo-be）
+- [Auto ngTemplate Loader](https://github.com/YashdalfTheGray/auto-ngtemplate-loader) ：自动检测Angular 1模板并加载它们.  -* Maintainer *：`Yash Kulshrestha` [！[Github] [githubicon]]（https://github.com/YashdalfTheGray）
 - [Pug Loader](https://github.com/pugjs/pug-loader)  -哈巴狗模板加载器（以前称为Jade）.  -* Maintainer *：`Pug Team` [！[Github] [githubicon]]（https://github.com/pugjs）
 
 #### Styles
@@ -221,6 +222,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 ### Articles
 
+ -Aniketh Saha |  19年10月16日- [Creating a Custom webpack Plugin](https://alligator.io/js/create-custom-webpack-plugin/)
  -Antoine Caron |  19年1月18日- [Webpack : an unexpected journey](https://medium.zenika.com/webpack-an-unexpected-journey-26f987efd1c5)
  -安德鲁·韦尔奇|  18年10月23日- [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development)
  加伯·索斯（GáborSoós）  2017年4月24日- [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21)
@@ -239,7 +241,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
  -乔纳森·克里默|  2016年6月8日- [Advanced WebPack Part 3 - Creating a custom notifier plugin.](http://jonathancreamer.com/advanced-webpack-part-3-creating-a-custom-notifier-plugin)
   - 纳德会|  07  -  15  -  [Beginner’s guide to Webpack.](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.xb01fcsoq)
  -乔纳森·克里默|  15年9月2日- [Advanced WebPack Part 1 - The CommonsChunk Plugin.](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/)
- -Maxime Fabre |  2015年10月16日- [Webpack your bags.](https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+ -Maxime Fabre |  15年10月16日- [Webpack your bags.](https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ### Videos
 
