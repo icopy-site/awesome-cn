@@ -98,6 +98,9 @@
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
 - [Generate sequential build numbers for GitHub Actions](https://github.com/einaregilsson/build-number)
 - [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action)
+- [Generate release notes based on your events](https://github.com/Decathlon/release-notes-generator-action)
+- [Create a GitHub wiki page based on the provided markdown file](https://github.com/Decathlon/wiki-page-creator-action)
+- [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
 
 ### Collection of Actions
 
@@ -165,7 +168,10 @@
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) -将AWS Secrets Manager机密定义为环境值.
+- [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)
+- [Action to lint Awesome lists](https://github.com/squadcastHQ/awesome-lint-action) -用途 [awesome-lint](https://github.com/sindresorhus/awesome-lint) 将出色列表作为动作.
 - [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
+- [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 
 ### Testing and Linting
 
@@ -340,6 +346,7 @@
 - [Publish module to Puppet Forge](https://github.com/barnumbirr/action-forge-publish)
 - [Build and publish Electron apps](https://github.com/samuelmeuli/action-electron-builder)
 - [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
+- [Build and deploy a theme to Ghost CMS](https://github.com/TryGhost/action-deploy-theme)
 
 ### External Services
 

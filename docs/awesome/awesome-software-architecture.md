@@ -65,7 +65,7 @@
 - [Scrum](https://www.scrumguides.org/) -开发和维护复杂产品的框架.
 - [SAFe](https://www.scaledagileframework.com/) -可扩展的敏捷框架.
 - [Nexus](https://www.scrum.org/resources/scaling-scrum) -Scrum的共同创建者Ken Schwaber说，可扩展Scrum. 
-- [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) -“敏捷”如何摆脱了敏捷性的基本原理，以及我们需要做些什么来解决问题.
+- [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) -“敏捷”如何摆脱敏捷的基本原理，以及我们需要做些什么来解决问题.
 - [Agile Architecture Pt. 1, by Allen Holub](https://www.youtube.com/watch?v=0kRCFVGpX7k) -在敏捷世界中我们如何与建筑合作. 
 - [Agile Architecture Pt. 2, by Allen Holub](https://www.youtube.com/watch?v=txbS0WJC1bo) -在敏捷世界中我们如何与建筑合作. 
 ### Lean software development
@@ -82,7 +82,11 @@
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) -结合软件开发和运营实践，以缩短上市时间，同时保持高质量.
 - [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) -有关IT，Devops和帮助您赢得业务的商业小说：orange_book ：.
 - [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) -BPDTS如何使用CALMS模型作为其devops适应的参考. 
-- [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) -混沌工程学是软件工程学中的一门新学科，对大规模分布式系统的行为建立了信心. 
+- [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) -混沌工程学是软件工程学中的一门新学科，使人们对大规模分布式系统的行为充满信心. 
+
+## Bonus
+
+- [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) -有助于您对软件体系结构有深入了解的其他内容.
 
 ## License
 

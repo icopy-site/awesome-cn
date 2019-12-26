@@ -5,7 +5,7 @@
 	<br>
 </h3>
 
-**[webpack](https://github.com/webpack/webpack)**是**模块捆绑器**.
+**[webpack](https://github.com/webpack/webpack)** is a **module bundler**.
 
 webpack接收具有依赖性的模块，并生成代表这些模块的静态资产.
 <br>
@@ -180,7 +180,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Friendly errors](https://github.com/geowarin/friendly-errors-webpack-plugin)  -识别Webpack错误的某些类别，并清除，汇总并确定其优先级.  -* Maintainer *：`Geoffroy Warin` [！[Github] [githubicon]]（https://github.com/geowarin）
 - [FileManager Webpack Plugin](https://github.com/gregnb/filemanager-webpack-plugin) -在Webpack构建前后复制，移动，删除文件和目录-* Maintainer *：`Gregory Nowakowski` [！[Github] [githubicon]]（https://github.com/gregnb）
 - [Duplicate Package Checker Webpack Plugin](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) -当捆绑包中存在同一软件包的多个版本时，会向您发出警告-* Maintainer *：`Darren Scerri` [！[Github] [githubicon]]（https://github.com/darrenscerri）
-- [PurgeCSS Webpack Plugin](https://github.com/FullHuman/purgecss-webpack-plugin) - A plugin to remove unused css with purgecss -- *Maintainer*: `Floriel Fedry` [![Github][githubicon]](https://github.com/Ffloriel)
+- [PurgeCSS Webpack Plugin](https://github.com/FullHuman/purgecss-webpack-plugin) -一个插件，可通过purgecss删除未使用的CSS-* Maintainer *：`Floriel Fedry` [！[Github] [githubicon]]（https://github.com/Ffloriel）
 - [Circular Dependency Plugin](https://github.com/aackerman/circular-dependency-plugin) -捆绑时检测具有循环依赖性的模块-* Maintainer *：`Aaron Ackerman` [！[Github] [githubicon]]（https://github.com/aackerman）
 - [webpack-inject-plugin](https://github.com/adierkens/webpack-inject-plugin)  -一个webpack插件，用于将代码动态注入到包中.  -* Maintainer *：`Adam Dierkens` [！[Github] [githubicon]]（https://github.com/adierkens）
 - [Public Path Manipulation Plugin](https://github.com/agoldis/webpack-require-from) -在运行时控制动态加载资源的“ publicPath”-* Maintainer *：`Andrew Goldis` [！[Github] [githubicon]]（https://github.com/agoldis）
@@ -245,6 +245,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 ### Videos
 
+ -Sean Larkin JS大会|  2019年4月2日- [Everything’s a plugin: Understanding webpack from the inside out](https://youtu.be/H3g0BdyVVxA)
  -通过Youtube的Colt Steele |  2019年3月7日- [Learn Webpack Course](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
  -通过BuzzJS 2.0 2017的Naomi A. Jacobs |  2017年2月27日- [Webpack: It's Not Magic](https://www.youtube.com/watch?v=_QEM9kdV-b0)
  -HalfStack2016的杰克·富兰克林|  2016年11月18日| [Seamless client side JavaScript w/ Webpack](https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin)

@@ -17,7 +17,7 @@
 
 &gt; [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应用程序，旨在加载测试功能行为并衡量性能.
 
-这个名单是从 [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和与JMeter相关的个人链接集，从中获得了进一步的启发 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/graphs/contributors).
+这个名单是从 [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和与JMeter相关的个人链接集，从中获得了进一步的启发 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTORS.md).
 
 
 
@@ -148,7 +148,7 @@
 - [OctoPerf](https://octoperf.com/) -具有JMeter和Selenium支持的Saas和本地负载测试工具.
 - [Tricentis Flood](http://flood.io/) -带有JMeter，Gatling和Selenium方案支持的负载测试服务.
 - [RedLine13](http://redline13.com/) -基于AWS的负载测试服务，支持JMeter，Gatling和Selenium方案.
-- [HP StormRunner Load](https://saas.hpe.com/en-us/software/stormrunner-load) -惠普基于云的解决方案，通过JMeter和Gatling支持进行Web和移动性能测试.
+- [HP StormRunner Load](https://saas.hpe.com/en-us/software/stormrunner-load) -惠普基于云的解决方案，用于Web和移动性能测试，并具有JMeter和Gatling支持.
 - [Loadster](http://www.loadsterperformance.com/) -用于分发Web应用程序和服务的负载测试的解决方案.
 - [Loadium](https://www.loadium.com/) -具有JMeter和Selenium支持的基于AWS的负载测试服务.
 
@@ -261,7 +261,7 @@
 
 ## Books
 
-- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](http://books.google.com/books?id=nX8oKIEvUcYC) 由艾米丽·H·哈利利（[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)）-实用的初学者指南，用于您网站的自动测试和性能评估.
+- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](http://books.google.com/books?id=nX8oKIEvUcYC) 通过艾米丽·H·哈利利[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)）-实用的初学者指南，用于您网站的自动测试和性能评估.
 - [Performance Testing with JMeter 2.9](http://books.google.com/books?id=fpWmv3wPT64C) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29)）-使用Apache JMeter测试Web应用程序的指南，以及一些实际的示例.
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition))

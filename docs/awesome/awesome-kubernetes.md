@@ -569,7 +569,7 @@ Projects
 * [Keel](https://keel.sh/)
 * [Kit](http://invisionapp.github.io/kit/)
 * [Kontinuous](https://github.com/AcalephStorage/kontinuous)
-* [KubeCI](https://www.kubeci.io/)
+* [KubeCI](https://github.com/kubeciio)
 * [Razee](https://github.com/razee-io/Razee)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)
 * [Shipper](https://github.com/bookingcom/shipper) -使用Helm的Kubernetes本机多集群金丝雀或蓝绿色产品.
@@ -608,7 +608,7 @@ Projects
 * [kooper](https://github.com/spotahome/kooper) -用于创建Kubernetes运算符和控制器的简单Go库
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [KubeVirt](https://github.com/kubevirt)
-* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，可以执行安全的自动节点重新启动
+* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的节点自动重新启动
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [MySQL](https://github.com/oracle/mysql-operator)
@@ -744,7 +744,7 @@ Projects
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) -用于Kubernetes CLI的集成外壳
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) -Kubernetes tmux插件显示当前上下文和名称空间
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) -Kubectl的别名
-* [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)  -一个kubectl插件集合，处理从简单的上下文切换到以任何用户（包括root）通过exec连接到容器的所有操作.  针对GKE用户量身定制.
+* [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)  -一组kubectl插件，处理从简单的上下文切换到以任何用户（包括root用户）通过exec连接到容器的所有操作.  针对GKE用户量身定制.
 * [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using this kubectl plugin
 * [kubectld](https://github.com/rancher/kubectld)
 * [kubectx](https://github.com/ahmetb/kubectx) -在kubectl上的集群之间切换
@@ -795,13 +795,13 @@ Projects
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)  -一种数据约束语言，旨在简化涉及定义​​和使用数据的任务.  Cue是JSON的超集
-* [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，使您可以专注于数据，而不是如何正确地对其进行转义.
+* [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，可让您专注于数据，而不是如何正确地对其进行转义.
 
 ## Security
 
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Authenticator](https://github.com/heptio/authenticator) -使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
-* [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) -广泛采用的开源实现，统一了Kubernetes网络策略和Istio应用程序策略.
+* [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) -广泛采用的开放源代码实现，将Kubernetes网络策略和Istio应用程序策略统一在一起.
 * [Dex](https://github.com/coreos/dex) -Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持作为身份提供者的Github，Gitlab，Google，Azure和LDAP（AD）.
 * [kiam](https://github.com/uswitch/kiam) -允许群集用户将AWS IAM角色与Pod相关联.
@@ -931,7 +931,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
