@@ -33,7 +33,7 @@
 
 ## Backups
 
-*备份软件.*
+*备份软件.*另请参见 [Restic's list of Linux backup software](https://github.com/restic/others).
 
 * [Amanda](http://www.amanda.org/) -客户端-服务器模型备份工具.
 * [Bareos](http://www.bareos.org/en/) -Bacula备份工具的分支.
@@ -62,7 +62,7 @@
 
 * [EasyBuild](https://easybuild.readthedocs.org/en/latest/) -EasyBuild以高效的方式为高性能计算（HPC）系统构建软件和模块文件.
 * [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) -Lmod是基于Lua的模块系统，可以轻松处理MODULEPATH分层问题.
-* [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) -HPCBIOS致力于建立跨越多个HPC系统和站点（包括文档）的通用，文档完善且可重现的环境.
+* [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) -HPCBIOS是一种努力的工作，旨在跨多个HPC系统和站点（包括文档）建立一个通用的，文档记录良好且可复制的环境.
 * [Spack](https://spack.io/) -灵活的软件包管理器，支持多个版本，配置，平台和编译器.
 
 ## ChatOps
@@ -83,7 +83,7 @@
 
 * [Chocolatey](https://chocolatey.org/) –基于.NET / PS编写的Windows CLI软件包管理器，基于 [NuGet](https://www.nuget.org/).
 * [just-install](http://just-install.it/) –用于下载和静默安装MSI文件的Python脚本.
-* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) -库存，部署和网络扫描.
+* [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) -库存，部署和网络扫描.
 * [Opsi](http://www.opsi.org) （开放式PC服务器集成）-基于Debian的Windows客户端管理.
 * [WAPT](https://dev.tranquil.it/wiki/WAPT_-_apt-get_pour_Windows/en) -基于Windows的软件的网络范围内（取消）安装，配置和升级.
 * [WPKG](http://wpkg.org/) -Windows的软件部署，升级和删除程序.
@@ -165,10 +165,10 @@
 *持续集成/部署软件.
 
 - [Buildbot](http://buildbot.net/)  -基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)）`GPL-2.0`` Python`
-- [CapsuleCD](https://analogj.github.io/capsulecd-slides/)  -CD脚本，用于自动执行软件包/库的发布（npm，菜谱，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）`MIT`` Go`
-- [Concourse](https://concourse.ci/)  -Concourse是一种CI工具，可将管道视为一流的对象，并沿途对每个步骤进行容器化.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）`Apache-2.0``Go`
+- [CapsuleCD](https://analogj.github.io/capsulecd-slides/)  -CD脚本，用于自动执行软件包/库的发布（npm，菜谱，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）`MIT``Go`
+- [Concourse](https://concourse.ci/)  -Concourse是一种CI工具，可将管道视为一流的对象，并对沿途的每个步骤进行容器化.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）`Apache-2.0``Go`
 - [drone](https://drone.io/)  -Drone是一个用Go语言编写的基于Docker的持续交付平台.  （[Source Code](https://github.com/drone/drone)）`Apache-2.0``Go`
-- [Factor](http://www.factor.io/)  -以编程方式定义和运行工作流，以连接配置管理，源代码管理，构建，持续集成，持续部署和通信工具.  （[Source Code](https://github.com/factor-io/factor)）`MIT`` Ruby`
+- [Factor](http://www.factor.io/)  -以编程方式定义和运行工作流，以连接配置管理，源代码管理，构建，持续集成，持续部署和通信工具.  （[Source Code](https://github.com/factor-io/factor)）``MIT&#39;&#39;Ruby`
 - [GitLab CI](https://about.gitlab.com/gitlab-ci/)  -Gitlab的内置功能齐全的CI / CD解决方案.  （[Source Code](https://gitlab.com/gitlab-org/gitlab-ce) MIT Ruby红宝石
 - [GoCD](http://www.go.cd/)  -连续交付服务器.  （[Source Code](https://github.com/gocd/gocd)）Apache-2.0 Java / Ruby
 - [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code](https://github.com/golangci/golangci)）`AGPL-3.0``Go`
@@ -354,7 +354,7 @@
 * [Alerta](https://github.com/guardian/alerta) -分布式，可伸缩和灵活的监视系统.
 * [Bloonix](https://bloonix.org)  -Bloonix是一种监视解决方案，可帮助企业确保高可用性和性能.  GPLv3 Perl
 * [bolo](http://bolo.niftylogic.com/) -一个自己动手的监控框架，旨在收集指标，挖掘数据并报告网络中的系统.
-* [Bosun](http://bosun.org/) -通过Stack Exchange监视和警报系统（[Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)）`MIT`` Go`
+* [Bosun](http://bosun.org/) -通过Stack Exchange监视和警报系统（[Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)）`MIT``Go`
 * [Cacti](http://www.cacti.net) -基于Web的网络监视和绘图工具.
 * [Cabot](http://cabotapp.com/) -监视和警报，类似于PagerDuty.
 * [cadvisor](https://github.com/google/cadvisor) -分析正在运行的容器的资源使用情况和性能特征（[Source Code](https://github.com/google/cadvisor)）`Apache``Go`
@@ -539,6 +539,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) -有关组织的基础结构健康状况的概述.
 * [Staytus](http://staytus.co/) -Staytus是一个完整的解决方案，用于发布有关Web应用程序，网络或服务的任何问题的最新信息.
 * [vigil](https://github.com/valeriansaliou/vigil)  -微服务状态页面.  监视分布式基础结构并将警报发送到Slack.  写在锈.
+* [Statping](https://github.com/hunterlong/statping) -用Go编写的状态页面系统.
 
 ## Troubleshooting
 

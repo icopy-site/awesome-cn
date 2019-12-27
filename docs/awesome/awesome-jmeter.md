@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="right">
-    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a> <a href="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/contributing.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a> <a href="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
 </p>
 <br>
 <p align="center">
@@ -21,7 +21,6 @@
 
 
 
-
 ## Official Resources
 
 - [Apache JMeter Project](https://jmeter.apache.org/) -Apache JMeter官方网站.
@@ -37,41 +36,41 @@
 
 ## Getting Started
 
-- [Getting Started with Apache JMeter](https://dzone.com/refcardz/getting-started-with-apache-jmeter) @ DZone
-- [A Simple Load Test with JMeter](https://www.urbaninsight.com/2011/07/18/simple-load-test-with-jmeter) @ Urban Insight
-- [Performance testing with JMeter](https://www.atlassian.com/blog/archives/performance_testing_with_jmete) @ Atlassian
+- [Getting Started with Apache JMeter](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
+- [A Simple Load Test with JMeter](https://www.urbaninsight.com/2011/07/18/simple-load-test-with-jmeter)
+- [Performance testing with JMeter](https://www.atlassian.com/blog/archives/performance_testing_with_jmete)
 
 ## Tutorials
 
-- [JMeter Tutorials](https://artoftesting.com/jmeter-tutorial.html) @ ArtOfTesting.com
-- [Load Testing your Applications with Apache JMeter by Keld H. Hansen](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html) @ jGuru.com
+- [JMeter Tutorials](https://artoftesting.com/jmeter-tutorial.html)
+- [Load Testing your Applications with Apache JMeter](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html) -Keld H. Hansen.
 -使用JMeter进行负载测试：
-    - [part 1](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/) - 入门.
-    - [part 2](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/) -无头测试和Jenkins集成.
-    - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) -重播Apache日志.
+  - [part 1](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/) - 入门.
+  - [part 2](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/) -无头测试和Jenkins集成.
+  - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) -重播Apache日志.
 - [Concurrent, High Throughput Performance Testing with JMeter](https://planet.jboss.org/post/concurrent_high_throughput_performance_testing_with_jmeter)
 - [Functional Testing with JMeter](https://hub.packtpub.com/functional-testing-jmeter/)
-- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter) @ InfoSec学院
-- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) @教程点
+- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter)
+- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/)
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
 - [How to Hit Your RESTful Web Service Using JMeter](https://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
 - [JMeter: Load Development LifeCycle](https://gerardnico.com/jmeter/lifecycle)
-- [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) @ DigitalOcean
-- [JMeter Tutorial](https://www.guru99.com/jmeter-tutorials.html) @ Guru99
-- [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) @ Sourcepole
+- [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter)
+- [JMeter Tutorial](https://www.guru99.com/jmeter-tutorials.html)
+- [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
 
 ## Best Practices
 
 - [JMeter Official Best Practices](http://jmeter.apache.org/usermanual/best-practices.html)
-- [JMeter Best Practices](https://guide.blazemeter.com/hc/en-us/articles/207421405-JMeter-Best-Practices) @ BlazeMeter
-- [Optimize JMeter for Large Scale Tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/) @ OctoPerf
+- [JMeter Best Practices](https://guide.blazemeter.com/hc/en-us/articles/207421405-JMeter-Best-Practices)
+- [Optimize JMeter for Large Scale Tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/)
 
 ## Scripting
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
-- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
-- [JMeter: forget about BeanShell Sampler](https://habr.com/ru/post/250731/) *（俄语）*
+- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) -使用JMeter和Groovy进行负载测试.
+- [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) -JMeter：忘记BeanShell Sampler *（俄语）*.
 
 ## Automation
 
@@ -104,22 +103,26 @@
 ### Tutorials & Demo
 
 -詹金斯
-    - [Automated performance testing using JMeter and Maven](https://www.atlassian.com/blog/archives/automated_performance_testing_using_jmeter_and_maven)
-    - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
-    - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
-    - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
-    - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
-    -如何使用Maven和Jenkins自动执行JMeter测试： [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
-    -JMeter持续性能测试（JMeter + Ant + Jenkins）： [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
-    - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins/)
+  - [Automated performance testing using JMeter and Maven](https://www.atlassian.com/blog/archives/automated_performance_testing_using_jmeter_and_maven)
+  - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
+  - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
+  - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
+  - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
+  -如何使用Maven和Jenkins自动执行JMeter测试：
+    - [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/)
+    - [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
+  -JMeter持续性能测试（JMeter + Ant + Jenkins）：
+    - [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/)
+    - [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
+  - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins/)
 -竹
-    - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo/)
+  - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo/)
 -TeamCity
-    - [How to Run JMeter Tests with TeamCity for Continuous Integration](https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
+  - [How to Run JMeter Tests with TeamCity for Continuous Integration](https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
 -CircleCI
-    - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/how-to-integrate-jmeter-into-circleci/)
+  - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/how-to-integrate-jmeter-into-circleci/)
 -SonarQube
-    - [JMeter with Sonar](http://testersinaction.blogspot.com.by/2013/05/v-behaviorurldefaultvmlo_24.html)
+  - [JMeter with Sonar](http://testersinaction.blogspot.com.by/2013/05/v-behaviorurldefaultvmlo_24.html)
 
 ## Distributed Testing
 
@@ -127,18 +130,18 @@
 - [JMeter Remote Testing](http://jmeter.apache.org/usermanual/remote-test.html)
 - [Setting up a JMeter Cluster for web server load testing](https://www.howtoforge.com/setting-up-jmeter-cluster-for-load-testing/)
 -Dockerized
-    - [Dockerized JMeter](https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b) -使用Docker和JMeter进行分布式负载测试工作流.
-    - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
-    - [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
-    - [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
+  - [Dockerized JMeter](https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b) -使用Docker和JMeter进行分布式负载测试工作流.
+  - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
+  - [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
+  - [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
 -在云中测试
-    -亚马逊
-        - [jmeter-ec2](http://web.archive.org/web/20120209090437/http://www.http503.com/2012/jmeter-ec2/) -在亚马逊的EC2云上运行JMeter.
-        - [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf_untangl/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
-        - [Performance Testing in the Cloud with JMeter & AWS](http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
-        - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/jmeter-distributed-testing-with-amazon-ec2/)
-    -DigitalOcean
-        - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) -使用Digital Ocean，JMeter和Docker构建自己的JMeter Cloud.
+  -亚马逊
+    - [jmeter-ec2](http://web.archive.org/web/20120209090437/http://www.http503.com/2012/jmeter-ec2/) -在亚马逊的EC2云上运行JMeter.
+    - [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf_untangl/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
+    - [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
+    - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/jmeter-distributed-testing-with-amazon-ec2/)
+  -DigitalOcean
+    - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) -使用Digital Ocean，JMeter和Docker构建自己的JMeter Cloud.
 
 ## Cloud Services / SaaS
 
@@ -161,38 +164,37 @@
 - [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
 - [BlazeMeter Sense](https://sense.blazemeter.com/) -用于存储和分析性能测试结果的服务.
-- [JAnalyser](http://epireum.com/page-section/janalyser/) -基于浏览器的结果分析工具.
+- [JAnalyser](http://janalyser.com/) -基于浏览器的结果分析工具.
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) -解析JMeter测试结果并生成带有图表的详细报告的Maven插件.
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/) -基于Web的应用程序，用于整理，分析和报告JMeter测试结果.
 -数据库结果收集器
-    - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/) -插件可将结果记录到数据库中，以实现更有效的报告.
-    - [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin) -修补程序，以配置侦听器以登录到MySQL数据库.
+  - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/) -插件可将结果记录到数据库中，以实现更有效的报告.
+  - [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin) -修补程序，以配置侦听器以登录到MySQL数据库.
 
 ### Results Visualisation
 
 -内置报告
-    - [JMeter Report Dashboard](http://jmeter.apache.org/usermanual/generating-dashboard.html) -JMeter支持仪表板报告生成，以从测试计划中获取图形和统计信息.
--使用石墨和格拉法纳
-    -*待定*
+  - [JMeter Report Dashboard](http://jmeter.apache.org/usermanual/generating-dashboard.html) -JMeter支持仪表板报告生成，以从测试计划中获取图形和统计信息.
+-使用石墨和Grafana-* TBD *.
 -使用InfluxDB和Grafana
-    - [Using JMeter with InfluxDB & Grafana](http://www.vinsguru.com/category/influxdb/) -使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
-    - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
-    -Grafana仪表板
-        - [JMeter Load Test Dashboard](https://grafana.com/dashboards/1152) 通过NovaTec-APM
-        - [JMeter Dashboard using Core InfluxdbBackendListenerClient](https://grafana.com/grafana/dashboards/5496) 由Philippe M.
-        - [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351) 由adrianbanu
-    - [JMeter-InfluxBD-Writer Plugin](https://github.com/NovatecConsulting/JMeter-InfluxDB-Writer) -JMeter插件可将负载测试数据即时写入InfluxDB.
-    - [JMeter Results to InfluxDB](https://github.com/soprasteria/jmeter2influxdb) -从csv文件读取JMeter结果，并将其放入InfluxDB数据库.
+  - [Using JMeter with InfluxDB & Grafana](http://www.vinsguru.com/category/influxdb/) -使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
+  - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
+  -Grafana仪表板
+    - [JMeter Load Test Dashboard](https://grafana.com/dashboards/1152) -通过NovaTec-APM.
+    - [JMeter Dashboard using Core InfluxdbBackendListenerClient](https://grafana.com/grafana/dashboards/5496) -菲利普·M（Philippe M.）
+    - [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351) -adrianbanu.
+  - [JMeter-InfluxBD-Writer Plugin](https://github.com/NovatecConsulting/JMeter-InfluxDB-Writer) -JMeter插件可将负载测试数据即时写入InfluxDB.
+  - [JMeter Results to InfluxDB](https://github.com/soprasteria/jmeter2influxdb) -从csv文件读取JMeter结果，并将其放入InfluxDB数据库.
 -使用ELK Stack和Grafana
-    - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) -使用Elasticsearch，Logstash和Kibana可视化JMeter测试结果.
-    - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) -使用ElasticSearch后端侦听器和Grafana / Kibana实时监视结果.
-    - [JMeter ElasticSearch Backend Listener](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) -JMeter插件，用于将测试结果发送到ElasticSearch引擎.
+  - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) -使用Elasticsearch，Logstash和Kibana可视化JMeter测试结果.
+  - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) -使用ElasticSearch后端侦听器和Grafana / Kibana实时监视结果.
+  - [JMeter ElasticSearch Backend Listener](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) -JMeter插件，用于将测试结果发送到ElasticSearch引擎.
 -自定义和过时
-    - [Using Matplotlib & Python](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter) -使用Matplotlib绘图工具和Python绘制JMeter负载测试结果.
-    - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) -自定义统计汇总报告侦听器，可增强结果的可视化效果.
-    - [JChav](https://github.com/d6y/jchav) -JMeter图表历史和可视化库.
-    -JMeter资讯主页： [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) -实时监控JMeter负载测试.
-    - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) -使用具有Powershell并行执行功能的CMDRunner创建JMeter图.
+  - [Using Matplotlib & Python](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter) -使用Matplotlib绘图工具和Python绘制JMeter负载测试结果.
+  - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) -自定义统计汇总报告侦听器，可增强结果的可视化效果.
+  - [JChav](https://github.com/d6y/jchav) -JMeter图表历史和可视化库.
+  -JMeter资讯主页： [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) -实时监控JMeter负载测试.
+  - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) -使用具有Powershell并行执行功能的CMDRunner创建JMeter图.
 
 ## Performance Testing
 
@@ -211,7 +213,7 @@
 
 - [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
 - [BlazeMeter Mobile Recorder](https://guide.blazemeter.com/hc/en-us/articles/207420545-BlazeMeter-Recorder-Mobile-Recorder-)
-- [Performance Testing for Native Mobile Apps](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps) @ BlazeMeter
+- [Performance Testing for Native Mobile Apps](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps)
 
 ## APM Integration
 
@@ -220,8 +222,8 @@
 - [Servers Performance Monitoring Plugin](https://jmeter-plugins.org/wiki/PerfMon/) -来自的服务器监控插件 [JMeter Plugins](https://jmeter-plugins.org/) 项目.
 - [CA App Synthetic Monitor](https://asm.ca.com/en/feature/transaction-monitoring-web-application-testing.html) -带有JMeter支持的事务监视和测试解决方案.
 -动态痕迹
-	- [Dynatrace and JMeter integration](https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/test-automation-frameworks/dynatrace-and-jmeter-integration/)
-	- [Integrate web API performance monitoring in JMeter](https://www.dynatrace.com/support/doc/appmon/continuous-delivery-test-automation/test-automation-tutorials/integrate-web-api-performance-monitoring-in-jmeter/)
+  - [Dynatrace and JMeter integration](https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/test-automation-frameworks/dynatrace-and-jmeter-integration/)
+  - [Integrate web API performance monitoring in JMeter](https://www.dynatrace.com/support/doc/appmon/continuous-delivery-test-automation/test-automation-tutorials/integrate-web-api-performance-monitoring-in-jmeter/)
 - [JMeter integration with AppDynamics](https://docplayer.net/62851982-Jmeter-integration-with-appdynamics.html) -与JMeter集成的APM和EUM解决方案.
 -使用New Relic和JMeter进行性能修复： [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/)
 
@@ -251,13 +253,13 @@
 ## JMeter Performance
 
 - [JMeter Performance](https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance) -JMeter跨版本的性能演变.
-- [JMeter Performance and Tuning Tips](http://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) @ UBIK工程
-- [JMeter Performance and Tuning Tips](https://blazemeter.com/blog/jmeter-performance-and-tuning-tips) @ BlazeMeter
+- [JMeter Performance and Tuning Tips](http://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) -由UBIK Ingenierie提供.
+- [JMeter Performance and Tuning Tips](https://blazemeter.com/blog/jmeter-performance-and-tuning-tips) -BlazeMeter.
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
 
 ## Tips & Tricks
 
-- [JMeter tips](http://www.webwob.com/html/jmeter_tips.html) @ WebWob-JMeter便笺簿技巧.
+- [JMeter tips](http://www.webwob.com/html/jmeter_tips.html) -JMeter便笺簿技巧.
 
 ## Books
 
@@ -269,31 +271,31 @@
 - [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) 由Sai Matam和Jagdeep Jain（[Leanpub](https://leanpub.com/jmeterbyexample)）-一个简单，实用的分步教程来衡量网站的性能.
 - [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) 由Sai Matam和Jagdeep Jain（[Apress](https://www.apress.com/gp/book/9781484229606))
 - [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/programming/master-apache-jmeter-from-load-testing-to-devops))
-- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)）*（法语）*
+- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)) *(French)*
 - [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) 由Penny Curich（[Leanpub](https://leanpub.com/advanced_jmeter_testing)）-为Apache JMeter 5.0编写自定义组件的指南.
 
 ## Trainings & Courses
 
-- [JMeter: Performance and Load Testing](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) @ LinkedIn学习
-- [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) @ NobleProg
-- [JMeter Training Course](https://info.blazemeter.com/jmeter-training-course) @ BlazeMeter
-- [JMeter Training Academy](https://www.blazemeter.com/jmeter-tutorial/) @ BlazeMeter
-- [JMeter Courses collection](https://www.udemy.com/courses/search/?q=jmeter) @乌迪米
-- [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) @ ABSoft培训
-- [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) @实用测试实验室
-- [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) @乌比克工学院
-- [Apache JMeter Testing Courses](https://qainsights.com/services/) @ QAInsights
+- [JMeter: Performance and Load Testing](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) -通过领英学习.
+- [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) -通过NobleProg.
+- [JMeter Training Course](https://info.blazemeter.com/jmeter-training-course) -BlazeMeter.
+- [JMeter Training Academy](https://www.blazemeter.com/jmeter-tutorial/) -BlazeMeter.
+- [JMeter Courses collection](https://www.udemy.com/courses/search/?q=jmeter) -Udemy.
+- [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) -由ABSoft培训.
+- [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) -由实用测试实验室提供.
+- [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) -由Ubik Ingenierie提供.
+- [Apache JMeter Testing Courses](https://qainsights.com/services/) -由QAInsights提供.
 
 ## Community
 
 ### Blogs
 
 - [BlazeMeter Blog](https://www.blazemeter.com/jmeter/) -有关JMeter和性能测试的BlazeMeter博客.
-- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) -UBIK INGENIERIE博客.
+- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) -Ubik Ingenierie博客.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) -有关测试自动化的技术博客.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) -RedLine13博客中的JMeter文章.
 - [Flood.io Blog](https://flood.io/blog/) -从Flood IO加载测试思想，故事和想法.
-- [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) @ Shantonu Sarker-另一个使用JMeter进行性能和自动化测试的博客.
+- [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) -另一个使用JMeter进行性能和自动化测试的博客.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) -关于JMeter和负载测试的OctoPerf博客.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) -关于JMeter的Abstracta博客.
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) -关于Apache JMeter和Web应用程序性能测试的博客*（没有更多更新）*.
@@ -306,8 +308,7 @@
 
 ### Newsletters
 
-- [JMeter](https://www.linkedin.com/learning/search?keywords=jmeter) @ Linkedin
-- [JMeter](https://www.reddit.com/r/jmeter/) @ Reddit
+- [JMeter Community](https://www.reddit.com/r/jmeter/) -Reddit.
 
 ### Twitter
 
@@ -320,9 +321,9 @@
 ### Q&A
 
 - [JMeter @ Stack Overflow](http://stackoverflow.com/questions/tagged/jmeter)
-- [Skype chat of JMeter enthusiasts](http://is.gd/jmeterchat) *（俄语）*
-- [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
 - [JMeter Slack workspace](http://jmeterusers.slack.com/)
+- [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
+- [Чат любителей JMeter](http://is.gd/jmeterchat) -JMeter爱好者*（俄语）*的Skype聊天.
 
 ## Related
 
@@ -341,7 +342,7 @@
 ## Contributing
 
 欢迎捐款！ <br />
-请看看 [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md) 第一.
+请看看 [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTING.md) 第一.
 
 ## License
 

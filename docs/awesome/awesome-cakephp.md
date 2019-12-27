@@ -82,7 +82,7 @@
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
-- [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) -一个插件，可帮助检测实时数据库和灯具中的不匹配情况，从而使基于灯具的测试更加可靠，并且部署更安全.
+- [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) -一个插件，可帮助检测实时数据库和夹具中的不匹配情况，从而使基于夹具的测试更加可靠，部署更安全.
 - [Sentry plugin](https://github.com/Connehito/cake-sentry) 一个将Sentry与CakePHP无缝集成以解决错误和异常的插件.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) -包含调试和维护工具的轻量级安装插件.
 - [Whoops plugin](https://github.com/dereuromark/cakephp-whoops) -适用于酷孩子的PHP错误和异常 [filp/whoops](https://github.com/filp/whoops).
@@ -91,7 +91,7 @@
 *实现依赖项注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖项注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -239,6 +239,7 @@
 - [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) -维护记录的有序列表的行为.
 - [CakeDecimal plugin](https://github.com/dereuromark/cakephp-decimal) -处理小数的值对象方法.
 - [Duplicatable plugin](https://github.com/riesenia/cakephp-duplicatable) -复制实体（包括相关数据）的行为.
+- [Fetchable plugin](https://github.com/riesenia/cakephp-fetchable) -从缓存/内存中获取实体的行为.
 - [JeremyHarris/LazyLoad plugin](https://github.com/jeremyharris/cakephp-lazyload) -实体的关联懒惰加载器.
 - [Lqdt/OrmJson plugin](https://github.com/liqueurdetoile/cakephp-orm-json) -通过CakePHP ORM在JSON类型字段中选择，查找，获取和设置属性和值的行为和特质.
 - [Money plugin](https://github.com/gourmet/money) -使用的CakePHP实体的Money数据类型 [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
@@ -468,7 +469,7 @@
 - [CakePHP-NL](https://www.meetup.com/CakePHP-NL) -荷兰的MeetUps.
 
 ## Contributing
-请参见 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 有关详细信息.
+请参阅 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 有关详细信息.
 
 ## Credits
 awesome-cakephp由创建 [dereuromark](https://github.com/dereuromark)  目前由他和FriendsOfCake小组维护.  谢谢你们 [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors)也一样

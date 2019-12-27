@@ -24,7 +24,7 @@
 
 - [AquaAgro](https://aquaagro.smartcube.pk/)  |  巴基斯坦卡拉奇|  2018年
 
-   为精确农业提供解决方案，使农民能够监控自己的作物并做出更好的决策.  他们的设备和平台可以为灌溉计划，肥料需求，病虫害预测和植物病害检测做出预测. 
+   为精确农业提供解决方案，使农民能够监控自己的作物并做出更好的决策.  他们的设备和平台可以为灌溉计划，肥料需求，病虫害预测和植物病害检测做出预测.
 
 - [Bowery Farming](https://boweryfarming.com)  |  美国纽约|  2015年
 
@@ -40,7 +40,7 @@
 
 - [Peckas Tomater](http://www.peckas.com)  |  瑞典|  2015年
 
-   结合了番茄和养鱼场的系统，鱼池中的废水可滋养番茄，而番茄床又可以净化流回鱼池的水.  他们的鱼生长时不使用抗生素，而且伴侣不需要肥料.
+   结合了番茄和养鱼场的养殖系统，鱼池中的废水可滋养番茄，而番茄床又可以净化流回鱼池的水.  他们的鱼生长时不使用抗生素，而且伴侣不需要肥料.
 
 - [Phytoponics](https://phytoponics.com/)  |  英国|  2016年
 
@@ -55,6 +55,10 @@
    使用卫星成像可以节省多达30％的肥料使用量，并跟踪农作物的健康状况.  这使农民可以减少其一氧化二氮的排放，这是一种比二氧化碳强298倍的温室气体.
 
 ### Food
+
+- [Foods for Tomorrow / Heura](https://www.heurafoods.com/en-GB/home)  |  西班牙巴塞罗那|  2017年
+
+   创建了一种名为Heura的成分，该成分使用创新的生产技术代表了新一代基于植物的蛋白质，从而获得了植物界从未见过的质感.  与生产相同量的小牛肉蛋白相比，Heura需要的水少94％，每公斤生产的大豆仅需0.5kg的大豆.
 
 - [Impossible Foods](https://impossiblefoods.com/)  |  美国加利福尼亚|  2011年
 
@@ -98,7 +102,7 @@
 
 - [The Ocean Cleanup](https://theoceancleanup.com/)  |  荷兰|  2013年
 
-  开发了一种被动收集海洋垃圾的技术，目标是到2040年清洁海洋中90％的塑料废料.2018年，他们将解决方案部署在了大太平洋垃圾场中.
+  开发了一种被动收集海洋垃圾的技术，目标是到2040年清洁海洋中90％的塑料废料.2018年，他们将解决方案部署到了Great Pacific Garbage Patch.
 
 - [Orbital Systems](https://orbital-systems.com/)  |  瑞典|  2012年
 
@@ -124,7 +128,7 @@
 
 - [Carbon Engineering](https://carbonengineering.com/)  |  加拿大|  2009年
 
-  Using Direct Air Capture technology, Carbon Engineering aims to take existing CO<sub>2</sub> directly out of the air, then use the gas to make carbon neutral synthetic fuels for planes, trucks, and ships. Carbon Engineering is funded by several government and sustainability-focused agencies as well as by private investors, including Bill Gates and oil sands magnate Norman Murray Edwards.
+   碳工程公司采用直接空气捕获技术，旨在将现有的CO <sub>2</sub>直接从空气中排出，然后利用该气体制造飞机，卡车和轮船使用的碳中性合成燃料.  碳工程公司由多家政府和可持续发展机构以及比尔·盖茨和油砂大亨诺曼·默里·爱德华兹（Norman Murray Edwards）等私人投资者资助.
 
 - [ElectricityMap.org](https://www.electricitymap.org/)  |  丹麦/法国|  2017年
 
@@ -144,11 +148,11 @@
 
 - [Marcel](https://www.marcel.cab/engagements-rse/)  |  法国|  2011年
 
-   像Uber这样的在线出租车应用程序，使人们有可能与GoodPlanet基金会一起使用电动汽车和合作伙伴，以完全补偿乘车过程中产生的碳.  自2019年以来，仅在法国提供.
+   像Uber这样的在线出租车应用程序，使人们有可能使用电动汽车和GoodPlanet基金会的合作伙伴来完全补偿乘车过程中产生的碳.  自2019年以来，仅在法国提供.
 
 - [Momentum Dynamics](https://www.momentumdynamics.com/)  |  美国宾夕法尼亚州|  2009年
 
-   为汽车和运输业开发无线充电.  允许将任何类型的车辆或设备连接到电网，而无需使用电缆或电线.
+  Developing wireless charging for the automotive and transportation industry. Allows any type of vehicle or appliance to be connected to electrical power grid without the use of cables or wires.
 
 - [Nel ASA](https://nelhydrogen.com/)  |  挪威|  1927年
 
@@ -202,7 +206,7 @@
 
 - [Billions in Change](https://billionsinchange.com/)  |  美国|  2015年
 
-   十亿个变革中的发明的发展和交付，可以帮助不幸的世界另一半获得基本需求，例如清洁水，可靠的电力和充足的食物.  这些基础为教育，健康和生计奠定了基础，使人们能够改善自己和家人的生活.
+   变革中的数十亿美元开发和提供的发明可以帮助世界上不幸的一半地区获得基本需求，例如干净的水，可靠的电力和充足的食物.  这些基础为教育，健康和生计奠定了基础，使人们能够改善自己和家人的生活.
 
 - [Doconomy](https://doconomy.com/)  |  瑞典|  2018年
 
@@ -210,7 +214,7 @@
 
 - [Ducky](https://www.ducky.eco/en/)  |  挪威|  2014年
 
-  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视自己的足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
+  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视您的个人足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
 
 - [Ecosia](https://ecosia.org/)  |  德国|  2009年
 
@@ -226,11 +230,11 @@
 
 - [Triodos Bank](https://www.triodos.com)  |  荷兰|  1980
 
-    面向消费者和企业的欧洲银行，仅向进行积极的环境和社会变革的组织提供贷款.  他们在可再生能源系统上进行了大量投资，并在其网站上发布了所资助的每个组织的详细信息.
+   面向消费者和企业的欧洲银行，仅向进行积极的环境和社会变革的组织提供贷款.  他们在可再生能源系统上进行了大量投资，并在其网站上发布了所资助的每个组织的详细信息.
 
 - [Unmade](https://unmade.com/)  |  英格兰|  2013年
 
-   通过按需提供大规模的服装生产，减少时尚行业的浪费.  Unmade是出于对时装行业内的设计和制造流程进行重新构想的愿望而诞生的，因此品牌仅生产实际销售的产品，从而将浪费降至最低.
+   通过按需提供大规模的服装生产，减少时尚行业的浪费.  Unmade是出于对时装行业的设计和制造流程进行重新构想的愿望而诞生的，因此品牌仅生产实际销售的产品，从而将浪费降至最低.
 
 ## More Resources
 

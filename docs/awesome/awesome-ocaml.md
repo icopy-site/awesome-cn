@@ -71,7 +71,7 @@
 ## Books
 
 - [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)  –在More OCaml中，约翰·惠灵顿（John Whitington）进行了OCaml函数编程的曲折之旅，介绍了各种语言功能并描述了一些经典算法.  本书以处理PDF文件生成的大型示例作为结尾.  每章都有问题，以及有效的答案和提示.
-- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html)  由艾伦·唐尼（Allen Downey）和尼古拉斯·蒙耶（Nicholas Monje）撰写-如何像计算机科学家一样思考是一本基于OCaml语言的入门编程教科书.  它是Allen Downey编写的Think Python的修改版本.  它适用于编程的新手，以及那些了解一些编程但想在面向功能的范式中学习编程的人，或者只是想学习OCaml的人.
+- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html)  艾伦·唐尼（Allen Downey）和尼古拉斯·蒙耶（Nicholas Monje）撰写的-《如何像计算机科学家一样思考》是一本基于OCaml语言的入门编程教科书.  它是Allen Downey编写的Think Python的修改版本.  它适用于编程的新手，以及那些了解一些编程但想在面向功能的范式中学习编程的人，或者只是想学习OCaml的人.
 - [OCaml from the Very Beginning](http://ocaml-book.com/) 由J. Whitington撰写-OCaml从一开始就将吸引新的程序员，以及经验丰富的渴望探索功能语言（例如OCaml）的程序员.
 - [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)  由理查德·伯德（Richard Bird）撰写-总结了函数编程世界中的30个难题.  尽管是针对Haskell的，但算法问题却非常有趣，尝试在OCaml中解决它们也有助于功能编程的思考.  OCaml中的部分解决方案是 [here](https://github.com/MassD/pearls).
 - [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
@@ -502,20 +502,21 @@
     用于MIME处理等.请参见[
     模块]（http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html）
     在Ocamlnet的手册中.
-  - [tyxml](http://ocsigen.org/tyxml) —用于构建有效（根据W3C规范）Html和Svg树的库.
+  - [tyxml](http://ocsigen.org/tyxml) —用于构建有效的（根据W3C规范）Html和Svg树的库.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml)  – Js_of_ocaml是OCaml字节码到Javascript的编译器.  这样就可以在Web浏览器中运行Ocaml程序.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) -从js_of_ocaml项目轻松导入和导出CommonJS模块.
   - [BuckleScript](https://github.com/bloomberg/bucklescript)  -BuckleScript是OCaml的后端，可以生成可调试的Javascript.  它使OCaml能够无缝集成Java平台.
-  - [ocaml-uri](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
+  - [ocaml-uri](https://github.com/mirage/ocaml-uri) – RFC3986 URI解析库.
   - [Goji](https://github.com/klakplok/goji) –用于JavaScript库的OCaml绑定生成器.
   - [Syndic](https://github.com/Cumulus/Syndic) – RSS和Atom提要解析
   - [ocaml-mustache](https://github.com/rgrinberg/ocaml-mustache) – OCaml中的mustache.js无逻辑模板.
   - [atdjs](https://github.com/barko/atdjs) –用于OCaml / js_of_ocaml的atd代码生成器.
   - [jingoo](https://github.com/tategakibunko/jingoo) – OCaml模板引擎几乎与jinja2兼容.
-  - [dispatch](https://github.com/inhabitedtype/ocaml-dispatch) –用于客户端和服务器端应用程序的基于路径的调度.
+  - [dispatch](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
   - [Lambda Soup](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
   - [Markup.ml](https://github.com/aantron/markup.ml) -错误恢复流HTML5和XML解析器，序列化器.
   - [gen_js_api](https://github.com/LexiFi/gen_js_api) -gen_js_api旨在简化Java库的OCaml绑定的创建.
+  - [routes](https://github.com/anuragsoni/routes) -OCaml / ReasonML Web应用程序的类型化路由.
 
 -**开源项目**：
   - [Cumulus](https://github.com/Cumulus/Cumulus) –带有OCaml框架Ocsigen的黑客新闻（如网站）

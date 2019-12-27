@@ -108,7 +108,7 @@ Developers and Open Source authors now have a massive amount of services offerin
   * [Calendarific](https://calendarific.com)  -适用于200多个国家/地区的企业级公共假日API服务.  免费计划包括每月1000次通话.
   * [Clarifai](https://www.clarifai.com)  —用于自定义面部识别和检测的图像API.  能够训练AI模型.  免费计划每月有5000个通话.
   * [Colaboratory](https://colab.research.google.com) —带有Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
-  * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
+  * [Diggernaut](https://www.diggernaut.com/)  —基于云的Web抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划包括每月5K页面的请求.
   * [dominodatalab.com](https://www.dominodatalab.com) —数据科学，支持Python，R，Spark，Hadoop，MATLAB等
   * [dreamfactory.com](https://dreamfactory.com/)  —适用于移动，Web和IoT应用程序的开源REST API后端.  连接任何SQL / NoSQL数据库，文件存储系统或外部服务，它会立即创建一个全面的REST API平台，其中包含实时文档，用户管理，...
   * [FraudLabs Pro](https://www.fraudlabspro.com)  —筛选用于信用卡付款欺诈的订单交易.  该REST API将基于订单的输入参数检测所有可能的欺诈特征.  免费Micro计划每月有500笔交易.
@@ -225,6 +225,7 @@ Developers and Open Source authors now have a massive amount of services offerin
   * [Imgbot](https://github.com/marketplace/imgbot)  — Imgbot是一个友好的机器人，可以优化您的图像并节省时间.  优化的图像意味着较小的文件大小而不会牺牲质量.  它是免费的开放源代码.
   * [Typo CI](https://github.com/marketplace/typo-ci) — Typo CI会检查您的请求请求和拼写错误是否提交，免费提供给开源.
   * [DeepSource](https://deepsource.io/)  -DeepSource持续分析源代码更改，并发现在安全性，性能，反模式，错误风险，文档和样式下分类的问题.  对于Python和Go.  免费开源.
+  * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev)  -用于DevOps的作为代码审查工具的自动化基础架构与GitHub，Bitbucket和GitLab（甚至是自托管）集成.  除了标准语言外，它还分析Ansible，Terraform，CloudFormation，Kubernetes等.  （免费开源）
 
 ## Code Search and Browsing
 
@@ -270,7 +271,7 @@ Developers and Open Source authors now have a massive amount of services offerin
 ## Security and PKI
 
   * [meterian.io](https://www.meterian.io/)  -监视Java，Javascript，.NET，Scala，Ruby和NodeJS项目中依赖项中的安全漏洞.  一个私有项目免费，开放源代码无限个项目.
-  * [pyup.io](https://pyup.io)  —监视Python依赖关系中的安全漏洞并自动更新它们.  一个私有项目免费，开放源代码无限个项目.
+  * [pyup.io](https://pyup.io) — Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
   * [threatconnect.com](https://threatconnect.com)  —威胁情报：它是为开始学习网络威胁情报的个人研究人员，分析人员和组织而设计的.  最多释放3位用户
   * [crypteron.com](https://www.crypteron.com/) -面向开发人员的云优先，安全友好的安全平台可防止.NET和Java应用程序中的数据泄露
   * [snyk.io](https://snyk.io)  —可以在开源依赖项中找到并修复已知的安全漏洞.  开源项目的无限测试和修复.  每月最多只能为您的私人项目进行200次测试.
@@ -331,7 +332,7 @@ Developers and Open Source authors now have a massive amount of services offerin
   * [webtranslateit.com](https://webtranslateit.com/) —最多释放500个字符串
   * [transifex.com](https://www.transifex.com/) —开源免费
   * [oneskyapp.com](https://www.oneskyapp.com/) —有限的免费版本，最多可容纳5个用户，免费提供给开源
-  * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
+  * [crowdin.com](https://crowdin.com/) —开源的无限项目，无限字符串和合作者
   * [Loco](https://localise.biz/) —最多免费翻译2000笔，翻译数量不限，每种项目10种语言，每种项目1000种可翻译资产
   * [POEditor](https://poeditor.com/) —最多释放1000个字符串
 
@@ -357,7 +358,7 @@ Developers and Open Source authors now have a massive amount of services offerin
   * [skylight.io](https://www.skylight.io/) —前100,000个请求免费（仅适用于Rails）
   * [appdynamics.com](https://www.appdynamics.com/) —免费提供24小时指标，应用程序性能管理代理限于一种Java，一种.NET，一种PHP和一种Node.js
   * [deadmanssnitch.com](https://deadmanssnitch.com/)  —监视cron作业.  1个免费告密者（显示器），如果您推荐其他人进行注册，则更多
-  * [freeboard.io](https://freeboard.io/)  —公共项目免费.  物联网（IoT）项目的仪表板
+  * [freeboard.io](https://freeboard.io/) — Free for public projects. Dashboards for your Internet of Things (IoT) projects
   * [loader.io](https://loader.io/) —有限制的免费负载测试工具
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) —性能监控API，检查Ping，DNS等.
   * [blackfire.io](https://blackfire.io/)  — Blackfire是SaaS交付的应用程序性能解决方案.  免费的黑客计划（仅PHP）
@@ -423,7 +424,7 @@ Developers and Open Source authors now have a massive amount of services offerin
   * [Mailnesia](https://mailnesia.com) -免费的临时/一次性电子邮件，其中包含自动访问注册链接.
   * [ImprovMX](https://improvmx.com) –免费的电子邮件转发
   * [Burnermail](https://burnermail.io/) –免费5个刻录机电子邮件地址，1个邮箱，7天邮箱历史记录
-  * [mailkitchen](https://www.mailkitchen.com/) — Free for life without commitment, 10,000 emails/month, 1,000 emails/day
+  * [mailkitchen](https://www.mailkitchen.com/) —终身免费，无承诺，每月10,000封电子邮件，每天1,000封电子邮件
   * [AnonAddy](https://anonaddy.com) -开源匿名电子邮件转发，免费创建无限的电子邮件别名
 
 ## Forms
@@ -443,20 +444,20 @@ Developers and Open Source authors now have a massive amount of services offerin
   * [PageCDN.com](https://pagecdn.com/) -为所有人提供免费的公共CDN，并为开源/公益组织提供免费的私人CDN.
   * [cloudflare.com](https://www.cloudflare.com/) —基本服务是免费的，对博客非常有用，它还提供免费的SSL证书服务和5条防火墙规则.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN，用于引导程序，bootswatch和fontawesome.io
-  * [cdnjs.com](https://cdnjs.com/) — CDN for JavaScript libraries, CSS libraries, SWF, images, etc.
+  * [cdnjs.com](https://cdnjs.com/) — CDN，用于JavaScript库，CSS库，SWF，图像等.
   * [jsdelivr.com](https://www.jsdelivr.com/) —适用于开发人员和网站管理员的OSS CDN（JS，CSS，字体），接受PR来添加更多内容
   * [raw.githack.com](https://raw.githack.com/) —现代化的** rawgit.com **替代，它仅使用Cloudflare托管文件
-  * [developers.google.com](https://developers.google.com/speed/libraries/) — Google Hosted Libraries是最流行的开源JavaScript库的内容分发网络
+  * [developers.google.com](https://developers.google.com/speed/libraries/) — Google托管库是最流行的开源JavaScript库的内容分发网络
   * [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — Microsoft Ajax CDN托管了流行的第三方JavaScript库（例如jQuery），使您可以轻松地将它们添加到Web应用程序中
   * [toranproxy.com](https://toranproxy.com/)  — Packagist和GitHub的代理.  永不让CD失败.  免费供个人使用，1个开发人员，不支持
   * [Web Support Revolution](https://w.tools/) —免费的CDN，备份，防火墙，防病毒和监视.
   * [section.io](https://www.section.io/)  —启动和管理完整的Varnish Cache解决方案的简单方法.  据说一个站点永远免费
-  * [netdepot.com](https://www.netdepot.com/cdn/) —每月前100 GB可用空间
+  * [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
   * [speeder.io](https://speeder.io/)  —使用KeyCDN.  自动图像优化和免费CDN增强功能.  免费，不需要任何服务器更改
   * [jare.io](http://www.jare.io)  — CDN用于图像.  使用AWS CloudFront
   * [unpkg.com](https://unpkg.com/) -CDN上npm上的所有内容
-  * [staticaly.com](https://staticaly.com/) — CDN for Git仓库（GitHub，GitLab，Bitbucket），WordPress相关的资产和图像
-  * [ddos-guard.net](https://ddos-guard.net/store/web) —免费的CDN，DDoS保护和SSL证书
+  * [staticaly.com](https://staticaly.com/) — CDN for Git仓库（GitHub，GitLab，Bitbucket），与WordPress相关的资产和图像
+  * [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate
   * [ovh.ie](https://www.ovh.ie/ssl-gateway/) —免费的DDos保护和SSL证书
 
 ## PaaS
@@ -474,7 +475,7 @@ Developers and Open Source authors now have a massive amount of services offerin
   * [sandstorm.io](https://sandstorm.io/)  — Sandstorm是用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)  — .NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
   * [glitch.com](https://glitch.com/) —具有代码共享和实时协作等功能的免费无限制公共/私人托管
-  * [gigalixir.com](https://gigalixir.com/) - Gigalixir provide 1 free instance that never sleeps, and free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups, for Elixir/Phoenix apps.
+  * [gigalixir.com](https://gigalixir.com/) -Gigalixir为Elixir / Phoenix应用程序提供了1个永不休眠的免费实例，以及免费的PostgreSQL数据库限制为2个连接，10、000行且没有备份.
   * [workers.dev](https://workers.dev)  -在Cloudflare的全球网络上免费部署无服务器代码.  每天使用worker.dev子域的100,000个免费请求.
   * [pipedream.com](https://pipedream.com)  -为开发人员构建的集成平台.  根据任何触发器开发任何工作流程.  工作流是代码，您可以运行 [for free](https://docs.pipedream.com/pricing/) .  无需管理服务器或云资源.
   * [okteto.com](https://okteto.com)  -专为开发人员设计的托管Kubernetes服务.  免费的开发人员帐户带有五个命名空间，每个命名空间都具有8GB的RAM和4个CPU.
@@ -510,7 +511,7 @@ Developers and Open Source authors now have a massive amount of services offerin
 
 ## Web Hosting
 
-  * [pages.github.com](https://pages.github.com/) —直接从GitHub存储库托管静态站点
+  * [pages.github.com](https://pages.github.com/) — Hosting static site directly from GitHub repository
   * [gitlab.com](https://about.gitlab.com/product/pages/) —直接从GitLab存储库托管静态站点
   * [sourceforge.net](https://sourceforge.net/) —免费查找，创建和发布开源软件
   * [devport.co](http://devport.co/) —将GitHub项目，应用和网站转变为个人开发人员组合
@@ -649,7 +650,7 @@ Developers and Open Source authors now have a massive amount of services offerin
    * [kraken.io](https://kraken.io/) —用于网站性能即服务的图像优化，免费计划最大1 MB文件大小
    * [placeholder.com](https://placeholder.com/) —快速简单的图像占位符服务
    * [placekitten.com](https://placekitten.com/) —快速简单的服务，用于获取小猫图片以用作占位符
-   * [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
+   * [embed.ly](https://embed.ly/)  —提供用于将媒体嵌入网页，响应图像缩放，从网页中提取元素的API.  免费，每月最多5,000个URL，每秒15个请求
    * [otixo.com](https://www.otixo.com/)  —从一个位置加密，共享，复制和移动所有云存储文件.  基本计划提供最大250 MB的无限文件传输.  文件大小，并允许5个加密文件
    * [tinypng.com](https://tinypng.com/) —压缩和调整PNG和JPEG图像大小的API，每月免费提供500次压缩
    * [filestack.com](https://www.filestack.com/) —文件选择器，转换和交付，可免费使用250个文件，500个转换和3 GB带宽
@@ -702,13 +703,13 @@ Developers and Open Source authors now have a massive amount of services offerin
    * [maptiler.com](https://www.maptiler.com/cloud/)  矢量地图，地图服务和用于可视化的sdk.  具有每周更新和四种地图样式的免费矢量瓷砖.
    * [here](https://developer.here.com/)  —用于地图和可识别位置的应用程序的API和SDK.  每月免费进行25万笔交易.
    * [stadiamaps.com](https://stadiamaps.com/)  —地图图块，路线，导航和其他地理空间API.  每天有2,500幅免费地图视图和API请求，用于非商业用途和测试.
-   * [developers.arcgis.com](https://developers.arcgis.com) — APIs and SDKs for maps, geospatial data storage, analysis, geocoding, routing, and more across web, desktop, and mobile. 1,000,000 free basemap+geocode transactions, 40GB free tile+data storage per month.
+   * [developers.arcgis.com](https://developers.arcgis.com)  —用于Web，台式机和移动设备上的地图，地理空间数据存储，分析，地理编码，路由等的API和SDK.  1,000,000次免费底图+地理编码交易，每月40GB免费图块+数据存储.
 
 ## Package Build System
 
    * [build.opensuse.org](https://build.opensuse.org/) —用于多个发行版（SUSE，EL，Fedora，Debian等）的软件包构建服务.
    * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) —针对Fedora和EL的基于模拟的RPM构建服务.
-   * [help.launchpad.net](https://help.launchpad.net/Packaging) — Ubuntu和Debian构建服务.
+   * [help.launchpad.net](https://help.launchpad.net/Packaging) — Ubuntu and Debian build service.
 
 ## IDE and Code Editing
 
@@ -795,11 +796,11 @@ Developers and Open Source authors now have a massive amount of services offerin
 ## Dev Blogging Sites
 
   * [dev.to](https://dev.to/) -程序员共享思想并互相帮助的地方.
-  * [medium.com](https://medium.com/) —变得更重要.
+  * [medium.com](https://medium.com/) — Get smarter about what matters to you.
   * [hashnode.com](https://hashnode.com/) —面向开发人员的无忧博客软件！.
 
 ## Miscellaneous
-  * [docsapp.io](https://www.docsapp.io/) —最简单的发布文档的方式，免费提供给开源
+  * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
   * [fullcontact.com](https://www.fullcontact.com/developer/pricing/)  —通过将社交资料添加到您的应用中，帮助您的用户更多地了解他们的联系人.  每月500次免费的Person API匹配
   * [superfeedr.com](https://superfeedr.com/)  —实时兼容PubSubHubbub的提要，导出，分析.  免费，定制更少
   * [screenshotlayer.com](https://screenshotlayer.com/)  —捕获任何网站的高度可定制的快照.  每月免费100张快照
@@ -807,7 +808,7 @@ Developers and Open Source authors now have a massive amount of services offerin
   * [readme.com](https://readme.com/) -易于使用的精美文档，免费提供给开源：请参阅 [here](https://readme.readme.io/docs/open-source).
   * [http2.pro](https://http2.pro) — HTTP / 2协议准备测试和客户端HTTP / 2支持检测API.
   * [SurveyMonkey.com](https://www.surveymonkey.com)  —创建在线调查.  在线分析结果.  免费计划每次调查仅允许10个问题和100个答复.
-  * [Filly](https://fill.ly) — Boost your web development workflow by reusing manual actions done previously on your app. Form filler for improved team collaboration.
+  * [Filly](https://fill.ly)  -通过重复使用以前在应用程序上完成的手动操作来增强您的Web开发工作流程.  填写表格以改善团队协作.
   * [ReqBin](https://www.reqbin.com/)  —在线发布HTTP请求.  流行的请求方法包括GET，POST，PUT，DELETE和HEAD.  支持标题和令牌认证.  包括用于保存您的请求的基本登录系统.
   * [PDFMonkey](https://www.pdfmonkey.io/)  —在仪表板中管理PDF模板，使用动态数据调用API，然后下载PDF.  每月提供1000个免费文档.
   * [FOSSA](https://fossa.com/) -可扩展的端到端管理，用于第三方代码，许可证合规性和漏洞.
