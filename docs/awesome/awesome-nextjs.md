@@ -50,7 +50,7 @@
 ## Boilerplates
 * [Next Graphql Apollo Typescript_Boostrap - Pobocha](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) -React + GraphQL + Next.js + Apollo + Scss +打字稿+ Prettier和EsLint样板
 * [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) -无服务器，Typescript，Jest，Github CI，SCSS，更漂亮的样板
-* [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) - Hosting NextJS app with Bootstrap in Firebase with Cloud Functions.
+* [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) -使用Cloud Functions在Firebase中使用Bootstrap托管NextJS应用.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) -带有Next.js和Redux的简单PWA样板.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) -带有电子邮件和oAuth身份验证的Next.js入门项目.
 * [RAN!](https://github.com/sly777/ran) -生产就绪样板，支持GraphQL，SSR，热重载，JS-in-JS，缓存等.
@@ -76,12 +76,13 @@
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) -Next.js的通用命名路由.
-* [Next-Pkg](https://github.com/onready/next-pkg) -具有以下功能的扩展Next.js服务器 [pkg](https://github.com/zeit/pkg) 支持.
+* [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) 支持.
 * [Next Plugins](https://github.com/zeit/next-plugins) -精选的Webpack和Next.js插件列表
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) -使用graphql-tag的.graphql和.gql文件的Next.js插件
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) -用于Next.js的Apollo Graphql集成
 * [Next SEO](https://github.com/garmeeh/next-seo) -SEO使Next.js变得容易
 * [Next UserAgent](https://github.com/tokuda109/next-useragent) -Next.js的UserAgent解析器
+* [Next Cookie](https://github.com/tokuda109/next-cookie) -用于Next.js的Cookie序列化程序和反序列化程序库.
 * [Nextein](https://github.com/elmasse/nextein) -基于Next.js的静态网站生成器.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) -轻松将博客添加到任何基于next.js的项目
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) -轻松部署无服务器应用程序.

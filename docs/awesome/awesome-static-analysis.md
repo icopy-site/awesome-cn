@@ -122,7 +122,7 @@
 * [Designite](http://www.designite-tools.com) ：copyright：-Designite支持检测各种体系结构，设计和实现的气味，计算各种代码质量指标以及趋势分析.
 * [Gendarme](http://www.mono-project.com/docs/tools+libraries/tools/gendarme/) -Gendarme检查包含ECMA CIL格式（Mono和.NET）代码的程序和库.
 * [NDepend](http://www.ndepend.com/) ：copyright：-测量，查询和可视化您的代码，避免意外的问题，技术负担和复杂性.
-* [Puma Scan](https://github.com/pumasecurity/puma-scan) -开发团队在Visual Studio中编写代码时，Puma Scan为常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）提供了实时安全的代码分析.
+* [Puma Scan](https://github.com/pumasecurity/puma-scan) -开发团队在Visual Studio中编写代码时，Puma Scan提供了针对常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）的实时安全代码分析.
 * [Refactoring Essentials](http://vsrefactoringessentials.com/) - The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 * [ReSharper](https://www.jetbrains.com/resharper/) :copyright: - Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
 * [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers) -基于Roslyn的FxCop分析仪实施.
@@ -131,7 +131,7 @@
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 * [SonarLint for Visual Studio](https://vs.sonarlint.org/) -SonarLint是Visual Studio 2015和2017的扩展，可为开发人员提供实时反馈，以反馈有关.NET代码中注入的新错误和质量问题.
 * [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) -与VS集成的基于Roslyn的静态分析器集合.
-* [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) -.NET编译器平台（“ Roslyn”）诊断分析器和代码修复.
+* [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) - .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 
 ## Crystal
 
@@ -237,10 +237,11 @@
 * [ck](https://github.com/mauricioaniche/ck) -通过处理源Java文件来计算Chidamber和Kemerer面向对象的指标
 * [ckjm](http://www.spinellis.gr/sw/ckjm/) -通过处理已编译的Java文件的字节码来计算Chidamber和Kemerer面向对象的指标
 * [CogniCrypt](https://www.eclipse.org/cognicrypt/) -检查Java源代码和字节码是否正确使用了加密API
-* [DesigniteJava](http://www.designite-tools.com/designitejava) ：copyright：-DesigniteJava支持各种体系结构，设计和实现气味的检测以及各种代码质量指标的计算.
+* [DesigniteJava](http://www.designite-tools.com/designitejava) ：copyright：-DesigniteJava支持各种架构，设计和实现气味的检测以及各种代码质量指标的计算.
 * [Error-prone](https://github.com/google/error-prone) -捕获常见的Java错误作为编译时错误
 * [fb-contrib](https://github.com/mebigfatguy/fb-contrib) -用于FindBugs的插件，带有其他错误检测器
 * [Find Security Bugs](https://find-sec-bugs.github.io/) -IDE / SonarQube插件，用于Java Web应用程序的安全审核.
+* [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  -检测并禁止调用特定的方法/类/字段（例如从没有字符集的文本流中读取）.  Maven / Gradle / Ant兼容.
 * [google-java-format](https://github.com/google/google-java-format) -Google样式重新格式化
 * [Hopper](https://github.com/cuplv/hopper) -用scala编写的针对JVM上运行的语言的静态分析工具
 * [HuntBugs](https://github.com/amaembo/huntbugs) -基于Procyon编译器工具的字节码静态分析器工具，旨在取代FindBugs.
@@ -275,7 +276,7 @@
 * [quality](https://github.com/jden/quality) -零配置代码和模块棉绒
 * [retire.js](https://github.com/RetireJS/retire.js) -扫描程序检测已知漏洞的JavaScript库的使用
 * [standard](http://standardjs.com/) -一个npm模块，用于检查Javascript Styleguide问题
-* [tern](https://github.com/ternjs/tern) -JavaScript代码分析器，可提供深度的跨编辑器语言支持
+* [tern](https://github.com/ternjs/tern) -JavaScript代码分析器，可提供深入的跨编辑器语言支持
 * [xo](https://github.com/xojs/xo)  -固执己见，但可配置的ESLint包装器，其中包含很多东西.  强制执行严格且易读的代码.
 * [yardstick](https://github.com/calmh/yardstick) ：警告：-Javascript代码指标
 
@@ -310,6 +311,7 @@
 * [Parse](https://github.com/psecio/parse) -静态安全扫描仪
 * [pdepend](https://pdepend.org/) -计算软件度量，例如PHP代码的圈复杂度.
 * [phan](https://github.com/etsy/phan) -etsy的现代静电分析仪
+* [PHP Architecture Tester](https://github.com/carlosas/phpat) -易于使用的PHP体系结构测试工具.
 * [PHP Assumptions](https://github.com/rskuipers/php-assumptions) -检查弱假设
 * [PHP Coding Standards Fixer](http://cs.sensiolabs.org/) -根据PSR-1，PSR-2和Symfony标准等标准修复代码.
 * [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) -用于PHP的静态代码分析器.
@@ -338,7 +340,7 @@
 * [Progpilot](https://github.com/designsecurity/progpilot) -出于安全目的的静态分析工具
 * [Psalm](https://getpsalm.org/) -用于在PHP应用程序中查找类型错误的静态分析工具
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) -可视化指标和源代码
-* [RIPS](https://www.ripstech.com/) ：copyright：-用于PHP脚本漏洞的静态源代码分析器
+* [RIPS](https://www.ripstech.com/) ：copyright：-用于PHP脚本中漏洞的静态源代码分析器
 * [Tuli](https://github.com/ircmaxell/Tuli) -静态分析引擎
 * [twig-lint](https://github.com/asm89/twig-lint) -twig-lint是用于您的twig文件的皮棉工具.
 * [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) -用于检测和纠正PHP（4.0或更高版本）Web应用程序中的输入验证漏洞的工具，并通过结合静态分析和数据挖掘来预测误报.
@@ -369,11 +371,11 @@
 * [vulture](https://github.com/jendrikseipp/vulture) -在Python代码中找到未使用的类，函数和变量
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -有史以来最严格，最有主见的python linter
 * [wily](https://github.com/tonybaloney/wily) -用于归档，探索和绘制Python源代码复杂性的命令行工具
-* [xenon](https://github.com/rubik/xenon) -使用监视代码的复杂性 [`radon`](https://github.com/rubik/radon)
+* [xenon](https://github.com/rubik/xenon) -使用以下命令监视代码复杂性 [`radon`](https://github.com/rubik/radon)
 
 ## Python wrappers
 
-* [ciocheck](https://github.com/ContinuumIO/ciocheck)  -linter，格式化程序和测试套件帮助器.  作为短绒棉，它是包裹在“ pep8”，“ pydocstyle”，“ flake8”和“ pylint”周围的包装纸.
+* [ciocheck](https://github.com/ContinuumIO/ciocheck)  -linter，格式化程序和测试套件帮助器.  作为短绒棉，它是围绕“ pep8”，“ pydocstyle”，“ flake8”和“ pylint”的包装纸.
 * [flake8](https://github.com/PyCQA/flake8) -围绕pyflakes，pycodestyle和mccabe的包装器
 * [multilint](https://github.com/adamchainz/multilint) -围绕“ flake8”，“ isort”和“ modernize”的包装
 * [prospector](https://github.com/PyCQA/prospector) -在`pylint`，`pep8`，`mccabe`等周围包装
@@ -417,7 +419,7 @@
 * [clippy](https://github.com/Manishearth/rust-clippy) -防止常见错误并改进Rust代码的代码仓库
 * [electrolysis](https://github.com/Kha/electrolysis) -通过在精益定理证明者中将其转换为定义来正式验证Rust程序的工具.
 * [herbie](https://github.com/mcarton/rust-herbie-lint) -在使用数值不稳定的浮点表达式时，在包装箱中添加警告或错误.
-* [linter-rust](https://github.com/AtomLinter/linter-rust) -使用rustc和货物在Atom中整理您的Rust文件
+* [linter-rust](https://github.com/AtomLinter/linter-rust) -使用Rustc和货物在Atom中整理您的Rust文件
 * [Rust Language Server](https://github.com/rust-lang-nursery/rls) -支持诸如“转到定义”，符号搜索，重新格式化和代码完成之类的功能，并支持重命名和重构.
 * [rustfix](https://github.com/killercup/rustfix) -阅读并应用rustc（和第三方皮棉，如clippy提供的建议）提出的建议.
 
@@ -436,7 +438,7 @@
 
 ## Solidity
 
-* [slither](https://github.com/trailofbits/slither) -静态分析框架，该框架运行一套漏洞检测器，打印有关合同明细的可视信息，并提供可轻松编写自定义分析的API
+* [slither](https://github.com/trailofbits/slither) -静态分析框架，该框架运行一套漏洞检测器，可打印有关合同详细信息的可视信息，并提供可轻松编写自定义分析的API
 * [solium](https://github.com/duaraghav8/Solium) -Solium是一台可以识别和修复Solidity智能合约中的样式和安全问题的工具
 
 ## SQL
@@ -480,7 +482,7 @@
 * [CAST Highlight](https://www.castsoftware.com/products/highlight) :copyright: - Commercial Static Code Analysis which runs locally, but uploads the results to its cloud for presentation. Supports: Java, JavaScript, Python, JSP, COBOL, SAP/Abap, C/C++, C#, PHP, Visual Basic, T-SQL, PL/SQL.
 * [Checkmarx CxSAST](https://www.checkmarx.com/products/static-application-security-testing/) :copyright: - Commercial Static Code Analysis which doesn't require pre-compilation. Supports: Android (Java), Apex and VisualForce, ASP, C#, C/C++, Go, Groovy, HTML5, Java, JavaScript, Node.js, Objective C, Perl, PhoneGap, PHP, Python, Ruby, Scala, Swift, VB.NET, VB6, VBScript
 * [ClassGraph](https://github.com/classgraph/classgraph)  -用于查询或可视化类元数据或类相关性的类路径和模块路径扫描程序.  支持JVM语言.
-* [coala](https://coala.io/) -用于创建代码分析的语言独立框架-支持 [over 60 languages](https://coala.io/languages) 默认
+* [coala](https://coala.io/) -用于创建代码分析的语言独立框架-支持 [over 60 languages](https://coala.io/languages) 默认情况下
 * [Cobra](http://spinroot.com/cobra/)  ：copyright：-NASA喷气推进实验室的结构源代码分析器.  支持C，C ++，Ada和Python.
 * [codeburner](https://github.com/groupon/codeburner) -提供统一的界面来对发现的问题进行排序并采取行动
 * [CodeFactor](https://codefactor.io) :copyright: - Static Code Analysis for C#, C, C++, CoffeeScript, CSS, Groovy, GO, JAVA, JavaScript, Less, Python, Ruby, Scala, SCSS, TypeScript.
@@ -595,7 +597,7 @@
 * [ale](https://github.com/w0rp/ale) -Vim和NeoVim的异步Lint引擎，支持多种语言
 * [Attackflow Extension](https://www.attackflow.com/Extension) ：copyright：-用于Visual Studio的Attackflow插件，它使开发人员无需任何先验知识就可以在源代码中实时发现关键的安全错误.
 * [DevSkim](https://github.com/Microsoft/DevSkim)  -在线实时安全分析.  与多种编程语言和IDE（VS，VS Code，Sublime Text等）配合使用.
-* [Puma Scan](https://github.com/pumasecurity/puma-scan) -开发团队在Visual Studio中编写代码时，Puma Scan为常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）提供了实时安全的代码分析.
+* [Puma Scan](https://github.com/pumasecurity/puma-scan) -开发团队在Visual Studio中编写代码时，Puma Scan提供了针对常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）的实时安全代码分析.
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET that integrates into Visual Studio 2015 and newer. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 * [vint](https://github.com/Kuniwak/vint) -由Python实现的快速且高度可扩展的Vim脚本语言Lint.
 
@@ -659,7 +661,7 @@
 
 ## Web services
 * [Codacy](https://www.codacy.com/) ：copyright：-代码分析可以更快地发布更好的代码.
-* [Code Climate](https://codeclimate.com/) :copyright: - The open and extensible static analysis platform, for everyone.
+* [Code Climate](https://codeclimate.com/) ：copyright：-开放和可扩展的静态分析平台，适合所有人.
 * [Code Inspector](https://www.code-inspector.com) ：copyright：-支持10多种语言的代码质量和技术债务管理平台.
 * [Codeac](https://www.codeac.io?ref=awesome-static-analysis)  ：copyright：-自动代码审查工具与GitHub，Bitbucket和GitLab（甚至是自托管）集成.  适用于JavaScript，TypeScript，Python，Ruby，Go，PHP，Java，Docker等.  （免费开源）
 * [CodeFactor](https://codefactor.io) ：copyright：-在GitHub或BitBucket上针对仓库的自动代码分析.

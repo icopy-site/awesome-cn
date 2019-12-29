@@ -131,7 +131,7 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 - 17 - [Hacktoberfest in Unicam](https://www.eventbrite.it/e/biglietti-hacktoberfest-in-unicam-74954840947) -Camerino（MC）-Digital Ocean Hacktoberfest相关事件.
 - 17 - [Hacktoberfest Brescia 2019](https://www.meetup.com/Meetup-GDG-Brescia/events/264866119/) -布雷西亚-Digital Ocean Hacktoberfest相关事件.
 - 17 - [.NET Conf 2019 Verona](https://www.eventbrite.it/e/biglietti-tutte-le-novita-di-net-core-3-65353918329) -维罗纳-Microsoft .NET Conf 2019本地活动.
-- 17-18 - [ISF Festival 2019](https://festival.informaticisenzafrontiere.org/?page_id=2) -罗韦雷托（TN）-年度ISF（Informatici Senza Frontiere-无国界信息学）会议.
+- 17-18 - [ISF Festival 2019](https://festival.informaticisenzafrontiere.org/?page_id=2) -罗韦雷托（TN）-年度ISF（无国界信息-无国界信息）会议.
 - 17-18 - [SymphonyDay](https://www.symfonyday.it/) -维罗纳-专门为交响乐开发者举办的意大利会议.
 - 18-19 - [Hacktoberfest Naples 2019](https://www.eventbrite.it/e/biglietti-hacktoberfest-napoli-1819-ottobre-2019-74668689059) -那不勒斯-Digital Ocean Hacktoberfest相关事件.
 - 19 - [Django Girls Palermo](https://djangogirls.org/palermo/) -巴勒莫-“妇女免费编程讲习班”.
@@ -176,7 +176,7 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/READM
 - 6 - [Firenze Blockchain day](https://www.eventbrite.it/e/biglietti-firenze-blockchain-day-77871827733) -佛罗伦萨-今天的区块链经济.
 - 10 - [Torino Hacknight](http://torino.hacknight.it/) -Torino-有关OpenStreeMap和HOT（人道主义Openstreetmap小组）的开源黑客.
 - 12 - [Cyber Warfare Conference](https://www.eucacs.org/en/) -米兰-战争的演进和新领域（信息，网络和混合）.
-- 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) -卡塞塔-“妇女免费编程讲习班”.
+- 13 - [Django Girls Caserta](https://djangogirls.org/caserta/) -卡塞塔-妇女免费编程讲习班.
 - 14 - [Global AI Bootcamp](https://globalai.community/global-ai-bootcamp/italy-torino) -都灵-Microsoft Azure上的人工智能.
 - 14 - [Global AI Bootcamp](https://globalai.community/global-ai-bootcamp/italy-caserta) -Caserta-Microsoft Azure上的人工智能.
 - 14 - [Scratch and Christmas](https://www.eventbrite.co.uk/e/scratch-and-christmas-tickets-68676107085) -热那亚-为有趣的圣诞节项目而刮刮乐.

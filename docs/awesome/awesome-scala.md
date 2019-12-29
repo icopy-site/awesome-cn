@@ -85,9 +85,9 @@
 * **[Play ★ 9229 ⧗ 0](https://github.com/playframework/playframework)**-使用Java和Scala可以轻松构建可扩展，快速且实时的Web应用程序.
 * [Play Pagelets ★ 47 ⧗ 11](https://github.com/splink/pagelets) -用于Play框架的模块，以优雅简洁的方式构建弹性和模块化的Play应用程序.
 * [Reactive ★ 194 ⧗ 6](https://github.com/nafg/reactive) -FRP和Web抽象，可以插入任何Web框架（当前仅具有Lift的绑定）.
-* **[scalajs-react ★ 1135 ⧗ 0](https://github.com/japgolly/scalajs-react)**-Facebook在Scala.JS上的React.
+* **[scalajs-react ★ 1135 ⧗ 0](https://github.com/japgolly/scalajs-react)** - Facebook's React on Scala.JS.
 * **[Scalatra ★ 2146 ⧗ 0](https://github.com/scalatra/scalatra)**-受Sinatra启发的Tiny Scala高性能，异步Web框架.
-* **[Skinny Framework ★ 621 ⧗ 1](https://github.com/skinny-framework/skinny-framework)**-Scalatra上的全栈Web应用程序框架，可在Scala中进行快速开发.
+* **[Skinny Framework ★ 621 ⧗ 1](https://github.com/skinny-framework/skinny-framework)** - A full-stack web app framework upon Scalatra for rapid Development in Scala.
 * [suzaku](https://github.com/suzaku-io/suzaku) -用于Scala的Suzaku Web UI框架
 * **[Unfiltered ★ 673 ⧗ 6](https://github.com/unfiltered/unfiltered)**-一组模块化的非标准原语，用于为Scala中的HTTP和WebSocket请求提供服务.
 * [Xitrum](http://xitrum-framework.github.io/) -在Netty，Akka和Hazelcast之上的异步集群Scala Web框架和HTTP（S）服务器融合.
@@ -111,6 +111,7 @@
 * [form-binder ★ 17 ⧗ 29](https://github.com/tminglei/form-binder) -微型数据绑定和验证框架，非常易于使用和破解
 * [Monkeytail ★ 55](https://github.com/sksamuel/monkeytail) -一组用于猫的验证宏和帮助程序.
 * [Octopus ★ 15](https://github.com/krzemin/octopus) -用于无模板验证的Scala库
+* [Dupin ★ 7](https://github.com/yakivy/dupin) -Scala的最小，惯用，可定制的验证.
 
 ## i18n
 
@@ -222,7 +223,7 @@
 
 *用于科学计算，数据分析和数值处理的图书馆.
 
-* **[Algebird ★ 1478 ⧗ 0](https://github.com/twitter/algebird)** - Abstract Algebra for Scala.
+* **[Algebird ★ 1478 ⧗ 0](https://github.com/twitter/algebird)**-Scala的抽象代数.
 * [Axle ★ 51 ⧗ 9](https://github.com/axlelang/axle) -用于科学云计算的基于Spire的DSL.
 * **[BigDL ★ 1662 ⧗ 0](https://github.com/intel-analytics/BigDL)**-BigDL是Apache Spark的分布式深度学习库.
 * **[Breeze ★ 2028 ⧗ 0](https://github.com/scalanlp/breeze)**-Breeze是Scala的数值处理库.
@@ -266,7 +267,7 @@
 * [Schemer](https://github.com/indix/schemer)  -CSV，TSV，JSON，AVRO和Parquet架构的架构注册表.  支持模式推断和GraphQL API.
 * [Scio](https://github.com/spotify/scio) -用于的Scala API [Apache Beam](https://beam.apache.org/) 和 [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - 没有
 * [Scrunch](http://crunch.apache.org/scrunch.html) -用于的Scala包装器 [Apache Crunch](http://crunch.apache.org/index.html) 它提供了用于编写，测试和运行MapReduce管道的框架.
-* [Spark](http://spark.apache.org/)  -闪电般的快速集群计算-迭代算法（内存缓存）的速度比Hadoop快100倍，单遍MapReduce作业的速度比Hadoop快10倍.  与支持YARN的Hadoop群集兼容，它可以在Mesos上运行，也可以独立运行.
+* [Spark](http://spark.apache.org/)  -闪电般的快速群集计算-迭代算法（内存缓存）的速度比Hadoop快100倍，单遍MapReduce作业的速度比Hadoop快10倍.  与支持YARN的Hadoop群集兼容，它可以在Mesos上运行，也可以独立运行.
 * [spark-deployer ★ 69 ⧗ 29](https://github.com/KKBOX/spark-deployer) -一个sbt插件，可帮助部署Apache Spark独立集群并在AWS EC2等云系统上提交作业.
 * [Sparkta ★ 320 ⧗ 1](https://github.com/Stratio/sparkta) -基于Spark流的实时聚合.
 * [Sparkplug ★ 4 ⧗ 1](https://github.com/indix/sparkplug) -Spark包使用基于SQL的规则来“塞住”数据中的漏洞
@@ -334,7 +335,7 @@
 
 ## Extensions
 
-*比例扩展.
+* Scala扩展名.*
 
 * [Ammonite-Ops](http://lihaoyi.github.io/Ammonite/#Ammonite-Ops) -在Scala中像在Bash shell中一样方便，安全，方便地进行文件系统操作.
 * **[better-files ★ 824 ⧗ 0](https://github.com/pathikrit/better-files) **-简单，安全和直观的Scala I / O.  更好的文件是围绕Java NIO的无依赖实用的瘦Scala包装器.
@@ -347,8 +348,8 @@
 * [Eff ★ 220 ⧗ 6](https://github.com/atnos-org/eff) -可扩展效果是monad变形器的替代方案，用于以功能方式计算效果.
 * [enableIf.scala ★ 40 ⧗ 25](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
 * [Enumeratum ★ 374 ⧗ 0](https://github.com/lloydmeta/enumeratum)  -用密封的案例对象族替换Scala枚举的宏.  这允许对编译器进行其他检查，例如在match语句中是否缺少大小写.  对Json库和Play框架具有附加支持.
-* [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) - Easy way to create Free Monad for Cats and Scalaz using Scala macros with first-class Intellij support.
-* [Freedsl ★ 25 ⧗ 5](https://github.com/ISCPIF/freedsl) -一个实现可组合副作用的库，在包装类型和自由monad上编织类型类.
+* [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) -使用具有一流Intellij支持的Scala宏轻松创建Cats和Scalaz免费Monad的简便方法.
+* [Freedsl ★ 25 ⧗ 5](https://github.com/ISCPIF/freedsl) -实现可组合副作用的库，在包装类型和自由monad上编织类型类.
 * [Freestyle ★ 430 ⧗ 0](https://github.com/frees-io/freestyle) -以FP为中心的Scala库的内聚和实用框架.
 * [Hamsters ★ 216 ⧗ 0](https://github.com/scala-hamsters/hamsters)  -迷你Scala实用程序库.  与功能编程初学者兼容.  具有验证功能，monad转换器，HLists和Union类型.
 * [idid ★ 4 ⧗ 43](https://github.com/lucastorri/idid) -为不同ID类型定义通用接口的库.
@@ -365,7 +366,7 @@
 * [Records for Scala ★ 125 ⧗ 55](https://github.com/scala-records/scala-records) -基于结构细化类型和宏的Scala标记记录.
 * [refined ★ 447 ⧗ 3](https://github.com/fthomas/refined) -具有编译和运行时检查的简单优化类型
 * [Resolvable ★ 0 ⧗ 94](https://github.com/stanch/resolvable) -用于优化从多种格式的多个端点获取不可变数据结构的库.
-* [Squid ★ 88 ⧗ 9](https://github.com/epfldata/squid) - Type-safe metaprogramming framework with typed, hygienic quasiquotes.
+* [Squid ★ 88 ⧗ 9](https://github.com/epfldata/squid) -具有类型化的卫生类引用的类型安全元编程框架.
 * **[Scala Async ★ 778 ⧗ 0](https://github.com/scala/async)**-Scala的异步编程工具.
 * [Scala Graph](http://www.scala-graph.org/) -具有基本图形功能的Scala库，可以无缝地集成到Scala标准集合库中.
 * [scala.meta](http://scalameta.org/) -用于Scala的元编程工具包的无尘室实现.
@@ -473,7 +474,7 @@
 
 * [better-monadic-for ★ 371 ⧗ 8](https://github.com/oleg-py/better-monadic-for) -Scala编译器插件，可为模式和理解力提供应有的爱
 * **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)**-Scala库可从Maven / Ivy存储库中获取依赖项
-* [mdoc ★ 94 ⧗ 0](https://github.com/scalameta/mdoc) -Scala的Typechecked Markdown文档 [https://scalameta.org/mdoc/](https://scalameta.org/mdoc/)
+* [mdoc ★ 94 ⧗ 0](https://github.com/scalameta/mdoc) -Scala的Typekecked降价文档 [https://scalameta.org/mdoc/](https://scalameta.org/mdoc/)
 * [sbt-api-mappings ★ 38 ⧗ 67](https://github.com/ThoughtWorksInc/sbt-api-mappings) -一个Sbt插件，用于解析到常见Scala库的外部API链接.
 * **[sbt-assembly ★ 1522](https://github.com/sbt/sbt-assembly) **-部署胖JAR.  重新启动进程.
 * [sbt-buildinfo ★ 274 ⧗ 1](https://github.com/sbt/sbt-buildinfo) -从构建定义生成Scala源.
@@ -578,7 +579,7 @@
 *资源 [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
 * [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) -社区驱动的Scala练习.
 * [Essential Scala](https://underscore.io/books/essential-scala/) - 没有
-* [Functional Programming in Scala](https://www.coursera.org/specializations/scala)  -Martin Odersky等人创建的Coursera专业化课程（5门课程）.  在EPFL（瑞士洛桑联邦理工学院）.
+* [Functional Programming in Scala](https://www.coursera.org/specializations/scala)  -Martin Odersky等人创建的Coursera专业化课程（5门课程）.  在洛桑联邦理工学院（EPFL）.
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - 没有
 * [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) -教程驱动的Scala简介
 * [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) -Dmytro Mitin的视频课程
@@ -632,7 +633,7 @@
 * [Scalariform ★ 116 ⧗ 47](https://github.com/daniel-trinh/scalariform) -Scala源代码格式化程序
 * [Scalastyle ★ 463 ⧗ 1](https://github.com/scalastyle/scalastyle) -Scala样式检查器.
 * [Scalatex ★ 236 ⧗ 12](https://github.com/lihaoyi/Scalatex) -可编程的Typesafe文档生成
-* [Scapegoat ★ 230 ⧗ 6](https://github.com/sksamuel/scapegoat) -用于静态代码分析的Scala编译器插件
+* [Scapegoat ★ 230 ⧗ 6](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)）-Scala库的搜索引擎
 * [Scoverage](https://github.com/scoverage) -Scala代码覆盖率工具
 * **[Wartremover ★ 662 ⧗ 1](https://github.com/puffnfresh/wartremover)**-Wartremover灵活的Scala代码整理工具

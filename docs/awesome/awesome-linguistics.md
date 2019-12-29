@@ -14,6 +14,7 @@
 * [Natural](https://github.com/NaturalNode/natural) -Node.js的通用自然语言工具.
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) -用于构建Python程序以使用人类语言数据的最完整平台.
 * [Snowball](http://snowball.tartarus.org/) -Snowball是一种语言，可以轻松表示词干算法.
+* [Spacy](https://spacy.io/) -Python中具有行业优势的国家语言处理.
 * [UralicNLP](https://github.com/mikahama/uralicNLP)  -一个开放源代码的Python库，用于处理形态丰富且绝大部分濒临灭绝的Uralic语言.  它可以对许多乌拉尔语进行形态分析，生成，词形化，歧义消除和词汇查找.
 
 ### Algorithms
