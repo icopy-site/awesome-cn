@@ -27,7 +27,7 @@
 
 - [NewRelic plugin](https://github.com/jippi/cakephp-newrelic/tree/cake3) -一个完整的插件，可为CakePHP应用程序实现完整的New Relic集成，包括CLI命名，异常发送，自定义计时等.
 
-- [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) -一个简单的插件，可以使用New Relic PHP代理仅对CakePHP 3应用程序进行名称交易和浏览器计时.
+- [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) - A simple plugin that enables just name transaction and browser timing for a CakePHP 3 application using the New Relic PHP agent.
 
 ## Asset Management
 *用于管理，压缩和最小化网站资产的工具.*
@@ -42,7 +42,7 @@
 *用于审核和日志记录的插件.*
 
 - [AuditStash plugin](https://github.com/lorenzo/audit-stash) -灵活而坚实的审核日志跟踪.
-- [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) -简单而独立的日志记录到数据库而不是文件.
+- ：草莓： [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) -简单而独立的日志记录到数据库而不是文件.
 - [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) -插件以允许将当前登录的用户传递到模型层.
 - [Version plugin](https://github.com/josegonzalez/cakephp-version) -有助于版本化数据库实体的插件.
 
@@ -75,7 +75,7 @@
 *用于分析，解析和处理代码库的插件.
 
 - ：草莓： [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) -通过将注释添加到现有代码中，类似于对新代码进行烘烤，来帮助改善IDE的支持.
-- [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) -提供测试增强功能和TDD支持作为浏览器后端.
+- ：草莓： [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) -提供测试增强功能和TDD支持作为浏览器后端.
 
 ## Debugging
 *用于调试的插件.*
@@ -93,7 +93,7 @@
 *实现依赖项注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) - Dependency injection container plugin that adds the ability to configure object instances and their dependencies before they are used, and to store them into a container class for easy access.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -106,7 +106,7 @@
 - [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) -电子邮件传输插件，用于通过Elastic Email API发送电子邮件.
 - [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) -具有预览和发件人外壳的电子邮件队列插件.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) -电子邮件帮助程序，布局等.
-- [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
+- [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) -电子邮件传输插件，用于通过Mailgun发送电子邮件.
 - [SendGrid plugin](https://github.com/sprintcube/cakephp-sendgrid) -电子邮件传输插件，用于通过SendGrid API发送电子邮件.
 
 ## Environment
@@ -183,7 +183,7 @@
 *围绕迁移和升级的插件和资源.
 
 - [Migrations plugin](https://github.com/cakephp/migrations) -（DB）迁移插件.
-- [Upgrade app](https://github.com/cakephp/upgrade) -2.x =&gt; 3.x的官方升级应用程序.
+- ：草莓： [Upgrade app](https://github.com/cakephp/upgrade) -适用于2.x =&gt; 3.x和3.x =&gt; 4.x的官方升级应用.
 - [Upgrade app (extended)](https://github.com/dereuromark/upgrade) -适用于2.x =&gt; 3.x和3.x之间的扩展升级应用程序.
 - [Upgrade/Migration Guide](https://book.cakephp.org/3.0/en/appendices.html) -官方迁移指南.
 
@@ -194,7 +194,7 @@
 - [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -一个易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个用于向您的应用添加枚举列表支持的插件.
-- [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
 - [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以还原到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.
@@ -202,7 +202,7 @@
 - [CurrencyConverter plugin](https://github.com/AlessandroMinoccheri/cakephp-currency-converter) -一个将货币转换为另一种货币的插件.
 - [Dashboard plugin](https://github.com/gourmet/dashboard) -为蛋糕建立漂亮的仪表板.
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) -用于导出，导入和管理数据库备份的插件.
-- [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  -允许访问者发送快速简便的反馈信息，包括.  通过边栏形式的屏幕截图.
+- [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  -允许访问者发送快速简便的反馈，包括  通过边栏形式的屏幕截图.
 - ：草莓： [Flash plugin](https://github.com/dereuromark/cakephp-flash) -针对您的应用程序的更强大的Flash消息.
 - [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) -允许使用hashid来不向用户公开数据库id.
 - [Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) -监视您的应用程序的声音（例如，数据库是否可用和最新）.
@@ -436,7 +436,7 @@
 ## CakePHP Videos
 *与CakePHP有关的精彩视频.*
 
-- [CakePHP](https://www.youtube.com/user/CakePHP) - Channel about CakePHP videos.
+- [CakePHP](https://www.youtube.com/user/CakePHP) -有关CakePHP视频的频道.
 
 
 ## CakePHP Tutorials
@@ -453,7 +453,6 @@
 ## CakePHP Internals Reading
 *阅读与CakePHP内部和决策相关的材料.
 
-- [Core Google Group](https://groups.google.com/forum/#!forum/cakephp-core) -关于CakePHP核心的讨论.
 - [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
 
 ## Conferences

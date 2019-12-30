@@ -101,6 +101,7 @@
 - [Generate release notes based on your events](https://github.com/Decathlon/release-notes-generator-action)
 - [Create a GitHub wiki page based on the provided markdown file](https://github.com/Decathlon/wiki-page-creator-action)
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
+- [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action)
 
 ### Collection of Actions
 
@@ -155,7 +156,6 @@
 - [Automatically add Label or Assignee to an Issue](https://github.com/Naturalclar/issue-action)
 - [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction)
 - [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
-- [Restrict cursing action](https://github.com/sobolevn/restrict-cursing-action) -您项目的主持人漫游器，自动删除不良语言.
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
 - [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后，对构建的Jekyll网站进行区分，并将结果注释回GitHub.
 - [Branch Protection Bot](https://github.com/benjefferies/branch-protection-bot) -在分支机构保护中暂时禁用并重新启用“包括管理员”选项.

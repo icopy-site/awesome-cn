@@ -263,7 +263,7 @@
   * [everystep-automation.com](https://www.everystep-automation.com/) —记录和重放在Web浏览器中执行的所有步骤并创建脚本，...免费，选项更少
   * [gridlastic.com](https://www.gridlastic.com/) —通过免费计划最多可同时进行4个硒节点的Selenium Grid测试/ 10个网格启动/每月4,000个测试分钟
   * [percy.io](https://percy.io)  -将视觉测试添加到任何Web应用程序，静态网站，样式指南或组件库.  10个团队成员，演示应用程序和无限的项目，每月5,000张快照.
-  * [saucelabs.com](https://saucelabs.com/) —跨浏览器测试，Selenium测试和移动测试， [free for Open Source](https://saucelabs.com/open-source)
+  * [saucelabs.com](https://saucelabs.com/) — Cross browser testing, Selenium testing and mobile testing, [free for Open Source](https://saucelabs.com/open-source)
   * [testingbot.com](https://testingbot.com/) — Selenium浏览器和设备测试， [free for Open Source](https://testingbot.com/open-source)
   * [tesults.com](https://www.tesults.com)  —测试结果报告和测试用例管理.  与流行的测试框架集成.  开源软件开发人员，个人，教育工作者和入门小团队可以要求基本免费项目之外的折扣和免费产品.
 
@@ -296,7 +296,7 @@
   * [snyk.io](https://snyk.io)  —可以在开源依赖项中找到并修复已知的安全漏洞.  开源项目的无限测试和修复.  每月最多只能为您的私人项目进行200次测试.
   * [Sqreen](https://www.sqreen.com/)  —针对Web应用程序和API的应用程序安全监视和保护（RASP，WAF等）.  免费提供1个应用程序和300万个请求.
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) —对任何SSL Web服务器的配置进行非常深入的分析
-  * [Sucuri SiteCheck](https://sitecheck.sucuri.net) -免费的网站安全检查和恶意软件扫描程序
+  * [Sucuri SiteCheck](https://sitecheck.sucuri.net) - Free website security check and malware scanner
   * [threatconnect.com](https://threatconnect.com)  —威胁情报：它是为开始学习网络威胁情报的个人研究人员，分析人员和组织而设计的.  最多释放3位用户
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/)  —漏洞自动扫描.  免费计划允许每周XSS扫描
 
@@ -387,7 +387,7 @@
 ## Email
 
   * [10minutemail](https://10minutemail.com) -免费的临时电子邮件进行测试.
-  * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
+  * [AnonAddy](https://anonaddy.com) -开源匿名电子邮件转发，免费创建无限的电子邮件别名
   * [biz.mail.ru](https://biz.mail.ru/) — 5,000个邮箱，每个自定义域每个25 GB，带有DNS托管
   * [Burnermail](https://burnermail.io/) –免费5个刻录机电子邮件地址，1个邮箱，7天邮箱历史记录
   * [Buttondown](https://buttondown.email/)  —通讯服务.  多达1,000个免费订阅者
@@ -477,7 +477,7 @@
   * [heroku.com](https://www.heroku.com/) —将您的应用托管在云中，单进程应用免费
   * [kubesail.com](https://kubesail.com)  -为开发人员设计的托管Kubernetes命名空间服务.  免费的开发人员帐户附带1个CPU核心，512MB RAM，100MB存储空间和1个域.
   * [mendix.com](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each
-  * [okteto.com](https://okteto.com)  -专为开发人员设计的托管Kubernetes服务.  免费的开发人员帐户带有五个命名空间，每个命名空间都具有8GB的RAM和4个CPU.
+  * [okteto.com](https://okteto.com)  -专为开发人员设计的托管Kubernetes服务.  免费的开发人员帐户带有三个命名空间，每个命名空间具有8GB的RAM，4个CPU和150GB的磁盘空间.
   * [outsystems.com](https://www.outsystems.com/) —用于本地或云的企业Web开发PaaS，免费的“个人环境”产品允许无限的代码和高达1 GB的数据库
   * [pipedream.com](https://pipedream.com)  -为开发人员构建的集成平台.  根据任何触发器开发任何工作流程.  工作流是代码，您可以运行 [for free](https://docs.pipedream.com/pricing/) .  无需管理服务器或云资源.
   * [pythonanywhere.com](https://www.pythonanywhere.com/)  — Cloud Python应用托管.  初学者帐户免费，您的username.pythonanywhere.com域中有1个Python Web应用程序，512 MB私有文件存储，1个MySQL数据库
@@ -595,7 +595,7 @@
    * [serveo.net](https://serveo.net/) —使用SSH隧道（包括SSH GUI可以通过HTTP重放请求）将任何本地端口快速公开到伺服子域上的公共Internet.
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -Google STUN
-   * [webhookrelay.com](https://webhookrelay.com) — Manage, debug, fan-out and proxy all your webhooks to public or internal (ie: localhost) destinations. Also, expose servers running in a private network over a tunnel by getting a public HTTP endpoint (`https://yoursubdomain.webrelay.io <----> http://localhost:8080`).
+   * [webhookrelay.com](https://webhookrelay.com)  —管理，调试，扇出并将所有Webhook代理到公共或内部（即localhost）目标.  另外，通过获取公共HTTP终结点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080`）来公开通过隧道在专用网络中运行的服务器.
    * [ZeroTier](https://www.zerotier.com)  — FOSS管理的虚拟以太网即服务.  免费计划的100个客户端的无限端到端加密网络.  台式机/手机/ NA的客户端；  Web界面，用于配置自定义路由规则并批准专用网络上的新客户端节点.
 
 ## Issue Tracking and Project Management
@@ -692,7 +692,7 @@
   * [unsplash.com](https://unsplash.com/) -用于商业和非商业目的的免费库存照片（随心所欲许可）.
   * [vectr.com](https://vectr.com/) —适用于Web +桌面的免费设计应用程序.
   * [walkme.com](https://www.walkme.com/) —企业级指导和参与平台，免费计划3次穿越，每次步行最多5步.
-  * [Webflow](https://webflow.com)  -具有动画和网站托管的所见即所得网站生成器.  2个项目免费.
+  * [Webflow](https://webflow.com) - WYSIWYG web site builder with animations and website hosting. Free for 2 projects.
   * [whimsical.com](https://whimsical.com/)  -协作流程图，线框，便签和思维导图.  最多创建4个免费板.
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
 
@@ -737,6 +737,7 @@
    * [jsfiddle.net](https://jsfiddle.net/) — JS Fiddle是前端Web的游乐场和代码共享站点，也支持协作.
    * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)  一些REST API端点以JSON格式返回一些虚假数据.  如果要在本地运行服务器，也可以使用源代码.
    * [Katacoda](https://katacoda.com) —用于软件工程师的交互式学习和培训平台，可帮助开发人员学习和公司提高采用率.
+   * [micro-jaymock](https://micro-jaymock.now.sh/) -微型API模拟微服务，用于生成伪造的JSON数据.
    * [mockable.io](https://www.mockable.io/)  — Mockable是一种简单的可配置服务，用于模拟RESTful API或SOAP Web服务.  此在线服务使您可以快速定义REST API或SOAP端点，并使它们返回JSON或XML数据.
    * [repl.it](https://repl.it/) —用于各种程序语言的云编码环境.
    * [stackblitz.com](https://stackblitz.com/) — Angular＆React在线VS Code IDE.
@@ -785,7 +786,7 @@
   * [currencylayer.com](https://currencylayer.com/) —为您的企业提供可靠的汇率和货币转换，每月免费提供1,000个API请求
   * [currencystack.io](https://currencystack.io/) — 154种货币的生产就绪型实时汇率.
   * [exchangerate-api.com](https://www.exchangerate-api.com)  -易于使用的货币转换JSON API.  免费套餐，无请求限制.
-  * [fraudlabspro.com](https://www.fraudlabspro.com) — Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
+  * [fraudlabspro.com](https://www.fraudlabspro.com)  —帮助商家防止付款欺诈和拒付.  每月提供500个查询的免费Micro Plan.
   * [mailpop.in](https://mailpop.in) -通过上下文信息充分利用您的Stripe通知.
   * [vatlayer.com](https://vatlayer.com/) —即时增值税号验证和欧盟增值税税率API，每月免费100个API请求
 

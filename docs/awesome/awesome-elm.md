@@ -12,7 +12,7 @@
 
 &gt;社区驱动的有用Elm教程，库和软件的列表.
 
-受启发 [awesome](#more-awesome)  列出的东西.  随时<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
+受到启发 [awesome](#more-awesome)  列出的东西.  随时<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
 
 
 - <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">贡献准则</a>
@@ -20,7 +20,7 @@
 
 ## Examples
 
-*一些用Elm编写的优秀应用程序.
+*一些用Elm编写的优秀应用程序.*
 
 * [Builtwithelm](http://builtwithelm.co/) -使用Elm构建的网站，以及使用Elm构建的项目和应用程序的列表.
 * [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) -具有CRUD操作，身份验证，路由，分页等功能的全栈Elm应用程序. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
@@ -299,7 +299,6 @@
 ### Visual Studio Code
 
 * [ElmLS](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode) -Elm语言服务器集成
-* [Elm Visual Studio Code Support](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) -语法突出显示，摘要，功能信息，REPL，Reactor支持（Web服务器/调试器）-启动/停止
 * [Elmmet: Emmet for Elm (Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=necinc.elmmet) -Emmetio缩写扩展器，内部带有elm-format&#39;er，可组成Elm函数.
 * [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) -VSCode插件可将HTML转换为Elm
 
@@ -386,7 +385,7 @@
 
 ## Who to follow
 
- *免费跟随新更新.  使用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *免费跟随新更新.  采用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---

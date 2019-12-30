@@ -118,7 +118,7 @@ Easily navigate through the changes in a file that has been edited on GitHub.
 </details>
 
 
-OctoDraft是一个浏览器扩展，在GitHub的问题部分添加了保存草稿按钮，用于那些没有时间编写整个问题的时间.
+OctoDraft是一个浏览器扩展，在GitHub的问题部分中添加了一个保存草稿按钮，用于那些没有时间编写整个问题的时间.
 
 <details><summary>Screenshots</summary>
 
@@ -247,7 +247,7 @@ OctoPermalinker是一个浏览器扩展程序，它在GitHub注释/文件中搜�
 [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
 
 例如，假设您正在查看链接到回购主分支上文件的要点.
-制作要点时，链接有效，但是如果文件被删除，则链接断开.
+At the time the gist was made, the link worked, but if the file gets removed, the link is broken.
 OctoPermalinker使用要点创建日期添加仍然有效的永久链接.
 以下是一些截屏视频，展示了它们之间的区别：
 
@@ -372,7 +372,7 @@ Chrome和Firefox扩展程序，可在弹出窗口中快速查看您的通知，�
 </details>
 
 
- 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并提供仅显示您正在参与的问题的未读计数的选项.您可以单击图标快速查看未读通知.
+ 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并提供仅显示您正在参与的问题的未读计数的选项.您可以单击图标以快速查看未读通知.
 
 <details><summary>Screenshots</summary>
 
@@ -619,6 +619,14 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在资源库�
 <details><summary>Screenshots</summary>
 
  ![asciinema Player for GitHub](https://raw.githubusercontent.com/plibither8/asciinema-player-for-github/master/assets/demo.gif)
+</details>
+
+
+这是一个chrome扩展程序，可为您显示极好的列表中的存储库星级
+
+<details><summary>Screenshots</summary>
+
+ ![Awesome Stars](https://raw.githubusercontent.com/henry40408/awesome-stars/master/assets/nodejs.png)
 </details>
 
 ## Search

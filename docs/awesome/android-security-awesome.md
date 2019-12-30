@@ -170,7 +170,6 @@ android安全相关资源的集合.
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) -将二进制XML文件转换为人类可读的XML文件
 4. [adb autocomplete](https://github.com/mbrubeck/android-completion)
 5. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
-6. [Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)
 7. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) -练习
 8. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) -练习
 9. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2) -练习
@@ -179,6 +178,7 @@ android安全相关资源的集合.
 12. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) -android-vts扫描设备中的漏洞集
 13. [AppMon](https://github.com/dpnishant/appmon) -AppMon是用于监视和篡改本地macOS，iOS和android应用程序的系统API调用的自动化框架.  它基于Frida.
 14. [Internal Blue](https://github.com/seemoo-lab/internalblue) -基于Broadcom蓝牙控制器逆向工程的蓝牙实验框架
+15. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 15. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~-现在好像死了
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
