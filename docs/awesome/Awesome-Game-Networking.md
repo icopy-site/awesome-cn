@@ -1,12 +1,9 @@
 <div class="github-widget" data-repo="MFatihMAR/Awesome-Game-Networking"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+游戏网络是计算机网络的子集，通常涵盖传输协议，数据复制，实体同步，滞后补偿，客户端预测，服务器协调，兴趣管理，带宽优化，物理回滚/快进模拟，反作弊等许多其他领域参与多人在线游戏开发.
 
-游戏网络是计算机网络的子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，防作弊，负载平衡，带宽优化\
--多人在线游戏编程中涉及的更多技术.
-
-**阅读后请随时贡献您的_awesome_资源 [contribution guidelines](https://github.com/MFatihMAR/Awesome-Game-Networking/blob/master/CONTRIBUTING.md)， 谢谢！**
+_请随时使用您的宝贵资源做出贡献，谢谢！
 
 
 ## Articles
@@ -17,7 +14,7 @@
 - [Gaffer on Games](https://gafferongames.com/) -Glenn Fiedler的可靠UDP协议和游戏网络开发文章.
 - [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) -Matthew Walker的多人游戏服务器架构博客.
 - [High Performance Browser Networking](https://hpbn.co/) -Ilya Grigorik撰写的关于现代Web协议的出色的免费在线书籍.
-- [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -Armin Ronacher对《战地风云3》多人射击机制的分析.
+- [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) -学术论文.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) -IT Hare团队的详细网络编程文章.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) -Keith Johnston简要介绍了NAT和P2P连接.
@@ -29,6 +26,7 @@
 - [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/) -SvenBergström使用网络技术的多人游戏开发指南.
 - [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) -Mikola Lysenko针对基于JavaScript的多人游戏的复制文章.
 - [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) -Valve的Source引擎Wiki，其中包含高级游戏网络主题.
+- [Sync Host Overview](https://www.gamedevs.org/uploads/introduction-to-sync-host.pdf) -来自Insomniac Games的Peter Kao的演示幻灯片，介绍了Sync Host体系结构.
 - [Tech-Stack of the Ultima Online Servers](https://www.quora.com/What-was-the-technology-stack-driving-the-original-Ultima-Online-servers) -Raph Koster和Brian Crowder撰写的有关UO技术堆栈的简短摘要.
 - [The Case of the Quake Cheats](http://www.catb.org/esr/writings/quake-cheats.html) -通过ID Software从Quake 1中了解了有关客户端-服务器模型的安全性课程.
 - [The DOOM III Network Architecture](http://mrelusive.com/publications/papers/The-DOOM-III-Network-Architecture.pdf) -改进了Quake III Arena中使用的以前的网络体系结构.
@@ -87,7 +85,7 @@
   - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) -由Maik Hilfer提供的具有蒸汽支持的蓝图多人游戏教程.
 -团结
   - [Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) -使用MateriaGame的DarkRift2制作一个简单的网络弹力球.
-  - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - UNET-based multiplayer FPS game development tutorials by Asbjørn Thirslund.
+  - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) -AsbjørnThirslund提供的基于UNET的多人FPS游戏开发教程.
   - [Multiplayer and Networking](https://docs.unity3d.com/Manual/UNet.html) -Unity提供的基于UNET的官方多人游戏网络教程.
 
 ## Libraries
@@ -102,9 +100,10 @@
   - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) -具有身份验证，个人资料，大厅，Unity聊天功能的后端框架.
   - [DarkRift Networking](https://www.darkriftnetworking.com/) -专注于Unity的多线程多人网络解决方案.
   - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) -专注于Unity的实时多人网络解决方案.
-  - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) -可靠的UDP网络库（.NET）.
-  - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) -Lite可靠的UDP网络库（.NET / Mono）.
+  - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) -可靠的UDP网络库（.NET / Mono / Unity）.
+  - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) -Lite可靠的UDP网络库（.NET / Mono / Unity）.
   - [MLAPI](https://mlapi.network) -混合和匹配网络库，其中包含许多Unity内置功能.
+  - [Networker](https://github.com/MarkioE/Networker) -TCP和UDP网络库（.NET / Unity）.
   - [Photon Engine](https://photonengine.com) -混合多人游戏网络平台（SaaS，云）.
   - [SocketWeaver](https://socketweaver.com) -专为Unity引擎（SaaS）设计的多人云服务.
 -Java

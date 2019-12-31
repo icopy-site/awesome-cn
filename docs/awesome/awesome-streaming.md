@@ -13,7 +13,7 @@
 ### Streaming Engine
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java]-大数据流和批处理的统一平台.
-- [Apache Flink](https://github.com/apache/flink) [Java]-用于高吞吐量，低延迟的数据流处理的系统，支持状态计算，数据驱动的窗口语义和迭代流处理.
+- [Apache Flink](https://github.com/apache/flink) [Java]-用于高吞吐量，低延迟数据流处理的系统，支持状态计算，数据驱动的窗口语义和迭代流处理.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java]-来自Twitter的实时，分布式，容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala / Java]-基于Kafka（消息，存储）和YARN（容错，处理器隔离，安全性和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala]-使构建可扩展的容错流应用程序变得容易.
@@ -42,7 +42,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [Benthos](https://github.com/Jeffail/benthos) [开始]-Benthos是一种高性能且具有弹性的消息流服务，能够连接各种源和接收器，并对有效负载执行任意操作，转换和过滤器
 - [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala]-Scala的组合式流I / O库.
 - [monix](https://github.com/monix/monix) [Scala]-高性能的Scala / Scala.js库，用于编写异步和基于事件的程序.
-- [Streamline](https://github.com/hortonworks/streamline) [Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
+- [Streamline](https://github.com/hortonworks/streamline)  [Java]-Hortonworks的Stream Analytics Framework，旨在作为现有流解决方案（如Storm）的包装.  旨在允许用户拖放流组件以专注于业务逻辑.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python]-Airbnb的实时数据分析和警报.
 - [Swave](https://github.com/sirthias/swave) [Scala]-用于Scala的轻量级Reactive Streams基础结构工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python]-轻量级的库，用于构建管道以管理连续的数据流；  支持涉及分支，连接，流量控制，反馈，背压等的复杂管道.
@@ -55,9 +55,9 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 
 ### IoT
 
-- [sensorbee](https://github.com/sensorbee/sensorbee) [开始]-物联网的轻量级流处理引擎.
+- [sensorbee](https://github.com/sensorbee/sensorbee) [Go] - lightweight stream processing engine for IoT.
 - [Apache Edgent](https://github.com/apache/incubator-edgent) [Java]-一种编程模型和运行时，可在网关和边缘设备上进行连续的流分析，可以与集中式系统一起使用，以在整个IoT生态系统中提供高效，及时的分析：从中心到边缘，由IBM开源.
-- [StreamPipes](https://github.com/streampipes/streampipes) [Java]-一个完整的工具箱，无需编程技能即可轻松分析IoT（大型）数据流.
+- [Apache StreamPipes](https://github.com/apache/incubator-streampipes) [Java]-自助（工业）IoT工具箱，使非技术用户可以连接，分析和探索IoT数据流.
 
 ### DSL
 
@@ -65,7 +65,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [coast](https://github.com/bkirwi/coast) [Scala]-DSL，它在Samza之上构建DAG，并提供一次精确的语义.
 - [Esper](https://github.com/espertechinc/esper) [Java]-用于复杂事件处理（CEP）和事件序列分析的组件.
 - [Streamparse](https://github.com/Parsely/streamparse) [Python]-使您可以通过Apache Storm针对实时数据流运行Python代码.
-- [summingbird](https://github.com/twitter/summingbird) [Scala]-该库可让您编写看起来像本机Scala或Java集合转换的MapReduce程序，并在许多著名的分布式MapReduce平台（包括Storm和Scalding）上执行它们.
+- [summingbird](https://github.com/twitter/summingbird) [Scala]-一种库，可让您编写看起来像本机Scala或Java集合转换的MapReduce程序，并在许多著名的分布式MapReduce平台（包括Storm和Scalding）上执行它们.
 
 ### Data Pipeline
 
@@ -78,8 +78,8 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [LogDevice](https://logdevice.io/) [C ++]-Facebook的高性能分布式系统，用于使用日志结构流式传输和存储顺序数据.
 - [metaq](https://github.com/killme2008/Metamorphosis) [Java]-淘宝的高可用性，高性能分布式消息传递系统
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [开始]-快速的磁盘支持消息传递解决方案
-- [nsq](https://github.com/nsqio/nsq) [开始]-实时分布式消息传递平台，旨在大规模运行，每天处理数十亿条消息.
-- [suro](https://github.com/Netflix/suro) [Java]-数据管道服务，用于收集，聚集和调度大量应用程序事件，包括日志数据.
+- [nsq](https://github.com/nsqio/nsq) [运行]-实时分布式消息传递平台，旨在大规模运行，每天处理数十亿条消息.
+- [suro](https://github.com/Netflix/suro) [Java]-数据管道服务，用于收集，聚集和调度包括日志数据在内的大量应用程序事件.
 - [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]-连续的大数据摄取基础结构，可从大量端点进行读写，包括S3，JDBC，Hadoop，Kafka，Cassandra等.
 
 ### Online Machine Learning 
@@ -88,7 +88,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [DataSketches](https://github.com/DataSketches/sketches-core) [Java]-Yahoo!的草图库.
 - [streamDM](https://github.com/huawei-noah/streamDM) [Scala]-使用华为的Spark Streaming挖掘大数据流.
 - [StreamingBandit](https://github.com/Nth-iteration-labs/streamingbandit) [Python]-提供一个网络服务器，以快速设置和评估针对上下文多臂强盗（cMAB）问题的可能解决方案.
-- [StormCV](https://github.com/sensorstorm/StormCV) [Java]-通过添加特定于计算机视觉（CV）的操作和数据模型，将Apache Storm用于视频处理.
+- [StormCV](https://github.com/sensorstorm/StormCV) [Java]-通过添加特定于计算机视觉（CV）的操作和数据模型来将Apache Storm用于视频处理.
 - [trident-ml](https://github.com/pmerienne/trident-ml) [Java]-基于Trident的实时在线机器学习库.
 - [yurita](https://github.com/paypal/yurita) [Scala]-基于Paypal的Spark结构化流构建的异常检测框架.
 

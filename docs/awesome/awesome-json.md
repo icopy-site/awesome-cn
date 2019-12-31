@@ -3,7 +3,7 @@
 ## Awesome JSON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的JSON库和资源列表.
 
-受到启发 [awesome](https://github.com/sindresorhus/awesome) 名单.
+受到启发 [awesome](https://github.com/sindresorhus/awesome) 清单.
 
 
 ## Applications
@@ -36,7 +36,7 @@
 ## Command-line tools
 * [fx](https://github.com/antonmedv/fx) -交互式终端工具.
 * [jsoncat](https://github.com/pantuza/jsoncat) -在终端上用颜色和调整制表符大小漂亮地打印Json.
-* [jq](http://stedolan.github.io/jq/) -轻巧灵活的命令行JSON处理器.
+* [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 * [json](http://trentm.com/json/) -用于在Unix命令行上按摩JSON的“ json”命令.
 * [jshon](http://kmkeen.com/jshon/) -解析器设计用于在Shell中提供最大的便利.
 * [jarg](http://jdp.github.io/jarg/) -Shell中的简写JSON和表单编码语法.
@@ -59,7 +59,7 @@
 * [Kinto](https://github.com/Kinto/kinto) -具有同步和共享功能的轻量级JSON存储服务.
 * [CouchDB](http://couchdb.apache.org/) -无缝的多主同步，通过直观的HTTP / JSON API从大数据扩展到移动，专为可靠性而设计.
 * [RxDB](https://github.com/pubkey/rxdb)  -具有JSON-Schema，mango-Query和CouchDB-sync的事件驱动的JSON-Database.  （JavaScript）
-* [JSONlite](https://github.com/nodesocket/jsonlite)  -一个简单，自包含，无服务器，零配置的json文档存储.  （击）
+* [JSONlite](https://github.com/nodesocket/jsonlite)  -一个简单，自包含，无服务器，零配置的json文档存储.  （重击）
 
 ## Datasets
 * [country.io](http://country.io/data/) -与国家/地区相关的各种数据集，例如JSON inc货币，国家/地区代码，名称等
@@ -74,7 +74,7 @@
 
 ## Data generation
 * [jsonymize](https://github.com/cameronhunter/jsonymize) -从标准输入读取数据，匿名，然后写入标准输出.
-* [dyson](https://github.com/webpro/dyson)  -用于动态伪造JSON的服务器.  （的node.js）
+* [dyson](https://github.com/webpro/dyson)  -用于动态伪造JSON的服务器.  （node.js）
 
 ## Differencing
 * [JSONPatch](http://jsonpatch.com/) -描述文档更改的格式.
@@ -97,13 +97,13 @@
 * [JSON6](https://github.com/d3x0r/json6) -JSON for Humans（ES6）.
 * [JSON 1.1/JSONX](https://json-next.github.io/)  -包含人类扩展格式的1.1版.  注释，无引号和多行字符串，可选和尾部逗号等等. 
 * [JSON Resume](https://jsonresume.org/) -创建简历标准的开源计划.
-* [JSON Web Tokens](https://jwt.io/) -一种紧凑的URL安全方法，用于表示要在两方之间转移的声明.
+* [JSON Web Tokens](https://jwt.io/) - A compact URL-safe means of representing claims to be transferred between two parties.
 * [JSON API](https://jsonapi.org/) -构建API的标准.
 * [Collection+JSON](http://amundsen.com/media-types/collection/) -读/写超媒体类型，旨在支持对简单集合的管理和查询.
 * [hal-json](http://stateless.co/hal_specification.html) -一组用于以JSON或XML表示超链接的约定.
 * [JSON Activity Streams](http://activitystrea.ms/) -一种在网络上联合社交活动的格式.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) -简单的轻量级格式，用于数据分发.
-* [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
+* [/contribute.json](https://www.contributejson.org/) -使跨项目的开源贡献信息更易于访问.
 * [JSON Table Schema](https://frictionlessdata.io/docs/table-schema/) -表格数据的简单架构
 * [NDJSON](http://ndjson.org/) （以换行符分隔的JSON）-用于在流协议中分隔JSON的标准.
 * [survey.js](http://surveyjs.org/) -基于JSON的调查库.
@@ -145,7 +145,10 @@
 * [Fast JSON Processor](https://github.com/alibaba/fastjson)
 * [Gson](https://github.com/google/gson) -一个Java库，可将JSON转换为Java对象，反之亦然.
 * [Jackson](https://github.com/FasterXML/jackson) -用于处理JSON数据格式的多功能Java库.
-* [moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+* [moshi](https://github.com/square/moshi) -适用于Android和Java的现代JSON库.
+* [essential-json](https://github.com/arkanovicz/essential-json) -轻巧的Java库，用于使用干净且精确的API进行序列化，解析和操作.
+* [dsl-json](https://github.com/ngs-doo/dsl-json)  -一个非常快速的流式JSON库.  在字节数组上操作.
+* [mjson](https://github.com/bolerio/mjson) -精简的Java JSON库，带有紧凑，优雅的API.
 
 **Javascript**
 * [JSON-js](https://github.com/douglascrockford/JSON-js) -JavaScript中的JSON.
@@ -266,8 +269,9 @@
 
 ## Testing
 * [JSON Test](http://www.jsontest.com/) -使用JavaScript对象符号（JSON）的服务测试平台.
-* [JSONassert](https://github.com/skyscreamer/JSONassert)  -用更少的代码编写JSON单元测试.  非常适合测试REST接口.  （JAVA）
+* [JSONassert](https://github.com/skyscreamer/JSONassert)  -用更少的代码编写JSON单元测试.  非常适合测试REST接口.  （Java）
 * [JsonUnit](https://github.com/lukas-krecan/JsonUnit)  -一个简化单元测试中JSON比较的库.  它受到XmlUnit的强烈启发.
+* [JSON Parsing Test Suite](https://github.com/nst/JSONTestSuite) -一个非常完整的测试套件和验证框架.
 
 ## Text Editor Plugins
 **Emacs**
@@ -285,13 +289,13 @@
 * [x2js](https://github.com/abdolence/x2js)  -XML到JSON的Java转换功能，反之亦然.  （JavaScript）
 * [JSONC](https://github.com/tcorral/JSONC)  -JSON压缩器和解压缩器.  （JavaScript）
 * [JsonMapper](https://github.com/cweiske/jsonmapper) -将嵌套结构映射到PHP类（PHP）
-* [SassyJSON](https://github.com/HugoGiraudel/SassyJSON)  -Sass驱动的API.  （萨斯）
+* [SassyJSON](https://github.com/HugoGiraudel/SassyJSON)  -Sass驱动的API.  （ass）
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) -一个小型库，用于将JSON对象转换为易于阅读的HTML表示形式，该样式易于针对不同目的进行样式设置.
 * [JSONtoFoundation](https://github.com/fmscode/JSONtoFoundation)  -OS X实用程序，可将JSON对象转换为可在Cocoa / Cocoa Touch开发中使用的Foundation对象.  （迅速）
-* [fanci](https://github.com/liip/fanci)  -根据模板提取，重命名和转换JSON.  （的node.js）
+* [fanci](https://github.com/liip/fanci)  -根据模板提取，重命名和转换JSON.  （node.js）
 * [Pinch](https://github.com/Baggz/Pinch)  -JavaScript对象的String.replace.  （JavaScript）
-* [deepjson](http://deepjson.jacoborus.codes/)  -加载大json配置文件的更好方法.  （的node.js）
-* [jsontl](https://github.com/DoublePrecisionSoftware/jsontl)  -允许使用基于JSON的转换语言进行转换.  （的node.js）
+* [deepjson](http://deepjson.jacoborus.codes/)  -加载大json配置文件的更好方法.  （node.js）
+* [jsontl](https://github.com/DoublePrecisionSoftware/jsontl)  -允许使用基于JSON的转换语言进行转换.  （node.js）
 * [json-transforms](https://github.com/ColinEberhardt/json-transforms) -递归，模式匹配的方法来转换JSON结构.
 * [normalizr](https://github.com/paularmstrong/normalizr)  -根据架构标准化嵌套的JSON.  （JavaScript）
 * [JSON-populate](https://github.com/eiriklv/json-populate)  -使用无限递归循环引用填充JSON数据的工具.  有点像Falcor，但使用纯JSON.
@@ -306,7 +310,7 @@
 * [ObjectPath](http://objectpath.org/)  -用于半结构化数据的敏捷查询语言.  （蟒蛇）
 * [DefiantJS](https://www.defiantjs.com/)  -使用XPath表达式进行快速搜索，并使用XSL进行转换.  （JavaScript）
 * [JSONSelect](https://github.com/lloyd/JSONSelect)  -类似CSS的选择器.  （JavaScript）
-* [JSONPath](https://goessner.net/articles/JsonPath/)  -XPath实现.  （使用Javascript / PHP）
+* [JSONPath](https://goessner.net/articles/JsonPath/)  -XPath实现.  （Javascript / PHP）
 * [searchjs](https://github.com/deitch/searchjs) -用于基于类似JSON SQL的语言进行过滤的库.
 * [json-rel](https://github.com/slurmulon/json-where) -JSON中的透明引用.
 * [JSONata](http://jsonata.org/) -Node-RED中使用的查询和转换语言，支持函数表达式.
@@ -358,7 +362,7 @@
 
 **Python**
 * [jsonschema](https://github.com/Julian/jsonschema) -jsonschema的Python实现.
-* [JSON Schema Toolkit](https://github.com/petrounias/json-schema-toolkit) -通过验证，Django JSON字段和本机PostgreSQL JSON类型约束，以编程方式构建JSON模式（递归字段映射）.
+* [JSON Schema Toolkit](https://github.com/petrounias/json-schema-toolkit) -通过验证，Django JSON字段和本机PostgreSQL JSON类型约束以编程方式构建JSON模式（递归字段映射）.
 
 **Ruby**
 * [Ruby JSON Schema Validator](https://github.com/ruby-json-schema/json-schema) -针对符合JSON Schema Draft 4的JSON架构进行验证.

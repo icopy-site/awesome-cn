@@ -295,18 +295,18 @@ Installers
   - [DevSpace](https://github.com/covexo/devspace) -直接在任何Kubernetes集群中构建，测试和运行代码
   - [Draft](http://draft.sh) -开发人员使用Kubernetes创建云原生应用程序的工具
   - [Eclipse Che](https://github.com/eclipse/che) -具有SSH和多用户支持的云开发工作区
-  - [Garden](https://garden.io) -编排您的开发工作流程，以使开发和开发微服务变得更快，更容易.
+  - [Garden](https://garden.io) -编排您的开发工作流程，以使开发和开发微服务更快，更轻松
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) -建立，部署和管理现代无服务器工作负载的平台
-  - [Okteto](https://github.com/okteto/okteto)  -直接在任何Kubernetes集群中进行开发  无需提交，构建或推送.
-  - [Mantl](https://github.com/mantl/mantl)
-  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
-  - [VAMP](http://vamp.io)
-  - [Tilt](https://github.com/windmilleng/tilt)
+  - [Okteto](https://github.com/okteto/okteto)  -直接在任何Kubernetes集群中进行开发  无需提交，构建或推送
+  - [Mantl](https://github.com/mantl/mantl) -用于快速部署全球分布式服务的现代平台
+  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes) -与Kubernetes的Spring Cloud集成
+  - [VAMP](http://vamp.io) - Cloud-Native Release Management & Orchestration
+  - [Tilt](https://github.com/windmilleng/tilt) -为部署到Kubernetes的团队管理本地开发实例
 
 
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
-  - [Docker EE](https://www.docker.com/enterprise-edition) - Docker Enterprise Edition 2.0
+  - [Docker EE](https://www.docker.com/enterprise-edition) -Docker企业版2.0
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
   - [Kublr](https://kublr.com/) -企业级Kubernetes-多云和本地Kubernetes运营中心
   - [NetApp Kubernetes Service](https://cloud.netapp.com/kubernetes-service)
@@ -484,7 +484,8 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Reloader](https://github.com/stakater/Reloader) -将ConfigMap和Secrets的更新自动加载到用于部署，StatefulSet和DaemonSet的容器​​中
 * [Telepresence](http://www.telepresence.io) -针对远程Kubernetes集群在本地开发/调试服务
-* [krane](https://github.com/Shopify/krane) -一个命令行工具，可帮助您将更改发送到Kubernetes命名空间并了解结果
+* [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
+* [ktunnel](https://github.com/omrikiei/ktunnel) -一个命令行工具，可在Kubernetes和您的集群之间建立反向隧道，将其用于本地开发/调试服务或与本地资源集成.
 
 ## Package Managers
 
@@ -515,7 +516,7 @@ Projects
 * [Kubewatch](https://github.com/skippbox/kubewatch)
 * [Netsil](https://github.com/netsil/manifests)
 * [New Relic](https://newrelic.com/platform/kubernetes) -Kubernetes监视和可视化服务.
-* [NexClipper](https://github.com/NexClipper/NexClipper) - An open source software for monitoring Kubernetes and containers.
+* [NexClipper](https://github.com/NexClipper/NexClipper) -用于监视Kubernetes和容器的开源软件.
 * [Outcold Solutions](https://www.outcoldsolutions.com) -在Splunk Enterprise和Splunk Cloud中监控Kubernetes，OpenShift和Docker（指标和日志转发）
 * [Prometheus](http://prometheus.io)
 * [Searchlight](https://github.com/appscode/searchlight)
@@ -560,7 +561,7 @@ Projects
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
-* [Buildkite](https://github.com/buildkite/charts) - Lean CI/CD cloud hosted control plane with agents on your infrastructure.
+* [Buildkite](https://github.com/buildkite/charts) -具有基础架构上的代理的精益CI / CD云托管控制平面.
 * [Codefresh](https://codefresh.io/) -Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) -通过GitLab轻松部署Kubernetes应用程序的框架.
@@ -744,14 +745,14 @@ Projects
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) -Kubernetes tmux插件显示当前上下文和名称空间
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) -Kubectl的别名
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)  -一组kubectl插件，处理从简单的上下文切换到以任何用户（包括root用户）通过exec连接到容器的所有操作.  针对GKE用户量身定制.
-* [kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using this kubectl plugin
+* [kubectl-trace](https://github.com/iovisor/kubectl-trace) -使用此kubectl插件在您的kubernetes集群上调度bpftrace程序
 * [kubectld](https://github.com/rancher/kubectld)
 * [kubectx](https://github.com/ahmetb/kubectx) -在kubectl上的集群之间切换
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [kubens](https://github.com/ahmetb/kubectx) -在kubectl上的命名空间之间切换
 * [kubensx](https://github.com/shyiko/kubensx) -Kubernetes的更简单的集群/用户/命名空间切换（具有交互模式和通配符/模糊匹配）.
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
-* [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) -解决kubectl
+* [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 * [StackStorm](https://github.com/StackStorm/st2)
 * [stern](https://github.com/wercker/stern) -多荚和集装箱原木尾矿
 * [Vikube](https://github.com/c9s/vikube.vim) -Vim中来自Vim的Kubernetes操作
@@ -808,7 +809,7 @@ Projects
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) -帮助建立自适应且细粒度的Pod安全策略.
 * [kube2iam](https://github.com/jtblin/kube2iam) -为在Kubernetes上运行的Pod提供不同的AWS IAM角色
-* [kubeaudit](https://github.com/Shopify/kubeaudit) -帮助您根据常见的安全控制审核Kubernetes集群
+* [kubeaudit](https://github.com/Shopify/kubeaudit) - Helps you audit your Kubernetes clusters against common security controls
 * [Kubesec.io](http://kubesec.io/)
 * [Pomerium](http://www.pomerium.io/) -受BeyondCorp启发的零信任身份识别访问代理.
 * [Rakkess](https://github.com/corneliusweig/rakkess) -Kubectl插件，显示所有可用资源的访问矩阵.
