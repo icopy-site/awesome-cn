@@ -3,17 +3,9 @@
 ## Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <div align="center">
-  <p>
-      <a href="https://triplebyte.com/a/Yz3KfYg/d">
-        <b>找工作？</b>
-        <br>
-         无需简历.  只要证明您可以编码即可.
-        <br>
-        <div>
-          <img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
-        </div>
-      </a>
-	</p>
+  <h2>
+	  <a href="https://tinyletter.com/kichoi">每周</a>订阅<a href="https://tinyletter.com/kichoi">dev，</a>以获取<a href="https://tinyletter.com/kichoi">每周</a>精选的最佳博客文章！
+  </h2>
 </div>  
 
 |     |     |     |     |     |     |     |     |     |
@@ -52,10 +44,10 @@
 * Airtame https://airtame.engineering
 *阿尔及利亚https://blog.algolia.com/
 * Allegro.tech https://allegro.tech
-* AppNexus广告https://techblog.appnexus.com/
+* Appnexus https://techblog.appnexus.com/
 *方舟http://blog.arkency.com/
 * Artsy http://artsy.github.io/
-*体式https://blog.asana.com/category/chi/
+* Asana https://blog.asana.com/category/eng/
 * Atlassian https://developer.atlassian.com/blog/
 *原子对象https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
@@ -92,7 +84,7 @@
 * Canva https://engineering.canva.com
 *凯捷https://capgemini.github.io/
 * CenturyLink https://www.ctl.io/developers/blog
-* Cerner http://engineering.cerner.com/
+*识别http://engineering.cerner.com/
 *第一章https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
 *厨师https://blog.chef.io
@@ -115,7 +107,7 @@
 *汇合https://www.confluent.io/blog
 * Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
-* Criteo http://engineering.criteolabs.com/
+* Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
 *推荐http://engineering.curalate.com/
 
@@ -159,7 +151,7 @@
 *第五十三章http://making.fiftythree.com/
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
-* Firmafon https://dev.firmafon.dk/blog/
+*公司电话https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
@@ -196,7 +188,7 @@
 * HackerEarth http://engineering.hackerearth.com/
 *触觉https://haptik.ai/tech/
 *哈里的http://engineering.harrys.com/
-*哈希节点https://hashnode.blog/
+*哈希节点https://engineering.hashnode.com/
 * Hashrocket https://hashrocket.com/blog
 * Hasura https://blog.hasura.io/
 *房子h​​ttps://engineering.haus.com
@@ -257,7 +249,6 @@
 #### M companies
 * Made Tech https://www.madetech.com/blog
 *锦葵科技http://blog.mallow-tech.com/
-* MailChimp https://devs.mailchimp.com/blog/
 * Mandrill http://blog.mandrill.com/
 * MapTiler https://www.maptiler.com/blog/
 * Medallia http://engineering.medallia.com/blog/
@@ -503,7 +494,7 @@
 *比尔蜥蜴http://www.billthelizard.com/
 * Bjørn Johansen https://bjornjohansen.no/
 *布莱克·埃里克森（Blake Erickson）https://blog.blakeerickson.com/
-* Blundell's Android Tutorials http://blog.blundellapps.co.uk
+* Blundell的Android教程http://blog.blundellapps.co.uk
 * Bohops https://bohops.com/
 *布兰登·罗兹（Brandon Rhodes）http://rhodesmill.org/brandon/
 *布伦丹·艾希（Brendan Eich）https://brendaneich.com/
@@ -526,7 +517,7 @@
 *每日JS https://medium.com/dailyjs
 *每日技术视频http://dailytechvideo.com/
 *和Luu https://danluu.com/
-* Daniel Doubrovkin（dB.）http://code.dblock.org/
+* Daniel Doubrovkine（dB.）http://code.dblock.org/
 *丹尼尔·施密特https://medium.com/@dschmidt1992
 * Dave Atchley http://www.datchley.name/
 *戴夫·比兹利（Dave Beazley）http://www.dabeaz.com/blog.html
@@ -602,11 +593,11 @@
 * Jay Fields http://blog.jayfields.com
 *杰夫·阿特伍德https://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
-*杰里米·昆https://jeremykun.com/
+*仅杰里米https://jeremykun.com/
 *杰里·甘布林https://jerrygamblin.com/
 * Jesal Gadhia https://jes.al/
 *杰西·弗雷泽（Jessie Frazelle）https://blog.jessfraz.com/
-*耶稣城堡http://www.blackbytes.info/
+*耶稣·卡斯特罗http://www.blackbytes.info/
 *乔·阿姆斯特朗https://joearms.github.io/
 *乔·尼尔森https://begriffs.com/
 * Joel Spolsky https://www.joelonsoftware.com/
@@ -624,7 +615,7 @@
 朱莉娅·埃文斯（Julia Evans）https://jvns.ca/
 * Junior Grossi https://blog.jgrossi.com/
 *贾斯汀·韦斯https://www.justinweiss.com/articles/archives/
-* Yuri存货付款人https://juristr.com/blog/
+*尤里袜业https://juristr.com/blog/
 
 #### K individuals
 * K.哈里森https://useyourloaf.com/
@@ -666,13 +657,13 @@
 * Milosz Galazka https://blog.sleeplessbeastie.eu/
 *米罗杯（Miro Cupak）https://mirocupak.com/
 * Monica Dinculescu https://meowni.ca/
-* Monstermuffin https://blog.monstermuffin.org/
+*怪物松饼https://blog.monstermuffin.org/
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
 娜塔莎·穆拉舍夫（Natasha Murashev）https://natashatherobot.com
 *尼尔森·艾尔哈格（Nelson Elhage）https://blog.nelhage.com/
-* Nic Raboy https://blog.nraboy.com/
+*没什么Raboy https://blog.nraboy.com/
 *尼克·克雷弗（Nick Craver）https://nickcraver.com/blog/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nick Galbreath http://www.client9.com/
@@ -696,7 +687,7 @@
 保罗·刘易斯https://aerotwist.com/blog/
 *PawełChudzik https://blog.pchudzik.com/
 *彼得·诺维格http://norvig.com/
-彼得·斯坦伯格（Peter Steinberger）http://petersteinberger.com/
+*彼得·斯坦伯格（Peter Steinberger）http://petersteinberger.com/
 *彼得·克鲁姆斯（Peter Krumins）http://www.catonmat.net/blog/
 * Petr Mitrichev http://petr-mitrichev.blogspot.com/
 *菲利普·沃尔顿https://philipwalton.com/
@@ -739,7 +730,7 @@
 *史蒂夫·贝洛文https://www.cs.columbia.edu/~smb/blog/control/
 *史蒂夫·叶格https://steve-yegge.blogspot.com/
 * Sudhagar http://sudhagar.com/
-* Swizec计数器https://swizec.com/blog/
+* Swizec柜员https://swizec.com/blog/
 
 #### T individuals
 * Tero Parviainen http://teropa.info/
@@ -791,7 +782,7 @@
 * IPFS https://ipfs.io/blog/
 
 #### J technologies
-* jOOQ https://blog.jooq.org/
+* JOOQ https://blog.jooq.org/
 
 #### K technologies
 *剪辑http://blog.klipse.tech/

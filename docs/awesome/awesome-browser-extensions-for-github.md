@@ -435,9 +435,9 @@ GitHub的整洁悬浮卡.
 在用户个人资料页面上生成一个饼图，显示用户在其存储库中使用了哪些语言的细分.
 
 <details><summary>Screenshots</summary>
- 
+
   ![GitHub User Languages](https://github.com/crnbrdrck/github-user-languages/blob/master/img/demo.png)
-</details>   
+</details>
 
 
 ## PullRequest
@@ -482,12 +482,12 @@ Chrome扩展程序可优化GitHub以处理大型请求.
 </details>
 
 
-为您的出色拉取请求找到最佳的GIF. 
+为您的出色拉取请求找到最佳的GIF.
 
 <details><summary>Screenshots</summary>
 
  ![Gifhub Pull Request demo](https://media.giphy.com/media/3j0YBqAtA10gBAufyh/giphy.gif)
- 
+
 </details>
 
 
@@ -496,7 +496,7 @@ Chrome扩展程序可优化GitHub以处理大型请求.
 <details><summary>Screenshots</summary>
 
  ![PR Monitor demo](https://github.com/fwouts/prmonitor/raw/master/screencasts/latest.gif)
- 
+
 </details>
 
 ## Repository
@@ -525,7 +525,7 @@ Chrome扩展程序可优化GitHub以处理大型请求.
   <img src='https://user-images.githubusercontent.com/12113222/34595351-31adce0a-f212-11e7-860a-c2ada55536c8.png'/>
 </details>
 
- 
+
 Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在资源库浏览器中.
 
 <details><summary>Screenshots</summary>
@@ -627,6 +627,14 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在资源库�
 <details><summary>Screenshots</summary>
 
  ![Awesome Stars](https://raw.githubusercontent.com/henry40408/awesome-stars/master/assets/nodejs.png)
+</details>
+
+
+显示文本文件中的行数或文件夹中的文件数.
+
+<details><summary>Screenshots</summary>
+
+![OctoPeek](https://user-images.githubusercontent.com/4163701/71549839-5c604b00-2992-11ea-9b3b-a164453e9970.gif)
 </details>
 
 ## Search

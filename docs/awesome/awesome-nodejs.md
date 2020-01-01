@@ -92,7 +92,7 @@
 - [Standard](https://github.com/feross/standard) -JavaScript标准样式-一种样式来统治所有样式.
 - [ESLint](https://github.com/eslint/eslint) -用于JavaScript的可插入的linting实用程序.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) -获取GitHub用户的当前本地时间.
-- [David](https://github.com/alanshaw/david) -告诉您软件包npm依赖项何时过时.
+- [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [http-server](https://github.com/indexzero/http-server) -简单的零配置命令行HTTP服务器.
 - [Live Server](https://github.com/tapio/live-server) -具有livereload功能的开发HTTP服务器.
 - [bcat](https://github.com/kessler/node-bcat) -将命令输出到Web浏览器.
@@ -161,7 +161,7 @@
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) -通过可配置的路线提供JSON文件或JavaScript对象的内容来构建伪造的后端.
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) -使用RFC兼容的缓存支持包装本机HTTP请求.
 - [gotql](https://github.com/khaosdoctor/gotql) -建立在GraphQL请求库上 [got](https://github.com/sindresorhus/got).
-- [global-agent](https://github.com/gajus/global-agent) –可以使用环境变量配置的全局HTTP / HTTPS代理.
+- [global-agent](https://github.com/gajus/global-agent) -使用环境变量可配置的全局HTTP / HTTPS代理.
 
 ### Debugging / Profiling
 
@@ -217,12 +217,12 @@
 - [update-notifier](https://github.com/yeoman/update-notifier) -更新CLI应用程序的通知.
 - [ascii-charts](https://github.com/jstrace/chart) -终端中的ASCII条形图.
 - [progress](https://github.com/tj/node-progress) -灵活的ascii进度栏.
-- [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+- [insight](https://github.com/yeoman/insight) -通过向Google Analytics（分析）匿名报告使用指标来帮助您了解工具的使用情况.
 - [cli-cursor](https://github.com/sindresorhus/cli-cursor) -切换CLI光标.
 - [columnify](https://github.com/timoxley/columnify)  -创建适合控制台输出的基于文本的列.  支持单元包装.
 - [cli-columns](https://github.com/shannonmoeller/cli-columns) -分栏的unicode和ansi安全文本列表.
 - [cfonts](https://github.com/dominikwilkowski/cfonts) -控制台的性感ASCII字体.
-- [multispinner](https://github.com/codekirei/node-multispinner) -多个同时进行且可单独控制的CLI微调器.
+- [multispinner](https://github.com/codekirei/node-multispinner) -多个同时进行的，可单独控制的CLI微调器.
 - [omelette](https://github.com/f/omelette) -Shell自动补全助手.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 - [shelljs](https://github.com/shelljs/shelljs) -可移植的Unix shell命令.
@@ -264,7 +264,7 @@
 - [marko](https://github.com/marko-js/marko) -基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流，异步渲染和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) -具有继承，异步控制等功能的模板引擎（受Jinja2启发）.
 - [handlebars.js](https://github.com/wycats/handlebars.js) -胡子模板的超集，它添加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) -简单的非模板化语言.
+- [EJS](https://github.com/mde/ejs) -简单的简单的模板语言.
 - [Pug](https://github.com/pugjs/pug) -受Haml影响的高性能模板引擎.
 
 ### Web frameworks
@@ -292,7 +292,7 @@
 
 ### Documentation
 
-- [documentation.js](https://github.com/documentationjs/documentation) -API文档生成器，支持ES2015 +和流程注释.
+- [documentation.js](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation.
 - [ESDoc](https://github.com/esdoc/esdoc) -针对ES2015的文档生成器，附带测试代码并衡量文档覆盖范围.
 - [Docco](https://github.com/jashkenas/docco) -文档生成器，该文档生成器生成一个HTML文档，该文档显示与代码混合在一起的注释.
 - [JSDoc](https://github.com/jsdoc3/jsdoc) -API文档生成器，类似于JavaDoc或PHPDoc.
@@ -305,7 +305,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除“ rm -rf”之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -稳定来自fs.watch和fs.watchFile的事件以及在macOS上使用本机fsevents的文件系统监视程序.
+- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机的fsevents.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -457,7 +457,7 @@
 - [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) -从CSS中删除注释.
 - [parse-json](https://github.com/sindresorhus/parse-json) -解析JSON有更多有用的错误.
 - [URI.js](https://github.com/medialize/URI.js) -URL突变.
-- [PostCSS](https://github.com/postcss/postcss) - CSS parser / stringifier.
+- [PostCSS](https://github.com/postcss/postcss) -CSS解析器/字符串化器.
 - [JSONStream](https://github.com/dominictarr/JSONStream) -流JSON.parse和stringify.
 - [neat-csv](https://github.com/sindresorhus/neat-csv)  -快速CSV解析器.  以上的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) -旨在比其他所有人更快的流式CSV解析器.
@@ -510,7 +510,7 @@
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) -CouchDB客户端.
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) -Aerospike客户.
 	- [Couchbase](https://github.com/couchbase/couchnode) -客户沙发床.
-	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -MongoDB驱动程序.
+	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 -ODM / ORM
 	- [Sequelize](https://github.com/sequelize/sequelize)  -多方ORM.  支持PostgreSQL，SQLite，MySQL.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) -Backbone.js风格的PostgreSQL，MySQL和SQLite3的ORM.
@@ -518,7 +518,7 @@
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  类似于ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL的PostgreSQL框架.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) -基于SQL查询生成器Knex构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) -适用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
@@ -564,10 +564,10 @@
 
 - [upash](https://github.com/simonepri/upash) -适用于所有密码哈希算法的统一API.
 - [themis](https://github.com/cossacklabs/themis) -使简单的加密方案易于使用的多语言框架：静态数据，经过身份验证的数据交换，传输保护，身份验证等.
-- [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
+- [GuardRails](https://github.com/apps/guardrails) -GitHub应用程序，可在请求请求中提供安全反馈.
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) -暴力破解和DDoS攻击防护.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) -异步非阻塞哈希.
-- [jose-simple](https://github.com/davesag/jose-simple) —使用JOSE（JSON对象签名和加密）标准对数据进行加密和解密.
+- [jose-simple](https://github.com/davesag/jose-simple) -使用JOSE（JSON对象签名和加密）标准对数据进行加密和解密.
 
 ### Benchmarking
 
@@ -578,7 +578,7 @@
 
 - [babili](https://github.com/babel/babili) -基于Babel工具链的可感知ES2015 +的压缩程序.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) -JavaScript缩小器.
-- [clean-css](https://github.com/jakubpawlowicz/clean-css) - CSS minifier.
+- [clean-css](https://github.com/jakubpawlowicz/clean-css) -CSS缩小器.
 - [minimize](https://github.com/Swaagie/minimize) -HTML缩小器.
 - [imagemin](https://github.com/imagemin/imagemin) -图像缩小器.
 
@@ -595,7 +595,7 @@
 ### Email
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) -处理电子邮件的最快方法.
-- [emailjs](https://github.com/eleith/emailjs) -将带有附件的文本/ HTML电子邮件发送到任何SMTP服务器.
+- [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 - [email-templates](https://github.com/niftylettuce/email-templates) -创建，预览和发送自定义电子邮件模板.
 - [MJML](https://github.com/mjmlio/mjml) -标记语言旨在减轻创建响应电子邮件的麻烦.
 
@@ -673,7 +673,7 @@
 
 ### Weird
 
-- [cows](https://github.com/sindresorhus/cows) -ASCII母牛.
+- [cows](https://github.com/sindresorhus/cows) - ASCII cows.
 - [superb](https://github.com/sindresorhus/superb) -获得精湛的单词.
 - [cat-names](https://github.com/sindresorhus/cat-names) -获取流行的猫的名字.
 - [dog-names](https://github.com/sindresorhus/dog-names) -获取流行的狗的名字.
@@ -693,7 +693,7 @@
 
 - [execa](https://github.com/sindresorhus/execa) -更好的`child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) -专为服务器设计的核心jQuery的快速，灵活和精益实现.
-- [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
+- [Electron](https://github.com/atom/electron)  -使用网络技术构建跨平台的桌面应用.  *（你可能会喜欢 [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
 - [open](https://github.com/sindresorhus/open) -打开网站，文件，可执行文件之类的东西.
 - [hasha](https://github.com/sindresorhus/hasha)  -哈希变得简单.  获取缓冲区/字符串/流/文件的哈希.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) -使用点路径从嵌套对象获取属性.
@@ -726,7 +726,7 @@
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) -使用点路径获取，设置或删除process.env的嵌套属性.
 - [emittery](https://github.com/sindresorhus/emittery) -简单现代的异步事件发射器.
 - [node-video-lib](https://github.com/gkozlenko/node-video-lib) -用于处理MP4和FLV视频文件并为HLS流创建MPEG-TS块的纯JavaScript库.
-- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP / FTPS客户端.
+- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) -FTP / FTPS客户端.
 
 ## Resources
 
@@ -740,7 +740,7 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/实时流，可帮助您使用一些简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用一些简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
 
 ### Discovery
 
@@ -780,7 +780,7 @@
 - [Node.js in Practice](http://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939)
 - [Mastering Node](http://visionmedia.github.io/masteringnode/)
 - [Node.js 8 the Right Way](https://pragprog.com/book/jwnode2/node-js-8-the-right-way)
-- [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
+- [Professional Node.js: Building JavaScript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://practicalnodebook.com)
 - [Mixu's Node book](http://book.mixu.net/node/)
 - [Pro Express.js](http://proexpressjs.com)
@@ -793,7 +793,7 @@
 ### Blogs
 
 - [Node.js blog](https://nodejs.org/en/blog/)
-- [webapplog.com](http://webapplog.com/tag/node-js/) -实用Node.js和Pro Express.js的作者Azat Mardan撰写的有关Node.js和JavaScript的博客文章.
+- [webapplog.com](http://webapplog.com/tag/node-js/) -实用Node.js和Pro Express.js Azat Mardan的作者撰写的有关Node.js和JavaScript的博客文章.
 
 ### Courses
 
@@ -839,9 +839,3 @@
 
 - [awesome-npm](https://github.com/sindresorhus/awesome-npm) -使用npm的资源和技巧.
 - [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) -用于编写和测试跨平台代码的资源.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Sindre Sorhus](https://sindresorhus.com) 放弃了此作品的所有版权以及相关或邻近的权利.

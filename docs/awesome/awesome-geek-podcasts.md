@@ -87,18 +87,18 @@
 * [HaskellCast](http://www.haskellcast.com/) —面向在行业中工作的Haskell开发人员的播客.
 * [Hello Internet](http://www.hellointernet.fm/) -科学YouTube使用者CGP Gray和布雷迪·哈兰（Brady Haran）讨论了从标志设计到《星球大战》的所有内容.
 * [Houston We Have a Podcast](https://www.nasa.gov/johnson/HWHAP/)  -约翰逊太空中心NASA官方播客.  每周举办一次，其主题一般是关于太空和国际空间站.
-* [HTTP 203](https://developers.google.com/web/shows/http203/) -在每个节目中，Jake和Paul都在Web开发领域中选择了一个热门话题，并讨论了Web开发的各个方面，同时还介绍了生活技巧，课程和一些相当诚实的事实.
+* [HTTP 203](https://developers.google.com/web/shows/http203/) -在每场演出中，Jake和Paul都在Web开发领域中选择了一个热门话题，并讨论了Web开发的各个方面，同时还介绍了生活技巧，课程和一些相当诚实的事实.
 * [Iron Sysadmin](https://www.ironsysadmin.com/) -现实世界系统管理员的播客，适用于现实世界系统管理员.
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/)  -主持人Veronica Belmont分享了在线生活的真实故事以及有关Web未来的真实话题.  IRL是Mozilla的原始播客.
 * [JavaScript Air](https://javascriptair.com/) -有关JavaScript的现场直播播客.
 * [Javascript to Elm](https://jstoelm.com/) -有关使用来自Javascript和其他语言的Elm的播客.
 * [JS Party](https://changelog.com/jsparty) – JavaScript和网络社区庆祝活动
-* [Ladybug Podcast](https://ladybug.dev/) –面向所有开发人员的由女士主持的技术播客，围绕如何开始编码，当前的热门技术，如何获得第一份开发人员工作，冒名顶替综合症，如何编写CSS等进行了精彩的讨论.
+* [Ladybug Podcast](https://ladybug.dev/) –面向所有开发人员的由女士主持的技术播客，围绕如何开始编码，当前的热门技术，如何获得第一份开发人员工作，冒名顶替综合症，如何编写CSS等进行了大量讨论.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) -Laravel新闻播客带给您与Laravel相关的所有最新新闻和事件.
 * [Linear Digressions](http://lineardigressions.com/) -通过现实世界中的故事和示例以可访问的方式探索数据科学和机器学习的主题.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) -有关Linux和开源世界的每周新闻.
 * [Linux Headlines](https://linuxheadlines.show/) -每个工作日在3分钟内发布Linux和开源新闻.
-* [Linux For Everyone](https://linuxforeveryone.fireside.fm/)  -关于台式机Linux，开放源代码软件以及创建它的社区的激动人心的展览.  对于初学者和退伍军人都一样！  由《福布斯》的Jason Evangelho和朋友主持.
+* [Linux For Everyone](https://linuxforeveryone.fireside.fm/)  -关于桌面Linux，开放源代码软件以及创建它的社区的激动人心的展览.  对于初学者和退伍军人都一样！  由《福布斯》的Jason Evangelho和朋友主持.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws/) -关于在Linux上运行的任何东西，关于在其他平台上的开源软件以及许多其他东西.
 * [Linux Unplugged](https://www.jupiterbroadcasting.com/show/linuxun/) -每周Linux现场直播和脱口秀
 * [Listen and Learn about AWS](https://aws.amazon.com/podcasts/aws-podcast/)  -Jeff Barr讨论了Amazon Web Services（AWS）产品的各个方面.  每个播客均包含AWS新闻，技术提示以及对初创公司，AWS合作伙伴和AWS员工的采访.
@@ -114,7 +114,7 @@
 * [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) -面向希望更好地了解当今安全主题的人员的安全播客.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) -最新的开源项目和新闻！
 * [Our Ludicrous Future](https://ourludicrousfuture.com/) -主要是在太空，技术和埃隆·马斯克（Elon Musk）之间进行对话.
-* [Packet Pushers](https://packetpushers.net/)  -关于网络架构师的数据网络.  深入的技术和毫不掩饰的书呆子.
+* [Packet Pushers](https://packetpushers.net/)  -关于网络架构师的数据网络.  精深的技术和毫不掩饰的书呆子.
 * [Partially Derivative](http://partiallyderivative.com/) -关于数据，书呆子和啤酒的播客.
 * [PHP Round Table](https://www.phproundtable.com/) -PHP圆桌会议是开发人员的临时聚会，讨论PHP书呆子关心的主题.
 * [PHP Town Hall](http://phptownhall.com/) -市政厅，供PHP开发人员提出关于PHP社区中当前事件（或即将发生的事情）的问题，每周有不同的来宾.
@@ -143,7 +143,7 @@
 * [Sound Of Symfony](https://www.soundofsymfony.com/) -非官方的Symfony播客.
 * [StarTalk Radio](https://www.startalkradio.net/?sfid=22493&post_types=show) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
 * [Sword & Laser](http://swordandlaser.com/) -Sword and Laser（S＆L）是一个以科幻小说和幻想为主题的读书俱乐部，视频节目和播客，由Veronica Belmont和Tom Merritt创立.
-* [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes)  -亚当·萨维奇（Adam Savage）与创作者，思想领袖和名人粉丝坐在一起，讨论改变了该类型世界的时刻，人物和里程碑.  所有科幻小说的怀旧庆祝活动.
+* [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes)  -亚当·萨维奇（Adam Savage）与创作者，思想领导者和名人粉丝坐下来，讨论改变了宇宙类型的时刻，人物和里程碑.  所有科幻小说的怀旧庆祝活动.
 * [Syntax FM](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 * [Sysadministrivia](https://sysadministrivia.com/) -Linux，更大的啤酒和深夜.
 * [Syscast Podcast](http://podcast.sysca.st/) -谈论Linux，开源，Web开发和系统管理（DevOps）.
@@ -168,7 +168,7 @@
 * [The Food Fight Show](http://foodfightshow.org/) -DevOps厨师参加战斗的播客
 * [The Hanselminutes podcast](https://hanselminutes.com/) -开发人员的新鲜空气.
 * [The Laravel Podcast](http://www.laravelpodcast.com) -Laravel播客带给您Laravel和PHP开发新闻和讨论.
-* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) -吉姆·哈利里（Jim Al-Khalili）教授与领先的科学家讨论了他们的生活和工作，找出了激发和激励他们的因素，并询问他们的发现可能对人类产生什么影响.
+* [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) -吉姆·哈利里（Jim Al-Khalili）教授与领先的科学家讨论了他们的生活和工作，找出了激发和激励他们的因素，并询问他们的发现可能为人类带来什么.
 * [The Linux Action Show](https://www.jupiterbroadcasting.com/tag/linux-action-show/)  -关于Linux和开源的播客.  （已停产）
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) -Jeff Carouth和Matt Frost结合了他们数十年来作为Web开发人员的经验来谈论开发人员的生活.
 * [The Manifest](https://manifest.fm) -有关包管理的播客.
@@ -182,7 +182,7 @@
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) -一个充满热情的个人社区，其目的是在倡导积极的社会变革的同时彻底改变软件设计，创建和交付.
 * [Three Devs and a Maybe](https://threedevsandamaybe.com/)  -关于Web开发所有事物的每周讨论播客.  主题包括日常开发人员生活，PHP，框架，测试，良好的软件设计以及我们使用许多其他编程语言的经验.
 * [Toolsday Podcast](https://spec.fm/podcasts/toolsday) -在周二的2时20分钟的播客中，播报最新的技术工具，技巧和窍门！
-* [TTL Podcast](http://ttlpodcast.com/) -由丽贝卡·穆菲（Rebecca Murphey）主持的TTL播客，与大型组织的前端开发人员进行了对话，讨论他们如何工作.
+* [TTL Podcast](http://ttlpodcast.com/) -由丽贝卡·穆菲（Rebecca Murphey）主持的TTL播客，与大型组织的前端开发人员进行了对话，以讨论他们的工作方式.
 * [Ubuntu Podcast](http://ubuntupodcast.org) -由Ubuntu UK LoCo成员制作的生动活泼的播客，其中包括来自Ubuntu和开源社区的新闻，讨论和访谈.
 * [Web of Tomorrow](https://www.orbit.fm/weboftomorrow/) -关于JavaScript和前端Web开发的播客.
 * [Weird Trick Mafia](https://weirdtrickmafia.fm/) -关于技术，感觉，开源和/ dev / urandom的播客.
@@ -198,7 +198,7 @@
 * [10deploys](https://www.10deploys.com/) -讨论了DevOps背后的起源，趋势，影响和概念，以帮助组织成长为绩效较高的组织.
 * [CapyCast](https://soundcloud.com/rdshipit/) -与Digital Results产品小组进行播客，介绍他们的开发和设计学习.
 * [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) -坎皮纳格兰德联邦大学计算机科学课程的监护人小组的播客.
-* [DatabaseCast](https://imasters.com.br/perfil/databasecast/) -在数据库上的第一个巴西播客.
+* [DatabaseCast](https://imasters.com.br/perfil/databasecast/) -第一个巴西数据库播客.
 * [DevDrops](https://anchor.fm/devdrops) -您的软件开发播客.
 * [DataHackers](https://datahackers.com.br/podcast) -每月播客，可让数据科学专业人士谈论就业市场，职业和新闻.
 * [DevNaEstrada](https://devnaestrada.com.br/) -每周Web开发播客，带有幽默感.
@@ -208,13 +208,13 @@
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) -关于技术和开源/免费软件的播客
 * [Hipsters ponto Tech](https://hipsters.tech/) -关于启动，编程，UX，小工具和最新技术趋势的Caelum播客.
 * [Knowledge Cast](https://open.spotify.com/show/06fPDUqQapNcfIE01IQHhE?si=stsjeebMRQeH3ROpCeEYcw) -K21播客
-* [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) -Podcast da Lambda3
+* [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) -播客和Lambda3
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) -采访领导力和企业家精神等问题.
 * [Like a Boss](https://www.likeaboss.com.br)  -Like Boss播客是企业家的播客.  成功的初创公司和公司的领导者和创始人与该计划的两位主持人坐在一起.
 * [Lovelace Podcast](https://twitter.com/LovelacePodcast) -互联网，模因，游戏，时事及其提供的时间-技术.
 * [Mamilos](https://www.b9.com.br/shows/mamilos/) -开胸新闻
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) -播客有一个提案，可以解释几个主题，并使用科学，哲学，历史和其他主题来支持答案.
-* [NerdCast](https://jovemnerd.com.br/nerdcast/) -来自JovemNerd门户的播客，内容涉及书呆子，理论和rpg
+* [NerdCast](https://jovemnerd.com.br/nerdcast/) -JovemNerd门户播客，讨论极客，理论和rpg
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) -有关经验丰富和新手开发人员的PHP新闻的新闻.
 * [Pizza de Dados](https://pizzadedados.com/) -Data Pizza是一项举措，它以一种轻松有趣的方式带来了数据科学问题.
 * [PODebug](http://www.podebug.com/) -通常以幽默和轻松的方式进行软件开发和技术.
@@ -235,6 +235,7 @@
 * [1984](https://podcast.jcea.es/podcast1984/) -黑客，黑客行为和安全
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) -关于可可和节目的播客.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) -科学传播计划.
+* [Atareao Podcast](https://www.atareao.es/podcasts/) -Podcast sobre Linux，Ubuntu，Android和开源.
 * [Basta ya de picar](http://www.bastayadepicar.com/) -播客，其中讨论了各种编程主题和程序员的生活.
 * [CAChemE](https://cacheme.org/podcast/) -科学与工程应用程序（主要是Python）.
 * [El gato de Turing](https://elgatodeturing.com/) -科技新闻播客.
@@ -252,7 +253,7 @@
 * [How to make games](https://kdicast.com/) -有关视频游戏和视频游戏行业的播客.
 * [RWPod](https://www.rwpod.com/) -关于Ruby和Web技术世界的播客.
 * [Radio-T](https://radio-t.com/)  -周末播客.  即兴创作以IT为主题.
-* [RadioJS](http://radiojs.ru/) -有关网络开发，JavaScript，前端和客户端的播客.
+* [RadioJS](http://radiojs.ru/) - Podcast about web-development, Javascript, Frontend and client-side.
 * [SDCast](http://sdcast.ksdaemon.ru) —软件开发播客.  采访开发人员，讨论开发，开源和相关的IT主题.
 * [Razbor Poletov](http://razborpoletov.com) -关于Java，技术和软件开发世界的播客.
 * [uWebDesign](https://uwebdesign.ru/) -有关网站设计，网站开发和所有与IT相关的内容的播客.
@@ -288,8 +289,8 @@
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) -关于网络政治的每周播客.
 * [Methodisch inkorrekt](http://minkorrekt.de/) -对论文进行幽默的评论4.两个星期几乎全部发布
 * [Radio Nukular](https://www.radionukular.de/) -主要（但不限于）电影，视频游戏和漫画.
-* [Request for Comments](https://requestforcomments.de/) -有RFC播客
-* [Working Draft](https://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
+* [Request for Comments](https://requestforcomments.de/) -RFC播客
+* [Working Draft](https://workingdraft.de/) -网页设计师和开发人员的每周新闻播客.
 
 ## In Chinese
 

@@ -2,13 +2,10 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome TAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
-
-&gt;有用的资源 [Test Anything Protocol](https://testanything.org)<br>
+&gt;有用的资源 [Test Anything Protocol](https://testanything.org)\
 &gt;测试工具中测试模块之间的基于文本的简单界面
 
  *此列表目前非常关注JavaScript.  那是因为我只对JS世界中的TAP东西很熟悉.  欢迎任何语言的贡献.*
-
-
 
 
 
@@ -36,7 +33,6 @@
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) -xUnit输出.
 - [tap-teamcity](https://github.com/smockle/tap-teamcity) -TeamCity的输出.
 
-
 ## Producers
 
 产生TAP输出的东西.
@@ -46,7 +42,7 @@
 - [AVA](https://github.com/sindresorhus/ava) -未来派测试跑步者（`$ ava --tap`）.
 - [tap](https://github.com/isaacs/node-tap) -Node.js的TAP测试框架.
 - [tape](https://github.com/substack/tape) -用于Node.js和浏览器的TAP生产测试工具.
-- [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) -可插入的JavaScript linter（$ eslint --format = tap`）.
+- [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) -可插入的JavaScript linter（`$ eslint --format = tap`）.
 - [Mocha](https://mochajs.org) -适用于Node.js和浏览器的功能丰富的测试框架（$ mocha reporter = tap）.
 - [qunit-tap](https://github.com/twada/qunit-tap) -QUnit的TAP输出.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) -茉莉的TAP输出.
@@ -62,8 +58,7 @@
 
 - [bats](https://github.com/sstephenson/bats) -Bash自动化测试系统.
 
-[More...](https://testanything.org/producers.html)
-
+[More…](https://testanything.org/producers.html)
 
 ## Consumers
 
@@ -75,8 +70,7 @@
 - [tap-out](https://github.com/scottcorgan/tap-out) -TAP解析器.
 - [yamlish](https://github.com/isaacs/yamlish) -YAML块解析器.
 
-[More...](https://testanything.org/consumers.html)
-
+[More…](https://testanything.org/consumers.html)
 
 ## Tools
 
@@ -91,32 +85,21 @@
 
 - [tappy](https://github.com/mblayman/tappy) -使用TAP的工具.
 
-
 ## Articles
 
 - [Understand the Test Anything Protocol](http://www.effectiveperlprogramming.com/2011/05/understand-the-test-anything-protocol/)
 
-
 ## Tutorials
 
 - [test-anything](https://github.com/finnp/test-anything) -通过互动研讨会学习使用TAP进行任何测试.
-
 
 ## Documentation
 
 - [Specification](https://testanything.org/tap-version-13-specification.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Test_Anything_Protocol)
 
-
 ## Community
 
 - [Discuss](https://github.com/TestAnything/Specification/issues)
 - [Reddit](https://www.reddit.com/r/testanythingprotocol)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/tap)
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Sindre Sorhus](http://sindresorhus.com) 放弃了此作品的所有版权以及相关或邻近的权利.

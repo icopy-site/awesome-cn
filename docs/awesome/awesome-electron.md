@@ -11,8 +11,6 @@
 
 
 
-
-
 ## Apps
 
 用电子制造.
@@ -113,7 +111,7 @@
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) -非官方的Active Collab应用.
 - [Hain](https://github.com/appetizermonster/hain) -Windows启动器.
 - [Catify](https://github.com/MeoBeoI/Catify) -Spotify的实用程序.
-- [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
+- [Minira](https://github.com/jenslind/minira) -菜单栏中的JIRA问题.
 - [Ansel](https://github.com/m0g/ansel) -图片组织者.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) -检查CI服务器的构建状态.
 - [Tockler](https://github.com/MayGo/tockler) -跟踪您的时间.
@@ -134,7 +132,6 @@
 - [Wire](https://github.com/wireapp/wire-desktop) -Messenger和通话应用程序.
 - [Ramme](https://github.com/terkelg/ramme) -非官方的Instagram应用.
 - [Moonview](https://github.com/teesloane/moonview) -环保记事本.
-- [Temps](https://jackd248.github.io/temps/) -菜单栏中的天气预报.
 - [DBGlass](https://github.com/web-pal/DBGlass) -PostgreSQL客户端.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) -物理网络信标广播.
 - [Rambox](https://github.com/saenzramiro/rambox) -聊天和电子邮件应用程序，结合了Discord，环聊，Gmail和Outlook等多种服务.
@@ -151,7 +148,7 @@
 - [Cerebro](https://github.com/KELiON/cerebro) -具有内联预览的启动器.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) -控制任何显示器的亮度.
 - [LosslessCut](https://github.com/mifi/lossless-cut) -无损视频修剪和切割.
-- [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
+- [Buka](https://github.com/oguzhaninan/Buka) -电子书管理.
 - [Insomnia](https://github.com/getinsomnia/insomnia) -创建和管理HTTP请求.
 - [Tusk](https://github.com/champloohq/tusk) -非官方的Evernote应用.
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) -非官方的ProtonMail应用程序.
@@ -193,15 +190,12 @@
 - [Caret](http://caret.io) -Markdown编辑器.
 - [Wantedly Chat](https://www.wantedly.com/chat)  -业务团队聊天.  *（日本）*
 - [Remember](https://rememberapp.co.kr)  -名片管理.  *（韩文）*
-- [Pubu](https://pubu.im)  -用于团队沟通的实时聊天.  *（中文）*
 - [BearyChat](https://bearychat.com)  -团队消息服务.  *（中文）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) -官方的MongoDB应用程序.
 - [Freeter](https://freeter.io) -自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) -官方WhatsApp应用.
 - [CatLight](https://catlight.io) -构建状态通知程序.
-- [Paws](http://friendlyfox.es/pawsfortrello/) -Trello客户.
 - [Automint](http://automint.in) -汽车业务CRM.
-- [CrossCloud](https://medium.com/@crosscloud/what-is-new-in-crosscloud-1-0-c00404e7bf9f) -安全同步多个云存储.
 - [Discord](https://discordapp.com) -游戏玩家的语音和文字聊天.
 - [Cocos Creator](http://cocos2d-x.org/products#creator) -游戏编辑器，用于为Cocos2D-x创建网络游戏和本机游戏.
 - [Inkdrop](https://www.inkdrop.info) -黑客Markdown笔记本.
@@ -218,7 +212,7 @@
 - [MusicPlus](https://musicplus.io) -适用于macOS和Windows的免费音乐应用程序.
 - [Mingo](https://mingo.io) -MongoDB GUI.
 - [Moon Modeler](https://datensen.com) -适用于MongoDB，Mongoose和MariaDB的架构设计工具.
-- [Notion](https://notion.so) -便笺，任务，Wiki和数据库的多合一工作区.
+- [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
 - [FATpick](https://www.fatpick.com) -吉他弹奏器查看器，可在演奏时为您的演奏评分.
 
 ### Samples
@@ -229,7 +223,6 @@
 - [Hash](https://electronjs.org/blog/simple-samples#hash) -使用不同的算法显示输入文本的哈希值.
 - [Prices](https://electronjs.org/blog/simple-samples#prices) -使用Yahoo Finance API显示石油，黄金和白银的当前价格.
 - [Touch Bar API](https://github.com/Rawnly/touchbar-api-sample) -macOS Touch Bar集成的示例.
-
 
 ## Boilerplates
 
@@ -244,7 +237,6 @@
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) -Boilerplate使用Next.js构建您的应用程序.
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) -用于创建安全应用程序的模板和教程（沙盒和通过IPC进行的通信）.
 - [angular-electron](https://github.com/maximegris/angular-electron) -使用Angular，Electron，TypeScript，SASS和Hot Reload快速启动.
-
 
 ## Tools
 
@@ -265,7 +257,7 @@
 - [electron-dl](https://github.com/sindresorhus/electron-dl) -简化文件下载.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) -具有前端和自动更新程序支持的自托管发布服务器.
 - [electron-rebuild](https://github.com/electron/electron-rebuild) -根据当前安装的Electron版本重建本机Node.js模块.
-- [electron-compile](https://github.com/electron/electron-compile) -在您的应用中使用ES2015，CoffeeScript，Less，Stylus，无需预编译步骤.
+- [electron-compile](https://github.com/electron/electron-compile) -在您的应用中使用ES2015，CoffeeScript，Less，Stylus，而无需预编译步骤.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) -将窗户放在公共位置.
 - [electron-window-state](https://github.com/mawie81/electron-window-state) -保持窗口大小和位置.
 - [electron-drag](https://github.com/kapetan/electron-drag) -改进了窗口拖动.
@@ -332,10 +324,9 @@
 - [Reactotron](https://github.com/reactotron/reactotron) -检查您的React和React Native应用程序.
 - [jest-electron](https://github.com/hustcc/jest-electron) -在浏览器环境中运行和调试Jest单元测试.
 
-
 ## Components
 
-- [Photon](http://photonkit.com) -用于构建精美应用程序的UI工具包.
+- [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) -使用React构建的光子组件.
 - [menubar](https://github.com/maxogden/menubar) -菜单栏应用程序框架.
 - [cookies](https://github.com/hstove/electron-cookies) -增加了对`document.cookie`的支持.
@@ -347,13 +338,11 @@
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) -使用Photon和Etch构建和管理UI组件.
 - [Xel](https://xel-toolkit.org) -用于构建类似本机应用程序的小部件工具包.
 
-
 ## Documentation
 
 - [Quick Start](https://electronjs.org/docs/tutorial/quick-start)
 - [Official docs](https://electronjs.org/docs)
 - [Essential Electron](http://jlord.us/essential-electron/) -简洁的概述.
-
 
 ## Articles
 
@@ -363,20 +352,18 @@
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
-- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) -新的Electron API，以更少的错误和更高的性能嵌入Web应用程序.
-- [Migrating Slack’s Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -Slack用`BrowserView`，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
+- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) -新的Electron API可以以更少的错误和更高的性能嵌入Web应用程序.
+- [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -Slack用`BrowserView`，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -Realm使用Electron重写了他们的数据库浏览器应用程序，以提供跨平台支持.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) -由5部分组成的系列，介绍了将Electron应用制作和发布到Mac App Store的过程.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) -专注于设计和代码决策以及电子安全性.
 - [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) -如何收集匿名用户统计信息.
 
-
 ## Books
 
 - [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 
-- [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) - [Preview](https://manning-content.s3.amazonaws.com/download/c/5a98fe9-3e88-4249-9d27-b6cbc063a242/Kinney_Electron_MEAP_v14_ch1.pdf) 
+- [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) 
 - [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) 
-
 
 ## Videos
 
@@ -395,7 +382,6 @@
 - [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 
 - [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) -包括一些有关改善应用程序启动时间，调试崩溃等的很好的演讲.
 
-
 ## Podcasts
 
 - [JavaScript Jabber: Electron with Jessica Lord and Amy Palamountain](https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain)
@@ -403,8 +389,6 @@
 - [JavaScript Air: Electron Apps with @jlord and @emorikawa](https://javascriptair.com/episodes/2016-07-06)
 - [The Changelog #216: GitHub's Electron with Zeke Sikelianos](https://changelog.com/216/)
 - [Full Stack Radio #48: Jessica Lord - Building Desktop Apps with Electron](http://www.fullstackradio.com/48)
-- [NodeUp: Electron with Jessica Lord](http://nodeup.com/onehundredseven)
-
 
 ## Community
 
@@ -413,7 +397,7 @@
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/electron)
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
-- [`#electron` on Atom Slack](https://atom-slack.herokuapp.com)
+- [`#electron` on Atom Slack](https://discuss.atom.io/t/join-us-on-slack/16638)
 - [electron-jp](https://electron-jp-slackin.herokuapp.com) *（日本）*
 - [electron-br](https://electron-br.slack.com) *（巴西葡萄牙语）*
 - [electron-pl](https://electronpl.github.io) *（抛光）*
@@ -421,24 +405,10 @@
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
 
-
-## Tips
-
-贡献一些;）
-
-
 ## Contribute
 
  欢迎捐款！  阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) 第一.
 
-
 ## Related
 
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Sindre Sorhus](https://sindresorhus.com) 放弃了此作品的所有版权以及相关或邻近的权利.

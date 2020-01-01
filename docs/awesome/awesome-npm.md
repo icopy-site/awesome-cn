@@ -3,11 +3,7 @@
 
 &gt;太棒了 [npm](https://www.npmjs.com) 资源和提示
 
-你可能还喜欢 [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
-
 *请阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) 在捐款之前.*
-
-
 
 
 
@@ -25,7 +21,6 @@
 - [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
 - [The Art of Node](https://github.com/maxogden/art-of-node#modules) -介绍Node.js和使用npm进行客户端开发.
 - [Why npm scripts?](https://css-tricks.com/why-npm-scripts/) -介绍带有常见软件包和脚本的npm脚本以及样板项目.
-
 
 ## Tools
 
@@ -47,7 +42,6 @@
 - [greenkeeper.io](https://greenkeeper.io) -通过拉取请求自动进行依赖项更新.
 - [ghub.io](https://ghub.io) -重定向到npm软件包的GitHub存储库.
 - [npm addict](https://npmaddict.com) -您每天注射npm软件包.
-- [npm discover](http://www.npmdiscover.com) -了解哪些软件包通常一起使用.
 
 ### Browser extensions
 
@@ -59,7 +53,6 @@
 
 - [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) -npm的ZSH更好地完成.
 - [npkill](https://github.com/voidcosmos/npkill) -轻松查找并删除旧的沉重的node_modules文件夹.
-
 
 ## Packages
 
@@ -123,13 +116,11 @@
 - [emma-cli](https://github.com/maticzav/emma-cli) -交互式CLI软件包搜索实用程序.
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) -整理锁文件以提高安全性和信任策略，以减轻恶意程序包注入和不安全的锁文件资源.
 
-
 ## Clients
 
 - [yarn](https://github.com/yarnpkg/yarn) -快速，可靠和安全的依赖性管理.
 - [npm](https://github.com/npm/cli) -官方客户.
 - [pnpm](https://github.com/pnpm/pnpm) -快速，节省磁盘空间的软件包管理器.
-
 
 ## Tips
 
@@ -168,7 +159,6 @@ $ npm install-全局npm
 别名nlg =&#39;npm list --global --depth = 0&#39;
 ```
 
-
 ### Don't add to package.json when installing
 
  默认情况下，npm将您安装的软件包添加到package.json中的“ dependencies”字段（自v5起）.  您可以通过指定`--no-save`标志来防止这种情况.  您可以使用`--save-dev` /`-D`将软件包添加到`devDependencies`中：
@@ -179,7 +169,7 @@ $ npm install --save-dev ava
 
 ### Run scripts
 
-您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script)  通过将npm添加到package.json的“ scripts”字段中来使用npm并使用npm run运行它们 <script-name>  `.  运行`npm run`来查看可用的脚本.  本地安装软件包的二进制文件位于 [PATH](https://en.wikipedia.org/wiki/PATH_(variable)），因此您可以按名称运行它们.
+您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script)  通过将npm添加到package.json的“ scripts”字段中来使用npm并使用npm run运行它们 <script-name>  `.  运行`npm run`来查看可用的脚本.  本地安装软件包的二进制文件位于 [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name.
 
 ```json
 {
@@ -314,7 +304,7 @@ $ npm开始
 $ npm测试
 ```
 
-This will lint your files before running your tests. The tests will not run if linting fails. Or more generally spoken: the following script won’t be executed if one of the scripts running in sequence exits with an exit code other than 0.
+ 在运行测试之前，这将使文件掉毛.  如果掉毛失败，测试将不会运行.  或更普遍地说：如果按顺序运行的脚本之一以0以外的退出代码退出，则不会执行以下脚本.
 
  *注意：`pre`和`post`脚本也可以用于您的自定义npm脚本.  所以`npm run foo`也将运行`prefoo`和`postfoo`.
 
@@ -345,7 +335,6 @@ $ npx狗名
 npx：在3.136s中安装了46
 Bentley
 ```
-
 
 ### Run commands with different Node.js versions
 
@@ -433,7 +422,6 @@ Examples:
 
 非常适合制作原型，但可以下载文件或使用Browserify进行生产.
 
-
 ## FAQ
 
 - [Check in node_modules vs. shrinkwrap](http://stackoverflow.com/questions/11459733/check-in-node-modules-vs-shrinkwrap)
@@ -442,7 +430,6 @@ Examples:
 - [Find the version of an installed npm package](http://stackoverflow.com/questions/10972176/find-the-version-of-an-installed-npm-package)
 - [What's the difference between dependencies, devDependencies, and peerDependencies in package.json?](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
 
-
 ## Community
 
 - [`#npm` on Freenode](http://webchat.freenode.net/?channels=npm)
@@ -450,7 +437,6 @@ Examples:
 - [Reddit](https://www.reddit.com/r/npm)
 - [Twitter](https://twitter.com/npmjs)
 - [Blog](https://blog.npmjs.org)
-
 
 ## Documentation
 
@@ -462,16 +448,12 @@ Examples:
 - [npm run script](https://docs.npmjs.com/cli/run-script)
 - [Stats API](https://github.com/npm/download-counts)
 
-
 ## Support
 
 - [npm.community](https://npm.community/c/support)
 - [Twitter](https://twitter.com/npm_support)
 - [Contact form](https://www.npmjs.com/support)
 
+## Related
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Sindre Sorhus](https://sindresorhus.com) 放弃了此作品的所有版权以及相关或邻近的权利.
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)

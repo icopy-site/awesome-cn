@@ -27,7 +27,7 @@
 
 - [NewRelic plugin](https://github.com/jippi/cakephp-newrelic/tree/cake3) -一个完整的插件，可为CakePHP应用程序实现完整的New Relic集成，包括CLI命名，异常发送，自定义计时等.
 
-- [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) - A simple plugin that enables just name transaction and browser timing for a CakePHP 3 application using the New Relic PHP agent.
+- [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) -一个简单的插件，可以使用New Relic PHP代理仅对CakePHP 3应用程序进行名称交易和浏览器计时.
 
 ## Asset Management
 *用于管理，压缩和最小化网站资产的工具.*
@@ -93,7 +93,7 @@
 *实现依赖项注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) - Dependency injection container plugin that adds the ability to configure object instances and their dependencies before they are used, and to store them into a container class for easy access.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖项注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -197,7 +197,7 @@
 - ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
 - [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以还原到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
-- [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.
+- ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.
 - [Comments plugin](https://github.com/Kareylo/CakePHP-Comments) -完全可自定义的评论插件.
 - [CurrencyConverter plugin](https://github.com/AlessandroMinoccheri/cakephp-currency-converter) -一个将货币转换为另一种货币的插件.
 - [Dashboard plugin](https://github.com/gourmet/dashboard) -为蛋糕建立漂亮的仪表板.
@@ -231,7 +231,7 @@
 ## Notifications
 *使用通知软件的插件.*
 
-- [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) -一个插件，可通过Google Cloud Messaging将下游消息发送到Android或iOS设备.
+- [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) - A plugin to send downstream messages to an Android or iOS device through Google Cloud Messaging.
 - [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) -一个易于创建和阅读通知的插件.
 - [ker0x/Push plugin](https://github.com/ker0x/cakephp-push) -一个插件，可通过Firebase Cloud Messaging等服务发送推送通知.
 
@@ -334,8 +334,8 @@
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) -前端框架FormHelper扩展.
 - [CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](https://commonmark.org) （降价）对模型和视图的支持.
 - ：草莓： [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) -一个视图类，可以轻松生成CSV.
-- [Datalist plugin](https://github.com/rrd108/cakephp-datalist) -支持HTML5数据列表元素，并可以在相关模型中创建新条目.
-- [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类，可轻松生成（复杂）RSS feed.
+- [Datalist plugin](https://github.com/rrd108/cakephp-datalist) - Support for HTML5 datalist element with the possibility to create new entries into associated models.
+- ：草莓： [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类，可轻松生成（复杂）RSS feed.
 - [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) -一个插件，可将HTML样式块转换为View模板上的内联CSS（旨在与电子邮件模板一起使用）.
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) -Jade模板引擎插件.
 - [Liquid plugin](https://github.com/gourmet/liquid) -使用Liquid模板语言进行查看的插件.
@@ -349,7 +349,6 @@
 
 - [CakePHP Codeception module](https://github.com/cakephp/codeception) -与CakePHP的官方集成 [Codeception](https://codeception.com).
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) -官方CakePHP CS规则.
-- [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) -自动查找代码问题/发出气味并自动修复CS错误.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) 支持CakePHP固定装置.
 - [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) -灯具插件可读取现有灯具并创建表/插入数据，以快速启动应用程序.
 - [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) -在运行测试套件时，通过减少插入量来提高插入夹具的效率（仅限mysql）.

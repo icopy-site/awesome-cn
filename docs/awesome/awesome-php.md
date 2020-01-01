@@ -5,7 +5,7 @@
 精选的令人赞叹的PHP库，资源和闪亮的清单.
 
 ## Contributing and Collaborating
-请参见 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 有关详细信息.
+请参阅 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 有关详细信息.
 
 
 ### Composer Repositories
@@ -125,7 +125,7 @@
 *使用HTTP的库.*
 
 * [Buzz](https://github.com/kriswallsmith/Buzz) -另一个HTTP客户端.
-* [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) - A comprehensive HTTP client.
+* [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) -全面的HTTP客户端.
 * [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
 * [PHP VCR](https://php-vcr.github.io/) -用于记录和重放HTTP请求的库.
 * [Requests](https://github.com/rmccue/Requests) -一个简单的HTTP库.
@@ -260,7 +260,7 @@
 * [Halite](https://paragonie.com/project/halite) -使用以下方法进行加密的简单库 [libsodium](https://github.com/jedisct1/libsodium).
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) -符合标准的HTML过滤器.
 * [IniScan](https://github.com/psecio/iniscan) -扫描PHP INI文件的安全性的工具.
-* [Optimus](https://github.com/jenssegers/optimus) -根据Knuth的乘法散列方法进行ID模糊处理.
+* [Optimus](https://github.com/jenssegers/optimus) -基于Knuth的乘法哈希方法进行ID混淆.
 * [PHP Encryption](https://github.com/defuse/php-encryption) -安全的PHP加密库.
 * [PHP SSH](https://github.com/Herzult/php-ssh) -面向实验对象的SSH包装器库.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) -一个纯PHP安全通信库.
@@ -565,7 +565,7 @@
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) -用于在度量单位之间转换的库.
 
 ### Filtering and Validation
-*Libraries for filtering and validating data.*
+*用于过滤和验证数据的库.
 
 * [Assert](https://github.com/beberlei/assert)  -具有丰富的断言集的验证库.  支持断言链接和惰性断言.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) -提供用于验证和清除对象和数组的工具.
@@ -594,7 +594,7 @@
 *用于缓存数据的库.
 
 * [Alternative PHP Cache (APC)](https://secure.php.net/manual/en/book.apc.php) -为PHP打开操作码缓存.
-* [APIx Cache](https://github.com/apix/cache) -薄的PSR-6缓存包装器，用于各种缓存后端，强调缓存标记和索引.
+* [APIx Cache](https://github.com/apix/cache) -精简的PSR-6缓存包装器，用于各种缓存后端，强调缓存标记和索引.
 * [CacheTool](https://github.com/gordalina/cachetool) -从命令行清除APC /操作码缓存的工具.
 * [Cake Cache](https://github.com/cakephp/cache) -缓存库（CP）.
 * [Doctrine Cache](https://github.com/doctrine/cache) -缓存库.
@@ -698,6 +698,7 @@
 * [Prooph Service Bus](https://github.com/prooph/service-bus) -支持CQRS和微服务的轻量级消息总线
 * [RMT](https://github.com/liip/RMT) -用于版本控制和发布软件的库.
 * [sabre/vobject](https://github.com/sabre-io/vobject) -用于解析VCard和iCalendar对象的库.
+* [Safe](https://github.com/thecodingmachine/safe) -所有PHP函数，均经过重写以引​​发异常，而不是返回false.
 * [Slimdump](https://github.com/webfactory/slimdump) -适用于MySQL的简单转储工具.
 * [Spork](https://github.com/kriswallsmith/spork) -分叉库的过程.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) -允许对Closures进行序列化的库.
@@ -709,7 +710,7 @@
 *用于创建开发环境的软件.*
 
 ### PHP Installation
-*可帮助您在计算机上安装和管理PHP的工具.*
+*Tools to help install and manage PHP on your computer.*
 
 * [HomeBrew](https://brew.sh/) -OSX的软件包管理器.
 * [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher) -Brew PHP切换器.
@@ -844,7 +845,7 @@
 
 * [Composer Primer](https://daylerees.com/composer-primer/) -作曲家入门.
 * [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) -有关Composer稳定性标志的文章.
-* [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) -有关Composer版本控制的文章.
+* [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
 * [Create Your Own PHP Framework](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html) -Fabien Potencier撰写的有关如何制作自己的PHP框架的系列文章.
 * [Don't Worry About BREACH](https://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) -有关BREACH hack和CSRF令牌的文章.
 * [On PHP 5.3, Lambda Functions and Closures](http://fabien.potencier.org/on-php-5-3-lambda-functions-and-closures.html) -有关lambda函数和闭包的文章.
@@ -872,7 +873,7 @@
 * [When Does Foreach Copy?](https://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html) -有关foreach内部的文章.
 * [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) -有关对象和数组内部的文章.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) -有关内部ZVAL的文章.
-*收集垃圾： [1](https://secure.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://secure.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://secure.php.net/manual/en/features.gc.performance-considerations.php) -有关PHP垃圾回收内部原理的系列文章.
+*收集垃圾： [1](https://secure.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://secure.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://secure.php.net/manual/en/features.gc.performance-considerations.php) -有关PHP垃圾回收内部的一系列文章.
 *开发人员的PHP源代码： [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](https://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](https://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) -有关PHP源代码的系列.
 
 ### PHP Magazines

@@ -21,7 +21,7 @@
 - [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) -为表单元素添加更好的默认样式.
 - [benface's transitions](https://github.com/benface/tailwindcss-transitions) -添加带有或不带有CSS变量的可配置过渡实用程序.
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) -通过CSS变量和`prefers-color-scheme`添加了强大的主题功能.
-- [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) -添加`text-indent`实用程序.
+- [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
 - [Transforms](https://github.com/benface/tailwindcss-transforms) -添加`transform`实用程序.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) -添加了“图像渲染”实用程序.
 - [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) -扩展`cursor`工具.
@@ -104,14 +104,14 @@
 
 -  [Color shades generator](https://javisperez.github.io/tailwindcolorshades) -Tailwind CSS（在线）的阴影生成器.
 -  [Color palette generator](https://adevade.github.io/color-scheme-generator) -调色板生成器，可为Tailwind CSS（在线）输出颜色配置.
-- 🌍 [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground) -使用Tailwind CSS（在线）为按钮设置主题的游乐场.
+-  [Tailwind Button Playground](https://minthemiddle.github.io/tailwind-button-playground) -使用Tailwind CSS（在线）为按钮设置主题的游乐场.
 -  [Stitches](https://stitches.hyperyolo.com/) -带有Tailwind的模板生成器（在线）.
 -  [Tailwind Colors](https://tailwind-colors.meidev.co) -Tailwind CSS的颜色配置生成器.
 -  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) -Tailwind类的前缀工具.
 -  [Tailwindo](https://github.com/awssat/tailwindo) -引导到Tailwind CSS转换器.
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) -转换工具，用于将HTML文件从Tailwind CSS v0.x升级到v1.0.
 -  [Tailwind Shift](https://github.com/awssat/tailwind-shift) -用于从Tailwind CSS v0.7升级到v1.0的升级工具.
-- 🌍 [tailwind.run](https://tailwind.run) -带有内置功能的Tailwind CSS提琴（在线）.
+-  [tailwind.run](https://tailwind.run) -带有内置功能的Tailwind CSS提琴（在线）.
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) -Tailwind CSS的TypeScript类型.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) -生成Tailwind配置的Zeplin扩展.
 -  [Gatsby Plugin Tailwind CSS](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) -Gastby插件，可将Tailwind CSS与CSS-in-JS结合使用.
@@ -125,6 +125,7 @@
 -  [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) -集成了Tailwind CSS的Figma插件.
 -  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
 -  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
+-  [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) -Tailwind CSS的调色板生成器（在线）.
 
  |  表情符号|  描述
 | ----- | ---------------------------------------------- |

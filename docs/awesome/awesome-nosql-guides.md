@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome NoSQL Guides [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- &gt;“ NoSQL（最初指的是“非SQL”或“非关系”数据库）提供了一种存储和检索数据的机制，该机制的建模方式不同于关系数据库中使用的表格关系.  - [Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
+ &gt;“ NoSQL（最初指的是“非SQL”或“非关系”数据库）提供了一种用于存储和检索数据的机制，该机制的建模方式不同于关系数据库中使用的表格关系.  - [Wikipedia](https://en.wikipedia.org/wiki/NoSQL)
 
 精选的资源和链接列表，涉及“使用” NoSQL数据库以及在决定使用数据库时要查找的内容.
 
@@ -25,6 +25,7 @@
 - [Use cases for NoSQL (2017)](https://stackoverflow.com/questions/2875432/use-cases-for-nosql) -有关在传统SQL数据库上使用NoSQL数据库的最佳用例的堆栈溢出的讨论.
 - [Best Practices for NoSQL Database Design (2012)](https://softwareengineering.stackexchange.com/q/158790/) -有关NoSQL数据库设计的几个答案和链接.
 - [Five Common Data Stores and When to Use Them (2019)](https://engineering.shopify.com/blogs/engineering/five-common-data-stores-usage) -文章描述了五个常用数据存储（关系数据库，非关系（“ NoSQL”）数据库，键值存储，全文搜索引擎，消息队列）及其属性.
+- [NoSQL Databases (PDF)](https://web.archive.org/web/20190927222738/https://www.christof-strauch.de/nosqldbs.pdf)  -长达149页的文档，概述了NoSQL数据库的动机和基本原理，以及这些数据库之间的通用概念，技术和模式；  最后更新时间约为2011年.
 
 
 ## Data Structures and Modeling
@@ -32,7 +33,7 @@
 - [Structure Your Database](https://firebase.google.com/docs/database/android/structure-data) -如果您的数据库使用JSON，则最好的做法是（截至2018年）结构化数据.
 - [NoSQL Data Modeling Techniques (2012)](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/) -本文从数据建模的角度简短地比较了NoSQL系统系列，并总结了几种常见的建模技术.
 - [Data Models for MongoDB](https://docs.mongodb.com/manual/data-modeling/)  -特定于MongoDB的数据建模帮助，包括模式验证和示例模式.  但是，概念可能会延续到其他文档NoSQL数据库.
-- [Data Models Will Be Beautiful Again (2016)](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) -Essay认为，尽管现有无模式数据库，但是周到的数据库建模对于使用算法获取知识和见解至关重要.
+- [Data Models Will Be Beautiful Again (2016)](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) -Essay认为，尽管现有的无模式数据库已经存在，但是周到的数据库建模对于使用算法获取知识和见解至关重要.
 - [Unified Data Modeling for Relational and NoSQL Databases](https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases) -使用统一数据建模技术管理NoSQL和关系数据库的解决方案.
 - [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) -用于查询同一数据库中多个范例的模式.
 - [How to Design Schema for Your NoSQL Database?](https://www.dataversity.net/how-to-design-schema-for-your-nosql-database/#) -尽管人们普遍认为NoSQL不需要架构，但本文概述了NoSQL数据库如何遵循“查询驱动的设计”以及架构中这种灵活性的注意事项.

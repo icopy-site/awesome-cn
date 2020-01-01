@@ -34,7 +34,7 @@
 
 - [wagtail-readability](https://github.com/takeflight/wagtail-readability) -测试您输入到Wa中的内容的可读性.
 - [wagtailembedder](https://github.com/springload/wagtailembedder) -用于Wagtail Richtext字段的摘要嵌入器.
-- [Wagtail TinyMCE](https://github.com/isotoma/wagtailtinymce) -用于Wagtail的TinyMCE编辑器集成.
+- [Wagtail TinyMCE](https://github.com/isotoma/wagtailtinymce) -Wagtail的TinyMCE编辑器集成.
 - [Wagtail Froala](https://github.com/jaydensmith/wagtailfroala) -扩展Wagtail以在RichTextField / RichTextBlock中使用Froala WYSIWYG编辑器.
 - [Wagtail Medium Editor](https://github.com/dperetti/Django-wagtailmedium) -可定制的Wagtail媒体编辑器，具有链接锚点支持.
 - [WagtailDraftail](https://github.com/springload/wagtaildraftail) – Wagtail的Draft.js编辑器，基于 [Draftail](https://github.com/springload/draftail) 和 [draftjs_exporter](https://github.com/springload/draftjs_exporter).
@@ -145,6 +145,7 @@
 - [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) -该应用程序可将GraphQL支持自动添加到Wagtail网站.
 - [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) -Mixin支持在管理面板中进行拖放排序.
 - [Wagtail Live Preview](https://github.com/KalobTaulien/wagtail-livepreview) -内容旁边的实时页面预览.
+- [Wagtail Resume](https://github.com/adinhodovic/wagtail-resume) –一个Wagtail项目，旨在简化开发人员的简历创建.
 
 ## Tools
 
@@ -158,7 +159,7 @@
 ### Getting started
 
 - [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/)  -一段时间以来，几乎完全只使用Drupal作为我选择的主要工具，所以有人要求我使用Wagtail组合构建.  通过 [@kiwimind](https://twitter.com/kiwimind).
-- [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)  -Wagtail是Django生态系统中相对较新的CMS.  但是，它的年龄并不妨碍它具有我们将在本文中发现的许多功能.
+- [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)  -Wagtail是Django生态系统中相对较新的CMS.  但是，他的年纪并不妨碍他具有我们将在本文中发现的许多功能.
 - [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) -与Wagtail和周围的社区广泛合作，我们发现开发人员在开始使用Wagtail时遇到了一系列常见的陷阱.
 
 ### Articles
@@ -218,7 +219,7 @@
 - [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由汤姆·戴森（Tom Dyson）设计.
 - [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由莱西·威廉姆斯·亨舍尔.
 - [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) 由Ryan Sullivan撰写.
-- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）
+- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）创作.
 - [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) 哈里斯·拉皮罗夫（Harris Lapiroff）撰写.
 - [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) 由Zarina Mustapha提供.
 - [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) 由Ryan Verner撰写.
@@ -231,9 +232,9 @@
 - [The State of Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=592) 由汤姆·戴森（Tom Dyson）设计.
 - [Image rotation feature – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2057)  克里斯·亚当斯（Chris Adams）撰写.  码.
 - [Debug templates – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2264) 由Coen van der Kamp撰写.
-- [Wagtail Headless with HATEOAS – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2567) 由Duco Dokter撰写.
+- [Wagtail Headless with HATEOAS – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2567) 由Duco Doctor.
 - [Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2926) 克里斯·亚当斯（Chris Adams）撰写.
--[[WIP] Wagtail – Wagtail Space 2019中（丰富文本）创作经验的未来]（Thibaud Colas）（https://youtu.be/MAzZ2lhMhzM?t=4067）.
+-[[WIP] Wagtail – Wagtail Space 2019（丰富文本）创作经验的未来]（Thibaud Colas）（https://youtu.be/MAzZ2lhMhzM?t=4067）.
 - [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) 由Lisa Adams和Codie Roelf撰写.
 - [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) 由Coen van der Kamp和Lucas Moeskops撰写.
 - [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) 由Lars van de Kerkhof撰写.
@@ -257,7 +258,7 @@
 
 ### Podcasts
 
-- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) -在这一集中，汤姆·戴森（Tom Dyson）解释了Wagtail的创建方式，将其与其他选项区分开的地方以及何时为项目实现它.
+- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) -在这一集中，汤姆·戴森（Tom Dyson）解释了Wa的创建方式，使其与其他选择区分开来的原因以及何时为项目实施它.
 
 ### Videos
 
@@ -312,7 +313,7 @@
 - [Secure the News](https://github.com/freedomofpress/securethenews) –自动化的扫描仪和Web仪表板，用于跟踪新闻机构之间的TLS部署.
 - [HackSoft](https://github.com/HackSoftware/hacksoft.io) – HackSoft网站.
 - [HackConf](https://github.com/HackSoftware/hackconf.bg) –一年一度的HackConf网站.
-- [RTEI](https://github.com/okfn/rtei) –受教育权指数网站（OKFN）.
+- [RTEI](https://github.com/okfn/rtei) -受教育权指数网站（OKFN）.
 - [BVSPCA](https://github.com/nfletton/bvspca) – Bow Valley SPCA网站.
 - [Project TIER](https://github.com/ProjectTIER/projecttier.org) –实证研究中的教学完整性.
 - [SecureDrop](https://github.com/freedomofpress/securedrop.org) –由Wagtail驱动的SecureDrop举报人文件提交系统网站.
