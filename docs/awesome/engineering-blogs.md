@@ -6,7 +6,7 @@
   <h2>
 	  <a href="https://tinyletter.com/kichoi">每周</a>订阅<a href="https://tinyletter.com/kichoi">dev，</a>以获取<a href="https://tinyletter.com/kichoi">每周</a>精选的最佳博客文章！
   </h2>
-</div>  
+</div>
 
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
@@ -47,7 +47,7 @@
 * Appnexus https://techblog.appnexus.com/
 *方舟http://blog.arkency.com/
 * Artsy http://artsy.github.io/
-* Asana https://blog.asana.com/category/eng/
+*体式https://blog.asana.com/category/chi/
 * Atlassian https://developer.atlassian.com/blog/
 *原子对象https://spin.atomicobject.com/
 * Auth0 https://auth0.com/blog/
@@ -74,7 +74,6 @@
 *贝莱德http://rockthecode.io/
 *搅拌器https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
-* BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
@@ -90,7 +89,7 @@
 *厨师https://blog.chef.io
 *聪明的https://engineering.clever.com/
 * CleverTap https://clevertap.com/blog/tag/engineering/
-* CloudBees https://www.cloudbees.com/blog
+* CloudBees https://www.previous.cloudbees.com/blog
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
@@ -140,8 +139,8 @@
 * Etsy https://codeascraft.com/
 * Eventbrite https://www.eventbrite.com/engineering/
 * Evernote https://evernote.com/blog/
-*邪恶火星人https://evilmartians.com/chronicles/
-* Expedia https://techblog.expedia.com/
+* Evil Martians https://evilmartians.com/chronicles/
+* Expedia https://medium.com/expedia-group-tech
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
@@ -255,7 +254,7 @@
 *中https://medium.com/medium-eng
 *中球https://mesosphere.com/blog/
 * Microsoft Python工程https://blogs.msdn.microsoft.com/pythonengineering/
-* Mixmax https://mixmax.com/blog/tag/engineering
+* Mixmax https://engineering.mixmax.com/
 * Mixpanel https://code.mixpanel.com/
 * MongoDB https://engineering.mongodb.com/
 *孟山都http://engineering.monsanto.com/
@@ -264,7 +263,7 @@
 * Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla发布工程https://planet.mozilla.org/releng/
 * Myntra https://medium.com/myntra-engineering
-* Myntra数据科学http://sartorialscience.myntrablogs.com/
+* Myntra数据科学https://medium.com/myntra-engineering/tagged/data-science
 
 #### N companies
 * Netflix https://medium.com/netflix-techblog
@@ -425,7 +424,6 @@
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
-* Wix https://www.wix.engineering/blog
 * Wolox https://medium.com/@WoloxEngineering/
 * Wombat安全技术http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
@@ -492,9 +490,9 @@
 * Bartlomiej Filipek http://www.bfilipek.com/
 *本·麦考密克https://benmccormick.org/
 *比尔蜥蜴http://www.billthelizard.com/
-* Bjørn Johansen https://bjornjohansen.no/
+*比约恩·约翰森https://bjornjohansen.no/
 *布莱克·埃里克森（Blake Erickson）https://blog.blakeerickson.com/
-* Blundell的Android教程http://blog.blundellapps.co.uk
+* Blundell's Android Tutorials http://blog.blundellapps.co.uk
 * Bohops https://bohops.com/
 *布兰登·罗兹（Brandon Rhodes）http://rhodesmill.org/brandon/
 *布伦丹·艾希（Brendan Eich）https://brendaneich.com/
@@ -663,7 +661,7 @@
 #### N individuals
 娜塔莎·穆拉舍夫（Natasha Murashev）https://natashatherobot.com
 *尼尔森·艾尔哈格（Nelson Elhage）https://blog.nelhage.com/
-*没什么Raboy https://blog.nraboy.com/
+* Nic Raboy https://www.thepolyglotdeveloper.com/blog/
 *尼克·克雷弗（Nick Craver）https://nickcraver.com/blog/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nick Galbreath http://www.client9.com/
@@ -798,7 +796,7 @@
 * .NET https://blogs.msdn.microsoft.com/dotnet/
 
 #### R technologies
-*反应https://facebook.github.io/react/blog/
+*反应https://reactjs.org/blog/
 * React Native http://facebook.github.io/react-native/blog/
 *红色http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
