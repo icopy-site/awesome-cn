@@ -9,6 +9,7 @@
 ## Datasets
 
 - [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中于数据驱动的最新端到端（E2E）NLG方法，该方法从不对齐的数据中共同学习句子规划和表面实现.
+- [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库.
 - [WebNLG](https://github.com/ThiagoCF05/webnlg) -在INLG 2018上介绍了WebNLG的增强版本.
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) -YelpNLG提供自然语言生成餐厅评论的资源.
 
@@ -82,6 +83,7 @@
 
 ## Videos
 
+- [Data-To-Text: Generating Textual Summaries of Complex Data - Ehud Reiter](https://www.youtube.com/watch?v=kFRw-wk5YOA)
 - [Natural Language Generation (Introduction)](https://www.youtube.com/watch?v=4fjM72lbJaw)
 - [Strata Data Conference | The future of natural language generation: 2017-2027](https://www.youtube.com/watch?v=Ls7elVbN8bI)
 - [The Quest for Automated Story Generation - Mark Riedl](https://www.youtube.com/watch?v=wgcDUX_BPpk)

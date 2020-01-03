@@ -638,7 +638,7 @@ AWS存储库：
 * [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) -没有服务器的聊天应用程序.
 * [danilop/LambdAuth :fire::fire::fire::fire:](https://github.com/danilop/LambdAuth) -示例身份验证服务.
 * [eawsy/aws-lambda-go :fire::fire::fire:](https://github.com/eawsy/aws-lambda-go) -一种快速干净的方法来执行Go on Lambda.
-* [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) -Kappa是一个CLI工具，可以更轻松地部署，更新和测试AWS Lambda的功能.
+* [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) -Kappa是一个CLI工具，可简化AWS Lambda的部署，更新和测试功能.
 * [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) -Lambda供电，高度分布式的负载测试工具.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) -通过Lambda自动化Chrome.
 * [jeremydaly/lambda-api :fire::fire::fire:](https://github.com/jeremydaly/lambda-api) -用于无服务器应用程序的轻量级Web框架.
@@ -647,7 +647,7 @@ AWS存储库：
 * [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) -受StatusPage.io启发的状态页面系统，该系统基于AWS Lambda.
 * [kubek2k/lambdoku :fire::fire::fire:](https://github.com/kubek2k/lambdoku) -使用Lambda时具有类似Heroku的体验.
 * [lambci/lambci :fire::fire::fire::fire::fire:](https://github.com/lambci/lambci) -建立在Lambda上的持续集成系统.
-* [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) -Lambda通过并发控制（每个，映射，归约，过滤）对S3对象起作用.
+* [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) -Lambda通过并发控制（每个，映射，化简，过滤）对S3对象起作用.
 * [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) -轻松部署，运行并获得结果.
 * [Miserlou/Zappa :fire::fire::fire::fire::fire:](https://github.com/Miserlou/Zappa) -带有AWS Lambda + API网关的无服务器WSGI Python Web应用程序.
 * [nficano/python-lambda :fire::fire::fire::fire:](https://github.com/nficano/python-lambda) -用于在Lambda中开发和部署无服务器Python代码的工具包.
@@ -715,7 +715,7 @@ AWS存储库：
 
 AWS存储库：
 
-* [route53-infima :fire:](https://github.com/awslabs/route53-infima) -管理服务级别的故障隔离.
+* [route53-infima :fire::fire:](https://github.com/awslabs/route53-infima) -管理服务级别的故障隔离.
 
 社区回购：
 
@@ -727,7 +727,7 @@ AWS存储库：
 社区回购：
 
 * [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
-* [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) -S3命令行工具，对于大型文件，它的速度比S3cmd好.
+* [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) -S3命令行工具，对于大型文件，它比S3cmd更快.
 * [CulturalMe/meteor-slingshot :fire::fire::fire:](https://github.com/CulturalMe/meteor-slingshot) -在流星中上传文件.
 * [danilop/yas3fs :fire::fire::fire:](https://github.com/danilop/yas3fs) -另一个受S3FS启发的S3支持的文件系统.
 * [grippy/node-s3](https://github.com/grippy/node-s3) -Node.js应用程序来管理存储桶.
@@ -911,7 +911,7 @@ AWS存储库：
 * [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash)  -开源的LaunchRock替代方案.  建立漂亮的启动页面.
 * [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) -用于管理资源以构建基础结构的Puppet模块.
 * [mhart/react-server-routing-example :fire::fire:](https://github.com/mhart/react-server-routing-example) -React中的示例通用客户端/服务器路由和数据.
-* [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) -由Hadoop，Kafka，Kinesis，Redshift和Elasticsearch支持的企业级网络，移动和事件分析.
+* [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) -由Hadoop，Kafka，Kinesis，Redshift和Elasticsearch支持的企业级Web，移动和事件分析.
 * [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) -asgard支持管道等的后继者.
 * [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) -允许您的python测试轻松模拟出boto库.
 
@@ -1183,7 +1183,7 @@ AWS会议：
 * 102Tbps的数据中心网络容量.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 *自2014年以来推出了500多种主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *所有其他14个云提供商的总和是AWS总容量的1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持Amazon的所有全球基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+*当AWS成为年收入达7B美元的企业（2004年）时，每天都会增加足够的新服务器容量来支持Amazon的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 

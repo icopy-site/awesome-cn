@@ -105,7 +105,7 @@
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - 音乐播放器.
 - [Shake](https://github.com/lumios/shake) -日本地震预警通知者.
 - [Fog](https://github.com/vitorgalvao/fog) -非官方的播客播客应用.
-- [Wmail](https://github.com/Thomas101/wmail) -非官方的Gmail和Google收件箱应用.
+- [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
 - [Boostnote](https://github.com/BoostIO/Boostnote) -针对开发人员的Markdown注释和代码段应用程序.
 - [Before Dawn](https://github.com/muffinista/before-dawn) -屏幕保护程序工具.
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) -非官方的Active Collab应用.
@@ -173,6 +173,7 @@
 - [Motrix](https://github.com/agalwood/Motrix) - 下载管理器.
 - [Franz](https://github.com/meetfranz/franz) -在同一应用中使用Skype，Slack，环聊，WhatsApp，Grape，Telegram，FB Messenger，Hipchat.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) -非官方的Gmail应用程序.
+- [Upcount](https://github.com/madisvain/upcount) -开票.
 
 ### Closed Source
 
@@ -326,7 +327,7 @@
 
 ## Components
 
-- [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
+- [Photon](http://photonkit.com) -用于构建精美应用程序的UI工具包.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) -使用React构建的光子组件.
 - [menubar](https://github.com/maxogden/menubar) -菜单栏应用程序框架.
 - [cookies](https://github.com/hstove/electron-cookies) -增加了对`document.cookie`的支持.

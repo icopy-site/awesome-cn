@@ -79,7 +79,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 ### PHP
 
 - [parsedown](https://github.com/erusev/parsedown) -PHP中更好的Markdown解析器.
-- [php-markdown](https://github.com/michelf/php-markdown) -Markdown和Markdown Extra的解析器，由John Gruber原始Markdown.pl衍生而来.
+- [php-markdown](https://github.com/michelf/php-markdown) -Markdown和Markdown Extra的解析器，由John Gruber原始Markdown.pl派生而来.
 
 ### Python
 
@@ -142,30 +142,29 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 
 ### Miscellaneous
 
-&gt;可让您编辑，转换，导出等的Markdown文档的工具.
+&gt;可以让您编辑，转换，导出等的Markdown文档的工具.
 
 - [Classeur](http://classeur.io/)  -Classeur是一个用于编写简单笔记以及技术文档和博客的新平台.  ！[地球] [地球]
-- [Dillinger](https://dillinger.io/)  -Dillinger是基于云的，可移动的，脱机存储的，由AngularJS支持的HTML5 Markdown编辑器.  ！[地球] [地球]
+- [Dillinger](https://dillinger.io/)  -Dillinger是基于云的，可移动的，离线存储的，由AngularJS支持的HTML5 Markdown编辑器.  ！[地球] [地球]
 - [GitDown](https://github.com/gajus/gitdown)  – GitHub的Markdown预处理器.  ：octocat：
 - [HackMD](https://hackmd.io)  -HackMD可让您在所有平台上创建实时协作式Markdown注释.  ！[地球] [地球]
 - [Laverna](https://laverna.cc/)  -Laverna是具有Markdown编辑器和加密支持的JavaScript笔记应用程序.  ：gem：_Markdown加密笔记！_！[Globe] [globe]！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Markable.in](https://markable.in/)  -卓越的Markdown编辑器.  ！[地球] [地球]
 - [markcat](https://github.com/BubuAnabelas/markcat)  -Markdown文件终端查看器.  ：gem：_`cat`，Markdown突出显示._！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
-- [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  -具有CSV导入支持的Visual Markdown表构建器.  ！[地球] [地球]
-- [markcat](https://github.com/BubuAnabelas/markcat)  -Markdown文件终端查看器.  ：gem：_`cat`，Markdown突出显示._！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Markdown Magic](https://github.com/DavidWells/markdown-magic) -自动设置降价文件的格式并同步外部docs / src代码
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  -具有CSV导入支持的Visual Markdown表构建器.  ！[地球] [地球]
 - [remark](https://remark.js.org/) -由插件支持的Markdown处理器
 - [Socrates](https://socrates.io/)  -无服务的实时Markdown编辑器和查看器，类似于etherpad.  ！[地球] [地球]
-- [Markdown Magic](https://github.com/DavidWells/markdown-magic) -自动设置降价文件的格式并同步外部docs / src代码
+
 
 ### Presentations
 
 &gt;使用Markdown创建和编辑幻灯片演示文稿.
 
 - [gitpitch](https://github.com/gitpitch/gitpitch/)  -GitHub，GitLab，Bitbucket，GitBucket，Gitea和Gogs上所有人的Markdown演示.  ！[地球] [地球]
-- [Marp](https://yhatt.github.io/marp/)  -Markdown演示作者.  ：gem：_类似于PowerPoint，但带有Markdown！_！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Marp](https://yhatt.github.io/marp/)  -Markdown演示作者.  ：gem：_Like PowerPoint但带有Markdown！_！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [mdp](https://github.com/visit1985/mdp)  -基于命令行的Markdown演示工具.  ：gem：_类似于PowerPoint和Vim，但带有Markdown！_！[Mac OS X] [macosx]！[Linux] [linux]
-- [remark](https://remarkjs.com)  -由Markdown驱动的，浏览器内的简单幻灯片演示工具，面向熟悉HTML和CSS方式的人们.  ！[地球] [地球]
+- [remark](https://remarkjs.com)  -一个简单的，由浏览器内部，由Markdown驱动的幻灯片放映工具，面向熟悉HTML和CSS方式的人们.  ！[地球] [地球]
 
 ## Services
 
