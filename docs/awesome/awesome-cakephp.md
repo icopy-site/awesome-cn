@@ -202,7 +202,7 @@
 - [CurrencyConverter plugin](https://github.com/AlessandroMinoccheri/cakephp-currency-converter) -一个将货币转换为另一种货币的插件.
 - [Dashboard plugin](https://github.com/gourmet/dashboard) -为蛋糕建立漂亮的仪表板.
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) -用于导出，导入和管理数据库备份的插件.
-- [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  -允许访问者发送快速简便的反馈，包括  通过边栏形式的屏幕截图.
+- ：草莓： [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  -允许访问者发送快速简便的反馈信息，包括.  通过边栏形式的屏幕截图.
 - ：草莓： [Flash plugin](https://github.com/dereuromark/cakephp-flash) -针对您的应用程序的更强大的Flash消息.
 - [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) -允许使用hashid来不向用户公开数据库id.
 - [Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) -监视您的应用程序的声音（例如，数据库是否可用和最新）.

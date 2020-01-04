@@ -175,7 +175,7 @@ _简化与数据库交互的所有内容._
 - [Leaf](https://github.com/Meituan-Dianping/Leaf) -分布式ID生成服务.
 - [Liquibase](http://www.liquibase.org) -独立于数据库的库，用于跟踪，管理和应用数据库架构更改.
 - [MapDB](http://www.mapdb.org) -嵌入式数据库引擎，可提供并发收集到磁盘或堆外内存的备份.
-- [MariaDB4j](https://github.com/vorburger/MariaDB4j) - Launcher for MariaDB that requires no installation or external dependencies.
+- [MariaDB4j](https://github.com/vorburger/MariaDB4j) -无需安装或外部依赖项的MariaDB启动器.
 - [OrientDB](https://orientdb.com/orientdb) -在Hazelcast顶部编写的可嵌入式分布式数据库.
 - [Presto](https://prestosql.io) -用于大数据的分布式SQL查询引擎.
 - [Querydsl](http://www.querydsl.com) -Typesafe统一查询.
@@ -220,7 +220,7 @@ _有助于实现 [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_
 - [Dagger2](https://google.github.io/dagger) -无反射的编译时注入框架.
 - [Feather](https://github.com/zsoltherpai/feather) -符合JSR-330的超轻量级依赖注入库.
 - [Governator](https://github.com/Netflix/governator) -扩展了Google Guice的扩展程序和实用程序.
-- [Guice](https://github.com/google/guice) -完善Dagger的轻量级，自以为是的框架.
+- [Guice](https://github.com/google/guice) -轻巧且自以为是的框架，完善了Dagger.
 - [HK2](https://javaee.github.io/hk2) -轻量级和动态依赖注入框架.
 - [JayWire](https://github.com/vanillasource/jaywire)  -轻量级依赖注入框架.  （仅限LGPL-3.0）
 
@@ -383,7 +383,7 @@ _试图简化开发多个方面的集成开发环境.
 
 - [Eclipse](https://www.eclipse.org) -建立了支持许多插件和语言的开源项目.
  -[IntelliJ IDEA！[c]]（https://www.jetbrains.com/idea）-支持许多JVM语言并为Android开发提供了不错的选择.  商业版针对企业部门.
-- [jGRASP](https://www.jgrasp.org) -创建以提供与调试器结合使用的软件可视化效果，例如控件结构图，UML类图和对象查看器.
+- [jGRASP](https://www.jgrasp.org) -创建用于提供与调试器结合使用的软件可视化效果，例如控件结构图，UML类图和对象查看器.
 - [NetBeans](https://netbeans.apache.org) -提供从数据库访问到HTML5的多个Java SE和EE功能的集成.
 - [Visual Studio Code](https://code.visualstudio.com/docs/languages/java) -通过使用内部市场的扩展，以简单，现代的工作流程为轻量项目提供Java支持.
 
@@ -402,7 +402,7 @@ _可协助创建，评估或处理图形图像的库.
 
 _帮助简化和更快使用Java自省和反射API的库.
 
-- [ClassGraph](https://github.com/classgraph/classgraph) -ClassGraph（以前称为FastClasspathScanner）是适用于Java，Scala，Kotlin和其他JVM语言的超快速，超轻量，并行化的类路径扫描器和模块扫描器.
+- [ClassGraph](https://github.com/classgraph/classgraph) -ClassGraph（以前的FastClasspathScanner）是适用于Java，Scala，Kotlin和其他JVM语言的超快速，超轻量，并行化的类路径扫描器和模块扫描器.
 - [jOOR](https://github.com/jOOQ/jOOR)  -jOOR代表面向对象的反射.  它是java.lang.reflect包的简单包装.
 - [Mirror](http://projetos.vidageek.net/mirror/mirror) -创建Mirror是为了解决一个简单的问题，通常称为ReflectionUtil，该问题几乎在所有依赖反射来执行高级任务的项目中都存在.
 - [Objenesis](http://objenesis.org) -允许没有默认构造函数的动态实例化，例如，具有必需参数，副作用或抛出异常的构造函数.
@@ -453,7 +453,7 @@ _JVM / JDK的当前实现.
 - [Corretto](https://aws.amazon.com/corretto)  -由Amazon提供的OpenJDK的免费，多平台，生产就绪的发行版.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Graal](https://github.com/oracle/graal)  -Polyglot可嵌入的JVM.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Liberica JDK](https://www.bell-sw.com/java.html)  -由OpenJDK构建，经过全面测试并通过了JCK.  （仅限GPL-2.0，带Classpath-exception-2.0）
-- [OpenJ9](https://github.com/eclipse/openj9) -高性能，企业级，灵活许可，开放管理的跨平台JVM，扩展并增强了Eclipse OMR和OpenJDK项目中的运行时技术组件.
+- [OpenJ9](https://github.com/eclipse/openj9) -高性能，企业级，灵活许可，开放管理的跨平台JVM，用于扩展和增强Eclipse OMR和OpenJDK项目中的运行时技术组件.
 - [Open JDK](https://openjdk.java.net)  -打开JDK社区主页.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)  -具有非阻塞并发GC的VM for iOS.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview)  -RedHat的OpenJDK发行版.  （仅限GPL-2.0，带Classpath-exception-2.0）
@@ -532,7 +532,7 @@ _其他一切_
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) -用于Maven的Gradle Wrapper的类比，允许在不安装maven的情况下构建项目.
 - [Membrane Service Proxy](https://github.com/membrane/service-proxy) -用Java编写的开源反向代理框架.
 - [MinimalFTP](https://github.com/Guichaguri/MinimalFTP) -轻巧，小型且可自定义的FTP服务器.
-- [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial) -流行的Java 8指南.
+- [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial) - Popular Java 8 guide.
 - [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin) -检测旧版Java API的使用.
 - [Multi-OS Engine](https://multi-os-engine.org) -开源，跨平台引擎，用于开发本机移动（iOS，Android等）应用程序.
 - [OpenRefine](http://openrefine.org) -处理混乱数据的工具：清理，转换，使用Web服务扩展它并将其链接到数据库.
@@ -717,7 +717,7 @@ _框架是包含多个类别的多个库的套件.
 - [Monitoring](http://commons.apache.org/sandbox/commons-monitoring) -监视旨在为Java应用程序提供一个简单但可扩展的监视解决方案.
 - [Nabla](http://commons.apache.org/sandbox/commons-nabla) -Nabla提供了自动区分类，可以生成以Java语言实现的任何功能的派生类.
 - [Net](http://commons.apache.org/proper/commons-net) -网络实用程序和协议实现的集合.
-- [OGNL](http://commons.apache.org/proper/commons-ognl) - An Object-Graph Navigation Language.
+- [OGNL](http://commons.apache.org/proper/commons-ognl) -对象图导航语言.
 - [OpenPGP](http://commons.apache.org/sandbox/commons-openpgp) -使用OpenPGP签名和验证数据的接口.
 - [Performance](http://commons.apache.org/sandbox/commons-performance) -用于微基准测试客户端的小型框架，具有Commons DBCP和Pool的实现.
 - [Pipeline](http://commons.apache.org/sandbox/commons-pipeline) -提供一组围绕工作队列设计的管道实用程序，这些工作并行运行以顺序处理数据对象.
@@ -765,12 +765,12 @@ _专门用于创建RESTful服务的框架.
 - [Jersey](https://jersey.github.io) -JAX-RS参考实现.
 - [Microserver](https://github.com/aol/micro-server)  —用于Spring和Spring Boot的便捷，可扩展的微服务插件系统.  随着30多个插件的不断发展，它支持微独石和纯微服务样式.
 - [Rapidoid](https://www.rapidoid.org) -一个简单，安全且非常快速的框架，由嵌入式HTTP服务器，GUI组件和依赖项注入组成.
-- [rest.li](https://github.com/linkedin/rest.li) -使用端到端开发人员工作流的类型安全绑定和异步，无阻塞IO构建健壮的，可伸缩的RESTful架构的框架，该端到端的开发人员工作流可促进简洁的做法，统一的界面设计和一致的数据建模.
+- [rest.li](https://github.com/linkedin/rest.li) -用于使用类型安全绑定和异步，非阻塞IO以及端到端开发人员工作流来构建健壮，可扩展的RESTful体系结构的框架，该端对端开发人员工作流可促进简洁的做法，统一的界面设计和一致的数据建模.
 - [RESTEasy](https://resteasy.jboss.org) -JAX-RS规范的完整认证和可移植实施.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -JBoss Netty HTTP堆栈上的精简包装器，可提供扩展和性能.
 - [Restlet Framework](https://github.com/restlet/restlet-framework-java) -具有强大的路由和过滤功能以及统一的客户端和服务器API的开拓性框架.
 - [Spark](http://sparkjava.com) -Sinatra启发框架.
-- [Crnk](http://www.crnk.io) -实施JSON API规范，以建立具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
+- [Crnk](http://www.crnk.io) -实施JSON API规范，以构建具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
 - [springdoc-openapi](https://github.com/springdoc/springdoc-openapi) -使用Spring Boot项目自动生成API文档.
 - [Swagger](https://swagger.io) -REST API的标准，与语言无关的接口.
 
@@ -897,6 +897,7 @@ _提供环境以针对特定用例运行测试.
 - [Citrus](https://citrusframework.org) -集中于客户端和服务器端消息传递的集成测试框架.
 - [Gatling](https://gatling.io) -旨在简化易用性，可维护性和高性能的负载测试工具.
 - [JUnit](http://junit.org) -通用的测试框架.
+- [jqwik](https://jqwik.net) -基于JUnit 5的基于属性的测试引擎.
 - [Pact JVM](https://github.com/DiUS/pact-jvm) -消费者驱动的合同测试.
 - [PIT](http://pitest.org) -快速的突变测试框架，用于评估现有JUnit或TestNG测试套件的故障检测能力.
 
@@ -1073,7 +1074,7 @@ _编程时要看或听的东西.
 - [Reza Rahman](https://twitter.com/reza_rahman) -Java EE / GlassFish / WebLogic传播者，作家，演讲者，开源黑客.
 - [Sander Mak](https://twitter.com/Sander_Mak) -Java Champion，作家.
 - [Simon Maple](https://twitter.com/sjmaple) -Java冠军，VirtualJUG创始人，LJC负责人，RebelLabs作者.
-- [Spencer Gibb](https://twitter.com/spencerbgibb) -软件工程师，父亲，极客，Spring Cloud Core @pivotal的联合创始人兼负责人.
+- [Spencer Gibb](https://twitter.com/spencerbgibb) - Software Engineer, Dad, Geek, Co-founder and Lead of Spring Cloud Core @pivotal.
 - [Stephen Colebourne](https://twitter.com/jodastephen) -Java Champion，演讲者.
 - [Trisha Gee](https://twitter.com/trisha_gee) -Java Champion和演讲者.
 - [Venkat Subramaniam](https://twitter.com/venkat_s) -作者，休斯敦大学教授，MicroSoft MVP获奖者，JavaOne Rock Star，Java Champion.

@@ -4,7 +4,7 @@
 
 #### [Join us on Discord](https://discord.gg/gpBxq85) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat&colorB=green&suffix=%20online&query=count&uri=https%3A%2F%2Fgbhh.avivace.com%2Fapi%2Fdiscord)](https://discord.gg/gpBxq85)
 
- 精选的Game Boy（彩色）开发资源，工具，文档，相关项目和开源ROM的精选列表.  受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+ 精选的Game Boy（彩色）开发资源，工具，文档，相关项目和开源ROM的精选列表.  受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 您可以找到此列表的（网络冷却器）网络版本 [here](https://gbdev.github.io/list.html).
 
@@ -121,7 +121,7 @@
 - [ESP8266 GB Dev Board](https://github.com/applefreak/esp8266-gameboy-dev-board) -由ESP8266驱动的Game Boy配件开发开发板.
 - [ESP8266 GB Printer](https://github.com/applefreak/esp8266-gameboy-printer) -一种模拟GB打印机并允许您使用WiFi检索图像的设备.
 - [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) -包含有关硬件，定制板以与控制台和其他相关项目交互的信息负载的页面.
-- [Game Boy hardware database](https://gbhwdb.gekkio.fi/) -各种类型的Game Boy游戏机的数据和照片.
+- [Game Boy hardware database](https://gbhwdb.gekkio.fi/) - Data and photos of various types of Game Boy consoles.
 - [DMG-CPU-Inside](https://github.com/furrtek/DMG-CPU-Inside) -从裸照中提取的DMG-CPU-B芯片的原理图和带注释的叠加层.
 
 ### Peripherals
@@ -134,7 +134,7 @@
     * [Zok Zok Heroes](https://shonumi.github.io/articles/art8.html)  -Zok Zok Heroes的Full Changer，一种动作激活的配件.
     * [Infrared Madness](https://shonumi.github.io/articles/art11.html) -关于Game Boy Color的红外通讯.
     * [Game Boy 4-Player Adapter](https://shonumi.github.io/articles/art9.html) -DMG-07.
-    * [Barcode Boy](https://shonumi.github.io/articles/art7.html) - The first Game Boy card-scanner.
+    * [Barcode Boy](https://shonumi.github.io/articles/art7.html) -第一个Game Boy卡扫描器.
     * [Barcode Taisen Bardigun](https://shonumi.github.io/articles/art6.html) -90年代后期DMG-GBC条形码阅读器.
 - [DMG-07 Technical Documentation](https://raw.githubusercontent.com/shonumi/gbe-plus/master/src/docs/technical/DMG_07.txt)
 - [Game Boy Camera RE](https://github.com/AntonioND/gbcam-rev-engineer) -有关GB相机的文档以及用于通过Arduino进行反向工程的工具.
@@ -169,8 +169,7 @@
 - [Homebrew Gameboy Color Cartridge](https://github.com/Xyl2k/Gameboy-Color-Cartridge) -EEPROM供电墨盒的电路板布局.
 - [Nekocart](https://github.com/zephray/NekoCart-GB) -使用Xilinx CPLD作为MBC5的开源闪存盒（[Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 - [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/)  -商业和自制可编程磁带和编程系统.  提供了教程，接线和原理图.
-
-
+- [Gameboy-MBC5-MBC1-Hybrid](https://github.com/insidegadgets/Gameboy-MBC5-MBC1-Hybrid) -MBC5 / MBC1混合磁带的CPLD实现.
 
 ## Emulator Development
 
@@ -221,7 +220,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [gbforth](https://github.com/ams-hackers/gbforth) -基于Forth的Game Boy开发套件.
 - [gbasm-rs](https://gitlab.com/BonsaiDen/gbasm-rs) -为Game Boy z80汇编代码提供的基于Rust的编译器.
 - [gbasm](https://github.com/BonsaiDen/gbasm) -用于Game Boy z80汇编代码的基于JavaScript的编译器.
-- [tniASM](http://www.tni.nl/products/tniasm.html) -宏汇编.
+- [tniASM](http://www.tni.nl/products/tniasm.html) -宏汇编器.
 - [Assembler](https://github.com/ulrikdamm/Assembler) -用Swift编写的汇编器.
 - [llvm-gbz80](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80](https://github.com/Bevinsky/clang-gbz80) -通往GBZ80 CPU的Clang / LLVM端口（类似于已弃用的端口 [euclio/llvm-gbz80](https://github.com/euclio/llvm-gbz80)).
 
@@ -266,7 +265,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Gameboy-LinkUp](https://github.com/JustinLloyd/Gameboy-LinkUp) -Game Boy LinkUp串行电缆网络项目.
 - [vtGBte](https://github.com/paul-arutyunov/vtGBte) -简约的ncurses磁贴编辑器.
 - [tpp1](https://github.com/TwitchPlaysPokemon/tpp1) -自定义GB / GBC内存/硬件映射器的定义和规范，作为MBC的功能超集.
-- [libstdgb](https://github.com/delwink/libstdgb) -有用的Game Boy操作（SDCC）的AC库.
+- [libstdgb](https://github.com/delwink/libstdgb) - A C library of useful Game Boy operations (SDCC).
 - [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) -GIMP图像编辑器插件，用于导入和导出GBMB和GBTD tilemap和tileset（作为位图图像或.GBM / .GBR文件）.
 - [Tilemap Helper](https://github.com/bbbbbr/gimp-tilemap-helper) -GIMP图像编辑器插件，用于优化图块地图和图块集.
 
@@ -332,7 +331,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
 - [GBDK Tutorial](https://refreshgames.co.uk/2016/04/18/gameboy-tutorial-rom/) -入门GBDK的游戏演示相当少.
 - [GBDK Sprite](http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial) -提出了用于显示和设置多个精灵的工作流.
-- [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) - Extends your knowledge of basic spriting on the Game Boy by adding colors to sprites, backgrounds and the window layer.
+- [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) -通过向精灵，背景和窗口图层添加颜色，扩展了您对Game Boy基本拼写的知识.
 - [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) -详细介绍了将手柄与GBDK配合使用的方法.
 - [Game Boy home of Flavor](http://www.personal.triticom.com/~erm/GameBoy/) -一些完整的游戏和资源.
 - [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) -配置GBDK，使用图块，碰撞精灵，GBTD，GBMB，内存管理和ROM Banking.
@@ -369,7 +368,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) -Fourway Breakout克隆.
 - [Galaxia](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
-- [desgb](https://github.com/sanqui/desgb) -加密.
+- [desgb](https://github.com/sanqui/desgb) -DES加密.
 - [superhappyfunbubbletime](https://github.com/l0k1/superhappyfunbubbletime)
 - [minesweepGB](https://github.com/lancekindle/minesweepGB)
 - [Libbet and the Magic Floor](https://github.com/pinobatch/libbet)
@@ -471,6 +470,8 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [GBCartFlasher firmware](https://github.com/Tauwasser/GBCartFlasher)
 - [VerilogBoy](https://github.com/zephray/VerilogBoy/) -Game Boy兼容控制台Verilog RTL实现.
 - [GBCamcorder](https://github.com/furrtek/GBCamcorder) -使用GameBoy相机卡盒的Lo-Fi便携式录像机.
+- [GBCartRead](https://github.com/insidegadgets/GBCartRead) -从/向GameBoy弹药筒读取ROM，读取RAM或写入RAM.
+- [GBxCart-RW](https://github.com/insidegadgets/GBxCart-RW) -一种用于读取游戏ROM，保存游戏并通过USB从PC上保存GB，GBC和GBA购物车的设备.
 
 ### Directories
 
@@ -495,11 +496,11 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 ### License
 
 根据** GPLv3 **许可.
-See [LICENSE](LICENSE) 欲获得更多信息.
+See [LICENSE](LICENSE) 了解更多信息.
 
 ### Acknowledgements
 
-谢谢 [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) 这个项目的贡献者，杰夫·弗罗韦因，帕斯卡尔·费尔伯，KOOPa，Pan of Anthrox，GABY，Marat Fayzullin，Paul Robson，BOWSER，neviksti，马丁“ nocash” Korth，Nitro2k01，Duo，Chris Antonellis，Michael Hope，当心，乔纳森·洛德梦” Gevaryahu，Carsten Sorense，SindreAamås，Otaku No Zoku，GeeBee.
+谢谢 [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) 该项目的贡献者，Jeff Frohwein，Pascal Felber，KOOPa，Pan of Anthrox，GABY，Marat Fayzullin，Paul Robson，BOWSER，neviksti，Martin“ nocash” Korth，Nitro2k01，Duo，Chris Antonellis，Michael Hope，当心，Jonathan“ Lord梦” Gevaryahu，Carsten Sorense，SindreAamås，Otaku No Zoku，GeeBee.
 
 ### Sponsors
 

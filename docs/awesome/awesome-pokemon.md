@@ -36,6 +36,7 @@
 - [Pokemon Name API](https://github.com/sindresorhus/pokemon) -获取JSON中的神奇宝贝名称的列表.
 - [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) -JSON中的PokémonGO的Pokédex.
 - [PokeTypes](https://github.com/fbosch/poke-types) -获取神奇宝贝的类型，弱点和长处.
+- [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) -使用Kotlin构建的Pokedex应用.
 
 #### Apps
 - [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) -神奇宝贝战斗模拟器.
@@ -67,7 +68,7 @@
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) -神奇宝贝GO MITM代理.
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) -带有实时编辑器的WebGLPokémonMMO引擎.
 - [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) -向您显示确定哪个神奇宝贝磨成糖果所需的IV和信息.
-- [PoGoTools](https://github.com/nelsyeung/PoGoTools) -一套用于获取IV，转移神奇宝贝，进化神奇宝贝以及丢弃物品的CLI工具.
+- [PoGoTools](https://github.com/nelsyeung/PoGoTools) -一套用于获取IV，转移神奇宝贝，不断发展的神奇宝贝以及丢弃物品的CLI工具.
 - [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) -Node.js应用程序，用于检查PokémonGO服务器的响应能力.
 - [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) -一种将所有神奇宝贝上传到Slack表情符号的工具.
 - [slack-emoji-pokemon](https://github.com/Templarian/slack-emoji-pokemon) -Slack的神奇宝贝表情符号列表.

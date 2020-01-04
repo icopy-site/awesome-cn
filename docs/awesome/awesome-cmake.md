@@ -34,7 +34,7 @@
 * [Article](http://preshing.com/20170511/how-to-build-a-cmake-based-project/) -如何构建基于CMake的项目.
 * [Article](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/) -在15分钟内学习CMake的脚本语言.
 * [Article](http://aosabook.org/en/cmake.html) -CMake的体系结构.
-* [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) -有效的CMake-由C ++ Now 2017年Daniel Pfeifer撰写.
+* [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) -有效的CMake-由C ++ Now 2017年Daniel Pfeifer撰写
 * [Article](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/) -使用CMake构建跨平台CUDA应用程序.
 * [Tutorial](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) -了解CMake的分步指南.
 * [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) -拥抱现代CMake-Stephen Kelly撰写.
@@ -53,6 +53,7 @@
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) -现代CMake简介.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html)  -如何CMake好.  [```[CC0-1.0]```] [CC0-1.0]
 * [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) -更现代的CMake（[slides & examples](https://github.com/Bagira80/More-Modern-CMake)）-由会议C ++ 2018的Deniz Bahadir撰写.
+* [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk)  - 不好了！  更现代的CMake（[slides](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf)）-由会议C ++ 2019的Deniz Bahadir撰写.
 * [Article](https://cristianadam.eu/20190223/modifying-the-default-cmake-build-types/)  -修改默认的CMake构建类型/标志，工具链和补丁-噢，天哪！  -克里斯蒂安·亚当（Cristian Adam）.
 
 ## Package Management / Build Systems
@@ -70,7 +71,7 @@
 
 ## Modules
 
-* [cmake-modules](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik) 的CMake模块集合.  有许多查找模块，特别是用于虚拟现实和物理模拟的查找模块，一些实用程序模块以及CMake本身的某些修补程序或变通办法.  [```[BOOST]```] [BOOST]
+* [cmake-modules](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik) 的CMake模块集合.  有很多查找模块，特别是用于虚拟现实和物理模拟的查找模块，一些实用程序模块以及CMake本身的某些修补程序或变通办法.  [```[BOOST]```] [BOOST]
 * [cmake-modules](https://github.com/bilke/cmake-modules)  -这是其他CMake模块的集合.  其中大多数来自Ryan Pavlik.  [```[BOOST]```] [BOOST]
 * [CMake](https://github.com/Eyescale/CMake) - [Eyescale](https://github.com/Eyescale) 的常见CMake模块.  [```[BSD3]```] [BSD-3-Clause]
 * [sdl2-cmake-scripts](https://github.com/tcbrindle/sdl2-cmake-scripts)  -用于查找SDL2，SDL2_image和SDL2_ttf库和标头的CMake脚本.  [```[BSD2]```] [BSD-2-Clause]
@@ -81,7 +82,7 @@
 * [extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - [KDE](https://github.com/KDE) 的CMake额外模块和脚本.  [```[BSD3]```] [BSD-3-Clause]
 * [FindICU.cmake](https://github.com/julp/FindICU.cmake)  -CMake模块以查找Unicode国际组件（ICU）库.  [```[BSD2]```] [BSD-2-Clause]
 * [FindTBB](https://github.com/justusc/FindTBB)  -用于英特尔线程构建模块的CMake查找模块.  [```[MIT]```] [MIT]
-* [FindWiX](https://github.com/apriorit/FindWiX) -用于建筑的CMake模块 [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) 与 [WiX toolset](http://wixtoolset.org) .  [```[BSD3]```] [BSD-3-Clause]
+* [FindWiX](https://github.com/apriorit/FindWiX) -用于建筑的CMake模块 [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) 与包装 [WiX toolset](http://wixtoolset.org) .  [```[BSD3]``&#39;] [BSD-3-条款]
 * [FindIDL](https://github.com/apriorit/FindIDL) -用于建筑的CMake模块 [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) MIDL文件并使用生成CLR DLL [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer) ，  [```[W]```] [带]
 * [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei) 的CMake模块集合.  [```[MIT]```] [MIT]
 * [YCM](https://github.com/robotology/ycm) -额外的CMake模块 [Yet Another Robot Platform](https://github.com/robotology/yarp)  和朋友.  [```[BSD3]```] [BSD-3-Clause]
@@ -92,7 +93,7 @@
 
  它们提供了广泛的功能-从处理编译器标志到使用工具.  有些还包含模块.
 
-* [cotire](https://github.com/sakra/cotire)  -Cotire（编译时间减少器）是CMake模块，它通过完全自动化的技术（例如针对C和C ++的预编译头和统一构建）来加速基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
+* [cotire](https://github.com/sakra/cotire)  -Cotire（编译时间减少器）是一个CMake模块，它通过完全自动化的技术（如针对C和C ++的预编译头文件和统一构建）来加快基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
 * [ucm](https://github.com/onqtam/ucm)  -用于管理编译器/链接器标志，收集源，预编译的头文件，统一构建等.  [```[MIT]```] [MIT]
 * [cmakepp](https://github.com/toeb/cmakepp)  -CMake构建系统的增强套件.  [```[MIT]```] [MIT]
 * [sugar](https://github.com/ruslo/sugar) -CMake工具和示例：收集源文件，警告抑制等.[```[BSD2]```] [BSD-2-Clause]
@@ -214,6 +215,6 @@
 [BSD-2-Clause]: https://opensource.org/licenses/BSD-2-Clause
 [BSD-3-Clause]：https://opensource.org/licenses/BSD-3-Clause
 [APACHE2]：http://www.apache.org/licenses/LICENSE-2.0
-[CC0-1.0]：https://creativecommons.org/publicdomain/zero/1.0/
+[CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/
 [MPL]：https://www.mozilla.org/zh-CN/MPL/2.0/
 [未授权]：https：//unlicense.org/
