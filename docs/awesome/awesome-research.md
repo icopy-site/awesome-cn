@@ -29,7 +29,7 @@
 * [GitHub](https://github.com/)：内置社交和协作的git最受欢迎的平台.
    * GitHub还提供了GitHub Actions.  使用动作，可以使流程自动化.
    * GitHub提供了GitHub Pages.  使用GitHub Pages，可以托管静态文件以及 [Jekyll](https://jekyllrb.com) 建网站.
-* [GitLab](https://about.gitlab.com/) ：与GitHub类似，gitlab提供git托管，协作，社交，自动化等功能.  使用其开源代码，GitLab既可以基于云，也可以自我托管.
+* [GitLab](https://about.gitlab.com/) ：与GitHub类似，gitlab提供git托管，协作，社交，自动化等功能.  使用它的开源代码，GitLab既可以基于云，也可以自我托管.
   * GitLab包含无限的免费私人存储库.
   * GitLab附带了一个持续集成工具，它比GitHub Actions更强大.
 * [BitBucket](https://bitbucket.org)：使用免费的私有存储库替代GitHub和GitLab.
@@ -51,7 +51,7 @@
 
 > [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)  可以用来提高您的生产力并可能改善您的健康.  这些工具几乎有无限的选择.
 
-* [Pomotodo](https://pomotodo.com/) （“云”，“ Mac”，“ Win”，“ Android”，“ iOS”，“ Chrome”）：待办事项列表和番茄定时器的混合，跨设备同步和每周报告[免费].
+* [Pomotodo](https://pomotodo.com/) （“云”，“ Mac”，“ Win”，“ Android”，“ iOS”，“ Chrome”）：待办事项列表和番茄钟计时器的混合，跨设备同步和每周报告[免费].
 * [Tadam](https://tadamapp.com/) （`Mac`）：简洁典雅的番茄钟[USD $ 4.99].
 * [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) （`Android`）：具有出色游戏功能的Pomodoro计时器[免费].
 
@@ -82,7 +82,7 @@
 * [Google Colab](https://colab.research.google.com/) ：免费在线jupyter笔记本.  Google Colab还提供免费的GPU小时.
   *自由和强大.
   *在同一笔记本上共享和协作.
-  * Can be saved in GitHub or Google Drive.
+  *可以保存在GitHub或Google Drive中.
 * [NextJournal](https://nextjournal.com/)：用于可重复研究的笔记本.
   *基本上，NextJournal几乎可以运行任何东西.
   *专注于生殖.
@@ -209,7 +209,7 @@
 
 * [ReadtheDocs](http://readthedocs.org/)：将您的reStructuredText源转换为HTML，PDF和epub，都可以在线完成.
 * [GitHub pages](https://pages.github.com/) ：与Jekyll集成并自动关闭降价信息.  Jekyll是写博客的工具.
-* [GitHub](http://github.com) ：只需将markdown，reStructuredText，PDF或IPython / Jupyter笔记本文件放在GitHub上即可.  所有这些格式都可以在线预览.  **要提到的是，IPython Notebook中的数学运算可以在GitHub上呈现.**
+* [GitHub](http://github.com) ：只需将markdown，reStructuredText，PDF或IPython / Jupyter笔记本文件放在GitHub上即可.  所有这些格式都可以在线预览.  **要提到的是，IPython Notebook中的数学可以在GitHub上呈现.**
 * [Aerobatic](https://www.aerobatic.com/)：GitHub Pages的强大替代品.
 * [Surge](https://surge.sh/) ：一个命令上传您的静态网站以使其正常运行.  Surge还集成了GitHub挂钩.
 * [Heroku](https://www.heroku.com/)：不需要解释的那个.
@@ -247,7 +247,7 @@
 * [Hexo](https://hexo.io/)  （写在`Node.js`）（`Markdown`）中：“一个快速，简单且功能强大的博客框架”，正如他们在其网站上所说.  它支持GFM.
 * [Pelican](http://getpelican.com) （写在Python中）（reStructuredText`，Markdown，AsciiDoc`）：Pelican是一个模块化框架，非常适合写博客.
   * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle)
-* [Nikola](https://getnikola.com/) （用Python编写）（reStructuredText，Markdown，IPython Notebook / Jupyter，PHP等）：它采用多种输入格式，包括reStructuredText和许多其他格式.
+* [Nikola](https://getnikola.com/) （用Python写）（reStructuredText`，&#39;Markdown&#39;，&#39;IPython Notebook / Jupyter`，PHP&#39;等）：它采用多种输入格式，包括reStructuredText和许多其他格式.
 * [Hugo](http://gohugo.io/) （写在“ Go”中）（`Markdown`）：易于使用且非常快.  它还通过插件支持更多输入格式.
 
 
@@ -268,7 +268,7 @@
 
 #### Markdown
 
-* [Hackmd.io](https://hackmd.io) （`Cloud`）：基本上随附最完整的在线Markdown编辑器所期望的一切.
+* [Hackmd.io](https://hackmd.io) （`Cloud`）：基本上随附最完整的在线Markdown编辑器提供的所有功能.
 * [StackEdit](https://stackedit.io/)（`Cloud`）：StackEdit是Markdown编辑器，具有许多集成服务，例如数学（MathJax），Google Drive，Dropbox和GitHub.
 * [CMD markdown](https://www.zybuluo.com/mdeditor) （`Cloud`）：CMD是具有数学（MathJax）支持的Markdown编辑器.  特殊之处在于它保留编辑历史记录.  （中文界面.）
 * [Penflip](https://www.penflip.com/) （`Cloud`）：Penflip被设计为作家的GitHub.  它是基于Markdown的，并且像git一样，没有数学支持.
@@ -277,7 +277,7 @@
 * [Online Kramdown Editor](http://kramdown.herokuapp.com/)（`Cloud`）：只是另一个Markdown编辑器，没有数学支持.
 * [Pandoc Markdown](http://pandoc.herokuapp.com/)（`Cloud`）：只是另一个具有数学（MathJax）支持的Markdown编辑器.
 * [Marxico](http://marxi.co/)（“云”，“ Mac”，“ Win”，“ Chrome”）：与Evernote集成在一起的Markdown编辑器，可生成pdf并离线运行. [马克飞象](https://maxiang.io/)（Cloud，Mac，Win，Chrome）是中文版本.
-* [Madoko](https://www.madoko.net/) （`Cloud`，`Chrome`）：具有数学支持的Markdown编辑器，单击即可轻松插入图像，而文件则保存在Dropbox，GitHub，OneDrive或本地磁盘上.  它生成pdf和HTML页面，并使用浏览器的本地存储脱机工作.  甚至可以导入LaTeX文件.
+* [Madoko](https://www.madoko.net/) （`Cloud`，`Chrome`）：具有数学支持的Markdown编辑器，只需单击一下即可轻松插入图像，而文件则保存在Dropbox，GitHub，OneDrive或本地磁盘上.  它生成pdf和HTML页面，并使用浏览器的本地存储脱机工作.  甚至可以导入LaTeX文件.
 * [Markx](http://markx.herokuapp.com/) （`Cloud`）：Markdown编辑器，用于科学写作.  包括电池.
 * [typora](https://www.typora.io/)（`Mac`，`Win`）：精美的用户界面和现场实时预览.
 * [Haroopad](http://pad.haroopress.com/) （`Mac`，`Win`，`Linux`）：一个功能强大的github风格的markdown编辑器，具有有用的扩展名.  支持数学（mathjax）.
@@ -373,7 +373,7 @@
 
 &gt; **某些程序允许您将降价注释保留在服务器上.**
 
-* [Raneto](http://raneto.com/) ：Raneto是一个开源知识库平台，使用静态Markdown文件为您的知识库提供支持.  这个看起来不错.
+* [Raneto](http://raneto.com/) ：Raneto是一个开源知识库平台，它使用静态Markdown文件为您的知识库提供动力.  这个看起来不错.
 * [Realms](http://realms.io/) ：由Gollum，Ghost和Dillinger启发的Python编写的基于Git的Wiki.  包括基本身份验证和注册.
 * [Tiddlywiki](http://tiddlywiki.com/)：用于捕获，组织和共享复杂信息的独特的非线性笔记本.
 * 其他 [static site generators](#static-generator).
@@ -476,7 +476,7 @@
 * [Sublime Text](https://www.sublimetext.com/) （“免费评估”，“跨平台”，“插件”）：跨平台，快速且具有插件.  不是免费的，但可以永远永久使用.
 * [JetBrains](https://www.jetbrains.com/)（“学生免费”，“跨平台”，“插件”）：漂亮的IDE，集成了许多调试和编辑模式.
 * [vim](https://github.com/vim/vim)（`Free`，`Cross-platform`，`Plugins`）：没有任何语言可以描述全能的vim.
-  * [Vundle](https://github.com/VundleVim/Vundle.vim)：vim插件管理器
+  * [Vundle](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
   * [vimrc from amix](https://github.com/amix/vimrc)：“ Vim的最终配置：vimrc”
 
 
@@ -527,7 +527,7 @@
 
 ### Get Yourself A Citable Code for Anything
 
-* [Zenodo](https://zenodo.org/)：通过在此处获取DOI代码，使GitHub上的任何内容可被引用.
+* [Zenodo](https://zenodo.org/)：通过在此处获取DOI代码，使GitHub上的任何内容可引用.
 
 ### Get Yourself A Unique and Persistent Digital Identifier
 
@@ -543,17 +543,19 @@
 * [Open Science Framework](https://osf.io/)：具有很多集成的开放科学工具.
 
 ### Bibliography
-* [JabRef](https://www.jabref.org/)：BibTeX格式的开源书目参考管理器.
+
+* [ReadCube/Papers](https://www.readcube.com/) ：一个全平台的应用程序，可用于管理参考，记笔记等.  以前的论文已改名为ReadCube论文.
 * [Mendeley](https://www.mendeley.com/)：具有云存储和BibTeX支持的书目参考管理器.
 * [Zotero](https://www.zotero.org/)：具有同步和BibTeX支持的开源书目参考管理器.
 * [Zotero Style Repository](https://www.zotero.org/styles)：找到您需要的任何样式.
+* [JabRef](https://www.jabref.org/)：BibTeX格式的开源书目参考管理器.
 * [doi2bib](https://www.doi2bib.org/)：从DOI检索BibTeX条目.
 * [crossref](https://www.crossref.org/)：使研究结果易于查找，引用，链接和评估.
 * [org-ref](https://github.com/jkitchin/org-ref)：Emacs中组织模式的引用，交叉引用，索引，词汇表和bibtex实用程序.
 
 ### Tips for Researchers
 
-* [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules) ：一系列快速的“十个简单规则”文章，供研究科学家应对职业生涯中的挑战.  文章的数量是特定于生命科学的，但其余文章对于任何研究人员来说都足够通用.
+* [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules) ：一系列快速的“十个简单规则”文章，供研究科学家应对职业生涯中的挑战.  文章的数量是特定于生命科学的，但其余文章对于任何研究人员来说都是足够通用的.
 * 检查 [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature)  [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) 用于搜索引擎搜索论文.
 
 ## Pacifier
@@ -570,7 +572,7 @@
 * [A Soft Murmur](http://asoftmurmur.com/) （`Web`）：自由混合多个音轨；  简单的用户界面；  提供计时器；  可用曲折
 * [mynoise](https://mynoise.net/noiseMachines.php) （`iOS`，`Web`）：噪声发生器；  选择很多（实际上太多）；  详细均衡器
 * [Rainy Cafe](http://rainycafe.com/)（`Web`）：不多说只是多雨的心情和联想
-* [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep) （“ iOS”，“ Mac”）：单击并播放样式预加载的场景；  使用方便;  漂亮的设计
+* [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep) （“ iOS”，“ Mac”）：单击并播放样式预加载的场景；  易于使用;  漂亮的设计
 * [A youtube audio track of coffee shop (really long)](https://www.youtube.com/watch?v=KZV9FmHOsRg)
 * [A youtube audio track of 10 hours rain fall](https://www.youtube.com/watch?v=s_2FDRtFOAw)
 * [TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix) （`Android`）：混音集中

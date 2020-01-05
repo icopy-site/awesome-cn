@@ -90,6 +90,7 @@ _有多种方法可以与家庭助理社区联系.
 - [Andrea Donno](https://github.com/adonno/Home-AssistantConfig) -基于Hass.io，专注于触摸屏使用.
 - [Klaas Schoute](https://github.com/klaasnicolaas/Smarthome-homeassistant-config) -基于Hass.io，Intel NUC，Ubuntu Server，Docker，并定期更新.
 - [Jason Hunter](https://github.com/hunterjm/home-assistant-config) -基于Hass.io的Intel NUC i5，TensorFlow和摄像头流.
+- [Nathan](https://github.com/N-l1/home-assistant-config) -基于软件UI的Lovelace配置和主题.
 
 ## Hass.io
 
@@ -183,7 +184,7 @@ _这与外观有关，请应用一些样式.
 _Lovelace允许人们在其上构建自定义卡片，您可以
 轻松添加到您的实例中.
 
-- [Monster Card](https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card) -动态添加实体：魔术.
+- [Monster Card](https://github.com/ciotlosm/custom-lovelace/tree/master/monster-card) - Dynamically adds entities: 🔮 Magic.
 - [Canvas Gauge Card](https://github.com/custom-cards/canvas-gauge-card) -使用来自canvas-gauges.com的超赞量规.
 - [Alarm Control Panel Card](https://github.com/ciotlosm/custom-lovelace/tree/master/alarm_control_panel-card) -看起来像警报键盘的卡.
 - [Big Number Card](https://github.com/ciotlosm/custom-lovelace/tree/master/bignumber-card) -显示大量传感器，包括严重性级别作为背景.
@@ -209,7 +210,7 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) -通过平面图与您的实体进行交互.
 - [Home Card](https://github.com/postlund/home-card) -快速浏览您的房屋状况.
 - [Banner Card](https://github.com/nervetattoo/banner-card) - A fluffy linkable banner with interactive glances to spice up your home dashboards.
-- [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -通过Plex，Kodi，Radarr，Sonarr和Trakt等服务显示即将来临的剧集和电影.
+- [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -显示以下服务中即将发布的剧集和电影：Plex，Kodi，Radarr，Sonarr和Trakt.
 - [Spotify Card](https://github.com/custom-cards/spotify-card) -在Spotify上列出并从当前可用的设备和用户中选择播放列表.
 - [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) -显示电池实体的电池电量.
 - [Multiple Entity Row](https://github.com/benct/lovelace-multiple-entity-row) -在实体行上显示多个实体状态或属性.
@@ -234,7 +235,7 @@ _由社区创建的Home Assistant的其他组件.
 - [Xiaomi Hygrothermo](https://github.com/dolezsa/Xiaomi_Hygrothermo) -小米Mijia BT Hygrothermo温湿度传感器的传感器平台.
 - [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) -集成大众汽车通行证（需要有效的通行证订阅）.
 - [Untappd](https://github.com/custom-components/sensor.untapped) -与您的Untappd帐户关联.
-- [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch.
+- [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) -将事件发布到Elasticsearch.
 - [Sonoff/eWeLink](https://github.com/peterbuga/HASS-sonoff-ewelink) -使用库存固件控制Sonoff / eWeLink智能设备.
 - [Alexa Media Player](https://github.com/keatontaylor/alexa_media_player) -允许控制Amazon Alexa设备.
 - [iCloud3](https://github.com/gcobb321/icloud3) -具有许多功能的iCloud设备跟踪器组件的改进版本.
