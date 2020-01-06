@@ -17,6 +17,7 @@
 * [Jmol](http://jmol.sourceforge.net/) -基于浏览器的HTML5查看器和用于3D化学结构的独立Java查看器.
 * [VMD](http://www.ks.uiuc.edu/Research/vmd/) -分子可视化程序，用于使用3-D图形和内置脚本显示，设置动画和分析大型生物分子系统.
 * [Chimera](https://www.cgl.ucsf.edu/chimera/) -用于交互式分子可视化和分析的高度可扩展程序.
+* [DataWarrior](http://www.openmolecules.org/datawarrior/index.html) -数据可视化和分析程序，结合了动态图形视图和具有化学智能的交互式行过滤.
 
 <a id="app-cmd"></a>
 ### Command Line Tools
@@ -45,7 +46,7 @@
 ### Format Checking
 
 * [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) -设计用来提供标准化分子的简单方法的工具，例如作为分子建模练习的序幕.
-* [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
+* [MolVS](https://github.com/mcs07/MolVS) -基于分子的验证和标准化 [RDKit](http://www.rdkit.org/).
 
 <a id="lib-visualization"></a>
 ### Visulization
@@ -122,7 +123,7 @@
 * [Macs in Chemistry](http://www.macinchem.org/) -为使用Apple Macintosh计算机的化学家提供资源.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) -的博客 [Andreas Bender](http://www.andreasbender.de/)，是剑桥大学分子信息学的读者.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) -化学信息学库的一些示例.
-* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是“协作药物发现”的研究科学家.
+* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是协作药物发现公司（Collaborative Drug Discovery）的研究科学家.
 
 ### Books
 
@@ -133,7 +134,7 @@
 ## See Also
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) -深度学习生物学回购中的化学信息学和药物发现部分.
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个清单着重于与化学有关的Python内容.
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个列表重点关注与化学有关的Python内容.
 
 ## License
 

@@ -301,7 +301,7 @@ Installers
   - [Okteto](https://github.com/okteto/okteto)  -直接在任何Kubernetes集群中进行开发  无需提交，构建或推送
   - [Mantl](https://github.com/mantl/mantl) -用于快速部署全球分布式服务的现代平台
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes) -与Kubernetes的Spring Cloud集成
-  - [VAMP](http://vamp.io) - Cloud-Native Release Management & Orchestration
+  - [VAMP](http://vamp.io) -原生云发布管理与编排
   - [Tilt](https://github.com/windmilleng/tilt) -为部署到Kubernetes的团队管理本地开发实例
 
 
@@ -484,7 +484,7 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Reloader](https://github.com/stakater/Reloader) -将ConfigMap和Secrets的更新自动加载到用于部署，StatefulSet和DaemonSet的容器​​中
 * [Telepresence](http://www.telepresence.io) -针对远程Kubernetes集群在本地开发/调试服务
-* [krane](https://github.com/Shopify/krane) - A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result
+* [krane](https://github.com/Shopify/krane) -一个命令行工具，可帮助您将更改发送到Kubernetes命名空间并了解结果
 * [ktunnel](https://github.com/omrikiei/ktunnel) -一个命令行工具，可在Kubernetes和您的集群之间建立反向隧道，将其用于本地开发/调试服务或与本地资源集成.
 
 ## Package Managers
@@ -526,7 +526,7 @@ Projects
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
 * [loki](https://github.com/grafana/loki) -Loki是受Prometheus启发的水平可扩展，高度可用的多租户日志聚合系统.
-* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
+* [Loghouse](https://github.com/flant/loghouse) - Efficiently store big amounts of your logs (in ClickHouse database), process them using a simple query language and monitor them online through web UI.
 
 ## Testing
 
@@ -541,7 +541,7 @@ Projects
 * [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) -基于kubeadm的多节点测试集群
 * [Litmus](https://github.com/openebs/litmus) -用于Kubernetes上有状态工作负载的混沌工程
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) -杀死目标吊舱和机器以测试软件的可靠性
-* [Sonobuoy](https://github.com/heptio/sonobuoy) -运行Kubernetes一致性测试的诊断工具
+* [Sonobuoy](https://github.com/vmware-tanzu/sonobuoy) -运行Kubernetes一致性测试的诊断工具
 * [Test-Infra](https://github.com/kubernetes/test-infra)
 * [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders)  -用于Kubernetes集群的Gamified Chaos工程工具.  就像太空侵略者，但外星飞船是豆荚.
 * [predator](https://github.com/Zooz/predator) -Kubernetes的分布式性能测试平台
@@ -618,7 +618,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和PostgreSQL管理PostgreSQL集群 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [Addon-operator](https://github.com/flant/addon-operator) -在头盔图表中添加钩子和值，以增强头盔的功能并将图表转换为可自我配置并响应集群变化的智能模块.
+* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将舵转换为可自我配置并响应集群变化的智能模块.
 * [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
 
 ## Custom Schedulers
@@ -737,6 +737,7 @@ Projects
 
 ## API/CLI adaptors
 
+* [awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) -kubectl插件的精选列表.
 * [click](https://github.com/databricks/click) -专注于CLI的REPL，用于与Kubernetes对象快速交互.
 * [Ksql](https://github.com/brendandburns/ksql)
 * [kube-prompt](https://github.com/c-bata/kube-prompt) -使用Go-Prompt构建的交互式kubernetes客户端.
@@ -800,7 +801,7 @@ Projects
 ## Security
 
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
-* [Authenticator](https://github.com/heptio/authenticator) -使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
+* [Authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) -使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) -广泛采用的开源实现，统一了Kubernetes网络策略和Istio应用程序策略.
 * [Dex](https://github.com/coreos/dex) -Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持作为身份提供者的Github，Gitlab，Google，Azure和LDAP（AD）.
@@ -809,7 +810,7 @@ Projects
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) -帮助建立自适应且细粒度的Pod安全策略.
 * [kube2iam](https://github.com/jtblin/kube2iam) -为在Kubernetes上运行的Pod提供不同的AWS IAM角色
-* [kubeaudit](https://github.com/Shopify/kubeaudit) - Helps you audit your Kubernetes clusters against common security controls
+* [kubeaudit](https://github.com/Shopify/kubeaudit) -帮助您根据常见的安全控制审核Kubernetes集群
 * [Kubesec.io](http://kubesec.io/)
 * [Pomerium](http://www.pomerium.io/) -受BeyondCorp启发的零信任身份识别访问代理.
 * [Rakkess](https://github.com/corneliusweig/rakkess) -Kubectl插件，显示所有可用资源的访问矩阵.
@@ -825,9 +826,9 @@ Projects
 * [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
 * [AWS ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
-* [Contour](https://github.com/heptio/contour) -Lyft的Envoy代理的Kubernetes入口控制器
+* [Contour](https://github.com/projectcontour/contour) -Lyft的Envoy代理的Kubernetes入口控制器
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
-* [Gimbal](https://github.com/heptio/gimbal) -能够将流量路由到多个Kubernetes和OpenStack集群的平台
+* [Gimbal](https://github.com/vmware-tanzu/gimbal) -能够将流量路由到多个Kubernetes和OpenStack集群的平台
 * [Gloo - Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
 * [Linode NodeBalancer Ingress](https://github.com/linode/linode-cloud-controller-manager)
@@ -888,7 +889,7 @@ Projects
 
 ## Backup and Disaster Recovery
 
-* [Velero](https://github.com/heptio/velero)  -用于管理Kubernetes集群的备份和还原的实用程序.  前Heptio方舟.
+* [Velero](https://github.com/vmware-tanzu/velero)  -用于管理Kubernetes集群的备份和还原的实用程序.  前Heptio方舟.
 * [K8up](https://github.com/vshn/k8up) -基于Restic的Kubernetes和OpenShift Backup Operator
 * [burry.sh](https://github.com/mhausenblas/burry.sh) -为etcd，zookeeper和领事提供Cloud Native备份和恢复
 * [kube-backup](https://github.com/pieterlange/kube-backup) -将kubernetes状态同步到git.
@@ -931,7 +932,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -1020,7 +1021,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) - Acquired by [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 
@@ -1028,20 +1029,20 @@ Videos
 =======================================================================
 
 * [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师
-* [Aparna Sinha](https://twitter.com/apbhatnagar)，集团产品经理-Google的Kubernetes
+* [Aparna Sinha](https://twitter.com/apbhatnagar)，小组产品经理-Google的Kubernetes
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
 * [Brendan Burns](https://twitter.com/brendandburns)微软合伙人架构师
-* [Brian Grant](https://github.com/bgrant0607)，Google首席工程师，Kubernetes首席架构师
+* [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
 * [Carlos Sanchez](https://www.twitter.com/csanchez)，CloudBees高级软件工程师
 * [Chris Aniszczyk](https://www.twitter.com/cra)，云原生计算基金会首席运营官
 * [Eric Tune](https://twitter.com/eric_tune)，Google高级工程师
 * [Ihor Dvoretskyi](https://twitter.com/idvoretskyi)，云原生计算基金会的开发倡导者
 * [Jessie Frazzelle](https://github.com/jessfraz)，Microsoft的云开发倡导者
-* [Joe Beda](https://twitter.com/jbeda)，Heptio创始人兼首席技术官
+* [Joe Beda](https://twitter.com/jbeda) ，VMware首席工程师.  Heptio的前创始人兼CTO
 * [Joseph Jacks](https://twitter.com/asynchio)，昆腾公司驻地企业家
 * [Kelsey Hightower](https://twitter.com/kelseyhightower)，Google的开发人员助理
-* [Kris Nova](https://github.com/kris-nova)，Heptio的工程师，Kubicorn的创建者
+* [Kris Nova](https://github.com/kris-nova)，Kubicorn的创造者
 * [Michelle Noorali](https://www.twitter.com/michellenoorali)，微软软件工程师
 * [Paris Pittman](https://www.twitter.com/ParisInBmore)，开发人员关系经理-Google的Kubernetes
 * [Patrick Reilly](https://twitter.com/preillyme)，思科CTO办公室，思科CNCF董事会成员

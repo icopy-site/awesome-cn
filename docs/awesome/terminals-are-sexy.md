@@ -98,7 +98,7 @@
 * [GNU Screen](https://www.gnu.org/software/screen/) -全屏窗口管理器，在多个进程之间多路复用物理终端.
 * [Go2Shell](https://zipzapmac.com/Go2Shell) -在Finder中打开一个指向当前目录的终端窗口.
 * [Hyper](https://github.com/zeit/hyper) -基于网络技术的终端.
-* [iTerm2](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
+* [iTerm2](https://github.com/gnachman/iTerm2) -适用于macOS的终端模拟器，可完成出色的工作.
 * [KiTTY](http://kitty.9bis.net/) -从PuTTY的0.70版本分支，这是世界上最好的telnet / SSH客户端.
 * [Konsole](https://konsole.kde.org/) -K桌面环境的终端模拟器.
 * [MacTerm](https://www.macterm.net/) -强大的macOS终端替代品.
@@ -192,7 +192,7 @@
 * [colorls](https://github.com/athityakumar/colorls) -用彩色和超棒字体图标美化终端的“ ls”命令.
 * [ddgr](https://github.com/jarun/ddgr) -从终端DuckDuckGo.
 * [df-show](https://github.com/roberthawdon/dfshow) -交互式目录和文件浏览器，具有类似于`ls`命令的感觉.
-* [dockly](https://github.com/lirantal/dockly) -Docker控制台用户界面和仪表板，用于快速管理和检查容器和服务.
+* [dockly](https://github.com/lirantal/dockly) -Docker控制台UI和仪表板，用于快速管理和检查容器和服务.
 * [dry](https://github.com/moncho/dry) -终端的Docker管理器.
 * [exa](https://github.com/ogham/exa) -替换用Rust编写的“ ls”.
 * [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的语法“查找”替换.
@@ -208,6 +208,7 @@
 * [htop](https://hisham.hm/htop/) -顶级命令的外观和交互流程查看器的“替换”.
 * [hub](https://hub.github.com/) -git的命令行包装，使使用GitHub变得容易.
 * [imgp](https://github.com/jarun/imgp) -多核批处理图像缩放器和旋转器.
+* [jaymock-cli](https://github.com/unmock/jaymock-cli) -直接在终端上模拟API并生成伪造的JSON测试数据.
 * [jq.node](https://github.com/FGRibreau/jq.node) -Shell中的命令行JSON /字符串处理器，JavaScript和Lodash.
 * [jrnl](https://github.com/maebert/jrnl) -简单的命令行日志应用程序，将您的日志存储在纯文本文件中.
 * [k](https://github.com/supercrabtree/k) -具有git功能的zsh的目录列表.
@@ -266,9 +267,9 @@
 
 ### Community
 
-*加入CLI爱好者社区.*
+*Join the CLI lover community.*
 
-* [/r/commandline](https://www.reddit.com/r/commandline) -这适用于任何操作系统中与命令行有关的所有内容.
+* [/r/commandline](https://www.reddit.com/r/commandline) -适用于任何操作系统中与命令行有关的所有内容.
 * [/r/osxterminal](https://www.reddit.com/r/osxterminal) -在macOS中使用terminal.app的提示.
 * [/r/zsh/](https://www.reddit.com/r/zsh/) -zsh上的所有内容.
 * [/r/unixporn/](https://www.reddit.com/r/unixporn/) -Unix上的所有内容.

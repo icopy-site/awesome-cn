@@ -18,10 +18,11 @@
 - [BlockPop](https://github.com/vnen/blockpop) -一个简单的Breakout克隆（Godot 2.1）.
 - [Bombs](https://github.com/randyyaj/Bombs)  -简单的手机游戏.  您需要触摸炸弹来化解它们（Godot 2.1）.
 - [Breakable](https://github.com/didier-v/breakable) -突破性游戏（Godot 3.0）.
-- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM (Godot 2.1).
+- [Drone Commander](https://github.com/securas/Drone_Commander)  -指挥无数无人机对付外星人.  专为CGA JAM（Godot 2.1）设计.
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)  -详细世界中的探索性平台游戏.  面向年轻玩家（Godot 2.1）.
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) -为A Game By It&#39;s Cover 2015 Game Jam（Godot 2.1）制作的平台游戏.
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) -在幻想宇宙中的炸弹人克隆（Godot 2.1）.
+- [Haldric](https://github.com/wesnoth/haldric) -韦诺之战（Godot 3.1）的正式进行中重新实现.
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
 - [Libre Pinball](https://github.com/Calinou/libre-pinball) -弹球游戏（Godot 1）.
 - [Memory Game](https://github.com/Tzoop/MemoryGame) -简单记忆游戏（Godot 3.0）.
@@ -33,25 +34,31 @@
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) -外星环境中的2D物理跑酷游戏（Godot 2.1）.
 - [Platshoot](https://github.com/Calinou/platshoot) -2D射击游戏（Godot 2.1）.
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) -自上而下的射击游戏，广泛使用光效（Godot 2.1）.
+- [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) -快节奏的本地派对游戏，带有在自上而下的竞技场中战斗的飞船（Godot 3.1）.
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) -免费的回合制等距策略游戏（Godot 2.1）.
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) -为2016年3月的Godot Engine Jam（Godot 2.1）制造的老鼠突围游戏.
+- [TuxBuilder](https://github.com/Alzter/TuxBuilder) -SuperTux（Godot 3.1）的进行中重新实现.
+- [Unknown Horizons](https://github.com/unknown-horizons/godot-port) -未知地平线的正式进行中重新实现（Godot 3.1）.
 
 ### 3D
 
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) -2016年3月的Godot Engine Jam游戏（Godot 2.1）.
-- [Meteorite](https://github.com/Bauxitedev/meteorite) -受银河战士Prime启发的低分辨率银河战士FPS，为LOWREZJAM 2018（Godot 3.0）设计.
-- [MouseBoat](https://github.com/CowThing/MouseBoat)  -像老鼠一样玩，在池塘里航行.  投下鱼竿并尝试钓些鱼（Godot 2.0）.
+- [Meteorite](https://github.com/Bauxitedev/meteorite) -受银河战士Prime启发的低分辨率银河战士FPS，是为LOWREZJAM 2018（Godot 3.0）设计的.
 - [Rapid Rescue](https://github.com/Azza292/RapidRescue) -Rapid Rescue是一款受迷宫（Godot 3.1）启发的本地多人战略游戏.
 - [Super Tux Party](https://anti.itch.io/super-tux-party) -一种免费/自由开放源代码的派对游戏，旨在复制Mario Party（Godot 3.1）等游戏的感觉.
-- [Veraball](https://github.com/Veraball/veraball)  -免费的“滚球”游戏.  收集硬币并达到终点，而不会掉出水准（Godot 2.0）.
+
+## Projects
+
+*使用Godot制作的非游戏项目（工具/实用程序）.*
+
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) -2D像素艺术编辑器（Godot 3.1）.
+- [Material Maker](https://github.com/RodZill4/godot-procedural-textures) -按照程序创建PBR材料（类似于Substance Designer）（Godot 3.1）.
 
 ## Demos
 
 * Demos学习GDScript，其概念和各种游戏功能.*
 
-- [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) -利用细胞自动机方法（Godot 2.0）的简单洞穴生成器.
 - [FPS Test](https://github.com/Calinou/fps-test)  -单人FPS测试.  物理可以工作，但是没有敌人，也没有适当的射击（Godot 2.1）.
-- [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) -HTTP 1.0文件服务器（Godot 2.0）.
 - [Open Source A-RPG Demo](https://github.com/GDQuest/godot-make-pro-2d-games) -RPG演示（Godot 3.0）.
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) -JRPG风格的游戏演示和模板（Godot 3.1）.
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) -一个演示项目，演示使用tilemap进行寻路（Godot 2.1）.
@@ -84,13 +91,6 @@
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) （Godot 3.1）
 - [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) -有关3D效果和知名游戏（Godot 3.0）中的复制概念的教程.
 
-## Themes
-
-*您的Godot游戏或用户界面的主题.*
-
-- [Arc/Arc Dark](https://github.com/Geequlim/godot-themes)
-- [Iso Dark Theme](https://github.com/GalanCM/Iso-Themes) -干净，现代的深色主题.
-
 ## Modules
 
 *将东西集成到Godot内核（C ++）中.*
@@ -104,7 +104,7 @@
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) -Godot 3的ENet包装器.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
-- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) -在Godot中使用本机对话框.
+- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
 - [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) 包裹戈多.
 - [RawPacker](https://github.com/empyreanx/rawpacker) -RawArray的简单二进制打包/解包.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) 动画支持模块.
@@ -119,7 +119,7 @@
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器（Godot 2.1、3.1）.
 - [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程.
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
-- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -插件可在GDScript（Godot 3.1）中使用FMOD音频引擎
+- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
 - [gdstats](https://github.com/droxpopuli/gdstats) -用于常见统计分布的伪随机数生成器库（Godot 3.0）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
@@ -132,6 +132,7 @@
 - [gterm](https://github.com/TeddyDD/gterm) -GUI控件，其绘制类似于\ * nix终端模拟器（Godot 2.1）.
 - [GUT](https://github.com/bitwes/Gut) -用于在GDScript（Godot 3.x）中编写单元测试的实用程序.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) -合并多边形.
+- [Qodot](https://github.com/Shfty/Qodot)  -对Godot的Quake`.map`文件支持.  让您使用 [TrenchBroom](https://kristianduske.com/trenchbroom/)  用于关卡设计.  （Godot 3.1）.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) -单工确定性噪声函数.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) -滚动背景节点（Godot 2.1）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) -对话框系统和编辑器可自定义，非常适合故事驱动的游戏（Godot 3.0）.
@@ -163,7 +164,7 @@
 
 ## Unofficial Godot builds
 
-*这些版本可让您使用最新版本的Godot Git，但它们可能不如官方版本稳定-使用后果自负.*
+*这些版本可以让您使用最新版本的Godot Git，但它们可能不如官方版本稳定-使用后果自负.
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/)
 

@@ -115,10 +115,11 @@
 - [ada-cpp-java](https://learn.adacore.com/books/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) -通过SPARK的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  -安全可靠的软件.  2012年Ada邀请函.
+- [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -Ada 95中的本书，从初学者到高级概念，并附带源文件
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) -全面.  
-<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41RVoxIX2TL._SX398_BO1,204,203,200_.jpg">[Introduction to Ada Programming, 2nd Edition](https://www.amazon.com/Introduction-Ada-Programming-Andrew-Shvets/dp/1987673859/ref=sr_1_8?ie=UTF8&qid=1544540272&sr=8-8&keywords=ada+programming+language) - 介绍.   
+<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.   
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.springer.com/gp/book/9781848823136) - 数据结构.   
 <img height="50px" width="36px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9781848823136.jpg"> [Ada for Software Engineers](https://www.springer.com/gp/book/9781848823136) -成语，建筑.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805218/66972/cover/9780521866972.jpg">[Concurrent and Real-Time Programming in Ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71) -并发，容器，调度.   
@@ -185,7 +186,7 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) -用于Visual Studio 2017的Ada语言集成.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT之类的全面开发工具
+- [lea](https://github.com/zertovitch/lea) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT的全面开发工具
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) -Gnu Emacs主模式，用于编辑Ada源.
@@ -214,7 +215,7 @@
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) -GNAT裸机板支持包（BSP）.
 - [avr-ada](https://sourceforge.net/projects/avr-ada) -适用于8位AVR微控制器的GNAT.
 - [ada-runtime](https://github.com/Componolit/ada-runtime) -缩小的Ada运行时，可以适应不同的平台.
-- [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) -该软件包包括基于FreeRTOS的GNAT Ada运行时系统（RTS），并针对具有Cortex-M0，M3，-M4，-M4F MCU的主板.
+- [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) -该软件包包括基于FreeRTOS的GNAT Ada运行时系统（RTS），针对具有Cortex-M0，M3，-M4，-M4F MCU的主板.
 
 ## OS and Kernels
 - [marte-os](https://marte.unican.es/)  -MaRTE OS是遵循最小实时POSIX.13子集的嵌入式应用程序的硬实时操作系统.  它提供了易于使用和受控的环境来开发多线程实时应用程序.
@@ -244,8 +245,8 @@
 ## Frameworks
 
 #### Components
-- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm)  -B树，切比雪夫系列，密码学，双链接的网和列表，黑板（无锁），ELV / eQ-3 MAX！  客户端，事件（纯文本，脉冲，数组），GNUTLS绑定，图形（有向，加权，非循环，树），HTTP实现，FIFO（无锁），IEEE 754，进程间通信，MODBUS客户端，MQTT客户端服务器/代理，TCP，互斥对象，对象，ODBC绑定，解析器，持久性对象，持久性存储，池，集合，映射，SMTP客户端，SQLite绑定，堆栈，流，字符串编辑，表（字符串映射），无界数组.
-- [ada-util](https://github.com/stcarrez/ada-util/) -接近Java log4j框架的日志记录框架，支持属性，XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始文件，文件，缓冲区，管道，套接字），多个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库位于CURL或AWS.
+- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm)  -B树，Chebyshev系列，密码术，双链接的网和列表，黑板（无锁），ELV / eQ-3 MAX！  客户端，事件（纯文本，脉冲，数组），GNUTLS绑定，图形（有向，加权，非循环，树），HTTP实现，FIFO（无锁），IEEE 754，进程间通信，MODBUS客户端，MQTT客户端服务器/代理，TCP，互斥对象，对象，ODBC绑定，解析器，持久性对象，持久性存储，池，集合，映射，SMTP客户端，SQLite绑定，堆栈，流，字符串编辑，表（字符串映射），无界数组.
+- [ada-util](https://github.com/stcarrez/ada-util/) -接近Java log4j框架的日志记录框架，支持属性，用于XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始文件，文件，缓冲区，管道，套接字），多个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库位于CURL或AWS.
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) -这是GNAT组件集合的核心模块.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) -这是GNAT组件集合的绑定模块.
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) -这是GNAT组件集合的DB模块.
@@ -275,14 +276,14 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) -AWS是在Ada中开发基于Web的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa)  -Ada Web应用程序是在Ada 2012中构建Web应用程序的框架.该框架提供了许多Web应用程序共有的几个即用型和可扩展模块.  这包括登录名，身份验证，用户，权限，管理注释，标签，投票，文档，图像.
+- [awa](https://github.com/stcarrez/ada-awa)  -Ada Web应用程序是在Ada 2012中构建Web应用程序的框架.该框架提供了许多Web应用程序通用的几个现成的可使用和可扩展模块.  这包括登录名，身份验证，用户，权限，管理注释，标签，投票，文档，图像.
     - [dynamo](https://github.com/stcarrez/dynamo) -代码生成器，用于从类似休眠的XML描述，YAML理论模型或UML模型生成Ada Web应用程序或数据库映射. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) -Ada Wiki是提供Wiki引擎的小型图书馆.
     - [ada-security](https://github.com/stcarrez/ada-security) -OAuth 2.0客户端和服务器框架，可保护Web应用程序的安全.
     - [ada-el](https://github.com/stcarrez/ada-el) -该库提供了对一种类似于Java统一表达语言（EL）的简单表达语言的支持.
     - [ada-asf](https://github.com/stcarrez/ada-asf) -Ada Server Faces允许使用与Java Server Faces相同的模式创建Web应用程序（请参阅JSR 252，JSR 314和JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) -Ada Servlet允许使用与Java Servlet相同的模式创建Web应用程序（请参阅JSR 154，JSR 315）.
-- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Ada对Swagger代码源的支持：OpenAPI Generator是一种代码生成器，它支持在给定OpenAPI规范的情况下自动生成API客户端库，服务器存根和文档.
+- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Swagger代码源的Ada支持：OpenAPI Generator是一种代码生成器，它支持在生成OpenAPI规范后自动生成API客户端库，服务器存根和文档.
 - [matreshka](http://forge.ada-ru.org/matreshka)  -Matreshka是开发信息系统的Ada框架.  它由五个主要组件组成：League，XML处理器，Web框架，SQL访问和Modeling框架.
 
 #### Unit Test, Testing
@@ -403,7 +404,7 @@
 - [zip-ada](https://github.com/zertovitch/zip-ada) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
 - [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一种软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（1D或2D，如QR码）.
+- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维条形码，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理，最常见）的访问例程库.
 
@@ -419,7 +420,7 @@
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) -在Ada中实现的声音合成器库.
 - [engine-3d](https://github.com/zertovitch/engine-3d) -用于DOS-talgics的3D引擎.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
-- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微音阶和大音阶音阶以及非西方音阶.
+- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，可用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微调和大调音阶以及非西方音阶.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) -Ada包，用于编写独立于语言的消息.
@@ -493,7 +494,7 @@
 - [hunter](https://github.com/thindil/hunter) -用于Linux的图形（GtkAda）文件管理器.
 
 #### Mail
-- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) -垃圾搜索器是一种邮件过滤器，可作为您的邮件服务器的插件运行，提供对数十种条件的过滤以及对已知邮件的管理.
+- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) -Trash Finder是一个邮件过滤器，可作为您的邮件服务器的插件运行，提供对数十种条件的过滤以及已知邮件的管理.
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada.

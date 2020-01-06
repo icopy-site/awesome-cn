@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ![GameboyIcon](http://i.imgur.com/ROUq7NT.gif) Awesome Game Boy Development
 
-#### [Join us on Discord](https://discord.gg/gpBxq85) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat&colorB=green&suffix=%20online&query=count&uri=https%3A%2F%2Fgbhh.avivace.com%2Fapi%2Fdiscord)](https://discord.gg/gpBxq85)
+#### [Join us on Discord](https://discord.gg/gpBxq85) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat&colorB=green&suffix=%20online&query=presence_count&uri=https://discordapp.com/api/guilds/303217943234215948/widget.json)](https://discord.gg/gpBxq85)
 
- 精选的Game Boy（彩色）开发资源，工具，文档，相关项目和开源ROM的精选列表.  受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+ 精选的Game Boy（彩色）开发资源，工具，文档，相关项目和开源ROM的精选列表.  受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 您可以找到此列表的（网络冷却器）网络版本 [here](https://gbdev.github.io/list.html).
 
