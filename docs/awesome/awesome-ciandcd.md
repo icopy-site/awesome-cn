@@ -25,7 +25,7 @@ devops
 
 ## Build And Release System
 用于软件构建和发布，持续集成和持续交付的系统  
-* [Jenkins](http://jenkins-ci.org)  可扩展的开源持续集成服务器  
+* [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
 * [Solano CI](https://www.solanolabs.com)   通过获得专利的自动并行化功能，可以更快地进行持续集成和部署.  查看结果快10到80倍.  14天免费试用.  无需信用卡.
 * [Concourse](https://concourse-ci.org) 管道被定义为单个声明性配置文件，而不是无数的复选框
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  自动化并加速构建和发布过程  
@@ -41,13 +41,13 @@ devops
 * [FinalBuilder](https://www.finalbuilder.com/)   使用FinalBuilder可以使构建过程自动化.  使用FinalBuilder，您无需编辑xml或编写脚本.  可视地定义和调试您的构建脚本，然后使用Windows Scheduler对其进行调度，或者将它们与Continua CI，Jenkins或任何其他CI Server集成  
 * [VisualBuild](http://www.kinook.com/VisBuildPro/)  Visual Build使开发人员和构建大师可以轻松地创建自动化，可重复的构建过程  
 * [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET，一个自动持续集成服务器，使用.NET Framework实现  
-* [continuum](http://continuum.apache.org/) Apache Continuum™是企业就绪的持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理系统的集成等功能.  
+* [continuum](http://continuum.apache.org/) Apache Continuum™是企业级持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理管理系统集成的功能.  
 * [quickbuild](http://www.pmease.com/)   GitHub集成.  Perforce搁置了支持.  覆盖率报告呈现.  颠覆外部变更检索.  资源访问信息.  显示等待步骤的原因.  自定义构建和请求列.  最喜欢的仪表板列表.  可继承的环境变量以及更多...  
 * [rexify](http://www.rexify.org//)  perl部署和配置管理  
 * [SimpleCI](https://github.com/simpleci/simpleci)  基于Docker的自托管ci系统.  支持分布式构建缓存，外部提供程序（GCE），实时构建日志等.  
 * [pulse](http://zutubi.com) 没有免费版本.  
 * [PHP Censor](https://github.com/php-censor/php-censor) 用于PHP项目的开源自托管持续集成服务器.  
-* [rundeck](http://rundeck.org) Rundeck具有细粒度的访问控制，内置的作业计划程序，并能够定义将命令和脚本分发到节点的工作流.  
+* [rundeck](http://rundeck.org) Rundeck具有细粒度的访问控制，内置的作业调度程序，并能够定义将命令和脚本分发到节点的工作流.  
 * [cds](https://ovh.github.io/cds) CDS是用Go（lang）编写的企业级连续交付和DevOps自动化平台.
 * [Drone CI](https://drone.io/)  无人机是基于容器技术的持续交付系统.  无人机使用一个简单的YAML配置文件（一个docker-compose的超集）来定义和执行Docker容器内的管道.  
 * [Luigi](https://github.com/spotify/luigi)  Luigi是一个Python模块，可帮助您构建批处理作业的复杂管道.  它处理依赖关系解析，工作流管理，可视化等.它还内置了Hadoop支持.  
@@ -70,7 +70,7 @@ devops
 * [testling](https://ci.testling.com) 每次推送时自动进行浏览器测试  
 * [magnum-ci](https://magnum-ci.com)  托管用于私有存储库的持续集成和交付平台  
 * [wercker](http://wercker.com)  轻松测试和部署您的应用程序  
-* [codecov](https://codecov.io)   连续的代码覆盖率.  具有浏览器扩展功能和出色的请求请求注释，可跟踪GitHub / Bitbucket / Gitlab存储库中的覆盖范围  
+* [codecov](https://codecov.io)   连续的代码覆盖率.  具有浏览器扩展功能和出色的请求请求注释，可跟踪GitHub / Bitbucket / Gitlab存储库上的覆盖范围  
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/)  -基于红宝石.  他们还提供了GitLab，用于管理git存储库. 
 * [IBM DevOps Services](https://hub.jazz.net) -将软件开发，跟踪，规划和部署到IBM Bluemix云平台上.  
 * [deploybot](https://deploybot.com) -为整个团队以一致的过程立即在任何地方构建和交付代码.
@@ -128,7 +128,7 @@ devops
 * [gerrit](https://code.google.com/p/gerrit/) Gerrit是一个基于Web的代码审查系统，可使用Git版本控制系统促进对项目的在线代码审查.  
 * [Codebrag](http://www.codebrag.com/)  Codebrag是一个简单的代码审查工具，可使该过程为您的团队工作.  
 * [Upsource](https://www.jetbrains.com/upsource/) Polyglot代码检查工具，具有对PHP，JavaScript和Kotlin的代码洞察力，GitHub集成，自动化的工作流程，与CI服务器的集成
-* [Ebert](https://ebertapp.io) Ebert对GitHub存储库进行持续的静态分析，并将其直接传递给您的Pull Requests，从而帮助您的团队专注于重要内容并交付更好的软件.
+* [Ebert](https://ebertapp.io) Ebert对GitHub存储库进行持续的静态分析，并将其直接传递到您的请求中，从而帮助您的团队专注于重要的事情并交付更好的软件.
 
 ## Build
 构建工具  
@@ -162,7 +162,7 @@ devops
 * [valgrind](http://valgrind.org)  自动检测许多内存管理和线程错误，并详细描述您的程序  
 
 ## Performance Analysis
-Software performance analysis tools  
+软件性能分析工具  
 * [performance tools wiki](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  维基页面    
 
 ## Coverage
@@ -213,6 +213,10 @@ Software performance analysis tools
 * [Chef](https://www.chef.io/chef/)  快速，可扩展和灵活的软件，用于数据中心自动化  
 * [SaltStack](http://saltstack.com/community/) 极其简单的配置管理，应用程序部署，任务执行和多节点编排引擎  
 * [terraform](https://www.terraform.io) 使用基础架构作为代码来配置和管理任何云，基础架构或服务  
+
+## secure tools
+安全工具
+* [whitesource](https://www.whitesourcesoftware.com/) 保护和管理软件中开源组件的最简单方法.  
 
 ## Web Server
 常用的Web服务器  

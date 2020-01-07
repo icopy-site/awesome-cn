@@ -37,7 +37,7 @@
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) -Preact的URL路由器.
 - [Preact Route Async](https://github.com/mjanssen/preact-route-async) -一个（440b gzip）路由组件，它允许异步加载页面组件.
-- [Wouter](https://github.com/molefrog/wouter) -微型（1KB gzip）路由器，用于使用类似React Router的API进行Preact / React.
+- [Wouter](https://github.com/molefrog/wouter) -微型（1KB gzip）路由器，用于通过类似React Router的API进行Preact / React.
 
 ### Components
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) -“网络材料组件”的预先包装器.
@@ -87,7 +87,7 @@
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -JSX断言测试_（没有DOM，就在Node中）_.
-- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) -使Preact组件可以访问产生的虚拟dom进行测试.
+- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 - [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -模拟反应-测试-利用酶.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) -简单而完整的Preact DOM测试实用程序，可鼓励良好的测试实践.
 
@@ -109,6 +109,25 @@
 - [Golazon](https://github.com/sobstel/golazon) -足球数据mnmlist方式.
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) -使用Preact和PouchDB构建的渐进式Web应用程序.
 - [Code and Comment](https://github.com/code-and-comment/code-and-comment) -将评论添加到Github中的文件的应用程序（[demo](https://code-and-comment.github.io/code-and-comment/)).
+- [**Play.cash**](https://play.cash) ：notes：_（[GitHub Project](https://github.com/feross/play.cash))_
+- [**Songsterr**](https://www.songsterr.com)  从10.0 alpha开始在生产中使用Preact X
+- [**BitMidi**](https://bitmidi.com/)  免费MIDI文件_（[GitHub Project](https://github.com/feross/bitmidi.com))_
+- [**Ultimate Guitar**](https://www.ultimate-guitar.com) Preact提高了速度.
+- [**ESBench**](http://esbench.com) 是使用Preact构建的.
+- [**BigWebQuiz**](https://bigwebquiz.com) _([GitHub Project](https://github.com/jakearchibald/big-web-quiz))_
+- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine)）_ ：桃子：
+- [**OSS.Ninja**](https://oss.ninja) _([GitHub Project](https://github.com/developit/oss.ninja))_
+- [**GuriVR**](https://gurivr.com) _([GitHub Project](https://github.com/opennewslabs/guri-vr))_
+- [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/)）_：气球：
+- [**Periodic Weather**](https://use-the-platform.com/periodic-weather/) _([GitHub Project](https://github.com/vaneenige/periodic-weather/)）_：晴天：
+- [**Rugby News Board**](http://nbrugby.com) _[(GitHub Project)](https://github.com/rugby-board/rugby-board-node)_
+- [**Preact Gallery**](https://preact.gallery/) 使用Preact构建的8KB照片库PWA.
+- [**Rainbow Explorer**](https://use-the-platform.com/rainbow-explorer/) Preact应用程序将现实生活中的颜色转换为数字颜色_（[Github project](https://github.com/vaneenige/rainbow-explorer))_.
+- [**YASCC**](https://carlosqsilva.github.io/YASCC/#/) 另一个SoundCloud客户端_（[Github project](https://github.com/carlosqsilva/YASCC))_.
+- [**Journalize**](https://preact-journal.herokuapp.com/)  使用preact的14k脱机日记PWA.  _（[Github project](https://github.com/jpodwys/preact-journal))_.
+- [**Proxx**](https://proxx.app)  GoogleChromeLabs使用预设功能进行的接近游戏.  _（[Github project](https://github.com/GoogleChromeLabs/proxx))_.
+- [**Web Maker**](https://webmaker.app)  使用Preact打造的离线，超快的快速前端游乐场.  _（[Github project](https://github.com/chinchang/web-maker))_.
+- [**Intergram**](https://www.intergram.xyz)  链接到使用Preact构建的Telegram Messenger的实时聊天小部件.  _（[Github project](https://github.com/idoco/intergram))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) -用于构建用户界面的声明性，高效且灵活的JavaScript库.

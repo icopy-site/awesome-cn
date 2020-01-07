@@ -93,7 +93,7 @@ sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/k
 #### Enable and Disable Remote Desktop Sharing
 ```bash
 ## Allow Access for All Users and Give All Users Full Access
-sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -configure -allowAccessFor -allUsers -privs -all
+须藤/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -configure -allowAccessFor -allUsers -privs -all
 
 ## Disable ARD Agent and Remove Access Privileges for All Users
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -configure -access -off
@@ -104,7 +104,7 @@ sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resourc
  须藤rm -rf / var / db / RemoteManagement;  \
  sudo默认删除/Library/Preferences/com.apple.RemoteDesktop.plist;  \
  默认为delete〜/ Library / Preferences / com.apple.RemoteDesktop.plist;  \
-sudo rm -r /Library/Application\ Support/Apple/Remote\ Desktop/ ; \
+ sudo rm -r / Library / Application \ Support / Apple / Remote \ Desktop /;  \
  rm -r〜/ Library / Application \ Support / Remote \ Desktop /;  \
 rm -r〜/ Library / Containers / com.apple.RemoteDesktop
 ```
@@ -174,7 +174,7 @@ sudo chmod 0000 /应用程序/iTunes.app
     如果“ 10.14” &lt;= os_version，则将mail_version设置为“ V6”
 结束考虑
 
-设置sizeBefore做外壳程序脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
+设置sizeBefore做外壳程序脚本“ ls -lnah〜/ Library / Mail /”＆mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
 做shell脚本“ / usr / bin / sqlite3〜/ Library / Mail /”和mail_version和“ / MailData / Envelope \\ Index vacuum”
 
 设置sizeAfter做外壳程序脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;打印$ 5&#39;}”
@@ -188,7 +188,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 
 #### Change Default Fonts
 ```bash
-默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2StandardFontFamily乔治亚
+默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2StandardFontFamily Georgia
 默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFontSize 16
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2FixedFontFamily Menlo
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFixedFontSize 14
@@ -197,7 +197,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 #### Enable Develop Menu and Web Inspector
 ```bash
 默认写com.apple.Safari IncludeInternalDebugMenu -bool true &amp;&amp; \
-默认写com.apple.Safari IncludeDevelopMenu -bool true &amp;&amp; \
+defaults write com.apple.Safari IncludeDevelopMenu -bool true && \
 默认写com.apple.Safari WebKitDeveloperExtrasEnabledPreferenceKey -bool true &amp;&amp; \
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled -bool true &amp;&amp; \
 默认写-g WebKitDeveloperExtras -bool true
@@ -247,7 +247,7 @@ osascript -e&#39;告诉应用程序“ Safari”以获取前窗当前选项卡�
 
 #### Use Plain Text Mode as Default
 ```bash
-默认写com.apple.TextEdit RichText -int 0
+defaults write com.apple.TextEdit RichText -int 0
 ```
 
 ### Visual Studio Code
@@ -264,7 +264,7 @@ osascript -e&#39;告诉应用程序“ Safari”以获取前窗当前选项卡�
 #### Change Backup Interval
  这会将间隔更改为30分钟.  整数值是以秒为单位的时间.
 ```bash
-sudo默认写/System/Library/LaunchDaemons/com.apple.backupd-auto StartInterval -int 1800
+sudo默认写入/System/Library/LaunchDaemons/com.apple.backupd-auto StartInterval -int 1800
 ```
 
 #### Local Backups
@@ -579,7 +579,7 @@ tmutil deletelocalsnapshots com.apple.TimeMachine.2018-01-26-044042
 
 #### List Snapshots
 ```bash
-tmutil listlocals快照/
+tmutil listlocals快照
 ```
 
 #### Mount Snapshot
@@ -800,7 +800,7 @@ Killall搜寻器
 #### Scrollbar Visibility
 可能的值：“ WhenScrolling”，“ Automatic”和“ Always”.
 ```bash
-defaults write -g AppleShowScrollBars -string "Always"
+默认写-g AppleShowScrollBars -string“始终”
 ```
 
 #### Status Bar
@@ -838,13 +838,13 @@ defaults write -g AppleShowScrollBars -string "Always"
 ### Metadata Files
 
 #### Disable Creation of Metadata Files on Network Volumes
-Avoids creation of `.DS_Store` and AppleDouble files.
+避免创建.DS_Store和AppleDouble文件.
 ```bash
 默认写com.apple.desktopservices DSntWriteNetworkStores -bool true
 ```
 
 #### Disable Creation of Metadata Files on USB Volumes
-Avoids creation of `.DS_Store` and AppleDouble files.
+避免创建.DS_Store和AppleDouble文件.
 ```bash
 默认写入com.apple.desktopservices DSntWriteUSBStores -bool true
 ```
@@ -912,7 +912,7 @@ cp -v /系统/应用程序/实用程序/Terminal.app/内容/资源/字体/ SFMon
 
 ## Functions
 
-请参见 [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/functions.md).
+请参阅 [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/functions.md).
 
 
 ## Hardware
@@ -953,7 +953,7 @@ networksetup -listall硬件端口
 
 #### Remaining Battery Time
 ```bash
- pmset -g batt |  egrep“（[[0-9] + \％）.*” -o --colour = auto |  切-f3 -d&#39;;&#39;
+pmset -g batt | egrep "([0-9]+\%).*" -o --colour=auto | cut -f3 -d';'
 ```
 
 #### Show Connected Device's UDID
@@ -963,7 +963,7 @@ networksetup -listall硬件端口
 
 #### Show Current Screen Resolution
 ```bash
- system_profiler SPDisplaysDataType |  扣押决议
+ system_profiler SPDisplaysDataType |  grep分辨率
 ```
 
 #### Show CPU Brand String
@@ -1265,7 +1265,7 @@ curl -s https://api.ipify.org &amp;&amp;回声
 #### Show Network Interface Information
 `scutil`命令的未记录标志.
 ```bash
-scutil-nwi
+scutil --nwi
 ```
 
 ### TFTP
@@ -1388,6 +1388,7 @@ spctl-删除/path/to/Application.app
 ```
 
 #### Manage Gatekeeper
+对于令人讨厌的Catalina系统弹出窗口阻止非签名应用程序执行尤其有用.
 ```bash
 ## Status
 spctl-状态
@@ -1549,7 +1550,7 @@ sw_vers
 ```
 
 #### Uptime
-自上次重新启动以来已过
+自上次重新启动以来已经过了多长时间.
 ```bash
 uptime
 ```
@@ -1576,7 +1577,7 @@ pbpaste&gt; what.txt
 ```
 
 ```bash
- pbpaste |  排序  uniq |  pbcopy
+ pbpaste |  排序|  uniq |  pbcopy
 ```
 
 ### FileVault
@@ -1649,7 +1650,7 @@ sudo kextunload -b com.apple.driver.ExampleBundle
 
 ### LaunchAgents
 
-请参见 [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/launchagents.md).
+请参阅 [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/launchagents.md).
 
 
 ### LaunchServices

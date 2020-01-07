@@ -47,7 +47,8 @@
 - [graph-2-text](https://github.com/diegma/graph-2-text) -结合图卷积网络和opennmt-py在Pytorch中实现的图到序列.
 - [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) -基于神经网络的生成模型，用于使用Tensorflow字幕.
 - [PPLM](https://github.com/uber-research/PPLM)  -即插即用语言模型实现.  允许引导GPT-2模型的主题和属性.
-- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以轻松地在任何文本数据集上训练任何大小和复杂度的自己的文本生成神经网络.
+- [Texar](https://github.com/asyml/texar) -Texar是一个工具包，旨在支持广泛的机器学习，尤其是自然语言处理和文本生成任务.
+- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以轻松地在任何文本数据集上训练任何大小和复杂性的文本生成神经网络.
 - [Transformers](https://github.com/huggingface/transformers) -TensorFlow 2.0和PyTorch的最新自然语言处理.
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) -用于将以结构化数据形式存在的信息转换为自然语言文本.
 

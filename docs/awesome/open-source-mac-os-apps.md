@@ -52,7 +52,7 @@
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole)  -BlackHole是现代的macOS虚拟音频驱动程序，允许应用程序以零附加延迟将音频传递到其他应用程序.  ！[c_icon] 
 - [CAM](https://github.com/hanayik/CAM) -使用ffmpeg录制macOS摄像机！[javascript_icon] 
 - [Clementine](https://github.com/clementine-player/Clementine)  -Clementine是Windows，Linux和macOS的现代音乐播放器和图书馆组织者.  ！[cpp_icon] 
-- [Cog](https://bitbucket.org/losnoco/cog/src)  -Cog是macOS的开源音频播放器.  基本布局是一个单窗格播放列表界面，带有两个可伸缩抽屉，一个用于浏览用户的音乐文件夹，另一个用于查看音频文件属性，例如比特率！[objective_c_icon] 
+- [Cog](https://bitbucket.org/losnoco/cog/src)  -Cog是macOS的开源音频播放器.  基本布局是具有两个可伸缩抽屉的单窗格播放列表界面，一个用于导航用户的音乐文件夹，另一个用于查看音频文件属性，例如比特率！[objective_c_icon] 
 - [LocalRadio](https://github.com/dsward2/LocalRadio)  -LocalRadio是用于在Mac和移动设备上收听“软件定义的广播”的软件.  ！[objective_c_icon] 
 - [Lyricism](https://github.com/lyc2345/Lyricism)  -macOS应用程序，向您显示歌词，当前iTunes或Spotify正在播放什么.  ！[objective_c_icon]！[swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX)  -iTunes，Spotify和Vox的歌词.  ！[swift_icon] 
@@ -145,7 +145,7 @@
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper)  -简单的macOS应用程序，可从JSON生成Swift Object Mapper类.  ！[swift_icon] 
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，setter和getter导出为模型类.  ！[swift_icon] 
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象导出为模型类及其相关的构造函数，实用程序方法，setter和getter.  ！[swift_icon] 
 - [j2s](https://github.com/zadr/j2s)  -macOS应用程序，用于将JSON对象转换为Swift结构（当前针对Swift 4和Codable）.  ！[swift_icon] 
 
 #### Other Development
@@ -158,7 +158,7 @@
 - [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app)  -Corectl应用程序是一个macOS状态栏应用程序，其功能类似于corectl命令行工具corectld的包装程序，以控制服务器运行时进程.  ！[swift_icon] 
 - [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop)  -HTTP工具包是一个跨平台的工具，用于拦截，调试和模拟HTTP.  ！[type_script_icon] 
 - [Insomnia](https://github.com/Kong/insomnia)  -Insomnia是建立在Electron之上的跨平台REST客户端.  ！[javascript_icon] 
-- [KubeMonitor](https://github.com/DanSanche/KubeMonitor)  -KubeMonitor是一个macOS应用，可在菜单栏中显示有关活动的Kubernetes集群的信息.  ！[swift_icon] 
+- [KubeMonitor](https://github.com/DanSanche/KubeMonitor)  -KubeMonitor是一个macOS应用程序，可在菜单栏中显示有关活动的Kubernetes集群的信息.  ！[swift_icon] 
 - [KubeSwitch](https://github.com/nsriram/KubeSwitch)  -KubeSwitch在Mac的菜单栏中列出了Mac上可用的kubernetes集群上下文.  ！[swift_icon] 
 - [Lantern](https://github.com/RoyalIcing/Lantern)  -用于网站审核和抓取的专用Mac应用.  ！[swift_icon] 
 - [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).  ![swift_icon] 
@@ -186,7 +186,7 @@
 - [FilterShop](https://github.com/KrisYu/FilterShop)  -macOS应用程序，用于浏览CoreImage滤镜.  ！[swift_icon] 
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)  -macOS应用程序以生成应用程序图标.  ！[javascript_icon] 
 - [Iconizer](https://github.com/raphaelhanneken/iconizer)  -动态创建Xcode图像目录（xcassets）.  ！[swift_icon] 
-- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标. 
+- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标.[objective_c_icon] 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)  -过期的Swift注入重写.  ！[objective_c_icon]！[swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)  -直观的应用程序，可在屏幕上显示透明图像.  ！[swift_icon] 
@@ -198,12 +198,12 @@
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater)  -macOS应用程序，可帮助您管理Podfile中的依赖项版本.  ！[swift_icon] 
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager)  -适用于Mac的Apple iOS / macOS供应配置文件管理，.provisionprofile，.mobileprovision文件管理器工具.  ！[objective_c_icon] 
 - [PushNotifications](https://github.com/onmyway133/PushNotifications)  -macOS应用程序，可在iOS和Android上测试推送通知.  ！[javascript_icon] 
-- [ResignTool](https://github.com/InjoyDeng/ResignTool)  -这是一个适用于macOS的应用程序，可以对应用程序进行（重新）签名，并将它们捆绑到准备安装在iOS设备上的ipa文件中.  ！[objective_c_icon] 
+- [ResignTool](https://github.com/InjoyDeng/ResignTool)  -这是一个适用于macOS的应用程序，可以对应用程序进行（重新）签名并将其捆绑到准备安装在iOS设备上的ipa文件中.  ！[objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr)  -用于为iOS和Android应用创建AppIcon的MacOS应用.  ！[swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush)  -iOS推送通知调试应用程序.  ！[objective_c_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)  -适用于macOS的iOS / Android应用部署工具.  ！[swift_icon] 
 - [WWDC](https://github.com/insidegui/WWDC)  -适用于macOS的非官方WWDC应用程序.  ！[swift_icon] 
-- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于以（srt）格式自2013年以来为每个WWDC会话视频下载字幕.  ！[swift_icon] 
+- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于以（srt）格式下载自2013年以来的每个WWDC会话视频的字幕.  ！[swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher)  -iOS Calabash Launcher是一个macOS应用程序，可帮助您在Mac上运行和管理Calabash测试.  ！[swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor)  -iOS Images Extractor是一个Mac应用程序，用于从iOS应用程序标准化，解码和提取图像.  ！[objective_c_icon] 
 - [iSimulator](https://github.com/wigl/iSimulator)  -iSimulator是一个GUI实用程序，用于控制模拟器并管理模拟器上安装的应用.  ！[objective_c_icon] 
@@ -358,7 +358,7 @@
 
 ### News
 - [Diurna](https://github.com/ngquerol/Diurna)  -基本/经典黑客新闻应用程序，用作可可和Swift学习平台.  ！[swift_icon] 
-- [NetNewsWire](https://github.com/brentsimmons/NetNewsWire)  -适用于macOS的Feed阅读器.  ！[swift_icon] 
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)  -适用于macOS的Feed阅读器.  ！[swift_icon] 
 - [Vienna](https://github.com/ViennaRSS/vienna-rss)  -Vienna是macOS的RSS / Atom新闻阅读器.  ！[objective_c_icon] 
 - [hacker-menu](https://github.com/jingweno/hacker-menu)  -黑客新闻已传递到桌面.  ！[javascript_icon] 
 
@@ -429,7 +429,7 @@
 - [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop)  -使用无纸化API管理文档扫描的桌面应用程序.  ！[javascript_icon] 
 - [Quicksilver](https://github.com/quicksilver/Quicksilver)  -Quicksilver是一款快速的macOS生产力应用程序，可让您快速而优雅地控制Mac.  ！[objective_c_icon] 
 - [Quickwords](https://github.com/quickwords/quickwords)  -在几秒钟内写下所有内容.  创建可替代文本，执行繁琐任务等的代码片段.  ！[javascript_icon]！[css_icon] 
-- [SelfControl](https://github.com/SelfControlApp/selfcontrol)  -macOS应用程序可在预定的时间内阻止您自己访问分散注意力的网站等.  无法通过应用程序或通过重新启动撤消它–您必须等待计时器用完.  ！[objective_c_icon] 
+- [SelfControl](https://github.com/SelfControlApp/selfcontrol)  -macOS应用程序可在一段预定的时间内阻止您自己访问分散注意力的网站等.  无法通过应用程序或通过重新启动撤消它–您必须等待计时器用完.  ！[objective_c_icon] 
 - [Sessions](https://github.com/AlexPerathoner/Sessions) -Safari扩展程序可以保存您的工作会话！[swift_icon] 
 - [Speed Reader](https://github.com/LumingYin/SpeedReader)  -通过SpeedReader消除发声的力量，更快地阅读.  ！[swift_icon] 
 - [StickyNotes](https://github.com/LumingYin/StickyNotes)  -在AppKit中实现的Windows 10风格便笺应用程序.  ！[swift_icon] 
@@ -538,7 +538,7 @@
 - [Catch](https://github.com/mipstian/catch/)  -赶上：轻松捉迷藏.  ！[swift_icon] 
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear)  -使用“清除剪贴板文本格式”轻松清除剪贴板文本的格式.  ！[objective_c_icon] 
 - [CornerCal](https://github.com/ekreutz/CornerCal)  -适用于macOS的简单，干净的日历和时钟应用程序.  ！[swift_icon] 
-- [Crypter](https://github.com/HR/Crypter)  -Crypter是一款创新，方便且安全的跨平台加密应用程序，只需您记住一位MasterPass，即可简化安全密码的生成和管理.  ！[javascript_icon] 
+- [Crypter](https://github.com/HR/Crypter)  -Crypter是一款创新，方便且安全的跨平台加密应用程序，只需记住一位MasterPass，即可简化安全密码的生成和管理.  ！[javascript_icon] 
 - [ECheck](https://github.com/josejuanqm/ECheck)  -验证macOS的epub文件的小工具.  ！[swift_icon] 
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux. ![go_icon] 
 - [Funky](https://github.com/thecatalinstan/Funky)  -在Mac上轻松按每个应用切换功能键.  ！[objective_c_icon] 

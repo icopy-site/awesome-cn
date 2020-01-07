@@ -76,7 +76,7 @@
 ### Text tutorials
 
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) （Godot 2.1、3.0、3.1）
-- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) -分步介绍（Godot 3.1）.
+- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction (Godot 3.1).
 - [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials)  -用于创建客户端-服务器多人游戏的教程.  包括用于在Google Compute Platform（Godot 3.1）上托管服务器的教程.
 - [Godot Recipes](http://kidscancode.org/godot_recipes/)  -从入门到高级的文本教程集合.  （Godot 3.x）
 
@@ -102,9 +102,10 @@
 - [godot-voxel](https://github.com/Zylann/godot_voxel) -在Godot Engine中创建体积世界的模块.
 - [Gdnet](https://github.com/empyreanx/gdnet) -Godot的ENet包装器.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) -Godot 3的ENet包装器.
+- [GodotSteam](https://github.com/Gramps/GodotSteam)  -Godot游戏引擎的Steam API（版本3.0-3.1）.  对于Windows，Linux和Mac平台.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
-- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
+- [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) -在Godot中使用本机对话框.
 - [pugixml](https://github.com/GodotExplorer/pugixml) - [pugixml](https://pugixml.org/) 包裹戈多.
 - [RawPacker](https://github.com/empyreanx/rawpacker) -RawArray的简单二进制打包/解包.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) 动画支持模块.

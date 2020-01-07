@@ -45,7 +45,7 @@
 - [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) -为Pi构建的Linux Fedora发行版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [FreeBSD](https://wiki.freebsd.org/FreeBSD/arm/Raspberry%20Pi) -FreeBSD是一种高级计算机操作系统，用于为现代服务器，台式机和嵌入式平台提供动力.
 - [Gentoo](https://wiki.gentoo.org/wiki/Raspberry_Pi) -Raspberry Pi的Gentoo Stage 3压缩包.
-- [Gladys Project](https://gladysproject.com/en/) -Gladys，您的家庭助理. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [Gladys Assistant](https://gladysassistant.com) -Gladys，隐私优先的开源家庭助理. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Hass.io](https://home-assistant.io/hassio/installation/) -嵌入式设备的家庭自动化操作系统/应用程序，也可以独立使用.
 - [HypriotOS](http://blog.hypriot.com/about/) -最小的基于Debian的操作系统，经过优化可运行Docker.
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) -适用于ARM设备的渗透测试和道德黑客Linux发行版.
@@ -95,7 +95,7 @@
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) -设置Pi Zero，以扫描WiFi网络上的设备，并使用它来确定谁是“家”.
 - [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) -用于将Raspberry Pi设置为OpenVPN服务器的Shell脚本.
 - [Orangetool](https://github.com/Moduland/Orangetool) -Python中单板计算机的控制功能.
-- [P4wnP1](https://github.com/mame82/P4wnP1) -P4wnP1是一个高度可定制的USB攻击平台，基于低成本的Raspberry Pi Zero或Raspberry Pi Zero W（HID后门必需）. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [P4wnP1](https://github.com/mame82/P4wnP1) -P4wnP1是一个高度可定制的USB攻击平台，基于低成本的Raspberry Pi Zero或Raspberry Pi Zero W（HID后门所需）. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [pi-gen](https://github.com/RPi-Distro/pi-gen)  -用于创建raspberrypi.org Raspbian图像的工具.  这可用于创建安装了特定软件包等的自定义映像.
 - [PiBakery](http://www.pibakery.org/) -基于块的Raspberry Pi易于使用的设置工具.
 - [Pieman](https://github.com/tolstoyevsky/pieman) -用于基于Raspbian，Devuan，Ubuntu和Alpine Linux创建自定义映像的脚本.

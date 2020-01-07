@@ -100,7 +100,7 @@
 * [ScreenManager](https://github.com/rm-code/screenmanager) -LÖVE框架的屏幕/状态管理
 * [shack](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) -平铺的地图加载器和渲染器
-* [Vivid](https://github.com/WetDesertRock/vivid) -颜色数学，操作和转换库
+* [Vivid](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library
 
 ## Input
 *输入和绑定库*
@@ -145,7 +145,7 @@
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) -旨在简化恋人（TCP，UDP，Enet）[IPv6]联网的联网库
 * [LoverNet](https://github.com/josefnpat/LoverNet) -利用biter和enet [IPv4]的网络库
 * [NoobHub](https://github.com/Overtorment/NoobHub) -开源多人游戏和网络消息传递[IPv6]
-* [Sock.lua](https://github.com/camchenry/sock.lua) -用于LÖVE游戏[IPv4]的Lua网络库
+* [Sock.lua](https://github.com/camchenry/sock.lua) -用于LOVE游戏[IPv4]的Lua网络库
 * [löve-ws](https://github.com/holywyvern/love-ws) -Websocket客户端和服务器库
 
 ## <a name="object"></a>Object Orientation
@@ -188,7 +188,7 @@
 *在第三方商店中分发LÖVE游戏的指南*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) -用于包装LÖVE游戏以在Snappy商店中分发的模板
-* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可在基于Linux的常见操作系统（如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上运行的AppImages；  一局=一档
+* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可在基于Linux的常见操作系统（例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上运行的AppImages；  一局=一档
 
 ## Serialization
 *保存游戏和存储库*
@@ -239,7 +239,7 @@
 * [Love Imgui](https://github.com/slages/love-imgui) -LÖVE游戏引擎的imgui模块
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) -LÖVE游戏的轻量级即时模式GUI
 * [Patchy](https://github.com/excessive/patchy) -9补丁库
-* [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
+* [Polywell](https://gitlab.com/technomancy/polywell) -用Lua编写的可高度配置的文本编辑器/编码工具，可在LÖVE游戏引擎上运行.
 * [SafeWord](https://github.com/josefnpat/safeword) -LÖVE的过扫描检测库
 * [SUIT](https://github.com/vrld/SUIT) -小型即时模式GUI库
 * [ListBox](https://github.com/darkmetalic/ListBox) -LÖVE的动态列表框，支持触摸，鼠标和键盘输入

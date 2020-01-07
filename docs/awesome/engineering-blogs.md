@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>
-	  <a href="https://tinyletter.com/kichoi">每周</a>订阅<a href="https://tinyletter.com/kichoi">dev，</a>以获取<a href="https://tinyletter.com/kichoi">每周</a>精选的最佳博客文章！
+	  <a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">每周</a>订阅<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">dev，</a>以获取<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">每周</a>精选的最佳博客文章！
   </h2>
 </div>
 
@@ -150,7 +150,7 @@
 *第五十三章http://making.fiftythree.com/
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
-*公司电话https://dev.firmafon.dk/blog/
+* Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
@@ -461,7 +461,7 @@
 #### A individuals
 *亚伦·帕特森（Aaron Patterson）http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
-*阿布·阿什拉夫·马斯嫩（Abu Ashraf Masnun）http://masnun.com/
+*阿布·阿什拉夫（Abu Ashraf）Masnun http://masnun.com/
 *亚当·巴德https://adambard.com/blog/
 *亚当·莱文塔尔http://dtrace.org/blogs/ahl/
 *亚当·普莱默（Adam Tuliper）http://www.adamtuliper.com/
@@ -490,9 +490,9 @@
 * Bartlomiej Filipek http://www.bfilipek.com/
 *本·麦考密克https://benmccormick.org/
 *比尔蜥蜴http://www.billthelizard.com/
-*比约恩·约翰森https://bjornjohansen.no/
+* Bjørn Johansen https://bjornjohansen.no/
 *布莱克·埃里克森（Blake Erickson）https://blog.blakeerickson.com/
-* Blundell's Android Tutorials http://blog.blundellapps.co.uk
+* Blundell的Android教程http://blog.blundellapps.co.uk
 * Bohops https://bohops.com/
 *布兰登·罗兹（Brandon Rhodes）http://rhodesmill.org/brandon/
 *布伦丹·艾希（Brendan Eich）https://brendaneich.com/
@@ -543,7 +543,7 @@
 *埃里克·艾略特（Eric Elliot）https://medium.com/javascript-scene/
 *埃里克·利珀特（Eric Lippert）https://ericlippert.com/
 * Erik Runyon https://erikrunyon.com/
-*埃文·哈恩（Evan Hahn）http://evanhahn.com/
+* Evan Hahn http://evanhahn.com/
 *埃文·琼斯http://www.evanjones.ca/chronologic.html
 *埃文·米勒（Evan Miller）http://www.evanmiller.org/
 *埃文·塔勒（Evan Tahler）https://blog.evantahler.com/
@@ -655,7 +655,7 @@
 * Milosz Galazka https://blog.sleeplessbeastie.eu/
 *米罗杯（Miro Cupak）https://mirocupak.com/
 * Monica Dinculescu https://meowni.ca/
-*怪物松饼https://blog.monstermuffin.org/
+*样品松饼https://blog.monstermuffin.org/
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals

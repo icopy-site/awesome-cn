@@ -73,7 +73,7 @@
 - [Hexo](https://hexo.io) -由Node.js提供支持的快速，简单且功能强大的博客框架.
 - [Metalsmith](https://metalsmith.io) -非常简单，可插入的静态站点生成器.
 - [Phenomic](https://phenomic.io/) -模块化网站编译器.
-- [Gridsome](https://gridsome.org/) -由Vue提供支持的静态站点生成器，用于为任何Headless CMS，API或Markdown文件构建可用于CDN的网站.
+- [Gridsome](https://gridsome.org/) -由Vue提供支持的静态网站生成器，用于为任何Headless CMS，API或Markdown文件构建可用于CDN的网站.
 - [Nuxt.js](https://nuxtjs.org/) -适用于服务器端渲染的静态和传统单页应用程序的基于vue的通用框架.
 - [eleventy](https://www.11ty.io/) -更简单的静态网站生成器，可将各种模板文件转换为HTML.
 - [Nift](https://nift.cc) -用C ++开发的跨平台开源网站生成器，快速，功能强大.
@@ -85,7 +85,7 @@
 - [Contentful](https://contentful.com) -数字团队的内容基础架构.
 - [NetlifyCMS](https://netlifycms.org/) -开源的基于Git的CMS.
 - [ButterCMS](https://buttercms.com/) -无头CMS和Content API.
-- [Scrivito](https://scrivito.com) -为数字代理商和中型企业构建的基于云的JavaScript CMS.
+- [Scrivito](https://scrivito.com) -为数字代理机构和大中型企业构建的基于云的JavaScript CMS.
 - [GraphCMS](https://graphcms.com) -GraphQL无头CMS.
 - [Prismic](https://prismic.io) -适用于开发人员和营销人员的无头API CMS.
 - [Siteleaf](https://siteleaf.com) -静态网站的友好CMS.
@@ -114,7 +114,7 @@
 - [Utterances](https://utteranc.es/)  -一个基于GitHub问题的轻量级注释小部件.  将GitHub问题用于博客评论，Wiki页面等.
 
 ### Forms
-- [Getform](https://getform.io)  -面向设计人员和开发人员的表单后端平台.  在几分钟之内为静态站点设置表单终结点，并通过Zapier集成和Webhooks支持扩展数据.
+- [Getform](https://getform.io)  -面向设计人员和开发人员的表单后端平台.  在几分钟之内为静态站点设置表单端点，并通过Zapier集成和Webhooks支持扩展数据.
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) -通过在部署时直接解析HTML文件，在构建时进行内置表单处理.
 - [StaticKit](https://statickit.com) -静态网站的现代形式，带有用于React和HTML的客户端库.
 
@@ -137,7 +137,7 @@
 
 - [GraphQL](https://graphql.org) -API的查询语言和用于使用现有数据完成这些查询的运行时.
 - [Graphcool](https://graph.cool) -开源和自托管后端即服务，用于开发无服务器的GraphQL后端.
-- [FaunaDB](https://fauna.com) -在云或内部部署中具有连接，索引和多区域ACID事务的关系NoSQL数据库.
+- [FaunaDB](https://fauna.com) -在云中或本地具有连接，索引和多区域ACID事务的关系NoSQL数据库.
 
 ### Automation
 
@@ -163,7 +163,7 @@
   - [BigQuery](https://cloud.google.com/bigquery/) -无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) -无服务器的机器学习服务，可在自定义Google硬件（张量处理单元）上自动扩展.
 - [Serverless](https://serverless.com/) -用于部署和操作无服务器架构的工具包.
-- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，从而轻松管理媒体，CDN，存储，转换等.
+- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，以简化管理媒体，CDN，存储，转换等的工作.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
@@ -177,6 +177,7 @@
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -遍历媒体.
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) -凯尔·马修斯（Kyle Mathews）.
 - [Talks from all the JAMstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) -JAMstack Conf.
+- [How I Used React, Vue, & Node to Build a Single JAMstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) -艾哈迈德·阿威斯.
 
 ## Tutorials / Articles
 

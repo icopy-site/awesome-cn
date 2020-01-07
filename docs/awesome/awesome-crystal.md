@@ -128,6 +128,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [INI](https://crystal-lang.org/api/INI.html) -此文件解析器（Crystal stdlib）
  * [JSON](https://crystal-lang.org/api/JSON.html) -解析和生成JSON文档（Crystal stdlib）
  * [JSON tools](https://github.com/impatienttraveller/json-tools) -JSON补丁和指针RFC的实现
+ * [JSON::OnSteroids](https://github.com/anykeyh/json_on_steroids) -轻松处理和变异JSON文档
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) -MaxMindDB阅读器
  * [toml.cr](https://github.com/crystal-community/toml.cr) -TOML解析器
  * [XML](https://crystal-lang.org/api/XML.html) -解析和生成XML文档（Crystal stdlib）
@@ -299,7 +300,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [port_midi](https://github.com/jimm/crystal_port_midi) -PortMIDI跨平台MIDI I / O库的Crystal C绑定
  * [retriable.cr](https://github.com/Sija/retriable.cr) -简单的DSL重试失败的代码块
  * [tren](https://github.com/sdogruyol/tren) -给您的SQL一些爱
- * [ulid](https://github.com/SuperPaintman/ulid) -通用唯一词典分类标识符（ULID）
+ * [ulid](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) -文件名清理
 
 ## Network Protocols
@@ -408,7 +409,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [microtest](https://github.com/Ragmaanir/microtest) -专注于功率断言的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
- * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
+ * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
  * [spectator](https://gitlab.com/arctic-fox/spectator) -使用现代的Expect语法的功能丰富的规范框架
  * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用`Time.now`嘲笑的库.  受到启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [vcr](https://github.com/spoved/vcr.cr) -Crystal的HTTP捕获和重放实现

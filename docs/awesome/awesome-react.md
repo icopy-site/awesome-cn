@@ -131,6 +131,7 @@
 - [reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
 - [rsuite](https://github.com/rsuite/rsuite) -一套React组件
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -根据Atlassian设计指南构建的Atlassian官方UI库.
+- [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
 
 ##### React Awesome Components
 
@@ -161,7 +162,7 @@
 - [react-text-mask](https://github.com/text-mask/text-mask) -React的输入掩码
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) -创建自动适应您的应用程序的框架屏幕
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) -用CSS动画化的React加载指示器集合
-- [rheostat](https://github.com/airbnb/rheostat) -使用React构建的可访问滑块组件
+- [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
 - [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
 
@@ -699,7 +700,7 @@
 
 ### Real React Apps
 
-- [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [kibana](https://github.com/elastic/kibana) -您进入弹性堆栈的窗口
 - [firefox debugger](https://github.com/firefox-devtools/debugger) -可以在任何地方使用的Firefox调试器
 - [spectrum](https://github.com/withspectrum/spectrum) –简单，强大的在线社区
 - [mattermost](https://github.com/mattermost/mattermost-webapp) -开源Slack替代
