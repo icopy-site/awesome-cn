@@ -80,7 +80,7 @@
 ## Debugging
 *用于调试的插件.*
 
-- [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) 一个将Airbrake与CakePHP无缝集成以解决错误和异常的插件.
+- [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
 - [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
@@ -93,7 +93,7 @@
 *实现依赖项注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖项注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -122,11 +122,11 @@
 
 - [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) -抽象文件存储和上传插件.
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) -使用Flysystem进行抽象文件系统访问.
-- [FriendsOfCake/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) -使用的可自定义插件 [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
 - [Image plugin](https://github.com/josbeir/image) -图像行为与Cake在TranslateBehavior中内置的行为非常相似.
 - ：草莓： [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) -摘要 [Flysystem](https://flysystem.thephpleague.com/) +基于文件实体的上传插件.
+- [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) -使用的可自定义插件 [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) -具有缩略图生成功能的可自定义上传插件.
-- [Upload plugin](https://github.com/Xety/Cake3-Upload) -一个用于上传文件的小插件.
+- [Xety/Cake3Upload plugin](https://github.com/Xety/Cake3-Upload) -一个用于上传文件的小插件.
 
 ## Filtering and Validation
 *用于过滤和验证数据的插件.*
@@ -221,7 +221,7 @@
 ## Navigation
 *用于构建导航结构的工具.*
 
-- [Icings/Menu plugin](https://github.com/icings/menu) - 一种 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP的经验丰富的菜单插件.
+- ：草莓： [Icings/Menu plugin](https://github.com/icings/menu) - 一种 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP的经验丰富的菜单插件.
 
 ## NoSQL
 *用于“ NoSQL”后端的插件.*
@@ -231,7 +231,7 @@
 ## Notifications
 *使用通知软件的插件.*
 
-- [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) - A plugin to send downstream messages to an Android or iOS device through Google Cloud Messaging.
+- [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) -一个插件，可通过Google Cloud Messaging将下游消息发送到Android或iOS设备.
 - [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) -一个易于创建和阅读通知的插件.
 - [ker0x/Push plugin](https://github.com/ker0x/cakephp-push) -一个插件，可通过Firebase Cloud Messaging等服务发送推送通知.
 
@@ -277,14 +277,14 @@
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) -使用中间件激活CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -建筑的听众 [JSON API](https://jsonapi.org/) 兼容的API.
-- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) 用于您的API输出.
+- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 
 ## Search
 *用于索引和执行数据查询的插件和软件.*
 
-- [ElasticSearch plugin](https://github.com/cakephp/elastic-search) -使用Elastic Search作为后端的替代ORM.
+- [Cake/ElasticSearch plugin](https://github.com/cakephp/elastic-search) -使用替代ORM [Elasticsearch](https://www.elastic.co/) 作为其后端.
 - [PlumSearch plugin](https://github.com/skie/plum_search)  -搜索插件实现了自定义，灵活和可扩展的搜索策略.  实现PRG模式.
-- ：草莓： [FriendsOfCake/Search plugin](https://github.com/FriendsOfCake/search) -搜索为CakePHP应用程序提供了搜索/过滤器模块.
+- ：草莓： [Search plugin](https://github.com/FriendsOfCake/search) -使用PRG模式可轻松搜索/过滤分页视图.
 - [SphinxSearch plugin](https://github.com/voycey/cakephp-sphinxsearch) -查询SphinxSearch索引的基本行为实现.
 - [Tags plugin](https://github.com/dereuromark/cakephp-tags) -用于标记和查找标记的记录.
 
@@ -452,7 +452,7 @@
 ## CakePHP Internals Reading
 *阅读与CakePHP内部和决策相关的材料.
 
-- [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
+- [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) -帮忙
 
 ## Conferences
 

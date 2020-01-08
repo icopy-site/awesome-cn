@@ -17,7 +17,7 @@
   - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
   - [Nightlight (Text Editor)](https://github.com/oakes/Nightlight)
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
-  - [Meo](https://github.com/matthiasn/meo)
+  - [meins](https://github.com/matthiasn/meins)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
   - [Braid](https://github.com/braidchat/braid)：具有新颖UI的团队聊天应用程序，可以带来更好的对话
   - [Atea](https://github.com/pkamenarsky/atea)：用于MacOS的简约菜单栏时间跟踪器

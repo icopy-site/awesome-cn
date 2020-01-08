@@ -14,10 +14,10 @@ _请随时使用您的宝贵资源做出贡献，谢谢！
 - [Gaffer on Games](https://gafferongames.com/) -Glenn Fiedler的可靠UDP协议和游戏网络开发文章.
 - [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) -Matthew Walker的多人游戏服务器架构博客.
 - [High Performance Browser Networking](https://hpbn.co/) -Ilya Grigorik撰写的关于现代Web协议的出色的免费在线书籍.
-- [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
+- [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -Armin Ronacher对《战地风云3》多人射击机制的分析.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) -学术论文.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) -IT Hare团队的详细网络编程文章.
-- [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) -Keith Johnston简要介绍了NAT和P2P连接.
+- [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) - Brief summary of NAT and P2P connectivity by Keith Johnston.
 - [Netcode Explained](https://www.pcgamer.com/uk/netcode-explained/) -基本的游戏网络概念，包括PC Gamer上的Chris“ Battle（non）sense”实例.
 - [Networked Physics in Virtual Reality](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) -Oculus的Glenn Fiedler用Unity和PhysX将一堆多维数据集联网.
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) -Destroy All Software的底层网络协议栈的简要而详细的概述.
@@ -71,8 +71,9 @@ _请随时使用您的宝贵资源做出贡献，谢谢！
   - [LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) -Unity的Peter Andreasen的Netcode演讲.
   - [EU 2019 / Intro to DOTS and Netcode](https://www.youtube.com/watch?v=P_-FoJuaYOI) -使用蒂姆·约翰森（Tim Johansson）的DOTS深入研究Unity的网络化未来.
 -其他
-  - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) -由Pat Wyatt谈起激战，暗黑破坏神，星际争霸的网络.
-  - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) -暴雪的Tim Ford和Philip Orwig在《守望先锋》的网络代码上.
+  - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) -聊天Pat Wyatt讨论的激战，暗黑破坏神，星际争霸的网络代码.
+  - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) -来自暴雪的Tim Ford和Philip Orwig撰写的《守望先锋》网络代码的开发日志.
+  - [Networking Architecture of Warframe](https://www.youtube.com/watch?v=VVetqMgcN50) -讨论Digital Extremes的Maciej Sinilo撰写的Warframe的网络代码.
 
 ## Tutorials
 

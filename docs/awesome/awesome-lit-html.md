@@ -122,6 +122,7 @@
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) -用于lit-html模板字符串的ESLint插件.
 - [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) -CLI类型，用于检查lit-html模板中的绑定.
 - [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件，以最小化带有标签的模板字符串中的HTML.
+- [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) -汇总插件，可在LitElement和Transpile装饰器中内联外部样式.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) -汇总插件，用于将CSS文件作为LitElement标记的`css`模板字符串导入.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -汇总插件，用于在LitElement组件中加载PostCSS处理的样式表.
 - [lit-loader](https://github.com/PolymerX/lit-loader) -用于Webpack的LitElement单个文件组件加载器.
@@ -175,7 +176,7 @@
  这些库不依赖于lit-html，而是受其某些概念的启发.  他们使用标记为“ html”
 模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法突出显示.
 
-- [htm](https://github.com/developit/htm) -超标标记的标记：使用标准标记模板的JSX替代品，并具有编译器支持.
+- [htm](https://github.com/developit/htm) -Hyperscript Tagged标记：使用标准标记模板的JSX替代品，并具有编译器支持.
 - [hybrids](https://github.com/hybridsjs/hybrids) -用于使用简单实用的API创建Web组件的UI库.
 - [lit-ntml](https://github.com/motss/lit-ntml) -受lit-html启发，在Node.js中实现了SSR的轻巧现代模板.
 - [lite-html](https://github.com/ruphin/lite-html) -VirtualDOM渲染引擎的现代替代品.

@@ -37,10 +37,10 @@
 博客文章以及沃德利地图和标语的其他有趣示例.
 
 - [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
-- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种方法最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建《 IT战略手册》.
+- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解最适合开发和交付信息管理系统的方法，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建《 IT战略手册》.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源；  并跨多个NSO启用大数据协作.  下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc).
 - [Mapping Maturity](https://maturitymapping.com/) -由Cynefin通知的具有Wardley映射的特定于上下文的成熟度模型.
-- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所开创的制图形式相结合.
+- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所倡导的地图形式相结合.
 
 ## Research Papers
 
@@ -56,6 +56,7 @@
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的操作指南.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -沃德利（Yard）映射调色板.
+- [Doctrine Grid Tool](http://justin.stach.uk/doctrine_grid_tool) -基于Google表单和Google表格.
 
 ## Apps
 

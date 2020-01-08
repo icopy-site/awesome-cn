@@ -139,7 +139,7 @@
 * Etsy https://codeascraft.com/
 * Eventbrite https://www.eventbrite.com/engineering/
 * Evernote https://evernote.com/blog/
-* Evil Martians https://evilmartians.com/chronicles/
+*邪恶火星人https://evilmartians.com/chronicles/
 * Expedia https://medium.com/expedia-group-tech
 
 #### F companies
@@ -310,7 +310,7 @@
 #### R companies
 * Raizlabs https://www.raizlabs.com/dev/
 * RapidAPI http://blog.rapidapi.com/
-* REA集团http://rea.tech/engineering/
+* REA集团https://www.rea-group.com/category/tech/
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
@@ -461,7 +461,7 @@
 #### A individuals
 *亚伦·帕特森（Aaron Patterson）http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
-*阿布·阿什拉夫（Abu Ashraf）Masnun http://masnun.com/
+* Abu Ashraf Masnun http://masnun.com/
 *亚当·巴德https://adambard.com/blog/
 *亚当·莱文塔尔http://dtrace.org/blogs/ahl/
 *亚当·普莱默（Adam Tuliper）http://www.adamtuliper.com/
@@ -490,7 +490,7 @@
 * Bartlomiej Filipek http://www.bfilipek.com/
 *本·麦考密克https://benmccormick.org/
 *比尔蜥蜴http://www.billthelizard.com/
-* Bjørn Johansen https://bjornjohansen.no/
+*比约恩·约翰森https://bjornjohansen.no/
 *布莱克·埃里克森（Blake Erickson）https://blog.blakeerickson.com/
 * Blundell的Android教程http://blog.blundellapps.co.uk
 * Bohops https://bohops.com/
@@ -543,7 +543,7 @@
 *埃里克·艾略特（Eric Elliot）https://medium.com/javascript-scene/
 *埃里克·利珀特（Eric Lippert）https://ericlippert.com/
 * Erik Runyon https://erikrunyon.com/
-* Evan Hahn http://evanhahn.com/
+*埃文·哈恩（Evan Hahn）http://evanhahn.com/
 *埃文·琼斯http://www.evanjones.ca/chronologic.html
 *埃文·米勒（Evan Miller）http://www.evanmiller.org/
 *埃文·塔勒（Evan Tahler）https://blog.evantahler.com/
