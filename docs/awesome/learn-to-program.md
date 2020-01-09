@@ -21,6 +21,10 @@
 **免费**互动式1小时课程，学习网络开发的基础知识\
 *（HTML，CSS，JavaScript，SQL）*
 
+#### [UpLeveled Learning Platform](https://learn.upleveled.io/)
+** Freemium **平台，用于学习Web开发的基础\
+*（HTML，CSS，JavaScript）*
+
 #### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
 用于课程的**商业**平台，如何构建网站和应用\
 *（网页设计，前端Web开发，Rails，iOS，Android，PHP）*
@@ -30,7 +34,7 @@
 *(CSS)*
 
 #### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
-**Freemium** marketplace of courses from third party providers. Quality may vary.\
+ 第三方提供商提供的“免费增值”课程市场.  质量可能会有所不同.\
 *（HTML，CSS，JavaScript，Ruby，Rails，Python，iOS，Android）*
 
 #### [Code Avengers](https://www.codeavengers.com/)
@@ -50,7 +54,7 @@
 *（网络开发，JavaScript，AngularJS，Ruby，Rails，iOS，Haskell，计算机科学）*
 
 #### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
- **混合**目录，用于网络开发和编程的课程，视频和其他学习资源.  质量可能会有所不同.\
+**Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
 *（HTML，CSS，JavaScript，AngularJS，Rails）*
 
 #### [Platzi](https://courses.platzi.com/)
@@ -68,6 +72,10 @@
 #### [GitHub Learning Lab](https://lab.github.com/)
  **免费**自定进度的交互式项目，用于学习Git和GitHub.  由GitHub的培训团队创建和维护.\
 *（Git，GitHub）*
+
+#### [Grid Garden](https://cssgridgarden.com/)
+**免费**游戏，可教由创建的CSS网格系统 [@thomaspark](https://github.com/thomaspark)\
+*(CSS)*
 
 #### [Hexlet.io](https://en.hexlet.io)
 **混合**自定进度的交互式项目，可学习JavaScript，C，正则表达式和一般计算机科学.  
@@ -152,6 +160,11 @@
 *（JavaScript，CSS，React，Node.js，GraphQL，Redux）*
  
 ## Advanced
+
+
+#### [Paqmind](http://paqmind.com)
+**免费**测验您的编程知识\
+*（JavaScript，Node.js，React，函数式编程）*
 
 #### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 麻省理工学院提供的有关高级计算机科学主题的**免费**课程\

@@ -38,9 +38,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) -布莱恩·巴西（Brian Brazil）.
 
 ## Videos
-
-- [PromCon 2019](https://www.youtube.com/watch?v=4vZ1PqZ_Foc) -PromCon慕尼黑-2019年11月7日，PromCon EU 2019-第1天现场谈话录音.
-- [PromCon 2019](https://www.youtube.com/watch?v=bbIE9VyVgaY) -PromCon慕尼黑-2019年11月8日，PromCon EU 2019-第2天现场谈话录音.
+- [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) -PromCon慕尼黑-2019年11月7日至8日，PromCon EU 2019
 - [PromCon 2018](https://www.youtube.com/playlist?list=PLoz-W_CUquUlml1wBtQVBKErwoszt5B0h) -PromCon慕尼黑-2018年8月9日至10日-慕尼黑PromCon 2018的谈话录音.
 - [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) -PromCon慕尼黑-2017年8月17-18日-PromCon 2017在柏林的谈话录音.
 - [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) -PromCon Berlin-2016年8月25日至26日-柏林PromCon 2016谈话录音.
@@ -52,7 +50,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) -Docker-2016年10月14日-Julius Volz.
 - [Explain it Like I’m Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) -Monitorama PDX，2019年-Dave Cadwallader.
 - [Best Practices and Beastly Pitfalls](https://www.youtube.com/watch?v=_MNYuTNfTb4) -PromCon 2017：最佳实践和野兽陷阱-Julius Volz.
-- [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) - Counting with Prometheus - Brian Brazil, Robust Perception.
+- [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) -普罗米修斯计数-布莱恩·巴西（Brian Brazil），稳健的洞察力.
 - [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) -了解和扩展Prometheus AlertManager-SolarWinds的Lee Calcote
 - [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) -PromCon 2016：Prometheus时间序列数据库-BjörnRabenstein.
 - [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) -GOTO 2019：Prometheus的系统和服务监视简介-Julius Volz.
@@ -125,7 +123,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Uncategorized
 
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) -Subreddit收集Internet上所有与Prometheus相关的资源.
-- [PromCon](https://promcon.io/) -普罗米修斯会议.
+- [PromCon](https://promcon.io/) - The Prometheus conference.
 - [Prometheus demo site](http://demo.cloudalchemy.org:9090) -普罗米修斯（Prometheus）网站每天使用来自 [cloudalchemy repository](https://github.com/cloudalchemy/demo-site).
 
 ## License

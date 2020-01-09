@@ -62,6 +62,7 @@
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
+- [Wenyan](https://github.com/antfu/wenyan-lang-vscode)
 - [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 ## Migrating from other editors
@@ -144,10 +145,10 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## Clojure
 
-### [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
+### [Calva](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva)
  &gt;集成REPL，棉绒，内联评估，测试运行器等.  由Cider＆nRepl提供支持.
 
-![Calva](https://github.com/BetterThanTomorrow/calva/blob/master/assets/howto/evaluate.gif)
+![Calva](https://raw.githubusercontent.com/BetterThanTomorrow/calva/master/assets/howto/top-level-comment-eval.gif)
 
 ## CSS
 
@@ -200,6 +201,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) -的摘录 [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -Linter，Formatter和Pretty打印机 [Prettier](https://github.com/prettier/prettier-vscode).
 - [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) -的摘录 [Schema.org](https://schema.org/).
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) -Visual Studio Code的拼写检查器.
 
 ### Facebook Flow
 
@@ -226,6 +228,11 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 &gt;多合一Markdown插件（键盘快捷键，目录，自动预览，列表编辑等）
 
 ![Markdown All in One](https://user-images.githubusercontent.com/10897048/47027336-d8a9ac80-d199-11e8-9836-b8dbc4a97d1a.gif)
+
+### [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
+&gt;将表情符号语法支持添加到VS Code的内置Markdown预览中
+
+![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
 
 ## PHP
 
@@ -278,7 +285,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 - [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) -Visual Studio Code的XDebug扩展
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
-- [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) -VS Code，PHP格式化程序，PHP代码美化工具的PHP CS Fixer扩展
+- [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) - PHP CS Fixer extension for VS Code, php formatter, php code beautify tool
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) -用于Visual Studio代码的PHP CodeSniffer
 - [phpfmt](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt) -用于Visual Studio代码的phpfmt
 
@@ -350,13 +357,19 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Deploy](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy)
 
-> Commands for upload or copy files of a workspace to a destination.
+&gt;用于将工作空间的文件上传或复制到目标的命令.
 
 ![Upload/copy files animation](https://raw.githubusercontent.com/mkloubert/vs-deploy/master/img/demo.gif)
 
 ## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
 &gt;能够复制文件和目录.
+
+## [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+&gt;内联显示语言诊断（错误/警告/ ...）.
+
+![error lens demo gif](https://user-images.githubusercontent.com/9638156/71784742-de421b00-3007-11ea-8862-8c6ea2836202.gif)
 
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
@@ -405,7 +418,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 &gt;看看 [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) 关于如何开始使用此扩展程序的设置.
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
-> This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
+&gt;该扩展使用GitHub api监视您的拉取请求的状态，并在何时合并或有人请求更改时通知您.
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
@@ -429,6 +442,12 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
  &gt;该扩展名将在编辑器中内联显示导入包的大小.  该扩展程序利用带有babili-webpack-plugin的webpack来检测导入的大小.
 
 ![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
+
+## [Jira and Bitbucket](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode)
+
+&gt;将Jira和Bitbucket的功能引入VS Code-使用Atlassian for VS Code，您可以创建和查看问题，开始解决问题，创建请求请求，进行代码审查，开始构建，获取构建状态等等！
+
+![Jira and Bitbucket workflow](https://bitbucket.org/atlassianlabs/atlascode/raw/master/.readme/dev-workflow.gif)
 
 ## [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations)
 
@@ -601,7 +620,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
 
-&gt;粘贴带有“正确”缩进的代码
+> Paste code with "correct" indentation
 
 ![Indentation of pasted code animation](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/screenshots/pasteandindent.gif)
 
@@ -761,7 +780,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
 
-&gt;通过使用新的协议，对诸如Azure Blob，S3存储桶，Dropbox，（S）FTP或WebDAV文件之类的东西提供多协议支持 [FileSystem API](https://code.visualstudio.com/docs/extensionAPI/vscode-api#FileSystemProvider)，尤其是用于以下列方式访问编辑器中的本地文件和文件夹等资源： [workspace folders](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
+&gt;通过使用新的协议，对诸如Azure Blob，S3存储桶，Dropbox，（S）FTP或WebDAV文件之类的东西提供多协议支持 [FileSystem API](https://code.visualstudio.com/docs/extensionAPI/vscode-api#FileSystemProvider)，尤其是用于在编辑器中访问本地文件和文件夹等资源时 [workspace folders](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
 
 ![Remote Workspace animation](https://raw.githubusercontent.com/mkloubert/vscode-remote-workspace/master/img/demo1.gif)
 
@@ -858,7 +877,7 @@ VSCode主题的灵感来自遥远的星系...
 
 ### [Atom One Dark Theme by Mahmoud Ali](https://vscodethemes.com/e/akamud.vscode-theme-onedark)
 
-一个基于Atom的黑暗主题.
+One Dark Theme based on Atom.
 
 <a href="https://vscodethemes.com/e/akamud.vscode-theme-onedark">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/akamud.vscode-theme-onedark.png" width="600" />
@@ -898,7 +917,7 @@ VSCode主题的灵感来自遥远的星系...
 
 ### [Cobalt2 Theme Official by Wes Bos](https://vscodethemes.com/e/wesbos.theme-cobalt2)
 
- Wes Bos的官方主题.
+🔥 Official theme by Wes Bos.
 
 <a href="https://vscodethemes.com/e/wesbos.theme-cobalt2">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/wesbos.theme-cobalt2.png" width="600" />
@@ -922,7 +941,7 @@ VSCode主题的灵感来自遥远的星系...
 
 ### [Eva Theme by fisheva](https://vscodethemes.com/e/fisheva.eva-theme)
 
-A colorful and semantic coloring code theme.
+一个丰富多彩的语义着色代码主题.
 
 <a href="https://vscodethemes.com/e/fisheva.eva-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/fisheva.eva-theme.png" width="600" />

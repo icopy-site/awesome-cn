@@ -13,19 +13,19 @@
 ## Configs
 
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -最好的鲜为人知的eslint插件的集合，可与您的主要配置一起使用.
-- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -可共享的配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
+- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -共享配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) -为您的React / Vue / TypeScript项目进行渐进式ESLint配置.
-- [Canonical](https://github.com/gajus/eslint-config-canonical) -可共享的配置 [Canonical style guide](https://github.com/gajus/canonical).
+- [Canonical](https://github.com/gajus/eslint-config-canonical) -共享配置 [Canonical style guide](https://github.com/gajus/canonical).
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) -包含用于ESLint团队维护的项目的ESLint配置.
 - [ES](https://github.com/thenativeweb/eslint-config-es) -可共享的配置，用于非常严格的代码.
 - [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) -用于Facebook风格指南的可共享配置.
 - [Google](https://github.com/google/eslint-config-google) -的共享配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
-- [Problems](https://github.com/RyanZim/eslint-config-problems) -可共享的配置，仅捕获实际问题，不执行样式首选项.
+- [Problems](https://github.com/RyanZim/eslint-config-problems) -可共享的配置，仅捕获实际问题，并且不强制使用样式偏好.
 - [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) -可共享的配置 [React](https://reactjs.org) 项目.
-- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -可共享的配置 [Shopify's style guide](https://github.com/Shopify/javascript).
+- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -共享配置 [Shopify's style guide](https://github.com/Shopify/javascript).
 - [Standard](https://github.com/feross/eslint-config-standard) -JavaScript的共享配置 [Standard Style](https://github.com/feross/standard).
 - [Supermind](https://github.com/supermind/eslint-config-supermind) -Supermind风格的共享配置.
-- [XO](https://github.com/sindresorhus/eslint-config-xo) -可共享的配置 [XO](https://github.com/sindresorhus/xo).
+- [XO](https://github.com/sindresorhus/eslint-config-xo) -共享配置 [XO](https://github.com/sindresorhus/xo).
 
 ## Parsers
 
@@ -89,6 +89,7 @@
 - [array-func](https://github.com/freaktechnik/eslint-plugin-array-func) -使用es2015数组方法和函数时避免冗余.
 - [arrow functions](https://github.com/getify/eslint-plugin-proper-arrows) -ESLint规则，以确保正确的箭头功能定义.
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) -用于功能编程的ESLint规则.
+- [functional](https://github.com/jonaskello/eslint-plugin-functional) -ESLint规则可禁用突变并在JavaScript和TypeScript中提升fp.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) -禁用JavaScript中的所有变异.
 - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) -JSX元素上的可访问性规则.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) -要求使用`new`抛出错误.
@@ -120,7 +121,7 @@
 
 ### Formatters
 
-- [eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) -具有Git作者，日期和哈希的ESLint Formatter.
+- [eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash.
 - [eslint-formatter-github](https://github.com/hipstersmoothie/eslint-formatter-github) -直接在拉取请求中查看ESLint错误和警告.
 - [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) -在GitLab代码质量结果中输出ESLint结果.
 
@@ -154,7 +155,7 @@
 
 - [Creating an ESLint Plugin](https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f) -本文逐步介绍了ESLint规则和插件的创建.
 - [Lint Like It's 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48#.5p3yk0b03) -文章逐步介绍了使用ESLint的好处.
-- [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - Video showing ESLint setup and basics.
+- [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) -显示ESLint设置和基础知识的视频.
 - [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) -视频展示了如何在ESLint中使用React和JSX.
 - [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) -有关如何将插件编写为包含模块化mixin配置的节点模块的文章.
 - [Writing a rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/) -有关创建需要范围分析的规则的文章.

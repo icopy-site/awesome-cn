@@ -24,7 +24,6 @@
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) -在幻想宇宙中的炸弹人克隆（Godot 2.1）.
 - [Haldric](https://github.com/wesnoth/haldric) -韦诺之战（Godot 3.1）的正式进行中重新实现.
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
-- [Libre Pinball](https://github.com/Calinou/libre-pinball) -弹球游戏（Godot 1）.
 - [Memory Game](https://github.com/Tzoop/MemoryGame) -简单记忆游戏（Godot 3.0）.
 - [Minehunter](https://github.com/genete/Minehunter) -扫雷副本（Godot 2.1）.
 - [Minilens](http://kobuge-games.github.io/minilens/) -免费的益智平台游戏（Godot 2.1）.
@@ -102,7 +101,7 @@
 - [godot-voxel](https://github.com/Zylann/godot_voxel) -在Godot Engine中创建体积世界的模块.
 - [Gdnet](https://github.com/empyreanx/gdnet) -Godot的ENet包装器.
 - [Gdnet for Godot 3](https://github.com/PerduGames/gdnet3) -Godot 3的ENet包装器.
-- [GodotSteam](https://github.com/Gramps/GodotSteam)  -Godot游戏引擎的Steam API（版本3.0-3.1）.  对于Windows，Linux和Mac平台.
+- [GodotSteam](https://github.com/Gramps/GodotSteam)  -Godot的Steam API库绑定.  支持Windows，macOS和Linux（Godot 3.1）.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) -在Godot中使用本机对话框.
@@ -127,7 +126,7 @@
 - [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd（Godot 3.1）在Godot中进行快速3D碰撞检查.
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -Phoenix框架（Godot 3.1）的Channels API的GDScript和Godot引擎实现.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) -一组基本节点扩展（Godot 3.1）.
-- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) -通知中心（Godot 1.1、2.1、3.1）.
+- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) -通知中心（Godot 3.1）.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) -文本接口引擎，用于控制文本输出（例如在RPG对话框中）（Godot 2.x，3.x）.
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) -处理大量草，树叶和其他植被的插件（Godot 2.1）.
 - [gterm](https://github.com/TeddyDD/gterm) -GUI控件，其绘制类似于\ * nix终端模拟器（Godot 2.1）.
@@ -138,7 +137,7 @@
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) -滚动背景节点（Godot 2.1）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) -对话框系统和编辑器可自定义，非常适合故事驱动的游戏（Godot 3.0）.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) -对GNU / Linux和Windows（Godot 2.1）的简单游戏手柄支持.
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) -从导入地图 [Tiled](https://www.mapeditor.org/) （Godot 1.x，2.x，3.0）.
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) -从导入地图 [Tiled](https://www.mapeditor.org/) （Godot 3.1）.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) -建立贴图集.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) -快速构建具有样式（Godot 2.x）的tileset.
 
@@ -161,7 +160,7 @@
 
 - [base16-godot](https://github.com/Calinou/base16-godot) -全部 [base16](https://github.com/chriskempson/base16) 主题.
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) -切斯特，Google Code Light和Monokai.
-- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) -Atom Dark，Darcula，Gruvbox Dark，Metro，Monokai，One Dark，Solarized Dark.
+- [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) -13个语法主题，包括Ayu Mirage，Darcula，Gruvbox Dark，Monokai，One Dark，Solarized等.
 
 ## Unofficial Godot builds
 
@@ -180,4 +179,4 @@
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) -帮助Debian和Ubuntu用户安装和使用Godot的脚本.
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) -用于为所有支持的平台生成游戏手柄映射的工具.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) -使用一个主文件更新文件副本的脚本.
-- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) -Perl脚本，用于将网格Spritesheet图像拆分为编号的单个框架文件.
+- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) -Perl脚本可将网格Spritesheet图像拆分为编号的单个框架文件.

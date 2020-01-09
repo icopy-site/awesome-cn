@@ -63,7 +63,7 @@
 - [Shallow Compare](https://github.com/tkh44/shallow-compare) -简化的“ shouldComponentUpdate”助手.
 - [Preact Codemod](https://github.com/vutran/preact-codemod) -将您的React代码转换为Preact.
 - [Preact Helmet](https://github.com/download/preact-helmet) -Preact的文档主管.
-- [Preact Delegate](https://github.com/NekR/preact-delegate) -委托DOM事件.
+- [Preact Delegate](https://github.com/NekR/preact-delegate) - Delegate DOM events.
 - [Preact No SSR](https://github.com/gufsky/preact-no-ssr) -跳过组件的服务器端渲染.
 - [Preact Head](https://github.com/matthewmueller/preact-head)  -独立的声明式\ <Head /\>  对于Preact.
 - [Preact Side Effect](https://github.com/ooade/preact-side-effect) -创建其嵌套属性更改会映射到全局副作用的组件.
@@ -84,10 +84,11 @@
 - [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建受到elm启发的preact组件.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) -零学习曲线的React，Preact和Inferno的快速轻松状态管理.
+- [Preact-urql](https://github.com/JoviDeCroock/preact-urql) - 采用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -JSX断言测试_（没有DOM，就在Node中）_.
-- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
+- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) -使Preact组件可以访问产生的虚拟dom进行测试.
 - [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -模拟反应-测试-利用酶.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) -简单而完整的Preact DOM测试实用程序，可鼓励良好的测试实践.
 

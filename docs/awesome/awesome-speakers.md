@@ -158,16 +158,28 @@ https://twitter.com/sarasoueidan
 
 ### Karachi
 
+<img src="https://twitter.com/ArbazPirwani/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+** Arbaz Pirwani ** \
+主题：Android，Kotlin，Java \
+https://twitter.com/ArbazPirwani
+
 <img src="https://twitter.com/ahsan_ayz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Ahsan Ayaz ** \
 主题：JavaScript，Angular，Node.js，Ionic，Firebase，Stencil，渐进式Web Apps \
 https://twitter.com/ahsan_ayz
 
+<img src="https://twitter.com/bhattieric/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**埃里克·巴蒂** \
+主题：Android，Java，Kotlin，Firebase \
+https://twitter.com/bhattieric
+
 <img src="https://twitter.com/mashhoodr/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **混血Rastgar ** \
- 主题：渐进式Web应用程序，Angular，Firebase.  Google Developer Expert Web \
+主题：渐进式Web应用程序，Angular，Firebase \
 https://twitter.com/mashhoodr
 
 <img src="https://twitter.com/smkamranqadri/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -187,6 +199,12 @@ https://twitter.com/narainsagar
 **纳西尔·侯赛因** \
 主题：网页设计，区块链，Python，物联网，持续集成，开发者生态系统\
 [https://twitter.com/\_dev_nasir_](https://twitter.com/_dev_nasir_)
+
+<img src="https://twitter.com/WajahatKarim/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+Wajahat Karim ** \
+主题：Android，开源，Java，Kotlin \
+https://twitter.com/WajahatKarim
 
 ## Singapore 🇸🇬
 
@@ -261,6 +279,12 @@ https://twitter.com/ddprrt
 https://twitter.com/lisi_linhart
 
 ### Vienna
+
+<img src="https://twitter.com/bolonio/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**AdriánBolonio ** \
+主题：React，JavaScript，可访问性\
+https://twitter.com/bolonio
 
 <img src="https://twitter.com/sharifsbeat/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -845,7 +869,7 @@ https://twitter.com/granze
 
 <img src="https://twitter.com/cef62/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Matteo Ronchi**\
+** Matteo Ronchi ** \
 主题：React，JavaScript，Flow，Web架构，前端操作\
 https://twitter.com/cef62
 
@@ -1506,7 +1530,7 @@ https://twitter.com/AurelienLoyer
 <img src="https://twitter.com/shehackspurple/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
 **问更多**
-主题：InfoSec，Web App安全性\
+Topics: InfoSec, Web App Security\
 https://twitter.com/shehackspurple
 
 ### Toronto
@@ -1956,7 +1980,7 @@ https://twitter.com/sarah_edo
 <img src="https://twitter.com/sgrove/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **塞恩·格罗夫** \
-Topics: GraphQL, ReasonML, OCaml\
+主题：GraphQL，ReasonML，OCaml \
 https://twitter.com/sgrove
 
 <img src="https://twitter.com/stefsull/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -2054,7 +2078,7 @@ https://twitter.com/JoaoVictor_AC
 <img src="https://twitter.com/sseraphini/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **西贝柳斯·塞拉菲尼** \
-主题：React，React Native，Node.js，GraphQL，Relay Modern，开源，机器学习，区块链\
+Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain\
 https://twitter.com/sseraphini
 
 ## License

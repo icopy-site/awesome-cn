@@ -106,7 +106,7 @@
 - [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) -电子邮件传输插件，用于通过Elastic Email API发送电子邮件.
 - [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) -具有预览和发件人外壳的电子邮件队列插件.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) -电子邮件帮助程序，布局等.
-- [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) -电子邮件传输插件，用于通过Mailgun发送电子邮件.
+- ：草莓： [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) -电子邮件传输插件，用于通过Mailgun发送电子邮件.
 - [SendGrid plugin](https://github.com/sprintcube/cakephp-sendgrid) -电子邮件传输插件，用于通过SendGrid API发送电子邮件.
 
 ## Environment
@@ -191,11 +191,11 @@
 *其他插件和库.*
 
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) -使您能够将控制器操作作为单个类进行管理.
-- [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -一个易于处理AJAX请求的插件.
+- ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -一个易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个用于向您的应用添加枚举列表支持的插件.
 - ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
-- [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以还原到原始身份验证会话，而无需重新登录.
+- ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以还原到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.
 - [Comments plugin](https://github.com/Kareylo/CakePHP-Comments) -完全可自定义的评论插件.
@@ -339,7 +339,7 @@
 - [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) -一个插件，可将HTML样式块转换为View模板上的内联CSS（旨在与电子邮件模板一起使用）.
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) -Jade模板引擎插件.
 - [Liquid plugin](https://github.com/gourmet/liquid) -使用Liquid模板语言进行查看的插件.
-- [Meta plugin](https://github.com/dereuromark/cakephp-meta) -使处理元标记和SEO相关的HTML标记DRY变得容易.
+- ：草莓： [Meta plugin](https://github.com/dereuromark/cakephp-meta) -使处理元标记和SEO相关的HTML标记DRY变得容易.
 - [SocialMeta plugin](https://github.com/gourmet/social-meta) -增加了对Facebook的OpenGraph和Twitter的Card meta标签的支持.
 - [TwigView plugin](https://github.com/WyriHaximus/TwigView) -使用Twig模板语言获取视图的插件.
 - [VideoEmbed plugin](https://github.com/drmonkeyninja/cakephp-video-helper) -嵌入YouTube，Vimeo和Dailymotion视频的助手.

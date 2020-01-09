@@ -47,6 +47,7 @@
 
 * [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) -设计用来提供标准化分子的简单方法的工具，例如作为分子建模练习的序幕.
 * [MolVS](https://github.com/mcs07/MolVS) -基于分子的验证和标准化 [RDKit](http://www.rdkit.org/).
+* [rd_filters](https://github.com/PatWalters/rd_filters) -使用RDKit和ChEMBL运行结构警报的脚本
 
 <a id="lib-visualization"></a>
 ### Visulization
@@ -61,13 +62,14 @@
 
 * [mordred](https://github.com/mordred-descriptor/mordred) -基于分子描述符计算器 [RDKit](http://www.rdkit.org/).
 * [mol2vec](https://github.com/samoturk/mol2vec) -分子亚结构的向量表示.
-* [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) -根据其药效比对分子.
+* [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 
 <a id="lib-ml"></a>
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) -普及化学的深度学习.
+* [DeepChem](https://github.com/deepchem/deepchem) -基于Tensorflow的化学深度学习库
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) -生物学和化学深度学习图书馆.
+* [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) -PyTorch库提供了许多图卷积算法的实现.
 
 <a id="lib-web"></a>
 ### Web APIs
@@ -134,7 +136,7 @@
 ## See Also
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) -深度学习生物学回购中的化学信息学和药物发现部分.
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个列表重点关注与化学有关的Python内容.
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个清单着重于与化学有关的Python内容.
 
 ## License
 
