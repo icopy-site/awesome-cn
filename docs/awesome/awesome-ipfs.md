@@ -41,7 +41,7 @@
 - [dapple](https://github.com/nexusdev/dapple) -Dapple是Solidity开发人员的多功能工具，旨在管理互连的智能合约系统日益增长的复杂性.
 - [Diffuse](https://diffuse.sh) -从IPFS节点或您使用的任何其他云/分布式存储服务播放音乐.
 - [digx](https://www.dgx.io/) -Digix是基于以太坊和IPFS的资产加密平台.
-- [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) -Discussify提供了一个实时的，点对点的永久性讨论平台，任何人都可以加入和参与.
+- [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) -Discussify提供了一个实时，点对点的永久性讨论平台，任何人都可以加入和参与.
 - [DtinyUrl](http://t.bdaily.club) -基于IPFS的集中式URL缩短服务. [Source](https://github.com/facert/dtinyurl)
 - [dtube](https://d.tube) -使用ipfs作为后端存储，通过steem.it集成进行分布式视频共享.
 - [enzypt.io](https://enzypt.io/) -通过以太坊和IPFS买卖文件的网站. [Source](https://github.com/flex-dapps/enzypt)
@@ -101,9 +101,11 @@
 
 ## Articles
 
+- 2019-10-01: [InterPlanetary Chat Application using Libp2p](http://simpleaswater.com/libp2p/tutorials/nodejs/getting_started?ref=awesomeipfs) 
 - 2019-08-14: [Managing storage in a Java application with IPFS](https://kauri.io/article/3e8494f4f56f48c4bb77f1f925c6d926) 
 - 2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841) 
 - 2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po) 
+- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 - 2019-03-10: [The Case for a Decentralized Social Network](https://medium.com/npfoss/the-case-for-a-decentralized-social-network-2683b727abf5) 
 - [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 - 2019-01-30: [Ultimate Guide to Filecoin Breaking Down Filecoin Whitepaper & Economics](https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895) 

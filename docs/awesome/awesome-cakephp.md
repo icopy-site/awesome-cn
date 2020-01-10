@@ -81,7 +81,7 @@
 *用于调试的插件.*
 
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
-- [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
+- ：草莓： [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
 - [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) -一个插件，可帮助检测实时数据库和夹具中的不匹配情况，从而使基于夹具的测试更加可靠，部署更安全.
@@ -292,7 +292,7 @@
 *有关安全性的插件和信息，可防止漏洞并防御XSS等.
 
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) -简单的解决方案，使加密的数据类型可以存储在数据库中.
-- [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) -简单，通俗易懂且可扩展的验证码解决方案，默认情况下提供基于图像的数学验证码.
+- ：草莓： [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) -简单，通俗易懂且可扩展的验证码解决方案，默认情况下提供基于图像的数学验证码.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior)  -使用这种行为来加密您的实体数据.  使用CakePHP Security类在PHP级别完成加密.
 - [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) -使用HashId，Optimus，Tiny和/或自定义混淆策略进行主密钥混淆.
 - ：草莓： [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) -限速（API）请求的插件.
@@ -313,7 +313,7 @@
 
 - [App template](https://github.com/cakephp/app) -与作曲家一起使用的空CakePHP项目.
 - [App template with material ui](https://github.com/coolops/web-app) -与作曲家一起使用的CakePHP材料ui管理模板项目.
-- [Crud plugin](https://github.com/FriendsOfCake/crud) -CakePHP在类固醇上的应用程序开发-快速原型/脚手架和生产就绪代码.
+- ：草莓： [Crud plugin](https://github.com/FriendsOfCake/crud) -CakePHP在类固醇上的应用程序开发-快速原型/脚手架和生产就绪代码.
 - [Plugin Skeleton](https://github.com/Xety/Cake3-PluginSkeleton) -创建Cake3插件的框架示例.
 
 ## Social

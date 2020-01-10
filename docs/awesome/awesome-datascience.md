@@ -167,11 +167,11 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) -万物数据科学
 - [Prash Chan](http://www.mdmgeek.com/) -关于主数据管理及其周围所有嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) -开源数据科学大师
-- [Paul Miller](http://cloudofdata.com/) Cloud of Data的咨询服务总部位于英国，业务遍及全球，可帮助客户了解将数据及更多内容带到Cloud的含义.
+- [Paul Miller](http://cloudofdata.com/) Cloud of Data的咨询服务总部位于英国，在全球范围内工作，可帮助客户了解将数据及更多内容带到Cloud的含义.
 - [Data Science London](http://datasciencelondon.org/) 伦敦数据科学公司是一个非营利性组织，致力于数据科学的免费，开放，传播.
 我们是欧洲最大的数据科学社区.
 我们社区中有3190多名数据科学家和数据极客.
-- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）  机器学习，数据挖掘及更多
+- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）.  机器学习，数据挖掘及更多
 - [John Myles White](http://www.johnmyleswhite.com/) 个人博客
 - [Quora Data Science](https://www.quora.com/Data-Science) -来自专家的数据科学问答
 - [Siah](https://openresearch.wordpress.com/) 伯克利大学博士生
@@ -190,7 +190,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [KD Nuggets](http://www.kdnuggets.com/) 数据挖掘，分析，大数据，数据，科学而不是博客门户
 - [Meta Brown](http://www.metabrown.com/blog/) -个人博客
 - [Data Scientist](http://www.datascientists.net/) 正在建立数据科学家文化.
-- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多内容，此博客探讨了它对信息技术，商业界，政府机构和我们生活的影响.
+- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业界，政府机构和我们生活的影响.
 - [Mic Farris](http://www.micfarris.com/) 专注于科学，数据科学，业务，技术，并引导内在怪癖！
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - 伟大的通知
 - [New Data Scientist](http://newdatascientist.blogspot.com/) 社会科学家如何跳入大数据世界
@@ -410,12 +410,12 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均由基于革命性知识的Wolfram语言提供支持.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
- * [Variance](http://variancecharts.com/) 无需编写JavaScript，即可为Web构建强大的数据可视化
- * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) Kite软件开发工具包（Apache许可证，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.
+ * [Variance](http://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
+ * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) Kite软件开发套件（Apache许可证，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.
  * [Domino Data Labs](http://www.dominodatalab.com) 运行，扩展，共享和部署模型-无需任何基础架构或设置.
  * [Apache Flink](http://flink.apache.org/) 一个高效，分布式，通用数据处理的平台.
  * [Apache Hama](http://hama.apache.org/) Apache Hama是一个Apache顶级开源项目，可让您进行MapReduce之外的高级分析.
@@ -427,7 +427,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Torch](http://torch.ch/) LuaJit的科学计算框架
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
  * [Skale](https://github.com/skale-me/skale-engine) -NodeJS中的高性能分布式数据处理
- * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
+ * [Aerosolve](http://airbnb.io/aerosolve/) -为人类打造的机器学习包.
  * [Intel framework](https://github.com/01org/idlf) -英特尔®深度学习框架
  * [Datawrapper](https://www.datawrapper.de/)  –一个开源数据可视化平台，可帮助每个人创建简单，正确和可嵌入的图表.  同样在 [github.com](https://github.com/datawrapper/datawrapper)
  * [Tensor Flow](https://www.tensorflow.org/) -TensorFlow是机器智能的开源软件库
@@ -445,6 +445,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Feast](https://github.com/gojek/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -用于可重现和可扩展的机器学习和深度学习的平台.
 * [LightTag](https://lighttag.io) -团队文字注释工具
+* [Trains](https://github.com/allegroai/trains) -适用于AI的自动魔术实验管理器，版本控制和DevOps
 
 ## Visualization Tools - Environments
  

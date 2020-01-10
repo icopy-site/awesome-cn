@@ -17,7 +17,7 @@
 - [Blipshift](https://github.com/GaidamakUA/blipshift) -简单的自上而下的移动平台游戏（Godot 3.1）.
 - [BlockPop](https://github.com/vnen/blockpop) -一个简单的Breakout克隆（Godot 2.1）.
 - [Bombs](https://github.com/randyyaj/Bombs)  -简单的手机游戏.  您需要触摸炸弹来化解它们（Godot 2.1）.
-- [Breakable](https://github.com/didier-v/breakable) -突破性游戏（Godot 3.0）.
+- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game (Godot 3.0).
 - [Drone Commander](https://github.com/securas/Drone_Commander)  -指挥无数无人机对付外星人.  专为CGA JAM（Godot 2.1）设计.
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)  -详细世界中的探索性平台游戏.  面向年轻玩家（Godot 2.1）.
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) -为A Game By It&#39;s Cover 2015 Game Jam（Godot 2.1）制作的平台游戏.
@@ -33,6 +33,7 @@
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) -外星环境中的2D物理跑酷游戏（Godot 2.1）.
 - [Platshoot](https://github.com/Calinou/platshoot) -2D射击游戏（Godot 2.1）.
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) -自上而下的射击游戏，广泛使用光效（Godot 2.1）.
+- [SealedBite](https://github.com/securas/SealedBite) -2D平台游戏，是GitHub Game Off 2019 jam（Godot 3.1）的赢家.
 - [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) -快节奏的本地派对游戏，带有在自上而下的竞技场中战斗的飞船（Godot 3.1）.
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) -免费的回合制等距策略游戏（Godot 2.1）.
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) -为2016年3月的Godot Engine Jam（Godot 2.1）制造的老鼠突围游戏.
@@ -52,6 +53,12 @@
 
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) -2D像素艺术编辑器（Godot 3.1）.
 - [Material Maker](https://github.com/RodZill4/godot-procedural-textures) -按照程序创建PBR材料（类似于Substance Designer）（Godot 3.1）.
+
+## Templates
+
+*用作您自己游戏基础的项目.*
+
+- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate)  -包含所有必要材料的模板.  专为像素艺术游戏（Godot 3.1）设计.
 
 ## Demos
 
@@ -75,7 +82,7 @@
 ### Text tutorials
 
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) （Godot 2.1、3.0、3.1）
-- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction (Godot 3.1).
+- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) -分步介绍（Godot 3.1）.
 - [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials)  -用于创建客户端-服务器多人游戏的教程.  包括用于在Google Compute Platform（Godot 3.1）上托管服务器的教程.
 - [Godot Recipes](http://kidscancode.org/godot_recipes/)  -从入门到高级的文本教程集合.  （Godot 3.x）
 
@@ -123,6 +130,7 @@
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
 - [gdstats](https://github.com/droxpopuli/gdstats) -用于常见统计分布的伪随机数生成器库（Godot 3.0）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
+- [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) -与GitHub交互，而无需打开浏览器（Godot 3.1）.
 - [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd（Godot 3.1）在Godot中进行快速3D碰撞检查.
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -Phoenix框架（Godot 3.1）的Channels API的GDScript和Godot引擎实现.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) -一组基本节点扩展（Godot 3.1）.

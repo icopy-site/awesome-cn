@@ -117,7 +117,7 @@
 * Deezer https://deezer.io/
 * DeferPanic https://deferpanic.com/blog/
 * Deliveroo https://deliveroo.engineering/
-* DigitalOcean https://www.digitalocean.com/community/tutorials
+* DigitalOcean https://blog.digitalocean.com/tag/engineering/
 *不和谐https://blog.discordapp.com/
 * Docker https://blog.docker.com/
 * Docker工程https://engineering.docker.com/
@@ -461,7 +461,7 @@
 #### A individuals
 *亚伦·帕特森（Aaron Patterson）http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
-* Abu Ashraf Masnun http://masnun.com/
+*阿布·阿什拉夫·马斯嫩（Abu Ashraf Masnun）http://masnun.com/
 *亚当·巴德https://adambard.com/blog/
 *亚当·莱文塔尔http://dtrace.org/blogs/ahl/
 *亚当·普莱默（Adam Tuliper）http://www.adamtuliper.com/
@@ -821,4 +821,4 @@
 
 ## License
 
-根据“ <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享4.0”国际许可许可</a> .
+一个协议授权<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享4.0国际许可</a> .

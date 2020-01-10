@@ -21,7 +21,7 @@
 - [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) -为表单元素添加更好的默认样式.
 - [benface's transitions](https://github.com/benface/tailwindcss-transitions) -添加带有或不带有CSS变量的可配置过渡实用程序.
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) -通过CSS变量和`prefers-color-scheme`添加了强大的主题功能.
-- [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) - Adds `text-indent` utilities.
+- [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) -添加`text-indent`实用程序.
 - [Transforms](https://github.com/benface/tailwindcss-transforms) -添加`transform`实用程序.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) -添加了“图像渲染”实用程序.
 - [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) -扩展`cursor`工具.
@@ -92,7 +92,7 @@
 
 - [Tailwind CSS website](https://tailwindcss.com) -Tailwind CSS官方网站.
 - [Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss) -官方Tailwind CSS存储库.
-- [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
+- [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
 - [Discussion Repository](https://github.com/tailwindcss/discuss) -官方的Tailwind CSS存储库，用于讨论.
 - [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 - [Built With Tailwind](https://builtwithtailwind.com/) -使用Tailwind CSS构建的社区驱动的很棒的网站.
@@ -209,6 +209,7 @@
 -  [Let’s Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) -用Tailwind CSS拍摄的运球.
 -  [Let’s Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) -使用Tailwind CSS构建Tweet组件.
 -  [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) -使用Tailwind CSS创建模式对话框.
+-  [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) -使用Tailwind CSS构建Shopify，Spotify，Netlify和Atlassian UI的示例. 
 -  [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) -使用Tailwind CSS重建FreshBooks.
 -  [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) -使用Tailwind CSS创建登录页面.
 -  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.

@@ -53,10 +53,10 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Play With Moby](http://play-with-moby.com/) ：PWM是基于Web的Moby游乐场，可让您在几秒钟内尝试使用平台的不同组件.  它为您提供了在云中拥有免费的Alpine Linux虚拟机的体验，您可以在其中构建和运行Moby项目，甚至创建集群进行实验.
 - [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)  容器技术的前景不仅限于码头工人.  如果没有很好的术语处理，可能很难把握docker和（选择您的最爱，CRI-O，rkt，lxc / lxd）之间的关键区别，或者难以理解开放容器计划正在采取哪些措施来标准化容器技术.
 
-**备忘单**，作者：
+**Cheatsheets** by
 
 - [@eon01](https://github.com/eon01/DockerCheatSheet)
-- [@dimonomid](https://github.com/dimonomid/docker-quick-ref) （PDF）
+- [@dimonomid](https://github.com/dimonomid/docker-quick-ref) (PDF)
 - [@JensPiegsa](https://github.com/JensPiegsa/docker-cheat-sheet)
 - [@wsargent](https://github.com/wsargent/docker-cheat-sheet) （最受欢迎）
 
@@ -147,7 +147,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Logspout](https://github.com/gliderlabs/logspout) -[@gliderlabs] [gliderlabs]进行Docker容器日志的日志路由
 - [monit-docker](https://github.com/decryptus/monit-docker)  -监视Docker容器资源使用情况或状态并执行Docker命令或在容器内部.  [@decryptus] [decryptus]
 - [NexClipper](https://github.com/NexClipper/NexClipper) - NexClipper is the container monitoring and performance management solution specialized in Docker, Apache Mesos, Marathon, DC/OS, Mesosphere, Kubernetes by [@Nexclipper](https://github.com/NexClipper)
-- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting) - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. Set up in 5 Minutes. Secure mode for production use with built-in [Automated Nginx Reverse Proxy (jwilder's)][nginxproxy].
+- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  -使用cAdvisor，Prometheus，Grafana进行监视，Elasticsearch，Kibana和Logstash进行日志记录以及使用elastalert和Alertmanager进行警报，开箱即用地进行Docker主机和容器监视，日志记录和警报.  设置5分钟.  内置的[自动Nginx反向代理（jwilder）] [nginxproxy]用于生产的安全模式.
 - [SwarmAlert](https://github.com/gpulido/SwarmAlert) -监视Docker Swarm并在发现没有运行正常服务任务的容器时发送Pushover警报.
 - [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)  -Zabbix模块，提供发现运行中的容器，CPU /内存/ blk IO /网络容器指标的信息.  还支持系统化Docker和LXC执行驱动程序.  它是一个动态链接的共享对象库，因此其性能比任何脚本解决方案都要好（〜10倍）.
 - [Zabbix Docker](https://github.com/gomex/docker-zabbix) -使用zabbix LLD功能自动监视容器.
@@ -167,7 +167,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [blimp](https://github.com/tubes和lube/blimp) ：skull：-使用Docker Machine轻松地将容器从一台Docker主机移至另一台Docker主机，显示针对所有主机运行的容器，在多个主机之间复制容器等 [@defermat](https://github.com/defermat) 和 [@schvin](https://github.com/schvin)
 - [CloudSlang](https://github.com/CloudSlang/cloud-slang) -CloudSlang是用于创建Docker流程自动化的工作流引擎
 - [clusterdock](https://github.com/clusterdock/clusterdock) -Docker容器编排，以测试长期运行的集群部署
-- [ContainerShip](https://github.com/containership/containership) ：skull：-一个简单的容器管理平台
+- [ContainerShip](https://github.com/containership/containership) :skull: - A simple container management platform
 - [Crane](https://github.com/Dataman-Cloud/crane) -基于docker内置群的控制平面 [@Dataman-Cloud](https://github.com/Dataman-Cloud)
 - [Docker Flow Swarm Listener](https://github.com/docker-flow/docker-flow-swarm-listener)  -Docker Flow Swarm Listener项目将侦听Docker Swarm事件并在发生更改时发送请求.  通过[@ docker-flow] [docker-flow]
 - [gantryd](https://github.com/DevTable/gantryd) ：skull：-一个框架，通过它可以轻松管理跨机器的基于docker的组件 [@DevTable](https://github.com/DevTable)
@@ -180,7 +180,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Marathon](https://github.com/mesosphere/marathon)  -马拉松是建立在Mesos之上的私人PaaS.  它会自动处理硬件或软件故障，并确保应用程序“始终在线”
 - [Mesos](https://github.com/apache/mesos) -用于容器，VM和物理主机的资源/作业调度程序 [@apache](https://mesos.apache.org/)
 - [Nebula](https://github.com/nebula-orchestrator) -旨在管理大规模分布式集群的Docker编排工具.
-- [Nomad](https://github.com/hashicorp/nomad) - Easily deploy applications at any scale. A Distributed, Highly Available, Datacenter-Aware Scheduler by [@hashicorp](https://github.com/hashicorp)
+- [Nomad](https://github.com/hashicorp/nomad)  -轻松部署任何规模的应用程序.  分布式的，高度可用的，支持数据中心的调度程序，作者： [@hashicorp](https://github.com/hashicorp)
 - [Panamax](https://github.com/CenturyLinkLabs/panamax-ui) ：skull：-一个开源项目，使部署复杂的容器化应用程序像[@CenturyLinkLabs] [centurylinklabs]的拖放操作一样容易.
 - [Rancher](https://github.com/rancher/rancher) -一个开源项目，为[@rancher] [rancher]在生产中提供操作Docker的完整平台.
 - [Swarm-cronjob](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max/swarm-cronjob) -在Swarm上基于时间的时间表创建作业 [@https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max](https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max)
@@ -202,6 +202,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Reverse Proxy
 
+- [Docker Dnsmasq Updater](https://github.com/moonbuggy/docker-dnsmasq-updater) -使用Docker容器主机名更新远程dnsmasq服务器.
 - [docker-flow-proxy](https://github.com/docker-flow/docker-flow-proxy)  -每次部署新服务或扩展服务时重新配置代理.  通过[@ docker-flow] [docker-flow]
 - [docker-proxy](https://github.com/silarsis/docker-proxy)  ：skull：-Docker容器的透明代理，在Docker容器中运行.  通过 [@silarsis](https://github.com/silarsis)
 - [fabio](https://github.com/fabiolb/fabio)  -快速，现代的零配置负载平衡HTTP（S）路由器，用于部署由领事管理的微服务.  通过 [@magiconair](https://github.com/magiconair) （弗兰克·施罗德）
@@ -269,10 +270,10 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [ctop (1)](https://github.com/yadutaf/ctop) -基于命令行/文本的Linux容器监视工具，其运行方式与您期望的（Python）一样， [@yadutaf](https://github.com/yadutaf)
 - [ctop (2)](https://github.com/bcicen/ctop) -容器指标（Golang）的类似于顶部的界面 [@bcicen](https://github.com/bcicen/)
 - [dext-docker-registry-plugin](https://github.com/vutran/dext-docker-registry-plugin) -使用Dext智能启动器搜索Docker注册表.
-- [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image. By [wagoodman](https://github.com/wagoodman).
+- [dive](https://github.com/wagoodman/dive)  -用于探索docker映像中每个图层的工具.  通过 [wagoodman](https://github.com/wagoodman).
 - [docker-ls](https://github.com/mayflower/docker-ls) -CLI工具，用于通过以下方式浏览和操作Docker注册表 [@mayflower](https://github.com/mayflower)
 - [docker-ssh](https://github.com/jeroenpeeters/docker-ssh)  -用于Docker容器的SSH服务器〜因为每个容器都应可访问.  通过 [@jeroenpeeters](https://github.com/jeroenpeeters)
-- [Docker-mon](https://github.com/icecrime/docker-mon) ：skull：-通过基于控制台的Docker监视 [@icecrime](https://github.com/icecrime)
+- [Docker-mon](https://github.com/icecrime/docker-mon) :skull: - Console-based Docker monitoring by [@icecrime](https://github.com/icecrime)
 - [docker.el](https://github.com/Silex/docker.el) 通过以下方式从Emacs管理docker [Silex](https://github.com/Silex)
 - [dockercraft](https://github.com/docker/dockercraft) -[@docker] [docker]的Docker + Minecraft = Dockercraft
 - [dockerfile-mode](https://github.com/spotify/dockerfile-mode) [@spotify] [spotify]用于处理Dockerfile的emacs模式
@@ -324,7 +325,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [amicontained](https://github.com/genuinetools/amicontained)  -容器自省工具.  找出正在使用的容器运行时以及[@genuinetools] [genuinetools]提供的功能
 - [autodock](https://github.com/prologic/autodock) -Docker自动化守护进程，作者： [@prologic](https://github.com/prologic)
 - [Chaperone](https://github.com/garywiz/chaperone)  -为Docker容器设计的单个PID1进程.  将用户管理，日志管理，启动，僵尸收获全部打包在一个小程序包中.  通过 [@garywiz](https://github.com/garywiz)
--[CoreOS] [coreos]-适用于大规模服务器部署的Linux
+- [CoreOS][coreos] - Linux for Massive Server Deployments
 - [distroless](https://github.com/GoogleContainerTools/distroless) -通过[@GoogleContainerTools] [googlecontainertools]删除操作系统的以语言为中心的docker映像
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) -[@gliderlabs] [gliderlabs]使用Alpine Linux的超小型Docker基本映像_（5MB）_
 - [docker-gen](https://github.com/jwilder/docker-gen) -通过[@jwilder] [jwilder]从docker容器元数据生成文件
@@ -418,7 +419,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Hub](https://hub.docker.com/) 由Docker Inc.提供
 -[Docker Registry v2] [分发]-用于打包，运送，存储和交付内容的Docker工具集
 - [Docket](https://github.com/netvarun/docket) -自定义Docker注册表，允许通过以下方式通过bittorrent快速部署 [@netvarun](https://github.com/netvarun/)
-- [Europa :heavy_dollar_sign:](https://github.com/puppetlabs/europa) - Private docker registry with support for image pipelines and webhooks. By [@puppetlabs](https://github.com/puppetlabs)
+- [Europa :heavy_dollar_sign:](https://github.com/puppetlabs/europa)  -私有Docker注册表，支持图像管道和webhooks.  通过 [@puppetlabs](https://github.com/puppetlabs)
 - [GCE Container Registry :heavy_dollar_sign:](https://cloud.google.com/container-registry/) Google Cloud Platform上的快速私有Docker映像存储
 - [GitLab Container Registry](https://docs.gitlab.com/ce/user/project/container_registry.html) -致力于在GitLab CI中使用图像的存储库
 - [Harbor](https://github.com/goharbor/harbor)  一个开放源代码可信云本机注册表项目，用于存储，签名和扫描内容.  支持复制，用户管理，访问控制和活动审核.  通过 [CNCF](https://github.com/veggiemonk/awesome-docker/blob/master/Sandbox) 以前 [VMWare](https://github.com/vmware)

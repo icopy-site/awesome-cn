@@ -44,12 +44,12 @@
 * [Piet](http://www.dangermouse.net/esoteric/piet.html)  -使用颜色作为代码的程序看起来像抽象绘画的语言.  以Piet Mondrian的名字命名.
 * [Shakespeare](http://shakespearelang.sourceforge.net) -代码似乎是莎士比亚戏剧的语言.
 * [Suzy](https://github.com/gvx/suzy) -受Befunge启发的3D语言.
-* [Thue](https://github.com/jcolag/Thue) -基于半确定语法的不确定字符串重写的* Matrioshka *语言.
+* [Thue](https://github.com/jcolag/Thue) -* Matrioshka *语言，基于半确定语法的不确定性字符串重写.
 * [Unary](https://esolangs.org/wiki/Unary) -基于Brainfuck的语言，其中所有命令均为0.
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.
 * [Velato](http://velato.net) -使用MIDI文件作为源的语言，程序由音高和音高顺序定义.
 * [Vigil](https://github.com/munificent/vigil) -只有Vigil真正警惕不允许未通过编程规范的代码.
-* [wenyan‑lang](http://wenyan-lang.lingdong.works) -紧跟中国古典文学的语法和语气.
+* [Wenyan](http://wenyan-lang.lingdong.works) -紧跟中国古典文学的语法和语气.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) -随时随地执行操作的语言.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) -仅使用白色字符（空格，制表符和换行符）.
 * [WordLang](https://github.com/WilliamRagstad/WordLang) -一种基于类似含义的语法的语言，可产生输出.

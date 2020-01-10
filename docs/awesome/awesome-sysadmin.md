@@ -164,14 +164,14 @@
 
 *持续集成/部署软件.
 
-- [Buildbot](http://buildbot.net/)  -基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)）`GPL-2.0`` Python`
-- [CapsuleCD](https://analogj.github.io/capsulecd-slides/)  -CD脚本，用于自动执行软件包/库的发布（npm，菜谱，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）`MIT``Go`
+- [Buildbot](http://buildbot.net/)  -基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
+- [CapsuleCD](https://analogj.github.io/capsulecd-slides/)  -CD脚本，用于自动执行软件包/库的发布（npm，菜谱，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）`MIT`` Go`
 - [Concourse](https://concourse.ci/)  -Concourse是一种CI工具，可将管道视为一流的对象，并对沿途的每个步骤进行容器化.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）`Apache-2.0``Go`
 - [drone](https://drone.io/)  -Drone是一个用Go语言编写的基于Docker的持续交付平台.  （[Source Code](https://github.com/drone/drone)）`Apache-2.0``Go`
 - [Factor](http://www.factor.io/)  -以编程方式定义和运行工作流，以连接配置管理，源代码管理，构建，持续集成，持续部署和通信工具.  （[Source Code](https://github.com/factor-io/factor)）``MIT&#39;&#39;Ruby`
 - [GitLab CI](https://about.gitlab.com/gitlab-ci/)  -Gitlab的内置功能齐全的CI / CD解决方案.  （[Source Code](https://gitlab.com/gitlab-org/gitlab-ce) MIT Ruby红宝石
 - [GoCD](http://www.go.cd/)  -连续交付服务器.  （[Source Code](https://github.com/gocd/gocd)）Apache-2.0 Java / Ruby
-- [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code](https://github.com/golangci/golangci)）`AGPL-3.0``Go`
+- [GolangCI](https://golangci.com/)  -用于Go的开源自动代码审查服务，与GitHub拉取请求集成.  （[Source Code](https://github.com/golangci/golangci)）`AGPL-3.0``Go`
 - [Jenkins](https://jenkins-ci.org/)  -持续集成服务器.  （[Source Code](https://github.com/jenkinsci/jenkins/)）MIT Java
 - [Laminar](http://laminar.ohwg.net)  -快速，轻巧，简单和灵活的持续集成.  （[Source Code](https://github.com/ohwgiles/laminar)）`GPL-3.0`` C ++`
 - [PHP Censor](https://github.com/php-censor/php-censor)  -用于PHP项目的开源自托管持续集成服务器.  `BSD-2-Clause``PHP`
@@ -354,7 +354,7 @@
 * [Alerta](https://github.com/guardian/alerta) -分布式，可伸缩和灵活的监视系统.
 * [Bloonix](https://bloonix.org)  -Bloonix是一种监视解决方案，可帮助企业确保高可用性和性能.  GPLv3 Perl
 * [bolo](http://bolo.niftylogic.com/) -一个自己动手的监控框架，旨在收集指标，挖掘数据并报告网络中的系统.
-* [Bosun](http://bosun.org/) -通过Stack Exchange监视和警报系统（[Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)）`MIT``Go`
+* [Bosun](http://bosun.org/) -通过Stack Exchange监视和警报系统（[Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)）`MIT`` Go`
 * [Cacti](http://www.cacti.net) -基于Web的网络监视和绘图工具.
 * [Cabot](http://cabotapp.com/) -监视和警报，类似于PagerDuty.
 * [cadvisor](https://github.com/google/cadvisor) -分析正在运行的容器的资源使用情况和性能特征（[Source Code](https://github.com/google/cadvisor)）`Apache``Go`
@@ -413,7 +413,7 @@
   * [RRDtool](http://oss.oetiker.ch/rrdtool/) -用于时间序列数据的行业标准高性能数据记录和图形系统.
   * [Dashing](http://dashing.io/)  -允许快速统计仪表板开发的Ruby gem.  全HTML5方法允许在数据中心或会议室中大屏幕显示.
   * [Facette](http://facette.io) -用Go语言编写的时间序列数据可视化和绘图软件.
-  * [Freeboard](https://github.com/Freeboard/freeboard)  -物联网的该死的性感前端实时仪表板.  将原始JSON转换为美味的UI.
+  * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
 
 *储存
   * [OpenTSDB](http://opentsdb.net/) -在不丢失粒度的情况下存储和服务器大量的时间序列数据.
@@ -429,7 +429,6 @@
 
 *网络配置管理工具.*
 
-* [GestióIP](http://www.gestioip.net/) -基于Web的自动IPv4 / IPv6 IP地址管理工具.
 * [GNS3](https://www.gns3.com/) -提供各种虚拟设备的图形网络模拟器-（[Source Code](https://github.com/GNS3/gns3-gui/), [Documentation](https://docs.gns3.com/)）-`GPLv3`
 * [Oxidized](https://github.com/ytti/oxidized) -通过Web界面和GIT存储对网络设备配置进行监视的现代方法.
 * [phpIPAM](http://phpipam.net/) -具有以下功能的开源IP地址管理 [PowerDNS](https://www.powerdns.com/) 积分.
@@ -528,7 +527,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
   * [Docker Swarm](https://docs.docker.com/engine/swarm/) -管理Docker引擎集群.
   * [Portainer](https://portainer.io/) -Docker的简单管理UI.
 * [LXC](https://linuxcontainers.org/lxc/) -Linux内核包含功能的用户空间接口.
-  * [LXD](https://linuxcontainers.org/lxd/) – a container "hypervisor" and a better UX for LXC.
+  * [LXD](https://linuxcontainers.org/lxd/) –容器“管理程序”和用于LXC的更好的UX.
 * [OpenVZ](http://openvz.org) -用于Linux的基于容器的虚拟化.
 
 ## Status Pages

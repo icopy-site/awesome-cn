@@ -402,6 +402,16 @@ https://twitter.com/sambego
 主题：React，Redux，Ruby，测试，GraphQL \
 https://twitter.com/rstankov
 
+## Czech Republic 🇨🇿
+
+### Prague
+
+<img src="https://twitter.com/kettanaito/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+** Artem Zakharchenko ** \
+主题：React，表单，CSS Grid \
+https://twitter.com/kettanaito
+
 ## Denmark 🇩🇰
 
 ### Copenhagen
@@ -1280,14 +1290,6 @@ https://twitter.com/mourner
 ** Yuri Artyukh ** \
 主题：HTML，CSS，JavaScript，WebGL \
 https://twitter.com/akella
-
-### Poltava
-
-<img src="https://twitter.com/kettanaito/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-** Artem Zakharchenko ** \
-主题：React，表单，CSS Grid \
-https://twitter.com/kettanaito
 
 ### Vinnytsia
 
