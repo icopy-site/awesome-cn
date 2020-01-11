@@ -103,6 +103,7 @@
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
 - [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action)
 - [Manually trigger your GitHub Actions from a UI](https://www.actionspanel.app)
+- [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action)
 
 ### Collection of Actions
 
@@ -226,6 +227,7 @@
 - [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
 - [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter) 
 - [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action)
+- [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
 
 ### Security
 
@@ -350,6 +352,7 @@
 - [Build and publish Electron apps](https://github.com/samuelmeuli/action-electron-builder)
 - [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
 - [Build and deploy a theme to Ghost CMS](https://github.com/TryGhost/action-deploy-theme)
+- [Deploy an Ansible role to Ansible Galaxy](https://github.com/robertdebock/galaxy-action)
 
 ### External Services
 

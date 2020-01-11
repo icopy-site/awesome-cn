@@ -32,7 +32,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [markov](https://github.com/mccallofthewild/markov) -建立马尔可夫链并运行马尔可夫过程
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) -实现多集
  * [oak](https://github.com/obsidian/oak) -灵活的Radix Tree实现
- * [radix](https://github.com/luislavena/radix) -基数树实施
+ * [radix](https://github.com/luislavena/radix) -基数树实现
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) -三元搜索树
 
 ## Api Builders
@@ -125,7 +125,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) -将文件开头的内容与其内容分开
  * [geoip2.cr](https://github.com/delef/geoip2.cr) -GeoIP2阅读器
  * [HAR](https://github.com/NeuraLegion/har) -HAR（HTTP存档）解析器
- * [INI](https://crystal-lang.org/api/INI.html) -此文件解析器（Crystal stdlib）
+ * [INI](https://crystal-lang.org/api/INI.html) -此解析器文件（Crystal stdlib）
  * [JSON](https://crystal-lang.org/api/JSON.html) -解析和生成JSON文档（Crystal stdlib）
  * [JSON tools](https://github.com/impatienttraveller/json-tools) -JSON补丁和指针RFC的实现
  * [JSON::OnSteroids](https://github.com/anykeyh/json_on_steroids) -轻松处理和变异JSON文档
@@ -473,7 +473,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Crystal Mastery](https://crystalmastery.io/) -用于学习Crystal的截屏视频
  * [crystal-lang.org](https://crystal-lang.org) -官方语言网站
  * [devdocs.io](https://devdocs.io/crystal/) -具有Crystal支持的API文档浏览器
- * [getgood.at](https://getgood.at/crystal/in-a-day) -一天学习水晶
+ * [getgood.at](https://getgood.at/in-a-day/crystal) -一天学习水晶
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) -PragProg书籍，开始您的水晶之旅
 
 ## Official Documentation Translations

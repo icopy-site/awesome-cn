@@ -62,7 +62,7 @@
 可以设置为提供用于传输和多模式数据的API的软件.
 
 - [OneBusAway](http://onebusaway.org/) -使用GTFS和GTFS-Realtime（以及 [other formats](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)），并将它们变成易于使用 [REST API](http://developer.onebusaway.org/modules/onebusaway-application-modules/current/api/where/index.html).
-- [OpenTripPlanner](http://www.opentripplanner.org/) -一个用于多模式和多机构旅行计划的开源平台，以及返回有关多模式图的信息（使用GTFS和 [OpenStreetMap](http://www.openstreetmap.org/)).
+- [OpenTripPlanner](http://www.opentripplanner.org/) -一个用于多模式和多机构旅程计划的开源平台，以及返回有关多模式图的信息（使用GTFS和 [OpenStreetMap](http://www.openstreetmap.org/)).
 - [TransitClock](http://thetransitclock.org)  -可以消耗原始车辆位置并以GTFS-realtime之类的格式生成预测时间的Java应用程序.  前身为“运输时间”.
 - [Linked Connections](http://linkedconnections.org/)  -开源的，可扩展的多式联运路线规划引擎，该引擎允许客户端执行路线规划算法（与服务器相对）.  使用GTFS数据.
 - [TransiCast](http://www.transicast.com/)  -以单一，集成的呼叫和响应格式提供北美的公共交通数据.  数据以流可解析的XML和JSON格式提供.  开源 [Google Code](https://code.google.com/archive/p/rasa/) .  托管版本在www.transitcast.com [requires payment](http://www.transicast.com/coststructure.html).
@@ -77,12 +77,12 @@
 - [Remix](http://getremix.com/) -一个网络应用程序，可让运输公司轻松规划路线.
 - [AC Transit RestroomFinder](https://github.com/actransitorg/ACTransit.RestroomFinder) -使用GPS和屏幕上的地图，为公交运营商和现场工作人员确定最近的授权洗手间.
 - [AC Transit Training and Education Department (TED) application](https://github.com/actransitorg/ACTransit.Training) -尽管该系统支持新课程和学徒计划，但该应用程序支持学区对运输和维护员工的培训操作，主要是在公共汽车操作员和重型教练机修工（学徒和旅程）方面.
-- [AC Transit Customer Relations application (CusRel)](https://github.com/actransitorg/ACTransit.CusRel) -用于客户问题和反馈的公交票务系统：部门间路由与通知，部门/人员分配，简单的工作流，票务搜索，预先罐装报告，每日提醒等.
+- [AC Transit Customer Relations application (CusRel)](https://github.com/actransitorg/ACTransit.CusRel) -用于客户问题和反馈的公共票务系统：部门间路由与通知，部门/人员分配，简单的工作流程，票务搜索，预先罐装报告，每日提醒等.
 - [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github](https://github.com/camsys/transam_core).
-- [RidePilot](https://github.com/camsys/ridepilot) -开源的计算机辅助调度和调度（CASD）软件系统，可满足小型人力运输机构的需求（有关更多信息，请参见 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
+- [RidePilot](https://github.com/camsys/ridepilot) -开源的计算机辅助调度和调度（CASD）软件系统，可满足小型人力运输机构的需求（有关更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 - [TNExT](https://github.com/ODOT-PTS/TNExT) -公交网络浏览器工具（TNExT）是基于网络的软件工具，旨在对俄勒冈州的区域和州范围的公交网络进行可视化，分析和报告.
 -路线趋势（[webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)）-一个R Shiny应用程序，用于提取乘车时间序列，并根据以下信息返回季节，趋势和残差分量 [STL methodology](https://otexts.com/fpp2/stl.html)  以及包括这些成分的不确定性在内的预测.  由...赞助 [Metro Transit](https://www.metrotransit.org/) （明尼阿波利斯-圣保罗）.
-- [TBEST](https://tbest.org/)  -TBEST（过境登机估算和模拟工具）致力于开发基于GIS的多方面建模，规划和分析工具，该工具将社会经济，土地使用和过境网络数据集成到一个基于情景的过境旅客平台中估计和分析.  由佛罗里达州交通运输部资助.  免费使用，但不开源.
+- [TBEST](https://tbest.org/)  -TBEST（过境登机估算和模拟工具）致力于开发基于GIS的多方面建模，规划和分析工具，该工具将社会经济，土地使用和过境网络数据集成到一个基于场景的过境乘客的平台中估计和分析.  由佛罗里达州交通运输部资助.  免费使用，但不开源.
 
 ### Hardware
 
@@ -111,7 +111,7 @@
 - [CityMapper Webapp](https://citymapper.com/nyc) -真正完善的webapp，带有旅行计划器和路线状态，适用于30多个城市.
 - [Google I/O Transport Tracker](https://github.com/googlemaps/transport-tracker) -根据开放源代码显示Google I / O会议的班车到达时间 [transport-tracker project](https://github.com/googlemaps/transport-tracker) .  注意：要自己实施此操作，您需要 [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
 - [YourStop](http://yourstop.info)  -移动友好的Web应用程序，使用GTFS提要并显示实时和计划的停靠行程.  与MBTA，YRT / Viva和马里兰MTA一起推出.
-- [1-Click](http://camsys.software/products/1-click)  -一个虚拟的“旅行聚合器”，可在各种可用模式下收集信息：公共交通，私人，铁路，乘车共享，拼车，志愿者，辅助公交以及步行和骑自行车.  开源 [on Github](https://github.com/camsys/oneclick).
+- [1-Click](http://camsys.software/products/1-click)  -一个虚拟的“旅行聚合器”，它以各种可用模式收集信息：公共交通，私人，铁路，乘车共享，拼车，志愿者，辅助公交以及步行和骑自行车.  开源 [on Github](https://github.com/camsys/oneclick).
 - [Bustime](https://www.bustime.ru) -通过WebSocket更新进行公共交通实时监控.
 - [DC MetroHero](https://dcmetrohero.com)  -华盛顿特区WMATA Metrorail和Metrobus系统的实时车辆位置以及到达和离开的信息.  提供WebApp，Android和iOS应用程序.
 
@@ -122,6 +122,7 @@
 - [OpenTripPlanner iOS](https://github.com/opentripplanner/OpenTripPlanner-iOS) -适用于的iOS应用 [OpenTripPlanner](http://www.opentripplanner.org/)
 - [Transportr](https://github.com/grote/Transportr) 使用以下内容的Android应用 [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) 为了连接到世界各地许多不同的运输网络.
 - [Offi Directions](https://gitlab.com/oeffi/oeffi) -一个Android应用程序，可为欧洲及其他地区的运输当局提供行程计划，时间表，实时出发时间和交通中断信息.
+- [Trufi App](https://github.com/trufi-association/trufi-app) 使用以下内容的跨平台Flutter应用 [OpenTripPlanner](http://www.opentripplanner.org/)
 
 #### Native Apps (closed source)
 
@@ -302,8 +303,8 @@
     - [gbfs R package](https://github.com/ds-civic-data/gbfs) -与R中的GBFS提要接口的功能，允许用户保存和累积指定城市/自行车共享程序的整齐.rds数据集.
 - [GTFS-ride](https://github.com/ODOT-PTS/GTFS-ride) -通过俄勒冈州交通运输部和俄勒冈州立大学之间的合作关系开发的开放式，固定路线的过境旅客数据标准.
 - [Managed and Tolled Lanes Feed Specification (MTLFS)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) -关于包含托管和收费车道收费提要规范（MTLFS）并定义由以下机构开发的所有这些文件中使用的字段的架构的提案 [Santa Clara Valley Transportation Authority](http://www.vta.org/).
-- [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) -由Puget Sound地区委员会，UrbanLabs LLC，LMZ LLC和旧金山县交通管理局开发的基于GTFS的*交通和容量数据*运输网络格式，适用于动态运输建模.
-- [Dyno-Demand](https://github.com/osplanning-data-standards/dyno-demand) -基于GTFS的旅行需求数据格式，重点针对由旧金山县交通管理局，LMZ LLC和UrbanLabs LLC开发的适用于动态网络建模的单个乘客*需求*.
+- [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) -由Puget Sound地区委员会，UrbanLabs LLC，LMZ LLC和旧金山县交通管理局开发的，适用于动态交通模型的基于GTFS的*交通工具和容量数据*格式.
+- [Dyno-Demand](https://github.com/osplanning-data-standards/dyno-demand) -基于GTFS的旅行需求数据格式，重点关注由旧金山县交通管理局，LMZ LLC和UrbanLabs LLC开发的适用于动态网络建模的单个乘客*需求*.
 - [Dyno-Path](https://github.com/osplanning-data-standards/dyno-path) -（正在开发中-请参见 [this post](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)）单个乘客*轨迹*的数据.
 - [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) -GTFS传输网络的扩展，其中包含包含UrbanLabs LLC和San Francisco County Transportation Authority开发的性能数据的其他文件.
 - [TIDES project](https://groups.google.com/forum/#!forum/tidesproject) -公交ITS数据交换规范（TIDES）是一项提议的工作，旨在为历史公交ITS数据（包括AVL，APC和AFC数据）创建标准数据结构，API和数据管理工具.
@@ -312,7 +313,7 @@
 - [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) -由 [International Parking Institute (IPI)](https://www.parking.org/)， [British Parking Association (BPA)](http://www.britishparking.co.uk/)和 [European Parking Association (EPA)](http://www.europeanparking.eu/) ，APDS是一家非营利性组织，其使命是开发，促进，管理和维护统一的全球标准，该标准将使组织可以在全球各个平台之间共享停车数据.  APDS版本1.0文档是 [here](https://www.allianceforparkingdatastandards.org/resources).
 - [Mobility as a Service API](http://maas-api.org/) -一组定义了MaaS兼容API的开放文档和测试套件（例如， [MaaS Transport Service Provider Booking API](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
 - [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120)  -这项研究的目的是为参与需求响应运输的实体制定交易数据的技术规范.  预计完成日期为2018年末.
-- [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) -这项研究的目的是制定标准和/或指南，以供运输界在收集，管理和共享静态和实时数据以进行运输规划和运营时使用和采用.
+- [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) -这项研究的目的是开发标准和/或指南，以供运输界在收集，管理和共享静态和实时数据以进行运输计划和运营时使用和采用.
 - [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) -用于共享旅行需求模型网络的计划数据规范.
 
 ### Resources

@@ -63,6 +63,7 @@
 
 ## Others
 
+* [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) -在最严格的企业标准下实施的简单FizzBu​​zz游戏.
 * [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) -基于随机动作和奖励/惩罚的操作系统概念.
 
 ## Resources

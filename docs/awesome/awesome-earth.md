@@ -8,9 +8,10 @@
 ## Carbon Reduction
 - [CarbonFootprint.com](https://www.carbonfootprint.com/) -测量您的碳足迹，了解如何减少消耗，抵消影响，交流和遵守.
 - [CarbonFund.org](https://carbonfund.org/) -根据航班，驾驶，运输来计算您的足迹，并进行可抵税的捐款以抵消您的排放.
+- [Carbon Footprint Extension](https://gitlab.com/aossie/CarbonFootprint) -自动估算Google Maps™，其他地图服务以及火车和航班搜索引擎上的二氧化碳排放量.
 - [Cloverly](https://cloverly.com/how-it-works) -通过电子商务插件（Shopify，Magento等）来抵消客户在线交易的碳足迹
 - [Cool Earth](https://www.coolearth.org/) -建立该慈善机构的目的是通过减少雨林流失造成的碳排放来应对气候变化.
-- [Ecosia](https://www.ecosia.org) - The search engine that plants trees. >50% of the ad revenue goes directly to planting trees.
+- [Ecosia](https://www.ecosia.org)  -种植树木的搜索引擎.  广告收入的50％以上直接用于植树.
 - [Flight Free (Canada)](https://flightfree.ca)  -在我们迫切需要减少温室气体排放的同时，航空业是造成温室气体排放增长最快的因素.  承诺在2020年免费飞行.
 - [Flight Free (UK)](https://flightfree.co.uk/)  -在我们迫切需要减少温室气体排放的同时，航空业是造成温室气体排放增长最快的因素.  承诺在2020年免费飞行.
 - [Flight Free (USA)](https://flightfreeusa.org/) -一项基层运动，要求人们同意在2020年不要飞行-前提是其他100,000人也将承诺这样做.
@@ -27,15 +28,15 @@
 - [atmosfair](https://www.atmosfair.de/)  -计算飞行足迹并购买补偿或捐赠以抵消任何数量的碳排放量.  德国可抵税.
 ## Cooking
 - [Ecocina Rocket Stoves](http://www.stoveteam.org/)  -柴火炉灶，比传统火炉使用的燃料少约40-50％，并排放约1/3的二氧化碳.  学习如何建立一个！  前往以下网址查看他们的研究中心 [Aprovecho](http://aprovecho.org/).
-- [Go Sun](https://www.gosun.co/) -一种创新的便携式超高效太阳能炊具，可用于背包，划船，汽车露营等.
+- [Go Sun](https://www.gosun.co/) - An innovative portable ultra-efficient solar cooker that can be used for backpacking, boating, car camping, etc.
 - [Insulated Cooking](https://www.milkwood.net/2015/07/06/thermal-cooking/)  -探索一种绝佳的方法，不仅可以减少食物准备中的能量，而且可以同时提供美味和营养丰富的饭菜.  任何需要煮沸，炖煮，蒸煮或烘烤的食谱通常会更好吃- [hot from the haybox](https://www.motherearthnews.com/diy/haybox-cooking-zmaz80jfzraw)  —与常规炉灶准备相比……，您将同时节省热能.  你可以拿起一锅大小 [thermal cooker](http://www.cookingworld.biz/thermal-cooker-guide/)，或者干脆把毯子放在凉爽的地方.
 - [Preserve extra food with a solar dehydrator](https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar)  -太阳能食品脱水机是一种去除食品中水分的装置，有助于其保存.  您可以 [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description)  或自己做.  食品干燥是自古以来就实践的一种保存水果，蔬菜和动物蛋白的方法.
 - [Sun Oven](https://www.sunoven.com) -可以像普通烤箱一样烹饪食物的隔热太阳能烤箱.
 ## Documentaries
 - [Before the Flood](https://www.imdb.com/title/tt5929776/) -了解气候变化如何影响我们的环境，以及社会可以采取哪些措施来防止地球上濒临灭绝的物种，生态系统和本地社区的灭绝.
 - [Chasing Coral](https://www.imdb.com/title/tt6333054/)  -世界各地的珊瑚礁正在以前所未有的速度消失.  一个由潜水员，摄影师和科学家组成的团队出发，进行一场激动人心的海洋探险，以找出原因并向世界揭示水下的奥秘.
-- [Garbage Warrior](http://www.garbagewarrior.com/)  -想像一个自己加热的房子，自己提供水，帽子自己种食物.  想象一下，它不需要昂贵的技术，可以回收自己的废物，有自己的电源.  现在想象一下，它可以被社会抛弃的任何人任何地方建造.  三十年前，建筑师迈克尔·雷诺兹（Michael Reynolds）想到了这样的房屋-然后着手建造.  雷诺兹（Reynolds）是经典美国模式中的一名有远见的人，从那时起就一直在奋斗以将他的概念发布给公众.  他认为，在生态不稳定和自然灾害迫在眉睫的时代，他的建筑可以而且将会改变我们的生活方式.  这部长篇纪录片影片《垃圾勇士》（Garbage Warrior）在美国，印度和墨西哥拍摄了三年，讲述了特立独行的建筑师迈克尔·雷诺兹（Michael Reynolds），他来自新墨西哥的叛徒房屋建造商的队伍以及他们为引入截然不同的方式而奋斗的史诗故事.活的.
-- [GasLand Part II](https://www.imdb.com/title/tt2795078/) -天然气工业将天然气描述为一种清洁，安全的石油替代品是一个神话，而随着时间的推移，压裂的油井不可避免地会泄漏，污染水和空气，伤害家庭，并以强大的温室气体甲烷危害地球的气候.
+- [Garbage Warrior](http://www.garbagewarrior.com/)  -想像一个自己加热的房子，自己提供水，帽子自己种食物.  想象一下，它不需要昂贵的技术，可以回收自己的废物，有自己的电源.  现在想象一下，它可以被社会抛弃的任何人任何地方建造.  三十年前，建筑师迈克尔·雷诺兹（Michael Reynolds）想到了这样的房屋-然后着手建造.  雷诺兹（Reynolds）是经典美国模式中的一名有远见的人，从那时起就一直在奋斗以将他的概念发布给公众.  他认为，在生态不稳定和自然灾害迫在眉睫的时代，他的建筑可以而且将会改变我们的生活方式.  这部长篇纪录片电影《垃圾勇士》（Garbage Warrior）在美国，印度和墨西哥拍摄，历时三年，讲述了特立独行的建筑师迈克尔·雷诺兹（Michael Reynolds），他来自新墨西哥州的叛徒房屋建造商的团队以及他们为引入截然不同的方式而奋斗的史诗故事.活的.
+- [GasLand Part II](https://www.imdb.com/title/tt2795078/) -天然气工业将天然气描述为一种清洁，安全的石油替代品是一个神话，而随着时间的推移，压裂的油井不可避免地会泄漏，污染水和空气，伤害家庭，并以强力的温室气体甲烷危害地球的气候.
 - [GasLand](https://www.imdb.com/title/tt1558250/) -探索水力压裂的石油开采业以及所涉及的严重环境后果.
 - [More than Honey](https://www.imdb.com/title/tt2263058/)  -深入研究蜜蜂在世界范围内面临灭绝的原因.  随着一个男人解决世界级谜团的坚韧不拔，他研究了这种全球现象.
 - [No Impact Man](https://www.imdb.com/title/tt1280011/) -跟随位于曼哈顿的Beavan家庭，因为他们放弃了高消费的第五大道生活方式，并试图在不影响环境的前提下生活一年.
@@ -46,9 +47,9 @@
 - [Virunga](https://www.imdb.com/title/tt3455224/) -一群勇敢的人冒着生命危险保护最后的山地大猩猩.
 - [Where the Heck is Donlin?](https://vimeo.com/64608183)  -Donlin金矿位于阿拉斯加西南部的布什深处，是阿拉斯加历史上最大的拟建金矿.  但是，绝大多数的阿拉斯加居民并不了解其发展和影响的细节.  Bjorn和Kim注意到缺乏可用数据以及对该提案缺乏了解，因此采用了实地考察模型的调查研究，并着手从源头上探索一些未解决的问题.  他们通过拟议的矿山足迹完成了一个三部分，由人类驱动的1000英里野外探险，他们与他们遇到的人们进行了永久废物储存，生存渔业的意义以及大型矿井的能源需求，以及农村居民面临的挑战等.
 ## Home Improvements
-- [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive)  -您可以从家里获得可再生供暖费用的钱.  您可以要求提供生物质锅炉，太阳能热水，热泵.  付款期限为7年，根据您的供暖系统产生的可再生热量计算.
+- [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive) - You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
 - [EPA's Responsible Appliance Disposal](https://www.epa.gov/rad) -RAD是一项自愿性合作伙伴计划，该计划与公用事业，零售商，制造商，州和地方政府机构，分支机构及其他机构合作，以利用现有最佳环境实践处置旧冷藏设备.
-- [EnergyStar.gov](https://www.energystar.gov/)  -产品，房屋，公用事业和地方政府的能效等级，供应商和税收抵免.  ENERGY STAR（能源之星）是政府支持的能效标志，它提供了简单，可信和公正的信息，消费者和企业可以根据这些信息做出明智的决策.
+- [EnergyStar.gov](https://www.energystar.gov/)  -产品，房屋，公用事业和地方政府的能效等级，供应商和税收抵免.  ENERGY STAR（能源之星）是政府支持的能效标志，它提供了简单，可信和公正的信息，消费者和企业可以根据这些信息做出明智的决定.
 - [Environmentally Friendly Roof Insulation](https://www.greenlivingtips.com/articles/environmentally-friendly-roof-insulation.html) -但是，无论您是在为房屋供暖，请确保您没有因隔热不良而漏热，并节省了资金.
 - [Hamwells Showers](https://www.hamwells.com/) -淋浴系统利用热交换器重新收集热量，过滤后的泵在排水之前将水循环利用多达7次，从而大大减少了用水量和能源消耗.
 - [NY State Home Energy Assessment tool](https://stars.nyserdagreenny.org/) -获得家庭能源审核并获得工具，资源和帮助，以升级您的房屋，使其更加节能.
@@ -71,11 +72,11 @@
 - [US Green Build Council](https://www.usgbc.org/articles)  -改变通过LEED建筑标准设计，建造和运营建筑物的方式.  有关基准材料能效，城市策略，测量室内空间健康状况，减少废气排放和改善空气质量的文章.
 - [Unwarming](https://unwarming.org/) -来自各种主要新闻来源的气候变化和行动文章汇总.
 ## Politics
-- [Energy Innovation and Carbon Dividend Act](https://energyinnovationact.org/)  -《能源创新和碳红利法》（HR 763）将降低美国的碳污染并使气候变化得到控制，同时释放美国的技术创新和创造力.  该政策于2018年在参议院中以S.3791的形式引入.
+- [Energy Innovation and Carbon Dividend Act](https://energyinnovationact.org/)  -能源创新和碳红利法案（HR 763）将降低美国的碳污染并使气候变化得到控制，同时释放美国的技术创新和创造力.  该政策于2018年在参议院中以S.3791的形式引入.
 - [Get Trump Out of Office](https://www.nytimes.com/interactive/2019/climate/trump-environment-rollbacks.html)  -美国总统唐纳德·特朗普（Donald Trump）积极致力于尽快破坏环境.  这是他正在回滚的85条规则，另外他已经取代了EPA [with a bunch of industrial pollution lobbyists](https://www.environmentalintegrity.org/trump-watch-epa/whos-running-trumps-epa/) and he [doesn't think sea level rise is an issue](https://qz.com/1054418/trump-executive-order-the-white-house-doesnt-think-sea-level-rise-is-important-to-us-infrastructure/).
 - [No Fracking in Alaska’s Arctic Wildlife Refuge](https://act.nrdc.org/letter/welcome-arctic-190603)  -阿拉斯加的北极国家野生动物保护区是我们最后一个真正的野生动物保护区-数十年来，石油公司禁止进入该地区.  但是特朗普政府比历史上任何政府都更接近撕开北极避难所进行破坏性的石油和天然气钻探活动.
 - [Our Children's Trust](https://www.ourchildrenstrust.org/) -领导改变游戏规则，以青年为导向的全球气候恢复运动，以确保获得享有稳定气候和健康氛围的合法权利.
-- [The Green Flying Duty](https://www.responsiblevacation.com/copy/write-to-politicians) - The UK is one of the few countries to tax aviation fuel, but it is too low, and not ringfenced for climate solutions. The Green Flying Duty proposal is a reformed version of the UK's APD, that will be ring-fenced for Research and Development (R&D) in electric aviation and to improve railway connectivity. Suggest this to politicians worldwide.
+- [The Green Flying Duty](https://www.responsiblevacation.com/copy/write-to-politicians)  -英国是为航空燃料征税的少数几个国家之一，但它的税率太低，而且对气候解决方案不设防.  “绿色飞行职责”提案是英国APD的改革版本，将为电动航空研究与发展（R＆D）以及为改善铁路连通性而ring之以鼻.  向全世界的政客们建议这一点.
 - [U.K. Double Tree Cover](https://act.friendsoftheearth.uk/petition/tell-uk-government-double-tree-cover)  -几个世纪以来，英国开垦了森林，使之成为欧洲森林中最低的林地.  如果政府认真考虑保护气候，则需要将丢失的树木恢复原状.
 - [U.S. Gas-powered car free by 2040](https://www.curbed.com/2019/5/21/18632816/zero-emission-vehicles-act-ban-cars)  -众议院和参议院均提出了联邦立法，这可能从根本上改变美国应对气候危机的方式.  《零排放车辆法》将在2040年之前消除在美国销售汽油动力乘用车的情况.
 - [U.S. Save the "Clean Power Plan"](https://www.nrdc.org/save-clean-power-plan)  -化石燃料发电厂占美国碳足迹的近40％.  《清洁电力计划》要求对这些发电厂的这种气候变暖污染设定限制，特别是到2030年至少要达到2005年水平的32％.  到2030年，《清洁能源计划》可以为美国节省200亿美元与气候相关的成本，并带来高达340亿美元的健康收益.
@@ -97,10 +98,10 @@
 - [Big Clean Switch](https://bigcleanswitch.org/)  -做不同的能源.  只需几分钟，即可从英国领先的供应商之一那里获得绿色电费.
 - [Carbon Intensity API](https://carbonintensity.org.uk/)  -由牛津大学和国家电网ESO提供的官方支持的开放API，提供了每半小时英国每单位用电量排放多少碳的快照.  还带有一些伟大的图表和可重复使用的小部件的预测，区域明细.  他们也有一个 [APP!](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/)
 - [Community Power](https://communitypower.ie/)  -爱尔兰第一家与地方可持续能源社区合作的社区所有电力供应商！  无论您是家庭，社区，企业，公共建筑物还是私人建筑物，都可以通过Community Power进行开关和购买电力.
-- [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive)  -您可以从家里获得可再生供暖费用的钱.  您可以要求提供生物质锅炉，太阳能热水，热泵.  付款期限为7年，根据您的供暖系统产生的可再生热量计算.
+- [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive) - You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
 - [Ecotricity](https://www.ecotricity.co.uk/)  -100％绿色电力.  他们从风车和太阳车队中产生1/5的能量，其余的则从其他绿色发电机中购买.  他们还将客户的账单转变为绿色能源的新来源，从而始终提供更多的绿色电力.
 - [Electricity Map](https://www.electricitymap.org/)  -一张地图，显示世界上许多国家的能源消耗，可再生能源渗透率和碳排放量.  如果您所在的国家/地区不受保护，则可以提供数据源.
-- [Good Energy](https://www.goodenergy.co.uk/)  -英国为数不多的能源供应商之一，这些能源供应商通过自己的风力发电场和太阳能发电场生产可再生能源，并从小型独立可再生能源发电机购买可再生能源.  从当地农民和社区能源计划到可持续的企业，这些企业产生自己的电力并向他们出售多余的电力.  真正的可再生能源供应商，不仅是燃煤发电+抵消信用.
+- [Good Energy](https://www.goodenergy.co.uk/)  -英国为数不多的能源供应商之一，这些能源供应商通过自己的风力发电场和太阳能发电场生产可再生能源，并从小型独立的可再生能源发电商那里购买可再生能源.  从当地农民和社区能源计划到可持续的企业，这些企业产生自己的电力并向他们出售多余的电力.  真正的可再生能源供应商，不仅是燃煤发电+抵消信用.
 - [Green-E](https://www.green-e.org/)  -寻找您附近的可再生能源提供商.  Green-e认证的可再生能源和碳补偿产品符合北美最严格的环保和消费者保护标准.  您可以在下面搜索适用于您的家庭或企业的经认证的绿色动力和可再生能源证书计划，以及碳补偿产品，以抵消驾驶和飞行等活动中的排放.  作为第三方认证机构，Green-e®不会出售可再生能源或补偿产品，但会向那些这样做的零售商提供这些链接.
 - [Non-domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/non-domestic-renewable-heat-incentive) -非国内可再生热激励措施可帮助企业，公共部门和非营利组织支付安装可再生热技术的费用.
 - [SparkMeter](http://www.sparkmeter.io/) -人道主义智能能源计量解决方案，它从公用事业部门购买浪费的未使用电力，然后将其转售至难以到达的地方和服务不足的市场，从而降低了总体能源消耗.
@@ -137,14 +138,14 @@
 - [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11)  -可完全堆肥的iPhone保护壳.  仅与iPhone 11兼容（目前）.
 - [thredUP](https://www.thredup.com/)  -二手衣服，应进行升级处理，以免浪费电力，碳等浪费以生产新衣服，并避免其进入垃圾填埋场.  女人和孩子，但男人却一无所有.
 ## Transportation
-- [Biking vs. Driving Calculator](https://bicycleuniverse.com/car-free-millionaire/)  -骑自行车可以使你成为百万富翁！  您为汽车支付的费用超出了您的想象.  一个典型的无车驾驶35年的美国人，即使按通货膨胀因素进行调整，即使他们经常支付出租车，公共汽车和乘车出行的费用，也可以节省近100万美元.  使用计算器查找在特定情况下可以节省的金额.
+- [Biking vs. Driving Calculator](https://bicycleuniverse.com/car-free-millionaire/)  -骑自行车可以使你成为百万富翁！  您为汽车支付的费用超出了您的想象.  一个典型的无车驾驶35年的美国人，即使根据通货膨胀因素进行调整，即使他们经常支付出租车，公共汽车和乘车出行的费用，也可以节省近100万美元.  使用计算器查找在特定情况下可以节省的金额.
 - [BlaBlaCar](https://www.blablacar.com/) -世界领先的长途拼车平台，在欧洲和墨西哥大部分地区都可以使用.
 - [Cycle to Work Scheme Ireland](https://www.revenue.ie/en/jobs-and-pensions/taxation-of-employer-benefits/cycle-to-work-scheme.aspx) -根据该计划，您的雇主可以为您购买自行车和安全设备，每辆自行车和安全设备最高为€1,000.
 - [Cycle to Work Scheme UK](https://www.cyclingweekly.com/news/latest-news/cycle-to-work-scheme-10-things-to-know-5055/amp) -该计划使员工可以免税地购买自行车和设备，据称可节省高达42％的总价值.
 - [Pod Point](https://pod-point.com) -电动汽车充电领域的英国领导者，为家庭，工作场所和商业组织提供了创新的解决方案.
 - [Poparide](https://www.poparide.com/)  -在加拿大各城市之间搭便车或填补座位.  开车中有3个人可能比某些大型火车更有效率，并且是飞行影响的1/5.
 - [WageWorks Bicycle Reimbursement Program](https://www.wageworks.com/employees/lifestyle-benefits-programs/bicycle-reimbursement-program/) -骑自行车上班并支付符合条件的自行车相关费用，然后报销这些费用.
-- [Waze Carpool](https://www.waze.com/carpool) - Choose to drive or ride, and match with people based on route and time of day.
+- [Waze Carpool](https://www.waze.com/carpool) -选择开车或乘车，并根据一天中的路线和时间与其他人相匹配.
 ## Travel
 - [BlaBlaCar](https://www.blablacar.com/) -世界领先的长途拼车平台，在欧洲和墨西哥大部分地区都可以使用.
 - [EcoBnB](https://ecobnb.com/)  -寻找以可持续性为重点的旅行住宿.  大多数地区都使用可再生能源来发电，您不会发现一次性塑料的负载，它们回收了80％以上的废物，等等.
@@ -159,7 +160,7 @@
 - [Rubicon 3](https://www.rubicon3.co.uk/)  -加入我们其中一项航海探险的船员，进行最大的冒险之一.  从一个国家航行到另一个国家，探索世界上最令人敬畏的地区.  从鼓舞人心的教练那里学习航行.  登陆并在远离人迹罕至的地方上岸探索.
 - [Slow Travel (Langsamreisen)](https://www.langsamreisen.de/)  -有关可持续和有意识旅行的旅行公司.  小猪回到货船上去到世界另一端去做这份新工作.  航行旅行无足迹.  也许乘坐西伯利亚大铁路.
 ## Volunteering
-- [Citizens Climate Lobby](https://citizensclimatelobby.org/) -如果您是英语，经济学或综合科学专业的学生，​​则可能应该考虑自愿参加“公民气候大厅”，该组织致力于通过政策应对气候变化.
+- [Citizens Climate Lobby](https://citizensclimatelobby.org/) -如果您是英语，经济学或综合科学专业的学生，​​则可能应该考虑自愿参加“公民气候大厅”活动，该组织致力于通过政策应对气候变化.
 - [Clean Trails](https://www.cleantrails.org/join)  -一步一步地，我们的目标是消除浪费在公共土地上的所有小径上的浪费.  我们相信，可以通过教育，鼓励户外用户与我们原始的地方重新建立联系，以积极积极的方式做到这一点.
 - [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
 - [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/)  -通知，参与和培训人们以识别珊瑚褪色，疾病和入侵物种暴发的网络.  他们有一个广泛的推广计划，可以帮助提供重要的培训，以进行快速响应监控和珍贵海洋资源的管理.
@@ -176,19 +177,19 @@
 - [Donate Toys](https://www.moneycrashers.com/where-donate-used-toys/) -捐赠孩子长大的玩具，而不是扔掉它们.
 - [Geev](https://corporate.geev.com/)  -在线应用程序，可在人与人之间交换食物和东西.  轻松讨论，相遇并赋予物体和食物第二次生命.  您付出的越多，当您想要获得某物时，人们就会越信任您.
 - [Go "Swaggless"](https://twitter.com/lindybrandon/status/1131202229229314048)  -没有人需要另一个公司徽标压力球或其他毫无意义的赃物.  说服您的公司跳过废话，并捐赠有价值的东西-例如他们 [Offset Earth](https://offset.earth/business) business account!
-- [GrowNYC Food Scrap Collection Schedule](https://www.grownyc.org/compost/locations) -交互式地图，其中包含纽约市超过150个居民食物残渣运送场.
+- [GrowNYC Food Scrap Collection Schedule](https://www.grownyc.org/compost/locations) - Interactive map with over 150 residential Food Scrap Drop-Off sites in NYC.
 - [Kaiyo](https://kaiyo.com/)  -买卖二手家具，以防止其进入垃圾填埋场.  他们甚至会来拿起它！  _我用它摆脱了没人愿意买的大沙发，沙发要上街了，他们给了我一张支票.
 - [Karma](https://new.karma.life/)  -一家瑞典公司，允许餐馆以较低的价格出售剩余食物.  它使您可以少花钱买食物并避免浪费食物.
 - [Litterati](https://www.litterati.org/)  -授权人们清洁地球.  拍摄一块垃圾，标记它，然后正确丢弃.  参与挑战并追究浪费品牌的责任.
 - [Olio](https://olioex.com/) -我们联系邻居分享食物和其他东西，而不是把他们扔掉.
 - [OpenStreetMap: Zero Waste (Overpass)](http://overpass-turbo.eu/?template=key&key=zero_waste) -OpenStreetMap的标签为zero_waste = *，用于出售无包装商品的商店.
-- [Original Unverpackt](https://original-unverpackt.de/)  -柏林的零包装超市.  _原始Unverpackt是全球首家致力于零浪费生活方式的超市.
+- [Original Unverpackt](https://original-unverpackt.de/)  -柏林的零包装超市.  _Original Unpacked是全球首家致力于零废物生活方式的超市.
 - [Pieter Pot](https://www.pieter-pot.nl/)  -您的杂货，无需包装即可交付.  Pieter Pot在荷兰用精美的玻璃罐子中的载货自行车运送您的食品.  空锅？  然后，我们再次填充它.  这就是我们不用所有不必要的（塑料）包装就可以轻松有趣地购物的方式.  很好，对吗？
 - [Precious Plastic](https://preciousplastic.com/)  -由数百人组成的全球社区，致力于解决塑料污染问题.  知识，工具和技术是免费在线共享的.  这样每个人都可以开始（是的，您也是！）.  世界各地的人们以他们的技能和知识为该项目做出贡献.  加入对抗塑料污染的斗争.
 - [Rethink Food NYC](https://www.rethinkfood.nyc/) -他们从餐馆，农场和其他食品供应商那里收集未用过的多余食物，然后将其重新分配成美味和营养的食物，以供纽约人服务不足.
 - [The Crappy Planet - Bamboo Toilet Paper](https://www.thecrappyplanet.com/)  -竹子的使用大大减少了森林砍伐.  根据EPA的数据，一棵硬木树可生产约45公斤的厕纸，每天可生产约8300万个厕纸.  竹厕纸的生产需要较少的能源，五分之一的水，在更少的土地上可以生产更多的纤维，比其他植物和树木多产生30-35％的氧气，并且可以减少大约相同量的二氧化碳.  另外，生产过程要求将水和其他材料收集，再利用和再循环.  最后，我们将利润的25％用于阻止森林砍伐和全球变暖.
 - [The Rotten Fruit Box](https://therottenfruitbox.com/)  -来自西班牙和葡萄牙的100％天然冻干水果零食被运送给您.  否则，您正在享用的水果会被闲置并掉在地上.  我们还认为，“腐烂”这个名称有助于引起人们对严重浪费食物的关注.  我们的冻干水果零食袋美味可口，健康，100％纯天然，具有很长的保质期，是家庭，工作，办公室，上学，露营或几乎任何地方的理想选择.  帮助减少食物浪费.  帮助当地的小农.  我们使用100％可堆肥包装，并随您当地的邮政服务一起运送，因为它是最低的碳足迹选择.  但是减少碳排放量还不够，我们种树以补偿我们的二氧化碳排放量.
-- [Too Good To Go](https://toogoodtogo.co.uk/)  -轻松，可持续地出售您的剩余食物！  节省美味的食物，与食物浪费作斗争.  找到您最喜欢的食物，然后去救它.
+- [Too Good To Go](https://toogoodtogo.co.uk/)  -轻松，可持续地出售您的剩余食物！  节省美味的食物，消除食物浪费.  找到您最喜欢的食物，然后去救它.
 - [Vegware](https://vegware.co.uk/) -餐巾，提包，色拉盒，寿司盘，餐具，一次性咖啡杯，全部由使用可再生，低碳，回收或再生材料制成的植物制成，并设计成可与食物垃圾进行商业堆肥处理（如果接受）.
 - [What is my lamp worth? (The Netherlands)](https://www.watismijnlampwaard.nl/)  -查找废弃电器和节能灯泡的最近收集点.  该站点可帮助您负责任地回收，捐赠，维修或出售电器和灯.
 - [Worn Wear](https://wornwear.patagonia.com/)  -一套工具，可帮助我们的客户与巴塔哥尼亚合作，共同承担责任，以延长巴塔哥尼亚生产的产品和客户购买的产品的寿命.  您可以购买二手修理或翻新的衣服，或用旧的Patagonia衣服换购新商品.

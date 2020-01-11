@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Wardley Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map)  是一项可帮助您检查环境，识别即将发生的变化并正确选择操作的技术.  通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建自己的世界的可视化表示，玩假设游戏，并选择支持的最佳方向和最佳措施.
+> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map)  是一项可帮助您检查环境，识别即将发生的变化并正确选择操作的技术.  通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建世界的视觉表示，玩假设游戏，并选择支持的最佳方向和最佳措施.
 
  这是有用的Wardley映射资源的列表.  欢迎捐款！  阅读 [contribution guidelines](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/contributing.md) 第一.
 
@@ -30,15 +30,16 @@
 ## Courses
 
 - [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) -通过Leading Edge论坛了解如何激发未来的想法和策略.
-- [LearnWardleyMapping.com](https://learnwardleymapping.com/) -西蒙·沃德利（Simon Wardley）的书的视频章节摘要，15分钟的入门课程和快速参考.
+- [LearnWardleyMapping.com](https://learnwardleymapping.com/) -Simon Wardley的书的视频章节摘要，15分钟的入门课程和快速参考.
 
 ## Maps in the Wild
 
 博客文章以及沃德利地图和标语的其他有趣示例.
 
-- [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
+- [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa) -如何通过专注于理论和支出控制来阻止组织积极损害自身.
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解最适合开发和交付信息管理系统的方法，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建《 IT战略手册》.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源；  并跨多个NSO启用大数据协作.  下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc).
+- [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
 - [Mapping Maturity](https://maturitymapping.com/) -由Cynefin通知的具有Wardley映射的特定于上下文的成熟度模型.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所倡导的地图形式相结合.
 
@@ -52,11 +53,11 @@
 - [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) -对地图工具的问题空间进行了半认真的思考，然后通过就职典礼营地进行的讨论和共享，对各种地图工具和技术进行了有趣的概述.
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) -动画指导和开源Wardley地图图标集合.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -用于OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和11，展示了在LaTeX中绘制沃德利地图的过程.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的操作指南.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -沃德利（Yard）映射调色板.
-- [Doctrine Grid Tool](http://justin.stach.uk/doctrine_grid_tool) -基于Google表单和Google表格.
+- [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) -基于Google表单和Google表格.
 
 ## Apps
 
@@ -76,6 +77,7 @@
 - [Wardley Mapping in Cologne, Germany](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/) -德国科隆举行的IRL聚会
 - [Wardley Mapping in Hamburg, Germany](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/) -德国汉堡的IRL聚会
 - [Wardley Mapping in Munich, Germany](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/) -德国慕尼黑的IRL聚会
+- [Wardley Mapping in Amsterdam, Netherlands](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/) -荷兰阿姆斯特丹的IRL聚会
 
 ## Workshops
 
@@ -89,4 +91,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-Wardley Maps社区已在法律允许的范围内放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内，沃德利地图社区放弃了此项作品的所有版权以及相关或邻近的权利.
