@@ -371,7 +371,7 @@ Must see
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们分享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门排行榜”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门图表”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)
@@ -455,6 +455,7 @@ Must see
 *：然后： [Quake](https://github.com/id-Software/Quake)
 *：然后： [SimCity](https://github.com/simhacker/micropolis)
 *：然后： [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
+*：然后： [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
 
 Ads
 ---

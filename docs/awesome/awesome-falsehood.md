@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="kdeldycke/awesome-falsehood"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Falsehood [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+## 😱 Awesome Falsehood [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 程序员相信的精选虚假清单.
 
@@ -311,7 +311,7 @@ autocompletion.
 在这个很棒的清单中.
 
 
-### *Falsehood* Articles
+### Falsehood Articles
 
 遵循“虚假”计划的文章是被纳入的主要候选对象
 这个很棒的清单.

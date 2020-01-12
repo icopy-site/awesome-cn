@@ -45,7 +45,7 @@
 
 *用于实施身份验证方案的库.*
 
-* [authboss](https://github.com/volatiletech/authboss)  -用于网络的模块化身份验证系统.  它尝试删除尽可能多的样板文件和“硬东西”，以便每次在Go中启动新的Web项目时，都可以将其插入，配置并开始构建应用程序，而不必每次都构建身份验证系统.
+* [authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure, and start building your app without having to build an authentication system each time.
 * [branca](https://github.com/hako/branca) -  Golang实施布兰卡令牌.
 * [casbin](https://github.com/hsluoyz/casbin) -支持访问控制模型（如ACL，RBAC，ABAC）的授权库.
 * [cookiestxt](https://github.com/mengzhuo/cookiestxt) -提供cookies.txt文件格式的解析器.
@@ -453,7 +453,7 @@
     * [cachego](https://github.com/fabiorphp/cachego) -  Golang缓存组件的多个驱动器.
     * [cayley](https://github.com/google/cayley) -图形数据库，支持多个后端.
     * [dsc](https://github.com/viant/dsc) -SQL，NoSQL，结构化文件的数据存储连接.
-    * [gokv](https://github.com/philippgille/gokv) -Go的简单键值存储抽象和实现（Redis，Consul，etcd，bbolt，BadgerDB，LevelDB，Memcached，DynamoDB，S3，PostgreSQL，MongoDB，CockroachDB等）.
+    * [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 
 ## Date and Time
 
@@ -720,6 +720,7 @@
 * [artifex](https://github.com/borderstech/artifex) -使用基于工作者的调度，为Golang提供简单的内存中作业队列.
 * [async](https://github.com/studiosol/async) -一种异步执行功能的安全方法，在出现紧急情况时可以将其恢复.
 * [breaker](https://github.com/kamilsk/breaker) -使执行流程可中断的灵活机制.
+* [conexec](https://github.com/ITcathyh/conexec) -并发工具包，可帮助以高效，安全的方式并发执行函数，它支持指定整体超时以避免阻塞，并使用goroutine池提高效率.
 * [cyclicbarrier](https://github.com/marusama/cyclicbarrier) - 为的CyclicBarrier golang.
 * [go-floc](https://github.com/workanator/go-floc) -轻松编排goroutine.
 * [go-flow](https://github.com/kamildrazkiewicz/go-flow) -控制goroutine的执行顺序.
@@ -858,6 +859,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 *用于JSON的库.
 
 * [ajson](https://github.com/spyzhov/ajson) -带有JSONPath支持的用于golang的抽象JSON.
+* [ej](https://github.com/lucassscaravelli/ej) -简洁地编写和读取来自不同来源的JSON.
 * [gjo](https://github.com/skanehira/gjo) -用于创建JSON对象的小型实用程序.
 * [GJSON](https://github.com/tidwall/gjson) -使用一行代码获取JSON值.
 * [go-jsonerror](https://github.com/ddymko/go-jsonerror) -Go-JsonError可让我们轻松创建遵循JsonApi规范的json响应错误.
@@ -1525,7 +1527,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [selenoid](https://github.com/aerokube/selenoid) -替代的Selenium集线器服务器，可在容器内启动浏览器.
 
 *失败注入
-    * [failpoint](https://github.com/pingcap/failpoint) - An implementation of [failpoints](http://www.freebsd.org/cgi/man.cgi?query=fail) 对于Golang.
+    * [failpoint](https://github.com/pingcap/failpoint) -的实现 [failpoints](http://www.freebsd.org/cgi/man.cgi?query=fail) 对于Golang.
 
 ## Text Processing
 
@@ -1634,6 +1636,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [google-analytics](https://github.com/chonthu/go-google-analytics) -简单的包装器，可轻松进行Google Analytics（分析）报告.
 * [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang) -Google Cloud API Go客户端库.
 * [google-email-audit-api](https://github.com/ngs/go-google-email-audit-api) -访问客户端库 [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/).
+* [gosip](https://github.com/koltyakov/gosip) -转到客户端库SharePoint API.
 * [gostorm](https://github.com/jsgilmore/gostorm) -GoStorm是一个Go库，它实现在Go中编写与Storm外壳进行通信的Storm喷口和螺栓所需的通信协议.
 * [hipchat](https://github.com/andybons/hipchat) -该项目为Hipchat API实现了golang客户端库.
 * [hipchat (xmpp)](https://github.com/daneharrigan/hipchat) -通过XMPP与HipChat进行通信的golang程序包.
@@ -1873,7 +1876,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Gondola](https://github.com/rainycape/gondola) -用于更快地编写网站的Web框架.
 * [gongular](https://github.com/mustafaakin/gongular) -具有输入映射/验证和（DI）依赖注入的Fast Go Web框架.
 * [hiboot](https://github.com/hidevopsio/hiboot) -hiboot是具有自动配置和依赖项注入支持的高性能Web应用程序框架.
-* [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
+* [Macaron](https://github.com/go-macaron/macaron) -Macaron是Go中高效且模块化的Web设计框架.
 * [mango](https://github.com/paulbellamy/mango) -Mango是受Rack和PEP333启发的Go的模块化Web应用程序框架.
 * [Microservice](https://github.com/claygod/microservice) -用Golang编写的用于创建微服务的框架.
 * [neo](https://github.com/ivpusic/neo) -Neo是使用极简单的API的最小且快速的Go Web框架.

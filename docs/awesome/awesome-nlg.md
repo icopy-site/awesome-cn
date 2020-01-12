@@ -8,9 +8,14 @@
 
 ## Datasets
 
+- [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) -公共交通信息领域对话系统中NLG的数据集.
+- [Box-score data](https://github.com/harvardnlp/boxscore-data/) -该数据集包含（人工编写的）NBA篮球比赛摘要，其摘要与相应的箱式和线式得分保持一致.
 - [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中于数据驱动的最新端到端（E2E）NLG方法，该方法从不对齐的数据中共同学习句子规划和表面实现.
 - [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库.
-- [WebNLG](https://github.com/ThiagoCF05/webnlg) -在INLG 2018上介绍了WebNLG的增强版本.
+- [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) -来自weather.gov（美国公共天气预报）的计算机生成的天气预报以及相应的天气数据.
+- [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引荐表达生成.
+- [WikiBio - wikipedia biography dataset](https://github.com/DavidGrangier/wikipedia-biography-dataset)  -该数据集从Wikipedia收集了728321份传记.  它旨在评估文本生成算法.  对于每篇文章，我们都提供第一段和信息框（均标记化）.
+- [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus)  -从Wikipedia收集的公司描述.  数据集包含英语的51K公司的语义表示，简短描述和详细描述.
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) -YelpNLG提供自然语言生成餐厅评论的资源.
 
 ## Dialog

@@ -26,7 +26,7 @@
      * Cloud Shell-具有5GB持久存储的基于Web的Linux Shell /基本IDE.  每周限制60小时
     *云发布/订阅-每月10GB的消息
     *云功能-每月2百万次调用（包括后台和HTTP调用）
-    *云运行-每月200万个请求，360,000 GB-秒的内存，180,000 vCPU-秒的计算时间，每月从北美流出1 GB的网络
+    *云端运行-每月200万个请求，360,000 GB-秒的内存，180,000 vCPU-秒的计算时间，每月从北美流出1 GB的网络
      * Google Kubernetes Engine-所有规模的集群均不收取集群管理费.  每个用户节点均按标准Compute Engine定价收费
     * BigQuery-每月查询1 TB，每月存储10 GB
     *云构建-每天120分钟构建
@@ -133,7 +133,7 @@
   * [Releaseflags](https://releaseflags.com)  -功能标记应该以低成本提供给每个开发人员.  Releaseflags为单个开发人员提供免费的releaseflags，并为初创企业提供了低成本的计划.
   * [RequestBin.com](https://requestbin.com)  —创建一个免费的端点，可以向其发送HTTP请求.  发送到该端点的所有HTTP请求都将与相关的有效负载和标头一起记录，因此您可以观察来自Webhooks和其他服务的请求.
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark enables any API, application or data owner to become an API provider in minutes via an intuitive browser interface
-  * [ROBOHASH](https://robohash.org/) -Web服务，可从任何文本生成唯一的（酷：）图像.
+  * [ROBOHASH](https://robohash.org/) -Web服务，可从任何文本生成唯一（酷：）图像.
   * [Scraper API](https://www.scraperapi.com/)  —基于云的Web抓取API处理代理，浏览器和验证码.  只需简单的API调用即可抓取任何网页.  每月开始1000次免费API调用.
   * [scrapinghub.com](https://scrapinghub.com)  —使用可视界面和插件进行数据抓取.  免费计划包括在共享服务器上无限刮取
   * [ScrapingNinja](https://www.scrapingninja.co/)  -一站式处理JS渲染，Chrome无头，代理旋转和CAPTCHA.  前1000个是免费的，不需要信用卡.
@@ -215,7 +215,7 @@
   * [deepscan.io](https://deepscan.io) —先进的静态分析，可自动发现JavaScript代码中的运行时错误，免费提供给开源
   * [DeepSource](https://deepsource.io/)  -DeepSource持续分析源代码更改，并发现在安全性，性能，反模式，错误风险，文档和样式下分类的问题.  对于Python和Go.  免费开源.
   * [gerrithub.io](https://review.gerrithub.io/) — GitHub存储库的Gerrit代码审查是免费
-  * [gocover.io](https://gocover.io/) —任何代码覆盖率 [Go](https://golang.org/) 包
+  * [gocover.io](https://gocover.io/) —任何代码覆盖 [Go](https://golang.org/) 包
   * [golangci.com](https://golangci.com) —针对GitHub拉取请求的自动化Go（golang）代码检查服务.
   * [goreportcard.com](https://goreportcard.com/) — Go项目的代码质量，开源免费
   * [gtmetrix.com](https://gtmetrix.com/) -报告和详尽的建议，以优化网站
@@ -246,7 +246,7 @@
 
   * [AccessLint](https://github.com/marketplace/accesslint)  — AccessLint将自动化的Web可访问性测试引入您的开发工作流程.  它是免费的，用于开源和教育目的.
   * [appveyor.com](https://www.appveyor.com/) — Windows的CD服务，开源免费
-  * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) —针对Linux，macOS和Windows的开源软件，有10个免费的并行作业，且无限制地运行分钟
+  * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) —针对Linux，macOS和Windows的开源软件，提供10个无限制的免费并行作业，几分钟即可完成
   * [bitrise.io](https://www.bitrise.io/)  —用于移动应用程序（本机或混合）的CI / CD.  每月有200次免费构建，构建时间为10分钟，有两名团队成员.  OSS项目的构建时间为45分钟，并发+1，团队规模无限制.
   * [buddy.works](https://buddy.works/) —具有5个免费项目和1个并发运行的CI / CD（每月执行120次）
   * [buddybuild.com](https://www.buddybuild.com/) —在一个无缝的迭代系统中为您的iOS和Android应用程序构建，部署和收集反馈
@@ -261,10 +261,11 @@
   * [stackahoy.io](https://stackahoy.io)  — 100％免费.  无限的部署，分支和构建
   * [styleci.io](https://styleci.io/) -仅公共GitHub存储库
   * [travis-ci.org](https://travis-ci.org/) —对于公共GitHub存储库免费
+  * [cirrus-ci.org](https://cirrus-ci.org) -对于公共GitHub存储库免费
 
 ## Testing
 
-  * [Applitools.com](https://applitools.com/)  —针对Web，本地移动和桌面应用程序的智能视觉验证.  与几乎所有自动化解决方案（例如Selenium和Karma）和远程运行程序（Sauce Labs，Browser Stack）集成.  免费提供开源.  每周检查点数量有限的单个用户的免费套餐.
+  * [Applitools.com](https://applitools.com/)  —针对Web，本地移动和桌面应用程序的智能视觉验证.  与几乎所有自动化解决方案（例如Selenium和Karma）和远程运行程序（Sauce Labs，Browser Stack）集成.  免费开源.  每周检查点数量有限的单个用户的免费套餐.
   * [browserstack.com](https://www.browserstack.com/) —手动和自动浏览器测试， [free for Open Source](https://www.browserstack.com/open-source?ref=pricing)
   * [checkbot.io](https://www.checkbot.io/)  —浏览器扩展程序，用于测试您的网站是否遵循50多个SEO，速度和安全性最佳做法.  小型网站的免费套餐.
   * [crossbrowsertesting.com](https://crossbrowsertesting.com) -在云端进行手动，可视和Selenium浏览器测试- [free for Open Source](https://crossbrowsertesting.com/open-source)
@@ -294,7 +295,7 @@
   * [meterian.io](https://www.meterian.io/)  -监视Java，Javascript，.NET，Scala，Ruby和NodeJS项目中依赖项中的安全漏洞.  一个私有项目免费，开放源代码无限个项目.
   * [Mozilla Observatory](https://observatory.mozilla.org/) —查找并修复站点中的安全漏洞.
   * [Okta](https://developer.okta.com/)  —用户管理，身份验证和授权.  免费，每月最多有1000位活跃用户.
-  * [onelogin.com](https://www.onelogin.com/) —身份即服务（IDaaS），单点登录身份提供商，Cloud SSO IdP，3个公司应用程序和5个个人应用程序，无限的用户
+  * [onelogin.com](https://www.onelogin.com/) —身份即服务（IDaaS），单一登录身份提供程序，Cloud SSO IdP，3个公司应用程序和5个个人应用程序，无限的用户
   * [opswat.com](https://www.opswat.com/) —安全监视计算机，设备，应用程序，配置，...，免费25位用户和30天的历史记录
   * [ponycheckup.com](https://www.ponycheckup.com/) —用于Django网站的自动化安全检查工具
   * [Protectumus](https://protectumus.com)  -免费的网站安全检查，网站防病毒和服务器防火墙（WAF）.  注册用户的电子邮件和短信通知.
@@ -368,7 +369,7 @@
   * [instrumentalapp.com](https://instrumentalapp.com) -精美且易于使用的应用程序和服务器监控，可免费提供多达500个指标和3个小时的数据可见性
   * [loader.io](https://loader.io/) —有限制的免费负载测试工具
   * [nodequery.com](https://nodequery.com/) —免费的基本服务器监控多达10台服务器
-  * [opsgenie.com](https://www.opsgenie.com/)  —强大的警报和通话管理功能，用于操作始终在线的服务.  最多释放5个用户.
+  * [opsgenie.com](https://www.opsgenie.com/)  —强大的警报和通话管理功能，用于操作始终在线的服务.  释放最多5位用户.
   * [paessler.com](https://www.paessler.com/)  —强大的基础架构和网络监控解决方案，包括警报，强大的可视化功能和基本报告.  释放多达100个传感器.
   * [pagertree.com](https://pagertree.com/)  -简单的警报和通话管理界面.  最多释放5个用户.
   * [pingbreak.com](https://pingbreak.com/)  —现代的正常运行时间监控服务.  检查无限的URL，并通过Discord，Slack或电子邮件获取停机通知.
@@ -582,7 +583,7 @@
 
 ## DBaaS
 
-   * [airtable.com](https://airtable.com/) —看起来像电子表格，但它是一个关系数据库，无限制的基础，每月1,200行，每月1,000个API请求
+   * [airtable.com](https://airtable.com/) —看起来像电子表格，但它是一个关系数据库，无限制的基础，1,200行/基础和每月1,000个API请求
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL即服务，免费20 MB
    * [FaunaDB](https://fauna.com/) —无服务器云数据库，具有本地GraphQL，多模型访问和每日免费层达5GB
    * [graphenedb.com](https://www.graphenedb.com/) — Neo4j即服务，最多可支持1,000个节点和10,000个关系
@@ -606,7 +607,7 @@
    * [serveo.net](https://serveo.net/) —使用SSH隧道（包括SSH GUI可以通过HTTP重放请求）将任何本地端口快速公开到伺服子域上的公共Internet.
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -Google STUN
-   * [webhookrelay.com](https://webhookrelay.com)  —管理，调试，扇出并将所有Webhook代理到公共或内部（即localhost）目标.  另外，通过获取公共HTTP端点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080），公开运行在专用网络上通过隧道的服务器.
+   * [webhookrelay.com](https://webhookrelay.com)  —管理，调试，扇出并将所有Webhook代理到公共或内部（即localhost）目标.  另外，通过获取公共HTTP终结点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080`）来公开通过隧道在专用网络中运行的服务器.
    * [ZeroTier](https://www.zerotier.com)  — FOSS管理的虚拟以太网即服务.  免费计划的100个客户端的无限端到端加密网络.  台式机/手机/ NA的客户端；  Web界面，用于配置自定义路由规则并批准专用网络上的新客户端节点.
 
 ## Issue Tracking and Project Management
@@ -618,7 +619,7 @@
    * [bitrix24.com](https://www.bitrix24.com/) —免费的内部网和项目管理工具
    * [cacoo.com](https://cacoo.com/)  —实时在线图：流程图，UML，网络.  最高免费  15位使用者/图表，25张
    * [clickup.com](https://clickup.com/)  - 项目管理.  具有云存储功能的免费高级版本.  提供移动应用程序和Git集成
-   * [Cloudcraft](https://cloudcraft.co/) —使用Cloudcraft视觉设计器在几分钟之内设计出专业的架构图，该Cloud Designer视觉设计器还针对智能AWS进行了优化，同时还显示了实时数据.
+   * [Cloudcraft](https://cloudcraft.co/) —使用Cloudcraft可视设计器在几分钟内设计出专业的架构图，该Cloud Designer可视化设计器还针对AWS进行了优化，并具有可显示实时数据的智能组件.
    * [Clubhouse](https://clubhouse.io/)  -项目管理平台.  永久免费，最多可容纳10个用户
    * [contriber.com](https://www.contriber.com/) —可定制的项目管理平台，免费的入门计划，5个工作区
    * [draw.io](https://www.draw.io/)  —本地存储在Google Drive，OneDrive或Dropbox中的在线图表.  免费使用所有功能和存储级别
@@ -634,7 +635,7 @@
    * [LeanBoard](https://www.leanboard.io) —带有便笺的协作白板，用于GitHub问题（用于示例映射和其他技术）
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) —一年的免费Office 365 E3订阅进行开发/测试.
    * [Ora](https://ora.pm/) - Agile task management & team collaboration. Free for up to 3 users and files are limited to 10 MB.
-   * [pivotaltracker.com](https://www.pivotaltracker.com/) —对于无限的公共项目和两个私有项目（总计3个活动用户（读写）和无限个被动用户（只读））免费.
+   * [pivotaltracker.com](https://www.pivotaltracker.com/) -免费提供给无限的公共项目和两个私人项目，这些私人项目共有3个活跃用户（读写）和无限个被动用户（只读）.
    * [plan.io](https://plan.io/)  —具有存储库托管和更多选项的项目管理.  2位拥有10位客户和500MB存储空间的用户免费
    * [planitpoker.com](https://www.planitpoker.com/) —免费的在线计划扑克（估算工具）
    * [senseitool.com](https://www.senseitool.com/) —敏捷的回顾工具-免费.
@@ -643,7 +644,7 @@
    * [taiga.io](https://taiga.io/) —适用于初创企业和敏捷开发人员的项目管理平台，免费提供给开源
    * [targetprocess.com](https://www.targetprocess.com/)  —从看板和Scrum到几乎所有操作过程的可视项目管理.  无限用户免费使用，最多1000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
    * [taskade.com](https://www.taskade.com/) —团队的实时协作任务列表和大纲
-   * [taskulu.com](https://taskulu.com/)  -基于角色的项目管理.  最多释放5个用户.  与GitHub / Trello / Dropbox / Google Drive集成
+   * [taskulu.com](https://taskulu.com/)  -基于角色的项目管理.  释放最多5位用户.  与GitHub / Trello / Dropbox / Google Drive集成
    * [testlio.com](https://testlio.com/)  —问题跟踪，测试管理和Beta测试平台.  免费供私人使用
    * [todoist.com](https://todoist.com/)  —协作和个人任务管理.  提供免费，高级和团队计划.  为符合条件的用户提供折扣.
    * [trello.com](https://trello.com/)  -基于董事会的项目管理.  无限个人董事会，10个团队董事会.
@@ -736,7 +737,7 @@
    * [apiary.io](https://apiary.io/) —带有即时API模拟和生成的文档的协作设计API（免费提供无限的API蓝图和具有一个管理员帐户和托管文档的无限用户）.
    * [Atom](https://atom.io/) -Atom是一个基于Electron的可入侵文本编辑器.
    * [cacher.io](https://www.cacher.io) —带有标签的代码片段组织器，并支持100多种编程语言.
-   * [cocalc.com](https://cocalc.com/)  —（以前是cloud.sagemath.com上的SageMathCloud）—云中的协作计算.  浏览器可访问具有内置协作功能的完整Ubuntu，并提供许多用于数学，科学，数据科学的免费软件，并且预安装了以下软件：Python，LaTeX，Jupyter Notebooks，SageMath，scikitlearn等.
+   * [cocalc.com](https://cocalc.com/)  —（以前是cloud.sagemath.com上的SageMathCloud）—云中的协作计算.  浏览器可访问具有内置协作功能的完整Ubuntu以及许多用于数学，科学，数据科学的免费软件，并且预安装了以下软件：Python，LaTeX，Jupyter Notebooks，SageMath，scikitlearn等.
    * [codepen.io](https://codepen.io/) — CodePen是Web前端侧的游乐场.
    * [codesandbox.io](https://codesandbox.io/) —用于React，Vue，Angular，Preact等的在线游乐场.
    * [Eclipse Che](https://www.eclipse.org/che/)  -基于Web和Kubernetes-Native IDE的开发人员团队，具有多语言支持.  开源和社区驱动.  托管版本位于： [che.openshift.io](https://che.openshift.io/)
@@ -804,7 +805,7 @@
 
 ## Docker Related
 
-  * [canister.io](https://canister.io/) —为开发人员提供20个免费的私人存储库，为团队构建和存储Docker映像的30个免费私人存储库
+  * [canister.io](https://canister.io/) —为开发人员提供20个免费的私有存储库，为团队构建和存储Docker映像提供30个免费的私有存储库
   * [Docker Hub](https://hub.docker.com) —一个免费的私有存储库和无限的公共存储库来构建和存储Docker映像
   * [Gitlab](https://gitlab.com)  -每个仓库的注册表.  上限为10GB.
   * [Play with Docker](https://labs.play-with-docker.com/) —一个简单，互动且有趣的游乐场，以学习Docker.

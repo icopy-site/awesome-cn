@@ -8,6 +8,11 @@
 
 
 
+## Quick Start
+
+- [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) -情境意识如何将您的业务推向市场（5:51）.
+- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) -在11个图表中 [Simon Wardley](https://twitter.com/swardley).
+
 ## Community
 
 - [Wardley Mapping Forum](https://community.wardleymaps.com/) -一个讨论与沃德利地图有关的一切的地方.
@@ -15,8 +20,6 @@
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) -沃德利地图社区.
 
 ## Reading
-
-学习Wardley地图的资源.
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) -知识共享书作者： [Simon Wardley](https://twitter.com/swardley).
 - [Mapping Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
@@ -26,6 +29,7 @@
 ## Videos
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) -社区YouTube频道和 [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -由 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
 
 ## Courses
 
@@ -40,7 +44,7 @@
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解最适合开发和交付信息管理系统的方法，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建《 IT战略手册》.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源；  并跨多个NSO启用大数据协作.  下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc).
 - [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
-- [Mapping Maturity](https://maturitymapping.com/) -由Cynefin通知的具有Wardley映射的特定于上下文的成熟度模型.
+- [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315) -由Cynefin通知的具有Wardley映射的特定于上下文的成熟度模型.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所倡导的地图形式相结合.
 
 ## Research Papers
@@ -50,13 +54,20 @@
 
 ## Templates
 
-- [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) -对地图工具的问题空间进行了半认真的思考，然后通过就职典礼营地进行的讨论和共享，对各种地图工具和技术进行了有趣的概述.
+- [Wardley Mapping Tools and Techniques](https://hiredthought.com/2017/10/11/wardley-mapping-tools-and-techniques/) -对制图工具的问题空间进行了半认真的思考，并概述了各种制图工具和技术.
+
+### Mapping
+
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) -动画指导和开源Wardley地图图标集合.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -用于OmniGraffle的Wardley映射模具.
 - [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和11，展示了在LaTeX中绘制沃德利地图的过程.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的操作指南.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -沃德利（Yard）映射调色板.
+
+### Doctrine Assessement
+
+- [Doctrine](https://github.com/cdaniel/doctrine/)  -根据Wardley的学说，可视化公司竞争力的简单工具.  提供托管版本 [here](https://doctrine.wardleymaps.com/).
 - [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) -基于Google表单和Google表格.
 
 ## Apps
@@ -64,7 +75,7 @@
 开源Wardley映射应用程序.
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2)  -开源映射工具.  提供托管版本 [here](https://atlas2.wardleymaps.com/).
-- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) -在线开源映射工具.
+- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具.  提供托管版本 [here](https://onlinewardleymaps.com/).
 
 ## Events
 

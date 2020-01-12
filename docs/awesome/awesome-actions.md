@@ -21,6 +21,7 @@
 - [Official Documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) -GitHub Actions虚拟环境.
+  - [actions/runner](https://github.com/actions/runner) -GitHub Action的亚军.
 - [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
 ### Workflow Examples
@@ -73,6 +74,7 @@
 - [actions/hello-world-javascript-action](https://github.com/actions/hello-world-javascript-action) -演示如何构建JavaScript操作的模板.
 - [actions/javascript-action](https://github.com/actions/javascript-action) -创建一个JavaScript操作.
 - [actions/typescript-action](https://github.com/actions/typescript-action) -创建TypeScript操作.
+- [actions/http-client](https://github.com/actions/http-client) -经过优化的轻量级HTTP客户端，可用于操作，具有泛型的TypeScript和异步等待.
 
 #### Docker Container Actions
 
