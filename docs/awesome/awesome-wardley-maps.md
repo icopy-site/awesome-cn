@@ -22,7 +22,8 @@
 ## Reading
 
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) -知识共享书作者： [Simon Wardley](https://twitter.com/swardley).
-- [Mapping Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
+  - [PDF and .mobi e-book (Kindle) download](https://github.com/andrewharmellaw/wardley-maps-book/releases).
+- [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术的Wiki百科全书.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) -维基百科条目.
 
@@ -67,15 +68,18 @@
 
 ### Doctrine Assessement
 
-- [Doctrine](https://github.com/cdaniel/doctrine/)  -根据Wardley的学说，可视化公司竞争力的简单工具.  提供托管版本 [here](https://doctrine.wardleymaps.com/).
 - [Doctrine Grid Tool](https://justin.stach.uk/doctrine_grid_tool) -基于Google表单和Google表格.
 
 ## Apps
 
-开源Wardley映射应用程序.
+### Mapping
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2)  -开源映射工具.  提供托管版本 [here](https://atlas2.wardleymaps.com/).
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具.  提供托管版本 [here](https://onlinewardleymaps.com/).
+
+### Doctrine Assessement
+
+- [Doctrine](https://github.com/cdaniel/doctrine/)  -根据Wardley的学说，可视化公司竞争力的简单工具.  提供托管版本 [here](https://doctrine.wardleymaps.com/).
 
 ## Events
 
@@ -83,13 +87,21 @@
 
 ## Meetups
 
-- [Wardley Mapping in Belgium](https://www.meetup.com/Wardley-Mapping-In-Belgium/) -比利时境内的IRL聚会
-- [Wardley Mapping in Belgrade, Serbia](https://www.meetup.com/map-meetup-belgrade/) -塞尔维亚贝尔格莱德的IRL聚会
-- [Wardley Mapping in Cologne, Germany](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/) -德国科隆举行的IRL聚会
-- [Wardley Mapping in Hamburg, Germany](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/) -德国汉堡的IRL聚会
-- [Wardley Mapping in Munich, Germany](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/) -德国慕尼黑的IRL聚会
-- [Wardley Mapping in Amsterdam, Netherlands](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/) -荷兰阿姆斯特丹的IRL聚会
-
+-欧洲
+  -比利时
+    - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
+  -德国
+    - [Cologne](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/)
+    - [Hamburg](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/)
+    - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)    
+  -荷兰
+    - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
+  -塞尔维亚
+    - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
+-美国
+  -加利福尼亚
+    - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
+  
 ## Workshops
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) -工作坊规则，卡片和材料.

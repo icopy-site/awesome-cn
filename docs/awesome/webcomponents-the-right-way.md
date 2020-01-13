@@ -61,12 +61,6 @@
 - [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
 - [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) -Chrome平台状态中的功能.
 
-#### Builtin Modules
-
-- [std-switch](https://github.com/tkent-google/std-switch)  -关于“ <std-switch>  HTML元素实现了“ switch”控件.
-- [std-toast](https://github.com/jackbsteinberg/std-toast)  -关于“ <std-toast>  HTML元素实现了“吐司”弹出通知.
-  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/std-toast)
-
 ### Polyfills
 
 #### @webcomponents
@@ -153,6 +147,7 @@
 - [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
 - [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
+- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/)
 
 ## Libraries
 
@@ -197,7 +192,7 @@
 - [AMP HTML](https://github.com/ampproject/amphtml) -Web组件库，用于构建以可靠，快速的性能呈现的网页.
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
-- [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
+- [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Elix](https://github.com/elix/elix) -用于通用用户界面模式的高质量，可定制的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
@@ -205,7 +200,7 @@
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) -灵活，轻量级的Web组件以及构建它们的工具的集合.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -组件库在本地API的基础上提供了企业风味的糖.
 - [Vaadin components](https://github.com/vaadin/vaadin) -用于构建业务Web应用程序的不断发展的高质量Web组件集.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) -手绘，粗略外观的一组通用UI元素.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 
 ## Frameworks
 
@@ -337,53 +332,53 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://twitter.com/ChromiumDev">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1065986962467647489/Qrc3K-jZ_80x80.jpg">
-          <div> Chrome开发人员</div>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://twitter.com/polymer">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1063502058337136640/RmlG_bbW_80x80.jpg">
           <div>聚合物</div>
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/MSEdgeUpdates">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/984976713351356416/YtUr94vb_80x80.jpg">
-          <div>边缘平台更新</div>
+        <a href="https://twitter.com/stenciljs">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1135534552137510914/5ZzvOFFp_80x80.png">
+          <div>模版</div>
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/web_components">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/836671393844572160/eRcwt6Fw_80x80.jpg">
-          <div> Web组件</div>
+        <a href="https://twitter.com/openwc">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1101188623930662912/YKlBD7n6_80x80.png">
+          <div>open-wc.org</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/webcomp_dev">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1169270943371407360/U-90Bxn0_80x80.jpg">
+          <div>webcomponents.dev</div>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://twitter.com/shadow_hayato">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/448411087294046208/Nd6c9fr-_80x80.png">
-          <div>伊藤人</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/rob_dodson">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1031947699019427840/xl6p8ZBu_80x80.jpg">
-          <div>罗伯·道森</div>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/ebidel">
-          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/955031454781616129/JRpZOp1l_80x80.jpg">
-          <div>埃里克·比德尔曼</div>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://twitter.com/justinfagnani">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/378800000808710206/2dbdaa1cb7b0db02f997aea5b40f29b8_80x80.jpeg">
           <div>贾斯汀·法格纳尼（Justin Fagnani） </div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/viljamis">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/671595827740086273/wCUWq-1S_80x80.png">
+          <div>威廉·萨尔米宁</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/JanMiksovsky">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/675000078055051264/u1ZEQfeE_80x80.jpg">
+          <div>扬·米科索夫斯基</div>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/serhiikulykov">
+          <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1028197887329685504/cM6nOHlp_80x80.jpg">
+          <div>谢里·库里科夫（Serhii Kulykov） </div>
         </a>
       </td>
     </tr>

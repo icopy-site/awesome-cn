@@ -17,7 +17,7 @@
 
 &gt; [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应用程序，旨在加载测试功能行为并衡量性能.
 
-这个名单是从 [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和与JMeter相关的个人链接集，从中获得了进一步的启发 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTORS.md).
+这个名单是从 [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和与JMeter相关的个人链接集，从 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTORS.md).
 
 
 
@@ -69,7 +69,7 @@
 ## Scripting
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
-- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) -使用JMeter和Groovy进行负载测试.
+- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 - [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) -JMeter：忘记BeanShell Sampler *（俄语）*.
 
 ## Automation
@@ -93,7 +93,7 @@
 
 - [JMeter Ant Task](https://github.com/jfifield/ant-jmeter) -Ant任务可自动运行JMeter测试计划.
 - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) -Maven插件，可以在构建过程中运行JMeter测试.
-- [Jenkins Performance Plugin](https://wiki.jenkins.io/display/JENKINS/Performance+Plugin) -Jenkins插件可捕获来自JMeter的报告，并生成具有性能和鲁棒性趋势报告的图形图表.
+- [Jenkins Performance Plugin](https://wiki.jenkins.io/display/JENKINS/Performance+Plugin) -Jenkins插件可捕获JMeter的报告并生成具有性能和鲁棒性趋势报告的图形图表.
 - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) -TeamCity插件可以在CI中组织最简单的性能测试*（没有更多更新）*.
 -Bamboo JMeter聚合器插件： [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) -Bamboo插件，用于收集，声明和绘制JMeter测试结果.
 - [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) -收集JMeter性能测试结果并显示在Sonar仪表板*（已弃用）*中的插件.
@@ -234,13 +234,6 @@
 - [UBIK Load Pack](https://ubikloadpack.com/) -Apache JMeter的生产力扩展.
 - [AtlantBH Custom JMeter Components](https://github.com/ATLANTBH/jmeter-components/) -由Atlantbh开发的JMeter扩展集（当前包含在 [JMeter Plugins](https://jmeter-plugins.org/) 项目）.
 
-## IDE Integration
-
-- [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) -从Intellij IDEA创建运行配置并运行JMeter测试.
-- [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) -使用Eclipse IDE开发JMeter项目.
-- [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter) -用于NetBeans IDE的JMeter集成模块.
-- [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
-
 ## Extending JMeter
 
 - [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
@@ -249,6 +242,21 @@
 - [How to create a plugin in JMeter](http://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 - [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
 - [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
+
+## IDE Integration
+
+- [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) -从Intellij IDEA创建运行配置并运行JMeter测试.
+- [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) -使用Eclipse IDE开发JMeter项目.
+- [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter) -用于NetBeans IDE的JMeter集成模块.
+- [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
+
+## Editors
+
+*除标准JMeter GUI和XML编辑器外，还提供JMX文件的替代编辑器.
+
+- [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) -用于JMeter测试计划文件的基于Web的查看器和编辑器（ [JMeter Plugins](https://jmeter-plugins.org/) 项目）.
+- [JMX Enhancer](https://www.jmxenhancer.com/) -加快JMeter测试计划准备的解决方案.
+- [jmx.js](http://www.vinodkd.org/jmx.js/) -JMeter JMX文件的基于Web的编辑器*（没有更多更新）*.
 
 ## JMeter Performance
 
@@ -263,7 +271,7 @@
 
 ## Books
 
-- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](http://books.google.com/books?id=nX8oKIEvUcYC) 通过艾米丽·H·哈利利[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)）-实用的初学者指南，用于您网站的自动测试和性能评估.
+- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](http://books.google.com/books?id=nX8oKIEvUcYC) 由艾米丽·H·哈利利（[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)）-实用的初学者指南，用于您网站的自动测试和性能评估.
 - [Performance Testing with JMeter 2.9](http://books.google.com/books?id=fpWmv3wPT64C) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29)）-使用Apache JMeter测试Web应用程序的指南，以及一些实际的示例.
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition))
@@ -271,7 +279,7 @@
 - [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) 由Sai Matam和Jagdeep Jain（[Leanpub](https://leanpub.com/jmeterbyexample)）-一个简单，实用的分步教程来衡量网站的性能.
 - [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) 由Sai Matam和Jagdeep Jain（[Apress](https://www.apress.com/gp/book/9781484229606))
 - [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/programming/master-apache-jmeter-from-load-testing-to-devops))
-- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)) *(French)*
+- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)）*（法语）*
 - [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) 由Penny Curich（[Leanpub](https://leanpub.com/advanced_jmeter_testing)）-为Apache JMeter 5.0编写自定义组件的指南.
 
 ## Trainings & Courses

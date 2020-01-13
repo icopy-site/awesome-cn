@@ -41,7 +41,7 @@ $ git摘要
  档案：2825
  作者：
  15401年6月C滨野38.0％
-  1844杰夫·金4.5％
+  杰夫·金1844
 ```
 
 ### line-summary
@@ -65,7 +65,7 @@ $ git的努力
 
   .gitattributes ............................... 3 3
   .gitignore ................................... 265 226
-  .mailmap ..................................... 47 40
+  .mailmap .............................................. 47 40
 ```
 
 ### authors
@@ -74,7 +74,7 @@ $ git的努力
 $ git作者
 反对<contra@maricopa.edu>
 埃里克·肖夫斯托尔<contra@wearefractal.com>
-信德·索胡斯（Sindre Sorhus） <sindresorhus@gmail.com>
+信德·索尔胡斯（Sindre Sorhus） <sindresorhus@gmail.com>
 ```
 
 ### changelog
@@ -171,7 +171,7 @@ $ git fresh-branch文档
 
 ```
 $ git guilt`git log --until =“ 3星期前” --format =“％H” -n 1` HEAD
-保罗·史瑞伯（Paul Schreiber）+++++++++++++++++++++++++++++++++++++++++++（349）
+保罗·史瑞伯（Paul Schreiber）+++++++++++++++++++++++++++++++++++++++++++++（349）
 太空漫游者++++++++++++++++++++++++++++++++++++++++++++++（113）
 马克·埃斯勒++++++++++++++++++++++++++++
 ```
@@ -274,7 +274,7 @@ $ git发布0.1.0
  写入对象：100％（1/1），166个字节|  0字节/秒，完成.
 总计1（增量0），重用0（增量0）
 到https://github.com/tj/git-extras.git
- * [新日期] 0.1.0-&gt; 0.1.0
+ * [新标签] 0.1.0-&gt; 0.1.0
 ...完成
 ```
 
@@ -365,7 +365,7 @@ $ git local-commits
 提交5f00a3c1bb71876ebdca059fac96b7185dea5467
 执行：7ad3ef9 841af4e
 作者：Blaine Bublitz <blaine@iceddev.com>
-日期：2015年8月20日星期四11:35:15
+日期：2015年8月20日星期四11:35:15 2015-07-07
 
     Merge pull request #1211 from JimiHFord/patch-1
 
@@ -497,7 +497,7 @@ $ git flow功能启动很棒的功能
 $ git flow功能完成了很棒的功能
 $ git flow功能删除真棒功能
 
-$ git flow功能发布了很棒的功能
+$ git flow feature publish awesome-feature
 $ git flow功能拉远程真棒功能
 ```
 
@@ -534,7 +534,7 @@ $ git起来
 4.0快进...
 上游的变更日志
 掌握快进...
-returning to 4.0
+回到4.0
 ```
 
 
@@ -560,7 +560,7 @@ $ git remote add rtomayko
 &gt; git remote add rtomayko git：//github.com/rtomayko/CURRENT_REPO.git
 
 $ git remote add -p rtomayko
-> git remote add rtomayko git@github.com:rtomayko/CURRENT_REPO.git
+&gt; git remote add rtomayko git@github.com：rtomayko / CURRENT_REPO.git
 
 $ git remote add origin
 &gt; git remote add origin git：//github.com/YOUR_USER/CURRENT_REPO.git
@@ -642,7 +642,7 @@ $ git checkout https://github.com/github/hub/pull/73
 ### merge
 
 ```
-$ git转到https://github.com/github/hub/pull/73
+$去合并https://github.com/github/hub/pull/73
 &gt; git提取git：//github.com/mislav/hub.git + refs / heads / feature：refs / remotes / mislav / feature
 > git merge mislav/feature --no-ff -m 'Merge pull request #73 from mislav/feature...'
 ```
@@ -659,7 +659,7 @@ $ git创建
 
 ```
 $ git init -g
-&gt;进入初始化
+&gt; git初始化
 &gt; git remote add origin git@github.com：YOUR_USER / REPO.git
 ```
 
@@ -750,7 +750,7 @@ $ git imerge start --name = next --goal = merge --first-parent 4.0
 ### imerge merge
 
 ```
-$ git imerge merge 4.0
+$ git浸入4.0
 尝试自动合并1-1 ...成功.
 尝试自动合并1-6 ...成功.
 尝试自动合并1-9 ...成功.
@@ -840,7 +840,7 @@ $ git imerge自动填充
 ### imerge simplify
 
 ```
-简化$ git imerge
+$ git imerge简化
 先前的HEAD位置是4d19598 ... imerge&#39;next&#39;：自动合并20-57
 切换到分支“ next”
 [next 6c308aa]将4.0合并到主服务器（使用imerge）
@@ -897,7 +897,7 @@ $ git问题评论e6a95c9
 ### Add tag to an issue
 
 ```
-$ git问题标签e6a9紧急
+$ git issue tag e6a9 urgent
 已添加紧急标签
 ```
 
@@ -948,14 +948,14 @@ $ git issue git push -u原始主机
 总计60（增量8），重用0（增量0）
 到git@github.com：dspinellis / gi-example.git
  * [新分支]主-&gt;主
-设置了分支母版，以从源头跟踪远程分支母版.
+设置了分支主服务器以从源头跟踪远程分支主服务器.
 ```
 
 ### Clone issues repository from server
 
 ```
 $ git问题克隆git@github.com：dspinellis / gi-example.git my-issues
-Cloning into '.issues'...
+克隆为“ .issues” ...
 远程：计数对象：60个，完成.
 远程：压缩对象：100％（42/42），已完成.
 远程：总计60（增量8），已重复使用60（增量8），已重复使用包装0
@@ -1102,7 +1102,7 @@ $ git lfs跟踪
  更改1个文件，1个插入（+），1个删除（-）
 $ git日志
 提交1bd9ce878a76140f7db95afd9cfd4d7befbc7243
-作者：斯蒂夫·毛<maochenyan@gmail.com>
+作者：史蒂夫·毛<maochenyan@gmail.com>
 日期：2015年8月27日星期四10:39:10 +1000
 
     [从现在开始] 2015/08/27 10:39:10
@@ -1172,7 +1172,7 @@ $ git test -v
 4.0 ^ origin / 4.0 ^ origin / master将测试2次提交
 迭代提交树结果
 0000 57af4b0 f5ef0d8 pass（已缓存）
-0001 10ed389 434370f pass
+0001 10ed389 434370f通过
 ```
 
 
@@ -1199,25 +1199,6 @@ $ git同步
 将提交推送到服务器.
 ```
 
-### resync
-
-```
-$ git重新同步
-切换到主站.
-您的分支比“源/主节点”提前10次提交.
-  （使用“ git push”发布您的本地提交）
-从服务器提取提交.
-已经是最新的.
-切换到主站.
-您的分支比“源/主节点”提前10次提交.
-  （使用“ git push”发布您的本地提交）
-嫁接来自大师.
-已经是最新的.
-从服务器提取提交.
-已经是最新的.
-将提交推送到服务器.
-```
-
 ### switch
 
 ```
@@ -1230,53 +1211,14 @@ HEAD现在位于f0fc4c7合并分支“开发”中
 恢复本地更改.
 在分支机构主管
 您的分支机构的最新信息是“来源/主”.
-未暂存的更改未提交：
+Changes not staged for commit:
    （使用“ git add <file>  ...”以更新将要提交的内容）
    （使用“ git checkout- <file>  ...”以放弃工作目录中的更改）
 
 	修改：package.json
 
 没有添加任何更改来提交（使用“ git add”和/或“ git commit -a”）
-隐藏的存储@@ {0}（86f5dc9066ff9f69c01c77e2f5a55643ad19f8f2）
-```
-
-### sprout
-
-```
-$ git发芽发展
-分支大师发展.
-```
-
-### harvest
-
-```
-$ git Harvest开发
-嫁接来自发展.
-正在更新e4f08f4..64b3563
-Fast-forward
-  package.json |  2 +-
- 更改1个文件，1个插入（+），1个删除（-）
-恢复本地更改.
-在分支机构主管
-您的分支比“源/主”提前1次提交.
-  （使用“ git push”发布您的本地提交）
-无需提交，工作目录干净
-藏匿@@ {0}（7c28b7f5eaf09dd72ec6e1ea440cbd1611e36c7f）
-```
-
-### graft
-
-```
-$ git移植开发
-切换到主站.
-您的分支比“源/主”提前2次提交.
-  （使用“ git push”发布您的本地提交）
-嫁接发展成高手.
-通过“递归”策略进行合并.
-  功能|  0
- 更改1个文件，0个插入（+），0个删除（-）
- 创建模式100644功能
-已删除分支开发（为6a022ba）.
+Dropped stash@{0} (86f5dc9066ff9f69c01c77e2f5a55643ad19f8f2)
 ```
 
 ### publish
@@ -1289,7 +1231,7 @@ $ git发布
 *硕士（未出版）
 找不到分支，使用当前分支母版
 出版大师.
-设置了分支母版，以从源头跟踪远程分支母版.
+设置了分支主服务器以从源头跟踪远程分支主服务器.
 ```
 
 ### unpublish
@@ -1371,14 +1313,14 @@ $ git墨水
     -可行，但不会带来任何收益
 •hbsfy ...................................................... .2015-10-21
 ✓大师................................................ 2015-10-22
-•ads4…………………………………………. 2015-10-22
+•nda-ads4 ...................................................... 2015年10月22日
 •remove-equalize_content_height ........................ 2015-10-21
 •锻炼身体........................................... 2015-10-21
     -需要干燥驱魔功能
     -丑化后无法正确映射
     -需要撤消postCSS映射更改
 •rm-convert_dates-order ................................ 2015-10-22
-•sass-lint .................................... 2015年-10-14
+•ass色带..................................... 2015 -10-14
     -模块不起作用
 ```
 
@@ -1568,7 +1510,7 @@ $ git diff --cached -U0
 diff --git a / README.md b / README.md
 索引0c700d1..7a57cef 100644
 ---一个/README.md
-+++ b/README.md
++++ b / README.md
 @@ -1330 +1330 @@ $ git秘密隐藏
  -做.  全部1个文件被隐藏.
  +完成.  所有3个文件都被隐藏.
@@ -1611,7 +1553,7 @@ Usage:
   $ SCRIPT [-[no-]-fiddle-messages] [args ...]
 
 Options:
-   -[no-] fiddle-messages不编辑提交消息.  对快速编辑很有用
+   -[no-] fiddle-messages不编辑提交消息.  对快速编辑有用
                           创作或约会.  也可以使用
                          `git config fiddle.messages`.
   [args ...]这些参数逐字传递给git-rebase.

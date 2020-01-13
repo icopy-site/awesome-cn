@@ -133,7 +133,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) -Google Cloud Platform插件.
 * [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) -Hetzner Cloud插件.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) -管理healthchecks.io资源的提供者.
-* [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) - Plugin for Helm.
+* [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) -头盔插件.
 * [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) -提供程序来管理您的设置 [Keycloak](https://www.keycloak.org/) 身份提供商服务器.
 * [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) -Kubernetes的插件.
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) -Linode插件.
@@ -144,7 +144,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) -Stripe的提供者.
 * [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) -管理uptimerobot资源的提供商.
 * [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) -通过Terraform加密的HashiCorp Vault机密，可以存储在SCM中，例如Git.
-* [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) -适用于VMware vSphere的插件.
+* [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - Plugin for VMware vSphere.
 * [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) -Dominos Pizza的提供商.
 * [terraform-provider-azuredevops](https://github.com/mikaelkrief/terraform-provider-azuredevops) -Azure DevOps（VSTS）的提供程序.
 * [terraform-provider-snowfake](https://github.com/chanzuckerberg/terraform-provider-snowflake) -Snowflake数据仓库的提供者
@@ -175,6 +175,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [ruby-terraform](https://github.com/infrablocks/ruby_terraform) -用于调用terraform命令的简单Ruby包装器.
 * [scenery](https://github.com/dmlittle/scenery) -另一个Terraform计划输出修饰词.
 * [scratchrelaxtv](https://github.com/YakDriver/scratchrelaxtv) -一个简单的Python工具，可帮助模块开发-从main.tf中提取变量，以生成variables.tf，并从variables.tf中创建模块使用存根.
+* [tads-boilerplate](https://github.com/Thomvaill/tads-boilerplate) -Ansible和Terraform的功能+ Docker Swarm的简单性=基础架构作为Code和DevOps的最佳实践.
 * [tau](https://github.com/avinor/tau) -Tau是terraform之上的瘦包装，用于管理多个部署，依赖项和秘密.
 * [terraboard](https://github.com/camptocamp/terraboard) -Web仪表板以检查Terraform状态.
 * [terraboot](https://github.com/MastodonC/terraboot) -DSL生成Terraform配置并运行它.
@@ -190,9 +191,10 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraformer](https://github.com/GoogleCloudPlatform/terraformer)  -CLI工具，用于从现有基础结构生成terraform文件.  代码基础架构.  支持的提供商很少.
 * [terraforming](https://github.com/dtan4/terraforming)  -将现有的AWS资源导出为Terraform样式（tf，tfstate）.  类似于`terraformer`.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) -Terragrunt是Terraform的薄包装，它支持锁定Terraform状态并执行最佳实践.
-* [terrahelp](https://github.com/opencredo/terrahelp) -旨在提供补充功能的命令行实用程序，在使用Terraform时有时会证明是有用的.
+* [terrahelp](https://github.com/opencredo/terrahelp) -旨在提供补充功能的命令行实用程序，有时在使用Terraform时可能会有用.
 * [terrahub](https://github.com/TerraHubCorp/terrahub)  -TerraHub是Terraform自动化和编排工具.  与企业友好的GUI无缝集成到console.terrahub.io中，以显示实时Terraform执行以及历史Terraform运行的审核和报告功能.
 * [terrascan](https://github.com/cesar-rodriguez/terrascan) -收集用于Terraform模板的静态代码分析的安全性和最佳实践测试
+* [Checkov](https://github.com/bridgecrewio/checkov/) -用于Terraform&gt; = 0.12的Terraform静态分析工具
 * [tfenv](https://github.com/tfutils/tfenv) -受rbenv启发的Terraform版本管理器.
 * [tfjson](https://github.com/palantir/tfjson) -读取Terraform计划文件并将其转储为JSON的实用程序.
 * [tflint](https://github.com/wata727/tflint) -Terraform linter，用于检测“ terraform plan”无法检测到的错误
