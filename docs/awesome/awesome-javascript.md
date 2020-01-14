@@ -120,7 +120,7 @@
 * [spine](https://github.com/spine/spine) -用于构建JavaScript应用程序的轻量级MVC库.
 * [espresso.js](https://github.com/techlayer/espresso.js) -用于制作用户界面的最小JavaScript库.
 * [canjs](https://github.com/canjs/canjs) -可以做JS，更好，更快，更容易.
-* [react](https://facebook.github.io/react/)  -用于构建用户界面的库.  它具有声明性，高效且极为灵活.  与虚拟DOM一起使用.
+* [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 * [hyperapp](https://github.com/hyperapp/hyperapp) -用于构建前端应用程序的1kb JavaScript库.
 * [preact](https://github.com/developit/preact)  -使用相同的ES6 API的快速3kb React替代方案.  组件和虚拟DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) -使用JavaScript构建真正的本机跨平台iOS和Android应用程序.
@@ -183,7 +183,7 @@
 * [d3](https://github.com/d3/d3) -用于HTML和SVG的JavaScript可视化库.
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) -为简洁，有原则的数据图形和布局而优化的库.
 * [three.js](https://github.com/mrdoob/three.js) -JavaScript 3D库.
-* [Chart.js](https://github.com/chartjs/Chart.js)  -使用的简单HTML5图表 <canvas>  标签.
+* [Chart.js](https://github.com/chartjs/Chart.js) -使用&lt;canvas&gt;标记的简单HTML5图表.
 * [paper.js](https://github.com/paperjs/paper.js) -矢量图形脚本的瑞士军刀–使用HTML5 Canvas将Scriptographer移植到JavaScript和浏览器.
 * [fabric.js](https://github.com/kangax/fabric.js) -JavaScript Canvas库，SVG到画布（和canvas到SVG）解析器.
 * [peity](https://github.com/benpickles/peity)  -渐进式 <svg>  条形图，折线图和饼图.
@@ -263,7 +263,7 @@
 * [docco](http://jashkenas.github.io/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn)  建立手册.  它将简单的人类可读文本文件转换为roff以进行终端显示，还转换为HTML以进行网络显示.
-* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为文档生成确定的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
+* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成有目的的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
@@ -280,7 +280,7 @@
 *用于处理文件的库.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) -强大的CSV库，它支持解析CSV文件/字符串以及导出到CSV.
-* [jBinary](https://github.com/jDataView/jBinary) -使用声明性语法描述文件类型和数据结构的二进制文件的高级I / O（加载，解析，操作，序列化，保存）.
+* [jBinary](https://github.com/jDataView/jBinary) -具有声明性语法的二进制文件的高级I / O（加载，解析，操作，序列化，保存），用于描述文件类型和数据结构.
 * [diff2html](https://github.com/rtfpessoa/diff2html) -Git diff输出解析器和漂亮的HTML生成器.
 * [jsPDF](https://github.com/MrRio/jsPDF) -JavaScript PDF生成.
 * [PDF.js](https://github.com/mozilla/pdf.js) -JavaScript中的PDF Reader.
@@ -456,7 +456,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的自以为是的REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) -支持OAuth / API密钥/基本等的通用API客户端.
 
@@ -574,10 +574,10 @@
 * [vegas](https://github.com/jaysalvat/vegas)  -一个jQuery插件，可向您的网页添加漂亮的全屏背景.  它甚至允许幻灯片放映.
 * [Sequence](https://github.com/IanLunn/Sequence) -CSS动画框架，用于创建响应式滑块，演示文稿，横幅和其他基于步骤的应用程序.
 * [reveal.js](https://github.com/hakimel/reveal.js) -使用HTML轻松创建漂亮的演示文稿的框架.
-* [impress.js](https://github.com/impress/impress.js) -这是一个基于CSS3转换和转换功能的演示框架，其灵感来自于prezi.com背后的思想.
+* [impress.js](https://github.com/impress/impress.js) -这是一个基于CSS3转换和转换功能的演示框架，其灵感来自prezi.com背后的思想.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -DIY演示微框架
 * [Strut](https://github.com/tantaman/Strut) -Strut-Impress.js和Bespoke.js演示文稿编辑器
-* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) -适用于移动设备和台式机的JavaScript图片库，模块化，独立于框架.
+* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) -适用于移动和台式机的JavaScript图像库，模块化，框架独立.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) -带有CSS动画的自适应滑块jQuery插件.
 * [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) -使用简单，主题简单，易于定制.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) -带有自适应彩色figcaption和导航的滑块的jQuery插件.
@@ -748,7 +748,7 @@
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media)  -启用 <video>  和 <audio>  所有主要浏览器中的标签. <https://html5media.info/>
- * [Play-em JS](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
+ * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) -用于网络的HTML5视频播放器
  <https://flowplayer.org/>

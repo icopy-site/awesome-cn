@@ -68,6 +68,7 @@
 - [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql) -使用GraphiQL IDE扩展WordPress仪表板.
 - [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) -使用WordPress注册菜单的新路由扩展WordPress JSON REST API.
 - [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) -用于Netlify（和其他平台）上的JAMstack部署的WordPress插件.
+- [Headless Mode](https://wordpress.org/plugins/headless-mode/)  -无头模式为尝试访问该网站的所有用户设置了重定向.  唯一允许访问的请求是试图访问REST API，WP GraphQL API或希望访问无头安装以编辑或创建帖子的登录用户.
 
 
 **显而易见的是，上面的一些插件：**

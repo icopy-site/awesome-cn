@@ -31,8 +31,8 @@
 	2. [News and Resources](#News-and-Resources)   
 	3. [Competition](#Competition)   
 4. [Compilers](#Compilers)   
-	1. [Local](#Local)   
-	2. [Online](#Online)   
+	3. [Open source](#Open-source)   
+	4. [Online](#Online)   
 5. [Editors](#Editors)   
 	1. [Integrated Development Editors](#Integrated-Development-Editor)   
 	2. [Text Modes](#Text-Modes)    
@@ -146,7 +146,7 @@
 - [subreddit-ada](https://www.reddit.com/r/ada/) -在Reddit上.
 - [subreddit-spark](https://www.reddit.com/r/spark/) -踢Reddit.
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) -吉特（Gitter）有一个频道.
-- [telegram-ada](https://t.me/ada_lang) -Telegram有一个小组.
+- [telegram-ada](https://t.me/ada_lang) - Ada group at Telegram.
 - [irc-ada](http://webchat.freenode.net/?channels=%23ada) -IRC上有一个频道.
 
 #### News and Resources
@@ -164,16 +164,32 @@
 
 ## Compilers
 
-#### Local
-- [gnat-ce](https://www.adacore.com/download)  -用于Ada编程语言的Adacore编译器，它构成GNU编译器集合的一部分.  它支持该语言的所有版本，即Ada 2012，Ada 2005，Ada 95和Ada 83.
-- [fsf-gnat](http://www.getadanow.com/)  -适用于Ada编程语言的免费Software Foundation编译器，它属于GNU Compiler Collection.  它支持该语言的所有版本，即Ada 2012，Ada 2005，Ada 95和Ada 83.
+#### Commercial / Closed source
+
 - [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) -编译器支持该语言的Ada 83，Ada 95，Ada 2005和Ada 2012版本的所有主要功能.
 - [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) -PTC ObjectAda是广泛的本机和交叉开发工具以及运行时环境系列.
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) -PTC ApexAda是针对Ada和Ada / C / C ++混合应用程序的业界最受欢迎的开发环境之一.
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) -Green Hills Software为实时目标提供了业界首个经过充分验证的Ada Cross编译器系列.
+- [xgc](http://www.xgc.com/)  -XGC为基于航空航天特定目标（例如MIL1750，ERC32和LEON）的Ada95支持提供了基于GCC的裸机工具链.  以及旧版M68000工具链.
+
+#### Commercial / Open source
+
+- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了一个全面的工具集（IDE，调试器，库，动态和静态分析工具）.
+
+#### Open source
+
+##### GPL (no linking exception)
+
+- [gnat-ce](https://www.adacore.com/download)  -用于Ada编程语言的Adacore编译器，它构成GNU编译器集合的一部分.  它支持该语言的所有版本，即Ada 2012，Ada 2005，Ada 95和Ada 83.
+
+##### GPL (with linking exception)
+
+- [fsf-gnat](http://www.getadanow.com/)  -适用于Ada编程语言的免费Software Foundation编译器，它属于GNU Compiler Collection.  它支持该语言的所有版本，即Ada 2012，Ada 2005，Ada 95和Ada 83.
+
+##### Other / unknown licence 
+
 - [hac](https://github.com/zertovitch/hac) -实验性有一个完整的编译器.
 - [byron](https://github.com/OneWingedShark/Byron) -Byron项目是社区驱动的Ada编译器，工具链和IDE系统.
-- [xgc](http://www.xgc.com/)  -XGC为基于航空航天特定目标（例如MIL1750，ERC32和LEON）的Ada95支持提供了基于GCC的裸机工具链.  以及旧版M68000工具链.
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) -基于CodingGround引擎构建的在线编译器.
@@ -186,7 +202,7 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) -用于Visual Studio 2017的Ada语言集成.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT的全面开发工具
+- [lea](https://github.com/zertovitch/lea) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT之类的全面开发工具
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) -Gnu Emacs主模式，用于编辑Ada源.
@@ -225,6 +241,7 @@
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) -Lovelace致力于使用Ada 2012语言编写类似Unix的操作系统.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) -Ada_KALINDA是一种Mac Plus，类似于以Ada95编写的OS.
 - [cxos](https://github.com/ajxs/cxos) -Ada操作系统开发示例.
+- [havk](https://github.com/RavSS/HAVK) -使用SPARK创建x86-64注重安全性的OS.
 
 ## Games
 - [steamsky](https://thindil.github.io/steamsky) -带有蒸汽朋克装扮的天空中的Roguelike.
@@ -246,7 +263,7 @@
 
 #### Components
 - [simple-components](http://www.dmitry-kazakov.de/ada/components.htm)  -B树，Chebyshev系列，密码术，双链接的网和列表，黑板（无锁），ELV / eQ-3 MAX！  客户端，事件（纯文本，脉冲，数组），GNUTLS绑定，图形（有向，加权，非循环，树），HTTP实现，FIFO（无锁），IEEE 754，进程间通信，MODBUS客户端，MQTT客户端服务器/代理，TCP，互斥对象，对象，ODBC绑定，解析器，持久性对象，持久性存储，池，集合，映射，SMTP客户端，SQLite绑定，堆栈，流，字符串编辑，表（字符串映射），无界数组.
-- [ada-util](https://github.com/stcarrez/ada-util/) -接近Java log4j框架的日志记录框架，支持属性，用于XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始文件，文件，缓冲区，管道，套接字），多个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库位于CURL或AWS.
+- [ada-util](https://github.com/stcarrez/ada-util/) -接近Java log4j框架的日志记录框架，支持属性，XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始文件，文件，缓冲区，管道，套接字），多个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库位于CURL或AWS.
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) -这是GNAT组件集合的核心模块.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) -这是GNAT组件集合的绑定模块.
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) -这是GNAT组件集合的DB模块.
@@ -392,7 +409,7 @@
 - [xia](https://github.com/simonjwright/xia) -XPath 1.0的Ada实现.
 
 #### Format Readers and Writers
-- [ini-files](https://github.com/zertovitch/ini-files) -Ini文件管理器由Config程序包组成，该程序包可以读取和修改来自称为“ ini”文件的各种配置文件中的信息.
+- [ini-files](https://github.com/zertovitch/ini-files) -Ini文件管理器由Config软件包组成，该软件包可以读取和修改来自称为“ ini”文件的各种配置文件的信息.
 - [ada-yaml](https://github.com/yaml/AdaYaml) -Ada中的实验性YAML 1.3实现.
 - [json-ada](https://github.com/onox/json-ada) -用于解析JSON的Ada 2012库.
 - [jwx](https://github.com/Componolit/jwx) -SPARK中经过正式验证的JSON库.
@@ -404,7 +421,7 @@
 - [zip-ada](https://github.com/zertovitch/zip-ada) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
 - [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维条形码，如QR码）.
+- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维二维码，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理，最常见）的访问例程库.
 
@@ -530,7 +547,7 @@
 
 #### Programming Languages
 - [gnat-spitbol](https://www2.adacore.com/gap-static/GNAT_Book/html/rts/g-spipat__ads.htm) -GNAT.SPITBOL是SNOBOL面向文本的编程语言的实现，现已成为GNAT库的一部分.
-- [para-sail](http://parasail-lang.org/)  -ParaSail是一种高度并行的实验语言，类似于Go和Erlang.  它最初是SofCheck（现为AdaCore）所有，它是一个尝试新想法的测试项目.  可扩展指针是即将引入SPARK和Ada的示例功能.  实际上有4种实验语言：ParaSail，Sparkel，Javallel，Parython，它们都共享字节码解释器和LLVM引擎.
+- [para-sail](http://parasail-lang.org/) - ParaSail is a highly parallel experimental language, similar to Go and Erlang. Originaly owned by SofCheck (now AdaCore), it is a test project to try new ideas. Expandable pointers is a sample feature that is about to be introduced to SPARK and Ada. There are in fact 4 experimental languages: ParaSail, Sparkel, Javallel, Parython, all sharing bytecode interpreter and LLVM engine.
 
 #### Misc
 - [dhondt](https://github.com/simonjwright/dhondt) -D&#39;Hondt选举结果计算器的Ada实现.
@@ -570,7 +587,7 @@
 - [ada-lzma](https://github.com/stcarrez/ada-lzma) -liblzma压缩库的Ada绑定.
 - [ada-libsecret](https://github.com/stcarrez/ada-libsecret) -用于libsecret库的Ada绑定.
 - [ada-bfd](https://github.com/stcarrez/ada-bfd)  -Ada BFD是GNU Binutils BFD库的Ada绑定.  它允许使用GNU BFD读取二进制ELF，COFF文件.
-- [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) - Ada binding to the Boehm-Demers-Weiser conservative garbage collector.
+- [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) -将Ada绑定到Boehm-Demers-Weiser保守垃圾收集器.
 - [player-ada](https://github.com/mosteo/player-ada) -播放器机器人平台的Ada绑定.
 - [dl-ada](https://github.com/mosteo/dl-ada) -与libdl的最小绑定.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) -与NanoVG绑定.

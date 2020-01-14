@@ -39,7 +39,7 @@
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/MKDale/techoath) -一种可选的誓言，用于建立符合道德标准的经验.
 - [IoT Design Manifesto](https://www.iotmanifesto.com/) -参与开发物联网的每个人的行为准则
 - [switching.social](https://switching.social/) -流行社交应用程序的道德，易于使用和注重隐私的替代方案.
-- [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
+- [The Critical Engineering Manifesto](https://criticalengineering.org/) -适用于工程态度的批判性思维概念宣言.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) -识别并减轻数字产品对个人和社会的风险.
 - [Fairwork Foundation](https://fair.work/) -致力于制定和衡量标准并在平台经济中提供认证的项目.
 - [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) -基于基本权利和道德原则的可信赖AI系统指南.
@@ -59,7 +59,7 @@
 - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) -精选的尊重隐私的服务和软件列表.
 - [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) -无需Google集成的Chromium，可增强隐私性，控制力和透明度
 - [Signal](https://www.signal.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/signalapp) -Signal是用于与朋友进行简单私人通信的消息传递应用程序.
-- [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) -浏览器扩展程序，可帮助您识别哪些敏感信息（PII）被共享/泄露给第三方.
+- [Local Sheriff](https://github.com/cliqz-oss/local-sheriff) -一个浏览器扩展程序，可帮助您识别哪些敏感信息（PII）被共享/泄露给第三方.
 - [Webbkoll](https://webbkoll.dataskydd.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/andersju/webbkoll) -一种在线工具，用于检查网站在隐私方面的表现.
 - [PrivacyScore](https://privacyscore.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/PrivacyScore/PrivacyScore) -网络隐私测量平台.
 - [ghacks user.js](https://github.com/ghacksuserjs/ghacks-user.js) -用于配置和强化Firefox隐私，安全性和防指纹的user.js模板.
@@ -67,7 +67,7 @@
 - [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) -模拟内容交付网络的浏览器扩展，可改善您的在线隐私.
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) -浏览器扩展，可通过更改User-Agent标头来伪装成另一个浏览器.
 - [Random User-Agent](https://github.com/tarampampam/random-user-agent) -在指定的时间间隔后自动替换User-Agent的浏览器扩展.
-- [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/meh/smart-referer) -浏览器扩展，可在更改域时自动隐藏引用.
+- [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smart-referer/smart-referer/) -浏览器扩展，可在更改域时自动隐藏引用.
 - [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) -浏览器扩展程序，可防止通过Javascript Canvas API进行指纹识别.
 - [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ChrisAntaki/disable-webrtc-firefox) -浏览器扩展程序可禁用WebRTC，以避免从VPN后面泄漏您的IP地址.
 - [Syncthing](https://syncthing.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/syncthing/syncthing/) -取代专有的云服务，以分散多个设备之间的文件同步.
@@ -104,6 +104,7 @@
 - [Shariff](http://heiseonline.github.io/shariff/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/heiseonline/shariff) -使网站用户可以共享自己喜欢的内容，而不会损害其隐私.
 - [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/panzi/SocialSharePrivacy) -jQuery插件，用于添加不允许社交网站跟踪用户的社交共享按钮.
 - [EasyList](https://easylist.to/) -一组规则（最初是为Adblock设计的），可自动从互联网上删除不需要的内容.
+- [TrackMeNot](https://trackmenot.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/vtoubiana/TrackMeNot) -浏览器扩展程序，通过添加干扰和混淆来隐藏您的真实搜索查询.
 
 ## Consent
 
@@ -116,7 +117,7 @@
 
 - [Matomo](http://matomo.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/matomo) -Google Analytics（分析）的领先开放替代方案，可让您完全控制数据.
 - [Fathom](https://usefathom.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/usefathom/fathom) -Google Analytics（分析）的一种更简单，更注重隐私的替代方案.
-- [Fair Analytics](https://github.com/vesparny/fair-analytics) -类似Google Analytics（分析）的服务器，不会破坏用户的隐私.
+- [Fair Analytics](https://github.com/vesparny/fair-analytics) - A Google Analytics-alike server that doesn't undermine user's privacy.
 - [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) -代理服务，用于Google测量协议和客户端替换分析脚本.
 - [GoAccess](https://goaccess.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allinurl/goaccess) -在终端或浏览器中运行的实时Web日志分析器和交互式查看器.
 - [Countly](https://count.ly/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Countly/countly-server) -可自我托管的实时，移动和Web分析，丰富的推送通知和崩溃报告平台.
@@ -128,6 +129,7 @@
 - [Blocklists](https://github.com/jmdugan/blocklists) -人们可能希望使用主机文件阻止的问题域的共享列表.
 - [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist) -社区推荐的垃圾邮件发送者列表.
 - [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/collinbarrett/FilterLists) -广告，跟踪器，恶意软件和烦恼的过滤器和主机列表的目录.
+- [hosts-blocklists](https://github.com/notracking/hosts-blocklists) -专为与dnsmasq一起使用而设计的基于主机和域名的阻止列表.
 
 ## Social networks
 
@@ -147,10 +149,11 @@
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) -Selenium脚本删除您所有的Facebook墙贴.
 - [Minimal Twitter](https://twang.dev/minimal-twitter/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) -新的Twitter UI的最小主题.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) -专注于更好对话的开源评论平台.
+- [Invidious](https://invidio.us) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/omarroth/invidious) -不带广告的YouTube替代前端.
 
 ## Freedom
 
-- [Alternative Internet](https://redecentralize.github.io/alternative-internet/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/redecentralize/alternative-internet) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+- [Alternative Internet](https://redecentralize.github.io/alternative-internet/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/redecentralize/alternative-internet) -一组旨在分散管理的有趣的新网络和技术（以某种形式）.
 - [GlobaLeaks](https://www.globaleaks.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/globaleaks/GlobaLeaks) -旨在实现安全和匿名举报计划的免费和开源软件.
 - [SecureDrop](https://securedrop.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/freedomofpress/securedrop) -举报人提交系统，可与匿名来源安全地进行交互.
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/EdgeDeflector) -强制Windows 10使用首选的Web浏览器而不是Microsoft Edge.
@@ -179,7 +182,7 @@
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) -用于创建和维护良好习惯的Android应用.
 - [If me](http://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) -一个精神健康体验社区，鼓励人们与亲人分享他们的故事.
 - [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hovancik/stretchly) -跨平台应用程序，可提醒您在使用计算机时休息一下.
-- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) -跨平台，可扩展且注重隐私的开源自动时间跟踪器.
+- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) -跨平台，可扩展且注重隐私的自动化时间跟踪器.
 
 ## Mindfulness
 
@@ -190,6 +193,7 @@
 - [Break Timer](https://github.com/tom-james-watson/breaktimer) -一款Chrome / Firefox扩展程序，用于定期休息，防止RSI，眼睛疲劳和疲劳.
 - [MindBell](https://www.dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/udamken/mindbell) -Android的正念铃和冥想计时器.
 - [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/sandoche/Detoxify-app) -生成伪造的应用程序以替换任何令人上瘾的应用程序.
+- [Nudge](https://nudgeware.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/lgwb89/nudge) -一款Chrome扩展程序，可降低互联网的吸引力.
 
 ## Happiness
 
@@ -212,7 +216,7 @@
 - [Awful AI](https://github.com/daviddao/awful-ai) -精选列表，用于跟踪当前对AI的可怕使用-希望提高人们的知名度.
 - [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/lightbeam-we) -附加组件，可实时显示第一方和第三方站点之间的Web请求.
 - [OpenWPM](https://webtap.princeton.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/openwpm) -Princeton Web透明度和问责制项目，一个隐私度量框架.
-- [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) -检查您的电子邮件提供商和客户端是否受到许多已知跟踪技术的保护.
+- [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - Check your email provider and client protection against many known tracking techniques.
 - [Browser Autofill Phishing](https://github.com/anttiviljami/browser-autofill-phishing) -演示对用户隐藏的自动填充表单域的网络钓鱼.
 - [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/propublica/facebook-political-ads) -浏览器扩展，可帮助ProPublica在Facebook上收集政治广告.
 - [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/WhoTargetsMe/Who-Targets-Me) -一个浏览器扩展程序，用于跟踪哪些实体针对的是带有广告的受众特征.

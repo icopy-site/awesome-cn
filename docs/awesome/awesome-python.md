@@ -101,7 +101,7 @@
 ## CMS
 
 
-* [django-cms](https://www.django-cms.org/en/) - An Open source enterprise CMS based on the Django.
+* [django-cms](https://www.django-cms.org/en/) -基于Django的开源企业CMS.
 * [Kotti](https://github.com/Kotti/Kotti) -基于Pyramid的高级Pythonic Web应用程序框架.
 * [plone](https://plone.org/) -在开源应用程序服务器Zope之上构建的CMS.
 * [quokka](https://github.com/rochacbruno/quokka) -由Flask和MongoDB支持的灵活，可扩展的小型CMS.
@@ -145,6 +145,7 @@
     * [yapf](https://github.com/google/yapf) -另一个来自Google的Python代码格式化程序.
 *静态类型检查器，另请参见 [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
     * [mypy](http://mypy-lang.org/) -在编译期间检查变量类型.
+    * [typeshed](https://github.com/python/typeshed) -具有静态类型的Python库存根的集合.
     * [pyre-check](https://github.com/facebook/pyre-check) -性能类型检查.
 *静态类型注释生成器
     * [MonkeyType](https://github.com/Instagram/MonkeyType) -用于Python的系统，通过收集运行时类型生成静态类型注释
@@ -157,11 +158,10 @@
     * [cement](http://builtoncement.com/) -适用于Python的CLI应用程序框架.
     * [click](http://click.pocoo.org/dev/) -用于以可组合方式创建漂亮的命令行界面的软件包.
     * [cliff](https://docs.openstack.org/developer/cliff/) -用于使用多级命令创建命令行程序的框架.
-    * [clint](https://github.com/kennethreitz/clint) -Python命令行应用程序工具.
     * [docopt](http://docopt.org/) -Pythonic命令行参数解析器.
     * [python-fire](https://github.com/google/python-fire) -用于从几乎任何Python对象创建命令行界面的库.
     * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) -用于构建功能强大的交互式命令行的库.
-*终端渲染
+* Terminal Rendering
     * [asciimatics](https://github.com/peterbrittain/asciimatics) -一个用于创建全屏文本UI（从交互式表单到ASCII动画）的软件包.
     * [bashplotlib](https://github.com/glamp/bashplotlib) -在终端上进行基本绘图.
     * [colorama](https://pypi.org/project/colorama/) -跨平台的彩色终端文本.
@@ -247,7 +247,7 @@
 
 * [Cerberus](https://github.com/pyeve/cerberus) -轻巧且可扩展的数据验证库.
 * [colander](https://docs.pylonsproject.org/projects/colander/en/latest/) -验证和反序列化通过XML，JSON和HTML表单发布获得的数据.
-* [jsonschema](https://github.com/Julian/jsonschema) -的实现 [JSON Schema](http://json-schema.org/) for Python.
+* [jsonschema](https://github.com/Julian/jsonschema) -的实现 [JSON Schema](http://json-schema.org/) 适用于Python.
 * [schema](https://github.com/keleshev/schema) -用于验证Python数据结构的库.
 * [Schematics](https://github.com/schematics/schematics) -数据结构验证.
 * [valideer](https://github.com/podio/valideer) -轻量级可扩展数据验证和适配库.
@@ -258,14 +258,14 @@
  *用于可视化数据的库.  另见 [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization).*
 
 * [Altair](https://github.com/altair-viz/altair) -用于Python的声明性统计可视化库.
-* [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
+* [Bokeh](https://github.com/bokeh/bokeh) -用于Python的交互式Web绘图.
 * [bqplot](https://github.com/bloomberg/bqplot) -Jupyter Notebook的交互式绘图库
 * [Dash](https://plot.ly/products/dash/) -建立在Flask，React和Plotly之上，旨在用于分析Web应用程序.
     * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 * [plotnine](https://github.com/has2k1/plotnine) -基于ggplot2的Python图形语法.
 * [Matplotlib](http://matplotlib.org/) -Python 2D绘图库.
 * [Pygal](http://www.pygal.org/en/latest/) -Python SVG Charts Creator.
-* [PyGraphviz](https://pypi.org/project/pygraphviz/) -Python接口 [Graphviz](http://www.graphviz.org/).
+* [PyGraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
 * [PyQtGraph](http://www.pyqtgraph.org/) -交互式和实时2D / 3D /图像绘制以及科学/工程部件.
 * [Seaborn](https://github.com/mwaskom/seaborn) -使用Matplotlib可视化统计数据.
 * [VisPy](https://github.com/vispy/vispy) -基于OpenGL的高性能科学可视化.
@@ -313,7 +313,7 @@
 * [PyTime](https://github.com/shinux/PyTime) -一个易于使用的Python模块，旨在按字符串操作日期/时间/日期时间.
 * [pytz](https://launchpad.net/pytz)  -世界时区定义，现代和历史.  带来 [tz database](https://en.wikipedia.org/wiki/Tz_database) 进入Python.
 * [when.py](https://github.com/dirn/When.py) -提供用户友好的功能，以帮助执行常见的日期和时间操作.
-* [maya](https://github.com/kennethreitz/maya) -人类的约会时间.
+* [maya](https://github.com/timofurrer/maya) -人类的约会时间.
 
 ## Debugging Tools
 
@@ -439,7 +439,7 @@
     * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) -出色的自动完成库Jedi的Sublime Text插件.
 *我来了
     * [jedi-vim](https://github.com/davidhalter/jedi-vim) -用于Python的Jedi自动完成库的Vim绑定.
-    * [python-mode](https://github.com/python-mode/python-mode) - An all in one plugin for turning Vim into a Python IDE.
+    * [python-mode](https://github.com/python-mode/python-mode) -用于将Vim转换为Python IDE的多合一插件.
     * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) -包括 [Jedi](https://github.com/davidhalter/jedi)基于Python的完成引擎.
 * 视觉工作室
     * [PTVS](https://github.com/Microsoft/PTVS) -适用于Visual Studio的Python工具.
@@ -453,15 +453,15 @@
 
 *用于发送和解析电子邮件的库.
 
-* [envelopes](http://tomekwojcik.github.io/envelopes/) -为人类邮寄.
-* [flanker](https://github.com/mailgun/flanker) -电子邮件地址和Mime解析库.
-* [imbox](https://github.com/martinrusev/imbox) -适用于人类的Python IMAP.
-* [inbox.py](https://github.com/kennethreitz/inbox.py) -适用于人类的Python SMTP服务器.
-* [lamson](https://github.com/zedshaw/lamson) -Pythonic SMTP应用服务器.
-* [Marrow Mailer](https://github.com/marrow/mailer) -高性能可扩展邮件传递框架.
-* [modoboa](https://github.com/modoboa/modoboa) -邮件托管和管理平台，包括现代和简化的Web UI.
-* [Nylas Sync Engine](https://github.com/nylas/sync-engine) -在功能强大的电子邮件同步平台之上提供RESTful API.
-* [yagmail](https://github.com/kootenpv/yagmail) -另一个Gmail / SMTP客户端.
+*邮件服务器
+    * [modoboa](https://github.com/modoboa/modoboa) -包含现代Web UI的邮件托管和管理平台.
+    * [salmon](https://github.com/moggers87/salmon) -Python邮件服务器.
+*客户
+    * [imbox](https://github.com/martinrusev/imbox) -适用于人类的Python IMAP.
+    * [yagmail](https://github.com/kootenpv/yagmail) -另一个Gmail / SMTP客户端.
+* 其他
+    * [flanker](https://github.com/mailgun/flanker) -电子邮件地址和Mime解析库.
+    * [mailer](https://github.com/marrow/mailer) -高性能可扩展邮件传递框架.
 
 ## Environment Management
 
@@ -584,10 +584,10 @@
 
 *使用HTTP的库.*
 
-* [grequests](https://github.com/kennethreitz/grequests) -请求+ gevent用于异步HTTP请求.
+* [grequests](https://github.com/spyoungtech/grequests) -请求+ gevent用于异步HTTP请求.
 * [httplib2](https://github.com/httplib2/httplib2) -全面的HTTP客户端库.
-* [requests](https://requests.kennethreitz.org/en/master/) -人类的HTTP请求.
-* [treq](https://github.com/twisted/treq) -Python要求，例如在Twisted的HTTP客户端之上构建的API.
+* [requests](https://github.com/psf/requests) -人类的HTTP请求.
+* [treq](https://github.com/twisted/treq) -像Twisted的HTTP客户端一样构建的API之类的Python请求.
 * [urllib3](https://github.com/shazow/urllib3) -具有线程安全连接池的HTTP库，支持文件发布，健全.
 
 ## Hardware
@@ -719,7 +719,7 @@
     * [nltk](http://www.nltk.org/) -用于构建Python程序以使用人类语言数据的领先平台.
     * [pattern](https://github.com/clips/pattern) -用于Python的网络挖掘模块.
     * [polyglot](https://github.com/aboSamoor/polyglot) -支持数百种语言的自然语言管道.
-    * [pytext](https://github.com/facebookresearch/pytext) -基于PyTorch的自然语言建模框架.
+    * [pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
     * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) -一个工具包，可用于研究的快速深度学习NLP原型.
     * [spacy](https://spacy.io/) -使用Python和Cython进行工业强度自然语言处理的库.
     * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) -Stanford NLP Group的官方Python库，支持50多种语言.
@@ -788,7 +788,7 @@
 *允许或拒绝用户访问数据或功能的图书馆.*
 
 * [django-guardian](https://github.com/django-guardian/django-guardian) -为Django 1.2+实现每个对象的权限
-* [django-rules](https://github.com/dfunckt/django-rules) -一个微型但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
+* [django-rules](https://github.com/dfunckt/django-rules) -一个小巧但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
 
 ## Processes
 
@@ -910,11 +910,11 @@
 *用于解析和处理特定文本格式的库.
 
 * 一般
-    * [tablib](https://github.com/kennethreitz/tablib) -XLS，CSV，JSON，YAML中的表格数据集模块.
+    * [tablib](https://github.com/jazzband/tablib) -XLS，CSV，JSON，YAML中的表格数据集模块.
 *办公室
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) -用于读取和写入Excel 2010 xlsx / xlsm / xltx / xltm文件的库.
     * [pyexcel](https://github.com/pyexcel/pyexcel) -提供一个用于读取，操作和写入csv，ods，xls，xlsx和xlsm文件的API.
-    * [python-docx](https://github.com/python-openxml/python-docx) -读取，查询和修改Microsoft Word 2007/2008 docx文件.
+    * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
     * [python-pptx](https://github.com/scanny/python-pptx) -用于创建和更新PowerPoint（.pptx）文件的Python库.
     * [unoconv](https://github.com/unoconv/unoconv) -在LibreOffice / OpenOffice支持的任何文档格式之间转换.
     * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) -用于创建Excel .xlsx文件的Python模块.
@@ -1082,7 +1082,7 @@
 
 * [html2text](https://github.com/Alir3z4/html2text) -将HTML转换为Markdown格式的文本.
 * [python-readability](https://github.com/buriy/python-readability) -arc90的可读性工具的快速Python端口.
-* [requests-html](https://github.com/kennethreitz/requests-html) -人类的Pythonic HTML解析.
+* [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans.
 * [sumy](https://github.com/miso-belica/sumy) -用于自动汇总文本文档和HTML页面的模块.
 * [textract](https://github.com/deanmalmgren/textract) -从任何文档，Word，PowerPoint，PDF等中提取文本.
 * [toapi](https://github.com/gaojiuli/toapi) -每个网站都提供API.
@@ -1125,7 +1125,7 @@
 
 ## WSGI Servers
 
-*WSGI-compatible web servers.*
+*与WSGI兼容的Web服务器.
 
 * [bjoern](https://github.com/jonashaag/bjoern) -异步，非常快，用C编写.
 * [gunicorn](https://github.com/benoitc/gunicorn) -预分支，部分用C编写.
@@ -1135,7 +1135,7 @@
 
 ## Resources
 
-在哪里发现新的Python库.
+Where to discover new Python libraries.
 
 ## Podcasts
 

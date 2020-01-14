@@ -47,6 +47,7 @@
 
 ### Games
 
+* [Circuit Breaker](https://martinsstewart.gitlab.io/hackman/) -Elm中的WebGL游戏- [Source](https://gitlab.com/MartinSStewart/hackman/)
 * [Elm Joust](https://github.com/stefankreitmayer/elm-joust) -用Elm编写的两人格斗游戏.
 * [First Person Elm](https://github.com/jeffcole/first-person-elm) -使用WebGL和浏览器API端口进行3D第一人称导航的演示
 * [Vessel](https://github.com/slawrence/vessel) -用Elm编写的“隧道”游戏！
@@ -158,7 +159,6 @@
 ### Video tutorials
 
 * [Egghead.io: Elm videos](https://egghead.io/technologies/elm) -Egghead的Elm视频培训，其中许多是免费的.
-* [jadams's training videos](https://www.dailydrip.com/topics/elm) -一口精巧的Elm培训视频系列，其中许多都是免费的.
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) -将Elm作为一种通用编程语言，遍历所有语法和基本思想.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) -在youtube上实时编码视频.
 
@@ -191,26 +191,6 @@
 * [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) -重温榆树.
 * [Full Stack Radio 44](http://www.fullstackradio.com/44)  -榆树到底是什么？  在这一集中，乔尔·克莱蒙（Joel Clermont）讨论了榆木和函数式编程.
 * [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - Richard Feldman discusses how Elm compares to React.js
-
-
-## Libraries
-
-您可以在以下位置找到数百种高质量的包装：
-
-* [Elm packages](https://package.elm-lang.org/) -官方注册表
-* [Elm Package Catalog](https://korban.net/elm/catalog) -在按类别组织的目录中查找软件包. 
-* [Elm finder](https://www.elmfinder.org/) -用于Elm项目的可重用库和工具的目录
-* [Elm Search](http://klaftertief.github.io/elm-search/) -在Elm文档中搜索操作符，功能签名等.
-
-以下是一些值得注意的：
-
-* [core](https://github.com/elm/core) -榆木核心图书馆.
-* [html](https://github.com/elm/html) -基于“虚拟DOM”的思想，在Elm中使用HTML.
-* [elm-test](https://github.com/elm-explorations/test) -Elm的单元测试框架.
-* [http](https://github.com/elm/http) -在Elm中发出HTTP请求.
-* [elm-ui](https://github.com/mdgriffith/elm-ui) -Elm中的UI库.
-* [elm-css](https://github.com/rtfeldman/elm-css) -Elm中的CSS.
-* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) -生成代码以建立对GraphQL API的保证正确，类型安全的API请求.
 
 
 ## Testing
@@ -316,6 +296,25 @@
 * [elm-package](https://github.com/elm-lang/elm-package) -共享Elm库的命令行工具.
 
 
+## Libraries
+
+您可以在以下位置找到数百种高质量的包装：
+
+* [Elm packages](https://package.elm-lang.org/) -官方注册表
+* [Elm Package Catalog](https://korban.net/elm/catalog) -在按类别组织的目录中查找软件包. 
+* [Elm finder](https://www.elmfinder.org/) -用于Elm项目的可重用库和工具的目录
+* [Elm Search](http://klaftertief.github.io/elm-search/) -在Elm文档中搜索操作符，功能签名等.
+
+以下是一些值得注意的：
+
+* [core](https://github.com/elm/core) -榆木核心图书馆.
+* [html](https://github.com/elm/html) -基于“虚拟DOM”的思想，在Elm中使用HTML.
+* [elm-test](https://github.com/elm-explorations/test) -Elm的单元测试框架.
+* [http](https://github.com/elm/http) -在Elm中发出HTTP请求.
+* [elm-ui](https://github.com/mdgriffith/elm-ui) -Elm中的UI库.
+* [elm-css](https://github.com/rtfeldman/elm-css) -Elm中的CSS.
+* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) -生成代码以建立对GraphQL API的保证正确，类型安全的API请求.
+
 
 ## Boilerplates
 
@@ -338,6 +337,11 @@
 * [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) -一个非常基本的榆木+ webpack 4模板.
 
 
+## Frameworks
+
+*为Elm带来框架方法的项目（脚手架，路线生成等）*
+
+- [elm-spa](https://www.elm-spa.dev/) -单页应用变得简单
 
 ## Community and Support
 

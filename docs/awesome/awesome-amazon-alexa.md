@@ -96,7 +96,7 @@
 - [alexa-against-humanity](https://github.com/radiantnode/alexa-against-humanity) -要求Alexa从“反人类卡片”中随机选择白卡或黑卡.
 - [echo-venmo](https://github.com/AbhiAgarwal/echo-venmo) -Venmo的Amazon Echo技能.
 - [Uber-Alexa-Skill](https://github.com/objectiveSee/Uber-Alexa-Skill) -调用Uber的Alexa技能.
-- [npmAlexa](https://github.com/stevengill/npmAlexa) -Alexa应用正在ping NPM API.
+- [npmAlexa](https://github.com/stevengill/npmAlexa) -Alexa应用程序可ping NPM API.
 - [1minuteMindfullnessSkill](https://github.com/unitygirl/1minuteMindfullnessSkill) -Alexa技能的技能代码：1分钟正念.
 - [codeword-alexa-skill](https://github.com/asimihsan/codeword-alexa-skill) -使用Alexa生成代码字.
 - [alexa-league](https://github.com/amphy/alexa-league) -暴动API的Alexa技能.
@@ -141,7 +141,7 @@
 ## Analytics
 
 - [Dashbot](https://www.dashbot.io/alexa) -适用于Amazon Alexa的可行分析.
-- [Opearlo](http://www.opearlo.com) -Opearlo是一家语音设计公司，提供Alexa技能设计和开发以及Opearlo Analytics（分析Alexa技能使用的平台）.
+- [Opearlo](http://www.opearlo.com) -Opearlo是一家语音设计公司，提供Alexa技能设计和开发，以及Opearlo Analytics（分析Alexa技能使用的平台）.
 - [Alpine.ai](http://alpine.ai) -Alpine是语音体验分析的先驱，并且是Alexa技能使用最广泛的产品分析服务.
 - [WitLingo](http://www.witlingo.com) -Witlingo是一家SaaS产品公司，它使技能开发人员可以访问分析，诊断和发现工具，以帮助他们提高技能.
 
@@ -178,7 +178,7 @@
 
 ## Blogs
 
-- [Love My Echo](http://lovemyecho.com/) -Love My Echo是致力于亚马逊Echo的第一个面向消费者的网站：它的用途，作用以及如何从中获得最大收益.
+- [Love My Echo](http://lovemyecho.com/) -Love My Echo是致力于Amazon Echo的第一个面向消费者的网站：它的用途，作用以及如何从中获得最大收益.
 - [VoiceBot](https://www.voicebot.ai/) -有关语音行业和Amazon Alexa的主要新闻来源之一.
 - [Jargon Blog](https://jargon.com/blog/) -Jargon Blog每周发布有关语音101和产品新闻的更新
 
@@ -213,7 +213,7 @@
 ## Courses
 
 - [Introduction to Voice Design with Amazon's Alexa](https://www.udemy.com/amazonalexa/) -Alexa语音设计简介.
-- [Cakewalk - Build an engaging Alexa Skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk) -从零开始建立认证的Alexa技能，直至获得认证.
+- [Cakewalk - Build an engaging Alexa Skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk) -从头开始建立合格的Alexa技能，直至获得认证.
 ## Communities
 
 - [Unofficial Alexa Slack](http://www.alexaslack.com)  -一组聊天频道，重点关注支持Amazon Alexa的硬件和软件.  欢迎开发人员，设计师，营销人员，商人，业余爱好者，学生和其他参与技术的专业人员.

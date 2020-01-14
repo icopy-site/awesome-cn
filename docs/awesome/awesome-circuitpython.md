@@ -25,7 +25,7 @@
 
 ## Community
 
-- [Adafruit CircuitPython Discord channel #CircuitPython](https://discord.gg/EAeBY6x) -CircuitPython上的24/7聊天和支持，包括每周播客.
+- [Adafruit CircuitPython Discord channel #CircuitPython](https://discord.gg/adafruit) -CircuitPython上的24/7聊天和支持，包括每周播客.
 - [Python on Hardware weekly VideoCast](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)  -硬件上Python的奇妙世界.  有关Python和电子产品的视频新闻播客.
 - [CircuitPython Weekly Meeting](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0) -从2017年9月开始，通过Discord进行的每周一次社区会议的视频存档.
 - [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60) -关于CircuitPython的Adafruit论坛.
@@ -54,7 +54,7 @@
 
 ## Frameworks
 
-- [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - 也 [video](https://youtu.be/NYpcjDBA6xw)， 开发中. 
+- [Glider: An app for editing Python on mobile devices wirelessly](https://github.com/adafruit/glider) - 亦是 [video](https://youtu.be/NYpcjDBA6xw)， 开发中. 
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) -推荐用于CircuitPython的Python编辑器.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) -Mu的文档.
 - [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) -讨论过程的博客文章.
@@ -73,7 +73,7 @@
 - [Nordic Semiconductor](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840) -nRF52840 DK板 [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html)，nRF52840加密狗 [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
 - [Particle](https://www.particle.io/) -粒子氩，粒子硼，粒子氙.
 - [Benjamin Shockley](https://www.minisam.cc/product-category/development-board/) -迷你SAM M4.
-- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) -PewPew，μGame.
+- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) -  PewPew，μGame.
 - [SparkFun](https://www.sparkfun.com/) -SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Mini，SparkFun SAMD21 Dev，SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Dev，SparkFun RedBoard Turbo，SparkFun LumiDrive， [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423).
 - [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) -羽毛M0超大号，小饰品M0 Haxpress.
 - [Max Holliday](https://github.com/RoboticExplorationLab/sprite) -KickSat Sprite，SAM32.
@@ -108,14 +108,14 @@
  - [Learn Hardware Programming with CircuitPython](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=blog_home) -Codecademy与Adafruit合作提供的课程.
  - [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) -CircuitPython在Texas Instruments计算器上运行.
 - [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
-- [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) -IEEE Spectrum杂志针对制造商的Python编程语言的文章.
+- [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) -IEEE Spectrum杂志上有关针对制造商的Python编程语言的文章.
 - [Circuit Playground Express 4-H edition approved](https://blog.adafruit.com/2019/03/18/adafruit-circuit-playground-express-4-h-edition-approved-adafruit-4h-4h-4hgrowshere/) -4-H品牌版本已获得美国农业部（USDA）的认可，这是首款同时获得4-H批准的CircuitPython供电板！
 - [CircuitPython in Space](https://blog.adafruit.com/2019/03/17/circuitpython-in-space-pythonaut-circuitpython-adafruit-maholli404-zacinaction-smallsat-kicksat/)  -_CircuitPython提供了一种通过硬件进行科学处理的容易接近且合乎逻辑的方法.  结合在太空中工作的低成本硬件，我们可以使新一代质疑和探索未知事物.  有了必要的“卫星资料”，学生们就可以花时间去尝试新的东西，而不必重新发明wheel_.
 - [Adafruit PyPortal: GUI meets CircuitPython in a Big Way](https://anchor.fm/disruptityourself/episodes/Adafruit-PyPortal-GUI-meets-CircuitPython-in-a-Big-Way-e3g745) -在CircuitPython和IoT设备PyPortal上扰乱自己的播客.
 - [Cool Tools](https://youtu.be/Kz4C7sCLWb0) -Sophy Wong谈到Circuit Playground Express，包括CircuitPython.
 - [CircuitPython for Rapid Microcontroller-Based Prototyping and Development](https://www.digikey.com/en/articles/techzone/2019/mar/the-basics-of-circuitpython-for-rapid-microcontroller-based-prototyping-and-development) -Digi-Key致力于开源社区努力调整特定的微控制器和开发板，以支持使用CircuitPython进行认真的微控制器开发.
 - [HackSpace Magazine - Issue 17](https://hackspace.raspberrypi.org/features/adafruit-grand-central-m4-express-review) -CircuitPython支持的Adafruut Grand Central M4 Express评估.
-- [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230)  由Liz Clark-Apress.  CircuitPython（MicroPython的一个分支，从根本上设计成对初学者友好.）这使最终用户可以将Python用于其电子硬件项目，就像他们可能在Arduino IDE中使用C / C ++一样.
+- [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230)  由Liz Clark-Apress.  CircuitPython（MicroPython的一个分支，从根本上设计成对初学者友好.）这使最终用户可以将Python用于其电子硬件项目，类似于他们将C / C ++与Arduino IDE一起使用的方式.
 - [Method's Magazine](http://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) -《方法电子杂志：设计趋势与万物的转换》在硬件上使用Python，第35页- [PDF](http://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) -CircuitPython通过专题文章和项目在HackSpace Magazine上进行封面报道.
 - [CircuitPython in 2019](https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/) -社区征集2019年CircuitPython的需求.
@@ -182,7 +182,7 @@
 - [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) -通过开源，热情和指导改变生活，凯特妮·雷姆博尔（Kattni Rembor）在Pyohio 2019上的主题演讲
 - [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) - CircuitPython: Python on hardware by Dave Astels at PyCon Canada
 - [Lighting Macro Photographs with CircuitPython](https://youtu.be/JAgCZ70Q3sg) -使用PyCon Australia的Stacy Morse用CircuitPython照明宏观照片 
-- [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) -FOSSASIA峰会上的Ayan Pahwa着的使用MicroPython和CircuitPython的每个人的嵌入式编程
+- [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) -在FOSSASIA峰会上由Ayan Pahwa编写的适用于使用MicroPython和CircuitPython的所有人的嵌入式编程
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) -澳大利亚PyCon的Damien George编写了快速高效的MicroPython
 
 ## Contributing

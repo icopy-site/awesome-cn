@@ -19,13 +19,10 @@
 ## Plugins
 
 - [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) -为表单元素添加更好的默认样式.
-- [benface's transitions](https://github.com/benface/tailwindcss-transitions) -添加带有或不带有CSS变量的可配置过渡实用程序.
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) -通过CSS变量和`prefers-color-scheme`添加了强大的主题功能.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) -添加`text-indent`实用程序.
-- [Transforms](https://github.com/benface/tailwindcss-transforms) -添加`transform`实用程序.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) -添加了“图像渲染”实用程序.
 - [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) -扩展`cursor`工具.
-- [Grid](https://github.com/chrisrowe/tailwindcss-grid) -添加CSS网格实用程序.
 - [Filters](https://github.com/benface/tailwindcss-filters) -添加`filter`实用程序.
 - [Spinner](https://github.com/aniftyco/tailwindcss-spinner) -添加了一个微调器实用程序.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) -添加 [Material UI `elevation`](https://material.io/design/environment/elevation.html) 实用程序.
@@ -52,8 +49,6 @@
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) -根据Bootstrap的表添加表实用程序.
 - [Typography](https://github.com/benface/tailwindcss-typography) -添加排版工具.
 - [Card](https://github.com/NathanHeffley/tailwindcss-card) -添加卡组件.
-- [webdna's transitions](https://github.com/webdna/tailwindcss-transition) -添加了可配置的过渡实用程序.
-- [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) -添加了基本的转换实用程序.
 - [Triangle After](https://github.com/chrisrowe/tailwindcss-triangle-after) -添加了CSS三角形实用程序.
 - [Scrims](https://github.com/brettgullan/tailwindcss-scrims) -添加稀松布实用程序.
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) -将颜色配置导出到CSS自定义属性.
@@ -76,6 +71,13 @@
 -  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) -添加了屏幕阅读器实用程序.
 -  [Layout](https://github.com/benface/tailwindcss-layout) -添加了一些布局实用程序.
 -  [Important](https://github.com/chasegiunta/tailwindcss-important) -添加了一个“重要”变体.
+-  [Grid](https://github.com/chrisrowe/tailwindcss-grid) -添加CSS网格实用程序.
+-  [Transforms](https://github.com/benface/tailwindcss-transforms) -添加`transform`实用程序.
+-  [benface's transitions](https://github.com/benface/tailwindcss-transitions) -添加带有或不带有CSS变量的可配置过渡实用程序.
+-  [webdna's transitions](https://github.com/webdna/tailwindcss-transition) -添加了可配置的过渡实用程序.
+-  [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) -添加了基本的转换实用程序.
+
+
 
 ## UI Libraries & Components
 
@@ -287,6 +289,8 @@
 - [Dance of Dawn](https://www.danceofdawn.com/)
 - [MOODZ Travel Gallery](https://moodz.yakovleva.dev/)
 - [Laravel Livewire](https://laravel-livewire.com/)
+- [Valohai](https://valohai.com)
+- [GitInLog](https://www.gitinlog.com/)
 
 ## Contribute
 

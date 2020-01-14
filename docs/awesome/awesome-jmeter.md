@@ -69,7 +69,7 @@
 ## Scripting
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
-- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
+- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) -使用JMeter和Groovy进行负载测试.
 - [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) -JMeter：忘记BeanShell Sampler *（俄语）*.
 
 ## Automation
@@ -152,7 +152,7 @@
 - [Tricentis Flood](http://flood.io/) -带有JMeter，Gatling和Selenium方案支持的负载测试服务.
 - [RedLine13](http://redline13.com/) -基于AWS的负载测试服务，支持JMeter，Gatling和Selenium方案.
 - [HP StormRunner Load](https://saas.hpe.com/en-us/software/stormrunner-load) -惠普基于云的解决方案，用于Web和移动性能测试，并具有JMeter和Gatling支持.
-- [Loadster](http://www.loadsterperformance.com/) -用于分发Web应用程序和服务的负载测试的解决方案.
+- [Loadster](http://www.loadsterperformance.com/) - Solution for distributes load testing of web applications and services.
 - [Loadium](https://www.loadium.com/) -具有JMeter和Selenium支持的基于AWS的负载测试服务.
 
 ## Results Processing
@@ -271,16 +271,16 @@
 
 ## Books
 
-- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](http://books.google.com/books?id=nX8oKIEvUcYC) 由艾米丽·H·哈利利（[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)）-实用的初学者指南，用于您网站的自动测试和性能评估.
-- [Performance Testing with JMeter 2.9](http://books.google.com/books?id=fpWmv3wPT64C) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29)）-使用Apache JMeter测试Web应用程序的指南，以及一些实际的示例.
-- [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
-- [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition))
-- [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) 由Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook)）-70个有见地和实用的食谱，可帮助成功使用Apache JMeter.
-- [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) 由Sai Matam和Jagdeep Jain（[Leanpub](https://leanpub.com/jmeterbyexample)）-一个简单，实用的分步教程来衡量网站的性能.
-- [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) 由Sai Matam和Jagdeep Jain（[Apress](https://www.apress.com/gp/book/9781484229606))
-- [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/programming/master-apache-jmeter-from-load-testing-to-devops))
-- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)）*（法语）*
-- [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) 由Penny Curich（[Leanpub](https://leanpub.com/advanced_jmeter_testing)）-为Apache JMeter 5.0编写自定义组件的指南.
+- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](http://books.google.com/books?id=nX8oKIEvUcYC) -艾米丽·H·哈利利（[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)).
+- [Performance Testing with JMeter 2.9](http://books.google.com/books?id=fpWmv3wPT64C) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29) ）;  如何使用Apache JMeter来测试Web应用程序的指南，以及实际的示例.
+- [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition)).
+- [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition)).
+- [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook) ）;  70个有见地和实用的食谱，可帮助成功使用Apache JMeter.
+- [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) -通过Sai Matam和Jagdeep Jain（[Leanpub](https://leanpub.com/jmeterbyexample) ）;  一个简单，实用的分步教程来衡量网站的性能.
+- [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) -通过Sai Matam和Jagdeep Jain（[Apress](https://www.apress.com/gp/book/9781484229606)).
+- [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) -作者：安东尼奥·戈麦斯·罗德里格斯，布鲁诺·德米翁（Milamber）和菲利普·莫瓦（Philippe Mouawad）（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/programming/master-apache-jmeter-from-load-testing-to-devops)).
+- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) -作者：安东尼奥·戈麦斯·罗德里格斯，布鲁诺·德米翁（Milamber）和菲利普·莫瓦（Philippe Mouawad）（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)）*（法语）*.
+- [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) -潘妮·库里奇（Penny Curich（[Leanpub](https://leanpub.com/advanced_jmeter_testing)），指导编写针对Apache JMeter 5.0的自定义组件.
 
 ## Trainings & Courses
 

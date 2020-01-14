@@ -105,7 +105,6 @@
 
 - [Cloudant](https://cloudant.com/) -分布式数据库即服务（DBaaS）.
 - [Smileupps](https://www.smileupps.com/) -CouchDB托管.
-- [IrisCouch](http://www.iriscouch.com/) -Cloud CouchDB.
 - [Bitnami Launchpad for Google Cloud Platform](https://bitnami.com/stack/couchdb/cloud/google) -在Google Cloud Platform上托管CouchDB.
 
 

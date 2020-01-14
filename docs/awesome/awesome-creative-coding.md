@@ -33,7 +33,7 @@
 - [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/) -关于射线追踪的迷你书.
 - [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook) -指导您使用实用且有用的配方探索“加工”环境.
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) -视觉传达的创意编码.
-- [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) - Learn how to use modern techniques to generate synthetic three-dimensional images in a fraction of a second.
+- [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) -了解如何使用现代技术在不到一秒钟的时间内生成合成三维图像.
 - [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) -概述着色器编程，但主要关注GLSL着色语言.
 - [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -使用OpenGL启动3d编程的实用指南.
 - [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) -教JavaScript程序员如何将真实的物理方法融入其HTML5游戏，动画和模拟中.
@@ -113,6 +113,7 @@
 - [Isadora](https://troikatronix.com) [跨平台]-具有集成投影映射器的基于场景的媒体控制软件.
 - [cables](https://cables.gl)  [跨平台/ Web]-用于创建漂亮的交互式内容的模型套件.  当前处于私人Beta版，可以请求邀请.
 - [Notch Builder](https://www.notch.one)  [Win]-基于节点的创作工具，重点关注实时图形.  目前处于测试阶段.
+- [Synopsis](https://synopsis.video/) -一套用于计算摄影的开源软件.
 
 ### Sound Programming Languages
 
@@ -229,13 +230,13 @@
 ### Talks
 
 - [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) -使用three.js简介WebGL.
-- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) -收录ÍñigoQuílez提供的实时编码视频.
+- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) -ÍñigoQuílez收集现场编码视频.
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -Bruno Imbrizi在WebExpo 2016上通过画布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) -滑过 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者工作室.
-- [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
+- [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - Beginners tutorial series about creating 3D games OpenG.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
-- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
+- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -史蒂文·维滕斯（Steven Wittens）谈论WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -Matt DesLauriers的FITC谈谈他对艺术创作的热情.
 
@@ -334,7 +335,7 @@
 
 - [Shaderific GLSL](http://www.shaderific.com/glsl/) -OpenGL ES着色语言参考.
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) -按主题划分的着色器词汇表.
-- [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) -OpenGL 3D编程术语表.
+- [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) - OpenGL 3D programming glossary.
 - [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) -快速直观的画布备忘单.
 - [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) -WebGL 1.0 API参考卡.
 - [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) -有关计算机图形学的术语表.
@@ -389,7 +390,7 @@
 - [Math snippets](https://github.com/terkelg/math) -考虑图形编程的数学摘要.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) -数学绘画原理.
 - [Learning Maths again](https://github.com/silviopaganini/maths) -JS和GLSL数学摘要的集合.
-- [Eases](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
+- [Eases](https://github.com/mattdesl/eases) -模块化缓和方程的抓包.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) -不同运动方程的可视化.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) -矩阵乘法可视化.
 - [Algebra rules](http://algebrarules.com/) -基本代数最有用的规则.
@@ -406,7 +407,7 @@
 - [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) -介绍2D和3D Perlin噪声.
 - [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) -矩阵的高级介绍.
 - [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) -所有数学符号和符号的列表.
-- [The magnificent 2d matrix](http://ncase.me/matrix/) - Interactive tool to better understand transformation matrices.
+- [The magnificent 2d matrix](http://ncase.me/matrix/) -交互式工具，可以更好地理解变换矩阵.
 - [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) -用于运动的JavaScript数学片段.
 - [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) -适用于2D和3D游戏制作者的数学备忘单.
 - [Tiny 3D](https://cantelope.org/tiny_3D/) -在2D画布上最小的透视引擎.
@@ -476,7 +477,7 @@
 - [GROW](https://www.grow.paris/) -GROW是创意编码人员的巴黎聚会地，旨在为数字创作开辟新的可能性.
   
 ## Museums • Galleries
-- [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -ZKM组织有关媒体，数字化和全球化影响的展览和活动.
+- [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -  ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
 - [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) -未来博物馆-一个展示和处理各种艺术流派，科学领域和技术指导的地方.
 - [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) -Technorama允许动手体验数百种自然现象和技术.
 
