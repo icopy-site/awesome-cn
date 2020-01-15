@@ -22,8 +22,10 @@
 ---
 
 ## Tools
+
 - [n98-magerun2](http://magerun.net/) -Magento 2的CLI瑞士军刀.
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) -轻松将官方的Magento 2搜索整合到您的Alfred工作流程中.
+- [VSCode Magento Dev Search](https://github.com/rafaelstz/VSCode-Magento-DevSearch) -更快地搜索Magento DevDocs和Magento StackExchange.
 - [Tablerates Generator](https://elgentos.nl/tablerates/) -使用在线工具生成Tablerate.
 - [Pestle](https://github.com/astorm/pestle) -Alan Storm的代码生成工具.
 - [Mage2Gen](https://mage2gen.com/) -在线模块创建者.
@@ -35,18 +37,25 @@
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) -官方的Magento 1到Magento 2迁移工具
 - [Quickorder](https://github.com/popesites/Magento-Quickorder) -通过输入SKU和数量启用批量订单创建.
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) -在管理面板中运行cron的概述.
-- [QuickDevBar](https://github.com/vpietri/magento2-developer-quickdevbar) Magento2的开发人员工具栏 
+- [QuickDevBar](https://github.com/vpietri/magento2-developer-quickdevbar) Magento2的开发人员工具栏
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发人员工具栏
 - [mage2.docker](https://github.com/aliuosio/mage2.docker) -具有安装程序的Magento 2的基本Docker容器（更新：2019年11月27日）
-- [markshust/docker-magento](https://github.com/markshust/docker-magento) -Mark Shust的Magento Docker配置
+- [markshust/docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for Magento
 - [Warden](https://github.com/davidalger/warden) -CLI工具，用于通过docker-compose环境工作 [David Alger](https://davidalger.com/)
+- [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) -帮助脚本，通过检测覆盖来帮助升级magento 2网站.
+- [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) -官方的PhpStorm Magento2扩展程序.
+- [PhpInsights](https://github.com/nunomaduro/phpinsights) -PHP质量检查（带有Magento2预设）
+- [nuzil/magento-postman](https://github.com/nuzil/magento-postman) -Magento2的邮递员收藏
+- [Tango](https://github.com/roma-glushko/tango) -用于分析访问日志的CLI
+- [Masquerade](https://github.com/elgentos/masquerade) -Faker驱动，基于配置，与平台无关，与语言环境兼容的数据伪造工具
+- [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) -Chrome扩展程序，可为vaimo / composer-patches创建可复制复制的作曲家补丁定义.
 
 ## Open Source Extensions
 
 ### Development Utilities
 
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) -基于CLI的配置管理.
-- [Codesniffer](https://github.com/magento-ecg/coding-standard) -Magento 2 Codesniffer.
+- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) -PHP_CodeSniffer的官方Magento2高级规则集.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) -Magento 2中酷儿童的PHP例外.
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) -替换bin / magento缓存的速度更快：由Vinai Kopp用文件观察器清理]（https://twitter.com/vinaikopp）
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) -Magento 2开发人员工具栏.
@@ -69,6 +78,8 @@
 - [Painless Magento 2](https://github.com/ChacunSonSite/painless-magento2) -已准备好进行开发或生产的dockerized magento 2社区环境.
 - [Magento 2 Debug](https://github.com/clawrock/magento2-debug) -用于调试Magento 2性能问题的探查器.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) -通用Magento数据的Prometheus导出器.
+- [Baler](https://github.com/magento/baler) -Magento2现成的JS捆绑的智能替代品.
+- [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) -在Magento GraphQL API上启用可配置的CORS标头.
 
 ### Deployment
 
@@ -78,9 +89,9 @@
 - [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) -Magento2部署配方 [deployer](https://deployer.org/).
 - [Magento 2 Deployer Plus](https://github.com/jalogut/magento2-deployer-plus) -基于deployer.org的工具，用于执行Magento 2项目的零停机时间部署.
 - [Painless Magento 2](https://github.com/ChacunSonSite/painless-magento2) -已准备好进行开发或生产的dockerized magento 2社区环境.
+- [Github Actions for Magento2](https://github.com/extdn/github-actions-m2) -Magento 2扩展的GitHub操作
 
-
-### Language Packages
+### Localization
 
 - [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru) ：ru：-俄语语言包.
 - [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) ：de：-德语语言包.
@@ -100,16 +111,17 @@
 - [sk_SK](https://github.com/mageplaza/magento-2-slovak-language-pack)  -斯洛伐克语言包.
 - [sl_SI](https://github.com/symfony-si/magento2-sl-si)  -斯洛文尼亚语言包.
 - [en_GB](https://github.com/cubewebsites/magento2-language-en-gb) ：gb：-英国语言包.
+- [Japanese Localization](https://marketplace.magento.com/community-engineering-japan-common.html)  -Magento 2与日语语言环境的兼容性+完整的日语翻译
 
 ### Catalog & Checkout
 
 - [Donation Product Module](https://github.com/experius/Magento-2-Module-Experius-DonationProduct) -整合捐赠给慈善机构.
 - [Clean Checkout](https://github.com/danslo/CleanCheckout) -减少了Magento 2 Checkout选项.
 
-
 ### Search
 
 - [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) -Algolia Search（SaaS）集成.
+- [elastic/app-search-magento](https://github.com/elastic/app-search-magento) -将Elastic App Search集成到Magento2中的第一方模块.
 - [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) -弹性套件集成.
 - [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) -Magento 2 ImportExport功能包装器，可从阵列导入产品和客户.
 
@@ -149,31 +161,42 @@
 - [EmailCatcher / Logger](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher)  -将Magento发送的所有电子邮件保存在数据库中.  添加一个可以查看它们的网格.
 - [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) -将Magento 2配置为使用Google App，Gmail，亚马逊简单电子邮件服务（SES），Microsoft Office365和其他SMTP服务器发送所有交易电子邮件.
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) -使用bin / magento通过设置客户密码 [Vinai Kopp](https://github.com/Vinai/).
-- [Admin Auto Login](https://github.com/rogyar/magento2-autologin) -自动登录Magento 2管理员，对演示非常有用
+- [Admin Auto Login](https://github.com/rogyar/magento2-autologin) -自动登录Magento 2管理员，对于演示非常有用
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) -快速轻松地将现有来宾结帐客户转换为注册客户.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) -重置UI书签允许管理员用户重置其自己的UI书签，例如过滤器的状态，列位置和应用的排序（例如Sales&gt; Orders）.
 - [CLean Admin Menu](https://github.com/redchamps/clean-admin-menu) -将第三方扩展合并到单个菜单.
+- [auroraextensions/simplereturns](https://github.com/auroraextensions/simplereturns) -Magento2的自助RMA.
 
-### Security 
+### Security
 
 - [Secure Password Hashing](https://bitbucket.org/creaminternet/module-securepasswords) -改进了Magento 2的密码哈希处理.
 - [2FA](https://github.com/magespecialist/m2-MSP_TwoFactorAuth) -Magento 2的两要素认证.
 - [Maleware Scanner](https://github.com/gwillem/magento-malware-scanner) -检测Magento恶意软件的规则和示例的集合.
 
 ### Payment Service Provider
+
 - [PAYONE](https://github.com/PAYONE-GmbH/magento-2) -PAYONE付款整合.
 - [Stripe](https://github.com/pmclain/module-stripe) -Magento 2的条纹付款.
 - [Square](https://squareup.com/help/us/en/article/5989-magento-and-square) -Magento 2的方形付款.
+- [Wirecard](https://github.com/wirecard/magento2-ee) -Wirecard Magento 2扩展.
+- [Braintree Payments](https://marketplace.magento.com/paypal-module-braintree.html) -Magento2的官方Braintree集成.
+- [Authorize.net Payments](https://marketplace.magento.com/authorizenet-magento-module-authorizenet.html) -Magento2的官方Authorize.net集成.
+- [CyberSource Global Payment Management](https://marketplace.magento.com/cybersource-global-payment-management.html) -Magento2的官方Cyber​​Source集成.
+- [eWay Payments](https://marketplace.magento.com/eway-eway-rapid-magento2.html) -Magento2的官方eWay集成.
+- [Payment Requests for Magento2](https://github.com/Imagination-Media/magento2-payment-request) -Magento 2的付款请求API.
+- [LiqPay](https://github.com/mcspronko/liqpay-magento2) -Magento 2的LiqPay集成扩展
 
 ### Infrastructure
 
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) -Magento 2快速集成.
 - [Docker Magento 2](https://github.com/fballiano/docker-magento2) -Magento2 +清漆+ PHP7 + Redis + SSL（群集可用）.
+- [Ethan3600/magento2-CronjobManager](https://github.com/Ethan3600/magento2-CronjobManager) -Magento 2的Cron职位经理.
+- [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) -Magento 2 Ngrok集成
+- [renatocason/magento2-module-mq](https://github.com/renatocason/magento2-module-mq) -Magento2 Community Edition的消息队列的轻量级实现
 
 ### Mobile Application
 
 - [Magento React Native](https://github.com/troublediehard/magento-react-native) -用于Magento 2的React Native移动应用程序模板
-
 
 ---
 
@@ -215,6 +238,7 @@
 - [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
 
 #### Company Blogs
+
 - [Atwix](https://www.atwix.com/blog/)
 - [Classy Llama](https://www.classyllama.com/blog)
 - [dev98](https://dev98.de/)
@@ -229,6 +253,7 @@
 - [Rocket Web](https://rocketweb.com/blog)
 
 #### Other
+
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) -每月发展通讯.
 - [MageTalk: A Magento Community Podcast](http://magetalk.com/) -社区播客 [Kalen Jordan](https://commercehero.io/kalenjordan) 和 [Phillip Jackson](https://commercehero.io/philwinkle).
 - [Magento 2 Architecture](https://github.com/magento/architecture) -Magento建筑讨论发生的地方.
@@ -236,6 +261,7 @@
 ---
 
 ### Learning
+
 - [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl)
 - [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC)
 - [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b)
@@ -244,6 +270,10 @@
 - [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) -免费的YouTube系列，用于学习Magento 2.
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
 - [Mage2.tv](https://www.mage2.tv) -Vinai Kopp的Magento 2开发人员截屏
+- [magento-notes/magento2-exam-notes](https://github.com/magento-notes/magento2-exam-notes) -Magento 2认证的专业开发人员考试的备考说明
+- [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) -Magento 2认证的专业云开发人员考试的备考说明
+- [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) -Magento 2认证的专业Developer Plus考试的备考说明
+- [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) -Magento 2认证的专业前端开发人员考试资源
 
 ---
 
@@ -338,7 +368,7 @@
 
 ---
 
-Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs!
+Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) 收集所有语言包！
 
 ---
 

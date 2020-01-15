@@ -176,6 +176,8 @@
 - [Action to lint Awesome lists](https://github.com/squadcastHQ/awesome-lint-action) -用途 [awesome-lint](https://github.com/sindresorhus/awesome-lint) 将出色列表作为动作.
 - [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
+- [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
+- [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) -在给定分支前缀和可选语义版本的情况下剪切发行分支.
 
 ### Testing and Linting
 
@@ -227,7 +229,8 @@
 - [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
 - [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
 - [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
-- [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter) 
+- [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter)
+- [Run dotenv-linter, with reviewdog output on the PR](https://github.com/mgrachev/action-dotenv-linter)
 - [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action)
 - [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
 

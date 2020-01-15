@@ -93,6 +93,7 @@
 *  [Moving to Vulkan (Khronos UK May16)](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
 *  [jhenriques's tutorial](http://jhenriques.net/development.html)
 *  [Lunarg's tutorial](https://vulkan.lunarg.com/doc/sdk/1.0.26.0/windows/tutorial.html)
+*  [Mike Bailey's Vulkan Page](http://web.engr.oregonstate.edu/~mjb/vulkan/)  -提供丰富的Vulkan课程幻灯片.  [CC BY-NC-ND 4.0]
 *  [Qualcomm Video Tutorial Series](https://developer.qualcomm.com/software/adreno-gpu-sdk/tutorial-videos) -更加倾向于Vulkan移动设备.
 *  [Raw Vulkan](https://alain.xyz/blog/raw-vulkan) -有关如何从头开始编写Vulkan应用程序的概述.
 * Siggraph
@@ -103,7 +104,7 @@
 *  [Vulkan Demos and Tutorials](https://github.com/Z80Fan/VulkanDemos) ，  [MIT]
 
 ## Apps
-*  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
+*  [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) -由Croteam撰写.
 *  [Dota2](https://github.com/ValveSoftware/Dota-2-Vulkan/) -通过阀门.
 *  [Basemark](https://www.basemark.com/blog/basemark-extends-its-benchmarking-lead-with-a-vulkan-performance-test/) -通过Basemark.
 *  [GFXBench 5](https://kishonti.net/news_single.jsp?id=31133884) -Kishonti.
@@ -140,17 +141,17 @@ drm/kms.
 *  [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) -Vulkan和D3D12渲染器的单头实现.
 *  [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)  -有关实时透明性的硕士论文的基于Vulkan的简单渲染器.  [CC BY-SA 4.0]
 *  [Vulkan-Hpp Samples](https://github.com/jherico/Vulkan) -Sascha Willems的叉子使用Vulkan-Hpp的Vulkan优秀示例.
-*  [SDF Font Demo](https://github.com/kocsis1david/font-demo)  -通过估计符号距离在Vulkan中进行文本渲染.  [麻省理工学院]
+*  [SDF Font Demo](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. [MIT]
 *  [vulkantoy](https://github.com/jpystynen/vulkantoy)  -带有火山的Shadertoy图像着色器测试应用程序.  [MIT]
 *  [GL_vs_VK](https://github.com/RippeR37/GL_vs_VK)  -在性能方面比较OpenGL和Vulkan API.  [麻省理工学院]
 *  [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) -收集使用Magma库编写的简单图形样本.
 *  [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON) ，  [MIT]
 *  [RadX](https://github.com/world8th/RadX) -在GPU上进行基数排序的专用示例（特别是在NVIDIA RTX上）.
-*  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) -使用Vulkan和NVIDIA的RTX扩展实现Peter Shirley的《在一个周末进行光线追踪》一书.
+*  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) -使用Vulkan和NVIDIA的RTX扩展实现Peter Shirley的《光线追踪在一个周末》一书.
 *  [Gears VK](https://github.com/jeffboody/gearsvk)  -Gears VK是著名的“齿轮”演示程序到Vulkan / Android / Linux的重大修改端口.  [麻省理工学院]
 
 ## Libraries
-*  [Acid](https://github.com/Equilibrium-Games/Acid)  -高速C ++ 17 Vulkan游戏引擎.  [麻省理工]
+*  [Acid](https://github.com/Equilibrium-Games/Acid)  -高速C ++ 17 Vulkan游戏引擎.  [麻省理工学院]
 *  [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) -与跨平台，图形API无关的“自带引擎/框架”样式渲染库. [[BSD-2-clause](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
 *  [bsf](https://github.com/GameFoundry/bsf)  -用于实时图形应用程序开发的现代C ++ 14库.  [麻省理工学院]
 *  [Cinder](https://github.com/cinder/Cinder) 和 [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007) .  [BSD]
@@ -161,17 +162,17 @@ drm/kms.
 *  [PowerVR SDK](https://github.com/powervr-graphics/Native_SDK) -C ++跨平台3D图形SDK，可加快Vulkan和GLES的开发. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
 *  [glfw](https://github.com/glfw/glfw) 和 [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/LICENSE.md)]
 *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/)  -在iOS和macOS上运行Vulkan.  [Apache-2.0]
-*  [imgui](https://github.com/ocornut/imgui)  -立即模式图形用户界面.  [麻省理工]
+*  [imgui](https://github.com/ocornut/imgui)  -立即模式图形用户界面.  [麻省理工学院]
 *  [vuh](https://github.com/Glavnokoman/vuh)  -基于Vulkan的C ++ GPGPU计算框架.  [麻省理工学院]
 *  [liblava](https://github.com/liblava/liblava)  -一个现代的C ++和易于使用的框架.  [麻省理工学院]
 *  [libvc](https://github.com/alexhultman/libvc) -适用于C ++的Vulkan Compute.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 *  [AMD's Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) -Vulkan的跨平台框架. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
     * [Introductory Vulkan sample](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan) ，  [MIT]
 *  [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)  -易于集成AMD的Vulkan内存分配库.  [麻省理工学院]
-*  [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ)  -面向专业工作站ISV的Vulkan API的轻量级中间件层.  [麻省理工]
+*  [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ)  -面向专业工作站ISV的Vulkan API的轻量级中间件层.  [麻省理工学院]
 *  [Google's vulkan-cpp-library](https://github.com/google/vulkan-cpp-library)  -使用C ++ 11的Vulkan抽象库，用于内存，资源管理，类型和线程安全以及系统独立性.  [Apache]
 *  [Vookoo](https://github.com/andy-thomason/Vookoo)  -Vookoo是一组无依赖实用程序，可帮助构建和更新Vulkan图形数据结构.  [麻省理工学院]
-*  [vpp](https://github.com/nyorain/vpp)  -现代C ++ Vulkan抽象关注于性能和简单的界面.  [麻省理工]
+*  [vpp](https://github.com/nyorain/vpp)  -现代C ++ Vulkan抽象关注于性能和简单的界面.  [麻省理工学院]
 *  [Intrinsic Engine](https://github.com/begla/Intrinsic)  -Intrinsic是基于Vulkan的跨平台图形和游戏引擎.  [Apache许可2.0]
 *  [glo / OpenGL Overload](https://github.com/g-truc/glo) -在Vulkan之上的OpenGL实现.
 *  [Skia](https://skia.googlesource.com/skia) -Google的2D图形库有一个 [Vulkan](https://skia.org/user/special/vulkan) [backend](https://github.com/google/skia/tree/master/src/gpu/vk)，以跨平台演示 [sample application](https://skia.org/user/sample/viewer) 有自己 [window library](https://github.com/google/skia/tree/master/tools/viewer) .  [BSD 3句] [website](https://skia.org)
@@ -219,13 +220,13 @@ drm/kms.
 ## Tools
 *  [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
 *  [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers)  -来自KhronosGroup.  [Apache许可2.0]
-*  [renderdoc](https://github.com/baldurk/renderdoc)  -by baldurk，一种独立的图形调试工具.  [麻省理工]
+*  [renderdoc](https://github.com/baldurk/renderdoc)  -by baldurk，一种独立的图形调试工具.  [麻省理工学院]
     * [RDCtoVkCpp](https://github.com/azhirnov/RDCtoVkCpp)  -将RenderDoc Vulkan捕获转换为可编译和可执行的C ++代码.  [麻省理工学院]
 *  [VulkanTools](https://github.com/LunarG/VulkanTools)  -LunarG的工具，包括图层，“ vktrace”和“ vkreplay”.  [Apache许可2.0]
 *  [CodeXL](https://github.com/GPUOpen-Tools/CodeXL)  -CodeXL开源.  [麻省理工学院]
 *  [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
 *  [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) -包括可轻松跟踪图形性能问题的Arm图形分析器和Arm Streamline性能分析器，以提供整个系统的性能视图，从而快速确定CPU和GPU上的瓶颈.
-*  [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT)  -为D3D11，D3D12和Vulkan提供FPS覆盖和性能测量.  [麻省理工]
+*  [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT)  -为D3D11，D3D12和Vulkan提供FPS覆盖和性能测量.  [麻省理工学院]
 *  [gapid](https://github.com/google/gapid)  -图形API调试器，可以跟踪和重播Android OpenGL ES和Vulkan应用程序.  [Apache许可2.0]
 *  [Arm - PerfDoc](https://github.com/ARM-software/perfdoc)  -针对Mali Application Developer最佳做法文档的验证层.  [麻省理工学院]
 

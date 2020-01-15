@@ -28,7 +28,7 @@ _处理应用程序的构建周期和依赖关系的工具.
 - [Apache Maven](https://maven.apache.org)  -声明式构建和依赖项管理，相对于配置更倾向于约定.  它可能比Apache Ant更可取，后者使用一种相当程序性的方法并且可能难以维护.
 - [Bazel](https://bazel.io) -Google提供的工具，可快速可靠地构建代码.
 - [Buck](https://github.com/facebook/buck) -鼓励创建由代码和资源组成的小型可重用模块.
-- [Gradle](https://gradle.org)  -通过Groovy编程的增量构建，而不是声明XML.  与Maven的依赖项管理配合良好.
+- [Gradle](https://gradle.org) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
 ### Bytecode Manipulation
 
@@ -193,7 +193,7 @@ _高效而具体的数据结构.
 
 - [Apache Avro](https://avro.apache.org) -数据交换格式，具有动态类型，未加标签的数据以及缺少手动分配的ID.
 - [Apache Orc](https://orc.apache.org) - Fast and efficient columnar storage format for Hadoop-based workloads.
-- [Apache Parquet](https://parquet.apache.org) - Columnar storage format based on assembly algorithms from Google's paper on Dremel.
+- [Apache Parquet](https://parquet.apache.org) -基于Google关于Dremel的论文中的汇编算法的列式存储格式.
 - [Apache Thrift](https://thrift.apache.org) -源自Facebook的数据交换格式.
 - [Big Queue](https://github.com/bulldog2011/bigqueue) -基于内存映射文件的大型，快速且持久的队列.
 - [HyperMinHash-java](https://github.com/LiveRamp/HyperMinHash-java) -用于计算对数日志空间中的并集，交集和集合基数的概率数据结构.
@@ -220,7 +220,7 @@ _有助于实现 [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_
 - [Dagger2](https://google.github.io/dagger) -无反射的编译时注入框架.
 - [Feather](https://github.com/zsoltherpai/feather) -符合JSR-330的超轻量级依赖注入库.
 - [Governator](https://github.com/Netflix/governator) -扩展了Google Guice的扩展程序和实用程序.
-- [Guice](https://github.com/google/guice) -轻巧且自以为是的框架，完善了Dagger.
+- [Guice](https://github.com/google/guice) -完善Dagger的轻量级，自以为是的框架.
 - [HK2](https://javaee.github.io/hk2) -轻量级和动态依赖注入框架.
 - [JayWire](https://github.com/vanillasource/jaywire)  -轻量级依赖注入框架.  （仅限LGPL-3.0）
 
@@ -489,6 +489,7 @@ _提供用于从数据中学习的特定统计算法的工具._
 - [JSAT](https://github.com/EdwardRaff/JSAT)  -用于预处理，分类，回归和聚类的算法，并支持多线程执行.  （仅限GPL-3.0）
 - [Oryx 2](https://github.com/OryxProject/oryx)  -用于构建实时，大规模机器学习应用程序的框架.  包括用于协同过滤，分类，回归和集群化的端到端应用程序.
 - [Smile](https://haifengl.github.io/smile) -统计机器智能和学习引擎提供了一组机器学习算法和可视化库.
+- [Synapses](https://mrdimosthenis.github.io/Synapses) -用于神经网络的轻量级库.
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka)  -收集用于从预处理到可视化的数据挖掘任务的算法.  （仅限GPL-3.0）
 
 ### Messaging
@@ -532,7 +533,7 @@ _其他一切_
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) -用于Maven的Gradle Wrapper的类比，允许在不安装maven的情况下构建项目.
 - [Membrane Service Proxy](https://github.com/membrane/service-proxy) -用Java编写的开源反向代理框架.
 - [MinimalFTP](https://github.com/Guichaguri/MinimalFTP) -轻巧，小型且可自定义的FTP服务器.
-- [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial) - Popular Java 8 guide.
+- [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial) -流行的Java 8指南.
 - [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin) -检测旧版Java API的使用.
 - [Multi-OS Engine](https://multi-os-engine.org) -开源，跨平台引擎，用于开发本机移动（iOS，Android等）应用程序.
 - [OpenRefine](http://openrefine.org) -处理混乱数据的工具：清理，转换，使用Web服务扩展它并将其链接到数据库.
@@ -543,6 +544,7 @@ _其他一切_
 - [TypeTools](https://github.com/jhalterman/typetools) -解决泛型类型的工具.
 - [XMLBeam](https://github.com/SvenEwald/xmlbeam) -通过在代码中使用注释或XPath处理XML.
 - [OctoLinker](https://github.com/OctoLinker/browser-extension) -浏览器扩展，可更有效地浏览GitHub上的代码.
+- [yGuard](https://github.com/yWorks/yGuard) -通过重命名和缩小进行混淆.
 
 ### Microservice
 
@@ -688,7 +690,7 @@ _框架是包含多个类别的多个库的套件.
 - [Compress](http://commons.apache.org/proper/commons-compress) -定义用于处理tar，zip和bzip2文件的API.
 - [Configuration](http://commons.apache.org/proper/commons-configuration) -读取各种格式的配置/首选项文件.
 - [Convert](http://commons.apache.org/sandbox/commons-convert) -Commons-Convert旨在提供一个单一的库，专门用于将一种类型的对象转换为另一种类型的对象.
-- [CSV](http://commons.apache.org/proper/commons-csv) -用于读取和写入逗号分隔值文件的组件.
+- [CSV](http://commons.apache.org/proper/commons-csv) - Component for reading and writing comma separated value files.
 - [Daemon](http://commons.apache.org/proper/commons-daemon) -类似于Unix守护程序的Java代码的替代调用机制.
 - [DBCP](http://commons.apache.org/proper/commons-dbcp) -数据库连接池服务.
 - [DbUtils](http://commons.apache.org/proper/commons-dbutils) -JDBC帮助程序库.
@@ -765,7 +767,7 @@ _专门用于创建RESTful服务的框架.
 - [Jersey](https://jersey.github.io) -JAX-RS参考实现.
 - [Microserver](https://github.com/aol/micro-server)  —用于Spring和Spring Boot的便捷，可扩展的微服务插件系统.  随着30多个插件的不断发展，它支持微独石和纯微服务样式.
 - [Rapidoid](https://www.rapidoid.org) -一个简单，安全且非常快速的框架，由嵌入式HTTP服务器，GUI组件和依赖项注入组成.
-- [rest.li](https://github.com/linkedin/rest.li) -用于使用类型安全绑定和异步，非阻塞IO以及端到端开发人员工作流来构建健壮，可扩展的RESTful体系结构的框架，该端对端开发人员工作流可促进简洁的做法，统一的界面设计和一致的数据建模.
+- [rest.li](https://github.com/linkedin/rest.li) -使用端到端开发人员工作流的类型安全绑定和异步，无阻塞IO构建健壮的，可扩展的RESTful架构的框架，该端到端的开发人员工作流可促进简洁的做法，统一的界面设计和一致的数据建模.
 - [RESTEasy](https://resteasy.jboss.org) -JAX-RS规范的完整认证和可移植实施.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -JBoss Netty HTTP堆栈上的精简包装器，可提供扩展和性能.
 - [Restlet Framework](https://github.com/restlet/restlet-framework-java) -具有强大的路由和过滤功能以及统一的客户端和服务器API的开拓性框架.
@@ -872,7 +874,7 @@ _对TDD中出现的，受DDD和OOAD严重影响的软件开发过程进行测试
 - [Cucumber](https://github.com/cucumber/cucumber-jvm) -提供一种以普通语言描述功能的方法，客户可以理解.
 - [Cukes-REST](https://github.com/ctco/cukes-rest) -用于使用Cucumber进行REST服务测试的Gherkin步骤的集合.
 - [J8Spec](https://github.com/j8spec/j8spec) -遵循类似Jasmine的语法.
-- [JBehave](http://jbehave.org) -描述故事的可广泛配置的框架.
+- [JBehave](http://jbehave.org) - Extensively configurable framework that describes stories.
 - [JGiven](http://jgiven.org) -提供流利的API，可以简化组成.
 - [Lamdba Behave](https://github.com/RichardWarburton/lambda-behave) -旨在提供流利的API，以长而描述性的句子编写测试，使句子看起来像普通的英语.
 - [Serenity BDD](https://www.thucydides.info) -与Cucumber，JBehave和JUnit一起使用的自动验收测试和报告库，使编写高质量的可执行规范变得更加容易.
@@ -953,11 +955,11 @@ _提供一般实用程序功能的库.
 
 ### Version Managers
 
-_有助于创建开发外壳环境并在不同Java版本之间切换的实用程序.
+_Utilities that help create the development shell environment and switch between different Java versions._
 
 - [jabba](https://github.com/shyiko/jabba)  -受nvm启发的Java版本管理器.  支持Mac OS X，Linux和Windows.
 - [jenv](https://github.com/gcuisinier/jenv)  -受rbenv启发的Java版本管理器.  可以全局配置或按项目配置.  在Debian和Mac OS X上测试.
-- [SDKMan](https://github.com/sdkman/sdkman-cli) - Java Version Manager inspired by RVM and rbenv. Supports UNIX-based platforms and Windows.
+- [SDKMan](https://github.com/sdkman/sdkman-cli)  -受RVM和rbenv启发的Java版本管理器.  支持基于UNIX的平台和Windows.
 
 ### Web Crawling
 
@@ -1074,7 +1076,7 @@ _编程时要看或听的东西.
 - [Reza Rahman](https://twitter.com/reza_rahman) -Java EE / GlassFish / WebLogic传播者，作家，演讲者，开源黑客.
 - [Sander Mak](https://twitter.com/Sander_Mak) -Java Champion，作家.
 - [Simon Maple](https://twitter.com/sjmaple) -Java冠军，VirtualJUG创始人，LJC负责人，RebelLabs作者.
-- [Spencer Gibb](https://twitter.com/spencerbgibb) - Software Engineer, Dad, Geek, Co-founder and Lead of Spring Cloud Core @pivotal.
+- [Spencer Gibb](https://twitter.com/spencerbgibb) -软件工程师，父亲，极客，Spring Cloud Core @pivotal的联合创始人兼负责人.
 - [Stephen Colebourne](https://twitter.com/jodastephen) -Java Champion，演讲者.
 - [Trisha Gee](https://twitter.com/trisha_gee) -Java Champion和演讲者.
 - [Venkat Subramaniam](https://twitter.com/venkat_s) -作者，休斯敦大学教授，MicroSoft MVP获奖者，JavaOne Rock Star，Java Champion.

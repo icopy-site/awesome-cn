@@ -18,6 +18,7 @@
 - [Wardley Mapping Forum](https://community.wardleymaps.com/) -一个讨论与沃德利地图有关的一切的地方.
 - [mapcamp.slack.com](https://mapcamp.slack.com/) -在Slack上加入Map Camp [here](https://map-camp-slack-invite.herokuapp.com/).
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) -沃德利地图社区.
+- [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) -订阅 [here](https://bit.ly/2QlF0Wx) .  通讯 [archive](https://bit.ly/2P9MEPu).
 
 ## Reading
 
@@ -96,6 +97,7 @@
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2)  -开源映射工具.  提供托管版本 [here](https://atlas2.wardleymaps.com/).
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具.  提供托管版本 [here](https://onlinewardleymaps.com/).
+- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) -⚠️可观察 [Terms of Service](https://observablehq.com/terms-of-service), #3. MapScript [feature requests](https://mapscript.canny.io/feature-requests) .  提供托管版本 [here](https://mapscript.org).
 
 ### Doctrine Assessement
 
@@ -127,10 +129,6 @@
 ## Workshops
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) -工作坊规则，卡片和材料.
-
-## Newsletters
-
-- [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews)
 
 ## License
 

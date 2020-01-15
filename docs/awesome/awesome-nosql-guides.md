@@ -24,7 +24,7 @@
 - [Distribution, Data, Deployment: Software Architecture Convergence in Big Data Systems (PDF)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=90909)  -Gorton和Klein（2014）的论文，讨论了在大数据系统的分发，数据和部署方面对软件工程的关注.  也可访问 [here](https://doi.org/10.1109/MS.2014.51).
 - [Use cases for NoSQL (2017)](https://stackoverflow.com/questions/2875432/use-cases-for-nosql) -有关在传统SQL数据库上使用NoSQL数据库的最佳用例的堆栈溢出的讨论.
 - [Best Practices for NoSQL Database Design (2012)](https://softwareengineering.stackexchange.com/q/158790/) -有关NoSQL数据库设计的几个答案和链接.
-- [Five Common Data Stores and When to Use Them (2019)](https://engineering.shopify.com/blogs/engineering/five-common-data-stores-usage) -文章描述了五个常见的数据存储（关系数据库，非关系（“ NoSQL”）数据库，键值存储，全文搜索引擎，消息队列）及其属性.
+- [Five Common Data Stores and When to Use Them (2019)](https://engineering.shopify.com/blogs/engineering/five-common-data-stores-usage) - Article describes five common data stores (relational database, non-relational (“NoSQL”) database, key-value store, full-text search engine, message queue) and their attributes.
 - [NoSQL Databases (PDF)](https://web.archive.org/web/20190927222738/https://www.christof-strauch.de/nosqldbs.pdf)  -长达149页的文档，概述了NoSQL数据库的动机和基本原理，以及这些数据库之间的通用概念，技术和模式；  最后更新时间约为2011年.
 - [NoSQL Data Architecture & Data Governance: Everything You Need to Know (2018)](https://www.dataversity.net/nosql-data-architecture-data-governance-everything-need-know/) -带有图表的不同NoSQL数据库体系结构概述.
 
@@ -43,6 +43,7 @@
 ## Trade-Offs in CAP/Brewer's Theorem
 
 - [Visual Guide to NoSQL Systems (2010)](http://blog.nahurst.com/visual-guide-to-nosql-systems) -在不同NoSQL数据库之间的CAP定理中权衡取舍的可视化显示.
+- [How to Choose the Right NoSQL Database for Your Application? (2018)](https://www.dataversity.net/choose-right-nosql-database-application/) -审查CAP定理，并将常见的NoSQL数据库映射到CAP类别以帮助选择一种.
 
 
 ## Crowd-Sourced Information
