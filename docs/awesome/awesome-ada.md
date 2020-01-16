@@ -30,8 +30,8 @@
 	1. [Questions and Answers](#Questions-and-Answers)   
 	2. [News and Resources](#News-and-Resources)   
 	3. [Competition](#Competition)   
-4. [Compilers](#Compilers)   
-	3. [Open source](#Open-source)   
+4. [Compilers](#Compilers) 
+	1. [Open source](#Open-source) 
 	4. [Online](#Online)   
 5. [Editors](#Editors)   
 	1. [Integrated Development Editors](#Integrated-Development-Editor)   
@@ -151,7 +151,7 @@
 
 #### News and Resources
 - [adacore-blog](https://blog.adacore.com/) -深入了解AdaCore生态系统.
-- [ada-europe](http://www.ada-europe.org/) -Ada-Europe是一个国际组织，旨在促进Ada的使用.
+- [ada-europe](http://www.ada-europe.org/) - Ada-Europe is an international organization, set up to promote the use of Ada.
 - [acm-sig-ada](https://www.sigada.org/) -关于Ada的特别兴趣小组.
 - [ada-resource-association](http://www.adaic.org/community/) -自1990年以来，Ada资源协会的主要任务是“确保Ada用户的持续成功并促进Ada在软件行业的使用”.
 - [ada-information-clearinghouse](http://www.adaic.org/) -有关Ada编程语言的新闻和资源.
@@ -164,23 +164,11 @@
 
 ## Compilers
 
-#### Commercial / Closed source
-
-- [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) -编译器支持该语言的Ada 83，Ada 95，Ada 2005和Ada 2012版本的所有主要功能.
-- [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) -PTC ObjectAda是广泛的本机和交叉开发工具以及运行时环境系列.
-- [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) -PTC ApexAda是针对Ada和Ada / C / C ++混合应用程序的业界最受欢迎的开发环境之一.
-- [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) -Green Hills Software为实时目标提供了业界首个经过充分验证的Ada Cross编译器系列.
-- [xgc](http://www.xgc.com/)  -XGC为基于航空航天特定目标（例如MIL1750，ERC32和LEON）的Ada95支持提供了基于GCC的裸机工具链.  以及旧版M68000工具链.
-
-#### Commercial / Open source
-
-- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了一个全面的工具集（IDE，调试器，库，动态和静态分析工具）.
-
 #### Open source
 
 ##### GPL (no linking exception)
 
-- [gnat-ce](https://www.adacore.com/download)  -用于Ada编程语言的Adacore编译器，它构成GNU编译器集合的一部分.  它支持该语言的所有版本，即Ada 2012，Ada 2005，Ada 95和Ada 83.
+- [gnat-ce](https://www.adacore.com/download)  -GNAT社区版.  适用于免费软件开发人员，业余爱好者和学生的AdaCore GNAT版本.  GNAT社区随附的运行时库在GPLv3下获得许可，没有链接例外.  它仅支持Ada 2012.
 
 ##### GPL (with linking exception)
 
@@ -190,6 +178,18 @@
 
 - [hac](https://github.com/zertovitch/hac) -实验性有一个完整的编译器.
 - [byron](https://github.com/OneWingedShark/Byron) -Byron项目是社区驱动的Ada编译器，工具链和IDE系统.
+
+#### Commercial / Open source
+
+- [gnat-pro](https://www.adacore.com/gnatpro) -GNAT Pro产品线为Ada，C和C ++提供了一个全面的工具集（IDE，调试器，库，动态和静态分析工具）.
+
+#### Commercial / Closed source
+
+- [janus-ada](http://www.rrsoftware.com/html/prodinf/janus95/j-ada95.htm) -编译器支持该语言的Ada 83，Ada 95，Ada 2005和Ada 2012版本的所有主要功能.
+- [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) -PTC ObjectAda是广泛的本机和交叉开发工具以及运行时环境系列.
+- [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) -PTC ApexAda是针对Ada和Ada / C / C ++混合应用程序的业界最受欢迎的开发环境之一.
+- [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) -Green Hills Software为实时目标提供了业界首个经过充分验证的Ada Cross编译器系列.
+- [xgc](http://www.xgc.com/)  -XGC为基于航空航天特定目标（例如MIL1750，ERC32和LEON）的Ada95支持提供了基于GCC的裸机工具链.  以及旧版M68000工具链.
 
 #### Online
 - [tutorials-point-ada-compiler](https://www.tutorialspoint.com/compile_ada_online.php) -基于CodingGround引擎构建的在线编译器.
@@ -212,7 +212,7 @@
 
 #### VSCode Extensions
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) -Ada和SPARK的Microsoft语言协议的Adacore服务器实现.
-- [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) - Ada language support for VS Code.
+- [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) -Ada语言对VS Code的支持.
 - [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) -Ada和GPR的基本语法突出显示.
 - [ada-utilities](https://github.com/Lucretia/ada-utilities)-VSCode扩展Ada程序员，提供了一些实用程序功能.
 
@@ -382,7 +382,7 @@
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) -Ada中的简单区块链.
 - [fletcher](https://github.com/darkestkhan/fletcher) -fletcher_16校验和计算算法的简单实现.
 - [adagio](https://github.com/mosteo/adagio) -Gnutella2（G2）网络服务器叶.
-- [agpl](https://github.com/mosteo/agpl) -Ada通用库（其他实用程序，具有机器人功能）.
+- [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 - [increment](https://github.com/reznikmm/increment) -该软件包提供了增量分析算法和相关的数据结构.
 
 #### Patterns
@@ -514,7 +514,7 @@
 - [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) -Trash Finder是一个邮件过滤器，可作为您的邮件服务器的插件运行，提供对数十种条件的过滤以及已知邮件的管理.
 
 #### Web
-- [ironsides](http://ironsides.martincarlisle.com) - Authoritative DNS server verified by SPARK/Ada.
+- [ironsides](http://ironsides.martincarlisle.com) -由SPARK / Ada验证的权威DNS服务器.
 - [wasabee](https://github.com/zertovitch/wasabee) -以安全为重点的Web浏览器.
 - [yass](https://github.com/yet-another-static-site-generator/yass) -另一个静态网站生成器（例如Jekyll或Hugo）.
 

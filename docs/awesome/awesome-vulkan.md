@@ -86,6 +86,8 @@
     * [Vulkan Usage Recommencation](https://developer.samsung.com/game/usage) （对于手机）
 *史诗
     * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/6_2D00_mmg_2D00_siggraph2016_2D00_vulkan_2D00_smedis.pdf)
+* Khronos
+   * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)    
 
 ## Tutorial
 *  [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan.html) -关于如何学习Vulkan的元文章
@@ -117,6 +119,7 @@
 *  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) -3DMark API开销测试.
 
 ## Samples
+* Khronos [Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples) [[LICENSE](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE)]
 *萨莎·威廉姆斯（Sascha Willems） [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/vulkan/khronosmeetup/#/).
 *（不完整）Sascha Willems [samples port](https://github.com/jvm-graphics-labs/Vulkan) 去科特林
 *萨莎·威廉姆斯（Sascha Willems） [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR)  -使用glTF 2.0模型的Vulkan基于物理的渲染.  [麻省理工学院]
@@ -202,6 +205,7 @@ drm/kms.
 *  [small3d](https://www.gamedev.net/projects/515-small3d/)，基于Tiny Vulkan的C ++跨平台游戏开发框架[BSD 3-clause]
 
 ## Bindings
+*  [ash](https://github.com/MaikKlein/ash)  -生锈的火山绑定.  [MH]
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) -Vulkan的Lua绑定.
 *  [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan) -自动生成的Vulkan D绑定.
 *  [ErupteD](https://github.com/ParticlePeter/ErupteD) -Vulkan的另一个自动生成的D绑定.

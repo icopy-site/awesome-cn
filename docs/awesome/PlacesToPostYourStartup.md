@@ -13,7 +13,7 @@
 ## Reddit
 * / r / AlphaandBetausers-https://www.reddit.com/r/alphaandbetausers/
 * / r /优惠券-https://www.reddit.com/r/coupons/
-* / r / DesignCritques-https://www.reddit.com/r/design_critiques/
+* / r / Design_Critiques-https://www.reddit.com/r/design_critiques/
 * / r /企业家-http://reddit.com/r/entrepreneur
 * / r / IMadeThis-http://reddit.com/r/imadethis
 * / r / IndieBiz-https://www.reddit.com/r/indiebiz/
@@ -39,7 +39,7 @@
 * Appoid-http://appiod.com/submit-app-for-review/
 * appPicker-http://www.apppicker.com/
 * Apps 400-http://apps400.com/submit-your-application-for-review
-* Listo Apps-http://appslisto.com/submit-your-app/
+*应用列表-http://appslisto.com/submit-your-app/
 * Apps Mommy-http://appsmamma.com/submit-your-app/
 *应用程序镜像-http://www.appsmirror.com/submit-your-app-for-review
 * AppsNow-http://appsnow.us/submit-app-for-review/
@@ -102,7 +102,7 @@
 *可编程Web-https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX-https://www.publicityx.com/startups/new
 *版本2-http://www.rev2.org/
-* Robingood-http://tools.robingood.com/
+* Robingood-http：//tools.robingood.com/
 *显示HN-https://news.ycombinator.com/showhn.html
 * SideProjects-https://sideprojects.net
 *侧面投影仪-https://www.sideprojectors.com

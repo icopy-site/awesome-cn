@@ -222,7 +222,8 @@
 
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/)  -将HTML转换为Elm Html.  将应用程序移植到Elm时很有用.
 * [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) -为Elm生成OpenApi类型.
-* [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) -从Elm生成打字稿定义.
+* [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) -从Elm生成TypeScript定义.
+* [Elm JSON Interop](https://github.com/pravdomil/elm-json-interop) -从Elm文件生成JSON编码器/解码器和TypeScript定义.
 * [Quicktype](https://github.com/quicktype/quicktype) -从JSON生成JSON解码器和编码器
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) -根据JSON模式规范生成Elm类型，JSON解码器，JSON编码器和模糊测试
 * [Elm Bridge](https://github.com/agrafix/elm-bridge) -从Haskell生成榆木类型
@@ -321,6 +322,7 @@
 *新榆树项目的良好起点.
 
 * [create-elm-app](https://github.com/halfzebra/create-elm-app) -创建没有构建配置的Elm应用程序.
+* [elm-boil](https://github.com/GioPat/elm-boil) -命令行实用程序，用于创建易于运行，构建和部署的Elm样板项目
 * [elm-live](https://github.com/wking-io/elm-live)  -Elm的灵活开发服务器.  包括实时重新加载.
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) -Elm webpack 4入门模板.
 * [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) -示例显示Elm 0.19和Webpack的热模块重新加载
@@ -342,6 +344,7 @@
 *为Elm带来框架方法的项目（脚手架，路线生成等）*
 
 - [elm-spa](https://www.elm-spa.dev/) -单页应用变得简单
+- [Spades](https://github.com/rogeriochaves/spades) -开始为现实世界准备的Elm SPA
 
 ## Community and Support
 

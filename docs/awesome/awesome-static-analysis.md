@@ -122,7 +122,7 @@
 * [Designite](http://www.designite-tools.com) ：copyright：-Designite支持检测各种体系结构，设计和实现的气味，计算各种代码质量指标以及趋势分析.
 * [Gendarme](http://www.mono-project.com/docs/tools+libraries/tools/gendarme/) -Gendarme检查包含ECMA CIL格式（Mono和.NET）代码的程序和库.
 * [NDepend](http://www.ndepend.com/) ：copyright：-测量，查询和可视化您的代码，避免意外的问题，技术负担和复杂性.
-* [Puma Scan](https://github.com/pumasecurity/puma-scan) -开发团队在Visual Studio中编写代码时，Puma Scan提供了针对常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）的实时安全代码分析.
+* [Puma Scan](https://github.com/pumasecurity/puma-scan) -开发团队在Visual Studio中编写代码时，Puma Scan为常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）提供了实时安全的代码分析.
 * [Refactoring Essentials](http://vsrefactoringessentials.com/) - The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 * [ReSharper](https://www.jetbrains.com/resharper/) :copyright: - Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
 * [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers) -基于Roslyn的FxCop分析仪实施.
@@ -371,7 +371,7 @@
 * [vulture](https://github.com/jendrikseipp/vulture) -在Python代码中找到未使用的类，函数和变量
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -有史以来最严格，最有主见的python linter
 * [wily](https://github.com/tonybaloney/wily) -用于归档，探索和绘制Python源代码复杂性的命令行工具
-* [xenon](https://github.com/rubik/xenon) -使用以下命令监视代码复杂性 [`radon`](https://github.com/rubik/radon)
+* [xenon](https://github.com/rubik/xenon) -使用监视代码的复杂性 [`radon`](https://github.com/rubik/radon)
 
 ## Python wrappers
 
@@ -382,7 +382,7 @@
 
 ## R
 
-* [cyclocomp](https://github.com/MangoTheCat/cyclocomp) - Quantifies the cyclomatic complexity of R functions / expressions.
+* [cyclocomp](https://github.com/MangoTheCat/cyclocomp) -量化R函数/表达式的圈复杂度.
 * [goodpractice](http://mangothecat.github.io/goodpractice/) -分析R软件包的源代码并提供最佳实践建议.
 * [lintr](https://github.com/jimhester/lintr) -R的静态代码分析.
 * [styler](https://styler.r-lib.org/) -R源代码文件的格式和R代码的漂亮打印.
@@ -418,7 +418,7 @@
 * [cargo-inspect](https://github.com/mre/cargo-inspect) -在没有语法糖的情况下检查Rust代码，以了解编译器的幕后工作.
 * [clippy](https://github.com/Manishearth/rust-clippy) -防止常见错误并改进Rust代码的代码仓库
 * [electrolysis](https://github.com/Kha/electrolysis) -通过在精益定理证明者中将其转换为定义来正式验证Rust程序的工具.
-* [herbie](https://github.com/mcarton/rust-herbie-lint) -在使用数值不稳定的浮点表达式时，在包装箱中添加警告或错误.
+* [herbie](https://github.com/mcarton/rust-herbie-lint) - Adds warnings or errors to your crate when using a numerically unstable floating point expression.
 * [linter-rust](https://github.com/AtomLinter/linter-rust) -使用Rustc和货物在Atom中整理您的Rust文件
 * [Rust Language Server](https://github.com/rust-lang-nursery/rls) -支持诸如“转到定义”，符号搜索，重新格式化和代码完成之类的功能，并支持重命名和重构.
 * [rustfix](https://github.com/killercup/rustfix) -阅读并应用rustc（和第三方皮棉，如clippy提供的建议）提出的建议.
@@ -438,7 +438,7 @@
 
 ## Solidity
 
-* [slither](https://github.com/trailofbits/slither) -静态分析框架，该框架运行一套漏洞检测器，可打印有关合同详细信息的可视信息，并提供可轻松编写自定义分析的API
+* [slither](https://github.com/trailofbits/slither) -静态分析框架，该框架运行一套漏洞检测器，打印有关合同详细信息的可视信息，并提供可轻松编写自定义分析的API
 * [solium](https://github.com/duaraghav8/Solium) -Solium是一台可以识别和修复Solidity智能合约中的样式和安全问题的工具
 
 ## SQL
@@ -452,7 +452,7 @@
 
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) -用于重新格式化Swift代码的库和命令行格式化工具
 * [SwiftLint](https://github.com/realm/SwiftLint) -实施Swift样式和约定的工具
-* [Tailor](https://github.com/sleekbyte/tailor) -用于以Apple的Swift编程语言编写的源代码的静态分析和棉绒工具.
+* [Tailor](https://github.com/sleekbyte/tailor) ：warning：-用于使用Apple的Swift编程语言编写的源代码的静态分析和皮棉工具.
 
 ## Tcl
 
@@ -535,7 +535,7 @@
 
 * [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
 * [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
-* [Jakstab](https://github.com/jkinder/jakstab) -Jakstab是基于抽象解释的集成反汇编和静态分析框架，用于设计可执行文件的分析并恢复可靠的控制流程图.
+* [Jakstab](https://github.com/jkinder/jakstab) -Jakstab是一个基于抽象解释的集成反汇编和静态分析框架，用于设计可执行文件的分析并恢复可靠的控制流程图.
 * [Twiggy](https://github.com/rustwasm/twiggy)  -分析二进制文件的调用图以分析代码大小.  目标是减少二进制文件.
 
 
@@ -560,6 +560,7 @@
 * [ansible-lint](https://github.com/willthames/ansible-lint) -检查剧本中可能会改善的做法和行为
 * [cfn-lint](https://github.com/awslabs/cfn-python-lint) -AWS Labs CloudFormation linter.
 * [cfn_nag](https://github.com/stelligent/cfn_nag) -适用于AWS CloudFormation模板的模板.
+* [checkov](https://github.com/bridgecrewio/checkov/) -用于Terraform文件的静态分析工具（tf&gt; = v0.12），可防止在构建时云配置错误.
 * [cookstyle](https://docs.chef.io/cookstyle.html) -Cookstyle是基于RuboCop Ruby linting工具用于厨师食谱的整理工具
 * [foodcritic](http://www.foodcritic.io/) -检查主厨食谱中常见问题的皮棉工具.
 * [Puppet Lint](https://github.com/rodjek/puppet-lint) -检查您的人偶清单是否符合样式指南.
@@ -597,7 +598,7 @@
 * [ale](https://github.com/w0rp/ale) -Vim和NeoVim的异步Lint引擎，支持多种语言
 * [Attackflow Extension](https://www.attackflow.com/Extension) ：copyright：-用于Visual Studio的Attackflow插件，它使开发人员无需任何先验知识就可以在源代码中实时发现关键的安全错误.
 * [DevSkim](https://github.com/Microsoft/DevSkim)  -在线实时安全分析.  与多种编程语言和IDE（VS，VS Code，Sublime Text等）配合使用.
-* [Puma Scan](https://github.com/pumasecurity/puma-scan) -开发团队在Visual Studio中编写代码时，Puma Scan提供了针对常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）的实时安全代码分析.
+* [Puma Scan](https://github.com/pumasecurity/puma-scan) -开发团队在Visual Studio中编写代码时，Puma Scan为常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）提供了实时安全的代码分析.
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET that integrates into Visual Studio 2015 and newer. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 * [vint](https://github.com/Kuniwak/vint) -由Python实现的快速且高度可扩展的Vim脚本语言Lint.
 
@@ -688,7 +689,7 @@
 
 * [go-tools](https://github.com/dominikh/go-tools) -使用Go代码的工具和库的集合，包括短绒和静态分析
 * [linters](https://github.com/mcandre/linters) -静态代码分析简介
-* [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - A reviewed list of useful PHP static analysis tools
+* [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) -有用的PHP静态分析工具的完整列表
 * [Tools for Tcl](https://wiki.tcl-lang.org/page/Static+syntax+analysis#95329c336da897c3dea8ab434ca30575f4529bf6f514c1519881bd126e1d1423) -具有多个Tcl检查器和静态语法分析工具的Wiki页面.
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) -用于静态代码分析的工具列表.
 

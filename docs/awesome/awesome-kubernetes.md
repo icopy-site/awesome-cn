@@ -443,6 +443,26 @@ MOOC课程/教程
 * [Virtual Filesystem](https://github.com/rexray/csi-vfs)
 * [VMware vSphere](https://github.com/thecodeteam/csi-vsphere)
 
+群集API提供程序
+=======================================================================
+
+*部分清单 [Cluster API](https://github.com/kubernetes-sigs/cluster-api)  Kubernetes的提供商.  查看 [Kubernetes-CAPI Providers](https://cluster-api.sigs.k8s.io/reference/providers.html) 了解更多信息*
+
+  ### 引导程序
+
+   - [Kubeadm](https://github.com/kubernetes-sigs/cluster-api/tree/master/bootstrap/kubeadm)
+
+  ### 基础设施
+
+   - [AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
+   - [Azure](https://github.com/kubernetes-sigs/cluster-api-provider-azure)
+   - [Metal3-io](https://github.com/metal3-io/cluster-api-provider-baremetal)
+   - [DigitalOcean](https://github.com/kubernetes-sigs/cluster-api-provider-digitalocean)
+   - [GCP](https://github.com/kubernetes-sigs/cluster-api-provider-gcp)
+   - [IBM Cloud](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud)
+   - [OpenStack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack)
+   - [VMware vSphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)
+
 开发人员库/脚本
 =======================================================================
 
@@ -501,6 +521,7 @@ Projects
 * [Console](http://github.com/kubernetes/dashboard)
 * [BotKube](https://github.com/infracloudio/botkube) -可帮助您监控Kubernetes集群，调试关键部署并为标准做法提供建议的应用程序
 * [Datadog](http://www.datadoghq.com/)
+* [Dynatrace](https://www.dynatrace.com/technologies/kubernetes-monitoring/) -Kubernetes集群和工作负载监控
 * [eventrouter](https://github.com/heptiolabs/eventrouter) -简单的自省型kubernetes服务，可将事件转发到指定的接收器.
 * [Goldpinger](https://github.com/bloomberg/goldpinger) 显示，监视和提醒集群间连接
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
@@ -619,7 +640,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和PostgreSQL管理PostgreSQL集群 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将舵转换为可自我配置并响应集群变化的智能模块.
+* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将图转换为可自我配置并响应集群更改的智能模块.
 * [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
 
 ## Custom Schedulers
@@ -695,7 +716,7 @@ Projects
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
-* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是直接，易于配置且非侵入式的服务网格，可对任何Kubernetes集群内部的流量进行可视化和管理.
+* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是一个简单，易于配置且非侵入式的服务网格，可查看和管理任何Kubernetes集群内部的流量.
 * [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) -构建，保护和观察您的现代服务网格.
 
 ## RPC
@@ -933,7 +954,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -1034,7 +1055,7 @@ Videos
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
 * [Brendan Burns](https://twitter.com/brendandburns)微软合伙人架构师
-* [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
+* [Brian Grant](https://github.com/bgrant0607)，Google首席工程师，Kubernetes首席架构师
 * [Carlos Sanchez](https://www.twitter.com/csanchez)，CloudBees高级软件工程师
 * [Chris Aniszczyk](https://www.twitter.com/cra)，云原生计算基金会首席运营官
 * [Eric Tune](https://twitter.com/eric_tune)，Google高级工程师
@@ -1047,7 +1068,7 @@ Videos
 * [Michelle Noorali](https://www.twitter.com/michellenoorali)，微软软件工程师
 * [Paris Pittman](https://www.twitter.com/ParisInBmore)，开发人员关系经理-Google的Kubernetes
 * [Patrick Reilly](https://twitter.com/preillyme)，思科CTO办公室，思科CNCF董事会成员
-* [Tim Hockin](https://twitter.com/thockin)，Google高级软件工程师/工程经理
+* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
 
 聚会小组
 =======================================================================

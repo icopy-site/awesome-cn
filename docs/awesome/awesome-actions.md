@@ -178,6 +178,7 @@
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
 - [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) -在给定分支前缀和可选语义版本的情况下剪切发行分支.
+- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) -使用terraform-docs为terraform模块生成文档.
 
 ### Testing and Linting
 

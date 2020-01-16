@@ -36,6 +36,7 @@ Prometheus是一个开源系统监视和警报工具包.
 
 - [Monitoring with Prometheus](https://www.prometheusbook.com/) -James Turnbull.
 - [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) -布莱恩·巴西（Brian Brazil）.
+- [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) -由Joel Bastos和PedroAraújo撰写，Brian Brazil评论.
 
 ## Videos
 - [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) -PromCon慕尼黑-2019年11月7日至8日，PromCon EU 2019

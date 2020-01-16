@@ -9,7 +9,7 @@
 ## Intro
 此列表最初是的克隆 [stackoverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) 由Karan Bhangui和George Stocker提供.
 
- 该列表已由Victor Felder移至GitHub，以进行协作更新和维护.  它已成长为其中之一 [most popular repositories on Github](https://octoverse.github.com/)，拥有超过100,000个星星，超过4500个提交，超过950个贡献者和25,000个分支.
+ 该列表已由Victor Felder移至GitHub，以进行协作更新和维护.  它已成长为其中之一 [most popular repositories on Github](https://octoverse.github.com/)，拥有超过100,000个星星，超过4,500个提交，超过950个贡献者和25,000个分支.
 
 现在，回购由 [Free Ebook Foundation](https://ebookfoundation.org)，这是一家致力于促进免费电子书的创建，发行，归档和可持续发展的非营利组织. [Donations](https://ebookfoundation.org/contributions.html) Free Ebook Foundation的免税额在美国可免税.
 
@@ -33,6 +33,7 @@
 + [Burmese](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-mm.md)
 + [Chinese](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-zh.md)
 + [Czech](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-cs.md)
++ [Danish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-dk.md)
 + [Dutch](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-nl.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books.md)
 + [Finnish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-fi.md)

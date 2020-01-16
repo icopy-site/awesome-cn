@@ -62,14 +62,14 @@
 - [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) -事件驱动的行为，可轻松生成一次性使用的安全令牌.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) -轻松构建支持SaaS的Web应用程序.
 - ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -基于身份验证和基于角色的（单/多）授权，这是一种非常轻巧的方法.
-- [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) -包含 [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) 用于密码哈希的DRY方法.
+- ：草莓： [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) -包含 [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) 用于密码哈希的DRY方法.
 - [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth)  -允许使用Google Authenticator或类似应用进行两因素身份验证，以生成一次性代码.  基于 [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) 图书馆.
 - [UserPermissions plugin](https://github.com/AlessandroMinoccheri/UserPermissions) -允许用户组或单个用户查看特定页面.
 
 ## Caching
 *用于缓存数据的插件.
 
-- [Cache plugin](https://github.com/dereuromark/cakephp-cache) -用于将视图（HTML，CSV，JSON，XML等）作为静态缓存文件进行缓存.
+- ：草莓： [Cache plugin](https://github.com/dereuromark/cakephp-cache) -用于将视图（HTML，CSV，JSON，XML等）作为静态缓存文件进行缓存.
 
 ## Code Analysis
 *用于分析，解析和处理代码库的插件.
@@ -93,7 +93,7 @@
 *实现依赖项注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖项注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -212,7 +212,7 @@
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) -维护外壳针对带有可选IP白名单的所有请求进入维护模式.
 - ：草莓： [Shim plugin](https://github.com/dereuromark/cakephp-shim) -包含有用垫片和改进功能的插件，可作为您应用程序的基础.
 - [TokenVerify plugin](https://github.com/mosaxiv/cakephp-token-verify) -轻松发行可用于邮件身份验证的令牌.
-- [Tools plugin](https://github.com/dereuromark/cakephp-tools) -包含许多有用的库，助手，行为，组件，shell等.
+- ：草莓： [Tools plugin](https://github.com/dereuromark/cakephp-tools) -包含许多有用的库，助手，行为，组件，shell等.
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools)  -用于登录，注册，密码重置等的用户工具.  像CRUD一样开箱即用，并且高度可配置.
 - [Utils plugin](https://github.com/cakemanager/cakephp-utils) -包含有用的组件（授权者，菜单）和行为（WhoDidIt，Uploadable，Metas，Stateable）.
 - [Wrench plugin](https://github.com/HavokInspiration/wrench)  -维护模式插件.  易于扩展和定制.
@@ -286,7 +286,7 @@
 - [PlumSearch plugin](https://github.com/skie/plum_search)  -搜索插件实现了自定义，灵活和可扩展的搜索策略.  实现PRG模式.
 - ：草莓： [Search plugin](https://github.com/FriendsOfCake/search) -使用PRG模式可轻松搜索/过滤分页视图.
 - [SphinxSearch plugin](https://github.com/voycey/cakephp-sphinxsearch) -查询SphinxSearch索引的基本行为实现.
-- [Tags plugin](https://github.com/dereuromark/cakephp-tags) -用于标记和查找标记的记录.
+- ：草莓： [Tags plugin](https://github.com/dereuromark/cakephp-tags) -用于标记和查找标记的记录.
 
 ## Security
 *有关安全性的插件和信息，可防止漏洞并防御XSS等.
@@ -306,7 +306,7 @@
 - ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -生成弹头并按弹头查找记录的插件.  使用可插拔的体系结构，该体系结构允许使用自己的子弹生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) -自动创建和管理您的SEO标签.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) -一个简单的Cake3插件，用于处理字段和按内容查找记录.
-- [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的sl.
+- ：草莓： [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的sl.
 
 ## Skeleton
 *围绕应用程序框架的插件和存储库.*

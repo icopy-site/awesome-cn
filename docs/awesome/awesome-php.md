@@ -119,14 +119,14 @@
 
 * [Couscous](http://couscous.io)  -Couscous将Markdown文档变成漂亮的网站.  这是关于类固醇的GitHub Pages.
 * [Sculpin](https://sculpin.io) -一种将Markdown和Twig转换为静态HTML的工具.
-* [Spress](http://spress.yosymfony.com) -将Markdown和Twig转换为HTML的可扩展工具.
+* [Spress](http://spress.yosymfony.com) - An extensible tool that converts Markdown and Twig into HTML.
 
 ### HTTP
 *使用HTTP的库.*
 
 * [Buzz](https://github.com/kriswallsmith/Buzz) -另一个HTTP客户端.
 * [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) -全面的HTTP客户端.
-* [HTTPlug](http://httplug.io) - An HTTP client abstraction without binding to a specific implementation.
+* [HTTPlug](http://httplug.io) -没有绑定到特定实现的HTTP客户端抽象.
 * [PHP VCR](https://php-vcr.github.io/) -用于记录和重放HTTP请求的库.
 * [Requests](https://github.com/rmccue/Requests) -一个简单的HTTP库.
 * [Retrofit](https://github.com/tebru/retrofit-php) -简化REST API客户端创建的库.
@@ -134,7 +134,7 @@
 * [zend-diactoros](https://github.com/zendframework/zend-diactoros) -PSR-7 HTTP消息实现.
 
 ### Scraping
-*用于抓取网站的库.*
+*Libraries for scraping websites.*
 
 * [Embed](https://github.com/oscarotero/Embed) -任何Web服务或页面的信息提取器.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) -简单的网页抓取工具.
@@ -312,6 +312,7 @@
 * [Deptrac](https://github.com/sensiolabs-de/deptrac) -静态代码分析工具，可帮助强制实施有关软件层之间依赖性的规则.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) -使用图论的代码分析工具.
 * [phan](https://github.com/phan/phan) -基于PHP 7+和php-ast扩展的静态分析器.
+* [PHP Architecture Tester](https://github.com/carlosas/phpat) -易于使用的PHP体系结构测试工具.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) -用于PHP CodeSniffer的PHP兼容性检查器.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) -创建可定制的依赖图的工具.
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) -静态指标库.
@@ -327,7 +328,7 @@
 * [Functional PHP](https://github.com/lstrojny/functional-php) -功能编程库.
 * [Iter](https://github.com/nikic/iter) -一个使用生成器提供迭代原语的库.
 * [Patchwork](http://patchwork2.org/) -用于重新定义用户界面功能的库.
-* [Pipeline](https://github.com/thephpleague/pipeline) -管道模式实现.
+* [Pipeline](https://github.com/thephpleague/pipeline) -管道模式实施.
 * [RulerZ](https://github.com/K-Phoen/rulerz) -强大的规则引擎和规范模式的实现.
 
 ### Debugging and Profiling
@@ -575,7 +576,7 @@
 * [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) -支持YAML，JSON和XML的架构验证库.
 * [Respect Validation](https://github.com/Respect/Validation) -一个简单的验证库.
-* [Upload](https://github.com/brandonsavage/Upload) -用于处理文件上传和验证的库.
+* [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 * [Valitron](https://github.com/vlucas/valitron) -另一个验证库.
 * [Volan](https://github.com/serkin/Volan) -另一个简化的验证库.
 
@@ -609,6 +610,7 @@
 * [Fractal](https://github.com/thephpleague/fractal) -用于将复杂的数据结构转换为JSON输出的库.
 * [Ginq](https://github.com/akanehara/ginq) -另一个基于.NET的LINQ的PHP库.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) -将嵌套的JSON结构映射到PHP类的库.
+* [JSON Machine](https://github.com/halaxa/json-machine) -使用简单的“ foreach”提供对巨大JSON的迭代
 * [Knapsack](https://github.com/DusanKasan/Knapsack) -受Clojure序列启发的收藏库.
 * [msgpack.php](https://github.com/rybakit/msgpack.php) -的纯PHP实现 [MessagePack](https://msgpack.org/) 序列化格式.
 * [PINQ](https://github.com/TimeToogo/Pinq) -一个基于.NET的LINQ（语言集成查询）的PHP库.
@@ -642,7 +644,7 @@
 ### Serverless
 *帮助构建无服务器Web应用程序的库和工具.
 
-* [Bref](https://bref.sh/) - Serverless PHP on AWS Lambda.
+* [Bref](https://bref.sh/) -AWS Lambda上的无服务器PHP.
 * [OpenWhisk](http://openwhisk.apache.org/) -开源的无服务器云平台.
 * [Serverless Framework](https://serverless.com/cli/) -用于构建无服务器应用程序的开源框架.
 * [Laravel Vapor](https://vapor.laravel.com/) -由AWS支持的Laravel无服务器部署平台.
@@ -678,7 +680,7 @@
 * [Cake Utility](https://github.com/cakephp/utility) -实用程序类，例如Inflector，String，Hash，Security和Xml（CP）.
 * [Chief](https://github.com/adamnicholson/Chief) -命令总线库.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) -用于优化自动加载的库.
-* [Country List](https://github.com/umpirsky/country-list) -具有名称和ISO 3166-1代码的所有国家/地区的列表.
+* [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 * [Embera](https://github.com/mpratt/Embera) -Oembed消费者图书馆.
 * [Essence](https://github.com/essence/essence) -用于提取Web媒体的库.
 * [Graphviz](https://github.com/alexandresalome/graphviz) -Graphviz库.
@@ -710,7 +712,7 @@
 *用于创建开发环境的软件.*
 
 ### PHP Installation
-*Tools to help install and manage PHP on your computer.*
+*可帮助您在计算机上安装和管理PHP的工具.*
 
 * [HomeBrew](https://brew.sh/) -OSX的软件包管理器.
 * [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher) -Brew PHP切换器.
@@ -764,6 +766,7 @@
 
 * [appserver.io](https://github.com/appserver-io/appserver) -用PHP编写的PHP多线程应用程序服务器.
 * [php-pm](https://github.com/php-pm/php-pm) -用于PHP应用程序的进程管理器，增压器和负载平衡器.
+* [RoadRunner](https://github.com/spiral/roadrunner) -高性能PHP应用程序服务器，负载平衡器和进程管理器.
 
 ## Resources
 各种资源，例如书籍，网站和文章，用于提高您的PHP开发技能和知识.
@@ -806,7 +809,7 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·康努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了如何解析和验证XML文档，利用XPath表达式以及如何使用名称空间以及如何以编程方式创建和修改XML文件.
@@ -845,7 +848,7 @@
 
 * [Composer Primer](https://daylerees.com/composer-primer/) -作曲家入门.
 * [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html) -有关Composer稳定性标志的文章.
-* [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) - An article about Composer versioning.
+* [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html) -有关Composer版本控制的文章.
 * [Create Your Own PHP Framework](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html) -Fabien Potencier撰写的有关如何制作自己的PHP框架的系列文章.
 * [Don't Worry About BREACH](https://blog.ircmaxell.com/2013/08/dont-worry-about-breach.html) -有关BREACH hack和CSRF令牌的文章.
 * [On PHP 5.3, Lambda Functions and Closures](http://fabien.potencier.org/on-php-5-3-lambda-functions-and-closures.html) -有关lambda函数和闭包的文章.

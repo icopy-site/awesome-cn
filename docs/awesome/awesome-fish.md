@@ -41,6 +41,7 @@
 - [bang-bang](https://github.com/oh-my-fish/plugin-bang-bang) -类似Bash的历史记录替换.
 - [virtualfish](https://github.com/adambrenecki/virtualfish) -Virtualenv包装器.
 - [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) -自定义您 [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) 在iTerm2中.
+- [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) -使您的提示异步，以提高其反应性. 
 - [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) -纯鱼Node.js版本管理器.
 - [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) -具有完成功能的nvm包装器（另请参见 [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)).
 - [jbonjean/re-search](https://github.com/jbonjean/re-search) -更多的readline（或bash），例如增量历史记录搜索.
