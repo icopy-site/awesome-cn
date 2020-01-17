@@ -49,7 +49,7 @@
 
 ### Penetration testing
 
-- [aztarna](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
+- [aztarna](https://github.com/aliasrobotics/aztarna) -机器人的足迹工具.
 - [ros2_fuzzer](https://github.com/aliasrobotics/ros2_fuzzer) -ROS2主题和服务模糊器.
 
 ### Application layer
@@ -59,7 +59,7 @@
 - [ros2_control](https://github.com/ros-controls/ros2_control) -`ros2_control`是关于如何在机器人控制（ros2_controllers）的上下文中阐述和使用ROS 2中新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) -ros_controllers的说明. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) -一组ROS软件包，用于跟踪坐标变换. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
-- [cartographer](https://github.com/ros2/cartographer) -跨多个平台和传感器配置的2D和3D实时同时定位和映射（SLAM）. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
+- [cartographer](https://github.com/ros2/cartographer) - Real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
 - [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) -用于将ROS2与OpenCV接口的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
 - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) -通用键盘Teleop for ROS2. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) -简单的操纵杆伸缩机器人. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
@@ -190,7 +190,7 @@
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) -官方的NuttX前叉，可用于micro-ROS.
-- [RIOT](https://github.com/RIOT-OS/RIOT) -RIOT是一种实时多线程操作系统（...）实时功能，较小的内存占用量（...）API提供了部分POSIX兼容性.
+- [RIOT](https://github.com/RIOT-OS/RIOT) -RIOT是一种实时多线程操作系统（...）实时功能，较小的内存占用（...）API提供了部分POSIX兼容性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) -适用于多核处理器的POSIX兼容实时操作系统有望在未来支持AUTOSAR.
 
 ## Forks
@@ -336,7 +336,7 @@ DDS安全性.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) -“前沿计算”.
 - [Alias Robotics](https://aliasrobotics.com/) -机器人网络安全范围内的产品和服务.
 - [Amazon](https://github.com/aws-robotics) -亚马逊Amazon Web Services（AWS）的机器人团队.
-- [Apex.AI](https://www.apex.ai/) -“用于自动出行的安全且经过认证的软件”.
+- [Apex.AI](https://www.apex.ai/) -“安全且经过认证的自主移动软件”.
 - [AutonomouStuff](https://autonomoustuff.com) -“自治系统和解决方案的世界领导者”.
 - [Bosch](https://github.com/boschresearch) -博世研究机器人团队.
 - [Canonical](https://canonical.com/) -Ubuntu背后的公司.
@@ -359,6 +359,7 @@ DDS安全性.
   - [Safety Design Pattern Catalogue](http://www.ros2.org/safety_working_group/safety_patterns_catalogue.html)
 -安全工作组
   - [Discourse threads tagged "wg-security"](https://discourse.ros.org/tags/wg-security)
+  - [ros-security/community](https://github.com/ros-security/community) -概述ROS 2安全工作组的治理.
 -技术指导委员会
   - [Discourse threads tagged "tsc"](https://discourse.ros.org/tags/tsc)
 -工具工作组

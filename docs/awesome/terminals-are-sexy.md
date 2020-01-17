@@ -48,6 +48,7 @@
 * [zim](https://github.com/Eriner/zim) -具有惊人速度和模块化扩展的Zsh配置框架.
 * [zoppo](https://github.com/zoppo/zoppo) -用于Zsh的残缺配置框架.
 * [zplug](https://github.com/zplug/zplug) -下一代zsh插件管理器.
+* [zplugin](https://github.com/zdharma/zplugin) -灵活的Zsh插件管理器，具有干净的fpath，报告，完成管理，turbo模式，服务.
 * [zpm](https://github.com/zpm-zsh/zpm) -zsh的插件管理器，类似于vim-plug.
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) -类似zsh的鱼式自动建议.
 * [zsh-pony](https://github.com/mika/zsh-pony) -涵盖了无需框架即可自定义ZSH的内容.
@@ -173,7 +174,7 @@
 * [slap](https://github.com/slap-editor/slap) -基于Sublime的基于终端的文本编辑器.
 * [vim](https://www.vim.org/) -可广泛配置，跨平台和高效的文本编辑器.
     * [SpaceVim](https://spacevim.org) -社区驱动的vim分发.
-    * [neovim](https://neovim.io) - Literally the future of vim.
+    * [neovim](https://neovim.io) -从字面上看vim的未来.
 * [vis](https://github.com/martanne/vis) -高效的文本编辑器.
 
 
@@ -188,11 +189,11 @@
 * [bcal](https://github.com/jarun/bcal) -存储转换和表达式计算器.
 * [buku](https://github.com/jarun/Buku) -命令行书签管理器.
 * [byobu](http://byobu.co/) -Byobu是基于开源文本的窗口管理器和终端多路复用器.
-* [cointop](https://github.com/miguelmota/cointop) -最快，最互动的基于终端的UI应用程序，用于跟踪加密货币.
+* [cointop](https://github.com/miguelmota/cointop) - The fastest and most interactive terminal based UI application for tracking cryptocurrencies.
 * [colorls](https://github.com/athityakumar/colorls) -用彩色和超棒字体图标美化终端的“ ls”命令.
 * [ddgr](https://github.com/jarun/ddgr) -从终端DuckDuckGo.
 * [df-show](https://github.com/roberthawdon/dfshow) -交互式目录和文件浏览器，具有类似于`ls`命令的感觉.
-* [dockly](https://github.com/lirantal/dockly) -Docker控制台UI和仪表板，用于快速管理和检查容器和服务.
+* [dockly](https://github.com/lirantal/dockly) -Docker控制台用户界面和仪表板，用于快速管理和检查容器和服务.
 * [dry](https://github.com/moncho/dry) -终端的Docker管理器.
 * [exa](https://github.com/ogham/exa) -替换用Rust编写的“ ls”.
 * [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的语法“查找”替换.
@@ -269,7 +270,7 @@
 
 *Join the CLI lover community.*
 
-* [/r/commandline](https://www.reddit.com/r/commandline) -适用于任何操作系统中与命令行有关的所有内容.
+* [/r/commandline](https://www.reddit.com/r/commandline) -这适用于任何操作系统中与命令行有关的所有内容.
 * [/r/osxterminal](https://www.reddit.com/r/osxterminal) -在macOS中使用terminal.app的提示.
 * [/r/zsh/](https://www.reddit.com/r/zsh/) -zsh上的所有内容.
 * [/r/unixporn/](https://www.reddit.com/r/unixporn/) -Unix上的所有内容.

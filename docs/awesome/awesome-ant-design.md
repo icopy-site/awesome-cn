@@ -56,6 +56,7 @@ Ant Design的官方项目和资源.
 - [Antd Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=bang.antd-snippets)
 - [Generator Antd Pro](https://github.com/codetrial/generator-antd-pro) -一种构建Ant Design Pro应用程序的简单方法.
 - [formik-antd](https://github.com/jannikbuschke/formik-antd) -流行的表单状态管理库Formik的声明性绑定.
+- [Zaku](https://github.com/limichange/zaku) -基于JSX的UI编辑器，这是构建页面和生成antd代码的简便方法.
 
 ## Theming
 
@@ -76,7 +77,7 @@ Ant Design的官方项目和资源.
 Ant Design系列项目.
 
 - [Grammar of Graphics](https://g2.alipay.com/) -纯粹的javascript，功能强大的大数据语义图生成工具，提供了一组图形语法，使用户可以用简单的语法构建大量图表，并集成了大量统计工具，（[Read more](https://github.com/antvis/feedback)).
-- [Ant Visualization](https://antv.alipay.com/)  -专业的数据可视化规范，旨在在探索数据可视化的过程中投入数年宝贵的数据模式小组工作，以与需要数据可视化理论的所有人共享.  AntV由少量零件，数据，设计规范和图表使用规则组成，（[Read more](https://github.com/antvis/feedback)).
+- [Ant Visualization](https://antv.alipay.com/)  -专业的数据可视化规范，旨在在探索数据可视化的过程中投入数年宝贵的数据模式小组工作，以与需要数据可视化理论的所有人员共享.  AntV由少量零件，数据，设计规范和图表使用规则组成，（[Read more](https://github.com/antvis/feedback)).
 - [Ant Motion](http://motion.ant.design/) -高效的运动设计解决方案，符合带有React实现的Ant Design Visual规范.
 - [Ant UX](http://ux.ant.design/) -使用制作用于UX设计的站点地图模板 [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) 要么 [Axure](http://www.axure.com/) .  这是一个库，可帮助设计人员定义，完善和最终确定其产品的页面间逻辑.
 
@@ -92,7 +93,7 @@ Ant Design系列项目.
 
 使用Vue.js和Ant Design构建的项目.
 
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) -Vue.js 2.5.0以上版本的Ant设计.
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) -Vue.js 2.5.0+的Ant设计.
 - [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) -使用Vue.js和Ant Design构建漂亮的UI组件.
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) -Vue.js中内置的Ant Design UI组件.
 - [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) -Ant Design的Vue.js版本.

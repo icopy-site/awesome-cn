@@ -25,6 +25,7 @@
 - [Material design icons](https://github.com/google/material-design-icons#readme)  -Google提供的Material Design图标.  （[Website](https://material.io/tools/icons))
 - [Octicons](https://github.com/primer/octicons#readme)  -GitHub用&lt;3手工制作的可缩放图标集.  （[Website](https://octicons.github.com))
 - [Open Iconic](https://github.com/iconic/open-iconic#readme)  -Open Iconic是Iconic的开源同级产品.  （[Website](https://useiconic.com/open))
+- [Picon](https://github.com/yne/picon#readme)  -基于连字的小图标字体和SVG.  （[Website](https://yne.fr/picon))
  -Shape.so-可自定义的动画图标和插图，可导出为代码.  （[Website](https://shape.so))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) -您喜欢的网站和应用程序徽标的微型SVG版本，每个版本1KB以下.
 - [The Noun Project](https://thenounproject.com/) -各种图标，由全球社区创建的超过200万种精选图标.

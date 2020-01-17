@@ -134,7 +134,7 @@
 * [zend-diactoros](https://github.com/zendframework/zend-diactoros) -PSR-7 HTTP消息实现.
 
 ### Scraping
-*Libraries for scraping websites.*
+*用于抓取网站的库.*
 
 * [Embed](https://github.com/oscarotero/Embed) -任何Web服务或页面的信息提取器.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) -简单的网页抓取工具.
@@ -306,7 +306,7 @@
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) -检测复制和粘贴代码的库.
 
 ### Static Analysis
-*用于对PHP代码进行静态分析的库.
+*Libraries for performing static analysis of PHP code.*
 
 * [Exakat](https://github.com/exakat/exakat) -用于PHP的静态分析引擎.
 * [Deptrac](https://github.com/sensiolabs-de/deptrac) -静态代码分析工具，可帮助强制实施有关软件层之间依赖性的规则.
@@ -391,7 +391,7 @@
 * [CalendR](https://yohan.giarel.li/CalendR/) -日历管理库.
 * [Carbon](https://github.com/briannesbitt/Carbon) -一个简单的DateTime API扩展.
 * [Chronos](https://github.com/cakephp/chronos) -DateTime API扩展，支持可变和不可变的日期/时间.
-* [Moment.php](https://github.com/fightbulc/moment.php) -Moment.js通过i18n支持启发了PHP DateTime处理程序.
+* [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 * [Yasumi](https://github.com/azuyalabs/yasumi) -可以帮助您计算假期的日期和名称的库.
 
 ### Event
@@ -530,7 +530,7 @@
 *用于标记的库.*
 
 * [Cebe Markdown](https://github.com/cebe/markdown) -快速且可扩展的Markdown解析器.
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) -支持完整功能的Markdown解析器 [CommonMark spec](https://spec.commonmark.org/).
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) -高度可扩展的Markdown解析器，完全支持 [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda](https://github.com/milesj/decoda) -轻量级的标记解析器库.
 * [Emoji](https://github.com/heyupdate/Emoji) -将Unicode字符和名称转换为表情符号图像的库.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) -将HTML转换为Markdown.
@@ -576,7 +576,7 @@
 * [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) -支持YAML，JSON和XML的架构验证库.
 * [Respect Validation](https://github.com/Respect/Validation) -一个简单的验证库.
-* [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
+* [Upload](https://github.com/brandonsavage/Upload) -用于处理文件上传和验证的库.
 * [Valitron](https://github.com/vlucas/valitron) -另一个验证库.
 * [Volan](https://github.com/serkin/Volan) -另一个简化的验证库.
 
@@ -616,7 +616,7 @@
 * [PINQ](https://github.com/TimeToogo/Pinq) -一个基于.NET的LINQ（语言集成查询）的PHP库.
 * [Porter](https://github.com/ScriptFUSION/Porter) -数据导入抽象框架.
 * [Serializer](https://github.com/schmittjoh/serializer) -用于序列化和反序列化数据的库.
-* [YaLinqo](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
+* [YaLinqo](https://github.com/Athari/YaLinqo) -另一个用于PHP的LINQ对象.
 * [Zend Serializer](https://github.com/zendframework/zend-serializer) -另一个用于序列化和反序列化数据的库（ZF2）.
 
 ### Notifications
@@ -624,7 +624,7 @@
 
 * [JoliNotif](https://github.com/jolicode/JoliNotif) -用于桌面通知的跨平台库（支持Growl，通知发送，烤面包机等）
 * [Notification Pusher](https://github.com/Ph3nol/NotificationPusher) -用于设备推送通知的独立库.
-* [Notificato](https://github.com/mac-cain13/notificato) - A library for handling push notifications.
+* [Notificato](https://github.com/mac-cain13/notificato) -用于处理推送通知的库.
 * [Notificator](https://github.com/namshi/notificator) -轻量级的通知库.
 * [Php-pushwoosh](https://github.com/gomoob/php-pushwoosh) -一个PHP库，可通过Pushwoosh REST Web服务轻松发送推送通知.
 
@@ -678,14 +678,14 @@
 * [Annotations](https://github.com/doctrine/annotations) -注释库（Doctrine的一部分）.
 * [BotMan](https://github.com/botman/botman) -与框架无关的PHP库，用于构建跨平台的聊天机器人.
 * [Cake Utility](https://github.com/cakephp/utility) -实用程序类，例如Inflector，String，Hash，Security和Xml（CP）.
-* [Chief](https://github.com/adamnicholson/Chief) -命令总线库.
+* [Chief](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) -用于优化自动加载的库.
-* [Country List](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
+* [Country List](https://github.com/umpirsky/country-list) -具有名称和ISO 3166-1代码的所有国家/地区的列表.
 * [Embera](https://github.com/mpratt/Embera) -Oembed消费者图书馆.
 * [Essence](https://github.com/essence/essence) -用于提取Web媒体的库.
 * [Graphviz](https://github.com/alexandresalome/graphviz) -Graphviz库.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) -一个非常新颖的RPC库，现在支持25种以上的语言.
-* [JSON Lint](https://github.com/Seldaek/jsonlint) -JSON皮棉实用程序.
+* [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) -用于验证JSONP回调的库.
 * [Lock](https://github.com/php-lock/lock) -提供独占执行的锁库.
 * [Metrics](https://github.com/beberlei/metrics) -一个简单的指标API库.
@@ -749,7 +749,7 @@
 * [VS Code](https://code.visualstudio.com/) -开源代码编辑器.
 
 ### Web Applications
-*基于Web的应用程序和工具.*
+*Web-based applications and tools.*
 
 * [3V4L](https://3v4l.org/) -在线PHP和HHVM Shell.
 * [DBV](https://dbv.vizuina.com/) -数据库版本控制应用程序.

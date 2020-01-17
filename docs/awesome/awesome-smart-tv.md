@@ -31,6 +31,7 @@
 * [samsung-remote-models-2014-and-newer](https://github.com/tdudek/samsung-remote-models-2014-and-newer) -与三星电视型号2014+的内部Web服务的加密通信.
 * [SmartCrypto](https://github.com/sectroyer/SmartCrypto) -SmartView2加密的握手API在C / Python中的实现.
 * [samsung-messagebox](https://github.com/shantanugoel/samsung-messagebox) -Python脚本，用于在三星电视上显示通知.
+* [samsung-tv-control](https://github.com/Toxblh/samsung-tv-control) -Node.js中用于远程控制三星电视的库
 
 #### Other
 * [Identification of Samsung TV models 2008-2017](http://en.tab-tv.com/?page_id=7123) -如何从三星电视型号名称中获取屏幕尺寸，矩阵类型，开发年份，系列和其他参数.
@@ -82,12 +83,12 @@
 * [TOAST](http://developer.samsung.com/tv/develop/extension-libraries/toast/) -开发多平台电视应用程序的三星开源框架.
 * [Enyo](http://enyojs.com) -LG框架，适用于从电话和平板电脑到PC和TV的所有主要平台的开发应用程序.
 * [Smartbox](https://github.com/immosmart/smartbox) -适用于三星，LG，飞利浦，SmartTV Aliance，STB Mag应用程序开发的智能电视通用库.
-* [Mautilus Smart TV SDK](https://github.com/mautilus/sdk) - A platform-agnostic framework for developing TV Apps. Supports Samsung, LG, Philips, Sony, Panasonic and VESTEL Smart TVs.
+* [Mautilus Smart TV SDK](https://github.com/mautilus/sdk)  -用于开发TV Apps的与平台无关的框架.  支持三星，LG，飞利浦，索尼，松下和VESTEL智能电视.
 * [BBC TAL](https://bbc.github.io/tal/) -由BBC工程师开发的用于构建智能电视应用程序的开源库.
 * [PureQML TV](https://github.com/pureqml/qmlcore-tv)  -用于基于Web的SmartTV / STB平台的声明性前端框架.  具有对Android TV的实验支持.
 
 ## Remote control protocols
-* [DLNA](https://en.wikipedia.org/wiki/Digital_Living_Network_Alliance)  -用于通过家庭网络共享数据的行业标准.  根据所拥有的DLNA兼容设备的不同，您可能可以将电影从笔记本电脑流式传输到电视上，可以通过高保真系统播放手机上存储的MP3，或者在家用打印机上从平板电脑上打印照片.
+* [DLNA](https://en.wikipedia.org/wiki/Digital_Living_Network_Alliance)  -用于通过家庭网络共享数据的行业标准.  根据您所拥有的DLNA兼容设备的不同，您可能可以将电影从笔记本电脑流式传输到电视上，可以通过高保真系统播放手机上存储的MP3，或者在家用打印机上通过平板电脑打印照片.
 * [Wi-Fi Direct](https://en.wikipedia.org/wiki/Wi-Fi_Direct) -标准启用设备，无需无线接入点即可轻松相互连接.
 * [Miracast](https://en.wikipedia.org/wiki/Miracast)  -从设备（例如笔记本电脑，平板电脑或智能手机）到显示器（例如电视，显示器或投影仪）的无线连接的标准.  通过Wi-Fi Direct工作.
 

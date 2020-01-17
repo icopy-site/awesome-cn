@@ -71,10 +71,10 @@
 ## Books
 
 - [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)  –在More OCaml中，约翰·惠灵顿（John Whitington）进行了OCaml函数编程的曲折之旅，介绍了各种语言功能并描述了一些经典算法.  本书以处理PDF文件生成的大型示例作为结尾.  每章都有问题，以及有效的答案和提示.
-- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html)  艾伦·唐尼（Allen Downey）和尼古拉斯·蒙耶（Nicholas Monje）撰写的-《如何像计算机科学家一样思考》是一本基于OCaml语言的入门编程教科书.  它是Allen Downey编写的Think Python的修改版本.  它适用于编程的新手，以及那些了解一些编程但想在面向功能的范式中学习编程的人，或者只是想学习OCaml的人.
+- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html)  由艾伦·唐尼（Allen Downey）和尼古拉斯·蒙耶（Nicholas Monje）撰写-如何像计算机科学家一样思考是一本基于OCaml语言的入门编程教科书.  它是Allen Downey编写的Think Python的修改版本.  它适用于编程的新手，以及那些了解一些编程但想在面向功能的范式中学习编程的人，或者只是想学习OCaml的人.
 - [OCaml from the Very Beginning](http://ocaml-book.com/) 由J. Whitington撰写-OCaml从一开始就将吸引新的程序员，以及经验丰富的渴望探索功能语言（例如OCaml）的程序员.
 - [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)  由理查德·伯德（Richard Bird）撰写-总结了函数编程世界中的30个难题.  尽管是针对Haskell的，但算法问题却非常有趣，尝试在OCaml中解决它们也有助于功能编程的思考.  OCaml中的部分解决方案是 [here](https://github.com/MassD/pearls).
-- [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
+- [Real World OCaml](https://realworldocaml.org/) 由Y. Minsky，A.Madhavapeddy和J. Hickey编写-面向大众的函数式编程.
 - [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/) 由X. Leroy和D.Rémy撰写– Unix系统编程简介，重点是进程之间的通信.
 - [Using, Understanding, and Unraveling OCaml](https://caml.inria.fr/pub/docs/u3-ocaml) –本书描述了OCaml语言及其强大的类型系统背后的理论基础.
 - [Purely Functional Data Structures](https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures)  -这是针对FP世界中各种数据结构的第一本或唯一一本书籍.  必读的.
@@ -296,6 +296,15 @@
 - [Volt](https://github.com/codinuum/volt) – Bolt OCaml日志记录工具的变体.
 - [Logs](http://erratique.ch/software/logs) -日志为OCaml提供了日志记录基础结构.
 
+## Machine Learning
+
+-**图书馆**
+	- [Owl](https://ocaml.xyz/) -具有神经网络，算法区分和ONNX支持的科学图书馆.
+	- [Object detection convolutional neural network with OCaml (based on Owl)](https://github.com/owlbarn/owl_mask_rcnn).
+-**文章**
+	- [Deep Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/deep-learning-experiments-in-ocaml/).
+	- [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).
+	- [Reinforcement Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/playing-atari-games-with-ocaml-and-deep-rl/).
 
 ## Messaging
 
@@ -369,7 +378,7 @@
   - [Oasis](http://oasis.forge.ocamlcore.org/)  -在OCaml项目中集成配置，构建和安装系统的工具.  它有助于在构建系统中创建标准入口点，并允许外部工具轻松分析项目.
     - [oasis2opam](https://github.com/ocaml/oasis2opam) —将O​​ASIS元数据转换为OPAM软件包描述的工具.
   - [obuild](https://github.com/ocaml-obuild/obuild) –简单的ocaml软件包构建系统.
-  - [dune](https://github.com/ocaml/dune) –用于OCaml的可组合且自以为是的构建系统（前jbuilder）
+  - [dune](https://github.com/ocaml/dune) –用于OCaml的可组合且自以为是的构建系统（以前的jbuilder）
   - [jenga](https://github.com/janestreet/jenga) – Jane Street的Monadic构建系统.
   - [ocamlbuild](http://ocaml.org/learn/tutorials/ocamlbuild/) —编译器随附的构建系统.
   - [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) —适用于中小型OCaml项目的易于使用的Makefile.
@@ -410,7 +419,7 @@
 - [obandit](http://freux.fr/oss/obandit.html) -OCaml库，用于多臂匪徒.
 - [onumerical](https://github.com/cheshire/onumerical) – OCaml的数字库.
 - [oml](https://github.com/hammerlab/oml) -用于一般数值工作的OCaml库.
-- [ocephes](https://github.com/rleonid/ocephes) -绑定到常用的`C`特殊函数库.
+- [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
 - [slap](https://github.com/akabe/slap) -OCaml中的线性代数库，具有用于矩阵运算的基于类型的静态大小检查.
 - [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – TensorFlow的OCaml绑定.
 - [owl](https://github.com/owlbarn/owl) -OCaml数值库：密集和稀疏矩阵，线性代数，回归，数学和统计函数.
@@ -500,7 +509,7 @@
     对于Base64，带引号的可打印内容，URL编码和HTML转义，
     [Netmime](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netmime.html)
     用于MIME处理等.请参见[
-    模块]（http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html）
+    modules](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html)
     在Ocamlnet的手册中.
   - [tyxml](http://ocsigen.org/tyxml) —用于构建有效的（根据W3C规范）Html和Svg树的库.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml)  – Js_of_ocaml是OCaml字节码到Javascript的编译器.  这样就可以在Web浏览器中运行Ocaml程序.
@@ -513,7 +522,7 @@
   - [atdjs](https://github.com/barko/atdjs) –用于OCaml / js_of_ocaml的atd代码生成器.
   - [jingoo](https://github.com/tategakibunko/jingoo) – OCaml模板引擎几乎与jinja2兼容.
   - [dispatch](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
-  - [Lambda Soup](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
+  - [Lambda Soup](https://github.com/aantron/lambda-soup) -使用CSS选择器进行功能性HTML抓取和操作，如Python的Beautiful Soup.
   - [Markup.ml](https://github.com/aantron/markup.ml) -错误恢复流HTML5和XML解析器，序列化器.
   - [gen_js_api](https://github.com/LexiFi/gen_js_api) -gen_js_api旨在简化Java库的OCaml绑定的创建.
   - [routes](https://github.com/anuragsoni/routes) -OCaml / ReasonML Web应用程序的类型化路由.

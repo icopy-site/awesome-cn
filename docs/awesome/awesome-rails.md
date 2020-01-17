@@ -39,6 +39,11 @@
 
 - [GitHub Jobs](https://jobs.github.com/positions?description=Rails)
 - [StackOverflow](http://careers.stackoverflow.com/jobs/tag/ruby-on-rails)
+- [railsjobs on Reddit](https://www.reddit.com/r/railsjobs/)
+- [rails jobs on indeed.com](https://www.indeed.com/q-Ruby-On-Rails-jobs.html)
+- [rails jobs on glassdoor.com](https://www.glassdoor.com/Job/ruby-on-rails-developer-jobs-SRCH_KO0,23.htm)
+
+&gt;提示：您可以在以下位置找到远程作业板的列表，包括Rails作业 [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards)
 
 
 ### Community
@@ -87,6 +92,8 @@
 
 
 ## Open Source Rails Apps
+
+ &gt;注意：这些应用程序的Rails版本作为最新提交日期有效.  它们在其Gemfile和/或Gemfile.lock中定义，它们可能已过时.  如果您发现它已过时，请不要忘记打开请求请求来通知我们.
 
 - [activeWorkflow](https://github.com/automaticmode/active_workflow) -基于软件代理的智能流程和工作流自动化平台-**使用Rails 5.2 **
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) -市民基础设施检测应用-**使用Rails 4.2 **

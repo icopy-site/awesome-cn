@@ -28,7 +28,7 @@ _处理应用程序的构建周期和依赖关系的工具.
 - [Apache Maven](https://maven.apache.org)  -声明式构建和依赖项管理，相对于配置更倾向于约定.  它可能比Apache Ant更可取，后者使用一种相当程序性的方法并且可能难以维护.
 - [Bazel](https://bazel.io) -Google提供的工具，可快速可靠地构建代码.
 - [Buck](https://github.com/facebook/buck) -鼓励创建由代码和资源组成的小型可重用模块.
-- [Gradle](https://gradle.org) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
+- [Gradle](https://gradle.org)  -通过Groovy编程的增量构建，而不是声明XML.  与Maven的依赖项管理配合良好.
 
 ### Bytecode Manipulation
 
@@ -54,7 +54,7 @@ _提供缓存功能的库.
 
 ### CLI
 
-_Libraries for everything related to the CLI._
+_与CLI相关的所有库.
 
 - [ASCII Table](https://github.com/vdmeer/asciitable) -以ASCII格式绘制表格的库.
 - [Airline](https://github.com/airlift/airline) -基于注释的框架，用于解析类似Git的命令行参数.
@@ -192,7 +192,7 @@ _简化与数据库交互的所有内容._
 _高效而具体的数据结构.
 
 - [Apache Avro](https://avro.apache.org) -数据交换格式，具有动态类型，未加标签的数据以及缺少手动分配的ID.
-- [Apache Orc](https://orc.apache.org) - Fast and efficient columnar storage format for Hadoop-based workloads.
+- [Apache Orc](https://orc.apache.org) -针对基于Hadoop的工作负载的快速，高效的列式存储格式.
 - [Apache Parquet](https://parquet.apache.org) -基于Google关于Dremel的论文中的汇编算法的列式存储格式.
 - [Apache Thrift](https://thrift.apache.org) -源自Facebook的数据交换格式.
 - [Big Queue](https://github.com/bulldog2011/bigqueue) -基于内存映射文件的大型，快速且持久的队列.
@@ -201,7 +201,7 @@ _高效而具体的数据结构.
 - [Protobuf](https://github.com/google/protobuf) -Google的数据交换格式.
 - [SBE](https://github.com/real-logic/simple-binary-encoding) -简单的二进制编码，这是最快的消息格式之一.
 - [Tape](https://github.com/square/tape) -闪电般的，基于事务的，基于文件的FIFO.
-- [Wire](https://github.com/square/wire) -干净，轻便的协议缓冲区.
+- [Wire](https://github.com/square/wire) - Clean, lightweight protocol buffers.
 
 ### Date and Time
 
@@ -276,7 +276,7 @@ _以本机格式处理应用程序分发的工具.
 - [IzPack](http://izpack.org) -用于跨平台部署的安装创作工具.
 -[Nexus！[c]]（https://www.sonatype.com/nexus/solution-overview）-具有代理和缓存功能的二进制管理.
 - [packr](https://github.com/libgdx/packr) -打包JAR，资产和JVM，以便在Windows，Linux和Mac OS X上进行本机分发.
-- [really-executable-jars-maven-plugin](https://github.com/brianm/really-executable-jars-maven-plugin) -用于制作自动执行的JAR的Maven插件.
+- [really-executable-jars-maven-plugin](https://github.com/brianm/really-executable-jars-maven-plugin) - Maven plugin for making self-executing JARs.
 
 ### Document Processing
 
@@ -286,6 +286,15 @@ _协助处理Office文档格式的库.
 - [documents4j](http://documents4j.com) -使用第三方转换器（例如MS Word）进行文档格式转换的API.
 - [docx4j](https://www.docx4java.org/trac/docx4j) -创建和操作Microsoft Open XML文件.
 - [zerocell](https://github.com/creditdatamw/zerocell) -基于注释的API，用于将数据从Excel工作表读取到POJO中，以减少开销为重点.
+
+### Financial
+
+*与金融领域相关的图书馆.*
+
+- [Parity](https://github.com/paritytrading/parity) -交易场所的平台.
+- [Philadelphia](https://github.com/paritytrading/philadelphia) -低延迟财务信息交换.
+- [Stripe](https://github.com/stripe/stripe-java) -与Stripe API集成
+- [Square](https://github.com/square/connect-java-sdk/) -与Square API集成.
 
 ### Formal Verification
 
@@ -391,7 +400,7 @@ _试图简化开发多个方面的集成开发环境.
 
 _可协助创建，评估或处理图形图像的库.
 
-- [Imgscalr](https://github.com/thebuzzmedia/imgscalr) -以纯Java 2D实现的简单，高效且硬件加速的图像缩放库.
+- [Imgscalr](https://github.com/thebuzzmedia/imgscalr) - Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.
 - [Tess4J](https://github.com/nguyenq/tess4j) -用于Tesseract OCR API的JNA包装器.
 - [Thumbnailator](https://github.com/coobird/thumbnailator) -高质量的缩略图生成库.
 - [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) -扩展了支持的图像文件格式数量的插件集合.
@@ -411,11 +420,11 @@ _帮助简化和更快使用Java自省和反射API的库.
 
 ### Job Scheduling
 
-_Libraries for scheduling background jobs._
+_用于调度后台作业的库.
 
 - [Quartz](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
 - [Sundial](https://github.com/knowm/Sundial) -轻型框架，可以简单地定义作业，定义触发器和启动调度程序.
-- [Wisp](https://github.com/Coreoz/Wisp) -具有最少资源占用和简单API的简单库.
+- [Wisp](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
 - [db-scheduler](https://github.com/kagkarlsson/db-scheduler) -持久且群集友好的调度程序.
 
 ### JSON
@@ -449,7 +458,7 @@ _用于处理JSON格式的数据的库.
 _JVM / JDK的当前实现.
 
 - [Adopt Open JDK](https://adoptopenjdk.net) -社区驱动的OpenJDK构建，包括HotSpot和OpenJ9.
-- [Avian](https://github.com/ReadyTalk/avian) -具有JIT，AOT模式和iOS端口的JVM.
+- [Avian](https://github.com/ReadyTalk/avian) - JVM with JIT, AOT modes and iOS port.
 - [Corretto](https://aws.amazon.com/corretto)  -由Amazon提供的OpenJDK的免费，多平台，生产就绪的发行版.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Graal](https://github.com/oracle/graal)  -Polyglot可嵌入的JVM.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Liberica JDK](https://www.bell-sw.com/java.html)  -由OpenJDK构建，经过全面测试并通过了JCK.  （仅限GPL-2.0，带Classpath-exception-2.0）
@@ -477,7 +486,7 @@ _记录应用程序行为的库.
 
 ### Machine Learning
 
-_提供用于从数据中学习的特定统计算法的工具._
+_Tools that provide specific statistical algorithms for learning from data._
 
 - [Apache Flink](https://flink.apache.org) -快速，可靠的大规模数据处理引擎.
 - [Apache Mahout](https://mahout.apache.org) -专注于协作过滤，聚类和分类的可扩展算法.
@@ -502,11 +511,11 @@ _帮助客户端之间发送消息以确保协议独立性的工具._
 - [Apache Kafka](https://kafka.apache.org) -高吞吐量的分布式消息传递系统.
 - [Apache Pulsar](https://pulsar.apache.org) -分布式发布/子消息系统.
 - [Apache RocketMQ](https://rocketmq.apache.org) -快速，可靠和可扩展的分布式消息传递平台.
-- [Apache Qpid](https://qpid.apache.org) -Apache Qpid开发了使用AMQP并支持多种语言和平台的消息传递工具.
+- [Apache Qpid](https://qpid.apache.org) - Apache Qpid makes messaging tools that speak AMQP and support many languages and platforms.
 - [EventBus](https://github.com/greenrobot/EventBus) -简单的发布/订阅事件总线.
 - [Hermes](http://hermes.allegro.tech) -建立在Kafka之上的快速可靠的消息代理.
 - [JeroMQ](https://github.com/zeromq/jeromq) -实施ZeroMQ.
-- [Nakadi](https://github.com/zalando/nakadi) - Provides a RESTful API on top of Kafka.
+- [Nakadi](https://github.com/zalando/nakadi) -在Kafka之上提供RESTful API.
 - [RabbitMQ Java client](https://github.com/rabbitmq/rabbitmq-java-client) -RabbitMQ客户端.
 - [Smack](https://github.com/igniterealtime/Smack) -跨平台XMPP客户端库.
 - [NATS client](https://github.com/nats-io/java-nats) -NATS客户.
@@ -539,6 +548,7 @@ _其他一切_
 - [OpenRefine](http://openrefine.org) -处理混乱数据的工具：清理，转换，使用Web服务扩展它并将其链接到数据库.
 - [PipelinR](https://github.com/sizovs/pipelinr) –小型实用程序库，用于将处理程序和命令与管道一起使用.
 - [Polyglot for Maven](https://github.com/takari/polyglot-maven) -Maven 3.3.1+的扩展允许以非XML的方言编写POM模型.
+- [Simple Java Mail](https://github.com/bbottema/simple-java-mail) -使用干净流畅的API进行邮件发送. 
 - [Smooks](https://github.com/smooks/smooks)  -用于构建处理数据的应用程序的可扩展框架，这意味着绑定，转换，消息处理和扩充.  （仅限LGPL-3.0）
 - [Togglz](https://www.togglz.org) -实现功能切换模式.
 - [TypeTools](https://github.com/jhalterman/typetools) -解决泛型类型的工具.
@@ -557,6 +567,7 @@ _用于创建和管理微服务的工具.
 - [Lagom](https://www.lightbend.com/lagom) -用于创建基于微服务的系统的框架.
 - [Micronaut](http://micronaut.io) -现代全栈框架，重点放在模块化，最小的内存占用和启动时间上.
 - [Nacos](https://nacos.io) -用于构建云本机应用程序的动态服务发现，配置和服务管理平台.
+- [Quarkus](https://quarkus.io) -为HotSpot和Graal VM量身定制的Kubernetes堆栈.
 
 ### Monitoring
 
@@ -573,7 +584,7 @@ _监视生产中的应用程序的工具.
 - [jmxtrans](https://github.com/jmxtrans/jmxtrans)  -连接到多个JVM，并通过JMX查询它们的属性.  它的查询语言基于JSON，它允许非Java程序员访问JVM属性.  支持不同的输出写入，包括Graphite，Ganglia和StatsD.
 - [Jolokia](https://jolokia.org) -通过REST的JMX.
 -[Kamon！[c]]（https://kamon.io）-用于监视在JVM上运行的应用程序的工具.
-- [Metrics](http://metrics.dropwizard.io) -通过JMX或HTTP公开指标，并将其发送到数据库.
+- [Metrics](http://metrics.dropwizard.io) - Expose metrics via JMX or HTTP and send them to a database.
 -[Datadog！[C]]（https://www.datadoghq.com）-现代监控和分析.
 - [nudge4j](https://github.com/lorenzoongithub/nudge4j) -Java 8浏览器通过字节码注入从远程开发者控制台.
 - [Pinpoint](https://github.com/naver/pinpoint) -开源APM工具.
@@ -609,7 +620,7 @@ _用于构建网络服务器的库.
 - [AkkaGRPC](https://github.com/akka/akka-grpc) -支持在Akka流之上构建流gRPC服务器和客户端.
 - [Comsat](https://github.com/puniverse/comsat) -将标准Java Web相关的API与Quasar光纤和参与者集成在一起.
 - [Dubbo](https://github.com/alibaba/dubbo) -高性能RPC框架.
-- [Finagle](https://github.com/twitter/finagle)  -用于构建高并发服务器的可扩展RPC系统.  它为几种协议实现统一的客户端和服务器API，并且与协议无关，以简化新协议的实现.
+- [Finagle](https://github.com/twitter/finagle) - Extensible RPC system for constructing high-concurrency servers. It implements uniform client and server APIs for several protocols, and is protocol-agnostic to simplify implementation of new protocols.
 - [Grizzly](https://javaee.github.io/grizzly)  -NIO框架.  在Glassfish中用作网络层.
 - [gRPC](https://github.com/grpc/grpc-java) -基于protobuf和HTTP / 2的RPC框架.
 - [KryoNet](https://github.com/EsotericSoftware/kryonet) -提供干净，简单的API，以使用NIO和Kryo​​进行有效的TCP和UDP客户端/服务器网络通信.
@@ -690,7 +701,7 @@ _框架是包含多个类别的多个库的套件.
 - [Compress](http://commons.apache.org/proper/commons-compress) -定义用于处理tar，zip和bzip2文件的API.
 - [Configuration](http://commons.apache.org/proper/commons-configuration) -读取各种格式的配置/首选项文件.
 - [Convert](http://commons.apache.org/sandbox/commons-convert) -Commons-Convert旨在提供一个单一的库，专门用于将一种类型的对象转换为另一种类型的对象.
-- [CSV](http://commons.apache.org/proper/commons-csv) - Component for reading and writing comma separated value files.
+- [CSV](http://commons.apache.org/proper/commons-csv) -用于读取和写入逗号分隔值文件的组件.
 - [Daemon](http://commons.apache.org/proper/commons-daemon) -类似于Unix守护程序的Java代码的替代调用机制.
 - [DBCP](http://commons.apache.org/proper/commons-dbcp) -数据库连接池服务.
 - [DbUtils](http://commons.apache.org/proper/commons-dbutils) -JDBC帮助程序库.
@@ -708,7 +719,7 @@ _框架是包含多个类别的多个库的套件.
 - [IO](http://commons.apache.org/proper/commons-io) -收集I / O实用程序.
 - [Javaflow](http://commons.apache.org/sandbox/commons-javaflow) -继续实施以捕获应用程序的状态.
 - [JCI](http://commons.apache.org/proper/commons-jci) -Java编译器接口.
-- [JCS](http://commons.apache.org/proper/commons-jcs) - Java Caching System.
+- [JCS](http://commons.apache.org/proper/commons-jcs) -Java缓存系统.
 - [Jelly](http://commons.apache.org/proper/commons-jelly) -基于XML的脚本和处理引擎.
 - [Jexl](http://commons.apache.org/proper/commons-jexl) -扩展JSTL的表达语言的表达语言.
 - [JNet](http://commons.apache.org/sandbox/commons-jnet) -JNet允许通过java.net API动态使用注册的URL流处理程序.
@@ -874,8 +885,8 @@ _对TDD中出现的，受DDD和OOAD严重影响的软件开发过程进行测试
 - [Cucumber](https://github.com/cucumber/cucumber-jvm) -提供一种以普通语言描述功能的方法，客户可以理解.
 - [Cukes-REST](https://github.com/ctco/cukes-rest) -用于使用Cucumber进行REST服务测试的Gherkin步骤的集合.
 - [J8Spec](https://github.com/j8spec/j8spec) -遵循类似Jasmine的语法.
-- [JBehave](http://jbehave.org) - Extensively configurable framework that describes stories.
-- [JGiven](http://jgiven.org) -提供流利的API，可以简化组成.
+- [JBehave](http://jbehave.org) -描述故事的可广泛配置的框架.
+- [JGiven](http://jgiven.org) -提供流利的API，可简化组成。
 - [Lamdba Behave](https://github.com/RichardWarburton/lambda-behave) -旨在提供流利的API，以长而描述性的句子编写测试，使句子看起来像普通的英语.
 - [Serenity BDD](https://www.thucydides.info) -与Cucumber，JBehave和JUnit一起使用的自动验收测试和报告库，使编写高质量的可执行规范变得更加容易.
 
@@ -939,7 +950,7 @@ _模拟合作者以帮助测试单个隔离单元的工具.
 _提供一般实用程序功能的库.
 
 - [bucket4j](https://github.com/vladimir-bukhtoyarov/bucket4j) -基于令牌桶算法的速率限制库.
-- [cactoos](http://www.cactoos.org) -面向对象原语的集合.
+- [cactoos](http://www.cactoos.org) - Collection of object-oriented primitives.
 - [CRaSH](http://www.crashub.org)  -为运行CRaSH的JVM提供外壳程序.  由Spring Boot和其他人使用.  （LGPL-2.1或更高版本）
 - [Dex](https://github.com/PatMartin/Dex) -具备强大的ETL和数据可视化功能的Java / JavaFX工具.
 - [Embulk](http://www.embulk.org) -批量数据加载器，可帮助在各种数据库，存储，文件格式和云服务之间进行数据传输.
@@ -955,7 +966,7 @@ _提供一般实用程序功能的库.
 
 ### Version Managers
 
-_Utilities that help create the development shell environment and switch between different Java versions._
+_有助于创建开发外壳环境并在不同Java版本之间切换的实用程序.
 
 - [jabba](https://github.com/shyiko/jabba)  -受nvm启发的Java版本管理器.  支持Mac OS X，Linux和Windows.
 - [jenv](https://github.com/gcuisinier/jenv)  -受rbenv启发的Java版本管理器.  可以全局配置或按项目配置.  在Debian和Mac OS X上测试.

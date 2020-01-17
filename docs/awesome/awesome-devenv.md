@@ -129,7 +129,7 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 #### Extensions
 * [VS Code Extension Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories) -扩展官方网站
 * [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) -官方Python扩展
-* [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) -出色的扩展程序，用于设置和VS代码设置的扩展程序同步
+* [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
 
 ## Git
 *提供令人敬畏的Git体验的工具和插件*
@@ -153,6 +153,7 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 * [Fenix Web Server](https://fenixwebserver.com) -具有按钮共享功能的多主机本地静态Web服务器（桌面应用程序）.
 * [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) -用于机器学习和数据科学的基于Web的多合一开发环境.
 * [Mockoon](https://mockoon.com) -API / HTTP REST模拟桌面应用程序
+* [HTTP Toolkit](https://httptoolkit.tech) -HTTP检查和调试桌面应用程序
 
 ## Notifications
 *通知开发人员工作环境变化的工具*
@@ -229,7 +230,7 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 * [LiveReload](http://livereload.com/) -FS手表和预处理器，作为带有/ OSX /和/ WIN /的桌面应用程序，具有互补的浏览器扩展
   * [guard-livereload](https://github.com/guard/guard-livereload) -与LiveReload的浏览器扩展兼容的Guard插件
   * [simplehttp](https://github.com/snwfdhmp/simplehttp) 开始通过http提供本地目录的最快，最简单的方法.
-* [watchman](https://github.com/facebook/watchman) - Facebook's better
+* [watchman](https://github.com/facebook/watchman) -Facebook更好
   `watch`-注意它可以作为服务.
 * [Zappr](https://github.com/zalando/zappr) -GitHub集成旨在通过启用/禁用拉取请求批准检查来增强您的项目工作流程.
 * [ergo](https://github.com/cristianoliveira/ergo) -管理通过不同端口运行的多个本地服务变得容易.
