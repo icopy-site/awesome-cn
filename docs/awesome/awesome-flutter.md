@@ -63,7 +63,7 @@
 
 ### Tutorial
 
-- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) -通过Google Code Labs构建漂亮的UI.
+- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) -通过Google Code Labs构建漂亮的用户界面.
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) -Google Code Labs的Firebase集成.
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) -详细的行星设计教程.
 - [Todo List](https://github.com/lesnitsky/todolist_flutter) [125⭐] –分步教程，如何通过Flutter构建待办事项列表 [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
@@ -73,19 +73,19 @@
 - [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb)  -专注于动画 [Mikkel Ravn](https://medium.com/@mravn).
 - [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2)  -常用的动画示例 [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler).
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) -布局小部件的广泛示例 [Tomek Polański](https://github.com/tomaszpolanski).
-- [Pooja's Guide to Flutterverse](https://medium.com/flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26)  -循序渐进指南学习超级初学者Flutter [Pooja Bhaumik](https://twitter.com/pblead26).
+- [Pooja's Guide to Flutterverse](https://medium.com/flutter-community/i-want-to-learn-flutter-how-to-start-ffb4145f9b26)  -循序渐进的学习Flutter的初学者指南 [Pooja Bhaumik](https://twitter.com/pblead26).
 
 ### Advanced
 
 - [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU) [382]-Adam Barth的引擎架构.
 - [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208)   -什么是小部件，RenderObject和元素？  通过 [Norbert515](https://github.com/Norbert515).
-- [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) -技能介绍 [Brian Egan](https://github.com/brianegan).
+- [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) -通过介绍技能 [Brian Egan](https://github.com/brianegan).
 - [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f)  -颤抖的深潜：手势 [Nash](https://nash0x7e2.github.io/).
-- [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) -小部件，状态，上下文和InheritedWidget的解释 [Didier Boelens](https://didierboelens.com).
+- [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) -的小部件，状态，上下文和InheritedWidget说明 [Didier Boelens](https://didierboelens.com).
 - [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d)  -Flutter的渲染引擎：教程 [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/).
 - [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) -Flutter的InheritedWidget通过以下方式保持应用状态 [Chema Molins](https://github.com/jmolins).
-- [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) -通过以下方式构建智能手机和台式机的应用程序 [Marcelo Henrique Neppel](https://neppel.com.br).
-- [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc)  -通过以下方式深入了解可访问性的各个方面 [Muhammed Salih Güler](https://twitter.com/salihgueler).
+- [From Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) -通过构建智能手机和台式机的应用程序 [Marcelo Henrique Neppel](https://neppel.com.br).
+- [Accessibility widgets](https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc)  -有关可访问性各个方面的深入信息 [Muhammed Salih Güler](https://twitter.com/salihgueler).
 - [Profiling w/ Timeline](https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3)  -使用时间轴，您可以通过以下方式查找和解决应用程序中的特定性能问题： [Chinmay Garde](https://medium.com/@chinmaygarde).
 
 ### Howtos
@@ -97,9 +97,9 @@
 
 - [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) -与Flutter团队一起探索.
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [81]-内容非常丰富 [Tensor Programming](http://tensor-programming.com/).
-- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) [157]-[北印度文/英文] Mtechviral系列作者 [Pawan Kumar](https://github.com/iampawan).
+- [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) [157]-[印地文/英文] Mtechviral系列作者 [Pawan Kumar](https://github.com/iampawan).
 - [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) -面向初学者和非程序员的免费视频课程 [Zaiste](https://zaiste.net/).
-- [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) [81]-关于Flutter Widgets的免费视频系列 [Kamal](https://github.com/whatsupcoders).
+- [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) [81]-由Flutter Widgets提供的免费视频系列 [Kamal](https://github.com/whatsupcoders).
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) -高产值和深入的挑战.
 
 
@@ -109,27 +109,27 @@
 
 - [Official Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) -Flutter Team提供的材料设计小部件的演示.
 - [Flutter Examples](https://github.com/nisrulz/flutter-examples) [3725⭐]-由开发人员开发的简单的基本隔离应用程序 [Nishant Srivastava](https://github.com/nisrulz).
-- [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) [760⭐]-通过并排显示源代码视图的方式展示Flutter组件的应用 [X-Wei](https://github.com/X-Wei).
+- [Flutter Catalog](https://github.com/X-Wei/flutter_catalog) [760⭐]-展示Flutter组件的应用程序，并排显示了源代码 [X-Wei](https://github.com/X-Wei).
 
 #### Web Demonstration
 
-- [Flutter Widget Live Book](https://flutter-widget-livebook.blankapp.org/) -实时的Web小部件预览 [JianyingLi](https://github.com/lijy91/).
+- [Flutter Widget Live Book](https://flutter-widget-livebook.blankapp.org/) -实时在线预览小部件 [JianyingLi](https://github.com/lijy91/).
 
 ### UI
 
 - [Contact Picker](https://github.com/goderbauer/contact_picker) [49⭐]-从通讯录中选择联系人 [Michael Goderbauer](https://github.com/goderbauer).
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [1033⭐]-GridView具有可变大小的图块 [Romain Rastel](https://github.com/letsar).
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [257⭐]-动画径向菜单 [Victor Choueiri](https://github.com/xqwzts).
-- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) [340⭐]-像火种的卡片刷卡效果 [Ivascu Adrian](https://github.com/Ivaskuu).
-- [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) [696⭐]-从登录到首页的顺畅动画 [Ruchika Gupta](https://github.com/geekruchika).
-- [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [256⭐]-具有内置动画的翻转面板 [HungHD](https://github.com/hnvn).
-- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [141⭐]-Facebook的响应小部件 [Duy Tran](https://github.com/duytq94).
+- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) [340⭐]-火种般的卡片刷卡效果 [Ivascu Adrian](https://github.com/Ivaskuu).
+- [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) [696⭐]-从登录到首页的平滑动画 [Ruchika Gupta](https://github.com/geekruchika).
+- [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [256⭐]-带有内置动画的翻转面板 [HungHD](https://github.com/hnvn).
+- [Facebook Reactions](https://github.com/duytq94/facebook-reaction-animation) [141⭐]-Facebook响应小部件，由 [Duy Tran](https://github.com/duytq94).
 - [Flushbar](https://github.com/AndreHaueisen/flushbar) [405⭐]-高度可配置的小吃店 [Andre Haueisen](https://github.com/AndreHaueisen).
 - [Stepper Touch](https://github.com/Rahiche/stepper_touch) [132⭐]-横向价值步进器很好地由 [Raouf Rahiche](https://github.com/Rahiche).
 - [Typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) [259⭐]-在用户键入时显示重叠建议 [Abdul Rahman Al Hamali](https://github.com/AbdulRahmanAlHamali).
 - [Snaplist](https://github.com/ariedov/flutter_snaplist) [201⭐]-通过创建快照列表视图 [David Leibovych](https://github.com/ariedov).
-- [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) [83⭐]-动画和可定制的个人识别码，用于登录和通过 [Liew Jun Tung](https://github.com/liewjuntung).
-- [Folding Cell](https://github.com/faob-dev/folding_cell) [178⭐]-通过以下方式折叠小部件 [Faob](https://github.com/faob-dev).
+- [Pin Code](https://github.com/LiewJunTung/pin_code_text_field) [83⭐]-动画和可自定义的个人识别码，用于登录和OTP [Liew Jun Tung](https://github.com/liewjuntung).
+- [Folding Cell](https://github.com/faob-dev/folding_cell) [178⭐]-折叠您的小部件 [Faob](https://github.com/faob-dev).
 - [Liquid Pull To Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) [440⭐]-美观且自定义的刷新指示器 [Ayush Agarwal](https://github.com/aagarwal1012/).
 - [Slide Container](https://pub.dev/packages/slide_container) 垂直和水平滑动，顺畅地通过 [Quentin Le Guennec](https://github.com/quentinleguennec).
 - [Rubber Bottom Sheet](https://github.com/mcrovero/rubber) [218⭐]-弹性材料底片 [Mattia Crovero](https://github.com/mcrovero).
@@ -139,9 +139,9 @@
 
 #### Sticky Headers
 
-- [Sticky Infinite List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) [47⭐]-带有粘性标题的高度可配置的多向无限列表 [TatsuUkraine](https://github.com/TatsuUkraine).
+- [Sticky Infinite List](https://github.com/TatsuUkraine/flutter_sticky_infinite_list) [47⭐]-带有粘性标头的高度可配置的多向无限列表 [TatsuUkraine](https://github.com/TatsuUkraine).
 - [Sticky Header](https://github.com/letsar/flutter_sticky_header) [370⭐]-基于银条的粘性标头 [Romain Rastel](https://github.com/letsar).
-- [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) [392⭐]-通过配置可配置的标头 [Simon Lightfoot](http://www.devangels.london/).
+- [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) [392⭐]-通过配置可配置标头 [Simon Lightfoot](http://www.devangels.london/).
 
 #### Drawers
 
@@ -151,15 +151,15 @@
 
 #### Bottom bars
 
-- [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) [252⭐]-动画底部导航 [Tony Owen](https://github.com/tunitowen).
-- [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) [216⭐]-精美的动画底部导航栏，由 [Iman Khoshabi](https://github.com/imaNNeoFighT).
-- [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) [278⭐]-精美多彩的底部动画导航栏，由 [Pedro Massango](https://github.com/pedromassango).
+- [Fancy Bottom Navigation](https://github.com/tunitowen/fancy_bottom_navigation) [252⭐]-动画的底部导航 [Tony Owen](https://github.com/tunitowen).
+- [Circular Bottom Navigation](https://github.com/imaNNeoFighT/circular_bottom_navigation) [216⭐]-美丽的动画底部导航栏，由 [Iman Khoshabi](https://github.com/imaNNeoFighT).
+- [Bottom Navy Bar](https://github.com/pedromassango/bottom_navy_bar) [278⭐]-精美而丰富多彩的动画底部导航栏，由 [Pedro Massango](https://github.com/pedromassango).
 
 #### Sliders
 
 - [RangeSlider](https://github.com/boeledi/RangeSlider) [185⭐]-2拇指可配置RangeSlider，由 [Didier Boelens](https://www.didierboelens.com).
 - [Fluid Slider](https://github.com/rvamsikrishna/flutter_fluid_slider) [166⭐]-具有最小设计和流畅动画效果的滑块 [Vamsi Krishna](https://github.com/rvamsikrishna).
-- [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) [107⭐]-水平和垂直的材质设计滑块和范围滑块，其中RTL支持 [Ali-Azmoud](https://github.com/Ali-Azmoud).
+- [Flutter Xlider](https://github.com/Ali-Azmoud/flutter_xlider) [107⭐]-水平和垂直的材质设计滑块和范围滑块，具有RTL支持 [Ali-Azmoud](https://github.com/Ali-Azmoud).
 
 #### UI Helpers
 
@@ -168,9 +168,9 @@
 - [Infinite Listview](https://github.com/fluttercommunity/flutter_infinite_listview) [78⭐]-双向无限滚动 [Simon Lightfoot](https://github.com/slightfoot).
 - [Offline](https://github.com/jogboms/flutter_offline) [387⭐]-Tidy实用程序，可通过以下方式处理脱机/在线连接 [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Scroll To Index](https://github.com/quire-io/scroll-to-index) [84⭐]-滚动到具有给定索引的SliverList / ListView的指定子元素 [Jerry Chen](https://github.com/jerrywell/).
-- [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) -ListView通过以下方式通知窗口小部件何时在提供的区域中显示在屏幕上 [Vamsi Krishna](https://github.com/rvamsikrishna).
+- [In View Notifier List](https://github.com/rvamsikrishna/inview_notifier_list) -ListView通知窗口小部件何时在提供区域内的屏幕上显示 [Vamsi Krishna](https://github.com/rvamsikrishna).
 - [Snap](https://github.com/aliyigitbireroglu/flutter-snap) [35⭐]-工具/小部件，用于广泛的快照管理和小部件之间的快照 [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
-- [Flick](https://github.com/aliyigitbireroglu/flutter-flick)  [5⭐]-广泛的轻弹管理工具/小工具.  完美地使用snap lib或独立运行 [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+- [Flick](https://github.com/aliyigitbireroglu/flutter-flick)  [5⭐]-广泛的轻弹管理工具/小工具.  完美地使用snap lib或独立于 [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 - [ShowCaseView](https://github.com/simformsolutions/flutter_showcaseview) [192⭐]-通过以下方式在iOS和Android上展示您的应用功能 [Simform](https://github.com/simformsolutions).
 - [Drag Select GridView](https://github.com/hugocbpassos/drag_select_grid_view) [18⭐]-GridView同时支持拖动和点击以选择其项目 [Hugo Passos](https://github.com/hugocbpassos).
 
@@ -182,7 +182,7 @@
 
 #### Cupertino Design
 
-- [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) [45⭐]-通过基于iOS功能的Peek＆Pop实现 [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
+- [Peek & Pop](https://github.com/aliyigitbireroglu/flutter-peek-and-pop) [45⭐]-基于iOS功能的Peek＆Pop实现 [Ali Yigit Bireroglu](https://github.com/aliyigitbireroglu).
 
 #### Effect
 
@@ -191,7 +191,7 @@
 - [Shimmer](https://github.com/hnvn/flutter_shimmer) [644⭐]-内容加载时的闪光效果 [HungHD](https://github.com/hnvn).
 - [Wave](https://github.com/i-protoss/wave) [301⭐]-通过显示自定义颜色，持续时间，浮动和模糊效果的一些波形 [RockerFlower](https://github.com/RockerFlower).
 - [Liquid Swipe](https://github.com/iamSahdeep/liquid_swipe_flutter) -通过以下方式将液体轻扫至堆积的容器 [Sahdeep Singh](https://github.com/iamSahdeep).
-- [PhotoFilters](https://github.com/skkallayath/photofilters) [104⭐]-将滤镜应用于图像 [Sharafudheen KK](https://github.com/skkallayath).
+- [PhotoFilters](https://github.com/skkallayath/photofilters) [104⭐]-通过以下方式将滤镜应用于图像 [Sharafudheen KK](https://github.com/skkallayath).
 
 
 #### Calendar
@@ -204,20 +204,20 @@
 
 #### Backend-Driven
 
-- [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) [295⭐]-使用json构建动态UI，并且json格式与flutter小部件代码非常相似，方法是 [Denny Deng](https://github.com/dengyin2000).
+- [Dynamic Widget](https://github.com/dengyin2000/dynamic_widget) [295⭐]-使用json构建动态UI，并且json格式与flutter小部件代码非常相似 [Denny Deng](https://github.com/dengyin2000).
 
 ### Image
 
 - [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) -通过选择图像 [Collin Jackson](http://www.collinjackson.com).
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) [512⭐]-轮播滑块控件，支持无限滚动和自定义子控件 [serenader](https://github.com/serenader2014).
-- [Parallax Image](https://github.com/pulyaevskiy/parallax-image) [173⭐]-图像视差由 [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
+- [Parallax Image](https://github.com/pulyaevskiy/parallax-image) [173⭐]-图像视差 [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy).
 - [Photo View](https://github.com/renancaraujo/photo_view) [665⭐]-通过加载占位符的可伸缩图像视图 [Renan C. Araújo](https://github.com/renancaraujo).
 - [SVG](https://github.com/dnfield/flutter_svg) [559⭐]-SVG解析，渲染和小部件库 [Dan Field](https://github.com/dnfield).
 - [Image Cropper](https://github.com/hnvn/flutter_image_cropper) [428⭐]-裁剪图像支持率，旋转，缩放 [HungHD](https://github.com/hnvn).
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) [830⭐]-显示来自互联网的图像，并将其保存在缓存目录中.
 - [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) [474⭐]-通过显示多图像选择器 [Radoslav Vitanov](https://github.com/Sh1d0w).
 - [Lottie](https://github.com/CameronStuartSmith/flutter_lottie) [90⭐]-使用airbnb的流行 [After Effects Animation library](https://airbnb.design/lottie/) 通过 [Cameron Smith](https://github.com/CameronStuartSmith).
-- [Bitmap](https://github.com/renancaraujo/bitmap) [48⭐]-在Dart FFI的帮助下，执行位图操作（例如，对比度和曝光） [Renan C. Araújo](https://github.com/renancaraujo).
+- [Bitmap](https://github.com/renancaraujo/bitmap) [48⭐]-在Dart FFI的帮助下，执行位图操作（例如对比度和曝光） [Renan C. Araújo](https://github.com/renancaraujo).
 
 ### Map
 
@@ -237,7 +237,7 @@
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) [205⭐]-OHLC和贸易量图表 [Trent Piercy](https://github.com/trentpiercy).
 - [FCharts](https://github.com/thekeenant/fcharts) [289⭐]-精美，反应灵敏的动画图表，由 [Keenan Thompson](https://keenant.com).
 - [FL Chart](https://github.com/imaNNeoFighT/fl_chart) [850⭐]-在Flutter中绘制奇妙的图表 [Iman Khoshabi](http://www.ikhoshabi.com).
-- [Bezier Chart](https://github.com/aeyrium/bezier-chart) [189⭐]-颤振的精美贝塞尔曲线折线图小部件，具有高度的交互性，并且可以通过以下方式配置 [Diego Velasquez](https://twitter.com/diegoveloper).
+- [Bezier Chart](https://github.com/aeyrium/bezier-chart) [189⭐]-颤动的精美贝塞尔曲线折线图小部件，具有高度的交互性和可配置性 [Diego Velasquez](https://twitter.com/diegoveloper).
 
 ### Navigation
 
@@ -252,7 +252,7 @@
 - [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) -Google OAuth.
 - [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) -Firebase OAuth.
 - [Facebook Login](https://github.com/roughike/flutter_facebook_login) [252⭐]-通过本机Android和iOS Facebook登录SDK进行身份验证 [Iiro Krankka](https://github.com/roughike).
-- [Apple Sign-In](https://github.com/tomgilder/flutter_apple_sign_in) [56⭐]-Apple登录者： [Tom Gilder](https://github.com/tomgilder).
+- [Apple Sign-In](https://github.com/tomgilder/flutter_apple_sign_in) [56⭐]-Apple登录者 [Tom Gilder](https://github.com/tomgilder).
 - [OAuth](https://github.com/hitherejoe/FlutterOAuth) [123⭐]-Buffer，Strava，Unsplash，Github OAuth，作者： [Joe Birch](http://www.hitherejoe.com).
 - [Firebase Phone Auth](https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b)  -通过短信通过验证电话号码 [Gildásio Filho](https://github.com/gildaswise).
 - [SimpleAuth](https://github.com/Clancey/simple_auth) [176⭐]-Azure Active Directory，Amazon，Dropbox，Facebook，Github，Google，Instagram，已链接，Microsoft Live Connect，Github，OAuth，基本身份验证 [James Clancey](https://github.com/Clancey).
@@ -261,7 +261,7 @@
 
 - [Markdown](https://github.com/flutter/flutter_markdown)  [390⭐]-Flutter的Markdown渲染器.  它支持原始格式，但不支持内联html.
 - [Masked Text](https://github.com/benhurott/flutter-masked-text) [136⭐]-具有自定义格式和货币格式的蒙版文本 [Ben-hur Santos Ott](https://github.com/benhurott).
-- [Zefyr](https://github.com/memspace/zefyr) [870⭐]-柔和的富文本编辑 [Memspace](https://github.com/memspace/zefyr).
+- [Zefyr](https://github.com/memspace/zefyr) [870⭐]-柔和的RTF编辑 [Memspace](https://github.com/memspace/zefyr).
 - [AutoSizeText](https://github.com/leisim/auto_size_text) [621⭐]-自动调整文本大小以使其完全适合其范围 [Simon Leier](https://github.com/leisim).
 - [Parsed Text](https://github.com/fayeed/flutter_parsed_text) [50⭐]-基于内容识别的交互式文本，还通过以下方式支持Regex [Fayeed Pawaskar](https://github.com/fayeed/).
 
@@ -281,13 +281,13 @@
 
 #### Build solutions
 
-- [Bitrise for Flutter](https://devcenter.bitrise.io/getting-started/getting-started-with-flutter-apps/) -Flutter构建，测试和部署自动化，对于开源和较小型项目免费.
+- [Bitrise for Flutter](https://devcenter.bitrise.io/getting-started/getting-started-with-flutter-apps/) -Flutter构建，测试和部署自动化，对于开源和小型项目免费.
 - [Code Magic](https://codemagic.io/) -通过以下方式自动化整个流程，构建和分发 [NeverCode](https://nevercode.io/).
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) [64⭐]-通过持续集成 [Yegor Jbanov](https://twitter.com/yegorjbanov).
 
 #### Build articles
 
-- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c)  -Widget测试框架 [Yegor Jbanov](https://twitter.com/yegorjbanov).
+- [Test on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c)  -小部件测试框架 [Yegor Jbanov](https://twitter.com/yegorjbanov).
 - [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4)  -通过以下方式自动构建Android和IOS [Yegor Jbanov](https://twitter.com/yegorjbanov).
 - [Automatic code signing for iOS without Mac](https://blog.codemagic.io/automatic-code-signing-for-ios-that-doesnt-require-a-mac/) 通过Helina Ariva
 
@@ -300,14 +300,14 @@
 
 #### Audio
 
-- [Flutter Audio Recorder](https://github.com/shadow-app/flutter_audio_recorder) -提供完整的控件并可以访问记录详细信息，例如通过 [Wenyan Li](https://github.com/nikli2009).
+- [Flutter Audio Recorder](https://github.com/shadow-app/flutter_audio_recorder) -提供完整的控件，并可以访问记录详细信息，例如通过 [Wenyan Li](https://github.com/nikli2009).
 - [Audio Recorder](https://github.com/ZaraclaJ/audio_recorder) [110⭐]-录制音频并将其存储在本地 [Jordan Alcaraz](https://twitter.com/jordanalcrz).
-- [Stereo](https://github.com/2find/stereo) [59⭐]-通过以下方式在iOS和Android上播放音乐 [2Find](https://github.com/2find).
+- [Stereo](https://github.com/2find/stereo) [59⭐]-通过在iOS和Android上播放音乐 [2Find](https://github.com/2find).
 - [Flutter Sound](https://github.com/dooboolab/flutter_sound) [200⭐]-一方面颤振录音机和播放器 [dooboolab](https://github.com/dooboolab).
 
 #### Video
 
-- [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) [755⭐]-适用于iOS / Android的WebRTC插件，作者： [CloudWebRtc](https://github.com/cloudwebrtc).
+- [WebRTC](https://github.com/cloudwebrtc/flutter-webrtc) [755⭐]-iOS / Android的WebRTC插件，作者： [CloudWebRtc](https://github.com/cloudwebrtc).
 - [Chewie](https://github.com/brianegan/chewie) [662⭐]-通过以下方式提供对视频播放的低级访问 [Brian Egan](https://github.com/brianegan).
 
 #### Voice
@@ -332,11 +332,11 @@
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) [257⭐]-源自“应用内购买”的功能集 [react-native-iap](https://github.com/dooboolab/react-native-iap) 通过 [dooboolab](https://github.com/dooboolab).
 - [Admob Flutter](https://github.com/kmcgill88/admob_flutter) -Admob插件，可使用本机平台视图显示横幅广告 [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
 - [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) -Facebook受众群体网络广告插件，可按以下方式显示横幅广告，插页式视频，插播视频，奖励视频和natvie广告 [Dreamsoft Innovations](https://github.com/dreamsoftin).
-- [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [152⭐]-通过在您的应用中嵌入卡片输入表单来付款，该表单会通过以下方式从客户提供的卡片信息或数字钱包中产生随机数 [Square](https://github.com/orgs/square).
+- [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [152⭐]-通过在您的应用中嵌入卡片输入表单来进行付款，该表单会通过以下方式从客户提供的卡片信息或数字钱包中产生随机数 [Square](https://github.com/orgs/square).
 
 ## Templates
 
-- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) [289⭐]-电影详细信息 [Iiro Krankka](https://github.com/roughike).
+- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) [289⭐]-电影详细信息页面 [Iiro Krankka](https://github.com/roughike).
 - [Mates](https://github.com/CodemateLtd/FlutterMates) [356⭐]-如何从randomuser.me API和一个不错的配置文件详细信息页面加载配置文件 [Iiro Krankka](https://github.com/roughike).
 - [Weather](https://github.com/alessandroaime/Weather) [123⭐]-Weather应用程序通过以下方式了解如何使用“画布”和“动画” [Alessandro Aime](https://github.com/alessandroaime).
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) [4051⭐]-TODO应用程序准备好使用不同的样式：Vanilla，Redux，built_redux，由 [Brian Egan](https://github.com/brianegan).
@@ -350,16 +350,16 @@
 - [UI Kit](https://github.com/iampawan/Flutter-UI-Kit) [3779⭐]-通过以下方法在UIKit中收集有用的UI [Pawan Kumar](https://github.com/iampawan).
 - [Book](https://github.com/putraxor/flutter-book-app) [227⭐]-书架 [Ardiansyah Putra](https://github.com/putraxor).
 - [The Gorgeous Login](https://github.com/huextrat/TheGorgeousLogin) [930⭐]-通过设计和平滑登录模板 [Hugo Extrat](https://github.com/huextrat).
-- [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) [152⭐]-Liquid Pay应用概念 [Long Hoang](https://github.com/longhoang2984).
+- [Liquid Pay Payment App](https://github.com/longhoang2984/flutter_payment_app_ui) [152⭐]-流动支付应用程序概念 [Long Hoang](https://github.com/longhoang2984).
 - [DrawApp](https://github.com/SnakeyHips/drawapp) [118⭐]-示例绘图应用程序，演示如何允许用户使用颜色选择器和画笔厚度滑块在画布上绘制 [Jake Gough](https://github.com/SnakeyHips).
-- [Starter Kit](https://github.com/KingWu/flutter_starter_kit)  [361⭐]-App Store实施，以学习Bloc，RxDart，Sqflite，Fluro和Dio.  通过 [King Wu](https://github.com/KingWu).
+- [Starter Kit](https://github.com/KingWu/flutter_starter_kit)  [361⭐]-App Store实现，以学习Bloc，RxDart，Sqflite，Fluro和Dio.  通过 [King Wu](https://github.com/KingWu).
 - [Feather](https://github.com/jhomlala/feather)  [255⭐]-美丽的天气应用程序.  应用程序包括RxDart，Dio，BLoC，i18n，单元和小部件测试.  通过 [Jakub Homlala](https://github.com/jhomlala).
 - [Clone UI Challenges](https://github.com/javico2609/flutter-challenges) [597⭐]-通过收集有用的UI克隆 [Javier González](https://github.com/javico2609).
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) [457⭐]-精美的食品应用UI模板 [JideGuru](https://github.com/JideGuru).
 
 ### Web
 
-- [Tasks](https://github.com/AppleEducate/tasks_clone) [72⭐]-Google Tasks for the Web [Rody Davis](http://appleeducate.com).
+- [Tasks](https://github.com/AppleEducate/tasks_clone) [72⭐]-网络版Google任务 [Rody Davis](http://appleeducate.com).
 
 ### Clone
 
@@ -387,16 +387,16 @@
 
 ### Device
 
-- [WebView](https://github.com/dart-flitter/flutter_webview_plugin) [895⭐]-通过渲染网页内容 [Hadrien Lejard](https://twitter.com/HadrienLejard).
+- [WebView](https://github.com/dart-flitter/flutter_webview_plugin) [895⭐]-通过渲染网站内容 [Hadrien Lejard](https://twitter.com/HadrienLejard).
 - [Location](https://github.com/Lyokone/flutterlocation) [363⭐]-处理位置，处理回调以获取连续位置 [Lyokone](https://github.com/Lyokone).
 - [Battery](https://pub.dev/packages/battery) -访问有关电池的各种信息.
 - [Proximity Sensor Plugin](https://pub.dev/packages/proximity_plugin) -通过以下方式访问设备的接近传感器的插件 [Manoj NB](https://github.com/Samaritan1011001).
 - [Geolocation](https://github.com/loup-v/geolocation) [158⭐]-功能齐全的地理位置插件：当前位置，位置更新，地理编码，地点等 [Loup](http://intheloup.io).
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) [633⭐]-用于通过以下方式显示本地通知的插件 [Michael Bui](https://github.com/MaikuB).
-- [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/master/device_calendar) -插件，用于通过以下方式修改用户设备上的日历 [Built to Roam](http://builttoroam.com).
-- [Get Version](https://github.com/AppleEducate/get_version) [6⭐]-版本名称，版本代码，应用程序ID和带有OS Version by的平台 [Rody Davis](http://appleeducate.com).
+- [Device Calendar](https://github.com/builttoroam/flutter_plugins/tree/master/device_calendar) -用于通过以下方式修改用户设备上的日历的插件 [Built to Roam](http://builttoroam.com).
+- [Get Version](https://github.com/AppleEducate/get_version) [6⭐]-版本名称，版本代码，应用程序ID和带有OS Version的平台 [Rody Davis](http://appleeducate.com).
 - [Badger](https://github.com/g123k/flutter_app_badger) [111⭐]-通过以下方式更新启动器上的应用徽章 [Edouard Marquez](https://twitter.com/g123k).
-- [UDID](https://github.com/GigaDroid/flutter_udid) [95⭐]-跨应用重新安装的永久UDID [Leon Kukuk](https://kukuk.me).
+- [UDID](https://github.com/GigaDroid/flutter_udid) [95⭐]-跨应用重新安装的持久UDID [Leon Kukuk](https://kukuk.me).
 - [Downloader](https://github.com/hnvn/flutter_downloader) [295⭐]-通过创建和管理下载任务 [HungHD](https://github.com/hnvn).
 - [InAppBrowser](https://github.com/pichillilorenzo/flutter_inappbrowser) [365⭐]-通过以下方式添加内联WebView小部件或打开应用内浏览器窗口 [Lorenzo Pichilli](https://github.com/pichillilorenzo).
 - [AppAvailability](https://github.com/pichillilorenzo/flutter_appavailability) [30⭐]-列出，启动和检查已安装的应用程序 [Lorenzo Pichilli](https://github.com/pichillilorenzo).
@@ -419,7 +419,7 @@
 ### Storage
 
 - [Sqflite](https://github.com/tekartik/sqflite) [1229⭐]-通过SQLite flutter插件 [Alexandre Roux](https://www.linkedin.com/in/alextekartik/).
-- [Hive](https://github.com/leisim/hive) [583⭐]-由Dart编写的轻量级且快速的键值存储 [Simon Leier](https://github.com/leisim).
+- [Hive](https://github.com/leisim/hive) [583⭐]-由Dart编写的轻量级且惊人的快速键值存储 [Simon Leier](https://github.com/leisim).
 
 ### Services
 
@@ -431,8 +431,8 @@
 
 ### Log / Tracing
 
-- [Catcher](https://github.com/jhomlala/catcher) [227⭐]-自动捕获错误并通过 [Jakub Homlala](https://github.com/jhomlala).
-- [Logger](https://github.com/leisim/logger) [231⭐]-易于使用且美观的日志 [Simon Leier](https://github.com/leisim).
+- [Catcher](https://github.com/jhomlala/catcher) [227⭐]-自动捕获错误并通过以下方式处理错误 [Jakub Homlala](https://github.com/jhomlala).
+- [Logger](https://github.com/leisim/logger) [231⭐]-易用且精美的日志 [Simon Leier](https://github.com/leisim).
 
 ## Frameworks
 
@@ -441,15 +441,15 @@
 #### Standard
 
 - [Bloc](https://github.com/felangel/bloc) [2899⭐]-有助于通过以下方式实现BLoC设计模式的软件包的集合 [Felix Angelov](https://github.com/felangel).
-- [MobX](https://github.com/mobxjs/mobx.dart)  [847⭐]-使用透明功能响应式编程（TFRP）增强应用程序中的状态管理.  来自Js / React土地的MobX港口.
+- [MobX](https://github.com/mobxjs/mobx.dart)  [847⭐]-通过透明功能响应式编程（TFRP）增强应用程序中的状态管理.  来自Js / React土地的MobX港口.
 
 #### Redux / ELM / Dependency Injection
 
 - [Built redux](https://github.com/davidmarne/flutter_built_redux)  [73⭐]-自动订阅您的redux商店.  基于构建的模式 [David Marne](https://github.com/davidmarne).
-- [Redux.dart](https://github.com/johnpryan/redux.dart) [335⭐]-通过中间件，Flutter集成和时差开发工具生态系统将Redux移植到Dart [John Ryan](https://github.com/johnpryan) 和 [Brian Egan](https://gitlab.com/users/brianegan/projects).
+- [Redux.dart](https://github.com/johnpryan/redux.dart) [335⭐]-Redux移植到Dart的中间件生态系统，Flutter集成和时差开发工具 [John Ryan](https://github.com/johnpryan) 和 [Brian Egan](https://gitlab.com/users/brianegan/projects).
 - [Redux](https://github.com/brianegan/flutter_redux) [1039⭐]-专为配合使用而设计 [redux.dart](https://github.com/johnpryan/redux.dart)，这些实用程序可让您轻松使用Redux Store来构建Widget.
-- [Inject](https://github.com/google/inject.dart) [541⭐]-Google的编译时依赖项注入.
-- [Flux](https://github.com/google/flutter_flux) [326⭐]-由Google实现的Flux框架.
+- [Inject](https://github.com/google/inject.dart) [541⭐]-Google的编译时依赖注入.
+- [Flux](https://github.com/google/flutter_flux) [326⭐]-Google实现的Flux框架.
 - [Fish](https://github.com/alibaba/fish-redux) [5439⭐]-阿里巴巴Redux实现.
 - [Async Redux](https://pub.dev/packages/async_redux)  [64⭐]-没有样板的Redux.  允许同步和异步减少器 [Marcelo Glasberg](https://github.com/marcglasberg/).
 
@@ -465,13 +465,13 @@
 
 ### Animation
 
-- [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) [221⭐]-混合交错动画，由 [Norbert Kozsir](https://twitter.com/norbertkozsir).
-- [SpinKit](https://github.com/jogboms/flutter_spinkit) [1223⭐]-通过动画加载指标 [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Sequence Animation](https://github.com/Norbert515/flutter_sequence_animation) [221⭐]-错开的复合动画 [Norbert Kozsir](https://twitter.com/norbertkozsir).
+- [SpinKit](https://github.com/jogboms/flutter_spinkit) [1223⭐]-动画加载指标 [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Villains](https://github.com/Norbert515/flutter_villains) [241⭐]-的页面过渡动画 [Norbert Kozsir](https://twitter.com/norbertkozsir).
 - [AnimatedTextKit](https://github.com/aagarwal1012/Animated-Text-Kit) [453⭐]-一组很酷的文字动画，由 [Ayush Agarwal](https://github.com/aagarwal1012/).
-- [Drawing Animation](https://github.com/biocarl/drawing_animation) [169⭐]-通过SVG路径数据创建绘图线动画 [Carl Hauck](https://twitter.com/cahaucks).
-- [Simple Animations](https://github.com/felixblaschke/simple_animations) -通过以下方式轻松创建很棒的自定义动画 [Felix Blaschke](https://github.com/felixblaschke).
-- [Flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) [108⭐]-易于建立动画集 [efoxTeam](https://github.com/efoxTeam).
+- [Drawing Animation](https://github.com/biocarl/drawing_animation) [169⭐]-通过以下方式基于SVG路径数据创建绘图线动画 [Carl Hauck](https://twitter.com/cahaucks).
+- [Simple Animations](https://github.com/felixblaschke/simple_animations) -通过轻松创建很棒的自定义动画 [Felix Blaschke](https://github.com/felixblaschke).
+- [Flutter-animation-set](https://github.com/efoxTeam/flutter-animation-set) [108⭐]-易于制作动画集 [efoxTeam](https://github.com/efoxTeam).
 - [Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) [287⭐]-轻松将交错动画添加到ListView，GridView，Column和Row by [mobiten](https://mobiten.com/).
 
 ### Game Engine
@@ -486,7 +486,7 @@
 
 ### Testing
 
-- [Ozzie](https://github.com/jorgecoca/ozzie.flutter) [159⭐]-您需要时，Ozzie会在集成测试过程中截取屏幕截图 [Jorge Coca](https://github.com/jorgecoca).
+- [Ozzie](https://github.com/jorgecoca/ozzie.flutter) [159⭐]-您需要时，Ozzie会在集成测试期间截取屏幕截图 [Jorge Coca](https://github.com/jorgecoca).
 - [Flutter Gherkin](https://github.com/jonsamwell/flutter_gherkin) [49⭐]-功能齐全的Gherkin解析器和UI自动测试运行器，作者： [Jon Samwell](https://github.com/jonsamwell).
 
 ### Others
@@ -498,22 +498,22 @@
 ### Premium
 
 - [History Of Everything](https://github.com/2d-inc/HistoryOfEverything) [4135⭐]-人类的垂直动画时间表 [2D, Inc](https://www.2dimensions.com/).
-- [Developer Quest](https://github.com/2d-inc/developer_quest)  [2108⭐]-成为技术领先者， [2D, Inc](https://www.2dimensions.com/).
+- [Developer Quest](https://github.com/2d-inc/developer_quest)  [2108⭐]-成为技术负责人， [2D, Inc](https://www.2dimensions.com/).
 
 ### Top
 
 - [Flutter Team Samples](https://github.com/flutter/samples) [4629⭐]-的示例集合（包括地图，json，Material和Cupertino） [Flutter team](https://github.com/orgs/flutter/people).
-- [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) [17812⭐]-官方的中文小工具演示和文档集合，可帮助开发人员快速学习 [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
-- [Meme Chat](https://github.com/efortuna/memechat) [413⭐]-Flutter上的聊天应用程序，使用Firebase，Google登录和由一组Google员工集成的设备相机.
+- [Flutter Common Widgets](https://github.com/alibaba/flutter-common-widgets-app) [17812⭐]-收集了中文的正式widget演示和文档，以帮助开发人员快速学习 [Alibaba Auction Frontend Team](https://github.com/alibaba-paimai-frontend).
+- [Meme Chat](https://github.com/efortuna/memechat) [413⭐]-Flutter上的聊天应用程序，使用Firebase，Google登录和Google团队的设备摄像头集成.
 - [Flitter](https://github.com/dart-flitter/flitter) [166⭐]-闪光应用 [Hadrien Lejard](https://twitter.com/HadrienLejard) 和 [Kevin Segaud](https://twitter.com/kevin_segaud). It uses Redux 和 Jaguar.
 - [Lime](https://github.com/fablue/lime-flutter) [292⭐]-Sebastian Sellmair的Lime社交网络.
 - [Planets](https://github.com/sergiandreplace/flutter_planets_tutorial) [524⭐]-通过以下方法展示了丰富的用户界面的星球探索 [Sergi Martínez](http://sergiandreplace.com).
-- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) [367⭐]-使用新闻API的Firebase支持的新闻阅读器， [Ankur Kedia](https://github.com/theankurkedia).
+- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) [367⭐]-使用新闻API的Firebase支持的新闻阅读器 [Ankur Kedia](https://github.com/theankurkedia).
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) [446⭐]-DroidKaigi 2018 Tokyo的非官方会议应用程序，由 [konifar](https://github.com/konifar).
 - [Music Player](https://github.com/iampawan/Flutter-Music-Player) [786⭐]-的全功能音乐播放器 [Pawan Kumar](https://about.me/imthepk).
 - [WhatTodo](https://github.com/burhanrashid52/WhatTodo) [641⭐]-Todoist喜欢UI [Burhanuddin Rashid](https://about.me/burhanrashid52).
 - [FlutterGram](https://github.com/mdanics/fluttergram) [861⭐]-基于Firestore和Google Functions的完整Instagram [MDanics](https://github.com/mdanics).
-- [BookSearch](https://github.com/Norbert515/BookSearch) [358⭐]-数字书架的阅读进度 [Norbert515](https://github.com/Norbert515).
+- [BookSearch](https://github.com/Norbert515/BookSearch) [358⭐]-通过阅读获得的数字书架 [Norbert515](https://github.com/Norbert515).
 - [Cinematic](https://github.com/aaronoe/FlutterCinematic) [601⭐]-Movie DB Public API的UI [Aaron Oertel](https://github.com/aaronoe).
 - [Beer-Me-Up](https://github.com/benoitletondor/Beer-Me-Up) [285⭐]-啤酒追踪很好地由 [Benoit Letondor](https://github.com/benoitletondor).
 - [Trace](https://github.com/trentpiercy/trace) [426⭐]-现代而强大的加密货币投资组合和市场探索者 [Trent Piercy](https://github.com/trentpiercy).
@@ -521,24 +521,24 @@
 - [Tourism](https://github.com/bluemix/tourism-demo) [157⭐]-基于带有动画和i18n的redux的旅游应用 [blueMix](https://github.com/bluemix/tourism-demo).
 - [Trinity Orientation @ Univ Toronto](https://github.com/matthewtory/trinity-orientation-2018) [327⭐] - Orientation week at Trinity College, U of T by [Matthew Tory](https://github.com/matthewtory).
 - [Transform Widget](https://github.com/DrPaulT/flutter-engine-test) -通过3D游戏引擎精灵生成的图像小部件 [Paul Thomas](https://github.com/DrPaulT).
-- [Deer](https://github.com/aleksanderwozniak/deer) [162⭐]-极简主义者Todo Planner使用BLoC模式构建 [Aleksander Woźniak](https://github.com/aleksanderwozniak).
-- [TailorMade](https://github.com/jogboms/tailor_made) [142⭐]-通过结合使用ReBLoC和Firebase Cloud Store和功能来管理时装设计师的日常工作， [Jeremiah Ogbomo](https://twitter.com/jogboms).
+- [Deer](https://github.com/aleksanderwozniak/deer) [162⭐]-极简主义者Todo Planner使用BLoC模式构建， [Aleksander Woźniak](https://github.com/aleksanderwozniak).
+- [TailorMade](https://github.com/jogboms/tailor_made) [142⭐]-通过结合使用ReBLoC和Firebase Cloud Store和功能来管理时装设计师的日常工作 [Jeremiah Ogbomo](https://twitter.com/jogboms).
 - [Instory](https://github.com/InvertedX/instory) [128⭐]-具有漂亮UI的Instgram故事下载器 [Sarath](https://twitter.com/_sarath_kumar).
 - [Spacex-Go](https://github.com/jesusrp98/spacex-go) [298⭐]-简单但功能强大的开源SpaceX启动跟踪器. [jesusrp98](https://twitter.com/jesusrp98).
 - [Superhero Interaction](https://github.com/pinkeshdarji/SuperHeroInteraction) [183⭐]-酷炫的超级英雄互动动画，作者： [Pinkesh Darji](https://github.com/pinkeshdarji).
 - [Reply](https://github.com/flschweiger/reply) [394⭐]-通过“回复”材料设计案例研究 [Frederik Schweiger](https://github.com/flschweiger).
 - [Enigma](https://github.com/AmitJoki/Enigma) -通过端到端加密进行隐私聊天 [AmitJoki](https://github.com/AmitJoki).
-- [Chillify](https://github.com/KarimElghamry/chillify) -由Provider和Bloc模式制作的精美音乐应用程序，由 [Karim Elghamry](https://github.com/KarimElghamry).
-- [Pokedex](https://github.com/scitbiz/flutter_pokedex) -具有漂亮的UI和平滑动画的Pokedex应用 [Hung Pham](https://github.com/scitbiz).
+- [Chillify](https://github.com/KarimElghamry/chillify) -由Provider和Bloc模式制作的精美音乐应用 [Karim Elghamry](https://github.com/KarimElghamry).
+- [Pokedex](https://github.com/scitbiz/flutter_pokedex) -具有精美UI和流畅动画的Pokedex应用 [Hung Pham](https://github.com/scitbiz).
 - [Timy Messenger](https://github.com/janoodleFTW/timy-messenger) [904⭐]-分组消息传递应用程序，其重点是通过 [Miguel Beltran](https://github.com/miquelbeltran) 和 [Franz Heinfling](https://github.com/fheinfling).
 
 ### Games
 
-- [Flip](https://github.com/RedBrogdon/flutterflip) [144⭐]-黑白棋游戏， [Andrew Brogdon](https://github.com/RedBrogdon).
+- [Flip](https://github.com/RedBrogdon/flutterflip) [144⭐]-黑白棋游戏 [Andrew Brogdon](https://github.com/RedBrogdon).
 - [2048](https://github.com/anuranBarman/2048) [103⭐]-2048个游戏 [Anuran Barman](https://github.com/anuranBarman).
 - [TRex](https://github.com/renancaraujo/trex-flame) [182⭐]-著名的Chrome浏览器Trex游戏的移植方 [Renan C. Araújo](https://github.com/renancaraujo).
 - [Crush](https://github.com/boeledi/flutter_crush) [228⭐]-如何制作Math-3游戏，例如Candy Crush，由Bejeweled [Didier Boelens](https://didierboelens.com).
-- [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) [60⭐]-经典幻灯片（15）拼图 [Kevin Moore](https://github.com/kevmoo).
+- [Slide Puzzle](https://github.com/kevmoo/slide_puzzle) [60⭐]-的经典幻灯片（15）拼图 [Kevin Moore](https://github.com/kevmoo).
 - [Tetris](https://github.com/boyan01/flutter-tetris) [592⭐]-俄罗斯方块游戏 [YangBin](https://github.com/boyan01).
 
 
@@ -675,6 +675,14 @@
 -松弛 [DevCenter Square](https://devcenter-square-slack.herokuapp.com)
 - [WhatsApp](https://chat.whatsapp.com/FR2G7r33KjKAVQrB3AKp0H)
 - 推特 [FlutterLagos](https://twitter.com/FlutterLagos)
+
+### 🇵🇭 Philippines
+- [Website](https://flutter.ph/)
+- [Meetup](https://www.meetup.com/flutterph/)
+- [Twitter](https://twitter.com/flutter_ph)
+- [Facebook Page](https://web.facebook.com/flutterphilippines/)
+- [Facebook Group](https://web.facebook.com/groups/flutterphilippines/)
+- [Github](https://github.com/flutterph)
 
 ### 🇵🇱 Poland
 -聚会 [Tricity](https://www.meetup.com/pl-PL/Flutter-Tricity/)

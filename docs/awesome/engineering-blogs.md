@@ -72,7 +72,7 @@
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 *贝莱德http://rockthecode.io/
-*搅拌器https://code.blender.org/
+*搅拌机https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
@@ -146,7 +146,7 @@
 * Facebook https://code.facebook.com/posts/
 * Facebook AI研究https://research.facebook.com/blog/ai/
 *法拉第http://blog.faraday.io/
-*发现https://medium.com/feedzaitech
+*禁用https://medium.com/feedzaitech
 *第五十三章http://making.fiftythree.com/
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
@@ -181,12 +181,13 @@
 *石斑鱼http://blog.joingrouper.com/
 * Groupon https://engineering.groupon.com/
 *监护人https://www.theguardian.com/info/developer-blog
-*像http://engineering.gusto.com/
+*如http://engineering.gusto.com/
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
 *触觉https://haptik.ai/tech/
-*哈里的http://engineering.harrys.com/
+*哈里（Harry）的http://engineering.harrys.com/
+* HashiCorp https://www.hashicorp.com/blog/
 *哈希节点https://engineering.hashnode.com/
 * Hashrocket https://hashrocket.com/blog
 * Hasura https://blog.hasura.io/
@@ -214,7 +215,7 @@
 *英特尔https://software.intel.com/zh-cn/blogs/
 *意向总部http://engineering.intenthq.com/
 *意向媒体http://intentmedia.com/blog/
-*对讲https://engineering.intercom.io/
+*对讲机https://engineering.intercom.io/
 * Intuit https://quickbooks-engineering.intuit.com/
 * InVision http://engineering.invisionapp.com/
 
@@ -322,7 +323,7 @@
 * RisingStack https://blog.risingstack.com/
 * Robert Elder软件http://blog.robertelder.org/
 * RoseHosting https://www.rosehosting.com/blog/
-* Runtastic https://www.runtastic.com/blog/en/category/tech/
+* Runtastic https://www.runtastic.com/blog/zh-CN/category/tech/
 
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
@@ -404,7 +405,7 @@
 
 #### V companies
 * Vena解决方案https://engineering.vena.io/
-* Venmo http://blog.venmo.com/?category=工程
+* Venmo http://blog.venmo.com/?category=Engineering
 * VersionEye https://blog.versioneye.com/
 * Vevo http://blog.vevo.com/
 * Viget https://www.viget.com/articles/category/code#articles
@@ -456,12 +457,12 @@
 ### Individuals/Group Contributors
 
 #### \# individuals
-* 0x https://0xcode.pub/
+* 0代码https://0x.pub/
 
 #### A individuals
 *亚伦·帕特森（Aaron Patterson）http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
-*阿布·阿什拉夫·马斯嫩（Abu Ashraf Masnun）http://masnun.com/
+*阿布·阿什拉夫（Abu Ashraf）Masnun http://masnun.com/
 *亚当·巴德https://adambard.com/blog/
 *亚当·莱文塔尔http://dtrace.org/blogs/ahl/
 *亚当·普莱默（Adam Tuliper）http://www.adamtuliper.com/
@@ -474,7 +475,7 @@
 *阿米特商家https://www.amitmerchant.com/
 * Anders Aarvik http://aarvik.dk/
 *安德烈亚斯·舒斯特（Andreas Schuster）https://computer.forensikblog.de/zh/
-*安德鲁·班克罗夫特（Andrew Bancroft）http://www.andrewcbancroft.com/
+*安德鲁·班克罗夫特http://www.andrewcbancroft.com/
 *安德鲁·布兰普顿https://blog.bramp.net/
 *安德鲁·雷（Andrew Ray）https://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/blog/
@@ -490,11 +491,11 @@
 * Bartlomiej Filipek http://www.bfilipek.com/
 *本·麦考密克https://benmccormick.org/
 *比尔蜥蜴http://www.billthelizard.com/
-*比约恩·约翰森https://bjornjohansen.no/
+*比约恩·约翰森（BjørnJohansen）https://bjornjohansen.no/
 *布莱克·埃里克森（Blake Erickson）https://blog.blakeerickson.com/
 * Blundell的Android教程http://blog.blundellapps.co.uk
 * Bohops https://bohops.com/
-*布兰登·罗兹（Brandon Rhodes）http://rhodesmill.org/brandon/
+*布兰登·罗德斯http://rhodesmill.org/brandon/
 *布伦丹·艾希（Brendan Eich）https://brendaneich.com/
 *布兰登·格雷格（Brendan Gregg）http://www.brendangregg.com/blog/
 *术士Benavides https://medium.com/@elbrujohalcon
@@ -504,7 +505,7 @@
 *卡洛斯·贝克尔https://carlosbecker.com
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
-*克里斯·哈格（Chris Hager）https://www.metachris.com/blog/
+*克里斯·黑格（Chris Hager）https://www.metachris.com/blog/
 *克里斯·韦尔斯（Chris Wellons）http://nullprogram.com/
 *克莱·麦克劳德（Clay McLeod）http://blog.claymcleod.io/
 *可可是我的女朋友http://www.cimgf.com/
@@ -524,7 +525,7 @@
 *迪恩·休姆http://deanhume.com/
 * Deborah Digges http://deborah-digges.github.io/
 *丹尼斯·费尔辛https://hookrace.net/
-*丹尼斯·尤里切夫（Dennis Yurichev）https://yurichev.com/blog/
+*丹尼斯·尤里切夫https://yurichev.com/blog/
 * Dereuromark http://www.dereuromark.de/
 *发现流星https://www.discovermeteor.com/blog
 *多梅尼科·卢西亚尼https://domenicoluciani.com
@@ -534,7 +535,7 @@
 * Drew DeVault https://drewdevault.com/
 
 #### E individuals
-*关淑怡http://blog.edankwan.com/
+*关爱珊http://blog.edankwan.com/
 *艾迪·史密斯http://www.practicallyficient.com/
 * Edgar Aroutiounian https://hyegar.com/
 *爱德华·福克纳（Edward Faulkner）https://eaf4.com/
@@ -557,13 +558,13 @@
 
 #### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
-*格雷厄姆·金（Graham King）https://www.darkcoding.net/
+*格雷厄姆·金https://www.darkcoding.net/
 * Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * Guilherme Rodrigues https://firstdoit.com/
 
 #### H individuals
-*海登·詹姆斯https://haydenjames.io/
+*海顿·詹姆斯https://haydenjames.io/
 * Henrik Lau Eriksson https://conductofcode.io/
 *亨里克·沃恩https://henrikwarne.com/
 *高可扩展性http://highscalability.com/
@@ -571,12 +572,12 @@
 *希捷（Hypriot）http://blog.hypriot.com/
 
 #### I individuals
-伊恩·胡默尔（Ian Hummel）https://themodernlife.github.io/
+伊恩·胡梅尔（Ian Hummel）https://themodernlife.github.io/
 *伊恩·索默维尔（Ian Sommerville）http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch的博客https://idontgetoutmuch.wordpress.com/
-* Ievgen Kuzminov http://stdout.in/
+伊夫根·库兹米诺夫（Ievgen Kuzminov）http://stdout.in/
 * Elijah Eftimov http://ieftimov.com/
-*伊利亚·格里戈里克（Ilya Grigorik）https://www.igvita.com/
+* Ilya Grigorik https://www.igvita.com/
 *伊万·乌苏尔https://ivanursul.com/
 
 #### J individuals
@@ -592,7 +593,7 @@
 *杰夫·阿特伍德https://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
 *仅杰里米https://jeremykun.com/
-*杰里·甘布林https://jerrygamblin.com/
+*杰里·甘布林（Jerry Gamblin）https://jerrygamblin.com/
 * Jesal Gadhia https://jes.al/
 *杰西·弗雷泽（Jessie Frazelle）https://blog.jessfraz.com/
 *耶稣·卡斯特罗http://www.blackbytes.info/
@@ -601,12 +602,12 @@
 * Joel Spolsky https://www.joelonsoftware.com/
 * Johannes Brodwall http://johannesbrodwall.com/
 * John Resig https://johnresig.com/category/blog/
-*约翰·威特瑙尔（John Wittenauer）http://www.johnwittenauer.net/
-*乔恩·肯西http://www.jonkensy.com/
-*乔恩·斯基特（Jon Skeet）https://codeblog.jonskeet.uk/
+*约翰·维特瑙尔（John Wittenauer）http://www.johnwittenauer.net/
+*乔恩·肯西（Jon Kensy）http://www.jonkensy.com/
+*乔恩·斯凯特（Jon Skeet）https://codeblog.jonskeet.uk/
 *乔纳斯·梅（Jonas Plum）https://blog.cugu.eu/
-*乔纳森·德赫蒂亚尔http://www.born2data.com/
-*乔纳森·史努克（Jonathan Snook）https://snook.ca/
+*乔纳森·德赫蒂亚尔（Jonathan Dekhtiar）http://www.born2data.com/
+*乔纳森·斯努克（Jonathan Snook）https://snook.ca/
 * Josh Haberman http://blog.reverberate.org/
 *乔什·谢尔曼（Josh Sherman）https://joshtronic.com/
 * Juan Treminio https://jtreminio.com
@@ -624,7 +625,7 @@
 
 #### L individuals
 * Lambda终极版http://lambda-the-ultimate.org/
-*拉里·兰德（Larry Land）https://lg.io/
+*拉里·兰德https://lg.io/
 *拉撒路拉扎里迪斯https://iridakos.com
 * Lea Verou http://lea.verou.me/
 * Lerner咨询博客http://blog.lerner.co.il/
@@ -640,7 +641,7 @@
 * Marek Majkowski https://idea.popcount.org/
 *马克·西伯恩（Mark Seaborn）http://lackingrhoticity.blogspot.de/
 *马丁·福勒（Martin Fowler）https://martinfowler.com/
-*玛丽·罗斯·库克https://maryrosecook.com/blog/
+* Mary Rose Cook https://maryrosecook.com/blog/
 *马特·艾蒙妮蒂（Matt Aimonetti）https://matt.aimonetti.net/
 *马特·卡茨https://www.mattcutts.com/blog/
 *马特·威特http://matt.might.net/articles/
@@ -654,7 +655,7 @@
 * Mike Fogus http://blog.fogus.me/
 * Milosz Galazka https://blog.sleeplessbeastie.eu/
 *米罗杯（Miro Cupak）https://mirocupak.com/
-* Monica Dinculescu https://meowni.ca/
+*莫妮卡（Monica Dinculescu）https://meowni.ca/
 *样品松饼https://blog.monstermuffin.org/
 * Mykhailo Kozik http://mishadoff.com/
 
@@ -662,7 +663,7 @@
 娜塔莎·穆拉舍夫（Natasha Murashev）https://natashatherobot.com
 *尼尔森·艾尔哈格（Nelson Elhage）https://blog.nelhage.com/
 * Nic Raboy https://www.thepolyglotdeveloper.com/blog/
-*尼克·克雷弗（Nick Craver）https://nickcraver.com/blog/
+* Nick Craver https://nickcraver.com/blog/
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nick Galbreath http://www.client9.com/
 * Nicolas Liochon http://blog.thislongrun.com/
@@ -678,7 +679,7 @@
 * OonaRäisänenhttp://www.windytan.com/
 
 #### P individuals
-*帕梅拉·福克斯（Pamela Fox）http://blog.pamelafox.org/
+*帕梅拉·福克斯http://blog.pamelafox.org/
 * Pat Shaughnessy http://patshaughnessy.net/
 保罗·格雷厄姆（Paul Graham）http://www.paulgraham.com/articles.html
 *保罗·爱尔兰（Paul Irish）https://www.paulirish.com/
@@ -692,21 +693,21 @@
 *菲利普·奥珀曼https://os.phil-opp.com/
 *小马富https://ponyfoo.com/
 * Piotr Pasich http://piotrpasich.com/
-* Piotr Wittchen http://blog.wittchen.biz.pl/
+*皮奥特·维琴（Piotr Wittchen）http://blog.wittchen.biz.pl/
 
 #### R individuals
 * Rachel Kroll https://rachelbythebay.com/w/
 * Radek Pazdera http://radek.io
 *我是Řehůřekhttps://radimrehurek.com/blog/
 拉蒙·弗里德（Ramon Fried）https://nativeguru.wordpress.com/
-*雷·温德利希（Ray Wenderlich）https://www.raywenderlich.com/
+* Ray Wenderlich https://www.raywenderlich.com/
 * Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
 *雷蒙德·海廷格（Raymond Hettinger）https://rhettinger.wordpress.com/
 * ReactJS新闻https://reactjsnews.com
 * Real Python https://realpython.com/blog/
 * Reginald Braithwaite http://raganwald.com/#essays
 * Regular Geek http://regulargeek.com/
-* Rob Allen https://akrabat.com/
+*罗伯·艾伦（Rob Allen）https://akrabat.com/
 *罗伯特·马丁（Robert C.Martin）http://blog.cleancoder.com/
 *罗宾·沃德https://eviltrout.com/
 *罗宾·威尔逊http://blog.rtwilson.com/
@@ -735,17 +736,17 @@
 * Swift中的东西https://thatthinginswift.com/
 *编码的自我http://www.thecodedself.com
 *每日WTF http://thedailywtf.com/
-*托马斯·杨http://upcoder.com
+* Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
-*托德·莫托（Todd Motto）https://toddmotto.com/
+* Todd Motto https://toddmotto.com/
 * TJ Maher http://adventuresinautomation.blogspot.com/
 
 #### U individuals
-*克拉维特人https://una.im/
+*克拉维人https://una.im/
 *未记录的Matlab http://undocumentedmatlab.com/
 
 #### V individuals
-* Vanilla Java http://vanillajava.blogspot.com/
+*香草Java http://vanillajava.blogspot.com/
 *弗拉德·米哈尔西娅https://vladmihalcea.com/
 
 #### W individuals
@@ -821,4 +822,4 @@
 
 ## License
 
-一个协议授权<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享4.0国际许可</a> .
+根据<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享4.0国际许可证许可</a> .

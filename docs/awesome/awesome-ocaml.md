@@ -95,7 +95,7 @@
 
 ## Program analysis
 - [BAP](https://github.com/BinaryAnalysisPlatform/bap) -BAP是针对二进制程序的反向工程和程序分析平台.
-- [BinCat](https://github.com/airbus-seclab/bincat) -BinCat是一个二进制代码静态分析工具包.
+- [BinCat](https://github.com/airbus-seclab/bincat) - BinCat is a binary code static analysis toolkit.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
 
 ## Compilers and Compiler Tools
@@ -301,6 +301,7 @@
 -**图书馆**
 	- [Owl](https://ocaml.xyz/) -具有神经网络，算法区分和ONNX支持的科学图书馆.
 	- [Object detection convolutional neural network with OCaml (based on Owl)](https://github.com/owlbarn/owl_mask_rcnn).
+	- [PyTorch bindings](https://github.com/LaurentMazare/ocaml-torch) -PyTorch的OCaml绑定.
 -**文章**
 	- [Deep Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/deep-learning-experiments-in-ocaml/).
 	- [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).
@@ -419,7 +420,7 @@
 - [obandit](http://freux.fr/oss/obandit.html) -OCaml库，用于多臂匪徒.
 - [onumerical](https://github.com/cheshire/onumerical) – OCaml的数字库.
 - [oml](https://github.com/hammerlab/oml) -用于一般数值工作的OCaml库.
-- [ocephes](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
+- [ocephes](https://github.com/rleonid/ocephes) -绑定到常用的`C`特殊函数库.
 - [slap](https://github.com/akabe/slap) -OCaml中的线性代数库，具有用于矩阵运算的基于类型的静态大小检查.
 - [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – TensorFlow的OCaml绑定.
 - [owl](https://github.com/owlbarn/owl) -OCaml数值库：密集和稀疏矩阵，线性代数，回归，数学和统计函数.

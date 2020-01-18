@@ -4,7 +4,7 @@
 [<img src="https://raw.githubusercontent.com/dastergon/awesome-sre/master/awesome-sre-logo.svg?sanitize=true" align="right" width="100">](https://dastergon.gr/awesome-sre)
 
 
-精选的超赞清单 [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) 和 [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) 工程资源.
+精选清单 [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) 和 [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) 工程资源.
 
 #### What is Site Reliability Engineering?
  &gt;“从根本上讲，当您要求软件工程师设计操作功能时，就会发生这种情况.”  -Ben Treynor Sloss，Google工程副总裁，Google SRE创始人
@@ -121,7 +121,7 @@
 * [What is the role of a Site Reliability Engineer?](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
 * [Lynda.com: DevOps Foundations: Site Reliability Engineering](https://www.lynda.com/Software-Development-tutorials/DevOps-Foundations-Site-Reliability-Engineering/669542-2.html)
 * [Incident Management Training: Wheel of Misfortune](https://dastergon.gr/wheel-of-misfortune/)
-* [站点非可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
+* [站点不可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
 * [The Ultimate Guide to Structuring a 90-Day Onboarding Plan](https://medium.com/swlh/the-ultimate-guide-to-structuring-a-90-day-onboarding-plan-c91af947376)
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
@@ -415,7 +415,7 @@
 * [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
 ## Blogs
-* [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) -有关系统内部，性能和SRE的高度技术性博客文章.
+* [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) -有关系统内部，性能和SRE的高技术博客文章.
 * [Everything Sysadmin](http://everythingsysadmin.com/) -Tom Limoncelli撰写的有关SysAdmin / DevOps / SRE的博客文章.
 * [High Scalability](http://highscalability.com/) -有关系统架构的技术博客文章.
 * [rachelbythebay](https://rachelbythebay.com/w/) -技术博客文章.
@@ -430,13 +430,14 @@
 * [GopherSRE](http://www.gophersre.com/) -有关Go和SRE的博客文章.
 * [Cindy Sridharan](https://medium.com/@copyconstruct) -有关分布式系统及其管理的博客文章.
 * [Blameless Blog](https://www.blameless.com/blog/) -有关SRE文化和实践的博客文章.
+* [Squadcast Blog](https://www.squadcast.com/blog) -有关SRE最佳做法，可靠性，通话和事件管理的博客文章. 
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) -官方的SRE会议.
 * [LISA Conferences](https://www.usenix.org/conferences/byname/5) -关于SysAdmin / DevOps / SRE的著名会议.
 * [SRE Tech Talks](https://developers.google.com/events/sre/) -Google主持的SRE讲座.
 * [South Bay Site Reliability Engineering (Sunnyvale, CA) Meetup](https://www.meetup.com/South-Bay-Site-Reliability-Engineering/) -应对Web规模系统可靠性挑战的个人的团体.
-* [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) -一群热衷于可靠，高性能的软件系统的人.
+* [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) -一群热衷于可靠的高性能软件系统的人.
 * [Front Range Site Reliability Engineering](https://www.meetup.com/site-reliability/) -在Boulder / Denver / Golden / DTC / FoCo地区的SRE聚会.
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) -在慕尼黑啤酒节城市的更大区域举行SRE聚会.
 * [ADDO - All Day DevOps](https://www.alldaydevops.com/) -24小时的会议，完全在线且免费.

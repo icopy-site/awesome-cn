@@ -2,37 +2,38 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Natural Language Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- 自然语言生成在聊天机器人，故事生成和数据描述中具有广泛的应用领域.  涉及NLG过程的部分或全部的技术种类繁多.  该列表旨在通过提供各种项目，工具，研究论文和学习资料的链接来表示NLG应用程序和技术的这种逆转.
+ 自然语言生成在聊天机器人，故事生成和数据描述中具有广泛的应用领域.  涉及NLG过程的部分或全部的技术种类繁多.  该列表旨在通过提供指向各种项目，工具，研究论文和学习资料的链接来表示NLG应用程序和技术的这种逆转.
 
 
 
 ## Datasets
 
 - [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) -公共交通信息领域对话系统中NLG的数据集.
-- [Box-score data](https://github.com/harvardnlp/boxscore-data/) -该数据集包含（人工编写的）NBA篮球比赛摘要，其摘要与相应的箱式和线式得分保持一致.
-- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中于数据驱动的最新端到端（E2E）NLG方法，该方法从不对齐的数据中共同学习句子规划和表面实现.
+- [Box-score data](https://github.com/harvardnlp/boxscore-data/) -该数据集包含（人工编写的）NBA篮球比赛摘要，这些摘要与相应的方块得分和线路得分对齐.
+- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中在数据驱动的最新端到端（E2E）NLG方法上，这些方法可以从不对齐的数据中共同学习句子规划和表面实现.
 - [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库.
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) -来自weather.gov（美国公共天气预报）的计算机生成的天气预报以及相应的天气数据.
-- [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引荐表达生成.
-- [WikiBio - wikipedia biography dataset](https://github.com/DavidGrangier/wikipedia-biography-dataset)  -该数据集从Wikipedia收集了728321份传记.  它旨在评估文本生成算法.  对于每篇文章，我们都提供第一段和信息框（均标记化）.
-- [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus)  -从Wikipedia收集的公司描述.  数据集包含英语的51K公司的语义表示，简短描述和详细描述.
+- [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引用表达生成.
+- [WikiBio - wikipedia biography dataset](https://github.com/DavidGrangier/wikipedia-biography-dataset)  -该数据集从Wikipedia收集了728321份传记.  它旨在评估文本生成算法.  对于每篇文章，我们提供第一段和信息框（均标记化）.
+- [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus)  -从Wikipedia收集的公司描述.  数据集包含英文的51K公司的语义表示，简短描述和详细描述.
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) -YelpNLG提供自然语言生成餐厅评论的资源.
 
 ## Dialog
 
 - [Chatito](https://github.com/rodrigopivi/Chatito) -使用简单的DSL生成AI聊天机器人，NLP任务，命名实体识别或文本分类模型的数据集！
-- [RNNLG](https://github.com/shawnwun/RNNLG) -RNNLG是语音对话系统应用程序领域中用于自然语言生成（NLG）的开源基准测试工具包.
 - [NNDIAL](https://github.com/shawnwun/NNDIAL) -NNDial是用于构建端到端可训练的，面向任务的对话模型的开源工具包.
+- [Plato](https://github.com/uber-research/plato-research-dialogue-system) -这是柏拉图研究对话系统，这是用于开发对话式AI代理的灵活平台. 
+- [RNNLG](https://github.com/shawnwun/RNNLG) -RNNLG是语音对话系统应用程序领域中用于自然语言生成（NLG）的开源基准测试工具包.
 - [TGen](https://github.com/UFAL-DSG/tgen) -语音对话系统的统计NLG.
 
 ## Evaluation
 
-- [NLG-eval](https://github.com/Maluuba/nlg-eval) -用于自然语言生成的各种无监督自动化指标的评估代码.
+- [NLG-eval](https://github.com/Maluuba/nlg-eval) -用于自然语言生成的各种无监督自动度量的评估代码.
 - [VizSeq](https://github.com/facebookresearch/vizseq) -用于文本生成任务的可视化分析工具包.
 
 ## Grammar
 
-- [OpenCCG](https://github.com/OpenCCG/openccg) -OpenCCG库，用于使用CCG进行解析和实现.
+- [OpenCCG](https://github.com/OpenCCG/openccg) -用于CCG解析和实现的OpenCCG库.
 - [GrammaticalFramework](http://www.grammaticalframework.org/) -用于多语言语法应用程序的编程语言.
 - [EasyCCG](https://github.com/mikelewis0/easyccg) -CCG：所有组合器，通用语法格式，解析为逻辑形式，概率CCG的参数估计.
 - [CCG Lab](https://github.com/bozsahin/ccglab) -所有组合器，通用语法格式，解析为逻辑形式，概率CCG的参数估计.
@@ -53,7 +54,7 @@
 - [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) -基于神经网络的生成模型，用于使用Tensorflow字幕.
 - [PPLM](https://github.com/uber-research/PPLM)  -即插即用语言模型实现.  允许引导GPT-2模型的主题和属性.
 - [Texar](https://github.com/asyml/texar) -Texar是一个工具包，旨在支持广泛的机器学习，尤其是自然语言处理和文本生成任务.
-- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以轻松地在任何文本数据集上训练任何大小和复杂性的文本生成神经网络.
+- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以在任何文本数据集上轻松训练自己的任意大小和复杂度的文本生成神经网络.
 - [Transformers](https://github.com/huggingface/transformers) -TensorFlow 2.0和PyTorch的最新自然语言处理.
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) -用于将以结构化数据形式存在的信息转换为自然语言文本.
 

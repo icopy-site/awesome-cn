@@ -16,19 +16,19 @@
 
 - [Blipshift](https://github.com/GaidamakUA/blipshift) -简单的自上而下的移动平台游戏（Godot 3.1）.
 - [BlockPop](https://github.com/vnen/blockpop) -一个简单的Breakout克隆（Godot 2.1）.
-- [Bombs](https://github.com/randyyaj/Bombs)  -简单的手机游戏.  您需要触摸炸弹来化解它们（Godot 2.1）.
-- [Breakable](https://github.com/didier-v/breakable) - A breakout-like game (Godot 3.0).
+- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them (Godot 2.1).
+- [Breakable](https://github.com/didier-v/breakable) -突破性游戏（Godot 3.0）.
 - [Drone Commander](https://github.com/securas/Drone_Commander)  -指挥无数无人机对付外星人.  专为CGA JAM（Godot 2.1）设计.
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)  -详细世界中的探索性平台游戏.  面向年轻玩家（Godot 2.1）.
-- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) -为A Game By It&#39;s Cover 2015 Game Jam（Godot 2.1）制作的平台游戏.
+- [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) -为A Game By It&#39;s Cover 2015 Game Jam（Godot 2.1）开发的平台游戏.
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) -在幻想宇宙中的炸弹人克隆（Godot 2.1）.
-- [Haldric](https://github.com/wesnoth/haldric) -韦诺之战（Godot 3.1）的正式进行中重新实现.
+- [Haldric](https://github.com/wesnoth/haldric) -韦诺之战的正式进行中重新实现（Godot 3.1）.
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
 - [Memory Game](https://github.com/Tzoop/MemoryGame) -简单记忆游戏（Godot 3.0）.
 - [Minehunter](https://github.com/genete/Minehunter) -扫雷副本（Godot 2.1）.
 - [Minilens](http://kobuge-games.github.io/minilens/) -免费的益智平台游戏（Godot 2.1）.
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) -使用Theater Game Jam（PGA 2015）（Godot 2.1）制作的游戏.
-- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) -完成1小时挑战（Godot 2.1）的小型跑步游戏.
+- [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) -小型跑步游戏，挑战1小时（Godot 2.1）.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) -外星环境中的2D物理跑酷游戏（Godot 2.1）.
 - [Platshoot](https://github.com/Calinou/platshoot) -2D射击游戏（Godot 2.1）.
@@ -42,8 +42,8 @@
 
 ### 3D
 
-- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) -2016年3月的Godot Engine Jam游戏（Godot 2.1）.
-- [Meteorite](https://github.com/Bauxitedev/meteorite) -受银河战士Prime启发的低分辨率银河战士FPS，是为LOWREZJAM 2018（Godot 3.0）设计的.
+- [Cheese Hunter](https://github.com/khairul169/cheese-hunter) -2016年3月（Godot 2.1）的Godot Engine Jam游戏.
+- [Meteorite](https://github.com/Bauxitedev/meteorite) -受银河战士Prime启发的低分辨率银河战士FPS，为LOWREZJAM 2018（Godot 3.0）设计.
 - [Rapid Rescue](https://github.com/Azza292/RapidRescue) -Rapid Rescue是一款受迷宫（Godot 3.1）启发的本地多人战略游戏.
 - [Super Tux Party](https://anti.itch.io/super-tux-party) -一种免费/自由开放源代码的派对游戏，旨在复制Mario Party（Godot 3.1）等游戏的感觉.
 
@@ -67,7 +67,7 @@
 - [FPS Test](https://github.com/Calinou/fps-test)  -单人FPS测试.  物理可以工作，但是没有敌人，也没有适当的射击（Godot 2.1）.
 - [Open Source A-RPG Demo](https://github.com/GDQuest/godot-make-pro-2d-games) -RPG演示（Godot 3.0）.
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) -JRPG风格的游戏演示和模板（Godot 3.1）.
-- [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) -一个演示项目，演示使用tilemap进行寻路（Godot 2.1）.
+- [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) -一个演示项目，演示了使用tilemap（Godot 2.1）进行寻路.
 - [Realistic Water Shader](https://github.com/godot-extended-libraries/godot-realistic-water) -具有泡沫和腐蚀性的逼真的3D水着色器（Godot 3.1）.
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) -可让您连接到服务器并查看网络物理（Godot 2.1）.
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) -比快照插值（Godot 2.1）更有效的网络演示.
@@ -121,18 +121,19 @@
 
 *使您可以做新工作或增强Godot功能的脚本.*
 
-- [Auto Tile Layer](https://github.com/leezh/autotile) -允许使用RPG Maker的Autotile格式（Godot 2.1）自动进行2D平铺.
+- [Auto Tile Layer](https://github.com/leezh/autotile) -允许使用RPG Maker的Autotile格式（Godot 2.1）自动进行2D拼贴.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -Camera2D的屏幕抖动效果.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器（Godot 2.1、3.1）.
-- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程.
+- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程式的一部分.
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
-- [gdstats](https://github.com/droxpopuli/gdstats) -用于常见统计分布的伪随机数生成器库（Godot 3.0）.
+- [gdstats](https://github.com/droxpopuli/gdstats) -通用统计分布的伪随机数生成器库（Godot 3.0）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) -与GitHub交互，而无需打开浏览器（Godot 3.1）.
 - [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd（Godot 3.1）在Godot中进行快速3D碰撞检查.
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -Phoenix框架（Godot 3.1）的Channels API的GDScript和Godot引擎实现.
+- [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) -用几个节点和几行代码制作程序声音和自适​​应/程序音乐（Godot 3.1）.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) -一组基本节点扩展（Godot 3.1）.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) -通知中心（Godot 3.1）.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) -文本接口引擎，用于控制文本输出（例如在RPG对话框中）（Godot 2.x，3.x）.
@@ -147,7 +148,7 @@
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) -对GNU / Linux和Windows（Godot 2.1）的简单游戏手柄支持.
 - [Tiled importer](https://github.com/vnen/godot-tiled-importer) -从导入地图 [Tiled](https://www.mapeditor.org/) （Godot 3.1）.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) -建立贴图集.
-- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) -快速构建具有样式（Godot 2.x）的tileset.
+- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) -快速建立样式（Godot 2.x）的tileset.
 
 ## GDScript editor support
 
@@ -172,7 +173,7 @@
 
 ## Unofficial Godot builds
 
-*这些版本可以让您使用最新版本的Godot Git，但它们可能不如官方版本稳定-使用后果自负.
+*这些版本可让您使用Godot Git的最新版本，但它们可能不如官方版本稳定-使用后果自负.*
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/)
 
@@ -182,9 +183,9 @@
 
 - [build-godot](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) 和 [build-godot-mono](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono) - Scripts that build 和 run Godot, attempting to install dependencies if needed.
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) -使用Node.js与Godot客户端进行通信.
-- [godot-ci](https://github.com/aBARICHELLO/godot-ci)  -通过CI导出Godot游戏的Docker映像.  包括GitLab CI脚本示例.
+- [godot-ci](https://github.com/aBARICHELLO/godot-ci)  -Docker映像，用于通过CI导出Godot游戏.  包括GitLab CI脚本示例.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) -脚本会自动下载并启动最新版本的Godot，或编译并启动Git`master`分支.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) -帮助Debian和Ubuntu用户安装和使用Godot的脚本.
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) -用于为所有支持的平台生成游戏手柄映射的工具.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) -使用一个主文件更新文件副本的脚本.
-- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) -Perl脚本可将网格Spritesheet图像拆分为编号的单个框架文件.
+- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) -Perl脚本，用于将网格Spritesheet图像拆分为编号的单个框架文件.

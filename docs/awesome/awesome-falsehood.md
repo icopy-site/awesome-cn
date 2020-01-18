@@ -4,8 +4,9 @@
 
 程序员相信的精选虚假清单.
 
-&gt;世界的逻辑先于一切真理和谎言.
-&gt;-路德维希·维特根斯坦
+&gt;世界的逻辑先于真理和谎言.
+>
+&gt;-路德维希·维特根斯坦. [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) （Harper＆Brothers，纽约，1961年）.
 
 
 
@@ -16,10 +17,10 @@
 *虚假*文章是对特定主题的评论形式，
 受到开发者社区的广泛赞赏，因为它们的有效性和
  简洁.  它们是处理不熟悉领域的便捷书面形式
-通过消除神话，指出常见的陷阱，表现出不一致和
+通过消除神话，指出常见的陷阱，表现出矛盾和
 subtleties.
 
-从某种意义上讲，“虚假”文章是一整套冗长的单元测试，涵盖了
+从某种意义上说，“虚假”文章是一整套冗长的单元测试，涵盖了
 实际使用情况提供了广泛的优势.
 
 ## Falsehoods
@@ -57,7 +58,7 @@ subtleties.
 与定义汽车一样常见的东西充满了陷阱.
 - [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -货币
 由于起义，入侵，新宪法和
-计划采用的速度很慢.
+计划采用的速度缓慢.
 - [`tax`](https://github.com/commerceguys/tax) -PHP 5.4+税收管理
 library.
 
@@ -69,9 +70,9 @@ library.
 - [More Falsehoods About Time](http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) -部分
 以上文章2.
 - [Falsehoods About Time and Time Zones](https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) -另一个
-承担与时间有关的虚假陈述，重点是时区.
+承担与时间有关的虚假事实，并强调时区.
 - [Critique of Falsehoods About Time](https://gist.github.com/thanatos/eee17100476a336a711e) -需要
-在上面的第一篇文章中，并提供了对每个错误的解释，
+在上面的第一篇文章中，并提供了每个错误的解释，
 更多上下文和外部资源.
 - [Your Calendrical Fallacy Is Thinking…](http://yourcalendricalfallacyis.com) -清单
 涵盖了由iOS社区和
@@ -84,7 +85,7 @@ macOS开发人员.
 - [You Advocate a Calendar Reform](https://qntm.org/calendar) -您的想法会
  不行.  本文告诉您原因.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) -废除
-时区听起来不错，但有很多复杂之处
+时区听起来似乎是个好主意，但有很多复杂之处
 这使得事实并非如此.
 - [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 一种
 如果您有帮助，请观看有关为何不应该处理时区的视频.
@@ -100,8 +101,8 @@ macOS开发人员.
 - [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) -介意
 leap秒！
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) -臭名昭著
-关于复杂历史时区以及如何实现的堆栈溢出答案
-较新版本的软件可以重新解释历史日期.
+关于复杂的历史时区以及如何实现的堆栈溢出答案
+历史日期可以由较新版本的软件重新解释.
 
 
 ### Education
@@ -117,7 +118,7 @@ leap秒！
 复杂的示例是根据
 RFC-822.
 - [So you think you can validate email addresses (FOSDEM 2018)](https://fosdem.org/2018/schedule/event/email_address_quiz/) - 介绍
-大写电子邮件地址，以及为什么不应该使用正则表达式来解析它们.
+大写电子邮件地址以及为什么不应该使用正则表达式解析它们的原因.
 
 
 ### Geography
@@ -163,11 +164,11 @@ RFC-822.
 - [Falsehoods About Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) -翻译
 用英语编写的软件并不像看起来那样简单.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) -实词
-用于单元测试和质量检查的国际和多样化名称数据.
+国际和多样化的名称数据，用于单元测试和质量检查.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - 一种
 有关国际化代码时需要牢记的事情的视频.
 - [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) -人物
-编码不一定令人困惑，但是有助于基本设置
+编码不一定令人困惑，但是有助于基本
 knowledge.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) -人物
 编码很难.
@@ -222,7 +223,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 - [Letter Delivered Despite No Name, No Address](https://twitter.com/loriskumo/status/735851511331356672) -终极
 有关邮寄地址的虚假陈述：您不需要.
 - [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) -烟熏
-贝尔有自己的邮政编码（`20252`），因为他收到了很多邮件.
+熊有自己的邮政编码（`20252`），因为他收到了很多邮件.
 - [Regex and Postal Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) -为什么
 正则表达式和街道地址不要混用.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) -Google
@@ -277,7 +278,7 @@ RFC4180存在，它远非定论，而在很大程度上被忽略.
 *每秒钟*的虚假信息，但仍然是要实施的良好做法的好清单
 autocompletion.
 - [9999999999999999.0 - 9999999999999998.0](http://geocar.sdf1.org/numbers.html) - 一种
-有点虚假的数字，浮点数和小数.
+有点虚假的数字，浮点数与小数.
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) -为什么
 搜索（包括分析，标记化，突出显示）看似复杂.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) -这个话题
@@ -295,7 +296,7 @@ autocompletion.
 - [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) -假设
 有关网络和桌面应用程序中的排版的信息.
 - [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - 一种
-关于大小写主题的伪造形式的完全相反（如大写）
+关于案件主题（与大写字母一样），完全是伪造的格式的反面
 和小写文字）.
 
 
@@ -313,30 +314,30 @@ autocompletion.
 
 ### Falsehood Articles
 
-遵循“虚假”计划的文章是被纳入的主要候选对象
+遵循“虚假”计划的文章是被纳入的主要候选人
 这个很棒的清单.
 
-这些文章以开发人员天真的，简单的假设开始
+这些文章从以下假设开始：开发人员天真，简单
  对当前主题的看法.  然后继续列出一组坦率的假设
  这样的程序员可能会持有.  每个人故意是假的，并且
 有时通过反例进行说明.
 
-虚假列表被设计为旨在完善的进展
- 概念.  阅读了所有虚假清单后，读者应具备
+虚假列表被设计为旨在改善的虚假进展
+ 概念.  阅读了所有虚假列表之后，读者应该拥有
 全局（如果不完整）文章所针对领域的概述，
 包括大多数（如果不是全部）的陷阱，边缘情况和不一致之处.
 
-在最坏的情况下，这些文章可能会引起情绪反应并导致
+在最坏的情况下，这些文章可能会引起情绪反应并引起
  翻转表.  `（╯°□°）╯︵┻━┻`
 
 具有适用于产品和仅适用于产品的项目的文章
-不能真正视为一般的虚假文章，应避免使用.
+不能真正视为一般虚假文章，应避免使用.
 
 
 ### Libraries
 
 在可能的情况下，我们提供了可能会
-解决或尝试解决以下问题所指出的复杂性和特质
+解决或尝试解决由专家指出的复杂性和特质
 以上*虚假*文章.
 
  这样我们就可以将表格放回原处.  `┬─┬ノ（゜-゜ノ）`

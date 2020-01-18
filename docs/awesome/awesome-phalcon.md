@@ -93,7 +93,7 @@
 
 * i18n和l10n库和服务的列表.*
 
-* [xgettext-template](https://github.com/gmarty/xgettext) -使用与以下命令相同的命令行程序从Volt模板中提取gettext消息： [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+* [xgettext-template](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
 
 ## Integration
@@ -102,16 +102,21 @@
 
 * [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) -将日志消息发送到 [Logentries](https://logentries.com/) 日志管理服务
 
+ ## HERE
+ * IDE扩展列表*
+ 
+ * [volt-phalcon-language](https://marketplace.visualstudio.com/items?itemName=fbclol.volt-phalcon-language) -VS Code的扩展，它支持Phalcon Volt语法和complete-auto
+ 
 
 ## Miscellaneous
 
-*将这些库放在此处是因为其他类别似乎都不适合*
+*将这些库放在这里是因为其他类别似乎都不适合*
 
-* [Breadcrumbs](https://github.com/sergeyklay/breadcrumbs) -功能强大且灵活的组件，用于在Phalcon 2+中构建站点面包屑.
+* [Breadcrumbs](https://github.com/sergeyklay/breadcrumbs) -在Phalcon 2+中用于构建站点面包屑的强大而灵活的组件.
 * [Feedback](https://quasipickle.github.io/feedback/) -旨在替代Phalcon的内置Flash和Message功能
 * [Incubator](https://github.com/phalcon/incubator) -用于发布/共享/使用新适配器，原型或功能的存储库，这些适配器，原型或功能可能会合并到Phalcon框架中
 * [yarak](https://github.com/zachleigh/yarak) -Laravel启发了Phalcon devtools
-* [phalcon-data-table](https://github.com/maslo2017/phalcon-data-table) - Allows you to simplify the interaction with the bootstrap-table in the Phalcon
+* [phalcon-data-table](https://github.com/maslo2017/phalcon-data-table) -允许您简化与Phalcon中的引导表的交互
 
 
 ## ORM
@@ -156,7 +161,7 @@
 
 *搜索工具和库.*
 
-* [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) -用于Phalcon的Elasticsearch索引器组件
+* [ElasticsearchIndexer](https://github.com/SidRoberts/phalcon-elasticsearchindexer) -Phalcon的Elasticsearch索引器组件
 
 
 ## SEO
@@ -191,14 +196,14 @@
 
 *测试工具和解决方案.*
 
-* [phalcon-demo](https://github.com/Codeception/phalcon-demo) -修改后的Phalcon INVO应用程序，用于演示密码识别测试的基础.
+* [phalcon-demo](https://github.com/Codeception/phalcon-demo) -修改后的Phalcon INVO应用程序，用于演示密码识别测试的基础知识.
 
 
 ## Server Applications
 
 * [packagecloud](https://github.com/phalcongelist/packagecloud) -托管在PackageCloud上的Phalcon发行版
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) -Phalcon 3，PHP7，Docker示例入门应用程序
-* [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) -您可以选择Phalcon 3.x和PHP7.0开发的流浪汉配置+ MySQL / PostgreSQL / MongoDB，Redis / Memcached，Gearman / RabbitMQ，Elasticsearch / Sphinxsearch
+* [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) -您可以选择Phalcon 3.x和PHP7.0开发的流浪者配置+ MySQL / PostgreSQL / MongoDB，Redis / Memcached，Gearman / RabbitMQ，Elasticsearch / Sphinxsearch
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) -Docker Phalcon 3开发环境
 
 
