@@ -19,6 +19,7 @@
 - [mapcamp.slack.com](https://mapcamp.slack.com/) -在Slack上加入Map Camp [here](https://map-camp-slack-invite.herokuapp.com/).
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) -沃德利地图社区.
 - [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) -订阅 [here](https://bit.ly/2QlF0Wx) .  通讯 [archive](https://bit.ly/2P9MEPu).
+- [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) -加入对话.
 
 ## Reading
 
@@ -32,7 +33,7 @@
 ## Videos
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) -社区YouTube频道和 [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
-- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -由 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -视觉上引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
 
 ## Courses
 
@@ -51,13 +52,13 @@
 - [Exploring Culture](https://medium.com/@swardley/mapping-culture-ac164c0e17f0)  -映射文化.  2019年9月4日.
 - [What culture is right for you?](https://medium.com/@swardley/what-culture-is-right-for-you-ba892f1f3bc5) -2019年7月31日
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.
-- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解最适合开发和交付信息管理系统的方法，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
+- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种策略最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源；  并跨多个NSO启用大数据协作.  下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019年3月12日.
-- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所倡导的地图形式相结合.  2019年1月2日.
+- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所开创的地图形式相结合.  2019年1月2日.
 - [What is an expert?](https://medium.com/@swardley/what-is-an-expert-886274b2c1aa) -2018年10月31日.
 - [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa)  -如何通过专注于理论和支出控制来阻止组织积极损害自身.  2018年10月30日.
 - [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html)  -我们如何充分利用技术来支持医疗保健？  2018年7月19日.
-- [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315)  -由Cynefin通知的具有Wardley映射的特定于上下文的成熟度模型.  2018年5月11日.
+- [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315)  -由Cynefin通知的带有Wardley映射的上下文特定的成熟度模型.  2018年5月11日.
 - [Uber, the not so disrupting disruptor?](https://medium.com/@swardley/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) -2017年9月11日.
 - [Blue pill or red pill?](https://medium.com/@swardley/blue-pill-or-red-pill-9249bed5918b)  -学说和学说阶段.  2017年5月25日.
 - [Is my diagram a map?](https://medium.com/@swardley/is-my-diagram-a-map-7b30c10fb693) -2017年5月12日.
@@ -71,7 +72,7 @@
 
 ## Research Papers
 
-- [Building Situational Awareness in the Age of Service Ecosystems](https://ore.exeter.ac.uk/repository/handle/10871/36643)  -R，R；  汤普森，男；  W，Venters；  等.  2019年3月.
+- [Building Situational Awareness in the Age of Service Ecosystems](https://ore.exeter.ac.uk/repository/handle/10871/36643)  -上升，R；  汤普森，男；  W，Venters；  等.  2019年3月.
 - [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper)  -Leading Edge论坛发布的一系列立场文件.  2018年6月13日至2019年1月28日.
 
 ## Templates
@@ -81,11 +82,11 @@
 ### Mapping
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) -动画指导和开源Wardley地图图标集合.
-- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -用于OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
+- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -OmniGraffle的Wardley映射模具.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -Simon Wardley的书中的图8和图11，展示了在LaTeX中绘制Wardley Maps的过程.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的操作指南.
-- [yEd Palette](https://github.com/colugo/yed-wardley) -沃德利（Yard）映射调色板.
+- [yEd Palette](https://github.com/colugo/yed-wardley) -Wardley yYd的调色板.
 
 ### Doctrine Assessement
 
@@ -101,7 +102,7 @@
 
 ### Doctrine Assessement
 
-- [Doctrine](https://github.com/cdaniel/doctrine/)  -根据Wardley的学说，可视化公司竞争力的简单工具.  提供托管版本 [here](https://doctrine.wardleymaps.com/).
+- [Doctrine](https://github.com/cdaniel/doctrine/)  -一种简单的工具，可根据沃德利（Wardley）的理论可视化公司的竞争力.  提供托管版本 [here](https://doctrine.wardleymaps.com/).
 
 ## Events
 
@@ -128,10 +129,10 @@
   
 ## Workshops
 
-- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) -工作坊规则，卡片和材料.
+- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) -车间规则，卡片和材料.
 
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-Wardley Maps社区已在法律允许的范围内放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内，沃德利地图社区已放弃了此作品的所有版权以及相关或邻近的权利.

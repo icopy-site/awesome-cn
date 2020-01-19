@@ -17,15 +17,13 @@
 *虚假*文章是对特定主题的评论形式，
 受到开发者社区的广泛赞赏，因为它们的有效性和
  简洁.  它们是处理不熟悉领域的便捷书面形式
-通过消除神话，指出常见的陷阱，表现出矛盾和
+by dispelling myths, point out common pitfalls, show inconsistencies and
 subtleties.
 
 从某种意义上说，“虚假”文章是一整套冗长的单元测试，涵盖了
 实际使用情况提供了广泛的优势.
 
-## Falsehoods
-
-### Meta
+## Meta
 
 - [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - 一种
  常见错误的简要清单.  概述和快速介绍
@@ -36,7 +34,7 @@ subtleties.
 关于如何处理这些谬论的评论.
 
 
-### Arts
+## Arts
 
 - [Falsehoods About Music](https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html) -错误
 编纂音乐可能会做出的假设.
@@ -44,7 +42,7 @@ subtleties.
 对艺术的误解.
 
 
-### Business
+## Business
 
 - [Falsehoods About Online Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201) - 盖子
 价格，货币和库存.
@@ -63,7 +61,7 @@ subtleties.
 library.
 
 
-### Dates and Time
+## Dates and Time
 
 - [Falsehoods About Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) -开创性
 关于日期和时间的文章.
@@ -105,14 +103,14 @@ leap秒！
 历史日期可以由较新版本的软件重新解释.
 
 
-### Education
+## Education
 
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一种
 清单（不仅如此）计算机科学专业的学生往往会错误地
 时代令人惊讶地相信，即使他们（可能）应该更了解.
 
 
-### Emails
+## Emails
 
 - [I Knew How to Validate an Email Address Until I Read the RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -提供
 复杂的示例是根据
@@ -121,7 +119,7 @@ RFC-822.
 大写电子邮件地址以及为什么不应该使用正则表达式解析它们的原因.
 
 
-### Geography
+## Geography
 
 - [Falsehoods About Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) -需要
 地点，名称和位置.
@@ -129,7 +127,7 @@ RFC-822.
 坐标，投影和GIS.
 
 
-### Human Identity
+## Human Identity
 
 - [Falsehoods About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -
 开始一切的文章.
@@ -159,7 +157,7 @@ RFC-822.
 名称与性别和国际化的交集.
 
 
-### Internationalization
+## Internationalization
 
 - [Falsehoods About Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) -翻译
 用英语编写的软件并不像看起来那样简单.
@@ -174,33 +172,33 @@ knowledge.
 编码很难.
 
 
-### Management
+## Management
 
 - [Falsehoods About Job Applicants](https://web.archive.org/web/20170114022820/https://medium.com/@creatrixtiara/falsehoods-programmers-believe-about-job-applicants-99280437c616) -假设
 关于求职者及其工作经历的说法不一定正确.
 
 
-### Multimedia
+## Multimedia
 
 - [Falsehoods About Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) -封面
 全部：视频解码和播放，文件，图像缩放，色彩空间和
 转换，显示和字幕.
 
 
-### Networks
+## Networks
 
 - [Falsehoods About Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - 盖子
 TCP，DHCP，DNS，VLAN和IPv4 / v6.
 - [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) -假设
 刚接触分布式应用程序的程序员所做的一切.
 - [There's more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) -一些
-parts of the address are optional, mind the decimal and octal notations,
+地址的部分是可选的，请注意十进制和八进制表示法，
 and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 - [`hostname-validate`](https://github.com/jakeogh/hostname-validate) -一个
 尝试在Python中验证主机名.
 
 
-### Phone Numbers
+## Phone Numbers
 
 - [Falsehoods About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - 盖子
 电话号码，其表示形式和含义.
@@ -214,7 +212,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 [PHP](https://github.com/giggsey/libphonenumber-for-php).
 
 
-### Postal Addresses
+## Postal Addresses
 
 - [Falsehoods About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - 盖子
 街道，邮政编码，建筑物，城市和国家/地区.
@@ -243,7 +241,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 使用测量系统并在它们之间进行转换.
 
 
-### Society
+## Society
 
 - [Falsehoods About Political Appointments](https://twitter.com/oliver_dw/status/737930439575404544) -设计
 选举系统有其自己的技巧.
@@ -251,7 +249,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 关于STEM（科学，技术，工程，数学）行业中的女性的信息.
 
 
-### Software Engineering
+## Software Engineering
 
 - [Falsehoods About Versions](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) -归因
 软件发行版的标识可能比想像的要难.
@@ -291,7 +289,7 @@ autocompletion.
 并发和竞争条件.
 
 
-### Typography
+## Typography
 
 - [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) -假设
 有关网络和桌面应用程序中的排版的信息.
@@ -304,49 +302,6 @@ autocompletion.
 
  永远欢迎您的贡献！  请看看
 [contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/master/CONTRIBUTING.md) 第一.
-
-
-## Good Candidates
-
-这是非限制性项目列表，可以很好地列入名单
-在这个很棒的清单中.
-
-
-### Falsehood Articles
-
-遵循“虚假”计划的文章是被纳入的主要候选人
-这个很棒的清单.
-
-这些文章从以下假设开始：开发人员天真，简单
- 对当前主题的看法.  然后继续列出一组坦率的假设
- 这样的程序员可能会持有.  每个人故意是假的，并且
-有时通过反例进行说明.
-
-虚假列表被设计为旨在改善的虚假进展
- 概念.  阅读了所有虚假列表之后，读者应该拥有
-全局（如果不完整）文章所针对领域的概述，
-包括大多数（如果不是全部）的陷阱，边缘情况和不一致之处.
-
-在最坏的情况下，这些文章可能会引起情绪反应并引起
- 翻转表.  `（╯°□°）╯︵┻━┻`
-
-具有适用于产品和仅适用于产品的项目的文章
-不能真正视为一般虚假文章，应避免使用.
-
-
-### Libraries
-
-在可能的情况下，我们提供了可能会
-解决或尝试解决由专家指出的复杂性和特质
-以上*虚假*文章.
-
- 这样我们就可以将表格放回原处.  `┬─┬ノ（゜-゜ノ）`
-
-
-### Data Structures
-
-足够通用的数据模型和结构可以覆盖和解决大多数
-此页面也欢迎虚假信息.
 
 
 ## License

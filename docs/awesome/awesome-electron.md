@@ -42,7 +42,7 @@
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) -BitTorrent客户端.
 - [Abricotine](https://github.com/brrd/Abricotine) -带有嵌入式预览的Markdown编辑器.
 - [Medis](https://github.com/luin/medis) -Redis数据库管理.
-- [Kakapo](https://github.com/bluedaniel/kakapo-app) -环境声音混合器，以放松或提高生产率.
+- [Kakapo](https://github.com/bluedaniel/kakapo-app) -环境混音器，可放松或提高生产率.
 - [SmartMirror](https://github.com/evancohen/smart-mirror) -声控智能镜.
 - [Koko](https://github.com/hachibasu/koko) -IRC客户.
 - [KeeWeb](https://github.com/keeweb/keeweb) -非官方的KeePass应用.
@@ -50,7 +50,7 @@
 - [Friends](https://github.com/moose-team/friends) -P2P聊天.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) -菜单栏中的SoundCloud播放器.
 - [Kitematic](https://kitematic.com) -Docker容器管理.
-- [FatFileFinder](https://github.com/pwambach/fat-file-finder) -在计算机上查找大文件.
+- [FatFileFinder](https://github.com/pwambach/fat-file-finder) -在您的计算机上查找大文件.
 - [ScreenCat](https://github.com/maxogden/screencat) -屏幕共享和远程协作.
 - [Gulp](https://github.com/sindresorhus/gulp-app) -从菜单栏中运行Gulp任务.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) -地图设计师.
@@ -64,7 +64,7 @@
 - [We Build SG](https://github.com/webuildsg/osx) -来自webuild.sg的即将发生的事件和最近更新的存储库.
 - [Piglet](https://github.com/jenslind/piglet) -从菜单栏中运行Grunt任务.
 - [Yoda](https://github.com/whoisandie/yoda) -浏览和下载YouTube视频.
-- [Loop Drop](https://github.com/mmckegg/loop-drop-app) -MIDI循环器和合成器，用于现场电子音乐表演.
+- [Loop Drop](https://github.com/mmckegg/loop-drop-app) -用于现场电子音乐表演的MIDI循环器和合成器.
 - [Toby](https://github.com/frankhale/toby) -YouTube播放器.
 - [Kaku](https://github.com/EragonJ/Kaku) - 音乐播放器.
 - [Yeoman](https://github.com/yeoman/yeoman-app) -使用Yeoman的脚手架项目.
@@ -134,7 +134,7 @@
 - [Moonview](https://github.com/teesloane/moonview) -环保记事本.
 - [DBGlass](https://github.com/web-pal/DBGlass) -PostgreSQL客户端.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) -物理网络信标广播.
-- [Rambox](https://github.com/saenzramiro/rambox) -聊天和电子邮件应用程序，结合了Discord，环聊，Gmail和Outlook等多种服务.
+- [Rambox](https://github.com/saenzramiro/rambox) -聊天和电子邮件应用程序，结合了多种服务，例如Discord，环聊，Gmail和Outlook.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - 终奌站.
 - [Materialette](https://github.com/mike-schultz/materialette) -菜单栏中的材料设计调色板.
 - [Dext](https://github.com/vutran/dext) -发射器.
@@ -156,7 +156,7 @@
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) -密码管理器.
 - [Mailspring](https://github.com/Foundry376/Mailspring)  -可扩展的电子邮件客户端.  （尼拉斯邮件叉）
 - [Manta](https://github.com/hql287/Manta) -使用精美且可自定义的模板为自由职业者开具发票.
-- [Headset](https://github.com/headsetapp/headset-electron) -发现，收集和收听YouTube中的音乐.
+- [Headset](https://github.com/headsetapp/headset-electron) -发现，收集和聆听YouTube音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) -来自免费资源的音乐播放器.
 - [Inboxer](https://github.com/denysdovhan/inboxer) -非官方的Google收件箱应用.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) -高级用户的文件管理器.
@@ -165,26 +165,27 @@
 - [Pretzel](https://github.com/amiechen/pretzel) -显示和搜索当前应用程序的键盘快捷键.
 - [Netron](https://github.com/lutzroeder/netron) -用于深度学习和机器学习模型的可视化工具.
 - [Ao](https://github.com/klauscfhq/ao) -非官方的Microsoft To-Do应用.
-- [Etcher](https://github.com/resin-io/etcher) -将操作系统映像闪存到SD卡和USB驱动器.
+- [Etcher](https://github.com/resin-io/etcher) -将OS映像闪存到SD卡和USB驱动器.
 - [Noty](https://github.com/fabiospampinato/noty) -自动保存即时贴，在一个窗口中支持多个便签.
 - [Notable](https://github.com/fabiospampinato/notable) -基于Markdown的笔记.
-- [Mini Diary](https://github.com/samuelmeuli/mini-diary) -简单安全的日记应用.
+- [Mini Diary](https://github.com/samuelmeuli/mini-diary) -简单和安全的日记应用程序.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) -从Unsplash设置桌面墙纸.
 - [Motrix](https://github.com/agalwood/Motrix) - 下载管理器.
 - [Franz](https://github.com/meetfranz/franz) -在同一应用中使用Skype，Slack，环聊，WhatsApp，Grape，Telegram，FB Messenger，Hipchat.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) -非官方的Gmail应用程序.
 - [Upcount](https://github.com/madisvain/upcount) -开票.
+- [ExifCleaner](https://github.com/szTheory/exifcleaner) -通过拖放来清洁图像元数据.
 
 ### Closed Source
 
 - [GitKraken](http://www.gitkraken.com) -Git客户端.
 - [1Clipboard](http://1clipboard.io) -通用剪贴板管理器.
-- [Postman](https://www.getpostman.com) -创建并发送HTTP请求.
+- [Postman](https://www.getpostman.com) -创建和发送HTTP请求.
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) -桌面版.
 - [Avocode](http://avocode.com) -分享设计和协作.
 - [Prepros](https://prepros.io) -使用实时浏览器刷新编译几乎所有预处理语言.
 - [Stremio](http://www.strem.io) - 媒体中心.
-- [Typetalk](http://www.typetalk.in) -通过即时消息与您的团队共享和讨论想法.
+- [Typetalk](http://www.typetalk.in) -通过即时消息与您的团队分享和讨论想法.
 - [Pingendo](http://pingendo.com) -引导原型.
 - [Spreaker Studio](https://www.spreaker.com/download) -录音和广播.
 - [MockingBot](https://mockingbot.com) -用于设计应用程序的原型工具.
@@ -194,7 +195,7 @@
 - [BearyChat](https://bearychat.com)  -团队消息服务.  *（中文）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) -官方的MongoDB应用程序.
 - [Freeter](https://freeter.io) -自由职业者和创意者的组织者.
-- [WhatsApp](https://www.whatsapp.com/download/) -官方WhatsApp应用.
+- [WhatsApp](https://www.whatsapp.com/download/) -官方的WhatsApp应用程序.
 - [CatLight](https://catlight.io) -构建状态通知程序.
 - [Automint](http://automint.in) -汽车业务CRM.
 - [Discord](https://discordapp.com) -游戏玩家的语音和文字聊天.
@@ -229,7 +230,7 @@
 
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) -开始创建应用程序的样板-- [sindresorhus](http://github.com/sindresorhus).
 - [generator-electron](https://github.com/sindresorhus/generator-electron) -搭建一个app样板.
-- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) -全面的样板甚至可以生成安装程序- [szwacz](https://github.com/szwacz).
+- [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) -全面的样板甚至可以生成安装程序-通过 [szwacz](https://github.com/szwacz).
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) -基于React和webpack的样板.
 - [descjop](https://github.com/karad/lein_template_descjop) -用于创建应用程序的ClojureScript样板.
 - [electron-quick-start](https://github.com/electron/electron-quick-start) -克隆仓库以尝试一个简单的应用程序.
@@ -244,7 +245,7 @@
 ### For Electron
 
 - [electron-builder](https://github.com/electron-userland/electron-builder) -创建安装程序.
-- [devtron](https://github.com/electron/devtron) -官方的DevTools扩展.
+- [devtron](https://github.com/electron/devtron) -官方DevTools扩展.
 - [electron-packager](https://github.com/electron-userland/electron-packager) -打包并分发您的应用.
 - [electron-debug](https://github.com/sindresorhus/electron-debug) -添加了有用的调试功能.
 - [electron-is-dev](https://github.com/sindresorhus/electron-is-dev) -检查Electron是否正在开发中.
@@ -253,12 +254,12 @@
 - [electron-release](https://github.com/jenslind/electron-release) -将您应用的新版本发布到GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) -利用npm的自动更新程序来部署更新.
 - [fix-path](https://github.com/sindresorhus/fix-path)  -从GUI应用程序运行时，在macOS上修复了$ PATH.  在生成子进程时很有用.
-- [auto-launch](https://github.com/Teamwork/node-auto-launch) -在系统启动时启动应用程序.
+- [auto-launch](https://github.com/Teamwork/node-auto-launch) -在系统启动时启动应用.
 - [nuts](https://github.com/GitbookIO/nuts) -发布带有自动更新程序和GitHub作为后端的服务器.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) -简化文件下载.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) -具有前端和自动更新程序支持的自托管发布服务器.
 - [electron-rebuild](https://github.com/electron/electron-rebuild) -根据当前安装的Electron版本重建本机Node.js模块.
-- [electron-compile](https://github.com/electron/electron-compile) -在您的应用中使用ES2015，CoffeeScript，Less，Stylus，而无需预编译步骤.
+- [electron-compile](https://github.com/electron/electron-compile) -无需预编译即可在应用中使用ES2015，CoffeeScript，Less，手写笔.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) -将窗户放在公共位置.
 - [electron-window-state](https://github.com/mawie81/electron-window-state) -保持窗口大小和位置.
 - [electron-drag](https://github.com/kapetan/electron-drag) -改进了窗口拖动.
@@ -266,13 +267,13 @@
 - [electron-installer-debian](https://github.com/unindented/electron-installer-debian) -创建一个Debian软件包.
 - [electron-installer-redhat](https://github.com/unindented/electron-installer-redhat) -创建一个Red Hat软件包.
 - [electron-installer-windows](https://github.com/unindented/electron-installer-windows) -创建Windows程序包.
-- [electron-sudo](https://github.com/automation-stack/electron-sudo) -具有管理特权的子流程.
+- [electron-sudo](https://github.com/automation-stack/electron-sudo) -具有管理特权的子进程.
 - [electron-json-storage](https://github.com/jviotti/electron-json-storage) -写入和读取用户设置.
 - [electron-download](https://github.com/electron-userland/electron-download) -从GitHub下载Electron发布zip.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) -通过IPC的双工流.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) -检查您的代码是否在`main`或`renderer`中运行.
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) -macOS应用程序的代码签名.
-- [electron-detach](https://github.com/parro-it/electron-detach) -重新启动电子应用程序作为独立进程.
+- [electron-detach](https://github.com/parro-it/electron-detach) -重新启动电子应用程序作为一个独立的过程.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) -构建，测试和打包Ember应用程序.
 - [electrify](https://github.com/arboleya/electrify) -打包流星应用程序.
 - [spectron](https://github.com/electron/spectron) -使用ChromeDriver测试Electron应用程序.
@@ -287,9 +288,9 @@
 - [electron-log](https://github.com/megahertz/electron-log) -简单的日志记录.
 - [electron-redux](https://github.com/hardchor/electron-redux) -跨Windows同步Redux状态.
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) -向窗户添加活力（模糊）.
-- [electron-about-window](https://github.com/rhysd/electron-about-window) -“关于此应用”窗口.
+- [electron-about-window](https://github.com/rhysd/electron-about-window) -“关于此应用程序”窗口.
 - [elemon](https://github.com/manidlou/elemon) -在开发过程中实时重新加载您的应用程序.
-- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) -检查字符串是否为有效的加速器.
+- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) -检查字符串是否是有效的加速器.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) -在浏览器窗口中查看PDF文件.
 - [electron-router](https://github.com/m0n0l0c0/electron-router) -路由器整理IPC消息传递.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) -读取用户设置并将其写入磁盘.
@@ -300,7 +301,7 @@
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) -在开发过程中简单的自动重新加载.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) -静态文件服务（用于路由，如`react-router`）.
 - [electron-timber](https://github.com/sindresorhus/electron-timber) -漂亮的记录器.
-- [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) -Chromium的网络错误为自定义错误类别.
+- [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) -Chromium的网络错误作为自定义错误类别.
 - [run-electron](https://github.com/sindresorhus/run-electron) -在没有所有垃圾端子输出的情况下运行Electron.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) -集成电子API和Angular.
 - [debugtron](https://github.com/pd4d10/debugtron) -调试基于电子的生产中的应用程序.
@@ -315,7 +316,7 @@
 
 - [devtool](https://github.com/Jam3/devtool) -使用Chrome DevTools调试Node.js.
 - [nativefier](https://github.com/jiahaog/nativefier) -创建任何网站的应用.
-- [electron-stream](https://github.com/juliangruber/electron-stream) -流包装.
+- [electron-stream](https://github.com/juliangruber/electron-stream) -流包装器.
 - [Nightmare](http://www.nightmarejs.org) -高级浏览器自动化库（替代PhantomJS）.
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) -在命令行上从URL，HTML或Markdown文件生成PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) -在本地预览GeoJSON.
@@ -354,10 +355,10 @@
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
 - [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) -新的Electron API可以以更少的错误和更高的性能嵌入Web应用程序.
-- [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -Slack用`BrowserView`，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
-- [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -Realm使用Electron重写了他们的数据库浏览器应用程序，以提供跨平台支持.
+- [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -Slack用“ BrowserView”，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
+- [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -Realm使用Electron重写了其数据库浏览器应用程序，以提供跨平台支持.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) -由5部分组成的系列，介绍了将Electron应用制作和发布到Mac App Store的过程.
-- [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) -专注于设计和代码决策以及电子安全性.
+- [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) -专注于设计和代码决策以及电子安全.
 - [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) -如何收集匿名用户统计信息.
 
 ## Books
@@ -381,7 +382,7 @@
 - [Automatically Build and Publish Node and Electron Applications for Linux](https://pusher.com/sessions/meetup/london-node-user-group/automatically-build-and-publish-node-and-electron-applications-for-linux)
 - [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 
 - [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 
-- [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) -包括一些有关改善应用程序启动时间，调试崩溃等的很好的演讲.
+- [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) -包括一些有关改善应用程序启动时间，调试崩溃等方面的很好的演讲.
 
 ## Podcasts
 

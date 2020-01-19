@@ -14,10 +14,10 @@
 
 ### Lab Data (Synthetic Measurements)
 
- 使用工具对页面进行请求并评估性能.  确保使其逼真（例如，通过节流网络和CPU）并减少噪音（例如，通过多次运行）.
+ 使用工具对页面进行请求并评估性能.  确保使其现实（例如，通过节流网络和CPU）并减少噪音（例如，通过多次运行）.
 
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)  -一种基于Google Chrome浏览器的工具，用于审核网页.  您可以从Chrome DevTools，Chrome扩展程序或从命令行（即使使用无头Chrome）运行它.
-- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) -Google提供的免费托管的Lighthouse报告（以及更多）.
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) -由Google提供的免费托管的Lighthouse报告（以及更多）.
 - [WebpageTest](https://www.webpagetest.org/) -免费和托管的Web性能测试（也是一个开源项目）.
 - [Sitespeed.io](https://www.sitespeed.io/) -一组开源性能监视工具.
 - [Calibre](https://calibreapp.com) -Web性能监控SaaS.
@@ -45,9 +45,9 @@
 
 ### Long tasks
 
- 处理用户输入的浏览器主线程也是执行JavaScript的一个（在许多其他事物中）.  阻塞主线程的时间过长会使页面无响应.
+ 处理用户输入的浏览器主线程也是执行JavaScript的一个（在许多其他事物中）.  阻塞主线程时间过长会使页面无响应.
 
- 用户将100ms内的任何视觉变化视为瞬间.  任何通过“花费超过50毫秒的时间来阻塞主线程”的任务都被认为是一项长任务**（因为这可能会使浏览器对用户输入无响应）.
+ 用户将100ms内的任何视觉变化视为瞬间.  任何通过“花费超过50毫秒的时间来阻塞主线程”的任务都被视为一项长任务**（因为这可能会使浏览器对用户输入无响应）.
 
 为了优化交互性指标，例如 [Time to Interactive (TTI)](#time-to-interactive-tti) 和 [First Input Delay (FID)](#first-input-delay-fid) you have to underst和 long tasks 和 how to avoid them as much as possible.
 
@@ -59,7 +59,7 @@
  用户通常在寻找视觉反馈和保证.  为了衡量这种感知的性能（在加载的各个阶段），我们可以选择可以直接回答以下问题的指标.
 
 - [User-centric Performance Metrics](https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics)
- -发生了吗？  -导航是否成功启动？  服务器响应了吗？  （例如 [FCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
+ -发生了吗？  -导航是否成功启动？  服务器是否响应？  （例如 [FCP](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-contentful-paint-fcp))
  -有用/有意义吗？  -是否渲染了足够的内容以使用户可以参与其中？  （例如 [FMP](https://github.com/csabapalfi/awesome-web-performance-metrics/#first-meaningful-paint-fmp))
  -是否可用-用户可以与页面进行交互，还是仍在忙于加载？  （例如 [TTI](https://github.com/csabapalfi/awesome-web-performance-metrics/#time-to-interactive-tti))
  -令人愉快/顺滑吗？  -交互是否顺畅自然，没有滞后和颠簸？
@@ -76,7 +76,7 @@
 ## Rendering metrics
 
 
- 第一个内容丰富的油漆标记“第一个文本或图像”（包括背景图像），非白色画布或SVG的绘制时间.  这包括带有待定Web字体的文本.  这是用户第一次开始使用页面内容.
+ First Contentful Paint标记“第一文本或图像”（包括背景图像），非白色画布或SVG的绘制时间.  这包括带有待定Web字体的文本.  这是用户第一次开始使用页面内容.
 
 -实验室：灯塔
 -领域：Chrome 60以上版本，Opera 47以上版本，CrUX
@@ -86,7 +86,7 @@
 
 ### First Meaningful Paint (FMP)
 
- 当页面的主要内容可见时，“第一个有意义的绘画”将进行测量**.  从本质上讲，这是发生最大的折页式布局更改并加载Web字体后的绘画.
+ 当页面的主要内容可见时，“第一个有意义的绘画”将进行度量**.  从本质上讲，这是发生最大的折页式布局更改并加载Web字体之后的绘画.
 
 -实验室：灯塔
 -领域：不适用
@@ -95,7 +95,7 @@
 
 ### Speed Index
 
- 速度索引显示**页面内容的填充速度有多快**（数字越小越好）.  这是通过在加载过程中经常测量外观完整性来完成的.  页面越直观越完整，值越低.
+ 速度索引显示**页面内容的填充速度有多快**（数字越小越好）.  这是通过在加载过程中频繁测量外观的完整性来完成的.  页面越直观越完整，值越低.
 
 -实验室：WPT灯塔（但规格略有不同）
 -领域：不适用
@@ -106,7 +106,7 @@
 
 ### Start render
 
-“开始渲染”是指从初始导航的开始到**绘制第一个非白色内容**到浏览器显示的时间.
+“开始渲染”是从初始导航开始到将“第一个非白色内容绘制”到浏览器显示的时间.
 
 -实验室：WPT
 - [Docs - Start Render - WPT](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics)
@@ -114,7 +114,7 @@
 
 ### First Paint (FP)
 
- First Paint报告“导航后第一次呈现浏览器”的时间.  这不包括默认背景画，但包括非默认背景画.  这是开发人员关心页面加载的第一个关键时刻-当浏览器开始呈现页面时.
+ First Paint报告“导航后首次呈现浏览器”的时间.  这不包括默认背景画，但包括非默认背景画.  这是开发人员关心页面加载的第一个关键时刻-当浏览器开始呈现页面时.
 
 -实验室：LightHouse JSON报告包括但不包括HTML报告，也类似于 [Start render](#start-render) 在WPT中
 -领域：Chrome 60以上版本，Opera 47以上版本，CrUX
@@ -122,7 +122,7 @@
 
 ### Visually Complete
 
- 视觉上的完成是指从初始导航开始到页面的“可见（折页以上）”部分不再更改**的时间.  （使用基于视频/屏幕快照记录的颜色直方图进行测量）.
+ 视觉上的完成是指从初始导航开始到页面的“可见（折叠）以上”部分不再更改**的时间.  （使用基于视频/屏幕快照记录的颜色直方图进行测量）.
 
 -实验室：WPT
 -领域：不适用
@@ -130,7 +130,7 @@
 
 ### Hero Element Timing
 
-“英雄元素定时”在浏览器绘制特定元素时进行捕获（例如，您的“ h1”或英雄图像等）.
+“英雄元素时间”在浏览器绘制特定元素时进行捕获（例如，您的“ h1”或英雄图像等）.
 
 -实验室：WPT
 -字段：不适用，但请参见下面的未填写的polyfill
@@ -144,9 +144,9 @@
 - [Docs - Hero Text Element Timestamps](https://docs.google.com/document/d/1co1yefZWQ4QvG_2WT0nCrqxcAgjU08um9Boe_JzHkdE/edit#heading=h.zwg1kfkhqmx)
 
 
-### Cumulative Layout Shift score (CLS)
+### Cumulative Layout Shift (CLS)
 
- 源自Layout Instability API的指标.  累积布局偏移（CLS）分数是通过计算从页面加载到页面生命周期状态变为隐藏为止的所有意外（而不是用户交互的0.5秒以内）布局偏移分数的总和来确定的.
+ 源自Layout Instability API的指标.  累积布局偏移（CLS）分数是通过计算从页面加载到页面生命周期状态变为隐藏为止的所有意外（不在用户交互的0.5s内）布局偏移分数的总和来确定的.
 
 -实验室：不适用
 -领域：CrUX + Chrome 73+（原始试用版）
@@ -167,9 +167,9 @@
 
 ### First CPU Idle
 
-“第一CPU空闲”标志着**页面主线程足够安静以处理用户输入的第一次**.
+“第一CPU空闲”标记**页面主线程足够安静以处理用户输入的第一次**.
 
--实验室：WPT灯塔（但在WPT中被称为“首次互动”）
+-实验室：WPT灯塔（但在WPT中被称为“首次互动**”）
 -领域：不适用
 - [Docs - First Interactive - WPT](https://github.com/WPO-Foundation/webpagetest/blob/master/docs/Metrics/TimeToInteractive.md)
 - [Docs - First CPU Idle - Lighthouse](https://developers.google.com/web/tools/lighthouse/audits/first-cpu-idle)
@@ -178,14 +178,14 @@
 
  互动时间是**页面完全互动所花费的时间**（如在主线程中安静5s）.  不要与First Interactive或First CPU Idle混淆.  （警告：最令人困惑和误解的指标之一）.
 
--字段：不建议使用，因为与您的页面进行交互的用户可能会扭曲TTI的字段度量
+-字段：不建议使用，因为与您的页面进行交互的用户可能会歪曲TTI的字段测量值
 - [Polyfill - TTI](https://github.com/GoogleChromeLabs/tti-polyfill)
 - [Spec - TTI - Lighthouse](https://docs.google.com/document/d/1GGiI9-7KeY3TPqS3YT271upUVimo-XiL5mwWorDUD4c/edit)
 - [Blogpost - TTI](https://blog.dareboost.com/en/2019/05/measuring-interactivity-time-to-interactive/)
 
 ### First Input Delay (FID)
 
- 首次输入延迟（FID）用于衡量**从用户首次与您的网站进行交互到浏览器实际上能够对该交互做出响应的时间**.  交互可以是用户单击链接，点击按钮或使用自定义的JavaScript驱动的控件.
+ 首次输入延迟（FID）衡量**从用户首次与您的网站进行交互到浏览器实际上能够对该交互做出响应的时间**.  交互可以是用户单击链接，点击按钮或使用自定义的JavaScript驱动的控件.
 
 -实验室：不适用（因为它要求用户与页面互动）
 -栏位：IE9 +（以及Safari，Chrome，Firefox）（带有polyfill-0.4KB）
@@ -202,7 +202,7 @@ See [Time to Interactive (TTI)](#time-to-interactive-tti) .  WPT仍将TTI称为�
 
 ### Estimated Input Latency
 
- 估计的输入延迟是**在页面加载最繁忙的5s窗口内，应用对用户输入做出响应所花费的时间的估算值（以毫秒为单位）.  如果您的延迟时间超过50毫秒，则用户可能会认为您的应用比较落后. 
+ 估计输入延迟是**在页面加载最繁忙的5s窗口内，应用对用户输入做出响应所花费的时间的估算值（以毫秒为单位）.  如果您的延迟时间超过50毫秒，则用户可能会认为您的应用比较落后. 
 
 -实验室：灯塔
 -领域：不适用
@@ -215,7 +215,7 @@ See [Time to Interactive (TTI)](#time-to-interactive-tti) .  WPT仍将TTI称为�
 -实验室：灯塔
 -领域：不适用
 
-### Total Blocking Time
+### Total Blocking Time (TBT)
 
 -实验室：灯塔
 -领域：不适用
@@ -225,7 +225,7 @@ See [Time to Interactive (TTI)](#time-to-interactive-tti) .  WPT仍将TTI称为�
 
 ## Network metrics
 
- 网络计时字段数据可能会发现未优化的TLS设置，DNS查找缓慢或服务器端处理以及CDN配置问题.  另请参阅有关测量的单独部分 [transferred bytes](#transferred-bytes).
+ 网络定时字段数据可能会发现未优化的TLS设置，DNS查找缓慢或服务器端处理以及CDN配置问题.  另请参见有关测量的单独部分 [transferred bytes](#transferred-bytes).
 
 - [Blogpost - Navigation and Resource Timing](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
 - [Spec - Navigation Timing](https://www.w3.org/TR/navigation-timing-2/)
@@ -271,9 +271,9 @@ var ttfb = pageNav.responseStart-pageNav.requestStart;
 
 ### Transferred bytes
 
- 您可以使用多种工具来测量资产的字节权重.  通常，您只能跟踪这些实验室，因为字段中的编号通常是相同的（但要注意设备类型或地理位置特定的页面）.
+ 您可以使用多种工具来测量资产的字节权重.  通常，您只能跟踪这些实验室，因为字段中的数字通常是相同的（但要注意设备类型或地理位置特定的页面）.
 
-测量自己的（和第三方）JavaScript字节至关重要，因为JavaScript是导致高字节数的主要原因 [TTI](#time-to-interactive-tti) 要么 [FID](#first-input-delay-fid) 价值观.
+衡量自己（和第三方）JavaScript字节至关重要，因为JavaScript是导致Java字节数过高的主要原因 [TTI](#time-to-interactive-tti) 要么 [FID](#first-input-delay-fid) 价值观.
 
 -实验室：灯塔（预算），Sitespeed.io，自定义工具
 -字段：不适用-但数字通常与实验室相同
@@ -295,7 +295,7 @@ var ttfb = pageNav.responseStart-pageNav.requestStart;
 
 ### User Timing
 
- 使用用户计时API，开发人员可以创建特定于应用程序的时间戳，这些时间戳是浏览器性能时间表的一部分.  例如，您可以创建一个用户计时标记，以测量页面上特定组件的JS加载时间.
+ 用户计时API允许开发人员创建特定于应用程序的时间戳，这些时间戳是浏览器性能时间表的一部分.  例如，您可以创建一个用户计时标记，以测量页面上特定组件加载JS的时间.
 
 -实验室：WPT灯塔
 -领域：IE 10 +，Safari 11+（当然还有Chrome，Firefox）
@@ -303,17 +303,17 @@ var ttfb = pageNav.responseStart-pageNav.requestStart;
 
 ### Server Timing
 
-在用户浏览器或PerformanceServerTiming界面中的开发人员工具中显示任何后端服务器计时指标（例如，数据库延迟等）.
+在用户浏览器或PerformanceServerTiming界面的开发人员工具中显示任何后端服务器计时指标（例如，数据库延迟等）.
 
 - [Docs - Server Timing](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing)
 
 
 ### Frame rate
 
-  帧频是“浏览器可以显示帧的频率”.  一帧表示浏览器在一个事件循环迭代中所做的工作量，例如处理DOM事件，调整大小，滚动，渲染，CSS动画等.60fps（每秒帧数）的帧速率是一个好的目标.快速响应的用户体验.  这意味着浏览器应在大约16.7毫秒内处理一个帧.
+  帧频是“浏览器可以显示帧的频率”.  一帧表示浏览器在一个事件循环迭代中所做的工作量，例如处理DOM事件，调整大小，滚动，渲染，CSS动画等.60fps（每秒帧）的帧速率是实现良好效果的常见目标快速响应的用户体验.  这意味着浏览器应在大约16.7毫秒内处理一个帧.
 
 -实验室：Chrome和FF Devtools
--字段：还没有浏览器实现Frame Timing API，但是您可以使用`requestAnimationFrame`滚动自己的fps计量器
+-字段：尚无浏览器实现Frame Timing API，但您可以使用`requestAnimationFrame`滚动自己的fps计量器
 - [Docs - Frame Timing API](https://developer.mozilla.org/en-US/docs/Web/API/Frame_Timing_API)
 - [Docs - Chrome Devtools - FPS](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/#analyze_frames_per_second)
 - [Docs - Firefox Developer Tools - Frame rate](https://developer.mozilla.org/en-US/docs/Tools/Performance/Frame_rate)
@@ -329,4 +329,4 @@ var ttfb = pageNav.responseStart-pageNav.requestStart;
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，Csaba Palfi放弃了该作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内，Csaba Palfi放弃了此作品的所有版权以及相关或邻近的权利.
