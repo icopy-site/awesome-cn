@@ -21,7 +21,7 @@
 - [Official Documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) -GitHub Actions虚拟环境.
-  - [actions/runner](https://github.com/actions/runner) -GitHub Action的亚军.
+  - [actions/runner](https://github.com/actions/runner) -GitHub Action的跑步者.
 - [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
 ### Workflow Examples
@@ -36,7 +36,7 @@
 工作流程的工具动作.
 
 <!--lint ignore awesome-spell-check-->
-- [actions/github](https://github.com/actions/github) -将action-toolkit包装到Action中，以实现常见的GitHub自动化.
+- [actions/github](https://github.com/actions/github) -将action-toolkit包装为通用GitHub自动化的Action.
 - [actions/checkout](https://github.com/actions/checkout) -在工作流程上设置存储库.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) -从您的工作流程中上传工件.
 - [actions/download-artifact](https://github.com/actions/download-artifact) -从构建中下载工件.
@@ -45,7 +45,7 @@
 
 #### Actions for GitHub Automation
 
-自动管理问题，拉取请求和发布.
+自动化管理问题，拉取请求和发布.
 
 - [actions/create-release](https://github.com/actions/create-release) -通过GitHub Release API创建发布的动作.
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) -通过GitHub Release API上传发布资产的操作.
@@ -161,7 +161,7 @@
 - [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction)
 - [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
-- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后，对构建的Jekyll网站进行区分，并将结果注释回GitHub.
+- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后对构建的Jekyll网站进行区分，并将结果注释回GitHub.
 - [Branch Protection Bot](https://github.com/benjefferies/branch-protection-bot) -在分支机构保护中暂时禁用并重新启用“包括管理员”选项.
 - [Next SemVers](https://github.com/WyriHaximus/github-action-next-semvers) -根据给定的semver版本输出主要，次要和补丁版本的下一个版本.
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) -等待所有状态和检查成功或其中任何一个失败，然后相应地设置其状态输出.
@@ -178,7 +178,8 @@
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
 - [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) -在给定分支前缀和可选语义版本的情况下剪切发行分支.
-- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) -使用terraform-docs为terraform模块生成文档.
+- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) -使用terraform-docs生成terraform模块的文档.
+- [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) -根据给定的发行版类型，给定语义版本（SemVer）.
 
 ### Testing and Linting
 
@@ -202,6 +203,7 @@
 - [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)
 - [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
 - [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
+- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec) 
 - [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
 - [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
 - [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)
@@ -404,6 +406,11 @@
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
+
+### Build
+
+- [run-cmake](https://github.com/lukka/run-cmake) -使用以下平台构建C / C ++软件的多平台操作 [CMake](https://cmake.org) 和 [Ninja](https://ninja-build.org/).
+- [run-vcpkg](https://github.com/lukka/run-vcpkg) -使用以下命令构建和安装C / C ++依赖项的多平台操作 [vcpkg](https://github.com/microsoft/vcpkg).
 
 ## Tutorials
 

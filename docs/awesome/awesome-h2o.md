@@ -4,7 +4,7 @@
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://raw.githubusercontent.com/h2oai/h2o-3)
 
-以下是精选的所有令人敬畏的项目，应用程序，研究，教程，课程和书籍的清单 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供了许多有监督和无监督机器学习算法的并行实现，例如通用线性模型，梯度提升机（包括XGBoost），随机森林，深度神经网络（深度学习），堆叠式集成，朴素贝叶斯，Cox比例风险，K均值，PCA，Word2Vec以及全自动机器学习算法（AutoML）.
+以下是精选的所有出色项目，应用程序，研究，教程，课程和书籍的清单 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供许多有监督和无监督机器学习算法的并行实现，例如通用线性模型，梯度提升机（包括XGBoost），随机森林，深度神经网络（深度学习），堆叠式集成，朴素贝叶斯，考克斯比例风险，K均值，PCA，Word2Vec以及全自动机器学习算法（AutoML）.
 
 [H2O.ai](http://www.h2o.ai/about/) 产生很多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) 和 [videos](https://www.youtube.com/user/0xdata) 有关H2O的内容，但以下列表由更大的H2O用户社区产生的精彩内容组成.
 
@@ -14,6 +14,7 @@
 
 
 ## Blog Posts & Tutorials
+- [Parallel Grid Search in H2O ](https://www.pavel.cool/h2o-3/h2o-parallel-grid-search/) 2020年1月17日
 - [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) 2019年12月10日
 - [Artificial Intelligence Made Easy with H2O.ai: A Comprehensive Guide to Modeling with H2O.ai and AutoML in Python](https://towardsdatascience.com/artificial-intelligence-made-easy-187ecb90c299) 2019年6月12日
 - [Anomaly Detection With Isolation Forests Using H2O](https://dzone.com/articles/anomaly-detection-with-isolation-forests-using-h2o-1) 2018年12月3日
@@ -38,7 +39,7 @@
 
 - [Hands on Time Series with R](https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r)  拉米·克里斯平（Rami Krispin）.  （2019）
 - [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330)  Karthik Ramasubramanian，Abhishek Singh.  （2016年）
-- [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)  达伦·库克.  （2016年）
+- [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)  达伦·库克（Darren Cook）.  （2016年）
 - [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7)  托马斯·丁斯莫尔.  （2016年）
 - [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/)  布拉德利·埃夫隆（Bradley Efron），特雷弗·哈斯蒂（Trevor Hastie）.  （2016年）
 - [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials)  约书亚·威利（Joshua F.  （2016年）
@@ -47,10 +48,10 @@
 
 ## Research Papers
 
-- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.biorxiv.org/content/10.1101/792754v1) 史蒂文·N·哈特（Steven N.Hart），埃里克·C·波利（Eric C.
-- [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970)  费尔南多·伊塔诺（Fernando Itano），里卡多·皮雷斯（Ricardo Pires），米格尔·安吉洛·德·阿布鲁乌·德·索萨（Miguel Angelo de Abreu de Sousa），埃米利奥·德尔·莫拉·埃尔南德萨（Emilio Del-Moral-Hernandeza）.  （2019）
+- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.biorxiv.org/content/10.1101/792754v1) 史蒂文·N·哈特（Steven N.Hart），埃里克·C·波利（Eric C.Polley），埃米拉·希梅利斯（Hermella Shimelis），悉达多·亚达夫（Siddhartha Yadav），弗格斯·J·库奇（Fergus J.
+- [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970)  费尔南多·伊塔诺（Fernando Itano），里卡多·皮雷斯（Ricardo Pires），米格尔·安吉洛·德·阿布鲁乌·德·索萨（Miguel Angelo de Abreu de Sousa），埃米利奥·德尔·莫拉尔·埃尔南德萨（Emilio Del-Moral-Hernandeza）.  （2019）
 - [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)   费尔南多·伊塔诺（Fernando Itano），米格尔·安杰洛·德·阿布鲁乌·德·索萨（Emirio Del-Moral-Hernandez）.  （2018）
-- [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B.Auffenberg，Khurshid R.Ghani，Shreyas Ramani，Etiowo Usoro，Brian Denton，Craig Rogers，Benjamin Stockton，David C.Miller，Karandeep Singh.  （2018）
+- [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B.Auffenberg，Khurshid R.Ghani，Shreyas Ramani，礼宾，Brian Denton，Craig Rogers，Benjamin Stockton，David C.Miller，Karandeep Singh.  （2018）
 - [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato，Christophe Dutang和Leonardo Petrini.  （2018）
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940)  Yuriy Kochura，Sergii Stirenko，Yuri Gordienko.  （2017）
 - [Algorithmic trading using deep neural networks on high frequency data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14)  AndrésArévalo，JaimeNiño，德国人Hernandez，Javier Sandoval，DiegoLeón，ArbeyAragón.  （2017）
@@ -62,22 +63,22 @@
 - [Use of a machine learning framework to predict substance use disorder treatment success](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable)  劳拉·阿西翁（Laura Acion），戴安娜·凯尔曼斯基（Diana Kelmansky），马克·范德兰（Mark van der Laan），伊桑·萨克（Ethan Sahker），德肖纳·琼斯（DeShauna Jones），斯蒂芬·阿恩德（Stephan Arnd）.  （2017）
 - [Ultra-wideband antenna-induced error prediction using deep learning on channel response data](https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf)  Janis Tiemann，Johannes Pillmann，Christian Wietfeld.  （2017）
 - [Inferring passenger types from commuter eigentravel matrices](http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20)  埃里卡·菲尔（Erika Fille T.  （2017）
-- [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657)  克里斯托弗·克劳斯（Christopher Krauss），宣安·杜（Anna），尼古拉斯·赫克（Nicolas Huckb）.  （2016年）
+- [Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500](http://www.sciencedirect.com/science/article/pii/S0377221716308657)  克里斯托弗·克劳斯（Christopher Krauss），宣安·杜（Anna Xuan Anh），尼古拉斯·赫克（Nicolas Huckb）.  （2016）
 - [Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)  西尔维奥·多明戈斯（Silvio L.Domingos），隆美尔·卡瓦略（Ronmel N.Carvalho），里卡多·卡瓦略（Ricardo S.  （2016年）
 - [Predicting recovery of credit operations on a Brazilian bank](http://ieeexplore.ieee.org/abstract/document/7838243/)  RogérioG. Lopes，Rommel N. Carvalho，Marcelo Ladeira，Ricardo S. Carvalho.  （2016年）
 - [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)  Ebberth L. Paula，Marcelo Ladeira，Rommel N. Carvalho，ThiagoMarzagão.  （2016年）
 - [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490)  Konstantinos N.Vougas，Thomas Jackson，Alexander Polyzos，Michael Liontos，Elizabeth O.Johnson，Vassilis Georgoulias，Paul Townsend，Jiri Bartek，Vassilis G.Gorgoulis.  （2016年）
-- [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)  斯特凡妮·佛罗伦萨·维瑟（StéphanieFlorence Visser）.  （2016）
+- [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)  斯蒂芬妮·佛罗伦萨·维瑟（StéphanieFlorence Visser）.  （2016）
 - [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)  斯坦尼斯瓦夫·格鲁什奇津斯克（KrzysztofUrbański）.  （2016）
 - [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf)  艾琳·莱戴尔（Erin LeDell）.  （2015年）
 - [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1)  罗杰里奥·诺曼德（Rogerio Normand），雨果·亚历山大·费雷拉（Hugo Alexandre Ferreira）.  （2015年）
-- [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis)  吉尔斯·卢佩（Gilles Louppe）.  （2014）
+- [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis)  吉尔斯·洛佩（Gilles Louppe）.  （2014）
 
 ## Benchmarks
 
 - [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/)  -分类编码方案的基准及其对基于树的模型的影响（Scikit学习与H2O）.  2016年10月28日
-- [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) -2016年3月7日，R开源深度学习软件包的基准测试
-- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml)  -通用开源ML框架中的随机森林，GBM，深度学习和GLM实施基准.  2015年7月3日
+- [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) -2016年3月7日，开源深度学习软件包的基准测试
+- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml)  -通用开放源代码ML框架中的随机森林，GBM，深度学习和GLM实施基准.  2015年7月3日
 
 ## Presentations
 
@@ -86,6 +87,7 @@
 
 ## Courses
 
+- [University of San Francisco (USF) Distributed Data System Class (MSDS 697)](https://github.com/dianewoodbridge/2020-msds697-example) -数据科学计划理学硕士.
 - [University of Oslo: Introduction to Automatic and Scalable Machine Learning with H2O and R](https://www.ub.uio.no/english/courses-events/events/all-libraries/2019/research-bazaar-2019.html) -研究市场2019
 - [UCLA: Tools in Data Science (STATS 418)](https://github.com/szilard/teach-data-science-UCLA-master-appl-stats) -应用统计硕士.
 - [GWU: Data Mining (Decision Sciences 6279)](https://github.com/jphall663/GWU_data_mining) -商业分析理学硕士.

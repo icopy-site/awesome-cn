@@ -8,20 +8,18 @@
 >
 &gt;-路德维希·维特根斯坦. [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) （Harper＆Brothers，纽约，1961年）.
 
-
-
-
-
-## Foreword
-
 *虚假*文章是对特定主题的评论形式，
 受到开发者社区的广泛赞赏，因为它们的有效性和
  简洁.  它们是处理不熟悉领域的便捷书面形式
-by dispelling myths, point out common pitfalls, show inconsistencies and
+通过消除神话，指出常见的陷阱，表现出矛盾和
 subtleties.
 
 从某种意义上说，“虚假”文章是一整套冗长的单元测试，涵盖了
 实际使用情况提供了广泛的优势.
+
+
+
+
 
 ## Meta
 
@@ -30,7 +28,7 @@ subtleties.
 虚假的世界.
 - [Falsehoods About Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - 一种
 关于编程和程序员本身的谦卑和有趣的清单.
-- [Falsehoods About Falsehoods Lists](https://kevin.deldycke.com/2016/12/falsehoods-programmers-believe-about-falsehoods-lists/) -元
+- [Falsehoods About Falsehoods Lists](https://github.com/kdeldycke/kevin-deldycke-blog/blob/master/content/posts/falsehoods-programmers-believe-about-falsehoods-lists.md) -元
 关于如何处理这些谬论的评论.
 
 
@@ -135,7 +133,7 @@ RFC-822.
 上面文章的重访版本，这次有详细说明.
 -有关性别的谬论： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别
 是人类身份的一部分，具有自己的微妙之处.
-- [Gay Marriage: The Database Engineering Perspective](https://qntm.org/gay) - 怎么样
+- [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) - 怎么样
 将婚姻存储在数据库中，同时解决大多数关于
 性别，命名和人际关系.
 - [Falsehoods Programmers Believe About Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) - You
@@ -154,22 +152,39 @@ RFC-822.
 - [Apple iOS `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) -本地化
 人名组成部分的表示形式.
 - [Falsehoods About Me](https://skylarmacdonald.com/falsehoods/) -的问题
-名称与性别和国际化的交集.
+名称和性别与国际化的交集.
 
 
 ## Internationalization
 
+关于字符编码，字符串格式，unicode和国际化.
+
 - [Falsehoods About Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) -翻译
 用英语编写的软件并不像看起来那样简单.
-- [i18n Testing Data](https://github.com/patch/i18n-testing) -实词
-国际和多样化的名称数据，用于单元测试和质量检查.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - 一种
-有关国际化代码时需要牢记的事情的视频.
-- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) -人物
-编码不一定令人困惑，但是有助于基本
-knowledge.
+有关国际化您需要记住的事情的视频
+code.
+- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 一种
+很好地介绍了unicode，其历史背景和起源，其次是
+对其内部工作的概述.
+- [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) -精选清单
+令人愉悦的Unicode花絮，软件包和资源.
+- [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) -Unicode
+广泛，这里是龙.
+- [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) -潜水
+更深入的Unicode，消除了有关代码点的神话.
+- [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) -大多数
+程序员花大量时间在Latin-1上，他们忘记了其他人的脚本
+quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) -人物
-编码很难.
+编码很困难，尤其是当每个破碎的数据输入层添加自己的编码时
+spice.
+- [i18n Testing Data](https://github.com/patch/i18n-testing) -汇编
+用于单元测试和质量检查的实词国际和多种名称数据.
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - 一种
+巨大的弦集，当
+ 用作用户输入数据.  必须具备一组实用的边际案例来测试您
+软件反对.
 
 
 ## Management
@@ -226,7 +241,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 正则表达式和街道地址不要混用.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) -Google
 通用的C ++和Java库，用于解析，格式化和验证
-国际邮政地址.
+international postal addresses.
 - [`addressing`](https://github.com/commerceguys/addressing) -PHP 5.4以上
 地址库，由Google的数据集提供支持.
 - [`postal-address`](https://github.com/scaleway/postal-address) -Python
@@ -235,7 +250,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 并使用Google的数据集格式化地址.
 
 
-### Science
+## Science
 
 - [Falsehoods About Systems of Measurement](https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html) - 上
 使用测量系统并在它们之间进行转换.
@@ -266,10 +281,8 @@ RFC4180存在，它远非定论，而在很大程度上被忽略.
 包及其经理.
 - [Falsehoods About Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) -一个
 尝试建立有关测试的虚假列表.
-- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) -挑战
-您对字符串的假设.
 - [Popular misconceptions about mtime](https://apenwarr.ca/log/20181113) -部分
-为什么文件mtime比较可能被认为有害的帖子.
+为什么文件的“ mtime”比较可能被认为有害的帖子.
 - [Falsehoods About Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) -为什么
 您的分页算法使某人（可能是您）头疼.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) -不
@@ -280,7 +293,7 @@ autocompletion.
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) -为什么
 搜索（包括分析，标记化，突出显示）看似复杂.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) -这个话题
-可能在用户名（和其他标识符）中被称为虚假名称.
+可能被命名为“关于用户名（和其他标识符）的虚假信息”.
 - [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom) - 那里
 关于/ dev / urandom和/ dev / random的一些事情会再次重复
  再次.  他们仍然是错误的.
@@ -294,7 +307,7 @@ autocompletion.
 - [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) -假设
 有关网络和桌面应用程序中的排版的信息.
 - [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - 一种
-关于案件主题（与大写字母一样），完全是伪造的格式的反面
+完全相反的虚假格式，以大小写为主题（如大写）
 和小写文字）.
 
 

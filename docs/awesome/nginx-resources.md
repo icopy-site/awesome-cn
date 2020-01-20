@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-涵盖Nginx，Nginx + Lua，OpenResty和Tengine的资源集合.
+资源集合，涵盖Nginx，Nginx + Lua，OpenResty和Tengine.
 
-此列表由以下人员维护 [Frederic Cambus](https://www.cambus.net) .  如需更新，请在Twitter上关注我： [@fcambus](https://twitter.com/fcambus)
+该列表由维护 [Frederic Cambus](https://www.cambus.net) .  有关更新，请在Twitter上关注我： [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -126,6 +126,7 @@
 
 ## Talks
 
+- [NGINX Conference 2019 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXflDvBv642YFqT0UTqQGFsH)
 - [NGINX Conference 2018 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXe_Vc708VKvr5KJ4gnf1WxS)
 - [NGINX Conference 2017 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXeT-z_rcZ9yF0kV5SENZ-yt)
 - [NGINX Conference 2016 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXcOsB_dT26iu0BvbSxWYG1g)
@@ -138,4 +139,4 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Frederic Cambus](https://www.cambus.net) 放弃了此作品的所有版权以及相关或邻近的权利.
