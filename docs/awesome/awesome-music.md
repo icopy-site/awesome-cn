@@ -30,7 +30,7 @@
 ## Audio Tools
 
 * [Beets](http://beets.io/) -强大的命令行音乐组织器和操纵器.
-* [cyanrip](https://github.com/atomnuker/cyanrip)  -用最少的工作就可以翻录和编码标准音频CD.  跨平台.
+* [cyanrip](https://github.com/atomnuker/cyanrip)  -以最小的工作量翻录和编码标准音频CD.  跨平台.
 * [fre:ac](https://github.com/enzo1982/freac)  -免费的音频转换器.  它支持音频CD翻录和标签编辑.
 * [Jack](https://github.com/jack-cli-cd-ripper/jack) -命令行CD开膛手.
 * [K3b](https://github.com/KDE/k3b) -是功能齐全的CD / DVD /蓝光刻录和翻录应用程序.
@@ -48,8 +48,8 @@
 ## Free Music Scores
 
 * [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) -用lilypond排版的音乐集合（主要是室内音乐和大提琴音乐）.
-* [ciconia/music](https://github.com/ciconia/music) -大部分巴洛克音乐的集合，还有JS Bach的许多神圣作品，均以lilypond / ripple编码.
-* [CPDL](http://www.cpdl.org/) -合唱公共领域图书馆包含超过20K的免费声乐乐谱.
+* [ciconia/music](https://github.com/ciconia/music) -大部分是巴洛克音乐，还有JS Bach的许多神圣作品，都以lilypond / ripple编码.
+* [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
 * [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) -巴洛克式的乐谱（主要是法国音乐），使用lilypond排版.
 * [IMSLP](http://imslp.org/) -国际音乐乐谱库项目是网络上最大的公共领域乐谱和曲目集合.
 * [Mutopia](https://github.com/MutopiaProject/MutopiaProject) -基于公共领域版本的乐谱.
@@ -68,7 +68,7 @@
 * [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) -不同音乐字体的列表和视觉比较.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) -免费的Lilypond乐谱编辑器.
 * [Guido](http://guidolib.sourceforge.net/) -通用的便携式库和API，用于乐谱的图形呈现.
-* [Hacklily](https://www.hacklily.org) -基于LilyPond的在线活页乐谱编辑器（具有可选的GitHub集成）.
+* [Hacklily](https://www.hacklily.org) -基于LilyPond的在线乐谱编辑器（具有可选的GitHub集成）.
 * [i-score](http://www.i-score.org) -具有DAW功能的交互式音乐注释软件.
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) -免费，开源，基于浏览器的音乐符号和作曲软件.
 * [LibMEI](https://github.com/DDMAL/libmei) -用于读取和写入MEI文件的C ++库.
@@ -76,15 +76,15 @@
 * [Lilypond](http://lilypond.org/) -免费的开源音乐雕刻程序，致力于产生最高质量的乐谱.
 * [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) -充分利用lilypond的提示和技巧.
 * [Lilypond Snippet Repository](http://lsr.di.unimi.it/) -Lilypond片段的想法，功能和技巧的在线数据库.
-* [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
+* [Lilyvm](https://github.com/olsonpm/lilyvm) -Lilypond版本管理器.
 * [Lydown](https://github.com/ciconia/lydown) -基于Lilypond的现代音乐记谱语言.
 * [Lyp](https://github.com/noteflakes/lyp) -Lilypond瑞士军刀-轻松安装软件包，管理Lilypond的多个版本以及面向高级用户的其他工具.
 * [MuseScore](https://github.com/musescore/MuseScore) -免费的开源音乐符号和作曲软件.
-* [MusicKit](https://github.com/venturemedia/musickit) -用于iOS和OSX的音乐表渲染.
+* [MusicKit](https://github.com/venturemedia/musickit) -适用于iOS和OSX的音乐表渲染.
 * [NOTATIO](http://notat.io/) -致力于音乐符号练习的论坛.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) -LilyPond工具-片段，模板和扩展名.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) -用于处理LilyPond文件的工具和库.
-* [Ripple](https://github.com/ciconia/ripple/) -Dry for Lilypond-产生分数和分数的要求很小.
+* [Ripple](https://github.com/ciconia/ripple/) -Lilypond的DRY-产生分数和分数的要求很少.
 * [Scorelib](http://scorelib.sapp.org/) -用于解析SCORE数据文件的C ++库.
 * [Tbon](https://github.com/Michael-F-Ellis/tbon) -面向音乐的印刷节拍导向符号.
 * [Tunefl](https://github.com/tiredpixel/tunefl) -LilyPond迷你乐谱雕刻和音乐分享服务.
@@ -103,6 +103,7 @@
 * [IanniX](https://github.com/iannix/IanniX) -基于Iannis Xenakis作品的图形化开源音序器，用于数字艺术.
 * [Inscore](http://inscore.sourceforge.net/) -用于设计互动式，增值音乐乐谱的环境.
 * [Leipzig](https://github.com/ctford/leipzig) -泛音合成库.
+* [Midica](https://github.com/truj/midica) -带有反编译器和播放器的MIDI编程语言，支持卡拉OK.
 * [music21](http://web.mit.edu/music21/) -计算音乐学工具包.
 * [Music Suite](http://music-suite.github.io/docs/ref/) -一种基于Haskell的用于广义音乐符号和理论的语言.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) -声音合成和合成语言.
@@ -111,7 +112,7 @@
 * [Overtone](https://github.com/overtone/overtone/) -一个开放源代码工具包，用于设计合成器并与音乐协作.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) -用Lua编写的开源音乐生成框架.
 * [Pure Data](http://puredata.info/) -用于音频和其他多媒体的可视编程语言.
-* [Sonic Pi](http://sonic-pi.net/) -现场编码合成器，着重于教育用途.
+* [Sonic Pi](http://sonic-pi.net/) -现场编码合成器，强调教育用途.
 * [Sporth](https://github.com/PaulBatchelor/Sporth) -基于小型堆栈的音频语言.
 * [SuperCollider](http://supercollider.github.io/) -用于实时音频合成和算法合成的编程语言.
 * [Tidal](http://tidal.lurk.org/) -一种基于Haskell的实时编码模式的语言.

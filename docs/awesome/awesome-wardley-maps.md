@@ -4,7 +4,7 @@
 
 > [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map)  是一项可帮助您检查环境，识别即将发生的变化并正确选择操作的技术.  通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建世界的视觉表示，玩假设游戏，并选择支持的最佳方向和最佳措施.
 
- 这是有用的Wardley映射资源的列表.  欢迎捐款！  阅读 [contribution guidelines](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/contributing.md) 第一.
+ 这是有用的Wardley映射资源的列表.  短网址：**[list.wardleymaps.com](http://list.wardleymaps.com) **.  欢迎捐款！ [Contribution guidelines](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/contributing.md) 用于将某些东西添加到列表中. 
 
 
 
@@ -83,9 +83,9 @@
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) -动画指导和开源Wardley地图图标集合.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -Simon Wardley的书中的图8和图11，展示了在LaTeX中绘制Wardley Maps的过程.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
-- [RealtimeBoard (Miro) Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的操作指南.
+- [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的方法指南.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -Wardley yYd的调色板.
 
 ### Doctrine Assessement
@@ -98,7 +98,7 @@
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2)  -开源映射工具.  提供托管版本 [here](https://atlas2.wardleymaps.com/).
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具.  提供托管版本 [here](https://onlinewardleymaps.com/).
-- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) -⚠️可观察 [Terms of Service](https://observablehq.com/terms-of-service), #3. MapScript [feature requests](https://mapscript.canny.io/feature-requests) .  提供托管版本 [here](https://mapscript.org).
+- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) -⚠️可观察 [Terms of Service](https://observablehq.com/terms-of-service) .  MapScript [feature requests](https://mapscript.canny.io/feature-requests) .  提供托管版本 [here](https://mapscript.org).
 
 ### Doctrine Assessement
 
@@ -107,6 +107,11 @@
 ## Events
 
 - [Map Camp](https://www.map-camp.com/) -在跟随Map Camp [Twitter](https://twitter.com/map_camp) 和 [LinkedIn](https://www.linkedin.com/company/map-camp/).
+  -  [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) -在InfoQ上的视频演示.
+
+## Workshops
+
+- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) -车间规则，卡片和材料.
 
 ## Meetups
 
@@ -126,10 +131,6 @@
 -美国
   -加利福尼亚
     - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
-  
-## Workshops
-
-- [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) -车间规则，卡片和材料.
 
 ## License
 

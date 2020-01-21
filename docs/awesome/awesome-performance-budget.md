@@ -31,13 +31,13 @@
 ## Build Tools to set up performance budget
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) -检查包的大小.
-- [Using Webpack](https://webpack.js.org/configuration/performance/) -如果您在项目中使用Webpack，则可以选择此选项.
+- [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) -如果您在项目中使用Webpack，则可以选择此选项.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) -用于性能预算的艰巨任务.
 - [Size-plugin](https://github.com/GoogleChromeLabs/size-plugin) -用于性能预算的艰巨任务.
 - [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小.
 - [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小. 
 - [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) -CLI工具和lib以通过Lighthouse收集性能指标.
-- [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) -扩展，以在VS代码编辑器中内联显示导入包的大小.
+- [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) -扩展以在VS代码编辑器中内联显示导入包的大小.
 
 ## Bundle Analyzers
 
@@ -46,10 +46,11 @@
 - [Disc](http://hughsk.io/disc/) -可视化浏览器项目捆绑包的模块树并追踪膨胀. 
 - [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) -分析和可视化由Lasso创建的项目包.
 - [rollup-plugin-analyzer](http://rollup-plugin-analyzer.doesdev.com/) -有关您的汇总捆绑包的指标，请使用此工具潜入您的捆绑包.
+- [CSS Analyzer](https://github.com/macbre/analyze-css) -CSS选择器的复杂性和性能分析器.
 
 ## Videos
 
-- [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) -与蒂姆·卡德莱克（Tim Kadlec）共同制定的绩效预算.
+- [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) -与Tim Kadlec共同制定的绩效预算.
 - [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) -如何实施效果预算以避免回退-Google Chrome开发者.
 
 ## Case Studies
@@ -57,7 +58,7 @@
 - [Zillow's Performance Budget](https://www.zillow.com/engineering/bigger-faster-more-engaging-budget/) -关于Zillow如何使用绩效预算的真实故事.
 - [Tinder Web App Performance](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0/) -Tinder渐进式Web应用程序性能案例研究.
 - [Pinterest Web App Optimization](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154/) -Pinterest渐进式Web应用性能案例研究.
-- [Casper.com Self-hosting Optimization](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec) -我们如何通过自托管Optimizely将casper.com缩短1.7秒.
+- [Casper.com Self-hosting Optimization](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec) -如何通过自托管Optimizely将casper.com缩短1.7秒.
 - [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) -在构建响应式网站时进行了优化.
 - [Treebo PWA Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299/) -Treebo-React and Preact PWA性能案例研究.
 - [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) -大规模的Twitter Lite Web App.

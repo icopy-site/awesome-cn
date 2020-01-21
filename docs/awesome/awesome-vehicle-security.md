@@ -22,7 +22,7 @@
 ## Articles
 
 - [How to hack a car — a quick crash-course](https://medium.freecodecamp.org/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec)  -汽车爱好者肯尼·库切拉（Kenny Kuchera）演示了足够的信息来帮助您入门和运行.  初学者的绝佳资源！
-- [Stopping a Jeep Cherokee on the Highway Remotely](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/) -克里斯·瓦拉塞克（Chris Valasek）和查理·米勒（Charlie Miller）关于黑客入侵吉普车的关键研究报告于2015年在DEFCON上发表.
+- [Stopping a Jeep Cherokee on the Highway Remotely](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/) -克里斯·瓦拉塞克（Chris Valasek）和查理·米勒（Charlie Miller）在2015年DEFCON上发表了关于入侵吉普车的关键研究.
 - [Troy Hunt on Controlling Nissans](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/) -Troy Hunt开始控制日产汽车.
 - [Tesla hackers explain how they did it at Defcon](http://www.cnet.com/roadshow/news/tesla-hackers-explain-how-they-did-it-at-def-con-23/) -有关入侵特斯拉汽车的DEFCON 23演示的概述.
 - [Anatomy of the Rolljam Wireless Car Hack](http://makezine.com/2015/08/11/anatomy-of-the-rolljam-wireless-car-hack/) -RollJam滚动代码开发设备的概述.
@@ -30,32 +30,33 @@
 - [Developments in Car Hacking](https://www.sans.org/reading-room/whitepapers/ICS/developments-car-hacking-36607) -通过SANS阅览室，Currie的论文分析了智能汽车技术的风险和危险.
 - [Car Hacking on the Cheap](http://www.ioactive.com/pdfs/IOActive_Car_Hacking_Poories.pdf) -克里斯·瓦拉塞克（Chris Valasek）和IOActive撰写的白皮书，当您没有足够的资源可供使用时，会入侵您的汽车.
 - [Car Hacking: The definitive source](http://illmatics.com/carhacking.html) -查理·米勒（Charlie Miller）和克里斯·瓦拉塞克（Chris Valasek）免费为所有人发布所有工具，数据，研究笔记和论文
-- [Car Hacking on the cheap](https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) -克雷格·史密斯（Craig Smith）撰写了一篇有关使用ELM327蓝牙加密狗与Metasploit的HWBrige一起工作的简短文章
-- [Researchers tackle autonomous vehicle security](https://phys.org/news/2017-05-tackle-autonomous-vehicle.html) -德克萨斯A＆M研究人员开发了情报系统原型.
+- [Car Hacking on the cheap](https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) -克雷格·史密斯（Craig Smith）撰写了一篇简短的文章，介绍如何使用ELM327蓝牙加密狗与Metasploit的HWBrige配合使用
+- [Researchers tackle autonomous vehicle security](https://phys.org/news/2017-05-tackle-autonomous-vehicle.html) -德州农工大学的研究人员开发了情报系统原型.
 - [How big data will impact car security in the proximate future: Concerns and solutions](http://bigdata-madesimple.com/big-data-will-impact-car-security-proximate-future-concerns-solutions/) -大数据对汽车安全的影响.
 - [Reverse engineering of the Nitro OBD2](https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html) -CAN诊断工具的逆向工程.
 - [Analysis of an old Subaru Impreza - Subaru Select Monitor v1 (SSM1)](https://p1kachu.pluggi.fr/project/automotive/2018/12/28/subaru-ssm1/) -通过旧协议进入旧ECU，并禁用1997年的Subaru Impreza的速度限制器.
+- [Car Hacking in 30 Minutes or Less](https://brysonpayne.com/2018/10/20/start-car-hacking-in-30-minutes-or-less/) -使用VirtualBox和Kali Linux，您可以使用完全免费的开源软件和工具（包括can-utils，ICSim，ScanTool，Wireshark和tcpdump）来开始汽车黑客活动
 
 ## Presentations
 
 - ["Hopping on the CAN Bus" from BlackHat Asia 2015](https://www.blackhat.com/asia-15/briefings.html#hopping-on-the-can-bus) -BlackHat Asia 2015的演讲旨在使听众“了解汽车系统，但也拥有攻击它们的工具”.
 - ["Drive It Like You Hacked It" from DEFCON 23](https://samy.pl/defcon2015/) -Samy Kamkar的DEFCON 23/2015演讲中的一个演讲和幻灯片，包括黑客入侵车库，利用汽车移动应用程序以及使用低成本工具破解滚动代码以解锁任何车辆.
-- [Samy Kamkar on Hacking Vehicles with OnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be) -MySpace上的Samy蠕虫背后的多产黑客Samy Kamkar，探索使用OnStar系统入侵车辆.
-- [Remote Exploitation of an Unaltered Passenger Vehicle](https://www.youtube.com/watch?v=OobLb1McxnI) -DEFCON 23对话Chris Valasek和Charlie Miller发表了他们现在著名的演讲，内容是远程入侵Jeep并阻止其死在轨道上.
-- [Adventures in Automotive Networks and Control Units](https://www.youtube.com/watch?v=n70hIu9lcYo) Chris Valasek和Charlie Miller在汽车网络上的DEFCON 21演讲.
+- [Samy Kamkar on Hacking Vehicles with OnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be) -MySpace上的Samy蠕虫背后的多产黑客Samy Kamkar探索使用OnStar系统入侵车辆.
+- [Remote Exploitation of an Unaltered Passenger Vehicle](https://www.youtube.com/watch?v=OobLb1McxnI) -DEFCON 23谈话Chris Valasek和Charlie Miller发表了他们现在著名的谈话，内容是远程侵入吉普车并阻止其死在车道上.
+- [Adventures in Automotive Networks and Control Units](https://www.youtube.com/watch?v=n70hIu9lcYo) -Chris Valasek和Charlie Miller在汽车网络上的DEFCON 21演讲.
 - [Can You Trust Autonomous Vehicles?](https://www.youtube.com/watch?v=orWqKWvIW_0) - DEFCON 24 talk by Jianhao Liu, Chen Yan, Wenyuan Xu
 - [A Platform base on Visualization for Protecting CAN Bus Security](https://www.syscan360.org/slides/2016_SH_Jianhao_Liu_A_platform_base_on_visualization_for_protecting_CAN_bus_security.pdf) -刘建豪的Syscan360 2016 SH演讲
 - [Gateway Internals of Tesla Motors](https://2016.zeronights.ru/wp-content/uploads/2016/12/Gateway_Internals_of_Tesla_Motors_v6.pdf) -Nie Seng和Liu Ling的《零夜2016》演讲
 - [Car Hacking 101](https://www.youtube.com/watch?v=P-mzo2X47sg) -Alan Mond撰写的Bugcrowd LevelUp 2017
-- [State of Automotive Cyber Safety, 2015](https://www.youtube.com/watch?v=g-a20ORka-A) -2015年BSides拉斯维加斯的I Am The Cavalry赛道上的汽车黑客入侵，政策，行业变化等状况.
+- [State of Automotive Cyber Safety, 2015](https://www.youtube.com/watch?v=g-a20ORka-A) -2015年BSides拉斯维加斯的《我是骑兵》专题报道的汽车黑客行为，政策，行业变化等状况.
 - [State of Automotive Cyber Safety, 2016](https://www.youtube.com/watch?v=WcObDVy2-1I) -2016年BSides拉斯维加斯的I Am The Cavalry赛道上的汽车黑客入侵，政策，行业变化等状况.
 - [How to Hack a Tesla Model S](https://www.youtube.com/watch?v=KX_0c9R4Fng)  -马克·罗杰斯（Marc Rogers）和凯文·马哈菲（Kevin Mahaffey）关于入侵特斯拉的DEF CON 23谈话.  特斯拉联合创始人兼首席技术官JB Straubel与他们一起感谢他们并提出了挑战硬币.
-- [Car Hacking Videos](http://tekeye.uk/automotive/cyber-security/car-hacking-videos)  -一个网页，其中包含一长串可与汽车黑客相关的在线视频（超过40个）.  从2007年DEF CON演讲开始，涉及改装引擎ECUS（例如2017年Keen Security Tesla黑客事件）.
-- [Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers](https://www.youtube.com/watch?v=C29UGFsIWVI)  -乔纳森·皮蒂（Jonathan Petit）的黑帽演讲.  自动化和互联车辆是交通领域的下一步发展，将提高安全性，交通效率和驾驶体验.  演讲分为两个部分：1）自动驾驶汽车的安全性； 2）联网汽车的隐私性.  2015年
+- [Car Hacking Videos](http://tekeye.uk/automotive/cyber-security/car-hacking-videos)  -一个网页，其中包含与汽车骇客相关的可在线观看的大量视频（超过40个）.  从2007年DEF CON演讲开始，涉及改装引擎ECUS（例如2017年Keen Security Tesla黑客事件）.
+- [Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers](https://www.youtube.com/watch?v=C29UGFsIWVI)  -乔纳森·佩蒂（Jonathan Petit）的黑帽谈话.  自动和互联车辆是交通领域的下一步发展，将改善安全性，交通效率和驾驶体验.  本次演讲分为两个部分：1）自动驾驶汽车的安全性； 2）联网汽车的隐私性.  2015年
 - [A Survey of Remote Automotive Attack Surfaces](https://www.youtube.com/watch?v=MAGacjNw0Sw)  -查理·米勒（Charlie Miller）和克里斯·瓦拉塞克（Chris Valasek）的黑帽谈话.  汽车安全问题已经从边缘发展到主流，安全研究人员表明现代汽车容易受到本地和远程攻击.  讨论车辆攻击面.  2014.
 - [Pentesting vehicles with YACHT (Yet Another Car Hacking Tool)](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf) -演示车辆的不同攻击面的演示文稿，然后继续描述汽车黑客入侵的方法以及分析和收集有用信息所需的工具.
 - [How to drift with any car](https://www.youtube.com/watch?v=KU7gl1n1tIs) -CAN骇客简介，以及将真实的汽车用作Xbox控制器.
-- [Car Infotainment Hacking Methodology and Attack Surface Scenario](https://www.youtube.com/watch?v=F0mYkI2FJ_4) -杰伊·图拉（Jay Turla）撰写的有关如何攻击，狩猎错误或入侵IVI的指南，该指南在DEF CON 26期间在Packet Hacking Village / Wall of Sheep中发表.
+- [Car Infotainment Hacking Methodology and Attack Surface Scenario](https://www.youtube.com/watch?v=F0mYkI2FJ_4) -杰伊·图拉（Jay Turla）撰写的有关如何攻击，狩猎错误或入侵IVI的指南，该指南在DEF CON 26期间在Packet Hacking村/ Wall of Sheep中发表.
 
 ## Books
 
@@ -63,8 +64,8 @@
 - [2016 Car Hacker's Handbook](https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032)  -最新版的《汽车黑客手册》，其中包含更新的信息，可破解您自己的车辆并学习车辆安全性.  要获取本书的物理副本以及无限制的PDF，MOBI和EPUB副本，请在以下位置购买 [No Starch Press](https://www.nostarch.com/carhacking) .  部分可在线获得 [here](https://books.google.com/books?id=Ao_QCwAAQBAJ&lpg=PP1&dq=car%20hacking&pg=PP1#v=onepage&q&f=false).
 - [A Comprehensible Guide to Controller Area Network](https://www.amazon.com/Comprehensible-Guide-Controller-Area-Network/dp/0976511606/ref=pd_sim_14_1?ie=UTF8&dpID=41-D9UhlE9L&dpSrc=sims&preST=_AC_UL160_SR124%2C160_&psc=1&refRID=3FH8N10610H0RX8SMB6K) -2005年的旧书，但仍然是有关CAN总线和车辆联网的综合指南.
 - [智能汽车安全攻防大揭秘](https://www.amazon.cn/dp/B075QZXY7W) 本书首先介绍了汽车研发人员的一些安全基础知识，例如加密和解密，安全认证，数字签名，常见的攻击类型和方法.  然后，它为安全研究人员介绍了一些智能汽车的工作原理，例如汽车内部网.  协议，网络体系结构，X-By-Wire远程控制系统的原理，常见的潜在攻击面等.最后，对一些实际的汽车攻击或安全测试案例进行详细分析，并对在此期间涉及该案例的漏洞进行防御分析分析过程.
-- [Controller Area Network Prototyping with Arduino](https://www.amazon.com/Controller-Area-Network-Prototyping-Arduino/dp/1938581164/ref=pd_sim_14_2?ie=UTF8&dpID=51J27ZEcl9L&dpSrc=sims&preST=_AC_UL160_SR123%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) -本书指导您在Arduinos上制作CAN应用程序原型，在您自己的汽车上使用CAN时可以提供帮助.
-- [Embedded Networking with CAN and CANopen](https://www.amazon.com/Embedded-Networking-CANopen-Olaf-Pfeiffer/dp/0929392787/ref=pd_sim_14_37?ie=UTF8&dpID=41UnLKYFpmL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) -从2003年开始，这本书填补了CAN文献中的空白，并将进一步教育您有关CAN网络和嵌入式系统的知识.
+- [Controller Area Network Prototyping with Arduino](https://www.amazon.com/Controller-Area-Network-Prototyping-Arduino/dp/1938581164/ref=pd_sim_14_2?ie=UTF8&dpID=51J27ZEcl9L&dpSrc=sims&preST=_AC_UL160_SR123%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) -本书将指导您完成在Arduinos上的CAN应用原型设计，这在您自己的汽车上使用CAN时会有所帮助.
+- [Embedded Networking with CAN and CANopen](https://www.amazon.com/Embedded-Networking-CANopen-Olaf-Pfeiffer/dp/0929392787/ref=pd_sim_14_37?ie=UTF8&dpID=41UnLKYFpmL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) -从2003年开始，这本书填补了CAN文献中的空白，并将进一步教育您有关CAN网络和嵌入式系统的工作.
 - [Inside Radio: An Attack and Defense Guide](https://unicorn.360.com/blog/2018/01/29/Inside_Radio_An_Attack_and_Defense_Guide)本书讨论了各种无线设备和系统中的安全性问题，第4章433 / 315MHz通信（4.3 4.4 4.5与车钥匙的安全性有关）
 
 ## Research Papers
@@ -83,7 +84,7 @@
 - [Security issues and vulnerabilities in connected car systems](http://ieeexplore.ieee.org/abstract/document/7223297/)
 - [Automobile Driver Fingerprinting, 2016](http://www.autosec.org/pubs/fingerprint.pdf)
 - [Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016](https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf)
--[建模信号间的到达时间以准确检测
+-[模拟信号间的到达时间以准确检测
 CAN总线信号注入攻击]（https://dl.acm.org/citation.cfm?id=3064816）
 
 ## Courses
@@ -97,9 +98,9 @@ CAN总线信号注入攻击]（https://dl.acm.org/citation.cfm?id=3064816）
 ## Websites
 
 - [OpenGarages](http://opengarages.org/index.php/Main_Page) -提供理解当今现代车辆系统所必需的公共通道，文档和工具.
-- [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) -DEFCON 24中的汽车黑客练习.
+- [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) -DEFCON 24的汽车黑客练习.
 - [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) -车辆黑客方法论课程.
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
+- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) -OWASP的项目，以保护从汽车到医疗设备及其他领域的物联网安全.
 - [I Am The Cavalry](https://www.iamthecavalry.org/)  -全球基层（例如志愿人员）倡议侧重于诸如汽车之类的安全与人类生命/公共安全问题的交集.  安全研究人员，OEM，一级人员和许多其他人员的参与.  已发表 [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) -对汽车黑客攻击和将车辆连接到云感兴趣的人组成的社区.
 - [Python Security](http://www.pythoncarsecurity.com/) -一个用于浏览和购买具有某些车辆安全功能的python集成汽车的网站.
@@ -126,7 +127,7 @@ CAN总线信号注入攻击]（https://dl.acm.org/citation.cfm?id=3064816）
 -Samy Kamkar：创建了MySpace蠕虫，Ro​​llJam和OwnStar.
     - [Twitter](https://twitter.com/samykamkar)
     - [Website](https://samy.pl)
--贾斯汀·塞茨（Justin Seitz）：《黑帽Python》（黑淀粉出版社）的作者.
+-贾斯汀·塞茨（Justin Seitz）：《黑帽Python》（无淀粉出版社）的作者.
     - [Twitter](https://twitter.com/jms_dot_py)
  -Troy Hunt：Pluralsight作者.  Microsoft区域总监和开发人员安全MVP.  创作者 [haveibeenpwned](https://haveibeenpwned.com/).
     - [Twitter](https://twitter.com/troyhunt)
@@ -141,7 +142,7 @@ CAN总线信号注入攻击]（https://dl.acm.org/citation.cfm?id=3064816）
  -笔测试合作伙伴：英国渗透测试公司；  一些帖子涉及他们公开的汽车安全漏洞
     - [Twitter](https://twitter.com/pentestpartners)
     - [Website](https://www.pentestpartners.com/blog)
--我是骑兵：全球基层组织（例如，志愿者）着重于安全与人类生活/公共安全问题（例如汽车）的交叉点.
+-我是骑兵：全球基层组织（例如，志愿者）着眼于安全与人类生命/公共安全问题（例如汽车）的交叉点.
     - [Twitter](https://twitter.com/iamthecavalry)
     - [Website](https://iamthecavalry.org)
     - [Discussion Group](https://groups.google.com/forum/#!forum/iamthecavalry)
@@ -150,33 +151,33 @@ CAN总线信号注入攻击]（https://dl.acm.org/citation.cfm?id=3064816）
     - [Website](https://www.carhackingvillage.com/)
 -carfucar：汽车黑客村的创始人和演讲者或培训师
     - [Twitter](https://twitter.com/CarHackVillage)
--伊恩·塔伯（Ian Tabor）/薄荷网络：汽车黑客，汽车黑客村工作人员
+-伊恩·塔伯（Ian Tabor）/薄荷网络：汽车黑客，汽车黑客村的工作人员
     - [Twitter](https://twitter.com/mintynet)
     - [Website](https://www.mintynet.com/)    
 
 ## Podcasts and Episodes
 
-播客和播客剧集，要么直接关注车辆安全性，要么包含一些情节.
+Podcasts and podcast episodes, that either directly focus on vehicle security or have some episodes on it.
 
 ### Podcasts
-- [Security Weekly](http://securityweekly.com/) -出色的播客，涵盖了所有安全领域，其中一些插曲集中介绍了从汽车到无人机的车辆安全性.
-- [TrustedSec Podcast](https://www.trustedsec.com/podcast/) -在TrustedSec的工作人员，社会工程学的领导者中，他们的事件经常涉及到最近的车辆漏洞和攻击.
+- [Security Weekly](http://securityweekly.com/) -出色的播客，涵盖了所有范围的安全性，其中一些插曲集中介绍了从汽车到无人机的车辆安全性.
+- [TrustedSec Podcast](https://www.trustedsec.com/podcast/) -从TrustedSec的工作人员，社会工程学的负责人那里，他们的事件经常会涉及到最近的车辆漏洞和攻击.
 - [SANS Internet Storm Center](https://isc.sans.edu/) -ISC会定期播客最新的漏洞和安全新闻.
-- [Security Ledger](https://soundcloud.com/securityledger) -一个播客，着重就安全相关主题采访安全专家.
+- [Security Ledger](https://soundcloud.com/securityledger) -一个播客，重点是就安全相关主题采访安全专家.
 
 ### Episodes
-- [Car Hacking with Craig Smith](http://softwareengineeringdaily.com/2015/09/02/car-hacking-with-craig-smith/) -《软件工程日报》与《汽车黑客手册》（上图）的作者克雷格·史密斯（Craig Smith）进行了精彩的插曲，讲述了如何侵入车辆.
-- [Big Bugs Podcast Episode 1: Auto Bugs - Critical Vulns found in Cars with Jason Haddix](https://blog.bugcrowd.com/big-bugs-podcast-episode-1) -Jason Haddix探索了汽车中的主要漏洞.
+- [Car Hacking with Craig Smith](http://softwareengineeringdaily.com/2015/09/02/car-hacking-with-craig-smith/) -《软件工程日报》与《汽车黑客手册》（上图）的作者克雷格·史密斯（Craig Smith）进行了精彩的插曲，讲述了如何侵入汽车.
+- [Big Bugs Podcast Episode 1: Auto Bugs - Critical Vulns found in Cars with Jason Haddix](https://blog.bugcrowd.com/big-bugs-podcast-episode-1) -杰森·哈迪克斯（Jason Haddix）探索了汽车中的主要漏洞.
 - [Hacking Under the Hood and Into Your Car](http://www.npr.org/2013/08/02/208270026/hacking-under-the-hood-and-into-your-car) -Chris Valasek和Charlie Miller与NPR讨论了他们如何入侵车辆.
 - [Hacking Connected Vehicles with Chris Valasek of IOActive](https://soundcloud.com/securityledger/chris-valasek-of-ioactive) -克里斯·瓦拉塞克（Chris Valasek）谈到入侵联网车辆.
-- [Hackable? - Cars are Computers](https://hackablepodcast.com/#/episodes/cars-are-computers) -杰夫·西斯金德（Geoff Siskind）与《汽车黑客手册》的作者克雷格·史密斯（Craig Smith）配对，向我们展示了黑客入侵汽车的难易程度.
+- [Hackable? - Cars are Computers](https://hackablepodcast.com/#/episodes/cars-are-computers) -杰夫·西斯金德（Geoff Siskind）与《汽车黑客手册》的作者克雷格·史密斯（Craig Smith）配对，向我们展示了对汽车进行黑客攻击的难易程度.
 
 ## Miscellaneous
 - [Reverse Engineering Resources](https://github.com/ps1337/automotive-security-research)
 
 ## Projects
 
-- [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) -一个社区项目，为您的汽车构建硬件模块，与之对话的服务器以及与服务器对话的移动应用程序，以允许开发人员和发烧友为汽车添加更多功能并进行远程控制.
+- [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) -一个社区项目，为您的汽车构建硬件模块，与之对话的服务器以及与服务器对话的移动应用程序，以允许开发人员和发烧友为汽车添加更多功能并对其进行远程控制.
 - [Open Source Car Control Project](https://github.com/PolySync/OSCC) -开源汽车控制项目是一个硬件和软件项目，详细介绍了将最新模型车辆转换为自动驾驶研发车辆的过程.
 
 ## Hardware
@@ -190,22 +191,22 @@ CAN总线信号注入攻击]（https://dl.acm.org/citation.cfm?id=3064816）
     - [SparkFun CAN-BUS Shield](https://www.sparkfun.com/products/13262)
     - [arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor)  -无论选择哪种盾，都需要您自己的嗅探器.  这是Arduino +任何MCP CAN Shield的标准Lawicel / SLCAN协议的实现，可与许多标准CAN总线分析软件包或SocketCAN一起使用
 - [CANtact](http://linklayer.github.io/cantact/)  -“开源汽车工具”旨在帮助您破解汽车.  您可以按照此处的指南购买一个或自己制作.
-- [Freematics OBD-II Telematics Kit](http://freematics.com/pages/products/arduino-telematics-kit-3/) -基于Arduino的OBD-II蓝牙适配器套件既具有OBD-II设备又具有数据记录器，并且随附有GPS，加速计和陀螺仪以及温度传感器.
-- [ELM327](https://www.elmelectronics.com/obdic.html) - The de facto chipset that's very cheap and can be used to connect to CAN devices.
-- [GoodThopter12](http://goodfet.sourceforge.net/hardware/goodthopter12/) -该板由知名硬件黑客精心制作，是一种通用板，可用于探索汽车网络.
-- [USB2CAN](http://www.8devices.com/products/usb2can/) -廉价的USB至CAN连接器，它将在Linux上注册设备，您可以使用该设备从CAN网络获取数据.
-- [Intrepid Tools](http://store.intrepidcs.com/) -昂贵而又用途广泛的工具，专门用于反转CAN和其他车辆通信协议.
+- [Freematics OBD-II Telematics Kit](http://freematics.com/pages/products/arduino-telematics-kit-3/) -基于Arduino的OBD-II蓝牙适配器套件既包含OBD-II设备又包含数据记录器，并随附GPS，加速计和陀螺仪以及温度传感器.
+- [ELM327](https://www.elmelectronics.com/obdic.html) -实际上很便宜的芯片组，可用于连接到CAN设备.
+- [GoodThopter12](http://goodfet.sourceforge.net/hardware/goodthopter12/) -该板由知名硬件黑客精心打造，是一种通用板，可用于探索汽车网络.
+- [USB2CAN](http://www.8devices.com/products/usb2can/) - Cheap USB to CAN connector that will register a device on linux that you can use to get data from a CAN network.
+- [Intrepid Tools](http://store.intrepidcs.com/) -昂贵但用途广泛的工具，专门用于反转CAN和其他车辆通信协议.
 - [Red Pitaya](http://redpitaya.com/)  -取代了昂贵的测量工具，如示波器，信号发生器和频谱分析仪.  Red Pitaya具有LabView和Matlab界面，您可以为其编写自己的工具和应用程序.  它甚至支持Arduino扩展板之类的扩展.
-- [ChipWhisperer](http://newae.com/tools/chipwhisperer/) -用于侧信道攻击的系统，例如功率分析和时钟故障.
+- [ChipWhisperer](http://newae.com/tools/chipwhisperer/) -一种用于侧信道攻击的系统，例如功率分析和时钟故障.
 - [HackerSDR](https://greatscottgadgets.com/hackrf/)  -一个软件定义的无线电外围设备，能够发送或接收1 MHz至6 GHz的无线电信号.  旨在支持现代和下一代无线电技术的测试和开发.
-- [Carloop](https://www.carloop.io/)  -开源开发套件，可轻松将您的汽车连接到Internet.  与SocketCAN和can-utils兼容的成本最低的汽车黑客工具.  无需OBD-II到串行电缆.
+- [Carloop](https://www.carloop.io/)  -开源开发工具包，可轻松将您的汽车连接到Internet.  与SocketCAN和can-utils兼容的成本最低的汽车黑客工具.  无需OBD-II到串行电缆.
 - [CANBadger](https://gutenshit.github.io/CANBadger/)  -用于逆向工程和测试汽车系统的工具.  CANBadger由硬件和软件组成.  主要接口是安装在定制PCB上的LPC1768 / LPC1769处理器，该处理器提供两个CAN接口，SD卡，一个闪烁的LED，一些GPIO引脚，外围设备的电源和以太网端口.
 - [CANSPY](https://bitbucket.org/jcdemay/canspy)  -提供给安全审核员审核CAN设备的平台.  它可用于自动以及交互地动态阻止，转发或修改CAN帧.
 - [CANBus Triple](https://canb.us/) -通用控制器局域网瑞士军刀和开发平台.
 - [USBtin](http://www.fischl.de/usbtin/)  -USBtin是一个简单的USB转CAN接口.  它可以监视CAN总线并发送CAN消息.  USBtin实现USB CDC类，并在主机上创建虚拟端口.
 - [OpenXC](http://openxcplatform.com/hardware.html)  -OpenXC是开源硬件和软件的组合，可让您使用自定义应用程序和可插拔模块扩展车辆.  它使用标准的知名工具来打开从车辆到开发人员的大量数据.  它由福特的研究人员启动，可用于所有2002年及以后的MY车辆（标准OBD-II接口）.  福特汽车公司的研究人员联合起来，创建了一种标准的方式来创建汽车售后市场的软件和硬件.
 - [Macchina M2](http://macchina.cc/guide/m2)  -Macchina 2.0是对我们的1.X一代Macchina的全面改造.  目标仍然是相同的：创建易于使用，完全开放且超级兼容的汽车界面.
-- [PandwaRF](https://pandwarf.com/) - PandwaRF is a pocket-sized, portable RF analysis tool operating the sub-1 GHz range. It allows the capture, analysis and re-transmission of RF via an Android device or a Linux PC. Capture any data in ASK/OOK/MSK/2-FSK/GFSK modulation from the 300-928 MHz band.
+- [PandwaRF](https://pandwarf.com/)  -PandwaRF是一款袖珍型便携式RF分析工具，可在1 GHz以下范围工作.  它允许通过Android设备或Linux PC捕获，分析和重发RF.  从300-928 MHz频段以ASK / OOK / MSK / 2-FSK / GFSK调制方式捕获任何数据.
 
 ## Software
 
@@ -215,20 +216,20 @@ CAN总线信号注入攻击]（https://dl.acm.org/citation.cfm?id=3064816）
 
 可以帮助您入侵汽车，调查信号并进行整体修补的软件应用程序.
 
-- [Wireshark](https://www.wireshark.org/) -WireShark可用于反转CAN通信.
+- [Wireshark](https://www.wireshark.org/) -WireShark可用于反向CAN通信.
 - [Kayak](http://kayak.2codeornot2code.org/) -用于CAN总线诊断和监视的Java应用程序.
 - [UDSim](https://github.com/zombieCraig/UDSim/) -GUI工具，可以监视CAN总线，并通过观察通信自动学习与之相连的设备.
 - [RomRaider](http://www.romraider.com/) -斯巴鲁引擎控制单元的开源调整套件，可让您查看和记录数据以及调整ECU.
-- [Intrepid Tools](http://store.intrepidcs.com/) -昂贵而又用途广泛的工具，专门用于反转CAN和其他车辆通信协议.
-- [O2OO](https://www.vanheusden.com/O2OO/)  -与ELM327配合使用，可将数据记录到SQLite数据库中以进行绘图.  它还支持读取GPS数据.  您可以将其连接到您的汽车上，并使用您驾驶的Google Maps KML数据进行映射.
+- [Intrepid Tools](http://store.intrepidcs.com/) -昂贵但用途广泛的工具，专门用于反转CAN和其他车辆通信协议.
+- [O2OO](https://www.vanheusden.com/O2OO/)  -与ELM327配合使用，可将数据记录到SQLite数据库中以进行绘图.  它还支持读取GPS数据.  您可以将其连接到汽车上，并使用您驾驶的Google Maps KML数据进行映射.
 - [CANToolz](https://github.com/eik00d/CANToolz)  -CANToolz是用于分析CAN网络和设备的框架.  它基于可以组装在管道中的几个模块.
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -一个开源工具，用于仿真，分析和测试数据总线系统，例如CAN，LIN，FlexRay.
 - [OpenXC](http://openxcplatform.com/getting-started/index.html) -目前，OpenXC可与Python和Android一起使用，并提供了入门库.
-- [openpilot](https://github.com/commaai/openpilot) -openpilot是一种开源驱动程序代理，可为本田和Ac歌执行自适应巡航控制（ACC）和车道保持辅助系统（LKAS）的功能.
+- [openpilot](https://github.com/commaai/openpilot) -openpilot是一个开源驱动程序代理，它执行本田和Ac歌的自适应巡航控制（ACC）和车道保持辅助系统（LKAS）的功能.
 - [openalpr](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) -流行的metasploit框架现在支持硬件桥接会话，该会话将框架的功能扩展到诸如socketcan和SDR无线电之类的硬件设备上.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) -多合一安装程序/卸载程序，用于许多可用的马自达MZD信息娱乐系统调整.
-- [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) -一个PoC，表明USB端口是马自达汽车信息娱乐系统的攻击面，以及马自达黑客的攻击方式（CMU中的已知错误）.
+- [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo) -一个PoC，表明USB端口是马自达汽车信息娱乐系统的攻击面，以及马自达骇客的制造方式（CMU中的已知错误）.
 - [talking-with-cars](https://github.com/P1kachu/talking-with-cars) -CAN相关的脚本，以及将汽车用作游戏手柄的脚本
 - [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) -用于专有汽车协议的安全分析工具包.
 
@@ -236,7 +237,7 @@ CAN总线信号注入攻击]（https://dl.acm.org/citation.cfm?id=3064816）
 
 不属于上述较大应用程序类别的库和工具.
 
-[Custom Applications SDK for Mazda Connect Infotainment System](https://github.com/flyandi/mazda-custom-application-sdk) -微型框架，可让您编写和部署马自达信息娱乐系统的自定义应用程序.
+[Custom Applications SDK for Mazda Connect Infotainment System](https://github.com/flyandi/mazda-custom-application-sdk) -微型框架，可让您编写和部署Mazda信息娱乐系统的自定义应用程序.
 
 ### C
 
@@ -253,7 +254,7 @@ CAN总线信号注入攻击]（https://dl.acm.org/citation.cfm?id=3064816）
 ### Python
 
 - [CANard](https://github.com/ericevenchick/canard) -用于控制器局域网应用程序的Python框架.
-- [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) -旨在成为*“车辆安全性nmap”.
+- [Caring Caribou](https://github.com/CaringCaribou/caringcaribou/) -旨在作为*车辆安全性的nmap *.
 - [c0f](https://github.com/zombieCraig/c0f/) -用于CAN通信的指纹识别工具，可在测试与车辆的交互时用于在CAN网络上查找特定信号.
 - [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html)  -各种CAN实现的Python接口，包括SocketCAN.  允许您使用Python 2.7.x或3.3.x +在CAN网络上进行通信.
 - [Python-OBD](https://github.com/brendan-w/python-OBD)  -一个Python模块，用于处理来自OBD-II车辆端口的实时传感器数据.  与ELM327 OBD-II适配器一起使用，并适合Raspberry Pi.

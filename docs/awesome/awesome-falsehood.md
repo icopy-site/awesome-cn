@@ -2,11 +2,19 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## 😱 Awesome Falsehood [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-程序员相信的精选虚假清单.
+**程序员相信的虚假清单.**
 
-&gt;世界的逻辑先于真理和谎言.
->
-&gt;-路德维希·维特根斯坦. [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) （Harper＆Brothers，纽约，1961年）.
+<p align="center">
+  <a href="https://github.com/kdeldycke/awesome-falsehood/">
+    <img src="https://raw.githubusercontent.com/kdeldycke/awesome-falsehood/master/./assets/awesome-falsehood-header.jpg" alt="Awesome Falsehood header image">
+  </a>
+</p>
+
+<p align="center">
+   <br>
+  — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
+</p>
+
 
 *虚假*文章是对特定主题的评论形式，
 受到开发者社区的广泛赞赏，因为它们的有效性和
@@ -87,7 +95,7 @@ macOS开发人员.
 如果您有帮助，请观看有关为何不应该处理时区的视频.
 - [$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) -
 日历会计错误的后果.
-- [ISO-8601, YYYY, yyyy, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) -弦
+- [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) -弦
 日期格式很难.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 那里
 关于日期和时间（特别是UTC）的一些极端情况
@@ -173,8 +181,8 @@ code.
 广泛，这里是龙.
 - [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) -潜水
 更深入的Unicode，消除了有关代码点的神话.
-- [Breaking Our Latin-1 Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) -大多数
-程序员花大量时间在Latin-1上，他们忘记了其他人的脚本
+- [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) -大多数
+程序员在“ Latin-1”上花费了很多时间，他们忘记了其他人的脚本
 quirks.
 - [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) -人物
 编码很困难，尤其是当每个破碎的数据输入层添加自己的编码时
@@ -195,7 +203,7 @@ spice.
 
 ## Multimedia
 
-- [Falsehoods About Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) -封面
+- [Falsehoods About Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) - Cover
 全部：视频解码和播放，文件，图像缩放，色彩空间和
 转换，显示和字幕.
 
@@ -241,7 +249,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 正则表达式和街道地址不要混用.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) -Google
 通用的C ++和Java库，用于解析，格式化和验证
-international postal addresses.
+国际邮政地址.
 - [`addressing`](https://github.com/commerceguys/addressing) -PHP 5.4以上
 地址库，由Google的数据集提供支持.
 - [`postal-address`](https://github.com/scaleway/postal-address) -Python
@@ -281,21 +289,21 @@ RFC4180存在，它远非定论，而在很大程度上被忽略.
 包及其经理.
 - [Falsehoods About Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) -一个
 尝试建立有关测试的虚假列表.
-- [Popular misconceptions about mtime](https://apenwarr.ca/log/20181113) -部分
+- [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) -部分
 为什么文件的“ mtime”比较可能被认为有害的帖子.
 - [Falsehoods About Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) -为什么
 您的分页算法使某人（可能是您）头疼.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) -不
 *每秒钟*的虚假信息，但仍然是要实施的良好做法的好清单
 autocompletion.
-- [9999999999999999.0 - 9999999999999998.0](http://geocar.sdf1.org/numbers.html) - 一种
+- [`9999999999999999.0` - `9999999999999998.0`](http://geocar.sdf1.org/numbers.html) - 一种
 有点虚假的数字，浮点数与小数.
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) -为什么
 搜索（包括分析，标记化，突出显示）看似复杂.
 - [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) -这个话题
 可能被命名为“关于用户名（和其他标识符）的虚假信息”.
-- [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom) - 那里
-关于/ dev / urandom和/ dev / random的一些事情会再次重复
+- [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - 那里
+关于`/ dev / urandom`和`/ dev / random`的几件事再次重复
  再次.  他们仍然是错误的.
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) -误解
 关于缓存通常会导致错误的断言，尤其是当涉及到
@@ -319,9 +327,14 @@ autocompletion.
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 此存储库的内容根据 [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
-
 在法律允许的范围内， [Kevin Deldycke](https://kevin.deldycke.com)
 放弃了此作品的所有版权以及相关或邻近的权利.
+
+The [header image](https://raw.githubusercontent.com/kdeldycke/awesome-falsehood/master/./assets/awesome-falsehood-header.jpg) 基于修改后
+[photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg),
+根据[Creative Commons BY-SA 2.0 UK
+license](https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en).
+
+<a name="intro-quote-def">[1]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)

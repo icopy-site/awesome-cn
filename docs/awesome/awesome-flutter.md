@@ -1,7 +1,6 @@
 <div class="github-widget" data-repo="Solido/awesome-flutter"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](https://flutter.dev/)
-[<img src="https://user-images.githubusercontent.com/1295961/64920587-d725a180-d7b9-11e9-9231-852c8102986e.png" align="center" width="850">](https://fluttereurope.dev)
 
 <p align="center">
   <a href="https://twitter.com/BlueAquilae">
@@ -338,7 +337,7 @@
 - [Billing](https://github.com/VolodymyrLykhonis/flutter_billing) [95⭐]-通过在iOS和Android上启用计费 [Volodymyr Lykhonis](http://vladimirlichonos.com).
 - [Inapp Purchase](https://github.com/dooboolab/flutter_inapp_purchase) [288⭐]-源自“应用内购买”的功能集 [react-native-iap](https://github.com/dooboolab/react-native-iap) 通过 [dooboolab](https://github.com/dooboolab).
 - [Admob Flutter](https://github.com/kmcgill88/admob_flutter) -Admob插件，可使用本机平台视图显示横幅广告 [Youssef Kababe](https://github.com/YoussefKababe) & [Kevin McGill](https://github.com/kmcgill88).
-- [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) -Facebook受众群体网络广告插件，可按以下方式显示横幅广告，插页式视频，插播视频，奖励视频和natvie广告 [Dreamsoft Innovations](https://github.com/dreamsoftin).
+- [Facebook Audience Network](https://github.com/dreamsoftin/facebook_audience_network) -Facebook受众群体网络广告插件，通过 [Dreamsoft Innovations](https://github.com/dreamsoftin).
 - [Square In-App Payments SDK](https://github.com/square/in-app-payments-flutter-plugin) [163⭐]-通过在您的应用中嵌入卡片输入表单来进行付款，该表单会通过以下方式从客户提供的卡片信息或数字钱包中产生随机数： [Square](https://github.com/orgs/square).
 
 ## Templates
