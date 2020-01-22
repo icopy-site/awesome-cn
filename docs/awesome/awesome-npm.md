@@ -28,8 +28,8 @@
 
 - [npms](https://npms.io) -精湛的包裹搜索功能，可对包裹质量进行深入分析 [myriad of metrics](https://npms.io/about).
 	- [npm-introspect](http://npm-introspect.z3d.tech) -一个基于npms的实用程序，用于直观地探索软件包依赖项的质量.
-- [npmsearch](http://npmsearch.com) -快速的包装搜索，基于星级，受抚养者，释放频率等指标进行排名.
-- [node-modules](http://node-modules.com) -基于您的GitHub社交图的个性化软件包搜索.
+- [npmsearch](http://npmsearch.com) -快速包装搜索，基于星级，受抚养者，释放频率等指标进行排名.
+- [node-modules](http://node-modules.com) -基于GitHub社交图的个性化软件包搜索.
 - [NodeICO](https://nodei.co/) -包装徽章.
 - [Libraries.io](https://libraries.io/npm) -包发现.
 - [npm-stat](http://npm-stat.com) -包的统计图.
@@ -41,13 +41,14 @@
 - [npm-stats](http://www.npm-stats.com) -显示有关程序包的指标.
 - [greenkeeper.io](https://greenkeeper.io) -通过拉取请求自动进行依赖项更新.
 - [ghub.io](https://ghub.io) -重定向到npm软件包的GitHub存储库.
-- [npm addict](https://npmaddict.com) -您每天注射npm软件包.
+- [npm addict](https://npmaddict.com) -您每天注入npm软件包.
 
 ### Browser extensions
 
 - [Octo-Linker](https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp) -Chrome扩展程序可轻松浏览GitHub上的npm软件包.
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) -Chrome扩展程序，用于探索GitHub存储库上的npm依赖性.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) -在GitHub上查看npm下载统计信息.
+- [npm-search-update](https://chrome.google.com/webstore/detail/npm-search-update/kagpoplamlmaonpddimnnigiojimihnh) -Chrome扩展程序可快速搜索依赖项并监视npm注册表中的更改.
 
 ### CLI
 
@@ -80,13 +81,13 @@
 - [nrm](https://github.com/Pana/nrm) -注册表管理员.
 - [npm-register](https://github.com/dickeyxxx/npm-register) -易于设置和维护npm注册表和代理.
 - [verdaccio](https://github.com/verdaccio/verdaccio) -轻量级私人npm代理注册表.
-- [cloudsmith](https://cloudsmith.io/l/npm-registry/) -全面管理的软件包管理SaaS，并支持公共和私有npm注册表（以及许多其他注册表）.
+- [cloudsmith](https://cloudsmith.io/l/npm-registry/) -全面管理的软件包管理SaaS，支持公共和私有npm注册表（以及许多其他注册表）.
 
 ### Other
 
 - [npm-home](https://github.com/sindresorhus/npm-home) -打开软件包的npm页面.
 - [gh-home](https://github.com/sindresorhus/gh-home) -打开软件包的GitHub页面.
-- [david](https://github.com/alanshaw/david) -检查您的软件包依赖项是否过时.
+- [david](https://github.com/alanshaw/david) -检查您的软件包依赖关系是否过时.
 - [npm-check](https://github.com/dylang/npm-check) -检查过时，不正确和未使用的依存关系，以及交互式更新.
 - [npm-upgrade](https://github.com/th0r/npm-upgrade) -以交互方式更新过时的npm依赖项.
 - [npm-shrinkwrap](https://github.com/uber/npm-shrinkwrap) -一致的拆封工具.
@@ -96,7 +97,7 @@
 - [read-pkg-up](https://github.com/sindresorhus/read-pkg-up) -阅读最近的package.json文件.
 - [normalize-package-data](https://github.com/npm/normalize-package-data) -规范包元数据.
 - [pkg-conf](https://github.com/sindresorhus/pkg-conf) -从最近的package.json获取命名空间的配置.
-- [npm-run-path](https://github.com/sindresorhus/npm-run-path) -在终端中按本地名称运行全局安装的二进制文件.
+- [npm-run-path](https://github.com/sindresorhus/npm-run-path) -在终端中按名称运行本地安装的二进制文件，就像使用全局二进制文件一样.
 - [local-npm](https://github.com/nolanlawson/local-npm) -在海平面以上使用 [offline](https://addyosmani.com/blog/using-npm-offline/).
 - [npe](https://github.com/zeke/npe) -CLI，用于检查和编辑package.json中的属性.
 - [engine-deps](https://github.com/samccone/engine-deps) -轻松管理特定于Node.js版本的依赖项.
@@ -112,7 +113,7 @@
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) -CLI工具可并行或串行运行多个npm脚本.
 - [onchange](https://github.com/Qard/onchange) -监视文件和文件夹，并在发生更改时运行命令.
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) -当npm脚本失败时发送本机桌面通知.
-- [luna](https://github.com/rvpanoz/luna) -用于管理npm依赖关系的应用程序.
+- [luna](https://github.com/rvpanoz/luna) -应用程序来管理npm依赖项.
 - [emma-cli](https://github.com/maticzav/emma-cli) -交互式CLI软件包搜索实用程序.
 - [lockfile-lint](https://github.com/lirantal/lockfile-lint) -整理锁文件以提高安全性和信任策略，以减轻恶意程序包注入和不安全的锁文件资源.
 
@@ -120,7 +121,7 @@
 
 - [yarn](https://github.com/yarnpkg/yarn) -快速，可靠和安全的依赖性管理.
 - [npm](https://github.com/npm/cli) -官方客户.
-- [pnpm](https://github.com/pnpm/pnpm) -快速，节省磁盘空间的软件包管理器.
+- [pnpm](https://github.com/pnpm/pnpm) -快速，磁盘空间高效的软件包管理器.
 
 ## Tips
 
@@ -169,11 +170,11 @@ $ npm install --save-dev ava
 
 ### Run scripts
 
-您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script)  通过将npm添加到package.json的“ scripts”字段中来使用npm并使用npm run运行它们 <script-name>  `.  运行`npm run`来查看可用的脚本.  本地安装软件包的二进制文件位于 [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name.
+您可以轻松地 [run scripts](https://docs.npmjs.com/cli/run-script)  通过将npm添加到package.json中的“ scripts”字段来使用npm并使用npm run运行它们 <script-name>  `.  运行`npm run`查看可用的脚本.  本地安装软件包的二进制文件位于 [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name.
 
 ```json
 {
-	“ name”：“超棒包装”，
+	“ name”：“很棒的包装”，
 	“脚本”：{
 		“ cat”：“猫名”
 	},
@@ -192,7 +193,7 @@ Max
 
 ```json
 {
-	“ name”：“超棒包装”，
+	“ name”：“很棒的包装”，
 	“脚本”：{
 		“ name”：“ echo $ npm_package_name”
 	}
@@ -210,7 +211,7 @@ awesome-package
 
 ```json
 {
-	“ name”：“超棒包装”，
+	“ name”：“很棒的包装”，
 	“脚本”：{
 		“ xo”：“ xo”，
 		“ xo：fix”：“ npm run xo---fix”，
@@ -218,7 +219,7 @@ awesome-package
 }
 ```
 
-*添加`---fix`选项就像执行`xo --fix` *.
+*添加`---fix`选项就像执行`xo --fix` **.
 
 #### Silent option
 
@@ -228,7 +229,7 @@ npm run有一个--silent选项，在组合npm脚本时特别有用.
 
 ```json
 {
-	“ name”：“超棒包装”，
+	“ name”：“很棒的包装”，
 	“脚本”：{
 		“ xo”：“ xo”，
 		“ xo：fix”：“ npm run xo --silent---fix”，
@@ -240,11 +241,11 @@ npm run有一个--silent选项，在组合npm脚本时特别有用.
 
 ### Lifecycle scripts
 
-npm带有预定义 [lifecyle scripts](https://docs.npmjs.com/misc/scripts) 如果在package.json中定义它们，则它们将在特定条件下被执行.
+npm带有预定义 [lifecyle scripts](https://docs.npmjs.com/misc/scripts) 如果在package.json中定义了特定条件，则在特定条件下执行.
 
 ```json
 {
-	“ name”：“超棒包装”，
+	“ name”：“很棒的包装”，
 	“脚本”：{
 		“ prepublishOnly”：“ nsp检查”
 	},
@@ -264,7 +265,7 @@ npm带有预定义 [lifecyle scripts](https://docs.npmjs.com/misc/scripts) 如�
 
 ```json
 {
-	“ name”：“超棒包装”，
+	“ name”：“很棒的包装”，
 	“脚本”：{
 		“ start”：“节点server.js”，
 		“ test”：“ ava”
@@ -288,7 +289,7 @@ $ npm开始
 
 ```json
 {
-	“ name”：“超棒包装”，
+	“ name”：“很棒的包装”，
 	“脚本”：{
 		“ pretest”：“大便.”，
 		“ test”：“ ava”
@@ -304,7 +305,7 @@ $ npm开始
 $ npm测试
 ```
 
- 在运行测试之前，这将使文件掉毛.  如果掉毛失败，测试将不会运行.  或更普遍地说：如果按顺序运行的脚本之一以0以外的退出代码退出，则不会执行以下脚本.
+ 在运行测试之前，这将使文件掉毛.  如果掉毛失败，测试将不会运行.  或更普遍地说：如果按顺序运行的脚本之一退出时退出代码不是0，则不会执行以下脚本.
 
  *注意：`pre`和`post`脚本也可以用于您的自定义npm脚本.  所以`npm run foo`也将运行`prefoo`和`postfoo`.
 
@@ -314,7 +315,7 @@ $ npm测试
 
 ```json
 {
-	“ name”：“超棒包装”，
+	“ name”：“很棒的包装”，
 	“依赖关系”：{
 		“猫名”：“ ^ 1.0.0”
 	}
@@ -338,7 +339,7 @@ Bentley
 
 ### Run commands with different Node.js versions
 
-带有“ npx”（与npm v5.2.0或更高版本捆绑在一起）和 [`node-bin`](https://www.npmjs.com/package/node-bin) 软件包，您可以轻松试用不同Node.js版本中的代码，而不必使用版本管理器，例如 [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave)， 要么 [`n`](https://github.com/tj/n).
+使用`npx`（与npm v5.2.0或更高版本捆绑在一起）和 [`node-bin`](https://www.npmjs.com/package/node-bin) 软件包，您可以轻松试用不同Node.js版本中的代码，而不必使用版本管理器，例如 [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave)， 要么 [`n`](https://github.com/tj/n).
 
 ```
 $ npx --package=node-bin@6.11.0-节点--version
@@ -356,7 +357,7 @@ $ cd ../unicorn
 $ npm链接彩虹
 ```
 
-现在，您可以在`unicorn`软件包中将`rainbow`用作依赖项.
+现在，您可以将`rainbow`用作`unicorn`软件包中的依赖项.
 
 ### Install a package from GitHub
 

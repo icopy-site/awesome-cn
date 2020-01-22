@@ -94,7 +94,7 @@
 - [Proton](https://github.com/steventhanna/proton) -带有实时预览的Markdown编辑器.
 - [James](https://github.com/uxebu/james) -HTTP代理以查看和拦截浏览器请求.
 - [DTCP](https://github.com/alchen/DTCP) -Twitter客户端.
-- [Inbox](https://github.com/fgnass/inbox-app) -非官方的Google收件箱应用.
+- [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
 - [alienbox](http://a9.io/alienbox/) -菜单栏中的Reddit收件箱和通知程序.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) -鸣叫录音播放器.
 - [Snippet Bar](https://github.com/teesloane/snippet-bar) -复制并重新使用菜单栏中的文本片段.
@@ -105,7 +105,7 @@
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - 音乐播放器.
 - [Shake](https://github.com/lumios/shake) -日本地震预警通知者.
 - [Fog](https://github.com/vitorgalvao/fog) -非官方的播客播客应用.
-- [Wmail](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
+- [Wmail](https://github.com/Thomas101/wmail) -非官方的Gmail和Google收件箱应用.
 - [Boostnote](https://github.com/BoostIO/Boostnote) -针对开发人员的Markdown注释和代码段应用程序.
 - [Before Dawn](https://github.com/muffinista/before-dawn) -屏幕保护程序工具.
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) -非官方的Active Collab应用.
@@ -151,14 +151,14 @@
 - [Buka](https://github.com/oguzhaninan/Buka) -电子书管理.
 - [Insomnia](https://github.com/getinsomnia/insomnia) -创建和管理HTTP请求.
 - [Tusk](https://github.com/champloohq/tusk) -非官方的Evernote应用.
-- [ProtonMail Desktop](https://github.com/protonmail-desktop/application) -非官方的ProtonMail应用程序.
+- [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) -CSV编辑器.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) -密码管理器.
 - [Mailspring](https://github.com/Foundry376/Mailspring)  -可扩展的电子邮件客户端.  （尼拉斯邮件叉）
 - [Manta](https://github.com/hql287/Manta) -使用精美且可自定义的模板为自由职业者开具发票.
 - [Headset](https://github.com/headsetapp/headset-electron) -发现，收集和聆听YouTube音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) -来自免费资源的音乐播放器.
-- [Inboxer](https://github.com/denysdovhan/inboxer) -非官方的Google收件箱应用.
+- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) -高级用户的文件管理器.
 - [Mark Text](https://github.com/marktext/marktext) -实时预览Markdown编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) -番茄计时器.
@@ -175,6 +175,7 @@
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) -非官方的Gmail应用程序.
 - [Upcount](https://github.com/madisvain/upcount) -开票.
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) -通过拖放来清洁图像元数据.
+- [massCode](https://github.com/antonreshetov/massCode) -开发人员的代码段管理器.
 
 ### Closed Source
 
@@ -214,7 +215,7 @@
 - [MusicPlus](https://musicplus.io) -适用于macOS和Windows的免费音乐应用程序.
 - [Mingo](https://mingo.io) -MongoDB GUI.
 - [Moon Modeler](https://datensen.com) -适用于MongoDB，Mongoose和MariaDB的架构设计工具.
-- [Notion](https://notion.so) - All-in-one workspace for your notes, tasks, wikis, and databases.
+- [Notion](https://notion.so) -便笺，任务，Wiki和数据库的多合一工作区.
 - [FATpick](https://www.fatpick.com) -吉他弹奏器查看器，可在演奏时为您的演奏评分.
 
 ### Samples
@@ -311,6 +312,8 @@
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) -浏览器窗口和主进程之间的透明异步远程处理.
 - [trilogy](https://github.com/citycide/trilogy) -TypeScript SQLite数据库层，同时支持本机C ++和纯JavaScript后端.
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) -屏蔽广告和跟踪器.
+- [electronmon](https://github.com/catdad/electronmon) -在开发过程中监视和重新加载应用程序.
+- [electron-create-menu](https://github.com/kilian/electron-create-menu) -所有平台的默认菜单，易于扩展，并支持i18n.
 
 ### Using Electron
 
@@ -335,7 +338,7 @@
 - [window](https://github.com/jprichardson/electron-window) -创建和管理窗口.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) -用于Mac OS和使用React构建的Windows的UI工具包.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) -输入元素的上下文菜单.
-- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -像Chrome一样的标签页.
+- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -类似于Chrome的标签页.
 - [titlebar](https://github.com/kapetan/titlebar) -模拟macOS窗口标题栏.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) -使用Photon和Etch构建和管理UI组件.
 - [Xel](https://xel-toolkit.org) -用于构建类似本机应用程序的小部件工具包.
@@ -354,12 +357,13 @@
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
-- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) -新的Electron API可以以更少的错误和更高的性能嵌入Web应用程序.
+- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) -新的Electron API，以更少的错误和更高的性能嵌入Web应用程序.
 - [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -Slack用“ BrowserView”，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -Realm使用Electron重写了其数据库浏览器应用程序，以提供跨平台支持.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) -由5部分组成的系列，介绍了将Electron应用制作和发布到Mac App Store的过程.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) -专注于设计和代码决策以及电子安全.
 - [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) -如何收集匿名用户统计信息.
+- [Notarizing your Electron app](https://kilianvalkhof.com/2019/electron/notarizing-your-electron-application/) -如何为Apple公证配置应用程序包装.
 
 ## Books
 

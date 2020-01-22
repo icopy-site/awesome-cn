@@ -50,9 +50,9 @@ subtleties.
 
 ## Business
 
-- [Falsehoods About Online Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201) - 盖子
+- [Falsehoods About Online Shopping](http://wiesmann.codiferes.net/wordpress/?p=22201) - Covers
 价格，货币和库存.
-- [Falsehoods About Prices](https://gist.github.com/rgs/6509585) - 盖子
+- [Falsehoods About Prices](https://gist.github.com/rgs/6509585) - Covers
 货币，金额和本地化.
 - [Falsehoods About IBANs](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) -国际
 银行帐号不能免于错误.
@@ -114,6 +114,7 @@ leap秒！
 - [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一种
 清单（不仅如此）计算机科学专业的学生往往会错误地
 时代令人惊讶地相信，即使他们（可能）应该更了解.
+- [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) -“关于博士后研究人员的很多事情都被说，写和相信了，这是完全不正确的.”
 
 
 ## Emails
@@ -129,7 +130,7 @@ RFC-822.
 
 - [Falsehoods About Geography](http://wiesmann.codiferes.net/wordpress/?p=15187) -需要
 地点，名称和位置.
-- [Falsehoods About Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - 盖子
+- [Falsehoods About Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers
 坐标，投影和GIS.
 
 
@@ -203,14 +204,14 @@ spice.
 
 ## Multimedia
 
-- [Falsehoods About Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) - Cover
+- [Falsehoods About Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) -封面
 全部：视频解码和播放，文件，图像缩放，色彩空间和
 转换，显示和字幕.
 
 
 ## Networks
 
-- [Falsehoods About Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - 盖子
+- [Falsehoods About Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - Covers
 TCP，DHCP，DNS，VLAN和IPv4 / v6.
 - [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) -假设
 刚接触分布式应用程序的程序员所做的一切.
@@ -223,7 +224,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 
 ## Phone Numbers
 
-- [Falsehoods About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - 盖子
+- [Falsehoods About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers
 电话号码，其表示形式和含义.
 - [`libphonenumber`](https://github.com/googlei18n/libphonenumber) -Google
 通用的Java，C ++和JavaScript库，用于解析，格式化和验证
@@ -237,7 +238,7 @@ and [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 要么.
 
 ## Postal Addresses
 
-- [Falsehoods About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - 盖子
+- [Falsehoods About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/) - Covers
 街道，邮政编码，建筑物，城市和国家/地区.
 - [Falsehoods About Residence](https://twitter.com/samphippen/status/813896916534784004) - 它
 不仅涉及地址本身，还涉及人与住所之间的关系.
@@ -285,7 +286,7 @@ of.
 在创建和记录API时要谨记.
 - [Falsehoods About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) -虽然
 RFC4180存在，它远非定论，而在很大程度上被忽略.
-- [Falsehoods About Package Managers](https://meta-package-manager.readthedocs.io/en/develop/falsehoods.html) - 盖子
+- [Falsehoods About Package Managers](https://meta-package-manager.readthedocs.io/en/develop/falsehoods.html) - Covers
 包及其经理.
 - [Falsehoods About Testing](https://club.ministryoftesting.com/t/falsehoods-testers-believe/1371) -一个
 尝试建立有关测试的虚假列表.

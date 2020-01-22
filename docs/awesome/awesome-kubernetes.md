@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 awesome-kubernetes现在将以不同的发行版和软件包捆绑形式提供，这意味着您可以
- 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑包发行版发行.  请查看发布列以获取更多信息.
+ 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑软件发行版发行.  请查看发布列以获取更多信息.
 
 ## Featured On
 
@@ -293,9 +293,9 @@ Installers
 
 
   - [DevSpace](https://github.com/covexo/devspace) -直接在任何Kubernetes集群内部构建，测试和运行代码
-  - [Draft](http://draft.sh) -开发人员使用Kubernetes创建云原生应用程序的工具
+  - [Draft](http://draft.sh) - A tool for developers to create cloud native applications with Kubernetes
   - [Eclipse Che](https://github.com/eclipse/che) -具有SSH和多用户支持的云开发工作区
-  - [Garden](https://garden.io) - Orchestrates your development workflows to make developing microservices faster and easier
+  - [Garden](https://garden.io) -精心安排您的开发工作流程，以使开发和开发微服务更加快捷，轻松
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) -建立，部署和管理现代无服务器工作负载的平台
   - [Okteto](https://github.com/okteto/okteto)  -在任何Kubernetes集群中直接进行开发.  无需提交，构建或推送
@@ -503,6 +503,7 @@ Projects
 * [Telepresence](http://www.telepresence.io) -针对远程Kubernetes集群在本地开发/调试服务
 * [krane](https://github.com/Shopify/krane) -一个命令行工具，可帮助您将更改发送到Kubernetes命名空间并了解结果
 * [ktunnel](https://github.com/omrikiei/ktunnel) -一个命令行工具，可在Kubernetes和您的集群之间建立反向隧道，将其用于本地开发/调试服务或与本地资源集成.
+* [k8s-platform-lcm](https://github.com/arminc/k8s-platform-lcm) -一种更快，更轻松的方法来管理应用程序和工具的生命周期，在Kubernetes平台上运行和生活
 
 ## Package Managers
 

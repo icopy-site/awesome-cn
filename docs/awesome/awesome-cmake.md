@@ -34,13 +34,13 @@
 * [Article](http://preshing.com/20170511/how-to-build-a-cmake-based-project/) -如何构建基于CMake的项目.
 * [Article](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/) -在15分钟内学习CMake的脚本语言.
 * [Article](http://aosabook.org/en/cmake.html) -CMake的体系结构.
-* [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) -有效的CMake-由C ++ Now 2017年Daniel Pfeifer撰写
+* [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) -有效的CMake-由C ++ Now 2017年Daniel Pfeifer撰写.
 * [Article](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/) -使用CMake构建跨平台CUDA应用程序.
-* [Tutorial](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) -了解CMake的分步指南.
-* [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) -拥抱现代CMake-Stephen Kelly撰写.
+* [Tutorial](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) -逐步了解CMake的指南.
+* [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) -拥抱现代CMake-Stephen Kelly.
 * [Lecture](https://www.youtube.com/watch?v=eC9-iRN2b04) -模块化设计的现代CMake-Mathieu Ropert，CppCon 2017.
 * [Article](https://juan-medina.com/2017/07/01/moderncppci/) -现代C ++ CI（尽管它使用非现代CMake，如```include_directories（）`&#39;&#39;）.
-* [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) -现在该做正确的CMake了（关于CMake的最佳文章之一）.
+* [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) -是时候正确地做CMake了（有关CMake的最佳文章之一）.
 *文章-关于CMake的系列-作者：MartinHořeňovský
     * [Basic CMake usage](https://codingnest.com/basic-cmake/).
     * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/).
@@ -52,9 +52,10 @@
 * [Book](https://leanpub.com/effective-cmake) -有效的CMake：编写更好的CMake的实用建议（尚未完全编写）.
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) -现代CMake简介.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html)  -如何CMake好.  [```[CC0-1.0]```] [CC0-1.0]
-* [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) -更现代的CMake（[slides & examples](https://github.com/Bagira80/More-Modern-CMake)）-由会议C ++ 2018的Deniz Bahadir撰写.
+* [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) -更现代的CMake（[slides & examples](https://github.com/Bagira80/More-Modern-CMake)）-会议C ++ 2018的Deniz Bahadir撰写.
 * [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk)  - 不好了！  更现代的CMake（[slides](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf)）-由会议C ++ 2019的Deniz Bahadir撰写.
 * [Article](https://cristianadam.eu/20190223/modifying-the-default-cmake-build-types/)  -修改默认的CMake构建类型/标志，工具链和补丁-噢，天哪！  -克里斯蒂安·亚当（Cristian Adam）.
+* [Article](https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html) -CLion背后的公司JetBrains提供的快速CMake教程.
 
 ## Package Management / Build Systems
 
@@ -63,7 +64,7 @@
 * [cppan](https://cppan.org/)  -C ++存档网络-基于CMake的C ++程序包管理器，在C ++ 14中实现.  [```[APACHE2]```] [APACHE2]
 * [cpm](https://github.com/iauns/cpm)  -基于CMake和Git的C ++软件包管理器.  [```[MIT]```] [MIT]
 * [conan](https://github.com/conan-io/conan)  -Conan C ++软件包管理器，以Python实现，并具有CMake集成后端.  [```[MIT]```] [MIT]
-* [fips](https://github.com/floooh/fips)  -用于分布式，多平台C / C ++项目的高级构建系统/依赖性管理.  [```[MIT]```] [MIT]
+* [fips](https://github.com/floooh/fips) - High-level build system/dependency management for distributed, multi-platform C/C++ projects. [```[MIT]```][MIT]
 * [Ninja](https://github.com/ninja-build/ninja)  -在两个主要方面与其他系统不同的构建系统：它的设计目的是使输入文件由更高级别的构建系统（例如CMake）生成，并且它设计用于尽可能快地运行构建.  [```[APACHE2]```] [APACHE2]
 * [vcpkg](https://github.com/Microsoft/vcpkg)  -获取和构建C ++开源库的工具.  内部使用CMake作为构建脚本语言.  [```[MIT]```] [MIT]
 * [pmm](https://github.com/AnotherFoxGuy/pmm)  -PMM是用于CMake的模块，用于管理...程序包管理器.  [```[MIT]```] [MIT]
@@ -93,7 +94,7 @@
 
  它们提供了广泛的功能-从处理编译器标志到使用工具.  有些还包含模块.
 
-* [cotire](https://github.com/sakra/cotire)  -Cotire（编译时间减少器）是一个CMake模块，它通过完全自动化的技术（如针对C和C ++的预编译头文件和统一构建）来加快基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
+* [cotire](https://github.com/sakra/cotire)  -Cotire（编译时间减少器）是一个CMake模块，它通过完全自动化的技术（如针对C和C ++的预编译头和统一构建）来加速基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
 * [ucm](https://github.com/onqtam/ucm)  -用于管理编译器/链接器标志，收集源，预编译的头文件，统一构建等.  [```[MIT]```] [MIT]
 * [cmakepp](https://github.com/toeb/cmakepp)  -CMake构建系统的增强套件.  [```[MIT]```] [MIT]
 * [sugar](https://github.com/ruslo/sugar) -CMake工具和示例：收集源文件，警告抑制等.[```[BSD2]```] [BSD-2-Clause]
@@ -139,9 +140,9 @@
 * [cmake_test](https://github.com/skebanga/cmake_test)  -使用CMake的小型示例项目.  ```[无许可证]```
 * [android-cmake](https://github.com/forexample/android-cmake) -使用示例 [ruslo/hunter](https://github.com/ruslo/hunter)  Android应用程序的软件包管理器.  [```[BSD2]```] [BSD-2-Clause]
 * [hunter-simple](https://github.com/forexample/hunter-simple) -使用以下内容下载/安装依赖项的示例 [ruslo/hunter](https://github.com/ruslo/hunter)  包裹经理.  [```[BSD2]```] [BSD-2-Clause]
-* [weather](https://github.com/ruslo/weather) -使用示例 [Hunter](http://github.com/ruslo/hunter)  CMake跨平台程序包管理器，以构建使用Boost，CppNetlib.URI，GTest，JSON Spirit的应用程序.  平台：Windows（Visual Studio），Linux，Mac OS X + iOS.  [```[BSD2]```] [BSD-2-Clause]
+* [weather](https://github.com/ruslo/weather) -使用示例 [Hunter](http://github.com/ruslo/hunter)  CMake跨平台软件包管理器，以构建使用Boost，CppNetlib.URI，GTest，JSON Spirit的应用程序.  平台：Windows（Visual Studio），Linux，Mac OS X + iOS.  [```[BSD2]```] [BSD-2-Clause]
 * [package-example](https://github.com/forexample/package-example) -find_package的配置模式（例如 [this](http://stackoverflow.com/questions/20746936/cmake-of-what-use-is-find-package-if-you-need-to-specify-cmake-module-path-an)  堆栈溢出问题）.  ```[无许可证]```
-* [CMakeTemplates](https://github.com/OutOfOrder/CMakeTemplates)  -我在工作的每个游戏端口上使用的一组初始CMake模板.  ```[无许可证]```
+* [CMakeTemplates](https://github.com/OutOfOrder/CMakeTemplates)  -我用于每个游戏端口的一组初始CMake模板.  ```[无许可证]```
 * [minimal_cmake_example](https://github.com/krux02/minimal_cmake_example)  -最小的CMake示例，涵盖了依赖性和打包.  [```[CC0-1.0]```] [CC0-1.0]
 * [cmake-example](https://github.com/bast/cmake-example)  -演示各种CMake功能的示例项目.  [```[BSD3]```] [BSD-3-Clause]
 * [cmake-examples](https://github.com/ttroy50/cmake-examples)  -教程格式的有用CMake示例.  [```[MIT]```] [MIT]
@@ -155,23 +156,23 @@
 * [coveralls-cmake-example](https://github.com/JoakimSoderberg/coveralls-cmake-example) -的示例项目 [coveralls-cmake](https://github.com/JoakimSoderberg/coveralls-cmake) .  ```[无许可证]```
 * [cppbase](https://github.com/kartikkumar/cppbase)  -一个简单的基于CMake的C ++项目的模板.  [```[MIT]```] [MIT]
 * [Arduino-CMake-Template](https://github.com/maxbader/Arduino-CMake-Template)  -使用CMake开发Arduino的起点.  ```[无许可证]```
-* [c-template](https://github.com/fletcher/c-template)  -样板来设置ac项目，包括CuTest，CMake构建设置.  [```[MIT]```] [MIT]
+* [c-template](https://github.com/fletcher/c-template)  -设置交流项目的样板，包括CuTest，CMake构建设置.  [```[MIT]```] [MIT]
 * [cpp_project_template](https://github.com/duckie/cpp_project_template)  -简单的模板，可快速启动由CMake管理的C ++项目.  [```[MIT]```] [MIT]
 * [cpp-boilerplate](https://github.com/Lectem/cpp-boilerplate)  -旨在成为现代CMake和CI参考的模板.  [```[MIT]```] [MIT]
 * [ci_helloworld](https://github.com/ainfosec/ci_helloworld)  -一个简单的示例，说明如何为C和C ++设置完整的CI环境.  [```[MIT]```] [MIT]
-* [how-to-export-cpp-library](https://github.com/robotology/how-to-export-cpp-library)  -一个与操作系统无关的模板项目，用于导出共享的，静态的或仅标头的C ++库，支持ctest和CI支持，以纯CMake编写并带有逐行教程注释.  [```[MIT]```] [MIT]
-* [ModernCppCI](https://github.com/LearningByExample/ModernCppCI)  -使用CI进行现代C ++项目的示例（尽管它使用了诸如```include_directories（）```之类的非现代CMake）.  [```[MIT]```] [MIT]
+* [how-to-export-cpp-library](https://github.com/robotology/how-to-export-cpp-library)  -一个与操作系统无关的模板项目，用于导出共享的，静态的或仅标头的C ++库，支持ctest和CI，均以纯CMake编写并带有逐行教程注释.  [```[MIT]```] [MIT]
+* [ModernCppCI](https://github.com/LearningByExample/ModernCppCI)  -使用CI进行现代C ++项目的示例（尽管它使用了非现代CMake，如“ include_directories（）”）.  [```[MIT]```] [MIT]
 * [modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample)  -使用目标的最佳做法和CMake的正确用法.  ```[无许可证]```
 * [CMakeInstallExample](https://github.com/DeveloperPaul123/CMakeInstallExample)  -使用Cmake的C ++项目（Windows）的安装示例.  ```[无许可证]```
-* [cpp14-project-template](https://github.com/arnavb/cpp14-project-template)  -具有CI，测试，代码覆盖范围，文档和静态分析集成的C ++ 14模板.  [```[CC0-1.0]```] [CC0-1.0]
+* [cpp14-project-template](https://github.com/arnavb/cpp14-project-template)  -具有CI，测试，代码覆盖率，文档和静态分析集成的C ++ 14模板.  [```[CC0-1.0]```] [CC0-1.0]
 * [cmake_templates](https://github.com/acdemiralp/cmake_templates)  -用于创建C ++库和可执行文件（包括柯南）的模板.  ```[无许可证]```
-* [cmake_snippets](https://github.com/adishavit/cmake_snippets)  -简短的可复制粘贴的CMake片段.  [```[BSD3]```] [BSD-3-Clause]
+* [cmake_snippets](https://github.com/adishavit/cmake_snippets)  -简短的可粘贴复制的CMake片段.  [```[BSD3]```] [BSD-3-Clause]
 * [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)  -大量食谱的CMake食谱.  [```[MIT]```] [MIT]
 * [cpp-template](https://github.com/joshpeterson/cpp-template)  -使用CMake和Catch的模板C ++存储库.  ```[无许可证]```
 * [pitchfork](https://github.com/vector-of-bool/pitchfork)  -本机C和C ++项目的一组约定.  [```[MIT]```] [MIT]
 * [cleanCppProject](https://github.com/kracejic/cleanCppProject)  -使用现代CMake的项目模板，包括包装，测试，文档，静态/动态分析，CI.  [```[MIT]```] [MIT]
 * [cmake-examples](https://github.com/pr0g/cmake-examples)  -尽可能简单的现代CMake项目的集合.  [```[MIT]```] [MIT]
-* [cpp-project](https://github.com/bsamseth/cpp-project)  -C ++项目的样板-测试，CI，覆盖率，文档.  [```[UNLICENSE]```] [UNLICENSE]
+* [cpp-project](https://github.com/bsamseth/cpp-project)  -C ++项目的样板-测试，CI，覆盖率，文档.  [```[UNLICENSE]```&#39;&#39;[UNLICENSE]
 
 ## Other
 
@@ -199,7 +200,7 @@
 * [cmake_format](https://github.com/cheshirekow/cmake_format)  -CMakeLists.txt文件的源代码格式化程序.  [```[GPL]```] [GPL]
 * [cmake-checks-cache](https://github.com/cristianadam/cmake-checks-cache)  -CMake检查缓存帮助器模块.  [```[MIT]```] [MIT]
 * [cmrc](https://github.com/vector-of-bool/cmrc)  -单个CMake脚本中的资源编译器（将任意数据编译成程序）.  [```[MIT]```] [MIT]
-* [cmake_check](https://github.com/DaelDe/cmake_check)  -CMake语言的静态分析（线性分析）（例如，强制执行现代CMake规则）.  [```[MIT]```] [MIT]
+* [cmake_check](https://github.com/DaelDe/cmake_check)  -CMake语言的静态分析（线性）（例如，强制执行现代CMake规则）.  [```[MIT]```] [MIT]
 * [cmake-language-server](https://github.com/regen100/cmake-language-server)  -CMake语言服务器协议实现.  [```[MIT]```] [MIT]
 
 ## License
@@ -212,7 +213,7 @@
 [LGPL]：https://www.gnu.org/licenses/lgpl-3.0.en.html
 [MIT]：https://opensource.org/licenses/MIT
 [BOOST]：http://www.boost.org/LICENSE_1_0.txt
-[BSD-2-Clause]: https://opensource.org/licenses/BSD-2-Clause
+[BSD-2-Clause]：https://opensource.org/licenses/BSD-2-Clause
 [BSD-3-Clause]：https://opensource.org/licenses/BSD-3-Clause
 [APACHE2]：http://www.apache.org/licenses/LICENSE-2.0
 [CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/

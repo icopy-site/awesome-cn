@@ -27,13 +27,13 @@
 
 - [grblShield](https://github.com/synthetos/grblShield) -所有需要的步进电机控制硬件 [Arduino](https://www.arduino.cc)  使用grbl固件导入基于G代码的运动控制器.  （[adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG)  -功能更强大的基于6轴G代码的运动控制硬件.  （[adafruit](https://www.adafruit.com/product/1749))
-- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) -与Arduino兼容的Grbl步进电机控制罩，类似于 [grblShield](https://github.com/synthetos/grblShield).
+- [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) -与Arduino兼容的Grbl步进电机控制板，类似于 [grblShield](https://github.com/synthetos/grblShield).
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)  -带步进控制器的Raspberry Pi附加板和运行grbl的微控制器.  与Pi的串行引脚接口.
 
 ### Accessories
 
 - [WiFi232](http://biosrhythm.com/?page_id=1453)  -通过DB25插头Wifi到RS-232串行.  无线控制串行绘图仪.
-- [Plotter Cable Pinout](http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf)  -适用于大多数HP和Roland绘图仪的绘图仪电缆的示意图.  在eBay或Amazon上搜索“ DB9到DB25串行零调制解调器电缆”或类似的产品，以进行出售.
+- [Plotter Cable Pinout](http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf)  -适用于大多数HP和Roland绘图仪的绘图仪电缆的示意图.  在eBay或Amazon上搜索“ DB9到DB25串行零调制解调器电缆”或类似产品以查找出售.
 
 ### Pens
 
@@ -55,7 +55,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) -已扫描的PDF手册，其中包含完整的HPGL参考.
 - [djipco/hpgl](https://github.com/djipco/hpgl) -一个Node.js库，可与HPGL兼容的绘图仪和打印机进行通信.
 - [hp2xx](https://www.gnu.org/software/hp2xx)  -GNU工具，可将HPGL转换为其他矢量和栅格格式.  也可以在X11中用作预览.
-- [vec](https://github.com/anachrocomputer/vec) -用于生成HPGL的示例C代码，带有龟图形界面.
+- [vec](https://github.com/anachrocomputer/vec) -用于生成HPGL的C示例​​代码，带有龟图形界面.
 - [d3-hpgl](https://github.com/aubergene/d3-hpgl) -HTML Canvas API的适配器，因此您可以使用常用的输出HPGL [D3](https://d3js.org) 图书馆.
 - [HPGL Viewer](https://github.com/drskullster/HPGLViewer) -使用JavaScript和HTML5画布的HPGL Viewer.
 - [HPGL Sender](https://github.com/LgHS/hpgl-sender) -用于预览HPGL并将其发送到绘图仪的Web界面.
@@ -90,7 +90,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [RoboPaint](https://github.com/evil-mad/robopaint) -WaterColorBot的软件.
 - [AxiTurtle](https://github.com/ralphcrutzen/AxiTurtle) -处理中AxiDraw的龟图形.
 - [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter) -适用于grbl控制器的绘图仪优化的Windows GUI，具有SVG和DXF导入功能以及灵活的笔上/下控制功能.
-- [saxi](https://github.com/nornagon/saxi)  -AxiDraw的驱动程序和库.  使用恒定加速度运动计划，并自动调整为纸张大小.
+- [saxi](https://github.com/nornagon/saxi)  -AxiDraw的驱动程序和库.  使用恒定加速运动计划并自动调整大小到纸张.
 - [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) -用于将HPGL转换为Graphtec的GPGL格式的软件，以及用于Graphtec绘图仪笔适配器的CAD文件.
 
 
@@ -107,7 +107,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) -“ SquiggleDraw将使用亮度更改正弦波的幅度，从图像创建SVG文件”.
 - [svgurt](https://svgurt.com) -基于Web的PNG到SVG创意面条.
 - [maptrace](https://github.com/mzucker/maptrace) -通过跟踪栅格图像来生成水密多边形矢量地图.
-- [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) -创建可在绘图机器人上使用的G代码.
+- [Drawbot_image_to_gcode_v2](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) -创建用于绘画机器人的G代码.
 - [blackstripes](https://github.com/fullscreennl/blackstripes-python-extensions) -将PNG图像转换为SVG线图.
 - [Ribbon](https://github.com/fogleman/ribbon) -用Go语言编写的蛋白质带状图.
 - [penplot](https://github.com/mattdesl/penplot) -JavaScript中绘图仪艺术的开发环境.
@@ -135,7 +135,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 
 - [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) -良好的信息以及其他资源和字体的链接.
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)  -60年代矢量字体的`.fnt`格式.  很好地概述了字体的原始数据格式.
-- [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) -Hershey字体的C库和原始字体数据.
+- [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) -C库和好时字体的原始字体数据.
 - [OneLineFonts.com](https://www.onelinefonts.com) -具有一些单行字体的商业站点可供购买.
 
 ## Inspiration and Instruction
@@ -145,16 +145,16 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [An Intro to Pen Plotters](https://www.tobiastoft.com/posts/an-intro-to-pen-plotters) -有关旧HPGL绘图仪入门的良好信息.
 - [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future) -老式笔式绘图仪的另一个介绍.
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) -编程矢量路径的一些基础知识，包括排序，联接和简化.
-- [On Generative Algorithms](https://inconvergent.net/generative) -有趣的算法的美好的13部分演练.
+- [On Generative Algorithms](https://inconvergent.net/generative) -有趣的算法的漂亮的13部分演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) -罗兰平板绘图仪的快速入门指南.
 - [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) -有趣算法的详细说明和示例.
-- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) -并策划艺术家.
+- [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) -和策划艺术家.
 - [Hektor](http://juerglehni.com/works/hektor) -2002年的原始基于电缆的牵引机器人.
-- [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) -分为两部分的介绍，以创建用于绘图的生成图形.
+- [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) -分为两部分的介绍，介绍了如何生成绘图图形.
 - [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) -使用Python和penplot深入研究表面投影和隐藏线去除.
 - [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) -用于创建基于线的分形图形的技术.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) -绘图仪简介，AxiDraw，penplot库的演练.
-- [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) -用于旅行推销员问题（单路径）艺术的资源.
+- [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) -用于旅行业务员问题（单路径）艺术的资源.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) -讨论和指向线框的STL文件删除代码的链接.
 
 ## Community
@@ -166,7 +166,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Chiplotle-discuss](https://lists.columbia.edu/mailman/listinfo/chiplotle-discuss) -Chiplotle HPGL Python库的邮件列表非常不活跃，并带有一些一般的绘图仪说明.
-- [Plotter People](https://plotterpeople.github.io/) -举行个人见面会（到目前为止，SF和NYC），进行讲座和绘图员画廊.
+- [Plotter People](https://plotterpeople.github.io/) -与人进行的聚会（到目前为止，SF和NYC），包括演讲和绘图员画廊.
 
 ## Plotter Art For Sale
 
@@ -178,7 +178,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [EmergentDesign](https://emergentdesign.bigcartel.com/products)
 - [BustBright](https://mkt.com/bustbright)
 - [Martin O'Leary](https://shop.mewo2.com)
-- [Geoffrey Bradway](https://www.normedvector.space)
+- [Geoffrey Bradway](https://www.chromatocosmos.com/)
 - [Yuin Chien](http://store.yuinchien.com/)
 - [Andrew Heumann](https://shop.andrewheumann.com/)
 

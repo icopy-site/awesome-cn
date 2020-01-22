@@ -180,6 +180,8 @@
 - [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) -在给定分支前缀和可选语义版本的情况下剪切发行分支.
 - [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) -使用terraform-docs生成terraform模块的文档.
 - [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) -根据给定的发行版类型，给定语义版本（SemVer）.
+- [Read Properties](https://github.com/christian-draeger/read-properties) -从`.properties`文件中读取值.
+- [Write Properties](https://github.com/christian-draeger/write-properties) -将值写入.properties文件.
 
 ### Testing and Linting
 
@@ -271,6 +273,7 @@
 - [Merge Pal - automatically update and merge pull requests](https://github.com/maxkomarychev/merge-pal-action)
 - [Enforce naming convention on pull request title](https://github.com/deepakputhraya/action-pr-title)
 - [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
+- [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 
 ### GitHub Pages
 
