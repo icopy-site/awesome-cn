@@ -76,7 +76,8 @@
 28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) -在麻省理工学院设计的为期7天的训练营，旨在介绍深度学习方法和应用（2019）
 29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) -面向自学者的免费五周计划，以学习深度学习架构的基础，例如CNN，LSTM，RNN，VAE，GAN，DQN，A3C等（2019）
 30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) -OpenAI提供的免费深度强化学习课程（2019）
-31. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) Alex Smola和Mu Li（2019）
+31. [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) -通过NG的最佳课程进入AI.
+32. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) Alex Smola和Mu Li（2019）
 
 ### Videos and Lectures
 
@@ -377,7 +378,7 @@
 73. [NIST Fingerprint and handwriting](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://sequoyah.ncsl.nist.gov/pub/databases/data) -数据集-数千张图像（格式：未知）
 74. [NIST Fingerprint data](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) -压缩的多部分uuencoded tar文件 
 75. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) -颜色，CAT和MRI图像样本-超过30张图像（格式：jpeg）
-76. [National Design Repository](http://www.designrepository.org)  -超过55,000个3D CAD和（主要是）机械/机加工工程设计的实体模型.  （格式：gif，vrml，wrl，stp，sat） 
+76. [National Design Repository](http://www.designrepository.org)  -超过55,000个3D CAD和（主要是）机械/机械工程设计的实体模型.  （格式：gif，vrml，wrl，stp，sat） 
 77. [Geometric & Intelligent Computing Laboratory](http://gicl.mcs.drexel.edu) 
 79. [OSU (MSU) 3D Object Model Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/Models/) -几年来收集的几套3D对象模型用于对象识别研究（格式：自制软件，VRML）
 80. [OSU (MSU/WSU) Range Image Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/RID/) -数百个真实和合成图像（格式：gif，自制）
@@ -501,6 +502,7 @@
 50.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
 51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
 52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
+53.  [garage - A toolkit for reproducible reinforcement learning research](https://github.com/rlworkgroup/garage)
 
 ### Tools
 
@@ -508,6 +510,8 @@
 2.  [Jupyter Notebook](http://jupyter.org) -用于交互式计算的基于Web的笔记本环境
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) -TensorFlow的可视化工具包
 4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) -开发，调试和部署深度学习和AI解决方案
+5.  [dowel](https://github.com/rlworkgroup/dowel)  -用于机器学习研究的小记录器.  只需调用一次logger.log（），即可将任何对象记录到控制台，CSV，TensorBoard，文本日志文件等.
+6.  [Neptune](https://neptune.ml/) -用于实验跟踪和结果可视化的轻量级工具. 
 
 ### Miscellaneous
 

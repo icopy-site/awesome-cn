@@ -5,7 +5,7 @@
 
  互联网上充斥着越来越多的课程，书籍和指南，供各种技能水平的程序员用来提高他们的技能.  不幸的是，这些资源要么很难找到，要么质量很差.
 
- 该清单旨在成为精选的高质量教育资源.  突出显示了平台的成本以及所涵盖的主要主题.
+ 该清单旨在成为精选的高质量教育资源.  平台上免费内容的可用性以及所涵盖的主要主题都得到了强调.
 
 ## Beginner
 
@@ -22,12 +22,12 @@
 *（HTML，CSS，JavaScript，SQL）*
 
 #### [UpLeveled Learning Platform](https://learn.upleveled.io/)
-** Freemium **平台，用于学习Web开发的基础\
+**免费增值**平台，用于学习Web开发的基础\
 *（HTML，CSS，JavaScript）*
 
 #### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
-用于课程的**商业**平台，如何构建网站和应用\
-*（网页设计，前端Web开发，Rails，iOS，Android，PHP）*
+**付费**平台，用于课程如何构建网站和应用程序\
+*（网页设计，前端网页开发，Rails，iOS，Android，PHP）*
 
 #### [Learn CSS Layout](https://learnlayout.com/)
 **免费**教程，介绍如何使用CSS进行布局\
@@ -38,15 +38,15 @@
 *（HTML，CSS，JavaScript，Ruby，Rails，Python，iOS，Android）*
 
 #### [Code Avengers](https://www.codeavengers.com/)
-** Freemium **平台，用于基础网络和应用开发课程\
+**免费增值**平台，用于基础网络和应用开发课程\
 *（HTML，CSS，JavaScript）*
 
 #### [learn.shayhowe.com](https://learn.shayhowe.com/)
-**免费**网络开发初学者到中级指南\
+**免费**网络开发的初学者到中级指南\
 *（HTML，CSS，JavaScript）*
 
 #### [HTML Dog](https://www.htmldog.com/)
-**免费**网络开发初学者和中级指南\
+**免费**网站开发初学者和中级指南\
 *（HTML，CSS，JavaScript）*
 
 #### [Gibbon](https://gibbon.co/topics/programming)
@@ -78,7 +78,7 @@
 *(CSS)*
 
 #### [Hexlet.io](https://en.hexlet.io)
-**混合**自定进度的交互式项目，可学习JavaScript，C，正则表达式和一般计算机科学.  
+**混合**自定进度的交互式项目，用于学习JavaScript，C，正则表达式和一般计算机科学.  
 *（JavaScript，正则表达式，Bash，计算机科学，Ansible）*
 
 #### [Programming Historian](https://programminghistorian.org/en/lessons/)
@@ -104,7 +104,7 @@
 *（HTML，CSS，JavaScript，数据科学，Python，计算机科学主题）*
 
 #### [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
-**免费** *（仅本书）*初级和中级Python编程入门课程和课程\
+**付费的书籍和课程，供初学者通过中级Python编程\
 *（Python，面向对象程序设计，Web开发）*
 
 #### [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
@@ -116,7 +116,7 @@
 *（HTML，CSS，JavaScript，编程基础知识，系统管理等）*
 
 #### [Thinkful](https://www.thinkful.com/)
-**商业**平台，可指导行业专家指导的Web和移动开发课程\
+**付费**平台，可提供行业专家指导的网络和移动开发课程\
 *（网站开发，前端网站开发，AngularJS，Android，iOS）*
 
 #### [exercism.io](https://exercism.io/)
@@ -132,7 +132,7 @@
 *（编程，启动，iOS）*
 
 #### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48&sort=popular)
-**商业**网页开发课程平台\
+**付费**网页开发课程平台\
 *（JavaScript，AngularJS，Java）*
 
 #### [CodeChef Problems](https://www.codechef.com/problems/easy/)
@@ -167,23 +167,23 @@
 *（JavaScript，Node.js，React，函数式编程）*
 
 #### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
-麻省理工学院提供的有关高级计算机科学主题的**免费**课程\
-*（各种计算机科学主题，C，C ++等）*
+麻省理工学院提供的有关高级计算机科学主题的“免费”课程\
+*（各种广泛的计算机科学主题，C，C ++等）*
 
 #### [EDX](https://www.edx.org/course/subject/computer-science)
 哈佛，麻省理工学院和其他大学提供的**免费**课程\
-*（各种计算机科学学科，包括理论与编程，数据科学，算法等）*
+*（各种计算机科学学科，包括理论和编程，数据科学，算法等）*
 
 #### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
 **免费**平台，适用于来自全球大学和组织的课程\
-*（各种计算机科学学科，包括理论与编程，数据科学，算法等）*
+*（各种计算机科学学科，包括理论和编程，数据科学，算法等）*
 
 #### [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 从互联网上搜寻到的**免费**大学水平课程.\
-*（各种各样和广泛的计算机科学主题，...）*
+*（各种各样的计算机科学主题，...）*
 
 #### Metacademy [Roadmaps](https://metacademy.org/roadmaps/), [Course Guides](https://metacademy.org/course_guides/)
-掌握概念所需的相互关联主题的“免费”图表\
+掌握概念所需的相互关联的主题的“免费”图表\
 *（编程，机器学习）*
 
 #### [HackerRank](https://www.hackerrank.com/)

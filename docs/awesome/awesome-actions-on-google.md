@@ -48,6 +48,10 @@ With [Actions on Google](https://developers.google.com/actions/) ，您可以轻
 - [Build Actions for the Google Assistant (Level 1)](https://codelabs.developers.google.com/codelabs/actions-1/index.html)
 - [Build Actions for the Google Assistant (Level 2)](https://codelabs.developers.google.com/codelabs/actions-2/index.html)
 - [Build Actions for the Google Assistant (Level 3)](https://codelabs.developers.google.com/codelabs/actions-3/index.html)
+- [Engage Users with your Action](https://codelabs.developers.google.com/codelabs/actions-user-engagement/index.html)
+- [Extend an Android app to the Google Assistant with App Actions](https://codelabs.developers.google.com/codelabs/appactions/index.html)
+- [Smart Home Local Execution](https://codelabs.developers.google.com/codelabs/smarthome-local/index.html)
+- [Smart Home Washer](https://codelabs.developers.google.com/codelabs/smarthome-washer/index.html)
 - [Build Interactive Apps with Google Assistant](https://www.qwiklabs.com/quests/61) -6个实验室的Qwiklabs任务.
 - [Google Assistant development with Actions on Google](https://www.udemy.com/course/actions-on-google-app-google-assistant/) -Udemy课程，用于在Node.js中为Google Assistant和Google Home创建应用程序.
 - [Build Actions for Google Assistant](https://www.udemy.com/course/buildactionsforgoogleassistant/) -用Dialogflow建立动作的Udemy课程.

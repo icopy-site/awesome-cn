@@ -24,25 +24,26 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/archi
 - 14 - [Milano Live Coding](https://www.eventbrite.it/e/biglietti-milano-live-coding-14-gennaio-2020-87088150001) -Milano-使用three.js进行创意编码.
 - 21 - [Torino Hacknight](http://torino.hacknight.it/) -Torino-有关Userbase的开源hackaton.
 - 25 - [Modena Tech Summit](https://www.modenatechsummit.it/) -Modena-有关所有IT世界的技术大会.
-- 25-26 - [Hackafork](https://www.hackathon.com/event/hackafork-82168184251) -Fornovo di Taro-第一批食品专用的意大利hackaton.
+- 25-26 - [Hackafork](https://www.hackathon.com/event/hackafork-82168184251) -福诺沃·迪·塔罗（Fornovo di Taro）-最早的意大利美食.
 - 27-28 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) -米兰-微软年度会议.
 -2月31日- [Global Game Jam](https://globalgamejam.org/) -米兰-一个周末聚会，一起创造游戏.
 
 ## February
 - 1 - [Agile Venture Milano 2020](https://www.agilemovement.it/venture/2020/milano/) -米兰-新兴技术领域的敏捷.
 - 2-7 - [IxDA](https://interaction20.ixda.org/) -米兰-专门设计研讨会和讲座.
+- 15 - [Global Power Platform Bootcamp 2020](https://www.eventbrite.it/e/biglietti-global-power-platform-bootcamp-2020-milan-88686085469) -Milano-Microsoft的Power Platform重点活动.
 - 20 - [ServerlessDays 2020](https://rome.serverlessdays.io/) -Milano-有关无服务器技术的面向开发人员的会议.
 
 ## March
 - 4 - [A4I Agile for Innovation](https://www.agileforinnovation.com/) -米兰-敏捷概念如何在IT等领域发展.
 - 5-6 - [Incontro DevOps](https://2020.incontrodevops.it/) -博洛尼亚-为期2天的DevOps会议.
-- 6-8 - [Agile People Camp](https://agilemovement.it/agilepeoplecamp/) -Montegrotto Terme（PD）-敏捷的人性化一面.
+- 6-8 - [Agile People Camp](https://agilemovement.it/agilepeoplecamp/) -蒙特格罗托温泉（PD）-敏捷的人文一面.
 - 13 - [CSSDay](https://2020.cssday.it/) -Faenza（RA）-前端开发人员和设计师专用会议.
 - 13-14 - [QtDay 2020](https://www.qtday.it/) -Firenze-关于Qt的独特的意大利会议.
 - 19 - [CloudConf 2020](https://2020.cloudconf.it/) -都灵-欧洲有关云的最重要会议.
 - 25-26 - [European Immersive Computing Summit 2020](https://eicsummit.com/) -米兰-欧洲新兴技术峰会.
 - 27-28 - [Codemotion](https://events.codemotion.com/conferences/rome/2020/) -罗马-意大利最大的技术会议.
-- 28 - [Agile People Day](https://www.agilepeopleday.com/) -博洛尼亚-流程和工具上的个人和互动.
+- 28 - [Agile People Day](https://www.agilepeopleday.com/) -博洛尼亚-过程和工具上的个人和互动.
 
 ## April
 - 2 - [Ruby Day](https://2020.rubyday.it/) -维罗纳-Ruby专用会议.

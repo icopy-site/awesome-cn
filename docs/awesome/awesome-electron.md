@@ -76,7 +76,7 @@
 - [Tèsèvè](https://teseve.github.io) -静态网络服务器.
 - [DevDocs](https://github.com/egoist/devdocs-app) -非官方的DevDocs.io应用程序.
 - [Trendy](https://rhysd.github.io/Trendy/) -在菜单栏中趋势化GitHub存储库.
-- [google-music-electron](https://github.com/twolfson/google-music-electron) -非官方的Google音乐应用.
+- [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
 - [Pomodoro](https://g07cha.github.io/pomodoro/) -基于番茄时间技术的计时器.
 - [Sia-UI](http://sia.tech) -基于加密货币技术的分散文件存储系统.
 - [MarkRight](https://github.com/dvcrn/markright) -具有实时预览功能的GitHub风格的Markdown编辑器.
@@ -94,7 +94,7 @@
 - [Proton](https://github.com/steventhanna/proton) -带有实时预览的Markdown编辑器.
 - [James](https://github.com/uxebu/james) -HTTP代理以查看和拦截浏览器请求.
 - [DTCP](https://github.com/alchen/DTCP) -Twitter客户端.
-- [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
+- [Inbox](https://github.com/fgnass/inbox-app) -非官方的Google收件箱应用.
 - [alienbox](http://a9.io/alienbox/) -菜单栏中的Reddit收件箱和通知程序.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) -鸣叫录音播放器.
 - [Snippet Bar](https://github.com/teesloane/snippet-bar) -复制并重新使用菜单栏中的文本片段.
@@ -148,17 +148,17 @@
 - [Cerebro](https://github.com/KELiON/cerebro) -具有内联预览的启动器.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) -控制任何显示器的亮度.
 - [LosslessCut](https://github.com/mifi/lossless-cut) -无损视频修剪和切割.
-- [Buka](https://github.com/oguzhaninan/Buka) -电子书管理.
+- [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) -创建和管理HTTP请求.
 - [Tusk](https://github.com/champloohq/tusk) -非官方的Evernote应用.
-- [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
+- [ProtonMail Desktop](https://github.com/protonmail-desktop/application) -非官方的ProtonMail应用程序.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) -CSV编辑器.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) -密码管理器.
 - [Mailspring](https://github.com/Foundry376/Mailspring)  -可扩展的电子邮件客户端.  （尼拉斯邮件叉）
 - [Manta](https://github.com/hql287/Manta) -使用精美且可自定义的模板为自由职业者开具发票.
 - [Headset](https://github.com/headsetapp/headset-electron) -发现，收集和聆听YouTube音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) -来自免费资源的音乐播放器.
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
+- [Inboxer](https://github.com/denysdovhan/inboxer) -非官方的Google收件箱应用.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) -高级用户的文件管理器.
 - [Mark Text](https://github.com/marktext/marktext) -实时预览Markdown编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) -番茄计时器.
@@ -387,6 +387,7 @@
 - [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 
 - [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 
 - [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) -包括一些有关改善应用程序启动时间，调试崩溃等方面的很好的演讲.
+- [Make Your Electron App Feel at Home Everywhere](https://www.youtube.com/watch?v=fw4PmPaghyU) -在不牺牲自己风格的情况下使您的应用在macOS，Windows和Linux上更加原生的提示.
 
 ## Podcasts
 

@@ -91,6 +91,7 @@
 
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) -Web组件的API文档和实时游乐场.
 - [`<app-datepicker>`](https://github.com/motss/app-datepicker) -使用LitElement和Material Design 2构建的Datepicker元素.
+- [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) -单击时显示CodeSandbox演示的自定义元素.
 - [`<dile-modal>`](https://github.com/Polydile/dile-modal) -基于LitElement的Web组件，用于实现模式框.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) -由LitElement支持的数据表的Material Design实现.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) -Web组件，可轻松嵌入和播放Lottie动画.
@@ -102,7 +103,7 @@
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) -由Polymer团队提供的入门模板.
 - [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) -基于Open Web Components建议的Starter应用.
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) -生成器，用于使用TypeScript中的最新LitElement开发下一个自定义元素.
-- [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) - Client side application build with `@rxdi`, lit-html, GraphQL, dependency injection.
+- [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) -使用`@ rxdi`，lit-html，GraphQL，依赖项注入构建客户端应用程序.
 
 ## IDE Plugins
 
@@ -172,7 +173,23 @@
 
 ## Projects
 
-- [DevWeb Content Firehose](https://devwebfeed.appspot.com/)
+<table>
+  <tr>
+    <td>Name</td>
+    <td>网址</td>
+    <td>Source</td>
+  </tr>
+  <tr>
+    <td> DevWeb内容防火墙</td>
+    <td>https://devwebfeed.appspot.com</td>
+    <td> <a href="https://github.com/GoogleChromeLabs/devwebfeed">资源</a> </td>
+  </tr>
+  <tr>
+    <td> RX节拍器</td>
+    <td>https://rx-metronome.web.app</td>
+    <td> <a href="https://github.com/ydubinskyi/rx-metronome">资源</a> </td>
+  </tr>
+</table>
 
 ## Inspired Solutions
 

@@ -10,7 +10,7 @@
 
 *请阅读 [contribution guidelines](https://github.com/bnb/awesome-hyper/blob/master/CONTRIBUTING.md) 在捐款之前.*
 
-**查看官方 [Hyper site](https://hyper.is)， 查看 [Zeit](https://zeit.co)，以及他们有趣的托管产品， [Now](https://zeit.co/now).**
+**查看官方 [Hyper site](https://hyper.is), check out [Zeit](https://zeit.co)，以及他们有趣的托管产品， [Now](https://zeit.co/home).**
 
  是否要添加超棒的Hyper程序包，主题或资源？  进行更改并 [open a pull request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)!
 
@@ -43,7 +43,7 @@
 [hyperterm-focus-reporting](https://www.npmjs.com/package/hyperterm-focus-reporting)  -向Hyper添加焦点报告-与iTerm2类似.  | [![npm](https://img.shields.io/npm/dm/hyperterm-focus-reporting.svg?label=DL)](https://www.npmjs.com/package/hyperterm-focus-reporting)
 [hyperlinks](https://www.npmjs.com/package/hyperlinks)  -Hyper的扩展，可自动链接URL.  | [![npm](https://img.shields.io/npm/dm/hyperlinks.svg?label=DL)](https://www.npmjs.com/package/hyperlinks)
 [hyper-statusline](https://www.npmjs.com/package/hyper-statusline)  -状态行显示当前的cwd和git分支状态.  | [![npm](https://img.shields.io/npm/dm/hyper-statusline.svg?label=DL)](https://www.npmjs.com/package/hyper-statusline)
-[hyper-statusline-extended] https://github.com/bnb/awesome-hyper/blob/master/（https://npmjs.com/package/hyper-statusline-extended）重写并扩展了超状态Hyper 3的功能. [![npm](https://img.shields.io/npm/dm/hyper-statusline-extended.svg?label=DL)](https://github.com/bnb/awesome-hyper/blob/master/(https://npmjs.com/package/hyper-statusline-extended))
+[hyper-statusline-extended] https://github.com/bnb/awesome-hyper/blob/master/（https://www.npmjs.com/package/hyper-statusline-extended）重写并扩展了超状态线具有Hyper 3的更多功能. [![npm](https://img.shields.io/npm/dm/hyper-statusline-extended.svg?label=DL)](https://github.com/bnb/awesome-hyper/blob/master/(https://www.npmjs.com/package/hyper-statusline-extended))
 [hypernpm](https://www.npmjs.com/package/hypernpm)  -使用键盘快捷键运行npm脚本命令.  | [![npm](https://img.shields.io/npm/dm/hypernpm.svg?label=DL)](https://www.npmjs.com/package/hypernpm)
 [hyper-startup](https://www.npmjs.com/package/hyper-startup)  -在Hyper加载时执行所有已配置的命令.  | [![npm](https://img.shields.io/npm/dm/hyper-startup.svg?label=DL)](https://www.npmjs.com/package/hyper-startup)
 [hyper-fileio](https://www.npmjs.com/package/hyper-fileio) - Ephemeral file sharing direct from Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-fileio.svg?label=DL)](https://www.npmjs.com/package/hyper-fileio)
@@ -63,6 +63,7 @@
 [hyper-gcp-status-line](https://www.npmjs.com/package/hyper-gcp-status-line)  -状态行显示本地配置的GCP项目，GCE区域和Kubernetes上下文，以及当前的Google Cloud可用性.  | [![npm](https://img.shields.io/npm/dm/hyper-gcp-status-line.svg?label=DL)](https://www.npmjs.com/package/hyper-gcp-status-line)
 [hyperalfred](https://www.npmjs.com/package/hyperalfred) -从Alfred 3打开Hyper. [![npm](https://img.shields.io/npm/dm/hyperalfred.svg?label=DL)](https://www.npmjs.com/package/hyperalfred)
 [hyperinator](https://www.npmjs.com/package/hyperinator)  -布局自动化工具，例如tmuxinator for Hyper.  | [![npm](https://img.shields.io/npm/dm/hyperinator.svg?label=DL)](https://www.npmjs.com/package/hyperinator)
+[hyper-drop-file](https://www.npmjs.com/package/hyper-drop-file)  -将文件路径从文件资源管理器拖放到终端中.  | [![npm](https://img.shields.io/npm/dm/hyper-drop-file.svg?label=DL)](https://www.npmjs.com/package/hyper-drop-file)
 
 
 ## Customization
@@ -167,7 +168,7 @@
 [hyper-criollo](https://www.npmjs.com/package/hyper-criollo)  -基于蒸气波颜色的主题.  | [![npm](https://img.shields.io/npm/dm/hyper-criollo.svg?label=DL)](https://www.npmjs.com/package/hyper-criollo)
 [hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) -黑暗-Hyper的Darkmatter主题，灵感来自 [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme). | [![npm](https://img.shields.io/npm/dm/hyper-darkmatter.svg?label=DL)](https://www.npmjs.com/package/hyper-darkmatter)
 [hyper-dracula](https://www.npmjs.com/package/hyper-dracula) -基于Hyper的深色主题 [Dracula theme](https://draculatheme.com/hyper/). | [![npm](https://img.shields.io/npm/dm/hyper-dracula.svg?label=DL)](https://www.npmjs.com/package/hyper-dracula)
-[hyper-firewatch](https://www.npmjs.com/package/hyper-firewatch) - A dark Hyper theme inspired by Campo Santo's Firewatch video game. | [![npm](https://img.shields.io/npm/dm/hyper-firewatch.svg?label=DL)](https://www.npmjs.com/package/hyper-firewatch)
+[hyper-firewatch](https://www.npmjs.com/package/hyper-firewatch)  -黑暗的Hyper主题，灵感来自Campo Santo的Firewatch电子游戏.  | [![npm](https://img.shields.io/npm/dm/hyper-firewatch.svg?label=DL)](https://www.npmjs.com/package/hyper-firewatch)
 [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2)  -基于终端的Flat主题的Hyper的另一个Flat主题.  | [![npm](https://img.shields.io/npm/dm/hyper-flat-2.svg?label=DL)](https://www.npmjs.com/package/hyper-flat-2)
 [hyper-flat](https://www.npmjs.com/package/hyper-flat)  -Hyper的扁平主题.  | [![npm](https://img.shields.io/npm/dm/hyper-flat.svg?label=DL)](https://www.npmjs.com/package/hyper-flat)
 [hyper-frontend-delight](https://www.npmjs.com/package/hyper-frontend-delight)  -深色-基于Frontlight Determine iTerm2配色方案.  | [![npm](https://img.shields.io/npm/dm/hyper-frontend-delight.svg?label=DL)](https://www.npmjs.com/package/hyper-frontend-delight)
