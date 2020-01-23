@@ -10,7 +10,7 @@
 
 &gt;与以下内容相关的精选精选清单 [GitHub Actions](https://github.com/actions).
 
- 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或在容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
+ 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
 
 
 
@@ -36,7 +36,7 @@
 工作流程的工具动作.
 
 <!--lint ignore awesome-spell-check-->
-- [actions/github](https://github.com/actions/github) -将action-toolkit包装为通用GitHub自动化的Action.
+- [actions/github](https://github.com/actions/github) -将action-toolkit包装到Action中，以实现常见的GitHub自动化.
 - [actions/checkout](https://github.com/actions/checkout) -在工作流程上设置存储库.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) -从您的工作流程中上传工件.
 - [actions/download-artifact](https://github.com/actions/download-artifact) -从构建中下载工件.
@@ -140,21 +140,13 @@
 - [Run pandoc](https://github.com/maxheld83/pandoc) -瑞士军刀进行文件转换.
 - [Debug Action](https://github.com/hmarr/debug-action) -将环境变量和事件打印到“操作”日志中.
 - [Gate actions by filtering if files matching a pattern have been touched](https://github.com/cds-snc/github-actions/tree/master/touched)
-- [Scan for secrets in your source code](https://github.com/cds-snc/github-actions/tree/master/seekret)
-- [Review the licenses of your node dependencies](https://github.com/cds-snc/github-actions/tree/master/node-license-checker)
-- [A GitHub Action to check your project's dependencies](https://github.com/iheanyi/licensed-action)
-- [Check if package.json dependencies have changed](https://github.com/bencooper222/check-for-node-dep-changes)
-- [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
-- [Create an envfile](https://github.com/SpicyPizza/create-envfile)
 - [Update Maxmind Databases](https://github.com/meetup/maxmind-updater)
 - [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) -通过提供SSH连接直接调试操作.
 - [Unlock git-crypt files](https://github.com/sliteteam/github-action-git-crypt-unlock)
 - [Golang CGO cross compiler](https://github.com/crazy-max/ghaction-xgo)
-- [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)
-- [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Run your job on another architecture: arm32, aarch64 and others](https://github.com/uraimo/run-on-arch-action)
 - [Generate a table of contents](https://github.com/technote-space/toc-generator)
 - [Automatically add Label or Assignee to an Issue](https://github.com/Naturalclar/issue-action)
@@ -163,62 +155,76 @@
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
 - [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后对构建的Jekyll网站进行区分，并将结果注释回GitHub.
 - [Branch Protection Bot](https://github.com/benjefferies/branch-protection-bot) -在分支机构保护中暂时禁用并重新启用“包括管理员”选项.
-- [Next SemVers](https://github.com/WyriHaximus/github-action-next-semvers) -根据给定的semver版本输出主要，次要和补丁版本的下一个版本.
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) -等待所有状态和检查成功或其中任何一个失败，然后相应地设置其状态输出.
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) -从git获取上一个标签.
 - [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) -根据标题和说明创建一个新的开放里程碑.
 - [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) -关闭给定的里程碑.
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
-- [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
-- [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) -将AWS Secrets Manager机密定义为环境值.
 - [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)
 - [Action to lint Awesome lists](https://github.com/squadcastHQ/awesome-lint-action) -用途 [awesome-lint](https://github.com/sindresorhus/awesome-lint) 将出色列表作为动作.
 - [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
-- [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
-- [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) -在给定分支前缀和可选语义版本的情况下剪切发行分支.
-- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) -使用terraform-docs生成terraform模块的文档.
-- [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) -根据给定的发行版类型，给定语义版本（SemVer）.
 - [Read Properties](https://github.com/christian-draeger/read-properties) -从`.properties`文件中读取值.
 - [Write Properties](https://github.com/christian-draeger/write-properties) -将值写入.properties文件.
 
-### Testing and Linting
+#### Environments
 
-- [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
-- [Test your Actions Locally](https://github.com/tschoffelen/gha)
-- [Lint a Dockerfile](https://github.com/jwr0/dockerfile-linter-action) （使用plicatedhq / dockerfilelint）
-- [NPM Audit](https://github.com/JasonEtco/npm-audit-fix-action)
-- [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
+- [Create an envfile](https://github.com/SpicyPizza/create-envfile)
+- [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)
+- [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
+
+#### Dependencies
+
+- [Review the licenses of your node dependencies](https://github.com/cds-snc/github-actions/tree/master/node-license-checker)
+- [A GitHub Action to check your project's dependencies](https://github.com/iheanyi/licensed-action)
+- [Check if package.json dependencies have changed](https://github.com/bencooper222/check-for-node-dep-changes)
+- [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
+
+#### Semantic Versioning
+
+- [Next SemVers](https://github.com/WyriHaximus/github-action-next-semvers) -根据给定的semver版本输出主要，次要和补丁版本的下一个版本.
+- [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
+- [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) -在给定分支前缀和可选语义版本的情况下剪切发行分支.
+- [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) -根据给定的发行类型，碰撞给定的语义版本（SemVer）.
+
+### Static Analysis
+
+- [PHPQA toolsuite Action](https://github.com/mickaelandrieu/phpqa-ga)
 - [PHP Psalm Static code analyzer Action](https://github.com/mickaelandrieu/psalm-ga)
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
-- [PHPQA toolsuite Action](https://github.com/mickaelandrieu/phpqa-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
-- [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
-- [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/master/docker/github-action)
+- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec) 
+
+#### Testing
+
+- [Test your Actions Locally](https://github.com/tschoffelen/gha)
+- [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
+- [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
+- [Run codeception tests](https://github.com/joelwmale/codeception-action)
+- [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
+- [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
+- [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
+- [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
+
+#### Linting
+
+- [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
+- [Lint a Dockerfile](https://github.com/jwr0/dockerfile-linter-action) （使用plicatedhq / dockerfilelint）
+- [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
 - [Run ESLint with status checks and file diff annotations](https://github.com/gimenete/eslint-action)
 - [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
-- [Send your latest code coverage score to Coveralls.io](https://github.com/gavinhenderson/coveralls-action)
 - [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)
 - [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
 - [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
-- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec) 
 - [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
-- [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
-- [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)
-- [Send your code coverage to codecov.io](https://github.com/codecov/codecov-action)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
-- [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
-- [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)
-- [Run codeception tests](https://github.com/joelwmale/codeception-action)
-- [Audit a webpage with Google Chrome's Lighthouse tests](https://github.com/jakejarvis/lighthouse-action)
 - [Run `localheinz/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/localheinz/composer-normalize-action)
 - [Run Go lint checks on PR event](https://github.com/ArangoGutierrez/GoLinty-Action)
 - [Node.js - Automatically run the `format` and/or `lint` script used by the package](https://github.com/MarvinJWendt/run-node-formatter)
-- [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Stylelinter - GitHub Action that runs stylelint](https://github.com/exelban/stylelint)
 - [Run stylelint, with reviewdog output on the PR](https://github.com/reviewdog/action-stylelint)
 - [PyCodeStyle Action - A GitHub Action that leaves a comment on your PR with pycodestyle (autopep8) feedback](https://github.com/ankitvgupta/pycodestyle-action)
@@ -229,21 +235,35 @@
 - [Run mispell, with reviewdog output on the PR](https://github.com/reviewdog/action-misspell)
 - [Run golangci-lint, with reviewdog output on the PR](https://github.com/reviewdog/action-golangci-lint)
 - [Run shellcheck, with reviewdog output on the PR](https://github.com/reviewdog/action-shellcheck)
-- [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Catch insensitive, inconsiderate writing in your markdown docs](https://github.com/theashraf/alex-action)
-- [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
-- [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
-- [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
 - [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter)
 - [Run dotenv-linter, with reviewdog output on the PR](https://github.com/mgrachev/action-dotenv-linter)
 - [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action)
-- [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
 
-### Security
+#### Security
 
+- [NPM Audit](https://github.com/JasonEtco/npm-audit-fix-action)
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
 - [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)
+- [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
+- [Scan for secrets in your source code](https://github.com/cds-snc/github-actions/tree/master/seekret)
+- [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) -将AWS Secrets Manager机密定义为环境值.
+
+#### Code Coverage
+
+- [Send your latest code coverage score to Coveralls.io](https://github.com/gavinhenderson/coveralls-action)
+- [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)
+- [Send your code coverage to codecov.io](https://github.com/codecov/codecov-action)
+- [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)
+
+### Monitoring
+
+- [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/master/docker/github-action)
+- [Audit a webpage with Google Chrome's Lighthouse tests](https://github.com/jakejarvis/lighthouse-action)
+- [Runs Lighthouse and posts results to PRs and Slack](https://github.com/foo-software/lighthouse-check-action)
+- [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
+- [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 
 ### Pull Requests
 
@@ -318,14 +338,11 @@
 - [Deploy to Netlify](https://github.com/netlify/actions)
 - [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
 - [Deploy a playlist to Spotify](https://github.com/swinton/SpotHub)
-- [Deploy a serverless app to AWS Lambda with Up](https://github.com/apex/actions/tree/master/up)
-- [Deploy serverless infrastructure with AWS SAM](https://github.com/apex/actions/tree/master/aws/sam)
-- [Deploy a Node.js function to AWS Lambda and invoke it using the Serverless framework](https://github.com/swinton/serverless)
 - [Deploy VS Code extensions with vsce](https://github.com/lannonbr/vsce-action)
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
 - [Deploy via rsync over ssh](https://github.com/maxheld83/ghaction-rsync)
-- [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 - [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
+- [Purge Cloudflare cache after updating a website](https://github.com/jakejarvis/cloudflare-purge-action)
 - [Deploy your DNS configuration using DNS Control](https://github.com/koenrh/dnscontrol-action)
 - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
 - [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
@@ -337,33 +354,51 @@
 - [GitHub Action for zem](https://github.com/artemnovichkov/action-zem)
 - [GitHub Action for Homebrew](https://github.com/artemnovichkov/action-homebrew)
 - [GitHub Action for Homebrew Tap](https://github.com/izumin5210/action-homebrew-tap)
-- [Deploy Lambda code to an existing function](https://github.com/appleboy/lambda-action)
 - [Copy files and artifacts via SSH](https://github.com/appleboy/scp-action)
 - [Executing remote ssh commands](https://github.com/appleboy/ssh-action)
-- [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl)
-- [Update a Docker Hub repository description from README.md](https://github.com/peter-evans/dockerhub-description)
-- [Purge Cloudflare cache after updating a website](https://github.com/jakejarvis/cloudflare-purge-action)
-- [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
 - [Publish a Python distribution package to PyPI](https://github.com/pypa/gh-action-pypi-publish)
 - [Deploy Static Website to Azure Storage](https://github.com/feeloor/azure-static-website-deploy)
 - [Cross platform Chocolatey CLI to build and publish packages](https://github.com/crazy-max/ghaction-chocolatey)
 - [Deploy iOS Pod Library to Cocoapods](https://github.com/michaelhenry/deploy-to-cocoapods-github-action)
 - [GitHub Action for TencentCloud Serverless](https://github.com/Juliiii/action-scf)
 - [Publish npm (pre)releases](https://github.com/epeli/npm-release/)
-- [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
-- [Get Kubeconfig File From Google Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig)
 - [Deploy a static site to Surge.sh](https://github.com/yavisht/deploy-via-surge.sh-github-action-template)
 - [GitHub Action for GoReleaser, a release automation tool for Go projects](https://github.com/goreleaser/goreleaser-action)
 - [FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions](https://github.com/SamKirkland/FTP-Deploy-Action)
 - [Publish Article to Dev.to](https://github.com/tylerauerbeck/publish-to-dev.to-action)
 - [Action For Semantic Release](https://github.com/cycjimmy/semantic-release-action)
 - [Deploy a Collection to Ansible Galaxy](https://github.com/artis3n/ansible_galaxy_collection)
-- [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
 - [Publish module to Puppet Forge](https://github.com/barnumbirr/action-forge-publish)
 - [Build and publish Electron apps](https://github.com/samuelmeuli/action-electron-builder)
 - [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
 - [Build and deploy a theme to Ghost CMS](https://github.com/TryGhost/action-deploy-theme)
 - [Deploy an Ansible role to Ansible Galaxy](https://github.com/robertdebock/galaxy-action)
+
+#### Docker
+
+- [Update a Docker Hub repository description from README.md](https://github.com/peter-evans/dockerhub-description)
+- [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
+- [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
+
+#### Kubernetes
+
+- [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
+- [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl)
+- [Get Kubeconfig File From Google Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig)
+
+#### AWS
+
+- [Deploy a serverless app to AWS Lambda with Up](https://github.com/apex/actions/tree/master/up)
+- [Deploy serverless infrastructure with AWS SAM](https://github.com/apex/actions/tree/master/aws/sam)
+- [Deploy a Node.js function to AWS Lambda and invoke it using the Serverless framework](https://github.com/swinton/serverless)
+- [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
+- [Deploy Lambda code to an existing function](https://github.com/appleboy/lambda-action)
+
+#### Terraform
+
+- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) -使用terraform-docs生成terraform模块的文档.
+- [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
+
 
 ### External Services
 
@@ -388,7 +423,6 @@
 - [Runs a WebPageTest audit and prints the results as commit comment](https://github.com/JCofman/webPagetestAction)
 - [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo)
 - [Generate OG Image](https://github.com/BoyWithSilverWings/generate-og-image) -从Markdown文件生成可自定义的打开图形图像.
-- [Runs Lighthouse and posts results to PRs and Slack](https://github.com/foo-software/lighthouse-check-action)
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook)
 
 ### Internet of Things (IOT)
@@ -402,18 +436,15 @@
 - [Query Experiment Tracking Results From Weights & Biases](https://github.com/machine-learning-apps/wandb-action)
 - [Run Parameterized Jupyter Notebooks](https://github.com/yaananth/run-notebook)
 
-### Performance Monitoring
-
-- [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
-
-### Cheat Sheet
-
-- [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
-
 ### Build
 
 - [run-cmake](https://github.com/lukka/run-cmake) -使用以下平台构建C / C ++软件的多平台操作 [CMake](https://cmake.org) 和 [Ninja](https://ninja-build.org/).
 - [run-vcpkg](https://github.com/lukka/run-vcpkg) -使用以下命令构建和安装C / C ++依赖项的多平台操作 [vcpkg](https://github.com/microsoft/vcpkg).
+- [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
+
+### Cheat Sheet
+
+- [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
 
 ## Tutorials
 

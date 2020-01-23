@@ -109,7 +109,7 @@
 
 - [styled-components](https://github.com/styled-components/styled-components) -组件年龄的视觉原语
 - [emotion](https://github.com/emotion-js/emotion) -用于使用JavaScript编写CSS样式的库
-- [radium](https://github.com/FormidableLabs/radium) -用于React组件样式的工具链
+- [radium](https://github.com/FormidableLabs/radium) -用于React组件样式化的工具链
 - [jss](https://github.com/cssinjs/jss) -CSS创作工具
 
 ##### React Routing
@@ -144,18 +144,18 @@
 - [react-draggable](https://github.com/mzabriskie/react-draggable) -反应可拖动组件
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -React的可调整大小和可拖动组件
 - [react-resizable](https://github.com/strml/react-resizable) -一个简单的React组件，可以通过手柄调整其大小
-- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -React的可调整大小的组件
+- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -用于React的可调整大小的组件
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) -React的可排序和可调整大小的窗格组件
-- [react-spaces](https://github.com/aeagle/react-spaces) -可调整大小，可锚定，可滚动的嵌套组件
+- [react-spaces](https://github.com/aeagle/react-spaces) -可调整大小的嵌套，锚定，可滚动组件
 - [react-dates](https://github.com/airbnb/react-dates) -适用于网络的易于国际化，移动友好的日期选择器库
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
-- [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
+- [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做得正确
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
-- [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型keydown包装器
+- [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型按键包装
 - [react-joyride](https://github.com/gilbarbara/react-joyride) -为您的应用程序创建导览
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) -React组件，可有效呈现大型列表和表格数据
 - [react-window](https://github.com/bvaughn/react-window) -React组件，可有效呈现大型列表和表格数据
@@ -176,7 +176,7 @@
 - [jest](https://github.com/facebook/jest) -令人愉快的JavaScript测试框架
 - [enzyme](https://github.com/airbnb/enzyme) -用于React的JavaScript测试实用程序
 - [react-testing-library](https://github.com/testing-library/react-testing-library) -简单而完整的React DOM测试实用程序
-- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -React hooks测试实用程序，鼓励良好的测试实践
+- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -React钩子测试实用程序，鼓励良好的测试实践
 - [majestic](https://github.com/Raathigesh/majestic) -玩笑的零配置GUI
 
 ##### React Libraries
@@ -208,16 +208,16 @@
 - [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
 - [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibiility in separation of concerns for your React applicationss](https://github.com/Autodesk/clearx)
-- [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态静态呈现
+- [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态预呈现
 - [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
 - [refract](https://github.com/fanduel-oss/refract) -利用反应式编程的力量为您的组件增压
 - [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 - [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 - [react-extras](https://github.com/sindresorhus/react-extras) -使用React的有用组件和实用程序
-- [react-instantsearch](https://github.com/algolia/react-instantsearch) -通过Algolia快速搜索React和React Native应用程序
+- [react-instantsearch](https://github.com/algolia/react-instantsearch) -Algolia快速搜索React和React Native应用程序
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
 - [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
-- [react-esi](https://github.com/dunglas/react-esi) -React Edge侧面包括
+- [react-esi](https://github.com/dunglas/react-esi) -反应边缘侧包括
 - [hookstate](https://github.com/avkonst/hookstate) -基于钩子的React的现代，非常快速和可扩展的状态管理
 
 ##### React Integration
@@ -312,6 +312,7 @@
 - [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 - [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
 - [Formal - Elegant form management primitives for the react hooks era](https://github.com/iamkevinwolf/formal)
+- [react-hook-form - Performant, flexible and extensible forms with easy to use validation](https://github.com/react-hook-form/react-hook-form)
 
 ##### Autocomplete
 
@@ -711,6 +712,6 @@
 
 ### Contribution
 
- 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始测试时，它是一个特殊的脚本，可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+ 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始处于Beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

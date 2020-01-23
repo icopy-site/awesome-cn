@@ -10,7 +10,7 @@
 
 ## Reference material
 
-如果您知道此列表中包含任何特别有用的博客文章，讲座，幻灯片等，请打开请求请求！
+如果您知道此列表中包含任何特别有用的博客文章，演讲，幻灯片等，请打开请求请求！
 
 * [Official documentation](https://docs.influxdata.com/influxdb/latest/)
 * IoT世界中的InfluxDB. [Part 1: Introduction](https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/) | [Part 2: Hosting and scaling on AWS](https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/) | [Part 3: Plotting graphs using Grafana](https://www.easyitblog.info/2017/11/26/influxdb-in-iot-world-making-it-production-ready-part-3/)
@@ -19,7 +19,7 @@
 
 ### Official
 
-* [C#](https://github.com/influxdata/influxdb-csharp) -一个.NET库，用于将点有效发送到InfluxDB
+* [C#](https://github.com/influxdata/influxdb-csharp) -一个.NET库，用于有效地将点发送到InfluxDB
 * [Go](https://github.com/influxdata/influxdb1-client) -Go InfluxDB 1.x客户端
 * [Java](https://github.com/influxdata/influxdb-java) -InfluxDB的Java客户端
 * [PHP](https://github.com/influxdata/influxdb-php) -InfluxDB的PHP客户端
@@ -66,15 +66,15 @@
 * [influxdb-logger](https://github.com/codersaur/SmartThings/tree/master/smartapps/influxdb-logger) -SmartApp记录 [SmartThings](https://www.smartthings.com/) 设备属性到InfluxDB数据库
 * [influxdb-sqlserver](https://github.com/zensqlmonitor/influxdb-sqlserver) -收集Microsoft SQL Server指标以向InfluxDB报告并使用Grafana可视化
 * [k6](https://github.com/loadimpact/k6) -使用Go和JavaScript的现代负载测试工具
-* [marathon-event-metrics](https://github.com/Wikia/marathon-event-metrics) -报告工具 [Marathon](https://mesosphere.github.io/marathon/) InfluxDB事件
+* [marathon-event-metrics](https://github.com/Wikia/marathon-event-metrics) -报告工具 [Marathon](https://mesosphere.github.io/marathon/) 事件到InfluxDB
 * [mesos-influxdb-collector](https://github.com/kpacha/mesos-influxdb-collector) 轻巧 [mesos](https://mesos.apache.org/) InfluxDB的统计信息收集器
 * [mqforward](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) 到influxdb转发器
 * [node-opcua-logger](https://github.com/coussej/node-opcua-logger) -从OPC UA服务器收集工业数据 
-* [ntp_checker](https://github.com/fss1/ntp_checker) -比较内部NTP源并警告服务器之间的偏移量是否超过可定义的（分数）秒
+* [ntp_checker](https://github.com/fss1/ntp_checker) -比较内部NTP源并警告服务器之间的偏移量是否超过可定义的（秒）秒
 * [proc_to_influxdb](https://github.com/d-led/proc_to_influxdb) -通过InfluxDB观察Windows进程启动和停止的控制台应用程序
 * [pysysinfo_influxdb](https://github.com/nagylzs/pysysinfo_influxdb) -定期将系统信息发送到influxdb（使用python3 + psutil，因此在Windows下也可以使用）
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) -收集系统（linux）信息并将其发送到InfluxDB
-* [snmpcollector](https://github.com/toni-moreno/snmpcollector) -具有用于InfluxDB的Web管理界面的功能齐全的通用SNMP数据收集器
+* [snmpcollector](https://github.com/toni-moreno/snmpcollector) -具有用于InfluxDB的Web管理界面的全功能通用SNMP数据收集器
 * [Telegraf](https://github.com/influxdata/telegraf) -（官方）插件驱动的服务器代理，用于向InfluxDB报告指标
 * [tesla-streamer](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) -将数据从Tesla Model S传输到InfluxDB（[rake task](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 * [traffic_stats](https://traffic-control-cdn.readthedocs.io/en/latest/overview/traffic_stats.html) -获取并存储由CDN控制的CDN的统计信息 [Apache Traffic Control](https://trafficcontrol.apache.org/)
@@ -82,11 +82,11 @@
 
 #### Non-dedicated
 
-包含生成数据的工具，这些数据可馈入多个后端（包括InfluxDB）.
+包含生成数据的工具，这些数据馈入多个后端（包括InfluxDB）.
 
 * [cAdvisor](https://github.com/google/cadvisor) -分析正在运行的容器的资源使用情况和性能特征
 * [Centreon](https://github.com/centreon/centreon) -网络，系统，应用监督和监视工具
-* [cernan](https://github.com/postmates/cernan) -遥测和日志记录聚合服务器
+* [cernan](https://github.com/postmates/cernan) -遥测和日志聚合服务器
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) -将指标从发送到InfluxDB / Graphite [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
 * [crankshaftd](https://github.com/fullcontact/crankshaftd) -简单的Go代理从中提取流数据 [Turbine](https://github.com/Netflix/Turbine) 通过SSE并将其作为量规推入StatsD或InfluxDB
 * [Domoticz](https://www.domoticz.com) -开源家庭自动化系统
@@ -95,10 +95,10 @@
 * [Graphios](https://github.com/shawn-sterling/graphios) -将nagios性能数据发送到石墨（碳）/ statsd / librato / influxDB的程序
 * [heapster](https://github.com/kubernetes-retired/heapster) -监视容器资源的使用情况 [Kubernetes](https://kubernetes.io/) 簇
 * [heka](https://github.com/mozilla-services/heka) -通用数据收集和处理工具
-* [internet_data_usage](https://github.com/precurse/internet_data_usage) -基于Python的应用程序，可为Telus和Koodo等不同运营商提取数据计划的使用情况
+* [internet_data_usage](https://github.com/precurse/internet_data_usage) -基于Python的应用程序，可为Telus和Koodo等不同运营商提取数据计划使用情况
 * [ioBroker](http://www.iobroker.net/) -家庭自动化/ IoT平台使用Influxdb进行存储 [history data](https://github.com/ioBroker/ioBroker.influxdb/blob/master/README.md)
-* [jmxtrans](https://github.com/jmxtrans/jmxtrans) -实际上，缺少了通过一端通过JMX与JVM对话以及可以在另一端实现的任何日志记录/监视/图形包之间的连接器.
-* [Apache JMeter](https://jmeter.apache.org/usermanual/realtime-results.html) -流行的负载测试工具，您可以通过InfluxDBBackendListenerClient将实时结果发送到后端，该客户端可以使用UDP或HTTP协议将指标（活动线程，响应时间...）发送到InfluxDB后端
+* [jmxtrans](https://github.com/jmxtrans/jmxtrans) -实际上，缺少了通过一端通过JMX与JVM对话以及可以在另一端实现的任何日志记录/监视/图形化软件包之间的连接器.
+* [Apache JMeter](https://jmeter.apache.org/usermanual/realtime-results.html) -流行的负载测试工具，您可以通过InfluxDBBackendListenerClient将实时结果发送到后端，从而可以使用UDP或HTTP协议将指标（活动线程，响应时间...）发送到InfluxDB后端
 * [logary](https://github.com/logary/logary) -用于mono和.net的高性能，多目标日志记录，指标和运行状况检查库
 * [metrics.sh](https://github.com/pstadler/metrics.sh) -使用可移植的shell脚本收集和转发指标
 * [OpenHAB](https://www.openhab.org/) -适用于家庭自动化所有事物的通用集成平台
@@ -106,7 +106,7 @@
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) -使用StatsD的简单JVM配置文件
 * [statsite](https://github.com/statsite/statsite) -C实现statsd
 * [Sematext Agent](https://github.com/sematext/sematext-agent-integrations) - [Open source monitoring agent](https://sematext.com/blog/now-open-source-sematext-monitoring-agent/)  通过可插拔集成从Solr，Elasticsearch，Cassandra，JVM，JMX，ClickHouse，MySQL，Hadoop等收集指标.  通过Influx Line Protocol输出到InfluxDB或 [Sematext Cloud](https://sematext.com/cloud/)
-* [logagent](https://github.com/sematext/logagent-js)  -是一个现代的，开源的，轻量级的原木托运人.  Logagent包括 [influxdb input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) 和 [influxdb output plugin](https://sematext.com/docs/logagent/output-plugin-influxdb/) 和 many other [integrations](https://sematext.com/docs/logagent/plugins/) 
+* [logagent](https://github.com/sematext/logagent-js)  -是现代的，开源的，轻量级的原木托运人.  Logagent包括 [influxdb input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) 和 [influxdb output plugin](https://sematext.com/docs/logagent/output-plugin-influxdb/) 和 many other [integrations](https://sematext.com/docs/logagent/plugins/) 
 
 ### Libraries
 
@@ -116,7 +116,7 @@
 * [django-influxdb-metrics](https://github.com/bitlabstudio/django-influxdb-metrics) -可重用的Django应用，可将有关您的项目的指标发送到InfluxDB
 * [go-runtime-metrics](https://github.com/tevjef/go-runtime-metrics) -收集golang运行时指标，输出到InfluxDB或通过Telegraf
 * [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) - [OpenResty](https://openresty.org/en/) InfluxDB的客户端
-* [metrics](https://github.com/beberlei/metrics)  -（PHP）抽象不同指标收集器的简单库.  “我认为有必要拥有一个一致且简单的指标（功能）API，而不会导致供应商锁定”
+* [metrics](https://github.com/beberlei/metrics)  -（PHP）抽象不同指标收集器的简单库.  “我认为有必要拥有一致且简单的指标（功能）API，而不会导致供应商锁定”
 * [pyVsphereInflux](https://github.com/fennm/pyVsphereInflux) -用于从中提取数据的库和支持脚本 [vSphere](https://www.vmware.com/products/vsphere.html) 并将其插入InfluxDB
 * [telemetry](https://github.com/arussellsaw/telemetry) -Go应用程序的指标报告
 
@@ -141,7 +141,7 @@
 * [metrics-influxdb](https://github.com/davidB/metrics-influxdb) -一位记者 [dropwizard](https://www.dropwizard.io/0.9.1/docs/) 向InfluxDB服务器发布度量的度量
 * [mod-influxdb](https://github.com/savoirfairelinux/mod-influxdb) - [Shinken](http://www.shinken-monitoring.org/) 用于将数据导出到InfluxDB的模块
 * [sensu-plugins-influxdb](https://github.com/sensu-plugins/sensu-plugins-influxdb) - [Sensu](https://sensu.io/) InfluxDB插件
-* [sidekiq-influxdb](https://github.com/vassilevsky/sidekiq-influxdb) - 一种 [Sidekiq](https://sidekiq.org/) 将作业执行指标发送到InfluxDB的中间件
+* [sidekiq-influxdb](https://github.com/vassilevsky/sidekiq-influxdb) - 一种 [Sidekiq](https://sidekiq.org/) 中间件将作业执行指标发送到InfluxDB
 * [snap-plugin-publisher-influxdb](https://github.com/intelsdi-x/snap-plugin-publisher-influxdb) -出版 [snap](https://github.com/intelsdi-x/snap) InfluxDB的指标
 * [statsd-influxdb-backend](https://github.com/bernd/statsd-influxdb-backend) -用于StatsD的天真InfluxDB后端
 * [logagent influx input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) -Logagent插件通过Influx线路协议接收数据  
@@ -151,7 +151,7 @@
 ### Import tools
 
 用于将一组固定的数据导入InfluxDB的工具.
-* [JMeter2InfluxDB](https://github.com/soprasteria/jmeter2influxdb) -在负载测试后，将JMeter的结果读取到一个csv文件中，并将结果放入InfluxDB中
+* [JMeter2InfluxDB](https://github.com/soprasteria/jmeter2influxdb) -在负载测试之后，将JMeter的结果读取到一个csv文件中，并将结果放入InfluxDB中
 * [nmon2influxdb](https://github.com/adejoux/nmon2influxdb) -进口 [nmon](http://nmon.sourceforge.net/pmwiki.php) 文件到InfluxDB
 
 ## Consuming data from InfluxDB
@@ -179,8 +179,7 @@
 工具，库等可帮助您无需手动安装即可运行InfluxDB.
 
 * [chef-influxdb](https://github.com/bdangit/chef-influxdb) -InfluxDB的厨师食谱
-* [golja-influxdb](https://github.com/dgolja/golja-influxdb) -用于InfluxDB的Puppet模块
-* [influxdb-formula](https://github.com/saltstack-formulas/influxdb-formula) -安装和配置InfluxDB时间序列数据库
+* [golja-influxdb](https://github.com/dgolja/golja-influxdb) -用于InfluxDB的人偶模块
 * [influxdb-release](https://github.com/pivotal-cf-experimental/influxdb-release) -InfluxDB的实验性BOSH版本
 * [puppet-telegraf](https://forge.puppet.com/datacentred/telegraf/readme) -Telegraf的人偶模块
 * [rossmcdonald/influxdb](https://github.com/rossmcdonald/influxdb) -用于安装，配置和维护InfluxDB的角色
@@ -189,14 +188,14 @@
 ## Queries
 
 * [dbal-influxdb](https://github.com/corley/dbal-influxdb) -适用于InfluxDB的教义DBAL
-* [Influxdb::Arel](https://github.com/undr/influxdb-arel)  -Influxdb :: Arel是用于InfluxDB方言的SQL AST管理器.  它简化了复杂SQL查询的生成
+* [Influxdb::Arel](https://github.com/undr/influxdb-arel)  -Influxdb :: Arel是InfluxDB方言的SQL AST管理器.  它简化了复杂SQL查询的生成
 * [influxer](https://github.com/palkan/influxer) -InfluxDB ActiveRecord样式
 
 ## Hosting of InfluxDB / SaaS
 
 * [InfluxCloud](https://cloud.influxdata.com/plan-picker) -来自InfluxDB的创建者
 * [Aiven](https://aiven.io/influxdb) -提供主机（AWS，Google，DigitalOcean等），地理位置和服务器规格的选择
-* [Scalingo](https://scalingo.com/databases/influxdb) -提供服务器规格选择
+* [Scalingo](https://scalingo.com/databases/influxdb) -提供选择的服务器规格
 * [HostedMetrics](https://hostedmetrics.com/product/influxdb/) -通过托管InfluxDB，Grafana和StatsD的组合来实现自定义应用程序监视
 
 
@@ -205,7 +204,7 @@
 似乎不适合其他类别的项目.
 
 * [influx-protector](https://github.com/ve-global/influx-protector) -代理以防止危险查询进入influxdb
-* [influxdb-schema-updater](https://github.com/open-ch/influxdb-schema-updater) -一个小的DevOps工具，用于使用一组配置文件来管理InfluxDB实例的架构
+* [influxdb-schema-updater](https://github.com/open-ch/influxdb-schema-updater) -一个小的DevOps工具，用于使用一组配置文件来管理InfluxDB实例的模式
 * [influx-prompt](https://github.com/RPing/influx-prompt) -具有自动完成功能的交互式命令行InfluxDB CLI
 
 ## Other awesome lists

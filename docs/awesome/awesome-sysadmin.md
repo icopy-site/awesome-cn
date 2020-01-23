@@ -8,7 +8,7 @@
 
 ## Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**精选的令人赞叹的开源sysadmin资源列表.**请阅读 [CONTRIBUTING](https://github.com/n1trux/awesome-sysadmin/blob/master/./.github/CONTRIBUTING.md) 如果您想添加软件并考虑 [donating](https://github.com/n1trux/awesome-donations) 定期使用的FLOSS项目.
+**精选的惊人的开源sysadmin资源列表.**请阅读 [CONTRIBUTING](https://github.com/n1trux/awesome-sysadmin/blob/master/./.github/CONTRIBUTING.md) 如果您想添加软件并考虑 [donating](https://github.com/n1trux/awesome-donations) 定期使用的FLOSS项目.
 
   * 云储存： [see awesome-selfhosted#file-transfersynchronization](https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization)
   *协作软件： [see awesome-selfhosted#groupware](https://github.com/Kickball/awesome-selfhosted#groupware)
@@ -33,7 +33,7 @@
 
 ## Backups
 
-*备份软件.*另请参见 [Restic's list of Linux backup software](https://github.com/restic/others).
+*备份软件.*另请参阅 [Restic's list of Linux backup software](https://github.com/restic/others).
 
 * [Amanda](http://www.amanda.org/) -客户端-服务器模型备份工具.
 * [Bareos](http://www.bareos.org/en/) -Bacula备份工具的分支.
@@ -45,8 +45,8 @@
 * [Duplicati](http://www.duplicati.com) -多个后端，加密，Web UI和多操作系统备份工具.
 * [Duplicity](http://duplicity.nongnu.org/) -使用rsync算法加密的带宽有效备份.
 * [Elkarbackup](https://github.com/elkarbackup/elkarbackup) -基于RSnapshot的备份解决方案，具有简单的Web界面
-* [Lsyncd](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
-* [rclone](https://rclone.org/) -一个命令行程序，用于在多个云存储系统/提供程序之间来回同步文件和目录.
+* [Lsyncd](https://github.com/axkibe/lsyncd) -文件监视器，它生成用于同步更改的进程（默认情况下为rsync）.
+* [rclone](https://rclone.org/) -一个命令行程序，用于与多个云存储系统/提供程序之间来回同步文件和目录.
 * [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) -轻松的远程增量备份所有文件.
 * [Restic](https://restic.net/)  -安全的远程备份工具.  设计简便，快速，可验证且高效.
 * [Rsnapshot](http://rsnapshot.org/) -文件系统快照实用程序.
@@ -62,7 +62,7 @@
 
 * [EasyBuild](https://easybuild.readthedocs.org/en/latest/) -EasyBuild以高效的方式为高性能计算（HPC）系统构建软件和模块文件.
 * [environment-modules Lmod](https://www.tacc.utexas.edu/research-development/tacc-projects/lmod) -Lmod是基于Lua的模块系统，可以轻松处理MODULEPATH分层问题.
-* [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) -HPCBIOS是一种努力的工作，旨在跨多个HPC系统和站点（包括文档）建立一个通用的，文档记录良好且可复制的环境.
+* [HPCBIOS](http://hpcbios.readthedocs.org/en/latest/) -HPCBIOS致力于建立跨越多个HPC系统和站点（包括文档）的通用，文档完善且可重现的环境.
 * [Spack](https://spack.io/) -灵活的软件包管理器，支持多个版本，配置，平台和编译器.
 
 ## ChatOps
@@ -93,7 +93,7 @@
 *克隆软件.*
 
 * [Clonezilla](http://clonezilla.org/) -分区和磁盘映像/克隆程序.
-* [Fog](https://www.fogproject.org/) -另一种计算机克隆解决方案.
+* [Fog](https://www.fogproject.org/) -另一台计算机克隆解决方案.
 
 ## Cloud Computing
 
@@ -104,7 +104,7 @@
 * [Cracow Cloud One - Polish Private Cloud](http://cc1.ifj.edu.pl/) -CC1系统为私有云计算提供了完整的解决方案.
 * [Eucalyptus](https://www.eucalyptus.cloud/) -具有AWS兼容性的私有云软件.
 * [Flynn](https://flynn.io) -PaaS
-* [Mesos](http://mesos.apache.org/) -开发和运行资源高效的分布式系统.
+* [Mesos](http://mesos.apache.org/) -开发和运行资源节约型分布式系统.
 * [OpenNebula](http://opennebula.org/) -用于系统管理员和开发人员的用户驱动的云管理平台.
 * [Openshift](http://www.openshift.org) -Red Hat的PaaS产品.
 * [OpenStack](https://www.openstack.org/) -建立私有和公共云.
@@ -123,7 +123,6 @@
 * [MCollective](https://puppet.com/mcollective) -由Puppet实验室开发的用于管理服务器编排的Ruby框架.
 * [Overcast](http://andrewchilds.github.io/overcast/) -在不同的云提供商之间部署VM，并通过SSH在所有或所有VM中并行运行命令和脚本.
 * [Rundeck](http://rundeck.org/) -简单的编排工具.
-* [Salt](http://saltstack.com/) -用Python / ZeroMQ编写的快速，可扩展和灵活的系统管理软件.
 * [Spruce](https://github.com/geofffranks/spruce)  -一种将单独的YAML文件合并为一个的工具.  适用于 [Genesis](https://github.com/starkandwayne/genesis).
 * [StackStorm](https://stackstorm.com/)  -用于基础架构管理的事件驱动运营和ChatOps平台.  用Python编写.
 * [Terraform](https://www.terraform.io/) -Terraform与许多云提供商合作，并通过代码创建基础架构.
@@ -131,9 +130,9 @@
 
 ## Code Review
 
-*基于Web的协作代码审核系统.*
+*基于Web的协作代码审查系统.*
 
-* [Gerrit](https://www.gerritcodereview.com/) -基于Git版本控制，它使软件开发人员可以查看对源代码的修改并批准或拒绝这些更改.
+* [Gerrit](https://www.gerritcodereview.com/) -基于Git版本控制，它使软件开发人员可以方便地查看对源代码的修改并批准或拒绝这些更改.
 * [Phabricator](http://phabricator.org/) -由Facebook构建的代码审查工具，并由WikiMedia，FB，Dropbox等使用.它带有集成的Wiki，错误跟踪器，VC集成和称为arcanist的CLI工具.
 * [Review Board](https://www.reviewboard.org/) -根据MIT许可可作为免费软件获得.
 
@@ -158,17 +157,16 @@
 * [Chef](https://www.chef.io/chef/) -它是用Ruby和Erlang编写的，并使用纯Ruby DSL.
 * [Pallet](http://palletops.com/) -通过Clojure DSL进行基础架构定义，配置和管理.
 * [Puppet](https://puppet.com/) -它是用Ruby编写的，并使用Puppet的声明性语言或Ruby DSL.
-* [Salt](http://saltstack.com/) -用Python编写.
 
 ## Continuous Integration & Continuous Deployment
 
 *持续集成/部署软件.
 
 - [Buildbot](http://buildbot.net/)  -基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
-- [CapsuleCD](https://analogj.github.io/capsulecd-slides/)  -CD脚本，用于自动执行软件包/库的发布（npm，菜谱，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）`MIT`` Go`
-- [Concourse](https://concourse.ci/)  -Concourse是一种CI工具，可将管道视为一流的对象，并对沿途的每个步骤进行容器化.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）`Apache-2.0``Go`
-- [drone](https://drone.io/)  -Drone是一个用Go语言编写的基于Docker的持续交付平台.  （[Source Code](https://github.com/drone/drone)）`Apache-2.0``Go`
-- [Factor](http://www.factor.io/)  -以编程方式定义和运行工作流，以连接配置管理，源代码管理，构建，持续集成，持续部署和通信工具.  （[Source Code](https://github.com/factor-io/factor)）``MIT&#39;&#39;Ruby`
+- [CapsuleCD](https://analogj.github.io/capsulecd-slides/)  -CD脚本，用于自动执行软件包/库的发布（npm，菜谱，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）MIT``去
+- [Concourse](https://concourse.ci/)  -Concourse是一种CI工具，可将管道视为一流的对象，并沿途对每个步骤进行容器化.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）Apache-2.0`Go`
+- [drone](https://drone.io/)  -Drone是一个用Go语言编写的基于Docker的持续交付平台.  （[Source Code](https://github.com/drone/drone)）Apache-2.0`Go`
+- [Factor](http://www.factor.io/)  -以编程方式定义和运行工作流程，以连接配置管理，源代码管理，构建，持续集成，持续部署和通信工具.  （[Source Code](https://github.com/factor-io/factor)``MIT&#39;&#39;红宝石
 - [GitLab CI](https://about.gitlab.com/gitlab-ci/)  -Gitlab的内置功能齐全的CI / CD解决方案.  （[Source Code](https://gitlab.com/gitlab-org/gitlab-ce) MIT Ruby红宝石
 - [GoCD](http://www.go.cd/)  -连续交付服务器.  （[Source Code](https://github.com/gocd/gocd)）Apache-2.0 Java / Ruby
 - [GolangCI](https://golangci.com/)  -用于Go的开源自动代码审查服务，与GitHub拉取请求集成.  （[Source Code](https://github.com/golangci/golangci)）`AGPL-3.0``Go`
@@ -192,7 +190,7 @@
   * [Virtualmin](http://www.virtualmin.com/) -基于webmin的Linux主机面板.
 * DNS
   * [Atomia DNS](http://atomiadns.com/) -DNS管理系统.
-  * [nsedit](https://github.com/tuxis-ie/nsedit) -nsedit是PowerDNS的DNS编辑器，可与PowerDNS的新API一起使用.
+  * [nsedit](https://github.com/tuxis-ie/nsedit) -nsedit是PowerDNS的DNS编辑器，与PowerDNS的新API一起使用.
   * [PDNS Gui](https://github.com/odoucet/pdns-gui) -WebGUI，它有助于通过MySQL管理PowerDNS的域和记录.
   * [Pi-hole](https://pi-hole.net/) -带有用于管理和监视的gui的Internet广告黑洞
   * [Poweradmin](http://www.poweradmin.org/) -用于PowerDNS服务器的友好的基于Web的DNS管理工具.
@@ -203,14 +201,14 @@
   * [WebVirtMgr](https://retspen.github.io) -基于libvirt的Web界面，用于管理虚拟机.
 *服务器
   * [Ajenti](http://ajenti.org/) -Linux和BSD的控制面板.
-  * [Cockpit](http://cockpit-project.org/) -用于以C语言编写的Linux服务器的新的多服务器Web界面.
+  * [Cockpit](http://cockpit-project.org/) -用于用C编写的Linux服务器的新的多服务器Web界面.
   * [Webmin](http://www.webmin.com/) -Linux服务器控制面板.
 
 ## Deployment Automation
 
 *支持部署到服务器的工具和脚本.*
 
-* [Capistrano](http://capistranorb.com/) -通过SSH（基于rake）将应用程序同时，按顺序或作为滚动集同时部署到任意数量的计算机上.
+* [Capistrano](http://capistranorb.com/) -将应用程序同时，顺序或通过SSH（基于rake）作为滚动集同时部署到任意数量的计算机上.
 * [Fabric](http://www.fabfile.org/) -Python库和cli工具，用于简化SSH在应用程序部署或系统管理任务中的使用.
 * [Mina](http://nadarei.co/mina/) -真正快速的部署程序和服务器自动化工具（基于耙）.
 * [munki](https://www.munki.org/munki/) -基于Web服务器的软件包和软件包元数据存储库，允许macOS管理员管理软件安装.
@@ -228,7 +226,7 @@
 * [LeoFS](http://leo-project.net) -非结构化对象/数据存储以及高度可用的分布式最终一致的存储系统.
 * [GlusterFS](http://www.gluster.org/) -横向扩展网络附加存储文件系统.
 * [Go IPFS](https://github.com/ipfs/go-ipfs) - 实施 [IPFS](http://ipfs.io/)，一个全局的，版本化的对等文件系统，旨在将所有计算设备与同一文件系统连接起来.
-* [HDFS](http://hadoop.apache.org/) -用Java为Hadoop框架编写的分布式，可伸缩和可移植文件系统.
+* [HDFS](http://hadoop.apache.org/) -用Java编写的Hadoop框架的分布式，可伸缩和便携式文件系统.
 * [Lustre](http://lustre.org/) -并行分布式文件系统，通常用于大规模集群计算.
 * [MooseFS](http://www.moosefs.org/) -容错的网络分布式文件系统.
 * [MogileFS](http://mogilefs.org/) -应用程序级别，网络分布式文件系统.
@@ -246,7 +244,7 @@
 * [Bind](https://www.isc.org/downloads/bind/) -使用最广泛的名称服务器软件.
 * [CoreDNS](https://coredns.io/) -在Go上编写的灵活的DNS服务器.
 * [djbdns](http://cr.yp.to/djbdns.html) -DNS应用程序的集合，包括tinydns.
-* [Designate](https://wiki.openstack.org/wiki/Designate) -支持多个DNS服务器作为后端的DNS REST API.
+* [Designate](https://wiki.openstack.org/wiki/Designate) - DNS REST API that support several DNS servers as its backend.
 * [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) -轻量级服务，可为小型网络提供DNS，DHCP和TFTP服务.
 * [Knot](https://www.knot-dns.cz/) -高性能的仅权威DNS服务器.
 * [NSD](http://www.nlnetlabs.nl/projects/nsd/) -仅权威，高性能，简单的名称服务器.
@@ -280,7 +278,7 @@
 * [Micro](https://micro-editor.github.io/) -现代，直观的基于终端的文本编辑器
 * [Notepad++](https://notepad-plus-plus.org/) -GPLv2多语言编辑器，用于Windows突出显示语法.
 * [TextMate](https://github.com/textmate/textmate/) -OS X的图形文本编辑器.
-* [Vim](http://www.vim.org) -高度可配置的文本编辑器，可实现高效的编辑.
+* [Vim](http://www.vim.org) -高度可配置的文本编辑器，可实现高效编辑.
 * [Visual Studio Code](https://code.visualstudio.com/) -Microsoft提供的开源跨平台可扩展代码编辑器
 * [Nano](http://nano-editor.org) -易于使用，可自定义的文本编辑器.
 
@@ -309,8 +307,8 @@
 * [Pomerium](https://www.pomerium.io/) -受BeyondCorp启发的身份和上下文感知访问代理.
 * [Samba](https://www.samba.org/) – Active Directory和CIFS协议实施.
 * [BounCA](https://bounca.org/) -基于Web的个人SSL密钥/证书颁发机构的工具，用于创建自签名证书.
-* [easy-rsa](https://github.com/OpenVPN/easy-rsa) -用于创建和管理PKI CA的bash脚本.
-* [Smallstep Certificates](https://smallstep.com/certificates/) -专用证书颁发机构（X.509和SSH）和相关工具，用于安全的自动证书管理.
+* [easy-rsa](https://github.com/OpenVPN/easy-rsa) -bash脚本，用于构建和管理PKICA.
+* [Smallstep Certificates](https://smallstep.com/certificates/) -专用证书颁发机构（X.509＆SSH）和相关工具，用于安全的自动证书管理.
 
 ## IT Asset Management
 
@@ -333,7 +331,7 @@
 * [GoAccess](http://goaccess.io/)  -在终端中或通过浏览器运行的实时Web日志分析器和交互式查看器.  （[Source Code](https://github.com/allinurl/goaccess)）MIT C
 * [Graylog](https://www.graylog.org/) -具有警报选项的可插拔日志和事件分析服务器.
 * [Hindsight](http://mozilla-services.github.io/hindsight/) -可以用于日志聚合的流处理系统（替换Heka）.
-* [Kibana](https://www.elastic.co/products/kibana) -可视化日志和时间戳数据.
+* [Kibana](https://www.elastic.co/products/kibana) -可视化日志和带时间戳的数据.
 * [Logstash](https://www.elastic.co/products/logstash) -用于管理事件和日志的工具.
 * [Octopussy](http://www.octopussy.pm) -日志管理解决方案（可视化/警报/报告）.
 
@@ -353,8 +351,8 @@
 * [Adagios](http://adagios.org/) -用于配置和监视的基于Web的Nagios界面（替换为标准界面）以及REST界面， [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
 * [Alerta](https://github.com/guardian/alerta) -分布式，可伸缩和灵活的监视系统.
 * [Bloonix](https://bloonix.org)  -Bloonix是一种监视解决方案，可帮助企业确保高可用性和性能.  GPLv3 Perl
-* [bolo](http://bolo.niftylogic.com/) -一个自己动手的监控框架，旨在收集指标，挖掘数据并报告网络中的系统.
-* [Bosun](http://bosun.org/) -通过Stack Exchange监视和警报系统（[Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)）`MIT`` Go`
+* [bolo](http://bolo.niftylogic.com/) -自己动手监控框架，旨在收集指标，挖掘数据并报告网络中的系统.
+* [Bosun](http://bosun.org/) -通过Stack Exchange监视和警报系统（[Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)）MIT``去
 * [Cacti](http://www.cacti.net) -基于Web的网络监视和绘图工具.
 * [Cabot](http://cabotapp.com/) -监视和警报，类似于PagerDuty.
 * [cadvisor](https://github.com/google/cadvisor) -分析正在运行的容器的资源使用情况和性能特征（[Source Code](https://github.com/google/cadvisor)）`Apache``Go`
@@ -365,7 +363,7 @@
 * [eZ Server Monitor](http://www.ezservermonitor.com) -适用于Linux的轻巧简单的仪表板监视器，可在Web和Bash应用程序中使用.
 * [Flapjack](http://flapjack.io/) -监视通知路由和事件处理系统.
 * [Healthchecks](https://healthchecks.io/) -监视cron作业，后台服务和计划任务.
-* [Icinga](https://www.icinga.org/)  -Nagios前叉，此后已将nagios研磨了几次.  带有集群监视的可能性-（[Source Code](https://github.com/Icinga)）-`GPLv2`
+* [Icinga](https://www.icinga.org/)  -Nagios前叉，此后已将Nagios研磨了几次.  带有集群监视的可能性-（[Source Code](https://github.com/Icinga)）-`GPLv2`
 * [LibreNMS](http://www.librenms.org) -功能齐全的网络监控系统，可提供丰富的功能和设备支持.
 * [Monit](http://mmonit.com/monit/#home) -用于管理和监视Unix系统的小型实用程序.
 * [Munin](http://munin-monitoring.org/) -网络资源监控工具.
@@ -396,7 +394,7 @@
 
 ## Metric & Metric Collection
 
-*度量收集和显示软件.*
+*指标收集和显示软件.
 
 *仅收藏家
   * [Diamond](https://github.com/BrightcoveOS/Diamond) -基于Python的统计信息收集守护程序.
@@ -410,8 +408,8 @@
 *仪表板
   * [Grafana](http://grafana.org/) -Graphite＆InfluxDB仪表板和图形编辑器.
   * [Ganglia](http://ganglia.sourceforge.net/)  -基于高性能，可扩展RRD的服务器网格和/或群集监视.  使用单个收集过程即可与Graphite兼容.
-  * [RRDtool](http://oss.oetiker.ch/rrdtool/) -用于时间序列数据的行业标准高性能数据记录和图形系统.
-  * [Dashing](http://dashing.io/)  -允许快速统计仪表板开发的Ruby gem.  全HTML5方法允许在数据中心或会议室中大屏幕显示.
+  * [RRDtool](http://oss.oetiker.ch/rrdtool/) -时间序列数据的行业标准高性能数据记录和图形系统.
+  * [Dashing](http://dashing.io/)  -Ruby gem，允许快速统计仪表板开发.  全HTML5方法允许在数据中心或会议室中大屏幕显示.
   * [Facette](http://facette.io) -用Go语言编写的时间序列数据可视化和绘图软件.
   * [Freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
 
@@ -442,7 +440,7 @@
 
 * [DadaMail](http://dadamailproject.com/) -用Perl编写的邮件列表管理器.
 * [phpList](https://www.phplist.com/) -用PHP编写的新闻通讯管理器.
-* [LibreMailer](https://github.com/averna-syd/LibreMailer) -Libre Mailer是一个谦虚且简单的基于Web的电子邮件营销应用程序.
+* [LibreMailer](https://github.com/averna-syd/LibreMailer) -Libre Mailer是一款谦虚且简单的基于Web的电子邮件营销应用程序.
 * [Lewsnetter](https://github.com/bborn/lewsnetter)  -电子邮件营销应用程序（通过SES创建和发送电子邮件通讯）.  包括订阅管理，传递，退信和投诉通知，模板以及一些统计信息.
 
 ## NoSQL
@@ -452,9 +450,9 @@
 *列族
   * [Apache HBase](http://hbase.apache.org/) -Hadoop数据库，一个分布式大数据存储.
   * [Cassandra](http://cassandra.apache.org/) -分布式DBMS，旨在处理许多服务器上的大量数据.
-  * [Hypertable](http://hypertable.org/) -基于C ++的类似BigTable的DBMS，可以通过Thrift进行通信，并且可以独立运行，也可以在诸如Hadoop的分布式FS上运行.
+  * [Hypertable](http://hypertable.org/) -基于C ++的类似BigTable的DBMS，通过Thrift进行通信，并可以独立运行，也可以在诸如Hadoop的分布式FS上运行.
 *文件存储
-  * [CouchDB](http://couchdb.apache.org/) -易于使用，带有多主复制的面向文档的数据库系统.
+  * [CouchDB](http://couchdb.apache.org/) -易于使用，具有多主复制的面向文档的数据库系统.
   * [ElasticSearch](https://www.elastic.co/) -基于Java的数据库，受日志聚合和电子邮件归档项目欢迎.
   * [MongoDB](https://www.mongodb.org/) -另一个面向文档的数据库系统.
   * [RavenDB](http://ravendb.net/) -具有ACID /事务功能的基于文档的数据库.
@@ -506,7 +504,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 
 ## Remote Management
 
-* [Tiger VNC](http://tigervnc.org/) -TigerVNC是VNC（虚拟网络计算）的高性能，与平台无关的实现，VNC是一种客户端/服务器应用程序，允许用户在远程计算机上启动图形应用程序并与之交互.
+* [Tiger VNC](http://tigervnc.org/) -TigerVNC是VNC（虚拟网络计算）的高性能，与平台无关的实现，该客户端/服务器应用程序允许用户启动远程计算机上的图形应用程序并与之交互.
 * [Remmina](http://www.remmina.org/wp/) -适用于Linux和其他Unix的功能丰富的远程桌面应用程序.
 * [X2go](http://wiki.x2go.org/doku.php) -X2Go是使用NX技术协议的Linux开源远程桌面软件.
 * [rdpwrap](https://github.com/stascorp/rdpwrap) -RDP包装器库，可在功能简化的系统上支持远程桌面主机和并发RDP会话，以供家庭使用.
@@ -516,17 +514,17 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [Consul](https://www.consul.io/) -Consul是用于服务发现，监视和配置的工具.
 * [Doozerd](https://github.com/ha/doozerd) -Doozer是高度可用的，完全一致的存储区，用于存储少量极其重要的数据.
 * [etcd](https://github.com/coreos/etcd) -分布式K / V商店，通过SSL PKI和REST HTTP Api进行身份验证以进行共享配置和服务发现.
-* [ZooKeeper](http://zookeeper.apache.org/) -ZooKeeper是用于维护配置信息，命名，提供分布式同步和提供组服务的集中式服务.
+* [ZooKeeper](http://zookeeper.apache.org/) -ZooKeeper是集中式服务，用于维护配置信息，命名，提供分布式同步和提供组服务.
 
 ## Software Containers
 
 *操作系统级虚拟化.
 
-* [Docker](http://www.docker.com/) -开发人员和系统管理员用于构建，交付和运行分布式应用程序的平台.
+* [Docker](http://www.docker.com/) -开发人员和系统管理员用于构建，发布和运行分布式应用程序的平台.
   * [Docker Compose](https://docs.docker.com/compose/) -定义并运行多容器Docker应用程序.
   * [Docker Swarm](https://docs.docker.com/engine/swarm/) -管理Docker引擎集群.
   * [Portainer](https://portainer.io/) -Docker的简单管理UI.
-* [LXC](https://linuxcontainers.org/lxc/) -Linux内核包含功能的用户空间接口.
+* [LXC](https://linuxcontainers.org/lxc/) -Linux内核包含功能的用户空间界面.
   * [LXD](https://linuxcontainers.org/lxd/) –容器“管理程序”和用于LXC的更好的UX.
 * [OpenVZ](http://openvz.org) -用于Linux的基于容器的虚拟化.
 
@@ -608,7 +606,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [Nginx](http://nginx.org/) -反向代理，负载平衡器，HTTP缓存和Web服务器.
 * [uWSGI](https://github.com/unbit/uwsgi/) -uWSGI项目旨在开发用于构建托管服务的完整堆栈.
 
-*网络性能.*
+*网络性能*
 
 * [HAProxy](http://www.haproxy.org/) -基于软件的负载平衡，SSL卸载和性能优化，压缩以及常规Web路由.
 * [Varnish](https://www.varnish-cache.org/) -基于HTTP的Web应用程序加速器，专注于优化缓存和压缩.
@@ -621,8 +619,8 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 
 * [Code as Craft](https://codeascraft.com/) -Etsy的Ops博客，大量技术文章.
 * [DevOpsGuys](http://blog.devopsguys.com/) -通过博客撰写有关运营的Devops顾问.
-* [Rackspace Developers](https://developer.rackspace.com/blog/) -带有许多Devops主题的偏颇博客.
-* [RoseHosting Blog](https://www.rosehosting.com/blog/)  -通过Linux命令行安装和配置各种软件的Linux教程.  不同Linux技术和应用程序的指南和介绍.  您可以通过Linux命令行及其他方法完成的提示和技巧.
+* [Rackspace Developers](https://developer.rackspace.com/blog/) -带有很多Devops主题的偏颇博客.
+* [RoseHosting Blog](https://www.rosehosting.com/blog/)  -通过Linux命令行安装和配置各种软件的Linux教程.  不同Linux技术和应用程序的指南和介绍.  您可以通过Linux命令行以及其他更多技巧和窍门.
 
 ## Books
 
@@ -632,8 +630,8 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) -William Shotts撰写的有关Linux命令行的书.
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) -DevOps技术如何解决IT组织中发生的问题.
 * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) -第一版和第二版描述了独立于特定平台或技术的系统和网络管理的最佳实践.
-* [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) -是一种旨在快速实施控制和流程改进的方法.
-* UNIX和Linux系统管理手册（ISBN-13：978-0131480056）-从实际角度进行系统管理.
+* [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) -是一种旨在快速实施控制措施和流程改进的方法.
+* UNIX和Linux系统管理手册（ISBN-13：978-0131480056）-从实用的角度进行系统管理.
 
 ## Communities / Forums
 
@@ -651,7 +649,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 ## Newsletters
 
 * [Servers for Hackers](https://serversforhackers.com/) -给发现自己需要了解服务器周围方式的程序员的通讯.
-* [Web Operations Weekly](http://webopsweekly.com/) -关于Web操作，基础架构，性能和工具的每周新闻，从浏览器到摘要.
+* [Web Operations Weekly](http://webopsweekly.com/) -有关Web操作，基础架构，性能和工具的每周新闻，从浏览器到摘要.
 
 ## Repositories
 
@@ -669,21 +667,21 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [EPEL](https://fedoraproject.org/wiki/EPEL) -RHEL和兼容版本的存储库（CentOS，科学Linux）.
 * [IUS](https://ius.io/) -社区项目，为企业Linux发行版的选定软件的较新版本提供RPM软件包.
 * [Remi](http://rpms.famillecollet.com/) -具有用于RHEL / Centos / Fedora的LAMP更新软件包的存储库.
-* [Software Collections](https://www.softwarecollections.org) -的社区发布 [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/) .  为CentOS / Scientific Linux 6.x提供Ruby，Python等更新包.
+* [Software Collections](https://www.softwarecollections.org) -社区发布 [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/) .  为CentOS / Scientific Linux 6.x提供Ruby，Python等更新包.
 
 ## Websites
 
 *有用的系统管理员相关网站.*
 
-* [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com)  -您的SysAdmin工具箱.  基于此处的列表.
+* [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com)  -您的SysAdmin工具箱.  根据此处的列表.
 * [Ops School](http://www.opsschool.org) -全面的计划，将帮助您学习成为一名运维工程师.
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) -令人惊讶的庞大资源，可用于获取某些应用程序，工具甚至系统管理主题的基础知识.
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) -令人惊讶的巨大资源，可用于获取某些应用程序，工具甚至系统管理主题的基础知识.
 
 ## Wikis
 
 *对系统管理员有用的Wiki –不要与Wiki软件混淆.*
 
-* [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki，其中有非常不错的书面文章，适用于其他发行版.
+* [ArchWiki](https://wiki.archlinux.org/) – Arch Linux Wiki，其中有非常好的书面文章对其他发行版有效.
 * [Gentoo Wiki](https://wiki.gentoo.org/) -Gentoo Linux Wiki，其中包含许多有关Linux组件的详细说明.
 
 ## License

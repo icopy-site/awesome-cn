@@ -138,7 +138,7 @@
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) -林特
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
-	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
+	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) -任务赛跑者.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) -您可以在30秒内理解的代码段.
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme) -安全，现代，对程序员友好且快速的Apple编译语言.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
@@ -576,7 +576,7 @@
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted#readme)
 - [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme)
-- [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
+- [Gulp](https://github.com/alferov/awesome-gulp#readme) -任务赛跑者.
 - [AMA](https://github.com/sindresorhus/amas#readme) -随便问我.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
@@ -616,7 +616,6 @@
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实施与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
-- [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) -基于Python的配置管理系统.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) -对于数字设计师.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) -负载测试和性能评估工具.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) -编写具有表现力的东西，而不是编写功能性的东西.
@@ -629,7 +628,7 @@
 - [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) -意大利的技术相关活动.
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) -荷兰的技术相关活动.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) -适用于设施，提供商，开发商，政策专家和研究人员的开源医疗软件.
-- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) -使用PHP构建的开源电子商务.
+- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) -用于TeX / LaTeX / ConTeXt的图形绘图包.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) -研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) -无广告替代品.

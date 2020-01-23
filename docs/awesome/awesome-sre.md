@@ -431,6 +431,7 @@
 * [GopherSRE](http://www.gophersre.com/) -有关Go和SRE的博客文章.
 * [Cindy Sridharan](https://medium.com/@copyconstruct) -有关分布式系统及其管理的博客文章.
 * [Blameless Blog](https://www.blameless.com/blog/) -有关SRE文化和实践的博客文章.
+* [Resilience Roundup](https://ResilienceRoundup.com) -为软件系统设计的每周抗灾工程和人为因素研究分析
 * [Squadcast Blog](https://www.squadcast.com/blog) -有关SRE最佳做法，可靠性，通话和事件管理的博客文章. 
 
 ## Conferences & Meetups

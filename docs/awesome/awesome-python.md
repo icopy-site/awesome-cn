@@ -303,7 +303,7 @@
 
 ## Date and Time
 
-*用于处理日期和时间的库.
+*用于处理日期和时间的库.*
 
 * [Chronyk](https://github.com/KoffeinFlummi/Chronyk) -一个Python 3库，用于解析人类编写的时间和日期.
 * [dateutil](https://github.com/dateutil/dateutil) -对标准Python的扩展 [datetime](https://docs.python.org/3/library/datetime.html) 模块.
@@ -369,7 +369,6 @@
 * [OpenStack](https://www.openstack.org/) -用于构建私有和公共云的开源软件.
 * [pexpect](https://github.com/pexpect/pexpect) -在类似GNU的伪终端中控制交互式程序.
 * [psutil](https://github.com/giampaolo/psutil) -跨平台的流程和系统实用程序模块.
-* [saltstack](https://github.com/saltstack/salt) -基础设施自动化和管理系统.
 * [supervisor](https://github.com/Supervisor/supervisor) -UNIX的主管过程控制系统.
 
 ## Distributed Computing
@@ -451,7 +450,7 @@
 
 ## Email
 
-*用于发送和解析电子邮件的库.
+*用于发送和解析电子邮件的库.*
 
 *邮件服务器
     * [modoboa](https://github.com/modoboa/modoboa) -包含现代Web UI的邮件托管和管理平台.
@@ -536,7 +535,7 @@
 
 *使用GraphQL的库.*
 
-* [tartiflette](https://tartiflette.io) -适用于Python 3.6+和asyncio的SDL优先GraphQL引擎实现.
+* [tartiflette](https://tartiflette.io) -适用于Python 3.6及更高版本和asyncio的SDL优先GraphQL引擎实现.
 * [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) -一个基于aiohttp的包装，用于Tartiflette，以通过HTTP公开GraphQL API.
 * [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi/) -ASGI支持Tartiflette GraphQL引擎.
 
@@ -555,7 +554,7 @@
 
 ## Geolocation
 
-*用于对地址进行地理编码以及使用纬度和经度的库.
+*用于对地址进行地理编码以及使用纬度和经度的库.*
 
 * [django-countries](https://github.com/SmileyChris/django-countries) -Django应用程式，提供模型和表格的国家/地区栏位.
 * [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) -世界一流的地理网络框架.
@@ -1071,7 +1070,7 @@
 
 *用于管理，压缩和最小化网站资产的工具.*
 
-* [django-compressor](https://github.com/django-compressor/django-compressor) -将链接的和内联的JavaScript或CSS压缩到单个缓存的文件中.
+* [django-compressor](https://github.com/django-compressor/django-compressor) -将链接的和内联的JavaScript或CSS压缩为单个缓存文件.
 * [django-pipeline](https://github.com/jazzband/django-pipeline) -Django的资产包装库.
 * [django-storages](https://github.com/jschneier/django-storages) -Django的自定义存储后端集合.
 * [fanstatic](http://www.fanstatic.org/en/latest/) -打包，优化并作为Python包提供静态文件依赖项.
@@ -1187,7 +1186,7 @@ Where to discover new Python libraries.
 
  永远欢迎您的贡献！  请看看 [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) 第一.
 
-如果不确定这些库是否很棒，我将打开一些拉取请求，您可以 [vote for them](https://github.com/vinta/awesome-python/pulls)  通过添加：+1：给他们.  当请求的投票达到** 20 **时，合并请求将合并.
+如果不确定这些库是否很棒，我将打开一些拉取请求，您可以 [vote for them](https://github.com/vinta/awesome-python/pulls)  通过添加：+1：给他们.  当请求的投票达到** 20 **时，合并请求将被合并.
 
 - - -
 

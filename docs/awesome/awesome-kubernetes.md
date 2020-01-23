@@ -118,7 +118,6 @@ Installers
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
 * [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) -与操作系统无关-与云无关
 * [KubeNow](https://github.com/kubenow/KubeNow) -Ubuntu-云不可知
-* [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) -`systemd`操作系统-不可知云
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) -与操作系统无关-与云无关
 * [Kubicorn](https://github.com/kubicorn/kubicorn) -与操作系统无关-与云无关
 * [Kublr](https://docs.kublr.com/quickstart/) -不可知操作系统-本地-不可知云
@@ -238,11 +237,8 @@ Installers
 - [How to pass the Certified Kubernetes Administrator (CKA) exam on the first attempt](https://medium.com/devopslinks/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e)
 
 
-- [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/) 通过 [Christoph Hartmann](https://twitter.com/chri_hartmann)
 - [Cluster Consul using Kubernetes API](http://www.devoperandi.com/cluster-consul-using-kubernetes-api/)
-- [Dynamic Kubernetes installation/configuration with SaltStack](http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
-- [Deploying Kubernetes with SaltStack](http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 *  [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) 通过 [Carlos Sanchez](https://twitter.com/csanchez)
@@ -268,6 +264,7 @@ Installers
 * [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
 * [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) 通过 [Dan Pastusek](https://twitter.com/pastudan)
 * [Simplify your research experiments with Kubernetes](https://www.ovh.com/blog/simplify-your-research-experiments-with-kubernetes/) 通过 [Parmentier Laurent](https://www.linkedin.com/in/laurent-parmentier-33187948/)
+* [Self-registering compact k3OS clusters to Rancher Server via cloud-init](https://medium.com/@jamesdavidbohrman/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8) 通过 [James D. Bohrman](https://github.com/jdbohrman)
 
 在Kubernetes中管理
 =======================================================================
@@ -814,9 +811,9 @@ Projects
 * [kustomize](https://github.com/kubernetes-sigs/kustomize) -使用部分规格进行定制
 * [Pulumi](https://www.pulumi.com/kubernetes/) -为针对本地集群和主要云供应商的托管服务的k8s部署提供一个SDK.
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
-* [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)  -一种数据约束语言，旨在简化涉及定义​​和使用数据的任务.  Cue是JSON的超集
 * [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，可让您专注于数据，而不是如何正确地对其进行转义.
+* [kosko](https://github.com/tommy351/kosko) -用JavaScript编写Kubernetes清单，并根据Kubernetes OpenAPI定义进行验证.
 
 ## Security
 
@@ -857,7 +854,7 @@ Projects
 * [NGINX Ingress Controller](https://github.com/kubernetes/ingress-nginx)
 * [Nginx Plus](http://www.nginx.com/blog/load-balancing-kubernetes-services-nginx-plus/)
 * [Skipper](https://github.com/zalando/skipper) -用于服务组合的HTTP路由器和反向代理，包括诸如Kubernetes Ingress之类的用例
-* [Traefik](http://traefik.io/)
+* [Traefik](https://containo.us/traefik/)
 * [Voyager - Secure HAProxy based Ingress Controller](https://github.com/appscode/voyager)
 * [Yggdrasil - Envoy Control Plane for Kubernetes Multi-cluster Ingress](https://github.com/uswitch/yggdrasil)
 

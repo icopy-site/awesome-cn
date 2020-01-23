@@ -14,16 +14,16 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 
 *您使用这些连接到IRC.*
 
-- [Komanda](https://komanda.io)  -专为编写代码的人（测试版）设计.  （[source](https://github.com/mephux/komanda)）`Linux`
+- [Komanda](https://komanda.io)  -专为编写代码的人（测试版）而设计.  （[source](https://github.com/mephux/komanda)）`Linux`
 - [Textual](https://www.codeux.com/textual/)  -非常可定制的ZNC集成，iCloud sync（4.99美元）.  （[source](https://github.com/Codeux-Software/Textual)）`macOS`
 - [LimeChat](http://limechat.net/mac/)  -多个服务器的一个窗口，键盘快捷键，快速且稳定.  （[source](https://github.com/psychs/limechat)）`macOS`` iOS`
- -HexChat]（https://hexchat.github.io）-基于XChat，易于使用，拼写检查和多种语言.  （[source](https://github.com/hexchat/hexchat)）Windows macOS Linux
-- [Kiwi IRC](https://kiwiirc.com)  -强大的现代IRC信使网络.  （[source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
+- [HexChat](https://hexchat.github.io)  -基于XChat，易于使用，拼写检查和多种语言.  （[source](https://github.com/hexchat/hexchat)）Windows macOS Linux
+- [Kiwi IRC](https://kiwiirc.com)  -强大的现代IRC信使网络.  （[source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)）`Web`
 - [CIRC](https://flackr.github.io/circ/)  -使用chrome.sockets API无需代理即可直接连接到IRC服务器.  （[source](https://github.com/flackr/circ)）`Chrome`
-- [Quassel](https://quassel-irc.org) -分布式（客户端可以连接到永久保持在线状态的中央核心或从中分离.）[source](https://github.com/quassel/quassel)）Linux macOS Windows
+- [Quassel](https://quassel-irc.org) -分布式（客户端可以连接到永久保持在线状态的中央核心，也可以从中分离.）[source](https://github.com/quassel/quassel)）Linux macOS Windows
 - [Yaaic](https://www.yaaic.org)  -多服务器/通道支持，SASL支持，平滑的通道滚动/滑动.  （[source](https://github.com/pocmo/Yaaic)）`Android`
 - [Koko](https://github.com/KokoIRC/koko)  -简约的设计，类似VIM的快捷键并基于电子设备.  Windows`macOS`
-- [relay.js](https://github.com/Fauntleroy/relay.js)  -专注于减少IRC的威胁性并使其更易于使用.  （[demo](http://demo.relayjs.com)) `Web`
+- [relay.js](https://github.com/Fauntleroy/relay.js)  -专注于减少IRC的威胁性并使其更易于使用.  （[demo](http://demo.relayjs.com)）`Web`
 - [Circe](https://github.com/jorgenschaefer/circe)  -在Emacs中使用时，默认设置为理智.  `Emacs`
 - [Smuxi](https://smuxi.im)  -用户友好，基于GNOME / GTK +.  （[source](https://github.com/meebey/smuxi)）Linux Windows MacOS
 - [KvIRC](http://www.kvirc.net)  -基于Qt GUI工具包的免费，可移植的工具.  （[source](https://github.com/kvirc/KVIrc)）Linux macOS Windows
@@ -32,7 +32,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 - [Colloquy](http://colloquy.info)  -启用AppleScript的IRC客户端.  `macOS`
 - [irssi](https://irssi.org)  -终端客户端，对模块作者GPLv2具有多协议友好性.  `Linux`macOS`Cygwin`BSD`
 - [Revolution IRC](https://github.com/MCMrARM/revolution-irc)  -功能齐全，积极维护的Android IRC客户端.  （[source](https://github.com/MCMrARM/revolution-irc)）`Android`
-- [AdiIRC](https://adiirc.com)  -从来没有客户为IRC体验的各个方面提供如此细化的设置.  （[features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)）Windows酒
+- [AdiIRC](https://adiirc.com)  -从来没有客户为IRC体验的各个方面提供如此精细的设置.  （[features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)）Windows`WINE`
 - [IRC for Android™](https://www.countercultured.net/android/) 适用于高级用户的Android / Chrome OS客户端，具有ZNC内置，通知逻辑，可靠的DCC，用于硬件键盘的键绑定等.
 
  *更多？  找到包含保镖的客户端 [below](#bouncers).*
@@ -47,7 +47,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
   - [iOS App](https://github.com/irccloud/ios)  -官方.  `Objective-C`
   - [Android App](https://github.com/irccloud/android)  -官方.  Java
   - [Nimbus](https://github.com/jnordberg/irccloudapp)  -独立客户端.  `macOS``Objective-C`
-- [Grove](https://grove.io) -托管了IRC，以及更多（+客户端）（每月10-125美元）.
+- [Grove](https://grove.io) -托管IRC，以及更多（+客户端）（每月$ 10- $ 125）.
 
 #### Self-hosted
 
@@ -63,7 +63,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 
 - [ircd.js](https://github.com/alexyoung/ircd.js)  -服务器将允许客户端连接，加入频道，更改主题；  基本的东西.
 - [InspIRCd](https://www.inspircd.org)  -模块化，稳定，从头开始编写.  （[source](https://github.com/inspircd/inspircd))
-- [miniircd](https://github.com/jrosdahl/miniircd) -非常简单和有限.
+- [miniircd](https://github.com/jrosdahl/miniircd) -非常简单且有限.
 - [ngIRCd](https://ngircd.barton.de)  -轻巧便携，适用于小型或专用网络.  （[source](https://github.com/ngircd/ngircd))
 - [Hulk](https://github.com/chrisdone/hulk)  -用于私人用途或业余爱好.  哈斯克尔
 - [Oragono](https://oragono.io)  -便携式的现代实验服务器，并根据规格进行设计.  （[source](https://github.com/oragono/oragono))
@@ -90,7 +90,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 - [lazybot](https://github.com/Raynes/lazybot)  -用户友好且功能强大.  `Clojure`
 - [IRC-BF](https://github.com/ddevault/bf-irc-bot) -`Brainfuck`
 - [geordi](https://github.com/Eelis/geordi)  -编译并运行C ++代码段.  C ++
-- [CloudBot](https://github.com/CloudBotIRC/CloudBot)  -简单，快速，可扩展.  Python
+- [CloudBot](https://github.com/CloudBotIRC/CloudBot) - Simple, fast, expandable. `Python`
 - [yossarian-bot](https://github.com/woodruffw/yossarian-bot)  -大型默认插件集，基于Cinch.  红宝石
 - [helga](https://github.com/shaunduncan/helga)  -支持多种协议的可插拔聊天机器人.  Python
 
@@ -106,7 +106,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 - [pyaib](https://github.com/facebook/pyaib)  -易于使用的机器人编写框架.  Python
 - [slate-irc](https://github.com/slate/slate-irc)  -插件系统，简单的api，任意输入流，调试支持.  JavaScript
 - [PircBotX](https://github.com/pircbotx/pircbotx) -具有简单API的基于事件的IRC库（更新了 [PircBot](http://www.jibble.org/pircbot.php) ）.  Java
-- [IRC::Client](https://github.com/perl6-community-modules/perl6-IRC-Client) -基于“ Perl6”的可扩展IRC客户端框架.
+- [IRC::Client](https://github.com/raku-community-modules/perl6-IRC-Client) -基于“ Perl6”的可扩展IRC客户端框架.
 
 #### Bridges
 
@@ -118,9 +118,9 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 - [BitlBee](https://www.bitlbee.org/main.php/news.r.html)  -XMPP，Jabber，Google Talk，MSN Messenger，Yahoo！  Messenger，AIM，ICQ，Twitter API，HipChat↔IRC.  `C`
 - [teleirc](https://github.com/FruitieX/teleirc)  -电报↔IRC.  JavaScript
 - [toxirc](https://github.com/endoffile78/toxirc)  -毒↔IRC.  `C`
-- [skyweb2irc](https://github.com/ProgVal/skyweb2irc)  -Skype（网络客户端API）↔IRC.  Javascript
+- [skyweb2irc](https://github.com/ProgVal/skyweb2irc)  -Skype（Web客户端API）↔IRC.  Javascript
 - [whapp-irc](https://github.com/lieuwex/whapp-irc)  -WhatsApp Web↔IRC.  去吧
-- [matterbridge](https://github.com/42wim/matterbridge) -IRC↔Mattermost↔Discord↔XMPP↔Gitter↔Slack↔Discord↔Telegram↔...
+- [matterbridge](https://github.com/42wim/matterbridge) -IRC，Mattermost，Discord，XMPP，Gitter，Slack，Discord，Telegram，...
 
 ### Channels
 
@@ -190,7 +190,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 此列表还使用标签来帮助搜索内容：
 
 -语言**-`Python`，`Java`，`C ++`，`Go`，`JavaScript`，`Ruby`，`C`等.
--**平台**-`Web`，`macOS`，`Windows`，`Linux`，`Chrome`等.
+-**平台**-Web，macOS，Windows，Linux，Chrome等.
 
 ## Credits
 

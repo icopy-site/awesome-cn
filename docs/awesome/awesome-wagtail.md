@@ -159,7 +159,7 @@
 
 ### Getting started
 
-- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/)  -一段时间以来，几乎完全只使用Drupal作为我选择的主要工具，所以有人要求我使用Wagtail组合构建.  通过 [@kiwimind](https://twitter.com/kiwimind).
+- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/) - Having used Drupal almost exclusively as my main tool of choice for a while now, I was asked to put together a build using Wagtail. By [@kiwimind](https://twitter.com/kiwimind).
 - [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)  -Wagtail是Django生态系统中相对较新的CMS.  但是，他的年纪并不妨碍他具有我们将在本文中发现的许多功能.
 - [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) -与Wagtail和周围的社区广泛合作，我们发现开发人员在开始使用Wagtail时遇到了一系列常见的陷阱.
 
@@ -220,7 +220,7 @@
 - [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 汤姆·戴森（Tom Dyson）撰写.
 - [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由莱西·威廉姆斯·亨舍尔.
 - [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) 由Ryan Sullivan撰写.
-- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由丽莎·亚当斯（Lisa Adams）和科迪·罗伊夫（Codie Roelf）创作.
+- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）
 - [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) 哈里斯·拉皮罗夫（Harris Lapiroff）撰写.
 - [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) 由Zarina Mustapha提供.
 - [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) 由Ryan Verner撰写.
@@ -246,7 +246,7 @@
 - [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) 由Daniele Procida.
 - [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) 作者：亚瑟·拜尔（Arthur Bayr）.
 - [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) 由Brian Smith和Eric Sherman撰写. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).
-- [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) 蒂莫西·艾伦（Timothy Allen）着.
+- [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) by Timothy Allen.
 - [Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019](https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3) 文斯·萨尔维诺（Vince Salvino）着.
 - [Building a Wagtail-based site and authoring environment with accessibility in mind – Wagtail Space US 2019](https://www.youtube.com/watch?v=CxjlAI6R7iY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=4) 由Zarina Mustapha提供.
 - [Making Wagtail Accessible – Wagtail Space US 2019](https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5) 由Thibaud Colas撰写. [Slides](https://docs.google.com/presentation/d/15y8XIe7SL-RYEO9tEE8n9chx80_X4j4PbczGGM-cEGE/edit).
@@ -259,7 +259,7 @@
 
 ### Podcasts
 
-- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) -在本集中，汤姆·戴森（Tom Dyson）解释了Wa的创建方法，将其与其他选择区分开来的原因以及何时为项目实施它.
+- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) -在这一集中，汤姆·戴森（Tom Dyson）解释了Wagtail的创建方式，将其与其他选择区分开的地方以及何时为项目实施它.
 
 ### Videos
 
@@ -272,8 +272,8 @@
 - [Wagtail Wednesdays #04 - Organising Images and Documents using Wagtail Collections](https://www.youtube.com/watch?v=HGXHtFpLDCA) -Kieran会与您讨论将图片和文档整理到集合中的过程.
 - [Wagtail Wednesdays #05 - How to organise your fields and streamline the editor experience](https://www.youtube.com/watch?v=CedcZmQ9KHs) -切尔西（Chelsea）会指导您完成组织字段的过程，以使其更易于管理和简化编辑体验.
 - [Wagtail Wednesdays #06 - Creating & using custom settings in your wagtail site](https://www.youtube.com/watch?v=KJWCGq3IRNc) -克里斯会告诉您如何设置和使用自定义网站设置.
-- [Wagtail Wednesdays #07 - How to Enable the Wagtail Styleguide](https://www.youtube.com/watch?v=_CfU9UivYPI) - It’s a really helpful resource that takes no time at all to enable and it allows you to check your components against the guidelines and shows all the available Wagtail icons.
-- [How to Deploy Wagtail to Google App Engine](https://www.youtube.com/watch?v=uD9PTag2-PQ) -重点是Google Cloud Platform，但很好地介绍了如何在其PAAS中启动和运行Wagtail.
+- [Wagtail Wednesdays #07 - How to Enable the Wagtail Styleguide](https://www.youtube.com/watch?v=_CfU9UivYPI) -这是一个非常有用的资源，完全不需要花费任何时间就可以启用，它使您可以根据指南检查组件并显示所有可用的Wagtail图标.
+- [How to Deploy Wagtail to Google App Engine](https://www.youtube.com/watch?v=uD9PTag2-PQ) -重点是Google Cloud Platform，但它很好地介绍了如何在其PAAS中启动和运行Wagtail.
 
 ### Showcases
 
@@ -313,11 +313,12 @@
 - [Digital Helsinki](https://github.com/City-of-Helsinki/digihel) –赫尔辛基数字赫尔辛基Wagtail CMS.
 - [Secure the News](https://github.com/freedomofpress/securethenews) –自动化的扫描仪和Web仪表板，用于跟踪新闻机构之间的TLS部署.
 - [HackSoft](https://github.com/HackSoftware/hacksoft.io) – HackSoft网站.
-- [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
+- [HackConf](https://github.com/HackSoftware/hackconf.bg) –一年一度的HackConf网站.
 - [RTEI](https://github.com/okfn/rtei) -受教育权指数网站（OKFN）.
 - [BVSPCA](https://github.com/nfletton/bvspca) – Bow Valley SPCA网站.
 - [Project TIER](https://github.com/ProjectTIER/projecttier.org) –实证研究中的教学完整性.
 - [SecureDrop](https://github.com/freedomofpress/securedrop.org) –由Wagtail驱动的SecureDrop举报人文件提交系统网站.
+- [Consumer Financial Protection Bureau](https://github.com/cfpb/cfgov-refresh) – Wagtail支持的Consumerfinance.gov的源代码可在GitHub上找到.
 
 ## Contribute
 
