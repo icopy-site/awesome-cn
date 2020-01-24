@@ -220,7 +220,7 @@ _有助于实现 [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_
 - [Dagger2](https://google.github.io/dagger) -编译时注入框架，无需反思.
 - [Feather](https://github.com/zsoltherpai/feather) -符合JSR-330的超轻量级依赖注入库.
 - [Governator](https://github.com/Netflix/governator) -扩展了Google Guice的扩展程序和实用程序.
-- [Guice](https://github.com/google/guice) -完善Dagger的轻量级，自以为是的框架.
+- [Guice](https://github.com/google/guice) -轻巧而自以为是的框架，完善了Dagger.
 - [HK2](https://javaee.github.io/hk2) -轻量级和动态依赖注入框架.
 - [JayWire](https://github.com/vanillasource/jaywire)  -轻量级依赖注入框架.  （仅限LGPL-3.0）
 
@@ -546,6 +546,7 @@ _其他一切._
 - [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial) -流行的Java 8指南.
 - [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin) -检测旧版Java API的使用.
 - [Multi-OS Engine](https://multi-os-engine.org) -开源，跨平台引擎，用于开发本机移动（iOS，Android等）应用程序.
+- [OctoLinker](https://github.com/OctoLinker/browser-extension) -浏览器扩展，可更有效地浏览GitHub上的代码.
 - [OpenRefine](http://openrefine.org) -处理混乱数据的工具：清理，转换，使用Web服务扩展它并将其链接到数据库.
 - [PipelinR](https://github.com/sizovs/pipelinr) –小型实用程序库，用于将处理程序和命令与管道一起使用.
 - [Polyglot for Maven](https://github.com/takari/polyglot-maven) -Maven 3.3.1+的扩展，允许使用除XML以外的方言编写POM模型.
@@ -554,7 +555,6 @@ _其他一切._
 - [Togglz](https://www.togglz.org) -实现“功能切换”模式.
 - [TypeTools](https://github.com/jhalterman/typetools) -解决泛型类型的工具.
 - [XMLBeam](https://github.com/SvenEwald/xmlbeam) -通过在代码中使用注释或XPath处理XML.
-- [OctoLinker](https://github.com/OctoLinker/browser-extension) -浏览器扩展，可更有效地浏览GitHub上的代码.
 - [yGuard](https://github.com/yWorks/yGuard) -通过重命名和缩小进行混淆.
 
 ### Microservice
@@ -784,7 +784,7 @@ _专门用于创建RESTful服务的框架.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -JBoss Netty HTTP堆栈上的精简包装，可提供扩展和性能.
 - [Restlet Framework](https://github.com/restlet/restlet-framework-java) -具有强大的路由和过滤功能以及统一的客户端和服务器API的开拓性框架.
 - [Spark](http://sparkjava.com) -Sinatra启发框架.
-- [Crnk](http://www.crnk.io) -实施JSON API规范，以建立具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
+- [Crnk](http://www.crnk.io) -实施JSON API规范，以构建具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
 - [springdoc-openapi](https://github.com/springdoc/springdoc-openapi) -使用Spring Boot项目自动生成API文档.
 - [Swagger](https://swagger.io) -REST API的标准，与语言无关的接口.
 
@@ -806,7 +806,7 @@ _用于科学计算，分析和可视化的库.
 
 ### Search
 
-_将文档编入索引以进行搜索和分析的引擎._
+_将文档编入索引以进行搜索和分析的引擎.
 
 - [Apache Lucene](https://lucene.apache.org) -高性能，全功能，跨平台的文本搜索引擎库.
 - [Apache Solr](https://lucene.apache.org/solr) -针对大流量进行了优化的企业搜索引擎.
@@ -832,7 +832,7 @@ _处理安全性，身份验证，授权或会话管理的库.
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) -用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)  多平台高级密码库提供了易于使用的加密来保护敏感数据：具有前向保密性的安全消息传递，安全数据存储（AES256GCM）；  适用于构建端到端的加密应用程序.
 - [Tink](https://github.com/google/tink) -为常见的加密任务提供了一个简单且防误用的API.
-- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
+- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的密钥/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
 
 ### Serialization
 
