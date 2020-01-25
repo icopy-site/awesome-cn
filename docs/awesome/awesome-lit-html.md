@@ -122,7 +122,7 @@
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) -Babel插件，用于最小化带有标签的模板字符串中的HTML.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) -用于lit-html模板字符串的ESLint插件.
 - [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) -CLI类型，用于检查lit-html模板中的绑定.
-- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件可最小化带有标签的模板字符串中的HTML.
+- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
 - [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) -汇总插件，可在LitElement和Transpile装饰器中内联外部样式.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) -汇总插件，用于将CSS文件作为LitElement标记的`css`模板字符串导入.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -汇总插件，用于在LitElement组件中加载PostCSS处理的样式表.
@@ -177,7 +177,12 @@
   <tr>
     <td>Name</td>
     <td>网址</td>
-    <td>Source</td>
+    <td>资源</td>
+  </tr>
+  <tr>
+    <td>创建社会形象</td>
+    <td>https://createsocialimages.com</td>
+    <td> <a href="https://github.com/pshihn/csi">资源</a> </td>
   </tr>
   <tr>
     <td> DevWeb内容防火墙</td>

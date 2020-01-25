@@ -492,9 +492,9 @@
   * [glitch.com](https://glitch.com/) —具有代码共享和实时协作等功能的免费无限制公共/私人托管
   * [heroku.com](https://www.heroku.com/) —将您的应用托管在云中，单进程应用免费
   * [kubesail.com](https://kubesail.com)  -为开发人员设计的托管Kubernetes命名空间服务.  免费的开发人员帐户带有1个CPU内核，512MB RAM，100MB存储空间和1个域.
-  * [okteto.com](https://okteto.com)  -为开发人员设计的托管Kubernetes服务.  免费的开发人员帐户带有三个命名空间，每个命名空间具有8GB的RAM，4个CPU和150GB的磁盘空间.
   * [K8Spin](https://k8spin.cloud)  -为开发人员设计的托管Kubernetes命名空间服务.  免费的开发人员帐户附带100 mCore CPU，128MB RAM.
   * [mendix.com](https://www.mendix.com/) —适用于企业的快速应用程序开发，无限数量的免费沙箱环境，可支持10个用户，100 MB的文件和100 MB的数据库存储
+  * [Okteto Cloud](https://okteto.com)  -为开发人员设计的托管Kubernetes服务.  免费的开发人员帐户带有三个命名空间，每个命名空间具有8GB的RAM，4个CPU和150GB的磁盘空间.
   * [outsystems.com](https://www.outsystems.com/) —用于本地或云的企业Web开发PaaS，免费的“个人环境”产品允许无限的代码和多达1 GB的数据库
   * [pipedream.com](https://pipedream.com)  -为开发人员构建的集成平台.  根据任何触发器开发任何工作流程.  工作流是代码，您可以运行 [for free](https://docs.pipedream.com/pricing/) .  无需管理服务器或云资源.
   * [pythonanywhere.com](https://www.pythonanywhere.com/)  — Cloud Python应用托管.  初学者帐户免费，您的username.pythonanywhere.com域中有1个Python Web应用程序，512 MB私有文件存储，1个MySQL数据库
@@ -612,7 +612,7 @@
    * [serveo.net](https://serveo.net/) —使用SSH隧道快速将任何本地端口公开到伺服子域上的公共Internet，其中包括SSH GUI，可通过HTTP重放请求.
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) — Google STUN
-   * [webhookrelay.com](https://webhookrelay.com)  —管理，调试，扇出并将所有Webhook代理到公共或内部（即localhost）目标.  另外，通过获取公共HTTP终结点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080），公开通过隧道在私有网络中运行的服务器.
+   * [webhookrelay.com](https://webhookrelay.com)  —管理，调试，扇出并将所有Webhook代理到公共或内部（即localhost）目标.  另外，通过获取公共HTTP终结点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080），公开运行在专用网络上通过隧道的服务器.
    * [ZeroTier](https://www.zerotier.com)  — FOSS管理的虚拟以太网即服务.  免费计划的100个客户端的无限端到端加密网络.  台式机/手机/ NA的客户端；  Web界面，用于配置自定义路由规则并批准专用网络上的新客户端节点.
 
 ## Issue Tracking and Project Management
@@ -721,7 +721,7 @@
    * [carto.com](https://carto.com/) —根据您的数据和公共数据创建地图和地理空间API.
    * [datamaps.world](https://datamaps.world/) —简单但功能强大的平台，可为您提供工具以免费层可视化地理空间数据.
    * [developers.arcgis.com](https://developers.arcgis.com)  —用于Web，台式机和移动设备上的地图，地理空间数据存储，分析，地理编码，路由等的API和SDK.  1,000,000次免费底图+地理编码交易，每月40GB免费图块+数据存储.
-   * [Foursquare](https://developer.foursquare.com/) -来自Places API和Pilgrim SDK的位置发现，场所搜索和上下文感知内容.
+   * [Foursquare](https://developer.foursquare.com/) -来自Places API和Pilgrim SDK的位置发现，场所搜索和上下文相关内容.
    * [geocod.io](https://www.geocod.io/)  —通过API或CSV上传进行地理编码.  每天2,500个免费查询.
    * [giscloud.com](https://www.giscloud.com/) —在线可视化，分析和共享地理数据.
    * [gogeo.io](https://gogeo.io/) —具有易于使用的API和对大数据的支持的地图和地理空间服务.

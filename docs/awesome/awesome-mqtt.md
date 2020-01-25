@@ -6,7 +6,7 @@
 
 &gt;与MQTT相关的内容的精选列表.
 
- MQTT是一种轻量级的客户端-服务器发布/订阅消息传递协议，已针对高延迟或不可靠的网络进行了优化.  该协议是物联网应用，遥测，传感器网络，智能计量，家庭自动化，消息传递和通知服务的理想选择.
+ MQTT是一种轻量级的客户端-服务器发布/订阅消息传递协议，针对高延迟或不可靠的网络进行了优化.  该协议是物联网应用，遥测，传感器网络，智能仪表，家庭自动化，消息传递和通知服务的理想选择.
 
 
 
@@ -29,16 +29,15 @@
 #### Talks
 
 * [An Introduction to MQTT: Why HTTP isn't the King of the Internet of Things](https://www.youtube.com/watch?v=LKz1jYngpcU) -Shinji Kim，Robert Bird-Akamai，2017年三星开发者大会.
-* [Einführung in MQTT](https://www.youtube.com/watch?v=INYG4-xsa9c) -Dominik Obermaier和Jens Deters， [Building IoT](https://www.buildingiot.de/) 2016年会议（德国）.
+* [Einführung in MQTT](https://www.youtube.com/watch?v=INYG4-xsa9c) -Dominik Obermaier和Jens Deters， [Building IoT](https://www.buildingiot.de/) 2016年大会（德语）.
 
 ### Broker
 
 * [ActiveMQ](http://activemq.apache.org/) -快速的Java多协议消息传递和集成模式服务器.
 * [Aedes](https://github.com/mcollina/aedes) -可以在任何流服务器上以节点方式运行的准系统MQTT代理.
 * [Emitter](https://github.com/emitter-io/emitter) -基于MQTT协议并具有消息存储功能的分布式，可伸缩且容错的发布-订阅消息传递平台.
-* [EMQ X](https://github.com/emqx/emqx) -用于5G时代的IoT的可扩展且可靠的实时MQTT消息引擎.
+* [EMQ X](https://github.com/emqx/emqx) -适用于5G时代的IoT的可扩展且可靠的实时MQTT消息引擎.
 * [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) -ESP8266上的基本MQTT Broker.
-* [flespi](https://flespi.com/mqtt-broker) -具有私有名称空间，MQTT 5.0支持和华丽的限制的免费云MQTT代理.
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) -使用异步的Python MQTT代理.
 * [HiveMQ](https://www.hivemq.com/)  -支持MQTT 3.1、3.1.1和5.0的Java MQTT Broker.  提供商业和开源版本.
 * [hrotti](https://github.com/alsm/hrotti) -用Go编写的MQTT经纪人.
@@ -57,13 +56,14 @@
 
 ### Cloud
 
+- [Alibaba Cloud IoT Platform](https://www.alibabacloud.com/product/iot) -在设备和IoT平台之间提供安全可靠的通信，使您可以在单个IoT平台上管理大量设备.
+- [AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls)  -AWS IoT Core是一项托管的云服务，可让连接的设备轻松，安全地与云应用程序和其他设备交互.  AWS IoT Core可支持数十亿个设备和数以万计的消息，并可将这些消息可靠且安全地处理并路由到AWS终端节点和其他设备.  借助AWS IoT Core，您的应用程序可以随时跟踪所有设备并与之通信，即使它们没有连接也是如此.
+- [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)  -在IoT应用程序及其管理的设备之间实现高度安全和可靠的通信.  Azure IoT中心提供了一个云托管的解决方案后端，可以连接几乎任何设备.  通过每设备身份验证，内置设备管理和扩展配置，将您的解决方案从云扩展到边缘.
 - [CloudMQTT](https://www.cloudmqtt.com/)  -托管物联网的消息代理.  完美配置和优化的物联网消息队列，几秒钟即可完成.
 - [EMQ X MQTT Cloud](https://cloud.emqx.io/) -由EMQ团队提供最佳实践的安全，可靠的MQTT云服务.
-- [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)  -在IoT应用程序与其管理的设备之间实现高度安全可靠的通信.  Azure IoT中心提供了一个云托管的解决方案后端，可以连接几乎任何设备.  通过每设备身份验证，内置设备管理和扩展配置，将您的解决方案从云扩展到边缘.
-- [AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls)  -AWS IoT Core是一项托管的云服务，可让连接的设备轻松，安全地与云应用程序和其他设备进行交互.  AWS IoT Core可支持数十亿个设备和数以万亿计的消息，并可将这些消息可靠且安全地处理并路由到AWS终端节点和其他设备.  借助AWS IoT Core，您的应用程序可以随时跟踪所有设备并与之通信，即使它们没有连接也是如此.
+- [flespi](https://flespi.com/mqtt-broker) -具有私有名称空间，MQTT 3.1.1和MQTT 5.0支持以及华丽的限制的免费和安全的云MQTT代理.
 - [Google Cloud IoT](https://cloud.google.com/solutions/iot/)  -Google Cloud IoT是一整套用于在边缘和云中连接，处理，存储和分析数据的工具.  该平台由可扩展的，完全托管的云服务组成；  用于边缘/本地计算的集成软件堆栈，具有机器学习功能，可满足您所有IoT的需求.
-- [IBM WASTON](https://www.ibm.com/watson) -使用Watson，您可以将AI工具和应用程序带到数据中的任何位置，无论它位于IBM Cloud，AWS，Azure，Google还是您自己的私有云平台上.
-- [Alibaba Cloud IoT Platform](https://www.alibabacloud.com/product/iot) -在设备和IoT平台之间提供安全可靠的通信，使您可以在单个IoT平台上管理大量设备.
+- [IBM WATSON](https://www.ibm.com/watson) -使用Watson，您可以将AI工具和应用程序带到数据中的任何位置，无论它位于IBM Cloud，AWS，Azure，Google还是您自己的私有云平台上.
 
 ### Platforms
 
@@ -81,41 +81,41 @@
 * [mqtt-admin](https://github.com/hobbyquaker/mqtt-admin/) -基于Web的MQTT前端. [Direct Link](https://hobbyquaker.github.io/mqtt-admin/).
 * [mqtt-benchmark](https://github.com/chirino/mqtt-benchmark) -MQTT服务器的基准测试工具.
 * [MQTT CLI](https://github.com/hivemq/mqtt-cli) -命令行界面，用于连接支持MQTT 5.0和3.1.1的各种MQTT客户端.
-* [mqtt-client](https://github.com/sdeancos/mqtt-client) -一个简单的MQTT客户端命令行（Python）（使用paho lib）
+* [mqtt-client](https://github.com/sdeancos/mqtt-client) -简单的MQTT客户端命令行（Python）（使用paho lib）
 * [mqtt-forget](https://github.com/hobbyquaker/mqtt-forget) -命令行工具，用于通过通配符删除保留的MQTT主题.
 * [mqtt-fuzz](https://github.com/F-Secure/mqtt_fuzz) -MQTT协议的简单模糊器.
 * [mqtt-malaria](https://github.com/etactica/mqtt-malaria) -用于MQTT环境的可伸缩性和负载测试实用程序.
 * [MQTT-PWN](https://github.com/akamai-threat-research/mqtt-pwn) -MQTT-PWN打算成为IoT Broker渗透测试和安全评估操作的一站式服务.
 * [mqtt-shell](https://github.com/pidster-dot-org/mqtt-shell) -MQTT的简单交互式外壳.
 * [mqtt-spy](http://kamilfb.github.io/mqtt-spy/)  -基于Java的MQTT前端.  支持脚本.
-* [mqtt_tree](https://github.com/poggenpower/mqtt_tree)  -在可展开的树中显示所有主题，如果您有许多发布的客户，则有助于获得概述.  （python，tkinter）
+* [mqtt_tree](https://github.com/poggenpower/mqtt_tree)  -在可展开的树中显示所有主题，如果您有许多发布的客户端，则有助于获得概述.  （python，tkinter）
 * [mqtt-utils](https://github.com/dsell/mqtt-utils) -MQTT实用程序的集合.
 * [mqtt-wall](https://github.com/bastlirna/mqtt-wall) -仅订阅基于Web的客户端–如MQTT的Twitter wall.
 * [mqtt-wildcard](https://github.com/hobbyquaker/mqtt-wildcard) -Node.js模块，用于将MQTT主题与通配符进行匹配.
 * [MQTT.fx](https://mqttfx.jensd.de/)  -MQTT.fx是基于Java Eclipse Paho编写的MQTT客户端.  支持脚本.
-* [mqttcli](https://github.com/shirou/mqttcli) -用于外壳脚本的MQTT客户端.
+* [mqttcli](https://github.com/shirou/mqttcli) -用于外壳程序脚本的MQTT Client.
 * [MQTTInspector](https://github.com/ckrey/MQTTInspector) -适用于iOS（iPhone和iPad）的通用MQTT测试应用.
 * [MQTTLens](https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm) -一个Google Chrome应用程序，它连接到MQTT代理，并且可以订阅和发布MQTT主题.
 * [MQTT Explorer](https://mqtt-explorer.com/) -在主题层次结构中可视化您的MQTT主题的工具，MQTT瑞士军刀.
 * [Python MQTT Client Shell](https://github.com/bapowell/python-mqtt-client-shell) -基于文本控制台的交互式外壳，用于执行与MQTT客户端通信相关的各种任务.
 * [SimpleMQTT](https://simplemqtt.theoi.de/) -一个Slack应用程序，使用斜杠命令将消息从Slack发送到MQTT代理.
 * [Wireshark-MQTT](https://github.com/menudoproblema/Wireshark-MQTT) -Wireshark的MQTT解剖器.
-* [MQTTX](https://github.com/emqx/MQTTX) -MQTTX是由EMQ开源的跨平台MQTT桌面客户端，它支持macOS，Linux和Windows.
+* [MQTTX](https://github.com/emqx/MQTTX) - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.
 
 ### Clients
 
 * [aiomqtt](https://github.com/mossblaser/aiomqtt) -基于paho-mqtt的异步Python MQTT客户端.
-* [CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
+* [CocoaMQTT](https://github.com/emqx/CocoaMQTT) -使用Swift编写的适用于iOS和OS X的MQTT.
 * [emqttc](https://github.com/emqx/emqtt) -异步Erlang MQTT客户端.
 * [gmqtt](https://github.com/wialon/gmqtt) -Python MQTT v5.0客户端（基于异步）.
-* [hbmqtt](https://github.com/beerfactory/hbmqtt) -使用asyncio的Python MQTT客户端.
+* [hbmqtt](https://github.com/beerfactory/hbmqtt) -使用异步的Python MQTT客户端.
 * [hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client) -针对MQTT 5.0和3.1.1，具有不同API风格的高性能Java MQTT客户端库.
 * [Hulaaki](https://github.com/suvash/hulaaki) -用于与MQTT代理进行通信的客户端的Elixir库.
 * [luamqtt](https://github.com/xHasKx/luamqtt/) -Pure-lua MQTT v3.1.1和v5.0客户端.
 * [Machine Head](https://github.com/clojurewerkz/machine_head) -Clojure MQTT客户端.
 * [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) -每台服务器最多模拟100,000个MQTT客户端，用于IoT应用程序的开发/测试/部署.
 * [Moscapsule](https://github.com/flightonary/Moscapsule) -使用Swift编写的iOS版MQTT客户端.
-* [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) -Mosquitto MQTT客户端库PHP的包装.
+* [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) -用于PHP的Mosquitto MQTT客户端库的包装.
 * [mqtt_cpp](https://github.com/redboltz/mqtt_cpp) -基于Boost.Asio的C ++ 14的MQTT客户端.
 * [mqtt_lua](http://geekscape.github.io/mqtt_lua/) -用于Lua语言的MQTT客户端库.
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C) -适用于嵌入式系统和PC的便携式MQTT C客户端.
@@ -125,18 +125,18 @@
 * [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) -Rust的MQTT协议库.
 * [mqtt-stats](https://github.com/gambitcomminc/mqtt-stats) -订户客户端以监视MQTT主题统计信息
 * [mqtt-wrapper](https://www.webcomponents.org/element/hobbyquaker/mqtt-wrapper/elements/mqtt-wrapper) -包装其他元素并将其链接到MQTT主题的聚合物元素.
-* [mqtt.dart](https://github.com/jnguillerme/mqtt.dart) -Dart mqtt客户.
+* [mqtt.dart](https://github.com/jnguillerme/mqtt.dart) -Dart MQTT客户端.
 * [MQTT.js](https://github.com/mqttjs) -Node.js的MQTT客户端.
 * [mqtt](https://github.com/jeffallen/mqtt) -Go中的MQTT客户端，服务器和负载测试器.
 * [mqttex](https://github.com/alfert/mqttex) -Elixir中的MQTT实现.
 * [MQTTKit](https://github.com/mobile-web-messaging/MQTTKit) -适用于iOS的MQTT Objective-C客户端.
 * [Paho](http://www.eclipse.org/paho/) - Open source client implementations (C/C++, Java, Python, Javascript, Go, C#).
-* [pubsubclient](https://github.com/knolleary/pubsubclient) -Arduino以太网盾的客户端库，它支持MQTT.
+* [pubsubclient](https://github.com/knolleary/pubsubclient) -Arduino以太网屏蔽的客户端库，它支持MQTT.
 * [ruby-mqtt](https://github.com/njh/ruby-mqtt) -实现MQTT协议的纯Ruby宝石.
-* [rumqtt](https://github.com/AtherEnergy/rumqtt) -快速，无锁定的纯锈MQTT客户端.
+* [rumqtt](https://github.com/AtherEnergy/rumqtt) -快速，无锁的纯Rust MQTT客户端.
 * [tcl-mqtt](https://github.com/Tingenek/tcl-mqtt)  -小型库，用于连接到MQTT代理.  非常非常基本.
 * [TMQTTClient](https://github.com/jamiei/Delphi-TMQTT2) -用于Delphi的MQTT客户端库.
-* [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) -Vert.x组件，提供了用于连接/断开与代理，发布消息和订阅主题的方法.
+* [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) -Vert.x组件，提供用于连接/断开与代理，发布消息和订阅主题的方法.
 * [wolfMQTT](https://www.wolfssl.com/products/wolfmqtt/)  -用C编写的嵌入式嵌入式MQTT的客户端实现.  它通过wolfSSL库支持SSL / TLS.
 * [MQTTnet](https://github.com/chkr1011/MQTTnet) -.NET中的MQTT客户端和代理实现.
 
@@ -154,27 +154,32 @@
 
 * [arduinoTemps2mqtt](https://github.com/matbor/arduinoTemps2mqtt) -Arduino草图，获取单线温度，然后发布到MQTT代理.
 * [Basecamp](https://github.com/ct-Open-Source/Basecamp)  -一个Arduino库，可简化IoT项目中ESP32的使用.  看到 [c't Magazin 2'2018 (German)](https://www.heise.de/select/ct/2018/2/1515452111258448).
-* [ESP8266MQTTMesh](https://github.com/PhracturedBlue/ESP8266MQTTMesh) -适用于ESP8266的网状WiFi集成库中的MQTT
-* [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) -ESP8266的MQTT客户端库.
-* [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver)  -在MQTT和IR之间基于ESP8266的双向网关.  与PlatformIO一起使用.
-* [mqtt-with-micropython](https://docs.pycom.io/chapter/tutorials/all/mqtt/) -使用micropython和wipy / others连接到MQTT（内置ESP32）
 * [MySensors](https://www.mysensors.org/) -基于Arduino NRF24L01的传感器网络，支持MQTT网关
-* [nodemcu-gpiomqtt](https://github.com/hobbyquaker/nodemcu-gpiomqtt) -将ESP8266 GPIO连接到MQTT的Lua脚本.
-* [pubsubclient](https://github.com/knolleary/pubsubclient) -Arduino以太网盾的客户端库，它支持MQTT.
+* [pubsubclient](https://github.com/knolleary/pubsubclient) -Arduino以太网屏蔽的客户端库，它支持MQTT.
 * [RFM69-MQTT-client](https://github.com/computourist/RFM69-MQTT-client) -基于Arduino RFM69的传感器和MQTT网关.
 * [rpi2mqtt](https://github.com/hobbyquaker/rpi2mqtt) -将RaspberryPis GPIO和1-Wire温度传感器连接到MQTT.
 * [xbee2mqtt](https://github.com/xoseperez/xbee2mqtt) -XBee到MQTT网关.
 
 ##### ESP
 
+* [ESP32-BLE2MQTT](https://github.com/shmuelzon/esp32-ble2mqtt) -BLE到MQTT桥，将BLE GATT特性作为MQTT主题公开，用于双向通信.
+* [ESP8266MQTTMesh](https://github.com/PhracturedBlue/ESP8266MQTTMesh) -适用于ESP8266的网状WiFi集成库中的MQTT
+* [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) -用于ESP8266的MQTT客户端库.
+* [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver)  -在MQTT和IR之间基于ESP8266的双向网关.  与PlatformIO一起使用.
+* [mqtt-with-micropython](https://docs.pycom.io/chapter/tutorials/all/mqtt/) - Connect to MQTT with micropython and wipy/others (ESP32 inside)
+* [nodemcu-gpiomqtt](https://github.com/hobbyquaker/nodemcu-gpiomqtt) -将ESP8266 GPIO连接到MQTT的Lua脚本.
+
+
+##### Firmwares for ESP based Devices 
+
 有许多基于廉价ESP8266芯片的廉价智能家庭Wi-Fi设备_（请参阅： [1](https://templates.blakadder.com/index.html), [2](https://github.com/xoseperez/espurna#supported-hardware), [3](https://www.letscontrolit.com/wiki/index.php?title=ESP_Hardware) ）_.  其中大多数可以使用自定义固件刷新.
 以下是完整的固件，可将它们转换为MQTT控制的智能家庭节点：
 
 * [ESPEasy](https://www.letscontrolit.com/wiki/index.php?title=ESPEasy)  -通过基于Web的配置将ESP变成用于<abbr title="家庭自动化">HA</abbr>解决方案的多功能传感器设备.
-* [ESPHome](https://esphome.io/) -从简明的YAML说明构建ESP8266 / ESP32固件，并上传到Flash设备并对其进行管理.
+* [ESPHome](https://esphome.io/) - builds ESP8266/ESP32 firmware from concise YAML descriptions, uploads to and manages flashed devices.
 * [Espurna](https://github.com/xoseperez/espurna)  -具有ESP8266的设备的<abbr title="家庭自动化">HA</abbr>固件，具有丰富的Web UI和开箱即用的≈120个设备
 * [Sonoff-Tasmota](https://github.com/arendst/Tasmota)  -具有基于Web的配置的ESP8266设备的固件.  支持≈500个设备（不仅是Sonoffs）.
-* [WiFi-IoT](https://wifi-iot.com/p/wiki/)  -ESP8266 / ESP32固件生成器.  部分用俄语.  免费功能有限.
+* [WiFi-IoT](https://wifi-iot.com/p/wiki/)  -ESP8266 / ESP32固件构建器.  部分用俄语.  免费功能有限.
 
 
 #### Industry
@@ -188,7 +193,7 @@
 
 * [agi-mqtt](https://github.com/zeha/agi-mqtt) -星号和MQTT之间的接口.
 * [fritz2mqtt](https://github.com/akentner/fritz2mqtt) -将FRITZ！Box连接到MQTT.
-* [sip2mqtt](https://github.com/MartyTremblay/sip2mqtt) -一个SIP监视脚本，它将带有CallerID的来电发布到MQTT.
+* [sip2mqtt](https://github.com/MartyTremblay/sip2mqtt) -SIP监视脚本，它将带有CallerID的来电发布到MQTT.
 
 
 #### Operating System
@@ -205,7 +210,7 @@
 * [check-mqtt](https://github.com/jpmens/check-mqtt) -Nagios / Icinga插件，用于检查与MQTT代理的连接.
 * [nag2mqtt](https://github.com/DE-IBH/nag2mqtt) -Nagios事件代理到MQTT网关.
 * [notify-by-mqtt](https://github.com/jpmens/notify-by-mqtt) -Nagios / Icinga通知模块，该模块将数据包装到JSON中并将其触发到MQTT代理.
-* [mqtt2notifysend](https://github.com/David-Lor/MQTT2NotifySend) -订阅主题并在Ubuntu和其他通知发送兼容的Linux发行版上显示来自MQTT消息的通知.
+* [mqtt2notifysend](https://github.com/David-Lor/MQTT2NotifySend) -订阅主题，并在Ubuntu和其他通知发送兼容的Linux发行版上显示来自MQTT消息的通知.
 
 
 #### Location tracking
@@ -218,7 +223,7 @@
 * [graylog-plugin-mqtt](https://github.com/graylog-labs/graylog-plugin-mqtt) -用于Graylog的MQTT输入插件.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) -订阅MQTT主题并插入InfluxDB.
 * [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) -将MQTT消息发送到Elasticsearch.
-* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) -订阅MQTT主题并推送到Graphite的Carbon服务器.
+* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) -订阅MQTT主题，并推送到Graphite的Carbon服务器.
 * [mqttcollect](https://github.com/jpmens/mqttcollect) -为MQTT收集的“ Exec”插件.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) -用于MQTT的Python日志处理程序模块.
 * [mqtt2mongodb](https://github.com/David-Lor/MQTT2MongoDB) -订阅MQTT主题并插入MongoDB.
@@ -227,20 +232,20 @@
 
 #### Smart Home Hardware Interfaces
 
-* [aqara-mqtt](https://github.com/monster1025/aqara-mqtt) -通往MQTT桥的Aqara（小米）网关.
+* [aqara-mqtt](https://github.com/monster1025/aqara-mqtt) -Aqara（Xiaomi）通往MQTT桥的网关.
 * [aqara2mqtt](https://github.com/hobbyquaker/aqara2mqtt) -附上 [Aqara](https://www.aqara.com/us/home.html) 智能集线器到MQTT.
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) -之间的接口 [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) （868MHz射频设备，例如ELV FS20，HMS，EM等）和MQTT.
 * [domiqtt](https://github.com/etobi/domiqtt) -连接到Domiq Base（LCN）并与MQTT相互转换.
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) -Enocean USB300（TCM310）适配器和MQTT之间的接口.
 * [Evohome2mqtt](https://github.com/svrooij/evohome2mqtt) -霍尼韦尔Evohome系统的MQTT接口.
-* [helios2mqtt](https://github.com/mreschka/helios2mqtt) -用于将Helios简易控制系统（如KWL EC 220D）同步到MQTT的守护程序.
-* [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)  -EQ-3的Homehome系列智能家居设备和MQTT之间的接口.  支持Homematic IP.
+* [helios2mqtt](https://github.com/mreschka/helios2mqtt) -用于将Helios简易控制系统（例如KWL EC 220D）同步到MQTT的守护程序.
+* [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)  -EQ-3的Homehome系列智能家居设备与MQTT之间的接口.  支持Homematic IP.
 * [homeeToMqtt](https://github.com/odig/homeeToMqtt) -homee和MQTT之间的双向接口.
 * [HS100toMQTT](https://github.com/dersimn/HS100toMQTT) -TPLink HS100 / HS110和MQTT之间的网关.
-* [ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) -小型ftp服务器，用于从ipcameras接收运动图像并将其转换为mqtt警报.
+* [ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) -小型FTP服务器，用于从ipcameras接收移动图像并将其转换为MQTT警报.
 * [knx-mqtt-bridge](https://github.com/pakerfeldt/knx-mqtt-bridge) -使用knx.js库建立KNX和MQTT.
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) -KNX家庭自动化标准和MQTT之间的接口.
-* [mcsMQTT](https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3) -用于HS3（HomeSeer）的插件.
+* [mcsMQTT](https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3) -HS3插件（HomeSeer）.
 * [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge) -MQTT digitalSTROM服务器桥.
 * [mqtt2homekit](https://github.com/forty2/mqtt2homekit) -大致相反 [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt)：使用MQTT而不使用Siri或iPhone控制支持HomeKit的设备.
 * [node-lox-mqtt-gateway](https://github.com/alladdin/node-lox-mqtt-gateway) -Loxone™微型服务器与MQTT代理进行通信的网关.
@@ -251,7 +256,7 @@
 
 #### Smart Home Integration Software
 
-* [control-freak](https://github.com/catx23/control-freak)  -适用于IoT和朋友的IDE.  内置MQTT支持.
+* [control-freak](https://github.com/catx23/control-freak)  -物联网和朋友的IDE.  内置MQTT支持.
 * [Domoticz](https://www.domoticz.com/) -Domoticz Beta支持MQTT.
 * [FHEM](http://fhem.de/fhem.html) 有一个 [MQTT module](http://fhem.de/commandref.html#MQTT) 自V5.6起.
 * [Home Assistant](https://www.home-assistant.io/) 有一个MQTT组件.
@@ -274,12 +279,12 @@
 * [MQTT DMX Controller](https://github.com/hobbyquaker/mqtt-dmx-controller) -具有MQTT支持的DMX控制器.
 * [mqtt-dmx-sequencer](https://github.com/hobbyquaker/mqtt-dmx-sequencer) -无头对应 [MQTT DMX Controller](https://github.com/hobbyquaker/mqtt-dmx-sequencer) -使用从MQTT DMX控制器导出的场景和序列，并通过MQTT控制它们.
 * [sunricher-wifi-mqtt](https://github.com/magcode/sunricher-wifi-mqtt) -使用MQTT控制Sunricher LED设备.
-* [TRADFRI2MQTT](https://github.com/hardillb/TRADFRI2MQTT) - MQTT Bridge for IKEA TRÅDFRI Light Gateway.
+* [TRADFRI2MQTT](https://github.com/hardillb/TRADFRI2MQTT) -宜家TRÅDFRILight Gateway的MQTT桥.
 
 
 #### Home Entertainment
 
-* [airtunes2mqtt](https://github.com/hobbyquaker/airtunes2mqtt) - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
+* [airtunes2mqtt](https://github.com/hobbyquaker/airtunes2mqtt) -具有Airplay / Airtunes设备的MQTT控制的多房间音频.
 * [bravia2mqtt](https://github.com/forty2/bravia2mqtt) -使用MQTT控制您的Sony Bravia电视.
 * [broadlink-mqtt](https://github.com/eschava/broadlink-mqtt) -MQTT客户端，用于控制BroadLink RM设备.
 * [chromecast-mqtt-connector](https://github.com/nohum/chromecast-mqtt-connector) -使用MQTT控制您的Google Chromecast设备.
@@ -313,17 +318,17 @@
 
 #### Misc
 
-* [AlexaMqttBridge](https://github.com/mhdawson/AlexaMqttBridge) -亚马逊Alexa和Mqtt之间的桥梁.
-* [bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) -易于扩展的蓝牙至MQTT网关，目前支持：EQ3智能恒温器，小米Mi秤，Linak Desk，MySensors和小米Mi Flora植物传感器.
-* [buderus2mqtt](https://github.com/krambox/buderus2mqtt) -Buderus KM200 Internet网关和Mqtt之间的桥梁.
+* [AlexaMqttBridge](https://github.com/mhdawson/AlexaMqttBridge) -Amazon Alexa和MQTT之间的桥梁.
+* [bt-mqtt-gateway](https://github.com/zewelor/bt-mqtt-gateway) -易于扩展的蓝牙到MQTT网关，目前支持：EQ3智能恒温器，小米Mi秤，Linak Desk，MySensors和小米Mi Flora植物传感器.
+* [buderus2mqtt](https://github.com/krambox/buderus2mqtt) -Buderus KM200 Internet网关和MQTT之间的桥梁.
 * [dashbutton2mqtt](https://github.com/hobbyquaker/dashbutton2mqtt) -将Amazon Dash Button的发布发布到MQTT.
 * [flowerpower2mqtt](https://github.com/hobbyquaker/flowerpower2mqtt) -将测量值从鹦鹉花卉发电厂的传感器发布到MQTT.
 * [gBridge](https://github.com/kservices/gBridge)  -gBridge允许您使用Google Assistant控制（几乎）任何智能家居设备，任何智能家居软件.  因此，它将语音命令从Google收到的动作转换为MQTT消息.
 * [haiku2mqtt](https://github.com/forty2/haiku2mqtt) -Haiku聪明的粉丝和MQTT之间的桥梁.
 * [homely](https://github.com/baol/homely) -用于连接Domoticz和其他内容的Go守护程序的集合.
-* [kobold2mqtt](https://github.com/krambox/kobold2mqtt) -Vorwerk Kobold Vr200 Internet网关和Mqtt之间的桥梁.
-* [leaf-python-mqtt](https://github.com/glynhudson/leaf-python-mqtt) -从Nissan Leaf API中提取数据并发布到mqtt.
-* [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) -Linux服务，用于将Xiaomi Mi Flora植物传感器数据发送到MQTT代理.
+* [kobold2mqtt](https://github.com/krambox/kobold2mqtt) -Vorwerk Kobold Vr200 Internet网关和MQTT之间的桥梁.
+* [leaf-python-mqtt](https://github.com/glynhudson/leaf-python-mqtt) -从Nissan Leaf API中提取数据并发布到MQTT.
+* [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) -将小米Mi Flora植物传感器数据发送到MQTT代理的Linux服务.
 * [mqtt2ble](https://github.com/hardillb/mqtt2ble) -一种将MQTT主题桥接到BLE Gatt特性的方法.
 * [mqttclpro](https://github.com/dc297/mqttclpro) -具有Tasker集成Android应用程序的MQTT Client.
 * [mqttDB](https://github.com/hobbyquaker/mqttDB) -具有MQTT接口的JSON存储.
@@ -333,14 +338,14 @@
 * [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) -运行speedtest-cli并通过MQTT发布结果.
 * [unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt) -将连接的客户端从Ubiquiti Unifi发布到MQTT.
 * [Valetudo](https://github.com/Hypfer/Valetudo) -具有MQTT和Webinterface的Xiaomi（Roborock）真空机器人固件.
-* [wlan-thermo-mqtt-addon](https://bitbucket.org/IOcastor/wlan-thermo-mqtt-addon/) -受欢迎的DIY烧烤温度计的插件.
+* [wlan-thermo-mqtt-addon](https://bitbucket.org/IOcastor/wlan-thermo-mqtt-addon/) -流行的DIY烧烤温度计的附件.
 *包（Android自动化） [MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin).
 * [MQTT2ETCD](https://github.com/David-Lor/MQTT2ETCD) -MQTT-ETCD网关：通过MQTT在ETCD上放置PUT键，并观看关于MQTT主题的ETCD键更改
 
 
 ### Visualization, Dashboards
 
-* [Crouton](https://github.com/edfungus/Crouton) -仅使用MQTT和JSON即可接入IOT网络的仪表板.
+* [Crouton](https://github.com/edfungus/Crouton) -仅使用MQTT和JSON进入IOT网络的仪表板.
 * [d3-MQTT-Topic-Tree](https://github.com/hardillb/d3-MQTT-Topic-Tree) -使用d3可折叠树和WebSocket上的MQTT的MQTT主题树查看器.
 * [HelloIoT](https://github.com/adrianromero/helloiot) -HelloIoT是MQTT客户端和仪表板应用程序.
 * [HOMR-REACT](https://github.com/klauserber/homr-react) -可配置的MQTT可视化.
@@ -348,9 +353,10 @@
 * [Linear MQTT Dashboard](https://github.com/ravendmaster/linear-mqtt-dashboard) -简单，可自定义的控制面板-MQTT客户端.
 * [MMM-mqtt](https://github.com/javiergayala/MMM-mqtt)  -这是MagicMirror²的扩展.  它提供了订阅MQTT主题并显示它们的功能.
 * [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de) -Android应用程序：使用该应用程序，您可以为启用了MQTT的IoT智能家居设备和应用程序创建仪表板.
+* [MQTT-Hyperdash](https://github.com/kollokollo/MQTT-Hyperdash) -适用于linux / Raspberry Pi的通用独立MQTT仪表板.
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) -MQTT的Web界面.
 * [mqtt-svg-dash](https://github.com/jpmens/mqtt-svg-dash) -订阅MQTT，从消息中提取JSON，并使SVG页面上的指示灯闪烁.
-* [mqtt2highcharts](https://github.com/matbor/mqtt2highcharts) -使用Highcharts绘制来自订阅的mqtt主题的实时编号数据.
+* [mqtt2highcharts](https://github.com/matbor/mqtt2highcharts) -使用Highcharts绘制来自已订阅的MQTT主题的实时编号数据.
 * [node-red-dashboard](https://github.com/node-red/node-red-dashboard) -Node-RED的仪表板UI.
 
 其他可用于创建可视化/仪表板的工具可以在下面找到 [Platforms](#platforms) 和 [Smart Home Integration Software](#smart-home-integration-software).
@@ -363,7 +369,7 @@
 
 ### Security, Encryption
 
-* [Teserakt E4](https://teserakt.io/) -用于MQTT和其他M2M协议的端到端加密-商业解决方案.
+* [Teserakt E4](https://teserakt.io/) -MQTT和其他M2M协议的端到端加密和密钥管理-开源和付费计划.
 
 
 ## Contribute

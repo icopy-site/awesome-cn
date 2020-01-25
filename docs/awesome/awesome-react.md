@@ -120,7 +120,7 @@
 
 ##### React Component Libraries
 
-- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
+- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development
 - [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
 - [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) -用于构建Microsoft Web体验的React组件
@@ -132,6 +132,7 @@
 - [rsuite](https://github.com/rsuite/rsuite) -一套React组件
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -根据Atlassian设计指南构建的Atlassian官方UI库.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
+- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，包含50多个具有材质，引导程序和自定义主题的组件.
 
 ##### React Awesome Components
 
@@ -162,7 +163,7 @@
 - [react-text-mask](https://github.com/text-mask/text-mask) -React的输入掩码
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) -创建自动适应您的应用程序的框架屏幕
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) -用CSS动画化的React加载指示器集合
-- [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
+- [rheostat](https://github.com/airbnb/rheostat) -使用React构建的可访问滑块组件
 - [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
 - [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
 
@@ -203,7 +204,6 @@
 - [Slate - A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate)
 - [react-json-schema - Construct React elements from JSON by mapping JSON definitions to React components that you expose.](https://github.com/TechniqueSoftware/react-json-schema)
 - [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
-- [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
 - [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 - [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)

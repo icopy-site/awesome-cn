@@ -28,7 +28,7 @@
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
 ### Books
- - [50 Tips and Tricks for MongoDB Developers](http://shop.oreilly.com/product/0636920019893.do)  -MongoDB公司提供的高级MongoDB提示和技巧.  工程师
+ - [50 Tips and Tricks for MongoDB Developers](http://shop.oreilly.com/product/0636920019893.do)  -由MongoDB公司提供的高级MongoDB提示和技巧.  工程师
  - [Builder Book](https://builderbook.org/book) -了解如何从头开始构建完整的JavaScript Web应用程序
  - [MongoDB Applied Design Patterns (Rick Copeland)](http://shop.oreilly.com/product/0636920027041.do)
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) -基本介绍
@@ -76,15 +76,15 @@
  - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) -官方Go驱动程序
 
 ### Haskell
- - [mongodb](https://github.com/mongodb-haskell/mongodb/) -社区Haskell司机
+ - [mongodb](https://github.com/mongodb-haskell/mongodb/) -社区Haskell驱动程序
 
 ### Java
  - [Jongo](https://github.com/bguerout/jongo) -在Java中像在Mongo Shell中一样进行查询
- - [Hibernate OGM](https://github.com/hibernate/hibernate-ogm) -JPA for NoSQL数据存储的强大功能和简单性
+ - [Hibernate OGM](https://github.com/hibernate/hibernate-ogm) -JPA for NoSQL数据存储的功能强大且简单
  - [mongo-java-driver](https://github.com/mongodb/mongo-java-driver) -官方Java驱动程序
  - [mongo-queue-java](https://github.com/gaillard/mongo-queue-java) -MongoDB之上的Java消息队列
  - [mongoFS](https://github.com/dbuschman7/mongoFS) -GridFS的增强，以允许更多的特性和功能
- - [Mongojack](https://github.com/mongojack/mongojack) -基于Jackson，可让您轻松将mongo对象作为POJO处理
+ - [Mongojack](https://github.com/mongojack/mongojack) -基于Jackson，可让您轻松将mongo对象作为POJO进行处理
  - [Morphia](https://github.com/MorphiaOrg/morphia) -Java ODM
  - [Morphium](https://github.com/sboesebeck/morphium) -Java ODM和缓存层
  - [Mungbean](https://github.com/jannehietamaki/mungbean) -用于在JVM上运行的语言的社区驱动程序
@@ -107,7 +107,7 @@
 ### Lisp
  - [cl-mongo](https://github.com/fons/cl-mongo) -社区通用Lisp界面
  - [mongo-cl-driver](https://github.com/archimag/mongo-cl-driver) 社区通用Lisp驱动程序
- - [mongo-el](https://github.com/m2ym/mongo-el) -社区Emacs Lisp驱动程序
+ - [mongo-el](https://github.com/emacsorphanage/mongo) -社区Emacs Lisp驱动程序
 
 ### Mathematica
  - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) -社区Mathematica驱动程序
@@ -116,7 +116,7 @@
  - [mongo-perl-driver](https://github.com/mongodb/mongo-perl-driver) -Perl官方驱动程序
 
 ### PHP
- - [Doctrine MongoDB](https://github.com/doctrine/mongodb) -原生PHP Mongo PECL扩展周围的包装器，以提供其他功能
+ - [Doctrine MongoDB](https://github.com/doctrine/mongodb) -围绕本机PHP Mongo PECL扩展的包装程序，以提供其他功能
  - [eloquent-mongodb-repository](https://github.com/LaravelRepository/eloquent-mongodb-repository) -建立在laravel-mongodb之上的存储库实现
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) -Laravel雄辩的模型和查询生成器
  - [mongodb-repository](https://github.com/PHPRepository/mongodb-repository) -存储库实施
@@ -158,7 +158,7 @@
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) -生成随机数据集并设置基准
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) -三种精巧的Python脚本可用于集合和索引
  - [mtools](https://github.com/rueckstiess/mtools) -收集脚本以设置测试环境并可视化日志文件
- - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) -用于从GridFS提供文件的Nginx模块
+ - [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) -Nginx模块，用于从GridFS提供文件
  - [nginx-mongodb-rest](https://github.com/minhajuddin/nginx-mongodb-rest) -REST客户端编写为Nginx模块
  - [pt-mongodb-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-query-digest.html) -汇总查询分析器中的查询并报告查询使用情况统计信息
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) -MongoDB集群状态概述命令行工具
@@ -190,9 +190,9 @@ Services:
  - [dbKoda](https://www.dbkoda.com) -跨平台和开源IDE
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) -Mac本机客户端
  - [Mongotron](http://mongotron.io/) -使用Electron构建的跨平台和开源客户端
- - [NoSQLBooster](https://nosqlbooster.com) -功能丰富但易于使用的跨平台IDE（以前为MongoBooster）
+ - [NoSQLBooster](https://nosqlbooster.com) -功能丰富但易于使用的跨平台IDE（以前称为MongoBooster）
  - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) -跨平台，自托管且易于使用的管理工具（以前为Mongoclient）
- - [QueryAssist](https://queryassist.com) -现代化且功能强大的GUI工具，跨平台且易于使用
+ - [QueryAssist](https://queryassist.com) -强大的现代GUI工具，跨平台且易于使用
  - [Robo 3T](https://github.com/Studio3T/robomongo) -免费的，本机且跨平台的以外壳为中心的GUI（以前称为Robomongo）
  - [Studio 3T](https://studio3t.com/) -跨平台的GUI，稳定而强大（以前为MongoChef）
 
@@ -245,7 +245,7 @@ Services:
 这些开源应用程序在其堆栈中的某个位置具有MongoDB：
 
  - [Builder Book App](https://github.com/builderbook/builderbook) -用于发布使用React和Express构建的书籍或文档的Web应用程序
- - [CodeCombat](https://github.com/codecombat/codecombat) -用于学习如何编码的多人编程游戏
+ - [CodeCombat](https://github.com/codecombat/codecombat) -用于学习编码的多人编程游戏
  - [Countly](https://github.com/countly/countly-server) -使用Node.js构建的移动和Web分析和营销平台
  - [GrandNode](https://github.com/grandnode/grandnode) -使用ASP.NET构建的多平台电子商务购物车
  - [Leanote](https://github.com/leanote/leanote) -使用Go构建的Evernote克隆
@@ -257,4 +257,4 @@ Services:
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Guillaume Gelin](https://github.com/ramnes) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Guillaume Gelin](https://github.com/ramnes) 已放弃此作品的所有版权以及相关或邻近的权利.
