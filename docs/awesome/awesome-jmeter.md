@@ -1,17 +1,8 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<p align="right">
-    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a> <a href="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
-</p>
-<br>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/assets/images/awesome-jmeter_square.svg?sanitize=true" alt="Awesome JMeter">
-</p>
-<p align="center">
-    <h1 align="center">很棒的JMeter </h1>
-    <p align="center">精选的资源集合，涵盖<a href="http://jmeter.apache.org/">Apache JMeter</a>以及相关的东西和闪亮的东西：插件，集成，测试技术，devops实践等. </p>
-    <br><br>
-</p>
+## Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+精选的资源集合，涵盖<a href="http://jmeter.apache.org/">Apache JMeter</a>以及相关的东西和闪亮的东西：插件，集成，测试技术，devops实践等.
 
 [<img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/assets/images/jmeter-logo.svg?sanitize=true" align="right" width="260" alt="Apache JMeter">](http://jmeter.apache.org/)
 
@@ -305,7 +296,7 @@
 - [Flood.io Blog](https://flood.io/blog/) -从Flood IO加载测试思想，故事和想法.
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) -另一个使用JMeter进行性能和自动化测试的博客.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) -关于JMeter和负载测试的OctoPerf博客.
-- [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
+- [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) -关于JMeter的Abstracta博客.
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) -关于Apache JMeter和Web应用程序性能测试的博客*（没有更多更新）*.
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) -JMeterExpert博客*（没有更多更新）*.
 
@@ -324,7 +315,7 @@
 - [@jmeter_plugins](https://twitter.com/jmeter_plugins) -JMeter负载测试工具的自定义插件项目的Twitter帐户.
 - [@BlazeMeter](https://twitter.com/BlazeMeter) -基于JMeter的DevOps性能工程平台Blazemeter的官方Twitter帐户.
 - [@masterjmeter](https://twitter.com/masterjmeter) -的官方帐户 [Master Apache JMeter from Load Testing to DevOps](#books) 书.
-- [@ubikloadpack](https://twitter.com/ubikloadpack) -的Twitter帐户 [Ubik Load Pack](#plugins)，用于视频流和复杂协议负载测试的自定义JMeter插件.
+- [@ubikloadpack](https://twitter.com/ubikloadpack) -的Twitter帐户 [Ubik Load Pack](#plugins), custom JMeter plugins for Video Streaming & complex protocols load testing.
 
 ### Q&A
 
@@ -349,7 +340,7 @@
 
 ## Contributing
 
-欢迎捐款！\
+欢迎捐款！ <br>
 请看看 [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTING.md) 第一.
 
 ## License

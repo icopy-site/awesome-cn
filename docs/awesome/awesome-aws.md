@@ -326,7 +326,7 @@ AWS Repos：
 
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) -自定义资源示例.
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) -自定义资源框架.
-* [cfn-python-lint :fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) -用于整理/验证CloudFormation的工具.
+* [cfn-python-lint :fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) -用于整理/验证CloudFormation的工具.
 * [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) -样本菜谱.
 * [cfncluster :fire::fire:](https://github.com/awslabs/cfncluster) -部署和维护HPC群集的框架.
 
@@ -708,7 +708,7 @@ AWS Repos：
 
 * [Lumoslabs/aleph](https://github.com/lumoslabs/aleph) -编写和运行Redshift的功能齐全的Web应用程序
  查询.  支持查询的修订跟踪，并具有基本的可视化支持.
-* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/)  -一个Web应用程序，允许轻松查询现有数据库，共享数据集并以不同方式可视化它.  最初是为了与Redshift合作而开发的，并对此提供了大力支持.
+* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/)  -一个Web应用程序，允许轻松查询现有数据库，共享数据集并以不同方式对其进行可视化.  最初是为了与Redshift合作而开发的，并对此提供了大力支持.
 * [everythingMe/redshift_console](https://github.com/EverythingMe/redshift_console)  -监视和管理Redshift集群的简单工具.  第一个版本具有监视正在运行的查询，WLM队列和表/方案的基本工具.
 
 ### Route 53
@@ -1154,7 +1154,7 @@ AWS页面：
 AWS会议：
 
 * [re:Invent](https://reinvent.awsevents.com/)  -年度用户大会.  该活动的主题演讲，培训和认证机会，超过250场技术会议，合作伙伴博览会，下班后活动等等.
-* [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) -全球一日活动由AWS Education的技术讲师提供，非常适合希望了解如何开始使用AWS Cloud的IT专业人员，开发人员和技术经理.
+* [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) -全球一日活动由AWS Education的技术指导员提供，非常适合希望了解如何开始使用AWS Cloud的IT专业人员，开发人员和技术经理.
 
 社区会议：
 
@@ -1183,7 +1183,7 @@ AWS会议：
 *将102Tbps的网络容量连接到数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 *自2014年以来推出了500多种主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *所有其他14个云提供商的总和是AWS总容量的1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持Amazon的所有全球基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持亚马逊的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 
@@ -1252,7 +1252,7 @@ AWS会议：
 * [Management Console (AWS Console)](https://aws.amazon.com/console/) -基于Web的界面，用于管理所有服务.
 * [OpsWorks](https://aws.amazon.com/opsworks/) -使用Chef提供EC2服务的配置.
 * [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) -您对服务健康状况的个性化看法.
-* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，最终用户可以在个性化门户中访问所需的产品.
+* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，然后他们可以在个性化门户中访问所需的产品.
 
 ### Security and Identity Services
 
