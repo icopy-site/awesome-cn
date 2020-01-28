@@ -230,7 +230,7 @@
  |  如何找到一个宜居星球  詹姆斯·卡斯汀| [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
  |  10,000年的爆炸：文明如何促进人类进化  格雷戈里·科克伦，亨利·哈彭丁| [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) |  |  
  |  人人进化：达尔文理论如何改变我们对生活的看法  戴维·斯隆·威尔逊| [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |
- |  光速生活：从双重螺旋到数字生活的黎明  J.克雷格·文特| [3.87](https://github.com/hackerkid/Mind-Expanding-Books/blob/master/www.goodreads.com/book/show/17674969-life-at-the-speed-of-light) | 2013 |
+| Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life | J. Craig Venter | [3.87](https://github.com/hackerkid/Mind-Expanding-Books/blob/master/www.goodreads.com/book/show/17674969-life-at-the-speed-of-light) | 2013 |
  |  The Shallows：互联网对我们的大脑有何作用？  尼古拉斯·卡尔| [3.85](https://www.goodreads.com/book/show/9778945-the-shallows) | 2011 |  
  |  着火：烹饪如何使我们成为人类  Richard Wrangham | [3.83](https://www.goodreads.com/book/show/11148989-catching-fire) | 2009 |  
  |  芯片天堂：数字时代社会与科学的模糊愿景  Bart Kosko | [3.82](https://www.goodreads.com/book/show/172645.Heaven_in_a_Chip) | 2000 |  
@@ -325,7 +325,7 @@
 ## Shakespeare
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
- |  莎士比亚思考：学生演员，导演和其他想让吟游诗人感到自在的人的入门指南|  巴里·爱德斯坦.  | [4.62](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) |  |  
+ |  莎士比亚思考：学生演员，导演和其他想让吟游诗人自在的人的入门指南|  巴里·爱德斯坦.  | [4.62](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) |  |  
  |  哈姆雷特与复仇  Eleanor Prosser | [4.50](https://www.goodreads.com/book/show/625956.Hamlet_Revenge_) | 1971 |  
  |  莎士比亚的格律艺术|  乔治·赖特| [4.39](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) | 1991 |  
  |  炼狱中的哈姆雷特|  斯蒂芬·格林布拉特| [3.98](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) | 2002 |  
@@ -345,7 +345,7 @@
  |  犯罪与惩罚|  费奥多尔·陀思妥耶夫斯基| [4.18](https://www.goodreads.com/book/show/7144.Crime_and_Punishment) | 2002 |  
  |  1984年|  乔治·奥威尔| [4.17](https://www.goodreads.com/book/show/40961427-1984) | 1949 |  
  |  荒原狼：小说  罗勒·克雷顿（Hermann Hesse），罗勒·克赖顿（Basil Creighton）| [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1999 |  
-| The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 2002 |  
+ |  玻璃珠游戏|  赫尔曼·黑森，理查德和克拉拉·温斯顿| [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 2002 |  
  |  战争与和平|  列夫·托尔斯泰| [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1998 |  
  |  简·爱|  夏洛特·勃朗特| [4.10](https://www.goodreads.com/book/show/10210.Jane_Eyre) | 1847 |  
  |  发芽|  Emile Zola | [4.10](https://www.goodreads.com/book/show/28407.Germinal) | 2004 |  
@@ -392,7 +392,8 @@
  |  黑暗之塔|  斯蒂芬·金| [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |  
  |  他的黑暗材料|  菲利普·普尔曼| [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
  |  最后的愿望-佐贺|  安德烈（Andrzej Sapkowski） [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
-| The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
+ |  纳尼亚传奇|  克莱夫·斯台普斯·刘易斯 [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
+ |  时间之轮|  罗伯特·乔丹| [4.19](https://www.goodreads.com/series/41526-the-wheel-of-time) | 1990 |
  |  城市与城市|  中国米维尔| [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
  |  破碎的帝国|  马克·劳伦斯| [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
 
@@ -403,7 +404,7 @@
  |  帮助|  凯瑟琳·斯托克特| [4.45](https://www.goodreads.com/book/show/4667024-the-help) |  |  
  |  偷书贼|  马库斯·祖萨克（Markus Zusak）| [4.36](https://www.goodreads.com/book/show/19063.The_Book_Thief) |  |  
  |  我们看不到的所有光  安东尼·杜尔| [4.31](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) | 2014 |  
- |  地球的支柱|  Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 2002 |  
+| The Pillars of the Earth | Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 2002 |  
  |  凯恩和亚伯|  杰弗里·阿彻（Jeffrey Archer）| [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 2004 |  
  |  艾玛|  简·奥斯丁| [3.99](https://www.goodreads.com/book/show/6969.Emma) | 2003 |  
  |  索菲的世界：关于哲学史的小说  Jostein Gaarder和Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1996 |  

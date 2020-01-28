@@ -30,7 +30,7 @@
 - [Cloudant - MapReduce Primer](https://cloudant.com/blog/mapreduce-from-the-basics-to-the-actually-useful/#.WIDBfRsrKUl) -关于reduce，group，group_level的精彩介绍.
 - [Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation) -数据联接的索引映射（发出）.
 - [Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html) -有关“查看归类”的更多文档.
-- [Cloudant - MapReduce and the Secondary Index (Video)](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/) -有关mapReduce，二级索引和复杂键的精彩视频.
+- [Cloudant - MapReduce and the Secondary Index (Video)](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/) -有关mapReduce，二级索引和复杂键的出色视频.
 - [Cloudant - Design Documents](https://docs.cloudant.com/design_documents.html) -Cloudant的文档也是学习CouchDB概念的重要资源.
 - [Cloudant - Design Document Management](https://docs.cloudant.com/design_document_management.html) -如何管理生产中的设计文档更改.
 
@@ -67,7 +67,7 @@
 
 - [10 Common Misconceptions](https://www.youtube.com/watch?v=BKQ9kXKoHS810) -来自此的更多视频 [conference](http://conf.couchdb.org/).
 - [The NoSQL Tapes](http://nosqltapes.com) -有关CouchDB的讨论 [Volume 5 - CouchDB](http://nosqltapes.com/video/hoffman-and-kocoloski-on-cloudant-and-couchdb), [Volume 8 - MapReduce](http://nosqltapes.com/video/understanding-mapreduce-with-mike-miller).
-- [Scaling Out with BigCouch](http://www.oreilly.com/pub/e/1760) -O&#39;Reilly有关使用BigCouch进行扩展的视频.
+- [Scaling Out with BigCouch](http://www.oreilly.com/pub/e/1760) -O&#39;Reilly有关使用BigCouch扩展视频的视频.
 - [IBM - The New Builders Webinar Series](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=cdc&eventid=1240121&sessionid=1&key=9E23B44802902EAD0BB2603F0434742E&regTag=35370&sourcepage=register)
 
 ## Libraries
@@ -122,12 +122,13 @@
 - [CouchDB Maximum Database Size](http://www.nosql.se/2011/09/couchdb-maximum-database-size/)
 - [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 - [Persistent Trees in git, Clojure and CouchDB](https://eclipsesource.com/blogs/2009/12/13/persistent-trees-in-git-clojure-and-couchdb-data-structure-convergence/)
+- [CouchDB - JSON and B-trees and REST, oh my!](https://pozorvlak.livejournal.com/176385.html)
 
 ### Attachments
 
 - [PouchDB - Attachments are overrated](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html) -_“更新：自从撰写本文以来，PouchDB中附件的稳定性和性能已大大提高.
 - [Cloudant - Attachments Performance Considerations](https://docs.cloudant.com/attachments.html#performance-considerations)
-- [Are attachments duplicated for each revision?](http://grokbase.com/t/couchdb/user/14a1phbzrb/are-attachments-duplicated-for-each-revision-as-well) -关于跨修订附件的邮件列表讨论.
+- [Are attachments duplicated for each revision?](http://grokbase.com/t/couchdb/user/14a1phbzrb/are-attachments-duplicated-for-each-revision-as-well) -有关跨修订的附件的邮件列表讨论.
 
 
 ### Backups

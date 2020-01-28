@@ -136,7 +136,7 @@
 - [GitX](https://github.com/gitx/gitx)  -git版本控制系统的图形客户端.  ！[objective_c_icon] 
 - [Gitee](https://github.com/Nightonke/Gitee)  -Gitee，Github的macOS状态栏应用程序.  ！[objective_c_icon]！[swift_icon] 
 - [Github contributions](https://github.com/remirobert/Github-contributions)  -适用于iOS，WatchOS和macOS的GitHub贡献应用程序.  ！[swift_icon] 
-- [GithubListener](https://github.com/ad/GithubListener)  -简单的应用程序，它将通知有关监视的存储库的新提交.  ！[swift_icon] 
+- [GithubListener](https://github.com/ad/GithubListener)  -简单的应用程序，它将通知有关已监视存储库的新提交.  ！[swift_icon] 
 - [GithubNotify](https://github.com/erik/github-notify)  -简单的macOS应用程序，可在您未读GitHub通知时提醒您.  ！[swift_icon] 
 - [Streaker](https://github.com/jamieweavis/streaker)  -GitHub贡献条纹跟踪菜单栏应用程序.  ！[javascript_icon] 
 - [TeamStatus-for-GitHub](https://github.com/marcinreliga/TeamStatus-for-GitHub)  -macOS状态栏应用程序，用于跟踪团队中的代码审查过程.  ！[swift_icon] 
@@ -145,7 +145,7 @@
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper)  -简单的macOS应用程序，可从JSON生成Swift Object Mapper类.  ！[swift_icon] 
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，setter和getter导出为模型类.  ！[swift_icon] 
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，设置器和获取器导出为模型类.  ！[swift_icon] 
 - [j2s](https://github.com/zadr/j2s)  -macOS应用程序，用于将JSON对象转换为Swift结构（当前针对Swift 4和Codable）.  ！[swift_icon] 
 
 #### Other Development
@@ -177,7 +177,7 @@
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes)  -为您提供有关平均iOS / macOS应用商店评论时间的指示.  ！[swift_icon] 
 - [AppleTrace](https://github.com/everettjf/AppleTrace)  -适用于iOS / macOS的跟踪工具.  ！[objective_c_icon] 
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - App that lets you open .car files and browse/extract their images. ![objective_c_icon] ![swift_icon] 
-- [Assets](https://github.com/athiercelin/Assets)  -资产是一款macOS应用，可管理您的开发项目（Xcode，Web等）的资产.  ！[swift_icon] 
+- [Assets](https://github.com/e7711bbear/Assets)  -资产是一款macOS应用，可管理您的开发项目（Xcode，Web等）的资产.  ！[swift_icon] 
 - [Attabench](https://github.com/attaswift/Attabench)  -Attabench是适用于macOS的微基准测试应用程序，旨在测量和可视化Swift代码的性能.  ！[swift_icon] 
 - [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub)  -小型应用程序，用于在本机macOS应用程序中监视GitHub项目网页：octocat :!  ！[objective_c_icon] 
 - [Brisk](https://github.com/br1sk/brisk)  -用于提交雷达的macOS应用.  ！[swift_icon] 
@@ -186,13 +186,13 @@
 - [FilterShop](https://github.com/KrisYu/FilterShop)  -macOS应用程序，用于浏览CoreImage滤镜.  ！[swift_icon] 
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)  -macOS应用程序以生成应用程序图标.  ！[javascript_icon] 
 - [Iconizer](https://github.com/raphaelhanneken/iconizer)  -动态创建Xcode图像目录（xcassets）.  ！[swift_icon] 
-- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成各种状态下的现有应用程序大小一致的图标，摇动（晃动）等.[objective_c_icon] 
+- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成各种状态下的现有应用程序的大小一致的图标，摇动（摇动）等. 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)  -过期的Swift注入重写.  ！[objective_c_icon]！[swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)  -直观的应用程序，可在屏幕上显示透明图像.  ！[swift_icon] 
 - [Localizable.strings](https://github.com/ralcr/Localizable.strings)  -Mac应用程序可本地化您的iOS和macOS项目.  ！[swift_icon] 
 - [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor)  -简单的macOS编辑器应用程序，允许您并排编辑所有翻译，以帮助您管理iOS应用程序本地化.  ！[swift_icon] 
-- [Localizations](https://github.com/athiercelin/Localizations)  -Localizations是一个macOS应用程序，用于管理您的Xcode项目本地化文件（.strings）.  ！[swift_icon] 
+- [Localizations](https://github.com/e7711bbear/Localizations)  -Localizations是一个macOS应用程序，用于管理您的Xcode项目本地化文件（.strings）.  ！[swift_icon] 
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)  -macOS应用程序，可方便地访问系统颜色面板.  ！[swift_icon] 
 - [Notarize](https://github.com/macmade/Notarize) -适用于macOS的公证状态监视工具，支持多个开发者帐户！[swift_icon] 
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater)  -macOS应用程序，可帮助您管理Podfile中的依赖项版本.  ！[swift_icon] 
@@ -284,7 +284,7 @@
 ### IDE
 - [Atom](https://github.com/atom/atom)  -可入侵的文本编辑器.  ！[javascript_icon] 
 - [LiveCode](https://github.com/livecode/livecode) -跨平台开发IDE！[c_icon] 
-- [Oni](https://github.com/onivim/oni)  -Oni是模态编辑代码编辑器的现代版，专注于开发人员的工作效率.  ！[javascript_icon]！[type_script_icon] 
+- [Oni](https://github.com/onivim/oni)  -Oni是模态编辑代码编辑器的现代版，专注于开发人员的生产力.  ！[javascript_icon]！[type_script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode)  -由Microsoft开发的代码编辑器.  ！[type_script_icon] 
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)  -ZeroBrane Studio是一种轻量级的跨平台Lua IDE，具有代码完成，语法突出显示，远程调试器，代码分析器，实时编码以及对各种Lua引擎的调试支持.  ！[lua_icon] 
 
@@ -370,7 +370,7 @@
 - [FromScratch](https://github.com/Kilian/fromscratch)  -可以用作快速笔记或待办事项的小应用程序.  ！[javascript_icon]！[css_icon] 
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app)  -适用于macOS的笔记本查看器.  ！[swift_icon] 
 - [NoteTaker](https://github.com/insidegui/NoteTaker)  -适用于macOS和iOS的简单笔记应用程序，使用Realm和CloudKit进行同步.  ！[swift_icon] 
-- [Notes](https://github.com/SauvageP/Notes) -Notes是一个macOS应用程序，用于创建注释，它使用文本以及其他格式来创建注释：图像，视频，联系人等.！[swift_icon] 
+- [Notes](https://github.com/SauvageP/Notes) -Notes是一个macOS应用程序，用于创建注释，使用文本以及其他格式：图像，视频，联系人等.！[swift_icon] 
 - [QOwnNotes](https://github.com/pbek/QOwnNotes)  -具有降价支持和ownCloud / Nextcloud集成的纯文本文件记事本和待办事项列表管理器.  ！[cpp_icon] 
 - [Simplenote](https://github.com/Automattic/simplenote-macos)  -记笔记的最简单方法.  ！[objective_c_icon] 
 - [Standard Notes](https://github.com/standardnotes/web)  -安全的地方，方便您记录笔记，思想和生活.  ！[javascript_icon]！[css_icon] 

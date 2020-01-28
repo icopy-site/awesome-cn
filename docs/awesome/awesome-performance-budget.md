@@ -42,10 +42,12 @@
 ## Bundle Analyzers
 
 - [Bundlephobia](https://bundlephobia.com/) -查找将npm软件包添加到软件包中的成本.
+- [bundle-buddy](https://bundle-buddy.firebaseapp.com/) -一种工具，可帮助您跨JavaScript块/拆分查找源代码重复项.
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) -Webpack插件和CLI实用程序，将捆绑包内容表示为方便的交互式可缩放树形图.
 - [Disc](http://hughsk.io/disc/) -可视化浏览器项目捆绑包的模块树并追踪膨胀. 
 - [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) -分析和可视化由Lasso创建的项目包.
 - [rollup-plugin-analyzer](http://rollup-plugin-analyzer.doesdev.com/) -有关您的汇总捆绑包的指标，请使用此工具潜入您的捆绑包.
+- [Parcel plugin Visualizer](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) -用于包裹捆扎机的插件，用于可视化捆扎内容.
 - [CSS Analyzer](https://github.com/macbre/analyze-css) -CSS选择器的复杂性和性能分析器.
 
 ## Videos
