@@ -14,7 +14,7 @@
 
 ## Books
 - [The Art, Science, and Engineering of Fuzzing: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) - 
-实际上，该文档是一篇论文，但它包含的内容比任何其他书籍都重要和重要.
+实际上，该文档是论文，但它包含的内容比任何其他书籍都重要和重要.
 - [Fuzzing for Software Security Testing and Quality Assurance, 2nd Edition](https://www.amazon.com/Fuzzing-Software-Security-Testing-Assurance/dp/1608078507/) (2018)
 - [Fuzzing: Brute Force Vulnerability Discovery, 1st Edition](https://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119/) (2007)
 - [Open Source Fuzzing Tools, 1st Edition](https://www.amazon.com/Open-Source-Fuzzing-Tools-Rathaus/dp/1597491950/) (2007)
@@ -27,9 +27,9 @@
 
 ## Papers
 为了达到明确的范围，我选择将有关绒毛的出版物纳入最后的4篇论文集.
-从2008年1月到2019年7月的主要安全会议和其他会议.
+从2008年1月到2019年7月举行的主要安全会议等.
 它包括（i）网络和分布式系统安全研讨会（NDSS），（ii）IEEE研讨会
-安全和隐私（S＆P），（iii）USENIX安全研讨会（USEC）和（iv）ACM计算机和通信安全（CCS）会议.
+安全和隐私（S＆P），（iii）USENIX安全研讨会（USEC），以及（iv）ACM计算机和通信安全（CCS）会议.
 
 
 ### The Network and Distributed System Security Symposium (NDSS)
@@ -43,9 +43,9 @@
 - [What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices, 2018](http://s3.eurecom.fr/docs/ndss18_muench.pdf)
 - [Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing, 2018](https://lifeasageek.github.io/papers/han:meds.pdf)
 - [Vuzzer: Application-aware evolutionary fuzzing, 2017](https://www.ndss-symposium.org/ndss2017/ndss-2017-programme/vuzzer-application-aware-evolutionary-fuzzing/)
-- [DELTA: A Security Assessment Framework for Software-Defined Networks, 2017](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/ndss201702A-1LeePaper.pdf)
+- [DELTA: A Security Assessment Framework for Software-Defined Networks, 2017](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss201702A-1LeePaper.pdf)
 - [Driller: Augmenting Fuzzing Through Selective Symbolic Execution, 2016](https://cancer.shtech.org/wiki/uploads/2016---NDSS---driller-augmenting-fuzzing-through-selective-symbolic-execution.pdf)
-- [Automated Whitebox Fuzz Testing, 2008](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/Automated-Whitebox-Fuzz-Testing-paper-Patrice-Godefroid.pdf)
+- [Automated Whitebox Fuzz Testing, 2008](https://www.ndss-symposium.org/wp-content/uploads/2017/09/Automated-Whitebox-Fuzz-Testing-paper-Patrice-Godefroid.pdf)
 
 
 ### IEEE Symposium on Security and Privacy (IEEE S&P)
@@ -129,12 +129,12 @@
 - [radamsa](https://gitlab.com/akihe/radamsa) -通用模糊器.
 - [zzuf](https://github.com/samhocevar/zzuf) -透明的应用程序输入模糊器.
 ### Binary
-- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) -面向安全的模糊器，采用新型的编译时检测和遗传算法自动发现干净有趣的测试用例，这些用例会触发目标二进制文件中的新内部状态. 
+- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) -面向安全的模糊器，采用新型的编译时工具和遗传算法自动发现干净有趣的测试用例，这些用例会触发目标二进制文件中的新内部状态. 
 - [WinAFL](https://github.com/googleprojectzero/winafl) -AFL的一个分支，用于模糊Windows二进制文件.
 - [libFuzzer](http://llvm.org/docs/LibFuzzer.html) -用于覆盖率指导的模糊测试的库. [Tutorial from Google.](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Driller](https://github.com/shellphish/driller) -实现 [driller paper](https://www.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf) .  此实现基于AFL构建，其中angr用作符号跟踪器.
 - [shellphish fuzzer](https://github.com/shellphish/fuzzer) -AFL的Python接口，可轻松注入测试用例和其他功能.
-- [Eclipser](https://github.com/SoftSec-KAIST/Eclipser) -一种基于二进制的模糊测试工具，该工具通过利用一种称为灰匣子conolic测试的新技术，改进了基于覆盖率的经典模糊测试.
+- [Eclipser](https://github.com/SoftSec-KAIST/Eclipser) -一种基于二进制的模糊测试工具，通过利用一种称为灰盒conolic测试的新颖技术，改进了基于覆盖率的经典模糊测试.
 ### Web, JavaScript
 - [jsfunfuzz](https://github.com/MozillaSecurity/funfuzz) -JavaScript引擎模糊器.
 - [IFuzzer](https://github.com/vspandan/IFuzzer) -使用遗传编程的进化解释器模糊器.
@@ -146,7 +146,7 @@
 ### Network protocol
 - [T-Fuzz](https://github.com/HexHive/T-Fuzz) -T-Fuzz利用覆盖率指导的模糊器生成输入.
 - [TLS-Attacker](https://github.com/RUB-NDS/TLS-Attacker) -用于分析TLS库的基于Java的框架.
-- [DELTA](https://github.com/nss-lab/DELTA) -SDN安全评估框架.
+- [DELTA](https://github.com/seungsoo-lee/DELTA) -SDN安全评估框架.
 - [boofuzz](https://github.com/jtpereyda/boofuzz)  -人类的网络协议模糊测试.  可从http://boofuzz.readthedocs.io/获得文档，包括精美的快速入门指南.
 - [LL-Fuzzer](https://github.com/mit-ll/LL-Fuzzer) -适用于Android设备的自动NFC模糊测试框架.
 - [tlsfuzzer](https://github.com/tomato42/tlsfuzzer) -SSL和TLS协议测试套件和模糊器.

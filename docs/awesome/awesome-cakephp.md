@@ -16,7 +16,7 @@
 
  &gt;对于那些想知道的人；  该列表与plugins.cakephp.org的不同之处在于支持
 &gt;插件子部分（而不是仅整个插件/仓库），更精细
-&gt;分组，并且主要关注于特定于任务的功能.
+&gt;分组，主要关注于特定于任务的功能.
 
 
 
@@ -35,31 +35,31 @@
 - ：草莓： [AssetCompress plugin](https://github.com/markstory/asset_compress) -CakePHP的完整资产管理器.
 - [AssetMix plugin](https://github.com/ishanvyas22/asset-mix) -提供与 [Laravel Mix](https://laravel-mix.com) 资产编制.
 - [Assets plugin](https://github.com/mirko-pagliai/cakephp-assets) -动态和“即时”资产文件.
-- [Less plugin](https://github.com/elboletaire/less-cake-plugin) -CakePHP的解析器插件更少.
+- [Less plugin](https://github.com/elboletaire/less-cake-plugin) -更少的CakePHP解析器插件.
 - [MinifyHtml plugin](https://github.com/WyriHaximus/MinifyHtml) -压缩HTML输出.
 
 ## Auditing / Logging
 *用于审核和日志记录的插件.*
 
-- [AuditStash plugin](https://github.com/lorenzo/audit-stash) -灵活而坚实的审核日志跟踪.
+- [AuditStash plugin](https://github.com/lorenzo/audit-stash) -灵活可靠的审核日志跟踪.
 - ：草莓： [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) -简单而独立的日志记录到数据库而不是文件.
-- [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) -插件以允许将当前登录的用户传递到模型层.
+- ：草莓： [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) -插件以允许将当前登录的用户传递到模型层.
 - [Version plugin](https://github.com/josegonzalez/cakephp-version) -有助于版本化数据库实体的插件.
 
 ## Authentication and Authorization
 *用于实现身份验证和授权的插件和库.
 
 - [Acl plugin](https://github.com/cakephp/acl/) -将ACL作为数据库方法进行管理.
-- [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) -允许使用 [HybridAuth](https://github.com/hybridauth/hybridauth) CakePHP在图书馆的社交标志.
+- [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) -允许使用 [HybridAuth](https://github.com/hybridauth/hybridauth) CakePHP与图书馆上的社交标志.
 - [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) -一个用于使用JSON Web令牌进行身份验证的插件.
 - ：草莓： [Authentication plugin](https://github.com/cakephp/authentication) -官方的CakePHP身份验证中间件插件.
 - ：草莓： [Authorization plugin](https://github.com/cakephp/authorization) -官方CakePHP授权栈.
 - [CakeDC/NavAuth plugin](https://github.com/CakeDC/cakephp-nav-auth)  -使用SOAP或OData服务针对Navision®服务进行身份验证的插件.  它包括NTLM身份验证等.
-- [CakeDC/Users plugin](https://github.com/CakeDC/users) -完整的用户管理（管理面板，记住我等），社交登录（FB，Twitter，LinkedIn，Google，Instagram），RBAC，API等.
+- ：草莓： [CakeDC/Users plugin](https://github.com/CakeDC/users) -完整的用户管理（管理面板，记住我等），社交登录（FB，Twitter，LinkedIn，Google，Instagram），RBAC，API等.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) -一个简单的Cake 3插件，可通过Cookie自动验证用户身份.
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) -一个CakePHP插件，用于分层，基于角色的简单授权.
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) -使用OAuth2身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
-- [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) -事件驱动的行为，可轻松生成一次性使用的安全令牌.
+- ：草莓： [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) -事件驱动的行为，可轻松生成一次性使用的安全令牌.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) -轻松构建支持SaaS的Web应用程序.
 - ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -基于身份验证和基于角色的（单/多）授权，这是一种非常轻巧的方法.
 - ：草莓： [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) -包含 [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) 用于密码哈希的DRY方法.
@@ -74,7 +74,7 @@
 ## Code Analysis
 *用于分析，解析和处理代码库的插件.
 
-- ：草莓： [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) -通过将注释添加到现有代码中，类似于对新代码进行烘烤，来帮助改善IDE的支持.
+- ：草莓： [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) -通过将注释添加到现有代码中，类似于对新代码进行烘烤，从而有助于更好地支持IDE.
 - ：草莓： [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) -提供测试增强功能和TDD支持作为浏览器后端.
 
 ## Debugging
@@ -84,7 +84,7 @@
 - ：草莓： [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
-- [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) -一个插件，可帮助检测实时数据库和夹具中的不匹配情况，从而使基于夹具的测试更加可靠，部署更安全.
+- [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) -一个插件，可帮助检测实时数据库和灯具中的不匹配情况，从而使基于灯具的测试更加可靠，并且部署更安全.
 - [Sentry plugin](https://github.com/Connehito/cake-sentry) 一个将Sentry与CakePHP无缝集成以解决错误和异常的插件.
 - ：草莓： [Setup plugin](https://github.com/dereuromark/cakephp-setup) -包含调试和维护工具的轻量级安装插件.
 - [Whoops plugin](https://github.com/dereuromark/cakephp-whoops) -适用于酷孩子的PHP错误和异常 [filp/whoops](https://github.com/filp/whoops).
@@ -93,7 +93,7 @@
 *实现依赖项注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖项注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -124,7 +124,7 @@
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) -使用Flysystem进行抽象文件系统访问.
 - [Image plugin](https://github.com/josbeir/image) -图像行为与Cake在TranslateBehavior中内置的行为非常相似.
 - ：草莓： [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) -摘要 [Flysystem](https://flysystem.thephpleague.com/) +基于文件实体的上传插件.
-- [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) -使用的可自定义插件 [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
+- [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) -使用 [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) -具有缩略图生成功能的可自定义上传插件.
 - [Xety/Cake3Upload plugin](https://github.com/Xety/Cake3-Upload) -一个用于上传文件的小插件.
 
@@ -137,7 +137,7 @@
 - [HtmlPurifier plugin](https://github.com/chrisShick/CakePHP3-HtmlPurifier) -净化器插件行为，用于在将数据封送到实体中和/或保存之前清除数据.
 
 ## Geolocation
-*用于对地址进行地理编码以及使用纬度和经度的插件.
+*用于对地址进行地理编码以及使用纬度和经度的插件.*
 
 - [Geo plugin](https://github.com/dereuromark/cakephp-geo) -包含 [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) 和 [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
@@ -182,7 +182,7 @@
 ## Migration
 *围绕迁移和升级的插件和资源.
 
-- [Migrations plugin](https://github.com/cakephp/migrations) -（DB）迁移插件.
+- ：草莓： [Migrations plugin](https://github.com/cakephp/migrations) -（DB）迁移插件.
 - ：草莓： [Upgrade app](https://github.com/cakephp/upgrade) -适用于2.x =&gt; 3.x和3.x =&gt; 4.x的官方升级应用.
 - [Upgrade app (extended)](https://github.com/dereuromark/upgrade) -适用于2.x =&gt; 3.x和3.x之间的扩展升级应用程序.
 - [Upgrade/Migration Guide](https://book.cakephp.org/3.0/en/appendices.html) -官方迁移指南.
@@ -191,25 +191,25 @@
 *其他插件和库.*
 
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) -使您能够将控制器操作作为单个类进行管理.
-- ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -一个易于处理AJAX请求的插件.
+- ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个用于向您的应用添加枚举列表支持的插件.
 - ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
-- ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以还原到原始身份验证会话，而无需重新登录.
+- ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.
 - [Comments plugin](https://github.com/Kareylo/CakePHP-Comments) -完全可自定义的评论插件.
 - [CurrencyConverter plugin](https://github.com/AlessandroMinoccheri/cakephp-currency-converter) -一个将货币转换为另一种货币的插件.
-- [Dashboard plugin](https://github.com/gourmet/dashboard) -为蛋糕建立漂亮的仪表板.
+- [Dashboard plugin](https://github.com/gourmet/dashboard) -为您的蛋糕构建漂亮的仪表板.
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) -用于导出，导入和管理数据库备份的插件.
-- ：草莓： [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  -允许访问者发送快速简便的反馈信息，包括.  通过边栏形式的屏幕截图.
+- ：草莓： [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  -允许访问者发送快速简便的反馈，包括  通过边栏形式的屏幕截图.
 - ：草莓： [Flash plugin](https://github.com/dereuromark/cakephp-flash) -针对您的应用程序的更强大的Flash消息.
 - [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) -允许使用hashid来不向用户公开数据库id.
-- [Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) -监视您的应用程序的声音（例如，数据库是否可用和最新）.
+- [Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) -监视应用程序的声音（例如，数据库是否可用以及是否为最新）.
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) -将秒转换为人类可读的字符串（字符串转换为秒），使用营业时间（1周= 5天，1天= 8小时）.
 - [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) -用于递归扫描链接的插件.
 - [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) -Tactician命令总线集成工具.
-- [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) -维护外壳针对带有可选IP白名单的所有请求进入维护模式.
+- [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) -维护外壳可进入带有可选IP白名单的所有请求的维护模式.
 - ：草莓： [Shim plugin](https://github.com/dereuromark/cakephp-shim) -包含有用垫片和改进功能的插件，可作为您应用程序的基础.
 - [TokenVerify plugin](https://github.com/mosaxiv/cakephp-token-verify) -轻松发行可用于邮件身份验证的令牌.
 - ：草莓： [Tools plugin](https://github.com/dereuromark/cakephp-tools) -包含许多有用的库，助手，行为，组件，shell等.
@@ -232,8 +232,8 @@
 *使用通知软件的插件.*
 
 - [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) -一个插件，可通过Google Cloud Messaging将下游消息发送到Android或iOS设备.
-- [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) -一个易于创建和阅读通知的插件.
-- [ker0x/Push plugin](https://github.com/ker0x/cakephp-push) -一个插件，可通过Firebase Cloud Messaging等服务发送推送通知.
+- [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) -一个使创建和阅读通知变得容易的插件.
+- [ker0x/Push plugin](https://github.com/ker0x/cakephp-push) -通过Firebase Cloud Messaging等服务发送推送通知的插件.
 
 ## ORM and Datamapping
 *实现对象关系映射或数据映射技术的插件.
@@ -246,13 +246,14 @@
 - [Lqdt/OrmJson plugin](https://github.com/liqueurdetoile/cakephp-orm-json) -通过CakePHP ORM在JSON类型字段中选择，查找，获取和设置属性和值的行为和特质.
 - [Money plugin](https://github.com/gourmet/money) -使用的CakePHP实体的Money数据类型 [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
 - ：草莓： [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) -允许设置表格的默认顺序.
-- [Muffin/Trash plugin](https://github.com/usemuffin/trash) -CakePHP的软删除行为.
+- ：草莓： [Muffin/Sti plugin](https://github.com/UseMuffin/Sti) -CakePHP的单表继承. 
+- ：草莓： [Muffin/Trash plugin](https://github.com/usemuffin/trash) -CakePHP的软删除行为.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) -保留相关模型的选定字段的行为.
 - [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) -PHPExcel的ORM包装器.
 - [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) -单表继承（STI）插件.
 - [RowLocker plugin](https://github.com/lorenzo/row-locker) -表中行的排他锁.
 - [Serializeable Data Types plugin](https://github.com/burzum/cakephp-serialize-data-types) -将数据库内容序列化为JSON或使用phps序列化函数.
-- ：草莓： [Muffin/Webservices ORM plugin](https://github.com/usemuffin/webservice) -类似于ORM的Web服务界面.
+- ：草莓： [Muffin/Webservices ORM plugin](https://github.com/usemuffin/webservice) -类似于ORM的网络服务界面.
 
 ## PDF
 *用于处理PDF文件的插件和软件.
@@ -273,14 +274,14 @@
 - [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) -使用swagger-php和swagger-ui的CakePHP API的Swagger 2.0文档.
 - [Alt3/ValidationExposer plugin](https://github.com/alt3/cakephp-validation-exposer) -轻松公开您的应用程序的验证规则.
 - [ApiPagination plugin](https://github.com/bcrowe/cakephp-api-pagination) -将来自CakePHP的Paginator的分页信息注入序列化的JsonView和XmlView响应中.
-- [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api)  -提供完整API的多合一解决方案.  它包括版本控制，渲染器，CRUD，身份验证，扩展（分页，过滤器，HATEOAS）等等.
+- ：草莓： [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api)  -提供完整API的多合一解决方案.  它包括版本控制，渲染器，CRUD，身份验证，扩展（分页，过滤器，HATEOAS）等等.
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) -使用中间件激活CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -建筑的听众 [JSON API](https://jsonapi.org/) 兼容的API.
 - [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 
 ## Search
-*用于索引和执行数据查询的插件和软件.*
+*用于对数据建立索引并执行搜索查询的插件和软件.*
 
 - [Cake/ElasticSearch plugin](https://github.com/cakephp/elastic-search) -使用替代ORM [Elasticsearch](https://www.elastic.co/) 作为其后端.
 - [PlumSearch plugin](https://github.com/skie/plum_search)  -搜索插件实现了自定义，灵活和可扩展的搜索策略.  实现PRG模式.
@@ -292,7 +293,7 @@
 *有关安全性的插件和信息，可防止漏洞并防御XSS等.
 
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) -简单的解决方案，使加密的数据类型可以存储在数据库中.
-- ：草莓： [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) -简单，通俗易懂且可扩展的验证码解决方案，默认情况下提供基于图像的数学验证码.
+- ：草莓： [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) -简单，不干扰和可扩展的验证码解决方案，默认情况下提供基于图像的数学验证码.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior)  -使用这种行为来加密您的实体数据.  使用CakePHP Security类在PHP级别完成加密.
 - [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) -使用HashId，Optimus，Tiny和/或自定义混淆策略进行主密钥混淆.
 - ：草莓： [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) -限速（API）请求的插件.
@@ -303,10 +304,10 @@
 ## SEO
 *搜索引擎优化.*
 
-- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -生成弹头并按弹头查找记录的插件.  使用可插拔的体系结构，该体系结构允许使用自己的子弹生成器类.
+- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -一个用于生成弹头并按弹头查找记录的插件.  使用可插拔的体系结构，该体系结构允许使用您自己的Slug生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) -自动创建和管理您的SEO标签.
-- [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) -一个简单的Cake3插件，用于处理字段和按内容查找记录.
-- ：草莓： [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的sl.
+- [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) -一个简单的Cake3插件，用于处理字段和按记录查找记录.
+- ：草莓： [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的.
 
 ## Skeleton
 *围绕应用程序框架的插件和存储库.*
@@ -335,7 +336,7 @@
 - [CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](https://commonmark.org) （降价）对模型和视图的支持.
 - ：草莓： [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) -一个视图类，可以轻松生成CSV.
 - [Datalist plugin](https://github.com/rrd108/cakephp-datalist) - Support for HTML5 datalist element with the possibility to create new entries into associated models.
-- ：草莓： [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类，可轻松生成（复杂）RSS feed.
+- ：草莓： [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类以轻松生成（复杂）RSS feed.
 - [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) -一个插件，可将HTML样式块转换为View模板上的内联CSS（旨在与电子邮件模板一起使用）.
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) -Jade模板引擎插件.
 - [Liquid plugin](https://github.com/gourmet/liquid) -使用Liquid模板语言进行查看的插件.
@@ -350,8 +351,8 @@
 - [CakePHP Codeception module](https://github.com/cakephp/codeception) -与CakePHP的官方集成 [Codeception](https://codeception.com).
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) -官方CakePHP CS规则.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) 支持CakePHP固定装置.
-- [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) -灯具插件可读取现有灯具并创建表/插入数据，以快速启动应用程序.
-- [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) -在运行测试套件时，通过减少插入量来提高插入夹具的效率（仅限mysql）.
+- [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) -灯具插件可读取现有灯具并创建表格/插入数据，以快速启动应用程序.
+- [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) -在运行测试套件时，通过减少插入量来提高插入夹具的效率（仅适用于mysql）.
 - [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) 支持CakePHP夹具记录.
 
 ## Third Party APIs
@@ -399,41 +400,41 @@
 - [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) 使用CRUD插件构建的书签应用程序.
 - [CakeFest](http://cakefest.dereuromark.de/) -在每年的CakePHP会议“ CakeFest”周围的演示应用程序.
 - [Croogo 3.x](http://demo.croogo.org/3.0) -Croogo 3.x演示
-- [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) -包含真实示例（CRUD，身份验证，高级模式等）的CakePHP代码示例示例，该示例遵循 [RealWorld](https://github.com/gothinkster/realworld-example-apps) 规格和API.
+- [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) -示例CakePHP代码库包含遵循的真实示例（CRUD，身份验证，高级模式等） [RealWorld](https://github.com/gothinkster/realworld-example-apps) 规格和API.
 - [Sandbox](https://sandbox.dereuromark.de) -一个沙盒CakePHP应用程序，其中包含许多演示和插件展示.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) 高级查询构建示例.
 - [Xeta](https://github.com/XetaIO/Xeta) -一种帮助从CakePHP开始的人们的资源.
 - [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) -CakePHP + VueJS单页应用程序框架.
 
 ## Resources
-各种资源，例如书籍，网站和文章，可用于提高CakePHP开发技能和知识.
+各种资源，例如书籍，网站和文章，用于提高CakePHP开发技能和知识.
 
 ## Help
 *在哪里获得帮助.*
 
 - [CakePHP-FR.org](http://cakephp-fr.org) -法国社区网站.
-- [CakePHP.ir](http://forum.cakephp.ir/) -与其他开发者的讨论和波斯社区的一般性问题.
+- [CakePHP.ir](http://forum.cakephp.ir/) -与其他开发者的讨论以及针对波斯社区的一般性问题.
 - [Official CakePHP Forum](https://discourse.cakephp.org/) -这适用于一般性问题.
 - [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) -与其他开发人员和核心开发人员的实时聊天/讨论.
 - [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) -这是针对特定问题的，最好是带有一些示例代码.
 
 ## CakePHP Websites
-*有用和最新的CakePHP相关网站和博客.*
+*有用和最新的CakePHP相关网站和博客.
 
 - [AD7six.com](http://AD7six.com) -CakePHP核心开发博客.
 - [CakeDC](http://www.cakedc.com/articles) -关于CakePHP的文章.
 - [dereuromark.de](https://www.dereuromark.de) -广泛的CakePHP核心开发博客.
-- [florian-kraemer.net](http://florian-kraemer.net) -CakePHP相关的核心开发博客.
+- [florian-kraemer.net](http://florian-kraemer.net) -一个与CakePHP相关的核心开发博客.
 - [jedistirfry.co.uk](http://jedistirfry.co.uk) -一个与CakePHP相关的开发者博客.
 - [josediazgonzalez.com](http://josediazgonzalez.com/) -一个主要与CakePHP相关的核心开发博客.
 - [mark-story.com](http://mark-story.com) -CakePHP首席开发博客.
-- [waltherlalk.com](http://waltherlalk.com) -CakePHP相关的核心开发博客.
+- [waltherlalk.com](http://waltherlalk.com) -一个与CakePHP相关的核心开发博客.
 
 ## CakePHP Books and Articles
-*与CakePHP相关的很棒的（e）书和其他阅读材料.
+*与CakePHP相关的很棒的电子书和其他阅读材料.
 
 ## CakePHP Videos
-*与CakePHP有关的精彩视频.*
+*与CakePHP相关的精彩视频.*
 
 - [CakePHP](https://www.youtube.com/user/CakePHP) -有关CakePHP视频的频道.
 
@@ -447,7 +448,7 @@
 *文档和CakePHP相关的阅读和听力材料.*
 
 - [CakePHP Cookbook(!)](https://book.cakephp.org/) -官方CakePHP文档.
-- [CakePHP Reporter](https://www.scoop.it/topic/cakephp-reporter) -一份关于CakePHP的报纸和资料集.
+- [CakePHP Reporter](https://www.scoop.it/topic/cakephp-reporter) -关于CakePHP的报纸和资料集.
 
 ## CakePHP Internals Reading
 *阅读与CakePHP内部和决策相关的材料.
@@ -465,7 +466,7 @@
 *区域聚会*
 
 - [CakePHP-DE](https://www.meetup.com/CakePHP-DE) -在德国见面.
-- [CakePHP-France](https://www.meetup.com/CakePHP-France) -法国的MeetUps.
+- [CakePHP-France](https://www.meetup.com/CakePHP-France) -法国聚会.
 - [CakePHP-NL](https://www.meetup.com/CakePHP-NL) -荷兰的MeetUps.
 
 ## Contributing

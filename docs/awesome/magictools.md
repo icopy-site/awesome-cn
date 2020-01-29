@@ -17,7 +17,7 @@
 
 -：免费：-免费
 -：tada：-开源
--：钱袋子：-付费
+-：moneybag：-付费
 -：money_with_wings：-部分免费
 
 
@@ -39,7 +39,7 @@ Graphics
 * ：自由： [Iconmonstr](http://iconmonstr.com/) -您游戏的另一个免费图标资源.
 *：money_with_wings： [Kenney Assets](http://kenney.nl/assets) -免税资产
 * ：自由： [Liberated Pixel Cup assets](http://lpc.opengameart.org) -OpenGameArt论坛举办的解放像素杯（LPC）的免费图形资产
-* ：自由： [Matcaps](https://github.com/nidorx/matcaps#matcaps) -巨大的PNG和ZMT matcap纹理库，按颜色组织.
+* ：自由： [Matcaps](https://github.com/nidorx/matcaps#matcaps) -庞大的PNG和ZMT matcap纹理库，按颜色进行组织.
 * ：自由： [OpenClipart](https://openclipart.org/) -免费剪贴画的集合.
 * ：自由： [OpenGameArt](http://opengameart.org/) -旨在与免费软件游戏项目一起使用的媒体存储库.
 * ：钱袋子： [Oryx Design Lab](http://oryxdesignlab.com/) -便宜的高质量免版税精灵
@@ -66,37 +66,37 @@ Graphics
 #### Bitmap Compression
 
 *：然后： [ImageAlpha](http://pngmini.com/) — Mac OS X GUI，用于pngquant和其他工具
-*：money_with_wings： [Kraken.io](https://kraken.io/) -具有同类最佳算法的强大，超快速图像优化器和压缩器.
-* ：自由： [PNGGauntlet](http://pnggauntlet.com/) -粉碎PNG以获得更快的站点
+*：money_with_wings： [Kraken.io](https://kraken.io/) -具有一流算法的强大，超快速图像优化器和压缩器.
+* ：自由： [PNGGauntlet](http://pnggauntlet.com/) -粉碎PNG以获取更快的网站
 * ：自由： [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) -Windows GUI进行批量转换.
 *：然后： [Pngyu](http://nukesaq88.github.io/Pngyu/) -简单的PNG图像文件压缩工具.
-*：然后： [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/)  — Mac和Windows.  与“另存为网络”的比较
+*：然后： [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/)  — Mac和Windows.  与“保存为网络”的比较
 *：money_with_wings： [TinyPNG](https://tinypng.com/) -用于PNG图像的高级有损压缩，可保留完整的Alpha透明度.
 
 #### Texture Tools
 
 * ：钱袋子： [FilterForge](https://www.filterforge.com/) -Adobe Photoshop的插件，可让您构建自己的滤镜.
-* ：自由： [Live Normal](https://tenebrislab.github.io/livenormal/)  -一个Android和iOS应用，可随时随地生成无缝材料.  拍照后，“实时法线”将创建可平铺的纹理并生成纹理图，以供您选择的PBR引擎使用.
+* ：自由： [Live Normal](https://tenebrislab.github.io/livenormal/)  -一个Android和iOS应用，可随时随地生成无缝材料.  拍摄照片后，“实时法线”将创建可平铺的纹理并生成纹理图，以供您选择的PBR引擎使用.
 * ：钱袋子： [PixPlant](http://www.pixplant.com/) -PixPlant是一款智能3D纹理工具，可从照片创建高质量的法线，位移，镜面贴图和无缝纹理.
 * ：钱袋子： [STG](http://www.seamlesstexturegenerator.com/) -用于快速，轻松地从照片创建专业的无缝平铺纹理的工具.
 
 #### Character Generators
 
 * ：自由： [Charas](http://charas-project.net/index.php) -Charas是RPG Maker的字符集生成器.
-*：然后： [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) -基于LPC（解放像素杯）图形的Sprite字符生成器
+*：然后： [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) -基于LPC（解放像素杯）图形的精灵字符生成器
 
 #### Tile/Level Editors
 
-* ：自由： [ArrayPainter](http://arraypainter.com/) -Array Painter是使2D阵列准备好可复制粘贴到您自己的程序中的最简单，最快的方法.
+* ：自由： [ArrayPainter](http://arraypainter.com/) -Array Painter是使2D阵列准备好复制粘贴到您自己的程序中的最简单，最快的方法.
 * ：钱袋子： [AutoTileGen](http://pixelatto.com) -AutoTileGen是2D游戏地形的自动切片集生成器.
 *：然后： [OGMO Editor](http://www.ogmoeditor.com/) -通用级编辑器.
-*：然后： [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) -具有引擎不可知原理的2D级别和UI编辑器.
-* ：自由： [Tiled](http://www.mapeditor.org/) -免费，易于使用且灵活的瓷砖地图编辑器.
+*：然后： [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) -具有引擎不可知论的2D级别和UI编辑器.
+* ：自由： [Tiled](http://www.mapeditor.org/) -免费，易于使用且灵活的图块地图编辑器.
 
 #### Animation
 
 * ：钱袋子： [Fusion Character Animator](http://loopengo.free.fr/) -Clickteam Fusion 2.5的小工具，可为开发人员简化2D角色精灵的动画.
-* ：钱袋子： [Spine](http://esotericsoftware.com/) -Spine致力于2D动画，可提供高效的工作流程，以创建出色的动画并将其集成到游戏中.
+* ：钱袋子： [Spine](http://esotericsoftware.com/) -Spine致力于2D动画，提供了高效的工作流程，可用于创建惊人的动画并将其集成到您的游戏中.
 * ：钱袋子： [Spriter](http://www.brashmonkey.com/spriter.htm) -用于精灵动画的现代工具.
 *：然后： [DragonBones](http://dragonbones.com) -Flash的开源2D骨架动画解决方案
 * ：钱袋子： [Mixamo](https://www.mixamo.com/#/) -3D人形模型的自动自动装配和动画制作工具，
@@ -106,25 +106,25 @@ Graphics
 * ：钱袋子： [Affinity Designer](https://affinity.serif.com/de/designer) -矢量图形编辑器，具有许多功能，还支持Adobe文件格式
 * ：钱袋子： [Affinity Photo](https://affinity.serif.com/de/photo) -与Adobe文件格式和Affinity Designer一起使用的照片和光栅图形编辑器
 *：money_with_wings： [Aseprite](http://www.aseprite.org/) -动画精灵编辑器和像素美工工具.
-*：然后： [Gimp](http://www.gimp.org/)  -GNU图像处理程序.  它是一个免费分发的软件，用于完成照片润饰，图像合成和图像创作等任务.
-*：然后： [Inkscape](https://inkscape.org/en/) -一种类似于Adobe Illustrator，Corel Draw，Freehand或Xara X的开源矢量图形编辑器.
+*：然后： [Gimp](http://www.gimp.org/)  -GNU图像处理程序.  它是一个免费发行的软件，用于照片修整，图像合成和图像创作等任务.
+*：然后： [Inkscape](https://inkscape.org/en/) -与Adobe Illustrator，Corel Draw，Freehand或Xara X相似的开源矢量图形编辑器.
 *：然后： [Krita](https://krita.org/)  -Krita是一个专业的免费开放源代码绘画程序.  它是由希望为所有人提供价格实惠的艺术工具的艺术家制作的.
 * ：自由： [Multipaint](http://multipaint.kameli.net) -跨平台（Win，Linux，Mac）图像编辑器/绘图器，涵盖了8位计算机（例如C64，ZX Spectrum等）的颜色限制
 * ：钱袋子： [Ormr](http://thebloomapp.com) -Ormr是快速，轻量级，跨平台的过程图形编辑器.
 *：money_with_wings： [Paint.NET](http://www.getpaint.net/) -Paint.NET是用于运行Windows的PC的免费图像和照片编辑软件.
 * ：钱袋子： [Pickle](http://www.pickleeditor.com/) -另一位像素艺术编辑.
-* ：自由： [PiskelApp](http://www.piskelapp.com/) -免费的在线像素艺术和动画精灵工具.
+*：然后： [PiskelApp](http://www.piskelapp.com/) -免费的在线像素艺术和动画精灵工具.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
 * ：钱袋子： [Pixen](https://github.com/Pixen/Pixen) -OSX像素艺术编辑器
 * ：自由： [project one](http://p1.untergrund.net)  -Commodore 64的图片转换器和编辑器，涵盖了此计算机的不同图形模式.  仅Windows
-* ：钱袋子： [PXL8](http://www.pxl8.it) -正在开发中的跨平台（Windows，Mac，Linux）像素艺术编辑器，旨在消除干扰
+* ：钱袋子： [PXL8](http://www.pxl8.it) -正在开发的跨平台（Windows，Mac，Linux）像素艺术编辑器，旨在消除干扰
 * ：钱袋子： [PyxelEdit](http://pyxeledit.com/) -像素艺术编辑器旨在使制作图集，关卡和动画变得轻松有趣.
 * ：自由： [REXPaint](https://www.gridsagegames.com/rexpaint/) -功能强大且用户友好的ASCII艺术编辑器.
 * ：自由： [Tilemancer](https://led.itch.io/tilemancer) -专为像素艺术游戏设计的快速程序创建器.
 * ：自由： [Timanthes](http://csdb.dk/release/?id=75871) -Windows上运行的Commodore 64计算机的像素艺术编辑器
 * [Charas](http://charas-project.net/index.php) -Charas是RPG Maker的字符集生成器.
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) -雪碧角色生成器
-* [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) -基于LPC（解放像素杯）图形的Sprite字符生成器
+* [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) -基于LPC（解放像素杯）图形的精灵字符生成器
 * ：自由： [Spritemate](http://www.spritemate.com) -Commodore 64 Sprites的在线编辑器
 * ：钱袋子： [Pixelator](http://pixelatorapp.com) -将任何图像变成精美的像素艺术
 
@@ -161,22 +161,22 @@ Code
 
 ### Engines and Frameworks
 
-* ：自由： [Agen](http://2dengine.com) -用于使用Lua，兼容的iOS，Mac和Windows设备制作2D游戏的跨平台框架.
-*：然后： [Allegro](http://liballeg.org/) -Allegro 4和5是跨平台的，开放源代码的游戏编程库，主要用于C和C ++开发人员.
+* ：自由： [Agen](http://2dengine.com) -跨平台框架，可使用Lua，兼容的iOS，Mac和Windows设备制作2D游戏.
+*：然后： [Allegro](http://liballeg.org/) -Allegro 4和5是跨平台的，开放源代码的游戏编程库，主要供C和C ++开发人员使用.
 *：然后： [Amethyst](https://www.amethyst.rs/) -使用`gfx-rs`用Rust编写的用于2D和3D的数据驱动游戏引擎.
 *：然后： [amulet](http://www.amulet.xyz/)  -一个基于Lua的免费视听工具包，适用于小型游戏和实验.  它可以在Windows，Mac，Linux，HTML5和iOS上运行.
 *：然后： [AndEngine](http://www.andengine.org) -2D Android游戏引擎
 *：然后： [Azul3D](http://azul3d.org/) -用Go语言编写的3D引擎.
 *：然后： [Bacon2D](http://bacon2d.com/) -简化2D游戏开发的框架，提供了代表大多数游戏所需的基本游戏实体的即用型QML元素.
 *：然后： [bgfx](https://github.com/bkaradzic/bgfx) -与跨平台，图形API无关的“自带引擎/框架”样式渲染库.
-*：然后： [bitsy](https://ledoux.itch.io/bitsy)  -小游戏或世界的小编辑器.  目标是使制作游戏变得容易，使您可以四处走动并与人交谈并在某个地方.
+*：然后： [bitsy](https://ledoux.itch.io/bitsy)  -小游戏或世界的小编辑器.  目标是使制作游戏变得容易，使您可以四处走动，与人交谈并在某个地方.
 *：然后： [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) -经典的点击式冒险游戏引擎和编辑器.
 *：money_with_wings： [Blend4Web](http://www.blend4web.com/) -用于在网络浏览器中创建和显示交互式3D计算机图形的Javascript框架.
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 类似3D基本语言的编程语言，用于快速3D桌面游戏.
 *：然后： [Box2D](http://box2d.org/) -游戏的2D物理引擎.
 *：然后： [Bullet](http://bulletphysics.org/wordpress/) -实时物理模拟.
 *：然后： [Cerberus X](https://www.cerberus-x.com/wordpress/) -多平台编程语言和交叉编译器，旨在进行快速的游戏编程.
-*：然后： [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) -支付您想要的用C ++编写的下一代3D游戏引擎.
+*：然后： [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) -按需付费，用C ++编写的下一代3D游戏引擎.
 *：然后： [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 *：然后： [Chipmunk2D](https://chipmunk-physics.net/) -快速，轻量的2D游戏物理库.
 *：然后： [Cinder](https://libcinder.org/) -Cinder是社区开发的免费开放源代码库，用于使用C ++进行专业质量的创意编码.
@@ -194,7 +194,7 @@ Code
 *：然后： [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 *：然后： [ENGi](https://github.com/ajhager/engi) -用于Go的多平台2D游戏库.
 *：然后： [engo](https://engoengine.github.io/) -Engo是用Go语言编写的开源2D游戏引擎.
-*：然后： [Ebiten](https://ebiten.org/) -Go中已死的简单2D游戏库.
+*：然后： [Ebiten](https://ebiten.org/) -Go中死了的简单2D游戏库.
 *：然后： [ecs-lib](https://github.com/nidorx/ecs-lib#readme)  -** ecs-lib **是一个小巧易用的ECS（实体组件系统）库，用于游戏编程.  它是用Typescript编写的，但是您也可以在node.js和Web浏览器上使用.
 *：然后： [Ejecta](http://impactjs.com/ejecta) -适用于iOS的快速，开源JavaScript，画布和音频实现.
 *：然后： [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
@@ -203,7 +203,7 @@ Code
 *：然后： [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) -具有逼真的物理响应的碰撞检测系统.
 *：然后： [FlashPunk](http://useflashpunk.net/) -专为开发2D Flash游戏而设计的免费ActionScript 3库.
 *：然后： [Flixel](http://flixel.org/index.html) -用ActionScript3编写的开源游戏制作.
-* ：钱袋子： [GameMaker](http://www.yoyogames.com/studio) -GameMaker可使用拖放或称为Game Maker Language的脚本语言来创建跨平台视频游戏，该语言可用于开发更高级的游戏，而这些游戏无法仅通过拖放功能来创建.
+* ：钱袋子： [GameMaker](http://www.yoyogames.com/studio) -GameMaker可以使用拖放或称为Game Maker Language的脚本语言来创建跨平台视频游戏，该语言可用于开发更高级的游戏，而这些游戏无法仅通过拖放功能来创建.
 *：然后： [gameplay](http://gameplay3d.io/)  -用C ++编写的免费，开源，跨平台2D + 3D游戏框架.  它面向开发台式机和手机游戏的独立游戏开发商.
 *：money_with_wings： [GameSalad](https://gamesalad.com/) -适用于Mac和Windows的游戏创建引擎.
 *：然后： [GB Studio](https://www.gbstudio.dev/) -适用于您喜欢的手持视频游戏系统的免费，易于使用的复古冒险游戏创建者.
@@ -228,7 +228,7 @@ Code
 *：然后： [Juno](https://github.com/digitsensitive/juno) -用TypeScript编写的干净轻巧的2D游戏框架
 *：然后： [Juno](https://github.com/rxi/juno) -在Lua中制作具有大块像素的2D游戏的框架
 *：然后： [Kivent](http://kivent.org/) -Kivy的2D游戏框架.
-*：然后： [Kivy](http://kivy.org) -跨平台Python框架，可为Linux，Windows，OS X，Android和iOS创建应用和游戏
+*：然后： [Kivy](http://kivy.org) -用于为Linux，Windows，OS X，Android和iOS创建应用和游戏的跨平台Python框架
 *：然后： [KogGE](https://korge.soywiz.com)  -Kotlin的现代多平台游戏引擎.  使用Kotlin可以立即为JVM，JavaScript，Android和iOS编写游戏.
 *：然后： [KiwiJS](http://www.kiwijs.org/)  -一个有趣且友好的开源HTML5游戏引擎.  有人称它为HTML5游戏引擎的WordPress
 *：然后： [LibGDX](https://libgdx.badlogicgames.com/) -强大的Java库（完全免费），只需编写一次代码，即可在台式机，Android，Web和iOS上运行游戏.
@@ -240,8 +240,8 @@ Code
 *：然后： [LumixEngine](https://github.com/nem0/LumixEngine) -基于C ++构建的3D游戏引擎.
 *：然后： [Lums](https://github.com/lums-proj/Lums)  -用C ++ 11编写的2D / 3D框架.  非常高效和现代.  仍在大力发展中.
 *：然后： [LÖVE](http://love2d.org) -Lua 2D游戏引擎.
-*：然后： [MINX](https://github.com/GearChicken/MINX) -用C ++编写的开源2D游戏框架（具有XNA风格）
-*：然后： [MOAI](http://getmoai.com/) -跨平台框架，旨在为专业游戏开发人员使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
+*：然后： [MINX](https://github.com/GearChicken/MINX) -用C ++编写的开源2D游戏框架（具有XNA的风格）
+*：然后： [MOAI](http://getmoai.com/) -跨平台框架，专为专业游戏开发人员使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
 *：然后： [Magnum](http://magnum.graphics/) -用C ++ 11编写的轻量级模块化2D / 3D图形/游戏引擎
 *：然后： [Matter.js](http://brm.io/matter-js/) -Web的2D物理引擎.
 *：然后： [MelonJS](http://melonjs.org) -开源的轻量级HTML5游戏引擎.
@@ -251,7 +251,7 @@ Code
 * ：自由： [NodeBox](https://www.nodebox.net/) -创建生成设计的Python工具家族.
 *：然后： [nuklear](https://github.com/vurtun/nuklear) -用ANSI C编写的简约即时模式GUI工具包.
 *：然后： [ODE](http://www.ode.org/) -ODE是用于模拟刚体动力学的开源高性能库.
-*：然后： [Ogre3D](http://www.ogre3d.org/) -是用C ++编写的面向场景的实时，灵活的3D渲染引擎（与游戏引擎相对）.
+*：然后： [Ogre3D](http://www.ogre3d.org/) -是用C ++编写的面向场景的实时灵活3D渲染引擎（与游戏引擎相对）.
 *：然后： [OpenFL](http://www.openfl.org/) -用于制作多平台游戏的开源Haxe引擎.
 *：然后： [openFrameworks](https://openframeworks.cc/) -用于创意编码的开源和免费C ++工具包.
 *：然后： [OpenRA](http://www.openra.net/) -OpenRA是一种免费/免费的实时策略游戏引擎.
@@ -288,12 +288,12 @@ Code
 *：然后： [TIC-80](https://tic.computer/) -TIC-80是一款幻想电脑，用于制作，玩和共享小游戏.
 *：然后： [Three.js](http://threejs.org/) -Javascript 3D库.
 *：然后： [Twine](http://twinery.org/)  -可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine不仅仅基于文本，还支持音乐，图像和声音效果.  基本的文字冒险游戏所需的编码知识很少.
-* ：自由： [Unreal Engine 4](https://www.unrealengine.com/) -Epic Games开发的新游戏引擎技术.
+* ：自由： [Unreal Engine 4](https://www.unrealengine.com/) -由Epic Games开发的新游戏引擎技术.
 *：然后： [Urho3D](http://urho3d.github.io/) -跨平台渲染和游戏引擎.
 *：然后： [Vassal](http://www.vassalengine.org/)  -Vassal是一个游戏引擎，用于构建和玩棋盘游戏和纸牌游戏的在线改编.  在Internet上或通过电子邮件实时播放.  Vassal在所有平台上运行，并且是免费的开源软件.
-*：然后： [voxel.js](http://voxeljs.com/) -voxel.js是一个项目集合，可让您比以往更轻松地在浏览器中创建3D体素游戏（如Minecraft）.
-*：然后： [Wave](http://waveengine.net/) -用C语言编写的跨平台引擎#
-*：然后： [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) -用于构建应用和游戏的3D Javacript框架
+*：然后： [voxel.js](http://voxeljs.com/) -voxel.js是一个项目集合，这些项目使在浏览器中创建Minecraft之类的3D voxel游戏比以往更加容易.
+*：然后： [Wave](http://waveengine.net/) -用C编写的跨平台引擎#
+*：然后： [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) -用于构建应用程序和游戏的3D Javacript框架
 *：然后： [XNA](http://mxa.codeplex.com/) -微软的游戏开发框架.
 *：然后： [Xenko](http://xenko.com/) - Open Source C# Game Engine.
 
@@ -310,7 +310,7 @@ Audio
 ### Collections
 
 * ：自由： [Free Game Sounds](https://gamesounds.xyz/) -存档各种免版税的游戏声音.
-* ：自由： [Freesound](http://www.freesound.org/) -知识共享许可声音的协作数据库.
+* ：自由： [Freesound](http://www.freesound.org/) -知识共享许可的声音的协作数据库.
 * ：自由： [Musopen](https://musopen.org/) -免版税的音乐.
 * ：自由： [Octave](http://raisedbeaches.com/octave/index.html) -免费的UI声音库.
 * ：自由： [PacDV](http://www.pacdv.com/sounds/index.html) -免版税的声音收藏.
@@ -322,9 +322,9 @@ Audio
 * ：自由： [Audiosauna](http://www.audiosauna.com/) -使用内置的合成器和现场效果，将您的Web浏览器转变为快速灵活的音乐制作工作室.
 * ：自由： [Audiotool](http://www.audiotool.com/app) -在线音乐制作人.
 * ：自由： [Bfxr](http://www.bfxr.net/) -制作计算机游戏音效的工具.
-* ：自由： [Bosca Ceoil](http://boscaceoil.net/)  -Terry Cavanagh制作的在线（以及台式机）音乐制作人.  简单直观，具有鲜明的复古声音.
-* ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线音效发生器
-* ：自由： [FamiTracker](http://famitracker.com/) -免费的Windows跟踪器，用于为NES / Famicom系统制作音乐.
+* ：自由： [Bosca Ceoil](http://boscaceoil.net/)  -特里·卡瓦纳（Terry Cavanagh）制作的在线（以及台式机）音乐制作人.  简单，直观，具有鲜明的复古声音.
+* ：自由： [ChipTone](http://sfbgames.com/chiptone/) -在线声音效果生成器
+* ：自由： [FamiTracker](http://famitracker.com/) -免费的Windows追踪器，用于为NES / Famicom系统制作音乐.
 * ：自由： [iNudge](http://tonematrix.audiotool.com) -在线创建声音模式.
 *：然后： [jfxr](http://jfxr.frozenfractal.com) -Bfxr音效生成器的JavaScript端口.
 *：然后： [LMMS](https://lmms.io/) -跨平台音乐制作软件.
@@ -340,7 +340,7 @@ Audio
 *制作棋盘游戏的工具*
 
 * ：自由： [Boardgamizer](http://www.boardgamizer.com/) -棋盘游戏设计理念生成器.
-*：然后： [RPTools](http://www.rptools.net/) -旨在增强传统笔和纸角色扮演游戏的开源程序品牌.
+*：然后： [RPTools](http://www.rptools.net/) -旨在增强传统笔和纸角色扮演游戏的一系列开源程序.
 
 Must see
 --------
@@ -371,7 +371,7 @@ Must see
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门图表”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门排行榜”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)
@@ -421,7 +421,7 @@ Must see
 
 ### Videos/Podcasts
 
-* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) -精选的游戏演讲内容（GDC，YouTube等）.
+* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) -精选的游戏演讲清单（GDC，YouTube等）.
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) -Twitch GameDev流
 
 ### Game Jams

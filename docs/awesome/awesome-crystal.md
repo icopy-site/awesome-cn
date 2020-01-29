@@ -18,7 +18,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [bisect](https://github.com/spider-gazelle/bisect) -将值插入已排序的数组
  * [crie](https://github.com/c910335/crie) -编译时特里
  * [CrOTP](https://github.com/philnash/crotp) -两因素验证的HOTP和TOTP实施
- * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
+ * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) -Crystal序列差异实现
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) -执行链表
  * [crystaledge](https://github.com/unn4m3d/crystaledge) -一个纯向量数学库
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) -通用算法库
@@ -70,7 +70,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Nuummite](https://github.com/CodeSteak/Nuummite) -微小的持久嵌入式键值存储
 
 ## CLI Builders
- * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
+ * [admiral](https://github.com/jwaldrip/admiral.cr) -用于编写命令行界面的强大DSL
  * [cli](https://github.com/mosop/cli) -用于构建命令行界面应用程序的库
  * [clicr](https://github.com/j8r/clicr) -一个简单的声明性命令行界面生成器
  * [clim](https://github.com/at-grandpa/clim) -苗条的命令行界面构建器
@@ -110,7 +110,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [base62.cr](https://github.com/Sija/base62.cr) -Base62编码器/解码器，非常适合网址缩短
  * [money](https://github.com/crystal-money/money) -轻松处理货币和货币转换（几乎完整的端口） [RubyMoney](https://github.com/RubyMoney/money))
  * [ms](https://github.com/SuperPaintman/ms) -可以轻松将各种时间格式转换为毫秒以及将人类可读格式转换为毫秒的库
- * [sass.cr](https://github.com/straight-shoota/sass.cr) -将SASS / SCSS编译为CSS（[libsass](https://github.com/sass/libsass/) 捆绑）
+ * [sass.cr](https://github.com/straight-shoota/sass.cr) -将SASS / SCSS编译为CSS（[libsass](https://github.com/sass/libsass/) binding)
  * [time_format.cr](https://github.com/vladfaust/time_format.cr) -轻松转换为人类可读格式的时间
  * [turkish-number](https://github.com/izniburak/turkish-number) -把整数变成土耳其语
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) -libwkhtmltox的绑定/包装（HTML到PDF /图像转换器）
@@ -147,7 +147,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-pg](https://github.com/will/crystal-pg) -Postgres司机
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) -功能齐全的Redis客户端
  * [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb) -RethinkDB / RebirthDB的驱动程序
- * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) -SQLite3绑定
+ * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) -EventQL驱动程序
  * [leveldb](https://github.com/crystal-community/leveldb) -LevelDB的水晶绑定
  * [mongo.cr](https://github.com/ambercommunity/mongo.cr) -绑定MongoDB C驱动程序
@@ -155,6 +155,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Database Tools
  * [migrate](https://github.com/vladfaust/migrate.cr) -带有事务的更简单的数据库迁移工具
+ * [queryit](https://github.com/hugopl/queryit) -基于终端的无安装SQL查询运行程序.
 
 ## Debugging
  * [debug.cr](https://github.com/Sija/debug.cr) -`pp！-style调试的`debug！（…）`宏
@@ -194,7 +195,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Framework Components
  * [device_detector](https://github.com/creadone/device_detector) -通过用户代理字符串检测设备的碎片
- * [Exception Page](https://github.com/crystal-loot/exception_page) -Crystal Web库和框架的特殊例外页面
+ * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) 实作
  * [kave](https://github.com/jwoertink/kave) -Kemal API版本扩展
  * [kemal-session](https://github.com/kemalcr/kemal-session) -Session正在为Kemal交易
@@ -442,7 +443,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Validation
  * [accord](https://github.com/neovintage/accord) -共享的Crystal对象验证库
- * [assert](https://github.com/blacksmoke16/assert) - Extensible annotation based object validation library
+ * [assert](https://github.com/blacksmoke16/assert) -基于可扩展注释的对象验证库
  * [denetmen](https://github.com/izniburak/denetmen) -修补Crystal stdlib的微型检查库
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
 

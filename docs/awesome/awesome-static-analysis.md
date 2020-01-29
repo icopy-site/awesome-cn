@@ -131,7 +131,7 @@
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 * [SonarLint for Visual Studio](https://vs.sonarlint.org/) -SonarLint是Visual Studio 2015和2017的扩展，可为开发人员提供即时反馈，以反馈有关.NET代码中注入的新错误和质量问题.
 * [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) -基于Roslyn并与VS集成的静态分析器集合.
-* [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) - .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
+* [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) -.NET编译器平台（“ Roslyn”）诊断分析器和代码修复.
 
 ## Crystal
 
@@ -253,7 +253,7 @@
 * [Soot](https://sable.github.io/soot/) -用于分析和转换Java和Android应用程序的框架.
 * [Spoon](https://github.com/INRIA/spoon)  -为Java编写自己的静态分析和体系结构规则检查器的库.  可以集成在Maven和Gradle中.
 * [SpotBugs](https://spotbugs.github.io/)  -SpotBugs是FindBugs的继任者.  静态分析工具，用于查找Java代码中的错误.
-* [Xanitizer](https://xanitizer.com/) -Xanitizer在Java / Scala Web应用程序中发现安全漏洞.
+* [Xanitizer](https://xanitizer.com/) - Xanitizer finds security vulnerabilities in Java/Scala web applications.
 
 ## JavaScript
 
@@ -333,7 +333,7 @@
 * [PhpMetrics](http://www.phpmetrics.org/) -计算和可视化各种代码质量指标
 * [phpmnd](https://github.com/povils/phpmnd) -有助于检测魔术数字
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) -用于运行质量检查工具的工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）
-* [phpqa - jakzal](https://github.com/jakzal/phpqa) -在一个容器中有许多用于PHP静态分析的工具
+* [phpqa - jakzal](https://github.com/jakzal/phpqa) - Many tools for PHP static analysis in one container
 * [phpqa - jmolivas](https://github.com/jmolivas/phpqa) -PHPQA多合一分析器CLI工具
 * [phpsa](https://github.com/ovr/phpsa) -用于PHP的静态分析工具.
 * [PHPStan](https://github.com/phpstan/phpstan) -PHP静态分析工具-无需运行即可发现代码中的错误！
@@ -363,7 +363,7 @@
 * [pyflakes](https://github.com/pyflakes/pyflakes/) -检查Python源文件是否有错误
 * [pylint](https://github.com/PyCQA/pylint)  -查找编程错误，帮助实施编码标准并嗅探某些代码气味.  它还包括“ pyreverse”（UML图生成器）和“ symilar”（相似性检查器）.
 * [pyre-check](https://github.com/facebook/pyre-check) -适用于大型Python代码库的快速，可扩展的类型检查器
-* [pyright](https://github.com/Microsoft/pyright) - Static type checker for Python, created to address gaps in existing tools like mypy.
+* [pyright](https://github.com/Microsoft/pyright) -用于Python的静态类型检查器，用于解决mypy等现有工具中的空白.
 * [pyroma](https://github.com/regebro/pyroma) -评估Python项目与Python打包生态系统的最佳实践的符合程度，并列出可以改进的问题
 * [PyT - Python Taint](https://github.com/python-security/pyt) -用于检测Python Web应用程序中的安全漏洞的静态分析工具.
 * [pytype](https://github.com/google/pytype) -用于Python代码的静态类型分析器.
@@ -426,11 +426,11 @@
 
 ## Scala
 
-* [linter](https://github.com/HairyFotr/linter) -Linter是一个Scala静态分析编译器插件，它为各种可能的bug，效率低下和样式问题添加了编译时检查.
+* [linter](https://github.com/HairyFotr/linter) -Linter是一个Scala静态分析编译器插件，它添加了编译时检查以检查各种可能的错误，效率低下和样式问题.
 * [Scalastyle](http://www.scalastyle.org) -Scalastyle检查您的Scala代码并指出其潜在问题.
 * [scapegoat](https://github.com/sksamuel/scapegoat) -用于静态代码分析的Scala编译器插件
 * [WartRemover](https://github.com/puffnfresh/wartremover) -灵活的Scala代码整理工具.
-* [Xanitizer](https://xanitizer.com/) -Xanitizer在Java / Scala Web应用程序中发现安全漏洞.
+* [Xanitizer](https://xanitizer.com/) - Xanitizer finds security vulnerabilities in Java/Scala web applications.
 
 ## Shell
 
@@ -475,6 +475,7 @@
 ## Multiple languages
 
 * [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) :copyright: - Static analysis for C/C++/C#, PHP and Java
+* [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - creates reports of over 400 rule patterns for feature detection (e.g. the use of cryptography or version control in apps). Supports C/C++, C#, Java, JavaScript, HTML, Python, Objective-C, Go, Ruby, Powershell
 * [Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/) :copyright: - Commercial Static Code Analysis which generates exploits to verify vulnerabilities. Supports: Java (including JSP and JSF), C#, VB.Net, ASP.NET, Php, JavaScript, Objective-C, Swift, C\C++, SQL (PL/SQL. T-SQL. MySQL), HTML5
 * [AppScan Source](https://www.hcltechsw.com/wps/portal/products/appscan/home) :copyright: - Commercial Static Code Analysis. Supports: Microsoft .NET Framework (C#, ASP.NET, VB.NET), ASP (JavaScript/VBScript), C/C++, COBOL, ColdFusion, JavaScript, JavaServer Pages (JSP), Java™ (including support for Android APIs), Perl, PHP, PL/SQL, T-SQL, Visual Basic 6
 * [APPscreener](https://appscreener.us) :copyright: - Static code analysis for binary and source code - Java/Scala, PHP, Javascript, C#, PL/SQL, Python, T-SQL, C/C++, ObjectiveC/Swift, Visual Basic 6.0, Ruby, Delphi, ABAP, HTML5 and Solidity
