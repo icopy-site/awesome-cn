@@ -2,6 +2,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Natural Language Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Piscis Magnus from BL Harley 647](https://raw.githubusercontent.com/tokenmill/awesome-nlg/master/logo.png)
+
  自然语言生成在聊天机器人，故事生成和数据描述中具有广泛的应用领域.  涉及NLG过程的部分或全部的技术种类繁多.  该列表旨在通过提供指向各种项目，工具，研究论文和学习资料的链接来表示NLG应用程序和技术的这种逆转.
 
 
@@ -10,7 +12,7 @@
 
 - [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) -公共交通信息领域对话系统中NLG的数据集.
 - [Box-score data](https://github.com/harvardnlp/boxscore-data/) -该数据集包含（人工编写的）NBA篮球比赛摘要，这些摘要与相应的方块得分和线路得分对齐.
-- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中在数据驱动的最新端到端（E2E）NLG方法上，这些方法可以从不对齐的数据中共同学习句子规划和表面实现.
+- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中于数据驱动的最新端到端（E2E）NLG方法，该方法可以从不对齐的数据中共同学习句子规划和表面实现.
 - [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库.
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) -来自weather.gov（美国公共天气预报）的计算机生成的天气预报以及相应的天气数据.
 - [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引用表达生成.
@@ -99,4 +101,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内， [TokenMill](https://www.tokenmill.ai) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [TokenMill](https://www.tokenmill.ai) 已放弃此作品的所有版权以及相关或邻近的权利.

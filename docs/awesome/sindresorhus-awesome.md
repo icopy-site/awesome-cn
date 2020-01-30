@@ -550,6 +550,8 @@
 ## Events
 
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) -全球范围内的活动，包括创意编码，技术，设计，音乐，艺术和酷炫事物.
+- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) -意大利的技术相关活动.
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) -荷兰的技术相关活动.
 
 ## Miscellaneous
 
@@ -625,8 +627,6 @@
 - [Framer](https://github.com/podo/awesome-framer#readme) -交互式UI设计原型.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - 标记语言.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) -有趣的开发人员项目.
-- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) -意大利的技术相关活动.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) -荷兰的技术相关活动.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) -适用于设施，提供商，开发商，政策专家和研究人员的开源医疗软件.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) -用于TeX / LaTeX / ConTeXt的图形绘图包.

@@ -294,8 +294,8 @@ _协助处理Office文档格式的库.
 
 - [Parity](https://github.com/paritytrading/parity) -交易场所的平台.
 - [Philadelphia](https://github.com/paritytrading/philadelphia) -低延迟财务信息交换.
-- [Stripe](https://github.com/stripe/stripe-java) -与Stripe API集成
 - [Square](https://github.com/square/connect-java-sdk/) -与Square API集成.
+- [Stripe](https://github.com/stripe/stripe-java) -与Stripe API集成
 
 ### Formal Verification
 
@@ -313,7 +313,7 @@ _正式方法工具：证明助手，模型检查，符号执行等_
 
 _促进函数式编程的库.
 
-- [cyclops-react](https://github.com/aol/cyclops-react) -Monad和流实用程序，理解力，模式匹配，所有JDK集合的功能扩展，将来的流，蹦床等.
+- [cyclops-react](https://github.com/aol/cyclops-react) -Monad和流实用程序，理解力，模式匹配，所有JDK集合的功能扩展，未来的流，蹦床等.
 - [derive4j](https://github.com/derive4j/derive4j)  -Java 8注释处理器和框架，用于导出代数数据类型的构造函数，模式匹配和态射.  （仅限GPL-3.0）
 - [Fugue](https://bitbucket.org/atlassian/fugue) -番石榴的功能扩展.
 - [Functional Java](http://www.functionaljava.org) -实现许多基本和高级编程抽象，以协助面向合成的开发.
@@ -442,7 +442,7 @@ _用于在Java对象之间进行JSON序列化和反序列化的库.
 - [JSON-io](https://github.com/jdereg/json-io)  -将Java转换为JSON.  将JSON转换为Java.  漂亮的打印JSON.  Java JSON序列化器.
 - [jsoniter](http://jsoniter.com) -具有迭代器和惰性分析API的快速灵活的库.
 - [LoganSquare](https://github.com/bluelinelabs/LoganSquare)  -基于Jackson的流API的JSON解析和序列化库.  优于GSON和Jackson的资料库.
-- [Moshi](https://github.com/square/moshi) -现代化的JSON库，不那么固执己见，并使用内置类型（如List和Map）.
+- [Moshi](https://github.com/square/moshi) -现代化的JSON库，不那么固执己见，并使用诸如List和Map之类的内置类型.
 - [Yasson](https://github.com/eclipse/yasson) -类和JSON文档之间的绑定层类似于JAXB.
 
 ### JSON Processing
@@ -784,7 +784,7 @@ _专门用于创建RESTful服务的框架.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -JBoss Netty HTTP堆栈上的精简包装，可提供扩展和性能.
 - [Restlet Framework](https://github.com/restlet/restlet-framework-java) -具有强大的路由和过滤功能以及统一的客户端和服务器API的开拓性框架.
 - [Spark](http://sparkjava.com) -Sinatra启发框架.
-- [Crnk](http://www.crnk.io) -实施JSON API规范，以构建具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
+- [Crnk](http://www.crnk.io) -实施JSON API规范，以建立具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
 - [springdoc-openapi](https://github.com/springdoc/springdoc-openapi) -使用Spring Boot项目自动生成API文档.
 - [Swagger](https://swagger.io) -REST API的标准，与语言无关的接口.
 
@@ -800,13 +800,13 @@ _用于科学计算，分析和可视化的库.
 - [JGraphX](https://github.com/jgraph/jgraphx) -用于可视化（主要是Swing）并与节点边缘图进行交互的库.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) -用于地球物理科学计算，可视化和数字信号分析的库.
 - [Morpheus](http://www.zavtech.com/morpheus/docs) -提供称为DataFrame的通用二维内存高效表格式数据结构，以实现对JVM上的科学计算进行高效的内存中分析.
-- [Orson-Charts](https://github.com/jfree/orson-charts)  -生成各种3D图表，这些图表可以与Swing和JavaFX一起显示，也可以导出到PDF，SVG，PNG和JPEG.  （仅限GPL-3.0）
+- [Orson-Charts](https://github.com/jfree/orson-charts)  -生成可以与Swing和JavaFX一起显示或导出为PDF，SVG，PNG和JPEG的各种3D图表.  （仅限GPL-3.0）
 - [Tablesaw](https://github.com/lwhite1/tablesaw) -包括数据框，嵌入式列存储以及数百种转换，汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)  -用于绘制数据的轻量级库.  有许多可定制的图表类型.
 
 ### Search
 
-_将文档编入索引以进行搜索和分析的引擎.
+_将文档编入索引以进行搜索和分析的引擎._
 
 - [Apache Lucene](https://lucene.apache.org) -高性能，全功能，跨平台的文本搜索引擎库.
 - [Apache Solr](https://lucene.apache.org/solr) -针对大流量进行了优化的企业搜索引擎.

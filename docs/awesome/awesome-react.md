@@ -104,6 +104,7 @@
 
 - [next.js](https://github.com/zeit/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
+- [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
 
 ##### React Styling
 
@@ -121,7 +122,7 @@
 ##### React Component Libraries
 
 - [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
-- [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
+- [ant-design](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
 - [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) -用于构建Microsoft Web体验的React组件
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) -用React构建的Bootstrap组件
@@ -166,7 +167,7 @@
 - [rheostat](https://github.com/airbnb/rheostat) -使用React构建的可访问滑块组件
 - [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
 - [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
-- [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) - A PDF viewer made for React
+- [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) -为React制作的PDF查看器
 
 ##### React for Command Line
 

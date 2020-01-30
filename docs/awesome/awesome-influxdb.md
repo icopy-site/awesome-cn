@@ -69,7 +69,7 @@
 * [marathon-event-metrics](https://github.com/Wikia/marathon-event-metrics) -报告工具 [Marathon](https://mesosphere.github.io/marathon/) 事件到InfluxDB
 * [mesos-influxdb-collector](https://github.com/kpacha/mesos-influxdb-collector) 轻巧 [mesos](https://mesos.apache.org/) InfluxDB的统计信息收集器
 * [mqforward](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) 到influxdb转发器
-* [node-opcua-logger](https://github.com/coussej/node-opcua-logger) -从OPC UA服务器收集工业数据 
+* [node-opcua-logger](https://github.com/coussej/node-opcua-logger) -从OPC UA服务器收集工业数据
 * [ntp_checker](https://github.com/fss1/ntp_checker) -比较内部NTP源并警告服务器之间的偏移量是否超过可定义的（秒）秒
 * [proc_to_influxdb](https://github.com/d-led/proc_to_influxdb) -通过InfluxDB观察Windows进程启动和停止的控制台应用程序
 * [pysysinfo_influxdb](https://github.com/nagylzs/pysysinfo_influxdb) -定期将系统信息发送到influxdb（使用python3 + psutil，因此在Windows下也可以使用）
@@ -106,7 +106,7 @@
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) -使用StatsD的简单JVM配置文件
 * [statsite](https://github.com/statsite/statsite) -C实现statsd
 * [Sematext Agent](https://github.com/sematext/sematext-agent-integrations) - [Open source monitoring agent](https://sematext.com/blog/now-open-source-sematext-monitoring-agent/)  通过可插拔集成从Solr，Elasticsearch，Cassandra，JVM，JMX，ClickHouse，MySQL，Hadoop等收集指标.  通过Influx Line Protocol输出到InfluxDB或 [Sematext Cloud](https://sematext.com/cloud/)
-* [logagent](https://github.com/sematext/logagent-js)  -是现代的，开源的，轻量级的原木托运人.  Logagent包括 [influxdb input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) 和 [influxdb output plugin](https://sematext.com/docs/logagent/output-plugin-influxdb/) 和 many other [integrations](https://sematext.com/docs/logagent/plugins/) 
+* [logagent](https://github.com/sematext/logagent-js)  -是现代的，开源的，轻量级的原木托运人.  Logagent包括 [influxdb input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) 和 [influxdb output plugin](https://sematext.com/docs/logagent/output-plugin-influxdb/) 和 many other [integrations](https://sematext.com/docs/logagent/plugins/)
 
 ### Libraries
 
@@ -144,8 +144,8 @@
 * [sidekiq-influxdb](https://github.com/vassilevsky/sidekiq-influxdb) - 一种 [Sidekiq](https://sidekiq.org/) 中间件将作业执行指标发送到InfluxDB
 * [snap-plugin-publisher-influxdb](https://github.com/intelsdi-x/snap-plugin-publisher-influxdb) -出版 [snap](https://github.com/intelsdi-x/snap) InfluxDB的指标
 * [statsd-influxdb-backend](https://github.com/bernd/statsd-influxdb-backend) -用于StatsD的天真InfluxDB后端
-* [logagent influx input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) -Logagent插件通过Influx线路协议接收数据  
-* [logagent InfluxDB output plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) -插件通过Influx线路协议发送数据  
+* [logagent influx input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) -Logagent插件通过Influx线路协议接收数据
+* [logagent InfluxDB output plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) -插件通过Influx线路协议发送数据
 
 
 ### Import tools
@@ -206,6 +206,7 @@
 * [influx-protector](https://github.com/ve-global/influx-protector) -代理以防止危险查询进入influxdb
 * [influxdb-schema-updater](https://github.com/open-ch/influxdb-schema-updater) -一个小的DevOps工具，用于使用一组配置文件来管理InfluxDB实例的模式
 * [influx-prompt](https://github.com/RPing/influx-prompt) -具有自动完成功能的交互式命令行InfluxDB CLI
+* [cleanflux](https://github.com/Transatel/cleanflux) -通过自动保留策略选择和在线错误更正在/ query端点周围代理
 
 ## Other awesome lists
 

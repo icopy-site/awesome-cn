@@ -12,7 +12,7 @@
 
  |  iOS应用|  很棒  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1017 |  2020年1月22日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | 1019 | January 29, 2020
 
 
 
@@ -251,7 +251,7 @@
 
 * [Cely](https://github.com/chaione/Cely) -即插即用登录框架.
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) -验证Instagram帐户的简单方法.
-* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) -简单的视图控制器，用于登录并从LinkedIn检索访问令牌.
+* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) -LoginKit是将登录/注册UX添加到iOS应用的快速简便的方法.
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) -iOS的[In]可见ReCaptcha.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) -一种在iOS和OS X应用中实现Facebook和Google登录的简单方法.
@@ -315,7 +315,7 @@
 * [CommandLine](https://github.com/jatoben/CommandLine) ：penguin：-用于创建命令行界面的库.
 * [Guaka](https://github.com/nsomar/Guaka) ：penguin：-美观漂亮（符合POSIX）的命令行框架.
 * [LineNoise](https://github.com/andybest/linenoise-swift) ：penguin：-零依赖替换readline.
-* [nef](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
+* [nef](https://github.com/bow-swift/nef) -一组命令行工具，使您可以对编写为Xcode Playground的文档进行编译时验证.
 * [Progress.swift](https://github.com/jkandzi/Progress.swift) ：penguin：-在命令行中添加漂亮的进度条.
 * [SwiftCLI](https://github.com/jakeheis/SwiftCLI) ：penguin：-一个强大的框架，可用于开发CLI.
 * [Swiftline](https://github.com/nsomar/Swiftline) -一组工具，可帮助您创建命令行应用程序.
@@ -413,7 +413,7 @@
 *涉及多个来源的数据管理层. [back to top](#readme) 
 
 * [ModelAssistant](https://github.com/ssamadgh/ModelAssistant) -优雅的库来管理视图和模型之间的交互
-* [PersistenceKit](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - Store and retrieve Codable objects to various persistence layers, in a couple lines of code!
+* [PersistenceKit](https://github.com/Teknasyon-Teknoloji/PersistenceKit) -用几行代码存储和检索可编码对象到各个持久层！
 * [Shallows](https://github.com/dreymonde/Shallows) -您的轻量级持久性工具箱.
 * [StorageKit](https://github.com/StorageKit/StorageKit) -您的数据存储疑难解答.
 
@@ -504,7 +504,7 @@
 
 * [Cleanse](https://github.com/square/Cleanse) -Square提供的轻量级依赖注入框架.
 * [Corridor](https://github.com/symentis/Corridor) -类似于Coreader的依赖注入μFramework.
-* [Deli](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
+* [Deli](https://github.com/kawoou/Deli) -Deli是一种易于使用的依赖注入（DI）.
 * [DIKit](https://github.com/Liftric/DIKit) -受KOIN启发的Swift依赖注入框架.
 * [Dip](https://github.com/AliSoftware/Dip) -一个简单的依赖注入容器.
 * [DITranquillity](https://github.com/ivlevAstef/DITranquillity/) -具有宁静性的依赖注入框架.
@@ -699,10 +699,10 @@
 * [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) -一个UIImage扩展，可生成基于字母的头像.
 * [Lightbox](https://github.com/hyperoslo/Lightbox) -适用于iOS应用的便捷易用的图片查看器.
 * [MapleBacon](https://github.com/JanGorman/MapleBacon) -图片下载和缓存库.
-* [MCScratchImageView](https://github.com/Minecodecraft/MCScratchImageView) -用于覆盖其他视图（如刮刮卡）表面的自定义ImageView，用户可以滑动覆盖膜以查看下面的视图.
+* [MCScratchImageView](https://github.com/Minecodecraft/MCScratchImageView) -自定义ImageView，用于覆盖刮刮卡等其他视图的表面，用户可以滑动覆盖膜以查看下面的视图.
 * [Moa](https://github.com/evgenyneu/moa) -适用于iOS，tvOS和macOS的图像视图的图像下载扩展.
 * [Nuke](https://github.com/kean/Nuke) -用于加载，缓存，处理，显示和预热图像的高级框架.
-* [PassportScanner](https://github.com/evermeer/PassportScanner) -扫描护照的MRZ码，并提取名字，姓氏，护照号码，国籍，出生日期，有效期和个人号码.
+* [PassportScanner](https://github.com/evermeer/PassportScanner) -扫描护照的MRZ代码，并提取名字，姓氏，护照号码，国籍，出生日期，有效期和个人号码.
 * [Pixel](https://github.com/muukii/Pixel) -使用CoreImage的图像编辑器和引擎.
 * [Rough](https://github.com/bakhtiyork/Rough) -粗糙可让您以手绘的粗略样式绘制.
 * [Sharaku](https://github.com/makomori/Sharaku) -图像过滤UI库（如Instagram）.
@@ -742,6 +742,7 @@
 *库帮助您进行布局.* [back to top](#readme) 
 
 * [BrickKit](https://github.com/wayfair/brickkit-ios) -以简单的方式创建复杂的响应式布局.
+* [CGLayout](https://github.com/k-o-d-e-n/CGLayout) ：penguin：-强大的自动布局框架，可以管理UIView（NSView），CALayer，未渲染的视图等.提供占位符.
 * [FlexLayout](https://github.com/layoutBox/FlexLayout) -与高度优化的Facebook Yoga Flexbox实施完美友好的界面.
 * [LayoutKit](https://github.com/linkedin/LayoutKit) -LayoutKit是适用于iOS，macOS和tvOS的快速视图布局库.
 * [LayoutLess](https://github.com/DeclarativeHub/Layoutless) -编写更少的UI代码.
@@ -816,7 +817,7 @@
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) -FlyoverKit使您可以轻松地在MKMapView上呈现令人惊叹的360°立交桥视图，同时保持完整的配置可能性.
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) -使使用地理模型和计算相交，重叠，投影等更加容易.
 * [LocoKit](https://github.com/sobri909/LocoKit) -iOS的位置和活动记录框架.
-* [MapViewPlus](https://github.com/okhanokbay/MapViewPlus)  -使用带有酷炫动画的MKMapView的任何自定义视图作为自定义标注视图.  使用任何图像作为注释视图.
+* [MapViewPlus](https://github.com/okhanokbay/MapViewPlus)  -使用任何自定义视图作为带有精美动画的MKMapView的自定义标注视图.  使用任何图像作为注释视图.
 
 ### Math
 [back to top](#readme) 
@@ -837,7 +838,7 @@
 * [Alamofire](https://github.com/Alamofire/Alamofire) ：penguin：-优雅的网络.
 * [APIKit](https://github.com/ishkawa/APIKit) -用于构建类型安全的Web API客户端的库.
 * [Ciao](https://github.com/AlTavares/Ciao) -使用mDNS（Bonjour，Zeroconf）发布和发现服务.
-* [CodyFire](https://github.com/MihaelIsaev/CodyFire)  -强大的Codable API要求iOS的构建者和管理者.  基于Alamofire.
+* [CodyFire](https://github.com/MihaelIsaev/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
 * [Conduit](https://github.com/mindbody/Conduit) -强大的网络API网络.
 * [Connectivity](https://github.com/rwbutler/Connectivity) -通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠.
 * [Dots](https://github.com/iAmrSalman/Dots) -轻量级并发网络框架.
@@ -873,7 +874,7 @@
 * [Fuzi](https://github.com/cezheng/Fuzi) -具有XPath和CSS支持的快速轻量级XML / HTML解析器.
 * [Ji](https://github.com/honghaoz/Ji) -XML / HTML解析器.
 * [Kanna](https://github.com/tid-kijyun/Kanna) -另一个XML / HTML解析器.
-* [SwiftSoup](https://github.com/scinfu/SwiftSoup) :penguin: - HTML Parser, with best of DOM, CSS, and jquery.
+* [SwiftSoup](https://github.com/scinfu/SwiftSoup) ：penguin：-HTML解析器，具有DOM，CSS和jquery的优点.
 * [WKZombie](https://github.com/mkoehnke/WKZombie) -无头浏览器.
 
 #### Messaging Protocol
@@ -983,7 +984,7 @@
 ### Styling
 [back to top](#readme) 
 
-* [Ambience](https://github.com/tmergulhao/Ambience) -无需编码即可进行亮度感知的辅助功能主题切换.
+* [Ambience](https://github.com/tmergulhao/Ambience) -无需编码即可进行亮度感知的可访问性主题切换.
 * [Stylist](https://github.com/yonaskolb/Stylist) -在可热加载的外部Yaml或json文件中定义UI样式.
 * [SwiftTheme](https://github.com/wxxsw/SwiftTheme) -适用于iOS 8+的强大主题/皮肤管理器.
 * [Themes](https://github.com/onmyway133/Themes) -主题管理.
@@ -993,7 +994,7 @@
 
 * [BlueSignals](https://github.com/IBM-Swift/BlueSignals) -IBM的Cross Platform OS信号处理库.
 * [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) -轻松将“登录时启动”功能添加到沙盒macOS应用中.
-* [SMCKit](https://github.com/beltex/SMCKit) -苹果SMC库.
+* [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library.
 * [SystemKit](https://github.com/beltex/SystemKit/) -OS X系统库.
 
 ### Testing
@@ -1040,7 +1041,7 @@
 * [OEMentions](https://github.com/omar14/OEMentions) -一种向uitextview（例如Facebook和Instagram）添加提及的简单方法.
 * [Parsey](https://github.com/rxwei/Parsey) -解析器组合器框架，支持源位置跟踪，防止回溯和丰富的错误消息.
 * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) -大字符串复数扩展.
-* [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) -PredicateFlow是一个生成器，使您可以编写出色，强类型且易于阅读的NSPredicate.
+* [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) -PredicateFlow是一个生成器，可让您编写出色，强类型且易于阅读的NSPredicate.
 * [PrediKit](https://github.com/KrakenDev/PrediKit) -受SnapKit启发的用于iOS和OS X的NSPredicate DSL.
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) -以Pythonic方式轻松处理Regex.
 * [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex)  ：penguin：-具有丰富功能的正则表达式库非常易于使用.  同时具有运算符`=〜`和基于方法的API.  涵盖了单元测试.
@@ -1065,7 +1066,7 @@
 * [Each](https://github.com/dalu93/Each) -每个都是NSTimer桥库.
 * [EKI](https://github.com/kodlian/Eki) -使Grand Central Dispatch易于使用且有趣（队列，任务，组，计时器和信号灯）.
 * [GCDTimer](https://github.com/hemantasapkota/GCDTimer) -经过测试的GCD计时器.
-* [Schedule](https://github.com/luoxiu/Schedule) ：penguin：-具有令人难以置信的人性化语法的轻量级任务计划程序丢失.
+* [Schedule](https://github.com/luoxiu/Schedule) ：penguin：-具有令人难以置信的人性化语法的缺少的轻量级任务计划程序.
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) -NSTimer的API.
 
 ### UI
@@ -1110,13 +1111,13 @@
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) -适用于iOS的可自定义颜色选择器.
 * [InfoView](https://github.com/anatoliyv/InfoView) -带有箭头的简单信息视图.
 * [InstantSearch iOS](https://github.com/algolia/instantsearch-ios) -在iOS上构建即时搜索功能的小部件和帮助程序库.
-* [KALoader](https://github.com/Kirillzzy/KALoader) -漂亮的动画占位符，用于显示数据加载.
+* [KALoader](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) -一个UINavigationController子类，该子类支持带有隐藏或显示的弹出交互式UINavigationBar.
-* [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) -嵌入式通用库可帮助您管理导航栏样式，并在为所有方向推动或弹出视图控制器时使过渡动画在不同导航栏样式之间变得平滑.
+* [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) -一个UITextView子类，它添加了对多行占位符的支持.
 * [LeeGo](https://github.com/wangshengjia/LeeGo) -制作乐高积木，进行声明式，可配置和高度可重用的UI开发.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) -一个命令行工具，可自动生成所有依赖项的Plist.
-* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) -带液体动画的微调加载程序组件.
+* [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - Spinner loader components with liquid animation.
 * [LoadingShimmer](https://github.com/jogendra/LoadingShimmer)  -一种仅需一行代码即可向任何视图添加闪烁效果的简便方法.  用作不干扰输入的指示器.
 * [Macaw](https://github.com/exyte/macaw) -具有SVG支持的功能强大且易于使用的矢量图形库.
 * [Magnetic](https://github.com/efremidze/Magnetic) -SpriteKit浮动气泡选取器（受Apple Music启发）.
@@ -1388,6 +1389,7 @@
 #### UICollectionView
 [back to top](#readme) 
 
+* [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) -受Airbnb启发的轻量级自定义集合视图.
 * [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) -轻松将分页与CollectionView中的虚拟视图集成在一起的方法，使Instagram Discover只需几分钟.
 * [Blueprints](https://github.com/zenangst/Blueprints) -一个框架，旨在使您在使用集合视图流布局时更轻松.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
@@ -1438,10 +1440,10 @@
 [back to top](#readme) 
 
 * [AwesomeSpotlightView](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView) -创建教程或教练之旅.
-* [BWWalkthrough](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App.
-* [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) -SwiftUI库，用于通过轻击操作进行演练或入门流程.
+* [BWWalkthrough](https://github.com/ariok/BWWalkthrough) -为您的iOS应用构建自定义演练的类.
+* [ConcentricOnboarding](https://github.com/exyte/ConcentricOnboarding) - SwiftUI library for a walkthrough or onboarding flow with tap actions.
 * [Gecco](https://github.com/yukiasai/Gecco) -适用于iOS的Spotlight视图.
-* [Instructions](https://github.com/ephread/Instructions) - A library to create app walkthroughs and guided tours.
+* [Instructions](https://github.com/ephread/Instructions) -用于创建应用演练和导览的库.
 * [OnboardKit](https://github.com/NikolaKirev/OnboardKit) -您的iOS应用程序的可自定义用户入门.
 * [PaperOnboarding](https://github.com/Ramotion/paper-onboarding) -PaperOnboarding是一种材质设计UI滑块.
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) -一个iOS框架，允许开发人员创建美好的入门体验.
@@ -1489,7 +1491,7 @@
 * [swift-protobuf](https://github.com/apple/swift-protobuf) ：penguin：-使用Google的协议缓冲区的插件和运行时库.
 * [Swiftbot](https://github.com/noppefoxwolf/Swiftbot) -在松弛状态下运行快速代码.
 * [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) -超过500个本机扩展的便捷集合，可提高您的生产力.
-* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) -一种自动为您的所有Storyboard，Scenes和Segues常量以及适当的便捷访问器生成“枚举”的工具.
+* [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) -一种为所有情节提要，场景和Segues常量自动生成“枚举”的工具，以及适当的便捷访问器.
 * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) -它从URL进行预览，获取所有信息，例如标题，相关文本和图像.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) -随机数据的微型生成器.
 * [SwiftRater](https://github.com/takecian/SwiftRater) -提醒您iPhone应用程序用户的实用程序.
@@ -1497,7 +1499,7 @@
 * [Swiftx](https://github.com/typelift/Swiftx) -任何项目的功能数据类型和功能.
 * [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils) -我们在每个项目中需要的所有可重用代码.
 * [Swiftz](https://github.com/typelift/Swiftz) -功能编程.
-* [Then](https://github.com/devxoul/Then) - Super sweet syntactic sugar for initializers.
+* [Then](https://github.com/devxoul/Then) -初始化程序的超级甜蜜语法糖.
 * [TSAO](https://github.com/lilyball/swift-tsao) -类型安全关联对象.
 * [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder) -用于将任何可编码值编码为URLQueryItem数组的编码器.
 * [UTIKit](https://github.com/cockscomb/UTIKit) -UTI（统一类型标识符）包装.
@@ -1524,7 +1526,7 @@
 *用于管理电话号码的库.* [back to top](#readme) 
 
 * [NKVPhonePicker](https://github.com/NikKovIos/NKVPhonePicker) -一个UITextField子类，以简化国家/地区代码的选择.
-* [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - Framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
+* [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)  -解析，格式化和验证国际电话号码的框架.  受到Google libphonenumber的启发.
 
 ### Version Manager
 [back to top](#readme) 
