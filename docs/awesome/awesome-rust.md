@@ -218,6 +218,7 @@
 
 * [clippy](https://crates.io/crates/clippy) -锈皮屑 [<img src="https://api.travis-ci.com/rust-lang/rust-clippy.svg?branch=master">](https://travis-ci.org/rust-lang/rust-clippy)
 * [frewsxcv/crate-deps](https://github.com/frewsxcv/crate-deps) —为crates.io上托管的板条箱生成依赖关系图的图像
+* [gstats](https://github.com/boonshift/gstats/) -用于在当前目录下打印所有git存储库的开发人员方便摘要的命令行工具
 * [rust-lang/rustfix](https://github.com/rust-lang/rustfix)  —自动应用rustc的建议
 * [Module Linker](https://github.com/fiatjaf/module-linker) —扩展，可<a>在GitHub的`mod`，`use`和`extern crate`语句</a>中添加` <a>`链接到引用.</a>
 * [ptags](https://github.com/dalance/ptags) — git存储库的并行通用标签包装器 [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
@@ -279,7 +280,7 @@
 
 ### Deployment
 
-* Docker
+*码头工人
   * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) —用于使用musl-libc和musl-gcc编译静态Rust二进制文件的Docker映像，以及有用的C库的静态版本
   * [kpcyrd/mini-docker-rust](https://raw.githubusercontent.com/kpcyrd/mini-docker-rust) —一个非常小的rust docker映像的示例项目 [<img src="https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master">](https://travis-ci.org/kpcyrd/mini-docker-rust)
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) —多个版本（使用Musl工具）Rust Docker映像
@@ -417,7 +418,7 @@
 
 [[assert](https://crates.io/keywords/assert), [static](https://crates.io/keywords/static)]
 
-* [facebookexperimental/MIRAI](https://github.com/facebookexperimental/mirai) —在Rust的中级中间表示（MIR）上运行的抽象解释器 [![Build Status](https://api.travis-ci.com/facebookexperimental/MIRAI.svg?branch=master)](https://travis-ci.org/facebookexperimental/MIRAI/)
+* [facebookexperimental/MIRAI](https://github.com/facebookexperimental/mirai) — an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Build Status](https://api.travis-ci.com/facebookexperimental/MIRAI.svg?branch=master)](https://travis-ci.org/facebookexperimental/MIRAI/)
 * [static_assertions](https://crates.io/crates/static_assertions) —编译时断言，以确保满足不变式 [![Build Status](https://api.travis-ci.org/nvzqz/static-assertions-rs.svg?branch=master)](https://travis-ci.org/nvzqz/static-assertions-rs/)
 
 ### Testing
@@ -452,7 +453,7 @@
 * [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic)  — Rust中的遗传算法库.  在维护模式下.
 * [mneumann/evo-rs](https://github.com/mneumann/evo-rs)  — Rust的进化算法库.  3年无变化.
 * [yurytsoy/revonet](https://github.com/yurytsoy/revonet) -Rust实编码GA的实现，用于解决优化问题和神经网络训练.
-* [pkalivas/radiate](https://github.com/pkalivas/radiate)  —可定制的并行遗传编程引擎，能够针对有监督，无监督和强化学习问题发展解决方案.  带有NEAT和Evtree的完整且可自定义的实现. [![Build Status](https://api.travis-ci.com/pkalivas/radiate.svg?branch=master)](https://travis-ci.com/pkalivas/radiate)
+* [pkalivas/radiate](https://github.com/pkalivas/radiate) — A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree. [![Build Status](https://api.travis-ci.com/pkalivas/radiate.svg?branch=master)](https://travis-ci.com/pkalivas/radiate)
 ![Crates.io](https://img.shields.io/crates/v/radiate)
 
 #### Machine learning
@@ -743,7 +744,7 @@
 *二进制
   * [arcnmx/nue](https://raw.githubusercontent.com/arcnmx/nue) — Rust的I / O和二进制数据编码 [<img src="https://api.travis-ci.org/arcnmx/nue.svg?branch=master">](https://travis-ci.org/arcnmx/nue)
   * [servo/bincode](https://raw.githubusercontent.com/servo/bincode) — Rust中的二进制编码器/解码器 [<img src="https://api.travis-ci.com/servo/bincode.svg?branch=master">](https://travis-ci.org/servo/bincode)
-  * [m4b/goblin](https://raw.githubusercontent.com/m4b/goblin) [[goblin](https://crates.io/crates/goblin)] —  cross-platform, zero-copy, and endian-aware binary parsing [<img src="https://api.travis-ci.org/m4b/goblin.svg?branch=master">](https://travis-ci.org/m4b/goblin)
+  * [m4b/goblin](https://raw.githubusercontent.com/m4b/goblin) [[goblin](https://crates.io/crates/goblin)] —跨平台，零副本和支持endian的二进制解析 [<img src="https://api.travis-ci.org/m4b/goblin.svg?branch=master">](https://travis-ci.org/m4b/goblin)
 * BSON
   * [mongodb/bson-rust](https://github.com/mongodb/bson-rust) — Rust中对BSON的编码和解码支持
 *字节交换
@@ -1004,7 +1005,7 @@
   * [erickt/rust-zmq](https://raw.githubusercontent.com/erickt/rust-zmq) — [ZeroMQ](https://zeromq.org/) 绑定 [<img src="https://api.travis-ci.org/erickt/rust-zmq.svg?branch=master">](https://travis-ci.org/erickt/rust-zmq)
 * CoAP
   * [Covertness/coap-rs](https://raw.githubusercontent.com/Covertness/coap-rs) - 一种 [Constrained Application Protocol(CoAP)](https://tools.ietf.org/html/rfc7252) Rust的库. [<img src="https://api.travis-ci.org/Covertness/coap-rs.svg?branch=master">](https://travis-ci.org/Covertness/coap-rs)
-* Docker
+*码头工人
   * [fussybeaver/bollard](https://github.com/fussybeaver/bollard) — Rust中的Docker守护程序API
 * RPC
   * [smallnest/rpcx-rs](https://raw.githubusercontent.com/smallnest/rpcx-rs) —用于Rust的RPC库，用于以简便的方式开发微服务. [<img src="https://api.travis-ci.org/smallnest/rpcx-rs.svg?branch=master">](https://travis-ci.org/smallnest/rpcx-rs)

@@ -24,13 +24,13 @@
 运行此命令以查看属性：
 
 ```
-xattr -r〜/库/ QuickLook /
+xattr -r〜/ Library / QuickLook
 ```
 
 并运行以下命令删除属性：
 
 ```
-xattr -d -r com.apple.quarantine〜/ Library / QuickLook /
+xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 ```
 
 
@@ -86,7 +86,7 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook /
 
 &gt;注意：BetterZipQL插件已与BetterZip应用程序集成.
 
-运行`brew cask install betterzip`来安装BetterZip应用程序及其Quick Look插件，或者 [download manually](https://macitbetter.com/BetterZip.zip)
+运行`brew cask install betterzip`来安装BetterZip应用程序及其快速外观插件，或者 [download manually](https://macitbetter.com/BetterZip.zip)
 
 旧版的BetterZipQL插件可以是 [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
 
@@ -175,4 +175,4 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook /
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Sindre Sorhus](http://sindresorhus.com) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Sindre Sorhus](http://sindresorhus.com) 已放弃此作品的所有版权以及相关或邻近的权利.

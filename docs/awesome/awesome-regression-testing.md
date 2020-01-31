@@ -4,7 +4,7 @@
 
 &gt;精选的出色视觉回归测试资源列表.
 
- 回归测试是一种软件测试，它可以验证先前开发和测试的软件在更改或与其他软件连接后是否仍以相同的方式运行.  回归测试的目的是确保对软件的更改不会引入新的错误.
+ 回归测试是一种软件测试，它可以验证先前开发和测试的软件在更改或与其他软件连接后仍以相同的方式运行.  回归测试的目的是确保对软件的更改不会引入新的错误.
 
 ## Foreword
 
@@ -51,8 +51,8 @@
 - [Hardy](https://github.com/thingsinjars/Hardy) -硒驱动，黄瓜驱动的CSS测试.
 - [TestCafe](https://github.com/DevExpress/testcafe) -针对现代Web开发堆栈的自动化浏览器测试.
 - [Needle](https://github.com/python-needle/needle) -Needle是使用Selenium和鼻子测试视觉效果的工具（Python）.
-- [gatling](https://github.com/gabrielrotbart/gatling) -集成的可视RSpec匹配器，使真正的可视测试变得容易（Ruby）.
-- [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) -插件可通过您的网站的屏幕快照会话防止项目布局被破坏.
+- [gatling](https://github.com/gabrielrotbart/gatling) -集成的可视化RSpec匹配器，使真正的可视化测试变得容易（Ruby）.
+- [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) -插件可通过网站的屏幕快照会话防止项目布局出现问题.
 - [vrtest](https://github.com/nathanmarks/vrtest) -JavaScript库，用于通过硒跨浏览器在组件上运行视觉回归测试.
 - [Happo](https://github.com/Galooshi/happo) -CI在用户界面中的视觉差异.
 - [reg-cli](https://github.com/bokuweb/reg-cli) -视觉回归测试工具，可输出易于阅读的单个文件html报告.
@@ -74,27 +74,27 @@
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) -基于Node.js并使用Webdriver协议的自动化测试和持续集成框架.
 - [Protractor](https://github.com/angular/protractor) -Angular应用的E2E测试框架.
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) -使用Jest和puppeteer对React组件进行视觉回归测试
-- [test-crawler](https://github.com/apiel/test-crawler) -视觉回归测试，通过爬网网站并提供快照比较报告.
+- [test-crawler](https://github.com/apiel/test-crawler) -通过爬网网站并提供快照比较报告来进行视觉回归测试.
 
 ## Online services
 
 - [BrowserStack](https://www.browserstack.com)  -开源免费.  支持 [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-- [LambdaTest](https://www.lambdatest.com/) -在2000多种真实浏览器和在线操作系统上执行自动化和实时交互式交互浏览器测试.
+- [LambdaTest](https://www.lambdatest.com/) -在2000多种真实浏览器和在线操作系统上执行自动化和实时交互式浏览器的实时测试.
 - [screener.io](https://screener.io) -对于React，看起来是开源的.
 - [applitools](https://applitools.com) -云基础视觉测试.
 - [percy.io](https://percy.io) -对Web应用程序进行连续的视觉检查.
 - [screenster.io](http://screenster.io) -用于Web和移动UI的基于云的自动化测试平台.
 - [MogoTest](http://mogotest.com) -针对SEO专家的网站浏览器测试工具.
 - [browserling](https://www.browserling.com) -实时交互式跨浏览器测试.
-- [Browser Shots](http://browsershots.org) -仅截图.
+- [Browser Shots](http://browsershots.org) -仅屏幕截图.
 - [Ghost Inspector](https://ghostinspector.com) -看 [introduction video](https://vimeo.com/ghostinspector/intro).
 - [CrossBrowserTesting](https://crossbrowsertesting.com) -在1500多种真实浏览器和移动设备上进行手动和探索性测试.
 - [Argos-CI](https://www.argos-ci.com) -自动化视觉回归测试.
-- [BackTrac](https://backtrac.io)  -基于云的视觉回归工具.  使用无头firefox和专有比较算法（检测布局偏移）.
+- [Diffy](https://diffy.website)  -基于云的视觉回归工具.  使用操纵符和专有比较算法（检测布局偏移）.  AWS Lambda具有出色的可扩展性.
 - [Chromatic](https://www.chromaticqa.com)  -组件库的视觉测试和UI审查.  基于云. [Video](https://youtu.be/6KDLJBcutQE)
 - [VisWiz.io](https://www.viswiz.io) -灵活的视觉回归测试服务.
 - [Happo](https://happo.io/) -基于云的屏幕截图测试服务，支持多种浏览器.
-- [Visual Knight](https://visual-knight.io/) -基于云的可视化测试平台，具有测试工具的实时结果.
+- [Visual Knight](https://visual-knight.io/) -基于云的可视化测试平台，具有针对测试工具的实时结果.
 - [Axcept](https://axcept.io)  -测试整个团队.  并行进行多达100个测试.  端点模拟.  代码覆盖率. 
 - [Fluxguard](https://fluxguard.com) -屏幕截图像​​素和DOM更改比较和回归.
 - [Vidiff](https://vidiff.com) -跨阶段的基于云的视觉回归测试.
@@ -119,16 +119,16 @@
 
 - [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) -截屏视频：幽灵的基本介绍，一种截图比较工具.
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) -如何设置shoov并编写您的第一个测试.
-- [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) -乔恩·贝拉（Jon Bellah）谈论如何在wordpress开发过程中使用PhantomCSS.
-- [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) -带有代码演示和最佳实践的截屏视频.
+- [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) -乔恩·贝拉（Jon Bellah）谈论如何在wordpress开发期间使用PhantomCSS.
+- [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) -包含代码演示和最佳实践的截屏视频.
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) -有关如何使用Screenster创建视觉自动化测试的教程.
-- [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) -演示外观类似的Chrome扩展程序，其工作方式以及构建方式和创建原因.
+- [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) -演示外观类似的Chrome扩展程序是什么，如何工作以及构建的方式和原因.
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) -如何与CSS评论家一起编写您的第一个CSS测试，使其通过，中断并再次通过.
-- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者：Nikhil Verma-Badoo的移动Web团队如何将PhantomCSS转换并集成到他们的工作流程中，并将其连接到他们的CI流程.
+- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者：Nikhil Verma-Badoo的移动Web团队如何将PhantomCSS转换并集成到他们的工作流程中，并将其连接到CI流程.
 
 ## Deprecated
 
-以下项目不再得到积极维护，但由于其用户群而仍然值得一提.
+以下项目不再积极维护，但由于其用户群而仍然值得一提.
 
 - [PhantomJS](https://github.com/ariya/phantomjs)  -可编写脚本的无头WebKit.  自2018年6月2日起不再维护.
 - [PhantomCSS](https://github.com/Huddle/PhantomCSS)  -使用PhantomJS或SlimerJS进行Visual / CSS回归测试.  自2017年12月22日起不再维护.
@@ -146,9 +146,9 @@ See the [Contribution Guide](https://github.com/mojoaxel/awesome-regression-test
 See the [Code of Conduct](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CODE-OF-CONDUCT.md)  有关详细信息.  基本上可以归结为：
 &gt;为了营造开放和热情的环境，我们
 贡献者和维护者承诺参与我们的项目，
-我们的社区为每个人，不论年龄，身材，提供无骚扰的体验
-大小，残疾，种族，性别认同和表达，经验水平，
-国籍，外貌，种族，宗教或性认同和性取向.
+我们的社区为每个人提供无骚扰的体验，无论其年龄，身体如何
+大小，残疾，种族，性别认同和表达方式，经验水平，
+国籍，外貌，种族，宗教或性身份和性取向.
 
 ### License
 

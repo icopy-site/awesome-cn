@@ -400,7 +400,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [geometry-datetime](https://github.com/desyncr/geometry-datetime) - [Geometry](https://github.com/geometry-zsh/geometry)  日期时间插件.  在提示中显示日期时间（`date` Unix命令）.
 * [geometry-hydrate](https://github.com/jedahan/geometry-hydrate) - [Geometry](https://github.com/geometry-zsh/geometry) 插件提醒您补水.
 * [geometry-npm-package-version](https://github.com/drager/geometry-npm-package-version) - [Geometry](https://github.com/geometry-zsh/geometry) 插件以显示当前文件夹的npm软件包版本.
-* [geometry-rust-version](https://github.com/drager/geometry-rust-version) - [Geometry](https://github.com/geometry-zsh/geometry) 当存在`.rs`或`Cargo.toml`时显示当前文件夹的Rust版本的插件.
+* [geometry-rust-version](https://github.com/drager/geometry-rust-version) - [Geometry](https://github.com/geometry-zsh/geometry) 插件，当存在`.rs`或`Cargo.toml`时显示当前文件夹的Rust版本.
 * [get-jquery](https://github.com/voronkovich/get-jquery.plugin.zsh) -用于从中快速下载jQuery库的插件 [https://github.com/unixorn/awesome-zsh-plugins/blob/master/code.jquery.com](https://github.com/unixorn/awesome-zsh-plugins/blob/master/code.jquery.com).
 * [ghost-zeus](https://github.com/fontno/ghost_zeus) -让您使用 [zeus](https://github.com/burke/zeus) 使用常规的rails命令.
 * [gimme](https://github.com/folixg/gimme-ohmyzsh-plugin) -使用gimme管理Go安装.
@@ -609,7 +609,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [robo-zsh-plugin](https://github.com/shengyou/robo-zsh-plugin) -的ZSH插件 [Robo](https://robo.li/).
 * [rockz](https://github.com/aperezdc/rockz) - Lua + LuaRocks virtual environment manager based upon VirtualZ.
 * [ruby-switch](https://github.com/LockonS/ruby-switch) -切换红宝石版本并同时管理PATH变量.
-* [rvm](https://github.com/johnhamelink/rvm-zsh) -启动RVM并添加用户$ PATH中可访问的rubygem二进制文件（如指南针）.
+* [rvm](https://github.com/johnhamelink/rvm-zsh) -启动RVM并在用户的$ PATH中添加可访问的rubygem二进制文件（如罗盘）.
 * [safe-kubectl](https://github.com/benjefferies/safe-kubectl) -从最后一个`kubectl`命令开始经过一段可定义的秒数后，通过警告您所处的上下文，在运行`kubectl`时增加了安全性.
 * [safe-paste](https://github.com/oz/safe-paste)  -安全粘贴插件.  见康拉德·欧文（Conrad Irwin） [bracketed-paste](https://cirw.in/blog/bracketed-paste) 博客文章.
 * [safe-rm](https://github.com/mattmc3/zsh-safe-rm) -添加安全rm功能，以便“ rm”将文件放入操作系统的垃圾桶中，而不是将其永久删除.
@@ -868,7 +868,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [apollo](https://github.com/mjrafferty/apollo-zsh-theme) -高度可定制，兼容和高性能的ZSH主题，它使用模块来启用功能.
 * [arael](https://github.com/aknackd/zsh-themes) -前叉 [gallifrey](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/gallifrey.zsh-theme).
 * [archie](https://github.com/dcavalcante/archie)  -Arch Linux启发了ZSH主题.  基于 [norm](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/norm.zsh-theme) 主题.
-* [arity](https://github.com/hybras/Arity-Zsh-Theme)  -Arity是一个简单的主题，旨在提高可读性并一目了然.  包括路径和`git`装饰.
+* [arity](https://github.com/hybras/Arity-Zsh-Theme)  -Arity是一个易于阅读的简单主题，一目了然.  包括路径和`git`装饰.
 * [aronhoyer](https://github.com/aronhoyer/zsh-theme) -带有右侧`git`状态装饰的简约主题.
 * [arrow-minimal](https://github.com/maxim-usikov/arrow-minimal.zsh-theme) -带有`git`装饰的ZSH最小主题.
 * [asciigit](https://github.com/cemsbr/asciigit) -不想使用带有额外字形的字体的`git`用户的纯ASCII主题.
@@ -962,6 +962,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [duckster](https://github.com/ducky/duckster) -Gitster ZSH主题的叉子，更加新鲜.
 * [ducula](https://github.com/janjoswig/Ducula)  -受吸血鬼计划的启发.  包括git状态修饰，用户名和主机名缩写，虚拟环境，当前工作目录，最后命令的返回状态和时间.
 * [dustmod](https://github.com/bmihaila/dustmod) -源自 [dst](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/dst.zsh-theme) oh-my-zsh中的主题.
+* [eckig](https://github.com/fouladi/eckig)  -带有utf-8图标的简约主题.  包括git状态装饰.
 * [eggshausted](https://github.com/inutano/eggshausted) -厌倦了获取错误的人们的`git`意识主题.
 * [elessar](https://github.com/fjpalacios/elessar-theme) -基于git的主题 [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) .  需要兼容Powerline的字体.
 * [emojeer](https://github.com/lxynox/emojeer-ohmyzsh) -表情符号味 [oh-my-zsh](https://github.com/unixorn/awesome-zsh-plugins/blob/master/robbyrussell/oh-my-zsh) 主题.
@@ -1265,7 +1266,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [skeletor-syntax](https://github.com/ramonmcros/skeletor-syntax) -受He-Man和Universal Masters的Skeletor启发，为Atom，Prism和ZSH设计主题集合.
 * [skill](https://github.com/frontendmonster/oh-my-zsh-skill-theme) -针对暗终端进行了优化，显示`git`状态装饰.
 * [sleeplessmind](https://github.com/godbout/sleeplessmind-zsh-theme) -ZSH主题的灵感来自 [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) 和 [odin](https://github.com/tylerreckart/odin).
-* [slimline](https://github.com/mgee/slimline)  -最小，快速且优雅的ZSH提示.  在正确的时间显示正确的信息.
+* [slimline](https://github.com/mengelbrecht/slimline)  -最小，快速且优雅的ZSH提示.  在正确的时间显示正确的信息.
 * [sm](https://github.com/blyndusk/sm-theme)  **收藏夹**终端的** Simplist **和** Minimalist **主题.  包括git状态装饰.
 * [small-terminal-diy](https://github.com/Sokkam/small-terminal-diy-theme) -的变体 [ys](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme) theme in [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 * [smiley](https://github.com/gsamokovarov/smiley.zsh-theme) -出现幸福和悲伤表情的提示.

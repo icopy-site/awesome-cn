@@ -6,7 +6,7 @@
 
 &gt;与MQTT相关的内容的精选列表.
 
- MQTT是一种轻量级的客户端-服务器发布/订阅消息传递协议，针对高延迟或不可靠的网络进行了优化.  该协议是物联网应用，遥测，传感器网络，智能仪表，家庭自动化，消息传递和通知服务的理想选择.
+ MQTT是一种轻量级的客户端-服务器发布/订阅消息传递协议，已针对高延迟或不可靠的网络进行了优化.  该协议是物联网应用，遥测，传感器网络，智能计量，家庭自动化，消息传递和通知服务的理想选择.
 
 
 
@@ -37,7 +37,7 @@
 * [Aedes](https://github.com/mcollina/aedes) -可以在任何流服务器上以节点方式运行的准系统MQTT代理.
 * [Emitter](https://github.com/emitter-io/emitter) -基于MQTT协议并具有消息存储功能的分布式，可伸缩且容错的发布-订阅消息传递平台.
 * [EMQ X](https://github.com/emqx/emqx) -适用于5G时代的IoT的可扩展且可靠的实时MQTT消息引擎.
-* [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) -ESP8266上的基本MQTT Broker.
+* [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) -使用异步的Python MQTT代理.
 * [HiveMQ](https://www.hivemq.com/)  -支持MQTT 3.1、3.1.1和5.0的Java MQTT Broker.  提供商业和开源版本.
 * [hrotti](https://github.com/alsm/hrotti) -用Go编写的MQTT经纪人.
@@ -56,13 +56,14 @@
 
 ### Cloud
 
+* [Adafruit IO](https://io.adafruit.com)  -Adafruit IO是将项目连接到Internet的最简单方法.  您可以使用您选择的编程语言（我们有很多库）轻松地将您的项目连接到Adafruit IO，并且可以通过Internet进行控制或监视.  Adafruit IO存储的数据由您管理和控制.
 - [Alibaba Cloud IoT Platform](https://www.alibabacloud.com/product/iot) -在设备和IoT平台之间提供安全可靠的通信，使您可以在单个IoT平台上管理大量设备.
-- [AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls)  -AWS IoT Core是一项托管的云服务，可让连接的设备轻松，安全地与云应用程序和其他设备交互.  AWS IoT Core可支持数十亿个设备和数以万计的消息，并可将这些消息可靠且安全地处理并路由到AWS终端节点和其他设备.  借助AWS IoT Core，您的应用程序可以随时跟踪所有设备并与之通信，即使它们没有连接也是如此.
+- [AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls)  -AWS IoT Core是一项托管的云服务，可让连接的设备轻松，安全地与云应用程序和其他设备交互.  AWS IoT Core可支持数十亿个设备和数以万亿计的消息，并可将这些消息可靠且安全地处理并路由到AWS终端节点和其他设备.  借助AWS IoT Core，您的应用程序可以随时跟踪所有设备并与之通信，即使它们没有连接也是如此.
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)  -在IoT应用程序及其管理的设备之间实现高度安全和可靠的通信.  Azure IoT中心提供了一个云托管的解决方案后端，可以连接几乎任何设备.  通过每设备身份验证，内置设备管理和扩展配置，将您的解决方案从云扩展到边缘.
 - [CloudMQTT](https://www.cloudmqtt.com/)  -托管物联网的消息代理.  完美配置和优化的物联网消息队列，几秒钟即可完成.
 - [EMQ X MQTT Cloud](https://cloud.emqx.io/) -由EMQ团队提供最佳实践的安全，可靠的MQTT云服务.
 - [flespi](https://flespi.com/mqtt-broker) -具有私有名称空间，MQTT 3.1.1和MQTT 5.0支持以及华丽的限制的免费和安全的云MQTT代理.
-- [Google Cloud IoT](https://cloud.google.com/solutions/iot/)  -Google Cloud IoT是一整套用于在边缘和云中连接，处理，存储和分析数据的工具.  该平台由可扩展的，完全托管的云服务组成；  用于边缘/本地计算的集成软件堆栈，具有机器学习功能，可满足您所有IoT的需求.
+- [Google Cloud IoT](https://cloud.google.com/solutions/iot/)  -Google Cloud IoT是一整套用于在边缘和云中连接，处理，存储和分析数据的工具.  该平台由可扩展的，完全托管的云服务组成；  用于边缘/本地计算的集成软件堆栈，具有机器学习功能，可满足您所有IoT需求.
 - [IBM WATSON](https://www.ibm.com/watson) -使用Watson，您可以将AI工具和应用程序带到数据中的任何位置，无论它位于IBM Cloud，AWS，Azure，Google还是您自己的私有云平台上.
 
 ### Platforms
@@ -113,6 +114,7 @@
 * [Hulaaki](https://github.com/suvash/hulaaki) -用于与MQTT代理进行通信的客户端的Elixir库.
 * [luamqtt](https://github.com/xHasKx/luamqtt/) -Pure-lua MQTT v3.1.1和v5.0客户端.
 * [Machine Head](https://github.com/clojurewerkz/machine_head) -Clojure MQTT客户端.
+* [MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT) -用于CircuitPython的MQTT客户端库
 * [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) -每台服务器最多模拟100,000个MQTT客户端，用于IoT应用程序的开发/测试/部署.
 * [Moscapsule](https://github.com/flightonary/Moscapsule) -使用Swift编写的iOS版MQTT客户端.
 * [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) -用于PHP的Mosquitto MQTT客户端库的包装.
@@ -166,7 +168,7 @@
 * [ESP8266MQTTMesh](https://github.com/PhracturedBlue/ESP8266MQTTMesh) -适用于ESP8266的网状WiFi集成库中的MQTT
 * [esp_mqtt](https://github.com/tuanpmt/esp_mqtt) -用于ESP8266的MQTT客户端库.
 * [mqtt-ir-transceiver](https://github.com/enc-X/mqtt-ir-transceiver)  -在MQTT和IR之间基于ESP8266的双向网关.  与PlatformIO一起使用.
-* [mqtt-with-micropython](https://docs.pycom.io/chapter/tutorials/all/mqtt/) - Connect to MQTT with micropython and wipy/others (ESP32 inside)
+* [mqtt-with-micropython](https://docs.pycom.io/chapter/tutorials/all/mqtt/) -使用micropython和wipy / others连接到MQTT（内置ESP32）
 * [nodemcu-gpiomqtt](https://github.com/hobbyquaker/nodemcu-gpiomqtt) -将ESP8266 GPIO连接到MQTT的Lua脚本.
 
 
@@ -176,7 +178,7 @@
 以下是完整的固件，可将它们转换为MQTT控制的智能家庭节点：
 
 * [ESPEasy](https://www.letscontrolit.com/wiki/index.php?title=ESPEasy)  -通过基于Web的配置将ESP变成用于<abbr title="家庭自动化">HA</abbr>解决方案的多功能传感器设备.
-* [ESPHome](https://esphome.io/) - builds ESP8266/ESP32 firmware from concise YAML descriptions, uploads to and manages flashed devices.
+* [ESPHome](https://esphome.io/) -通过简洁的YAML说明构建ESP8266 / ESP32固件，并上传到Flash设备并对其进行管理.
 * [Espurna](https://github.com/xoseperez/espurna)  -具有ESP8266的设备的<abbr title="家庭自动化">HA</abbr>固件，具有丰富的Web UI和开箱即用的≈120个设备
 * [Sonoff-Tasmota](https://github.com/arendst/Tasmota)  -具有基于Web的配置的ESP8266设备的固件.  支持≈500个设备（不仅是Sonoffs）.
 * [WiFi-IoT](https://wifi-iot.com/p/wiki/)  -ESP8266 / ESP32固件构建器.  部分用俄语.  免费功能有限.
@@ -237,9 +239,9 @@
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) -之间的接口 [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) （868MHz射频设备，例如ELV FS20，HMS，EM等）和MQTT.
 * [domiqtt](https://github.com/etobi/domiqtt) -连接到Domiq Base（LCN）并与MQTT相互转换.
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) -Enocean USB300（TCM310）适配器和MQTT之间的接口.
-* [Evohome2mqtt](https://github.com/svrooij/evohome2mqtt) -霍尼韦尔Evohome系统的MQTT接口.
+* [Evohome2mqtt](https://github.com/svrooij/evohome2mqtt) - MQTT Interface for the Honeywell Evohome system.
 * [helios2mqtt](https://github.com/mreschka/helios2mqtt) -用于将Helios简易控制系统（例如KWL EC 220D）同步到MQTT的守护程序.
-* [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)  -EQ-3的Homehome系列智能家居设备与MQTT之间的接口.  支持Homematic IP.
+* [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)  -EQ-3的Homehome系列智能家居设备和MQTT之间的接口.  支持Homematic IP.
 * [homeeToMqtt](https://github.com/odig/homeeToMqtt) -homee和MQTT之间的双向接口.
 * [HS100toMQTT](https://github.com/dersimn/HS100toMQTT) -TPLink HS100 / HS110和MQTT之间的网关.
 * [ipcam2mqtt](https://github.com/svrooij/ipcam2mqtt) -小型FTP服务器，用于从ipcameras接收移动图像并将其转换为MQTT警报.
@@ -332,6 +334,7 @@
 * [mqtt2ble](https://github.com/hardillb/mqtt2ble) -一种将MQTT主题桥接到BLE Gatt特性的方法.
 * [mqttclpro](https://github.com/dc297/mqttclpro) -具有Tasker集成Android应用程序的MQTT Client.
 * [mqttDB](https://github.com/hobbyquaker/mqttDB) -具有MQTT接口的JSON存储.
+* [mqtt-camera-streamer](https://github.com/robmarkcole/mqtt-camera-streamer) -通过MQTT从连接的摄像机流式传输图像并使用Streamlit查看
 * [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) -用于Anki Overdrive的Node.js控制器和MQTT API.
 * [parrot-sample](https://github.com/IBM-Cloud/parrot-sample) -使用MQTT控制派诺特AR无人机的示例代码.
 * [snowboy2mqtt](https://github.com/hobbyquaker/snowboy2mqtt) -在Snowboy Hotword Detection上发布MQTT消息.

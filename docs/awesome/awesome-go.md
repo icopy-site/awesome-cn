@@ -84,6 +84,7 @@
 * [go-joe](https://joe-bot.net) -受Hubot启发但用Go编写的通用bot库.
 * [go-sarah](https://github.com/oklahomer/go-sarah) -为所需的聊天服务（包括LINE，Slack，Gitter等）构建机器人的框架.
 * [go-tgbot](https://github.com/olebedev/go-tgbot) -从swagger文件，基于会话的路由器和中间件生成的纯Golang Telegram Bot API包装器.
+* [go-twitch-irc](https://github.com/gempir/go-twitch-irc) -库为twitch.tv聊天写机器人
 * [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) -基于控制台的交易机器人的golang实现，用于进行加密货币交换.
 * [govkbot](https://github.com/nikepan/govkbot) -简单的去 [VK](https://vk.com) bot库.
 * [hanu](https://github.com/sbstjn/hanu) -编写Slack机器人的框架.
@@ -117,7 +118,7 @@
 * [commandeer](https://github.com/jaffee/commandeer) -开发友好的CLI应用程序：根据结构字段和标签设置标志，默认值和用法.
 * [complete](https://github.com/posener/complete) -在Go + Go命令bash完成中编写bash完成.
 * [Dnote](https://github.com/dnote/dnote) -开发人员使用的简单，端到端加密笔记本.
-* [docopt.go](https://github.com/docopt/docopt.go) - Command-line arguments parser that will make you smile.
+* [docopt.go](https://github.com/docopt/docopt.go) -命令行参数解析器，会让您微笑.
 * [env](https://github.com/codingconcepts/env) -基于标记的结构环境配置.
 * [flag](https://github.com/cosiner/flag) -Go支持子命令的简单但功能强大的命令行选项解析库.
 * [flaggy](https://github.com/integrii/flaggy) -强大且惯用的标志包，具有出色的子命令支持.
@@ -584,6 +585,7 @@
 * [errors](https://github.com/emperror/errors)  -直接替换标准库错误包和github.com/pkg/errors.  提供各种错误处理原语.
 * [errors](https://github.com/pkg/errors) -提供简单错误处理原语的软件包.
 * [errors](https://github.com/neuronlabs/errors) -使用分类原语进行简单的golang错误处理.
+* [errors](https://github.com/PumpkinSeed/errors) -最简单的错误包装程序，具有出色的性能和最小的内存开销.
 * [errorx](https://github.com/joomcode/errorx) -具有堆栈跟踪，错误组成等的功能丰富的错误包.
 * [Falcon](https://github.com/SonicRoshan/falcon) -一个简单但功能强大的错误处理包.
 * [go-multierror](https://github.com/hashicorp/go-multierror) -Go（golang）软件包，用于将错误列表表示为单个错误.
@@ -992,7 +994,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go-nsq](https://github.com/nsqio/go-nsq) -NSQ的官方Go软件包.
 * [go-socket.io](https://github.com/googollee/go-socket.io) -用于golang（实时应用程序框架）的socket.io库.
 * [go-vitotrol](https://github.com/maxatome/go-vitotrol) -Viessmann Vitotrol Web服务的客户端库.
-* [Gollum](https://github.com/trivago/gollum) -n：m多路复用器，它从不同的来源收集消息并将其广播到一组目标.
+* [Gollum](https://github.com/trivago/gollum) -一个n：m多路复用器，它从不同的来源收集消息并将其广播到一组目标.
 * [golongpoll](https://github.com/jcuga/golongpoll) -HTTP longpoll服务器库，使网络发布订阅变得简单.
 * [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) -gopush-cluster是go push服务器群集.
 * [gorush](https://github.com/appleboy/gorush) -推送通知服务器使用 [APNs2](https://github.com/sideshow/apns2) 和谷歌 [GCM](https://github.com/google/go-gcm).
@@ -1055,7 +1057,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go-restful-api](https://github.com/qiangxue/go-restful-api) -遵循SOLID原则和Clean Architecture的通用Go RESTful API入门套件，具有通用的项目布局.
 * [go-sample](https://github.com/zitryss/go-sample) -具有实际代码的Go应用程序项目的示例布局.
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout) -Go生态系统中常见的历史和新兴项目布局模式集.
-* [modern-go-application](https://github.com/sagikazarmark/modern-go-application) -进行应用样板并应用现代实践的示例.
+* [modern-go-application](https://github.com/sagikazarmark/modern-go-application) -进入应用样板并应用现代实践的示例.
 * [scaffold](https://github.com/catchplay/scaffold)  -脚手架生成Starter Go项目布局.  让您专注于已实现的业务逻辑.
 
 ### Strings
@@ -1317,7 +1319,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go-resources](https://github.com/omeid/go-resources) -嵌入Go的多余资源.
 * [go.rice](https://github.com/GeertJohan/go.rice) -go.rice是一个Go程序包，可轻松处理html，js，css，图像和模板等资源.
 * [packr](https://github.com/gobuffalo/packr) -将静态文件嵌入Go二进制文件的简单方法.
-* [statics](https://github.com/go-playground/statics) -将静态资源嵌入到go文件中以进行单个二进制编译+与http.FileSystem + symlinks一起使用.
+* [statics](https://github.com/go-playground/statics) - Embeds static resources into go files for single binary compilation + works with http.FileSystem + symlinks.
 * [statik](https://github.com/rakyll/statik) -将静态文件嵌入Go可执行文件.
 * [templify](https://github.com/wlbr/templify) -将外部模板文件嵌入到Go代码中以创建单个文件二进制文件.
 * [vfsgen](https://github.com/shurcooL/vfsgen) -生成静态实现给定虚拟文件系统的vfsdata.go文件.
@@ -1338,7 +1340,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [goent](https://github.com/kzahedi/goent) -实施熵测度.
 * [gohistogram](https://github.com/VividCortex/gohistogram) -数据流的近似直方图.
 * [gonum](https://github.com/gonum/gonum)  -Gonum是用于Go编程语言的一组数字库.  它包含用于矩阵，统计信息，优化等的库.
-* [gonum/plot](https://github.com/gonum/plot) -gonum / plot提供了用于在Go中构建和绘制图的API.
+* [gonum/plot](https://github.com/gonum/plot) - gonum/plot provides an API for building and drawing plots in Go.
 * [goraph](https://github.com/gyuho/goraph) -Pure Go图论库（数据结构，算法可视化）.
 * [gosl](https://github.com/cpmech/gosl) -进入科学图书馆，了解线性代数，FFT，几何，NURBS，数值方法，概率，优化，微分方程等.
 * [GoStats](https://github.com/OGFris/GoStats) -GoStats是用于数学统计的开源GoLang库，主要用于机器学习领域，它涵盖了大多数统计度量功能.
@@ -1640,7 +1642,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [golyrics](https://github.com/mamal72/golyrics) -Golyrics是一个Go库，用于从Wikia网站获取音乐歌词数据.
 * [gomalshare](https://github.com/MonaxGT/gomalshare) -Go库MalShare API [malshare.com](http://www.malshare.com/)
 * [GoMusicBrainz](https://github.com/michiwend/gomusicbrainz) -转到MusicBrainz WS2客户端库.
-* [google](https://github.com/google/google-api-go-client) - Auto-generated Google APIs for Go.
+* [google](https://github.com/google/google-api-go-client) -自动生成的Google Go API.
 * [google-analytics](https://github.com/chonthu/go-google-analytics) -简单的包装器，可轻松进行Google Analytics（分析）报告.
 * [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang) -Google Cloud API Go客户端库.
 * [google-email-audit-api](https://github.com/ngs/go-google-email-audit-api) -访问客户端库 [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/).
@@ -1946,7 +1948,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [GoRouter](https://github.com/vardius/gorouter) -GoRouter是一个服务器/ API微型框架，HTTP请求路由器，多路复用器，多路复用器，为请求路由器提供支持“ net / context”的中间件.
 * [gowww/router](https://github.com/gowww/router) -快速的HTTP路由器与net / http.Handler接口完全兼容.
 * [httprouter](https://github.com/julienschmidt/httprouter)  -高性能路由器.  使用它和标准的http处理程序可以形成一个非常高性能的Web框架.
-* [httptreemux](https://github.com/dimfeld/httptreemux) - High-speed, flexible tree-based HTTP router for Go. Inspiration from httprouter.
+* [httptreemux](https://github.com/dimfeld/httptreemux)  -用于Go的高速，灵活的基于树的HTTP路由器.  来自httprouter的启发.
 * [lars](https://github.com/go-playground/lars) -是用于Go的轻量级，快速和可扩展的零分配HTTP路由器，用于创建可自定义的框架.
 * [mux](https://github.com/gorilla/mux) -强大的Golang URL路由器和调度程序.
 * [ozzo-routing](https://github.com/go-ozzo/ozzo-routing)  -非常快速的Go（golang）HTTP路由器，支持正则表达式路由匹配.  附带对构建RESTful API的全面支持.
@@ -2091,7 +2093,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Hey](https://github.com/rakyll/hey) -嘿，这是个很小的程序，它将一些负载发送到Web应用程序.
 * [jcli](https://github.com/jenkins-zh/jenkins-cli) -Jenkins CLI使您可以轻松管理Jenkins.
 * [kala](https://github.com/ajvb/kala) -简单，现代，高效的工作计划程序.
-* [kcli](https://github.com/cswank/kcli) -检查kafka主题/分区/消息的命令行工具.
+* [kcli](https://github.com/cswank/kcli) - Command line tool for inspecting kafka topics/partitions/messages.
 * [kubernetes](https://github.com/kubernetes/kubernetes) -来自Google的Container Cluster Manager.
 * [lstags](https://github.com/ivanilves/lstags) -跨不同注册表同步Docker映像的工具和API.
 * [lwc](https://github.com/timdp/lwc) -UNIX wc命令的实时更新版本.
@@ -2342,7 +2344,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) -新Golang开发人员的陷阱，陷阱和常见错误.
 * [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo) -建立Golang电子商务网站（包含示范）.
 * [A Tour of Go](http://tour.golang.org/) -围棋互动之旅.
-* [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) -Golang电子书简介，介绍如何使用Golang构建网络应用.
+* [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) -Golang电子书介绍如何使用Golang构建网络应用.
 * [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) -熟悉Gin并了解它如何帮助您减少样板代码并建立请求处理管道.
 * [Caching Slow Database Queries](https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9) -如何缓存慢速数据库查询.
 * [Canceling MySQL](https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30) -如何取消MySQL查询.

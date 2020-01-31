@@ -84,6 +84,7 @@
 ## Books
 
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) -经典和量子计算基础知识简介.
+- [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) -量子计算的工作原理及其如何改变世界.
 - [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) -涵盖了开源教材
    量子算法，并展示如何使用Qiskit在真实硬件上运行它们.  还介绍了先决条件.
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
@@ -125,4 +126,4 @@
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Desiree Vogt-Lee](https://github.com/desireevl) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Desiree Vogt-Lee](https://github.com/desireevl) 已放弃此作品的所有版权以及相关或邻近的权利.

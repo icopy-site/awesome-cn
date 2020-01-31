@@ -161,7 +161,7 @@
     * [docopt](http://docopt.org/) -Pythonic命令行参数解析器.
     * [python-fire](https://github.com/google/python-fire) -用于从几乎任何Python对象创建命令行界面的库.
     * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) -用于构建功能强大的交互式命令行的库.
-* Terminal Rendering
+*终端渲染
     * [asciimatics](https://github.com/peterbrittain/asciimatics) -一个用于创建全屏文本UI（从交互式表单到ASCII动画）的软件包.
     * [bashplotlib](https://github.com/glamp/bashplotlib) -在终端上进行基本绘图.
     * [colorama](https://pypi.org/project/colorama/) -跨平台的彩色终端文本.
@@ -536,7 +536,7 @@
 *使用GraphQL的库.*
 
 * [tartiflette](https://tartiflette.io) -适用于Python 3.6及更高版本和asyncio的SDL优先GraphQL引擎实现.
-* [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) -一个基于aiohttp的包装，用于Tartiflette，以通过HTTP公开GraphQL API.
+* [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) -Tartiflette的基于aiohttp的包装器，用于通过HTTP公开GraphQL API.
 * [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi/) -ASGI支持Tartiflette GraphQL引擎.
 
 ## Game Development
@@ -567,7 +567,7 @@
 
 *用于HTML和XML的库.
 
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) -提供Pythonic惯用法来迭代，搜索和修改HTML或XML.
 * [bleach](https://github.com/mozilla/bleach) -基于白名单的HTML清理和文本链接库.
 * [cssutils](https://pypi.org/project/cssutils/) -Python的CSS库.
 * [html5lib](https://github.com/html5lib/html5lib-python) -符合标准的库，用于解析和序列化HTML文档和片段.
@@ -587,7 +587,7 @@
 * [httplib2](https://github.com/httplib2/httplib2) -全面的HTTP客户端库.
 * [httpx](https://github.com/encode/httpx) -用于Python的下一代HTTP客户端.
 * [requests](https://github.com/psf/requests) -人类的HTTP请求.
-* [treq](https://github.com/twisted/treq) -Python要求，例如在Twisted的HTTP客户端之上构建的API.
+* [treq](https://github.com/twisted/treq) -像Twisted的HTTP客户端一样构建的API之类的Python请求.
 * [urllib3](https://github.com/shazow/urllib3) -具有线程安全连接池的HTTP库，支持文件发布，健全.
 
 ## Hardware
@@ -922,7 +922,7 @@
     * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) -从Excel文件写入和读取数据以及格式化信息.
 * PDF
     * [PDFMiner](https://github.com/euske/pdfminer) -从PDF文档中提取信息的工具.
-    * [PyPDF2](https://github.com/mstamy2/PyPDF2) -能够拆分，合并和转换PDF页面的库.
+    * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
     * [ReportLab](https://www.reportlab.com/opensource/) -允许快速创建丰富的PDF文档.
 *降价
     * [Mistune](https://github.com/lepture/mistune) -Markdown最快且功能齐全的纯Python解析器.
@@ -930,7 +930,7 @@
 * YAML
     * [PyYAML](http://pyyaml.org/) -适用于Python的YAML实现.
 * CSV
-    * [csvkit](https://github.com/wireservice/csvkit) -用于转换为CSV并与CSV协同工作的实用程序.
+    * [csvkit](https://github.com/wireservice/csvkit) -用于转换为CSV并与CSV合作的实用程序.
 *存档
     * [unp](https://github.com/mitsuhiko/unp) -可以轻松解压缩档案的命令行工具.
 
@@ -1063,6 +1063,7 @@
 
 *用于处理视频和GIF的库.
 
+* [vidgear](https://github.com/abhiTronix/vidgear) -最强大的多线程视频处理框架.
 * [moviepy](https://zulko.github.io/moviepy/) -用于基于脚本的电影编辑的模块，具有多种格式，包括动画GIF.
 * [scikit-video](https://github.com/aizvorski/scikit-video) -SciPy的视频处理例程.
 
@@ -1070,7 +1071,7 @@
 
 *用于管理，压缩和最小化网站资产的工具.*
 
-* [django-compressor](https://github.com/django-compressor/django-compressor) -将链接的和内联的JavaScript或CSS压缩为单个缓存文件.
+* [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
 * [django-pipeline](https://github.com/jazzband/django-pipeline) -Django的资产包装库.
 * [django-storages](https://github.com/jschneier/django-storages) -Django的自定义存储后端集合.
 * [fanstatic](http://www.fanstatic.org/en/latest/) -打包，优化并作为Python包提供静态文件依赖项.
