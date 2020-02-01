@@ -246,7 +246,7 @@
   * [cargo-graph](https://crates.io/crates/cargo-graph)  —更新了带有附加功能的`cargo-dot`的fork.  无需维护，请参阅`cargo-deps` [<img src="https://api.travis-ci.org/kbknapp/cargo-graph.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-graph)
   * [cargo-info](https://crates.io/crates/cargo-info) —从命令行查询crates.io以获取详细信息 [<img src="https://api.travis-ci.org/imp/cargo-info.svg?branch=master">](https://travis-ci.org/imp/cargo-info)
   * [cargo-license](https://crates.io/crates/cargo-license) — cargo子命令，用于快速查看所有依赖项的许可证. [<img src="https://api.travis-ci.org/onur/cargo-license.svg?branch=master">](https://travis-ci.org/onur/cargo-license)
-  * [cargo-make](https://crates.io/crates/cargo-make) -Rust任务运行器和构建工具. [<img src="https://api.travis-ci.org/sagiegurari/cargo-make.svg?branch=master">](https://travis-ci.org/sagiegurari/cargo-make)
+  * [cargo-make](https://crates.io/crates/cargo-make) — Rust task runner and build tool. [<img src="https://api.travis-ci.org/sagiegurari/cargo-make.svg?branch=master">](https://travis-ci.org/sagiegurari/cargo-make)
   * [cargo-modules](https://crates.io/crates/cargo-modules) —一个货物插件，用于显示包装箱模块的树状概览. [<img src="https://api.travis-ci.org/regexident/cargo-modules.svg?branch=master">](https://travis-ci.org/regexident/cargo-modules)
   * [cargo-multi](https://crates.io/crates/cargo-multi) -在多个箱子上运行指定的货运命令 [<img src="https://api.travis-ci.org/imp/cargo-multi.svg?branch=master">](https://travis-ci.org/imp/cargo-multi)
   * [cargo-outdated](https://crates.io/crates/cargo-outdated) —显示何时可用新版本的Rust依赖项或已过时 [<img src="https://api.travis-ci.org/kbknapp/cargo-outdated.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-outdated)
@@ -346,7 +346,7 @@
   * [dgrunwald/rust-cpython](https://raw.githubusercontent.com/dgrunwald/rust-cpython) — Python绑定 [<img src="https://api.travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
   * [PyO3/PyO3](https://raw.githubusercontent.com/PyO3/PyO3) — Python解释器的Rust绑定 [<img src="https://api.travis-ci.org/PyO3/pyo3.svg?branch=master">](https://travis-ci.org/PyO3/pyo3)
 * R
-  * [rustr/rustr](https://raw.githubusercontent.com/rustr/rustr) — use Rust from R, and use R in Rust [<img src="https://api.travis-ci.org/rustr/rustr.svg?branch=master">](https://travis-ci.org/rustr/rustr)
+  * [rustr/rustr](https://raw.githubusercontent.com/rustr/rustr) -使用R中的Rust，并在Rust中使用R [<img src="https://api.travis-ci.org/rustr/rustr.svg?branch=master">](https://travis-ci.org/rustr/rustr)
 *红宝石
   * [d-unseductable/ruru](https://raw.githubusercontent.com/d-unseductable/ruru) —用Rust编写的本机Ruby扩展 [<img src="https://api.travis-ci.org/d-unseductable/ruru.svg?branch=master">](https://travis-ci.org/d-unseductable/ruru)
   * [danielpclark/rutie](https://github.com/danielpclark/rutie) —用Rust编写的本机Ruby扩展，反之亦然 [![Build Status](https://api.travis-ci.org/danielpclark/rutie.svg?branch=master)](https://travis-ci.org/danielpclark/rutie)
@@ -588,8 +588,8 @@
 ### Computation
 
 * [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) [[blas](https://crates.io/keywords/blas)]
-  * [mikkyang/rust-blas](https://github.com/mikkyang/rust-blas) — BLAS绑定
-  * [stainless-steel/blas](https://raw.githubusercontent.com/blas-lapack-rs/blas) — BLAS绑定 [<img src="https://api.travis-ci.org/blas-lapack-rs/blas.svg?branch=master">](https://travis-ci.org/blas-lapack-rs/blas)
+  * [mikkyang/rust-blas](https://github.com/mikkyang/rust-blas) — BLAS bindings
+  * [stainless-steel/blas](https://raw.githubusercontent.com/blas-lapack-rs/blas) — BLAS bindings [<img src="https://api.travis-ci.org/blas-lapack-rs/blas.svg?branch=master">](https://travis-ci.org/blas-lapack-rs/blas)
 * [Conjugate Gradient](https://en.wikipedia.org/wiki/Limited-memory_BFGS)
   * [noshu/cg-sys](https://github.com/noshu/cg-sys) — fortran CG +子例程的生锈绑定
 * [GMP](https://gmplib.org/)
@@ -851,6 +851,7 @@
   * [VictoremWinbringer/Victorem](https://raw.githubusercontent.com/VictoremWinbringer/Victorem) [[Victorem](https://crates.io/crates/Victorem)] — Easy UDP Game Server和UDP Client框架，用于创建简单的2D和3D在线游戏原型 [<img src="https://api.travis-ci.org/VictoremWinbringer/Victorem.svg?branch=master">](https://travis-ci.org/VictoremWinbringer/Victorem)
 * Voxlap
   * [bbodi/rust-voxlap](https://github.com/bbodi/rust-voxlap) — [Voxlap](http://advsys.net/ken/voxlap.htm) 绑定
+* [Awesome wgpu](https://github.com/rofrol/awesome-wgpu) —精选的wgpu代码和资源列表
 
 ### Geospatial
 

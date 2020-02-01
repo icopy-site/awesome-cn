@@ -253,6 +253,8 @@
 - [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
 - [Scan for secrets in your source code](https://github.com/cds-snc/github-actions/tree/master/seekret)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) -将AWS Secrets Manager机密定义为环境值.
+- [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
+- [Secret Spreader](https://github.com/webfactory/secret-spreader) -本身不是动作，而是用于在整个存储库列表中管理动作秘密的工具.
 
 #### Code Coverage
 

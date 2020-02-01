@@ -33,14 +33,15 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Blazor-Dev gallery on .NET Foundation](https://dotnet.myget.org/gallery/blazor-dev) -Blazor的“ dev”分支的每日构建.
 * [Blazor Extensions](https://github.com/BlazorExtensions) -针对Microsoft ASP.Net Core Blazor的精选扩展.
 * [Blazor University](http://blazor-university.com/) -非官方文档网站.
-* [Demo](https://blazor-demo.github.io/) -官方演示网站.
+* [Demo](https://blazor-demo.github.io/) -官方基本演示网站.
+* [Documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor) -官方文档，由Microsoft提供.
 * [eShopOnBlazor](https://github.com/dotnet-architecture/eShopOnBlazor) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/dotnet-architecture/eShopOnBlazor?style=flat-square&cacheSeconds=86400) 将传统的ASP.NET Web窗体应用程序迁移到Blazor（Microsoft体系结构示例）.
 * [FAQ](https://github.com/aspnet/Blazor/wiki/FAQ) - 常问问题.
 * [GitHub repository](https://github.com/aspnet/Blazor) - ![GitHub stars](https://img.shields.io/github/stars/aspnet/Blazor?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square&cacheSeconds=86400) 官方Blazor存储库.
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) -“ Hello World”示例.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) -ASP.NET Core简介.
 * [Study Blazor](https://studyblazor.com) -适用于初学者的Blazor教程，从基础到高级概念（包含更多代码段），简单易行.
-* [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square&cacheSeconds=86400) Build a complete Blazor app and learn about the various Blazor framework features along the way.
+* [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square&cacheSeconds=86400) 构建一个完整的Blazor应用程序，并逐步了解Blazor框架的各种功能.
 
 ## Sample Projects
 ### Authentication
@@ -50,7 +51,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Blazor.JWTTest](https://github.com/shawty/blazor.jwttest) - ![stars](https://img.shields.io/github/stars/shawty/blazor.jwttest?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/shawty/blazor.jwttest?style=flat-square&cacheSeconds=86400) 使用API​​和身份验证的Blazor托管（客户端/服务器端）应用程序的JWT身份验证.
 * [BlazorAuthenticationSample](https://github.com/christiansparre/BlazorAuthenticationSample) - ![stars](https://img.shields.io/github/stars/christiansparre/BlazorAuthenticationSample?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/christiansparre/BlazorAuthenticationSample?style=flat-square&cacheSeconds=86400) 一个示例，显示一些ASP.NET Core Blazor身份验证功能（还进行一些测试...）.
 * [Blazor.OpenId](https://github.com/jbomhold3/Blazor.Openid) - ![stars](https://img.shields.io/github/stars/jbomhold3/Blazor.Openid?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jbomhold3/Blazor.Openid?style=flat-square&cacheSeconds=86400) 使用OpenId轻松进行身份验证和客户端刷新.
-* [Blazor.Msal](https://github.com/cradle77/Blazor.Msal) - ![stars](https://img.shields.io/github/stars/cradle77/Blazor.Msal?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cradle77/Blazor.Msal?style=flat-square&cacheSeconds=86400)  Blazor中MSAL的示例实现，它显示了如何将Blazor WebAssembly中制作的单页Web应用程序与Azure Active Directory集成.  它允许对用户进行身份验证，然后获取访问令牌以对外部API进行安全调用.  该代码在内部使用 [MSAL.js](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) 实现OpenID Connect和OAuth2流.
+* [Blazor.Msal](https://github.com/cradle77/Blazor.Msal) - ![stars](https://img.shields.io/github/stars/cradle77/Blazor.Msal?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cradle77/Blazor.Msal?style=flat-square&cacheSeconds=86400) Sample implementation for MSAL in Blazor, it shows how to integrate a Single Page Web Application made in Blazor WebAssembly with Azure Active Directory. It allows to authenticate the user and then acquire an access token to make a secure call to an external API. The code internally uses [MSAL.js](https://docs.microsoft.com/en-us/azure/active-directory/develop/msal-overview) 实现OpenID Connect和OAuth2流.
 ### Cloud
 * [BlazorAzure.WebApp](https://github.com/gpeipman/BlazorDemo/tree/master/BlazorAzure.WebApp) - ![stars](https://img.shields.io/github/stars/gpeipman/BlazorDemo?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gpeipman/BlazorDemo?style=flat-square&cacheSeconds=86400) Blazor Azure Web应用程序.
 * [BlazorAzure.Functions](https://github.com/gpeipman/BlazorDemo/tree/master/BlazorAzure.Functions) - ![stars](https://img.shields.io/github/stars/gpeipman/BlazorDemo?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/gpeipman/BlazorDemo?style=flat-square&cacheSeconds=86400) Blazor具有Azure功能.
@@ -287,7 +288,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) -Blazor的自适应卡. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
-* [How to use BlazorStyled with Blazor to dynamically change CSS](https://youtu.be/frtetHgfdIo) -2029年1月22日-我演示了如何为SSB安装BlazorStyled，以及如何构建ProgressBar和Sprite Component来完成简单的动画.
+* [How to use BlazorStyled with Blazor to dynamically change CSS](https://youtu.be/frtetHgfdIo) -2029年1月22日-我展示了如何为SSB安装BlazorStyled，以及如何构建ProgressBar和Sprite Component来完成简单的动画.
 * [Blazor Tutorial : HttpClient | Login User](https://www.youtube.com/watch?v=X6cBnOhaYhk&feature=youtu.be) -2020年1月21日-该视频介绍了我们如何在Blazor应用中使用HttpClient进行API调用以使用户登录到系统. [Source code](https://github.com/CuriousDrive/BlazorApp).
 * [Microsoft, Google and Cookie Authentication and Authorization](https://www.youtube.com/watch?v=v2OsI7qJdoc) -2020年1月15日-Microsoft的这段视频介绍了如何在Blazor应用程序中使用身份验证和授权.
 * [.NET Conf session: Blazor for Web Form and C# Developers](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Blazor-for-Web-Form-and-C-Developers) - January 14, 2020 - "Blazor for Web Form and C# Developers" by Jeff Fritz, session of the .NET Conf "Focus on Blazor". This session covers how you can use Blazor within your Web Form applications.
@@ -381,7 +382,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [ASP.NET Community Standup - .NET Core 3.0 Preview 6](https://www.youtube.com/watch?v=SKnIzX6WFfI&list=PL1rZQsJPBU2StolNg0aqvQswETPcYnNKL&index=0) -2019年6月18日-ASP.NET社区声明-.NET Core 3.0预览版6.
 * [Blazor StateHasChanged: BlazePort part 3](https://www.twitch.tv/videos/440348759) -2019年6月17日-Blazor State已更改：BlazePort第3部分.有关创建BlazePort的视频，这是一个与Blazor用全栈.NET编写的太空旅行的未来派乘车共享应用程序. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
 * [Blazor with Material Design Framework, part 1](https://www.youtube.com/watch?v=X4QYcVX6NCw) -2019年6月16日-具有材料设计框架的Blazor-MatBlazor（第1部分）.
-* [Blazor StateHasChanged: BlazePort part 2](https://www.twitch.tv/videos/438942939) -2019年6月14日-Blazor State已更改：BlazePort第2部分.有关创建BlazePort的第二个视频，这是一个与Blazor用全栈.NET编写的太空旅行的未来派乘车共享应用程序. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
+* [Blazor StateHasChanged: BlazePort part 2](https://www.twitch.tv/videos/438942939) -2019年6月14日-Blazor State已更改：BlazePort第2部分.有关创建BlazePort的第二段视频，这是一个与Blazor用全栈.NET编写的太空旅行的未来派乘车共享应用程序. [Source Code](https://github.com/EdCharbeneau/BlazePort) ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/BlazePort?style=flat-square&cacheSeconds=604800).
 * [Blazing Pizza Deep Dive with Daniel Roth](https://www.youtube.com/watch?v=HxZTD0isAxQ) -2019年6月11日-ASP.NET社区站立-2019年6月11日-与Daniel Roth一起进行比萨深潜.
 * [Blazor - You Want To Run .NET Where?!](https://www.youtube.com/watch?v=t9g-GogZDeo) -2019年6月11日-Blazor-您想在哪里运行.NET？！.
 * [Blazor SPA Framework C# with MongoDB - Part 1](https://www.youtube.com/watch?v=XHbOyEFoPV0) - June 9, 2019 - Blazor SPA Framework C# with MongoDB - Part 1.
@@ -404,7 +405,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Avoiding Parking Fines with Blazor and Geolocation](https://dev.to/ondrabus/avoiding-parking-fines-with-blazor-and-geolocation-572o) -2020年1月20日-避免使用Blazor和Geolocation罚款停车. [Source code](https://github.com/ondrabus/dont-park-here-client).
 * [6 Blazor component libraries to speed up your development](https://jonhilton.net/blazor-component-libraries/) -2020年1月20日-6个Blazor组件库可加快您的开发速度.
 * [Using NSwag to Generate Blazor Server Client for an ASP.NET Core 3.1 API](https://elanderson.net/2020/01/using-nswag-to-generate-blazor-server-client-for-an-asp-net-core-3-1-api/) -2020年1月19日-使用NSwag为ASP.NET Core 3.1 API生成Blazor服务器客户端.
-* [The Future of Blazor is Native Apps](https://medium.com/young-coder/the-future-of-blazor-is-native-apps-9f4a510acdd5) -2020年1月18日-微软设想Blazor在没有WebAssembly的情况下在桌面和移动设备上运行的未来.
+* [The Future of Blazor is Native Apps](https://medium.com/young-coder/the-future-of-blazor-is-native-apps-9f4a510acdd5) -2020年1月18日-微软设想Blazor在没有WebAssembly的情况下在台式机和移动设备上运行的未来.
 * [Should I Peek Blazor?](https://remibou.github.io/Should-I-peek-Blazor/) -2020年1月16日-我应该窥视Blazor吗？
 * [Web developers: Microsoft Blazor lets you build native iOS, Android apps in C#, .NET](https://www.zdnet.com/article/web-developers-microsoft-blazor-lets-you-build-native-ios-android-apps-in-c-net/) - January 16, 2020 - Microsoft offers a new tool for building native iOS and Android apps in programming language C# and .NET.
 * [Using gRPC-Web with Blazor WebAssembly](https://blog.stevensanderson.com/2020/01/15/2020-01-15-grpc-web-in-blazor-webassembly/) -2020年1月15日-Steve Sanderson针对单页应用程序而言，gRPC-Web是JSON-over-HTTP的便捷，高性能替代品.
@@ -418,7 +419,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Re-Using Angular components in a Blazor WebAssembly application using Angular Elements](https://www.thinktecture.com/blazor/integrations/angular-elements-web-components/) -2020年1月2日-使用Angular Elements在Blazor WebAssembly应用程序中重新使用Angular组件-Web Components自定义元素，FTW！
 * [Display spinner on each API call automatically in Blazor](https://bipinpaul.com/posts/display-spinner-on-each-api-call-automatically-in-blazor) -2020年1月2日-在Blazor中自动显示每个API调用上的微调器. [Source code here](https://github.com/iAmBipinPaul/BlazorDisplaySpinnerAutomatically).
 * [gRPC With Blazor, C# And .Net Core](https://www.c-sharpcorner.com/article/grpc-with-c-sharp-net-core-calling-grpc-service-with-blazor-server-side-applicati/) - January 2, 2020 - gRPC With Blazor, C# And .Net Core.
-* [Bolero 使写作 F# apps running in WebAssembly using Blazor](https://www.infoq.com/news/2019/12/bolero-sharp-webassembly/) -2019年12月31日- [Bolero](https://github.com/fsbolero/bolero) 使写作 [F#](https://docs.microsoft.com/en-us/dotnet/fsharp/) 使用Blazor在WebAssembly中运行的应用程序.
+* [Bolero 使写作 F# apps running in WebAssembly using Blazor](https://www.infoq.com/news/2019/12/bolero-sharp-webassembly/) - December 31, 2019 - [Bolero](https://github.com/fsbolero/bolero) 使写作 [F#](https://docs.microsoft.com/en-us/dotnet/fsharp/) 使用Blazor在WebAssembly中运行的应用程序.
 * [Blazor easy access token management](https://wellsb.com/csharp/aspnet/blazor-easy-access-token-management/) -2019年12月30日-Blazor轻松访问令牌管理.
 * [Hosting Blazor applications on GitHub Pages](https://mikaberglund.com/2019/12/29/hosting-blazor-applications-on-github-pages/) -2019年12月29日-在GitHub Pages上托管Blazor应用程序.
 * [Install a blazor app as globaltool and service](https://blog.delegate.at/2019/12/29/install-a-blazor-app-as-globaltool-and-service.html) -2019年12月29日-安装blazor应用程序作为globaltool和服务.
@@ -462,7 +463,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [What is Blazor? A Tutorial on Building Web Apps with Authentication](https://auth0.com/blog/what-is-blazor-tutorial-on-building-webapp-with-authentication) -2019年11月11日-了解如何使用Blazor构建客户端Web应用程序以及如何使用Auth0保护它们.
 * [Make Your Blazor Development Faster](https://remibou.github.io/Make-your-Blazor-development-faster/) -2019年11月8日-如何改善Blazor的开发体验.
 * [Data annotations object graph validation is coming to Blazor](https://gunnarpeipman.com/blazor-data-annotations-object-graph-validation/) -2019年11月6日-数据注释对象图验证即将发布到Blazor.
-* [Securing your Blazor App with Auth0 (client side)](https://dev.to/henalbrod/securing-your-blazor-app-with-auth0-client-side-2c6) - November 6, 2019 - Securing your Blazor App with Auth0 (client side).
+* [Securing your Blazor App with Auth0 (client side)](https://dev.to/henalbrod/securing-your-blazor-app-with-auth0-client-side-2c6) -2019年11月6日-使用Auth0（客户端）保护Blazor应用安全.
 * [Building a Custom Router for Blazor](https://chrissainty.com/building-a-custom-router-for-blazor/) -2019年11月5日-为Blazor构建自定义路由器. [Source code](https://github.com/chrissainty/BuildingACustomRouterForBlazor).
 * [ASP.NET Core updates in .NET Core 3.1 Preview 2](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-core-3-1-preview-2/) -2019年11月4日-.NET Core 3.1 Preview 2中的ASP.NET Core更新
 * [Visual Studio 2019 for Mac version 8.4 Preview 2](https://devblogs.microsoft.com/visualstudio/visual-studio-2019-for-mac-version-8-4-preview-2-now-available/) -2019年11月4日-Visual Studio 2019 for Mac版本8.4 Preview 2现已可用（并支持Blazor）.
@@ -523,7 +524,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Using Razor Components in a Razor Page](https://www.mikesdotnetting.com/article/338/using-razor-components-in-a-razor-page) -2019年8月5日-有关如何在.NET Core 3.0的Razor Pages应用程序中包含Blazor / Razor组件的博客文章.
 * [IndexedDB in Blazor](https://blog.stevensanderson.com/2019/08/03/blazor-indexeddb/) -2019年8月3日-探索Steve Sanderson的Reshiru.Blazor.IndexedDB软件包.
 * [Deploying a Server Side Blazor application to Azure](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4349/Deploying-A-Server-Side-Blazor-Application-To-Azure.aspx) -2019年8月3日-将服务器端Blazor应用程序部署到Azure.
-* [Using a Code-Behind Approach to Blazor Components](https://www.telerik.com/blogs/using-a-code-behind-approach-to-blazor-components) -2019年7月31日-在本文中，我们将研究在Blazor开发中使用代码后置何时会有所帮助，我们如何受益以及在重构现有组件时会有什么期望.
+* [Using a Code-Behind Approach to Blazor Components](https://www.telerik.com/blogs/using-a-code-behind-approach-to-blazor-components) -2019年7月31日-在本文中，我们将研究在Blazor开发中使用代码后置何时会有所帮助，我们如何受益以及在重构现有组件时会期待什么.
 * [Configuring Policy-based Authorization with Blazor](https://chrissainty.com/securing-your-blazor-apps-configuring-policy-based-authorization-with-blazor/) -2019年7月30日-克里斯·桑迪（Chris Sainty）撰写的“保护您的Blazor应用程序”系列的第4部分.
 * [Blazor Components - New Blazor Scheduler Control, Data Grid Enhancements and more (available in Beta #1)](https://community.devexpress.com/blogs/aspnet/archive/2019/07/29/blazor-components-new-blazor-scheduler-control-data-grid-enhancements-and-more-available-in-beta-1.aspx) -2019年7月29日-DevExpress Blazor UI组件的第一个beta版本包括一个新的Scheduler组件以及旨在改善我们Blazor产品线整体功能的众多增强功能.
 * [Authentication in server-side Blazor applications](https://gunnarpeipman.com/blazor/server-side-blazor-authentication/)  -2019年7月25日-发布了ASP.NET Core 3.0的Preview 6版本，其中一个有趣的新功能是对服务器端Blazor应用程序的身份验证和授权.  这篇博客文章介绍了当前完成的工作，并展示了身份验证如何与服务器端Blazor应用程序一起工作.
@@ -564,7 +565,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 ## Podcasts
 * [Podcast: Occam’s Blazor](https://stackoverflow.blog/2020/01/14/podcast-occams-blazor/) -2020年1月14日-Stack Overflow播客.
 * [.NET Core 3 Launch with Scott Hunter](https://www.dotnetrocks.com/?show=1654) -2019年9月26日-.NET Rocks播客，第1654集：.NET Core 3与Scott Hunter一起发布.
-* [Moving from Web Forms to Blazor with Jeff Fritz](https://www.dotnetrocks.com/default.aspx?ShowNum=1652) -2019年9月12日-.NET Rocks播客，第1652集：与Jeff Fritz一起从Web窗体移至Blazor.
+* [Moving from Web Forms to Blazor with Jeff Fritz](https://www.dotnetrocks.com/default.aspx?ShowNum=1652) -2019年9月12日-.NET Rocks播客，第1652集：与Jeff Fritz从Web Forms移到Blazor.
 * [Blazor with Daniel Roth](https://devchat.tv/adventures-in-dotnet/net-003-blazor-with-daniel-roth/) - September 03, 2019 - Daniel Roth starts by introducing Web Assembly and how this changed web development. Blazor allows full-stack development through .NET with C#. The panel asks Dan about Blazor's capabilities and future. Dan shares Blazor’s origin story.
 * [What is WebAssembly](https://cynicaldeveloper.com/podcast/122/) -2019年9月2日-什么是WebAssembly，Cynical Developer播客的第122集.
 * [Building Applications using Server-Side Blazor with Shaun Walker](https://www.dotnetrocks.com/default.aspx?ShowNum=1649)  -2019年8月22日-.NET Rocks！  播客，第1649集：使用服务器端Blazor和Shaun Walker构建应用程序.
@@ -604,7 +605,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Blazor Quick Start Guide: Build web applications using Blazor, EF Core, and SQL Server](https://www.amazon.in/gp/product/178934414X/ref=awesome_blazor) -Blazor快速入门指南：使用Blazor，EF Core和SQL Server构建Web应用程序（2018年10月31日发布）.
 
 ## E-Books
-* [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) - Blazor for ASP.NET Web Forms developers, a free e-book from Microsoft.
+* [Blazor for ASP.NET Web Forms developers](https://dotnet.microsoft.com/learn/aspnet/architecture#blazor-for-web-forms-devs-ebook-swim) -适用于ASP.NET Web窗体开发人员的Blazor，这是Microsoft提供的免费电子书.
 * [An Introduction to Building Applications with Blazor](https://www.amazon.com/Introduction-Building-Applications-Blazor-applications-ebook/dp/B07WPQTT6H) - August 24, 2019 - An Introduction to Building Applications with Blazor: How to get started creating applications using this exciting easy to use Microsoft C# framework
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
@@ -628,7 +629,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Practical samples of Blazor Server-Side](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor-ss) -Blazor服务器端的实际示例.
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/blazor) -Blazor问题以堆栈溢出为依据.
 * [Twitter](https://twitter.com/hashtag/blazor) -Twitter上的标签.
-* [WebAssemblyMan](https://www.webassemblyman.com/) -Blazor和WebAssembly的手册页.
+* [WebAssemblyMan](https://www.webassemblyman.com/) - Man page for Blazor and WebAssembly.
 
 ## Other Languages
 * [Blaze of Code](https://blazeofcode.com/) -[葡萄牙语]关于Blazor的博客.

@@ -12,7 +12,7 @@
 
 - [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) -公共交通信息领域对话系统中NLG的数据集.
 - [Box-score data](https://github.com/harvardnlp/boxscore-data/) -该数据集包含（人工编写的）NBA篮球比赛摘要，这些摘要与相应的方块得分和线路得分对齐.
-- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中于数据驱动的最新端到端（E2E）NLG方法，该方法可以从不对齐的数据中共同学习句子规划和表面实现.
+- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中在数据驱动的最新端到端（E2E）NLG方法上，这些方法可以从不对齐的数据中共同学习句子规划和表面实现.
 - [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库.
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) -来自weather.gov（美国公共天气预报）的计算机生成的天气预报以及相应的天气数据.
 - [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引用表达生成.
@@ -63,9 +63,9 @@
 ## Papers
 - [A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG](https://www.inlg2019.com/assets/papers/178_Paper.pdf)
 - [A Personalized Data-to-Text Support Tool for Cancer Patients](https://www.inlg2019.com/assets/papers/28_Paper.pdf)
-- [Controlling Contents in Data-to-Document Generation withHuman-Designed Topic Labels](https://www.inlg2019.com/assets/papers/79_Paper.pdf)
+- [Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels](https://www.inlg2019.com/assets/papers/79_Paper.pdf)
 - [Hotel Scribe: Generating High Variation Hotel Descriptions](https://www.inlg2019.com/assets/papers/44_Paper.pdf)
-- [Natural Language Generation enhances human decision-making withuncertain information](https://arxiv.org/pdf/1606.03254.pdf)
+- [Natural Language Generation enhances human decision-making with uncertain information](https://arxiv.org/pdf/1606.03254.pdf)
 - [NLP - Text Generation Reading List](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings/blob/master/NLP/NLP_generation.md)
 - [Survey of the State of the Art in NaturalLanguage Generation: Core tasks, applicationsand evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 - [Revisiting Challenges in Data-to-Text Generation with Fact Grounding](https://www.inlg2019.com/assets/papers/32_Paper.pdf)

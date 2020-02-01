@@ -145,7 +145,7 @@
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper)  -简单的macOS应用程序，可从JSON生成Swift Object Mapper类.  ！[swift_icon] 
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，设置器和获取器导出为模型类.  ！[swift_icon] 
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，setter和getter导出为模型类.  ！[swift_icon] 
 - [j2s](https://github.com/zadr/j2s)  -macOS应用程序，用于将JSON对象转换为Swift结构（当前针对Swift 4和Codable）.  ！[swift_icon] 
 
 #### Other Development
@@ -284,7 +284,7 @@
 ### IDE
 - [Atom](https://github.com/atom/atom)  -可入侵的文本编辑器.  ！[javascript_icon] 
 - [LiveCode](https://github.com/livecode/livecode) -跨平台开发IDE！[c_icon] 
-- [Oni](https://github.com/onivim/oni)  -Oni是模态编辑代码编辑器的现代版，专注于开发人员的生产力.  ！[javascript_icon]！[type_script_icon] 
+- [Oni](https://github.com/onivim/oni)  -Oni是模态编辑代码编辑器的现代版，专注于开发人员的工作效率.  ！[javascript_icon]！[type_script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode)  -由Microsoft开发的代码编辑器.  ！[type_script_icon] 
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)  -ZeroBrane Studio是一种轻量级的跨平台Lua IDE，具有代码完成，语法突出显示，远程调试器，代码分析器，实时编码以及对各种Lua引擎的调试支持.  ！[lua_icon] 
 
@@ -370,7 +370,7 @@
 - [FromScratch](https://github.com/Kilian/fromscratch)  -可以用作快速笔记或待办事项的小应用程序.  ！[javascript_icon]！[css_icon] 
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app)  -适用于macOS的笔记本查看器.  ！[swift_icon] 
 - [NoteTaker](https://github.com/insidegui/NoteTaker)  -适用于macOS和iOS的简单笔记应用程序，使用Realm和CloudKit进行同步.  ！[swift_icon] 
-- [Notes](https://github.com/SauvageP/Notes) -Notes是一个macOS应用程序，用于创建注释，使用文本以及其他格式：图像，视频，联系人等.！[swift_icon] 
+- [Notes](https://github.com/SauvageP/Notes) -Notes是一个macOS应用程序，用于创建注释，使用文本以及其他格式（图像，视频，联系人等）.！[swift_icon] 
 - [QOwnNotes](https://github.com/pbek/QOwnNotes)  -具有降价支持和ownCloud / Nextcloud集成的纯文本文件记事本和待办事项列表管理器.  ！[cpp_icon] 
 - [Simplenote](https://github.com/Automattic/simplenote-macos)  -记笔记的最简单方法.  ！[objective_c_icon] 
 - [Standard Notes](https://github.com/standardnotes/web)  -安全的地方，方便您记录笔记，思想和生活.  ！[javascript_icon]！[css_icon] 
@@ -437,6 +437,7 @@
 - [Sessions](https://github.com/AlexPerathoner/Sessions) -Safari扩展程序可以保存您的工作会话！[swift_icon] 
 - [Speed Reader](https://github.com/LumingYin/SpeedReader)  -通过SpeedReader静音发声的功能，可以更快地阅读.  ！[swift_icon] 
 - [StickyNotes](https://github.com/LumingYin/StickyNotes)  -在AppKit中实现的Windows 10风格便笺应用程序.  ！[swift_icon] 
+- [Strategr](https://github.com/khrykin/StrategrDesktop) -轻松的时间管理！[cpp_icon]！[objective_c_icon] 
 - [Super Productivity](https://github.com/johannesjo/super-productivity)  -通过Jira集成为程序员和设计师免费提供列表和时间跟踪器.  ！[type_script_icon]！[javascript_icon] 
 - [Thyme](https://github.com/joaomoreno/thyme) -OS X的任务计时器.！[objective_c_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app)  -适用于Mac的简单计时器应用程序.  ！[swift_icon] 

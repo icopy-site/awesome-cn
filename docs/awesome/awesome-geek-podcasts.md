@@ -30,7 +30,7 @@
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday)  -Scott Hanselman和实际的工程师坐在一起，他们在学习如何编程云的过程中建立了Azure.  没有营销，没有BS，只有两名工程师和一小段可管理的笔记本电脑.
 * [Base.cs](https://www.codenewbie.org/basecs) -基于CodeNewbie制作的Vaidehi Joshi的base.cs博客系列的初学者友好型计算机科学课程.
 * [Beats, Rye & Types](http://beatsryetypes.com/) -两个老朋友，讨论他们的三个主要爱好：音乐，美食和编程.
-* [Blockchain Insider](https://bi.11fs.com/) -每周播客，专门研究区块链，分类账技术和加密货币的所有事物.
+* [Blockchain Insider](https://bi.11fs.com/) -每周播客，专门研究所有区块链，分类账技术和加密货币.
 * [Boagworld Show](https://boagworld.com/show)  -Boagworld是有关数字策略，管理和用户体验的播客.  它提供实用的建议，新闻，工具，评论以及与Web设计社区中的知名人物的访谈.
 * [BookBytes](https://www.orbit.fm/bookbytes/) -面向开发人员的读书俱乐部播客.
 * [Bootstrapped](http://bootstrapped.fm/)  -伊恩（Ian）和安德烈（Andrey）都是经验丰富的初创公司创始人，在职业生涯中都遭受了重大打击和成功.  您可以学习很多聆听它们的知识.
@@ -63,7 +63,6 @@
 * [Disruptive](https://soundcloud.com/wyssinstitute/sets/disruptive)  -Wyss生物启发工程研究所的研究人员使用自然界的设计原理来开发生物启发的材料和设备，这些材料和设备将改变医学并创造一个更加可持续的世界.  在这个播客系列中，特伦斯·麦克纳利（Terrence McNally）直接与研究所的研究人员交谈，探讨他们的动机以及他们如何展望我们的未来，因为这可能会受到其颠覆性技术的影响.
 * [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) -在表演中，我们将与热情的人们讨论与开发人员相关的广泛主题.
 * [Elixir Foundation](http://feeds.soundcloud.com/users/soundcloud:users:24638646/sounds.rss) -您每周播客，以了解Elixirlang社区周围的新闻和采访.
-* [Elixir Mix](https://devchat.tv/elixir-mix/) -Elixir Mix是每周一次的节目，重点关注Elixir编程社区.
 * [Elixir Outlaws](https://elixiroutlaws.com) -关于Elixir开发及其周围主题的小组讨论.
 * [Embedded.fm](https://www.embedded.fm/) -讨论通常用于设备的工程的方式，原因和内容.
 * [Ember Weekend](https://emberweekend.com/episodes) -由乔恩（Jon）和蔡斯（Chase）主持的关于恩伯（Ember）的一周（末期）播客.
@@ -115,7 +114,7 @@
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) -最新的开源项目和新闻！
 * [Our Ludicrous Future](https://ourludicrousfuture.com/) -主要是在太空，技术和埃隆·马斯克（Elon Musk）之间进行对话.
 * [Packet Pushers](https://packetpushers.net/)  -关于网络架构师的数据网络.  深入的技术和毫不掩饰的书呆子.
-* [Partially Derivative](http://partiallyderivative.com/) - A podcast about Data, Nerdiness, and Beer.
+* [Partially Derivative](http://partiallyderivative.com/) -关于数据，书呆子和啤酒的播客.
 * [PHP Round Table](https://www.phproundtable.com/) -PHP圆桌会议是开发人员的临时聚会，讨论PHP书呆子关心的主题.
 * [PHP Town Hall](http://phptownhall.com/) -Town Hall，一种供PHP开发人员提出有关PHP社区中当前事件（或即将发生的事情）的问题的方式，每周有不同的来宾.
 * [Podcast.\__init__](https://www.pythonpodcast.com/) -关于Python及其出色实现者的播客.
@@ -130,7 +129,6 @@
 * [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch/) -NASA肯尼迪航天中心的官方播客.
 * [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) -Rocket Talk是Tor.com的科幻/幻想播客，融合了讨论风格的谈话广播和Tor.com获奖短篇小说的音频旁白.
 * [Ruby5](https://www.pluralsight.com/search?q=ruby) -Ruby和Rails社区中的最新消息.
-* [Ruby Rogues](https://devchat.tv/ruby-rogues/)  -Ruby Rogues是每周一次有关编程的小组讨论.  Ruby和Rails之类的技术是我们的共同点，但是讨论内容涵盖了Ruby生态系统，gem（库）以及编程实践，工具和职业的各个部分.
 * [RunAs Radio](http://www.runasradio.com/) -每周一次的IT专业人员使用Microsoft产品的Internet音频脱口秀.
 * [Security Now!](https://www.grc.com/securitynow.htm)  -现在安全！  由Steve Gibson和Leo Laporte之间的有关计算机安全性以及不安全性的讨论组成.
 * [Security Weekly](https://securityweekly.com) -关于安全和信息安全的每周播客.
@@ -223,7 +221,7 @@
 * [Quebradev](https://quebradev.com.br/) -外围起源的播客，并注定要起源.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) -带有rapadura的电影播客，今天被视为巴西流行文化的参考.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) -播客面向极客，涉及技术，科学，历史等各个领域.
-* [Reloading](http://reloading.com.br/) -每周播客，其中包含视频游戏世界中最重要的新闻，事件和好奇心.
+* [Reloading](http://reloading.com.br/) -每周播客，带来来自视频游戏世界的最重要的新闻，事件和好奇心.
 * [Souforce.cloud](https://souforce.cloud/podcast/) -第一个播客以葡萄牙语为焦点，聚焦于Salesforce世界，在这里我们聊了有关开发，平台管理，Salesforce产品以及诸如Career之类的话题.
 * [Tecnocast](https://tecnoblog.net/categoria/podcast/) -关于技术的Tecnoblog播客.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) -敏捷性，建筑，语言和行动主义.
@@ -278,7 +276,7 @@
 * [RWPod](https://www.rwpod.com/) -关于Ruby和Web技术世界的播客.
 * [Radio-T](https://radio-t.com/)  -周末播客.  即兴创作以IT为主题.
 * [RadioJS](http://radiojs.ru/) -有关网络开发，JavaScript，前端和客户端的播客.
-* [SDCast](http://sdcast.ksdaemon.ru) —软件开发播客.  采访开发人员，讨论开发，开源和相关的IT主题.
+* [SDCast](http://sdcast.ksdaemon.ru) — Software development podcast. Interviews with developers, talks about development, open source and related IT topics.
 * [Razbor Poletov](http://razborpoletov.com) -关于Java，技术和软件开发领域的播客.
 * [uWebDesign](https://uwebdesign.ru/) -有关网站设计，网站开发和所有与IT相关的内容的播客.
 * [Frontflip Podcast](http://frontflip.me/) -关于JavaScript，前端和相关技术的播客.

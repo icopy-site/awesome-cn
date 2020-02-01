@@ -184,7 +184,6 @@
 - [binjgb rewind](https://binji.github.io/2017/12/31/binjgb-rewind.html) -实现*倒带*功能.
 - [binjgb on the web](https://binji.github.io/2017/02/26/binjgb-on-the-web-part-1.html) -将binjgb仿真器移植到Web Assembly. [(Part 2)](https://binji.github.io/2017/02/27/binjgb-on-the-web-part-2.html)
 - [binjgb debugging hangs](https://binji.github.io/2017/05/03/debugging-hangs.html) -关于仿真怪癖的调查
-- [Emulation Accuracy](https://github.com/Gekkio/mooneye-gb/blob/master/docs/accuracy.markdown)
 - [Decoding Gameboy Z80 opcodes](https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html) -如何对Game Boy指令进行算法解码（与编写一个巨大的switch-case语句相对）.
 - [Porting a GO Game Boy emulator to WebAssembly](https://djhworld.github.io/post/2018/09/21/i-ported-my-gameboy-color-emulator-to-webassembly/)
 - [About swotGB](https://mitxela.com/projects/swotgb/about) -有关使用Java开发Game Boy模拟器的说明.

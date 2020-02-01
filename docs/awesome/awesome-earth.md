@@ -7,8 +7,12 @@
 <!-- links:start -->
 ## Carbon-Reduction
 - [Carbon Footprint Extension](https://gitlab.com/aossie/CarbonFootprint) -自动估算Google Maps™，其他地图服务以及火车和航班搜索引擎上的二氧化碳排放量.
+- [Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/) -有关区域，国家和地方以下碳定价计划的地图和统计数据.
+
 - [CarbonFootprint.com](https://www.carbonfootprint.com/) -测量您的碳足迹，了解如何减少消耗，抵消影响，交流和遵守.
 - [CarbonFund.org](https://carbonfund.org/) -根据航班，驾驶，运输来计算您的足迹，并进行可抵税的捐款以抵消您的排放.
+- [Climate Action Tracker](https://climateactiontracker.org/countries/)  -查看哪些国家在执行《巴黎协定》或类似协议上步入正轨，哪些国家正在惨败.  提示：除了摩洛哥和冈比亚，所有人都是这样.
+
 - [Cool Earth](https://www.coolearth.org/) - This charity was created to tackle climate change by reducing carbon emissions from rainforest loss.
 - [Ecosia](https://www.ecosia.org)  -种植树木的搜索引擎.  广告收入的50％以上直接用于植树.
 - [Flight Free (UK)](https://flightfree.co.uk/)  -在我们迫切需要减少温室气体排放的时候，航空是导致温室气体排放增长最快的因素.  承诺在2020年免费飞行.
@@ -39,7 +43,7 @@
 - [Worn Wear](https://wornwear.patagonia.com/)  -一套工具，可帮助我们的客户与巴塔哥尼亚合作，共同承担责任，以延长巴塔哥尼亚生产和购买的产品的寿命.  您可以购买二手修理或翻新的衣服，或用旧的Patagonia衣服换购新商品.
 - [thredUP](https://www.thredup.com/)  -二手衣服，应进行循环再利用，以免浪费电，碳等浪费以生产新衣服，并避免将其存放在垃圾填埋场.  女人和孩子，但男人没有.
 ## Cooking
-- [Ecocina Rocket Stoves](http://www.stoveteam.org/)  -柴火炉灶，比传统火炉使用的燃料少约40-50％，二氧化碳排放量约1/3.  学习如何建立一个！  前往以下网址查看他们的研究中心 [Aprovecho](http://aprovecho.org/).
+- [Ecocina Rocket Stoves](http://www.stoveteam.org/) - Wood fired cook stove that uses ~40-50% less fuel than traditional fires and emits ~1/3 the CO2. Learn how to build one!  Check out their research center at [Aprovecho](http://aprovecho.org/).
 - [Go Sun](https://www.gosun.co/) -一种创新的便携式超高效太阳能炊具，可用于背包，划船，汽车露营等.
 - [Insulated Cooking](https://www.milkwood.net/2015/07/06/thermal-cooking/)  -探索一种绝佳的方法，不仅可以减少食物准备中的能量，而且可以同时提供美味和营养丰富的饭菜.  任何需要煮沸，炖煮，蒸煮或烘烤的食谱通常会更好吃- [hot from the haybox](https://www.motherearthnews.com/diy/haybox-cooking-zmaz80jfzraw)  —与常规炉灶准备相比……，您将同时节省热能.  你可以拿起一锅大小 [thermal cooker](http://www.cookingworld.biz/thermal-cooker-guide/)，或者干脆把毯子放在凉爽的地方.
 - [Preserve extra food with a solar dehydrator](https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar)  -太阳能食品脱水机是一种去除食品水分的装置，有助于食品的保存.  您可以 [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description)  或自己做.  食品干燥是自古以来就实践的一种保存水果，蔬菜和动物蛋白的方法.
@@ -65,18 +69,26 @@
 - [Where the Heck is Donlin?](https://vimeo.com/64608183)  -Donlin金矿位于阿拉斯加西南部的布什深处，是阿拉斯加历史上最大的拟建金矿.  但是，绝大多数的阿拉斯加居民并不熟悉其发展和影响的细节.  Bjorn和Kim注意到缺乏可用数据以及对该提案缺乏了解，因此采用了实地考察模型的调查研究，并着手从源头上探索一些未解决的问题.  他们通过拟议的矿山足迹完成了一个三部分，由人类驱动的1000英里荒野探险，他们与他们遇到的人们进行了永久废物存储，生存渔业的意义以及大型矿山的能源需求等问题的接触，以及农村居民面临的挑战.
 ## Home-Improvements
 - [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive)  -您可以从家里获得可再生供暖费用的钱.  您可以要求提供生物质锅炉，太阳能热水，热泵.  付款将根据您的供暖系统产生的可再生热量计算，为期7年.
-- [EPA's Responsible Appliance Disposal](https://www.epa.gov/rad) -RAD是一项自愿性合作伙伴计划，该计划与公用事业，零售商，制造商，州和地方政府机构，分支机构及其他机构合作，以利用现有最佳环境实践处置旧冷藏设备.
+- [EPA's Responsible Appliance Disposal](https://www.epa.gov/rad) - RAD is a voluntary partnership program that works with utilities, retailers, manufacturers, state and local government agencies, affiliates, and others to dispose of old refrigerated appliances using the best environmental practices available.
 - [EnergyStar.gov](https://www.energystar.gov/)  -产品，房屋，公用事业和地方政府的能效等级，供应商和税收抵免.  ENERGY STAR（能源之星）是政府支持的能效标志，可提供简单，可信且公正的信息，消费者和企业可根据这些信息做出明智的决策.
 - [Environmentally Friendly Roof Insulation](https://www.greenlivingtips.com/articles/environmentally-friendly-roof-insulation.html) -但是，无论您是在为房屋供暖，请确保您没有因隔热不良而漏热，并节省了资金.
 - [Hamwells Showers](https://www.hamwells.com/) -淋浴系统利用热交换器重新收集热量，过滤后的泵在排水之前将水循环利用多达7次，从而大大减少了用水量和能源消耗.
 - [NY State Home Energy Assessment tool](https://stars.nyserdagreenny.org/) -获得家庭能源审核并获得工具，资源和帮助，以升级您的房屋，使其更加节能.
 - [Nebia Showers](https://nebia.com/) -Nebia自豪地提供将您平凡的淋浴程序转变为一种仪式的产品，并为保护地球做出贡献.
 - [PlanetCare Microfibre Laundry Filters](https://www.planetcare.org)  -35％的微塑料是当我们洗衣服时释放的纤维.  使用家用和工业用洗衣过滤器，可以从源头上解决问题–在洗衣机中安装过滤器.  PlanteCare生产高效，实用且价格合理的洗衣过滤器，使每个家庭都可以停止将微纤维发送到环境中.
-- [Regency Wood Stove Fireplace Inserts](https://www.regency-fire.com/en/Products/Wood/Wood-Inserts)  -如果不能选择使用太阳能供暖，则木柴炉芯可以更新您通风良好的木壁炉.  它们将散发更少的热量从烟囱中散发出来，并在您的房屋周围散发更多热量，从而大大提高了木材的燃烧效率.  他们将烟雾抽回火中，也将其燃烧掉，从而减少了向大气中发送垃圾的机会.  尝试使用 [coffee logs](https://www.bio-bean.com/elements/coffee-logs-and-retailers/) 而不是木头.
+- [Regency Wood Stove Fireplace Inserts](https://www.regency-fire.com/en/Products/Wood/Wood-Inserts)  -如果不能选择使用太阳能供暖，则木柴炉芯可以更新您通风良好的木壁炉.  它们将散发更少的热量从烟囱中散发出来，并在您的房屋周围散发更多热量，从而大大提高了木材的燃烧效率.  他们将烟雾抽回火中，也将其燃烧掉，从而减少了向大气中的碎屑.  尝试使用 [coffee logs](https://www.bio-bean.com/elements/coffee-logs-and-retailers/) 而不是木头.
 - [Rigo Paint - Made From Flax](https://www.rigoverffabriek.nl/)  -检查他们的海蓝宝石系列油性油漆和RigoStep水性油漆.  他们的油画颜料依赖于本地生长的亚麻，亚麻由传统风车加热并压榨以提取油.  一旦与其他溶剂混合，便形成了油漆的液体基础.
 - [Sense](https://sense.com/)  -Sense是一种家用能源监控器，可实时了解您家庭的能源使用情况.  Sense为人们提供了减少能源成本和使用量所需的知识，并对环境产生了深远的影响-该公司估计其用户每年共节省5300万磅的二氧化碳.
 - [Solar Thermal Energy](https://en.wikipedia.org/wiki/Solar_thermal_energy)  -太阳能热技术可用于烹饪，通过辐射地板，散热器或强制通风为房屋供暖.  它也可以直接用于热水淋浴.
 - [Solar Water Heaters](https://www.energy.gov/energysaver/water-heating/solar-water-heaters)  -太阳能热水系统从太阳中吸收热能，并利用其为您的房屋加热水.  系统可以是被动的也可以是主动的–被动系统使用重力和自然循环，而主动系统则使用泵和控制装置来循环水.
+## Jobs
+- [Climate Careers](https://climate.careers/)  -帮助人们在推进气候解决方案，研究，政策，教育和倡导气候行动的组织中找到高影响力，高薪工作的网站.  软件工程师，摄影师，销售，运营，研究人员，以及各种各样的工作.
+
+- [GoodWork](https://www.goodwork.ca/) -GoodWork是加拿大的一个社区，由环境改变者，可持续发展专业人士，求职者和志愿者组成.
+
+- [Green Jobs](hhttps://greenjobs.glideapp.io) -可以帮助用户在美国顶级城市找到绿色工作的应用程序.
+- [GreenJobs](https://greenjobs.com) -在网站上刊登各种绿色工作的广告，以改善您的环保事业.
+- [The Guardian, Climate Change Jobs](https://jobs.theguardian.com/jobs/climate-change/) -《卫报》刊登了英国和欧洲/亚洲某些地区最新的气候变化工作广告.
 ## Land-Management
 - [Creating a Land Trust](https://conservationtools.org/guides/150-what-is-a-land-trust)  -土地信托基金是一个慈善组织，为了保护目的而获得土地或保护地役权，或管理土地或地役权.  土地所有者可以考虑将其部分土地指定为土地信托，以永久保留自然特征，并因此有资格获得税收优惠.
 - [Dronecoria](http://dronecoria.org/)  -开源无人机造林技术.  无人机，加上天然的被覆种子，可以改变我们恢复生态系统的效率.
@@ -87,9 +99,11 @@
 - [Woodland Trust](https://www.woodlandtrust.org.uk/) -伍德兰信托基金会（Woodland Trust）正在与社区，地方当局和土地所有者合作，重新造林英国，以植树造林.
 ## News
 - [BBC.com Climate Change](https://www.bbc.com/news/topics/cmj34zmwm1zt/climate-change) -当涉及游击队英国政治时，英国广播公司（BBC）可能会做出相当倾斜的报道，但他们的气候报道通常很恰当.
+- [Bloomberg Green](https://www.bloomberg.com/green) -气候新闻和最新科学，环境影响，零排放技术和绿色金融方面的见解.
+
 - [Carbon Brief](https://www.carbonbrief.org/)  -位于英国的网站，内容涵盖气候科学，气候政策和能源政策的最新发展.  清晰，以数据为依据的文章和图形，有助于在科学和政策应对方面帮助人们更好地理解气候变化.
 - [David Bauer's Climate Crisis Collection](https://refind.com/davidbauer/climate-crisis) -我们如何到达这里，去往何方以及对此可以采取的措施.
-- [Good](https://www.good.is/planet) - Good and upworthy news covering big issues, 'making purpose contagious'.
+- [Good](https://www.good.is/planet) -涵盖重大问题的“好消息”，“使目标具有传染性”.
 - [Metabolic](https://metabolic.nl/news) -在荷兰的可持续发展咨询机构，在全球范围内跟踪和报告气候行动，循环经济，减少消费等.
 - [State of the Planet](https://blogs.ei.columbia.edu/category/climate/)  -哥伦比亚大学地球研究所的消息.  哥伦比亚大学的地球研究所将物理，社会科学，教育和实际解决方案的研究相结合，以帮助引导世界走上可持续发展之路.
 - [The Cleanest Line](https://www.patagonia.com/blog/) -巴塔哥尼亚（Patagonia）的博客，介绍了他们为绿色空间环境保护进行政治参与，全球罢工，他们为各个社区的太阳能提供补贴以及其他各种气候行动的努力.
@@ -125,7 +139,7 @@
 - [Tree-Nation](https://tree-nation.com/projects) -为您或您的公司购买树木，并在世界各地种植它们.
 - [Treedom](https://www.treedom.net/) -Treedom可让您购买或赠送一棵真正的树，然后有人会为您种植并在线进行追踪.
 - [Trees for the Future](https://trees.org/)  -TREES种植各种树木和植物，几乎所有使用的树木在其种植环境中都是本地的或天然的.  他们与农民合作以了解他们的需求，并为他们匹配适合他们需求且对环境无害的物种.
-- [WeForest](https://www.weforest.org/) - Building upon corporate and scientific partnerships, WeForest empowers communities to sustainably advance and implement innovative, high standard, scalable and lasting solutions to restore forest landscapes.
+- [WeForest](https://www.weforest.org/) -建立在公司和科学合作伙伴关系的基础上，WeForest使社区能够可持续地推进和实施创新，高标准，可扩展和持久的解决方案，以恢复森林景观.
 ## Renewable-Energy
 - [Big Clean Switch](https://bigcleanswitch.org/)  -做不同的能源.  只需几分钟，即可从英国领先的供应商之一那里获得绿色电费.
 - [Carbon Intensity API](https://carbonintensity.org.uk/)  -由牛津大学和国家电网ESO提供的官方支持的开放API，提供了每半小时英国每单位用电量排放多少碳的快照.  还带有预测，区域分解以及一些出色的图表和可重复使用的小部件.  他们也有一个 [APP!](https://www.cs.ox.ac.uk/people/alex.rogers/gridcarbon/)
@@ -133,17 +147,17 @@
 - [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive)  -您可以从家里获得可再生供暖费用的钱.  您可以要求提供生物质锅炉，太阳能热水，热泵.  付款将根据您的供暖系统产生的可再生热量计算，为期7年.
 - [Ecotricity](https://www.ecotricity.co.uk/)  -100％绿色电力.  他们从其风车和太阳车队中产生1/5的能量，其余的则从其他绿色发电机中购买.  他们还将客户的账单转变为绿色能源的新来源，从而始终提供更多的绿色电力.
 - [Electricity Map](https://www.electricitymap.org/)  -一张地图，显示世界上许多国家的能源消耗，可再生能源渗透率和碳排放量.  如果您所在的国家/地区不适用，则可以提供数据源.
-- [Good Energy](https://www.goodenergy.co.uk/)  -英国为数不多的能源供应商之一，这些能源供应商通过自己的风力发电场和太阳能发电场生产可再生能源，并从小型独立的可再生能源发电商那里购买可再生能源.  从当地农民和社区能源计划到可持续的企业，这些企业产生自己的电力并出售多余的电力.  真正的可再生能源供应商，不仅是燃煤发电+抵消信用.
+- [Good Energy](https://www.goodenergy.co.uk/)  -英国为数不多的能源供应商之一，这些能源供应商通过自己的风力发电场和太阳能发电场生产可再生能源，并从小型独立的可再生能源发电商那里购买可再生能源.  从当地农民和社区能源计划到可持续的企业，这些企业产生自己的电力并向他们出售多余的电力.  真正的可再生能源供应商，不仅是燃煤发电+抵消信用.
 - [Green-E](https://www.green-e.org/)  -寻找您附近的可再生能源提供商.  Green-e认证的可再生能源和碳补偿产品符合北美最严格的环境和消费者保护标准.  您可以在下面搜索适用于您的家庭或企业的经认证的绿色电力和可再生能源证书计划，以及碳补偿产品，以抵消驾驶和飞行等活动中的排放.  作为第三方认证机构，Green-e®不会出售可再生能源或补偿产品，但会向那些这样做的零售商提供这些链接.
 - [Non-domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/non-domestic-renewable-heat-incentive) -非国内可再生热激励措施可帮助企业，公共部门和非营利组织负担安装可再生热技术的费用.
 - [SparkMeter](http://www.sparkmeter.io/) -人道主义智能能源计量解决方案，从公用事业部门购买浪费的未使用电力，然后将其转售至难以到达的地方和服务不足的市场，从而降低了总体能源消耗.
 ## Sustainable-Lifestyle
-- [All Green](https://www.all-green.co.uk/) -为家庭，花园，宠物和其他物品选择的环保产品.
-- [Alternative Apparel](https://www.alternativeapparel.com/) - Low impact dyes, and post-consumer recycled polyester are used with Fair Labor Association guidelines.
+- [All Green](https://www.all-green.co.uk/) - A selection of environmentally products for the home, garden, pets and other stuff.
+- [Alternative Apparel](https://www.alternativeapparel.com/) -低冲击性染料和消费后回收的聚酯符合公平劳工协会的指导方针.
 - [Bees Wrap](https://www.beeswrap.com/) -停止使用保鲜膜，开始使用由蜂蜡和有机荷荷巴油制成的可重复使用的可循环包装材料.
 - [Bio-plastic Trash Bags](https://www.amazon.com/Plant-Based-Kitchen-Handles-Gallon/dp/B071JMFKM5/) -由植物（甘蔗）材料代替化石燃料制成.
 - [Bunq Greencard](https://www.bunq.com/link/upgrade-greencard) -带有信用卡的荷兰唯一在线银行，可为您花的钱植树.
-- [Clean Cult](https://cleancult.pvzi.net/qq4kq) - Cleaning supplies with zero-waste packaging, and a powerful clean that's better for you and the planet.
+- [Clean Cult](https://cleancult.pvzi.net/qq4kq) -使用零废物包装清洁耗材，强力清洁对您和地球都更好.
 - [Earth Hero](https://earthhero.com/)  -我们的品牌采用更好的材料，更清洁的生产，更低的碳足迹，更高的质量以及更少的浪费制成.  当您在EarthHero上购物时，您将为我们所有人创造更美好的未来.
 - [Fairphone](https://www.fairphone.com/)  -为关心产品制造方式的所有人提供的电话.  它改善了制造它的人们的条件，并使用了对地球更好的材料.
 - [Good Condom Company](https://www.thegoodc.company/)  -他妈的，而不是地球.  来自马来西亚可持续管理的橡胶园的天然乳胶制成的避孕套.
@@ -163,7 +177,7 @@
 - [The Good Roll](https://www.thegoodroll.nl)  -邮购由消费后的再生纸制成的100％树木友好型卫生纸.  “好辊”销售净利润的50％用于在东非安装安全马桶.
 - [The Rotten Fruit Box](https://therottenfruitbox.com/)  -来自西班牙和葡萄牙的100％天然冻干水果零食被运送给您.  否则，您正在享用的水果会被闲置并掉在地上.  我们还认为，“腐烂”这个名称有助于引起人们对严重浪费食物的关注.  我们的冻干水果零食袋美味可口，健康，100％纯天然，具有很长的保存期限，是家庭，工作，办公室，上学，露营或几乎任何地方的理想选择.  帮助减少食物浪费.  帮助当地小农.  我们使用100％可堆肥包装，并随您当地的邮政服务一起运送，因为它是最低的碳足迹选择.  但是减少碳排放量还不够，我们种树以补偿我们的二氧化碳排放量.
 - [Transition Network](https://transitionnetwork.org)  -全球社区团结在一起，重新想象并积极重建我们的世界.  过渡城镇，过渡倡议和过渡模型一词是指旨在增加自给自足以减少石油峰值，气候破坏和经济不稳定的潜在影响的基层社区项目.
-- [Who Gives a Crap](https://whogivesacrap.org/) -我们使用环保材料生产所有产品，并捐赠50％的利润来帮助有需要的人建造厕所.
+- [Who Gives a Crap](https://whogivesacrap.org/) - We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
 - [iPhone 11 Bio Case from Moment](https://www.shopmoment.com/shop/iphone-bio-case/iphone-11)  -完全可堆肥的iPhone保护壳.  仅与iPhone 11兼容（目前）.
 ## Transportation
 - [Biking vs. Driving Calculator](https://bicycleuniverse.com/car-free-millionaire/)  -骑自行车可以使你成为百万富翁！  您为汽车支付的费用超出了您的想象.  一个典型的无车驾驶35年的美国人，即使根据通货膨胀因素进行调整，即使他们经常支付出租车，公共汽车和乘车出行的费用，也可以节省近100万美元.  使用计算器查找在特定情况下可以节省的金额.
@@ -188,16 +202,13 @@
 - [Seat61](https://www.seat61.com/)  -乘火车旅行比乘飞机旅行更有意义，更省力，这使我们更接近所访问的国家，并减少了我们对气候变化的贡献.  是时候重新发现乘坐火车或轮船旅行的乐趣，浪漫和冒险的时候了.  该站点说明了如何以舒适的价格负担得起的火车或渡轮旅行，您可能会认为现在是唯一的选择.  对于火车旅行的帮助，请问61号位的人！
 - [Slow Travel (Langsamreisen)](https://www.langsamreisen.de/)  -有关可持续和有意识旅行的旅行公司.  小猪回到货船上去到世界另一端去做这份新工作.  航行旅行无足迹.  也许乘坐西伯利亚大铁路.
 ## Volunteering
-- [Bloomberg Green](https://www.bloomberg.com/green)  -开源社区，他们共享创建塑料粉碎机，注射器和单张印刷机的说明，因此您可以从废旧塑料中创建任何想要的东西.  从邻居那里收集塑料，清洁，切碎， [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/) ，并创建您可以想象的任何东西！  您可以 [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) 如果使它们不在您的驾驶室之外，也是如此.
-
 - [Citizens Climate Lobby](https://citizensclimatelobby.org/) -如果您是英语，经济学或综合科学专业的学生，​​则可能应该考虑自愿参加“公民气候大厅”活动，该组织致力于通过政策应对气候变化.
 - [Clean Trails](https://www.cleantrails.org/join)  -一步一步地，我们的目标是消除浪费在公共土地上的所有小径上的浪费.  我们相信，可以通过教育，鼓励户外用户与我们原始的地方重新建立联系，以积极积极的方式做到这一点.
-- [Climate Careers](https://climate.careers/)  -我们帮助人们在推进气候解决方案，研究，政策，教育和倡导气候行动的组织中找到高影响力，高薪的工作.  我们通过帮助这些组织吸引任务驱动型人才来为其提供支持.  软件工程师，摄影师，销售，运营，研究人员，以及各种各样的工作.
 - [ClimateAction.Tech](https://climateaction.tech/)  -由我们的技能，专业知识和平台组成的全球技术专业人员社区，为气候危机的解决方案提供支持.  使命是使技术专业人员能够发挥自己的作用-开会，讨论，学习和采取气候行动.
 - [ClimatePrediction.net](https://www.climateprediction.net/)  -世界上最大的气候模拟实验.  我们的气候变化的证据对于减少温室气体排放至关重要.  通过在计算机上运行软件来帮助发现气候如何.
 - [Economists for Future](https://econ4future.org/)  -经济学家，致力于解决当今最大挑战的人们日益增长的运动，他们致力于激励经济学界.  如果专门研究经济的学科不能充分参与气候科学所要求的经济转型，那么还有谁可以期望这样做呢？
 
-- [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/)  -通知，参与和培训人们以识别珊瑚褪色，疾病和入侵物种暴发的网络.  他们有一个广泛的推广计划，可以帮助提供重要的培训，以进行快速响应监控和珍贵海洋资源的管理.
+- [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/) - Network to inform, engage and train people to identify coral bleaching, disease and invasive species outbreaks. They have a broad outreach program that helps to provide critical training for rapid response monitoring and stewardship of precious marine resources.
 - [Greenpeace](https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2)  -绿色和平组织有许多让人们参与的方式.  从发起和参与竞选活动和请愿活动开始，或者走得更远，发现或创建活动.  在实现绿色和平的未来中发挥积极作用！
 - [Habitat for Humanity](http://www.habitat.org/getinv)  -人居中心因为有需要的人建造简单，负担得起的房屋而闻名.  但是最近，该组织实施了新计划，将气候变化视为对环境的主要威胁，并可能摧毁他们建造的房屋.
 - [Precious Plastic](https://preciousplastic.com/)  -开源社区，他们共享创建塑料粉碎机，注射器和单张印刷机的说明，因此您可以从废旧塑料中创建任何想要的东西.  从邻居那里收集塑料，清洁，切碎， [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/) ，并创建您可以想象的任何东西！  您可以 [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) 如果使它们不在您的驾驶室之外，也是如此.
@@ -210,8 +221,6 @@
 ## Zero-Waste
 - [Algramo](https://www.algramoalmacenes.com/)  -自动售货机和移动式补充装置，用于将可重复使用的塑料瓶中的主食从洗发水填充到沙拉酱中，并包装在包装中，旨在进行退货，清洁和重复使用.  Algramo在圣地亚哥拥有超过2,000个Bodegas，并计划很快在美国扩展，因此翻译为“按克”，还解决了“贫困税”的问题，在这种情况下，小包装的价格可能比同一产品高出50％更大的尺寸.
 - [Bio Bean](https://www.bio-bean.com/) -Bio Bean是世界上最大的咖啡渣回收商，将用过的咖啡渣回收成可持续产品，例如用于燃烧的咖啡原木和其他生物质燃料.
-- [Bloomberg Green](https://www.bloomberg.com/green)  -开源社区，他们共享创建塑料粉碎机，注射器和单张印刷机的说明，因此您可以从废旧塑料中创建任何想要的东西.  从邻居那里收集塑料，清洁，切碎， [3D print a mold](https://pinshape.com/blog/low-cost-injection-molding-using-3d-printing/) ，并创建您可以想象的任何东西！  您可以 [buy the machines](https://preciousplastic.com/solutions/machines/overview.html) 如果使它们不在您的驾驶室之外，也是如此.
-
 - [Blue Jeans Go Green](https://bluejeansgogreen.org/) -寄送您用过的牛仔裤，将其转变为天然棉纤维隔热材料，其中一些用于帮助全国各地的建筑工作.
 - [City Harvest](https://www.cityharvest.org/)  -City Harvest是纽约市最大的粮食救援组织.  他们营救食物并将其运送到数百个食品储藏室，汤厨房和其他社区伙伴.
 - [Dabchy](https://www.dabchy.com/) -突尼斯二手服装市场.
@@ -274,5 +283,5 @@
 
 ## License
 
-The list in this README under [CCO](https://creativecommons.org/publicdomain/zero/1.0/)
+本自述文件下的列表 [CCO](https://creativecommons.org/publicdomain/zero/1.0/)
 但是剩下的源代码是 [MIT](https://choosealicense.com/licenses/mit/).

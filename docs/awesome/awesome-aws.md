@@ -481,7 +481,7 @@ AWS Repos：
 * [eb-docker-multiple-ports](https://github.com/awslabs/eb-docker-multiple-ports) -使用Docker映像的简单Node.js和Tomcat应用程序.
 * [eb-docker-nginx-proxy :fire:](https://github.com/awslabs/eb-docker-nginx-proxy) -使用PHP-FPM和Nginx Docker映像的简单PHP应用程序.
 * [eb-docker-virtual-hosting](https://github.com/awslabs/eb-docker-virtual-hosting) -使用Docker映像的简单PHP，Tomcat和Nginx应用程序.
-* [eb-node-express-sample :fire:](https://github.com/awslabs/eb-node-express-sample) -样品快递应用程序.
+* [eb-node-express-sample :fire::fire:](https://github.com/awslabs/eb-node-express-sample) -样品快递应用程序.
 * [eb-node-express-signup](https://github.com/awslabs/eb-node-express-signup) -Express框架和Bootstrap Node.js示例应用程序.
 * [eb-node-express](https://github.com/awslabs/eb-node-express) -开发人员指南中引用的示例应用.
 * [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) -说明工作人员角色的Python应用程序.
@@ -708,7 +708,7 @@ AWS Repos：
 
 * [Lumoslabs/aleph](https://github.com/lumoslabs/aleph) -编写和运行Redshift的功能齐全的Web应用程序
  查询.  支持查询的修订跟踪，并具有基本的可视化支持.
-* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/)  -一个Web应用程序，允许轻松查询现有数据库，共享数据集并以不同方式对其进行可视化.  最初是为了与Redshift合作而开发的，并对此提供了大力支持.
+* [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/)  -一个Web应用程序，允许轻松查询现有数据库，共享数据集并以不同方式可视化它.  最初是为了与Redshift合作而开发的，并对此提供了大力支持.
 * [everythingMe/redshift_console](https://github.com/EverythingMe/redshift_console)  -监视和管理Redshift集群的简单工具.  第一个版本具有监视正在运行的查询，WLM队列和表/方案的基本工具.
 
 ### Route 53
@@ -719,7 +719,7 @@ AWS Repos：
 
 社区回购：
 
-* [barnybug/cli53 :fire::fire::fire::fire:](https://github.com/barnybug/cli53) -cli53是Amazon Route 53的命令行工具，它提供从BIND格式的导入和导出以及Route 53域的简单命令行管理.
+* [barnybug/cli53 :fire::fire::fire::fire:](https://github.com/barnybug/cli53) -cli53是Amazon Route 53的命令行工具，它提供了从BIND格式的导入和导出以及Route 53域的简单命令行管理.
 * [winebarrel/roadworker :fire::fire:](https://github.com/winebarrel/roadworker)  -Roadworker是管理Route53的工具.  它使用DSL定义Route53的状态，并根据DSL更新Route53.
 
 ### S3
@@ -1154,7 +1154,7 @@ AWS页面：
 AWS会议：
 
 * [re:Invent](https://reinvent.awsevents.com/)  -年度用户大会.  该活动的主题演讲，培训和认证机会，超过250场技术会议，合作伙伴博览会，下班后活动等等.
-* [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) -全球一日活动由AWS Education的技术指导员提供，非常适合希望了解如何开始使用AWS Cloud的IT专业人员，开发人员和技术经理.
+* [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) -全球一日活动由AWS Education的技术讲师提供，非常适合希望了解如何开始使用AWS Cloud的IT专业人员，开发人员和技术经理.
 
 社区会议：
 
@@ -1252,7 +1252,7 @@ AWS会议：
 * [Management Console (AWS Console)](https://aws.amazon.com/console/) -基于Web的界面，用于管理所有服务.
 * [OpsWorks](https://aws.amazon.com/opsworks/) -使用Chef提供EC2服务的配置.
 * [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) -您对服务健康状况的个性化看法.
-* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，然后他们可以在个性化门户中访问所需的产品.
+* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，最终用户可以在个性化门户中访问所需的产品.
 
 ### Security and Identity Services
 

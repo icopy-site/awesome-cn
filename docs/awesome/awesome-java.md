@@ -369,7 +369,6 @@ _有关从集合到特定库的高性能计算的所有内容.
 
 _协助创建HTTP请求和/或绑定响应的库.
 
-- [Armeria](https://github.com/line/armeria) -基于Java 8，Netty，HTTP / 2，Thrift和gRPC构建的异步RPC / REST客户端/服务器库.
 - [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) -异步HTTP和WebSocket客户端库.
 - [Feign](https://github.com/Netflix/feign) -受Retrofit，JAXRS-2.0和WebSocket启发的HTTP客户端绑定程序.
 - [OkHttp](https://square.github.io/okhttp) -HTTP + SPDY客户端.
@@ -562,6 +561,7 @@ _其他一切._
 _用于创建和管理微服务的工具.
 
 - [Apollo](https://spotify.github.io/apollo) -用于编写可组合微服务的库.
+- [Armeria](https://github.com/line/armeria) -基于Java 8，Netty，HTTP / 2，Thrift和gRPC构建的异步RPC / REST客户端/服务器库.
 - [consul-api](https://github.com/Ecwid/consul-api) -Consul API的客户端：分布式的，高度可用的和数据中心感知的注册表/发现服务.
 - [Eureka](https://github.com/Netflix/eureka) -基于REST的服务注册表，可实现弹性负载平衡和故障转移.
 - [Helidon](https://helidon.io) -两种编写微服务的方式：功能响应型和作为MicroProfile的实现.
@@ -773,7 +773,7 @@ _用于开发响应式应用程序的库.
 
 _专门用于创建RESTful服务的框架.
 
-- [Dropwizard](https://dropwizard.github.io/dropwizard) -通过Jetty，Jackson，Jersey和Metrics建立现代Web应用程序的自有框架.
+- [Dropwizard](https://dropwizard.github.io/dropwizard) -通过Jetty，Jackson，Jersey和Metrics建立现代Web应用程序的自觉框架.
 - [Elide](http://elide.io) -基于JPA数据模型的JSON-或GraphQL-API的框架.
 - [javalin](https://javalin.io) -Javalin只是Jetty上的几千行代码，这意味着它的性能几乎等同于纯Jetty.
 - [Jersey](https://jersey.github.io) -JAX-RS参考实现.
@@ -800,7 +800,7 @@ _用于科学计算，分析和可视化的库.
 - [JGraphX](https://github.com/jgraph/jgraphx) -用于可视化（主要是Swing）并与节点边缘图进行交互的库.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) -用于地球物理科学计算，可视化和数字信号分析的库.
 - [Morpheus](http://www.zavtech.com/morpheus/docs) -提供称为DataFrame的通用二维内存高效表格式数据结构，以实现对JVM上的科学计算进行高效的内存中分析.
-- [Orson-Charts](https://github.com/jfree/orson-charts)  -生成可以与Swing和JavaFX一起显示或导出为PDF，SVG，PNG和JPEG的各种3D图表.  （仅限GPL-3.0）
+- [Orson-Charts](https://github.com/jfree/orson-charts)  -生成各种3D图表，这些图表可以与Swing和JavaFX一起显示，也可以导出到PDF，SVG，PNG和JPEG.  （仅限GPL-3.0）
 - [Tablesaw](https://github.com/lwhite1/tablesaw) -包括数据框，嵌入式列存储以及数百种转换，汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)  -用于绘制数据的轻量级库.  有许多可定制的图表类型.
 

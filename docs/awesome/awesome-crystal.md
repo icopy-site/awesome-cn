@@ -40,7 +40,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Blockchain
  * [Cocol](https://github.com/cocol-project/cocol) -最小的区块链测试平台
- * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) -公私钥密码术中使用的椭圆曲线
+ * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
  * [SushiChain](https://github.com/SushiChain/SushiChain) -定制的区块链平台
 
 ## C bindings
@@ -110,7 +110,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [base62.cr](https://github.com/Sija/base62.cr) -Base62编码器/解码器，非常适合网址缩短
  * [money](https://github.com/crystal-money/money) -轻松处理货币和货币转换（几乎完整的端口） [RubyMoney](https://github.com/RubyMoney/money))
  * [ms](https://github.com/SuperPaintman/ms) -可以轻松将各种时间格式转换为毫秒以及将人类可读格式转换为毫秒的库
- * [sass.cr](https://github.com/straight-shoota/sass.cr) -将SASS / SCSS编译为CSS（[libsass](https://github.com/sass/libsass/) binding)
+ * [sass.cr](https://github.com/straight-shoota/sass.cr) -将SASS / SCSS编译为CSS（[libsass](https://github.com/sass/libsass/) 捆绑）
  * [time_format.cr](https://github.com/vladfaust/time_format.cr) -轻松转换为人类可读格式的时间
  * [turkish-number](https://github.com/izniburak/turkish-number) -把整数变成土耳其语
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) -libwkhtmltox的绑定/包装（HTML到PDF /图像转换器）
@@ -195,7 +195,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Framework Components
  * [device_detector](https://github.com/creadone/device_detector) -通过用户代理字符串检测设备的碎片
- * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
+ * [Exception Page](https://github.com/crystal-loot/exception_page) -Crystal Web库和框架的特殊例外页面
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) 实作
  * [kave](https://github.com/jwoertink/kave) -Kemal API版本扩展
  * [kemal-session](https://github.com/kemalcr/kemal-session) -Session正在为Kemal交易
@@ -409,12 +409,12 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crytic](https://github.com/hanneskaeufler/crytic) -变异测试框架
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) -与Capybara类似的自动浏览器测试
  * [mass-spec](https://github.com/c910335/mass-spec) -Web API测试库
- * [microtest](https://github.com/Ragmaanir/microtest) -专注于权力主张的小型自以为是的测试库
+ * [microtest](https://github.com/Ragmaanir/microtest) -专注于功率断言的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
  * [spectator](https://gitlab.com/arctic-fox/spectator) -使用现代的Expect语法的功能丰富的规范框架
- * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用`Time.now`嘲笑的库.  受到启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [timecop.cr](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [vcr](https://github.com/spoved/vcr.cr) -Crystal的HTTP捕获和重放实现
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)  -页面对象库.  受到Ruby的启发 [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) -用于存根HTTP :: Client请求的库
@@ -425,7 +425,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
- * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -客户端API领事
+ * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -领事API客户端
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) -包装 [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) -包装 [Github](https://github.com/) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) -星球大战API（SWAPI）包装器
@@ -450,6 +450,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) -开源高效，凝聚力的Web应用程序框架
  * [athena](https://github.com/blacksmoke16/athena) -具有内置参数转换功能的模块化，基于注释的，面向API的框架
+ * [grip](https://github.com/grkek/grip) -基于JSON请求/响应模型的Kemal框架的面向类的派生
  * [kemal](https://github.com/kemalcr/kemal)  -快速，超级简单的Web框架.  受Sinatra启发
  * [lucky](https://github.com/luckyframework/lucky) -尽早发现错误，忘记大多数性能问题，并花更多时间在代码上，而不是调试和编写测试
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) -注重速度和可扩展性的Rails式Web框架

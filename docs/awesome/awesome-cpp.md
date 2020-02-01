@@ -27,7 +27,7 @@
 * [Dlib](https://github.com/davisking/dlib)  ：zap：-使用契约式编程和现代C ++技术设计的通用跨平台C ++库.  [促进] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL)  -电子艺术标准模板库.  [BSD]
 * [ETL](https://github.com/ETLCPP/etl)  -嵌入式模板库.  [麻省理工学院]
-* [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp)  -企业应用程序开发框架.  [Apache2]
+* [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. [Apache2]
 * [Folly](https://github.com/facebook/folly)  -在Facebook开发和使用的开源C ++库.  [Apache2]
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus)  -C ++的功能编程库.  编写简洁易读的C ++代码.  [麻省理工学院]
 * [GLib](https://wiki.gnome.org/Projects/GLib) -GLib为用C编写的库和应用程序提供了核心应用程序构建块.[LGPL]
@@ -278,7 +278,7 @@
 * [RocksDB](https://github.com/facebook/rocksdb)  -嵌入式键值存储，可从Facebook快速存储.  [BSD]
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) -高性能，共享内存，无锁，跨平台，单个文件，最小依赖性，C ++ 11键值存储[Apache2]
 * [SOCI](https://github.com/SOCI/soci)  -C ++的数据库抽象层.  [BSL-1.0]
-* [SQLite](http://www.sqlite.org/)  -完全嵌入的，功能全面的关系型数据库（只需几万个）就可以直接包含在您的项目中.  [公共区域]
+* [SQLite](http://www.sqlite.org/)  -完全嵌入的，功能全面的关系型数据库（只需几万个）就可以直接包含在项目中.  [公共区域]
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)  -SQLiteC ++（SQLiteCpp）是一个聪明且易于使用的C ++ SQLite3包装器.  [麻省理工学院]
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)  -围绕sqlite库的仅标头C ++ 14包装器.  [麻省理工学院]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm)  -适用于现代C ++的SQLite ORM light header only库.  [BSD-3-Clause]
@@ -473,7 +473,7 @@
 * [json.h](https://github.com/sheredom/json.h)  -在C和C ++中解析JSON的简单的单头/单源解决方案.  [无牌]
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间极低的JSON解析器.
+* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间非常小的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  -C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库.  支持C ++ 11.  无依赖关系，快速且对开发人员友好.  [Apache2]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
@@ -556,7 +556,7 @@
 * [SymEngine](https://github.com/symengine/symengine)  -快速的符号操作库，用C ++重写了SymPy的核心.  [麻省理工学院]
 * [TinyExpr](https://github.com/codeplea/tinyexpr)  -AC库，用于解析和评估字符串中的数学表达式.  [zlib]
 * [Vc](https://github.com/VcDevel/Vc)  -C ++的SIMD矢量类.  [BSD]
-* [Versor](http://versor.mat.ucsb.edu/) -一个用于几何代数的（快速）通用C ++库，包括欧几里得，射影，保形，时空等.
+* [Versor](http://versor.mat.ucsb.edu/) -用于几何代数的（快速）通用C ++库，包括欧几里得，投影，保形，时空等.
 * [Wykobi](http://www.wykobi.com/)  -高效，强大且易于使用的面向C ++ 2D / 3D的计算几何例程的C ++库.  [麻省理工学院]
 * [xtensor](https://github.com/QuantStack/xtensor)  -受NumPy语法启发的C ++ 14库，用于使用多维数组表达式进行数值分析.  [BSD 3句] [website](http://quantstack.net/xtensor)
 
@@ -596,7 +596,7 @@
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  -单个文件C ++ 11仅头HTTP / HTTPS服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  -一组用于高级网络编程的开源库.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) -C ++的URI解析器/生成器库，与RFC 3986和RFC 3987兼容.[BSL-1.0]
-* [cpr](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. [MIT] [website](https://whoshuu.github.io/cpr/)
+* [cpr](https://github.com/whoshuu/cpr)  -具有简单但功能强大的界面的现代C ++ HTTP请求库.  模仿Python Requests模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  -用于CURL（libcurl）的面向对象的C ++包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  -用于快速数据包处理的数据平面开发套件，库和驱动程序.  [BSD-3-条款和GPL-2.0] [website](https://www.dpdk.org/)
 * [Dyad.c](https://github.com/rxi/dyad) -C的异步联网.[MIT]
@@ -660,7 +660,7 @@
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)  -Nvidia作为Nvidia GameWorks软件套件的一部分开发的开源实时物理引擎中间件SDK.  [BSD-3-Clause] 
 * [Project Chrono](https://github.com/projectchrono/chrono)  -开源的多物理场仿真引擎.  [BSD-3-Clause] [website](https://projectchrono.org/)
 * [Quantum++](https://github.com/vsoftco/qpp)  -现代的C ++ 11量子计算库.  [麻省理工学院]
-* [Simbody](https://github.com/simbody/simbody)  -高性能C ++多体动力学/物理库，用于模拟关节运动的生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
+* [Simbody](https://github.com/simbody/simbody)  -高性能的C ++多体动力学/物理库，用于模拟关节运动的生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
 * [SOFA](https://github.com/sofa-framework/sofa)  -SOFA是一个针对实时模拟的开源框架，重点是医学模拟.  [LGPL] [website](https://www.sofa-framework.org)
 
 ## Reflection
@@ -807,7 +807,7 @@
 ## Miscellaneous
 *有用的库或工具不适合上述类别，或者可能尚未归类*
 
-* [access_profiler](https://github.com/arvidn/access_profiler)  -一种用于计算对c ++程序中成员变量的访问的工具.  [GPL3]
+* [access_profiler](https://github.com/arvidn/access_profiler)  -一种计算对c ++程序中成员变量的访问的工具.  [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在给定时间和最少示例输入的情况下自动发现错误.  [Apache2]
 * [Better String](http://bstring.sourceforge.net)  -替代C的字符串库，它的功能更强大，并且没有缓冲区溢出超限问题.  还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  -托管信号和时隙系统的实现.  [促进]
@@ -847,6 +847,7 @@
 * [VarTypes](https://code.google.com/p/vartypes/)  -一个功能丰富的，面向对象的框架，用于管理C ++ / Qt4中的变量.  [LGPL]
 * [ZBar](http://zbar.sourceforge.net/)  -条形码扫描器库，该库允许扫描照片/图像/视频流中的条形码并返回其值.  [LGPL2]
 * [ZXing](https://github.com/zxing/zxing/)  -用Java实现的开放源代码，多格式1D / 2D条码图像处理库，带有其他语言的端口.  [Apache]
+* [pprint](https://github.com/p-ranav/pprint)  -适用于现代C ++的漂亮打印机.  [麻省理工学院]
 
 ## Software
 *用于创建开发环境的软件.*
@@ -944,7 +945,7 @@
 *通过代码分析提高质量和减少缺陷的工具列表*
 
 * [Cppcheck](http://cppcheck.sourceforge.net/)  -用于静态C / C ++代码分析的工具.  -- [source](https://github.com/danmar/cppcheck)
-* [CppDepend](https://www.cppdepend.com/) -通过分析和可视化代码依赖性，定义设计规则，进行影响分析并比较不同版本的代码，简化了复杂C / C ++代码库的管理.
+* [CppDepend](https://www.cppdepend.com/) -通过分析和可视化代码依赖关系，定义设计规则，进行影响分析以及比较不同版本的代码，简化了复杂C / C ++代码库的管理.
 * [cpplint](https://github.com/cpplint/cpplint) -遵循Google C ++样式指南的C ++样式检查器.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]
