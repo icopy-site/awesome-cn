@@ -33,9 +33,10 @@
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) -检查包的大小.
 - [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) -如果您在项目中使用Webpack，则可以选择此选项.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) -用于性能预算的艰巨任务.
-- [Size-plugin](https://github.com/GoogleChromeLabs/size-plugin) -用于性能预算的艰巨任务.
-- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小.
-- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小. 
+- [Size Limit](https://github.com/ai/size-limit)  -计算运行JS应用或lib来保持良好性能的实际成本.  如果费用超出限制，则在拉取请求中显示错误.
+- [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) -随时间跟踪压缩的Webpack资产大小.
+- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) -布置模板类型，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小.
+- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) -布置模板类型，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小. 
 - [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) -CLI工具和lib以通过Lighthouse收集性能指标.
 - [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) -扩展以在VS代码编辑器中内联显示导入包的大小.
 

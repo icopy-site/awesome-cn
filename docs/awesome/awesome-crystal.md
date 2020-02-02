@@ -40,7 +40,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Blockchain
  * [Cocol](https://github.com/cocol-project/cocol) -最小的区块链测试平台
- * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) - Elliptic curve used in the public-private-key cryptography
+ * [secp256k1.cr](https://github.com/q9f/secp256k1.cr) -公私钥密码术中使用的椭圆曲线
  * [SushiChain](https://github.com/SushiChain/SushiChain) -定制的区块链平台
 
 ## C bindings
@@ -116,6 +116,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) -libwkhtmltox的绑定/包装（HTML到PDF /图像转换器）
 
 ## Cryptography
+ * [cmac](https://github.com/spider-gazelle/cmac) -基于密码的消息验证码（CMAC）的Crystal实现
  * [openssl.cr](https://github.com/z64/openssl.cr) -该库为OpenSSL库提供绑定
  * [sodium.cr](https://github.com/didactic-drunk/sodium.cr) -libsodium加密API的水晶包装器
 
@@ -147,7 +148,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-pg](https://github.com/will/crystal-pg) -Postgres司机
  * [crystal-redis](https://github.com/stefanwille/crystal-redis) -功能齐全的Redis客户端
  * [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb) -RethinkDB / RebirthDB的驱动程序
- * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+ * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) -SQLite3绑定
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) -EventQL驱动程序
  * [leveldb](https://github.com/crystal-community/leveldb) -LevelDB的水晶绑定
  * [mongo.cr](https://github.com/ambercommunity/mongo.cr) -绑定MongoDB C驱动程序
@@ -243,7 +244,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Image processing
  * [libpixel.cr](https://github.com/libpixel/libpixel.cr)
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) -的绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) -读取和写入PNG图像
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) -查理编程语言
@@ -254,7 +255,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [LinCAS-lang](https://github.com/LinCAS-lang) -用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) -用于前端Web的令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) -一种实用，动态的语言，旨在尽可能轻松高效地进行书写和理解
- * [runic-lang](https://github.com/runic-lang) -设计玩具语言
+ * [runic-lang](https://github.com/runic-lang) - In-design toy language
 
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
@@ -414,7 +415,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
  * [spectator](https://gitlab.com/arctic-fox/spectator) -使用现代的Expect语法的功能丰富的规范框架
- * [timecop.cr](https://github.com/crystal-community/timecop.cr) - Library for mocking with `Time.now`. Inspired by the [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用`Time.now`嘲笑的库.  受到启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [vcr](https://github.com/spoved/vcr.cr) -Crystal的HTTP捕获和重放实现
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)  -页面对象库.  受到Ruby的启发 [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) -用于存根HTTP :: Client请求的库
@@ -422,7 +423,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Third-party APIs
  * [aws-credentials](https://github.com/y2k2mt/aws-credentials) -通过多种方式获取AWS凭证
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) -该库使用AWS v4对您的HTTP请求进行签名
- * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
+ * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
  * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -领事API客户端

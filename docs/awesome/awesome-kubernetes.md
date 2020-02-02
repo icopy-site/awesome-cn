@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 awesome-kubernetes现在将以不同的发行版和软件包捆绑形式提供，这意味着您可以
- 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑软件发行版发行.  请查看发布列以获取更多信息.
+ 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑包发行版发行.  请查看发布列以获取更多信息.
 
 ## Featured On
 
@@ -259,7 +259,7 @@ Installers
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
-* [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
+* [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
 * [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) 通过 [Dan Pastusek](https://twitter.com/pastudan)
@@ -292,7 +292,7 @@ Installers
   - [DevSpace](https://github.com/covexo/devspace) -直接在任何Kubernetes集群内部构建，测试和运行代码
   - [Draft](http://draft.sh) - A tool for developers to create cloud native applications with Kubernetes
   - [Eclipse Che](https://github.com/eclipse/che) -具有SSH和多用户支持的云开发工作区
-  - [Garden](https://garden.io) -精心安排您的开发工作流程，以使开发和开发微服务更加快捷，轻松
+  - [Garden](https://garden.io) -协调您的开发工作流程，以使开发和开发微服务更快，更轻松
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) -建立，部署和管理现代无服务器工作负载的平台
   - [Okteto](https://github.com/okteto/okteto)  -在任何Kubernetes集群中直接进行开发.  无需提交，构建或推送
@@ -574,7 +574,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最好的OSS工具（例如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -949,7 +949,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)

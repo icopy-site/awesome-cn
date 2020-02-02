@@ -86,7 +86,7 @@
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) -移动应用程序开发IDE，测试和分发.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) -虚拟机，可让您编写更有效，更强大的Linux系统跟踪和监视.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) -基于Arch Linux的Linux发行版和项目.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme) -适用于Apple Mac电脑的操作系统.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
@@ -121,6 +121,7 @@
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) -可视化并存储来自任何设备的数据.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) -您的站点的CDN，DNS，DDoS保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) -Google Assistant开发者平台.
+- [ESP](https://github.com/agucova/awesome-esp#readme) -具有WiFi和广泛的IoT应用的低成本微控制器.
 
 ## Programming Languages
 
@@ -133,7 +134,7 @@
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) -存在不可能的探测项目.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) -对于npm软件包.
-	- [npm](https://github.com/sindresorhus/awesome-npm#readme) -包管理员.
+	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
 	- [AVA](https://github.com/avajs/awesome-ava#readme) -跑步者.
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) -林特
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
@@ -179,7 +180,7 @@
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme) -服务器端脚本语言.
-	- [Composer](https://github.com/jakoch/awesome-composer#readme) -包管理员.
+	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
 - [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [Assembler](https://github.com/lurumdare/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
@@ -464,7 +465,7 @@
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-- [Educational Games](https://github.com/yrgo/awesome-eg#readme) -边玩边学.
+- [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) -主要关于CSS –语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) -了解如何成为更好的产品经理.
@@ -607,7 +608,7 @@
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) -适用于化学问题的信息技术.
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) -选择下一个配色方案.
-- [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
+- [Steam](https://github.com/scholtzm/awesome-steam#readme) -数字发行平台.
 - [Bots](https://github.com/hackerkid/bots#readme) -构建机器人.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) -建立和推广更具同情心的工程文化.
@@ -628,7 +629,7 @@
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - 标记语言.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) -有趣的开发人员项目.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) -适用于设施，提供商，开发商，政策专家和研究人员的开源医疗软件.
-- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
+- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) -使用PHP构建的开源电子商务.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) -用于TeX / LaTeX / ConTeXt的图形绘图包.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) -研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) -无广告替代品.
@@ -636,7 +637,7 @@
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) -智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) -在命令行上两次输入记帐.
-- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) -公共领域的作品.
+- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) -数字货币，其中加密用于调节单位的生成和验证转移.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) -建立一个更具包容性和多元化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) -免费提供开源项目的工具和服务的公司.
