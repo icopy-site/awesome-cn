@@ -244,7 +244,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Image processing
  * [libpixel.cr](https://github.com/libpixel/libpixel.cr)
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) -的绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) -读取和写入PNG图像
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) -查理编程语言
@@ -312,6 +312,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [connect-proxy](https://github.com/spider-gazelle/connect-proxy) -HTTP隧道/ HTTP代理的连接方法样式
  * [cr-xmpp](https://github.com/naqvis/cr-xmpp) -XMPP / Jabber库
  * [Crirc](https://github.com/Meoowww/Crirc) -IRC协议实施（客户端，服务器，机器人）
+ * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) -DNS协议实现和解析器
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  -JSON套接字客户端和服务器实现.  受启发并与之兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) -具有版本1、2c和3的SNMP实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) -快速IRC解析器/生成器
@@ -423,7 +424,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Third-party APIs
  * [aws-credentials](https://github.com/y2k2mt/aws-credentials) -通过多种方式获取AWS凭证
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) -该库使用AWS v4对您的HTTP请求进行签名
- * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+ * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
  * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -领事API客户端
@@ -431,7 +432,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-github](https://github.com/felipeelias/crystal-github) -包装 [Github](https://github.com/) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) -星球大战API（SWAPI）包装器
  * [crystal_slack](https://github.com/manastech/crystal_slack) -解析Slack斜杠命令或发送传入的Web挂钩的工具
- * [discordcr](https://github.com/meew0/discordcr) -极简的Discord API库
+ * [discordcr](https://github.com/meew0/discordcr) - A minimalist Discord API library
  * [GDAX](https://github.com/mccallofthewild/gdax) -带有请求签名的GDAX REST和WebSocket API包装器
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) -GitLab API包装器
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) -Google Maps API
@@ -532,7 +533,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
    * [vim-crystal](https://github.com/rhysd/vim-crystal) -对Crystal的Vim文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) -对Slang模板引擎的Vim文件类型支持
  * Visual Studio代码
-   * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) -VSCode中的Crystal语言支持
+   * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode
    * [vscode-crystal-ide](https://github.com/crystal-lang-tools/crystal-ide) -搭载的Crystal IDE [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
    * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) -`cr`和`ecr`文件的格式化程序，linter和语法突出显示
 

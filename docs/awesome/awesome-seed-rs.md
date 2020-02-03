@@ -35,6 +35,7 @@
 ## Examples
 
 - [RealWorld example](https://github.com/seed-rs/seed-rs-realworld) -“所有演示应用程序之母” —示例性全栈 [Medium.com](https://medium.com/) 克隆.
+- [Dark lang Realworld](https://github.com/MartinKavik/seed-realworld-darklang) -_Quickstart with Webpack_上集成了Seed Realworld示例 [Dark lang](https://darklang.com/) 真实世界.
 - [Official examples](https://github.com/seed-rs/seed/tree/master/examples) -官方回购中包含的较小示例.
 - [ERWA mytodo](https://github.com/seed-rs/erwa_mytodo)  -Rust全栈示例.  柴油，火箭，种子.
 

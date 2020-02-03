@@ -50,13 +50,12 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Katacoda](https://www.katacoda.com/courses/docker)：使用基于交互式浏览器的实验室学习Docker
 - [Learn Docker](https://github.com/dwyl/learn-docker)：循序渐进的教程和更多资源（视频，文章，备忘单），作者： [@dwyl](https://github.com/dwyl)
 - [Play With Docker](https://training.play-with-docker.com/) ：PWD是从初学者到高级用户入门Docker的绝佳方法.  Docker直接在您的浏览器中运行.
-- [Play With Moby](http://play-with-moby.com/) ：PWM是基于Web的Moby游乐场，可让您在几秒钟内尝试使用平台的不同组件.  它为您提供了在云中拥有免费的Alpine Linux虚拟机的体验，您可以在其中构建和运行Moby项目，甚至创建集群进行实验.
-- [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)  容器技术的前景不仅限于码头工人.  如果没有很好的术语处理，可能很难把握docker和（选择您的最爱，CRI-O，rkt，lxc / lxd）之间的关键区别，或者难以理解开放容器倡议正在采取哪些措施来标准化容器技术.
+- [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)  容器技术的前景不仅限于码头工人.  如果没有很好的术语处理，可能很难把握docker和（选择您的最爱，CRI-O，rkt，lxc / lxd）之间的关键区别，或者难以理解开放容器计划正在采取哪些措施来标准化容器技术.
 
-**备忘单**，作者：
+**Cheatsheets** by
 
 - [@eon01](https://github.com/eon01/DockerCheatSheet)
-- [@dimonomid](https://github.com/dimonomid/docker-quick-ref) （PDF）
+- [@dimonomid](https://github.com/dimonomid/docker-quick-ref) (PDF)
 - [@JensPiegsa](https://github.com/JensPiegsa/docker-cheat-sheet)
 - [@wsargent](https://github.com/wsargent/docker-cheat-sheet) （最受欢迎）
 
@@ -76,7 +75,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Projects
 
-- Moby = open source development
+-Moby =开源开发
 -Docker CE =基于Moby的免费产品发布
 -Docker EE =基于Docker CE的商业产品发布.
 
@@ -112,6 +111,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose)  ：skull：-具有幂等特性的Docker组合工具，用于部署由多个容器组成的应用程序.  通过 [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly)
 - [rocker](https://github.com/grammarly/rocker)  ：skull：-扩展的Dockerfile构建器  支持多个FROM，MOUNTS，模板等 [grammarly](https://github.com/grammarly).
 - [Stacker](https://github.com/stacker/stacker-cli)  -Docker撰写模板.  Stacker在Docker Compose之上提供了一个抽象层，并提供了更好的DX（开发人员体验）.
+- [Stitchocker](https://github.com/alexaandrov/stitchocker)  -轻巧，快捷的命令行实用程序，可方便地将docker-compose多个容器服务分组.  通过 [@alexaandrov](https://github.com/alexaandrov)
 - [Smalte](https://github.com/roquie/smalte)  –在Docker容器中动态配置需要静态配置的应用程序.  通过 [@roquie](https://github.com/roquie)
 - [Zodiac](https://github.com/CenturyLinkLabs/zodiac)  ：skull：-轻便的工具，可轻松部署和回滚dockerized应用程序.  由[@CenturyLinkLabs] [centurylinklabs]
 
@@ -122,7 +122,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Centurion](https://github.com/newrelic/centurion)  -Centurion是适用于Docker舰队的大规模部署工具.  它从Docker注册表中获取容器，并在具有正确环境变量，主机卷映射和端口映射的主机群中运行它们.  通过 [@newrelic](https://github.com/newrelic)
 - [Clocker](https://github.com/brooklyncentral/clocker)  -Clocker创建和管理Docker云基础架构.  Clocker支持多节点应用程序的单击部署和运行时管理，这些应用程序作为在多个主机上分布在Docker和Marathon上的容器运行.  它利用[Calico] [calico]和[Weave] [weave]进行联网和 [Brooklyn](https://brooklyn.apache.org/)  用于应用程序蓝图.  通过 [@brooklyncentral](https://github.com/brooklyncentral)
 - [Conduit](https://github.com/ehazlett/conduit) -Docker的实验性部署系统，作者： [@ehazlett](https://github.com/ehazlett)
-- [depcon](https://github.com/ContainX/depcon) - Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes. By [@ContainX][containx]
+- [depcon](https://github.com/ContainX/depcon)  -Depcon用Go语言编写，可让您轻松地将Docker容器部署到Apache Mesos / Marathon，Amazon ECS和Kubernetes.  由[@ContainX] [containx]
 - [deploy](https://github.com/ttiny/deploy)  ：skull：-Git和Docker部署工具.  简单的Docker组合工具与完整的集群编排之间的中间立场 [@ttiny](https://github.com/ttiny)
 - [dockit](https://github.com/humblec/dockit)  ：skull：-做docker操作并部署gluster容器！  通过 [@humblec](https://github.com/humblec)
 - [gitkube](https://github.com/hasura/gitkube)  -Gitkube是使用`git push`在Kubernetes上构建和部署docker镜像的工具.  通过 [@Hasura](https://github.com/hasura/).
@@ -168,7 +168,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [blimp](https://github.com/tubes和lube/blimp) ：skull：-使用Docker Machine轻松地将容器从一台Docker主机移至另一台Docker主机，显示针对所有主机运行的容器，在多个主机之间复制容器，以及通过 [@defermat](https://github.com/defermat) 和 [@schvin](https://github.com/schvin)
 - [CloudSlang](https://github.com/CloudSlang/cloud-slang) -CloudSlang是用于创建Docker流程自动化的工作流引擎
 - [clusterdock](https://github.com/clusterdock/clusterdock) -Docker容器编排以启用对长时间运行的集群部署的测试
-- [ContainerShip](https://github.com/containership/containership) ：skull：-一个简单的容器管理平台
+- [ContainerShip](https://github.com/containership/containership) :skull: - A simple container management platform
 - [Crane](https://github.com/Dataman-Cloud/crane) -基于docker内置群的控制平面 [@Dataman-Cloud](https://github.com/Dataman-Cloud)
 - [Docker Flow Swarm Listener](https://github.com/docker-flow/docker-flow-swarm-listener)  -Docker Flow Swarm Listener项目将侦听Docker Swarm事件并在发生更改时发送请求.  通过[@ docker-flow] [docker-flow]
 - [gantryd](https://github.com/DevTable/gantryd) ：skull：-一个框架，通过它可以轻松管理跨机器的基于docker的组件 [@DevTable](https://github.com/DevTable)
@@ -219,7 +219,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### Security
 
 - [Anchor Engine](https://github.com/anchore/anchore) -通过以下方式分析图像的CVE漏洞和自定义安全策略 [@Anchor](https://github.com/anchore)
-- [Aqua Security](https://www.aquasec.com) ：heavy_dollar_sign：-在任何平台上保护从开发到生产的基于容器的应用程序的安全
+- [Aqua Security](https://www.aquasec.com) :heavy_dollar_sign: - Securing container-based applications from Dev to Production on any platform
 - [bane](https://github.com/genuinetools/bane) -[@genuinetools] [genuinetools]用于Docker容器的AppArmor配置文件生成器
 - [CIS Docker Benchmark](https://github.com/dev-sec/cis-docker-benchmark)  -此[InSpec] [inspec]遵从性配置文件以自动化方式实现CIS Docker 1.12.0基准，以在生产环境中围绕Docker守护程序和容器提供安全性最佳实践测试.  通过 [@dev-sec](https://github.com/dev-sec)
 - [Clair](https://github.com/quay/clair)  -Clair是一个开源项目，用于静态分析appc和docker容器中的漏洞.  由[@coreos] [coreos]
@@ -274,7 +274,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dive](https://github.com/wagoodman/dive)  -用于探索docker映像中每个图层的工具.  通过 [wagoodman](https://github.com/wagoodman).
 - [docker-ls](https://github.com/mayflower/docker-ls) -CLI工具，用于通过以下方式浏览和操作Docker注册表 [@mayflower](https://github.com/mayflower)
 - [docker-ssh](https://github.com/jeroenpeeters/docker-ssh)  -用于Docker容器的SSH服务器〜因为每个容器都应可访问.  通过 [@jeroenpeeters](https://github.com/jeroenpeeters)
-- [Docker-mon](https://github.com/icecrime/docker-mon) :skull: - Console-based Docker monitoring by [@icecrime](https://github.com/icecrime)
+- [Docker-mon](https://github.com/icecrime/docker-mon) ：skull：-通过基于控制台的Docker监视 [@icecrime](https://github.com/icecrime)
 - [docker.el](https://github.com/Silex/docker.el) 通过以下方式从Emacs管理docker [Silex](https://github.com/Silex)
 - [dockercraft](https://github.com/docker/dockercraft) -[@docker] [docker]的Docker + Minecraft = Dockercraft
 - [dockerfile-mode](https://github.com/spotify/dockerfile-mode) [@spotify] [spotify]用于处理Dockerfile的emacs模式
@@ -421,13 +421,12 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Hub](https://hub.docker.com/) 由Docker Inc.提供
 -[Docker Registry v2] [分发]-用于打包，运送，存储和交付内容的Docker工具集
 - [Docket](https://github.com/netvarun/docket) -自定义Docker注册表，允许通过以下方式通过bittorrent快速部署 [@netvarun](https://github.com/netvarun/)
-- [Europa :heavy_dollar_sign:](https://github.com/puppetlabs/europa)  -私有Docker注册表，支持图像管道和webhooks.  通过 [@puppetlabs](https://github.com/puppetlabs)
 - [GCE Container Registry :heavy_dollar_sign:](https://cloud.google.com/container-registry/) Google Cloud Platform上的快速私有Docker映像存储
 - [GitLab Container Registry](https://docs.gitlab.com/ce/user/project/container_registry.html) -致力于在GitLab CI中使用图像的存储库
 - [Harbor](https://github.com/goharbor/harbor)  一个开放源代码可信云本机注册表项目，用于存储，签名和扫描内容.  支持复制，用户管理，访问控制和活动审核.  通过 [CNCF](https://github.com/veggiemonk/awesome-docker/blob/master/Sandbox) 以前 [VMWare](https://github.com/vmware)
 - [JFrog Artifactory :heavy_dollar_sign:](https://jfrog.com/artifactory/) -Artifact Repository Manager，也可以用作私有Docker Registry
 - [Kraken](https://github.com/uber/kraken) -Uber的高度可扩展的P2P docker注册表，能够在几秒钟内分发TB的数据.
-- [Private Docker Registry :heavy_dollar_sign:](https://private-docker-registry.com) - Dedicated Conainer Registry Service with unlimited private repositories, users, teams, namespaces together with enterprise grade authentication LDAP/AD/OAuth/SAML.
+- [Private Docker Registry :heavy_dollar_sign:](https://private-docker-registry.com) -专用的Conainer Registry Service，具有无限的私有存储库，用户，团队，名称空间以及企业级身份验证LDAP / AD / OAuth / SAML.
 - [Quay.io :heavy_dollar_sign:](https://quay.io/) （CoreOS的一部分）-私有Docker存储库的安全托管
 - [Rescoyl](https://github.com/noteed/rescoyl) -私有Docker注册表（免费和开源） [@noteed](https://github.com/noteed)
 - [Sonatype Nexus](https://www.sonatype.com/nexus-repository-oss) -具有通用支持的存储库，也适用于Docker映像
@@ -575,7 +574,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Mesosphere DC/OS](https://d2iq.com/solutions/mesosphere) ：heavy_dollar_sign：-由Apache Mesos构建的用于数据和容器的集成平台，由 [@mesosphere](https://d2iq.com)
 - [OpenShift Dedicated](https://www.openshift.com/products/dedicated/) ：heavy_dollar_sign：-一个托管的[OpenShift] [openshift]集群，用于运行由Red Hat管理的Docker容器.
 - [Sloppy.io](https://sloppy.io/en/) ：heavy_dollar_sign：-用于容器部署和托管的多合一解决方案-在德国制造和托管
-- [Triton](https://www.joyent.com/) ：heavy_dollar_sign：-Joyent提供的弹性容器原生基础架构.
+- [Triton](https://www.joyent.com/) ：heavy_dollar_sign：-Joyent的弹性容器原生基础架构.
 
 ### Monitoring Services
 

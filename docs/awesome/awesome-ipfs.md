@@ -8,7 +8,7 @@
 
 &gt;有用的资源 [IPFS](https://ipfs.io) 并在其之上构建事物
 
- _此列表适用于项目，工具或几乎所有与IPFS相关的事物，它们都很棒**.  这是针对已经很棒的产品的-如果您计划使用IPFS做一些很棒的事情，则应该构建它，然后在此处链接.  如果您有一个与IPFS有关的很棒的主意，可以在这里问一下它的好地方 [ipfs/apps](https://github.com/ipfs/apps) 要么 [ipfs/notes](https://github.com/ipfs/notes)._
+ _此列表适用于项目，工具或几乎所有与IPFS相关的事物，它们都很棒**.  这是针对已经非常出色的产品的-如果您计划使用IPFS做一些有趣的事情，则应该构建它，然后在此处链接它.  如果您有一个与IPFS有关的很棒的主意，可以在这里问一下它的好地方 [ipfs/apps](https://github.com/ipfs/apps) 要么 [ipfs/notes](https://github.com/ipfs/notes)._
 
 
 
@@ -16,7 +16,7 @@
 
 欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，该项目才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
 
- 自述文件和网站是自动生成的.  为了将元素添加到此列表中，您需要修改`/ data`中的文件，然后在发布请求之前运行`make build`.  读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
+ 自述文件和网站是自动生成的.  为了添加一个元素到这个列表中，您需要修改`/ data`中的文件，然后运行`make build`在发布您的拉取请求之前.  读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
 
 
 ## Apps
@@ -28,7 +28,7 @@
 - [a qr-code renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/qr-render) - [Demo](https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here)
 - [AirSecure](https://github.com/airsecure/airsecure) -基于Textile＆IPFS构建的分散式两因素身份验证应用程序.
 - [akasha](http://akasha.world/) -由以太坊提供支持并嵌入IPFS的下一代社交媒体网络.
-- [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) -分散的内容发布/获利平台.
+- [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - Decentralized content publishing / monetization platform.
 - [Arbore](http://arbo.re) -建立在IPFS之上的朋友到朋友文件共享应用程序.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) -Autonomica是类似于Keybase的Dapp，用于创建身份并通过已发布的社交媒体和网络证明来证明此身份.
 - [beets](https://github.com/beetbox/beets) -甜菜有一个插件，可以使用IPFS轻松共享音乐库
@@ -81,7 +81,7 @@
 - [Partyshare](https://busterlabs.github.io/Partyshare) -一个简单的文件共享桌面应用程序. [Source](https://github.com/BusterLabs/Partyshare)
 - [Pathephone](https://pathephone.github.io) -分布式音乐流媒体应用程序.
 - [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) -使用IPFS Companion Web扩展提供的window.ipfs的演示应用程序，用于获取和绘制IPFS节点的带宽信息 [Source](https://github.com/tableflip/ipfs-peer-bw-example)
-- [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - A map of IPv4 IPFS peers that uses window.ipfs [Source](https://github.com/tableflip/ipfs-peer-map-example)
+- [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) -使用window.ipfs的IPv4 IPFS对等点的映射 [Source](https://github.com/tableflip/ipfs-peer-map-example)
 - [Peergos](https://peergos.org) -端到端加密，对等文件存储和共享. [Source](https://github.com/Peergos/Peergos)
 - [Philes](https://philes.co) -一个简单的基于浏览器的IPFS记事本应用程序. [Source](https://github.com/chrismatthieu/philes)
 - [Playback](https://mafintosh.github.io/playback/)  -IPFS播放支持.  这样可以将IPFS中的视频投射到Chromecast.
@@ -149,6 +149,7 @@
 - [Eternum](https://www.eternum.io/) -使用易于使用的API的付费固定服务.
 - [Peergos](https://peergos.org)  -您的私人社交空间.  存储和编辑文档和媒体.  与朋友共享文件或文件夹. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) -通过Pinata的REST API和IPFS工具包构建和管理dapp.
+- [Robonomics Network](https://robonomics.network/en/) -以太坊网络基础设施，用于将网络物理系统集成到智能城市和工业4.0中
 - [Temporal](https://temporal.cloud) -可扩展的IPFS基础架构，具有免费的入门包，具有交钥匙API，工具包和存储.
 
 ## Tools
