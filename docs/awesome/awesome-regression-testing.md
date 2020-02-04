@@ -51,7 +51,7 @@
 - [Hardy](https://github.com/thingsinjars/Hardy) -硒驱动，黄瓜驱动的CSS测试.
 - [TestCafe](https://github.com/DevExpress/testcafe) -针对现代Web开发堆栈的自动化浏览器测试.
 - [Needle](https://github.com/python-needle/needle) -Needle是使用Selenium和鼻子测试视觉效果的工具（Python）.
-- [gatling](https://github.com/gabrielrotbart/gatling) -集成的可视化RSpec匹配器，使真正的可视化测试变得容易（Ruby）.
+- [gatling](https://github.com/gabrielrotbart/gatling) -集成的可视RSpec匹配器，使真正的可视测试变得容易（Ruby）.
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) -插件可通过网站的屏幕快照会话防止项目布局出现问题.
 - [vrtest](https://github.com/nathanmarks/vrtest) -JavaScript库，用于通过硒跨浏览器在组件上运行视觉回归测试.
 - [Happo](https://github.com/Galooshi/happo) -CI在用户界面中的视觉差异.
@@ -79,7 +79,7 @@
 ## Online services
 
 - [BrowserStack](https://www.browserstack.com)  -开源免费.  支持 [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
-- [LambdaTest](https://www.lambdatest.com/) -在2000多种真实浏览器和在线操作系统上执行自动化和实时交互式浏览器的实时测试.
+- [LambdaTest](https://www.lambdatest.com/) -在2000多种真实浏览器和在线操作系统上执行自动和实时交互式浏览器的实时测试.
 - [screener.io](https://screener.io) -对于React，看起来是开源的.
 - [applitools](https://applitools.com) -云基础视觉测试.
 - [percy.io](https://percy.io) -对Web应用程序进行连续的视觉检查.
@@ -114,6 +114,8 @@
 - [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) -使用Puppeteer，Jest和VisWiz.io设置视觉测试的教程.
 - [Keeping a React Design System consistent: using visual regression testing to save time and headaches](https://techblog.commercetools.com/keeping-a-react-design-system-consistent-f055160d5166) -使用percy和jest puppeteer在视觉上测试React组件库.
 - [Visual Regression Test with WebdriverIO & WebdriverCSS](https://medium.com/@dalenguyen/visual-regression-test-with-webdriverio-webdrivercss-d7675a1812b2) -将WebdriverIO和WebdriverCSS与Spec Reporter结合使用的教程
+- [Automated screenshot comparison tests with headless Chrome, Puppeteer and Pixelmatch, in Bitbucket pipeline](https://jakobzanker.de/blog/automated-screenshot-comparison-test-with-headless-chrome-in-bitbucket-pipeline/)
+- [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
 
 ## Slideshows, talks and videos
 

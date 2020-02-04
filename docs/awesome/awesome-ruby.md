@@ -39,7 +39,7 @@
 ## Admin Interface
 
 * [ActiveAdmin](http://activeadmin.info) -Ruby on Rails框架，用于为网站管理创建优雅的后端.
-* [ActiveScaffold](https://github.com/activescaffold/active_scaffold)  -ActiveScaffold为Rails应用程序的CRUD（创建，读取，更新，删除）操作提供了快速而强大的用户界面.  它非常适合生成管理界面，管理大量数据的应用程序，创建小部件或进行快速原型制作.  ActiveScaffold是完全可定制的，并提供了许多附加功能，包括搜索，分页，布局控制以及字段，表单和模板的覆盖.
+* [ActiveScaffold](https://github.com/activescaffold/active_scaffold)  -ActiveScaffold为Rails应用程序的CRUD（创建，读取，更新，删除）操作提供了快速而强大的用户界面.  它非常适合生成管理界面，管理大量数据的应用程序，创建小部件或进行快速原型制作.  ActiveScaffold可完全自定义，并提供了许多附加功能，包括搜索，分页，布局控制以及字段，表单和模板的覆盖.
 * [Administrate](https://github.com/thoughtbot/administrate) -一个Thoughts帮助您构建超灵活的管理仪表板的Rails引擎.
 * [bhf](http://antpaw.github.io/bhf/) -易于使用的Rails-Engine-Gem，为受信任的用户提供管理界面.
 * [RailsAdmin](https://github.com/sferik/rails_admin) -一个Rails引擎，提供易于使用的界面来管理数据.
@@ -61,12 +61,12 @@
 * [Blanket](https://github.com/inf0rmer/blanket) -无效的简单API包装器.
 * [Crepe](https://github.com/crepe/crepe) -瘦API堆栈.
 * [Fast JSON API](https://github.com/Netflix/fast_jsonapi) -用于Ruby对象的快速的JSON：API序列化程序.
-* [Grape](http://www.ruby-grape.org) -在Ruby中创建类似REST的API的自觉的微框架.
+* [Grape](http://www.ruby-grape.org) -一个自以为是的微框架，用于在Ruby中创建类似REST的API.
 * [Her](https://github.com/remiprev/her)  -将REST资源映射到Ruby对象的ORM.  设计用于构建由RESTful API（而非数据库）支持的应用程序.
 * [jbuilder](https://github.com/rails/jbuilder) -通过构建器风格的DSL创建JSON结构.
 * [jsonapi-rb](http://jsonapi-rb.org) –高效便捷的JSON API（反序列化）库.
 * [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) -JSONAPI :: Resources或“ JR”提供了一个框架，用于开发符合JSON API规范的服务器.
-* [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) -JSONAPI :: Utils建立在JSONAPI :: Resources的基础上，利用其资源驱动的样式，并提供了一种轻松的方法来构建现代的JSON API，而无需花费很多学习精力.
+* [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) -JSONAPI :: Utils建立在JSONAPI :: Resources的基础上，利用其资源驱动的样式，并提供了一种轻松的方法来构建现代JSON API，而无需花费太多或更少的学习时间.
 * [Jsonite](https://github.com/crepe/jsonite) -适用于您的API的微型，符合HAL的JSON演示程序.
 * [Pliny](https://github.com/interagent/pliny) -有意识的模板Sinatra应用程序，用于在Ruby中编写出色的API.
 * [rabl](https://github.com/nesquena/rabl) -具有json，bson，xml，plist和msgpack支持的通用红宝石模板.
@@ -420,7 +420,7 @@
 * [Apipie](https://github.com/Apipie/apipie-rails) -使用Ruby语法的Rails API文档和显示工具.
 * [Asciidoctor](https://asciidoctor.org) -基于Ruby的快速文本处理器和发布工具链，可将AsciiDoc转换为HTML5，DocBook，EPUB3，PDF等.
 * [Doctor](https://github.com/minio/doctor) -Doctor是github中所有文档的文档服务器.
-* [Documentation](https://github.com/adamcooke/documentation) -提供给Rails应用程序添加文档的功能的Rails引擎.
+* [Documentation](https://github.com/adamcooke/documentation) -提供了向Rails应用程序添加文档的功能的Rails引擎.
 * [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) -从GitHub上的标签，问题，标签和拉取请求自动生成更改日志.
 * [Gollum](https://github.com/gollum/gollum) -一个简单的，由Git驱动的Wiki，具有精美的API和本地前端.
 * [grape-swagger](https://github.com/ruby-grape/grape-swagger) -向您的Grape API添加兼容标准的文档.
@@ -467,7 +467,7 @@
 * [MailForm](https://github.com/plataformatec/mail_form) -直接从Rails中的表单发送带有I18n，验证，附件和请求信息的电子邮件.
 * [Mailman](https://github.com/mailman/mailman) -Ruby中的传入邮件处理微框架.
 * [Maily](https://github.com/markets/maily) -一个Rails Engine，可以管理，测试和浏览应用程序的所有电子邮件模板，并能够直接在浏览器中预览它们.
-* [Markerb](https://github.com/plataformatec/markerb) -允许您使用Markdown编写的单个模板呈现多部分电子邮件.
+* [Markerb](https://github.com/plataformatec/markerb) -允许您从用Markdown编写的单个模板中呈现多部分电子邮件.
 * [MidiSmtpServer](https://4commerce-technologies-ag.github.io/midi-smtp-server/) -高度可定制的ruby SMTP服务库，内置对AUTH和SSL / STARTTLS，8BITMIME和SMTPUTF8，IPv4和IPv6等的支持.
 * [Pony](https://github.com/benprew/pony) -从Ruby发送邮件的快捷方式.
 * [Postal](https://github.com/atech/postal) -用于接收和发送电子邮件的功能齐全的开源邮件传递平台.
@@ -522,7 +522,7 @@
 * [DragonFly](https://github.com/markevans/dragonfly) -一种用于实时处理的Ruby宝石-适用于在Rails，Sinatra等中上传图像！
 * [PaperClip](https://github.com/thoughtbot/paperclip)  -方便的ActiveRecord文件附件管理.  自2018年5月14日起弃用.
 * [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) -安全上传文件.
-* [Refile](https://github.com/refile/refile) -Refile是一种用于Ruby应用程序的现代文件上传库，是CarrierWave的原始作者试图修复CarrierWave中的设计错误和过度设计的尝试.
+* [Refile](https://github.com/refile/refile) -Refile是一种适用于Ruby应用程序的现代文件上传库，是CarrierWave的原始作者试图修复CarrierWave中的设计错误和过度设计的尝试.
 * [Shrine](https://github.com/janko-m/shrine) -用于在Ruby中处理文件上传的工具包.
 
 ## File System Listener
@@ -625,7 +625,7 @@
 * [JRuby](https://github.com/jruby/jruby) -Ruby语言的Java实现.
 * [MRuby](https://github.com/mruby/mruby)  -轻巧的Ruby.  可以链接并嵌入到您的应用程序中.
 * [Opal](https://github.com/opal/opal) -Ruby到Javascript编译器.
-* [Rubinius](https://github.com/rubinius/rubinius)  -Ruby编程语言的实现.  Rubinius包括字节码虚拟机，Ruby语法解析器，字节码编译器，分代垃圾收集器，实时（JIT）本机代码编译器以及Ruby Core和Standard库.
+* [Rubinius](https://github.com/rubinius/rubinius)  -Ruby编程语言的实现.  Rubinius包括字节码虚拟机，Ruby语法解析器，字节码编译器，分代垃圾收集器，即时（JIT）本机代码编译器以及Ruby Core和Standard库.
 * [TruffleRuby](https://github.com/oracle/truffleruby)  -Ruby编程语言的高性能实现.  由Oracle Labs在GraalVM上构建.
 
 ## Internationalization
@@ -754,7 +754,7 @@
 * [Ohm](https://github.com/soveran/ohm) -Redis的对象哈希映射库.
 * [Perpetuity](https://github.com/jgaskins/perpetuity) -使用数据映射器模式的Ruby对象的持久性宝石.
 * [Redis-Objects](https://github.com/nateware/redis-objects) -Redis对象通过在Redis gem上的薄层将Redis数据类型映射到Ruby对象，从而提供了Redish的Rubyish接口.
-* [ROM](https://github.com/rom-rb/rom) -Ruby Object Mapper（ROM）是一个实验性Ruby库，其目标是提供强大的对象映射功能，而又不会限制数据存储的全部功能.
+* [ROM](https://github.com/rom-rb/rom) -Ruby Object Mapper（ROM）是一个实验性Ruby库，其目标是提供强大的对象映射功能，而又不限制数据存储的全部功能.
 * [Sequel](https://github.com/jeremyevans/sequel) -Sequel是用于Ruby的简单，灵活且功能强大的SQL数据库访问工具包.
 
 ## ORM/ODM Extensions
@@ -901,7 +901,7 @@
 * [Que](https://github.com/chanks/que) -使用PostgreSQL的咨询锁以提高速度和可靠性的Ruby作业队列.
 * [RocketJob](http://rocketjob.io) - Enterprise Batch Processing System focused on performance, scalability, reliability, and visibility of every job in the system. Outgrown existing solutions? Or, start small and scale up later.
 * [Shoryuken](https://github.com/phstc/shoryuken) -面向Ruby的基于AWS SQS线程的超高效消息处理器.
-* [Sidekiq](https://sidekiq.org)  -Ruby的全功能后台处理框架.  它旨在与任何现代Rails应用程序轻松集成，并且比其他现有解决方案具有更高的性能.
+* [Sidekiq](https://sidekiq.org)  -Ruby的全功能后台处理框架.  它旨在与任何现代Rails应用程序轻松集成，并具有比其他现有解决方案更高的性能.
 * [Sneakers](https://github.com/jondot/sneakers) -用于Ruby和RabbitMQ的快速后台处理框架.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch)  -使用Celluloid的单进程后台处理库.  旨在成为Sidekiq的弟弟.
 
@@ -971,7 +971,7 @@
   * [decisiontree](https://github.com/igrigorik/decisiontree) -一个红宝石库，它实现了用于决策树学习的ID3（信息增益）算法.
 *公用事业
   * [algorithms](https://github.com/kanwei/algorithms) -包含有关何时使用特定结构/算法的文档的库.
-  * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) -Jaro-Winkler距离算法的Ruby＆C实现，支持UTF-8字符串.
+  * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) -Jaro-Winkler距离算法的Ruby＆C实现，该算法支持UTF-8字符串.
   * [primes-utils](https://github.com/jzakiya/primes-utils) -Rubygem，提供了一套非常快速的实用程序方法来测试和生成素数.
   * [Roots](https://github.com/jzakiya/roots) -一个Rubygem，它提供实用程序来查找实数值和复数值的所有n个根.
   * [smarter_csv](https://github.com/tilo/smarter_csv) -Ruby Gem，可以更聪明地将CSV文件导入为哈希数组.
@@ -1083,7 +1083,7 @@
 *假数据
   * [Fabrication](http://fabricationgem.org/) -一个简单而强大的对象生成库.
   * [factory_bot](https://github.com/thoughtbot/factory_bot) -用于将Ruby对象设置为测试数据的库.
-  * [Fake Person](https://github.com/adamcooke/fake-person) -使用美国和英国一些最受欢迎的姓氏和名字.
+  * [Fake Person](https://github.com/adamcooke/fake-person) -使用一些在美国和英国最受欢迎的姓氏和名字.
   * [faker](https://github.com/stympy/faker) -用于生成虚假数据（例如名称，地址和电话号码）的库.
   * [ffaker](https://github.com/ffaker/ffaker) -更快的Faker，生成伪数据，重写伪造者.
   * [Forgery](https://github.com/sevenwire/forgery) -容易和可定制的伪造数据生成.
@@ -1103,7 +1103,7 @@
   * [gitarro](https://github.com/openSUSE/gitarro) -针对您的GitHub Pull Requests运行，重新触发，处理所有类型和与操作系统无关的测试.
   * [Knapsack](https://github.com/ArturT/knapsack) -RSpec，Cucumber，Minitest，Spinach和Turnip跨CI节点的最佳测试套件并行化.
   * [mutant](https://github.com/mbj/mutant) -Mutant是Ruby的突变测试工具.
-  * [Parallel Tests](https://github.com/grosser/parallel_tests) -通过在多个CPU（或内核）上并行运行，加速测试：: Unit + RSpec + Cucumber.
+  * [Parallel Tests](https://github.com/grosser/parallel_tests) -通过在多个CPU（或内核）上并行运行来加速测试：: Unit + RSpec + Cucumber.
   * [power_assert](https://github.com/k-tsj/power_assert) -Ruby的电源声明.
   * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) -用于构建JMeter测试计划的基于Ruby的DSL.
   * [Spring](https://github.com/rails/spring) -在后台预载Rails环境，以进行更快的测试和Rake任务.
@@ -1245,4 +1245,4 @@
 * [Ruby Rogues](https://devchat.tv/ruby-rogues) -有关编程的每周小组讨论，主要是在Ruby中进行.
 * [Ruby Weekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
 * [The Ruby Bibliography](https://rubybib.org) -有关Ruby的研究论文.
-* [The Ruby Toolbox](https://www.ruby-toolbox.com) -面向Ruby开发人员的Ruby和Rails插件，gem，工具和资源的完整目录，其流行度等级基于GitHub观察者和Gem下载.
+* [The Ruby Toolbox](https://www.ruby-toolbox.com) -面向Ruby开发人员的Ruby和Rails插件，gem，工具和资源的完整目录，其受欢迎程度基于GitHub观察者和Gem下载.

@@ -4,7 +4,7 @@
 很棒的Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
- 由社区驱动的有用的Scala库，框架和软件列表.  这不是所有库的目录，只是您探索的起点.  受启发 [awesome-python](https://github.com/vinta/awesome-python). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 清单.
+ 由社区驱动的有用的Scala库，框架和软件列表.  这不是所有库的目录，只是您探索的起点.  受启发 [awesome-python](https://github.com/vinta/awesome-python) .  其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 清单.
 
 还很棒 [Scaladex](https://index.scala-lang.org/)，是Scala库的可搜索，标记和集中索引.
 
@@ -30,7 +30,7 @@ Projects with over 500 stargazers are in bold.
 * [Finagle ★ 42 ⧗ 71](https://github.com/finagle/finagle-postgres) -Finagle的PostgreSQL协议支持
 * [laserdisc ★ 37](https://github.com/laserdisc-io/laserdisc) -无未来，fs2本机纯FP Redis客户端
 * [longevity ★ 78 ⧗ 21](https://github.com/longevityframework/longevity) -具有域驱动设计方向的Scala和NoSQL持久性框架
-* [lucene4s ★ 3 ⧗ 56](https://github.com/outr/lucene4s) -Lucene周围的轻巧便利包装，可简化复杂的任务并添加Scala糖.
+* [lucene4s ★ 3 ⧗ 56](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
 * [MapperDao ★ 12 ⧗ 36](https://github.com/kostaskougios/mapperdao) -适用于oracle，mysql，mssql和postgresql的ORM库
 * [Memcontinuationed ★ 51 ⧗ 245](https://github.com/Atry/memcontinuationed) -Scala的Memcached客户端.
 * [Morpheus ★ 104 ⧗ 0](https://github.com/outworkers/morpheus) -适用于MySQL / Postgres的反应型安全Scala驱动程序.
@@ -105,7 +105,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Data Binding and Validation
 
-*Scala libraries for data binding and validation*
+*用于数据绑定和验证的Scala库*
 
 * [Accord ★ 379 ⧗ 0](https://github.com/wix/accord) -Scala的健全验证库
 * [form-binder ★ 17 ⧗ 29](https://github.com/tminglei/form-binder) -微型数据绑定和验证框架，非常易于使用和破解
@@ -137,7 +137,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Authorization
 
-*Libraries for implementing authorization strategies.*
+*用于实施授权策略的库.*
 
 * [deadbolt-2 ★ 467 ⧗ 3](https://github.com/schaloner/deadbolt-2)  -一个Play 2.x模块，支持基于角色和专有授权；  提供了用于Scala的惯用API和Java API.
 
@@ -273,7 +273,7 @@ Projects with over 500 stargazers are in bold.
 * [spark-deployer ★ 69 ⧗ 29](https://github.com/KKBOX/spark-deployer) -一个sbt插件，可帮助部署Apache Spark独立集群并在AWS EC2等云系统上提交作业.
 * [Sparkta ★ 320 ⧗ 1](https://github.com/Stratio/sparkta) -基于Spark流的实时聚合.
 * [Sparkplug ★ 4 ⧗ 1](https://github.com/indix/sparkplug) -Spark包使用基于SQL的规则来“塞住”数据中的漏洞
-* **[Summingbird ★ 1841 ⧗ 1](https://github.com/twitter/summingbird)**-作为软件抽象的“ lambda体系结构”的实现— Hadoop和Storm的单个API.
+* **[Summingbird ★ 1841 ⧗ 1](https://github.com/twitter/summingbird)**-“ lambda体系结构”作为软件抽象的实现— Hadoop和Storm的单个API.
 * [Vegas](https://github.com/vegas-viz/Vegas) -Scala + Spark缺少的MatPlotLib
 
 ## Image processing and image analysis
@@ -437,7 +437,7 @@ Projects with over 500 stargazers are in bold.
 * [lolhttp ★ 64 ⧗ 10](https://github.com/criteo/lolhttp) Scala的HTTP和HTTP / 2服务器和客户端库.
 * [RösHTTP ★ 79 ⧗ 9](https://github.com/hmil/RosHTTP)  -考虑到Scala.js的轻量级异步HTTP API.  支持JVM和Node.js运行时以及大多数浏览器.
 * **[scalaj-http ★ 580 ⧗ 0](https://github.com/scalaj/scalaj-http)**-用于HttpURLConnection的简单scala包装器（包括OAuth支持）.
-* [Scalaxb ★ 235 ⧗ 18](https://github.com/eed3si9n/scalaxb) -Scala的XML数据绑定工具，支持W3C XML架构（xsd）和Web服务描述语言（wsdl）作为输入文件.
+* [Scalaxb ★ 235 ⧗ 18](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) -用于HTTP交互的基于Actor的库.
 * [sttp](https://github.com/softwaremill/sttp) -您一直想要的Scala HTTP客户端！
 * [Tubesocks ★ 12 ⧗ 174](https://github.com/softprops/tubesocks) -支持与Websocket服务器双向通信的库.
@@ -475,7 +475,7 @@ Projects with over 500 stargazers are in bold.
 * Sbt插件使您的生活更轻松.*
 
 * [better-monadic-for ★ 371 ⧗ 8](https://github.com/oleg-py/better-monadic-for) -一个Scala编译器插件，可为模式和理解力提供应有的爱
-* **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)**-Scala库可从Maven / Ivy存储库中获取依赖项
+* **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)**-一个Scala库，用于从Maven / Ivy存储库中获取依赖项（自1.3.0起，Coursier内置于SBT中）
 * [mdoc ★ 94 ⧗ 0](https://github.com/scalameta/mdoc) -Scala的Typekecked降价文档 [https://scalameta.org/mdoc/](https://scalameta.org/mdoc/)
 * [sbt-api-mappings ★ 38 ⧗ 67](https://github.com/ThoughtWorksInc/sbt-api-mappings) -一个Sbt插件，用于解析到常见Scala库的外部API链接.
 * **[sbt-assembly ★ 1522](https://github.com/sbt/sbt-assembly) **-部署胖JAR.  重新启动进程.
@@ -502,7 +502,7 @@ Projects with over 500 stargazers are in bold.
 * **[sbt-revolver ★ 519 ⧗ 0](https://github.com/spray/sbt-revolver)**-sbt的分叉和停止过程.
 * **[sbt-release ★ 543 ⧗ 70](https://github.com/sbt/sbt-release)**-sbt的发布插件 
 * [sbt-robovm ★ 107 ⧗ 17](https://github.com/roboscala/sbt-robovm) -Scala中用于iOS开发的sbt插件
-* [sbt-scalafmt ★ 37 ⧗ 6](https://github.com/scalameta/sbt-scalafmt) -Scalafmt的sbt插件 [https://scalameta.org/scalafmt/](https://scalameta.org/scalafmt/)
+* [sbt-scalafmt ★ 37 ⧗ 6](https://github.com/scalameta/sbt-scalafmt) - sbt plugin for Scalafmt [https://scalameta.org/scalafmt/](https://scalameta.org/scalafmt/)
 * [sbt-scala-js-map ★ 12 ⧗ 2](https://github.com/ThoughtWorksInc/sbt-scala-js-map) -一个sbt插件，可为Github上托管的Scala.js项目配置源映射
 * [sbt-scoverage ★ 470 ⧗ 68](https://github.com/scoverage/sbt-scoverage) -用于SBT的插件，集成了覆盖代码覆盖库.
 * [sbt-site ★ 159 ⧗ 122](https://github.com/sbt/sbt-site) -SBT网站生成 [https://www.scala-sbt.org/sbt-site/](https://www.scala-sbt.org/sbt-site/)
@@ -620,6 +620,7 @@ Projects with over 500 stargazers are in bold.
 ## Tools
 
 * [Codacy](https://www.codacy.com/) -Scala的自动代码审查
+* **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier) **-纯Scala神器获取.  一个Scala cli和库，用于从Maven / Ivy存储库中获取依赖项.
 * [dregrex](https://github.com/marianobarrios/dregex)  -使用确定性有限自动机的正则表达式引擎.  它支持某些Perl样式的功能，但保留了线性匹配时间.
 * [Fastring ★ 97 ⧗ 2](https://github.com/Atry/fastring) -极快的字符串格式化
 * [fast-string-interpolator ★ 24 ⧗ 0](https://github.com/Sizmek/fast-string-interpolator) -生成超快速字符串插值器的Scala宏

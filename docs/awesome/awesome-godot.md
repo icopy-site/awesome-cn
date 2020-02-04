@@ -16,7 +16,7 @@
 
 - [Blipshift](https://github.com/GaidamakUA/blipshift) -简单的自上而下的移动平台游戏（Godot 3.1）.
 - [BlockPop](https://github.com/vnen/blockpop) -一个简单的Breakout克隆（Godot 2.1）.
-- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them (Godot 2.1).
+- [Bombs](https://github.com/randyyaj/Bombs)  -简单的手机游戏.  您需要触摸炸弹来化解它们（Godot 2.1）.
 - [Breakable](https://github.com/didier-v/breakable) -突破性游戏（Godot 3.0）.
 - [Drone Commander](https://github.com/securas/Drone_Commander)  -指挥无数无人机对付外星人.  专为CGA JAM（Godot 2.1）设计.
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)  -详细世界中的探索性平台游戏.  面向年轻玩家（Godot 2.1）.
@@ -52,7 +52,7 @@
 *使用Godot制作的非游戏项目（工具/实用程序）.*
 
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) -2D像素艺术编辑器（Godot 3.1）.
-- [Material Maker](https://github.com/RodZill4/godot-procedural-textures) -按照程序创建PBR材料（类似于Substance Designer）（Godot 3.1）.
+- [Material Maker](https://github.com/RodZill4/material-maker) -按照程序创建PBR材料（类似于Substance Designer）（Godot 3.1）.
 
 ## Templates
 
@@ -81,7 +81,7 @@
 
 ### Text tutorials
 
-- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) （Godot 2.1、3.0、3.1）
+- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) (Godot 2.1, 3.0, 3.1)
 - [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) -分步介绍（Godot 3.1）.
 - [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials)  -用于创建客户端-服务器多人游戏的教程.  包括用于在Google Compute Platform（Godot 3.1）上托管服务器的教程.
 - [Godot Recipes](http://kidscancode.org/godot_recipes/)  -从入门到高级的文本教程集合.  （Godot 3.x）
@@ -141,7 +141,7 @@
 - [gterm](https://github.com/TeddyDD/gterm) -GUI控件，其绘制类似于\ * nix终端模拟器（Godot 2.1）.
 - [GUT](https://github.com/bitwes/Gut) -用于在GDScript（Godot 3.x）中编写单元测试的实用程序.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) -合并多边形.
-- [Qodot](https://github.com/Shfty/Qodot)  -对Godot的Quake`.map`文件支持.  让您使用 [TrenchBroom](https://kristianduske.com/trenchbroom/)  用于关卡设计.  （Godot 3.1）.
+- [Qodot](https://github.com/Shfty/qodot-plugin)  -对Godot的Quake`.map`文件支持.  让您使用 [TrenchBroom](https://kristianduske.com/trenchbroom/)  用于关卡设计.  （Godot 3.1）.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) -单工确定性噪声函数.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) -滚动背景节点（Godot 2.1）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) -对话框系统和编辑器可自定义，非常适合故事驱动的游戏（Godot 3.0）.
@@ -158,6 +158,7 @@
 - [Emacs](https://github.com/francogarcia/godot-gdscript.el) -语法突出显示，缩进和自动补全.
 - [Geany](https://github.com/haimat/GDScript-Geany) -语法突出显示.
 - [Gedit](https://github.com/haimat/GDScript-gedit) -语法突出显示.
+- [IntelliJ IDEA](https://github.com/exigow/intellij-gdscript) -语法突出显示和自动补全.
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) -语法突出显示.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) -语法突出显示.
 - [Vim](https://github.com/calviken/vim-gdscript3)  -语法突出显示，自动补全和掉毛.  还支持Godot着色器语言.

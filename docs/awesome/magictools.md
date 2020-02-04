@@ -241,7 +241,7 @@ Code
 *：然后： [Lums](https://github.com/lums-proj/Lums)  -用C ++ 11编写的2D / 3D框架.  非常高效和现代.  仍在大力发展中.
 *：然后： [LÖVE](http://love2d.org) -Lua 2D游戏引擎.
 *：然后： [MINX](https://github.com/GearChicken/MINX) -用C ++编写的开源2D游戏框架（具有XNA的风格）
-*：然后： [MOAI](http://getmoai.com/) -跨平台框架，专为专业游戏开发人员使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
+*：然后： [MOAI](http://getmoai.com/) -跨平台框架，旨在为专业游戏开发人员使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
 *：然后： [Magnum](http://magnum.graphics/) -用C ++ 11编写的轻量级模块化2D / 3D图形/游戏引擎
 *：然后： [Matter.js](http://brm.io/matter-js/) -Web的2D物理引擎.
 *：然后： [MelonJS](http://melonjs.org) -开源的轻量级HTML5游戏引擎.
@@ -340,7 +340,7 @@ Audio
 *制作棋盘游戏的工具*
 
 * ：自由： [Boardgamizer](http://www.boardgamizer.com/) -棋盘游戏设计理念生成器.
-*：然后： [RPTools](http://www.rptools.net/) -旨在增强传统笔和纸角色扮演游戏的一系列开源程序.
+*：然后： [RPTools](http://www.rptools.net/) -旨在增强传统笔和纸角色扮演游戏的开源程序品牌.
 
 Must see
 --------
@@ -486,5 +486,6 @@ Learn
 
 ### Computer Graphics
 
+* ：自由： [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 * ：自由： [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 * ：钱袋子： [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)

@@ -97,7 +97,7 @@
 
 ### Web Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) -搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) -检查网站是否正常.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) -捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) -从CSS中删除注释.
@@ -341,7 +341,7 @@
 - [ranger](https://github.com/ranger/ranger) -具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) -功能丰富的可视文件管理器.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载的文件.
-- [Vifm](https://vifm.info/) -Vifm是基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt借鉴了一些有用的想法.
+- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt中借鉴了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) -快速，可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) -快速，简单的文件管理器.
@@ -472,7 +472,7 @@
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) -从网络快捷方式文件获取网址.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) -将匹配的单引号转换为双引号：我“爱”独角兽=&gt;我“爱”独角兽.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) -将匹配的双引号转换为单引号：我“爱”独角兽→我“爱”独角兽.
-- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) -Python中GDB的模块化可视界面.
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 - [hget](https://github.com/bevacqua/hget) -从您的终端以纯文本形式呈现网站.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) -一个Node.js CLI应用，可显示您的Google Wifi / OnHub路由器的状态.
 - [calories](https://github.com/zupzup/calories) -卡路里和体重追踪器.
@@ -482,6 +482,7 @@
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) -从您的终端下载NASA的今日图片.
 - [googlr](https://github.com/Camji55/googlr) -从命令行搜索Google.
 - [Qalculate](https://github.com/Qalculate/libqalculate)  -计算非平凡的数学表达式.  单位转换，符号计算等.
+- [translate-shell](https://github.com/soimort/translate-shell) -Google翻译界面.
 
 ### Emoji
 

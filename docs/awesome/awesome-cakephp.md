@@ -63,7 +63,7 @@
 - [MultiTenant plugin](https://github.com/pronique/multitenant) -轻松构建支持SaaS的Web应用程序.
 - ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -基于身份验证和基于角色的（单/多）授权，这是一种非常轻巧的方法.
 - ：草莓： [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) -包含 [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) 用于密码哈希的DRY方法.
-- [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth)  -允许使用Google Authenticator或类似应用进行两因素身份验证，以生成一次性代码.  基于 [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) 图书馆.
+- ：草莓： [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth)  -允许使用Google Authenticator或类似应用进行两因素身份验证，以生成一次性代码.  基于 [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) 图书馆.
 - [UserPermissions plugin](https://github.com/AlessandroMinoccheri/UserPermissions) -允许用户组或单个用户查看特定页面.
 
 ## Caching
@@ -194,7 +194,7 @@
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个用于向您的应用添加枚举列表支持的插件.
-- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.

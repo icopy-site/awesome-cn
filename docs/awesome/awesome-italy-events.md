@@ -24,15 +24,16 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/archi
 - 14 - [Milano Live Coding](https://www.eventbrite.it/e/biglietti-milano-live-coding-14-gennaio-2020-87088150001) -Milano-使用three.js进行创意编码.
 - 21 - [Torino Hacknight](http://torino.hacknight.it/) -Torino-有关Userbase的开源hackaton.
 - 25 - [Modena Tech Summit](https://www.modenatechsummit.it/) -Modena-有关所有IT世界的技术大会.
-- 25-26 - [Hackafork](https://www.hackathon.com/event/hackafork-82168184251) -福诺沃·迪·塔罗（Fornovo di Taro）-最早的意大利美食.
+- 25-26 - [Hackafork](https://www.hackathon.com/event/hackafork-82168184251) -福诺沃·迪·塔罗（Fornovo di Taro）-第一批食品专用的意大利hackaton.
 - 27-28 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) -米兰-微软年度会议.
--2月31日- [Global Game Jam](https://globalgamejam.org/) -米兰-一个周末聚会，一起创造游戏.
+-2月31日- [Global Game Jam](https://globalgamejam.org/) -多个地点-一个周末聚会并创建游戏.
 
 ## February
 - 1 - [Agile Venture Milano 2020](https://www.agilemovement.it/venture/2020/milano/) -米兰-新兴技术领域的敏捷.
 - 2-7 - [IxDA](https://interaction20.ixda.org/) -米兰-专门设计研讨会和讲座.
+- 4-7 - [ITASEC 2020](https://itasec.it/) -安科纳-网络安全意大利语会议.
 - 15 - [Global Power Platform Bootcamp 2020](https://www.eventbrite.it/e/biglietti-global-power-platform-bootcamp-2020-milan-88686085469) -Milano-Microsoft的Power Platform重点活动.
-- 20 - [ServerlessDays 2020](https://rome.serverlessdays.io/) -Milano-有关无服务器技术的面向开发人员的会议.
+- 21 - [ServerlessDays 2020](https://rome.serverlessdays.io/) -Milano-有关无服务器技术的面向开发人员的会议.
 
 ## March
 - 4 - [A4I Agile for Innovation](https://www.agileforinnovation.com/) -米兰-敏捷概念如何在IT等领域发展.
