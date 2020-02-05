@@ -127,7 +127,7 @@
 
 - [mycli](https://github.com/dbcli/mycli) -具有自动完成功能和语法突出显示功能的MySQL客户端.
 - [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的Postgres客户端.
-- [sqlline](https://github.com/julianhyde/sqlline) -通过JDBC发行SQL的Shell.
+- [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ### Devops
 
@@ -206,7 +206,7 @@
 - [td-cli](https://github.com/darrikonn/td-cli) -一个TODO管理员，可以跨多个项目组织和管理您的TODO.
 - [taskell](https://github.com/smallhadroncollider/taskell) -交互式看板/任务管理器.
 - [taskbook](https://github.com/klaussinani/taskbook) -命令行栖息地的任务，公告板和注释.
-- [dnote](https://github.com/dnote/dnote) -一个简单的交互式笔记本.
+- [dnote](https://github.com/dnote/dnote) -交互式多设备笔记本.
 
 ### Finance
 
@@ -274,10 +274,10 @@
 
 ### Theming and Customization
 
-- [splash-cli](https://github.com/rawnly/splash-cli) -精美的精美壁纸.
+- [splash-cli](https://github.com/rawnly/splash-cli) -Unsplash提供的精美壁纸.
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) -获取或设置桌面墙纸.
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成个性化主题.
-- [JackPaper](https://github.com/jackel27/jackpaper) -将来自unplash.com的随机/查询图像用作桌面墙纸.
+- [JackPaper](https://github.com/jackel27/jackpaper) -将Unsplash中的图像设置为墙纸.
 - [pywal](https://github.com/dylanaraps/pywal) -生成并更改颜色方案，然后将它们在系统范围内应用于所有您喜欢的程序.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) -从Unsplash直接设置墙纸.
 
@@ -364,7 +364,7 @@
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) -Unix权限的瑞士军刀
 - [rclone](https://github.com/ncw/rclone) -与各种云提供商（Dropbox，Google Drive，Onedrive等）之间进行文件同步.
 - [transmission-cli](https://transmissionbt.com) -您的命令行的Torrent客户端.
-- [ffsend](https://github.com/timvisee/ffsend) -功能齐全的CLI [Firefox Send](https://send.firefox.com/) - simple and private file sharing.
+- [ffsend](https://github.com/timvisee/ffsend) -功能齐全的CLI [Firefox Send](https://send.firefox.com/) -简单和私人的文件共享.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) –流洪流客户端.
 - [share-cli](https://github.com/marionebl/share-cli) -与您的本地网络共享文件.
 
@@ -411,7 +411,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) -将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -gitlab cli，用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -一些小git附加功能，例如git-ignore，git-setup，git-changelog，git-release，git-effort等.
-- [gita](https://github.com/nosarthur/gita) -并发管理多个git repos.
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -交互式生成README.md文件.
 
 ## Images
@@ -462,7 +462,7 @@
 - [birthday](https://github.com/IonicaBizau/birthday) -知道朋友的生日是什么时候.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) -检测代码的缩进.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) -获取当前用户的全名.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) -获取文件或标准输入的压缩大小.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)  -哈希变得简单.  获取文本或标准输入的哈希.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) -使用Levenshtein距离算法测量两个字符串之间的差异.
@@ -472,7 +472,7 @@
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) -从网络快捷方式文件获取网址.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) -将匹配的单引号转换为双引号：我“爱”独角兽=&gt;我“爱”独角兽.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) -将匹配的双引号转换为单引号：我“爱”独角兽→我“爱”独角兽.
-- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) -Python中GDB的模块化可视界面.
 - [hget](https://github.com/bevacqua/hget) -从您的终端以纯文本形式呈现网站.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) -一个Node.js CLI应用，可显示您的Google Wifi / OnHub路由器的状态.
 - [calories](https://github.com/zupzup/calories) -卡路里和体重追踪器.
@@ -496,7 +496,7 @@
 
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – cli应用程序的替代列表.
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) -特定于macOS的Shell命令和工具.
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) -扩展git cli的插件.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) –命令行实用程序和框架.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) –终端框架，插件和资源.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH框架，插件，教程和主题.

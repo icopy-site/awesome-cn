@@ -619,6 +619,7 @@ Projects with over 500 stargazers are in bold.
 
 ## Tools
 
+* **[bloop ★ 583 ⧗ 0](https://github.com/scalacenter/bloop)**-具有丰富的构建工具和IDE集成生态系统的Scala快速构建服务器.
 * [Codacy](https://www.codacy.com/) -Scala的自动代码审查
 * **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier) **-纯Scala神器获取.  一个Scala cli和库，用于从Maven / Ivy存储库中获取依赖项.
 * [dregrex](https://github.com/marianobarrios/dregex)  -使用确定性有限自动机的正则表达式引擎.  它支持某些Perl样式的功能，但保留了线性匹配时间.

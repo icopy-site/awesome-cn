@@ -94,7 +94,7 @@
 - [loadable-components](https://github.com/smooth-code/loadable-components) -React代码拆分变得容易
 - [reactotron](https://github.com/skellock/reactotron) -用于检查您的React和React Native项目的桌面应用程序
 - [storybook](https://github.com/storybookjs/storybook) -UI组件开发和测试
-- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) -隔离的React组件开发环境以及生活指南
+- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) -用于创建可重复使用的React组件的开发工具
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) -对ESLint的特定掉毛规则做出反应
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) -JSX元素上的a11y规则的静态AST检查器
@@ -122,7 +122,7 @@
 ##### React Component Libraries
 
 - [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
-- [ant-design](https://github.com/ant-design/ant-design) - A design system with values of Nature and Determinacy
+- [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
 - [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) -用于构建Microsoft Web体验的React组件
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) -用React构建的Bootstrap组件
@@ -209,7 +209,7 @@
 - [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 - [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
-- [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibiility in separation of concerns for your React applicationss](https://github.com/Autodesk/clearx)
+- [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications](https://github.com/Autodesk/clearx)
 - [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态预呈现
 - [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
 - [refract](https://github.com/fanduel-oss/refract) -利用反应式编程的力量为您的组件增压
@@ -697,7 +697,6 @@
 - [react-reduction](https://github.com/reduction-admin/react-reduction) -使用React和Bootstrap4构建的免费管理模板
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) -响应式反应电影数据库应用程序
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) -使用React Redux构建的简单电子商务购物车应用程序
-- [dnote](https://github.com/dnote/dnote) -简单的个人知识库
 
 ---
 
@@ -709,6 +708,7 @@
 - [mattermost](https://github.com/mattermost/mattermost-webapp) -开源Slack替代
 - [overreacted](https://github.com/gaearon/overreacted.io) -Dan Abramov的个人博客
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) -为浏览器重新实现了Winamp 2
+- [dnote](https://github.com/dnote/dnote) -具有多设备同步和Web界面的命令行笔记本
 
 ---
 

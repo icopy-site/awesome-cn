@@ -18,7 +18,7 @@ _简化bean映射的框架.
 - [MapStruct](https://github.com/mapstruct/mapstruct) -代码生成器，它基于配置约定惯例简化了不同bean类型之间的映射.
 - [ModelMapper](https://github.com/modelmapper/modelmapper) -智能对象映射库，可自动将对象相互映射.
 - [Orika](https://github.com/orika-mapper/orika) -JavaBean映射框架，将数据（除其他功能外）从一个对象递归复制到另一个对象.
-- [reMap](https://github.com/remondis-it/remap) -基于Lambda和方法句柄的映射，如果对象具有不同的名称，则需要代码，而无需注释.
+- [reMap](https://github.com/remondis-it/remap) -基于Lambda和方法句柄的映射，如果对象具有不同的名称，则需要代码而不需要注释.
 - [Selma](https://github.com/xebia-france/selma) -基于注释处理器的bean映射器.
 
 ### Build
@@ -220,7 +220,7 @@ _有助于实现 [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_
 - [Dagger](https://dagger.dev/) -编译时注入框架，无需反思.
 - [Feather](https://github.com/zsoltherpai/feather) -符合JSR-330的超轻量级依赖注入库.
 - [Governator](https://github.com/Netflix/governator) -扩展了Google Guice的扩展程序和实用程序.
-- [Guice](https://github.com/google/guice) -轻巧而自以为是的框架，完善了Dagger.
+- [Guice](https://github.com/google/guice) -完善Dagger的轻量级，自以为是的框架.
 - [HK2](https://javaee.github.io/hk2/) -轻量级和动态依赖注入框架.
 - [JayWire](https://github.com/vanillasource/jaywire)  -轻量级依赖注入框架.  （仅限LGPL-3.0）
 
@@ -313,7 +313,7 @@ _正式方法工具：证明助手，模型检查，符号执行等_
 
 _促进函数式编程的库.
 
-- [Cyclops](https://github.com/aol/cyclops) -Monad和流实用程序，理解力，模式匹配，所有JDK集合的功能扩展，未来的流，蹦床等.
+- [Cyclops](https://github.com/aol/cyclops) -Monad和流实用程序，理解力，模式匹配，所有JDK集合的功能扩展，将来的流，蹦床等.
 - [derive4j](https://github.com/derive4j/derive4j)  -Java 8注释处理器和框架，用于导出代数数据类型的构造函数，模式匹配和态射.  （仅限GPL-3.0）
 - [Fugue](https://bitbucket.org/atlassian/fugue) -番石榴的功能扩展.
 - [Functional Java](http://www.functionaljava.org) -实现许多基本和高级编程抽象，以协助面向合成的开发.
@@ -768,7 +768,7 @@ _用于开发响应式应用程序的库.
 
 _专门用于创建RESTful服务的框架.
 
-- [Dropwizard](https://github.com/dropwizard/dropwizard) -通过Jetty，Jackson，Jersey和Metrics建立现代Web应用程序的自觉框架.
+- [Dropwizard](https://github.com/dropwizard/dropwizard) -通过Jetty，Jackson，Jersey和Metrics建立现代Web应用程序的自有框架.
 - [Elide](https://elide.io) -基于JPA数据模型的JSON-或GraphQL-API的框架.
 - [javalin](https://javalin.io) -Javalin只是Jetty上的几千行代码，这意味着它的性能几乎等同于纯Jetty.
 - [Jersey](https://jersey.github.io) -JAX-RS参考实现.
@@ -827,7 +827,7 @@ _处理安全性，身份验证，授权或会话管理的库.
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) -用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)  多平台高级密码库提供了易于使用的加密来保护敏感数据：具有前向保密性的安全消息传递，安全数据存储（AES256GCM）；  适用于构建端到端的加密应用程序.
 - [Tink](https://github.com/google/tink) -为常见的加密任务提供了一个简单且防误用的API.
-- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的密钥/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
+- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
 
 ### Serialization
 
@@ -1071,7 +1071,7 @@ _编程时要看或听的东西._
 - [Josh Long](https://twitter.com/starbuxman) -Pivotal的Spring Advocate，是O&#39;Reilly的Cloud Native Java和使用Spring Boot构建微服务JavaOne Rock Star的作者.
 - [Lukas Eder](https://twitter.com/lukaseder) -Java冠军，演讲者，JUG.ch联合负责人，Data Geekery（jOOQ）的创始人兼首席执行官.
 - [Mario Fusco](https://twitter.com/mariofusco) -RedHatter，JUG协调员，常任发言人和作家.
-- [Mark Heckler](https://twitter.com/MkHeck) -Pivotal首席技术专家兼开发倡导者，会议发言人，已发表的作者，以及Java Champion，专注于物联网和云.
+- [Mark Heckler](https://twitter.com/MkHeck) -Pivotal首席技术专家兼开发倡导者，会议发言人，已发表的作者和Java Champion，主要关注物联网和云.
 - [Mark Reinhold](https://twitter.com/mreinhold) -Oracle Java平台组首席架构师.
 - [Markus Eisele](https://twitter.com/myfear) -Java EE传播者，Red Hat.
 - [Martijn Verburg](https://twitter.com/karianna) -伦敦JUG联合领导人，发言人，作家，Java冠军等等.
@@ -1113,6 +1113,6 @@ _要阅读的网站._
 
 欢迎捐款！
 
-请看看 [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) 准则和 [the validation tools](https://github.com/akullpp/awesome-java-validation).
+请看看 [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) 准则和 [the validation tools](https://github.com/akullpp/awesome-java-lint).
 
 [c]：https：//cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg

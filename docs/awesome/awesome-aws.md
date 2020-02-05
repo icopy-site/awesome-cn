@@ -314,7 +314,7 @@ AWS Repos：
 社区回购：
 
 * [achiku/jungle :fire::fire::fire:](https://github.com/achiku/jungle) -EC2和ELB cli的操作应该更简单.
-* [dbcli/athenacli](https://github.com/dbcli/athenacli) -适用于AWS Athena服务的CLI工具，可以执行自动完成和语法突出显示.
+* [dbcli/athenacli :fire:](https://github.com/dbcli/athenacli) -适用于AWS Athena服务的CLI工具，可以执行自动完成和语法突出显示.
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) -增压的AWS命令行界面.
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) -轻松地通过命令行访问Amazon EC2，S3，SQS，ELB和SDB.
 * [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) -Go中EC2，IAM和S3的强大CLI.
@@ -879,7 +879,7 @@ AWS Repos：
 * [aws-hal-client-java](https://github.com/awslabs/aws-hal-client-java) -超文本应用程序语言的Java客户端.
 * [aws-model-validators](https://github.com/awslabs/aws-model-validators) -用于验证AWS服务JSON模型文件的工具.
 * [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) -示例跨平台视频转码器应用程序.
-* [simplebeerservice :fire::fire:](https://github.com/awslabs/simplebeerservice) -与云连接的kegerator，可将实时传感器数据流式传输到AWS.
+* [simplebeerservice :fire::fire:](https://github.com/awslabs/simplebeerservice) -连接云的kegerator，将实时传感器数据流式传输到AWS.
 
 社区回购：
 
@@ -1183,7 +1183,7 @@ AWS会议：
 *将102Tbps的网络容量连接到数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 *自2014年以来推出了500多种主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *所有其他14个云提供商的总和是AWS总容量的1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持亚马逊的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持Amazon的所有全球基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 

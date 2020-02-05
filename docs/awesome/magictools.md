@@ -39,7 +39,7 @@ Graphics
 * ：自由： [Iconmonstr](http://iconmonstr.com/) -您游戏的另一个免费图标资源.
 *：money_with_wings： [Kenney Assets](http://kenney.nl/assets) -免税资产
 * ：自由： [Liberated Pixel Cup assets](http://lpc.opengameart.org) -OpenGameArt论坛举办的解放像素杯（LPC）的免费图形资产
-* ：自由： [Matcaps](https://github.com/nidorx/matcaps#matcaps) -庞大的PNG和ZMT matcap纹理库，按颜色进行组织.
+* ：自由： [Matcaps](https://github.com/nidorx/matcaps#matcaps) -巨大的PNG和ZMT matcap纹理库，按颜色组织.
 * ：自由： [OpenClipart](https://openclipart.org/) -免费剪贴画的集合.
 * ：自由： [OpenGameArt](http://opengameart.org/) -旨在与免费软件游戏项目一起使用的媒体存储库.
 * ：钱袋子： [Oryx Design Lab](http://oryxdesignlab.com/) -便宜的高质量免版税精灵
@@ -48,6 +48,7 @@ Graphics
 * ：自由： [Sketchfab](https://sketchfab.com/) -发布和嵌入交互式3D模型.
 * ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) -静态和动画图形对象（也称为精灵）的集合.
 * ：自由： [StickyPNG](http://www.stickpng.com/) -免费的透明PNG图像.
+* ：自由： [TextureHaven](https://texturehaven.com/)  -具有其他贴图（例如位移和凹凸贴图）的免费纹理.  还有HDRI. 
 * ：自由： [TextureKing](http://www.textureking.com/) -免费的材料库存纹理
 * ：自由： [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) -在线树生成器.
 *：money_with_wings： [Vecteezy](http://www.vecteezy.com/) -免费矢量艺术.
@@ -197,7 +198,7 @@ Code
 *：然后： [Ebiten](https://ebiten.org/) -Go中死了的简单2D游戏库.
 *：然后： [ecs-lib](https://github.com/nidorx/ecs-lib#readme)  -** ecs-lib **是一个小巧易用的ECS（实体组件系统）库，用于游戏编程.  它是用Typescript编写的，但是您也可以在node.js和Web浏览器上使用.
 *：然后： [Ejecta](http://impactjs.com/ejecta) -适用于iOS的快速，开源JavaScript，画布和音频实现.
-*：然后： [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
+*：然后： [EnchantJS](http://enchantjs.com/) -用于创建游戏和应用程序的简单JavaScript框架.
 *：然后： [EnTT](https://github.com/skypjack/entt) -游戏符合现代C ++，快速可靠的实体组件系统（ECS）等
 *：然后： [FXGL](https://github.com/AlmasB/FXGL) -适用于Win / Mac / Linux的JavaFX / Kotlin游戏引擎.
 *：然后： [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) -具有逼真的物理响应的碰撞检测系统.
@@ -221,7 +222,7 @@ Code
 *：然后： [ImpactJS](http://impactjs.com/) -Impact是一个JavaScript游戏引擎，可让您为台式机和移动浏览器开发出色的HTML5游戏.
 * ：自由： [Inform7](http://inform7.com/) -基于自然语言的交互式小说设计系统.
 *：然后： [Ink](http://www.inklestudios.com/ink/) -用于编写交互式叙述的脚本语言.
-*：然后： [Irrlicht](http://irrlicht.sourceforge.net/) -用C ++编写的开源高性能实时3D引擎.
+*：然后： [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++.
 *：然后： [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 *：然后： [jMonkeyEngine 3](http://jmonkeyengine.org/) -面向冒险的Java开发人员的3D开源游戏引擎.
 * ：自由： [JPCT](http://www.jpct.net/) -jPCT是用于桌面Java和Google的Android的3D引擎.
