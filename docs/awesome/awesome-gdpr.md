@@ -4,12 +4,12 @@
 
 [<img src="https://raw.githubusercontent.com/bakke92/awesome-gdpr/master/GDPR.png" align="right" width="300">](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
 
- 通用数据保护条例（GDPR）是针对欧盟和欧洲经济区内所有个人的数据保护和隐私权的条例.  该法规增加了对公司隐私的关注，并增强了数据主体的影响力.
+ 通用数据保护条例（GDPR）是关于欧盟和欧洲经济区内所有个人的数据保护和隐私的条例.  该法规增加了对公司隐私的关注，并增强了数据主体的影响力.
 
 
 ## Legal text
-* [GDPR-info](https://gdpr-info.eu/) -GDPR与相关文章和序言部分相关联.
-* [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5)  -比较法规，指令和国家法规.  链接到序言中的相关部分.
+* [GDPR-info](https://gdpr-info.eu/) -GDPR链接至相关文章和序言部分（非官方网站）.
+* [GDPR-expert](https://www.gdpr-expert.com/home.html?mid=5)  -比较法规，指令和国家法规.  链接到序言中的相关部分（非官方网站）.
   
 ## Guidelines
 * EDPB： [Guidelines](https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en) & [Opinions](https://edpb.europa.eu/our-work-tools/consistency-findings/opinions_en)

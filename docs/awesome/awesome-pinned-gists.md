@@ -20,6 +20,7 @@
 - [strava-box](https://github.com/JohnPhamous/strava-box) -更新固定要点，以包含Strava的YTD锻炼指标.
 - [music-box](https://github.com/jacc/music-box) -更新固定要点，以包含您在Last.fm上的每周收听报告.
 - [rescue-box](https://github.com/joshghent/rescue-box) -更新固定要点，以包含RescueTime的每日生产率统计信息.
+- [neko-box](https://github.com/RangerDigital/neko-box) -更新固定要点，以包含来自AniList的最新活动.
 
 ## GitHub
 

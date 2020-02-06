@@ -243,6 +243,7 @@
 - [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action)
 - [PHP_CodeSniffer With Annotations](https://github.com/chekalsky/phpcs-action)
 - [Linter for markdown (with presets)](https://github.com/avto-dev/markdown-lint)
+- [Stylelint problem matcher to create annotations](https://github.com/xt0rted/stylelint-problem-matcher)
 
 #### Security
 
@@ -300,6 +301,7 @@
 - [Enforce naming convention on pull request title](https://github.com/deepakputhraya/action-pr-title)
 - [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
 - [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
+- [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
 
 ### GitHub Pages
 

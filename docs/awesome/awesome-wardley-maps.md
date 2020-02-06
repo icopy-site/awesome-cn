@@ -51,6 +51,7 @@
 - [Exploring Brexit](https://medium.com/@swardley/exploring-brexit-2ea2f3f283c8)  -英国脱欧的第一个规则是“你错了”.  2019年9月5日.
 - [Exploring Culture](https://medium.com/@swardley/mapping-culture-ac164c0e17f0)  -映射文化.  2019年9月4日.
 - [What culture is right for you?](https://medium.com/@swardley/what-culture-is-right-for-you-ba892f1f3bc5) -2019年7月31日
+- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/)  -绘制路易斯·格斯特纳（Louis Gerstner）的“谁说大象不能跳舞”.  2019年6月18日.
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  -应对推出新型支付解决方案的挑战.  2019年6月14日.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  -通过沃德利地图了解加密货币生态系统.  2019年6月2日.
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.

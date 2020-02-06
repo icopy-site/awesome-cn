@@ -35,8 +35,8 @@
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) -用于性能预算的艰巨任务.
 - [Size Limit](https://github.com/ai/size-limit)  -计算运行JS应用或lib来保持良好性能的实际成本.  如果费用超出限制，则在拉取请求中显示错误.
 - [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) -随时间跟踪压缩的Webpack资产大小.
-- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) -布置模板类型，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小.
-- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) -布置模板类型，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小. 
+- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小.
+- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小. 
 - [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) -CLI工具和lib以通过Lighthouse收集性能指标.
 - [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) -扩展以在VS代码编辑器中内联显示导入包的大小.
 
@@ -47,7 +47,7 @@
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) -Webpack插件和CLI实用程序，将捆绑包内容表示为方便的交互式可缩放树形图.
 - [Disc](http://hughsk.io/disc/) -可视化浏览器项目捆绑包的模块树并追踪膨胀. 
 - [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) -分析和可视化由Lasso创建的项目包.
-- [rollup-plugin-analyzer](http://rollup-plugin-analyzer.doesdev.com/) -有关您的汇总捆绑包的指标，请使用此工具潜入您的捆绑包.
+- [Rollup Visualizer](https://github.com/btd/rollup-plugin-visualizer) -可视化并分析汇总套件，以查看哪些模块占用了空间.
 - [Parcel plugin Visualizer](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) -用于包裹捆扎机的插件，用于可视化捆扎内容.
 - [CSS Analyzer](https://github.com/macbre/analyze-css) -CSS选择器的复杂性和性能分析器.
 

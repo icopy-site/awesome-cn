@@ -114,7 +114,7 @@
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
-     Robert Pankowecki和Andrzej Krzywda（Arkency），2014年.
+     Robert Pankowecki和Andrzej Krzywda（方舟），2014年.
   1. [Distributed Teams](https://oduinn.com/book/).
      John O&#39;Duinn着，2018年.
   1. [Remote: Office Not Required](http://37signals.com/remote/).
@@ -191,7 +191,7 @@
   1. [Meerkad](https://meerkad.com/) -由来自最流行的远程工作委员会，公司网站，Facebook组，Twitter搜索，Reddit，StackOverflow，HackerNews，Dribbble，Behance和许多其他项目的社区工作精心挑选和策划  
   1. [Remote.io](https://www.remote.io/) -远程工作（主要是技术）的工作板和聚集器.
   1. [Remote 4 Me](https://remote4me.com/) -从事技术和非技术领域远程工作的聚合器.
-  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供偏远职位使用.
+  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供远程使用.
   1. [RemotePHP.io](https://remotephp.io) -来自网络的远程PHP作业.
   1. [Remote Python](https://www.remotepython.com/) -专门用于远程Python作业的作业板和聚合器.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) -抓取多个作业板以进行远程作业发布.
@@ -214,9 +214,9 @@
   1. [nomadicHUB](http://nomadichub.com) -在异国情调的休闲和办公空间
   1. [Ondas](http://www.ondasmedellin.com) -哥伦比亚麦德林的联合办公空间
   1. [Roam](https://www.roam.co/) -大肠杆菌空间的全球网络
-  1. [Sende](http://sende.co) -西班牙北部的集体办公空间
+  1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
   1. [Sun Desk](http://sun-desk.com) -摩洛哥Taghazout的集体办公空间
-  1. [Talent Garden](https://talentgarden.org/coworking/) -联合办公空间主要在意大利，但在其他一些国家也可以使用 
+  1. [Talent Garden](https://talentgarden.org/coworking/) -联合办公空间主要在意大利，但在其他一些国家也可以使用
   1. [The Surf Office](https://www.thesurfoffice.com/home/) -葡萄牙，加那利和加利福尼亚的联合办公和度假空间
   1. [Work From Curacao](http://www.workfromcuracao.com/) -库拉索岛的集会空间
   1. [Worldpackers](https://www.worldpackers.com) -住房/工作交流
@@ -241,7 +241,7 @@
   1. [Project Getaway](http://www.projectgetaway.com) -30天静修
 
 ## Newsletters
-  1. [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
+  1. [Daily Remote](https://dailyremote.com/newsletter) -包含为您精心设计和策划的远程工作的新闻通讯
   1. [NODESK](https://nodesk.co/) -每两周发送一次有关数字游牧民和远程工作的新闻通讯.
   1. [Remote Internships](http://foundersgrid.com/)
   1. [Remoteur](http://www.remoteur.com) -欧洲的远程工作每两周发送到您的收件箱
@@ -254,7 +254,7 @@
   1. [Distributed](https://distributed.blog/podcast/)  -马特·穆伦维格（Matt Mullenweg）的访谈播客.  专注于分布式工作的好处和挑战以及在全球范围内招募人员.
   1. [Free People Move Podcast](https://teleport.org/podcast/) -多数采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
-  1. [Remote Works](https://remote.works) -远程工作播客每两周发布一次，主持人乔纳森·夏普（Jonathan Sharp）讨论远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
+  1. [Remote Works](https://remote.works) -远程工作播客每两周发布一次，主持人乔纳森·夏普（Jonathan Sharp）讨论远程工作，远程团队，远程办公和数字游牧者的机会，经验，文化和社区.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，生产性和自由放养的工人.
   1. [Wide Teams](http://www.wideteams.com) -每集与远程工作者进行一对一的面试，介绍工作流程和做法
 
@@ -319,7 +319,7 @@
   1. [Dotsub](https://dotsub.com/jobs)  -基于浏览器的平台，用于字幕和翻译在线视频.  Java / Spring，JavaScript / React.js
   1. [Doximity](https://www.doximity.com/about/jobs)  -美国医师最大的在线医疗网络.  Ruby，Rails，Go，JavaScript，MySQL.
   1. [Drupal Association](https://assoc.drupal.org/jobs) -非营利组织支持Drupal项目.
-  1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
+  1. [DuckDuckGo](https://duck.co/help/company/hiring) - 搜索引擎.
   1. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
   1. [Elastic](https://www.elastic.co/) -开源搜索和分析
   1. [Envato](https://envato.com/careers)  -ThemeForest和其他在线市场的制造商.  MySQL，Ruby，Rails，Javascript.  与总部设在澳大利亚墨尔本的分布式团队.
@@ -333,6 +333,7 @@
   1. [Gitbook](http://jobs.gitbook.com/)  -基于git发布工具链.  Javascript，node.js，Go.
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) -GitHub的竞争对手.
+  1. [Gitee](https://gitee.com) - Github alternative in China.
   1. [GlueNetworks](http://gluenetworks.com/) -网络自动化公司.
   1. [Gradle](https://gradle.com/careers)  -开源构建工具；  企业SaaS和内部部署.  完全偏僻.  Java，Groovy和Kotlin.
   1. [GrooveHQ](https://www.groovehq.com/about) -服务台软件.
@@ -462,6 +463,7 @@
   1. [Zamphyr](https://zamphyr.com/)  -学习计算机科学的School 2.0.  远程优先，主要是流星的100％JavaScript.
   1. [Zapier](https://zapier.com/about/)
   1. [ZipRecruiter](https://www.ziprecruiter.com/careers) -Perl / Catalyst商店，其中有一些最好的Perl开发人员可以远程工作.
+  1. [The Appraisal Lane](https://www.theappraisallane.com/careers)  -第三方车辆鉴定服务.  工作空间主要在奥斯丁和蒙得维的亚，但在其他国家也可以使用.
 
 ## Q&A
   1. Chegg家教： [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
@@ -512,7 +514,7 @@
   1. [Talky](https://talky.io/) -群组的真正简单的视频聊天和屏幕共享
   1. [TeamHub](https://teamhub.app/) -直接在IDE内部实时报告状态和进度
   1. [Whereby](https://whereby.com) –基于浏览器的无插件群组视频通话.
-  1. [Zoom](https://zoom.us) —高质量的团体视频和共享屏幕，在linux上运行，记录会话并支持电话.
+  1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
 #### Project Management
   1. [Asana](https://asana.com/) -对分布式团队有利的项目管理.
@@ -543,7 +545,7 @@
   1. [Transferwise](https://transferwise.com/gb/business/international-payroll-via-batch-payments) -支付远程员工的简便方法.
 
 ## Others
-  1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+  1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) -精选的数字游牧民资源清单.
   1. [Established Remote](https://github.com/yanirs/established-remote) -已建立的远程公司列表
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) -黑客空间列表.
   1. [LiquidSpace](https://liquidspace.com/) -每日和每小时办公室和会议室租金.

@@ -13,7 +13,7 @@
 
  可以通过许多轴来组织这样的列表，例如目标受众的专业水平（从专家到整个公众）或学科定位（计算机科学，数学，数学逻辑等）.  在这里，我选择了按主题类型对材料进行分类.
     
-如果您想添加一些内容，只需将您希望显示的文本发送到estetus@gmail.com，最好已将其设置为markdown格式.
+如果您想添加一些内容，只需将您希望显示的文本发送到estetus@gmail.com，最好已将其格式化为markdown.
 
 ## Index
 
@@ -59,7 +59,7 @@
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) -杰森礼貌
 * [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) -理查德·恩德格伦（Richard Endgren）
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) -由Andreas Zeller，Rahul Gopinath，MarcelBöhme，Gordon Fraser和Christian Holler撰写
-* [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -Mauro Pezze，Michal Young（[slides](http://ix.cs.uoregon.edu/~michal/book/))
+* [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -Mauro Young（[slides](http://ix.cs.uoregon.edu/~michal/book/))
 * [Software Testing Glossary](https://testitquickly.com/2016/12/14/software-testing-glossary/)
 * [Quality Assistance](https://www.atlassian.com/inside-atlassian/quality-assurance-vs-quality-assistance) 和 [here](https://amaysim.engineering/from-quality-assurance-to-quality-assistance-32ffc990d27b) 和 for [youtube](https://youtu.be/9giJYYag6wQ)
 
@@ -114,7 +114,7 @@
 * [Alloy Documentation](http://alloy.mit.edu/alloy/documentation.html) -丹尼尔·杰克逊
 * [Introduction to Spin](http://spinroot.com/spin/Man/) -多位作者
 *软件基础： [4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), [draft](https://softwarefoundations.cis.upenn.edu/draft/)
-, [epub](https://github.com/carliros/software-foundations-book) -本杰明·皮尔斯＆Co.
+, [epub](https://github.com/carliros/software-foundations-book) -本杰明·皮尔斯＆Co
 * [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) -安德鲁·W·阿佩尔
 * [Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/1998/FoundsCS/) -拉里·保尔森博士
 * [Principles of Model Checking](https://pdfs.semanticscholar.org/f126/9591359fddc20f95da10c7bd4c054080b447.pdf) -Christel Baier，Joost-Pieter Katoen
@@ -127,10 +127,10 @@
 * [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) -Michael Genesereth，Eric Kao（斯坦福大学）
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) -PD Magnus（奥尔巴尼大学）
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) -Stefan Bilaniuk（特伦特大学）
-* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) -乔恩·巴里斯（Jon Barwise），约翰·埃特肯迪（John Etchemendy）
-* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) -Helmut Schwichtenberg
+* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) -乔恩·巴威斯（John J.Etchemendy）
+* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) -赫尔穆特·史威登伯格
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) -斯蒂芬·辛普森（宾夕法尼亚州立大学）
-* [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) -米格尔·帕洛米诺
+* [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) -米格尔·帕洛米诺（Miguel Palomino）
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://github.com/paulmckrcu/perfbook/) （“验证”和“形式验证”一章）-Paul E. McKenney @paulmckrcu
 * [More books...](http://www.freetechbooks.com/index.php/formal-methods-f28.html)
 * [Formal Methods of Software Design](https://www.cs.utoronto.ca/~hehner/FMSD/)
@@ -141,18 +141,18 @@
 
 * [Черная книга менеджера](http://www.stratoplan.ru/free/mbb/) ([pdf](http://labs.stratoplan.ru/wmbook-03-01/black_book.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/black_book.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/black_book.mobi)）荣耀归潘克拉托夫
 * [Белая книжная полка менеджера](http://labs.stratoplan.ru/wmbook-03-01/) ([epub](http://labs.stratoplan.ru/wmbook-03-01/wmbook.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/wmbook.mobi), [zip](http://labs.stratoplan.ru/wmbook-03-01/wmbook.zip))
-*如何成为经理（[pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)）-荣耀归潘克拉托夫（Pankratov），亚历山大·奥尔洛夫（Alexander Orlov）
+*如何成为经理（[pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)）-向潘克拉托夫（Alexander Orlov）致敬
 * [It starts with a great product](https://www.intercom.com/books/product-management)
 
 #### Тестирование ПО
 
 * [Test-Driven Development in Practice](https://github.com/risik/tdd-book) -谢尔盖·鲍里索夫（Sergey Borisov）
-* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) -Svetoslav Kulikov
+* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) -Sviatoslav Kulikov
 * [Всё, что вам нужно знать о форматах отчётов в тестировании ПО](https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5) -谢尔盖·布朗尼科夫
 * [Руководство по тестированию пользовательского опыта для сайтов, мобильных приложений и прототипов](https://uxcrowd.ru/file/guide.pdf)
-* [Автоматизация тестирования от «А» до «Ы»](https://alpaev.com/testautomation/) -根纳季（Gennadiy Alpaev）
-* [Учебник по SilkTest](https://alpaev.com/silktest/) -根纳季（Gennadiy Alpaev）
-* [Учебник по TestComplete](https://alpaev.com/testcomplete/) -根纳季（Gennadiy Alpaev）
+* [Автоматизация тестирования от «А» до «Ы»](https://alpaev.com/testautomation/) -根纳季·阿尔帕耶夫（Gennadiy Alpaev）
+* [Учебник по SilkTest](https://alpaev.com/silktest/) -根纳季·阿尔帕耶夫（Gennadiy Alpaev）
+* [Учебник по TestComplete](https://alpaev.com/testcomplete/) -根纳季·阿尔帕耶夫（Gennadiy Alpaev）
 
 #### Формальные методы
 
@@ -294,6 +294,8 @@
 
 #### Тестирование ПО
 
+* [Основы тестирования ПО от СКБ Контур](https://ulearn.me/Course/Testing/)
+* [Software Testing - Base Course](https://learn.by/courses/course-v1:EPAM+STI+ext/) -EPAM的Svyatoslav Kulikov的课程Svyatoslav Kulikov和 [книга](http://svyatoslav.biz/software_testing_book/)
 * [Основы тестирования программного обеспечения](http://universarium.org/course/526)
 * [Основы тестирования ПО](https://itvdn.com/ru/video/testing-process)
 * [Основы тестирования программного обеспечения](http://www.intuit.ru/studies/courses/48/48/info)
@@ -307,7 +309,7 @@
 *测试学校： [Ручное тестирование и Автоматизация тестирования](https://academy.yandex.ru/events/testing/spb-2016/) ([Youtube](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
 * [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU1LAGzq5S0ARQjXs3TAY3K) -维克多·库利亚明（Victor Kulyamin）
 * [Серия семинаров по тестированию (автоматизация)](https://www.youtube.com/playlist?list=PL-_cKNuVAYAV4VSQQK5AWMBImQ8kf6cnr) -谢尔盖·安德烈耶夫（Sergey Andreev）
-* [Тестирование ПО: Базовый уровень](https://stepik.org/course/16478) -该课程以官方培训计划“ Certified Basic Software Tester” ISTQB为基础，旨在为认证考试做准备
+* [Тестирование ПО: Базовый уровень](https://stepik.org/course/16478) -该课程基于官方培训计划“ Certified Basic Software Tester” ISTQB，旨在为认证考试做准备
 
 #### Формальная верификация ПО
 
@@ -317,7 +319,7 @@
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
 * [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf)  -A.S.  卡姆金
-* [Методы верификации программного обеспечения](https://www.ispras.ru/publications/2008/methods_of_software_verification/)  -V.V.  库利亚明
+* [Методы верификации программного обеспечения](https://www.ispras.ru/publications/2008/methods_of_software_verification/)  -V.V.  古里亚明
 * [Введение в язык формальной верификации Coq](https://compsciclub.ru/courses/intro-to-coq/2019-autumn/about/) -安东·特鲁诺夫（Anton Trunov）
 * [Введение в верификацию программ](https://www.youtube.com/playlist?list=PLQ-XJe6nVU5BwX1gV80aDhwW0Jt3tipIY) -安东·特鲁诺夫（MITT的特殊课程）
 
@@ -374,7 +376,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 ## Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
--通过模糊测试 [secfigo](https://github.com/secfigo/Awesome-Fuzzing) 和通过 [cpuu](https://github.com/cpuu/awesome-fuzzing)
+-通过模糊测试 [secfigo](https://github.com/secfigo/Awesome-Fuzzing) 和 [cpuu](https://github.com/cpuu/awesome-fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)
@@ -387,7 +389,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 - [UI Automation Tools](https://github.com/pywinauto/pywinauto/wiki/UI-Automation-tools-ratings)
 - [List of verification and synthesis tools](https://github.com/johnyf/tool_lists/blob/master/verification_synthesis.md)
 - [Testing of distributed systems](https://github.com/asatarin/testing-distributed-systems)
-- [SecLists](https://github.com/danielmiessler/SecLists) -收集在一个地方收集的用于安全评估的多种类型的列表.
+- [SecLists](https://github.com/danielmiessler/SecLists) -收集在一次安全评估中使用的多种类型的列表.
 - [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 - [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium#readme)
 - [Awesome AutoIt](https://github.com/J2TEAM/awesome-AutoIt)
@@ -400,5 +402,5 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 
 [![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Sergey Bronnikov](https://bronevichok.ru) 拥有
+在法律允许的范围内， [Sergey Bronnikov](https://bronevichok.ru) 已
 放弃了此作品的所有版权以及相关或邻近的权利.
