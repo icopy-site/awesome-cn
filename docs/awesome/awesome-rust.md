@@ -48,7 +48,7 @@
 * [CITA](https://github.com/citahub/cita) —适用于企业用户的高性能区块链内核.
 * [Grin](https://github.com/mimblewimble/grin/) — MimbleWimble协议的演变
 * [hdwallet](https://github.com/jjyr/hdwallet) — BIP-32 HD钱包相关的密钥派生实用程序.
-* [Holochain](https://github.com/holochain/holochain-rust) —可用于您一直想要构建的所有分布式应用程序的可扩展P2P替代区块链的方法 [![Build Status](https://api.travis-ci.com/holochain/holochain-rust.svg?branch=master)](https://travis-ci.com/holochain/holochain-rust)
+* [Holochain](https://github.com/holochain/holochain-rust) —可用于您一直想要构建的所有分布式应用程序的可扩展P2P替代区块链 [![Build Status](https://api.travis-ci.com/holochain/holochain-rust.svg?branch=master)](https://travis-ci.com/holochain/holochain-rust)
 * [infincia/bip39-rs](https://github.com/infincia/bip39-rs) -BIP39的Rust实现.
 * [Joystream](https://github.com/Joystream/substrate-runtime-joystream) —用户控制的视频平台.
 * [Libra](https://github.com/libra/libra) —天秤座的使命是建立一种简单的全球货币和金融基础设施，以增强数十亿人口的能力.
@@ -146,7 +146,7 @@
 
 ### Security tools
 
-* [ripasso]（https://github.com/cortex/ripasso/）—密码管理器，与pass兼容的文件系统
+* [ripasso](https://github.com/cortex/ripasso/) —密码管理器，与pass兼容的文件系统
 
 ### System tools
 
@@ -191,7 +191,7 @@
 * [raftario/licensor](https://github.com/raftario/licensor) —将许可证写入标准输出 [![GitHub Actions](https://github.com/raftario/licensor/workflows/Build/badge.svg)](https://github.com/raftario/licensor/actions?workflowID=Build)
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) —一个命令行工具，可使用灵活的模式远程连接Amazon S3文件.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) —一个命令行工具，用于收集有关您的Amazon S3存储桶的元数据.
-* [whitfin/s3-utils](https://github.com/whitfin/s3-utils) —包含一个基于Amazon S3的实用程序的小工具，用于提供其他便利性API.
+* [whitfin/s3-utils](https://github.com/whitfin/s3-utils) —包含一个基于Amazon S3的实用程序的小工具，用于提供其他便利API.
 * [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) —用Rust编写的tmux手指的闪电般快速版本，像vimium / vimperator一样复制/粘贴tmux.
 * [amar-laksh/workstation](https://github.com/amar-laksh/workstation) —一种命令行工具，可通过使您与屏幕保持一定距离来帮助您管理工作站，并通过OPENCV在您不在时锁定屏幕！
 * [guoxbin/dtool](https://github.com/guoxbin/dtool) -一个有用的命令行工具集合，以协助开发，包括转换，编解码器，哈希，加密等. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
@@ -297,7 +297,7 @@
 
 *交叉编译
   * [japaric/rust-cross](https://raw.githubusercontent.com/japaric/rust-cross) -您需要了解的有关交叉编译Rust程序的所有信息 [<img src="https://api.travis-ci.org/japaric/rust-cross.svg?branch=master">](https://travis-ci.org/japaric/rust-cross)
-  * [japaric/xargo](https://raw.githubusercontent.com/japaric/xargo) -轻松地将Rust程序交叉编译到自定义的裸机目标（如ARM Cortex-M） [<img src="https://api.travis-ci.org/japaric/xargo.svg?branch=master">](https://travis-ci.org/japaric/xargo)
+  * [japaric/xargo](https://raw.githubusercontent.com/japaric/xargo) -轻松地将Rust程序交叉编译到定制的裸机目标（如ARM Cortex-M） [<img src="https://api.travis-ci.org/japaric/xargo.svg?branch=master">](https://travis-ci.org/japaric/xargo)
 *树莓派
   * [Ogeon/rust-on-raspberry-pi](https://github.com/Ogeon/rust-on-raspberry-pi) —有关如何为Raspberry Pi交叉编译Rust项目的说明.
 * Arduino
@@ -654,7 +654,7 @@
     * [elastic-rs/elastic](https://raw.githubusercontent.com/elastic-rs/elastic) [[elastic](https://crates.io/crates/elastic)] — elastic是用Rust编写的，用于Elasticsearch的高效，模块化API客户端 [<img src="https://api.travis-ci.org/elastic-rs/elastic.svg?branch=master">](https://travis-ci.org/elastic-rs/elastic) [<img src="https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true">](https://ci.appveyor.com/project/KodrAus/elastic)
   * etcd
     * [jimmycuadra/rust-etcd](https://raw.githubusercontent.com/jimmycuadra/rust-etcd) [[etcd](https://crates.io/crates/etcd)] — CoreOS的etcd的客户端库. [<img src="https://api.travis-ci.org/jimmycuadra/rust-etcd.svg?branch=master">](https://travis-ci.org/jimmycuadra/rust-etcd)
-    * [ccc13/etcd-rs](https://raw.githubusercontent.com/ccc13/etcd-rs) —锈的异步etcd客户端 [<img src="https://api.travis-ci.org/ccc13/etcd-rs.svg?branch=master">](https://travis-ci.org/ccc13/etcd-rs)
+    * [luncj/etcd-rs](https://raw.githubusercontent.com/luncj/etcd-rs) —锈的异步etcd客户端 [<img src="https://api.travis-ci.org/luncj/etcd-rs.svg?branch=master">](https://travis-ci.org/luncj/etcd-rs)
   *森林数据库
     * [vhbit/sherwood](https://raw.githubusercontent.com/vhbit/sherwood) — [ForestDB](https://raw.githubusercontent.com/couchbase/forestdb) 绑定 [<img src="https://api.travis-ci.org/vhbit/sherwood.svg?branch=master">](https://travis-ci.org/vhbit/sherwood)
   * [InfluxDB](https://www.influxdata.com/)

@@ -24,7 +24,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://camo.githubusercontent.com/2f393ed1a4c6d222de314c16e0334301cae3fb7a/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e7376673f73616e6974697a653d74727565" align="right" width="160">](https://ant.design/)
 
-Ant Design是中间件的一种设计语言，由Ant Financial的体验技术部门进行了改进，旨在统一中间件项目的用户界面规范，减少不必要的设计差异和实现成本，并释放设计和前端开发资源.
+Ant Design是中间件的一种设计语言，由Ant Financial的体验技术部进行了改进，旨在统一中间件项目的用户界面规范，减少不必要的设计差异和实现成本，并释放设计和前端开发资源.
 
 
 
@@ -45,14 +45,15 @@ Ant Design的官方项目和资源.
 
 ## Tools
 
-这些工具和实用程序可帮助您使用Ant Design构建应用，
+这些工具和实用程序可帮助您使用Ant Design构建应用程序，
 
 - [Antd Init](https://github.com/ant-design/antd-init) -Ant Design样板生成器（仅用于演示，请使用dva-cli）.
 - [Dva Cli](https://github.com/dvajs/dva-cli) -根据以下内容创建Ant Design项目 [Dva.js](https://github.com/dvajs/dva)， 一种
-  轻量级的基于Redux和React的前端框架，其灵感来自 [Elm](http://elm-lang.org) 和 [Choo](https://github.com/yoshuawuyts/choo).
+  基于Redux和React并受启发的轻量级前端框架 [Elm](http://elm-lang.org) 和 [Choo](https://github.com/yoshuawuyts/choo).
 - [Antd Tools](https://github.com/ant-tool) -非常有用的工具列表，可用于Ant Design创建文档，创建新组件，构建工具等等.
 - [Antd Tools Docs](http://ant-tool.github.io/) -Ant工具的文档.
 - [iConfig Ant Design](https://github.com/hutxs/iconfig-antd) -样板功能，可通过一些有用的转换快速启动和运行新项目.
+- [vscode-antd-rush](https://github.com/fi3ework/vscode-antd-rush) -急于VS Code中的Ant设计
 - [Antd Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=bang.antd-snippets)
 - [Generator Antd Pro](https://github.com/codetrial/generator-antd-pro) -一种构建Ant Design Pro应用程序的简单方法.
 - [formik-antd](https://github.com/jannikbuschke/formik-antd) -流行的表单状态管理库Formik的声明性绑定.
@@ -76,8 +77,8 @@ Ant Design的官方项目和资源.
 
 Ant Design系列项目.
 
-- [Grammar of Graphics](https://g2.alipay.com/) -纯粹的javascript，功能强大的大数据语义图生成工具，提供了一组图形语法，使用户可以用简单的语法构建大量图表，并集成了大量统计工具，（[Read more](https://github.com/antvis/feedback)).
-- [Ant Visualization](https://antv.alipay.com/)  -专业的数据可视化规范，旨在在探索数据可视化的过程中投入数年宝贵的数据模式小组工作，以与需要数据可视化理论的所有人员共享.  AntV由少量零件，数据，设计规范和图表使用规则组成，（[Read more](https://github.com/antvis/feedback)).
+- [Grammar of Graphics](https://g2.alipay.com/) -纯粹的javascript，功能强大的大数据语义图生成工具，它提供了一组图形语法，使用户可以用简单的语法构建大量图表，并集成了大量统计工具，（[Read more](https://github.com/antvis/feedback)).
+- [Ant Visualization](https://antv.alipay.com/)  -专业的数据可视化规范，旨在在探索数据可视化的过程中投入数年宝贵的数据模式小组工作，以与需要数据可视化理论的所有人共享.  AntV由少量零件，数据，设计规范和图表使用规则组成，（[Read more](https://github.com/antvis/feedback)).
 - [Ant Motion](http://motion.ant.design/) -高效的运动设计解决方案，符合带有React实现的Ant Design Visual规范.
 - [Ant UX](http://ux.ant.design/) -使用制作用于UX设计的站点地图模板 [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) 要么 [Axure](http://www.axure.com/) .  这是一个库，可帮助设计人员定义，完善和最终确定其产品的页面间逻辑.
 
@@ -93,7 +94,7 @@ Ant Design系列项目.
 
 使用Vue.js和Ant Design构建的项目.
 
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) -Vue.js 2.5.0+的Ant设计.
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) -Vue.js 2.5.0以上版本的Ant设计.
 - [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) -使用Vue.js和Ant Design构建漂亮的UI组件.
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) -Vue.js中内置的Ant Design UI组件.
 - [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) -Ant Design的Vue.js版本.
@@ -106,9 +107,9 @@ Ant Design系列项目.
 
 - [antd-table-infinity](https://github.com/Leonard-Li777/antd-table-infinity) -基于antd表的无限滚动组件，支持虚拟滚动和高性能
 - [react-lz-editor](https://github.com/leejaen/react-lz-editor) -基于草稿J和蚂蚁设计的开源丰富的React编辑器.
-- [React Grid](https://github.com/kagawagao/react-grid) ** [不推荐使用] **-基于Ant设计的Grid React UI组件.
+- [React Grid](https://github.com/kagawagao/react-grid) ** [不推荐使用] **-基于Ant Design的Grid React UI组件.
 - [Antd Kit](https://github.com/huhulab/antd-kit) -先进的蚂蚁设计组件.
-- [antd-data-table](https://github.com/NewbeeFE/antd-data-table) -结合antd的Table和Form进行数据搜索，显示和操作的组件.
+- [antd-data-table](https://github.com/NewbeeFE/antd-data-table) -结合antd的Table和Form进行数据的搜索，显示和操作的组件.
 - [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) -基于Ant设计构建的json输入的角递归形式.
 - [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) -Aws Amplify进行身份验证的Ant设计组件集合
 - [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) -具有密码强度指示器的AntD输入组件.
@@ -136,14 +137,14 @@ Ant Design系列项目.
 - [React Admin](https://github.com/fireyy/react-antd-admin) -基于Ant Design构建的React Admin UI（用户名：admin，密码：123456）.
 - [React Redux](https://github.com/Justin-lu/react-redux-antd) -使用Ant Design构建的CMS / Enterprise类应用程序（ERP / Admin）的React Redux.
 - [React Antd Starter](https://github.com/yuzhouisme/react-antd-redux-router-starter) -该项目旨在使用Ant Design和Redux开发网站/网络应用.
-- [Webbf](https://github.com/peterchenhdu/webbf)  -使用Maven通过Spring，Spring MVC和Mybatis构建后端的Java演示.  React，Reflux，Eebpack，jQuery，React-bootstrap和Ant Design.
-- [React Redux Antd Starter](https://github.com/BetaRabbit/react-redux-antd-starter) -使用React，Redux和Ant设计构建的前端样板.
+- [Webbf](https://github.com/peterchenhdu/webbf)  -使用Maven通过Spring，Spring MVC和Mybatis构建后端的Java演示.  React，Reflux，Eebpack，jQuery，React-bootstrap和Ant设计.
+- [React Redux Antd Starter](https://github.com/BetaRabbit/react-redux-antd-starter) -使用React，Redux和Ant Design构建的前端样板.
 - [Koa](https://github.com/yukrain/koa-antd-admin) -用于构建使用React，Ant Design和Koa构建的Admin UI的示例应用程序.
 - [Star Admin](https://github.com/pookpal/star-initReact-example) -使用React，Ant Design，Redux，React-router，Webpack和Babel构建的演示应用程序.
 - [React Redux Intro](https://github.com/LeuisKen/react-redux-intro) -使用Ant Design构建的演示应用程序，可以将其配置为初始化Redux依赖项.
 - [React Start Kit](https://github.com/jovey-zheng/react-start-kit) -使用React，Webpack，ES6 +，Redux，Router，Babel，Express，Ant Design构建的SPA样板.
 - [CL React](https://github.com/chenliang2016/CLReactAntDesign) -基于用于企业后台软件的Ant Design前端框架结构.
-- [TODO MVC](https://github.com/cupools/todoMVC-react) -使用React和Ant Design构建的Todo列表.
+- [TODO MVC](https://github.com/cupools/todoMVC-react) -使用React和Ant Design构建的待办事项列表.
 - [React Boilerplate](https://github.com/huhulab/react-frontend-boilerplate) -使用Ant Design构建的React Admin前端样板.
 - [Dva Antd Starter](https://github.com/xlsdg/dva-antd-starter) -开始使用Dva.js和Ant Design.
 - [Dva Antd Mobile Starter](https://github.com/xlsdg/dva-antd-mobile-starter) -开始使用Dva.js和Ant Design移动版.

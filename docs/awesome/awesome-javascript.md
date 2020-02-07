@@ -73,6 +73,7 @@
 * [react testing library](https://github.com/kentcdodds/react-testing-library) -简单而完整的React DOM测试实用程序，鼓励良好的测试实践.
 * [Sinon.JS](https://github.com/sinonjs/sinon) -测试JavaScript的间谍，存根和模拟.
 * [expect.js](https://github.com/Automattic/expect.js) -针对Node.JS和浏览器的BDD风格的断言.
+* [proxyquire](https://github.com/thlorenz/proxyquire) -存根nodejs的要求.
 
 ### Coverage
 
@@ -252,7 +253,7 @@
 * [Trumbowyg](https://github.com/Alex-D/Trumbowyg) -轻巧惊人的WYSIWYG JavaScript编辑器.
 * [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架.
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) -简单，漂亮的所见即所得编辑器
-* [wysihtml5](https://github.com/xing/wysihtml5)  -基于HTML5和渐进增强方法的开源富文本编辑器.  使用复杂的安全性概念，旨在通过防止无法维护的标签内容和内联样式来生成完全有效的HTML5标记.
+* [wysihtml5](https://github.com/xing/wysihtml5)  -基于HTML5和渐进增强方法的开源富文本编辑器.  使用复杂的安全性概念，旨在通过防止无法维护的标记和内联样式来生成完全有效的HTML5标记.
 * [popline](https://github.com/kenshin54/popline) -Popline是HTML5 Rich-Text-Editor工具栏.
 * [Summernote](https://github.com/summernote/summernote) -超级简单的所见即所得编辑器.
 
@@ -334,7 +335,7 @@
 * [fecha](https://github.com/taylorhakes/fecha)  -轻量级日期格式和解析（〜2KB）.  旨在替换moment.js的解析和格式化功能.
 * [date-fns](https://github.com/date-fns/date-fns) -现代的JavaScript日期实用程序库.
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) -建立在Google地图之上的浏览器倒计时.
-* [dayjs](https://github.com/iamkun/dayjs) -具有相同现代API的Moment.js的Day.js 2KB不变日期库.
+* [dayjs](https://github.com/iamkun/dayjs) -具有相同现代API的Day.js 2KB不可变日期库替代Moment.js.
 
 ## String
 *字符串库.*
@@ -408,7 +409,7 @@
 * [contra](https://github.com/bevacqua/contra/) -具有功能趣味的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) -功能齐全的承诺库，侧重于创新功能和性能.
 * [when](https://github.com/cujojs/when) -可靠，快速的Promises / A +和when（）实现，以及其他异步工具.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个原型来增加对事件侦听器的支持（与浏览器上可用的DOMElements中的EventTarget行为相同）.
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个为事件侦听器添加支持的原型（与浏览器上可用的DOMElements中的EventTarget行为相同）.
 * [sporadic](https://github.com/marcoonroad/sporadic) -在Promise之上，针对Node和浏览器引擎的可组合并发抽象（例如流，协程和类似Go的通道）.
 
 
@@ -457,7 +458,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的坚定REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) -支持OAuth / API密钥/基本等的通用API客户端.
 
@@ -633,7 +634,7 @@
 * [flow.js](https://github.com/flowjs/flow.js) -一个JavaScript库，可通过HTML5 File API提供多个同时，稳定，容错和可恢复/可重启的文件上传.
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) -具有进度条，拖放，直接到S3上传的多个文件上传插件.
 * [FileAPI](https://github.com/mailru/FileAPI)  -一组用于处理文件的JavaScript工具.  多重上传，拖放和分块文件上传.  图片：通过EXIF裁剪，调整大小和自动定向.
-* [plupload](https://github.com/moxiecode/plupload) -用于处理文件上传的JavaScript API，它支持多个文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
+* [plupload](https://github.com/moxiecode/plupload) -用于处理文件上传的JavaScript API，它支持多个文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并且使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
 
 ### Other
 
@@ -749,7 +750,7 @@
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于您的YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media)  -启用 <video>  和 <audio>  所有主要浏览器中的标签. <https://html5media.info/>
- * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
+ * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，可通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频曲目队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) -用于网络的HTML5视频播放器
  <https://flowplayer.org/>
@@ -766,7 +767,7 @@
  * [FlowType.JS](https://github.com/simplefocus/FlowType.JS) -最好的Web排版：基于元素宽度的字体大小和行高.
  * [BigText](https://github.com/zachleat/BigText) -jQuery插件，计算将一行文本匹配到特定宽度所需的字体大小和字距.
  * [circletype](https://github.com/peterhry/circletype) -一个jQuery插件，可让您在网络上弯曲文字.
- * [slabText](https://github.com/freqDec/slabText/) -一个jQuery插件，用于产生大而醒目的响应式标题.
+ * [slabText](https://github.com/freqDec/slabText/) -一个jQuery插件，用于产生大型，大胆且响应迅速的标题.
  * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) -在您的网站上添加几乎没有标记的超简单旋转文本.
  * [novacancy.js](https://github.com/chuckyglitch/novacancy.js) -文字Neon Golden效果jQuery插件.
  * [jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text) -使您的文本大小响应！

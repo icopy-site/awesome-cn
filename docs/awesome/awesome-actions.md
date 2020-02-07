@@ -175,6 +175,7 @@
 - [Create an envfile](https://github.com/SpicyPizza/create-envfile)
 - [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
+- [Install Conda environments for Python](https://github.com/goanpeca/setup-miniconda)
 
 #### Dependencies
 
@@ -216,7 +217,6 @@
 - [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
 - [Lint a Dockerfile](https://github.com/jwr0/dockerfile-linter-action) （使用plicatedhq / dockerfilelint）
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
-- [Run ESLint with status checks and file diff annotations](https://github.com/gimenete/eslint-action)
 - [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
 - [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)
@@ -467,6 +467,7 @@
 - [Working with GitHub Actions](https://jeffrafter.com/working-with-github-actions)
 - [GitHub Actions for Rails Developers](https://www.youtube.com/watch?v=gGUXydw22zw)
 - [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
+- [Zero Downtime Laravel Deployments with GitHub Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
 
  &gt;如果您有更多资源可以共享，请不要犹豫进行PR.  查看 [https://github.com/sdras/awesome-actions/blob/master/contributing.md](https://github.com/sdras/awesome-actions/blob/master/contributing.md) 了解更多信息
 

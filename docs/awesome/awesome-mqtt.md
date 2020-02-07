@@ -37,7 +37,7 @@
 * [Aedes](https://github.com/mcollina/aedes) -可以在任何流服务器上以节点方式运行的准系统MQTT代理.
 * [Emitter](https://github.com/emitter-io/emitter) -基于MQTT协议并具有消息存储功能的分布式，可伸缩且容错的发布-订阅消息传递平台.
 * [EMQ X](https://github.com/emqx/emqx) -适用于5G时代的IoT的可扩展且可靠的实时MQTT消息引擎.
-* [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
+* [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) -ESP8266上的基本MQTT Broker.
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) -使用异步的Python MQTT代理.
 * [HiveMQ](https://www.hivemq.com/)  -支持MQTT 3.1、3.1.1和5.0的Java MQTT Broker.  提供商业和开源版本.
 * [hrotti](https://github.com/alsm/hrotti) -用Go编写的MQTT经纪人.
@@ -58,12 +58,12 @@
 
 * [Adafruit IO](https://io.adafruit.com)  -Adafruit IO是将项目连接到Internet的最简单方法.  您可以使用您选择的编程语言（我们有很多库）轻松地将您的项目连接到Adafruit IO，并且可以通过Internet进行控制或监视.  Adafruit IO存储的数据由您管理和控制.
 - [Alibaba Cloud IoT Platform](https://www.alibabacloud.com/product/iot) -在设备和IoT平台之间提供安全可靠的通信，使您可以在单个IoT平台上管理大量设备.
-- [AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls)  -AWS IoT Core是一项托管的云服务，可让连接的设备轻松，安全地与云应用程序和其他设备交互.  AWS IoT Core可支持数十亿个设备和数以万亿计的消息，并可将这些消息可靠且安全地处理并路由到AWS终端节点和其他设备.  借助AWS IoT Core，您的应用程序可以随时跟踪所有设备并与之通信，即使它们没有连接也是如此.
+- [AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls)  -AWS IoT Core是一项托管的云服务，可让连接的设备轻松，安全地与云应用程序和其他设备交互.  AWS IoT Core可支持数十亿个设备和数以万计的消息，并可将这些消息可靠且安全地处理并路由到AWS终端节点和其他设备.  借助AWS IoT Core，您的应用程序可以随时跟踪所有设备并与之通信，即使它们没有连接也是如此.
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)  -在IoT应用程序及其管理的设备之间实现高度安全和可靠的通信.  Azure IoT中心提供了一个云托管的解决方案后端，可以连接几乎任何设备.  通过每设备身份验证，内置设备管理和扩展配置，将您的解决方案从云扩展到边缘.
 - [CloudMQTT](https://www.cloudmqtt.com/)  -托管物联网的消息代理.  完美配置和优化的物联网消息队列，几秒钟即可完成.
 - [EMQ X MQTT Cloud](https://cloud.emqx.io/) -由EMQ团队提供最佳实践的安全，可靠的MQTT云服务.
 - [flespi](https://flespi.com/mqtt-broker) -具有私有名称空间，MQTT 3.1.1和MQTT 5.0支持以及华丽的限制的免费和安全的云MQTT代理.
-- [Google Cloud IoT](https://cloud.google.com/solutions/iot/)  -Google Cloud IoT是一整套用于在边缘和云中连接，处理，存储和分析数据的工具.  该平台由可扩展的，完全托管的云服务组成；  用于边缘/本地计算的集成软件堆栈，具有机器学习功能，可满足您所有IoT需求.
+- [Google Cloud IoT](https://cloud.google.com/solutions/iot/)  -Google Cloud IoT是一整套用于在边缘和云中连接，处理，存储和分析数据的工具.  该平台由可扩展的，完全托管的云服务组成；  用于边缘/本地计算的集成软件堆栈，具有机器学习功能，可满足您所有IoT的需求.
 - [IBM WATSON](https://www.ibm.com/watson) -使用Watson，您可以将AI工具和应用程序带到数据中的任何位置，无论它位于IBM Cloud，AWS，Azure，Google还是您自己的私有云平台上.
 
 ### Platforms
@@ -74,7 +74,7 @@
 
 
 ### Tools
-* [hivemq-mqtt-web-client](https://github.com/hivemq/hivemq-mqtt-web-client) -基于浏览器的MQTT客户端，该客户端在Websocket上利用MQTT. [Direct Link](http://www.hivemq.com/demos/websocket-client/)
+* [hivemq-mqtt-web-client](https://github.com/hivemq/hivemq-mqtt-web-client) - Browser-based MQTT client that utilizes MQTT over websockets. [Direct Link](http://www.hivemq.com/demos/websocket-client/)
 * [imqtt](https://github.com/shafreeck/imqtt) -基于IPython的交互式MQTT数据包操作外壳.
 * [IoT-Testware](https://projects.eclipse.org/projects/technology.iottestware) -Eclipse IoT-Testware是用于IoT协议的一致性测试套件的集合，其中丰富了用于模糊测试和性能测试的其他工具.
 * [moxy](https://github.com/jvermillard/moxy) -Golang MQTT代理，提供有用的输出跟踪，以监视MQTT通信并对其进行故障排除.
@@ -101,7 +101,7 @@
 * [Python MQTT Client Shell](https://github.com/bapowell/python-mqtt-client-shell) -基于文本控制台的交互式外壳，用于执行与MQTT客户端通信相关的各种任务.
 * [SimpleMQTT](https://simplemqtt.theoi.de/) -一个Slack应用程序，使用斜杠命令将消息从Slack发送到MQTT代理.
 * [Wireshark-MQTT](https://github.com/menudoproblema/Wireshark-MQTT) -Wireshark的MQTT解剖器.
-* [MQTTX](https://github.com/emqx/MQTTX) - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.
+* [MQTTX](https://github.com/emqx/MQTTX) -MQTTX是由EMQ开源的跨平台MQTT桌面客户端，它支持macOS，Linux和Windows.
 
 ### Clients
 
@@ -146,7 +146,7 @@
 
 * [logic4mqtt](https://github.com/owagner/logic4mqtt)  -与MQTT一起使用的基于Java的逻辑和脚本引擎.  使用Java的常规脚本接口，因此可以使用多种语言（例如Javascript，Groovy等）编写脚本.
 * [mqtt-scripts](https://github.com/hobbyquaker/mqtt-scripts/) -基于Node.js的脚本运行器.
-* [Node-RED](https://nodered.org/) -用于连接物联网的可视化工具.
+* [Node-RED](https://nodered.org/) - A visual tool for wiring the Internet of Things.
 
 
 ### Interfaces
@@ -239,7 +239,7 @@
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) -之间的接口 [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) （868MHz射频设备，例如ELV FS20，HMS，EM等）和MQTT.
 * [domiqtt](https://github.com/etobi/domiqtt) -连接到Domiq Base（LCN）并与MQTT相互转换.
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) -Enocean USB300（TCM310）适配器和MQTT之间的接口.
-* [Evohome2mqtt](https://github.com/svrooij/evohome2mqtt) - MQTT Interface for the Honeywell Evohome system.
+* [Evohome2mqtt](https://github.com/svrooij/evohome2mqtt) -霍尼韦尔Evohome系统的MQTT接口.
 * [helios2mqtt](https://github.com/mreschka/helios2mqtt) -用于将Helios简易控制系统（例如KWL EC 220D）同步到MQTT的守护程序.
 * [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)  -EQ-3的Homehome系列智能家居设备和MQTT之间的接口.  支持Homematic IP.
 * [homeeToMqtt](https://github.com/odig/homeeToMqtt) -homee和MQTT之间的双向接口.
@@ -249,6 +249,7 @@
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) -KNX家庭自动化标准和MQTT之间的接口.
 * [mcsMQTT](https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3) -HS3插件（HomeSeer）.
 * [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge) -MQTT digitalSTROM服务器桥.
+* [mqtt-unifi-protect-bridge](https://github.com/terafin/mqtt-unifi-protect-bridge) -从UniFi保护摄像机向MQTT添加运动状态.
 * [mqtt2homekit](https://github.com/forty2/mqtt2homekit) -大致相反 [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt)：使用MQTT而不使用Siri或iPhone控制支持HomeKit的设备.
 * [node-lox-mqtt-gateway](https://github.com/alladdin/node-lox-mqtt-gateway) -Loxone™微型服务器与MQTT代理进行通信的网关.
 * [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) -之间的桥梁 [SmartThings](https://www.smartthings.com/) 和MQTT.
@@ -330,7 +331,7 @@
 * [homely](https://github.com/baol/homely) -用于连接Domoticz和其他内容的Go守护程序的集合.
 * [kobold2mqtt](https://github.com/krambox/kobold2mqtt) -Vorwerk Kobold Vr200 Internet网关和MQTT之间的桥梁.
 * [leaf-python-mqtt](https://github.com/glynhudson/leaf-python-mqtt) -从Nissan Leaf API中提取数据并发布到MQTT.
-* [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) -将小米Mi Flora植物传感器数据发送到MQTT代理的Linux服务.
+* [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker.
 * [mqtt2ble](https://github.com/hardillb/mqtt2ble) -一种将MQTT主题桥接到BLE Gatt特性的方法.
 * [mqttclpro](https://github.com/dc297/mqttclpro) -具有Tasker集成Android应用程序的MQTT Client.
 * [mqttDB](https://github.com/hobbyquaker/mqttDB) -具有MQTT接口的JSON存储.

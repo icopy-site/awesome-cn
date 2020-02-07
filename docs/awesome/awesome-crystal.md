@@ -376,7 +376,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Science and Data analysis
  * [linalg](https://github.com/konovod/linalg) -受MATLAB和SciPy.linalg启发的线性代数库
  * [num.cr](https://github.com/crystal-data/num.cr) -支持N维数据的数值计算库
- * [predict.cr](https://github.com/RX14/predict.cr) -使用sgp4模型的卫星预测库
+ * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [stats](https://git.sceptique.eu/Sceptique/stats) -统计分布的表达方式
 
 ## Search
@@ -405,6 +405,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Kilt](https://github.com/jeromegn/kilt) -模板引擎的抽象层
  * [Slang](https://github.com/jeromegn/slang) -受Ruby Slim启发的轻巧，简洁的模板语言
  * [teeplate](https://github.com/mosop/teeplate) -用于渲染多个模板文件的库
+ * [Water](https://github.com/shootingfly/water) -用纯水晶编写HTML的库
 
 ## Testing
  * [crotest](https://github.com/emancu/crotest) -一个小巧而简单的测试框架
@@ -427,12 +428,12 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
- * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -领事API客户端
+ * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -客户端API领事
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) -包装 [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) -包装 [Github](https://github.com/) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) -星球大战API（SWAPI）包装器
  * [crystal_slack](https://github.com/manastech/crystal_slack) -解析Slack斜杠命令或发送传入的Web挂钩的工具
- * [discordcr](https://github.com/meew0/discordcr) - A minimalist Discord API library
+ * [discordcr](https://github.com/meew0/discordcr) -极简的Discord API库
  * [GDAX](https://github.com/mccallofthewild/gdax) -带有请求签名的GDAX REST和WebSocket API包装器
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) -GitLab API包装器
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) -Google Maps API

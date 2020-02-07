@@ -141,7 +141,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [BlazorServiceWorker](https://github.com/roboriaan/BlazorServiceWorker) -具有服务工作者缓存的客户端Blazor模板.
 * [Blazor Summernote](https://github.com/shawty/blazor.summernote) -新的MS Blazor框架的包装程序，允许以某种形式使用Summernote所见即所得的编辑器.
 * [Blazor Tree CRUD](https://github.com/ctrl-alt-d/TreeCrud)  -具有分层数据的CRUD操作.  Blazor服务器+ GraphQL + EF.
-* [Blazor.Universal](https://github.com/pushqrdx/Blazor.Universal) -使用Blazor无需WebAssembly来构建基于Xamarin的UWP应用程序的示例.
+* [Blazor.Universal](https://github.com/pushqrdx/Blazor.Universal) -使用Blazor在不使用WebAssembly的情况下构建基于Xamarin的UWP应用程序的示例.
 * [BlazorUnmarshalledCanvas](https://github.com/jhwcn/BlazorUnmarshalledCanvas) -从Blazor中无限制地调用Canvas 2d上下文.
 * [BlazorValidationControls](https://github.com/hishamco/BlazorValidationControls) -Blazor验证控件.
 * [Blazor + Electron sample](https://github.com/aspnet/AspLabs/tree/master/src/ComponentsElectron) -探索如何使用Blazor应用程序构建跨平台的桌面应用程序.
@@ -289,12 +289,13 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Blazor.AdaptiveCards](https://github.com/mikoskinen/Blazor.AdaptiveCards) -Blazor的自适应卡. [Documentation](https://adaptivecardsblazor.com/).
 
 ## Videos
+* [Blazor Tutorial : Register User & Generate JWT](https://www.youtube.com/watch?v=kGbdWtxFhRI) -2020年2月5日-Blazor教程：注册用户并生成JWT.
 * [How to use BlazorStyled with Blazor to dynamically change CSS](https://youtu.be/frtetHgfdIo) -2029年1月22日-我展示了如何为SSB安装BlazorStyled，以及如何构建ProgressBar和Sprite Component来完成简单的动画.
 * [Blazor Tutorial : HttpClient | Login User](https://www.youtube.com/watch?v=X6cBnOhaYhk&feature=youtu.be) -2020年1月21日-该视频介绍了我们如何在Blazor应用中使用HttpClient进行API调用以使用户登录到系统. [Source code](https://github.com/CuriousDrive/BlazorApp).
 * [Microsoft, Google and Cookie Authentication and Authorization](https://www.youtube.com/watch?v=v2OsI7qJdoc) -2020年1月15日-Microsoft的这段视频介绍了如何在Blazor应用程序中使用身份验证和授权.
 * [.NET Conf session: Blazor for Web Form and C# Developers](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Blazor-for-Web-Form-and-C-Developers) - January 14, 2020 - "Blazor for Web Form and C# Developers" by Jeff Fritz, session of the .NET Conf "Focus on Blazor". This session covers how you can use Blazor within your Web Form applications.
 * [.NET Conf session: Build Serverless Apps with Blazor](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Build-Serverless-Apps-with-Blazor)  -2020年1月14日-Daria Grigoriu和Fabio Cavalcante撰写的“使用Blazor构建无服务器应用程序”，.NET Conf“聚焦Blazor”会议.  本课程介绍如何构建无服务器Blazor应用程序.
-* [.NET Conf session: Scaling Blazor Server Apps with Azure](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Scaling-Blazor-Server-Apps-with-Azure)  -2020年1月14日-Ryan Nowak撰写的“使用Azure扩展Blazor Server应用程序”，.NET Conf“聚焦于Blazor”会议.  本课程介绍如何使用Azure扩展Blazor应用程序.
+* [.NET Conf session: Scaling Blazor Server Apps with Azure](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Scaling-Blazor-Server-Apps-with-Azure)  -2020年1月14日-Ryan Nowak撰写的“使用Azure扩展Blazor Server应用程序”，.NET Conf“聚焦Blazor”会议.  本课程介绍如何使用Azure扩展Blazor应用程序.
 * [.NET Conf session: Microsoft, Google and Cookie Authentication and Authorization](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Microsoft-Google-and-Cookie-Authentication-and-Authorization)  -2020年1月14日-Michael Washington的“ Microsoft，Google和Cookie身份验证和授权”，.NET Conf“聚焦于剃刀”会议.  本课程介绍如何在Blazor应用程序中使用身份验证和授权.
 * [.NET Conf session: Authoring Custom Components](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Authoring-Custom-Components)  -2020年1月14日-E​​d Charbeneau撰写的“创作自定义组件”，.NET Conf“聚焦于剃刀”会议.  本课程介绍如何创建自定义Blazor组件.
 * [.NET Conf session: Mobile Blazor Bindings - Using Blazor to build mobile apps](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Blazor/Mobile-Blazor-Bindings-Using-Blazor-to-build-mobile-apps)  -2020年1月14日-E​​ilon Lipton撰写的“移动Blazor绑定-使用Blazor构建移动应用程序”，.NET Conf“聚焦Blazor”会议.  本课程介绍如何使用Blazor构建出色的移动应用程序.
@@ -395,6 +396,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 
 
 ## Articles
+* [Mobile Blazor Bindings – Getting Started + Why You Should Care](https://www.dylanberry.com/2020/02/05/mobile-blazor-bindings-getting-started-why-you-should-care/) -2020年2月5日-移动Blazor绑定-入门+为什么要当心.
 * [Fragment Routing with Blazor](https://chrissainty.com/fragment-routing-with-blazor/) - February 4, 2020 - Fragment routing, or linking, is the term given when linking to a specific element on a page, say a header for example. This technique is often used in FAQ pages or technical documentation and links using this technique look like this, www.mysite.com/faq#some-header. This post covers how to do this with Blazor.
 * [Blazor WebAssembly, Monaco and Antlr – Building the AutoStep Editor as a Blazor App](https://alistairevans.co.uk/2020/02/03/blazor-webassembly-monaco-and-antlr-building-the-autostep-editor-as-a-blazor-app/) -2020年2月3日-Blazor WebAssembly，摩纳哥和Antlr –将AutoStep编辑器构建为Blazor应用程序.
 * [Reuse Blazor WASM UI in Blazor Server](http://www.appvnext.com/blog/2020/2/2/reuse-blazor-wasm-ui-in-blazor-server) -2020年2月2日-使用Steve Sanderson在NDC伦敦展示的技术在Blazor Server中重用Blazor WASM UI.
@@ -407,6 +409,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Blazor WebAssembly 3.2.0 Preview 1 release now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-1-release-now-available/) -2020年1月28日-Blazor WebAssembly 3.2.0 Preview 1现已发布.
 * [How to implement plug-in on C# Blazor for native JavaScript application](https://www.c-sharpcorner.com/article/how-to-implement-plug-in-on-c-sharp-blazor-for-native-javascript-application-open-ap/) - January 28, 2020 - How to implement plug-in on C# Blazor for native JavaScript application. Open API Scheme Diagram For Draw.io.
 * [Blazor by Example - Build a simple markdown editor](https://jonhilton.net/blazor-markdown-editor/) -2020年1月27日-以示例展示Blazor-建立简单的markdown编辑器.
+* [Suppressing Events in Blazor and ASP.NET Core Version 3.1](https://visualstudiomagazine.com/articles/2020/01/27/suppressing-events-blazor.aspx)  -2020年1月27日-ASP.NET Core 3.1版增加了一些用于管理Blazor中事件的新功能.  您可能会认为自己永远不需要它们，但是有时您会很高兴知道其中至少一个.
 * [Getting Started with Blazor Server Apps in Visual Studio for Mac](https://devblogs.microsoft.com/visualstudio/getting-started-with-blazor-server-apps-in-visual-studio-for-mac/) -2020年1月22日-Visual Studio for Mac中的Blazor服务器应用程序入门.
 * [Blazor's Future: gRPC Is Key](https://visualstudiomagazine.com/articles/2020/01/17/blazor-future.aspx) -2020年1月21日-《开拓者的未来：gRPC是关键》，由Visual Studio Magazine发行.
 * [Embedding Power BI in Blazor](http://blazorhelpwebsite.com/Blog/tabid/61/EntryId/4373/Embedding-Power-BI-in-Blazor.aspx)  -2020年1月21日-您可以将Power BI报表嵌入到服务器端Blazor应用程序中.  此方法使您可以显示Power BI报表，而无需用户具有Power BI帐户.
@@ -478,7 +481,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Introducing Blazor.Animate](https://mikaelkoskinen.net/post/blazor-animate-animation-component-for-blazor) -2019年11月4日-Blazor.Animate简介–轻松将动画添加到Blazor应用程序中.
 * [Building Blazor “Hello, Blinky” IoT application](https://gunnarpeipman.com/blazor-hello-blinky-iot/) -2019年11月3日-正在构建Blazor“ Hello，Blinky”物联网应用程序.
 * [Blazor Component Lifecycle Diagram](https://knowledge-base.havit.eu/2019/11/02/blazor-component-lifecycle-diagram/) -2019年11月2日-Blazor组件生命周期方法以及何时调用它们.
-* [Exploring lighter alternatives to Electron for hosting a Blazor desktop app](http://blog.stevensanderson.com/2019/11/01/exploring-lighter-alternatives-to-electron-for-hosting-a-blazor-desktop-app/) -2019年11月1日-探索由史蒂夫·桑德森（Steve Sanderson）托管的Blazor桌面应用程序的Electron轻巧替代品.
+* [Exploring lighter alternatives to Electron for hosting a Blazor desktop app](http://blog.stevensanderson.com/2019/11/01/exploring-lighter-alternatives-to-electron-for-hosting-a-blazor-desktop-app/) -2019年11月1日-探索由史蒂夫·桑德森（Steve Sanderson）托管的Blazor桌面应用程序的Electron替代品.
 * [A New Era of Productivity with Blazor](https://www.codemag.com/article/1911052) -2019年11月-埃德·夏本诺（Ed Charbeneau）为CODE杂志撰写的《开拓者的生产力新纪元》.
 * [One solution (setup) to rule them all](https://visionsincode.wordpress.com/2019/11/01/one-solution-setup-to-rule-them-all-blazor-webassembly-blazor-server-blazor-electron/) -2019年11月1日-一种解决方案（设置）将其全部统治-Blazor Webassembly，Blazor Server，Blazor Electron.
 * [Creating Charts with the Telerik Chart Component for Blazor](https://www.telerik.com/blogs/creating-charts-with-the-telerik-chart-component-for-blazor) -2019年10月31日-通过Telerik的Blazor Telerik图表组件创建图表.
@@ -534,7 +537,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Deploying a Server Side Blazor application to Azure](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4349/Deploying-A-Server-Side-Blazor-Application-To-Azure.aspx) -2019年8月3日-将服务器端Blazor应用程序部署到Azure.
 * [Using a Code-Behind Approach to Blazor Components](https://www.telerik.com/blogs/using-a-code-behind-approach-to-blazor-components) -2019年7月31日-在本文中，我们将研究在Blazor开发中使用代码后置何时会有所帮助，我们如何受益以及在重构现有组件时会有什么期望.
 * [Configuring Policy-based Authorization with Blazor](https://chrissainty.com/securing-your-blazor-apps-configuring-policy-based-authorization-with-blazor/) -2019年7月30日-克里斯·桑迪（Chris Sainty）撰写的“保护您的Blazor应用程序”系列的第4部分.
-* [Blazor Components - New Blazor Scheduler Control, Data Grid Enhancements and more (available in Beta #1)](https://community.devexpress.com/blogs/aspnet/archive/2019/07/29/blazor-components-new-blazor-scheduler-control-data-grid-enhancements-and-more-available-in-beta-1.aspx) -2019年7月29日-DevExpress Blazor UI组件的第一个beta版本包括一个新的Scheduler组件以及旨在改善我们Blazor产品线整体功能的众多增强功能.
+* [Blazor Components - New Blazor Scheduler Control, Data Grid Enhancements and more (available in Beta #1)](https://community.devexpress.com/blogs/aspnet/archive/2019/07/29/blazor-components-new-blazor-scheduler-control-data-grid-enhancements-and-more-available-in-beta-1.aspx) -2019年7月29日-DevExpress Blazor UI组件的第一个beta版包括一个新的Scheduler组件以及旨在改善我们Blazor产品线整体功能的众多增强功能.
 * [Authentication in server-side Blazor applications](https://gunnarpeipman.com/blazor/server-side-blazor-authentication/)  -2019年7月25日-发布了ASP.NET Core 3.0的Preview 6版本，其中一个有趣的新功能是对服务器端Blazor应用程序的身份验证和授权.  这篇博客文章介绍了当前完成的工作，并展示了身份验证如何与服务器端Blazor应用程序一起工作.
 * [ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 7](https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-preview-7/) -2019年7月23日-.NET Core 3.0预览版7中的ASP.NET Core和Blazor更新.
 * [Configuring Role-based Authorization with client-side Blazor](https://chrissainty.com/securing-your-blazor-apps-configuring-role-based-authorization-with-client-side-blazor/) -2019年7月23日-使用客户端Blazor配置基于角色的授权.

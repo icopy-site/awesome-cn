@@ -27,8 +27,8 @@
 * [Dlib](https://github.com/davisking/dlib)  ：zap：-使用契约式编程和现代C ++技术设计的通用跨平台C ++库.  [促进] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL)  -电子艺术标准模板库.  [BSD]
 * [ETL](https://github.com/ETLCPP/etl)  -嵌入式模板库.  [麻省理工学院]
-* [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. [Apache2]
-* [Folly](https://github.com/facebook/folly)  -在Facebook开发和使用的开源C ++库.  [Apache2]
+* [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp)  -企业应用程序开发框架.  [Apache2]
+* [Folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. [Apache2]
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus)  -C ++的功能编程库.  编写简洁易读的C ++代码.  [麻省理工学院]
 * [GLib](https://wiki.gnome.org/Projects/GLib) -GLib为用C编写的库和应用程序提供了核心应用程序构建块.[LGPL]
 * [JUCE](https://github.com/julianstorer/JUCE)  -全面的C ++类库，用于开发跨平台软件.  [核心模块：ISC，其余：GPL2 / GPL3 / Commercial] [website](http://www.juce.com/)
@@ -95,7 +95,7 @@
 * [Vorbis](http://xiph.org/vorbis/)  -Ogg Vorbis是一种完全开放的，非专有的，免专利和免专利费的通用压缩音频格式.  [BSD]
 * [minimp3](https://github.com/lieff/minimp3)  -具有净室实现的公共域，仅标头的MP3解码器.  [CC0]
 * [Verovio](https://github.com/rism-ch/verovio)  -Verovio是一个快速，轻便的音乐符号雕刻库.  [LGPL] [website](https://www.verovio.org)
-* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) -公共领域，一种完全用C ++编写的快速开源语音处理工具包，它使用ArrayFire张量库和手电筒机器学习库来实现最高效率[BSD]
+* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) -公共领域，一种完全用C ++编写的快速开源语音处理工具包，并使用ArrayFire张量库和手电筒机器学习库来实现最高效率[BSD]
 
 ## Biology
 *生物信息学，基因组学，生物技术*
@@ -117,7 +117,10 @@
 ## Chemistry
 *化学，地球化学，生物化学*
 
+* [d-SEAMS](https://github.com/d-SEAMS/seams-core)  -带有Nix的C ++和Lua中的分子动力学轨迹分析引擎.  它是分子模拟的递延结构阐明分析的首字母缩写.  [GPL] [website](https://dseams.info)
+* [gromacs](https://github.com/gromacs/gromacs)  -消息传递并行分子动力学实现.  [GPL] [website](http://gromacs.org)
 * [Reaktoro](https://github.com/reaktoro/reaktoro)  -C ++和Python中用于化学反应系统建模的计算框架.  [LGPL] [website](https://reaktoro.org)
+* [LAMMPS](https://github.com/lammps/lammps)  -侧重于材料建模的经典分子动力学代码.  它是大规模原子/分子大规模并行模拟器的首字母缩写.  [GPL] [website](https://lammps.sandia.gov/)
 
 ## CLI
 *控制台/终端用户界面，命令行界面*
@@ -210,7 +213,7 @@
 * [iniparser](https://github.com/ndevilla/iniparser)  -此解析器文件.  [麻省理工学院]
 * [libconfig](https://github.com/hyperrealm/libconfig)  -C，C ++库，用于处理结构化配置文件.  [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) -C的小型配置文件解析器库.[ISC]
-* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供了一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
+* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
 
 ## Containers
 
@@ -251,7 +254,7 @@
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)  -用于检测文件中SHA-1冲突的库和命令行工具.  [麻省理工学院]
 * [Tink](https://github.com/google/tink)  -多语言，跨平台的库，提供安全，易于正确使用且难以滥用的加密API.  [Apache-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) -C型小型便携式AES128 / 192/256.[PublicDomain]
-* [Themis](https://github.com/cossacklabs/themis)  -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有前向保密性的安全套接字.  [Apache2]
+* [Themis](https://github.com/cossacklabs/themis)  -加密库可实现无痛数据安全性，为移动和服务器平台提供对称和非对称加密，具有前向保密性的安全套接字.  [Apache2]
 
 ## CSV
 *用于解析逗号分隔值（CSV）文件的库*
@@ -278,7 +281,7 @@
 * [RocksDB](https://github.com/facebook/rocksdb)  -嵌入式键值存储，可从Facebook快速存储.  [BSD]
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) -高性能，共享内存，无锁，跨平台，单个文件，最小依赖性，C ++ 11键值存储[Apache2]
 * [SOCI](https://github.com/SOCI/soci)  -C ++的数据库抽象层.  [BSL-1.0]
-* [SQLite](http://www.sqlite.org/)  -完全嵌入的，功能全面的关系型数据库（只需几万个）就可以直接包含在项目中.  [公共区域]
+* [SQLite](http://www.sqlite.org/)  -完全嵌入的，功能全面的关系型数据库（只需几万个）就可以直接包含在您的项目中.  [公共区域]
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)  -SQLiteC ++（SQLiteCpp）是一个聪明且易于使用的C ++ SQLite3包装器.  [麻省理工学院]
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)  -围绕sqlite库的仅标头C ++ 14包装器.  [麻省理工学院]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm)  -适用于现代C ++的SQLite ORM light header only库.  [BSD-3-Clause]
@@ -334,14 +337,13 @@
 * [Acid](https://github.com/Equilibrium-Games/Acid)  -高速C ++ 17 Vulkan游戏引擎.  [麻省理工学院]
 * [Allegro](http://liballeg.org/)  -一个主要用于视频游戏和多媒体编程的跨平台库.  [zlib]
 * [Atomic Game Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - A multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript. [Commercial]
-* [Banshee 3D](https://github.com/BearishSun/BansheeEngine) - Modern C++14 game engine with Vulkan support, fully featured editor and C# scripting. [LGPL3/Commercial]
 * [Cocos2d-x](http://www.cocos2d-x.org/)  -用于构建2d游戏，交互式书籍，演示和其他图形应用程序的多平台框架.  [麻省理工学院]
 * [Corange](https://github.com/orangeduck/Corange)  -用纯C，SDL和OpenGL编写的游戏引擎.  [BSD]
 * [delta3d](http://sourceforge.net/projects/delta3d/)  -强大的仿真平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  -游戏符合现代C ++.  [麻省理工学院]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)  -跨平台的本机C ++游戏框架，用于创建2D / 3D移动和桌面游戏.  [Apache2]
 * [Godot](https://github.com/godotengine/godot)  -MIT许可的功能齐全的开源游戏引擎.  [麻省理工学院]
-* [Grit](http://www.gritengine.com/)  -社区项目，以构建一个免费游戏引擎来实施开放世界3D游戏.  [麻省理工学院]
+* [Grit](https://github.com/grit-engine/grit-engine)  -社区项目，以构建一个免费游戏引擎来实施开放世界3D游戏.  [麻省理工学院]
 * [Halley](https://github.com/amzeratul/halley)  -用C ++ 14编写的轻量级游戏引擎，带有“真实的”实体组件系统.  [Apache 2.0]
 * [KlayGE](https://github.com/gongminmin/KlayGE)  -具有基于插件的体系结构的跨平台开源游戏引擎.  [GPLv2] [website](http://www.klayge.org/)
 * [OpenXRay](https://github.com/OpenXRay/xray-16)  -STALKER游戏系列中使用的社区修改X射线引擎.  [修改后的BSD /仅限非商业用途]
@@ -367,7 +369,7 @@
 * [gtkmm](http://www.gtkmm.org/en/)  -流行的GUI库GTK +的官方C ++接口.  [LGPL]
 * [imgui](https://github.com/ocornut/imgui)  -具有最小依赖性的即时模式图形用户界面.  [麻省理工学院]
 * [iup](https://www.tecgraf.puc-rio.br/iup)  -用于构建图形用户界面的多平台工具包.  [麻省理工学院]
-* [libui](https://github.com/andlabs/libui)  -C中的简单和可移植（但不灵活）的GUI库，使用其支持的每个平台的本机GUI技术.  [麻省理工学院]
+* [libui](https://github.com/andlabs/libui)  -C中的简单且可移植（但不灵活）的GUI库，使用其支持的每个平台的本机GUI技术.  [麻省理工学院]
 * [MyGUI](http://mygui.info/)  -快速，灵活和简单的GUI.  [麻省理工学院]
 * [nana](http://nanapro.org/en-us/)  -Nana是用于现代C ++风格的GUI编程的跨平台库.  [促进]
 * [NanoGui](https://github.com/wjakob/nanogui)  -OpenGL 3.x或更高版本的简约跨平台窗口小部件库.  [BSD]
@@ -387,7 +389,7 @@
 * [Blend2D](https://github.com/blend2d/blend2d)  -由JIT编译器提供支持的2D矢量图形引擎.  [Zlib] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf)  -用于实时图形应用程序开发的现代C ++ 14库.  [麻省理工学院]
 * [Cairo](http://www.cairographics.org/)  -具有支持多个输出设备的2D图形库.  [LGPL2或Mozilla MPL]
-* [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)  -现代的跨平台低级3D图形库.  [Apache2]
+* [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level 3D graphics library. [Apache2]
 * [DirectXTK](https://github.com/Microsoft/DirectXTK)  -一组用于用C ++编写DirectX 11.x代码的帮助程序类.  [麻省理工学院]
 * [GLFW](https://github.com/glfw/glfw)  -一个简单的跨平台OpenGL争用库.  [zlib / libpng]
 * [herebedragons](https://github.com/kosua20/herebedragons)  -使用各种引擎，框架或API实现的基本3D场景.  [麻省理工学院] [website](http://simonrodriguez.fr/dragon/)
@@ -448,7 +450,7 @@
 ## Inter-process communication
 
 * [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Facebook. [Apache2]
-* [Cap'n Proto](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. [MIT] [website](https://capnproto.org/)
+* [Cap'n Proto](https://github.com/capnproto/capnproto)  -快速的数据交换格式和基于功能的RPC系统.  [麻省理工学院] [website](https://capnproto.org/)
 * [gRPC](https://github.com/grpc/grpc)  -高性能，开源，通用RPC框架.  [BSD] [website](http://www.grpc.io/)
 * [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. [GPLv2]
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp)  -用于C ++服务器和客户端的JSON-RPC框架.  [麻省理工学院]
@@ -473,7 +475,7 @@
 * [json.h](https://github.com/sheredom/json.h)  -在C和C ++中解析JSON的简单的单头/单源解决方案.  [无牌]
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间非常小的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间极低的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  -C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库.  支持C ++ 11.  无依赖关系，快速且对开发人员友好.  [Apache2]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
@@ -533,7 +535,7 @@
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code)  -用于线性代数和科学计算的快速C ++库.  [Apache2] [website](http://arma.sourceforge.net/)
 * [autodiff](https://github.com/autodiff/autodiff)  -用于自动区分的现代，快速且富有表现力的C ++库.  [麻省理工学院] [website](https://autodiff.github.io)
 * [blaze](https://bitbucket.org/blaze-lib/blaze)  -用于密集和稀疏算术的高性能C ++数学库.  [BSD]
-* [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. [Boost]
+* [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html)  -在C ++，仅标头或GMP / MPFR / LibTomMath后端中提供更高范围/精度的整数，有理数和浮点数类型.  [促进]
 * [ceres-solver](http://ceres-solver.org/)  -用于从Google建模和解决大型复杂的非线性最小二乘问题的C ++库.  [BSD]
 * [CGAL](https://github.com/CGAL/cgal)  -收集高效，可靠的几何算法.  [LGPL＆GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/)  -用于游戏和图形的免费C ++数学库.  [促进]
@@ -617,7 +619,7 @@
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C)  -适用于嵌入式系统和PC的便携式MQTT C客户端.  [麻省理工学院] [website](https://liambindle.ca/MQTT-C)
 * [mTCP](https://github.com/mtcp-stack/mtcp)  -用于多核系统的高度可扩展的用户级TCP堆栈.  [修改后的BSD]
 * [Muduo](https://github.com/chenshuo/muduo)  -Linux中用于多线程服务器的C ++非阻塞网络库.  [BSD]
-* [nghttp2](https://github.com/nghttp2/nghttp2) - HTTP/2 C Library. [MIT] [website](https://nghttp2.org/)
+* [nghttp2](https://github.com/nghttp2/nghttp2)  -HTTP / 2 C库.  [麻省理工学院] [website](https://nghttp2.org/)
 * [Onion](https://github.com/davidmoreno/onion)  -C语言中的HTTP服务器库设计为轻量级且易于使用.  [Apache2 / GPL2]
 * [PF_RING™](https://github.com/ntop/PF_RING)  -高速数据包处理框架.  [LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 * [PicoHTTPParser](https://github.com/h2o/picohttpparser)  -小型，原始，快速的HTTP请求/响应解析器.  [麻省理工学院]
@@ -655,7 +657,7 @@
 * [Chipmunk](https://github.com/slembcke/Chipmunk2D)  -快速，轻量的2D游戏物理库.  [麻省理工学院] [website](https://chipmunk-physics.net/)
 * [LiquidFun](https://github.com/google/liquidfun)  -游戏的2D物理引擎.  [类似BSD]
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics)  -用于物理环境实时仿真的集成解决方案.  [zlib]
-* [ODE](http://www.ode.org/)  -Open Dynamics Engine-一个开源的高性能库，用于模拟刚体动力学.  [BSD＆LGPL]
+* [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d)  -Box2D的openFrameworks包装器.  [类似BSD]
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)  -Nvidia作为Nvidia GameWorks软件套件的一部分开发的开源实时物理引擎中间件SDK.  [BSD-3-Clause] 
 * [Project Chrono](https://github.com/projectchrono/chrono)  -开源的多物理场仿真引擎.  [BSD-3-Clause] [website](https://projectchrono.org/)
@@ -738,7 +740,7 @@
 * [Bitsery](https://github.com/fraillt/bitsery)  -仅标头的C ++二进制序列化库.  [麻省理工学院] 
 * [Bond](https://github.com/Microsoft/bond)  -用于处理模式化数据的开源，跨平台框架.  [麻省理工学院]
 * [Boost.Serialization](https://www.boost.org/doc/libs/master/libs/serialization/doc/index.html)  -Boost序列化库.  [促进]
-* [Cap'n Proto](https://github.com/capnproto/capnproto) - Fast data interchange format and capability-based RPC system. [MIT] [website](https://capnproto.org/)
+* [Cap'n Proto](https://github.com/capnproto/capnproto)  -快速的数据交换格式和基于功能的RPC系统.  [麻省理工学院] [website](https://capnproto.org/)
 * [cereal](https://github.com/USCiLab/cereal)  -一个用于序列化的C ++ 11库.  [BSD]
 * [cppcodec](https://github.com/tplgy/cppcodec)  -仅标头的C ++ 11库，以一致，灵活的API编码/解码base64，base32和hex.  [麻省理工学院]
 * [FlatBuffers](https://github.com/google/flatbuffers)  -高效的内存序列化库.  [Apache2]
@@ -767,7 +769,7 @@
 
 ## Virtual Machines
 
-* [CarpVM](https://github.com/tekknolagi/carp)  -C语言中的“有趣” VM.让我们看看这是怎么回事.  [GPLv3]
+* [CarpVM](https://github.com/tekknolagi/carp)  -C语言中的“有趣” VM.  [GPLv3]
 * [MicroPython](https://github.com/micropython/micropython)  -旨在在微控制器上实现Python 3.x的实现.  [麻省理工学院]
 * [TinyVM](https://github.com/jakogut/tinyvm) -用纯ANSI C编写的小型，快速，轻巧的虚拟机.
 
@@ -807,7 +809,7 @@
 ## Miscellaneous
 *有用的库或工具不适合上述类别，或者可能尚未归类*
 
-* [access_profiler](https://github.com/arvidn/access_profiler)  -一种计算对c ++程序中成员变量的访问的工具.  [GPL3]
+* [access_profiler](https://github.com/arvidn/access_profiler)  -一种用于计算对c ++程序中成员变量的访问的工具.  [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在给定时间和最少示例输入的情况下自动发现错误.  [Apache2]
 * [Better String](http://bstring.sourceforge.net)  -替代C的字符串库，它的功能更强大，并且没有缓冲区溢出超限问题.  还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  -托管信号和时隙系统的实现.  [促进]
@@ -944,7 +946,7 @@
 ## Static Code Analysis
 *通过代码分析提高质量和减少缺陷的工具列表*
 
-* [Cppcheck](http://cppcheck.sourceforge.net/)  -用于静态C / C ++代码分析的工具.  -- [source](https://github.com/danmar/cppcheck)
+* [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck)
 * [CppDepend](https://www.cppdepend.com/) -通过分析和可视化代码依赖关系，定义设计规则，进行影响分析以及比较不同版本的代码，简化了复杂C / C ++代码库的管理.
 * [cpplint](https://github.com/cpplint/cpplint) -遵循Google C ++样式指南的C ++样式检查器.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.

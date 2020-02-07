@@ -63,7 +63,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 * [assimp](https://github.com/assimp/assimp) -便携式库，用于以统一的方式导入3D模型.
 * [Bullet](http://bulletphysics.org/wordpress) -提供最先进的碰撞检测，软体和刚体动力学.
-* [fltk](https://www.fltk.org/) -C ++工具包，可移植地生成UI小部件. [GPLv2](https://www.fltk.org/COPYING.php)
+* [fltk](https://www.fltk.org/) -C ++工具包，可移植地生成UI小部件. [LGPLv2](https://www.fltk.org/COPYING.php)
 * [freeGLUT](http://freeglut.sourceforge.net) -成熟的库，允许创建/管理包含OpenGL上下文的窗口.
 * [GLFW](http://www.glfw.org) -用于与OpenGL上下文创建/交互窗口的现代库.
 * [GLFM](https://github.com/brackeen/glfm) -为移动设备和Web提供OpenGL ES上下文和输入事件.
@@ -126,6 +126,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 * OpenGL教程网站*
 
+* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) 由** David Lettier **
 * [Learn OpenGL](https://learnopengl.com) 由** Joey de Vries **
 * [Learning Modern 3D Graphics Programming](https://bitbucket.org/alfonse/gltut/wiki/Home) 由** Jason L.McKesson **
 * [Light House 3D](http://www.lighthouse3d.com/tutorials/glsl-core-tutorial) 通过** Light House 3D **
