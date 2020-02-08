@@ -5,7 +5,16 @@
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**加入聊天 [t.me/sqaunderhood](https://t.me/sqaunderhood) 和 [subscribe](https://github.com/ligurio/awesome-software-quality/subscription) 接收更新通知.**
+**[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) 接收更新通知.**
+
+### Community
+
+<img src="https://raw.githubusercontent.com/ligurio/awesome-software-quality/master/sqaunderhood-logo.svg?sanitize=true" align="left" alt="sqaunderhood logo" width="100" style="padding: 10px;"/>
+
+-电报：https：//t.me/sqaunderhood
+-Twitter：https：//twitter.com/sqaunderhood
+-Facebook：https：//www.facebook.com/sqaunderhood/
+-VK：https：//vk.com/sqaunderhood
 
 ### Introduction
 
@@ -17,6 +26,8 @@
 
 ## Index
 
+* [Podcasts](https://github.com/ligurio/awesome-software-quality/wiki)
+*会议： [Software Testing Conferences](http://testingconferences.org/)
 
 
 ## Books
@@ -59,7 +70,7 @@
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) -杰森礼貌
 * [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) -理查德·恩德格伦（Richard Endgren）
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) -由Andreas Zeller，Rahul Gopinath，MarcelBöhme，Gordon Fraser和Christian Holler撰写
-* [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -Mauro Young（[slides](http://ix.cs.uoregon.edu/~michal/book/))
+* [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -Mauro Mezal Young（[slides](http://ix.cs.uoregon.edu/~michal/book/))
 * [Software Testing Glossary](https://testitquickly.com/2016/12/14/software-testing-glossary/)
 * [Quality Assistance](https://www.atlassian.com/inside-atlassian/quality-assurance-vs-quality-assistance) 和 [here](https://amaysim.engineering/from-quality-assurance-to-quality-assistance-32ffc990d27b) 和 for [youtube](https://youtu.be/9giJYYag6wQ)
 
@@ -356,14 +367,6 @@
 - [Verigames](http://verigames.com/)
 - [Edukera](https://www.edukera.com/)
 
-## Conferences
-
-* [Software Testing Conferences](http://testingconferences.org/)
-
-## Podcasts
-
-see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/podcasts.md)
-
 ## Bugs and Learned Lessons
 
 * [NASA Public Lessons Learned System](https://llis.nasa.gov/)
@@ -397,6 +400,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung)
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
+- [Awesome test automation frameworks, tools, libraries, and software for different programming languages](https://github.com/atinfo/awesome-test-automation)
 
 ### License
 

@@ -39,7 +39,7 @@
 * Appoid-http://appiod.com/submit-app-for-review/
 * appPicker-http://www.apppicker.com/
 * Apps 400-http://apps400.com/submit-your-application-for-review
-*应用列表-http://appslisto.com/submit-your-app/
+*应用程式清单-http://appslisto.com/submit-your-app/
 * Apps Mommy-http://appsmamma.com/submit-your-app/
 *应用程序镜像-http://www.appsmirror.com/submit-your-app-for-review
 * AppsNow-http://appsnow.us/submit-app-for-review/
@@ -58,6 +58,7 @@
 * Capterra-http://www.capterra.com/vendors/sign-up
 * CloudShowPlace-http://www.cloudshowplace.com/add-your-company/
 * Cnet-https://upload.cnet.com/
+* CodeCanyons-https://codecanyons.net
 * Collaborizm-https://www.collaborizm.com
 *关于创业公司的疯狂-http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk-https://vendor.crozdesk.com/user/signup
@@ -88,7 +89,6 @@
 *已启动-https://launched.io/SubmitStartup
 * MakeUseOf-http://www.makeuseof.com/about/
 * Maqtoob-https://maqtoob.com/submit-a-tool
-* Mevvy-https://mevvy.com/submit-app/
 *动员-https://www.moblized.com/vendors/register
 *网状-https://www.netted.net/contact-us/
 *下一大产品-http://nextbigproduct.net/product-submission/
@@ -125,7 +125,7 @@
 *启动集合-http://startupcollections.com/
 *启动涂料-http://startupdope.com/submit-news/
 * Startup Inspire-https://www.startupinspire.com/submit
-*启动升降机-http://www.startuplift.com/
+*启动电梯-http://www.startuplift.com/
 *创业排名-http://www.startupranking.com/
 *启动注册-http://startupregister.net/register-your-startup/
 *启动资源-https://startupresources.io
@@ -147,6 +147,7 @@
 * VB个人资料-http://vbprofiles.com/
 * Venture Beat-http://venturebeat.com/news-tips/
 * Web App评分器-http://www.webapprater.com/webapprater-free-app-review
+*网络范围-https://webwide.io/forums/project-showcase.15/
 * Ycombinator-https://news.ycombinator.com/
 * YouNoodle-https://ww2.younoodle.com/startups/
 
@@ -155,4 +156,4 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Matt McCaffrey](http://www.mattmccaffrey.com/) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Matt McCaffrey](http://www.mattmccaffrey.com/) 已放弃此作品的所有版权以及相关或邻近的权利.

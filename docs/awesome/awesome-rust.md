@@ -722,6 +722,7 @@
   * [whitfin/efflux](https://github.com/whitfin/efflux) — Rust中的Easy Hadoop Streaming和MapReduce接口.
 * Apache Kafka
   * [fede1024/rust-rdkafka](https://raw.githubusercontent.com/fede1024/rust-rdkafka) [[rdkafka](https://crates.io/crates/rdkafka)] — [librdkafka](https://raw.githubusercontent.com/edenhill/librdkafka) 绑定 [<img src="https://api.travis-ci.org/fede1024/rust-rdkafka.svg?branch=master">](https://travis-ci.org/fede1024/rust-rdkafka)
+  * [gklijs/schema_registry_converter](https://raw.githubusercontent.com/gklijs/schema_registry_converter) -与 [confluent schema registry](https://www.confluent.io/confluent-schema-registry/) [<img src="https://api.travis-ci.org/gklijs/schema_registry_converter.svg?branch=master">](https://travis-ci.org/gklijs/schema_registry_converter)
   * [spicavigo/kafka-rust](https://raw.githubusercontent.com/spicavigo/kafka-rust) — [<img src="https://api.travis-ci.org/spicavigo/kafka-rust.svg?branch=master">](https://travis-ci.org/spicavigo/kafka-rust)
 *投诉
   * [schickling/rust-beanstalkd](https://raw.githubusercontent.com/schickling/rust-beanstalkd) — [Beanstalkd](https://raw.githubusercontent.com/beanstalkd/beanstalkd) 绑定 [<img src="https://api.travis-ci.org/schickling/rust-beanstalkd.svg?branch=master">](https://travis-ci.org/schickling/rust-beanstalkd)

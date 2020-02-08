@@ -44,7 +44,7 @@
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) -添加流体上浆工具.
 - [Flexbox Order](https://github.com/035media/tailwindcss-flexbox-order) -扩展`order`实用程序.
 - [benface's gradients](https://github.com/benface/tailwindcss-gradients) -添加渐变实用程序.
-- [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) -添加背景渐变实用程序.
+- [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
 - [Alpha](https://github.com/bradlc/tailwindcss-alpha) -添加alpha颜色变体.
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) -添加基于Bootstrap表的表实用程序.
 - [Typography](https://github.com/benface/tailwindcss-typography) -添加排版工具.
@@ -62,6 +62,7 @@
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) -添加基于CSS类的“深色”变体.
+- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的类名，以获取边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式.
 
 &gt;-_以下这些插件提供的功能已在最新的Tailwind CSS版本中完全或部分实现.
 
@@ -94,7 +95,7 @@
 
 - [Tailwind CSS website](https://tailwindcss.com) -Tailwind CSS官方网站.
 - [Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss) -官方Tailwind CSS存储库.
-- [Tailwind UI](https://tailwindui.com) - Component library made with Tailwind CSS.
+- [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
 - [Discussion Repository](https://github.com/tailwindcss/discuss) -官方的Tailwind CSS存储库，用于讨论.
 - [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 - [Built With Tailwind](https://builtwithtailwind.com/) -使用Tailwind CSS构建的社区驱动的很棒的网站.
@@ -301,4 +302,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内， [NiftyCo](https://aniftyco.com) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [NiftyCo](https://aniftyco.com) 已放弃此作品的所有版权以及相关或邻近的权利.

@@ -87,16 +87,12 @@
 
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [Action to sync GitHub labels in the declarative way](https://github.com/micnncim/action-label-syncer)
-- [Run GitHub Actions Locally](https://github.com/nektos/act)
-- [Alternative (Python-based) for Running GitHub Actions Locally](https://github.com/systemslab/popper)
-- [Manage GitHub Action workflows and actions by cli](https://github.com/inextensodigital/actions/tree/master/github-workflow) -允许您编写脚本版本.
-- [GitHub Action Builder and Previewer](https://create-github-action.now.sh/)
 - [Add releases to GitHub](https://github.com/elgohr/Github-Release-Action)
 - [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action)
 - [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file)
 - [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release)
 - [GitHub Project Automation+](https://github.com/alex-page/github-project-automation-plus) -通过任何webhook事件使GitHub Project卡自动化.
-- [Run GitHub Actions Locally with a web interface. Supports new YAML syntax](https://github.com/phishy/wflow)
+- [Run GitHub Actions Locally with a web interface](https://github.com/phishy/wflow)
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
 - [Generate sequential build numbers for GitHub Actions](https://github.com/einaregilsson/build-number)
 - [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action)
@@ -111,19 +107,16 @@
 
 ### Collection of Actions
 
-- [Many linters and autofixers for various languages](https://github.com/bltavares/actions)
-- [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
 - [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
-- [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
+- [GitHub Actions for Yarn 1](https://github.com/Borales/actions-yarn)
+- [GitHub Actions for Yarn 2](https://github.com/sergioramos/yarn-actions)
 - [GitHub Actions for Golang](https://github.com/cedrickring/golang-action)
-- [Android Build and Emulator Actions](https://github.com/vgaidarji/android-github-actions)
 - [GitHub Actions for R and accompanying #rstats package](http://maxheld.de/ghactions/)
 - [GitHub Actions for WordPress](https://github.com/10up/actions-wordpress/)
 - [GitHub Actions for Composer](https://github.com/MilesChou/composer-action)
 - [GitHub Actions for Flutter](https://github.com/subosito/flutter-action)
 - [GitHub Actions for PHP](https://github.com/shivammathur/setup-php)
 - [GitHub Actions for Rust](https://github.com/actions-rs)
-- [GitHub Actions for Yarn - new syntax](https://github.com/sergioramos/yarn-actions)
 - [GitHub Actions for Android](https://github.com/Malinskiy/action-android)
 - [GitHub Actions for Logtalk and Prolog](https://github.com/logtalk-actions)
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
@@ -132,16 +125,7 @@
 
 ### Utility
 
-- [Sleep](https://github.com/maddox/actions/tree/master/sleep)
-- [Wait for 200](https://github.com/maddox/actions/tree/master/wait-for-200)
-- [Run Cake tasks](https://github.com/gep13/cake-actions)
-- [Run psake tasks](https://github.com/devblackops/psake-github-actions)
-- [SSH](https://github.com/maddox/actions/tree/master/ssh) -在服务器上运行SSH命令.
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) -使用其他SSH密钥运行`ssh-agent`以访问私有存储库.
-- [General purpose HTTP client for Actions, wrapping HTTPie](https://github.com/swinton/httpie-action)
-- [Run pandoc](https://github.com/maxheld83/pandoc) -瑞士军刀进行文件转换.
-- [Debug Action](https://github.com/hmarr/debug-action) -将环境变量和事件打印到“操作”日志中.
-- [Gate actions by filtering if files matching a pattern have been touched](https://github.com/cds-snc/github-actions/tree/master/touched)
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
@@ -179,9 +163,6 @@
 
 #### Dependencies
 
-- [Review the licenses of your node dependencies](https://github.com/cds-snc/github-actions/tree/master/node-license-checker)
-- [A GitHub Action to check your project's dependencies](https://github.com/iheanyi/licensed-action)
-- [Check if package.json dependencies have changed](https://github.com/bencooper222/check-for-node-dep-changes)
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
 
 #### Semantic Versioning
@@ -193,8 +174,6 @@
 
 ### Static Analysis
 
-- [PHPQA toolsuite Action](https://github.com/mickaelandrieu/phpqa-ga)
-- [PHP Psalm Static code analyzer Action](https://github.com/mickaelandrieu/psalm-ga)
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
@@ -202,8 +181,7 @@
 
 #### Testing
 
-- [Test your Actions Locally](https://github.com/tschoffelen/gha)
-- [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
+- [Snyk Test Action](https://github.com/snyk/actions)
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
 - [Run codeception tests](https://github.com/joelwmale/codeception-action)
@@ -215,14 +193,10 @@
 #### Linting
 
 - [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
-- [Lint a Dockerfile](https://github.com/jwr0/dockerfile-linter-action) （使用plicatedhq / dockerfilelint）
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
 - [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
-- [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)
-- [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
 - [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
-- [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
 - [Run `localheinz/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/localheinz/composer-normalize-action)
 - [Run Go lint checks on PR event](https://github.com/ArangoGutierrez/GoLinty-Action)
@@ -247,26 +221,21 @@
 
 #### Security
 
-- [NPM Audit](https://github.com/JasonEtco/npm-audit-fix-action)
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
 - [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)
-- [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
-- [Scan for secrets in your source code](https://github.com/cds-snc/github-actions/tree/master/seekret)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) -将AWS Secrets Manager机密定义为环境值.
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) -本身不是动作，而是用于在整个存储库列表中管理动作秘密的工具.
 
 #### Code Coverage
 
-- [Send your latest code coverage score to Coveralls.io](https://github.com/gavinhenderson/coveralls-action)
 - [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)
 - [Send your code coverage to codecov.io](https://github.com/codecov/codecov-action)
 - [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)
 
 ### Monitoring
 
-- [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/master/docker/github-action)
 - [Audit a webpage with Google Chrome's Lighthouse tests](https://github.com/jakejarvis/lighthouse-action)
 - [Runs Lighthouse and posts results to PRs and Slack](https://github.com/foo-software/lighthouse-check-action)
 - [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
@@ -276,16 +245,11 @@
 
 - [Set pull request reviewers based on assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Open or update pull request on branch push (with branch selection)](https://github.com/vsoch/pull-request-action)
-- [Post gif on check fail](https://github.com/jessfraz/shaking-finger-action)
-- [Cleanup branches after merge](https://github.com/jessfraz/branch-cleanup-action)
 - [Automatically rebase a PR](https://github.com/cirrus-actions/rebase)
-- [Evaluate Clojure in the issue comment](https://github.com/repetitive/actions/tree/master/clojure)
-- [Create Pull Request when branch is pushed](https://github.com/repetitive/actions/tree/master/auto-pull-request)
 - [Label pull request once it has a specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
 - [Add labels to Pull Request based on matched file patterns](https://github.com/banyan/auto-label)
 - [Auto approve pull requests](https://github.com/hmarr/auto-approve-action)
-- [Automatically add reviewers to pull request based on the configuration file](https://github.com/kentaro-m/auto-assign)
-- [Auto-commit back any changes made by previous actions](https://github.com/cds-snc/github-actions/tree/master/auto-commit)
+- [Automatically add reviewers to pull request based on the configuration file](https://github.com/kentaro-m/auto-assign-action)
 - [Add labels to Pull Request based on branch name patterns](https://github.com/TimonVS/pr-labeler-action)
 - [Add labels to Pull Request based on total size of the diff](https://github.com/pascalgn/size-label-action)
 - [Automatically merge Pull Requests that are ready](https://github.com/pascalgn/automerge-action)
@@ -306,32 +270,21 @@
 ### GitHub Pages
 
 - [Deploy a Zola site to GitHub Pages](https://github.com/shalzz/zola-deploy-action)
-- [Visualize your Dockerfile with a Container Tree](https://www.github.com/vsoch/containertree)
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 - [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) -以及其他schema.org提取器，可从GitHub页面中发现数据集.
-- [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) -没有建筑物，只有部署.
 - [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
 - [GitHub Action for Hexo](https://github.com/heowc/action-hexo)
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
 
 ### Notifications and Messages
 
-- [Confucious Wisdom (Pull Request Failure Message)](https://github.com/vsoch/confucious-actions)
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
-- [Send a Slack message](https://github.com/apex/actions/tree/master/slack)
 - [Post a Slack message as a bot](https://github.com/pullreminders/slack-action)
-- [Update Twitter status](https://github.com/xorilog/twitter-action)
-- [Generate Tweet content to share pull request file(s) after merge](https://github.com/vsoch/twitter-share-action/tree/master/pull_request_share)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
-- [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
-- [Send email on failed GitHub Checks](https://github.com/cirrus-actions/email)
-- [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
 - [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
-- [Send a Push Notification via Pushover.net](https://github.com/maddox/actions/tree/master/pushover)
-- [Send a dynamic notification to any service using Apprise](https://github.com/cstuder/apprise-ga)
 - [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action)
 - [Send email with SendGrid](https://github.com/peter-evans/sendgrid-action)
 - [Send a Push Notification via Join](https://github.com/ShaunLWM/action-join)
@@ -347,20 +300,11 @@
 - [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
 - [Deploy a playlist to Spotify](https://github.com/swinton/SpotHub)
 - [Deploy VS Code extensions with vsce](https://github.com/lannonbr/vsce-action)
-- [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
-- [Deploy via rsync over ssh](https://github.com/maxheld83/ghaction-rsync)
-- [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
 - [Purge Cloudflare cache after updating a website](https://github.com/jakejarvis/cloudflare-purge-action)
 - [Deploy your DNS configuration using DNS Control](https://github.com/koenrh/dnscontrol-action)
-- [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
-- [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
-- [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)
 - [Deploy a Theme to Shopify](https://github.com/pgrimaud/action-shopify)
 - [Trigger multiple GitLab CI Pipeline](https://github.com/appleboy/gitlab-ci-action)
 - [Trigger multiple Jenkins Jobs](https://github.com/appleboy/jenkins-action)
-- [GitHub Deployment API](https://github.com/unacast/actions/tree/master/github-deploy)
-- [GitHub Action for zem](https://github.com/artemnovichkov/action-zem)
-- [GitHub Action for Homebrew](https://github.com/artemnovichkov/action-homebrew)
 - [GitHub Action for Homebrew Tap](https://github.com/izumin5210/action-homebrew-tap)
 - [Copy files and artifacts via SSH](https://github.com/appleboy/scp-action)
 - [Executing remote ssh commands](https://github.com/appleboy/ssh-action)
@@ -396,9 +340,6 @@
 
 #### AWS
 
-- [Deploy a serverless app to AWS Lambda with Up](https://github.com/apex/actions/tree/master/up)
-- [Deploy serverless infrastructure with AWS SAM](https://github.com/apex/actions/tree/master/aws/sam)
-- [Deploy a Node.js function to AWS Lambda and invoke it using the Serverless framework](https://github.com/swinton/serverless)
 - [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
 - [Deploy Lambda code to an existing function](https://github.com/appleboy/lambda-action)
 
@@ -411,10 +352,7 @@
 ### External Services
 
 - [Use a Jenkinsfile](https://github.com/jonico/jenkinsfile-runner-github-actions)
-- [Configure a DNS Record on Cloudflare](https://github.com/xorilog/cloudflare-dns-action)
-- [Firebase](https://github.com/natemoo-re/action-firebase)
 - [GitHub Action for Firebase](https://github.com/w9jds/firebase-action)
-- [GitHub Action for JFrog CLI](https://github.com/retgits/actions/tree/master/jfrog-cli)
 - [GitHub Action for Contentful Migration CLI](https://github.com/Shy/contentful-action)
 - [GitHub Actions for Pixela (a-know/pi)](https://github.com/peaceiris/actions-pixela)
 - [GitHub Action for Google Cloud Platform (GCP)](https://github.com/exelban/gcloud)
@@ -426,16 +364,11 @@
 
 - [Execute Gradle task](https://github.com/MrRamych/gradle-actions)
 - [JS Build Actions](https://github.com/elstudio/actions-js-build) -运行Grunt或Gulp构建任务并提交文件更改.
-- [Ember CLI Actions](https://github.com/NuckChorris/ember-cli-actions)
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 - [Runs a WebPageTest audit and prints the results as commit comment](https://github.com/JCofman/webPagetestAction)
 - [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo)
 - [Generate OG Image](https://github.com/BoyWithSilverWings/generate-og-image) -从Markdown文件生成可自定义的打开图形图像.
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook)
-
-### Internet of Things (IOT)
-
-- [Home Assistant Command](https://github.com/maddox/actions/tree/master/home-assistant)
 
 ### Machine Learning Ops
 
@@ -456,11 +389,6 @@
 
 ## Tutorials
 
-- [Introducing GitHub Actions](https://css-tricks.com/introducing-github-actions/)
-- [Deploying to Firebase Hosting with GitHub Actions](https://natemoo.re/posts/action-firebase)
-- [Building GitHub Actions in Node.js](https://jasonet.co/posts/building-github-actions-in-node/)
-- [GitHub Actions on Android project](http://vgaidarji.me/blog/2019/01/27/github-actions)
-- [GitHub Actions for PHP Developers](https://stefanzweifel.io/posts/github-actions-for-php-developers/)
 - [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
 - [Converting Docker-based Actions to JavaScript/TypeScript](https://httgp.com/converting-github-actions-from-docker-to-javascript/)
 - [GitHub Actions CI for Swift/iOS Projects](https://medium.com/rosberryapps/github-actions-ci-for-swift-projects-c129baceed1a)

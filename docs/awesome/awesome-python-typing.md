@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="typeddjango/awesome-python-typing"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)
+## Awesome Python Typing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://img.shields.io/gitter/room/mypy-django/Lobby?color=9cf&style=flat-square)](https://gitter.im/mypy-django/Lobby)
 
 很棒的Python类型，存根，插件和与之配合使用的工具的集合.
 
@@ -32,6 +32,7 @@
 - [dry-python/returns](https://github.com/dry-python/returns) -存根 [returns](https://github.com/dry-python/returns).
 - [sqlalchemy-stubs](https://github.com/dropbox/sqlalchemy-stubs) -存根 [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy).
 - [grpc-stubs](https://github.com/shabbyrobe/grpc-stubs) -存根 [grpc](https://github.com/grpc/grpc).
+- [boto3-stubs](https://github.com/vemel/mypy_boto3_builder) -存根 [boto3](https://github.com/boto/boto3).
 - [PyQt5-stubs](https://github.com/stlehmann/PyQt5-stubs) -存根 [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
 - [ordered-set-stubs](https://github.com/rominf/ordered-set-stubs) -存根 [OrderedSet](https://github.com/LuminosoInsight/ordered-set).
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) -存根 [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
@@ -62,7 +63,7 @@
 
 ### Working with types
 
-- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数和返回值的运行时类型，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的Python代码中.
+- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数的运行时类型和返回值，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到您的Python代码中.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) -pytype工具链的一部分，将存根文件应用于源代码.
 - [retype](https://github.com/ambv/retype) -另一个将存根应用于代码的工具.
 - [mypy-protobuf](https://github.com/dropbox/mypy-protobuf) -从protobuf生成mypy存根的工具.
