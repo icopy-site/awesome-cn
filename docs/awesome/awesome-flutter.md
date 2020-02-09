@@ -95,7 +95,6 @@
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) [182]-[北印度文/英文] Mtechviral系列作者 [Pawan Kumar](https://github.com/iampawan).
 - [Flutter in Practice](https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN) -面向初学者和非程序员的免费视频课程 [Zaiste](https://zaiste.net/).
 - [Whatsupcoders](https://www.youtube.com/c/whatsupcoders) [83]-关于Flutter Widgets的免费视频系列 [Kamal](https://github.com/whatsupcoders).
-- [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 
 
 ## Components
@@ -142,7 +141,7 @@
 #### Drawers
 
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [125⭐]-漂亮的抽屉模式菜单功能，带有透视动画 [Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec).
-- [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) [118⭐]-创建内部抽屉（左/右）的简单方法，您可以在其中输入列表菜单或其他 [Di Natale Antonino](https://github.com/Dn-a).
+- [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) [118⭐]-创建内部抽屉（左/右）的简便方法，您可以在其中输入列表菜单或其他 [Di Natale Antonino](https://github.com/Dn-a).
 
 #### Bottom bars
 
@@ -192,7 +191,7 @@
 
 #### Calendar
 
-- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) [104⭐]-日历小部件 [David Bennett](https://github.com/pinkfish).
+- [Calendar Widget](https://github.com/pinkfish/flutter_calendar) [104⭐] - Calendar widget by [David Bennett](https://github.com/pinkfish).
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> -日历轮播 [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Date range picker](https://github.com/anicdh/date_range_picker) <!-- stargazers:anicdh/date_range_picker--> -基于Flutter日期选择器修改的日期范围选择器 [An Doan](https://github.com/anicdh)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) [431⭐]-日历整齐地组织成一个表格，并通过 [Aleksander Woźniak](https://github.com/aleksanderwozniak).
@@ -242,7 +241,7 @@
 
 ### Navigation
 
-- [Fluro](https://github.com/goposse/fluro) [2115⭐] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com).
+- [Fluro](https://github.com/goposse/fluro) [2115⭐]-Flutter最亮，最时髦，最酷的路由器，具有导航，通配符，查询，转换 [Posse](http://goposse.com).
 - [PageView Indicator](https://github.com/leocavalcante/page_view_indicator) [81⭐]-通过以下方式为PageView构建页面指示器 [Leo Cavalcante](https://github.com/leocavalcante).
 - [Swiper](https://github.com/jzoom/flutter_swiper) [40⭐]-水平，垂直，局部滑动，指示符为 [Xueliang Ren](https://github.com/jzoom).
 - [Deep Link Navigation](https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation) [9⭐]-优雅的抽象，用于通过Flutter实现完整的深层链接导航 [Dennis Krasnov](https://denniskrasnov.com).
@@ -453,7 +452,7 @@
 - [Built redux](https://github.com/davidmarne/flutter_built_redux)  [76⭐]-自动订阅您的redux商店.  基于构建的模式 [David Marne](https://github.com/davidmarne).
 - [Redux.dart](https://github.com/johnpryan/redux.dart) [370⭐]-Redux移植到Dart的中间件生态系统，Flutter集成和时差开发工具 [John Ryan](https://github.com/johnpryan) 和 [Brian Egan](https://gitlab.com/users/brianegan/projects).
 - [Redux](https://github.com/brianegan/flutter_redux) [1156⭐]-专为与 [redux.dart](https://github.com/johnpryan/redux.dart)，这些实用程序可让您轻松使用Redux Store来构建Widget.
-- [Inject](https://github.com/google/inject.dart) [626⭐]-Google的编译时依赖注入.
+- [Inject](https://github.com/google/inject.dart) [626⭐] - Compile-time dependency injection by Google.
 - [Flux](https://github.com/google/flutter_flux) [336⭐]-Google实施Flux框架.
 - [Fish](https://github.com/alibaba/fish-redux) [5949⭐]-阿里巴巴Redux实现.
 - [Async Redux](https://pub.dev/packages/async_redux)  [93⭐]-不带样板的Redux.  允许同步和异步减少器 [Marcelo Glasberg](https://github.com/marcglasberg/).

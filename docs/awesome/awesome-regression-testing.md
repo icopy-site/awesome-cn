@@ -51,7 +51,7 @@
 - [Hardy](https://github.com/thingsinjars/Hardy) -硒驱动，黄瓜驱动的CSS测试.
 - [TestCafe](https://github.com/DevExpress/testcafe) -针对现代Web开发堆栈的自动化浏览器测试.
 - [Needle](https://github.com/python-needle/needle) -Needle是使用Selenium和鼻子测试视觉效果的工具（Python）.
-- [gatling](https://github.com/gabrielrotbart/gatling) -集成的可视RSpec匹配器，使真正的可视测试变得容易（Ruby）.
+- [gatling](https://github.com/gabrielrotbart/gatling) -集成的可视化RSpec匹配器，使真正的可视化测试变得容易（Ruby）.
 - [grunt-photobox](https://github.com/stefanjudis/grunt-photobox) -插件可通过网站的屏幕快照会话防止项目布局出现问题.
 - [vrtest](https://github.com/nathanmarks/vrtest) -JavaScript库，用于通过硒跨浏览器在组件上运行视觉回归测试.
 - [Happo](https://github.com/Galooshi/happo) -CI在用户界面中的视觉差异.
@@ -75,6 +75,7 @@
 - [Protractor](https://github.com/angular/protractor) -Angular应用的E2E测试框架.
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) -使用Jest和puppeteer对React组件进行视觉回归测试
 - [test-crawler](https://github.com/apiel/test-crawler) -通过爬网网站并提供快照比较报告来进行视觉回归测试.
+- [wdio-visual-regression](https://github.com/ennjin/wdio-visual-regression) -webdriver.io的视觉回归工具
 
 ## Online services
 

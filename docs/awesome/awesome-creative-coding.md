@@ -3,9 +3,9 @@
 ## Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-&gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要面向初学者/中级的资源.
+&gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要用于初学者/中级的资源.
 
- 创意编码是与编程系统不同的学科.  我们的目标是创建具有表现力的东西，而不是功能性的东西.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表示为代码的艺术品.
+ 创意编码是与编程系统不同的学科.  目标是创建某种表达方式，而不是功能.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表达为编码的艺术品.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在捐款之前.*
 
@@ -36,7 +36,7 @@
 - [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) -了解如何使用现代技术在不到一秒钟的时间内生成合成三维图像.
 - [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) -概述着色器编程，但主要关注GLSL着色语言.
 - [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -使用OpenGL启动3d编程的实用指南.
-- [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) -教JavaScript程序员如何将真实的物理方法融入其HTML5游戏，动画和模拟中.
+- [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) -教JavaScript程序员如何将真实的物理方法融入他们的HTML5游戏，动画和模拟中.
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) -本书教您解决代码中的数学问题.
 
 ## Online Books
@@ -56,6 +56,7 @@
 - [On Generative Algorithms](http://inconvergent.net/generative/) -有关通过示例和Python代码生成各种有机模式的说明，作者是Anders Hoff.
 - [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) -光线跟踪和光栅化教科书，教您OpenGL和DirectX的工作方式.
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) -一本免费的书，适合您真正需要做贝塞尔（Bézier）事情的人使用.
+- [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners) -实时着色技术的逐步指南.
 
 ## Courses
 
@@ -69,7 +70,7 @@
 - [Imaginary Institute](https://imaginary-institute.com/) -了解如何创建精美的交互式图形.
 - [Future Learn: Creative Coding](https://www.futurelearn.com/courses/creative-coding) -将计算机编程作为一种创造性学科来生成声音，图像，动画等.
 - [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) -使用JavaScript和ProcessingJS库创建图形和动画.
-- [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) -结合JS，ProcessingJS和数学概念来模拟程序中的自然
+- [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) -结合JS，ProcessingJS和数学概念以在程序中模拟自然
 - [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) -了解如何使用Processing阅读，映射和说明数据.
 - [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) -加入Processing领域的信息设计师Nicholas Felton.
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) -加入Nicholas Felton，获取有关数据可视化的智能，全面且启发性的介绍.
@@ -87,8 +88,8 @@
 - [C4](http://www.c4ios.com) [iOS]-适用于iOS的开源广告素材编码框架.
 - [Unity](https://unity3d.com/) [Mac，Win]-游戏引擎，但对创意编码和安装很有用.
 - [PlayCanvas](https://playcanvas.com/) [跨平台]-开源，实时协作WebGL引擎.
-- [hg_sdf](http://mercury.sexy/hg_sdf/) [跨平台]-用于构建带符号距离函数的GLSL库.
-- [HYPE](http://www.hypeframework.org/) [跨平台]-HYPE_processing是一组类的集合，这些类在执行最繁琐的工作的同时，使用最少的代码编写量.
+- [hg_sdf](http://mercury.sexy/hg_sdf/) [跨平台]-GLSL库，用于构建带符号的距离函数.
+- [HYPE](http://www.hypeframework.org/) [跨平台]-HYPE_processing是一组类的集合，这些类执行繁重的工作，同时使用最少的代码编写量.
 - [nannou](http://nannou.cc/)
 [跨平台]-Rust语言的开源创意编码框架
 - [thi.ng](http://thi.ng/)
@@ -100,14 +101,14 @@
 
 ### Visual Programming Languages
 
-- [vvvv](https://vvvv.org/) [Win]-混合可视/文本实时编程环境，可轻松进行原型开发.
+- [vvvv](https://vvvv.org/) [Win]-混合的可视/文本实时编程环境，可轻松进行原型开发.
 - [NodeBox](https://www.nodebox.net/node/) [Mac，Win]-跨平台，基于节点的GUI，可进行有效的数据可视化和生成设计.
 - [TouchDesigner](http://www.derivative.ca/) [Mac，Win]-创建实时项目的可视化开发平台.
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac]-用于处理和呈现图形数据的开发工具.
 - [Vuo](http://vuo.org/) [Mac]-实时互动媒体编程环境.
 - [Max](https://cycling74.com/products/max/) [Mac，Win]-媒体的可视编程语言.
 - [Pure Data](https://puredata.info/) [跨平台]-多媒体的开源可视化编程语言.
-- [i-score](http://www.i-score.org) [跨平台]-用于控制创意编码库和工具包的交互式定序器.
+- [i-score](http://www.i-score.org) [跨平台]-交互式音序器，用于控制创意编码库和工具包.
 - [tooll](http://tooll.io/) [Win]-用于创建交互式3d内容和动画的开源工具.
 - [XOD](https://xod.io/) [跨平台]-用于基于微控制器的项目的开源可视化编程语言和环境.
 - [Isadora](https://troikatronix.com) [跨平台]-具有集成投影映射器的基于场景的媒体控制软件.
@@ -129,11 +130,11 @@
 - [three.js](https://github.com/mrdoob/three.js/) -JavaScript 3D库.
 - [regl](https://github.com/regl-project/regl) -功能性WebGL.
 - [Stackgl](http://stack.gl/) -用于WebGL的开放软件生态系统，建立在browserify和npm之上.
-- [Paper.js](http://paperjs.org/) -矢量图形脚本的瑞士军刀.
+- [Paper.js](http://paperjs.org/) -矢量图形脚本编写的瑞士军刀.
 - [Pixi.js](http://www.pixijs.com/) -HTML 5 2D渲染引擎，将webGL与画布后备一起使用.
 - [p5.js](https://p5js.org/) -以“处理”的原始目标开始的JavaScript库.
 - [Pts.js](https://ptsjs.org/) -用于可视化和广告素材编码的JavaScript库.
-- [Fabric.js](http://fabricjs.com/) -Javascript画布库，SVG到画布解析器.
+- [Fabric.js](http://fabricjs.com/) -Javascript画布库，SVG到画布的解析器.
 - [Maker.js](https://maker.js.org) -SVG，CNC和激光切割机的参数线图.
 - [OpenJSCAD](https://openjscad.org) -JavaScript中的编程3D建模.
 - [Sketch.js](http://soulwire.github.io/sketch.js/) -最小的JavaScript广告素材编码框架.
@@ -150,7 +151,7 @@
 
 ### Projection Mapping • VJing
 
-- [MadMapper](http://www.madmapper.com/) [Mac]-视频映射投影和光照映射.
+- [MadMapper](http://www.madmapper.com/) [Mac] - Video mapping projections and Light mapping.
 - [VDMX](https://vidvox.net/) [Mac]-实时多媒体性能应用程序.
 - [Modul8](http://www.modul8.ch/) [Mac]-实时视频混合和合成.
 - [Resolume](https://resolume.com/) [Mac，Win]-实时混合数字视频和效果.
@@ -163,7 +164,7 @@
 
 ### Online
 
-- [Shadertoy](https://www.shadertoy.com/) -与世界建立和共享着色器并获得启发.
+- [Shadertoy](https://www.shadertoy.com/) -与世界建立并分享着色器并获得启发.
 - [GLSLbin](http://glslb.in/) -支持glslify的片段着色器沙箱.
 - [GLSL Sandbox](http://glslsandbox.com/) -在线着色器编辑器和图库.
 - [Shdr Editor](http://shdr.bkcore.com/) -在线着色器编辑器.
@@ -225,18 +226,18 @@
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) -有关顶点着色器的YouTube播放列表.
 - [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) -YouTube播放列表深入到three.js.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) -YouTube播放列表，教您如何制作着色器，从使用着色器的零知识开始.
-- [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) -Greg Tatum的WebGL闪电介绍.
+- [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) -Greg Tatum的WebGL闪电简介.
 
 ### Talks
 
 - [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) -使用three.js简介WebGL.
-- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) -ÍñigoQuílez收集现场编码视频.
+- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) -ÍñigoQuílez收集了现场编码视频.
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -Bruno Imbrizi在WebExpo 2016上通过画布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) -滑过 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者工作室.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - Beginners tutorial series about creating 3D games OpenG.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
-- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -史蒂文·维滕斯（Steven Wittens）谈论WebGL，GPU和数学.
+- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -Matt DesLauriers的FITC谈谈他对艺术创作的热情.
 
@@ -248,20 +249,20 @@
 - [Introduction to shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) -使用threejs的着色器简介的第1部分.
 - [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) -从创意编码器的角度介绍three.js.
 - [Experimenting with Three.js shaders and the ShaderMaterial](http://blog.2pha.com/experimenting-threejs-shaders-and-shadermaterial) -自定义网格着色器材料介绍.
-- [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) -在lwjgl-basics上下文中的着色器教程.
+- [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) -在lwjgl-basics基础上的着色器教程.
 - [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) -着色器入门.
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) -上一部分的第二部分.
 - [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) -片段着色器的简要介绍.
 - [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) -在ThreeJS中使用自定义顶点和片段着色器.
 - [ThreeJS post-proces example](https://github.com/Jam3/threejs-post-process-example) -ThreeJS中的后处理效果示例.
-- [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) -光线跟踪简介.
+- [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) -射线追踪简介.
 - [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) -创建3D图像的简单方法.
 - [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) -带有glslify的Phong着色教程.
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) -有关如何在glslify中使用three.js的示例.
 - [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) -Greg Tatum使用Regl解释了WebGL的基础.
 - [FBO particles](http://barradeau.com/blog/?p=621) -@nicoptere撰写的有关FBO / GPGPU粒子的文章.
 - [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) -@nicoptere撰写的有关使用Three.js进行光线行进的文章.
-- [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) -在three.js中介绍自定义着色器，制服，纹理和照明.
+- [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) -在three.js中介绍了自定义着色器，制服，纹理和照明.
 - [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) -现代OpenGL简介的第一部分.
 - [Modern OpenGL Series](https://github.com/tomdalling/opengl-series) -很好地介绍了一些OpenGL术语.
 - [Smooth minimum](http://iquilezles.org/www/articles/smin/smin.htm) -关于基于平滑的原始联合的文章.
@@ -327,7 +328,7 @@
 - [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) -Shadertoy raymarch教程.
 - [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) -Shadertoy GLSL 2D教程.
 - [Bubble Breakdown](http://mrl.nyu.edu/~perlin/bubble_breakdown/) -着色器由Perlin分解.
-- [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) -互动式着色器玩具，用于编写光线行进器.
+- [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) -关于编写光线行进器的交互式着色器玩具.
 - [Raymarching](https://www.shadertoy.com/view/4dSfRc) -交互式Shader-Toy raymarching教程.
 
 
@@ -335,11 +336,11 @@
 
 - [Shaderific GLSL](http://www.shaderific.com/glsl/) -OpenGL ES着色语言参考.
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) -按主题划分的着色器词汇表.
-- [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) - OpenGL 3D programming glossary.
+- [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) -OpenGL 3D编程术语表.
 - [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) -快速直观的画布备忘单.
 - [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) -WebGL 1.0 API参考卡.
 - [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) -有关计算机图形学的术语表.
-- [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) -OpenGL着色语言快速参考指南.
+- [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) -OpenGL阴影语言快速参考指南.
 - [3D Maths Cheat Sheet](http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf) -Anton Gerdelan的数学速查表，摘自他的OpenGL书.
 - [docs.GL](http://docs.gl/) -改进了官方OpenGL文档.
 - [OpenGL Shading Language](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language) -Khronos Group GLSL Wiki.
@@ -348,7 +349,7 @@
 - [The newbie's PBR Cheat Sheet](https://www.artstation.com/artwork/YeBr3) -关于PBR的简短视觉效果概述.
 - [PixelSpirit](http://pixelspiritdeck.com/) -塔罗牌背面的GLSL库，供学习和参考.
 - [Procedural Patterns And Noises](http://www.neilblevins.com/cg_education/procedural_noise/procedural_noise.html) -收集程序模式和程序噪音.
-- [Three.js Reference](https://www.udacity.com/wiki/cs291/threejs-reference) -Udacity Interactive 3D Graphics课程的参考.
+- [Three.js Reference](https://www.udacity.com/wiki/cs291/threejs-reference) -Udacity交互式3D图形课程的参考.
 - [Visual Noises](https://ramesaliyev.com/visual-noises/) -可视化一维和二维噪声算法.
 - [Trigonoparty](https://ramesaliyev.com/trigonoparty/) -简单的三角可视化.
 
@@ -357,7 +358,7 @@
 
 ### Subreddits
 
-- [r/creativecoding](https://www.reddit.com/r/creativecoding/) -分享和讨论将计算机编程作为一门创新学科.
+- [r/creativecoding](https://www.reddit.com/r/creativecoding/) -分享和讨论将计算机编程用作创新学科.
 - [r/raytraycing](https://www.reddit.com/r/raytracing/) -光线追踪子网.
 - [r/opengl](https://www.reddit.com/r/opengl/) -在所有平台上有关OpenGL的新闻和讨论.
 - [r/graphicsprogramming](https://www.reddit.com/r/GraphicsProgramming/) -关于图形编程的修订.
@@ -379,7 +380,7 @@
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) -Iain和Seb讨论了创意编码的来龙去脉.
 - [realtimevfx.com](https://realtimevfx.com/) -实时VFX社区.
 - [Data Stories](http://datastori.es/) -关于数据可视化的播客.
-- [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) -大量与着色器和数学相关的资源.
+- [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) -大量的着色器和数学相关资源.
 - [Pass The Pen](https://spectrum.chat/codepen/pass-the-pen/) -前端开发人员社区，他们在CodePen上构建协作式创意编码项目.
 
 
@@ -399,8 +400,8 @@
 - [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) -正弦和余弦的交互爆炸.
 - [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) -详细介绍了Perlin噪音.
 - [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) -从计算机图形学角度来看矢量代数和矩阵代数的教程.
-- [Desmos](https://www.desmos.com/) -图形功能，绘图数据，评估方程式，探索变换等.
-- [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) -游戏开发者YouTube播放列表的数学运算.
+- [Desmos](https://www.desmos.com/) -图形功能，绘制数据，评估方程式，探索变换等.
+- [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - Math for game developers YouTube playlist.
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) -线性代数YouTube播放列表的实质.
 - [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) -有关动画数学的幻灯片（[repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
 - [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) -对数学和准物理的美观直观介绍.
@@ -410,11 +411,11 @@
 - [The magnificent 2d matrix](http://ncase.me/matrix/) -交互式工具，可以更好地理解变换矩阵.
 - [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) -用于运动的JavaScript数学片段.
 - [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) -适用于2D和3D游戏制作者的数学备忘单.
-- [Tiny 3D](https://cantelope.org/tiny_3D/) -在2D画布上最小的透视引擎.
+- [Tiny 3D](https://cantelope.org/tiny_3D/) -2D画布上最小的透视引擎.
 - [Matrices for Creative Coding](https://www.youtube.com/watch?v=4k9wTfxfkJU&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2) -格雷格·塔图姆（Greg Tatum）介绍的矩阵.
 - [Making Things With Maths](https://acko.net/tv/wdcode/) -Steven Wittens谈论贝塞尔曲线，程序生成，物理引擎和分形.
 - [MyPhysicsLab](https://www.myphysicslab.com/) -具有公式和代码的交互式实时物理模拟.
-- [Intuitive Math](https://intuitive-math.club/) -对线性代数和几何等字段的说明旨在帮助您对所发生的事情形成直观的感觉.
+- [Intuitive Math](https://intuitive-math.club/) -对线性代数和几何等字段的说明旨在帮助您对正在发生的事情形成直观的感觉.
 - [L-systems](https://github.com/arendsee/lsystems) -用于L系统的Haskell软件包.
 - [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) -线性插值介绍（也称为混合/倍率）.
 - [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) -有关游戏数学向量的深入文章.
@@ -438,26 +439,26 @@
 - [Model Zoo](https://modelzoo.co/) -探索开源深度学习代码和预训练的模型.
 - [Runway](https://runwayapp.ai/) -向设计和创意平台添加人工智能功能的工具包.
 - [Lobe](https://lobe.ai/) -使用简单的视觉界面构建，训练和运送自定义深度学习模型.
-- [ModelDepot](https://modeldepot.io/) -用于发现，共享和讨论易于使用和经过预训练的机器学习模型的平台.
+- [ModelDepot](https://modeldepot.io/) -用于发现，共享和讨论易于使用且经过预训练的机器学习模型的平台.
 
 ## Inspiration
 
 - [OpenProcessing](https://www.openprocessing.org/) -使用Processing，p5js和processingjs创建的算法设计.
 - [Dwitter](https://www.dwitter.net/) -简短的JavaScript演示的社交网络.
 - [Chrome Experiments](https://www.chromeexperiments.com/) -由创意编码社区编写的网络实验展示.
-- [Codedoodl.es](http://codedoodl.es/) -展示策划的创意编码草图.
+- [Codedoodl.es](http://codedoodl.es/) -策划的创意编码草图展示.
 - [For your Processing](http://fyprocessing.tumblr.com/) -有关处理的项目和教程.
 - [Art From Code](http://www.artfromcode.com/) -Keith Peters编写的代码草图.
 - [Generator.x](https://www.flickr.com/groups/generatorx/) -有关艺术与设计生成策略的Flickr小组.
 - [Generative Art](https://www.flickr.com/groups/generativeart/) -关于生成艺术的Flickr小组.
-- [Inspiring Online](https://inspiring.online) -有关在线启发和创意作品的开源微博客.
-- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) -有趣的人名单，值得关注.
+- [Inspiring Online](https://inspiring.online) -在线发布有关启发和创意作品的开源微博客.
+- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) -值得关注的有趣人物列表.
 - [Raven Kwok](https://ravenkwok.tumblr.com/) -视觉艺术家Raven Kwok的Tumblr.
 - [P5Art](http://p5art.tumblr.com/) -处理中的实验非常好.
 - [Echophon](http://echophon.tumblr.com/) -具有视觉灵感的Tumblr.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) -戴夫（Dave）提供的gif的Tumblr.
-- [DevArt](https://devart.withgoogle.com/) -通过艺术家的代码进行艺术创作，以推动创造力的发展.
-- [Folds2d](http://folds2d.tumblr.com/) -具有曲线，曲面，标量和矢量场的Tumblr.
+- [DevArt](https://devart.withgoogle.com/) -通过艺术家的代码庆祝艺术，推动创造力的发展.
+- [Folds2d](http://folds2d.tumblr.com/) -带有曲线，曲面，标量和矢量场的Tumblr.
 - [W:BLUT Inspiration](http://inspiration.wblut.com/) -通过W：Blut收集gif，链接和图像.
 
 
@@ -467,24 +468,24 @@
 - [Resonate](http://resonate.io/) -在贝尔格莱德（Belgrade）从事有关前沿音乐，视觉艺术和数字文化的活动.
 - [Gray Area Festival](http://grayareafestival.io/) -创意编码，艺术和技术节.
 - [Signal Festival](http://www.signalfestival.com/) -在捷克共和国布拉格展示轻艺术和新兴技术.
-- [Eyeo Festival](http://eyeofestival.com/) -将在数据，艺术和技术的交汇处工作的创意编码人员，数据设计师和创作者聚集在一起.
-- [Mutek](http://www.mutek.org/en) -致力于声音，音乐和视听艺术中的数字创意的组织.
+- [Eyeo Festival](http://eyeofestival.com/) -将从事数据，艺术和技术交汇的创意编码人员，数据设计师和创作者召集在一起.
+- [Mutek](http://www.mutek.org/en) -致力于声音，音乐和视听艺术中数字创意的组织.
 - [Node](https://nodeforum.org/) -一个开放的文化，艺术和技术交流平台.
 - [Digital Design Days - OFFF](http://www.ddd.it/en) -为期3天的活动，提供会议，研讨会，数字展示和安装.
 - [CODAME ART+TECH](http://codame.com/) -项目和非营利活动，以通过经验启发.
 - [Curated Creative Events](http://events.thesupply.com/) -精心挑选的设计，代码，艺术，时尚和创客活动.
 - [NextArt Night](https://nextart.tech/) -通过创造性地利用技术来激励人们.
-- [GROW](https://www.grow.paris/) -GROW是创意编码人员的巴黎聚会地，旨在为数字创作开辟新的可能性.
+- [GROW](https://www.grow.paris/) -巴黎是创意编码人员的聚会地，GROW致力于为数字创作开辟新的可能性.
   
 ## Museums • Galleries
-- [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -  ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
+- [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -ZKM组织有关媒体，数字化和全球化影响的展览和活动.
 - [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) -未来博物馆-一个展示和处理各种艺术流派，科学领域和技术指导的地方.
 - [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) -Technorama允许动手体验数百种自然现象和技术.
 
 ## Schools • Workshops
 
 - [School for Poetic Computation](http://sfpc.io/) -纽约的学校，探索代码，设计，硬件和理论的交集.
-- [Copenhagen Institute of Interaction Design](http://ciid.dk/) -举办一系列的教育活动，最著名的是互动设计计划和CIID暑期学校.
+- [Copenhagen Institute of Interaction Design](http://ciid.dk/) -举办一系列教育计划，其中最著名的是交互设计计划和CIID暑期学校.
 - [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) -世界各地的居民，奖学金和暑期学校的大量清单（导航与左下角的选项卡）.
 
 ## Blogs • Websites
@@ -504,17 +505,17 @@
 
 ## Related
 
-- [Awesome opengl](https://github.com/eug/awesome-opengl) -精选的很棒的OpenGL库，调试器和资源列表.
-- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) -精选的很棒的WebGL库，资源列表等等.
+- [Awesome opengl](https://github.com/eug/awesome-opengl) -精选的OpenGL库，调试器和资源清单.
+- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) -精选的出色WebGL库，资源和更多内容的列表.
 - [Awesome canvas](https://github.com/raphamorim/awesome-canvas) -精选的HTML5画布精选示例，相关文章和帖子的清单.
 - [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) -关于音频可视化的精选列表.
-- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) -精选的计算机视觉资源精选清单.
-- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) -精选的推荐研究论文清单和有关数据可视化的其他阅读材料.
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) -精选的计算机视觉资源的精选清单.
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) -推荐的研究论文和有关数据可视化的其他阅读材料的清单.
 - [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) -实时编码语言和工具的精选列表.
 - [Awesome graphics](https://github.com/ericjang/awesome-graphics) -精选的计算机图形学教程和资源列表.
 - [Graphics resources](https://github.com/mattdesl/graphics-resources) -精选的图形编程资源列表.
 - [Magic tools](https://github.com/ellisonleao/magictools) -精心策划的游戏开发资源清单，以实现奇迹.
-- [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) -链接光线在GPU上前进的集合.
+- [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) -在GPU上链接光线行进的集合.
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) -精选的公共可用数据集列表，主要是免费资源.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) -2013年精选清单.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) -用于3D机器学习的资源库.
@@ -529,4 +530,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Terkel Gjervig](http://terkel.com) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Terkel Gjervig](http://terkel.com) 已放弃此作品的所有版权以及相关或邻近的权利.
