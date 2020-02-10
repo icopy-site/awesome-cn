@@ -194,7 +194,7 @@
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个用于向您的应用添加枚举列表支持的插件.
-- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.
@@ -242,6 +242,7 @@
 - ：草莓： [CakeDecimal plugin](https://github.com/dereuromark/cakephp-decimal) -处理小数的值对象方法.
 - ：草莓： [Duplicatable plugin](https://github.com/riesenia/cakephp-duplicatable) -复制实体（包括相关数据）的行为.
 - [Fetchable plugin](https://github.com/riesenia/cakephp-fetchable) -从缓存/内存中获取实体的行为.
+- ：草莓： [Lampager/Lampager plugin](https://github.com/lampager/lampager-cakephp) -快速分页，无需使用偏移.
 - [JeremyHarris/LazyLoad plugin](https://github.com/jeremyharris/cakephp-lazyload) -实体的关联懒惰加载器.
 - [Lqdt/OrmJson plugin](https://github.com/liqueurdetoile/cakephp-orm-json) -通过CakePHP ORM在JSON类型字段中选择，查找，获取和设置属性和值的行为和特质.
 - [Money plugin](https://github.com/gourmet/money) -使用的CakePHP实体的Money数据类型 [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
@@ -304,7 +305,7 @@
 ## SEO
 *搜索引擎优化.*
 
-- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -一个用于生成弹头并按弹头查找记录的插件.  使用可插拔的体系结构，该体系结构允许使用您自己的Slug生成器类.
+- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -一个用于生成弹头并按弹头查找记录的插件.  使用可插拔的体系结构，该体系结构允许使用您自己的slug generator类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) -自动创建和管理您的SEO标签.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) -一个简单的Cake3插件，用于处理字段和按记录查找记录.
 - ：草莓： [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的.

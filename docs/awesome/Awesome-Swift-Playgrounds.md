@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="uraimo/Awesome-Swift-Playgrounds"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![151 playgrounds](https://img.shields.io/badge/Playgrounds:-151-orange.svg)
+## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![154 playgrounds](https://img.shields.io/badge/Playgrounds:-154-orange.svg)
 
 &gt;精选的绝佳Swift游乐场清单.
 
@@ -8,7 +8,7 @@
 
 请快速浏览 [contribution guidelines](https://github.com/uraimo/awesome-swift-playgrounds/blob/master/CONTRIBUTING.md)  第一.  谢谢大家 [contributors](https://github.com/uraimo/awesome-swift-playgrounds/graphs/contributors) ;  你摇滚！
 
-如果您在此处看到的操场不适用于当前版本的Xcode或不合适，请提交请求以改进此文件或考虑对其进行更新，谢谢！
+如果您在此处看到的游乐场不适用于当前版本的Xcode或不合适，请提交请求以改进此文件或考虑对其进行更新，谢谢！
 
 ### Downloading all the playgrounds
 
@@ -46,6 +46,9 @@
 * [Image Filtering](https://github.com/lennet/image-filtering) -关于图像过滤的Swift手册. 
 * [Spacetime Rhapsody](https://github.com/hollisliu/Spacetime-Rhapsody) -一个基于爱因斯坦广义相对论的重力场可视化斯威夫特游乐场. 
 * [Neural Network](https://github.com/lennet/neuralnetwork) -关于神经网络的Swift PlaygroundBook. 
+* [coreml-playground](https://github.com/kkk669/coreml-playground) -Swift Playgrounds的核心ML示例. 
+* [SF Symbols Viewer](https://github.com/kkk669/SF-Symbols-Viewer) -用于Swift Playgrounds的SF Symbols Viewer. 
+* [jscore-playground](https://github.com/kkk669/jscore-playground) -使用JavaScriptCore的JavaScript REPL. 
 
 
 ## Learning Swift
@@ -177,7 +180,7 @@
 * [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) -使用Swift在Apple Playground中内置的神经网络.   
 
 ## UIKit And Graphics
-*演示了UIKit和其他图形框架各个方面的游乐场列表*
+*展示了UIKit和其他图形框架各个方面的游乐场列表*
 
 * [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) -使用UIStackViews的有趣示例.
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) -一些游乐场，以更好地了解UIBezierPaths.
@@ -188,7 +191,7 @@
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity)  -显示一种使一个或多个UILabel后面的字符后面的图像模糊的技术.  ⏳
 * [Swift Clock](https://github.com/nickoneill/swiftclock)  -在一个快速的操场上的动画时钟.  ⏳
 * [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground)  -一个快速的游乐场，可为您的WatchKit Apps创建超赞的动画.  ⏳
-* [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example)  -显示如何使用Swift2协议扩展在UIViews和UIViewControllers中呈现错误而无需子类化或创建类.  ⏳
+* [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example)  -显示如何使用Swift2协议扩展在UIViews和UIViewControllers中呈现错误，而无需子类化或创建类.  ⏳
 * [Tinting](https://github.com/Jesse-calkin/tinting)  -一个小操场，用于演示UIKit中的图像着色.  ⏳
 * [Ray tracing Playground](https://github.com/mhorga/Raytracing) -一个游乐场和有关射线追踪的一系列文章，另请参见 [2](https://github.com/mhorga/Raytracing2), [3](https://github.com/mhorga/Raytracing3), [4](https://github.com/mhorga/Raytracing4), [5](https://github.com/mhorga/Raytracing5)  ⏳
 * [WWDC16 Logo Playground](https://github.com/krutarth/WWDC16Logo)  -在操场上绘制WWDC16徽标.  ⏳
@@ -196,7 +199,7 @@
 ### Core Image
 
 * [Interpolation Playground](https://github.com/FlexMonkey/Interpolation-Playground-)  -操场上表现出，平稳的步伐，Catcall-Rom等！  ⏳
-* [CoreImage for Swift Playgrounds](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds)  -即将出版的《 CoreImage For Swift》一书中，CoreImage游乐场的收藏越来越多.  ⏳
+* [CoreImage for Swift Playgrounds](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds)  -即将出版的《 Swift的CoreImage》一书不断增加CoreImage游乐场的收藏.  ⏳
 * [Image Processor](https://github.com/mortenbrudvik/ImageProcessor)  -实施不同的图像过滤器算法.  ⏳
 
 ### Metal

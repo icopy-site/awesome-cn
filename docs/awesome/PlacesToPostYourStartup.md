@@ -82,11 +82,12 @@
 *创意搜寻-http://ideahunt.io/
 * Inc 42-https://inc42.com/startup-submission/
 * Index.co - https://index.co/startup
+*独立黑客-https://www.indiehackers.com/
 *杀手级创业公司-http://killerstartups.com/submit-startup/
 *土地书-https://land-book.com/guidelines
-*下一步启动-http://www.launchingnext.com/submit/
 *启动列表-https://launchlister.com/submit-startup
 *已启动-https://launched.io/SubmitStartup
+*下一步启动-http://www.launchingnext.com/submit/
 * MakeUseOf-http://www.makeuseof.com/about/
 * Maqtoob-https://maqtoob.com/submit-a-tool
 *动员-https://www.moblized.com/vendors/register
@@ -94,26 +95,26 @@
 *下一大产品-http://nextbigproduct.net/product-submission/
 *下一件大事-http://nextbigwhat.com/
 *在应用程序上-http://ontheapp.com/about/
-*下载-http://www.paggu.com/submit-your-startup/
+* Paggu - http://www.paggu.com/submit-your-startup/
 * pFind-http://www.pfind.com/submit
 * Postscapes-http://about.postscapes.com/tools
 * PreApps-http://www.preapps.com/
-* Product Hunt - http://www.producthunt.com/
+*产品搜寻-http://www.producthunt.com/
 *可编程Web-https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX-https://www.publicityx.com/startups/new
 *版本2-http://www.rev2.org/
 * Robingood-http：//tools.robingood.com/
+*订阅-https://www.saashub.com/
+*萨斯化-https://saasified.co
 *显示HN-https://news.ycombinator.com/showhn.html
-* SideProjects-https://sideprojects.net
 *侧面投影仪-https://www.sideprojectors.com
 *辅助项目-http://sideprojects.web3canvas.com
+* SideProjects-https://sideprojects.net
 * SameSiteSearch-http://www.similarsitesearch.com/tips.html
 *倾斜-https://www.slant.co/
 * SnapMunk-https://www.snapmunk.com/submit-your-startup/
 *软件建议-https://softwareadvice-markets.questionpro.com/
 * Springwise-http://springwise.com/tipus/
-*订阅-https://www.saashub.com/
-*萨斯化-https://saasified.co
 *堆栈共享-http://stackshare.io/
 *开始总部-https://starthq.com/apps/submit
 *入门故事-https://starterstory.com/
@@ -131,8 +132,10 @@
 *启动资源-https://startupresources.io
 *启动存储-http://startupstash.com/
 *启动标签-http://startuptabs.com/
+*启动跟踪器-https://startuptracker.io/
 * Startup88-http://startup88.com/
 * StartupBlink-http://www.startupblink.com/
+*初创企业列表-https://www.startups-list.com/
 *技术状态-http://stateoftech.net/advertise?submit-an-app-for-review
 * Tabscape-https://www.tapscape.com/
 *技术更快-http://techfaster.com/submit-your-company/
