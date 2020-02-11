@@ -7,7 +7,7 @@
 
  ：sparkles：精选的有关技术多样性的出色文章，网站和资源列表.  ：火花：
 
- 该列表包含有关多样性的各种资源，更具体地说是技术多样性，包括帖子，演讲，可操作的资源，会议，社交媒体倡导者等等.  该列表的目的是为愿意在日常行动中做得更好以使科技行业更具包容性的科技公司和社区以及希望进一步阅读有关主题的个人提供快速访问多样性信息的渠道.可能会让他们对技术领域的多样性和公平性感兴趣.
+ 此列表包含有关多样性的各种资源，更具体地说是技术多样性，包括帖子，演讲，可操作的资源，会议，社交媒体倡导者等等.  该列表的目的是为愿意在日常活动中做得更好以使科技行业更具包容性的科技公司和社区以及希望进一步阅读有关主题的个人提供快速访问多样性信息的渠道.可能会让他们对技术领域的多样性和公平性感兴趣.
 
 **始终在进行中.**
 
@@ -41,7 +41,7 @@
 - [Fund Club](http://joinfundclub.com/) -Fund Club为精神健康，多样性，包容性，抗骚扰等更多计划筹集资金.
 - [Geek Girls Carrots](http://gocarrots.org) -自2011年起吸引女性加入科技领域.
 - [Girl Develop It](https://www.girldevelopit.com/) -存在的非营利组织，旨在为有兴趣学习网络和软件开发的女性提供负担得起的，不受评判的机会.
-- [Girl Gamers](https://www.reddit.com/r/GirlGamers/) - Community for ladies to discuss gaming, women in geek culture, and experiences that occur as a result of gender.
+- [Girl Gamers](https://www.reddit.com/r/GirlGamers/) -女士们讨论游戏，极客文化中的女性以及性别导致的经历的社区.
 - [Girls In Tech Global Classroom](http://globalclassroom.girlsintech.org) -免费为女孩和妇女提供技术相关课程（例如3-D Tinkercad设计）的组织.
 - [Girls Who Code](https://girlswhocode.com/) -旨在缩小技术上性别差距的组织.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) -高科技有色人种的包容性公司列表.
@@ -49,7 +49,7 @@
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) -计划将年轻的黑人男性与成为高性能企业家和技术人员所需的一切联系起来.
 - [Kapor Center](http://www.kaporcenter.org/) -Kapor家族组织致力于消除针对代表性不足的有色人种的科学，技术，工程和数学（STEM）教育和科技职业的障碍.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) -科技界的女同志社区是科技界内（或热爱她们的人）的同志女性社区.
-- [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目值得欢迎，包容和赞赏其贡献者的多样性.
+- [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目受欢迎，包容且欣赏其贡献者的多样性.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) -开源精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
 - [Out In Tech](https://outintech.com) -团结LGBTQ +技术社区的非营利组织.
 - [ParadigmIQ](https://www.paradigmiq.com/) -范式提供了一系列的研讨会，培训和评估，以帮助实现多样性，包容性，归属感，保留性等等.
@@ -74,10 +74,10 @@
 - [Women Love Tech](https://womenlovetech.com/)  -推出“女性热爱技术”，旨在分享对技术的热情和热爱.  从那时起，Women Love Tech已发展成为一种生活方式技术数字杂志，面向那些热爱一切可以改善其日常生活方式的技术的女性.
 - [Women Make](https://womenmake.com/) -一个妇女在前列的社区.
 - [Women Techmakers](https://www.womentechmakers.com/) -Google的计划，为女性提供技术方面的知名度，社区和资源.
-- [Women Who Code](https://www.womenwhocode.com/) -《妇女守则》是一个全球社区，使妇女能够通过资源，工作委员会，会议奖学金和其他会员福利在技术领域脱颖而出.
+- [Women Who Code](https://www.womenwhocode.com/) -《妇女守则》是一个全球社区，通过资源，工作委员会，会议奖学金和其他会员福利，赋予妇女权力，使其在技术领域脱颖而出.
 - [Women Who Go](https://www.womenwhogo.org/) -致力于建立一个更加多元化和包容性的Golang社区的网络.
 - [Women Who Tech](https://www.womenwhotech.com/) -非营利组织，将才华横溢且享誉盛名的女性召集在一起，在技术领域开创新局面，以改变世界并激发变革.
-- [Wonder Women Tech](https://wonderwomentech.com/) -举办全年编程以及在STEAM（科学，技术，工程，艺术，数学），创新和企业家精神中强调，教育和庆祝妇女与多样性的国家和国际会议的组织.
+- [Wonder Women Tech](https://wonderwomentech.com/) -产生全年计划以及在STEAM（科学，技术，工程，艺术，数学），创新和企业家精神中强调和教育妇女和多样性的国家和国际会议的组织.
 - [YesWeTech](http://yeswetech.org/) -女权主义社区致力于为对技术感兴趣的女性建立平等而自豪的文化.
 - [Natives in Tech](https://nativesintech.org) -Techs中的Natives是本机和非本机软件开发人员的联盟，其目标是支持增强本机信念，知识和身份的软件应用程序开发. 
 
@@ -90,7 +90,7 @@
 - [Elixir With Love](https://www.elixir-with-love.com/) -Elixir With Love是一个积极的会议，其使命是向开发人员介绍这种令人兴奋的新语言，并建立一个多样化的Elixir社区.
 - [Lambda World](http://www.lambda.world/)  -Lambda World是一个功能性编程会议，其思想是授权技术不足的少数群体.  在这种思维方式下，我们将采取一些行动，例如创建用于支付门票和住宿的补助金，举办包容性研讨会，以及通过提供旅游活动使个人更难以离开家人，从而使会议更容易进行，婴儿床和婴儿推车.
 - [DDD Europe](https://dddeurope.com)  -欧洲域驱动设计专注于软件设计和建模.  他们为多样性和改善活动做出了惊人的承诺.
-- [REFACTR.TECH](https://www.refactr.tech) -REFACTR.TECH专注于技术，同时围绕技术的多样性，包容性和交叉性创建一个安全的空间或进行周到细致的对话.
+- [REFACTR.TECH](https://www.refactr.tech) -REFACTR.TECH专注于技术，同时为围绕技术的多样性，包容性和交叉性的思想细腻而微妙的对话创造了一个安全的空间.
 
 ## Ally Resources
 
@@ -145,13 +145,13 @@
 - [Ellen Pao: Has Anything Really Changed For Women In Tech?](https://mobile.nytimes.com/2017/09/16/opinion/sunday/ellen-pao-sexism-tech.html) -Paul Elen
 - [Emotional Labor Is The Unpaid Job Men Still Don't Understand](http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/) -Gemma Hartley.
 - [Engineering A Culture Of Psychological Safety](https://blog.intercom.com/psychological-safety/) -约翰·卢尼（John Looney）.
-- [Gaming While Black: Casual Racism To Cautious Optimism](https://www.engadget.com/2015/01/16/gaming-while-black-casual-racism-to-cautious-optimism/) - By Jessica Conditt.
+- [Gaming While Black: Casual Racism To Cautious Optimism](https://www.engadget.com/2015/01/16/gaming-while-black-casual-racism-to-cautious-optimism/) -杰西卡·康迪特（Jessica Conditt）.
 - [Gender Bias? A Transgender Perspective!](https://code.likeagirl.io/gender-bias-a-transgender-perspective-de27f2cd3837) -Daniela Petruzalek.
 - [Getting Free Of Toxic Tech Culture](https://blog.valerieaurora.org/2018/01/17/getting-free-of-toxic-tech-culture/) -Valerie Aurora和Susan Wu.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) -由
 威尔·埃文斯（Will Evans）和辛杜加（Sinduja Rangarajan）.
 - [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) -玛丽亚·阿里亚斯·德·雷纳·多明格斯（MaríaArias de ReynaDomínguez）.
-- [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) -Annalee.
+- [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) - By Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) -李文迪.
 - [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) -AndréArko.
 - [How To Maintain A Predominantly White Workplace](https://qz.com/work/1334187/how-to-maintain-a-predominantly-white-workplace/) -Leniece Flowers Brissett.
@@ -166,7 +166,7 @@
 - [Software Development 450 Words Per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) -盲人软件工程师Tuukka Ojala.
 - [Stop Saying That Diversity Means Lowering The Bar](https://work.qz.com/1175679/software-engineer-tracy-chous-mission-to-diversify-silicon-valley/) -莉亚·费斯勒（Leah Fessler）.
 - [Strategies For Hiring Diverse Candidates](https://code.likeagirl.io/strategies-for-hiring-diverse-candidates-4d86ad693762/) -乔伊·埃伯兹（Joy Ebertz）.
-- [Striving To Be Seen: Black Girl Gamers On Twitch](https://www.engadget.com/2018/08/15/black-girl-gamers-twitch-partner-communities/) - By Jessica Conditt.
+- [Striving To Be Seen: Black Girl Gamers On Twitch](https://www.engadget.com/2018/08/15/black-girl-gamers-twitch-partner-communities/) -杰西卡·康迪特（Jessica Conditt）.
 - [Struggling For Investments, Silicon Valley Women Reluctant To Speak Out On Harassment](https://www.npr.org/sections/alltechconsidered/2017/11/16/564498133/struggling-for-investments-silicon-valley-women-reluctant-to-speak-out-on-harass) -劳拉·赛德尔（Laura Sydell）.
 - [Survey Finds That In Tech, Retaliation For Speaking Up About Workplace Discrimination Is Common](https://www.marketplace.org/2018/07/24/business/retaliation-workplace) -Janet Nguyen和David Brancaccio着.
 - [Survival Tips For Women In Tech](https://patricia.no/2018/09/06/survival_tips_for_women_in_tech.html) -帕特里夏·阿斯（Patricia Aas）.
@@ -199,7 +199,7 @@
 - [Why We Shouldn't Underestimate The Power Of Diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/) -Joi Ito和Jeff Howe.
 - [Why Your Efforts To Fix Your Pipeline Aren’t Fixing Your Pipeline](https://chelseatroy.com/2018/04/12/why-your-efforts-to-fix-your-pipeline-arent-fixing-your-pipeline/) -切尔西·特洛伊（Chelsea Troy）.
 - [Women And Minorities Are Penalized For Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity) -Stefanie K. Johnson和David R. Hekman.
-- [You Can’t Just Hit The Diversity Button](https://medium.com/projectinclude/you-cant-just-hit-the-diversity-button-94b7043372a9) -按项目包括的劳拉·戈麦斯（Laura I.Gómez）.
+- [You Can’t Just Hit The Diversity Button](https://medium.com/projectinclude/you-cant-just-hit-the-diversity-button-94b7043372a9) - By Project Include's Laura I. Gómez.
 - [Your Company's Slack Is Probably Sexist](https://work.qz.com/1128150/your-companys-slack-is-probably-sexist/) -莉亚·费斯勒（Leah Fessler）.
 - [Diversity in Tech](https://www.linkedin.com/pulse/diversity-tech-adam-e-recvlohe/) -亚当·雷科夫（Adam Recvlohe）
 

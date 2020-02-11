@@ -134,7 +134,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 ## Network perimeter defenses
 
 - [fwknop](https://www.cipherdyne.org/fwknop/) -通过防火墙中的“单包授权”保护端口.
-- [ssh-audit](https://github.com/arthepsy/ssh-audit.git) -简单的工具，可快速提出建议以改善SSH服务器的安全状况.
+- [ssh-audit](https://github.com/jtesta/ssh-audit) -简单的工具，可快速提出建议以改善SSH服务器的安全状况.
 
 ### Firewall appliances or distributions
 

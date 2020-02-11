@@ -145,6 +145,7 @@ Some [Content Management System](#content-management-systems-cms) 解决方案�
 - [Lobsters](https://lobste.rs)  -运行您自己的链接聚合站点.  （[Source Code](https://github.com/jcs/lobsters)）`BSD-3-Clause``Ruby`
 - [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html)  -非常简单的软件和服务，用于存储专门为黑客设计的书签（不需要精美的界面，但需要漂亮的API）.  （[Source Code](https://github.com/mapio/nofussbm)）`GPL-3.0`` Python`
 - [Pinry](http://getpinry.com/)  -适用于想要保存，标记和共享图像，视频和网页的人员的平铺图像板系统.  （[Source Code](https://github.com/pinry/pinry)）`BSD-2-Clause``Python`
+- [Reminiscence](https://github.com/kanishka-linux/reminiscence)  -自托管的书签和存档管理器.  AGPL-3.0 Python
 - [Shaarli](https://github.com/shaarli/Shaarli)  -个人，极简，超快速，无数据库书签和链接共享平台.  （[Demo](https://demo.shaarli.org)）`Zlib``PHP`
 - [Shiori](https://github.com/RadhiFadlillah/shiori)  -使用Go构建的简单书签管理器.  麻省理工学院
 - [unmark](https://github.com/plainmade/unmark)  -开源做链接的应用程序.  麻省理工学院PHP
@@ -172,10 +173,9 @@ _CalDAV或CardDAV服务器_
 - [SabreDAV](http://sabre.io/)  -开源CardDAV，CalDAV和WebDAV框架和服务器.  （[Source Code](https://github.com/sabre-io/dav)）`MIT`` PHP`
 - [Xandikos](https://www.xandikos.org/)  -由Git存储库支持的开源CardDAV，CalDAV和WebDAV服务器，具有最小的管理开销.  （[Source Code](https://github.com/jelmer/xandikos)）`GPL-3.0`` Python`
 
-_CalDAV或CardDAV客户._
+_CalDAV或CardDAV基于Web的客户端.
 
 - [AgenDAV](http://agendav.org/)  -具有丰富的AJAX界面和共享日历支持的多语言CalDAV Web客户端.  （[Source Code](https://github.com/agendav/agendav)）`GPL-3.0``PHP`
-- [DAVDroid](https://www.davdroid.com/)  -适用于Android的开源CalDAV / CardDAV套件和同步应用.  （[Source Code](https://gitlab.com/bitfireAT/davdroid)）`GPL-3.0`` Java`
 - [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/)  -开源CalDAV / CardDAV Web客户端实现.  （[Demo](https://www.inf-it.com/infcloud/), [Source Code](https://www.inf-it.com/InfCloud_0.13.1.zip)）`AGPL-3.0``Javascript`
 - [EteSync Web](https://www.etesync.com/faq/#web-client)  -EteSync的官方基于Web的客户端（即，其Web应用程序）.  （[Demo](https://client.etesync.com/), [Source Code](https://github.com/etesync/etesync-web)）`AGPL-3.0``TypeScript`
 
@@ -702,7 +702,7 @@ _命令行文件上传_
 - [IFM](https://github.com/misterunknown/ifm)  -单个脚本文件管理器.  麻省理工学院PHP
 - [ResourceSpace](https://www.resourcespace.com)  -ResourceSpace开源数字资产管理软件是组织数字资产的简单，快速和免费的方式.  （[Demo](https://www.resourcespace.com/trial), [Source Code](https://www.resourcespace.com/svn)）`其他``PHP`
 - [s3server](https://github.com/jessfraz/s3server)  -简单的HTTP界面，用于索引和浏览公共S3或Google Cloud Storage存储桶中的文件.  （[Demo](https://gifs.jessfraz.com/)）MIT``去
-- [Sprut.io](https://sprut.io)  -2个面板文件管理器，具有拖放功能，代码编辑器，文本搜索，热键.  （[Demo](https://demo.sprut.io:9443), [Source Code](https://github.com/LTD-Beget/sprutio)）`GPL-3.0`` Python`
+- [Sprut.io](https://sprut.io) - 2 panel file manager with drag and drop features, code editor, text search, hotkeys. ([Demo](https://demo.sprut.io:9443), [Source Code](https://github.com/LTD-Beget/sprutio)）`GPL-3.0`` Python`
 - [Surfer](https://github.com/nebulade/surfer)  -带有webui的简单静态文件服务器，用于管理文件.  MIT`Nodejs`
 - [TagSpaces](https://www.tagspaces.org/)  -TagSpaces是一个脱机的跨平台文件管理器和组织器，还可以用作笔记应用程序.  该应用程序的WebDAV版本可以安装在WebDAV服务器（例如Nextcloud或ownCloud）的顶部.  （[Demo](http://demo.tagspaces.org), [Source Code](https://github.com/tagspaces/tagspaces)）`AGPL-3.0``Javascript`
 
@@ -1044,7 +1044,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [bepasty](https://bepasty-server.readthedocs.io/en/latest/)  -用于各种文件的pastebin.  （[Source Code](https://github.com/bepasty/bepasty-server)）`BSD-2-Clause``Python`
 - [bin](https://github.com/w4/bin)  -一个粘贴容器.  `WTFPL / 0BSD``Rust`
 - [cryptonote](https://cryptonote.me/)  -简单的开源Web应用程序，使用户可以加密和共享只能读取一次的消息.  （[Source Code](https://github.com/alainmeier/cryptonote)``MIT&#39;&#39;红宝石
-- [EdPaste](https://github.com/Edraens/EdPaste) - Self-hosted pastebin written in Laravel (PHP Framework). `MIT` `PHP`
+- [EdPaste](https://github.com/Edraens/EdPaste)  -用Laravel（PHP Framework）编写的自托管pastebin.  麻省理工学院PHP
 - [fiche](https://github.com/solusipse/fiche)  -命令行pastebin，您只需要netcat.  （[Demo](http://termbin.com/)）`MIT`` C`
 - [filite](https://github.com/raftario/filite)  -简单，轻巧和独立的粘贴框，URL缩短器和文件共享服务.  （[Demo](https://filite.raphaeltheriault.com)）`MIT``休息`
 - [Fugacious](https://fugacio.us)  -开源短期安全消息传递（OSSSM）.  （[Source Code](https://github.com/fugacious/fugacious)）`CC0-1.0``Ruby`
@@ -1341,7 +1341,7 @@ _See [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://g
 - [MantisBT](https://www.mantisbt.org/)  -自托管的错误跟踪器，最适合软件开发.  （[Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code](https://github.com/mantisbt/mantisbt)）`GPL-2.0``PHP`
 - [OpenSupports](https://www.opensupports.com/)  -具有常见问题，角色管理，指标和罐头响应功能的多语言票证系统.  （[Demo](https://www.opensupports.com/demo/), [Source Code](https://github.com/opensupports/opensupports)）`GPL-3.0``PHP`
 - [osTicket](http://osticket.com/)  -在一个地方管理，组织和存档所有支持请求和响应.  （[Source Code](https://github.com/osTicket/osTicket)）`GPL-2.0``PHP`
-- [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets to incoming queries and tracking further communications. ([Source Code](https://github.com/OTRS/otrs)）`AGPL-3.0``Perl`
+- [OTRS](http://www.otrs.com/)  -故障票证系统，用于将票证分配给传入的查询并跟踪进一步的通信.  （[Source Code](https://github.com/OTRS/otrs)）`AGPL-3.0``Perl`
 - [Request Tracker](https://www.bestpractical.com/rt/)  -企业级问题跟踪系统.  （[Source Code](https://github.com/bestpractical/rt)）`GPL-2.0`` Perl`
 - [Sentry On-Premise](https://github.com/getsentry/onpremise)  -强大的错误跟踪平台，具有广泛的语言支持和强大的API.  （[Source Code](https://github.com/getsentry/sentry)）`BSD-3-Clause``Python / Django`
 - [SIT](https://sit.fyi/)  -与SCM无关，基于文件，脱机优先，不可变的问题跟踪器.  （[Source Code](https://github.com/sit-fyi/sit)) `MIT` `Apache-2.0` `Rust`
@@ -1490,7 +1490,7 @@ See https://github.com/n1trux/awesome-sysadmin#web
 -`OSL-3.0`- [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
 -`Other`-非标准许可证，通常是项目本身独有的.
 -`Sendmail`-- [Sendmail License](https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf)
--`SSPL-1.0`- [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
+- `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
 -`无证`- [The Unlicense](http://unlicense.org/)
 -`WTFPL`- [Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
 -`Zlib`- [Zlib/libpng License](https://opensource.org/licenses/Zlib)

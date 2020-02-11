@@ -242,7 +242,7 @@
 - ：草莓： [CakeDecimal plugin](https://github.com/dereuromark/cakephp-decimal) -处理小数的值对象方法.
 - ：草莓： [Duplicatable plugin](https://github.com/riesenia/cakephp-duplicatable) -复制实体（包括相关数据）的行为.
 - [Fetchable plugin](https://github.com/riesenia/cakephp-fetchable) -从缓存/内存中获取实体的行为.
-- ：草莓： [Lampager/Lampager plugin](https://github.com/lampager/lampager-cakephp) -快速分页，无需使用偏移.
+- ：草莓： [Lampager/Cake plugin](https://github.com/lampager/lampager-cakephp) -快速分页，无需使用偏移.
 - [JeremyHarris/LazyLoad plugin](https://github.com/jeremyharris/cakephp-lazyload) -实体的关联懒惰加载器.
 - [Lqdt/OrmJson plugin](https://github.com/liqueurdetoile/cakephp-orm-json) -通过CakePHP ORM在JSON类型字段中选择，查找，获取和设置属性和值的行为和特质.
 - [Money plugin](https://github.com/gourmet/money) -使用的CakePHP实体的Money数据类型 [sebastianbergmann/money](https://github.com/sebastianbergmann/money).

@@ -62,7 +62,7 @@
 - [BPF: tracing and more](http://www.slideshare.net/brendangregg/bpf-tracing-and-more) -简介，主要涵盖跟踪方面.
 - [Linux BPF Superpowers](http://www.slideshare.net/brendangregg/linux-bpf-superpowers) -简介，主要涵盖跟踪方面，第一部分带有火焰图.
 - [IO Visor](https://www.socallinuxexpo.org/sites/default/files/presentations/Room%20211%20-%20IOVisor%20-%20SCaLE%2014x.pdf) -还介绍 [IO Visor project](https://www.iovisor.org/).
-- [BPF -- in-kernel virtual machine](https://events.linuxfoundation.org/sites/events/files/slides/bpf_collabsummit_2015feb20.pdf) -由eBPF的作者介绍.
+- [BPF -- in-kernel virtual machine](http://vger.kernel.org/netconf2015Starovoitov-bpf_collabsummit_2015feb20.pdf) -由eBPF的作者介绍.
 - [Extending extended BPF](https://lwn.net/Articles/603983/) -2014年的一篇博客文章，介绍BPF的开发，并通过将eBPF程序附加到套接字上的状态套接字过滤示例演示了如何使用BPF.
 -Greg Marsden编写了一些有关eBPF的文档：
   - [A Tour of Program Types](https://blogs.oracle.com/linux/notes-on-bpf-1) -对BPF程序类型的所有现有挂钩的描述及其关注之处.
@@ -71,7 +71,7 @@
   - [Building BPF Programs](https://blogs.oracle.com/linux/notes-on-bpf-4) -设置环境以构建BPF程序.
   - [The BPF Bytecode and the BPF Verifier](https://blogs.oracle.com/linux/notes-on-bpf-5) -BPF如何确保程序安全？
   - [Using BPF to do Packet Transformation](https://blogs.oracle.com/linux/notes-on-bpf-6) -有关数据包转换的一种eBPF用法.
-- [Linux Kernel Observability through eBPF](https://sematext.com/blog/linux-kernel-observability-ebpf/) -一篇博客文章，介绍了eBPF的基础知识以及Go语言中的代码示例，介绍了如何构建最小的eBPF程序并将其加载到内核中.
+- [Linux Kernel Observability through eBPF](https://sematext.com/blog/linux-kernel-observability-ebpf/) -一篇博客文章，介绍了eBPF的基础知识以及Go中的代码示例，介绍了如何构建最小的eBPF程序并将其加载到内核中.
 
 ### BPF Internals
 
