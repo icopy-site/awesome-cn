@@ -1,20 +1,20 @@
 <div class="github-widget" data-repo="daviddias/awesome-hacking-locations"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-很棒的黑客地点 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+很棒的骇客位置 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============================
 
- &gt;按国家和城市组织的“骇客骇客位置列表”，列出其是否具有电源和wifi功能.  受到启发 [awesome lists](https://github.com/sindresorhus/awesome) 事情.
+ &gt;由国家和城市组织的“骇客骇客位置列表”，列出其是否具有电源和wifi功能.  受到启发 [awesome lists](https://github.com/sindresorhus/awesome) 事情.
 
 ## Index
 
 
 ## Contribute 🌟
 
-这是一个社区策划列表，请向您提交您知道并热爱黑客的景点PR！
+这是一个社区策划列表，请向您提交您知道并热爱黑客的景点的PR！
 
-&gt;问：是什么使骇客攻击点很棒？
+&gt;问：是什么让骇客入侵点很棒？
 
- 一个可以带您的朋友去黑客的地方，电源和wifi都比较好，喝咖啡和零食是一个奖励.  目前，我们不包括需要订阅或某种会员资格的地方（除非可以在访问的那一刻完成会员资格，并且不需要长期承诺）.
+ 一个您可以带您的朋友去黑客的地方，电源和wifi都比较好，喝咖啡和零食是一个奖励.  我们目前不包括需要订阅或某种会员资格的地方（除非可以在访问的那一刻完成会员资格，并且不需要长期承诺）.
 
 ## Template
 
@@ -32,7 +32,7 @@
 
 ## Hackerspaces
 
-Hackerspaces是很好的黑客场所，实际上它们是如此之好，以至于它们拥有自己的列表，并且已经有很多年了，如果您正在寻找一个Hackerspace，请咨询：
+Hackerspaces是很好的黑客场所，实际上它们是如此之好，以至于多年来它们都有自己的清单，如果您正在寻找一个Hackerspace，请咨询：
 
 - https://wiki.hackerspaces.org/List_of_Hacker_Spaces
 
@@ -102,7 +102,7 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
- 问|  ✔| [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx)  |  周一至周五11：00-20：00，要求其他时间
+ 问  ✔| [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx)  |  周一至周五11：00-20：00，要求其他时间
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -172,7 +172,7 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 
 #### Café Replika
 
-&gt;在融合了乡村和现代装饰的凉爽地带，土耳其咖啡，糕点和三明治.
+&gt;将土耳其咖啡，糕点和三明治放在凉爽的地方，融合了乡村和现代风格的装饰.
 
 网页：http：//cafereplika.com
 
@@ -202,7 +202,7 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✘ | ✔ | [Godthåbsvej 34B, 2000 Frederiksberg](https://goo.gl/maps/pTQ1iiZqJuF2)  |  周一至周五7：30-19：00，周六9：00-18：00，周日10：00-18：00
+✘ | ✔ | [Godthåbsvej 34B, 2000 Frederiksberg](https://goo.gl/maps/pTQ1iiZqJuF2)  |  周一至周五7：30-19：00，星期六9：00-18：00，星期日10：00-18：00
 
 #### Emmerys (Store Kongensgade)
 
@@ -238,7 +238,7 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
- ✔|  睡觉| [Sluseholmen 28, 2450 København SV](https://goo.gl/maps/3w6ZXGg6EUo)  |  周一至周日8：00-17：45
+ ✔|  在沙发| [Sluseholmen 28, 2450 København SV](https://goo.gl/maps/3w6ZXGg6EUo)  |  周一至周日8：00-17：00
 
 #### Bevar's
 
@@ -321,7 +321,7 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 
 #### Bibliothèque Sainte-Geneviève
 
-&gt;经过相当快速和免费的注册过程，您将获得一张精美的卡片，然后再回来享受这座图书馆的氛围.
+&gt;经过相当快速和免费的注册过程，您会得到一张精美的卡片，然后再回来享受这座图书馆的氛围.
 
 网页：http：//www-bsg.univ-paris1.fr
 
@@ -345,7 +345,7 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn)  |  变量
+✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
 
 #### Schiller Bar
 
@@ -359,7 +359,7 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 
 #### St. Oberholz
 
- &gt;著名的2层初创企业深受喜爱的酒吧餐厅；  会说英语的工作人员.
+ &gt;著名的2层初创企业最受欢迎的酒吧餐厅；  会说英语的工作人员.
 
 网页：http：//sanktoberholz.de/en/coffee/
 
@@ -372,19 +372,19 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 #### ascii
 
 &gt;德累斯顿工业大学计算机科学学院内部的咖啡厅；
-&gt;无论主题如何，总是充满友好和乐于助人的人
+&gt;无论话题如何，总是充满友好和乐于助人的人
 
 Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
- （仅限eduroam）|  ✔| [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
+ （仅限eduroam）|  ✔| [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2)  |  周一至周四9：00-17：00;  星期五9：00-15：00
 
 ## Hamburg
 
 #### attraktor
 
- &gt;具有很多工具的Makerspace.  您可能需要会员才能加入.
+ &gt;具有许多工具的Makerspace.  您可能需要会员才能加入.
 
 Webpage: [blog.attraktor.org](https://blog.attraktor.org/)
 
@@ -394,7 +394,7 @@ Webpage: [blog.attraktor.org](https://blog.attraktor.org/)
 
 #### CCC Hamburg
 
- &gt;汉堡CCC的Hackerspace.  您可能需要会员才能加入.
+ &gt; CCC汉堡的Hackerspace.  您可能需要会员才能加入.
 
 Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
@@ -432,7 +432,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
 #### Pink Coffee
 
-&gt;他们有一个站立的桌子！
+&gt;他们有一个办公桌！
 
 网页：https：//www.facebook.com/PinkCoffeeHK
 
@@ -468,7 +468,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
 &gt;美味的小咖啡，他们有自制的糕点和优质的咖啡（隐藏在美丽的地方）
 
-网页：http：//www.caffeperu.it/
+Webpage: http://www.caffeperu.it/
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
@@ -508,7 +508,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
 #### Open Source Cafe
 
-&gt;小巧的咖啡馆，有好人和好感
+&gt;小型人间，气氛良好，气氛良好
 
 网页：http：//www.osscafe.net/ja/
 
@@ -533,7 +533,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
 #### Mos Cafe
 
- &gt;不错的咖啡馆，他们不介意您待一整天.  wifi是如此，但您可以以3 $ / 6h的价格购买wi2 premium.
+ &gt;不错的咖啡馆，他们不介意您待一整天.  wifi是如此，但您可以购买3 $ / 6h的wi2 premium.
 
 网页：https：//www.mos.jp/shop/detail/02388/
 
@@ -548,11 +548,11 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
 ## Vilnius
 
- &gt;周围有很多“咖啡因”品牌的咖啡馆，都提供不错的wifi和服务.  说英语的人会碰碰运气，请为随机的指点和混乱做好准备.  如果您使用信用卡付款，请期望人们为需要签名的收据而烦恼（这里没有POS系统支持PIN）.
+ &gt;周围有很多“咖啡因”品牌的咖啡馆，都提供不错的wifi和服务.  说英语的人会碰碰运气，请为随机指点和混乱作准备.  如果您使用信用卡付款，请期望人们为需要签名的收据而烦恼（这里没有POS系统支持PIN）.
 
 #### Knygynas DRAUGYSTĖ
 
- &gt;与书店相连的咖啡馆.  非常容忍永不离开的黑客类型.  Wifi大约为8mbit，并且相当稳定.  大多数人会说英语，所以您可以点一杯咖啡，而且咖啡很好.  仅牛奶.
+ &gt;与书店相连的咖啡馆.  非常容忍永远不会离开的黑客类型.  Wifi大约为8mbit，并且相当稳定.  大多数人会说足够的英语，您可以点一杯咖啡，而且咖啡很好.  仅牛奶.
 
 网页：https：//www.vaga.lt/draugyste-knygynas-gedimino-pr-2-vilnius-/knygynas
 
@@ -587,11 +587,21 @@ Webpage: [dwazezaken.nl](http://www.dwazezaken.nl/)
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU)  |  周日至周四8 AM-1AM，周五至周六8 AM-2AM
 
+#### Public Space
+
+ &gt;从阿姆斯特丹中央河对岸.  美味的食物，美味的咖啡，对远程工作者友好.
+
+Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
+
+ 无线网络  电源|  地址  营业时间
+---- | ----- | ------- | ----------
+✔ | ✔ | [Bercylaan 301, 1031 KP Amsterdam, Netherlands](https://g.page/public-space-amsterdam)  |  周一至周五9：00-17：00，星期日10：00-17：00
+
 ## Delft
 
 #### Kek
 
- &gt;在代尔夫特中央车站附近；  好食物；  时髦的地方；  有一个小商店（非常适合作为最后一刻的礼物）
+ &gt;在代尔夫特中央车站附近；  好食物；  时髦的地方；  有一间小商店（非常适合作为最后一刻的礼物）
 
 Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
@@ -642,7 +652,7 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 #### Lugar 34
 
- &gt;非常舒适和寒冷的地方.  啤酒和挪威其他地方一样昂贵，像地狱一样，但是它们也能提供优质的咖啡.  有嬉皮风格.  8兆位/ 1兆位wifi.  营业时间很棒.
+ &gt;非常舒适和寒冷的地方.  啤酒像挪威其他地方一样昂贵，像地狱一样，但是它们也能提供优质的咖啡.  有嬉皮风格.  8兆位/ 1兆位wifi.  营业时间很棒.
 
 网页：https：//facebook.com/lugar34
 
@@ -696,21 +706,21 @@ Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv)  |  周一至周六8：00-20：00，星期日8：00-19：00
+✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv)  |  周一至周六8：00-20：00，周日8：00-19：00
 
 #### Café Lisboa
 
- &gt;在葡萄牙氛围中的纯咖啡.  平静的音乐，美丽的夏日花园.  一个很小的地方，但从来没有响亮.  很棒的意大利面酱，也有午餐选择.
+ &gt;葡萄牙氛围中的纯咖啡.  平静的音乐，美丽的夏日花园.  一个很小的地方，但永远不会很大声.  很棒的意大利面酱，也有午餐选择.
 
 网页：https：//www.facebook.com/cafelisboa.krakow/
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
- ✔|  x | [33-332, Dolnych Młynów 3, 33-332 Kraków](https://goo.gl/maps/qJ1DVt4jAU92)  |  周一至周三08：00-20：00，周四至周五08：00-21：00，周六至周日10：00-20：00
+ ✔|  x | [33-332, Dolnych Młynów 3, 33-332 Kraków](https://goo.gl/maps/qJ1DVt4jAU92)  |  周一至周三08：00-20：00，星期四至周五08：00-21：00，星期六至周日10：00-20：00
 
 #### Café Tektura
 
- &gt;优质的咖啡，有多种冲泡选择，还有美味的食物.  小而通常安静.
+ &gt;优质咖啡，有多种冲泡选择，并有美味的食物.  小而通常安静.
 
 网页：https：//www.facebook.com/TEKTURAcafe/
 
@@ -720,7 +730,7 @@ Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 
 #### Coffee Corner
 
- &gt;火车总站正中的好咖啡和茶.  可能会很忙，但通常不会很大声.  提供大量的电插头.
+ &gt;火车总站正中的好咖啡和茶.  可以很忙，但通常不会很大声.  提供大量的电插头.
 
 网页：http：//www.coffeecorner.pl/
 
@@ -765,7 +775,7 @@ Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.p
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr)  |  周二，周日20：00-11：00，周五至周六20：00-22：00
+✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr)  |  周二，周日20：00-11：00，周五至周六20：00-2：00
 
 ## Braga
 
@@ -795,13 +805,13 @@ Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.p
 
 #### Jeronymo
 
- &gt;星巴克喜欢市中心附近的咖啡馆.  作为凉爽的沙发和桌子工作.  要使用wifi，您必须购买物品并要求输入密码.
+ &gt;星巴克喜欢市中心附近的咖啡馆.  作为凉爽的沙发和桌子上班.  要使用wifi，您必须购买物品并要求输入密码.
 
 网页：http：//www.jeronymo.pt/coffee-shops/jeronymo-coffee-shops/av-liberdade-braga/
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Avenida da Liberdade, 712, 4710-249 Braga](https://goo.gl/maps/2n1gT7P1MEz)  |  周一至周日8:00-21:00
+✔ | ✔ | [Avenida da Liberdade, 712, 4710-249 Braga](https://goo.gl/maps/2n1gT7P1MEz)  |  周一至周日上午8:00-下午9:00
 
 
 #### Café São Martinho
@@ -818,7 +828,7 @@ Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.p
 
 #### Centro Comercial Nova Arcada
 
- &gt;购物中心就位于布拉加（Braga）外，一周中非常安静，很多人去那里学习/工作.  购物中心提供免费的WiFi，您只需每45分钟左右重新登录一次（我被黑了） [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb)  以使流程自动化，似乎整个下午都在工作）.  有可用的电源插头，餐厅和咖啡馆在同一层，并且在工作日内免费往返于市中心.
+ &gt;布拉加（Braga）外的购物中心，一周内非常安静，许多人去那里学习/工作.  购物中心提供免费的WiFi，您只需要每45分钟左右重新登录一次（我被黑了） [this script](https://gist.github.com/ntfc/cd37a3b822183b1741f132247197a1eb)  以使流程自动化，似乎整个下午都在工作）.  有可用的电源插头，餐厅和咖啡馆在同一层，并且在工作日内免费往返于市中心.
 
 网页：http：//www.novaarcada.pt/
 
@@ -840,7 +850,7 @@ Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.p
 
 ![](http://www.speedtest.net/result/7625788478.png)
 
-Wifi密码：`ilovenicolau`
+无线上网：`ilovenicolau`
 
 #### Choupana Café
 
@@ -862,7 +872,7 @@ Wifi密码：`ilovenicolau`
 
 #### Copenhagen Coffee Lab, Lisboa
 
-&gt;倒入，充气，义式浓缩咖啡-这个地方应有尽有.
+&gt;倒入，气动加压，浓咖啡-这个地方一应俱全.
 
 网页：http：//copenhagencoffeelab.com/cafe-at-rua-nova-da-piedade/
 
@@ -874,7 +884,7 @@ Wifi密码：`ilovenicolau`
 
 #### Ler Devagar
 
- &gt;精美的图书馆，藏有丰富的书籍.  确保在二楼品尝“ bolo da marta”.
+ &gt;精美的图书馆，藏有丰富的书籍.  确保在一楼品尝“ bolo da marta”.
 
 网页：http：//www.lerdevagar.com/
 
@@ -896,7 +906,7 @@ Wifi密码：`ilovenicolau`
 
 #### Montana Lisboa Café
 
-&gt;街头艺术商店+笔记本电脑友好的专业咖啡厅！
+&gt;街头艺术商店+笔记本电脑友好的特色咖啡店！
 
 网页：http：//4sq.com/2fHRcQF
 
@@ -906,7 +916,7 @@ Wifi密码：`ilovenicolau`
 
 ![](http://beta.speedtest.net/result/6938533453.png)
 
-无线上网：`graffiti`
+Wifi密码：`graffiti`
 
 #### O pão nosso
 
@@ -920,11 +930,11 @@ Wifi密码：`ilovenicolau`
 
 ![](http://www.speedtest.net/result/6430591434.png)
 
-Wifi pw：酵母
+Wifi pw：“酵母”
 
 #### Padaria Portuguesa - Cais do Sodré
 
-&gt;许多Padaria Portuguesa面包店，甜食和三明治中的一种.
+&gt;许多Padaria Portuguesa面包店，美味甜点和三明治之一.
 
 网页：apadariaportuguesa.pt
 
@@ -960,7 +970,7 @@ Wifi密码：`葡萄牙语`
 
  &gt;工作人员安静友好.  不过，价格偏高的$方面.
 
-Webpage: http://www.royalecafe.com
+网页：http：//www.royalecafe.com
 
  无线网络  电源|  气候化|  地址  营业时间
 ---- | ----- | -------------- | ------- | ----------
@@ -990,7 +1000,7 @@ Webpage: http://www.royalecafe.com
 
 #### Mercearia do Campo
 
-&gt;很棒的午餐菜单，整日安静（午餐除外），友善的人和舒适的氛围.
+&gt;午餐菜单很棒，整日安静（午餐除外），友善的人和舒适的氛围.
 
 网页：http：//www.merceariadocampo.pt/en_GB/
 
@@ -1020,12 +1030,12 @@ Webpage: http://www.royalecafe.com
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw)  |  周一12:30 pm-1:00 am，周日10:00 am-1:00 am
+✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw)  |  周一12:30 pm-1:00 am，周二至周日10:00 am-1:00 am
 
 ![](http://www.speedtest.net/result/5468130872.png)
 
 #### Costa COFFEE
-&gt;富有影响力的氛围，美味的咖啡，热情的英语，接受支付宝（AliPay），并且羊角面包很好.
+&gt;富有影响力的氛围，美味的咖啡，热情的英语，接受AliPay，并且羊角面包很好.
 
 网页：https：// https：//www.costa.co.uk/
 
@@ -1049,7 +1059,7 @@ Webpage: http://www.royalecafe.com
 
 #### Embaixado
 
-&gt;安静的咖啡厅，音乐优美，楼上空荡荡，色拉质朴，晚上有凉舞.
+&gt;安静的咖啡厅，音乐优美，楼上空荡荡，沙拉色泽好，晚上有很酷的舞蹈.
 
 网页：embaixadaporto.com
 
@@ -1067,7 +1077,7 @@ Webpage: http://www.royalecafe.com
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Av. de Camilo 325, Porto, Portugal](https://goo.gl/maps/aVZ1cFWQatT2)  |  周一-周五8:30 am-7：00pm，星期六10:00 am-7：00pm
+✔ | ✔ | [Av. de Camilo 325, Porto, Portugal](https://goo.gl/maps/aVZ1cFWQatT2)  |  周一-周五8:30 am-7:00pm，星期六10:00 am-7:00 pm
 
 ![](http://www.speedtest.net/result/5425343488.png)
 
@@ -1093,13 +1103,13 @@ Webpage: http://www.royalecafe.com
 
 #### Café Vitória
 
-&gt;餐厅和咖啡厅就位于波尔图的中心，后面有一个漂亮的花园.
+&gt;餐厅和咖啡店就位于波尔图的中心，后面有一个漂亮的花园.
 
 网页：http：//www.cafevitoria.com/
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA)  |  周六2:00 pm – 2:00 am，周日关闭，周一至周四12:00 pm – 1:00 am，周五12:00 pm – 2:00 am
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA)  |  周六2:00 pm – 2:00 am，周日关闭，周一-周四12:00 pm – 1:00 am，周五12:00 pm – 2:00 am
 
 ## Viana do Castelo
 
@@ -1152,7 +1162,7 @@ Webpage: http://www.royalecafe.com
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys)  |  每日8:30 AM–9.30PM
+✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM
 
 ## one north
 
@@ -1183,9 +1193,9 @@ Webpage: http://www.royalecafe.com
 >
 &gt;我看到了华硕RT-AC68U WiFi路由器
 >
-&gt;与KT Giga Internet连接的路由器，这是韩国最快的Internet（包括海外网络访问）
+&gt;与KT Giga Internet相连的路由器，这是韩国最快的Internet（包括海外网络访问）
 >
-> Many seats and seat types (Sofa, Bar Stools...)
+&gt;许多座位和座位类型（沙发，吧凳...）
 >
 &gt;有吸烟区
 
@@ -1208,7 +1218,7 @@ Naver地图：http：//naver.me/FjThMRso
 
 #### Ideal
 
- &gt;舒适的咖啡厅，也提供天然果汁和美味食品.  背面有一个漂亮的露台.
+ &gt;舒适的咖啡厅，还提供天然果汁和美味食品.  背面有一个漂亮的露台.
 
 网页：http：//4sq.com/14xZ71H
 
@@ -1239,7 +1249,7 @@ Naver地图：http：//naver.me/FjThMRso
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | -------------- | -------
-✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz)  |  星期一：休息，星期二至星期四：9-19，星期五至星期日：10-17
+✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz)  |  周一：封闭，周二至周四：9-19，周五至周日：10-17
 
 #### Federal Café
 
@@ -1270,7 +1280,7 @@ Naver地图：http：//naver.me/FjThMRso
 
 ## Sweden 🇸🇪
 
- &gt;通常，您可以去任何Wayne的Coffee或Espresso House获得wifi和电源.  与我尝试过的Espresso Houses相比，Wayne的Coffee wifi通常有点杂乱无章，Espresso House经常为笔记本电脑用户提供电源，这些用户可将电源放在椅子下或桌子旁.
+ &gt;通常，您可以去任何Wayne的Coffee或Espresso House获得wifi和电源.  与我尝试过的Espresso Houses相比，Wayne的Coffee wifi通常有点杂乱无章，Espresso House经常为笔记本电脑用户提供带电源的功能，这些用户可在椅子下或桌子旁使用电源.
 
 ## Stockholm
 
@@ -1288,23 +1298,23 @@ Naver地图：http：//naver.me/FjThMRso
 
  &gt;当时的共享wifi下降了200mbit，上升了40mbit.  优质的食物，优质的咖啡.  这不是一个长期工作的好地方，但是在边吃边喝美食的同时上传iOS应用程序非常好.
 
-Webpage: https://cafepascal.se
+网页：https：//cafepascal.se
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
- ✔|  一些  Norrtullsgatan 4，113 29斯德哥尔摩，瑞典|  7-19
+ ✔|  一些|  Norrtullsgatan 4，113 29斯德哥尔摩，瑞典|  7-19
 
 ## Uppsala
 
 #### Cafe Linne
 
- &gt;好地方.  食物有点贵，但是很好.  咖啡很好.  英语和外国卡一样被理解.  无线上网足够好.  开门晚了！
+ &gt;好地方.  食物有点贵，但是很好.  咖啡很好.  英语是可以理解的，外国卡也可以理解.  无线上网足够好.  开门晚了！
 
 网页：https：//www.facebook.com/cafelinne/
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
- ✔|  一些  瑞典乌普萨拉Svartbäcksgatan22，75332 |  8-22
+ ✔|  一些|  瑞典乌普萨拉Svartbäcksgatan22，75332 |  8-22
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -1315,13 +1325,13 @@ Webpage: https://cafepascal.se
 
 #### Boreal Coffee Shop - Talacker
 
-&gt;非常好的咖啡，宽敞的工作桌和一堆沙发.
+&gt;非常漂亮的咖啡，宽敞的工作桌和一堆沙发.
 
 网页：http：//www.borealcoffee.ch/
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
- ✔|  一些插头|  Talacker 41 CH-8001Zürich|  星期一-星期五：07：00-19:00星期六-星期日：09:00-19:00
+ ✔|  一些插头|  Talacker 41 CH-8001苏黎世|  星期一-星期五：07：00-19:00星期六-星期日：09:00-19:00
 
 ![](http://www.speedtest.net/result/7234244439.png)
 
@@ -1408,7 +1418,7 @@ Webpage: https://cafepascal.se
 
 #### Shot in the Dark Cafe
 
-&gt;当地艺术品，一些食物，一种朋克/肮脏的东西，很多人在他们的电脑前玩，24/7
+&gt;当地艺术品，一些食物，一种朋克/肮脏的东西，很多人在他们的电脑上24/7
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
@@ -1442,17 +1452,17 @@ Webpage: https://cafepascal.se
 
 #### Red Rock Coffee
 
-&gt;红墙设置了咖啡馆的氛围，在咖啡馆中经常与艺术和现场音乐以及咖啡和小吃一起供应
+&gt;红墙设置了咖啡厅的氛围，在咖啡厅中，艺术和现场音乐经常与咖啡和小吃一起提供
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-  ✔ | ✔| [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo)  |  周一至周四7：00-22：00，周五7：00-23：00，星期六8：00-23：00，星期日8：00-20：00
+  ✔ | ✔| [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo) | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
 
 ### Oakland, CA <a id="oakland-ca"></a>
 
 #### Arbor Cafe
 
-&gt;宽敞，充满艺术气息的空间，带充足的电源插座，多种座椅和坚固的wifi.
+&gt;宽敞，充满艺术气息的空间，带有充足的电源插座，可变的座椅和坚固的wifi.
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
@@ -1481,13 +1491,13 @@ Webpage: https://cafepascal.se
 
 #### Backyard Brew
 
- &gt;后院带有帐篷的户外咖啡因，可防止您受到日晒雨淋.  全年开放.
+ &gt;后院带有帐篷的户外咖啡因，可防止您受日晒雨淋.  全年开放.
 
 网页：https：//aoccoffee.com/
 
  无线网络  电源|  咖啡|  地址  营业时间
 ---- | ----- | ------ | ------- | ----------
-   ✔|  ✔|  很棒 [444 California Ave, Palo Alto, CA 94301](https://goo.gl/maps/8hugtvc2vUM2)  |  周一至周六8：00-17：00，周日8：00-15：00
+   ✔|  ✔|  好极了 [444 California Ave, Palo Alto, CA 94301](https://goo.gl/maps/8hugtvc2vUM2)  |  周一至周六8：00-17：00，周日8：00-15：00
 
 ![](https://www.speedtest.net/result/7995445392.png)
 
@@ -1495,7 +1505,7 @@ Webpage: https://cafepascal.se
 
 #### Coffee Bar
 
- &gt;宽敞而宽敞的空间，有许多座位，许多插头，而不是强大的WiFi.  在夏季，由于没有交流电/空气流通，它可能会变得安静.
+ &gt;宽敞而宽敞的空间，有许多座位，许多插头，而不是那么强大的WiFi.  在夏季，由于没有交流电/空气流通，可能会变得很热.
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
@@ -1526,11 +1536,11 @@ Webpage: https://cafepascal.se
 
 #### Caffe Frascati
 
- &gt;精美的装饰和主题，楼上的座位以及友善的员工.  无线网络是*体面的*.
+ &gt;精美的装饰和主题，楼上的座位以及友善的员工.  无线网络*体面*.
 
  无线网络  电源|  咖啡|  地址  营业时间
 ---- | ----- | ----- | ------- | ----------
- 问|  ✔|  ✔| [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2)  |  周一至周四7：30-22：00，周五至周六8：00-00：00，周日8：00-21：00
+ 问  ✔|  ✔| [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2)  |  周一至周四7：30-22：00，周五至周六8：00-00：00，周日8：00-21：00
 
 ### Santa Monica, CA <a id="santa-monica-ca"></a>
 
@@ -1572,7 +1582,7 @@ Webpage: https://cafepascal.se
 ### Baltimore, MD <a id="baltimore-md"></a>
 #### The Bun Shop
 
- &gt;阁楼式的深夜咖啡厅，可盛放像piroshki和Empanadas这样的面包，以及越南咖啡.  BYOB.
+ &gt;阁楼式的深夜咖啡厅，可盛放像piroshki和Empanadas这样的面包，再加上越南咖啡.  BYOB.
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
@@ -1651,12 +1661,12 @@ Webpage: https://cafepascal.se
 
 Notes:
 * 联系 [@richlitt](https://twitter.com/richlitt) 如有需要，输入wifi密码.
- *您每天可获得45m的免费wifi.  如果您知道自己在做什么，就会得到更多；）（但是如果经常在此黑客，​​则$ 14 / mo的wifi是值得的）
-*使用IPFS将使您在大约2小时（FYI）中启动他们的网络.
+ *您每天可获得45m的免费wifi.  如果您知道自己在做什么，则会得到更多；）（但是如果经常在此黑客，​​则$ 14 / mo的wifi是值得的）
+* Using IPFS will get you kicked off their network in ~2hr (FYI).
 
 #### Forge Baking Company
 
- &gt;与Bloc 11和Diesel相同的好食物，忙碌，明亮，塞子很少.  酸性咖啡，没有越南咖啡选择.
+ &gt;与Bloc 11和Diesel相同的好食物，忙碌，明亮，塞子很少.  酸性咖啡，没有越南咖啡选项.
 
 网页：http：//www.forgebakingco.com/
 
@@ -1690,7 +1700,7 @@ Notes:
 
  无线网络  电源|  气候化|  地址  营业时间
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2)  |  周一至周六9:30 AM-11PM，周日10:30 AM-1PM
+✔ | ✔ | ❄️/♨️ | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2)  |  周一-周六9:30 AM-11PM，周日10:30 AM-1PM
 
 ## Texas
 
@@ -1698,13 +1708,13 @@ Notes:
 
 #### Houndstooth Coffee
 
- &gt;朴素的地方，有非常出色的咖啡和完成工作的空间.  而且它在弗罗斯特银行大楼中 [evil looking building in Austin](https://www.reddit.com/r/evilbuildings/comments/4cdwap/frost_bank_looks_like_a_giant_evil_owl_staring/)!
+ &gt;朴素的地方，有出色的咖啡和完成工作的空间.  而且它在弗罗斯特银行大楼中 [evil looking building in Austin](https://www.reddit.com/r/evilbuildings/comments/4cdwap/frost_bank_looks_like_a_giant_evil_owl_staring/)!
 
 网页：https：//www.houndstoothcoffee.com/
 
  无线网络  电源|  气候化|  地址  营业时间
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [401 CONGRESS AVE STE 100C AUSTIN, TX 78701](https://goo.gl/maps/irEZayEujm32)  |  周一–周五：6:30 AM – 7 PM星期六＆周日：8:00 AM – 5 PM
+✔ | ✔ | ❄️/♨️ | [401 CONGRESS AVE STE 100C AUSTIN, TX 78701](https://goo.gl/maps/irEZayEujm32)  |  周一-周五：6:30 AM-7 PM星期六＆周日：8:00 AM-5 PM
 
 ## New York <a id="new-york"></a>
 
@@ -1718,7 +1728,7 @@ Notes:
 
  无线网络  电源|  咖啡|  地址  营业时间
 ---- | ----- | -------| ------- | ----------
- 打开，墙上的密码|  ✔|  ✔| [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm)  |  打开星期一-星期五，10:00 am-6:00 pm
+ 打开，密码在墙上|  ✔|  ✔| [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm)  |  打开星期一-星期五，10:00 am-6:00 pm
 
 #### Ground Support Cafe
 &gt; Soho的绝佳去处，可让您完成工作并感觉自己属于酷酷的soho人群
@@ -1727,7 +1737,7 @@ Notes:
 
  无线网络  电源|  咖啡|  地址  营业时间
 ---- | ----- | -------| ------- | ----------
- 打开，墙上的密码|  ✔|  ✔| [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm)  |  营业时间：上午7点至晚上8点周末8点至晚上8点|
+ 打开，密码在墙上|  ✔|  ✔| [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm)  |  营业时间：上午7点至晚上8点周末8点至晚上8点|
 
 #### Pushcart Coffee Chelsea
 
@@ -1751,7 +1761,7 @@ Notes:
 
  无线网络  电源|  气候化|  地址  营业时间
 ---- | ----- | -------------- | ------- | ----------
- 打开，墙上的密码|  ✔|  ❄️/♨️| [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432)  |  打开星期一-星期五，7:00 am-6:00 pm星期六8:00 am-6:00 pm周日关闭|
+ 打开，密码在墙上|  ✔|  ❄️/♨️| [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432)  |  打开星期一-星期五，7:00 am-6:00 pm星期六8:00 am-6:00 pm周日关闭|
 
 ## Washington <a id="washington"></a>
 
@@ -1763,13 +1773,13 @@ Notes:
 
  无线网络  电源|  咖啡|  地址  营业时间
 ---- | ----- | ------ | ------- | ----------
- 打开  ✔|  ✔| [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2)  |  周一至周四9：00-21：00，周五-星期六10：00-18：00，周日12：00-20：00
+ 打开  ✔|  ✔| [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2)  |  周一至周四9：00-21：00，周五-周六10：00-18：00，周日12：00-20：00
 
 ## Seattle, WA <a id="seattle-wa"></a>
 
 #### Seattle Public Library
 
-&gt;对所有人免费，有很多空间，但必须保持安静.
+&gt;对所有人免费，有很多空间，但必须安静.
 
  无线网络  电源|  咖啡|  地址  营业时间
 ---- | ----- | ------ | ------- | ----------
@@ -1783,7 +1793,7 @@ Notes:
 
  无线网络  电源|  咖啡|  地址  营业时间
 ---- | ----- | ------ | ------- | ----------
- 打开  ✔|  ✔| [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62)  |  周一至周五6：00-19：00，星期六7：00-19：00，星期日8：00-20：00
+ 打开  ✔|  ✔| [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62)  |  周一至周五6：00-19：00，周六7：00-19：00，周日8：00-20：00
 
 #### Ada's Technical Books
 
@@ -1791,7 +1801,7 @@ Notes:
 
  无线网络  电源|  咖啡|  地址  营业时间
 ---- | ----- | ------ | ------- | ----------
- 问|  ✔|  ✔| [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm)  |  周一至周日8：00-22：00
+ 问  ✔|  ✔| [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm)  |  周一至周日8：00-22：00
 
 #### Fix Coffeehouse
 
@@ -1799,4 +1809,4 @@ Notes:
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
- 问|  ✔| [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
+ 问  ✔| [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2)  |  周一至周五6：00-21：00，星期六7：00-21：00，星期日7：00-20：00

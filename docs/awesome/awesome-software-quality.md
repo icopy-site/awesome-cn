@@ -22,7 +22,7 @@
 
  可以通过许多轴来组织这样的列表，例如目标受众的专业水平（从专家到整个公众）或学科定位（计算机科学，数学，数学逻辑等）.  在这里，我选择了按主题类型对材料进行分类.
     
-如果您想添加一些内容，只需将您希望显示的文本发送到estetus@gmail.com，最好已将其格式化为markdown.
+如果您想添加一些内容，只需将您希望显示的文本发送到estetus@gmail.com，最好已将其设置为markdown格式.
 
 ## Index
 
@@ -36,6 +36,10 @@
 
 #### Software Testing Theory
 
+* [101 TDD Tips](http://www.codemanship.co.uk/files/101TddTips.pdf)
+* [Test Driven Development](http://www.codemanship.co.uk/tdd_jasongorman_codemanship.pdf)
+* ["UI Testing Best Practices"](https://github.com/NoriSte/ui-testing-best-practices)
+* [Software Testing: From Theory to Practice](https://sttp.site/)
 * [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops)
 * [Programs and Proofs. Mechanizing Mathematics with Dependent Types.](http://ilyasergey.net/pnp/) -伊利亚·谢尔盖（Ilya Sergey）@ilyasergey
@@ -70,7 +74,7 @@
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) -杰森礼貌
 * [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) -理查德·恩德格伦（Richard Endgren）
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) -由Andreas Zeller，Rahul Gopinath，MarcelBöhme，Gordon Fraser和Christian Holler撰写
-* [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -Mauro Mezal Young（[slides](http://ix.cs.uoregon.edu/~michal/book/))
+* [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -Mauro Young（[slides](http://ix.cs.uoregon.edu/~michal/book/))
 * [Software Testing Glossary](https://testitquickly.com/2016/12/14/software-testing-glossary/)
 * [Quality Assistance](https://www.atlassian.com/inside-atlassian/quality-assurance-vs-quality-assistance) 和 [here](https://amaysim.engineering/from-quality-assurance-to-quality-assistance-32ffc990d27b) 和 for [youtube](https://youtu.be/9giJYYag6wQ)
 

@@ -138,6 +138,7 @@ _游戏和与游戏相关的项目._
 - [Play!](https://www.patreon.com/jpd002) -PS2仿真器.
 - [Rpcs3](https://www.patreon.com/Nekotekina) -PS3仿真器.
 - [Xenia](https://www.patreon.com/xenia_project) -Xbox 360模拟器.
+- [vvctre](https://www.patreon.com/vvanelslande) -Nintendo 3DS模拟器.
 
 
 ## People Doing Open Source Work
@@ -177,7 +178,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) -创建C ++库和标准提案.
 - [Joey Hess](https://www.patreon.com/joeyh) -git-annex，keysafe和其他Linux软件.
 - [Johann-S](https://www.patreon.com/jservoire) -引导JavaScript开发人员以及各种插件和项目.
-- [Jorge Bucaran](https://github.com/sponsors/jorgebucaran) - Hyperapp and many other JavaScript projects.
+- [Jorge Bucaran](https://github.com/sponsors/jorgebucaran) -Hyperapp和许多其他JavaScript项目.
 - [Jonathan Müller](https://www.patreon.com/foonathan) -各种C ++库，工具，文章.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) -GIMP，OpenSimulator，KiCad和TinyScheme等项目的贡献者.
 - [Kévin Dunglas](https://github.com/sponsors/dunglas) -API平台，Vulcain，Mercure和Symfony贡献.
@@ -203,7 +204,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Patrick Wardle](https://www.patreon.com/objective_see) -Objective-See的所有者，各种macOS安全工具和文章.
 - [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) -Tuist和XcodeProj库，文章.
 - [Pedro Carrasco](https://github.com/sponsors/pedrommcarrasco) -各种iOS库和项目.
-- [Philip Guo](https://www.patreon.com/pgbovine) -Python Tutor和pgbovine.net（文章/播客/ vlogs）.
+- [Philip Guo](https://www.patreon.com/pgbovine) - Python Tutor and pgbovine.net (articles/podcasts/vlogs).
 - [Pierre Krieger](https://www.patreon.com/tomaka) -各种Rust库.
 - [Raph Levien](https://www.patreon.com/raphlinus) -Xi编辑器和其他Rust项目.
 - [Reini Urban](https://www.patreon.com/rurban) -维护和开发软件，例如cperl，鹦鹉，许多perl5模块，safeclib和libredwg.

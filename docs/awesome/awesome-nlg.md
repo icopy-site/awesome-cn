@@ -4,7 +4,7 @@
 
 ![Piscis Magnus from BL Harley 647](https://raw.githubusercontent.com/tokenmill/awesome-nlg/master/logo.png)
 
- 自然语言生成在聊天机器人，故事生成和数据描述中具有广泛的应用领域.  涉及NLG过程的部分或全部的技术种类繁多.  该列表旨在通过提供指向各种项目，工具，研究论文和学习资料的链接来表示NLG应用程序和技术的这种逆转.
+ 自然语言生成在聊天机器人，故事生成和数据描述中具有广泛的应用领域.  涉及NLG过程的一部分或全部的技术种类繁多.  该列表旨在通过提供指向各种项目，工具，研究论文和学习资料的链接来表示NLG应用程序和技术的这种逆转.
 
 
 
@@ -69,6 +69,7 @@
 - [NLP - Text Generation Reading List](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings/blob/master/NLP/NLP_generation.md)
 - [Survey of the State of the Art in NaturalLanguage Generation: Core tasks, applicationsand evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 - [Revisiting Challenges in Data-to-Text Generation with Fact Grounding](https://www.inlg2019.com/assets/papers/32_Paper.pdf)
+- [Turing-NLG: A 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)
 
 
 ## Products 

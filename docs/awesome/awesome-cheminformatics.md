@@ -32,6 +32,12 @@
 * [AutoDock Vina](http://vina.scripps.edu/) -分子对接和虚拟筛选.
 * [smina](https://sourceforge.net/projects/smina/) -定制 [AutoDock Vina](http://vina.scripps.edu/) 以更好地支持评分功能开发和高性能能耗最小化.
 
+<a id="app-virtual"></a>
+### Virtual Machine
+
+* [myChEMBL](http://chembl.blogspot.com/2015/07/mychembl-20-has-landed.html) - 
+* [3D e-Chem Virtual Machine](https://github.com/3D-e-Chem/3D-e-Chem-VM) - 
+
 ## Libraries
 
 <a id="lib-general"></a>
@@ -132,7 +138,7 @@
 
 * [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -同时包括来自公共（NIH），学术界和工业界的见解.
 * [Chemoinformatics for Drug Discovery](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785) -有关如何使用化学信息学策略改善药物发现结果的材料.
-* [Molecular Descriptors for Chemoinformatics](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766) -超过3300个用于化学信息化学性质分析的描述符和相关术语.
+* [Molecular Descriptors for Chemoinformatics](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766) -超过3300个用于化学信息分析化学性质的描述符和相关术语.
 
 <a id="see-also"></a>
 ## See Also

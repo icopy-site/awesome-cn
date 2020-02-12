@@ -225,6 +225,9 @@
 -  [Rebuilding Airbnb’s Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
 -  [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 -  [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
+-  [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
+-  [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
+-  [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
  |  表情符号|  类型
 | ----- | -------------------------- |
@@ -293,6 +296,7 @@
 - [Valohai](https://valohai.com)
 - [GitInLog](https://www.gitinlog.com/)
 - [UptimeMate](https://uptimemate.com/)
+- [myDID](https://mydid.dev)
 
 ## Contribute
 

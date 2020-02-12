@@ -13,7 +13,7 @@
 
  这是开始研究“数据科学”的捷径.  只需按照以下步骤回答以下问题：“什么是数据科学？我应该学习什么才能学习数据科学？”
 
- 首先，数据科学是当今计算机和Internet农田上最热门的主题之一.  人们一直从应用程序和系统收集数据，直到今天，现在是分析它们的时候了.  下一步是从数据中提出建议并创建有关未来的预测. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到** Data Science **的最大问题以及专家提供的数百个答案. 
+ 首先，数据科学是当今计算机和Internet农田上最热门的主题之一.  人们从应用程序和系统中收集数据直到今天，现在是分析它们的时候了.  下一步是从数据中提出建议并创建有关未来的预测. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到** Data Science **的最大问题以及专家提供的数百个答案. 
 
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/)  该库具有收集和分析数据的全部功能.  我们用 [Anaconda](https://www.continuum.io/downloads) 玩数据并创建应用程序. 
 
@@ -534,6 +534,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 * [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) 
+* [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 
 
 ### Free Courses

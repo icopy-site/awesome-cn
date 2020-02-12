@@ -55,7 +55,7 @@ Audio
 普通音乐的工作转移到（基于方案）cm3.
 * [cm-incudine](https://github.com/ormf/cm-incudine)  -通过实时功能扩展了Common Music 2.  GPL2.
 * [Mégra](https://github.com/the-drunk-coder/megra)  -用变序马尔可夫链和其他一些随机的恶作剧制作音乐的迷你语言.  [GPL3] [2].
-* [Music](https://github.com/MegaLoler/Music) -Lisp中的音乐表达框架，着重于音乐理论（从零开始，与Common Music无关）.
+* [Music](https://github.com/MegaLoler/Music) -Lisp中的音乐表达框架，着重于音乐理论（从零开始构建，与通用音乐无关）.
 * [rq](https://github.com/openmusic-project/RQ) -OpenMusic中的节奏转录库（版本6.10及更高版本）. [demo video](https://www.youtube.com/watch?v=XVEllB0TtVs) .  [GPL3] [2].
 * [scheduler](https://github.com/byulparan/scheduler)  -Common Lisp的基于时间的音乐事件调度程序.  [Apache2.0] [51].
 * [mixalot](https://github.com/ahefner/mixalot)  -mp3，ogg vorbis和flac的音频库的松耦合集合.  用于 [Shuffletron music player](https://github.com/ahefner/shuffletron).
@@ -68,7 +68,7 @@ Audio
 
 *：星级： [ASDF](https://common-lisp.net/project/asdf/)  -另一个系统定义工具；  Common Lisp的构建系统.  [Expat] [14].
 * [asdf-linguist](https://github.com/eudoxia0/asdf-linguist)  -ASDF的扩展.  [Expat] [14].
-* [asdf-viz](https://github.com/guicho271828/asdf-viz)  -可视化ASDF系统的库依赖性，函数的调用图和类继承的工具.  [LLGPL] [8].
+* [asdf-viz](https://github.com/guicho271828/asdf-viz) - a tool to visualize the library dependencies of ASDF systems, the call graph of a function and the class inheritances. [LLGPL][8].
 
 编译器，代码生成器
 ==========================
@@ -80,7 +80,7 @@ C，C ++
 * [C-mera](https://github.com/kiselgra/c-mera)  -源到源编译器，利用Lisp的宏系统对类似C的语言进行元编程.  [GPL3] [2].
 * [lispc](https://github.com/eratosthenesia/lispc) -用于C. [MIT] [200]的强大的“ lispsy”宏语言.
 * [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl)  -用于C语言的交互式REPL.  未指定许可证.
-
+* [Software-Evolution-Library](https://github.com/GrammaTech/sel)  -SEL支持对软件进行编程修改和评估（使用Clang，编译汇编器和链接的ELF二进制文件提供C / C ++支持）.  [GPL3] [2].
 
 Crypto
 ======
@@ -188,6 +188,7 @@ Docker映像
 
 *：星级： [CFFI](https://github.com/cffi/cffi)  -易于使用的便携式C外部功能接口.  [Expat] [14].
 * [cl-autowrap](https://github.com/rpav/cl-autowrap)  -自动将头文件解析为CFFI定义.  [FreeBSD] [39].
+* [cl-bindgen](https://github.com/sdilts/cl-bindgen)  -用于从C头文件创建Common Lisp语言绑定的命令行工具和库.  [MIT] [200].
 * [cl-gobject-introspection](https://github.com/andy128k/cl-gobject-introspection) - [Gobject Introspection](https://gi.readthedocs.io/en/latest/)  FFI.  自动绑定以调用C库.  [BSD] [15].  生成一个Lisp接口 [gir2cl](https://github.com/kat-co/gir2cl) .  [LGPL3] [9].
 
 ## Java ##
@@ -246,7 +247,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
-* [donuts](https://github.com/tkych/donuts)  -图形绘制DSL用于Common Lisp.  [Expat] [14].
+* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [Expat] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -386,7 +387,7 @@ Iteration
   与迭代不同，它不需要代码遍历并且更容易
    延伸.  [Artistic License 2.0] [51].
 * [series](https://github.com/tokenrove/series/wiki)  -功能样式，完全没有任何运行时损失.  [MIT] [200].
-* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优势（请参阅“数据结构”部分），正如同一作者所写.  在Quicklisp中，是`misc-extensions`的一部分.  公共区域.
+* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优势（请参见“数据结构”部分），正如同一作者所写.  在Quicklisp中，是`misc-extensions`的一部分.  公共区域.
 
 
 Lambda速记
@@ -578,7 +579,7 @@ HTTP服务器
 
 ### Hunchentoot plugins
 
-* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的分派，从URL路径提取参数，修饰符，从路由名称生成URL等.[MIT] [200].
+* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的调度，从url路径中提取参数，装饰器，从路由名称中生成url等.[MIT] [200].
 * [hunchentoot-cgi](https://github.com/slyrus/hunchentoot-cgi)  -用于从hunchentoot Web服务器执行CGI脚本的库.  [BSD] [207].
 * [hunchentoot-multi-acceptor](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/)  -使用单个端口在单个hunchentoot接受器上路由多个域（虚拟主机）.  [Apache2.0] [89].
 
@@ -660,7 +661,7 @@ Javascript
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) -用于解析ECMAScript 3的软件包.[zlib] [33].
 * [JSCL](https://github.com/jscl-project/jscl)  -从一开始就设计为自托管的CL到JS编译器.  缺少CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)  -从Javascript到Common Lisp的翻译器.  在Quicklisp上不可用.  [Expat] [14].
-* [Wuwei](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT][200].
+* [Wuwei](https://github.com/mtravers/wuwei/)  -用于构建基于Ajax的网页的工具包.  [MIT] [200].
 * [SmackJack](https://github.com/aarvid/SmackJack)  -使用parenscript生成javascript和hunchentoot（目前）作为Web服务器的Ajax Common Lisp库.  还允许服务器端lisp函数调用客户端脚本.  [MIT] [200].
 * [Panic](https://github.com/michaeljforster/panic) ，一个React的Parenscript库.  不在Quicklisp中.  [MIT] [200].  它 [TodoMVC example](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
 * [remote-js](https://github.com/ceramic/remote-js)  -将JavaScript从Common Lisp发送到浏览器.  [MIT] [200].
@@ -691,7 +692,7 @@ Websockets
 静态网站生成器
 ----------------------
 
-* [coleslaw](https://github.com/kingcons/coleslaw) and its
+* [coleslaw](https://github.com/kingcons/coleslaw) 及其
   [coleslaw-cli](https://github.com/40ants/coleslaw-cli) -灵活
    Lisp Blogware与Frog，Jekyll或Hakyll类似.  [BSD] [15].
 
@@ -767,7 +768,7 @@ Others
 * [Petalisp](https://github.com/marcoheisig/Petalisp) -试图
   通过以下方式为并行计算机生成高性能代码
    JIT编译数组定义.  它适用于更多
-  通过提供更强大的功能，比NumPy具有更高的基本水平
+  通过提供更强大的功能，比NumPy的基本级别
   N维数组，但仅用于构建的几个构建基块
    他们.  [AGPL] [89].
 * [cmu-infix](https://github.com/rigetti/cmu-infix)  -用于在Common Lisp中编写中缀数学符号的库.  也可以看看 [polisher](https://github.com/mrcdr/polisher).
@@ -839,7 +840,7 @@ Scripting
 * [Shelly](https://github.com/fukamachi/shelly) -执行Common Lisp
   功能类似于shell命令，而无需编写命令
    行参数解析器.  它也可以用作Make-like
-   构建工具.  [FreeBSD] [39].
+  build-tool. [FreeBSD][39].
 * [cl-readline](https://github.com/vindarel/cl-readline) - 一套
   键入时编辑行的功能，以维护行列表
   先前输入的命令行，以对其进行重新调用和重新编辑，以及
@@ -858,13 +859,13 @@ Scripting
 * [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) -一个
    到Common Lisp中的`libcurses`接口.  它提供了原始
   通过CFFI进行libcurses的低级接口，以及更高级别的接口
-   Lispier界面.  [带] [200].
+  lispier interface. [MIT][200].
 * [shcl](https://github.com/bradleyjensen/shcl)  -Common Lisp中类似POSIX的外壳.  [Apache2.0] [51].
-* [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT][200].
+* [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)  -进度条，就像在Quicklisp中一样！  [MIT] [200].
 * [WCL](https://github.com/wadehennessey/wcl) -允许数百Lisp
 一次可实际获得应用程序，同时允许
  其中几个要同时运行.  WCL通过以下方式完成此任务
-providing Common Lisp as a Unix shared library that can be linked with
+提供Common Lisp作为可以与以下链接的Unix共享库
  Lisp和C代码可产生高效的应用程序.  例如，
 Lisp版本的“ Hello World！”的可执行文件！
  在32位x86 Linux上，该程序仅需要20k字节.  WCL也
@@ -1160,7 +1161,7 @@ XML
 
 * [CXML](https://common-lisp.net/project/cxml/)  -XML解析器，带有一系列扩展库.  [LLGPL] [8].
  * [Plump] [71]-一个宽松的XML解析器.  [Artistic License 2.0] [51].
-* [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)  -XML路径语言（XPath）1.0版的实现.  [BSD_2Clause] [17].
+* [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html) - Implementation of the XML Path Language (XPath) Version 1.0. [BSD_2Clause][17].
 * [s-xml](http://cliki.net/S-XML)  -基本解析器.  [LLGPL] [8].
 * [xmls](http://quickdocs.org/xmls/)  -小型，简单，未经验证的XML解析器.  [3子BSD] [15].
 * [cl-feedparser](https://github.com/TBRSS/cl-feedparser)  -Common Lisp（RSS，Atom）提要解析器.  [LLGPL] [8]
