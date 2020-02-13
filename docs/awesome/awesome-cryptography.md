@@ -124,7 +124,7 @@
 - [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) -C型小型便携式AES128.
 - [wolfSSL](https://github.com/wolfSSL/wolfssl) -TLS / SSL的小型，快速，便携式实施，可将嵌入式设备连接到云.
-- [xxHash](https://github.com/Cyan4973/xxHash) -极快的哈希算法.
+- [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C++
 
@@ -164,7 +164,7 @@
 
 ### Elixir
 
-- [cipher](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+- [cipher](https://github.com/rubencaro/cipher) -Elixir加密库可加密/解密任意二进制文件.
 - [cloak](https://github.com/danielberkompas/cloak) -斗篷使使用Ecto加密变得容易.
 - [comeonin](https://github.com/elixircnx/comeonin) -Elixir的密码授权（bcrypt）库.
 - [elixir-rsa](https://github.com/trapped/elixir-rsa) -`：public_key` Elixir的加密包装.
@@ -211,7 +211,7 @@
 - [cryptico](https://github.com/wwwtyro/cryptico) -使用RSA和AES的JavaScript的易于使用的加密系统.
 - [crypto-js](https://github.com/brix/crypto-js) -加密标准的JavaScript库.
 - [cryptojs](https://github.com/gwjjeff/cryptojs) -为NodeJS提供标准和安全的加密算法.
-- [forge](https://github.com/digitalbazaar/forge) -使用Javascript和工具编写TLS的本地实现，以编写基于加密和网络繁重的Web应用程序.
+- [forge](https://github.com/digitalbazaar/forge) -使用Javascript和工具编写TLS的本机实现，以编写基于加密和网络繁重的Web应用程序.
 - [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) -转换加密库，一种代理重新加密的变体，用于加密用户或组，并轻松向NodeJS应用添加强大的数据控件.
 - [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) -转换加密库，一种代理重新加密的变体，用于轻松地在浏览器中安全地管理端到端加密.
 - [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) -JavaScript加密库为Web开发人员提供了一套广泛而有效的加密功能.
@@ -223,6 +223,11 @@
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) -使用方便的包装程序将libsodium编译为纯JavaScript.
 - [libVES.js](https://github.com/vesvault/libVES) -通过云存储库进行端到端加密共享，在密钥丢失的情况下通过朋友的病毒网络安全恢复.
 - - [milagro-crypto-js](https://github.com/apache/incubator-milagro-crypto-js)  -MCJS是符合标准的JavaScript密码库，除了随机种子源外，没有任何外部依赖关系.  兼容nodejs和浏览器.  它支持RSA，ECDH，ECIES，ECDSA，AES-GCM，SHA2，SHA3，基于配对的密码术和New Hope.
+ -高贵-包含密码库和工具的高安全性，易于审核的集合.  每个零依赖.
+  - [noble-bls12-381](https://github.com/paulmillr/noble-bls12-381) — BLS12-381配对友好曲线（阈值信号）
+  - [noble-ed25519](https://github.com/paulmillr/noble-ed25519) — ed25519曲线+ ristretto255（加密，信号）
+  - [noble-ripemd160](https://github.com/paulmillr/noble-ripemd160) -RIPEMD160哈希.
+  - [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) — secp256k1 Koblitz曲线（加密，ECDH，信号）
 - [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) -用于NodeJS的bcrypt.
 - [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) -JavaScript的OpenPGP实现.
 - [PolyCrypt](https://github.com/polycrypt/polycrypt) -WebCrypto API的纯JS实现.
@@ -234,7 +239,7 @@
 ### Java
 
 - [Apache Shiro](http://shiro.apache.org/) -执行身份验证，授权，加密和会话管理.
-- [Bouncy Castle](https://www.bouncycastle.org/java.html)  -通用加密库.  JCA提供程序，从基本助手到PGP / SMIME操作的功能范围很广.
+- [Bouncy Castle](https://www.bouncycastle.org/java.html)  -通用加密库.  JCA提供程序，从基本帮助程序到PGP / SMIME操作的功能范围很广.
 - [Flexiprovider](http://www.flexiprovider.de/) -用于Java密码体系结构的强大工具包.
 - [GDH](https://github.com/maxamel/GDH) -通用的Diffie-Hellman密钥交换Java库，用于在Vert.x框架之上构建的多个参与者.
 - [Google Keyczar](https://github.com/google/keyczar) -易于使用，但具有密钥版本控制的安全加密框架.
@@ -283,7 +288,7 @@ algorithm.
 ### Python
 
 - [bcrypt](https://github.com/pyca/bcrypt) -您的软件和服务器的现代密码哈希.
-- [charm](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+- [charm](https://github.com/JHUISI/charm) -用于快速制作密码系统原型的框架.
 - [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) -用于数字签名的抗量子非对称密钥生成工具.
 - [cryptography](https://cryptography.io/en/latest/) -公开密码配方和原语的Python库.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) -加密算法和应用程序的纯python实现.
@@ -292,16 +297,16 @@ algorithm.
 - [Privy](https://github.com/ofek/privy) -一个简单，快速的库，可以正确地用密码保护您的数据.
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) -低级加密原语的自包含Python包.
 - [PyElliptic](https://github.com/yann2192/pyelliptic)  -Python OpenSSL包装器.  对于带有ECC，AES，HMAC和Blowfish的现代密码学.
-- [pynacl](https://github.com/pyca/pynacl) -将Python绑定到网络和密码（NaCl）库.
+- [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### R
 
-- [rscrypt](https://github.com/rstudio/rscrypt) - Package for a collection of scrypt cryptographic functions.
+- [rscrypt](https://github.com/rstudio/rscrypt) -一组用于加密密码功能的软件包.
 
 ### Ruby
 
-- [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby) -用于OpenBSD bcrypt（）密码哈希算法的Ruby绑定，使您可以轻松存储用户密码的安全哈希.
+- [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby) - Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
 - [RbNaCl](https://github.com/cryptosphere/rbnacl) -Ruby绑定到网络和密码学（NaCl）库.
 - [Ruby Themis](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 

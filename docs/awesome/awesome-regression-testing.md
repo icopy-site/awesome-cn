@@ -58,6 +58,7 @@
 - [reg-cli](https://github.com/bokuweb/reg-cli) -视觉回归测试工具，可输出易于阅读的单个文件html报告.
 - [Nightmare](https://github.com/segmentio/nightmare) -基于Electron的高级浏览器自动化库.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) -无头Google Chrome节点API.
+- [Playwright](https://github.com/microsoft/playwright) -节点库，可通过单个API自动执行Chromium，Firefox和WebKit.
 - [Visual Review](https://github.com/xebia/VisualReview) -用于测试和查看视觉回归的人性化工具.
 - [reg-suit](https://github.com/reg-viz/reg-suit) -可视回归测试套件，用于比较图像，存储快照，并将差异通知您的GitHub存储库.
 - [Chimp](https://github.com/xolvio/chimp) -开发具有实时反馈的验收测试和端到端测试.

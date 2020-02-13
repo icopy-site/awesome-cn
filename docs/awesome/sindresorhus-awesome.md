@@ -195,6 +195,7 @@
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
+- [Coq](https://github.com/coq-community/awesome-coq#readme) -用于编程和说明的正式语言和环境，可促进交互式开发机器检查的证明.
 
 ## Front-End Development
 
@@ -518,7 +519,7 @@
 
 ## Work
 
-- [Slack](https://github.com/matiassingers/awesome-slack#readme) -团队合作.
+- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
@@ -637,7 +638,7 @@
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) -智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) -在命令行上两次输入记帐.
-- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
+- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) -公共领域的作品.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) -数字货币，其中加密用于调节单位的生成和验证转移.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) -建立一个更具包容性和多元化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) -免费提供开源项目的工具和服务的公司.

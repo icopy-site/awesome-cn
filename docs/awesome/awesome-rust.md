@@ -943,6 +943,7 @@
 * [rust-lang/log](https://github.com/rust-lang/log) — Rust的日志记录实现 [![Build Status](https://api.travis-ci.org/rust-lang/log.svg?branch=master)](https://travis-ci.org/rust-lang/log)
 * [slog-rs/slog](https://github.com/slog-rs/slog) — Rust的结构化，可组合的日志记录 [![Build Status](https://api.travis-ci.org/slog-rs/slog.svg?branch=master)](https://travis-ci.org/slog-rs/slog)
 * [estk/log4rs](https://github.com/estk/log4rs) —以Java的Logback和log4j库为模型的高度可配置的日志记录框架 [![CircleCI](https://circleci.com/gh/estk/log4rs.svg?style=shield)](https://circleci.com/gh/estk/log4rs)
+* [tokio-rs/tracing](https://github.com/tokio-rs/tracing) —用于异步感知的结构化日志，错误处理，指标等的应用程序级别跟踪框架 [![Build Status](https://github.com/tokio-rs/tracing/workflows/CI/badge.svg?branch=master)](https://github.com/tokio-rs/tracing/actions?query=workflow%3ACI)
 
 ### Macro
 

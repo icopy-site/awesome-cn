@@ -40,7 +40,7 @@
 - [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/)  -通过问题进行解释.  与Microsoft和Alphabet X一起策划.
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) -麻省理工学院量子信息科学课程的系列讲义.
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) -量子密码学入门课程以及如何运行量子程序.
-- [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) -了解D-Wave Quantum Annealer架构以及一些实际任务.
+- [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) - Understanding the D-Wave Quantum Annealer architecture along with a few practical tasks.
 - [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) -了解量子通信如何提供自然法则所保证的安全性.
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) -量子信息和计算基础课程.
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) -了解量子技术可以为机器学习带来的好处.
@@ -71,7 +71,7 @@
 
 ## Blogs
 
-- [Algorithmic Assertions](http://algassert.com/) -关于量子计算以及Google量子计算小组成员Craig Gidney的一般文章.
+- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉尼（Craig Gidney）-Google量子计算团队的成员.
 - [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享研究成果和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.
@@ -89,6 +89,7 @@
    量子算法，并展示如何使用Qiskit在真实硬件上运行它们.  还介绍了先决条件.
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Introduces quantum computing using Python and Q#, Microsoft's new language for quantum programming.
 - [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) -易于解决的高级量子计算和信息问题.
+- [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) -量子计算的动手入门，重点介绍概念和编程示例（多种语言）.
 - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) -全面的教科书，适用于那些具有数学，计算机科学和物理学先验知识的人.
 - [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) -仅需基本的大学数学知识即可说明量子计算.
 - [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) -用对话方法解释有效解决方案的量子计算.

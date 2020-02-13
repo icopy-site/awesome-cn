@@ -2,8 +2,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Algorithms
 
-精选的很棒的地方来学习和/或练习算法.
-受启发 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 以及所有其他出色的Awesome库.
+精选的学习和/或练习算法的地方列表.
+受启发 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 以及所有其他很棒的Awesome库.
 
 如果您想贡献，请阅读 [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
@@ -12,7 +12,7 @@
 
 *您应该用来学习经典算法的网站*
 
-* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) -交互式可视化，用于学习图形遍历算法的工作方式
+* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) -用于了解图形遍历算法如何工作的交互式可视化
 * [Algomation](http://www.algomation.com/) -生动活泼的算法说明.
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) -数十种动画算法（带有代码），您也可以创建自己的算法.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) -关于算法可视化的密集文章.
@@ -20,7 +20,7 @@
 * [Code-Drills](https://code-drills.com/tools/comparator) -练习问题推荐者（包括Codeforce，Codechef和Spoj）.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) -可视化数据结构的行为并进行操作.
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -很多很好解释和实现的算法.
-* [Path Finding](https://qiao.github.io/PathFinding.js/visual/) -直观表示算法，例如A \ *，IDA \ *，广度优先搜索，最佳优先搜索以及其他算法如何描述两个点A和B之间的路径.
+* [Path Finding](https://qiao.github.io/PathFinding.js/visual/) -视觉表示法，例如A \ *，IDA \ *，广度优先搜索，最佳优先搜索等算法如何描述两点A和B之间的路径.
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) -一个编程主题网站，旨在以不同的编程语言介绍许多算法和数据结构的实现.
 * [Sorting Algorithms](http://www.sorting-algorithms.com/)  -精美而简单的排序算法动画.  带有短代码和讨论.
 * [Stoimen's web log](http://www.stoimen.com/) -一些算法很好地解释了.
@@ -36,35 +36,36 @@
 * [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) -主要主题是：渐近（“ Big-oh”）表示法，排序和搜索，分治法和随机算法.
 * [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) -主要主题是：数据结构，图基元及其应用.
 * [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) -主要主题是：贪婪算法和动态编程.
-* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) -主要主题是：最短路径，NP完整性及其对算法设计者的意义以及应对计算上棘手的问题的策略.
+* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) -主要主题是：最短路径，NP完整性及其对算法设计者的意义以及应对计算上难以解决的问题的策略.
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) -本课程涵盖了每个认真的程序员都需要了解的有关算法和数据结构的基本信息.第一部分介绍了基本数据结构，排序和搜索算法. 
-* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) -第二部分重点介绍图形和字符串处理算法.
-* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) -Tomas Cormen和Devin Balkcom开设的算法课程.
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) -第二部分着重于图形和字符串处理算法.
+* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) -由Tomas Cormen和Devin Balkcom主持的算法课程.
 * [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) -详细说明的算法.
 * [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) -与上一个类似，但算法不同.
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -简单易懂的算法介绍.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) -基于Python的算法课程.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) -根据《 Grokking Algorithms》一书，提供有趣插图的初学者算法课程
-* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) -有关计算机科学的许多话题都有很好的解释.〜_ _由于违反了YouTube政策，帐户被终止了._
+* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) -关于各种计算机科学主题的解释得很清楚的视频.〜_ _由于违反了YouTube政策，帐户被终止了._
 
 ## Books
 
 *最受推崇的学习算法的书*
 
-* [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) -很简单.
+* [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) -非常简单.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) -使用JavaScript实现和解释的经典算法和数据结构.
-* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -这本很棒的书提出了许多编码挑战，从简单的任务到使用k-means进行数据聚类.
+* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -这本很棒的书提出了许多编码挑战，从简单的任务到使用k-means进行数据聚类不等.
 * [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) -一种实现具有特定可编程任务的算法的好方法.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) -数据结构的基本概念和用法.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) -一本关于算法和数据结构的很棒的书.
 * [Grokking Algorithms](http://www.manning.com/bhargava) -一本带算法的图解书，附有实际示例.
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) -必备！
+* [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) -向不具备高级数学或计算机科学背景的读者介绍算法.
 * [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) -概念，理论和代码的实用指南.
 * [The Algorithm Design Manual](http://www.algorist.com/) -易于阅读，充满现实世界的例子.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) -这本书.
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
-* [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) -引入可以在工作中使用的算法和数据结构的一种不同且绝佳的方法.
+* [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) -引入可在工作中使用的算法和数据结构的一种不同且绝佳的方法.
 
 ## Cheat Sheets
 * [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
@@ -72,12 +73,15 @@
 * [CLRS in short](https://sinon.org/algorithms//#data-structures)
 * [Rice university DS couse in short](https://www.clear.rice.edu/comp160/data1.html)
 * [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
+* [Algo Deck](https://github.com/teivah/algodeck/) -+ 200算法卡的开源集合.
 
 ## Github Libraries
 
 *以多种编程语言实现最经典的算法*
 
-* [C](https://github.com/fragglet/c-algorithms)
+* C
+    * [by @fragglet](https://github.com/fragglet/c-algorithms)
+    * [by @TheAlgorithms](https://github.com/TheAlgorithms/C)
 * [CoffeeScript](https://github.com/BrunoRB/algorithms.coffee)
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
@@ -110,6 +114,8 @@
     * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
     * [by @amejiarosario](https://github.com/amejiarosario/dsa.js)
     * [by @zonayedpca](https://github.com/zonayedpca/AlgoDS.js)
+*卢阿
+    * [by @evandrolg](https://github.com/EvandroLG/computer_science_in_lua)
 *目标-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
@@ -145,12 +151,12 @@
 * [Baekjoon Online Judge](https://www.acmicpc.net/)  -韩国在线法官.  超过10000个问题.  支持60多种语言.
 * [CS Academy](https://csacademy.com/) -举办在线竞赛和IOI实践竞赛
 * [CodeChef](https://www.codechef.com/) -更多问题和每月在线竞赛.
-* [Codeforces ](http://codeforces.com/) -唯一的竞赛Web 2.0平台
+* [Codeforces ](http://codeforces.com/) -唯一的编程竞赛Web 2.0平台
 * [Codefights](https://codefights.com/) -主动编程并解决您的下一次技术面试
 * [CodeMarshal](https://algo.codemarshal.org/) -现实世界在线竞赛！
 * [CodeWars](http://www.codewars.com/) -提供支持以多种难度解决多种语言算法的网站.
-* [CoderByte](http://www.coderbyte.com/)  -一个不错的网站，从初学者到高级都面临算法挑战.  支持大多数流行的语言，例如C ++，python，javascript，ruby.
-* [Firecode](https://www.firecode.io/) -Firecode.io使用机器学习算法以及精选的真实世界面试问题，解决方案和充满活力的学习者社交社区，为您的下一次编码面试做好准备.
+* [CoderByte](http://www.coderbyte.com/)  -一个体面的网站，从初学者到高级都面临算法挑战.  支持大多数流行的语言，例如C ++，python，javascript，ruby.
+* [Firecode](https://www.firecode.io/) -Firecode.io使用机器学习算法以及精心策划的真实世界面试问题，解决方案和活跃的学习者社交社区，为您的下一次编码面试做好准备.
 * [Coding Blocks](https://hack.codingblocks.com/app/) -基于数学，数据结构，各种算法存在问题的网站，并且进行编码竞赛.
 * [HackerEarth ](https://www.hackerearth.com/) -练习算法问题和挑战，并参与招聘挑战.
 * [HackerRank](https://www.hackerrank.com/) -特色算法和功能编程在线评委
@@ -165,11 +171,11 @@
 * [ProjectEuler](https://projecteuler.net/) -可以使用算法解决的数学问题（或者只是一支铅笔，取决于您已经知道的多少）.
 * [Rosalind](http://rosalind.info/problems/locations/) -通过解决问题学习生物信息学和程序设计的平台.
 * [ShareCode.io ](https://sharecode.io/) -在线裁判和竞赛主持人要解决存档中很多算法问题.
-* [Snakify](https://snakify.org/) -具有100多种算法问题和逐步调试器的Python入门课程（来自俄罗斯）.
+* [Snakify](https://snakify.org/) -具有100多种算法问题和逐步调试器的入门Python课程（来自俄罗斯）.
 * [SPOJ](http://www.spoj.com/) -更多问题.
 * [TopCoder](https://www.topcoder.com/) -图形设计，数据科学和开发中的许多问题和现实世界/物有所值的问题.
-* [URI](https://www.urionlinejudge.com.br/judge/login)  -巴西在线法官.  问题不多，但它正在增长，并且有在线竞赛.
-* [UVA](https://uva.onlinejudge.org/) -数百个问题（来自以前的ACM-ICPC地区，世界总决赛及其他）.
+* [URI](https://www.urionlinejudge.com.br/judge/login)  -巴西在线法官.  问题不多，但是它正在增长，并且有在线竞赛.
+* [UVA](https://uva.onlinejudge.org/) -数百个问题（来自以前的ACM-ICPC地区，世界总决赛等）.
 
 ## Blogs
 

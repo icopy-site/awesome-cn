@@ -19,7 +19,7 @@
 ## Major Cloud Providers
 
   * [Google Cloud Platform](https://cloud.google.com)
-    * App Engine-每天28个前端实例小时，每天9个后端实例小时
+    * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
     * Cloud Firestore-1GB存储空间，每天50,000次读取，20,000次写入，每天20,000次删除
     * Compute Engine-1个不可抢占的f1-micro，30GB硬盘，5GB快照存储（仅限某些地区）
     *云存储-5GB，1GB网络出口
@@ -27,7 +27,7 @@
     *云发布/订阅-每月10GB的邮件
     *云功能-每月200万次调用（包括后台和HTTP调用）
     *云运行-每月2百万个请求，360,000 GB-秒的内存，180,000 vCPU-秒的计算时间，每月从北美流出1 GB的网络
-    * Google Kubernetes Engine - No cluster management fee for clusters of all sizes. Each user node is charged at standard Compute Engine pricing
+     * Google Kubernetes Engine-所有大小的集群均不收取集群管理费.  每个用户节点均按标准Compute Engine定价收费
     * BigQuery-每月查询1 TB，每月存储10 GB
     *云构建-每天120分钟构建
     *云源存储库-最多5个用户，50 GB存储，50 GB出口
@@ -35,7 +35,7 @@
 
   * [Amazon Web Services](https://aws.amazon.com)
     * Amazon DynamoDB-25GB NoSQL数据库
-    * Amazon Lambda-每月100万次请求
+    * Amazon Lambda - 1 Million requests per month
     * Amazon SNS-每月发布100万次
     * Amazon Cloudwatch-10个自定义指标和10个警报
     * Amazon Glacier-10GB长期对象存储
@@ -53,7 +53,7 @@
     * Active Directory B2C-每月存储50,000个用户
     * Azure DevOps-5位活跃用户
     * Microsoft IoT中心-每天8,000条消息
-    * Load Balancer - 1 free public load balanced IP (VIP)
+    *负载均衡器-1个免费的公共负载均衡IP（VIP）
     *通知中心-100万个推送通知
     *带宽-每月5GB出口
     *完整的详细列表-https://azure.microsoft.com/zh-cn/free/
@@ -95,7 +95,7 @@
   * [codebasehq.com](https://www.codebasehq.com/) —一个具有100 MB空间和2个用户的免费项目
   * [codeberg.org](https://codeberg.org/) -无限的公共和私人Git仓库
   * [gitea.com](https://www.gitea.com/) -无限的公共和私人Git仓库
-  * [github.com](https://github.com/) -带有CI / CD管道的无限公共存储库和无限私人存储库（最多3个合作者）
+  * [github.com](https://github.com/) —无限的公共存储库和无限的私人存储库（最多3个协作者），带有CI / CD管道
   * [gitlab.com](https://about.gitlab.com/) —无限的公共和私人Git仓库，具有无限的合作者，带有CI / CD管道，每个仓库有10 GB的空间
   * [ionicframework.com](https://ionicframework.com/appflow) -回购和使用Ionic开发应用程序的工具，您也拥有离子回购
   * [NotABug](https://notabug.org) — NotABug.org是用于基于Git的免费许可项目的免费软件代码协作平台
@@ -128,7 +128,7 @@
   * [IP2Location](https://www.ip2location.com)  — Freemium IP地理位置服务.  LITE数据库可免费下载.  将数据库导入服务器，然后执行本地查询以确定城市，坐标和ISP信息.
   * [IPinfo](https://ipinfo.io/)  —快速，准确，免费（每月最多10万个）IP地址数据API.  提供有关地理位置，公司，运营商，IP范围，域，滥用联系人等详细信息的API.  所有付费API均可免费试用.
   * [IPList](https://www.iplist.cc)  —有关任何IP地址的查询详细信息，例如Geo IP信息，tor地址，主机名和ASN详细信息.  个人和企业用户免费.
-  * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides reliable and useful IP geolocation data for your business.
+  * [IPTrace](https://iptrace.io) —非常简单的API，可为您的业务提供可靠且有用的IP地理位置数据.
   * [konghq.com/](https://konghq.com/)  — API市场以及用于私有和公共API的强大工具.  使用免费套餐时，某些功能会受到限制，例如监视，警报和支持
   * [MailboxValidator](https://www.mailboxvalidator.com)  —使用真实邮件服务器连接的电子邮件验证服务，以确认有效的电子邮件.  免费的API计划每月有300个验证.
   * [microlink.io](https://microlink.io/)  –它将任何网站转换为数据，例如元标记标准化，美容链接预览，抓取功能或屏幕截图即服务.  每天免费提供250请求.
@@ -184,11 +184,11 @@
   * [ideascale.com](https://ideascale.com/) —允许客户提交想法和投票，一个社区的25名成员免费
   * [Igloo](https://www.igloosoftware.com/) —用于共享文档，博客和日历等的内部门户.最多10个用户免费.
   * [meet.jit.si](https://meet.jit.si/) -一键式视频对话，屏幕共享，免费
-  * [Microsoft Teams](https://products.office.com/microsoft-teams/free)  — Microsoft Teams是一个基于聊天的数字中心，可以一次将所有对话，内容和应用程序集中在一起.  免费，最多可容纳300位用户.
+  * [Microsoft Teams](https://products.office.com/microsoft-teams/free) — Microsoft Teams is a chat-based digital hub that brings conversations, content, and apps together in one place all from a single experience. Free for up to 300 users.
   * [Notion](https://www.notion.so/) - Notion is a note-taking and collaboration application with markdown support that also integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.
   * [Pendulums](https://pendulums.io/) -Pendulums是一个免费的时间跟踪工具，可通过易于使用的界面和有用的统计信息帮助您更好地管理时间.
   * [Raindrop.io](https://raindrop.io)  -适用于macOS，Windows，Android，iOS和Web的私有安全书签应用程序.  免费的无限书签和协作.
-  * [riot.im](https://about.riot.im/) — A decentralized communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
+  * [riot.im](https://about.riot.im/)  —基于Matrix的分散式通信工具.  群组聊天，直接消息传递，加密的文件传输，语音和视频聊天，以及与其他服务的轻松集成.
   * [seafile.com](https://www.seafile.com/)  —私有或云存储，文件共享，同步，讨论.  私人版本已满.  云版本只有1 GB
   * [slack.com](https://slack.com/) —具有某些功能限制的无限用户免费
   * [Spectrum](https://spectrum.chat/) -免费创建公共或私人社区.
@@ -216,7 +216,7 @@
   * [beanstalkapp.com](https://beanstalkapp.com/) —编写，查看和部署代码的完整工作流程），1个用户的免费帐户和1个存储库（具有100 MB的存储空间）
   * [browserling.com](https://www.browserling.com/) —实时交互式跨浏览器测试，在1024 x 768分辨率下，在Vista下使用MS IE 9仅免费提供3分钟的会话
   * [codacy.com](https://www.codacy.com/) —针对PHP，Python，Ruby，Java，JavaScript，Scala，CSS和CoffeeScript的自动代码审查，免费提供无限制的公共和私有存储库
-  * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev)  -用于DevOps的自动基础结构作为代码审查工具与GitHub，Bitbucket和GitLab（甚至是自托管）集成.  除了标准语言外，它还分析Ansible，Terraform，CloudFormation，Kubernetes等.  （免费开源）
+  * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev)  -用于DevOps的作为代码审查工具的自动化基础架构与GitHub，Bitbucket和GitLab（甚至是自托管）集成.  除了标准语言外，它还分析Ansible，Terraform，CloudFormation，Kubernetes等.  （免费开源）
   * [codeclimate.com](https://codeclimate.com/)  —自动化代码审查，免费提供给开源和不受组织限制的私人私有存储库（最多4个协作者）.  对学生和机构也免费.
   * [codecov.io](https://codecov.io/) —代码覆盖率工具（SaaS），免费提供给开源和1个免费的私有仓库
   * [codescene.io](https://codescene.io/)  -CodeScene根据开发人员如何使用代码来优先考虑技术债务，并可视化团队耦合和系统精通等组织因素.  免费开源.
@@ -265,7 +265,7 @@
   * [codeship.com](https://codeship.com/) -每月100个私人构建，5个私人项目，开源无限制
   * [deployhq.com](https://www.deployhq.com/) — 1个项目，每天部署10个（每月构建30分钟）
   * [gitlab.com](https://about.gitlab.com/product/continuous-integration/)  —使用GitLab的CI服务直接从Git存储库创建管道.  2,000min / mo
-  * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) — Comparison of Continuous Integration services
+  * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) —持续集成服务比较
   * [semaphoreci.com](https://semaphoreci.com/) -开源免费，每月100个私有版本
   * [shippable.com](https://app.shippable.com/) —每月150个私人构建，免费使用1个构建容器，私人和公共存储库
   * [stackahoy.io](https://stackahoy.io)  — 100％免费.  无限的部署，分支和构建
@@ -299,8 +299,8 @@
   * [CodeNotary.io](https://www.codenotary.io/) —带有不可磨灭的证明的公证平台，用于公证代码，文件，目录或容器
   * [crypteron.com](https://www.crypteron.com/) —面向开发人员的云优先，安全的平台可防止.NET和Java应用程序中的数据泄露
   * [duo.com](https://duo.com/)  —网站或应用程序的两因素身份验证（2FA）.  10位用户免费，所有身份验证方法，无限制，集成，硬件令牌
-  * [foxpass.com](https://www.foxpass.com/) — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs and wireless networks. Free for 10 users
-  * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) —开源的免费SSL证书
+  * [foxpass.com](https://www.foxpass.com/)  —托管的LDAP和RADIUS.  轻松地按用户登录服务器，VPN和无线网络.  10位用户免费
+  * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) — Free SSL certificates for Open Source
   * [Have I been pwned?](https://haveibeenpwned.com) — REST API，用于获取违规信息.
   * [Internet.nl](https://internet.nl) -测试现代互联网标准，例如IPv6，DNSSEC，HTTPS，DMARC，STARTTLS和DANE
   * [keychest.net](https://keychest.net) -SSL到期管理和带有集成CT数据库的证书购买
@@ -370,7 +370,7 @@
   * [assertible.com](https://assertible.com)  —自动化的API测试和监视.  为团队和个人提供免费计划.
   * [blackfire.io](https://blackfire.io/)  — Blackfire是SaaS交付的应用程序性能解决方案.  免费的黑客计划（仅PHP）
   * [bmc.com](https://www.bmc.com/truesightpulse/) —免费1秒分辨率，最多可容纳10台服务器
-  * [circonus.com](https://www.circonus.com/) — Free for 20 metrics
+  * [circonus.com](https://www.circonus.com/) —免费获得20个指标
   * [cloudsploit.com](https://cloudsploit.com)  — AWS安全和配置监控.  免费：无限按需扫描，无限用户，无限存储帐户.  订阅：自动扫描，API访问等.
   * [datadoghq.com](https://www.datadoghq.com/) —最多5个节点免费
   * [deadmanssnitch.com](https://deadmanssnitch.com/)  —监视cron作业.  1个免费告密者（显示器），如果您推荐其他人进行注册，则更多
@@ -446,7 +446,7 @@
   * [sendinblue.com](https://www.sendinblue.com/) —每月9,000封电子邮件免费
   * [sendpulse.com](https://sendpulse.com) —每小时免费50封电子邮件，每月免费前12,000封电子邮件
   * [socketlabs.com](https://www.socketlabs.com) -首月免费提供4万封电子邮件，然后每月免费提供前2000封电子邮件
-  * [sparkpost.com](https://www.sparkpost.com/) —每月免费发送500封电子邮件
+  * [sparkpost.com](https://www.sparkpost.com/) — First 500 emails/month free
   * [Substack](https://substack.com)  —无限的免费新闻通讯服务.  收费后开始付款.
   * [testmail.app](https://testmail.app/)  -使用无限的邮箱和GraphQL API自动化端到端电子邮件测试.  每月免费100封电子邮件，永久免费，开源无限.
   * [tinyletter.com](https://tinyletter.com/) — 5,000个订阅者/月免费
@@ -467,7 +467,7 @@
   * [Formspree.io](https://formspree.io/)  —使用HTTP POST请求发送电子邮件.  免费套餐每月限制1000个提交，并且必须在API调用中公开电子邮件地址.
   * [getform.io](https://getform.io/) -面向设计人员和开发人员的表单后端平台，1个表单，100个提交，单个文件上传，100MB文件存储.
   * [Kwes.io](https://kwes.io/)  -功能丰富的表单端点.  非常适合静态网站.  免费计划包括最多1个网站，每月最多50个提交.
-  * [smartforms.dev](https://smartforms.dev/) -强大而简单的网站后端表单，永久免费的计划允许每月50次提交，100MB文件存储，Zapier集成，CSV / JSON导出，自定义重定向，自定义响应页面，Telegram＆Slack bot，单个电子邮件通知.
+  * [smartforms.dev](https://smartforms.dev/) -适用于您网站的强大而简单的表单后端，永远免费的计划允许每月50次提交，100MB文件存储，Zapier集成，CSV / JSON导出，自定义重定向，自定义响应页面，Telegram＆Slack bot，单个电子邮件通知.
   * [staticforms.xyz](https://www.staticforms.xyz/)  -无需任何服务器端代码即可轻松轻松地集成HTML表单.  用户提交表单后，会将包含表单内容的电子邮件发送到您的注册地址.
   * [Typeform.com](https://www.typeform.com/)  —在网站上包括设计精美的表格.  免费计划每个表格只允许10个字段，每月只允许100个回复.
 
@@ -504,7 +504,7 @@
   * [glitch.com](https://glitch.com/) —具有代码共享和实时协作等功能的免费无限制公共/私人托管
   * [heroku.com](https://www.heroku.com/) —将您的应用托管在云中，单进程应用免费
   * [kubesail.com](https://kubesail.com)  -为开发人员设计的托管Kubernetes命名空间服务.  免费的开发人员帐户带有1个CPU内核，512MB RAM，100MB存储空间和1个域.
-  * [K8Spin](https://k8spin.cloud)  -为开发人员设计的托管Kubernetes命名空间服务.  免费的开发人员帐户附带100 mCore CPU，128MB RAM.
+  * [K8Spin](https://k8spin.cloud) - Managed Kubernetes namespace service designed for developers. Free developer accounts come with with 100 mCore of CPU, 128MB of RAM.
   * [mendix.com](https://www.mendix.com/) —适用于企业的快速应用程序开发，无限数量的免费沙箱环境，可支持10个用户，100 MB的文件和100 MB的数据库存储
   * [Okteto Cloud](https://okteto.com)  -为开发人员设计的托管Kubernetes服务.  免费的开发人员帐户带有三个命名空间，每个命名空间具有8GB的RAM，4个CPU和150GB的磁盘空间.
   * [outsystems.com](https://www.outsystems.com/) —用于本地或云的企业Web开发PaaS，免费的“个人环境”产品允许无限的代码和多达1 GB的数据库
@@ -602,13 +602,13 @@
    * [airtable.com](https://airtable.com/) —看起来像电子表格，但它是一个关系数据库，无限制的基础，1,200行/基础和每月1,000个API请求
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL即服务，免费20 MB
    * [FaunaDB](https://fauna.com/) —无服务器云数据库，具有本机GraphQL，多模型访问和每日免费层达5GB
-   * [graphenedb.com](https://www.graphenedb.com/) — Neo4j即服务，最多可支持1,000个节点和10,000个关系
+   * [graphenedb.com](https://www.graphenedb.com/) — Neo4j as a service, up to 1,000 nodes and 10,000 relations free
    * [heroku.com](https://www.heroku.com/) — PostgreSQL即服务，最多10,000行和20个免费连接（作为“附件”提供，但可以附加到原本为空的应用程序中并从外部访问）
    * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) —免费套餐提供512 MB
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis即服务，30 MB和30个并发连接可用
    * [redsmin.com](https://www.redsmin.com/) — Redis的在线实时监视和管理服务，其中1个Redis实例免费
    * [scalingo.com](https://scalingo.com/) —主要是PaaS，但提供了128MB至192MB的MySQL，PostgreSQL或MongoDB免费层
-   * [skyvia.com](https://skyvia.com/) — Cloud Data Platform，提供免费套餐，并且处于Beta版时，所有计划都是完全免费
+   * [skyvia.com](https://skyvia.com/) — Cloud Data Platform，提供免费套餐，并且处于Beta版时，所有计划都完全免费
    * [remotemysql.com](https://remotemysql.com) —远程MySQL数据库托管，设置是即时的，可使用phpMyAdmin进行管理，免费提供100Mb数据，免费备份，无查询限制和99％的正常运行时间.
    * [InfluxDB](https://www.influxdata.com/) —时间序列数据库，最多可提供3MB / 5分钟的写入，30MB / 5分钟的读取和10,000个基数序列
    * [Quickmetrics](https://www.quickmetrics.io/) —包含带有仪表板的时间序列数据库，每天最多可释放10,000个事件，并且总共提供5个指标.
@@ -617,7 +617,7 @@
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
-   * [conveyor.cloud](https://conveyor.cloud/) — Visual Studio扩展，用于将IIS Express公开到本地网络或通过公共URL的隧道公开.
+   * [conveyor.cloud](https://conveyor.cloud/) — Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
    * [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi是一项托管的VPN服务，可让您通过免费计划将类似于LAN的网络安全地扩展到分布式团队，并允许最多5人的无限网络
    * [ngrok.com](https://ngrok.com/) —通过隧道将本地运行的服务器公开到公共URL.
    * [scaledrone.com](https://www.scaledrone.com/)  —推送消息服务.  免费，每天最多可同时连接20个和100,000条消息
@@ -744,6 +744,7 @@
    * [maptiler.com](https://www.maptiler.com/cloud/)  —图库矢量图片矢量地图，地图服务和用于可视化的sdk.  具有每周更新和四种地图样式的免费矢量瓷砖.
    * [opencagedata.com](https://opencagedata.com)  —汇总OpenStreetMap和其他开放地理资源的地理编码API.  每天2,500个免费查询.
    * [osmnames](https://osmnames.org/) —地理编码，搜索结果按相关维基百科页面的受欢迎程度排名.
+   * [positionstack](https://positionstack.com/)  -全球位置和坐标的免费地理编码.  每月有25.000个个人使用请求.
    * [stadiamaps.com](https://stadiamaps.com/)  —地图图块，路线，导航和其他地理空间API.  每天有2,500幅免费地图视图和API请求，用于非商业用途和测试.
 
 ## Package Build System
@@ -757,19 +758,19 @@
    * [Apache Netbeans](https://netbeans.apache.org/) —开发环境，工具平台和应用程序框架.
    * [apiary.io](https://apiary.io/) —带有即时API模拟和生成的文档的协同设计API（免费提供无限的API蓝图和具有一个管理员帐户和托管文档的无限用户）.
    * [Atom](https://atom.io/) -Atom是一个基于Electron的可入侵文本编辑器.
-   * [cacher.io](https://www.cacher.io) — Code snippet organizer with labels and support for 100+ programming languages.
+   * [cacher.io](https://www.cacher.io) —带有标签的代码片段组织器，并支持100多种编程语言.
    * [cocalc.com](https://cocalc.com/)  —（以前是cloud.sagemath.com上的SageMathCloud）—云中的协作计算.  浏览器可访问具有内置协作功能的完整Ubuntu和许多用于数学，科学，数据科学的免费软件，并且预装了以下软件：Python，LaTeX，Jupyter Notebooks，SageMath，scikitlearn等.
    * [codepen.io](https://codepen.io/) — CodePen是Web前端侧的游乐场.
    * [codesandbox.io](https://codesandbox.io/) —用于React，Vue，Angular，Preact等的在线游乐场.
    * [Eclipse Che](https://www.eclipse.org/che/)  -基于Web和Kubernetes-Native IDE的开发人员团队，具有多语言支持.  开源和社区驱动.  托管版本位于： [che.openshift.io](https://che.openshift.io/)
    * [fakejson.com](https://fakejson.com/)  — FakeJSON可帮助您使用其API快速生成伪造数据.  发出一个API请求，描述您想要什么以及如何想要它.  API以JSON返回所有内容.  加快进入市场的过程，寻找创意，并进行伪造，直到实现为止.
    * [gitpod.io](https://www.gitpod.io)  —用于GitHub项目的即时，可编写代码的开发环境.  免费提供开源.
-   * [ide.goorm.io](https://ide.goorm.io)  goormIDE是云上的完整IDE.  多语言支持，通过功能齐全的基于Web的终端，基于Linux的容器，端口转发，自定义URL，实时协作和聊天，共享链接，Git / Subversion支持.  还有更多功能（免费层包括每个容器1GB RAM和10GB存储空间，5个容器插槽）.
+   * [ide.goorm.io](https://ide.goorm.io)  goormIDE是云上的完整IDE.  多语言支持，通过功能齐全的基于Web的终端通过基于Linux的容器，端口转发，自定义URL，实时协作和聊天，共享链接，Git / Subversion支持.  还有更多功能（免费层包括每个容器1GB RAM和10GB存储空间，5个容器插槽）.
    * [JDoodle](https://www.jdoodle.com) —用于60多种编程语言的在线编译器和编辑器，并提供免费的REST API代码计划，每天最多可编译200学分.
    * [jetbrains.com](https://jetbrains.com/products.html) -生产力工具，IDE和部署工具（aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) 等）.  为学生，教师，开源和用户组提供免费许可证.
    * [jsbin.com](https://jsbin.com) — JS Bin是前端Web的另一个游乐场和代码共享站点（HTML，CSS和JavaScript.还支持Markdown，Jade和Sass）.
    * [jsfiddle.net](https://jsfiddle.net/) — JS Fiddle是前端Web的游乐场和代码共享站点，也支持协作.
-   * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)  一些REST API端点以JSON格式返回一些虚假数据.  如果您想在本地运行服务器，也可以使用源代码.
+   * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)  一些REST API端点以JSON格式返回一些虚假数据.  如果要在本地运行服务器，也可以使用源代码.
    * [Katacoda](https://katacoda.com) —用于软件工程师的交互式学习和培训平台，可帮助开发人员学习和公司提高采用率.
    * [micro-jaymock](https://micro-jaymock.now.sh/) -微型API模拟微服务，用于生成伪造的JSON数据.
    * [mockable.io](https://www.mockable.io/)  — Mockable是一个简单的可配置服务，用于模拟RESTful API或SOAP Web服务.  此在线服务使您可以快速定义REST API或SOAP端点，并使它们返回JSON或XML数据.
@@ -821,7 +822,7 @@
   * [currencystack.io](https://currencystack.io/) — 154种货币的生产就绪型实时汇率.
   * [exchangerate-api.com](https://www.exchangerate-api.com)  -易于使用的货币转换JSON API.  免费套餐，无请求限制.
   * [fraudlabspro.com](https://www.fraudlabspro.com)  —帮助商家防止付款欺诈和拒付.  免费的Micro Plan每月提供500个查询.
-  * [mailpop.in](https://mailpop.in) - Get the most of your Stripe notifications with contextualized information.
+  * [mailpop.in](https://mailpop.in) -通过上下文信息充分利用您的Stripe通知.
   * [vatlayer.com](https://vatlayer.com/) —即时增值税号验证和欧盟增值税税率API，每月免费100个API请求
 
 ## Docker Related
@@ -850,7 +851,7 @@
   * [microlink.io](https://microlink.io/)  –它将任何网站转换为数据，例如元标记标准化，美容链接预览，抓取功能或屏幕截图即服务.  每天免费提供250请求.
   * [ScreenshotAPI.net](https://screenshotapi.net/)  -屏幕截图API使用一个简单的API调用即可生成任何网站的屏幕截图.  构建规模并托管在Google Cloud上.  每月提供100张免费屏幕截图.
   * [screenshotlayer.com](https://screenshotlayer.com/)  —捕获任何网站的高度可定制的快照.  每月免费100张快照
-  * [screenshotmachine.com](https://www.screenshotmachine.com/) —每月捕获100个快照，png，gif和jpg，包括全长捕获，而不仅仅是主页
+  * [screenshotmachine.com](https://www.screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
   * [WWW2PNG](https://www2png.com/)  -通过基本自定义捕获任何网站的屏幕截图.  包括自动区块链锚定和全页捕获.  完全免费的服务.
 
 ## Miscellaneous

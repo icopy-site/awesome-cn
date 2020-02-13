@@ -12,7 +12,7 @@
 
  永远欢迎捐款！  请看看 [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md)  第一页.  我们也接受专有和商业软件.
 
-Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors) ，您真棒，没有您就不可能！  目标是建立由社区驱动的非常知名资源的分类集合.
+谢谢大家 [contributors](https://github.com/quozd/awesome-dotnet/graphs/contributors) ，您真棒，没有您就不可能！  目标是建立由社区驱动的非常知名资源的分类集合.
 
 ## License
 
@@ -140,7 +140,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## CLI
 
-* [Appccelerate - Command Line Parser](https://www.appccelerate.com/commandlineparser.html) -具有流畅定义语法，不同自变量类型，必需和可选自变量，值限制，别名，类型转换和半自动用法帮助消息组成的命令行解析器
+* [Appccelerate - Command Line Parser](https://www.appccelerate.com/commandlineparser.html) -具有流畅的定义语法，不同参数类型，必需和可选参数，值限制，别名，类型转换和半自动用法帮助消息组成的命令行解析器
 * [Argu](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
 * [CliFx](https://github.com/Tyrrrz/CliFx) -用于构建命令行界面的声明性框架.
 * [clipr](https://github.com/nemec/clipr)  -受Python的argparse启发的CLI库，可将命令行转换为强类型的对象.  它支持自定义参数类型，自动（和本地化）帮助生成以及多种存储已解析参数的方式.
@@ -178,7 +178,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) -最初开发了许多Roslyn诊断分析仪，以帮助充实静态分析API的设计和实现.
 * [NDepend](https://www.ndepend.com) - is a Visual Studio and VS Team Services extension that estimates your .NET code quality and Technical-Debt, that lets create code rules with C# LINQ syntax, visualize code structure and focus on changes and evolution. **[$]**
 * [App.Metrics](https://github.com/AppMetrics/AppMetrics)  -App Metrics是一个开放源代码和跨平台的.NET库，用于记录和报告应用程序中的指标并报告其运行状况.  看到 [docs](https://www.app-metrics.io/) 对我来说.
-* [CodeMaid](http//www.codemaid.net/) - Visual studio extension to cleanup, dig through and simplify C#, C++, F#, VB, PHP, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
+* [CodeMaid](http://www.codemaid.net/) - Visual studio extension to cleanup, dig through and simplify C#, C++, F#, VB, PHP, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 * [StyleCop](https://github.com/StyleCop) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
 * [Gendarme](https://github.com/spouliot/gendarme) -可扩展的基于规则的工具，可在.NET应用程序和库中查找问题
 * [Metrics-Net](https://github.com/Recognos/Metrics.NET)  -捕获CLR和应用程序级指标.  所以你知道发生了什么事.
@@ -218,7 +218,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Compression
 
-* [SharpCompress](https://github.com/adamhathcock/sharpcompress)  -SharpCompress是.NET / Mono / Silverlight / WP7的压缩库，可以通过仅向前读取和文件随机访问API来解压缩，解压缩，解压缩，解压缩和解压缩ungzip.  实现了对zip / tar / bzip2 / gzip的写支持
+* [SharpCompress](https://github.com/adamhathcock/sharpcompress)  -SharpCompress是一个用于.NET / Mono / Silverlight / WP7的压缩库，可以使用仅向前读取和文件随机访问API来解压缩，解压缩，解压缩，解压缩和解压缩ungzip.  实现了对zip / tar / bzip2 / gzip的写支持
 * [DotNetZip.Semverd](https://github.com/haf/DotNetZip.Semverd)  -一个开放源代码项目，提供用于处理ZIP文件的.NET库以及一些相关工具.  （ [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
 * [SharpZipLib](https://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 * [Snappy for Windows](https://snappy.machinezoo.com/) -用于P / Invoke的.NET的Snappy压缩库
@@ -241,6 +241,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Database
 
 * [BrightstarDb](https://github.com/BrightstarDB/BrightstarDB) - BrightstarDB is a native .NET RDF triple store
+* [DBreeze](https://github.com/hhblaze/DBreeze) -DBreeze数据库是一个开源的嵌入式键值存储
 * [Event Store](https://github.com/EventStore/EventStore) -具有JavaScript中复杂事件处理功能的开源功能数据库
 * [LiteDB](https://github.com/mbdavid/LiteDB) -在单个数据文件中的.NET NoSQL文档存储-https://www.litedb.org
 * [RavenDB](https://github.com/ravendb/ravendb) -用于.NET的支持LINQ的文档数据库
@@ -413,7 +414,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Gtk#](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 * [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) -用于创建Material Design样式的WPF应用程序的工具包
 * [Eto.Forms](https://github.com/picoe/Eto) -用于.NET和Mono中的桌面和移动应用程序的跨平台GUI框架
-* [Dragablz](https://github.com/ButchersBoy/Dragablz) -可拖动，可撕裂的WPF选项卡控件（类似于Chrome），支持布局并且具有完整主题，包括与MahApps和Material Design兼容的布局.
+* [Dragablz](https://github.com/ButchersBoy/Dragablz) -可拖动，可撕开的WPF选项卡控件（类似于Chrome），支持布局并具有完整主题，包括与MahApps和Material Design兼容的布局.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) -Fluent Ribbon Control Suite是一个库，为WPF实现了类似Office和Windows 8的Ribbon.
 * [Office Ribbon](https://github.com/RibbonWinForms/RibbonWinForms) -一个为WinForms实现MS Office Ribbon的库.
 * [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design principles.
@@ -443,7 +444,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## HTTP
 
-* [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) -.NET的最简单Fluent REST客户端.
+* [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) -用于.NET的最简单的Fluent REST客户端.
 * [Http.fs](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
 * [RestSharp](https://github.com/restsharp/RestSharp) -适用于.NET的简单REST和HTTP API客户端
 * [Flurl](https://flurl.dev) -流畅，可移植，可测试的REST / HTTP客户端库
@@ -470,7 +471,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## Image Processing
 
-* [ImageResizer](https://imageresizing.net/)  -在图片网址中添加命令，以获取更改后的版本（以毫秒为单位）.  实时调整图像大小，编辑等.
+* [ImageResizer](https://imageresizing.net/)  -向图像网址添加命令，以获取更改版本（以毫秒为单位）.  实时调整图像大小，编辑等.
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - Open-source .NET library to manipulate images on-the-fly.
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) -完全托管的跨平台库，用于处理图像文件.
 * [DynamicImage](https://dynamicimage.apphb.com/) -用于ASP.NET的高性能开源图像处理库.
@@ -499,7 +500,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Interoperability
 
 * [CppSharp](https://github.com/mono/CppSharp) -将C ++ API转换为C的工具#
-* [Sharpen](https://github.com/mono/sharpen) -Sharpen是db4o创建的Eclipse插件，可用于将Java项目转换为C#
+* [Sharpen](https://github.com/mono/sharpen) -Sharpen是db4o创建的Eclipse插件，可让您将Java项目转换为C#
 * [CXXI](https://github.com/mono/cxxi) -C ++互操作框架
 * [pythonnet](https://github.com/pythonnet/pythonnet) -Python和.NET互操作框架
 * [PInvoke Interop Assistant](https://github.com/jaredpar/pinvoke-interop-assistant) -将C转换为托管的P / Invoke签名或经文签证.
@@ -510,7 +511,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 ## IoC
 
-* [Castle Windsor](https://github.com/castleproject/Windsor) -温莎城堡（Castle Windsor）是最好的品种，可用于.NET和Silverlight的成熟的Inversion of Control容器
+* [Castle Windsor](https://github.com/castleproject/Windsor) -温莎城堡（Castle Windsor）是最好的品种，可用于.NET和Silverlight的成熟的控制反转容器
 * [Unity](https://github.com/unitycontainer/unity) -轻量级可扩展依赖项注入容器，支持构造函数，属性和方法调用注入
 * [Autofac](https://github.com/autofac/Autofac) -令人上瘾的.NET IoC容器
 * [DryIoc](https://github.com/dadhi/DryIoc) -简单，快速的全功能IoC容器.
@@ -522,8 +523,8 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Microsoft.Extensions.DependencyInjection](https://github.com/aspnet/DependencyInjection) -ASP.NET Core应用程序的默认IoC容器.
 * [Scrutor](https://github.com/khellang/Scrutor) -Microsoft.Extensions.DependencyInjection的程序集扫描扩展.
 * [VS MEF](https://github.com/Microsoft/vs-mef) -Visual Studio使用的托管扩展框架（MEF）实现.
-* [TinyIoC](https://github.com/grumpydev/TinyIoC) -简单易用，轻松自如的控制容器反转版，适用于小型项目，图书馆和初学者.
-* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻巧，可移植的依赖项注入框架.
+* [TinyIoC](https://github.com/grumpydev/TinyIoC) -简单易用，无忧的控制容器反转版，适用于小型项目，图书馆和初学者.
+* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻量级便携式依赖注入框架.
 
 ## JavaScript Engines
 
@@ -556,7 +557,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Accord.NET](http://accord-framework.net/) -结合了音频和图像处理库（计算机视觉，计算机试听，信号处理和统计）的机器学习框架.
 * [Accord.NET Extensions](https://github.com/dajuric/accord-net-extensions) -先进的图像处理和计算机视觉算法作为流畅的扩展.
 * [AForge.NET](http://www.aforgenet.com/) -计算机视觉和人工智能（图像处理，神经网络，遗传算法，机器学习，机器人技术）领域的开发人员和研究人员的框架.
-* [Catalyst](https://github.com/curiosity-ai/catalyst)  受spaCy启发的跨平台自然语言处理（NLP）库，具有预训练的模型，对单词和文档嵌入进行训练的现成支持以及灵活的实体识别模型.  的一部分 [SciSharp Stack](https://scisharp.github.io/SciSharp/)
+* [Catalyst](https://github.com/curiosity-ai/catalyst)  受spaCy启发的跨平台自然语言处理（NLP）库，具有预先训练的模型，对单词和文档嵌入进行训练的现成支持以及灵活的实体识别模型.  的一部分 [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 * [Deedle](https://bluemountaincapital.github.io/Deedle/) - Data frame and (time) series library for exploratory data manipulation with C# and F# support
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  -用于.NET Core和.NET Framework的多平台遗传算法库.  该库具有GA运算符的几种实现，例如：选择，交叉，突变，重新插入和终止.
@@ -622,12 +623,12 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Hashids.net](https://github.com/ullmark/hashids.net) -根据https://hashids.org从整数生成简短的唯一ID
 * [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) -Fluent库可为.Net控制台应用程序创建表.
 * [FlatMapper](https://github.com/joaomatossilva/FlatMapper) -以LINQ兼容的方式从纯文本文件导入数据和向纯文本文件导出数据的库.
-* [FluentValidation](https://github.com/JeremySkinner/FluentValidation) -用于.NET的小型验证库，该库使用流利的接口和lambda表达式来构建验证规则.
+* [FluentValidation](https://github.com/JeremySkinner/FluentValidation) -用于.NET的小型验证库，该库使用流利的接口和lambda表达式构建验证规则.
 * [Guard](https://github.com/safakgur/guard) -高性能，可扩展的参数验证库.
 * [Valit](https://github.com/valit-stack/Valit) -Valit非常简单，可以对.NET Core进行流畅的验证.
 * [Humanizer](https://github.com/Humanizr/Humanizer) -Humanizer满足您.NET对操纵和显示字符串，枚举，日期，时间，时间跨度，数字和数量的所有需求
 * [LINQPad](https://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
-* [Polly](https://github.com/App-vNext/Polly)  -以流畅的方式表示瞬态异常处理和弹性策略，例如重试，等待和重试，断路器和隔板隔离.  完全线程安全和完全异步支持.  （4.0 / 4.5 / .NET Core / .NET Standard / Xamarin）.
+* [Polly](https://github.com/App-vNext/Polly)  -以流畅的方式表达瞬态异常处理和弹性策略，例如重试，等待和重试，断路器和隔板隔离.  完全线程安全和完全异步支持.  （4.0 / 4.5 / .NET Core / .NET Standard / Xamarin）.
 * [Rant](https://github.com/TheBerkin/Rant) -Rant程序文本生成DSL https://berkin.me/rant/
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, NuGet and the power of Roslyn!
 * [Shielded](https://github.com/jbakic/Shielded) -.NET的软件事务存储（STM）实现

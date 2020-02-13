@@ -122,13 +122,29 @@
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) -Babel插件，用于最小化带有标签的模板字符串中的HTML.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) -用于lit-html模板字符串的ESLint插件.
 - [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) -CLI类型，用于检查lit-html模板中的绑定.
-- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) - Rollup plugin to minify HTML in tagged template strings.
+- [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件可最小化带有标签的模板字符串中的HTML.
 - [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) -汇总插件，可在LitElement和Transpile装饰器中内联外部样式.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) -汇总插件，用于将CSS文件作为LitElement标记的`css`模板字符串导入.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -汇总插件，用于在LitElement组件中加载PostCSS处理的样式表.
 - [lit-loader](https://github.com/PolymerX/lit-loader) -用于Webpack的LitElement单个文件组件加载器.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) -使用一点点香料就可以构建，测试和发布香草Web组件的CLI工具.
 - [open-wc](https://github.com/open-wc) -一组建议，可帮助您生成，测试，检查，演示和发布Web组件.
+
+## CDN
+
+以下内容交付网络提供了lit-html和LitElement的ES模块版本：
+
+- [unpkg.com](https://unpkg.com/)
+  - [lit-html](https://unpkg.com/lit-html?module)
+  - [lit-element](https://unpkg.com/lit-element?module)
+- [Pika CDN](https://www.pika.dev/cdn)
+  - [lit-html](https://cdn.pika.dev/lit-html)
+  - [lit-element](https://cdn.pika.dev/lit-element)
+
+**使用CDN的注意事项**
+
+1. lit-html指令 [might not work](https://github.com/Polymer/lit-element/issues/603#issuecomment-501528498) 使用Pika CDN时使用LitElement.
+2.参见 [this issue](https://github.com/Polymer/lit-element/issues/603) 讨论了CDN分发的静态构建.
 
 ## Static Site Generators
 
@@ -202,7 +218,7 @@
 模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法突出显示.
 
 - [htm](https://github.com/developit/htm) -超标标记的标记：使用标准标记模板的JSX替代品，并具有编译器支持.
-- [hybrids](https://github.com/hybridsjs/hybrids) -用于使用简单实用的API创建Web组件的UI库.
+- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
 - [lit-ntml](https://github.com/motss/lit-ntml) -受lit-html启发，在Node.js中实现了SSR的轻量级现代模板.
 - [lite-html](https://github.com/ruphin/lite-html) -VirtualDOM渲染引擎的现代替代品.
 - [modulor-html](https://github.com/modulor-js/modulor-html) -Web组件缺少模板引擎.

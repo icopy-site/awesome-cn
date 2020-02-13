@@ -141,7 +141,7 @@
 - [dockly](https://github.com/lirantal/dockly) -交互式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose界面.
-- [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
+- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 
 ### Release
@@ -183,8 +183,6 @@
 - [uber-cli](https://github.com/jaebradley/uber-cli) -Uber客户.
 - [Buku](https://github.com/jarun/Buku) -与浏览器无关的书签管理器.
 - [googler](https://github.com/jarun/googler) -终端机上的Google.
-- [calcurse](http://calcurse.org/) -命令行的日历和计划应用程序.
-- [gcalcli](https://github.com/insanum/gcalcli) -从终端访问Google日历.
 - [papis](http://github.com/alejandrogallo/papis) -可扩展的文档和书目管理器.
 
 ### Time Tracking
@@ -221,6 +219,13 @@
 - [decktape](https://github.com/astefanutti/decktape) -用于HTML演示文稿的PDF导出器.
 - [mdp](https://github.com/visit1985/mdp) -基于命令行的降价展示工具.
 - [sent](https://tools.suckless.org/sent/) -简单的纯文本表示工具.
+
+### Calendars
+
+- [calcurse](http://calcurse.org/) -日历和时间表.
+- [gcalcli](https://github.com/insanum/gcalcli) -Google日历客户端.
+- [khal](https://github.com/pimutils/khal) -支持CalDAV的CLI和TUI日历.
+- [vidirsyncer](https://github.com/pimutils/vdirsyncer) -CalDAV同步.
 
 ## Utilities
 
@@ -393,6 +398,7 @@
 - [fzf](https://github.com/junegunn/fzf) -通用命令行模糊查找器，可与任何列表一起使用：文件/目录，命令历史记录，进程，主机名，书签，git commit等.
 - [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的查询查找文件.
 - [fd](https://github.com/sharkdp/fd) -一种简单，快速且用户友好的替代方法，它可以找到`find`.
+- [broot](https://github.com/Canop/broot) -与fzf类似的模糊查找器，但具有空间使用情况可视化.
 
 ## Version Control
 
@@ -411,7 +417,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) -将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -gitlab cli，用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -一些小git附加功能，例如git-ignore，git-setup，git-changelog，git-release，git-effort等.
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
+- [gita](https://github.com/nosarthur/gita) -并发管理多个git repos.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -交互式生成README.md文件.
 
 ## Images
@@ -429,7 +435,8 @@
 ### Image Conversion
 
 - [imgp](https://github.com/jarun/imgp) -炽热的快速批处理图像缩放器和旋转器.
-- [korkut](https://github.com/oguzhaninan/korkut) -在命令行中进行快速简单的图像处理.
+- [korkut](https://github.com/oguzhaninan/korkut) -快速简单的图像处理.
+- [imagemagick](https://imagemagick.org) -任何图像的黄金标准.
 
 ### SVG
 

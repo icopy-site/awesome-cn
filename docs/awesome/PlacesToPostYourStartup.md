@@ -15,6 +15,7 @@
 * / r /优惠券-https://www.reddit.com/r/coupons/
 * / r / Design_Critiques-https://www.reddit.com/r/design_critiques/
 * / r /企业家-http://reddit.com/r/entrepreneur
+* / r / EntrepreneurRideAlong-http://www.reddit.com/r/EntrepreneurRideAlong/
 * / r / IMadeThis-http://reddit.com/r/imadethis
 * / r / IndieBiz-https://www.reddit.com/r/indiebiz/
 * / r / LadyBusiness-https://www.reddit.com/r/ladybusiness/
@@ -88,6 +89,7 @@
 *启动列表-https://launchlister.com/submit-startup
 *已启动-https://launched.io/SubmitStartup
 *下一步启动-http://www.launchingnext.com/submit/
+*循环-https://app.loopinput.com/ 
 * MakeUseOf-http://www.makeuseof.com/about/
 * Maqtoob-https://maqtoob.com/submit-a-tool
 *动员-https://www.moblized.com/vendors/register
@@ -95,11 +97,11 @@
 *下一大产品-http://nextbigproduct.net/product-submission/
 *下一件大事-http://nextbigwhat.com/
 *在应用程序上-http://ontheapp.com/about/
-* Paggu - http://www.paggu.com/submit-your-startup/
+*下载-http://www.paggu.com/submit-your-startup/
 * pFind-http://www.pfind.com/submit
 * Postscapes-http://about.postscapes.com/tools
 * PreApps-http://www.preapps.com/
-*产品搜寻-http://www.producthunt.com/
+* Product Hunt - http://www.producthunt.com/
 *可编程Web-https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX-https://www.publicityx.com/startups/new
 *版本2-http://www.rev2.org/
@@ -145,7 +147,6 @@
 * iPhone妈妈-https://www.theiphonemom.com/
 *启动音调-http://thestartuppitch.com/post-a-pitch/
 *顶级替代品-https://topalternatives.com/
-*热门同类网站-http://www.top同类网站.com / add.aspx
 * Vator-http://www.vator.tv/
 * VB个人资料-http://vbprofiles.com/
 * Venture Beat-http://venturebeat.com/news-tips/
