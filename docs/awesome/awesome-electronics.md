@@ -24,6 +24,7 @@
 
 ### Theory and Courses
 - [All About Circuits](https://www.allaboutcircuits.com/textbook/) -在线学习理论的教科书，带有清晰的图示和说明.
+- [Ultimate Electronics](https://ultimateelectronicsbook.com/) -（尚未完成）通过电路原理和交互式原理图进行学习的书，您可以加载，仿真和更改.
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) -具有很多主题的在线学习平台，包括电气工程，电路，半导体，信号，机器人甚至逆向工程电子设备的完整课程.
 
 
@@ -42,7 +43,7 @@
 - [Tracespace Viewer](http://viewer.tracespace.io) -Gerber查看器，使您可以检查各个图层以及板预览.
 - [Gerblook](http://gerblook.org/) -由Gerbv提供支持的在线Gerber查看器.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) -3D Gerber查看器.
-- [CircuitPeople](https://circuitpeople.com) -没有多余的处理，Gerbers的2D图层查看器没有多余的装饰.
+- [CircuitPeople](https://circuitpeople.com) -没有多余的处理，Gerbers的2D图层查看器不会多余.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) -适用于Linux和BSD的出色Gerber查看器.
@@ -70,7 +71,7 @@
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -全面的书面教程，可带您创建键盘PCB.
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) （也 [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)）-简短的PDF，可通过菜单和键盘快捷键进行最常用的操作.
 - [Footprint Collection](https://github.com/monostable/kicad_footprints) -可以在线收集所有KiCAD脚印以及一些脚本来管理它们.
-- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) -用于手动拾取和放置的html BOM生成工具.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
@@ -91,7 +92,7 @@
 - [Octopart](https://octopart.com) -可能是最知名的零件搜索引擎.
 - [Findchips](https://www.findchips.com/) -从供应框架中搜索零件.
 - [Parts.io](https://parts.io/) -Supply Frame的另一个搜索引擎致力于发现新零件.
-- [Buyparts.io](http://buyparts.io)  -来自datasheetarchive.com创建者的新竞争者.  是针对业余爱好者的，似乎更擅长整合Ebay和Aliexpress等资源. 
+
 
 ## Project Sharing Platforms
 - [Kitspace.org](https://kitspace.org)  -项目共享网站，可帮助您购买零件并重建项目.  开源，真正由您开发.
@@ -141,7 +142,7 @@
 
 ## Videos
 - [EEVblog](https://www.youtube.com/user/EEVblog) -戴夫·琼斯（Dave Jones）进行拆解，教程等工作的最早，最成功的YouTube频道之一.
-- [ElectroBOOM](https://www.youtube.com/user/msadaghd) -YouTube频道，揭穿并解释了EE主题，并引发了很多喜剧.
+- [ElectroBOOM](https://www.youtube.com/user/msadaghd) - YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
 - [Micah Scott](https://www.youtube.com/user/micahjd) -逆向工程的视频日志，并以创新的方式重新利用消费电子硬件.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) -有关电子项目的教程，通常也适合初学者.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) -非常深入地拆卸，维修和审查实验室设备和原型产品.

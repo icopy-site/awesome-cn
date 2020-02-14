@@ -18,7 +18,7 @@ _简化bean映射的框架.
 - [MapStruct](https://github.com/mapstruct/mapstruct) -代码生成器，它基于配置约定惯例简化了不同bean类型之间的映射.
 - [ModelMapper](https://github.com/modelmapper/modelmapper) -智能对象映射库，可自动将对象相互映射.
 - [Orika](https://github.com/orika-mapper/orika) -JavaBean映射框架，将数据（除其他功能外）从一个对象递归复制到另一个对象.
-- [reMap](https://github.com/remondis-it/remap) -基于Lambda和方法句柄的映射，如果对象具有不同的名称，则需要代码而不需要注释.
+- [reMap](https://github.com/remondis-it/remap) -基于Lambda和方法句柄的映射，如果对象具有不同的名称，则需要代码，而无需注释.
 - [Selma](https://github.com/xebia-france/selma) -基于注释处理器的bean映射器.
 
 ### Build
@@ -220,7 +220,7 @@ _有助于实现 [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_
 - [Dagger](https://dagger.dev/) -编译时注入框架，无需反思.
 - [Feather](https://github.com/zsoltherpai/feather) -符合JSR-330的超轻量级依赖注入库.
 - [Governator](https://github.com/Netflix/governator) -扩展了Google Guice的扩展程序和实用程序.
-- [Guice](https://github.com/google/guice) -完善Dagger的轻量级，自以为是的框架.
+- [Guice](https://github.com/google/guice) -轻巧而自以为是的框架，完善了Dagger.
 - [HK2](https://javaee.github.io/hk2/) -轻量级和动态依赖注入框架.
 - [JayWire](https://github.com/vanillasource/jaywire)  -轻量级依赖注入框架.  （仅限LGPL-3.0）
 
@@ -457,7 +457,7 @@ _JVM / JDK的当前实现.
 - [Corretto](https://aws.amazon.com/corretto/)  -亚马逊提供的免费，多平台，生产就绪的OpenJDK发行.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Graal](https://github.com/oracle/graal)  -Polyglot嵌入式JVM.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Liberica JDK](https://bell-sw.com)  -由OpenJDK构建，经过全面测试并通过了JCK.  （仅限GPL-2.0，带Classpath-exception-2.0）
-- [OpenJ9](https://github.com/eclipse/openj9) -高性能，企业级，灵活许可，开放式跨平台JVM，可扩展和增强Eclipse OMR和OpenJDK项目中的运行时技术组件.
+- [OpenJ9](https://github.com/eclipse/openj9) -高性能，企业级，灵活许可，开放式跨平台JVM，可扩展和扩充Eclipse OMR和OpenJDK项目中的运行时技术组件.
 - [Open JDK](https://openjdk.java.net)  -打开JDK社区主页.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)  -具有无阻塞并发GC（适用于iOS）的VM.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview)  -RedHat的OpenJDK发行版.  （仅限GPL-2.0，带Classpath-exception-2.0）
@@ -473,7 +473,7 @@ _记录应用程序行为的库.
 - [Kibana](https://www.elastic.co/kibana)  -分析和可视化日志文件.  某些功能需要付费.
 - [Logback](http://logback.qos.ch) -健壮的日志库，通过Groovy具有有趣的配置选项.
 - [Logbook](https://github.com/zalando/logbook) -可扩展的开放源代码库，用于HTTP请求和响应日志记录.
-- [Logstash](https://www.elastic.co /logstash) -用于管理日志文件的工具.
+- [Logstash](https://www.elastic.co/logstash) -用于管理日志文件的工具.
 - [p6spy](https://github.com/p6spy/p6spy) -启用所有JDBC事务的日志记录，而无需更改代码.
 - [SLF4J](http://www.slf4j.org) -抽象层/简单的日志外观.
 - [tinylog](https://tinylog.org/v2/) -具有静态记录器类的轻量级记录框架.
@@ -963,7 +963,7 @@ _提供一般实用程序功能的库.
 
 ### Version Managers
 
-_有助于创建开发外壳环境并在不同Java版本之间切换的实用程序._
+_有助于创建开发外壳环境并在不同Java版本之间切换的实用程序.
 
 - [jabba](https://github.com/shyiko/jabba)  -受nvm启发的Java版本管理器.  支持macOS，Linux和Windows.
 - [jenv](https://github.com/jenv/jenv)  -受rbenv启发的Java版本管理器.  可以全局配置或按项目配置.  在Debian和macOS上测试.
@@ -1083,7 +1083,7 @@ _编程时要看或听的东西._
 - [Reza Rahman](https://twitter.com/reza_rahman) -Java EE / GlassFish / WebLogic传播者，作者，演讲者，开源黑客.
 - [Sander Mak](https://twitter.com/Sander_Mak) -Java冠军，作家.
 - [Simon Maple](https://twitter.com/sjmaple) -Java冠军，VirtualJUG创始人，LJC负责人，RebelLabs作者.
-- [Spencer Gibb](https://twitter.com/spencerbgibb) -软件工程师，父亲，极客，Spring Cloud Core @pivotal的联合创始人兼负责人.
+- [Spencer Gibb](https://twitter.com/spencerbgibb) -Spring Cloud Core @pivotal的软件工程师，爸爸，极客，联合创始人兼负责人.
 - [Stephen Colebourne](https://twitter.com/jodastephen) -Java Champion，演讲者.
 - [Trisha Gee](https://twitter.com/trisha_gee) -Java Champion和演讲者.
 - [Venkat Subramaniam](https://twitter.com/venkat_s) -作者，休斯顿大学教授，MicroSoft MVP获奖者，JavaOne Rock Star，Java Champion.

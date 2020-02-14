@@ -5,7 +5,7 @@
 
 <!-- title -->
 
-## Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/jthegedus/awesome-firebase/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
 
@@ -165,4 +165,4 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## License
 
-[CC0 License](https://github.com/jthegedus/awesome-firebase/blob/master/LICENSE)
+[CC0 License](https://github.com/jthegedus/awesome-firebase/blob/master/license)

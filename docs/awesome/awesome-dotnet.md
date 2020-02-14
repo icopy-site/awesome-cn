@@ -628,7 +628,7 @@
 * [Valit](https://github.com/valit-stack/Valit) -Valit非常简单，可以对.NET Core进行流畅的验证.
 * [Humanizer](https://github.com/Humanizr/Humanizer) -Humanizer满足您.NET对操纵和显示字符串，枚举，日期，时间，时间跨度，数字和数量的所有需求
 * [LINQPad](https://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
-* [Polly](https://github.com/App-vNext/Polly)  -以流畅的方式表达瞬态异常处理和弹性策略，例如重试，等待和重试，断路器和隔板隔离.  完全线程安全和完全异步支持.  （4.0 / 4.5 / .NET Core / .NET Standard / Xamarin）.
+* [Polly](https://github.com/App-vNext/Polly)  -以流畅的方式表示瞬态异常处理和弹性策略，例如重试，等待和重试，断路器和隔板隔离.  完全线程安全和完全异步支持.  （4.0 / 4.5 / .NET Core / .NET Standard / Xamarin）.
 * [Rant](https://github.com/TheBerkin/Rant) -Rant程序文本生成DSL https://berkin.me/rant/
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, NuGet and the power of Roslyn!
 * [Shielded](https://github.com/jbakic/Shielded) -.NET的软件事务存储（STM）实现
@@ -929,6 +929,7 @@
 * [CodeLineage](https://marketplace.visualstudio.com/items?itemName=HippoCampSoftwareLtd.CodeLineage) - Easy access to a cumulative diff view between file revisions (supports svn, git, mercurial, perforce).
 * [OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)  -OzCode是Visual Studio扩展，可通过检测和隔离错误来缩短调试时间并提高生产率，从而使其易于修复.  ** [$] **
  * [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
+ * [Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice) - A Visual Studio Connected Service for generating API client code in C# or VB for OData web service.
  * [Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - A Visual Studio 2017/2019 extension to generate C# (TypeScript) HttpClient (or C# Controllers) code for OpenAPI (formerly [Swagger API](https://swagger.io/docs/specification/about/)）的网络服务 [NSwag](https://github.com/RSuter/NSwag).
 
 ## Web Browsers

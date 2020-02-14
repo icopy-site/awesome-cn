@@ -2,11 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- 在计算机科学中，人工智能（AI）是机器演示的智能.  定义为AI研究是对“智能代理”的研究：任何感知其环境并采取行动以实现其目标的设备.  al（2016）_.   
+ 在计算机科学中，人工智能（AI）是机器演示的智能.  AI的定义是将AI研究视为“智能代理”的研究：能感知其环境并采取行动以实现其目标的任何设备.  al（2016）_.   
 
  通常，数据挖掘（DM）是在数据集（或数据集）中发现模式的过程，其中涉及机器学习，统计和数据库系统的方法；  DM专注于提取数据集的信息_Han（2011）_.  
 
- 该存储库为想要使用数字游戏中应用的“人工智能”或“数据挖掘”的任何人提供指南！  在这里，您会发现一系列可用于构建_application_或_dataset_的数据集，工具和材料.  
+ 该存储库为想要使用数字游戏中应用的“人工智能”或“数据挖掘”的任何人提供指南！  在这里，您将找到一系列可用于构建_application_或_dataset_的数据集，工具和材料.  
 
 **Contributing**  
 
@@ -180,6 +180,13 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [Video Games Review](https://www.kaggle.com/launay10christian/video-games-review) -的评论 [JeuxVideo.com](http://www.jeuxvideo.com/).
 - [Video Games Sales 2019](https://www.kaggle.com/ashaheedq/video-games-sales-2019) -游戏的销售和得分.
 - [World Top 100 Countries by Game Revenues](https://knoema.com/T100GAMEREVENUES2016/world-top-100-countries-by-game-revenues) -全球游戏收入.
+
+---
+## Market Research
+- [Euro-Monitor, Video Games](https://www.euromonitor.com/video-games) -战略市场研究员
+- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) -联合市场研究
+- [Newzoo](https://newzoo.com/)  -在游戏市场上查看.  无与伦比的见解和价值.
+- [Statista, Video Games](https://www.statista.com/topics/868/video-games/) -市场和舆论研究机构以及来自经济部门的数据.
 
 ---
 ## Miscellaneous

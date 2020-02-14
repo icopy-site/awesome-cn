@@ -10,7 +10,7 @@
 
 &gt;与以下内容相关的精选精选清单 [GitHub Actions](https://github.com/actions).
 
- 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
+ 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或在容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
 
 
 
@@ -18,7 +18,7 @@
 
 - [Official Site](https://github.com/features/actions)
 - [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
-- [Official Documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
+- [Official Documentation](https://help.github.com/en/actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) -GitHub Actions虚拟环境.
   - [actions/runner](https://github.com/actions/runner) -GitHub Action的跑步者.

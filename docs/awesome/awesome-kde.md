@@ -89,7 +89,7 @@
 - [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) -尝试减少KDE中流行的KWin合成器中的延迟和卡顿现象.
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) -Linux的自动夜间模式.
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) -风扇控制的GUI，它是lm_sensors的一部分.
-- [Wacom GUI](https://github.com/tb2097/wacom-gui) -KDE的Python / PyQt Wacom GUI.
+- [Wacom GUI](https://github.com/tb2097/wacom-gui) -适用于KDE的Python / PyQt Wacom GUI.
 
 ### Development & Programming
 
@@ -136,6 +136,7 @@
 - [Darkine KDE](https://github.com/Rokin05/darkine-kde) -适用于KDE Plasma 5桌面，SDDM等的主题.
 - [Qogir](https://github.com/vinceliuice/Qogir-kde) -KDE Plasma桌面的平面设计主题.
 - [Layan](https://github.com/vinceliuice/Layan-kde) -KDE Plasma桌面的平面设计主题.
+- [ChromeOS](https://github.com/vinceliuice/ChromeOS-kde) -KDE Plasma桌面的主题设计主题.
 
 #### Qt and GTK+ Applications Appearance
 
