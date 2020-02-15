@@ -26,7 +26,7 @@
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) -知识共享书作者： [Simon Wardley](https://twitter.com/swardley).
   -PDF和.mobi电子书（Kindle） [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
-- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术的Wiki百科全书.
+- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -Wiki百科全书，专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) -维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
 
@@ -34,7 +34,8 @@
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) -社区YouTube频道和 [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
 - [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -视觉上引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
-
+- [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) -在InfoQ上观看演示和录像.
+  
 ## Courses
 
 - [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) -通过Leading Edge论坛了解如何激发未来的想法和策略.
@@ -44,6 +45,8 @@
 
  博客文章和Wardley地图的其他有趣示例.  按日期排序，最新的优先.
 
+- [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) -2020年2月9日，查看组织中的团队和层级以及用于满足组织需求的做法，例如结盟，报告等.
+- [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/)  -Wardley映射显示，区块链的成熟度演变与其他主流技术相同.  2020年1月28日.
 - [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html)  -使用Wardley地图查看喷气发动机的演变.  2020年1月5日.
 - [Embedded in memory](https://medium.com/@swardley/embedded-in-memory-b05b0e7c183f)  -文化周期.  2019年10月2日.
 - [Exploring value](https://medium.com/@swardley/exploring-value-e1ff89cfe019)  -价值观，韧性，原则，实现体系.  2019年10月1日.
@@ -55,9 +58,9 @@
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  -应对推出新型支付解决方案的挑战.  2019年6月14日.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  -通过沃德利地图了解加密货币生态系统.  2019年6月2日.
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.
-- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种策略最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
+- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种方法最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源；  并跨多个NSO启用大数据协作.  下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019年3月12日.
-- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所开创的地图形式相结合.  2019年1月2日.
+- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley. Jan 2, 2019.
 - [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  -考虑用户需求和用户研究的三种方式以及Wardley地图如何帮助我们考虑在哪里进行用户研究.  2018年11月2日.
 - [What is an expert?](https://medium.com/@swardley/what-is-an-expert-886274b2c1aa) -2018年10月31日.
 - [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa)  -如何通过专注于理论和支出控制来阻止组织积极损害自身.  2018年10月30日.
@@ -113,7 +116,6 @@
 ## Events
 
 - [Map Camp](https://www.map-camp.com/) -在跟随Map Camp [Twitter](https://twitter.com/map_camp) 和 [LinkedIn](https://www.linkedin.com/company/map-camp/).
-  -  [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) -在InfoQ上的视频演示.
 
 ## Workshops
 
@@ -124,6 +126,8 @@
 -欧洲
   -比利时
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
+  - 捷克共和国
+    - [Prague](https://www.meetup.com/Prague-Mapping-Meetup)
   -法国
     - [Paris](https://www.meetup.com/Strategic-Map-Meetup-Paris/)
   -德国

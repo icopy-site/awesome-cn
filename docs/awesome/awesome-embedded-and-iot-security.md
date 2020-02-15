@@ -7,7 +7,7 @@
 
 ## Awesome Embedded and IoT Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- &gt;精选的有关嵌入式和IoT安全的优秀资源列表.  该列表包含软件和硬件工具，书籍，研究论文等.
+ &gt;精选的有关嵌入式和物联网安全性的优秀资源列表.  该列表包含软件和硬件工具，书籍，研究论文等.
 
 僵尸网络喜欢 [Mirai](https://en.wikipedia.org/wiki/Mirai_(malware) ）已证明嵌入式和IoT设备需要更高的安全性.  该列表将帮助初学者和专家找到有关该主题的有用资源.  
 如果您是初学者，则应该看看 [Books](#books) 和 [Case Studies](#case-studies) 部分.  
@@ -57,10 +57,10 @@
 - [Bus Blaster](http://dangerousprototypes.com/docs/Bus_Blaster) -检测硬件调试端口并与之交互 [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) 和 [JTAG](https://en.wikipedia.org/wiki/JTAG).
 - [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) -检测硬件调试端口并与之交互，例如UART和JTAG.
 - [JTAGULATOR](http://www.grandideastudio.com/jtagulator/) -快速检测JTAG引脚排列.
-- [Saleae](https://www.saleae.com/) -易于使用的逻辑分析仪，支持许多协议：euro:.
+- [Saleae](https://www.saleae.com/) -易于使用的逻辑分析仪，支持多种协议：euro:.
 - [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) -替代Saleae逻辑分析仪：euro:.
 - [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) -类似于BusPirate的开源多工具硬件，但具有NFC功能.
-- [ChipWhisperer](https://newae.com/tools/chipwhisperer/) -检测故障/侧通道攻击.
+- [ChipWhisperer](https://newae.com/chipwhisperer/) -检测故障/侧通道攻击.
 - [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) -用于探索和调试不同数字接口的工具.
 - [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) -J-Link提供了USB供电的JTAG调试探针，用于多个不同的CPU内核：euro:.
 
@@ -68,7 +68,7 @@
 ## Books
 
 -2020年，贾斯珀·凡·乌登伯格（Jasper van Woudenberg），科林·奥弗林（Colin O&#39;Flynn）： [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded-ebook/dp/B077WZBFYL)
--2019年，Yago Hansen： [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers](https://www.amazon.com/Hackers-Hardware-Toolkit-collection-researchers/dp/1099209463)
+-2019年，Yago Hansen： [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf)
 -2019，阿蒂亚·古普塔（Aditya Gupta）： [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.apress.com/us/book/9781484242995)
 -2018年，马克·斯沃鲁普·蒂拉尼普（Mark Swarup Tehranipoor）： [Hardware Security: A Hands-on Learning Approach](https://www.elsevier.com/books/hardware-security/bhunia/978-0-12-812477-2)
 -2017年，阿蒂亚·古普塔（Aditya Gupta），亚伦·古兹曼（Aaron Guzman）： [IoT Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)  
@@ -90,7 +90,7 @@
 -  2017年，欧米拉等人 [Embedded Device Vulnerability Analysis Case Study Using Trommel](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=509271)
 -2017年，Jacob等： [How to Break Secure Boot on FPGA SoCs through Malicious Hardware](https://eprint.iacr.org/2017/625.pdf)
 -2017年，Costin等人： [Towards Automated Classification of Firmware Images and Identification of Embedded Devices](http://s3.eurecom.fr/docs/ifip17_costin.pdf)
--2016年，Kammerstetter等： [Embedded Security Testing with Peripheral Device Caching and Runtime Program State Approximation](http://www.seclab.tuwien.ac.at/papers/kammerstetter_secuware2016_peripheralCache.pdf)
+-2016年，Kammerstetter等： [Embedded Security Testing with Peripheral Device Caching and Runtime Program State Approximation](https://www.thinkmind.org/download.php?articleid=securware_2016_2_10_30082)
 -2016年Chen等： [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.dcddcc.com/docs/2016_paper_firmadyne.pdf)
 -2016年，Costin等人： [Automated Dynamic Firmware Analysis at Scale: A Case Study on Embedded Web Interfaces](http://s3.eurecom.fr/docs/asiaccs16_costin.pdf)
 -2015年，Shoshitaishvili等人：[Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware](https://seclab.cs.ucsb.edu/media/uploads/papers/firmalice.pdf)
@@ -104,7 +104,7 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 ## Case Studies
 <!--lint ignore no-repeat-punctuation-->
 - [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
-- [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) -会议演讲，介绍了一些关于真实不良实现的现实世界示例：tv:.
+- [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) -会议演讲，介绍了一些有关实际不良实现的真实示例：tv:.
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
 - [Multiple vulnerabilities found in the D-link DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
 - [Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol](https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html)

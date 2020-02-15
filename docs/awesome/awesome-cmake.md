@@ -27,14 +27,14 @@
 * [Web Book](https://github.com/ruslo/CGold) -CGold：旅行者 [Guide](https://cgold.readthedocs.io)  到CMake.  [```[BSD2]```] [BSD-2-Clause]
 * [Modern CMake](https://github.com/toeb/moderncmake) -现代CMake ** PDF **和示例的创建者 [cmakepp](https://github.com/toeb/cmakepp) ，  [```[W]```] [带]
 * [Article](http://foonathan.net/blog/2016/03/03/cmake-install.html) -轻松支持CMake安装和find_package（）.
-* [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) - Easy dependency management for C++ with CMake and Git.
+* [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) -使用CMake和Git对C ++进行轻松的依赖管理.
 * [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) -使用CMake选择加入仅标头的库.
 * [Article](https://rix0r.nl/blog/2015/08/13/cmake-guide/) -现代CMake终极指南.
 * [Article](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) -常见的CMake反模式列表（从2013年开始，但仍然相关）.
 * [Article](http://preshing.com/20170511/how-to-build-a-cmake-based-project/) -如何构建基于CMake的项目.
 * [Article](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/) -在15分钟内学习CMake的脚本语言.
 * [Article](http://aosabook.org/en/cmake.html) -CMake的体系结构.
-* [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) -有效的CMake-由C ++ Now 2017年Daniel Pfeifer撰写.
+* [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) -有效的CMake-由C ++ Now 2017年Daniel Pfeifer撰写
 * [Article](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/) -使用CMake构建跨平台CUDA应用程序.
 * [Tutorial](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) -逐步了解CMake的指南.
 * [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) -拥抱现代CMake-Stephen Kelly.
@@ -64,7 +64,7 @@
 * [cppan](https://cppan.org/)  -C ++存档网络-基于CMake的C ++程序包管理器，在C ++ 14中实现.  [```[APACHE2]```] [APACHE2]
 * [cpm](https://github.com/iauns/cpm)  -基于CMake和Git的C ++软件包管理器.  [```[MIT]```] [MIT]
 * [conan](https://github.com/conan-io/conan)  -Conan C ++软件包管理器，以Python实现，并具有CMake集成后端.  [```[MIT]```] [MIT]
-* [fips](https://github.com/floooh/fips) - High-level build system/dependency management for distributed, multi-platform C/C++ projects. [```[MIT]```][MIT]
+* [fips](https://github.com/floooh/fips)  -分布式，多平台C / C ++项目的高级构建系统/依赖性管理.  [```[MIT]```] [MIT]
 * [Ninja](https://github.com/ninja-build/ninja)  -在两个主要方面与其他系统不同的构建系统：它的设计目的是使输入文件由更高级别的构建系统（例如CMake）生成，并且它设计用于尽可能快地运行构建.  [```[APACHE2]```] [APACHE2]
 * [vcpkg](https://github.com/Microsoft/vcpkg)  -获取和构建C ++开源库的工具.  内部使用CMake作为构建脚本语言.  [```[MIT]```] [MIT]
 * [pmm](https://github.com/AnotherFoxGuy/pmm)  -PMM是用于CMake的模块，用于管理...程序包管理器.  [```[MIT]```] [MIT]
@@ -72,7 +72,7 @@
 
 ## Modules
 
-* [cmake-modules](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik) 的CMake模块集合.  有很多查找模块，特别是用于虚拟现实和物理模拟的查找模块，一些实用程序模块以及CMake本身的某些修补程序或变通办法.  [```[BOOST]```] [BOOST]
+* [cmake-modules](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik) 的CMake模块集合.  有许多查找模块，特别是用于虚拟现实和物理模拟的查找模块，一些实用程序模块以及CMake本身的某些修补程序或解决方法.  [```[BOOST]```] [BOOST]
 * [cmake-modules](https://github.com/bilke/cmake-modules)  -这是其他CMake模块的集合.  其中大多数来自Ryan Pavlik.  [```[BOOST]```] [BOOST]
 * [CMake](https://github.com/Eyescale/CMake) - [Eyescale](https://github.com/Eyescale) 的常见CMake模块.  [```[BSD3]```] [BSD-3-Clause]
 * [sdl2-cmake-scripts](https://github.com/tcbrindle/sdl2-cmake-scripts)  -用于查找SDL2，SDL2_image和SDL2_ttf库和标头的CMake脚本.  [```[BSD2]```] [BSD-2-Clause]
@@ -161,7 +161,7 @@
 * [cpp-boilerplate](https://github.com/Lectem/cpp-boilerplate)  -旨在成为现代CMake和CI参考的模板.  [```[MIT]```] [MIT]
 * [ci_helloworld](https://github.com/ainfosec/ci_helloworld)  -一个简单的示例，说明如何为C和C ++设置完整的CI环境.  [```[MIT]```] [MIT]
 * [how-to-export-cpp-library](https://github.com/robotology/how-to-export-cpp-library)  -一个与操作系统无关的模板项目，用于导出共享的，静态的或仅标头的C ++库，支持ctest和CI，均以纯CMake编写并带有逐行教程注释.  [```[MIT]```] [MIT]
-* [ModernCppCI](https://github.com/LearningByExample/ModernCppCI)  -使用CI进行现代C ++项目的示例（尽管它使用了非现代CMake，如“ include_directories（）”）.  [```[MIT]```] [MIT]
+* [ModernCppCI](https://github.com/LearningByExample/ModernCppCI)  -使用CI进行现代C ++项目的示例（尽管它使用了诸如```include_directories（）```之类的非现代CMake）.  [```[MIT]```] [MIT]
 * [modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample)  -使用目标的最佳做法和CMake的正确用法.  ```[无许可证]```
 * [CMakeInstallExample](https://github.com/DeveloperPaul123/CMakeInstallExample)  -使用Cmake的C ++项目（Windows）的安装示例.  ```[无许可证]```
 * [cpp14-project-template](https://github.com/arnavb/cpp14-project-template)  -具有CI，测试，代码覆盖率，文档和静态分析集成的C ++ 14模板.  [```[CC0-1.0]```] [CC0-1.0]
@@ -181,11 +181,11 @@
 * [python-cmake-buildsystem](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem)  -用于CPython的替换构建系统.  [```[APACHE2]```] [APACHE2]
 * [scikit-build](https://github.com/scikit-build/scikit-build)  -改进了CPython C扩展的构建系统生成器.  [```[MIT]```] [MIT]
 * [protobuf-cmake](https://github.com/jesperes/protobuf-cmake)  -对Google Protobufs的CMake构建支持.  [```[BSD3]```] [BSD-3-Clause]
-* [node-cmake](https://github.com/cjntaylor/node-cmake)  -用于node.js本机模块的基于CMake的构建系统.  [```[ISC]```] [ISC]
+* [node-cmake](https://github.com/cjntaylor/node-cmake) - CMake-based build system for node.js native modules. [```[ISC]```][ISC]
 * [cmake-font-lock](https://github.com/Lindydancer/cmake-font-lock)  -Emacs中对CMake脚本的高级语法着色支持.  [```[GPL]```] [GPL]
 * [stm32-cmake](https://github.com/ObKo/stm32-cmake)  -用于开发STM32的应用程序-ST的ARM Cortex-M0（3,4,7）MCU.  [```[MIT]```] [MIT]
 * [autovala](https://github.com/rastersoft/autovala)  -自动为您的Vala项目生成CMake配置文件的程序.  [```[GPL]```] [GPL]
-* [catkin](https://github.com/ros/catkin)  -基于CMake的构建系统，用于构建机器人操作系统（ROS）中的所有软件包.  [```[BSD3]```] [BSD-3-Clause]
+* [catkin](https://github.com/ros/catkin) - CMake-based build system that is used to build all packages in Robot Operating System (ROS). [```[BSD3]```][BSD-3-Clause]
 * [suitesparse-metis-for-windows](https://github.com/jlblancoc/suitesparse-metis-for-windows)  -CMake脚本可轻松使用SuiteSparse + METIS.  [```[BSD3]```] [BSD-3-Clause]
 * [cython-cmake-example](https://github.com/thewtex/cython-cmake-example)  -使用CMake构建Cython模块的实用程序和示例.  [```[LICENSE]```]（https://github.com/thewtex/cython-cmake-example/blob/master/LICENSE）
 * [osg-3rdparty-cmake](https://github.com/bjornblissing/osg-3rdparty-cmake)  -用于构建OpenSceneGraph第三方库的CMake脚本.  ```[混合许可]```
@@ -202,6 +202,7 @@
 * [cmrc](https://github.com/vector-of-bool/cmrc)  -单个CMake脚本中的资源编译器（将任意数据编译成程序）.  [```[MIT]```] [MIT]
 * [cmake_check](https://github.com/DaelDe/cmake_check)  -CMake语言的静态分析（线性）（例如，强制执行现代CMake规则）.  [```[MIT]```] [MIT]
 * [cmake-language-server](https://github.com/regen100/cmake-language-server)  -CMake语言服务器协议实现.  [```[MIT]```] [MIT]
+* [cmake-maven-plugin](https://github.com/cmake-maven-project/cmake-maven-project)  -用于Maven构建的CMake集成.  [```[APACHE2]```] [APACHE2]
 
 ## License
 

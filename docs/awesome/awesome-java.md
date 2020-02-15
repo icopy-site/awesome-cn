@@ -473,7 +473,7 @@ _记录应用程序行为的库.
 - [Kibana](https://www.elastic.co/kibana)  -分析和可视化日志文件.  某些功能需要付费.
 - [Logback](http://logback.qos.ch) -健壮的日志库，通过Groovy具有有趣的配置选项.
 - [Logbook](https://github.com/zalando/logbook) -可扩展的开放源代码库，用于HTTP请求和响应日志记录.
-- [Logstash](https://www.elastic.co/logstash) -用于管理日志文件的工具.
+- [Logstash](https://www.elastic.co/logstash) - Tool for managing log files.
 - [p6spy](https://github.com/p6spy/p6spy) -启用所有JDBC事务的日志记录，而无需更改代码.
 - [SLF4J](http://www.slf4j.org) -抽象层/简单的日志外观.
 - [tinylog](https://tinylog.org/v2/) -具有静态记录器类的轻量级记录框架.
@@ -872,8 +872,8 @@ _简化异步服务测试的工具._
 - [ConcurrentUnit](https://github.com/jhalterman/concurrentunit) -用于测试多线程和异步应用程序的工具包.
 - [GreenMail](http://www.icegreen.com/greenmail/)  -用于集成测试的内存电子邮件服务器.  支持SMTP，POP3和IMAP（包括SSL）.  （仅限GPL-2.0）
 - [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java) -Hoverfly的本机绑定，Hoverfly是一个代理，可用于模拟HTTP服务.
-- [REST Assured](https://github.com/rest-assured/rest-assured) -DSL，可轻松测试REST / HTTP服务.
 - [Karate](https://github.com/intuit/karate) -结合了API测试自动化，模拟和性能测试的DSL，使测试REST / HTTP服务变得容易.
+- [REST Assured](https://github.com/rest-assured/rest-assured) -DSL，可轻松测试REST / HTTP服务.
 
 #### BDD
 
@@ -899,12 +899,12 @@ _与创建和处理随机数据有关的一切._
 
 #### Frameworks
 
-_Provide environments to run tests for a specific use case._
+_提供环境以针对特定用例运行测试.
 
 - [ArchUnit](https://github.com/TNG/ArchUnit) -用于指定和声明体系结构规则的测试库.
 - [Apache JMeter](http://jmeter.apache.org) -功能测试和性能测量.
 - [Arquillian](http://arquillian.org) -Java EE容器的集成和功能测试平台.
-- [Citrus](https://citrusframework.org) -集中于客户端和服务器端消息传递的集成测试框架.
+- [Citrus](https://citrusframework.org) - Integration testing framework that focuses on both client- and server-side messaging.
 - [Gatling](https://gatling.io) -旨在简化易用性，可维护性和高性能的负载测试工具.
 - [JUnit](https://junit.org/junit5/) -通用的测试框架.
 - [jqwik](https://jqwik.net) -基于JUnit 5的基于属性的测试引擎.
@@ -1063,7 +1063,7 @@ _编程时要看或听的东西._
 - [Eugen Paraschiv](https://twitter.com/baeldung) -春季安全课程的作者.
 - [Heinz Kabutz](https://twitter.com/heinzkabutz) -Java冠军，演讲者，《 Java专家通讯》的作者，并发性能专家.
 - [Holly Cummins](https://twitter.com/holly_cummins) -IBM伦敦Bluemix Garage的技术负责人，Java冠军，开发人员，作家JavaOne摇滚明星.
-- [James Weaver](https://twitter.com/JavaFXpert) - Java/JavaFX/IoT developer, author and speaker.
+- [James Weaver](https://twitter.com/JavaFXpert) -Java / JavaFX / IoT开发人员，作者和发言人.
 - [Java EE](https://twitter.com/Java_EE) -官方Java EE Twitter帐户.
 - [Java Magazine](https://twitter.com/Oraclejavamag) -官方Java杂志帐户.
 - [Java](https://twitter.com/java) -官方Java Twitter帐户.

@@ -36,10 +36,10 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 ## Featured (new releases)
 
 -  [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/)  -存储在远程配置中的CSS的动态/有条件加载.  （[Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
+-  [Firecoil](https://github.com/rosariopfernandes/firecoil) -使用图片加载库Coil在您的Android应用中从GCS加载图片.
+-  [Svarog](https://github.com/dantothefuture/svarog) -使用JSON模式生成的安全规则帮助程序功能进行Cloud Firestore模式验证.
 -  [Firebase Extensions](https://firebase.google.com/products/extensions) -Firebase Extensions为您的应用程序提供了扩展功能，而无需自己研究，编写或调试代码.
 -  [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) -将应用的预发布版本分发给您值得信赖的测试人员.
--  [Firebase Summit 2019](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) -所有Firebase讲座@ Firebase Summit 2019.
--  [Svarog](https://github.com/dantothefuture/svarog) -使用JSON模式生成的安全规则帮助程序功能进行Cloud Firestore模式验证.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -52,7 +52,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 -  [React Fire](https://github.com/FirebaseExtended/reactfire) -带有钩子，上下文提供程序和组件的官方Firebase React库，可轻松与Firebase进行交互.
 -  [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) -用于Firebase服务的React Hooks.
--  [Firebase UI](https://github.com/firebase/firebaseui-web) -FirebaseUI是用于Web的开源JavaScript库，它在Firebase SDK之上提供了简单的，可自定义的UI绑定，以消除样板代码并推广最佳实践.
+-  [Firebase UI](https://github.com/firebase/firebaseui-web) -FirebaseUI是用于Web的开源JavaScript库，它在Firebase SDK的基础上提供了简单，可自定义的UI绑定，以消除样板代码并推广最佳实践.
 -  [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) -用于FirebaseUI Web的React Wrapper.
 -  [GeoFire for JavaScript](https://github.com/firebase/geofire-js) -使用Firebase进行实时位置查询.
 -  [FirePad](https://github.com/FirebaseExtended/firepad) -由Firebase提供支持的协作文本编辑器.
@@ -60,7 +60,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Firebase Dart](https://github.com/FirebaseExtended/firebase-dart) -Firebase的飞镖包装.
 -  [PolymerFire](https://github.com/FirebaseExtended/polymerfire) -用于Firebase的Polymer Web组件.
 -  [VueFire](https://github.com/vuejs/vuefire) -Vue.js的Firebase绑定.
--  [Angular Fire 2](https://github.com/angular/angularfire2) -Firebase和Angular的官方库.
+-  [Angular Fire 2](https://github.com/angular/angularfire2) - Official library for Firebase and Angular.
 -  [Re-base](https://github.com/tylermcginnis/re-base) -中继启发式库，用于构建React.js + Firebase应用程序.
 -  [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase)  -Firebase的Redux绑定.  包括与React一起使用的高阶组件.
 -  [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/) -使用Gatsby将Firebase数据直接查询到静态生成的页面中.
@@ -79,7 +79,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [FlutterFire](https://github.com/flutter/plugins/blob/master/FlutterFire.md) -在跨平台中使用Firebase服务 [Flutter](https://flutter.io/) 应用.
 -  [React Native Firebase](https://github.com/invertase/react-native-firebase)  -经过测试的功能丰富的模块化Firebase实施，用于React Native.  同时支持iOS和Android平台.
 -  [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
-  React Native module for Firebase Cloud Messaging and local notification.
+  用于Firebase Cloud Messaging和本地通知的React Native模块.
 -  [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) -用于Firestore，通知，分析，存储，消息传递，数据库的本地Firebase Expo应用（iOS，Android）演示.
 -  [Flutter Calendar App](https://github.com/mattgraham1/FlutterCalendar) -
   新的Flutter应用程序实现了一个简单的移动日历应用程序，用于将基本事件存储到Firebase云数据库中.
@@ -125,6 +125,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Other
 
+-  [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) -通过应用程序和用户切换来查询，（批处理）编辑和导出文档的WebApp.
 -  [FireDrill](https://github.com/scottlepp/fire-drill) -查找，编辑，添加，删除，导入，导出和报告Firebase数据.
 -  [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) -使用Firebase工具将常见功能整合到您的游戏中.
 -  [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) -Firebase ANE集合使您可以使用100％相同的ActionScript API访问Android和iOS支持的AdobeAir项目中的Google Firebase项目.
@@ -138,7 +139,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [#AskFirebase YouTube Playlist](https://www.youtube.com/watch?v=TSzhzR4wzSE&list=PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA) - Official #AskFirebase playlist on YouTube.
 -  [State of Firebase (mid 2019)](https://codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70) -Cloud Next和Google I / O 2019更新！
 -  [Firebase @ Google IO '19](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO) -所有Firebase对话@ Google IO 2019.
--  [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) -通过应用程序和用户切换来查询，（批处理）编辑和导出文档的WebApp.
+-  [Firebase Summit 2019](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) -所有Firebase讲座@ Firebase Summit 2019.
 
 <!-- END content -->
 

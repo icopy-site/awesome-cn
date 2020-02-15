@@ -15,7 +15,7 @@
 ## Communication
 - [Adium](http://www.alfredforum.com/topic/1274-adium-workflow/) -与您列表中的人聊天的Adium工作流程.
 - [MailTo](https://github.com/deanishe/alfred-mailto) -快速撰写发送给您的联系人和联系人组的电子邮件.
-- [Slack](https://github.com/fspinillo/slackfred) -与服务Slack交互并执行各种功能的Alfred工作流.
+- [Slack](https://github.com/fspinillo/slackfred) -Alfred工作流与服务Slack进行交互并执行各种功能.
 
 ## Developer
 - [caniuse](https://github.com/willfarrell/alfred-caniuse-workflow) -Caniuse.com工作流程可查询HTML / CSS支持.
@@ -26,7 +26,7 @@
 - [Fakeum](https://github.com/deanishe/alfred-fakeum) -生成各种测试数据.
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) -快速查找字体真棒图标，然后将所需的图标添加到剪贴板.
 - [Github](https://github.com/gharlan/alfred-github-workflow) -GitHub命令栏，类似于Github中的命令栏.
-- [Git Repos](https://github.com/deanishe/alfred-repos) -搜索并在系统上打开Git仓库.
+- [Git Repos](https://github.com/deanishe/alfred-repos) -在系统上搜索并打开Git存储库.
 - [JetBrains](https://github.com/bchatard/jetbrains-alfred-workflow) -使用JetBrains产品之一打开项目.
 - [Laravel Forge](https://github.com/vmitchell85/alforge) -alForge，在Laravel Forge上打开并运行命令.
 - [mdi](https://github.com/importre/alfred-mdi) - 找 [Material Design Icons](https://github.com/google/material-design-icons).
@@ -54,6 +54,7 @@
 ## Productivity
 - [Google Calendar View](https://github.com/deanishe/alfred-gcal) -查看您的Google日历活动.
 - [I Sheet You Not](https://github.com/deanishe/i-sheet-you-not) -从Excel电子表格生成自己的工作流程.
+- [iMessage 2FA](https://github.com/squatto/alfred-imessage-2fa) -在最近的iMessage消息中找到两因素身份验证代码.
 - [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) -优化，加密和处理PDF文件.
 - [Things](https://github.com/xilopaint/alfred-things) -使用Alfred与Things 3进行交互.
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) -将任务添加到Todoist.
@@ -62,8 +63,8 @@
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) -表情符号的摘要包.
 - [Emoj](https://github.com/sindresorhus/alfred-emoj) -从文本中找到相关的表情符号.
 - [Gitmoji](https://github.com/leolabs/alfred-gitmoji/) - 搜索 [Gitmojis](https://gitmoji.carloscuesta.me/) 容易.
-- [Lorem Ipsum](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - 从生成虚拟阿尔弗雷德（...）文本.
-- [Kaomoji](https://github.com/vinkla/alfred-kaomoji) -从文字中找到相关的kaomoji.
+- [Lorem Ipsum](https://github.com/raarellano/alfred-lorem-ipsum-workflow) - 生成Lorem存有（...）从阿尔弗雷德文本.
+- [Kaomoji](https://github.com/vinkla/alfred-kaomoji) -从文本中找到相关的kaomoji.
 - [Moment](https://github.com/perfectworks/alfred-workflow-moment) -先进的时间实用程序，灵感来自 [moment.js](https://momentjs.com).
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) -将屏幕截图直接保存到imgur.
 
@@ -85,8 +86,8 @@
 - [Keyboard Maestro](https://github.com/iansinnott/alfred-maestro) -执行Alfred的Keyboard Maestro宏.
 - [Keylue](https://github.com/zhaocai/alfred2-keylue-workflow) -按键提示，菜单栏和键盘大师热键搜索
 - [Network Info](http://www.packal.org/workflow/network-info) -显示所有网络接口的IP地址或MAC地址.
-- [SSH](https://github.com/isometry/alfred-ssh/) -根据`〜/ .ssh / known_hosts`，~~ .ssh / config和`/ etc / hosts&#39;自动完成SSH会话
-- [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) -查询〜/ .ssh / config并使用iTerm徽章打开ssh主机.
+- [SSH](https://github.com/isometry/alfred-ssh/) -根据~~ .ssh / known_hosts，〜/ .ssh / config和/ etc / hosts自动完成SSH会话
+- [SSH iTerm](https://github.com/hanjm/alfred-ssh-iterm-workflow) -查询~~ .ssh / config并使用iTerm徽章打开ssh主机.
 - [Swift Windows Switcher](https://github.com/mandrigin/AlfredSwitchWindows) -在打开的窗口和浏览器（Safari / Chrome）标签之间切换.
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) -将计算机的音量静音一段指定的时间.
 - [TerminalFinder](https://github.com/LeEnno/alfred-terminalfinder) -Alfred工作流程可在Terminal / iTerm中打开当前的Finder窗口，反之亦然.
@@ -106,11 +107,11 @@
 - [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) -将自动更新添加到工作流程中的最小配置方法.
 
 ## Other Lists
-这是有用的其他阿尔弗雷德收藏的列表.
+以下是有用的其他alfred集合的列表.
 
 - [AlfredWorkflow.com](http://alfredworkflow.com) -Alfred工作流程列表.
 - [Ctwise Alfred Workflows](https://github.com/ctwise/alfred-workflows) -Github用户“ ctwise”的工作流程.
-- [Packal](http://www.packal.org/) -找到工作流程的最大地方.
+- [Packal](http://www.packal.org/) -找到工作流的最大地方.
 - [Vítor Galvão’s Alfred Workflows](https://github.com/vitorgalvao/alfred-workflows/) -来自Github用户“ vitorgalvao”的工作流程.
 
 ## Contributing
@@ -122,4 +123,4 @@
       style =“ border-style：none;”  alt =“公共域名标记” /&gt;
 </a>
 
-在法律允许的范围内， [David Wikoff](https://github.com/derimagia) 已放弃所有版权及相关或邻接权这项工作.
+在法律允许的范围内， [David Wikoff](https://github.com/derimagia) 已放弃此作品的所有版权以及相关或邻近的权利.

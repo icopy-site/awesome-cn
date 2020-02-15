@@ -5,7 +5,7 @@
 
 &gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要用于初学者/中级的资源.
 
- 创意编码是与编程系统不同的学科.  目标是创建某种表达方式，而不是功能.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表达为编码的艺术品.
+ 创意编码是与编程系统不同的学科.  目标是创建某种表达方式，而不是功能.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表示为代码的艺术品.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在捐款之前.*
 
@@ -468,7 +468,7 @@
 - [Resonate](http://resonate.io/) -在贝尔格莱德（Belgrade）从事有关前沿音乐，视觉艺术和数字文化的活动.
 - [Gray Area Festival](http://grayareafestival.io/) -创意编码，艺术和技术节.
 - [Signal Festival](http://www.signalfestival.com/) -在捷克共和国布拉格展示轻艺术和新兴技术.
-- [Eyeo Festival](http://eyeofestival.com/) -将从事数据，艺术和技术交汇的创意编码人员，数据设计师和创作者召集在一起.
+- [Eyeo Festival](http://eyeofestival.com/) -将在数据，艺术和技术的交汇处工作的创意编码人员，数据设计师和创作者聚集在一起.
 - [Mutek](http://www.mutek.org/en) -致力于声音，音乐和视听艺术中数字创意的组织.
 - [Node](https://nodeforum.org/) -一个开放的文化，艺术和技术交流平台.
 - [Digital Design Days - OFFF](http://www.ddd.it/en) -为期3天的活动，提供会议，研讨会，数字展示和安装.
@@ -523,7 +523,7 @@
 
 ## Special Thanks
 
-[<img src="https://frontendmasters.com/static/frontendmasters.0e71088726.svg" height="25">](https://frontendmasters.com)
+[<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
 
 
 ## License

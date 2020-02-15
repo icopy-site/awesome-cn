@@ -46,7 +46,7 @@
 - [Cumulus](https://github.com/gillesdemey/Cumulus) -菜单栏中的SoundCloud播放器.
 - [Kitematic](https://github.com/docker/kitematic) -Docker容器管理.
 - [FatFileFinder](https://github.com/pwambach/fat-file-finder) -在您的计算机上查找大文件.
-- [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
+- [ScreenCat](https://github.com/maxogden/screencat) -屏幕共享和远程协作.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) -地图设计师.
 - [LevelUI](https://github.com/hij1nx/levelui) -LevelDB管理.
 - [Vmd](https://github.com/yoshuawuyts/vmd) -预览Markdown文件.
@@ -62,7 +62,7 @@
 - [Toby](https://github.com/frankhale/toby) -YouTube播放器.
 - [Kaku](https://github.com/EragonJ/Kaku) - 音乐播放器.
 - [Markn](https://github.com/minodisk/markn) -Markdown查看器.
-- [Shiba](https://github.com/rhysd/Shiba) - Live Markdown preview with linting.
+- [Shiba](https://github.com/rhysd/Shiba) -带有棉绒的实时降价预览.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) -您菜单栏中的YouTube音乐播放器.
 - [TimoFM](https://github.com/sapjax/TimoFM) -DoubanFM音乐播放器.
 - [Monu](https://github.com/maxogden/monu) -过程监控.
@@ -138,7 +138,7 @@
 - [Cerebro](https://github.com/KELiON/cerebro) -具有内联预览的启动器.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) -控制任何显示器的亮度.
 - [LosslessCut](https://github.com/mifi/lossless-cut) -无损视频修剪和切割.
-- [Buka](https://github.com/oguzhaninan/Buka) -电子书管理.
+- [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) -创建和管理HTTP请求.
 - [Tusk](https://github.com/champloohq/tusk) -非官方的Evernote应用.
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) -非官方的ProtonMail应用程序.
@@ -167,6 +167,7 @@
 - [ExifCleaner](https://github.com/szTheory/exifcleaner) -通过拖放来清洁图像元数据.
 - [massCode](https://github.com/antonreshetov/massCode) -开发人员的代码段管理器.
 - [Swifty](https://github.com/swiftyapp/swifty) -密码管理器.
+- [MQTTX](https://github.com/emqx/MQTTX) -MQTT的客户端，这是一种轻量级的消息传递协议.
 
 ### Closed Source
 
@@ -317,7 +318,7 @@
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) -在Electron中运行Mocha测试.
 - [electron-har](https://github.com/shyiko/electron-har) -用于生成HTTP存档（HAR）的命令行工具.
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) -将Electron应用程序转换为Windows Store AppX软件包.
-- [Reactotron](https://github.com/reactotron/reactotron) -检查您的React和React Native应用程序.
+- [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
 - [jest-electron](https://github.com/hustcc/jest-electron) -在浏览器环境中运行和调试Jest单元测试.
 
 ## Components
@@ -348,7 +349,7 @@
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
-- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) -新的Electron API，以更少的错误和更高的性能嵌入Web应用程序.
+- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) -新的Electron API可以以更少的错误和更高的性能嵌入Web应用程序.
 - [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -Slack用“ BrowserView”，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -Realm使用Electron重写了其数据库浏览器应用程序，以提供跨平台支持.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) -由5部分组成的系列，介绍了将Electron应用制作和发布到Mac App Store的过程.

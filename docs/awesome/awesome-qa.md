@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Question Answering [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-_精选的清单 __[Question Answering (QA)](https://en.wikipedia.org/wiki/Question_answering)__这是信息检索和自然语言处理（NLP）领域中的计算机科学学科，致力于使用机器学习和深度学习_
+_精选的清单 __[Question Answering (QA)](https://en.wikipedia.org/wiki/Question_answering)__信息检索和自然语言处理（NLP）领域中的计算机科学学科，致力于使用机器学习和深度学习_
 
 从机器学习到深度学习的信息检索和自然语言处理中的问答环节<br/>
 _问答系统主题的精选列表，是信息检索和自然语言处理领域的计算机科学学科 - 使用机器学习和深度学习_
@@ -15,20 +15,26 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Recent Trend
+### T5
+-原始纸
+  - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)，Colin Raffel等人，arXiv预印本，2019年.
+### ERNIE
+-原始纸
+  - [ERNIE: Enhanced Language Representation with Informative Entities](https://arxiv.org/abs/1905.07129), Zhengyan Zhang, et al., ACL, 2019.
 ### XLNet
 -原始纸
-  - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)，杨志林等人，ArXiv预印本，2019.
+  - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)，Yang Zhilin Yang等人，arXiv预印本，2019.
 ### BERT
 -语言模型
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)，Jacob Devlin等人，NAACL 2019，2018年.
   - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), Yinhan Liu, et al., arXiv preprint, 2019.
-  - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)，Lan Zhenzhong et al.，ArXiv preprint，2019.
+  - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942), Zhenzhong Lan, et al., arXiv preprint, 2019.
 -质量检查
   - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758)，Harshith Padigela等人，ArXiv预印本，2019年5月.
   - [BERT with History Answer Embedding for Conversational Question Answering](https://arxiv.org/abs/1905.05412)，Chen Qu等人，arXiv预印本，2019年5月.
   - [Understanding the Behaviors of BERT in Ranking](https://arxiv.org/abs/1904.07531), Yifan Qiao, et al., arXiv preprint, Apr 2019.
   - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232)，Hu Xu等人，ArXiv预印本，2019年4月.
-  - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718)，Wei Yang等，ArXiv预印本，2019年2月.
+  - [End-to-End Open-Domain Question Answering with BERTserini](https://arxiv.org/abs/1902.01718), Wei Yang, et al., arXiv preprint, Feb 2019.
   - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)克里斯·阿尔贝蒂，等人的arXiv预印2019年1月.
   - [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)，Rodrigo Nogueira等人，ArXiv预印本，2019年1月.
   - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
@@ -36,7 +42,7 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   - [TANDA: Transfer and Adapt Pre-Trained Transformer Models for Answer Sentence Selection](https://arxiv.org/pdf/1911.04118.pdf)，Siddhant Garg等人，AAAI 2020，2019年11月.
 ### ACL 2019
   -[MEDIQA 2019文本推理共享任务概述，
-问题包含和问题回答]（https://www.aclweb.org/anthology/W19-5039），Asma Ben Abacha等人，ACL-W 2019，2019年8月.
+问题蕴涵和问题回答]（https://www.aclweb.org/anthology/W19-5039），Asma Ben Abacha等人，ACL-W 2019，2019年8月.
   - [Towards Scalable and Reliable Capsule Networks for Challenging NLP Applications](https://arxiv.org/pdf/1906.02829v1.pdf), Wei Zhao, et al., ACL 2019, Jun 2019.
   - [Cognitive Graph for Multi-Hop Reading Comprehension at Scale](https://arxiv.org/pdf/1905.05460v2.pdf), Ming Ding, et al., ACL 2019, Jun 2019.
   - [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index](https://arxiv.org/abs/1906.05807)，Minjoon Seo等人，ACL 2019，2019年6月.
@@ -45,15 +51,15 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   - [Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader](https://arxiv.org/abs/1905.07098), Wenhan Xiong, et al., ACL 2019, May 2019.
   - [Matching Article Pairs with Graphical Decomposition and Convolutions](https://arxiv.org/pdf/1802.07459v2.pdf)，Bang Liu等人，ACL 2019,2019年5月.
   - [Episodic Memory Reader: Learning what to Remember for Question Answering from Streaming Data](https://arxiv.org/abs/1903.06164)，Moonsu Han等人，ACL 2019，2019年3月.
-  - [Natural Questions: a Benchmark for Question Answering Research](https://ai.google/research/pubs/pub47761)，Tom Kwiatkowski等，TACL 2019,2019年1月.
+  - [Natural Questions: a Benchmark for Question Answering Research](https://ai.google/research/pubs/pub47761)，Tom Kwiatkowski等人，TACL 2019，2019年1月.
   - [Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension](https://arxiv.org/abs/1811.00232)，Daesik Kim等人，ACL 2019，2018年11月.
 ### EMNLP-IJCNLP 2019
-  - [Language Models as Knowledge Bases?](https://arxiv.org/pdf/1909.01066v2.pdf)，Fabio Petron等人，EMNLP-IJCNLP 2019，2019年9月.
-  - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490v3.pdf)，Hao Tan等人，EMNLP-IJCNLP 2019，2019年12月.
-  - [Answering Complex Open-domain Questions Through Iterative Query Generation](https://arxiv.org/pdf/1910.07000v1.pdf)，彭琦等人，EMNLP-IJCNLP 2019，2019年10月.
-  - [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://arxiv.org/pdf/1909.02151v1.pdf)Bill Yuchen Lin等人，EMNLP-IJCNLP 2019,2019年9月.
+  - [Language Models as Knowledge Bases?](https://arxiv.org/pdf/1909.01066v2.pdf)法比奥门阶，等人，EMNLP-IJCNLP 2019月2019.
+  - [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://arxiv.org/pdf/1908.07490v3.pdf), Hao Tan, et al., EMNLP-IJCNLP 2019, Dec 2019.
+  - [Answering Complex Open-domain Questions Through Iterative Query Generation](https://arxiv.org/pdf/1910.07000v1.pdf), Peng Qi, et al., EMNLP-IJCNLP 2019, Oct 2019.
+  - [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://arxiv.org/pdf/1909.02151v1.pdf), Bill Yuchen Lin, et al., EMNLP-IJCNLP 2019, Sep 2019.
   - [Mixture Content Selection for Diverse Sequence Generation](https://arxiv.org/pdf/1909.01953v1.pdf)，Jaemin Cho等人，EMNLP-IJCNLP 2019，2019年9月.
-  - [A Discrete Hard EM Approach for Weakly Supervised Question Answering](https://arxiv.org/pdf/1909.04849v1.pdf)，Sewon Min等人，EMNLP-1JCNLP，2019年9月，2019年.
+  - [A Discrete Hard EM Approach for Weakly Supervised Question Answering](https://arxiv.org/pdf/1909.04849v1.pdf)，Sewon Min等人，EMNLP-IJCNLP，2019年9月，2019年.
 ### Dataset
   - [ELI5: Long Form Question Answering](https://arxiv.org/abs/1907.09190)，安吉拉·范（Angela Fan）等人，ACL 2019，2019年7月
   - [CODAH: An Adversarially-Authored Question Answering Dataset for
@@ -90,8 +96,8 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 -Wolfram Alpha在2009年推出了答案引擎.
 -IBM Watson系统击败了顶尖*[Jeopardy!](https://www.jeopardy.com)* 2011年冠军.
 -苹果的Siri于2011年集成了Wolfram Alpha的应答引擎.
--Google通过在2012年利用免费的基础知识库推出了“知识图谱”，从而接受了质量检查.
- -亚马逊回声|  Alexa（2015），Google主页|  Google助手（2016年），INVOKE |  MS Cortana（2017），HomePod（2017）
+-Google在2012年利用免费的基础知识库推出了“知识图谱”，从而接受了质量检查.
+ -亚马逊回声|  Alexa（2015），Google主页|  Google Assistant（2016年），INVOKE |  MS Cortana（2017），HomePod（2017）
 
 ## Systems
 - [IBM Watson](https://www.ibm.com/watson/) -具有最先进的性能. 
@@ -103,10 +109,10 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
  |  |  数据集  语言|  主办单位|  由于  最高排名|  型号|  现状  超越人类绩效
 |---|------------------|---------------|---------------------|-------|-------------------------|-------------------------|--------|------------------------|
 | 0 | [Story Cloze Test](http://cs.rochester.edu/~nasrinm/files/Papers/lsdsem17-shared-task.pdf)  |  英文|  大学  罗切斯特  2016 |  msap |  逻辑回归|  已关闭  x |
- |  1 |  MS MARCO |  英文|  微软|  2016 |  元福岛研究有限公司  火星|  已关闭  o |
+| 1 | MS MARCO         | English       | Microsoft           | 2016  | YUANFUDAO research NLP  | MARS                    | Closed | o                      |
  |  2 |  MS MARCO V2 |  英文|  微软|  2018 |  NTT Media Intelli.  实验室  |  面具问与答风格|  开了  x |
 | 3 | [SQuAD](https://arxiv.org/abs/1606.05250)             |  英文|  大学  斯坦福大学|  2018 |  XLNet（单个模型）| XLNet团队|  已关闭  o |
-| 4 | [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)         |  英文|  大学  斯坦福大学|  2018 |  PINGAN全能型|  ALBERT + DAAF +验证程序（集成）|  开了  o |
+| 4 | [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)         |  英文|  大学  斯坦福大学|  2018 |  平安全拼|  ALBERT + DAAF +验证程序（集成）|  开了  o |
 | 5 | [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)          |  英文|  大学  华盛顿  2017 |  明艳|  -|  已关闭  -|
 | 6 | [decaNLP](https://decanlp.com/)           |  英文|  Salesforce研究|  2018 |  Salesforce研究|  MQAN |  已关闭  x |
 | 7 | [DuReader Ver1.](https://ai.baidu.com/broad/introduction)           |  中文|  百度|  2015 |  推杆  T型阅读器（单）|  已关闭  x |
@@ -126,33 +132,33 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   - ["Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions"](https://ieeexplore.ieee.org/document/6823700/), Wei Shen, Jianyong Wang, Jiawei Han, IEEE Transactions on Knowledge and Data Engineering(TKDE), 2014.
   - ["Introduction to “This is Watson"](https://ieeexplore.ieee.org/document/6177724/)，IBM研究与开发杂志，DA Ferrucci，2012年.
   - ["A survey on question answering technology from an information retrieval perspective"](https://www.sciencedirect.com/science/article/pii/S0020025511003860)，信息科学，2011年.
-  - ["Question Answering in Restricted Domains: An Overview"](https://www.mitpressjournals.org/doi/abs/10.1162/coli.2007.33.1.41)，迭戈·莫拉（DiegoMollá）和何塞·路易斯·维斯多（JoséLuis Vicedo），计算语言学，2007年
+  - ["Question Answering in Restricted Domains: An Overview"](https://www.mitpressjournals.org/doi/abs/10.1162/coli.2007.33.1.41)，迭戈·莫拉（DiegoMollá）和何塞·路易斯·维塞多（JoséLuis Vicedo），计算语言学，2007年
   -[“自然语言问答：从这里观看”]（），L Hirschman，R Gaizauskas，自然语言工程，2001年.
   -实体消歧/实体链接
 
 ## Codes
-- [BiDAF](https://github.com/allenai/bi-att-flow) -双向注意力流（BIDAF）网络是一个多阶段的分层过程，它以不同的粒度级别表示上下文，并使用双向注意力流机制来获取查询感知的上下文表示，而无需进行早期汇总. 
+- [BiDAF](https://github.com/allenai/bi-att-flow) -双向注意流（BIDAF）网络是一个多阶段的分层过程，它以不同的粒度级别表示上下文，并使用双向注意流机制来获取查询感知的上下文表示，而无需尽早汇总. 
    -官方；  Tensorflow v1.2
   - [Paper](https://arxiv.org/pdf/1611.01603.pdf)
-- [QANet](https://github.com/NLPLearn/QANet) -Q＆A体系结构不需要循环网络：其编码器仅包含卷积和自我注意，其中卷积模型化了本地交互，而自我注意模型化了全局交互.
+- [QANet](https://github.com/NLPLearn/QANet) -Q＆A体系结构不需要循环网络：其编码器仅包含卷积和自我注意，其中卷积建模局部交互作用，而自我注意建模全局交互作用.
    - 谷歌;  非官方;  Tensorflow v1.5
 - [R-Net](https://github.com/HKUST-KnowComp/R-Net) -用于理解理解式问题回答的端到端神经网络模型，旨在回答给定段落中的问题.
    - 女士;  科大非正式地；  Tensorflow v1.5
   - [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
 - [R-Net-in-Keras](https://github.com/YerevaNN/R-NET-in-Keras) -在Keras中重新实现R-NET.
-   - 女士;  非官方;  Keras v2.0.6
+   -MS；  非官方的  硬v2.0.6
   - [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
 - [DrQA](https://github.com/hitvoice/DrQA) -DrQA是一种用于开放域问答的阅读理解系统.
    -Facebook；  官方;  pytorch v0.4
-- [BERT](https://github.com/google-research/bert)  -一种新的语言表示模型，代表来自变压器的双向编码器表示.  与最新的语言表示模型不同，BERT被设计为通过在所有层的左和右上下文上共同进行条件预训练深度双向表示. 
+- [BERT](https://github.com/google-research/bert)  -一种新的语言表示模型，代表来自变压器的双向编码器表示.  与最新的语言表示模型不同，BERT设计为通过在所有层的左和右上下文上共同进行条件预训练深度双向表示. 
    - 谷歌;  正式执行；  Tensorflow v1.11.0
   - [Paper](https://arxiv.org/abs/1810.04805)
 
 ## Lectures
-- [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo)  -Dragomir Radev博士  |  密西根大学  2016年.
+- [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo)  -Dragomir Radev博士  |  密西根大学  2016.
 
 ## Slides
-- [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf)  -作者：Scott Wen-tau Yih和马浩|  微软研究院|  2016.
+- [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf) - By Scott Wen-tau Yih & Hao Ma | Microsoft Research | 2016.
 - [Question Answering](https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/NaturalLanguageProcessing/NLP2017/NLP8_QuestionAnswering.pdf)  -博士  Mariana Neves |  哈索·普拉特纳学院|  第二千○一十七
 
 ## Dataset Collections
@@ -161,13 +167,13 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 
 ## Datasets
 - [AI2 Science Questions v2.1(2017)](http://data.allenai.org/ai2-science-questions/)
-   -它由美国小学和中学年级的学生评估中使用的问题组成.  每个问题均为4向选择题格式，可能包含也可能不包含图表元素.
+   -它包含了美国小学和中学年级学生评估中使用的问题.  每个问题都是4向选择题格式，可能包含也可能不包含图表元素.
   -论文：http：//ai2-website.s3.amazonaws.com/publications/AI2ReasoningChallenge2018.pdf
 - [Children's Book Test](https://uclmr.github.io/ai4exams/data.html)
  -这是Facebook AI Research的bAbI项目之一，旨在实现自动文本理解和推理的目标.  CBT旨在直接衡量语言模型可以如何利用更广泛的语言环境.
 - [CODAH Dataset](https://github.com/Websail-NU/CODAH)
 - [DeepMind Q&A Dataset; CNN/Daily Mail](https://github.com/deepmind/rc-data)
-   -Hermann等.  （2015）使用新闻文章创建了两个很棒的数据集，用于问答研究.  每个数据集包含许多文档（每个90k和197k），每个文档平均约有4个问题.  每个问题都是一个缺少一个单词/短语的句子，可以从随附的文档/上下文中找到.
+   -Hermann等.  （2015）使用新闻文章创建了两个很棒的数据集，用于问答研究.  每个数据集包含许多文档（每个90k和197k），每个文档平均约有4个问题.  每个问题都是一个句子，缺少一个单词/短语，可以从随附的文档/上下文中找到.
   -论文：https：//arxiv.org/abs/1506.03340
 - [ELI5](https://github.com/facebookresearch/ELI5)
   -论文：https：//arxiv.org/abs/1907.09190
@@ -188,32 +194,32 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   -机器理解数据集
   -论文：https：//arxiv.org/pdf/1611.09830.pdf
 - [Qestion-Answer Dataset by CMU](http://www.cs.cmu.edu/~ark/QA-data/)
-   -这是Wikipedia文章的语料库，由它们手动生成的拟事实问题以及对这些问题的手动生成的答案，可用于学术研究.  这些数据由Noah Smith，Michael Heilman，Rebecca Hwa，Shay Cohen，Kevin Gimpel和卡耐基梅隆大学和匹兹堡大学的许多学生在2008年至2010年之间收集.
+   -这是Wikipedia文章的语料库，由它们手动生成的拟事实问题以及对这些问题的手动生成的答案，可用于学术研究.  这些数据由Noah Smith，Michael Heilman，Rebecca Hwa，Shay Cohen，Kevin Gimpel以及卡耐基梅隆大学和匹兹堡大学的许多学生于2008年至2010年收集.
 - [SQuAD1.0](https://rajpurkar.github.io/SQuAD-explorer/)
-  -斯坦福问题解答数据集（SQuAD）是一种阅读理解数据集，由人群工作人员在一组Wikipedia文章上提出的问题组成，其中每个问题的答案是一段文本或跨度，来自相应的阅读文章或问题可能无法回答.
+  -Stanford问题解答数据集（SQuAD）是一种阅读理解数据集，由人群工作人员在一组Wikipedia文章上提出的问题组成，其中每个问题的答案是一段文本或跨度，来自相应的阅读文章或问题可能无法回答.
   -论文：https：//arxiv.org/abs/1606.05250
 - [SQuAD2.0](https://rajpurkar.github.io/SQuAD-explorer/)
-   -SQuAD2.0将SQuAD1.1中的100,000个问题与50,000个新的，无法回答的问题相结合，这些问题是由人群工作者对抗性地编写的，看起来类似于可回答的问题.  为了在SQuAD2.0上取得出色的成绩，系统不仅必须在可能的情况下回答问题，而且还必须确定该段落何时不支持任何答案并放弃回答.
+   -SQuAD2.0将SQuAD1.1中的100,000个问题与50,000个新的，无法回答的问题进行了对抗，这些问题是由人群工作者对抗性地编写的，看起来类似于可回答的问题.  为了在SQuAD2.0上表现出色，系统不仅必须在可能的情况下回答问题，而且还必须确定该段落何时不支持任何回答并放弃回答.
   -论文：https：//arxiv.org/abs/1806.03822
 - [Story cloze test](http://cs.rochester.edu/nlp/rocstories/)
-   -“故事完形填空测试”是一种新的常识推理框架，用于评估故事理解，故事生成和脚本学习.  此测试要求系统选择四句故事的正确结尾.
+   -“故事完形填空测试”是一种新的常识推理框架，用于评估故事理解，故事生成和脚本学习.  该测试要求系统选择四句故事的正确结尾.
   -论文：https：//arxiv.org/abs/1604.01696
 - [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)
-   -TriviaQA是一个阅读理解数据集，包含超过650K的问题-答案-证据三元组.  TriviaQA包括由琐事爱好者编写的95K问答对，并独立收集证据文件，每个问题平均六份，可为回答问题提供高质量的远程监管. 
+   -TriviaQA是一个阅读理解数据集，包含超过650K的问题-答案-证据三元组.  TriviaQA包括由琐事爱好者编写的95K问答对，并独立收集证据文件，每个问题平均六份，可为回答问题提供高质量的远程监控. 
   -论文：https：//arxiv.org/abs/1705.03551
 - [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-US%2Fdownloads%2F4495da01-db8c-4041-a7f6-7984a4f6a905%2Fdefault.aspx)
   -开放域问题解答的一组公开可用的问题和句子对.
   
 ### The DeepQA Research Team in IBM Watson's publication within 5 years
 - 2015
-  -“通过IBM Watson中的电子病历自动生成问题列表”，Murthy Devarakonda，邹清慧，IAAI，2015年.
+  -“通过IBM Watson中的电子病历自动生成问题列表”，Murthy Devarakonda，邹静慧，IAAI，2015年.
   -“ IBM Watson问题解答中的决策制定”，J.William Murdock，本体论峰会，2015年.
-  - ["Unsupervised Entity-Relation Analysis in IBM Watson"](http://www.cogsys.org/papers/ACS2015/article12.pdf)，阿迪亚·卡良布尔（Aditya Kalyanpur），威廉姆多克（J William Murdock），ACS，2015年.
+  - ["Unsupervised Entity-Relation Analysis in IBM Watson"](http://www.cogsys.org/papers/ACS2015/article12.pdf)，Aditya Kalyanpur，J William Murdock，ACS，2015年.
   -“常识推理：基于事件演算的方法”，ET Mueller，摩根·考夫曼/爱思唯尔，2015年.
 - 2014
-  -“问题导向的患者记录摘要：关于Watson应用程序的早期报告”，M.Devarakonda，张东阳，Tsing-Huei Tsou，M.Bornea，Healthcom，2014年.
-  - ["WatsonPaths: Scenario-based Question Answering and Inference over Unstructured Information"](http://domino.watson.ibm.com/library/Cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/088f74984a07645485257d5f006ace96!OpenDocument&Highlight=0,RC25489)，亚当·拉利（Adam Lally），苏加托·巴基（Sugato Bachi），迈克尔·巴博拉克（Michael A.Barborak），大卫·W·布坎南（David W.Buchanan），珍妮弗·楚·卡洛尔，大卫·费鲁奇（David A. M.Prager，Christopher A.Welty，IBM研究报告RC25489,2014年.
-  - ["Medical Relation Extraction with Manifold Models"](http://acl2014.org/acl2014/P14-1/pdf/P14-1078.pdf)，王Chang和范范（ACL），2014年.
+  -“针对问题的患者记录摘要：关于Watson应用程序的早期报告”，M.Devarakonda，张东阳，邹静慧，M.Bornea，Healthcom，2014年.
+  - ["WatsonPaths: Scenario-based Question Answering and Inference over Unstructured Information"](http://domino.watson.ibm.com/library/Cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/088f74984a07645485257d5f006ace96!OpenDocument&Highlight=0,RC25489)，亚当·拉利（Adam Lally），苏加托·巴基（Sugato Bachi），迈克尔·巴博拉克（Michael A.Barborak），大卫·W·布坎南（David W. M.Prager，Christopher A.Welty，IBM研究报告RC25489,2014年.
+  - ["Medical Relation Extraction with Manifold Models"](http://acl2014.org/acl2014/P14-1/pdf/P14-1078.pdf)，王畅和范范（ACL），2014年.
 
 ### MS Research's publication within 5 years
 - 2018
@@ -221,14 +227,14 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   - ["FigureQA: An Annotated Figure Dataset for Visual Reasoning"](https://arxiv.org/abs/1710.07300)，Samira Ebrahimi Kahou，Vincent Michalski，Adam Atkinson，Akos Rate，Adam Trischler，Yoshua Bengio，ICLR，2018年
 - 2017
   - "Multi-level Attention Networks for Visual Question Answering", Dongfei Yu, Jianlong Fu, Tao Mei, Yong Rui, CVPR, 2017.
-  -“用于问答和问题生成的联合模型”，王彤，袁兴迪，亚当·特里斯勒，ICML，2017年.
-  -“机器学习中用于转移学习的两阶段综合网络”，David Golub，黄宝森，何晓东，李登，EMNLP，2017年.
+  -“问题解答和问题产生的联合模型”，王彤，袁兴迪，亚当·特里斯勒，ICML，2017年.
+  -“机器学习中用于迁移学习的两阶段综合网络”，David Golub，黄宝森，何晓东，李登，EMNLP，2017年.
   -“通过语法可解释的表示进行问题解答”，哈米德·帕兰吉，保罗·斯莫伦斯基，何小东，李登， 
   -“基于搜索的神经网络学习，用于顺序问题解答”，Mohit Iyyer，叶文陶，张明伟，ACL，2017年.
 - 2016
   - ["Stacked Attention Networks for Image Question Answering"](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Stacked_Attention_Networks_CVPR_2016_paper.html), Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola, CVPR, 2016.
-  - ["Question Answering with Knowledge Base, Web and Beyond"](https://www.microsoft.com/en-us/research/publication/question-answering-with-knowledge-base-web-and-beyond/)，Yih，Scott Wen-tau和Ma，Hao，ACM SIGIR，2016年.
-  - ["NewsQA: A Machine Comprehension Dataset"](https://arxiv.org/abs/1611.09830)，亚当·特里斯勒（Adam Trischler），王彤，袁星迪，贾斯汀·哈里斯（Justin Harris），亚历山德罗·索多尼（Alessandro Sordoni），菲利普·巴赫曼（Philip Bachman），凯希尔·苏莱曼（Kaheer Suleman），RepL4NLP，2016年.
+  - ["Question Answering with Knowledge Base, Web and Beyond"](https://www.microsoft.com/en-us/research/publication/question-answering-with-knowledge-base-web-and-beyond/), Yih, Scott Wen-tau and Ma, Hao, ACM SIGIR, 2016.
+  - ["NewsQA: A Machine Comprehension Dataset"](https://arxiv.org/abs/1611.09830)，亚当·特里斯勒（Adam Trischler），王彤，袁星迪，贾斯汀·哈里斯（Justin Harris），亚历山德罗·索多尼（Alessandro Sordoni），菲利普·巴赫曼（Philip Bachman），凯希尔·苏勒曼（Kaheer Suleman），RepL4NLP，2016年.
   - ["Table Cell Search for Question Answering"](https://dl.acm.org/citation.cfm?id=2883080), Sun, Huan and Ma, Hao and He, Xiaodong and Yih, Wen-tau and Su, Yu and Yan, Xifeng, WWW, 2016.
 - 2015
   - ["WIKIQA: A Challenge Dataset for Open-Domain Question Answering"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/YangYihMeek_EMNLP-15_WikiQA.pdf)，Yi Yang，Yi-wen-tau和Christopher Meek，EMNLP，2015年.
@@ -236,19 +242,19 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   - ["Open Domain Question Answering via Semantic Enrichment"](https://dl.acm.org/citation.cfm?id=2741651), Huan Sun, Hao Ma, Wen-tau Yih, Chen-Tse Tsai, Jingjing Liu, and Ming-Wei Chang, WWW, 2015.
 - 2014
   - ["An Overview of Microsoft Deep QA System on Stanford WebQuestions Benchmark"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Microsoft20Deep20QA.pdf), Zhenghao Wang, Shengquan Yan, Huaming Wang, and Xuedong Huang, MSR-TR, 2014.
-  -[“针对单关系问题的语义解析”]（），叶文涛，何晓东，克里斯托弗·米克，ACL，2014年.
+  -[“单关系问题的语义解析”]（），叶文涛，何晓东，克里斯托弗·米克，ACL，2014年.
   
 ### Google AI's publication within 5 years
 - 2018
   -Google质量检查<a name="qanet"></a>
     - ["QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension"](https://openreview.net/pdf?id=B14TlG-RW)，Adams Wei Yu，David Dohan，Minh-Thang Luong，Rui Zhao，Kai Chen，Mohammad Norouzi，Quoc V.Le，ICLR，2018年.
-    - ["Ask the Right Questions: Active Question Reformulation with Reinforcement Learning"](https://openreview.net/pdf?id=S1CChZ-CZ)，克里斯蒂安·巴克（Christian Buck）和简尼斯·布利安（Jannis Bulian）以及马西米利亚诺·西亚里亚米塔（Massimiliano Ciaramita）和WojciechPawełGajewski，安德烈·格斯蒙多（Andrea Gesmundo），尼尔·霍尔斯比（Neil Houlsby）和王玮，ICLR，2018年.
-    - ["Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors"](https://arxiv.org/pdf/1612.04342.pdf)，Radu Soricut和Nan Ding，2018.
+    - ["Ask the Right Questions: Active Question Reformulation with Reinforcement Learning"](https://openreview.net/pdf?id=S1CChZ-CZ)，克里斯蒂安·巴克（Christian Buck）和詹尼斯·布利安（Jannis Bulian），马西米利亚诺·西亚里亚米塔（Massimiliano Ciaramita）和WojciechPawełGajewski，安德烈·格斯蒙多（Andrea Gesmundo），尼尔·霍尔斯比（Neil Houlsby）和王玮，ICLR，2018年.
+    - ["Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors"](https://arxiv.org/pdf/1612.04342.pdf)，Radu Soricut，南鼎，2018.
   -句子表示
     - ["An efficient framework for learning sentence representations"](https://arxiv.org/pdf/1803.02893.pdf)，Lajanugen Logeswaran，Lee Honglak Lee，ICLR，2018年.
   - ["Did the model understand the question?"](https://arxiv.org/pdf/1805.05492.pdf)，Pramod K.Mudrakarta和Ankur Taly和Mukund Sundararajan和Kedar Dhamdhere，ACL，2018年.
 - 2017
-  - ["Analyzing Language Learned by an Active Question Answering Agent"](https://arxiv.org/pdf/1801.07537.pdf)，克里斯蒂安·巴克（Christian Buck）和简尼斯·布利安（Jannis Bulian），马西米利亚诺·西亚里亚米塔（Massimiliano Ciaramita），沃伊切奇·加耶夫斯基（Wojciech Gajewski），安德里亚·格斯蒙多（Andrea Gesmundo），尼尔·霍尔斯比（Neil Houlsby）和王玮，NIPS，2017
+  - ["Analyzing Language Learned by an Active Question Answering Agent"](https://arxiv.org/pdf/1801.07537.pdf)，克里斯蒂安·巴克（Christian Buck）和简尼斯·布利安（Jannis Bulian）以及马西米利亚诺·西亚里亚米塔（Massimiliano Ciaramita）和Wojciech Gajewski，安德烈·格斯蒙多（Andrea Gesmundo），尼尔·霍尔斯比（Neil Houlsby）和王玮（Wine），NIPS，2017年.
   - ["Learning Recurrent Span Representations for Extractive Question Answering"](https://arxiv.org/pdf/1611.01436.pdf)，Kenton Lee和Shimi Salant以及Tom Kwiatkowski和Ankur Parikh以及Dipanjan Das和Jonathan Berant，ICLR，2017年.
   -确定相同的问题
     - ["Neural Paraphrase Identification of Questions with Noisy Pretraining"](https://arxiv.org/pdf/1704.04565.pdf)，Gaurav Singh Tomar和Thyago Duque和OscarTäckström和Jakob Uszkoreit和Dipa​​njan Das，SCLeM，2017年.
@@ -261,13 +267,13 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   - [Do explanations make VQA models more predictable to a human?](https://research.fb.com/publications/do-explanations-make-vqa-models-more-predictable-to-a-human/)，Arjun Chandrasekaran，Viraj Prabhu，Deshraj Yadav，Prithvijit Chattopadhyay和Devi Parikh，EMNLP，2018年
   - [Neural Compositional Denotational Semantics for Question Answering](https://research.fb.com/publications/neural-compositional-denotational-semantics-for-question-answering/)，Nitish Gupta，Mike Lewis，EMNLP，2018年
 - 2017
-  -DrQA <a name="drqa"></a>
+  -  DrQA <a name="drqa"></a>
     - [Reading Wikipedia to Answer Open-Domain Questions](https://cs.stanford.edu/people/danqi/papers/acl2017.pdf)，Danqi Chen，Adam Fisch，Jason Weston和Antoine Bordes，ACL，2017年.
 
 ## Books
--自然语言问答系统平装本-Boris Galitsky（2003）
+-自然语言问答系统平装书-Boris Galitsky（2003）
 -问题解答的新方向-Mark T. Maybury（2004）
--第3部分.5.牛津大学计算语言学手册中的问题解答-桑达·哈拉巴久和丹·摩尔多瓦（2005）
+-第3部分.5.《牛津计算语言学手册》中的问答-桑达·哈拉巴久和丹·摩尔多瓦（2005）
 -第28章语音和语言处理中的问答-Daniel Jurafsky和James H.Martin（2017）
 
 ## Links

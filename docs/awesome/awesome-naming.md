@@ -17,6 +17,7 @@ Famously...
 这是正确命名事物时的精选列表.
 
 
+- [Theoretical Computer Science](#theoretical-computer-science) 
 
 ---
 
@@ -62,6 +63,10 @@ Famously...
 - [Carousel](https://www.nngroup.com/articles/designing-effective-carousels/) -一种动画幻灯片自动循环播放.
 - [Desktop](https://en.wikipedia.org/wiki/Desktop_metaphor) -用户办公桌的隐喻顶部，可以在其上放置诸如文档和文档文件夹之类的对象.
 - [Hamburger button](https://en.wikipedia.org/wiki/Hamburger_button)  -切换菜单的按钮.  关联的图标类似于汉堡包.
+
+## Theoretical Computer Science
+
+- [Clique problem](https://en.wikipedia.org/wiki/Clique_problem)  -在具有友好关系的人的网络中寻找共同的朋友群体的问题.  或更笼统的是，找到完整的子图.
 
 ## Other
 

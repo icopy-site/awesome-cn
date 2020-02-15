@@ -38,7 +38,7 @@
 - [ce-decorators](https://www.npmjs.com/package/ce-decorators) -用于基于装饰器提案和lit-html构建Web组件的TypeScript库.
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) -轻量级的i18n库，提供lit-html指令.
 - [haunted](https://www.npmjs.com/package/haunted) -React的Hooks API，但适用于标准Web组件和hyperHTML或lit-html.
-- [functional-web-component](https://www.npmjs.com/package/functional-web-component) -功能组件，如React，但用于Web组件.
+- [fuco](https://www.npmjs.com/package/fuco) -功能组件，如React，但用于Web组件.
 
 ### Renderers
 
