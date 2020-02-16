@@ -18,7 +18,7 @@
 
 ### Toolkits
 - [Preact CLI](https://github.com/developit/preact-cli) -在几秒钟内构建一个Preact Progressive Web App.
-- [nwb](https://github.com/insin/nwb) -使用React，Inferno或Preact进行快速开发.
+- [nwb](https://github.com/insin/nwb) -使用React，Inferno或Preact快速开发.
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired) -结合使用Preact和create-react-app而不弹出.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) -它会删除Preact CLI上的默认postcss配置，因此您可以使用postcss.config.js.
 - [Create Preact App](https://github.com/just-boris/create-preact-app) -创建没有构建配置的Preact应用.
@@ -36,14 +36,14 @@
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) -Preact的URL路由器.
-- [Preact Route Async](https://github.com/mjanssen/preact-route-async) -一个（440b gzip）路由组件，它允许异步加载页面组件.
+- [Preact Route Async](https://github.com/mjanssen/preact-route-async) -一个（440b gzip）路由组件，可以异步加载页面组件.
 - [Wouter](https://github.com/molefrog/wouter) -微型（1KB gzip）路由器，用于通过类似React Router的API进行Preact / React.
 
 ### Components
-- [Preact Material Components](https://github.com/prateekbh/preact-material-components) -“网络材料组件”的预先包装器.
-- [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) -一个（800b gzip）标头，将在滚动Preact时显示/隐藏.
+- [Preact Material Components](https://github.com/prateekbh/preact-material-components) -“网络材料组件”的预先包装.
+- [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) -（800b gzip）标头，将在滚动Preact时显示/隐藏.
 - [Preact Progress](https://github.com/lukeed/preact-progress) -用于Preact的简单轻量级（约590字节gzip）进度条组件.
-- [Preact Compat](https://git.io/preact-compat) -将任何React库与Preact *（[full example](http://git.io/preact-compat-example))*.
+- [Preact Compat](https://git.io/preact-compat) -使用任何带有Preact *（[full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) -通用渲染.
 - [Preact Markup](https://git.io/preact-markup) -将HTML和自定义元素呈现为JSX和组件.
 - [Preact Portal](https://git.io/preact-portal) -将Preact组件渲染到（a）SPACE中.
@@ -69,7 +69,7 @@
 - [Preact Side Effect](https://github.com/ooade/preact-side-effect) -创建其嵌套属性更改会映射到全局副作用的组件.
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) -预先整合 [Tiny Atom](https://github.com/qubitproducts/tiny-atom).
 - [Preact Level List](https://github.com/juliangruber/preact-level-list) -实时更新Preact的leveldb列表组件.
-- [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) -基于为Preact制作的bootstrap 3的国家/地区选择器.
+- [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) -基于为Preact制作的引导程序3的国家/地区选择器.
 - [Preact Fluid](https://github.com/ajainvivek/preact-fluid) -Preact的最小UI套件.
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) -Preact的羽毛图标.
 - [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) -当属性更改时添加CSS3动画.
@@ -81,15 +81,15 @@
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) -基于Redux的轻量级状态容器，具有单个存储且没有reducer.
-- [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建受到elm启发的preact组件.
+- [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建preact组件，受到elm的启发.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) -零学习曲线的React，Preact和Inferno的快速轻松状态管理.
-- [Preact-urql](https://github.com/JoviDeCroock/preact-urql) - 采用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
+- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 采用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -JSX断言测试_（没有DOM，就在Node中）_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) -使Preact组件可以访问产生的虚拟dom进行测试.
-- [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -模拟反应-测试-利用酶.
+- [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -预先模拟反应-测试-利用酶.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) -简单而完整的Preact DOM测试实用程序，可鼓励良好的测试实践.
 
 ### Articles
@@ -105,7 +105,7 @@
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) -用于将Hacker News建立为PWA的Preact的演示.
 - [TodoMVC](https://github.com/developit/preact-todomvc)  -TodoMVC已在Preact中完成.  小于6kb，且速度很快.
 - [Colors App](https://github.com/lukeed/colors-app)  -PWA用于复制流行调色板中的值.  支持HEX，RGB和HSL格式.
-- [Tracks](https://github.com/jordic/tracks_preact/)  -PWA一般用于跟踪事件.  Gdrive同步.
+- [Tracks](https://github.com/jordic/tracks_preact/)  -PWA一般用于跟踪事物.  Gdrive同步.
 - [Hueify](https://github.com/kvartborg/hueify) -飞利浦色相灯的简单控制器.
 - [Golazon](https://github.com/sobstel/golazon) -足球数据mnmlist方式.
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) -使用Preact和PouchDB构建的渐进式Web应用程序.

@@ -25,7 +25,7 @@
 
 ### Motor Controllers
 
-- [grblShield](https://github.com/synthetos/grblShield) -所有需要的步进电机控制硬件 [Arduino](https://www.arduino.cc)  使用grbl固件导入基于G代码的运动控制器.  （[adafruit](https://www.adafruit.com/product/1750))
+- [grblShield](https://github.com/synthetos/grblShield) -所有需要的步进电机控制硬件 [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG)  -功能更强大的基于6轴G代码的运动控制硬件.  （[adafruit](https://www.adafruit.com/product/1749))
 - [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) -与Arduino兼容的Grbl步进电机控制板，类似于 [grblShield](https://github.com/synthetos/grblShield).
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)  -带步进控制器的Raspberry Pi附加板和运行grbl的微控制器.  与Pi的串行引脚接口.
@@ -100,7 +100,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 
 - [Inkscape](https://inkscape.org) -流行的跨平台开源矢量图形编辑器.
 - [p5.js](https://p5js.org) -“ JavaScript库，使艺术家，设计师，教育者和初学者都可以访问编码”.
-- [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
+- [Paper.js](http://paperjs.org) -《矢量图形脚本的瑞士军刀》.
 - [ln](https://github.com/fogleman/ln) -用Go语言编写的基于矢量的3D渲染器.
 - [autotrace](https://github.com/autotrace/autotrace) -将位图图像转换为矢量图形.
 - [stipplegen](https://github.com/evil-mad/stipplegen)  -从位图图像创建有趣的点画.  （[blog post](https://www.evilmadscientist.com/2012/stipplegen2))
@@ -118,6 +118,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [scribbleplot](https://github.com/bleeptrack/scribbleplot) -处理中的image草图像转换.
 - [Maker.js](https://maker.js.org) -用于为CNC和激光切割机创建2D矢量绘图的库.
 - [Turtletoy](https://turtletoy.net) -具有SVG导出功能的基于浏览器的JavaScript turtle图形API.
+- [cozyvec](https://github.com/brubsby/cozyvec) -Web / Standalone终端环境，用于绘图员艺术作品和推文图.
 
 ### Vector Utilities
 
@@ -142,7 +143,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 
 博客文章，文章，教程，画廊，视频等.
 
-- [An Intro to Pen Plotters](https://www.tobiastoft.com/posts/an-intro-to-pen-plotters) -有关旧HPGL绘图仪入门的良好信息.
+- [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) -有关旧HPGL绘图仪入门的良好信息.
 - [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future) -老式笔式绘图仪的另一个介绍.
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) -编程矢量路径的一些基础知识，包括排序，联接和简化.
 - [On Generative Algorithms](https://inconvergent.net/generative) -有趣的算法的漂亮的13部分演练.
@@ -181,6 +182,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Geoffrey Bradway](https://www.chromatocosmos.com/)
 - [Yuin Chien](http://store.yuinchien.com/)
 - [Andrew Heumann](https://shop.andrewheumann.com/)
+- [brubsby](http://shop.brubsby.com/)
 
 ## Other Awesomes
 
@@ -191,4 +193,4 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Brian Boucheron](https://boucheron.org/brian) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Brian Boucheron](https://boucheron.org/brian) 已放弃此作品的所有版权以及相关或邻近的权利.

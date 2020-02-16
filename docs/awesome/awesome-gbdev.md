@@ -118,7 +118,7 @@
 - [DMG Schematics](http://gbdev.gg8.se/wiki/articles/DMG_Schematics) -硬件原理图.
 - [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) -提供有关硬件和详细结构信息的研究，以实现三个8位双向并行端口.
 - [Related custom hardware](https://github.com/Gekkio/gb-hardware) -Gekkio.
-- [ESP8266 GB Dev Board](https://github.com/applefreak/esp8266-gameboy-dev-board) -由ESP8266驱动的Game Boy配件开发开发板.
+- [ESP8266 GB Dev Board](https://github.com/applefreak/esp8266-gameboy-dev-board) - Dev board for Game Boy accessories development, powered by ESP8266.
 - [ESP8266 GB Printer](https://github.com/applefreak/esp8266-gameboy-printer) -一种模拟GB打印机并允许您使用WiFi检索图像的设备.
 - [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) -包含有关硬件，定制板以与控制台和其他相关项目交互的信息负载的页面.
 - [Game Boy hardware database](https://gbhwdb.gekkio.fi/) -各种类型的Game Boy游戏机的数据和照片.
@@ -233,7 +233,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [BGB](http://bgb.bircd.org/)  -强大的仿真器和调试器.  提供准确的硬件仿真.
 - [SameBoy](https://github.com/LIJI32/SameBoy) -精确的仿真器，具有各种强大的调试功能.
 - [Mooneye GB](https://github.com/Gekkio/mooneye-gb) -Rust中的研究项目和模拟器.
-- [mGBA](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
+- [mGBA](https://github.com/mgba-emu/mgba) -现代化的跨平台GBA模拟器，也可以运行GB / GBC游戏.
 - [Binjgb](https://github.com/binji/binjgb)  -通过大多数测试的5Kloc模拟器.  *快退*功能.  使用WebAssembly在浏览器中运行.
 - [Gambatte](https://github.com/sinamas/gambatte) -跨平台和准确的模拟器.
 - [MetroBoy](https://github.com/aappleby/MetroBoy) -整个Game Boy的可播放电路级仿真.
@@ -243,7 +243,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 ### Tools
 
-- [ZGB](https://github.com/Zal0/ZGB) - A little engine for creating games for the original Game Boy (expands gbdk, more info [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
+- [ZGB](https://github.com/Zal0/ZGB) -一个为原始Game Boy创建游戏的小引擎（扩展了gbdk，更多信息 [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
 - [DevSound](https://github.com/DevEd2/DevSound) -声音驱动程序可嵌入到自制软件中，支持脉冲宽度控制，琶音和多种波形.
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) -音乐引擎.
 - [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) -HTML5 / JS Web应用程序，它将位图图像转换为适合在基于图块的图形应用程序（特别是GB）中使用的十六进制数据.
@@ -294,6 +294,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [GameBoy programming tutorial: Hello World!](http://peterwynroberts.com/?p=10) -分步教程.
 - [DMGreport](https://github.com/lancekindle/DMGreport) -汇编中的游戏编程教程.
 - [OAM DMA tutorial](https://exez.in/gameboy-dma) -如何在装配中使用OAM DMA的示例.
+- [Game Boy Assembly Programming for the Modern Game Developer](https://github.com/ahrnbom/gbapfomgd) -有关在汇编中制作Game Boy游戏的电子书.
 
 #### Sources
 
@@ -310,13 +311,14 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [STAT interrupt timings](http://gameboy.mongenel.com/dmg/istat98.txt)
 - [Video Timing](https://github.com/jdeblese/gbcpu/wiki/Video-Timing)
 
-#### Boilerplates
+#### Boilerplates and libraries
 
 - [gb-template](https://github.com/exezin/gb-template) -具有基本功能的模板，例如游戏手柄输入，DMA传输和地图/拼贴数据加载.
 - [rgbds-template](https://github.com/nezticle/rgbds-template) -使用RGBDS的Game Boy的基本hello-world示例.
 - [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) -具有内存定义，复制例程和IBM字体tilemap的简单模板代码.
 - [bootstrap.gb](https://github.com/yenatch/bootstrap.gb) -一个示例Game Boy项目.
 - [Gameboy Boilerplate](https://github.com/junebug12851/GameboyBoilerplateProj) -Boilerplate项目，可以更快地进入游戏的实际汇编代码.
+- [GingerBread](https://github.com/ahrnbom/gingerbread)  -用于制作自己的Game Boy游戏的软件库.  它可以与书一起使用 [Game Boy Assembly Programming for the Modern Game Developer](https://github.com/ahrnbom/gbapfomgd) 它也可以作为文档.
 
 #### Syntax highlighting packages
 
@@ -370,7 +372,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [exeman](https://github.com/exezin/exeman/)
 - [Aevilia](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides](https://github.com/Kartones/gameboy) -一个简单的类似Game Boy Powerpoint的幻灯片查看器.
-- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全基于GBC支持的PokémonRed重制.
+- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全通过GBC支持对PokémonRed进行了重新制作.
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) -Fourway Breakout克隆.
 - [Galaxia](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
@@ -467,7 +469,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) -它是什么以及如何使用它制作作弊代码.
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) -绕过Nintendo徽标检查.
  -在2017年制作Game Boy游戏：“ Sheep It！”  事后[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
-- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) -每个墨盒都必须显示真实徽标，才能被认为是有效的并且可以运行，但是显然，有些公司设法利用了支票系统.
+- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) -每个墨盒都必须显示真实徽标，才能被认为是有效的并且可以运行，但是显然有些公司设法利用了支票系统.
 - [liblsdj](https://github.com/stijnfrishert/liblsdj) -用于与LSDj保存格式（.sav），歌曲文件（.lsdsng）等交互的实用程序库.
 - [lsdpatch](https://github.com/jkotlinski/lsdpatch) -用于修改LSDj ROM映像上的样本，字体和调色板的工具.
 - [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) -使用STAT中断进行有趣的视频操作的一些小实验.
@@ -477,7 +479,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [GBCartFlasher firmware](https://github.com/Tauwasser/GBCartFlasher)
 - [VerilogBoy](https://github.com/zephray/VerilogBoy/) -Game Boy兼容控制台Verilog RTL实现.
 - [GBCamcorder](https://github.com/furrtek/GBCamcorder) -使用GameBoy相机卡盒的Lo-Fi便携式录像机.
-- [GBCartRead](https://github.com/insidegadgets/GBCartRead) -从/向GameBoy弹药筒读取ROM，读取RAM或写入RAM.
+- [GBCartRead](https://github.com/insidegadgets/GBCartRead) - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
 - [GBxCart-RW](https://github.com/insidegadgets/GBxCart-RW) -一种用于读取游戏ROM，保存游戏并通过USB从PC上保存GB，GBC和GBA购物车的设备.
 - [GB Studio](https://www.gbstudio.dev/) -简单，无需知识的可视化脚本拖放游戏创建者.
 - [Dumping the Super Game Boy Boot ROM](http://www.its.caltech.edu/~costis/sgb_hack/)

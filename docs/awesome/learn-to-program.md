@@ -21,11 +21,11 @@
 **免费**互动式1小时课程，学习网络开发的基础知识\
 *（HTML，CSS，JavaScript，SQL）*
 
-#### [UpLeveled Learning Platform](https://learn.upleveled.io/)
+#### [UpLeveled Bootcamp Prep Course](https://learn.upleveled.io/)
 **免费增值**平台，用于学习Web开发的基础\
-*（HTML，CSS，JavaScript）*
+*（HTML，CSS，JavaScript，Node.js，Git，GitHub）*
 
-#### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
+#### [Treehouse](https://teamtreehouse.com/)
 **付费**平台，用于课程如何构建网站和应用程序\
 *（网页设计，前端网页开发，Rails，iOS，Android，PHP）*
 
@@ -54,7 +54,7 @@
 *（网络开发，JavaScript，AngularJS，Ruby，Rails，iOS，Haskell，计算机科学）*
 
 #### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
-**Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
+ **混合**目录，用于网络开发和编程的课程，视频和其他学习资源.  质量可能会有所不同.\
 *（HTML，CSS，JavaScript，AngularJS，Rails）*
 
 #### [Platzi](https://courses.platzi.com/)
@@ -67,7 +67,7 @@
 
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **免费**带有互动练习和测验的SQL课程\
-*（SQL，数据库概念）*
+*(SQL, database concepts)*
 
 #### [GitHub Learning Lab](https://lab.github.com/)
  **免费**自定进度的交互式项目，用于学习Git和GitHub.  由GitHub的培训团队创建和维护.\
@@ -128,7 +128,7 @@
 *（HTML，CSS，JavaScript，Java，Haskell，Python）*
 
 #### [Stanford on iTunes U](https://itunes.stanford.edu/)
-斯坦福大学的iTunes上的**免费**编程和移动开发课程，\
+斯坦福大学的iTunes上的**免费**编程和移动开发课程\
 *（编程，启动，iOS）*
 
 #### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48&sort=popular)
@@ -206,7 +206,7 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Karl Horky](https://github.com/karlhorky) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Karl Horky](https://github.com/karlhorky) 已放弃此作品的所有版权以及相关或邻近的权利.
 
 ## Contributing
 

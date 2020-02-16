@@ -60,7 +60,7 @@
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种方法最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源；  并跨多个NSO启用大数据协作.  下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019年3月12日.
-- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57) - Combines Samo Burja's Empire Theory with a form of mapping similar to that pioneered by Simon Wardley. Jan 2, 2019.
+- [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所开创的地图形式相结合.  2019年1月2日.
 - [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  -考虑用户需求和用户研究的三种方式以及Wardley地图如何帮助我们考虑在哪里进行用户研究.  2018年11月2日.
 - [What is an expert?](https://medium.com/@swardley/what-is-an-expert-886274b2c1aa) -2018年10月31日.
 - [Rebooting GDS](https://medium.com/hackernoon/rebooting-gds-96b1595096fa)  -如何通过专注于理论和支出控制来阻止组织积极损害自身.  2018年10月30日.
@@ -123,6 +123,9 @@
 
 ## Meetups
 
+-加拿大
+  -魁北克
+     -蒙特利尔.  通过伸出手 [mapcamp.slack.com](https://mapcamp.slack.com/) in the #canada channel, we don't have an official meetup group yet.
 -欧洲
   -比利时
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)

@@ -131,6 +131,7 @@
 ### Observability
 
 * [timberio/vector](https://github.com/timberio/vector) —高性能，日志，指标和事件路由器.
+* [Mnwa/gtsa](https://github.com/Mnwa/gtsa) —一种简单的解决方案，可将Gelf消息（用于Graylog的消息）代理到Sentry
 
 ### Operating systems
 
@@ -187,7 +188,7 @@
 * [yaa110/cb](https://github.com/yaa110/cb) -用于管理剪贴板的命令行界面 [![Build Status](https://api.travis-ci.org/yaa110/cb.svg?branch=master)](https://travis-ci.org/yaa110/cb)
 * [brycx/checkpwn](https://github.com/brycx/checkpwn) —一个“我曾经被拥有”（HIBP）命令行实用工具，可让您轻松检查受到破坏的帐户和密码.
 * [tversteeg/emplace](https://github.com/tversteeg/emplace) —同步多台计算机上已安装的软件包
-* [myfreeweb/freepass](https://github.com/myfreeweb/freepass) —适用于高级用户的免费密码管理器.
+* [myfreeweb/freepass](https://github.com/myfreeweb/freepass) — The free password manager for power users.
 * [raftario/licensor](https://github.com/raftario/licensor) —将许可证写入标准输出 [![GitHub Actions](https://github.com/raftario/licensor/workflows/Build/badge.svg)](https://github.com/raftario/licensor/actions?workflowID=Build)
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) —一个命令行工具，可使用灵活的模式远程连接Amazon S3文件.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) —一个命令行工具，用于收集有关您的Amazon S3存储桶的元数据.
@@ -451,7 +452,7 @@
 
 * [Martin1887/oxigen](https://github.com/Martin1887/oxigen)  —快速，并行，可扩展和适应性强的遗传算法库.  使用该库的示例仅在几秒钟内并使用不到1 MB的内存即可解决N = 255的N Queens问题.
 * [innoave/genevo](https://github.com/innoave/genevo) —以可定制和可扩展的方式执行遗传算法（GA）模拟.
-* [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) — This library allows you to write evolutionary algorithms (EA) using the Rust programming language. Written by Willi Kappler, License: MIT — Version 0.4 (2017.06.26).
+* [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs)  —该库允许您使用Rust编程语言编写进化算法（EA）.  由Willi Kappler撰写，许可证：麻省理工学院-版本0.4（2017.06.26）.
 * [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic)  — Rust中的遗传算法库.  在维护模式下.
 * [mneumann/evo-rs](https://github.com/mneumann/evo-rs)  — Rust的进化算法库.  3年无变化.
 * [yurytsoy/revonet](https://github.com/yurytsoy/revonet) -Rust实编码GA的实现，用于解决优化问题和神经网络训练.
@@ -466,7 +467,7 @@
 
 * [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine) — Rust的机器学习库 [![Build Status](https://api.travis-ci.org/AtheMathmo/rusty-machine.svg?branch=master)](https://travis-ci.org/AtheMathmo/rusty-machine)
 * [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) —用于自组织地图（SOM）的Rust库. [![Build Status](https://api.travis-ci.org/avinashshenoy97/RusticSOM.svg?branch=master)](https://travis-ci.org/avinashshenoy97/RusticSOM)
-* [autumnai/leaf](https://github.com/autumnai/leaf) —开放机器智能框架. [![Build Status](https://api.travis-ci.org/autumnai/leaf.svg?branch=master)](https://travis-ci.org/autumnai/leaf). Abandoned project. The most updated fork is [spearow/juice](https://github.com/rust-unofficial/awesome-rust/blob/master/ https://github.com/spearow/juice).
+* [autumnai/leaf](https://github.com/autumnai/leaf) —开放机器智能框架. [![Build Status](https://api.travis-ci.org/autumnai/leaf.svg?branch=master) ]（https://travis-ci.org/autumnai/leaf）.  被遗弃的项目.  最新的叉子是 [spearow/juice](https://github.com/rust-unofficial/awesome-rust/blob/master/ https://github.com/spearow/juice).
 * [tensorflow/rust](https://github.com/tensorflow/rust) — TensorFlow的Rust语言绑定. [![Build Status](https://api.travis-ci.org/tensorflow/rust.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
 * [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) — Rust的机器学习板条箱. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://circleci.com/gh/maciejkula/rustlearn)
 * [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) — PyTorch的Rust语言绑定. [![Build Status](https://api.travis-ci.org/LaurentMazare/tch-rs.svg?branch=master)](https://travis-ci.org/LaurentMazare/tch-rs)
@@ -724,7 +725,7 @@
   * [whitfin/efflux](https://github.com/whitfin/efflux) — Rust中的Easy Hadoop Streaming和MapReduce接口.
 * Apache Kafka
   * [fede1024/rust-rdkafka](https://raw.githubusercontent.com/fede1024/rust-rdkafka) [[rdkafka](https://crates.io/crates/rdkafka)] — [librdkafka](https://raw.githubusercontent.com/edenhill/librdkafka) 绑定 [<img src="https://api.travis-ci.org/fede1024/rust-rdkafka.svg?branch=master">](https://travis-ci.org/fede1024/rust-rdkafka)
-  * [gklijs/schema_registry_converter](https://raw.githubusercontent.com/gklijs/schema_registry_converter) -与 [confluent schema registry](https://www.confluent.io/confluent-schema-registry/) [<img src="https://api.travis-ci.org/gklijs/schema_registry_converter.svg?branch=master">](https://travis-ci.org/gklijs/schema_registry_converter)
+  * [gklijs/schema_registry_converter](https://raw.githubusercontent.com/gklijs/schema_registry_converter) — to integrate with [confluent schema registry](https://www.confluent.io/confluent-schema-registry/) [<img src="https://api.travis-ci.org/gklijs/schema_registry_converter.svg?branch=master">](https://travis-ci.org/gklijs/schema_registry_converter)
   * [spicavigo/kafka-rust](https://raw.githubusercontent.com/spicavigo/kafka-rust) — [<img src="https://api.travis-ci.org/spicavigo/kafka-rust.svg?branch=master">](https://travis-ci.org/spicavigo/kafka-rust)
 *投诉
   * [schickling/rust-beanstalkd](https://raw.githubusercontent.com/schickling/rust-beanstalkd) — [Beanstalkd](https://raw.githubusercontent.com/beanstalkd/beanstalkd) 绑定 [<img src="https://api.travis-ci.org/schickling/rust-beanstalkd.svg?branch=master">](https://travis-ci.org/schickling/rust-beanstalkd)
@@ -751,7 +752,7 @@
 * BSON
   * [mongodb/bson-rust](https://github.com/mongodb/bson-rust) — Rust中对BSON的编码和解码支持
 *字节交换
-  * [BurntSushi/byteorder](https://raw.githubusercontent.com/BurntSushi/byteorder) —支持大端，小端和本机字节顺序 [<img src="https://api.travis-ci.org/BurntSushi/byteorder.svg?branch=master">](https://travis-ci.org/BurntSushi/byteorder)
+  * [BurntSushi/byteorder](https://raw.githubusercontent.com/BurntSushi/byteorder) — Supports big-endian, little-endian and native byte orders [<img src="https://api.travis-ci.org/BurntSushi/byteorder.svg?branch=master">](https://travis-ci.org/BurntSushi/byteorder)
 * Cap&#39;n Proto
   * [capnproto/capnproto-rust](https://raw.githubusercontent.com/capnproto/capnproto-rust) — [<img src="https://api.travis-ci.org/capnproto/capnproto-rust.svg?branch=master">](https://travis-ci.org/capnproto/capnproto-rust)
 * CBOR
@@ -814,7 +815,7 @@
 *运作
   * [pop-os/dbus-udisks2](https://github.com/pop-os/dbus-udisks2) -&gt; UDisks2 DBus API
   * [pop-os/sys-mount](https://github.com/pop-os/sys-mount) —用于`mount` /`umount2`系统调用的高级抽象.
-  * [vitiral/path_abs](https://raw.githubusercontent.com/vitiral/path_abs) —绝对可序列化的路径类型和关联的方法. [<img src="https://api.travis-ci.org/vitiral/path_abs.svg?branch=master">](https://travis-ci.org/webdesus/fs_extr://travis-ci.org/vitiral/path_abs)
+  * [vitiral/path_abs](https://raw.githubusercontent.com/vitiral/path_abs) — Absolute serializable path types and associated methods. [<img src="https://api.travis-ci.org/vitiral/path_abs.svg?branch=master">](https://travis-ci.org/webdesus/fs_extr://travis-ci.org/vitiral/path_abs)
   * [webdesus/fs_extra](https://raw.githubusercontent.com/webdesus/fs_extra) —扩展机会标准库std :: fs和std :: io [<img src="https://api.travis-ci.org/webdesus/fs_extra.svg?branch=master">](https://travis-ci.org/webdesus/fs_extra)
 *临时文件
   * [rust-lang-deprecated/tempdir](https://raw.githubusercontent.com/rust-lang-deprecated/tempdir) —临时目录库 [<img src="https://api.travis-ci.org/rust-lang-deprecated/tempdir.svg?branch=master">](https://travis-ci.org/rust-lang-deprecated/tempdir)
@@ -914,7 +915,7 @@
   * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) —基于IUP构建的简单UI框架 [![Build Status](https://api.travis-ci.org/cybergeek94/kiss-ui.svg?branch=master)](https://travis-ci.org/cybergeek94/kiss-ui)
 * [libui](https://github.com/andlabs/libui)
   * [rust-native-ui/libui-rs](https://raw.githubusercontent.com/rust-native-ui/libui-rs) — libui绑定 [<img src="https://api.travis-ci.org/rust-native-ui/libui-rs.svg?branch=master">](https://travis-ci.org/rust-native-ui/libui-rs).
-* [Nuklear](https://github.com/vurtun/nuklear)
+* [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
   * [nuklear-rust](https://github.com/snuk182/nuklear-rust) -核的防锈
 * [Qt](https://doc.qt.io)
   * [woboq/qmetaobject-rs](https://raw.githubusercontent.com/woboq/qmetaobject-rs) —通过在编译时构建QMetaObject来集成Qml和Rust. [<img src="https://api.travis-ci.org/woboq/qmetaobject-rs.svg?branch=master">](https://travis-ci.org/woboq/qmetaobject-rs)
@@ -926,7 +927,7 @@
 * [saurvs/nfd-rs](https://github.com/saurvs/nfd-rs) — [nativefiledialog](https://github.com/mlabbe/nativefiledialog) 绑定
 * [Sciter](https://sciter.com/)
   * [sciter-sdk/rust-sciter](https://raw.githubusercontent.com/sciter-sdk/rust-sciter) — Sciter绑定 [<img src="https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true">](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
-* [hecrj/iced](https://github.com/hecrj/iced) — A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm.
+* [hecrj/iced](https://github.com/hecrj/iced)  — Rust的跨平台GUI库，专注于简单性和类型安全性.  受榆木启发.
 
 ### Image processing
 
@@ -963,7 +964,7 @@
 [Geal/rust_on_mobile](https://github.com/Geal/rust_on_mobile)
 
 *安卓
-  * [rust-windowing/android-rs-glue](https://raw.githubusercontent.com/rust-windowing/android-rs-glue) — Rust与Android之间的粘合 [<img src="https://api.travis-ci.org/rust-windowing/android-rs-glue.svg?branch=master">](https://travis-ci.org/rust-windowing/android-rs-glue)
+  * [rust-windowing/android-rs-glue](https://raw.githubusercontent.com/rust-windowing/android-rs-glue) — glue between Rust and Android [<img src="https://api.travis-ci.org/rust-windowing/android-rs-glue.svg?branch=master">](https://travis-ci.org/rust-windowing/android-rs-glue)
 * iOS
   * [TimNN/cargo-lipo](https://raw.githubusercontent.com/TimNN/cargo-lipo) — cargo lipo子命令，可自动创建一个可与您的iOS应用程序一起使用的通用库. [<img src="https://api.travis-ci.org/TimNN/cargo-lipo.svg?branch=master">](https://travis-ci.org/TimNN/cargo-lipo)
   * [vhbit/ObjCrust](https://github.com/vhbit/ObjCrust) -使用Rust创建iOS静态库
@@ -1164,7 +1165,7 @@
   * [softprops/openapi](https://github.com/softprops/openapi) —用于处理openapi规范文件的库
 *反向代理
   * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) [[sozu](https://crates.io/crates/sozu)] — HTTP反向代理. [![Build Status](https://api.travis-ci.org/sozu-proxy/sozu.svg?branch=master)](https://travis-ci.org/sozu-proxy/sozu)
-* Static Site Generators
+*静态网站生成器
   * [getzola/zola](https://github.com/getzola/zola) [[zola](https://www.getzola.org/)]-具有内置功能的自觉静态站点生成器. [![Build Status](https://api.travis-ci.com/getzola/zola.svg?branch=master)](https://travis-ci.org/getzola/zola)
   * [cobalt-org/cobalt.rs](https://raw.githubusercontent.com/cobalt-org/cobalt.rs) —用Rust编写的静态站点生成器 [<img src="https://api.travis-ci.org/cobalt-org/cobalt.rs.svg?branch=master">](https://travis-ci.org/cobalt-org/cobalt.rs)
   * [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) — Markdown文件中的静态站点生成器.
@@ -1193,7 +1194,7 @@
   * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) —通过实现几种不同类型的列表结构，深入探索Rust的内存管理规则.
   * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
   * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) —一组简单的示例，展示了使用Rust生态系统的板条箱完成常见编程任务的良好实践.
-  * [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
+  * [Rust for professionals](https://overexact.com/rust-for-professionals/) —为经验丰富的软件开发人员快速介绍Rust.
   * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e) —的视频系列 [Carol Nichols](https://github.com/carols10cents) 和 [Jake Goulding](https://github.com/shepmaster) （已付费）
   * [rust-learning](https://github.com/ctjhoa/rust-learning) -学习Rust的有用资源的集合
   * [Rustlings](https://github.com/rust-lang/rustlings) -小练习，使您习惯于阅读和编写Rust代码

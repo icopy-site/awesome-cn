@@ -46,7 +46,7 @@ Audio
 * [cl-collider](https://github.com/byulparan/cl-collider) - 一种
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统.  包括用于Common Lisp的CFFI和FFI接口.
-* [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，针对CLM）.
+* [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
 * [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在实现其中的大部分功能，但以一种更健壮，富有表现力，一致，反射性和脆弱的方式实现.  通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  -用于OpenAL音频库的绑定.  公共区域.
 * [Common Music](https://github.com/ormf/cm) -一个的存储库
@@ -159,7 +159,7 @@ Tools
 * [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  -数据结构和算法（主要是字典和序列，具有一些统计功能）的可移植集合.  [BSD] [15].
 * [listopia](https://github.com/Dimercel/listopia)  -受Haskell的Data.List启发的列表处理库.  [LLGPL] [8].
 * [hash-set](https://github.com/samebchase/hash-set/) -在CL哈希表顶部实现哈希集的便捷库[The Unlicense] [5]
-* [cl-containers](https://common-lisp.net/project/cl-containers/) -广泛的数据结构和实用程序库-队列，树，堆，双链表，集合，包，... [MIT] [200]
+* [cl-containers](https://common-lisp.net/project/cl-containers/) -广泛的数据结构和实用程序库-队列，树，堆，双链表，集，包，... [MIT] [200]
 * [cl-competitive](https://github.com/privet-kitty/cl-competitive)  -用于竞争性编程的Common Lisp算法集合.  公共领域，CCO或MIT.
 
 访问数据结构：
@@ -243,6 +243,7 @@ Graphics
 * [cl-cairo2](https://github.com/rpav/cl-cairo2)  -开罗装订.  [提升1.0] [54]
 * [cl-gd](http://weitz.de/cl-gd/)  -提供GD图形库接口的库.  [FreeBSD] [39].
 * [cl-horde3d](https://github.com/anwyn/cl-horde3d/)  -将FFI绑定到Horde3D图形库.  在Quicklisp上不可用.  [EPL 1.0] [59]
+* [cl-jpeg](https://github.com/sharplispers/cl-jpeg)  -基线JPEG编码器和解码器库.  [3子BSD] [15].
 * [cl-opengl](https://github.com/3b/cl-opengl)  -CFFI绑定到OpenGL，GLU和GLUT API.  [3子BSD] [15].
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
@@ -387,7 +388,7 @@ Iteration
   与迭代不同，它不需要代码遍历并且更容易
    延伸.  [Artistic License 2.0] [51].
 * [series](https://github.com/tokenrove/series/wiki)  -功能样式，完全没有任何运行时损失.  [MIT] [200].
-* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优势（请参见“数据结构”部分），正如同一作者所写.  在Quicklisp中，是`misc-extensions`的一部分.  公共区域.
+* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优势（请参阅“数据结构”部分），正如同一作者所写.  在Quicklisp中，是`misc-extensions`的一部分.  公共区域.
 
 
 Lambda速记
@@ -531,7 +532,7 @@ Community
 * [cl-brewer](https://github.com/can3p/cl-brewer)  -用于（命令行）常见lisp应用程序的自制程序公式生成器.  公共区域.
 * [qldeb](https://github.com/ralt/qldeb) -用于debian软件包的Quicklisp系统以及 [deb-packager](https://github.com/ralt/deb-packager) （只需通过定义s表达式创建一个debian软件包）和介绍 [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html) .  两者[MIT] [200].
 * [ql-to-deb](https://github.com/dimitri/ql-to-deb)  -从Quicklisp版本更新cl- * debian软件包.  WTFPL.
-* [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  -debhelper实用程序，使您几乎无需费力就可以将基于quicklisp的Common Lisp代码编译为.deb中的buildapp二进制文件.  [MIT] [200].
+* [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  -debhelper实用程序，使您几乎无需费力即可将基于quicklisp的Common Lisp代码编译为.deb中的buildapp二进制文件.  [MIT] [200].
 
 也可以看看 [asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)，是通用软件包管理器的插件.
 
@@ -579,7 +580,7 @@ HTTP服务器
 
 ### Hunchentoot plugins
 
-* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的调度，从url路径中提取参数，装饰器，从路由名称中生成url等.[MIT] [200].
+* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的分派，从URL路径提取参数，修饰符，从路由名称生成URL等.[MIT] [200].
 * [hunchentoot-cgi](https://github.com/slyrus/hunchentoot-cgi)  -用于从hunchentoot Web服务器执行CGI脚本的库.  [BSD] [207].
 * [hunchentoot-multi-acceptor](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/)  -使用单个端口在单个hunchentoot接受器上路由多个域（虚拟主机）.  [Apache2.0] [89].
 
@@ -1029,9 +1030,11 @@ CSV
 -------------------
 
 * [repl-utilities](https://github.com/m-n/repl-utilities) -轻松
-REPL的常见任务（打印文档，打印外部符号，
+common tasks at the REPL (print documentation, print external symbols,
  加载程序包时调用钩子，…）.  [BSD_2Clause] [17].
+* [flight-recorder](https://github.com/vseloved/flight-recorder) -强大的REPL历史记录功能.
 * [tracer](https://github.com/TeMPOraL/tracer)  -Common Lisp的跟踪分析器，其输出适合在Chrome / Chromium的Tracing Viewer中显示.  [MIT] [200].
+* [cl-flamegraph](https://github.com/40ants/cl-flamegraph)  -围绕SBCL统计分析器的包装器，可为Common Lisp程序生成FlameGraph图表.  [BSD] [15].
 
 文档建设者
 ----------------------
@@ -1161,7 +1164,7 @@ XML
 
 * [CXML](https://common-lisp.net/project/cxml/)  -XML解析器，带有一系列扩展库.  [LLGPL] [8].
  * [Plump] [71]-一个宽松的XML解析器.  [Artistic License 2.0] [51].
-* [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html) - Implementation of the XML Path Language (XPath) Version 1.0. [BSD_2Clause][17].
+* [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)  -XML路径语言（XPath）1.0版的实现.  [BSD_2Clause] [17].
 * [s-xml](http://cliki.net/S-XML)  -基本解析器.  [LLGPL] [8].
 * [xmls](http://quickdocs.org/xmls/)  -小型，简单，未经验证的XML解析器.  [3子BSD] [15].
 * [cl-feedparser](https://github.com/TBRSS/cl-feedparser)  -Common Lisp（RSS，Atom）提要解析器.  [LLGPL] [8]

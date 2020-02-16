@@ -17,7 +17,7 @@
 
 
 *虚假*文章是对特定主题的评论形式，
-受到开发者社区的广泛赞赏，因为它们的有效性和
+受到开发者社区的广泛赞赏，因为它们的有效性
  简洁.  它们是处理不熟悉领域的便捷书面形式
 通过消除神话，指出常见的陷阱，表现出矛盾和
 subtleties.
@@ -309,7 +309,7 @@ autocompletion.
 - [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) -误解
 关于缓存通常会导致错误的断言，尤其是当涉及到
 并发和竞争条件.
-
+- [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/)  -下载在浏览器标签中看到的小图标应该很简单.  事实证明，它比您想象的要复杂得多.  保持警惕，不要刮sha牛.
 
 ## Typography
 
@@ -331,7 +331,7 @@ autocompletion.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 此存储库的内容根据 [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 在法律允许的范围内， [Kevin Deldycke](https://kevin.deldycke.com)
-放弃了此作品的所有版权以及相关或邻近的权利.
+已放弃此作品的所有版权以及相关或邻近的权利.
 
 The [header image](https://raw.githubusercontent.com/kdeldycke/awesome-falsehood/master/./assets/awesome-falsehood-header.jpg) 基于修改后
 [photo taken in February 2010 by Iza Bella](https://commons.wikimedia.org/wiki/File:BLW_Truth_and_Falsehood.jpg),

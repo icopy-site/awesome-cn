@@ -13,7 +13,7 @@
 
  这是开始研究“数据科学”的捷径.  只需按照以下步骤回答以下问题：“什么是数据科学？我应该学习什么才能学习数据科学？”
 
- 首先，数据科学是当今计算机和Internet农田上最热门的主题之一.  人们从应用程序和系统中收集数据直到今天，现在是分析它们的时候了.  下一步是从数据中提出建议并创建有关未来的预测. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到** Data Science **的最大问题以及专家提供的数百个答案. 
+ 首先，数据科学是当今计算机和Internet农田上最热门的主题之一.  人们一直从应用程序和系统收集数据，直到今天，现在是分析它们的时候了.  下一步是从数据中提出建议并创建有关未来的预测. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到** Data Science **的最大问题以及专家提供的数百个答案. 
 
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/)  该库具有收集和分析数据的全部功能.  我们用 [Anaconda](https://www.continuum.io/downloads) 玩数据并创建应用程序. 
 
@@ -411,11 +411,11 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并将其给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言提供支持.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并将其给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
- * [Variance](http://variancecharts.com/) Build powerful data visualizations for the web without writing JavaScript
+ * [Variance](http://variancecharts.com/) 无需编写JavaScript，即可构建强大的Web数据可视化
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) Kite软件开发工具包（Apache许可，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.
  * [Domino Data Labs](http://www.dominodatalab.com) 运行，扩展，共享和部署模型-无需任何基础架构或设置.
  * [Apache Flink](http://flink.apache.org/) 一个高效，分布式，通用数据处理的平台.
@@ -443,10 +443,11 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持开箱即用的分类，细分和检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
 * [DVC](https://github.com/iterative/dvc)  -开源数据科学版本控制系统.  它有助于跟踪，组织和使数据科学项目可重复.  在最基本的情况下，它有助于版本控制以及共享大数据和模型文件.
 * [Lambdo](https://github.com/asavinov/lambdo) 是一种工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
-* [Feast](https://github.com/gojek/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
+* [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -用于可重现和可扩展的机器学习和深度学习的平台.
 * [LightTag](https://lighttag.io) -团队文字注释工具
 * [Trains](https://github.com/allegroai/trains) -适用于AI的自动魔术实验管理器，版本控制和DevOps
+* [Hopsworks](https://github.com/logicalclocks/hopsworks)  -具有功能存储的开源数据密集型机器学习平台.  摄取和管理在线（MySQL Cluster）和离线（Apache Hive）访问的功能，大规模培训和提供模型.
 
 ## Visualization Tools - Environments
  
