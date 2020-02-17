@@ -20,7 +20,7 @@
 
 ## Books
 
-* [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) 朱利安·蓬吉（Julien Ponge），托马斯·塞吉斯蒙特（Thomas Segismont）和朱利安·越（Julien Viet）
+* [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) 朱利安·蓬吉，托马斯·塞吉斯蒙特和朱利安·越
 * [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) 由克莱门特·埃斯科菲耶（ClémentEscoffier）
 * [Vert.x in Action](https://www.manning.com/books/vertx-in-action) 通过朱利安蓬吉
 
@@ -93,6 +93,8 @@
   * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) -用于Vert.x改造的高度可扩展适配器.
   * [openapi4j adapter for Vert.x](https://github.com/openapi4j/openapi4j/tree/master/openapi-operation-adapters/openapi-operation-vertx) -OpenAPI 3请求验证器和路由器工厂替代品.
 
+*文件服务器
+  * [Vert.x TFTP Client](https://github.com/OneManCrew/vertx-tftp-client) -Vert.x的TFTP客户端支持下载/上传文件. 
 *消息
   * [AMQP 1.0](https://raw.githubusercontent.com/vert-x3/vertx-amqp-bridge) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -使用Vert.x Producer和Consumer API与AMQP 1.0服务器进行交互.
   * [MQTT](https://raw.githubusercontent.com/vert-x3/vertx-mqtt) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -提供两个不同的组件：用于处理与客户端的所有MQTT通信和消息交换的MQTT服务器，以及用于针对MQTT代理发送和接收消息的MQTT客户端.
@@ -110,7 +112,7 @@
 
 * JavaEE
   * [JCA adaptor](https://raw.githubusercontent.com/vert-x3/vertx-jca) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -用于Vert.x事件总线的Java连接器体系结构适配器.
-  * [Weld](https://github.com/weld/weld-vertx) -将CDI编程模型带入Vert.x生态系统（将CDI观察器方法注册为Vert.x消息使用者，CDI支持的Verticles，以声明的方式定义路由等）.
+  * [Weld](https://github.com/weld/weld-vertx) -将CDI编程模型引入Vert.x生态系统（将CDI观察者方法注册为Vert.x消息使用者，CDI支持的Verticles，以声明的方式定义路由等）.
 
 *流星
   * [Meteor](https://github.com/jmusacchio/vertxbus/) -通过Vert.x事件总线的流星集成支持.
@@ -129,7 +131,7 @@
   * [Vert.x Dart SockJS](https://github.com/wem/vertx-dart-sockjs) - [Dart](https://www.dartlang.org/) 整合 [Vert.x SockJS bridge](http://vertx.io/docs/vertx-web/java/#_sockjs_event_bus_bridge) 以及使用dart：js的普通SockJS.
 
 * 推送通知
-  * [Onesignal](https://github.com/jklingsporn/vertx-push-onesignal) - Send push notifications to (mobile/web) apps from your Vert.x application with [OneSignal](https://onesignal.com/).
+  * [Onesignal](https://github.com/jklingsporn/vertx-push-onesignal) -通过以下方式从您的Vert.x应用程序向（移动/网络）应用程序发送推送通知： [OneSignal](https://onesignal.com/).
 
 * CNCF CloudEvents
   * [CloudEvents.io Java SDK](https://github.com/cloudevents/sdk-java) -发送和接收 [CloudEvents](https://cloudevents.io/) 使用 [Vert.x HTTP Transport](https://github.com/cloudevents/sdk-java/blob/master/http/vertx/README.md) 用于CloudEvents.
@@ -205,7 +207,7 @@
 * [Vert.x GraphQL Service Discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) 服务发现和查询您的Vert.x微服务.
 * [HTTP Request Multiplexer - Kalfor](https://github.com/derveloper/kalfor)  -将多个HTTP GET请求合并到一个POST中.  Facebook的替代品 [GraphQL](http://graphql.org/) 和Netflix [Falcor](http://netflix.github.io/falcor/).
 * [Resilience4j](https://github.com/resilience4j/resilience4j)  -Resilience4j是为Java8和功能编程设计的容错库.  Resilience4j提供用于断路，速率限制，隔离，自动重试，响应缓存和度量标准测量的模块.
-* [Autonomous Services](https://github.com/mikand13/autonomous-services)  -用于创建自主服务的工具包.  利用vert.x和nannoq工具的体系结构可提供基于事件的反应式体系结构，而无需用于通信或数据的集中式组件，从而在整个体系结构上提供了理论上的线性可伸缩性.
+* [Autonomous Services](https://github.com/mikand13/autonomous-services)  -用于创建自主服务的工具包.  利用vert.x和nannoq工具的体系结构提供了基于事件的反应式体系结构，而没有用于通信或数据的集中式组件，从而在整个体系结构上提供了理论上的线性可伸缩性.
 * [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) -ServiceComb Java Chassis是一个软件开发套件（SDK），用于在Java中快速开发微服务，提供服务注册，服务发现，动态路由和服务管理功能.
 
 ## Search Engines
@@ -294,7 +296,7 @@
 * [Vert.x JOLT](https://github.com/lusoalex/vertx-jolt)  -基于原始bazaarvoice JOLT项目的JSON到JSON转换工具.  有助于将不同的json结构转换为预期的json格式.
 * [Vert.x Dependent Verticle Deployer](https://github.com/juanavelez/vertx-dependent-verticle-deployer) -Vert.x Verticle，用于部署顶点及其从属顶点.
 * [Vert.x Dataloader](https://github.com/engagingspaces/vertx-dataloader)  -适用于Vert.x的Facebook Dataloader的Java端口.  数据层的高效批处理和缓存.
-* [Vert.x Util](https://github.com/juanavelez/vertx-util) -Vert.x实用程序方法的集合.
+* [Vert.x Util](https://github.com/juanavelez/vertx-util) - A collection of Vert.x utility methods.
 * [Vert.x Web Accesslog](https://github.com/romanpierson/vertx-web-accesslog) -只需在Vert.x Web中使用一个简单的处理程序即可生成访问日志.
 * [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) -路由处理程序和Vert.x兼容的接口，用于处理Vert.x和Vert.x Web中的GraphQL查询.
 * [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) -Nannoq-Tools是用于利用Vert.x构建健壮，可扩展和分布式应用程序的工具包，其中包括用于身份验证，集群管理，Firebase Cloud Messaging，DynamoDB，完全通用查询，REST等的模块.

@@ -60,7 +60,7 @@ _可在libGDX代码中使用以增强框架功能的资源._
 - [gdx-dialogs](https://github.com/TomGrill/gdx-dialogs) -为本地对话框提供跨平台支持.
 - [gdx-skins](https://github.com/czyzby/gdx-skins) -免费的Scene2D GUI外观.
 - [InGameConsole](https://github.com/StrongJoshua/libGDX-inGameConsole) -允许开发人员在其游戏中添加控制台（类似于源游戏中的功能）.
-- [msdf-gdx](https://github.com/maltaisn/msdf-gdx) -提供轻量级实用程序以在libGDX上绘制高质量的MSDF（多通道有符号距离字段）文本.
+- [msdf-gdx](https://github.com/maltaisn/msdf-gdx) - Provides lightweight utilities to draw high-quality MSDF (multi-channel signed distance field) text on libGDX.
 - [PieMenu](https://github.com/payne911/PieMenu) -Scene2D的径向菜单非常灵活且易于自定义.
 - [Ray3K Skins](https://ray3k.wordpress.com/artwork/) -具有示例代码，自定义可绘制对象和实验功能的免费Scene2D.UI外观.
 - [Skin Composer](https://github.com/raeleus/skin-composer) -使用图形界面为libGDX scene2d.ui创建外观.
@@ -79,6 +79,7 @@ _可在libGDX代码中使用以增强框架功能的资源._
 - [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) -用于调试常见问题的Java代理，例如未放置对象以及修改了诸如Color.WHITE之类的常量. 
 - [gdx-jnigen](https://github.com/libgdx/libgdx/tree/master/extensions/gdx-jnigen) -小型库，允许C / C ++代码与Java源代码内联地编写.
 - [gdxGifRecorder](https://github.com/Anuken/GDXGifRecorder) -记录GIF并自动保存的实用程序类.
+- [KTX](https://github.com/libktx/ktx) -libGDX的Kotlin扩展和实用程序.
 - [noise4j](https://github.com/czyzby/noise4j) -基于各种过程内容生成教程的简单地图生成器.
 - [Texture Packer GUI](https://github.com/crashinvaders/gdx-texture-packer-gui) -为libGDX游戏框架打包和管理纹理图集的简单方法.
 
@@ -93,7 +94,7 @@ _针对新手和经验丰富的开发人员的教程.
 - [Tann's Hello libGDX](http://tann.space/HelloLibgdx/) -对于初学者的优秀指南，介绍如何从头开始创建游戏.
 - [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) -有关创建初始屏幕以在游戏窗口加载之前显示的视频教程.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) -有关使用libGDX制作游戏启动器的视频教程.
-- [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) - A tutorial on deploying libGDX games with JPackage via Gradle commands.
+- [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) -有关通过Gradle命令使用JPackage部署libGDX游戏的教程.
 - [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) -有关使用JSON存储数据的常规教程.
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) -通过示例讨论不同进度条设计技术的利弊.
 - [libGDX External Tutorials](https://github.com/libgdx/libgdx/wiki/External-tutorials) -官方非官方教程的大清单.

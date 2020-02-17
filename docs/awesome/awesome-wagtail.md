@@ -24,7 +24,7 @@
 
 - [Puput](https://puput.readthedocs.org/)  -Puput是一个功能强大且简单的Django应用程序，用于管理博客.  它使用了很棒的Wagtail CMS作为内容管理系统.
 - [wagtail_blog](https://github.com/thelabnyc/wagtail_blog) -在Wagtail中实现的类似WordPress的博客应用程序.
-- [wagtailnews](https://github.com/takeflight/wagtailnews) -Wagtail插件，提供新闻/博客功能.
+- [wagtailnews](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
 - [wagtail-blog-app](https://github.com/Tivix/wagtail-blog-app) -Wagtail Django CMS的博客应用程序.
 - [Django Wagtail Feeds](https://github.com/chrisdev/django-wagtail-feeds) -将对RSS Feed，Facebook Instant Articles和Apple News Publisher的支持添加到Wagtail CMS项目中.
 - [CodeRed CMS](https://github.com/coderedc要么p/coderedcms)  -用于构建营销网站的专业支持的W要么dPress替代方案.  开箱即用地创建wagtail管理员中的页面，博客，表单和每个Bootstrap 4组件！ [Learn m要么e](https://www.coderedc要么p.com/cms/) 要么 [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s).
@@ -153,13 +153,14 @@
 - [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) -使用Zurb Foundation 6的Wagtail CMS的Cookiecutter模板.
 - [Beginner Wagtail Cookiecutter](https://github.com/heymonkeyriot/beginner-wagtail) – Wagtail CMS的超级简单实现.
 - [Wagtail Starter Kit](https://github.com/tkjone/starterkit-wagtail) –包括w，django布局，无业游民，预配书稿，前端构建系统等的切碎机！
-- [Wagtail Pipit](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit是Wagtail样板，旨在通过React渲染的前端提供简单现代的开发人员工作流程.
+- [Wagtail Pipit](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+- [Django Cookiecutter Wagtail](https://github.com/Jean-Zombie/cookiecutter-django-wagtail)  –带有Wagtail的Django Cookiecutter模板.  基于原始的“ Django Cookiecutter”.  功能：Docker支持使用docker-compose进行开发和生产（使用Traefik和LetsEncrypt支持），可定制的PostgreSQL版本，Bootstrap 4，使用Amazon S3或Google Cloud Storage的媒体存储等等.
 
 ## Resources
 
 ### Getting started
 
-- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/) - Having used Drupal almost exclusively as my main tool of choice for a while now, I was asked to put together a build using Wagtail. By [@kiwimind](https://twitter.com/kiwimind).
+- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/)  -一段时间以来，几乎完全只使用Drupal作为我选择的主要工具，所以有人要求我使用Wagtail组合构建.  通过 [@kiwimind](https://twitter.com/kiwimind).
 - [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)  -Wagtail是Django生态系统中相对较新的CMS.  但是，他的年纪并不妨碍他具有我们将在本文中发现的许多功能.
 - [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) -与Wagtail和周围的社区广泛合作，我们发现开发人员在开始使用Wagtail时遇到了一系列常见的陷阱.
 
@@ -220,7 +221,7 @@
 - [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 汤姆·戴森（Tom Dyson）撰写.
 - [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由莱西·威廉姆斯·亨舍尔.
 - [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) 由Ryan Sullivan撰写.
-- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）
+- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由丽莎·亚当斯（Lisa Adams）和科迪·罗伊夫（Codie Roelf）创作.
 - [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) 哈里斯·拉皮罗夫（Harris Lapiroff）撰写.
 - [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) 由Zarina Mustapha提供.
 - [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) 由Ryan Verner撰写.
@@ -246,7 +247,7 @@
 - [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) 由Daniele Procida.
 - [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) 作者：亚瑟·拜尔（Arthur Bayr）.
 - [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) 由Brian Smith和Eric Sherman撰写. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).
-- [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) by Timothy Allen.
+- [Saving Lives With Wagtail: Recovery Meetings Across the World – Wagtail Space US 2019](https://www.youtube.com/watch?v=QlLWvNT5Wrk&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=2) 蒂莫西·艾伦（Timothy Allen）着.
 - [Why we chose Wagtail for CodeRed CMS – Wagtail Space US 2019](https://www.youtube.com/watch?v=1JUOAAmLQFA&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=3) 文斯·萨尔维诺（Vince Salvino）着.
 - [Building a Wagtail-based site and authoring environment with accessibility in mind – Wagtail Space US 2019](https://www.youtube.com/watch?v=CxjlAI6R7iY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=4) 由Zarina Mustapha提供.
 - [Making Wagtail Accessible – Wagtail Space US 2019](https://www.youtube.com/watch?v=tdB1I_gSCeY&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=5) 由Thibaud Colas撰写. [Slides](https://docs.google.com/presentation/d/15y8XIe7SL-RYEO9tEE8n9chx80_X4j4PbczGGM-cEGE/edit).
@@ -329,4 +330,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Springload](https://www.springload.co.nz/) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Springload](https://www.springload.co.nz/) 已放弃此作品的所有版权以及相关或邻近的权利.

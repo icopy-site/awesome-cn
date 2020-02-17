@@ -28,7 +28,7 @@
 * [go-sox](https://github.com/krig/go-sox) -go的libsox绑定.
 * [go_mediainfo](https://github.com/zhulik/go_mediainfo) -go的libmediainfo绑定.
 * [gosamplerate](https://github.com/dh1tw/gosamplerate) -libsamplerate绑定.
-* [id3v2](https://github.com/bogem/id3v2) -用于Go的快速，稳定的ID3解析和编写库.
+* [id3v2](https://github.com/bogem/id3v2) - Fast and stable ID3 parsing and writing library for Go.
 * [malgo](https://github.com/gen2brain/malgo) -迷你音频库.
 * [minimp3](https://github.com/tosone/minimp3) -轻巧的MP3解码器库.
 * [mix](https://github.com/go-mix/mix) -用于音乐应用程序的基于序列的Go-native音频混合器.
@@ -125,7 +125,7 @@
 * [flagvar](https://github.com/sgreben/flagvar) -Go的标准`flag`包的标志参数类型的集合.
 * [go-arg](https://github.com/alexflint/go-arg) -Go中基于结构的参数解析.
 * [go-commander](https://github.com/yitsushi/go-commander) -转到库以简化CLI工作流程.
-* [go-flags](https://github.com/jessevdk/go-flags) -转到命令行选项解析器.
+* [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser.
 * [go-getoptions](https://github.com/DavidGamba/go-getoptions) -Go选项解析器启发了Perl的GetOpt :: Long的灵活性.
 * [gocmd](https://github.com/devfacet/gocmd) -用于构建命令行应用程序的库.
 * [hiboot cli](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) -具有自动配置和依赖项注入的cli应用程序框架.
@@ -415,7 +415,7 @@
     * [pgx](https://github.com/jackc/pgx) -PostgreSQL驱动程序支持的功能超出了数据库/ sql所公开的功能.
     * [pq](https://github.com/lib/pq) -用于数据库/ sql的Pure Go Postgres驱动程序.
 
-* NoSQL Databases
+* NoSQL数据库
     * [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) -Go语言的Aerospike客户.
     * [arangolite](https://github.com/solher/arangolite) -用于ArangoDB的轻型golang驱动程序.
     * [asc](https://github.com/viant/asc) -用于Aerospike的数据存储连接.
@@ -467,7 +467,7 @@
 * [date](https://github.com/rickb777/date) -扩展时间，用于处理日期，日期范围，时间跨度，期间和一天中的时间.
 * [dateparse](https://github.com/araddon/dateparse) -在不知道格式的情况下解析日期.
 * [durafmt](https://github.com/hako/durafmt) -Go的持续时间格式库.
-* [feiertage](https://github.com/wlbr/feiertage)  -一组计算德国公共假期的功能，包括  德国（Bundesländer）州的专业.  复活节，五旬节，感恩节等
+* [feiertage](https://github.com/wlbr/feiertage) - Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
 * [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) -Go（golang）中的波斯（Solar Hijri）日历的实现.
 * [go-str2duration](https://github.com/xhit/go-str2duration)  -将字符串转换为持续时间.  支持时间.持续时间返回了字符串等.
 * [go-sunrise](https://github.com/nathan-osman/go-sunrise) -计算给定位置的日出和日落时间.
@@ -500,7 +500,7 @@
 * [gleam](https://github.com/chrislusf/gleam) -用Go和Luajit编写的快速，可扩展的分布式地图/缩减系统，结合了Go的高并发性和Luajit的高性能，可独立运行或分布式.
 * [glow](https://github.com/chrislusf/glow) -易于使用的可扩展的分布式大数据处理，Map-Reduce，DAG执行，全部在纯Go中进行.
 * [go-health](https://github.com/InVisionApp/go-health) -用于在服务中启用异步依赖项运行状况检查的库.
-* [go-jump](https://github.com/dgryski/go-jump) - Port of Google's "Jump" Consistent Hash function.
+* [go-jump](https://github.com/dgryski/go-jump) -Google的“跳转”一致性哈希函数端口.
 * [go-kit](https://github.com/go-kit/kit) -支持服务发现，负载平衡，可插拔传输，请求跟踪等的微服务工具包
 * [go-pdu](https://github.com/pdupub/go-pdu) -分散的基于身份的社交网络.
 * [go-sundheit](https://github.com/AppsFlyer/go-sundheit) -建立用于为定义golang服务的异步服务运行状况检查提供支持的库.
@@ -775,7 +775,7 @@
 * [qt](https://github.com/therecipe/qt) -Go的Qt绑定（支持Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi）.
 * [ui](https://github.com/andlabs/ui)  -用于Go的平台本地GUI库.  跨平台.
 * [Wails](https://wails.app) -使用内置OS HTML渲染器的HTML UI的Mac，Windows，Linux桌面应用程序.
-* [walk](https://github.com/lxn/walk) -Windows应用程序库工具包.
+* [walk](https://github.com/lxn/walk) - Windows application library kit for Go.
 * [webview](https://github.com/zserge/webview) -具有简单双向JavaScript绑定的跨平台Webview窗口（Windows / macOS / Linux）.
 
 *Interaction*
@@ -1192,7 +1192,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [gosocsvr](https://github.com/rakeki/gosocsvr) -套接字服务器变得简单.
 * [gotcp](https://github.com/gansidui/gotcp) -Go软件包，用于快速编写tcp应用程序.
 * [grab](https://github.com/cavaliercoder/grab) -用于管理文件下载的软件包.
-* [graval](https://github.com/koofr/graval) - Experimental FTP server framework.
+* [graval](https://github.com/koofr/graval) -实验性FTP服务器框架.
 * [HTTPLab](https://github.com/gchaincl/httplab) -HTTPLabs可让您检查HTTP请求并伪造响应.
 * [httpproxy](https://github.com/wzshiming/httpproxy) -HTTP代理处理程序和拨号程序.
 * [iplib](https://github.com/c-robinson/iplib) -受python启发的用于处理IP地址（net.IP，net.IPNet）的库 [ipaddress](https://docs.python.org/3/library/ipaddress.html) 和红宝石 [ipaddr](https://ruby-doc.org/stdlib-2.5.1/libdoc/ipaddr/rdoc/IPAddr.html)
@@ -1216,7 +1216,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [sslb](https://github.com/eduardonunesp/sslb) -这是一个超级简单的负载均衡器，只是一个实现某种性能的小项目.
 * [stun](https://github.com/go-rtc/stun) -实施RFC 5389 STUN协议.
 * [tcp_server](https://github.com/firstrow/tcp_server) -更快地构建tcp服务器的库.
-* [tspool](https://github.com/two/tspool) - A TCP Library use worker pool to improve performance and protect your server.
+* [tspool](https://github.com/two/tspool) -TCP库使用工作程序池来提高性能并保护您的服务器.
 * [utp](https://github.com/anacrolix/utp) -实施uTP微传输协议.
 * [water](https://github.com/songgao/water) -简单的TUN / TAP库.
 * [webrtc](https://github.com/pions/webrtc) -WebRTC API的纯Go实现.
@@ -1263,7 +1263,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Marlow](https://github.com/dadleyy/marlow) -从项目结构生成的ORM，以确保编译时的安全性.
 * [pop/soda](https://github.com/gobuffalo/pop) -MySQL，PostgreSQL和SQLite的数据库迁移，创建，ORM等.
 * [QBS](https://github.com/coocood/qbs)  -代表按结构查询.  Go ORM.
-* [reform](https://github.com/go-reform/reform) - Better ORM for Go, based on non-empty interfaces and code generation.
+* [reform](https://github.com/go-reform/reform) -基于非空接口和代码生成的更好的ORM for Go.
 * [rel](https://github.com/Fs02/rel) -用于干净（洋葱）架构的Golang SQL存储库层.
 * [SQLBoiler](https://github.com/volatiletech/sqlboiler)  -ORM生成器.  生成针对您的数据库模式量身定制的功能强大且快速的ORM.
 * [upper.io/db](https://github.com/upper/db) -用于通过使用包装成熟的数据库驱动程序的适配器与不同数据源进行交互的单一接口.
@@ -1457,7 +1457,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [liquid](https://github.com/osteele/liquid) -实施Shopify Liquid模板.
 * [maroto](https://github.com/johnfercher/maroto)  -创建PDF的一种maroto方法.  Maroto受Bootstrap启发，并使用gofpdf.  快速简单.
 * [mustache](https://github.com/hoisie/mustache) -实施Mustache模板语言.
-* [pongo2](https://github.com/flosch/pongo2) - Django-like template-engine for Go.
+* [pongo2](https://github.com/flosch/pongo2) -Go的类似Django的模板引擎.
 * [quicktemplate](https://github.com/valyala/quicktemplate)  -快速，强大但易于使用的模板引擎.  将模板转换为Go代码，然后进行编译.
 * [raymond](https://github.com/aymerick/raymond) -在Go中完整的车把实现.
 * [Razor](https://github.com/sipin/gorazor) - 为Golang Razor视图引擎.
@@ -1586,6 +1586,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [inject](https://github.com/facebookgo/inject) -包装注入提供基于反射的注入器.
     * [ltsv](https://github.com/Wing924/ltsv) -高性能 [LTSV (Labeled Tab Separeted Value)](http://ltsv.org/) Go的阅读器.
     * [mxj](https://github.com/clbanning/mxj)  -将XML编码/解码为JSON或map [string] interface {}；  使用点符号路径和通配符提取值.  替换x2j和j2x软件包.
+    * [podcast](https://github.com/eduncan911/podcast) -Golang中的iTunes兼容和RSS 2.0播客生成器
     * [sdp](https://github.com/gortc/sdp) -SDP：会话描述协议 [[RFC 4566](https://tools.ietf.org/html/rfc4566)].
     * [sh](https://github.com/mvdan/sh) -Shell解析器和格式化程序.
     * [slug](https://github.com/gosimple/slug) -支持URL的Slugify支持多种语言.
@@ -1660,7 +1661,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [lastpass-go](https://github.com/ansd/lastpass-go) -转到客户端库 [LastPass](https://www.lastpass.com/) API.
 * [libgoffi](https://github.com/clevabit/libgoffi) -本机库适配器工具箱 [libffi](http://sourceware.org/libffi/) 积分
 * [Medium](https://github.com/Medium/medium-sdk-go) -  Golang SDK为中等的OAuth2的API.
-* [megos](https://github.com/andygrunwald/megos) -用于访问 [Apache Mesos](http://mesos.apache.org/) 簇.
+* [megos](https://github.com/andygrunwald/megos) - Client library for accessing an [Apache Mesos](http://mesos.apache.org/) 簇.
 * [minio-go](https://github.com/minio/minio-go) -用于Amazon S3兼容云存储的Minio Go库.
 * [mixpanel](https://github.com/dukex/mixpanel) -Mixpanel是一个用于跟踪事件并从go应用程序向Mixpanel发送Mixpanel配置文件更新的库.
 * [patreon-go](https://github.com/mxpv/patreon-go) -用于Patreon API的库.
@@ -1693,7 +1694,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 *使您的生活更轻松的通用工具和工具.*
 
 * [apm](https://github.com/topfreegames/apm) -具有HTTP API的Golang应用程序的进程管理器.
-* [backscanner](https://github.com/icza/backscanner) -类似于bufio.Scanner的扫描仪，但是它以相反的顺序读取和返回行，从给定位置开始并向后移动.
+* [backscanner](https://github.com/icza/backscanner) - A scanner similar to bufio.Scanner, but it reads and returns lines in reverse order, starting at a given position and going backward.
 * [beyond](https://github.com/wesovilabs/beyond) -Go工具将带您进入AOP世界！
 * [blank](https://github.com/Henry-Sarabia/blank) -验证或删除字符串中的空格和空格.
 * [boilr](https://github.com/tmrts/boilr) -快速，快速的CLI工具，用于从样板模板创建项目.

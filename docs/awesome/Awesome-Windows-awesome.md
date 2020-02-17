@@ -65,10 +65,10 @@
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)  -允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能.  ！[免费软件] [免费软件图标]
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000一样.[！[开源软件] [OSS图标]]（https://github.com/passionate-coder/Classic-Start）！[免费] [免费软件]
 - [Clover](http://en.ejie.me/)  -将多标签功能添加到Windows资源管理器.  ！[免费软件] [免费软件图标]
-- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  -通过系统托盘进行每个应用程序的音量控制.  [！[开源软件] [OSS图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  -通过系统托盘进行每个应用程序的音量控制.  [！[开源软件] [OSS图标]]（https://github.com/File-New-Project/EarTrumpet）！[免费软件] [免费软件图标]
 - [QTTabBar](http://qttabbar.wikidot.com/)  -通过标签和额外的文件夹视图扩展资源管理器.  ！[免费软件] [免费软件图标]
 - [Rainmeter](https://www.rainmeter.net/)  -Rainmeter使您可以在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器.  [！[开源软件] [OSS图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
-- [Search Deflector](https://github.com/spikespaz/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  [！[开源软件] [OSS图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
+- [Search Deflector](https://github.com/spikespaz/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  [！[开源软件] [OSS图标]]（https://github.com/spikespaz/search-deflector）！[免费软件] [免费软件图标]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)  -使Windows任务栏透明.  [！[开源软件] [OSS图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)  -可让您更改Windows 10登录屏幕的背景.  [！[开源软件] [OSS图标]]（https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer）！[免费软件] [免费软件图标]
 - [ZBar](http://www.zhornsoftware.co.uk/zbar/) -如果使用多个监视器，则可以在每个监视器上显示单独的任务栏.
@@ -78,7 +78,7 @@
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) -全面而专业的硬盘恢复软件，可以恢复您的照片，视频，文档.
 - [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) -具有过滤工具，可帮助对软件可以恢复的大量数据进行分类.
 - [PartitionGuru｜Eassos Recovery](http://www.eassos.com/)  -通过分区恢复进行数据恢复.  ！[免费软件] [免费软件图标]
-- [Recuva](https://www.piriform.com/recuva) -快速，轻松地恢复已删除的文件.
+- [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) -远程恢复选项，可通过网络从另一台计算机恢复数据.
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -功能强大的免费数据恢复软件，主要用于帮助恢复丢失的分区和/或使非启动磁盘再次可启动.
 
@@ -95,7 +95,7 @@
 - [GitHub Desktop](https://desktop.github.com/)  -GitHub Desktop是一个基于Electron的开源GitHub应用.  [！[开源软件] [OSS图标]]（https://github.com/desktop/desktop）！[免费软件] [免费软件图标]
 - [GitKraken](https://www.gitkraken.com/)  -一个漂亮的，跨平台的Git客户端.  ！[免费软件] [免费软件图标]
 - [HeidiSQL](http://www.heidisql.com/) -适用于MySQL，MariaDB，Microsoft SQL Server和PostgreSQL的强大易用的客户端.
-- [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][OSS Icon]](https://github.com/httptoolkit) ![Freeware][Freeware Icon]
+- [HTTP Toolkit](https://httptoolkit.tech)  -HTTP调试和模拟工具.  [！[开源软件] [OSS图标]]（https://github.com/httptoolkit）！[免费软件] [免费软件图标]
 - [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) -一个基于WinForms的功能丰富的HTTP客户端[！[开源软件] [OSS图标]]（https://github.com/swensensoftware/im-only-resting）！[免费软件] [免费软件图标]
 - [Insomnia](http://insomnia.rest)  -具有漂亮界面的现代REST客户端.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 - [Keylord](https://protonail.com/products/keylord) 用于Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端.
@@ -115,7 +115,7 @@
 - [Robo 3T](https://robomongo.org/) -适用于MongoDB爱好者的轻量级GUI.
 - [SourceTree](https://www.sourcetreeapp.com/) -免费的Git和Mercurial客户.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) -MySQL数据库管理器.
-- [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
+- [SSLyog](https://www.webyog.com/) -强大的MySQL管理工具
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) -用于浏览日志的小型快速工具[！[开源软件] [OSS图标]]（https://github.com/RolandPheasant/TailBlazer）！[免费软件] [免费软件图标]
 - [TortoiseGit](https://tortoisegit.org/)  -具有完整Shell集成的Git客户端.  [！[开源软件] [OSS图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
 - [Tower](https://www.git-tower.com/windows) -塔-Mac和Windows上最强大的Git客户端.
@@ -161,15 +161,15 @@
 - [0 A.D.](https://play0ad.com/)  -古代战争的免费开放源实时战略游戏.  [！[开源软件] [OSS图标]]（https://github.com/0ad/0ad）！[免费软件] [免费软件图标]
 - [Awesome Games](https://github.com/leereilly/games)  -Github上托管的游戏列表.  ！[免费软件] [免费软件图标]
 - [Freeciv](http://www.freeciv.org/)  -受人类文明历史启发的免费开源帝国建设策略游戏.  [！[开源软件] [OSS图标]]（https://github.com/freeciv/）！[免费软件] [免费软件图标]
-- [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][OSS Icon]](https://github.com/godotengine/godot) ![Freeware][Freeware Icon]
+- [Godot Engine](https://godotengine.org/)  -免费和开源的游戏引擎.  易于入门，对中级用户非常灵活.  [！[开源软件] [OSS图标]]（https://github.com/godotengine/godot）！[免费软件] [免费软件图标]
 - [GOG](https://www.gog.com/) -无DRM的游戏商店，既有很多旧游戏，又有很多新游戏.
 - [Itch.io](https://itch.io/app/)  -安装，更新和玩独立游戏.  [！[开源软件] [OSS图标]]（https://github.com/itchio/itch）！[免费软件] [免费软件图标]
-- [LuaStudio](http://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
+- [LuaStudio](http://scormpool.com/luastudio)  -免费游戏开发工具/引擎.  使用Lua / LuaJIT编程语言在Windows上创建游戏和其他图形应用程序.  将它们导出到许多平台，包括iOS，Android和Mac.
 - [Origin](https://www.origin.com/en-in/store/) -与Steam类似，但适用于EA.
 - [Steam](http://store.steampowered.com/)  -最大的在线视频游戏零售商.  桌面应用程序可让您整理游戏库并随时播放.  但是你已经知道了.
 - [Unity](https://unity3d.com/)  -免费游戏引擎.  易于使用，并带有许多教程.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)  -另一个免费游戏引擎.  大量的文档资料而且更容易获取，但是当您从基于UE的游戏中赚钱时，您需要向Unreal支付5％的版税.
-- [Warsow](https://www.warsow.net/)  -适用于Windows的免费和快节奏的FPS游戏.  ！[免费软件] [免费软件图标]
+- [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
 
 ### Graphics
 
@@ -198,8 +198,8 @@
 - [Android Studio](https://developer.android.com/studio/index.html)  -基于IntelliJ平台的Android官方IDE.  [！[开源软件] [OSS图标]]（https://sites.google.com/a/android.com/tools/）！[免费软件] [免费软件图标]
 - [CLion](https://www.jetbrains.com/clion/) -使用Cmake作为构建系统的C / C ++智能跨平台IDE.
 - [Eclipse](https://eclipse.org/downloads/)  -强大的IDE.  [！[开源软件] [OSS图标]]（https://git.eclipse.org/c/）！[免费软件] [免费软件图标]
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE with free community edition. [![Open-Source Software][OSS Icon]](https://github.com/JetBrains/intellij-community) ![Freeware][Freeware Icon]
-- [NetBeans IDE](https://netbeans.org/)  -一个免费的开源IDE.  [！[开源软件] [OSS图标]]（https://netbeans.org/community/sources/）！[免费软件] [免费软件图标]
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)  -具有免费社区版的现代Java IDE.  [！[开源软件] [OSS图标]]（https://github.com/JetBrains/intellij-community）！[免费软件] [免费软件图标]
+- [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) -具有主要框架支持的闪电智能PHP IDE.
 - [PyCharm](https://www.jetbrains.com/pycharm)  -具有免费社区版的专业开发人员的Python IDE.  [！[开源软件] [OSS图标]]（https://github.com/JetBrains/intellij-community/tree/master/python）！[免费软件] [免费软件图标]
 - [Rider](https://www.jetbrains.com/rider/) -跨平台的.NET / Mono IDE.
@@ -212,7 +212,7 @@
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) -能够同步超过100,000个文件，并支持文件名中的特殊字符和长度超过256个字符的文件路径.
 - [Dropbox](https://www.dropbox.com/install) -简单，优雅，通用的（PC，Mac，Android ...）云存储解决方案.
 - [Google Drive](https://www.google.com/drive/download/) -深度集成在Google生态系统中的云存储解决方案.
-- [pCloud](https://www.pcloud.com)  -基于瑞士的隐私优先的云提供商.  还提供一次性付款终身计划.
+- [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
 - [Sync](https://www.sync.com/) -将所有文件存储在加拿大数据中心中的加密文件存储
 - [Mega](https://mega.nz/) -加密的文件存储.
 - [Mozy](https://mozy.com/product/download)
@@ -227,6 +227,7 @@
 
 ### Productivity
 
+* [Aperture Control](https://github.com/Lieturd/aperture-control) -Windows环境自动化工具，具有许多 [premade recipes](https://github.com/Lieturd/aperture-control-recipes) 和 [examples](https://github.com/Lieturd/aperture-control-example)  可用.  [！[开源软件] [OSS图标]]（https://github.com/Lieturd/aperture-control）！[免费软件] [免费软件图标]
 - [AutoHotkey](https://autohotkey.com/)  -Windows的终极自动化脚本语言.  [！[开源软件] [OSS图标]]（https://autohotkey.com/）！[免费软件] [免费软件图标]
 - [Chocolatey](https://chocolatey.org/) -Windows的软件包管理器.
 - [Cold Turkey](https://getcoldturkey.com)  -唯一分散注意力的网站阻止者.  （即使启用了阻止功能，您也无法卸载它）.
@@ -237,6 +238,7 @@
 - [Everything](http://www.voidtools.com/) -按名称最快的文件/文件夹搜索工具.
 - [Executor.dk](http://executor.dk/)  -免费的多用途可定制且轻便的发射器.  ！[免费软件] [免费软件图标]
 - [f.lux](http://stereopsis.com/flux/)  -自动调整计算机屏幕以匹配照明.  ！[免费软件] [免费软件图标]
+- [File Juggler](https://www.filejuggler.com/)  -自动整理文件.  监视文件夹并执行诸如重命名，删除，解压缩等操作.  查找PDF中的日期等.
 - [Inkdrop](https://www.inkdrop.info/) -Markdown爱好者的笔记应用程序.
 - [KatMouse](http://www.ehiti.de/katmouse/) -在Windows中启用“通用滚动”的实用程序：滚动不需要先激活/单击窗口（即，它在macOS和Linux中的工作方式）！[免费软件] [免费软件图标]
 - [Keypirinha](http://keypirinha.com/)  -Windows键盘忍者的快速启动器.  您可以将Keypirinha视为* Launchy *的替代品和* Alfred *的表亲.  ！[免费软件] [免费软件图标]
@@ -247,7 +249,7 @@
 - [One Commander](http://onecommander.com/)  -具有Miller列和双窗格视图的文件管理器.  ！[免费软件] [免费软件图标]
 - [Scoop](https://github.com/lukesampson/scoop)  -Windows的命令行安装程序.  [！[开源软件] [OSS图标]]（https://github.com/lukesampson/scoop）！[免费软件] [免费软件图标]
 - [Simplenote](https://simplenote.com/)  -具有基于云的同步功能的简单跨平台笔记应用程序.  ！[免费软件] [免费软件图标]
-- [Taskade](https://taskade.com/)  -具有实时跨平台同步和团队协作的智能任务列表.  ！[免费软件] [免费软件图标]
+- [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][Freeware Icon]
 - [Total Commander](https://www.ghisler.com/) -Windows的最佳文件管理器.
 - [WordWeb](http://wordweb.info/)  -一本非常好的Windows英文字典.  ！[免费软件] [免费软件图标]
 - [Wox](http://www.wox.one/)  -Windows的有效启动器.  [！[开源软件] [OSS图标]]（https://github.com/Wox-launcher/Wox/）！[免费软件] [免费软件图标]
@@ -269,6 +271,8 @@
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) -多标签腻子.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) -SSH和telnet客户端.
 - [Terminus](https://eugeny.github.io/terminus/)  -基于Web技术的现代，高度可配置的终端应用程序.  [！[开源软件] [OSS图标]]（https://github.com/Eugeny/terminus）！[免费软件] [免费软件图标]
+- [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701)  -Microsoft的Windows官方新终端.  [！[开源软件] [OSS图标]]（https://github.com/microsoft/terminal）！[免费软件] [免费软件图标]
+
 
 
 ### Utilities
@@ -283,6 +287,7 @@
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html)  -免费的多合一CPU监控工具.  ！[免费软件] [免费软件图标]
 - [Ext2Fsd](http://www.ext2fsd.com/)  -Windows的开源ext3 / 4文件系统驱动程序.  [！[开源软件] [OSS图标]]（https://github.com/matt-wu/Ext3Fsd）！[免费软件] [免费软件图标]
 - [Far](http://www.farmanager.com/index.php?l=en)  -文件和存档管理器.  诺顿指挥官的克隆.  [！[开源软件] [OSS图标]]（http://sourceforge.net/projects/farmanager/）
+- [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) -支持多种格式的无损文件大小优化器.
 - [Fraps](http://www.fraps.com/)-视频游戏捕获屏幕录像机，可与所有使用DirectX或OpenGL技术的游戏一起使用.
 - [FreeFileSync](http://www.freefilesync.org/) -一种用于文件和文件夹的简便备份解决方案，它支持源/目标之间的镜像/双向同步/更新.
 - [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的查询搜索文件的命令行工具.
@@ -302,13 +307,14 @@
 - [rimraf](https://www.npmjs.com/package/rimraf)  -节点的深度删除模块.  帮助删除路径很长的文件和文件夹
 - [Rufus](https://rufus.akeo.ie/) -创建可启动USB驱动器的简便方法.
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -命令行实用程序，可以安全地删除文件或清理松弛空间.
-- [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)  -此脚本将帮助您将喜爱的程序或自制脚本/文件夹添加到启动中.  [！[开源软件] [OSS图标]]（https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/）
+- [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [ShareX](https://getsharex.com/) -使用一个键，您可以选择任何区域的屏幕截图或截屏视频.  [！[开源软件] [OSS图标]]（https://github.com/ShareX/ShareX）！[免费软件] [免费软件图标]
 - [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) -Windows 10实用程序，可轻松捕获和编辑屏幕中的选定区域.
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) -图形实用程序，以相对于磁盘使用情况的块形式显示文件夹和文件.
 - [Speccy](https://www.piriform.com/speccy) -有关计算机中每个硬件的详细统计信息.
 - [SpeedCrunch](http://speedcrunch.org/)  -您将需要的最好，唯一的计算器，完全消除了不必要的UI混乱.  [！[开源软件] [OSS图标]]（https://bitbucket.org/heldercorreia/speedcrunch/）！[免费软件] [免费软件图标]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) -Mark Russinovich提供的工具套件，可访问Windows内部进行故障排除：进程，物理端口，磁盘活动等.
+-[ueli](https://ueli.app/#/) -Windows的强大按键启动器. 
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) -解锁文件Windows不允许您删除
 - [Waltr](http://softorino.com/waltr/) -将没有电影的任何电影或音乐文件传输到iPhone.
 - [WinDirStat](https://windirstat.info/) -它也是磁盘使用情况统计信息查看器和清理程序.

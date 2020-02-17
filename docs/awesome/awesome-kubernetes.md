@@ -293,7 +293,6 @@ Installers
   - [Draft](http://draft.sh) - A tool for developers to create cloud native applications with Kubernetes
   - [Eclipse Che](https://github.com/eclipse/che) -具有SSH和多用户支持的云开发工作区
   - [Garden](https://garden.io) -协调您的开发工作流程，以使开发和开发微服务更快，更轻松
-  - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) -建立，部署和管理现代无服务器工作负载的平台
   - [Okteto](https://github.com/okteto/okteto)  -在任何Kubernetes集群中直接进行开发.  无需提交，构建或推送
   - [Mantl](https://github.com/mantl/mantl) -用于快速部署全球分布式服务的现代平台
@@ -690,7 +689,7 @@ Projects
 * [illuminatio](https://github.com/inovex/illuminatio) 是用于自动测试kubernetes网络策略的工具
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
-* [KubeIP](http://github.com/doitintl/kubeip) 为GKE上的节点设置静态ip（用于将ips列入白名单）
+* [KubeIP](http://github.com/doitintl/kubeip) 为GKE上的节点设置静态ip（用于将IP列入白名单）
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Kuryr](https://github.com/openstack/kuryr-kubernetes)
 * [Linen](https://github.com/John-Lin/linen-cni)
@@ -711,7 +710,7 @@ Projects
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
-* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是直接，易于配置且非侵入式的服务网格，可对任何Kubernetes集群内部的流量进行可视化和管理.
+* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是一个直接，易于配置且非侵入式的服务网格，可查看和管理任何Kubernetes集群内部的流量.
 * [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) -建立，保护和观察您的现代服务网格.
 
 ## RPC
@@ -949,7 +948,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)

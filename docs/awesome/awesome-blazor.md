@@ -86,7 +86,8 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 ### Mobile
 * [Mobile Blazor Bindings](https://aka.ms/mobileblazorbindings) -实验性移动Blazor绑定-使用Blazor构建本机移动应用.
 ### ToDos
-* [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) - ![GitHub stars](https://img.shields.io/github/stars/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=86000) 待办事项
+* [Minimal ToDo by David Fowler](https://github.com/davidfowl/Todos/tree/davidfowl/todo-blazor/TodoBlazor) - ![stars](https://img.shields.io/github/stars/davidfowl/Todos?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/davidfowl/Todos?style=flat-square&cacheSeconds=86000) Microsoft的David Fowler最小化了ToDo后端API的实现.
+* [BlazorTasks](https://github.com/BorowskiKamil/blazor-tasks) - ![stars](https://img.shields.io/github/stars/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BorowskiKamil/blazor-tasks?style=flat-square&cacheSeconds=86000) 待办事项
 * [Bolero.TodoMVC](https://github.com/fsbolero/TodoMVC) - ![GitHub stars](https://img.shields.io/github/stars/fsbolero/TodoMVC?style=flat-square&cacheSeconds=604800) ![GitHub stars](https://img.shields.io/github/last-commit/fsbolero/TodoMVC?style=flat-square&cacheSeconds=86000) 使用Bolero的TodoMVC克隆.
 * [BlazorAdvancedTodo](https://github.com/EdCharbeneau/BlazorAdvancedTodo) -具有状态和撤消功能的Blazor待办应用程序.
 ### Others
@@ -402,7 +403,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 ## Articles
 * [Blazor WebAssembly Rest Client](https://christianfindlay.com/2020/02/14/blazor-webassembly-rest-client/) -2020年2月14日-本文着重介绍客户端渲染并说明如何使用 [RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) 调用RESTful API. [Source code](https://github.com/MelbourneDeveloper/RestClient.Net/tree/master/RestClient.Net.Samples.Blazor).
 * [Mono: From Xamarin to WebAssembly, Blazor, and .NET 5 - Q&A with Miguel de Icaza](https://www.infoq.com/articles/mono-xamarin-webassembly-net5/) -2020年2月13日-Mono：从Xamarin到WebAssembly，Blazor和.NET 5-与Miguel de Icaza进行问答.
-* [Profiling in Blazor](https://remibou.github.io/Profiling-in-Blazor/) -2020年2月12日-如何剖析生产Blazor客户端应用程序？
+* [Profiling in Blazor](https://remibou.github.io/Profiling-in-Blazor/) -2020年2月12日-如何分析生产的Blazor客户端应用程序？
 * [Microsoft Blazor Enables Native App Development in C# and .NET](https://www.semaphore-software.com/blog/microsoft-blazor-enables-native-app-development-in-c-and-net/) - February 12, 2020 - Microsoft Blazor Enables Native App Development in C# and .NET.
 * [Tinkering with client-side Blazor and the AWS SDK for .NET](https://matteo.tech.blog/2020/02/11/tinkering-with-client-side-blazor-and-the-aws-sdk-for-net/amp/) -2020年2月11日-修补客户端Blazor和适用于.NET的AWS开发工具包.
 * [Why Blazor, via WebAssembly, is the future](https://www.linkedin.com/pulse/why-blazor-via-webassembly-future-akash-limbani/) -2020年2月11日-为什么Blazor通过WebAssembly成为未来.

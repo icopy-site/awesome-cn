@@ -177,7 +177,7 @@
 * [whitfin/runiq](https://github.com/whitfin/runiq) —从未排序的输入中过滤重复行的有效方法.
 * [whitfin/bytelines](https://github.com/whitfin/bytelines) —将输入线作为字节片读取，以提高效率.
 * [xsv](https://crates.io/crates/xsv) —快速CSV命令行工具（切片，索引，选择，搜索，采样等） [<img src="https://api.travis-ci.org/BurntSushi/xsv.svg?branch=master">](https://travis-ci.org/BurntSushi/xsv)
-* [Lispre/so_stupid_search](https://github.com/Lispre/so_stupid_search) —一种简单快速的人类字符串搜索工具
+* [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) —一种简单快速的人类字符串搜索工具
 
 ### Image processing
 

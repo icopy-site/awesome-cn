@@ -8,7 +8,7 @@
 <br/>
 <div align="center">
 
-精选的令人愉快的清单 [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  如需更多精彩内容，请查看 [awesome](https://github.com/sindresorhus/awesome).
+精选的令人愉快的清单 [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  想了解更多，请查看 [awesome](https://github.com/sindresorhus/awesome).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
 </div>
@@ -26,7 +26,7 @@
 
 ## Syntax
 
-语言包使用特定语言或文件格式的语法突出显示和/或摘要来扩展编辑器.
+语言包为编辑器扩展了特定语言或文件格式的语法突出显示和/或摘要.
 
 - [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
 - [Befunge](https://marketplace.visualstudio.com/items?itemName=kagof.befunge)
@@ -108,7 +108,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) -VSC中丰富的1С：Enterprise 8（BSL）语言支持-在VSC中的* .bsl和* .os文件中添加语法高亮显示，为1Сlang添加IntelliSense和语法帮助器
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) -VSC中丰富的1С：Enterprise 8（BSL）语言支持-向VSC中的* .bslи* .os文件添加语法高亮显示，为1Сlang添加IntelliSense和语法帮助器
 
 ## Bash
 
@@ -119,6 +119,11 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 &gt;基于`bashdb`的Bash脚本的调试器扩展
 
 ![Bash Debug](https://user-images.githubusercontent.com/10897048/47375120-1a9a9b80-d722-11e8-819d-a0090540b2ba.gif)
+
+### [Shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman)
+&gt; Bash脚本片段扩展
+
+![Shellman](https://raw.githubusercontent.com/yousefvand/shellman/master/images/demo.gif)
 
 ## C++
 
@@ -136,7 +141,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com)，阅读 [official documentation](https://code.visualstudio.com/docs/languages/csharp) 详情
 - [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) -修正用法/缩进/大括号/空行的格式
-- [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) -提供对IDE的扩展，将加速您的开发工作流程.
+- [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) -提供对IDE的扩展，可加速您的开发工作流程.
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 - [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
 - [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
@@ -199,7 +204,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) -短绒棉 [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) -短绒棉 [XO](https://github.com/xojs/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) -的摘录 [AVA](https://github.com/avajs/ava).
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -Linter，Formatter和Pretty打印机 [Prettier](https://github.com/prettier/prettier-vscode).
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -适用于Linter，Formatter和Pretty打印机 [Prettier](https://github.com/prettier/prettier-vscode).
 - [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) -的摘录 [Schema.org](https://schema.org/).
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) -Visual Studio Code的拼写检查器.
 
@@ -215,7 +220,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-&gt; VS Code扩展程序，用于在Chrome浏览器或支持Chrome调试协议的其他目标中调试JavaScript代码.
+&gt; VS Code扩展名，用于在Chrome浏览器或其他支持Chrome调试协议的目标中调试JavaScript代码.
 
 ## Markdown
 
@@ -278,14 +283,14 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ### Other extensions
 
-- [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php)  -格式化PHP文件中的HTML.  在save操作之前运行，因此您仍然可以使用PHP格式化程序.
+- [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php)  -在PHP文件中格式化HTML.  在save操作之前运行，因此您仍然可以使用PHP格式化程序.
 
 ![Format HTML in PHP](https://raw.githubusercontent.com/RiFi2k/format-html-in-php/master/format-html-in-php.gif)
 
 - [Composer](https://marketplace.visualstudio.com/items?itemName=ikappas.composer)
-- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) -Visual Studio Code的XDebug扩展
+- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug) -Visual Studio代码的XDebug扩展
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
-- [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) - PHP CS Fixer extension for VS Code, php formatter, php code beautify tool
+- [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer) -VS Code，PHP格式化程序，PHP代码美化工具的PHP CS Fixer扩展
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) -用于Visual Studio代码的PHP CodeSniffer
 - [phpfmt](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt) -用于Visual Studio代码的phpfmt
 
@@ -363,7 +368,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
-&gt;能够复制文件和目录.
+> Ability to duplicate files and directories.
 
 ## [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
@@ -418,12 +423,12 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 &gt;看看 [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) 关于如何开始使用此扩展程序的设置.
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
-&gt;该扩展使用GitHub api监视您的拉取请求的状态，并在何时合并或有人请求更改时通知您.
+&gt;该扩展使用GitHub api监视您的请求请求的状态，并通知您何时该合并或有人请求更改.
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow)
- &gt;添加一个GitLab侧栏图标以查看问题，合并请求和其他GitLab资源.  您还可以查看GitLab CI / CD管道的结果，并检查`.gitlab-ci.yml`的语法.
+ &gt;添加一个GitLab侧栏图标以查看问题，合并请求和其他GitLab资源.  您也可以查看GitLab CI / CD管道的结果，并检查.gitlab-ci.yml的语法.
 
 ![GitLab Workflow](https://gitlab.com/fatihacet/gitlab-vscode-extension/raw/master/src/assets/_issues-in-vscode.png)
 
@@ -479,7 +484,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Dotnet Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 
-&gt;直接在编辑器中查看和运行.NET Core测试.
+&gt;直接在编辑器中查看并运行.NET Core测试.
 
 ![View and run your .NET Core tests directly in the editor animation](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer.gif)
 
@@ -504,7 +509,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)
 
-&gt;比较文件中，不同文件中或剪贴板中的文本选择（差异）
+&gt;比较文件中，跨不同文件或剪贴板中的文本选择（差异）
 
 ![Partial Diff](https://raw.githubusercontent.com/ryu1kn/vscode-partial-diff/master/images/public.gif)
 
@@ -516,7 +521,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
-&gt;自动完成文件名的Visual Studio Code插件
+&gt; Visual Studio Code插件，可自动完成文件名
 
 ![Autocompletion for filenames animation](https://i.giphy.com/iaHeUiDeTUZuo.gif)
 
@@ -574,7 +579,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
-&gt;自动时间跟踪器和生产率仪表板，显示您在每个项目，文件，分支和语言中编码的时间.
+&gt;自动时间跟踪器和生产力仪表板，显示您在每个项目，文件，分支和语言中编码的时间.
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
@@ -610,7 +615,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ### [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
 
-&gt;将html转换为在Visual Studio Code中显示的内容，再也不用使用外部页面了.
+&gt;将html转换为在Visual Studio Code中插入，不再需要使用外部页面.
 
 ## [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
 
@@ -620,7 +625,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Paste and Indent](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-paste-and-indent)
 
-> Paste code with "correct" indentation
+&gt;粘贴带有“正确”缩进的代码
 
 ![Indentation of pasted code animation](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/screenshots/pasteandindent.gif)
 
@@ -644,7 +649,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
 
-&gt;只需单击一下，即可打开和关闭格式化程序
+&gt;允许您通过单击简单地打开和关闭格式化程序
 
 ## [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
@@ -653,12 +658,12 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 ![Bracket Pair Colorizer](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
 
 ## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
- &gt;自动查找，解析并提供所有可用导入的代码操作和代码完成.  与Typescript和TSX一起使用.
+> Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 
 ![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
 
 ## [shell-format](https://github.com/foxundermoon/vs-shell-format)
-&gt; Shell脚本＆Dockerfile＆dotenv格式
+&gt; shell脚本＆Dockerfile＆dotenv格式
 
 ![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
 
@@ -689,7 +694,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Ascii Tree Generator](https://marketplace.visualstudio.com/items?itemName=aprilandjan.ascii-tree-generator)
 
-&gt; VS Code扩展，可生成目录的ascii树或将选定的文本格式化为树字符串.
+&gt; VS Code扩展，可生成目录的ascii树或将所选文本格式化为树字符串.
 
 ![Ascii Tree Generator Demo](https://raw.githubusercontent.com/aprilandjan/ascii-tree-generator/master/images/text.gif)
 
@@ -730,7 +735,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Edit with Shell Command](https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell)
 
-&gt;利用您最喜欢的Shell命令来编辑文本
+&gt;利用您喜欢的Shell命令来编辑文本
 
 ![Edit with Shell Command](https://raw.githubusercontent.com/ryu1kn/vscode-edit-with-shell/master/images/animations/public.gif)
 
@@ -740,7 +745,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [ftp-sync](https://marketplace.visualstudio.com/items?itemName=lukasz-wronski.ftp-sync)
 
-&gt;将您的工作自动同步到远程FTP服务器
+&gt;自动将您的工作同步到远程FTP服务器
 
 ![Auto-sync your work to remote FTP server animation](https://i.imgur.com/W9h4pwW.gif)
 
@@ -780,7 +785,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
 
-&gt;通过使用新的协议，对诸如Azure Blob，S3存储桶，Dropbox，（S）FTP或WebDAV文件之类的东西提供多协议支持 [FileSystem API](https://code.visualstudio.com/docs/extensionAPI/vscode-api#FileSystemProvider)，尤其是用于在编辑器中访问本地文件和文件夹等资源时 [workspace folders](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
+&gt;通过使用新的协议，对诸如Azure Blob，S3存储桶，Dropbox，（S）FTP或WebDAV文件之类的东西提供多协议支持 [FileSystem API](https://code.visualstudio.com/docs/extensionAPI/vscode-api#FileSystemProvider)，尤其是用于以以下方式在编辑器中访问本地文件和文件夹之类的资源时： [workspace folders](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
 
 ![Remote Workspace animation](https://raw.githubusercontent.com/mkloubert/vscode-remote-workspace/master/img/demo1.gif)
 
@@ -803,7 +808,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 ![SmoothType Animation](https://raw.githubusercontent.com/spikespaz/vscode-smoothtype/master/images/preview.gif)
 
 ## [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
- &gt;提供与Spotify桌面客户端的集成.  在状态栏中显示当前播放的歌曲，搜索歌词，并提供用于通过按钮和热键控制Spotify的命令.
+ &gt;提供与Spotify桌面客户端的集成.  在状态栏中显示当前播放的歌曲，搜索歌词并提供用于通过按钮和热键控制Spotify的命令.
 
 ![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
 
@@ -844,7 +849,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## UI
 
-如果您觉得自己很勇敢，那么至少有两个针对VS Code的自定义UI：
+如果您感觉很勇敢，那么至少有两个针对VS Code的自定义UI：
 
 - [Essence](https://github.com/essence-language/vscode-extension)
 - [Pragmatic Essence](https://github.com/orta/Essence)
@@ -853,7 +858,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ### [2077 theme by Endormi](https://vscodethemes.com/e/Endormi.2077-theme)
 
-赛博朋克2077灵感主题
+Cyberpunk 2077 inspired theme
 
 <a href="https://vscodethemes.com/e/Endormi.2077-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/endormi.2077-theme.png" width="600" />
@@ -877,7 +882,7 @@ VSCode主题的灵感来自遥远的星系...
 
 ### [Atom One Dark Theme by Mahmoud Ali](https://vscodethemes.com/e/akamud.vscode-theme-onedark)
 
-One Dark Theme based on Atom.
+一个基于Atom的黑暗主题.
 
 <a href="https://vscodethemes.com/e/akamud.vscode-theme-onedark">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/akamud.vscode-theme-onedark.png" width="600" />
@@ -893,7 +898,7 @@ One Dark Theme based on Atom.
 
 ### [Ayu by teabyii](https://vscodethemes.com/e/teabyii.ayu)
 
-一个简单的主题具有鲜艳的色彩，并提供三种版本-黑暗，明亮和海市rage楼，可为您提供一整天的舒适工作.
+一个简单的主题具有鲜艳的色彩，并提供三种版本-黑暗，明亮和海市rage楼，为您提供一整天的舒适工作.
 
 <a href="https://vscodethemes.com/e/teabyii.ayu">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/teabyii.ayu.png" width="600" />
@@ -917,7 +922,7 @@ One Dark Theme based on Atom.
 
 ### [Cobalt2 Theme Official by Wes Bos](https://vscodethemes.com/e/wesbos.theme-cobalt2)
 
-🔥 Official theme by Wes Bos.
+ Wes Bos的官方主题.
 
 <a href="https://vscodethemes.com/e/wesbos.theme-cobalt2">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/wesbos.theme-cobalt2.png" width="600" />
@@ -925,7 +930,7 @@ One Dark Theme based on Atom.
 
 ### [Dracula Official by Dracula Theme](https://vscodethemes.com/e/dracula-theme.theme-dracula)
 
- 官方吸血鬼主题.  对于许多编辑器，Shell等而言，这是一个黑暗的主题.
+ 官方德古拉主题.  对于许多编辑器，Shell等而言，这是一个黑暗的主题.
 
 <a href="https://vscodethemes.com/e/dracula-theme.theme-dracula">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/dracula-theme.theme-dracula.png" width="600" />
@@ -933,7 +938,7 @@ One Dark Theme based on Atom.
 
 ### [Edge by Bogdan Lazar](https://vscodethemes.com/e/bogdanlazar.edge)
 
-一个简单的主题，具有鲜艳的色彩，有三种变体-夜空，宁静和海洋，全天候舒适地工作.
+一个简单的主题，具有鲜艳的色彩，可分为三种类型-夜空，宁静和海洋，全天候舒适地工作.
 
 <a href="https://vscodethemes.com/e/bogdanlazar.edge">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/bogdanlazar.edge-theme.png" width="600" />
@@ -973,7 +978,7 @@ Visual Studio Code的Jellybeans主题.
 
 ### [Material Palenight Theme by whizkydee](https://vscodethemes.com/e/whizkydee.material-palenight-theme)
 
-一个优雅多汁的类似于Visual Studio Code的材质主题.
+一个优雅而又多汁的类似于Visual Studio Code的材质主题.
 
 <a href="https://vscodethemes.com/e/whizkydee.material-palenight-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/whizkydee.material-palenight-theme.png" width="600" />
@@ -1013,7 +1018,7 @@ Monokai启发的主题 [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
 
- 夜猫子的VS Code主题.  在白天也可以很好地工作，但是对于那些喜欢在深夜编码的人来说，此主题是微调的.  颜色选择已考虑到色盲和弱光环境下人们可以使用的内容.  决策还基于有意义的对比来进行阅读理解和最佳的眼花乱.  ✨
+ 夜猫子的VS Code主题.  在白天也可以很好地工作，但是对于那些喜欢在深夜编码的人来说，这个主题是微调的.  颜色选择已考虑到色盲和弱光环境下人们可以访问的内容.  决策还基于有意义的对比来进行阅读理解和最佳的眼花乱.  ✨
 
 <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/night-owl.png" width="600" />
@@ -1037,7 +1042,7 @@ Monokai启发的主题 [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.
 
 ### [Rainglow by Dayle Rees](https://vscodethemes.com/e/daylerees.rainglow)
 
-收集320多种精美的语法和UI主题.
+包含320多种精美的语法和UI主题.
 
 <a href="https://vscodethemes.com/e/daylerees.rainglow">
   <img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/gloom-contrast.png" width="600" />
@@ -1075,6 +1080,25 @@ Visual Studio Code的深色语法/工作台主题-针对SCSS，HTML，JS，TS，
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/niketa-theme.png" width="600" />
 </a>
 
+
+### [Tinacious design syntax by Tinacious](https://github.com/tinacious/vscode-tinacious-design-syntax)
+
+Tinacious设计语法是一种语法主题，它使用明亮的调色板进行显示，包括粉红色，蓝色，绿松石，绿色，紫色和橙色.
+
+#### Dark 
+  
+<a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
+  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-syntax-theme-vscode-dark.png" width="600" />
+</a>
+
+#### Light 
+
+<a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
+  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-light-syntax-theme-vscode.png" width="600" />
+</a>
+
+
+
 ## People to Follow
 
 VS Code社区中各种人的Twitter帐户列表
@@ -1092,7 +1116,7 @@ VS Code社区中各种人的Twitter帐户列表
 - [@lannonbr](https://twitter.com/lannonbr) -vscode.rocks和JS参数注释扩展程序的创建者
 - [@maeschli](https://twitter.com/maeschli) -VS代码开发
 - [@mattbierner](https://twitter.com/code) -VS代码开发
-- [@MrAhmadAwais](https://twitter.com/MrAhmadAwais)  -JS / WordPress核心开发.  VSCode.pro课程和“紫色阴影”主题的创建者
+- [@MrAhmadAwais](https://twitter.com/MrAhmadAwais)  -JS / WordPress核心开发.  VSCode.pro课程和“紫色主题”的创建者
 - [@ramyanexus](https://twitter.com/ramyanexus)  -VS代码开发  Go扩展的维护者
 - [@Tyriar](https://twitter.com/Tyriar)  -VS代码开发  xterm.js的创建者
 
@@ -1107,7 +1131,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 - [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) -vscode.d.ts节点模块
 - [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
-- [vscode-test-content](https://github.com/mlewand-org/vscode-test-content)  -设置/获取编辑器内容及其选择的方法.  对于单元测试特别有用.
+- [vscode-test-content](https://github.com/mlewand-org/vscode-test-content)  -设置/获取编辑器内容的方法及其选择.  对于单元测试特别有用.
 
 ## Tools
 
@@ -1118,21 +1142,21 @@ VS Code社区中各种人的Twitter帐户列表
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
-- [Themer](https://themer.dev) -轻松为VS Code创建自己的主题（并为其他工具匹配主题）.
-- [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) -Visual Studio Code的此扩展为Azure开发人员提供了一些便捷的命令，可直接在编辑器中创建或访问资源.
+- [Themer](https://themer.dev) -轻松为VS Code创建您自己的主题（并为其他工具匹配主题）.
+- [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) -Visual Studio Code的此扩展为Azure开发人员提供了一些方便的命令，可以直接在编辑器中创建或访问资源.
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
-- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一个扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写器等.MarkdownPreview的灵感源自Markdown Preview Plus和RStudio Markdown.
+- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一个扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写器等.MarkdownPreview的许多思想都受到启发Plus和RStudio Markdown.
 
 ## Online Courses
 
 ## Visual Studio Code Power User Course (commercial)
 
-在使用Sublime Text十年后， [Ahmad Awais](https://twitter.com/MrAhmadAwais/) 切换到VSCode，内置 [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has launched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
+使用Sublime Text十年后， [Ahmad Awais](https://twitter.com/MrAhmadAwais/) 切换到VSCode，内置 [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has launched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
 
 - [VSCode.pro](https://vscode.pro/) -长达5个小时的65个视频VSCode课程.
-- [Ahmad Awais](https://twitter.com/MrAhmadAwais/)  -紫色阴影主题的创建者.  WP / JS的核心开发人员.  OSS开发倡导者.
+- [Ahmad Awais](https://twitter.com/MrAhmadAwais/)  -紫色主题阴影的创造者.  WP / JS的核心开发人员.  OSS开发倡导者.
 
 ## Contribute
 
@@ -1144,4 +1168,4 @@ VS Code社区中各种人的Twitter帐户列表
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Valerii Iatsko](https://viatsko.me) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Valerii Iatsko](https://viatsko.me) 已放弃此作品的所有版权以及相关或邻近的权利.

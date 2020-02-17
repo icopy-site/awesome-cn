@@ -116,7 +116,7 @@
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) -全面，模块化和便携式的加密工具包.
 - [libVES.c](https://github.com/vesvault/libVES.c) -通过云存储库进行端到端加密共享，在密钥丢失的情况下通过朋友的病毒网络安全恢复.
 - [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c)  -小型，独立且快速的开源密码库.  它支持RSA，ECDH，ECIES，ECDSA，AES-GCM，SHA2，SHA3和基于配对的密码术.
-- [monocypher](http://loup-vaillant.fr/projects/monocypher/) -受libsodium和TweetNaCl启发的小型，便携式，易于使用的加密库.
+- [monocypher](https://monocypher.org) -受libsodium和TweetNaCl启发的小型，便携式，易于使用的加密库.
 - [NaCl](https://nacl.cr.yp.to/) -用于网络通信，加密，解密，签名等的高速库.
 - [OpenSSL](https://github.com/openssl/openssl) -TLS / SSL和加密库.
 - [PolarSSL](https://tls.mbed.org/) -PolarSSL使开发人员在其（嵌入式）产品中轻松包含加密和SSL / TLS功能，从而以最小的代码占用空间简化了该功能.
@@ -239,7 +239,7 @@
 ### Java
 
 - [Apache Shiro](http://shiro.apache.org/) -执行身份验证，授权，加密和会话管理.
-- [Bouncy Castle](https://www.bouncycastle.org/java.html)  -通用加密库.  JCA提供程序，从基本帮助程序到PGP / SMIME操作的功能范围很广.
+- [Bouncy Castle](https://www.bouncycastle.org/java.html)  -通用加密库.  JCA提供程序，从基本助手到PGP / SMIME操作的功能范围很广.
 - [Flexiprovider](http://www.flexiprovider.de/) -用于Java密码体系结构的强大工具包.
 - [GDH](https://github.com/maxamel/GDH) -通用的Diffie-Hellman密钥交换Java库，用于在Vert.x框架之上构建的多个参与者.
 - [Google Keyczar](https://github.com/google/keyczar) -易于使用，但具有密钥版本控制的安全加密框架.

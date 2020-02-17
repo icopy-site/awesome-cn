@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/bakke92/awesome-gdpr/master/GDPR.png" align="right" width="300">](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679)
 
- 通用数据保护条例（GDPR）是针对欧盟和欧洲经济区内所有个人的数据保护和隐私的条例.  该法规增加了对公司隐私的关注，并增强了数据主体的影响力.
+ 通用数据保护条例（GDPR）是关于欧盟和欧洲经济区内所有个人的数据保护和隐私的条例.  该法规增加了对公司隐私的关注，并增强了数据主体的影响力.
 
 
 ## Legal text
@@ -31,6 +31,10 @@
 
 ## Tools
 * [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) -EDPS检查软件.
+
+## Security (art. 32)
+* [OWASP Top 10](https://owasp.org/www-project-top-ten/) -十大Web应用程序安全风险.
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) -精简收集有关特定应用程序安全性主题的高价值信息.
   
 ## Incident management
 * [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)

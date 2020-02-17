@@ -167,7 +167,7 @@
 ### Command-line apps
 
 - [ember-cli-create](https://github.com/gossi/ember-cli-create) -CLI向导创建一个新的余烬项目.
-- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认情况下将启用的功能.  它仅适用于应用程序，不能与插件一起使用.
+- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清楚我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认情况下将启用的功能.  它仅适用于应用程序，不能与插件一起使用.
 - [ember-cli-rename](https://github.com/trabus/ember-cli-rename) -ember-cli的插件，提供“ ember重命名”命令.
 
 ### Command-line utilities
@@ -327,7 +327,7 @@
 - [Lazy.js](https://github.com/dtao/lazy.js) -类似于lodash / Underscore的实用程序库，但具有懒惰的评估，在许多情况下可以转换为出色的性能.
 - [lodash](https://lodash.com)  -实用程序库，可提供一致性，自定义，性能和其他功能.  更好更快的Underscore.js.
 - [mori](http://swannodette.github.io/mori/) -用于使用ClojureScript的持久数据结构并从原始JavaScript的舒适性开始支持API的库.
-- [Mout](http://moutjs.com) -与其他现有解决方案之间最大差异的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
+- [Mout](http://moutjs.com) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
 - [Ramda](http://ramdajs.com)  -实用程序库，侧重于通过自动计算和相反的参数顺序实现的灵活功能组合.  避免变异数据.
 - [RxJS](http://reactivex.io) -功能性反应式库，用于转换，合成和查询各种数据.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) -Underscore的腰带上的铜扣.
@@ -906,7 +906,7 @@
 ### Codemods
 - [ember-es6-class-codemod](https://github.com/scalvert/ember-es6-class-codemod) -一个codemod-cli项目，用于将Ember.js对象转换为es6本机类.
 - [ember-native-class-codemod](https://github.com/ember-codemods/ember-native-class-codemod) -一个codemod，用于使用装饰器将ember应用程序代码转换为原生JavaScript类语法！
-- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) -此codemod有助于从通过ember-cli-mirage导入仿造者过渡到直接从仿造者导入它.
+- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) -此codemod可帮助从通过ember-cli-mirage导入仿造者过渡到直接从仿造者导入它.
 - [ember-mocha-codemods](https://github.com/Turbo87/ember-mocha-codemods) -ember-mocha的Codemod脚本.
 - [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) -自动迁移新的Ember.js应用程序布局.
 - [ember-qunit-codemod](https://github.com/rwjblue/ember-qunit-codemod) -此codemod旨在自动将项目从ember-qunit @ 2的较旧moduleFor *语法转换为较新的语法.
@@ -975,6 +975,7 @@
 - [octane-ecommerce](https://github.com/betocantu93/octane-ecommerce) -Ember Octane + FastBoot + Algolia + PayPal + Formspree（[s](https://docs.google.com/presentation/d/1YaG26Fj-tVjyFV8LvQJkfIH89-HYdkfHfhdRz3bC2-k/edit#slide=id.g56ccd9a7f0_0_33), [v](https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be), [d](https://octane-ecommerce.herokuapp.com/)).
 - [Rust Package Registry](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 - [Ember.js RealWorld Implementation](https://github.com/gothinkster/ember-realworld) -Ember.js代码库，包含遵循RealWorld规范和API的真实示例（CRUD，身份验证，高级模式等）.
+- [A wild tomster appears](https://github.com/scudco/tomsweeper)
 
 ### Examples Glimmer
 - [breethe-client](https://github.com/simplabs/breethe-client) -世界各地的空气质量数据.
