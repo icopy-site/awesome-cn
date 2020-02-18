@@ -130,7 +130,6 @@
 
 ### Misc
 
-- [Wagtail Plus](https://github.com/rfosterslo/wagtailplus) -Wagtail CMS的模块化附加组件.
 - [wagtailmenus](https://github.com/rkhleics/wagtailmenus) -Torchbox Wagtail CMS的扩展，可帮助您以一致，灵活的方式管理和呈现多级导航和简单的平面菜单.
 - [Wagtail Error Pages](https://gitlab.com/alexgleason/wagtailerrorpages) -Wa的漂亮，智能，可自定义的错误页面.
 - [Wagtail Themes](https://github.com/moorinteractive/wagtail-themes) -适用于Wagtail的特定于站点的主题加载器.
@@ -311,7 +310,7 @@
 - [Adventure Capitalists](https://github.com/AdventureCapitalists/website) – Wagtail支持的网站，适用于全球唯一的投资乐队.
 - [NHS.UK Content Store](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK内容存储和编辑应用程序.
 - [dev.hel.fi](https://github.com/City-of-Helsinki/devheldev) –带有Wa的赫尔辛基市开发场地.
-- [Digital Helsinki](https://github.com/City-of-Helsinki/digihel) –赫尔辛基数字赫尔辛基Wagtail CMS.
+- [Digital Helsinki](https://github.com/City-of-Helsinki/digihel) –赫尔辛基数字赫尔辛基Wagtail CMS市.
 - [Secure the News](https://github.com/freedomofpress/securethenews) –自动化的扫描仪和Web仪表板，用于跟踪新闻机构之间的TLS部署.
 - [HackSoft](https://github.com/HackSoftware/hacksoft.io) – HackSoft网站.
 - [HackConf](https://github.com/HackSoftware/hackconf.bg) –一年一度的HackConf网站.

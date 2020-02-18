@@ -93,12 +93,12 @@
 
 ## Open Source Rails Apps
 
- &gt;注意：这些应用程序的Rails版本作为最新提交日期有效.  它们在其Gemfile和/或Gemfile.lock中定义，它们可能已过时.  如果您发现它已过时，请不要忘记打开请求请求来通知我们.
+ &gt;注意：这些应用程序的Rails版本作为最新提交日期有效.  它们在其Gemfile和/或Gemfile.lock中定义，它们可能已过时.  如果您发现它已过时，请不要忘记通过打开请求请求来通知我们.
 
 - [activeWorkflow](https://github.com/automaticmode/active_workflow) -基于软件代理的智能流程和工作流自动化平台-**使用Rails 5.2 **
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) -市民基础设施检测应用-**使用Rails 4.2 **
 - [airCasting](https://github.com/HabitatMap/AirCasting) -使用智能手机记录，映射和共享健康和环境数据的平台-**使用Rails 5.2 **- [:earth_africa:](http://aircasting.org)
-- [alaveteli](https://github.com/mysociety/alaveteli) -公开信息请求自由的平台-**使用Rails 5.1 **- [:earth_africa:](http://alaveteli.org)
+- [alaveteli](https://github.com/mysociety/alaveteli) -公开要求信息自由的平台-**使用Rails 5.1 **- [:earth_africa:](http://alaveteli.org)
 - [alonetone](https://github.com/sudara/alonetone) -音乐托管，管理和分发应用-**使用Rails 6.0 **- [:earth_africa:](https://alonetone.com)
 - [asakusaSatellite](https://github.com/codefirst/AsakusaSatellite) -开发人员实时聊天应用程序-**使用Rails 6.0 **- [:earth_africa:](https://www.codefirst.org/AsakusaSatellite)
 - [askaway](https://github.com/askaway/askaway) -专门从事政治工作的问答软件-**使用Rails 4.1 **
@@ -116,14 +116,14 @@
 - [coRM](https://github.com/SIGIRE/CoRM) -客户关系管理应用程序-**使用Rails 3.2 **- [:earth_africa:](http://www.corm.fr)
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) -软件工程师的社交网络应用-**使用Rails 3.2 **
 - [coderwall (next)](https://github.com/coderwall/coderwall-next) -适用于软件工程师的社交网络应用-**使用Rails 5.0 **
-- [codetriage](https://github.com/codetriage/codetriage) -开源项目查找器应用-**使用Rails 6.0 **- [:earth_africa:](https://www.codetriage.com/)
+- [codetriage](https://github.com/codetriage/codetriage) -开源项目查找器应用程序-**使用Rails 6.0 **- [:earth_africa:](https://www.codetriage.com/)
 - [commudle](https://github.com/gdgnewdelhi/commudle) -社区管理应用程序-**使用Rails 5.2 **
 - [contribulator](https://github.com/24pullrequests/contribulator) -开源项目查找器应用程序-**使用Rails 5.1 **
 - [coursemology2](https://github.com/Coursemology/coursemology2) -学习平台应用程序-**使用Rails 5.2 **
 - [covoiturage-libre](https://github.com/covoiturage-libre/covoiturage-libre) -拼车应用-**使用Rails 5.0 **-**已存档**
 - [crabgrass-core](https://0xacab.org/riseuplabs/crabgrass) -激进团体的协作平台-**使用Rails 4.2 **
 - [crowdAI](https://github.com/crowdAI/crowdai) -应对数据科学挑战的应用程序-**使用Rails 5.2 **- [:earth_africa:](https://www.crowdai.org/)
-- [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) -一个众筹平台-**使用Rails 3.2 **
+- [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) -众筹平台-**使用Rails 3.2 **
 - [danbooru](https://github.com/danbooru/danbooru) -可标记的图像板应用程序-**使用Rails 6.0 **
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) -案例管理应用-**使用Rails 5.2 **
 - [dev.to](https://github.com/thepracticaldev/dev.to) -专门用于Web开发的社交平台应用-**使用Rails 5.2 **- [:earth_africa:](https://dev.to)
@@ -133,7 +133,7 @@
 - [discourse](https://github.com/discourse/discourse) -社区讨论的平台-**使用Rails 6.0 **- [:earth_africa:](https://try.discourse.org/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) -农场管理应用程序-**使用Rails 4.2 **
 - [postal](https://github.com/postalhq/postal) -邮件传递平台-**使用Rails 5.2 **
-- [encrypt.to](https://github.com/encrypt-to/encrypt.to) -具有加密支持的消息应用程序-**使用Rails 4.2 **
+- [encrypt.to](https://github.com/encrypt-to/encrypt.to) -具有加密支持的消息传递应用程序-**使用Rails 4.2 **
 - [eol](https://github.com/EOL/eol) -百科全书应用-**使用Rails 3.2 **- [:earth_africa:](http://eol.org)
 - [expertiza](https://github.com/expertiza/expertiza) -学习资料共享应用-**使用Rails 4.2 **
 - [fairmondo](https://github.com/fairmondo/fairmondo) -一个市场应用程序-**使用Rails 4.2 **- [:earth_africa:](https://www.fairmondo.de)
@@ -141,15 +141,15 @@
 - [feedi](https://github.com/davidesantangelo/feedi) -一个RSS供稿转换（到API）应用程序-**使用Rails 5.2 **- [:earth_africa:](https://search.feedi.me)
 - [follow-all](https://github.com/codeforamerica/follow-all) -Twitter帐户管理应用程序-**使用Rails 4.2 **-**已存档**
 - [fromthepage](https://github.com/benwbrum/fromthepage) -类似于Wiki的应用，用于众包手写文档的转录-**使用Rails 4.1 **- [:earth_africa:](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -代码协作应用-**使用Rails 5.2 **
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -代码协作应用-**使用Rails 6.0 **
 - [graff_mags](https://github.com/dankleiman/graff_mags) -涂鸦杂志共享应用程序-**使用Rails 4.1 **- [:earth_africa:](http://graffmags.herokuapp.com)
 - [growstuff](https://github.com/Growstuff/growstuff) -用于食品园丁的数据管理应用程序-**使用Rails 5.2 **- [:earth_africa:](http://www.growstuff.org/)
 - [hashrobot](https://github.com/rysmith/hashrobot) -社交媒体管理应用-**使用Rails 4.2 **- [:earth_africa:](http://www.hashrobot.com)
 - [helpy](https://github.com/helpyio/helpy) -客户支持应用-**使用Rails 4.2 **- [:earth_africa:](https://helpy.io/)
-- [hitobito](https://github.com/hitobito/hitobito) -活动组织应用-**使用Rails 4.2 **- [:earth_africa:](http://hitobito.com/en)
+- [hitobito](https://github.com/hitobito/hitobito) -活动组织应用程序-**使用Rails 4.2 **- [:earth_africa:](http://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) -时间跟踪应用-**使用Rails 4.2 **- [:earth_africa:](https://happyhours.io)
 - [inaturalist](https://github.com/inaturalist/inaturalist) -用于自然和相关事物的社区应用-**使用Rails 4.2 **- [:earth_africa:](http://www.inaturalist.org)
-- [intercityup.com](https://github.com/intercity/intercity-next) -用于应用程序部署的控制面板应用程序-**使用Rails 4.1 **
+- [intercityup.com](https://github.com/intercity/intercity-next) -用于应用部署的控制面板应用-**使用Rails 4.1 **
 - [kanban](https://github.com/seanomlor/kanban) -Trello克隆-**使用Rails 4.2 **- [:earth_africa:](http://kanban.seanomlor.com)
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) -动漫发现平台-**使用Rails 4.1 **
 - [lavish](https://github.com/mquan/lavish) -配色方案生成器-**使用Rails 4.2 **
@@ -167,7 +167,7 @@
 - [ossfriday](https://github.com/github/ossfriday) -一个项目贡献跟踪应用程序-**使用Rails 6.0 **- [:earth_africa:](https://opensourcefriday.com)
 - [otwarchive](https://github.com/otwcode/otwarchive) -面向粉丝的社交网络应用-**使用Rails 5.1 **- [:earth_africa:](http://archiveofourown.org)
 - [passwordPusher](https://github.com/pglombardo/PasswordPusher) -密码传送应用-**使用Rails 4.2 **- [:earth_africa:](https://pwpush.com)
-- [peatio](https://github.com/peatio/peatio) -加密货币兑换应用程序-**使用Rails 4.0 **- [:earth_africa:](http://www.peatio.com)
+- [peatio](https://github.com/peatio/peatio) -加密货币兑换应用-**使用Rails 4.0 **- [:earth_africa:](http://www.peatio.com)
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) -计划中的应用程序跟踪应用程序-**使用Rails 5.2 **- [:earth_africa:](https://www.planningalerts.org.au)
 - [popHealth](https://github.com/pophealth/popHealth) -人口健康报告应用程序-**使用Rails 4.1 **
 - [publify](https://github.com/publify/publify) -博客应用-**使用Rails 5.2 **
@@ -176,8 +176,8 @@
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) -援助人员的信息提供者应用程序-**使用Rails 4.0 **
 - [redmine](https://github.com/edavis10/redmine) -一个项目管理应用-**使用Rails 5.2 **- [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) -一个市场应用程序--**使用Rails 4.0 **
-- [reservations](https://github.com/YaleSTC/reservations) -库存管理应用-**使用Rails 6.0 **- [:earth_africa:](http://yalestc.github.io/reservations)
-- [rletters](https://github.com/rletters/rletters) -研究人员期刊论文数据库的前端-**使用Rails 6.0 **- [:earth_africa:](http://www.rletters.net)
+- [reservations](https://github.com/YaleSTC/reservations) -库存管理应用程序-**使用Rails 6.0 **- [:earth_africa:](http://yalestc.github.io/reservations)
+- [rletters](https://github.com/rletters/rletters) -研究人员期刊文章数据库的前端-**使用Rails 6.0 **- [:earth_africa:](http://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) -一个宝石托管平台-**使用Rails 6.0 **- [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) -帐户跟踪器-**使用Rails 4.2 **- [:earth_africa:](http://sanataro.herokuapp.com)
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) -一个数字资产管理应用程序-**使用Rails 5.1 **

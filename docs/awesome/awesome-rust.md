@@ -151,6 +151,7 @@
 
 ### System tools
 
+* [dalance/procs](https://github.com/dalance/procs) — Rust编写的“ ps”的现代替代品 [![Build Status](https://api.travis-ci.org/dalance/procs.svg?branch=master)](https://travis-ci.org/dalance/procs)
 * [dust](https://github.com/bootandy/dust) -du的更直观的版本
 * [fselect](https://crates.io/crates/fselect) —使用类似SQL的查询查找文件 [<img src="https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master">](https://travis-ci.org/jhspetersson/fselect)
 * [k0pernicus/zou](https://github.com/k0pernicus/zou) —下载加速器
@@ -161,6 +162,7 @@
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3和CLI实用程序，用于并行刷新多个USB设备
 * [Luminarys/synapse](https://github.com/Luminarys/synapse) —灵活，快速的BitTorrent守护程序. [![Build Status](https://api.travis-ci.org/Luminarys/synapse.svg?branch=master)](https://travis-ci.org/Luminarys/synapse)
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) —具有CLI工具的Linux电源管理守护程序（DBus接口）.
+* [Ralvke/logram](https://github.com/Ralvke/logram) —将日志文件的更新推送到Telegram
 * [unwrittenfun/hotkey-rs](https://github.com/unwrittenfun/hotkey-rs) —一个库，可以在Rust中收听全局热键
 * [sharkdp/fd](https://github.com/sharkdp/fd) —一种简单，快速且用户友好的替代方法. [![Build Status](https://api.travis-ci.org/sharkdp/fd.svg?branch=master)](https://travis-ci.org/sharkdp/fd)
 
@@ -391,7 +393,7 @@
 	* [vim-racer](https://github.com/racer-rust/vim-racer) -允许vim使用 [Racer](https://github.com/racer-rust/racer) 用于Rust代码的完成和导航.
 	* [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/)  客户.  在Rust中实现，并支持开箱即用.
   * 视觉工作室
-    * [PistonDevelopers/VisualRust](https://raw.githubusercontent.com/PistonDevelopers/VisualRust) — Rust的Visual Studio扩展 [<img src="https://api.travis-ci.org/PistonDevelopers/VisualRust.svg?branch=master">](https://travis-ci.org/PistonDevelopers/VisualRust)
+    * [PistonDevelopers/VisualRust](https://github.com/PistonDevelopers/VisualRust) — Rust的Visual Studio扩展 [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
     * [dgriffen/rls-vs2017](https://raw.githubusercontent.com/ZoeyR/rls-vs2017) — Rust对Visual Studio 2017预览版的支持 [<img src="https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true">](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
   * [Visual Studio Code](https://code.visualstudio.com/)
     * [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — Rust对Visual Studio Code的支持
@@ -452,7 +454,7 @@
 
 * [Martin1887/oxigen](https://github.com/Martin1887/oxigen)  —快速，并行，可扩展和适应性强的遗传算法库.  使用该库的示例仅在几秒钟内并使用不到1 MB的内存即可解决N = 255的N Queens问题.
 * [innoave/genevo](https://github.com/innoave/genevo) —以可定制和可扩展的方式执行遗传算法（GA）模拟.
-* [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs)  —该库允许您使用Rust编程语言编写进化算法（EA）.  由Willi Kappler撰写，许可证：麻省理工学院-版本0.4（2017.06.26）.
+* [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) — Rust的进化算法 [![Build Status](https://api.travis-ci.org/willi-kappler/darwin-rs.svg?branch=master)](https://travis-ci.org/willi-kappler/darwin-rs)
 * [m-decoster/RsGenetic](https://github.com/m-decoster/RsGenetic)  — Rust中的遗传算法库.  在维护模式下.
 * [mneumann/evo-rs](https://github.com/mneumann/evo-rs)  — Rust的进化算法库.  3年无变化.
 * [yurytsoy/revonet](https://github.com/yurytsoy/revonet) -Rust实编码GA的实现，用于解决优化问题和神经网络训练.
@@ -966,7 +968,7 @@
 *安卓
   * [rust-windowing/android-rs-glue](https://raw.githubusercontent.com/rust-windowing/android-rs-glue) — glue between Rust and Android [<img src="https://api.travis-ci.org/rust-windowing/android-rs-glue.svg?branch=master">](https://travis-ci.org/rust-windowing/android-rs-glue)
 * iOS
-  * [TimNN/cargo-lipo](https://raw.githubusercontent.com/TimNN/cargo-lipo) — cargo lipo子命令，可自动创建一个可与您的iOS应用程序一起使用的通用库. [<img src="https://api.travis-ci.org/TimNN/cargo-lipo.svg?branch=master">](https://travis-ci.org/TimNN/cargo-lipo)
+  * [TimNN/cargo-lipo](https://raw.githubusercontent.com/TimNN/cargo-lipo) — cargo lipo子命令，可自动创建一个通用库以供您的iOS应用程序使用. [<img src="https://api.travis-ci.org/TimNN/cargo-lipo.svg?branch=master">](https://travis-ci.org/TimNN/cargo-lipo)
   * [vhbit/ObjCrust](https://github.com/vhbit/ObjCrust) -使用Rust创建iOS静态库
 *卵石
   * [andars/pebble.rs](https://github.com/andars/pebble.rs) —一个允许将Rust用于开发Pebble应用程序的板条箱.

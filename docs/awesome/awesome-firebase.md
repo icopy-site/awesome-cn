@@ -19,7 +19,7 @@
 
 <!-- translations -->
 
-Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/README.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/README_RU.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/README_ES.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/README_ID.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/README_JA.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/README_KO.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/README_PT.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/README_ZH.md) -->
+Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/readme.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ru.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/readme_es.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/readme_id.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ja.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/readme_ko.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/readme_pt.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/readme_zh.md) -->
 
 [Firebase](https://firebase.google.com) 是一个基于 [Google Cloud Platform](https://cloud.google.com/products) 提供服务和跨平台的SDK！
 
@@ -52,7 +52,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 -  [React Fire](https://github.com/FirebaseExtended/reactfire) -带有钩子，上下文提供程序和组件的官方Firebase React库，可轻松与Firebase进行交互.
 -  [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) -用于Firebase服务的React Hooks.
--  [Firebase UI](https://github.com/firebase/firebaseui-web) -FirebaseUI是用于Web的开源JavaScript库，它在Firebase SDK的基础上提供了简单，可自定义的UI绑定，以消除样板代码并推广最佳实践.
+-  [Firebase UI](https://github.com/firebase/firebaseui-web) -FirebaseUI是用于Web的开源JavaScript库，它在Firebase SDK之上提供了简单的，可自定义的UI绑定，以消除样板代码并推广最佳实践.
 -  [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) -用于FirebaseUI Web的React Wrapper.
 -  [GeoFire for JavaScript](https://github.com/firebase/geofire-js) -使用Firebase进行实时位置查询.
 -  [FirePad](https://github.com/FirebaseExtended/firepad) -由Firebase提供支持的协作文本编辑器.
@@ -128,7 +128,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) -通过应用程序和用户切换来查询，（批处理）编辑和导出文档的WebApp.
 -  [FireDrill](https://github.com/scottlepp/fire-drill) -查找，编辑，添加，删除，导入，导出和报告Firebase数据.
 -  [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) -使用Firebase工具将常见功能整合到您的游戏中.
--  [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) -Firebase ANE集合使您可以使用100％相同的ActionScript API访问Android和iOS支持的AdobeAir项目中的Google Firebase项目.
+-  [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) -Firebase ANE集合使您可以使用100％相同的ActionScript API访问Android和iOS都支持的AdobeAir项目中的Google Firebase项目.
 -  [QtFirebase](https://github.com/Larpon/QtFirebase) -努力将Google的Firebase C ++ API引入Qt + QML.
 -  [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) -StackBlitz（在线代码编辑器）到Firebase Hosting静态部署.
 -  [Flamelink](https://flamelink.io/)  -CMS for Firebase.  支持Firestore，RealtimeDatabase和存储.

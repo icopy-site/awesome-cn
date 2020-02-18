@@ -32,7 +32,7 @@
 * [Rails Event Store (RES)](https://github.com/RailsEventStore/rails_event_store)  -用于发布，使用，存储和检索事件的库.  它是为Rails应用程序使用事件驱动的体系结构的最佳伴侣.
 * [Responders](https://github.com/plataformatec/responders) -一组Rails响应程序以使您的应用程序枯竭.
 * [Surrounded](https://github.com/saturnflyer/surrounded)  -将相关对象封装在单个系统中，以在运行时添加行为.  DCI的可扩展实现.
-* [Trailblazer](https://github.com/trailblazer/trailblazer)  -开拓者是Rails的薄薄一层.  它轻柔地执行封装，直观的代码结构，并为您提供面向对象的体系结构.
+* [Trailblazer](https://github.com/trailblazer/trailblazer)  -开拓者是Rails的薄薄一层.  它轻轻地强制执行封装，直观的代码结构，并为您提供面向对象的体系结构.
 * [Waterfall](https://github.com/apneadiving/waterfall) -链接红宝石服务和区块的功能编程的一部分，从而提供了一种新的流量控制方法.
 * [wisper](https://github.com/krisleech/wisper) -一个微型库，为Ruby对象提供发布-订阅功能.
 
@@ -66,9 +66,9 @@
 * [jbuilder](https://github.com/rails/jbuilder) -通过构建器风格的DSL创建JSON结构.
 * [jsonapi-rb](http://jsonapi-rb.org) –高效便捷的JSON API（反序列化）库.
 * [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) -JSONAPI :: Resources或“ JR”提供了一个框架，用于开发符合JSON API规范的服务器.
-* [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) -JSONAPI :: Utils建立在JSONAPI :: Resources的基础上，利用其资源驱动的样式，并提供了一种轻松的方法来构建现代JSON API，而无需花费太多或更少的学习时间.
+* [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) -JSONAPI :: Utils建立在JSONAPI :: Resources的基础上，利用其资源驱动的样式，并提供了一种轻松的方法来构建现代的JSON API，而无需花费很多学习精力.
 * [Jsonite](https://github.com/crepe/jsonite) -适用于您的API的微型，符合HAL的JSON演示程序.
-* [Pliny](https://github.com/interagent/pliny) -有意识的模板Sinatra应用程序，用于在Ruby中编写出色的API.
+* [Pliny](https://github.com/interagent/pliny) - Opinionated template Sinatra app for writing excellent APIs in Ruby.
 * [rabl](https://github.com/nesquena/rabl) -具有json，bson，xml，plist和msgpack支持的通用红宝石模板.
 * [Rails::API](https://github.com/rails-api/rails-api) -仅适用于API的应用程序的Rails.
 * [Roar](https://github.com/apotonick/roar) -Ruby中的面向资源的体系结构.
@@ -305,7 +305,7 @@
 
 ## Data Processing and ETL
 
-* [CSV Reader](https://github.com/csvreader/csvreader) -现代的表格数据（逐行记录）阅读器不仅支持“经典​​” CSV，还支持CSV数字，CSV &lt;3 JSON，CSV &lt;3 YAML，制表符，空格或固定宽度字段（FWF），以及更多其他风味和方言.
+* [CSV Reader](https://github.com/csvreader/csvreader) -现代的表格数据（逐行记录）阅读器不仅支持“经典​​” CSV，而且还支持CSV数字，CSV &lt;3 JSON，CSV &lt;3 YAML，制表符，空格或固定宽度字段（FWF），以及许多更多口味和方言.
 * [Kiba](http://www.kiba-etl.org) -Ruby的轻量级数据处理/ ETL框架.
 
 ## Data Visualization
@@ -398,11 +398,11 @@
 * [Itamae](https://github.com/itamae-kitchen/itamae) -受Chef启发的简单轻巧的配置管理工具.
 * [Kochiku](https://github.com/square/kochiku) -Kochiku是用于测试自动化的分布式平台.
 * [Lita](https://www.lita.io/) -用于Ruby的ChatOps：可与任何聊天服务一起使用的可插拔聊天机器人框架.
-* [Logstash](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
+* [Logstash](https://github.com/elastic/logstash) -日志/事件传输，处理，管理，搜索.
 * [Mina](https://github.com/mina-deploy/mina) -真正快速的部署者和服务器自动化工具.
 * [Puppet](https://github.com/puppetlabs/puppet) -针对Linux，Unix和Windows系统的自动管理引擎，根据集中的规范执行管理任务（例如添加用户，安装软件包和更新服务器配置）.
 * [Request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer)  -根据您的日志文件创建报告.  支持Rails，Apache，MySQL，Delayed :: Job和其他格式.
-* [Rubber](https://github.com/rubber/rubber) -橡胶插件可将RubyOnRails应用程序的相对复杂的多实例部署到Amazon的Elastic Compute Cloud（EC2）.
+* [Rubber](https://github.com/rubber/rubber) -橡胶插件可将RubyOnRails应用程序相对复杂的多实例部署到Amazon的Elastic Compute Cloud（EC2）.
 * [SSHKey](https://github.com/bensie/sshkey) -纯Ruby（RSA和DSA）中的SSH私钥和公钥生成器.
 * [Sunzi](https://github.com/kenn/sunzi) -极简主义者的服务器配置实用程序
 * [Ruby-LXC](https://github.com/lxc/ruby-lxc) -用于Linux容器的本机红宝石绑定.
@@ -446,6 +446,7 @@
 * [Spree](https://github.com/spree/spree) -Spree是Ruby on Rails的完整的开源电子商务解决方案.
 * [SquareConnect](https://github.com/square/connect-ruby-sdk) -Square的付款和其他Square API的SDK.
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) -条纹Ruby绑定.
+* [Workarea](https://github.com/workarea-commerce/workarea) -一个可扩展的，高性能的电子商务平台，受某些世界顶级零售商的依赖.
 
 ## Ebook
 
@@ -522,7 +523,7 @@
 * [DragonFly](https://github.com/markevans/dragonfly) -一种用于实时处理的Ruby宝石-适用于在Rails，Sinatra等中上传图像！
 * [PaperClip](https://github.com/thoughtbot/paperclip)  -方便的ActiveRecord文件附件管理.  自2018年5月14日起弃用.
 * [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) -安全上传文件.
-* [Refile](https://github.com/refile/refile) -Refile是一种适用于Ruby应用程序的现代文件上传库，是CarrierWave的原始作者试图修复CarrierWave中的设计错误和过度设计的尝试.
+* [Refile](https://github.com/refile/refile) -Refile是一种用于Ruby应用程序的现代文件上传库，是CarrierWave的原始作者试图修复CarrierWave中的设计错误和过度设计的尝试.
 * [Shrine](https://github.com/janko-m/shrine) -用于在Ruby中处理文件上传的工具包.
 
 ## File System Listener
@@ -545,7 +546,7 @@
 ## Game Development
 
 * [Gosu](http://www.libgosu.org) -用于Ruby和C ++编程语言的2D游戏开发库.
-* [Yeah](https://github.com/yeahrb/yeah) -实用的Ruby视频游戏框架.
+* [Ruby 2D](https://github.com/ruby2d/ruby2d) -轻松创建跨平台的2D应用程序，游戏和可视化.
 
 ## Gem Generators
 
@@ -597,7 +598,7 @@
 ## HTTP Clients and tools
 
 * [excon](https://github.com/excon/excon)  -可用，快速，简单的Ruby HTTP 1.1.  它可以作为一般的HTTP客户端使用，特别适合在API客户端中使用.
-* [Faraday](https://github.com/lostisland/faraday) -HTTP客户端库，可在许多适配器（例如Net :: HTTP）上提供通用接口，并在处理请求/响应周期时包含Rack中间件的概念.
+* [Faraday](https://github.com/lostisland/faraday) - an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
 * [Device Detector](https://github.com/podigee/device_detector) -精确，快速的用户代理解析器和设备检测器，并以最大，最新的用户代理数据库为后盾.
 * [Http Client](https://github.com/nahi/httpclient) -提供类似于Ruby中的libwww-perl（LWP）的功能.
 * [HTTP](https://github.com/httprb/http) -HTTP Gem：用于发出HTTP请求的简单Ruby DSL.
@@ -625,7 +626,7 @@
 * [JRuby](https://github.com/jruby/jruby) -Ruby语言的Java实现.
 * [MRuby](https://github.com/mruby/mruby)  -轻巧的Ruby.  可以链接并嵌入到您的应用程序中.
 * [Opal](https://github.com/opal/opal) -Ruby到Javascript编译器.
-* [Rubinius](https://github.com/rubinius/rubinius)  -Ruby编程语言的实现.  Rubinius包括字节码虚拟机，Ruby语法解析器，字节码编译器，分代垃圾收集器，即时（JIT）本机代码编译器以及Ruby Core和Standard库.
+* [Rubinius](https://github.com/rubinius/rubinius)  -Ruby编程语言的实现.  Rubinius包括字节码虚拟机，Ruby语法解析器，字节码编译器，分代垃圾收集器，实时（JIT）本机代码编译器以及Ruby Core和Standard库.
 * [TruffleRuby](https://github.com/oracle/truffleruby)  -Ruby编程语言的高性能实现.  由Oracle Labs在GraalVM上构建.
 
 ## Internationalization
@@ -728,7 +729,7 @@
 * [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) -一个简单的Ruby on Rails插件，用于创建和管理Rails项目的面包屑导航.
 * [Gretel](https://github.com/lassebunk/gretel) -Ruby on Rails插件，可以轻松而灵活地创建面包屑.
 * [loaf](https://github.com/peter-murach/loaf) -在Rails应用程序中管理和显示面包屑跟踪-精简和卑鄙.
-* [Simple Navigation](https://github.com/codeplant/simple-navigation) -红宝石，可为Rails 2、3和4，Sintratra或Padrino创建导航（html列表，链接列表或具有多个级别的面包屑）.
+* [Simple Navigation](https://github.com/codeplant/simple-navigation) -红宝石，可为Rails 2、3和4，Sinatra或Padrino创建导航（HTML列表，链接列表或多级面包屑）.
 
 ## Networking
 
@@ -971,7 +972,7 @@
   * [decisiontree](https://github.com/igrigorik/decisiontree) -一个红宝石库，它实现了用于决策树学习的ID3（信息增益）算法.
 *公用事业
   * [algorithms](https://github.com/kanwei/algorithms) -包含有关何时使用特定结构/算法的文档的库.
-  * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) -Jaro-Winkler距离算法的Ruby＆C实现，该算法支持UTF-8字符串.
+  * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) -Jaro-Winkler距离算法的Ruby＆C实现，支持UTF-8字符串.
   * [primes-utils](https://github.com/jzakiya/primes-utils) -Rubygem，提供了一套非常快速的实用程序方法来测试和生成素数.
   * [Roots](https://github.com/jzakiya/roots) -一个Rubygem，它提供实用程序来查找实数值和复数值的所有n个根.
   * [smarter_csv](https://github.com/tilo/smarter_csv) -Ruby Gem，可以更聪明地将CSV文件导入为哈希数组.
@@ -1077,7 +1078,7 @@
   * [Mocha](https://github.com/freerange/mocha) -Mocha是Ruby的模拟和存根库.
   * [RR](https://github.com/rr/rr) -测试双重框架，具有丰富的双重技术选择和简洁的语法.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  -提供与Test :: Unit和RSpec兼容的单线，以测试常见的Rails功能.  否则，这些测试将更长，更复杂且容易出错.
-  * [Spinach](https://github.com/codegram/spinach) -Spinach是一个高级BDD框架，它利用表达性的Gherkin语言（由Cucumber使用）来帮助您定义应用程序或库接受标准的可执行规范.
+  * [Spinach](https://github.com/codegram/spinach) -Spinach是一个高级BDD框架，它利用富有表现力的Gherkin语言（由Cucumber使用）来帮助您定义应用程序或库接受标准的可执行规范.
   * [Spork](https://github.com/sporkrb/spork) -用于测试框架的DRb服务器（当前为RSpec / Cucumber）.
   * [Test::Unit](http://test-unit.github.io) -Test :: Unit是Ruby的xUnit系列单元测试框架.
 *假数据
@@ -1243,6 +1244,6 @@
 * [RubyFlow](http://www.rubyflow.com) -Ruby编程社区链接博客.
 * [Ruby Land](http://rubyland.news/) -维护良好的Ruby / Rails聚合器，其中包含新闻，观点，教程等.
 * [Ruby Rogues](https://devchat.tv/ruby-rogues) -有关编程的每周小组讨论，主要是在Ruby中进行.
-* [Ruby Weekly](https://rubyweekly.com/) - A free, once–weekly e-mail round-up of Ruby news and articles.
+* [Ruby Weekly](https://rubyweekly.com/) -每周一次的免费Ruby新闻和文章电子邮件摘要.
 * [The Ruby Bibliography](https://rubybib.org) -有关Ruby的研究论文.
-* [The Ruby Toolbox](https://www.ruby-toolbox.com) -面向Ruby开发人员的Ruby和Rails插件，gem，工具和资源的完整目录，其受欢迎程度基于GitHub观察者和Gem下载.
+* [The Ruby Toolbox](https://www.ruby-toolbox.com) -面向Ruby开发人员的Ruby和Rails插件，gem，工具和资源的完整目录，其流行度等级基于GitHub观察者和Gem下载.
