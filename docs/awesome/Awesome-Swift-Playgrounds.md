@@ -116,6 +116,7 @@
 ## WWDC Students Submissions
 *学生为WWDC奖学金提交的运动场*
 
+- [2019](https://github.com/wwdc/2019)
 - [2018](https://github.com/wwdc/2018)
 - [2017](https://github.com/wwdc/2017)
 - [2016](https://github.com/wwdc/2016)
@@ -180,7 +181,7 @@
 * [Emoji Intelligence](https://github.com/BilalReffas/EmojiIntelligence) -使用Swift在Apple Playground中内置的神经网络.   
 
 ## UIKit And Graphics
-*展示了UIKit和其他图形框架各个方面的游乐场列表*
+*演示了UIKit和其他图形框架各个方面的游乐场列表*
 
 * [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) -使用UIStackViews的有趣示例.
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) -一些游乐场，以更好地了解UIBezierPaths.
@@ -191,7 +192,7 @@
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity)  -显示一种使一个或多个UILabel后面的字符后面的图像模糊的技术.  ⏳
 * [Swift Clock](https://github.com/nickoneill/swiftclock)  -在一个快速的操场上的动画时钟.  ⏳
 * [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground)  -一个快速的游乐场，可为您的WatchKit Apps创建超赞的动画.  ⏳
-* [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example)  -显示如何使用Swift2协议扩展在UIViews和UIViewControllers中呈现错误，而无需子类化或创建类.  ⏳
+* [Swift 2.0 Protocol Extension Example](https://github.com/jhurray/Swift2-Protocol-Extension-Example)  -显示如何使用Swift2协议扩展在UIViews和UIViewControllers中呈现错误而无需子类化或创建类.  ⏳
 * [Tinting](https://github.com/Jesse-calkin/tinting)  -一个小操场，用于演示UIKit中的图像着色.  ⏳
 * [Ray tracing Playground](https://github.com/mhorga/Raytracing) -一个游乐场和有关射线追踪的一系列文章，另请参见 [2](https://github.com/mhorga/Raytracing2), [3](https://github.com/mhorga/Raytracing3), [4](https://github.com/mhorga/Raytracing4), [5](https://github.com/mhorga/Raytracing5)  ⏳
 * [WWDC16 Logo Playground](https://github.com/krutarth/WWDC16Logo)  -在操场上绘制WWDC16徽标.  ⏳
@@ -214,7 +215,7 @@
 * [WWDC Crowd Simulator 2017](https://github.com/neilsardesai/WWDC-Crowd-Simulator-2017) -一个SpriteKit实验来模拟WWDC2017徽标人群.
 * [Duet-Inspired Trail Effect](https://github.com/dionlarson/Duet-Trail-Effect-SpriteKit-Playground) -如何在SpriteKit中获得Duet风格的尾随效果.
 * [Additive Animations](https://github.com/d-ronnqvist/Additive-Animations-Playground)  -在“核心动画”中尝试多种加法动画.  ⏳
-* [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground)  -Apple的《核心动画编程指南》的补充.  ⏳
+* [Core Animation Playground](https://github.com/knightsc/CoreAnimationPlayground)  -随附于Apple的《核心动画编程指南》.  ⏳
 * [Core Animation Timing](https://github.com/Kentzo/CoreAnimationTiming) -展示CAMediaTiming属性效果的游乐场. 
 
 ### SpriteKit

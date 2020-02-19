@@ -462,7 +462,7 @@
 #### A individuals
 *亚伦·帕特森（Aaron Patterson）http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
-*阿布·阿什拉夫（Abu Ashraf）Masnun http://masnun.com/
+* Abu Ashraf Masnun http://masnun.com/
 *亚当·巴德https://adambard.com/blog/
 *亚当·莱文塔尔http://dtrace.org/blogs/ahl/
 *亚当·普莱默（Adam Tuliper）http://www.adamtuliper.com/
@@ -558,6 +558,7 @@
 
 #### G individuals
 * Gleb Bahmutov https://glebbahmutov.com/blog/
+* Glenn Engstrand http://glennengstrand.info
 *格雷厄姆·金https://www.darkcoding.net/
 * Grzegorz Gajos http://ggajos.com/
 * Guido van Rossum http://neopythonic.blogspot.com/
@@ -718,7 +719,8 @@
 #### S individuals
 * Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
-*谢尔盖·朱克http://sergeyzhuk.me/
+* Sergey Zhuk http://sergeyzhuk.me/
+* Schakko https://schakko.de
 * Scott Hanselman http://www.hanselman.com/blog/
 *斯科特·约翰逊（Scott Johnson）http://www.fuzzyblog.io/blog/
 *西蒙·雷姆勒（Simon Reimler）https://devdactic.com/devblog/

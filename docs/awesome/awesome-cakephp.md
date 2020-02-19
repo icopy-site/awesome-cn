@@ -252,7 +252,7 @@
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) -保留相关模型的选定字段的行为.
 - [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) -PHPExcel的ORM包装器.
 - [Robotusers/TableInheritance plugin](https://github.com/robotusers/cakephp-table-inheritance) -单表继承（STI）插件.
-- [RowLocker plugin](https://github.com/lorenzo/row-locker) -表中行的排他锁.
+- ：草莓： [RowLocker plugin](https://github.com/lorenzo/row-locker) -表中行的排他锁.
 - [Serializeable Data Types plugin](https://github.com/burzum/cakephp-serialize-data-types) -将数据库内容序列化为JSON或使用phps序列化函数.
 - ：草莓： [Muffin/Webservices ORM plugin](https://github.com/usemuffin/webservice) -类似于ORM的网络服务界面.
 

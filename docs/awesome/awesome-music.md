@@ -37,6 +37,7 @@
 * [Koel](https://github.com/phanan/koel) -开源个人音频流服务器.
 * [Lame](http://lame.sourceforge.net/) -高质量，免费和开源的MP3编码器.
 * [lltag](https://github.com/bgoglin/lltag) -自动命令行mp3 / ogg / flac文件标记器和重命名器.
+* [matchering](https://github.com/sergree/matchering) -标准化的Web应用程序和库，用于自动参考音频制作.
 * [MusicBrainz](https://musicbrainz.org) -用于音乐信息和元数据的开放百科全书，为所有内容提供唯一的ID
 * [Musikernel](https://github.com/j3ffhubb/musikernel) -未来的音频制作平台（硬件支持，API，主机，插件等）
 * [Rubyripper](https://github.com/bleskodev/rubyripper) -是用于类Unix操作系统的安全数字音频提取应用程序（“ cd开膛手”）.
@@ -147,4 +148,4 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Sharon Rosner](http://github.com/ciconia) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Sharon Rosner](http://github.com/ciconia) 已放弃此作品的所有版权以及相关或邻近的权利.

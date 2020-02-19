@@ -7,7 +7,7 @@
 
 &gt;精心策划了很棒的量化自我资源列表.
 
-The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，食物消耗，周围空气的质量），状态（例如，情绪，唤醒，血氧水平）和性能（精神和身体）方面将技术整合到有关人们日常生活方面的数据采集的运动.
+The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，所食用的食物，周围空气的质量），状态（例如，情绪，唤醒，血氧水平）和性能（精神和身体）方面将技术纳入人的日常生活方面的技术的运动.
 
  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论.
 
@@ -107,7 +107,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 ### Habits
 - [Habitica](https://habitica.com) -习惯跟踪应用程序，可将您的目标视为角色扮演游戏（网络，iOS和Android）.
 - [HabitBull](http://www.habitbull.com/) -一个简单的移动习惯跟踪应用程序，用于构建和跟踪条纹（iOS和Android）.
-- [Strides](http://www.stridesapp.com/) -通过SMART目标设置（网络，iOS）跟踪您的目标，习惯和项目的应用程序.
+- [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
 - [Habit List](http://habitlist.com/) -养成良好的习惯，打破坏习惯，建立更好的自己（iOS）.
 - [Streaks](https://streaksapp.com/) -可帮助您养成良好习惯（iOS）的待办事项列表.
 - [Taskade](https://taskade.com/)  -现代任务列表，可在您所有设备之间同步.  （网络，iOS，Android，Chrome，Mac和PC）.
@@ -131,7 +131,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Pocket](https://getpocket.com/)  -可让您保存文章以供日后阅读（Web，iOS，Android）.
 - [PhotoStats](http://www.photostats.io/) -使用机器学习（iOS，Android）以可视化方式进行照片跟踪，分析和自动标记.
 - [WordCounter](https://wordcounterapp.com/) -作家的字数跟踪器（Mac）. 
-- [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
+- [Podcast Tracker](http://www.podcasttracker.com/) -可让您记录，汇总和导出播客收听历史记录（Web）.
 
 ### Mind & Cognition
 - [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) -用于认知功能评估的经过科学验证的工具.
@@ -228,6 +228,8 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) -习惯追踪器和个人数据分析应用程序.
 - [BetterSelf](https://betterself.io) -用于跟踪补品和习惯的开源应用程序
 - [QS Ledger](https://github.com/markwk/qs_ledger) -使用Jupyter Notebook在Python上构建的开源个人数据聚合器和数据分析.
+- [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) -了解有关血液测试，生物标志物和技术及服务的更多信息，以帮助量化（并改善）您的健康状况！
+
 
 ## License
 

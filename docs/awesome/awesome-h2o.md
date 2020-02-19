@@ -4,7 +4,7 @@
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://raw.githubusercontent.com/h2oai/h2o-3)
 
-以下是精选的所有出色项目，应用程序，研究，教程，课程和书籍的清单 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供许多有监督和无监督机器学习算法的并行实现，例如通用线性模型，梯度提升机（包括XGBoost），随机森林，深度神经网络（深度学习），堆叠式集成，朴素贝叶斯，考克斯比例风险，K均值，PCA，Word2Vec以及全自动机器学习算法（AutoML）.
+以下是精选的所有出色项目，应用程序，研究，教程，课程和书籍的清单 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供了许多有监督和无监督机器学习算法的并行实现，例如通用线性模型，梯度提升机（包括XGBoost），随机森林，深度神经网络（深度学习），堆叠式集成，朴素贝叶斯，考克斯比例风险，K均值，PCA，Word2Vec以及全自动机器学习算法（AutoML）.
 
 [H2O.ai](http://www.h2o.ai/about/) 产生很多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) 和 [videos](https://www.youtube.com/user/0xdata) 有关H2O的内容，但以下列表由更大的H2O用户社区产生的精彩内容组成.
 
@@ -48,10 +48,11 @@
 
 ## Research Papers
 
-- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.biorxiv.org/content/10.1101/792754v1) 史蒂文·N·哈特（Steven N.Hart），埃里克·C·波利（Eric C.Polley），埃米拉·希梅利斯（Hermella Shimelis），悉达多·亚达夫（Siddhartha Yadav），弗格斯·J·库奇（Fergus J.
+- [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803)  塞巴斯蒂安·拉施卡（Sebastian Raschka），约书亚·帕特森（Joshua Patterson），科里·诺莱特（Corey Nolet）.  （2019）
+- [Prediction of the functional impact of missense variants in BRCA1 and BRCA2 with BRCA-ML](https://www.biorxiv.org/content/10.1101/792754v1)  史蒂文·N·哈特（Steven N.Hart），埃里克·C·波利（Eric C.  （2019）
 - [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970)  费尔南多·伊塔诺（Fernando Itano），里卡多·皮雷斯（Ricardo Pires），米格尔·安吉洛·德·阿布鲁乌·德·索萨（Miguel Angelo de Abreu de Sousa），埃米利奥·德尔·莫拉尔·埃尔南德萨（Emilio Del-Moral-Hernandeza）.  （2019）
 - [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)   费尔南多·伊塔诺（Fernando Itano），米格尔·安杰洛·德·阿布鲁乌·德·索萨（Emirio Del-Moral-Hernandez）.  （2018）
-- [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B.Auffenberg，Khurshid R.Ghani，Shreyas Ramani，礼宾，Brian Denton，Craig Rogers，Benjamin Stockton，David C.Miller，Karandeep Singh.  （2018）
+- [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B. Auffenberg，Khurshid R. Ghani，Shreyas Ramani，协议，Brian Denton，Craig Rogers，Benjamin Stockton，David C. Miller，Karandeep Singh.  （2018）
 - [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato，Christophe Dutang和Leonardo Petrini.  （2018）
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940)  Yuriy Kochura，Sergii Stirenko，Yuri Gordienko.  （2017）
 - [Algorithmic trading using deep neural networks on high frequency data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14)  AndrésArévalo，JaimeNiño，德国人Hernandez，Javier Sandoval，DiegoLeón，ArbeyAragón.  （2017）
@@ -102,4 +103,4 @@
 
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [H2O.ai](http://h2o.ai) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [H2O.ai](http://h2o.ai) 已放弃此作品的所有版权以及相关或邻近的权利.

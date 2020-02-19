@@ -3,7 +3,7 @@
 
 &gt;意大利精彩科技活动精选清单
 
-该列表包含在意大利发生的令人敬畏的（与技术相关的）事件，例如：会议，聚会，研讨会和聚会  
+此列表包含在意大利发生的令人敬畏的（与技术相关的）事件，例如：会议，聚会，研讨会和聚会  
 
  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论.
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
@@ -24,7 +24,7 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/archi
 - 14 - [Milano Live Coding](https://www.eventbrite.it/e/biglietti-milano-live-coding-14-gennaio-2020-87088150001) -Milano-使用three.js进行创意编码.
 - 21 - [Torino Hacknight](http://torino.hacknight.it/) -Torino-有关Userbase的开源hackaton.
 - 25 - [Modena Tech Summit](https://www.modenatechsummit.it/) -Modena-有关所有IT世界的技术大会.
-- 25-26 - [Hackafork](https://www.hackathon.com/event/hackafork-82168184251) -福诺沃·迪·塔罗（Fornovo di Taro）-第一批食品专用的意大利hackaton.
+- 25-26 - [Hackafork](https://www.hackathon.com/event/hackafork-82168184251) -Fornovo di Taro-第一批食品专用的意大利hackaton.
 - 27-28 - [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) -米兰-微软年度会议.
 -2月31日- [Global Game Jam](https://globalgamejam.org/) -多个地点-一个周末聚会并创建游戏.
 
@@ -48,9 +48,12 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/archi
 
 ## April
 - 2 - [Ruby Day](https://2020.rubyday.it/) -维罗纳-Ruby专用会议.
+- 2 - [BeConnected Day 2020](https://www.eventbrite.it/e/registrazione-beconnected-day-2020-92290708995) -米兰-智能通讯和现代化工作场所.
 - 2-5 - [PyCon XI](https://www.pycon.it/) -Firenze-Python的全国性会议.
 - 3 - [VueDay](https://2020.vueday.it/) -维罗纳-Vue专用会议.
 - 16-17 - [DroidCon](https://it.droidcon.com/2020/it) -Torino-意大利最大的Android活动.
+- 18-19 - [DevFest](https://devfest.gdgpisa.it/) -比萨-有关Google相关技术的会议.
+- 24 - [Global Azure Milan 2020](https://join.globalazure.net/events/48) -米兰-Azure和云计算.
 - 28-29 - [ItaliaSec](https://cyberseries.io/italiasec/) -米兰-这项具有开创意义的峰会是为高级安全领导而设计的.
 
 ## May

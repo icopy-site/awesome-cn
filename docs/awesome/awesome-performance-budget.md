@@ -65,8 +65,9 @@
 - [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) -在构建响应式网站时进行了优化.
 - [Treebo PWA Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299/) -Treebo-React and Preact PWA性能案例研究.
 - [Twitter Lite](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3/) -大规模的Twitter Lite Web App.
-- [Netflix Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) -Netflix网络性能案例研究.
+- [Netflix - Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) -Netflix网络性能案例研究.
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) -改善《电讯报》的第三方网络性能.
+- [Uber Eats - Performance Improvements](https://eng.uber.com/uber-eats-com-web-app-rewrite/) -计算卡路里：我们如何改善UberEats.com的性能和开发人员体验.
 
 ## License
 

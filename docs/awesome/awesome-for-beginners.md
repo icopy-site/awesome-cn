@@ -16,8 +16,8 @@
 
 ## .NET
 
-- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In)  _（标签：跳入）_ <br>  应该测试.net-声明*应该*的方式！
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  用于跨平台解决方案的.NET MVVM框架，包括Xamarin.iOS，Xamarin.Android，Windows和Mac.
+- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In)  _（标签：跳入）_ <br>  应该测试.net-声明*应该*的方式！
 
 ## C
 
@@ -78,10 +78,10 @@
 
 ## JavaScript
 
-- [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  OpenStreetMap的规范通用品牌名称
+- [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue) _(label: good first issue)_ <br> Canonical common brand names for OpenStreetMap
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  JavaScript中易于使用的OpenStreetMap编辑器.
 - [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Mission Control是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
-- [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动网络应用程序，可将希望运送包裹的DAV用户与可在开放和自由市场中寻找工作的自动无人机连接起来.
+- [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动网络应用程序，可将希望运送包裹的DAV用户与可在开放和免费市场中寻找工作的自动无人机连接起来.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  流行的语音识别库用于与从网站到智能镜像再到无人机的各种通信.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only)  _（标签：仅限首次）_ <br>  PouchDB是一个袖珍数据库.
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  适用于移动设备的交互式地图的JavaScript库.
@@ -149,7 +149,7 @@
 
 ## Kotlin
 
-- [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
+- [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Kotlin的多平台断言库
 - [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted)  _（标签：需要帮助）_ <br>  用Kotlin编写的微服务工具包
 
 ## LaTeX
@@ -171,6 +171,7 @@
 - [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Symfony是用于Web应用程序的PHP框架和一组可重用的PHP组件.
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一个软件包，提供了将MailChimp与Laravel 5集成的简便方法.
 - [Appwrite](https://github.com/appwrite/appwrite/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  适用于前端和移动开发人员的端到端后端服务器. 
+- [NextCloud Server](https://github.com/nextcloud/server/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Nextcloud服务器，所有数据的安全之家.
 
 ## Python
 
@@ -189,10 +190,10 @@
 - [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy)  _（标签：状态：简单）_ <br>  pytest框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit)  _（标签：低挂水果）_ <br>  Pythonic远程执行和部署.
 - [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Jupyter交互式笔记本.
-- [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  旨在开发端到端的肺癌检测应用程序，将机器学习的预测能力与针对错误进行测试的功能软件以及专注于临床用途的干净用户界面相连接.
+- [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  旨在开发一种端到端的肺癌检测应用程序，将机器学习的预测能力与针对错误进行测试的功能软件以及专注于临床用途的干净用户界面相连接.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  强大的开源群聊.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit)  _（标签：低挂水果）_ <br>  一个命令行实用程序，可从cookiecutter（项目模板）创建项目.  例如Python封装项目，jQuery插件项目.
-- [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest)  _（标签：django hacktober特集）_ <br>  用于后端Web开发的Python实现.
+- [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：等级：入门者）_ <br>  有史以来最严格，最自以为是的python linter！
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
 - [Create aio app](https://github.com/aio-libs/create-aio-app/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  使用最佳实践创建aiohttp模板的命令行实用程序.
@@ -207,7 +208,7 @@
 
 ## Ruby
 
-- [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
+- [JRuby](https://github.com/jruby/jruby/labels/beginner)  _（标签：初学者）_ <br>  Ruby在Java虚拟机上的实现.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  优雅的Web开发采用DSL.
 - [Goby](https://github.com/nskins/goby)  _（标签：初学者）_ <br>  开发文本RPG的框架.
 - [Hanami](https://github.com/hanami/hanami/labels/easy)  _（标签：简单）_ <br>  Ruby的现代框架.

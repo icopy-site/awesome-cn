@@ -17,7 +17,7 @@
 
 
 *虚假*文章是对特定主题的评论形式，
-受到开发者社区的广泛赞赏，因为它们的有效性
+受到开发者社区的广泛赞赏，因为它们的有效性和
  简洁.  它们是处理不熟悉领域的便捷书面形式
 通过消除神话，指出常见的陷阱，表现出矛盾和
 subtleties.
@@ -62,7 +62,7 @@ subtleties.
 与定义汽车一样常见的东西充满了陷阱.
 - [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -货币
 由于起义，入侵，新宪法和
-计划采用的速度缓慢.
+计划采用的速度缓慢
 - [`tax`](https://github.com/commerceguys/tax) -PHP 5.4+税收管理
 library.
 
@@ -107,6 +107,7 @@ leap秒！
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) -臭名昭著
 关于复杂的历史时区以及如何实现的堆栈溢出答案
 历史日期可以由较新版本的软件重新解释.
+- [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) -从Y2K到unix时代开始的32位秒溢出，这是一个特殊日期列表，要视系统而定.
 
 
 ## Education
