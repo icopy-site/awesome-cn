@@ -129,13 +129,14 @@
 * [HTTPlug](http://httplug.io) -没有绑定到特定实现的HTTP客户端抽象.
 * [PHP VCR](https://php-vcr.github.io/) -用于记录和重放HTTP请求的库.
 * [Requests](https://github.com/rmccue/Requests) -一个简单的HTTP库.
-* [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+* [Retrofit](https://github.com/tebru/retrofit-php) -简化REST API客户端创建的库.
 * [Symfony HTTP Client](https://github.com/symfony/http-client) -同步或异步获取HTTP资源的组件.
 * [zend-diactoros](https://github.com/zendframework/zend-diactoros) -PSR-7 HTTP消息实现.
 
 ### Scraping
 *用于抓取网站的库.*
 
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) -超快速的HTML抓取器/解析器（因为它是在纯PHP之上构建的）.
 * [Embed](https://github.com/oscarotero/Embed) -任何Web服务或页面的信息提取器.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) -简单的网页抓取工具.
 * [Symfony Panther](https://github.com/symfony/panther) -用于PHP和Symfony的浏览器测试和Web爬网库.
@@ -291,7 +292,7 @@
 * [PHP Parser](https://github.com/nikic/PHP-Parser) -用PHP编写的PHP解析器.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) -命令行实用程序，用于比较两个源集并确定要应用的适当语义版本.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) -快速测量PHP项目大小的工具.
-* [PHPQA](https://github.com/EdgedesignCZ/phpqa) -一种用于运行质量检查工具的工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）.
+* [PHPQA](https://github.com/EdgedesignCZ/phpqa) -用于运行质量检查工具的工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）.
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) -可视化指标和源代码的工具.
 * [Rector](https://github.com/rectorphp/rector) -升级和重构代码的工具.
 * [Scrutinizer](https://scrutinizer-ci.com/) -网页工具 [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
@@ -303,7 +304,7 @@
 * [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) -检测PHP，CSS和JS编码标准违规的库.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) -编码标准修复程序库.
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) -一个库，可扫描代码中的错误，次优代码，未使用的参数等.
-* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) -帮助遵守某些编码约定的工具.
+* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) -检测复制和粘贴代码的库.
 
 ### Static Analysis
@@ -457,7 +458,7 @@
 * [Eloquent](https://github.com/illuminate/database) -一个简单的ORM（L6）.
 * [Pomm](https://github.com/chanmix51/Pomm) -PostgreSQL的对象模型管理器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) -一组实用程序，用于为数据映射器生成代理对象.
-* [RedBean](https://redbeanphp.com/index.php) -轻量级，无配置的ORM.
+* [RedBean](https://redbeanphp.com/index.php) -轻量级，无需配置的ORM.
 * [Spot2](https://github.com/spotorm/spot2) -MySQL数据目录ORM.
 
 ### Migrations
@@ -651,7 +652,7 @@
 * [Laravel Vapor](https://vapor.laravel.com/) -由AWS支持的Laravel无服务器部署平台.
 
 ## Configuration
-*用于配置的库和工具.*
+*Libraries and tools for configuration.*
 
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) -从.env文件中解析并加载环境变量.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)-从.env文件中解析并加载环境变量.
@@ -784,7 +785,7 @@
 * [PHP School](https://www.phpschool.io/) -PHP的开源学习.
 * [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) -PHP安全性指南.
 * [PHP The Right Way](https://phptherightway.com/) -PHP最佳做法快速参考指南.
-* [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
+* [PHP UG](https://php.ug) -一个帮助人们找到离他们最近的PHP用户组（UG）的网站.
 * [PHP Versions](http://phpversions.info/) -列出了几个流行的Web主机上可用的PHP版本.
 * [PHP Weekly](http://www.phpweekly.com/archive.html) -每周的PHP新闻通讯.
 * [Securing PHP](https://www.securingphp.com/) -有关PHP安全性和库建议的新闻通讯.
@@ -811,10 +812,10 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
-* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了XML文档的解析和验证，XPath表达式的使用以及名称空间的使用，以及如何以编程方式创建和修改XML文件.
+* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了解析和验证XML文档，利用XPath表达式以及使用名称空间以及如何以编程方式创建和修改XML文件的方法.
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) -用PHP编写的真实示例展示了DDD建筑风格.
 
 ### Other Books

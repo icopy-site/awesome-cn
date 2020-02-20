@@ -13,6 +13,7 @@
 
 
 
+
 - - -
 
 ## Shells
@@ -55,7 +56,7 @@
 * [zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) -使用zsh和zgen的简单zsh快速入门.
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) -鱼壳，如Zsh的语法突出显示.
 * [zshdb](https://github.com/rocky/zshdb) -ZSH调试器.
-* [ztanesh](https://github.com/miohtama/ztanesh) -旨在通过ztanesh项目提供的配置来改善UNIX命令行体验和工作效率.
+* [ztanesh](https://github.com/miohtama/ztanesh) -旨在通过ztanesh项目提供的配置来改善UNIX命令行体验并提高工作效率.
 * [zulu](https://github.com/zulu-zsh/zulu) -ZSH 5+的总环境经理.
 * [zunit](https://github.com/molovo/zunit) -强大的ZSH单元测试框架.
 
@@ -100,7 +101,7 @@
 * [Go2Shell](https://zipzapmac.com/Go2Shell) -在Finder中打开一个终端窗口到当前目录.
 * [Hyper](https://github.com/zeit/hyper) -基于网络技术的终端.
 * [iTerm2](https://github.com/gnachman/iTerm2) -适用于macOS的终端模拟器，可完成出色的工作.
-* [KiTTY](http://kitty.9bis.net/) -从世界上最好的telnet / SSH客户端PuTTY 0.70版本分支.
+* [KiTTY](http://kitty.9bis.net/) -从世界上最好的telnet / SSH客户端PuTTY 0.70版本中派生出来.
 * [Konsole](https://konsole.kde.org/) -K桌面环境的终端仿真器.
 * [MacTerm](https://www.macterm.net/) -强大的macOS终端替代品.
 * [Mosh](https://github.com/mobile-shell/mosh) -允许漫游并支持间歇性连接的远程终端应用程序.
@@ -132,7 +133,7 @@
 * [npmjs](https://www.npmjs.com/) -JavaScript的软件包管理器.
 * [pip](https://pip.pypa.io/) -软件包管理系统，用于安装和管理以Python编写的软件包.
 * [rubygems](https://rubygems.org/) -Ruby社区的gem托管服务.
-* [yarn](https://yarnpkg.com/en/) -用于javascript的新程序包和依赖项管理器.
+* [yarn](https://yarnpkg.com/en/) -javascript的新程序包和依赖项管理器.
 
 ### macOS
 

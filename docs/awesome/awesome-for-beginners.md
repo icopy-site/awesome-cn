@@ -17,6 +17,7 @@
 ## .NET
 
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  用于跨平台解决方案的.NET MVVM框架，包括Xamarin.iOS，Xamarin.Android，Windows和Mac.
+- [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  RawCMS是用ASP.NET Core编写的无头CMS，专为采用API优先技术的开发人员而设计.
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In)  _（标签：跳入）_ <br>  应该测试.net-声明*应该*的方式！
 
 ## C
@@ -51,7 +52,7 @@
 ## Elixir
 
 - [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter)  _（标签：级别：入门者）_ <br>  Elixir是一种动态的功能语言，旨在构建可扩展和可维护的应用程序
-- [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter)  _（标签：级别：入门者）_ <br>  Ecto是Elixir的数据库包装器和语言集成查询
+- [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
 
 ## Go
 
@@ -141,6 +142,7 @@
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  适用于所有平台的功能丰富的美丽GraphQL客户端.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Angular＆Electron应用程序，用于在PC上浏览和搜索视频.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy)  _（标签：简单）_ <br>  回合制策略游戏，您可以3D打印具有独特能力的生物小队，以击败敌人.
+- [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs)  _（标签：争抢）_ <br>  具有实时二叉树视觉效果的交互式代码编辑器，旨在教会新开发人员动态编程的基础.
 
 ## Julia
 
@@ -193,7 +195,7 @@
 - [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  旨在开发一种端到端的肺癌检测应用程序，将机器学习的预测能力与针对错误进行测试的功能软件以及专注于临床用途的干净用户界面相连接.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  强大的开源群聊.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit)  _（标签：低挂水果）_ <br>  一个命令行实用程序，可从cookiecutter（项目模板）创建项目.  例如Python封装项目，jQuery插件项目.
-- [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
+- [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest)  _（标签：django hacktober特集）_ <br>  用于后端Web开发的Python实现.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：等级：入门者）_ <br>  有史以来最严格，最自以为是的python linter！
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
 - [Create aio app](https://github.com/aio-libs/create-aio-app/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  使用最佳实践创建aiohttp模板的命令行实用程序.

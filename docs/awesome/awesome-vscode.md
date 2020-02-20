@@ -89,7 +89,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 &gt; VS Code的流行Intellij IDEA键绑定.
 
-## [Camel Humps](http://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
+## [Camel Humps](https://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
 
 &gt;与Visual Studio和Resharper或Intellij IDEA一样
 
@@ -109,6 +109,19 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 ## 1C
 
 - [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) -VSC中丰富的1С：Enterprise 8（BSL）语言支持-向VSC中的* .bslи* .os文件添加语法高亮显示，为1Сlang添加IntelliSense和语法帮助器
+
+## AutoHotkey
+
+### [AutoHotkey](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey)
+ &gt;语言支持.  语法突出显示，注释和摘要
+
+### [AutoHotkey++](https://marketplace.visualstudio.com/items?itemName=vinnyjames.vscode-autohotkey-vj)
+&gt;转到定义，签名助手和代码格式化程序
+
+### [AutoHotkey Manager](https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager)
+ &gt;开发ahk脚本所需的全部.  与AHK可执行文件交互的扩展
+
+![AutoHotkey Manager](https://raw.githubusercontent.com/Denis-net/vscode-ahk-manager/master/media/vs-ahk-manager.gif)
 
 ## Bash
 
@@ -162,7 +175,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ![CSS Peek](https://github.com/pranaygp/vscode-css-peek/blob/master/working.gif)
 
-- [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) -Lint CSS / SCSS.
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) -Lint CSS / SCSS.
 - [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
   解析CSS，SCSS，LESS并自动添加供应商前缀.
   ![Autoprefixer](https://cloud.githubusercontent.com/assets/7034281/16823311/da82a3c6-496b-11e6-8d95-0bebbf0b9607.gif)
@@ -194,7 +207,6 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 ## JavaScript
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
-- [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode#overview) -从Sublime Text移植的Babel扩展
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) -该扩展程序提供了AI辅助的开发功能，包括自动完成和基于了解您的代码上下文的其他见解.
 ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
@@ -220,7 +232,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-&gt; VS Code扩展名，用于在Chrome浏览器或其他支持Chrome调试协议的目标中调试JavaScript代码.
+&gt; VS Code扩展程序，用于在Chrome浏览器或支持Chrome调试协议的其他目标中调试JavaScript代码.
 
 ## Markdown
 
@@ -344,10 +356,6 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 &gt;标记线条并跳转到它们
 
-![Bookmarks command screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-commands.png)
-
-![Bookmarks toogle screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
-
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
 &gt;大型项目或Monorepos的扩展程序，可根据当前软件包为选项卡/标题栏着色
@@ -368,7 +376,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
-> Ability to duplicate files and directories.
+&gt;能够复制文件和目录.
 
 ## [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
@@ -390,8 +398,6 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 ## [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
 &gt;查看git日志，文件或行的历史记录
-
-![View git log, file or line history animation](https://raw.githubusercontent.com/DonJayamanne/gitHistoryVSCode/master/images/fileHistoryCommand.gif)
 
 ## [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
 
@@ -543,6 +549,11 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ![Switch between projects screenshot](https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/project-manager-commands.png)
 
+## [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+&gt;突出显示逗号，制表符，分号和管道分隔文件中的列，使用CSVLint进行一致性检查和lint，多光标列编辑，列修剪和重新对齐以及使用RBQL进行SQL样式查询.
+
+![Rainbow CSV](https://i.imgur.com/PRFKVIN.png)
+
 ## [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 
 &gt;允许用户打开容器，远程计算机，容器或Windows Subsystem for Linux（WSL）中的任何文件夹，并利用VS Code的全部功能集.
@@ -579,7 +590,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
-&gt;自动时间跟踪器和生产力仪表板，显示您在每个项目，文件，分支和语言中编码的时间.
+&gt;自动时间跟踪器和生产率仪表板，显示您在每个项目，文件，分支和语言中编码的时间.
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
@@ -615,7 +626,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ### [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
 
-&gt;将html转换为在Visual Studio Code中插入，不再需要使用外部页面.
+&gt;将html转换为在Visual Studio Code中显示的内容，再也不用使用外部页面了.
 
 ## [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
 
@@ -658,7 +669,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 ![Bracket Pair Colorizer](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
 
 ## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-> Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
+ &gt;自动查找，解析并提供所有可用导入的代码操作和代码完成.  与Typescript和TSX一起使用.
 
 ![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
 
@@ -700,7 +711,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
- &gt; VS Code的浏览器预览，使您可以在编辑器中打开可以调试的真实浏览器预览.  浏览器预览由Chrome Headless驱动，并通过在新过程中启动无头Chrome实例来工作.  这提供了一种在VS Code中呈现Web内容的安全方法，并启用了有趣的功能，如编辑器内调试等！
+> Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
 
 ![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
 
@@ -858,7 +869,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ### [2077 theme by Endormi](https://vscodethemes.com/e/Endormi.2077-theme)
 
-Cyberpunk 2077 inspired theme
+赛博朋克2077灵感主题
 
 <a href="https://vscodethemes.com/e/Endormi.2077-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/endormi.2077-theme.png" width="600" />
@@ -898,7 +909,7 @@ VSCode主题的灵感来自遥远的星系...
 
 ### [Ayu by teabyii](https://vscodethemes.com/e/teabyii.ayu)
 
-一个简单的主题具有鲜艳的色彩，并提供三种版本-黑暗，明亮和海市rage楼，为您提供一整天的舒适工作.
+A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
 
 <a href="https://vscodethemes.com/e/teabyii.ayu">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/teabyii.ayu.png" width="600" />
@@ -938,7 +949,7 @@ VSCode主题的灵感来自遥远的星系...
 
 ### [Edge by Bogdan Lazar](https://vscodethemes.com/e/bogdanlazar.edge)
 
-一个简单的主题，具有鲜艳的色彩，可分为三种类型-夜空，宁静和海洋，全天候舒适地工作.
+一个简单的主题，具有鲜艳的色彩，有三种变体-夜空，宁静和海洋，全天候舒适工作.
 
 <a href="https://vscodethemes.com/e/bogdanlazar.edge">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/bogdanlazar.edge-theme.png" width="600" />
@@ -1018,7 +1029,7 @@ Monokai启发的主题 [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
 
- 夜猫子的VS Code主题.  在白天也可以很好地工作，但是对于那些喜欢在深夜编码的人来说，这个主题是微调的.  颜色选择已考虑到色盲和弱光环境下人们可以访问的内容.  决策还基于有意义的对比来进行阅读理解和最佳的眼花乱.  ✨
+ 夜猫子的VS Code主题.  在白天也可以很好地工作，但是对于那些喜欢在深夜编码的人来说，此主题是微调的.  颜色选择已考虑到色盲和弱光环境下人们可以访问的内容.  决策还基于有意义的对比来进行阅读理解和最佳的眼花乱.  ✨
 
 <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/night-owl.png" width="600" />
@@ -1050,7 +1061,7 @@ Monokai启发的主题 [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.
 
 ### [Relaxed Theme by Michael Kühnel](https://vscodethemes.com/e/mischah.relaxed-theme)
 
-一个轻松的主题，可以更轻松地查看事物.
+A relaxed theme to take a more relaxed view of things.
 
 <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/relaxed-theme.png" width="600" />
@@ -1058,7 +1069,7 @@ Monokai启发的主题 [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.
 
 ### [Shades of Purple by Ahmad Awais](https://vscodethemes.com/e/ahmadawais.shades-of-purple)
 
- ⚡一个专业的主题，带有经过手工挑选的大胆的紫色阴影，以及您的VS Code.  具有样式的自定义VS Code主题.
+ ⚡一个专业的主题，带有经过手工挑选的紫色粗体阴影，以及您的VS Code.  具有样式的自定义VS Code主题.
 
 <a href="https://vscodethemes.com/e/ahmadawais.shades-of-purple">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/ahmadawais.shades-of-purple.png" width="600" />
@@ -1088,13 +1099,13 @@ Tinacious设计语法是一种语法主题，它使用明亮的调色板进行�
 #### Dark 
   
 <a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
-  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-syntax-theme-vscode-dark.png" width="600" />
+  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/master/images/tinacious-syntax-theme-vscode-dark.png" width="600" />
 </a>
 
 #### Light 
 
 <a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
-  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/raw/master/images/tinacious-light-syntax-theme-vscode.png" width="600" />
+  <img src="https://raw.githubusercontent.com/tinacious/vscode-tinacious-design-syntax/master/images/tinacious-light-syntax-theme-vscode.png" width="600" />
 </a>
 
 
@@ -1135,7 +1146,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 ## Tools
 
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) -Visual Studio Live Share使您能够与他人实时进行协作式编辑和调试，无论您使用的是哪种编程语言或正在构建的应用程序类型.
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) -通过Visual Studio Live Share，您可以与他人实时进行协作式编辑和调试，无论您使用的是哪种编程语言或正在构建的应用程序类型.
 - [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) -由于VS Code支持TextMate主题，因此您可以在此在线编辑器中创建主题，然后使用创建新的VS Code包 [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) 工具
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 - [Open in Code](https://github.com/sozercan/OpenInCode) -macOS Finder工具栏应用程序可在Visual Studio Code中打开当前文件夹
