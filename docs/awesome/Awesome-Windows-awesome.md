@@ -5,12 +5,10 @@
 
 &gt;精选的Windows最佳应用程序和工具清单.
 
-&gt; *这个很棒的存储库是从ichait [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
-&gt; *特别感谢 [egeerardyn](https://github.com/egeerardyn).*
-
  &gt; *请考虑支持我的工作，因为要花费大量精力来生成此列表！  非常感谢.
 
-<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
+
+<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
  &gt; *标有！[开源软件] [OSS图标]的项目是开源软件.  标有！[免费软件] [免费软件图标]的项目是免费的.*
 
@@ -35,7 +33,7 @@
 - [Musicbee](http://getmusicbee.com/) -与iTunes类似，但比iTunes更好.
 - [MusicBrainz Picard](https://picard.musicbrainz.org/)  -Picard是一种跨平台的音乐标记器，用于查找和重写元数据标记.  [！[开源软件] [OSS图标]]（https://github.com/metabrainz/picard）！[免费软件] [免费软件图标]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
-- [Reaper](http://www.reaper.fm/download.php) -具有深度功能集的轻型应用程序，用于个人，非营利性或小型企业的价格为60美元.
+- [Reaper](http://www.reaper.fm/download.php) -具有深度功能集的轻量级应用程序，用于个人，非盈利或小型企业的价格为60美元.
 - [Resonic](https://resonic.at/) -快速和免费的音频播放器.
 - [VLC](http://www.videolan.org/vlc/index.html)  -免费的媒体播放器，效果很好.  [！[开源软件] [OSS图标]]（https://www.videolan.org/vlc/download-sources.html）！[免费软件] [免费软件图标]
 - [Winamp](http://www.winamp.com/)  -能够播放MP3，MP2，WAV，VOC和MIDI文件的音乐播放器.  ！[免费软件] [免费软件图标]
@@ -63,11 +61,11 @@
 ### Customization
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)  -允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能.  ！[免费软件] [免费软件图标]
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000一样.[！[开源软件] [OSS图标]]（https://github.com/passionate-coder/Classic-Start）！[免费] [免费软件]
+- [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000一样.[！[开源软件] [OSS图标]]（https://github.com/passionate-coder/Classic-Start）！[免费软件] [免费软件图标]
 - [Clover](http://en.ejie.me/)  -将多标签功能添加到Windows资源管理器.  ！[免费软件] [免费软件图标]
-- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  -通过系统托盘进行每个应用程序的音量控制.  [！[开源软件] [OSS图标]]（https://github.com/File-New-Project/EarTrumpet）！[免费软件] [免费软件图标]
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  -从系统托盘按应用程序音量控制.  [！[开源软件] [OSS图标]]（https://github.com/File-New-Project/EarTrumpet）！[免费软件] [免费软件图标]
 - [QTTabBar](http://qttabbar.wikidot.com/)  -通过标签和额外的文件夹视图扩展资源管理器.  ！[免费软件] [免费软件图标]
-- [Rainmeter](https://www.rainmeter.net/)  -Rainmeter使您可以在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器.  [！[开源软件] [OSS图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
+- [Rainmeter](https://www.rainmeter.net/)  -Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器.  [！[开源软件] [OSS图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
 - [Search Deflector](https://github.com/spikespaz/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  [！[开源软件] [OSS图标]]（https://github.com/spikespaz/search-deflector）！[免费软件] [免费软件图标]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)  -使Windows任务栏透明.  [！[开源软件] [OSS图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)  -可让您更改Windows 10登录屏幕的背景.  [！[开源软件] [OSS图标]]（https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer）！[免费软件] [免费软件图标]
@@ -121,7 +119,7 @@
 - [Tower](https://www.git-tower.com/windows) -塔-Mac和Windows上最强大的Git客户端.
 - [Vagrant](https://www.vagrantup.com/)  -用于构建和管理虚拟机的工具.  [！[开源软件] [OSS图标]]（https://github.com/mitchellh/vagrant）
 - [Velocity](http://velocity.silverlakesoftware.com/)  -离线API文档工具.  （喜欢 [Dash](https://kapeli.com/dash) 对于macOS）
-- [Visual Studio Code](https://code.visualstudio.com/) -轻量级源代码编辑器.
+- [Visual Studio Code](https://code.visualstudio.com/)  -轻量级源代码编辑器.  [！[开源软件] [OSS图标]]（https://github.com/Microsoft/vscode）！[免费软件] [免费软件图标]
 - [Visual Studio](https://www.visualstudio.com/) -终极Microsoft开发人员工具.
 - [Wamp](http://www.wampserver.com/en/) -Web开发环境.
 - [WinSCP](https://winscp.net/)  -免费的开源SFTP，FTP，WebDAV和SCP客户端.  ！[免费软件] [免费软件图标]
@@ -168,8 +166,8 @@
 - [Origin](https://www.origin.com/en-in/store/) -与Steam类似，但适用于EA.
 - [Steam](http://store.steampowered.com/)  -最大的在线视频游戏零售商.  桌面应用程序可让您整理游戏库并随时播放.  但是你已经知道了.
 - [Unity](https://unity3d.com/)  -免费游戏引擎.  易于使用，并带有许多教程.
-- [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)  -另一个免费游戏引擎.  大量的文档资料而且更容易获取，但是当您从基于UE的游戏中赚钱时，您需要向Unreal支付5％的版税.
-- [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
+- [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)  -另一个免费游戏引擎.  大量的文档资料而且更容易获取，但是当您从基于UE的游戏中赚钱时，您需要向Unreal支付5％的专利使用费.
+- [Warsow](https://www.warsow.net/)  -适用于Windows的免费和快节奏的FPS游戏.  ！[免费软件] [免费软件图标]
 
 ### Graphics
 
@@ -199,7 +197,7 @@
 - [CLion](https://www.jetbrains.com/clion/) -使用Cmake作为构建系统的C / C ++智能跨平台IDE.
 - [Eclipse](https://eclipse.org/downloads/)  -强大的IDE.  [！[开源软件] [OSS图标]]（https://git.eclipse.org/c/）！[免费软件] [免费软件图标]
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)  -具有免费社区版的现代Java IDE.  [！[开源软件] [OSS图标]]（https://github.com/JetBrains/intellij-community）！[免费软件] [免费软件图标]
-- [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
+- [NetBeans IDE](https://netbeans.org/)  -一个免费的开源IDE.  [！[开源软件] [OSS图标]]（https://netbeans.org/community/sources/）！[免费软件] [免费软件图标]
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) -具有主要框架支持的闪电智能PHP IDE.
 - [PyCharm](https://www.jetbrains.com/pycharm)  -具有免费社区版的专业开发人员的Python IDE.  [！[开源软件] [OSS图标]]（https://github.com/JetBrains/intellij-community/tree/master/python）！[免费软件] [免费软件图标]
 - [Rider](https://www.jetbrains.com/rider/) -跨平台的.NET / Mono IDE.
@@ -212,7 +210,7 @@
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) -能够同步超过100,000个文件，并支持文件名中的特殊字符和长度超过256个字符的文件路径.
 - [Dropbox](https://www.dropbox.com/install) -简单，优雅，通用的（PC，Mac，Android ...）云存储解决方案.
 - [Google Drive](https://www.google.com/drive/download/) -深度集成在Google生态系统中的云存储解决方案.
-- [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
+- [pCloud](https://www.pcloud.com)  -基于瑞士的隐私优先的云提供商.  还提供一次性付款终身计划.
 - [Sync](https://www.sync.com/) -将所有文件存储在加拿大数据中心中的加密文件存储
 - [Mega](https://mega.nz/) -加密的文件存储.
 - [Mozy](https://mozy.com/product/download)
@@ -233,7 +231,7 @@
 - [Cold Turkey](https://getcoldturkey.com)  -唯一分散注意力的网站阻止者.  （即使启用了阻止功能，您也无法卸载它）.
 - [CommandTrayHost](https://github.com/rexdf/CommandTrayHost)  -Windows的命令行程序监视系统.  [！[开源软件] [OSS图标]]（https://github.com/rexdf/CommandTrayHost）！[免费软件] [免费软件图标]
 - [CopyQ](https://hluk.github.io/CopyQ/)  -具有高级功能的剪贴板管理器.  [！[开源软件] [OSS图标]]（https://github.com/hluk/CopyQ）！[免费软件] [免费软件图标]
-- [Ditto](http://ditto-cp.sourceforge.net/) -剪贴板经理.
+- [Ditto](http://ditto-cp.sourceforge.net/) - Clipboard manager.
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) -在应用程序实例之间快速切换.
 - [Everything](http://www.voidtools.com/) -按名称最快的文件/文件夹搜索工具.
 - [Executor.dk](http://executor.dk/)  -免费的多用途可定制且轻便的发射器.  ！[免费软件] [免费软件图标]
@@ -259,7 +257,7 @@
 
 - [Alacritty](https://github.com/jwilm/alacritty) -跨平台，GPU加速的终端仿真器[！[开源软件] [OSS图标]]（https://github.com/jwilm/alacritty）！[免费软件] [免费软件图标]
 - [Babun](http://babun.github.io)  -基于Cygwin的替代Windows Shell.  [！[开源软件] [OSS图标]]（https://github.com/babun/babun）！[免费软件] [免费软件图标]
-- [Cmder](https://cmder.net)  -带有clink外壳的控制台仿真器程序包.  [！[开源软件] [OSS图标]]（https://github.com/cmderdev/cmder）！[免费软件] [免费软件图标]
+- [Cmder](https://cmder.net)  -带有clink外壳的控制台仿真器软件包.  [！[开源软件] [OSS图标]]（https://github.com/cmderdev/cmder）！[免费软件] [免费软件图标]
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) -为Windows控制台设置自定义配色方案，并支持iTerm配色方案.
 - [ConEmu](https://github.com/Maximus5/ConEmu) -具有选项卡，拆分，地震样式等的可定制终端.
 - [ConsoleZ](https://github.com/cbucher/console) -控制台2的修改版本，以获得更好的体验和更好的视觉效果.
@@ -286,12 +284,13 @@
 - [CleanMyPC](http://macpaw.com/cleanmypc) -立即清洁计算机.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html)  -免费的多合一CPU监控工具.  ！[免费软件] [免费软件图标]
 - [Ext2Fsd](http://www.ext2fsd.com/)  -Windows的开源ext3 / 4文件系统驱动程序.  [！[开源软件] [OSS图标]]（https://github.com/matt-wu/Ext3Fsd）！[免费软件] [免费软件图标]
+- [ExifCleaner](https://exifcleaner.com)  -通过拖放操作从图像和视频中删除exif元数据.  [！[开源软件] [OSS图标]]（https://github.com/szTheory/exifcleaner）！[免费软件] [免费软件图标]
 - [Far](http://www.farmanager.com/index.php?l=en)  -文件和存档管理器.  诺顿指挥官的克隆.  [！[开源软件] [OSS图标]]（http://sourceforge.net/projects/farmanager/）
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) -支持多种格式的无损文件大小优化器.
 - [Fraps](http://www.fraps.com/)-视频游戏捕获屏幕录像机，可与所有使用DirectX或OpenGL技术的游戏一起使用.
 - [FreeFileSync](http://www.freefilesync.org/) -一种用于文件和文件夹的简便备份解决方案，它支持源/目标之间的镜像/双向同步/更新.
 - [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的查询搜索文件的命令行工具.
-- [Glary Utilities](http://www.glarysoft.com/) -提供ccleaner中不存在的许多更高级的功能.
+- [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
 - [GPU-Z](http://www.techpowerup.com/gpuz/)  -免费的多合一GPU监控工具.  ！[免费软件] [免费软件图标]
 - [Greenshot](https://github.com/greenshot/greenshot)  -直接在屏幕上拍摄和裁剪屏幕截图.  [！[开源软件] [OSS图标]]（https://github.com/greenshot/greenshot）
 - [HTTrack](https://www.httrack.com/page/2/en/index.html) -脱机浏览器实用程序，使您可以从Internet将网站下载到本地目录.  [！[开源软件] [OSS图标]]（https://github.com/xroche/httrack/tree/master）
@@ -332,7 +331,7 @@
 - [HandBrake](http://handbrake.fr/)  -带有漂亮GUI的高性能视频编码和转换工具.  [！[开源软件] [OSS图标]]（https://github.com/HandBrake/HandBrake）
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) -收集DirectShow过滤器，VFW / ACM编解码器和工具.
 - [mpv](http://mpv.io/)  - 媒体播放器.  [！[开源软件] [OSS图标]]（https://github.com/mpv-player/mpv）
-- [Olive Video Editor](https://www.olivevideoeditor.org/)  -开源跨平台非线性视频编辑器.  [！[开源软件] [OSS图标]]（https://github.com/olive-editor/olive）！[免费软件] [免费软件图标]
+- [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][OSS Icon]](https://github.com/olive-editor/olive) ![Freeware][Freeware Icon]
 - [Open Broadcaster Software](https://obsproject.com/)  -用于视频记录和实时流媒体的免费和开源软件.  [！[开源软件] [OSS图标]]（https://github.com/jp9000/OBS）
 - [PotPlayer](http://potplayer.daum.net/) -具有大量编解码器的多媒体播放器，还为用户提供了广泛的配置选项.
 - [ScreenToGif](http://www.screentogif.com/)  -ScreenToGif允许您记录屏幕的选定区域并将其另存为gif或视频.  [！[开源软件] [OSS图标]]（https://github.com/NickeManarin/ScreenToGif/）！[免费软件] [免费软件图标]

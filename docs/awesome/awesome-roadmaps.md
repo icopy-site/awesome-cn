@@ -11,12 +11,12 @@
 
 
 ## Programming Language
-- [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) -2019年成为Go开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
+- [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) -2020年成为Go开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
 - [Java Developer Roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap) -2019年成为Java开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap).
-- [Rust Web Developer Roadmap](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap) -2019年成为Rust Web开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap).
+- [Rust Web Developer Roadmap](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap) -2020年成为Rust Web开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap).
 
 ## Web Development
-- [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) -2019年成为Web开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap#-introduction).
+- [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) -2020年成为Web开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap).
 - [React Developer Roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap) -2019年成为React开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap).
 - [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap) -在2018年成为Vue.js开发人员的路线图.
 - [ASP.Net Core Developer Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap) -2019年成为ASP.NET Core开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap).
@@ -26,7 +26,7 @@
 - [Android Developer Roadmap](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap) -帮助新开发者开始构建漂亮的android应用程序 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap).
 
 ## Game Development
-- [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) -2018年成为游戏开发者的路线图.
+- [Game Developer Roadmap](https://raw.githubusercontent.com/utilForever/game-developer-roadmap) -2020年成为游戏开发商的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/utilForever/game-developer-roadmap).
 - [Game Programmer](https://github.com/miloyip/game-programmer) -游戏程序员的学习途径.
 
 ## Miscellaneous

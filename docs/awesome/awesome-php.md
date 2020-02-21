@@ -136,7 +136,7 @@
 ### Scraping
 *用于抓取网站的库.*
 
-* [DiDOM](https://github.com/Imangazaliev/DiDOM) -超快速的HTML抓取器/解析器（因为它是在纯PHP之上构建的）.
+* [DiDOM](https://github.com/Imangazaliev/DiDOM) -超级快速的HTML抓取器和解析器.
 * [Embed](https://github.com/oscarotero/Embed) -任何Web服务或页面的信息提取器.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) -简单的网页抓取工具.
 * [Symfony Panther](https://github.com/symfony/panther) -用于PHP和Symfony的浏览器测试和Web爬网库.
@@ -218,7 +218,7 @@
 * [Behat](http://docs.behat.org/en/v2.5/) -行为驱动开发（BDD）测试框架.
 * [Codeception](https://github.com/Codeception/Codeception) -完整的堆栈测试框架.
 * [Faker](https://github.com/fzaninotto/Faker) -伪造的数据生成器库.
-* [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
+* [HTTP Mock](https://github.com/InterNations/http-mock) -用于在单元测试中模拟HTTP请求的库.
 * [Kahlan](https://github.com/kahlan/kahlan) -具有内置存根，模拟和代码覆盖支持的完整堆栈单元/ BDD测试框架.
 * [Mink](http://mink.behat.org/en/latest/) -网络验收测试.
 * [Mockery](https://github.com/mockery/mockery) -用于测试的模拟对象库.
@@ -304,7 +304,7 @@
 * [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) -检测PHP，CSS和JS编码标准违规的库.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) -编码标准修复程序库.
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) -一个库，可扫描代码中的错误，次优代码，未使用的参数等.
-* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
+* [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) -帮助遵守某些编码约定的工具.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) -检测复制和粘贴代码的库.
 
 ### Static Analysis
@@ -383,7 +383,7 @@
 *用于对地址进行地理编码以及使用纬度和经度的库.*
 
 * [GeoCoder](https://geocoder-php.org/) -地理编码库.
-* [GeoJSON](https://github.com/jmikola/geojson) -GeoJSON实现.
+* [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 * [GeoTools](https://github.com/thephpleague/geotools) -地理相关工具库.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) -一个简单的地理图书馆.
 
@@ -594,7 +594,7 @@
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) -从SOAP WSDL文件生成PHP类的工具.
 
 ### Caching
-*用于缓存数据的库.
+*Libraries for caching data.*
 
 * [Alternative PHP Cache (APC)](https://secure.php.net/manual/en/book.apc.php) -为PHP打开操作码缓存.
 * [APIx Cache](https://github.com/apix/cache) -薄的PSR-6缓存包装器，用于各种缓存后端，强调缓存标记和索引.

@@ -7,8 +7,6 @@
 &gt;与Ruby on Rails相关的精彩清单
 
 
-<!-- vim-markdown-toc GFM -->
-
 
 <!-- vim-markdown-toc -->
 
@@ -109,7 +107,7 @@
 - [brimir](https://github.com/ivaldi/brimir) -电子邮件帮助台应用程序-**使用Rails 5.2 **-**存档**
 - [calagator](https://github.com/calagator/calagator) -社区日历应用程序-**使用Rails 4.2 **
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) -电子邮件，日历，共享文档和班级协作空间管理应用程序-**使用Rails 4.2 **- [:earth_africa:](https://calcentral.berkeley.edu)
-- [campo](https://github.com/chloerei/campo) -论坛应用-**使用Rails 4.2 **- [:earth_africa:](http://codecampo.com)
+- [campo](https://github.com/chloerei/campo) - A forum app - **using Rails 4.2** - [:earth_africa:](http://codecampo.com)
 - [canvas-lms](https://github.com/instructure/canvas-lms) -一个学习管理应用程序-**使用Rails 5.2 **
 - [catarse](https://github.com/catarse/catarse) -创意项目的众筹平台-**使用Rails 4.2 **- [:earth_africa:](https://catarse.me/)
 - [ciao](https://github.com/brotandgames/ciao) -URL状态检查应用-**使用Rails 6.0 **
@@ -153,7 +151,7 @@
 - [kanban](https://github.com/seanomlor/kanban) -Trello克隆-**使用Rails 4.2 **- [:earth_africa:](http://kanban.seanomlor.com)
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) -动漫发现平台-**使用Rails 4.1 **
 - [lavish](https://github.com/mquan/lavish) -配色方案生成器-**使用Rails 4.2 **
-- [lifeToRemind](https://github.com/eduqg/LifeToRemind) -职业规划应用程序-**使用Rails 5.2 **- [:earth_africa:](http://lifetoremindhub.herokuapp.com)
+- [lifeToRemind](https://github.com/eduqg/LifeToRemind) -职业规划应用程序-**使用Rails 5.2 **
 - [listenup](https://github.com/ooofinooo/listenup) -歌曲播放列表管理应用-**使用Rails 4.1 **- [:earth_africa:](http://listenup-songshare.herokuapp.com)
 - [lobsters](https://github.com/lobsters/lobsters) -链接聚合应用-**使用Rails 5.2 **- [:earth_africa:](https://lobste.rs)
 - [loomio](https://github.com/loomio/loomio) -协作式决策应用程序-**使用Rails 5.2 **- [:earth_africa:](https://www.loomio.org)
@@ -185,7 +183,7 @@
 - [sharetribe](https://github.com/sharetribe/sharetribe) -点对点市场平台-**使用Rails 5.2 **- [:earth_africa:](https://www.sharetribe.com)
 - [socify](https://github.com/scaffeinate/socify) -社交网络平台-**使用Rails 5.0 **
 - [splits-io](https://github.com/glacials/splits-io)  -Speedrun数据存储和分析引擎.  -**使用Rails 6.0 **- [:earth_africa:](https://splits.io)
-- [spokenvote](https://github.com/Spokenvote/spokenvote) - A social voting app - **using Rails 4.2** -  [:earth_africa:](http://www.spokenvote.org)
+- [spokenvote](https://github.com/Spokenvote/spokenvote) -社交投票应用程序-**使用Rails 4.2 **-  [:earth_africa:](http://www.spokenvote.org)
 - [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) -一个问与答平台-**使用Rails 5.0 **
 - [teambox](https://github.com/redbooth/teambox) -协作应用-**使用Rails 3.0 **- [:earth_africa:](https://redbooth.com) -**存档**
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -教学平台-**使用Rails 5.2 **- [:earth_africa:](https://www.theodinproject.com/)
@@ -195,6 +193,51 @@
 - [websiteOne](https://github.com/AgileVentures/WebsiteOne) -一个项目跟踪应用-**使用Rails 5.2 **- [:earth_africa:](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) -英国政府使用的内容管理应用程序-**使用Rails 5.1 **
 
+
+## Gems
+
+-** rails **-完整的Web开发框架- [rubygems](https://rubygems.org/gems/rails) - [source code](https://github.com/rails/rails/)
+
+&gt;“ rails” gem的直接依赖项：
+
+-** actioncable **-将Websocket与Rails应用集成的瑰宝- [rubygems](https://rubygems.org/gems/actioncable) - [source code](https://github.com/rails/rails/tree/master/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
+-** actionmailbox **-在Rails应用程序中处理传入电子邮件的工具- [rubygems](https://rubygems.org/gems/actionmailbox) - [source code](https://github.com/rails/rails/tree/master/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
+-** actionmailer **-在Rails应用程序中撰写，传递和测试电子邮件的瑰宝- [rubygems](https://rubygems.org/gems/actionmailer) - [source code](https://github.com/rails/rails/tree/master/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
+-** actionpack **-在Rails应用程序中管理请求和响应的瑰宝- [rubygems](https://rubygems.org/gems/actionpack) - [source code](https://github.com/rails/rails/tree/master/actionpack)
+-** actiontext **-将富文本编辑器集成到Rails应用程序中的瑰宝- [rubygems](https://rubygems.org/gems/actiontext) - [source code](https://github.com/rails/rails/tree/master/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
+-** actionview **-在Rails应用程序中处理视图模板的瑰宝- [rubygems](https://rubygems.org/gems/actionview) - [source code](https://github.com/rails/rails/tree/master/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
+-** activejob **-可以在Rails应用程序中处理后台作业的瑰宝- [rubygems](https://rubygems.org/gems/activejob) - [source code](https://github.com/rails/rails/tree/master/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
+-** activemodel **-定义用于在Rails应用程序的模型类中使用的一组接口的gem- [rubygems](https://rubygems.org/gems/activemodel) - [source code](https://github.com/rails/rails/tree/master/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
+-** activerecord **-在Rails应用程序中将模型类与关系数据库连接的瑰宝- [rubygems](https://rubygems.org/gems/activerecord) - [source code](https://github.com/rails/rails/tree/master/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+-** activestorage **-用于在Rails应用程序中处理文件上传到云存储提供商的工具- [rubygems](https://rubygems.org/gems/activestorage) - [source code](https://github.com/rails/rails/tree/master/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
+-** activesupport **-提供一些扩展以支持Rails应用程序的gem- [rubygems](https://rubygems.org/gems/activesupport) - [source code](https://github.com/rails/rails/tree/master/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
+-** railties **-一种可处理Rails应用程序中一起使用的gems和引擎的宝石- [rubygems](https://rubygems.org/gems/railties) - [source code](https://github.com/rails/rails/tree/master/railties)
+
+&gt;其他可以与Rails一起使用的宝石
+
+-** anycable-rails **-处理websocket服务器的瑰宝- [rubygems](https://rubygems.org/gems/anycable-rails) - [source code](https://github.com/anycable/anycable-rails)
+-** autoprefixer-rails **-将供应商前缀添加到样式表的瑰宝- [rubygems](https://rubygems.org/gems/autoprefixer-rails) - [source code](https://github.com/ai/autoprefixer-rails)
+-** Brakeman **-用来扫描代码以防范安全漏洞的宝藏- [rubygems](https://rubygems.org/gems/brakeman) - [source code](https://github.com/presidentbeef/brakeman)
+-** cancancan **-可以处理授权的宝石- [rubygems](https://rubygems.org/gems/cancancan) - [source code](https://github.com/cancancommunity/cancancan)
+-** doorkeeper **-引入oauth2提供程序功能的瑰宝- [rubygems](https://rubygems.org/gems/doorkeeper) - [source code](https://github.com/doorkeeper-gem/doorkeeper)
+-** draper **-添加演示逻辑的瑰宝- [rubygems](https://rubygems.org/gems/draper) - [source code](https://github.com/drapergem/draper)
+-** rails_admin **-创建和管理Rails应用程序管理面板的瑰宝- [rubygems](https://rubygems.org/gems/rails_admin) - [source code](https://github.com/sferik/rails_admin)
+-** react-rails **-将react.js与rails应用集成的瑰宝- [rubygems](https://rubygems.org/gems/react-rails) - [source code](https://github.com/reactjs/react-rails)
+-** rspec-rails **-测试框架- [rubygems](https://rubygems.org/gems/rspec-rails) - [source code](https://github.com/rspec/rspec-rails)
+-**场景**-管理数据库视图的瑰宝- [rubygems](https://rubygems.org/gems/scenic) - [source code](https://github.com/scenic-views/scenic)
+-** spring **-预加载Rails应用程序的宝石- [rubygems](https://rubygems.org/gems/spring) - [source code](https://github.com/rails/spring)
+-**链轮**-编译和投放网络资产的瑰宝- [rubygems](https://rubygems.org/gems/sprockets) - [source code](https://github.com/rails/sprockets)
+-** webpacker **-使用webpack捆绑网络资产的瑰宝- [rubygems](https://rubygems.org/gems/webpacker) - [source code](https://github.com/rails/webpacker)
+-** zeitwerk **-处理线程安全代码加载的宝石- [rubygems](https://rubygems.org/gems/zeitwerk) - [source code](https://github.com/fxn/zeitwerk)
+-** active_decorator **-保持视图和助手面向对象的瑰宝- [rubygems](https://rubygems.org/gems/active_decorator) - [source code](https://github.com/amatsuda/active_decorator)
+-** kaminari **-提供分页功能的宝石- [rubygems](https://rubygems.org/gems/kaminari) - [source code](https://github.com/kaminari/kaminari)
+-** searchkick **-可提供搜索功能的宝石- [rubygems](https://rubygems.org/gems/searchkick) - [source code](https://github.com/ankane/searchkick)
+-** counter_culture **-提供计数器缓存的宝石- [rubygems](https://rubygems.org/gems/counter_culture) - [source code](https://github.com/magnusvk/counter_culture)
+-** activity_notification **-整合用户活动通知的瑰宝- [rubygems](https://rubygems.org/gems/activity_notification) - [source code](https://github.com/simukappu/activity_notification)
+-**设计**-提供身份验证的宝石- [rubygems](https://rubygems.org/gems/devise) - [source code](https://github.com/heartcombo/devise)
+-** simple_form **-处理表格的瑰宝- [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)
+-** activeadmin **-提供管理面板的瑰宝- [rubygems](https://rubygems.org/gems/activeadmin) - [source code](https://github.com/activeadmin/activeadmin)
+-**背包**-提供搜索功能的瑰宝- [rubygems](https://rubygems.org/gems/ransack) - [source code](https://github.com/activerecord-hackery/ransack)
 
 
 ## Other Rails Tools

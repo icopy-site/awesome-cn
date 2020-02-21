@@ -4,7 +4,7 @@
 
 ![Piscis Magnus from BL Harley 647](https://raw.githubusercontent.com/tokenmill/awesome-nlg/master/logo.png)
 
- 自然语言生成在聊天机器人，故事生成和数据描述中具有广泛的应用领域.  涉及NLG过程的一部分或全部的技术种类繁多.  该列表旨在通过提供指向各种项目，工具，研究论文和学习资料的链接来表示NLG应用程序和技术的这种逆转.
+ 自然语言生成在聊天机器人，故事生成和数据描述中具有广泛的应用领域.  涉及NLG过程的部分或全部的技术种类繁多.  该列表旨在通过提供指向各种项目，工具，研究论文和学习资料的链接来表示NLG应用程序和技术的这种逆转.
 
 
 
@@ -15,7 +15,7 @@
 - [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中在数据驱动的最新端到端（E2E）NLG方法上，这些方法可以从不对齐的数据中共同学习句子规划和表面实现.
 - [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库.
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) -来自weather.gov（美国公共天气预报）的计算机生成的天气预报以及相应的天气数据.
-- [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引用表达生成.
+- [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引荐表达生成.
 - [WikiBio - wikipedia biography dataset](https://github.com/DavidGrangier/wikipedia-biography-dataset)  -该数据集从Wikipedia收集了728321份传记.  它旨在评估文本生成算法.  对于每篇文章，我们提供第一段和信息框（均标记化）.
 - [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus)  -从Wikipedia收集的公司描述.  数据集包含英文的51K公司的语义表示，简短描述和详细描述.
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) -YelpNLG提供自然语言生成餐厅评论的资源.
@@ -30,6 +30,7 @@
 
 ## Evaluation
 
+- [compare-mt](https://github.com/neulab/compare-mt) -全面分析语言生成系统的工具.
 - [NLG-eval](https://github.com/Maluuba/nlg-eval) -用于自然语言生成的各种无监督自动度量的评估代码.
 - [VizSeq](https://github.com/facebookresearch/vizseq) -用于文本生成任务的可视化分析工具包.
 
@@ -43,7 +44,7 @@
 
 ## Libraries
 
-- [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) -.NET库，可将cron表达式转换为人类可读的描述.
+- [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) -.NET库，可将cron表达式转换为可读的描述.
 
 ## Narrative Generation
 

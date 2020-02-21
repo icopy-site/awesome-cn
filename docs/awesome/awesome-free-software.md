@@ -8,7 +8,7 @@
 
 —GNU项目
 
- &gt; RMS最好的宣传一直是他的黑客行为.  对我们所有人来说都是如此.  对于我们这个小部落之外的世界其他地区，我们的软件卓越性是对开放性和自由性的“更有说服力”的论据，而不是任何对抽象原理的高度关注.  因此，下一次RMS或其他任何人敦促您“谈论自由”时，我敦促您答复“闭嘴并向他们展示代码”.
+ &gt; RMS最好的宣传一直是他的黑客行为.  对我们所有人来说都是如此.  对于我们这个小部落以外的世界其他地区，我们的软件卓越性是对开放性和自由性的“远大于”说服力的论据，远胜于对抽象原理的任何高诉求.  因此，下一次RMS或其他任何人敦促您“谈论自由”时，我敦促您答复“闭嘴并向他们展示代码”.
 
 —[Eric Raymond](https://www.linuxtoday.com/developer/1999062802310NWSM)
 
@@ -59,6 +59,7 @@
 ### Graphics
 
 - [Blender](https://www.blender.org/)  -用于建模，仿真和动画的3D创建套件.  （[GNU GPLv2+](https://www.blender.org/about/license/))
+- [ExifCleaner](https://exifcleaner.com/)  -GUI应用程序，通过简单的拖放操作即可从图像和视频中删除exif元数据.  （[MIT](https://github.com/szTheory/exifcleaner/blob/master/LICENSE))
 - [GIMP](http://www.gimp.org/)  -图像处理软件.  （[GNU GPLv3](https://www.gimp.org/about/COPYING))
 - [Inkscape](https://inkscape.org)  -适用于所有平台的专业矢量图形编辑器.  （[GNU GPL](https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING))
 - [Krita](https://krita.org)  -艺术家制作的绘画程序.  （[GNU GPLv3](https://phabricator.kde.org/source/krita/browse/master/COPYING))
@@ -157,7 +158,7 @@
 ### Web Servers
 
 - [Apache HTTP Server](https://httpd.apache.org/)  -安全，高效且可扩展的Web服务器.  （[Apache License 2.0](http://www.apache.org/licenses/))
-- [lighttpd](http://www.lighttpd.net/)  -针对速度至关重要的环境进行了优化，同时保持了符合标准，安全和灵活的状态.  （[Revised BSD license](http://www.lighttpd.net/assets/COPYING))
+- [lighttpd](http://www.lighttpd.net/) - Optimized for speed-critical environments while remaining standards-compliant, secure and flexible. ([Revised BSD license](http://www.lighttpd.net/assets/COPYING))
 - [nginx](https://nginx.org/)  -HTTP和反向代理服务器，邮件代理服务器和通用TCP / UDP代理服务器.  （[2-clause BSD-like license](https://nginx.org/LICENSE))
 
 ## Hardware
@@ -168,7 +169,7 @@
 - [Libiquity](http://www.libiquity.com/) -设计和开发嵌入式软件和固件系统.
 - [Purism](https://puri.sm/) -注重隐私，安全和自由的计算机和软件.
 - [Raptor Computing Systems](https://raptorcs.com/) -使用IBM POWER9处理器和OpenBMC固件的台式机，主板和其他部件.
-- [Technoethical](https://tehnoetic.com/) - Laptops, adapters, and mobile devices compatible with free operating systems.
+- [Technoethical](https://tehnoetic.com/) -与免费操作系统兼容的笔记本电脑，适配器和移动设备。
 - [ThinkPenguin](https://www.thinkpenguin.com/) -不包含专有软件的现代笔记本电脑，台式机和打印机.
 - [Vikings](https://vikings.net/) -由Libreboot固件，libre软件和还出售硬件的绿色能源支持的托管公司.
 
