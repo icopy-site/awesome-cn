@@ -144,7 +144,7 @@ drm/kms.
 *  [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) -Vulkan和D3D12渲染器的单头实现.
 *  [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)  -基于简单Vulkan的渲染器，用于我的实时透明度的硕士论文.  [CC BY-SA 4.0]
 *  [Vulkan-Hpp Samples](https://github.com/jherico/Vulkan) -Sascha Willems的叉子使用Vulkan-Hpp制作的出色Vulkan示例.
-*  [SDF Font Demo](https://github.com/kocsis1david/font-demo) - Text rendering in Vulkan by estimating signed distance. [MIT]
+*  [SDF Font Demo](https://github.com/kocsis1david/font-demo)  -通过估计符号距离在Vulkan中进行文本渲染.  [麻省理工学院]
 *  [vulkantoy](https://github.com/jpystynen/vulkantoy)  -带有火山的Shadertoy图像着色器测试应用程序.  [MIT]
 *  [GL_vs_VK](https://github.com/RippeR37/GL_vs_VK)  -在性能方面比较OpenGL和Vulkan API.  [麻省理工学院]
 *  [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) -收集使用Magma库编写的简单图形样本.
@@ -172,7 +172,7 @@ drm/kms.
 *  [AMD's Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) -Vulkan的跨平台框架. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
     * [Introductory Vulkan sample](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan) ，  [MIT]
 *  [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)  -易于集成AMD的Vulkan内存分配库.  [麻省理工学院]
-*  [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ)  -面向专业工作站ISV的Vulkan API的轻量级中间件层.  [麻省理工学院]
+*  [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - light-weight middleware layer for the Vulkan API targeting Professional Workstation ISVs. [MIT]
 *  [Google's vulkan-cpp-library](https://github.com/google/vulkan-cpp-library)  -使用C ++ 11的Vulkan抽象库，用于内存，资源管理，类型和线程安全以及系统独立性.  [Apache]
 *  [Vookoo](https://github.com/andy-thomason/Vookoo)  -Vookoo是一组无依赖实用程序，可帮助构建和更新Vulkan图形数据结构.  [麻省理工学院]
 *  [vpp](https://github.com/nyorain/vpp)  -现代C ++ Vulkan抽象关注于性能和简单的界面.  [麻省理工学院]
@@ -201,7 +201,7 @@ drm/kms.
 *  [ncnn](https://github.com/Tencent/ncnn)  -带有基于Vulkan的GPU推理的高性能神经网络推理框架.  [BSD 3句]
 *  [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK)  -用于使用Vulkan和VTK后端构建手术模拟的C ++工具包.  [Apache许可2.0]
 *  [Quartz](https://github.com/Nadrin/Quartz)  -基于物理的Vulkan RTX路径跟踪器，具有类似于ES7的声明性场景描述语言.  [LGPL-3.0]	
-*  [VK²](https://github.com/kotlin-graphics/vkk)，Vulkan的Kotlin Wrapper：代码的表达性和安全性满足图形功能[Apache License 2.0]
+*  [VK²](https://github.com/kotlin-graphics/vkk)，Vulkan的Kotlin包装：代码表达能力和安全性达到图形功能[Apache许可2.0]
 *  [small3d](https://www.gamedev.net/projects/515-small3d/)，基于Tiny Vulkan的C ++跨平台游戏开发框架[BSD 3-clause]
 *  [vkt/vkh](https://github.com/world8th/vkt) ，是Vulkan API（1.1）的帮助程序，基于，并使用C ++ 20.  [麻省理工学院]
 
@@ -221,6 +221,7 @@ drm/kms.
 *  [SharpVk](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk) ，  [MIT]
 *  [vulkan](https://github.com/realitix/vulkan)  -用CFFI生成的Vulkan的最终Python绑定.  [Apache许可2.0]
 *  [vulkan-go](https://github.com/vulkan-go/vulkan)  -绑定Vulkan.  [MH]
+*  [PasVulkan](https://github.com/BeRo1985/pasvulkan) -Vulkan绑定以及对象Pascal的高级包装器库[Zlib]
 
 ## Tools
 *  [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).

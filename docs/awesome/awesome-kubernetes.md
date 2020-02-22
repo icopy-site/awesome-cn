@@ -296,7 +296,7 @@ Installers
   - [Knative](https://github.com/knative/) -建立，部署和管理现代无服务器工作负载的平台
   - [Okteto](https://github.com/okteto/okteto)  -在任何Kubernetes集群中直接进行开发.  无需提交，构建或推送
   - [Mantl](https://github.com/mantl/mantl) -用于快速部署全球分布式服务的现代平台
-  - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes) -与Kubernetes的Spring Cloud集成
+  - [Spring Cloud Kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes) -与Kubernetes的Spring Cloud集成
   - [VAMP](http://vamp.io) -原生云发布管理与编排
   - [Tilt](https://github.com/windmilleng/tilt) -管理部署到Kubernetes的团队的本地开发实例
 
@@ -738,6 +738,7 @@ Projects
 * [Kubernator](https://github.com/smpio/kubernator)
 * [Kubernetes Resource Report](https://github.com/hjacobs/kube-resource-report) -报告Kubernetes集群和Pod资源请求与使用情况并生成静态HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) -基于Web的UI，用于在Kubernetes集群中部署和管理应用程序
+* [Kubevious](https://github.com/kubevious/kubevious) -一个开源的UI，可以使Kubernetes的配置和状态变得明显且安全.
 * [Polaris](https://github.com/reactiveops/polaris) -Kubernetes最佳实践的开源仪表板
 * [Octant](https://github.com/vmware/octant) -一个基于Web的，高度可扩展的平台，供开发人员更好地了解Kubernetes集群的复杂性.
 * [Kontena Lens](https://github.com/kontena/lens) -Kubernetes的终极仪表板.
@@ -1019,7 +1020,7 @@ Videos
 
 ### CI/CD Videos
 
-- [Automating CI/CD on Kubernetes with Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU) 通过 [James Strachan](https://twitter.com/jstrachan) 使用 [Jenkins X](https://jenkins-x.io/) with [these slides](https://docs.google.com/presentation/d/1hwt2lFh3cCeFdP4xoT_stMPs0nh2xVZUtze6o79WfXc/edit#slide=id.p)
+- [Automating CI/CD on Kubernetes 与 Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU) 通过 [James Strachan](https://twitter.com/jstrachan) 使用 [Jenkins X](https://jenkins-x.io/) 与 [these slides](https://docs.google.com/presentation/d/1hwt2lFh3cCeFdP4xoT_stMPs0nh2xVZUtze6o79WfXc/edit#slide=id.p)
 
 有趣的Twitter帐户
 =======================================================================

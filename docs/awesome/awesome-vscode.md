@@ -220,6 +220,15 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 - [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) -的摘录 [Schema.org](https://schema.org/).
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) -Visual Studio Code的拼写检查器.
 
+Framework-specific:
+
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) -Vue.js工具包
+![Vetur](https://raw.githubusercontent.com/viatsko/awesome-vscode/master/screenshots/Vetur.png)
+
+### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+
+&gt; VS Code扩展程序，用于在Chrome浏览器或支持Chrome调试协议的其他目标中调试JavaScript代码.
+
 ### Facebook Flow
 
 - [Flow Language Support](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode) -提供您期望的所有功能-整理，智能提示，键入工具提示和单击定义
@@ -1069,7 +1078,7 @@ A relaxed theme to take a more relaxed view of things.
 
 ### [Shades of Purple by Ahmad Awais](https://vscodethemes.com/e/ahmadawais.shades-of-purple)
 
- ⚡一个专业的主题，带有经过手工挑选的紫色粗体阴影，以及您的VS Code.  具有样式的自定义VS Code主题.
+ ⚡一个专业的主题，带有经过手工挑选的大胆的紫色阴影，以及您的VS Code.  具有样式的自定义VS Code主题.
 
 <a href="https://vscodethemes.com/e/ahmadawais.shades-of-purple">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/ahmadawais.shades-of-purple.png" width="600" />

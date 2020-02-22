@@ -222,6 +222,7 @@
 - [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
 - [react-esi](https://github.com/dunglas/react-esi) -反应边缘侧包括
 - [hookstate](https://github.com/avkonst/hookstate) -基于钩子的React的现代，非常快速和可扩展的状态管理
+- [universal-model-react](https://github.com/universal-model/universal-model-react) -React的统一状态管理解决方案
 
 ##### React Integration
 

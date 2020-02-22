@@ -26,7 +26,7 @@
 
 ## C#
 
-- [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy)  _（标签：简单）_ <br>  一个实时策略游戏引擎，支持早期的Westwood经典游戏，例如Command＆Conquer：Red Alert.
+- [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  音乐游戏.  节奏仅需点击一下即可！
 
 ## C++
@@ -52,7 +52,7 @@
 ## Elixir
 
 - [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter)  _（标签：级别：入门者）_ <br>  Elixir是一种动态的功能语言，旨在构建可扩展和可维护的应用程序
-- [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
+- [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter)  _（标签：级别：入门者）_ <br>  Ecto是Elixir的数据库包装器和语言集成查询
 
 ## Go
 
@@ -142,6 +142,7 @@
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  适用于所有平台的功能丰富的美丽GraphQL客户端.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Angular＆Electron应用程序，用于在PC上浏览和搜索视频.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy)  _（标签：简单）_ <br>  回合制策略游戏，您可以3D打印具有独特能力的生物小队，以击败敌人.
+- [ramda-adjunct](https://github.com/char0n/ramda-adjunct/labels/help%20wanted)  _（标签：需要帮助）_ <br>  Ramda Adjunct是与Ramda一起使用的最受欢迎和最全面的功能实用程序集，它提供各种有用的，经过良好测试的功能以及出色的文档.
 - [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs)  _（标签：争抢）_ <br>  具有实时二叉树视觉效果的交互式代码编辑器，旨在教会新开发人员动态编程的基础.
 
 ## Julia

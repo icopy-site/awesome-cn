@@ -118,7 +118,7 @@
 - [TortoiseGit](https://tortoisegit.org/)  -具有完整Shell集成的Git客户端.  [！[开源软件] [OSS图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
 - [Tower](https://www.git-tower.com/windows) -塔-Mac和Windows上最强大的Git客户端.
 - [Vagrant](https://www.vagrantup.com/)  -用于构建和管理虚拟机的工具.  [！[开源软件] [OSS图标]]（https://github.com/mitchellh/vagrant）
-- [Velocity](http://velocity.silverlakesoftware.com/)  -离线API文档工具.  （喜欢 [Dash](https://kapeli.com/dash) 对于macOS）
+- [Velocity](http://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) 对于macOS）
 - [Visual Studio Code](https://code.visualstudio.com/)  -轻量级源代码编辑器.  [！[开源软件] [OSS图标]]（https://github.com/Microsoft/vscode）！[免费软件] [免费软件图标]
 - [Visual Studio](https://www.visualstudio.com/) -终极Microsoft开发人员工具.
 - [Wamp](http://www.wampserver.com/en/) -Web开发环境.
@@ -153,6 +153,7 @@
 - [Nylas Mail](https://www.nylas.com/download/)  -建立在现代网络上的可扩展桌面邮件应用程序.  [！[开源软件] [OSS图标]]（https://github.com/nylas/N1）！[免费软件] [免费软件图标]
 - [Postbox](https://postbox-inc.com/) -强大的电子邮件应用程序
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)  -具有简约设计的电子邮件客户端.  [！[开源软件] [OSS图标]]（https://developer.mozilla.org/zh-CN/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build）！[免费软件] [免费软件图标]
+- [BlueMail](https://www.bluemail.me/desktop/) -设计精美，功能强大且易于使用的电子邮件应用程序，如果您需要跨平台功能.
 
 ### Games
 
@@ -247,7 +248,7 @@
 - [One Commander](http://onecommander.com/)  -具有Miller列和双窗格视图的文件管理器.  ！[免费软件] [免费软件图标]
 - [Scoop](https://github.com/lukesampson/scoop)  -Windows的命令行安装程序.  [！[开源软件] [OSS图标]]（https://github.com/lukesampson/scoop）！[免费软件] [免费软件图标]
 - [Simplenote](https://simplenote.com/)  -具有基于云的同步功能的简单跨平台笔记应用程序.  ！[免费软件] [免费软件图标]
-- [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][Freeware Icon]
+- [Taskade](https://taskade.com/)  -具有实时跨平台同步和团队协作的智能任务列表.  ！[免费软件] [免费软件图标]
 - [Total Commander](https://www.ghisler.com/) -Windows的最佳文件管理器.
 - [WordWeb](http://wordweb.info/)  -一本非常好的Windows英文字典.  ！[免费软件] [免费软件图标]
 - [Wox](http://www.wox.one/)  -Windows的有效启动器.  [！[开源软件] [OSS图标]]（https://github.com/Wox-launcher/Wox/）！[免费软件] [免费软件图标]
@@ -324,6 +325,9 @@
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)  -分散的网站.  [！[开源软件] [OSS图标]]（https://github.com/HelloZeroNet/ZeroNet）
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx)  -它是用于技术演示的屏幕缩放和注释工具.  它在纸盘中的显示效果不显眼，并通过可自定义的热键激活，以放大屏幕区域，在缩放时四处移动并绘制缩放后的图像.
 
+### Proxy and VPN Tools
+
+- [Algo](https://github.com/trailofbits/algo) -云中的个人IPSEC VPN.
 
 ### Video
 

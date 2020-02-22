@@ -107,7 +107,7 @@
 - [brimir](https://github.com/ivaldi/brimir) -电子邮件帮助台应用程序-**使用Rails 5.2 **-**存档**
 - [calagator](https://github.com/calagator/calagator) -社区日历应用程序-**使用Rails 4.2 **
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) -电子邮件，日历，共享文档和班级协作空间管理应用程序-**使用Rails 4.2 **- [:earth_africa:](https://calcentral.berkeley.edu)
-- [campo](https://github.com/chloerei/campo) - A forum app - **using Rails 4.2** - [:earth_africa:](http://codecampo.com)
+- [campo](https://github.com/chloerei/campo) -论坛应用-**使用Rails 4.2 **- [:earth_africa:](http://codecampo.com)
 - [canvas-lms](https://github.com/instructure/canvas-lms) -一个学习管理应用程序-**使用Rails 5.2 **
 - [catarse](https://github.com/catarse/catarse) -创意项目的众筹平台-**使用Rails 4.2 **- [:earth_africa:](https://catarse.me/)
 - [ciao](https://github.com/brotandgames/ciao) -URL状态检查应用-**使用Rails 6.0 **
@@ -136,7 +136,7 @@
 - [expertiza](https://github.com/expertiza/expertiza) -学习资料共享应用-**使用Rails 4.2 **
 - [fairmondo](https://github.com/fairmondo/fairmondo) -一个市场应用程序-**使用Rails 4.2 **- [:earth_africa:](https://www.fairmondo.de)
 - [feedbin](https://github.com/feedbin/feedbin) -一个RSS阅读器应用程序-**使用Rails 6.0 **- [:earth_africa:](https://feedbin.com)
-- [feedi](https://github.com/davidesantangelo/feedi) -一个RSS供稿转换（到API）应用程序-**使用Rails 5.2 **- [:earth_africa:](https://search.feedi.me)
+- [feedi](https://github.com/davidesantangelo/feedi) -一个RSS feed转换（到API）应用程序-**使用Rails 5.2 **
 - [follow-all](https://github.com/codeforamerica/follow-all) -Twitter帐户管理应用程序-**使用Rails 4.2 **-**已存档**
 - [fromthepage](https://github.com/benwbrum/fromthepage) -类似于Wiki的应用，用于众包手写文档的转录-**使用Rails 4.1 **- [:earth_africa:](https://www.fromthepage.com/)
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) -代码协作应用-**使用Rails 6.0 **
@@ -176,7 +176,7 @@
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) -一个市场应用程序--**使用Rails 4.0 **
 - [reservations](https://github.com/YaleSTC/reservations) -库存管理应用程序-**使用Rails 6.0 **- [:earth_africa:](http://yalestc.github.io/reservations)
 - [rletters](https://github.com/rletters/rletters) -研究人员期刊文章数据库的前端-**使用Rails 6.0 **- [:earth_africa:](http://www.rletters.net)
-- [rubygems.org](https://github.com/rubygems/rubygems.org) -一个宝石托管平台-**使用Rails 6.0 **- [:earth_africa:](https://rubygems.org)
+- [rubygems.org](https://github.com/rubygems/rubygems.org) - A gem hosting platform - **using Rails 6.0** - [:earth_africa:](https://rubygems.org)
 - [sanataro](https://github.com/kaznum/sanataro) -帐户跟踪器-**使用Rails 4.2 **- [:earth_africa:](http://sanataro.herokuapp.com)
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) -一个数字资产管理应用程序-**使用Rails 5.1 **
 - [selfstarter](https://github.com/apigy/selfstarter) -众筹应用程序-**使用Rails 4.0 **
@@ -215,29 +215,45 @@
 
 &gt;其他可以与Rails一起使用的宝石
 
+-** ace-rails-ap **-将ajax.org cloud9编辑器集成到Rails资产管道中的宝石- [rubygems](https://rubygems.org/gems/ace-rails-ap) - [source code](https://github.com/codykrieger/ace-rails-ap)
+-** actionview-component **-引入视图组件的瑰宝- [rubygems](https://rubygems.org/gems/actionview-component) - [source code](https://github.com/github/actionview-component)
+-** active_decorator **-保持视图和助手面向对象的瑰宝- [rubygems](https://rubygems.org/gems/active_decorator) - [source code](https://github.com/amatsuda/active_decorator)
+-** active_enum **-提供枚举类的gem- [rubygems](https://rubygems.org/gems/active_enum) - [source code](https://github.com/adzap/active_enum)
+-** activeadmin **-提供管理面板的瑰宝- [rubygems](https://rubygems.org/gems/activeadmin) - [source code](https://github.com/activeadmin/activeadmin)
+-** activity_notification **-整合用户活动通知的瑰宝- [rubygems](https://rubygems.org/gems/activity_notification) - [source code](https://github.com/simukappu/activity_notification)
+-** algoliasearch-rails **-整合Algolia搜索的瑰宝- [rubygems](https://rubygems.org/gems/algoliasearch-rails) - [source code](https://github.com/algolia/algoliasearch-rails)
+-** annotate **-用于使用架构和路由信息注释rails类的gem- [rubygems](https://rubygems.org/gems/annotate) - [source code](https://github.com/ctran/annotate_models)
 -** anycable-rails **-处理websocket服务器的瑰宝- [rubygems](https://rubygems.org/gems/anycable-rails) - [source code](https://github.com/anycable/anycable-rails)
+-** apipie-rails **-REST API文档工具- [rubygems](https://rubygems.org/gems/apipie-rails) - [source code](https://github.com/apipie/apipie-rails)
 -** autoprefixer-rails **-将供应商前缀添加到样式表的瑰宝- [rubygems](https://rubygems.org/gems/autoprefixer-rails) - [source code](https://github.com/ai/autoprefixer-rails)
 -** Brakeman **-用来扫描代码以防范安全漏洞的宝藏- [rubygems](https://rubygems.org/gems/brakeman) - [source code](https://github.com/presidentbeef/brakeman)
+-** breadcrumbs_on_rails **-创建和管理面包屑式导航的瑰宝- [rubygems](https://rubygems.org/gems/breadcrumbs_on_rails) - [source code](https://github.com/weppos/breadcrumbs_on_rails)
 -** cancancan **-可以处理授权的宝石- [rubygems](https://rubygems.org/gems/cancancan) - [source code](https://github.com/cancancommunity/cancancan)
+-** counter_culture **-提供计数器缓存的宝石- [rubygems](https://rubygems.org/gems/counter_culture) - [source code](https://github.com/magnusvk/counter_culture)
+-**设计**-提供身份验证的宝石- [rubygems](https://rubygems.org/gems/devise) - [source code](https://github.com/heartcombo/devise)
 -** doorkeeper **-引入oauth2提供程序功能的瑰宝- [rubygems](https://rubygems.org/gems/doorkeeper) - [source code](https://github.com/doorkeeper-gem/doorkeeper)
 -** draper **-添加演示逻辑的瑰宝- [rubygems](https://rubygems.org/gems/draper) - [source code](https://github.com/drapergem/draper)
+-** filestack-rails **-集成文件堆栈的宝石- [rubygems](https://rubygems.org/gems/filestack-rails) - [source code](https://github.com/filestack/filestack-rails)
+-** friendly_id **-用于处理子弹和永久链接的宝石- [rubygems](https://rubygems.org/gems/friendly_id) - [source code](https://github.com/norman/friendly_id)
+-** kaminari **-提供分页功能的宝石- [rubygems](https://rubygems.org/gems/kaminari) - [source code](https://github.com/kaminari/kaminari)
+-**密码盒**-处理加密的瑰宝- [rubygems](https://rubygems.org/gems/lockbox) - [source code](https://github.com/ankane/lockbox)
+-** paloma **-在Rails中管理页面特定javascript的瑰宝- [rubygems](https://rubygems.org/gems/paloma) - [source code](https://github.com/gnclmorais/paloma)
+-** prerender_rails **-预先渲染javascript渲染页面的宝石- [rubygems](https://rubygems.org/gems/prerender_rails) - [source code](https://github.com/prerender/prerender_rails)
 -** rails_admin **-创建和管理Rails应用程序管理面板的瑰宝- [rubygems](https://rubygems.org/gems/rails_admin) - [source code](https://github.com/sferik/rails_admin)
+-排名模型**-用于处理行排序的宝石- [rubygems](https://rubygems.org/gems/ranked-model) - [source code](https://github.com/mixonic/ranked-model)
+-**背包**-提供搜索功能的瑰宝- [rubygems](https://rubygems.org/gems/ransack) - [source code](https://github.com/activerecord-hackery/ransack)
 -** react-rails **-将react.js与rails应用集成的瑰宝- [rubygems](https://rubygems.org/gems/react-rails) - [source code](https://github.com/reactjs/react-rails)
+-** redisWebManager **-允许您轻松管理Redis实例的Web界面- [rubygems](https://rubygems.org/gems/redis_web_manager) - [source code](https://github.com/OpenGems/redis_web_manager))
 -** rspec-rails **-测试框架- [rubygems](https://rubygems.org/gems/rspec-rails) - [source code](https://github.com/rspec/rspec-rails)
+-** rubocop-rails **-一种代码样式检查工具- [rubygems](https://rubygems.org/gems/rubocop-rails) - [source code](https://github.com/rubocop-hq/rubocop-rails)
 -**场景**-管理数据库视图的瑰宝- [rubygems](https://rubygems.org/gems/scenic) - [source code](https://github.com/scenic-views/scenic)
+-** searchkick **-可提供搜索功能的宝石- [rubygems](https://rubygems.org/gems/searchkick) - [source code](https://github.com/ankane/searchkick)
+-** simple_form **-处理表格的瑰宝- [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)
 -** spring **-预加载Rails应用程序的宝石- [rubygems](https://rubygems.org/gems/spring) - [source code](https://github.com/rails/spring)
 -**链轮**-编译和投放网络资产的瑰宝- [rubygems](https://rubygems.org/gems/sprockets) - [source code](https://github.com/rails/sprockets)
--** webpacker **-使用webpack捆绑网络资产的瑰宝- [rubygems](https://rubygems.org/gems/webpacker) - [source code](https://github.com/rails/webpacker)
+-** tinymce-rails **-将tinymce集成到Rails资产管道中的瑰宝- [rubygems](https://rubygems.org/gems/tinymce-rails) - [source code](https://github.com/spohlenz/tinymce-rails)
+- **webpacker** - A gem to bundle web assets using webpack - [rubygems](https://rubygems.org/gems/webpacker) - [source code](https://github.com/rails/webpacker)
 -** zeitwerk **-处理线程安全代码加载的宝石- [rubygems](https://rubygems.org/gems/zeitwerk) - [source code](https://github.com/fxn/zeitwerk)
--** active_decorator **-保持视图和助手面向对象的瑰宝- [rubygems](https://rubygems.org/gems/active_decorator) - [source code](https://github.com/amatsuda/active_decorator)
--** kaminari **-提供分页功能的宝石- [rubygems](https://rubygems.org/gems/kaminari) - [source code](https://github.com/kaminari/kaminari)
--** searchkick **-可提供搜索功能的宝石- [rubygems](https://rubygems.org/gems/searchkick) - [source code](https://github.com/ankane/searchkick)
--** counter_culture **-提供计数器缓存的宝石- [rubygems](https://rubygems.org/gems/counter_culture) - [source code](https://github.com/magnusvk/counter_culture)
--** activity_notification **-整合用户活动通知的瑰宝- [rubygems](https://rubygems.org/gems/activity_notification) - [source code](https://github.com/simukappu/activity_notification)
--**设计**-提供身份验证的宝石- [rubygems](https://rubygems.org/gems/devise) - [source code](https://github.com/heartcombo/devise)
--** simple_form **-处理表格的瑰宝- [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)
--** activeadmin **-提供管理面板的瑰宝- [rubygems](https://rubygems.org/gems/activeadmin) - [source code](https://github.com/activeadmin/activeadmin)
--**背包**-提供搜索功能的瑰宝- [rubygems](https://rubygems.org/gems/ransack) - [source code](https://github.com/activerecord-hackery/ransack)
 
 
 ## Other Rails Tools
