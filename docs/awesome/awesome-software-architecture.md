@@ -16,7 +16,7 @@
 - [Software Design Patterns and Principes (quick overview)](https://www.youtube.com/watch?v=WV2Ed1QTst8) -常见设计模式的原因及其利弊.
 - [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) -使用单独的接口将读取数据的操作与更新数据的操作分开.
 - [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) -不仅将数据的当前状态存储在域中，还可以使用仅追加存储来记录对该数据执行的全部操作.
-- [Feature Toggles](https://www.martinfowler.com/articles/feature-toggles.html) -功能切换（通常也称为功能标志）是一种强大的技术，可让团队无需更改代码即可修改系统行为.
+- [Feature Toggles](https://www.martinfowler.com/articles/feature-toggles.html) -功能切换（通常也称为功能标志）是一项强大的技术，可让团队无需更改代码即可修改系统行为.
 - [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2) -BDD使用易于理解的软件用户需求描述作为软件测试的基础.
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) -层是一种分离职责和管理依赖关系的方法.
 
@@ -80,7 +80,8 @@
 ### DevOps
 
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) -结合软件开发和运营实践，以缩短上市时间，同时保持高质量.
-- [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) -有关IT，Devops和帮助您赢得业务的商业小说：orange_book ：.
+- [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) -IT，Devops并帮助您赢得业务：orange_book ：.
+- [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)  -数据时代的开发人员，数字破坏和繁荣.  ：orange_book：
 - [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) -BPDTS如何使用CALMS模型作为其devop适应的参考. 
 - [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) -混沌工程学是软件工程学中的一门新学科，使人们对大规模分布式系统的行为充满信心. 
 - [Adidas DevOps Maturity Framework](https://github.com/adidas/adidas-devops-maturity-framework) -根据CALMS对DevOps的定义，该框架定义了一组功能和指南，这些功能和指南在被采用时可提高团队的效率，效力和幸福感.

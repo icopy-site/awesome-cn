@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选清单 [Jupyter](http://jupyter.org)  项目，图书馆和资源.  Jupyter是一个开源Web应用程序，允许您创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
+精选清单 [Jupyter](http://jupyter.org)  项目，图书馆和资源.  Jupyter是一个开放源代码的Web应用程序，允许您创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -101,6 +101,7 @@
 - [nb_black](https://github.com/dnanhkhoa/nb_black) -扩展以保持Python代码使用自动格式化 [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) -在JupyterLab中探索CPython字节码.
 - [quickopen](https://github.com/parente/jupyterlab-quickopen) -通过输入文件名的一部分在JupyterLab中快速打开文件.
+- [shortcutui](https://github.com/jupyterlab/jupyterlab-shortcutui) -用于管理键盘快捷键的扩展.
 - [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) -JupyterLab的sidecar输出小部件.
 - [sql](https://github.com/pbugnion/jupyterlab-sql) -JupyterLab的SQL GUI.
 - [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) -扩展显示系统指标.
@@ -118,6 +119,7 @@
 - [nbval](https://github.com/computationalmodelling/nbval) -用于验证Jupyter笔记本的Py.test插件.
 - [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) -用于生成Jupyter笔记本的Sphinx扩展.
 - [nosebook](https://github.com/bollwyvl/nosebook) -鼻子插件，用于查找和运行IPython笔记本作为鼻子测试.
+- [treon](https://github.com/ReviewNB/treon) -Jupyter Notebooks易于使用的测试框架.
 
 ## Domain-Specific Projects
 

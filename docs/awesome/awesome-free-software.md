@@ -23,11 +23,12 @@
 - [Libre.fm](https://libre.fm/)  -免费流式传输，下载，混音和共享音乐.  （[GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 - [LMMS](https://lmms.io/)  -完整的数字音频工作站.  （[GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 - [mStream](http://mstream.io/)  -用于在多个设备之间同步和流式传输音乐的软件套件.  （[GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
+- [Nuclear Music Player](https://nuclear.js.org/)  -流音乐播放器，可自动从免费资源中查找音乐.  （[GNU AGPLv3](https://github.com/nukeop/nuclear/blob/master/LICENSE))
 
 ### Command Line Tools
 
 - [asciinema](https://asciinema.org/)  -终端会话记录器.  （[GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
-- [Cygwin](http://cygwin.com/)  -Windows的类Unix环境，提供对Linux系统上常见的许多工具的访问.  （[GNU GPLv3](https://cygwin.com/COPYING))
+- [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
 - [Logdissect](https://github.com/dogoncouch/logdissect/)  -CLI工具和Python API，用于分析日志文件和其他数据.  （[MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/)  -通过SSH，Telnet，SCP和rlogin协议以及原始套接字连接进行连接的远程终端仿真器.  （[MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
 - [ranger](https://ranger.github.io/)  -最小，轻巧且美观的GNU / Linux文件浏览器.  它运行在终端窗口中，因此非常适合i3之类的窗口管理器.  vi键绑定允许执行快速操作，包括重命名和删除.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
@@ -204,7 +205,7 @@
 
 ### Events
 
-- [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
+- [LibrePlanet](https://libreplanet.org/) -关于免费软件的年度会议.
 - [Software Freedom Day](https://en.wikipedia.org/wiki/Software_Freedom_Day) -每年在全球范围内举行的自由软件庆祝活动，旨在提高人们对自由软件及其美德的认识.
 
 ### Licensing

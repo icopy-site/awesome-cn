@@ -170,7 +170,7 @@
 
 -石墨和格拉法纳-* TBD *.
 - InfluxDB & Grafana
-  - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) -使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
+  - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) -收集使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
   - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
   -Grafana仪表板
     - [JMeter Load Test Dashboard](https://grafana.com/grafana/dashboards/1152) -通过NovaTec-APM.
@@ -327,6 +327,7 @@
 
 - [JMeter @ Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
 - [JMeter Slack workspace](https://jmeterusers.slack.com/)
+- [JMeter Spectrum community](https://spectrum.chat/jmeter)
 - [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
 
 ## Related

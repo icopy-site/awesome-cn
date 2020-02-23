@@ -120,7 +120,7 @@
 ## Files
 *用于文件操作的插件.*
 
-- [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) -抽象文件存储和上传插件.
+- ：草莓： [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) -抽象文件存储和上传插件.
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) -使用Flysystem进行抽象文件系统访问.
 - [Image plugin](https://github.com/josbeir/image) -图像行为与Cake在TranslateBehavior中内置的行为非常相似.
 - ：草莓： [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) -摘要 [Flysystem](https://flysystem.thephpleague.com/) +基于文件实体的上传插件.
@@ -285,7 +285,7 @@
 *用于对数据建立索引并执行搜索查询的插件和软件.*
 
 - [Cake/ElasticSearch plugin](https://github.com/cakephp/elastic-search) -使用替代ORM [Elasticsearch](https://www.elastic.co/) 作为其后端.
-- [PlumSearch plugin](https://github.com/skie/plum_search)  -搜索插件实现了自定义，灵活和可扩展的搜索策略.  实现PRG模式.
+- ：草莓： [PlumSearch plugin](https://github.com/skie/plum_search)  -搜索插件实现了自定义，灵活和可扩展的搜索策略.  实现PRG模式.
 - ：草莓： [Search plugin](https://github.com/FriendsOfCake/search) -使用PRG模式可轻松搜索/过滤分页视图.
 - [SphinxSearch plugin](https://github.com/voycey/cakephp-sphinxsearch) -查询SphinxSearch索引的基本行为实现.
 - ：草莓： [Tags plugin](https://github.com/dereuromark/cakephp-tags) -用于标记和查找标记的记录.

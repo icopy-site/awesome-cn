@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>
-	  <a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">每周</a>订阅<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">dev，</a>以获取<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">每周</a>精选的最佳博客文章！
+	  订阅<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">dev的每周</a>每周获得最佳策划的博客文章！
   </h2>
 </div>
 
@@ -108,6 +108,7 @@
 * Coolblue http://devblog.coolblue.nl/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
+* CSC-IT科学技术中心-云团队https://cloud.blog.csc.fi/
 *推荐http://engineering.curalate.com/
 
 #### D companies
@@ -191,7 +192,7 @@
 *哈希节点https://engineering.hashnode.com/
 * Hashrocket https://hashrocket.com/blog
 * Hasura https://blog.hasura.io/
-*房子h​​ttps://engineering.haus.com
+* Haus https://engineering.haus.com
 *堆https://heap.engineering/
 *在这里https://developer.here.com/blog
 * Heroku https://blog.heroku.com/engineering
@@ -701,7 +702,7 @@
 * Radek Pazdera http://radek.io
 *我是Řehůřekhttps://radimrehurek.com/blog/
 拉蒙·弗里德（Ramon Fried）https://nativeguru.wordpress.com/
-* Ray Wenderlich https://www.raywenderlich.com/
+*雷·温德利希（Ray Wenderlich）https://www.raywenderlich.com/
 * Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
 *雷蒙德·海廷格（Raymond Hettinger）https://rhettinger.wordpress.com/
 * ReactJS新闻https://reactjsnews.com
@@ -719,13 +720,14 @@
 #### S individuals
 * Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
-* Sergey Zhuk http://sergeyzhuk.me/
+*谢尔盖·朱克http://sergeyzhuk.me/
 * Schakko https://schakko.de
 * Scott Hanselman http://www.hanselman.com/blog/
 *斯科特·约翰逊（Scott Johnson）http://www.fuzzyblog.io/blog/
 *西蒙·雷姆勒（Simon Reimler）https://devdactic.com/devblog/
 * Srinivas Tamada https://www.9lessons.info/
 *堆栈滥用http://www.stackabuse.com/
+* Stanko Tadic https://muffinman.io
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 *史蒂夫·贝洛文https://www.cs.columbia.edu/~smb/blog/control/
