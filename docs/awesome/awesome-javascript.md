@@ -155,6 +155,7 @@
 * [Cody](https://github.com/jcoppieters/cody) -带有WSYWYG编辑器的CMS.
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) -CMS和博客平台.
 * [Strapi](https://github.com/strapi/strapi) -开源Node.js Headless CMS，可轻松构建可定制的API.
+* [Factor](https://github.com/fiction-com/factor) -Javascript CMS
 
 ## Templating Engines
 *模板引擎可让您执行字符串插值.*
@@ -171,7 +172,7 @@
 * [Pug](https://github.com/pugjs/pug)  -强大，优雅，功能丰富的Node.js模板引擎.  （原名翡翠）
 * [EJS](https://github.com/mde/ejs) -有效的JavaScript模板.
 * [xtemplate](https://github.com/xtemplate/xtemplate) -用于节点和浏览器的可扩展模板引擎库
-* [marko](https://github.com/marko-js/marko) -用于Node.js和浏览器的快速，轻量级，基于HTML的模板引擎，具有异步，流式传输，自定义标签和CommonJS模块作为已编译输出.
+* [marko](https://github.com/marko-js/marko) -用于Node.js和浏览器的快速，轻量，基于HTML的模板引擎，具有异步，流式传输，自定义标签和CommonJS模块作为已编译输出.
 * [swig](http://paularmstrong.github.io/swig/) -一个简单，功能强大且可扩展的Node.js和基于浏览器的JavaScript模板引擎.
 
 ## Articles and Posts
@@ -265,7 +266,7 @@
 * [docco](http://jashkenas.github.io/docco/) 是一个快速且肮脏的，长达一百行的，具有文化编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn)  建立手册.  它将简单的人类可读文本文件转换为roff以进行终端显示，还转换为HTML以进行网络显示.
-* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为文档生成确定的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
+* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成自以为是的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
@@ -409,7 +410,7 @@
 * [contra](https://github.com/bevacqua/contra/) -具有功能趣味的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) -功能齐全的承诺库，侧重于创新功能和性能.
 * [when](https://github.com/cujojs/when) -可靠，快速的Promises / A +和when（）实现，以及其他异步工具.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个为事件侦听器添加支持的原型（与浏览器上可用的DOMElements中的EventTarget行为相同）.
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个原型来增加对事件侦听器的支持（与浏览器上可用的DOMElements中的EventTarget行为相同）.
 * [sporadic](https://github.com/marcoonroad/sporadic) -在Promise之上，针对Node和浏览器引擎的可组合并发抽象（例如流，协程和类似Go的通道）.
 
 
@@ -458,7 +459,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的坚定REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) -支持OAuth / API密钥/基本等的通用API客户端.
 
@@ -515,7 +516,7 @@
 * [Ladda](https://github.com/hakimel/Ladda) -带有内置加载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) -用CSS动画制作的加载微调器集合
 
-除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)，以及类似的生成器 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
+除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)以及类似的生成器 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
 
 
 ## Validation
