@@ -27,7 +27,7 @@
 - [Memory Game](https://github.com/Tzoop/MemoryGame) -简单记忆游戏（Godot 3.0）.
 - [Minehunter](https://github.com/genete/Minehunter) -扫雷副本（Godot 2.1）.
 - [Minilens](http://kobuge-games.github.io/minilens/) -免费的益智平台游戏（Godot 2.1）.
-- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) -使用Theater Game Jam（PGA 2015）（Godot 2.1）制作的游戏.
+- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015) (Godot 2.1).
 - [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) -小型跑步游戏，挑战1小时（Godot 2.1）.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) -外星环境中的2D物理跑酷游戏（Godot 2.1）.
@@ -81,7 +81,7 @@
 
 ### Text tutorials
 
-- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) (Godot 2.1, 3.0, 3.1)
+- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) （Godot 2.1、3.0、3.1）
 - [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) -分步介绍（Godot 3.1）.
 - [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials)  -用于创建客户端-服务器多人游戏的教程.  包括用于在Google Compute Platform（Godot 3.1）上托管服务器的教程.
 - [Godot Recipes](http://kidscancode.org/godot_recipes/)  -从入门到高级的文本教程集合.  （Godot 3.x）
@@ -89,6 +89,7 @@
 ### Video tutorials
 
 - [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) -有关3D，着色器，VR和GDNative（Godot 3.x）的教程.
+- [Bitwes's channel](https://www.youtube.com/channel/UCkGO6guRt_5fOh3oDHbfg9w) -TDD游戏开发和GUT框架教程.
 - [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) -有关创建3D游戏的教程系列（Godot 3.1）.
 - [Code with Tom](https://www.youtube.com/codewithtom) -通过制作游戏学习编码（Godot 3.1）.
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) （Godot 3.0）
@@ -124,7 +125,7 @@
 - [Auto Tile Layer](https://github.com/leezh/autotile) -允许使用RPG Maker的Autotile格式（Godot 2.1）自动进行2D拼贴.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -Camera2D的屏幕抖动效果.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器（Godot 2.1、3.1）.
-- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程式的一部分.
+- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳方程式的放松端口
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
@@ -163,6 +164,7 @@
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) -语法突出显示.
 - [Vim](https://github.com/calviken/vim-gdscript3)  -语法突出显示，自动补全和掉毛.  还支持Godot着色器语言.
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) -具有丰富的功能，使您的编程体验尽可能舒适.
+- [GUT Visual Studio Code Extension](https://github.com/bitwes/gut-extension) -直接从Visual Studio代码编辑器运行GUT框架单元/集成测试.
 
 ## Godot script editor syntax themes
 

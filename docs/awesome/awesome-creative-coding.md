@@ -5,7 +5,7 @@
 
 &gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要用于初学者/中级的资源.
 
- 创意编码是与编程系统不同的学科.  目标是创建某种表达方式，而不是功能.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表示为代码的艺术品.
+ 创意编码是与编程系统不同的学科.  目标是创建某种表达方式，而不是功能.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表达为编码的艺术品.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在捐款之前.*
 
@@ -106,7 +106,7 @@
 - [TouchDesigner](http://www.derivative.ca/) [Mac，Win]-创建实时项目的可视化开发平台.
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac]-用于处理和呈现图形数据的开发工具.
 - [Vuo](http://vuo.org/) [Mac]-实时互动媒体编程环境.
-- [Max](https://cycling74.com/products/max/) [Mac，Win]-媒体的可视编程语言.
+- [Max](https://cycling74.com/products/max/) [Mac, Win] - Visual programming language for media.
 - [Pure Data](https://puredata.info/) [跨平台]-多媒体的开源可视化编程语言.
 - [i-score](http://www.i-score.org) [跨平台]-交互式音序器，用于控制创意编码库和工具包.
 - [tooll](http://tooll.io/) [Win]-用于创建交互式3d内容和动画的开源工具.
@@ -115,7 +115,7 @@
 - [cables](https://cables.gl)  [跨平台/ Web]-用于创建漂亮的交互式内容的模型套件.  当前处于私人Beta版，可以请求邀请.
 - [Notch Builder](https://www.notch.one)  [Win]-基于节点的创作工具，重点关注实时图形.  目前处于测试阶段.
 - [Synopsis](https://synopsis.video/) -一套用于计算摄影的开源软件.
-
+- [JOY.JS](https://ncase.me/joy/) -实时视觉编码工具，易于理解，针对初学者.
 ### Sound Programming Languages
 
 - [SuperCollider](http://supercollider.github.io/) [多平台]-音频合成和算法合成的平台.
@@ -145,13 +145,13 @@
 - [picogl.js](https://github.com/tsherif/picogl.js) -最小的WebGL 2渲染库.
 - [Alfrid](https://github.com/yiwenl/Alfrid) -WebGL工具集.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) -用于使用HTML 5和WebGL构建3D游戏的完整JavaScript框架.
-- [twigl](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
+- [twigl](https://github.com/greggman/twgl.js) -Tiny WebGL帮助程序库.
 - [luma.gl](https://github.com/uber/luma.gl) -用于数据可视化的WebGL2组件.
 - [css-doodle](https://css-doodle.com/) -使用CSS绘制图案的Web组件.
 
 ### Projection Mapping • VJing
 
-- [MadMapper](http://www.madmapper.com/) [Mac] - Video mapping projections and Light mapping.
+- [MadMapper](http://www.madmapper.com/) [Mac]-视频映射投影和光照映射.
 - [VDMX](https://vidvox.net/) [Mac]-实时多媒体性能应用程序.
 - [Modul8](http://www.modul8.ch/) [Mac]-实时视频混合和合成.
 - [Resolume](https://resolume.com/) [Mac，Win]-实时混合数字视频和效果.
@@ -234,7 +234,7 @@
 - [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) -ÍñigoQuílez收集了现场编码视频.
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -Bruno Imbrizi在WebExpo 2016上通过画布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) -滑过 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者工作室.
-- [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - Beginners tutorial series about creating 3D games OpenG.
+- [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
@@ -342,7 +342,7 @@
 - [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) -有关计算机图形学的术语表.
 - [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) -OpenGL阴影语言快速参考指南.
 - [3D Maths Cheat Sheet](http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf) -Anton Gerdelan的数学速查表，摘自他的OpenGL书.
-- [docs.GL](http://docs.gl/) -改进了官方OpenGL文档.
+- [docs.GL](http://docs.gl/) - Improvement of the official OpenGL documentation.
 - [OpenGL Shading Language](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language) -Khronos Group GLSL Wiki.
 - [OpenGL 4.3 Reference Card](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) -OpenGL 4.3 API的PDF参考卡.
 - [Easings](http://easings.net/) -互动缓动功能备忘单.
@@ -394,14 +394,14 @@
 - [Eases](https://github.com/mattdesl/eases) -模块化缓和方程的抓包.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) -不同运动方程的可视化.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) -矩阵乘法可视化.
-- [Algebra rules](http://algebrarules.com/) -基本代数最有用的规则.
+- [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
 - [Immersive Math](http://immersivemath.com/ila/index.html) -完全交互式的线性代数.
 - [Image Kernels](http://setosa.io/ev/image-kernels/) -图像内核的交互和视觉介绍.
 - [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) -正弦和余弦的交互爆炸.
 - [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) -详细介绍了Perlin噪音.
 - [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) -从计算机图形学角度来看矢量代数和矩阵代数的教程.
 - [Desmos](https://www.desmos.com/) -图形功能，绘制数据，评估方程式，探索变换等.
-- [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - Math for game developers YouTube playlist.
+- [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) -游戏开发者YouTube播放列表的数学运算.
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) -线性代数YouTube播放列表的实质.
 - [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) -有关动画数学的幻灯片（[repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
 - [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) -对数学和准物理的美观直观介绍.
@@ -425,7 +425,7 @@
 - [ml4a](http://ml4a.github.io/) -艺术家的机器学习.
 - [Keras.js](https://transcranial.github.io/keras-js/) -在具有GPU支持的浏览器中运行Keras模型（tensorflow后端）.
 - [Tesseract.js](http://tesseract.projectnaptha.com/) -纯Javascript多语言OCR.
-- [Google ML](https://cloud.google.com/ml/) -Google的云端机器学习.
+- [Google ML](https://cloud.google.com/ml/) - Cloud machine learning by Google.
 - [TensorFlow](https://www.tensorflow.org/) -用于机器智能的开源软件库.
 - [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/started.html) -在浏览器中进行深度学习.
 - [Wekinator](http://www.wekinator.org/) -允许任何人使用机器学习.

@@ -141,6 +141,7 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 ## C++
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) -通过预览C / C ++扩展 [Microsoft](https://www.microsoft.com)，阅读 [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) 详情
+- [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) -使用clangd为VS Code提供C / C ++语言IDE功能：代码完成，编译错误和警告，定义和交叉引用，包括管理，代码格式，简单的重构.
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) -借助GNU全局工具为C / C ++提供Intellisense.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) -使用以下命令提供C / C ++（和TypeScript，JavaScript，Objective-C，Golang，Rust）的语义补全 [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) -使用Clang命令完成和诊断C / C ++ / Objective-C.
@@ -227,7 +228,7 @@ Framework-specific:
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-&gt; VS Code扩展程序，用于在Chrome浏览器或支持Chrome调试协议的其他目标中调试JavaScript代码.
+&gt; VS Code扩展名，用于在Chrome浏览器或其他支持Chrome调试协议的目标中调试JavaScript代码.
 
 ### Facebook Flow
 
@@ -241,7 +242,7 @@ Framework-specific:
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-&gt; VS Code扩展程序，用于在Chrome浏览器或支持Chrome调试协议的其他目标中调试JavaScript代码.
+&gt; VS Code扩展名，用于在Chrome浏览器或其他支持Chrome调试协议的目标中调试JavaScript代码.
 
 ## Markdown
 
@@ -599,7 +600,7 @@ Framework-specific:
 
 ## [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
-&gt;自动时间跟踪器和生产率仪表板，显示您在每个项目，文件，分支和语言中编码的时间.
+&gt;自动时间跟踪器和生产力仪表板，显示您在每个项目，文件，分支和语言中编码的时间.
 
 ## [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
@@ -635,7 +636,7 @@ Framework-specific:
 
 ### [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
 
-&gt;将html转换为在Visual Studio Code中显示的内容，再也不用使用外部页面了.
+&gt;将html转换为在Visual Studio Code中插入，不再需要使用外部页面.
 
 ## [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
 
@@ -720,7 +721,7 @@ Framework-specific:
 
 ## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
 
-> Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
+ &gt; VS Code的浏览器预览，使您可以在编辑器中打开可以调试的真实浏览器预览.  浏览器预览由Chrome Headless驱动，并通过在新过程中启动无头Chrome实例来工作.  这提供了一种在VS Code中呈现Web内容的安全方法，并启用了有趣的功能，如编辑器内调试等！
 
 ![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
 
@@ -958,7 +959,7 @@ A simple theme with bright colors and comes in three versions — dark, light an
 
 ### [Edge by Bogdan Lazar](https://vscodethemes.com/e/bogdanlazar.edge)
 
-一个简单的主题，具有鲜艳的色彩，有三种变体-夜空，宁静和海洋，全天候舒适工作.
+一个简单的主题，具有鲜艳的色彩，可分为三种类型-夜空，宁静和海洋，全天候舒适地工作.
 
 <a href="https://vscodethemes.com/e/bogdanlazar.edge">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/bogdanlazar.edge-theme.png" width="600" />
@@ -1038,7 +1039,7 @@ Monokai启发的主题 [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
 
- 夜猫子的VS Code主题.  在白天也可以很好地工作，但是对于那些喜欢在深夜编码的人来说，此主题是微调的.  颜色选择已考虑到色盲和弱光环境下人们可以访问的内容.  决策还基于有意义的对比来进行阅读理解和最佳的眼花乱.  ✨
+ 夜猫子的VS Code主题.  在白天也可以很好地工作，但是对于那些喜欢在深夜编码的人来说，这个主题是微调的.  颜色选择已考虑到色盲和弱光环境下人们可以访问的内容.  决策还基于有意义的对比来进行阅读理解和最佳的眼花乱.  ✨
 
 <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/night-owl.png" width="600" />
@@ -1155,7 +1156,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 ## Tools
 
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) -通过Visual Studio Live Share，您可以与他人实时进行协作式编辑和调试，无论您使用的是哪种编程语言或正在构建的应用程序类型.
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) -Visual Studio Live Share使您能够与他人实时进行协作式编辑和调试，无论您使用的是哪种编程语言或正在构建的应用程序类型.
 - [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) -由于VS Code支持TextMate主题，因此您可以在此在线编辑器中创建主题，然后使用创建新的VS Code包 [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) 工具
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 - [Open in Code](https://github.com/sozercan/OpenInCode) -macOS Finder工具栏应用程序可在Visual Studio Code中打开当前文件夹
@@ -1180,7 +1181,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/viatsko/awesome-vscode/blob/master/CONTRIBUTING.md) 第一.
+ 欢迎捐款！  阅读 [contribution guidelines](https://github.com/viatsko/awesome-vscode/blob/master/CONTRIBUTING.md) first.
 
 ## License
 

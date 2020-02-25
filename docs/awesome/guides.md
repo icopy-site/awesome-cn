@@ -2,8 +2,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Guides
 
-希望成为优秀程序员的指南.  
-此存储库的目的是收集和分发有用的链接
+想要变得很棒的程序员指南.  
+该存储库的目的是收集和分发有用的链接
 网络上的编码风格指南和开发实践.
 
 
@@ -156,7 +156,8 @@
 ### API
 
 + [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
-+ [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
++ [良好的RESTful API原理
+  设计]（https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/）
 + [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
 + [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 + [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
@@ -194,7 +195,7 @@
 ### Node.js
 
 + [Node.js Style Guide](https://github.com/felixge/node-style-guide#readme)
-+ [Node.js Best Practices](https://github.com/i0natan/nodebestpractices#readme)
++ [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices#readme)
 
 ### Security
 
@@ -223,4 +224,4 @@ See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUT
 
 ---
 
-这项工作是根据a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
+这项工作是根据 [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).

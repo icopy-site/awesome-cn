@@ -45,6 +45,7 @@
 
  博客文章和Wardley地图的其他有趣示例.  按日期排序，最新的优先.
 
+- [On the diversity of values](https://medium.com/@swardley/on-the-diversity-of-values-af1f91217be5)  -关于价值观的包容性和排他性.  2020年2月24日.
 - [From HS2 to China and … back again](https://medium.com/@swardley/from-hs2-to-china-and-back-again-6bce5764ea14)  -在不断变化的地缘政治世界中.  2020年2月23日.
 - [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) -2020年2月9日，查看组织中的团队和层级以及用于满足组织需求的做法，例如结盟，报告等.
 - [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/)  -Wardley映射显示，区块链的成熟度演变与其他主流技术相同.  2020年1月28日.

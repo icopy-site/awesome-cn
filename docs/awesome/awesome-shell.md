@@ -19,7 +19,7 @@
 
  精选的优秀命令行框架，工具包，指南和小玩意的列表.  受到awesome-php的启发.  这个很棒的收藏也可以在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 -[** Awesome Zsh **] [awesome-zsh] [！[Awesome] [awesome-badge]] [awesome-zsh]
--[** Awesome Fish **] [awesome-fish] [！[Awesome] [awesome-badge]] [awesome-fish]
+-[** Awesome Fish **] [awesome-fish] [！[Awesome] [awesome-badge]] [[awesome-fish]
 
 ## Shells
 
@@ -61,17 +61,18 @@
 * [browsh](https://github.com/browsh-org/browsh) -现代的基于文本的浏览器
 * [Buku](https://github.com/jarun/Buku) -强大的命令行书签管理器
 * [byobu](https://byobu.org/) -基于文本的窗口管理器和终端多路复用器
-* [commacd](https://github.com/shyiko/commacd) -在Bash中移动的更快方法
+* [cod](https://github.com/dim-an/cod) — Shell的完成守护程序，可在调用`--help`命令时学习
+* [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [CloudClip](https://github.com/skywind3000/CloudClip) -您在云端的剪贴板，在不同系统之间根据要点复制和粘贴文本
 * [ddgr](https://github.com/jarun/ddgr) -来自终端的DuckDuckGo
 * [desk](https://github.com/jamesob/desk) -外壳的轻量级工作区管理器
 * [direnv](https://github.com/direnv/direnv) -Shell的环境切换器，与autoenv比较
-* [dnote](https://github.com/dnote/dnote) -开发人员使用的简单的端到端加密笔记本
+* [dnote](https://github.com/dnote/dnote) -具有多设备同步和Web界面的简单命令行笔记本
 * [enhancd](https://github.com/b4b4r07/enhancd) -：rocket：具有交互式过滤器的下一代cd命令
 * [eureka](https://github.com/simeg/eureka/) -：bulb：CLI工具，无需离开终端机即可输入和存储您的想法
 * [fasd](https://github.com/clvv/fasd) -命令行生产力提升器，可快速访问文件和目录
 * [fd](https://github.com/sharkdp/fd) -一种简单，快速且用户友好的替代方法.
-* [foxy](https://github.com/s-p-k/foxy) -用于Firefox和冲浪浏览器的纯文本书签.
+* [foxy](https://github.com/s-p-k/foxy) -用于Firefox和浏览器的纯文本书签.
 * [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的查询查找文件.
 * [funky](https://github.com/bbugyi200/funky) -扩展外壳函数的功能，使其更强大，更灵活.
 * [fz](https://github.com/changyuheng/fz) -z的无缝模糊制表符完成
@@ -97,7 +98,7 @@
 * [marker](https://github.com/pindexis/marker) -为您的shell命令添加书签
 * [mackup](https://github.com/lra/mackup/) -使您的应用程序设置保持同步（OS X / Linux）
 * [mcfly](https://github.com/cantino/mcfly)  -浏览您的外壳历史记录.  大苏格兰人！
-* [modules](http://modules.sourceforge.net/) - Classical Tcl-based Environment Modules managing the shell environment (compare to Lmod, direnv, and autoenv)
+* [modules](http://modules.sourceforge.net/) -管理外壳环境的基于Tcl的经典环境模块（与Lmod，direnv和autoenv相比）
 * [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器
 * [parallel](https://www.gnu.org/software/parallel/) -从标准输入并行构建和执行Shell命令行
 * [pathpicker](https://github.com/facebook/PathPicker)  -接受grep，search，git等输入；  允许从输入结果中选择文件，然后可以打开文件或将其提供为命令的参数.
@@ -105,6 +106,7 @@
 * [percol](https://github.com/mooz/percol) -在UNIX shell的传统管道概念中增加了交互式过滤的风格
 * [q](https://github.com/cal2195/q) -Vim像是Bash和Zsh Shell的宏寄存器
 * [qfc](https://github.com/pindexis/qfc) -Bash和Zsh的文件完成小部件
+* [resh](https://github.com/curusarn/resh) -Zsh和Bash的上下文shell历史记录
 * [rg](https://github.com/BurntSushi/ripgrep) -ripgrep是一种面向行的搜索工具，结合了Silver Searcher的可用性和GNU grep的原始速度
 * [screen](https://www.gnu.org/software/screen/) -GNU终端多路复用器
 * [shell-history](https://github.com/pawamoy/shell-history) -通过Highcharts可视化您的shell使用情况
@@ -152,7 +154,7 @@
 * [liquidprompt](https://github.com/nojhan/liquidprompt) -针对Bash和Zsh的功能齐全且经过精心设计的自适应提示
 * [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -为mysql命令行客户端着色
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) -坚定的git提示输入bash和zsh
-* [polyglot](https://github.com/agkozak/polyglot) -内容丰富的Git提示，可在bash，zsh，ksh，mksh，pdksh，破折号和busybox sh中运行
+* [polyglot](https://github.com/agkozak/polyglot) -信息丰富的Git提示，可在bash，zsh，ksh，mksh，pdksh，破折号和busybox sh中运行
 * [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) -带有颜色，Git状态和Git分支的Bash提示
 * [synth-shell](https://github.com/andresgongora/synth-shell) -带有可自定义状态报告和精美bash提示的Greeter
 
@@ -170,7 +172,7 @@
 * [dokku](https://github.com/dokku/dokku)  -Docker驱动的mini-Heroku.  您见过的最小的PaaS实现.
 * [fish-getopts](https://github.com/jorgebucaran/fish-getopts) -鱼的CLI解析器
 * [forgit](https://github.com/wfxr/forgit) -利用模糊查找器fzf的`git`实用工具.
-* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - Many Git extra utilities. Churn, cut-branch, improved-merge and many more.
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands)  -许多Git额外的实用程序.  流失，分支转移，合并改进等等.
 * [git-extras](https://github.com/tj/git-extras) -Git实用程序-回购摘要，REPL，变更日志填充，作者提交百分比等
 * [git-open](https://github.com/paulirish/git-open) -键入`git open`以在浏览器中打开GitHub页面或网站的存储库
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) -Git快速统计信息是一种访问git存储库中各种统计信息的简单有效的方法.
@@ -178,7 +180,8 @@
 * [git-sh](https://github.com/rtomayko/git-sh) -适合Git工作的自定义Bash环境
 * [hub](https://github.com/github/hub) -集线器可帮助您在git上获胜.
 * [licins](https://github.com/dogoncouch/licins) -将注释的软件许可证插入源代码.
-* [mr](https://myrepos.branchable.com) -多个存储库管理工具
+* [mkdkr](https://github.com/rosineygp/mkdkr) -Makefile + Docker = CI管道
+* [mr](https://myrepos.branchable.com) - Multiple Repository management tool
 * [overcommit](https://github.com/sds/overcommit) -完全可配置和可扩展的Git挂钩管理器
 * [pre-commit](https://pre-commit.com) -用于管理和维护多语言预提交挂钩的框架
 * [rebound](https://github.com/shobrook/rebound) -遇到编译器错误时，立即在终端中浏览堆栈溢出结果
@@ -186,7 +189,7 @@
 * [slap](https://github.com/slap-editor/slap) -在Node.js上运行的类似Sublime的基于终端的文本编辑器
 * [shipit](https://github.com/sapegin/shipit) -简约的SSH部署
 * [starring](https://github.com/ritz078/starring) -自动为您在GitHub上使用的npm-package加上星号.
-* [tag](https://github.com/aykamko/tag) -立即跳转到您的AG比赛.
+* [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 * [wipe-modules](https://github.com/bntzio/wipe-modules) -一个小的代理，可删除非活动项目的node_modules文件夹
 * [xtm](https://github.com/Camji55/xtm) -命令行工具，可帮助您管理Xcode项目模板.
 
@@ -227,6 +230,7 @@
 * [aria2](https://github.com/aria2/aria2)  -aria2是在命令行中操作的轻量级多协议和多源，跨平台下载实用程序.  它支持HTTP / HTTPS，FTP，BitTorrent和Metalink
 * [balls](https://github.com/jneen/balls) -重击球
 * [bashttpd](https://github.com/avleen/bashttpd) -用Bash编写的Web服务器
+* [bashhub-server](https://github.com/nicksherron/bashhub-server)  -私有云外壳历史.  bashhub的开源服务器
 * [bitpocket](https://github.com/sickill/bitpocket) -“ DIY Dropbox”或“两向目录（r）同步并正确删除”
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) -Dropbox Uploader是一个Bash脚本，可用于从Dropbox上传，下载，列出或删除文件
 * [httpie](https://github.com/jakubroztocil/httpie) -HTTPie是命令行HTTP客户端，一种用户友好的cURL替代

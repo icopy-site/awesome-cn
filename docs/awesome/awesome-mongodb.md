@@ -247,6 +247,7 @@ Services:
  - [Builder Book App](https://github.com/builderbook/builderbook) -用于发布使用React和Express构建的书籍或文档的Web应用程序
  - [CodeCombat](https://github.com/codecombat/codecombat) -用于学习编码的多人编程游戏
  - [Countly](https://github.com/countly/countly-server) -使用Node.js构建的移动和Web分析和营销平台
+ - [FactorJS](https://github.com/fiction-com/factor) -用Mongoose构建的JavaScript CMS
  - [GrandNode](https://github.com/grandnode/grandnode) -使用ASP.NET构建的多平台电子商务购物车
  - [Leanote](https://github.com/leanote/leanote) -使用Go构建的Evernote克隆
  - [NodeBB](https://github.com/NodeBB/NodeBB) -基于Node.js的论坛软件（“专为现代Web构建”）

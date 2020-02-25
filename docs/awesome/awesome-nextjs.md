@@ -77,7 +77,7 @@
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) -Next.js的通用命名路由.
-* [Next-Pkg](https://github.com/onready/next-pkg) - Extended Next.js server with [pkg](https://github.com/zeit/pkg) 支持.
+* [Next-Pkg](https://github.com/onready/next-pkg) -具有以下功能的扩展Next.js服务器 [pkg](https://github.com/zeit/pkg) 支持.
 * [Next Plugins](https://github.com/zeit/next-plugins) -精选的Webpack和Next.js插件列表
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) -使用graphql-tag的.graphql和.gql文件的Next.js插件
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) -用于Next.js的Apollo Graphql集成
@@ -89,7 +89,7 @@
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) -轻松部署无服务器应用程序.
 * [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) -使用Terraform部署您的应用程序
 * [next-session](https://github.com/hoangvvo/next-session) -Next.js的会话中间件
-* [Next PurgeCSS](https://github.com/lucleray/next-purgecss) -轻松整合 [Purgecss](https://www.purgecss.com/)，这有助于您从捆绑包中删除未使用的CSS. 
+* [Next PurgeCSS](https://github.com/lucleray/next-purgecss) -轻松整合 [Purgecss](https://www.purgecss.com/)，这有助于您从捆绑包中删除未使用的CSS.
 
 
 ## Apps
@@ -116,7 +116,7 @@
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
 * [DS](https://github.com/divyenduz/ds) -个人网站管理员.
 * [Mozilla VR Home](https://vr.mozilla.org/) -Mozilla VR主页
-* [Elton John's website](https://www.eltonjohn.com) -艾尔顿·约翰（Elton John）的网站
+* [Elton John's website](https://www.eltonjohn.com) - Elton John's Website
 * [IOTA's Data Market Place](https://data.iota.org/) -IOTA市场
 * [magicleap.com](https://www.magicleap.com/) -魔法飞跃
 * [NPM.js Search Page](https://www.npmjs.com/search) -NPM的搜索页面
@@ -128,6 +128,7 @@
 ## Books
 * [Hands On Next.js](https://www.honext.io/) -一本关于React应用程序通用（服务器）渲染的实用全书.
 * [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) -使用Next.js创建，构建和部署通用JavaScript应用程序
+* [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) -构建一个前端React应用程序，为您透明地处理服务器端渲染.
 
 ## Videos
 

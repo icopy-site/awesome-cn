@@ -183,6 +183,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Yuin Chien](http://store.yuinchien.com/)
 - [Andrew Heumann](https://shop.andrewheumann.com/)
 - [brubsby](http://shop.brubsby.com/)
+- [Arjan van der Meij](https://dutchplottr.nl/en/)
 
 ## Other Awesomes
 

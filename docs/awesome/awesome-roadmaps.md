@@ -14,6 +14,7 @@
 - [Go Developer Roadmap](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap) -2020年成为Go开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Alikhll/golang-developer-roadmap).
 - [Java Developer Roadmap](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap) -2019年成为Java开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/s4kibs4mi/java-developer-roadmap).
 - [Rust Web Developer Roadmap](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap) -2020年成为Rust Web开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/csharad/rust-web-developer-roadmap).
+- [Nodejs Developer Roadmap](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap) -到2019年成为Node.js开发人员的开发人员路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/aliyr/Nodejs-Developer-Roadmap).
 
 ## Web Development
 - [Developer Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap) -2020年成为Web开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap).
@@ -32,8 +33,10 @@
 ## Miscellaneous
 - [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) -2017年成为UI / UX设计师的路线图.
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) -渴望学习这项惊人技术的任何人的深度学习论文阅读路线图.
+- [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) -您需要了解的有关深度学习的所有知识-启动器.
 - [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) -概述数据科学所需的核心技能.
 - [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) -业余笔测试人员指南，以及一系列黑客工具，资源和参考资料.
+- [NLP Roadmap](https://raw.githubusercontent.com/graykode/nlp-roadmap) -面向有兴趣学习NLP的学生的ROADMAP和KEYWORD [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/graykode/nlp-roadmap).
 - [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) -适用于所有开发人员的软件设计和体系结构路线图.
 
 ## Articles

@@ -24,7 +24,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [Iris](https://iris-project.org) -高阶并发分离逻辑框架.
 - [Q\*cert](https://querycert.github.io) -用于实现和验证查询编译器的平台.
 - [Verdi](https://github.com/uwplse/verdi) -正式验证分布式系统实现的框架.
-- [VST](https://vst.cs.princeton.edu) -用于以更高阶的并发，强制性分隔逻辑验证Coq中的C代码的工具链，对于CompCert编译器的Clight语言而言，这是正确的.
+- [VST](https://vst.cs.princeton.edu) -用于以更高阶的并发，强制性分隔逻辑验证Coq中的C代码的工具链，该逻辑对于CompCert编译器的Clight语言而言是正确的.
 
 ### User Interfaces
 
@@ -46,10 +46,11 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [ExtLib](https://github.com/coq-community/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
 - [FCSL-PCM](https://github.com/imdea-software/fcsl-pcm) -验证指针操作程序中使用的部分可交换monoid的形式化.
 - [Flocq](http://flocq.gforge.inria.fr) -浮点计算的形式化.
-- [Formalised undecidable problems in Coq](https://github.com/uds-psl/coq-library-undecidability) -无法确定的问题及其减少之处的图书馆.
+- [Formalised Undecidable Problems](https://github.com/uds-psl/coq-library-undecidability) -无法确定的问题及其减少之处的图书馆.
 - [Hahn](https://github.com/vafeiadis/hahn) -用于列表和二进制关系推理的库.
 - [Metalib](https://github.com/plclub/metalib) -用于使用本地无名变量绑定表示对语言元理论进行编程的库.
 - [Paco](http://plv.mpi-sws.org/paco/) -用于参数化共导的库.
+- [Regular Language Representations](https://github.com/coq-community/reglang) -包括正则表达式和自动机在内的各种常规语言定义之间的翻译.
 - [Relation Algebra](https://github.com/damien-pous/relation-algebra) -以异构二进制关系作为模型的代数的模块化形式化.
 - [TLC](http://www.chargueraud.org/softs/tlc/) -Coq标准库的非建设性替代方案.
 
@@ -70,6 +71,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) -通用的自动推理锤工具，结合了从以前的证明中学习到的问题，并将其转换为自动证明和重建证明.
 - [Equations](https://github.com/mattam82/Coq-Equations) -Coq的功能定义包.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) -达成有关浮点算术和舍入误差的目标的策略.
+- [Ltac2](https://coq.inria.fr/refman/proof-engine/ltac2.html) -实验型战术语言，类似于Coq的经典Ltac语言.
 - [MetaCoq](https://github.com/MetaCoq/metacoq) -在Coq中将Coq正式化，并提供用于处理Coq术语和开发经过认证的插件的工具.
 - [Mtac2](https://github.com/Mtac2/Mtac2) -插件添加了用于后向推理的类型化策略.
 - [Paramcoq](https://github.com/coq-community/paramcoq) -插件以生成Coq术语的参数翻译.
@@ -146,13 +148,14 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) -使用Coq编写的有关实用工程的教科书，教授高级实用技巧和非常具体的证明样式.
 - [Program Logics for Certified Compilers](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/program-logics-certified-compilers) -本书解释了如何使用分离逻辑构造程序逻辑，并辅以Coq中的正式模型，该模型适用于Clight编程语言和其他示例.
 - [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) -同时提供有关程序正确性的形式逻辑推理和为此目的使用Coq的一般介绍的书.
-- [Programs and Proofs](https://ilyasergey.net/pnp/) -本书简要介绍了Coq中的交互式证明，并在实践中作了介绍，该书强调了通过SSReflect证明语言中的少量原语，对可判定命题进行归纳推理的计算性质.
+- [Programs and Proofs](https://ilyasergey.net/pnp/) -本书简要介绍了Coq中的交互式证明，并在实践中作了介绍，该书强调了通过SSReflect证明语言中的一小部分原语，对可判定命题进行归纳推理的计算性质.
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) -本书介绍了如何使用Flocq库在Coq中正式指定和验证浮点算法.
 - [The Mathematical Components book](https://math-comp.github.io/mcb/) -面向数学倾向用户的书籍，侧重于数学组件库和SSReflect证明语言.
 
 ### Tutorials and Hints
 
 - [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) -在线验证挑战.
+- [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) -Coq&#39;Art书中的Coq代码和练习，包括其他练习和教程.
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) -介绍如何使用Coq定义逻辑概念和功能及其原因.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) -演示用于规范结构编程和验证的设计模式.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) -使用Coq编写形式证明的基础.

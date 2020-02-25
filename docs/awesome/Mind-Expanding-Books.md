@@ -38,7 +38,7 @@
  |  传递幸福：获取利润，激情和目标的途径  谢东| [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
  |  创新者的困境|  克莱顿山  克里斯滕森| [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
  |  影响者：领导变革的新科学|  约瑟夫·格兰尼（Joseph Grenny），凯里·帕特森（Kerry Patterson）| [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
- |  重新审视电子神话：为什么大多数小型企业不起作用以及如何处理|  迈克尔·格伯| [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |  
+| The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It | Michael E. Gerber | [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |  
  |  完成事情：无压力生产力的艺术  大卫艾伦| [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |  
  |  失去童贞：我如何生存，玩乐并发家致富  理查德·布兰森| [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |  
  |  SuperFreakonomics：全球降温，爱国妓女以及自杀炸弹手为何应购买人寿保险| Business Wire  史蒂文·D·利特| [3.96](https://www.goodreads.com/book/show/6402364-superfreakonomics) | 2009 |  
@@ -68,7 +68,7 @@
  |  零对一|  彼得·泰尔（Peter Thiel），布雷克大师赛| [3.75](https://www.goodreads.com/book/show/18050143-zero-to-one) | 2014 |  
  |  一键式：Jeff Bezos和Amazon.com的崛起|  理查德·布兰特| [3.75](https://www.goodreads.com/book/show/11223478-one-click) | 2011 |  
  |  大数据：一场革命将改变我们的生活，工作和思维方式  肯尼斯·库基尔| [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
-| The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
+ |  4小时工作周：逃脱9-5，在任何地方生活并加入新富翁|  蒂莫西·费里斯| [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
  |  偶然的亿万富翁：Facebook的创立，性，金钱，天才和背叛的故事  Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
 
  如果您喜欢扩展心灵的书，则应该查看我的新项目http://diff.blog.  它是一个平台，可帮助您与开发人员社区保持同步.
@@ -102,7 +102,8 @@
  |  可以预见的非理性  丹·阿里利| [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
  |  流：最佳体验心理学  Mihaly Csikszentmihalyi | [4.10](https://www.goodreads.com/book/show/66354.Flow) | 1990 |  
  |  思考，快慢  丹尼尔·卡尼曼| [4.09](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) | 2011 |  
- |  非理性的人：存在哲学研究  威廉·巴雷特| [4.09](https://www.goodreads.com/book/show/83321.Irrational_Man) |  |  
+ |  非理性的人：存在哲学研究  威廉·巴雷特| [4.09](https://www.goodreads.com/book/show/83321.Irrational_Man) |  |
+ |  开心：为什么或多或少一切都很好？  Derren Brown | [4.08](https://www.goodreads.com/book/show/30142270-happy) | 2016 |
  |  无限的开始：改变世界的解释  大卫·德意志| [4.08](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |  |  
  |  我们赖以生存的隐喻  乔治·拉科夫（George Lakoff），马克·约翰逊（Mark Johnson）| [4.08](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) | 2003 |  
  |  砂砾  安吉拉·达克沃思| [4.08](https://www.goodreads.com/book/show/27213329-grit) | 2016 |  
@@ -171,7 +172,7 @@
  |  失去童贞：自传  理查德·布兰森| [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |1999|  
  |  电线中的幽灵：作为世界上最想要的黑客的我的冒险  凯文·米特尼克| [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
  |  自传：走向自由|  Jawaharlal Nehru | [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
- |  iWoz：计算机狂热崇拜者图标：我是​​如何发明个人计算机，与人共同创立Apple的，并且这样做很有趣|  史蒂夫·沃兹尼亚克| [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
+ |  iWoz：计算机狂热崇拜者图标：我是​​如何发明个人计算机，与他人共同创立Apple的，并且这样做很有趣|  史蒂夫·沃兹尼亚克| [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
 ## History
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
@@ -325,7 +326,7 @@
 ## Shakespeare
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
- |  莎士比亚思考：学生演员，导演和其他想让吟游诗人自在的人的入门指南|  巴里·爱德斯坦.  | [4.62](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) |  |  
+ |  莎士比亚思考：学生演员，导演和其他想让吟游诗人感到自在的人的入门指南|  巴里·爱德斯坦.  | [4.62](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) |  |  
  |  哈姆雷特与复仇  Eleanor Prosser | [4.50](https://www.goodreads.com/book/show/625956.Hamlet_Revenge_) | 1971 |  
  |  莎士比亚的格律艺术|  乔治·赖特| [4.39](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) | 1991 |  
  |  炼狱中的哈姆雷特|  斯蒂芬·格林布拉特| [3.98](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) | 2002 |  
@@ -358,7 +359,7 @@
  |  伊万·伊利奇之死|  列夫·托尔斯泰| [4.04](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych) |  |  
  |  安娜·卡列尼娜|  列夫·托尔斯泰| [4.02](https://www.goodreads.com/book/show/15823480-anna-karenina) | 2012 |  
  |  荒凉的房子  查尔斯·狄更斯| [4.00](https://www.goodreads.com/book/show/31242.Bleak_House) | 2006 |  
- |  J&#39;accuse |  Emile Zola | [3.99](https://www.goodreads.com/book/show/816964.J_accuse) | 1998 |  
+| J'accuse | Emile Zola | [3.99](https://www.goodreads.com/book/show/816964.J_accuse) | 1998 |  
  |  赶上22 |  约瑟夫·海勒| [3.98](https://www.goodreads.com/book/show/4610.Catch_22) | 2004 |  
  |  欢乐之屋|  伊迪丝·沃顿 [3.94](https://www.goodreads.com/book/show/17728.The_House_of_Mirth) | 2006 |  
  |  面具的自白|  三岛由纪夫| [3.91](https://www.goodreads.com/book/show/62794.Confessions_of_a_Mask) | 1998 |  
@@ -447,7 +448,7 @@
 |------|--------|------------------|----------------|  
  |  叶子之家|  Mark Z. Danielewski | [4.13](http://www.goodreads.com/book/show/24800.House_of_Leaves) | 2000 |  
  |  德古拉|  布拉姆·斯托克| [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
- |  科学怪人|  玛丽·雪莱（Mary Shelley），莫里斯·欣德尔（Maurice Hindle）| [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
+ |  科学怪人|  玛丽·雪莱，莫里斯·欣德尔 [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
 
 ### Miscellaneous
  |  姓名|  作者|  Goodreads评分|  出版年份|  
@@ -473,7 +474,7 @@
 |------|--------|------------------|----------------|  
  |  模式语言：城镇，建筑物，建筑|  克里斯托弗·亚历山大（Christopher Alexander），石川萨拉（Sara Ishikawa），默里·西尔弗斯坦（Murray Silverstein），马克斯·雅各布森（Max Jacobson），英格丽·菲克斯达·金（Ingrid Fiksdahl-King）和Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
  |  建筑物的学习方法：建筑物建成后会发生什么？  斯图尔特·布兰德| [4.32](https://www.goodreads.com/book/show/38310.How_Buildings_Learn) | 1995 |
-| Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability | Steve Krug | [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
+ |  再谈：不要让我思考：Web可用性的常识方法  史蒂夫·克鲁格| [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
  |  日常用品的设计|  唐纳德·诺曼| [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  
  |  侧身看的艺术  艾伦·弗莱彻| [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 |  
 
