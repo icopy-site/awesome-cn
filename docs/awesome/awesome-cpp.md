@@ -214,6 +214,7 @@
 * [libconfig](https://github.com/hyperrealm/libconfig)  -C，C ++库，用于处理结构化配置文件.  [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) -C的小型配置文件解析器库.[ISC]
 * [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
+* [toml++](https://github.com/marzer/tomlplusplus)  -C ++ 17及更高版本的仅标头TOML解析器和序列化器.  [麻省理工学院] [website](https://marzer.github.io/tomlplusplus/)
 
 ## Containers
 
@@ -254,14 +255,14 @@
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)  -用于检测文件中SHA-1冲突的库和命令行工具.  [麻省理工学院]
 * [Tink](https://github.com/google/tink)  -多语言，跨平台的库，提供安全，易于正确使用且难以滥用的加密API.  [Apache-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) -C型小型便携式AES128 / 192/256.[PublicDomain]
-* [Themis](https://github.com/cossacklabs/themis)  -加密库可实现无痛数据安全性，为移动和服务器平台提供对称和非对称加密，具有前向保密性的安全套接字.  [Apache2]
+* [Themis](https://github.com/cossacklabs/themis)  -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有前向保密性的安全套接字.  [Apache2]
 
 ## CSV
 *用于解析逗号分隔值（CSV）文件的库*
 
 * [csv](https://github.com/p-ranav/csv)  -CSV用于现代C ++.  [MIT]
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser)  -小型，易于使用且快速的仅标头库，用于读取CSV文件.  [BSD-3-Clause]
-* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)  -快速，自包含的，流式C ++ 17 CSV解析器，具有可选的类型转换和统计信息.  [麻省理工学院]
+* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)  -快速，自包含的流式C ++ 17 CSV解析器，具有可选的类型转换和统计信息.  [麻省理工学院]
 
 ## Database
 *数据库库，SQL Server，ODBC驱动程序和工具*
@@ -369,7 +370,7 @@
 * [gtkmm](http://www.gtkmm.org/en/)  -流行的GUI库GTK +的官方C ++接口.  [LGPL]
 * [imgui](https://github.com/ocornut/imgui)  -具有最小依赖性的即时模式图形用户界面.  [麻省理工学院]
 * [iup](https://www.tecgraf.puc-rio.br/iup)  -用于构建图形用户界面的多平台工具包.  [麻省理工学院]
-* [libui](https://github.com/andlabs/libui)  -C中的简单且可移植（但不灵活）的GUI库，使用其支持的每个平台的本机GUI技术.  [麻省理工学院]
+* [libui](https://github.com/andlabs/libui)  -C中的简单和可移植（但不灵活）的GUI库，使用其支持的每个平台的本机GUI技术.  [麻省理工学院]
 * [MyGUI](http://mygui.info/)  -快速，灵活和简单的GUI.  [麻省理工学院]
 * [nana](http://nanapro.org/en-us/)  -Nana是用于现代C ++风格的GUI编程的跨平台库.  [促进]
 * [NanoGui](https://github.com/wjakob/nanogui)  -OpenGL 3.x或更高版本的简约跨平台窗口小部件库.  [BSD]
@@ -475,7 +476,7 @@
 * [json.h](https://github.com/sheredom/json.h)  -在C和C ++中解析JSON的简单的单头/单源解决方案.  [无牌]
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间极低的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间极低的JSON解析器.
 * [json11](https://github.com/dropbox/json11)  -C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库.  支持C ++ 11.  无依赖关系，快速且对开发人员友好.  [Apache2]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
@@ -496,7 +497,7 @@
 ## Logging
 
 * [Blackhole](https://github.com/3Hren/blackhole)  -基于属性的日志记录框架，该框架旨在快速，模块化和高度可定制.  [麻省理工学院]
-* [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html)  -设计成非常模块化和可扩展的.  [促进]
+* [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - Designed to be very modular and extensible. [Boost]
 * [Easylogging++](https://github.com/easylogging/easyloggingpp)  -适用于C ++ 11（或更高版本）应用程序的超轻量级高性能日志记录库.  [麻省理工学院] [website](https://muflihun.github.io/easyloggingpp)
 * [G3log](https://github.com/KjellKod/g3log)  -带有动态接收器的异步记录器.  [公共区域]
 * [glog](https://github.com/google/glog) -Google日志记录模块的C ++实现.
@@ -558,7 +559,7 @@
 * [SymEngine](https://github.com/symengine/symengine)  -快速的符号操作库，用C ++重写了SymPy的核心.  [麻省理工学院]
 * [TinyExpr](https://github.com/codeplea/tinyexpr)  -AC库，用于解析和评估字符串中的数学表达式.  [zlib]
 * [Vc](https://github.com/VcDevel/Vc)  -C ++的SIMD矢量类.  [BSD]
-* [Versor](http://versor.mat.ucsb.edu/) -用于几何代数的（快速）通用C ++库，包括欧几里得，投影，保形，时空等.
+* [Versor](http://versor.mat.ucsb.edu/) -一个用于几何代数的（快速）通用C ++库，包括欧几里得，射影，保形，时空等.
 * [Wykobi](http://www.wykobi.com/)  -高效，强大且易于使用的面向C ++ 2D / 3D的计算几何例程的C ++库.  [麻省理工学院]
 * [xtensor](https://github.com/QuantStack/xtensor)  -受NumPy语法启发的C ++ 14库，用于使用多维数组表达式进行数值分析.  [BSD 3句] [website](http://quantstack.net/xtensor)
 
@@ -769,7 +770,7 @@
 
 ## Virtual Machines
 
-* [CarpVM](https://github.com/tekknolagi/carp)  -C语言中的“有趣” VM.  [GPLv3]
+* [CarpVM](https://github.com/tekknolagi/carp)  -C语言中的“有趣” VM.让我们看看这是怎么回事.  [GPLv3]
 * [MicroPython](https://github.com/micropython/micropython)  -旨在在微控制器上实现Python 3.x的实现.  [麻省理工学院]
 * [TinyVM](https://github.com/jakogut/tinyvm) -用纯ANSI C编写的小型，快速，轻巧的虚拟机.
 
@@ -783,7 +784,7 @@
 * [Drogon](https://github.com/an-tao/drogon)  -基于C ++ 14/17的高性能HTTP应用程序框架.  [麻省理工学院]
 * [facil.io](https://github.com/boazsegev/facil.io)  -事件丰富的高性能C Web框架，支持HTTP，WebSocket，SSE等.  [麻省理工学院] [website](http://facil.io)
 * [Kore](https://kore.io/) -用C开发的用于Web应用程序的超快速和灵活的Web服务器/框架.[ISC]
-* [libOnion](http://www.coralbits.com/libonion/)  -轻量级的库，可帮助您使用C编程语言创建Web服务器.  [LGPLv3]
+* [libOnion](http://www.coralbits.com/libonion/)  -轻量级库，可帮助您使用C编程语言创建Web服务器.  [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan)  -实验性，可扩展的高性能HTTP服务器.  [GPL2]
 * [oat++](https://github.com/oatpp/oatpp)  -轻巧，零依赖的框架可创建高性能的Web服务.  [Apache-2.0] [website](https://oatpp.io/) 
 * [Pistache](http://pistache.io/)  -Pistache是​​一个用纯C ++ 11编写的C ++ REST框架，没有外部依赖关系.  [Apache2]
@@ -835,7 +836,7 @@
 * [Remote Call Framework](http://www.deltavsoft.com/)  -C ++的进程间通信框架.  [GPL2 / Commercial]
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
 * [SDS](https://github.com/antirez/sds) -C的简单动态字符串库.[BSD]
-* [semver.c](https://github.com/h2non/semver.c) -一个解析器解析器，并在ANSI C中呈现.[MIT]
+* [semver.c](https://github.com/h2non/semver.c) -一个解析器解析器，并在ANSI C中呈现.
 * [Serial Communication Library](https://github.com/wjwwood/serial)  -用C ++编写的跨平台串行端口库.  [麻省理工学院]
 * [sigslot](http://sigslot.sourceforge.net/)  -C ++信号/插槽库.  [公共区域]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal)  -高性能C ++ 11信号.  [公共区域]
@@ -997,7 +998,7 @@
 *很棒的C或C ++相关书籍.
 
 * [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
-* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - vhf/free-programming-books/C.
+* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) -vhf /免费编程书籍/ C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) -vhf / free-programming-books / C ++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) -C ++最佳实践的协作集合.
 

@@ -90,6 +90,7 @@
 ## Authentication and Authorization
 
 * [ASP.NET Identity](https://github.com/aspnet/Identity/) -用于ASP.NET应用程序的新成员资格系统
+* [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) -对ASP.NET应用程序的SAML身份验证支持
 * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth and InfoCard protocols
 * [Logibit Hawk](https://github.com/logibit/logibit.hawk/) -自动对焦# [Hawk](https://github.com/hapijs/hawk#usage-example) 认证库
 * [IdentityModel](https://github.com/IdentityModel) -用于.NET 4.5和MVC4 / Web API中的身份和访问控制的帮助程序库.
@@ -154,7 +155,7 @@
 * [Fluent Command Line Parser](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
 * [JustCli](https://github.com/jden123/JustCli) -这只是创建自己的命令行工具的快速方法.
 * [Gui.cs](https://github.com/migueldeicaza/gui.cs) -.NET的终端UI工具包.
-* [Power Args](https://github.com/adamabdelhamed/PowerArgs)  -PowerArgs将命令行参数转换为易于编程的.NET对象.  它还提供了大量的可选功能，例如参数验证，自动生成的用法，制表符补全和大量可扩展性
+* [Power Args](https://github.com/adamabdelhamed/PowerArgs)  -PowerArgs将命令行参数转换为易于编程的.NET对象.  它还提供了大量可选功能，例如参数验证，自动生成的用法，制表符补全和大量可扩展性
 * [ReadLine](https://github.com/tonerdo/readline) -用于.NET / .NET Core的类似GNU-Readline的库.
 * [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) -独特的命令行解析器，利用对象树作为命令.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
@@ -218,7 +219,7 @@
 
 ## Compression
 
-* [SharpCompress](https://github.com/adamhathcock/sharpcompress)  -SharpCompress是一个用于.NET / Mono / Silverlight / WP7的压缩库，可以使用仅向前读取和文件随机访问API来解压缩，解压缩，解压缩，解压缩和解压缩ungzip.  实现了对zip / tar / bzip2 / gzip的写支持
+* [SharpCompress](https://github.com/adamhathcock/sharpcompress)  -SharpCompress是一个用于.NET / Mono / Silverlight / WP7的压缩库，可以通过仅向前读取和文件随机访问API来解压缩，解压缩，解压缩，解压缩和解压缩ungzip.  实现了对zip / tar / bzip2 / gzip的写支持
 * [DotNetZip.Semverd](https://github.com/haf/DotNetZip.Semverd)  -一个开放源代码项目，提供用于处理ZIP文件的.NET库以及一些相关工具.  （ [**Unmaintained** DotNetZip](https://archive.codeplex.com/?p=dotnetzip))
 * [SharpZipLib](https://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 * [Snappy for Windows](https://snappy.machinezoo.com/) -用于P / Invoke的.NET的Snappy压缩库
@@ -414,7 +415,7 @@
 * [Gtk#](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
 * [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) -用于创建Material Design样式的WPF应用程序的工具包
 * [Eto.Forms](https://github.com/picoe/Eto) -用于.NET和Mono中的桌面和移动应用程序的跨平台GUI框架
-* [Dragablz](https://github.com/ButchersBoy/Dragablz) -可拖动，可撕开的WPF选项卡控件（类似于Chrome），支持布局并具有完整主题，包括与MahApps和Material Design兼容的布局.
+* [Dragablz](https://github.com/ButchersBoy/Dragablz) -可拖动，可撕裂的WPF选项卡控件（类似于Chrome），支持布局并且具有完整主题，包括与MahApps和Material Design兼容的布局.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) -Fluent Ribbon Control Suite是一个库，为WPF实现了类似Office和Windows 8的Ribbon.
 * [Office Ribbon](https://github.com/RibbonWinForms/RibbonWinForms) -一个为WinForms实现MS Office Ribbon的库.
 * [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) - Theming .NET WinForms, C# or VB.Net, to Google's Material Design principles.
@@ -471,7 +472,7 @@
 
 ## Image Processing
 
-* [ImageResizer](https://imageresizing.net/)  -向图像网址添加命令，以获取更改版本（以毫秒为单位）.  实时调整图像大小，编辑等.
+* [ImageResizer](https://imageresizing.net/)  -在图片网址中添加命令，以获取更改后的版本（以毫秒为单位）.  实时调整图像大小，编辑等.
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - Open-source .NET library to manipulate images on-the-fly.
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) -完全托管的跨平台库，用于处理图像文件.
 * [DynamicImage](https://dynamicimage.apphb.com/) -用于ASP.NET的高性能开源图像处理库.
@@ -511,7 +512,7 @@
 
 ## IoC
 
-* [Castle Windsor](https://github.com/castleproject/Windsor) -温莎城堡（Castle Windsor）是最好的品种，可用于.NET和Silverlight的成熟的控制反转容器
+* [Castle Windsor](https://github.com/castleproject/Windsor) -温莎城堡（Castle Windsor）是最好的品种，可用于.NET和Silverlight的成熟的Inversion of Control容器
 * [Unity](https://github.com/unitycontainer/unity) -轻量级可扩展依赖项注入容器，支持构造函数，属性和方法调用注入
 * [Autofac](https://github.com/autofac/Autofac) -令人上瘾的.NET IoC容器
 * [DryIoc](https://github.com/dadhi/DryIoc) -简单，快速的全功能IoC容器.
@@ -524,7 +525,7 @@
 * [Scrutor](https://github.com/khellang/Scrutor) -Microsoft.Extensions.DependencyInjection的程序集扫描扩展.
 * [VS MEF](https://github.com/Microsoft/vs-mef) -Visual Studio使用的托管扩展框架（MEF）实现.
 * [TinyIoC](https://github.com/grumpydev/TinyIoC) -简单易用，无忧的控制容器反转版，适用于小型项目，图书馆和初学者.
-* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻量级便携式依赖注入框架.
+* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻巧，可移植的依赖项注入框架.
 
 ## JavaScript Engines
 
@@ -557,7 +558,7 @@
 * [Accord.NET](http://accord-framework.net/) -结合了音频和图像处理库（计算机视觉，计算机试听，信号处理和统计）的机器学习框架.
 * [Accord.NET Extensions](https://github.com/dajuric/accord-net-extensions) -先进的图像处理和计算机视觉算法作为流畅的扩展.
 * [AForge.NET](http://www.aforgenet.com/) -计算机视觉和人工智能（图像处理，神经网络，遗传算法，机器学习，机器人技术）领域的开发人员和研究人员的框架.
-* [Catalyst](https://github.com/curiosity-ai/catalyst)  受spaCy启发的跨平台自然语言处理（NLP）库，具有预先训练的模型，对单词和文档嵌入进行训练的现成支持以及灵活的实体识别模型.  的一部分 [SciSharp Stack](https://scisharp.github.io/SciSharp/)
+* [Catalyst](https://github.com/curiosity-ai/catalyst)  受spaCy启发的跨平台自然语言处理（NLP）库，具有预训练的模型，对单词和文档嵌入进行训练的现成支持以及灵活的实体识别模型.  的一部分 [SciSharp Stack](https://scisharp.github.io/SciSharp/)
 * [Deedle](https://bluemountaincapital.github.io/Deedle/) - Data frame and (time) series library for exploratory data manipulation with C# and F# support
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
 * [GeneticSharp](https://github.com/giacomelli/GeneticSharp)  -用于.NET Core和.NET Framework的多平台遗传算法库.  该库具有GA运算符的几种实现，例如：选择，交叉，突变，重新插入和终止.
@@ -628,7 +629,7 @@
 * [Valit](https://github.com/valit-stack/Valit) -Valit非常简单，可以对.NET Core进行流畅的验证.
 * [Humanizer](https://github.com/Humanizr/Humanizer) -Humanizer满足您.NET对操纵和显示字符串，枚举，日期，时间，时间跨度，数字和数量的所有需求
 * [LINQPad](https://www.linqpad.net) - a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
-* [Polly](https://github.com/App-vNext/Polly)  -以流畅的方式表示瞬态异常处理和弹性策略，例如重试，等待和重试，断路器和隔板隔离.  完全线程安全和完全异步支持.  （4.0 / 4.5 / .NET Core / .NET Standard / Xamarin）.
+* [Polly](https://github.com/App-vNext/Polly)  -以流畅的方式表达瞬态异常处理和弹性策略，例如重试，等待和重试，断路器和隔板隔离.  完全线程安全和完全异步支持.  （4.0 / 4.5 / .NET Core / .NET Standard / Xamarin）.
 * [Rant](https://github.com/TheBerkin/Rant) -Rant程序文本生成DSL https://berkin.me/rant/
 * [ScriptCS](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, NuGet and the power of Roslyn!
 * [Shielded](https://github.com/jbakic/Shielded) -.NET的软件事务存储（STM）实现
@@ -638,7 +639,7 @@
 * [TypeShape](https://github.com/eiriktsarpalis/TypeShape) - TypeShape is a small, extensible F# library for practical generic programming
 * [Streams](https://github.com/nessos/Streams) - A lightweight F#/C# library for efficient functional-style pipelines on streams of data.
 * [Warden](https://github.com/warden-stack/Warden)  -为您的应用程序，资源和基础架构定义“运行状况检查”.  守望守望者
-* [ByteSize](https://github.com/omar/ByteSize)  -ByteSize是一个实用程序类，它通过消除表示的值的歧义，使代码中的字节大小表示更容易.  ByteSize表示字节，而System.TimeSpan表示时间.
+* [ByteSize](https://github.com/omar/ByteSize)  -ByteSize是一个实用程序类，它通过消除表示的值的歧义性，使代码中的字节大小表示更容易.  ByteSize表示字节，而System.TimeSpan表示时间.
 * [Jot](https://github.com/anakic/jot) -用于持久和恢复应用程序状态的库（.settings文件的更好替代方案）.
 * [Enums.NET](https://github.com/TylerBrinkley/Enums.NET) -Enums.NET是高性能的类型安全的.NET枚举实用程序库
 * [HidLibrary](https://github.com/mikeobrien/HidLibrary) -该库使您可以枚举.NET中与Hid兼容的USB设备并与之通信.
@@ -654,7 +655,7 @@
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)  -一个小型但功能强大的框架，旨在跨所有XAML平台构建应用程序.  它对MV *模式的强大支持将使您能够快速构建解决方案，而无需牺牲代码质量或可测试性.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) -该工具包的主要目的是加速在WPF，Silverlight，Windows Store（RT）和Windows Phone中创建和开发MVVM应用程序
 * [Catel](https://www.catelproject.com/)  -Catel是一个应用程序开发平台，专注于MVVM（WPF，Silverlight，Windows Phone和WinRT）和MVC（ASP.NET MVC）.  Catel的核心包含一个IoC容器，模型，验证，备忘录，消息中介器，参数检查等.
-* [UpdateControls](http://updatecontrols.net/cs/)  -Update Controls不需要您实现`INotifyPropertyChanged`或声明`DependencyProperty`.  它将控件直接连接到CLR属性.  这使其非常适合于Model / View / ViewModel模式.
+* [UpdateControls](http://updatecontrols.net/cs/)  -更新控件不需要您实现`INotifyPropertyChanged`或声明`DependencyProperty`.  它将控件直接连接到CLR属性.  这使其非常适合于Model / View / ViewModel模式.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) -用于.NET的MVVM框架，该框架集成了Reactive Extensions（Rx）框架，使开发人员可以使用WPF，Windows Store Apps，WP8或Xamarin构建美观，可测试的应用程序.
 * [Okra App Framework](https://okraframework.github.io) -针对Windows 8.1的以应用程序为中心的MVVM框架，考虑了依赖项注入，其中包括一整套Visual Studio MVVM模板.
 * [Prism](https://github.com/PrismLibrary/Prism) -跨平台的桌面和移动MVVM开发框架.
@@ -717,7 +718,7 @@
 * [BaGet](https://github.com/loic-sharma/BaGet/) -跨平台的轻量级NuGet和Symbol服务器
 * [Cloudsmith](https://cloudsmith.io/l/nuget-feed/)  -完全托管的软件包管理SaaS，支持NuGet，Npm，Docker等.  ** [免费提供给公众/ OSS] ** ** [$] **
 * [MyGet](https://www.myget.org/)  -用于NuGet，NPM，Bower和VSIX的托管程序包存储库.  还提供CI即服务.  ** [$] **
-* [Paket](https://github.com/fsprojects/Paket)  -.NET的程序包依赖管理器，支持NuGet程序包和GitHub存储库.  https://fsprojects.github.io/Paket/
+* [Paket](https://github.com/fsprojects/Paket)  -.NET的程序包依赖项管理器，支持NuGet程序包和GitHub存储库.  https://fsprojects.github.io/Paket/
 * [Sleet](https://github.com/emgarten/sleet/) -支持AWS S3和Azure存储的NuGet v3静态提要生成器
 
 ## PDF
@@ -825,7 +826,7 @@
 
 * [Stateless](https://github.com/dotnet-state-machine/stateless) -直接在.NET代码中创建状态机和基于轻量级状态机的工作流
 * [Automatonymous](https://github.com/MassTransit/Automatonymous) -用于.NET的状态机库-允许您编写流畅的样式状态机
-* [Appccelerate - State Machine](https://www.appccelerate.com/statemachine.html) -强大的状态机库-配置有流畅的API以及同步和异步状态转换支持
+* [Appccelerate - State Machine](https://www.appccelerate.com/statemachine.html) - A powerful state machine library - configured with a fluent API and synchrounous and asynchronous state transition support
 * [LiquidState](https://github.com/prasannavl/LiquidState) -用于.NET的高效异步和同步状态机
 
 ## Static Site Generators
@@ -910,7 +911,7 @@
 ## UI Automation
 
 * [Atata](https://github.com/atata-framework/atata) -基于Selenium WebDriver的自动化Web测试全功能框架.
-* [Managed Windows API](http://mwinapi.sourceforge.net/) -在不需要其源代码的情况下对第三方Windows / VC ++应用程序进行内省和自动化.
+* [Managed Windows API](http://mwinapi.sourceforge.net/) -无需第三方源代码即可对第三方Windows / VC ++应用程序进行自检和自动化.
 * [FlaUI](https://github.com/Roemer/FlaUI) -FlaUI是一个.NET库，可帮助自动测试Windows应用程序（Win32，WinForms，WPF，Store Apps等）.
 
 ## Visual Studio Plugins
@@ -921,7 +922,7 @@
 * [SideWaffle](https://github.com/ligershark/side-waffle) -Visual Studio 2012/2013的项目模板集合，使任何Web开发人员的工作变得更加轻松
 * [Resharper](https://www.jetbrains.com/resharper/) -用于Visual Studio的开发人员生产力工具** [$] **
 * [Refactoring Essentials](http://vsrefactoringessentials.com/) - Open source extension for C# and VB.NET refactorings, including code best practice analyzers.
-* [CodeContracts](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
+* [CodeContracts](https://github.com/Microsoft/CodeContracts) -.NET的CodeContracts工具的源代码
 * [Git Diff Margin](https://github.com/laurentkempe/GitDiffMargin) -在Visual Studio边距和滚动条上显示当前已编辑文件的实时Git更改
 * [Productivity Power Tools](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerTools) -Visual Studio Professional（及更高版本）的一组扩展，可提高开发人员的工作效率.
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)  -构建，查找和调试输出窗口的颜色突出显示.  可以添加自定义匹配样式和颜色.

@@ -30,7 +30,7 @@
 
 ### Music
 
-- [cmus](https://github.com/cmus/cmus) -小型，快速且功能强大的控制台音乐播放器.
+- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) -即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) -通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
@@ -127,7 +127,7 @@
 
 - [mycli](https://github.com/dbcli/mycli) -具有自动完成功能和语法突出显示功能的MySQL客户端.
 - [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的Postgres客户端.
-- [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+- [sqlline](https://github.com/julianhyde/sqlline) -通过JDBC发行SQL的Shell.
 
 ### Devops
 
@@ -141,7 +141,7 @@
 - [dockly](https://github.com/lirantal/dockly) -交互式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose界面.
-- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+- [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 
 ### Release
@@ -159,6 +159,7 @@
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) -找到npm软件包的根目录.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) -查找比package.json允许的包依赖项更新的版本.
 - [updates](https://github.com/silverwind/updates) -灵活的npm依赖项更新工具.
+- [wipe-modules](https://github.com/bntzio/wipe-modules) -删除非活动项目的“ node_modules”.
 
 ### Boilerplate
 
@@ -417,7 +418,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) -将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -gitlab cli，用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -一些小git附加功能，例如git-ignore，git-setup，git-changelog，git-release，git-effort等.
-- [gita](https://github.com/nosarthur/gita) -并发管理多个git repos.
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -交互式生成README.md文件.
 
 ## Images
@@ -469,7 +470,7 @@
 - [birthday](https://github.com/IonicaBizau/birthday) -知道朋友的生日是什么时候.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) -检测代码的缩进.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) -获取当前用户的全名.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) -获取文件或标准输入的压缩大小.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)  -哈希变得简单.  获取文本或标准输入的哈希.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) -使用Levenshtein距离算法测量两个字符串之间的差异.
@@ -503,7 +504,7 @@
 
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – cli应用程序的替代列表.
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) -特定于macOS的Shell命令和工具.
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) -扩展git cli的插件.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) –命令行实用程序和框架.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) –终端框架，插件和资源.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH框架，插件，教程和主题.

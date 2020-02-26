@@ -25,8 +25,10 @@ Projects with over 500 stargazers are in bold.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)）-官方支持的MongoDB Scala驱动程序
 * [Clickhouse-scala-client](https://github.com/crobox/clickhouse-scala-client) -Clickhouse的反应式客户端
 * [CouchDB-Scala ★ 59 ⧗ 21](https://github.com/beloglazov/couchdb-scala) -用于CouchDB的纯功能Scala客户端
+* [Couchbase](https://github.com/couchbase/couchbase-jvm-clients) -Scala的官方Couchbase客户.
 * **[doobie ★ 812 ⧗ 0](https://github.com/tpolecat/doobie)**-Scala的纯功能JDBC层.
 * **[Elastic4s ★ 1049 ⧗ 0](https://github.com/sksamuel/elastic4s)**-用于Elasticsearch的Scala DSL /反应式客户端
+* [etcd4s](https://github.com/mingchuno/etcd4s) -实现V3 API的Scala etcd客户端
 * [Finagle ★ 42 ⧗ 71](https://github.com/finagle/finagle-postgres) -Finagle的PostgreSQL协议支持
 * [laserdisc ★ 37](https://github.com/laserdisc-io/laserdisc) -无未来，fs2本机纯FP Redis客户端
 * [longevity ★ 78 ⧗ 21](https://github.com/longevityframework/longevity) -具有域驱动设计方向的Scala和NoSQL持久性框架
@@ -273,7 +275,7 @@ Projects with over 500 stargazers are in bold.
 * [spark-deployer ★ 69 ⧗ 29](https://github.com/KKBOX/spark-deployer) -一个sbt插件，可帮助部署Apache Spark独立集群并在AWS EC2等云系统上提交作业.
 * [Sparkta ★ 320 ⧗ 1](https://github.com/Stratio/sparkta) -基于Spark流的实时聚合.
 * [Sparkplug ★ 4 ⧗ 1](https://github.com/indix/sparkplug) -Spark包使用基于SQL的规则来“塞住”数据中的漏洞
-* **[Summingbird ★ 1841 ⧗ 1](https://github.com/twitter/summingbird)**-“ lambda体系结构”作为软件抽象的实现— Hadoop和Storm的单个API.
+* **[Summingbird ★ 1841 ⧗ 1](https://github.com/twitter/summingbird)**-作为软件抽象的“ lambda体系结构”的实现— Hadoop和Storm的单个API.
 * [Vegas](https://github.com/vegas-viz/Vegas) -Scala + Spark缺少的MatPlotLib
 
 ## Image processing and image analysis
