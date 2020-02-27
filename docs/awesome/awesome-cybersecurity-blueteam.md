@@ -47,6 +47,7 @@
 - [Git Secrets](https://github.com/awslabs/git-secrets) -防止您将密码和其他敏感信息提交到git存储库.
 - [Vault](https://www.vaultproject.io/) -通过统一界面安全访问API密钥，密码或证书等机密的工具.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/)  -git中的透明文件加密；  您选择保护的文件在提交时会加密，而在签出时会解密.
+- [Snyk](https://snyk.io/) -查找并修复开源依赖项和容器映像中的漏洞和许可证违规.
 - [SonarQube](https://sonarqube.org) -连续检查工具，可在自动测试期间提供详细的报告，并就新引入的安全漏洞发出警报.
 
 ### Application or Binary Hardening
@@ -67,14 +68,14 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 ### Tarpits
 
 - [Endlessh](https://github.com/skeeto/endlessh) -缓慢地发送无尽横幅的SSH tarpit.
-- [LaBrea](http://labrea.sourceforge.net/labrea-info.html) -响应ARP请求以获取未使用IP空间的程序，其伪造机器的外观会非常缓慢地响应其他请求，从而减慢扫描程序，蠕虫等的速度.
+- [LaBrea](http://labrea.sourceforge.net/labrea-info.html) -回答ARP请求中未使用的IP空间的程序，从而形成伪造的计算机外观，这些伪造的计算机非常缓慢地响应其他请求，从而减慢扫描程序，蠕虫等的速度.
 
 ## Host-based tools
 
 - [Artillery](https://github.com/BinaryDefense/artillery) -组合蜜罐，文件系统监视器和警报系统，旨在保护Linux和Windows操作系统.
 - [chkrootkit](http://chkrootkit.org/) -在GNU / Linux系统上本地检查rootkit的迹象.
 - [Fail2ban](https://www.fail2ban.org/) -入侵防御软件框架，可保护计算机服务器免受暴力攻击.
-- [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) -库和命令行工具（oscap）均用于根据SCAP基线配置文件评估系统，以报告所扫描系统的安全状态. 
+- [OpenSCAP Base](https://www.open-scap.org/tools/openscap-base/) -库和命令行工具（oscap）均用于根据SCAP基线配置文件评估系统，以报告扫描系统的安全状态. 
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) -完全开源和免费的，功能丰富的基于主机的入侵检测系统（HIDS）.
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) -符合POSIX的Bash脚本，可扫描主机以查找各种恶意软件迹象.
 
@@ -112,12 +113,12 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) -基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) -用于通过Windows事件日志进行寻线分组的PowerShell模块.
-- [GRR Rapid Response](https://github.com/google/grr) -事件响应框架专注于远程实时取证，该远程响应取证由安装在资产上的Python代理和基于Python的服务器基础结构组成，使分析师能够快速分类攻击并进行远程分析.
+- [GRR Rapid Response](https://github.com/google/grr) -事件响应框架专注于远程实时取证，该远程响应取证由安装在资产上的Python代理和基于Python的服务器基础结构组成，使分析人员能够快速分类攻击并进行远程分析.
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置集成分析功能.
 - [MozDef](https://github.com/mozilla/MozDef) -使安全事件处理过程自动化，并促进事件处理程序的实时活动.
 - [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标，或对其进行调查以获取与那些系统状态相关的更全面的信息.
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还生成其结果的独立HTML报告.
-- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - All in one PowerShell-based platform to perform live hard disk forensic analysis.
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -基于PowerShell的所有平台均可以执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，并与防病毒控制台集成.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的免费端点审计和分析工具，它提供基于主机的调查功能.
 
@@ -130,12 +131,12 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Maltrail](https://github.com/stamparm/maltrail) -恶意网络流量检测系统.
 - [Moloch](https://github.com/aol/moloch) -增强您当前的安全基础架构，以标准PCAP格式存储和索引网络流量，从而提供快速的索引访问.
 - [OwlH](https://www.owlh.net/) -通过可视化Suricata，Zeek和Moloch生命周期来帮助大规模管理网络IDS.
-- [Respounder](https://github.com/codeexpress/respounder) - Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.
+- [Respounder](https://github.com/codeexpress/respounder) -检测网络上是否存在响应者LLMNR / NBT-NS / MDNS中毒器.
 - [Snort](https://snort.org/) -广泛部署的免费软件IPS，能够进行实时数据包分析，流量记录和基于规则的自定义触发器.
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) -捕获欺骗的NetBIOS名称服务（NBNS）响应并警告电子邮件或日志文件.
 - [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及深度数据包检查功能的免费，跨平台IDS / IPS，Lua也可以编写脚本.
 - [Wireshark](https://www.wireshark.org) -免费的开源数据包分析器，可用于网络故障排除或法医网络流分析.
-- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（`flowtop`），流量生成器（`trafgen`）和自治系统（AS）跟踪路由实用程序（`astraceroute`）.
+- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（flowtop），流量生成器（trafgen）和自治系统（AS）跟踪路由实用程序（astraceroute）.
 
 ## Network perimeter defenses
 
@@ -158,7 +159,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 - [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可轻松测试组织对网络钓鱼的危害.
-- [King Phisher](https://github.com/securestate/king-phisher) -通过模拟真实的网络钓鱼攻击来测试和增强用户意识的工具.
+- [King Phisher](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
 - [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) -有助于检测和响应网络钓鱼攻击的框架.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) -允许创建和管理（伪造）网络钓鱼活动的平台，旨在训练人们识别可疑邮件. 
@@ -198,7 +199,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)  -将Active Directory权限配置（“控制关系”）可视化并绘制图形，以审核诸如“谁可以阅读CEO的电子邮件？”之类的问题.  和类似的.
 - [DATA](https://github.com/hadojae/DATA) -凭据网络钓鱼分析和自动化工具，可以直接接受可疑网络钓鱼URL或在观察到的包含此类URL的网络流量上触发.
 - [Forager](https://github.com/opensourcesec/Forager) -使用Python3构建的多线程威胁情报收集功能，具有基于文本的简单配置和数据存储，易于使用和数据可移植性.
-- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) -通过被动地映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）以及监督控制和数据采集（SCADA）的态势感知.
+- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) -通过被动地映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）和监督控制与数据采集（SCADA）的态势感知.
 - [MLSec Combine](https://github.com/mlsecproject/combine) -收集多种威胁情报源并将其组合成一种可定制的，基于CSV的标准化格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) -用于收集，存储，分发和共享网络安全指标的开源软件解决方案.
 - [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) -可扩展工具，可从威胁源（包括Twitter，RSS源或其他来源）提取和汇总IOC.
@@ -221,7 +222,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## macOS-based defenses
 
-- [LuLu](https://objective-see.com/products/lulu.html) -免费的macOS防火墙.
+- [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
 - [Stronghold](https://github.com/alichtman/stronghold) -从终端轻松配置macOS安全设置.
 - [macOS Fortress](https://github.com/essandess/macOS-Fortress) -自动配置内核级，操作系统级和客户端级安全功能，包括私有化代理和macOS的防病毒扫描.
 

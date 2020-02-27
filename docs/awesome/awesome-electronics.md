@@ -44,6 +44,7 @@
 - [Gerblook](http://gerblook.org/) -由Gerbv提供支持的在线Gerber查看器.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) -3D Gerber查看器.
 - [CircuitPeople](https://circuitpeople.com) -没有多余的处理，Gerbers的2D图层查看器不会多余.
+- [Stackrate Viewer](http://stackrate.de/viewer) -易于使用的在线gerber查看器以及跟踪悬停和测量工具.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) -适用于Linux和BSD的出色Gerber查看器.
@@ -71,7 +72,7 @@
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -全面的书面教程，可带您创建键盘PCB.
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) （也 [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)）-简短的PDF，可通过菜单和键盘快捷键进行最常用的操作.
 - [Footprint Collection](https://github.com/monostable/kicad_footprints) -可以在线收集所有KiCAD脚印以及一些脚本来管理它们.
-- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) -用于手动拾取和放置的html BOM生成工具.
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
@@ -142,7 +143,7 @@
 
 ## Videos
 - [EEVblog](https://www.youtube.com/user/EEVblog) -戴夫·琼斯（Dave Jones）进行拆解，教程等工作的最早，最成功的YouTube频道之一.
-- [ElectroBOOM](https://www.youtube.com/user/msadaghd) - YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
+- [ElectroBOOM](https://www.youtube.com/user/msadaghd) -YouTube频道，揭穿并解释了EE主题，并引发了很多喜剧.
 - [Micah Scott](https://www.youtube.com/user/micahjd) -逆向工程的视频日志，并以创新的方式重新利用消费电子硬件.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) -有关电子项目的教程，通常也适合初学者.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) -非常深入地拆卸，维修和审查实验室设备和原型产品.

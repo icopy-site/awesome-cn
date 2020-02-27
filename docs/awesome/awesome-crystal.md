@@ -24,6 +24,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) -通用算法库
  * [crystalline](https://github.com/jtomschroeder/crystalline) -容器和算法的集合
  * [edits.cr](https://github.com/tcrouch/edits.cr) -编辑距离算法的集合
+ * [fzy](https://github.com/hugopl/fzy) -很棒的Fzy项目模糊查找器算法的Crystal端口
  * [graphlb](https://github.com/mettuaditya/graphlb) -收集图数据结构和算法
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) -一致性哈希环的实现
  * [haversine](https://github.com/geocrystal/haversine) -Haversine公式的实现
@@ -288,7 +289,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) -基于可扩展注释的序列化/反序列化库
  * [CrSignals](https://github.com/firejox/CrSignals) -信号/插槽通知库
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) -二进制解析器
- * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github出演
+ * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github担任
  * [crz](https://github.com/dhruvrajvanshi/crz) -功能编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) -表情符号库
  * [hoop](https://github.com/0x73/hoop) -构建本机OSX应用

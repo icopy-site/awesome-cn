@@ -541,7 +541,7 @@
 * [Logazmic](https://github.com/ihtfw/Logazmic) -适用于Windows的开源NLog查看器
 * [ELMAH](https://elmah.github.io/) -ELMAH官方网站
 * [Elmah MVC](https://github.com/alexbeletsky/elmah-mvc) -MVC的Elmah
-* [Logary](https://logary.github.io/)  -Logary是用于Mono和.NET的高性能，多目标日志记录，度量，跟踪和运行状况检查库.  .NET对DropWizard的回答.  支持为微服务构建的许多目标.
+* [Logary](https://github.com/logary/logary)  -Logary是用于Mono和.NET的高性能，多目标日志记录，度量，跟踪和运行状况检查库.  .NET对DropWizard的回答.  支持为微服务构建的许多目标.
 * [Log4Net](https://logging.apache.org/log4net/) -Apache log4net库是一种工具，可帮助程序员将日志语句输出到各种输出目标
 * [Sentry](https://github.com/getsentry/sentry-dotnet) -适用于.NET SDK [Sentry](https://sentry.io/welcome/) 开源错误跟踪，可帮助开发人员实时监控和修复崩溃.
 * [Serilog](https://github.com/serilog/serilog)  -适用于NoSQL时代的废话日志库.  在易于使用的程序包中结合了传统和结构化诊断日志的最佳功能.
@@ -567,7 +567,7 @@
 * [R Provider](https://bluemountaincapital.github.io/FSharpRProvider/) - Type provider that exposes R packages and functions in a type-safe way to F# callers
 * [F# Data](https://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Spreads](https://github.com/Spreads/Spreads/)  -用于数据流实时和探索性分析的系列和面板.  扩展库针对性能和内存使用进行了优化.  它比其他开源项目快几倍.
-* [SciSharp STACK](http://scisharpstack.org) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#. 
+* [SciSharp STACK](https://scisharp.github.io/SciSharp) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#. 
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - An in-memory neural network library written in F#. 
 
 ## Markdown Processors
@@ -589,7 +589,7 @@
 * [MathNet](https://www.mathdotnet.com/) -Math.NET是一项开放源代码计划，旨在构建和维护涵盖基础数学的工具包，以满足.NET开发人员的高级需求以及日常需求
 * [Microsoft Automatic Graph Layout](https://github.com/Microsoft/automatic-graph-layout) -一组用于图形布局和查看的工具.
 * [UnitConversion](https://github.com/atulmish/UnitConversion) -用于.NET Core和.NET Framework的可扩展单位转换库
-* [ALGLIB](http://www.alglib.net/) - ALGLIB is a cross-platform numerical analysis and data processing library. It supports several programming languages (C++, C#, Delphi) and several operating systems (Windows and POSIX, including Linux) **[Proprietary]** and **[Free Edition]**
+* [ALGLIB](https://www.alglib.net/) - ALGLIB is a cross-platform numerical analysis and data processing library. It supports several programming languages (C++, C#, Delphi) and several operating systems (Windows and POSIX, including Linux) **[Proprietary]** and **[Free Edition]**
 * [AutoDiff](https://github.com/alexshtf/autodiff)  -AutoDiff是一个用于快速计算由表达式定义的函数的梯度的库.  主要用于数值优化
 * [GeometRi](https://github.com/RiSearcher/GeometRi.CSharp) -.Net的简单轻量计算几何库
 * [Rationals](https://github.com/tompazourek/Rationals) -以任意精度实现.NET有理数算法.
@@ -624,7 +624,7 @@
 * [Hashids.net](https://github.com/ullmark/hashids.net) -根据https://hashids.org从整数生成简短的唯一ID
 * [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) -Fluent库可为.Net控制台应用程序创建表.
 * [FlatMapper](https://github.com/joaomatossilva/FlatMapper) -以LINQ兼容的方式从纯文本文件导入数据和向纯文本文件导出数据的库.
-* [FluentValidation](https://github.com/JeremySkinner/FluentValidation) -用于.NET的小型验证库，该库使用流利的接口和lambda表达式构建验证规则.
+* [FluentValidation](https://github.com/FluentValidation/FluentValidation) -用于.NET的小型验证库，该库使用流利的接口和lambda表达式构建验证规则.
 * [Guard](https://github.com/safakgur/guard) -高性能，可扩展的参数验证库.
 * [Valit](https://github.com/valit-stack/Valit) -Valit非常简单，可以对.NET Core进行流畅的验证.
 * [Humanizer](https://github.com/Humanizr/Humanizer) -Humanizer满足您.NET对操纵和显示字符串，枚举，日期，时间，时间跨度，数字和数量的所有需求
@@ -690,8 +690,8 @@
 
 ## ORM
 
-* [Entity Framework 6](https://github.com/aspnet/EntityFramework6) -对象关系映射器，使.NET开发人员可以使用特定于域的对象来处理关系数据
-* [Entity Framework Core](https://github.com/aspnet/EntityFrameworkCore) -对象关系映射器，使.NET开发人员可以使用特定于域的对象来处理关系数据
+* [Entity Framework 6](https://github.com/dotnet/ef6) -对象关系映射器，使.NET开发人员可以使用特定于域的对象来处理关系数据
+* [Entity Framework Core](https://github.com/dotnet/efcore) -对象关系映射器，使.NET开发人员可以使用特定于域的对象来处理关系数据
 * [Dapper](https://github.com/StackExchange/Dapper) -通过.NET编写的简单对象映射器 [StackExchange](https://stackexchange.github.io/)
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) -通过为POCO添加基本CRUD操作（获取，插入，更新，删除）补充Dapper的小型库
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) -Dapper最快的micro-ORM扩展
@@ -701,7 +701,7 @@
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) -轻便，简单，快速的基于约定的POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
 * [Massive](https://github.com/FransBouma/Massive) -一个小型，快乐的数据访问工具，它将永远爱您.
 * [LINQ to DB](https://github.com/linq2db/linq2db) -最快的LINQ数据库访问库，在POCO对象和数据库之间提供了一个简单，轻便，快速且类型安全的层.
-* [MicroLite ORM](https://github.com/TrevorPilley/MicroLite)  MicroLite ORM是.NET框架的微型对象关系映射器.  它的设计易于使用，可扩展和可测试.
+* [MicroLite ORM](https://github.com/MicroLite-ORM/MicroLite)  MicroLite ORM是.NET框架的微型对象关系映射器.  它的设计易于使用，可扩展和可测试.
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) -对于您的POCO来说，属于ORM的小事
 * [AsyncPoco](https://github.com/tmenier/AsyncPoco) -期待已久的完全异步PetaPoco分支
 * [NPoco](https://github.com/schotime/NPoco)  -将查询结果映射到POCO对象上的简单microORM.  基于PetaPoco的Schotime分支

@@ -359,6 +359,7 @@
 - [ReSub - A library for writing better React components and data stores](https://github.com/Microsoft/ReSub)
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
+- [RxDB - A realtime Database for JavaScript Applications](https://github.com/pubkey/rxdb)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
 - [immer](https://github.com/immerjs/immer) -通过更改当前状态来创建下一个不可变状态
@@ -716,6 +717,6 @@
 
 ### Contribution
 
- 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始测试时，它是一个特殊的脚本，可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+ 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始测试时，它有一个特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

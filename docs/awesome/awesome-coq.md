@@ -43,12 +43,13 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [CoLoR](http://color.inria.fr) -有关重写理论，lambda演算和终止的库，以及有关通用数据结构的子库，扩展了Coq标准库.
 - [coq-haskell](https://github.com/jwiegley/coq-haskell) -库简化了Haskell用户向Coq的过渡.
 - [Coq-std++](https://gitlab.mpi-sws.org/iris/stdpp) -扩展了Coq的替代标准库.
-- [ExtLib](https://github.com/coq-community/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
+- [ExtLib](https://github.com/coq-community/coq-ext-lib) -可能在其他Coq开发中有用的理论和插件的集合.
 - [FCSL-PCM](https://github.com/imdea-software/fcsl-pcm) -验证指针操作程序中使用的部分可交换monoid的形式化.
 - [Flocq](http://flocq.gforge.inria.fr) -浮点计算的形式化.
 - [Formalised Undecidable Problems](https://github.com/uds-psl/coq-library-undecidability) -无法确定的问题及其减少之处的图书馆.
 - [Hahn](https://github.com/vafeiadis/hahn) -用于列表和二进制关系推理的库.
 - [Metalib](https://github.com/plclub/metalib) -用于使用本地无名变量绑定表示对语言元理论进行编程的库.
+- [Monae](https://github.com/affeldt-aist/monae) -单子效应和方程式推理.
 - [Paco](http://plv.mpi-sws.org/paco/) -用于参数化共导的库.
 - [Regular Language Representations](https://github.com/coq-community/reglang) -包括正则表达式和自动机在内的各种常规语言定义之间的翻译.
 - [Relation Algebra](https://github.com/damien-pous/relation-algebra) -以异构二进制关系作为模型的代数的模块化形式化.
@@ -59,7 +60,8 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) -由Coq分发并基于生成Makefile的构建工具.
 - [Coq Package Index](https://coq.inria.fr/packages.html) -基于OPAM的Coq软件包集合.
 - [Docker-Coq](https://github.com/coq-community/docker-coq) -适用于许多版本的Coq的Docker映像.
-- [dune](https://github.com/ocaml/dune) -Coq和OCaml（以前的jbuilder）可组合且自以为是的构建系统.
+- [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) -用于Coq版本和Mathematical Components库的许多组合的Docker映像.
+- [Dune](https://github.com/ocaml/dune) -Coq和OCaml（以前的jbuilder）可组合且自以为是的构建系统.
 - [Nix](https://nixos.org/nix/) -Linux和其他Unix系统的软件包管理器，支持原子升级和回滚.
 - [Nix Coq packages](https://nixos.org/nixos/packages.html?channel=nixpkgs-unstable&query=coqPackages) -收集Cox相关的Nix软件包.
 - [OPAM](https://opam.ocaml.org) -用于OCaml的灵活且Git友好的软件包管理器，具有多种编译器支持.
@@ -102,6 +104,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [Four Color Theorem](https://github.com/math-comp/fourcolor) -四色定理的形式证明，是图论的标志性结果.
 - [GeoCoq](https://github.com/GeoCoq/GeoCoq) -基于Tarski公理系统的几何形式化.
 - [Homotopy Type Theory](https://github.com/HoTT/HoTT) -同伦理论思想的发展.
+- [Infotheo](https://github.com/affeldt-aist/infotheo) -信息论和线性纠错码的形式化.
 - [Mathematical Components](http://math-comp.github.io) -数学理论的形式化，特别是小组理论.
 - [Math Classes](https://github.com/coq-community/math-classes) -基于类型类的数学结构的抽象接口.
 - [Odd Order Theorem](https://github.com/math-comp/odd-order) -奇数定理的形式证明，这是有限群论的标志性结果.
@@ -155,7 +158,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 ### Tutorials and Hints
 
 - [CodeWars' Coq kata](https://www.codewars.com/kata/search/coq) -在线验证挑战.
-- [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) -Coq&#39;Art书中的Coq代码和练习，包括其他练习和教程.
+- [Coq'Art Exercises and Tutorials](https://github.com/coq-community/coq-art) -Coq&#39;Art书中的Coq代码和练习，包括其他教程.
 - [Coq in a Hurry](http://cel.archives-ouvertes.fr/inria-00001173) -介绍如何使用Coq定义逻辑概念和功能及其原因.
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) -演示用于规范结构编程和验证的设计模式.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) -使用Coq编写形式证明的基础.

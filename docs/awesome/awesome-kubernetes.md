@@ -22,7 +22,7 @@ Awesome-Kubernetes
 没有这些的帮助 [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
  建立这个很棒的仓库是不可能的.  非常感谢你们 ！！
 
- **感谢Gitbook.此真棒列表现在可以下载并以书的形式阅读.  检查一下-&gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/.继续学习保持共享!! **
+ **感谢Gitbook.此真棒列表现在可以下载并以书的形式阅读.  看看-&gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/.继续学习保持共享!! **
 
  **如果您在此处看到不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢！**
 
@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 awesome-kubernetes现在将以不同的发行版和软件包捆绑形式提供，这意味着您可以
- 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑软件发行版发行.  请查看发布列以获取更多信息.
+ 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑包发行版发行.  请查看发布列以获取更多信息.
 
 ## Featured On
 
@@ -495,7 +495,7 @@ Projects
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubic-Project](https://github.com/kubic-project)
-* [Reloader](https://github.com/stakater/Reloader) -将ConfigMap和Secrets的更新自动加载到用于Deployment，StatefulSet和DaemonSet的Pod中
+* [Reloader](https://github.com/stakater/Reloader) -将ConfigMap和Secrets的更新自动加载到用于部署，StatefulSet和DaemonSet的容器​​中
 * [Telepresence](http://www.telepresence.io) -针对远程Kubernetes集群在本地开发/调试服务
 * [krane](https://github.com/Shopify/krane) -一个命令行工具，可帮助您将更改发送到Kubernetes命名空间并了解结果
 * [ktunnel](https://github.com/omrikiei/ktunnel) -一个命令行工具，可在Kubernetes和您的集群之间建立反向隧道，将其用于本地开发/调试服务或与本地资源集成.
@@ -505,7 +505,7 @@ Projects
 
 * [CNAB](https://cnab.io) -CNAB促进了容器本地应用程序及其耦合服务的捆绑，安装和管理.
 * [Helm](http://helm.sh) -有关更多信息，请查看- [Awesome Helm](https://github.com/cdwv/awesome-helm).
-* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他服务）.
+* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他）.
 
 ## Monitoring Services
 
@@ -521,7 +521,7 @@ Projects
 * [Heapster](https://github.com/kubernetes/heapster)
 * [kail](https://github.com/boz/kail)  -Kubernetes日志查看器.  从所有匹配的容器的所有容器中流式传输日志.
 * [Kubebox](https://github.com/astefanutti/kubebox) -Kubernetes的终端控制台
-* [Kubedash](https://github.com/kubernetes/kubedash) -**不推荐使用**信息库已归档且为只读
+* [Kubedash](https://github.com/kubernetes/kubedash) -**不推荐使用的**存储库已归档且为只读
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) -多个K8s集群的只读系统仪表板
 * [K8Dash](https://github.com/herbrandson/k8dash) -实时K8S替代仪表板
 * [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) -在纯HTML前端中列出并查看具有永久链接友好URL的所有Kubernetes资源（包括CRD）
@@ -558,7 +558,7 @@ Projects
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) -杀死目标吊舱和机器以测试您的软件可靠性
 * [Sonobuoy](https://github.com/vmware-tanzu/sonobuoy) -运行Kubernetes一致性测试的诊断工具
 * [Test-Infra](https://github.com/kubernetes/test-infra)
-* [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders)  -Kubernetes集群的Gamified Chaos工程工具.  就像太空侵略者，但外星飞船是豆荚.
+* [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders)  -用于Kubernetes集群的Gamified Chaos工程工具.  就像太空侵略者，但外星飞船是豆荚.
 * [predator](https://github.com/Zooz/predator) -用于Kubernetes的分布式性能测试平台
 * [Octopus](https://github.com/kyma-incubator/octopus) -Octopus是一个测试框架，可让您在Kubernetes集群上运行定义为Docker映像的集成测试.
 * [chaos-mesh](https://github.com/pingcap/chaos-mesh) -Kubernetes的混沌工程平台
@@ -574,8 +574,8 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
-* [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建服务并将其部署到Kubernetes.
+* [Jenkins X](http://jenkins-x.io/) -使用最好的OSS工具（例如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
 * [Buildkite](https://github.com/buildkite/charts) -具有基础架构上的代理的精益CI / CD云托管控制平面.
@@ -635,7 +635,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将舵转换为可自我配置并响应集群变化的智能模块.
+* [Addon-operator](https://github.com/flant/addon-operator) -在头盔图表中添加钩子和值，以增强头盔的功能并将图表转换为可自我配置并响应集群更改的智能模块.
 * [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
 
 ## Custom Schedulers
@@ -674,6 +674,7 @@ Projects
 * [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
 * [RDS](https://github.com/sorenmat/k8s-rds) -通过Kubernetes的CRD提供RDS数据库
 * [Vitess](http://vitess.io/) -由Youtube对MySql进行水平缩放
+* [YugabyteDB](https://docs.yugabyte.com/latest/deploy/kubernetes/) -可水平扩展，与Postgres兼容的SQL数据库.
 
 ## Networking
 
@@ -711,7 +712,7 @@ Projects
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
-* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是一个简单易用，易于配置的非侵入性服务网格，可以查看和管理任何Kubernetes集群内部的流量.
+* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是一个直接，易于配置且非侵入式的服务网格，可查看和管理任何Kubernetes集群内部的流量.
 * [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) -建立，保护和观察您的现代服务网格.
 
 ## RPC
@@ -813,7 +814,7 @@ Projects
 * [Pulumi](https://www.pulumi.com/kubernetes/) -为针对本地集群和主要云供应商的托管服务的k8s部署提供一个SDK.
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)  -一种数据约束语言，旨在简化涉及定义​​和使用数据的任务.  Cue是JSON的超集
-* [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，使您可以专注于数据，而不是如何正确地对其进行转义.
+* [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，可让您专注于数据，而不是如何正确地对其进行转义.
 * [kosko](https://github.com/tommy351/kosko) -用JavaScript编写Kubernetes清单，并根据Kubernetes OpenAPI定义进行验证.
 
 ## Security
@@ -824,7 +825,7 @@ Projects
 * [Dex](https://github.com/coreos/dex) -Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持作为身份提供者的Github，Gitlab，Google，Azure和LDAP（AD）.
 * [kiam](https://github.com/uswitch/kiam) -允许群集用户将AWS IAM角色与Pod相关联.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) -Kubernetes安全工作台是一个Go应用程序，可根据安全最佳实践检查是否已部署Kubernetes.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) -Kubernetes Security Bench for Go是一个Go应用程序，可根据安全最佳实践检查是否已部署Kubernetes.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) -帮助建立自适应且细粒度的Pod安全策略.
 * [kube2iam](https://github.com/jtblin/kube2iam) -为在Kubernetes上运行的Pod提供不同的AWS IAM角色
@@ -950,7 +951,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -1022,10 +1023,10 @@ Videos
 
 - [Automating CI/CD on Kubernetes 与 Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU) 通过 [James Strachan](https://twitter.com/jstrachan) 使用 [Jenkins X](https://jenkins-x.io/) 与 [these slides](https://docs.google.com/presentation/d/1hwt2lFh3cCeFdP4xoT_stMPs0nh2xVZUtze6o79WfXc/edit#slide=id.p)
 
-有趣的Twitter帐户
+Interesting Twitter Accounts
 =======================================================================
 
-* Twitter速度快，易于沟通，并且是充分利用品牌或企业潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且是充分利用品牌或企业的潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [Apcera](https://twitter.com/Apcera)
@@ -1122,7 +1123,7 @@ Conferences
 Contributing
 =======================================================================
 
-Contributions are most welcome!
+欢迎捐款！
 
 此列表刚刚起步，请做出贡献以使其变得超赞.
 

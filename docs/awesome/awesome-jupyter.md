@@ -72,9 +72,7 @@
 
 - [Binder](http://mybinder.org) -将GitHub仓库变成交互式笔记本的集合.
 - [Bookbook](https://github.com/takluyver/bookbook) -Bookbook将目录中的一组笔记本转换为HTML或PDF，从而保留了笔记本内部和之间的交叉引用.
-- [Jupytext](https://github.com/mwouts/jupytext) -编辑，重构和版本控制以脚本或Markdown文档形式表示的Jupyter Notebook.
 - [nbconvert](https://nbconvert.readthedocs.io) -将笔记本转换为其他格式.
-- [nbdime](https://github.com/jupyter/nbdime) -用于扩散和合并Jupyter笔记本的工具.
 - [nbinteract](https://www.nbinteract.com) -从Jupyter笔记本创建交互式网页.
 - [nbflow](https://github.com/jhamrick/nbflow) -使用Jupyter和Scons的一键式可重复工作流程.
 - [nbscan](https://github.com/conery/nbscan) -搜索并打印Jupyter笔记本的单元格内容.
@@ -84,20 +82,26 @@
 - [pynb](https://github.com/minodes/pynb) -Jupyter Notebooks是带有嵌入式Markdown文本的纯Python代码.
 - [RISE](https://github.com/damianavila/RISE) -Reveal.js Jupyter / IPython幻灯片.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) -将独立的reStructuredText文件转换为Jupyter笔记本文件.
-- [Voila](https://github.com/QuantStack/voila) -使用交互式小部件渲染实时Jupyter笔记本，允许基于Jupyter笔记本进行仪表板
+- [Voila](https://github.com/QuantStack/voila) -使用交互式小部件渲染实时Jupyter Notebook，允许基于Jupyter Notebook进行仪表板显示
+
+## Version Control
+
+- [git](https://github.com/jupyterlab/jupyterlab-git) -扩展git集成.
+- [Jupytext](https://github.com/mwouts/jupytext) -编辑，重构和版本控制以脚本或Markdown文档形式表示的Jupyter Notebook.
+- [nbdime](https://github.com/jupyter/nbdime) -用于扩散和合并Jupyter笔记本的工具.
+- [ReviewNB](https://www.reviewnb.com/) -Jupyter笔记本的代码审查.
 
 ## JupyterLab Extensions
 
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) -使用单元标签扩展组织和执行笔记本的功能.
 - [code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) -通用代码格式化程序.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) -显示drawio / mxgraph图的扩展.
-- [git](https://github.com/jupyterlab/jupyterlab-git) -扩展git集成.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) -用于在JupyterLab中导航到变量或函数的定义的扩展.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) -Google云端硬盘集成扩展.
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) -在JupyterLab内部通过电子邮件发送笔记本及其内容.
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) -扩展了将笔记本发布到 [Kyso](https://kyso.io) Jupyterlab开发的平台.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) -扩展功能，可实时编辑LaTeX文档.
-- [lsp](https://github.com/krassowski/jupyterlab-lsp) -类似IDE的功能（代码导航，悬停建议，短绒，诊断，无内核自动完成等）
+- [lsp](https://github.com/krassowski/jupyterlab-lsp) -类似于IDE的功能（代码导航，悬停建议，linter，诊断，无内核自动完成等）
 - [nb_black](https://github.com/dnanhkhoa/nb_black) -扩展以保持Python代码使用自动格式化 [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) -在JupyterLab中探索CPython字节码.
 - [quickopen](https://github.com/parente/jupyterlab-quickopen) -通过输入文件名的一部分在JupyterLab中快速打开文件.

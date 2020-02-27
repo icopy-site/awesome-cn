@@ -38,7 +38,7 @@
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) -参数可变字体
 * [AtF Spark](https://aftertheflood.co/projects/sparks/) -旨在产生迷你图的字体
-* [Barlow](https://github.com/jpt/barlow) - A grotesk variable font superfamily
+* [Barlow](https://github.com/jpt/barlow) -grotesk可变字体超家族
 * [Inter](https://github.com/rsms/inter) -专为用户界面设计的字体
 * [Libre Franklin](https://github.com/impallari/Libre-Franklin) -基于莫里斯·富勒·本顿（Morris Fuller Benton）1912年经典作品的诠释和扩展.
 * [Manrope](https://github.com/sharanda/manrope) -现代几何无衬线
@@ -81,7 +81,7 @@
 ## Iconic fonts
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) -147个8位复古风格的webfont图标可用于网络和移动
 * [Country Icons](https://github.com/lipis/flag-icon-css) -SVG和CSS中所有国家标志的集合
-* [Evil Icons](http://evil-icons.io/) 简单干净的SVG图标包，带有支持Rails，Sprockets，Node.js，Gulp，Grunt和CDN的代码
+* [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
 * [Font Custom](https://github.com/FontCustom/fontcustom) -图标字体生成器
 * [Font-Awesome](https://fontawesome.com) -标志性字体和CSS工具包
 * [font-mfizz](https://github.com/fizzed/font-mfizz) -技术和软件极客的矢量图标
@@ -129,6 +129,7 @@
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) -为Powerline，Font Awesome，Octicons，Devicons和Vim Devicons收集了20多种修补字体
 * [Operator Mono](https://www.typography.com/fonts/operator/styles/) — 200美元的高级编程字体，其灵感来自于打字传统
+* [Recursive Sans & Mono](https://github.com/arrowtype/recursive/) -用于代码和UI的可变字体系列
 
 
 #### Programming fonts with ligatures

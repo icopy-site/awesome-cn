@@ -12,7 +12,7 @@
 
  |  iOS应用|  很棒  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1024 |  2020年2月25日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1026 |  2020年2月26日
 
 
 
@@ -139,7 +139,7 @@
 ### Accessibility
 [back to top](#readme) 
 
-* [Capable](https://github.com/chrs1885/Capable) -跟踪辅助功能，以改善某些残障人士的应用.
+* [Capable](https://github.com/chrs1885/Capable) -跟踪辅助功能设置，利用高对比度的颜色并使用可缩放的字体，以使残障用户能够使用您的应用.
 
 ### AI
 *基于AI的项目（机器学习，神经网络等）的库. [back to top](#readme) 
@@ -303,6 +303,7 @@
 * [HexColor](https://github.com/artman/HexColor) -将UIColors定义为十六进制整数.
 * [Hue](https://github.com/zenangst/Hue) -色相是您永远需要的多功能着色工具.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors)  -终端中带有ANSI转义码的样式和颜色文本.  符合ECMA标准48.
+* [SheetyColors](https://github.com/chrs1885/SheetyColors) -适用于iOS的操作表样式的颜色选择器.
 * [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) -一种为UIColor常量自动生成enum的工具.
 * [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) -十六进制颜色处理作为UIColor的扩展.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) -十六进制到UIColor转换器.
@@ -509,8 +510,8 @@
 * [Dip](https://github.com/AliSoftware/Dip) -一个简单的依赖注入容器.
 * [DITranquillity](https://github.com/ivlevAstef/DITranquillity/) -具有宁静性的依赖注入框架.
 * [Locatable](https://github.com/vincent-pradeilles/locatable) -利用Property Wrappers实施服务定位器模式的微型框架.
-* [Pure](https://github.com/devxoul/Pure) - A way to do a dependency injection without a DI container.
-* [Swinject](https://github.com/Swinject/Swinject) -依赖项注入框架.
+* [Pure](https://github.com/devxoul/Pure) -一种无需DI容器即可进行依赖项注入的方法.
+* [Swinject](https://github.com/Swinject/Swinject) - A dependency injection framework.
 * [Typhoon](https://github.com/appsquickly/Typhoon) -依赖注入工具包.
 * [Weaver](https://github.com/scribd/Weaver) -一个声明式，易于使用且安全的依赖注入框架.
 
@@ -573,7 +574,7 @@
 * [Tokamak](https://github.com/MaxDesiatov/Tokamak) -类似React的声明性API，用于通过易于使用的单向数据绑定构建本机UI组件.
 * [Tomorrowland](https://github.com/lilyball/Tomorrowland) -轻量级的承诺.
 * [TopicEventBus](https://github.com/mcmatan/topicEventBus) -发布-订阅设计模式实现框架，能够按主题发布事件.
-* [VueFlux](https://github.com/ra1028/VueFlux) -单向数据流状态管理体系结构-受Vuex和Flux的启发.
+* [VueFlux](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 * [When](https://github.com/vadymmarkov/When) -Promises的轻量级实现.
 
 ### Files
@@ -638,7 +639,7 @@
 * [BlueCap](https://github.com/troystribling/BlueCap) -围绕CoreBluetooth的包装等等.
 * [Bluejay](https://github.com/steamclock/bluejay) -用于构建可靠的蓝牙LE应用程序的简单框架.
 * [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) -使用BLE在iOS / OSX设备之间轻松通信.
-* [RxBluetoothKit](https://github.com/polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift.
+* [RxBluetoothKit](https://github.com/polidea/RxBluetoothKit) -用于RxSwift的iOS和OSX蓝牙库.
 * [SwiftyBluetooth](https://github.com/jordanebelanger/SwiftyBluetooth) -基于CoreBluetooth的简单可靠的基于封闭的包装器.
 
 #### Camera
@@ -687,7 +688,7 @@
 * [FlexibleImage](https://github.com/kawoou/FlexibleImage) -一种播放图像的简单方法.
 * [FMPhotoPicker](https://github.com/congnd/FMPhotoPicker) -具有优雅且可自定义的图像编辑器的现代，简单和零依赖性照片选择器
 * [gifu](https://github.com/kaishin/gifu) -对iOS的高性能动画GIF支持.
-* [GPUImage 2](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed framework for GPU-accelerated video and image processing.
+* [GPUImage 2](https://github.com/BradLarson/GPUImage2) -GPUImage 2是BSD许可的框架，用于GPU加速的视频和图像处理.
 * [GPUImage 3](https://github.com/BradLarson/GPUImage3) -GPUImage 3是BSD许可的框架，用于使用Metal进行GPU加速的视频和图像处理.
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) -适用于iOS的轻量级通用缓存，特别喜欢图像.
 * [ImageDetect](https://github.com/Feghal/ImageDetect) -使用iOS 11 Vision API检测并裁剪图像中的面部，条形码和文本.
@@ -804,7 +805,7 @@
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) -Xcode和Google文档的日志记录实用程序.
 * [Rainbow](https://github.com/onevcat/Rainbow) ：penguin：-令人愉快的控制台输出.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) ：penguin：-开发和发布期间的多平台日志记录.
-* [TinyConsole](https://github.com/Cosmo/TinyConsole) -一个小的日志控制台，可在使用iOS应用程序时显示信息.
+* [TinyConsole](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
 * [TraceLog](https://github.com/tonystone/tracelog)  ：penguin：-死了简单：按原样记录！  在iOS，macOS和Linux上运行.
 * [Watchdog](https://github.com/wojteklu/Watchdog) -用于在主线程上记录过多阻塞的实用程序.
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) -一种日志记录工具，用于在iOS应用的状态栏中显示当前帧速率（fps）.
@@ -834,7 +835,7 @@
 
 
 ### Network
-*A list of libs that allow you to decrease the amount of time spent dealing with http requests.* [back to top](#readme) 
+*清单列表，可让您减少处理http请求的时间.* [back to top](#readme) 
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) ：penguin：-优雅的网络.
 * [APIKit](https://github.com/ishkawa/APIKit) -用于构建类型安全的Web API客户端的库.
@@ -974,7 +975,7 @@
 * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) -适用于iOS和OS X的钥匙串的简单包装.
 * [Latch](https://github.com/endocrimes/Latch) -适用于iOS的简单钥匙扣包装器.
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) -一个功能强大的，面向协议的库，可用于iOS钥匙串.
-* [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) -iOS钥匙串的简单静态包装器，可让您以类似于用户默认设置的方式使用它.
+* [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) - Simple static wrapper for the iOS Keychain to allow you to use it in a similar fashion to user defaults.
 
 ### Streaming
 [back to top](#readme) 
@@ -1091,7 +1092,7 @@
 * [Doric Design System Foundation](https://github.com/jayeshk/Doric) -适用于iOS的面向协议，类型安全，可扩展的设计系统基础框架.
 * [DropDown](https://github.com/AssistoLab/DropDown) -适用于iOS的Material Design下拉列表.
 * [Element](https://github.com/eonist/Element) -适用于macOS的程序化UI框架.
-* [Elissa](https://github.com/KitchenStories/Elissa) -在UITabBarItem或任何UIView锚视图的顶部显示通知，以显示其他信息.
+* [Elissa](https://github.com/KitchenStories/Elissa) - Displays a notification on top of a UITabBarItem or any UIView anchor view to reveal additional information.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) -音乐播放指示器，如iTunes.
 * [Family](https://github.com/zenangst/Family) -子视图控制器框架，使设置父控制器变得像馅饼一样容易.
 * [FAQView](https://github.com/mukeshthawani/faqview) -适用于iOS的易于使用的常见问题解答视图.
@@ -1105,7 +1106,7 @@
 * [GMStepper](https://github.com/gmertk/GMStepper) -中间带有滑动标签的步进器.
 * [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) -动画渐变进度栏.
 * [GRMustache](https://github.com/groue/GRMustache.swift) -灵活的小胡子模板.
-* [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) - UITextView that supports auto growing, placeholder and length limit.
+* [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) -支持自动增长，占位符和长度限制的UITextView.
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) -适用于iOS应用程序的自定义可重复使用的圆形滑块控件.
 * [HidesNavigationBarWhenPushed](https://github.com/gontovnik/HidesNavigationBarWhenPushed) -一个库，它增加了通过hidesNavigationBarWhenPushed标志推动视图控制器时隐藏导航栏的功能.
 * [HorizontalDial](https://github.com/kciter/HorizontalDial) -像Instagram这样的水平滚动拨盘.

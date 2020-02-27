@@ -44,7 +44,7 @@
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) -添加流体上浆工具.
 - [Flexbox Order](https://github.com/035media/tailwindcss-flexbox-order) -扩展`order`实用程序.
 - [benface's gradients](https://github.com/benface/tailwindcss-gradients) -添加渐变实用程序.
-- [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) - Adds background gradient utilities.
+- [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) -添加背景渐变实用程序.
 - [Alpha](https://github.com/bradlc/tailwindcss-alpha) -添加alpha颜色变体.
 - [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) -添加基于Bootstrap表的表实用程序.
 - [Typography](https://github.com/benface/tailwindcss-typography) -添加排版工具.
@@ -154,11 +154,12 @@
 -  [Next.js Starter](https://github.com/oddstronaut/tailwind-next) -使用Tailwind CSS的Next.js样板.
 -  [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) -使用Sapper，Tailwind CSS，Purge CSS，Prettier和ESLint精简样板.
 -  [Netlify Lambda Static Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) -使用Tailwind CSS的Netlify Lambda样板.
--  [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example) -使用Tailwind CSS的Rails示例应用程序.
+-  [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example) - Rails example application using Tailwind CSS.
 -  [Laravel Frontend Preset](https://github.com/laravel-frontend-presets/tailwindcss) -使用Laravel框架的Tailwind CSS进行前端预设.
 -  [Laravel Dark Frontend Preset](https://github.com/Naoray/dark-tailwind-preset) -为Laravel框架使用Tailwind CSS的黑暗主题前端预设.
 -  [Laravel Boilerplate](https://github.com/hawezo/laravel-boilerplate) -使用Tailwind CSS，Inertia JS，TypeScript，Vue和字体结尾主题的Laravel样板.
 -  [Hugo Starter Theme Starter](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) -使用Tailwind CSS的Hugo主题入门.
+-  [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) -使用Eleventy，Tailwind CSS，Webpack和PostCSS的入门套件.
 -  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -具有Tailwind CSS的管理面板模板.
 -  [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) -使用Tailwind CSS的Wordpress主题和PWA.

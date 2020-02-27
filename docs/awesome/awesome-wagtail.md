@@ -84,6 +84,7 @@
 - [wagtail-metadata-mixin](https://github.com/bashu/wagtail-metadata-mixin) -Wagtail CMS页面的OpenGraph，Twitter卡和Google+代码段标签.
 - [wagtail-schema.org](https://github.com/takeflight/wagtail-schema.org) -Wagtail网站的Schema.org JSON-LD标签.
 - [wagtail-opengraph-image-generator](https://github.com/candylabshq/wagtail-opengraph-image-generator) -帮助您为Wagtail页面自动创建Open Graph图像.
+- [wagtail-redirect-importer](https://github.com/Frojd/wagtail-redirect-importer) -您友好的邻居导入器，可让您从不同的表格数据格式（例如.csv和.xls）导入重定向 
 
 ### Analytics
 
@@ -103,7 +104,6 @@
 ### Media
 
 - [wagtailmedia](https://github.com/torchbox/wagtailmedia) -Wagtail模块，用于在管理员中管理视频和音频文件.
-- [wagtail-embedvideos](https://github.com/infoportugal/wagtail-embedvideos)  -简单的应用程序，其功能类似于wagtailimages，但用于嵌入YouTube和Vimeo的SoundCloud中的视频和音乐.  这是 [django-embed-video](https://github.com/yetty/django-embed-video).
 - [Wagtail Alt Generator](https://github.com/marteinn/wagtail-alt-generator) -用于基于计算机视觉生成图像描述和标签的模块.
 - [Wagtail FilePreviews](https://github.com/filepreviews/wagtail-filepreviews) -使用FilePreviews.io中的图像预览和元数据扩展Wagtail的文档.
 - [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) -使Wagtail搜索文档内容（PDF，Excel和Word等）.
@@ -120,6 +120,7 @@
 - [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) -Wagtail的模块，提供构建民意测验的功能.
 - [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) -wagtail-django-captcha提供了一种简单的方法来集成 [django-recaptcha](https://github.com/praekelt/django-recaptcha) Wagtail formbuilder时输入字段.
 - [wagtailstreamforms](https://github.com/AccentDesign/wagtailstreamforms) -在Wagtail的管理员中构建表单以在流场中使用.
+- [wagtail-contact-reply](https://github.com/KalobTaulien/wagtail-contact-reply) -直接从Wagtail管理员回复表单提交
 
 ### Testing
 
@@ -191,7 +192,7 @@
 - [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) 由汤姆·戴森（Tom Dyson）撰写-汤姆（Tom）将解释其机构为何决定建立新的CMS，分享在运行不断增长的开源项目中吸取的一些经验教训，并概述Wagtail到第二版及更高版本的路线图. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
 - [Wellington Wagtail CMS Meetup - Meet Wagtail](https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit) 来自Springload开发团队的Josh，Jordi和Rich撰写-Wagtail的入门会议，展示了它所提供的主要功能.
 - [DjangoCon US 2016 - Atomic Wagtail](https://www.youtube.com/watch?v=kqAKiouk1lY)  作者：Kurt Wall –布拉德·弗罗斯特（Brad Frost）的原子设计原则正在席卷我们设计风暴的方式.  我将解释什么是Wa，如何将其与原子设计原理结合使用，并在此过程中遇到一些障碍，并提供有关如何提供帮助的建议.
-- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) Adam Brenecki撰写的本期演讲探讨了每个CMS的不同方法，优点和缺点，以及它们对于您作为开发人员和内容编辑者的意义.
+- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) Adam Brenecki撰写的本期讲座探讨了每个CMS的不同方法，优点和缺点，以及它们对于您作为开发人员和内容编辑者的意义.
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) Mikalai Radchuk撰写的-此演讲是俄语中Wa的介绍.
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) 由Edd Baldry撰写.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=38m13s) 由Daniele Procida.
@@ -310,7 +311,7 @@
 - [Adventure Capitalists](https://github.com/AdventureCapitalists/website) – Wagtail支持的网站，适用于全球唯一的投资乐队.
 - [NHS.UK Content Store](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK内容存储和编辑应用程序.
 - [dev.hel.fi](https://github.com/City-of-Helsinki/devheldev) –带有Wa的赫尔辛基市开发场地.
-- [Digital Helsinki](https://github.com/City-of-Helsinki/digihel) –赫尔辛基数字赫尔辛基Wagtail CMS市.
+- [Digital Helsinki](https://github.com/City-of-Helsinki/digihel) –赫尔辛基数字赫尔辛基Wagtail CMS.
 - [Secure the News](https://github.com/freedomofpress/securethenews) –自动化的扫描仪和Web仪表板，用于跟踪新闻机构之间的TLS部署.
 - [HackSoft](https://github.com/HackSoftware/hacksoft.io) – HackSoft网站.
 - [HackConf](https://github.com/HackSoftware/hackconf.bg) –一年一度的HackConf网站.

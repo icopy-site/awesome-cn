@@ -8,9 +8,9 @@
 
 ![The #a11y hashtag with the ones replaced by a fist giving the rock and roll sign.](https://user-images.githubusercontent.com/1204692/30697506-9fd3020c-9eb5-11e7-95ca-a6c56785dd66.png)
 
-图像是一个插图 [Heydon Pickering](http://www.heydonworks.com/) 你可以 [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
+图片是一个插图 [Heydon Pickering](http://www.heydonworks.com/) 你可以 [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
 
-&gt;精选的可访问性工具，文章和资源的精选列表.
+&gt;精选的出色辅助工具，文章和资源列表.
 &gt;灵感来自 [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) 和 [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
 
@@ -22,6 +22,7 @@
 - [Courses](https://github.com/brunopulis/awesome-a11y/blob/master/topics/courses.md)
 - [Development Testing and Validators](https://github.com/brunopulis/awesome-a11y/blob/master/topics/validators.md)
 - [Guides](https://github.com/brunopulis/awesome-a11y/blob/master/topics/guides.md)
+- [Jobs](https://github.com/brunopulis/awesome-a11y/blob/master/topics/jobs.md)
 - [Laws](https://github.com/brunopulis/awesome-a11y/blob/master/topics/laws.md)
 - [Meetups](https://github.com/brunopulis/awesome-a11y/blob/master/topics/meetups.md)
 - [Other Resources](https://github.com/brunopulis/awesome-a11y/blob/master/topics/other-resources.md)
@@ -35,4 +36,4 @@
 
 ## LICENSE
 
-该项目根据MIT许可证授权 - 请参阅 [LICENSE](https://github.com/brunopulis/awesome-a11y/blob/master/LICENSE.md) 详情.
+此项目已获得MIT许可-请参阅 [LICENSE](https://github.com/brunopulis/awesome-a11y/blob/master/LICENSE.md) 有关详细信息.
