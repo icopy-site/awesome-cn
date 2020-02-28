@@ -6,7 +6,7 @@
 
 受启发 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章.
 
-如果您是开源项目的维护者，请在您的项目中添加标签“仅初次使用”（或类似名称），并在此处列出以便人们查找.
+If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so that people can find it.
 
 如果您想做出贡献，请浏览此列表，查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，然后按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上创建新的“仅限初学者”问题时会收到通知.
 
@@ -17,7 +17,7 @@
 ## .NET
 
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  用于跨平台解决方案的.NET MVVM框架，包括Xamarin.iOS，Xamarin.Android，Windows和Mac.
-- [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  RawCMS是用ASP.NET Core编写的无头CMS，专为采用API优先技术的开发人员而设计.
+- [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  RawCMS是用ASP.NET Core编写的无头CMS，专为使用API​​优先技术的开发人员而设计.
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In)  _（标签：跳入）_ <br>  应该测试.net-声明*应该*的方式！
 
 ## C
@@ -26,7 +26,7 @@
 
 ## C#
 
-- [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
+- [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy)  _（标签：简单）_ <br>  一个实时策略游戏引擎，支持早期的Westwood经典游戏，例如Command＆Conquer：Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  音乐游戏.  节奏仅需点击一下即可！
 
 ## C++
@@ -75,7 +75,7 @@
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  允许用户将图片从其Android手机/平板电脑上传到Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费Wiki软件平台，其设计重点是可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  API自动化，无需编码，简单的JSON响应断言，测试REST，SOAP，Kafka和Java / DB API，CI / Jenkins Friendly.
-- [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  SirixDB是用Java编写的版本化NoSQL文档存储（XML和JSON）.
+- [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  SirixDB是一种进化的，版本化的NoSQL文档存储（XML和JSON）（主要是用Java编写）.  它使用从ZFS和Git借来的许多概念在提交期间存储压缩快照.  每个修订都已建立索引，并且可以使用临时查询来查询文档存储.  特别适合现代硬件.
 
 ## JavaScript
 
@@ -126,7 +126,7 @@
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：抢钱，难度：1 /简单，技术/ JavaScript）_ <br>  Golang和React中的开源Slack替代方案
-- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  p5.j​​s是一个客户端JS平台，使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
+- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  p5.j​​s是一个客户端JS平台，它使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Squirrelly是一个轻量级的模板引擎，支持辅助程序，过滤器，局部函数等.
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  NativeScript是一个开放源代码框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Angular和Vue.js，FlexBox和CSS等网络技能，并在iOS和Android上获得本机UI和性能.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  使用React构建快速，现代化的应用程序和网站.
@@ -144,6 +144,8 @@
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy)  _（标签：简单）_ <br>  回合制策略游戏，您可以3D打印具有独特能力的生物小队，以击败敌人.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct/labels/help%20wanted)  _（标签：需要帮助）_ <br>  Ramda Adjunct是与Ramda一起使用的最受欢迎和最全面的功能实用程序集，它提供各种有用的，经过良好测试的功能以及出色的文档.
 - [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs)  _（标签：争抢）_ <br>  具有实时二叉树视觉效果的交互式代码编辑器，旨在教会新开发人员动态编程的基础.
+- [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end/labels/good%20first%20issue) _（标签：好第一期）_ <br>
+<a href="https://sirix.io">SirixDB的</a>基于Svelte / Sapper的<a href="https://github.com/sirixdb/sirix-svelte-front-end">Web前端</a> ，它是用Java编写的版本化NoSQL文档存储（XML和JSON）.
 
 ## Julia
 
@@ -154,6 +156,7 @@
 
 - [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Kotlin的多平台断言库
 - [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted)  _（标签：需要帮助）_ <br>  用Kotlin编写的微服务工具包
+- [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  适用于<a href="https://sirix.io">SirixDB</a> <a href="https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api">的非阻塞HTTP（S）服务器</a> ， <a href="https://sirix.io">适用</a>于XML和JSON的临时性NoSQL文档存储.
 
 ## LaTeX
 
@@ -206,7 +209,7 @@
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue)  _（标签：启动程序问题）_ <br>  gpodder.net的Web服务，这是一个自由Web服务，允许用户管理其播客订阅并发现新内容.
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue)  _（标签：第一期好）_ <br>  使用您的母语在Python中学习和编码.
 - [mypy](https://github.com/python/mypy/labels/good-first-issue)  _（标签：优先事项）_ <br>  python的可选静态类型.
-- [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
+- [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Python中数据结构和算法的存储库.
 - [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  它是科学计算的核心库，其中包含一个功能强大的n维数组对象.
 
 ## Ruby
@@ -214,8 +217,7 @@
 - [JRuby](https://github.com/jruby/jruby/labels/beginner)  _（标签：初学者）_ <br>  Ruby在Java虚拟机上的实现.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  优雅的Web开发采用DSL.
 - [Goby](https://github.com/nskins/goby)  _（标签：初学者）_ <br>  开发文本RPG的框架.
-- [Hanami](https://github.com/hanami/hanami/labels/easy)  _（标签：简单）_ <br>  Ruby的现代框架.
-- [Operation Code](https://github.com/OperationCode/operationcode_backend/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一个致力于获取退伍军人编码的开源社区.
+- [Hanami](https://github.com/hanami/hanami/labels/easy) _(label: easy)_ <br> A modern framework for Ruby.
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In)  _（标签：类型：跳入）_ <br>  系统集成框架，旨在为您的整个基础架构带来配置管理的好处
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In)  _（标签：类型：跳入）_ <br>  Ohai对您的系统进行了配置并发出JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  一个用于环境项目的开源发布平台.  查看 [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).

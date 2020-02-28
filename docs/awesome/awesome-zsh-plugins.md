@@ -418,14 +418,14 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [git-add-remote](https://github.com/caarlos0/git-add-remote) -轻松地将上游遥控器添加到您的`git`分支中.
 * [git-aliases (mdumitru)](https://github.com/mdumitru/git-aliases) -细分版本中的版本 [oh-my-zsh](http://ohmyz.sh/) 因此，其他框架的用户不必导入所有oh-my-zsh.
 * [git-aliases.zsh](https://github.com/peterhurford/git-aliases.zsh) -为常用的git命令的组合创建很多有用的别名.
-* [git-complete-urls](https://github.com/rapgenic/zsh-git-complete-urls) - enhance `git` completion to include in the remotes completion (e.g. from `git clone`) any URL in the clipboard.
+* [git-complete-urls](https://github.com/rapgenic/zsh-git-complete-urls) -增强`git`补全功能，以将远程控制补全中的内容（例如，来自`git clone`中的内容）包括在剪贴板中.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) -额外的`git`帮助程序脚本打包为插件.
 * [git-ignore](https://github.com/laggardkernel/git-ignore)  -从gitignore.io“离线”生成`.gitignore`文件.  `fzf`，完成，预览已集成.
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) -增加了在GitHub当前分支中打开文件夹的功能.
 * [git-plugin](https://github.com/rcruzper/zsh-git-plugin) -为`git`添加了一些功能.
 * [git-prompt-useremail](https://github.com/mroth/git-prompt-useremail) -为`git` user.email添加提示提醒.
 * [git-prune](https://github.com/Seinh/git-prune) -简化删除合并分支的插件.
-* [git-scripts](https://github.com/packruler/zsh-git-scripts) -添加了git-squash-branch和git-remove-merged命令.
+* [git-scripts](https://github.com/packruler/zsh-git-scripts) - Adds `git-squash-branch` and `git-remove-merged` commands.
 * [git-secret](https://github.com/sobolevn/git-secret) -一个bash工具，用于将您的私人数据存储在`git`存储库中.
 * [git-smart-commands](https://github.com/seletskiy/zsh-git-smart-commands) -添加了额外的git命令，以提高一些常用git的使用效率.
 * [git-sync](https://github.com/caarlos0/zsh-git-sync) -一个ZSH插件来同步`git`存储库并清理它们.
@@ -514,7 +514,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [linuxbrew](https://github.com/zpm-zsh/linuxbrew) -ZSH插件 [linuxbrew](http://linuxbrew.sh/).
 * [listbox](https://github.com/gko/listbox) -Shell的列表框元素.
 * [locate-sublime-projects-cli](https://github.com/david-treblig/locate-sublime-projects-cli) -允许搜索 [Sublime Text](https://www.sublimetext.com) 项目并在Sublime中打开它们.
-* [loremipsum](https://github.com/pfahlr/zsh_plugin_loremipsum)  -在命令行上生成lorem ipsum文本.  从其获取数据 [lipsum.com](https://www.lipsum.com).
+* [loremipsum](https://github.com/pfahlr/zsh_plugin_loremipsum) - Generate lorem ipsum text on the command line. Gets its data from [lipsum.com](https://www.lipsum.com).
 * [ls](https://github.com/zpm-zsh/ls) -着色`ls`的输出.
 * [lumberjack](https://github.com/molovo/lumberjack) -Lumberjack是Shell脚本的日志记录界面.
 * [lux](https://github.com/pndurette/zsh-lux)  -ZSH插件可通过“ lux”命令切换macOS的亮暗模式以及其他项目和应用程序.  高度可定制：可以通过定义变量来配置包含的项目.  高度可扩展：可以通过定义功能来添加项目.  包含`macos_is_dark`帮助函数，以确定在主题化中是否激活了macOS暗模式.
@@ -531,6 +531,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [mode-switch.CLI](https://github.com/Gyumeijie/mode-switch.CLI) -一个ZSH插件，用于在普通模式和“ vi”模式之间切换命令行.
 * [monorepo-plugin](https://github.com/zilongqiu/monorepo-zsh-plugin) -用于Monorepo管理的ZSH插件.
 * [morpho](https://github.com/psprint/zsh-morpho) -用纯ZSH编写的终端屏幕保护程序，以及屏幕保护程序框架.
+* [mouse-status](https://github.com/gryffyn/mouse-status) -根据状态码更改鼠标颜色，使用libratbag.
 * [msf](https://github.com/sathish09/zsh_plugins/tree/master/msf) -Metasploit处理程序插件，可轻松启动处理程序.
 * [mylocation](https://github.com/fALKENdk/mylocation) -一个插件，可根据您的IP地址显示您的当前位置.
 * [mysql-colorize](https://github.com/zpm-zsh/mysql-colorize) -为mysql表添加颜色.
@@ -711,7 +712,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [virtuozzo-plugin](https://github.com/TamCore/virtuozzo-zsh-plugin) -的oh-my-zsh插件 [virtuozzo](https://docs.virtuozzo.com/master/index.html) 裸机虚拟化系统.
 * [visit](https://github.com/justinpchang/visit) -自定义插件，可实现更快的导航.
 * [vox](https://github.com/andrewbonnington/vox.plugin.zsh) -oh-my-zsh插件来控制 [VOX](https://vox.rocks/)，这是一款轻巧的功能齐全的macOS音频播放器，可以播放FLAC和Ogg Vorbis等多种格式.
-* [vsc](https://github.com/davidtong/vsc.plugin.zsh) - Plugin for Visual Studio Code on macOS.
+* [vsc](https://github.com/davidtong/vsc.plugin.zsh) -macOS上的Visual Studio Code插件.
 * [vscode (kasperhesthaven)](https://github.com/kasperhesthaven/vscode) -简单的插件，可以在系统之间轻松打开VS代码.
 * [vscode (qianxinfeng)](https://github.com/qianxinfeng/zsh-vscode) -插件 [Visual Studio Code](https://code.visualstudio.com/).
 * [wakatime (sobolevn)](https://github.com/sobolevn/wakatime-zsh-plugin) -跟踪多少 [time](https://wakatime.com/)  您已经在终端上消费了.  具有每个项目的统计信息.
@@ -725,7 +726,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [workon](https://github.com/bryanculver/workon.plugin.zsh) -在项目之间跳转的简单实用程序.
 * [yadm](https://github.com/juanrgon/yadm-zsh) -如果本地yadm配置发生更改，则显示警告.
 * [yapipenv](https://github.com/AnonGuy/yapipenv.zsh) -如果`pipenv`检测到一个目录的存在，则自动激活目录的pip环境.
-* [yeoman](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (includes options and command auto-completion).
+* [yeoman](https://github.com/edouard-lopez/yeoman-zsh-plugin) -爱德华·洛佩兹（Edouard Lopez）的oh-my-zsh的Yeoman插件，与yeoman版本≥1.0兼容（包括选项和命令自动完成）.
 * [you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) -ZSH插件，提醒您使用定义的别名.
 * [youtube-dl-aliases](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases) -添加`yt`别名以从YouTube下载视频.
 * [youtube-dl](https://github.com/joow/youtube-dl) -适用于的简单插件 [youtube-dl](https://youtube-dl.org/).
@@ -806,7 +807,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [hashlink](https://github.com/tong/zsh.plugin.hashlink) -完成 [https://hashlink.haxe.org/](https://hashlink.haxe.org/).
 * [haxelib](https://github.com/tong/zsh.plugin.haxelib) -haxelib的完成.
 * [ipfs](https://github.com/aramboi/zsh-ipfs) -完成 [Interplanetary File System](https://ipfs.io).
-* [joe-completion](https://github.com/corvofeng/joe-completion) - Adds completions for [joe](https://github.com/karan/joe) gitignore编辑器.
+* [joe-completion](https://github.com/corvofeng/joe-completion) - Adds completions for [joe](https://github.com/karan/joe) gitignore editor.
 * [jtool-completion](https://github.com/beaugalbraith/jtool-completion) -jtool的ZSH完成.
 * [jumpstorm-completion](https://github.com/netresearch/jumpstorm-zsh-plugin) -增加了自动补全功能 [jumpstorm](https://github.com/netresearch/jumpstorm)
 * [kafka](https://github.com/Dabz/kafka-zsh-completions) -Apache的完成 [kafka](https://kafka.apache.org).
@@ -896,7 +897,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [async](https://github.com/mje-nz/zsh-themes) -显示当前目录，`git`状态，上一条命令的返回值（如果有错误代码），后台作业数，长时间运行的命令的执行时间，当前python virtualenv.
 * [aterminal](https://github.com/guiferpa/aterminal) -在提示中显示Nodejs，NPM，Docker，Go，Python，Elixir和Ruby信息.
 * [avit-d2k](https://github.com/fdaciuk/avit-da2k) -基于oh-my-zsh [avit](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme) 主题，变化不大.
-* [avit-mod](https://github.com/zlsun/avit-mod) -oh-my-zsh的修改版 [avit](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme) 主题.
+* [avit-mod](https://github.com/zlsun/avit-mod) - Modified version of oh-my-zsh's [avit](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme) 主题.
 * [banana](https://github.com/sorcererxw/banana-zsh-theme) -包括`git`状态修饰和当前目录.
 * [bandit](https://github.com/Holger-Will/zsh_bandit) -另一个电力线变体.
 * [bar](https://github.com/xp-bar/zsh-bar-theme) -包括用户名，主机，密码，git状态装饰和3个小时的饮水提醒.
@@ -998,7 +999,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [FDT2K](https://github.com/FDT2k/FDT2K-theme)- 基于 [agnoster](https://github.com/agnoster/agnoster-zsh-theme)，预设为包括virtualenv，上一个命令状态，`nvm`，`docker machine`和`git`，`hg`和`bzr`状态修饰.
 * [feder](https://github.com/samfeder/mac-themes/blob/master/feder.zsh-theme)  -干净，简单，兼容且有意义.  在Linux，Unix和Windows上以ANSI颜色进行了测试.
 * [filthy](https://github.com/molovo/filthy) -令人反感的ZSH提示.
-* [fishy-lite](https://github.com/sudorook/fishy-lite) -原叉 [fishy](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#fishy)  oh-my-zsh中的主题，并删除了许多无关紧要的内容以提高加载速度.  包括电池电量表和git状态显示，可以在提示的右侧启用.
+* [fishy-lite](https://github.com/sudorook/fishy-lite) - Fork of the original [fishy](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#fishy)  oh-my-zsh中的主题，并删除了许多无关紧要的内容以提高加载速度.  包括电池电量表和git状态显示，可以在提示的右侧启用.
 * [fishy2](https://github.com/akinjide/fishy2) -ZSH主题的灵感来自 [original fishy](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#fishy).
 * [fluent-git](https://github.com/RobertKozak/fluent-git) -显示上一次命令执行的时间，错误代码，主机名，用户名，git状态，kubernetes集群和名称空间，路径和ssh连接状态.
 * [forerunner](https://github.com/OpenReplyDE/zsh-forerunner) -自定义设置 [powerlevel9k](https://github.com/bhilburn/powerlevel9k) .  包括git状态装饰.
@@ -1039,7 +1040,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [hanpen](https://github.com/kojole/hanpen.zsh-theme) -如果超过ZSH_THEME_HANPEN_CMD_MAX_EXEC_TIME，则显示git分支和状态，最后命令退出代码，最后命令执行时间.
 * [hapin](https://github.com/hanamiyuna/hapin-zsh-theme/blob/master/hapin.zsh-theme) -基于氧化物，包括`git`状态修饰和当前用户/主机信息.
 * [haribo](https://github.com/haribo/omz-haribo-theme) -简单的`git`状态+时间戳提示.
-* [hcompact](https://github.com/fusion809/zsh-theme) - Displays time, OS (including distro if on Linux), directory and whether running as root.
+* [hcompact](https://github.com/fusion809/zsh-theme) -显示时间，操作系统（如果是Linux，则包括发行版），目录以及是否以root身份运行.
 * [heart](https://github.com/gko/heart-theme) -以心脏为主题的浅色背景提示.
 * [hedgehog](https://gist.github.com/hedgehog1029/dfbb7e66511e2c399157) -简单，简洁且干净，支持`git`和返回码.
 * [hedroed-bureau](https://github.com/Hedroed/hedroed-bureau.zsh-theme) - 基于 [bureau](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#bureau)，并添加了git状态装饰和npm状态.
@@ -1059,7 +1060,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [hyperzsh](https://github.com/tylerreckart/hyperzsh) -为您提供正在处理的分支的全面概述以及存储库的状态，而不会使您的终端混乱.
 * [iamskok](https://github.com/iamskok/iamskok.zsh-theme) -在深色背景上效果很好.
 * [ice](https://github.com/Lenart12/ice.zsh-theme) -非常轻微的修改 [bureau](https://github.com/isqua/bureau) 主题结合 [bira](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/bira.zsh-theme).
-* [iGeek](https://github.com/KalebHawkins/ohmyzsh-IGeek-OSX)  -修改了iGeek主题.  开箱即用可与macOS配合使用，包括`git`状态修饰.
+* [iGeek](https://github.com/KalebHawkins/ohmyzsh-IGeek-OSX) - Modified iGeek theme. Works with macOS out-of the box, includes `git` status decorations.
 * [iggy](https://github.com/eugenk/zsh-prompt-iggy) -超级快乐的Powerline风格，`git`意识的“仅prezto”主题.
 * [igorsilva](https://github.com/igor9silva/zsh-theme) -显示当前目录，可自定义的定界符，当前分支，`git`状态.
 * [iguanidae](https://github.com/btd1337/iguanidae-zsh-theme) -包括git，nvm和venv装饰.
@@ -1091,7 +1092,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [kote](https://github.com/wendygaoyuan/kote-zsh-theme)  -最适合深色背景.  包括git状态装饰.
 * [kotterstep](https://github.com/sorenvonsarvort/kotterstep-zsh-theme) -专为黑暗终端设计的两行主题，具有git装饰.
 * [krak3n](https://github.com/krak3n/zsh-theme) -显示golang版本和当前的`git`分支.
-* [kraken](https://github.com/KrakenTheme/kraken-zsh) - A dark theme for ZSH.
+* [kraken](https://github.com/KrakenTheme/kraken-zsh) -ZSH的深色主题.
 * [kumavis](https://github.com/kumavis/kumavis-zsh-theme)  -优化的Agnoster前叉，用于太阳能终端.  需要电力线兼容的字体.
 * [kw](https://github.com/Kwpolska/kw.zsh-theme) -带有`git`和`hg`状态信息的多彩主题，能够向主机名添加主机特定的颜色.
 * [kyuu](https://github.com/arturoalviar/kyuu-zsh-theme)  -一个简单的主题，第一个字符为九（kyuu），数字9.主色为蓝色，洋红色为重音.  包括git状态装饰.
@@ -1154,7 +1155,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [muslim](https://github.com/nksoff/muslim) -一个简单的最小ZSH提示主题.
 * [musy](https://github.com/THaGKI9/musy-zsh-theme)  -受缪斯主题的启发.  包括git状态装饰.
 * [nanofish](https://github.com/tweekmonster/nanofish) -将鱼式目录提示添加到纳米技术主题.
-* [neewbie](https://github.com/neewbee/neewbee.zsh-theme) - Minimal theme with `git` decorations. Based on [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#robbyrussell).
+* [neewbie](https://github.com/neewbee/neewbee.zsh-theme)  -带有`git`装饰的最小主题.  基于 [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#robbyrussell).
 * [neon](https://github.com/sahariko/neon) -带有`git`装饰的漂亮且最小的ZSH主题.
 * [nerdish](https://gitlab.com/nyarla/zsh-theme-nerdish) -带有书呆子字体的ZSH的快速主题.
 * [nescalante](https://github.com/nescalante/zsh-theme) -针对黑暗终端背景进行了优化，包括git装饰.
@@ -1325,8 +1326,8 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [thyme](https://github.com/kawamurakazushi/thyme) -具有`git`状态装饰的简单主题.
 * [topan](https://github.com/fudyartanto/topan-theme-oh-my-zsh)  -包含`git`信息；  最好在深色背景上.
 * [tq](https://github.com/kitian616/tq-zsh-theme) -显示git状态，时间，需要Powerline字体.
-* [traffic](https://github.com/fcce/traffic-zsh-theme) - A dark theme for ZSH.
-* [trajan](https://github.com/denisinla/trajan-zsh-theme) - A dark theme for ZSH.
+* [traffic](https://github.com/fcce/traffic-zsh-theme) -ZSH的深色主题.
+* [trajan](https://github.com/denisinla/trajan-zsh-theme) -ZSH的深色主题.
 * [trinity](https://github.com/de-luca/Trinity) -基于的简单主题 [geometry](https://github.com/geometry-zsh/geometry) .  包括git装饰.
 * [tsotra](https://github.com/nylo-andry/zsh-themes) -极简主义主题，包括git状态装饰，k8s上下文和rvm状态.
 * [tvline](https://github.com/thvitt/tvline) -源自 [agnoster](https://gist.github.com/agnoster/3712874) 主题，添加了电力线字体增强功能.
@@ -1365,7 +1366,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [zeroastro](https://github.com/zeroastro/zeroastro-zsh-theme) -在深色背景上效果最好，包括`git`状态装饰.
 * [zeta](https://github.com/skylerlee/zeta-zsh-theme) -显示用户名，git状态信息，计算机名称和当前工作目录.
 * [zinc](https://gitlab.com/robobenklein/zinc) -快速，纯净的ZSH，混合异步电力线提示，易于扩展且可高度配置.
-* [zqt](https://github.com/ladychili/zqt-zsh-theme) -oh-my-zsh的修改版 [maran](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/maran.zsh-theme) 主题.
+* [zqt](https://github.com/ladychili/zqt-zsh-theme) - Modified version of oh-my-zsh's [maran](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/maran.zsh-theme) 主题.
 * [zsh2000](https://github.com/inspectahstack/zsh2000) -电力线外观ZSH主题，其中包括rvm提示符，git状态和分支，当前时间，用户，主机名，密码，退出状态，是否以root和后台作业状态运行.
 * [zsh313](https://github.com/amirali313/zsh313-theme) -带有`git`状态装饰的最小主题.
 * [zshcomrade](https://github.com/landongn/zshcomrade) -ZSH主题，同志！

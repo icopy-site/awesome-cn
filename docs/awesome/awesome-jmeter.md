@@ -146,7 +146,7 @@
 - [Tricentis Flood](https://flood.io/) -带有JMeter，Gatling和Selenium方案支持的负载测试服务.
 - [RedLine13](https://redline13.com/) -基于AWS的负载测试服务，支持JMeter，Gatling和Selenium方案.
 - [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) -基于Micro Focus的基于云的解决方案，用于Web和移动性能测试，具有JMeter和Gatling支持（以前称为HP StormRunner Load）.
-- [Loadster](https://loadster.app/) -用于分发Web应用程序和服务的负载测试的解决方案.
+- [Loadster](https://loadster.app/) - Solution for distributes load testing of web applications and services.
 - [Loadium](https://loadium.com/) -具有JMeter和Selenium支持的基于AWS的负载测试服务.
 
 ## Results Processing
@@ -168,19 +168,22 @@
 
 ### Results Visualisation
 
--石墨和格拉法纳-* TBD *.
-- InfluxDB & Grafana
+-石墨-* TBD *.
+-InfluxDB和Grafana
   - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) -收集使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
   - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
   -Grafana仪表板
-    - [JMeter Load Test Dashboard](https://grafana.com/grafana/dashboards/1152) -通过NovaTec-APM.
-    - [JMeter Dashboard using Core InfluxdbBackendListenerClient](https://grafana.com/grafana/dashboards/5496) -菲利普·M（Philippe M.）
-    - [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351) -adrianbanu.
+    - [JMeter Load Test Dashboard](https://grafana.com/grafana/dashboards/1152) -Grafana仪表板显示JMeter（由NovaTec-APM提供）提供的实时负载测试指标.
+    - [JMeter Dashboard using Core InfluxdbBackendListenerClient](https://grafana.com/grafana/dashboards/5496) -使用InfluxDB和Grafana（由Philippe M）实时监视Apache JMeter负载测试.
+    - [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351) -使用InfluxDB和Grafana实时监视JMeter负载测试（作者adrianbanu）.
+    - [JMeter (via prometheus exporter)](https://grafana.com/grafana/dashboards/2492) -Grafana仪表板，可通过Prometheus导出器（按Chiabre）检查JMeter指标.
   - [JMeter-InfluxBD-Writer Plugin](https://github.com/NovatecConsulting/JMeter-InfluxDB-Writer) -JMeter插件可将负载测试数据即时写入InfluxDB.
   - [JMeter Results to InfluxDB](https://github.com/soprasteria/jmeter2influxdb) -从csv文件读取JMeter结果，并将其放入InfluxDB数据库.
--ELK Stack和Grafana
+-任何堆栈
   - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) -使用Elasticsearch，Logstash和Kibana可视化JMeter测试结果.
   - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) -使用ElasticSearch后端侦听器和Grafana / Kibana实时监视结果.
+-普罗米修斯
+  - [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) -Apache JMeter的Prometheus侦听器，可在HTTP API中公开结果.
 -ClickHouse
   - [JMeter Results from ClickHouse](https://grafana.com/grafana/dashboards/9561) - 使用 [JMeter Listener pack](https://gitlab.com/testload/jmeter-listener/-/wikis/3.3-ClickHouse-usage)，ClickHouse和Grafana来收集和监视测试结果.
 -后端侦听器实现

@@ -146,7 +146,7 @@
 - [Better code with DDD building blocks](https://github.com/asc-lab/better-code-with-ddd)  -解决方案展示了DDD战术模式的使用，以实现更好的代码可读性和表达性.  将DDD模式与无所不在的语言一起使用可以缩小专家和团队使用的语言以及代码中使用的语言之间的差距.
 - [CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) -使用GetEventStore，CommonDomain，NServiceBus，实体框架，SQL Server，SignalR的域驱动设计，CQRS和事件源示例.
 - [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://github.com/mastreeno/Merp) -基于事件的Micro ERP.
-- [ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
+- [ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore) -带有完整.NET Framework的ASP.NET Core上的ContosoUniversity.
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 - [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
 - [EISK](https://github.com/eisk) -具有简单用例的.NET CLI和VS模板，可使用体系结构最佳实践（DDD，洋葱体系结构等）在.net核心之上构建可伸缩的应用程序.
@@ -184,6 +184,7 @@
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) -示例事件源应用程序，带有命令查询职责隔离
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) -这些是沃恩·弗农（Vaughn Vernon）的“实施域驱动的设计”一书中的示例绑定上下文.
 - [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) -用Kotlin编写的示例DDD / CQRS项目.
+- [EventStormingWorkshop - Designing Cloud Native Microservices On AWS](https://github.com/humank/EventStormingWorkShop/) -通过EventStorming研讨会并在Java中实现DDD战术设计模式的具体示例，应用AWS云本地服务来构建基于业务事件的Coffeeshop场景.
 
 ### PHP
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) -使用Symfony 3和Vue.js构建的PHP示例应用程序.
@@ -283,6 +284,7 @@
 - [Berlin](http://www.meetup.com/Domain-Driven-Design-Berlin/)
 - [Cologne/Bonn](https://www.meetup.com/Domain-Driven-Design-Koln-Bonn/)
 - [Cracow](http://www.meetup.com/ddd-krk/)
+- [DDD Taiwan Community](https://www.facebook.com/groups/dddtaiwan/)
 - [Denver](https://www.meetup.com/ddd-denver/)
 - [Greece](https://www.meetup.com/dddgreece/)
 - [Hamburg](https://www.meetup.com/DDD-HH-Domain-driven-Design-Hamburg/)

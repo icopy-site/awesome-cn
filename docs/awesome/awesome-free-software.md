@@ -2,15 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
-
- &gt;“免费软件”是指尊重用户自由和社区的软件.  粗略地说，这意味着用户可以自由运行，复制，分发，学习，更改和改进软件.  因此，“自由软件”是自由而不是价格的问题.
-
-—GNU项目
-
- &gt; RMS最好的宣传一直是他的黑客行为.  对我们所有人来说都是如此.  对于我们这个小部落以外的世界其他地区，我们的软件卓越性是对开放性和自由性的“远大于”说服力的论据，远胜于对抽象原理的任何高诉求.  因此，下一次RMS或其他任何人敦促您“谈论自由”时，我敦促您答复“闭嘴并向他们展示代码”.
-
-—[Eric Raymond](https://www.linuxtoday.com/developer/1999062802310NWSM)
+ 该列表中的软件以允许任何人出于任何目的使用，修改和共享该软件的条款进行分发.  最受欢迎的两个许可证是 [MIT License](https://choosealicense.com/licenses/mit/) 和 [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/)， 但是这里有 [many other licenses](https://choosealicense.com/appendix/) 授予这些权限.
 
 
 
@@ -18,7 +10,7 @@
 
 ### Audio
 
-- [Audacity](http://www.audacityteam.org/)  -录音和后期处理.  （[GNU GPLv2+](http://www.audacityteam.org/about/license/))
+- [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
 - [Ardour](https://ardour.org/)  -数字音频工作站（DAW）.  （[GNU GPLv2](https://ardour.org/copying.html))
 - [Libre.fm](https://libre.fm/)  -免费流式传输，下载，混音和共享音乐.  （[GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 - [LMMS](https://lmms.io/)  -完整的数字音频工作站.  （[GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
@@ -28,7 +20,7 @@
 ### Command Line Tools
 
 - [asciinema](https://asciinema.org/)  -终端会话记录器.  （[GNU GPLv3](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
-- [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
+- [Cygwin](http://cygwin.com/)  -Windows的类Unix环境，提供对Linux系统上常见的许多工具的访问.  （[GNU GPLv3](https://cygwin.com/COPYING))
 - [Logdissect](https://github.com/dogoncouch/logdissect/)  -CLI工具和Python API，用于分析日志文件和其他数据.  （[MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/)  -通过SSH，Telnet，SCP和rlogin协议以及原始套接字连接进行连接的远程终端仿真器.  （[MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
 - [ranger](https://ranger.github.io/)  -最小，轻巧且美观的GNU / Linux文件浏览器.  它运行在终端窗口中，因此非常适合i3之类的窗口管理器.  vi键绑定允许执行快速操作，包括重命名和删除.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
@@ -50,7 +42,7 @@
 ### File Management
 
 - [7-Zip](http://7-zip.org/)  -用于创建和打开压缩文件的文件存档器.  （[GNU LGPLv2.1+](http://www.7-zip.org/faq.html))
-- [Filestash](http://www.filestash.app)  -类似于Dropbox的Web客户端，用户可以在其中携带自己的后端（FTP，SFTP，Webdav，S3，Minio等）.  （[GNU AGPLv3](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
+- [Filestash](http://www.filestash.app)  -类似Dropbox的网络客户端，用户可以在其中携带自己的后端（FTP，SFTP，Webdav，S3，Minio等）.  （[GNU AGPLv3](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 - [FileZilla](https://filezilla-project.org/)  -通用FTP解决方案.  （[GNU GPLv2+](https://filezilla-project.org/license.php))
 
 ### File Sharing
@@ -159,7 +151,7 @@
 ### Web Servers
 
 - [Apache HTTP Server](https://httpd.apache.org/)  -安全，高效且可扩展的Web服务器.  （[Apache License 2.0](http://www.apache.org/licenses/))
-- [lighttpd](http://www.lighttpd.net/) - Optimized for speed-critical environments while remaining standards-compliant, secure and flexible. ([Revised BSD license](http://www.lighttpd.net/assets/COPYING))
+- [lighttpd](http://www.lighttpd.net/)  -针对速度至关重要的环境进行了优化，同时保持了符合标准，安全和灵活的状态.  （[Revised BSD license](http://www.lighttpd.net/assets/COPYING))
 - [nginx](https://nginx.org/)  -HTTP和反向代理服务器，邮件代理服务器和通用TCP / UDP代理服务器.  （[2-clause BSD-like license](https://nginx.org/LICENSE))
 
 ## Hardware
@@ -170,7 +162,7 @@
 - [Libiquity](http://www.libiquity.com/) -设计和开发嵌入式软件和固件系统.
 - [Purism](https://puri.sm/) -注重隐私，安全和自由的计算机和软件.
 - [Raptor Computing Systems](https://raptorcs.com/) -使用IBM POWER9处理器和OpenBMC固件的台式机，主板和其他部件.
-- [Technoethical](https://tehnoetic.com/) -与免费操作系统兼容的笔记本电脑，适配器和移动设备。
+- [Technoethical](https://tehnoetic.com/) -与免费操作系统兼容的笔记本电脑，适配器和移动设备.
 - [ThinkPenguin](https://www.thinkpenguin.com/) -不包含专有软件的现代笔记本电脑，台式机和打印机.
 - [Vikings](https://vikings.net/) -由Libreboot固件，libre软件和还出售硬件的绿色能源支持的托管公司.
 
@@ -248,9 +240,7 @@
 - [Agustín Benito: Free Software, Beyond Software (TEDxLaLaguna)](https://www.youtube.com/watch?v=_2Qq072wIDk) （西班牙语）
 - [Eben Moglen: How I Discovered Free Software](https://www.youtube.com/watch?v=uKxzK9xtSXM)
 - [Prof. Nagarjuna G: Free Software for Digital India](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
-- [Richard Stallman: A Free Digital Society](https://www.fsf.org/blogs/rms/photo-blog-2017-june-belohorizonte)
 - [Richard Stallman: Free Software, Free Society (TEDxGeneva 2014)](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
-- [Richard Stallman: Reclaim Your Freedom with Free Libre Software Now (Web Summit)](https://www.youtube.com/watch?v=n9YDz-Iwgyw)
 - [Stephen Fry: Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 - [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 

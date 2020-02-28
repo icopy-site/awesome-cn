@@ -292,7 +292,7 @@
 * [PHP Parser](https://github.com/nikic/PHP-Parser) -用PHP编写的PHP解析器.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) -命令行实用程序，用于比较两个源集并确定要应用的适当语义版本.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) -快速测量PHP项目大小的工具.
-* [PHPQA](https://github.com/EdgedesignCZ/phpqa) -用于运行质量检查工具的工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）.
+* [PHPQA](https://github.com/EdgedesignCZ/phpqa) -一种用于运行质量检查工具的工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）.
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) -可视化指标和源代码的工具.
 * [Rector](https://github.com/rectorphp/rector) -升级和重构代码的工具.
 * [Scrutinizer](https://scrutinizer-ci.com/) -网页工具 [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
@@ -453,12 +453,13 @@
 * [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) -适用于MySQL，PostgreSQL，SQLite和Microsoft SQL Server的独立查询构建器.
 * [Baum](https://github.com/etrepat/baum) -Eloquent的嵌套集实现.
 * [Cake ORM](https://github.com/cakephp/orm) -使用DataMapper模式（CP）实现的对象关系映射器.
+* [Cycle ORM](https://github.com/cycle/orm) -PHP DataMapper，ORM.
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) -主义行为扩展的集合.
 * [Doctrine](https://www.doctrine-project.org/) -全面的DBAL和ORM.
 * [Eloquent](https://github.com/illuminate/database) -一个简单的ORM（L6）.
 * [Pomm](https://github.com/chanmix51/Pomm) -PostgreSQL的对象模型管理器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) -一组实用程序，用于为数据映射器生成代理对象.
-* [RedBean](https://redbeanphp.com/index.php) -轻量级，无需配置的ORM.
+* [RedBean](https://redbeanphp.com/index.php) -轻量级，无配置的ORM.
 * [Spot2](https://github.com/spotorm/spot2) -MySQL数据目录ORM.
 
 ### Migrations
@@ -812,7 +813,7 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了解析和验证XML文档，利用XPath表达式以及使用名称空间以及如何以编程方式创建和修改XML文件的方法.

@@ -4,7 +4,7 @@
 
  <a href="https://github.com/fish-shell/fish-shell" title="鱼">友好的交互式shell</a>的最出色软件包，提示和资源的精选列表.
 
- 要在这里添加您的项目吗？  分叉此仓库，进行更改并 [open a pull request](https://github.com/jorgebucaran/awesome-fish/fork) .  有什么错误，不清楚或遗漏的地方吗？  帮助我们改善此页面，谢谢！
+ 要在这里添加您的项目吗？  分叉此仓库，进行更改并 [open a pull request](https://github.com/jorgebucaran/awesome-fish/fork) .  有什么错误，不清楚或遗漏吗？  帮助我们改善此页面，谢谢！
 
 想要开始钓鱼吗？ [Try it in your browser](https://rootnroll.com/d/fish-shell).
 
@@ -13,14 +13,14 @@
 ### Package managers
 
 - [Fisher](https://github.com/jorgebucaran/fisher) -最小，快速和可靠的软件包管理器.
-- [Fundle](https://github.com/danhper/fundle) -受vundle启发的基于<samp>config.fish</samp>的软件包管理器.
+- [Fundle](https://github.com/danhper/fundle) -基于<samp>config.fish</samp>的软件包管理器，受vundle启发.
 - [Oh My Fish!](https://github.com/oh-my-fish/oh-my-fish) -Shell配置框架和软件包管理器为一体.
 
 ### Shell prompts
 
 - [Pure](https://github.com/rafaelrinaldi/pure) -的港口 [sindresorhus/pure](https://github.com/sindresorhus/pure) 提示.
 - [Mono](https://github.com/fishpkg/fish-prompt-mono) -没有钟声或口哨声，最小的外壳提示.
-- [Metro](https://github.com/fishpkg/fish-prompt-metro) -具Git意识，空间意识，电力线提示.
+- [Metro](https://github.com/fishpkg/fish-prompt-metro) -意识到Git，空间意识，电力线提示.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) -健壮，可识别git的电力线提示.
 
 ### Commands, utilities, functions
@@ -53,6 +53,7 @@
 - [Why you should give fish a chance](https://dev.to/jukben/why-you-should-give-a-chance-to-fish-shell-5a0l) （通过 [@jukben](https://github.com/jukben))
 - [A user introduction to the fish shell](https://flaviocopes.com/fish-shell/) （通过 [@flaviocopes](https://github.com/flaviocopes))
 - [Came for the colors, stayed for the sane scripting!](https://mvolkmann.github.io/fish-article/) （通过 [@mvolkmann](https://github.com/mvolkmann))
+- [Why I Switched from ZSH to FISH](https://dev.to/joshmedeski/why-i-switched-from-zsh-to-fish-2j17) （通过 [@joshmedeski](https://github.com/joshmedeski)) 
 
 ## Stay in the loop
 

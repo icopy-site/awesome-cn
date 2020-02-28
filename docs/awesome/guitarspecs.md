@@ -105,7 +105,7 @@ Strat脖子的脚后跟为圆形，Tele脖子的脚后跟为方形，这使得�
 
 ![neck-heel-strat-vs-tele](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/neck-heel-strat-vs-tele.jpg)
 
-标准的挡泥板脚跟安装是通过4个螺栓孔-直径1/8英寸（3毫米）（展开2英寸x 1-1 / 2英寸）完成的.
+标准的翼子板脚跟安装是通过4螺栓孔完成的，直径为1/8英寸（3毫米）（展开2英寸x 1-1 / 2英寸）.
 
 
 ### Fretboard's Radius
@@ -128,7 +128,7 @@ Strat脖子的脚后跟为圆形，Tele脖子的脚后跟为方形，这使得�
  小|  狭窄  低|  复古挡泥板
  中|  狭窄  高|  许多马丁斯
  中号|  宽|  低|  许多吉布森人
-Jum­bo	 	 | wide	   | high      | moderne Fender
+ 巨型|  宽|  高|  现代护舷
  高大|  宽|  很高|  许多伊巴涅兹
 
 
@@ -170,16 +170,20 @@ Jum­bo	 	 | wide	   | high      | moderne Fender
  -空心体
  -其他形式 
 
-### Bridge Routing
+### Bridge And Pickup Routing Overview
 
  -平面安装硬尾（Strat / Tele / Schaller）
  -Tremolo（斯特拉）
  -Tune-O-Matic（吉森）
  -其他（Jazzmaster®，Jaguar®，Bigsby®，Kahler®，Line 6等）
 
-美式标准颤音，老式电视广播和Tune-O-Matic风格钻
-
 ![Bridge Routing](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/egitarrenbau-body-standardstrat_vintagetele_tunomatic.jpg)
+
+图片从左到右：
+-美国标准颤音路由和单线圈Strat拾音器， 
+-Vintage Telcaster路由和单线圈Tele Pickup， 
+-Tune-O-Matic样式路由和Habucker拾音器
+
 
 ### Flat Mount Strat Routing
 
@@ -189,7 +193,7 @@ Jum­bo	 	 | wide	   | high      | moderne Fender
 
  型号|  E / e |  站点孔Ø|  工位孔距|  桥孔Ø|  桥孔距离
 --------------------|------------------|-------------------|------------------|----------------|-------------------
-Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 3 mm (1/8")    | 21 mm (.827")
+ Strat复古|  57毫米（2 1/4英寸）| 3.18毫米（0.125英寸）|  10.5毫米（0.413英寸）| 3毫米（1/8英寸）|  21毫米（.827英寸）
  Strat复古窄版|  54毫米（2 1/8“）| 4.78毫米（0.188”）|  10.5毫米（0.413英寸）| 3毫米（1/8英寸）|  21毫米（.827英寸）
  Strat标准|  52.83毫米（2.08英寸）| 3.18毫米（0.125英寸）|  11.3毫米（0.446英寸）| 3毫米（1/8英寸）|  22.6毫米（.89英寸）
 
@@ -223,7 +227,7 @@ Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 
 -----------------------|-------------------|-----------|------------------|--------------
  墨西哥战略|  52,4毫米（2 1/16）|  6 |  52,4毫米（2 1/16）|  3毫米（1/8英寸）
  年份|  56,36毫米（2 7/32英寸）| 6 | 55,9毫米（2.2英寸）|  3毫米（1/8英寸）
- 美国标准|  52.83毫米（2.08英寸）| 2 | 55,9毫米（2.2英寸）|  9.5毫米（.375英寸）
+American Standard      | 52,83 mm (2.08")  | 2         | 55,9 mm (2.2")   | 9,5 mm (.375")
  Floyd Rose（“隐性”）|  53毫米（2-3 / 32英寸）| 2 | 74毫米（2.913英寸）|  9,91毫米（.390英寸）
  夏勒2000 |  53.5毫米|  2 |  56毫米|  10毫米
  夏勒葡萄酒|  53,5毫米|  2 |  74.3毫米|  10毫米
@@ -282,39 +286,27 @@ Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 
 
 ----------
 
-## Hardware
-![hardware](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip12_hardware.jpg)
-
-### Tuning Machines
+## Tuning Machines
 ![tuning machine head](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip10_tuning-machine-head.jpg)
 
 调音台选项：
  -配置：3L + 3R（吉布森风格），6列直列式（挡泥板风格），4L / 2R（音乐人风格）
- -比率-绕轴头缠绕1倍-需旋转1倍.
+ -比率-绕轴头缠绕1倍-必须旋转1倍.
    较大的比率（1:18&gt; 1:14）可以进行更精细的调整.
  -标准与锁定-带有锁定调谐器的琴弦穿过车轴孔插入，并从外部用螺钉固定
 
-### Bridges
+## Bridges
 ![bridge](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip11_bridge.jpg)
 
- 吉他琴桥对演奏性的影响很大（主要是通过弦距）.  较宽的弦距更适合于弹指的风格，较窄的弦距在演奏音调失真的引线时更易于控制.  [Bridge Routing](#bridge-routing) 上一章介绍了带弦距规格的常见桥梁类别.
+Guitar bridge has large **influence on playability** (mainly through string spacing).  Wider string spacing is better for finger-picking style, narrow spacing gives easier control when playing leads with distorted tone.  [Bridge Routing](#bridge-routing) 上一章介绍了带弦距规格的常见桥梁类别.
 
 琴桥的形状和材料也对声音有一定的影响.
 好的制造商在其页面上提供详细的产品信息：
 
 >  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html?language=en) -表示Bell Brass和Steel塑造具有特征的吉他声音，而Aluminium在音调传递中起很大作用.
  
-### Knob Styles
-![knob](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip13_knob.jpg)
 
-旋钮有3种常见样式：
- -铃
- -速度
- -半球形
-
-> [philadelphialuthiertools.com](http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/)  -为吉他或贝司选择正确的旋钮.
-
-### More Parts To Complete
+## Hardware Parts Checklist
 ![jackplate](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip9_jackplate.jpg)
 
  -千斤顶
@@ -334,7 +326,7 @@ Strat Vintage       | 57 mm (2 1/4")   |  3.18 mm (0.125") | 10.5 mm (0.413") | 
 ![electronics](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip3_harness.jpg)
 
 
-Electronics exerts greatest influence on the overall sound of a solid-body electric guitar.
+电子技术对固体电吉他的整体声音影响最大.
 
 > [buildyourguitar.com -  The Secrets of Electric Guitar Pickups by Lemme](http://www.buildyourguitar.com/resources/lemme/index.htm) -“如果您知道共振频率和共振峰的高度，就可以知道拾音器传输特性的90％.使用此模型无法描述某些其他效果，但是它们的影响并不那么重要”.
 
@@ -357,9 +349,10 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
 ### Pickup Properties
 ![pickup properties](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip5_hambucker.jpg)
 
--输出：低（年份），中，高（通常用于爵士和布鲁斯的年份）
 -接线：1、2、3或4导体（4导体允许最灵活的布线）*
 -位置：琴桥，琴颈，中间
+-对称与非对称连接类型
+-输出：低（年份），中，高（通常用于爵士和布鲁斯的年份）
 -被动与主动（主动通常用于失真声音）
 -直流电阻：指示拾音器将有多少输出
 -情商聊天：关于低音，中音和高音的一般想法.
@@ -367,34 +360,52 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
 >  [seymourduncan.com](http://www.seymourduncan.com/pickup-selector-step-1) -皮卡选择器     
 >  [dimarzio.com](http://www.dimarzio.com/pickup-picker) -皮卡选择器    
 
-### Electronics Wiring Options
+ 经典的humbucker是不对称的.  它们在内部以串联方式（即串行方式-带来更大的功率）以相反的相位（噪声较小）进行布线.  当前的多导体PU提供了使用推/拉电位器，迷你开关，拨动开关，大型开关和旋转开关以不同方式切换线圈的选项，并允许直接在吉他上对声音进行广泛控制.
+
+
+ 导体|  连接类型  线圈分流|  Seriell /平行|  相位开关|  例
+--------|---------------|------------------------------|---------------------|----------|------------
+ 1x |  不对称|  悍马模式|  Seriell |  没有  暗影AZ48
+ 2x |  对称|  悍马模式|  Seriell |  是的  挡泥板大范围行驶（墨西哥）
+ 2x |  不对称|  Humbucker和单线圈模式|  Seriell |  没有  贝内德托B6
+ 3x |  对称|  Humbucker和单线圈模式|  序列号|  是的  许多活动的PU
+ 3x |  不对称|  Humbucker和单线圈模式|  Seriell和Parallel |  没有  PRS 59
+ 4倍|  对称|  Humbucker和单线圈模式|  Seriell和Parallel |  是的  所有4导体PU
+
+
+### Sound Control with Switches
 
 ![electronics wiring options](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip14_switch.jpg)
 
- 效果|  锅  推/拉或迷你 <br>  DPDT（开/关/开）* |  微型 <br>  DPDP（开/关）|  微型 <br>  DPDP（开/开/开）|  X-Way-Blade <br>  Megaswitch |  旋转开关.
-------------------------- |------|------|-----|-----|-----|----
- 数量  和  -/y¹|  -|  -|  -|  --
- 音调|  和  -/y¹|  -|  -|  -|  和³
- 系列/并联|  -|  和  -|  和  和  和
- 线圈分裂|  -|  和  和  和  和  和
- 系列/并联和线圈分接头|  -|  和²|  和²|  和²|  和²|  --
- 相位开关|  -|  和  和  和  和  和
- 皮卡开关|  -|  和  和  和  和  和
+    开关|  线圈分流|  Seriell /平行|  相位开关|  PU开关
+-----------------------------|--------------|----------------|--------------|----------
+ 拨动开关|  -|  -|  -|  ÿ
+ 刀片开关“挡泥板” |  -|  -|  -|  ÿ
+ X-Way-Blade“ Megaswitch” |  和  和  和  和
+ 小型开关SPDT（ON / ON）|  y |  -|  -|  --
+ 小型开关SPDT（ON / OFF / ON）|  y |  -|  -|  --
+ 小型开关SPDT（ON / OFF / ON）|  y |  -|  y |  --
+ 小型开关DP​​DT（ON / ON）|  y |  y |  y |  --
+ 推/拉电位器DPDT（ON / OFF / ON）|  y |  y |  y |  -- 
+ 小型开关DP​​DT（ON / ON / ON）|  y |  y |  y |  ÿ
+ Drehschalter |  和  和  和  和
 
+-线圈分裂-“单线圈声音”
+-串行/并行连接-“双单线圈声音”
+-相位切换-“异相声音”
 
-     *切换owerview：
-    DPDT（开/关/开）：DPDT（开/开）：DPDT（开/开/开）：
-     0 XX |  0 0 0 |  XX 0 0 XX |  XX 0 0 XX |  XX 0 |  XX 0
-     0 XX |  0 0 0 |  XX 0 0 XX |  XX 0 0 XX |  0 XX |  XX 0
+SP =单刀，DP =双刀，DT =双掷
+	
+	SPDT（开/关/开）：SPDT（开/开）：     
+     0 XX |  0 0 0 |  XX 0 0 XX |  XX 0     
 
+	DPDT（开/关/开）：DPDT（开/开）：DPDT（开/开/开）：
+	 0 XX |  0 0 0 |  XX 0 0 XX |  XX 0 0 XX |  XX 0 |  XX 0
+	 0 XX |  0 0 0 |  XX 0 0 XX |  XX 0 0 XX |  0 XX |  XX 0
 
-&#39;¹&#39;DPDP（ON / OFF / ON）可用作“迷你开关”或“推/推罐”，用于音量和音调控制
+示例：可以同时使用4个推/拉锅，4个小型开关（即duncan三杆射击）或5路刀片Megaswitch来“同时进行Seriell /平行和线圈拆分”
 
-“²”可以通过4个推/拉锅，4个迷你开关（作为SD“三合一”）或5向刀片式百万开关来完成
-
-&#39;³&#39;C开关/变音-用于不同电位计的旋转开关
-
-> [open.guitars (german)](https://open.guitars/egitarrenbau/tonabnehmer-verdrahtung) -汉堡包导体/线圈切换选项.
+> [open.guitars (german)](https://open-guitars.de/egitarrenbau/pu-anschlussarten/) -汉堡包导体/线圈切换选项.
 
 
 ### Electronics Wiring Schemas
@@ -435,6 +446,15 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
  -轴直径：6毫米（0.236英寸），6.35毫米（0.25英寸）
  轴长：17mm，19 mm（0.75 in），27.5 mm（1.125 in）
 
+### Potentiometer Knob Styles 
+![knob](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip13_knob.jpg)
+
+旋钮有3种常见样式：
+ -铃
+ -速度
+ -半球形
+
+> [philadelphialuthiertools.com](http://blog.philadelphialuthiertools.com/2013/05/16/choosing-the-correct-knob-for-your-guitar-or-bass/)  -为吉他或贝司选择正确的旋钮.
 
 ### Active Pickups Electronics
 ![active pickups](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip7_active-pickup.jpg)
@@ -458,7 +478,7 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
  姓名|  大约&#39;e&#39;网站  |  大约&#39;E&#39;网站
 ------------|--------------- | --------
  超轻|  .008 |  .039
- 轻型|  .009 |  .042
+Light 		|  .009    		 | .042
  常规|  .010 |  .046
  中|  .011 |  .052
  爵士乐  .012 |  .054
@@ -520,7 +540,7 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
  核桃|  明亮  中|  T / B / N |  灰色，迷人
  温格|  明亮  重  T / B / N / F |  暗
 
- ¹声音：对音调的影响图主要代表原声乐器，不适用于固体吉他，在其他方面，固体成分对声音的影响更大.  因此，尽管有以下表示，桃花心木电吉他仍可以听起来很明亮. 
+ ¹声音：对音调的影响图主要适用于原声乐器，不适用于固体吉他，而其他组件对声音的影响更大.  因此，尽管有以下表示，桃花心木电吉他仍可以听起来很明亮. 
 ²同一品种的重量可能有所不同. 
  ³用于：T-上衣|  B-身体|  N领|  F-指板
 
