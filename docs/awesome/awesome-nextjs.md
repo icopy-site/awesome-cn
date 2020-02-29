@@ -87,9 +87,10 @@
 * [Nextein](https://github.com/elmasse/nextein) -基于Next.js的静态网站生成器.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) -轻松将博客添加到任何基于next.js的项目
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) -轻松部署无服务器应用程序.
-* [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) -使用Terraform部署您的应用程序
+* [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - Deploy your application using Terraform
 * [next-session](https://github.com/hoangvvo/next-session) -Next.js的会话中间件
-* [Next PurgeCSS](https://github.com/lucleray/next-purgecss) -轻松整合 [Purgecss](https://www.purgecss.com/)，这有助于您从捆绑包中删除未使用的CSS.
+* [Next PurgeCSS](https://github.com/lucleray/next-purgecss) -轻松整合 [Purgecss](https://www.purgecss.com/)，这可帮助您从包中删除未使用的CSS.
+* [Next PWA](https://github.com/shadowwalker/next-pwa) -带工作框的Next.js的零配置PWA插件
 
 
 ## Apps
@@ -116,7 +117,7 @@
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
 * [DS](https://github.com/divyenduz/ds) -个人网站管理员.
 * [Mozilla VR Home](https://vr.mozilla.org/) -Mozilla VR主页
-* [Elton John's website](https://www.eltonjohn.com) - Elton John's Website
+* [Elton John's website](https://www.eltonjohn.com) -艾尔顿·约翰（Elton John）的网站
 * [IOTA's Data Market Place](https://data.iota.org/) -IOTA市场
 * [magicleap.com](https://www.magicleap.com/) -魔法飞跃
 * [NPM.js Search Page](https://www.npmjs.com/search) -NPM的搜索页面

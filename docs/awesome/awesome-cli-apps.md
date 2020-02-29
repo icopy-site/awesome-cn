@@ -30,7 +30,7 @@
 
 ### Music
 
-- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
+- [cmus](https://github.com/cmus/cmus) -小型，快速且功能强大的控制台音乐播放器.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) -即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) -通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
@@ -58,7 +58,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) -从YouTube.com和许多其他视频网站下载视频.
 - [streamlink](https://github.com/streamlink/streamlink) -从各种网站提取流到您选择的视频播放器.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) -YouTube播放器.
-- [mpv](https://mpv.io) -出色的视频播放器.
+- [mpv](https://mpv.io) - Superior video player.
 
 ### Movies
 
@@ -73,7 +73,7 @@
 ### Books
 
 - [epr](https://github.com/wustho/epr) -epub阅读器.
-- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - 圣经.
+- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) -类似于Spritz的Speedreader.
 
 ## Development
@@ -128,6 +128,7 @@
 - [mycli](https://github.com/dbcli/mycli) -具有自动完成功能和语法突出显示功能的MySQL客户端.
 - [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的Postgres客户端.
 - [sqlline](https://github.com/julianhyde/sqlline) -通过JDBC发行SQL的Shell.
+- [iredis](https://github.com/laixintao/iredis) -具有自动完成功能和语法突出显示功能的Redis客户端.
 
 ### Devops
 
@@ -418,7 +419,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) -将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -gitlab cli，用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -一些小git附加功能，例如git-ignore，git-setup，git-changelog，git-release，git-effort等.
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
+- [gita](https://github.com/nosarthur/gita) -并发管理多个git repos.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -交互式生成README.md文件.
 
 ## Images
@@ -464,14 +465,15 @@
 - [yosay](https://github.com/yeoman/yosay) -像考赛，但对于约曼.
 - [lolcat](https://github.com/busyloop/lolcat) -以彩虹色输出文本.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) -生成文字模因.
+- [dankcli](https://github.com/sggts04/dankcli) -将文字添加到模因图像模板.
 
 ## Other
 
 - [birthday](https://github.com/IonicaBizau/birthday) -知道朋友的生日是什么时候.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) -检测代码的缩进.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) -获取当前用户的全名.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
-- [HASHA -cli](https://github.com/sindresorhus/hasha-cli)  -哈希变得简单.  获取文本或标准输入的哈希.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) -获取文件或标准输入的压缩大小.
+- [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) -使用Levenshtein距离算法测量两个字符串之间的差异.
 - [mdlt](https://github.com/metadelta/mdlt) -从命令行直接进行快速数学运算.

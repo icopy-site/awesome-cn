@@ -135,7 +135,9 @@
     - [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
     - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/17/jmeter-distributed-testing-with-amazon-ec2/)
   -DigitalOcean
-    - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) -使用Digital Ocean，JMeter和Docker构建自己的JMeter Cloud.
+    - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) -使用DigitalOcean，JMeter和Docker构建自己的JMeter Cloud.
+  -Microsoft Azure
+    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) -可扩展的云负载/压力测试管道解决方案，使用Apache JMeter和Terraform来动态配置和销毁Azure上所需的基础结构.
 
 ## Cloud Services / SaaS
 
@@ -146,7 +148,7 @@
 - [Tricentis Flood](https://flood.io/) -带有JMeter，Gatling和Selenium方案支持的负载测试服务.
 - [RedLine13](https://redline13.com/) -基于AWS的负载测试服务，支持JMeter，Gatling和Selenium方案.
 - [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) -基于Micro Focus的基于云的解决方案，用于Web和移动性能测试，具有JMeter和Gatling支持（以前称为HP StormRunner Load）.
-- [Loadster](https://loadster.app/) - Solution for distributes load testing of web applications and services.
+- [Loadster](https://loadster.app/) -用于分发Web应用程序和服务的负载测试的解决方案.
 - [Loadium](https://loadium.com/) -具有JMeter和Selenium支持的基于AWS的负载测试服务.
 
 ## Results Processing
@@ -340,11 +342,11 @@
 
 ### Awesome Lists
 
-- [Awesome](https://github.com/sindresorhus/awesome) -真棒列表的原始真棒列表.
+- [Awesome](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists.
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) -惊人的超赞的精选列表.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) -免费软件测试和验证资源列表.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) -精选的测试资源列表.
-- [Awesome Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics) -有助于了解页面速度和用户体验的指标.
+- [Awesome Web Performance Metrics](https://github.com/palfi-ltd/awesome-web-performance-metrics) -有助于了解页面速度和用户体验的指标.
 - [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) -Web性能优化的精选列表.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) -可扩展，可靠和高性能的大型系统的模式.
 - [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) -网站可靠性和生产工程资源的精选列表.

@@ -61,7 +61,7 @@
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) -使用OAuth2身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
 - ：草莓： [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) -事件驱动的行为，可轻松生成一次性使用的安全令牌.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) -轻松构建支持SaaS的Web应用程序.
-- ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -基于身份验证和基于角色的（单/多）授权，这是一种非常轻巧的方法.
+- ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -身份验证和基于角色的（单/多）授权，是一种非常轻巧的方法.
 - ：草莓： [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) -包含 [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) 用于密码哈希的DRY方法.
 - ：草莓： [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth)  -允许使用Google Authenticator或类似应用进行两因素身份验证，以生成一次性代码.  基于 [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) 图书馆.
 - [UserPermissions plugin](https://github.com/AlessandroMinoccheri/UserPermissions) -允许用户组或单个用户查看特定页面.
@@ -272,7 +272,7 @@
 ## REST and API
 *用于开发REST-ful API的插件和网络工具.
 
-- [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) -使用swagger-php和swagger-ui的CakePHP API的Swagger 2.0文档.
+- ：草莓： [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) -使用swagger-php和swagger-ui的CakePHP API的Swagger 2.0文档.
 - [Alt3/ValidationExposer plugin](https://github.com/alt3/cakephp-validation-exposer) -轻松公开您的应用程序的验证规则.
 - [ApiPagination plugin](https://github.com/bcrowe/cakephp-api-pagination) -将来自CakePHP的Paginator的分页信息注入序列化的JsonView和XmlView响应中.
 - ：草莓： [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api)  -提供完整API的多合一解决方案.  它包括版本控制，渲染器，CRUD，身份验证，扩展（分页，过滤器，HATEOAS）等等.

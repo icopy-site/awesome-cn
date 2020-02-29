@@ -199,7 +199,7 @@
 * [whitfin/s3-utils](https://github.com/whitfin/s3-utils) —包含一个基于Amazon S3的实用程序的小工具，用于提供其他便利性API.
 * [gorros/s3-edit-rs](https://github.com/gorros/s3-edit-rs) -一个命令行工具，可直接在Amazon S3上编辑文件. 
 * [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) —用Rust编写的tmux手指的闪电般快速版本，复制/粘贴tmux，如vimium / vimperator.
-* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) —一种命令行工具，可通过使您与屏幕保持一定距离来帮助您管理工作站，并通过OPENCV在您不在时锁定屏幕！
+* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) —一个命令行工具，可通过使您与屏幕保持一定距离来帮助您管理工作站，并通过OPENCV锁定屏幕（当您不在时）锁定屏幕！
 * [guoxbin/dtool](https://github.com/guoxbin/dtool) -一个有用的命令行工具集合，以协助开发，包括转换，编解码器，哈希，加密等. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
 
 ### Video
@@ -240,7 +240,7 @@
 * [Cargo](https://crates.io/) — Rust包管理器
   * [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) -用来比较Rust微基准的实用程序 [<img src="https://api.travis-ci.org/BurntSushi/cargo-benchcmp.svg?branch=master">](https://travis-ci.org/BurntSushi/cargo-benchcmp)
   * [cargo-bitbake](https://crates.io/crates/cargo-bitbake) -可以使用meta-rust中的类来生成BitBake食谱的商品扩展 [<img src="https://api.travis-ci.org/cardoe/cargo-bitbake.svg?branch=master">](https://travis-ci.org/cardoe/cargo-bitbake)
-  * [cargo-cache](https://crates.io/crates/cargo-cache) —检查/管理/清理货物缓存（`〜/ .cargo /`/`$ {CARGO_HOME}`），打印尺寸等 [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions)
+  * [cargo-cache](https://crates.io/crates/cargo-cache) —检查/管理/清理您的货物缓存（`〜/ .cargo /`/`$ {CARGO_HOME}`），打印尺寸等 [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions)
   * [cargo-check](https://crates.io/crates/cargo-check) —围绕“ rustc货物”的包装器--Zno-trans，如果只需要正确性检查，则有助于运行更快的编译器 [<img src="https://api.travis-ci.org/rsolomo/cargo-check.svg?branch=master">](https://travis-ci.org/rsolomo/cargo-check)
   * [cargo-count](https://crates.io/crates/cargo-count) —列出源代码计数和有关货运项目的详细信息，包括不安全的统计信息 [<img src="https://api.travis-ci.org/kbknapp/cargo-count.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-count)
   * [cargo-deb](https://crates.io/crates/cargo-deb) —生成二进制Debian软件包 [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
@@ -656,7 +656,7 @@
     * [Metaswitch/cassandra-rs](https://raw.githubusercontent.com/Metaswitch/cassandra-rs) —绑定到DataStax C / C ++客户端 [<img src="https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master">](https://travis-ci.org/Metaswitch/cassandra-rs)
   * CouchDB [[couchdb](https://crates.io/keywords/couchdb)]
     * [chill-rs/chill](https://raw.githubusercontent.com/chill-rs/chill) [[couchdb](https://crates.io/crates/chill)] — CouchDB REST API的Rust客户端 [<img src="https://api.travis-ci.org/chill-rs/chill.svg?branch=master">](https://travis-ci.org/chill-rs/chill)
-    * [Sofa](https://github.com/YellowInnovation/sofa) — CouchDB HTTP REST API的接口，可稳定生锈
+    * [Sofa](https://github.com/nicolas-goudry/sofa) — CouchDB HTTP REST API的接口，可稳定生锈
   * Elasticsearch [[elasticsearch](https://crates.io/keywords/elasticsearch)]
     * [benashford/rs-es](https://raw.githubusercontent.com/benashford/rs-es) [[rs-es](https://crates.io/crates/rs-es)] —的Rust客户端 [Elastic](https://www.elastic.co/) REST API [<img src="https://api.travis-ci.org/benashford/rs-es.svg?branch=master">](https://travis-ci.org/benashford/rs-es)
     * [elastic-rs/elastic](https://raw.githubusercontent.com/elastic-rs/elastic) [[elastic](https://crates.io/crates/elastic)] — elastic是用Rust编写的，用于Elasticsearch的高效，模块化API客户端 [<img src="https://api.travis-ci.org/elastic-rs/elastic.svg?branch=master">](https://travis-ci.org/elastic-rs/elastic) [<img src="https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true">](https://ci.appveyor.com/project/KodrAus/elastic)
@@ -972,7 +972,7 @@
 *安卓
   * [rust-windowing/android-rs-glue](https://raw.githubusercontent.com/rust-windowing/android-rs-glue) — Rust与Android之间的粘合 [<img src="https://api.travis-ci.org/rust-windowing/android-rs-glue.svg?branch=master">](https://travis-ci.org/rust-windowing/android-rs-glue)
 * iOS
-  * [TimNN/cargo-lipo](https://raw.githubusercontent.com/TimNN/cargo-lipo) — cargo lipo子命令，可自动创建一个通用库以供您的iOS应用程序使用. [<img src="https://api.travis-ci.org/TimNN/cargo-lipo.svg?branch=master">](https://travis-ci.org/TimNN/cargo-lipo)
+  * [TimNN/cargo-lipo](https://raw.githubusercontent.com/TimNN/cargo-lipo) — cargo lipo子命令，可自动创建一个可与您的iOS应用程序一起使用的通用库. [<img src="https://api.travis-ci.org/TimNN/cargo-lipo.svg?branch=master">](https://travis-ci.org/TimNN/cargo-lipo)
   * [vhbit/ObjCrust](https://github.com/vhbit/ObjCrust) -使用Rust创建iOS静态库
 *卵石
   * [andars/pebble.rs](https://github.com/andars/pebble.rs) —一个允许将Rust用于开发Pebble应用程序的板条箱.
@@ -1088,7 +1088,7 @@
 
 *车把
   * [sunng87/handlebars-rust](https://raw.githubusercontent.com/sunng87/handlebars-rust) —具有继承功能，自定义帮助程序支持的车把模板引擎. [<img src="https://api.travis-ci.org/sunng87/handlebars-rust.svg?branch=master">](https://travis-ci.org/sunng87/handlebars-rust)
-  * [botika/yarte](https://github.com/botika/yarte) — Yarte代表** Y ** et ** A ** n **** R ** ust ** T ** emplate ** E ** ngine，是最快的模板引擎. [![Build Status](https://api.travis-ci.org/botika/yarte.svg?branch=master)](https://travis-ci.org/botika/yarte)
+  * [botika/yarte](https://github.com/botika/yarte) — Yarte代表** Y ** et ** A ** n ** R ** ust ** T ** emplate ** E ** ngine，是最快的模板引擎. [![Build Status](https://api.travis-ci.org/botika/yarte.svg?branch=master)](https://travis-ci.org/botika/yarte)
 * HTML
   * [lambda-fairy/maud](https://raw.githubusercontent.com/lambda-fairy/maud) —编译时HTML模板 [<img src="https://api.travis-ci.org/lambda-fairy/maud.svg?branch=master">](https://travis-ci.org/lambda-fairy/maud)
   * [Stebalien/horrorshow-rs](https://raw.githubusercontent.com/Stebalien/horrorshow-rs) —编译时HTML模板 [<img src="https://api.travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master">](https://travis-ci.org/Stebalien/horrorshow-rs)
@@ -1167,7 +1167,7 @@
   * [cargonauts](https://github.com/cargonauts-rs/cargonauts) —用于构建可维护的，结构合理的Web应用程序的Web框架.
   * [pyros2097/rust-embed](https://github.com/pyros2097/rust-embed) —将静态资产嵌入rust二进制文件的宏
   * [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) [[select](https://crates.io/crates/select)] —一个库，可从HTML文档中提取有用的数据，适用于Web抓取. [![Build Status](https://api.travis-ci.org/utkarshkukreti/select.rs.svg?branch=master)](https://travis-ci.org/utkarshkukreti/select.rs)
-  * [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) [[soup](https://crates.io/crates/soup)] —与Python的BeautifulSoup类似的库，旨在快速，轻松地操纵和查询HTML文档. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
+  * [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) [[soup](https://crates.io/crates/soup)] —与Python的BeautifulSoup相似的库，旨在快速，轻松地操作和查询HTML文档. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
   * [softprops/openapi](https://github.com/softprops/openapi) —用于处理openapi规范文件的库
   * [teloxide/teloxide](https://github.com/teloxide/teloxide/) -用于Rust的优雅的Telegram机器人程序框架 [![Build Status](https://github.com/teloxide/teloxide/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/teloxide/teloxide/actions)
 *反向代理
@@ -1180,7 +1180,7 @@
 
 ## Registries
 
-注册表允许您将Rust库发布为板条箱包，以与其他人私下共享.
+通过注册表，您可以将Rust库发布为板条箱程序包，以与其他人私下共享.
 
 * [Crates](https://crates.io) — Rust / Cargo的官方公共注册表.
 * [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.io/l/cargo-registry/)  —全面管理的包裹管理SaaS，具有对公共和私人货运/铁锈登记处（以及许多其他服务）的一流支持.  具有慷慨的免费层，并且对于开源也完全免费.
@@ -1195,9 +1195,9 @@
   * [Rust: Hack Without Fear!](https://www.youtube.com/watch?v=lO1z-7cuRYI) —提出者 [Nicholas Matsakis](https://github.com/nikomatsakis) @ C ++现在2018
 *学习
   * [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) —编程社区投票推荐的推荐资源列表.
-  * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) —乐于助人的Rust导师清单，他们愿意接受受训者并对他们进行Rust和编程方面的教育.
+  * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) -乐于助人的Rust导师清单，他们愿意接受受训者并对他们进行Rust和编程方面的教育.
   * [exercism.io](https://exercism.io/tracks/rust) —编程练习，可帮助您学习Rust中的新概念.
-  * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) —教了惯用的Rust的经过同行评审的文章/演讲/回购集合.
+  * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) —教了惯用的Rust的经过同行评审的文章/演讲/回购合集.
   * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) —通过实现几种不同类型的列表结构，深入探索Rust的内存管理规则.
   * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
   * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) —一组简单的示例，展示了使用Rust生态系统的板条箱完成常见编程任务的良好实践.

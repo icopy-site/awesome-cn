@@ -51,7 +51,7 @@
 
 *使用Godot制作的非游戏项目（工具/实用程序）.*
 
-- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) -2D像素艺术编辑器（Godot 3.1）.
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) -2D像素艺术编辑器（Godot 3.2）.
 - [Material Maker](https://github.com/RodZill4/material-maker) -按照程序创建PBR材料（类似于Substance Designer）（Godot 3.1）.
 
 ## Templates

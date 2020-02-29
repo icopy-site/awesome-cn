@@ -182,7 +182,6 @@
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) 西班牙语和葡萄牙语的自由职业委员会
   1. [Working Nomads](http://www.workingnomads.co/jobs)
-  1. [Zdalnie.io](https://zdalnie.io) 波兰和欧洲的远程工作
 
 ## Job boards aggregators
   1. [Findwork](https://findwork.dev/) 通过Glassdoor（审阅）和Crunchbase（资金）来搜寻多个工作委员会并丰富工作职位.
@@ -214,7 +213,7 @@
   1. [nomadicHUB](http://nomadichub.com) -在异国情调的休闲和办公空间
   1. [Ondas](http://www.ondasmedellin.com) -哥伦比亚麦德林的联合办公空间
   1. [Roam](https://www.roam.co/) -大肠杆菌空间的全球网络
-  1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
+  1. [Sende](http://sende.co) -西班牙北部的集体办公空间
   1. [Sun Desk](http://sun-desk.com) -摩洛哥Taghazout的集体办公空间
   1. [Talent Garden](https://talentgarden.org/coworking/) -联合办公空间主要在意大利，但在其他一些国家也可以使用
   1. [The Surf Office](https://www.thesurfoffice.com/home/) -葡萄牙，加那利和加利福尼亚的联合办公和度假空间
@@ -250,7 +249,7 @@
   1. [Remote Jobs Club](https://remotejobsclub.com) -每周通讯，其中包括精选的远程工作清单
 
 ## Podcasts
-  1. [Building Remote Teams](https://www.buildingremoteteams.com/) -针对已经在远程工作的人员，并关注远程工作中细微的挑战.
+  1. [Building Remote Teams](https://www.buildingremoteteams.com/) -针对已经在远程工作的人员，并专注于远程工作的细微挑战.
   1. [Distributed](https://distributed.blog/podcast/)  -马特·穆伦维格（Matt Mullenweg）的访谈播客.  专注于分布式工作的好处和挑战以及在全球范围内招募人员.
   1. [Free People Move Podcast](https://teleport.org/podcast/) -多数采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
@@ -333,7 +332,7 @@
   1. [Gitbook](http://jobs.gitbook.com/)  -基于git发布工具链.  Javascript，node.js，Go.
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) -GitHub的竞争对手.
-  1. [Gitee](https://gitee.com) - Github alternative in China.
+  1. [Gitee](https://gitee.com) -在中国使用Github替代方案.
   1. [GlueNetworks](http://gluenetworks.com/) -网络自动化公司.
   1. [Gradle](https://gradle.com/careers)  -开源构建工具；  企业SaaS和内部部署.  完全偏僻.  Java，Groovy和Kotlin.
   1. [GrooveHQ](https://www.groovehq.com/about) -服务台软件.
@@ -373,6 +372,7 @@
   1. [Lullabot](https://www.lullabot.com/jobs) -使用Drupal进行战略，设计和开发.
   1. [madewithlove](https://madewithlove.be/jobs) -我们帮助公司开发数字产品，并为似乎陷入困境的团队带来新的活力.
   1. [Maintainer Mountaineer](https://maintainer.io) -开源社区管理即服务.
+  1. [MailerLite](https://www.mailerlite.com/)  -具有遍布全球的远程第一团队的电子邮件营销工具.  他们每年两次去巴厘岛，巴拿马和迈阿密等地工作.
   1. [MariaDB](https://mariadb.com/about-us/careers) -开源数据库.
   1. [MarsBased](https://marsbased.com) -MarsBased是巴塞罗那的一家开发咨询公司，提供基于Ruby on Rails，Angular和其他Javascript框架的端到端Web和移动应用程序.
   1. [Mapbox](https://www.mapbox.com/jobs/) -适用于各种平台的地图集成工具.
@@ -407,6 +407,7 @@
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -在线营养辅导和认证.
   1. [PreviousNext](https://www.previousnext.com.au) -澳大利亚的Drupal代理商.
   1. [Prezly](https://www.prezly.com/)  -SaaS PR平台.  PHP，React，JS，Postgres.  100％远程.
+  1. [Prodperfect](https://prodperfect.com/)  -根据实时用户数据进行自动质量检查.  在波士顿和旧金山拥有工作场所的远程第一组织.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) -按需质量检查即服务.
   1. [Real HQ](https://realhq.com)  -Agent Pronto的制造商，该软件旨在帮助使购房者获得更好的体验.  从一开始我们就很遥远，现在遍布全球50多个.  Ruby，Rails，React.js，iOS / Android.
   1. [RebelMouse](https://blog.rebelmouse.com/careers/)  -社交发布平台.  Python，JS和iOS / Android开发人员.  世界各地的团队.
@@ -451,6 +452,7 @@
   1. [Transloadit](https://transloadit.com/jobs/) -自2009年以来，开发人员为开发人员提供的全球功能最齐全的文件上传和编码服务
   1. [Trello](https://trello.com/jobs)
   1. [Twin Technologies](http://twintechs.com/about-twin/careers)
+  1. [Tyk](https://tyk.io/current-vacancies/)  -API网关和API管理.  使用Go开放源代码构建.
   1. [Vidalingua](http://www.vidalingua.com/amaze.php) -使语言应用程序栩栩如生.
   1. [WAAT](https://waat.eu/job/) -适应项目需求的跨职能数字代理.
   1. [Walltime](https://walltime.info) -使用区块链技术的巴西数字资产交换以及其他产品和服务.
@@ -502,7 +504,7 @@
   1. [Flowdock](https://www.flowdock.com/)  –基于浏览器的团队聊天.  与GitHub，Jira，Jenkins等集成
   1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) –聊天系统，共享桌面和视频通话.
   1. [IRCCloud](https://www.irccloud.com) –具有永久存储的基于浏览器的IRC客户端.
-  1. [Jitsi](https://jitsi.org) -多平台开源视频会议
+  1. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix是分布式团队的在线开源工作场所.
   1. [Mumble](https://wiki.mumble.info/) Mumble是一款开源语音聊天软件
   1. [Precursor](https://precursorapp.com) -通过实时协作进行简单的原型设计和集思广益的网络应用程序.
@@ -514,7 +516,7 @@
   1. [Talky](https://talky.io/) -群组的真正简单的视频聊天和屏幕共享
   1. [TeamHub](https://teamhub.app/) -直接在IDE内部实时报告状态和进度
   1. [Whereby](https://whereby.com) –基于浏览器的无插件群组视频通话.
-  1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
+  1. [Zoom](https://zoom.us) —高质量的团体视频和共享屏幕，在linux上运行，记录会话并支持电话.
 
 #### Project Management
   1. [Asana](https://asana.com/) -对分布式团队有利的项目管理.
@@ -531,7 +533,7 @@
 #### Others
   1. [Coffitivity](https://coffitivity.com/) -Coffitivity可再现咖啡馆的环境声音，以增强您的创造力并帮助您更好地工作.
   1. [Fiverr](https://www.fiverr.com/) -Fiverr是面向精益企业家的全球最大的自由职业服务市场，您可以在这里雇用远程工人为您做一些小工作.
-  1. [Funretro](https://funretro.github.io/distributed) -Funretro是分布式团队的回顾性在线董事会.
+  1. [Funretro](https://funretro.github.io/distributed) - Funretro is a retrospective online board for distributed teams.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) -听听Wikipedia的最新更改提要.
   1. [Noisli](https://www.noisli.com/) -Noisli提供了一系列不同的环境声音，可以组合使用这些声音来增强创造力和注意力.
   1. [musicforprogramming.net](https://musicforprogramming.net/) -`返回&#39;一系列旨在听的混音，而&#39;+ task +&#39;有助于集中注意力并提高生产力（也与其他活动兼容）.

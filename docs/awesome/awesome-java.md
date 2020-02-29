@@ -59,7 +59,7 @@ _与CLI相关的所有库.
 - [ASCII Table](https://github.com/vdmeer/asciitable) -以ASCII格式绘制表格的库.
 - [Airline](https://github.com/airlift/airline) -基于注释的框架，用于解析类似Git的命令行参数.
 - [args4j](http://args4j.kohsuke.org) -小型库，用于解析命令行参数.
-- [Jansi](https://github.com/fusesource/jansi) -ANSI转义码，用于格式化控制台输出.
+- [Jansi](https://github.com/fusesource/jansi) - ANSI escape codes to format console output.
 - [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) -控制台的图形基元.
 - [JCommander](http://jcommander.org) -具有自定义类型和通过实现接口进行验证的命令行参数解析框架.
 - [jbock](https://github.com/h908714124/jbock) -类型安全，无反射，基于注释的命令行解析器.
@@ -194,6 +194,7 @@ _简化与数据库交互的所有内容._
 - [MariaDB4j](https://github.com/vorburger/MariaDB4j) -适用于MariaDB的启动器，无需安装或外部依赖项.
 - [Modality](https://github.com/arkanovicz/modality) -具有数据库反向工程功能的轻量级ORM.
 - [Presto](https://prestosql.io) -用于大数据的分布式SQL查询引擎.
+- [QueryStream](https://github.com/querystream/querystream) -使用类似Stream的API构建JPA Criteria查询.
 - [Querydsl](http://www.querydsl.com) -Typesafe统一查询.
 - [Realm](https://github.com/realm/realm-java) -移动数据库可直接在手机，平板电脑或可穿戴设备中运行.
 - [Redisson](https://github.com/redisson/redisson) -允许在Redis服务器之上提供分布式和可伸缩的数据结构.
@@ -313,7 +314,7 @@ _正式方法工具：证明助手，模型检查，符号执行等_
 
 _促进函数式编程的库.
 
-- [Cyclops](https://github.com/aol/cyclops) -Monad和流实用程序，理解力，模式匹配，所有JDK集合的功能扩展，将来的流，蹦床等.
+- [Cyclops](https://github.com/aol/cyclops) -Monad和流实用程序，理解力，模式匹配，所有JDK集合的功能扩展，未来的流，蹦床等.
 - [derive4j](https://github.com/derive4j/derive4j)  -Java 8注释处理器和框架，用于导出代数数据类型的构造函数，模式匹配和态射.  （仅限GPL-3.0）
 - [Fugue](https://bitbucket.org/atlassian/fugue) -番石榴的功能扩展.
 - [Functional Java](http://www.functionaljava.org) -实现许多基本和高级编程抽象，以协助面向合成的开发.
@@ -639,6 +640,7 @@ _处理对象持久性的API.
 - [EclipseLink](https://www.eclipse.org/eclipselink/) -支持多种持久性标准：JPA，JAXB，JCA和SDO.
 - [Hibernate](http://hibernate.org/orm/)  -健壮且广泛使用，拥有活跃的社区.  （仅限LGPL-2.1）
 - [MyBatis](https://github.com/mybatis/mybatis-3) -将对象与存储过程或SQL语句耦合.
+- [Permazen](https://github.com/permazen/permazen) -语言自然的持久层.
 - [SimpleFlatMapper](https://github.com/arnaudroger/SimpleFlatMapper) -简单的数据库和CSV映射器.
 
 ### PaaS
@@ -656,7 +658,7 @@ _Java平台即服务._
 
 _帮助创建PDF文件的工具._
 
-- [Apache FOP](https://xmlgraphics.apache.org/fop/) - Creates PDFs from XSL-FO.
+- [Apache FOP](https://xmlgraphics.apache.org/fop/) -从XSL-FO创建PDF.
 - [Apache PDFBox](https://pdfbox.apache.org) -用于创建和处理PDF的工具箱.
 - [Dynamic Jasper](http://dynamicjasper.com)  -JasperReports的抽象层.  （仅限LGPL-3.0）
 - [DynamicReports](https://github.com/dynamicreports/dynamicreports)  -简化JasperReports.  （仅限LGPL-3.0）
@@ -779,7 +781,7 @@ _专门用于创建RESTful服务的框架.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -JBoss Netty HTTP堆栈上的精简包装，可提供扩展和性能.
 - [Restlet Framework](https://github.com/restlet/restlet-framework-java) -具有强大的路由和过滤功能以及统一的客户端和服务器API的开拓性框架.
 - [Spark](http://sparkjava.com) -Sinatra启发框架.
-- [Crnk](http://www.crnk.io) -实施JSON API规范，以建立具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
+- [Crnk](http://www.crnk.io) -实施JSON API规范，以构建具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
 - [springdoc-openapi](https://github.com/springdoc/springdoc-openapi) -使用Spring Boot项目自动生成API文档.
 - [Swagger](https://swagger.io) -REST API的标准，与语言无关的接口.
 
@@ -827,7 +829,7 @@ _处理安全性，身份验证，授权或会话管理的库.
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) -用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)  多平台高级密码库提供了易于使用的加密来保护敏感数据：具有前向保密性的安全消息传递，安全数据存储（AES256GCM）；  适用于构建端到端的加密应用程序.
 - [Tink](https://github.com/google/tink) -为常见的加密任务提供了一个简单且防误用的API.
-- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
+- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的密钥/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
 
 ### Serialization
 
@@ -1071,7 +1073,7 @@ _编程时要看或听的东西._
 - [Josh Long](https://twitter.com/starbuxman) -Pivotal的Spring Advocate，是O&#39;Reilly的Cloud Native Java和使用Spring Boot构建微服务JavaOne Rock Star的作者.
 - [Lukas Eder](https://twitter.com/lukaseder) -Java冠军，演讲者，JUG.ch联合负责人，Data Geekery（jOOQ）的创始人兼首席执行官.
 - [Mario Fusco](https://twitter.com/mariofusco) -RedHatter，JUG协调员，常任发言人和作家.
-- [Mark Heckler](https://twitter.com/MkHeck) -Pivotal首席技术专家兼开发倡导者，会议发言人，已发表的作者和Java Champion，主要关注物联网和云.
+- [Mark Heckler](https://twitter.com/MkHeck) -Pivotal首席技术专家兼开发倡导者，会议发言人，已发表的作者，以及Java Champion，专注于物联网和云.
 - [Mark Reinhold](https://twitter.com/mreinhold) -Oracle Java平台组首席架构师.
 - [Markus Eisele](https://twitter.com/myfear) -Java EE传播者，Red Hat.
 - [Martijn Verburg](https://twitter.com/karianna) -伦敦JUG联合领导人，发言人，作家，Java冠军等等.

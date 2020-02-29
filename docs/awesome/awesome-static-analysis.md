@@ -74,7 +74,7 @@
 ## Ada
 
 * [Codepeer](http://www.adacore.com/codepeer) -检测运行时和逻辑错误
-* [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) ：copyright：-提供代码验证，以证明源代码中没有溢出，被零除，越界数组访问以及某些其他运行时错误.
+* [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) ：copyright：-提供代码验证，以证明源代码中不存在溢出，零除，越界数组访问以及某些其他运行时错误.
 * [SPARK](http://www.spark-2014.org/about) ：copyright：-Ada的静态分析和形式验证工具集
 * [Understand](https://scitools.com/ada-programming-essential/) ：copyright：-IDE为Ada和VHDL提供代码分析，标准测试，指标，图形，依赖性分析等.
 
@@ -129,7 +129,7 @@
 * [Roslyn Security Guard](https://dotnet-security-guard.github.io/) -该项目侧重于识别潜在漏洞，例如SQL注入，跨站点脚本（XSS），CSRF，加密漏洞，硬编码密码等.
 * [Roslynator](https://github.com/JosefPihrt/Roslynator/) - A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
-* [SonarLint for Visual Studio](https://vs.sonarlint.org/) -SonarLint是Visual Studio 2015和2017的扩展，可为开发人员提供实时反馈，以反馈有关.NET代码中注入的新错误和质量问题.
+* [SonarLint for Visual Studio](https://vs.sonarlint.org/) -SonarLint是Visual Studio 2015和2017的扩展，可为开发人员提供即时反馈，以反馈有关.NET代码中注入的新错误和质量问题.
 * [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) -基于Roslyn并与VS集成的静态分析器集合.
 * [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) -.NET编译器平台（“ Roslyn”）诊断分析器和代码修复.
 
@@ -258,7 +258,7 @@
 
 ## JavaScript
 
-* [aether](https://github.com/codecombat/aether) -在节点或浏览器中对用户JavaScript进行Lint，分析，规范化，转换，沙盒运行，逐步浏览和可视化.
+* [aether](https://github.com/codecombat/aether) -在节点或浏览器中衬入，分析，规范化，转换，沙盒，运行，逐步浏览和可视化用户JavaScript.
 * [Closure Compiler](https://github.com/google/closure-compiler) -一种编译器工具，可提高效率，减小大小并在JavaScript文件中提供代码警告.
 * [ClosureLinter](https://github.com/google/closure-linter)  ：warning：-确保您所有项目的JavaScript代码均遵循Google JavaScript样式指南中的指南.  它还可以自动修复许多常见错误
 * [coffeelint](https://github.com/clutchski/coffeelint) -样式检查器，可帮助确保CoffeeScript代码保持干净和一致.
@@ -288,7 +288,7 @@
 
 ## Lua
 
-* [luacheck](https://github.com/mpeterv/luacheck) -用于Lua代码的整理和静态分析的工具.
+* [luacheck](https://github.com/mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
 
 ## MATLAB
 
@@ -329,7 +329,7 @@
 * [phpdcd](https://github.com/sebastianbergmann/phpdcd) -PHP代码的死代码检测器（DCD）.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) -为项目建立依赖图
 * [phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) -使用PHPDoc批注添加标量类型提示并向现有的PHP项目返回类型
-* [phpDocumentor](https://www.phpdoc.org/) - Analyzes PHP source code to generate documentation
+* [phpDocumentor](https://www.phpdoc.org/) -分析PHP源代码以生成文档
 * [PHPMD](https://phpmd.org/) -在代码中找到可能的错误
 * [PhpMetrics](http://www.phpmetrics.org/) -计算和可视化各种代码质量指标
 * [phpmnd](https://github.com/povils/phpmnd) -有助于检测魔术数字
@@ -538,7 +538,7 @@
 
 * [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
 * [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
-* [Jakstab](https://github.com/jkinder/jakstab) -Jakstab是一个基于抽象解释的集成反汇编和静态分析框架，用于设计可执行文件的分析并恢复可靠的控制流程图.
+* [Jakstab](https://github.com/jkinder/jakstab) -Jakstab是基于抽象解释的集成反汇编和静态分析框架，用于设计可执行文件的分析并恢复可靠的控制流程图.
 * [Twiggy](https://github.com/rustwasm/twiggy)  -分析二进制文件的调用图以分析代码大小.  目标是减少二进制文件.
 
 
@@ -581,7 +581,7 @@
 * [Parker](https://github.com/katiefenn/parker) -样式表分析工具
 * [Project Wallace CSS Analyzer](https://github.com/projectwallace/css-analyzer) -CSS的分析工具，属于 [Project Wallace](https://www.projectwallace.com)
 * [sass-lint](https://github.com/sasstools/sass-lint) -适用于sass和scss语法的仅节点Sass linter.
-* [scsslint](https://github.com/brigade/scss-lint) - Linter for SCSS files
+* [scsslint](https://github.com/brigade/scss-lint) -Sinter文件的Linter
 * [Specificity Graph](https://github.com/pocketjoso/specificity-graph) -CSS特异性图生成器
 * [Stylelint](http://stylelint.io/) -用于SCSS / CSS文件的Linter
 
@@ -619,13 +619,14 @@
 
 * [markdownlint](https://github.com/DavidAnson/markdownlint) -用于Markdown / CommonMark文件的基于Node.js的样式检查器和lint工具.
 * [mdl](https://github.com/mivok/markdownlint) -检查Markdown文件和标志样式问题的工具.
+* [remark-lint](https://github.com/remarkjs/remark-lint) -用JavaScript编写的可插入Markdown代码样式的linter.
 
 ## Mobile
 
 * [Android Lint](http://tools.android.com/tips/lint) -在Android项目上运行静态分析.
 * [android-lint-summary](https://github.com/passy/android-lint-summary) -将多个项目的棉绒错误合并为一个输出，立即检查多个子项目的棉绒结果.
 * [FlowDroid](https://github.com/secure-software-engineering/soot-infoflow-android) -适用于Android应用程序的静态污点分析工具
-* [paprika](https://github.com/GeoffreyHecht/paprika) -一个工具包，用于检测已分析的Android应用程序中的某些代码气味.
+* [paprika](https://github.com/GeoffreyHecht/paprika) -一个工具包，用于检测已分析的Android应用程序中的某些代码异味.
 * [qark](https://github.com/linkedin/qark) -查找多个与安全性相关的Android应用程序漏洞的工具
 
 ## Packages
@@ -675,7 +676,7 @@
 * [Embold](https://embold.io) :copyright: - Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
 * [kiuwan](https://www.kiuwan.com/) ：copyright：-云中的软件分析支持超过22种编程语言.
 * [Landscape](https://landscape.io/) ：copyright：-Python的静态代码分析
-* [Layered Insight](https://layeredinsight.com/) ：copyright：-容器本机应用程序保护，以提供对容器化应用程序的可见性和控制.
+* [Layered Insight](https://layeredinsight.com/) ：copyright：-容器本地应用程序保护，以提供对容器化应用程序的可见性和控制.
 * [LGTM.com](https://lgtm.com/)  ：copyright：-针对GitHub和Bitbucket的深入代码分析，以发现安全漏洞和关键代码质量问题（使用Semmle QL）.  自动查看拉取请求的代码；  免费用于公共存储库.
 * [Nitpick CI](https://nitpick-ci.com) ：copyright：-自动化PHP代码审查
 * [PullRequest](https://www.pullrequest.com) ：copyright：-具有内置静态分析功能的代码审查服务
@@ -694,7 +695,7 @@
 * [go-tools](https://github.com/dominikh/go-tools) -使用Go代码的工具和库的集合，包括短绒和静态分析
 * [linters](https://github.com/mcandre/linters) -静态代码分析简介
 * [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) -有用的PHP静态分析工具的完整列表
-* [Tools for Tcl](https://wiki.tcl-lang.org/page/Static+syntax+analysis#95329c336da897c3dea8ab434ca30575f4529bf6f514c1519881bd126e1d1423) -具有多个Tcl检查器和静态语法分析工具的Wiki页面.
+* [Tools for Tcl](https://wiki.tcl-lang.org/page/Static+syntax+analysis#95329c336da897c3dea8ab434ca30575f4529bf6f514c1519881bd126e1d1423) - A wiki-page with several Tcl checker and static syntax analysis tools.
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) -用于静态代码分析的工具列表.
 
 ## License

@@ -19,7 +19,7 @@
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme)  -多个徽章.  清理屏幕截图.  简单的安装说明.  TOC便于导航.  良好的贡献者准则.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme)  -项目横幅.  徽章.  轻松导航.
 - [choojs/choo](https://github.com/choojs/choo#readme)  -徽章，干净清晰.  折页上方漂亮的小菜单，包含有用的链接.  里面的常见问题解答.  支持者.  好语言
-- [Day8/re-frame](https://github.com/Day8/re-frame#readme) -徽章，徽标，TOC等.它是一篇关于技术，如何使用它，其背后的哲学以及如何适应更大的生态系统的宏伟且写得很好的文章.
+- [Day8/re-frame](https://github.com/Day8/re-frame#readme) -徽章，徽标，TOC等.它是一篇关于技术，如何使用它，其背后的哲学以及如何适应更大的生态系统的，写得很好的大型论文.
 - [iterative/dvc](https://github.com/iterative/dvc#readme)  -ReStructuredText格式示例，与PyPi兼容.  徽标，类似自定义网站的菜单.  流畅的动画制作方式.  徽章.  名人堂不错的贡献部分.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme)  -目录便于导航.  简洁的项目描述.  安装和使用部分.  输出示例.  很棒的功能概述.  替代品列表.  常问问题.
 - [gitpoint/git-point](https://github.com/gitpoint/git-point#readme)  -清晰的说明.  项目徽标.  App Store徽标.  目录.  清理屏幕截图.  功能列表.  详细的安装过程.  登陆页面.
@@ -43,12 +43,13 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme)  -项目徽标.  明确说明项目的用途.  制作徽章.  演示截图.  简单的安装和使用部分.  包括一个具有常用用法的示例部分.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme)  -清理动画截图.  定制的号召性用语徽章.  用法展示.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme)  -使用字符清洁徽标.  开发的简要更新.  详细的贡献准则.  贡献建议.
+- [sulu/sulu](https://github.com/sulu/sulu#readme) -项目徽标，有用的徽章，关于在哪里可以找到更多信息和报告错误的清晰说明，GIF屏幕截图，很好地使用表情符号.
 - [supunlakmal/thismypc](https://github.com/supunlakmal/thismypc#readme)  -项目徽标.  有用的徽章.  网址.  屏幕截图.  GIF安装的分步说明.  项目文件夹结构.
 - [teles/array-mixer](https://github.com/teles/array-mixer#readme)  -清洁项目徽标，徽章.  目录.  贡献部分.  许多图解的例子.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme)  -项目徽标.  有用的徽章和链接（网站，文档，演示）.  屏幕截图.  功能列表.  有关安装，开发和测试的分步说明.  链接到贡献指南.  好的手机摘要.
 - [vhesener/Closures](https://github.com/vhesener/Closures#readme)  -项目徽标，认知漏斗，动画示例.  颜色协调.  清理文档.
 - [release-it/release-it](https://github.com/release-it/release-it#readme)  -使用演示GIF清晰地概述了项目功能.  徽章.  可扩展目录.  用法说明和示例.  贡献准则.  详细发布.
-- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme) - Clear readme with GIF screenshot for quick demo. Multiple badges, concise ToC, online playground, storybook, detailed description and more.
+- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme)  -使用GIF屏幕截图清除自述文件，以进行快速演示.  多个徽章，简洁的目录，在线游乐场，故事书，详细说明等.
 
 
 
@@ -99,4 +100,4 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Matias Singers](https://mts.io) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.

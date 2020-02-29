@@ -39,18 +39,21 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/archi
 - 4 - [A4I Agile for Innovation](https://www.agileforinnovation.com/) -米兰-敏捷概念如何在IT等领域发展.
 - 5-6 - [Incontro DevOps](https://2020.incontrodevops.it/) -博洛尼亚-为期2天的DevOps会议.
 - 6-8 - [Agile People Camp](https://agilemovement.it/agilepeoplecamp/) -蒙特格罗托温泉（PD）-敏捷的人文一面.
-- 13 - [CSSDay](https://2020.cssday.it/) -Faenza（RA）-前端开发人员和设计师专用会议.
+- 13 - [Pi Day HackParty](https://picampus.it/pi-day-2020/) -罗马-参加马拉松比赛.
+- 13 - [CSSDay 2020](https://2020.cssday.it/) -Faenza（RA）-前端开发人员和设计师专用会议.
 - 13-14 - [QtDay 2020](https://www.qtday.it/) -Firenze-关于Qt的独特的意大利会议.
 - 19 - [CloudConf 2020](https://2020.cloudconf.it/) -都灵-欧洲有关云的最重要会议.
 - 25-26 - [European Immersive Computing Summit 2020](https://eicsummit.com/) -米兰-欧洲新兴技术峰会.
 - 27-28 - [Codemotion](https://events.codemotion.com/conferences/rome/2020/) -罗马-意大利最大的技术会议.
 - 28 - [Agile People Day](https://www.agilepeopleday.com/) -博洛尼亚-过程和工具上的个人和互动.
+- 31 - [neo4j GraphTour](https://neo4j.com/graphtour/rome/) -罗姆人（Roma）-有关图形技术的全天课程.
 
 ## April
 - 2 - [Ruby Day](https://2020.rubyday.it/) -维罗纳-Ruby专用会议.
 - 2 - [BeConnected Day 2020](https://www.eventbrite.it/e/registrazione-beconnected-day-2020-92290708995) -米兰-智能通讯和现代化工作场所.
 - 2-5 - [PyCon XI](https://www.pycon.it/) -Firenze-Python的全国性会议.
 - 3 - [VueDay](https://2020.vueday.it/) -维罗纳-Vue专用会议.
+- 6 - [Code Beam Lite](https://codesync.global/conferences/code-beam-lite-italy-2020/) -博洛尼亚-关于Erlang生态系统的会议.
 - 16-17 - [DroidCon](https://it.droidcon.com/2020/it) -Torino-意大利最大的Android活动.
 - 18-19 - [DevFest](https://devfest.gdgpisa.it/) -比萨-有关Google相关技术的会议.
 - 24 - [Global Azure Milan 2020](https://join.globalazure.net/events/48) -米兰-Azure和云计算.
@@ -61,14 +64,17 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/archi
 - 14-15 - [PHP Day](https://2020.phpday.it/) -Verona-PHP专用会议.
 - 16 - [Voxxed Days](https://voxxeddays.com/milan/) -Milano-开发者大会（主要与Java相关）.
 - 23 - [Agile Venture Vimercate](https://agilemovement.it/2019/11/01/agile-venture-vimercate-2020/) -Vimercate-敏捷的测试方法.
+- 27-30 - [eRum 2020](https://2020.erum.io/) -米兰-每两年召开一次欧洲R用户会议.
 
 ## June
 - 5 - [Serverless Days](https://milan.serverlessdays.io/) -Milano-有关无服务器技术的面向开发人员的会议.
+- 6 - [Coderful](https://www.coderful.io/) -卡塔尼亚-前端会议.
 - 11-12 - [Angular Day](https://2020.angularday.it/) -维罗纳-Angular的全国会议.
 - 11-12 - [PGDay.IT](https://2020.pgday.it) -贝加莫-PostgreSQL意大利语会议.
 - 13 - [Italian C++ Conference](https://www.italiancpp.org/event/itcppcon20/) -罗马-意大利C ++会议.
 
 ## July
+- 29-2 - [IHC 2020](https://www.ihc.camp/2020/) -Padova-两年一度的意大利黑客营.
 
 ## August
 
@@ -78,6 +84,8 @@ Editions: [2019](https://github.com/ildoc/awesome-italy-events/blob/master/archi
 
 ## October
 - 16 - [ReactJSDay](http://reactjsday.it/) -维罗纳-React的全国会议.
+- 16-17 - [RustLab 2020](https://www.rustlab.it/) -Firenze-关于Rust的独特的意大利会议.
+- 18-20 - [GoLab](https://golab.io/) -Firenze-第一次Go上的意大利会议.
 - 22-23 - [ContainerDay](https://www.containerday.it/) -Bologna-致力于虚拟化最佳实践的意大利会议.
 
 ## November

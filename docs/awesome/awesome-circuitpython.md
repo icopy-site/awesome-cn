@@ -20,7 +20,7 @@
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) -CircuitPython和社区的概述.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) -学习CircuitPython的基本功能.
-- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - Adafruit Learning Guides on CircuitPython.
+- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) -关于CircuitPython的Adafruit学习指南.
 - [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) -关于CircuitPython和MicroPython的指南.
 
 ## Community
@@ -64,25 +64,48 @@
 
 ## Hardware
 
-可以在以下位置查看所有支持的板 [circuitpython.org](https://circuitpython.org/downloads) to include descriptions, pictures, and compatible CircuitPython builds. A summary of current boards on circuitpython.org:
+可以在以下位置查看所有支持的板 [circuitpython.org](https://circuitpython.org/downloads)  包括描述，图片和兼容的CircuitPython构建.  circuitpython.org上当前板的摘要：
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) -Adafruit Circuit Playground Express，Adafruit Feather M0 Basic，Adafruit Feather M0 Express，Adafruit Feather M0 Adalogger，Adafruit Feather M0 RFM9x，Adafruit Feather M0 RFM69，Adafruit Feather M4 Express，Adafruit Feather nRF52832，Adafruit Feather nRF52840 Express，Adafruit Gemma大中央M4 Express，Adafruit HalloWing M0 Express，Adafruit ItsyBitsy M0 Express，Adafruit ItsyBitsy M4 Express，Adafruit Metro M0 Express，Adafruit Metro M4 Express，Adafruit NeoTrellis M4，Adafruit小饰品M0，Adafruit PyPortal，Adafruit pIRkey，Adafruit Feather Huzzah ，Adafruit PyBadge LC，Adafruit PyGamer，Adafruit Metro M4 AirLift Lite，Adafruit Gemma M0 PyCon 2018，Adafruit Circuit Playground Express Digi-Key，Adafruit Circuit Playground Express 4-H，Adafruit Circuit Playground Express + Crickit，Adafruit Feather M0 Express + Crickit.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython)  -Adafruit Circuit Playground Express，Adafruit Feather M0 Basic，Adafruit Feather M0 Express，Adafruit Feather M0 Adalogger，Adafruit Feather M0 RFM9x，Adafruit Feather M0 RFM69，Adafruit Feather M4 Express，Adafruit Feather nRF52832，Adafruit Feather nRF52840 Express，Adafruit Feda nda528 CLUE，Adafruit Gemma M0，Adafruit Grand Central M4 Express，Adafruit HalloWing M0 Express，Adafruit HalloWing M4 Expres，Adafruit itsyBitsy M0 Express，Adafruit ItsyBitsy M4 Express，Adafruit Metro M0 Express，Adafruit Metro M4 Express，Adafruit NeoTrellis M4，Adafruit Trink Adafruit PyPortal，Adafruit PyPortal Titano，Adafruit PyPortal Pynt，Adafruit PIRkey，Adafruit Feather Huzzah，Adafruit PyBadge，Adafruit PyBadge AirLift，Adafruit PyBadge LC，Adafruit PyGamer，Adafruit PyGamer Advance，Adafruit PyGamea M4，Adafruit PyGamea Advance，Adafruit PyGamea M4 Playground Express Digi-Key，Adafruit Circuit Playground Express 4-H，Adafruit Circuit Playground Express + Cricki  t，Adafruit Circuit Playground Express Bluefruit，Adafruit Feather M0 Express + Crickit，Adafruit PyRuler，Adafruit EdgeBadge，Adafruit M7 1011.
 - [Arduino](https://www.arduino.cc/) -Arduino MKR WAN 1300，Arduino MKR零，Arduino零，Arduino Nano 33 BLE，Arduino Nano 33 IoT.
-- [Electronic Cats](https://electroniccats.com/) -CatWAN USB记忆棒，喵喵.
+- [Electronic Cats](https://electroniccats.com/) -CatWAN USB记忆棒，喵喵声， [Escornabot Match](https://github.com/ElectronicCats/Escornabot-Makech).
 - [MakerDiary](https://store.makerdiary.com/collections/frontpage) -nRF52840微型开发套件，nRF52840微型开发套件USB加密狗.
 - [Nordic Semiconductor](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840) -nRF52840 DK板 [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html)，nRF52840加密狗 [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
+- [NXP](https://www.nxp.com/) - [MIMXRT1010 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK), [MIMXRT1060 Eval Kit](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1060-evaluation-kit:MIMXRT1060-EVK)
 - [Particle](https://www.particle.io/) -粒子氩，粒子硼，粒子氙.
 - [Benjamin Shockley](https://www.minisam.cc/product-category/development-board/) -迷你SAM M4.
-- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) -  PewPew，μGame.
-- [SparkFun](https://www.sparkfun.com/) -SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Mini，SparkFun SAMD21 Dev，SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Dev，SparkFun RedBoard Turbo，SparkFun LumiDrive， [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423).
+- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) -  PewPew，μGame， [PewPew M4](https://hackaday.io/project/165032-pewpew-m4).
+- [SparkFun](https://www.sparkfun.com/) -SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Mini，SparkFun SAMD21 Dev，SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Dev，SparkFun RedBoard Turbo，SparkFun LumiDrive， [Sparkfun Qwiic Micro](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro without Flash](https://www.sparkfun.com/products/15423), [SparkFun Qwiic Micro with Flash](https://www.sparkfun.com/products/15423), [SAMD51 Thing Plus](https://www.sparkfun.com/products/14713).
 - [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) -羽毛M0超大号，小饰品M0 Haxpress.
 - [Max Holliday](https://github.com/RoboticExplorationLab/sprite) -KickSat Sprite，SAM32.
-- [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) -微芯片
+- [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) -微芯片M0
 - [Capable Robot Components](http://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
+- [Robotics Masters](https://www.roboticsmasters.co/) - [Robo HAT MM1 M4](https://www.crowdsupply.com/robotics-masters/robo-hat-mm1)
+-机器人探索实验室- [PyCubed](https://circuitpython.org/board/pycubed/)
 - [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
  -教授  Fartsparkle- [Numberwang badge](https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/)
-- [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/)
+- [arturo182](https://twitter.com/arturo182) - [Serpente](https://www.tindie.com/products/arturo182/serpente-a-tiny-circuitpython-prototyping-board/)，羽毛MIMXRT1062， [Feather MIMXRT1011](https://circuitpython.org/board/feather_mimxrt1011/).
 - [Sony](https://developer.sony.com/) - [Spresense](https://developer.sony.com/develop/spresense/)
+- [PJRC](https://www.pjrc.com/) - [Teensy 4.0](https://www.adafruit.com/product/4323)
+- [Electronut Labs](https://docs.electronut.in/) - [Papyr](https://docs.electronut.in/papyr/#buy-papyr)
+-TZT-STM32F411CE黑色药丸
+- [J&J Studios](https://jandjstudios.io/) - [datum-IMU](https://jandjstudios.io/datum/datum-IMU/), [datum-Distance](https://jandjstudios.io/datum/datum-Distance/)
+-KittenbBot- [Meowbit](https://www.adafruit.com/product/4324)
+-OSHWA-2020年开放硬件峰会徽章
+-达米安·乔治- [PyBoard 1.1](https://www.adafruit.com/product/2390)
+- [Seeed Studios](https://www.seeedstudio.com/) - [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html)
+-奇特的物体- [The Open Book](https://github.com/joeycastillo/The-Open-Book)
+-ST- [STM32F412 Discovery Kit](https://www.st.com/en/evaluation-tools/32f412gdiscovery.html), [STM32F411 Discovery kit](https://www.st.com/en/evaluation-tools/32f411ediscovery.html), [STM32F407 Discovery Kit](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
+-Alethea花- [Winterbloom Sol](https://thea.codes/)
+-Cedar Grove Studios-StringCar M0 Express
+- keithp.com - [Snekboard](https://keithp.com/snek/snekboard)
+-精灵- [PYB Nano v2](https://www.elecrow.com/micropython-development-board-pyb-nano-compatible-with-python.html)
+-XinaBox- [XinaBox CS11](https://xinabox.cc/products/cs11?_pos=1&_sid=8a988d61c&_ss=r), [XinaBox CC03](https://xinabox.cc/products/cc03?_pos=1&_sid=ecd354e4d&_ss=r)
+-Teknikio- [Bluebird](https://www.teknikio.com/pages/bluebird)
+-Sarfata- [ShIRtty Board](https://github.com/sarfata/shirtty-addon)
+-斯科特·肖克罗夫特- [Python powered GameBoy-compatible cartridge](https://github.com/chickadee-tech/pygb)
+-noGarage-[Ndbit6]（）
+-Null Byte Labs LLC- [CircuitBrains Deluxe](https://kevinneubauer.com/portfolio/circuitbrains-deluxe/), [CircuitBrains Basic](https://kevinneubauer.com/portfolio/circuitbrains-basic/)
 
 将新板添加到CircuitPython列表上 [circuitpython.org](https://circuitpython.org)：请在GitHub上执行拉取请求 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython) .  CircuitPython开发人员可以帮助获取正确的引脚数据和其他信息，以映射新的电路板.
 
@@ -104,7 +127,7 @@
 - [PyDev of the Week: Scott Shawcroft](https://www.blog.pythonlibrary.org/2019/07/01/pydev-of-the-week-scott-shawcroft/)，2019年7月1日.
 - [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) -针对Python核心开发人员的CircuitPython讨论（PyCon 2019）.
 - [Five Things You Didn't Know Python Could Do](https://www.youtube.com/watch?v=HNrMjH9Yuv4) -YouTube视频，2019年6月19日.
-- [PyCon2019 Keynote - Light Up Your Life - With Python and LEDs](https://www.youtube.com/watch?v=35mXD40SvXM)  尼娜·扎哈兰科（Nina Zakharenko）的作品.  Python为使用可穿戴电子设备打开了一个全新的世界.  幻灯片是 [also available](https://speakerdeck.com/nnja/preso-c22944f3-ce78-4ced-8a34-f866656bf6c8).
+- [PyCon2019 Keynote - Light Up Your Life - With Python and LEDs](https://www.youtube.com/watch?v=35mXD40SvXM)  尼娜·扎哈兰科（Nina Zakharenko）  Python为使用可穿戴电子设备打开了一个全新的世界.  幻灯片是 [also available](https://speakerdeck.com/nnja/preso-c22944f3-ce78-4ced-8a34-f866656bf6c8).
 - [Learn Hardware Programming with CircuitPython](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=blog_home) -Codecademy与Adafruit合作提供的课程.
 - [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) -CircuitPython在Texas Instruments计算器上运行.
 - [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
@@ -123,7 +146,7 @@
 - [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) -Adafruit博客文章讨论CircuitPython.
 - [CircuitPython in MicroSolutions Digital Magazine](https://blog.adafruit.com/2018/08/27/circuitpython-in-microsolutions-digital-magazine-microchiptech-microchipmakes-circuitpython-adafruit/)  -Microchip的MicroSolutions，“设计角”文章中的“微控制器上的Python”.  MicroSolutions是Microchip的双月刊数字杂志.
 - [CircuitPython Snakes its Way onto Adafruit Hardware](http://makezine.com/2017/08/11/circuitpython-snakes-way-adafruit-hardware/) -MAKE在CircuitPython上发表的文章.
-- [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review) -Raspberry Pi审查了Circuit Playground Express.
+- [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review) - Raspberry Pi reviews the Circuit Playground Express.
 - [The Amp Hour #383](https://www.youtube.com/watch?v=d-Uw3YOf7dE) -专访Scott Shawcroft.
 - [CircuitPython on Hackaday](https://hackaday.com/?s=circuitpython) -与CircuitPython相关的Hackaday帖子.
 - [CircuitPython on hackster.io](https://blog.hackster.io/search?q=circuitpython) -与CircuitPython相关的hackster.io帖子.
@@ -194,7 +217,7 @@
 
 ### Contribution Workflow Overview
 
-1.在Github上分叉仓库.
+1. Fork the repo on Github.
 1.将分叉的存储库克隆到驱动器.
 1.使用所有者adafruit和原始URL添加一个远程.
 1.获取遥控器
@@ -211,4 +234,4 @@
 
 在法律允许的范围内，作者放弃了该作品的所有版权以及相关或邻近的权利.
 
-上次更新时间：2020年2月5日
+上次更新时间：2020年2月28日

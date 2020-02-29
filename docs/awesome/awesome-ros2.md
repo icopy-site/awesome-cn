@@ -192,6 +192,7 @@
 - [NuttX](https://github.com/micro-ROS/NuttX) -官方的NuttX前叉，可用于micro-ROS.
 - [RIOT](https://github.com/RIOT-OS/RIOT) -RIOT是一种实时多线程操作系统（...）实时功能，较小的内存占用（...）API提供了部分POSIX兼容性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) -适用于多核处理器的POSIX兼容实时操作系统有望在未来支持AUTOSAR.
+- [Zephyr](https://www.zephyrproject.org/) -Linux Foundation Projects RTOS旨在提高安全性.
 
 ## Forks
 
@@ -360,6 +361,8 @@ DDS安全性.
 
 ## Working Groups
 
+-Edge AI工作组
+  - [Discourse threads tagged "wg-edgeai"](https://discourse.ros.org/tag/wg-edgeai)
 -嵌入式工作组
   - [Discourse threads tagged "wg-embedded"](https://discourse.ros.org/tags/wg-embedded)
 -导航工作组
