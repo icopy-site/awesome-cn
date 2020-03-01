@@ -94,7 +94,7 @@
   * [openapi4j adapter for Vert.x](https://github.com/openapi4j/openapi4j/tree/master/openapi-operation-adapters/openapi-operation-vertx) -OpenAPI 3请求验证器和路由器工厂替代品.
 
 *文件服务器
-  * [Vert.x TFTP Client](https://github.com/OneManCrew/vertx-tftp-client) -Vert.x的TFTP客户端支持下载/上传文件. 
+  * [Vert.x TFTP Client](https://github.com/OneManCrew/vertx-tftp-client) -Vert.x的TFTP客户端支持下载/上传文件.
 *消息
   * [AMQP 1.0](https://raw.githubusercontent.com/vert-x3/vertx-amqp-bridge) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -使用Vert.x Producer和Consumer API与AMQP 1.0服务器进行交互.
   * [MQTT](https://raw.githubusercontent.com/vert-x3/vertx-mqtt) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -提供两个不同的组件：用于处理与客户端的所有MQTT通信和消息交换的MQTT服务器，以及用于针对MQTT代理发送和接收消息的MQTT客户端.
@@ -243,6 +243,7 @@
 
 ## Testing
 
+* [Vert.x WireMongo](https://github.com/noenv/vertx-wiremongo) -Vert.x的轻量级mongo模拟
 
 ## Development Tools
 
@@ -274,7 +275,7 @@
 * [Kotlin Todo-Backend implementation](https://github.com/aesteve/vertx-kotlin-todomvc) -Kotlin实施Todo MVC后端.
 * [Scala Todo-Backend implementation](https://github.com/aesteve/vertx-scala-todomvc) -Todo MVC后端的Scala实现.
 * [Grooveex Todo-Backend implementation](https://github.com/aesteve/todo-backend-grooveex) -使用Vert.x + Groovy +一些语法糖+ DSL路由工具的Todo MVC后端实现.
-* [Vert.x Gradle Starter](https://github.com/yyunikov/vertx-gradle-starter) -Java 8启动程序应用程序，其中包括将Vert.x与Gradle构建系统，配置文件配置和SLF4J一起使用的示例.
+* [Vert.x Gradle Starter](https://github.com/yyunikov/vertx-gradle-starter) -Java 8入门应用程序，并带有在Gradle构建系统，配置文件配置和SLF4J中使用Vert.x的示例.
 * [Vert.x Gentics Mesh Example](https://github.com/gentics/mesh-vertx-example) -有关如何使用Gentics Mesh和车把构建基于模板的Web服务器的示例.
 * [HTTP/2 showcase](https://github.com/aesteve/http2-showcase) -一个简单的演示，展示了当涉及大量延迟时HTTP / 2如何极大地改善用户体验.
 * [Vert.x Music Store](https://github.com/tsegismont/vertx-musicstore) -有关如何使用RxJava构建Vert.x应用程序的示例应用程序.
@@ -299,7 +300,7 @@
 * [Vert.x Util](https://github.com/juanavelez/vertx-util) - A collection of Vert.x utility methods.
 * [Vert.x Web Accesslog](https://github.com/romanpierson/vertx-web-accesslog) -只需在Vert.x Web中使用一个简单的处理程序即可生成访问日志.
 * [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) -路由处理程序和Vert.x兼容的接口，用于处理Vert.x和Vert.x Web中的GraphQL查询.
-* [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) -Nannoq-Tools是用于利用Vert.x构建健壮，可扩展和分布式应用程序的工具包，其中包括用于身份验证，集群管理，Firebase Cloud Messaging，DynamoDB，完全通用查询，REST等的模块.
+* [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) -Nannoq-Tools是用于利用Vert.x构建健壮，可扩展和分布式应用程序的工具包，包括用于身份验证，集群管理，Firebase Cloud Messaging，DynamoDB，完全通用查询，REST等的模块.
 
 ## Community
 

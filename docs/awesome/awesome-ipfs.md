@@ -58,7 +58,7 @@
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/)  -基于IPFS的代码库.  （现在只读）
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) -具有多种功能的booru风格的媒体标记应用程序，最近添加了对ipfs的基本支持.
 - [InfiniteBooru](https://infinitebooru.com) -具有IPFS支持的所有媒体的booru风格的媒体标记应用程序和内容聚合器.
-- [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具可提供对以太坊和IPFS的安全，可靠和可扩展的访问，以帮助简化分散式应用程序的构建.
+- [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具可提供对以太坊和IPFS的安全，可靠和可扩展的访问，从而帮助简化分散式应用程序的构建.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) -使用IPFS进行Web存档（WARC）索引和重放.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) -建立在IPFS之上的Wiki
 - [IPFessay](https://gitlab.com/stavros/IPFessay) -在IPFS上发布无法审查的论文的简单方法.
@@ -93,7 +93,7 @@
 - [Playback](https://mafintosh.github.io/playback/)  -IPFS播放支持.  这样可以将IPFS中的视频投射到Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) -使用IPFS Companion网络扩展程序提供的window.ipfs的〜76KB演示聊天应用程序 [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [Pugdit](https://github.com/zbyte64/pugdit) -通过IPFS发现并分发的公告板服务
-- [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) -一键通，您可以编辑音频文章并使用IPFS发布.
+- [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) -一键通，您可以编辑音频文章并使用IPFS进行发布.
 - [qri](https://qri.io) -数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) -金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) -一个推特机器人，使用IPFS群集将推文添加，固定或取消固定到公共IPFS网络. [Source](https://github.com/simpleaswater/twitter-pinbot)
@@ -178,6 +178,7 @@
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) -这是将URL添加到IPFS节点的简单网络工具.
 - [ipcat](https://github.com/noffle/ipcat) -：cat2：检索IPFS对象数据并将其发送到stdout.
 - [IPDR](https://github.com/miguelmota/ipdr) -IPFS支持的Docker注册表
+- [ipfs-action](https://github.com/aquiladev/ipfs-action) -用于交付静态网站的GitHub Action.
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) -使用AES256加密文件或目录，然后添加到IPFS
 - [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) -从URL而不是文件路径将文件添加到IPFS
 - [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) -Chrome扩展程序可将ipfs.io通信重定向到本地网关
