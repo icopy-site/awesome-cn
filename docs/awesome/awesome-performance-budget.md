@@ -19,6 +19,7 @@
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) -您负担得起吗？：实际的Web性能预算.
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) -在Angular项目中实施绩效预算.
 - [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) -在您的构建过程中设置性能预算.
+- [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) -制定绩效预算的说明.
 
 ## Tools to measure Performance Budget
 
@@ -55,6 +56,7 @@
 
 - [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) -与Tim Kadlec共同制定的绩效预算.
 - [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) -如何实施效果预算以避免回退-Google Chrome开发者.
+- [Design Decisions Through The Lens Of A Performance Budget](https://vimeo.com/108328247) -从项目开始就如何做出更明智的设计决策，以确保我们的网站表现良好.
 
 ## Case Studies
 

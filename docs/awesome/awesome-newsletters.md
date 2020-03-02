@@ -28,11 +28,12 @@
 - [Fullweb Weekly](http://fullweb.io/) .  全栈Web开发人员的每周新闻.  它每周向您发送有关Web前端和后端，devops和用户体验的前5个链接.
 - [Pony Foo Weekly](https://ponyfoo.com/weekly) .  每周新闻通讯，讨论围绕Web平台的有趣话题和热门话题. [Archive](https://ponyfoo.com/weekly/history).
 - [Dev Awesome](https://devawesome.io/) .  每两周在收件箱中获取最新的编程新闻，出色的库和生产率提示.
+- [Insnippets](https://insnippets.com) .  包含TL; DR的每日新闻通讯，有关Web开发，Devops和分布式系统等有趣主题的信息.
 
 ### JavaScript
 
 - [JavaScript Weekly](https://javascriptweekly.com/) .  JavaScript新闻和文章的每周一次免费电子邮件摘要. [Archive](https://javascriptweekly.com/issues).
-- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) .  每月两次向新闻通讯发送电子邮件，其中包含针对设计人员和开发人员的有用提示，技巧和资源.
+- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) .  每月两次向新闻通讯发送电子邮件，其中包含针对设计师和开发人员的有用提示，技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) .  每隔一周就会向您的收件箱发送一个快速的JavaScript提示.
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和Web设计时事通讯，重点关注工具.
 - [ES.next News](http://esnextnews.com/) .  每周由Axel Raushmayer博士和Johannes Weber策划的5个ECMAScript.next链接.
@@ -141,7 +142,7 @@
 - [iOS Dev Weekly](https://iosdevweekly.com/) .  每周最好的iOS开发链接. [Archive](https://iosdevweekly.com/issues).
 - [Swift Weekly Brief](https://swiftweekly.github.io) .  关于Swift.org的社区驱动的每周新闻.  由Jesse Squires策划，并在每个星期四免费发布.
 - [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter) .  精选的很棒的快速库和资源列表.
-- [The Swift by Sundell](https://www.swiftbysundell.com/newsletter/) .  介绍Sundell的Swift每月新闻通讯！
+- [The Swift by Sundell](https://www.swiftbysundell.com/newsletter/). Introducing the Swift by Sundell monthly newsletter!
 - [iOS Goodies](https://ios-goodies.com) .  iOS每周通讯. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com) .  最佳的iOS开发，营销，Swift，设计和Xcode链接. [Archive](https://indieiosfocus.com/issues).
 - [Swift Developments](https://andybargh.com/swiftdevelopments/) .  每周精选新闻通讯，其中精选了最新的链接，视频，工具和教程，供有兴趣使用Swift设计和开发自己的iOS，macOS，watchOS和tvOS应用程序的人们使用.
@@ -161,7 +162,7 @@
 
 - [Ruby Weekly](https://rubyweekly.com/) .  每周一次的免费Ruby新闻和文章电子邮件摘要.
 - [Ruby Articles](https://thoughtbot.com/blog/tags/ruby) .  Ruby发帖人 [Thoughtbot](https://thoughtbot.com)
-- [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
+- [Rails Weekly](https://rails-weekly.ongoodbits.com/) .  每周内从Rails中获取有趣的提交，拉取请求和更多内容的摘要，每个星期五发送到您的收件箱.
 - [Volt Framework](http://voltframework.com/) .  Volt是一个用于快速构建数据丰富的Web应用程序的框架.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) .  很棒的Ruby宝石，工具，框架和软件的集合.
 
@@ -171,7 +172,7 @@
 - [Laravel News](https://laravel-news.com/) .  每周都会为Laravel发布许多技巧，教程和软件包.
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) .  精选的PHP库和资源的精选列表.
 - [Freek.dev](https://freek.dev/newsletter/) .  有关现代PHP和Laravel的双周刊.
-- [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Weekly tips and tricks from Laravel community.
+- [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Laravel社区的每周提示和技巧.
 - [La semana PHP](https://www.lasemanaphp.com/) .  每周用西班牙语发布有关PHP及其生态系统的新闻，教程和信息：Laravel，Symfony，WordPress，Drupal等...由JesúsAmieiro手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) .  一个免费的两周一期的新闻通讯，用于整理精彩的文章，视频和新闻.
 
@@ -274,7 +275,7 @@
 
 ### Docker
 
-- [Docker Weekly](https://www.docker.com/newsletter-subscription) .  每周新闻通讯，其中包含来自Docker，我们的用户和生态系统的重要更新.
+- [Docker Weekly](https://www.docker.com/newsletter-subscription). Weekly newsletter filled with great updates from Docker, our users and ecosystem.
 
 ### Devops
 
@@ -292,7 +293,7 @@
 
 ### Cloud Development
 
-- [Your weekly Azure news fix](https://azureweekly.info/) .  Azure周刊是Microsoft Azure生态系统中本周最新新闻的摘要，以及值得一读的有趣的历史内容.
+- [Your weekly Azure news fix](https://azureweekly.info/) .  Azure周刊是Microsoft Azure生态系统中本周热门新闻的摘要，以及值得一读的有趣的历史内容.
 - [Serverless Status](https://serverless.email/) .  关于无服务器架构和范例，功能即服务，AWS Lambda等的每周新闻.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) .  《 Google Cloud Weekly》是本周与Google Cloud生态系统相关的最新新闻，教程，视频，播客的摘要，值得一读.
 - [Last Week in AWS](https://www.lastweekinaws.com/) .  每周来自亚马逊云生态系统的新闻摘要.
@@ -335,7 +336,7 @@
 
 - [TLDR](https://www.tldrnewsletter.com/) .  TLDR是每日精选的新闻通讯，其中包含技术上最有趣的故事的链接和摘要.
 - [Barista.io](https://www.barista.io/) .  每天通过电子邮件发送来自网络的人群精选文章，以掌握当今最受欢迎的技术新闻.
-- [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) .  每个工作日有4条关于（主要是面向研究的）技术的短链接.
+- [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) .  每个工作日有4条关于（主要是研究型）技术的短链接.
 - [The Morning Paper](https://blog.acolyer.org/) .  由Adrian Colyer挑选的每个工作日早晨，来自CS世界的有趣/有影响力/重要的论文.
 - [TechMeme](https://www.techmeme.com/) .  Techmeme是近乎实时的汇总，过滤，可存档的摘要，涵盖了新事物并引发了技术对话.
 
@@ -357,10 +358,10 @@
 - [TED](https://www.ted.com/newsletter) .  TED对您收件箱的启发
 - [KickStarter](https://www.kickstarter.com/newsletters) .  我们喜欢的项目由KickStarter存档
 - [Startup Digest](https://www.startupdigest.com/reading-lists) .  根据您的兴趣定制来自世界各地的精选阅读材料.
-- [My Morning Routine](https://mymorningroutine.com/)<i>.</i> <b>。</b> <i>My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.</i> <b>My Morning Routine是一本独立的在线杂志，每个星期三都会为您带来一个崭新的，令人振奋的早晨活动。</b>
+- [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine是一本独立的在线杂志，每个星期三都会为您带来一个崭新的，令人振奋的早晨活动.
 - [wpMail.me](http://wpmail.me/) .  每周一次的免费WordPress新闻快讯，汇总了WordPress新闻和文章. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  《清晰思考》时事通讯为您提供很少的反思练习，可帮助您的日常生活.  它是充满爱与钦佩而创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) .  每周新闻通讯收集旨在提高一般编程知识的链接.  目的不包括读者可以从Google即时搜索到的链接（例如如何执行x，y，z），而是更多关于编程中的问题解决方法.
+- [Better Dev Link](https://betterdev.link) .  每周新闻通讯收集旨在提高一般编程知识的链接.  目的不包括读者可以从Google即时搜索的链接（例如，如何执行x，y，z），而是更多关于编程中的问题解决方法.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) .  一个特殊的仓库，可以在GitHub上用您喜欢的编程语言跟踪趋势项目.  每天或每周一次以GitHub通知的形式进行更新.
 - [HN Mail](https://hnmail.io) .  可自定义的每周新闻，根据您的兴趣提供Hacker News故事.
 - [Stratus Update](https://www.manifold.co/stratusupdate) .  每周拍摄一次迅速蒸发并凝结的云原生景观.

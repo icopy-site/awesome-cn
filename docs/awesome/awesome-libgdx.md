@@ -94,7 +94,7 @@ _针对新手和经验丰富的开发人员的教程.
 - [Tann's Hello libGDX](http://tann.space/HelloLibgdx/) -对于初学者的优秀指南，介绍如何从头开始创建游戏.
 - [Splash Screens](https://youtu.be/Rnmq_Jv-pe4) -有关创建初始屏幕以在游戏窗口加载之前显示的视频教程.
 - [Creating a Launcher](https://youtu.be/3l5F7f7vfTU) -有关使用libGDX制作游戏启动器的视频教程.
-- [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) -有关通过Gradle命令使用JPackage部署libGDX游戏的教程.
+- [Deploying with JPackage](https://github.com/raeleus/skin-composer/wiki/libGDX-and-JPackage) -通过Gradle命令使用JPackage部署libGDX游戏的教程.
 - [JSON in Game Dev](http://mana-break.blogspot.com/2014/06/power-of-json-in-game-development-items.html) -有关使用JSON存储数据的常规教程.
 - [Progress Bar Design](https://github.com/raeleus/skin-composer/wiki/The-Man-Who-Killed-Hitler-and-then-The-Progress-Bar) -通过示例讨论不同进度条设计技术的利弊.
 - [libGDX External Tutorials](https://github.com/libgdx/libgdx/wiki/External-tutorials) -官方非官方教程的大清单.
@@ -115,7 +115,7 @@ _收集免费的优质资产，使您的游戏更上一层楼.
 - [OpenGameArt.org](https://opengameart.org/) -提供各种开放内容资产的存储库.
 - [Game-Icons.net](http://game-icons.net/) -包含大量酷炫游戏相关图形的存储库.
 - [bfxr.net](https://www.bfxr.net/) -只需按几个按钮即可快速创建独特的音效，非常适合制作原型.
-- [freesound.org](https://freesound.org/) -巨大的音频片段，样本，录音，哔哔声协作数据库.
+- [freesound.org](https://freesound.org/) -庞大的音频片段，样本，录音，哔哔声协作数据库.
 
 
 ## Community
@@ -123,7 +123,6 @@ _收集免费的优质资产，使您的游戏更上一层楼.
 _与其他libGDX开发人员联系以进行协作并获得帮助.
 
 - [Discord](https://discord.gg/4S8pQqc)  -每天与社区中的各种领导人进行积极的聊天.  **推荐的**
-- [Forum](https://www.badlogicgames.com/forum/) -官方论坛，偶尔与libGDX团队互动.
 - [Reddit](https://www.reddit.com/r/libgdx/)  -libGDX的非官方subreddit.  活动不多.
 
 

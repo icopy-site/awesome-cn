@@ -405,6 +405,12 @@ Framework-specific:
 
 ![.gitignore generation animation](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
 
+## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
+
+ &gt;允许您完全在编辑器中管理GitHub Gists.  您可以打开，创建，删除，分叉，加星标和克隆要点，然后无缝地开始编辑文件，就好像它们是本地文件一样.  就像您自己的开发人员库一样，用于构建和引用代码段，常用配置/脚本，与编程相关的注释/文档以及交互式示例. 
+
+![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
+
 ## [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
 &gt;查看git日志，文件或行的历史记录
@@ -632,7 +638,7 @@ Framework-specific:
 
 ## [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
-&gt;美化VS Code的代码
+> Beautify code in place for VS Code
 
 ### [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
 
@@ -806,7 +812,7 @@ Framework-specific:
 
 ## [Remote Workspace](https://marketplace.visualstudio.com/items?itemName=mkloubert.vscode-remote-workspace)
 
-&gt;通过使用新的协议，对诸如Azure Blob，S3存储桶，Dropbox，（S）FTP或WebDAV文件之类的东西提供多协议支持 [FileSystem API](https://code.visualstudio.com/docs/extensionAPI/vscode-api#FileSystemProvider)，尤其是用于以以下方式在编辑器中访问本地文件和文件夹之类的资源时： [workspace folders](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
+&gt;通过使用新的协议，对诸如Azure Blob，S3存储桶，Dropbox，（S）FTP或WebDAV文件之类的东西提供多协议支持 [FileSystem API](https://code.visualstudio.com/docs/extensionAPI/vscode-api#FileSystemProvider)，尤其是用于以如下方式在编辑器中访问本地文件和文件夹之类的资源时 [workspace folders](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
 
 ![Remote Workspace animation](https://raw.githubusercontent.com/mkloubert/vscode-remote-workspace/master/img/demo1.gif)
 

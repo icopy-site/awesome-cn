@@ -24,7 +24,7 @@
 - [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) -（2018）针对移动互联网采用的四个推动因素来衡量国家：基础设施，可负担性，消费者就绪程度和内容.
 - [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) -（2017）负担得起的互联网接入联盟的互联网负担能力指数（[A4AI](https://a4ai.org)).
 -A4AI移动宽带数据成本-（[Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)）宽带数据价格（预付费1GB移动设备）占人均GNI的百分比.
-- [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) -（2019）衡量互联网连通性相对于可用性，可承受性，相关性和就绪性的指数.
+- [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) -（2020）衡量互联网连通性与可用性，可承受性，相关性和就绪性的指数.
 - [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/) -（2017）根据供应，需求，经验和潜力衡量的50个国家的“数字化转型”状态快照.
 - [Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html) -《 2017-2022年预测与趋势》白皮书.
 - [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) -（2010）交互式信息图表工具，展示了全球宽带部署的状况以及宽带的监管格局.
@@ -89,7 +89,6 @@
 - [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) -报告涵盖基于OpenSignal数据收集的各个国家.
 - [Lions go digital: The Internet’s transformative potential in Africa](https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa) -（2013）麦肯锡全球咨询公司关于互联网对非洲的潜在影响的报告.
 
-
 ## Other sources
 
 **[`^        back to top        ^`](#)**
@@ -106,6 +105,7 @@
 - [M-Lab Visualization Platform](https://viz.measurementlab.net/) -M-Lab是一个开放的，可验证的测量平台，可用于衡量全球网络性能.
 - [Oracle Cloud Infrastructure's Internet Intelligence Map](https://internetintel.oracle.com/about.html) -影响Internet性能的交互式地图报告问题.
 - [LTE, WiMAX, HSPA+, 3G, GSM information by country](https://www.worldtimezone.com/4g.html) -合理地更新世界各地的移动网络及其相关频率列表.
+- [Cisco Annual Internet Report (2018–2023) White Paper](https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html) 已更新：2020年2月28日
   
 <!-- END RESOURCE LIST -->  
 

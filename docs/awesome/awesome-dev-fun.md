@@ -4,7 +4,7 @@
 
 &gt;精选的有趣的库/软件包/语言列表，这些库/软件包/语言没有真正目的，只是使开发人员感到轻笑.
 
- 目前，这是一个非常短的清单，所以请您贡献一点.  读 [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) 并提出拉取请求，或者只是在Twitter上ping我 [@mislavcimpersak](https://twitter.com/mislavcimpersak) 有一些有趣的东西.
+ 目前，这是一个很短的清单，所以请贡献力量.  读 [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) 并提出拉取请求，或者只是在Twitter上ping我 [@mislavcimpersak](https://twitter.com/mislavcimpersak) 有一些有趣的东西.
 
 
 
@@ -12,7 +12,7 @@
 
 ## Android
 
-- [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) -拥有这款适用于Android的模拟器，可以像伟大的Stevie Wonder一样感受一下.
+- [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) -体验一下这款带Android模拟器的伟大Stevie Wonder.
 - [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) -糟糕的软键盘，每次按下时都会随机分配按键.
 - [holdr](https://github.com/starakaj/holdr) -解决了知道何时握住手机的问题.
 
@@ -24,7 +24,7 @@
 
 
 ## Elixir
-- [OOP](https://github.com/wojtekmach/oop) -在Elixir开启！
+- [OOP](https://github.com/wojtekmach/oop) -  DOP的灵药！
 
 
 ## Golang
@@ -32,7 +32,7 @@
 
 
 ## Haskell
-- [hackertyper](https://github.com/fgaz/hackertyper) -“哈克”就像电影和游戏中的程序员！
+- [hackertyper](https://github.com/fgaz/hackertyper) -“哈克”像电影和游戏中的程序员！
 
 
 ## HTML
@@ -41,30 +41,30 @@
 
 ## Java
 
-- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) -认真的商人出于认真的商业目的而制作的FizzBu​​zz的废话.
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) -由认真的商人出于认真的商业目的而制作的FizzBu​​zz的废话.
 
 
 ## JavaScript
 
 - [jsFuck](https://github.com/aemkei/jsfuck)
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) -有时图像加载得太快了.
-- [Elevator.js](https://github.com/tholman/elevator.js) -最后，其行为类似于真实的电梯.
+- [Elevator.js](https://github.com/tholman/elevator.js) -最后，一个“返回页首”按钮的行为类似于真实的电梯.
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) -不带评论的评论-提供仅存储在本地存储中的单面用户评论.
 - [Fapfap.js](http://fapfapjs.io) -为DIY爱好者手工制作的JavaScript框架.
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) -JavaScript错误Steamroller.
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) -通过Stack Overflow自动完成JS.
 - [Object.toSting()](https://github.com/teropa/to-sting) -将Sting的映像记录到开发控制台.
-- [Sarcasm](https://github.com/komlev/sarcasm) -Sarcasm是易于使用的，含电池的，无电击的，易于上手的，轻巧的，可靠的，方便的，非常简单的，用户友好的，超音速的，带电荷的，基于类固醇的JavaScript库.
+- [Sarcasm](https://github.com/komlev/sarcasm) -Sarcasm是易于制造的，含电池的，非氧化的，易于上手的，轻巧的，可靠的，方便的，非常简单的，用户友好的，超音速的，超快充电的，对类固醇有帮助的JavaScript库.
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) -通用，跨文化和用户友好的数字显示方式.
-- [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) -H9RBS.js（v0.0001）是一个灵活的，无依赖项，轻量级，与设备无关的，模块化的，内置的，组件框架的MVC库鞋带，可帮助您启动基于CSS的响应式应用程序架构骨干厨卫tweetybirds.
+- [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) -H9RBS.js（v0.0001）是一种灵活的，无依赖项，轻量级，与设备无关的，模块化的，嵌入式的，组件框架MVC库鞋带，可帮助您启动基于CSS的响应式应用程序架构骨干厨卫tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) -世界上最小和最快的JavaScript库.
 - [fattest-cat](https://github.com/lexiross/fattest-cat) -查找目前可在SF SPCA收养的最胖猫的脚本.
 - [fartscroll.js](https://github.com/theonion/fartscroll.js)  -大家放屁.  现在您的网页也可以.
 - [Groot Ipsum](http://grootipsum.com/) -生成包含“我是Groot”的随机文本.
-- [cannot-even](https://github.com/blakek/cannot-even) -拒绝偶数的模块.
+- [cannot-even](https://github.com/blakek/cannot-even) -一个拒绝偶数的模块.
 - [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function)  -“未定义的不是函数”？  - 就是现在！
 - [is-thirteen](https://github.com/jezen/is-thirteen) -检查数字是否等于13.
-- [Pettier](https://github.com/coleturner/pettier) -更漂亮的配置，可随机选择选项并在空格和制表符之间任意切换 
+- [Pettier](https://github.com/coleturner/pettier) -更漂亮的配置，可将选项随机化并在空格和制表符之间任意切换 
 - [not-paid.js](https://github.com/kleampa/not-paid) -为身体标签添加不透明度，并每天增加不透明度，直到其位置完全消失. 
 - [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) -通过调整弹出窗口的大小来播放长号. 
 
@@ -80,7 +80,7 @@
 - [left-pad](https://pypi.python.org/pypi/left-pad/) -臭名昭著的npm问题的Python解决方案.
 - [Like-my-GF](https://github.com/cyandterry/Like-My-GF) -这是一个自动机器人，喜欢您女友在Instagram上的帖子.
 - [RoastBot](https://github.com/Tylersuard/RoastBot) -侮辱用户的聊天机器人.
-
+- [ErrorFlow](https://github.com/SudoPseudo/ErrorFlow) -具有相同功能的轻量级TensorFlow：它从不工作，仅输出错误.
 
 ## Ruby
 
@@ -97,7 +97,7 @@
 - [Vigil](https://github.com/munificent/vigil) -Vigil，永恒的道德警惕编程语言.
 - [Spooky](https://github.com/ftripier/spookyc) -恐惧的编程语言.
 - [OnlyToday](https://github.com/molnarmark/onlytoday) -基于日期和时间的编程语言.
-- [Rockstar](https://github.com/dylanbeattie/rockstar) -动态类型的计算机编程语言，旨在创建也是歌曲歌词的程序.
+- [Rockstar](https://github.com/dylanbeattie/rockstar) -一种动态类型的计算机编程语言，旨在创建也是歌曲歌词的程序.
 
 
 ## SaaS
@@ -105,10 +105,10 @@
 - [Fuck off as a Service](https://github.com/tomdionysus/foaas) -提供现代，RESTful，可扩展的解决方案，以解决告诉人们滚蛋的常见问题.
 - ~~[Booleans as a Service](https://booleans.io/) -创建，读取，更新和删除布尔值.~~
 - [/dev/null as a Service](https://devnull-as-a-service.com) -第一家DaaS提供商.
-- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) -公司废话生成器，它随机选择短语，可以帮助您的应用程序在一个以旋转，流行词和模糊性为主导的行业中取得成功.
+- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) -公司废话生成器，它会随机选择短语，这可以帮助您的应用程序在旋转，流行词和模糊性占主导地位的行业中取得成功.
 - [shoutcloud.io](http://shoutcloud.io/)  -所有大写字母即服务.  ⬆️
 - [Make My Link Longer](https://make-my-link-longer.glitch.me/) -您一直需要的网址延长器.
-- [eafd](https://github.com/doesdev/eafd)  -当你只是没有话.  史努比  粗俗的音频生成器（或者不是粗俗的）
+- [eafd](https://github.com/doesdev/eafd)  -当你只是没有话.  史努比  粗俗的音频生成器（或不是粗俗的）
 
 
 ## Browser extensions
@@ -116,14 +116,14 @@
 - [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) -Chrome扩展程序，用“我的屁股”代替“云”的出现.
 - [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) -外向型的隐身模式.
 - [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) -阻止所有非广告内容.
-- [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb)  -Youtube陷波模式是一个镀铬扩展程序，可将每个iPhone X视频顶部出现的难看的黑色切边添加到iPhone X的顶部.  为什么？  因为它更美丽.
+- [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb)  -Youtube陷波模式是一种镀铬扩展程序，可将iPhone X顶部看到的难看的黑色切口添加到每个Youtube视频中.  为什么？  因为它更美丽.
 - [Github XP](https://github.com/martenbjork/github-xp)  -微软+ GitHub =❤️.  通过让您的GitHub体验Windows XP，使它正式化.
 - [Netflix Hangouts](https://netflixhangouts.com) -使Netflix看起来像在电话会议中一样，在工作中观看Netflix.
 
 
 ## CLI
 - [Pong-command](https://github.com/kurehajime/pong-command) -Pong不是Ping.
-- [Alice](https://github.com/susisu/alice) -当您错误输入al时，Alice会唱歌.
+- [Alice](https://github.com/susisu/alice) -错误输入al时，Alice会唱歌.
 - [cmprss](https://github.com/kurehajime/cmprss) -IrrvrsbleCmprssionForTxt.
 - [lolcat](https://github.com/busyloop/lolcat) -彩虹和独角兽！
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
@@ -144,17 +144,17 @@
 ## DevOps
 - [No Code](https://github.com/kelseyhightower/nocode)  -编写安全可靠的应用程序的最佳方法.  什么也不要写  无处部署.
 - [Volkswagen](https://github.com/auchenberg/volkswagen) -大众汽车检测您的测试何时在CI服务器中运行，并使其通过.
-- [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) -Dominos Pizza提供程序的Terraform插件.
+- [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) -Dominos Pizza提供商的Terraform插件.
 
 
 
 ## Miscellaneous
-- [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/cobyism/https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile) -文件以跟踪您存储库中以“文件​​”结尾的所有文件. [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile).
+- [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/cobyism/https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile) -文件以跟踪您存储库中所有以“文件”结尾的文件. [https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/Filefile).
 - [Xkcd Excuse](https://xkcd-excuse.com) -最简单的方法来获得臀部xkcd格式的懈怠借口！
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) -用于生成耸肩的库.
 - [quinedb](https://github.com/gfredericks/quinedb)  -也是键值存储区的Quine.  打破代码和数据之间的壁垒.
-- [πfs](https://github.com/philipl/pifs)  -π包含存在的每个可能的数字序列.  我确定您的数据在某处*.
+- [πfs](https://github.com/philipl/pifs)  -π包含存在的每个可能的数字序列.  我确定您的数据在*某处*.
 - [parrot.live](https://github.com/hugomd/parrot.live) -将动画鹦鹉带到各地的终端.
 - [Slack Typing](https://github.com/will/slacktyping) -一个非常好的程序，它可以使我在别人打字时都在打字.
-- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) – eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee一ee一和
+- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) -eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee化一分为二
 - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) -真棒列表存储库的真棒列表 

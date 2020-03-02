@@ -14,7 +14,7 @@
 
 * [alacritty](https://github.com/alacritty/alacritty) —跨平台，GPU增强的终端仿真器
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) —用锈写的交互式程序集外壳.
-* [andygrove/ballista](https://github.com/andygrove/ballista) —使用Rust，Apache Arrow和Kubernetes的分布式计算平台的PoC！
+* [andygrove/ballista](https://github.com/andygrove/ballista) — PoC of distributed compute platform using Rust, Apache Arrow, and Kubernetes!
 * [denoland/deno](https://github.com/denoland/deno) —使用V8，Rust和Tokio构建的安全JavaScript / TypeScript运行时 [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Kubernetes的超轻服务网格.
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) —通过在家庭Wifi路由器上阻止互联网访问，将屏幕显示时间限制在儿童的各种移动设备上.
@@ -39,6 +39,7 @@
 
 ### Audio and Music
 
+* [enginesound](https://github.com/DasEtwas/enginesound)  —一个GUI和命令行应用程序，用于以程序方式生成半真实的引擎声音.  具有深入的配置，可变的采样率和频率分析窗口.
 * [Spotify TUI](https://github.com/Rigellute/spotify-tui) —用Rust编写的终端的Spotify客户端. ![Continuous Integration](https://github.com/Rigellute/spotify-tui/workflows/Continuous%20Integration/badge.svg?branch=master)
 * [Spotifyd](https://github.com/Spotifyd/spotifyd) —作为UNIX守护程序运行的开源Spotify客户端. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
 
@@ -160,7 +161,7 @@
 * [mmstick/concurr](https://github.com/mmstick/concurr) —带有客户端-服务器体系结构的GNU Parallel的替代方案
 * [mmstick/fontfinder](https://github.com/mmstick/fontfinder) — GTK3应用程序，用于预览和安装Google的字体
 * [mmstick/parallel](https://github.com/mmstick/parallel) —重新实现GNU并行
-* [pop-os/debrep](https://github.com/pop-os/debrepbuild) —用于构建和管理APT回购的APT储存库工具
+* [pop-os/debrep](https://github.com/pop-os/debrepbuild) — APT存储库工具，用于构建和管理APT回购
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3和CLI实用程序，用于并行刷新多个USB设备
 * [Luminarys/synapse](https://github.com/Luminarys/synapse) —灵活，快速的BitTorrent守护程序. [![Build Status](https://api.travis-ci.org/Luminarys/synapse.svg?branch=master)](https://travis-ci.org/Luminarys/synapse)
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) —具有CLI工具的Linux电源管理守护程序（DBus接口）.
@@ -390,7 +391,7 @@
     * [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) —官方Rust包
     * [sublimehq/packages](https://github.com/sublimehq/Packages/tree/master/Rust) -本机Sublime支持（已安装）
   * [Vim](https://vim.sourceforge.io/) -无处不在的文本编辑器
-	* [rust.vim](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
+	* [rust.vim](https://github.com/rust-lang/rust.vim) —提供文件检测，语法突出显示，格式设置，语法集成等.
 	* [vim-cargo](https://github.com/timonv/vim-cargo) —命令绑定以从vim快速运行货物.
 	* [vim-racer](https://github.com/racer-rust/vim-racer) -允许vim使用 [Racer](https://github.com/racer-rust/racer) 用于Rust代码的完成和导航.
 	* [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/)  客户.  在Rust中实现，并支持开箱即用.
@@ -773,7 +774,7 @@
 * [FlatBuffers](https://google.github.io/flatbuffers/)
   * [frol/flatc-rust](https://raw.githubusercontent.com/frol/flatc-rust) —用于货物构建脚本的FlatBuffers编译器（flatc）集成 [<img src="https://api.travis-ci.org/frol/flatc-rust.svg?branch=master">](https://travis-ci.org/frol/flatc-rust)
 * EDN
-  * [naomijub/edn-rs](https://github.com/naomijub/edn-rs) -板条箱以解析并将EDN格式发出为Rust类型. [![Build Status](https://raw.githubusercontent.com/rust-unofficial/awesome-rust/master/ https://api.travis-ci.org/naomijub/edn-rs.svg?sanitize=true&branch=master)](https://travis-ci.org/naomijub/edn-rs)
+  * [naomijub/edn-rs](https://github.com/naomijub/edn-rs) -板条箱来解析并将EDN格式发出为Rust类型. [![Build Status](https://raw.githubusercontent.com/rust-unofficial/awesome-rust/master/ https://api.travis-ci.org/naomijub/edn-rs.svg?sanitize=true&branch=master)](https://travis-ci.org/naomijub/edn-rs)
 *有
   * [mandrean/har-rs](https://github.com/mandrean/har-rs) — HTTP存档格式（HAR）序列化和反序列化库 [![Build Status](https://api.travis-ci.org/mandrean/har-rs.svg?branch=master)](https://travis-ci.org/mandrean/har-rs)
 * HTML

@@ -140,7 +140,7 @@
 - [immutable](https://github.com/facebook/immutable-js) -不可变的数据收集.
 - [Ramda](https://github.com/ramda/ramda)  -实用程序库，侧重于通过自动计算和相反的参数顺序实现的灵活功能组合.  避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) -使用JavaScript进行通用功能编程的库套件，可让您编写优雅的模块化应用程序，减少错误，并增加重复使用率.
-- [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大差异的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
+- [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
 - [Bacon.js](https://github.com/baconjs/bacon.js) -功能反应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) -功能性反应式库，用于转换，合成和查询各种数据.
 - [Lazy.js](https://github.com/dtao/lazy.js) -类似于lodash / Underscore的实用程序库，但具有懒惰的评估，在许多情况下可以转换为出色的性能.
@@ -151,7 +151,6 @@
 - [got](https://github.com/sindresorhus/got) -内置`http`模块的更好接口.
 - [gh-got](https://github.com/sindresorhus/gh-got) -`got`与GitHub API交互的便捷包装.
 - [axios](https://github.com/mzabriskie/axios) -基于承诺的HTTP客户端（也可在浏览器中使用）.
-- [request](https://github.com/request/request) -简化的HTTP请求客户端.
 - [wreck](https://github.com/hapijs/wreck) -HTTP客户端实用程序.
 - [download](https://github.com/kevva/download) -轻松下载和提取文件.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) -HTTP代理.
@@ -520,7 +519,7 @@
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -适用于PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  类似于ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL PostgreSQL框架.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL的PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) -基于SQL查询生成器Knex构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) -适用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.

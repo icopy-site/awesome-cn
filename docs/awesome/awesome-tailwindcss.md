@@ -22,7 +22,6 @@
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) -通过CSS变量和`prefers-color-scheme`添加了强大的主题功能.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) -添加`text-indent`实用程序.
 - [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) -添加了“图像渲染”实用程序.
-- [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) -扩展`cursor`工具.
 - [Filters](https://github.com/benface/tailwindcss-filters) -添加`filter`实用程序.
 - [Spinner](https://github.com/aniftyco/tailwindcss-spinner) -添加了一个微调器实用程序.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) -添加 [Material UI `elevation`](https://material.io/design/environment/elevation.html) 实用程序.
@@ -78,6 +77,7 @@
 -  [benface's transitions](https://github.com/benface/tailwindcss-transitions) -添加带有或不带有CSS变量的可配置过渡实用程序.
 -  [webdna's transitions](https://github.com/webdna/tailwindcss-transition) -添加了可配置的过渡实用程序.
 -  [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) -添加了基本的转换实用程序.
+-  [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) -扩展`cursor`工具.
 
 
 

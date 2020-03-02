@@ -6,11 +6,11 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
 
-受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
-Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/blob/master/CONTRIBUTING.md) 如果你想贡献.
+请阅读 [contribution guidelines](https://github.com/moul/awesome-ssh/blob/master/CONTRIBUTING.md) 如果你想贡献.
 
-**检查我 [blog](https://manfred.life/)  或说“嗨” [Twitter](https://twitter.com/moul).**
+**检查我 [blog](https://manfred.life/)  或说*嗨* [Twitter](https://twitter.com/moul).**
 
 
 
@@ -29,19 +29,20 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 * [scp](http://linux.die.net/man/1/scp) -通过* SSH *的安全远程文件复制实用程序.
 * [rsync](https://rsync.samba.org) -支持* SSH *的快速增量传输实用程序.
 * [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) -通过* SSH *的文件传输协议.
-* [curl](http://curl.haxx.se) -用于传输数据的命令行工具和库（支持`sftp`）.
+* [curl](http://curl.haxx.se) -用于传输数据的命令行工具和库（支持sftp`）.
 
 ### Servers
 
 * [sshportal](https://github.com/moul/sshportal) [![stars](https://img.shields.io/github/stars/moul/sshportal.svg?style=social&label=stars)]（https://github.com/moul/sshportal）-简单，有趣和透明的SSH（＆Telnet）堡垒服务器
 * [ssh2docker](https://github.com/moul/ssh2docker) [![stars](https://img.shields.io/github/stars/moul/ssh2docker.svg?style=social&label=stars)]（https://github.com/moul/ssh2docker）-* SSH *服务器到Docker容器.
-* [whosthere](https://github.com/FiloSottile/whosthere) [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social&label=stars) ]（https://github.com/FiloSottile/whosthere）-知道您是谁的* SSH *服务器.  $ ssh whoami.filippo.io.
+* [whosthere](https://github.com/FiloSottile/whosthere) [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social&label=stars) ]（https://github.com/FiloSottile/whosthere）-一个* SSH *服务器，它知道您是谁.  $ ssh whoami.filippo.io.
 * [sshfront](https://github.com/gliderlabs/sshfront) [![stars](https://img.shields.io/github/stars/gliderlabs/sshfront.svg?style=social&label=stars)]（https://github.com/gliderlabs/sshfront）-可编程* SSH *前端.
 * [ssh-chat](https://github.com/shazow/ssh-chat) [![stars](https://img.shields.io/github/stars/shazow/ssh-chat.svg?style=social&label=stars)]（https://github.com/shazow/ssh-chat）-通过* SSH *聊天.
 * [sshcommand](https://github.com/dokku/sshcommand) [![stars](https://img.shields.io/github/stars/dokku/sshcommand.svg?style=social&label=stars)]（https://github.com/dokku/sshcommand）-将* SSH *变成专门用于您的应用程序的瘦客户端.
 * [sshmuxd](https://github.com/joushou/sshmuxd) [![stars](https://img.shields.io/github/stars/joushou/sshmuxd.svg?style=social&label=stars)]（https://github.com/joushou/sshmuxd）-`sshmux`前端.
 * [x84](https://github.com/jquast/x84) [![stars](https://img.shields.io/github/stars/jquast/x84.svg?style=social&label=stars) ]（https://github.com/jquast/x84）-用于现代* UTF-8 *和经典* cp437 *网络虚拟终端的* python *`telnet` /`ssh`服务器.  本着经典软件的精神，例如* ami / x *，* teleguard *，* renegade *，* iniquity *.
 * [teleport](https://github.com/gravitational/teleport) [![stars](https://img.shields.io/github/stars/gravitational/teleport.svg?style=social&label=stars)]（https://github.com/gravitational/teleport）-适用于集群和团队的现代* SSH *服务器.
+* [ShellHub](https://github.com/shellhub-io/shellhub) [![stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=social&label=stars)]（https://github.com/shellhub-io/shellhub）-一个* SSH *网关，用于远程访问防火墙和NAT之后的任何Linux设备.
 
 ### Network
 
@@ -50,9 +51,9 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 * [ngrok](https://github.com/inconshreveable/ngrok) [![stars](https://img.shields.io/github/stars/inconshreveable/ngrok.svg?style=social&label=stars)]（https://github.com/inconshreveable/ngrok）-对本地主机的自省隧道.
 * [localtunnel](https://github.com/progrium/localtunnel) [![stars](https://img.shields.io/github/stars/progrium/localtunnel.svg?style=social&label=stars)]（https://github.com/progrium/localtunnel）-将localhost服务器公开到Internet.
 * [sshuttle](https://github.com/apenwarr/sshuttle) [![stars](https://img.shields.io/github/stars/apenwarr/sshuttle.svg?style=social&label=stars) ]（https://github.com/apenwarr/sshuttle）-透明的代理服务器，充当穷人的* VPN *.  通过`ssh`转发.  不需要管理员.  适用于* Linux *和* MacOS *.  支持* DNS隧道*.
-* [sshttp](https://github.com/stealth/sshttp) [![stars](https://img.shields.io/github/stars/stealth/sshttp.svg?style=social&label=stars) ]（https://github.com/stealth/sshttp）-* SSH * / * HTTP（S）*多路复用器.  在没有更改的相同端口上运行网络服务器和`sshd`.
+* [sshttp](https://github.com/stealth/sshttp) [![stars](https://img.shields.io/github/stars/stealth/sshttp.svg?style=social&label=stars) ]（https://github.com/stealth/sshttp）-* SSH * / * HTTP（S）*多路复用器.  在没有更改的同一端口上运行网络服务器和`sshd`.
 * [switcher](https://github.com/jamescun/switcher) [![stars](https://img.shields.io/github/stars/jamescun/switcher.svg?style=social&label=stars)]（https://github.com/jamescun/switcher）-在同一端口上运行* SSH *和* HTTP（S）*.
-* [sslh](https://github.com/yrutschle/sslh) [![stars](https://img.shields.io/github/stars/yrutschle/sslh.svg?style=social&label=stars)]（https://github.com/yrutschle/sslh）-应用协议多路复用器（即：* SSH * + HTTPS *）.
+* [sslh](https://github.com/yrutschle/sslh) [![stars](https://img.shields.io/github/stars/yrutschle/sslh.svg?style=social&label=stars)]（https://github.com/yrutschle/sslh）-应用协议多路复用器（例如：* SSH * + * HTTPS *）.
 * [tund](https://github.com/aphyr/tund) [![stars](https://img.shields.io/github/stars/aphyr/tund.svg?style=social&label=stars)]（https://github.com/aphyr/tund）-* SSH *反向隧道守护程序.
 * [autossh](http://www.harding.motd.ca/autossh/) -网络中断后自动重新生成* SSH *会话.
 * [wssh](https://github.com/aluzzardi/wssh) [![stars](https://img.shields.io/github/stars/aluzzardi/wssh.svg?style=social&label=stars)]（https://github.com/aluzzardi/wssh）-* SSH *到WebSockets Bridge.
@@ -72,7 +73,7 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 
 ### *SSH* keys / Authentication
 
-* [authy-ssh](https://github.com/authy/authy-ssh) [![stars](https://img.shields.io/github/stars/authy/authy-ssh.svg?style=social&label=stars)]（https://github.com/authy/authy-ssh）-用于* SSH *服务器的简单*双重身份验证.
+* [authy-ssh](https://github.com/authy/authy-ssh) [![stars](https://img.shields.io/github/stars/authy/authy-ssh.svg?style=social&label=stars)]（https://github.com/authy/authy-ssh）-对* SSH *服务器的简单*双重身份验证.
 * [github-auth](https://github.com/chrishunt/github-auth) [![stars](https://img.shields.io/github/stars/chrishunt/github-auth.svg?style=social&label=stars)]（https://github.com/chrishunt/github-auth）-GitHub用户的* SSH *密钥管理.
 * [cipherhub](https://github.com/substack/cipherhub) [![stars](https://img.shields.io/github/stars/substack/cipherhub.svg?style=social&label=stars)]（https://github.com/substack/cipherhub）-基于* SSH *公钥的消息加密，可轻松从GitHub导入.
 * [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) ([archived version](https://web.archive.org/web/20160505202303/http://www.ryanbrink.com/slack-ssh-session-notifications/)）-设置Slack通知的指南（可以针对其他服务进行修改）.
@@ -140,10 +141,10 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 * Java
   * [jsch](http://www.jcraft.com/jsch/) -纯* java *，* BSD *许可，* SSH2 *客户端库.
 * Javascript / Node.js
-  * [ssh2](https://github.com/mscdex/ssh2) [![stars](https://img.shields.io/github/stars/mscdex/ssh2.svg?style=social&label=stars)]（https://github.com/mscdex/ssh2）-* SSH2 *客户端和服务器模块，使用纯JavaScript *编写，用于* node.js *.
+  * [ssh2](https://github.com/mscdex/ssh2) [![stars](https://img.shields.io/github/stars/mscdex/ssh2.svg?style=social&label=stars)]（https://github.com/mscdex/ssh2）-* SSH2 *客户端和服务器模块，用纯JavaScript *编写，用于* node.js *.
 * Python
   * [paramiko](https://github.com/paramiko/paramiko) [![stars](https://img.shields.io/github/stars/paramiko/paramiko.svg?style=social&label=stars)]（https://github.com/paramiko/paramiko）-原生* Python * * SSHv2 *协议库.
-*红宝石
+* Ruby
   * [net-ssh](https://github.com/net-ssh/net-ssh) [![stars](https://img.shields.io/github/stars/net-ssh/net-ssh.svg?style=social&label=stars)]（https://github.com/net-ssh/net-ssh）-* SSH *（协议2）客户端的纯* Ruby *实现.
 
 ## Resources
@@ -160,7 +161,7 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 
 * [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) -整数溢出`CVE 2016 077 [7-8].
 * [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) -`sshd \ _config`为`6.7 +`，`5.3`.
-* [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) [![stars](https://img.shields.io/github/stars/BetterCrypto/Applied-Crypto-Hardening.svg?style=social&label=stars)]（https://github.com/BetterCrypto/Applied-Crypto-Hardening）-`sshd \ _config`为`6.X`
+* [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) [![stars](https://img.shields.io/github/stars/BetterCrypto/Applied-Crypto-Hardening.svg?style=social&label=stars)]（https://github.com/BetterCrypto/Applied-Crypto-Hardening）-用于`6.X`的`sshd \ _config`
 
 ### Documentation
 
@@ -177,4 +178,4 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Manfred Touron](https://github.com/moul) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Manfred Touron](https://github.com/moul) 已放弃此作品的所有版权以及相关或邻近的权利.

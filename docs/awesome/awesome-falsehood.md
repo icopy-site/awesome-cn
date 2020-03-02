@@ -62,7 +62,7 @@ subtleties.
 与定义汽车一样常见的东西充满了陷阱.
 - [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -货币
 由于起义，入侵，新宪法和
-计划采用的速度缓慢
+计划采用的速度缓慢.
 - [`tax`](https://github.com/commerceguys/tax) -PHP 5.4+税收管理
 library.
 
@@ -107,7 +107,7 @@ leap秒！
 - [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) -臭名昭著
 关于复杂的历史时区以及如何实现的堆栈溢出答案
 历史日期可以由较新版本的软件重新解释.
-- [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) -从Y2K到unix时代开始的32位秒溢出，这是一个特殊日期列表，要视系统而定.
+- [Critical and Significant Dates](https://web.archive.org/web/20150908004245/http://www.merlyn.demon.co.uk/critdate.htm) -从Y2K到从unix时代开始的32位秒溢出，这是一个特殊日期列表，要视系统而定.
 
 
 ## Education
@@ -311,6 +311,8 @@ autocompletion.
 关于缓存通常会导致错误的断言，尤其是当涉及到
 并发和竞争条件.
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/)  -下载在浏览器标签中看到的小图标应该很简单.  事实证明，它比您想象的要复杂得多.  保持警惕，不要刮sha牛.
+- [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) -挪威的ISO国家/地区代码对False也有效.
+
 
 ## Typography
 

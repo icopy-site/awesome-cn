@@ -12,8 +12,8 @@
 
 ## Journals
 
-- [The Programming Historian](https://programminghistorian.org/) -对新手友好且经过同行评审的教程，可帮助人文主义者学习各种数字工具，技术和工作流程，以促进研究和教学.
-- [Current Research in Digital History](http://crdh.rrchnm.org/) -乔治·梅森大学（Roy Rosenzweig）历史与新媒体中心罗伊·罗森茨威格（Roy Rosenzweig）历史和新媒体中心的年度开放获取，同行评审.
+- [The Programming Historian](https://programminghistorian.org/) -新手友好，同行评审的教程，可帮助人文主义者学习广泛的数字工具，技术和工作流程，以促进研究和教学.
+- [Current Research in Digital History](http://crdh.rrchnm.org/) -乔治·梅森大学（Roy Rosenzweig）历史与新媒体中心罗伊·罗森茨威格（Roy Rosenzweig）历史与新媒体中心的年度开放获取，经过同行评审的出版物.
 
 ## Primary Sources
 
@@ -21,7 +21,7 @@
 
 ### Archives and Search Engines
 
-- [Archives Portal Europe](https://www.archivesportaleurope.net/) - European archives search engine.
+- [Archives Portal Europe](https://www.archivesportaleurope.net/) -欧洲档案馆搜索引擎.
 - [Internet Archive](https://archive.org/) -包含数百万本免费书籍，电影，软件，音乐，网站等的非营利性图书馆.
 - [Europeana](https://www.europeana.eu/) -欧洲文字和非文字档案资源的搜索引擎.
 - [Gallica](https://gallica.bnf.fr/) -法国国家图书馆的数字图书馆.
@@ -67,6 +67,7 @@
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) -联邦委员会向议会报告过去几年的收支情况.
 - [Industriekultur](https://industriekultur.ch/) -瑞士国家文物清单.
 - [fxtop.com](https://fxtop.com/) -自1953年以来的汇率历史.
+- [NLS](https://data.nls.uk/data/) -苏格兰国家图书馆的数据收集.
 
 ## Encyclopaedias
 
@@ -120,6 +121,13 @@
 - [DocFetcher](http://docfetcher.sourceforge.net/) -开源桌面搜索应用程序.
 - [TinEye](https://tineye.com/) -按图像或图像部分进行搜索，然后找到该图像在线显示的位置.
 
+### Data Extraction and Conversion
+
+- [Poppler](https://poppler.freedesktop.org/)
+- [QPDF](http://qpdf.sourceforge.net/)
+- [ImageMagick](https://imagemagick.org/)
+- [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)
+
 ### Data Augmentation
 
 - [AutoCat](https://autocat.apps.allenai.org/)  -在线创建简单的文本分类模型.  由艾伦AI研究所（AI2）提供.
@@ -136,7 +144,7 @@
 - [Perspectives on History](https://www.historians.org/publications-and-directories/perspectives-on-history/digital-history) -美国历史协会的新闻杂志.
 - [wethink.hypotheses.org](https://wethink.hypotheses.org/) -协作数字历史.
 - [HSS Digital](https://digital.hssonline.org/) -科学史倡议中的数字奖学金.
-- [Wikipedia](https://en.wikipedia.org/wiki/Digital_history) -数字历史是指使用数字媒体进行进一步的历史分析，呈现和研究.
+- [Wikipedia](https://en.wikipedia.org/wiki/Digital_history) - Digital history is the use of digital media to further historical analysis, presentation, and research.
 
 ## DH Centers
 
