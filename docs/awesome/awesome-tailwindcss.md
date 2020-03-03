@@ -53,7 +53,7 @@
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) -将颜色配置导出到CSS自定义属性.
 - [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) -将配置导出到CSS自定义属性.
 - [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) -添加间隔组件，为除最后一个容器之外的所有容器项添加固定边距.
-- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) -广告 [Hero Patterns](https://www.heropatterns.com) 组件.
+- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) -添加 [Hero Patterns](https://www.heropatterns.com) 组件.
 - [Localized](https://github.com/hdodov/tailwindcss-localized) -添加基于HTML`lang`属性的变体，以仅对某些语言使用实用程序.
 - [Skip link](https://github.com/opdavies/tailwindcss-skip-link) -向主要content_可访问组件添加_Skip.
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
@@ -154,7 +154,7 @@
 -  [Next.js Starter](https://github.com/oddstronaut/tailwind-next) -使用Tailwind CSS的Next.js样板.
 -  [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) -使用Sapper，Tailwind CSS，Purge CSS，Prettier和ESLint精简样板.
 -  [Netlify Lambda Static Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) -使用Tailwind CSS的Netlify Lambda样板.
--  [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example) - Rails example application using Tailwind CSS.
+-  [Ruby on Rails Example Project](https://github.com/jvanbaarsen/tailwindcss-rails-example) -使用Tailwind CSS的Rails示例应用程序.
 -  [Laravel Frontend Preset](https://github.com/laravel-frontend-presets/tailwindcss) -使用Laravel框架的Tailwind CSS进行前端预设.
 -  [Laravel Dark Frontend Preset](https://github.com/Naoray/dark-tailwind-preset) -为Laravel框架使用Tailwind CSS的黑暗主题前端预设.
 -  [Laravel Boilerplate](https://github.com/hawezo/laravel-boilerplate) -使用Tailwind CSS，Inertia JS，TypeScript，Vue和字体结尾主题的Laravel样板.
@@ -174,7 +174,7 @@
 ### IDE Extensions
 
 - [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) -Tailwind CSS的Visual Studio Code IntelliSense扩展.
-- [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) -Tailwind CSS的Visual Studio代码片段扩展.
+- [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Visual Studio Code snippet extension for Tailwind CSS.
 - [Tailwind CSS IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) -针对Tailwind CSS的Neovim IntelliSense扩展.
 - [Headwind for VS Code](https://github.com/heybourn/headwind) -用于Tailwind CSS的Visual Studio Code类排序器.
 
@@ -242,7 +242,6 @@
 ### Apps & Websites
 - [Josh Manders](https://joshmanders.com)
 - [App Metrics](https://appmetrics.co)
-- [Full Snack Developer](https://full.snack.dev)
 - [Matt Stauffer](https://mattstauffer.com)
 - [Miguel Piedrafita](https://miguelpiedrafita.com)
 - [Blogcast](https://blogcast.host)

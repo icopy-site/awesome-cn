@@ -146,7 +146,7 @@
 - [subreddit-ada](https://www.reddit.com/r/ada/) -在Reddit上.
 - [subreddit-spark](https://www.reddit.com/r/spark/) -踢Reddit.
 - [gitter-ada](https://gitter.im/ada-lang/Lobby) -吉特（Gitter）有一个频道.
-- [telegram-ada](https://t.me/ada_lang) - Ada group at Telegram.
+- [telegram-ada](https://t.me/ada_lang) -Telegram有一个小组.
 - [irc-ada](http://webchat.freenode.net/?channels=%23ada) -IRC上有一个频道.
 
 #### News and Resources
@@ -325,7 +325,7 @@
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) -Ada构造了皮棉工具.
 - [spark-2014](https://github.com/AdaCore/spark2014/) -SPARK正式验证工具集.
 - [acats](https://github.com/simonjwright/ACATS) -针对GCC定制的Ada合格评定测试套件.
-- [acats-grading](https://github.com/simonjwright/ACATS-grading) -用于对ACATS结果进行评分的工具，已针对类似Unix的系统进行了修改.
+- [acats-grading](https://github.com/simonjwright/ACATS-grading) -用于对ACATS结果进行评分的工具，已针对类Unix系统进行了修改.
 
 #### Generation
 - [asn1scc](https://github.com/ttsiodras/asn1scc) -ASN1SCC：Ada类型声明和编码器/解码器的开源ASN.1生成器.
@@ -422,7 +422,7 @@
 - [zip-ada](https://github.com/zertovitch/zip-ada) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
 - [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一种软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（1D或2D，如QR码）.
+- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维二维码，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理学，最常见）的访问例程库.
 
@@ -520,7 +520,7 @@
 - [yass](https://github.com/yet-another-static-site-generator/yass) -另一个静态网站生成器（例如Jekyll或Hugo）.
 
 #### Multimedia
-- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) -阿波罗11号登月模拟器（Ada / Gtk /开罗）.
+- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator (Ada/Gtk/Cairo).
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) -一个简单的3DS Max模型渲染器.
 
 #### Automation
@@ -597,6 +597,8 @@
 - [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) -Ada与Lua语言的绑定.
 - [libsodium-ada](https://github.com/jrmarino/libsodium-ada) -安全的密码库（用于Ada的libsodium）.
 - [adagl](https://github.com/godunko/adagl) -多平台Ada / OpenGL绑定（移植到本机/ OpenGL，A2JS / WebGL和WASM / WebGL）
+- [tcl-ada-shell](https://github.com/simonjwright/tcladashell) -Tcl Ada SHell（Tash）是绑定到Tcl / Tk的Ada.
+- [tashy](https://github.com/thindil/tashy)  -Tashy比Tcl Ada SHell Younger矮.  它是Tash的派生产品，主要关注Tk绑定.
 
 ## License
 

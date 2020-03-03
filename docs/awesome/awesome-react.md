@@ -94,12 +94,13 @@
 - [loadable-components](https://github.com/smooth-code/loadable-components) -React代码拆分变得容易
 - [reactotron](https://github.com/skellock/reactotron) -用于检查您的React和React Native项目的桌面应用程序
 - [storybook](https://github.com/storybookjs/storybook) -UI组件开发和测试
-- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
+- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) -隔离的React组件开发环境以及生活指南
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) -用于创建可重复使用的React组件的开发工具
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) -对ESLint的特定掉毛规则做出反应
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) -JSX元素上的a11y规则的静态AST检查器
 - [react-axe](https://github.com/dequelabs/react-axe) -React应用程序的可访问性审核
 - [codesandbox](https://codesandbox.io/s/new) -使用集成的React DevTools进行快速React开发的在线IDE.
+- [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) -小型JavaScript编译器，可直接在网页上快速将JSX转换为JS
 
 ##### React Frameworks
 
@@ -169,6 +170,7 @@
 - [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
 - [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) -为React制作的PDF查看器
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) -在React组件上轻松应用倾斜悬停效果
 
 ##### React for Command Line
 
@@ -399,7 +401,7 @@
 
 ### React Native
 
-&gt;使用React构建本机应用程序的框架
+> Framework for building native apps using React
 
 #### React Native General Resources
 
@@ -717,6 +719,6 @@
 
 ### Contribution
 
- 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始测试时，它有一个特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+ 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始测试时，它是一个特殊的脚本，可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

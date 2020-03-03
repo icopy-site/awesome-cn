@@ -51,7 +51,7 @@
 2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) 由Yaser Abu-Mostafa（2012-2014）
 3.  [Machine Learning - Carnegie Mellon](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) 作者：汤姆·米切尔（Tom Mitchell）（2011年春季）
 2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) 由杰弗里·欣顿（Geoffrey Hinton）在Coursera（2012）中
-3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) 舍布鲁克大学的雨果·拉罗谢尔（Hugo Larochelle）（2013）
+3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) 作者：舍布鲁克大学的雨果·拉罗谢尔（Hugo Larochelle）（2013）
 4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) 通过CILVR实验室@纽约大学（2014）
 5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) 丹·克莱恩（Dan Klein）和彼得阿比尔（Pieter Abbeel）（2013）
 6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) 帕特里克·亨利·温斯顿（2010）
@@ -61,7 +61,7 @@
 11.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 12.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
 13.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
-14.  [Graduate Summer School: Deep Learning, Feature Learning](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) 作者：杰弗里·欣顿（Geoffrey Hinton），约书亚（Yoshua Bengio），扬·勒库恩（Yann LeCun），吴安德（Andrew Ng），南多·德·弗雷塔斯（Nando de Freitas）等@ IPAM，加州大学洛杉矶分校（2012）
+14.  [Graduate Summer School: Deep Learning, Feature Learning](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) 杰弗里·欣顿（Geoffrey Hinton），约书亚（Yoshua Bengio），扬·勒坎（Yann LeCun），吴安德（Andrew Ng），南多·德·弗雷塔斯（Nando de Freitas）等人@ IPAM，加州大学洛杉矶分校（2012）
 15.  [Deep Learning - Udacity/Google](https://www.udacity.com/course/deep-learning--ud730) Vincent Vanhoucke和Arpan Chakraborty（2016）
 16.  [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) 由滑铁卢大学的Ali Ghodsi教授撰写（2015年）
 17.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) 拉里·瓦瑟曼教授
@@ -72,7 +72,7 @@
 22. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 23. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
-25. [Practical Deep Learning For Coders](http://course.fast.ai/) 杰里米·霍华德（Jeremy Howard）撰写的文章-Fast.ai
+25. [Practical Deep Learning For Coders](http://course.fast.ai/) 杰里米·霍华德撰写的文章-Fast.ai
 26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)  由教授  比克莎·拉吉（2017）
 27. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) 吴恩达（2019）
 28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) -在麻省理工学院设计的为期7天的训练营，旨在介绍深度学习方法和应用（2019）
@@ -530,6 +530,8 @@
 57.  [Karate Club - An unsupervised machine learning library for graph structured data](https://github.com/benedekrozemberczki/karateclub)
 58.  [Synapses - A lightweight library for neural networks that runs anywhere](https://github.com/mrdimosthenis/Synapses)
 59.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
+60.  [Hopsworks - A Feature Store for ML and Data-Intensive AI](https://github.com/logicalclocks/hopsworks)
+61.  [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast)
 
 ### Tools
 
