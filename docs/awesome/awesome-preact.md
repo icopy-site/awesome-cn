@@ -74,7 +74,7 @@
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) -Preact的羽毛图标.
 - [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) -当属性更改时添加CSS3动画.
 - [Preact Async Route](https://github.com/prateekbh/preact-async-route) -preact-router的异步路由组件.
-- [MU Forms](https://github.com/mobiushorizons/mu-forms) -P（r）act的简单表单库.
+- [MU Forms](https://github.com/mobiushorizons/mu-forms) -（P）React的简单表单库.
 - [Pimg](https://github.com/ooade/pimg)  -渐进式图像组件；  用于延迟加载图像.
 - [Preact Component Console](https://github.com/haensl/preact-component-console)  -控制台模拟器.  通过动态延迟模拟打字.
 - [Preact Translate](https://github.com/DenysVuika/preact-translate) -Preact的简约翻译（i18n）库.

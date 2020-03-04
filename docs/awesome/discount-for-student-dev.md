@@ -64,7 +64,7 @@
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [折扣]-学生节省60％的Creative Cloud折扣.
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) [折扣]-获得教育许可证后，您的素描副本可享受50％的折扣.
   * [Canva](https://www.canva.com/) [免费]-通过以下方式免费订阅Canva Pro级别的12个月 [Github Student Developer Pack](https://education.github.com/pack).
-  * [Icons8](https://icons8.com/github-students) [免费]-Icons8提供设计资源：图标，UI插图，照片和用于对项目进行分类的软件.  通过[Github Student Developer Pack]（https://education.github.com/pack），可以进行为期3个月的全部访问订阅，包括图标，照片，插图和音乐.
+  * [Icons8](https://icons8.com/github-students) [免费]-Icons8提供设计资源：图标，UI插图，照片和用于对项目进行分类的软件.  通过以下方式进行为期3个月的全部访问订阅，包括图标，照片，插图和音乐 [Github Student Developer Pack](https://education.github.com/pack).
   * [Figma](https://www.figma.com/education/) [免费]-通过学生身份验证后免费获得专业团队功能.
 
 ## SaaS
@@ -79,12 +79,12 @@
   * [Amazon Web Services](http://www.awseducate.com/application) [免费]-立即加入AWS Educate，免费访问云内容，培训，协作工具和AWS技术.
   * [Google Cloud Platform](https://cloud.google.com) [暂时免费]-试用14天或通过教育许可证或通过卡详细信息注册一年，即可访问Cloud Services和G-Suite.
   * [Heroku](https://heroku.com/github-students) [免费]-灵活，易于使用的平台，用于部署，运行和管理您的应用程序.  通过以下方式免费获得长达两年的爱好Dyno [Github Student Developer Pack](https://education.github.com/pack).
-  * [Microsoft Azure] (https://azure.microsoft.com/en-us/free/students/) - Microsoft Azure is an ever-expanding set of cloud services to help you build, manage, and deploy applications.Level up your ideas by learning cloud computing skills and get a $100 credit with your free Azure for Students account—no credit card required.
+  * [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) -Microsoft Azure是一组不断扩展的云服务，可帮助您构建，管理和部署应用程序.通过学习云计算技能来升级您的想法，并使用免费的Azure for Student帐户获得$ 100的赠金-无需信用卡.
 
 ## Email
 
   * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT]-学生计划每月通过15K封免费电子邮件（通常每天限制为200封免费电子邮件） [Github Student Developer Pack](https://education.github.com/pack).
-  * [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费]-强大的API，可让您轻松地发送，接收和跟踪电子邮件.每月最多20,000个电子邮件和100个免费电子邮件验证（长达12个月），可通过 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费]-强大的API，使您可以轻松地发送，接收和跟踪电子邮件.每月最多20,000个电子邮件和100个免费电子邮件验证（长达12个月），可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
 
@@ -110,14 +110,14 @@
 
 ## Localization
 
-  * [Transifex](https://www.transifex.com)  [免费/信用]-用于翻译数字内容的本地化平台.  每年可免费获得1个价值$ 99 /月的免费年度 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Transifex](https://www.transifex.com)  [免费/信用]-用于翻译数字内容的本地化平台.  可通过以下方式获得1个月的免费年度，每月价值$ 99 [Github Student Developer Pack](https://education.github.com/pack).
   * [Crowdin](https://education.github.com/pack/redeem/crowdin)[免费]-Crowdin是基于云的解决方案，可简化本地化管理.可通过以下方式获得1年的青铜计划： [Github Student Developer Pack](https://education.github.com/pack).
 
 
 ## Programming Help
 
   * [HackHands](https://hackhands.com/education/)  [CREDIT]-24/7提供实时编程帮助.  通过以下方式向学生提供$ 25的平台赠送金额： [Github Student Developer Pack](https://education.github.com/pack).
-  * [Evernote](https://evernote.com/students)  [折扣]-从任何地方捕获，整理和共享笔记.  全年享Evernote Premium优惠50％.
+  * [Evernote](https://evernote.com/students) [DISCOUNT] - Capture, organize, and share notes from anywhere. Get 50% off a full year of Evernote Premium.
   * [Covalence](https://education.github.com/pack/redeem/covalence)[免费]-加入一个专有的开发人员社区，学习没有长期承诺的Full Stack网络开发.Covalence的Atomic Plan免费试用一个月，并通过以下方式进行了两次一对一的辅导 [Github Student Developer Pack](https://education.github.com/pack).
 
 

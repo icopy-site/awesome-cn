@@ -289,7 +289,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) -基于可扩展注释的序列化/反序列化库
  * [CrSignals](https://github.com/firejox/CrSignals) -信号/插槽通知库
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) -二进制解析器
- * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github担任
+ * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github出演
  * [crz](https://github.com/dhruvrajvanshi/crz) -功能编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) -表情符号库
  * [hoop](https://github.com/0x73/hoop) -构建本机OSX应用
@@ -429,7 +429,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
- * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -客户端API领事
+ * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -领事API客户端
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) -包装 [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) -包装 [Github](https://github.com/) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) -星球大战API（SWAPI）包装器
@@ -454,7 +454,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) -开源高效，凝聚力的Web应用程序框架
  * [athena](https://github.com/blacksmoke16/athena) -具有内置参数转换功能的模块化，基于注释的，面向API的框架
- * [grip](https://github.com/grkek/grip) -基于JSON请求/响应模型的Kemal框架的面向类的派生
+ * [grip](https://github.com/grip-framework/grip) -基于JSON请求/响应模型的Kemal框架的面向类的派生
  * [kemal](https://github.com/kemalcr/kemal)  -快速，超级简单的Web框架.  受Sinatra启发
  * [lucky](https://github.com/luckyframework/lucky) -尽早发现错误，忘记大多数性能问题，并花更多时间在代码上，而不是调试和编写测试
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) -注重速度和可扩展性的Rails式Web框架

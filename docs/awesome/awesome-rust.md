@@ -4,7 +4,7 @@
 
 精选的Rust代码和资源列表.
 
-如果您想贡献，请阅读 [this](https://github.com/rust-unofficial/awesome-rust/blob/master/CONTRIBUTING.md).
+If you want to contribute, please read [this](https://github.com/rust-unofficial/awesome-rust/blob/master/CONTRIBUTING.md).
 
 
 
@@ -14,7 +14,7 @@
 
 * [alacritty](https://github.com/alacritty/alacritty) —跨平台，GPU增强的终端仿真器
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) —用锈写的交互式程序集外壳.
-* [andygrove/ballista](https://github.com/andygrove/ballista) — PoC of distributed compute platform using Rust, Apache Arrow, and Kubernetes!
+* [andygrove/ballista](https://github.com/andygrove/ballista) —使用Rust，Apache Arrow和Kubernetes的分布式计算平台的PoC！
 * [denoland/deno](https://github.com/denoland/deno) —使用V8，Rust和Tokio构建的安全JavaScript / TypeScript运行时 [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Kubernetes的超轻服务网格.
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) —通过在家庭Wifi路由器上阻止互联网访问，将屏幕显示时间限制在儿童的各种移动设备上.
@@ -154,14 +154,14 @@
 
 ### System tools
 
-* [dalance/procs](https://github.com/dalance/procs) — Rust编写的“ ps”的现代替代品 [![Build Status](https://api.travis-ci.org/dalance/procs.svg?branch=master)](https://travis-ci.org/dalance/procs)
+* [dalance/procs](https://github.com/dalance/procs) — A modern replacement for 'ps' written by Rust [![Build Status](https://api.travis-ci.org/dalance/procs.svg?branch=master)](https://travis-ci.org/dalance/procs)
 * [dust](https://github.com/bootandy/dust) -du的更直观的版本
 * [fselect](https://crates.io/crates/fselect) —使用类似SQL的查询查找文件 [<img src="https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master">](https://travis-ci.org/jhspetersson/fselect)
 * [k0pernicus/zou](https://github.com/k0pernicus/zou) —下载加速器
 * [mmstick/concurr](https://github.com/mmstick/concurr) —带有客户端-服务器体系结构的GNU Parallel的替代方案
 * [mmstick/fontfinder](https://github.com/mmstick/fontfinder) — GTK3应用程序，用于预览和安装Google的字体
 * [mmstick/parallel](https://github.com/mmstick/parallel) —重新实现GNU并行
-* [pop-os/debrep](https://github.com/pop-os/debrepbuild) — APT存储库工具，用于构建和管理APT回购
+* [pop-os/debrep](https://github.com/pop-os/debrepbuild) —用于构建和管理APT回购的APT储存库工具
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3和CLI实用程序，用于并行刷新多个USB设备
 * [Luminarys/synapse](https://github.com/Luminarys/synapse) —灵活，快速的BitTorrent守护程序. [![Build Status](https://api.travis-ci.org/Luminarys/synapse.svg?branch=master)](https://travis-ci.org/Luminarys/synapse)
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) —具有CLI工具的Linux电源管理守护程序（DBus接口）.
@@ -198,10 +198,10 @@
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) —一个命令行工具，可使用灵活的模式远程连接Amazon S3文件.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) —一个命令行工具，用于收集有关您的Amazon S3存储桶的元数据.
 * [whitfin/s3-utils](https://github.com/whitfin/s3-utils) —包含一个基于Amazon S3的实用程序的小工具，用于提供其他便利性API.
-* [gorros/s3-edit-rs](https://github.com/gorros/s3-edit-rs) -一个命令行工具，可直接在Amazon S3上编辑文件. 
-* [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) —用Rust编写的tmux手指的闪电般快速版本，复制/粘贴tmux，如vimium / vimperator.
-* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) —一个命令行工具，可通过使您与屏幕保持一定距离来帮助您管理工作站，并通过OPENCV锁定屏幕（当您不在时）锁定屏幕！
-* [guoxbin/dtool](https://github.com/guoxbin/dtool) -一个有用的命令行工具集合，以协助开发，包括转换，编解码器，哈希，加密等. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
+* [gorros/s3-edit-rs](https://github.com/gorros/s3-edit-rs) —一个命令行工具，可直接在Amazon S3上编辑文件. 
+* [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) —用Rust编写的tmux手指的闪电般快速版本，像vimium / vimperator一样复制/粘贴tmux.
+* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) —一种命令行工具，可通过使您与屏幕保持一定距离来帮助您管理工作站，并通过OPENCV在您不在时锁定屏幕！
+* [guoxbin/dtool](https://github.com/guoxbin/dtool) —一个有用的命令行工具集合，可协助开发，包括转换，编解码器，哈希，加密等. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
 
 ### Video
 
@@ -225,7 +225,7 @@
 
 * [clippy](https://crates.io/crates/clippy) -锈皮屑 [<img src="https://api.travis-ci.com/rust-lang/rust-clippy.svg?branch=master">](https://travis-ci.org/rust-lang/rust-clippy)
 * [frewsxcv/crate-deps](https://github.com/frewsxcv/crate-deps) —为crates.io上托管的板条箱生成依赖关系图的图像
-* [gstats](https://github.com/boonshift/gstats/) -用于在当前目录下打印所有git存储库的开发人员方便摘要的命令行工具
+* [gstats](https://github.com/boonshift/gstats/) —用于在当前目录下打印所有git存储库的开发人员方便摘要的命令行工具
 * [rust-lang/rustfix](https://github.com/rust-lang/rustfix)  —自动应用rustc的建议
 * [Module Linker](https://github.com/fiatjaf/module-linker) —扩展，可<a>在GitHub的`mod`，`use`和`extern crate`语句</a>中添加` <a>`链接到引用.</a>
 * [ptags](https://github.com/dalance/ptags) — git存储库的并行通用标签包装器 [![Build Status](https://api.travis-ci.org/dalance/ptags.svg?branch=master)](https://travis-ci.org/dalance/ptags)
@@ -242,7 +242,7 @@
   * [cargo-benchcmp](https://crates.io/crates/cargo-benchcmp) -用来比较Rust微基准的实用程序 [<img src="https://api.travis-ci.org/BurntSushi/cargo-benchcmp.svg?branch=master">](https://travis-ci.org/BurntSushi/cargo-benchcmp)
   * [cargo-bitbake](https://crates.io/crates/cargo-bitbake) -可以使用meta-rust中的类来生成BitBake食谱的商品扩展 [<img src="https://api.travis-ci.org/cardoe/cargo-bitbake.svg?branch=master">](https://travis-ci.org/cardoe/cargo-bitbake)
   * [cargo-cache](https://crates.io/crates/cargo-cache) —检查/管理/清理您的货物缓存（`〜/ .cargo /`/`$ {CARGO_HOME}`），打印尺寸等 [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions)
-  * [cargo-check](https://crates.io/crates/cargo-check) —围绕“ rustc货物”的包装器--Zno-trans，如果只需要正确性检查，则有助于运行更快的编译器 [<img src="https://api.travis-ci.org/rsolomo/cargo-check.svg?branch=master">](https://travis-ci.org/rsolomo/cargo-check)
+  * [cargo-check](https://crates.io/crates/cargo-check) —围绕“ rustc货物”的包装器--Zno-trans`，如果只需要正确性检查，则对于运行更快的编译很有帮助 [<img src="https://api.travis-ci.org/rsolomo/cargo-check.svg?branch=master">](https://travis-ci.org/rsolomo/cargo-check)
   * [cargo-count](https://crates.io/crates/cargo-count) —列出源代码计数和有关货运项目的详细信息，包括不安全的统计信息 [<img src="https://api.travis-ci.org/kbknapp/cargo-count.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-count)
   * [cargo-deb](https://crates.io/crates/cargo-deb) —生成二进制Debian软件包 [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
   * [cargo-deps](https://crates.io/crates/cargo-deps) —构建Rust项目的依赖图 [<img src="https://api.travis-ci.com/m-cat/cargo-deps.svg?branch=master">](https://travis-ci.org/m-cat/cargo-deps)
@@ -319,7 +319,7 @@
   * [Sean1708/rusty-cheddar](https://raw.githubusercontent.com/Sean1708/rusty-cheddar) —从Rust源文件生成C头文件 [<img src="https://api.travis-ci.org/Sean1708/rusty-cheddar.svg?branch=master">](https://travis-ci.org/Sean1708/rusty-cheddar)
 * C ++
   * [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) — Rust绑定生成器
-  * [dtolnay/cxx](https://raw.githubusercontent.com/dtolnay/cxx) -Rust和C ++之间的安全互操作 [<img src="https://api.travis-ci.com/dtolnay/cxx.svg?branch=master">](https://travis-ci.com/dtolnay/cxx)
+  * [dtolnay/cxx](https://raw.githubusercontent.com/dtolnay/cxx) — Rust与C ++之间的安全互操作 [<img src="https://api.travis-ci.com/dtolnay/cxx.svg?branch=master">](https://travis-ci.com/dtolnay/cxx)
 * Erlang
   * [rusterlium/rustler](https://raw.githubusercontent.com/rusterlium/rustler) —用于创建Erlang NIF函数的安全Rust桥 [<img src="https://api.travis-ci.org/rusterlium/rustler.svg?branch=master">](https://travis-ci.org/rusterlium/rustler)
 *哈斯克尔
@@ -386,7 +386,7 @@
     * [intellij-rust/intellij-rust](https://raw.githubusercontent.com/intellij-rust/intellij-rust) — [<img src="https://api.travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
     * [intellij-rust/intellij-toml](https://github.com/intellij-rust/intellij-toml) -基本的Toml支持
   * [Ride](https://raw.githubusercontent.com/madeso/ride) — [<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
-  * [SolidOak](https://github.com/oakes/SolidOak) — A simple IDE for Rust, based on GTK+ and [Neovim](https://github.com/neovim/neovim)
+  * [SolidOak](https://github.com/oakes/SolidOak) —基于GTK +和 [Neovim](https://github.com/neovim/neovim)
   * [Sublime Text](https://www.sublimetext.com/)
     * [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) —官方Rust包
     * [sublimehq/packages](https://github.com/sublimehq/Packages/tree/master/Rust) -本机Sublime支持（已安装）
@@ -410,7 +410,7 @@
 
 ### Profiling
 
-* [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) -基于统计的Rust基准测试库 [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
+* [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) — Rust的统计驱动的基准测试库 [![Build Status](https://api.travis-ci.org/bheisler/criterion.rs.svg?branch=master)](https://travis-ci.org/bheisler/criterion.rs)
 * [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) —命令行基准测试工具 [![Version info](https://img.shields.io/crates/v/hyperfine.svg)](https://crates.io/crates/hyperfine) [![Build Status](https://api.travis-ci.org/sharkdp/hyperfine.svg?branch=master)](https://travis-ci.org/sharkdp/hyperfine)
 * [koute/memory-profiler](https://github.com/koute/memory-profiler) — Linux的内存分析器 [![Build Status](https://api.travis-ci.org/koute/memory-profiler.svg?branch=master)](https://travis-ci.org/koute/memory-profiler)
 * FlameGraphs
@@ -551,7 +551,7 @@
   * [philippkeller/rexpect](https://raw.githubusercontent.com/philippkeller/rexpect) [[rexpect](https://crates.io/crates/rexpect)] —自动执行诸如ssh，ftp，passwd等的交互式应用程序 [<img src="https://api.travis-ci.org/philippkeller/rexpect.svg?branch=master">](https://travis-ci.org/philippkeller/rexpect)
 *进展
   * [mitsuhiko/indicatif](https://github.com/mitsuhiko/indicatif) [[indicatif](https://crates.io/crates/indicatif)]-向用户指示进度
-  * [a8m/pb](https://github.com/a8m/pb) [[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
+  * [a8m/pb](https://github.com/a8m/pb) [[pbr](https://crates.io/crates/pbr)]-Rust的控制台进度栏
   * [FGRibreau/spinners](https://github.com/FGRibreau/spinners) [[spinners](https://crates.io/crates/spinners)] — 60多个优雅的终端旋转器
 *提示
   * [hashmismatch/terminal_cli.rs](https://raw.githubusercontent.com/hashmismatch/terminal_cli.rs) [[terminal_cli](https://crates.io/crates/terminal_cli)] —构建交互式命令提示符 [<img src="https://api.travis-ci.org/hashmismatch/terminal_cli.rs.svg?branch=master">](https://travis-ci.org/hashmismatch/terminal_cli.rs)
@@ -611,7 +611,7 @@
   * [noshu/lbfgsb-sys](https://github.com/noshu/lbfgsb-sys) — fortran L-BFGS-B子例程的生锈绑定
 * 平行
   * [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://arrayfire.com/) 绑定
-  * [autumnai/collenchyma](https://raw.githubusercontent.com/autumnai/collenchyma) —一个可扩展的，可插入的，与后端无关的框架，用于CUDA，OpenCL和通用主机CPU上的并行高性能计算. [<img src="https://api.travis-ci.org/autumnai/collenchyma.svg?branch=master">](https://travis-ci.org/autumnai/collenchyma)
+  * [autumnai/collenchyma](https://raw.githubusercontent.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU. [<img src="https://api.travis-ci.org/autumnai/collenchyma.svg?branch=master">](https://travis-ci.org/autumnai/collenchyma)
   * [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) 绑定
 * Scirust
   * [indigits/scirust](https://github.com/indigits/scirust) — Rust中的科学计算库 [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
@@ -712,7 +712,7 @@
 * [contain-rs](https://github.com/contain-rs) — Rust的std :: collections的扩展
 * [mrhooray/kdtree-rs](https://github.com/mrhooray/kdtree-rs) — Rust中的K维树，用于快速地理空间索引和最近邻居查找
 * [pop-os/progress-streams](https://github.com/pop-os/progress-streams) —实现“ dyn io :: Read”或“ dyn io :: Write”的类型的进度回调.
-* [whitfin/usher](https://github.com/whitfin/usher) [[usher](https://crates.io/crates/usher)] — Rust中通用资源的参数化路由.
+* [whitfin/usher](https://github.com/whitfin/usher) [[usher](https://crates.io/crates/usher)] — Parameterized routing for generic resources in Rust.
 
 ### Data visualization
 
@@ -774,7 +774,7 @@
 * [FlatBuffers](https://google.github.io/flatbuffers/)
   * [frol/flatc-rust](https://raw.githubusercontent.com/frol/flatc-rust) —用于货物构建脚本的FlatBuffers编译器（flatc）集成 [<img src="https://api.travis-ci.org/frol/flatc-rust.svg?branch=master">](https://travis-ci.org/frol/flatc-rust)
 * EDN
-  * [naomijub/edn-rs](https://github.com/naomijub/edn-rs) -板条箱来解析并将EDN格式发出为Rust类型. [![Build Status](https://raw.githubusercontent.com/rust-unofficial/awesome-rust/master/ https://api.travis-ci.org/naomijub/edn-rs.svg?sanitize=true&branch=master)](https://travis-ci.org/naomijub/edn-rs)
+  * [naomijub/edn-rs](https://github.com/naomijub/edn-rs) —条板箱以解析并将EDN格式发出为Rust类型. [![Build Status](https://raw.githubusercontent.com/rust-unofficial/awesome-rust/master/ https://api.travis-ci.org/naomijub/edn-rs.svg?sanitize=true&branch=master)](https://travis-ci.org/naomijub/edn-rs)
 *有
   * [mandrean/har-rs](https://github.com/mandrean/har-rs) — HTTP存档格式（HAR）序列化和反序列化库 [![Build Status](https://api.travis-ci.org/mandrean/har-rs.svg?branch=master)](https://travis-ci.org/mandrean/har-rs)
 * HTML
@@ -870,7 +870,7 @@
 
 [[geo](https://crates.io/keywords/geo), [gis](https://crates.io/keywords/gis)]
 
-* [Georust](https://github.com/georust) — geospatial tools and libraries written in Rust
+* [Georust](https://github.com/georust) —用Rust编写的地理空间工具和库
 * [rust-reverse-geocoder](https://github.com/llambda/rrgeo) —受https://github.com/thampiman/reverse-geocoder的启发，Rust中的一种快速，离线的反向地理编码器
 
 ### Graphics
@@ -1070,7 +1070,7 @@
   * [nix-rust/nix](https://raw.githubusercontent.com/nix-rust/nix) —类似于Unix的API绑定 [<img src="https://api.travis-ci.org/nix-rust/nix.svg?branch=master">](https://travis-ci.org/nix-rust/nix)
   * [zargony/fuse-rs](https://github.com/zargony/fuse-rs) — [FUSE](https://github.com/libfuse/libfuse) 绑定
 * Windows
-  * [retep998/winapi-rs](https://raw.githubusercontent.com/retep998/winapi-rs) — Windows API bindings [<img src="https://api.travis-ci.org/retep998/winapi-rs.svg?branch=master">](https://travis-ci.org/retep998/winapi-rs)
+  * [retep998/winapi-rs](https://raw.githubusercontent.com/retep998/winapi-rs) — Windows API绑定 [<img src="https://api.travis-ci.org/retep998/winapi-rs.svg?branch=master">](https://travis-ci.org/retep998/winapi-rs)
 * FreeBSD
   * [fubarnetes/libjail-rs](https://github.com/fubarnetes/libjail-rs/) — FreeBSD监狱库的Rust实现
   * [dlrobertson/capsicum-rs](https://github.com/dlrobertson/capsicum-rs) — FreeBSD辣椒框架的Rust绑定
@@ -1096,7 +1096,7 @@
   * [kaj/ructe](https://raw.githubusercontent.com/kaj/ructe) — Rust的HTML模板系统 [<img src="https://api.travis-ci.org/kaj/ructe.svg?branch=master">](https://travis-ci.org/kaj/ructe)
   * [Keats/tera](https://github.com/Keats/tera) —基于Jinja2和Django模板语言的模板引擎. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
   * [djc/askama](https://raw.githubusercontent.com/djc/askama) —基于Jinja的模板渲染引擎 [<img src="https://api.travis-ci.org/djc/askama.svg?branch=master">](https://travis-ci.org/djc/askama)
-  * [naomijub/hiccup](https://github.com/naomijub/hiccup) -Clojure的打ic启发的模板引擎. [![Build Status](https://api.travis-ci.org/naomijub/hiccup.svg?branch=master)](https://travis-ci.org/naomijub/hiccup)
+  * [naomijub/hiccup](https://github.com/naomijub/hiccup) —由Clojure的打in产生的模板引擎. [![Build Status](https://api.travis-ci.org/naomijub/hiccup.svg?branch=master)](https://travis-ci.org/naomijub/hiccup)
 *小胡子
   * [rustache/rustache](https://raw.githubusercontent.com/rustache/rustache) — [<img src="https://api.travis-ci.org/rustache/rustache.svg?branch=master">](https://travis-ci.org/rustache/rustache)
 * [tailhook/marafet](https://github.com/tailhook/marafet) —面向Jade的模板语言到基于cito.js的虚拟dom的编译器
@@ -1126,7 +1126,7 @@
 也可以看看 [Are we web yet?](http://www.arewewebyet.org) 和 [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison).
 
 *客户端/ WASM
-  * [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web [![Build Status](https://api.travis-ci.org/koute/cargo-web.svg?branch=master)](https://travis-ci.org/koute/cargo-web)
+  * [cargo-web](https://crates.io/crates/cargo-web) —客户端Web的Cargo子命令 [![Build Status](https://api.travis-ci.org/koute/cargo-web.svg?branch=master)](https://travis-ci.org/koute/cargo-web)
   * [seed](https://seed-rs.org/) —用于创建Web应用程序的Rust框架
   * [stdweb](https://crates.io/crates/stdweb) —客户端Web的标准库 [![Build Status](https://api.travis-ci.org/koute/stdweb.svg?branch=master)](https://travis-ci.org/koute/stdweb)
   * [yew](https://crates.io/crates/yew) —用于制作客户端Web应用程序的Rust框架
@@ -1150,7 +1150,7 @@
   * [Rocket](https://raw.githubusercontent.com/SergioBenitez/Rocket) —火箭是Rust的Web框架（每晚），重点是易用性，可表达性和速度 [<img src="https://api.travis-ci.org/SergioBenitez/Rocket.svg?branch=master">](https://travis-ci.org/SergioBenitez/Rocket)
   * [Rustless](https://raw.githubusercontent.com/rustless/rustless) —受REST启发的类似REST的API微框架 [Grape](https://raw.githubusercontent.com/ruby-grape/grape) 和 [Hyper](https://raw.githubusercontent.com/hyperium/hyper) [<img src="https://api.travis-ci.org/rustless/rustless.svg?branch=master">](https://travis-ci.org/rustless/rustless)
   * [Saphir](https://github.com/richerarc/saphir) —具有低级控制权的渐进式Web框架，轻松自如.
-  * [daogangtang/sapper](https://raw.githubusercontent.com/daogangtang/sapper) —一个轻量级的Web框架，它以Rust语言实现，它基于异步hyper构建. [<img src="https://api.travis-ci.org/daogangtang/sapper.svg?branch=master">](https://travis-ci.org/daogangtang/sapper)
+  * [daogangtang/sapper](https://raw.githubusercontent.com/daogangtang/sapper) — A lightweight web framework built on async hyper, implemented in Rust language. [<img src="https://api.travis-ci.org/daogangtang/sapper.svg?branch=master">](https://travis-ci.org/daogangtang/sapper)
   * [tiny-http](https://raw.githubusercontent.com/tiny-http/tiny-http) —低级HTTP服务器库 [<img src="https://api.travis-ci.org/tiny-http/tiny-http.svg?branch=master">](https://travis-ci.org/tiny-http/tiny-http)
   * [tomaka/rouille](https://raw.githubusercontent.com/tomaka/rouille) — Rust中的Web框架 [<img src="https://api.travis-ci.org/tomaka/rouille.svg?branch=master">](https://travis-ci.org/tomaka/rouille)
   * [carllerche/tower-web](https://raw.githubusercontent.com/carllerche/tower-web) [[tower-web](https://crates.io/crates/tower-web)] —用于Rust的快速，无样板的Web框架 [<img src="https://api.travis-ci.org/carllerche/tower-web.svg?branch=master">](https://travis-ci.org/carllerche/tower-web)
@@ -1196,7 +1196,7 @@
   * [Rust: Hack Without Fear!](https://www.youtube.com/watch?v=lO1z-7cuRYI) —提出者 [Nicholas Matsakis](https://github.com/nikomatsakis) @ C ++现在2018
 *学习
   * [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) —编程社区投票推荐的推荐资源列表.
-  * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) -乐于助人的Rust导师清单，他们愿意接受受训者并对他们进行Rust和编程方面的教育.
+  * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) —乐于助人的Rust导师清单，他们愿意接受受训者并对他们进行Rust和编程方面的教育.
   * [exercism.io](https://exercism.io/tracks/rust) —编程练习，可帮助您学习Rust中的新概念.
   * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) —教了惯用的Rust的经过同行评审的文章/演讲/回购合集.
   * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) —通过实现几种不同类型的列表结构，深入探索Rust的内存管理规则.

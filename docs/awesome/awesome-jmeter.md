@@ -137,7 +137,7 @@
   -DigitalOcean
     - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) -使用DigitalOcean，JMeter和Docker构建自己的JMeter Cloud.
   -Microsoft Azure
-    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) -可扩展的云负载/压力测试管道解决方案，使用Apache JMeter和Terraform来动态配置和销毁Azure上所需的基础结构.
+    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) -使用Apache JMeter和Terraform的可扩展云负载/压力测试管道解决方案，可在Azure上动态配置和销毁所需的基础结构.
 
 ## Cloud Services / SaaS
 
@@ -314,7 +314,8 @@
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) -JMeterExpert博客*（没有更多更新）*.
 
 ### Forums
-
+- [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
+- [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
 - [JMeter Nabble Forum](http://www.jmeter-archive.org/)
 - [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
 - [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) -Software-Testing.ru *（俄语）*的讨论板.

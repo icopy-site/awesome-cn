@@ -41,7 +41,7 @@
 - [SmartMirror](https://github.com/evancohen/smart-mirror) -声控智能镜.
 - [Koko](https://github.com/hachibasu/koko) -IRC客户.
 - [KeeWeb](https://github.com/keeweb/keeweb) -非官方的KeePass应用.
-- [Gitify](https://github.com/ekonstantinidis/gitify) -菜单栏中的GitHub通知.
+- [Gitify](https://github.com/manosim/gitify) -菜单栏中的GitHub通知.
 - [Friends](https://github.com/moose-team/friends) -P2P聊天.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) -菜单栏中的SoundCloud播放器.
 - [Kitematic](https://github.com/docker/kitematic) -Docker容器管理.
@@ -141,7 +141,7 @@
 - [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia](https://github.com/getinsomnia/insomnia) -创建和管理HTTP请求.
 - [Tusk](https://github.com/champloohq/tusk) -非官方的Evernote应用.
-- [ProtonMail Desktop](https://github.com/protonmail-desktop/application) -非官方的ProtonMail应用程序.
+- [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) -CSV编辑器.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) -密码管理器.
 - [Mailspring](https://github.com/Foundry376/Mailspring)  -可扩展的电子邮件客户端.  （尼拉斯邮件叉）
@@ -306,6 +306,7 @@
 - [adblocker-electron](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) -屏蔽广告和跟踪器.
 - [electronmon](https://github.com/catdad/electronmon) -在开发过程中监视和重新加载应用程序.
 - [electron-create-menu](https://github.com/kilian/electron-create-menu) -所有平台的默认菜单，易于扩展，并支持i18n.
+- [electronegativity](https://github.com/doyensec/electronegativity) -识别配置错误和安全反模式.
 
 ### Using Electron
 
@@ -318,7 +319,7 @@
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) -在Electron中运行Mocha测试.
 - [electron-har](https://github.com/shyiko/electron-har) -用于生成HTTP存档（HAR）的命令行工具.
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) -将Electron应用程序转换为Windows Store AppX软件包.
-- [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
+- [Reactotron](https://github.com/reactotron/reactotron) -检查您的React和React Native应用程序.
 - [jest-electron](https://github.com/hustcc/jest-electron) -在浏览器环境中运行和调试Jest单元测试.
 
 ## Components

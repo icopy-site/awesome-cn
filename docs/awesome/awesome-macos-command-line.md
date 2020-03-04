@@ -4,18 +4,18 @@
 
 &gt;专门针对OS X的Shell命令和工具的精选列表.
 >
- &gt; _“您不必了解所有内容.  您只需要知道在必要时在哪里可以找到它.”（John Brunner）_
+ &gt; _“您不必一无所知.  您只需要知道在必要时在哪里可以找到它.”  （约翰·布鲁纳）_
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/herrbischoff/awesome-macos-command-line.svg?branch=master)](https://travis-ci.org/herrbischoff/awesome-macos-command-line)
 
- 如果您想做出贡献，强烈建议您这样做.  请阅读 [contribution guidelines](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/contributing.md).
+ 如果您想捐款，我们强烈建议您捐款.  请阅读 [contribution guidelines](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/contributing.md).
 
 有关终端外壳的更多信息，请参见此列表的姐妹列表 [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps).
 
 
 ## Caffeinating
 
- 如果您在这里找到有用的东西，可以给我买杯咖啡.  我花了很多时间和精力来整理这份清单.  让我保持适当的咖啡因会加速事情的发展.  这真的会让我开心.  陌生人之类的善良.  如果您不能或不愿意，那就没有难过的感觉.  由于某种原因，它是完全免费的.  尽管如此，那还是很棒的.
+ 如果您在这里找到有用的东西，可以给我买杯咖啡.  我花了很多时间和精力来整理这份清单.  让我保持适当的咖啡因会加速事情的发展.  这真的会让我开心.  陌生人之类的善良.  如果您不能或不愿意，那就没有难过的感觉.  完全免费是有原因的.  尽管如此，那还是很棒的.
 
 <a href="https://www.buymeacoffee.com/Oi5LPJ4lr" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
@@ -42,7 +42,7 @@
 #### Set Wallpaper
 ```bash
 ## Up to Mountain Lion
-osascript -e&#39;告诉应用程序“ Finder”将桌面图片设置为POSIX文件“ /path/to/picture.jpg”&#39;
+osascript -e&#39;告诉应用程序“ Finder”将桌面图片设置为POSIX文件“ /path/to/picture.jpg”
 
 ## Since Mavericks
 sqlite3〜/ Library / Application \ Support / Dock / desktoppicture.db“更新数据集值=&#39;/path/to/picture.jpg&#39;” &amp;&amp; killall Dock
@@ -93,10 +93,10 @@ sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/k
 #### Enable and Disable Remote Desktop Sharing
 ```bash
 ## Allow Access for All Users and Give All Users Full Access
-须藤/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -configure -allowAccessFor -allUsers -privs -all
+sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -configure -allowAccessFor -allUsers -privs -all
 
 ## Disable ARD Agent and Remove Access Privileges for All Users
-sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -configure -access -off
+sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart-停用-配置-访问-关闭
 ```
 
 #### Remove Apple Remote Desktop Settings
@@ -105,7 +105,7 @@ sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resourc
  sudo默认删除/Library/Preferences/com.apple.RemoteDesktop.plist;  \
  默认为delete〜/ Library / Preferences / com.apple.RemoteDesktop.plist;  \
  sudo rm -r / Library / Application \ Support / Apple / Remote \ Desktop /;  \
- rm -r〜/ Library / Application \ Support / Remote \ Desktop /;  \
+ rm -r〜/ Library / Application \ Support / Remote \ Desktop /  \
 rm -r〜/ Library / Containers / com.apple.RemoteDesktop
 ```
 
@@ -157,7 +157,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 ```applescript
 (*
 通过清除信封索引来加速Mail.app
-来自以下网址的代码：http：//web.archive.org/web/20071008123746/http：//www.hawkwings.net/2007/03/03/scripts-to-automate-the-mailapp-envelope-speed-trick/
+代码来自：http://web.archive.org/web/20071008123746/http://www.hawkwings.net/2007/03/03/scripts-to-automate-the-mailapp-envelope-speed-trick/
 最初由“ pmbuko”修改，由Romulo修改
 由Brett Terpstra更新于2012
 由MathiasTörnblom2015更新，以支持El Capitan中的V3，并且仍保持向后兼容性
@@ -177,7 +177,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 设置sizeBefore做外壳程序脚本“ ls -lnah〜/ Library / Mail /”＆mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
 做shell脚本“ / usr / bin / sqlite3〜/ Library / Mail /”和mail_version和“ / MailData / Envelope \\ Index vacuum”
 
-设置sizeAfter做外壳程序脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;打印$ 5&#39;}”
+设置sizeAfter做shell脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
 
 显示对话框（“之前的邮件索引：”＆sizeBefore＆return＆“之后的邮件索引：”＆sizeAfter＆return＆return＆“享受新速度！”）
 
@@ -188,7 +188,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 
 #### Change Default Fonts
 ```bash
-默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2StandardFontFamily Georgia
+默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2StandardFontFamily乔治亚
 默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFontSize 16
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2FixedFontFamily Menlo
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFixedFontSize 14
@@ -215,7 +215,7 @@ osascript -e&#39;告诉应用程序“ Safari”以获取前窗当前选项卡�
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool是
 
 ## Disable
-默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool否
+默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool否
 ```
 
 ### Sketch
@@ -247,7 +247,7 @@ osascript -e&#39;告诉应用程序“ Safari”以获取前窗当前选项卡�
 
 #### Use Plain Text Mode as Default
 ```bash
-defaults write com.apple.TextEdit RichText -int 0
+默认写com.apple.TextEdit RichText -int 0
 ```
 
 ### Visual Studio Code
@@ -262,9 +262,9 @@ defaults write com.apple.TextEdit RichText -int 0
 ### Time Machine
 
 #### Change Backup Interval
- 这会将间隔更改为30分钟.  整数值是以秒为单位的时间.
+ 这将间隔更改为30分钟.  整数值是以秒为单位的时间.
 ```bash
-sudo默认写入/System/Library/LaunchDaemons/com.apple.backupd-auto StartInterval -int 1800
+sudo默认写/System/Library/LaunchDaemons/com.apple.backupd-auto StartInterval -int 1800
 ```
 
 #### Local Backups
@@ -313,7 +313,7 @@ start =“ $（date -j -v-12H +&#39;％Y-％m-％d％H：％M：％S&#39;）”
 #### Toggle Backup While on Battery
 ```bash
 ## Status
-sudo默认阅读/Library/Preferences/com.apple.TimeMachine需要ACPower
+sudo默认值读取/Library/Preferences/com.apple.TimeMachine需要ACPower
 
 ## Enable (Default)
 sudo默认写入/Library/Preferences/com.apple.TimeMachine RequiresACPower -bool true
@@ -323,9 +323,9 @@ sudo默认写入/Library/Preferences/com.apple.TimeMachine要求ACPower -bool fa
 ```
 
 #### Verify Backup
- 从OS X 10.11开始，Time Machine记录复制到快照中的文件的校验和.  对于由早期版本的OS X复制的文件，不会追溯计算校验和.
+ 从OS X 10.11开始，Time Machine记录复制到快照中的文件的校验和.  对于OS X早期版本复制的文件，不会追溯计算校验和.
 ```bash
-sudo tmutil verifychecksums /路径/到/备份
+须藤tmutil verifychecksums / path / to / backup
 ```
 
 ## Developer
@@ -333,7 +333,7 @@ sudo tmutil verifychecksums /路径/到/备份
 ### Vim
 
 #### Compile Sane Vim
-通过Homebrew编译MacVim的所有代码，包括覆盖系统Vim.
+通过Homebrew编译MacVim，并使用所有功能，包括覆盖系统Vim.
 ```bash
 brew install macvim --HEAD
 ```
@@ -367,7 +367,7 @@ xcrun simctl删除不可用
 
 #### Add a Nameless Stack Folder and Small Spacer
 ```bash
- 默认写com.apple.dock持久其他-array-add&#39;{“ tile-data” = {};  “ tile-type” =“小垫片-瓷砖”;  }&#39;&amp;&amp; \
+ 默认写com.apple.dock持久其他-array-add&#39;{“ tile-data” = {};  “ tile-type” =“小间隔片-tile”;  }&#39;&amp;&amp; \
 杀人码头
 ```
 
@@ -402,12 +402,12 @@ bash
 杀人码头
 
 ## Disable (Default)
-默认写com.apple.dock autohide -bool false &amp;&amp; \
+defaults write com.apple.dock autohide -bool false && \
 杀人码头
 ```
 
 #### Icon Bounce
-全局设置当相应的应用程序需要您关注时，是否应停靠Dock图标.
+全局设置当相应的应用程序需要您注意时，是否应停靠Dock图标.
 ```bash
 ## Enable (Default)
 默认写com.apple.dock不反弹-bool true &amp;&amp; \
@@ -421,11 +421,11 @@ bash
 #### Lock the Dock Size
 ```bash
 ## Enable
-默认写com.apple.Dock大小不可变-bool是&amp;&amp; \
+默认写com.apple.Dock大小不可变-bool yes &amp;&amp; \
 杀人码头
 
 ## Disable (Default)
-默认写com.apple.Dock大小不可变-bool否&amp;&amp; \
+默认写入com.apple.Dock大小不可变-bool否&amp;&amp; \
 杀人码头
 ```
 
@@ -510,13 +510,13 @@ textutil-转换html file.ext
 ## Files, Disks and Volumes
 
 #### Create an Empty File
-创建一个空的10 GB测试文件.
+Creates an empty 10 gigabyte test file.
 ```bash
 mkfile 10g / path / to / file
 ```
 
 #### Disable Sudden Motion Sensor
-使用SSD时，将其保持打开状态是没有用的.
+使用SSD时，保持开启状态是没有用的.
 ```bash
 须藤pmset -a sms 0
 ```
@@ -579,7 +579,7 @@ tmutil deletelocalsnapshots com.apple.TimeMachine.2018-01-26-044042
 
 #### List Snapshots
 ```bash
-tmutil listlocals快照
+tmutil listlocals快照/
 ```
 
 #### Mount Snapshot
@@ -595,7 +595,7 @@ mkdir〜/ mnt
 hdiutil create -volname“卷名” -srcfolder / path / to / folder -ov diskimage.dmg
 ```
 
-如果要加密磁盘映像：
+如果您想加密磁盘映像：
 ```bash
 hdiutil create -encryption -stdinpass -volname“卷名” -srcfolder / path / to / folder -ov crypto.dmg
 ```
@@ -660,7 +660,7 @@ Killall搜寻器
 内置HD或SSD.
 ```bash
 ## Enable
-默认写com.apple.finder ShowHardDrivesOnDesktop -bool true &amp;&amp; \
+默认值写com.apple.finder ShowHardDrivesOnDesktop -bool true &amp;&amp; \
 Killall搜寻器
 
 ## Disable (Default)
@@ -672,7 +672,7 @@ Killall搜寻器
 CD，DVD，iPod等
 ```bash
 ## Enable
-默认写com.apple.finder ShowRemovableMediaOnDesktop -bool true &amp;&amp; \
+默认值写com.apple.finder ShowRemovableMediaOnDesktop -bool true &amp;&amp; \
 Killall搜寻器
 
 ## Disable (Default)
@@ -741,7 +741,7 @@ Killall搜寻器
 ### Layout
 
 #### Show "Quit Finder" Menu Item
-可以使用默认的快捷键<kbd>Cmd</kbd> + <kbd>Q</kbd>来查看Finder菜单项“ Quit Finder”.
+通过默认快捷键<kbd>Cmd</kbd> + <kbd>Q</kbd>可以查看Finder菜单项“ Quit Finder”.
 ```bash
 ## Enable
 默认写com.apple.finder QuitMenuItem -bool true &amp;&amp; \
@@ -846,7 +846,7 @@ Killall搜寻器
 #### Disable Creation of Metadata Files on USB Volumes
 避免创建.DS_Store和AppleDouble文件.
 ```bash
-默认写入com.apple.desktopservices DSntWriteUSBStores -bool true
+默认写com.apple.desktopservices DSntWriteUSBStores -bool true
 ```
 
 ### Opening Things
@@ -854,7 +854,7 @@ Killall搜寻器
 #### Change Working Directory to Finder Path
 如果打开了多个窗口，它将选择最上面的一个.
 ```bash
-cd“ $（osascript -e&#39;tell app“ Finder”到（插入位置作为别名的）POSIX路径&#39;）”
+cd“ $（osascript -e&#39;tell app” Finder“到（插入位置作为别名的）POSIX路径&#39;）”
 ```
 
 #### Open URL
@@ -895,7 +895,7 @@ atsutil服务器-ping
 ```
 
 #### Get SF Mono Fonts
- 您需要下载并安装Xcode 8 beta才能正常工作.  之后，它们应该在所有应用程序中可用.
+ 您需要下载并安装Xcode 8 beta才能正常工作.  之后，它们应在所有应用程序中可用.
 ```bash
 cp -v /Applications/Xcode-beta.app/Contents/SharedFrameworks/DVTKit.framework/Versions/A/Resources/Fonts/SFMono-*〜/ Library / Fonts
 ```
@@ -905,14 +905,14 @@ cp -v /Applications/Xcode-beta.app/Contents/SharedFrameworks/DVTKit.framework/Ve
 cp -v /应用程序/实用程序/Terminal.app/内容/资源/字体/ SFMono- *〜/库/字体
 ```
 
-从Catalina开始，Utilities应用程序（包括Terminal.app）现在位于“ / System”文件夹中.
+从Catalina开始，现在在/ System文件夹中找到实用工具应用程序（包括Terminal.app）.
 ```bash
 cp -v /系统/应用程序/实用程序/Terminal.app/内容/资源/字体/ SFMono- *〜/库/字体
 ```
 
 ## Functions
 
-请参阅 [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/functions.md).
+Please see [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/functions.md).
 
 
 ## Hardware
@@ -928,7 +928,7 @@ sudo默认写入/Library/Preferences/com.apple.Bluetooth ControllerPowerState -i
 
 ## Disable
 sudo默认写入/Library/Preferences/com.apple.Bluetooth ControllerPowerState -int 0 &amp;&amp; \
-须藤killall -HUP蓝色
+须藤killall -HUP变蓝
 ```
 
 ### Harddisks
@@ -953,7 +953,7 @@ networksetup -listall硬件端口
 
 #### Remaining Battery Time
 ```bash
-pmset -g batt | egrep "([0-9]+\%).*" -o --colour=auto | cut -f3 -d';'
+ pmset -g batt |  egrep“（[[0-9] + \％）.*” -o --colour = auto |  切-f3 -d&#39;;&#39;
 ```
 
 #### Show Connected Device's UDID
@@ -1077,7 +1077,7 @@ sudo systemsetup -setrestartfreeze在
 ```
 
 #### Key Repeat Rate
-设置非常快的重复率，以适应口味.
+设置非常快的重复率，调整以适应口味.
 ```bash
 默认写-g KeyRepeat -int 0.02
 ```
@@ -1127,14 +1127,33 @@ osascript -e&#39;设置音量4&#39;
 ```
 
 #### Play Audio File
-您可以播放QuickTime本身支持的所有音频格式.
+您可以播放QuickTime本机支持的所有音频格式.
 ```bash
-afplay -q 1文件名.mp3
+afplay -q 1 filename.mp3
 ```
 
 #### Speak Text with System Default Voice
 ```bash
 说“您的所有基地都属于我们！”
+```
+
+#### Startup Chime
+较旧的Mac：
+```bash
+## Enable (Default)
+sudo nvram BootAudio =％01
+
+## Disable
+sudo nvram BootAudio =％00
+```
+
+从2016年型号开始：
+```bash
+## Enable
+sudo nvram StartupMute =％00
+
+## Disable (Default)
+sudo nvram StartupMute =％01
 ```
 
 ### Video
@@ -1183,7 +1202,7 @@ sudo dscacheutil -flushcache &amp;&amp; \
 #### Set Computer Name/Host Name
 ```bash
 sudo scutil --set ComputerName“ newhostname” &amp;&amp; \
-sudo scutil --set主机名“ newhostname” &amp;&amp; \
+sudo scutil --set HostName“ newhostname” &amp;&amp; \
 sudo scutil --set LocalHostName“ newhostname” &amp;&amp; \
 sudo默认写/Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string“ newhostname”
 ```
@@ -1322,7 +1341,7 @@ ipconfig getifaddr zh-CN0
 
 ## Package Managers
 
-- [Fink](http://www.finkproject.org)  -用于Darwin的Unix开源软件的完整世界.  有点过时了.
+- [Fink](http://www.finkproject.org)  -达尔文的Unix开源软件的完整领域.  有点过时了.
 - [Homebrew](https://brew.sh) -缺少OS X的软件包管理器.最受欢迎的选择.
 - [MacPorts](https://www.macports.org)  -编译，安装和升级命令行，基于X11或Aqua的开源软件.  很干净，这就是我用的.
 
@@ -1388,13 +1407,13 @@ spctl-删除/path/to/Application.app
 ```
 
 #### Manage Gatekeeper
-对于令人讨厌的Catalina系统弹出窗口阻止非签名应用程序执行尤其有用.
+对于讨厌的Catalina系统弹出窗口阻止非签名应用程序执行特别有用.
 ```bash
 ## Status
 spctl-状态
 
 ## Enable (Default)
-sudo spctl --master-启用
+sudo spctl --master启用
 
 ## Disable
 sudo spctl --master-禁用
@@ -1452,7 +1471,7 @@ defaults read com.apple.screensaver askForPassword
 ### Wiping Data
 
  注意：在Mac OS 10.9之后，似乎已删除了srm命令.  有一个关于 [Apple support page](https://support.apple.com/en-us/HT201949) 暗示原因：
- &gt;对于SSD驱动器，“磁盘工具”中不提供“安全擦除”和“擦除可用空间”.  SSD驱动器不需要这些选项，因为标准擦除使其很难从SSD恢复数据.
+ &gt;对于SSD驱动器，“磁盘工具”中不提供安全擦除和擦除可用空间.  SSD驱动器不需要这些选项，因为标准擦除使其很难从SSD恢复数据.
 
 #### Securely Remove File
 ```bash
@@ -1487,7 +1506,7 @@ sudo launchctl加载-w /System/Library/LaunchDaemons/com.apple.locate.plist
 ```
 
 #### Search via Locate
--i修饰符使搜索不区分大小写.
+-i修饰符使搜索大小写不敏感.
 ```bash
 定位-i * .jpg
 ```
@@ -1577,7 +1596,7 @@ pbpaste&gt; what.txt
 ```
 
 ```bash
- pbpaste |  排序|  uniq |  pbcopy
+ pbpaste |  排序  uniq |  pbcopy
 ```
 
 ### FileVault
@@ -1650,7 +1669,7 @@ sudo kextunload -b com.apple.driver.ExampleBundle
 
 ### LaunchAgents
 
-请参阅 [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/launchagents.md).
+Please see [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/launchagents.md).
 
 
 ### LaunchServices
@@ -1739,7 +1758,7 @@ sudo nvram boot-args =“”
 ```
 
 ### Save Dialogs
-大大改善了保存对话框中现在比较慢的动画.
+大大改善了保存对话框中现在相当慢的动画.
 ```bash
 默认写入NSGlobalDomain NSWindowResizeTime .001
 ```
@@ -1810,7 +1829,7 @@ sudo softwareupdate-列表
 ```
 
 #### Set Software Update Server
- 仅应出于测试目的或不受管理的客户端执行此操作.  要在整个网络范围内使用，请正确设置DNS以及 [Apple SUS service](http://krypted.com/mac-security/using-the-software-update-service-on-mountain-lion-server/)  并通过OpenDirectory绑定您的客户.  或者，使用 [Reposado](https://github.com/wdas/reposado) 加上正确的网络DNS设置以使解析透明. [Margarita](https://github.com/jessepeterson/margarita) 看起来也不错.
+ 仅应出于测试目的或不受管理的客户端执行此操作.  要在整个网络范围内使用，请正确设置DNS以及 [Apple SUS service](http://krypted.com/mac-security/using-the-software-update-service-on-mountain-lion-server/)  并通过OpenDirectory绑定您的客户.  或者，使用 [Reposado](https://github.com/wdas/reposado) together with correct network DNS settings to make resolution transparent. [Margarita](https://github.com/jessepeterson/margarita) 看起来也不错.
 ```bash
 ## Use own SUS
 sudo默认值写入/Library/Preferences/com.apple.SoftwareUpdate CatalogURL http://su.example.com:8088/index.sucatalog
@@ -1844,7 +1863,7 @@ mdutil -E /路径/到/卷
 
 #### Search via Spotlight
 ```bash
-mdfind -name&#39;searchterm&#39;
+mdfind -name&#39;搜索词&#39;
 ```
 
 #### Show Spotlight Indexed Metadata
@@ -1855,13 +1874,13 @@ mdls /路径/到/文件
 ### System Integrity Protection
 
 #### Disable System Integrity Protection
-按住<kbd>Cmd</kbd> + <kbd>R</kbd>重启，打开终端应用程序，然后输入：
+在按住<kbd>Cmd</kbd> + <kbd>R的</kbd>同时重新启动，打开终端应用程序，然后输入：
 ```bash
 csrutil禁用&amp;&amp;重新启动
 ```
 
 #### Enable System Integrity Protection
-按住<kbd>Cmd</kbd> + <kbd>R</kbd>重启，打开终端应用程序，然后输入：
+在按住<kbd>Cmd</kbd> + <kbd>R的</kbd>同时重新启动，打开终端应用程序，然后输入：
 ```bash
 csrutil启用&amp;&amp;重新启动
 ```
@@ -1916,7 +1935,7 @@ chsh -s $（brew --prefix）/ bin / bash
 ```
 
 - [Homepage](https://www.gnu.org/software/bash/) -OS X和大多数其他基于Unix的操作系统的默认外壳.
-- [Bash-it](https://github.com/Bash-it/bash-it) -社区Bash框架，例如Bash的Oh My Zsh.
+- [Bash-it](https://github.com/Bash-it/bash-it) -社区Bash框架，例如Oh My Zsh for Bash.
 
 #### fish
 安装最新版本并设置为当前用户的默认外壳程序：
@@ -1942,7 +1961,7 @@ chsh -s $（brew --prefix）/ bin / zsh
 - [Homepage](http://www.zsh.org) -Zsh是一种设计用于交互式使用的外壳程序，尽管它也是一种功能强大的脚本语言.
 - [Oh My Zsh](http://ohmyz.sh) -用于管理Zsh配置的开源，社区驱动的框架.
 - [Prezto](https://github.com/sorin-ionescu/prezto)  -快速的Zsh框架.  通过合理的默认值，别名，函数，自动完成和提示主题来丰富命令行界面环境.
-- [zgen](https://github.com/tarjoilija/zgen)  -另一个用于管理zsh配置的开源框架.  Zgen将加载与oh-my-zsh兼容的插件和主题，并具有更快和自动克隆配置中使用的所有插件的优势.
+- [zgen](https://github.com/tarjoilija/zgen)  -另一个用于管理zsh配置的开源框架.  Zgen将加载oh-my-zsh兼容的插件和主题，并具有更快和自动克隆配置中使用的所有插件的优势.
 
 ### Terminal Fonts
 
@@ -1950,10 +1969,10 @@ chsh -s $（brew --prefix）/ bin / zsh
 - [Codeface](https://github.com/chrissimpkins/codeface) -供开发人员使用的等距字体的库和存储库.
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/) -基于Vera字体的字体家族.
 - [Hack](http://sourcefoundry.org/hack/) -Hack经过手工修饰，并在视觉上保持平衡，可以成为您首选的代码.
-- [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -等宽字体，设计用于代码清单等.
-- [Input](http://input.fontbureau.com) -专为代码设计的灵活字体系统.
+- [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -用于代码清单等的等宽字体.
+- [Input](http://input.fontbureau.com) -专门为代码设计的灵活字体系统.
 - [Meslo](https://github.com/andreberg/Meslo-Font) -Apple的Menlo字体的自定义版本.
-- [Operator Mono](https://www.typography.com/fonts/operator/overview/) -等宽字体（商业）的一种令人惊讶的可用替代方法.
+- [Operator Mono](https://www.typography.com/fonts/operator/overview/) -对等宽字体（商业）的一种令人惊讶地有用的替代选择.
 - [Powerline Fonts](https://github.com/powerline/fonts) -Powerline插件的修补字体回购.
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) -用于用户界面和编码环境的等宽字体系列.
 
@@ -1980,8 +1999,8 @@ chsh -s $（brew --prefix）/ bin / zsh
  OS X 10.9 |  小牛|  2013年10月22日|  10.9.5（13F1112）（2014年9月18日）
  OS X 10.10 |  优胜美地  2014年10月16日|  10.10.5（14F27）（2015年8月13日）
  OS X 10.11 |  埃尔卡皮坦|  2015年9月30日|  10.11.6（15G31）（2016年7月18日）
- macOS 10.12 |  塞拉利昂|  2016年9月20日|  10.12.6（16G29）（2017年7月19日）
- macOS 10.13 |  高塞拉利昂|  2017年9月25日|  10.13.6（17G65）（2018年7月9日）
+ macOS 10.12 |  塞拉利昂  2016年9月20日|  10.12.6（16G29）（2017年7月19日）
+ macOS 10.13 |  高山脉  2017年9月25日|  10.13.6（17G65）（2018年7月9日）
  macOS 10.14 |  莫哈韦沙漠|  2018年9月24日|  10.14（18A391）（2018年9月24日）
  macOS 10.15 |  卡塔琳娜|  2019年10月7日|  10.15.0（19A602）（2019年10月15日）
 

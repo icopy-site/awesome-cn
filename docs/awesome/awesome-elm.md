@@ -94,7 +94,7 @@
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) -构建您的第一个Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) -关于榆木的五部分教程.
 * [Elm FAQ](http://faq.elm-community.org/) -来自的榆木常见问题解答 [Elm Community](http://elm-community.org/).
-* [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) -有关在Elm中构建应用程序的教程，从身份验证到调用API.
+* [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - A tutorial on building an app in Elm from authentication to calling an API.
 
 
 
@@ -138,12 +138,12 @@
 * [Elm Europe 2019](https://www.youtube.com/playlist?list=PL-cYi7I913S_oRLJEpsVbSTq_OOMSXlPD) - Jun 2019
 * [Elm in the Spring 2019](https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ) - Jun 2019
 * [Oslo Elm Day 2019](https://www.youtube.com/playlist?list=PLcAzxXzXQlPbalOfueVbHCRSo26ksIXiF) -2019年2月
-* [Elm Conf 2018](https://www.youtube.com/watch?v=28OdemxhfbU&list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) -elm-conf 2018的所有演讲
-* [Elm Europe 2018](https://www.youtube.com/watch?v=uGlzRt-FYto&list=PL-cYi7I913S-VgTSUKWhrUkReM_vMNQxG) -Elm Europe 2018所有演讲的播放列表
+* [Elm Conf 2018](https://www.youtube.com/playlist?list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) -elm-conf 2018的所有演讲
+* [Elm Europe 2018](https://www.youtube.com/playlist?list=PL-cYi7I913S-VgTSUKWhrUkReM_vMNQxG) -Elm Europe 2018所有演讲的播放列表
 * [Elm Conf 2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) -elm-conf 2017的所有演讲
-* [Elm Europe 2017](https://www.youtube.com/watch?v=XpDsk374LDE&list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM) -Elm Europe 2017所有演讲的播放列表
+* [Elm Europe 2017](https://www.youtube.com/playlist?list=PL-cYi7I913S8cGyZWdN6YVZ028iS9BfpM) -Elm Europe 2017所有演讲的播放列表
 * [Oslo Elm Day 2017](https://www.youtube.com/playlist?list=PLcAzxXzXQlPZsNcYycHittqeF3UG4dGli) -2017年奥斯陆榆树日所有演讲的播放列表
-* [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) -elm-conf 2016的所有演讲
+* [Elm Conf 2016](https://www.youtube.com/playlist?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd) -elm-conf 2016的所有演讲
 
 ### Miscellaneous videos
 
@@ -178,6 +178,7 @@
 *收听有关榆木的播客*
 
 * [Elm Town](https://elmtown.github.io/) -关于榆树社区中的人们的播客.
+* [Implementing Elm](https://www.implementingelm.com/) -深入探讨特定问题，以帮助Elm社区.
 
 ### Individual Podcast episodes
 
@@ -209,16 +210,17 @@
 
 *与Elm相关的有用工具.*
 
-* [Elm Live](https://elm-live.com/)  -Elm的灵活开发服务器.  包括实时重装！
-* [Elm Format](https://github.com/avh4/elm-format) -自动Elm代码格式化程序 [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-* [Elm Oracle](https://github.com/ElmCast/elm-oracle)  -查询有关榆木源文件中值的信息.  大多数编辑器插件使用.
+* [Dependabot](https://dependabot.com) -为您的elm-package.json自动更新PR.
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) -用于Elm编程语言的Linter.
-* [elm-review](https://github.com/jfmengels/elm-review) -Elm编程语言的代码审阅者.
-* [type-o-rama](https://github.com/stereobooster/type-o-rama) -JS类型系统的可移植性.
-* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) -Elm离线文档预览器.
+* [Elm Format](https://github.com/avh4/elm-format) -自动Elm代码格式化程序 [Elm Style Guide](http://elm-lang.org/docs/style-guide).
+* [Elm JSON](https://github.com/zwilias/elm-json) -安装，升级和卸载Elm依赖项
+* [Elm Live](https://elm-live.com/)  -Elm的灵活开发服务器.  包括实时重装！
+* [Elm Oracle](https://github.com/ElmCast/elm-oracle)  -查询有关榆木源文件中值的信息.  大多数编辑器插件使用.
+* [Elm Pages](http://elm-pages.com) -静态网站生成器，可预渲染HTML并合并到Elm客户端应用程序中（[here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [Elm Review](https://github.com/jfmengels/elm-review) -Elm编程语言的代码审阅者.
 * [Elmstatic](https://korban.net/elm/elmstatic) -基于Elm的静态网站生成器.
-* [elm-pages](http://elm-pages.com) -静态网站生成器，可预渲染HTML并合并到Elm客户端应用程序中（[here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) -JS类型系统的可移植性.
 
 ### Code Generators
 
