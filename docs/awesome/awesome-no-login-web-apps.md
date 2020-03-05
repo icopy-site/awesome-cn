@@ -8,7 +8,7 @@
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Open Source Helpers](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps/badges/users.svg)](https://www.codetriage.com/aviaryan/awesome-no-login-web-apps)
 
-精选的出色Web应用程序的列表，这些应用程序无需您创建帐户即可运行.
+精选的出色Web应用程序列表，这些应用程序无需您创建帐户即可运行.
 
 #### Inspiration
 
@@ -16,7 +16,7 @@
 
 #### Some pointers
 
- *此列表中链接的Web应用程序无需登录即可提供其大多数核心功能.  由于缺少适当的替代方法，一些需要注册的网站也已包含在此列表中.  他们在他们的清单中被标记为[Account].
+ *此列表中链接的Web应用程序无需登录即可提供其大多数核心功能.  由于缺少适当的选择，一些需要注册的网站也已包含在此列表中.  他们在他们的清单中被标记为“ [帐户]”.
  *这里提到的大多数应用程序确实提供了某种用户帐户功能来保存历史记录和进度.  但是，如前所述，使用这些应用程序的主要功能不需要用户帐户.
 
 
@@ -30,7 +30,7 @@
 * [TwistedWeb Online](https://twistedwave.com/online/)  -强大的音频编辑器.  文件未在线保存.
 * [Filelab Audio Editor](http://www.avs4you.com) -具有修剪，合并，剪切音频等基本功能的音频编辑器.
 * [Until AM](http://mix.until.am/) -在线音乐混音器，DJ软件.
-* [YOU.DJ](https://you.dj/) -在线音乐调音台，DJ软件从SoundCloud采购音乐.
+* [YOU.DJ](https://you.dj/) -在线音乐混合器，DJ软件从SoundCloud采购音乐.
 * [VideoToolbox](http://videotoolbox.com)  `[Account]`-具有所有常用编辑功能的视频编辑器.  大小限制为600mb.
 
 
@@ -40,7 +40,7 @@
 * [Cryptrader.com](https://cryptrader.com)  -加密货币价格走势图和指标.  保存设置需要一个帐户.
 * [TradingView.com](https://www.tradingview.com/)  -来自各种交易所的实时信息和市场见解.  需要一个帐户来保存设置.
 * [ICOStats.com](https://icostats.com/)  -跟踪和比较ICO的性能.  显示详细的统计信息，例如从ICO开始的ROI，从ICO开始的ROI vs ETH，以及用于比较ICO历史性能的图表.
-* [InvoiceToMe](https://invoiceto.me/) -通过各种模板生成带有公司详细信息的专业发票.
+* [InvoiceToMe](https://invoiceto.me/) -从各种模板生成带有您公司详细信息的专业发票.
 
 
 ### Communication
@@ -48,7 +48,7 @@
 * [Tlk.io](https://tlk.io/) -使用您想要的任何URL（例如，“ tlk.io/some-room”）创建一个会议室，并分组聊天.
 * [Discord](https://discordapp.com/)  -在线语音和文本会议.  在开始时要求用户名创建一个临时头像.
 * [Gruveo](https://www.gruveo.com/)  -在线视频会议.  就像Tlk.io一样，易于记住的自定义URL.
-* [Appear.in](https://appear.in/)  -在线视频会议.  创建任何房间，例如“ appear.in/some-room”，然后开始聊天.
+* [Whereby](https://whereby.com/)  -在线视频会议.  创建任何房间，例如“ whereby.com/some-room”，然后开始聊天.
 * [Videolink2](https://videolink2.me/start)  -在线视频会议.  链接已生成，共享链接以邀请其他参与者.
 * [GetARoom.io](https://getaroom.io/)  -在线视频会议.  具有移动浏览器支持，只需单击“开始新呼叫”并共享链接.
 * [FaxZero](https://faxzero.com/) -免费发送在线传真.
@@ -76,22 +76,22 @@
 * [EtherCalc](https://ethercalc.net/) -在线电子表格编辑器，导出到Excel.
 * [PdfEscape](https://www.pdfescape.com/) -在浏览器本身中编辑或创建PDF.
 * [Browserpad](http://browserpad.org/)  -浏览器中的无服务器纯文本编辑器.  允许您打开和保存纯文本文件.
-* [WriteURL](http://www.writeurl.com/) -协作式实时在线文本编辑器.
+* [WriteURL](http://www.writeurl.com/) -协作型实时在线文本编辑器.
 
 
 <a name="drawing"></a>
 ### Drawing
 
 * [SVG-Edit](https://svg-edit.github.io/svgedit/releases/svg-edit-2.8.1/svg-editor.html)  -强大的SVG编辑器，具有许多功能.  开源.
-* [Method Draw](http://editor.method.ac/)  -干净且功能丰富的SVG编辑器.  导出到PNG.
+* [Method Draw](http://editor.method.ac/)  -干净且功能丰富的SVG编辑器.  导出为PNG.
 * [A Web Whiteboard](https://awwapp.com/) -触摸友好型在线协作白板应用程序.
 * [Witeboard](https://witeboard.com/)  -为您的团队提供的实时白板.  无需注册.
-* [Draw.io](https://www.draw.io/)  -流程图和UML绘图工具.  提供许多绘画样式.  导出为PNG并与Google云端硬盘集成.
+* [Draw.io](https://www.draw.io/)  -流程图和UML绘图工具.  提供许多绘图样式.  导出为PNG并与Google云端硬盘集成.
 * [AutoDraw](https://www.autodraw.com/)  -多亏了Google的机器学习，才能绘制出精美的草图.  图纸可以下载为PNG.
 * [kleki](http://kleki.com/) -MS Paint类似浏览器中的界面.
 * [bubbl](https://bubbl.us/) -创建思维导图，在浏览器中集思广益.
 * [ScribbleMaps](http://www.scribblemaps.com/) -创建自定义的谷歌地图.
-* [Sketchpad](https://sketch.io/sketchpad/) -创建数字作品，并导出为流行的图像格式JPEG，PNG，SVG和PDF.
+* [Sketchpad](https://sketch.io/sketchpad/) -创建数字作品并导出为流行的图像格式JPEG，PNG，SVG和PDF.
 
 
 ### File Converters
@@ -123,7 +123,7 @@
 ### Games
 
 * [Typeracer](http://play.typeracer.com/) -在与他人比赛时评估您的打字速度.
-* [Spark Chess](https://www.sparkchess.com/) -根据您的技能水平，学习下棋，与全球用户一起玩或与AI一起玩.
+* [Spark Chess](https://www.sparkchess.com/) -根据您的技能水平，学习下棋，与全球用户玩耍或与AI玩耍.
 * [Miniclip](https://www.miniclip.com)  -收集各种免费游戏，无需提供电子邮件即可玩.  需要闪光灯.
 * [CrossCode](http://www.cross-code.com/en/start)  -在遥远的未来中推出具有复古风格的2D游戏.  带有出色的游戏机制，例如连击，拼图，技能树，任务，物品等.
 * [agar.io](https://agar.io/) -目标是通过食用琼脂和小于玩家细胞的细胞来获得尽可能多的质量，同时避免食用会吞噬玩家细胞的较大细胞.
@@ -136,15 +136,15 @@
 * [PhotoPea](https://www.photopea.com/) -看起来像Photoshop并具有大多数功能的图像编辑器.
 * [Pixlr Editor](https://pixlr.com/editor/)  -Pixlr的图像编辑器.  很多功能.
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) -具有大量滤镜和效果的图像编辑器.
-* [Logo Makr](https://logomakr.com/)  -标志制造商，带有精美的SVG收藏.  需要付款才能将徽标导出为SVG（免费PNG）.
+* [Logo Makr](https://logomakr.com/)  -标志制造商，带有精美的SVG集合.  需要付款才能将徽标导出为SVG（免费PNG）.
 * [Online Logo Maker](https://www.onlinelogomaker.com/)  -在线制作徽标.  额外的用户帐户功能可保存创建的内容.
 * [Coolors](https://coolors.co/) -调色板生成器.
 * [Tiny PNG](https://tinypng.com/) -智能PNG和JPEG压缩.
-* [Realtime Board](https://realtimeboard.com/) `[Account]`-具有大面积，屏幕共享，视频和语音通信的协作黑板.
+* [Realtime Board](https://realtimeboard.com/) `[Account]`-大面积，屏幕共享，视频和语音通信的协作黑板.
 * [ezGIF](https://ezgif.com/) -GIF图像编辑器（裁剪，缩放，优化等）.
 * [Adobe Color CC](https://color.adobe.com/) -配色方案设计师.
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]`-删除图像背景并立即在Facebook或Twitter上共享的工具，登录后以PNG或JPEG格式下载编辑后的图像.
-* [IcoMoon](https://icomoon.io/app/) -一个平台，可帮助您查找矢量图标包，将图标托管为SVG或字体以及生成选定图标的SVG + PNG +图标字体.
+* [IcoMoon](https://icomoon.io/app/) -一个平台，可帮助您查找矢量图标包，将图标作为SVG或字体托管，并生成选定图标的SVG + PNG +图标字体.
 * [Flaming Text](http://flamingtext.com/) -在线徽标或名称生成器/创建者，可以根据自己的意愿修改徽标，并采用多种格式，包括PNG和JPEG.
 * [LeanLogoMaker](https://leanlogomaker.com)  -生成100多个徽标，选择您喜欢的徽标并下载.  包括社交媒体网站的封面和个人资料图片.
 * [doka.photo](https://doka.photo/)  -易于使用的照片编辑器.  您可以裁剪，旋转，翻转，添加滤镜，调整大小和注释.
@@ -157,7 +157,7 @@
 * [keepvid](http://keepvid.com/) -YouTube，SoundCloud，Facebook下载器.
 * [Bitport](https://bitport.io/welcome)  `[Account]`-Torrent下载器.  免费帐户每天限制为1洪流，每天1GB.
 * [Vubey](https://vubey.yt/) -从YouTube，SoundCloud等下载各种音频质量（比特率）的MP3.
-* [Seedr](https://www.seedr.cc/)  `[Account]`-基于云的种子下载器.  仅限免费帐户中大小总计为2gb的多个torrent.  无限带宽.  贡献新用户增加500mb.
+* [Seedr](https://www.seedr.cc/)  `[Account]`-基于云的种子下载器.  仅限免费帐户中总大小为2gb的多个torrent.  无限带宽.  贡献新用户增加500mb.
 * [ZbigZ](https://zbigz.com/)  -Torrent下载程序，可让您选择要从种子文件中下载的文件.  免费版本的文件大小限制为2gb，下载上限为50kbps.
 
 
@@ -168,7 +168,7 @@
 * [Stitcher](http://www.stitcher.com/) -在线收听播客.
 * [AnyAudio](http://anyaudio.in/) -流和下载音乐.
 * [Muki](https://muki.io) -基于WebAudio的Chiptune和MIDI播放器，带有大量的视频游戏音乐.
-* [MusixHub](http://www.musixhub.com) -由YouTube提供支持，在线播放艺术家和专辑视频歌曲.
+* [MusixHub](http://www.musixhub.com) -由YouTube提供支持，在线播放歌手和专辑视频歌曲.
 * [plug.dj](https://plug.dj/) -收听由YouTube提供支持的数千名DJ，并需要登录才能成为DJ.
 * [Jango Radio](http://www.jango.com/) -免费的互联网广播，收听数百种类型的电台或使用自己喜欢的音乐创建自己的电台.
 * [Anime Openings](http://openings.moe/) -免费的动漫广播，收听或下载动漫开场和结束视频.
@@ -179,7 +179,7 @@
 
 ### Notepads and Notebooks
 
-* [aNotepad](https://anotepad.com/) -使用cookie无需用户帐户即可保存笔记.
+* [aNotepad](https://anotepad.com/) -使用Cookie无需用户帐户即可保存笔记.
 * [shrib](https://shrib.com/) -将注释保存到自定义网址，并在以后进行编辑.
 * [Notepad](http://notepad.js.org/) -具有离线功能的记事本PWA.
 * [ProtectedText](https://www.protectedtext.com/) -加密的笔记，无广告，会话或Cookie.
@@ -198,7 +198,7 @@
 
 ### Programming Editors and IDEs
 
-* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm)  -Ipython，Octave，Powershell，Redis和其他许多设备的在线终端.  还具有用于编程语言的大量IDE.
+* [TutorialsPoint Online Tools](https://www.tutorialspoint.com/codingground.htm)  -适用于Ipython，Octave，Powershell，Redis和许多其他产品的在线终端.  还具有用于编程语言的大量IDE.
 * [Ideone](http://ideone.com/) -支持大多数流行语言的在线IDE.
 * [codepad](http://codepad.org/)  -在线编译器，还允许您创建项目（为项目分配了子域）.  请注意，不支持读取stdin.
 * [Repl.it](https://repl.it/) -所有流行编程语言的在线终端.
@@ -225,14 +225,14 @@
 * [Regulex](https://jex.im/regulex/) -JavaScript正则表达式可视化工具.
 * [GTmetrix](https://gtmetrix.com/) -分析网站的速度并使其更快.
 * [BuildWith](https://builtwith.com/) -查找技术堆栈以了解有关网站的所有信息.
-* [WooRank](https://www.woorank.com/) -SEO审核工具，可根据所产生的访问量对网站进行全球和本地排名的审核.
-* [CSS Typeset](http://csstypeset.com/)  -视觉排版编辑器.  使用字体，字距和其他文本属性，然后下载相应的CSS.
+* [WooRank](https://www.woorank.com/) -SEO审核工具，可根据所产生的访问量对网站进行全球和本地排名审核.
+* [CSS Typeset](http://csstypeset.com/)  -视觉排版编辑器.  试一下字体，字距和其他文本属性，然后下载相应的CSS.
 * [pForm](http://www.phpform.org/) -通过简单的WYSIWYG GUI创建HTML表单，然后下载相应的代码.
 * [CSS Autoprefixer](https://autoprefixer.github.io/)  -用于处理CSS中的供应商前缀的后处理器.  只需粘贴常规CSS并立即获得供应商前缀处理的CSS.
-* [CSS Matic](https://www.cssmatic.com/) -CSS工具，可快速生成渐变，边界半径，噪声纹理和框阴影并获取相应的CSS或SASS.
+* [CSS Matic](https://www.cssmatic.com/) -CSS工具，可快速生成渐变，边界半径，噪波纹理和框阴影并获取相应的CSS或SASS.
 * [Carbon](https://carbon.now.sh) -创建并共享源代码的精美图片.
 * [jsonstore.io](https://www.jsonstore.io/)  -jsonstore.io为小型项目提供免费，安全的，基于JSON的API端点.  它支持常见的HTTP操作类型，例如POST，GET，PUT，DELETE等.
-* [ObjGen](http://www.objgen.com/) -当您使用基于文本的语法仅键入关键字，类型和属性时，此应用程序可帮助您实时生成代码（JSON，HTML等）.
+* [ObjGen](http://www.objgen.com/) -此应用程序可帮助您在使用基于文本的语法仅键入关键字，类型和属性时实时生成代码（JSON，HTML等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) -以易于阅读的形式查看json.
 
 
@@ -257,8 +257,8 @@
 * [Geometry sheet by MathIsFun](https://www.mathsisfun.com/geometry/drawing.html) -如果您想玩数字游戏，在线简单的几何图形表.
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) -玩有向图.
 * [Calcul](http://www.calcul.com) -收集不同的计算器，包括矩阵，单位转换器，数学分布等.
-* [Word Safety](http://wordsafety.com/) -检查所有语言中的单词是否有辱骂性.
-* [OEIS®](http://oeis.org/) -IntegerSequences®在线百科全书，有助于密码学以及制定奇特的序列.
+* [Word Safety](http://wordsafety.com/) -检查单词在所有语言中是否有辱骂性.
+* [OEIS®](http://oeis.org/) -IntegerSequences®在线百科全书，有助于进行加密以及制定奇数序列.
 
 
 <a name="text-tools"></a>
@@ -266,13 +266,13 @@
 
 * [Diff Checker](https://www.diffchecker.com/) -比较两个文本段落并查看差异.
 * [CopyPasteCharacter](http://www.copypastecharacter.com/) -复制键盘通常不可用的特殊字符.
-* [PolishMyWriting](http://www.polishmywriting.com/) -粘贴文本并获取您的写作反馈.
-* [Wordle](http://www.wordle.net/) -生成给定文本的“词云”的玩具.
+* [PolishMyWriting](http://www.polishmywriting.com/) -粘贴文本并获得您的写作反馈.
+* [Wordle](http://www.wordle.net/) -产生给定文本的“词云”的玩具.
 * [tYp3r](http://typ3r.aavi.me) -dA aNn0Y1Ng t3Xt g3NeRa7or（烦人的文本生成器：-P）.
 * [Telegraph](http://telegra.ph/) -极简主义发布工具，支持格式丰富的文本.
-* [DiffNow](https://www.diffnow.com/) -先进的，在线的和免费的文件差异检查功能，包括上载文件，通过链接或文本输入比较文件的选项.
+* [DiffNow](https://www.diffnow.com/) -先进的，在线的和免费的文件差异检查功能，包括上载文件，按链接或文本输入比较文件的选项.
 * [Write.as](https://write.as/) -支持Markdown以及编辑/删除过去帖子的跨平台写作和发布工具.
-* [Emojify](https://matthewmiller.dev/experiments/emojify/) -通过添加表情符号为文字，歌词或诗歌增添趣味的工具.
+* [Emojify](https://matthewmiller.dev/experiments/emojify/) -通过添加表情符号为文本，歌词或诗歌增添趣味的工具.
 
 
 <a name="utilities"></a>
@@ -286,7 +286,7 @@
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) -打印任何网页或将其另存为HTML或PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) -根据图片确定字体名称.
 * [Image Metadata Viewer](http://exif.regex.info/exif.cgi) -查看任何图像的隐藏数据（元数据）.
-* [WhoIsHostingThis](http://www.whoishostingthis.com/) -查找任何网站的虚拟主机.
+* [WhoIsHostingThis](http://www.whoishostingthis.com/) -查找任何网站的网络主机.
 * [TypingWeb](https://www.typing.com/student/start) -轻松掌握打字方式.
 * [Acronym Creator](http://acronymcreator.net/) -为组织，算法或至少包含两个词的任何事物创建首字母缩写词.
 * [TallTweets](http://talltweets.com/) -发送超过140个字符的推文.
@@ -300,14 +300,14 @@
 ### Miscellaneous
 
 * [rollApp](https://www.rollapp.com/) `[Account]`-在任何设备上运行桌面应用程序.
-* [is.gd](https://is.gd/) -使用自定义URL和开放的API（没有令牌）链接起酥油.
+* [is.gd](https://is.gd/) -链接缩短器与自定义URL和开放API（无令牌）.
 * [Bitly](https://bitly.com/) -带有REST API的强大URL缩短器.
 * [Superbetize](http://superbetize.com/) -分类您的购物清单.
 * [isup.me](http://isup.me/) -检查网站是否仅对您或其他人不可用.
 * [Dictation.io](https://dictation.io/) -支持多种语言的在线语音听写软件.
 * [followupthen](https://www.followupthen.com/) -设置电子邮件提醒的最简单方法.
 * [lmgtfy](http://lmgtfy.com/) -当您的朋友太懒惰而无法独自使用Google时.
-* [IFTTT](https://ifttt.com/)  `[Account]`-在您喜欢的在线服务之间建立联系.  例如，如果需要将自己的instagram作为本地照片在Twitter上发布，则IFTTT可以派上用场.
+* [IFTTT](https://ifttt.com/)  `[帐户]`-在您喜欢的在线服务之间建立联系.  例如，如果需要将自己的instagram作为Twitter上的本机照片发布，则IFTTT可以派上用场.
 * [AlarmDJ](https://alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * [Morsify](https://morsify.net) -在线摩尔斯电码翻译器.
 
@@ -317,4 +317,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Avi Aryan](http://aviaryan.in) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Avi Aryan](http://aviaryan.in) 已放弃此作品的所有版权以及相关或邻近的权利.

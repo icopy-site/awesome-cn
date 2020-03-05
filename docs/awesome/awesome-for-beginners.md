@@ -33,9 +33,9 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  使用JavaScript，HTML和CSS构建跨平台的桌面应用程序
 - [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
-- [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome)  _（标签：统计信息：欢迎捐款）_ <br>  使用数据流图进行计算以进行可扩展的机器学习
 - [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  使用OpenGL和GLSL的音乐可视化程序库.  拥有使用Qt5，SDL，emscripten，iTunes，Kodi的应用程序.
 - [Roc](https://github.com/roc-project/roc/labels/help%20wanted)  _（标签：需要帮助）_ <br>  用于通过网络进行实时音频流传输的工具包.
+- [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome)  _（标签：统计信息：欢迎捐款）_ <br>  使用数据流图进行计算以进行可扩展的机器学习
 
 ## Clojure
 
@@ -51,20 +51,20 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 
 ## Elixir
 
-- [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter)  _（标签：级别：入门者）_ <br>  Elixir是一种动态的功能语言，旨在构建可扩展和可维护的应用程序
 - [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter)  _（标签：级别：入门者）_ <br>  Ecto是Elixir的数据库包装器和语言集成查询
+- [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter)  _（标签：级别：入门者）_ <br>  Elixir是一种动态的功能语言，旨在构建可扩展和可维护的应用程序
 
 ## Go
 
-- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  开源应用容器引擎
-- [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  在GoLang中用爱构建的快速灵活的静态网站生成器
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  可扩展，可生存，高度一致的SQL数据库
-- [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Kubernetes软件包管理器
-- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+)  _（标签：争抢，难度/ 1：轻松，技术/正常）_ <br>  Golang和React中的开源Slack替代方案
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  Docker CLI
+- [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Kubernetes软件包管理器
+- [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  在GoLang中用爱构建的快速灵活的静态网站生成器
 - [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  生产级集装箱调度与管理系统
-- [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors)  _（标签：新贡献者）_ <br>  分布式可伸缩混合事务和分析处理（HTAP）数据库
+- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+)  _（标签：争抢，难度/ 1：轻松，技术/正常）_ <br>  Golang和React中的开源Slack替代方案
+- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  开源应用容器引擎
 - [Terraform](https://github.com/hashicorp/terraform/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  安全有效地构建，更改和版本化基础结构的工具.
+- [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors)  _（标签：新贡献者）_ <br>  分布式可伸缩混合事务和分析处理（HTAP）数据库
 
 ## Java
 
@@ -192,7 +192,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer)  _（标签：难度/新手）_ <br>  基于命令行界面的Linux个人助理.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  一个将Python代码转换为Java字节码的编译器.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Python虚拟机的Javascript实现.
-- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python机器人，旨在尽可能简单地为人类的日常任务提供服务http://m.me/JARVISon.Messenger
+- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python机器人程序，旨在尽可能简单地为人类的日常任务提供服务http://m.me/JARVISon.Messenger
 - [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy)  _（标签：状态：简单）_ <br>  pytest框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit)  _（标签：低挂水果）_ <br>  Pythonic远程执行和部署.
 - [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Jupyter交互式笔记本.

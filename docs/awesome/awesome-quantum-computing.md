@@ -71,7 +71,7 @@
 
 ## Blogs
 
-- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉尼（Craig Gidney）-Google量子计算团队的成员.
+- [Algorithmic Assertions](http://algassert.com/) -关于量子计算以及Google量子计算小组成员Craig Gidney的一般文章.
 - [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享研究成果和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.
@@ -108,6 +108,7 @@
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)  -有关计算机科学家入门量子计算的微软研究讲座.  时长：1小时28分钟.
 - [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) -一系列有关量子计算基础知识的讲座 [Michael Nielsen](http://michaelnielsen.org/).
 - [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz) -一系列有关量子计算的讲座 [Professor O'Donnell at CMU](https://www.cs.cmu.edu/~odonnell/quantum18/).
+- [Quantum Impact](https://www.youtube.com/playlist?list=PLFPUGjQjckXFsOEBvvaDeIk5GxctP0ZhX) -了解量子计算如何帮助科学家解决一些世界上最具挑战性的问题，例如土地优化. 
 
 ## Community
 

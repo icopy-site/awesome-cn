@@ -18,6 +18,7 @@
 - [Animating the Mobile Web](https://engineeringblog.yelp.com/2015/01/animating-the-mobile-web.html) -关于在移动网络上实现快速动画的案例研究（由Yelp撰写）.
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) -您需要了解的有关表单自动填充的所有信息.
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) -如何设置Cache-Control以获得最佳响应时间.
+- [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26) -有关Galaxy Fold的Web开发的建议.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) -如何处理iPhone X上的“缺口”.
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) -有关移动Web开发的高级概述.
 - [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) -该图显示了在哪些情况下JavaScript可能不可用.
@@ -55,7 +56,7 @@
 - [High-Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) -预定有关移动设备上网络性能的信息.
 - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) -UI模式对移动Web应用程序可能有用.
 - [Mobile First](https://abookapart.com/products/mobile-first) -如何设计移动设备的网站.
-- [Responsive Web Design](https://abookapart.com/products/responsive-web-design) -关于响应式网页设计的书.
+- [Responsive Web Design](https://abookapart.com/products/responsive-web-design) - Book about responsive web design.
 
 
 ## Specifications from W3C for Enhancing Mobile Web Experience
@@ -89,7 +90,7 @@
 ## Auditing Tools
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) -用于Web应用程序和网页的分析工具.
-- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - Tool for testing that your site is mobile-friendly.
+- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) -用于测试您的网站是否适合移动设备的工具.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) -该工具可以分析您的页面并提供有关提高下载速度的建议.
 - [PageSpeed](https://www.modpagespeed.com) -自动优化站点的Web服务器模块.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) -比较您的移动网站与其他网站的速度.
@@ -113,7 +114,8 @@
 - [Fastclick](https://github.com/ftlabs/fastclick) -消除了旧浏览器中300ms的延迟.
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) -使用IntersectionObserver API的高性能，轻便和可配置的惰性加载器
 - [React Dates](https://github.com/airbnb/react-dates) -一个易于国际化，适合移动设备的datepicker React库，用于Web.
-- [Shiny](https://github.com/rikschennink/shiny) -移动网站的闪亮思考
+- [Screen Sizes](http://screensiz.es/phone) -所有流行智能手机的屏幕尺寸列表.
+- [Shiny](https://github.com/rikschennink/shiny) -移动网站的闪亮思考.
 - [Slideout](https://github.com/Mango/slideout) -适用于您的移动网络应用程序的独立且轻巧的导航菜单.
 - [Swiper](https://github.com/nolimits4web/swiper) -具有硬件加速过渡功能的最现代的移动触摸滑块.
 - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) -用于在非主流浏览器中调试网站的Web检查器.
@@ -125,4 +127,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [@myshov](https://github.com/myshov) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [@myshov](https://github.com/myshov) 已放弃此作品的所有版权以及相关或邻近的权利.

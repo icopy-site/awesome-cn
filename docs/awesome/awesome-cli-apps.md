@@ -58,7 +58,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) -从YouTube.com和许多其他视频网站下载视频.
 - [streamlink](https://github.com/streamlink/streamlink) -从各种网站提取流到您选择的视频播放器.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) -YouTube播放器.
-- [mpv](https://mpv.io) - Superior video player.
+- [mpv](https://mpv.io) -出色的视频播放器.
 
 ### Movies
 
@@ -73,7 +73,7 @@
 ### Books
 
 - [epr](https://github.com/wustho/epr) -epub阅读器.
-- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
+- [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - 圣经.
 - [SpeedRead](https://github.com/sunsations/speed_read) -类似于Spritz的Speedreader.
 
 ## Development
@@ -262,14 +262,14 @@
 
 - [gotty](https://github.com/yudai/gotty) -将您的终端共享为Web应用程序.
 - [localtunnel](https://github.com/localtunnel/localtunnel) -将您的localhost暴露给全世界，以方便测试和共享.
-- [mosh](https://mosh.org/) -允许间断连接漫游的远程SSH客户端.
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [ngrok](https://ngrok.com/) -安全自省到本地主机的隧道.
 - [serveo](https://serveo.net/) -仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) -管道输出到网络.
 - [teleconsole](https://www.teleconsole.com/) -共享您的UNIX终端.
 - [tmate](https://tmate.io/) -即时终端（tmux）共享.
 - [warp](https://github.com/spolu/warp) -安全，简单的终端共享.
-- [OverTime](https://github.com/diit/overtime-cli) -远程团队的时间重叠表.
+- [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 
 ### Network Utilities
 
@@ -377,9 +377,10 @@
 
 ### Directory Listing
 
-- [alder](https://github.com/aweary/alder) -带有颜色的UNIX树命令的最小实现！
-- [exa](https://github.com/ogham/exa) -用Rust编写的`ls`的改进版本.
-- [tre](https://github.com/dduan/tre) -具有git意识，编辑器别名等功能的树命令.
+- [alder](https://github.com/aweary/alder) -带有颜色的最小树.
+- [exa](https://github.com/ogham/exa) -`ls`的改进版本.
+- [tre](https://github.com/dduan/tre) -具有git意识，编辑器别名等功能的`tree`.
+- [ll](https://github.com/antonmedv/ll) -具有git状态的`ls`.
 
 ### Directory Navigation
 
@@ -419,7 +420,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) -将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -gitlab cli，用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -一些小git附加功能，例如git-ignore，git-setup，git-changelog，git-release，git-effort等.
-- [gita](https://github.com/nosarthur/gita) -并发管理多个git repos.
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -交互式生成README.md文件.
 
 ## Images
@@ -473,7 +474,7 @@
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) -检测代码的缩进.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) -获取当前用户的全名.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) -获取文件或标准输入的压缩大小.
-- [HASHA -cli](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
+- [HASHA -cli](https://github.com/sindresorhus/hasha-cli)  -哈希变得简单.  获取文本或标准输入的哈希.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) -使用Levenshtein距离算法测量两个字符串之间的差异.
 - [mdlt](https://github.com/metadelta/mdlt) -从命令行直接进行快速数学运算.

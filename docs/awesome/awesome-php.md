@@ -29,7 +29,7 @@
 *与依赖项管理有关的其他内容.
 
 * [Composed](https://github.com/joshdifabio/composed) -一个在运行时解析项目的Composer环境的库.
-* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) -一个composer插件，用于合并多个composer.json文件.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
 * [Prestissimo](https://github.com/hirak/prestissimo) -一个composer插件，可实现并行安装过程.
 * [Satis](https://github.com/composer/satis) -静态Composer资源库生成器.
 * [tooly](https://github.com/tommy-muehle/tooly-composer-script) -使用Composer管理项目中PHAR文件的库.
@@ -54,6 +54,7 @@
 
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) -CakePHP的快速应用程序开发（RAD）插件.
 * [Knp RAD Components](https://rad.knplabs.com/) -Symfony的一组快速应用程序开发（RAD）组件.
+* [LaravelS](https://github.com/hhxsv5/laravel-s) -在Laravel或Lumen中使用Swoole的胶.
 
 * [Backdrop](https://backdropcms.org) -针对中小型企业和非营利组织的CMS（Drupal的分支）.
 * [Concrete5](https://www.concrete5.org/) -以最低的技术水平为目标的CMS.
@@ -79,6 +80,7 @@
 *微型框架和路由器.
 
 * [Bullet PHP](http://bulletphp.com/) -用于构建REST API的微型框架.
+* [Laravel-Zero](https://laravel-zero.com) -用于控制台应用程序的微框架.
 * [Lumen](https://lumen.laravel.com) -Laravel制作的微框架.
 * [Radar](https://github.com/radarphp/Radar.Adr) -用于PHP的Action-Domain-Responder实现.
 * [Slim](https://www.slimframework.com/) -另一个简单的微框架.
@@ -220,7 +222,7 @@
 * [Faker](https://github.com/fzaninotto/Faker) -伪造的数据生成器库.
 * [HTTP Mock](https://github.com/InterNations/http-mock) -用于在单元测试中模拟HTTP请求的库.
 * [Kahlan](https://github.com/kahlan/kahlan) -具有内置存根，模拟和代码覆盖支持的完整堆栈单元/ BDD测试框架.
-* [Mink](http://mink.behat.org/en/latest/) -网络验收测试.
+* [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
 * [Mockery](https://github.com/mockery/mockery) -用于测试的模拟对象库.
 * [ParaTest](https://github.com/paratestphp/paratest) -PHPUnit的并行测试库.
 * [Peridot](https://github.com/peridot-php/peridot) -事件驱动的测试框架.
@@ -292,7 +294,7 @@
 * [PHP Parser](https://github.com/nikic/PHP-Parser) -用PHP编写的PHP解析器.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) -命令行实用程序，用于比较两个源集并确定要应用的适当语义版本.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) -快速测量PHP项目大小的工具.
-* [PHPQA](https://github.com/EdgedesignCZ/phpqa) -一种用于运行质量检查工具的工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）.
+* [PHPQA](https://github.com/EdgedesignCZ/phpqa) -一种用于运行质量检查工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）的工具.
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) -可视化指标和源代码的工具.
 * [Rector](https://github.com/rectorphp/rector) -升级和重构代码的工具.
 * [Scrutinizer](https://scrutinizer-ci.com/) -网页工具 [scrutinise PHP code](https://github.com/scrutinizer-ci/php-analyzer).
@@ -383,7 +385,7 @@
 *用于对地址进行地理编码以及使用纬度和经度的库.*
 
 * [GeoCoder](https://geocoder-php.org/) -地理编码库.
-* [GeoJSON](https://github.com/jmikola/geojson) - A GeoJSON implementation.
+* [GeoJSON](https://github.com/jmikola/geojson) -GeoJSON实现.
 * [GeoTools](https://github.com/thephpleague/geotools) -地理相关工具库.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) -一个简单的地理图书馆.
 
@@ -468,7 +470,7 @@
 * [Doctrine Migrations](https://www.doctrine-project.org/projects/migrations.html) -教义的迁移库.
 * [Migrations](https://github.com/icomefromthenet/Migrations) -迁移管理库.
 * [Phinx](https://github.com/cakephp/phinx) -另一个数据库迁移库.
-* [PHPMig](https://github.com/davedevelopment/phpmig) -另一个迁移管理库.
+* [PHPMig](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Ruckusing](https://github.com/ruckus/ruckusing-migrations) -PHP的数据库迁移ala ActiveRecord迁移，支持MySQL，Postgres，SQLite.
 
 ### NoSQL
@@ -481,7 +483,7 @@
 *用于处理事件和任务队列的库.
 
 * [Bernard](https://github.com/bernardphp/bernard) -多后端抽象库.
-* [BunnyPHP](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
+* [BunnyPHP](https://github.com/jakubkulhan/bunny) -高性能的纯PHP AMQP（RabbitMQ）同步和异步（ReactPHP）库.
 * [Pheanstalk](https://github.com/pheanstalk/pheanstalk) -Beanstalkd客户端库.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) -一个纯PHP AMQP库.
 * [Tarantool Queue](https://github.com/tarantool-php/queue) -Tarantool Queue的PHP绑定.
@@ -522,7 +524,7 @@
 * [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) -OAuth 1.0客户端库.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) -OAuth 2.0客户端库.
 * [OAuth2 Server](https://bshaffer.github.io/oauth2-server-php-docs/) -另一个OAuth2服务器实现.
-* [OAuth2 Server](https://oauth2.thephpleague.com/) -OAuth2身份验证服务器，资源服务器和客户端库.
+* [OAuth2 Server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
 * [Opauth](https://github.com/opauth/opauth) -多提供商身份验证框架.
 * [PHP oAuthLib](https://github.com/Lusitanian/PHPoAuthLib) -另一个OAuth库.
 * [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) -用于社交网络身份验证的库.
@@ -595,7 +597,7 @@
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) -从SOAP WSDL文件生成PHP类的工具.
 
 ### Caching
-*Libraries for caching data.*
+*用于缓存数据的库.
 
 * [Alternative PHP Cache (APC)](https://secure.php.net/manual/en/book.apc.php) -为PHP打开操作码缓存.
 * [APIx Cache](https://github.com/apix/cache) -薄的PSR-6缓存包装器，用于各种缓存后端，强调缓存标记和索引.
@@ -645,7 +647,7 @@
 * [Cake I18n](https://github.com/cakephp/i18n) -消息翻译和本地化的日期和数字（CP）
 
 ### Serverless
-*帮助构建无服务器Web应用程序的库和工具.
+*Libraries and tools to help build serverless web applications.*
 
 * [Bref](https://bref.sh/) -AWS Lambda上的无服务器PHP.
 * [OpenWhisk](http://openwhisk.apache.org/) -开源的无服务器云平台.
@@ -653,7 +655,7 @@
 * [Laravel Vapor](https://vapor.laravel.com/) -由AWS支持的Laravel无服务器部署平台.
 
 ## Configuration
-*Libraries and tools for configuration.*
+*用于配置的库和工具.*
 
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) -从.env文件中解析并加载环境变量.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)-从.env文件中解析并加载环境变量.
@@ -689,7 +691,7 @@
 * [Essence](https://github.com/essence/essence) -用于提取Web媒体的库.
 * [Graphviz](https://github.com/alexandresalome/graphviz) -Graphviz库.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) -一个非常新颖的RPC库，现在支持25种以上的语言.
-* [JSON Lint](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
+* [JSON Lint](https://github.com/Seldaek/jsonlint) -JSON皮棉实用程序.
 * [JSONPCallbackValidator](https://github.com/willdurand/JsonpCallbackValidator) -用于验证JSONP回调的库.
 * [Lock](https://github.com/php-lock/lock) -提供独占执行的锁库.
 * [Metrics](https://github.com/beberlei/metrics) -一个简单的指标API库.
@@ -753,7 +755,7 @@
 * [VS Code](https://code.visualstudio.com/) -开源代码编辑器.
 
 ### Web Applications
-*Web-based applications and tools.*
+*基于Web的应用程序和工具.*
 
 * [3V4L](https://3v4l.org/) -在线PHP和HHVM Shell.
 * [DBV](https://dbv.vizuina.com/) -数据库版本控制应用程序.
@@ -806,17 +808,17 @@
 *与PHP相关的精彩书籍.*
 
 * [Functional Programming in PHP](https://www.functionalphp.com/) -本书将向您展示如何通过理解函数式编程原理来利用这些PHP5.3 +新功能
-* [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) -Chris Hartjes撰写的有关使用PHPUnit进行单元测试的书.
+* [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) -Brandon Savage撰写的有关面向对象的PHP的书.
 * [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do) -Josh Lockhart撰写的有关PHP新功能和最佳做法的书.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) -Paul M. Jones撰写的有关更新旧版PHP应用程序的书.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
-* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了解析和验证XML文档，利用XPath表达式以及使用名称空间以及如何以编程方式创建和修改XML文件的方法.
+* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了XML文档的解析和验证，XPath表达式的使用以及名称空间的使用，以及如何以编程方式创建和修改XML文件.
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) -用PHP编写的真实示例展示了DDD建筑风格.
 
 ### Other Books

@@ -156,6 +156,8 @@
 40. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 41. [Matrix Capsules With Em Routing](https://openreview.net/pdf?id=HJWLfGWRb)
 42. [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+43. [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf)
+44. [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 
 ### Tutorials
 
@@ -186,7 +188,8 @@
 24. [Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
 25. [Hardware for AI: Understanding computer hardware & build your own computer](https://github.com/MelAbgrall/HardwareforAI)
 26. [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
-
+27. [The Illustrated Self-Supervised Learning](https://amitness.com/2020/02/illustrated-self-supervised-learning/)
+28. [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 
 
 
@@ -328,6 +331,7 @@
 30.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 31.  [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 32. [ahmedbesbes.com）（http://ahmedbesbes.com）
+33.  [amitness.com](https://amitness.com/)
 
 ### Datasets
 
@@ -370,7 +374,7 @@
 42. [El Salvador Atlas of Gastrointestinal VideoEndoscopy](http://www.gastrointestinalatlas.com)  -从胃肠道视频内窥镜检查获得的研究结果的图像和视频.  （格式：jpg，mpg，gif）
 43. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm)  -数据库包含1002张面部图像，显示不同年龄的对象.  （格式：jpg）
 44. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/)  -FVC2000是首个国际指纹验证算法竞赛.  四个指纹数据库构成FVC2000基准（总共3520个指纹）.
-45. [Biometric Systems Lab](http://bias.csr.unibo.it/research/biolab) -博洛尼亚大学
+45. [Biometric Systems Lab](http://biolab.csr.unibo.it/home.asp) -博洛尼亚大学
 46. [Face and Gesture images and image sequences](http://www.fg-net.org) -面部和手势的多个图像数据集，这些数据集被标注了基准以进行基准测试
 47. [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html)  -数据库包含35个手势，并由1400个图像序列组成，其中包含在不均匀的日光照明条件下记录的20个不同人物的手势.  （格式：mpg，jpg）  
 48. [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
@@ -584,6 +588,7 @@
 37. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders)  包含用于构建推荐系统的示例，实用程序和最佳实践.  提供了几种最新算法的实现，可以在您自己的应用程序中进行自学习和自定义.
 38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) -Andrej Karpathy有关使用RNN生成文本的博客文章.
 39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) -Keras实现阶梯式网络进行半监督学习 
+40. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
 
 
 -----
