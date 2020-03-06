@@ -161,18 +161,18 @@ Lisp家庭语言（通过球拍）
 ### Math Electives
 **学生必须选择以下主题之一**：微积分，线性代数，逻辑或概率.
 
-#### Linear Algebra
- 课程  持续时间|  努力  先决条件
-:-- | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  |  -|  -|  前微积分
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/) ）|  15周|  每周8小时|  线性代数的本质
-
 #### Calculus
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)  |  13周|  每周6-10个小时|  前微积分
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)  |  13周|  每周5-10个小时|  微积分1A
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)  |  13周|  每周5-10个小时|  微积分1B
+
+#### Linear Algebra
+ 课程  持续时间|  努力  先决条件
+:-- | :--: | :--: | :--:
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  |  -|  -|  前微积分
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/) ）|  15周|  每周8小时|  线性代数的本质
 
 #### Logic
  课程  持续时间|  努力  先决条件
@@ -195,6 +195,8 @@ Lisp家庭语言（通过球拍）
 离散概率
 还有更多
 
+ 课程  持续时间|  努力  先决条件
+:-- | :--: | :--: | :--:
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) <sup>** 1 **</sup> |  13周|  每周5小时|  微积分1C
 
 <sup>** 1 **</sup> ：在MIT Math for CS方面挣扎的学生可以考虑参加 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一.
@@ -297,7 +299,7 @@ GPU编程
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_) ）|  12周|  -|  C，算法
-[Compilers](https://web.stanford.edu/class/cs143/index2018.html) ([lectures](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx) ）|  9周  每周6-8个小时|  没有
+[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx) ）|  9周  每周6-8个小时|  没有
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8周  每周6个小时|  Python，面向对象的编程
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)  |  4周  每周6个小时|  Python，编程经验
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness)  |  7周  每周6个小时|  线性代数

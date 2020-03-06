@@ -17,7 +17,7 @@
 
 ## Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
- 精选的优秀命令行框架，工具包，指南和小玩意的列表.  受到awesome-php的启发.  这个很棒的收藏也可以在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
+ 精选的出色命令行框架，工具包，指南和小玩意的列表.  受到awesome-php的启发.  这个很棒的收藏也可以在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 -[** Awesome Zsh **] [awesome-zsh] [！[Awesome] [awesome-badge]] [awesome-zsh]
 -[** Awesome Fish **] [awesome-fish] [！[Awesome] [awesome-badge]] [[awesome-fish]
 
@@ -28,6 +28,7 @@
 * [bash](https://www.gnu.org/software/bash/) -GNU工程的外壳（Bourne Again SHell）
 * [elvish](https://elv.sh/) -友好，富有表现力的外壳功能，例如匿名函数和数据结构
 * [fish](https://fishshell.com) -智能和用户友好的命令行外壳
+* [ion](https://github.com/redox-os/ion)  -具有简单但功能强大的语法的现代系统外壳.  它完全用Rust编写.
 * [ksh93](https://github.com/att/ast) -康恩·壳
 * [mksh](https://github.com/MirBSD/mksh) -MirBSD Korn Shell
 * [nushell](https://github.com/nushell/nushell) -用Rust编写的现代外壳 

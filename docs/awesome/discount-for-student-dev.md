@@ -35,7 +35,7 @@
     *骑士-.NET IDE
     * WebStorm-JavaScript IDE
     * RubyMine-Ruby IDE
-  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student)  [免费]-工具套件，可简化代码的设计，开发，调试和调整，这些代码利用并行处理来提高应用程序性能.  学生免费.
+  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student)  [免费]-简化使用并行处理来提高应用程序性能的代码的设计，开发，调试和调整的工具套件.  学生免费.
   * [Xamarin IDE](http://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
   * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) [免费]-使用Bootstrap框架创建响应式网站的IDE.
@@ -90,7 +90,7 @@
 
   * [Travis CI](https://travis-ci.org) [免费]-当您是学生时，可以通过以下途径进行私人构建（通常每月$ 69） [Github Student Developer Pack](https://education.github.com/pack).
   * [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) [免费/学分]-免费学生计划，最多可使用五个私有存储库访问StyleCI.
-  * [Semaphore](http://semaphoreci.com/docs/education-plans.html) [免费/折扣]-学生和教育工作者的免费帐户，符合条件的学校和机构可享受25％的折扣.
+  * [Semaphore](https://docs.semaphoreci.com/account-management/discounts/) [免费/折扣]-学生和教育工作者的免费帐户，符合条件的学校和机构可享受25％的折扣.
 
 ## Payments
 

@@ -38,6 +38,7 @@
 - [Dark lang Realworld](https://github.com/MartinKavik/seed-realworld-darklang) -_Quickstart with Webpack_上集成了Seed Realworld示例 [Dark lang](https://darklang.com/) 真实世界.
 - [Official examples](https://github.com/seed-rs/seed/tree/master/examples) -官方回购中包含的较小示例.
 - [ERWA mytodo](https://github.com/seed-rs/erwa_mytodo)  -Rust全栈示例.  柴油，火箭，种子.
+- [Template for GUIs with seed+gotham](https://gitlab.com/liketechnik/local-gui-seed-gotham) -具有Gotham，生锈嵌入，Web视图和Seed的本地/桌面GUI的类似电子的模板.
 
 ## Projects Using Seed
 
