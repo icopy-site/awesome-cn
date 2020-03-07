@@ -310,7 +310,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [bepoptimist](https://github.com/sheoak/zsh-bepoptimist) -重新映射法语的ZSH`vi`模式 [bépo keyboard](http://bepo.fr/wiki/Accueil).
 * [betterbrew](https://github.com/timothyrowan/betterbrew-zsh-plugin) -为“ brew”添加更多命令别名
 * [bitbucket-git-helpers](https://github.com/unixorn/bitbucket-git-helpers.plugin.zsh) -添加了辅助脚本，以允许您创建位桶PR或在当前分支中打开目录.
-* [blackbox](https://github.com/StackExchange/blackbox) - [Stack Exchange](https://stackexchange.com)的工具包，用于将密钥/凭证安全地存储在git仓库中.
+* [blackbox](https://github.com/StackExchange/blackbox) - [Stack Exchange](https://stackexchange.com)的工具包，用于将密钥/凭证安全地存储在git库中.
 * [boss-git](https://github.com/bossjones/boss-git-zsh-plugin) -为`git`添加了一些方便的别名.
 * [branch-manager](https://github.com/elstgav/branch-manager) -用于管理`git`分支的插件.
 * [brew](https://github.com/wolffaxn/brew-zsh-plugin) -的独立插件 [Homebrew](https://brew.sh/) 包管理器.
@@ -320,7 +320,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [caniuse](https://github.com/walesmd/caniuse.plugin.zsh) -添加 [Can I Use...](https://caniuse.com) 对ZSH的支持.
 * [careful_rm](https://github.com/MikeDacre/careful_rm) -rm的包装，添加了垃圾回收/有用的警告.
 * [case](https://github.com/rtuin/zsh-case) -ZSH插件，添加了两个别名“ tolower”和“ touper”来切换输出大小写.
-* [cd-gitroot](https://github.com/mollifier/cd-gitroot) -一个ZSH插件，用于将cd存入git仓库根目录.
+* [cd-gitroot](https://github.com/mollifier/cd-gitroot) -ZSH插件，用于`cd`到`git`仓库根目录.
 * [cd-reminder](https://github.com/bartboy011/cd-reminder) -当进入指定目录时，显示提醒.
 * [cd-reporoot](https://github.com/P4Cu/cd-reporoot) -ZSH插件，用于“ cd”到当前存储库检出的根目录.
 * [cd-ssh](https://github.com/jeffwalter/zsh-plugin-cd-ssh) -如果不小心将cd存入服务器，则将ssh存入服务器.
@@ -458,7 +458,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [hints](https://github.com/joepvd/zsh-hints) -在编辑缓冲区的正下方显示glob和参数标志以及其他不可完成的信息.
 * [hipchat](https://github.com/robertzk/hipchat.zsh) -从外壳发送hipchat消息.
 * [histdb](https://github.com/larkery/zsh-histdb) -将您的历史记录存储在SQLite数据库中.
-* [history-enquirer](https://github.com/zthxxx/zsh-history-enquirer)  -通过更多交互和多行选择菜单增强了历史搜索.  需要nodejs.
+* [history-enquirer](https://github.com/zthxxx/zsh-history-enquirer)  -通过更多交互和多行选择菜单增强了历史记录搜索.  需要nodejs.
 * [history-filter](https://github.com/MichaelAquilina/zsh-history-filter)  -允许您指定模式，这些模式将自动排除命令被插入到您的永久历史记录中.  对于防止机密信息特别有用.
 * [history-here](https://github.com/leonjza/history-here) -绑定`^ G`可以快速切换当前shell历史记录文件的位置.
 * [history-popup](https://github.com/lcrespom/oh-my-zsh-history-popup) -捕获PageUp键并使用“对话框”打开带有历史记录的弹出菜单，因此用户可以交互地浏览它并选择历史记录行以返回到提示.
@@ -541,6 +541,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [new-file-from-template](https://github.com/zpm-zsh/new-file-from-template) -从模板生成文件.
 * [nice-exit-code](https://github.com/bric3/nice-exit-code) -将退出状态代码映射到人类可读的字符串.
 * [nix-shell](https://github.com/chisui/zsh-nix-shell) -插件，可让您在“ nix-shell”环境中将ZSH用作默认外壳.
+* [nnvm](https://github.com/torifat/nnvm)  -根据`.nvmrc`自动切换节点版本.  需要 [n](https://github.com/tj/n).
 * [node-env-installer](https://github.com/shiro-saber/node-env-installer) -使用`nvm`为当前项目安装新版本和模块.
 * [node-path](https://github.com/andyrichardson/zsh-node-path) -自动将当前目录的“ npm bin”添加到路径.
 * [node](https://github.com/srijanshetty/node.plugin.zsh) -Srijan Shetty的ZSH的nodejs插件，具有对`nvm`补全进行缓存和对`nvm`的自动加载（如果存在）的功能.
@@ -552,7 +553,8 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [notes (chipsenkbeil)](https://github.com/chipsenkbeil/zsh-notes) -在ZSH中提供快速的笔记编辑体验.
 * [notify](https://github.com/marzocchi/zsh-notify) -ZSH插件（在macOS和Linux上），在终端以非零退出状态终止命令时或在终端应用程序处于后台（或命令终端）超过30秒完成时，会发布桌面通知标签无效）.
 * [npm](https://github.com/igoradamenko/npm.插入.zsh)  -添加`npm`别名和命令完成.  基于Oh-My-Zsh [npm](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/npm) 插入.
-* [nvm-auto-use](https://github.com/tomsquest/nvm-auto-use.zsh) -每当您进入包含.nvmrc文件的目录时，都会自动调用nvm use，该文件包含一个字符串，告诉nvm使用哪个节点.
+* [npms](https://github.com/torifat/npms)  -由`fzf`支持的实用程序，用于交互使用npm脚本.  需要 [fzf](https://github.com/junegunn/fzf) 和 [jq](https://stedolan.github.io/jq/).
+* [nvm-auto-use](https://github.com/tomsquest/nvm-auto-use.zsh) -每当您进入包含.nvmrc文件的目录时，都会自动调用nvm use，该文件带有一个字符串，告诉nvm使用哪个节点.
 * [nvm-auto](https://github.com/dijitalmunky/nvm-auto) -旨在尽可能减少键入nvm use的需求，尤其是当您经常在node.js版本之间切换并在项目中使用`.nvmrc`文件来管理项目所需的节点版本时，尤其如此.
 * [nvm-lazy](https://github.com/davidparsson/zsh-nvm-lazy)  -用于延迟加载oh-my-zsh的** nvm **插件的插件.  它支持延迟加载nvm到多个二进制/入口点，默认值为nvm，node和npm.
 * [nvm](https://github.com/lukechilds/zsh-nvm) -ZSH插件，用于安装，更新和加载`nvm`.
@@ -731,7 +733,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) -ZSH插件，提醒您使用定义的别名.
 * [youtube-dl-aliases](https://github.com/katrinleinweber/oh-my-zsh-youtube-dl-aliases) -添加`yt`别名以从YouTube下载视频.
 * [youtube-dl](https://github.com/joow/youtube-dl) -适用于的简单插件 [youtube-dl](https://youtube-dl.org/).
-* [z-a-bin-gem-node](https://github.com/zinit-zsh/z-a-bin-gem-node) -Zinit扩展程序，在不更改$ PATH的情况下公开二进制文件，安装Ruby gem和Node模块，并轻松公开其二进制文件，并在相关插件或代码段更新时更新gem和模块.
+* [z-a-bin-gem-node](https://github.com/zinit-zsh/z-a-bin-gem-node) -Zinit扩展程序，无需更改$ PATH就可以公开二进制文件，可以安装Ruby gem和Node模块，并轻松公开其二进制文件，并在相关插件或代码段更新时更新gem和模块.
 * [z-a-man](https://github.com/zinit-zsh/z-a-man) - Zinit extension that generates man pages for all plugins and snippets.
 * [z-a-patch-dl](https://github.com/zinit-zsh/z-a-patch-dl) -Zinit扩展程序，用于通过提供的“ dl”和“ patch”冰下载文件并应用补丁.
 * [z-a-rust](https://github.com/zinit-zsh/z-a-rust) -Zinit扩展，可在插件目录内安装防锈和防锈包装.
@@ -1231,7 +1233,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) -基于流行的同名vim插件的电力线字体，相当重的ZSH提示符，在黑暗背景下效果很好.
 * [prompt_j2](https://github.com/malinoskj2/prompt_j2) -具有动态退出状态指示器，可以动态更改为两行以显示上下文.
 * [punctual](https://github.com/dannynimmo/punctual-zsh-theme) -易于定制，受到 [spaceship](https://github.com/denysdovhan/spaceship-prompt).
-* [pure-agnoster](https://github.com/yourfin/pure-agnoster)  -纯粹和无知的混搭.  具有`git`装饰，可在深色和浅色终端背景下正常使用.
+* [pure-agnoster](https://github.com/yourfin/pure-agnoster)  -纯粹和无知的混搭.  具有git装饰，可在深色和浅色终端背景下正常使用.
 * [pure](https://github.com/sindresorhus/pure) -漂亮，最小和快速的ZSH提示.
 * [purify](https://github.com/banminkyoz/purify) -简单，快速和酷的提示.
 * [purity](https://github.com/petermbenjamin/purity) -受到robbyrussell主题+纯提示的启发.
@@ -1275,7 +1277,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [senpai](https://github.com/hiroru/senpai-zsh)  -Devops的干净提示主题.  包括git信息，kubernetes上下文，AWS配置文件，GCP项目和Azure活动云.
 * [seppuku](https://github.com/Helianthella/seppuku) -干净而最小的主题灵感来自 [cloud](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/cloud.zsh-theme).
 * [sepshell](https://github.com/sepehr/sepshell) -基于旧的迷失的taybalt主题的干净，最小的ZSH主题，带有git划分为对等/合并/重新设置基准的模式和可配置的提示符号.
-* [Seti_UX](https://github.com/ginfuru/iTerm-Seti_UX) -一个简单的与omz兼容的主题，并带有相应的iTerm 2配色方案.
+* [Seti_UX](https://github.com/ginfuru/iTerm-Seti_UX) -与omz兼容的简单主题以及相应的iTerm 2配色方案.
 * [sfz](https://github.com/mreinhardt/sfz-prompt.zsh) -精益提示的演变，它本身就是对pure的重写.
 * [shayan](https://github.com/shayanh/shayan-zsh-theme) -具有`git`状态装饰的简单主题.
 * [shellder](https://github.com/simnalamburt/shellder)  -带有git分支显示的最小主题.  需要兼容Powerline的字体.
@@ -1293,7 +1295,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [sinon](https://github.com/k-kinzal/oh-my-zsh-sinon-theme)  -k-kinzal的sinon主题.  包括git状态装饰.
 * [sixlive](https://github.com/sixlive/sixlive-zsh-theme)  -此主题具有唯一的目录列表.  在`git`项目中时，目录显示的范围为当前存储库根目录.
 * [sk9](https://github.com/skeiter9/sk9-zsh) -Skeiter9的ZSH主题.
-* [skeletor-syntax](https://github.com/ramonmcros/skeletor-syntax) -受He-Man和Universal Masters的Skeletor启发，为Atom，Prism和ZSH设计主题集合.
+* [skeletor-syntax](https://github.com/ramonmcros/skeletor-syntax) -受He-Man和Universe of Masters的Skeletor启发，为Atom，Prism和ZSH设计主题集合.
 * [skill](https://github.com/frontendmonster/oh-my-zsh-skill-theme) -针对暗终端进行了优化，显示`git`状态装饰.
 * [sleeplessmind](https://github.com/godbout/sleeplessmind-zsh-theme) -ZSH主题的灵感来自 [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) 和 [odin](https://github.com/tylerreckart/odin).
 * [slimline](https://github.com/mengelbrecht/slimline)  -最小，快速且优雅的ZSH提示.  在正确的时间显示正确的信息.
@@ -1384,7 +1386,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 此处列出的某些主题需要与Powerline兼容的字体，以下是一些：
 
 * [Awesome Terminal Fonts](https://github.com/gabrielelana/awesome-terminal-fonts) -包括一些漂亮的等距图标的字体家族.
-* [Fantasque Awesome Font](https://github.com/ztomer/fantasque_awesome_powerline) -一个不错的等宽字体，并添加了Font-Awesome，Octoicon和Powerline-Glyphs.
+* [Fantasque Awesome Font](https://github.com/ztomer/fantasque_awesome_powerline) -一个不错的等宽字体，并添加了Font-Awesome，Octoicons和Powerline-Glyphs.
 * [Fantasque-sans](https://github.com/belluzj/fantasque-sans) -另一种与Powerline兼容的字体.
 * [Hack](https://sourcefoundry.org/hack/) -另一种与Powerline兼容的字体，专门为源代码设计.
 * [Input Mono](http://input.fontbureau.com/)  -专为代码设计的字体家族.  它提供等宽字体和比例字体，并包含电力线字形.

@@ -49,10 +49,6 @@
 **免费**网站开发初学者和中级指南\
 *（HTML，CSS，JavaScript）*
 
-#### [Gibbon](https://gibbon.co/topics/programming)
-**混合**精选的计算机编程学习路径\
-*（网络开发，JavaScript，AngularJS，Ruby，Rails，iOS，Haskell，计算机科学）*
-
 #### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
  **混合**目录，用于网络开发和编程的课程，视频和其他学习资源.  质量可能会有所不同.\
 *（HTML，CSS，JavaScript，AngularJS，Rails）*
@@ -67,7 +63,7 @@
 
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **免费**带有互动练习和测验的SQL课程\
-*(SQL, database concepts)*
+*（SQL，数据库概念）*
 
 #### [GitHub Learning Lab](https://lab.github.com/)
  **免费**自定进度的交互式项目，用于学习Git和GitHub.  由GitHub的培训团队创建和维护.\
@@ -128,7 +124,7 @@
 *（HTML，CSS，JavaScript，Java，Haskell，Python）*
 
 #### [Stanford on iTunes U](https://itunes.stanford.edu/)
-斯坦福大学的iTunes上的**免费**编程和移动开发课程\
+斯坦福大学的iTunes上的**免费**编程和移动开发课程，\
 *（编程，启动，iOS）*
 
 #### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48&sort=popular)
@@ -210,4 +206,4 @@
 
 ## Contributing
 
-代替正式的样式指南，请注意保持此列表的现有样式.
+In lieu of a formal styleguide, take care to maintain the existing style of this list.

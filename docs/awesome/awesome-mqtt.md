@@ -34,7 +34,7 @@
 ### Broker
 
 * [ActiveMQ](http://activemq.apache.org/) -快速的Java多协议消息传递和集成模式服务器.
-* [Aedes](https://github.com/mcollina/aedes) -可以在任何流服务器上以节点方式运行的准系统MQTT代理.
+* [Aedes](https://github.com/moscajs/aedes) -可以在任何流服务器上以节点方式运行的准系统MQTT代理.
 * [Emitter](https://github.com/emitter-io/emitter) -基于MQTT协议并具有消息存储功能的分布式，可伸缩且容错的发布-订阅消息传递平台.
 * [EMQ X](https://github.com/emqx/emqx) -适用于5G时代的IoT的可扩展且可靠的实时MQTT消息引擎.
 * [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) -ESP8266上的基本MQTT Broker.
@@ -58,7 +58,7 @@
 
 * [Adafruit IO](https://io.adafruit.com)  -Adafruit IO是将项目连接到Internet的最简单方法.  您可以使用您选择的编程语言（我们有很多库）轻松地将您的项目连接到Adafruit IO，并且可以通过Internet进行控制或监视.  Adafruit IO存储的数据由您管理和控制.
 - [Alibaba Cloud IoT Platform](https://www.alibabacloud.com/product/iot) -在设备和IoT平台之间提供安全可靠的通信，使您可以在单个IoT平台上管理大量设备.
-- [AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls)  -AWS IoT Core是一项托管的云服务，可让连接的设备轻松，安全地与云应用程序和其他设备交互.  AWS IoT Core可支持数十亿个设备和数以万计的消息，并可将这些消息可靠且安全地处理并路由到AWS终端节点和其他设备.  借助AWS IoT Core，您的应用程序可以随时跟踪所有设备并与之通信，即使它们没有连接也是如此.
+- [AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls)  -AWS IoT Core是一项托管的云服务，可让连接的设备轻松，安全地与云应用程序和其他设备交互.  AWS IoT Core可以支持数十亿个设备和数以万亿计的消息，并且可以将这些消息可靠且安全地处理并路由到AWS终端节点和其他设备.  借助AWS IoT Core，您的应用程序可以随时跟踪所有设备并与之通信，即使它们没有连接也是如此.
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)  -在IoT应用程序及其管理的设备之间实现高度安全和可靠的通信.  Azure IoT中心提供了一个云托管的解决方案后端，可以连接几乎任何设备.  通过每设备身份验证，内置设备管理和扩展配置，将您的解决方案从云扩展到边缘.
 - [CloudMQTT](https://www.cloudmqtt.com/)  -托管物联网的消息代理.  完美配置和优化的物联网消息队列，几秒钟即可完成.
 - [EMQ X MQTT Cloud](https://cloud.emqx.io/) -由EMQ团队提供最佳实践的安全，可靠的MQTT云服务.

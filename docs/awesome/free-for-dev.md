@@ -136,6 +136,7 @@
   * [myfakeapi.com](https://myfakeapi.com) —为开发人员提供的免费的无服务器API模拟服务
   * [microenv.com](https://microenv.com) —为开发人员创建伪造的REST API，并有可能在Docker容器中生成代码和应用程​​序.
   * [OCR.Space](https://ocr.space/)  —一个OCR API，用于解析图像和pdf文件，并以JSON格式返回文本结果.  每月免费提供25,000个请求.
+  * [OpenAPI3 Designer](https://interaction-design.co.za/openapidesigner/) —可视地免费创建Open API 3定义
   * [parsehub.com](https://parsehub.com/) —从动态网站提取数据，将动态网站转换为API，免费提供5个项目
   * [Pixela](https://pixe.la/)  -免费的日流数据库服务.  所有操作均由API执行.  热图和折线图的可视化也是可能的.
   * [Postbacks](https://postbacks.io/)  -稍后请求HTTP回调.  注册时有8,000个免费请求.
@@ -388,7 +389,7 @@
   * [gitential.com](https://gitential.com)  —软件开发分析平台.  免费：无限的公共存储库，无限的用户，私人存储库的免费试用.  适用于企业的本地版本.
   * [healthchecks.io](https://healthchecks.io)  —监视您的cron作业和后台任务.  免费，最多20张支票.
   * [inspector.dev](https://www.inspector.dev) -不到一分钟的时间，一个完整的实时监控仪表板，并且永久免费.
-  * [instrumentalapp.com](https://instrumentalapp.com) -精美且易于使用的应用程序和服务器监控，可免费提供多达500个指标和3个小时的数据可见性
+  * [instrumentalapp.com](https://instrumentalapp.com) -免费提供多达500个指标和3个小时的数据可见性的美观，易于使用的应用程序和服务器监控
   * [keychest.net/speedtest](https://keychest.net/speedtest) -针对Digital Ocean的独立速度测试和TLS握手延迟测试
   * [letsmonitor.org](https://letsmonitor.org) -SSL监控，最多可免费使用5个监控器
   * [loader.io](https://loader.io/) —有限制的免费负载测试工具
@@ -435,7 +436,7 @@
   * [kickbox.io](https://kickbox.io/) —验证100封电子邮件的免费，实时API是否可用
   * [mail-tester.com](https://www.mail-tester.com) —测试电子邮件的dns / spf / dkim / dmarc设置是否正确，每月20个免费
   * [mailboxlayer.com](https://mailboxlayer.com/)  —用于开发人员的电子邮件验证和验证JSON API.  每月1,000个免费API请求
-  * [mailcatcher.me](https://mailcatcher.me/) — Catches mail and serves it through a web interface
+  * [mailcatcher.me](https://mailcatcher.me/) —捕获邮件并通过Web界面进行投放
   * [mailchimp.com](https://mailchimp.com/) —每月2,000个订阅者和12,000封电子邮件
   * [MailerLite.com](https://www.mailerlite.com) — 1,000个订阅者/月，无限制的免费电子邮件
   * [mailinator.com](https://www.mailinator.com/) —免费的公共电子邮件系统，您可以在其中使用所需的任何收件箱
@@ -480,9 +481,9 @@
   * [formspark.io](https://formspark.io/) -表格到电子邮件服务，免费计划允许无限制表格，每月500份提交，由客户支持团队提供支持.
   * [Formspree.io](https://formspree.io/)  —使用HTTP POST请求发送电子邮件.  免费套餐每月限制1000个提交，并且必须在API调用中公开电子邮件地址.
   * [getform.io](https://getform.io/) -面向设计人员和开发人员的表单后端平台，1个表单，100个提交，单个文件上传，100MB文件存储.
-  * [Kwes.io](https://kwes.io/)  -功能丰富的表单端点.  非常适合静态网站.  免费计划包括最多1个网站，每月最多50个提交.
+  * [Kwes.io](https://kwes.io/) - Feature rich form endpoint. Works great with static sites. Free plan includes up 1 website with up to 50 submissions per month.
   * [smartforms.dev](https://smartforms.dev/) -强大而简单的网站后端表单，永久免费的计划允许每月50次提交，100MB文件存储，Zapier集成，CSV / JSON导出，自定义重定向，自定义响应页面，Telegram＆Slack bot，单个电子邮件通知.
-  * [staticforms.xyz](https://www.staticforms.xyz/)  -无需任何服务器端代码即可轻松轻松地集成HTML表单.  用户提交表单后，会将包含表单内容的电子邮件发送到您的注册地址.
+  * [staticforms.xyz](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server side code for free. After user submits the form an email will be sent to your registered address with form content.
   * [Typeform.com](https://www.typeform.com/)  —在网站上包括设计精美的表格.  免费计划每个表格只允许10个字段，每月只允许100个回复.
 
 ## CDN and Protection
@@ -510,7 +511,7 @@
 ## PaaS
 
   * [appharbor.com](https://appharbor.com/) —一个提供1个免费工作人员的.Net PaaS
-  * [configure.it](https://www.configure.it/) — Mobile app development platform, free for 2 projects, limited features but no resource limits
+  * [configure.it](https://www.configure.it/) —移动应用开发平台，可免费使用2个项目，功能有限，但没有资源限制
   * [codenameone.com](https://www.codenameone.com/)  —适用于Java / Kotlin开发人员的开源，跨平台，移动应用程序开发工具链.  免费用于商业用途，项目数量不受限制
   * [engineyard.com](https://www.engineyard.com/) —发动机场提供500小时免费
   * [firebase.google.com](https://firebase.google.com) —构建实时应用程序，免费计划具有最大100个连接，10 GB数据传输，1 GB数据存储，1 GB主机存储和10 GB主机传输
@@ -606,7 +607,7 @@
   * [Yandex.Connect](https://connect.yandex.com/pdd/) —最多可容纳1,000位用户的免费电子邮件和DNS托管
   * [zilore.com](https://zilore.com/ru/dns) —免费的DNS托管.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) —具有动态DNS支持的免费DNS托管.
-  * [zonewatcher.com](https://zonewatcher.com)  —自动备份和DNS更改监视.  1个域名免费
+  * [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
 
 ## IaaS
@@ -617,7 +618,7 @@
 
 ## DBaaS
 
-   * [airtable.com](https://airtable.com/) — Looks like a spreadsheet, but it's a relational database, unlimited bases, 1,200 rows/base and 1,000 API requests/month
+   * [airtable.com](https://airtable.com/) —看起来像电子表格，但它是一个关系数据库，无限制的基础，每月1,200行，每月1,000个API请求
    * [elephantsql.com](https://www.elephantsql.com/) — PostgreSQL即服务，免费20 MB
    * [FaunaDB](https://fauna.com/) —无服务器云数据库，具有本机GraphQL，多模型访问和每日免费层达5GB
    * [graphenedb.com](https://www.graphenedb.com/) — Neo4j即服务，最多可支持1,000个节点和10,000个关系
@@ -630,7 +631,7 @@
    * [remotemysql.com](https://remotemysql.com) —远程MySQL数据库托管，设置是即时的，并使用phpMyAdmin进行管理，免费提供100Mb数据，免费备份，无查询限制和99％的正常运行时间.
    * [InfluxDB](https://www.influxdata.com/) —时间序列数据库，最多可提供3MB / 5分钟的写入，30MB / 5分钟的读取和10,000个基数序列
    * [Quickmetrics](https://www.quickmetrics.io/) —包含带有仪表板的时间序列数据库，每天最多可释放10,000个事件，并且总共提供5个指标.
-   * [restdb.io](https://restdb.io/)  -快速，简单的NoSQL云数据库服务.  使用restdb.io，您可以获得模式，关系，自动REST API（带有类似MongoDB的查询）以及用于处理数据的高效多用户管理UI.  免费计划允许每秒3个用户，2500条记录和1个API请求.
+   * [restdb.io](https://restdb.io/)  -快速，简单的NoSQL云数据库服务.  使用restdb.io，您可以获得架构，关系，自动REST API（带有类似MongoDB的查询）以及用于处理数据的高效多用户管理UI.  免费计划允许每秒3个用户，2500条记录和1个API请求.
    * [Unbounded](https://www.unbounded.cloud/)  -使用Javascript作为查询语言的NoSQL DBaaS.  免费套餐永久允许每月每月50,000次读写.
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
@@ -649,7 +650,7 @@
 ## Issue Tracking and Project Management
 
    * [acunote.com](https://www.acunote.com/) —免费的项目管理和SCRUM软件，最多可容纳5个团队成员
-   * [asana.com](https://asana.com/) —与合作者一起私人项目免费
+   * [asana.com](https://asana.com/) — Free for private project with collaborators
    * [Azure DevOps](https://azure.microsoft.com/services/devops/)  -无限的免费私人代码存储库；  跟踪错误，工作项，反馈等
    * [Basecamp](https://basecamp.com/personal)  -待办事项列表，里程碑管理，类似论坛的消息传递，文件共享和时间跟踪.  最多3个项目，20个用户和1GB的存储空间.
    * [bitrix24.com](https://www.bitrix24.com/) —免费的内部网和项目管理工具
@@ -693,6 +694,7 @@
 
 ## Storage and Media Processing
 
+   * [image4.io](https://image4.io/)  —通过SDK，集成和迁移工具，可以为网站和应用程序进行图像上传，强大的操作，存储和交付.  免费套餐包括25个积分.  1个信用额度等于1 GB的CDN使用量，1GB的存储量或1000个图像转换.
    * [cloudimage.com](https://cloudimage.com/)  —全面的图像优化和CDN服务，在全球拥有1500多个以上的业务点.  多种图像尺寸调整，压缩，水印功能.  用于响应图像，360图像制作和图像编辑的开源插件.  25GB CDN流量，25GB高速缓存存储和无限制转换的免费月租计划.
    * [cloudinary.com](https://cloudinary.com/)  —使用Ruby，Python，Java，PHP，Objective-C等库，可用于网站和应用程序的图像上传，强大的操作，存储和交付.  永久免费套餐包括每月7,500张图像，2 GB存储，5 GB带宽
    * [easyDB.io](https://easydb.io/)  —一键式托管数据库提供程序.  它们为开发目的提供了您选择的编程语言的数据库.  该数据库是临时数据库，将在24小时或72小时免费套餐后删除.
@@ -709,7 +711,7 @@
    * [piio.co](https://piio.co/)  —为每个网站进行响应式图像优化和交付.  针对开发人员和个人网站的免费计划.  包括免费CDN，WebP和延迟加载.
    * [placeholder.com](https://placeholder.com/) —快速简单的图像占位符服务
    * [placekitten.com](https://placekitten.com/) —一种快速简单的服务，用于获取小猫图片以用作占位符
-   * [plot.ly](https://plot.ly/) — Graph and share your data. Free tier includes unlimited public files and 10 private files
+   * [plot.ly](https://plot.ly/)  —图形化并共享您的数据.  免费套餐包括无限的公共文件和10个私人文件
    * [podio.com](https://podio.com/) —您可以与多达五个人的团队一起使用Podio，并尝试基本计划的功能，但用户管理除外
    * [QuickChart](https://quickchart.io) —生成可嵌入的图像图表，图形和QR码
    * [redbooth.com](https://redbooth.com) — P2P文件同步，最多2个用户免费

@@ -16,7 +16,7 @@
 * [Haus Automatisierung](https://haus-automatisierung.com/) -新闻，博客，Youtube，教程，...
 * [Homematic Forum](https://homematic-forum.de/forum/) -论坛
 * [Homematic Forum: Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) -由AndiN精心策划的链接列表.
-* [Homematic Forum: HomeMatic - Tipps für Anfänger](https://homematic-forum.de/forum/viewtopic.php?f=31&t=22801) -Sammy为初学者准备的必读材料
+* [Homematic Forum: HomeMatic - Tipps für Anfänger](https://homematic-forum.de/forum/viewtopic.php?f=31&t=22801) -Sammy初学者必读的书
 * [Homematic Guru](https://homematic-guru.de/) -新闻，博客，教程等.
 * [Homematic Inside](https://www.homematic-inside.de/) -新闻，博客，教程等.
 * [Technikkram](https://technikkram.net) -新闻，博客，教程等.
@@ -30,8 +30,8 @@
 * [Dissecting HomeMatic AES](https://git.zerfleddert.de/hmcfgusb/AES/) -BidCos协议AES握手说明.
 * [Direktverknüpfungen im Expertenmodus](https://www.youtube.com/watch?v=1B4iwtK1Rmo) -Frank Grass演讲.
 * [Virtuelle Aktorkanäle](https://www.youtube.com/watch?v=Cwxwtig6Q1I) -Frank Grass演讲.
-* [Script Documentation](http://www.wikimatic.de/wiki/Script_Dokumentation) -非官方的homematic脚本参考.
-* [Keymatic Konfiguration](https://homematic-forum.de/forum/viewtopic.php?f=31&t=19196) -在Homematic论坛中rewe0815的贡献.
+* [Script Documentation](http://www.wikimatic.de/wiki/Script_Dokumentation) -非官方的Homematic脚本参考.
+* [Keymatic Konfiguration](https://homematic-forum.de/forum/viewtopic.php?f=31&t=19196) -通过rewe0815在Homematic论坛中发帖.
 
 ## Mobile Apps
 
@@ -57,39 +57,42 @@
 * [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) -使用AskSinPP进行DIY组件的介绍，文档和项目
 * [Beispiel_AskSinPP](https://github.com/jp112sdl/Beispiel_AskSinPP) -使用的示例草图 [AskSinPP](https://github.com/pa-pa/AskSinPP) 图书馆
 * [HAUS-BUS.DE](http://www.haus-bus.de/) -Homematic有线兼容设备.
-* [Homematic Wired Hombrew Hardware](https://github.com/jfische) -用于Homematic有线的各种Homebrew传感器/执行器.
-* [stall.biz](https://www.stall.biz/) -备用天线，客厅，气象站的多传感器，...
+* [Homematic Wired Hombrew Hardware](https://github.com/jfische) -各种用于家庭布线的自酿传感器/执行器.
+* [stall.biz](https://www.stall.biz/) -备用天线，用于客厅，气象站的多功能传感器...
 
 
 ## CCU Addons
 
 * [CCU Historian](https://ccu-historian.de/) -长期存档和图形.
 * [CUxD](https://www.homematic-inside.de/software/tag/Zusatzsoftware )  -CCU的“皮革工人”.  连接FS20，...（EnOcean，...），提供虚拟设备和有用的工具.
-* [Email](https://github.com/jens-maus/hm_email) -用于电子邮件传递的HomeMatic CCU插件.
+* [Email](https://github.com/jens-maus/hm_email) -用于发送电子邮件的HomeMatic CCU插件.
 * [hm-print](https://github.com/litti/hm-print) -打印CCU程序.
 * [hm-tools](https://github.com/fhetty/hm-tools) -RaspberryMatic的工具集合.
 * [hm_pdetect](https://github.com/jens-maus/hm_pdetect) -通过FRITZ！Box进行状态检测
 * [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - 
 * [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) -适用于Philips Hue的HomeMatic插件.
-* [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) -Homematic CCU2或Raspberrymatic设备的插件，充当check_mk_agent.
+* [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) -用于Homematic CCU2或Raspberrymatic设备的插件，充当check_mk_agent.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) -jq打包为Homematic CCU3的插件.
 * [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) -蚊子包装为Homematic CCU3和RaspberryMatic的附件
-* [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) -RaspberryMatic插件，RaspberryMatic可以自我更新，通过GUI简化WLAN配置，并且可以安装和更新其他插件，而无需强制重启
+* [Patcher](https://github.com/hobbyquaker/Patcher) -CCU3插件，可轻松应用补丁.
+* [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) -RaspberryMatic插件，RaspberryMatic可以更新自身，通过GUI简化WLAN配置，并且可以安装和更新其他插件，而无需强制重启
 * [Redis](https://github.com/hobbyquaker/ccu-addon-redis) -Redis打包为Homematic CCU3和RaspberryMatic的插件
-* [RedMatic](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/)  作为Homematic CCU3和RaspberryMatic的插件.  提供舒适的HomeKit集成和用于将CCU连接到MQTT的特殊节点.
+* [RedMatic](https://github.com/rdmtc/RedMatic) - [Node-RED](https://nodered.org/)  作为Homematic CCU3和RaspberryMatic的插件.  提供便捷的HomeKit集成以及用于将CCU连接到MQTT的特殊节点.
 * [XML-API](https://github.com/hobbyquaker/xml-api) -通过HTTP / XML简化了CCU访问.
 
 
 ## Interfacing Software
 
-* [CCU-Jack](https://github.com/mdzio/ccu-jack) -CCU-Jack提供了简单，安全的基于REST的访问.
+* [CCU-Jack](https://github.com/mdzio/ccu-jack) -CCU-Jack提供对CCU的基于REST的简单和安全的访问，也可以作为附件使用.
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) - [Homebridge](https://github.com/nfarina/homebridge) 用于将Homematic设备集成到HomeKit的插件.
+* [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) -通过插件集成了第三方设备（例如Hue，Harmony，Netatmo，Sonos），也可以作为插件使用.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Homematic CCU的节点.
 
 
 
 ## Misc Software
 
-* [check_homematic](https://github.com/hobbyquaker/check_homematic) -Nagios / Icinga插件，用于检查Homematic CCU.
+* [check_homematic](https://github.com/hobbyquaker/check_homematic) -用于检查Homematic CCU的Nagios / Icinga插件.
 * [hm-simulator](https://github.com/hobbyquaker/hm-simulator) -模拟（部分）Homematic CCU.
 * [hmcfgusb](https://git.zerfleddert.de/cgi-bin/gitweb.cgi/hmcfgusb) -在Linux / Unix上使用HM-CFG-USB（2）的实用程序.
 * [homematic-manager](https://github.com/hobbyquaker/homematic-manager) -管理homematic接口进程（rfd / hs485d / homegear）.
@@ -103,7 +106,7 @@
 * [homematic-rega](https://github.com/hobbyquaker/homematic-rega) -Node.js Homematic CCU ReGaHSS远程脚本接口.
 * [homematicip-rest-api](https://github.com/coreGreenberet/homematicip-rest-api) -用于homematicIP REST API（基于云/访问点）的Python包装器.
 * [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) -Xmlrpc客户端和服务器Node.js模块.
-* [pmatic](https://github.com/LarsMichelsen/pmatic)  -用于Homematic的Python API.  使用方便.
+* [pmatic](https://github.com/LarsMichelsen/pmatic)  -Homematic的Python API.  易于使用.
 * [pyhomematic](https://github.com/danielperna84/pyhomematic) -与Homematic设备进行交互的Python 3接口.
 
 ## Smart Home Software supporting Homematic

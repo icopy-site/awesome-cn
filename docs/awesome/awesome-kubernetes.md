@@ -290,7 +290,7 @@ Installers
 
 
   - [DevSpace](https://github.com/covexo/devspace) -直接在任何Kubernetes集群内部构建，测试和运行代码
-  - [Draft](http://draft.sh) - A tool for developers to create cloud native applications with Kubernetes
+  - [Draft](http://draft.sh) -开发人员使用Kubernetes创建云原生应用程序的工具
   - [Eclipse Che](https://github.com/eclipse/che) -具有SSH和多用户支持的云开发工作区
   - [Garden](https://garden.io) -协调您的开发工作流程，以使开发和开发微服务更快，更轻松
   - [Knative](https://github.com/knative/) -建立，部署和管理现代无服务器工作负载的平台
@@ -312,7 +312,7 @@ Installers
 
 
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -阿里云Kubernetes云容器服务
-   - [AWS EKS](https://aws.amazon.com/eks/) -亚马逊弹性容器服务
+   - [AWS EKS](https://aws.amazon.com/eks/) - Amazon Elastic Container Service
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -Azure Kubernetes服务
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) -Google Kubernetes引擎
@@ -479,7 +479,7 @@ Projects
 * [Ambassador](http://www.getambassador.io) -基于Envoy代理构建的API网关
 * [Argo](https://github.com/argoproj/argo) -Kubernetes的工作流引擎
 * [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
-* [Escalator](https://github.com/atlassian/escalator) -适用于Kubernetes的批处理或作业优化的水平自动缩放器
+* [Escalator](https://github.com/atlassian/escalator) - A batch or job optimized horizontal autoscaler for Kubernetes
 * [Fission Workflows](https://github.com/fission/fission-workflows) -基于工作流的无服务器功能组合
 * [Forecastle](https://github.com/stakater/Forecastle) -可以动态发现并提供启动板以访问Kubernetes上部署的应用程序的仪表板
 * [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) -代理，可让webhook访问防火墙后的运行服务
@@ -505,7 +505,7 @@ Projects
 
 * [CNAB](https://cnab.io) -CNAB促进了容器本地应用程序及其耦合服务的捆绑，安装和管理.
 * [Helm](http://helm.sh) -有关更多信息，请查看- [Awesome Helm](https://github.com/cdwv/awesome-helm).
-* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他）.
+* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他服务）.
 
 ## Monitoring Services
 
@@ -535,13 +535,14 @@ Projects
 * [Outcold Solutions](https://www.outcoldsolutions.com) -在Splunk Enterprise和Splunk Cloud中监控Kubernetes，OpenShift和Docker（指标和日志转发）
 * [Prometheus](http://prometheus.io)
 * [Searchlight](https://github.com/appscode/searchlight)
+* [StatusBay](https://github.com/similarweb/statusbay) -Kubernetes部署可见性（包括松弛通知，指标和检查充实，资源整合等）
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) -开源解决方案，用于监视和可视化K8s指标，日志，应用程序跟踪等.
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
 * [loki](https://github.com/grafana/loki) -Loki是受Prometheus启发的水平可扩展，高度可用的多租户日志聚合系统.
-* [Loghouse](https://github.com/flant/loghouse) - Efficiently store big amounts of your logs (in ClickHouse database), process them using a simple query language and monitor them online through web UI.
+* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用一种简单的查询语言进行处理，并通过Web UI在线进行监视.
 
 ## Testing
 
@@ -658,7 +659,7 @@ Projects
 * [containerd](https://github.com/containerd/containerd)
 * [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) -Kubernetes容器运行时接口的基于容器的实现
 * [CRI-O](https://github.com/kubernetes-incubator/cri-o)
-* [Hyper.sh/frakti](https://github.com/kubernetes/frakti) -基于管理程序的容器运行时
+* [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
 * [virtlet](https://github.com/Mirantis/virtlet) -Kubernetes CRI实施用于运行VM工作负载
 * [infranetes](https://github.com/apporbit/infranetes)
 * [Kata Containers](https://katacontainers.io)
@@ -868,7 +869,7 @@ Projects
 ## Machine Learning
 
 * [FfDL](https://github.com/IBM/FfDL) -深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等作为服务
-* [kubeflow](https://github.com/google/kubeflow) -Kubernetes的机器学习工具包.
+* [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -Kubernetes上的ML / MXNet工具.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -在kubernetes上可重现的机器学习和深度学习的开源平台
 * [seldon-core](https://github.com/SeldonIO/seldon-core) -在Kubernetes上部署机器学习模型的开源框架
@@ -1023,7 +1024,7 @@ Videos
 
 - [Automating CI/CD on Kubernetes 与 Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU) 通过 [James Strachan](https://twitter.com/jstrachan) 使用 [Jenkins X](https://jenkins-x.io/) 与 [these slides](https://docs.google.com/presentation/d/1hwt2lFh3cCeFdP4xoT_stMPs0nh2xVZUtze6o79WfXc/edit#slide=id.p)
 
-Interesting Twitter Accounts
+有趣的Twitter帐户
 =======================================================================
 
 * Twitter速度快，易于沟通，并且是充分利用品牌或企业的潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*

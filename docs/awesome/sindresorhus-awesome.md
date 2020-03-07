@@ -53,25 +53,6 @@
 
 
 
----
-
-<div align="center">
-	<p>
-		<a href="https://triplebyte.com/a/aZxgKGg/d">
-			<b>找工作？</b>
-			<br>
-			 无需简历.  只要证明您可以编码即可.
-			<br>
-			<div>
-				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
-			</div>
-		</a>
-		<sub></sub>
-	</p>
-</div>
-
----
-
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) -基于Chrome的V8 JavaScript引擎构建的异步非阻塞事件驱动JavaScript运行时.
@@ -132,9 +113,9 @@
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) -存在不可能的探测项目.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) -对于npm软件包.
-	- [npm](https://github.com/sindresorhus/awesome-npm#readme) -包管理员.
+	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
 	- [AVA](https://github.com/avajs/awesome-ava#readme) -跑步者.
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) -林特
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
@@ -165,10 +146,10 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) -倾向于系统编程和嵌入式，资源受限的软件的通用语言.
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
-- [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) -强大的动态多范式语言，可促进迭代和交互式开发. 
+- [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) -强大的动态多范式语言，可促进迭代和交互式开发.
 	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
@@ -180,7 +161,7 @@
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme) -服务器端脚本语言.
-	- [Composer](https://github.com/jakoch/awesome-composer#readme) -包管理员.
+	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
 - [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [Assembler](https://github.com/lurumdare/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
@@ -261,7 +242,7 @@
 - [Preact](https://github.com/ooade/awesome-preact#readme) -应用框架.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) -服务器渲染的React应用的框架.
-- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
+- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) -用于构建Web应用程序的微型JavaScript库.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) -JavaScript的HTML模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) -基于客户端JavaScript，可重用API和预建标记的现代Web开发体系结构.
 - [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) -以WordPress为后端，以Gatsby为前端的Web开发技术堆栈.
@@ -440,7 +421,7 @@
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) -图形计算框架.
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) -对象关系数据库.
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) -面向文档的NoSQL数据库.
-- [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
+- [HBase](https://github.com/rayokota/awesome-hbase#readme) -分布式，可扩展的大数据存储.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) -帮助使用非关系型，分布式，开源和水平可伸缩的数据库.
 
 ## Media
@@ -467,7 +448,7 @@
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-- [Educational Games](https://github.com/yrgo/awesome-eg#readme) -边玩边学.
+- [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) -主要关于CSS –语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) -了解如何成为更好的产品经理.

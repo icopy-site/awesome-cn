@@ -244,8 +244,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Image processing
  * [libpixel.cr](https://github.com/libpixel/libpixel.cr)
- * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) -的绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) -读取和写入PNG图像
+ * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) -的绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php), the C interface for ImageMagick processing libraries
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) -查理编程语言
@@ -256,7 +256,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [LinCAS-lang](https://github.com/LinCAS-lang) -用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) -用于前端Web的令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) -一种实用，动态的语言，旨在尽可能轻松高效地进行书写和理解
- * [runic-lang](https://github.com/runic-lang) - In-design toy language
+ * [runic-lang](https://github.com/runic-lang) -设计玩具语言
 
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
@@ -377,7 +377,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Science and Data analysis
  * [linalg](https://github.com/konovod/linalg) -受MATLAB和SciPy.linalg启发的线性代数库
  * [num.cr](https://github.com/crystal-data/num.cr) -支持N维数据的数值计算库
- * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
+ * [predict.cr](https://github.com/RX14/predict.cr) -使用sgp4模型的卫星预测库
  * [stats](https://git.sceptique.eu/Sceptique/stats) -统计分布的表达方式
 
 ## Search
@@ -413,7 +413,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crytic](https://github.com/hanneskaeufler/crytic) -变异测试框架
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) -与Capybara类似的自动浏览器测试
  * [mass-spec](https://github.com/c910335/mass-spec) -Web API测试库
- * [microtest](https://github.com/Ragmaanir/microtest) -专注于功率断言的小型自以为是的测试库
+ * [microtest](https://github.com/Ragmaanir/microtest) -专注于权力主张的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
@@ -426,7 +426,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Third-party APIs
  * [aws-credentials](https://github.com/y2k2mt/aws-credentials) -通过多种方式获取AWS凭证
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) -该库使用AWS v4对您的HTTP请求进行签名
- * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
+ * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
  * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -领事API客户端
@@ -454,7 +454,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) -开源高效，凝聚力的Web应用程序框架
  * [athena](https://github.com/blacksmoke16/athena) -具有内置参数转换功能的模块化，基于注释的，面向API的框架
- * [grip](https://github.com/grip-framework/grip) -基于JSON请求/响应模型的Kemal框架的面向类的派生
+ * [grip](https://github.com/grip-framework/grip) -用于轻松轻松构建RESTful Web应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  -快速，超级简单的Web框架.  受Sinatra启发
  * [lucky](https://github.com/luckyframework/lucky) -尽早发现错误，忘记大多数性能问题，并花更多时间在代码上，而不是调试和编写测试
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) -注重速度和可扩展性的Rails式Web框架
@@ -535,7 +535,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
    * [vim-crystal](https://github.com/rhysd/vim-crystal) -对Crystal的Vim文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) -对Slang模板引擎的Vim文件类型支持
  * Visual Studio代码
-   * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode
+   * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) -VSCode中的Crystal语言支持
    * [vscode-crystal-ide](https://github.com/crystal-lang-tools/crystal-ide) -搭载的Crystal IDE [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
    * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) -`cr`和`ecr`文件的格式化程序，linter和语法突出显示
 

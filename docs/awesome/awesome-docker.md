@@ -52,7 +52,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Play With Docker](https://training.play-with-docker.com/) ：PWD是从初学者到高级用户入门Docker的绝佳方法.  Docker直接在您的浏览器中运行.
 - [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)  容器技术的前景不仅限于码头工人.  如果没有很好的术语处理，可能很难把握docker和（选择您的最爱，CRI-O，rkt，lxc / lxd）之间的关键区别，或者难以理解开放容器倡议正在采取哪些措施来标准化容器技术.
 
-**Cheatsheets** by
+**备忘单**，作者：
 
 - [@eon01](https://github.com/eon01/DockerCheatSheet)
 - [@dimonomid](https://github.com/dimonomid/docker-quick-ref) (PDF)
@@ -103,7 +103,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [docker-config-update](https://github.com/sudo-bmitch/docker-config-update) -实用程序，用于更新docker配置和密钥以通过以下方式在撰写文件中进行部署 [@sudo-bmitch](https://github.com/sudo-bmitch)
 - [draw-compose](https://github.com/Alexis-benoist/draw-compose) ：skull：-用于绘制docker模式的实用程序 [@Alexis-benoist](https://github.com/Alexis-benoist)
 - [elsy](https://github.com/cisco/elsy) -基于Docker和Docker Compose的多语言自建工具
-- [habitus](https://github.com/cloud66-oss/habitus) - A Build Flow Tool for Docker by [@cloud66](https://github.com/cloud66)
+- [habitus](https://github.com/cloud66-oss/habitus) -Docker的构建流程工具，作者： [@cloud66](https://github.com/cloud66)
 - [kompose](https://github.com/kubernetes/kompose) -从Docker Compose转到Kubernetes
 - [Maestro](https://github.com/toscanini/maestro) ：skull：-Maestro提供了通过以下方式轻松启动，协调和管理多个Docker容器的功能： [@tascanini](https://github.com/toscanini)
 - [percheron](https://github.com/ashmckenzie/percheron) ：skull：-通过强大的才智来组织您的Docker容器 [@ashmckenzie](https://github.com/ashmckenzie)
@@ -132,7 +132,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Monitoring
 
-- [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将性能计数器，配置更改和生命周期事件从Docker引擎流式传输到Axibase时间序列数据库中，以汇总仪表盘并与上游监控系统集成.
+- [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将来自Docker引擎的性能计数器，配置更改和生命周期事件流式传输到Axibase时间序列数据库中，以用于汇总仪表板并与上游监控系统集成.
 - [cAdvisor](https://github.com/google/cadvisor)  -分析正在运行的容器的资源使用情况和性能特征.  由[@Google] [google]创建
 - [dockprom](https://github.com/stefanprodan/dockprom) -通过Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager监控Docker主机和容器 [@stefanprodan](https://github.com/stefanprodan)
 - [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) -根据Docker容器资源的使用情况/统计信息监视和发送警报
@@ -144,7 +144,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Glances](https://github.com/nicolargo/glances) -由Python用以下语言编写的基于跨平台curses的系统监视工具 [@nicolargo](https://github.com/nicolargo)
 - [Grafana Docker Dashboard Template](https://grafana.com/grafana/dashboards/179) -您的Docker，Grafana和Prometheus堆栈的模板[@vegasbrianc] [vegasbrianc]
 - [InfluxDB, cAdvisor, Grafana](https://github.com/vegasbrianc/docker-monitoring) -[@vegasbrianc] [vegasbrianc]将InfluxDB时间序列数据库与Grafana和cAdvisor结合使用
-- [LogJam](https://github.com/gocardless/logjam) -Logjam是一个日志转发器，旨在通过以下方式侦听本地端口，通过UDP接收日志条目，并将这些消息转发给日志收集服务器（例如logstash）， [@gocardless](https://github.com/gocardless)
+- [LogJam](https://github.com/gocardless/logjam) -Logjam是一种日志转发器，旨在侦听本地端口，通过UDP接收日志条目，并将这些消息转发给日志收集服务器（例如logstash）， [@gocardless](https://github.com/gocardless)
 - [Logspout](https://github.com/gliderlabs/logspout) -[@gliderlabs] [gliderlabs]进行Docker容器日志的日志路由
 - [monit-docker](https://github.com/decryptus/monit-docker)  -监视Docker容器资源使用情况或状态并执行Docker命令或在容器内部.  [@decryptus] [decryptus]
 - [NexClipper](https://github.com/NexClipper/NexClipper) -NexClipper是专门用于Docker，Apache Mesos，Marathon，DC / OS，Mesosphere和Kubernetes的容器监视和性能管理解决方案 [@Nexclipper](https://github.com/NexClipper)
@@ -220,7 +220,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Anchor Engine](https://github.com/anchore/anchore) -通过以下方式分析图像的CVE漏洞和自定义安全策略 [@Anchor](https://github.com/anchore)
 - [Aqua Security](https://www.aquasec.com) :heavy_dollar_sign: - Securing container-based applications from Dev to Production on any platform
-- [bane](https://github.com/genuinetools/bane) -[@genuinetools] [genuinetools]用于Docker容器的AppArmor配置文件生成器
+- [bane](https://github.com/genuinetools/bane) - AppArmor profile generator for Docker containers by [@genuinetools][genuinetools]
 - [CIS Docker Benchmark](https://github.com/dev-sec/cis-docker-benchmark)  -此[InSpec] [inspec]遵从性配置文件以自动化方式实现CIS Docker 1.12.0基准，以在生产环境中围绕Docker守护程序和容器提供安全性最佳实践测试.  通过 [@dev-sec](https://github.com/dev-sec)
 - [Clair](https://github.com/quay/clair)  -Clair是一个开源项目，用于静态分析appc和docker容器中的漏洞.  由[@coreos] [coreos]
 - [Dagda](https://github.com/eliasgranderubio/dagda)  -Dagda是一种工具，用于对Docker映像/容器中的已知漏洞，特洛伊木马，病毒，恶意软件和其他恶意威胁进行静态分析，并监视Docker守护程序和运行Docker容器以检测异常活动.  通过 [@eliasgranderubio](https://github.com/eliasgranderubio)
@@ -231,6 +231,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Phonito Security](https://phonito.io/?b=b) ：heavy_dollar_sign：-一个Docker漏洞扫描器，具有持续的Kubernetes监视和管道集成.
 - [Sysdig Falco](https://github.com/falcosecurity/falco)  -Sysdig Falco是一个开源容器安全监视器.  它可以监视应用程序，容器，主机和网络活动，并在发生未经授权的活动时发出警报.
 - [Sysdig Secure](https://sysdig.com/products/kubernetes-security/runtime-security/) ：heavy_dollar_sign：-Sysdig Secure通过行为监视和防御解决运行时安全问题，并基于开源Sysdig提供深度的取证，以进行事件响应.
+- [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) ：heavy_dollar_sign：-趋势科技趋势科技服务器深度安全防护系统可为容器工作负载和主机提供运行时保护，并提供映像的运行前扫描，以识别漏洞，恶意软件和诸如硬编码机密之类的内容.
 - [Twistlock](https://www.twistlock.com/) ：heavy_dollar_sign：-Twistlock Security Suite在应用程序的整个生命周期中检测漏洞，强化容器映像并实施安全策略.
 
 ### Service Discovery
@@ -294,7 +295,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [scuba](https://github.com/JonathonReinhart/scuba) -通过以下方式透明地使用Docker容器来封装软件构建环境 [@JonathonReinhart](https://github.com/JonathonReinhart)
 - [sen](https://github.com/TomasTomecek/sen) -docker引擎的终端用户界面，由 [@TomasTomecek](https://github.com/TomasTomecek)
 - [supdock](https://github.com/segersniels/supdock)  -通过交互式提示允许对Docker进行更多可视化使用.  通过 [@segersniels](https://github.com/segersniels)
-- [tsaotun](https://github.com/qazbnm456/tsaotun) -由Docker提供的基于Python的Docker协助 [@qazbnm456](https://github.com/qazbnm456)
+- [tsaotun](https://github.com/qazbnm456/tsaotun) -Docker的基于Python的Docker协助 [@qazbnm456](https://github.com/qazbnm456)
 - [wharfee](https://github.com/j-bennet/wharfee)  -Docker命令的自动完成和语法突出显示.  通过 [@j-bennet](https://github.com/j-bennet)
 
 #### Web
@@ -401,7 +402,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -Dockerfile的基于规则的&#39;linter&#39; [@projectatomic](https://github.com/projectatomic)
 - [dockfmt](https://github.com/jessfraz/dockfmt) ：construction：-[@jessfraz] [jessfraz]的Dockerfile格式化程序和解析器
 - [FROM:latest](https://github.com/replicatedhq/dockerfilelint) -一个自以为是的Dockerfile linter [@replicatedhq](https://github.com/replicatedhq)
-- [Hadolint](https://github.com/hadolint/hadolint)  -Dockerfile linter，用于检查最佳实践，常见错误，并且还可以抹去用RUN指令编写的bash；  通过 [@lukasmartinelli](https://github.com/lukasmartinelli)
+- [Hadolint](https://github.com/hadolint/hadolint)  -一个Dockerfile linter，它检查最佳实践，常见错误，并且还可以抹掉用RUN指令编写的bash；  通过 [@lukasmartinelli](https://github.com/lukasmartinelli)
 - [Whale-linter](https://github.com/jeromepin/whale-linter) -用Python3 +编写的简单而小型的Dockerfile linter，无依赖 [@jeromepin](https://github.com/jeromepin)
 
 ### Metadata
@@ -472,7 +473,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Ouroboros](https://github.com/pyouroboros/ouroboros) -通过通知自动更新正在运行的Docker容器
 - [Popper](https://github.com/systemslab/popper) -Github操作工作流（HCL语法）执行引擎.
 - [Screwdriver :heavy_dollar_sign:](https://screwdriver.cd/) -专为持续交付而设计的Yahoo OpenSource构建平台.
-- [Skipper](https://github.com/Stratoscale/skipper) -通过以下方式轻松地将您的Git存储库泊坞窗 [@Stratoscale](https://github.com/Stratoscale)
+- [Skipper](https://github.com/Stratoscale/skipper) -通过以下方式轻松地对您的Git存储库进行docker化 [@Stratoscale](https://github.com/Stratoscale)
 - [SwarmCI](https://github.com/ghostsquad/swarmci) -在Docker Swarm中创建一个分布式的隔离任务管道.
 - [Watchtower](https://github.com/containrrr/watchtower) -自动更新正在运行的Docker容器
 
@@ -553,7 +554,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### CI Services
 
 - [CircleCI](https://circleci.com/) ：heavy_dollar_sign：-从构建环境中推送或拉取Docker映像，或者直接在CircleCI上构建并运行容器.
-- [CodeFresh](https://codefresh.io)  ：heavy_dollar_sign：-构建，测试和共享Docker应用程序所需的一切.  提供自动化的端到端测试.
+- [CodeFresh](https://codefresh.io) :heavy_dollar_sign: - Everything you need to build, test, and share your Docker applications. Provides automated end to end testing.
 - [CodeShip](https://cms.codeship.com/features/pro) ：heavy_dollar_sign：-使用已建立的Docker工作流程，同时使用专用于速度和安全性的托管平台自动执行测试和部署任务.
 - [ConcourseCI](https://concourse-ci.org) ：heavy_dollar_sign：-针对开发人员和DevOps团队面向管道的CI SaaS平台.
 - [Semaphore CI](https://semaphoreci.com/) ：heavy_dollar_sign：—一种高性能的云解决方案，可轻松构建，测试和运送容器以进行生产.
@@ -717,7 +718,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [jwilder]：https://github.com/jwilder
 [kubernetes]：https：//kubernetes.io
 [nvidia]：https：//github.com/nvidia
-[nginxproxy]：https://github.com/jwilder/nginx-proxy
+[nginxproxy]：https://github.com/nginx-proxy/nginx-proxy
 [openshift]：https：//www.okd.io
 [oracle]：https://github.com/oracle
 [progrium]：https://github.com/progrium
