@@ -110,6 +110,7 @@
 - [campo](https://github.com/chloerei/campo) -论坛应用-**使用Rails 4.2 **- [:earth_africa:](http://codecampo.com)
 - [canvas-lms](https://github.com/instructure/canvas-lms) -一个学习管理应用程序-**使用Rails 5.2 **
 - [catarse](https://github.com/catarse/catarse) -创意项目的众筹平台-**使用Rails 4.2 **- [:earth_africa:](https://catarse.me/)
+- [chatwoot](https://github.com/chatwoot/chatwoot) -一个简单而优雅的实时聊天软件-**使用Rails 6.0 **
 - [ciao](https://github.com/brotandgames/ciao) -URL状态检查应用-**使用Rails 6.0 **
 - [coRM](https://github.com/SIGIRE/CoRM) -客户关系管理应用程序-**使用Rails 3.2 **- [:earth_africa:](http://www.corm.fr)
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) -软件工程师的社交网络应用-**使用Rails 3.2 **
@@ -237,7 +238,7 @@
 -** friendly_id **-用于处理子弹和永久链接的宝石- [rubygems](https://rubygems.org/gems/friendly_id) - [source code](https://github.com/norman/friendly_id)
 -** kaminari **-提供分页功能的宝石- [rubygems](https://rubygems.org/gems/kaminari) - [source code](https://github.com/kaminari/kaminari)
 -**密码盒**-处理加密的瑰宝- [rubygems](https://rubygems.org/gems/lockbox) - [source code](https://github.com/ankane/lockbox)
--** paloma **-在Rails中管理页面特定javascript的瑰宝- [rubygems](https://rubygems.org/gems/paloma) - [source code](https://github.com/gnclmorais/paloma)
+- **paloma** - A gem to manage page-specific javascript in Rails - [rubygems](https://rubygems.org/gems/paloma) - [source code](https://github.com/gnclmorais/paloma)
 -** prerender_rails **-预先渲染javascript渲染页面的宝石- [rubygems](https://rubygems.org/gems/prerender_rails) - [source code](https://github.com/prerender/prerender_rails)
 -** rails_admin **-创建和管理Rails应用程序管理面板的瑰宝- [rubygems](https://rubygems.org/gems/rails_admin) - [source code](https://github.com/sferik/rails_admin)
 -排名模型**-用于处理行排序的宝石- [rubygems](https://rubygems.org/gems/ranked-model) - [source code](https://github.com/mixonic/ranked-model)
@@ -252,7 +253,7 @@
 -** spring **-预加载Rails应用程序的宝石- [rubygems](https://rubygems.org/gems/spring) - [source code](https://github.com/rails/spring)
 -**链轮**-编译和投放网络资产的瑰宝- [rubygems](https://rubygems.org/gems/sprockets) - [source code](https://github.com/rails/sprockets)
 -** tinymce-rails **-将tinymce集成到Rails资产管道中的瑰宝- [rubygems](https://rubygems.org/gems/tinymce-rails) - [source code](https://github.com/spohlenz/tinymce-rails)
-- **webpacker** - A gem to bundle web assets using webpack - [rubygems](https://rubygems.org/gems/webpacker) - [source code](https://github.com/rails/webpacker)
+-** webpacker **-使用webpack捆绑网络资产的瑰宝- [rubygems](https://rubygems.org/gems/webpacker) - [source code](https://github.com/rails/webpacker)
 -** zeitwerk **-处理线程安全代码加载的宝石- [rubygems](https://rubygems.org/gems/zeitwerk) - [source code](https://github.com/fxn/zeitwerk)
 
 

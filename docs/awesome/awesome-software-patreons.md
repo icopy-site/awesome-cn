@@ -33,6 +33,7 @@ _使用开源许可证发布的项目.
 - [Duplicati](https://opencollective.com/duplicati) -备份客户端.
 - [Flarum](https://opencollective.com/flarum/) -论坛平台.
 - [FreeCAD](https://freecadweb.org/wiki/Donate) -参数3D建模器主要用于设计任何大小的现实对象.
+- [Funkwhale](https://opencollective.com/funkwhale) -免费的联合社交音乐服务器.
 - [Godot Engine](https://www.patreon.com/godotengine) -完整的3D引擎. 
 - [HaxeFlixel](https://www.patreon.com/haxeflixel) -跨平台2D游戏引擎.
 - [HaxeUI](https://www.patreon.com/haxeui) -用户界面工具包.
@@ -50,7 +51,7 @@ _使用开源许可证发布的项目.
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) -用于安全，分散通信的开放网络.
 - [MissKey](https://www.patreon.com/syuilo) -联合微博平台.
 - [MuseScore](https://www.patreon.com/musescore) -音乐符号软件.
-- [NativeScript-Vue](https://www.patreon.com/rigor789) - Native mobile applications with NativeScript and Vue.
+- [NativeScript-Vue](https://www.patreon.com/rigor789) -带有NativeScript和Vue的本地移动应用程序.
 - [Neovim](https://salt.bountysource.com/teams/neovim) -Vim-fork专注于可扩展性和可用性.
 - [OctoPrint](https://www.patreon.com/foosel) -3D打印机的Web界面.
 - [OfBorg](https://www.patreon.com/ofborg) -用于测试NixOS的工具.
@@ -89,7 +90,7 @@ _使用开源许可证发布的项目.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) -VLC视频播放器的制造商.
 - [Vim-Go](https://www.patreon.com/fatih) -Go插件为VIM.
 - [Webpack](https://opencollective.com/webpack) -JavaScript模块捆绑器.
-- [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) -使用Node.js构建的Wiki平台.
+- [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
 - [Xfce](https://salt.bountysource.com/teams/xfce) -用于类似UNIX的操作系统的桌面环境.
 - [Zig](https://www.patreon.com/andrewrk) -优先考虑鲁棒性，最优性和清晰度的系统编程语言.
 
@@ -117,9 +118,10 @@ _操作系统和Linux发行版.
 - [Elementary OS](https://www.patreon.com/elementary) -  Ubuntu的变异.
 - [FreeDOS](https://www.patreon.com/freedos) -与MS-DOS兼容的操作系统.
 - [GhostBSD](https://www.patreon.com/GhostBSD) -面向桌面的BSD操作系统.
-- [LineageOS](https://www.paypal.me/LineageOS) -CyanogenMod的前叉. 
+- [LineageOS](https://www.paypal.me/LineageOS), [#2](https://www.patreon.com/LineageOS) -CyanogenMod的前叉. 
 - [Linux Lite](https://www.patreon.com/linuxlite) -Linux发行版.
 - [Parrot](https://www.patreon.com/parrot) -与安全相关的Debian发行版.
+- [Qubes OS](https://opencollective.com/qubes-os) -合理安全的操作系统.
 - [ReactOS](https://liberapay.com/ReactOS/) -与Windows兼容的免费操作系统
 - [Redox OS](https://www.patreon.com/redox_os) -用Rust编写的OS.
 - [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) -用于x86的图形化类Unix操作系统，具有90年代的美感.
@@ -131,6 +133,7 @@ _操作系统和Linux发行版.
 ### Games
 _游戏和与游戏相关的项目._
 
+- [Battle for Wesnoth](https://liberapay.com/Wesnoth) -回合制策略游戏.
 - [Citybound](https://www.patreon.com/citybound) -城市建设游戏.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) -适用于Windows的Xbox模拟器.
 - [Libretro Team](https://www.patreon.com/libretro) -Libretro，RetroArch和Lakka. 
@@ -177,7 +180,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) -创建C ++库和标准提案.
 - [Joey Hess](https://www.patreon.com/joeyh) -git-annex，keysafe和其他Linux软件.
 - [Johann-S](https://www.patreon.com/jservoire) -引导JavaScript开发人员以及各种插件和项目.
-- [Jorge Bucaran](https://github.com/sponsors/jorgebucaran) - Hyperapp and many other JavaScript projects.
+- [Jorge Bucaran](https://github.com/sponsors/jorgebucaran) -Hyperapp和许多其他JavaScript项目.
 - [Jonathan Müller](https://www.patreon.com/foonathan) -各种C ++库，工具，文章.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) -GIMP，OpenSimulator，KiCad和TinyScheme等项目的贡献者.
 - [Kévin Dunglas](https://github.com/sponsors/dunglas) -API平台，Vulcain，Mercure和Symfony贡献.
@@ -218,7 +221,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [skypjack](https://www.patreon.com/skypjack) -C ++库，例如uvw和EnTT.
 - [Stéphane Peter](https://github.com/sponsors/megastep) -AudioKit贡献者，Makeself和其他库和项目.
 - [Steve Purcell](https://www.patreon.com/sanityinc) -MELPA Lisp软件包存档和其他软件工具.
-- [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) -各种iOS / macOS软件. 
+- [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - Various iOS/macOS software. 
 - [Stjepan Glavina](https://www.patreon.com/stjepang) -防锈横梁.
 - [Tanu Kaskinen](https://www.patreon.com/tanuk), [#2](https://liberapay.com/tanuk) -PulseAudio声音服务器贡献者. 
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) -在Inkscape矢量图形编辑器上工作.

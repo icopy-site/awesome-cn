@@ -37,6 +37,7 @@
 - [Machine Learning for Trading by Georgia Tech](https://www.udacity.com/course/machine-learning-for-trading--ud501)  -有趣的课程，用于学习应用于交易的机器学习基础知识以及一些AI和金融概念.  我特别喜欢有关Q学习的部分.
 - [Neural networks class by Hugo Larochelle, Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) -有趣的有关神经网络的课程，雨果·拉奥歇尔（Hugo Larochelle）可免费在线获得，但我已经观看了其中一些视频.
 - [GLO-4030/7030 Apprentissage par réseaux de neurones profonds](https://ulaval-damas.github.io/glo4030/)  -这是拉瓦尔大学教授PhilippeGiguère开设的课程.  我特别发现了它罕见的多头注意力机制可视化效果，可以在 [slide 28 of week 13's class](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf).
+- [Deep Learning & Recurrent Neural Networks (DL&RNN)](https://www.neuraxio.com/en/time-series-solution) -关于“深度学习和循环神经网络”的主题，内容最丰富，最加速的课程（最后滚动）.
 
 <a name="books" />
 
@@ -93,9 +94,9 @@
 - [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) -关于在时间序列上使用LSTM进行分类的教程.
 - [Deep stacked residual bidirectional LSTMs for HAR](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs) -对先前项目的改进.
 - [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) -有关如何预测数字的时间序列的教程-可能是多通道的.
-- [Hyperopt for a Keras CNN on CIFAR-100](https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100) -在CIFAR-100数据集上自动（元）优化神经网络（及其体系结构）.
+- [Hyperopt for a Keras CNN on CIFAR-100](https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100) -在CIFAR-100数据集上自动（元）优化神经网络（及其体系结构）.
 - [ML / DL repositories I starred](https://github.com/guillaume-chevalier?direction=desc&page=1&q=machine+OR+deep+OR+learning+OR+rnn+OR+lstm+OR+cnn&sort=stars&tab=stars&utf8=%E2%9C%93) -GitHub上充满了不错的代码示例和项目.
-- [Smoothly Blend Image Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) -平滑的补丁合并 [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
+- [Smoothly Blend Image Patches](https://github.com/guillaume-chevalier/Smoothly-Blend-Image-Patches) -平滑的补丁合并 [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
 - [Self Governing Neural Networks (SGNN): the Projection Layer](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) -这样一来，您就可以在深度学习模型中使用单词，而无需训练或加载嵌入内容.
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -Neuraxle是一个机器学习（ML）库，用于构建整洁的管道，提供正确的抽象以简化ML应用程序的研究，开发和部署.
 
@@ -141,7 +142,7 @@
 
 ### Complex Numbers & Digital Signal Processing
 
-好的，信号处理可能与深度学习没有直接关系，但是研究在基于信号的神经体系结构开发中拥有更多的直觉是有趣的.
+好的，信号处理可能与深度学习没有直接关系，但是研究在基于信号的神经体系结构开发中有更多的直觉是有趣的.
 
 - [Window Functions](https://en.wikipedia.org/wiki/Window_function) -列出了一些已知窗口功能的Wikipedia页面-请注意， [Hann-Poisson window](https://en.wikipedia.org/wiki/Window_function#Hann%E2%80%93Poisson_window) 对于贪婪的爬坡算法（例如，梯度下降）而言，它特别有趣. 
 - [MathBox, Tools for Thought Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/) -傅立叶分析的新面貌.
@@ -180,12 +181,12 @@
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556v6.pdf)  -有趣的想法是在仅使用几个参数的情况下合并多个3x3 conv + ReLU，然后合并为更大的过滤器.  对于“ ConvNet配置”，还有一个不错的表.
 - [Going Deeper with Convolutions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) -GoogLeNet：“起始”层/模块的出现，其想法是将conv层并行化为许多不同大小的微型conv，并使用“相同”的填充，并在深度上进行连接.
 - [Highway Networks](https://arxiv.org/pdf/1505.00387v2.pdf) -公路网：残余连接.
-- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) -批次归一化（BN）：通过对整个批次进行求和来归一化图层的输出，然后执行线性重新缩放和某个可训练量的平移.
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) -批量归一化（BN）：通过还对整个批次进行求和来归一化图层的输出，然后执行线性重新缩放和某个可训练量的平移.
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) -U-Net是一种编码器/解码器CNN，也具有跳过连接，适合在每个像素级别进行图像分割.
-- [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf) -具有批处理归一化层的非常深的残留层-又名“如何在具有足够多的层的情况下过度拟合任何视觉数据集，并使任何视觉模型在识别时正常工作”.
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf) -具有批处理归一化层的非常深的残留层-又名“如何在具有足够多的层的情况下过度拟合任何视觉数据集，并使任何视觉模型在识别时都能正常工作”.
 - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261v2.pdf) -用于通过残余连接改进GoogLeNet.
-- [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) 史诗原始语音/音乐生成，具有基于因果卷积的新架构，可捕获更多音频长度.
-- [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) -3D-GAN用于生成3D模型并从嵌入中获得有趣的3D家具算术（想像具有3D家具表示形式的word2vec单词算术）.
+- [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) 史诗原始语音/音乐生成，具有基于散因果卷积的新架构，可捕获更多音频长度.
+- [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) -3D-GAN用于生成3D模型并从嵌入中获得有趣的3D家具算术（像带3D家具表示法的word2vec单词算术）.
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/ImageNet1kIn1h/) -CNN的快速分布式培训.
 - [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) -2017年CVPR最佳论文奖，该新神经网络架构被称为DenseNet，对CIFAR-10，CIFAR-100和SVHN数据集的最新性能产生了改进.
 - [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf) -融合了U-Net和DenseNet的思想，这种新的神经网络特别适用于图像分割中的大型数据集.
@@ -206,7 +207,7 @@
 - [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/pdf/1703.03906.pdf) -在框架化的seq2seq问题表述中得出关于进行NMT的工作范围的直觉.
 -[通过在梅尔谱图上调节WaveNet合成天然TTS
 预测]（https://arxiv.org/pdf/1712.05884.pdf）-A [WaveNet](https://arxiv.org/pdf/1609.03499v2.pdf) 用作声码器的条件可以是Tacotron 2 LSTM神经网络生成的梅尔频谱图，但要注意从文本生成纯净的音频.
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) （AIAYN）-引入具有位置编码的多头自注意神经网络以在没有任何RNN或CNN的情况下执行句子级NLP-这篇文章是必读 [this explanation](http://nlp.seas.harvard.edu/2018/04/03/attention.html) 和 [this visualization](http://jalammar.github.io/illustrated-transformer/) 本文）. 
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) （AIAYN）-引入具有位置编码的多头自注意神经网络以在没有任何RNN或CNN的情况下执行句子级NLP-这篇文章是必读的（另请参见 [this explanation](http://nlp.seas.harvard.edu/2018/04/03/attention.html) 和 [this visualization](http://jalammar.github.io/illustrated-transformer/) 本文）. 
 
 <a name="other" />
 
@@ -224,11 +225,11 @@
 - [Attention Mechanisms in Recurrent Neural Networks (RNNs) - IGGG](https://www.youtube.com/watch?v=QuvRWevJMZ4) -一个关于注意力机制的阅读小组的演讲（论文：通过共同学习对齐和翻译的神经机器翻译）.
 - [Tensor Calculus and the Calculus of Moving Surfaces](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) -适当地概括Tensors的工作原理，但是仅仅观看一些视频已经对理解这些概念很有帮助.
 - [Deep Learning & Machine Learning (Advanced topics)](https://www.youtube.com/playlist?list=PLlp-GWNOd6m4C_-9HxuHg2_ZeI2Yzwwqt) -我发现有趣或有用的有关深度学习的视频列表，这是所有内容的组合.
-- [Signal Processing Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) -我撰写的有关DFT / FFT，STFT和Laplace变换的YouTube播放列表-我很生气，因为我的软件工程学士学位不包括信号处理课程（量子物理学课程除外）.
+- [Signal Processing Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) -我编写的有关DFT / FFT，STFT和Laplace变换的YouTube播放列表-我很生气，因为我的软件工程学士学位不包括信号处理课程（量子物理学课程除外）.
 - [Computer Science](https://www.youtube.com/playlist?list=PLlp-GWNOd6m7vLOsW20xAJ81-65C-Ys6k) -我撰写的另一个YouTube播放列表，这次涉及各种CS主题.
 - [Siraj's Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) -Siraj有有趣的，快节奏的有关深度学习的视频教程.
 - [Two Minute Papers' Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) -一些研究论文的有趣而浅薄的概述，例如有关WaveNet或神经样式转换的论文.
-- [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) -吴安德（George Ng）采访了杰弗里·欣顿（Geoffrey Hinton），后者谈论了他的研究和波谷，并为学生提供了建议.
+- [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) -吴安德（George Ng）采访了杰弗里·欣顿（Geoffrey Hinton），后者谈论了他的研究和波谷，并为学生提供建议.
 
 <a name="misc-hubs-and-links" />
 
