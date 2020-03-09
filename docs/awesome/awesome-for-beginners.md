@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-很棒的对初学者友好的项目列表.
+A list of awesome beginner-friendly projects.
 
 受启发 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章.
 
@@ -65,6 +65,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  开源应用容器引擎
 - [Terraform](https://github.com/hashicorp/terraform/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  安全有效地构建，更改和版本化基础结构的工具.
 - [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors)  _（标签：新贡献者）_ <br>  分布式可伸缩混合事务和分析处理（HTAP）数据库
+- [script](https://github.com/bitfield/script/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一个Go库，用于执行shell脚本擅长的那种任务：读取文件，执行子进程，计算行数，匹配字符串等.  初学者非常欢迎，他们将在PR过程中获得详细的代码审查和帮助.
 
 ## Java
 
@@ -79,7 +80,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 
 ## JavaScript
 
-- [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue) _(label: good first issue)_ <br> Canonical common brand names for OpenStreetMap
+- [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  OpenStreetMap的规范通用品牌名称
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  JavaScript中易于使用的OpenStreetMap编辑器.
 - [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Mission Control是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动网络应用程序，可将希望运送包裹的DAV用户与可在开放和免费市场中寻找工作的自动无人机连接起来.
@@ -242,7 +243,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 
 ## Scala
 
-- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  来自Twitter的精彩可重用代码
+- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  高速Web框架
 
 ## Swift

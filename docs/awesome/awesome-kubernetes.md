@@ -787,7 +787,7 @@ Projects
 * [Brigade](https://github.com/Azure/brigade) -使用JavaScript的基于事件的脚本
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
 * [ElasticKube](https://elasticbox.com/kubernetes)
-* [Gitkube](https://gitkube.sh/) -使用`git push`在Kubernetes上构建和部署docker镜像.
+* [Gitkube](https://github.com/hasura/gitkube/) -使用`git push`在Kubernetes上构建和部署docker镜像.
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
 * [Kb8or](https://github.com/UKHomeOffice/kb8or)
 * [Nulecule](https://github.com/projectatomic/nulecule)

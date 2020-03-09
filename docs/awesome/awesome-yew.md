@@ -39,6 +39,8 @@
 - [styled-yew](https://github.com/IcyDefiance/styled-yew) -Rust中的CSS，类似于样式组件，但适用于Yew.
 - [karaoke-rs](https://github.com/tarkah/karaoke-rs) -Rust中具有网络功能的简单卡拉OK播放器.
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) -紫杉（Rust）手机游戏《我爱色相》的克隆.
+- [Yew Form](https://github.com/jfbilodeau/yew_form) -使用Yew简化处理表格的组件.
+- [yew-styles-page](https://github.com/spielrs/yew-styles-page) -这是紫杉的框架风格的初始项目.
 
 ## Templates
 

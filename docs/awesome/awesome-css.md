@@ -15,7 +15,7 @@
 
 ### Motivation
 
- 该文档是精选的框架，样式指南和酷炫的信息清单，用于编写出色的CSS.  它不包含学习CSS的资源.
+ 该文档是用于编写出色CSS的框架，样式指南和酷炫信息的精选清单.  它不包含学习CSS的资源.
 
 ### Complementary Resources
 
@@ -51,7 +51,6 @@
 
 * [CSSOM](https://github.com/NV/CSSOM) -用纯JavaScript实现的CSS对象模型.
 * [CSSTree](https://github.com/csstree/csstree) -具有语法验证器的详细CSS解析器.
-* [Gonzales](https://github.com/css/gonzales) -快速的CSS解析器.
 * [Gonzales PE](https://github.com/tonyganch/gonzales-pe) -CSS解析器，支持预处理器.
 * [mensch](https://github.com/brettstimmerman/mensch) -不错的CSS解析器.
 * [ParserLib](https://github.com/CSSLint/parser-lib) -CSSLint / parser-lib.
@@ -80,8 +79,8 @@
 * [Bulma](http://bulma.io/)  -基于Flexbox的现代CSS框架.  还具有Sass导入以进行修改.
 * [Butter Cake](http://getbuttercake.com/) -现代轻量级前端CSS框架，可更快，更轻松地进行Web开发.
 * [Chota](https://jenil.github.io/chota/) -具有有用的实用程序和网格系统的响应式，可自定义的微框架（3kb）.
-* [Cirrus](https://spiderpig86.github.io/Cirrus/) -完全响应的，全面的CSS框架，具有精美的控件和简单的结构.
-* [eFrolic](http://efrolicss.com/) -不使用JavaScript的CSS框架是交互式的且具有动画效果.
+* [Cirrus](https://spiderpig86.github.io/Cirrus/) -具有精美控件和简单结构的完全响应和全面的CSS框架.
+* [eFrolic](https://efraa.github.io/eFrolic/) -不使用JavaScript的CSS框架是交互式的且具有动画效果.
 * [Foundation](http://foundation.zurb.com/) -先进的响应式前端框架.
 * [Hasser CSS](https://github.com/HeavenMercy/HasserCSS) -轻量级（12k，未缩小），但有用的CSS框架以及灵活的Grid，Hero等.
 * [inuit.css](http://inuitcss.com/) -强大，可扩展，基于Sass的BEM，OOCSS框架.
@@ -243,7 +242,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [cssfx](https://cssfx.dev/) -精美简单的点击复制CSS效果
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) -适用于Chrome，Firefox和Edge的Magic CSS扩展.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) -通用JS UI组件的CSS替代品.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找不良标记的CSS小书签，无论您在何处编写不良HTML，它都在喜剧无衬线中显示难看的粉红色错误消息 
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找错误标记的CSS小书签，无论您在何处编写错误的HTML内容，在漫画无衬线中均显示难看的粉红色错误消息 
 
 
 <sub>[⇧ back to top](#contents)</sub>

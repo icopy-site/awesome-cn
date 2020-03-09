@@ -1,57 +1,78 @@
-<div class="github-widget" data-repo="matiassingers/awesome-slack"></div>
+<div class="github-widget" data-repo="filipelinhares/awesome-slack"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt;与Slack相关的精选清单
+## Awesome Slack Communities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.svg)](https://travis-ci.org/filipelinhares/awesome-slack)
+
+由** Slack **支持的有关Web开发和设计的社区列表.
+
+## What's Slack
+ &gt; Slack是团队沟通的平台：任何地方都可以在同一地方进行即时搜索，无论您身在何处都可以使用.  *-slack.com *
 
 
-## Unofficial clients
--Linux- [PlaidChat](https://github.com/plaidchat/plaidchat)
--Linux- [ScudCloud](https://github.com/raelgc/scudcloud)
--Windows- [SlackUI](https://github.com/rfgamaral/SlackUI)
+## Development
+- [Ember](https://ember-community-slackin.herokuapp.com/)
+- [Laravel](https://larachat.co/)
+- [Ruby](https://rubydevelopers.typeform.com/to/l7WVWl)
+- [Front end](https://frontenddevelopers.org/)
+- [Android](https://androidchat.co/)
+- [GO](https://docs.google.com/forms/d/e/1FAIpQLScNsNXbz2SCLH5hVNoZS0C70nPAXv730SW9F3K1g6iVvlcUTg/viewform?fbzx=4754263898376949596)
+- [PHP Chat](https://phpchat.co)
+- [Clojure](http://clojurians.net/)
+- [iOS Developers](https://ios-developers.io/)
+- [Elixir](https://elixir-slackin.herokuapp.com/)
+- [slashrocket](https://slashrocket.io/)
+- [Cordova](http://slack.cordova.io/)
+- [Python Community](https://pythoncommunity.herokuapp.com/)
+- [Hashtag developers](http://www.hashtagdevelopers.com/)
+- [CFML/ColdFusion](https://cfml-slack.herokuapp.com/)
 
-## Lists
-- [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) -Slack开放团队列表的存储库
-- [Community-built integrations](https://api.slack.com/community)
 
-## Third-party services
-- [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier/server/overview) -发生回购推送时，将通知发送到Slack频道
-- [Datadog](https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/) -警报触发时将通知发送到空闲状态，并与您的同事共享图形.
-- [Drupal](https://www.drupal.org/project/slack) -将消息从Drupal网站发送到Slack
-- [Graylog2](https://github.com/Graylog2/graylog-plugin-slack) -将日志警报发送到Slack
-- [Slack Message Builder](http://davestevens.github.io/slack-message-builder/) -预览JSON负载如何转换为Slack消息的工具
-- [Slack Slash Commands as a Service](https://sscaas.eu/) -通过斜杠命令的有用工具和API集成.
-- [Slacker](http://slacker.nathanhoad.net/) -将Slack有趣的回复发布为您最喜欢的角色
-- [Wordpress Plugin: Caldera Forms Slack Integration](https://calderawp.com/downloads/caldera-forms-slack-integration/) -每当提交破火山口表格时，以Slack获取通知
-- [Wordpress Plugin: Slack](https://wordpress.org/plugins/slack/) -在WordPress中发生事件时向Slack发送通知
-- [Wordpress Plugin: bbPress Slack](https://wordpress.org/plugins/bbpress-slack-integration/) -发送有关新的bbPress主题的通知并回复Slack
+## Regional
+- [Asia - Focus Asia](https://focusasia.xyz?ref=github)
+- [Australia & New Zealand](http://devanz.co)
+- [Chicago Tech Slack](http://www.chicagotechslack.com/)
+- [Les Pitonneux - Montreal QC Canada](https://pitonneux.slack.com)
+- [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
+- [Python São Paulo Community](http://grupysp.herokuapp.com/)
+- [Remote workers in Romania](https://github.com/filipelinhares/awesome-slack/blob/master/weworkremotely.slack.com/)
+- [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
+- [Kazan Developers](https://devkzn.slack.com/)
+- [Polish developers](http://slackin.devstyle.pl/)
+- [Spanish-speaking developer communities list](https://github.com/comunidad-tecnologica/awesome-spanish-slack-dev-groups)
+- [Ruby Turkey Community](https://rubytr.herokuapp.com/)
+- [Rochester NY USA Developers (RocDev)](https://rocdev.org/)
+- [Vancouver Developers (yvrdev)](https://yvrdev.slack.com/)
 
-## Themes
-- [Slackthemes](http://slackthemes.net/) -Slack侧边栏主题浏览器
-- [Sweet Themes are Made of These](http://sweetthemesaremadeofthe.se/) -共享Slack自定义调色板的网站
+## Design
+- [Sketch](http://teamsketch.io/)
+- [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1)
+- [Designer Hangout](https://www.designerhangout.co/)
 
-## Integrations
+## Misc
+- [WordPress](https://make.wordpress.org/chat/)
+- [👋 Remote - Remote workers community](https://slack-helloremote.now.sh)
+- [Chit Chats](http://www.chitchats.co/)
+- [The Evangelist Collective](https://github.com/evangelistcollective/)
+- [Psychedelic Chat](http://psychedelicchat.com/)
+- [LGBTQ in Technology](https://lgbtq.technology/)
+- [#Startup](http://startup.chat)
+- [Safelight](http://safelight.herokuapp.com/) - 摄影.
+- [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - 信息安全.
+- [First Contributors](https://firstcontributors.slack.com) -开源贡献者的帮助/指导.
 
-### C
+## DevOps
+- [Google Cloud Platform](http://bit.ly/gcp-slack)
+- [Kubernetes](http://slack.kubernetes.io/)
+- [DevOps](https://devopschat.co/)
 
-- [PebbleSlack](https://github.com/jakeboyles/PebbleSlack) -Pebble的Slack应用
+## Looking for more lists like that
+- [Awesome Community](https://github.com/phpearth/awesome-community)
 
-### C++
+## Contribute
+ 您的贡献和建议是：心：欢迎您.  确保阅读 [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) 第一.
 
-- [slack-integrations](https://github.com/rikbosch/slack-integrations) -自定义Slack集成脚本
-
-### C&#35;
-
-- [Cake.Slack](https://github.com/WCOMAB/Cake.Slack) -Cake AddIn扩展了带有Slack消息传递功能的Cake
-- [CCNetSlackPublisher](https://github.com/jrjackso/CCNetSlackPublisher) -与CruiseControl.NET的松弛集成
-- [Log4Slack](https://github.com/jonfreeland/Log4Slack) -简单的异步Slack log4net追加器
-- [margiebot](https://github.com/jammerware/margiebot/wiki) -一个.NET库，旨在使Slack的构建机器人快速，轻松且有趣
-- [mmbot](https://github.com/mmbot/mmbot) - a C\# port of hubot, with Slack support
-- [Slack-Contour](https://github.com/warrenbuckley/Slack-Contour) -Umbraco Contour工作流程项，可让您将表单数据发布到Slack频道
-- [Slack.Webhooks](https://github.com/nerdfury/Slack.Webhooks) -与Slack的传入/传出Webhooks更加简单的集成
-- [SlackAPI](https://github.com/Inumedia/SlackAPI) -完整的Slack API库，包括WebSockets
-- [SlackCommander](https://github.com/Hihaj/SlackCommander) -有用的（？）斜杠命令和Slack的其他集成
-- [SqlServerSlackAPI](https://github.com/WCOMAB/SqlServerSlackAPI) -用于通过TSQL与Slack直接通信的SQL Server CLR程序集
-- [svn-slack-notifier](https://github.com/robertmiles3/svn-slack-notifier) -一个简单的应用程序，可将VisualSVN Server提交通知发送到Slack
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)]（https://creativecommons.org/publicdomain/zero/1.0/）SVN服务器将通知提交到Slack
 - [TfsNotificationRelay](https://github.com/kria/TfsNotificationRelay) -TFS 2013的插件，用于向Slack发送通知
 - [TSJ.Gemini.Slack](https://github.com/thesoftwarejedi/TSJ.Gemini.Slack) -发布更改到Slack中的频道
 - [WooCode.Slack](https://github.com/WooCode/WooCode.Slack) -在.Net中使用Slack.com放松的库
@@ -62,7 +83,7 @@
 - [clj-slack](https://github.com/julienXX/clj-slack) -使用Clojure的Slack REST API
 - [clj-slack-client](https://github.com/tonyvanriet/clj-slack-client) -用于Slack RTM和Web API的Clojure客户端
 - [lunch-bot](https://github.com/tonyvanriet/lunch-bot) -管理团体午餐活动的Slack机器人
-- [markov-chainz](https://github.com/sorenmacbeth/markov-chainz) - A Markov chain bot written in Clojure
+- [markov-chainz](https://github.com/sorenmacbeth/markov-chainz) -用Clojure编写的Markov链机器人
 - [slack-hooks](https://github.com/papertrail/slack-hooks) -Papertrail的Slack Webhook接收器集合
 - [slack.clj](https://gist.github.com/mikebroberts/9604828) -从Clojure向Slack发送消息的示例
 - [slacks](https://github.com/pnf/slacks) -将报价传递到Slack频道
@@ -157,7 +178,7 @@
 - [cylebot-slack](https://github.com/cyle/cylebot-slack) -Cylebot，但用于Slack
 - [ExceptionalIO2Slack](https://github.com/Dorian/ExceptionalIO2Slack) -将异常从Exceptional.io发送到Slack
 - [generator-slack-command](https://github.com/matiassingers/generator-slack-command) - [Yeoman](http://yeoman.io/) 生成器来创建简单的Slack斜杠命令服务器
-- [gif-bot](https://github.com/ms-digital-labs/gif-bot) -松弛的Gif机器人
+- [gif-bot](https://github.com/ms-digital-labs/gif-bot) - A Gif Bot for Slack
 - [giphyslack](https://github.com/dotfury/giphyslack) -内置于node.js中的Slack的Giphy集成
 - [good-slack](https://github.com/dmacosta/good-slack) -用于良好过程监视器的Slack Webhook消息发布
 - [grunt-alert](https://github.com/mmarcon/grunt-alert) -使用不同的渠道发送有关构建失败的警报
@@ -266,7 +287,7 @@
 ### Perl
 
 - [slack-integrations](https://github.com/khera/slack-integrations) -将Slack与Subversion和Nagios集成的脚本
-- [slappyhour](https://github.com/obra/slappyhour) -在多个Slack实例之间桥接通道的CGI脚本
+- [slappyhour](https://github.com/obra/slappyhour) - A CGI script to bridge a channel between multiple Slack instances
 
 ### PHP
 
@@ -322,7 +343,7 @@
 - [changetip-slack](https://github.com/changecoin/changetip-slack) -ChangeTip松弛技巧机器人
 - [django-slack](https://github.com/lamby/django-slack) -Django的Slack集成，使用模板引擎生成消息
 - [django-slack-oauth](https://github.com/izdi/django-slack-oauth) -适用于Django的Slack OAuth模块
-- [ellie-slack](https://github.com/christinac/ellie-slack) - Eliza's younger, hipper, psychobabble-friendly successor as a Slackbot
+- [ellie-slack](https://github.com/christinac/ellie-slack) -作为Slackbot的伊丽莎（Eliza）年龄更年轻，对臀部更友好，对心理不稳定的继任者
 - [errbot](https://github.com/errbotio/errbot) -基于插件的聊天机器人，旨在易于部署，扩展和维护
 - [flask-slack](https://github.com/VeryCB/flask-slack) -Flask扩展，可轻松与Slack斜杠命令进行交互
 - [fs-slack](https://github.com/slackhappy/fs-slack) -Slack的愚蠢斜杠命令综合
@@ -353,7 +374,7 @@
 - [slackbot-python](https://github.com/fsalum/slackbot-python) -与Amazon SQS集成的Python Slack.com机器人
 - [slackbridge](https://github.com/ossobv/slackbridge) -桥接公司之间的松弛渠道
 - [slackcmd](https://github.com/pzelnip/slackcmd) -Python脚本，用于将命令行中的输出传递到Slack通道
-- [slackcraft](https://github.com/MathyV/slackcraft) -用于Slack的基于Slask的WoW机器人
+- [slackcraft](https://github.com/MathyV/slackcraft) -基于Slask的Slack魔兽世界机器人
 - [slacker](https://github.com/os/slacker) -适用于Python的Slack API包装器
 - [slacker-cli](https://github.com/juanpabloaj/slacker-cli) -消息从命令行松弛
 - [slackfred](https://github.com/fspinillo/slackfred) -通过Alfred与Slack互动
@@ -361,7 +382,7 @@
 - [slackpy](https://github.com/iktakahiro/slackpy) -用于特定日志记录的Slack客户端库
 - [slacksocket](https://github.com/vektorlab/slacksocket) -Slack RTM API的Python接口
 - [slouch](https://github.com/venmo/slouch) -轻量级Python框架，用于构建受cli启发的Slack机器人
-- [StackStorm Slack Pack](https://github.com/StackStorm/st2contrib/tree/master/packs/slack) -允许与Slack服务集成的软件包.
+- [StackStorm Slack Pack](https://github.com/StackStorm/st2contrib/tree/master/packs/slack) - Pack which allows integration with Slack service.
 - [sublime-slack-integration](https://github.com/simion/sublime-slack-integration) -从Sublime Text 3发布到Slack
 - [tracslack](https://github.com/grexi/snippets/tree/master/tracslack) -Slack的Trac通知
 - [webhook-bridge](https://github.com/calvingiles/webhook-bridge) -微服务转换包括Slack的webhook POST格式
@@ -467,7 +488,7 @@
 
 ### Tcl
 
-- [eggdrop-slack](https://github.com/jasonroman/eggdrop-slackbot) - Simple Message Relay from IRC to Slack
+- [eggdrop-slack](https://github.com/jasonroman/eggdrop-slackbot) -从IRC到Slack的简单消息中继
 
 ### Zephir
 

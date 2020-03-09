@@ -1,19 +1,18 @@
 <div class="github-widget" data-repo="simskij/awesome-software-architecture"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simskij/awesome-software-architecture/master/./banner.png" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  很棒的软件架构<br/>
-  <a href="https://awesome.re" target="_blank">
-    <img src="https://awesome.re/badge.svg" alt="awesome badge" />
-  </a>
-</h1>
+<img src="https://raw.githubusercontent.com/simskij/awesome-software-architecture/master/./banner.png" />
 
-<p align="center">
-   <a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank">软件体系结构</a>旨在描述<a href="https://en.wikipedia.org/wiki/Software_architecture" target="_blank">软件</a>的高级结构以及创建它们的学科.  由于该主题范围很广，因此它可能包含一些资源，这些资源也存在于更多细分市场中. 
-</p>
+## Awesome Software Architecture<br/>
+  
+[![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
+  
+[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) 旨在描述高层次 
+ 软件的结构以及创建它们的准则.  由于该主题范围很广，因此可能 
+包含一些在更多细分市场中也存在的资源. 
+  
+</div>
 
 
 
@@ -90,7 +89,7 @@
 
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) -结合软件开发和运营实践，以缩短上市时间，同时保持高质量.
 - [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) -IT，Devops并帮助您赢得业务：orange_book ：.
-- [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)  -数据时代的开发人员，数字破坏和繁荣.  ：orange_book：
+- [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41) -开发人员，数据时代的数字颠覆与繁荣：橙色图书：.
 - [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) -BPDTS如何使用CALMS模型作为其devops适应的参考. 
 - [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) -混沌工程学是软件工程学中的一门新学科，使人们对大规模分布式系统的行为充满信心. 
 - [Adidas DevOps Maturity Framework](https://github.com/adidas/adidas-devops-maturity-framework) -根据CALMS对DevOps的定义，该框架定义了一组功能和指南，这些功能和指南在被采用时可提高团队的效率，效力和幸福感.
@@ -100,9 +99,7 @@
 
 ## Contributing
 
-   想要帮助使此列表更好吗？  是的，太棒了！  不过，在开始之前，请
-  看看我们<a href="code_of_conduct.md">的行为准则</a>和
-  <a href="contributing.md">贡献准则</a> .
+ 想要为使这个列表变得更好做出贡献吗？  是的，太棒了！  在开始之前，请先阅读我们<a href="code_of_conduct.md">的行为准则</a>和<a href="contributing.md">贡献准则</a> .
 
 ## License
 
