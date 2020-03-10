@@ -27,7 +27,7 @@
 - [Memory Game](https://github.com/Tzoop/MemoryGame) -简单记忆游戏（Godot 3.0）.
 - [Minehunter](https://github.com/genete/Minehunter) -扫雷副本（Godot 2.1）.
 - [Minilens](http://kobuge-games.github.io/minilens/) -免费的益智平台游戏（Godot 2.1）.
-- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015) (Godot 2.1).
+- [Mountain of Hope](https://github.com/w84death/mountain-of-hope) -使用Theater Game Jam（PGA 2015）（Godot 2.1）制作的游戏.
 - [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) -小型跑步游戏，挑战1小时（Godot 2.1）.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) -外星环境中的2D物理跑酷游戏（Godot 2.1）.
@@ -125,7 +125,7 @@
 - [Auto Tile Layer](https://github.com/leezh/autotile) -允许使用RPG Maker的Autotile格式（Godot 2.1）自动进行2D拼贴.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -Camera2D的屏幕抖动效果.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器（Godot 2.1、3.1）.
-- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳方程式的放松端口
+- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程式的一部分.
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
@@ -133,6 +133,7 @@
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) -与GitHub交互，而无需打开浏览器（Godot 3.1）.
 - [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd（Godot 3.1）在Godot中进行快速3D碰撞检查.
+- [godotdetour](https://github.com/TheSHEEEP/godotdetour) -绕行/绕行人群库的GDNative实现（Godot 3.2）.
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -Phoenix框架（Godot 3.1）的Channels API的GDScript和Godot引擎实现.
 - [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) -用几个节点和几行代码制作程序声音和自适​​应/程序音乐（Godot 3.1）.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) -一组基本节点扩展（Godot 3.1）.
@@ -165,10 +166,11 @@
 - [Vim](https://github.com/calviken/vim-gdscript3)  -语法突出显示，自动补全和掉毛.  还支持Godot着色器语言.
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) -具有丰富的功能，使您的编程体验尽可能舒适.
 - [GUT Visual Studio Code Extension](https://github.com/bitwes/gut-extension) -直接从Visual Studio代码编辑器运行GUT框架单元/集成测试.
+- [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) -Visual Studio Code（Godot 3.x）中GDScript的格式化程序.
 
 ## Godot script editor syntax themes
 
-*内置脚本编辑器的替代主题.*
+*Alternative themes for the built-in script editor.*
 
 - [base16-godot](https://github.com/Calinou/base16-godot) -全部 [base16](https://github.com/chriskempson/base16) 主题.
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) -切斯特，Google Code Light和Monokai.
@@ -188,6 +190,7 @@
 - [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) -使用Node.js与Godot客户端进行通信.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci)  -Docker映像，用于通过CI导出Godot游戏.  包括GitLab CI脚本示例.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) -脚本会自动下载并启动最新版本的Godot，或编译并启动Git`master`分支.
+- [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) -用于GDScript的独立命令行工具集-解析器，linter和格式化程序（Godot 3.x）.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) -帮助Debian和Ubuntu用户安装和使用Godot的脚本.
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) -用于为所有支持的平台生成游戏手柄映射的工具.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) -使用一个主文件更新文件副本的脚本.

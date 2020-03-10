@@ -61,7 +61,7 @@
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) -使用OAuth2身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
 - ：草莓： [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) -事件驱动的行为，可轻松生成一次性使用的安全令牌.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) -轻松构建支持SaaS的Web应用程序.
-- ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -身份验证和基于角色的（单/多）授权，是一种非常轻巧的方法.
+- ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -基于身份验证和基于角色的（单/多）授权，这是一种非常轻巧的方法.
 - ：草莓： [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) -包含 [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) 用于密码哈希的DRY方法.
 - ：草莓： [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth)  -允许使用Google Authenticator或类似应用进行两因素身份验证，以生成一次性代码.  基于 [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) 图书馆.
 - [UserPermissions plugin](https://github.com/AlessandroMinoccheri/UserPermissions) -允许用户组或单个用户查看特定页面.
@@ -80,7 +80,7 @@
 ## Debugging
 *用于调试的插件.*
 
-- [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
+- [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) 一个将Airbrake与CakePHP无缝集成以解决错误和异常的插件.
 - ：草莓： [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
@@ -204,7 +204,6 @@
 - [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) -用于导出，导入和管理数据库备份的插件.
 - ：草莓： [Feedback plugin](https://github.com/dereuromark/cakephp-feedback)  -允许访问者发送快速简便的反馈，包括  通过边栏形式的屏幕截图.
 - ：草莓： [Flash plugin](https://github.com/dereuromark/cakephp-flash) -针对您的应用程序的更强大的Flash消息.
-- [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) -允许使用hashid来不向用户公开数据库id.
 - [Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) -监视应用程序的声音（例如，数据库是否可用以及是否为最新）.
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) -将秒转换为人类可读的字符串（字符串转换为秒），使用营业时间（1周= 5天，1天= 8小时）.
 - [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) -用于递归扫描链接的插件.
@@ -231,7 +230,7 @@
 ## Notifications
 *使用通知软件的插件.*
 
-- [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) -一个插件，可通过Google Cloud Messaging将下游消息发送到Android或iOS设备.
+- [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) - A plugin to send downstream messages to an Android or iOS device through Google Cloud Messaging.
 - [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) -一个使创建和阅读通知变得容易的插件.
 - [ker0x/Push plugin](https://github.com/ker0x/cakephp-push) -通过Firebase Cloud Messaging等服务发送推送通知的插件.
 
@@ -279,7 +278,7 @@
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) -使用中间件激活CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -建筑的听众 [JSON API](https://jsonapi.org/) 兼容的API.
-- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
+- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) 用于您的API输出.
 
 ## Search
 *用于对数据建立索引并执行搜索查询的插件和软件.*
@@ -296,7 +295,8 @@
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) -简单的解决方案，使加密的数据类型可以存储在数据库中.
 - ：草莓： [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) -简单，不干扰和可扩展的验证码解决方案，默认情况下提供基于图像的数学验证码.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior)  -使用这种行为来加密您的实体数据.  使用CakePHP Security类在PHP级别完成加密.
-- [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) -使用HashId，Optimus，Tiny和/或自定义混淆策略进行主密钥混淆.
+- ：草莓： [Expose plugin](https://github.com/dereuromark/cakephp-expose) -通过其他UUID而不是AIID主键公开实体，以模糊那些ID和与这些数字顺序值关联的数据.
+- [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) -使用UUID，HashId，Optimus，Tiny和/或自定义混淆策略进行主密钥混淆/缩短.
 - ：草莓： [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) -限速（API）请求的插件.
 - [Recaptcha plugin](https://github.com/agiletechvn/Recaptcha) -简单，轻巧的Google Recaptcha v2.
 - [Recaptcha Mailhide plugin](https://github.com/mirko-pagliai/cakephp-recaptcha-mailhide) -一个允许您使用reCAPTCHA隐藏电子邮件地址的插件.
@@ -415,7 +415,7 @@
 *在哪里获得帮助.*
 
 - [CakePHP-FR.org](http://cakephp-fr.org) -法国社区网站.
-- [CakePHP.ir](http://forum.cakephp.ir/) -与其他开发者的讨论以及针对波斯社区的一般性问题.
+- [CakePHP.ir](http://forum.cakephp.ir/) - discussion with other devs and generic questions for Persian community.
 - [Official CakePHP Forum](https://discourse.cakephp.org/) -这适用于一般性问题.
 - [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) -与其他开发人员和核心开发人员的实时聊天/讨论.
 - [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) -这是针对特定问题的，最好是带有一些示例代码.

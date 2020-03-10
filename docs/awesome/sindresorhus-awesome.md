@@ -113,9 +113,9 @@
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) -存在不可能的探测项目.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) -对于npm软件包.
-	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
+	- [npm](https://github.com/sindresorhus/awesome-npm#readme) -包管理员.
 	- [AVA](https://github.com/avajs/awesome-ava#readme) -跑步者.
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) -林特
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
@@ -146,7 +146,7 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) -倾向于系统编程和嵌入式，资源受限的软件的通用语言.
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) -强大的动态多范式语言，可促进迭代和交互式开发.
@@ -161,7 +161,7 @@
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme) -服务器端脚本语言.
-	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
+	- [Composer](https://github.com/jakoch/awesome-composer#readme) -包管理员.
 - [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [Assembler](https://github.com/lurumdare/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
@@ -172,7 +172,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) -面向对象的语言，针对Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -JVM的功能性编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) -具有Haskell和ML影响的依赖类型的通用纯函数式编程语言.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，这些应用对可靠性和效率至关重要.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，在这些应用中，可靠性和效率至关重要.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
@@ -242,7 +242,7 @@
 - [Preact](https://github.com/ooade/awesome-preact#readme) -应用框架.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) -服务器渲染的React应用的框架.
-- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) -用于构建Web应用程序的微型JavaScript库.
+- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) -JavaScript的HTML模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) -基于客户端JavaScript，可重用API和预建标记的现代Web开发体系结构.
 - [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) -以WordPress为后端，以Gatsby为前端的Web开发技术堆栈.
@@ -423,6 +423,7 @@
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) -面向文档的NoSQL数据库.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) -分布式，可扩展的大数据存储.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) -帮助使用非关系型，分布式，开源和水平可伸缩的数据库.
+- [Contexture](https://github.com/ltchris/awesome-contexture#readme) -从诸如ElasticSearch和MongoDB之类的不同后备数据存储中提取查询/过滤器和结果/聚合.
 
 ## Media
 
@@ -448,7 +449,7 @@
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-- [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
+- [Educational Games](https://github.com/yrgo/awesome-eg#readme) -边玩边学.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) -主要关于CSS –语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) -了解如何成为更好的产品经理.
@@ -477,7 +478,7 @@
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) -Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) -Django CMS专注于灵活性和用户体验.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) -基于PHP的轻量级CMS.
-- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) -基于PHP的可扩展CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) -内容优先的CMS.
 
 ## Hardware
@@ -656,9 +657,11 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) -寻找解决气候危机的方法.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) -正确命名计算机科学中的事物.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) -如何从非结构化生物医学数据和文本中提取信息.
+- [k6](https://github.com/k6io/awesome-k6#readme) -开源，以开发人员为中心的性能监控和负载测试解决方案.
 
 ## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
 - [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) -使用浏览器扩展程序从Awesome数据集中发现随机页面.
+- [Awesome CLI](https://github.com/umutphp/awesome-cli) -一个简单的命令行工具，可深入研究Awesome列表.

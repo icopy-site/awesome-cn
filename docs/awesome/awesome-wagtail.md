@@ -125,7 +125,7 @@
 ### Testing
 
 - [wagtail-linkchecker](https://github.com/takeflight/wagtail-linkchecker) -一种工具，可帮助您在Wagtail网站上查找损坏的链接.
-- [Wagtail Accessibility](https://github.com/takeflight/wagtail-accessibility) –一个插件，用于在Wagtail中进行开发时辅助可访问性.
+- [Wagtail Accessibility](https://github.com/takeflight/wagtail-accessibility) –一个插件，用于在Wagtail中进行开发时有助于辅助功能.
 - [Wagtail Factories](https://github.com/mvantellingen/wagtail-factories) -Wa的工厂男孩班.
 - [Wagtail Foliage](https://github.com/harrislapiroff/wagtail-foliage) -在Wagtail中以编程方式构建页面树的实用程序.
 
@@ -192,7 +192,7 @@
 - [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) 由汤姆·戴森（Tom Dyson）撰写-汤姆（Tom）将解释其机构为何决定建立新的CMS，分享在运行不断增长的开源项目中吸取的一些经验教训，并概述Wagtail到第二版及更高版本的路线图. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
 - [Wellington Wagtail CMS Meetup - Meet Wagtail](https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit) 来自Springload开发团队的Josh，Jordi和Rich撰写-Wagtail的入门会议，展示了它所提供的主要功能.
 - [DjangoCon US 2016 - Atomic Wagtail](https://www.youtube.com/watch?v=kqAKiouk1lY)  作者：Kurt Wall –布拉德·弗罗斯特（Brad Frost）的原子设计原则正在席卷我们设计风暴的方式.  我将解释什么是Wa，如何将其与原子设计原理结合使用，并在此过程中遇到一些障碍，并提供有关如何提供帮助的建议.
-- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) Adam Brenecki撰写的本期讲座探讨了每个CMS的不同方法，优点和缺点，以及它们对于您作为开发人员和内容编辑者的意义.
+- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) Adam Brenecki撰写的本期演讲探讨了每个CMS的不同方法，优点和缺点，以及它们对于您作为开发人员和内容编辑者的意义.
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) Mikalai Radchuk撰写的-此演讲是俄语中Wa的介绍.
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) 由Edd Baldry撰写.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=38m13s) 由Daniele Procida.
@@ -261,6 +261,7 @@
 ### Podcasts
 
 - [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) -在这一集中，汤姆·戴森（Tom Dyson）解释了Wagtail的创建方式，将其与其他选择区分开的地方以及何时为项目实施它.
+- [Django Chat: Wagtail CMS - Tom Dyson](https://django-chat.simplecast.com/episodes/wagtail-cms-tom-dyson) -在Wagtail上接受Tom Dyson的采访，Wagtail是基于Django的领先CMS，被包括Google，NASA和英国NHS在内的数以万计的组织使用.
 
 ### Videos
 

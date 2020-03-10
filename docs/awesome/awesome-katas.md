@@ -8,7 +8,7 @@
 
 
 ## Introduction
- kata或代码kata被定义为编程中的一种练习，可通过练习和重复来帮助磨练您的技能.  戴夫·托马斯（Dave Thomas） [@pragdave](https://twitter.com/pragdave) ，开始了这项运动以进行编程.  该项目旨在为您提供一些我在Internet和Github社区中发现的kata练习的列表.  这些练习从常规算法到更复杂的算法以及现实生活中的变化，让您尝试使用首选的编程语言.  请记住，代码选项卡不是测验或难题.  您不仅应尝试“解决”它，还应遵循所用编程语言的最佳做法找到一个很好的解决方案.
+ kata或代码kata被定义为编程中的一种练习，可通过练习和重复来帮助磨练您的技能.  戴夫·托马斯（Dave Thomas） [@pragdave](https://twitter.com/pragdave) ，开始进行此编程运动.  该项目旨在为您提供一些我在Internet和Github社区中发现的kata练习.  这些练习从常规算法到更复杂的算法以及现实生活中的变化，您可以尝试使用首选的编程语言.  请记住，代码选项卡不是测验或难题.  您不仅应尝试“解决”它，还应遵循所用编程语言的最佳做法找到一个很好的解决方案.
 
 ## [CodeKata](http://codekata.com/)
   - [Kata01: Supermarket Pricing](http://codekata.com/kata/kata01-supermarket-pricing/)
@@ -77,7 +77,7 @@
   - [Bank OCR](http://code.joejag.com/coding-dojo/bank-ocr/)
   - [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort)
   - [Racing Car Katas](https://github.com/emilybache/Racing-Car-Katas)
-  - [Coding Dojo's KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
+  - [Coding Dojo's KataCatalogue](http://codingdojo.org/KataCatalogue/)
   - [The OCP Kata](http://matteo.vaccari.name/blog/archives/293)
   - [The Birthday Greetings Kata](http://matteo.vaccari.name/blog/archives/154)
   - [Social Networking Kata](https://github.com/sandromancuso/social_networking_kata)
@@ -98,6 +98,7 @@
   - [Password-strength Checker TDD Kata](https://github.com/xpepper/PasswordStrengthChecker)
   - [Gilded Rose - Many languages](https://github.com/emilybache/GildedRose-Refactoring-Kata)
   - [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose)
+  - [Java by Comparison Kata](https://java.by-comparison.com/kata)
   
 ## Contribution
   

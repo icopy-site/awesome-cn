@@ -41,6 +41,7 @@
 - [I Love Hue! (rs)](https://github.com/noc7c9/i-love-hue-rs) -紫杉（Rust）手机游戏《我爱色相》的克隆.
 - [Yew Form](https://github.com/jfbilodeau/yew_form) -使用Yew简化处理表格的组件.
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) -这是紫杉的框架风格的初始项目.
+- [caniuse.rs](https://github.com/jplatte/caniuse.rs) -防锈功能搜索.
 
 ## Templates
 

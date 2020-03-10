@@ -7,6 +7,8 @@
 
 ## Index
 
+  - [England] (#england)
+    - [London] (#london)
 
 ## Contribute 🌟
 
@@ -32,7 +34,7 @@
 
 ## Hackerspaces
 
-Hackerspaces是很好的黑客场所，实际上它们是如此之好，以至于多年来它们都有自己的清单，如果您正在寻找一个Hackerspace，请咨询：
+Hackerspaces是很好的黑客场所，实际上它们是如此之好，以至于多年来它们都有自己的清单，如果您正在寻找hackerspace，请咨询：
 
 - https://wiki.hackerspaces.org/List_of_Hacker_Spaces
 
@@ -248,7 +250,7 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Ravnsborggade 10B, 2200 København](https://goo.gl/maps/9x8KcbPzN7B2)  |  星期一9：30-23：00，星期二9：30–24：00，星期四9：30-2：00，星期五9：30-33：00，星期六10：00-33：00，星期日10： 00—21：30
+✔ | ✔ | [Ravnsborggade 10B, 2200 København](https://goo.gl/maps/9x8KcbPzN7B2)  |  星期一9：30-23：00，星期二9：30-24：00 00—21：30
 
 #### Cafe Nutid
 
@@ -345,7 +347,7 @@ CoWorking办公室很棒，但通常需要长期承诺，如果您希望长期�
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
+✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn)  |  变量
 
 #### Schiller Bar
 
@@ -472,7 +474,7 @@ Webpage: http://www.caffeperu.it/
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Via di Monserrato, 46, 00186 Roma](https://goo.gl/maps/HXioZUdXoPS2)  |  周一至周四6：00-14：00，周五至周六6：00-14：30，周日9：00-12：00
+✔ | ✔ | [Via di Monserrato, 46, 00186 Roma](https://goo.gl/maps/HXioZUdXoPS2)  |  周一至周四6：00-14：00，周五至周六6：00-14：30，星期日9：00-12：00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -601,7 +603,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 #### Kek
 
- &gt;在代尔夫特中央车站附近；  好食物；  时髦的地方；  有一间小商店（非常适合作为最后一刻的礼物）
+ &gt;在代尔夫特中央车站附近；  好食物；  时髦的地方；  有一个小商店（非常适合作为最后一刻的礼物）
 
 Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
@@ -769,13 +771,26 @@ Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 
 #### Mercado Negro
 
- &gt;旧装修的房子；  年份  对于只想完成某件事的夜猫子黑客非常有用
+ &gt;旧装修的房子；  年份  对于只想完成某件事的夜猫子黑客来说非常有用.  安静且干净的多间客房，因此总有一个安静的工作场所.
 
-Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.pt)
+Webpage: [mercadonegro-aveiro.blogspot.pt](https://mercadonegro-aveiro.blogspot.pt)
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr)  |  周二，周日20：00-11：00，周五至周六20：00-2：00
+✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr)  |  周一21：00-02：00，周二至周五17：00-02：00，周六至周日14：00-02：00
+
+![](https://www.speedtest.net/result/9023464358.png)
+
+#### NATA Lisboa
+
+ &gt;在城市“中心”的现代小地方.  安静，干净，各种西班牙小吃都可以吃.  专业的纳塔斯.
+
+Webpage: [natalisboa.com](https://natalisboa.com)
+
+ 无线网络  电源|  地址  营业时间
+---- | ----- | ------- | ----------
+✔ | ✔ | [Praça Marquês de Pombal 3, 3810-076 Aveiro](https://g.page/nata-lisboa-aveiro)  |  周二至周日09：00-19：00
+
 
 ## Braga
 
@@ -801,17 +816,6 @@ Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.p
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42)  |  星期日至四8:00-23:00，周五至周六08:00-01:00
-
-
-#### Jeronymo
-
- &gt;星巴克喜欢市中心附近的咖啡馆.  作为凉爽的沙发和桌子上班.  要使用wifi，您必须购买物品并要求输入密码.
-
-网页：http：//www.jeronymo.pt/coffee-shops/jeronymo-coffee-shops/av-liberdade-braga/
-
- 无线网络  电源|  地址  营业时间
----- | ----- | ------- | ----------
-✔ | ✔ | [Avenida da Liberdade, 712, 4710-249 Braga](https://goo.gl/maps/2n1gT7P1MEz)  |  周一至周日上午8:00-下午9:00
 
 
 #### Café São Martinho
@@ -1035,7 +1039,7 @@ Wifi密码：`葡萄牙语`
 ![](http://www.speedtest.net/result/5468130872.png)
 
 #### Costa COFFEE
-&gt;富有影响力的氛围，美味的咖啡，热情的英语，接受AliPay，并且羊角面包很好.
+&gt;富有影响力的氛围，美味的咖啡，热情的英语，接受AliPay且羊角面包很好.
 
 网页：https：// https：//www.costa.co.uk/
 
@@ -1089,7 +1093,7 @@ Wifi密码：`葡萄牙语`
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2)  |  周一至周三8:00-20:00，周四8:00-2:00，周日14：00-20：00
+✔ | ✔ | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2)  |  周一至周三8:00-20:00，周六8:00-2:00，周日14：00-20：00
 
 #### Café Candelabro
 
@@ -1162,7 +1166,7 @@ Wifi密码：`葡萄牙语`
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------
-✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM
+✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys)  |  每日8:30 AM–9.30PM
 
 ## one north
 
@@ -1195,7 +1199,7 @@ Wifi密码：`葡萄牙语`
 >
 &gt;与KT Giga Internet相连的路由器，这是韩国最快的Internet（包括海外网络访问）
 >
-&gt;许多座位和座位类型（沙发，吧凳...）
+> Many seats and seat types (Sofa, Bar Stools...)
 >
 &gt;有吸烟区
 
@@ -1249,7 +1253,7 @@ Naver地图：http：//naver.me/FjThMRso
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | -------------- | -------
-✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz)  |  周一：封闭，周二至周四：9-19，周五至周日：10-17
+✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz)  |  周一：闭馆，周二至周四：9-19，周五至周日：10-17
 
 #### Federal Café
 
@@ -1298,7 +1302,7 @@ Naver地图：http：//naver.me/FjThMRso
 
  &gt;当时的共享wifi下降了200mbit，上升了40mbit.  优质的食物，优质的咖啡.  这不是一个长期工作的好地方，但是在边吃边喝美食的同时上传iOS应用程序非常好.
 
-网页：https：//cafepascal.se
+Webpage: https://cafepascal.se
 
  无线网络  电源|  地址  营业时间
 ---- | ----- | ------- | ----------

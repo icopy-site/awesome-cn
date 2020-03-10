@@ -183,7 +183,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [whitfin/runiq](https://github.com/whitfin/runiq) —从未排序的输入中过滤重复行的有效方法.
 * [whitfin/bytelines](https://github.com/whitfin/bytelines) —将输入线作为字节片读取，以提高效率.
 * [xsv](https://crates.io/crates/xsv) —快速CSV命令行工具（切片，索引，选择，搜索，采样等） [<img src="https://api.travis-ci.org/BurntSushi/xsv.svg?branch=master">](https://travis-ci.org/BurntSushi/xsv)
-* [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) —一种简单快速的人类字符串搜索工具
+* [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) — A simple and fast string search tool for human beings
 
 ### Image processing
 
@@ -245,7 +245,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [cargo-cache](https://crates.io/crates/cargo-cache) —检查/管理/清理货物缓存（`〜/ .cargo /`/`$ {CARGO_HOME}`），打印尺寸等 [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions)
   * [cargo-check](https://crates.io/crates/cargo-check) —围绕“ rustc货物”的包装器--Zno-trans，如果只需要正确性检查，则有助于运行更快的编译器 [<img src="https://api.travis-ci.org/rsolomo/cargo-check.svg?branch=master">](https://travis-ci.org/rsolomo/cargo-check)
   * [cargo-count](https://crates.io/crates/cargo-count) —列出源代码计数和有关货运项目的详细信息，包括不安全的统计信息 [<img src="https://api.travis-ci.org/kbknapp/cargo-count.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-count)
-  * [cargo-deb](https://crates.io/crates/cargo-deb) —生成二进制Debian软件包 [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
+  * [cargo-deb](https://crates.io/crates/cargo-deb) — Generates binary Debian packages [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
   * [cargo-deps](https://crates.io/crates/cargo-deps) —构建Rust项目的依赖图 [<img src="https://api.travis-ci.com/m-cat/cargo-deps.svg?branch=master">](https://travis-ci.org/m-cat/cargo-deps)
   * [cargo-do](https://crates.io/crates/cargo-do) -连续运行多个货运命令 [<img src="https://api.travis-ci.org/pwoolcoc/cargo-do.svg?branch=master">](https://travis-ci.org/pwoolcoc/cargo-do)
   * [cargo-ebuild](https://crates.io/crates/cargo-ebuild) -可以使用树内eclass生成ebuild的货物扩展 [<img src="https://api.travis-ci.org/cardoe/cargo-ebuild.svg?branch=master">](https://travis-ci.org/cardoe/cargo-ebuild)
@@ -272,6 +272,8 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * Github动作
   * [icepuma/rust-action](https://github.com/icepuma/rust-action) —锈github动作
   * [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook) — mdBook的GitHub操作
+* GitHub Webhooks
+  * [snare](https://tratt.net/laurie/src/snare/) — GitHub webhooks运行程序守护程序
 * Webpack
   * [Ralvke/rust-loader](https://github.com/Ralvke/rust-loader) — Webpack Rust加载程序（wasm）
 
@@ -552,7 +554,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [philippkeller/rexpect](https://raw.githubusercontent.com/philippkeller/rexpect) [[rexpect](https://crates.io/crates/rexpect)] —自动执行诸如ssh，ftp，passwd等的交互式应用程序 [<img src="https://api.travis-ci.org/philippkeller/rexpect.svg?branch=master">](https://travis-ci.org/philippkeller/rexpect)
 *进展
   * [mitsuhiko/indicatif](https://github.com/mitsuhiko/indicatif) [[indicatif](https://crates.io/crates/indicatif)]-向用户指示进度
-  * [a8m/pb](https://github.com/a8m/pb) [[pbr](https://crates.io/crates/pbr)] — console progress bar for Rust
+  * [a8m/pb](https://github.com/a8m/pb) [[pbr](https://crates.io/crates/pbr)]-Rust的控制台进度栏
   * [FGRibreau/spinners](https://github.com/FGRibreau/spinners) [[spinners](https://crates.io/crates/spinners)] — 60多个优雅的终端旋转器
 *提示
   * [hashmismatch/terminal_cli.rs](https://raw.githubusercontent.com/hashmismatch/terminal_cli.rs) [[terminal_cli](https://crates.io/crates/terminal_cli)] —构建交互式命令提示符 [<img src="https://api.travis-ci.org/hashmismatch/terminal_cli.rs.svg?branch=master">](https://travis-ci.org/hashmismatch/terminal_cli.rs)
@@ -695,7 +697,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
     * [blackbeam/mysql_async](https://github.com/blackbeam/mysql_async) [[mysql_async](https://crates.io/crates/mysql_async)]-基于Tokio的异步Rust Mysql驱动程序. [![CircleCI](https://circleci.com/gh/blackbeam/mysql_async/tree/master.svg?style=shield)](https://circleci.com/gh/blackbeam/mysql_async/tree/master)
     * [blackbeam/rust-mysql-simple](https://raw.githubusercontent.com/blackbeam/rust-mysql-simple) [[mysql](https://crates.io/crates/mysql)] —本机MySql客户端 [<img src="https://api.travis-ci.org/blackbeam/rust-mysql-simple.svg?branch=master">](https://travis-ci.org/blackbeam/rust-mysql-simple)
   * PostgreSQL [[postgres](https://crates.io/keywords/postgres), [postgresql](https://crates.io/keywords/postgresql)]
-    * [sfackler/rust-postgres](https://raw.githubusercontent.com/sfackler/rust-postgres) [[postgres](https://crates.io/crates/postgres)] —本地人 [PostgreSQL](https://www.postgresql.org/) 客户 [<img src="https://api.travis-ci.org/sfackler/rust-postgres.svg?branch=master">](https://travis-ci.org/sfackler/rust-postgres)
+    * [sfackler/rust-postgres](https://raw.githubusercontent.com/sfackler/rust-postgres) [[postgres](https://crates.io/crates/postgres)] —本地人 [PostgreSQL](https://www.postgresql.org/) client [<img src="https://api.travis-ci.org/sfackler/rust-postgres.svg?branch=master">](https://travis-ci.org/sfackler/rust-postgres)
   * Sqlite [[sqlite](https://crates.io/keywords/sqlite)]
     * [jgallagher/rusqlite](https://raw.githubusercontent.com/jgallagher/rusqlite) — [Sqlite3](https://www.sqlite.org/index.html) 绑定 [<img src="https://api.travis-ci.org/jgallagher/rusqlite.svg?branch=master">](https://travis-ci.org/jgallagher/rusqlite)
 * ORM [[orm](https://crates.io/keywords/orm)]
@@ -713,7 +715,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [contain-rs](https://github.com/contain-rs) — Rust的std :: collections的扩展
 * [mrhooray/kdtree-rs](https://github.com/mrhooray/kdtree-rs) — Rust中的K维树，用于快速地理空间索引和最近邻居查找
 * [pop-os/progress-streams](https://github.com/pop-os/progress-streams) —实现“ dyn io :: Read”或“ dyn io :: Write”的类型的进度回调.
-* [whitfin/usher](https://github.com/whitfin/usher) [[usher](https://crates.io/crates/usher)] — Parameterized routing for generic resources in Rust.
+* [whitfin/usher](https://github.com/whitfin/usher) [[usher](https://crates.io/crates/usher)] — Rust中通用资源的参数化路由.
 
 ### Data visualization
 
