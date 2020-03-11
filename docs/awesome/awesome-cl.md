@@ -17,7 +17,7 @@ _awesome_ Common Lisp库的精选列表.
  坚信他们成为社区标准.  你不会错
  他们.  Quicklisp，BordeauxThreads和
  这样.  标有a的库是我们喜欢并想要
-promote here at the Awesome-cl list. They proved solid, they may solve
+ 在Awesome-cl列表中进行推广.  他们证明是可靠的，他们可能会解决
 比社区标准更好的问题，但他们没有
  普遍存在，或不被视为稳定.  例如，我们更喜欢
 Cl-Who上的喷丝板.
@@ -77,7 +77,7 @@ C，C ++
 ------
 
 * [cmacro](https://github.com/eudoxia0/cmacro) -C. [MIT] [200]的Lisp宏.
-* [C-mera](https://github.com/kiselgra/c-mera) - a source-to-source compiler that utilizes Lisp's macro system for meta programming of C-like languages. [GPL3][2].
+* [C-mera](https://github.com/kiselgra/c-mera)  -源到源编译器，利用Lisp的宏系统对类似C的语言进行元编程.  [GPL3] [2].
 * [lispc](https://github.com/eratosthenesia/lispc) -用于C. [MIT] [200]的强大的“ lispsy”宏语言.
 * [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl)  -用于C语言的交互式REPL.  未指定许可证.
 * [Software-Evolution-Library](https://github.com/GrammaTech/sel)  -SEL支持对软件进行编程修改和评估（使用Clang，编译汇编器和链接的ELF二进制文件提供C / C ++支持）.  [GPL3] [2].
@@ -156,7 +156,7 @@ Tools
 * [genhash](https://github.com/pnathan/genhash)  –使用通用方法中的API实现哈希表.  公共区域.
 * [cl-ctrie](https://github.com/danlentz/cl-ctrie) -
  无锁，并发，键/值索引，具有高效的内存映射持久性和快速瞬态存储模型.  [MIT] [200].
-* [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  -数据结构和算法（主要是字典和序列，具有一些统计功能）的可移植集合.  [BSD] [15].
+* [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD][15].
 * [listopia](https://github.com/Dimercel/listopia)  -受Haskell的Data.List启发的列表处理库.  [LLGPL] [8].
 * [hash-set](https://github.com/samebchase/hash-set/) -在CL哈希表顶部实现哈希集的便捷库[The Unlicense] [5]
 * [cl-containers](https://common-lisp.net/project/cl-containers/) -广泛的数据结构和实用程序库-队列，树，堆，双链表，集合，包，... [MIT] [200]
@@ -193,7 +193,7 @@ Docker映像
 
 ## Java ##
 
-* [cl+j](https://common-lisp.net/project/cl-plus-j/)  -通过CFFI与JVM的基于JNI的接口.  在Quicklisp上不可用.  不能可靠地与所有实现一起使用.  [Expat] [14].
+* [cl+j](https://common-lisp.net/project/cl-plus-j/) - A JNI-based interface to a JVM via CFFI. Not available on Quicklisp. Does not reliably work with all implementations. [Expat][14].
 
 ## Objective-C ##
 
@@ -248,7 +248,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
-* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
+* [donuts](https://github.com/tkych/donuts)  -图形绘制DSL用于Common Lisp.  [Expat] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [Expat] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -263,7 +263,7 @@ Graphics
 GUI
 ===
 
-*  [Qtools](https://github.com/Shinmera/qtools/)  -基于CommonQt的Qt工具包.  [Artistic License 2.0] [51]另外 [Qtools-ui](https://github.com/Shinmera/qtools-ui) (premade UI components), with [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
+*  [Qtools](https://github.com/Shinmera/qtools/)  -基于CommonQt的Qt工具包.  [Artistic License 2.0] [51]另外 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制的UI组件）， [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 *：星级： [CommonQt](https://github.com/commonqt/commonqt)  -通过QtSmoke为Qt4的Common Lisp绑定.  [FreeBSD] [39].
 *：星级： [ltk](http://www.peter-herth.de/ltk/)  -Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
 * [IUP](https://github.com/lispnik/iup/) -YFC绑定到 [IUP](https://www.tecgraf.puc-rio.br/iup/)  便携式用户界面库（ALPHA之前的版本）.  IUP是跨平台的（Windows，macOS，GNU / Linux，带有新的Android，iO，Cocoa和Web Assembly驱动程序），具有许多小部件，具有小的api，并且正在积极开发中.
@@ -283,6 +283,8 @@ GUI
 * [eql, eql5, eql5-android](https://gitlab.com/eql)  -嵌入在ECL中的嵌入式Qt4和Qt5 Lisp，可嵌入到Qt中.  EQL5到Android平台的端口.  [MIT] [200].
 * [bodge-nuklear](https://github.com/borodust/bodge-nuklear) -包装在 [Nuklear](https://github.com/vurtun/nuklear)  立即模式GUI库.  [MIT] [200].
 
+另请参阅 [demo to use Java Swing from ABCL](https://github.com/defunkydrummer/abcl-jazz).
+
 
 Implementations
 ===============
@@ -293,8 +295,8 @@ Implementations
 * [ABCL](https://common-lisp.net/project/armedbear/)  -武装熊常见的Lisp；  针对JVM，编译为字节码.  [标准符合性] [4].  [GNU GPL3] [2]和[Classpath exception] [3].
 * [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/)  -卡耐基梅隆大学实施.  公共区域.
 * [GNU CLISP](http://www.clisp.org/)  -GNU实现；  包含一个编译器和一个解释器.  [标准符合性] [6].  [GNU GPL3] [2].
-* [CLASP](https://github.com/drmeister/clasp)  -一种新的Common Lisp实现，可使用LLVM与C ++库和程序无缝地互操作，以编译为本地代码.  这使Clasp可以利用大量预先存在的库和程序，例如科学计算生态系统之外的库和程序.  [LGPL2.1] [11]（及其他）.
-* [Corman Lisp](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT][200].
+* [CLASP](https://github.com/drmeister/clasp)  -一种新的Common Lisp实现，可使用LLVM与C ++库和程序无缝地互操作，以编译为本机代码.  这使Clasp可以利用大量预先存在的库和程序，例如科学计算生态系统之外的库和程序.  [LGPL2.1] [11]（及其他）.
+* [Corman Lisp](https://github.com/sharplispers/cormanlisp)  -在Intel平台上运行的Microsoft Windows通用Lisp开发环境.  [MIT] [200].
 
 Proprietary:
 
@@ -342,6 +344,8 @@ YAML
 可移植层
 ------------------
 
+大量的可移植层 [is collected here](https://shinmera.github.io/portability/) .  这里是其中的一些：
+
 * [trivial-arguments](https://github.com/Shinmera/trivial-arguments) -
    可移植库，用于检索函数的参数列表.  [Artistic License 2.0] [51].
 * [definitions](https://github.com/Shinmera/definitions)  -通用定义自省库.  它使您能够检索与代号相关的定义或绑定，例如符号，程序包和名称.  [Artistic License 2.0] [51].
@@ -355,7 +359,7 @@ YAML
 * [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax)  -压痕敏感的阅读器系统.  在Quicklisp上不可用.  公共区域.
 * [cl-annot](https://github.com/m2ym/cl-annot)  -Common Lisp的类似Python的注释.  [LLGPL] [8].
 *：星级： [cl-interpol](http://www.cliki.net/cl-interpol)  -一组读取器修改，以允许字符串内插.  未指定许可证.
-* [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader) - A simple and unobtrusive read table modification inspired by Python's three quote strings. [BSD_3Clause][15].
+* [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader)  -受Python的三个引号字符串的启发，对读取表进行了简单，轻松的修改.  [BSD_3Clause] [15].
 * [cl-reader](https://github.com/digikar99/reader) -实用程序库
 旨在为lambda，映射，访问器提供阅读器宏，
  哈希表和哈希集.  [MIT] [200].
@@ -365,7 +369,7 @@ CLOS扩展
 ---------------
 
 *：星级： [closer-mop](http://cliki.net/closer-mop)  -兼容性层，可纠正许多缺少或不正确的MOP功能.  [Expat] [14].
-* [defclass-std](https://github.com/EuAndreh/defclass-std)  -用于快速编写DEFCLASS表单的快捷方式宏.  [LLGPL] [8].
+* [defclass-std](https://github.com/EuAndreh/defclass-std) - a shortcut macro to write DEFCLASS forms quickly. [LLGPL][8].
 * [specialization-store](https://github.com/markcox80/specialization-store/)  -基于类型的通用函数.  简化的BSD许可变体.
 * [filtered-functions](https://github.com/pcostanza/filtered-functions)  -允许使用任意谓词来选择和应用方法.  [MIT] [200].
 * [inlined-generic-function](https://github.com/guicho271828/inlined-generic-function) -
@@ -388,7 +392,7 @@ Iteration
   与迭代不同，它不需要代码遍历并且更容易
    延伸.  [Artistic License 2.0] [51].
 * [series](https://github.com/tokenrove/series/wiki)  -功能样式，完全没有任何运行时损失.  [MIT] [200].
-* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优势（请参阅“数据结构”部分），正如同一作者所写.  在Quicklisp中，是`misc-extensions`的一部分.  公共区域.
+* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优势（请参见“数据结构”部分），正如同一作者所写.  在Quicklisp中，是`misc-extensions`的一部分.  公共区域.
 
 
 Lambda速记
@@ -510,6 +514,7 @@ Community
 * [Lisp Discord Server](https://discord.gg/hhk46CE)
 * [#lisp](http://log.irc.tymoon.eu/freenode/lisp) 在Freenode上-Common Lisp IRC主频道.
 * [chat.lisp.cl](https://chat.lisp.cl/) -Mattermost聊天服务器，具有到IRC和Discord的桥.
+* [Common Lisp chat](https://chat.hexstreamsoft.com/) -具有明确定义的规则和保留策略的Keybase团队.
 
 图书馆经理
 ===============
@@ -580,7 +585,7 @@ HTTP服务器
 
 ### Hunchentoot plugins
 
-* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的分派，从URL路径提取参数，修饰符，从路由名称生成URL等.[MIT] [200].
+* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的调度，从url路径中提取参数，装饰器，从路由名称中生成url等.[MIT] [200].
 * [hunchentoot-cgi](https://github.com/slyrus/hunchentoot-cgi)  -用于从hunchentoot Web服务器执行CGI脚本的库.  [BSD] [207].
 * [hunchentoot-multi-acceptor](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/)  -使用单个端口在单个hunchentoot接受器上路由多个域（虚拟主机）.  [Apache2.0] [89].
 
@@ -616,7 +621,7 @@ Web框架
 资产管理
 -----------------
 
-* [Rock](https://github.com/eudoxia0/rock) -的资产经理
+* [Rock](https://github.com/eudoxia0/rock) - an asset manager for
    普通Lisp.  它基本上是Bower和
    网络资产.  [MIT] [200].
 
@@ -885,7 +890,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 
 其中包含用于各种文本编辑器的插件和其他工具.
 
-* [Parinfer](https://shaunlebron.github.io/parinfer/)  -Parinfer是一种编辑Lisp代码的方法，有助于保持缩进和括号之间的平衡.  它很容易入手，但是它提供了Paredit的高级功能.  它在许多编辑器（Emacs，Vim，Neovim，Atom，Sublime Text，Visual Studio Code，LightTable，CodeMirror等）中都可用.
+* [Parinfer](https://shaunlebron.github.io/parinfer/) - Parinfer is a way to edit lisp code that helps to keep both the indentation and the parenthesis balanced. It is easy to start with and yet it offers advanced features à la Paredit. It is available on many editors (Emacs, Vim, Neovim, Atom, Sublime Text, Visual Studio Code, LightTable, CodeMirror,…).
 
 ## Emacs ##
 
@@ -897,7 +902,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 ## Vim & Neovim ##
 
 * [SLIMV](https://github.com/kovisoft/slimv)  -Vim的高级Lisp交互模式；  Vim内部Common Lisp的成熟环境.  未指定许可证.
-* [Vlime](https://github.com/l04m33/vlime)  -VLIME：Vim加Lisp大多是邪恶的.  Vim（和Neovim）的通用Lisp开发环境.  [MIT] [200].
+* [Vlime](https://github.com/vlime/vlime)  -VLIME：Vim加Lisp大多是邪恶的.  Vim（和Neovim）的通用Lisp开发环境.  [MIT] [200].
 * [quicklisp.nvim](https://gitlab.com/HiPhish/quicklisp.nvim) -Neovim的Quicklisp前端.
 * [Slimv_box](https://github.com/justin2004/slimv_box) -在Docker容器中的slimv.
 
@@ -1063,7 +1068,7 @@ REPL的常见任务（打印文档，打印外部符号，
 * [erudite](https://github.com/mmontone/erudite)  -考虑互动开发的精巧编程系统.  [MIT] [200].
 
 
-文件和目录
+Files and directories
 ---------------------
 
 *：星级： [uiop](http://quickdocs.org/uiop/) 及其`pathname`包
@@ -1121,7 +1126,7 @@ Logging
 Markdown
 --------
 
-* [3bmd](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT][200].
+* [3bmd](https://github.com/3b/3bmd)  -markdown-&gt; html转换器.  [MIT] [200].
 
 PDF
 ---

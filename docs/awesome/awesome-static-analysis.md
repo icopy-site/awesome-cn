@@ -193,7 +193,7 @@
 * [gofmt -s](https://golang.org/cmd/gofmt/) -检查代码格式是否正确，是否无法进一步简化.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) -检查丢失或未引用的程序包导入.
 * [GolangCI-Lint](https://github.com/golangci/golangci-lint) -替代“ Go Meta Linter”：GolangCI-Lint是一个Linters聚合器.
-* [golint](https://github.com/golang/lint) -在Go源代码中打印出编码样式错误.
+* [golint](https://github.com/golang/lint) - Prints out coding style mistakes in Go source code.
 * [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) -同时运行许多linter，并将其输出标准化为报告.
 * [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) -分析Golang goroutine转储的交互式工具.
 * [gosec (gas)](https://github.com/GoASTScanner/gas) -通过扫描Go AST检查源代码是否存在安全问题.
@@ -279,7 +279,7 @@
 * [standard](http://standardjs.com/) -一个npm模块，用于检查Javascript Styleguide问题
 * [tern](https://github.com/ternjs/tern) -JavaScript代码分析器，可提供深入的跨编辑器语言支持
 * [xo](https://github.com/xojs/xo)  -固执己见，但可配置的ESLint包装器，其中包含许多好东西.  强制执行严格且易读的代码.
-* [yardstick](https://github.com/calmh/yardstick) :warning: - Javascript code metrics
+* [yardstick](https://github.com/calmh/yardstick) ：警告：-Javascript代码指标
 
 ## Kotlin
 
@@ -596,6 +596,10 @@
 * [HTMLHint](https://github.com/yaniswang/HTMLHint) -用于HTML的静态代码分析工具
 * [Polymer-analyzer](https://github.com/Polymer/polymer-analyzer) -Web组件的静态分析框架.
 
+## IDE
+
+* [Android Studio](https://developer.android.com/studio) -基于IntelliJ IDEA，并捆绑了适用于Android的工具，包括Android Lint.
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) -捆绑了许多针对Java和Kotlin的检查，并包括用于重构，格式化等的工具.
 
 ## IDE Plugins
 
@@ -626,7 +630,7 @@
 * [Android Lint](http://tools.android.com/tips/lint) -在Android项目上运行静态分析.
 * [android-lint-summary](https://github.com/passy/android-lint-summary) -将多个项目的棉绒错误合并为一个输出，立即检查多个子项目的棉绒结果.
 * [FlowDroid](https://github.com/secure-software-engineering/soot-infoflow-android) -适用于Android应用程序的静态污点分析工具
-* [paprika](https://github.com/GeoffreyHecht/paprika) -一个工具包，用于检测已分析的Android应用程序中的某些代码异味.
+* [paprika](https://github.com/GeoffreyHecht/paprika) -一个工具包，用于检测已分析的Android应用程序中的某些代码气味.
 * [qark](https://github.com/linkedin/qark) -查找多个与安全性相关的Android应用程序漏洞的工具
 
 ## Packages
@@ -672,11 +676,11 @@
 * [Codeac](https://www.codeac.io?ref=awesome-static-analysis)  ：copyright：-自动代码审查工具与GitHub，Bitbucket和GitLab（甚至是自托管）集成.  适用于JavaScript，TypeScript，Python，Ruby，Go，PHP，Java，Docker等.  （免费开源）
 * [CodeFactor](https://codefactor.io) ：copyright：-在GitHub或BitBucket上针对仓库的自动代码分析.
 * [CodeFlow](https://www.getcodeflow.com)  ：copyright：-自动化的代码分析工具来处理技术深度.  与Bitbucket和Gitlab集成.  （对于开源项目免费）
-* [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) ：copyright：-由安全性驱动的自动SAST代码检查，支持15种以上的语言，并包括安全性培训.
+* [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) ：copyright：-由安全性驱动的自动SAST代码审查，支持15种以上的语言，并包括安全培训.
 * [Embold](https://embold.io) :copyright: - Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
 * [kiuwan](https://www.kiuwan.com/) ：copyright：-云中的软件分析支持超过22种编程语言.
 * [Landscape](https://landscape.io/) ：copyright：-Python的静态代码分析
-* [Layered Insight](https://layeredinsight.com/) ：copyright：-容器本地应用程序保护，以提供对容器化应用程序的可见性和控制.
+* [Layered Insight](https://layeredinsight.com/) ：copyright：-容器本机应用程序保护，以提供对容器化应用程序的可见性和控制.
 * [LGTM.com](https://lgtm.com/)  ：copyright：-针对GitHub和Bitbucket的深入代码分析，以发现安全漏洞和关键代码质量问题（使用Semmle QL）.  自动查看拉取请求的代码；  免费用于公共存储库.
 * [Nitpick CI](https://nitpick-ci.com) ：copyright：-自动化PHP代码审查
 * [PullRequest](https://www.pullrequest.com) ：copyright：-具有内置静态分析功能的代码审查服务

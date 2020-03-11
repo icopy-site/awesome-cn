@@ -36,6 +36,7 @@
 - [Comments During Code Reviews](https://medium.com/@otarutunde/comments-during-code-reviews-2cb7791e1ac7) 在代码检查期间编写好的注释.
 - [Designing Awesome Code Reviews](https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3) 积极设计代码审查过程的原则.
 - [Effective Code Reviews Without the Pain](https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm) 关于如何有效执行代码审查的另一本2006年经典著作.
+- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/) 对审阅者有用的框架，可对特定的审阅反馈进行分类.
 - [How Code Reviews work at Microsoft](https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/) 对代码审查过程在Microsoft的外观进行深入分析.
 - [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code) 有关如何最好地审查来自Tumblr工程师的拉拔请求的更多个人建议.
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) Google的《工程实践》文档中详细介绍了Google工程师如何进行代码审查.
@@ -43,7 +44,7 @@
 - [On Code Review](https://medium.com/@schrockn/on-code-reviews-b1c7c94d868c) 前Facebook工程师撰写的有关工具和代码审查的个人元素的简短文章.
 - [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) 为代码审查过程的双方，审查者和被审查者提供建议.
 - [Ship Small Diffs](https://blog.skyliner.io/ship-small-diffs-741308bec0d1) 为什么最好回顾小变更而不是大变更.
-- [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) A step-by-step process to split big PRs and increase review engagement.
+- [Stacked Pull Requests: Keeping GitHub Diffs Small](https://graysonkoonce.com/stacked-pull-requests-keeping-github-diffs-small/) 逐步拆分大型PR并提高评论参与度的分步过程.
 - [The Art of Humanizing Pull Requests](https://blog.usejournal.com/the-art-of-humanizing-pull-requests-prs-b520588eb345) 丰富的表情符号指南，通过拉取请求进行代码审查.
 - [Towards Productive Technical Discussions](https://cate.blog/2018/07/03/towards-productive-technical-discussions/) 将代码审查讨论推向更高产领域的战术问题和行动.
 - [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c) 通过不怎么过的请求请求的如何做指南.
@@ -54,7 +55,7 @@
 - [Best Kept Secrets of Peer Code Review](https://www.goodreads.com/book/show/1563457.Best_Kept_Secrets_of_Peer_Code_Review)  有关代码审查实践的10篇文章的较早版本.  由于不同作者覆盖同一地区而进行了一些重复.
 - [Handbook of Walkthroughs, Inspections, and Technical Reviews](https://www.amazon.com/Handbook-Walkthroughs-Inspections-Technical-Reviews/dp/0932633196) 较旧的书涵盖了更多正式的演练，但在回顾中很好地涵盖了政治和群体动态.
 - [Peer Reviews in Software: A Practical Guide](https://www.amazon.com/Peer-Reviews-Software-Practical-Guide/dp/0201734850) 作为代码审查实践的正式代码检查的实用指南.
-- [Software Inspection: An Industry Best Practice](https://www.amazon.com/Software-Inspection-Industry-Best-Practice/dp/0818673400) 关于代码审查实践的论文纲要.
+- [Software Inspection: An Industry Best Practice](https://www.amazon.com/Software-Inspection-Industry-Best-Practice/dp/0818673400) Compendium of papers on code review practice.
 - [Ultimate Guide to Code Reviews](https://www.codacy.com/ebooks/guide-to-code-reviews) Codacy赞助了基于开发人员调查的电子书代码审查实践.
 - [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) JetBrains赞助了有关如何在审核期间发现反模式编码的电子书.
 

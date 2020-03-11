@@ -8,7 +8,7 @@
 
 **[Domain-Driven Design (DDD)](https://en.m.wikipedia.org/wiki/Domain-driven_design) **是一种通过将实现与不断发展的模型相连接来满足复杂需求的软件开发方法.  域驱动设计的前提如下：
 
-- placing the project's primary focus on the core domain and domain logic
+-将项目的主要重点放在核心领域和领域逻辑上
 -根据领域模型建立复杂的设计
 -在技术专家和领域专家之间发起创新合作，以迭代方式完善解决特定领域问题的概念模型
 
@@ -198,7 +198,7 @@
 - [Aggregates.NET](https://github.com/volak/Aggregates.NET) -通过NServicebus和GetEventStore的.NET事件源域驱动的设计模型.
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) -轻量级基础架构，用于使用聚合进行事件外包.
 - [Akka.NET](http://getakka.net/) -Akka.NET是一个工具包和运行时，用于在.NET＆Mono上构建高度并发，分布式和容错事件驱动的应用程序.
-- [ABP](https://abp.io) -ASP.NET Boilerplate的继任者-基于ASP.NET Core的应用程序框架，用于创建具有以微服务为中心的模块化体系结构的NLayered，域驱动设计的Web应用程序
+- [ABP](https://abp.io) - Successor of ASP.NET Boilerplate - ASP.NET Core based application framework to create NLayered, Domain Driven Designed web applications with a microservice focused modular architecture
 - [ASP.NET Boilerplate](http://aspnetboilerplate.com/) -基于ASP.NET MVC，Web API和ASP.NET Core的应用程序框架，以创建实现最佳实践的NLayered，域驱动设计的Web应用程序.
 - [ByValue](https://github.com/sm-g/ByValue) - This library helps to create ValueObjects (even with collection properties) with properly implemented equality behavior.
 - [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling)  -通过HTTP处理命令的中间件；  通常用于CQRS应用程序.
@@ -207,6 +207,7 @@
 - [CQRS on Azure](https://github.com/MerrionComputing/CQRSAzure) Windows Azure上的CQRS.
 - [Dolittle](https://dolittle.com)  -使用Dolittle构建更好的应用程序.  一个基于事件的，基于DDD的微服务平台，具有开发人员的生产力以及简洁的前端和中心.
 - [EventFlow](https://github.com/eventflow/EventFlow) -异步/等待第一个.NET http://geteventflow.net/的CQRS + ES和DDD框架.
+- [Core.EventStore](https://github.com/younos1986/Core.EventStore)  -促进CommandService和QueryService之间的通信的库.  这个想法是，当commandService中发生任何事件时，都应将其保留在MongoDb中的QueryService中.
 - [Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) -一组具有域驱动设计风格的CQRS和事件源库.
 - [MassTransit](https://github.com/MassTransit/MassTransit) -.NET的分布式应用程序框架.
 - [MediatR](https://github.com/jbogard/MediatR) - Supports request/response, commands, queries, notifications and events, synchronous and async with intelligent dispatching via C# generic variance.

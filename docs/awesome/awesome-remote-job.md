@@ -190,7 +190,7 @@
   1. [Meerkad](https://meerkad.com/) -由来自最流行的远程工作委员会，公司网站，Facebook组，Twitter搜索，Reddit，StackOverflow，HackerNews，Dribbble，Behance和许多其他项目的社区工作精心挑选和策划  
   1. [Remote.io](https://www.remote.io/) -远程工作（主要是技术）的工作板和聚集器.
   1. [Remote 4 Me](https://remote4me.com/) -从事技术和非技术领域远程工作的聚合器.
-  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供远程使用.
+  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供偏远职位使用.
   1. [RemotePHP.io](https://remotephp.io) -来自网络的远程PHP作业.
   1. [Remote Python](https://www.remotepython.com/) -专门用于远程Python作业的作业板和聚合器.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) -抓取多个作业板以进行远程作业发布.
@@ -249,7 +249,7 @@
   1. [Remote Jobs Club](https://remotejobsclub.com) -每周通讯，其中包括精选的远程工作清单
 
 ## Podcasts
-  1. [Building Remote Teams](https://www.buildingremoteteams.com/) -针对已经在远程工作的人员，并专注于远程工作的细微挑战.
+  1. [Building Remote Teams](https://www.buildingremoteteams.com/) -针对已经在远程工作的人员，并关注远程工作中细微的挑战.
   1. [Distributed](https://distributed.blog/podcast/)  -马特·穆伦维格（Matt Mullenweg）的访谈播客.  专注于分布式工作的好处和挑战以及在全球范围内招募人员.
   1. [Free People Move Podcast](https://teleport.org/podcast/) -多数采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
@@ -286,6 +286,7 @@
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark)  -WebDev咨询和Roomify的制造商.  在北卡罗来纳州罗利和意大利设有总部的远程团队.  Drupal.
   1. [BookingSync](https://www.bookingsync.com/en/jobs)  -专业人士的度假租赁软件.  完全分散的团队，我们进行远程工作，并尝试每年撤退公司.  骄傲的Ember.js官方赞助商，Ruby / Rails
   1. [Brave](https://brave.com) -带有内置广告拦截器和加密令牌小额付款的Web浏览器.
+  1. [BRYTER](https://bryter.io/)  -决策自动化的无代码平台；  Kotlin，打字稿，Vue.js，k8s
   1. [Buffer](https://buffer.com/journey/)  -帮助管理社交媒体的工具.  PHP，CodeIgniter，MongoDB，Memcache，Backbone.js，React.js，Grunt.js，LESS和Python.
   1. [Bugfender](https://bugfender.com/)  -Bugfender是适用于多个平台（包括iOS和Android）的远程记录器.  它存储由您的应用程序创建的日志，并将它们发送到我们的服务器，从而创建一个远程控制台，您可以在其中实时查看日志.  远程公司设在巴塞罗那.
   1. [ButterCloud](http://www.buttercloud.com/)  -一支由网络和应用开发人员组成的小组.  我们帮助初创公司和中小型企业构建，维护和发展其产品.
@@ -349,10 +350,10 @@
   1. [Hotjar](https://careers.hotjar.com/) -分析和反馈工具.
   1. [Hubstaff](https://hubstaff.com/jobs) -具有多个集成的时间跟踪解决方案.
   1. [Igalia](https://www.igalia.com/about-us/form)  -开源咨询.  总部设在西班牙.
-  1. [Incsub](http://incsub.com/careers/) -建立Wordpress专案的远端小组.
+  1. [Incsub](http://incsub.com/careers/) - Remote team that builds Wordpress projects.
   1. [Inpsyde GmbH](https://inpsyde.com/) -德国的WordPress代理商.
   1. [Institute for Nonprofit News](https://inn.org/about/jobs/) -非营利新闻机构.
-  1. [Instructure](https://www.instructure.com/careers/) -我们开发的软件可以使人们变得更聪明.
+  1. [Instructure](https://www.instructure.com/careers/) - We make software that makes people smarter.
   1. [Intellum](http://intellum.com/)  -我们建立员工协作，绩效和学习工具.  Ruby，iOS，Android，AWS，GCS.
   1. [InVision](https://www.invisionapp.com/company#jobs) -原型，协作和工作流平台.
   1. [Isos Technology](https://careers.isostech.com/) -杰出的Atlassian白金和企业解决方案合作伙伴，使用Atlassian工具帮助组织解决复杂的开发和业务问题.
@@ -469,7 +470,7 @@
 
 ## Q&A
   1. Chegg家教： [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
-  1. Quora： [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
+  1. Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
   1. Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
   1. StackExchange
     -工作场所： [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
@@ -502,9 +503,9 @@
   1. [Fleep](https://fleep.io/) -开发团队的内部聊天和协作工具
   1. [Floobits](https://floobits.com)  -屏幕共享的远程配对编程.  与Sublime，IntelliJ，Atom等集成
   1. [Flowdock](https://www.flowdock.com/)  –基于浏览器的团队聊天.  与GitHub，Jira，Jenkins等集成
-  1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) –聊天系统，共享桌面和视频通话.
+  1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) – Chat system, share desktop and video calls.
   1. [IRCCloud](https://www.irccloud.com) –具有永久存储的基于浏览器的IRC客户端.
-  1. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
+  1. [Jitsi](https://jitsi.org) -多平台开源视频会议
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix是分布式团队的在线开源工作场所.
   1. [Mumble](https://wiki.mumble.info/) Mumble是一款开源语音聊天软件
   1. [Precursor](https://precursorapp.com) -通过实时协作进行简单的原型设计和集思广益的网络应用程序.
@@ -533,7 +534,7 @@
 #### Others
   1. [Coffitivity](https://coffitivity.com/) -Coffitivity可再现咖啡馆的环境声音，以增强您的创造力并帮助您更好地工作.
   1. [Fiverr](https://www.fiverr.com/) -Fiverr是面向精益企业家的全球最大的自由职业服务市场，您可以在这里雇用远程工人为您做一些小工作.
-  1. [Funretro](https://funretro.github.io/distributed) - Funretro is a retrospective online board for distributed teams.
+  1. [Funretro](https://funretro.github.io/distributed) -Funretro是分布式团队的回顾性在线董事会.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) -听听Wikipedia的最新更改提要.
   1. [Noisli](https://www.noisli.com/) -Noisli提供了一系列不同的环境声音，可以组合使用这些声音来增强创造力和注意力.
   1. [musicforprogramming.net](https://musicforprogramming.net/) -`返回&#39;一系列旨在听的混音，而&#39;+ task +&#39;有助于集中注意力并提高生产力（也与其他活动兼容）.

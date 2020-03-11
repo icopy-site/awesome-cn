@@ -59,7 +59,6 @@
 * Capterra-http://www.capterra.com/vendors/sign-up
 * CloudShowPlace-http://www.cloudshowplace.com/add-your-company/
 * Cnet-https://upload.cnet.com/
-* CodeCanyons-https://codecanyons.net
 * Collaborizm-https://www.collaborizm.com
 *关于创业公司的疯狂-http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk-https://vendor.crozdesk.com/user/signup
@@ -89,7 +88,7 @@
 *启动列表-https://launchlister.com/submit-startup
 *已启动-https://launched.io/SubmitStartup
 *下一步启动-http://www.launchingnext.com/submit/
-*循环-https://app.loopinput.com/ 
+* Loop - https://app.loopinput.com/ 
 * MakeUseOf-http://www.makeuseof.com/about/
 * Maqtoob-https://maqtoob.com/submit-a-tool
 *动员-https://www.moblized.com/vendors/register
@@ -101,7 +100,7 @@
 * pFind-http://www.pfind.com/submit
 * Postscapes-http://about.postscapes.com/tools
 * PreApps-http://www.preapps.com/
-* Product Hunt - http://www.producthunt.com/
+*产品搜寻-http://www.producthunt.com/
 *可编程Web-https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX-https://www.publicityx.com/startups/new
 *版本2-http://www.rev2.org/
@@ -118,7 +117,6 @@
 *软件建议-https://softwareadvice-markets.questionpro.com/
 * Springwise-http://springwise.com/tipus/
 *堆栈共享-http://stackshare.io/
-*开始总部-https://starthq.com/apps/submit
 *入门故事-https://starterstory.com/
 *启动88-https://startup88.com/
 *启动库-https://startupbase.io/submit
@@ -135,7 +133,6 @@
 *启动存储-http://startupstash.com/
 *启动标签-http://startuptabs.com/
 *启动跟踪器-https://startuptracker.io/
-* Startup88-http://startup88.com/
 * StartupBlink-http://www.startupblink.com/
 *初创企业列表-https://www.startups-list.com/
 *技术状态-http://stateoftech.net/advertise?submit-an-app-for-review

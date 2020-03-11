@@ -3,7 +3,7 @@
 <div align="center">
   <img width="605" height="495" src="https://raw.githubusercontent.com/stevesong/awesome-connectivity-info/master/images/awesome-connectivity-logo.svg?sanitize=true" alt="Awesome Connectivity Logo">
   <br>
-  <sup>灵感来自Sindre Sorhus的<a href="https://awesome.re">超</a>赞列表</sup>
+  <sup>Inspired by Sindre Sorhus's <a href="https://awesome.re">awesome list</a> of awesome lists</sup>
   <br>
 </div>
 
@@ -11,7 +11,7 @@
 
  连接性索引，地图和报告的列表，以帮助您更好地了解谁可以访问通信基础结构以及以什么条件访问.  公共领域中的所有信息.
 
-<sub>More on connectivity on my [website](https://manypossibilities.net) 或 [twitter](https://twitter.com/stevesong).</sub>
+<sub>有关我的连接的更多信息</sub> [website](https://manypossibilities.net) 或 [twitter](https://twitter.com/stevesong).</sub>
 
 
 
@@ -21,7 +21,7 @@
 
 **[`^        back to top        ^`](#)**
 
-- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) -（2018）针对移动互联网采用的四个推动因素来衡量国家：基础设施，可负担性，消费者就绪程度和内容.
+- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) -（2018）针对移动互联网采用的四个推动因素对各国进行衡量：基础设施，可负担性，消费者就绪程度和内容.
 - [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) -（2017）负担得起的互联网接入联盟的互联网负担能力指数（[A4AI](https://a4ai.org)).
 -A4AI移动宽带数据成本-（[Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)）宽带数据价格（预付费1GB移动设备）占人均GNI的百分比.
 - [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) -（2020）衡量互联网连通性与可用性，可承受性，相关性和就绪性的指数.
@@ -57,6 +57,7 @@
 
 **[`^        back to top        ^`](#)**
 
+-来自GSMA的移动性别差距报告-（[2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
 -Mozilla Internet运行状况报告-（[2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
 - [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - [2019 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf) [2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf).
 -宽带委员会：宽带状况（[2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
