@@ -61,7 +61,7 @@
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) -添加基于CSS类的“深色”变体.
-- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -为边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式的CSS逻辑属性生成类名.
+- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的类名，以获取边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) -添加了“滚动捕捉”实用程序.
 + [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) -将不透明度变体添加到现有颜色.
 
@@ -131,6 +131,7 @@
 -  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
 -  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
 -  [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) -Tailwind CSS的调色板生成器（在线）.
+-  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带有PurgeCSS和现代CSS的NuxtJS的Tailwind CSS模块（预设环境1）.
 
  |  表情符号|  描述
 | ----- | ---------------------------------------------- |
@@ -299,6 +300,7 @@
 - [UptimeMate](https://uptimemate.com/)
 - [myDID](https://mydid.dev)
 - [Home Away From Home](https://homeawayfromhome.online)
+- [NuxtJS Documentation](https://nuxtjs.org)
 
 ## Contribute
 

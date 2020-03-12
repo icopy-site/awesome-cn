@@ -42,7 +42,7 @@
 * [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/)  -另一个流行的分布式开源计算机取证框架.  该框架建立在Linux平台上，并使用postgreSQL数据库存储数据.
 * [osquery](https://osquery.io/)  -使用类似SQL的查询语言轻松询问有关Linux和macOS基础架构的问题；  提供的*“事件响应包” *可帮助您检测和响应违规行为.
 * [Redline](https://www.fireeye.com/services/freeware/redline.html) -为主机提供调查功能，以便用户通过内存和文件分析以及制定威胁评估配置文件来查找恶意活动的迹象.
-* [The Sleuth Kit & Autopsy](http://www.sleuthkit.org)  -基于Unix和Windows的工具，可帮助对计算机进行取证分析.  它带有各种有助于数字取证的工具.  这些工具有助于分析磁盘映像，对文件系统进行深入分析以及其他各种功能.
+* [The Sleuth Kit & Autopsy](http://www.sleuthkit.org) - Unix and Windows based tool which helps in forensic analysis of computers. It comes with various tools which helps in digital forensics. These tools help in analyzing disk images, performing in-depth analysis of file systems, and various other things.
 * [TheHive](https://thehive-project.org/) -可扩展的三合一开源和免费解决方案，旨在使SOC，CSIRT，CERT和任何需要迅速调查并采取行动的安全事件的信息安全从业人员，更加轻松.
 * [X-Ways Forensics](http://www.x-ways.net/forensics/)  -用于磁盘克隆和映像的取证工具.  它可用于查找已删除的文件和磁盘分析.
 * [Zentral](https://github.com/zentralopensource/zentral)  -将osquery强大的端点清单功能与灵活的通知和操作框架相结合.  这使人们能够识别OS X和Linux客户端上的更改并对更改做出反应.
@@ -170,7 +170,7 @@
 * [Demisto Playbooks Collection](https://www.demisto.com/category/playbooks/) -剧本收藏.
 * [IRM](https://github.com/certsocietegenerale/IRM) -CERT Societe Generale提供的事件响应方法.
 * [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/)  -不同的通用事件响应工作流程，例如针对恶意软件爆发，数据盗窃，未经授权的访问，...每个工作流程都包含七个步骤：准备，检测，分析，遏制，消除，恢复，事后处理.  这些工作流程可在线获得或下载.
-* [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
+* [PagerDuty Incident Response Documentation](https://response.pagerduty.com/)  -描述PagerDuty事件响应过程一部分的文档.  它不仅提供有关事件准备的信息，还提供事件发生期间和之后的处理方法.  资料来源为 [GitHub](https://github.com/PagerDuty/incident-response-docs).
 
 ### Process Dump Tools
 
@@ -190,6 +190,7 @@
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) -静态分析框架，可自动从多种不同的文件格式中提取关键特征.
 * [Metadefender Cloud](https://www.metadefender.com) -免费的威胁情报平台，提供文件的多重扫描，数据清理和漏洞评估.
 * [Reverse.IT](https://www.reverse.it/) -CrowdStrike提供的Hybrid-Analysis工具的替代域.
+* [StringSifter](https://github.com/fireeye/stringsifter) -一种机器学习工具，可根据字符串与恶意软件分析的相关性对其进行排名.
 * [Valkyrie Comodo](https://valkyrie.comodo.com) -Valkyrie使用运行时行为和文件中的数百个功能来执行分析.
 * [Viper](https://github.com/viper-framework/viper) -基于Python的二进制分析和管理框架，可与Cuckoo和YARA很好地配合使用.
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) -用于日志的开源可视化库和命令行工具（Cuckoo，Procmon等）.
@@ -218,7 +219,7 @@
 * [Fibratus](https://github.com/rabbitstack/fibratus) -探索和跟踪Windows内核的工具.
 * [IREC](https://binalyze.com/products/irec-free/)  -多合一的IR证据收集器，可捕获RAM映像，$ MFT，EventLogs，WMI脚本，注册表配置单元，系统还原点等等.  它是免费的，闪电般快速且易于使用.
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html)  -Mandiant提供的免费工具，用于收集主机系统数据并报告危害指标（IOC）的存在.  仅支持Windows.
-* [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner)  -Fidelis网络安全提供的免费工具，该工具使用OpenIOC和YARA规则报告端点状态.  用户提供OpenIOC和YARA规则并执行该工具.  ThreatScanner会测量系统状态，并在运行完成后生成任何匹配规则的报告.  仅Windows.
+* [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner)  -Fidelis网络安全提供的免费工具，该工具使用OpenIOC和YARA规则报告端点状态.  用户提供OpenIOC和YARA规则并执行该工具.  ThreatScanner可以测量系统状态，运行完成后，将生成任何匹配规则的报告.  仅Windows.
 * [LOKI](https://github.com/Neo23x0/Loki) -免费的IR扫描仪，可使用yara规则和其他指示器（IOC）扫描端点.
 * [MEERKAT](https://github.com/TonyPhipps/Meerkat) -Windows的基于PowerShell的分类和威胁搜寻.
 * [Panorama](https://github.com/AlmCo/Panorama) -实时Windows系统上的快速事件概述.

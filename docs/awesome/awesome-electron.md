@@ -101,7 +101,7 @@
 - [Active Collab](https://github.com/nurtext/active-collab-desktop) -非官方的Active Collab应用.
 - [Hain](https://github.com/appetizermonster/hain) -Windows启动器.
 - [Catify](https://github.com/MeoBeoI/Catify) -Spotify的实用程序.
-- [Minira](https://github.com/jenslind/minira) - JIRA issues in your menubar.
+- [Minira](https://github.com/jenslind/minira) -菜单栏中的JIRA问题.
 - [Ansel](https://github.com/m0g/ansel) -图片组织者.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) -检查CI服务器的构建状态.
 - [Tockler](https://github.com/MayGo/tockler) -跟踪您的时间.
@@ -138,7 +138,7 @@
 - [Cerebro](https://github.com/KELiON/cerebro) -具有内联预览的启动器.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) -控制任何显示器的亮度.
 - [LosslessCut](https://github.com/mifi/lossless-cut) -无损视频修剪和切割.
-- [Buka](https://github.com/oguzhaninan/Buka) - E-book management.
+- [Buka](https://github.com/oguzhaninan/Buka) -电子书管理.
 - [Insomnia](https://github.com/getinsomnia/insomnia) -创建和管理HTTP请求.
 - [Tusk](https://github.com/champloohq/tusk) -非官方的Evernote应用.
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) -非官方的ProtonMail应用程序.
@@ -152,14 +152,14 @@
 - [FreeMAN](https://github.com/matthew-matvei/freeman) -高级用户的文件管理器.
 - [Mark Text](https://github.com/marktext/marktext) -实时预览Markdown编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) -番茄计时器.
-- [Pretzel](https://github.com/amiechen/pretzel) -显示和搜索当前应用程序的键盘快捷键.
+- [Pretzel](https://github.com/amiechen/pretzel) - Show and search keyboard shortcuts for the current app.
 - [Netron](https://github.com/lutzroeder/netron) -用于深度学习和机器学习模型的可视化工具.
 - [Ao](https://github.com/klauscfhq/ao) -非官方的Microsoft To-Do应用.
 - [Etcher](https://github.com/resin-io/etcher) -将OS映像闪存到SD卡和USB驱动器.
 - [Noty](https://github.com/fabiospampinato/noty) -自动保存即时贴，在一个窗口中支持多个便签.
 - [Notable](https://github.com/fabiospampinato/notable) -基于Markdown的笔记.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) -简单和安全的日记应用程序.
-- [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) -从Unsplash设置桌面墙纸.
+- [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 - [Motrix](https://github.com/agalwood/Motrix) - 下载管理器.
 - [Franz](https://github.com/meetfranz/franz) -在同一应用中使用Skype，Slack，环聊，WhatsApp，Grape，Telegram，FB Messenger，Hipchat.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) -非官方的Gmail应用程序.
@@ -231,7 +231,7 @@
 - [bozon](https://github.com/railsware/bozon) -脚手架，运行，测试和打包您的应用.
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) -使用Vue和通用插件轻松构建您的应用程序.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) -Boilerplate使用Next.js构建您的应用程序.
-- [secure-electron-template](https://github.com/reZach/secure-electron-template) -创建安全应用程序的样板.
+- [secure-electron-template](https://github.com/reZach/secure-electron-template) -注重安全性的样板，用于使用React，Redux，Webpack和i18next创建应用程序.
 - [angular-electron](https://github.com/maximegris/angular-electron) -使用Angular，Electron，TypeScript，SASS和Hot Reload快速启动.
 
 ## Tools
@@ -352,7 +352,7 @@
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
 - [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) -新的Electron API可以以更少的错误和更高的性能嵌入Web应用程序.
-- [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -Slack用“ BrowserView”，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
+- [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -Slack用`BrowserView`，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -Realm使用Electron重写了其数据库浏览器应用程序，以提供跨平台支持.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) -由5部分组成的系列，介绍了将Electron应用制作和发布到Mac App Store的过程.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) -专注于设计和代码决策以及电子安全.

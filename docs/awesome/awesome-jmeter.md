@@ -61,7 +61,7 @@
 ## Scripting
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
-- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
+- [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) -使用JMeter和Groovy进行负载测试.
 - [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) -JMeter：忘记BeanShell Sampler *（俄语）*.
 
 ## Automation
@@ -82,6 +82,7 @@
 ### Other
 
 - [JMeter Load Testing Center](https://github.com/innogames/JMeter-Control-Center) -在线Web应用程序/仪表板，用于使用JMeter运行，监视和分析负载测试的结果.
+- [Performance testing framework](https://github.com/serputko/performance-testing-framework) -使用Apache JMeter进行后端负载测试和使用sitespeed.io + webpagetest私有实例进行前端负载测试的框架.
 
 ## CI
 
@@ -232,13 +233,13 @@
 -动态痕迹
   - [Dynatrace and JMeter integration](https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/test-automation-frameworks/dynatrace-and-jmeter-integration/)
   - [Integrate web API performance monitoring in JMeter](https://www.dynatrace.com/support/doc/appmon/continuous-delivery-test-automation/test-automation-tutorials/integrate-web-api-performance-monitoring-in-jmeter/)
-- [JMeter integration with AppDynamics](https://docplayer.net/62851982-Jmeter-integration-with-appdynamics.html) -与JMeter集成的APM和EUM解决方案.
+- [JMeter integration with AppDynamics](https://docplayer.net/62851982-Jmeter-integration-with-appdynamics.html) - APM & EUM solution with JMeter integration.
 -使用New Relic和JMeter进行性能修复： [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/)
 
 ## Plugins
 
 - [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) -可用插件和扩展列表.
-- [JMeter Plugins](https://jmeter-plugins.org/) -Apache JMeter的独立插件集，其中的插件管理器引用了许多插件并简化了安装.
+- [JMeter Plugins](https://jmeter-plugins.org/) -Apache JMeter的独立插件集，其中插件管理器引用了许多插件并简化了安装.
 - [UBIK Load Pack](https://ubikloadpack.com/) -Apache JMeter的生产力扩展.
 
 ## Extending JMeter
@@ -279,7 +280,7 @@
 ## Books
 
 - [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) -艾米丽·H·哈利利（[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)).
-- [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29) ）;  如何使用Apache JMeter来测试Web应用程序的指南，以及实际的示例.
+- [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29) ）;  如何使用Apache JMeter测试Web应用程序的指南，以及一些实际的示例.
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition)).
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition)).
 - [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook) ）;  70个有见地和实用的食谱，可帮助成功使用Apache JMeter.

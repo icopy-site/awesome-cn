@@ -308,7 +308,6 @@
 
 * [Elm packages](https://package.elm-lang.org/) -官方注册表
 * [Elm Package Catalog](https://korban.net/elm/catalog) -在按类别组织的目录中查找软件包. 
-* [Elm finder](https://www.elmfinder.org/) -用于Elm项目的可重用库和工具的目录
 * [Elm Search](http://klaftertief.github.io/elm-search/) -在Elm文档中搜索操作符，功能签名等.
 
 以下是一些值得注意的：

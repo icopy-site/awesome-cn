@@ -47,8 +47,9 @@
 #### Transit agency data archives
 - [CapMetrics](https://github.com/scascketta/CapMetrics)  -奥斯汀的运输代理（CapMetro）的历史车辆位置.  数据收集者 [capmetricsd](https://github.com/scascketta/capmetricsd)，一个Go守护进程.
 
-#### U.S. Federal Government
-- [National Transit Database](https://www.transit.dot.gov/ntd) -由联邦运输管理局管理的有关美国运输系统的信息和统计数据.
+#### National government datasets
+- [National Transit Database (USA)](https://www.transit.dot.gov/ntd) -由联邦运输管理局管理的有关美国运输系统的信息和统计数据.
+- [Transport (France)](https://transport.data.gouv.fr/) -法国公交系统的GTFS数据集.
 
 #### Proprietary (non-standard) vendor APIs
 - [Transport API](https://www.transportapi.com/)  -REST API，用于英国的汇总运输数据.  收费访问.
@@ -72,14 +73,14 @@
 
 ### Agency Tools
 
- 公交机构的工具.  也可以看看 [GTFS Tools](#gtfs-tools) 适用于GTFS的工具.
+ 公交机构的工具.  也可以看看 [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenance-tools) 适用于GTFS的工具.
 
 - [Remix](http://getremix.com/) -一个网络应用程序，可让运输公司轻松规划路线.
 - [AC Transit RestroomFinder](https://github.com/actransitorg/ACTransit.RestroomFinder) -使用GPS和屏幕上的地图，为公交运营商和现场工作人员确定最近的授权洗手间.
 - [AC Transit Training and Education Department (TED) application](https://github.com/actransitorg/ACTransit.Training) -尽管该系统支持新课程和学徒计划，但该应用程序支持学区对运输和维护员工的培训操作，主要是在公共汽车操作员和重型教练机修工（学徒和旅程）方面.
 - [AC Transit Customer Relations application (CusRel)](https://github.com/actransitorg/ACTransit.CusRel) -用于客户问题和反馈的公共票务系统：部门间路由与通知，部门/人员分配，简单的工作流程，票务搜索，预先罐装报告，每日提醒等.
 - [TransAM](http://camsys.software/products/transam) - An open-source asset management platform for public transportation agencies.  Open-source [on Github](https://github.com/camsys/transam_core).
-- [RidePilot](https://github.com/camsys/ridepilot) -开源的计算机辅助调度和调度（CASD）软件系统，可满足小型人力运输机构的需求（有关更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
+- [RidePilot](https://github.com/camsys/ridepilot) -开源的计算机辅助计划和调度（CASD）软件系统，可满足小型人力服务运输机构的需求（有关更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 - [TNExT](https://github.com/ODOT-PTS/TNExT) -公交网络浏览器工具（TNExT）是基于网络的软件工具，旨在对俄勒冈州的区域和州范围的公交网络进行可视化，分析和报告.
 -路线趋势（[webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)）-R Shiny应用程序可提取乘车时间序列，并根据以下信息返回季节，趋势和残差分量 [STL methodology](https://otexts.com/fpp2/stl.html)  以及预测，包括基于这些因素的不确定性.  由...赞助 [Metro Transit](https://www.metrotransit.org/) （明尼阿波利斯-圣保罗）.
 - [TBEST](https://tbest.org/)  -TBEST（过境登机估算和模拟工具）致力于开发基于GIS的多方面建模，规划和分析工具，该工具将社会经济，土地使用和过境网络数据集成到一个基于场景的过境旅客平台中估计和分析.  由佛罗里达州交通运输部资助.  免费使用，但不开源.
@@ -104,7 +105,7 @@
 - [OTP-UI React Component Library](https://github.com/opentripplanner/otp-ui)  -React Javascript组件库，可用于构建旅行计划者webapp.  看到 [Storybook](http://www.opentripplanner.org/otp-ui) 进行演示.
 - [GTFS-realtime Alerts Producer Web Application](https://github.com/OneBusAway/onebusaway-service-alerts) -用于产生GTFS实时服务警报的基于Java的Web应用程序.
 - [HRT BUS Web app](https://github.com/Code4HR/hrt-bus-api) -HRT总线API通过应用程序编程接口从Hampton Roads Transit发布实时总线数据，供开发人员使用该数据制作应用程序.
-- [Transit-Map](https://github.com/vasile/transit-map) -Web应用程序，使用公共交通工具的时间表在地图上为车辆（标记）设置动画，以插值其在路线（折线）上的位置.
+- [Transit-Map](https://github.com/vasile/transit-map) -Web应用程序，使用公共交通时间表在地图上为车辆（标记）设置动画，以插值其在路线（折线）上的位置.
 - [Bikeshare Map](http://bikes.oobrien.com/) -全球所有自行车共享站的状态
 - [Bongo](http://ebongo.org)  -对爱荷华市，科拉维尔和爱荷华大学的实时公交跟踪.  很棒，因为它将三个不同的运输系统组合到一个UI中.
 - [Transitive.js](https://github.com/conveyal/transitive.js) -使用Leaflet或D3创建公交路线的可自定义网络地图图层.
@@ -138,7 +139,7 @@
 ### Visualizations
 
 - [Visualizing MBTA Data](http://mbtaviz.github.io/) -互动图表，显示人们如何使用波士顿的地铁系统.
-- [MIT COAXS](http://mittransportanalyst.github.io/) -使用基于可访问性的涉众参与，共同设计过境走廊（显示使用 [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
+- [MIT COAXS](http://mittransportanalyst.github.io/) -使用基于可访问性的涉众参与，共同设计运输走廊（显示使用 [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
 - [TRAVIC Transit Visualization Client](http://tracker.geops.ch/)  -根据静态GTFS数据（有时是实时数据）可视化正在行驶的车辆.  支持260多个城市.  geOps组织的Github帐户是 [here](https://github.com/geops).
 - [Muni, this moment](http://allthebuses.com/) -旧金山所有公交车的实时地图.
 - [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) -使用以下工具构建的纽约市地铁和公共汽车的频率可视化 [Transitland](https://transit.land/).
@@ -207,11 +208,11 @@
 #### GTFS Data Collection and Maintenance Tools
 
 - [bus-router](https://github.com/atlregional/bus-router) -使用以下命令为GTFS生成缺少的shapes.txt的Python脚本 [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) 要么 [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
-- [GTFS Editor](https://github.com/conveyal/gtfs-editor)  基于Web的GTFS编辑框架（自托管）.  （注意：不建议使用此项目， [Conveyal Data Tools](https://github.com/conveyal/datatools-ui).)
+- [GTFS Editor](https://github.com/conveyal/gtfs-editor)  基于Web的GTFS编辑框架（自托管）.  （注意：不建议使用此项目， [IBI Data Tools](https://github.com/ibi-group/datatools-ui).)
 - [GTFS Editor for Vagrant](https://github.com/laidig/vagrant-gtfs-editor) 使用以下命令快速设置GTFS编辑器（上述） [Vagrant](https://www.vagrantup.com/)
 - [static-GTFS-manager](https://github.com/WRI-Cities/static-GTFS-manager) -基于（自托管）浏览器的用户界面，用于创建，编辑和导出静态GTFS（请参见 [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I) ）.  现场演示 [here](https://static-gtfs-manager.herokuapp.com/).
 - [TransitWand](http://transitwand.com/)  -用于收集运输数据的开源Web和移动应用程序.  使用它来创建GTFS提要，捕获乘客数量或生成GIS数据集.
-- [Conveyal Data Tools](https://github.com/conveyal/datatools-ui)  -处理GTFS编辑，验证，质量检查以及部署到OpenTripPlanner的Web应用程序.  （结合并基于已弃用的功能 [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) 和 [GTFS Editor](https://github.com/conveyal/gtfs-editor).)
+- [IBI Data Tools](https://github.com/ibi-group/datatools-ui)  -处理GTFS编辑，验证，质量检查以及部署到OpenTripPlanner的Web应用程序.  （结合并基于已弃用的功能 [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) 和 [GTFS Editor](https://github.com/conveyal/gtfs-editor).)
 - [GTFS.html](https://gtfs.pleasantprogrammer.com)  -完全基于浏览器的工具来查看GTFS提要.  用它来查看路线，站点，时间表等.
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) -使用OpenStreetMap数据进行GTFS的精确地图匹配
 

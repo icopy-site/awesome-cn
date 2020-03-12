@@ -13,9 +13,6 @@
   <a href="https://github.com/ossu/computer-science">
 	<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
-  <a href="https://www.patreon.com/ossu">
-	<img alt="Contribute with OSSU on Patreon" src="https://img.shields.io/badge/Patreon-contribute-yellow.svg">
-  </a>
 </p>
 
 
@@ -92,7 +89,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ### Introduction to Programming
 
- 如果您从未编写过for循环，或者不知道编程中的字符串是什么，请从这里开始.  选择以下两个课程系列之一.  任一种都会给您介绍编程的入门知识，而无需先验知识.
+ 如果您从未编写过for循环，或者不知道编程中的字符串是什么，请从这里开始.  选择以下两个课程系列之一.  任一种都会给您介绍编程的入门知识，而无需任何先验知识.
 
 试图在他们之间做出决定？
 
@@ -149,7 +146,7 @@ Lisp家庭语言（通过球拍）
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  |  6周  每周8-10个小时|  如何编码：简单数据
 [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)  |  6周  每周8-10个小时|  如何编码-复杂数据
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  6周  每周8-10个小时|  软件构建-数据抽象
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  4周  每周8-16小时|  推荐：Java，C
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3周  每周8-16小时|  编程语言，A部分
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3周  每周8-16小时|  编程语言，B部分
 
@@ -243,9 +240,12 @@ Lisp家庭语言（通过球拍）
 `NP-completeness`
 还有更多
 
- 课程  持续时间|  先决条件
-:-- | :--: | :--:
-[Algorithms](https://www.coursera.org/specializations/algorithms)  |  80小时|  任何编程语言，计算机科学数学
+ 课程  持续时间|  努力  先决条件
+:-- | :--: | :--: | :--:
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)  |  4周  每周4-8个小时|  任何编程语言，计算机科学数学
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)  |  4周  每周4-8个小时|  分而治之，排序和搜索以及随机算法
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)  |  4周  每周4-8个小时|  图搜索，最短路径和数据结构
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete)  |  4周  每周4-8个小时|  贪婪算法，最小生成树和动态规划
 
 
 ### Core applications
@@ -365,10 +365,10 @@ These courses assume knowledge of basic physics.
 
 ### Advanced applications
 
-These Coursera Specializations all end with a Capstone project.
+这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得专业化课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
@@ -433,7 +433,7 @@ or
 ## Pro CS
 
 完成上述课程的要求后，您将完成与计算机科学完全相同的学士学位，或者接近一个学士学位.
-You can stop in the Advanced CS section, but the next step to completing your studies is to develop skills and knowledge in a specific domain.
+您可以在“高级CS”部分中停止操作，但是完成学习的下一步是在特定领域中发展技能和知识.
 这些课程中有许多是研究生级别的.
 
 选择以下一项或多项**专业**：
@@ -469,7 +469,7 @@ You can stop in the Advanced CS section, but the next step to completing your st
 -您也可以通过 [GitHub issues](https://github.com/ossu/computer-science/issues) .  如果课程有问题，或者需要对课程进行更改，那么这里就是开始对话的地方.
 -订阅我们 [newsletter](https://tinyletter.com/ossu).
 -将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 轮廓！
- -搜索OSSU时，可能会发现一个未维护且已弃用的Firebase应用程序.  您可以放心地忽略它.  阅读更多 [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md).
+- There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md).
 
 ## How to show your progress
 

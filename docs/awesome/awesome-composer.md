@@ -19,7 +19,7 @@
 - [Documentation](https://getcomposer.org/doc/)
 - [API Documentation](https://getcomposer.org/apidoc/master/index.html)
 - [Find Packages on Packagist](https://packagist.org/)
-- [CheatSheet](http://composer.json.jolicode.com/) -CLI命令和`composer.json`模式的概述.
+- [CheatSheet](https://composer.json.jolicode.com/) -CLI命令和`composer.json`模式的概述.
 - [Composer Installers](https://github.com/composer/installers) -适用于多个框架的Composer安装程序.
 
 ### Support
@@ -51,19 +51,19 @@
 - [Composer-MonoRepo-Plugin](https://github.com/beberlei/composer-monorepo-plugin) -该插件有助于管理单个存储库中多个软件包的依赖关系.
 - [Composer-Patches-Plugin](https://github.com/netresearch/composer-patches-plugin)  -使您能够为任何软件包中的任何软件包提供补丁.  提取依赖项后，将在顶部应用补丁.
 - [Composer-Patches](https://github.com/cweagans/composer-patches) -该插件将补丁从本地或远程文件应用到任何必需的软件包.
-- [Composer-Patches](https://github.com/vaimo/composer-patches) -将补丁从本地或远程文件应用到给定composer项目中的任何软件包.
-- [Composer-Patchset](https://github.com/creativestyle/composer-plugin-patchset) -自动获取，更新补丁并将其应用于任何作曲家程序包-将补丁集存储为作曲家程序包本身.
+- [Composer-Patches](https://github.com/vaimo/composer-patches) -将补丁从本地或远程文件应用到给定Composer项目中的任何软件包.
+- [Composer-Patchset](https://github.com/mageops/php-composer-plugin-patchset) -自动获取，更新补丁并将其应用于任何作曲家程序包-将补丁集存储为作曲家程序包本身.
 - [Composer-Plugin-QA](https://github.com/Webysther/composer-plugin-qa) -全面的插件，可让作曲家执行PHP质量保证工具.
 - [Composer-Cleanup-Plugin](https://github.com/barryvdh/composer-cleanup-plugin) -从供应商目录中删除测试和文档文件夹.
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) -该工具可从供应商目录中删除不必要的文件和目录.
-- [Composer-Ignore-Plugin](https://github.com/lichunqiang/composer-ignore-plugin)  -使您能够从供应商文件夹中删除文件和文件夹（以进行更清洁，更小规模的生产部署）.  它是`.gitattributes`的替代方法.
+- [Composer-Ignore-Plugin](https://github.com/lichunqiang/composer-ignore-plugin)  -使您能够从供应商文件夹中删除文件和文件夹（以进行更清洁，更小规模的生产部署）.  它是`.gitattributes`的替代.
 - [Composer-Vendor-Cleaner](https://github.com/liborm85/composer-vendor-cleaner) -插件通过glob模式语法从`vendor`目录中删除了不必要的开发文件和目录.
 - [Drupal Vendor Hardening Composer Plugin](https://github.com/drupal/core-vendor-hardening) -从项目的供应商目录中删除无关的目录，并将.htaccess和web.config文件添加到项目的供应商目录的根目录中.
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) -允许您通过创建符号链接在项目之间共享选定的包.
 - [Composer-Symlinker](https://github.com/dg/composer-symlinker) -使您能够从不同目录加载软件包（而不是从/ vendor加载软件包）.
 - [Prestissimo](https://github.com/hirak/prestissimo) -使用`phpext_curl`的并行下载器.
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) -该插件使用phpext_curl下载软件包.
-- [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) -一个composer插件，用于在默认composer安装路径（供应商文件夹）之外的自定义目录中安装不同类型的composer软件包.
+- [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) -允许您为已安装的composer项目构建依赖关系图.
 - [Graph-Composer](https://github.com/clue/graph-composer) -为项目的`composer.json`及其依赖项提供图形可视化.
 - [PackageVersions](https://github.com/Ocramius/PackageVersions) -提供对已安装的作曲家依赖关系版本的快速便捷访问.
@@ -78,7 +78,7 @@
 - [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) -下载并安装NodeJS和npm作为作曲家软件包.
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin)  -将所有Composer供应商软件包包装在您自己的名称空间中.  适用于WordPress插件.
 - [Composer Preload](https://github.com/Ayesh/Composer-Preload) -该插件会生成一个“ vendor / preload.php”文件来预热Opcache.
-- [PHP Inc](https://github.com/krakphp/php-inc) -自动包含用于autoload和autoload-dev的文件，以便于在composer加载的应用程序中使用函数和分组定义.
+- [PHP Inc](https://github.com/krakphp/php-inc) -自动包含用于自动加载和自动加载-开发的文件，以方便在作曲家加载的应用程序中使用功能和分组定义.
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) -使您可以在不同的作曲者存储库之间切换.
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) -防止将开发包添加到需求中并进入生产环境.
 - [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) -一次阻止多个安装或更新操作.
@@ -92,7 +92,7 @@
 - [Studio](https://github.com/franzliedke/studio)  -用于开发Composer软件包的工作台.  它是编辑供应商文件夹中的依赖项或使用 [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) 将依赖项的本地克隆加载到项目中.
 - [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) -使您能够浏览Github上的Composer / NPM依赖项.
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) -一个CLI工具，用于分析依赖关系并验证软件包的来源中没有使用未知的导入符号.
-- [Composer-Normalize](https://github.com/localheinz/composer-normalize) -该插件可通过重组和排序条目（规范化）来帮助保持您的`composer.json`文件一致.
+- [Composer-Normalize](https://github.com/ergebnis/composer-normalize) -该插件可通过重组和排序条目（规范化）来帮助保持您的`composer.json`文件一致.
 - [Composer-Service](https://github.com/pborreli/composer-service) -使您可以在远程服务器上将Composer作为服务运行.
 - [Composer PreferLowest Checker](https://github.com/dereuromark/composer-prefer-lowest) -严格比较composer.json的指定最低版本与preferred-lowest composer update命令选项实际使用的最低版本.
 - [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) -针对Composer的Bash / Shell自动完成脚本.
@@ -101,12 +101,12 @@
 ## Scripts
 
 - [ParameterHandler](https://github.com/Incenteev/ParameterHandler) -允许您在运行作曲家安装或更新时管理忽略的参数.
-- [Tooly](https://github.com/tommy-muehle/tooly-composer-script)  -在项目`composer.json`中管理所需的PHAR文件.  每个PHAR文件都将保存在作曲家的二进制目录中.  每个PHAR的GPG验证可选.
+- [Tooly](https://github.com/tommy-muehle/tooly-composer-script)  -在项目`composer.json`中管理所需的PHAR文件.  每个PHAR文件都将保存在作曲家的二进制目录中.  每个PHAR的GPG验证均可选.
 - [Melody](https://github.com/sensiolabs/melody) -一文件式作曲家脚本.
 - [Composer-Travis-Lint](https://github.com/raphaelstolt/composer-travis-lint) -允许您填充Travis CI配置文件（.travis.yml`）.
 - [Composer-Multitest](https://github.com/raphaelstolt/composer-multitest) -使您可以针对多个本地安装的PHP版本（由PHPBrew或phpenv管理）运行Composer脚本.
 - [ScriptsDev](https://github.com/neronmoon/scriptsdev) -使您可以使用`scripts-dev`部分，该部分仅在开发模式下触发脚本.
-- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)-一个Composer软件包，它将PhantomJS二进制文件（Linux，Windows，Mac）安装到项目的/ bin中.
+- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)-一个Composer软件包，可将PhantomJS二进制文件（Linux，Windows，Mac）安装到项目的/ bin中.
 - [Composer-Vendor-Cleanup](https://github.com/0xch/composer-vendor-cleanup)-从供应商目录中删除列入白名单的不必要文件（例​​如测试/文档等）的脚本
 
 ## Services
@@ -208,7 +208,7 @@
 ### Private Packagist
 - [Private Packagist Cloud](https://packagist.com) -Composer存储库即服务，用于私有软件包并镜像其他存储库中的软件包.
 - [Private Packagist Enterprise](https://packagist.com) -私有Packagist的本地自托管版本.
-- [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
+- [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client)  -专用Packagist API的PHP客户端.  客户端处理身份验证，签名生成以及对所有端点的访问.
 
 ## Packagist-compatible repositories
 
@@ -219,6 +219,7 @@
 - [Satis Server](https://github.com/lukaszlach/satis-server) -该docker容器提供了Satis Server，使您能够运行私有的，自托管的Composer存储库，并支持Git，Mercurial和Subversion，HTTP API，HTTPs，webhook处理程序和计划的构建.
 - [Cloudsmith](https://cloudsmith.io) -具有PHP / Composer支持（以及许多其他功能）的完全托管的软件包管理SaaS.
 - [Release Belt](https://github.com/Rarst/release-belt) -自托管的Composer存储库实施，可快速集成第三方非Composer版本的ZIP文件.
+- [Packeton](https://github.com/vtsykun/packeton)  -供供应商使用的私人自托管Composer存储库.  包装专家的分叉，增加了对授权，客户用户，组，webhooks的支持.
 
 ### Satis
 

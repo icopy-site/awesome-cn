@@ -93,7 +93,7 @@
 *实现依赖项注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) - Dependency injection container plugin that adds the ability to configure object instances and their dependencies before they are used, and to store them into a container class for easy access.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖注入容器插件，该插件增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -115,7 +115,6 @@
 - [Environments plugin](https://github.com/josegonzalez/cakephp-environments) -用于处理环境的插件.
 - [Gourmet/Aroma plugin](https://github.com/gourmet/aroma) -基于数据库的配置.
 - [Settings plugin](https://github.com/cakemanager/cakephp-settings) -一个通过数据库管理您的设置的插件.
-- [Setup plugin](https://github.com/dereuromark/cakephp-setup) -处理非常基本环境的插件.
 
 ## Files
 *用于文件操作的插件.*
@@ -177,7 +176,7 @@
 *用于标记的插件.*
 
 - [Gourmet/CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](https://commonmark.org/) Markdown解析.
-- [Markup plugin](https://github.com/dereuromark/cakephp-markup) -允许使用基于PHP或JS的语法突出显示.
+- ：草莓： [Markup plugin](https://github.com/dereuromark/cakephp-markup) -允许使用基于PHP或JS的语法突出显示.
 
 ## Migration
 *围绕迁移和升级的插件和资源.
@@ -208,7 +207,7 @@
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) -将秒转换为人类可读的字符串（字符串转换为秒），使用营业时间（1周= 5天，1天= 8小时）.
 - [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) -用于递归扫描链接的插件.
 - [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) -Tactician命令总线集成工具.
-- [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) -维护外壳可进入带有可选IP白名单的所有请求的维护模式.
+- ：草莓： [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) -维护外壳可进入带有可选IP白名单的所有请求的维护模式.
 - ：草莓： [Shim plugin](https://github.com/dereuromark/cakephp-shim) -包含有用垫片和改进功能的插件，可作为您应用程序的基础.
 - [TokenVerify plugin](https://github.com/mosaxiv/cakephp-token-verify) -轻松发行可用于邮件身份验证的令牌.
 - ：草莓： [Tools plugin](https://github.com/dereuromark/cakephp-tools) -包含许多有用的库，助手，行为，组件，shell等.
@@ -278,7 +277,7 @@
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) -使用中间件激活CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -建筑的听众 [JSON API](https://jsonapi.org/) 兼容的API.
-- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) 用于您的API输出.
+- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 
 ## Search
 *用于对数据建立索引并执行搜索查询的插件和软件.*
@@ -322,7 +321,7 @@
 *社交功能周围的插件.*
 
 - [CakeDC/Forum plugin](https://github.com/CakeDC/cakephp-forum) -论坛插件，包括类别，主题和回复，报告消息，主持人，管理界面等.
-- [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) -允许用户对记录进行评分.
+- ：草莓： [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) -允许用户对记录进行评分并显示评分.
 - [SocialShare plugin](https://github.com/drmonkeyninja/cakephp-social-share) -链接生成器，用于在社交网络上共享内容.
 
 ## Templating
@@ -336,7 +335,7 @@
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) -前端框架FormHelper扩展.
 - [CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](https://commonmark.org) （降价）对模型和视图的支持.
 - ：草莓： [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) -一个视图类，可以轻松生成CSV.
-- [Datalist plugin](https://github.com/rrd108/cakephp-datalist) -支持HTML5数据列表元素，并可以在相关模型中创建新条目.
+- [Datalist plugin](https://github.com/rrd108/cakephp-datalist) - Support for HTML5 datalist element with the possibility to create new entries into associated models.
 - ：草莓： [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类以轻松生成（复杂）RSS feed.
 - [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) -一个插件，可将HTML样式块转换为View模板上的内联CSS（旨在与电子邮件模板一起使用）.
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) -Jade模板引擎插件.
@@ -415,7 +414,7 @@
 *在哪里获得帮助.*
 
 - [CakePHP-FR.org](http://cakephp-fr.org) -法国社区网站.
-- [CakePHP.ir](http://forum.cakephp.ir/) - discussion with other devs and generic questions for Persian community.
+- [CakePHP.ir](http://forum.cakephp.ir/) -与其他开发者的讨论以及针对波斯社区的一般性问题.
 - [Official CakePHP Forum](https://discourse.cakephp.org/) -这适用于一般性问题.
 - [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) -与其他开发人员和核心开发人员的实时聊天/讨论.
 - [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) -这是针对特定问题的，最好是带有一些示例代码.

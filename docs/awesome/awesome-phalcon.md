@@ -57,6 +57,7 @@
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) -一个适合想要开始学习Phalcon的人的简单博客引擎
 * [Yona CMS](https://github.com/alexander-torosh/yona-cms) -基于带有模块化结构的Phalcon框架的CMS
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) -基于Phalcon框架的博客
+* [Hummingbird CMS](https://github.com/mvanvu/hummingbird-cms) -基于Phalcon 4的CMS，具有许多强大的功能
 
 
 ## Command Line
@@ -203,7 +204,7 @@
 
 * [packagecloud](https://github.com/phalcongelist/packagecloud) -托管在PackageCloud上的Phalcon发行版
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) -Phalcon 3，PHP7，Docker示例入门应用程序
-* [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) -您可以选择Phalcon 3.x和PHP7.0开发的流浪者配置+ MySQL / PostgreSQL / MongoDB，Redis / Memcached，Gearman / RabbitMQ，Elasticsearch / Sphinxsearch
+* [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) -您可以选择Phalcon 3.x和PHP7.0开发的流浪汉配置+ MySQL / PostgreSQL / MongoDB，Redis / Memcached，Gearman / RabbitMQ，Elasticsearch / Sphinxsearch
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) -Docker Phalcon 3开发环境
 
 
