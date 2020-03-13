@@ -144,7 +144,7 @@
 - [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction)
 - [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
-- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后对构建的Jekyll网站进行区分，并将结果注释回GitHub.
+- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后对构建的Jekyll站点进行区分，并将结果注释回GitHub.
 - [Branch Protection Bot](https://github.com/benjefferies/branch-protection-bot) -在分支机构保护中暂时禁用并重新启用“包括管理员”选项.
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) -等待所有状态和检查成功或其中任何一个失败，然后相应地设置其状态输出.
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) -从git获取上一个标签.
@@ -196,6 +196,7 @@
 - [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
 - [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
 - [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
+- [Run performance testing with artillery.io](https://github.com/kenju/github-actions-artillery)
 
 #### Linting
 

@@ -97,7 +97,7 @@
 
 ### Web Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) -搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) -检查网站是否正常.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) -捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) -从CSS中删除注释.
@@ -144,6 +144,7 @@
 - [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose界面.
 - [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
+- [docker-shell](https://github.com/Trendyol/docker-shell) -简单的交互式docker界面.
 
 ### Release
 
@@ -262,7 +263,7 @@
 
 - [gotty](https://github.com/yudai/gotty) -将您的终端共享为Web应用程序.
 - [localtunnel](https://github.com/localtunnel/localtunnel) -将您的localhost暴露给全世界，以方便测试和共享.
-- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [mosh](https://mosh.org/) -允许间断连接漫游的远程SSH客户端.
 - [ngrok](https://ngrok.com/) -安全自省到本地主机的隧道.
 - [serveo](https://serveo.net/) -仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) -管道输出到网络.

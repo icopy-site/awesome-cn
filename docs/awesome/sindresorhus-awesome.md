@@ -538,6 +538,16 @@
 - [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) -意大利的技术相关活动.
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) -荷兰的技术相关活动.
 
+## Testing
+
+- [Testing](https://github.com/TheJambo/awesome-testing#readme) -软件测试.
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) -确保更改不会破坏功能或样式.
+- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) -开源浏览器自动化框架和生态系统.
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) -适用于应用程序的测试自动化工具.
+- [TAP](https://github.com/sindresorhus/awesome-tap#readme) -测试任何协议.
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) -负载测试和性能评估工具.
+- [k6](https://github.com/k6io/awesome-k6#readme) -开源，以开发人员为中心的性能监控和负载测试解决方案.
+
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json#readme) -基于文本的数据交换格式.
@@ -550,8 +560,6 @@
 - [Awesome](https://github.com/sindresorhus/awesome#readme) -说明了递归.
 - [Analytics](https://github.com/onurakpolat/awesome-analytics#readme)
 - [REST](https://github.com/marmelab/awesome-rest#readme)
-- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme)
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) -适用于应用程序的测试自动化工具.
 - [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd#readme)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
@@ -580,7 +588,6 @@
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
 - [Citizen Science](https://github.com/dylanrees/citizen-science#readme) -适用于社区和非机构科学家.
-- [TAP](https://github.com/sindresorhus/awesome-tap#readme) -测试任何协议.
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) -“物联网”连接协议.
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
@@ -604,10 +611,8 @@
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实施与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) -对于数字设计师.
-- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) -负载测试和性能评估工具.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) -编写具有表现力的东西，而不是编写功能性的东西.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) -无需登录即可运行的Web应用程序.
-- [Testing](https://github.com/TheJambo/awesome-testing#readme) -软件测试.
 - [Free Software](https://github.com/johnjago/awesome-free-software#readme) -自由自在.
 - [Framer](https://github.com/podo/awesome-framer#readme) -交互式UI设计原型.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - 标记语言.
@@ -626,7 +631,6 @@
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) -建立一个更具包容性和多元化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) -免费提供开源项目的工具和服务的公司.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) -创建更好，更一致的设计和体验.
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) -确保更改不会破坏功能或样式.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) -上座部佛教传统的教Teaching.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) -开源Java应用性能管理工具.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) -成为开源维护者的经验.
@@ -657,7 +661,6 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) -寻找解决气候危机的方法.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) -正确命名计算机科学中的事物.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) -如何从非结构化生物医学数据和文本中提取信息.
-- [k6](https://github.com/k6io/awesome-k6#readme) -开源，以开发人员为中心的性能监控和负载测试解决方案.
 
 ## Related
 

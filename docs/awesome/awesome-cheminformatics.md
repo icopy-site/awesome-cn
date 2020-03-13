@@ -53,7 +53,7 @@
 
 * [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) -设计用于提供标准化分子的简单方法的工具，例如作为分子建模练习的序幕.
 * [MolVS](https://github.com/mcs07/MolVS) -基于分子的验证和标准化 [RDKit](http://www.rdkit.org/).
-* [rd_filters](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
+* [rd_filters](https://github.com/PatWalters/rd_filters) -使用RDKit和ChEMBL运行结构警报的脚本
 
 <a id="lib-visualization"></a>
 ### Visulization
@@ -62,6 +62,7 @@
 * [3Dmol.js](https://github.com/3dmol/3Dmol.js) -面向对象的基于webGL的JavaScript库，用于在线分子可视化.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) -基于的化学2D结构编辑器应用程序/小程序 [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) -使用PySide的简单RDKit分子编辑器GUI.
+* [nglviewer](http://nglviewer.org/nglview/latest/) -Jupyter笔记本电脑的交互式分子图形.
 
 <a id="lib-des"></a>
 ### Molecular Descriptors
@@ -69,7 +70,7 @@
 * [mordred](https://github.com/mordred-descriptor/mordred) -基于分子描述符计算器 [RDKit](http://www.rdkit.org/).
 * [mol2vec](https://github.com/samoturk/mol2vec) -分子亚结构的向量表示.
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) -根据其药效比对分子.
-* [Rcpi](https://nanx.me/Rcpi/index.html) -R / Bioconductor程序包，用于生成蛋白质，化合物及其相互作用的各种描述符.
+* [Rcpi](https://nanx.me/Rcpi/index.html) - R/Bioconductor package to generate various descriptors of proteins, compounds and their interactions.
 
 <a id="lib-ml"></a>
 ### Machine Learning
