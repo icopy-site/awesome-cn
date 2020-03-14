@@ -16,7 +16,8 @@
 * [PyMOL](https://sourceforge.net/projects/pymol/) -Python增强的分子图形工具.
 * [Jmol](http://jmol.sourceforge.net/) -基于浏览器的HTML5查看器和用于3D化学结构的独立Java查看器.
 * [VMD](http://www.ks.uiuc.edu/Research/vmd/) -分子可视化程序，用于使用3-D图形和内置脚本显示，设置动画和分析大型生物分子系统.
-* [Chimera](https://www.cgl.ucsf.edu/chimera/) -用于交互式分子可视化和分析的高度可扩展程序.
+* [Chimera](https://www.cgl.ucsf.edu/chimera/) -用于交互式分子可视化和分析的高度可扩展程序. [Source](https://www.cgl.ucsf.edu/chimera/docs/sourcecode.html) 可用.
+* [ChimeraX](https://www.cgl.ucsf.edu/chimerax/)  -UCSF Chimera之后的下一代分子可视化程序.  源可用 [here](https://www.cgl.ucsf.edu/chimerax/docs/devel/conventions.html).
 * [DataWarrior](http://www.openmolecules.org/datawarrior/index.html) -数据可视化和分析程序，结合了动态图形视图和具有化学智能的交互式行过滤.
 
 <a id="app-cmd"></a>
@@ -35,7 +36,7 @@
 <a id="app-virtual"></a>
 ### Virtual Machine
 
-* [myChEMBL](http://chembl.blogspot.com/2015/07/mychembl-20-has-landed.html) - 
+* [myChEMBL](http://chembl.blogspot.com/2015/07/mychembl-20-has-landed.html) -使用开源软件（Ubuntu，PostgreSQL，RDKit）构建的ChEMBL版本
 * [3D e-Chem Virtual Machine](https://github.com/3D-e-Chem/3D-e-Chem-VM) - 
 
 ## Libraries
@@ -70,7 +71,7 @@
 * [mordred](https://github.com/mordred-descriptor/mordred) -基于分子描述符计算器 [RDKit](http://www.rdkit.org/).
 * [mol2vec](https://github.com/samoturk/mol2vec) -分子亚结构的向量表示.
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) -根据其药效比对分子.
-* [Rcpi](https://nanx.me/Rcpi/index.html) - R/Bioconductor package to generate various descriptors of proteins, compounds and their interactions.
+* [Rcpi](https://nanx.me/Rcpi/index.html) -R / Bioconductor程序包，用于生成蛋白质，化合物及其相互作用的各种描述符.
 
 <a id="lib-ml"></a>
 ### Machine Learning
@@ -86,7 +87,7 @@
 * [PubChemPy](http://pubchempy.readthedocs.io) -PubChem PUG REST API的Python包装器.
 * [ChemSpiPy](http://chemspipy.readthedocs.org) -ChemSpider API的Python包装器.
 * [CIRpy](http://cirpy.readthedocs.org/) -NCI化学​​标识符解析器（CIR）的Python包装器.
-* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) 上 [Tornado](http://www.tornadoweb.org/en/stable/).
+* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
 
 <a id="lib-db"></a>
 ### Databases

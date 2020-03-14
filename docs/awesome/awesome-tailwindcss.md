@@ -21,7 +21,7 @@
 - [Custom Forms (Official)](https://github.com/tailwindcss/custom-forms) -为表单元素添加更好的默认样式.
 - [Theming (Dark/Light)](https://github.com/hawezo/tailwindcss-theming) -通过CSS变量和`prefers-color-scheme`添加了强大的主题功能.
 - [Text Indent](https://github.com/hacknug/tailwindcss-text-indent) -添加`text-indent`实用程序.
-- [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) -添加了“图像渲染”实用程序.
+- [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) - Adds `image-rendering` utilities.
 - [Filters](https://github.com/benface/tailwindcss-filters) -添加`filter`实用程序.
 - [Spinner](https://github.com/aniftyco/tailwindcss-spinner) -添加了一个微调器实用程序.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) -添加 [Material UI `elevation`](https://material.io/design/environment/elevation.html) 实用程序.
@@ -132,6 +132,7 @@
 -  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
 -  [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) -Tailwind CSS的调色板生成器（在线）.
 -  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带有PurgeCSS和现代CSS的NuxtJS的Tailwind CSS模块（预设环境1）.
+-  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) -将Tailwind CSS模块添加为PostCSS插件，并在生产中为PreactJS CLI项目设置PurgeCSS.
 
  |  表情符号|  描述
 | ----- | ---------------------------------------------- |
@@ -176,7 +177,7 @@
 ### IDE Extensions
 
 - [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) -Tailwind CSS的Visual Studio Code IntelliSense扩展.
-- [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) - Visual Studio Code snippet extension for Tailwind CSS.
+- [Tailwind CSS Styled Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) -Tailwind CSS的Visual Studio代码片段扩展.
 - [Tailwind CSS IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) -针对Tailwind CSS的Neovim IntelliSense扩展.
 - [Headwind for VS Code](https://github.com/heybourn/headwind) -用于Tailwind CSS的Visual Studio Code类排序器.
 

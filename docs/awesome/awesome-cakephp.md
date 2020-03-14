@@ -29,6 +29,10 @@
 
 - [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) -一个简单的插件，可以使用New Relic PHP代理仅对CakePHP 3应用程序进行名称交易和浏览器计时.
 
+## Architecture
+
+:strawberry: [Burzum/CakeServiceLayer plugin](https://github.com/burzum/cakephp-service-layer) -服务层和域/业务模型的实现.
+
 ## Asset Management
 *用于管理，压缩和最小化网站资产的工具.*
 
@@ -193,7 +197,7 @@
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个用于向您的应用添加枚举列表支持的插件.
-- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.

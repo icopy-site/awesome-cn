@@ -82,7 +82,7 @@
 ### Other
 
 - [JMeter Load Testing Center](https://github.com/innogames/JMeter-Control-Center) -在线Web应用程序/仪表板，用于使用JMeter运行，监视和分析负载测试的结果.
-- [Performance testing framework](https://github.com/serputko/performance-testing-framework) -使用Apache JMeter进行后端负载测试和使用sitespeed.io + webpagetest私有实例进行前端负载测试的框架.
+- [Performance testing framework](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 
 ## CI
 
@@ -131,6 +131,7 @@
   - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
   - [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
   - [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
+  - [AutoMeter](https://github.com/intuit/autometer) -基于JMeter主从架构，用于使用分布式从属扩展负载测试的自动化工具.
 -在云中测试
   -亚马逊网络服务
     - [jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2/) -在Amazon EC2上自动运行Apache JMeter.
@@ -233,7 +234,7 @@
 -动态痕迹
   - [Dynatrace and JMeter integration](https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/test-automation-frameworks/dynatrace-and-jmeter-integration/)
   - [Integrate web API performance monitoring in JMeter](https://www.dynatrace.com/support/doc/appmon/continuous-delivery-test-automation/test-automation-tutorials/integrate-web-api-performance-monitoring-in-jmeter/)
-- [JMeter integration with AppDynamics](https://docplayer.net/62851982-Jmeter-integration-with-appdynamics.html) - APM & EUM solution with JMeter integration.
+- [JMeter integration with AppDynamics](https://docplayer.net/62851982-Jmeter-integration-with-appdynamics.html) -与JMeter集成的APM和EUM解决方案.
 -使用New Relic和JMeter进行性能修复： [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/)
 
 ## Plugins

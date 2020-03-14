@@ -31,7 +31,7 @@
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
  * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
- * [使用Next.js和Redux _ [俄语] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
+ * [使用Next.js和Redux _ [Russian] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
  * [5 (of the Many Reasons) to love Zeit's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
  * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://zeit.co/blog/next5)
  * [Realtime data visualization using Next.js and Chart.js](https://pusher.com/tutorials/realtime-data-visualization-nextjs)
@@ -53,30 +53,30 @@
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) -使用Cloud Functions在Firebase中使用Bootstrap托管NextJS应用.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) -带有Next.js和Redux的简单PWA样板.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) -带有电子邮件和oAuth身份验证的Next.js入门项目.
-* [RAN!](https://github.com/sly777/ran) -生产就绪样板，支持GraphQL，SSR，热重载，CSS-in-JS，缓存等.
-* [Next Simple Blog](https://github.com/tscanlin/next-blog) -使用Next.js构建的基于Markdown的简单博客，具有静态导出功能.
+* [RAN!](https://github.com/sly777/ran) -支持GraphQL，SSR，热重载，CSS-in-JS，缓存等的生产就绪样板.
+* [Next Simple Blog](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 * [Create-Next-App](https://open.segment.com/create-next-app) -Facebook的create-react-app的分支以创建下一个应用程序.
 * [phox](https://github.com/herschel666/phox) -创建静态照片博客.
-* [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) - Boilerplate for a full stack app built using Next, Express, react-bootstrap, SCSS and SSR with eslint.
-* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) -博客，其中包含使用Next.js，Firebase Firestore，样式组件和mobx状态树构建的简单CMS.
+* [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) -使用Next，Express，react-bootstrap，SCSS和SSR和eslint构建的全栈应用程序样板.
+* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) -博客，其中包含使用Next.js，Firebase Firestore，样式化组件和mobx-state-tree构建的简单CMS.
 * [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) -具有Express，Redux和PostCSS的Next.js入门.
 * [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) -具有Redux和Material UI的样板NextJS.
-* [Staart](https://github.com/nmaro/staart) -主动维护的Next.js组件库*和*最小的样板，可通过基于Ooth的具有有效用户帐户的应用程序迅速获得支持.
+* [Staart](https://github.com/nmaro/staart) -主动维护的Next.js组件库*和*最少的样板，可通过基于Ooth的具有有效用户帐户的应用程序迅速获得支持.
 * [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) -：tada：TypeScript + NextJS，Styled-jsx，Redux，PostCSS，可配置的SEO
 * [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) -外部CSS和Sass +从任何位置导入图像+漂亮和Eslint +环境变量以及更多功能.
 * [next-starter](https://github.com/YuriBrunetto/next-starter) -具有内置的“ sass（.scss）”和“ postcss”的完整而简单的样板.
 * [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) -简约的next.js +打字稿monorepo.
 * [tomimick/tm-nextjs-starter](https://github.com/tomimick/tm-nextjs-starter) -基本的CRUD，axios / localstorage，MobX，SASS，静态站点导出，实时演示的最小入门/演示
 * [Nextron](https://github.com/saltyshiomix/nextron) -使用Next.js应用生成器的Electron⚡
-* [next-boilerplate](https://github.com/pankod/next-boilerplate) -生产就绪-打字稿，Sass，Css，EnvConfig，反向代理，捆绑分析器
+* [next-boilerplate](https://github.com/pankod/next-boilerplate) -准备就绪-打字稿，Sass，Css，EnvConfig，反向代理，捆绑分析器
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) -全栈Web应用程序框架（Next.js，Redux，RxJS，Immutable，Express）
-* [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) -由Next.JS和MongoDB制作的成熟应用程序，具有身份验证等功能（Next.js 9，MongoDB）
+* [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) -使用Next.JS和MongoDB制作的成熟应用程序，具有身份验证等功能（Next.js 9，MongoDB）
 * [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) -：rocket：使用nextJS，最佳开发实践和开发人员社区中流行的库来减少项目配置的基础.
 * [Apollo Next.js GraphQL starter](https://github.com/tomanagle/Apollo-Next.js-GraphQL-starter) -使用Next.js的GraphQL入门包，并通过Apollo Client配置
 * [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) -打字稿+ redux +样式化的组件+ react-testing-library + eslint + fontawesome
 
 ## Extensions
-* [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) -通用的语言检测器（浏览器+服务器）-旨在与通用框架（例如Next.js）一起使用 [DEMO](https://universal-language-detector.now.sh/)
+* [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) -通用的语言检测器（浏览器+服务器）-打算与通用框架（例如Next.js）一起使用 [DEMO](https://universal-language-detector.now.sh/)
 * [Next Routes](https://github.com/fridays/next-routes) -Next.js的通用命名路由.
 * [Next-Pkg](https://github.com/onready/next-pkg) -具有以下功能的扩展Next.js服务器 [pkg](https://github.com/zeit/pkg) 支持.
 * [Next Plugins](https://github.com/zeit/next-plugins) -精选的Webpack和Next.js插件列表
@@ -90,8 +90,10 @@
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) -轻松部署无服务器应用程序.
 * [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) -使用Terraform部署您的应用程序
 * [next-session](https://github.com/hoangvvo/next-session) -Next.js的会话中间件
+* [next-iron-session](https://github.com/vvo/next-iron-session) -使用签名和加密的cookie来存储数据的Next.js无状态会话实用程序
 * [Next PurgeCSS](https://github.com/lucleray/next-purgecss) -轻松整合 [Purgecss](https://www.purgecss.com/)，这有助于您从捆绑包中删除未使用的CSS.
 * [Next PWA](https://github.com/shadowwalker/next-pwa) -带工作框的Next.js的零配置PWA插件
+* [flow-middleware](https://github.com/piglovesyou/flow-middleware) -在Next.js上运行任何Express中间件，而不会污染本机对象.
 
 ## Apps
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) -展示《权力的游戏》角色的简单Next.js应用程序.

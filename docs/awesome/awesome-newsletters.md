@@ -33,7 +33,7 @@
 ### JavaScript
 
 - [JavaScript Weekly](https://javascriptweekly.com/) .  JavaScript新闻和文章的每周一次免费电子邮件摘要. [Archive](https://javascriptweekly.com/issues).
-- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) .  每月两次向新闻通讯发送电子邮件，其中包含针对设计师和开发人员的有用提示，技巧和资源.
+- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) .  每月两次向新闻通讯发送电子邮件，其中包含针对设计人员和开发人员的有用提示，技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) .  每隔一周就会向您的收件箱发送一个快速的JavaScript提示.
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和Web设计时事通讯，重点关注工具.
 - [ES.next News](http://esnextnews.com/) .  每周由Axel Raushmayer博士和Johannes Weber策划的5个ECMAScript.next链接.
@@ -125,7 +125,7 @@
 - [ObjC](https://www.objc.io/) .  每月免费发行，涵盖高级iOS和OS X开发的最重要方面.
 - [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter) .  精选的iOS优秀库的清单，包括Objective-C和Swift项目.
 
-### C
+### C# #
 
 - [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
 - [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter) .  很棒的.Net库，工具和框架的集合.
@@ -214,7 +214,7 @@
 - [This Week in Rust](https://this-week-in-rust.org) .  紧跟Rust社区的事件，学习资源和最新动态. [Archive](https://this-week-in-rust.org/blog/archives/index.html).
 - [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter) .  精选的Rust库和资源列表.
 
-### C++
+### C/C++
 
 - [Awesome C++ Newsletter](https://cpp.libhunt.com/newsletter) .  精选的C / C ++框架，库，资源和闪亮的东西的清单.
 
@@ -293,7 +293,7 @@
 
 ### Cloud Development
 
-- [Your weekly Azure news fix](https://azureweekly.info/) .  Azure周刊是Microsoft Azure生态系统中本周热门新闻的摘要，以及值得一读的有趣的历史内容.
+- [Your weekly Azure news fix](https://azureweekly.info/) .  Azure周刊是Microsoft Azure生态系统中本周最新新闻的摘要，以及值得一读的有趣的历史内容.
 - [Serverless Status](https://serverless.email/) .  关于无服务器架构和范例，功能即服务，AWS Lambda等的每周新闻.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) .  《 Google Cloud Weekly》是本周与Google Cloud生态系统相关的最新新闻，教程，视频，播客的摘要，值得一读.
 - [Last Week in AWS](https://www.lastweekinaws.com/) .  每周来自亚马逊云生态系统的新闻摘要.
@@ -336,7 +336,7 @@
 
 - [TLDR](https://www.tldrnewsletter.com/) .  TLDR是每日精选的新闻通讯，其中包含技术上最有趣的故事的链接和摘要.
 - [Barista.io](https://www.barista.io/) .  每天通过电子邮件发送来自网络的人群精选文章，以掌握当今最受欢迎的技术新闻.
-- [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) .  每个工作日有4条关于（主要是研究型）技术的短链接.
+- [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) .  每个工作日有4条关于（主要是面向研究的）技术的短链接.
 - [The Morning Paper](https://blog.acolyer.org/) .  由Adrian Colyer挑选的每个工作日早晨，来自CS世界的有趣/有影响力/重要的论文.
 - [TechMeme](https://www.techmeme.com/) .  Techmeme是近乎实时的汇总，过滤，可存档的摘要，涵盖了新事物并引发了技术对话.
 
@@ -361,7 +361,7 @@
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine是一本独立的在线杂志，每个星期三都会为您带来一个崭新的，令人振奋的早晨活动.
 - [wpMail.me](http://wpmail.me/) .  每周一次的免费WordPress新闻快讯，汇总了WordPress新闻和文章. [Archive](http://wpmail.me/newsletters/).
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  《清晰思考》时事通讯为您提供很少的反思练习，可帮助您的日常生活.  它是充满爱与钦佩而创造的. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
-- [Better Dev Link](https://betterdev.link) .  每周新闻通讯收集旨在提高一般编程知识的链接.  目的不包括读者可以从Google即时搜索的链接（例如，如何执行x，y，z），而是更多关于编程中的问题解决方法.
+- [Better Dev Link](https://betterdev.link) .  每周新闻通讯收集旨在提高一般编程知识的链接.  目的不包括读者可以从Google即时搜索到的链接（例如如何执行x，y，z），而是更多关于编程中的问题解决方法.
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) .  一个特殊的仓库，可以在GitHub上用您喜欢的编程语言跟踪趋势项目.  每天或每周一次以GitHub通知的形式进行更新.
 - [HN Mail](https://hnmail.io) .  可自定义的每周新闻，根据您的兴趣提供Hacker News故事.
 - [Stratus Update](https://www.manifold.co/stratusupdate) .  每周拍摄一次迅速蒸发并凝结的云原生景观.

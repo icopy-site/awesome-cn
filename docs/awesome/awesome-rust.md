@@ -14,7 +14,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 
 * [alacritty](https://github.com/alacritty/alacritty) —跨平台，GPU增强的终端仿真器
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) —用锈写的交互式程序集外壳.
-* [ballista](https://github.com/andygrove/ballista) —使用Rust，Apache Arrow和Kubernetes的分布式计算平台的PoC！
+* [ballista](https://github.com/ballista-compute/ballista) —使用Rust，Apache Arrow和Kubernetes的分布式计算平台的PoC！
 * [denoland/deno](https://github.com/denoland/deno) —使用V8，Rust和Tokio构建的安全JavaScript / TypeScript运行时 [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Kubernetes的超轻服务网格.
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) —通过在家庭Wifi路由器上阻止互联网访问，将屏幕显示时间限制在儿童的各种移动设备上.
@@ -263,7 +263,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [cargo-testify](https://crates.io/crates/cargo-testify) —通过友好的OS通知监视文件更改，运行测试并通知结果 [<img src="https://api.travis-ci.org/greyblake/cargo-testify.svg?branch=master">](https://travis-ci.org/greyblake/cargo-testify)
   * [cargo-tree](https://github.com/sfackler/cargo-tree) –货物子命令，以树状格式可视化条板箱的依存关系图 [![CircleCI](https://circleci.com/gh/sfackler/cargo-tree.svg?style=shield)](https://circleci.com/gh/sfackler/cargo-tree)
   * [cargo-update](https://crates.io/crates/cargo-update) — cargo子命令，用于检查更新并将其应用于已安装的可执行文件 [<img src="https://api.travis-ci.org/nabijaczleweli/cargo-update.svg?branch=master">](https://travis-ci.org/nabijaczleweli/cargo-update)
-  * [cargo-watch](https://crates.io/crates/cargo-watch) —实用程序，用于货源更改时货物编译项目 [<img src="https://api.travis-ci.org/passcod/cargo-watch.svg?branch=master">](https://travis-ci.org/passcod/cargo-watch)
+  * [cargo-watch](https://crates.io/crates/cargo-watch) —实用程序，用于货源变化时货物编译项目 [<img src="https://api.travis-ci.org/passcod/cargo-watch.svg?branch=master">](https://travis-ci.org/passcod/cargo-watch)
   * [liuchong/cargo-x](https://raw.githubusercontent.com/liuchong/cargo-x) —一个非常简单的第三方cargo子命令，用于执行自定义命令 [<img src="https://api.travis-ci.org/liuchong/cargo-x.svg?branch=master">](https://travis-ci.org/liuchong/cargo-x)
   * [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) —在源代码中扩展宏
 * CMake
@@ -1092,7 +1092,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 
 *车把
   * [sunng87/handlebars-rust](https://raw.githubusercontent.com/sunng87/handlebars-rust) —具有继承功能，自定义帮助程序支持的车把模板引擎. [<img src="https://api.travis-ci.org/sunng87/handlebars-rust.svg?branch=master">](https://travis-ci.org/sunng87/handlebars-rust)
-  * [botika/yarte](https://github.com/botika/yarte) — Yarte代表** Y ** et ** A ** n **** R ** ust ** T ** emplate ** E ** ngine，是最快的模板引擎. [![Build Status](https://api.travis-ci.org/botika/yarte.svg?branch=master)](https://travis-ci.org/botika/yarte)
+  * [botika/yarte](https://github.com/botika/yarte) — Yarte代表** Y ** et ** A ** n ** R ** ust ** T ** emplate ** E ** ngine，是最快的模板引擎. [![Build Status](https://api.travis-ci.org/botika/yarte.svg?branch=master)](https://travis-ci.org/botika/yarte)
 * HTML
   * [lambda-fairy/maud](https://raw.githubusercontent.com/lambda-fairy/maud) —编译时HTML模板 [<img src="https://api.travis-ci.org/lambda-fairy/maud.svg?branch=master">](https://travis-ci.org/lambda-fairy/maud)
   * [Stebalien/horrorshow-rs](https://raw.githubusercontent.com/Stebalien/horrorshow-rs) —编译时HTML模板 [<img src="https://api.travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master">](https://travis-ci.org/Stebalien/horrorshow-rs)
@@ -1102,7 +1102,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [naomijub/hiccup](https://github.com/naomijub/hiccup) —由Clojure的打in产生的模板引擎. [![Build Status](https://api.travis-ci.org/naomijub/hiccup.svg?branch=master)](https://travis-ci.org/naomijub/hiccup)
 *小胡子
   * [rustache/rustache](https://raw.githubusercontent.com/rustache/rustache) — [<img src="https://api.travis-ci.org/rustache/rustache.svg?branch=master">](https://travis-ci.org/rustache/rustache)
-* [tailhook/marafet](https://github.com/tailhook/marafet) —面向类似cade.js的虚拟dom的Jade类模板语言的编译器
+* [tailhook/marafet](https://github.com/tailhook/marafet) —面向Jade的模板语言到基于cito.js的虚拟dom的编译器
 
 ### Text processing
 
@@ -1202,7 +1202,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) —乐于助人的Rust导师清单，他们愿意接受受训者并对他们进行Rust和编程方面的教育.
   * [exercism.io](https://exercism.io/tracks/rust) —编程练习，可帮助您学习Rust中的新概念.
   * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) —教了惯用的Rust的经过同行评审的文章/演讲/回购合集.
-  * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) 通过实现几种不同类型的列表结构来深入探索Rust的内存管理规则.
+  * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) —通过实现几种不同类型的列表结构，深入探索Rust的内存管理规则.
   * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
   * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) —一组简单的示例，展示了使用Rust生态系统的板条箱完成常见编程任务的良好实践.
   * [Rust for professionals](https://overexact.com/rust-for-professionals/) —为经验丰富的软件开发人员快速介绍Rust.
