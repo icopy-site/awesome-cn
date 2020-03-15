@@ -36,8 +36,8 @@
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) -用于性能预算的艰巨任务.
 - [Size Limit](https://github.com/ai/size-limit)  -计算运行JS应用或lib来保持良好性能的实际成本.  如果费用超出限制，则在拉取请求中显示错误.
 - [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) -随时间跟踪压缩的Webpack资产大小.
-- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小.
-- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小. 
+- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) -布置模板类型，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小.
+- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) -布置模板类型，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小. 
 - [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) -CLI工具和lib以通过Lighthouse收集性能指标.
 - [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) -扩展以在VS代码编辑器中内联显示导入包的大小.
 
@@ -70,6 +70,7 @@
 - [Netflix - Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) -Netflix网络性能案例研究.
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) -改善《电讯报》的第三方网络性能.
 - [Uber Eats - Performance Improvements](https://eng.uber.com/uber-eats-com-web-app-rewrite/) -计算卡路里：我们如何改善UberEats.com的性能和开发人员体验.
+- [Analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) -改善沃尔玛产品页面的性能.
 
 ## License
 

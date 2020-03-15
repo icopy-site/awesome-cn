@@ -479,7 +479,7 @@ Projects
 * [Ambassador](http://www.getambassador.io) -基于Envoy代理构建的API网关
 * [Argo](https://github.com/argoproj/argo) -Kubernetes的工作流引擎
 * [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
-* [Escalator](https://github.com/atlassian/escalator) - A batch or job optimized horizontal autoscaler for Kubernetes
+* [Escalator](https://github.com/atlassian/escalator) -适用于Kubernetes的批处理或作业优化的水平自动缩放器
 * [Fission Workflows](https://github.com/fission/fission-workflows) -基于工作流的无服务器功能组合
 * [Forecastle](https://github.com/stakater/Forecastle) -可以动态发现并提供启动板以访问Kubernetes上部署的应用程序的仪表板
 * [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) -代理，可让webhook访问防火墙后的运行服务
@@ -626,7 +626,7 @@ Projects
 * [kooper](https://github.com/spotahome/kooper) -用于创建Kubernetes运算符和控制器的简单Go库
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [KubeVirt](https://github.com/kubevirt)
-* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的自动节点重新启动
+* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的节点自动重新启动
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [MySQL](https://github.com/oracle/mysql-operator)
@@ -1135,4 +1135,4 @@ Contributing
 License
 =======================================================================
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /><br /> <a xmlns:cc="http://creativecommons.org" href="http://www.linkedin.com/in/ramitsurana" property="cc:attributionName" rel="cc:attributionURL">Ramit Surana的</a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-kubernetes</span>已获得<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业4.0国际许可证的许可</a> .
+<a rel="license" href="http://creativecommons.org/licenses/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /><br /> <a xmlns:cc="http://creativecommons.org" href="http://www.linkedin.com/in/ramitsurana" property="cc:attributionName" rel="cc:attributionURL">Ramit Surana的</a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-kubernetes</span>已获得<a rel="license" href="http://creativecommons.org/licenses/">知识共享署名-非商业4.0国际许可证的许可</a> .

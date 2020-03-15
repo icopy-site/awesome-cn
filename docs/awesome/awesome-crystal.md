@@ -11,7 +11,7 @@
 
 Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]]（https://crystal-ann.com）以获得更多信息.
 
- 欢迎捐款.  请快速浏览 [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) first.
+ 欢迎捐款.  请快速浏览 [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) 第一.
 
 
 ## Algorithms and Data structures
@@ -306,7 +306,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [retriable.cr](https://github.com/Sija/retriable.cr) -简单的DSL重试失败的代码块
  * [tren](https://github.com/sdogruyol/tren) -给您的SQL一些爱
  * [ulid](https://github.com/SuperPaintman/ulid) -通用唯一词典分类标识符（ULID）
- * [zaru_crystal](https://github.com/szTheory/zaru_crystal) -文件名清理
+ * [zaru_crystal](https://github.com/szTheory/zaru_crystal) - Filename sanitization
 
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) -本机BSON实施
@@ -450,6 +450,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [assert](https://github.com/blacksmoke16/assert) -基于可扩展注释的对象验证库
  * [denetmen](https://github.com/izniburak/denetmen) -修补Crystal stdlib的微型检查库
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
+ * [validator](https://github.com/Nicolab/crystal-validator) -数据检查和验证
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) -开源高效，凝聚力的Web应用程序框架

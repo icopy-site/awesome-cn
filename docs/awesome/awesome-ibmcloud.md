@@ -16,19 +16,24 @@
 *附加组件，组件，图标和其他资源，以使用由IBM构建的设计系统.*
 
 * [carbon](https://github.com/carbon-design-system/carbon) -由IBM构建的设计系统.
-* [carbon-addons-cloud](https://github.com/carbon-design-system/carbon-addons-cloud) -用于IBM Cloud的Carbon Design System附加组件.
-* [carbon-addons-dotcom](https://github.com/IBM/carbon-addons-dotcom)  -该库是Carbon IBM Design System的扩展.  它包含IBM.com用户旅程之间共享的独特组件，以统一其外观.
+* [carbon-addons-angular](https://github.com/IBM/carbon-addons-angular) -碳角项目的通用插件.
 * [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) -用于IBM协作解决方案的Carbon Add-on.
 * [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react)  -该库包含所有IBM IoT产品之间共享的React组件，以统一我们的外观.  这些小部件通常基于碳组分反应小部件.
-* [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux)  -所有物联网团队均可用于桥接Carbon UI小部件和redux的UI组件.  该库先决条件做出反应并进行还原.  该库通常与该窗口小部件库一起使用.
+* [carbon-angular-starter](https://github.com/carbon-design-system/carbon-angular-starter) -一个简单的启动器应用程序，用于使用Carbon组件自举应用程序.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) -使用D3和打字稿实现的可重用图表.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) -IBM Carbon Design System的Angular实施.
-* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) -碳设计系统的反应组件.
-* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
+* [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) -切实执行碳设计系统.
+* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) -碳设计系统的Vue实施.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本全面的工具包.
 * [carbon-icons](https://github.com/carbon-design-system/carbon-icons) -碳设计系统的SVG图标库.
-* [carbon-themes](https://github.com/carbon-design-system/carbon-themes) -碳组件使用的主题集合.
+* [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) -碳图标，在Angular中！
+* [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) -使用Carbon Design System精简数字和软件产品中图标的组件.
+* [carbon-tutorial](https://github.com/carbon-design-system/carbon-tutorial) -碳设计系统教程的应用程序.
 * [carbon-website](https://github.com/carbon-design-system/carbon-website) -碳设计系统的网站.
+* [gatsby-starter-carbon-theme](https://github.com/carbon-design-system/gatsby-starter-carbon-theme) -展示盖茨比碳纤维主题的盖茨比启动器.
+* [gatsby-theme-carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) -碳元素启发的盖茨比主题.
+* [ibm-dotcom-library-website](https://github.com/carbon-design-system/ibm-dotcom-library-website) -这是IBM.com Library网站，其中包含有关IBM.com设计和开发的文档和准则.
+* [ibm-security](https://github.com/carbon-design-system/ibm-security) -由IBM Security构建的Carbon体验框架.
 
 ## Command Line Tools
 
@@ -112,7 +117,7 @@
     * [ruby-sdk](https://github.com/watson-developer-cloud/ruby-sdk) -♦️Ruby SDK使用IBM Watson服务.
     * [salesforce-sdk](https://github.com/watson-developer-cloud/salesforce-sdk) -用于与IBM Watson REST API通信的Salesforce库.
     * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) -Watson Swift SDK使开发人员能够将Watson认知计算服务快速添加到其Swift应用程序.
-    * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) -Unity SDK以使用IBM Watson服务.
+    * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) - 🎮 Unity SDK to use the IBM Watson services.
 * [with-watson](https://github.com/victorshinya/with-watson) -运行视觉识别默认模型的iOS应用.
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) -运行视觉识别自定义模型的iOS应用.
 * [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) -名人匹配应用程序使用Watson Personality Insights Service和Twitter数据来标识Twitter上推文在概念上最接近您的名人.

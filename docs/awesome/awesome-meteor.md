@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精选的精选Meteor软件包，库和软件.
+精选的很棒的流星软件包，库和软件列表.
 
 可以找到官方的流星资源页面 [here](https://www.meteor.com/tools/resources)
 
@@ -34,9 +34,9 @@
 
 ## REST
 
-* REST支持Meteor *
+*REST support for Meteor*
 
-* [simple:rest](https://github.com/stubailo/meteor-rest) -自动使您的Meteor应用程序可通过HTTP和DDP进行访问.
+* [simple:rest](https://github.com/stubailo/meteor-rest) -自动使您的Meteor应用程序可以通过HTTP和DDP进行访问.
 * [nimble:restivus](https://github.com/kahmali/meteor-restivus) -轻松实现Meteor应用的REST端点.
 
 ## Forms and Templates
@@ -45,10 +45,10 @@
 
 * [uniforms](https://github.com/vazco/uniforms) -一堆React组件和帮助程序，可轻松生成和验证表单. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
 * [aldeed:autoform](https://github.com/aldeed/meteor-autoform) -UI组件和帮助程序，可通过自动插入和更新事件以及自动反应验证轻松创建基本表单.
-* [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) -流星包：替换已定义的模板，从其他模板继承帮助程序和事件.
+* [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) -流星包：替换已经定义的模板，从其他模板继承帮助程序和事件.
 * [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) -Blaze的布局管理器（与Meteor FlowRouter配合使用）
 * [dispatch:scrollview](https://github.com/DispatchMe/meteor-scrollview) -流星的高性能无限滚动视图
-* [manuel:viewmodel](https://github.com/ManuelDeLeon/viewmodel) -用于流星的MVVM
+* [manuel:viewmodel](https://github.com/ManuelDeLeon/viewmodel) -流星的MVVM
 * [webix:webix](https://github.com/dandv/meteor-webix) -Meteor.js-Webix UI集成
 
 ## Users and Authentication
@@ -72,8 +72,8 @@
 *用于管理Meteor应用程序的工具*
 
 * [Meteor Candy](https://www.meteorcandy.com/) -将管理面板添加到您的应用程序的最快，最简单的方法.
-* [yogiben:admin](https://github.com/yogiben/meteor-admin) -完整的管理控制台解决方案.
-* [houston:admin](https://github.com/gterrono/houston) -Meteor的零配置，类似于Django Admin的管理员.
+* [yogiben:admin](https://github.com/yogiben/meteor-admin) -完整的管理仪表板解决方案.
+* [houston:admin](https://github.com/gterrono/houston) -流星的零配置，类似于Django Admin的管理员.
 
 
 ## Monitoring
@@ -100,7 +100,7 @@
 * [meteor-up](https://github.com/zodern/meteor-up) –流星部署.
 * [meteor-google-cloud](https://github.com/EducationLink/meteor-google-cloud) -在Google Cloud App Engine Flexible上自动化Meteor部署
 * [mup-aws-beanstalk](https://github.com/zodern/mup-aws-beanstalk) -使用Meteor Up将Meteor应用程序部署到AWS Elastic Beanstalk
-* [meteor-azure](https://github.com/fractal-code/meteor-azure) -在Azure应用服务上自动化Meteor部署
+* [meteor-azure](https://github.com/fractal-code/meteor-azure) -在Azure App Service上自动化Meteor部署
 * [pm2-meteor](https://github.com/andruschka/pm2-meteor) -使用PM2部署，扩展和运行Meteor Apps的最简单方法.
 * [meteor-hero](https://github.com/jkrup/meteor-hero) -利用Heroku的服务通过一条命令免费部署MeteorJS应用程序.
 * [meteor-kubernetes-guide](https://github.com/Gregivy/meteor-kubernetes-guide) -使用Kubernetes部署Meteor应用.
@@ -129,7 +129,7 @@
 
 * [meteortesting:mocha](https://github.com/meteortesting/meteor-mocha) -Mocha的Mocha测试驱动程序包.
 * [lmieulet:meteor-coverage](https://github.com/serut/meteor-coverage) -测试流星的覆盖范围.
-* [hubroedu:mocha](https://github.com/hubroedu/meteor-mocha/) -客气的cultofcoders：摩卡叉. 
+* [hubroedu:mocha](https://github.com/hubroedu/meteor-mocha/) -人手不足的cultofcoders：摩卡叉. 
 * [Gagarin](https://github.com/anticoders/gagarin) -流星应用程序的另一个测试框架.
 
 ## SEO
@@ -143,17 +143,17 @@
 *在Meteor中处理文件*
 
 * [ostrio:files](https://github.com/VeliovGroup/Meteor-Files)  -通过DDP，HTTP和WebRTC / DC上传文件.  到Meteor服务器FS，AWS，GridFS，DropBox或Google Drive.  快速，安全和强大.
-* [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) -解析并生成excel文件（xlsx，xls）.
+* [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) -解析并生成Excel文件（xlsx，xls）.
 
 ## Search, sort and paginate
 
 *搜索，排序和分页相关工具*
 
 * [percolate:find-from-publication](https://github.com/versolearning/find-from-publication) -启用查找给定出版物已发布的所有文档的功能.
-* [tmeasday:publish-counts](https://github.com/percolatestudio/publish-counts) -实时发布光标的计数.
+* [tmeasday:publish-counts](https://github.com/percolatestudio/publish-counts) -实时发布光标计数.
 * [meteorhacks:search-source](https://github.com/meteorhacks/search-source) -用于搜索的反应性数据源.
 * [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) -使用Blaze组件易于使用的搜索（+弹性搜索支持）
-* [alethes:pages](https://github.com/alethes/meteor-pages) - Out of the box Meteor pagination.
+* [alethes:pages](https://github.com/alethes/meteor-pages) -开箱即用的流星分页.
 
 ## Mobile
 
@@ -190,7 +190,7 @@
 
 * [msavin:sjobs](https://github.com/msavin/stevejobs/) -流星优先作业队列/任务计划程序.
 * [percolate:synced-cron](https://github.com/percolatestudio/meteor-synced-cron)  -流星的Cron系统.  它支持在多个进程之间同步作业.
-* [ostrio:cron-jobs](https://github.com/VeliovGroup/Meteor-CRON-jobs) -与本地`setTimeout`和`setInterval`方法具有相似API的软件包，但是在所有正在运行的Meteor（NodeJS）实例之间同步.
+* [ostrio:cron-jobs](https://github.com/VeliovGroup/Meteor-CRON-jobs) -与本地`setTimeout`和`setInterval`方法具有相似API的软件包，但在所有正在运行的Meteor（NodeJS）实例之间同步.
 
 ## Debugging Tools
 
@@ -200,7 +200,7 @@
 * [msavin:jetsetter](https://github.com/msavin/JetSetter) -流星会话变量的可视化获取/设置工具.
 * [babrahams:constellation](https://github.com/JackAdams/constellation-distro/) -流星的可扩展开发控制台.
 * [Meteor DDP Monitor](https://github.com/thebakeryio/meteor-ddp-monitor) -用于监视流星DDP流量的Chrome开发工具扩展.
-* [meteorhacks:kadira-debug](https://github.com/kadirahq/meteor-debug) -流星的全堆栈调试解决方案.
+* [meteorhacks:kadira-debug](https://github.com/kadirahq/meteor-debug) -流星的全栈调试解决方案.
 
 ## Editor Plugins
 
@@ -212,7 +212,7 @@
 *Scaffolding*
 
 * [Meteor Kitchen](http://www.meteorkitchen.com/) -流星的代码生成器.
-* [iron-cli](https://github.com/iron-meteor/iron-cli) -用于Meteor应用程序的脚手架命令行工具.
+* [iron-cli](https://github.com/iron-meteor/iron-cli) -流星应用程序的脚手架命令行工具.
 
 ## Tooling
 
@@ -239,13 +239,14 @@
 
 * [React](http://react-in-meteor.readthedocs.org/en/latest/) -使用React和Meteor.
 * [Vue](https://github.com/Akryum/meteor-vue-component) -使用Vue和Meteor（加上单文件组件和apollo支持）.
-* [Svelte](https://github.com/meteor-svelte/meteor-svelte) -使用Meteor和Svelte构建经网络控制的增强型Web应用程序.
+* [Svelte](https://github.com/meteor-svelte/meteor-svelte) -使用Meteor和Svelte构建经过网络控制的增强型Web应用程序.
 * [Angular 2](https://github.com/Urigo/angular2-meteor) -使用Angular 2和Meteor.
 * [Angular](https://github.com/Urigo/angular-meteor) -使用Angular和Meteor.
 * [Famo.us](https://github.com/gadicc/meteor-famous-views/) -Famo.us和流星.
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) -捆绑Meteor应用程序客户端部分的工具.
 * [Asteroid](https://github.com/mondora/asteroid) -流星后端的替代客户端.
 * [ddp.js](https://github.com/mondora/ddp.js) -同构JavaScript DDP客户端.
+* [elm](https://github.com/ni-ko-o-kin/meteor-elm-example) -elm作为基于流星的项目的视图层.
 
 ## Alternative Databases
 
@@ -253,7 +254,7 @@
 
 * [vlasky:mysql](https://github.com/vlasky/meteor-mysql) -反应式MySQL for Meteor
 * [meteor-pg](https://github.com/Richie765/meteor-pg) -新的和改进的PostgreSQL对Meteor的支持
-* [ostrio:neo4jdriver](https://github.com/VeliovGroup/ostrio-neo4jdriver/) -用于流星的Neo4j驱动程序，支持GrapheneDB
+* [ostrio:neo4jdriver](https://github.com/VeliovGroup/ostrio-neo4jdriver/) -Neo4j流星驱动程序，支持GrapheneDB
 * [numtel:pg](https://github.com/numtel/meteor-pg) -反应式PostgreSQL for Meteor
 * [simple:rethink](https://github.com/Slava/meteor-rethinkdb) -流星的RethinkDB集成
 

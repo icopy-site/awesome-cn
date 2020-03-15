@@ -67,7 +67,7 @@
 - [Graham Daniels](https://github.com/greydnls/ama) -资深软件工程师 [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
 - [Jeff Carouth](https://github.com/jcarouth/ama) -首席平台工程师 [Liftopia](http://www.liftopia.com)，共同主办 [Loosely Coupled Podcast](http://looselycoupled.info)，导师和会议发言人.
 - [Matthew Turland](https://github.com/elazar/amas) -的全栈工程师 [When I Work](http://wheniwork.com)，作者，导师和会议发言人.
-- [Joe Ferguson](https://github.com/svpernova09/ama)  -PHP开发人员，系统管理员，社区构建者，会议组织者和发言人，制造者，黑客，修补匠，太空极客，丈夫.  享受精酿啤酒和威士忌.  由猫拥有.
+- [Joe Ferguson](https://github.com/svpernova09/ama)  -PHP开发人员，系统管理员，社区构建者，会议组织者和发言人，制造者，黑客，修补匠，太空怪胎，丈夫.  享受精酿啤酒和威士忌.  由猫拥有.
 - [Hamish Friedlander](https://github.com/hafriedlander/ama) -开发人员，首席技术官 [SilverStripe](http://www.silverstripe.org)，人类（假定）.
 - [Chris Tankersley](https://github.com/dragonmantank/ama) -PHP开发人员，系统管理员，发言人，老师，有时甚至是作家，我在YouTube上玩视频游戏.
 - [Deepak Verma](https://github.com/deepaknverma/ama) -的全栈开发人员 [Hometrack Australia](http://hometrack.com)，AWS解决方案架构师，并对 [photography](https://www.flickr.com/photos/deepak-verma).
@@ -88,7 +88,7 @@
 - [Diki Ananta](https://github.com/dikiaap/ama) -与Laravel合作的自由全栈开发人员.
 - [Steel Brain](https://github.com/steelbrain/ama) -Rebel™，也是Node.js，PHP和HackLang开发人员.
 - [CJ Patoilo](https://github.com/cjpatoilo/ama) -前端工程师，JavaScript传播者， [DEV IO](https://github.com/deviofoundation) 联合创始人.
-- [Armagan Amcalar](https://github.com/dashersw/ama) -的软件工程主管 [unu GmbH](http://unumotors.com). Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
+- [Armagan Amcalar](https://github.com/dashersw/ama) -的软件工程主管 [unu GmbH](http://unumotors.com) .  软件架构师，企业家，会议发言人，导师，电子工程师，吉他爱好者，歌手.
 - [Breno Polanski](https://github.com/brenopolanski/ama) -的前端软件工程师 [Meteorite BI](http://www.meteorite.bi).
 - [Camilo Nova](https://github.com/camilonova/ama) -哥伦比亚的全栈软件开发商.
 - [Jon Moss](https://github.com/maclover7/ama)  -Rails开发人员.  一般的青少年.  Ruby on Rails问题团队的成员.
@@ -96,9 +96,9 @@
 - [Ariya Hidayat](https://github.com/ariya/ama) -工程副总裁 [Shape Security](https://shapesecurity.com/)，作者： [Esprima](https://github.com/jquery/esprima) 和 [PhantomJS](http://phantomjs.org).
 - [Rob Thomas](https://github.com/xrobau/ama)  -VoIP开发人员，IPv6和安全宣传员，DevOps支持者.  目前在 [Sangoma](https://www.sangoma.com).
 - [Amit Merchant](https://github.com/amitmerchant1990/ama) -使用JavaScript，PHP和Java的全栈开发人员.
-- [William Oliveira](https://github.com/woliveiras/ama) -使用JavaScript，Angular，Stylus，Gulp，Git等的前端开发人员（巴西）. [my blog](http://woliveiras.com.br).
+- [William Oliveira](https://github.com/woliveiras/ama) -使用JavaScript，Angular，Stylus，Gulp，Git等的前端开发人员（巴西）.有关我的更多信息，请访问 [my blog](http://woliveiras.com.br).
 - [Unbug Lee](https://github.com/unbug/ama) -的作者 [MIHTool](http://www.mihtool.com) 和 [Codelf](http://unbug.github.io/codelf/).
-- [Tibor Simon](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
+- [Tibor Simon](https://github.com/tiborsimon/ama) -电气工程师，软件极客，DSP，iOS，vimmer，吉他手，骑自行车的人，跑步者， [tiborsimon.io](https://tiborsimon.io).
 - [Danilo Vaz](https://github.com/danilovaz/ama) -前端开发人员（巴西），在 [mLabs](https://www.mlabs.com.br/)  JavaScript，EmberJS，API和其他有趣的东西.  我也是 [BeerJS/SJC](https://github.com/beerjs/sjc) 组织者.
 - [Adrian Mejia](https://github.com/amejiarosario/ama)  -思科软件工程师.  博客在 [adrianmejia.com](http://adrianmejia.com) .  的作者 ["E-commerce Application built with the MEAN stack"](https://github.com/amejiarosario/meanshop) .  JavaScript爱好者.  波士顿位于.
 - [Jon Kuperman](https://github.com/jkup/ama)  -我喜欢JavaScript！  我在博客 [Codeplanet](https://codeplanet.io)，在以下位置制作视频 [Nodecasts](https://nodecasts.io) 和播客在 [The Web Behind](https://webbehind.com).
@@ -126,7 +126,7 @@
 - [Ken Wheeler](https://github.com/kenwheeler/ama)  -职业美国人.  Manchild.
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) -自由设计师和UI工程师.
 - [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama)  -CSS网格任何问题.  雷切尔·安德鲁（Rachel Andrew）是Perch CMS的英国Web开发人员，作家，公共发言人和联合创始人.
-- [Ilya Bodrov](https://github.com/bodrovis/ama)  -作者，老师，咨询开发人员.  Ruby和Elixir的粉丝.
+- [Ilya Bodrov](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 - [Matt Seemon](https://github.com/mattseemon/ama) -配音员，卡拉OK骑师，业余演员，IT爱好者.
 - [Gaurav Mehla](https://github.com/gauravmehla/ama) -全栈开发人员，JS编码器，开源贡献者.
 - [Hasan Bayat](https://github.com/EmpireWorld/ama)  -很棒的开发人员.  喜欢开源.
@@ -135,7 +135,7 @@
 - [Jürgen Gutsch](https://github.com/JuergenGutsch/ama) -.NET迷，沉迷于Web和软件开发，干净的编码器，Visual Studio和Development Technologies的MVP.
 - [Lizzie Siegle](https://github.com/elizabethsiegle/ama) -iOS和网络开发人员，开发人员宣传人员，黑客马拉松黑客和法官， [Spectra](http://sospectra.com) 组织者，种族歧义.
 - [Sami CHNITER](https://github.com/chniter/ama) -Microsoft Exchange，Office，Skype for Business，PowerShell开发人员，博客和软件极客.
-- [Mordechai Zuber](https://M-ZUBER/AMA)  -开发人员，维护人员，开源人员.  对发展充满热情.
+- [Mordechai Zuber](https://M-ZUBER/AMA) - Developer, Maintainer, Open Sourcer. Passionate about development.
 - [Krzysztof Cieslak](https://github.com/Krzysztof-Cieslak/AMA) -软件开发人员，顾问，创始人 [Lambda Factory](http://lambdafactory.io)，作者 [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax)，项目所有者和维护者 [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)，是许多OSS项目的贡献者，国际发言人.
 - [Benjamin Reitzammer](https://github.com/benjmin-r/ama) -开发人员，前CTO，社区工程经理.
 - [Clark Weckmann](https://github.com/clarkhacks/ama)  -Web开发人员，设计师和程序员.  专门从事小型企业网站和博客.
@@ -171,6 +171,7 @@
 - [Chris Otto](https://github.com/chrisotto6/ama) -测试工程师，创建人 [VSCodeFitNesse](https://marketplace.visualstudio.com/items?itemName=chrisotto.vscodefitnesse) 和 [blogger](https://www.chrisotto.tech).
 - [Ahmad Ainul Rizki](https://github.com/awanisius/ama) -全栈开发人员，兼职开源人员，并对功能语言感兴趣.
 - [Ale Muñoz](https://github.com/bomberstudios/ama) -Sketch的开发人员关系，插件开发人员，设计师和数字工具匠.
+- [Imed Jaberi](https://github.com/3imed-jaberi/ama) -JavaScript开发人员，指导者，开源贡献者，社区构建者和发言人.
 
 #### Ask these organizations anything!
 
@@ -180,7 +181,7 @@
 - [DevOps Taiwan](https://github.com/DevOpsTW/AMA) -帮助DevOps工程师解决任何问题.
 - [Vim Taiwan](https://github.com/vim-tw/ama) -协助台湾的游泳者任何疑问.
 - [From the Front](https://github.com/fromthefront/ama) -意大利“从前线”会议系列背后的非营利组织.
-- [HackCU](https://github.com/HackCU/ama) -科罗拉多大学的大学黑客马拉松，每两年举办一次免费活动，让学生学习编码或推动他们的技能建设.
+- [HackCU](https://github.com/HackCU/ama) -科罗拉多大学的大学黑客马拉松，每两年举办一次免费活动，供学生学习编码或推动他们的技能建设.
 - [Ansible Taiwan](https://github.com/ansible-tw/ama) -为台湾的Ansible用户提供任何疑问.
 - [IIIT Vadodara](https://github.com/iiitv/aua) -由大学生维护的开源组织.
 - [Nikita Voloboev](https://github.com/nikitavoloboev/ama) -爱 [making](https://nikitavoloboev.xyz/projects/) 和 [sharing](https://wiki.nikitavoloboev.xyz/sharing)  东西.  建造 [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) 和 [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).

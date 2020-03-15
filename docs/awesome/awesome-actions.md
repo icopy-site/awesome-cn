@@ -402,6 +402,10 @@
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
 
+### Database
+
+- [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) -从Cassandra群集顶部的提供的文件夹中运行脚本.
+
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)

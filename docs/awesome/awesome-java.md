@@ -112,7 +112,7 @@ _为重复代码生成模式以减少冗长和易于出错的工具.
 - [JavaPoet](https://github.com/square/javapoet) -生成源文件的API.
 - [JHipster](https://github.com/jhipster/generator-jhipster) -Spring Boot和AngularJS的Yeoman源代码生成器.
 - [Joda-Beans](https://www.joda.org/joda-beans/) -小型框架，可向Java添加可查询的属性，从而增强了JavaBeans.
-- [Lombok](https://projectlombok.org) - Code generator that aims to reduce verbosity.
+- [Lombok](https://projectlombok.org) -旨在减少冗长程度的代码生成器.
 
 ### Compiler-compiler
 
@@ -161,7 +161,7 @@ _高效而具体的数据结构.
 - [Apache Thrift](https://thrift.apache.org) -源自Facebook的数据交换格式.
 - [Big Queue](https://github.com/bulldog2011/bigqueue) -基于内存映射文件的快速持久队列.
 - [HyperMinHash-java](https://github.com/LiveRamp/HyperMinHash-java) -用于计算对数日志空间中的联合，交集和集合基数的概率数据结构.
-- [Persistent Collection](https://github.com/hrldcpr/pcollections) - Persistent and immutable analogue of the Java Collections Framework.
+- [Persistent Collection](https://github.com/hrldcpr/pcollections) -Java Collections Framework的持久性和不变性.
 - [Protobuf](https://github.com/protocolbuffers/protobuf) -Google的数据交换格式.
 - [SBE](https://github.com/real-logic/simple-binary-encoding) -简单的二进制编码，这是最快的消息格式之一.
 - [Tape](https://github.com/square/tape) -闪电般的，基于事务的，基于文件的FIFO.
@@ -221,7 +221,7 @@ _有助于实现 [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_
 - [Dagger](https://dagger.dev/) -编译时注入框架，无需反思.
 - [Feather](https://github.com/zsoltherpai/feather) -符合JSR-330的超轻量级依赖注入库.
 - [Governator](https://github.com/Netflix/governator) -扩展了Google Guice的扩展程序和实用程序.
-- [Guice](https://github.com/google/guice) -轻巧而自以为是的框架，完善了Dagger.
+- [Guice](https://github.com/google/guice) -完善Dagger的轻量级，自以为是的框架.
 - [HK2](https://javaee.github.io/hk2/) -轻量级和动态依赖注入框架.
 - [JayWire](https://github.com/vanillasource/jaywire)  -轻量级依赖注入框架.  （仅限LGPL-3.0）
 
@@ -237,7 +237,7 @@ _从根本上增强开发过程.
 - [JavaSymbolSolver](https://github.com/javaparser/javasymbolsolver) -符号求解器.
 - [Manifold](https://github.com/manifold-systems/manifold) -通过强大的功能（如类型安全的元编程，结构化类型化和扩展方法）重新激发Java的活力.
 - [NoException](https://noexception.machinezoo.com) -允许在功能接口中检查异常并将异常转换为可选返回.
-- [SneakyThrow](https://github.com/rainerhahnekamp/sneakythrow)  -无需字节码操作即可忽略检查的异常.  也可以在Java 8流操作中使用.
+- [SneakyThrow](https://github.com/rainerhahnekamp/sneakythrow) - Ignores checked exceptions without bytecode manipulation. Can also be used inside Java 8 stream operations.
 
 ### Distributed Applications
 
@@ -265,7 +265,7 @@ _分布式事务提供了一种机制，用于确保在存在并发访问和部�
 - [Atomikos](https://www.atomikos.com) -提供对REST，SOA和微服务的事务，并支持JTA和XA.
 - [Bitronix](https://github.com/bitronix/btm) -JTA 1.1 API的简单但完整的实现.
 - [Narayana](https://narayana.io)  -提供对传统ACID和补偿交易的支持，还符合JTA，JTS和其他标准.  （仅限LGPL-2.1）
-- [Seata](https://seata.io) -在微服务架构下提供高性能且易于使用的分布式事务服务.
+- [Seata](https://seata.io) - Delivers high performance and easy to use distributed transaction services under a microservices architecture.
 
 ### Distribution
 
@@ -274,6 +274,7 @@ _以本机格式处理应用程序分发的工具._
 -[Boxfuse！[c]]（https://boxfuse.com）-使用不可变基础结构原理将JVM应用程序部署到AWS.
 - [Capsule](https://github.com/puniverse/capsule)  -简单而强大的打包和部署.  类固醇上的胖JAR，或支持JVM优化的容器的“ Java Docker”.
 - [Central Repository](https://search.maven.org)  -最大的二进制组件存储库，可作为开源社区的免费服务.  Apache Maven使用的默认值，并且在所有其他构建工具中可用.
+-[Cloudsmith！[c]]（https://cloudsmith.io）-完全托管的软件包管理SaaS，支持带有免费层的Maven / Gradle / SBT.
 - [IzPack](http://izpack.org) -用于跨平台部署的安装创作工具.
 - [jlink.online](https://github.com/cilki/jlink.online) -通过HTTP构建优化的运行时.
 -[Nexus！[c]]（https://www.sonatype.com）-具有代理和缓存功能的二进制管理.
@@ -314,7 +315,7 @@ _正式方法工具：证明助手，模型检查，符号执行等_
 
 _促进函数式编程的库.
 
-- [Cyclops](https://github.com/aol/cyclops) -Monad和流实用程序，理解力，模式匹配，所有JDK集合的功能扩展，未来的流，蹦床等.
+- [Cyclops](https://github.com/aol/cyclops) -Monad和流实用程序，理解力，模式匹配，所有JDK集合的功能扩展，将来的流，蹦床等.
 - [derive4j](https://github.com/derive4j/derive4j)  -Java 8注释处理器和框架，用于导出代数数据类型的构造函数，模式匹配和态射.  （仅限GPL-3.0）
 - [Fugue](https://bitbucket.org/atlassian/fugue) -番石榴的功能扩展.
 - [Functional Java](http://www.functionaljava.org) -实现许多基本和高级编程抽象，以协助面向合成的开发.
@@ -389,7 +390,7 @@ _处理到超媒体类型的序列化的库.
 
 ### IDE
 
-_试图简化开发多个方面的集成开发环境.
+_Integrated development environments that try to simplify several aspects of development._
 
 - [Eclipse](https://www.eclipse.org) -建立了支持许多插件和语言的开源项目.
  -[IntelliJ IDEA！[c]]（https://www.jetbrains.com/idea/）-支持许多JVM语言，并为Android开发提供了不错的选择.  商业版针对企业部门.
@@ -485,7 +486,7 @@ _记录应用程序行为的库.
 _提供用于从数据中学习的特定统计算法的工具._
 
 - [Apache Flink](https://flink.apache.org) -快速，可靠的大规模数据处理引擎.
-- [Apache Mahout](https://mahout.apache.org) - Scalable algorithms focused on collaborative filtering, clustering and classification.
+- [Apache Mahout](https://mahout.apache.org) -专注于协作过滤，聚类和分类的可扩展算法.
 - [Apache Spark](https://spark.apache.org) -数据分析集群计算框架.
 - [DatumBox](http://www.datumbox.com) -提供几种用于自然语言处理的算法和预先训练的模型.
 - [DeepDive](http://deepdive.stanford.edu) -从非结构化数据创建结构化信息，并将其集成到现有数据库中.
@@ -513,7 +514,7 @@ _帮助客户端之间发送消息以确保协议独立性的工具._
 - [JeroMQ](https://github.com/zeromq/jeromq) -实施ZeroMQ.
 - [Nakadi](https://github.com/zalando/nakadi) -在Kafka之上提供RESTful API.
 - [RabbitMQ Java client](https://github.com/rabbitmq/rabbitmq-java-client) -RabbitMQ客户端.
-- [Smack](https://github.com/igniterealtime/Smack) - Cross-platform XMPP client library.
+- [Smack](https://github.com/igniterealtime/Smack) -跨平台XMPP客户端库.
 - [NATS client](https://github.com/nats-io/nats.java) -NATS客户.
 
 ### Microservice
@@ -547,7 +548,7 @@ _其他一切._
 - [JBot](https://github.com/rampatra/jbot)  -构建聊天机器人的框架.  （仅限GPL-3.0）
 - [JCuda](http://jcuda.org) -JCuda为CUDA和与CUDA相关的库提供Java绑定.
 - [Jimfs](https://github.com/google/jimfs) -内存文件系统.
-- [Joda-Money](https://www.joda.org/joda-money/) - Basic currency and money classes and algorithms not provided by the JDK.
+- [Joda-Money](https://www.joda.org/joda-money/) -JDK未提供的基本货币和货币类以及算法.
 - [JPad](http://jpad.io) -摘要跑步者.
 - [Maven Wrapper](https://github.com/takari/maven-wrapper) -用于Maven的Gradle Wrapper的类比，允许在不安装maven的情况下构建项目.
 - [Membrane Service Proxy](https://github.com/membrane/service-proxy) -开源的反向代理框架.
@@ -580,7 +581,7 @@ _监视生产中的应用程序的工具.
 - [Jaeger client](https://github.com/jaegertracing/jaeger-client-java) -Jaeger客户.
 - [jmxtrans](https://github.com/jmxtrans/jmxtrans)  -连接到多个JVM，并通过JMX查询它们的属性.  它的查询语言基于JSON，它允许非Java程序员访问JVM属性.  支持不同的输出写入，包括Graphite，Ganglia和StatsD.
 - [Jolokia](https://jolokia.org) -通过REST的JMX.
--[Kamon！[c]]（https://kamon.io）-用于监视在JVM上运行的应用程序的工具.
+- [Kamon ![c]](https://kamon.io) - Tool for monitoring applications running on the JVM.
 - [Metrics](https://github.com/dropwizard/metrics) -通过JMX或HTTP公开指标并将其发送到数据库.
 -[Datadog！[C]]（https://www.datadoghq.com）-现代监控和分析.
 - [nudge4j](https://github.com/lorenzoongithub/nudge4j) -Java 8浏览器通过字节码注入从远程开发者控制台.
@@ -724,7 +725,7 @@ _框架是包含多个类别的多个库的套件.
 - [JXPath](http://commons.apache.org/proper/commons-jxpath/) -使用XPath语法处理Java Bean的实用程序.
 - [Lang](http://commons.apache.org/proper/commons-lang/) -为java.lang中的类提供额外的功能.
 - [Logging](https://commons.apache.org/proper/commons-logging/) -各种日志API实现的包装器.
-- [Math](http://commons.apache.org/proper/commons-math/) -轻巧，独立的数学和统计组件.
+- [Math](http://commons.apache.org/proper/commons-math/) - Lightweight, self-contained mathematics and statistics components.
 - [Monitoring](http://commons.apache.org/sandbox/commons-monitoring/) -监视旨在为Java应用程序提供一个简单但可扩展的监视解决方案.
 - [Nabla](http://commons.apache.org/sandbox/commons-nabla/) -Nabla提供了自动区分类，可以生成以Java语言实现的任何功能的派生类.
 - [Net](http://commons.apache.org/proper/commons-net/) -网络实用程序和协议实现的集合.
@@ -781,7 +782,7 @@ _专门用于创建RESTful服务的框架.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -JBoss Netty HTTP堆栈上的精简包装，可提供扩展和性能.
 - [Restlet Framework](https://github.com/restlet/restlet-framework-java) -具有强大的路由和过滤功能以及统一的客户端和服务器API的开拓性框架.
 - [Spark](http://sparkjava.com) -Sinatra启发框架.
-- [Crnk](http://www.crnk.io) -实施JSON API规范，以构建具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
+- [Crnk](http://www.crnk.io) -实施JSON API规范，以建立具有排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等功能的面向资源的REST端点.
 - [springdoc-openapi](https://github.com/springdoc/springdoc-openapi) -使用Spring Boot项目自动生成API文档.
 - [Swagger](https://swagger.io) -REST API的标准，与语言无关的接口.
 
@@ -829,7 +830,7 @@ _处理安全性，身份验证，授权或会话管理的库.
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) -用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)  多平台高级密码库提供了易于使用的加密来保护敏感数据：具有前向保密性的安全消息传递，安全数据存储（AES256GCM）；  适用于构建端到端的加密应用程序.
 - [Tink](https://github.com/google/tink) -为常见的加密任务提供了一个简单且防误用的API.
-- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的密钥/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
+- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
 
 ### Serialization
 
