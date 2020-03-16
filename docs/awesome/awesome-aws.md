@@ -104,7 +104,7 @@ Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/mas
 ### Java SDK
 
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-java)
-* [Repo with Samples :fire:](https://github.com/awslabs/aws-java-sample)
+* [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-java-sample)
 * [Install](http://sdk-for-java.amazonwebservices.com/latest/aws-java-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-java/)
 * [Learn More](https://aws.amazon.com/sdk-for-java/)
@@ -879,7 +879,7 @@ AWS Repos：
 * [aws-hal-client-java](https://github.com/awslabs/aws-hal-client-java) -超文本应用程序语言的Java客户端.
 * [aws-model-validators](https://github.com/awslabs/aws-model-validators) -用于验证AWS服务JSON模型文件的工具.
 * [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) -示例跨平台视频转码器应用程序.
-* [simplebeerservice :fire::fire:](https://github.com/awslabs/simplebeerservice) -连接云的kegerator，将实时传感器数据流式传输到AWS.
+* [simplebeerservice :fire::fire:](https://github.com/awslabs/simplebeerservice) -与云连接的kegerator，可将实时传感器数据流式传输到AWS.
 
 社区回购：
 

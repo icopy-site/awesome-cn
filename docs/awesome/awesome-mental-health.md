@@ -15,7 +15,11 @@
 
  **精神健康**是**心理健康**或**没有精神疾病**的水平.  这是某人在令人满意的情绪和行为调节水平下工作的心理状态.
 
-**心理健康**包括主观幸福感，自我效能感，自主能力，能力，世代相依以及对智力和情感潜能的自我实现等.
+它包括主观幸福感，感知到的自我效能感，自主能力，能力，世代相依以及对一个人的智力和情感潜能的自我实现等.
+
+ &gt;此列表汇总了一些我们个人认为对解决一系列精神健康问题有用的自助资源，但这些资源绝不能替代专业帮助，心理治疗或药物治疗.  **我们不是专家**，即使我们曾经是专家，但其中大多数工具都是作为治疗的辅助手段，而不是替代手段.
+>
+&gt; **如果您遇到危机，请参阅 [here](https://twloha.com/find-help/international-resources/)， 要么 [here](https://www.iasp.info/resources/Crisis_Centres/) 获取您所在国家/地区的资源.**
 
 
 
@@ -97,7 +101,7 @@
 
 将精神健康意识带入软件行业的组织.
 
-* [Brown Sisters Speak](https://twitter.com/BrownSistersSpk) -对有色女性的心理健康同伴支持和宣传.
+* [Brown Sisters Speak](https://twitter.com/BrownSistersSpk) - Mental Health Peer Support & Advocacy for Women Of Color.
 * [Compassionate Coding](https://compassionatecoding.com) -富有同情心的编码结合了敏捷软件开发的有效实践，侧重于同理心和最新的积极组织心理.
 * [Everybody Has A Brain](http://everybodyhasabrain.com/) -每个人都有一个头脑，就是围绕个人心理健康创造对话机会.
 * [Hack Mental Health](https://www.hackmentalhealth.care) -心理健康与技术的交集.
@@ -111,7 +115,7 @@
 
 ## Podcasts
 
-Podcast episodes with «mental health awareness in the software industry» as the main theme.
+以“软件行业的心理健康意识”为主题的播客节目.
 
 * [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) -在欢乐门廊播客中，由April Wensel主持.
 * [Jerk Programmer To Compassionate Coder](http://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel) -到4月Wensel在“狂热发展”播客中.
@@ -156,19 +160,12 @@ Podcast episodes with «mental health awareness in the software industry» as th
 * [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) -Solome Tibebu.
 
 ## Contributing
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md)
 
-请参阅 [CONTRIBUTING](https://github.com/dreamingechoes/awesome-mental-health/blob/master/.github/CONTRIBUTING.md)  更多细节.  在这里，您可以按字母顺序 [list of contributors](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CONTRIBUTORS.md) 该存储库.
+请参阅 [CONTRIBUTING](https://github.com/dreamingechoes/awesome-mental-health/blob/master/.github/CONTRIBUTING.md)  有关如何为列表推荐很棒的资源或其他修改的更多详细信息.  您还可以找到按字母顺序排列的此存储库贡献者列表 [here](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CONTRIBUTORS.md).
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [dreamingechoes](https://github.com/dreamingechoes) 已放弃此作品的所有版权以及相关或邻近的权利.
+希望所有贡献者都遵守 [Code of Conduct](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md)  该项目.  （贡献者公约）
 
 ----------------------------
 
-该项目是由 [dreamingechoes](https://github.com/dreamingechoes).
-它坚持其 [code of conduct](https://github.com/dreamingechoes/awesome-mental-health/blob/master/./CODE_OF_CONDUCT.md) 和
-[contributing guidelines](https://github.com/dreamingechoes/awesome-mental-health/blob/master/.github/CONTRIBUTING.md)，并使用等效项 [license](https://github.com/dreamingechoes/awesome-mental-health/blob/master/./LICENSE).
-
-行为准则改编自 [Contributor Covenant](http://contributor-covenant.org/).
+该项目开始于 [dreamingechoes](https://github.com/dreamingechoes).

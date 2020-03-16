@@ -21,16 +21,16 @@
 ## Resources
 
 * [Latest Documentation](https://cmake.org/cmake/help/latest/)
-* [FAQ](https://cmake.org/Wiki/CMake_FAQ)
-* [Wiki](https://cmake.org/Wiki/CMake)
+* [FAQ](https://gitlab.kitware.com/cmake/community/-/wikis/FAQ)
+* [Wiki](https://gitlab.kitware.com/cmake/community/-/wikis/home)
 * [Webinars](https://cmake.org/webinars/)
 * [Web Book](https://github.com/ruslo/CGold) -CGold：旅行者 [Guide](https://cgold.readthedocs.io)  到CMake.  [```[BSD2]```] [BSD-2-Clause]
-* [Modern CMake](https://github.com/toeb/moderncmake) -现代CMake ** PDF **和示例的创建者 [cmakepp](https://github.com/toeb/cmakepp) ，  [```[W]```] [带]
+* [Modern CMake](https://github.com/toeb/moderncmake) -现代CMake ** PDF **和示例的创建者 [cmakepp](https://github.com/toeb/cmakepp) .  [```[MIT]```]] [MIT]
 * [Article](http://foonathan.net/blog/2016/03/03/cmake-install.html) -轻松支持CMake安装和find_package（）.
 * [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) -使用CMake和Git对C ++进行轻松的依赖管理.
 * [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) -使用CMake选择加入仅标头的库.
 * [Article](https://rix0r.nl/blog/2015/08/13/cmake-guide/) -现代CMake终极指南.
-* [Article](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) -常见的CMake反模式列表（从2013年开始，但仍然相关）.
+* [Article](https://web.archive.org/web/20190116071957/http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) -常见的CMake反模式列表（从2013年开始，但仍然相关）.
 * [Article](http://preshing.com/20170511/how-to-build-a-cmake-based-project/) -如何构建基于CMake的项目.
 * [Article](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/) -在15分钟内学习CMake的脚本语言.
 * [Article](http://aosabook.org/en/cmake.html) -CMake的体系结构.
@@ -79,12 +79,12 @@
 * [vfxcmake](https://github.com/nerdvegas/vfxcmake)  -通用vfx软件的CMake查找模块，以及通用CMake实用程序代码.  [```[LGPL]```] [LGPL]
 * [cmake-modules](https://github.com/jedbrown/cmake-modules)  -一些科学图书馆的CMake模块.  [```[BSD2]```] [BSD-2-Clause]
 * [cgcmake](https://github.com/chadmv/cgcmake)  -用于与计算机图形相关的常见应用程序的CMake模块.  [```[MIT]```] [MIT]
-* [FindMathematica](https://github.com/sakra/FindMathematica)  -Mathematica的CMake模块.  [```[W]```] [带]
+* [FindMathematica](https://github.com/sakra/FindMathematica)  -Mathematica的CMake模块.  [```[MIT]```]] [MIT]
 * [extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - [KDE](https://github.com/KDE) 的CMake额外模块和脚本.  [```[BSD3]```] [BSD-3-Clause]
 * [FindICU.cmake](https://github.com/julp/FindICU.cmake)  -CMake模块以查找Unicode国际组件（ICU）库.  [```[BSD2]```] [BSD-2-Clause]
 * [FindTBB](https://github.com/justusc/FindTBB)  -用于英特尔线程构建模块的CMake查找模块.  [```[MIT]```] [MIT]
 * [FindWiX](https://github.com/apriorit/FindWiX) -用于建筑的CMake模块 [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) 与包装 [WiX toolset](http://wixtoolset.org) .  [```[BSD3]``&#39;] [BSD-3-条款]
-* [FindIDL](https://github.com/apriorit/FindIDL) -用于建筑的CMake模块 [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) MIDL文件并使用生成CLR DLL [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer) ，  [```[W]```] [带]
+* [FindIDL](https://github.com/apriorit/FindIDL) -用于建筑的CMake模块 [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) MIDL文件并使用生成CLR DLL [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer) .  [```[MIT]```]] [MIT]
 * [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei) 的CMake模块集合.  [```[MIT]```] [MIT]
 * [YCM](https://github.com/robotology/ycm) -额外的CMake模块 [Yet Another Robot Platform](https://github.com/robotology/yarp)  和朋友.  [```[BSD3]```] [BSD-3-Clause]
 * [CMakeCM](https://github.com/AnotherFoxGuy/CMakeCM)  -CMake社区模块.  ```[无许可证]```
@@ -161,7 +161,7 @@
 * [cpp-boilerplate](https://github.com/Lectem/cpp-boilerplate)  -旨在成为现代CMake和CI参考的模板.  [```[MIT]```] [MIT]
 * [ci_helloworld](https://github.com/ainfosec/ci_helloworld)  -一个简单的示例，说明如何为C和C ++设置完整的CI环境.  [```[MIT]```] [MIT]
 * [how-to-export-cpp-library](https://github.com/robotology/how-to-export-cpp-library)  -一个与操作系统无关的模板项目，用于导出共享的，静态的或仅标头的C ++库，支持ctest和CI，均以纯CMake编写并带有逐行教程注释.  [```[MIT]```] [MIT]
-* [ModernCppCI](https://github.com/LearningByExample/ModernCppCI)  -使用CI进行现代C ++项目的示例（尽管它使用了诸如```include_directories（）```之类的非现代CMake）.  [```[MIT]```] [MIT]
+* [ModernCppCI](https://github.com/LearningByExample/ModernCppCI)  -使用CI进行现代C ++项目的示例（尽管它使用了诸如```include_directories（）``之类的非现代CMake）.  [```[MIT]```] [MIT]
 * [modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample)  -使用目标的最佳做法和CMake的正确用法.  ```[无许可证]```
 * [CMakeInstallExample](https://github.com/DeveloperPaul123/CMakeInstallExample)  -使用Cmake的C ++项目（Windows）的安装示例.  ```[无许可证]```
 * [cpp14-project-template](https://github.com/arnavb/cpp14-project-template)  -具有CI，测试，代码覆盖率，文档和静态分析集成的C ++ 14模板.  [```[CC0-1.0]```] [CC0-1.0]

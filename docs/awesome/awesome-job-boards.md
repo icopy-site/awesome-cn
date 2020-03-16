@@ -19,7 +19,7 @@
 
 ## Customer Support
 
-* [Support Driven Jobs](http://jobs.supportdriven.com/)
+* [Support Driven Jobs](https://jobs.supportdriven.com/)
 
 ## Design
 
@@ -46,10 +46,6 @@
 * [NinjaJobs](https://ninjajobs.org/) -由InfoSec专业人员开发的社区运行的工作平台
 * [infosec-jobs.com](https://infosec-jobs.com/) -一个新鲜而精益的InfoSec工作委员会
 
-## Machine Learning
-
-* [ML Jobs List](https://mljobslist.com/jobs/) -机器学习工作清单是机器学习社区，用于查找和发布工作！ 
-
 ## Programming
 
 ### Elixir
@@ -73,7 +69,7 @@
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
-* [Golang Cafe](https://golang.cafe)
+* [Golang Developer Jobs](https://golangjob.xyz)
 
 ### JavaScript
 
@@ -84,6 +80,7 @@
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
+* [Svelte Jobs](https://sveltejobs.dev/)
 
 ### Perl
 
@@ -100,6 +97,7 @@
 
 * [Python Job Board](https://www.python.org/jobs/)
 * [Django Jobs](https://djangojobs.net/jobs/)
+* [Python Developer Jobs](https://pythonjob.xyz)
 
 ### Ruby
 
@@ -144,7 +142,6 @@
 
 ### Europe
 
-* [careerin.tech](https://careerin.tech) -柏林科技和IT世界的工作委员会和公司列表
 * [SwissDev Jobs](https://swissdevjobs.ch/) -想要在瑞士工作的欧盟软件开发人员的工作
 
 ### United Kingdom

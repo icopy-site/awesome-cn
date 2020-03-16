@@ -159,14 +159,15 @@ Markdown格式的笔记，具有基于标签的组织功能.
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) -由 [Nick Babich](https://www.smashingmagazine.com/author/nickbabich).
 - [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) -由 [Marty Cagan](https://svpg.com/author/marty/).
 - [The dark side of expertise](https://lwn.net/Articles/809556/) -杰克·埃奇（Jake Edge）.
+- [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) -由概念团队.
 
 ## Books
 
 - [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) -由Chip Heath和Dan Heath撰写.
 - [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) -由Chip Heath和Dan Heath撰写.
-- [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) -史蒂夫·布兰克和鲍勃·多夫.
-- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) -作者：亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
-- [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) -作者：亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
+- [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) -史蒂夫·布兰克（Steve Blank）和鲍勃·多夫（Bob Dorf）.
+- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) -亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
+- [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) -亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
 - [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) -埃里克·里斯（Eric Ries）.
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) -Ben Horowitz.
 - [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) -史蒂夫·布兰克（Steve Blank）.
@@ -202,7 +203,7 @@ Markdown格式的笔记，具有基于标签的组织功能.
 ## Conferences
 
 - [Industry](https://industryconference.com/)  -在三天的时间里，与会人员将从著名的产品负责人那里学习，并分享他们用于构建，发布和扩展世界一流软件产品的最新方法，工具和框架.  打造世界一流的软件产品非常困难.  在INDUSTRY中，您将看到其他人如何在不同的环境中管理产品，从快节奏的初创企业到复杂的大型企业.
-- [ProductCon](https://www.productschool.com/productcon/)  -ProductCon由Product School主办，每年举行五次，在旧金山，洛杉矶，纽约，西雅图和伦敦举行.  演讲者阵容包括来自Google，Slack，亚马逊，Airbnb，Netflix，Facebook等的产品领导者.  您将学习最成功产品背后的最佳实践，以及AI，VR，IoT和区块链的新趋势.  您还将有机会与我们所有对招募PM感兴趣的赞助公司进行互动.
+- [ProductCon](https://www.productschool.com/productcon/)  -ProductCon由Product School主办，每年举行五次，在旧金山，洛杉矶，纽约，西雅图和伦敦举行.  演讲者阵容包括来自Google，Slack，亚马逊，Airbnb，Netflix，Facebook等的产品领导者.  您将学习最成功产品背后的最佳实践，以及AI，VR，IoT和区块链的新趋势.  您还将有机会与我们所有对招募PM感兴趣的赞助商公司进行互动.
 
 ## Additional resources
 

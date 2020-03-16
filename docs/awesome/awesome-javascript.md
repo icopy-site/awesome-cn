@@ -5,7 +5,7 @@
 很棒的浏览器端集合 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 图书馆，资源和闪亮的东西.
 
   *公用事业
-  *用户界面
+  *洋葱
 
 ----
 
@@ -120,7 +120,7 @@
 * [svelte](https://github.com/sveltejs/svelte)  -Svelte是构建Web应用程序的新方法.  它是一个编译器，可使用您的声明性组件并将其转换为可通过外科方式更新DOM的高效JavaScript.
 * [knockout](https://github.com/knockout/knockout) -淘汰赛可让您更轻松地使用JavaScript创建丰富的响应式UI.
 * [spine](https://github.com/spine/spine) -用于构建JavaScript应用程序的轻量级MVC库.
-* [espresso.js](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
+* [espresso.js](https://github.com/techlayer/espresso.js) -用于制作用户界面的最小JavaScript库.
 * [canjs](https://github.com/canjs/canjs) -可以做JS，更好，更快，更容易.
 * [react](https://facebook.github.io/react/)  -用于构建用户界面的库.  它是声明性，高效且极其灵活的.  与虚拟DOM一起使用.
 * [hyperapp](https://github.com/hyperapp/hyperapp) -用于构建前端应用程序的1kb JavaScript库.
@@ -142,6 +142,7 @@
 * [feathers](https://github.com/feathersjs/feathers) -适用于未来应用程序的极简实时JavaScript框架.
 * [Keo](https://github.com/Wildhoney/Keo) -具有Shadow DOM支持的功能性无状态React组件.
 * [atvjs](https://github.com/emadalam/atvjs) -使用纯JavaScript快速开发Apple TV应用程序.
+* [makefun](https://www.npmjs.com/package/makefun) -使用承诺值，因为它们被满足，否则等待承诺
 
 ## Node-Powered CMS Frameworks
 
@@ -218,7 +219,7 @@
 * [c3](https://github.com/c3js/c3) -基于D3的可重用图表库.
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) -使用HTML 5和WebGL构建3D游戏的框架.
 * [recharts](https://github.com/recharts/recharts) -使用React和D3构建的重新定义的图表库.
-* [GraphicsJS](https://www.graphicsjs.org) -基于SVG / VML技术的具有直观API的轻量级JavaScript图形库.
+* [GraphicsJS](https://www.graphicsjs.org) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 * [mxGraph](https://github.com/jgraph/mxgraph) -图表库，可快速创建交互式图形和图表应用程序，该应用程序可在其供应商支持的任何主要浏览器中本地运行.
 
 还有一些很棒的商业图书馆，例如 [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/)和 [highchart](http://www.highcharts.com/).
@@ -266,7 +267,7 @@
 * [docco](http://jashkenas.github.io/docco/) 是一个快速且肮脏的，长达一百行的，具有文化编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn)  建立手册.  它将简单的人类可读文本文件转换为roff以进行终端显示，还转换为HTML以进行网络显示.
-* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为文档生成确定的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
+* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成自以为是的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
@@ -508,7 +509,7 @@
 * [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) -旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) -为页面上的每个对象创建和管理进度栏.
-* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且响应迅速的进度栏.
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且反应灵敏的进度条.
 * [pace](https://github.com/HubSpot/pace) -自动将进度条添加到您的网站.
 * [topbar](https://github.com/buunguyen/topbar) -微小而美观的站点范围进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)  -非常轻量级的进度条.  没有jQuery.
@@ -549,7 +550,7 @@
 * [tourist](https://github.com/easelinc/tourist) -为您的应用提供简单灵活的导览.
 * [chardin.js](https://github.com/heelhook/chardin.js) -适用于您的应用程序的简单叠加说明.
 * [pageguide](https://github.com/tracelytics/pageguide) -使用jQuery和CSS3的网页元素的交互式指南.
-* [hopscotch](https://github.com/linkedin/hopscotch) -一个框架，使开发人员可以轻松地向其页面添加产品浏览.
+* [hopscotch](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 * [joyride](https://github.com/zurb/joyride) -jQuery功能导览插件.
 * [focusable](https://github.com/zzarcon/focusable) -将焦点放在DOM元素上，从而在页面的其余部分添加一个叠加层.
 * [driver.js](https://github.com/kamranahmedse/driver.js) -强大而轻巧的原始JavaScript引擎，可在页面上吸引用户的注意力
@@ -644,7 +645,7 @@
 * [Countable](https://github.com/RadLikeWhoa/Countable) -一个JavaScript函数，可将实时的段落，单词和字符计数添加到HTML元素.
 * [card](https://github.com/jessepollak/card) -只需一行代码即可使您的信用卡表格更好.
 * [stretchy](https://github.com/LeaVerou/stretchy) -表单元素自动调整大小，应采用的方式.
-* [analytics](https://github.com/davidwells/analytics) -轻巧，可扩展的分析库，旨在与任何第三方分析提供商一起使用，以跟踪页面浏览量，自定义事件和识别用户.
+* [analytics](https://github.com/davidwells/analytics) -轻巧，可扩展的分析库，旨在与任何第三方分析提供商一起使用，以跟踪页面浏览，自定义事件并识别用户.
 
 
 ## Tips
@@ -716,12 +717,13 @@
 * [w2ui](http://w2ui.com/) -一组jQuery插件，用于数据驱动的Web应用程序的前端开发.
 * [fluidity](https://github.com/mrmrs/fluidity) -世界上最小的全响应式CSS框架.
 * [Ink](https://github.com/sapo/Ink) -SAPO使用的HTML5 / CSS3框架，用于快速，高效的网站设计和原型制作.
+* [DataFormsJS](https://github.com/dataformsjs/dataformsjs) -用于站点和SPA的快速开发的最小JavaScript框架和独立组件.
 
 ## Boilerplates
 
  * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) -专业的前端模板，用于构建快速，健壮和适应性强的Web应用程序或网站.
  * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) -前端模板，可帮助您构建快速，现代的移动Web应用程序.
- * [webplate](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
+ * [webplate](https://github.com/chrishumboldt/webplate) -出色的前端框架，可让您专注于构建网站或应用程序，同时保持真正的易用性.
  * [Cerberus](https://github.com/TedGoas/Cerberus)  -响应HTML电子邮件的一些简单但可靠的模式.  即使在Outlook中.
  * [full-page-intro-and-navigation](https://github.com/CodyHouse/full-page-intro-and-navigation) -简介页面，具有全角背景图片，大胆的动画菜单和导航后的类似iOS的模糊效果.
  * [Fluid-Squares](https://github.com/crozynski/Fluid-Squares) -正方形单位的流体网格.
@@ -762,6 +764,7 @@
  * [Ion.Sound](https://github.com/IonDen/ion.sound) -在任何网页上都发出简单的声音.
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) -允许用户在您的网站上拍摄头像图片的小部件.
  * [clappr](https://github.com/clappr/clappr) -Web http://clappr.io的可扩展媒体播放器
+ * [exifr](https://github.com/MikeKovarik/exifr)  -最快，最通用的EXIF阅读库.  https://mutiny.cz/exifr/
 
 ## Typography
 
@@ -822,7 +825,7 @@
 ## SDK
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) -从工作和个人经验中提取的JavaScript SDK设计指南
-* [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
+* [Spotify SDK](https://github.com/loverajoel/spotify-sdk) -面向实体的SDK，可与Spotify Web API一起使用.
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) -用于付款和其他Square API的JavaScript客户端库.
 
 
@@ -836,7 +839,7 @@
 * [BitSet.js](https://github.com/infusion/BitSet.js) -JavaScript位向量实现
 * [spoiler-alert](https://github.com/joshbuddy/spoiler-alert)  -警惕！  一个快乐的小jquery插件，用于在您的网站上隐藏剧透.
 * [jquery.vibrate.js](https://github.com/illyism/jquery.vibrate.js) -振动API包装器
-* [list.js](https://github.com/javve/list.js)  -为表格，列表和各种HTML元素增加了搜索，排序，过滤器和灵活性.  构建为不可见并可以在现有HTML上运行.
+* [list.js](https://github.com/javve/list.js) - Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) -MixItUp-筛选和排序插件.
 * [grid](https://github.com/hootsuite/grid) -用于二维，可调整大小和响应式列表的拖放库.
@@ -846,6 +849,7 @@ http://www.listjs.com
 * [Clipboard.js](https://clipboardjs.com/) -不使用Flash或使用Framework的“复制到剪贴板”.
 * [ky](https://github.com/sindresorhus/ky) -基于浏览器Fetch API的小巧优雅的HTTP客户端.
 * [Fcal](https://github.com/5anthosh/fcal) -数学表达式评估器
+* [emoji-button](https://github.com/joeattardi/emoji-button) -香草JavaScript表情符号选择器组件
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) -有关JavaScript和Web平台的实时视频广播播客.

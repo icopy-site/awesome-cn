@@ -60,6 +60,7 @@
 1. [David Nolen: **Immutability: Putting The Dream Machine To Work**](https://www.youtube.com/watch?v=SiFwRtCnxv4) [22:05]
 1. [Pete Hunt: **OSCON 2014: How Instagram.com Works**](https://www.youtube.com/watch?v=VkTCL6Nqm6Y) [40:18]
 1. [Philip Roberts: **JSConf EU: What the heck is the event loop anyway?**](https://www.youtube.com/watch?v=8aGhZQkoFbQ) [26:52]
+1. [Mark Stuart: **Paypal: Web Security in Node.js and Javascript Apps (SPAs)**](http://youtu.be/vE5kCqwoSUg) [29:11]
 
 ## 2013
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
@@ -79,7 +80,7 @@
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
-1. Addy Osmani：扩展您的JavaScript应用程序**
+1. Addy Osmani：**扩展JavaScript应用程序**
 	* [Part 1](https://youtu.be/2g8AceFb0is) [22:37]
 	* [Part 2](https://youtu.be/AlJdI6yNo4U) [15:41]
 	* [Part 3](https://youtu.be/LZK-ObWu_5I) [33:31]

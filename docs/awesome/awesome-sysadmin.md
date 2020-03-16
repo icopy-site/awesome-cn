@@ -164,7 +164,7 @@
 
 - [Buildbot](http://buildbot.net/)  -基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)) `GPL-2.0` `Python`
 - [CapsuleCD](https://analogj.github.io/capsulecd-slides/)  -CD脚本，用于自动执行软件包/库的发布（npm，菜谱，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）MIT``去
-- [Concourse](https://concourse.ci/)  -Concourse是一种CI工具，可将管道视为一流的对象，并沿途对每个步骤进行容器化.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）Apache-2.0`Go`
+- [Concourse](https://concourse-ci.org/)  -Concourse是一种CI工具，可将管道视为一流的对象，并沿途对每个步骤进行容器化.  （[Demo](https://ci.concourse-ci.org/), [Source Code](https://github.com/concourse/concourse)）Apache-2.0`Go`
 - [drone](https://drone.io/)  -Drone是一个用Go语言编写的基于Docker的持续交付平台.  （[Source Code](https://github.com/drone/drone)）Apache-2.0`Go`
 - [Factor](http://www.factor.io/)  -以编程方式定义和运行工作流程，以连接配置管理，源代码管理，构建，持续集成，持续部署和通信工具.  （[Source Code](https://github.com/factor-io/factor)``MIT&#39;&#39;红宝石
 - [GitLab CI](https://about.gitlab.com/gitlab-ci/)  -Gitlab的内置功能齐全的CI / CD解决方案.  （[Source Code](https://gitlab.com/gitlab-org/gitlab-ce) MIT Ruby红宝石
@@ -315,7 +315,7 @@
 * IT资产管理软件.*
 
 * [GLPI](https://www.glpi-project.org/) -带有附加管理界面的信息资源管理器.
-* [OCS Inventory NG](http://www.ocsinventory-ng.org/en/) -使用户能够盘点其IT资产.
+* [OCS Inventory NG](https://ocsinventory-ng.org/?lang=en) -使用户能够盘点其IT资产.
 * [OPSI](http://www.opsi.org) -Linux和Windows的硬件和软件清单，部署和修补.
 * [RackTables](http://racktables.org/) -数据中心和服务器机房资产管理，例如文档硬件资产，网络地址，机架空间，网络配置.
 * [Ralph](https://github.com/allegro/ralph) -适用于大型数据中心以及小型局域网的资产管理，DCIM和CMDB系统.
@@ -328,7 +328,7 @@
 * [Elasticsearch](https://www.elastic.co/) -基于Lucene的文档存储，主要用于日志索引，存储和分析.
 * [Fluentd](http://www.fluentd.org/) -日志收集器和托运人.
 * [Flume](https://flume.apache.org/) -分布式日志收集和汇总系统.
-* [GoAccess](http://goaccess.io/)  -在终端中或通过浏览器运行的实时Web日志分析器和交互式查看器.  （[Source Code](https://github.com/allinurl/goaccess)）MIT C
+* [GoAccess](http://goaccess.io/)  -在终端中或通过浏览器运行的实时Web日志分析器和交互式查看器.  （[Source Code](https://github.com/allinurl/goaccess)）`MIT`` C`
 * [Graylog](https://www.graylog.org/) -具有警报选项的可插拔日志和事件分析服务器.
 * [Hindsight](http://mozilla-services.github.io/hindsight/) -可以用于日志聚合的流处理系统（替换Heka）.
 * [Kibana](https://www.elastic.co/products/kibana) -可视化日志和带时间戳的数据.
@@ -363,7 +363,7 @@
 * [eZ Server Monitor](http://www.ezservermonitor.com) -适用于Linux的轻巧简单的仪表板监视器，可在Web和Bash应用程序中使用.
 * [Flapjack](http://flapjack.io/) -监视通知路由和事件处理系统.
 * [Healthchecks](https://healthchecks.io/) -监视cron作业，后台服务和计划任务.
-* [Icinga](https://www.icinga.org/)  -Nagios前叉，此后已将Nagios研磨了几次.  带有集群监视的可能性-（[Source Code](https://github.com/Icinga)）-`GPLv2`
+* [Icinga](https://www.icinga.org/)  -Nagios前叉，此后已将Nagios研磨了好几次.  带有集群监视的可能性-（[Source Code](https://github.com/Icinga)）-`GPLv2`
 * [LibreNMS](http://www.librenms.org) -功能齐全的网络监控系统，可提供丰富的功能和设备支持.
 * [Monit](http://mmonit.com/monit/#home) -用于管理和监视Unix系统的小型实用程序.
 * [Munin](http://munin-monitoring.org/) -网络资源监控工具.
@@ -507,7 +507,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [Tiger VNC](http://tigervnc.org/) -TigerVNC是VNC（虚拟网络计算）的高性能，与平台无关的实现，该客户端/服务器应用程序允许用户启动远程计算机上的图形应用程序并与之交互.
 * [Remmina](http://www.remmina.org/wp/) -适用于Linux和其他Unix的功能丰富的远程桌面应用程序.
 * [X2go](http://wiki.x2go.org/doku.php) -X2Go是使用NX技术协议的Linux开源远程桌面软件.
-* [rdpwrap](https://github.com/stascorp/rdpwrap) -RDP包装器库，可在功能简化的系统上支持远程桌面主机和并发RDP会话，以供家庭使用.
+* [rdpwrap](https://github.com/stascorp/rdpwrap) -RDP包装器库，可在功能简化的系统上支持远程桌面主机和并发RDP会话以供家庭使用.
 
 ## Service Discovery
 
@@ -631,7 +631,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) -DevOps技术如何解决IT组织中发生的问题.
 * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) -第一版和第二版描述了独立于特定平台或技术的系统和网络管理的最佳实践.
 * [The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps](http://www.itpi.org/the-visible-ops-handbook-review.html) -是一种旨在快速实施控制措施和流程改进的方法.
-* UNIX和Linux系统管理手册（ISBN-13：978-0131480056）-从实用的角度进行系统管理.
+* UNIX和Linux系统管理手册（ISBN-13：978-0131480056）-从实际角度进行系统管理.
 
 ## Communities / Forums
 
