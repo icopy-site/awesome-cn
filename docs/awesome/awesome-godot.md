@@ -132,7 +132,7 @@
 - [gdstats](https://github.com/droxpopuli/gdstats) -通用统计分布的伪随机数生成器库（Godot 3.0）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) -与GitHub交互，而无需打开浏览器（Godot 3.1）.
-- [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd（Godot 3.1）在Godot中进行快速3D碰撞检查.
+- [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd（Godot 3.2，3.1）在Godot中进行快速3D碰撞检查.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) -绕行/绕行人群库的GDNative实现（Godot 3.2）.
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -Phoenix框架（Godot 3.1）的Channels API的GDScript和Godot引擎实现.
 - [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) -用几个节点和几行代码制作程序声音和自适​​应/程序音乐（Godot 3.1）.
@@ -170,9 +170,9 @@
 
 ## Godot script editor syntax themes
 
-*Alternative themes for the built-in script editor.*
+*内置脚本编辑器的替代主题.*
 
-- [base16-godot](https://github.com/Calinou/base16-godot) -全部 [base16](https://github.com/chriskempson/base16) 主题.
+- [base16-godot](https://github.com/Calinou/base16-godot) - All [base16](https://github.com/chriskempson/base16) 主题.
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) -切斯特，Google Code Light和Monokai.
 - [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) -13个语法主题，包括Ayu Mirage，Darcula，Gruvbox Dark，Monokai，One Dark，Solarized等.
 

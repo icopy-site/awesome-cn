@@ -132,7 +132,7 @@
 -  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
 -  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
 -  [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) -Tailwind CSS的调色板生成器（在线）.
--  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带有PurgeCSS和现代CSS的NuxtJS的Tailwind CSS模块（预设环境1）.
+-  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带PurgeCSS和现代CSS（预设环境1）的NuxtJS的Tailwind CSS模块.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) -将Tailwind CSS模块添加为PostCSS插件，并在生产中为PreactJS CLI项目设置PurgeCSS.
 
  |  表情符号|  描述
@@ -188,6 +188,8 @@
 - [Statusfy](https://github.com/bazzite/statusfy) -使用Tailwind CSS的状态页面系统.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) -使用Tailwind CSS的待办事项列表应用程序.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) -英雄联盟玩家的统计网站.
++ [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) -使用Svelte＆Tailwind CSS的电子商务店面.
++ [Misiki Books](https://github.com/itswadesh/misiki-books) -使用Vue + Moltin + Tailwind CSS的书店.
 
 ### Learning
 
@@ -302,6 +304,7 @@
 - [UptimeMate](https://uptimemate.com/)
 - [myDID](https://mydid.dev)
 - [Home Away From Home](https://homeawayfromhome.online)
+- [Litekart](https://www.litekart.in)
 - [NuxtJS Documentation](https://nuxtjs.org)
 
 ## Contribute

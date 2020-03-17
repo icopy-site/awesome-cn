@@ -12,7 +12,7 @@
 
  |  iOS应用|  很棒  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1028 |  2020年3月12日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1029 |  2020年3月16日
 
 
 
@@ -90,7 +90,7 @@
 
 ## Converters
 
-* [Swiftify](https://objectivec2swift.com) - Objective-C to Swift online code converter and Xcode extension.
+* [Swiftify](https://objectivec2swift.com) -Objective-C至Swift的在线代码转换器和Xcode扩展.
 * [Zolang](https://github.com/Zolang/Zolang) ：penguin：-用于生成多种编程语言代码的DSL
 
 ## Other Awesome Lists
@@ -113,7 +113,7 @@
 * [App Architecture](https://github.com/objcio/app-architecture) -App Architecture Book的示例代码.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) -使用RxSwift的iOS应用程序清洁架构示例.
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) -设计模式.
-* [Reactant](https://github.com/Brightify/Reactant) -Reactant是iOS的反应式架构.
+* [Reactant](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
 * [Viperit](https://github.com/ferranabello/Viperit) -iOS版Viper框架.
 
 ## Misc
@@ -561,7 +561,7 @@
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) -通过提供一个简单的可自定义适配器来帮助您拥有“ NSNotificationCenter”.
 * [Observable](https://github.com/roberthein/Observable) -观察值的最简单方法.
 * [OpenCombine](https://github.com/broadwaylamb/OpenCombine) -Apple的Combine框架的开源实现，用于随着时间的推移处理值.
-* [PMKVObserver](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
+* [PMKVObserver](https://github.com/postmates/PMKVObserver/) -现代的线程安全和类型安全键值观察.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) -异步诺言编程库.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)  -ReactiveCocoa（RAC）是受功能性反应式编程启发的Cocoa框架.  它提供了用于随时间组成和转换值流的API.
 * [ReactorKit](https://github.com/ReactorKit/ReactorKit) -反应式和单向应用程序架构的框架.
@@ -574,7 +574,7 @@
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) -受Redux和MVVM启发的整体iOS开发方法.
 * [Tokamak](https://github.com/MaxDesiatov/Tokamak) -类似React的声明性API，用于通过易于使用的单向数据绑定构建本机UI组件.
 * [Tomorrowland](https://github.com/lilyball/Tomorrowland) -轻量级的承诺.
-* [TopicEventBus](https://github.com/mcmatan/topicEventBus) - Publish–subscribe design pattern implementation framework, with ability to publish events by topic.
+* [TopicEventBus](https://github.com/mcmatan/topicEventBus) -发布-订阅设计模式实现框架，能够按主题发布事件.
 * [VueFlux](https://github.com/ra1028/VueFlux) -单向数据流状态管理体系结构-受Vuex和Flux的启发.
 * [When](https://github.com/vadymmarkov/When) -Promises的轻量级实现.
 
@@ -701,7 +701,7 @@
 * [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) -一个UIImage扩展，可生成基于字母的头像.
 * [Lightbox](https://github.com/hyperoslo/Lightbox) -适用于iOS应用的便捷易用的图片查看器.
 * [MapleBacon](https://github.com/JanGorman/MapleBacon) -图片下载和缓存库.
-* [MCScratchImageView](https://github.com/Minecodecraft/MCScratchImageView) -自定义ImageView，用于覆盖刮刮卡等其他视图的表面，用户可以滑动覆盖膜以查看下面的视图.
+* [MCScratchImageView](https://github.com/Minecodecraft/MCScratchImageView) -用于覆盖其他视图（如刮刮卡）表面的自定义ImageView，用户可以滑动覆盖膜以查看下面的视图.
 * [Moa](https://github.com/evgenyneu/moa) -适用于iOS，tvOS和macOS的图像视图的图像下载扩展.
 * [Nuke](https://github.com/kean/Nuke) -用于加载，缓存，处理，显示和预热图像的高级框架.
 * [PassportScanner](https://github.com/evermeer/PassportScanner) -扫描护照的MRZ码，并提取名字，姓氏，护照号码，国籍，出生日期，有效期和个人号码.
@@ -761,7 +761,7 @@
 * [Cartography](https://github.com/robb/Cartography) -项目的声明式自动布局库.
 * [Cassowary](https://github.com/tribalworldwidelondon/CassowarySwift) -线性约束求解库，使用与AutoLayout相同的算法.
 * [Cupcake](https://github.com/nerdycat/Cupcake) -为iOS创建和布局UI组件的简便方法.
-* [DeviceLayout](https://github.com/cruisediary/DeviceLayout) - AutoLayout can be set differently for each device.
+* [DeviceLayout](https://github.com/cruisediary/DeviceLayout) -可以为每个设备设置不同的自动版式.
 * [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) -自动布局变得容易.
 * [EZLayout](https://github.com/alexliubj/EZAnchor) -一种更简单，更快捷的自动布局编码方式.
 * [KVConstraintKit](https://github.com/keshavvishwkarma/KVConstraintKit) -适用于iOS，tvOS和OSX的令人印象深刻的自动布局DSL.
@@ -841,7 +841,7 @@
 * [Alamofire](https://github.com/Alamofire/Alamofire) ：penguin：-优雅的网络.
 * [APIKit](https://github.com/ishkawa/APIKit) -用于构建类型安全的Web API客户端的库.
 * [Ciao](https://github.com/AlTavares/Ciao) -使用mDNS（Bonjour，Zeroconf）发布和发现服务.
-* [CodyFire](https://github.com/MihaelIsaev/CodyFire)  -强大的Codable API要求iOS的构建者和管理者.  基于Alamofire.
+* [CodyFire](https://github.com/MihaelIsaev/CodyFire)  -强大的可编码API要求iOS的构建者和管理者.  基于Alamofire.
 * [Conduit](https://github.com/mindbody/Conduit) -强大的网络API网络.
 * [Connectivity](https://github.com/rwbutler/Connectivity) -通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠.
 * [Dots](https://github.com/iAmrSalman/Dots) -轻量级并发网络框架.
@@ -981,8 +981,8 @@
 ### Streaming
 [back to top](#readme) 
 
-* [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
-* [Live](https://github.com/ltebean/Live) -演示如何构建直播应用.
+* [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) -通过RTMP，适用于iOS的HLS，macOS，tvOS的摄像头和麦克风流媒体库.
+* [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 
 ### Styling
 [back to top](#readme) 
@@ -1045,7 +1045,7 @@
 * [Parsey](https://github.com/rxwei/Parsey) -解析器组合器框架，支持源位置跟踪，防止回溯和丰富的错误消息.
 * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) -大字符串复数扩展.
 * [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) -PredicateFlow是一个生成器，可让您编写出色，强类型且易于阅读的NSPredicate.
-* [PrediKit](https://github.com/KrakenDev/PrediKit) -受SnapKit启发的用于iOS和OS X的NSPredicate DSL.
+* [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS & OS X inspired by SnapKit.
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) -以Pythonic方式轻松处理Regex.
 * [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex)  ：penguin：-具有丰富功能的正则表达式库非常易于使用.  同时具有运算符`=〜`和基于方法的API.  涵盖了单元测试.
 * [RichEditorView](https://github.com/cjwirth/RichEditorView) -RichEditorView是用于RTF编辑的简单，模块化，嵌入式UIView子类.
@@ -1118,7 +1118,7 @@
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) -一个UINavigationController子类，该子类支持带有隐藏或显示的弹出交互式UINavigationBar.
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) -嵌入式通用库可帮助您管理导航栏样式，并在为所有方向推动或弹出视图控制器时使过渡动画在不同导航栏样式之间变得平滑.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) -一个UITextView子类，它添加了对多行占位符的支持.
-* [LeeGo](https://github.com/wangshengjia/LeeGo) -以制作乐高积木的方式进行声明式，可配置和高度可重用的UI开发.
+* [LeeGo](https://github.com/wangshengjia/LeeGo) -制作乐高积木，进行声明式，可配置和高度可重用的UI开发.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) -一个命令行工具，可自动生成所有依赖项的Plist.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) -带液体动画的微调加载程序组件.
 * [LoadingShimmer](https://github.com/jogendra/LoadingShimmer)  -一种仅需一行代码即可向任何视图添加闪烁效果的简便方法.  用作不干扰输入的指示器.
@@ -1176,7 +1176,7 @@
 * [Alertift](https://github.com/sgr-ksmt/Alertift) -现代，简单的UIAlertController包装器.
 * [Alerts Pickers](https://github.com/dillidon/alerts-and-pickers) -UIAlertController与TextField，DatePicker，PickerView，TableView和CollectionView的高级用法.
 * [ALRT](https://github.com/mshrwtnb/alrt)  -UIAlertController的简单构造函数.  随时随地发出警报.
-* [AwaitToast](https://github.com/k-lpmg/AwaitToast)  -带有基本吐司的异步等待吐司.  受Facebook发布烤面包的启发.
+* [AwaitToast](https://github.com/k-lpmg/AwaitToast) - 🍞 An async waiting toast with basic toast. Inspired by facebook posting toast.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) -高度可定制的警报/通知/成功/错误/警报弹出窗口.
 * [CFNotify](https://github.com/JT501/CFNotify) -可定制的框架，用于创建可拖动的警报视图.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) -简单的UIAlertController.
@@ -1249,6 +1249,7 @@
 * [Carbon](https://github.com/ra1028/Carbon) -声明性库，用于在UITableView和UICollectionView中构建基于组件的用户界面.
 * [Eureka](https://github.com/xmartlabs/Eureka) -优雅的iOS表单生成器.
 * [Former](https://github.com/ra1028/Former) -完全可自定义的库，可轻松创建基于UITableView的表单.
+* [ObjectForm](https://github.com/haojianzong/ObjectForm) -一个简单但功能强大的库，用于为您的类模型构建表单.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) -表格现在很容易成为1-2-3.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) -可以验证的表格.
 
@@ -1268,7 +1269,7 @@
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) -包含内置标题/标签的文本输入控件，因此您不必为每个字段添加单独的标题.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) -修复iOS的UILabel.
 * [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) -UILabel子类，以（取消）UILabel中的数字.
-* [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) -一个UILabel子类，它可以自我更新以简化时间格式.
+* [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - An UILabel subclass that updates itself to make time ago's format easier.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) -UILabel的优美变形效果.
 * [Nantes](https://github.com/instacart/Nantes) -TTTAttributedLabel替换.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) -用于显示数字的标签视图，可以使用称为数字补间或数字变形的技术来过渡或设置动画.
@@ -1285,7 +1286,7 @@
 * [FanMenu](https://github.com/exyte/fan-menu) -具有基于金刚鹦鹉的圆形布局的菜单.
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) -交互式视图过渡，以显示具有流动和弹跳效果的菜单.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) -菜单风格的断头台.
-* [HHFloatingView](https://github.com/hemangshah/HHFloatingView) - An easy to use and setup floating view for your app.
+* [HHFloatingView](https://github.com/hemangshah/HHFloatingView) -为您的应用程序提供易于使用和设置的浮动视图.
 * [InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) -可自定义的iOS交互式侧面菜单.
 * [KWDrawerController](https://github.com/Kawoou/KWDrawerController) -抽屉视图控制器，易于使用.
 * [MediumMenu](https://github.com/pixyzehn/MediumMenu) -基于Medium iOS应用程序的菜单.
@@ -1340,7 +1341,7 @@
 #### Tab
 [back to top](#readme) 
 
-* [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) -自适应标签栏.
+* [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) -RAMAnimatedTabBarController是一个用于向选项卡栏项目添加动画的模块.
 * [CircleBar](https://github.com/softhausHQ/CircleBar) -适用于iOS的有趣，易于使用的标签栏导航控制器.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) -有趣的方式来显示标签.
@@ -1368,7 +1369,7 @@
 * [StyledTextKit](https://github.com/GitHawkApp/StyledTextKit) -声明式构建和快速呈现属性字符串库.
 * [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) -具有可爱的UX的UITextField字符计数器.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) -几个准备使用的UITextFields效果.
-* [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation)  -UITextField-Navigation将下一个，上一个和完成按钮添加到UITextField的键盘上.  高度可定制的.
+* [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation)  -UITextField-Navigation在UITextField的键盘上添加了下一个，上一个和完成按钮.  高度可定制的.
 * [VKPinCodeView](https://github.com/Sunspension/VKPinCodeView) -简单而优雅的UI组件，用于输入PIN.
 
 #### Transition

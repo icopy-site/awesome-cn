@@ -136,7 +136,7 @@
 * [derby](https://github.com/derbyjs/derby) -MVC框架使编写可在Node.js和浏览器中运行的实时协作应用程序变得容易.
     * [derby-awesome](https://github.com/russll/awesome-derby) -很棒的德比组件的集合
 * [way.js](https://github.com/gwendall/way.js) -简单，轻便，持久的双向数据绑定.
-* [mithril.js](https://github.com/lhorie/mithril.js) -Mithril是一个客户端MVC框架（轻量，稳健，快速）.
+* [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 * [jsblocks](https://github.com/astoilkov/jsblocks) -jsblocks是更好的MV-ish框架.
 * [LiquidLava](http://www.lava-framework.com/) -用于构建用户界面的透明MVC框架.
 * [feathers](https://github.com/feathersjs/feathers) -适用于未来应用程序的极简实时JavaScript框架.
@@ -194,7 +194,7 @@
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) -JavaScript矢量库.
 * [echarts](https://github.com/ecomfe/echarts) -企业图表.
 * [vis](https://github.com/almende/vis) -基于浏览器的动态可视化库.
-* [two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+* [two.js](https://github.com/jonobr1/two.js) -用于Web的渲染器不可知二维绘图api.
 * [g.raphael](https://github.com/DmitryBaranovskiy/g.raphael) -拉斐尔的图表.
 * [sigma.js](https://github.com/jacomyal/sigma.js) -专门用于图形绘制的JavaScript库.
 * [arbor](https://github.com/samizdatco/arbor) -使用Web Worker和jQuery的图形可视化库.
@@ -535,7 +535,7 @@
 ## Keyboard Wrappers
 
 * [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in JavaScript.
-* [keymaster](https://github.com/madrobby/keymaster) -用于定义和分配键盘快捷键的简单微库.
+* [keymaster](https://github.com/madrobby/keymaster) -一个简单的微库，用于定义和分配键盘快捷键.
 * [Keypress](https://github.com/dmauro/Keypress) -键盘输入捕获实用程序，其中任何键都可以是修饰键.
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) -一个用于绑定键盘组合的JavaScript库，而不会造成键代码和键组合冲突的困扰.
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) -jQuery Hotkeys使您可以在代码中的任何地方监视键盘事件，从而支持几乎任何按键组合.
@@ -605,7 +605,7 @@
 
 * [typeahead.js](https://github.com/twitter/typeahead.js) -快速且功能齐全的自动完成库.
 * [tag-it](https://github.com/aehlke/tag-it) -一个jQuery UI插件，用于处理多标签字段以及标签建议/自动填充.
-* [At.js](https://github.com/ichord/At.js) -将GitHub提及提及自动完成功能添加到您的应用程序.
+* [At.js](https://github.com/ichord/At.js) -向您的应用程序添加GitHub，例如提及自动完成功能.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) -用于HTML5占位符属性的JavaScript polyfill.
 * [fancyInput](https://github.com/yairEO/fancyInput) -通过CSS3效果使输入字段的输入变得有趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) -使用此jQuery插件将简单的文本输入神奇地转换为很酷的标签列表.
@@ -799,6 +799,7 @@
 * [Anime.js](http://animejs.com) -JavaScript动画引擎http://animejs.com.
 * [Mo.js](http://mojs.io) -用于Web http://mojs.io的运动图形工具带.
 * [particles.js](https://github.com/VincentGarreau/particles.js) -用于创建粒子的轻量级JavaScript库.
+* [tsParticles](https://github.com/matteobruni/tsparticles) -具有错误修复和许多新功能的particles.js的新改进版
 
 ## Image Processing
 

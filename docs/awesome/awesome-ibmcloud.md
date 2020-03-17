@@ -24,7 +24,7 @@
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) -IBM Carbon Design System的Angular实施.
 * [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) -切实执行碳设计系统.
 * [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) -碳设计系统的Vue实施.
-* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本全面的工具包.
+* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本化，全面的工具包.
 * [carbon-icons](https://github.com/carbon-design-system/carbon-icons) -碳设计系统的SVG图标库.
 * [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) -碳图标，在Angular中！
 * [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) -使用Carbon Design System精简数字和软件产品中图标的组件.
@@ -117,7 +117,7 @@
     * [ruby-sdk](https://github.com/watson-developer-cloud/ruby-sdk) -♦️Ruby SDK使用IBM Watson服务.
     * [salesforce-sdk](https://github.com/watson-developer-cloud/salesforce-sdk) -用于与IBM Watson REST API通信的Salesforce库.
     * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) -Watson Swift SDK使开发人员能够将Watson认知计算服务快速添加到其Swift应用程序.
-    * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) - 🎮 Unity SDK to use the IBM Watson services.
+    * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) -Unity SDK以使用IBM Watson服务.
 * [with-watson](https://github.com/victorshinya/with-watson) -运行视觉识别默认模型的iOS应用.
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) -运行视觉识别自定义模型的iOS应用.
 * [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) -名人匹配应用程序使用Watson Personality Insights Service和Twitter数据来标识Twitter上推文在概念上最接近您的名人.
@@ -126,13 +126,16 @@
 
 *资源列表，以了解有关IBM Cloud和服务的更多信息.
 
+* [API Docs](https://cloud.ibm.com/apidocs) -API文档列出了IBM Cloud支持的API的文档.
 * [Documentation](https://cloud.ibm.com/docs) -了解有关特定服务的更多信息，请阅读该服务的文档.
 * [Enterprise Design Thinking](https://www.ibm.com/design/thinking/) -将设计思想应用于复杂的团队，问题和组织.
-* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html) -什么是IBM Cloud平台？
+* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview?topic=overview-whatis-platform) -什么是IBM Cloud平台？
 * [IBM Cloud Architecture Center](https://www.ibm.com/cloud/architecture/architectures)  -IBM的体系结构提供了在云上构建应用程序的实践.  参考架构定义了基本模式，而实现则提供了特定的技术，实践和工具选择来构建和部署该模式.
 * [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) -IBM Cloud的操作方法，新闻和公告.
 * [IBM Cloud Favorites](https://ibm.biz/ibmcloudhelp) -有关IBM Cloud Platform的链接和资源的列表.
+* [IBM Cloud Stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) -用于通过流行的图表工具创建IBM Cloud图表的IBM Cloud模具.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) -了解最新的IBM Cloud产品和服务.
+* [IBM Demos](https://www.ibm.com/demos/) -IBM Demos是探索，学习和尝试各种IBM产品和解决方案的首要目的地.
 * [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) -巴西葡萄牙语的IBM Cloud平台及其服务的操作方法和学习.
 * [IBM Garage Methodology](https://www.ibm.com/garage/method)  -IBM Garage的基础是一种独特的方法，该方法可以策划行业最佳实践，并提供只有IBM才能带来的丰富经验.  IBM Garage与IBM Garage方法论的结合可以推动前所未有的变革.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) -IBM Watson在Medium上的操作方法，新闻和公告.

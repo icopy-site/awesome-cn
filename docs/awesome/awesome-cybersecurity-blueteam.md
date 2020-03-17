@@ -4,7 +4,7 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效.  虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目，并反对专有产品或公司服务.  有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效.  虽然不是排他性的，但此清单在很大程度上偏向 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目，并反对专有产品或公司服务.  有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
  衷心欢迎您的贡献和建议♥.  （✿◕‿◕）.  请检查 [Contributing Guidelines](https://github.com/meitar/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md)  更多细节.  这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -13,6 +13,7 @@
 ## Automation
 
 - [Ansible Lockdown](https://ansiblelockdown.io/) -精心搜集经过审查并积极维护的以信息安全为主题的Ansible角色.
+- [Clevis](https://github.com/latchset/clevis) -用于自动解密的可插入框架，通常用作Tang客户端.
 - [Dev-Sec.io](https://dev-sec.io/) -服务器强化框架，提供各种基准安全性配置的Ansible，Chef和Puppet实现.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) -用Python编写的可扩展网络取证分析框架，可快速开发插件以支持剖析网络数据包捕获.
 - [MultiScanner](https://github.com/mitre/multiscanner) -用Python编写的文件分析框架，可通过自动针对它们运行一套工具并汇总输出来帮助评估一组文件.
@@ -57,6 +58,11 @@
 ### Fuzzing
 
 See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
+
+### Policy enforcement
+
+- [OpenPolicyAgent](https://www.openpolicyagent.org/) -跨云本机堆栈的统一工具集和策略框架.
+- [Tang](https://github.com/latchset/tang)  -用于将数据绑定到网络状态的服务器；  仅当客户端位于某个（受保护的）网络上时才向客户端提供数据.
 
 ## Honeypots
 
@@ -119,7 +125,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标，或对其进行调查以获取与那些系统状态相关的更全面的信息.
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还生成其结果的独立HTML报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -基于PowerShell的所有平台均可以执行实时硬盘取证分析.
-- [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，并与防病毒控制台集成.
+- [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html) -由FireEye，Inc.提供的免费端点审计和分析工具，它提供基于主机的调查功能.
 
 ## Network Security Monitoring (NSM)
@@ -136,7 +142,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) -捕获欺骗的NetBIOS名称服务（NBNS）响应并警告电子邮件或日志文件.
 - [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及深度数据包检查功能的免费，跨平台IDS / IPS，Lua也可以编写脚本.
 - [Wireshark](https://www.wireshark.org) -免费的开源数据包分析器，可用于网络故障排除或法医网络流分析.
-- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（flowtop），流量生成器（trafgen）和自治系统（AS）跟踪路由实用程序（astraceroute）.
+- [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（`flowtop`），流量生成器（`trafgen`）和自治系统（AS）跟踪路由实用程序（`astraceroute`）.
 
 ## Network perimeter defenses
 
@@ -159,7 +165,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 - [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可轻松测试组织对网络钓鱼的危害.
-- [King Phisher](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
+- [King Phisher](https://github.com/securestate/king-phisher) -通过模拟真实的网络钓鱼攻击来测试和增强用户意识的工具.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
 - [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) -有助于检测和响应网络钓鱼攻击的框架.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) -允许创建和管理（伪造）网络钓鱼活动的平台，旨在训练人们识别可疑邮件. 
@@ -218,13 +224,13 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Certbot](https://certbot.eff.org/) -免费工具，可自动从TLS证书的发行和更新 [LetsEncrypt Root CA](https://letsencrypt.org/) 带有配置各种Web和电子邮件服务器软件的插件.
 - [MITMEngine](https://github.com/cloudflare/mitmengine) -Golang库，用于在服务器端检测TLS拦截事件.
 - [OpenVPN](https://openvpn.net/) -开源的基于SSL / TLS的虚拟专用网络（VPN）.
-- [Tor](https://torproject.org/) -审查制度的规避和匿名网络覆盖，提供分布式的，经过密码验证的名称服务（.onion域），以增强发布者的隐私和服务可用性.
+- [Tor](https://torproject.org/) -审查制度的规避和匿名覆盖网络，提供分布式的，经过密码验证的名称服务（.onion域），以增强发布者的隐私和服务可用性.
 
 ## macOS-based defenses
 
 - [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
 - [Stronghold](https://github.com/alichtman/stronghold) -从终端轻松配置macOS安全设置.
-- [macOS Fortress](https://github.com/essandess/macOS-Fortress) -自动配置内核级，操作系统级和客户端级安全功能，包括私有化代理和macOS的防病毒扫描.
+- [macOS Fortress](https://github.com/essandess/macOS-Fortress) -自动配置内核级别，操作系统级别和客户端级别的安全功能，包括私有化代理和macOS的防病毒扫描.
 
 ## Windows-based defenses
 
