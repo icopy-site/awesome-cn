@@ -2,11 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of awesome beginner-friendly projects.
+很棒的对初学者友好的项目列表.
 
 受启发 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章.
 
-If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so that people can find it.
+如果您是开源项目的维护者，请在您的项目中添加标签“仅限初学者”（或类似名称）并在此处列出，以便人们可以找到它.
 
 如果您想做出贡献，请浏览此列表，查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，然后按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上创建新的“仅限初学者”问题时会收到通知.
 
@@ -106,7 +106,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs)  _（标签：抢购对象）_ <br>  一个轻量级的JavaScript日期库，用于解析，验证，操作和格式化日期.
 - [serverless](https://github.com/serverless/serverless/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  无服务器框架
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Hoodie Camp是供新老参与者使用的空间.
-- [React](https://github.com/facebook/react/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  用于构建用户界面的声明性，高效且灵活的JavaScript库.
+- [React](https://github.com/facebook/react/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一个声明性，有效且灵活的JavaScript库，用于构建用户界面.
 - [React Native](https://github.com/facebook/react-native/labels/Good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建本机应用程序的框架.
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution)  _（标签：良好贡献）_ <br>  具有服务器渲染功能的React框架可实现快速的页面加载和浏览器中页面之间的无缝过渡.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  快速，可靠和安全的依赖关系管理.
@@ -137,7 +137,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  来自免费资源的多平台音乐播放器.
 - [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  使用React组件可以更快，更轻松地进行Web开发.  建立自己的设计系统，或从材料设计开始.
 - [Mocha](https://github.com/mochajs/mocha/labels/good-first-issue)  _（标签：好第一期）_ <br>  适用于Node.js和浏览器的Javascript测试框架.
-- [Babel](https://github.com/babel/babel/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  用于编写下一代JavaScript的编译器.
+- [Babel](https://github.com/babel/babel/labels/good%20first%20issue) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  轻松创建自己的react-content-loader的工具.
 - [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  git工作流程的开源内容管理.
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  适用于所有平台的功能丰富的美丽GraphQL客户端.
@@ -193,11 +193,10 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer)  _（标签：难度/新手）_ <br>  基于命令行界面的Linux个人助理.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  一个将Python代码转换为Java字节码的编译器.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Python虚拟机的Javascript实现.
-- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python机器人程序，旨在尽可能简单地为人类的日常任务提供服务http://m.me/JARVISon.Messenger
+- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python机器人，旨在尽可能简单地为人类的日常任务提供服务http://m.me/JARVISon.Messenger
 - [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy)  _（标签：状态：简单）_ <br>  pytest框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit)  _（标签：低挂水果）_ <br>  Pythonic远程执行和部署.
 - [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Jupyter交互式笔记本.
-- [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  旨在开发一种端到端的肺癌检测应用程序，将机器学习的预测能力与针对错误进行测试的功能软件以及专注于临床用途的干净用户界面相连接.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  强大的开源群聊.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit)  _（标签：低挂水果）_ <br>  一个命令行实用程序，可从cookiecutter（项目模板）创建项目.  例如Python封装项目，jQuery插件项目.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest)  _（标签：django hacktober特集）_ <br>  用于后端Web开发的Python实现.
@@ -215,10 +214,10 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 
 ## Ruby
 
-- [JRuby](https://github.com/jruby/jruby/labels/beginner)  _（标签：初学者）_ <br>  Ruby在Java虚拟机上的实现.
+- [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  优雅的Web开发采用DSL.
 - [Goby](https://github.com/nskins/goby)  _（标签：初学者）_ <br>  开发文本RPG的框架.
-- [Hanami](https://github.com/hanami/hanami/labels/easy) _(label: easy)_ <br> A modern framework for Ruby.
+- [Hanami](https://github.com/hanami/hanami/labels/easy)  _（标签：简单）_ <br>  Ruby的现代框架.
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In)  _（标签：类型：跳入）_ <br>  系统集成框架，旨在为您的整个基础架构带来配置管理的好处
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In)  _（标签：类型：跳入）_ <br>  Ohai对您的系统进行了配置并发出JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  一个用于环境项目的开源发布平台.  查看 [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
@@ -237,13 +236,13 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一堆棉绒来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：优先事项）_ <br>  根据样式准则格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  用于Rust的可扩展的并发Web框架
-- [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy)  _（标签：D：简单）_ <br>  分布式交易关键值数据库
+- [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy) _(label: D: Easy)_ <br> A distributed transactional key-value database
 - [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  用Rust编写的GitHub时代的现代外壳.
 - [Hyper](https://github.com/hyperium/hyper/labels/E-easy)  _（标签：E-easy）_ <br>  一个用于Rust的快速，安全和正确的低级HTTP库.
 
 ## Scala
 
-- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
+- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  来自Twitter的精彩可重用代码
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  高速Web框架
 
 ## Swift

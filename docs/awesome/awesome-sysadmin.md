@@ -212,7 +212,7 @@
 * [Fabric](http://www.fabfile.org/) -Python库和cli工具，用于简化SSH在应用程序部署或系统管理任务中的使用.
 * [Mina](http://nadarei.co/mina/) -真正快速的部署程序和服务器自动化工具（基于耙）.
 * [munki](https://www.munki.org/munki/) -基于Web服务器的软件包和软件包元数据存储库，允许macOS管理员管理软件安装.
-* [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
+* [Rocketeer](http://rocketeer.autopergamene.eu/) -PHP任务运行器和部署工具.
 * [sup](https://github.com/pressly/sup/) -超级简单的部署工具-仅限于Unix-将其视为服务器网络的“ make”.
 * [Vlad the Deployer](https://github.com/seattlerb/vlad) -部署自动化（基于耙）.
 
@@ -256,7 +256,7 @@
 
 *网域管理.*
 
-* [DnsControl](https://stackexchange.github.io/dnscontrol/) -备受赞誉的平台，可在云或您自己的基础架构中跨任意数量的DNS主机无缝管理您的DNS配置.
+* [DnsControl](https://stackexchange.github.io/dnscontrol/) -备受赞誉的平台，可跨云或您自己的基础架构跨任意数量的DNS主机无缝管理您的DNS配置.
 * [DomainMOD](https://domainmod.org) -在中央位置管理您的域和其他Internet资产.
 * [octoDNS](https://github.com/github/octodns) -一组工具和模式，可轻松管理多个提供商之间的DNS记录.
 
@@ -288,7 +288,7 @@
 
 ### LDAP
 
-* [389 Directory Server](http://www.port389.org/) -由Red Hat开发.
+* [389 Directory Server](http://www.port389.org/) - Developed by Red Hat.
 * [Apache Directory Server](http://directory.apache.org/) -用Java编写的Apache Software Foundation项目.
 * [FreeRADIUS](http://freeradius.org/) -高性能和高度可配置的多协议策略/身份验证服务器，支持RADIUS，DHCPv4和VMPS.
 * [OpenDJ](http://opendj.forgerock.org/) -OpenDS的分支.
@@ -378,7 +378,7 @@
 * [PHP Server Monitor](https://www.phpservermonitor.org/) -开源工具来监视您的服务器和网站
 * [psdash](https://github.com/Jahaja/psdash) -使用psut il和flask的linux系统信息Web仪表板.
 * [pyDash](https://k3oni.github.io/pydash/) -用于Linux的基于Web的小型监视仪表板.
-* [Riemann](http://riemann.io/) -灵活，快速的事件处理器，可进行复杂的事件/指标分析.
+* [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [rtop](https://github.com/rapidloop/rtop) -基于SSH的交互式远程系统监视工具.
 * [Sensu](https://sensuapp.org/) -监测框架.
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) -以美丽的方式显示和监视服务器统计信息.
@@ -575,7 +575,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [Packer](https://www.packer.io/) -一种用于从单一源配置为多个平台创建相同机器映像的工具.
 * [Proxmox VE](https://www.proxmox.com/proxmox-ve) -虚拟化管理解决方案.
 * [QEMU](http://www.qemu.org/) -QEMU是通用机器仿真器和虚拟器.
-* [Vagrant](https://www.vagrantup.com/) - Tool for building complete development environments.
+* [Vagrant](https://www.vagrantup.com/) -用于构建完整开发环境的工具.
 * [VirtualBox](https://www.virtualbox.org/) -Oracle Corporation的虚拟化产品.
 * [XCP-ng](http://www.xcp-ng.org/) -XCP-ng基于Citrix XenServer，是一个完全开源的虚拟化平台.
 * [Xen](http://www.xenproject.org/) -用于32/64位Intel / AMD（IA 64）和PowerPC 970体系结构的虚拟机监视器.
@@ -592,6 +592,7 @@ NoSQL服务器的比较：http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-r
 * [sshuttle](https://github.com/sshuttle/sshuttle) -可怜的人的VPN.
 * [strongSwan](https://www.strongswan.org/) -完整的Linux IPsec实现.
 * [tinc](http://www.tinc-vpn.org/) -分布式p2p VPN.
+* [WireGuard](https://www.wireguard.com/)  -基于椭圆曲线和公钥加密的非常快速的VPN.  仅Linux（2017）;  开发中的其他客户.
 
 ## Web
 

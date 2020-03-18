@@ -177,7 +177,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 设置sizeBefore做外壳程序脚本“ ls -lnah〜/ Library / Mail /”＆mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
 做shell脚本“ / usr / bin / sqlite3〜/ Library / Mail /”和mail_version和“ / MailData / Envelope \\ Index vacuum”
 
-设置sizeAfter做shell脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
+设置sizeAfter以执行shell脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
 
 显示对话框（“之前的邮件索引：”＆sizeBefore＆return＆“之后的邮件索引：”＆sizeAfter＆return＆return＆“享受新速度！”）
 
@@ -197,7 +197,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 #### Enable Develop Menu and Web Inspector
 ```bash
 默认写com.apple.Safari IncludeInternalDebugMenu -bool true &amp;&amp; \
-defaults write com.apple.Safari IncludeDevelopMenu -bool true && \
+默认写com.apple.Safari IncludeDevelopMenu -bool true &amp;&amp; \
 默认写com.apple.Safari WebKitDeveloperExtrasEnabledPreferenceKey -bool true &amp;&amp; \
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled -bool true &amp;&amp; \
 默认写-g WebKitDeveloperExtras -bool true
@@ -724,7 +724,7 @@ sudo chflags -R nouchg /路径/到/文件/或/文件夹
 
 #### Show Full Path in Finder Title
 ```bash
-默认写com.apple.finder _FXShowPosixPathInTitle -bool true
+默认写入com.apple.finder _FXShowPosixPathInTitle -bool true
 ```
 
 #### Unhide User Library Folder
@@ -854,7 +854,7 @@ Killall搜寻器
 #### Change Working Directory to Finder Path
 如果打开了多个窗口，它将选择最上面的一个.
 ```bash
-cd“ $（osascript -e&#39;tell app” Finder“到（插入位置作为别名的）POSIX路径&#39;）”
+cd“ $（osascript -e&#39;tell app” Finder“到（作为别名的插入位置）的POSIX路径&#39;）”
 ```
 
 #### Open URL
@@ -912,7 +912,7 @@ cp -v /系统/应用程序/实用程序/Terminal.app/内容/资源/字体/ SFMon
 
 ## Functions
 
-Please see [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/functions.md).
+请参阅 [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/functions.md).
 
 
 ## Hardware
@@ -1035,7 +1035,7 @@ sudo systemsetup -setrestartfreeze在
 打开/System/Library/CoreServices/PowerChime.app
 
 ## Disable (Default)
-默认写com.apple.PowerChime ChimeOnAllHardware -bool false &amp;&amp; \
+defaults write com.apple.PowerChime ChimeOnAllHardware -bool false && \
 杀死所有力量
 ```
 
@@ -1106,7 +1106,7 @@ afconvert input.mp3铃声.m4r -f m4af
 ```
 
 #### Create Audiobook From Text
-使用“ Alex”语音，这是一种普通的UTF-8编码文本文件，用于输入和AAC输出.
+使用“ Alex”语音，UTF-8编码的纯文本文件用于输入和AAC输出.
 ```bash
 说-v Alex -f file.txt -o“ output.m4a”
 ```
@@ -1459,7 +1459,7 @@ sudo spctl --master-禁用
 #### Screensaver Password
 ```bash
 ## Status
-defaults read com.apple.screensaver askForPassword
+默认读取com.apple.screensaver askForPassword
 
 ## Enable
 默认写com.apple.screensaver askForPassword -int 1
@@ -1569,7 +1569,7 @@ sw_vers
 ```
 
 #### Uptime
-自上次重新启动以来已经过了多长时间.
+自上次重新启动以来已过
 ```bash
 uptime
 ```
@@ -1669,7 +1669,7 @@ sudo kextunload -b com.apple.driver.ExampleBundle
 
 ### LaunchAgents
 
-Please see [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/launchagents.md).
+请参阅 [this file](https://github.com/herrbischoff/awesome-macos-command-line/blob/master/launchagents.md).
 
 
 ### LaunchServices
@@ -1829,7 +1829,7 @@ sudo softwareupdate-列表
 ```
 
 #### Set Software Update Server
- 仅应出于测试目的或不受管理的客户端执行此操作.  要在整个网络范围内使用，请正确设置DNS以及 [Apple SUS service](http://krypted.com/mac-security/using-the-software-update-service-on-mountain-lion-server/)  并通过OpenDirectory绑定您的客户.  或者，使用 [Reposado](https://github.com/wdas/reposado) together with correct network DNS settings to make resolution transparent. [Margarita](https://github.com/jessepeterson/margarita) 看起来也不错.
+ 仅应出于测试目的或不受管理的客户端执行此操作.  要在整个网络范围内使用，请正确设置DNS以及 [Apple SUS service](http://krypted.com/mac-security/using-the-software-update-service-on-mountain-lion-server/)  并通过OpenDirectory绑定您的客户.  或者，使用 [Reposado](https://github.com/wdas/reposado) 加上正确的网络DNS设置以使解析透明. [Margarita](https://github.com/jessepeterson/margarita) 看起来也不错.
 ```bash
 ## Use own SUS
 sudo默认值写入/Library/Preferences/com.apple.SoftwareUpdate CatalogURL http://su.example.com:8088/index.sucatalog
@@ -2000,9 +2000,9 @@ chsh -s $（brew --prefix）/ bin / zsh
  OS X 10.10 |  优胜美地  2014年10月16日|  10.10.5（14F27）（2015年8月13日）
  OS X 10.11 |  埃尔卡皮坦|  2015年9月30日|  10.11.6（15G31）（2016年7月18日）
  macOS 10.12 |  塞拉利昂  2016年9月20日|  10.12.6（16G29）（2017年7月19日）
- macOS 10.13 |  高山脉  2017年9月25日|  10.13.6（17G65）（2018年7月9日）
- macOS 10.14 |  莫哈韦沙漠|  2018年9月24日|  10.14（18A391）（2018年9月24日）
- macOS 10.15 |  卡塔琳娜|  2019年10月7日|  10.15.0（19A602）（2019年10月15日）
+macOS 10.13                | High Sierra        | September 25, 2017 | 10.13.6 (17G65) (July 9, 2018)
+ macOS 10.14 |  莫哈韦沙漠|  2018年9月24日|  10.14.6（18G3020）（2020年1月28日）
+ macOS 10.15 |  卡塔琳娜|  2019年10月7日|  10.15.3（19D76）（2020年1月28日）
 
 
 ## License

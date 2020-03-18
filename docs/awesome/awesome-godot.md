@@ -59,6 +59,8 @@
 *用作您自己游戏基础的项目.*
 
 - [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate)  -包含所有必要材料的模板.  专为像素艺术游戏（Godot 3.1）设计.
+- [Multiplayer First Person Shooter](https://github.com/ic3bug/Godot-3.2-Multiplayer-FPS) -多人第一人称射击游戏示例项目（Godot 3.2）.
+- [Multiplayer third person shooter](https://github.com/ic3bug/TPS-MP) 多人第三人称射击游戏示例（Godot 3.2）.
 
 ## Demos
 
@@ -166,13 +168,13 @@
 - [Vim](https://github.com/calviken/vim-gdscript3)  -语法突出显示，自动补全和掉毛.  还支持Godot着色器语言.
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) -具有丰富的功能，使您的编程体验尽可能舒适.
 - [GUT Visual Studio Code Extension](https://github.com/bitwes/gut-extension) -直接从Visual Studio代码编辑器运行GUT框架单元/集成测试.
-- [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) -Visual Studio Code（Godot 3.x）中GDScript的格式化程序.
+- [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=Razoric.gdscript-toolkit-formatter) - Formatter for GDScript in Visual Studio Code (Godot 3.x).
 
 ## Godot script editor syntax themes
 
 *内置脚本编辑器的替代主题.*
 
-- [base16-godot](https://github.com/Calinou/base16-godot) - All [base16](https://github.com/chriskempson/base16) 主题.
+- [base16-godot](https://github.com/Calinou/base16-godot) -全部 [base16](https://github.com/chriskempson/base16) 主题.
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) -切斯特，Google Code Light和Monokai.
 - [Syntax themes by Calinou](https://github.com/Calinou/godot-syntax-themes) -13个语法主题，包括Ayu Mirage，Darcula，Gruvbox Dark，Monokai，One Dark，Solarized等.
 

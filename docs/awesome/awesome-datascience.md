@@ -99,7 +99,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [data.gov](https://catalog.data.gov/dataset) -美国政府公开数据的所在地
 * [United States Census Bureau](http://www.census.gov/)
 * [usgovxml.com](http://usgovxml.com/)
-* [enigma.com](http://enigma.com/) -浏览公共数据世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
+* [enigma.com](http://enigma.com/) -浏览公共数据的世界-快速搜索和分析政府，公司和组织发布的数十亿条公共记录.
 * [datahub.io](https://datahub.io/)
 * [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 * [databib.org](http://databib.org/)
@@ -171,7 +171,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Data Science London](http://datasciencelondon.org/) 伦敦数据科学公司是一个非营利性组织，致力于数据科学的免费，开放和传播.
 我们是欧洲最大的数据科学社区.
 我们社区中有3190多名数据科学家和数据极客.
-- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）.  机器学习，数据挖掘及更多
+- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）  机器学习，数据挖掘及更多
 - [John Myles White](http://www.johnmyleswhite.com/) 个人博客
 - [Quora Data Science](https://www.quora.com/Data-Science) -来自专家的数据科学问答
 - [Siah](https://openresearch.wordpress.com/) 伯克利大学博士生
@@ -281,6 +281,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Exploring Data with R](https://www.manning.com/books/exploring-data-with-r) -抢先体验
 - [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) -抢先体验
 - [Mining Massive Datasets](http://www.mmds.org/) -在线课程包含的免费电子书
+- [Pandas in Action](https://www.manning.com/books/pandas-in-action) -抢先体验
 
 ## Facebook Accounts
 
@@ -337,7 +338,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [John Myles White](https://twitter.com/johnmyleswhite)  Facebook科学家和Julia开发人员.  黑客机器学习和用于网站优化的强盗算法的作者.  推文仅反映我的观点.
 - [Juan Miguel Lavista](https://twitter.com/BDataScientist) -首席数据科学家@微软数据科学团队
 - [Julia Evans](https://twitter.com/b0rk) -黑客-熊猫-数据分析
-- [Kenneth Cukier](https://twitter.com/kncukier) -《经济学人》的数据编辑器和大数据的合著者（http://big-data-book.com）.
+- [Kenneth Cukier](https://twitter.com/kncukier) -《经济学人》的数据编辑兼大数据（http://big-data-book.com）的合著者.
 - [Kevin Davenport](https://twitter.com/KevinLDavenport) -https://meetup.com/San-Diego-R-Users-Group/的组织者
 - [Kevin Markham](https://twitter.com/justmarkham) -数据科学讲师和创始人 [Data School](http://www.dataschool.io/)
 - [Kim Rees](https://twitter.com/krees)  -交互式数据可视化和工具.  数据专家.
@@ -419,7 +420,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) Kite软件开发工具包（Apache许可，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.
  * [Domino Data Labs](http://www.dominodatalab.com) 运行，扩展，共享和部署模型-无需任何基础架构或设置.
  * [Apache Flink](http://flink.apache.org/) 一个高效，分布式，通用数据处理的平台.
- * [Apache Hama](http://hama.apache.org/) Apache Hama是Apache顶级开放源代码项目，可让您进行MapReduce之外的高级分析.
+ * [Apache Hama](http://hama.apache.org/) Apache Hama是一个Apache顶级开源项目，可让您进行MapReduce之外的高级分析.
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka是用于数据挖掘任务的机器学习算法的集合.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave是一种高级解释语言，主要用于数值计算.（免费Matlab）
  * [Apache Spark](https://spark.apache.org/) 快如闪电的集群计算

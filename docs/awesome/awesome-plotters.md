@@ -25,7 +25,7 @@
 
 ### Motor Controllers
 
-- [grblShield](https://github.com/synthetos/grblShield) -所有需要的步进电机控制硬件 [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+- [grblShield](https://github.com/synthetos/grblShield) -所有需要的步进电机控制硬件 [Arduino](https://www.arduino.cc)  使用grbl固件导入基于G代码的运动控制器.  （[adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG)  -功能更强大的基于6轴G代码的运动控制硬件.  （[adafruit](https://www.adafruit.com/product/1749))
 - [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) -与Arduino兼容的Grbl步进电机控制板，类似于 [grblShield](https://github.com/synthetos/grblShield).
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)  -带步进控制器的Raspberry Pi附加板和运行grbl的微控制器.  与Pi的串行引脚接口.
@@ -93,7 +93,6 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [saxi](https://github.com/nornagon/saxi)  -AxiDraw的驱动程序和库.  使用恒定加速运动计划并自动调整大小到纸张.
 - [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) -用于将HPGL转换为Graphtec的GPGL格式的软件，以及用于Graphtec绘图仪笔适配器的CAD文件.
 
-
 ### Vector Creation
 
 从头开始或通过其他格式的转换来创建矢量插图的工具.
@@ -102,7 +101,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [p5.js](https://p5js.org) -“ JavaScript库，使艺术家，设计师，教育者和初学者都可以访问编码”.
 - [Paper.js](http://paperjs.org) -《矢量图形脚本的瑞士军刀》.
 - [ln](https://github.com/fogleman/ln) -用Go语言编写的基于矢量的3D渲染器.
-- [autotrace](https://github.com/autotrace/autotrace) -将位图图像转换为矢量图形.
+- [autotrace](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
 - [stipplegen](https://github.com/evil-mad/stipplegen)  -从位图图像创建有趣的点画.  （[blog post](https://www.evilmadscientist.com/2012/stipplegen2))
 - [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) -“ SquiggleDraw将使用亮度更改正弦波的幅度，从图像创建SVG文件”.
 - [svgurt](https://svgurt.com) -基于Web的PNG到SVG创意面条.
@@ -129,6 +128,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Polargraph Optimizer](https://github.com/ezheidtmann/polargraph-optimizer) -优化极谱图的绘制计划.
 - [penkit-optimize](https://github.com/paulgb/penkit/tree/master/optimizer) -使用车辆路径求解器的SVG优化器，以最大程度地缩短绘图时间.
 - [svg-crowbar](https://github.com/NYTimes/svg-crowbar) -仅限Chromebook的书签，用于从HTML文档中提取SVG.
+- [vpype](https://github.com/abey79/vpype) -基于绘图仪的基于Python的CLI实用程序，用于生成和处理SVG，包括缩放和优化路径.
 
 ### Fonts
 
@@ -138,6 +138,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)  -60年代矢量字体的`.fnt`格式.  很好地概述了字体的原始数据格式.
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) -C库和好时字体的原始字体数据.
 - [OneLineFonts.com](https://www.onelinefonts.com) -具有一些单行字体的商业站点可供购买.
+- [svg-fonts](https://gitlab.com/oskay/svg-fonts) -SVG格式的单行字体，主要用于 [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape插件.
 
 ## Inspiration and Instruction
 

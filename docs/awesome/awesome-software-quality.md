@@ -22,7 +22,7 @@ This [wiki](https://github.com/ligurio/awesome-software-quality/wiki) 为考虑�
 
  可以通过许多轴来组织这样的列表，例如目标受众的专业水平（从专家到整个公众）或学科定位（计算机科学，数学，数学逻辑等）.  在这里，我选择了按主题类型对材料进行分类.
     
-如果您想添加一些内容，只需将您希望显示的文本发送到estetus@gmail.com，最好已在markdown中设置格式.
+如果您想添加一些内容，只需将您希望显示的文本发送到estetus@gmail.com，最好已将其设置为markdown格式.
 
 克隆Wiki：`git clone https：// github.com / ligurio / awesome-software-quality.wiki.git`
 
@@ -35,6 +35,7 @@ This [wiki](https://github.com/ligurio/awesome-software-quality/wiki) 为考虑�
   * [In Russian](https://github.com/ligurio/awesome-software-quality/wiki/courses-in-russian)
 * [Podcasts](https://github.com/ligurio/awesome-software-quality/wiki/Podcasts)
 *会议： [Software Testing Conferences](http://testingconferences.org/)
+* [Workshops and interactive learning tools](https://github.com/ligurio/awesome-software-quality/wiki/learning-tools)
 * [Bugs And Learned lessons](https://github.com/ligurio/awesome-software-quality/wiki/bugs-and-learned-lessons)
 * [Awesome lists](https://github.com/ligurio/awesome-software-quality/wiki/links-collections)
 
