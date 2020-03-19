@@ -24,7 +24,7 @@ GeoJSON实用程序将使您的生活更轻松.
 * [geojson-join](https://github.com/tmcw/geojson-join)：针对json，dbf和csv文件加入geojson
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson)：将ramer-douglas-peucker行简化应用于JS或CLI上的geojson功能或功能集合
 * [turf](https://github.com/Turfjs/turf)：用于空间操作和分析的功能集合
-* [winnow](https://github.com/dmfenton/winnow)：使用JavaScript对geojson运行sql查询
+* [winnow](https://github.com/dmfenton/winnow)：使用javascript对geojson运行sql查询
 * [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming)：为每个功能添加唯一的ID
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh)：在GeoJSON中提取多边形的共享边界
 * [geojson-polygon-labels](https://github.com/andrewharvey/geojson-polygon-labels)：从GeoJSON多边形生成点标签
@@ -36,12 +36,13 @@ GeoJSON实用程序将使您的生活更轻松.
 * [geojson.io](http://geojson.io/)：基于Web的编辑器，支持许多文件类型的进出口，操作，通过GitHub共享
 * [umap](http://umap.openstreetmap.fr/en/)：基于网络的编辑器，支持现场共享
 * [geojson.tools](http://geojson.tools/)：HERE XYZ的基于Web的编辑器
-* [simple geojson editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/)：在Google地图上的geojson编辑器，由google
+* [simple geojson editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/)：在google map上的geojson编辑器，由google
 * [mapstarter](http://mapstarter.com/)：帮助从GeoJSON生成svg，图像和代码
-* [gjv](https://github.com/anandthakker/gjv) ：电子应用程序允许本地查看GeoJSON并用草皮对其进行黑客入侵；  离线工作
+* [gjv](https://github.com/anandthakker/gjv) ：电子应用程序允许在本地查看GeoJSON并用草皮对其进行黑客入侵；  离线工作
 * [GeoJSON editor](https://tomscholz.github.io/geojson-editor/)：Google简单的geojson编辑器的修改版本
 * [geojson2image](https://github.com/brycejohnston/geojson2image)：用于从GeoJSON生成图像的库
 * [dropchop](http://dropchop.io/)：基于Turf.js的基于浏览器的GIS
+* [Web GIS](https://drewweth.github.io/geodebugger)：查看，检查和处理地理空间数据的工具
 
 ### validation
 
@@ -54,7 +55,7 @@ GeoJSON实用程序将使您的生活更轻松.
 * [geojsonio-extension](https://github.com/mapbox/geojsonio-extension)：chrome扩展名，用于编辑geojson.io中的github文件
 * [geojsonlint](http://geojsonlint.com/)：用于GeoJSON验证的REST接口
 * [mapshaper](http://mapshaper.org/)：用于简化和转换GeoJSON和TopoJSON的简单界面
-* [koop](https://koopjs.github.io)：服务器的插件将Esri，GitHub，Socrata和其他服务重铸为GeoJSON端点
+* [koop](https://koopjs.github.io)：带有可将Esri，GitHub，Socrata和其他服务重铸为GeoJSON端点的插件的服务器
 * [featureserver](https://github.com/featureserver/featureserver)：开源的Esri样式功能服务器
 
 ### conversion
@@ -67,11 +68,11 @@ GeoJSON实用程序将使您的生活更轻松.
 * [vt-geojson](https://github.com/developmentseed/vt-geojson)：从Mapbox矢量图块中提取GeoJSON
 * [geojson2rtree](https://github.com/maxogden/geojson2rtree)：从一组geojson功能生成静态rtree（使用terraformer）
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html)：将任何东西转换为任何东西
-  * [fiona](https://github.com/toblerity/fiona)：在ogr上的漂亮python界面
+  * [fiona](https://github.com/toblerity/fiona)：在ogr上漂亮的python界面
 * [shp2json](https://github.com/substack/shp2json)：将shapefile zip存档转换为流GeoJSON
 * [togeojson](https://github.com/tmcw/togeojson)：将GPX和KML转换为geojson
 * [tokml](https://github.com/mapbox/tokml)：将GeoJSON转换为KML
-* [topojson](https://github.com/topojson/topojson)：将GeoJSON与TopoJSON相互转换，并从CSV连接数据
+* [topojson](https://github.com/topojson/topojson)：将GeoJSON与TopoJSON相互转换，从CSV合并数据
 * [wellknown](https://github.com/mapbox/wellknown)：将WKT转换为GeoJSON
 * [esri2open](https://github.com/project-open-data/esri2open) 将专有的Esri格式转换为GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson)：将GTFS运输数据转换为GeoJSON
@@ -131,4 +132,4 @@ GeoJSON实用程序将使您的生活更轻松.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/ )
 
-在法律允许的范围内， [Tom MacWright](http://www.macwright.org) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Tom MacWright](http://www.macwright.org) 已放弃此作品的所有版权以及相关或邻近的权利.

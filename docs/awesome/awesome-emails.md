@@ -18,11 +18,11 @@
 
 - [MJML](https://mjml.io)  -MJML是一种标记语言，旨在减轻编写响应式电子邮件的麻烦.  ：火：
 - [Foundation for Emails](https://github.com/zurb/foundation-emails)  -快速创建可在任何设备和客户端上使用的自适应HTML电子邮件.  甚至Outlook.
-- [Email Framework](http://emailframe.work/) -开发HTML电子邮件框架以帮助您构建响应HTML电子邮件.
+- [Email Framework](http://emailframe.work/) -开发的HTML电子邮件框架可帮助您构建响应式HTML电子邮件.
 - [HEML](https://heml.io) -HEML是一种用于构建响应式电子邮件的开源标记语言.
 - [Acorn](https://docs.thememountain.com/acorn/) -基于黄金比例排版网格的响应式电子邮件框架.
 - [Pine](https://docs.thememountain.com/pine/) -12列网格，响应式电子邮件框架.
-- [Maizzle](https://maizzle.com) -通过Tailwind CSS和特定于电子邮件的高级后处理功能，快速构建HTML电子邮件的原型.
+- [Maizzle](https://maizzle.com) -使用Tailwind CSS和特定于电子邮件的高级后处理功能，快速构建HTML电子邮件的原型.
 
 ## Cheatsheets
 
@@ -36,9 +36,9 @@
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) -轻松创建精美的品牌电子邮件营销活动.
 - [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) （每个模板都是响应式的，并且每个模板都已在所有流行的电子邮件客户端中进行了测试.）
 - [Cerberus](https://github.com/TedGoas/Cerberus) -响应式电子邮件模式很少.
-- [Antwort](https://github.com/internations/antwort) -Antwort为电子邮件提供了适合和适应客户宽度的响应式布局.
-- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) -此模板旨在在所有主要的电子邮件平台上工作，并且使用媒体查询构建，因此可响应支持媒体查询的智能手机.
-- [HTML Email Templates](https://www.htmlemailtemplates.net/) -用于Startups＆SaaS的响应HTML电子邮件模板.
+- [Antwort](https://github.com/internations/antwort) -Antwort为电子邮件提供了响应式布局，既适合并适应客户端宽度.
+- [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) -此模板旨在在所有主要的电子邮件平台上工作，并且它是使用媒体查询构建的，因此可以响应支持媒体查询的智能手机.
+- [HTML Email Templates](https://www.htmlemailtemplates.net/) -用于Startups和SaaS的响应HTML电子邮件模板.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) -与任何邮件服务一起使用的五个经过预先测试的模板
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) -用于创建电子邮件的Grunt模板.
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) -响应电子邮件的模式和模块的集合.
@@ -65,6 +65,7 @@
 - [EmailComb](http://emailcomb.com/)  -对电子邮件友好的未使用CSS删除工具，该工具不会解析，因此可以接受混合源，包括您的ESP模板标签.  附加功能：CSS丑化和HTML / CSS缩小（由HTML Crush支持）.
 - [HTML Crush](https://htmlcrush.com/)  -电子邮件友好的HTML压缩程序：将行数限制为500个字符.  （最佳做法），尊重Outlook条件标签，并接受混合来源，包括ESP模板标签.  （可选）只能删除缩进（不能触摸换行符）.
 - [Tabifier](https://tools.arantius.com/tabifier)  -与HTML Crush相反-一种美化HTML文件中的缩进的工具.  适用于混合输入源，包括ESP模板标签.
+- [Email Link Builder](https://email-link-builder.samcarlton.com/) -建立mailto链接以打开电子邮件草稿，其中包含预先填写的收件人，主题，正文等. 
 
 ## Services
 
@@ -73,9 +74,9 @@
 - [Campaign monitor](https://www.campaignmonitor.com/) -Campaign Monitor使您可以轻松创建，发送和优化电子邮件营销活动.
 - [Sendgrid](https://sendgrid.com/) -通过一个可靠的平台传递您的交易和营销电子邮件.
 - [Postal](https://github.com/atech/postal) -用于接收和发送电子邮件的功能齐全的开源邮件传递平台.
-- [SparkPost](https://www.sparkpost.com/) -您的应用程序的电子邮件：准时发送至收件箱.
+- [SparkPost](https://www.sparkpost.com/) -您应用程序的电子邮件：准时发送至收件箱.
 - [Mautic](https://mautic.com/)  -Mautic营销自动化.  利用易于学习，易于使用且易于迭代的营销自动化，构建更智能的广告系列并更快地构建它们.
-- [Mailgun](https://www.mailgun.com/) -针对开发人员的交易电子邮件API服务.
+- [Mailgun](https://www.mailgun.com/) -面向开发人员的交易电子邮件API服务.
 - [eSputnik](https://esputnik.com/en) -eSputnik是一种行销自动化系统，受到全球3万多忠实客户的信赖，每月发送超过10亿封电子邮件.
 - [Postmark](https://postmarkapp.com)  -为您的应用程序电子邮件快速交付.  邮戳每次都会按时将您的交易电子邮件发送给客户
 - [ImprovMX](https://improvmx.com/) -为您的域名创建免费的电子邮件别名.
@@ -92,7 +93,7 @@
 ## Workflows
 
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) -Grunt工作流程，用于使用SCSS设计和测试响应HTML电子邮件模板.
-- [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) -Gulp Email Creator是一个受Lee Munroe的咕gr电子邮件设计工作流程启发的gulp工作流程.
+- [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) -Gulp Email Creator是一个受Lee Munroe的咕-电子邮件设计工作流程启发的gulp工作流程.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) -通过Sitepoint进行的典型电子邮件开发工作流.
 
 ## Articles
@@ -127,8 +128,8 @@
 
 - [Email toolbox](http://email-toolbox.com/) -电子邮件营销人员和设计师的精选资源.
 - [Mailchimp](http://mailchimp.com/resources/) -Mailchimp提供的超棒资源
-- [Litmus Resources](https://litmus.com/resources) -借助Litmus资源随时了解最新的电子邮件新闻和趋势.
-- [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) -Campaign Monitor资源将使您立即成为专家.
+- [Litmus Resources](https://litmus.com/resources) -借助Litmus资源及时了解最新的电子邮件新闻和趋势.
+- [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) -Campaign Monitor资源将立即使您成为专家.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) -MailChimp电子邮件设计参考
 - [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) -有关如何构建自己的电子邮件服务器的教程
@@ -140,7 +141,7 @@
 - [Milled](http://milled.com/)
 - [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -Campaign Monitor中最有效的电子邮件营销活动.
 - [Mailchimp Inspiration](http://inspiration.mailchimp.com/#all) -Mailchimp美丽的新闻通讯示例.
-- [Htmlemaildesigns](http://htmlemaildesigns.com/) -美丽的电子邮件可帮助激发您的下一个电子邮件设计.
+- [Htmlemaildesigns](http://htmlemaildesigns.com/) -精美的电子邮件可帮助激发您的下一个电子邮件设计.
 
 ## Statistics
 
@@ -155,12 +156,12 @@
 - [Litmus](https://litmus.com/) -使用Litmus测试和跟踪您的电子邮件
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) -使用Campaign Monitor在所有不同的电子邮件客户端中测试您的设计.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) -发牢骚发送电子邮件测试给石蕊
-- [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) -用口香糖将电子邮件测试发送到石蕊
-- [MailTrap](https://mailtrap.io) -伪造的SMTP服务器，可以测试，查看和共享电子邮件，而不会向实际客户发送垃圾邮件.
+- [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) -用口香糖发送电子邮件测试给石蕊
+- [MailTrap](https://mailtrap.io) -伪造的SMTP服务器，可以在不向实际客户发送垃圾邮件的情况下测试，查看和共享电子邮件.
 - [testmail.app](https://testmail.app) -具有无限邮箱和GraphQL API的伪造SMTP服务器，用于自动进行端到端测试.
 - [MailHog](https://github.com/mailhog/MailHog) 本地伪造的SMTP服务器（基于Go）
 - [MailCatcher](https://mailcatcher.me/) 本地伪造的SMTP服务器（基于Ruby）
-- [Email Privacy Tester](https://www.emailprivacytester.com/) -一种测试电子邮件客户端的优先级功能的工具（加载远程内容）
+- [Email Privacy Tester](https://www.emailprivacytester.com/) -测试电子邮件客户端优先级功能的工具（加载远程内容）
 - [Mail Tester](https://www.mail-tester.com/) -测试电子邮件的垃圾邮件
 - [Sendtest.email](https://sendtest.email/)  -发送前测试您的HTML电子邮件，⚡4电子邮件或文本版本.  注重隐私，无需注册！
 

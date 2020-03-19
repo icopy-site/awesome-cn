@@ -32,7 +32,7 @@
 * [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) -受Medium和Facebook Notes启发的Rich Text编辑器.
 * [React-RTE](https://github.com/sstur/react-rte/) -类似于CKEditor或TinyMCE的全功能textarea替换.
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) -与Facebook笔记类似的富文本编辑器.
-* [Megadraft](https://github.com/globocom/megadraft) -丰富的文本编辑器，具有良好的插件和可扩展性默认库.
+* [Megadraft](https://github.com/globocom/megadraft) -具有丰富的默认插件和可扩展性的富文本编辑器.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) -中等风格的富文本编辑器，重点放在键盘快捷键上.
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) -WYISWYG编辑器，具有各种文本编辑选项和相应的HTML生成.
 * [Dante 2](https://github.com/michelson/dante2) -只是在DraftJs之上构建的另一个Medium克隆.
@@ -78,13 +78,13 @@
   - [Undo](https://www.draft-js-plugins.com/plugin/undo) -撤消和重做按钮.
   - [Video](https://www.draft-js-plugins.com/plugin/video)
 * [Draft.js Gutter](https://github.com/seejamescode/draft-js-gutter) -称赞行号装订线.
-* [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) -接受html作为其输入格式，然后将html返回到onChange.
+* [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) -接受html作为其输入格式，并将html返回到onChange.
 * [Draft.js Prism](https://github.com/SamyPesse/draft-js-prism)-使用Prism突出显示代码块.
 * [Draft.js Typeahead](https://github.com/dooly-ai/draft-js-typeahead) -支持预输入功能.
 * [Draft Extend](https://github.com/HubSpot/draft-extend) -使用可配置的插件和集成的序列化构建可扩展的Draft.js编辑器.
 * [Draft.js Code](https://github.com/SamyPesse/draft-js-code) -一组用于更佳代码编辑的低级实用程序
 * [Draft.js Annotatable](https://github.com/cltk/annotations) -Draft.js的现成注释系统，支持用户创建的注释.
-* [Draft.js Regex](https://github.com/YozhikM/draft-regex) -一组灵活的帮助程序，例如正则表达式，防止和粘贴HTML清除的空白行.
+* [Draft.js Regex](https://github.com/YozhikM/draft-regex) -一组灵活的帮助程序，例如正则表达式，空白行防止和粘贴HTML清除.
 
 ## Common Utilities
 
@@ -104,7 +104,7 @@
 * [A Beginner’s Guide to Draft.js](https://medium.com/@adrianli/a-beginner-s-guide-to-draft-js-d1823f58d8cc#.uufeulpl5)
 * [Implementing todo list in Draft.js](http://bitwiser.in/2016/08/31/implementing-todo-list-in-draft-js.html)
 * [Draft.js Pieces](https://cannibalcoder.com/2016/12/02/draft-js-pieces/)
-* [Learning Draft.js](https://reactrocket.com/series/learning-draft-js/) -有关如何使用draft.js开发的一系列博客文章
+* [Learning Draft.js](https://reactrocket.com/series/learning-draft-js/) -有关如何使用draft.js开发的系列博客文章
 * [Why Wagtail’s new editor is built with Draft.js](https://wagtail.io/blog/why-wagtail-new-editor-is-built-with-draft-js/)
 * [Rethinking rich text pipelines with Draft.js](https://wagtail.io/blog/rethinking-rich-text-pipelines-with-draft-js/)
 
@@ -124,6 +124,7 @@
 * [Decorators Editor - Tweet example](https://codepen.io/Kiwka/pen/KaZERV)
 
 ## Usage in Production
+* [StoryChief](https://www.storychief.io/)
 * [HKW Technosphere Magazine](https://technosphere-magazine.hkw.de/)
 * [Douban Read](https://read.douban.com/editor_ng)
 * [Dooly](https://www.dooly.ai)
@@ -134,4 +135,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Nikolaus Graf](https://github.com/nikgraf/) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Nikolaus Graf](https://github.com/nikgraf/) 已放弃此作品的所有版权以及相关或邻近的权利.

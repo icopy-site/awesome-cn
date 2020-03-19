@@ -27,7 +27,7 @@
 * clojurescript，om，反应
 * Eclipse公共许可证
 
- &gt; CircleCI提供了一个持续的集成和部署平台.  前端是使用clojurescript的不可变数据结构构建的大型应用程序的令人印象深刻的示例.  前端与推送器，对讲机，d3和Google Analytics（分析）集成在一起，并具有通过实时事件，websocket和后端API服务器进行导航路由和通信的出色示例.  它的测试套件并不广泛，但是确实提供了一个很好的示例，说明如何使用业力测试clojurescript / om应用程序.
+ &gt; CircleCI提供了一个持续的集成和部署平台.  前端是使用clojurescript的不可变数据结构构建的大型应用程序的令人印象深刻的示例.  前端与推送器，对讲机，d3和Google Analytics（分析）集成在一起，并且是通过实时事件，websocket和后端API服务器进行导航路由和通信的绝佳示例.  它的测试套件并不广泛，但是确实提供了一个很好的示例，说明如何使用业力测试clojurescript / om应用程序.
 
 ### [Precursor App](https://github.com/PrecursorApp/precursor)
 
@@ -41,7 +41,7 @@
 * play2，scala，node
 * Apache 2.0许可证
 
- &gt;监护人是一个新闻站点，具有订阅，登录，搜索，管理界面以及一系列用于处理静态前端与后端API之间的通信的中间人scala应用程序.  它的速度非常快，并具有全面的测试套件，以及如何优化大型传统网站以提高速度的出色示例.
+ &gt;监护人是一个新闻站点，具有订阅，登录，搜索，管理界面以及一系列用于处理静态前端和后端API之间的通信的中间人scala应用程序.  它的速度非常快，并具有全面的测试套件，以及有关如何优化大型传统网站以提高速度的出色示例.
 
 ### Web Apps (fullstack)
 ----
@@ -72,7 +72,7 @@
 * python，塔架，节点，react，rabbitmq，postgresql
 *通用公共版权许可版本1.0
 
- &gt; Reddit是一个新闻平台，提供网络上的最新消息和热门消息.  它是用python构建的，并与许多第三方服务集成：rabbitmq，memcached，cassandra，solr和postgresql等.  该代码提供了大型pylons项目的一个很好的示例，并且在与许多其他服务集成的代码方面大放异彩.
+ &gt; Reddit是一个新闻平台，用于发布网络上的最新消息和热门消息.  它是用python构建的，并与许多第三方服务集成：rabbitmq，memcached，cassandra，solr和postgresql等.  该代码提供了大型pylons项目的一个很好的示例，并且在与许多其他服务集成的代码方面大放异彩.
 
 ### [Taiga](https://github.com/taigaio)
 
@@ -94,7 +94,15 @@
 * Golang，反应
 * AGPLv3许可证
 
-> Filestash is a web based file manager that supports a range of protocols and platforms: FTP, SFTP, S3, Minio, Git, WebDAV, Backblaze, Dropbox, Google Drive, LDAP, CalDAV, CardDAV.
+&gt; Filestash是一个基于Web的文件管理器，支持多种协议和平台：FTP，SFTP，S3，Minio，Git，WebDAV，Backblaze，Dropbox，Google Drive，LDAP，CalDAV，CardDAV.
+
+### [Dnote](https://github.com/dnote/dnote)
+
+* Golang，反应，打字原稿
+* GPLv3许可证，AGPLv3许可证
+
+&gt; Dnote是免费的开源命令行笔记软件，它支持无限数量的设备之间的可伸缩数据同步，以及移动优先的Web界面，该界面也可以作为Progressive Web App安装在移动设备上.
+
 
 ## Desktop Apps
 ----
@@ -104,7 +112,7 @@
 * C，C ++，Python
 * GPLv2许可证
 
- &gt; Blender是3D图形软件，可以在视觉上与Maya和3DS Max竞争.  最终产品是跨平台3D工具软件的绝佳示例.  自1994年以来，这是一个非常成熟的项目，一直在开发中.它具有嵌入式python脚本引擎，游戏逻辑引擎，并装有3d操作，渲染和合成算法的实现.
+> Blender is 3D Graphic Software that can visually compete with Maya and 3DS Max. The end product is an amazing example of a cross-platform 3D Tooling piece of software. It is a very mature project having been in development since 1994. It has an embedded python scripting engine, a game logic engine and is loaded with implementations of 3d manipulation, rendering, and compositing algorithms.
 
 
 ### [Atom](https://github.com/atom/atom)

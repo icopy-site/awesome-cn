@@ -69,7 +69,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Google Fit](https://www.google.com/fit) -开放的生态系统，用于存储，访问和管理健身数据（Android）.
 - [Gyroscope](https://gyrosco.pe/) -量化的自我健康信息中心（网络，iOS和Android）.
 - [Exist](https://exist.io/) -在一个地方（网络，iOS和Android）跟踪所有内容.
-- [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (web).
+- [Zenobase](https://zenobase.com/) -存储，汇总和可视化来自多个第三方资源（网络）的数据.
 - [Validic](https://validic.com/) -基于云的平台，可连接来自数字医疗应用程序，设备和可穿戴设备的患者记录数据.
 - [FitnessSyncer](https://www.fitnesssyncer.com/) -将健康和健身数据整合到一个集中式平台中.
 - [IoTool](https://iotool.io/) -用于自动化和数据收集的智能手机物联网平台.
@@ -86,7 +86,8 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 ### Data Collection
 - [AskMeEvery](https://www.askmeevery.com/) -通过电子邮件或文本问题自动输入数据.
 - [Reporter](http://www.reporter-app.com/) -跟踪应用程序，可通过随机调查（iOS）收集数据.
-- [Logisit](http://www.logsit.com/) -量化的自我和生活记录应用程序，可跟踪您所做的事情（iOS）.
+- [Logsit](http://www.logsit.com/) -量化的自我和生活记录应用程序，可跟踪您所做的事情（iOS）.
+- [LifeMetrics](https://lifemetrics.io/) -每日问卷调查和自动生成的健康见解（iOS）.
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) -食物追踪和饮食计划应用程式（iOS和Android）.
@@ -100,14 +101,14 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) -基于网络的目标设定和跟踪软件（iOS和Android）.
 - [Lifetick](https://lifetick.com/) -在线目标跟踪平台.
-- [stickK](http://www.stickk.com/) -通过金钱承诺进行目标跟踪.
+- [stickK](http://www.stickk.com/) - Goal tracking with a monetary commitment.
 - [Beeminder](https://www.beeminder.com/)  -通过金钱承诺进行目标跟踪.  与许多设备和应用程序集成.
 - [Taskade](https://www.taskade.com/)  -简单且可共享的任务，清单和注释.  （网络，iOS和Android）.
 
 ### Habits
 - [Habitica](https://habitica.com) -习惯跟踪应用程序，可将您的目标视为角色扮演游戏（网络，iOS和Android）.
 - [HabitBull](http://www.habitbull.com/) -一个简单的移动习惯跟踪应用程序，用于构建和跟踪条纹（iOS和Android）.
-- [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
+- [Strides](http://www.stridesapp.com/) -通过SMART目标设置（网络，iOS）跟踪您的目标，习惯和项目的应用程序.
 - [Habit List](http://habitlist.com/) -养成良好的习惯，打破坏习惯，建立更好的自己（iOS）.
 - [Streaks](https://streaksapp.com/) -可帮助您养成良好习惯（iOS）的待办事项列表.
 - [Taskade](https://taskade.com/)  -现代任务列表，可在您所有设备之间同步.  （网络，iOS，Android，Chrome，Mac和PC）.
@@ -181,7 +182,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [You Need A Budget (YNAB)](http://www.youneedabudget.com/) -个人家庭预算软件.
 - [GNU Cash](https://www.gnucash.org/) -个人和小型企业财务会计软件.
 - [Ledger](https://github.com/ledger/ledger) -简单但功能强大的命令行记帐.
-- [Credit Karma](https://www.creditkarma.com/) -精益和信誉良好的信用评分跟踪器.
+- [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 - [Actual](https://actualbudget.com/) -个人家庭预算软件.
 
 ## Devices and Wearables

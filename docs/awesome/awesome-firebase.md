@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- title -->
-
+<!--lint ignore no-dead-urls-->
 ## Awesome Firebase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/jthegedus/awesome-firebase/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
@@ -35,9 +35,9 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
+-  [asdf-firebase](https://github.com/jthegedus/asdf-firebase) -一个 [asdf-vm](https://asdf-vm.com/)  firebase-tools的插件.  在没有Node.js或`npm`的情况下管理您的Firebase CLI！  非常适合python，golang，c ++和java Firebase项目.
 -  [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/)  -存储在远程配置中的CSS的动态/有条件加载.  （[Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 -  [Firecoil](https://github.com/rosariopfernandes/firecoil) -使用图片加载库Coil在您的Android应用中从GCS加载图片.
--  [Svarog](https://github.com/dantothefuture/svarog) -使用JSON模式生成的安全规则帮助程序功能进行Cloud Firestore模式验证.
 -  [Firebase Extensions](https://firebase.google.com/products/extensions) -Firebase Extensions为您的应用程序提供了扩展功能，而无需自己研究，编写或调试代码.
 -  [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) -将应用的预发布版本分发给您值得信赖的测试人员.
 
@@ -60,7 +60,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Firebase Dart](https://github.com/FirebaseExtended/firebase-dart) -Firebase的飞镖包装.
 -  [PolymerFire](https://github.com/FirebaseExtended/polymerfire) -用于Firebase的Polymer Web组件.
 -  [VueFire](https://github.com/vuejs/vuefire) -Vue.js的Firebase绑定.
--  [Angular Fire 2](https://github.com/angular/angularfire2) - Official library for Firebase and Angular.
+-  [Angular Fire 2](https://github.com/angular/angularfire2) -Firebase和Angular的官方库.
 -  [Re-base](https://github.com/tylermcginnis/re-base) -中继启发式库，用于构建React.js + Firebase应用程序.
 -  [React Redux Firebase](https://github.com/prescottprue/react-redux-firebase)  -Firebase的Redux绑定.  包括与React一起使用的高阶组件.
 -  [GatsbyJS Firebase Data Source](https://www.gatsbyjs.org/packages/) -使用Gatsby将Firebase数据直接查询到静态生成的页面中.
@@ -122,15 +122,16 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Firestore Rules Generator](https://github.com/FirebaseExtended/protobuf-rules-gen) -基于Google的协议缓冲区格式的Cloud Firestore的官方（但实验性）Firebase规则生成器.
 -  [Firepit](https://github.com/abehaskins/firepit) -Firepit是Firebase CLI的独立，可移植版本，没有任何依赖（包括Node.js）.
 -  [Fireward](https://github.com/bijoutrouvaille/fireward) -易于使用的Firestore规则语言，类似于Firebase Bolt.
+-  [Svarog](https://github.com/dantothefuture/svarog) -使用JSON模式生成的安全规则帮助程序功能进行Cloud Firestore模式验证.
 
 ## Other
 
 -  [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) -通过应用程序和用户切换来查询，（批处理）编辑和导出文档的WebApp.
 -  [FireDrill](https://github.com/scottlepp/fire-drill) -查找，编辑，添加，删除，导入，导出和报告Firebase数据.
 -  [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) -使用Firebase工具将常见功能整合到您的游戏中.
--  [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) -Firebase ANE集合使您可以使用100％相同的ActionScript API访问Android和iOS都支持的AdobeAir项目中的Google Firebase项目.
+-  [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) -Firebase ANE集合使您可以使用100％相同的ActionScript API访问Android和iOS支持的AdobeAir项目中的Google Firebase项目.
 -  [QtFirebase](https://github.com/Larpon/QtFirebase) -努力将Google的Firebase C ++ API引入Qt + QML.
--  [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) -StackBlitz（在线代码编辑器）到Firebase Hosting静态部署.
+-  [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (online code editor) to Firebase Hosting static deployments.
 -  [Flamelink](https://flamelink.io/)  -CMS for Firebase.  支持Firestore，RealtimeDatabase和存储.
 -  [Canner CMS](https://github.com/Canner/canner) -支持开发人员支持数据源（例如Firebase / Firestore，GraphQL和Restful API）的CMS.
 -  [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) -所有Firebase Summit 2018演讲.

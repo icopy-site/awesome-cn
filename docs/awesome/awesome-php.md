@@ -239,7 +239,7 @@
 *用于持续集成的库和应用程序.*
 
 * [CircleCI](https://circleci.com) -持续集成平台.
-* [GitlabCi](https://about.gitlab.com/product/continuous-integration/)  -让GitLab CI测试，构建，部署代码.  TravisCi喜欢.
+* [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)  -让GitLab CI测试，构建，部署代码.  TravisCi喜欢.
 * [Jenkins](https://jenkins.io/index.html) -具有以下功能的持续集成平台 [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) -用PHP编写并由Docker支持的持续集成客户端.
 * [PHPCI](https://github.com/dancryer/phpci) -一个用于PHP的开源持续集成平台.
@@ -272,7 +272,7 @@
 * [Symfony Security Monitoring](https://security.symfony.com/) -一种Web工具，用于检查您的Composer依赖项是否存在安全建议，以前称为“ SensioLabs安全检查”.
 * [TCrypto](https://github.com/timoh6/TCrypto) -一个简单的加密键值存储库.
 * [VAddy](https://vaddy.net/) -用于Web应用程序的连续安全测试平台.
-* [Zed](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) -用于Web应用程序的集成渗透测试工具.
+* [Zed](https://owasp.org/www-project-zap/) -用于Web应用程序的集成渗透测试工具.
 
 ### Passwords
 *用于处理和存储密码的库和工具.*
@@ -599,7 +599,7 @@
 ### Caching
 *用于缓存数据的库.
 
-* [Alternative PHP Cache (APC)](https://secure.php.net/manual/en/book.apc.php) -为PHP打开操作码缓存.
+* [Alternative PHP Cache (APC)](https://www.php.net/manual/en/book.apc.php) -为PHP打开操作码缓存.
 * [APIx Cache](https://github.com/apix/cache) -薄的PSR-6缓存包装器，用于各种缓存后端，强调缓存标记和索引.
 * [CacheTool](https://github.com/gordalina/cachetool) -从命令行清除APC /操作码缓存的工具.
 * [Cake Cache](https://github.com/cakephp/cache) -缓存库（CP）.
@@ -731,7 +731,7 @@
 *用于创建沙盒开发环境的软件和工具.*
 
 * [Ansible](https://www.ansible.com/) -一个非常简单的业务流程框架.
-* [Phansible](http://phansible.com/) -使用Ansible构建PHP开发虚拟机的Web工具.
+* [Phansible](https://phansible.com/) -使用Ansible构建PHP开发虚拟机的Web工具.
 * [Protobox](https://www.getprotobox.com/) -用于构建PHP开发虚拟机的另一个Web工具.
 * [PuPHPet](https://puphpet.com/) -用于构建PHP开发虚拟机的Web工具.
 * [Puppet](https://puppet.com/) -服务器自动化框架和应用程序.
@@ -802,7 +802,7 @@
 * [Learning Linux](https://linuxjourney.com/) -学习Linux的网站.
 * [Semantic Versioning](https://semver.org/) -解释语义版本控制的网站.
 * [Servers for Hackers](https://serversforhackers.com/) -有关服务器管理的新闻通讯.
-* [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page) -一个开放的软件安全社区.
+* [The Open Web Application Security Project (OWASP)](https://owasp.org/) -一个开放的软件安全社区.
 
 ### PHP Books
 *与PHP相关的精彩书籍.*
@@ -815,7 +815,7 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了XML文档的解析和验证，XPath表达式的使用以及名称空间的使用，以及如何以编程方式创建和修改XML文件.
@@ -882,7 +882,7 @@
 * [When Does Foreach Copy?](https://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html) -有关foreach内部的文章.
 * [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) -有关对象和数组内部的文章.
 * [You're Being Lied To](http://blog.golemon.com/2007/01/youre-being-lied-to.html) -有关内部ZVAL的文章.
-*收集垃圾： [1](https://secure.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://secure.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://secure.php.net/manual/en/features.gc.performance-considerations.php) -有关PHP垃圾回收内部的系列.
+*收集垃圾： [1](https://www.php.net/manual/en/features.gc.refcounting-basics.php) [2](https://www.php.net/manual/en/features.gc.collecting-cycles.php) [3](https://www.php.net/manual/en/features.gc.performance-considerations.php) -有关PHP垃圾回收内部的系列.
 *开发人员的PHP源代码： [1](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers.html) [2](https://nikic.github.io/2012/03/16/Understanding-PHPs-internal-function-definitions.html) [3](https://blog.ircmaxell.com/2012/03/phps-source-code-for-php-developers_21.html) [4](https://nikic.github.io/2012/03/28/Understanding-PHPs-internal-array-implementation.html) -有关PHP源代码的系列.
 
 ### PHP Magazines

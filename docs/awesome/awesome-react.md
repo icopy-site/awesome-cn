@@ -202,6 +202,7 @@
 - [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
 - [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
 - [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
+- [react-open-doodles](https://github.com/lunahq/react-open-doodles) -很棒的免费插图作为反应成分.
 - [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
 - [Bit - A virtual repository for managing and using react and other web components across applications](https://github.com/teambit/bit)
 - [AtlasKit - Atlassian's React UI library](https://atlaskit.atlassian.com/)
@@ -720,6 +721,6 @@
 
 ### Contribution
 
- 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始处于Beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+ 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始测试时，它是一个特殊的脚本，可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

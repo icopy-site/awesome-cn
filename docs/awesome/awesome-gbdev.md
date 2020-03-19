@@ -233,7 +233,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 ### Emulators
 
-- [BGB](http://bgb.bircd.org/)  -强大的仿真器和调试器.  提供准确的硬件仿真.
+- [BGB](https://bgb.bircd.org/)  -强大的仿真器和调试器.  提供准确的硬件仿真.
 - [SameBoy](https://github.com/LIJI32/SameBoy) -精确的仿真器，具有各种强大的调试功能.
 - [Mooneye GB](https://github.com/Gekkio/mooneye-gb) -Rust中的研究项目和模拟器.
 - [mGBA](https://github.com/mgba-emu/mgba) -现代化的跨平台GBA模拟器，也可以运行GB / GBC游戏.
@@ -353,7 +353,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线播放（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的所有非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
+- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方自制软件都可以在线玩（也可以通过移动/触摸）：社区领导试图收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
 - [Infinity](https://github.com/infinity-gbc/infinity)  -由Affinix Software开发的RPG，主要在1999年到2001年之间.该游戏从未找到发行商，并最终被取消了.  最近发布了完整的源代码，开发工具和工作流程.
 
 ### ASM
@@ -472,7 +472,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) -它是什么以及如何使用它制作作弊代码.
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) -绕过Nintendo徽标检查.
  -在2017年制作Game Boy游戏：“ Sheep It！”  事后[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
-- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) -每个墨盒都必须显示真实徽标，才能被认为是有效的并且可以运行，但是显然，有些公司设法利用了检查系统.
+- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) -每个墨盒都必须显示真实徽标，才能被认为是有效的并且可以运行，但是显然，有些公司设法利用了支票系统.
 - [liblsdj](https://github.com/stijnfrishert/liblsdj) -用于与LSDj保存格式（.sav），歌曲文件（.lsdsng）等交互的实用程序库.
 - [lsdpatch](https://github.com/jkotlinski/lsdpatch) -用于修改LSDj ROM映像上的样本，字体和调色板的工具.
 - [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) -使用STAT中断进行有趣的视频操作的一些小实验.
