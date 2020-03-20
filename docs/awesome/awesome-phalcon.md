@@ -39,6 +39,7 @@
 * [Phalcon Composer](https://github.com/xxtime/phalcon) -带有Composer的Phalcon支持MySql MongoDb Redis，干净+美丽
 * [Vökuró](https://github.com/phalcon/vokuro) -Phalcon框架的示例应用程序（Acl，Auth，安全性）
 * [Webird](https://github.com/perchlabs/webird) -创建Webird是为了将最新的PHP和Node.js创新合并到单个应用程序堆栈中
+* [NovaMOOC](https://github.com/les-enovateurs/phalcon-nova-mooc) -带有API / BackEnd和FrontEnd的示例应用程序+带有JWT的身份验证+带有GitHub Actions + Docker的Cypress测试+组成.
 
 
 ## Authentication & OAuth
@@ -94,7 +95,7 @@
 
 * i18n和l10n库和服务的列表.*
 
-* [xgettext-template](https://github.com/gmarty/xgettext) - Extract gettext messages from Volt templates using a command line program that is identical to the [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
+* [xgettext-template](https://github.com/gmarty/xgettext) -使用与以下命令相同的命令行程序从Volt模板提取gettext消息： [xgettext invocation](http://www.gnu.org/software/gettext/manual/gettext.html#xgettext-Invocation).
 
 
 ## Integration
@@ -222,12 +223,15 @@
 * [Phalcon Forums](https://forum.phalcon.io/) -Phalcon论坛
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) -Gitter.im中的俄罗斯社区聊天
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) -StackOverflow标记问题
-* [Twitter](https://twitter.com/phalconphp) -Twitter上的Phalcon
+* [Twitter](https://twitter.com/phalconphp) - Phalcon on Twitter
+
+## Books
+
+* [Phalcon Book (in French)](https://www.editions-eni.fr/livre/phalcon-3-developpez-des-applications-web-complexes-et-performantes-en-php-9782409022746) -Phalcon：使用PHP开发复杂而强大的Web应用程序
 
 ## E-Books
 
 * [Phalcon PDF Documentation](https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) -Phalcon框架文档
-
 
 ## Websites
 

@@ -87,6 +87,7 @@
 - [How I used Docker with Rails](https://medium.com/@admatbandara/how-i-used-docker-with-rails-45601c43ed8f)
 - [More than "Hello World" in Docker: Build Rails + Sidekiq web apps in Docker](https://dev.to/jamby1100/more-than-hello-world-in-docker-run-rails-sidekiq-web-apps-in-docker-1b37)
 - [Rails 6 Features: What's New and Why It Matters](https://www.toptal.com/ruby-on-rails/rails-6-features)
+- [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
 
 
 ## Open Source Rails Apps
@@ -128,7 +129,7 @@
 - [dev.to](https://github.com/thepracticaldev/dev.to) -专门用于Web开发的社交平台应用-**使用Rails 5.2 **- [:earth_africa:](https://dev.to)
 - [dgi-db](https://github.com/griffithlab/dgi-db) -药物基因相互作用平台-**使用Rails 5.1 **
 - [diaper](https://github.com/rubyforgood/diaper) -尿布银行的库存管理应用程序-**使用Rails 6.0 **- [:earth_africa:](https://diaper.app/)
-- [diaspora](https://github.com/diaspora/diaspora) -社交网络应用-**使用Rails 5.1 **- [:earth_africa:](https://diasporafoundation.org)
+- [diaspora](https://github.com/diaspora/diaspora) - A social networking app - **using Rails 5.1** - [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) -社区讨论的平台-**使用Rails 6.0 **- [:earth_africa:](https://try.discourse.org/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) -农场管理应用程序-**使用Rails 4.2 **
 - [postal](https://github.com/postalhq/postal) -邮件传递平台-**使用Rails 5.2 **
@@ -167,7 +168,7 @@
 - [otwarchive](https://github.com/otwcode/otwarchive) -面向粉丝的社交网络应用-**使用Rails 5.1 **- [:earth_africa:](http://archiveofourown.org)
 - [passwordPusher](https://github.com/pglombardo/PasswordPusher) -密码传送应用-**使用Rails 4.2 **- [:earth_africa:](https://pwpush.com)
 - [peatio](https://github.com/peatio/peatio) -加密货币兑换应用-**使用Rails 4.0 **- [:earth_africa:](http://www.peatio.com)
-- [planningalerts-app](https://github.com/openaustralia/planningalerts) -计划中的应用程序跟踪应用程序-**使用Rails 5.2 **- [:earth_africa:](https://www.planningalerts.org.au)
+- [planningalerts-app](https://github.com/openaustralia/planningalerts) -计划中的应用程序跟踪应用程序-**使用Rails 5.2 **- [:earth_africa:](http://www.planningalerts.org.au)
 - [popHealth](https://github.com/pophealth/popHealth) -人口健康报告应用程序-**使用Rails 4.1 **
 - [publify](https://github.com/publify/publify) -博客应用-**使用Rails 5.2 **
 - [quant](https://github.com/jdjkelly/quant) -个人健康追踪器-**使用Rails 4.1 **
@@ -238,7 +239,7 @@
 -** friendly_id **-用于处理子弹和永久链接的宝石- [rubygems](https://rubygems.org/gems/friendly_id) - [source code](https://github.com/norman/friendly_id)
 -** kaminari **-提供分页功能的宝石- [rubygems](https://rubygems.org/gems/kaminari) - [source code](https://github.com/kaminari/kaminari)
 -**密码盒**-处理加密的瑰宝- [rubygems](https://rubygems.org/gems/lockbox) - [source code](https://github.com/ankane/lockbox)
-- **paloma** - A gem to manage page-specific javascript in Rails - [rubygems](https://rubygems.org/gems/paloma) - [source code](https://github.com/gnclmorais/paloma)
+-** paloma **-在Rails中管理页面特定javascript的瑰宝- [rubygems](https://rubygems.org/gems/paloma) - [source code](https://github.com/gnclmorais/paloma)
 -** prerender_rails **-预先渲染javascript渲染页面的宝石- [rubygems](https://rubygems.org/gems/prerender_rails) - [source code](https://github.com/prerender/prerender_rails)
 -** rails_admin **-创建和管理Rails应用程序管理面板的瑰宝- [rubygems](https://rubygems.org/gems/rails_admin) - [source code](https://github.com/sferik/rails_admin)
 -排名模型**-用于处理行排序的宝石- [rubygems](https://rubygems.org/gems/ranked-model) - [source code](https://github.com/mixonic/ranked-model)
@@ -269,6 +270,7 @@
  |  发电机|  准备运行|  复杂应用|  设置git |  Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
 | [Rails Composer](https://github.com/RailsApps/rails-composer) |  是的，但是需要配置Stripe |  带有条带化的SaaS的示例应用程序.  |  是的  是
+| [Hix on Rails](https://hixonrails.com) |  是的  监控，Redis前哨，Sidekiq.  |  是的  没有
 
 
 ### DevTools

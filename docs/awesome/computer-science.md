@@ -4,7 +4,7 @@
 
 <h3 align="center">开源社会大学</h3>
 <p align="center">
-  通往计算机科学免费自学教育之路！
+  免费学习计算机科学自学之路！
 </p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -43,10 +43,10 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
  **组织**.  课程设计如下：
 -*简介CS *：让学生尝试CS，看看是否适合他们
--*核心CS *：大致对应于计算机科学课程的前三年，所有专业都必须参加的课程
+-*核心CS *：大致对应于计算机科学课程的前三年，所有学生都必须参加该课程
 -*高级CS *：大致对应于计算机科学课程的最后一年，根据学生的兴趣选择选修课
 -*最终项目*：该项目供学生验证，巩固和展示其知识，并由世界各地的同行进行评估
--*专业CS *：研究生课程的专业学生如果希望最大程度地获得工作的机会，可以选择完成上述课程后选择参加
+-*专业CS *：研究生课程的专业学生如果希望最大程度地获得良好工作的机会，可以选择完成上述课程后选择参加
 
  **持续时间**.  如果您精心计划并每周花大约18-22个小时学习，则大约2年内即可完成Core CS.
 如果可能，Core CS的课程应采用线性课程，但由于极不可能实现完美的线性进度，
@@ -144,8 +144,6 @@ Lisp家庭语言（通过球拍）
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)  |  7周  每周8-10个小时|  没有
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  |  6周  每周8-10个小时|  如何编码：简单数据
-[Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)  |  6周  每周8-10个小时|  如何编码-复杂数据
-[Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  6周  每周8-10个小时|  软件构建-数据抽象
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3周  每周8-16小时|  编程语言，A部分
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3周  每周8-16小时|  编程语言，B部分
@@ -192,12 +190,9 @@ Lisp家庭语言（通过球拍）
 离散概率
 还有更多
 
- 课程  持续时间|  努力  先决条件
-:-- | :--: | :--: | :--:
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) <sup>** 1 **</sup> |  13周|  每周5小时|  微积分1C
-
-<sup>** 1 **</sup> ：在MIT Math for CS方面挣扎的学生可以考虑参加 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一.
-它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.
+ 课程  持续时间|  努力  注意事项  先决条件
+:-- | :--: | :--: | :--: | :--:
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)  |  13周|  每周5小时|  带有问题集解决方案的备用版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) .  挣扎的学生可以考虑 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics)  第一.  它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.  |  微积分1C
 
 ### Core systems
 
@@ -368,7 +363,7 @@ These courses assume knowledge of basic physics.
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得专业化课程，但并非所有人都允许这样做.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:

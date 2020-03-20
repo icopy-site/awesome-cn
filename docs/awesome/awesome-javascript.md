@@ -36,7 +36,7 @@
 * [lazyload](https://github.com/rgrove/lazyload/) -微小，无依赖的异步JavaScript和CSS加载器.
 * [script.js](https://github.com/ded/script.js) -异步JavaScript加载器和依赖项管理器.
 * [systemjs](https://github.com/systemjs/systemjs) -符合AMD，CJS和ES6规范的模块加载器.
-* [LodJS](https://github.com/yanhaijing/lodjs) -基于AMD的模块加载器.
+* [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
 * [ESL](https://github.com/ecomfe/esl) -首先是模块加载器浏览器，支持延迟定义和AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) -轻量级JavaScript模块系统.
 
@@ -69,7 +69,7 @@
 ### Assertion
 
 * [chai](https://github.com/chaijs/chai) -用于node.js的BDD / TDD断言框架，以及可以与任何测试框架配对的浏览器.
-* [Enzyme](http://airbnb.io/enzyme/index.html) -Enzyme是用于React的JavaScript测试实用程序，可以更轻松地断言，操纵和遍历React组件的输出.
+* [Enzyme](http://airbnb.io/enzyme/index.html) - Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 * [react testing library](https://github.com/kentcdodds/react-testing-library) -简单而完整的React DOM测试实用程序，鼓励良好的测试实践.
 * [Sinon.JS](https://github.com/sinonjs/sinon) -测试JavaScript的间谍，存根和模拟.
 * [expect.js](https://github.com/Automattic/expect.js) -针对Node.JS和浏览器的BDD风格的断言.
@@ -89,7 +89,7 @@
 * [zombie](https://github.com/assaf/zombie) -使用node.js进行快速，全栈，无头的浏览器测试.
 * [totoro](https://github.com/totorojs/totoro) -一个简单稳定的跨浏览器测试工具.
 * [karma](https://github.com/karma-runner/karma) -JavaScript的壮观测试运行器.
-* [nightwatch](https://github.com/nightwatchjs/nightwatch) -基于node.js和Selenium Webdriver的UI自动化测试框架.
+* [nightwatch](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern](https://github.com/theintern/intern) -下一代JavaScript代码测试堆栈.
 * [yolpo](http://www.yolpo.com) -浏览器中的按语句JavaScript解释器.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) -由Google Chrome官方团队提供的无头Chrome Node.js API.
@@ -202,7 +202,7 @@
 * [dc.js](https://github.com/dc-js/dc.js) -建立了多维图表，可与d3.js渲染的交叉过滤器一起使用
 * [vega](https://github.com/trifacta/vega) -可视化语法.
 * [processing.js](http://processingjs.org/) -Processing.js使您的数据可视化可以使用Web标准进行且无需任何插件.
-* [envisionjs](https://github.com/HumbleSoftware/envisionjs) -动态HTML5可视化.
+* [envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization.
 * [rickshaw](https://github.com/shutterstock/rickshaw) -用于创建交互式实时图形的JavaScript工具包.
 * [flot](https://github.com/flot/flot) -有吸引力的jQuery JavaScript图表.
 * [morris.js](https://github.com/morrisjs/morris.js) -漂亮的时序线形图.
@@ -219,7 +219,7 @@
 * [c3](https://github.com/c3js/c3) -基于D3的可重用图表库.
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) -使用HTML 5和WebGL构建3D游戏的框架.
 * [recharts](https://github.com/recharts/recharts) -使用React和D3构建的重新定义的图表库.
-* [GraphicsJS](https://www.graphicsjs.org) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
+* [GraphicsJS](https://www.graphicsjs.org) -基于SVG / VML技术的具有直观API的轻量级JavaScript图形库.
 * [mxGraph](https://github.com/jgraph/mxgraph) -图表库，可快速创建交互式图形和图表应用程序，该应用程序可在其供应商支持的任何主要浏览器中本地运行.
 
 还有一些很棒的商业图书馆，例如 [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/)和 [highchart](http://www.highcharts.com/).
@@ -370,7 +370,7 @@
 ## Storage
 
 * [store.js](https://github.com/marcuswestin/store.js)  -适用于所有浏览器的LocalStorage包装器，无需使用Cookie或Flash.  在后台使用localStorage，globalStorage和userData行为.
-* [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+* [localForage](https://github.com/mozilla/localForage)  -离线存储，已改进.  使用简单但功能强大的API包装IndexedDB，WebSQL或localStorage.
 * [jStorage](https://github.com/andris9/jStorage) -jStorage是一个简单的键/值数据库，用于在浏览器端存储数据.
 * [cross-storage](https://github.com/zendesk/cross-storage) -跨域本地存储，具有权限.
 * [basket.js](https://github.com/addyosmani/basket.js) -脚本和资源加载器，用于通过localStorage缓存和加载脚本.
@@ -460,7 +460,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的自以为是的REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) -支持OAuth / API密钥/基本等的通用API客户端.
 
@@ -517,7 +517,7 @@
 * [Ladda](https://github.com/hakimel/Ladda) -带有内置加载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) -用CSS动画制作的加载微调器集合
 
-除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)，以及类似的生成器 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
+除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/), 和 generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
 
 
 ## Validation
@@ -534,8 +534,8 @@
 
 ## Keyboard Wrappers
 
-* [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in JavaScript.
-* [keymaster](https://github.com/madrobby/keymaster) -一个简单的微库，用于定义和分配键盘快捷键.
+* [mousetrap](https://github.com/ccampbell/mousetrap) -用于处理JavaScript中的键盘快捷键的简单库.
+* [keymaster](https://github.com/madrobby/keymaster) -用于定义和分配键盘快捷键的简单微库.
 * [Keypress](https://github.com/dmauro/Keypress) -键盘输入捕获实用程序，其中任何键都可以是修饰键.
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) -一个用于绑定键盘组合的JavaScript库，而不会造成键代码和键组合冲突的困扰.
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) -jQuery Hotkeys使您可以在代码中的任何地方监视键盘事件，从而支持几乎任何按键组合.
@@ -550,14 +550,14 @@
 * [tourist](https://github.com/easelinc/tourist) -为您的应用提供简单灵活的导览.
 * [chardin.js](https://github.com/heelhook/chardin.js) -适用于您的应用程序的简单叠加说明.
 * [pageguide](https://github.com/tracelytics/pageguide) -使用jQuery和CSS3的网页元素的交互式指南.
-* [hopscotch](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
+* [hopscotch](https://github.com/linkedin/hopscotch) -一个框架，使开发人员可以轻松地向其页面添加产品浏览.
 * [joyride](https://github.com/zurb/joyride) -jQuery功能导览插件.
 * [focusable](https://github.com/zzarcon/focusable) -将焦点放在DOM元素上，从而在页面的其余部分添加一个叠加层.
 * [driver.js](https://github.com/kamranahmedse/driver.js) -强大而轻巧的原始JavaScript引擎，可在页面上吸引用户的注意力
 
 ## Notifications
 
-* [iziToast](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
+* [iziToast](https://github.com/dolce/iziToast) -优雅，响应迅速，灵活轻便的通知插件，无依赖性.
 * [messenger](https://github.com/HubSpot/messenger) -为您的应用发出怒吼式的警报和消息.
 * [noty](https://github.com/needim/noty) -jQuery通知插件.
 * [pnotify](https://github.com/sciactive/pnotify) -用于Bootstrap，jQuery UI和Web通知草稿的JavaScript通知.
@@ -595,7 +595,7 @@
 
 * [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) -强大且易于自定义的范围滑块，具有许多选项和皮肤支持.
 * [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) -支持日期的JavaScript滑块选择器.
-* [noUiSlider](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
+* [noUiSlider](https://github.com/leongersen/noUiSlider) -轻巧，高度可定制的范围滑块，不会膨胀.
 * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) -HTML5输入范围滑块元素polyfill.
 
 
@@ -605,7 +605,7 @@
 
 * [typeahead.js](https://github.com/twitter/typeahead.js) -快速且功能齐全的自动完成库.
 * [tag-it](https://github.com/aehlke/tag-it) -一个jQuery UI插件，用于处理多标签字段以及标签建议/自动填充.
-* [At.js](https://github.com/ichord/At.js) -向您的应用程序添加GitHub，例如提及自动完成功能.
+* [At.js](https://github.com/ichord/At.js) -将GitHub提及提及自动完成功能添加到您的应用程序.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) -用于HTML5占位符属性的JavaScript polyfill.
 * [fancyInput](https://github.com/yairEO/fancyInput) -通过CSS3效果使输入字段的输入变得有趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) -使用此jQuery插件将简单的文本输入神奇地转换为很酷的标签列表.
@@ -626,7 +626,7 @@
 ### Select
 
 * [selectize.js](https://github.com/brianreavis/selectize.js)  -选择是文本框和选择框的混合.  它基于jQuery，并具有自动完成功能和原生键盘导航功能；  用于标记，联系人列表等
-* [select2](https://github.com/select2/select2)  -基于jQuery的选择框替换.  它支持搜索，远程数据集和结果的无限滚动.
+* [select2](https://github.com/select2/select2) - a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * [chosen](https://github.com/harvesthq/chosen) -一个用于使长而笨拙的选择框更友好的库.
 
 ### File Uploader
@@ -645,7 +645,7 @@
 * [Countable](https://github.com/RadLikeWhoa/Countable) -一个JavaScript函数，可将实时的段落，单词和字符计数添加到HTML元素.
 * [card](https://github.com/jessepollak/card) -只需一行代码即可使您的信用卡表格更好.
 * [stretchy](https://github.com/LeaVerou/stretchy) -表单元素自动调整大小，应采用的方式.
-* [analytics](https://github.com/davidwells/analytics) -轻巧，可扩展的分析库，旨在与任何第三方分析提供商一起使用，以跟踪页面浏览，自定义事件并识别用户.
+* [analytics](https://github.com/davidwells/analytics) -轻巧，可扩展的分析库，旨在与任何第三方分析提供商一起使用，以跟踪页面浏览量，自定义事件和识别用户.
 
 
 ## Tips
@@ -840,10 +840,10 @@
 * [BitSet.js](https://github.com/infusion/BitSet.js) -JavaScript位向量实现
 * [spoiler-alert](https://github.com/joshbuddy/spoiler-alert)  -警惕！  一个快乐的小jquery插件，用于在您的网站上隐藏剧透.
 * [jquery.vibrate.js](https://github.com/illyism/jquery.vibrate.js) -振动API包装器
-* [list.js](https://github.com/javve/list.js) - Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+* [list.js](https://github.com/javve/list.js)  -为表格，列表和各种HTML元素增加了搜索，排序，过滤器和灵活性.  构建为不可见并可以在现有HTML上运行.
 http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) -MixItUp-筛选和排序插件.
-* [grid](https://github.com/hootsuite/grid) -用于二维，可调整大小和响应式列表的拖放库.
+* [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) -jQuery的响应式等高插件.
 * [survey.js](https://github.com/surveyjs/surveyjs)  -JavaScript Survey Engine.  它使用JSON来提供调查元数据和结果.  http://surveyjs.org/
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://sdras.github.io/object-explorer/) -帮助确定在任何给定时间最适合使用哪种本机JavaScript方法的资源
@@ -851,6 +851,9 @@ http://www.listjs.com
 * [ky](https://github.com/sindresorhus/ky) -基于浏览器Fetch API的小巧优雅的HTTP客户端.
 * [Fcal](https://github.com/5anthosh/fcal) -数学表达式评估器
 * [emoji-button](https://github.com/joeattardi/emoji-button) -香草JavaScript表情符号选择器组件
+* [ink-components](https://github.com/ink-components/ink-components) -用于交互式科学写作，反应性文档和可解释性说明的Web组件.
+* [Idyll](https://github.com/idyll-lang/idyll)  -创建可解释的解释和交互式讲故事的文章.  可 [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
+
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) -有关JavaScript和Web平台的实时视频广播播客.
