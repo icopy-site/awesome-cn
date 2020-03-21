@@ -20,7 +20,7 @@ them. This is the case for Quicklisp, BordeauxThreads and
  在Awesome-cl列表中进行推广.  他们证明是可靠的，他们可能会解决
 比社区标准更好的问题，但他们没有
  普遍存在，或者不被认为是稳定的.  例如，我们更喜欢
-Cl-Who上的喷丝板.
+Spinneret over Cl-Who.
 
  添加新的东西！  看到 [contributing](#contributing) 向其中添加内容的部分
 list.
@@ -186,7 +186,7 @@ Docker映像
 
 ## C ##
 
-*：星级： [CFFI](https://github.com/cffi/cffi)  -易于使用的便携式C外部功能接口.  [Expat] [14].
+*：星级： [CFFI](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat][14].
 * [cl-autowrap](https://github.com/rpav/cl-autowrap)  -自动将头文件解析为CFFI定义.  [FreeBSD] [39].
 * [cl-bindgen](https://github.com/sdilts/cl-bindgen)  -用于从C头文件创建Common Lisp语言绑定的命令行工具和库.  [MIT] [200].
 * [cl-gobject-introspection](https://github.com/andy128k/cl-gobject-introspection) - [Gobject Introspection](https://gi.readthedocs.io/en/latest/)  FFI.  自动绑定以调用C库.  [BSD] [15].  生成一个Lisp接口 [gir2cl](https://github.com/kat-co/gir2cl) .  [LGPL3] [9].
@@ -252,7 +252,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
-* [donuts](https://github.com/tkych/donuts)  -图形绘制DSL用于Common Lisp.  [Expat] [14].
+* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [Expat] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -612,7 +612,7 @@ Web框架
 * [Caveman](https://github.com/fukamachi/caveman)  -强大的网络框架.  [LLGPL] [8].
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web)  -构建现代Web应用程序的框架.  [Expat] [14].
-* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex), an extended and noob-friendly ningle (mostly easier handling of query parameters). [MIT][200].
+* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的神经元（通常更易于处理查询参数）.  [MIT] [200].
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
@@ -695,7 +695,7 @@ Websockets
 ----------
 
 *  [usocket](https://github.com/usocket/usocket)  -便携式TCP和UDP套接字接口.  [Expat] [14].
-* [websocket-driver](https://github.com/fukamachi/websocket-driver)  -WebSocket服务器/客户端实现，后端不可知（Clack）.  [3子BSD] [15].
+* [websocket-driver](https://github.com/fukamachi/websocket-driver) - a WebSocket server/client implementation, backend agnostic (Clack). [3-clause BSD][15].
 
 查看更多 [on cliki](http://www.cliki.net/site/search?query=websockets).
 
@@ -718,7 +718,7 @@ Deployment
 也可以看看：
 
 - [Heliohost](https://www.heliohost.org/) 免费的托管解决方案.
-- [Platform.sh](https://platform.sh/blog/2019/lisp/) has Common Lisp support.
+- [Platform.sh](https://platform.sh/blog/2019/lisp/) 有Common Lisp支持.
 
 Monitoring
 ----------
@@ -887,7 +887,9 @@ Lisp版本的“ Hello World！”的可执行文件！
 程序，为混合语言调试提供支持.
 * [replic](https://github.com/vindarel/replic/)  -帮助程序将现有代码转换为readline应用程序，重点放在定义命令参数的完成.  还提供了即用型可执行文件，可将用户的lispy初始化文件转换为readline命令.  [MIT] [200].
 * [cl-all](https://github.com/shinmera/cl-all)  -在多个实现中运行Lisp代码段的脚本.  这使您可以快速比较实施行为和差异.  [Artistic License 2.0] [51].
-* [clawk](https://github.com/sharplispers/clawk)  -嵌入到Common Lisp中的AWK实现，用于在文件中搜索行并在其字段上执行指定的操作.  BSD风格.
+* [clawk](https://github.com/sharplispers/clawk) - an AWK implementation embedded into Common Lisp, to search files for lines and perform specified actions on its fields. BSD-style.
+* [ScriptL](https://github.com/rpav/ScriptL)  -使Shell脚本变得像Lisp一样！  或者，实时编码的远程函数调用该外壳程序.  在REPL中编写命令，然后在shell中立即运行它.  [LLGPL] [8].
+
 
 文字编辑器资源
 =====================
@@ -1171,14 +1173,14 @@ Other
 *：星级： [esrap](https://github.com/scymtym/esrap)  -Packrat解析器.  [Expat] [14].
 * [fast-io](https://github.com/rpav/fast-io)  -快速八位位组向量/流I / O.  [3子BSD] [15].
 * [glyphs](https://github.com/ahungry/glyphs/)  -用于减少Common Lisp的详细信息的库.  [GNU GPL3] [2].
-* [iolib](https://github.com/sionescu/iolib) - I/O library. [Expat][14].
+* [iolib](https://github.com/sionescu/iolib)  -I / O库.  [Expat] [14].
 * [mixalot](https://github.com/ahefner/mixalot)  -松散耦合的音频库集合.  未指定许可证.
 * [named-readtables](https://github.com/melisgl/named-readtables)  -提供类似于包名称空间的可读取名称空间.  [3子BSD] [15].
 * [nEXT-Browser](http://github.com/nEXT-Browser/nEXT)  -以生产力为重点的，可扩展/可编程的Web浏览器.  [3子BSD] [15].
 * [Salza2](http://www.xach.com/lisp/salza2/)  -用于创建压缩数据的库.  [FreeBSD] [39].
 * [simple-currency](https://github.com/a0-prw/simple-currency)  -使用欧洲央行发布的每日信息的货币换算库.  [FreeBSD] [39].
 * [template](https://bitbucket.org/tarballs_are_good/template)  -类似于C ++的模板和函数库.  [3子BSD] [15].
-* [texp](http://mr.gy/software/texp/) - A DSL to generate TeX. No license specified.
+* [texp](http://mr.gy/software/texp/)  -生成TeX的DSL.  未指定许可证.
 * [trivial-benchmark](https://github.com/Shinmera/trivial-benchmark)  -小型基准测试库.  [Artistic License 2.0] [51].
 * [trivial-garbage](https://github.com/trivial-garbage/trivial-garbage)  -便携式终结器，弱哈希表和弱指针API.  公共区域.
 * [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/)  -用于执行基于UTF-8的I / O的小型库.  BSD.

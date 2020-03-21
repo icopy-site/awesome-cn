@@ -34,7 +34,7 @@
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) -社区YouTube频道和 [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
 - [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -视觉上引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
-- [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) -在InfoQ上观看演示和录像.
+- [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Watch presentations and video recordings on InfoQ.
   
 ## Courses
 
@@ -50,6 +50,7 @@
 - [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) -2020年2月9日，查看组织中的团队和层级以及用于满足组织需求的做法，例如结盟，报告等.
 - [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/)  -Wardley映射显示，区块链的成熟度演变与其他主流技术相同.  2020年1月28日.
 - [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html)  -使用Wardley地图查看喷气发动机的演变.  2020年1月5日.
+- [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x)  -因为您雇用的专家没有神奇的子弹.  2019年11月4日.
 - [Embedded in memory](https://medium.com/@swardley/embedded-in-memory-b05b0e7c183f)  -文化周期.  2019年10月2日.
 - [Exploring value](https://medium.com/@swardley/exploring-value-e1ff89cfe019)  -价值观，韧性，原则，实现体系.  2019年10月1日.
 - [From values to rituals](https://medium.com/@swardley/from-values-to-rituals-b6f6ae7787bd) -2019年9月9日
@@ -60,7 +61,7 @@
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  -应对推出新型支付解决方案的挑战.  2019年6月14日.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  -通过沃德利地图了解加密货币生态系统.  2019年6月2日.
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.
-- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种方法最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
+- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种策略最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源；  并跨多个NSO启用大数据协作.  下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019年3月12日.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所开创的地图形式相结合.  2019年1月2日.
 - [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  -考虑用户需求和用户研究的三种方式以及Wardley地图如何帮助我们考虑在哪里进行用户研究.  2018年11月2日.
@@ -71,7 +72,7 @@
 - [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html)  -我们如何充分利用技术来支持医疗保健？  2018年7月19日.
 - [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315)  -由Cynefin告知的具有Wardley映射的特定于上下文的成熟度模型.  2018年5月11日.
 - [A mechanism for building a roadmap](https://hackernoon.com/a-mechanism-for-building-a-roadmap-2708d762097f)  -使用Wardley地图建立路线图.  2018年1月9日.
-- [Uber, the not so disrupting disruptor?](https://medium.com/@swardley/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) - Sep 11, 2017.
+- [Uber, the not so disrupting disruptor?](https://medium.com/@swardley/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) -2017年9月11日.
 - [Blue pill or red pill?](https://medium.com/@swardley/blue-pill-or-red-pill-9249bed5918b)  -学说和学说阶段.  2017年5月25日.
 - [Is my diagram a map?](https://medium.com/@swardley/is-my-diagram-a-map-7b30c10fb693) -2017年5月12日.
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974)  -先锋，定居者和城市规划师（Wardley PST）.  2017年1月31日.
@@ -81,6 +82,8 @@
 - [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) -2016年11月30日.
 - [The map is not the territory](https://medium.com/@swardley/the-map-is-not-the-territory-257a3c258a83) -2016年11月24日.
 - [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0)  -建筑实践和基于价值的开发的演变和共同发展.  2016年11月23日.
+- [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government)  -第2部分Mark Thompson概述了数字化愿景，以使政府成为一个更具凝聚力的集成组织.  2015年10月9日.
+- [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight)  -第1部分Mark Thompson概述了数字愿景，以使政府成为一个更具凝聚力的集成组织.  2015年10月9日.
 
 ## Research Papers
 
@@ -110,11 +113,15 @@
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2)  -开源映射工具.  提供托管版本 [here](https://atlas2.wardleymaps.com/).
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具.  提供托管版本 [here](https://onlinewardleymaps.com/).
-- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) -⚠️可观察 [Terms of Service](https://observablehq.com/terms-of-service) .  MapScript [feature requests](https://mapscript.canny.io/feature-requests) .  提供托管版本 [here](https://mapscript.org).
+- [MapScript](https://observablehq.com/collection/@ajbouh/mapscript)  -注意MapScript建立在Observable之上.  阅读他们 [Terms of Service](https://observablehq.com/terms-of-service) .  MapScript [feature requests](https://mapscript.canny.io/feature-requests) .  提供托管版本 [here](https://mapscript.org).
 
 ### Doctrine Assessement
 
 - [Doctrine](https://github.com/cdaniel/doctrine/)  -一种简单的工具，可根据沃德利（Wardley）的理论可视化公司的竞争力.  提供托管版本 [here](https://doctrine.wardleymaps.com/).
+
+### Commercial Enterprise Platforms
+
+- [Wemvula](https://rainmaker.solutions/wemvula/) -一个可视化的转换平台，可提供态势感知，以使您的需求，思想，服务组件，供应合同和变更活动相互联系.
 
 ## Events
 

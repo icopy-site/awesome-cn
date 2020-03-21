@@ -15,7 +15,7 @@
 - [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中在数据驱动的最新端到端（E2E）NLG方法上，这些方法可以从不对齐的数据中共同学习句子规划和表面实现.
 - [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库.
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) -来自weather.gov（美国公共天气预报）的计算机生成的天气预报以及相应的天气数据.
-- [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引荐表达生成.
+- [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引用表达生成.
 - [WikiBio - wikipedia biography dataset](https://github.com/DavidGrangier/wikipedia-biography-dataset)  -该数据集从Wikipedia收集了728321份传记.  它旨在评估文本生成算法.  对于每篇文章，我们提供第一段和信息框（均标记化）.
 - [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus)  -从Wikipedia收集的公司描述.  数据集包含英文的51K公司的语义表示，简短描述和详细描述.
 - [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) -YelpNLG提供自然语言生成餐厅评论的资源.
@@ -51,13 +51,13 @@
 - [Random Story Generator](https://github.com/aherriot/story-generator) -使用自然语言生成（NLG）创建随机的短篇小说.
 - [Tracery](https://github.com/galaxykate/tracery) -用于JavaScript的故事语法生成库.
 
-## Neural Net NLG
+## Neural natural language generation
 
 - [graph-2-text](https://github.com/diegma/graph-2-text) -结合图卷积网络和opennmt-py在Pytorch中实现的图到序列.
 - [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) -基于神经网络的生成模型，用于使用Tensorflow字幕.
 - [PPLM](https://github.com/uber-research/PPLM)  -即插即用语言模型实现.  允许引导GPT-2模型的主题和属性.
 - [Texar](https://github.com/asyml/texar) -Texar是一个工具包，旨在支持广泛的机器学习，尤其是自然语言处理和文本生成任务.
-- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以在任何文本数据集上轻松训练自己的任意大小和复杂度的文本生成神经网络.
+- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以轻松地在任何文本数据集上训练任何大小和复杂度的自己的文本生成神经网络.
 - [Transformers](https://github.com/huggingface/transformers) -TensorFlow 2.0和PyTorch的最新自然语言处理.
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) -用于将以结构化数据形式存在的信息转换为自然语言文本.
 

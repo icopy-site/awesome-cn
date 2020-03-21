@@ -114,6 +114,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 
 - [CompCert](http://compcert.inria.fr) -适用于几乎所有C语言（ISO C99）的高安全性编译器，可为PowerPC，ARM，RISC-V和x86处理器生成高效的代码.
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) -密码原始代码生成.
+- [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) -经过验证的OCaml实现的图形增量循环检测算法.
 - [JSCert](https://github.com/jscert/jscert) -具有经过验证的参考解释器的ECMAScript 5（JavaScript）的Coq规范.
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) -Rust核心语言和类型系统的正式模型，类型系统的逻辑关系以及某些Rust库的安全证明.
 - [Verdi Raft](https://github.com/uwplse/verdi-raft) -Raft分布式共识协议的实现，已使用Verdi框架在Coq中进行了验证.
@@ -123,6 +124,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 ### Community
 
 - [Official Coq website](https://coq.inria.fr)
+- [Official Coq manual](https://coq.inria.fr/refman/)
 - [Official Coq Discourse forum](https://coq.discourse.group)
 - [Official Coq Gitter chat](https://gitter.im/coq/coq)
 - [Official Coq-Club mailing list](https://sympa.inria.fr/sympa/arc/coq-club)
@@ -150,7 +152,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [Software Foundations](https://softwarefoundations.cis.upenn.edu) -基于Coq的有关逻辑，函数式编程和编程语言基础的教科书系列，旨在供初学者使用.
 - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) -使用Coq编写的有关实用工程的教科书，教授高级实用技巧和非常具体的证明样式.
 - [Program Logics for Certified Compilers](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/program-logics-certified-compilers) -本书解释了如何使用分离逻辑构造程序逻辑，并辅以Coq中的正式模型，该模型适用于Clight编程语言和其他示例.
-- [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) -同时提供有关程序正确性的形式逻辑推理和为此目的使用Coq的一般介绍的书.
+- [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - Book that simultaneously provides a general introduction to formal logical reasoning about the correctness of programs and to using Coq for this purpose.
 - [Programs and Proofs](https://ilyasergey.net/pnp/) -本书简要介绍了Coq中的交互式证明，并在实践中作了介绍，该书强调了通过SSReflect证明语言中的一小部分原语，对可判定命题进行归纳推理的计算性质.
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) -本书介绍了如何使用Flocq库在Coq中正式指定和验证浮点算法.
 - [The Mathematical Components book](https://math-comp.github.io/mcb/) -面向数学倾向用户的书籍，侧重于数学组件库和SSReflect证明语言.

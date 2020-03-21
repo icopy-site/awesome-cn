@@ -73,7 +73,7 @@
  - [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) -从大型语料库的无人监督预培训中跨许多NLP任务进行SOTA.
  - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/) -全部欢呼NLP的ImageNet时刻. 
  - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/) -了解用于NLP ImageNet时刻的不同方法. 
- - [Uncle Bob's Principles Of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) -不仅需要SOLID原则来编写干净的代码，而且众所周知的REP，CCP，CRP，ADP，SDP和SAP原则对于开发必须捆绑在不同单独软件包中的大型软件也非常重要.
+ - [Uncle Bob's Principles Of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) -不仅需要SOLID原则来编写简洁的代码，而且众所周知的REP，CCP，CRP，ADP，SDP和SAP原则对于开发必须捆绑在不同单独软件包中的大型软件非常重要.
  - [Why do 87% of data science projects never make it into production?](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/) -数据不可忽视，团队与数据科学家之间的沟通对于正确集成解决方案非常重要.
  - [The real reason most ML projects fail](https://towardsdatascience.com/what-is-the-main-reason-most-ml-projects-fail-515d409a161f) -专注于明确的业务目标，避免使用算法的枢纽，除非您拥有真正干净的代码，并且能够知道何时编写的代码“足够好”.
  
@@ -92,7 +92,7 @@
 - [carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow) -神经图灵机TensorFlow实施.
 - [Deep learning for lazybones](http://oduerr.github.io/blog/2016/04/06/Deep-Learning_for_lazybones) -TensorFlow中的转移学习教程，用于从预先训练的CNN的高级嵌入中获得视觉，AlexNet 2012.
 - [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) -关于在时间序列上使用LSTM进行分类的教程.
-- [Deep stacked residual bidirectional LSTMs for HAR](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs) -对先前项目的改进.
+- [Deep stacked residual bidirectional LSTMs for HAR](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs) - Improvements on the previous project.
 - [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) -有关如何预测数字的时间序列的教程-可能是多通道的.
 - [Hyperopt for a Keras CNN on CIFAR-100](https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100) -在CIFAR-100数据集上自动（元）优化神经网络（及其体系结构）.
 - [ML / DL repositories I starred](https://github.com/guillaume-chevalier?direction=desc&page=1&q=machine+OR+deep+OR+learning+OR+rnn+OR+lstm+OR+cnn&sort=stars&tab=stars&utf8=%E2%9C%93) -GitHub上充满了不错的代码示例和项目.
@@ -142,7 +142,7 @@
 
 ### Complex Numbers & Digital Signal Processing
 
-好的，信号处理可能与深度学习没有直接关系，但是研究在基于信号的神经体系结构开发中有更多的直觉是有趣的.
+好的，信号处理可能与深度学习没有直接关系，但是研究在基于信号的神经体系结构开发中拥有更多的直觉是有趣的.
 
 - [Window Functions](https://en.wikipedia.org/wiki/Window_function) -列出了一些已知窗口功能的Wikipedia页面-请注意， [Hann-Poisson window](https://en.wikipedia.org/wiki/Window_function#Hann%E2%80%93Poisson_window) 对于贪婪的爬坡算法（例如，梯度下降）而言，它特别有趣. 
 - [MathBox, Tools for Thought Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/) -傅立叶分析的新面貌.
@@ -181,14 +181,14 @@
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556v6.pdf)  -有趣的想法是在仅使用几个参数的情况下合并多个3x3 conv + ReLU，然后合并为更大的过滤器.  对于“ ConvNet配置”，还有一个不错的表.
 - [Going Deeper with Convolutions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) -GoogLeNet：“起始”层/模块的出现，其想法是将conv层并行化为许多不同大小的微型conv，并使用“相同”的填充，并在深度上进行连接.
 - [Highway Networks](https://arxiv.org/pdf/1505.00387v2.pdf) -公路网：残余连接.
-- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) -批量归一化（BN）：通过还对整个批次进行求和来归一化图层的输出，然后执行线性重新缩放和某个可训练量的平移.
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) -批次归一化（BN）：通过对整个批次进行求和来归一化图层的输出，然后执行线性重新缩放和某个可训练量的平移.
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) -U-Net是一种编码器/解码器CNN，也具有跳过连接，适合在每个像素级别进行图像分割.
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf) -具有批处理归一化层的非常深的残留层-又名“如何在具有足够多的层的情况下过度拟合任何视觉数据集，并使任何视觉模型在识别时都能正常工作”.
 - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261v2.pdf) -用于通过残余连接改进GoogLeNet.
-- [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) 史诗原始语音/音乐生成，具有基于散因果卷积的新架构，可捕获更多音频长度.
-- [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) -3D-GAN用于生成3D模型并从嵌入中获得有趣的3D家具算术（像带3D家具表示法的word2vec单词算术）.
+- [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) 史诗原始语音/音乐生成，具有基于因果卷积的新架构，可捕获更多音频长度.
+- [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) -3D-GAN用于生成3D模型并从嵌入中获得有趣的3D家具算术（想像具有3D家具表示形式的word2vec单词算术）.
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/ImageNet1kIn1h/) -CNN的快速分布式培训.
-- [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) -2017年CVPR最佳论文奖，该新神经网络架构被称为DenseNet，对CIFAR-10，CIFAR-100和SVHN数据集的最新性能产生了改进.
+- [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) -2017年CVPR最佳论文奖，该新神经网络体系结构被称为DenseNet，对CIFAR-10，CIFAR-100和SVHN数据集的最新性能产生了改进.
 - [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf) -融合了U-Net和DenseNet的思想，这种新的神经网络特别适用于图像分割中的大型数据集.
 - [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) -在损失中使用距离度量，从一些示例中确定对象属于哪个类.
 
@@ -230,6 +230,7 @@
 - [Siraj's Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) -Siraj有有趣的，快节奏的有关深度学习的视频教程.
 - [Two Minute Papers' Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) -一些研究论文的有趣而浅薄的概述，例如有关WaveNet或神经样式转换的论文.
 - [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) -吴安德（George Ng）采访了杰弗里·欣顿（Geoffrey Hinton），后者谈论了他的研究和波谷，并为学生提供建议.
+- [Growing Neat Software Architecture from Jupyter Notebooks](https://www.youtube.com/watch?v=K4QN27IKr0g) -有关使用Jupyter Notebooks时如何构建机器学习项目的入门.
 
 <a name="misc-hubs-and-links" />
 

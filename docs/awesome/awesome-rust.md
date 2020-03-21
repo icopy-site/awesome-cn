@@ -114,7 +114,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [rsaarelm/magog](https://github.com/rsaarelm/magog) — Rust中的roguelike游戏
 * [schulke-214/rsnake](https://github.com/schulke-214/rsnake) —用Rust写的蛇.
 * [soydos](https://github.com/soydos/pusoy_dos2) — Pusoy Dos的wasm实现
-* [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) — Rust中的地震地图渲染器
+* [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
 * [rhex](https://github.com/dpc/rhex) —六角形的asguei roguelike
 * [Veloren](https://gitlab.com/veloren/veloren) —目前正在Alpha开发中的开放世界，开源多人体素RPG游戏 [<img src="https://gitlab.com/veloren/veloren/badges/master/pipeline.svg">](https://gitlab.com/veloren/veloren/commits/master)
 * [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) —推箱子的实现
@@ -154,7 +154,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 ### System tools
 
 * [dalance/procs](https://github.com/dalance/procs) — Rust编写的“ ps”的现代替代品 [![Build Status](https://api.travis-ci.org/dalance/procs.svg?branch=master)](https://travis-ci.org/dalance/procs)
-* [dust](https://github.com/bootandy/dust) -du的更直观的版本
+* [dust](https://github.com/bootandy/dust) — A more intuitive version of du
 * [fselect](https://crates.io/crates/fselect) —使用类似SQL的查询查找文件 [<img src="https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master">](https://travis-ci.org/jhspetersson/fselect)
 * [k0pernicus/zou](https://github.com/k0pernicus/zou) —下载加速器
 * [Kondo](https://github.com/tbillington/kondo) -CLI和GUI工具，用于删除软件项目工件并回收磁盘空间
@@ -168,6 +168,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [Ralvke/logram](https://github.com/Ralvke/logram) —将日志文件的更新推送到Telegram
 * [unwrittenfun/hotkey-rs](https://github.com/unwrittenfun/hotkey-rs) —一个库，可以在Rust中收听全局热键
 * [sharkdp/fd](https://github.com/sharkdp/fd) —一种简单，快速且用户友好的替代方法. [![Build Status](https://api.travis-ci.org/sharkdp/fd.svg?branch=master)](https://travis-ci.org/sharkdp/fd)
+* [ytop](https://github.com/cjbassi/ytop) -用Rust编写的TUI系统监视器 [![Build status](https://github.com/cjbassi/ytop/workflows/Rust%20CI/badge.svg?branch=master)](https://github.com/cjbassi/ytop/actions?query=workflow%3A%22Rust+CI%22)
 
 ### Text editors
 
@@ -182,7 +183,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [whitfin/runiq](https://github.com/whitfin/runiq) —从未排序的输入中过滤重复行的有效方法.
 * [whitfin/bytelines](https://github.com/whitfin/bytelines) —将输入线作为字节片读取，以提高效率.
 * [xsv](https://crates.io/crates/xsv) —快速CSV命令行工具（切片，索引，选择，搜索，采样等） [<img src="https://api.travis-ci.org/BurntSushi/xsv.svg?branch=master">](https://travis-ci.org/BurntSushi/xsv)
-* [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) — A simple and fast string search tool for human beings
+* [Lisprez/so_stupid_search](https://github.com/Lisprez/so_stupid_search) —一种简单快速的人类字符串搜索工具
 
 ### Image processing
 
@@ -244,12 +245,13 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [cargo-cache](https://crates.io/crates/cargo-cache) —检查/管理/清理货物缓存（`〜/ .cargo /`/`$ {CARGO_HOME}`），打印尺寸等 [![Build Status](https://github.com/matthiaskrgr/cargo-cache/workflows/ci/badge.svg?branch=master)](https://github.com/matthiaskrgr/cargo-cache/actions)
   * [cargo-check](https://crates.io/crates/cargo-check) —围绕“ rustc货物”的包装器--Zno-trans，如果只需要正确性检查，则有助于运行更快的编译器 [<img src="https://api.travis-ci.org/rsolomo/cargo-check.svg?branch=master">](https://travis-ci.org/rsolomo/cargo-check)
   * [cargo-count](https://crates.io/crates/cargo-count) —列出源代码计数和有关货运项目的详细信息，包括不安全的统计信息 [<img src="https://api.travis-ci.org/kbknapp/cargo-count.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-count)
-  * [cargo-deb](https://crates.io/crates/cargo-deb) — Generates binary Debian packages [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
+  * [cargo-deb](https://crates.io/crates/cargo-deb) —生成二进制Debian软件包 [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
   * [cargo-deps](https://crates.io/crates/cargo-deps) —构建Rust项目的依赖图 [<img src="https://api.travis-ci.com/m-cat/cargo-deps.svg?branch=master">](https://travis-ci.org/m-cat/cargo-deps)
   * [cargo-do](https://crates.io/crates/cargo-do) -连续运行多个货运命令 [<img src="https://api.travis-ci.org/pwoolcoc/cargo-do.svg?branch=master">](https://travis-ci.org/pwoolcoc/cargo-do)
   * [cargo-ebuild](https://crates.io/crates/cargo-ebuild) -可以使用树内eclass生成ebuild的货物扩展 [<img src="https://api.travis-ci.org/cardoe/cargo-ebuild.svg?branch=master">](https://travis-ci.org/cardoe/cargo-ebuild)
   * [cargo-edit](https://crates.io/crates/cargo-edit) —允许您通过从命令行读取/写入Cargo.toml文件来添加和列出依赖关系 [<img src="https://api.travis-ci.org/killercup/cargo-edit.svg?branch=master">](https://travis-ci.org/killercup/cargo-edit)
   * [cargo-find](https://crates.io/crates/cargo-find) <sup>不推荐使用</sup> —从命令行查找包装箱 [<img src="https://api.travis-ci.org/Ralvke/cargo-find.svg?branch=master">](https://travis-ci.org/Ralvke/cargo-find)
+  * [cargo-generate](https://raw.githubusercontent.com/ashleygwilliams/cargo-generate) 通过利用预先存在的git仓库作为模板的锈项目生成器 [<img src="https://api.travis-ci.com/ashleygwilliams/cargo-generate.svg?branch=master">](https://travis-ci.com/ashleygwilliams/cargo-generate)
   * [cargo-graph](https://crates.io/crates/cargo-graph)  —更新了带有附加功能的`cargo-dot`的fork.  无需维护，请参阅`cargo-deps` [<img src="https://api.travis-ci.org/kbknapp/cargo-graph.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-graph)
   * [cargo-info](https://crates.io/crates/cargo-info) —从命令行查询crates.io以获取详细信息 [<img src="https://api.travis-ci.org/imp/cargo-info.svg?branch=master">](https://travis-ci.org/imp/cargo-info)
   * [cargo-license](https://crates.io/crates/cargo-license) — cargo子命令，用于快速查看所有依赖项的许可证. [<img src="https://api.travis-ci.org/onur/cargo-license.svg?branch=master">](https://travis-ci.org/onur/cargo-license)
@@ -651,6 +653,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 
 [[database](https://crates.io/keywords/database)]
 
+
 * NoSQL [[nosql](https://crates.io/keywords/nosql)]
 
   * [ArangoDB](https://www.arangodb.com)
@@ -690,6 +693,8 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [PickleDB](https://pythonhosted.org/pickleDB/)
     * [seladb/pickledb-rs](https://raw.githubusercontent.com/seladb/pickledb-rs) —一个轻量级且简单的键值存储，灵感来自Python的PickleDB. [<img src="https://api.travis-ci.org/seladb/pickledb-rs.svg?branch=master">](https://travis-ci.org/seladb/pickledb-rs)
 * SQL [[sql](https://crates.io/keywords/sql)]
+  *通用
+    * [launchbadge/sqlx](https://raw.githubusercontent.com/launchbadge/sqlx) -具有强大类型支持的异步PostgreSQL / MySQL / SQLite连接池 [<img src="https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square">](https://raw.githubusercontent.com/launchbadge/sqlx)
   * Microsoft SQL
     * [steffengy/tiberius](https://raw.githubusercontent.com/steffengy/tiberius) — [<img src="https://api.travis-ci.org/steffengy/tiberius.svg?branch=master">](https://travis-ci.org/steffengy/tiberius)
   * MySQL [[mysql](https://crates.io/keywords/mysql)]
@@ -697,7 +702,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
     * [blackbeam/mysql_async](https://github.com/blackbeam/mysql_async) [[mysql_async](https://crates.io/crates/mysql_async)]-基于Tokio的异步Rust Mysql驱动程序. [![CircleCI](https://circleci.com/gh/blackbeam/mysql_async/tree/master.svg?style=shield)](https://circleci.com/gh/blackbeam/mysql_async/tree/master)
     * [blackbeam/rust-mysql-simple](https://raw.githubusercontent.com/blackbeam/rust-mysql-simple) [[mysql](https://crates.io/crates/mysql)] —本机MySql客户端 [<img src="https://api.travis-ci.org/blackbeam/rust-mysql-simple.svg?branch=master">](https://travis-ci.org/blackbeam/rust-mysql-simple)
   * PostgreSQL [[postgres](https://crates.io/keywords/postgres), [postgresql](https://crates.io/keywords/postgresql)]
-    * [sfackler/rust-postgres](https://raw.githubusercontent.com/sfackler/rust-postgres) [[postgres](https://crates.io/crates/postgres)] —本地人 [PostgreSQL](https://www.postgresql.org/) client [<img src="https://api.travis-ci.org/sfackler/rust-postgres.svg?branch=master">](https://travis-ci.org/sfackler/rust-postgres)
+    * [sfackler/rust-postgres](https://raw.githubusercontent.com/sfackler/rust-postgres) [[postgres](https://crates.io/crates/postgres)] —本地人 [PostgreSQL](https://www.postgresql.org/) 客户 [<img src="https://api.travis-ci.org/sfackler/rust-postgres.svg?branch=master">](https://travis-ci.org/sfackler/rust-postgres)
   * Sqlite [[sqlite](https://crates.io/keywords/sqlite)]
     * [jgallagher/rusqlite](https://raw.githubusercontent.com/jgallagher/rusqlite) — [Sqlite3](https://www.sqlite.org/index.html) 绑定 [<img src="https://api.travis-ci.org/jgallagher/rusqlite.svg?branch=master">](https://travis-ci.org/jgallagher/rusqlite)
 * ORM [[orm](https://crates.io/keywords/orm)]
@@ -1037,7 +1042,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 ### Parsing
 
   * [Geal/nom](https://raw.githubusercontent.com/Geal/nom) —解析器组合器库 [<img src="https://api.travis-ci.org/Geal/nom.svg?branch=master">](https://travis-ci.org/Geal/nom)
-  * [ivanceras/inquerest](https://github.com/ivanceras/inquerest) —用于剩余过滤器查询的URL参数解析器 [![Build Status](https://api.travis-ci.org/ivanceras/inquerest.svg?branch=master)](https://travis-ci.org/ivanceras/inquerest)
+  * [ivanceras/inquerest](https://github.com/ivanceras/inquerest) — an URL parameter parser for rest filter inquiry [![Build Status](https://api.travis-ci.org/ivanceras/inquerest.svg?branch=master)](https://travis-ci.org/ivanceras/inquerest)
   * [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) —解析表达式语法（PEG）解析器生成器
   * [m4rw3r/chomp](https://raw.githubusercontent.com/m4rw3r/chomp) –快速的单子式解析器组合器 [<img src="https://api.travis-ci.org/m4rw3r/chomp.svg?branch=master">](https://travis-ci.org/m4rw3r/chomp)
   * [Marwes/combine](https://raw.githubusercontent.com/Marwes/combine) —解析器组合器库 [<img src="https://api.travis-ci.org/Marwes/combine.svg?branch=master">](https://travis-ci.org/Marwes/combine)
@@ -1086,13 +1091,13 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [gluon-lang/gluon](https://github.com/gluon-lang/gluon) —一种小型的静态类型的函数式编程语言
 * [murarth/ketos](https://github.com/murarth/ketos) — Lisp方言功能编程语言，用作防锈脚本和扩展语言
 * [moss](https://crates.io/crates/moss) —动态类型的脚本语言
-* [jonathandturner/rhai](https://github.com/jonathandturner/rhai) —一种微型且快速的嵌入式脚本语言，类似于JS和Rust的组合
+* [jonathandturner/rhai](https://github.com/jonathandturner/rhai) — A tiny and fast embedded scripting language resembling a combination of JS and Rust
 
 ### Template engine
 
 *车把
   * [sunng87/handlebars-rust](https://raw.githubusercontent.com/sunng87/handlebars-rust) —具有继承功能，自定义帮助程序支持的车把模板引擎. [<img src="https://api.travis-ci.org/sunng87/handlebars-rust.svg?branch=master">](https://travis-ci.org/sunng87/handlebars-rust)
-  * [botika/yarte](https://github.com/botika/yarte) — Yarte代表** Y ** et ** A ** n **** R ** ust ** T ** emplate ** E ** ngine，是最快的模板引擎. [![Build Status](https://api.travis-ci.org/botika/yarte.svg?branch=master)](https://travis-ci.org/botika/yarte)
+  * [botika/yarte](https://github.com/botika/yarte) — Yarte代表** Y ** et ** A ** n ** R ** ust ** T ** emplate ** E ** ngine，是最快的模板引擎. [![Build Status](https://api.travis-ci.org/botika/yarte.svg?branch=master)](https://travis-ci.org/botika/yarte)
 * HTML
   * [lambda-fairy/maud](https://raw.githubusercontent.com/lambda-fairy/maud) —编译时HTML模板 [<img src="https://api.travis-ci.org/lambda-fairy/maud.svg?branch=master">](https://travis-ci.org/lambda-fairy/maud)
   * [Stebalien/horrorshow-rs](https://raw.githubusercontent.com/Stebalien/horrorshow-rs) —编译时HTML模板 [<img src="https://api.travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master">](https://travis-ci.org/Stebalien/horrorshow-rs)
@@ -1199,7 +1204,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [Rust: Hack Without Fear!](https://www.youtube.com/watch?v=lO1z-7cuRYI) —提出者 [Nicholas Matsakis](https://github.com/nikomatsakis) @ C ++现在2018
 *学习
   * [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) —编程社区投票推荐的推荐资源列表.
-  * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) —乐于助人的Rust导师清单，他们愿意接受受训者并对他们进行Rust和编程方面的教育.
+  * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) —乐于助人的Rust导师清单，他们愿意接受受训者并向他们介绍Rust和编程.
   * [exercism.io](https://exercism.io/tracks/rust) —编程练习，可帮助您学习Rust中的新概念.
   * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) —教了惯用的Rust的经过同行评审的文章/演讲/回购合集.
   * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) —通过实现几种不同类型的列表结构，深入探索Rust的内存管理规则.

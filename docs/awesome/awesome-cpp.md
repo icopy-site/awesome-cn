@@ -72,6 +72,7 @@
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework)  -C ++中Actor模型的开源实现.  [BSD-3-Clause] [website](http://actor-framework.org/)
 * [libev](http://libev.schmorp.de/)  -功能齐全的高性能事件循环，在libevent之后进行松散建模，但没有限制和错误.  [BSD和GPL]
 * [libevent](http://libevent.org/)  -事件通知库.  [BSD]
+* [libhv](https://github.com/ithewei/libhv)  -跨平台事件循环库.  [BSD]
 * [libuv](https://github.com/libuv/libuv)  -跨平台异步I / O.  [BSD]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp)  -实现Promise / A +标准的仅标头库.  [Anti-996]
 * [uvw](https://github.com/skypjack/uvw)  -libuv的C ++包装器.  [MH]
@@ -215,7 +216,7 @@
 * [iniparser](https://github.com/ndevilla/iniparser)  -此解析器文件.  [麻省理工学院]
 * [libconfig](https://github.com/hyperrealm/libconfig)  -C，C ++库，用于处理结构化配置文件.  [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) -C的小型配置文件解析器库.[ISC]
-* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供了一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
+* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
 * [toml++](https://github.com/marzer/tomlplusplus)  -C ++ 17及更高版本的仅标头TOML解析器和序列化器.  [麻省理工学院] [website](https://marzer.github.io/tomlplusplus/)
 
 ## Containers
@@ -342,7 +343,7 @@
 * [Atomic Game Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - A multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript. [Commercial]
 * [Cocos2d-x](http://www.cocos2d-x.org/)  -用于构建2d游戏，交互式书籍，演示和其他图形应用程序的多平台框架.  [麻省理工学院]
 * [Corange](https://github.com/orangeduck/Corange)  -用纯C，SDL和OpenGL编写的游戏引擎.  [BSD]
-* [crown](https://github.com/dbartolini/crown)  -Crown是一款通用的数据驱动游戏引擎，使用正统的C ++从零开始编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
+* [crown](https://github.com/dbartolini/crown)  -Crown是通用数据驱动的游戏引擎，使用正统的面向数据的设计理念从正统C ++从头开始编写.  [麻省理工学院]
 * [delta3d](http://sourceforge.net/projects/delta3d/)  -强大的仿真平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  -游戏符合现代C ++.  [麻省理工学院]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)  -跨平台的本机C ++游戏框架，用于创建2D / 3D移动和桌面游戏.  [Apache2]
@@ -479,7 +480,7 @@
 * [json.h](https://github.com/sheredom/json.h)  -在C和C ++中解析JSON的简单的单头/单源解决方案.  [无牌]
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间非常小的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间极低的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  -C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库.  支持C ++ 11.  无依赖关系，快速且对开发人员友好.  [Apache2]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
@@ -730,7 +731,7 @@
 * [JavaCpp](https://github.com/bytedeco/javacpp)  -Java和本机C ++之间缺少的桥梁.  [Apache2]
 * [libffi](https://github.com/libffi/libffi)  -便携式外部功能接口库.  [麻省理工学院] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/)  -用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [麻省理工学院]
-* [LuaBridge](https://github.com/vinniefalco/LuaBridge)  -轻量级，无依赖的库，用于将Lua绑定到C ++.  [麻省理工学院]
+* [LuaBridge](https://github.com/vinniefalco/LuaBridge)  -用于将Lua绑定到C ++的轻量级，无依赖库.  [麻省理工学院]
 * [luacxx](https://github.com/dafrito/luacxx)  -用于创建Lua绑定的C ++ 11 API.  [麻省理工学院]
 * [nbind](https://github.com/charto/nbind)  -神奇的标头，可从JavaScript访问C ++库.  [麻省理工学院]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)  -一个库，用于使用C ++构建PHP扩展.  [Apache2] [website](http://www.php-cpp.com/)
@@ -776,7 +777,7 @@
 
 ## Virtual Machines
 
-* [CarpVM](https://github.com/tekknolagi/carp)  -C语言中的“有趣” VM.  [GPLv3]
+* [CarpVM](https://github.com/tekknolagi/carp)  -C语言中的“有趣” VM.让我们看看这是怎么回事.  [GPLv3]
 * [MicroPython](https://github.com/micropython/micropython)  -旨在在微控制器上实现Python 3.x的实现.  [麻省理工学院]
 * [TinyVM](https://github.com/jakogut/tinyvm) -用纯ANSI C编写的小型，快速，轻巧的虚拟机.
 
@@ -929,7 +930,7 @@
 
 * [Bazel](https://bazel.build)  -Google提供的多语言，快速且可扩展的构建系统.  [Apache]
 * [Bear](https://github.com/rizsotto/Bear)  -生成用于clang工具的编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  -快速构建系统，鼓励通过各种平台和语言（包括在Facebook开发和使用的C ++）创建小型可重用的模块.  用Java编写.  [Apache]
+* [Buck](https://github.com/facebook/buck)  -快速构建系统，鼓励通过各种平台和语言（包括在Facebook开发和使用的C ++）创建小的可重用模块.  用Java编写.  [Apache]
 * [clib](https://github.com/clibs/clib)  -C编程语言的程序包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  -跨平台的免费开源软件，用于使用与编译器无关的方法来管理软件的构建过程.  [BSD]
 * [C++ Archive Network](https://cppan.org/) -具有许多可用程序包的跨平台C ++依赖管理器.

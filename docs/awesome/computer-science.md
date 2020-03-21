@@ -179,7 +179,7 @@ Lisp家庭语言（通过球拍）
 :-- | :--: | :--: | :--:
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)  |  18周|  每周12小时|  多变量微积分
 
-### Math Core
+### Core Math
 除了数学选修课外，学生还必须完成以下有关离散数学的课程.
 
 **涵盖的主题**：
@@ -262,7 +262,7 @@ Lisp家庭语言（通过球拍）
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Relational Databases Systems](https://www.coursera.org/learn/relational-database) |  6周  每周3个小时|  --
+[Relational Database Systems](https://www.coursera.org/learn/relational-database) |  6周  每周3个小时|  --
 [Machine Learning](https://www.coursera.org/learn/machine-learning) |  11周|  每周4-6个小时|  线性代数
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) |  6周  每周12小时|  C ++或Java，线性代数
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)  |  6周  每周8-10个小时|  软件构建-面向对象的设计
@@ -486,7 +486,7 @@ or
 带有“ Section”标签的卡片仅用于帮助完成列.
 您应将*课程卡*放在其各自的*部门卡*下方.
 
-该委员会的目的是为我们的学生提供一种跟踪他们的进度的方法，并能够通过公开页面向朋友，家人，雇主等展示他们的进度.
+该委员会的目的是为我们的学生提供一种跟踪其进度的方法，并且还可以通过公开页面向朋友，家人，雇主等展示其进度.
 您可以将董事会的状态更改为*公开*或*私有*.
 
 ## Team

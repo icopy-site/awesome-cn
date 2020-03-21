@@ -16,7 +16,7 @@
 
  该列表重点关注与人文科技主题直接相关的（大多数是开源）项目.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的PR之前.
 
- **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望对您有用.  但是根据 [License](#license)  我们不能保证所引用软件的质量或适用性.  因此，在安装任何东西之前，请先正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
+ **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望对您有用.  但是根据 [License](#license)  我们不能保证所引用软件的质量或适用性.  因此，在安装任何东西之前，请正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues)  因此我们可以采取适当的措施.  谢谢！
 
 ## Community
 
@@ -33,7 +33,7 @@
 - [Machine Learning Ethics References](https://github.com/radames/Machine-Learning-Ethics-References) -机器学习和数据科学的歧视，偏见和道德规范.
 - [WikiTruth](https://wikitruth.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/wikitruth/wikitruth) -具有类似Wikipedia和Quora的系统，具有审查机制以验证垃圾中的事实.
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) -类似于希波克拉底誓言的程序员道德誓言.
-- [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) -为实践道德设计的场所和项目重新绘制了《需求的马斯洛夫金字塔》.
+- [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) -为实践道德设计的网站和项目重新绘制了Maslov需求金字塔.
 - [Ethical OS Toolkit](https://ethicalos.org/) -预测当今技术未来影响的指南.
 - [ACM Code of Ethics](https://ethics.acm.org/) -计算机协会的道德和专业行为守则.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Data4Democracy/ethics-resources) -全球倡议，旨在将我们的道德框架和原则纳入您的数据工作.
@@ -82,6 +82,7 @@
 - [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) -根据其代码为您的iOS应用生成隐私权政策.
 - [Reveal Frame Component](https://vwochnik.github.io/reveal-frame-component/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/vwochnik/reveal-frame-component)  -注重隐私的iFrame占位符（JS脚本）.  仅在用户同意后加载.
 - [FreedomBox](https://freedombox.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://salsa.debian.org/freedombox-team/plinth) -易于管理，面向隐私的家庭服务器.
+- [EteSync](https://www.etesync.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/etesync) -为您的联系人，日历和任务提供安全，端到端加密和尊重隐私的同步.
 
 ## Tracking
 
@@ -135,7 +136,7 @@
 - [Hosts](https://github.com/StevenBlack/hosts) -合并多个信誉良好的主机文件，并将它们合并为一个统一的文件.
 - [Blocklists](https://github.com/jmdugan/blocklists) -人们可能希望使用主机文件阻止的问题域的共享列表.
 - [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist) -社区推荐的垃圾邮件发送者列表.
-- [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/collinbarrett/FilterLists) - Directory of filter and host lists for advertisements, trackers, malware and annoyances.
+- [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/collinbarrett/FilterLists) -广告，跟踪器，恶意软件和烦恼的过滤器和主机列表的目录.
 - [hosts-blocklists](https://github.com/notracking/hosts-blocklists) -专为dnsmasq设计的基于主机和域名的阻止列表.
 - [All In One Customized Adblock List](https://hl2guide.github.io/All-in-One-Customized-Adblock-List/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List) -广告屏蔽列表，可彻底屏蔽跟踪器，广告，不需要的Cookie等.
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances) -修复并从许多网站中删除烦人和分散注意力的Web元素.
@@ -198,13 +199,13 @@
 ## Health
 
 - [Stanford HabitLab](https://habitlab.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/habitlab/habitlab) -更改您的在线习惯，设定目标，尝试干预措施，查看进度.
-- [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) -Redshift可根据周围环境调整屏幕的色温.
+- [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/slgobinath/SafeEyes) -Safe Eyes是Linux用户减少和防止重复性劳损（RSI）的工具.
 - [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) -增强记忆力丧失者与亲近者之间关系的应用程序.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) -用于创建和维护良好习惯的Android应用.
 - [If me](http://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) -一个精神健康体验社区，鼓励人们与亲人分享他们的故事.
 - [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hovancik/stretchly) -跨平台应用程序，提醒您在使用计算机时要休息一下.
-- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) -跨平台，可扩展且注重隐私的自动化时间跟踪器.
+- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) - An automated time-tracker that is cross-platform, extensible and privacy-focused.
 - [Red Moon](https://github.com/LibreShift/red-moon) -夜间电话使用的Android屏幕过滤器应用程序.
 - [Workrave](http://www.workrave.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rcaelers/workrave) -协助恢复和预防重复性劳损（RSI）的计划.
 
