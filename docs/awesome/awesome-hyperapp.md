@@ -46,6 +46,7 @@
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) -具有简单登录和GraphQL的响应式应用程序.
 * [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) -最小化的Hyperapp，TypeScript和Parcel启动器.
 * [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) -使用LESS和hyperapp-forms最小化webpack Hyperapp设置. 
+* [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) 专注于开发人员经验的Clean PWA启动程序-包裹，CSS模块，可靠的配置
 
 ## Examples
 

@@ -48,7 +48,7 @@
 * [debmatic](https://github.com/alexreinert/debmatic) -在基于Debian的amd64，armhf和arm64系统（Debian，Ubuntu，Raspbian，Armbian）上安装Homematic OCCU
 * [docker-ccu](https://github.com/angelnu/docker-ccu) -Homematic CCU固件以 [Docker](https://www.docker.com) 手臂上的容器和（模拟的）x86.
 * [Homegear](https://homegear.eu/index.php/Main_Page) -免费和开源程序，可将智能家居设备与家庭自动化软件或您自己的脚本连接.
-* [piVCCU](https://github.com/alexreinert/piVCCU) -将原始Homematic CCU固件安装在Raspbian或Armbian上的虚拟化容器（lxc）内.
+* [piVCCU](https://github.com/alexreinert/piVCCU) -在Raspbian或Armbian上的虚拟化容器（lxc）内安装原始Homematic CCU固件.
 * [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) -轻量级，OCCU和基于Linux / buildroot的发行版，可在RaspberryPi等嵌入式设备上运行HomeMatic CCU.
 
 
@@ -57,7 +57,7 @@
 * [AskSinPPCollection](https://jp112sdl.github.io/AskSinPPCollection/) -使用AskSinPP进行DIY组件的介绍，文档和项目
 * [Beispiel_AskSinPP](https://github.com/jp112sdl/Beispiel_AskSinPP) -使用的示例草图 [AskSinPP](https://github.com/pa-pa/AskSinPP) 图书馆
 * [HAUS-BUS.DE](http://www.haus-bus.de/) -Homematic有线兼容设备.
-* [Homematic Wired Hombrew Hardware](https://github.com/jfische) -各种用于家庭布线的自酿传感器/执行器.
+* [Homematic Wired Hombrew Hardware](https://github.com/jfische) -用于Homematic Wired的各种自酿传感器/执行器.
 * [stall.biz](https://www.stall.biz/) -备用天线，用于客厅，气象站的多功能传感器...
 
 
@@ -73,7 +73,7 @@
 * [Homematic-addon-hue](https://github.com/j-a-n/homematic-addon-hue) -适用于Philips Hue的HomeMatic插件.
 * [homematic_check_mk](https://github.com/alexreinert/homematic_check_mk) -用于Homematic CCU2或Raspberrymatic设备的插件，充当check_mk_agent.
 * [jq](https://github.com/hobbyquaker/ccu-addon-jq) -jq打包为Homematic CCU3的插件.
-* [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) -蚊子包装为Homematic CCU3和RaspberryMatic的附件
+* [Mosquitto](https://github.com/hobbyquaker/ccu-addon-mosquitto) -蚊子包装为Homematic CCU3和RaspberryMatic的插件
 * [Patcher](https://github.com/hobbyquaker/Patcher) -CCU3插件，可轻松应用补丁.
 * [rmupdate](https://github.com/j-a-n/raspberrymatic-addon-rmupdate) -RaspberryMatic插件，RaspberryMatic可以更新自身，通过GUI简化WLAN配置，并且可以安装和更新其他插件，而无需强制重启
 * [Redis](https://github.com/hobbyquaker/ccu-addon-redis) -Redis打包为Homematic CCU3和RaspberryMatic的插件
@@ -122,6 +122,8 @@
 
 ## Misc
 
+* [AskSinAnalyzer](https://github.com/jp112sdl/AskSinAnalyzer) -在HomeMatic环境中使用的无线电报解码器，有助于排除故障，例如，占空比太高.
+* [AskSinAnalyzerXS](https://github.com/psi-4ward/AskSinAnalyzerXS) -AskSinAnalyzer作为桌面应用程序，不使用ESP.
 * [eagle-homematic](https://github.com/dersimn/eagle-homematic) -Homematic模块Eagle库.
 * [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) -用于平板安装的框架.
 * [Homematic 3D Druck Collection auf Thingiverse](https://www.thingiverse.com/hobbyquaker/collections/homematic) -围绕Homematic的各个部分进行打印.

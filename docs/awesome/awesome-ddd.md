@@ -149,6 +149,7 @@
 - [ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore) -带有完整.NET Framework的ASP.NET Core上的ContosoUniversity.
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 - [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
+- [DotNet CQRS Intro](https://github.com/asc-lab/dotnet-cqrs-intro) -具有事件来源的实现CQRS的示例-演化方法（无CQRS，具有相同模型的单独模型和命令，具有单独模型的单独模型和命令，单独的存储引擎，事件源）.
 - [EISK](https://github.com/eisk) -具有简单用例的.NET CLI和VS模板，可使用体系结构最佳实践（DDD，洋葱体系结构等）在.net核心之上构建可伸缩的应用程序.
 - [EmailMaker](https://github.com/xhafan/emailmaker) -电子邮件营销ASP.NET Core MVC和ASP.NET MVC演示应用程序演示 [CoreDdd](https://github.com/xhafan/coreddd) 用法
 - [eShopOnContainersDDD](https://github.com/volak/eShopOnContainersDDD) -具有目录，购物篮，结帐和订单有界上下文的eShop全栈示例
@@ -183,7 +184,8 @@
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) -Java中的事件源和CQRS的实用应用程序，对于常见的相关问题（例如事件顺序和幂等）具有很好的参考.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) -示例事件源应用程序，带有命令查询职责隔离
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) -这些是沃恩·弗农（Vaughn Vernon）的“实施域驱动的设计”一书中的示例绑定上下文.
-- [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) -用Kotlin编写的示例DDD / CQRS项目.
+- [Java CQRS Intro](https://github.com/asc-lab/java-cqrs-intro) -具有事件来源的实现CQRS的示例-演化方法（无CQRS，具有相同模型的单独模型和命令，具有单独模型的单独模型和命令，单独的存储引擎，事件源）.
+- [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) - Sample DDD/CQRS project written in Kotlin.
 - [EventStormingWorkshop - Designing Cloud Native Microservices On AWS](https://github.com/humank/EventStormingWorkShop/) -通过EventStorming研讨会并在Java中实现DDD战术设计模式的具体示例，应用AWS云本地服务来构建基于业务事件的Coffeeshop场景.
 
 ### PHP

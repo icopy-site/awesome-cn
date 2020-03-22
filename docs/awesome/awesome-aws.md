@@ -16,7 +16,7 @@
 
 *回购0100+星：：fire：
 *回购0200+颗星：：fire :: fire：
-*回购0500+颗星：：fire :: fire :: fire：
+*回购0500+星：：fire :: fire :: fire：
 *回购1000颗以上的星星：：fire :: fire :: fire :: fire：
 *带2000颗以上星星的仓库：：fire :: fire :: fire :: fire :: fire：
 
@@ -412,7 +412,7 @@ AWS Repos：
 * [amazon-cognito-developer-authentication-sample](https://github.com/awslabs/amazon-cognito-developer-authentication-sample) -身份验证样本.
 * [amazon-cognito-dotnet](https://github.com/aws/amazon-cognito-dotnet) -同步.NET的SDK.
 * [amazon-cognito-ios](https://github.com/aws/amazon-cognito-ios) -同步iOS版SDK.
-* [amazon-cognito-js :fire:](https://github.com/aws/amazon-cognito-js) -同步SDK for JavaScript.
+* [amazon-cognito-js :fire::fire:](https://github.com/aws/amazon-cognito-js) -同步SDK for JavaScript.
 * [amazon-cognito-streams-sample](https://github.com/awslabs/amazon-cognito-streams-sample) -消费流样本.
 * [cognito-sample-nodejs :fire:](https://github.com/awslabs/cognito-sample-nodejs) -Node.js的示例应用程序.
 
@@ -1252,7 +1252,7 @@ AWS会议：
 * [Management Console (AWS Console)](https://aws.amazon.com/console/) -基于Web的界面，用于管理所有服务.
 * [OpsWorks](https://aws.amazon.com/opsworks/) -使用Chef提供EC2服务的配置.
 * [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) -您对服务健康状况的个性化看法.
-* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，最终用户可以在个性化门户中访问所需的产品.
+* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，然后他们可以在个性化门户中访问所需的产品.
 
 ### Security and Identity Services
 

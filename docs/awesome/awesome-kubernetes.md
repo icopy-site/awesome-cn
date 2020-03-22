@@ -505,7 +505,7 @@ Projects
 
 * [CNAB](https://cnab.io) -CNAB促进了容器本地应用程序及其耦合服务的捆绑，安装和管理.
 * [Helm](http://helm.sh) -有关更多信息，请查看- [Awesome Helm](https://github.com/cdwv/awesome-helm).
-* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他）.
+* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他服务）.
 
 ## Monitoring Services
 
@@ -626,7 +626,7 @@ Projects
 * [kooper](https://github.com/spotahome/kooper) -用于创建Kubernetes运算符和控制器的简单Go库
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [KubeVirt](https://github.com/kubevirt)
-* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的节点自动重新启动
+* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的自动节点重新启动
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [MySQL](https://github.com/oracle/mysql-operator)
@@ -743,12 +743,12 @@ Projects
 * [Kubevious](https://github.com/kubevious/kubevious) -一个开源的UI，可以使Kubernetes的配置和状态变得明显且安全.
 * [Polaris](https://github.com/reactiveops/polaris) -Kubernetes最佳实践的开源仪表板
 * [Octant](https://github.com/vmware/octant) -一个基于Web的，高度可扩展的平台，供开发人员更好地了解Kubernetes集群的复杂性.
-* [Kontena Lens](https://github.com/kontena/lens) -Kubernetes的终极仪表板.
 
 ## Desktop applications
 
 * [Kubernetic](https://kubernetic.com/)
 * [Kube Forwarder](http://kube-forwarder.pixelpoint.io) –一个开源的Kubernetes端口转发管理器
+* [Kontena Lens](https://github.com/kontena/lens) -Kubernetes的终极仪表板.
 
 ## Mobile applications
 
@@ -953,7 +953,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)

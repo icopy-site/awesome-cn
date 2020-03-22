@@ -118,7 +118,7 @@
 * [ractive](https://github.com/ractivejs/ractive) -下一代DOM操作.
 * [vue](https://github.com/vuejs/vue) -直观，快速且可组合的MVVM，用于构建交互式界面.
 * [svelte](https://github.com/sveltejs/svelte)  -Svelte是构建Web应用程序的新方法.  它是一个编译器，可使用您的声明性组件并将其转换为可通过外科方式更新DOM的高效JavaScript.
-* [knockout](https://github.com/knockout/knockout) -淘汰赛可让您更轻松地使用JavaScript创建丰富的响应式UI.
+* [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 * [spine](https://github.com/spine/spine) -用于构建JavaScript应用程序的轻量级MVC库.
 * [espresso.js](https://github.com/techlayer/espresso.js) -用于制作用户界面的最小JavaScript库.
 * [canjs](https://github.com/canjs/canjs) -可以做JS，更好，更快，更容易.
@@ -267,7 +267,7 @@
 * [docco](http://jashkenas.github.io/docco/) 是一个快速且肮脏的，长达一百行的，具有文化编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn)  建立手册.  它将简单的人类可读文本文件转换为roff以进行终端显示，还转换为HTML以进行网络显示.
-* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成自以为是的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
+* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为文档生成确定的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
@@ -411,7 +411,7 @@
 * [contra](https://github.com/bevacqua/contra/) -具有功能趣味的异步流控制.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) -功能齐全的承诺库，侧重于创新功能和性能.
 * [when](https://github.com/cujojs/when) -可靠，快速的Promises / A +和when（）实现，以及其他异步工具.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个原型来增加对事件侦听器的支持（与浏览器上可用的DOMElements中的EventTarget行为相同）.
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个为事件侦听器添加支持的原型（与浏览器上可用的DOMElements中的EventTarget行为相同）.
 * [sporadic](https://github.com/marcoonroad/sporadic) -在Promise之上，针对Node和浏览器引擎的可组合并发抽象（例如流，协程和类似Go的通道）.
 
 
@@ -460,7 +460,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的自以为是的REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) -支持OAuth / API密钥/基本等的通用API客户端.
 
@@ -509,7 +509,7 @@
 * [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) -旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) -为页面上的每个对象创建和管理进度栏.
-* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且反应灵敏的进度条.
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且响应迅速的进度栏.
 * [pace](https://github.com/HubSpot/pace) -自动将进度条添加到您的网站.
 * [topbar](https://github.com/buunguyen/topbar) -微小而美观的站点范围进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)  -非常轻量级的进度条.  没有jQuery.
@@ -530,6 +530,7 @@
 * [FormValidation](http://formvalidation.io/)  -验证表单字段的最佳jQuery插件.  以前是BootstrapValidator.
 * [is.js](https://github.com/arasatasaygin/is.js) -检查类型，正则表达式，状态，时间等.
 * [FieldVal](https://github.com/FieldVal/fieldval-js)  -多功能验证库.  支持同步和异步验证.
+* [Funval](https://github.com/neuledge/funval) -使用函数接口（支持TypeScript）进行数据验证.
 
 
 ## Keyboard Wrappers
@@ -626,7 +627,7 @@
 ### Select
 
 * [selectize.js](https://github.com/brianreavis/selectize.js)  -选择是文本框和选择框的混合.  它基于jQuery，并具有自动完成功能和原生键盘导航功能；  用于标记，联系人列表等
-* [select2](https://github.com/select2/select2) - a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+* [select2](https://github.com/select2/select2)  -基于jQuery的选择框替换.  它支持搜索，远程数据集和结果的无限滚动.
 * [chosen](https://github.com/harvesthq/chosen) -一个用于使长而笨拙的选择框更友好的库.
 
 ### File Uploader
@@ -751,9 +752,9 @@
 
 ## Video/Audio
 
- * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于您的YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
+ * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media)  -启用 <video>  和 <audio>  所有主要浏览器中的标签. <https://html5media.info/>
- * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
+ * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，可通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频曲目队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) -用于网络的HTML5视频播放器
  <https://flowplayer.org/>

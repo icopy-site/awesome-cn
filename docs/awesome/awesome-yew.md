@@ -43,6 +43,7 @@
 - [yew-styles-page](https://github.com/spielrs/yew-styles-page) -这是紫杉的框架风格的初始项目.
 - [caniuse.rs](https://github.com/jplatte/caniuse.rs) -防锈功能搜索.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) -使用电子将基于Rust的Web应用程序（Yew）构建到本机应用程序的示例.
+- [covplot](https://github.com/jbowens/covplot) -全球CoVID-19数据的实时图表.
 
 ## Templates
 
@@ -59,7 +60,7 @@
 ## Toolings
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) -您最喜欢的Rust-&gt; WebAssembly工作流程工具.
-- [wasm-pack-action](https://github.com/jetli/wasm-pack-action) -Github动作，通过下载可执行文件以加速CI / CD来安装“ wasm-pack”.
+- [wasm-pack-action](https://github.com/jetli/wasm-pack-action) -Github动作，通过下载可执行文件来安装`wasm-pack`，以加快CI / CD的速度.
 - [cargo-web](https://github.com/koute/cargo-web) -客户端Web的Cargo子命令.
 - [wabt](https://github.com/WebAssembly/wabt) -WebAssembly Binary Toolkit，用于`wasm-strip`和`wasm-objdump`工具，以减少.wasm文件的大小.
 - [binaryen](https://github.com/WebAssembly/binaryen) -WebAssembly的编译器基础结构和工具链库，用于减小.wasm文件大小的`wasm-opt`工具.
