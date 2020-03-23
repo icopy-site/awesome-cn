@@ -114,7 +114,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [rsaarelm/magog](https://github.com/rsaarelm/magog) — Rust中的roguelike游戏
 * [schulke-214/rsnake](https://github.com/schulke-214/rsnake) —用Rust写的蛇.
 * [soydos](https://github.com/soydos/pusoy_dos2) — Pusoy Dos的wasm实现
-* [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) — Quake map renderer in Rust
+* [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) — Rust中的地震地图渲染器
 * [rhex](https://github.com/dpc/rhex) —六角形的asguei roguelike
 * [Veloren](https://gitlab.com/veloren/veloren) —目前正在Alpha开发中的开放世界，开源多人体素RPG游戏 [<img src="https://gitlab.com/veloren/veloren/badges/master/pipeline.svg">](https://gitlab.com/veloren/veloren/commits/master)
 * [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) —推箱子的实现
@@ -154,7 +154,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 ### System tools
 
 * [dalance/procs](https://github.com/dalance/procs) — Rust编写的“ ps”的现代替代品 [![Build Status](https://api.travis-ci.org/dalance/procs.svg?branch=master)](https://travis-ci.org/dalance/procs)
-* [dust](https://github.com/bootandy/dust) — A more intuitive version of du
+* [dust](https://github.com/bootandy/dust) -du的更直观的版本
 * [fselect](https://crates.io/crates/fselect) —使用类似SQL的查询查找文件 [<img src="https://api.travis-ci.org/jhspetersson/fselect.svg?branch=master">](https://travis-ci.org/jhspetersson/fselect)
 * [k0pernicus/zou](https://github.com/k0pernicus/zou) —下载加速器
 * [Kondo](https://github.com/tbillington/kondo) -CLI和GUI工具，用于删除软件项目工件并回收磁盘空间
@@ -248,7 +248,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [cargo-deb](https://crates.io/crates/cargo-deb) —生成二进制Debian软件包 [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
   * [cargo-deps](https://crates.io/crates/cargo-deps) —构建Rust项目的依赖图 [<img src="https://api.travis-ci.com/m-cat/cargo-deps.svg?branch=master">](https://travis-ci.org/m-cat/cargo-deps)
   * [cargo-do](https://crates.io/crates/cargo-do) -连续运行多个货运命令 [<img src="https://api.travis-ci.org/pwoolcoc/cargo-do.svg?branch=master">](https://travis-ci.org/pwoolcoc/cargo-do)
-  * [cargo-ebuild](https://crates.io/crates/cargo-ebuild) -可以使用树内eclass生成ebuild的货物扩展 [<img src="https://api.travis-ci.org/cardoe/cargo-ebuild.svg?branch=master">](https://travis-ci.org/cardoe/cargo-ebuild)
+  * [cargo-ebuild](https://crates.io/crates/cargo-ebuild) — cargo extension that can generate ebuilds using the in-tree eclasses [<img src="https://api.travis-ci.org/cardoe/cargo-ebuild.svg?branch=master">](https://travis-ci.org/cardoe/cargo-ebuild)
   * [cargo-edit](https://crates.io/crates/cargo-edit) —允许您通过从命令行读取/写入Cargo.toml文件来添加和列出依赖关系 [<img src="https://api.travis-ci.org/killercup/cargo-edit.svg?branch=master">](https://travis-ci.org/killercup/cargo-edit)
   * [cargo-find](https://crates.io/crates/cargo-find) <sup>不推荐使用</sup> —从命令行查找包装箱 [<img src="https://api.travis-ci.org/Ralvke/cargo-find.svg?branch=master">](https://travis-ci.org/Ralvke/cargo-find)
   * [cargo-generate](https://raw.githubusercontent.com/ashleygwilliams/cargo-generate) 通过利用预先存在的git仓库作为模板的锈项目生成器 [<img src="https://api.travis-ci.com/ashleygwilliams/cargo-generate.svg?branch=master">](https://travis-ci.com/ashleygwilliams/cargo-generate)
@@ -506,6 +506,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 ### Authentication
 
 * [Keats/jsonwebtoken](https://github.com/Keats/jsonwebtoken) — [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token) 生锈的lib  [![Build Status](https://api.travis-ci.org/Keats/jsonwebtoken.svg?branch=master)](https://travis-ci.org/Keats/jsonwebtoken)
+* [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) —异步库，用于管理和协调JWT工作流程  [![Build Status](https://api.travis-ci.org/sgrust01/jwtvault.svg?branch=master)](https://travis-ci.org/sgrust01/jwtvault)
 
 ### Automotive
 
@@ -615,7 +616,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [noshu/lbfgsb-sys](https://github.com/noshu/lbfgsb-sys) — fortran L-BFGS-B子例程的生锈绑定
 * 平行
   * [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://arrayfire.com/) 绑定
-  * [autumnai/collenchyma](https://raw.githubusercontent.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU. [<img src="https://api.travis-ci.org/autumnai/collenchyma.svg?branch=master">](https://travis-ci.org/autumnai/collenchyma)
+  * [autumnai/collenchyma](https://raw.githubusercontent.com/autumnai/collenchyma) —用于CUDA，OpenCL和通用主机CPU上的并行，高性能计算的可扩展，可插入，后端不可知的框架. [<img src="https://api.travis-ci.org/autumnai/collenchyma.svg?branch=master">](https://travis-ci.org/autumnai/collenchyma)
   * [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) 绑定
 * Scirust
   * [indigits/scirust](https://github.com/indigits/scirust) — Rust中的科学计算库 [![Build Status](https://api.travis-ci.org/indigits/scirust.svg?branch=master)](https://travis-ci.org/indigits/scirust)
@@ -889,7 +890,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [redox-os/rusttype](https://raw.githubusercontent.com/redox-os/rusttype) —像FreeType这样的库的纯Rust替代品 [<img src="https://api.travis-ci.org/redox-os/rusttype.svg?branch=master">](https://travis-ci.org/redox-os/rusttype)
 * OpenGL [[opengl](https://crates.io/keywords/opengl)]
   * [brendanzab/gl-rs](https://raw.githubusercontent.com/brendanzab/gl-rs) — [<img src="https://api.travis-ci.org/brendanzab/gl-rs.svg?branch=master">](https://travis-ci.org/brendanzab/gl-rs)
-  * [glium/glium](https://raw.githubusercontent.com/glium/glium) — Rust语言的安全OpenGL包装器. [<img src="https://api.travis-ci.org/glium/glium.svg?branch=master">](https://travis-ci.org/glium/glium)
+  * [glium/glium](https://raw.githubusercontent.com/glium/glium) — safe OpenGL wrapper for the Rust language. [<img src="https://api.travis-ci.org/glium/glium.svg?branch=master">](https://travis-ci.org/glium/glium)
   * [Kiss3d](http://kiss3d.org) —绘制简单的几何图形并与它们一起玩 [<img src="https://api.travis-ci.org/sebcrozet/kiss3d.svg?branch=master">](https://api.travis-ci.org/repositories/sebcrozet/kiss3d)
   * [PistonDevelopers/glfw-rs](https://raw.githubusercontent.com/PistonDevelopers/glfw-rs) — [<img src="https://api.travis-ci.org/PistonDevelopers/glfw-rs.svg?branch=master">](https://travis-ci.org/PistonDevelopers/glfw-rs)
   * [glutin](https://crates.io/crates/glutin) —锈替代 [GLFW](https://www.glfw.org/) [<img src="https://api.travis-ci.org/rust-windowing/glutin.svg?branch=master">](https://travis-ci.org/rust-windowing/glutin)
@@ -910,7 +911,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 [[gui](https://crates.io/keywords/gui)]
 
 * [autopilot-rs/autopilot-rs](https://github.com/autopilot-rs/autopilot-rs) —用于Rust的简单，跨平台的GUI自动化库.
-* [OrbTk](https://github.com/redox-os/orbtk) — Orbital Widget Toolkit是使用SDL2的多平台（G）UI工具包 [![Build and test](https://github.com/redox-os/orbtk/workflows/build/badge.svg?branch=develop)](https://github.com/redox-os/orbtk/actions)
+* [OrbTk](https://github.com/redox-os/orbtk) — The Orbital Widget Toolkit is a multi platform (G)UI toolkit using SDL2 [![Build and test](https://github.com/redox-os/orbtk/workflows/build/badge.svg?branch=develop)](https://github.com/redox-os/orbtk/actions)
 * [rise-ui](https://github.com/rise-ui/rise) —基于简单组件的跨平台GUI工具包，用于开发美观且用户友好的界面.
 
 
@@ -938,7 +939,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [kitech/qt.rs](https://github.com/kitech/qt.rs) -Qt5绑定
   * [Rust Qt Binding Generator](https://phabricator.kde.org/source/rust-qt-binding-generator/) —由KDE托管的绑定生成器.
   * [rust-qt](https://github.com/rust-qt) —
-  * [White-Oak/qml-rust](https://raw.githubusercontent.com/White-Oak/qml-rust) — QML绑定. [<img src="https://api.travis-ci.org/White-Oak/qml-rust.svg?branch=master">](https://travis-ci.org/White-Oak/qml-rust)
+  * [White-Oak/qml-rust](https://raw.githubusercontent.com/White-Oak/qml-rust) — QML bindings. [<img src="https://api.travis-ci.org/White-Oak/qml-rust.svg?branch=master">](https://travis-ci.org/White-Oak/qml-rust)
 * [saurvs/nfd-rs](https://github.com/saurvs/nfd-rs) — [nativefiledialog](https://github.com/mlabbe/nativefiledialog) 绑定
 * [Sciter](https://sciter.com/)
   * [sciter-sdk/rust-sciter](https://raw.githubusercontent.com/sciter-sdk/rust-sciter) — Sciter绑定 [<img src="https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true">](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
@@ -1042,7 +1043,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 ### Parsing
 
   * [Geal/nom](https://raw.githubusercontent.com/Geal/nom) —解析器组合器库 [<img src="https://api.travis-ci.org/Geal/nom.svg?branch=master">](https://travis-ci.org/Geal/nom)
-  * [ivanceras/inquerest](https://github.com/ivanceras/inquerest) — an URL parameter parser for rest filter inquiry [![Build Status](https://api.travis-ci.org/ivanceras/inquerest.svg?branch=master)](https://travis-ci.org/ivanceras/inquerest)
+  * [ivanceras/inquerest](https://github.com/ivanceras/inquerest) —用于剩余过滤器查询的URL参数解析器 [![Build Status](https://api.travis-ci.org/ivanceras/inquerest.svg?branch=master)](https://travis-ci.org/ivanceras/inquerest)
   * [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) —解析表达式语法（PEG）解析器生成器
   * [m4rw3r/chomp](https://raw.githubusercontent.com/m4rw3r/chomp) –快速的单子式解析器组合器 [<img src="https://api.travis-ci.org/m4rw3r/chomp.svg?branch=master">](https://travis-ci.org/m4rw3r/chomp)
   * [Marwes/combine](https://raw.githubusercontent.com/Marwes/combine) —解析器组合器库 [<img src="https://api.travis-ci.org/Marwes/combine.svg?branch=master">](https://travis-ci.org/Marwes/combine)
@@ -1065,7 +1066,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 ### Platform specific
 
 *跨平台
-  * [svartalf/rust-battery](https://crates.io/crates/battery) —有关笔记本电池的跨平台信息 [<img src="https://api.travis-ci.org/svartalf/rust-battery.svg?branch=master">](https://travis-ci.org/svartalf/rust-battery)
+  * [svartalf/rust-battery](https://crates.io/crates/battery) — Cross-platform information about the notebook batteries [<img src="https://api.travis-ci.org/svartalf/rust-battery.svg?branch=master">](https://travis-ci.org/svartalf/rust-battery)
 
 * Linux
   * [frol/cgroups-fs](https://raw.githubusercontent.com/frol/cgroups-fs) —与Linux控制组（cgroups）的Rust绑定 [<img src="https://api.travis-ci.org/frol/cgroups-fs.svg?branch=master">](https://travis-ci.org/frol/cgroups-fs)
@@ -1091,7 +1092,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [gluon-lang/gluon](https://github.com/gluon-lang/gluon) —一种小型的静态类型的函数式编程语言
 * [murarth/ketos](https://github.com/murarth/ketos) — Lisp方言功能编程语言，用作防锈脚本和扩展语言
 * [moss](https://crates.io/crates/moss) —动态类型的脚本语言
-* [jonathandturner/rhai](https://github.com/jonathandturner/rhai) — A tiny and fast embedded scripting language resembling a combination of JS and Rust
+* [jonathandturner/rhai](https://github.com/jonathandturner/rhai) —一种微型且快速的嵌入式脚本语言，类似于JS和Rust的组合
 
 ### Template engine
 
@@ -1207,7 +1208,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   * [awesome-rust-mentors](https://rustbeginners.github.io/awesome-rust-mentors/) —乐于助人的Rust导师清单，他们愿意接受受训者并向他们介绍Rust和编程.
   * [exercism.io](https://exercism.io/tracks/rust) —编程练习，可帮助您学习Rust中的新概念.
   * [Idiomatic Rust](https://github.com/mre/idiomatic-rust) —教了惯用的Rust的经过同行评审的文章/演讲/回购合集.
-  * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) —通过实现几种不同类型的列表结构，深入探索Rust的内存管理规则.
+  * [Learning Rust With Entirely Too Many Linked Lists](http://cglab.ca/~abeinges/blah/too-many-lists/book/) 通过实现几种不同类型的列表结构来深入探索Rust的内存管理规则.
   * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
   * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) —一组简单的示例，展示了使用Rust生态系统的板条箱完成常见编程任务的良好实践.
   * [Rust for professionals](https://overexact.com/rust-for-professionals/) —为经验丰富的软件开发人员快速介绍Rust.

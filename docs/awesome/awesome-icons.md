@@ -13,6 +13,7 @@
 
 通用图标随处可见.
 
+- [Bootstrap Icons](https://github.com/twbs/icons#readme)  -为Bootstrap组件定制设计和构建的SVG图标.  （[Website](https://icons.getbootstrap.com/))
 - [Boxicons](https://github.com/atisawd/boxicons#readme)  -简单的矢量iconset，带有1000多个图标和100多个徽标.  （[Website](https://boxicons.com/))
 - [Byte Size Icons](https://github.com/danklammer/bytesize-icons#readme)  -微小的样式控制的SVG图标集.  （[Website](https://danklammer.com/bytesize-icons))
 - [Eva icons](https://github.com/akveo/eva-icons#readme)  -一包超过480个制作精美的开源图标.  （[Website](https://akveo.github.io/eva-icons))

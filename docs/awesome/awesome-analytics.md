@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 精选的分析平台，资源和其他功能的精选列表.  受启发 [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata). 
+ 精选的出色分析平台，资源和其他精选清单.  受启发 [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata). 
 
  随时欢迎您的反馈和贡献！  维护者 [@onurakpolat](https://github.com/onurakpolat) & [@koconder](https://github.com/koconder)
 
@@ -19,7 +19,7 @@
 * [Google Analytics](https://www.google.com/analytics/) -Web分析空间中事实上的分析标准.
 * [Clicktale](https://www.clicktale.com) -记录并准确观察访问者如何使用您的网站.
 * [GoSquared](https://www.gosquared.com/) -带有访问者标记的分析，可帮助您更深入地研究一个用户的访问.
-* [Clicky](http://clicky.com/) -跟踪访问和转化，还可以跟踪视频和音频分析.
+* [Clicky](http://clicky.com/) -跟踪访问和转化，您还可以跟踪视频和音频分析.
 * [Woopra](https://www.woopra.com/) -跟踪您的用户来自何处.
 * [Mint](https://haveamint.com/) -自行托管的分析解决方案（不再销售）. 
 * [Going Up](https://www.goingup.com/) -使用一种工具管理SEO分析和Web应用程序分析.
@@ -28,21 +28,23 @@
 * [Indicative](https://www.indicative.com/) -网络和移动分析工具，重点放在细分和渠道可视化上.
 * [Open Web Analytics](http://www.openwebanalytics.com/) -开源Web应用程序分析工具.
 * [Statcounter](https://statcounter.com/) -可用的原始网络分析工具之一.
-* [Snow Plow](https://snowplowanalytics.com/) -具有大量数据的Web应用程序的分析工具.
+* [Snow Plow](https://snowplowanalytics.com/) -具有大量数据的Web应用程序分析工具.
 * [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) -标准分析工具以及大型组织可以使用的一些工具.
 * [Hitslink.com](https://www.hitslink.com/) -实时分析，社交媒体流量报告和实时动态细分.
-* [Loggr](http://loggr.net/) -跟踪您的用户事件并监视您的Web应用.
+* [Loggr](http://loggr.net/) -跟踪您的用户事件并监视您的Web应用程序.
 * [Kissmetrics](https://www.kissmetrics.com/) -实时标准同类群组分析工具.
 * [Sitemeter](http://sitemeter.com/) -旧的分析工具.
 * [Crawl Track](http://www.crawltrack.net/) -另一个旧的分析工具.
 * [Sitespect](https://www.sitespect.com/) -全套Web应用程序分析工具，包括A / B测试.
 * [Rakam](https://rakam.io/) -自定义分析平台，可让您创建自己的分析服务.
 * [Metabase](https://www.metabase.com) -开源分析/ BI工具 
+* [LiveSession](https://livesession.io) -会话重播用户分析.
+* [Glassbox](https://glassboxdigital.com/) -客户体验和会话记录分析.
 
 ## Privacy focused analytics
 
 * [Fathom](https://usefathom.com/) -Fathom Analytics提供简单，有用的网站统计信息，而无需跟踪或存储用户的个人数据
-* [Simple Analytics](https://simpleanalytics.io/) -针对开发人员的简单，干净且友好的分析
+* [Simple Analytics](https://simpleanalytics.io/) -针对开发人员的简单，干净和友好的分析
 
 ## Heatmap analytics
 
@@ -60,7 +62,7 @@
 * [Popcorn Metrics](http://www.popcornmetrics.com/) -可视化编辑器，用于捕获事件并发送到其他平台.
 * [Segment](https://segment.com/) -帮助您将多个应用程序分析工具与一段代码集成在一起.
 * [Iteratively](https://iterative.ly/) -跨团队和平台一致地捕获清洁产品分析.
-* [Analytics npm package](https://getanalytics.io/)  -轻巧，可扩展的分析库，旨在与任何第三方分析提供商一起使用，以跟踪页面浏览，自定义事件并识别用户.  适用于浏览器和node.js.
+* [Analytics npm package](https://getanalytics.io/)  -轻巧，可扩展的分析库，旨在与任何第三方分析提供商一起使用，以跟踪页面浏览量，自定义事件和识别用户.  适用于浏览器和node.js.
 
 ## Mobile analytics
 
@@ -68,10 +70,10 @@
 
 * [Upsight](http://www.upsight.com/) -针对开发人员的移动应用分析工具.
 * [Appsflyer](http://www.appsflyer.com/) -具有分析功能的多合一营销工具.
-* [Amazon Mobile Analytics](http://aws.amazon.com/mobileanalytics/) - Amazons multi-platform, basic mobile analytics tool.
+* [Amazon Pinpoint](https://aws.amazon.com/pinpoint/) -亚马逊的多平台基本移动分析工具.
 * [Tapstream](https://tapstream.com/) -用户生命周期分析.
 * [Honeytracks](https://honeytracks.com/) -游戏的移动应用分析.
-* [Apsalar](https://apsalar.com/) -适用于大型应用商店的分析工具.
+* [Apsalar](https://apsalar.com/) -大型应用商店的分析工具.
 * [Roambi](http://www.roambi.com/) -三合一分析工具，可帮助您跟踪分析，处理移动应用商业智能和应用报告.
 * [Appcelerator](http://www.appcelerator.com/platform/appcelerator-analytics/) -整个移动应用营销套件.
 * [Flurry](http://www.flurry.com/) -几乎是移动应用程序分析的“行业标准”.
@@ -84,7 +86,7 @@
 * [Localytics](http://www.localytics.com/) -具有应用内和推送功能的快速，美观的实时移动分析平台.
 * [GameAnalytics](http://www.gameanalytics.com/) -领先的游戏分析平台.
 * [Swrve](https://swrve.com) -具有细分，推送，A / B测试和丰富消息传递功能的移动分析
-* [Firebase](https://firebase.google.com/features/) -适用于Android和iOS的免费且无限量的分析解决方案
+* [Firebase](https://firebase.google.com/features/) -适用于Android和iOS的免费，无限量的分析解决方案
 * [Liquid](https:/onliquid.com/) -实时移动分析，个性化，多变量测试，受众细分和推送.
 
 ## App store analytics
@@ -135,4 +137,4 @@
 -更多清单 [awesome](https://github.com/sindresorhus/awesome).
 -另一个清单？ [list](https://github.com/jnv/lists).
 -WTF！ [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome).
--分析 [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
+- Analytics [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).

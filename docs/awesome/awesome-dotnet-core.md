@@ -99,7 +99,7 @@
 * [MoreLINQ](https://github.com/morelinq/MoreLINQ) -LINQ对象扩展.
 * [Nancy](https://github.com/NancyFx/Nancy) -轻量级，低礼仪的框架，用于在.NET和Mono上构建基于HTTP的服务.
 * [opencvsharp](https://github.com/shimat/opencvsharp) -用于OpenCV的.NET Framework包装器.
-* [orleans](https://github.com/dotnet/orleans) -框架，该框架提供了直接的方法来构建分布式大规模计算应用程序，而无需学习和应用复杂的并发或其他扩展模式.
+* [orleans](https://github.com/dotnet/orleans) -框架，提供了一种直接的方法来构建分布式大规模计算应用程序，而无需学习和应用复杂的并发或其他扩展模式.
 * [Prism](https://github.com/PrismLibrary/Prism) -Prism是用于在WPF，Windows 10 UWP和Xamarin Forms中构建松耦合，可维护和可测试的XAML应用程序的框架.
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) -适用于Golang和C的超快速分布式演员# [http://proto.actor](http://proto.actor).
 * [resin](https://github.com/kreeben/resin) -具有HTTP API和可插拔读/写管道的16位宽矢量空间搜索引擎.
@@ -389,7 +389,8 @@
 * [Lamar](https://github.com/JasperFx/lamar) -快速反转罗斯林制酒厂的控制工具和杂物.
 * [LightInject](https://github.com/seesharper/LightInject) - Ultra lightweight IoC container.
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) -简单，灵活和快速的依赖注入库，可促进最佳实践，以引导开发人员迈向成功之路.
-* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻巧，可移植的依赖项注入框架.
+* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻量级便携式依赖注入框架.
+* [Unity](https://github.com/unitycontainer/unity) -轻巧，可扩展的依赖项注入容器.
 
 ### Logging
 * [common-logging](https://github.com/net-commons/common-logging) -.NET的便携式日志记录抽象.
@@ -425,7 +426,7 @@
 * [FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET and .NET Core
 * [MailBody](https://github.com/doxakis/MailBody) - Create transactional email with a fluent interface (.NET).
 * [MailKit](https://github.com/jstedfast/MailKit) -用于IMAP，POP3和SMTP的跨平台.NET库.
-* [MailMergeLib](https://github.com/axuno/MailMergeLib) -SMTP邮件客户端库，为文本，嵌入式图像和附件提供舒适的邮件合并功能，并具有良好的吞吐量和发送邮件的容错能力.
+* [MailMergeLib](https://github.com/axuno/MailMergeLib) -SMTP邮件客户端库，为文本，嵌入式图像和附件提供舒适的邮件合并功能，并具有良好的吞吐量和发送邮件消息的容错能力.
 * [MimeKit](https://github.com/jstedfast/MimeKit) -跨平台的.NET MIME创建和解析器库，支持S / MIME，PGP，DKIM，TNEF和Unix mbox线轴.
 * [netDumbster](https://github.com/cmendible/netDumbster)  -用于测试的.Net Fake SMTP服务器.  受欢迎的Dumbster的克隆.
 * [Papercut](https://github.com/ChangemakerStudios/Papercut) -简单的桌面SMTP服务器
@@ -504,7 +505,7 @@
   * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) -用于.NET的小型验证库，该库使用流利的接口和lambda表达式构建验证规则.
   * [Guard](https://github.com/safakgur/guard) -高性能，可扩展的参数验证库.
   * [Valit](https://github.com/valit-stack/Valit)  -对.NET Core的简单验证.  您的代码周围不再有if语句.  改写漂亮干净的流利的验证器！
-* [Vanara](https://github.com/dahall/Vanara) -一组用于Windows的.NET库，通过支持的包装程序实现了对许多本机Windows API的PInvoke调用.
+* [Vanara](https://github.com/dahall/Vanara) -一组用于Windows的.NET库，用于通过支持包装程序对许多本机Windows API进行PInvoke调用.
 * [warden-stack](https://github.com/warden-stack)  -针对您的应用程序，资源和基础架构的“运行状况检查”.  保持您的守望者在手表上.
 * [WebEssentials.AspNetCore.ServiceWorker](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) -ASP.NET Core渐进式Web应用程序.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application.
@@ -529,7 +530,7 @@
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) -熟悉EF以前版本的开发人员经验，包括LINQ，POCO和Code First支持.
   * [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) -用于插入更新删除读取（CRUD）操作的EntityFrameworkCore批量批处理扩展
   * [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)  -实体框架实用程序|  批量运营|  批量删除  批量更新|  查询缓存|  查询过滤器|  查询未来|  查询包括|  审计.
-  * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) -当您的SQL查询违反SqlServer，MySql或PostgreSQL中的数据库约束时，请对EntityFrameworkCore使用类型化的异常.
+  * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) -当SQL查询违反SqlServer，MySql或PostgreSQL中的数据库约束时，请对EntityFrameworkCore使用类型化的异常.
   * [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) -触发EF事件.
   * [EntityFramework.Rx](https://github.com/NickStrupat/EntityFramework.Rx) -EF操作的反应性“热”可观察物.
   * [Npgsql.EntityFrameworkCore.PostgreSQL](https://github.com/npgsql/Npgsql.EntityFrameworkCore.PostgreSQL) -PostgreSQL的实体框架核心提供程序.
@@ -765,7 +766,7 @@
   * [AutoHistory](https://github.com/Arch/AutoHistory) -Microsoft.EntityFrameworkCore的插件，支持自动记录数据更改历史记录.
 * [AspNetCore-Angular2-Universal](https://github.com/MarkPieszak/aspnetcore-angular2-universal) -跨平台-带有SEO，Bootstrap，i18n国际化（ngx-translate），Webpack，TypeScript，带有Karma的单元测试，WebAPI REST设置，SignalR，Swagger文档等服务器端渲染！
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
-* [aspnetcore-spa generator](https://github.com/aspnet/JavaScriptServices) -Yeoman生成器生成一个全新的ASP.NET Core单页应用程序，该应用程序在客户端上使用Angular 2 / React / React With Redux / Knockout / Aurelia.
+* [aspnetcore-spa generator](https://github.com/aspnet/JavaScriptServices) -Yeoman生成器生成一个全新的ASP.NET Core单页应用程序，该应用程序在客户端上使用Angular 2 / React / React with Redux / Knockout / Aurelia.
 * [ASP.Net Core Vue Starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) -Asp.NETCore 2.0 Vue 2（ES6）SPA入门套件，包含路由，Vuex等！
 * [bitwarden-core](https://github.com/bitwarden/core) -核心基础架构后端（API，数据库等） [https://bitwarden.com](https://bitwarden.com).
 * [dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.
@@ -802,7 +803,7 @@
   * [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) -具有整体部署模型的分层应用程序体系结构.
   * [Entropy](https://github.com/aspnet/Entropy) -混乱的实验场，提供新功能和新想法-在此处查看单个特征的简单样本.
   * [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) -具有DDD，CQRS和事件源的完整ASP.NET Core 2.0应用程序.
-  * [GenVue](https://github.com/herbat73/GenVue) -一个可托管的Web应用程序，允许机密用户上传和共享基于Vue.js，Vuetifyjs和NetCore WebAPI堆栈的私有文件
+  * [GenVue](https://github.com/herbat73/GenVue) -可托管的Web应用程序，允许机密用户上传和共享基于Vue.js，Vuetifyjs和NetCore WebAPI堆栈的私有文件
   * [guidance-identity-management-for-multitenant-apps](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) -如何使用Azure Active Directory进行身份验证在Microsoft Azure上的多租户应用程序中管理用户身份.
   * [JustA.ML](https://github.com/mustakimali/JustA.ML)  -一个Web应用程序，可让您在用ASP.NET Core 2.0编写的设备之间共享文件/ URL /文本.  开源，生活在 [https://justa.ml](https://justa.ml)
   * [MegaMine](https://github.com/Nootus/MegaMine) -开源采矿解决方案，可帮助矿工提取金，石英，花岗岩等.此解决方案使用ASP.NET Core和AngularJS构建，并以微服务的方式利用多个轻量级组件.

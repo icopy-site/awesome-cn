@@ -33,7 +33,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 ### Understand How Your App is Doing with Real-Time Contextual Insights From Your Users
 [![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=banner)
  &gt; Instabug可帮助Android开发人员轻松地从Beta测试人员和用户那里收集错误和反馈，以加快迭代速度并交付高质量的应用程序.  Instabug会自动附加屏幕快照，设备详细信息，网络日志，再现步骤以及解决问题和确定产品积压需求所需的大量其他关键见解. 
-> Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering Tools of the Trade community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=get-started)
+&gt;移动团队通过与Github，Jira，Slack，Zendesk等第三方工具无缝集成来加速其工作流程. [Instabug is offering Tools of the Trade community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=get-started)
 >[![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
 
 
@@ -51,7 +51,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 |:--------|:--------|:--------|:------------|
 | [BrowserStack](https://www.browserstack.com) | [@browserstack](https://twitter.com/browserstack)  |  $ 29 /月-$ 199 /月|  基于网络的实时浏览器测试.  |
 | [Litmus](http://litmus.com) | [@litmusapp](https://twitter.com/litmusapp)  |  $ 79 /月-$ 159 /月|  让您在几分钟内跨30多个真实的电子邮件客户端和设备预览广告系列.  |
-| [Sauce Labs](https://saucelabs.com) | [@saucelabs](https://twitter.com/saucelabs)  |  $ 19 / mo-$ 298 / mo |  立即在数百种真实的浏览器和平台上运行Web和移动应用程序测试.  |
+| [Sauce Labs](https://saucelabs.com) | [@saucelabs](https://twitter.com/saucelabs) | $19/mo - $298/mo | Run your web and mobile app tests across hundreds of real browsers and platforms instantly. |
 | [EmailOnAcid](https://www.emailonacid.com) | [@emailonacid](https://twitter.com/EmailonAcid)  |  $ 44 / mo-$ 260 / mo |  快速确保您的电子邮件在任何电子邮件客户端中看起来都不像废话.  |
 | [Rainforest QA](https://www.rainforestqa.com) | [@rainforestqa](https://twitter.com/rainforestqa)  |  $ 500 /月-$ 2000 /月|  疯狂的简单集成测试.  |
 | [DebugMail](https://debugmail.io)  |  -|  免费|  开发人员易于使用的伪邮件（SMTP）服务器.  |
@@ -71,11 +71,11 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [GitLab Issues](https://about.gitlab.com) | [@gitlab](https://twitter.com/gitlab)  |  免费|  GitLab是一种开放源代码软件，用于协作在全球超过100,000个组织中使用的代码.  在GitLab.com上或在您自己的实例上可以拥有无​​限的私人存储库.  企业版包括深层的LDAP支持.  |
 | [Huboard](https://huboard.com) | [@huboard](https://twitter.com/huboard)  |  $ 7 / mo-$ 24 / mo |  GitHub问题使GitHub仓库的即时项目管理变得很棒|
 | [JIRA](https://www.atlassian.com/software/jira) | [@JIRA](https://twitter.com/JIRA)  |  托管$ 10 /月-托管$ 10 /年|  JIRA是团队规划和打造出色产品的跟踪器.  成千上万的团队选择JIRA来捕获和组织问题，分配工作并关注团队活动.  借助新的移动界面，JIRA可以在您的办公桌上或旅途中帮助您的团队完成工作.  |
-| [Lighthouse](https://lighthouseapp.com/) | [@lighthouseapp](https://twitter.com/lighthouseapp) | $25/mo - $100/mo | Whether you're a large company or a small bootstrapped team, Lighthouse is the perfect ticket tracking solution. Collaborate effortlessly on projects. Whether you’re a team of 5 or studio of 50, Lighthouse will help you keep track of your project development with ease. |
+| [Lighthouse](https://lighthouseapp.com/) | [@lighthouseapp](https://twitter.com/lighthouseapp)  |  $ 25 / mo-$ 100 / mo |  无论您是大型公司还是小型自助团队，Lighthouse都是理想的票务跟踪解决方案.  在项目上轻松协作.  无论您是由5人组成的团队，还是由50人组成的工作室，Lighthouse都会帮助您轻松跟踪项目开发.  |
 | [Pinitto.me](https://pinitto.me) | [@Pinittome](https://twitter.com/pinittome)  |  -|  在虚拟软木板（OSS）上发布便笺|
 | [Sifter](https://sifterapp.com) | [@sifterapp](https://twitter.com/sifterapp)  |  $ 29 / mo-$ 149 / mo |  更少的配置.  做得更多.  我们花了很多时间研究错误跟踪，以帮助您创建最简单的工作流程来完成工作.  我们甚至不时发布博客，介绍有关最佳错误跟踪过程的一些想法.
 | [Usersnap](https://usersnap.com) | [@usersnap](https://twitter.com/usersnap)  |  $ 19 / mo- $ 99 / mo |  Usersnap是针对Web项目工作的任何人的可视化错误报告.  获得每个错误报告的视觉反馈和宝贵的浏览器信息，以更快地重现并修复它们.  |
-| [Instabug](https://instabug.com) | [@instabug](https://twitter.com/instabug)  |  $ 49 / mo- $ 349 / mo |  Instabug是针对移动应用程序的综合错误报告和应用程序内反馈工具.  收到测试人员或用户发送的每个错误报告附带的详细反馈，以更快地调试和构建更好的应用程序.  |
+| [Instabug](https://instabug.com) | [@instabug](https://twitter.com/instabug) | $49/mo-$349/mo | Instabug is comprehensive bug reporting and in-app feedback tool for mobile apps. Receive detailed feedback attached with every bug report sent by your testers or users to debug and build better apps, faster. |
 
 ### Planning & Project Management
 
@@ -89,8 +89,8 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Apollo](https://www.apollohq.com) | [@applicomhq](https://twitter.com/applicomhq)  |  $ 23 / mo-$ 148 / mo |  集成的项目和联系人管理正确完成Apollo是项目和联系人管理正确完成的项目.  使用Apollo，您将意识到它的构建是为了帮助您快速有效地完成工作.  借助Apollo，您将始终知道您的项目，联系人和生活在哪里，并且您将感受到一切—无论您的日程安排有多忙.  |
 | [Pivotal Tracker](https://www.pivotaltracker.com) | [@pivotaltracker](https://twitter.com/pivotaltracker)  |  $ 7 / mo-$ 175 / mo |  建立更好的软件.  将您的项目分解成小故事，使您的产品更接近业务目标.  使用点来估计每个故事的相对复杂性，并在待办事项列表中对其进行优先排序.  |
 | [Asana](https://asana.com) | [@asana](https://twitter.com/asana)  |  $ 50 / mo-$ 800 / mo |  无需电子邮件的团队合作.  Asana是我们优先处理项目，保持订单和保持在不断增加的待办事项清单上的首选工具|
-| [WeekPlan](https://weekplan.net) | [@weekplan](https://twitter.com/weekplan)  |  $ 7 / mo-$ 19 / mo |  时间管理受到“高效人才的7种习惯”的启发，具有以下特点：周目标，周视图和象限矩阵，番茄钟，共享工作区等.
-| [Trello](https://trello.com) | [@trello](https://twitter.com/trello)  |  $ 5 / mo |  一起组织任何事情Trello是最快，最简单的组织任何事情的方式，从您的日常工作到喜爱的辅助项目，再到最大的人生计划.  |
+| [WeekPlan](https://weekplan.net) | [@weekplan](https://twitter.com/weekplan)  |  $ 7 / mo-$ 19 / mo |  时间管理受“高效人才的7种习惯”启发，具有以下特点：周目标，周视图和象限矩阵，番茄钟，共享工作区等.
+| [Trello](https://trello.com) | [@trello](https://twitter.com/trello)  |  $ 5 / mo |  整理任何东西，Trello是最快，最简单的整理任何东西的方式，从您的日常工作到喜爱的辅助项目，再到您最大的人生计划.  |
 | [Blossom](https://www.blossom.co) | [@blossom](https://twitter.com/blossom)  |  $ 19 / mo-$ 149 / mo |  敏捷项目管理.  Blossom为团队中的每个成员提供了清晰的概述，说明谁在做什么，为什么做，与此同时，它可以帮助您专注于最重要的事情.  借助Blossom，您可以一心一意地高效管理整个开发过程，并且一心一意.  Blossom是基于看板原理的，它是一种强调迭代交付周期并不断改善团队或组织工作流程的工作方式.  |
 | [Redmine](https://www.redmine.org)  |  -|  -|  灵活的项目管理Web应用程序.  它是使用Ruby on Rails框架编写的，是跨平台和跨数据库的.  |
 | [JIRA Agile](https://www.atlassian.com/software/jira/agile) | [@jira](https://twitter.com/JIRA)  |  $ 10 / mo-$ 30 / mo |  梦想大，工作聪明，交付迅速.  @ JIRA，@ Confluence，@ Bitbucket等的制造商.  用于计划，协作，编码和支持的软件.  专为团队打造|
@@ -99,6 +99,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Breeze](https://www.breeze.pm) | [@BreezeTeam](https://twitter.com/BreezeTeam)  |  $ 29 / mo-$ 129 / mo |  组织和跟踪一切.  Breeze向您显示正在处理的内容，正在处理的内容，工作流中的位置以及所花费的时间.  |
 | [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp)  |  $ 8 / mo-$ 48 / mo |  自由职业者的心事.  我们将Cushion建立为一支自由职业者团队，他们总是在计划和管理我们的年度时遇到麻烦-经常从事过多的工作，从不打算休息一下.  |
 | [Clickup](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | $0 - $5/mo | ClickUp's #1 rated productivity software is making more productive projects with a beautifully designed and intuitive platform. |
+| [Ora](https://ora.pm) | [@oratask](https://twitter.com/oratask)  |  $ 0-$ 8 / mo |  直观的项目管理和团队协作，Ora是您团队的指挥中心！  一个跟踪项目的地方.  任务.  时间.  提交.  状态报告.  您的整个产品或业务！  |
 | [Clubhouse](https://clubhouse.io/) | [@clubhouse](https://twitter.com/clubhouse)  |  $ 0-$ 8.50 / mo |  Clubhouse是软件开发的协作之家，使与您的团队进行计划和构建变得更轻松，更愉快.  |
 
 ### Time Tracking
@@ -109,7 +110,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Clockify](https://clockify.me) | [@clockify](https://twitter.com/clockify)  |  免费|  Clockify是唯一100％空闲的时间跟踪软件，可让您和您的团队一键跟踪时间.  它的工作方式类似于Toggl，但提供了无限的功能和无限的用户.  |
 | [Hubstaff](https://hubstaff.com) | [@hubstaff](https://twitter.com/Hubstaff)  |  免费-每月9美元|  Hubstaff是时间跟踪软件，旨在使远程团队管理更加有效.  您只需要注册，下载我们直观的桌面应用程序并按“开始”按钮即可开始跟踪时间.  |
 | [Tickspot](https://www.tickspot.com/) | [@tickspot](https://twitter.com/tickspot)  |  免费-149美元/月|  简单明了的时间跟踪软件，可帮助您的团队运行更多有利可图的项目.  无论您是喜欢iOS，Android，Apple Watch还是台式机，Tick都是跟踪时间的最简单方法.  |
-| [Kimai](https://www.kimai.org/) | [@kimai_org](https://twitter.com/kimai_org) | self-hosted | Kimai is a Free open source timetracker. It tracks work time and prints out a summary of your activities on demand. Yearly, monthly, daily, by customer, by project, by action, etc. |
+| [Kimai](https://www.kimai.org/) | [@kimai_org](https://twitter.com/kimai_org)  |  自托管|  Kimai是一个免费的开源时间跟踪器.  它跟踪工作时间并按需打印出您的活动摘要.  每年，每月，每天，按客户，按项目，按操作等.
 | [Timetrap](https://github.com/samg/timetrap)  |  -|  免费|  简单的开源命令行时间跟踪
 
 ### App Developer Tools
@@ -172,7 +173,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 
  |  服务|  推特|  定价|  描述
 |:--------|:--------|:--------|:------------|
-| [Silverback 2.0](https://silverbackapp.com) | [@silverbackapp](https://twitter.com/silverbackapp)  |  69.95 |  适用于设计人员和开发人员的游击可用性测试软件.  Silverback使使用Mac上已经存在的硬件，每个人都可以轻松，快速，廉价地进行游击可用性测试，而无需进行设置且没有费用.  |
+| [Silverback 2.0](https://silverbackapp.com) | [@silverbackapp](https://twitter.com/silverbackapp)  |  69.95 |  游击者可用性测试软件，适用于设计人员和开发人员.  Silverback使使用Mac上已经存在的硬件，每个人都可以轻松，快速，廉价地进行游击可用性测试，而无需进行设置且没有费用.  |
 | [HotJar](https://www.hotjar.com) | [@hotjar](https://twitter.com/hotjar)  |  免费-$ 29 /月（个人）|  记录视频并收集网站访问者操作的热图.  |
 | [Wisdom](https://getWisdom.io) | [@wisdomCRM](https://twitter.com/WisdomCRM)  |  免费-每月$ 2000以上|  会话重播.  智慧是最准确的实时访客会话记录器服务.  Wisdom仅专注于会话重播，在所有选项卡上为每个访问者重建虚拟桌面屏幕，以捕捉每个访问者体验的真实感觉.  |
 
@@ -210,10 +211,10 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [CodeClimate](https://codeclimate.com) | [@codeclimate](https://twitter.com/codeclimate)  |  $ 0 /月-$ 399 /月|  自动化代码审查.  Code Climate托管的软件指标可以帮助您更快地交付高质量的Ruby和JavaScript代码.  通过实时静态分析代码来控制您的技术债务.  |
 | [Codacy](https://www.codacy.com) | [@codacy](https://twitter.com/codacy)  |  $ 0-$ 150 / mo |  自动化代码审查.  连续静态分析旨在补充您的单元测试.  类似于CodeClimate.  |
 | [Codecov](https://codecov.io) | [@codecov](https://twitter.com/codecov)  |  $ 0-$ 5 / mo |  托管代码覆盖率.  代码覆盖率报告正确完成.  |
-| [Semaphore](https://semaphoreci.com) | [@semaphoreci](https://twitter.com/semaphoreci)  |  $ 14 / mo-$ 899 / mo |  创建一个惊人的工作流.  Semaphore假定您的私有或开源项目在GitHub上.  没有要管理的新依赖项，挂钩或SSH密钥.  它的工作原理没有对源代码进行任何更改.  |
-| [Solano CI](https://www.solanolabs.com) | [@SolanoLabs](https://twitter.com/solanolabs)  |  $ 15 / mo-$ 100 / mo |  借助获得专利的自动并行化功能，可以更快地进行持续集成和部署.  Solano CI可以在数分钟内完成持续集成，使您无需管理构建服务器，并可以安全，自动地并行运行测试，从而使软件部署速度提高了10倍至80倍.  它还使您甚至可以在使用CI之前使用我们的大规模可扩展环境.  无缝集成到现有工作流程中.  免费试用14天，无需信用卡.  以前曾被爱为tddium.  |
+| [Semaphore](https://semaphoreci.com) | [@semaphoreci](https://twitter.com/semaphoreci) | $14/mo - $899/mo | Create an Amazing Workflow. Semaphore assumes that your private or open source project is on GitHub. There are no new dependencies, hooks or SSH keys to manage. It works without any change in source code. |
+| [Solano CI](https://www.solanolabs.com) | [@SolanoLabs](https://twitter.com/solanolabs)  |  $ 15 / mo-$ 100 / mo |  通过获得专利的自动并行化功能，可以更快地进行持续集成和部署.  Solano CI可以在数分钟内完成持续集成，使您无需管理构建服务器，并可以安全，自动地并行运行测试，从而使软件部署速度提高了10倍至80倍.  它还使您甚至可以在使用CI之前使用我们的大规模可扩展环境.  无缝集成到现有工作流程中.  免费试用14天，无需信用卡.  以前曾被爱为tddium.  |
 | [Jenkins](https://jenkins.io) | [@jenkinsci](https://twitter.com/jenkinsci)  |  免费|  Jenkins为软件开发提供持续集成服务.  它是一个基于服务器的系统，支持SCM工具，包括AccuRev，CVS，Subversion，Git，Mercurial，Perforce，Clearcase和RTC，并且可以执行基于Apache Ant和Apache Maven的项目以及任意shell脚本和Windows批处理命令.  Jenkins是根据MIT许可证发布的免费软件.  |
-| [Bamboo](https://www.atlassian.com/software/bamboo) | [@atlassian](https://twitter.com/atlassian)  |  $ 10 / mo-$ 1000 / mo |  Bamboo不仅仅运行构建和测试.  它连接问题，提交，测试结果和部署，因此整个产品团队都可以使用整个图景-从项目经理，开发人员和测试人员到系统管理员.  |
+| [Bamboo](https://www.atlassian.com/software/bamboo) | [@atlassian](https://twitter.com/atlassian)  |  $ 10 / mo-$ 1000 / mo |  Bamboo不仅仅运行构建和测试.  它可以连接问题，提交，测试结果和部署，因此整个产品团队都可以使用整个图景-从项目经理，开发人员和测试人员到系统管理员.  |
 | [Buildkite (Buildbox)](https://buildkite.com) | [@buildkite](https://twitter.com/buildkite)  |  $ 15 / dev / mo |  半主机式持续集成和部署.  Buildkite使用您自己的基础结构来运行构建，因此您可以测试任何语言或运行任何部署脚本.  您可以根据需要运行任意数量的并行代理（和构建）.  |
 | [Crucible](https://www.atlassian.com/software/crucible) | [@atlassian](https://twitter.com/atlassian)  |  $ 10 / mo-$ 8000 / mo |  代码审查系统.  使用Crucible灵活的检查流程检查代码，讨论更改，共享知识并识别缺陷.  它的代码审查使Git，Subversion，CVS，Perforce等的工作变得容易.  |
 | [Coveralls](https://coveralls.io) | [@coverallsapp](https://twitter.com/coverallsapp)  |  $ 0 /月-$ 50 /月|  Coveralls与您的持续集成服务器配合使用，可以为您提供测试覆盖率历史记录和统计信息.  它可以与任何语言集成，并且对于开源是免费的.  |
@@ -222,6 +223,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Monkey Test It](https://monkeytest.it) | [@monkeytestit](https://twitter.com/monkeytestit)  |  $ 0 /月-$ 199 /月|  自动化的网站检查工具，可在用户操作之前捕获网站上的错误（链接断开，图像丢失，JS错误等）.  与Slack，大多数CI系统，webook集成，并支持内置调度.  |
 | [Concourse](https://concourse-ci.org) | [@concourseci](https://twitter.com/concourseci)  |  免费|  广场是一个开放源代码的连续事物.  Concourse建立在简单的资源，任务和工作机制的基础上，提出了一种通用的自动化方法，使其非常适合CI / CD.  |
 | [PullRequest](https://www.pullrequest.com) | [@pullrequestinc](https://twitter.com/pullrequestinc)  |  $ 33 + / 10分钟|  由经过审查的专业评论员通过静态分析为您提供代码审查服务
+| [GitLab](https://about.gitlab.com/product/continuous-integration/) | [@GitLab](https://twitter.com/gitlab) | $0 [Community Edition](https://about.gitlab.com/pricing/)  /付费保费|  GitLab是一个开放源代码版本控制平台，具有精美的CI / CD集成.  |
 
 
 ### Dashboards
@@ -247,8 +249,8 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [BugSnag](https://www.bugsnag.com) | [@bugsnag](https://twitter.com/bugsnag)  |  $ 29 / mo-$ 249 / mo |  自动全栈错误监控.  Web应用程序监视Rails，PHP，Node.js，Java和所有其他领先平台.  |
 | [Raygun](https://raygun.com) | [@raygunio](https://twitter.com/raygunio)  |  $ 14 / mo-$ 199 / mo |  异常错误跟踪.  您的软件故障将自动发送到Raygun服务，并立即开始分析.  Raygun可以智能地对错误进行分组，以便您处理根本原因，而不是每个错误实例！  |
 | [Airbrake](https://airbrake.io) | [@airbrake](https://twitter.com/airbrake)  |  $ 49-$ 249 / mo |  不再需要搜索日志文件，只需3分钟即可捕获并跟踪应用程序的异常.  Airbrake是领先的异常报告服务，目前为50,000个应用程序提供错误跟踪，并支持18种编程语言.  |
-| [Rollbar](https://rollbar.com) | [@rollbar](https://twitter.com/rollbar) | $12/mo - $1249/mo | Take control of your errors. Rollbar is platform-agnostic and can accept data from anything that can speak HTTP and JSON. You can use our official libraries for Ruby, Python, PHP, Node.js, JavaScript, Android, iOS, or Flash, or roll your own with our API. |
-| [Errorception](https://errorception.com) | [@errorception](https://twitter.com/errorception)  |  $ 5 / mo-$ 59 / mo |  无痛JavaScript错误跟踪.  错误接收是一种发现JavaScript错误的简单且轻松的方法，这些错误发生在用户的浏览器中.  您需要做的就是在页面上插入一个脚本标记，您将开始实时记录错误.  |
+| [Rollbar](https://rollbar.com) | [@rollbar](https://twitter.com/rollbar)  |  $ 12 / mo-$ 1249 / mo |  控制您的错误.  Rollbar与平台无关，可以接受任何能说HTTP和JSON的数据.  您可以将我们的官方库用于Ruby，Python，PHP，Node.js，JavaScript，Android，iOS或Flash，也可以使用我们的API自行滚动.  |
+| [Errorception](https://errorception.com) | [@errorception](https://twitter.com/errorception)  |  $ 5 / mo-$ 59 / mo |  无痛JavaScript错误跟踪.  错误接收是一种发现JavaScript错误的简单而轻松的方法，这些错误发生在用户的浏览器中.  您需要做的就是在页面上插入一个脚本标记，您将开始实时记录错误.  |
 | [Errbit](https://errbit.com)  |  -|  OSS |  符合Airbrake API的开源错误捕获器.  |
 | [OverOps](https://www.overops.com) | [@overopshq](https://twitter.com/overopshq)  |  -|  用于Java和Scala应用程序的生产代码中的God模式.  |
 
@@ -267,7 +269,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Flume](https://github.com/apache/flume) | - | - | - |
 | [Graylog](https://www.graylog.org) | [@graylog2](https://twitter.com/graylog2)  |  -|  经过实地测试的开源数据分析系统已在世界范围内使用和信任.  搜索您的日志，创建图表，发送报告，并在发生任何事情时收到警报.  所有这些都在数据中心中现有的JVM上运行.  |
 | [LogDNA](https://logdna.com) | [@logdna](https://twitter.com/LogDNA)  |  免费-$ 3 / gb |  现代化的日志管理：从任何平台，任何数量的实时日志聚合，监视和分析.  |
-| [LogEntries](https://logentries.com) | [@logentries](https://twitter.com/logentries) | $16/mo - $245/mo | Log Management & Analytics Made Easy. Logentries provides an easy-to-use cloud service for log management and analytics. |
+| [LogEntries](https://logentries.com) | [@logentries](https://twitter.com/logentries)  |  $ 16 / mo-$ 245 / mo |  日志管理和分析变得容易.  Logentries为日志管理和分析提供了易于使用的云服务.  |
 | [Loggly](https://www.loggly.com) | [@loggly](https://twitter.com/loggly)  |  $ 49 / mo-$ 349 / mo |  更快地解决运营问题.  Loggly帮助以云为中心的组织（即构建和管理面向云的应用程序的组织）更快地解决运营问题.  |
 | [Logstash](https://www.elastic.co/products/logstash) | [@logstash](https://twitter.com/logstash)  |  -|  从任何来源发送日志，进行解析，获取正确的时间戳，对其进行索引并进行搜索.  Logstash是用于管理事件和日志的工具.  您可以使用它来收集日志，解析日志并存储它们以备后用（例如，用于搜索）.  说到搜索，Logstash带有用于搜索和钻取所有日志的Web界面.  |
 | [Papertrail](https://papertrailapp.com) | [@papertrailapp](https://twitter.com/papertrailapp)  |  $ 7 / mo-$ 230 / mo |  无挫败的日志管理.  几秒钟即可上手.  使用Papertrail的省时日志工具，灵活的系统组，团队范围的访问，长期归档，图表和分析输出，监视Webhook和45秒设置.  |
@@ -281,11 +283,11 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 |:--------|:--------|:--------|:------------|
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta)  |  免费到$ 119 /月|  Web应用程序的全栈应用程序监视.  通过查看事务，错误，浏览器指标，主机指标等，获得对代码，网络和最终用户的可见性，尤其是对于多语言和面向服务的应用程序.  |
 | [DripStat](https://dripstat.com) | [@DripStat](https://twitter.com/dripstat)  |  $ 20 / mo |  Java的应用程序监视.  下一代Java APM.  整个堆栈的完全可见性.  专为Java设计的.  支持SQL数据库，MongoDB和Cassandra.  |
-| [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta)  |  免费至$ 119 /月|  Web应用程序的全栈应用程序监视.  通过查看事务，错误，浏览器指标，主机指标等，获得对代码，网络和最终用户的可见性，尤其是对于多语言和面向服务的应用程序.  |
+| [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta) | Free to $119/mo | Full-stack application monitoring for web apps. Get visibility into code, network, and end user, especially for polyglot and service-oriented applications, by looking at transactions, errors, browser metrics, host metrics, and more. |
 | [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic)  |  $ 149 / mo |  所有Web应用程序的应用程序监视.  它是要从您的软件所产生的数十亿个指标中获得可行的实时业务见解，包括用户点击流，移动活动，最终用户体验和交易.  |
 | [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal)  |  $ 49 / mo-$ 259 / mo |  更好地监视您的Rails应用程序.  通过平均值和第90个百分位数测量，获取有关网站性能的详细统计信息.  |
 | [Instrumental](https://instrumentalapp.com) | [@instrumental](https://twitter.com/instrumental)  |  $ 150 / mo-$ 750 / mo |  实时监控您的应用程序.  Instrumental可以以非常高的规模监视指标.  以每秒500,000个指标甚至更高的速度，它甚至连汗水都没有.
-| [Atatus](https://www.atatus.com) | [@atatusapp](https://twitter.com/atatusapp) | $12/mo - $159/mo | Simple JavaScript Error Tracking. Atatus is a simple error tracking and uptime monitoring system. Add two lines of code and get alerted on any errors that occurs in your application in realtime. |
+| [Atatus](https://www.atatus.com) | [@atatusapp](https://twitter.com/atatusapp)  |  $ 12 / mo-$ 159 / mo |  简单的JavaScript错误跟踪.  Atatus是一个简单的错误跟踪和正常运行时间监视系统.  添加两行代码，并实时警告您的应用程序中发生的任何错误.  |
 
 ### Load Testing
 
@@ -304,7 +306,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
  |  服务|  推特|  定价|  描述
 |:--------|:--------|:--------|:------------|
 | [Server Density](https://www.serverdensity.com) | [@serverdensity](https://twitter.com/serverdensity)  |  -|  高级托管网站和服务器监视工具.  您的所有活动均实时同步-从启动新实例到升级或删除旧实例.  通过Web，移动设备，API或直接与您的提供商一起在任何地方工作.  一切保持同步.  |
-| [Datadog](https://www.datadoghq.com) | [@datadoghq](https://twitter.com/datadoghq)  |  $ 0 / mo-$ 15 /主机/ mo |  Datadog是为IT，运营和开发团队提供的监视服务，这些团队大规模编写和运行应用程序，并希望将其应用程序，工具和服务所产生的大量数据转化为可行的见解.  |
+| [Datadog](https://www.datadoghq.com) | [@datadoghq](https://twitter.com/datadoghq)  |  $ 0 / mo-$ 15 /主机/ mo |  Datadog是针对IT，运营和开发团队的监视服务，这些团队大规模编写和运行应用程序，并希望将其应用程序，工具和服务所产生的大量数据转化为可行的见解.  |
 | [Circonus](https://www.circonus.com) | [@circonus](https://twitter.com/circonus)  |  $ 15 /主机/月-$ 25 /主机/月|  Circonus将多种监视，警报，事件报告和分析工具组合到一个统一的解决方案中.  在任何应用程序中，从任何系统使用任何数据，并对其进行实时可视化.  |
 | [TrueSight Pulse](https://www.bmc.com/it-solutions/truesight) | [@truesightpulse](https://twitter.com/truesightpulse)  |  -|  实时了解云和服务器基础架构|
 | [Librato](https://www.librato.com) | [@Librato](https://twitter.com/Librato)  |  $ 0.05 / metric / mo至$ 0.30 / metric / mo |  Librato提供了一个完整的解决方案，用于监视和理解在堆栈的各个级别上影响您的业务的指标.  |
@@ -330,7 +332,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Sirportly](https://sirportly.com) | [@sirportly](https://twitter.com/sirportly)  |  £0-£15 /月|  发展您的业务并提供世界一流的客户支持.  只需在不到几分钟的时间内设置您的服务台.  与您的其他软件工具集成，并利用自动规则和宏将您的客户支持提升到一个新的水平，变得更加专业和以客户为中心，并通过Sirportly将您的客户变成狂热的粉丝.  |
 | [Olark](https://www.olark.com/) | [@olark](https://twitter.com/olark) | - | - |
 | [SnapEngage](https://snapengage.com/) | [@snapengage](https://twitter.com/snapengage)  |  每次集成的自定义定价，或每月$ 81起|  高度定制的实时聊天集成|
-| [Get Satisfaction!](https://getsatisfaction.com/corp/) | [@getsatisfaction](https://twitter.com/getsatisfaction)  |  -|  客户社区以获得社会支持，社交营销和客户反馈-在线社区软件.  获得满意是领先的客户参与平台，可通过最佳的在线客户社区帮助公司与客户和潜在客户建立更好的关系.  |
+| [Get Satisfaction!](https://getsatisfaction.com/corp/) | [@getsatisfaction](https://twitter.com/getsatisfaction) | - | Customer communities for social support, social marketing & customer feedback - online community software. Get Satisfaction is the leading customer engagement platform that helps companies build better relationships with their customers and prospects, through the best online customer community. |
 | [Reamaze](https://www.reamaze.com) | [@reamaze](https://twitter.com/reamaze)  |  $ 15 / mo |  轻巧，Lightspeed帮助台.  电子邮件，社交，品牌，集成.  Reamaze为您的团队提供了与您的应用程序集成的帮助台功能，以及与工作流程中流行的第三方工具的集成.  |
 | [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk)  |  $ 29 / mo-$ 199 / mo |  帮助台应用程序，实际上使您的工作更轻松，而不是更难.  提供托管版本和本地版本.  设计非常好，易于使用.  具有所有必备功能，不会妨碍您.  |
 | [Drift](https://www.drift.com) | [@drift](https://twitter.com/drift)  |月费$ 49起|  停止浪费您的网站流量.  面向销售的实时聊天和应用内消息传递，以及聊天机器人自动化.  |
@@ -430,7 +432,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Trademarkia](https://www.trademarkia.com) | [@trademarkia](https://twitter.com/trademarkia)  |  -|  商标是世界上最大的商标搜索引擎之一.  LegalForce的特许专利律师和代理人网络已为各种规模的公司提交了数百项专利申请.  |
 | [NameRobot](https://www.namerobot.com) | [@namerobotEN](https://twitter.com/namerobotEN)  |  0 $-300 $ / mo |  查找，创建并检查项目的名称.  NameRobot提供您在短时间内创建合适的命名思路所需的一切.  |
 | [DomainTools Whois Lookup](https://whois.domaintools.com/) | [@DomainTools](https://twitter.com/DomainTools)  |  免费-$ 99 /月|  超越普通的Whois来发现域名或IP地址背后的人员或组织.  |
-| [damnshort](https://damnshort.com/) | [@realdamnshort](https://twitter.com/realdamnshort) | $195 | Short, brandable dotcoms that you can actually afford. |
+| [damnshort](https://damnshort.com/) | [@realdamnshort](https://twitter.com/realdamnshort)  |  $ 195 |  您可以负担得起的简短的品牌互联网公司.  |
 
 ### Space Rental
 
@@ -465,7 +467,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Abstract](https://www.abstract.com/) | [@goabstract](https://twitter.com/goabstract)  |  $ 9 / mo-$ 15 / mo |  为您的设计团队带来git启发的版本控制和协作.  |
 | [Creately](https://creately.com) | [@creately](https://twitter.com/creately)  |  免费-750美元/月|  基于Web的图表绘制工具，可快速绘制简单的图表.  支持流程图，模型，线框图，思维导图，组织结构图，网络图，AWS图，UML图和许多其他图类型.  实时协作以及创新的生产力功能，可将图表创建速度提高3倍.  |
 | [Keynote](https://www.apple.com/keynote/)  |  -|  $ 19.99 |  全新的Keynote可以轻松创建华丽的演示文稿，其功能强大而又易于使用的工具以及令人眼花effects乱的效果将使您很难遵循.  还结帐 [Keynotopia Themes](https://github.com/cjbarber/ToolsOfTheTrade/blob/master/ https://keynotopia.com) 获取iOS，Android等的所有常见UI元素.
-| [OmniGraffle](https://www.omnigroup.com/omniGraffle) | [@omniGraffle](https://twitter.com/omniGraffle)  |  $ 99.99 |  绘制价值一千个字的图表.  需要图表，流程图，快速页面布局，网站线框或图形设计吗？  OmniGraffle可以通过使线条即使在移动时也保持与形状的连接来帮助您快速制作出令人眼花graphic乱的图形文档，提供强大的样式工具，只需单击一下即可神奇地组织图表.  是否需要快速|
+| [OmniGraffle](https://www.omnigroup.com/omniGraffle) | [@omniGraffle](https://twitter.com/omniGraffle)  |  $ 99.99 |  绘制价值一千个字的图表.  需要图表，流程图，快速页面布局，网站线框或图形设计吗？  OmniGraffle可以通过使线条即使在移动时也保持与形状的连接来帮助您快速制作令人眼花eye乱的图形文档，提供强大的样式工具，只需单击一下即可神奇地组织图表.  是否需要快速|
 | [moqups](https://moqups.com) | [@moqups](https://twitter.com/moqups)  |  $ 9 / mo-$ 39 / mo |  Moqups是一个漂亮的HTML5应用程序，用于创建线框，模型或UI概念，原型，具体取决于您如何调用它们.  最令人赞叹的HTML5应用程序，可为您的下一个项目创建与分辨率无关的SVG模型和线框.  |
 | [Balsamiq](https://balsamiq.com) | [@balsamiq](https://twitter.com/balsamiq)  |  -|  对于劣质软件而言，生命太短了！  Balsamiq Mockups是一种快速的线框图工具，可帮助您更快，更聪明地工作.  它再现了在白板上但使用计算机进行素描的体验.  |
 | [Proto.io](https://proto.io) | [@protoio](https://twitter.com/protoio)  |  $ 24 / mo-$ 199 / mo |  快速的移动原型制作.  在数分钟内构建高保真，完全交互式的移动应用程序原型.  可以在浏览器或设备上查看原型，从而为用户提供真实的体验，使应用看起来和表现方式.  支持多种设备，例如智能手机和平板电脑/平板电脑，包括iPhone，iPad和Android设备.  |
@@ -567,9 +569,19 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Pin](https://pinpayments.com) | [@PinPayments](https://twitter.com/PinPayments)  |  2.9％+ 30¢/成功充电.  |  付款，重新启动.  接受来自全球受众的信用卡付款通常需要一个商家帐户.  对于小型企业而言，为每种货币建立商家帐户的过程可能会非常困难且成本很高.  |
 | [PayMill](https://www.paymill.com) | [@Paymill](https://twitter.com/Paymill)  |  0.28€-0.25€| |  在线支付变得容易.  通过根据您的网站流程自定义结帐，使付款个性化|
 | [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly)  |  $ 150 / mo-$ 1500 / mo |  付款平台.  Spreedly的主要好处之一是，通过跨多个支付网关工作，可以到达大量商家帐户.  作为直接商家，您可以进行全球交易，但可以根据地理位置或其他业务规则将资金存入唯一的商家帐户.  作为SaaS平台，您可以支持单个客户的独特商家帐户.  付款网关令牌是您向我们指示该特定交易将针对哪个唯一商人帐户的方式.  每个唯一的商家帐户=一个唯一的支付网关令牌.  |
-| [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay)  |  2.9％+ 30¢/交易.  |  WePay是第一个提供平台（市场，众筹和业务软件/工具）的支付引擎，该平台拥有客户体验的方式，同时仍能使他们免受100％的欺诈和监管风险.  |
+| [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay)  |  2.9％+ 30¢/交易.  |  WePay是第一个提供平台（市场，众筹和业务软件/工具）的支付引擎，这种平台拥有自己的客户体验，同时仍能使他们免受100％的欺诈和监管风险.  |
 | [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ)  |  5％+ 50¢/交易.  |  付款处理和履行，专门用于桌面应用程序和SaaS订阅服务.  为您处理增值税和发票，因此您的会计变得更加容易.  |
 | [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant)  |  0％+兑换+ $ 99 + / mo |  付款统一.  |  将您的应用程序，网站，软件或硬件与Fattmerchant API集成在一起，以无缝地接受所有主要的信用卡，ACH付款等等！  面对面和在线交易的理想选择.  |
+
+### Boilerplates
+
+ |  服务|  推特|  定价|  描述
+|:--------|:--------|:--------|:------------|
+| [Yeoman](https://yeoman.io/) | [@yeoman](https://twitter.com/yeoman)  |  免费|  用于现代Web应用程序的Web脚手架工具|
+| [Hix on Rails](https://hixonrails.com/) | [@hixonrails](https://twitter.com/hixonrails)  |  $ 39-$ 249 |  Ruby on Rails项目生成器|
+| [JHipster](https://www.jhipster.tech/) | [@jhipster](https://twitter.com/jhipster)  |  免费|  Java开发人员的时髦堆栈.  一台方便的生成器中的Spring Boot + Angular / React.  |
+| [Divjoy](https://divjoy.com/) | [@divjoy](https://twitter.com/divjoy)  |  $ 59 |  React代码库生成器.  |
+| [WPPB](https://wppb.me/)  |  -|  免费|  WordPress插件样板生成器|
 
 ### Banking
 
@@ -712,7 +724,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [StatusPage.io](https://www.statuspage.io/) | [@Statuspage](https://twitter.com/Statuspage) | - | - |
 | [Tumblr](https://www.tumblr.com/) | [@tumblr](https://twitter.com/tumblr) | - | - |
 | [HelloBar](https://www.hellobar.com ) | - | - | - |
-| [Status.io](https://status.io) | [@statusio](https://twitter.com/statusio) | - | Hosted system status pages |
+| [Status.io](https://status.io) | [@statusio](https://twitter.com/statusio)  |  -|  托管系统状态页面|
 
 ### Forms / Surveys
 
@@ -739,6 +751,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [KForge](https://pypi.org/project/kforge/) | - | - | - |
 | [VersionShelf](https://www.versionshelf.com) | - | - | - |
 | [Assembla](https://www.assembla.com/) | [@assembla](https://twitter.com/assembla)  |  $ 24 / m-$ 99 / m |  Git托管，与您的任务紧密集成.  在线浏览文件，比较修订版本，合并代码并维护可持续的代码库.  |
+| [Source Hut](https://git.sr.ht/) | - | - | This is the git service of Source Hut -  a suite of open source tools hosted  as a development platform. Learn more about Source Hut here: https://sourcehut.org/ |
 
 ### Design Collaboration
 
@@ -869,7 +882,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
  |  服务|  推特|  定价|  描述
 |:--------|:--------|:--------|:------------|
 | [Crashplan](https://www.crashplan.com) | [@CrashPlanSMB](https://twitter.com/crashplansmb) | - | - |
-| Arq + S3/Glacier | - | - | - |
+ |  Arq + S3 /冰川|  -|  -|  -|
 
 ### Remote Workers
 
@@ -924,7 +937,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [KeePassXC](https://keepassxc.org/) | [@KeePassXC](https://twitter.com/KeePassXC)  |  免费|  KeePassX的进一步开发|
 | [Enpass](https://www.enpass.io) | [@EnpassApp](https://twitter.com/EnpassApp) | - | - |
 | [Dashlane](https://www.dashlane.com) | [@dashlane](https://twitter.com/dashlane) | - |
-| [Bitwarden](https://bitwarden.com/) | [@bitwarden](https://twitter.com/bitwarden)  |  免费供个人使用/自托管|  开源密码管理解决方案
+| [Bitwarden](https://bitwarden.com/) | [@bitwarden](https://twitter.com/bitwarden) | Free for personal use / Self-hosted | Open Source Password Management Solutions
 
 ### Sources of Clicks/Ad Platforms
 
@@ -951,7 +964,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [EasyCron](https://www.easycron.com) | - | - | - |
 | [IFTTT](https://ifttt.com) | [@IFTTT](https://twitter.com/ifttt) | - | - |
 | [Zapier](https://zapier.com) | [@Zapier](https://twitter.com/zapier)  |  $ 99 / mo-$ 15 / mo |  超级大国可以完成您的工作.  Zap是两个应用程序之间的链接（“触发”和“动作”）.  Zaps每隔几分钟就会在后台自动运行，以代表您移动和管理数据.  只有实时Zaps会超出您的限制-您可以根据需要选择任意数量的已暂停和未完成的Zaps.  例如，一个Zap可能是“每次收到新电子邮件时向我发送一条短信”.  |
-| [Integromat](https://www.integromat.com) | [@integromat](https://twitter.com/integromat)  |  免费进行&lt;1000次操作或100 MB /月，费用从$ 9 / mo起|  自动化您的任务并连接到几乎所有应用程序或服务.  非常强大的工具集，具有错误处理，迭代器，聚合器，路由器，函数，数据存储等功能.
+| [Integromat](https://www.integromat.com) | [@integromat](https://twitter.com/integromat) | Free for < 1000 operations or 100 MB/mo, paid from $9/mo | Automates your tasks & connects to almost any app or service. Very powerful toolset with features like error handling, iterators, aggregators, routers, functions, data stores, etc. |
 | [Dead Man's Snitch](https://deadmanssnitch.com) | [@DeadMansSnitch](https://twitter.com/deadmanssnitch)  |  免费-每月$ 49 |  监视计划的任务（例如cron）和服务心跳.  让您轻松知道何时以及为什么特定作业失败.  |
 
 ### Documentation

@@ -425,7 +425,6 @@
 - [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/papers/attacking_javascript_engines.html) -由 [https://github.com/qazbnm456/awesome-web-security/blob/master/phrack@saelo.net](https://github.com/qazbnm456/awesome-web-security/blob/master/phrack@saelo.net).
 - [Three roads lead to Rome](http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/) -由 [@holynop](https://twitter.com/holynop).
 - [Exploiting a V8 OOB write.](https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/) -由 [@halbecaf](https://twitter.com/halbecaf).
-- [FROM CRASH TO EXPLOIT: CVE-2015-6086 – OUT OF BOUND READ/ASLR BYPASS](http://payatu.com/from-crash-to-exploit/) -由 [payatu](http://payatu.com/).
 - [SSD Advisory – Chrome Turbofan Remote Code Execution](https://blogs.securiteam.com/index.php/archives/3379) -由 [SecuriTeam Secure Disclosure (SSD)](https://blogs.securiteam.com/).
 - [Look Mom, I don't use Shellcode - Browser Exploitation Case Study for Internet Explorer 11](https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf) -由 [@moritzj](http://twitter.com/moritzj).
 - [PUSHING WEBKIT'S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT](https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit) -由 [@wanderingglitch](https://twitter.com/wanderingglitch).
@@ -630,7 +629,7 @@
 <a name="tools-dns-rebinding"></a>
 ### DNS Rebinding
 
-- [DNS Rebind Toolkit](https://github.com/brannondorsey/dns-rebind-toolkit) -DNS Rebind Toolkit是一个前端JavaScript框架，用于通过以下方式针对脆弱的主机和服务开发DNS Rebinding攻击： [@brannondorsey](https://github.com/brannondorsey)
+- [DNS Rebind Toolkit](https://github.com/brannondorsey/dns-rebind-toolkit) -DNS Rebind Toolkit是一个前端JavaScript框架，用于开发针对局域网（LAN）上易受攻击的主机和服务的DNS Rebinding攻击，方法是： [@brannondorsey](https://github.com/brannondorsey)
 - [dref](https://github.com/mwrlabs/dref)  -DNS重新绑定开发框架.  Dref为DNS重新绑定做了繁重的工作， [@mwrlabs](https://github.com/mwrlabs)
 - [Singularity of Origin](https://github.com/nccgroup/singularity) -它包括必要的组件，以将攻击服务器DNS名称的IP地址重新绑定到目标计算机的IP地址，并提供攻击有效载荷以通过以下方式利用目标计算机上的易受攻击的软件 [@nccgroup](https://github.com/nccgroup)
 - [Whonow DNS Server](https://github.com/brannondorsey/whonow) -恶意DNS服务器，用于通过以下方式即时执行DNS重新绑定攻击 [@brannondorsey](https://github.com/brannondorsey)
@@ -733,7 +732,7 @@
 - [CSS Is So Overpowered It Can Deanonymize Facebook Users](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/) -由 [Ruslan Habalov](https://www.evonide.com/).
 - [Introduction to Web Application Security](https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018) -由 [@itsC0rg1](https://twitter.com/itsC0rg1), [@jmkeads](https://twitter.com/jmkeads) 和 [@matir](https://twitter.com/matir).
 - [Finding The Real Origin IPs Hiding Behind CloudFlare or TOR](https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/) -由 [Paul Dannewitz](https://www.secjuice.com/author/paul-dannewitz/).
-- [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob?fbclid=IwAR0BQ7RmYGzQzsL33IJ2LM7lmlH0OSuIuxKLebUUBi1D51R-9UOnHrW0DQg) -由 [@AntoGarand](https://twitter.com/AntoGarand).
+- [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob) -由 [@AntoGarand](https://twitter.com/AntoGarand).
 - [How I could have stolen your photos from Google - my first 3 bug bounty writeups](https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/) -由 [@gergoturcsanyi](https://twitter.com/gergoturcsanyi).
 - [An example why NAT is NOT security](https://0day.work/an-example-why-nat-is-not-security/) -由 [@0daywork](https://twitter.com/@0daywork).
 - [WEB APPLICATION PENETRATION TESTING NOTES](https://techvomit.net/web-application-penetration-testing-notes/) -由 [Jayson](https://techvomit.net/).

@@ -95,7 +95,7 @@
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) -虚拟家庭助理.
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) -专为开发人员设计的云计算平台.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) -Google的移动SDK，可使用Dart编写的单个代码库构建本机iOS和Android应用.
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) -开源家庭自动化，将本地控制和隐私放在首位.
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) -开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) -基于Google Cloud Platform构建的应用开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) -一组软件库和工具，可帮助您构建机器人应用程序.
@@ -146,7 +146,7 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) -倾向于系统编程和嵌入式，资源受限的软件的通用语言.
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) -强大的动态多范式语言，可促进迭代和交互式开发.
@@ -213,7 +213,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
 - [D3](https://github.com/wbkd/awesome-d3#readme) -用于产生动态，交互式数据可视化的库.
 - [Emails](https://github.com/jonathandion/awesome-emails#readme)
-- [jQuery](https://github.com/petk/awesome-jquery#readme) -易于使用的JavaScript库进行DOM操作.
+- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
@@ -242,7 +242,7 @@
 - [Preact](https://github.com/ooade/awesome-preact#readme) -应用框架.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) -服务器渲染的React应用的框架.
-- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
+- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) -用于构建Web应用程序的微型JavaScript库.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) -JavaScript的HTML模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) -基于客户端JavaScript，可重用API和预建标记的现代Web开发体系结构.
 - [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) -以WordPress为后端，以Gatsby为前端的Web开发技术堆栈.
@@ -255,6 +255,7 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) -确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) -浏览器中具有JavaScript，CSS，SVG等的动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) -受Elm和React启发的Rust框架，用于使用WebAssembly创建多线程前端Web应用程序.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，可以更快，更轻松地进行Web开发.
 
 ## Back-End Development
 
@@ -478,7 +479,7 @@
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) -Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) -Django CMS专注于灵活性和用户体验.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) -基于PHP的轻量级CMS.
-- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) -基于PHP的可扩展CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) -内容优先的CMS.
 
 ## Hardware
@@ -582,7 +583,7 @@
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
 - [Social Media Share Links](https://github.com/vinkla/shareable-links#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
-- [Unicode](https://github.com/Wisdom/Awesome-Unicode#readme) -Unicode标准，怪癖，软件包和资源.
+- [Unicode](https://github.com/Wisdom/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)

@@ -15,6 +15,7 @@
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -最好的鲜为人知的eslint插件的集合，可与您的主要配置一起使用.
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -可共享的配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) -为您的React / Vue / TypeScript项目进行渐进式ESLint配置.
+- [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) -一个配置来统治所有人！
 - [Canonical](https://github.com/gajus/eslint-config-canonical) -可共享的配置 [Canonical style guide](https://github.com/gajus/canonical).
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) -包含用于ESLint团队维护的项目的ESLint配置.
 - [ES](https://github.com/thenativeweb/eslint-config-es) -可共享的配置，用于非常严格的代码.
@@ -42,11 +43,12 @@
 - [Ember](https://github.com/netguru/eslint-plugin-ember) -灰烬的绒毛规则.
 - [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) -根据模式检查GraphQL查询字符串.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) -棉纱规则.
-- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -为JSDoc注释添加规则.
+- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -JSDoc注释的规则（包括@example中的JavaScript）.
 - [Lodash](https://github.com/wix/eslint-plugin-lodash) -Lodash特定的起毛规则.
 - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) -Lodash / fp特定的起毛规则.
 - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -Lodash模板/下划线模板的插件.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) -流星特定的起毛规则.
+- [Microtemplates](https://github.com/platinumazure/eslint-plugin-microtemplates) （用于Lodash和Underscore.js）
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) -Mongodb本机Node.js驱动程序添加规则.
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) -Ramda特定的起毛规则.
 - [React](https://github.com/yannickcr/eslint-plugin-react) -整理React和JSX的规则.
@@ -59,7 +61,7 @@
 ### Misc
 
 - [Babel](https://github.com/babel/eslint-plugin-babel) -添加了内置规则的替代，以包括Babel功能.
-- [Compat](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatability of APIs used ([caniuse](http://caniuse.com/#search=fetch) 作为ESLint插件）.
+- [Compat](https://github.com/amilajack/eslint-plugin-compat) -使用的API的Lint浏览器兼容性（[caniuse](http://caniuse.com/#search=fetch) 作为ESLint插件）.
 - [Coffee](https://github.com/aminland/eslint-plugin-coffee) -使用来自Coffeelint库的可选掉毛规则，启用掉毛CoffeeScript文件.
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) -对CSS模块使用未定义或未使用的规则.
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) -将功能或模块标记为已弃用，并在使用时获得棉绒消息.
@@ -74,13 +76,14 @@
 - [JSON](https://github.com/azeemba/eslint-plugin-json) -整理您的JSON文件.
 - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format)  -整理，格式化和自动修复JSON文件.  对您的“ package.json”进行排序.
 - [Markdown](https://github.com/eslint/eslint-plugin-markdown) -在Markdown中整理JavaScript.
+- [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin)  -其他  规则.
 - [Node](https://github.com/mysticatea/eslint-plugin-node) -针对Node.js的其他ESLint规则.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) -检查文件顶部并修复文件的eslint规则！
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) -优化正则表达式文字.
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) -检测错误和可疑模式的规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) -ESLint的SQL插入规则.
 - [TypeLint](https://github.com/yarax/typelint) -根据现有模式（Swagger，Redux）引入类型，并减少对对象属性的访问，以防止出现“未定义”错误.
-- [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) -各种很棒的ESLint规则.
+- [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) -有关ESLint指令注释的最佳做法（`/ * eslint-disable * /`等）.
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) -用于整理ESLint插件的ESLint插件.
 
@@ -95,17 +98,21 @@
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) -要求使用`new`抛出错误.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -ESLint的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -是2019年，您仍然使用循环吗？
-
+- [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询的语法内容.
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) -兑现承诺时的最佳做法.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) -节点安全性的ESLint规则.
+- [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) -为ESLint`sort-keys`规则添加了修复程序.
 - [this](https://github.com/matijs/eslint-plugin-this) -写纯函数，不允许`this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) -eslint插件，可避免在模块顶层产生副作用.
-- [XSS](https://github.com/Rantanen/eslint-plugin-xss) -尝试在代码库中的XSS问题最终投入生产之前进行检测.
+-XSS
+  - [DOM APIs](https://github.com/mozilla/eslint-plugin-no-unsanitized) -检查`innerHTML`，`outerHTML`等.
+  - [jQuery, etc.](https://github.com/Rantanen/eslint-plugin-xss) -尝试在代码库中的XSS问题最终投入生产之前进行检测.
 
 ### Style
 
+- [editorconfig](https://github.com/platinumazure/eslint-plugin-editorconfig) -来自的规则 [`.editorconfig`](https://editorconfig.org/)
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) -确保JavaScript文件的文件名一致.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) -易于自动修复的导入排序.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) -针对ESLint的开关案例特定的插入规则.
@@ -113,10 +120,19 @@
 ### Testing Tools
 
 - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) -整理AVA的规则.
-- [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) -柴的整理规则.
+- Chai
+  - [expect practices](https://github.com/turbo87/eslint-plugin-chai-expect)
+  - [with unused expressions](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
+  - [permitted keywords](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
+  - [with chai-as-promised plugin](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
+  - [globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) -茉莉花的整理规则.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) -嘲笑的规则.
-- [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) -抹茶规则.
+- Mocha
+  - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) -抹茶规则.
+  - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
+- [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) -QUnit的Linting规则.
+- [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) -Testcafe的整理规则.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) -赛普拉斯的绒毛规则.
 
 ### Formatters
