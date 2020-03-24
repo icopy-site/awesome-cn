@@ -32,7 +32,7 @@ Projects with over 500 stargazers are in bold.
 * [Finagle ★ 42 ⧗ 71](https://github.com/finagle/finagle-postgres) -Finagle的PostgreSQL协议支持
 * [laserdisc ★ 37](https://github.com/laserdisc-io/laserdisc) -无未来，fs2本机纯FP Redis客户端
 * [longevity ★ 78 ⧗ 21](https://github.com/longevityframework/longevity) -具有域驱动设计方向的Scala和NoSQL持久性框架
-* [lucene4s ★ 3 ⧗ 56](https://github.com/outr/lucene4s) - Light-weight convenience wrapper around Lucene to simplify complex tasks and add Scala sugar.
+* [lucene4s ★ 3 ⧗ 56](https://github.com/outr/lucene4s) -Lucene周围的轻巧便利包装，可简化复杂的任务并添加Scala糖.
 * [MapperDao ★ 12 ⧗ 36](https://github.com/kostaskougios/mapperdao) -适用于oracle，mysql，mssql和postgresql的ORM库
 * [Memcontinuationed ★ 51 ⧗ 245](https://github.com/Atry/memcontinuationed) -Scala的Memcached客户端.
 * [Morpheus ★ 104 ⧗ 0](https://github.com/outworkers/morpheus) -适用于MySQL / Postgres的反应型安全Scala驱动程序.
@@ -188,7 +188,7 @@ Projects with over 500 stargazers are in bold.
 * [scala-jsonapi ★ 95 ⧗ 240](https://github.com/scala-jsonapi/scala-jsonapi)  -支持库，用于将JSON API规范与Scala和Spray JSON集成，播放！  JSON或Circe.
 * [scalajack ★ 81 ⧗ 35](https://github.com/gzoller/ScalaJack)  -带有可选MongoDB支持的快速n轻松JSON序列化.  在引擎盖下使用杰克逊.
 * **[spray-json ★ 606 ⧗ 2](https://github.com/spray/spray-json)**-Scala中的轻量级，干净且高效的JSON实现.
-* [sbt-json](https://github.com/battermann/sbt-json) -生成Scala案例类的sbt插件，可轻松，静态键入和隐式访问JSON文档
+* [sbt-json](https://github.com/battermann/sbt-json) - sbt plugin that generates Scala case classes for easy, statically typed and implicit access of JSON documents
 * [uJson](http://www.lihaoyi.com/upickle/#uJson) -用于Scala的快速，灵活和直观的JSON
 
 ## YAML
@@ -271,7 +271,7 @@ Projects with over 500 stargazers are in bold.
 * [Schemer](https://github.com/indix/schemer)  -CSV，TSV，JSON，AVRO和Parquet架构的架构注册表.  支持模式推断和GraphQL API.
 * [Scio](https://github.com/spotify/scio) -用于的Scala API [Apache Beam](https://beam.apache.org/) 和 [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - 没有
 * [Scrunch](http://crunch.apache.org/scrunch.html) -用于的Scala包装器 [Apache Crunch](http://crunch.apache.org/index.html) 它提供了用于编写，测试和运行MapReduce管道的框架.
-* [Spark](http://spark.apache.org/)  闪电般的快速集群计算-迭代算法（内存缓存）的速度比Hadoop快100倍，单遍MapReduce作业的速度比Hadoop快10倍.  与支持YARN的Hadoop群集兼容，它可以在Mesos上运行，也可以独立运行.
+* [Spark](http://spark.apache.org/)  -闪电般的快速集群计算-迭代算法（内存缓存）的速度比Hadoop快100倍，单遍MapReduce作业的速度比Hadoop快10倍.  与支持YARN的Hadoop群集兼容，它可以在Mesos上运行，也可以独立运行.
 * [spark-deployer ★ 69 ⧗ 29](https://github.com/KKBOX/spark-deployer) -一个sbt插件，可帮助部署Apache Spark独立集群并在AWS EC2等云系统上提交作业.
 * [Sparkta ★ 320 ⧗ 1](https://github.com/Stratio/sparkta) -基于Spark流的实时聚合.
 * [Sparkplug ★ 4 ⧗ 1](https://github.com/indix/sparkplug) -Spark包使用基于SQL的规则来“塞住”数据中的漏洞
@@ -393,6 +393,7 @@ Projects with over 500 stargazers are in bold.
 * [aws4s](https://github.com/aws4s/aws4s) -用于Scala的非阻塞AWS开发工具包公开了构建在http4s，fs2和cats之上的强类型API.
 * [BootZooka ★ 331 ⧗ 5](https://github.com/softwaremill/bootzooka) -一个简单的项目，可以快速开始使用AngularJS和Akka HTTP开发Web应用程序，而无需编写登录名，用户注册等.
 * **[Eclair ★ 804](https://github.com/ACINQ/eclair) **-用Scala编写的ACINQ的Lightning Network实现.  闪电网络是建立在比特币之上的第二层协议，旨在解决可扩展性，隐私，确认时间和许多其他问题.
+* [Easy Config ★ 14 ⧗ 19](https://github.com/kovszilard/easy-config)  -Easy Config使Scala应用程序配置非常容易.  它从环境或命令行参数读取配置.
 * [Fansi ★ 96 ⧗ 15](https://github.com/lihaoyi/fansi) -用于处理Fancy Ansi彩色字符串的Scala / Scala.js库
 * [GoogleApiScala ★ 5 ⧗ 3](https://github.com/EckerdCollege/google-api-scala) -一个简单的Scala库，可控制Google云端硬盘，日历和Admin SDK.
 * [Google4s ★ 7 ⧗ 3](https://github.com/toknapp/google4s/) -精益的Scala Google Cloud Services功能库（KMS，Cloud Storage，PubSub）
@@ -415,7 +416,7 @@ Projects with over 500 stargazers are in bold.
 * [service-chassis](https://github.com/allawala/service-chassis) -可快速启动您的应用程序和服务的scala机箱.
 * [settler ★ 4 ⧗ 171](https://github.com/lucastorri/settler) -在Scala中生成无样板的键入设置.
 * [Simple Scala Config ★ 43 ⧗ 5](https://github.com/ElderResearch/ssc) -薄薄，惯用的Scala包装器 [Typesafe Config](https://github.com/typesafehub/config) 使用自定义的“ Reader [T]”支持.
-* [YahooFinanceScala ★ 15 ⧗ 2](https://github.com/openquant/YahooFinanceScala) -使用Akka http从Yahoo Finance获取股票数据.
+* [YahooFinanceScala ★ 15 ⧗ 2](https://github.com/openquant/YahooFinanceScala) - Get stock data from Yahoo Finance using Akka http.
 
 ## Android
 
@@ -504,7 +505,7 @@ Projects with over 500 stargazers are in bold.
 * **[sbt-revolver ★ 519 ⧗ 0](https://github.com/spray/sbt-revolver)**-sbt的分叉和停止过程.
 * **[sbt-release ★ 543 ⧗ 70](https://github.com/sbt/sbt-release)**-sbt的发布插件 
 * [sbt-robovm ★ 107 ⧗ 17](https://github.com/roboscala/sbt-robovm) -Scala中用于iOS开发的sbt插件
-* [sbt-scalafmt ★ 37 ⧗ 6](https://github.com/scalameta/sbt-scalafmt) - sbt plugin for Scalafmt [https://scalameta.org/scalafmt/](https://scalameta.org/scalafmt/)
+* [sbt-scalafmt ★ 37 ⧗ 6](https://github.com/scalameta/sbt-scalafmt) -Scalafmt的sbt插件 [https://scalameta.org/scalafmt/](https://scalameta.org/scalafmt/)
 * [sbt-scala-js-map ★ 12 ⧗ 2](https://github.com/ThoughtWorksInc/sbt-scala-js-map) -一个sbt插件，可为Github上托管的Scala.js项目配置源映射
 * [sbt-scoverage ★ 470 ⧗ 68](https://github.com/scoverage/sbt-scoverage) -用于SBT的插件，集成了覆盖代码覆盖库.
 * [sbt-site ★ 159 ⧗ 122](https://github.com/sbt/sbt-site) -SBT网站生成 [https://www.scala-sbt.org/sbt-site/](https://www.scala-sbt.org/sbt-site/)
@@ -650,7 +651,7 @@ Projects with over 500 stargazers are in bold.
 
 * **[Geotrellis ★ 553 ⧗ 0](https://github.com/locationtech/geotrellis)**-用于GIS处理的可扩展栅格工具包
 * [osm4scala ★ 8 ⧗ 40](https://github.com/angelcervera/osm4scala) -OpenStreetMap PBF2文件解析器
-* [rtree2d ★ 27 ⧗ 1](https://github.com/Sizmek/rtree2d) -RTree2D是带有STR（排序-递归-递归）打包的2D不变R树，用于在平面和球面上进行超快速的最近和相交查询
+* [rtree2d ★ 27 ⧗ 1](https://github.com/Sizmek/rtree2d) -RTree2D是带有STR（排序-递归-递归）打包的2D不变R树，可在平面和球面上进行超快速最近和相交查询
 * [sfcurve ★ 20 ⧗ 1](https://github.com/locationtech/sfcurve) -Scala中的空间填充曲线，用于地理空间索引和查询
 
 ## Devops

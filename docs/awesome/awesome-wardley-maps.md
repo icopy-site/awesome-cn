@@ -61,7 +61,7 @@
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  -应对推出新型支付解决方案的挑战.  2019年6月14日.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  -通过沃德利地图了解加密货币生态系统.  2019年6月2日.
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.
-- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种策略最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
+- [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种方法最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源；  并跨多个NSO启用大数据协作.  下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019年3月12日.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所开创的地图形式相结合.  2019年1月2日.
 - [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  -考虑用户需求和用户研究的三种方式以及Wardley地图如何帮助我们考虑在哪里进行用户研究.  2018年11月2日.
@@ -148,6 +148,8 @@
     - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
   -塞尔维亚
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
+  -西班牙
+    - [Barcelona](https://www.meetup.com/Organizational-Change-BCN-AUS/)
   -英国
     - [London](https://www.meetup.com/Wardley-Maps-London/)
 - 北美

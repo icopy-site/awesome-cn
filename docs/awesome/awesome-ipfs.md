@@ -8,13 +8,13 @@
 
 &gt;有用的资源 [IPFS](https://ipfs.io) 并在其之上构建事物
 
- _此列表适用于项目，工具或几乎所有与IPFS相关的事物，它们都很棒**.  这是针对已经非常出色的产品的-如果您计划使用IPFS做一些有趣的事情，则应该构建它，然后在此处链接它.  如果您有一个与IPFS有关的很棒的主意，可以在这里问一下它的好地方 [ipfs/apps](https://github.com/ipfs/apps) 要么 [ipfs/notes](https://github.com/ipfs/notes)._
+ _此列表适用于项目，工具或几乎所有与IPFS相关的事物，它们都很棒**.  这是针对已经非常出色的产品的-如果您计划使用IPFS做一些有趣的事情，则应该构建它，然后在此处链接它.  如果您有一个与IPFS有关的很棒的主意，可以在这里问一下它的好地方 [our IPFS Discuss forums](https://discuss.ipfs.io).
 
 
 
 ## Contribute to this list!
 
-欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，该项目才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
+欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
 
  自述文件和网站是自动生成的.  为了添加一个元素到这个列表中，您需要修改`/ data`中的文件，然后运行`make build`在发布您的拉取请求之前.  读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
 

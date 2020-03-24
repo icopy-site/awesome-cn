@@ -55,6 +55,10 @@
 - [Came for the colors, stayed for the sane scripting!](https://mvolkmann.github.io/fish-article/) （通过 [@mvolkmann](https://github.com/mvolkmann))
 - [Why I Switched from ZSH to FISH](https://dev.to/joshmedeski/why-i-switched-from-zsh-to-fish-2j17) （通过 [@joshmedeski](https://github.com/joshmedeski)) 
 
+### Docker
+
+- [dideler/fish-shell](https://hub.docker.com/r/dideler/fish-shell) -将Fish安装为默认外壳的Ubuntu LTS
+
 ## Stay in the loop
 
 - [r/fishshell](https://www.reddit.com/r/fishshell)

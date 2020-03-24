@@ -112,11 +112,8 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 
 ## AutoHotkey
 
-### [AutoHotkey](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-autohotkey)
- &gt;语言支持.  语法突出显示，注释和摘要
-
-### [AutoHotkey++](https://marketplace.visualstudio.com/items?itemName=vinnyjames.vscode-autohotkey-vj)
-&gt;转到定义，签名助手和代码格式化程序
+### [AutoHotkey Plus](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
+&gt;语法突出显示，摘要，转到定义，签名帮助器和代码格式化程序
 
 ### [AutoHotkey Manager](https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager)
  &gt;开发ahk脚本所需的全部.  与AHK可执行文件交互的扩展
@@ -386,7 +383,7 @@ Framework-specific:
 
 ## [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate)
 
-&gt;能够复制文件和目录.
+> Ability to duplicate files and directories.
 
 ## [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
@@ -396,7 +393,7 @@ Framework-specific:
 
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
-&gt;在ES7中提供Javascript和React / Redux片段
+> Provides Javascript and React/Redux snippets in ES7
 
 ![es7-reactreduxgraphqlreact-native-snippets](https://user-images.githubusercontent.com/37667437/46757404-aa365800-cce7-11e8-80ca-9207b7a68dea.png)
 
@@ -638,7 +635,7 @@ Framework-specific:
 
 ## [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
-> Beautify code in place for VS Code
+&gt;美化VS Code的代码
 
 ### [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
 
@@ -695,7 +692,7 @@ Framework-specific:
 ![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
 
 ## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
-&gt;在您的代码中快速翻译所选文本
+> Quickly translate selected text right in your code
 
 ![Vscode Google Translate](https://raw.githubusercontent.com/funkyremi/vscode-google-translate/master/demo.gif)
 
@@ -853,7 +850,7 @@ Framework-specific:
 
 ## [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
 
- &gt;同时突出显示具有不同颜色的多个文本样式.  可以使用编辑器的搜索功能来突出显示单个文本模式，但是不能同时突出显示多个模式，这是该扩展程序很方便的地方.
+ &gt;同时突出显示具有不同颜色的多个文本样式.  可以使用编辑器的搜索功能来突出显示单个文本模式，但是不能同时突出显示多个模式，因此可以使用此扩展名.
 
 ![Text Marker (Highlighter)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
 
@@ -885,7 +882,7 @@ Framework-specific:
 
 ### [2077 theme by Endormi](https://vscodethemes.com/e/Endormi.2077-theme)
 
-赛博朋克2077灵感主题
+Cyberpunk 2077 inspired theme
 
 <a href="https://vscodethemes.com/e/Endormi.2077-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/endormi.2077-theme.png" width="600" />
@@ -925,7 +922,7 @@ VSCode主题的灵感来自遥远的星系...
 
 ### [Ayu by teabyii](https://vscodethemes.com/e/teabyii.ayu)
 
-A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
+一个简单的主题具有鲜艳的色彩，并提供三种版本-黑暗，明亮和海市rage楼，可为您提供一整天的舒适工作.
 
 <a href="https://vscodethemes.com/e/teabyii.ayu">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/teabyii.ayu.png" width="600" />
@@ -1077,7 +1074,7 @@ Monokai启发的主题 [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.
 
 ### [Relaxed Theme by Michael Kühnel](https://vscodethemes.com/e/mischah.relaxed-theme)
 
-A relaxed theme to take a more relaxed view of things.
+一个轻松的主题，可以更轻松地查看事物.
 
 <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/relaxed-theme.png" width="600" />
@@ -1187,7 +1184,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/viatsko/awesome-vscode/blob/master/CONTRIBUTING.md) first.
+ 欢迎捐款！  阅读 [contribution guidelines](https://github.com/viatsko/awesome-vscode/blob/master/CONTRIBUTING.md) 第一.
 
 ## License
 

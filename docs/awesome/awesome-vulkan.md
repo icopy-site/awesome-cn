@@ -152,6 +152,7 @@ drm/kms.
 *  [RadX](https://github.com/world8th/RadX) -在GPU上进行基数排序的专用示例（特别是在NVIDIA RTX上）.
 *  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) -使用Vulkan和NVIDIA的RTX扩展实现Peter Shirley的《在一个周末进行光线追踪》一书.
 *  [Gears VK](https://github.com/jeffboody/gearsvk)  -Gears VK是著名的“齿轮”演示程序到Vulkan / Android / Linux的重大修改端口.  [麻省理工学院]
+*  [Hello Triangle](https://github.com/helixd-2k18/VK_KHR_ray_tracing) ，基于`VK_KHR_ray_tracing`扩展名.  [麻省理工学院]
 
 ## Libraries
 *  [Acid](https://github.com/Equilibrium-Games/Acid)  -高速C ++ 17 Vulkan游戏引擎.  [麻省理工学院]
@@ -172,7 +173,7 @@ drm/kms.
 *  [AMD's Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) -Vulkan的跨平台框架. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
     * [Introductory Vulkan sample](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan) .  [麻省理工学院]
 *  [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)  -易于集成AMD的Vulkan内存分配库.  [麻省理工学院]
-*  [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) - light-weight middleware layer for the Vulkan API targeting Professional Workstation ISVs. [MIT]
+*  [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ)  -面向专业工作站ISV的Vulkan API的轻量级中间件层.  [麻省理工学院]
 *  [Google's vulkan-cpp-library](https://github.com/google/vulkan-cpp-library)  -使用C ++ 11的Vulkan抽象库，用于内存，资源管理，类型和线程安全以及系统独立性.  [Apache]
 *  [Vookoo](https://github.com/andy-thomason/Vookoo)  -Vookoo是一组无依赖实用程序，可帮助构建和更新Vulkan图形数据结构.  [麻省理工学院]
 *  [vpp](https://github.com/nyorain/vpp)  -现代C ++ Vulkan抽象关注于性能和简单的界面.  [麻省理工学院]
@@ -242,7 +243,7 @@ drm/kms.
   * [Book's Examples](https://github.com/PacktPublishing/Learning-Vulkan)
 * [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)-作者：Pawel Lapinski **-探索各种图形编程和GPU计算方法，以充分利用Vulkan API.
   * [Book's Examples](https://github.com/PacktPublishing/Vulkan-Cookbook)
-* [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) -格雷厄姆·塞勒斯（Graham Sellers）和约翰·凯塞尼奇（John Kessenich）撰写-为许多领域引入了强大的3D开发技术.
+* [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields.
 
 ## Khronos
 *规格

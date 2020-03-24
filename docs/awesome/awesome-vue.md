@@ -69,12 +69,13 @@
 - [VueJS Israel 🇮🇱 - Facebook Page](https://www.facebook.com/officalVuejsIsrael/)
 - [VueJS Finland - Meetup](https://www.meetup.com/vuejs-finland/)
 - [VueJS Finland - Facebook Page](https://www.facebook.com/vuejsfinland/)
--[让我们谈谈Vue.js-电报小组[西班牙语]]（https://t.me/vuejsEs）
+-[让我们谈谈Vue.js-电报小组[西班牙文]]（https://t.me/vuejsEs）
 - [VueJS Indonesia - Facebook Group](https://www.facebook.com/groups/1675298779418239/)
 - [VueBLR - Meetup](https://www.meetup.com/vue-bangalore/)
 - [VueBLR - WhatsApp Group](http://bit.ly/vueblr-whatsapp)
 - [VueBLR - Facebook Group](https://www.facebook.com/groups/vue.blr/)
 - [VueJS USA - Meetups](https://events.vuejs.org/meetups/#united-states)
+- [VueJS CZ/SK - Discord group](https://discord.gg/mDr2z8V)
 
 ### Conferences
 
@@ -258,7 +259,7 @@
 - [Build a Library web application with Vue JS, Node JS, and SQL or MongoDB using ScaffoldHub](https://www.youtube.com/watch?v=FdC4Mjljd3k) 费利佩·利马（Felipe Lima） [@scaffoldhub_io](https://twitter.com/scaffoldhub_io)
 - [Building a Realtime Location tracking app with NativeScript + Vue](https://medium.com/saibbyweb/building-a-real-time-location-tracking-app-with-nativescript-vue-under-350-lines-of-code-8b51ad40d657) 通过Saibbyweb
 - [Vue: Getting Started, by John Papa](https://www.pluralsight.com/courses/vue-getting-started) 上 [Pluralsight](https://www.pluralsight.com)
-- [Building a Simple Pre-Rendered Web App Using Vue + Nuxt](https://mtlynch.io/simple-vue-pre-rendered/) by Michael Lynch
+- [Building a Simple Pre-Rendered Web App Using Vue + Nuxt](https://mtlynch.io/simple-vue-pre-rendered/) 迈克尔·林奇（Michael Lynch）
 - [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp)
 - [Frontend and Fullstack VENM-stack coding tutorials by RabbitWerks JavaScript](https://www.youtube.com/c/rabbitwerksjavascript)
 - [Nordschool Vue Tutorials](https://nordschool.com/tag/vue) 通过 [Nordschool](https://nordschool.com/)
@@ -270,7 +271,8 @@
 - [Building a HackerNews clone in Vue.js on AWS](https://tutorialedge.net/projects/hacker-news-clone-vuejs/)
 -[Vue.js：使用Firebase，Vuex和路由器[视频]构建全栈应用程序]（https://www.packtpub.com/programming/vue-js-build-a-full-stack-app-with-克里斯·迪克森（Chris Dixon）于2019年10月发布了firebase-vuex-and-router-video？utm_source = Vuejs.org＆utm_medium = referral＆utm_campaign = OutreachV15745）
 -[Vue.js 2学院：逐步学习Vue [视频]]（https://www.packtpub.com/web-development/vue-js-2-academy-learn-vue-step-by-step-视频？克里斯·迪克森（Chris Dixon）（2019年10月）的视频？utm_source = Vuejs.org＆utm_medium = referral＆utm_campaign = OutreachV15754）
--[Blazing-Fast Vue和GraphQL与Gridsome [视频]]（https://www.packtpub.com/in/web-development/blazing-fast-vue-and-graphql-with-gridsome-video?utm_source=vue .js.org＆utm_medium = refferal＆utm_campaign = OutreachV15688），Packt的Reed Barger
+- [Blazing-Fast Vue and GraphQL with Gridsome [Video]](https://www.packtpub.com/in/web-development/blazing-fast-vue-and-graphql-with-gridsome-video?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachV15688) by Reed Barger, Packt
+- [Build Your First Vue.js App in About 30 Minutes](https://raddevon.com/articles/build-your-first-vue-js-app/) 通过Rad Devon（视频，2020年2月）
 
 ### Examples
 
@@ -284,7 +286,7 @@
 - [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) 通过 [mul14](https://github.com/mul14)
 - [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) 通过 [haydenbbickerton](https://github.com/haydenbbickerton)
 - [Vue Cookbook (Vue1.0 + express)](https://github.com/yjj5855/node-vue-server-webpack) 通过 [@yjj5855](https://github.com/yjj5855)：演示服务的第一个屏幕渲染
-- [Strong Together](https://github.com/websemantics/strong-together) -一个启动项目，该项目基于Browserify和Semantic-ui，可以独立或为Laravel / Laravel Spark项目构建单页Vue.js应用程序，方法如下： [WebSemantics](https://github.com/websemantics)
+- [Strong Together](https://github.com/websemantics/strong-together) -一个启动器项目，用于基于浏览器和Semantic-ui构建独立的单页Vue.js应用程序或Laravel / Laravel Spark项目. [WebSemantics](https://github.com/websemantics)
 - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest)
 - [**vue-shopping**](https://github.com/andylei18/vue-shopping) 通过 [andylei18](https://github.com/andylei18)
 - [**Vue-cnodejs,060**](https://github.com/shinygang/Vue-cnodejs) 通过 [@shinygang](https://github.com/shinygang)
@@ -308,12 +310,12 @@
 - [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) 通过 [Metric Loop](https://metricloop.com/blog)
 - [vue-memo](https://github.com/akifo/vue-memo) 一个简单的演示版本，使用Vue.js（&gt; 2.x.），vue-router（&gt; 2.x.），vuex（&gt; 2.x.），vuex-router-sync @ next（&gt; 3.x.）和Firebase（&gt; 3.6.x）通过 [akifo](https://github.com/akifo)
 - [Resume Vue](https://github.com/ChangJoo-Park/Resume-Vue) 基于Vue 2.0的基于JSON的简历 [ChangJoo Park](https://github.com/ChangJoo-Park/)
-- [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) 与开发 [**Phoenix Framework**](http://phoenixframework.org)，**查看**和**查看路由器**（[_**demo**_](https://phoenix-vue-auth.herokuapp.com)）由 [@Angarsk8](https://github.com/Angarsk8)
+- [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) 与开发 [**Phoenix Framework**](http://phoenixframework.org)，**查看**和**查看路由器**（[_**demo**_](https://phoenix-vue-auth.herokuapp.com)) by [@Angarsk8](https://github.com/Angarsk8)
 - [Sample CRUD app with router in Vue 2.0](https://github.com/shershen08/vue.js-v2-crud-application) 通过 [@shershen08](https://github.com/shershen08)
 - [ASP.NET Core Vue.js server-side rendering sample](https://github.com/mgyongyosi/VuejsSSRSample) 通过 [@mgyongyosi](https://github.com/mgyongyosi)
 - [**vuefire-quickstart**](https://github.com/sejr/vuefire-quickstart) -通过Webpack和eslint记录的Firebase集成，作者： [@sejr](https://github.com/sejr).
 - [**hello-vue-django** Vue.js and Django integration starter project with hot code reload](https://github.com/rokups/hello-vue-django)
-- [**Real Time Social News App**](https://github.com/Angarsk8/loopa-news) 与开发 [**Phoenix**](http://phoenixframework.org)，** Vue **，** Vue路由器**和** Vuex **（[_**demo**_](https://loopa-news.herokuapp.com)）由 [@Angarsk8](https://github.com/Angarsk8)
+- [**Real Time Social News App**](https://github.com/Angarsk8/loopa-news) 与开发 [**Phoenix**](http://phoenixframework.org)，** Vue **，** Vue路由器**和** Vuex **（[_**demo**_](https://loopa-news.herokuapp.com)) by [@Angarsk8](https://github.com/Angarsk8)
 - [**vue-calculator**](https://github.com/CaiYiLiang/simply-calculator-vuejs)  一个使用Vue 2.0构建的简单计算器，vue-cli（webpack-simple）.  通过 [CaiYiLiang](https://github.com/CaiYiLiang)
 - [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs)  一个简单的Wikipedia-viewer页面，由vue2.x，vue-router，vue-cli（webpack-simple）和ajax（jsonp）构建.  通过 [CaiYiLiang](https://github.com/CaiYiLiang)
 - [**vue2.x-douban**](https://github.com/superman66/vue2.x-douban) A simple of douban movie build with vue2.x,vue-router and axios(豆瓣电影). by [Superman](https://github.com/superman66)
@@ -324,7 +326,7 @@
 - [**vue-music-qq**](https://github.com/pluto1114/vue-music-qq)  qq音乐项目基于vue-cli.  页面简单流畅
 - [NavigationTab with Vue-Redux and Plain VueJSX](https://github.com/ShuvoHabib/Vue-JSX-and-Vue-Redux-Navigation-Tab)  导航选项卡同时具有普通的Vue JSX和Vue + Redux绑定
 - [Veggie Map](https://veggiemap.herokuapp.com/) 使用Vuejs + Vue路由器+ Leaflet和Firebase的交互式演示
-- [vuejs-d3](https://github.com/johnnynotsolucky/samples/tree/master/vuejs-d3) 示例如何使用d3进行可视化.
+- [vuejs-d3](https://github.com/johnnynotsolucky/samples/tree/master/vuejs-d3) examples how to use d3 for visualisations.
 - [vue-twitter-client](https://github.com/YuheiNakasaka/vue-twitter-client) 使用Vue 2.X，Vuex，electron-vue和Electron构建的Twitter客户端应用程序
 - [**Douban**](https://github.com/jeneser/douban)  很棒的douban示例，使用** Vue2.x ** + ** Vuex ** + ** Vue-router ** + ** vue-resource **创建.  通过 [jeneser](https://github.com/jeneser)
 - [Storyblok vuejs-boilerplate](https://github.com/storyblok/vuejs-boilerplate) -集成Storyblok的组件系统，允许创建可编辑的网站.
@@ -355,7 +357,7 @@
 - [vuefire-storage](https://github.com/aofdev/vuefire-storage) 带有Firebase的Vuefire Vue2-存储
 - [Vue2-PWA-Blog](https://github.com/deepak-singh/vue-blog-pwa) 通过@ deepak-singh
 - [vue-firebase-auth-vuex](https://github.com/aofdev/vue-firebase-auth-vuex) 带有Vuex的Vue2 Firebase身份验证并支持渐进式Web应用程序
-- [vue-chart-stater-kit](https://github.com/joshua1988/vue-chart-starter-kit) Quick starter using Vue Router, Vue Chart, Element-UI
+- [vue-chart-stater-kit](https://github.com/joshua1988/vue-chart-starter-kit) 使用Vue Router，Vue Chart，Element-UI的快速入门
 - [vue2.0-demos](https://github.com/qianyinghuanmie/vue2.0-demos) 使用mint-ui，Element-UI，并进行一些演示（选择城市等）
 - [conway](https://github.com/edge/conway) Conway在Vue中的生活游戏.
 - [vuex-feature-scoped-structure](https://github.com/igeligel/vuex-feature-scoped-structure) 功能范围vuex应用程序结构的示例应用程序
@@ -370,7 +372,7 @@
 - [Skeleton Vue+TypeScript](https://github.com/SierraSoftworks/vue-template) -TypeScript，VueJS，ElementUI，Vue路由器，Vuex，材质图标，BrowserSync，Dockerfile
 - [**PENV Starter**](https://github.com/jesalg/penv-starter) 通过 [@jesalg](https://twitter.com/jesalg) -有关如何结合使用VueJS，Express和PostgreSQL的基本示例.
 - [vue-relay-examples](https://github.com/ntkme/vue-relay-examples) -使用vue-relay的示例应用程序的集合.
-- [laravel-vue-boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate) -一个使用Vue.js 2.5，Bootstrap 4，TypeScript，Sass，Pug和Jest的用户CRUD的Laravel 5.5 SPA样板.
+- [laravel-vue-boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate) -使用Vue.js 2.5，Bootstrap 4，TypeScript，Sass，Pug和Jest的用户CRUD的Laravel 5.5 SPA样板.
 - [Vue Design System](https://github.com/viljamis/vue-design-system) -使用Vue.js构建UI设计系统的开源样板.
 - [Vue Bulma Demo](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) -一个简单的演示网站，可一起检查Bulma / Vue JS和Express.
 - [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more](https://github.com/kadro/vue-boilerplate)
@@ -386,7 +388,7 @@
 - [Nuxt + Apollo + Element](https://github.com/kavalcante/nuxt-element-apollo) 一个带有Nuxt，Element（自定义主题）和Vue Apollo的Vue.js SSR样板.
 - [**vue-daily-zhihu**](https://github.com/walleeeee/daily-zhihu) 通过Vue 2.0和vue-router和vuex进行的简单演示构建 [walleeeee](https://github.com/walleeeee)
 - [**charcoal**](https://github.com/setholito/charcoal) 使用Vue CLI 3.0并通过Bulma设置样式的入门模板 [Seth Davis](https://github.com/setholito)
-- [**Multi-page ASP.NET Core Vue with TypeScript**](https://github.com/danijelh/aspnetcore-vue-typescript-template)  -多页ASP.NET Core Vue，Typescript，Vuex，Vue路由器，Bulma，Sass和Jest应用程序.  关于如何在.NET Core MVC中将Vue.js用作多页（多个mini spa）应用程序的模板/起点.
+- [**Multi-page ASP.NET Core Vue with TypeScript**](https://github.com/danijelh/aspnetcore-vue-typescript-template)  -多页ASP.NET Core Vue，Typescript，Vuex，Vue路由器，Bulma，Sass和Jest应用程序.  在.NET Core MVC中如何将Vue.js用作多页（多个mini spa的）应用程序的模板/起点.
 - [**CION** - Design system boilerplate for Vue.js](https://github.com/visualjerk/vue-cion-design-system)  -主要为Vue.js应用程序构建的设计系统.  它利用设计令牌，带有集成代码游乐场的生活风格指南以及用于常见UI任务的可重用组件.
 - [**Vue websockets example**](https://github.com/latovicalmin/vuejs-websockets-example) -使用Vue.js 2 + Node项目的Websockets使用的基本示例，以获取完整的工作示例.
 - [**Vue(2.0) + Node.js: A blog**](https://github.com/FatDong1/vue-blog) 通过@ FatDong1
@@ -402,6 +404,7 @@
 - [Laravel + Nuxt.js boilerplate](https://github.com/acidjazz/laranuxt) -由 [@acidjazz](https://github.com/acidjazz)
 - [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
 - [TO](https://github.com/snturk/to) -社交媒体应用程序，允许您仅发布文本.
+- [All-About-Me](https://github.com/ooxxro/all-about-me)  -使用Vue，Firebase（Firestore / Auth / Storage），Element-UI，Disqus，Vuex，Vue-Router和Sass构建的社交媒体Web应用程序.  支持图像上传，个人资料编辑，添加/删除朋友和评论.
 
 ### Books
 
@@ -517,10 +520,10 @@
 - [AdminLTE-VueJS2](https://github.com/otezz/AdminLTE-VueJS2) -一个在AdminLTE上实现VueJS（v2.x）的开源项目.
 - [Material Dashboard](https://github.com/lucduong/vue-material-dashboard) -为Vue制作的创意Tim材质仪表板
 - [Explore-Github](https://github.com/mazipan/explore-github) -使用API​​ v3的VueJS 2 Github Explorer
-- [CoreUI](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template) -由Vue.js支持的开源管理模板
+- [CoreUI Vue Admin Template](https://github.com/coreui/coreui-free-vue-admin-template) -由Vue.js支持的开源管理模板
 - [ChuckNorris](https://github.com/mazipan/chucknorris) -使用VueJS + api.chucknorris.io构建的Chuck Norris笑话生成器
 - [LeafPlayer](https://github.com/paulschwoerer/leafplayer) -简单，快速，私人托管的音乐流服务器.
-- [JSON Editor](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+- [JSON Editor](https://github.com/tangram-js/json-editor)  -架构意识的JSON编辑器.  用Vue2开发.
 - [Voten](https://github.com/voten-co/voten) -使用Vue2和Laravel构建的类似Reddit的平台.
 - [News Weaver](https://github.com/Rud156/News-Weaver) -使用VueJS和VuetifyJS制作的基于Web的RSS阅读器/聚合器
 - [Wake Up Billie Joe!](https://wakeupbilliejoe.com)  -根据绿日的歌曲“九月末时唤醒我”，以十月为单位的网站倒计时.  使用Vue和Firebase创建.
@@ -533,7 +536,7 @@
 - [vuejs-extension-pack vscode](https://github.com/mubaidr/vuejs-extension-pack) -具有流行的VS Code扩展的packf或vscode扩展，用于Vue.js开发.
 - [Wiki.js](https://github.com/Requarks/wiki) -基于NodeJS，Git和Markdown构建的现代，轻便且功能强大的Wiki应用程序
 - [vue-pwa-speech](https://github.com/aofdev/vue-pwa-speech) -在Vue2 + Vuetify + Progressive Web App上使用Google Cloud Speech进行文本语音演讲
-- [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) -执行流式语音识别可在Progressive Web App上使用Google Cloud Speech + socket.io实时生成语音到文本
+- [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
 - [My Animation List](https://github.com/limichange/my-animation-list) -轻松获取CSS动画代码的工具
 - [vue-input-streaming](https://github.com/aofdev/vue-input-streaming) -使用Pusher进行TextInput流实时传输和双向数据绑定广播
 - [TidyTab](https://github.com/eggplanetio/tidytab) -Chrome扩展程序，用于整理这些标签.
@@ -546,7 +549,7 @@
 - [Coypu](https://github.com/bkzl/coypu) -像文本编辑器一样的每周计划者
 - [core-server](https://github.com/skyhark-projects/core-server) -具有集成API系统和多种高级功能的高度可扩展的VueJs框架.
 - [discord-logo](https://github.com/NNTin/discord-logo)  -基于SVG的Vue.js动画不和谐徽标生成器.  （[Github Page](https://nntin.github.io/discord-logo/))
-- [node-vue-template](https://github.com/mubaidr/node-vue-template) -入门模板，用于使用Node.js（API）和Vue.js（SPA）以及包含的某些软件包和配置来构建完整的应用程序，以帮助快速启动开发.
+- [node-vue-template](https://github.com/mubaidr/node-vue-template) -入门模板，用于使用Node.js（API）和Vue.js（SPA）以及一些随附的软件包和配置来构建完整的应用程序，以帮助快速启动开发.
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront)  -Vue.js店面-电子商务的PWA.  100％离线，与平台无关，无头，支持Magento2.
 - [fd-vue](https://github.com/freedomotic/fd-vue-webapp) -物联网框架的Vue.js客户端
 - [wildfire](https://github.com/cheng-kang/wildfire) -其他评论插件的替代品.
@@ -572,9 +575,9 @@
 - [Hubble](https://hubble.js.org) -：telescope：浏览GitHub Stars的历史.
 - [Vuepress](https://vuepress.vuejs.org/) -简约的Vue供电的静态网站生成器
 - [Socialhome](https://github.com/jaywink/socialhome) -具有社交网络功能的联盟丰富个人档案构建器
-- [GenVue](https://github.com/herbat73/GenVue) -一个可托管的Web应用程序，允许机密用户上传和共享基于Vue.js，Vuetifyjs和NetCore WebAPI堆栈的私有文件
+- [GenVue](https://github.com/herbat73/GenVue) -可托管的Web应用程序，允许机密用户上传和共享基于Vue.js，Vuetifyjs和NetCore WebAPI堆栈的私有文件
 - [vue-array](https://github.com/BlackHole1/vue-array)  -Vue下的数组对象操作，Vue下的数组对象操作使用此包可操作数组.  Vue可以监视阵列中的更改
-- [Laqu-l](https://github.com/laqul/laqul) -带有Quasar框架，带有OAUTH 2.0身份验证的GraphQL API后端，Firebase就绪，多语言功能等的完整应用程序入门套件.
+- [Laqu-l](https://github.com/laqul/laqul) -具有Quasar框架，带有OAUTH 2.0身份验证的GraphQL API后端，Firebase就绪，多语言功能等的完整应用程序入门套件.
 - [Protovue](https://github.com/v1Labs/protovue) -原型组件库，可帮助设计人员和开发人员快速搭建抽象的应用程序布局.
 - [Chattier](https://github.com/raniesantos/chattier)  -使用Laravel 5.6，Vue.js 2和Bulma（Buefy组件+ Bulmaswatch主题）构建的SPA社交网络.  还使用JWT身份验证.
 - [chrome-ribbon-reminder](https://github.com/johndatserakis/chrome-ribbon-reminder)  -使用Vue和Async / Await编写的Chrome扩展程序.  使用弹出显示并更改徽章计数.
@@ -634,10 +637,13 @@
 - [Readnavi](https://github.com/somphongph/readnavi) -模板书跟踪和审查 
 - [miniPress](https://christiankienle.github.io/minipress/) -另一个静态网站生成器 
 - [Zeithub](https://github.com/m0g/zeithub) -自由职业者的开源时间跟踪，发票和费用管理
-- [CodeceptJS UI](https://github.com/codecept-js/ui) -类似于赛普拉斯的UI，用于✔️CodeceptJS结束2结束测试✔️.
+- [CodeceptJS UI](https://github.com/codecept-js/ui) -适用于✔️CodeceptJS结束2结束测试✔️的赛普拉斯式UI.
+- [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) -基于jQuery的PivotTable.js的Vue端口
+- [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) -基于JavaScript的DataMap的Vue端口
+- [Marked.cc](https://github.com/msjaber/marked.cc) -创建并共享笔记和散文的精美图像.
 
 ### Commercial Products
- - [Wijmo](http://wijmo.com/products/wijmo-5/) -具有VueJS支持的UI控件的集合.
+ - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
  - [ChatWoot](https://www.chatwoot.com/) -通过Facebook Messenger进行Livechat和代理协作.
  - [VueA](https://themeforest.net/item/vuejs-laravel-admin-template/20119122?ref=jyostna&utm_source=awesomevue) -具有多个布局和laravel版本的VueJS管理模板.
  - [Teleo](https://www.teleo.co/?utm_source=AwesomeVue) -团队合作应用在谈话，计划和做事之间轻松移动
@@ -646,7 +652,7 @@
  - [Moonitor](https://moonitor.io/) -台式机的加密货币跟踪器.
  - [Deskree](https://deskree.com/) -将想法，任务和问题集中在一处的在线协作平台.
  - [OSHCExpress](https://oshcexpress.com/?utm_source=AwesomeVue) -OSHC（海外学生健康保险）保险（澳大利亚国际学生保险）的比较和电子商务.
- - [Agiloo](https://www.agiloo.com) - Project Management app for Scrum and Kanban
+ - [Agiloo](https://www.agiloo.com) -Scrum和看板的项目管理应用程序
  - [ScaffoldHub](https://www.scaffoldhub.io) -带有NodeJS，MongoDB或SQL的VueJS在线Web App生成器.
  - [Commandeer](https://getcommandeer.com)  -重新构想了云管理.  使用Vue.js和Electron构建的桌面云管理应用程序.
  - [SA Email Builder](https://app.emailbuilder.top) -使用VueJS和Quasar Framework做出响应的电子邮件模板构建器
@@ -699,7 +705,7 @@
   - [NinjaCalc](http://ninja-calc.mbedded.ninja) -一组与嵌入式工程相关的计算器，已通过vue.js构建为开源单页应用程序.
   - [Vue.js Feed](https://vuejsfeed.com/)  -最新的Vue.js新闻，教程，插件等.  基于**由Vue.js和Laravel制作[Vuedo](https://github.com/Vuedo/vuedo)**.
   - [蒜瓣](https://github.com/JasonBai007/suanban) -使用Vue2.0和Douban API开发的网络应用
-  - [Guess Right](https://kdcinfo.com/guessright/)  -一个“猜单词”游戏-用Vue / vuex / vue-router（前端）和Laravel / MySQL（后端）编写.  代码是 [Open Source on GitHub](https://github.com/KDCinfo/guess-right) （尽管不是在kdcinfo上运行游戏的实时文件）.
+  - [Guess Right](https://kdcinfo.com/guessright/)  -一个“猜词”游戏-用Vue / vuex / vue-router（前端）和Laravel / MySQL（后端）编写.  代码是 [Open Source on GitHub](https://github.com/KDCinfo/guess-right) （尽管不是在kdcinfo上运行游戏的实时文件）.
   - [GRAP](https://grap.io) -商务沟通服务
   - [Easy Mock](https://easy-mock.com)
   - [mmf-blog-vue2-ssr](https://github.com/lincenying/mmf-blog-vue2-ssr) 用Vue 2.0，vue-router和vuex构建并带有服务器端渲染的博客
@@ -726,7 +732,7 @@
   - [PipQuest](http://pipquest.gregorterrill.com) -Vue内置的复古益智游戏
   - [Matryx](https://matryx.ai/) -分散式协作平台.
   - [iPrevYou - YouTube™ Player](https://chrome.google.com/webstore/detail/iprevyou-youtube-player/blijlgfnjhnhmnaldaiienmjggbjhbaa) -用于在您的桌面上观看youtube视频的Chrome应用.
-  - [Item Manager](https://itemmanager.uk) - An application to transfer items for Destiny 2 game.
+  - [Item Manager](https://itemmanager.uk) -传送命运2游戏项目的应用程序.
   - [Frontend Masters Intro to Vue](https://frontendmasters.com/courses/vue/) -前端大师全日制课程
   - [TR-101](https://inverted3.gitlab.io/drum-machine/) -鼓合成器/音序器.
   - [Bazaar](https://bazaar.co) -媒体共享平台.
@@ -761,7 +767,7 @@
   - [Cronhub](https://cronhub.io) -无痛Cron监控工具
   - [wrkprty](https://wrkprty.com) -面向自由职业者，远程工作者和想离开办公室的专业人士的弹出式协作活动.
   - [Made with love](https://made-with-love.xyz/)  -世界各地的“用爱制造❤️”倡议是庆祝，促进和建立品牌的运动.  它从Dribbble，ProductHunt，Behance和Techcrunch等来源获取Tech新闻，设计灵感和趋势. 
-  - [Path to Product](https://www.pathtoproduct.com) -在创业公司和科技公司中发现1000多个产品工作.
+  - [Path to Product](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies.
   - [V·oogle](http://v-oogle.com/)  -Google.com，已发表.  一个笑话项目.  :)
   - [Broker Notes](https://broker-notes.com) -“成为房地产经纪人的研究”：房屋：
   - [SyncLounge](https://synclounge.tv) -SyncLounge是一种工具，可以在多个位置的多个播放器之间同步Plex内容.
@@ -921,7 +927,7 @@
  - [vuetable-2](https://github.com/ratiw/vuetable-2) -数据表简化.
  - [vue-tables-2](https://github.com/matfish2/vue-tables-2) -Vue.js 2个网格组件.
  - [vue-datasource](https://github.com/coderdiaz/vue-datasource) -vue.js服务器端组件，用于创建动态表.
- - [ag-grid-vue](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-vue) - Vue adaptor for ag-Grid.
+ - [ag-grid-vue](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-vue) -用于Ag-Grid的Vue适配器.
  - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) -Vue2.0数据表，基于element-ui.
  - [vue-floatThead](https://github.com/tmlee/vue-floatThead) -floatThead的Vue 2.0组件，floatThead，一个浮动的粘性表头插件.
  - [vuetiful-datatable](https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable) -具有排序，过滤，分页，分组和聚合的数据表组件.
@@ -944,7 +950,7 @@
  - [@lossendae/vue-table](https://lossendae.github.io/vue-table) -Vue.js 2.x的简单表组件，具有分页和可排序的列.
  - [el-data-table](https://github.com/FEMessage/el-data-table) -基于element-ui，轻松实现结队
  - [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) -用于Bootstrap的基于插件的高性能Vue数据网格.
- - [vue-ads-table-tree](https://github.com/arnedesmedt/vue-ads-table-tree) - A vue Table component, with filtering, sorting and pagination. Rows can have child rows, so a tree structure can be build. It also supports async calls to load rows from the backend. It's built with the css framework [tailwindcss](https://tailwindcss.com/docs/what-is-tailwind/)
+ - [vue-ads-table-tree](https://github.com/arnedesmedt/vue-ads-table-tree)  -具有过滤，排序和分页功能的vue Table组件.  行可以具有子行，因此可以构建树结构.  它还支持异步调用以从后端加载行.  它是使用CSS框架构建 [tailwindcss](https://tailwindcss.com/docs/what-is-tailwind/)
  - [@marketconnect/vue-pivot-table](https://github.com/MarketConnect/vue-pivot-table) -数据透视表的Vue组件
  - [vue-teible](https://github.com/hiendv/teible) -用于Web的轻巧灵活的表格组件：zap：
  - [vue-jqxgrid](https://github.com/jqwidgets/vue/tree/master/grid) -具有过滤，排序，编辑，分组，数据导出和其他功能的Vue数据网格.
@@ -1027,7 +1033,7 @@
  - [vue-nprogress](https://github.com/vue-bulma/nprogress) -进度条基于Vue的nprogress.
  - [vue-progress-button](https://github.com/websmurf/vue-progress-button) -Vue.js 2.x动画按钮组件.
  - [vue-simple-progress](https://github.com/dzwillia/vue-simple-progress) -Vue.js的简单，灵活的进度栏
- - [vue-component-loading](https://github.com/val-bubbleflat/vue-component-loading) - Manage a loading state inside each component and display the global loading state with a progressbar.
+ - [vue-component-loading](https://github.com/val-bubbleflat/vue-component-loading) -管理每个组件内部的加载状态，并使用进度条显示全局加载状态.
  - [vue-scroll-progress](https://github.com/spemer/vue-scroll-progress) -用于页面滚动进度条的简单Vue.js插件
  - [vue-read-progress](https://github.com/ajerez/vue-read-progress) -页面顶部的可自定义进度条，显示滚动进度
  - [easy-circular-progress](https://github.com/dreambo8563/easy-circular-progress) -简单的循环进度组件，具有计数效果
@@ -1040,7 +1046,7 @@
  - [vue-popper-component](https://github.com/antongorodezkiy/vue-popper-component) -Vue.js的Popper.js指令.
  - [vue-directive-tooltip](https://github.com/hekigan/vue-directive-tooltip) -简单，灵活的工具提示指令（基于Popper.js） [![Vue.js](https://img.shields.io/badge/vue-2-green.svg)](https://vuejs.org)
  - [vue-popperjs](https://github.com/RobinCK/vue-popper) -基于VueJS 2.x的popover组件 [popper.js](https://popper.js.org/)
- - [vue-tooltipster](https://github.com/cpfarher/vue-tooltipster) -基于VueJS 2.x工具提示的组件 [tooltipster.js](http://iamceege.github.io/tooltipster/). Support html content, hover and hover+click events.
+ - [vue-tooltipster](https://github.com/cpfarher/vue-tooltipster) -基于VueJS 2.x工具提示的组件 [tooltipster.js](http://iamceege.github.io/tooltipster/) .  支持html内容，悬停和悬停+单击事件.
  - [k-pop](https://github.com/ChristianKienle/k-pop) -基于的简单弹出框组件 [popper.js](https://popper.js.org/) .  高度可定制的.  带有主题.  支持自定义触发器，并且可以监听任何事件.
 
 ### Overlay
@@ -1115,7 +1121,8 @@
  - [vue-fa](https://github.com/Cweili/vue-fa) -简单的FontAwesome 5 Vue.js 2组件.
  - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) -美丽的像素完美的400+加密货币和10+菲亚特货币图标.
  - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) -一组源自SVG的高质量图标 [@refactoringui/heroicons](https://github.com/refactoringui/heroicons)，作为Vue功能组件.
-
+ - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) -104保费的Vue组件 [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg图标
+ 
 ### Menu
 
  - [vue-accordion](https://github.com/zeratulmdq/vue-accordion) -Vue.js的简单手风琴导航菜单组件.
@@ -1123,7 +1130,7 @@
  - [vue-slideout](https://github.com/vouill/vue-slideout) -流行图书馆的Vue实现 [slideout](https://github.com/Mango/slideout)
  - [vue-quick-menu](https://github.com/AshleyLv/vue-quick-menu) -这是基于vue.js2的网络导航组件.
  - [@hscmap/vue-menu](https://github.com/michitaro/vue-menu) -vue2的菜单/上下文菜单组件.
- - [vue-router-nav](https://github.com/classicalconditioning/vue-router-nav) -呈现vue-router路线的简约响应式导航栏.
+ - [vue-router-nav](https://github.com/classicalconditioning/vue-router-nav) - Minimalistic responsive navigation bar that renders routes of vue-router.
  - [vue-drawer-layout](https://github.com/hjl19911127/vue-drawer-layout) -一个简单的DrawerLayout组件（例如Android）具有Vue.js.
  - [vue-simple-menu](https://github.com/RGRU/vue-simple-menu) -具有一组基本功能的简单菜单组件，在80％的情况下足够
  - [vue-tree-navigation](https://github.com/MisRob/vue-tree-navigation) -具有vue-router支持的Vue.js 2树导航
@@ -1205,7 +1212,7 @@
  - [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) -可定制的组件，用于添加绑定到组件数据的D3图表.
  - [vue-jqxchart](https://github.com/jqwidgets/vue/tree/master/chart) -具有饼图，气泡，甜甜圈，线，条，栏，区域，瀑布，极地和蜘蛛系列的制图组件.
  - [toast-ui.vue-chart](https://github.com/nhnent/toast-ui.vue-chart) -Vue包装器 [TOAST UI Chart](http://ui.toast.com/tui-chart/).
- - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).
+ - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) -的Vue.js组件 [ApexCharts](https://github.com/apexcharts/apexcharts.js).
  - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) -Vue.js的甜甜圈图组件.
  - [v-charts](https://github.com/ElemeFE/v-charts) -基于Vue2.x和Echarts的图表组件.
  - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) -轻量级Vue组件，用于绘制纯CSS甜甜圈图.
@@ -1217,6 +1224,7 @@
  - [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) -实现的轻量级Vue图表没有任何图表库依赖性
  - [f2-vue](https://github.com/justice47/f2-vue) -F2的Vue包装器-优雅，交互式且灵活的移动图表库
  - [ZingChart-Vue](https://github.com/zingchart/zingchart-vue) -ZingChart制作的Vue组件具有35种以上的图表类型.
+ - [jscharting-vue](https://github.com/jscharting/jscharting-vue) -Vue图表组件提供了完整的图表类型集，并通过 [JSCharting](https://jscharting.com/).
 
 ### Time
 
@@ -1281,7 +1289,7 @@
  - [vue-static-map](https://github.com/eperedo/vue-static-map) -Vue 2.x简单组件可生成静态Google地图
  - [vue-mapbox](https://github.com/soal/vue-mapbox) -Mapbox GL JS库周围的Vue 2.x包装器，提供了与地图交互的途径.
  - [vue-cesium](https://github.com/zouyaoji/vue-cesium) -铯的Vue 2.x组件.
- - [vue-async-gmaps](https://github.com/vanderb/vue-async-gmaps) - Let users decide to load google-maps script for better privacy
+ - [vue-async-gmaps](https://github.com/vanderb/vue-async-gmaps) -让用户决定加载google-maps脚本以获得更好的隐私
 
 ### Audio / Video
 
@@ -1301,6 +1309,7 @@
  - [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) -轻巧且可自定义的Vue 2.x音频播放器，支持HTMLAudioElement.
  - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) -Vue.js的轻量级视频播放器
  - [vue-player](https://github.com/algoz098/vue-player) -一个简单的html5视频播放器，带有Vue 2.x的img占位符.
+ - [vue-audio-better](https://github.com/forijk/vue-audio-better)  -易于为Vue 2.x创建自定义音频播放器组件.  有灵魂的进度条.
 
 ### Infinite Scroll
 
@@ -1385,7 +1394,7 @@
  - [vue-typer](https://github.com/cngu/vue-typer) -模拟用户键入，选择和擦除文本的Vue组件.
  - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) -Vue 2虚拟键盘组件.
  - [vue-twentytwenty](https://github.com/mhayes/vue-twentytwenty) -图像比较组件，可与Vue.js 2.x一起使用
- - [vue-cookie-law](https://github.com/apertureless/vue-cookie-law) - Cookie info plugin for Vue.js 2.x
+ - [vue-cookie-law](https://github.com/apertureless/vue-cookie-law) -Vue.js 2.x的Cookie信息插件
  - [vue-gravatar](https://github.com/JiriChara/vue-gravatar) -Vue.js 2.x的简简单单的Gravatar组件
  - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) -易于使用的Vue.js 2.x剪贴板剪贴板绑定
  - [vue-flashcard](https://github.com/cuduy197/vue-flashcard) -具有Vue.js 2.x动画的FLashcard组件：bulb：
@@ -1393,13 +1402,13 @@
  - [vue-kanban](https://github.com/BrockReece/vue-kanban) -灵活的拖放看板板组件
  - [vue-letter-avatar](https://github.com/aidewoode/vue-letter-avatar) -vue.js的简单优雅的字母头像组件
  - [vue-highlightjs](https://github.com/metachris/vue-highlightjs) -使用highlight.js突出显示语法
- - [v-clipboard](https://github.com/euvl/v-clipboard) -简单，微小且易于使用的指令将您的模型保存到剪贴板（最小2kb（最小），没有依赖项）
+ - [v-clipboard](https://github.com/euvl/v-clipboard) -简单，小巧且易于使用的指令将您的模型保存到剪贴板（最小2kb，无依赖项）
  - [vue-invisible-recaptcha](https://github.com/MicroDroid/vue-invisible-recaptcha) -超级简单的Google隐形reCAPTCHA集成
  - [vue-embed](https://github.com/Gomah/vue-embed) -Embed组件基于Vue 2.x的embed.js，该组件可嵌入表情符号，媒体，地图，推文，要点，代码，服务和减价.
  - [vue-particles](https://github.com/creotip/vue-particles) -粒子背景的Vue.js组件
  - [vue-uniq-ids](https://github.com/termosa/vue-uniq-ids) -Vue.js 2.x插件，可帮助使用与ID相关的属性，且无副作用
  - [vue-multivue](https://github.com/drewjbartlett/vue-multivue) -在同一页面上使用相同类别的多个vue应用.
- - [vue-affix](https://github.com/eddiemf/vue-affix) -一个Vue.js 2.x插件，可在滚动时在窗口中添加元素，类似于Bootstrap Affix，但更简单，更智能
+ - [vue-affix](https://github.com/eddiemf/vue-affix) -一个Vue.js 2.x插件，可在滚动时在窗口中添加元素，类似于Bootstrap Affix，但更加简单和智能
  - [X-Browser-Update-Vue](https://github.com/OXOYO/X-Browser-Update-Vue) -一个Vue.js浏览器更新插件.
  - [vue-query-builder](https://github.com/dabernathy89/vue-query-builder) -用于构建带有嵌套条件的复杂查询的UI组件.
  - [vue-info-card](https://github.com/karakanb/vue-info-card) -简单美观的卡片组件，带有优美的火花线和CSS3翻转动画.
@@ -1433,7 +1442,7 @@
  - [vue-prom](https://github.com/Botre/vue-prom) -Vue Promise包装器组件.
  - [numeric-keyboard](https://github.com/viclm/numeric-keyboard) -用于移动浏览器的数字键盘.
  - [vue-zoom-on-hover](https://github.com/Intera/vue-zoom-on-hover) -鼠标悬停时图像缩放
- - [vue-responsive-image](https://github.com/HCESrl/vue-responsive-image) - A Vue component that lets you quickly create responsive image tags with an optimal number of image sources for all devices.
+ - [vue-responsive-image](https://github.com/HCESrl/vue-responsive-image) -Vue组件，可让您快速创建具有响应性的图像标签，并为所有设备提供最佳数量的图像源.
  - [vue-highlight-text](https://github.com/TonPC64/vue-highlight-text) -Vue组件，用于突出显示单词的多个实例
  - [vue-cast-props](https://github.com/anteriovieira/vue-cast-props) -提供将道具转换为常见数据类型的便捷方法.
  - [vue2-heropatterns](https://github.com/JustSteveKing/vue2-heropatterns) -Vue2实现，可让您将流行的英雄图案添加到任何Div
@@ -1481,11 +1490,11 @@
  - [vuejs-avataaars](https://github.com/orgordin/vuejs-avataaars) -用于化身的简单化身生成器Vue组件.
  - [vue-moveable](https://github.com/probil/vue-moveable) -Vue组件，它创建可移动，可拖动，可调整大小，可缩放，可旋转，可变形等.
  - [vue-camera-gestures](https://github.com/danielelkington/vue-camera-gestures) -让用户在您的HTML模板中的一行中使用AI和摄像头前的手势控制您的Vue应用！
- - [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) -可以轻松处理纵横比的微型组件.
+ - [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) - A tiny component to handle aspect ratios with no effort.
  - [vuerd](https://github.com/vuerd/vuerd) -数据库建模ERD编辑器工具
  - [query-builder-vue](https://github.com/rtucek/vue-query-builder) -查询生成器库，用于通过可拖动的重新排序来构建复杂的嵌套查询.
  - [vue-meeting-selector](https://github.com/IneoO/vue-meeting-selector) -受doctolib启发的会议选择器，使用Typescript快速，完全自定义.
- - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.  
+ - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) -Vue的快速即插即用[Tw]表情符号选择器（用于Twemoji渲染的+ textarea）组件.  
  - [vue-web-cam](https://github.com/VinceG/vue-web-cam) -VueJ的网络摄像头组件.
  - [vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) -动画元素的自定义光标效果，可用于交互元素，例如导航，画廊和旋转木马.
  - [vuetimeline](https://github.com/growthbunker/vuetimeline) -一个易于使用的组件，可以建立漂亮的响应时间轴.
@@ -1531,10 +1540,11 @@
  - [Laraform](https://github.com/laraform/laraform) -具有Laravel支持的Vue.js的高级表单生成器
  - [vue-ele-form](https://github.com/dream2023/vue-ele-form) -Vue DataForm，基于element-ui
  - [vue-otp-2](https://github.com/tonghoai/vue-otp-2) -Vue OTP输入2，用于OTP输入的Vue组件
+ - [vue-form-generator](https://github.com/vue-generators/vue-form-generator) Vue.js的基于架构的表单生成器组件.
 
 ##### Date Picker
 
-*Date / datetime / time Picker*
+*日期/日期时间/时间选择器*
 
 - [vue-datepicker](https://github.com/hilongjw/vue-datepicker) -** [未维护] **带有Vue.js材质设计的日历和日期选择器组件.
 - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker)  -Vue 2.x的下拉时间选择器（小时|分钟|秒），具有灵活的时间格式支持.  ：clock7：（返回并在2019充电：电池:)
@@ -1606,12 +1616,12 @@
  - [awe-dnd](https://github.com/hilongjw/vue-dragging) -Vue的可排序列表指令.
  - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) -Vue2组件，用于可拖动和可调整大小的元素.
  - [vddl](https://github.com/hejianxian/vddl) -用于通过HTML5拖放API修改列表的Vue组件，支持VueJs版本1和2.
- - [vue-drag-drop](https://github.com/cameronhimself/vue-drag-drop) - A minimal and lightweight wrapper for the HTML5 Drag and Drop API.
+ - [vue-drag-drop](https://github.com/cameronhimself/vue-drag-drop) -HTML5拖放API的最小包装和轻量级包装.
  - [vue-swing](https://github.com/goweiwen/vue-swing) -可刷卡界面，如Jelly和Tinder之类的应用中所见.
  - [vue-slicksort](https://github.com/Jexordexan/vue-slicksort) -无需依赖的混合集，可创建动画，易于触摸且可排序的列表
  - [draggable-vue-directive](https://github.com/IsraelZablianov/draggable-vue-directive) -处理任何Vue组件拖放的简单指令.
  - [vue-smooth-dnd](https://github.com/kutlugsahin/vue-smooth-dnd)  -Smooth-dnd库的Vue包装器.  拖放，可分类的库，适用于许多情况.
- - [vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) -无依赖的Vue组件，用于可拖动和可调整大小的元素，具有高宽比，反应式道具等
+ - [vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) -一个无依赖的Vue组件，用于具有长宽比，反应性道具等的可拖动和可调整大小的元素
  - [vue-drag-it-dude](https://github.com/Esvalirion/vue-drag-it-dude) -Vue2组件，可让您将对象拖到任意位置.
  - [vue-draggable](https://github.com/Vivify-Ideas/vue-draggable)  -Vue拖放库，没有任何依赖性.  简单易用.
  - [vue-nestable](https://github.com/rhwilr/vue-nestable) -作为vue组件的简单拖放层次结构列表.
@@ -1676,14 +1686,14 @@
 - [vue-masked-input](https://github.com/niksmr/vue-masked-input) -Vue.js的屏蔽输入组件.
 - [vue-text-mask](https://github.com/text-mask/text-mask) -用于React，Angular，Ember，Vue和普通JavaScript的输入掩码.
 - [vue-ip-input](https://github.com/lakb248/vue-ip-input) -由vuejs实现的ip输入.
-- [vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
+- [vue-numeric](https://github.com/kevinongko/vue-numeric) -输入字段组件以显示基于Vue的货币值.
 - [awesome-mask](https://github.com/moip/awesome-mask) -基于纯粹的VanillaJS实现的Mask指令
 - [v-money](https://github.com/vuejs-tips/v-money) -货币的微小（&lt;2k gzip压缩）输入/指令掩码
 - [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric) -封装了很棒的Vue.js组件 [AutoNumeric](http://autonumeric.org/) 输入格式库
 - [vue-inputmask](https://github.com/scleriot/vue-inputmask) -Vue.js指令可将Robin Herbots的inputmask库添加到您的输入中（香草javascript）.
 - [vue-input-number](https://github.com/joseluisq/vue-input-number) -Vue.js 2的自定义输入数字组件.
 - [v-unicode](https://github.com/ndelvalle/v-unicode) -Vue指令通过unicode值限制输入.
-- [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
+- [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) -的Vue.js组件 [cleave.js](http://nosir.github.io/cleave.js/)
 - [vue-ip](https://github.com/peteringram0/vue-ip) -具有端口和材料设计支持的IP地址输入
 - [vue-r-mask](https://github.com/raidan00/vue-r-mask) -带有类似于javascript正则表达式的模板的指令.
 - [vue-input-code](https://github.com/zhouyuexie/vue-input-code) -基于Vue.js 2.0+验证码输入组件.
@@ -1705,8 +1715,8 @@
  - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) 轻巧，快速且可扩展的所见即所得编辑器
  - [vue-trumbowyg](https://github.com/ankurk91/vue-trumbowyg) 的Vue.js组件 [Trumbowyg](http://alex-d.github.io/Trumbowyg/) 所见即所得编辑器
  - [vue-pell-editor](https://github.com/CinKon/vue-pell-editor) 的Vue.js组件 [Pell](https://jaredreich.com/pell) 所见即所得编辑器
- - [vue-tinymce-editor](https://github.com/dyonir/vue-tinymce-editor) Vue2的Tinymce编辑器组件.
- - [vue-mce](https://github.com/Eazymov/vue-mce) -VueJS的tinymce编辑器组件.
+ - [vue-tinymce-editor](https://github.com/dyonir/vue-tinymce-editor) Tinymce editor component for Vue2.
+ - [vue-mce](https://github.com/Eazymov/vue-mce) - tinymce editor component for VueJS.
  - [Vue2-Editor](https://github.com/davidroyer/vue2-editor) -使用Vue.js和Quilljs的HTML编辑器
  - [vue-codemirror](https://github.com/surmon-china/vue-codemirror) -Vue2的Codemirror组件.
  - [vue-easy-tinymce](https://github.com/m3esma/vue-easy-tinymce) -一个简单而强大的软件包，可在Vue.js项目中轻松使用tinymce.
@@ -1718,7 +1728,7 @@
  - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) -Vue2的wangEditor2组件.
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) Vue.hjs的MathLive数学编辑器（Mathfield）
  - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js)  下一代块样式的编辑器.  对于Vue.js
- - [element-tiptap](https://github.com/Leecason/element-tiptap) 使用Vet.js的Tiptap和Element UI的WYSIWYG RTF编辑器
+ - [element-tiptap](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
  - [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) -34Kb轻巧的所见即所得编辑器，没有第三方插件.
 
 #### Image Manipulation
@@ -1734,10 +1744,11 @@
  - [vue-croppie](https://github.com/jofftiquez/vue-croppie) -另一个图像裁剪器
  - [vue-slim-cropper](https://github.com/wannaxiao/vue-slim-cropper) -Vue 2.x的简单优雅的移动图像裁剪上传组件.
  - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) -先进的裁剪器，使您有机会创建几乎所需的任何裁剪器
-
+ - [vue-anka-cropper](https://github.com/e-anka/vue-anka-cropper) -图像裁剪器和上传器，矩形和圆形裁剪，可定制的CSS
+ 
 *显示图像*
 
- - [vue-cloudinary](https://github.com/diegopamio/vue-cloudinary) -Vue（2.0）插件，提供可重用的指令，可通过动态操作（调整大小/裁剪/效果/水印/缩放/格式化）和优化（webp / png / auto）从Cloudinary（https://cloudinary.com）获取图像质量/自动视网膜）.
+ - [vue-cloudinary](https://github.com/diegopamio/vue-cloudinary) -Vue（2.0）插件，提供了可重用的指令，可通过动态操作（调整大小/裁剪/效果/水印/缩放/格式化）和优化（webp / png / auto）从Cloudinary（https://cloudinary.com）获取图像质量/自动视网膜）.
  - [img-Vuer](https://github.com/ssshooter/img-vuer) -适用于Vue2的移动优先图片查看器/图库
  - [vue-image-loader](https://github.com/kevindesousa/vue-image-loader) -Vue加载器/渐进式图像插件，例如Medium.
  - [vue-load-image](https://github.com/john015/vue-load-image) -在图像加载期间显示加载器，以及在图像加载失败时显示替代内容.
@@ -1782,7 +1793,7 @@
  - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) -vue.js中基于zxcvbn的密码强度计.
  - [vue-float-label](https://github.com/bkzl/vue-float-label) -Vue.js的浮动标签模式.
  - [vue-longpress](https://github.com/javisperez/vuelongpress) -一个VueJS（2.x）按钮组件，要求您按住以确认给定的操作.
- - [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) -Google Maps Places API的Vue.js（2.x）自动建议组件.
+ - [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) - A Vue.js (2.x) autosuggest component for the Google Maps Places API.
  - [vue-ip-input](https://github.com/lakb248/vue-ip-input) -Vue.js 2.x的ip输入组件
  - [vue-default-value](https://github.com/termosa/vue-default-value) -Vue.js 2.x指令为可编辑元素设置默认值，而不会影响模型状态
  - [vue-model-autoset](https://github.com/outluch/vue-model-autoset) -解决Vue限制的Vue.js插件，可通过v-model指令观察动态添加的属性
@@ -1807,6 +1818,7 @@
  - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) -用于信用卡输入，蒙版和预览的Vue组件
  - [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) -轻巧的密码强度计，无依赖性
  - [vue-autosizer](https://github.com/hfalucas/vue-autosizer)  -内置`的轻型替代品 <textarea>  `和`&lt;input&gt;`元素允许它们自动拉伸以适合内容. 
+ - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) -具有流畅而甜美的微互动的绝佳信用卡形式.
 
 #### Wizard
 
@@ -1830,7 +1842,7 @@
  - [vue-html2canvas](https://github.com/mycure-inc/vue-html2canvas) -Vue mixin捕获html并使用Html2Canvas将其转换为图像.
  - [vue-canvas-nest](https://github.com/ZYSzys/vue-canvas-nest) -用于画布嵌套的Vue.js组件.
  - [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) -Vue签名板组件
- - [vg-editor](https://github.com/ChrisShen93/VGEditor) - A visual graph editor based on G6 and Vue, inspired by GGEditor
+ - [vg-editor](https://github.com/ChrisShen93/VGEditor) -基于GGEditor的基于G6和Vue的可视图形编辑器
 
 ### Link Preview
 
@@ -1878,6 +1890,8 @@
  - [vue-masonry-component](https://github.com/Guillaume69/vue-masonry-component) -Vue.js组件包装砌体布局库.
  - [vue-smart-widget](https://github.com/xiaoluoboding/vue-smart-widget) -智能小部件是Vue.js 2.x的灵活且可扩展的内容容器组件.
  - [vue-colrow](https://github.com/phphe/vue-colrow)  -响应式网格布局组件：行，列.基于CSS flexbox.  支持SSR，固定宽度或分数宽度，自动增长Col.
+ - [vue-diagonal](https://github.com/albertodeago/vue-diagonal) -简单轻巧的组件可创建对角线元素.
+ - [vue-responsive-dash](https://github.com/bensladden/vue-responsive-dash) -使用vue和打字稿制作的自适应，可拖动和可缩放大小的仪表板（网格）. 
 
 ## Frameworks
 
@@ -1914,9 +1928,10 @@
  - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) -@carbon团队的Carbon Design System组件.
  - [Inkline](https://github.com/inkline/inkline/) -Inkline是Vue.js的现代UI / UX框架，旨在创建完美的响应式Web应用程序.
  - [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) -用于Web的Vue.js 2.0 MUI组件
- - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) -基于最新的Bootstrap 4和Vue 2.6.10的强大UI工具包，提供了一组流畅的，响应式页面模板，布局，组件和小部件，可快速构建响应式，移动优先的网站和应用程序.
+ - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
  - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) -遵循Google建议的最佳做法，集成了Vue.js的材料组件：使用基础和适配器
  - [PrimeVue](https://primefaces.org/primevue) -Vue最完整的UI组件库
+ - [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) -CoreUI for Vue.js是一个UI组件库，提供了许多跨浏览器，响应式和轻量级的Vue.js UI组件.
 
 ### Mobile
 
@@ -1926,7 +1941,7 @@
  - [vux](https://github.com/airyland/vux) -[中文]基于WeUI的Vue UI组件.
  - [vue-onsenui](https://github.com/OnsenUI/OnsenUI)  -使用HTML5和JavaScript的移动应用开发框架和SDK.  创建美观，高性能的跨平台移动应用程序.  基于Web组件，并提供Angular 1、2，React和Vue.js的绑定.
  - [Weex](https://weex.incubator.apache.org/) -Weex提供了跨平台发布的功能，因此Web，Android和IOS应用程序可以使用相同的API开发功能.
- - [weex-eros](https://github.com/bmfe/eros-template) -[中文] Eros是基于Weex和Vue的应用程序解决方案，使您可以使用Vue的API，简单快速地开发中小型应用程序.
+ - [weex-eros](https://github.com/bmfe/eros-template) - [Chinese] Eros is a app solution based on Weex and Vue, which enables you to use API of Vue, simple and quick development of small and medium app.
 
 *用于移动设备的组件*
 
@@ -1965,6 +1980,7 @@
  - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) -具有可自定义类的Vue组件可用于TailwindCSS，但与任何框架兼容.
  - [Equal UI](https://github.com/quatrochan/Equal) -基于TypeScript的Vue UI套件 
  - [slim-ui](https://github.com/mevinoth/slim-ui) -基于Vue.js的最小UI组件
+ - [Vue Component Development Kit](https://github.com/christiankienle/cdk) -无样式，经过严格测试和灵活的Vue组件/混合/插件. 
 
 ### Admin Template
 
@@ -2067,6 +2083,7 @@
  - [vue-form-components](https://github.com/antonreshetov/vue-form-components) -带有验证的干净＆最小的Vue表单元素
  - [ncform](https://github.com/ncform/ncform) -一种非常好的配置生成表单的方式
  - [v-ajax-form](https://github.com/hosokawat/v-ajax-form) -vue.js组件插件，使Form标签与ajax请求兼容
+ - [Vue Formulate](https://github.com/wearebraid/vue-formulate)  -使用Vue构建表单的最简单方法.  验证，错误处理，表单生成，全面的文档等.
 
 #### Validation
 
@@ -2081,7 +2098,7 @@
  - [vue-daval](https://github.com/deulos/vue-daval)  -超级Vue数据验证器.  简便，简单，准确.
  - [willvalidate](https://github.com/gustavoSoriano/willvalidate) -Vue.js的验证表单.
  - [vue-m-validator](https://github.com/silksofthesoul/vue-m-validator) -用于VueJ的模型数据验证库.
- - [vue-isyourpasswordsafe](https://github.com/Pitu/vue-isyourpasswordsafe) -用Vue编写的一个小型实用程序，用于检查给定的密码是否已针对“我已被拥有” API泄漏.
+ - [vue-isyourpasswordsafe](https://github.com/Pitu/vue-isyourpasswordsafe) -一个用Vue编写的小型实用程序，用于检查给定的密码是否已根据“我已被拥有” API泄漏.
  - [vue-form-send](https://github.com/AlekseyPleshkov/vue-form-send) -Vue.js指令，用于从表单和原始验证发送数据
  - [FormVuelar](https://github.com/janiskelemen/formvuelar) -考虑服务器端验证的Vue表单组件
  - [vue-final-validate](https://phphe.github.io/vue-final-validate/) -从我的开发经验中获得Vue验证解决方案，支持嵌套，异步.
@@ -2122,14 +2139,15 @@
 - [vue-scrollview](https://github.com/chrishurlburt/vue-scrollview) -利用作用域插槽检测vue组件何时进入和离开视口的组件.
 - [vue-scrollactive](https://github.com/eddiemf/vue-scrollactive) -根据视口中的当前部分在菜单项中添加活动类，单击菜单项时也滚动到该部分.
 - [vue-intersect](https://github.com/heavyy/vue-intersect) -Vue组件，用于将交叉观察器添加到Vue组件或HTML元素.
-- [vue-scrollmonitor](https://github.com/AlexandreBonaventure/vue-scrollmonitor) -一个Vue插件，可通过多种支持的浏览器观看视口内元素的可见性状态（请使用provide / inject，因此兼容vue@2.2.x）
+- [vue-scrollmonitor](https://github.com/AlexandreBonaventure/vue-scrollmonitor) -一个Vue插件，可通过多种支持的浏览器观看视口内元素的可见性状态（使用提供/注入，因此兼容vue@2.2.x）
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) -Vue.js 2.x的Awesome CSS3列表滚动效果组件.
 - [navscroll-js](https://github.com/nash403/navscroll-js)  -滚动时突出显示菜单项，并且单击菜单项时还会滚动到某个部分.  用作vue组件，vue指令或与vanilla js一起使用.
 - [vue-scrollwatch](https://github.com/Desdesdesgo/vue-scrollwatch) -一个检测滚动事件的轻型插件，在元素进入视口时自定义回调，使用&#39;vue指令&#39;暴露&#39;scrollTo&#39;api滚动到特定元素.
 - [vue-check-view](https://github.com/vtimofeev/vue-check-view)  -一个检查元素是否在视口中的插件.  快速，小型，无依赖性，实时演示.
-- [vue-stickto](https://github.com/JALBAA/vue-stickto) - A vue directive that support multiple DOM nodes stick to top automatically
+- [vue-stickto](https://github.com/JALBAA/vue-stickto) -支持多个DOM节点的vue指令会自动粘贴到顶部
 - [vue2-scrollspy](https://github.com/ibufu/vue2-scrollspy) -一个可滚动显示的插件和动画滚动到.
 - [vue-trip-wire](https://github.com/lorrenrules/vue-trip-wire) -当元素到达视口中的指定点时用于触发函数的自定义指令，可以选择导入具有全局可访问函数的模块.
+- [v-intersect](https://github.com/kholid060/v-intersect) -Vue指令和组件，可在视口中可见或隐藏元素时检测该元素
 
 *自定义滚动行为*
 
@@ -2206,7 +2224,6 @@
  - [vue-slide-up-down](https://github.com/danieldiekmeier/vue-slide-up-down) 就像jQuery的`slideUp` /`slideDown`一样，但是对于Vue！
  - [vue-animejs](https://github.com/BenAHammond/vue-anime) Vue的简单`anime.js`指令.
  - [Eagle.js](https://github.com/zulko/eagle.js/) Eagle.js是Vue.js的基于Web的幻灯片框架.
- - [vue-pose](https://github.com/Popmotion/popmotion/tree/master/packages/vue-pose) Pose for Vue是一个声明性运动系统，它将CSS过渡的简单性与JavaScript的强大功能和灵活性结合在一起.
  - [vue-slide-up-down-component](https://github.com/k-okina/vue-slide-up-down-component) 它是一个简单的界面，但是对于Vue，可以实现非常灵活和强大的幻灯片动画.
  - [femtoTween](https://github.com/pearofducks/femtoTween) 具有一流Vue支持的简约（零深度，小于1k）补间库
  - [vue-sequential-entrance](https://github.com/deivthings/vue-sequential-entrance)  用于创建带有页面元素列表的优雅连续动画入口的插件.  零努力.  简单轻巧
@@ -2216,6 +2233,7 @@
  - [Vuenime](https://github.com/denisinvader/vuenime) 适用于Animejs的灵活Vue包装器
  - [vue-flipper](https://github.com/VitorLuizC/vue-flipper) -具有良好过渡效果的翻转孩子的组件.
  - [v-number](https://github.com/maxflex/v-number/) Vue.js的动画数字转换库
+ - [vue-kinesis](https://github.com/Aminerman/vue-kinesis) 一组用于创建交互式动画的组件
 
 ### Meta Tags
 
@@ -2266,12 +2284,12 @@
  - [vue-match-heights](https://github.com/samturrell/vue-match-heights) -指令将元素的高度设置为相同.
  - [vue-conditional-attrs](https://github.com/FL3NKEY/vue-conditional-attrs) -用于条件渲染属性和指令的Vue.js组件
  - [vue-cbsc](https://github.com/arthurvasconcelos/vue-cbsc) -Vue.js 2.x组件，用于以编程方式混合器，着色器和转换颜色.
- - [vue-spatialnavigation](https://github.com/twcapps/vue-spatialnavigation) - Vue directive (Vue.js 2.x) for spatial navigation (keyboard navigation)
- - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) - A Vue.js lifecycle directives.
+ - [vue-spatialnavigation](https://github.com/twcapps/vue-spatialnavigation) -用于空间导航（键盘导航）的Vue指令（Vue.js 2.x）
+ - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) -Vue.js生命周期指令.
  - [vue-aspect-ratio](https://github.com/3vilArthas/v-aspect-ratio) -vue的长宽比指令.
  - [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) -为避免自动更改通过用户设备的相机拍摄的照片方向.
  - [v-ripple-directive](https://github.com/andrewvasilchuk/v-ripple-directive) -Vue.js指令可产生涟漪效应.
- - [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple) - Add material design ripple to any element. Use any ripple color you want. No performance issues. Mobile friendly. No dependencies. It just works.
+ - [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple)  -在任何元素上添加材料设计纹波.  使用任何想要的波纹颜色.  没有性能问题.  移动友好.  没有依赖关系.  就是这样.
 
 ### WebGL
 
@@ -2282,7 +2300,7 @@
 - [vue-vr](https://github.com/imudin/vue-vr) -使用Vue构建VR应用程序的框架
 基于 [threejs](https://threejs.org/) 和 [Panolens](https://pchen66.github.io/Panolens/)，灵感来自 [react-vr](https://github.com/facebook/react-vr)
 - [vue-displacement-slideshow](https://github.com/AlbanCrepel/vue-displacement-slideshow) -一个Vue.js组件，使Webgl图像位移过渡更容易.
-- [vue-fake3d-image-effect](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
+- [vue-fake3d-image-effect](https://github.com/LuXDAmore/vue-fake3d-image-effect) -WebGL中具有深度图的图像的交互式3D伪效果.
 
 ### Fullscreen
 
@@ -2291,7 +2309,7 @@
 ### Page visibility
 
 - [vue-page-visibility-awesome](https://github.com/stefanodotit/vue-page-visibility-awesome) -易于配置的页面可见性api的Vue 2.x组件.
-- [vue-authplugin](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
+- [vue-authplugin](https://github.com/vv13/vue-authplugin) -美观的auth控制插件，支持指令和原型方法.
 
 ### Printing
 
@@ -2314,11 +2332,12 @@
  - [vue-typescript-import-dts](https://github.com/locoslab/vue-typescript-import-dts) -TypeScript声明文件，允许对.vue文件使用&#39;import&#39;.
  - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader) -在vue-loader中对脚本进行类型检查.
  - [vue-mixin-decorator](https://github.com/justrhysism/vue-mixin-decorator) -用于强类型Mixins的Typescript装饰器.
- - [vue-ts-component-generator](https://github.com/frogbob/vue-ts-component-generator) -用于生成vue打字稿组件的简单cli工具.
+ - [vue-ts-component-generator](https://github.com/frogbob/vue-ts-component-generator) - A simple cli tool for generating vue typescript components.
  - [vue-local-storage-decorator](https://github.com/vip30/vue-local-storage-decorator) -通过使用装饰器格式的本地存储持久化数据
  - [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) -Typescript / ES7装饰器使Vuex模块变得轻而易举
  - [vuex-class-modules](https://github.com/gertqin/vuex-class-modules) -在vue-class-component的启发下，为vuex模块引入一种简单的类型安全的类样式语法.
  - [vue-corator](https://github.com/joon610/vue-corator) -Vue打字稿装饰器工具
+ - [vuedts](https://github.com/kahirokunn/vuedts) -为.vue文件生成TypeScript声明文件.
 
 ### HTTP Requests
 
@@ -2329,13 +2348,13 @@
  - [vue-jsonp](https://github.com/LancerComet/vue-jsonp) -一个用于处理JSONP请求的微型库.
  - [v-model](https://github.com/huanleguang/v-model) -V-Model是Vue.js的模型插件，例如ng-resource.
  - [vue-resource-mock](https://github.com/noru/vue-resource-mock) -一个基于vue-resource的拦截器来模拟您的http响应的助手.
- - [vue-async-data-2](https://github.com/kamijin-fanta/vue-async-data) -Vue.js的异步数据加载插件.
+ - [vue-async-data-2](https://github.com/kamijin-fanta/vue-async-data) - Async data loading plugin for Vue.js.
  - [vue-api-request](https://github.com/ftgibran/vue-api-request) -一个可完全控制您的API的插件，使您的请求变得简单，快速且易于实现.
  - [vue-fast-axios](https://github.com/leonardovilarinho/vue-fast-axios) -以简单美观的方式进行验证请求.
  - [vue-async-properties](https://github.com/blainehansen/vue-async-properties) -一个asyncData和asyncComputed插件，支持反跳，转换结果，错误处理程序，加载/挂起标志，延迟/急切请求.
  - [vue-axios-plugin](https://github.com/yugasun/vue-axios-plugin) -结合了axios和Vuejs的插件，使http请求更加轻松.
  - [vuex-api](https://github.com/vouill/vuex-api) -一个vuex插件，可轻松处理api调用.
- - [zipkin-instrumentation-vue-resource](https://github.com/elgris/zipkin-instrumentation-vue-resource) -的拦截器 [vue-resource](https://github.com/pagekit/vue-resource) 可以检测出的HTTP请求 [Zipkin](https://github.com/openzipkin/zipkin)
+ - [zipkin-instrumentation-vue-resource](https://github.com/elgris/zipkin-instrumentation-vue-resource) -的拦截器 [vue-resource](https://github.com/pagekit/vue-resource) that instruments outgoing HTTP requests with [Zipkin](https://github.com/openzipkin/zipkin)
  - [vue-api-query](https://github.com/robsontenorio/vue-api-query) -构建REST API请求的优雅而简单的方法.
  - [vue-chimera](https://github.com/SasanFarrokh/vue-chimera) -基于RESTful资源的全功能客户端，与Nuxt.js兼容，并允许服务器端提取.
  - [vue-google-api](https://github.com/vertcitron/vue-google-api) -一个包装器，用于基于Promise与内置的Oauth2“使用Google登录”功能，将Google API客户端轻松集成到任何vue.js 2项目中.
@@ -2375,7 +2394,7 @@
  - [vue-geb](https://github.com/vouill/vue-geb) -使用Observables的全局事件总线.
  - [vue-bus](https://github.com/fffixed/vue-bus) -适用于Vue.js 2的微型简单中央事件总线插件.
  - [vue-simple-events](https://github.com/VeryWow/vue-simple-events) -另一个事件管理插件，但没有Vue实例
- - [vue-option-events](https://github.com/Cweili/vue-option-events) -将Vue.js 1事件选项和$ emit带到Vue.js 2.
+ - [vue-option-events](https://github.com/Cweili/vue-option-events) - Bring Vue.js 1 events option and $emit to Vue.js 2.
  - [vue-emit](https://github.com/denisinvader/vue-emit) -辅助函数，用于从功能组件中发出事件.
  - [vue-plugin-events](https://github.com/nolde/vue-plugin-events) -具有自动订阅控制的Vue.js应用程序的简单全局事件总线.
 
@@ -2404,7 +2423,7 @@
  - [vuez](https://github.com/markselby9/vuez) -仅2个API的简单但功能强大的Vue.js状态管理.
  - [vuet](https://github.com/medevicex/vuet) -敏捷开发的Vue.js状态管理模型
  - [vue-ya-stash](https://github.com/qgp9/vue-ya-stash) -另一个带有v / bind.sync的带有更新/补丁事件发送器的隐藏存储
- - [vue-assign-model](https://github.com/midnightSuyama/vue-assign-model) - Automatically assign elements value to model for Vue.js.
+ - [vue-assign-model](https://github.com/midnightSuyama/vue-assign-model) -自动为Vue.js模型分配元素值.
  - [vue-stash](https://github.com/cklmercer/vue-stash) -在Vue组件之间轻松共享反应性数据.
  - [vue-mc](https://github.com/FiguredLimited/vue-mc) -Vue.js的模型和集合
  - [vue-model](https://github.com/aarondfrancis/vue-model) -Vue.js的模型组件
@@ -2575,10 +2594,10 @@
 - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) -管理Vue组件中的异步操作状态
 - [vue-direction](https://github.com/shwilliam/vue-direction) -Vuejs中的方向感知悬停
 - [vue-unique-id](https://github.com/berniegp/vue-unique-id) -生成唯一的组件ID和组件范围的HTML ID.
-- [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) -⭐️Vue组件的轻量级DI❤❤️
+- [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) - ⭐️  Lightweight DI for vue components️ ❤️
 - [vue-uuid](https://github.com/VitorLuizC/vue-uuid) -将UUID添加到Vue实例.
 - [vue-injector](https://github.com/Scandltd/vue-injector) -Vue 2.x的依赖注入
-- [vue-subslot](https://github.com/privatenumber/vue-subslot) -Vue组件，可以从插槽中选择所需的东西
+- [vue-subslot](https://github.com/privatenumber/vue-subslot) - 💍 Vue component to pick 'n choose what you want from a slot
 
 ### Web Workers
 - [vue-worker](https://github.com/israelss/vue-worker) -一个Vue.js插件，可轻松使用网络工作人员.
@@ -2631,7 +2650,7 @@
  - [Vue + Meteor](https://github.com/Akryum/vue-meteor) -Vue在Meteor中的一流集成.
  - [av-ts](https://github.com/HerringtonDarkholme/av-ts) -一个现代的，类型安全的，惯用的Vue绑定库.
  - [Neutronium](https://github.com/NeutroniumCore/Neutronium) -使用HTML，CSS和javascript构建.NET桌面应用程序.
- - [vue-typescript-jest](https://github.com/locoslab/vue-typescript-jest) -用于Vue.js组件（支持html，pug和babel）和TypeScript的Jest preprocessor.js.
+ - [vue-typescript-jest](https://github.com/locoslab/vue-typescript-jest) - Jest preprocessor.js for Vue.js components (supporting html, pug, and babel) and TypeScript.
  - [vue-jest-utils](https://github.com/locoslab/vue-jest-utils) -使用Jest测试Vue.js组件的实用程序.
  - [vue-custom-element](https://github.com/karol-f/vue-custom-element) -Vue自定义元素-Vue.js的自定义元素.
  - [vue-cordova](https://github.com/kartsims/vue-cordova) -Cordova的Vue.js插件.
@@ -2649,19 +2668,19 @@
  - [vue-loopback](https://github.com/InCuca/vue-loopback) -回送和Vue应用程序模板
  - [vue-laroute](https://github.com/samturrell/vue-laroute) -使用laroute将Laravel路由集成到您的VueJS应用程序中.
  - [vue-raven](https://github.com/anteriovieira/vue-raven) -自动报告从vue组件触发的未捕获的JavaScript异常.
- - [vue-telegram-login](https://github.com/vchaptsev/vue-telegram-login) -查看组件 [Telegram Login](https://core.telegram.org/widgets/login) 通过 [@vchaptsev](https://github.com/vchaptsev/)
+ - [vue-telegram-login](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login) 通过 [@vchaptsev](https://github.com/vchaptsev/)
  - [vuexpress](https://github.com/vuexpress/vuexpress)  -Vue + Express.js = VueXpress / Express.js的服务器端渲染引擎.  使用.vue文件作为您的express.js模板.
  - [vue-fixer](https://github.com/eperedo/vue-fixer) -适用于 [fixer API](https://fixer.io).
- - [amazon-cognito-vuex-module](https://github.com/Botre/amazon-cognito-vuex-module) - Vuex module for Amazon Cognito.
+ - [amazon-cognito-vuex-module](https://github.com/Botre/amazon-cognito-vuex-module) -Amazon Cognito的Vuex模块.
  - [vue-web3](https://github.com/morrislaptop/vue-web3) -Vue.js的Web3区块链绑定（受Vuefire和Drizzle启发）
  - [sbt-vuefy](https://github.com/GIVESocialMovement/sbt-vuefy) -Playframework的Vue.js集成
  - [loopback-vue-starter](https://github.com/ivandov/loopback-vue-starter) -LoopBack和Vue入门模板，可通过`vue-cli`和`vue ui`轻松管理插件.
  - [vue.py](https://stefanhoelzl.github.io/vue.py/) -用Python编写Vue.js组件
- - [vue-telegram-passport](https://github.com/vchaptsev/vue-telegram-passport) -查看组件 [Telegram Passport](https://telegram.org/blog/passport) 通过 [@vchaptsev](https://github.com/vchaptsev/)
+ - [vue-telegram-passport](https://github.com/vchaptsev/vue-telegram-passport) - Vue Component for [Telegram Passport](https://telegram.org/blog/passport) 通过 [@vchaptsev](https://github.com/vchaptsev/)
  - [vue-facebook-login-component](https://github.com/adi518/vue-facebook-login-component) -完全可定制的组件，用于集成Facebook登录.
  - [vue-programmatic-invisible-google-recaptcha](https://github.com/promosis/vue-programmatic-invisible-google-recaptcha) -一个简单的不可见的Google reCAPTCHA组件，仅专注于程序调用.
  - [vbuild](https://github.com/manatlan/vbuild)  -其主要目的是让您使用vuejs应用程序中的组件（.vue文件），而无需完整的nodejs堆栈.  从0.6版本开始：您可以创建 [your component in pure python](https://github.com/manatlan/vbuild/blob/master/doc/PyComponent.md) !
- - [feathers-vuex](https://github.com/feathers-plus/feathers-vuex) - is a first class integration of the Feathers Client and Vuex. It implements many Redux best practices under the hood, eliminates a lot of boilerplate code, and still allows you to easily customize the Vuex store.
+ - [feathers-vuex](https://github.com/feathers-plus/feathers-vuex)  -是Feathers Client和Vuex的一流集成.  它在幕后实现了许多Redux最佳实践，消除了很多样板代码，仍然允许您轻松自定义Vuex存储.
  - [vue-nocaptcha](https://github.com/chiaweilee/vue-nocaptcha) -Vue.js的Aliyun noCAPTCHA组件
  - [ionic-vue](https://github.com/ModusCreateOrg/ionic-vue) -适用于Ionic v4的Vue.js集成
  - [vue-0xcert](https://github.com/0xcert/framework/tree/master/packages/0xcert-vue-plugin) -0xcert框架的Vue.js集成-一个开放源代码库，提供用于构建功能强大的去中心化应用程序的工具
@@ -2683,7 +2702,7 @@
 ###### Google Analytics
 
  - [vue-ua](https://github.com/ScreamZ/vue-analytics) -Vue.js中的Google Universal Analytics支持.
- - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) -适用于Google Analytics（分析）的Vue插件.
+ - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) - Vue plugin for Google Analytics.
  - [vue-gtm](https://github.com/mib200/vue-gtm) -Google跟踪代码管理器的Vue插件
  - [vue-gtag](https://github.com/MatteoGabriele/vue-gtag) -Vue的全球站点标签插件
 
@@ -2701,7 +2720,8 @@
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) -是更快，更流畅地发展的组成部分.
  - [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) -是用于开发和测试其他组件，自动绑定其道具的组件设计.
  - [vue-cli-template-dev-server](https://github.com/eliranmal/vue-cli-template-dev-server) -用于构建vue-cli自定义模板的开发服务器.
-  - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) -收集有助于更新和重构Vue和JavaScript文件的codemod脚本.
+ - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) -收集有助于更新和重构Vue和JavaScript文件的codemod脚本.
+ - [codesandbox](https://codesandbox.io/s/vue-vue) -用于快速Vue开发的在线IDE和原型工具.
 
 ### Inspect
 
@@ -2736,7 +2756,7 @@
  - [jsdoc-vuedoc](https://github.com/ccqgithub/jsdoc-vuedoc) -jsdoc3插件使用`@ vuedoc / md`.
  - [vue-storybook](https://github.com/mattrothenberg/vue-storybook)  –添加` <story>  `阻止Vue单个文件组件以更紧密地集成Vue + [Storybook](https://github.com/storybooks/storybook)
  - [vue-patterns](https://github.com/learn-vuejs/vue-patterns) -有用的Vue模式，技巧，技巧和窍门以及有用的精选链接.
- - [vuese](https://github.com/vuese/vuese) -vue组件文档的一站式解决方案.
+ - [vuese](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
  - [vue-dotmd-loader](https://github.com/mengdu/vue-dotmd-loader) -用于将加载器markdown文件转换为vue文件的Webpack加载器.
 
 ### Test
@@ -2758,7 +2778,7 @@
 *无需浏览器即可加载Vue组件*
 
  - [vuegister](https://github.com/iatsiuk/vuegister) -Vuegister（vue和register的portmanteau）是用于加载Vue.js单文件组件（或.vue文件）的必需钩子.
- - [vue-node](https://github.com/knpwrs/vue-node) -在节点中加载vue组件.
+ - [vue-node](https://github.com/knpwrs/vue-node) - Load vue components in node.
 
 ### Source Code Editing
 
@@ -2771,7 +2791,7 @@
  - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets) -Vue组件文件的Atom代码段.
  - [vue-autocompile@atom.io](https://github.com/paulpflug/vue-autocompile) -保存时自动编译vue文件.
  - [lint-sass-vue@atom.io](https://github.com/fsblemos/lint-sass-vue) -Atom.io软件包，用于在.vue文件中添加Sass / SCSS.
- - [vuejs2-snippets@atom.io](https://github.com/CorentinAndre/Vuejs-snippets) -适用于JavaScript和组件的Atom代码段，包括生命周期挂钩，指令，属性，vuex，vue-router，vue-i18n支持.
+ - [vuejs2-snippets@atom.io](https://github.com/CorentinAndre/Vuejs-snippets) -适用于JavaScript和组件的Atom代码段，包括生命周期挂钩，指令，属性，vuex，vue-router和vue-i18n支持.
  - [vue2-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue2-autocomplete) -Atom的Vue.js 2.0+自动完成功能.
 
 #### Sublime Text
@@ -2862,10 +2882,10 @@
  - [vue-tachyons-template](https://github.com/colorful-tones/vue-tachyons-template) -带Tachyons，Webpack和ESLint的Vue 2项目入门模板
  - [Vuets](https://github.com/AkiraLaine/Vuets) -使用类样式的组件，vue插件选项，webpack和vue-cli的Vue，支持TypeScript的样板.
  - [MMF-FE/vue-typescript](https://github.com/MMF-FE/vue-typescript) -vue2.x打字稿模板.
- - [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) -通过Apollo客户端（Vuex，Vue-router，Vue-i18n，Webpack 3，Eslint，Prettier等）通过GraphQL支持的功能齐全的Vue.js入门项目.
- - [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) -Vue 2.2 Webpack 2和Typescript 2设置，具有热重载，单元测试，代码覆盖，无效和捆绑/最小化.
+ - [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) -通过Apollo客户端（Vuex，Vue路由器，Vue-i18n，Webpack 3，Eslint，Prettier等）通过GraphQL支持的功能齐全的Vue.js入门项目.
+ - [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) -Vue 2.2 Webpack 2和Typescript 2设置，具有热重载，单元测试，代码覆盖率，无效和捆绑/最小化.
  - [vue-ts-amd](https://github.com/Micene09/vue-ts-amd) -使用AMD模式（RequireJS）和Typescript的功能齐全的Vue.js 2样板.
- - [**vue-2-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) -Vue 2样板，用于开发中型到大型单页应用程序 [petervmeijgaard](https://github.com/petervmeijgaard/)
+ - [**vue-2-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue 2 boilerplate for developing medium to large single page applications by [petervmeijgaard](https://github.com/petervmeijgaard/)
  - [layout](https://github.com/ktquez/layout) -功能齐全的Webpack + Vue Extend布局
  - [layout-simple](https://github.com/ktquez/layout-simple) -简单的Webpack + Vue扩展布局
  - [vue-cli-template-library](https://github.com/julon/vue-cli-template-library) -使用Rollup + Jest + Babel + Storybook + TravisCI + SemanticRelease开发开源vue.js库的模板.
@@ -2885,7 +2905,7 @@
  - [neutrino-preset-vue-static](https://github.com/shyiko/neutrino-preset-vue-static) -用于使用Vue.js构建静态网站的简约入门工具包.
  - [Vueniverse](https://github.com/rlindskog/vueniverse) -由Nuxt.js和Express提供支持的功能全面的通用Vue模板，用于基于用户的应用程序.
  - [vue-preload](https://github.com/shershen08/vue-preload) -用于添加`的插件Vue
- - [Vue.js/Nuxt.js full featured boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) -专业的代理机构前端模板，可通过vuejs / nuxtjs构建快速，健壮和适应性强的Web应用程序或网站.
+ - [Vue.js/Nuxt.js full featured boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
 
 ### Server
 
@@ -2900,7 +2920,7 @@
 
 ### Electron
 
- - [Electron Vue](https://github.com/SimulatedGREG/electron-vue) -具有vue-cli脚手架，常见Vue插件，electron-packager / electron-builder，unit / e2e测试，vue-devtools和webpack的Electron＆Vue.js快速入门样板.
+ - [Electron Vue](https://github.com/SimulatedGREG/electron-vue) -Electron＆Vue.js快速入门样板，带有vue-cli脚手架，常见的Vue插件，electron-packager / electron-builder，单元/ e2e测试，vue-devtools和Webpack.
  - [VuePack](https://github.com/egoist/vuepack) -使用Vue 2，Vuex，Vue-router和Webpack 2（甚至是Electron）的现代启动器.
  - [vue-flexible-link](https://github.com/saintplay/vue-flexible-link)  -Tiny Vue组件，用于Electron在浏览器中打开链接.  跨环境应用程序（Web和本机）的理想选择
  - [vuelectron](https://github.com/rachmanzz/vuelectron) -vue的electronicjs入门套件.
@@ -2930,7 +2950,7 @@
  - [prerender-plugin](https://github.com/mubaidr/prerender-plugin) -一个Node.js / webpack插件，用于在单页面应用程序（SPA）中预呈现静态HTML.
  - [vue-prerender](https://github.com/eldarc/vue-prerender) -一个Vue.js量身定制的插件，该插件实现了三种使用无头chrome渲染Vue.js页面的策略.
  - [Rendora](https://github.com/rendora/rendora) -使用无头Chrome的动态SSR（服务器端呈现），可轻松解决现代javascript网站的SEO问题
- - [pre-vue](https://github.com/mtlynch/pre-vue) -一个样板的Vue + Nuxt项目，它为OpenGraph标签，Google Analytics（分析），站点地图和robots.txt提供内置支持.
+ - [pre-vue](https://github.com/mtlynch/pre-vue) - A boilerplate Vue + Nuxt project that offers built-in support for OpenGraph tags, Google Analytics, a sitemap, and robots.txt.
 
 <br/>
 <br/>

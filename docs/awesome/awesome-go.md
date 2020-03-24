@@ -176,6 +176,7 @@
 * [uilive](https://github.com/gosuri/uilive) -用于实时更新终端输出的库.
 * [uiprogress](https://github.com/gosuri/uiprogress) -灵活的库，可在终端应用程序中呈现进度条.
 * [uitable](https://github.com/gosuri/uitable) -利用表格数据提高终端应用程序可读性的库.
+* [yacspin](https://github.com/theckman/yacspin) -另一个CLi Spinner软件包，用于与终端旋转器一起使用.
 
 ## Configuration
 
@@ -245,7 +246,7 @@
 * [algorithms](https://github.com/shady831213/algorithms) -算法和数据结构.CLRS研究.
 * [binpacker](https://github.com/zhuangsirui/binpacker) -二进制打包程序和解压缩程序可帮助用户构建自定义二进制流.
 * [bit](https://github.com/yourbasic/bit) -Golang设置数据结构，具有额外的位旋转功能.
-* [bitset](https://github.com/willf/bitset) -去实现位集的包.
+* [bitset](https://github.com/willf/bitset) -打包实现位集的软件包.
 * [bloom](https://github.com/zhenjl/bloom) -Go中实现的Bloom过滤器.
 * [bloom](https://github.com/yourbasic/bloom) -  Golang布隆过滤器实现.
 * [boomfilters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
@@ -314,7 +315,7 @@
 * [cockroach](https://github.com/cockroachdb/cockroach) -可扩展，地理复制，事务性数据存储.
 * [Coffer](https://github.com/claygod/coffer) -支持交易的简单ACID键值数据库.
 * [couchcache](https://github.com/codingsince1985/couchcache) -由Couchbase服务器支持的RESTful缓存微服务.
-* [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - CovenantSQL is a SQL database on blockchain.
+* [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) -CovenantSQL是区块链上的SQL数据库.
 * [Databunker](https://github.com/paranoidguy/databunker) -建立符合GDPR和CCPA的个人身份信息（PII）存储服务.
 * [dgraph](https://github.com/dgraph-io/dgraph) -可扩展，分布式，低延迟，高吞吐量图形数据库.
 * [diskv](https://github.com/peterbourgon/diskv) -本地磁盘支持的键值存储.
@@ -381,7 +382,7 @@
 * [rwdb](https://github.com/andizzle/rwdb) -rwdb为多个数据库服务器设置提供了只读副本功能.
 * [vitess](https://github.com/youtube/vitess) -vitess提供了有助于大规模数据库服务扩展MySQL数据库的服务器和工具.
 
-* SQL查询生成器，用于构建和使用SQL的库.*
+*SQL query builder, libraries for building and using SQL.*
 
 * [dbq](https://github.com/rocketlaunchr/dbq) -Go的零样本数据库操作.
 * [Dotsql](https://github.com/gchaincl/dotsql) -Go库可帮助您将sql文件保存在一个位置，并轻松使用它们.
@@ -409,7 +410,7 @@
     * [bgc](https://github.com/viant/bgc) -BigQuery的数据存储连接.
     * [firebirdsql](https://github.com/nakagami/firebirdsql) - Firebird RDBMS SQL driver for Go.
     * [go-adodb](https://github.com/mattn/go-adodb) -使用数据库/ sql的go的Microsoft ActiveX Object DataBase驱动程序.
-    * [go-mssqldb](https://github.com/denisenkom/go-mssqldb) -用于Go的Microsoft MSSQL驱动程序.
+    * [go-mssqldb](https://github.com/denisenkom/go-mssqldb) - Microsoft MSSQL driver for Go.
     * [go-oci8](https://github.com/mattn/go-oci8) -使用数据库/ sql的go的Oracle驱动程序.
     * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) -Go的MySQL驱动程序.
     * [go-sqlite3](https://github.com/mattn/go-sqlite3) -使用数据库/ sql的go SQLite3驱动程序.
@@ -566,7 +567,7 @@
 * [cel-go](https://github.com/google/cel-go) -具有渐进式输入功能的快速，便携式，非图灵完整表达评估.
 * [expr](https://github.com/antonmedv/expr) -可以评估表达式的引擎.
 * [gentee](https://github.com/gentee/gentee) -嵌入式脚本编程语言.
-* [gisp](https://github.com/jcla1/gisp) - Simple LISP in Go.
+* [gisp](https://github.com/jcla1/gisp) -Go中的简单LISP.
 * [go-duktape](https://github.com/olebedev/go-duktape) -Go的Duktape JavaScript引擎绑定.
 * [go-lua](https://github.com/Shopify/go-lua) -将Lua 5.2 VM移植到纯Go.
 * [go-php](https://github.com/deuill/go-php) -用于Go的PHP绑定.
@@ -608,7 +609,7 @@
 * [flop](https://github.com/homedepot/flop) -文件操作库，旨在与功能镜像相同 [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
 * [go-csv-tag](https://github.com/artonge/go-csv-tag) -使用标签加载csv文件.
 * [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) -复制人类文件.
-* [go-exiftool](https://github.com/barasher/go-exiftool) -对ExifTool进行绑定，该库是众所周知的库，用于从文件（图片，PDF，office等）中提取尽可能多的元数据（EXIF，IPTC等）.
+* [go-exiftool](https://github.com/barasher/go-exiftool) -对ExifTool进行绑定，该库是著名的库，用于从文件（图片，PDF，Office等）中提取尽可能多的元数据（EXIF，IPTC等）.
 * [go-gtfs](https://github.com/artonge/go-gtfs) -在go中加载gtfs文件.
 * [gut/yos](https://github.com/1set/gut) -简单可靠的文件操作包，例如文件，目录和符号链接上的复制/移动/差异/列表.
 * [notify](https://github.com/rjeczalik/notify) -具有简单API的文件系统事件通知库，类似于os / signal.
@@ -618,7 +619,7 @@
 * [skywalker](https://github.com/dixonwille/skywalker) -允许一个人同时轻松地通过文件系统的软件包.
 * [stl](https://gitlab.com/russoj88/stl)  -读取和写入STL（立体光刻）文件的模块.  并发读取算法.
 * [tarfs](https://github.com/posener/tarfs) -实施 [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) 用于tar文件.
-* [vfs](https://github.com/C2FO/vfs) -跨多种文件系统类型（例如os，S3和GCS）的Go的一组可插拔，可扩展且自觉的文件系统功能.
+* [vfs](https://github.com/C2FO/vfs) -跨多种文件系统类型（例如os，S3和GCS）的Go的一组可插拔，可扩展且自以为是的文件系统功能.
 
 ## Financial
 
@@ -1009,7 +1010,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [golongpoll](https://github.com/jcuga/golongpoll) -HTTP longpoll服务器库，使网络发布订阅变得简单.
 * [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) -gopush-cluster是go push服务器群集.
 * [gorush](https://github.com/appleboy/gorush) -推送通知服务器使用 [APNs2](https://github.com/sideshow/apns2) 和谷歌 [GCM](https://github.com/google/go-gcm).
-* [guble](https://github.com/smancke/guble) -使用推播通知（Google Firebase Cloud Messaging，Apple推播通知服务，SMS）以及websockets的REST API的消息服务器，具有分布式操作和消息持久性.
+* [guble](https://github.com/smancke/guble) -使用推播通知（Google Firebase Cloud Messaging，Apple推播通知服务，SMS）以及websockets，REST API的消息传递服务器，具有分布式操作和消息持久性.
 * [hub](https://github.com/leandro-lugaresi/hub) -用于Go应用程序的消息/事件中心，使用发布/订阅模式并支持如RabbitMQ交换之类的别名.
 * [jazz](https://github.com/socifi/jazz) -一个简单的RabbitMQ抽象层，用于队列管理以及消息的发布和使用.
 * [machinery](https://github.com/RichardKnop/machinery) -基于分布式消息传递的异步任务队列/作业队列.
@@ -1039,8 +1040,8 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 *用于Microsoft Excel的库.*
 
 * [excelize](https://github.com/360EntSecGroup-Skylar/excelize) -用于读取和写入Microsoft Excel™（XLSX）文件的Golang库.
-* [go-excel](https://github.com/szyhf/go-excel) -一个简单而轻便的阅读器，可以将类似于related-db的Excel读取为表格.
-* [goxlsxwriter](https://github.com/fterrag/goxlsxwriter) -用于编写XLSX（Microsoft Excel）文件的libxlsxwriter的Golang绑定.
+* [go-excel](https://github.com/szyhf/go-excel) -一个简单而轻便的阅读器，可以将类似于related-db的excel读取为表格.
+* [goxlsxwriter](https://github.com/fterrag/goxlsxwriter) - Golang bindings for libxlsxwriter for writing XLSX (Microsoft Excel) files.
 * [xlsx](https://github.com/tealeg/xlsx) -简化阅读Go程序中最新版本的Microsoft Excel使用的XML格式的库.
 * [xlsx](https://github.com/plandem/xlsx) -快速安全的方式来读取/更新Go程序中的现有Microsoft Excel文件.
 
@@ -1120,7 +1121,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [shellwords](https://github.com/Wing924/shellwords) -一个Golang库，用于根据UNIX Bourne shell的单词解析规则来操作字符串.
 * [shortid](https://github.com/teris-io/shortid) -分布式生成超短，唯一，非顺序，URL友好的ID.
 * [stateless](https://github.com/qmuntal/stateless) - A fluent library for creating state machines.
-* [stats](https://github.com/go-playground/stats) -监视Go MemStats和系统统计信息（例如内存，交换和CPU），并通过UDP发送到任何您想记录的地方...
+* [stats](https://github.com/go-playground/stats) -监视Go MemStats和系统统计信息（例如内存，交换和CPU），并通过UDP发送到您要记录的任何位置等.
 * [turtle](https://github.com/hackebrot/turtle) -Go表情符号.
 * [url-shortener](https://github.com/pantrif/url-shortener) -具有mysql支持的现代，强大而强大的URL缩短器微服务.
 * [VarHandler](https://github.com/azr/generators/tree/master/varhandler) -生成样板http输入和输出处理.
@@ -1228,7 +1229,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [water](https://github.com/songgao/water) -简单的TUN / TAP库.
 * [webrtc](https://github.com/pions/webrtc) -WebRTC API的纯Go实现.
 * [winrm](https://github.com/masterzen/winrm) -使用WinRM客户端在Windows计算机上远程执行命令.
-* [xtcp](https://github.com/xfxdev/xtcp) -具有同步全双工通信，安全关闭，自定义协议的TCP Server Framework.
+* [xtcp](https://github.com/xfxdev/xtcp) - TCP Server Framework with simultaneous full duplex communication,graceful shutdown,custom protocol.
 
 ### HTTP Clients
 
@@ -1330,6 +1331,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go-embed](https://github.com/pyros2097/go-embed) -生成go代码以将资源文件嵌入到您的库或可执行文件中.
 * [go-resources](https://github.com/omeid/go-resources) -嵌入Go的多余资源.
 * [go.rice](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as html,js,css,images and templates very easy.
+* [mule](https://github.com/wlbr/mule)  -将图像，电影等外部资源嵌入Go源代码中，以使用`go generate`创建单个文件二进制文件.  专注于简单性.
 * [packr](https://github.com/gobuffalo/packr) -将静态文件嵌入Go二进制文件的简单方法.
 * [statics](https://github.com/go-playground/statics) -将静态资源嵌入到go文件中以进行单个二进制编译+与http.FileSystem + symlinks一起使用.
 * [statik](https://github.com/rakyll/statik) -将静态文件嵌入Go可执行文件.
@@ -1355,7 +1357,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [gonum/plot](https://github.com/gonum/plot) -gonum / plot提供了用于在Go中构建和绘制图的API.
 * [goraph](https://github.com/gyuho/goraph) -Pure Go图论库（数据结构，算法可视化）.
 * [gosl](https://github.com/cpmech/gosl) -进入科学图书馆，了解线性代数，FFT，几何，NURBS，数值方法，概率，优化，微分方程等.
-* [GoStats](https://github.com/OGFris/GoStats) -GoStats是一个用于数学统计的开源GoLang库，主要用于机器学习领域，它涵盖了大多数统计度量功能.
+* [GoStats](https://github.com/OGFris/GoStats) -GoStats是用于数学统计的开源GoLang库，主要用于机器学习领域，它涵盖了大多数统计度量功能.
 * [graph](https://github.com/yourbasic/graph) -基本图形算法库.
 * [ode](https://github.com/ChristopherRabotin/ode) -常微分方程（ODE）求解器，支持扩展状态和基于通道的迭代停止条件.
 * [orb](https://github.com/paulmach/orb) -具有裁剪，GeoJSON和Mapbox Vector Tile支持的2D几何类型.
@@ -1379,7 +1381,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) -自动配置让我们加密证书并启动TLS服务器.
 * [BadActor](https://github.com/jaredfolkins/badactor) -基于fail2ban精神构建的内存中，应用程序驱动的狱卒.
 * [Cameradar](https://github.com/Ullaakut/cameradar) -用于从监控摄像机远程破解RTSP流的工具和库.
-* [certificates](https://github.com/mvmaasakkers/certificates) -用于生成tls证书的自带工具.
+* [certificates](https://github.com/mvmaasakkers/certificates) -用于生成tls证书的自以为是的工具.
 * [go-generate-password](https://github.com/m1/go-generate-password) -可以在cli上或用作库的密码生成器.
 * [go-yara](https://github.com/hillu/go-yara) -去绑定 [YARA](https://github.com/plusvic/yara)，“适用于恶意软件研究人员（以及其他所有人）的模式匹配瑞士刀”.
 * [goArgonPass](https://github.com/dwin/goArgonPass) -Argon2密码哈希和验证旨在与现有的Python和PHP实现兼容.
@@ -1407,7 +1409,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [cbor](https://github.com/fxamacker/cbor) -小型，安全和容易的CBOR编码和解码库.
 * [colfer](https://github.com/pascaldekloe/colfer) -Colfer二进制格式的代码生成.
 * [csvutil](https://github.com/jszwec/csvutil) -高性能，惯用的CSV记录对本地Go结构的编码和解码.
-* [elastic](https://github.com/epiclabs-io/elastic) -无论何时，都可以在运行时跨不同类型转换切片，地图或任何其他未知值. 
+* [elastic](https://github.com/epiclabs-io/elastic) -无论何时，都可以在运行时跨不同类型转换切片，地图或任何其他未知值.
 * [fixedwidth](https://github.com/huydang284/fixedwidth) -固定宽度的文本格式（支持UTF-8）.
 * [fwencoder](https://github.com/o1egl/fwencoder) -用于Go的固定宽度的文件解析器（编码和解码库）.
 * [go-capnproto](https://github.com/glycerine/go-capnproto) -Cap&#39;n Proto库和解析器.
@@ -1433,7 +1435,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Flagr](https://github.com/checkr/flagr) -Flagr是一种开源功能标记和A / B测试服务.
 * [flipt](https://github.com/markphelps/flipt) -用Go和Vue.js编写的自包含功能标志解决方案
 * [jackal](https://github.com/ortuman/jackal) -用Go语言编写的XMPP服务器.
-* [lets-proxy2](https://github.com/rekby/lets-proxy2) -通过let-encrypt反向处理带有发出证书的https的反向代理. 
+* [lets-proxy2](https://github.com/rekby/lets-proxy2) -通过let-encrypt反向处理带有发出证书的https的反向代理.
 * [minio](https://github.com/minio/minio) -Minio是分布式对象存储服务器.
 * [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) -Nginx日志解析器和Prometheus的导出器.
 * [nsq](http://nsq.io/) -实时分布式消息传递平台.
@@ -1474,7 +1476,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [quicktemplate](https://github.com/valyala/quicktemplate)  -快速，强大但易于使用的模板引擎.  将模板转换为Go代码，然后进行编译.
 * [raymond](https://github.com/aymerick/raymond) -在Go中完整的车把实现.
 * [Razor](https://github.com/sipin/gorazor) - 为Golang Razor视图引擎.
-* [Soy](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
+* [Soy](https://github.com/robfig/soy) -按照以下步骤关闭Go的关闭模板（也称为Soy模板） [official spec](https://developers.google.com/closure/templates/).
 * [velvet](https://github.com/gobuffalo/velvet) -在Go中完整的车把实现.
 
 ## Testing
@@ -1830,7 +1832,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [tome](https://github.com/cyruzin/tome) -Tome旨在对简单的RESTful API进行分页.
 * [toolbox](https://github.com/viant/toolbox)  -切片，映射，多图，结构，函数，数据转换实用程序.  服务路由器，宏评估程序，令牌生成器.
 * [ugo](https://github.com/alxrm/ugo) -ugo是带有Go简洁语法的切片工具箱.
-* [UNIS](https://github.com/esemplastic/unis) - Common Architecture™ for String Utilities in Go.
+* [UNIS](https://github.com/esemplastic/unis) -Go中字符串实用程序的Common Architecture™.
 * [usql](https://github.com/knq/usql) -usql是SQL数据库的通用命令行界面.
 * [util](https://github.com/shomali11/util)  -收集有用的实用程序功能.  （字符串，并发，操作等）.
 * [wuzz](https://github.com/asciimoo/wuzz) -用于HTTP检查的交互式cli工具.
@@ -1856,10 +1858,10 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [checkdigit](https://github.com/osamingo/checkdigit) -提供校验位算法（Luhn，Verhoeff，Damm）和计算器（ISBN，EAN，JAN，UPC等）.
 * [gody](https://github.com/guiferpa/gody) -：balloon：Go的轻量级结构验证器.
 * [govalid](https://github.com/twharmon/govalid) -快速，基于标签的结构验证.
-* [govalidator](https://github.com/asaskevich/govalidator) - Validators and sanitizers for strings, numerics, slices and structs.
+* [govalidator](https://github.com/asaskevich/govalidator) -用于字符串，数字，切片和结构的验证器和消毒器.
 * [govalidator](https://github.com/thedevsaddam/govalidator)  -使用简单的规则验证Golang请求数据.  受到Laravel请求验证的极大启发.
 * [jio](https://github.com/faceair/jio) -jio是类似于json模式验证器 [joi](https://github.com/hapijs/joi).
-* [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) -支持使用在常规代码结构中指定的可配置和可扩展验证规则（而不是struct标记）来验证各种数据类型（结构，字符串，映射，切片等）.
+* [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) -支持使用通常的代码结构中指定的可配置和可扩展验证规则（而不是struct标签）验证各种数据类型（结构，字符串，映射，切片等）.
 * [terraform-validator](https://github.com/thazelart/terraform-validator) -Terraform的规范和约定验证器.
 * [validate](https://github.com/gookit/validate)  -进行数据验证和过滤的软件包.  支持验证Map，Struct，Request（Form，JSON，url.Values，Uploaded Files）数据和更多功能.
 * [validate](https://github.com/gobuffalo/validate) -该软件包提供了用于编写Go应用程序验证的框架.
@@ -1981,7 +1983,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [goroute](https://github.com/goroute/route) -简单但功能强大的HTTP请求多路复用器.
 * [GoRouter](https://github.com/vardius/gorouter) -GoRouter是一个服务器/ API微型框架，HTTP请求路由器，多路复用器，多路复用器，为请求路由器提供支持“ net / context”的中间件.
 * [gowww/router](https://github.com/gowww/router) -快速的HTTP路由器与net / http.Handler接口完全兼容.
-* [httprouter](https://github.com/julienschmidt/httprouter)  -高性能路由器.  使用它和标准的http处理程序可以形成一个非常高性能的Web框架.
+* [httprouter](https://github.com/julienschmidt/httprouter) - High performance router. Use this and the standard http handlers to form a very high performance web framework.
 * [httptreemux](https://github.com/dimfeld/httptreemux)  -用于Go的高速，灵活的基于树的HTTP路由器.  来自httprouter的启发.
 * [lars](https://github.com/go-playground/lars) -是用于Go的轻量级，快速和可扩展的零分配HTTP路由器，用于创建可自定义的框架.
 * [mux](https://github.com/gorilla/mux) -强大的Golang URL路由器和调度程序.
@@ -2072,6 +2074,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [hasgo](https://github.com/DylanMeeus/hasgo) -为您的切片生成Haskell启发的函数.
 * [re2dfa](https://github.com/opennota/re2dfa) -将正则表达式转换成有限状态机并输出Go源代码.
 * [TOML-to-Go](https://xuri.me/toml-to-go) -在浏览器中立即将TOML转换为Go类型.
+* [xgen](https://github.com/xuri/xgen) -XSD（XML架构定义）解析器和Go / C / Java / Rust / TypeScript代码生成器.
 
 ## Go Tools
 
@@ -2144,7 +2147,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [s3gof3r](https://github.com/rlmcpherson/s3gof3r) -优化的小型实用程序/库，可用于将大型对象高速传输到Amazon S3和从Amazon S3传输出来.
 * [Scaleway-cli](https://github.com/scaleway/scaleway-cli) -从命令行管理BareMetal服务器（与Docker一样容易）.
 * [script](https://github.com/bitfield/script) -轻松在Go中为DevOps和系统管理任务编写类似shell的脚本.
-* [sg](https://github.com/ChristopherRabotin/sg) -对一组HTTP端点（例如ab）进行基准测试，并可以根据每次响应之间的先前响应，在每次调用之间使用响应代码和数据来满足特定的服务器压力.
+* [sg](https://github.com/ChristopherRabotin/sg) -对一组HTTP端点（例如ab）进行基准测试，并可以根据每次响应之间的先前响应，在每次调用之间使用响应代码和数据进行特定服务器压力测试.
 * [skm](https://github.com/TimothyYe/skm) - SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!
 * [StatusOK](https://github.com/sanathp/statusok) -监视您的网站和REST API.当服务器关闭或响应时间超出预期时，通过Slack，电子邮件获得通知.
 * [terraform-provider-openapi](https://github.com/dikhan/terraform-provider-openapi) -Terraform provider插件，它基于包含公开API定义的OpenAPI文档（以前称为swagger文件）在运行时动态进行自我配置.

@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>
-	  订阅<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">dev的每周</a>每周获得最佳策划的博客文章！
+	  <a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">每周</a>订阅<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">dev，</a>以获取<a href="https://devweekly.substack.com/p/coming-soon?r=6a2p&utm_campaign=post&utm_medium=web&utm_source=copy">每周</a>精选的最佳博客文章！
   </h2>
 </div>
 
@@ -76,7 +76,7 @@
 * Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
-* Brandwatch http://engineering.brandwatch.com/
+*品牌手表http://engineering.brandwatch.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
 #### C companies
@@ -194,6 +194,7 @@
 * Hasura https://blog.hasura.io/
 * Haus https://engineering.haus.com
 *堆https://heap.engineering/
+* Helpshift https://medium.com/helpshift-engineering/
 *在这里https://developer.here.com/blog
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
@@ -499,7 +500,7 @@
 *布兰登·罗德斯http://rhodesmill.org/brandon/
 *布伦丹·艾希（Brendan Eich）https://brendaneich.com/
 *布兰登·格雷格（Brendan Gregg）http://www.brendangregg.com/blog/
-*术士Benavides https://medium.com/@elbrujohalcon
+* Brujo Benavides https://medium.com/@elbrujohalcon
 *布莱恩·坎特里尔（Bryan Cantrill）http://dtrace.org/blogs/bmc/
 
 #### C individuals
@@ -580,6 +581,7 @@
 伊夫根·库兹米诺夫（Ievgen Kuzminov）http://stdout.in/
 * Elijah Eftimov http://ieftimov.com/
 * Ilya Grigorik https://www.igvita.com/
+* Itamar Turner结婚戒指https://codewithoutrules.com
 *伊万·乌苏尔https://ivanursul.com/
 
 #### J individuals
@@ -658,7 +660,7 @@
 * Milosz Galazka https://blog.sleeplessbeastie.eu/
 *米罗杯（Miro Cupak）https://mirocupak.com/
 *莫妮卡（Monica Dinculescu）https://meowni.ca/
-*样品松饼https://blog.monstermuffin.org/
+*怪物松饼https://blog.monstermuffin.org/
 * Mykhailo Kozik http://mishadoff.com/
 
 #### N individuals
@@ -736,6 +738,7 @@
 * Swizec柜员https://swizec.com/blog/
 
 #### T individuals
+塔尼亚·拉西亚（Tania Rascia）https://tania.dev/
 * Tero Parviainen http://teropa.info/
 * Swift中的东西https://thatthinginswift.com/
 *编码的自我http://www.thecodedself.com

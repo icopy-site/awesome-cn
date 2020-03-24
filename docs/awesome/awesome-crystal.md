@@ -244,7 +244,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Image processing
  * [libpixel.cr](https://github.com/libpixel/libpixel.cr)
- * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) -的绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口
+ * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) -的绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php), the C interface for ImageMagick processing libraries
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) -读取和写入PNG图像
 
 ## Implementations/Compilers
@@ -256,7 +256,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [LinCAS-lang](https://github.com/LinCAS-lang) -用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) -用于前端Web的令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) -一种实用，动态的语言，旨在尽可能轻松高效地进行书写和理解
- * [runic-lang](https://github.com/runic-lang) - In-design toy language
+ * [runic-lang](https://github.com/runic-lang) -设计玩具语言
 
 ## Logging and monitoring
  * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
@@ -428,7 +428,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
- * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -领事API客户端
+ * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -客户端API领事
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) -包装 [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) -包装 [Github](https://github.com/) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) -星球大战API（SWAPI）包装器
@@ -457,6 +457,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [grip](https://github.com/grip-framework/grip) -用于轻松轻松构建RESTful Web应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  -快速，超级简单的Web框架.  受Sinatra启发
  * [lucky](https://github.com/luckyframework/lucky) -尽早发现错误，忘记大多数性能问题，并花更多时间在代码上，而不是调试和编写测试
+ * [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) -基于组件的MVC Web框架，用于实现良好的代码结构，模块化和性能
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) -注重速度和可扩展性的Rails式Web框架
 
 ## Web Servers

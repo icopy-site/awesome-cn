@@ -116,6 +116,7 @@
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) -使用开源软件包和数据进行计算机辅助药物设计（CADD）的教学平台.
 * [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)％3A_Chem_4399％2F％2F5399）-罗伯特·贝尔福德（Robert Belford）的阿肯色大学小石城分校化学信息学课程（2017年春季）
 * [BigChem](http://bigchem.eu/alllectures) -的所有讲座 [BigChem](http://bigchem.eu/) （Horizo​​n 2020 MSC ITN EID项目提供了有关大型化学数据分析的创新教育.）
+* [Molecular modeling course](https://dasher.wustl.edu/chem478/) -由Dr. [Jay Ponder](https://dasher.wustl.edu/)是WashU St.Louis的教授.
 
 ### Blogs
 
@@ -134,7 +135,7 @@
 * [Macs in Chemistry](http://www.macinchem.org/) -为使用Apple Macintosh计算机的化学家提供资源.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) -的博客 [Andreas Bender](http://www.andreasbender.de/)，是剑桥大学分子信息学的读者.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) -化学信息学库的一些示例.
-* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是“协作药物发现”的研究科学家.
+* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是协作药物发现公司（Collaborative Drug Discovery）的研究科学家.
 
 ### Books
 

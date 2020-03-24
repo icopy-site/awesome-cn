@@ -47,7 +47,7 @@ Audio
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统.  包括用于Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在实现其中的大部分功能，但以一种更健壮，富有表现力，一致，反射性和脆弱的方式实现.  通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在以更健壮，更具表现力，连贯性，反射性和柔和的方式实现其中的大部分功能.  通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  -用于OpenAL音频库的绑定.  公共区域.
 * [Common Music](https://github.com/ormf/cm) -一个的存储库
 古老版本的通用音乐（2.12.0版），大概是最后一个
@@ -396,7 +396,8 @@ Iteration
   与迭代不同，它不需要代码遍历并且更容易
    延伸.  [Artistic License 2.0] [51].
 * [series](https://github.com/tokenrove/series/wiki)  -功能样式，完全没有任何运行时损失.  [MIT] [200].
-* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优势（请参阅“数据结构”部分），正如同一作者所写.  在Quicklisp中，是`misc-extensions`的一部分.  公共区域.
+* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优势（请参见“数据结构”部分），正如同一作者所写.  在Quicklisp中，是`misc-extensions`的一部分.  公共区域.
+* [doplus](https://bitbucket.org/alessiostalla/doplus/wiki/Home) –另一个可扩展的迭代库，类似于：for.
 
 
 Lambda速记
@@ -589,7 +590,7 @@ HTTP服务器
 
 ### Hunchentoot plugins
 
-* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的分派，从URL路径提取参数，修饰符，从路由名称生成URL等.[MIT] [200].
+* [easy-routes](https://github.com/mmontone/easy-routes)  -在Hunchentoot之上的路线处理系统.  它支持基于HTTP方法的调度，从url路径中提取参数，装饰器，从路由名称中生成url等.[MIT] [200].
 * [hunchentoot-cgi](https://github.com/slyrus/hunchentoot-cgi)  -用于从hunchentoot Web服务器执行CGI脚本的库.  [BSD] [207].
 * [hunchentoot-multi-acceptor](https://github.com/moderninterpreters/hunchentoot-multi-acceptor/)  -使用单个端口在单个hunchentoot接受器上路由多个域（虚拟主机）.  [Apache2.0] [89].
 
@@ -780,7 +781,7 @@ Others
 * [Petalisp](https://github.com/marcoheisig/Petalisp) -试图
   通过以下方式为并行计算机生成高性能代码
    JIT编译数组定义.  它适用于更多
-  通过提供更强大的功能，比NumPy的基本级别
+  通过提供更强大的功能，比NumPy具有更高的基本水平
   N维数组，但仅用于构建的几个构建基块
    他们.  [AGPL-3.0] [agpl3].
 * [cmu-infix](https://github.com/rigetti/cmu-infix)  -用于在Common Lisp中编写中缀数学符号的库.  也可以看看 [polisher](https://github.com/mrcdr/polisher).
@@ -876,7 +877,7 @@ Scripting
 * [shcl](https://github.com/bradleyjensen/shcl)  -Common Lisp中类似POSIX的外壳.  [Apache2.0] [51].
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)  -进度条，就像在Quicklisp中一样！  [MIT] [200].
 * [WCL](https://github.com/wadehennessey/wcl) -允许数百Lisp
-一次可实际获得应用程序，同时允许
+applications to be realistically available at once, while allowing
  其中几个要同时运行.  WCL通过以下方式完成此任务
 提供Common Lisp作为可以与以下链接的Unix共享库
  Lisp和C代码可产生高效的应用程序.  例如，
@@ -1074,7 +1075,7 @@ REPL的常见任务（打印文档，打印外部符号，
 * [mgl-pax](https://github.com/melisgl/mgl-pax) -探索性
  编程环境和文档生成器.  一个可能
 达到与Literate Programming相似的效果，但是
-documentation is generated from code, not vice versa. Code is first,
+ 文档是从代码生成的，反之亦然.  代码是第一位
  代码必须看起来很漂亮，文档就是代码.  [MIT] [200].
 * [erudite](https://github.com/mmontone/erudite)  -考虑互动开发的精巧编程系统.  [MIT] [200].
 

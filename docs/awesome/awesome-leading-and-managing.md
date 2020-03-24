@@ -9,7 +9,7 @@
 
  -“资源真棒！”  —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178)， 推特
 -“再次感谢您整合了这一巨大资源！”[Dave Golden](https://twitter.com/xdg)，MongoDB和贡献者
--“在过去的几个月中，我已经反复狩猎并使用了这种材料，并向其他人推荐了这些材料.谢谢您-它以比您想象的更多的方式产生了真正的改变！
+-“在过去的几个月中，我已经反复狩猎并使用了这种材料，并将其他材料转介给其他人.所以谢谢您-它以比您想象的更多的方式产生了真正的改变！:)”-Dave Igoe，通过Slack
 
 - [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
@@ -26,6 +26,7 @@
 - [Leadership Media](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Media.md)
 - [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
+- [Managing Remotely](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Managing-Remotely.md)
 - [Meetings and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Meetings-and-Time-Management.md)
 - [Motivation and “Retention”](https://github.com/LappleApple/awesome-leading-and-managing/blob/master//Motivation-Retention.md)
 - [Onboarding](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Onboarding.md)
@@ -40,7 +41,7 @@
  *“人们需要停止使用“天生的领导者”一词.  没有人是天生的领导者.”  — [Kate Heddleston](https://twitter.com/heddle317)
 
 ## Contribute Your Favorites
- 请将您喜欢的管理和领先资源（如书籍，文章，Twitter提要，视频等）添加到列表中，以促进他们的兴趣.  很简单：查看我们 [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) 并提出拉取请求（每项/每项一次）. 
+ 请将您喜欢的管理和领先资源（如书籍，文章，Twitter提要，视频等）添加到列表中，以促进他们的共享.  很简单：查看我们 [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) 并提出拉取请求（每项/每项一次）. 
 
 ## FAQ
 - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)

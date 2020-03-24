@@ -78,10 +78,11 @@
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs的Web组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Ink Components](https://github.com/ink-components/ink-components) -用于交互式科学写作的Web组件.
-- [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件，可在任何地方使用.
+- [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件可在任何地方使用.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
+- [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) -使用Web组件进行突变测试结果的方案，以使其可视化.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -在本地API之上的企业风味糖！
 - [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) -用于创建使用Webview API的VSCode扩展的组件.
 - [Weightless](https://github.com/andreasbm/weightless) -占地面积小的高质量Web组件.
@@ -144,7 +145,7 @@
 **使用CDN的注意事项**
 
 1. lit-html指令 [might not work](https://github.com/Polymer/lit-element/issues/603#issuecomment-501528498) 使用Pika CDN时使用LitElement.
-2.参见 [this issue](https://github.com/Polymer/lit-element/issues/603) 讨论了CDN分发的静态构建.
+2. See [this issue](https://github.com/Polymer/lit-element/issues/603) 讨论了CDN分发的静态构建.
 
 ## Static Site Generators
 
@@ -218,7 +219,7 @@
 模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法突出显示.
 
 - [htm](https://github.com/developit/htm) -超标标记的标记：使用标准标记模板的JSX替代品，并具有编译器支持.
-- [hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
+- [hybrids](https://github.com/hybridsjs/hybrids) -用于使用简单实用的API创建Web组件的UI库.
 - [lit-ntml](https://github.com/motss/lit-ntml) -受lit-html启发，在Node.js中实现了SSR的轻量级现代模板.
 - [lite-html](https://github.com/ruphin/lite-html) -VirtualDOM渲染引擎的现代替代品.
 - [modulor-html](https://github.com/modulor-js/modulor-html) -Web组件缺少模板引擎.
