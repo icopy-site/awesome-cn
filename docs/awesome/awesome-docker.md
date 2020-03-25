@@ -122,7 +122,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Centurion](https://github.com/newrelic/centurion)  -Centurion是适用于Docker舰队的大规模部署工具.  它从Docker注册表中获取容器，并在具有正确环境变量，主机卷映射和端口映射的主机群中运行它们.  通过 [@newrelic](https://github.com/newrelic)
 - [Clocker](https://github.com/brooklyncentral/clocker)  -Clocker创建和管理Docker云基础架构.  Clocker支持多节点应用程序的单击部署和运行时管理，这些应用程序作为在多个主机上分布在Docker和Marathon上的容器运行.  它利用[Calico] [calico]和[Weave] [weave]进行联网和 [Brooklyn](https://brooklyn.apache.org/)  用于应用程序蓝图.  通过 [@brooklyncentral](https://github.com/brooklyncentral)
 - [Conduit](https://github.com/ehazlett/conduit) -Docker的实验性部署系统，作者： [@ehazlett](https://github.com/ehazlett)
-- [depcon](https://github.com/ContainX/depcon)  -Depcon用Go语言编写，可让您轻松地将Docker容器部署到Apache Mesos / Marathon，Amazon ECS和Kubernetes.  由[@ContainX] [containx]
+- [depcon](https://github.com/ContainX/depcon) - Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes. By [@ContainX][containx]
 - [deploy](https://github.com/ttiny/deploy)  ：skull：-Git和Docker部署工具.  简单的Docker组合工具与完整的集群编排之间的中间立场 [@ttiny](https://github.com/ttiny)
 - [dockit](https://github.com/humblec/dockit)  ：skull：-做docker操作并部署gluster容器！  通过 [@humblec](https://github.com/humblec)
 - [gitkube](https://github.com/hasura/gitkube)  -Gitkube是使用`git push`在Kubernetes上构建和部署docker镜像的工具.  通过 [@Hasura](https://github.com/hasura/).
@@ -132,7 +132,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Monitoring
 
-- [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将性能计数器，配置更改和生命周期事件从Docker引擎流式传输到Axibase时间序列数据库中，以汇总仪表盘并与上游监控系统集成.
+- [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将来自Docker引擎的性能计数器，配置更改和生命周期事件流式传输到Axibase时间序列数据库中，以用于汇总仪表板并与上游监控系统集成.
 - [cAdvisor](https://github.com/google/cadvisor)  -分析正在运行的容器的资源使用情况和性能特征.  由[@Google] [google]创建
 - [dockprom](https://github.com/stefanprodan/dockprom) -通过Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager监控Docker主机和容器 [@stefanprodan](https://github.com/stefanprodan)
 - [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) -根据Docker容器资源的使用情况/统计信息监视和发送警报
@@ -148,7 +148,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Logspout](https://github.com/gliderlabs/logspout) -[@gliderlabs] [gliderlabs]进行Docker容器日志的日志路由
 - [monit-docker](https://github.com/decryptus/monit-docker)  -监视Docker容器资源使用情况或状态并执行Docker命令或在容器内部.  [@decryptus] [decryptus]
 - [NexClipper](https://github.com/NexClipper/NexClipper) -NexClipper是专门用于Docker，Apache Mesos，Marathon，DC / OS，Mesosphere和Kubernetes的容器监视和性能管理解决方案 [@Nexclipper](https://github.com/NexClipper)
-- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  -使用cAdvisor，Prometheus，Grafana进行监视，Elasticsearch，Kibana和Logstash进行日志记录以及使用elastalert和Alertmanager进行警报，开箱即用地监控Docker主机和容器，进行日志记录和警报.  设置5分钟.  内置的[自动Nginx反向代理（jwilder）] [nginxproxy]用于生产的安全模式.
+- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  -使用cAdvisor，Prometheus，Grafana进行监视，Elasticsearch，Kibana和Logstash进行日志记录以及使用elastalert和Alertmanager进行警报，开箱即用地进行Docker主机和容器监视，日志记录和警报.  设置5分钟.  内置的[自动Nginx反向代理（jwilder）] [nginxproxy]用于生产的安全模式.
 - [SwarmAlert](https://github.com/gpulido/SwarmAlert) -监视Docker Swarm并在发现没有运行正常服务任务的容器时发送Pushover警报.
 - [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)  -Zabbix模块，提供发现运行中的容器，CPU /内存/ blk IO /网络容器指标的信息.  还支持系统化Docker和LXC执行驱动程序.  它是一个动态链接的共享对象库，因此其性能比任何脚本解决方案都要好（〜10倍）.
 - [Zabbix Docker](https://github.com/gomex/docker-zabbix) -使用zabbix LLD功能自动监视容器.
@@ -231,7 +231,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Phonito Security](https://phonito.io/?b=b) ：heavy_dollar_sign：-一个Docker漏洞扫描器，具有持续的Kubernetes监视和管道集成.
 - [Sysdig Falco](https://github.com/falcosecurity/falco)  -Sysdig Falco是一个开源容器安全监视器.  它可以监视应用程序，容器，主机和网络活动，并在发生未经授权的活动时发出警报.
 - [Sysdig Secure](https://sysdig.com/products/kubernetes-security/runtime-security/) ：heavy_dollar_sign：-Sysdig Secure通过行为监视和防御解决运行时安全问题，并基于开源Sysdig提供深度的取证，以进行事件响应.
-- [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) ：heavy_dollar_sign：-趋势科技趋势科技服务器深度安全防护系统可为容器工作负载和主机提供运行时保护，并提供映像的运行前扫描，以识别漏洞，恶意软件和诸如硬编码机密之类的内容.
+- [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) ：heavy_dollar_sign：-趋势科技趋势科技服务器深度安全防护系统可为容器工作负载和主机提供运行时保护，以及对图像进行预运行时扫描，以识别漏洞，恶意软件和诸如硬编码机密之类的内容.
 - [Twistlock](https://www.twistlock.com/) ：heavy_dollar_sign：-Twistlock Security Suite在应用程序的整个生命周期中检测漏洞，强化容器映像并实施安全策略.
 
 ### Service Discovery
@@ -493,7 +493,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dobi](https://github.com/dnephin/dobi)  -用于Docker应用程序的构建自动化工具.  通过 [@dnephin](https://github.com/dnephin)
 - [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)  -生成管理是与pip一起安装的python应用程序.  通过配置单个yaml文件来描述如何构建，测试，运行或发布容器化解决方案，该应用程序使基于Docker的构建系统管理变得容易.
 - [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)  -一组bash命令，用于简化典型的docker dev-ops.  在代码存储库中创建典型的帮助程序脚本（例如“ build.sh”和“ deploy.sh”）的替代方法.  通过 [@NandoQuintana](https://github.com/nandoquintana).
-- [Docker osx dev](https://github.com/brikis98/docker-osx-dev) ：skull：-在OS X上使用Docker的高效开发环境 [@brikis98](https://github.com/brikis98)
+- [Docker osx dev](https://github.com/brikis98/docker-osx-dev) ：skull：-在OS X上使用Docker的高效开发环境，作者： [@brikis98](https://github.com/brikis98)
 - [Docker-Arch](https://github.com/Ph3nol/Docker-Arch)  -从1个简单的YAML文件生成Web / CLI项目Dockerized开发环境.  通过 [@Ph3nol](https://github.com/ph3nol)
 - [Docker-sync](https://github.com/EugenMayer/docker-sync) -大大提高了性能（[50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ），当在Mac OS X / Windows和Linux上使用Docker进行开发时，同时将代码共享给容器.  通过 [@EugenMayer](https://github.com/EugenMayer)
 - [docker-vm](https://github.com/shyiko/docker-vm) -通过boot2docker（由Vagrant支持）的简单透明的替代方法 [@shyiko](https://github.com/shyiko)
@@ -555,7 +555,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### CI Services
 
 - [CircleCI](https://circleci.com/) ：heavy_dollar_sign：-从构建环境中推送或拉取Docker映像，或者直接在CircleCI上构建并运行容器.
-- [CodeFresh](https://codefresh.io) :heavy_dollar_sign: - Everything you need to build, test, and share your Docker applications. Provides automated end to end testing.
+- [CodeFresh](https://codefresh.io)  ：heavy_dollar_sign：-构建，测试和共享Docker应用程序所需的一切.  提供自动化的端到端测试.
 - [CodeShip](https://cms.codeship.com/features/pro) ：heavy_dollar_sign：-使用已建立的Docker工作流程，同时使用专用于速度和安全性的托管平台自动执行测试和部署任务.
 - [ConcourseCI](https://concourse-ci.org) ：heavy_dollar_sign：-针对开发人员和DevOps团队面向管道的CI SaaS平台.
 - [Semaphore CI](https://semaphoreci.com/) ：heavy_dollar_sign：—一种高性能的云解决方案，可轻松构建，测试和运送容器以进行生产.
@@ -616,6 +616,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ## Demos and Examples
 
 - [Webstack-micro](https://github.com/ferbs/webstack-micro) 该演示Web应用程序展示了如何使用Docker Compose来将API网关，集中式身份验证，后台工作程序和WebSockets设置为容器化服务.
+- [An Annotated Docker Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-docker-config-for-frontend-web-development) 借助Docker的本地开发环境，您可以将项目所需的devop打包为config，从而使入职过程变得顺畅无阻.
 
 
 ## Good Tips
@@ -725,7 +726,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [progrium]：https://github.com/progrium
 [ramitsurana]：https://github.com/ramitsurana
 [牧场主]：https://github.com/rancher
-[sindresorhus]：https://github.com/sindresorhus/awesome
+[注意resorhouse]：https://github.com/sindresorhus/awesome
 [spotify]：https：//github.com/spotify
 [vegasbrianc]：https://github.com/vegasbrianc
 [编织]：https://github.com/weaveworks/weave

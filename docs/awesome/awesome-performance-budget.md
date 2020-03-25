@@ -5,6 +5,7 @@
 
 
 
+
 ## Why We need Performance Budget
 
 - [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) -Addyosmani的绩效预算.
@@ -71,6 +72,9 @@
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) -改善《电讯报》的第三方网络性能.
 - [Uber Eats - Performance Improvements](https://eng.uber.com/uber-eats-com-web-app-rewrite/) -计算卡路里：我们如何改善UberEats.com的性能和开发人员体验.
 - [Analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) -改善沃尔玛产品页面的性能.
+
+## Contribution
+ 随时添加一个很棒的列表.  请阅读 [contribution guidelines](https://github.com/pajaydev/awesome-performance-budget/blob/master/CONTRIBUTING.md) 接着 [open a pull request](https://github.com/pajaydev/awesome-web-performance-budget/issues/new)! 
 
 ## License
 

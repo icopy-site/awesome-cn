@@ -536,7 +536,7 @@
 - [vuejs-extension-pack vscode](https://github.com/mubaidr/vuejs-extension-pack) -具有流行的VS Code扩展的packf或vscode扩展，用于Vue.js开发.
 - [Wiki.js](https://github.com/Requarks/wiki) -基于NodeJS，Git和Markdown构建的现代，轻便且功能强大的Wiki应用程序
 - [vue-pwa-speech](https://github.com/aofdev/vue-pwa-speech) -在Vue2 + Vuetify + Progressive Web App上使用Google Cloud Speech进行文本语音演讲
-- [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
+- [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) -进行流式语音识别可在Progressive Web App上使用Google Cloud Speech + socket.io实时生成语音到文本
 - [My Animation List](https://github.com/limichange/my-animation-list) -轻松获取CSS动画代码的工具
 - [vue-input-streaming](https://github.com/aofdev/vue-input-streaming) -使用Pusher进行TextInput流实时传输和双向数据绑定广播
 - [TidyTab](https://github.com/eggplanetio/tidytab) -Chrome扩展程序，用于整理这些标签.
@@ -1091,6 +1091,7 @@
 - [vue-modality](https://github.com/ovictorpereira/vue-modality) -一个非常好的Vue.js模式组件
 - [vue-tinybox](https://github.com/NickKaramoff/vue-tinybox)  -一个很小的（压缩后只有2.5 KB）和光滑的灯箱画廊.  针对台式机和移动设备进行了优化.
 - [vue-accessible-modal](https://github.com/andrewvasilchuk/vue-accessible-modal) -组件上的Vue.js可访问模式包装器.
+- [vuetify-dialog](https://github.com/yariksav/vuetify-dialog) -易于使用Vuetify的对话框.
 
 ### Parallax
 
@@ -1303,7 +1304,7 @@
  - [v-playback](https://github.com/TerryZ/v-playback) -一个Vue2插件，使视频播放更加轻松.
  - [vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder)  -Vue.js的录音机.  它允许在服务器上创建，播放，下载和存储记录
  - [vue-video-section](https://github.com/johndatserakis/vue-video-section)  -Vue的简单视频标题/部分组件.  适用于视频背景并在其上叠加内容.
- - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) -使用画布波形音频播放器waveurfer组件包含Vue 2.x的时间线条线
+ - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) -It is use canvas waveform audio player wavesurfer component  contains timeline bar line for Vue 2.x
  - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) -以不同的分辨率在后台播放自己的视频.
  - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) -适用于Vue的简单h5音乐控制器.
  - [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) -轻巧且可自定义的Vue 2.x音频播放器，支持HTMLAudioElement.
@@ -1325,7 +1326,6 @@
 
 ### Pull-to-refresh
  - [vue-pull-refresh](https://github.com/lakb248/vue-pull-refresh) -刷新Vue.js 2.0的组件.
- - [vue-pull-to](https://github.com/stackjie/vue-pull-to) -下拉刷新和上载为Vue.js组件加载了更多内容并无限滚动.
  - [vue-data-loading](https://github.com/bedlate/vue-data-loading) -用于无限滚动和向下/向上加载数据的另一个组件.
  - [vue-quick-loadmore](https://github.com/duyanpeng/vue-quick-loadmore) -Vue的下拉刷新和上拉无限滚动插件.
 

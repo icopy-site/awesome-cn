@@ -35,11 +35,11 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
+-  [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) -用于C ++和Unity的C ++和Unity SDK（可通过Unity软件包管理器使用Firebase Unity SDK）.
+-  [Firebase for Games](https://firebase.google.com/games) -新的Firebase游戏登陆页面，其中包含指向游戏开发者的Firebase / Google资源的链接.
 -  [asdf-firebase](https://github.com/jthegedus/asdf-firebase) -一个 [asdf-vm](https://asdf-vm.com/)  firebase-tools的插件.  在没有Node.js或`npm`的情况下管理您的Firebase CLI！  非常适合python，golang，c ++和java Firebase项目.
 -  [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/)  -存储在远程配置中的CSS的动态/有条件加载.  （[Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
--  [Firecoil](https://github.com/rosariopfernandes/firecoil) -使用图片加载库Coil在您的Android应用中从GCS加载图片.
 -  [Firebase Extensions](https://firebase.google.com/products/extensions) -Firebase Extensions为您的应用程序提供了扩展功能，而无需自己研究，编写或调试代码.
--  [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) -将应用的预发布版本分发给您值得信赖的测试人员.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -52,7 +52,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 -  [React Fire](https://github.com/FirebaseExtended/reactfire) -带有钩子，上下文提供程序和组件的官方Firebase React库，可轻松与Firebase进行交互.
 -  [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) -用于Firebase服务的React Hooks.
--  [Firebase UI](https://github.com/firebase/firebaseui-web) -FirebaseUI是用于Web的开源JavaScript库，它在Firebase SDK之上提供了简单的，可自定义的UI绑定，以消除样板代码并推广最佳实践.
+-  [Firebase UI](https://github.com/firebase/firebaseui-web) -FirebaseUI是用于Web的开源JavaScript库，它在Firebase SDK的基础上提供了简单，可自定义的UI绑定，以消除样板代码并推广最佳实践.
 -  [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) -用于FirebaseUI Web的React Wrapper.
 -  [GeoFire for JavaScript](https://github.com/firebase/geofire-js) -使用Firebase进行实时位置查询.
 -  [FirePad](https://github.com/FirebaseExtended/firepad) -由Firebase提供支持的协作文本编辑器.
@@ -80,15 +80,17 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [React Native Firebase](https://github.com/invertase/react-native-firebase)  -经过测试的功能丰富的模块化Firebase实施，用于React Native.  同时支持iOS和Android平台.
 -  [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
   用于Firebase Cloud Messaging和本地通知的React Native模块.
--  [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) -用于Firestore，通知，分析，存储，消息传递，数据库的本地Firebase Expo应用（iOS，Android）演示.
+-  [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) -用于Firestore，通知，分析，存储，消息传递和数据库的本地Firebase Expo应用程序（iOS，Android）演示.
 -  [Flutter Calendar App](https://github.com/mattgraham1/FlutterCalendar) -
   新的Flutter应用程序实现了一个简单的移动日历应用程序，用于将基本事件存储到Firebase云数据库中.
+-  [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) -将应用的预发布版本分发给您值得信赖的测试人员.
 
 ### Android
 
 -  [GeoFire for Java](https://github.com/firebase/geofire-java) -使用Firebase进行实时位置查询.
 -  [Firebase UI](https://github.com/firebase/firebaseui-android) -为Firebase优化的UI组件.
 -  [FireXtensions](https://github.com/rosariopfernandes/firextensions) -Firebase Android SDK的非官方Kotlin扩展.
+-  [Firecoil](https://github.com/rosariopfernandes/firecoil) -使用图片加载库Coil在您的Android应用中从GCS加载图片.
 
 ### iOS
 
@@ -131,7 +133,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Unity Solutions](https://github.com/FirebaseExtended/unity-solutions) -使用Firebase工具将常见功能整合到您的游戏中.
 -  [Firebase AIR Native Extension](https://github.com/myflashlab/Firebase-ANE) -Firebase ANE集合使您可以使用100％相同的ActionScript API访问Android和iOS支持的AdobeAir项目中的Google Firebase项目.
 -  [QtFirebase](https://github.com/Larpon/QtFirebase) -努力将Google的Firebase C ++ API引入Qt + QML.
--  [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (online code editor) to Firebase Hosting static deployments.
+-  [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) -StackBlitz（在线代码编辑器）到Firebase Hosting静态部署.
 -  [Flamelink](https://flamelink.io/)  -CMS for Firebase.  支持Firestore，RealtimeDatabase和存储.
 -  [Canner CMS](https://github.com/Canner/canner) -支持开发人员支持数据源（例如Firebase / Firestore，GraphQL和Restful API）的CMS.
 -  [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) -所有Firebase Summit 2018演讲.
@@ -148,7 +150,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ### Official
 
-📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)  [Firebase Blog](https://firebase.googleblog.com/)  [@firebase](https://twitter.com/firebase)  [@bestoffirebase](https://twitter.com/bestoffirebase)  [Firebase Facebook](https://www.facebook.com/Firebase)
+📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)  [Firebase Blog](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase)  [Firebase Facebook](https://www.facebook.com/Firebase)
 
 ### Community
 

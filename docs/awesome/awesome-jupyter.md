@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选清单 [Jupyter](http://jupyter.org)  项目，图书馆和资源.  Jupyter是一个开放源代码的Web应用程序，允许您创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
+精选清单 [Jupyter](http://jupyter.org)  项目，图书馆和资源.  Jupyter是一个开源Web应用程序，它使您可以创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -23,7 +23,7 @@
 - [Hydrogen](https://github.com/nteract/hydrogen) -使用Jupyter内核在Atom中内联运行代码.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) -主要的Jupyter笔记本运行时.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) -Jupyter的多用户服务器.
-- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab) -JupyterLab是Jupyter的下一代用户界面.
 - [JupyterWith](https://github.com/tweag/jupyterWith) -基于Nix的框架，用于定义声明性和可复制的Jupyter环境.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) -单元魔术，用于浏览器通知单元完成.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) -Kaggle Python docker映像，其中包含数据集和软件包.
@@ -66,7 +66,7 @@
 - [tqdm](https://github.com/tqdm/tqdm) -快速，可扩展的进度条，用于循环和可迭代.
 - [xleaflet](https://github.com/QuantStack/xleaflet) -ipyleaflet的C ++后端.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) -ipywebrtc的C ++后端.
-- [xwidgets](https://github.com/QuantStack/xwidgets) -ipywidgets的C ++后端.
+- [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
 
 ## Rendering/Publishing/Conversion
 
@@ -82,7 +82,7 @@
 - [pynb](https://github.com/minodes/pynb) -Jupyter Notebooks是带有嵌入式Markdown文本的纯Python代码.
 - [RISE](https://github.com/damianavila/RISE) -Reveal.js Jupyter / IPython幻灯片.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) -将独立的reStructuredText文件转换为Jupyter笔记本文件.
-- [Voila](https://github.com/QuantStack/voila) -使用交互式小部件渲染实时Jupyter Notebook，允许基于Jupyter Notebook进行仪表板显示
+- [Voila](https://github.com/QuantStack/voila) -使用交互式小部件渲染实时Jupyter笔记本，允许基于Jupyter笔记本进行仪表板
 
 ## Version Control
 
@@ -101,7 +101,7 @@
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) -在JupyterLab内部通过电子邮件发送笔记本及其内容.
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) -扩展了将笔记本发布到 [Kyso](https://kyso.io) Jupyterlab开发的平台.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) -扩展功能，可实时编辑LaTeX文档.
-- [lsp](https://github.com/krassowski/jupyterlab-lsp) -类似于IDE的功能（代码导航，悬停建议，linter，诊断，无内核自动完成等）
+- [lsp](https://github.com/krassowski/jupyterlab-lsp) -类似IDE的功能（代码导航，悬停建议，短绒，诊断，无内核自动完成等）
 - [nb_black](https://github.com/dnanhkhoa/nb_black) -扩展以保持Python代码使用自动格式化 [black](https://github.com/psf/black).
 - [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) -在JupyterLab中探索CPython字节码.
 - [quickopen](https://github.com/parente/jupyterlab-quickopen) -通过输入文件名的一部分在JupyterLab中快速打开文件.
@@ -142,7 +142,8 @@
 - [DataScience.com](https://www.datascience.com) -企业数据科学平台.
 - [Deepnote](https://www.deepnote.com) -与Jupyter兼容的数据科学笔记本，具有实时协作，版本控制和易于部署的功能.
 - [Domino Data Lab](https://www.dominodatalab.com) -具有集成协作工具，环境管理和计算网格的数据科学平台.
-- [Google Cloud Datalab](https://cloud.google.com/datalab/) -与Google Cloud堆栈集成的笔记本平台.
+- [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) -在Google Cloud Platform上配置了支持GPU的机器学习框架的托管JupyterLab笔记本实例.
+- [Google Cloud Dataproc Jupyter component](https://cloud.google.com/dataproc/docs/concepts/components/jupyter) -使用Google Cloud Dataproc用于Apache Spark的Jupyter和JupyterLab.
 - [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) -基于云的Jupyter环境，旨在进行机器学习教育和研究.
 - [Gryd](https://gryd.us) -简单，可管理，随时可用的基于云的Jupyter笔记本，支持多种语言.
 - [Kyso](https://kyso.io) -数据科学平台，用于将Jupyter笔记本发布和共享为数据博客和Web应用程序.
@@ -175,6 +176,7 @@
 - [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/) -涵盖科学计算的笔记本集合.
 - [Gallery of Jupyter notebooks I](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 - [Gallery of Jupyter notebooks II](http://nb.bianp.net/sort/views/)
+- [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) -文章和 [video](https://www.youtube.com/watch?v=K4QN27IKr0g) 从笔记本电脑发展出一种简洁的软件架构.
 - [Install and run a Jupyter notebook in a Google Cloud Dataproc cluster](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
 - [Interactive Web Plotting with Bokeh](https://github.com/bokeh/bokeh-notebooks)
 - [JupyterLab - Your Personal Data Science Workbench](https://github.com/markusschanta/talks/tree/master/2018-03%20-%20JupyterLab%20-%20Full%20Stack%20Quants) -在Full Stack Quants伦敦谈论JupyterLab.

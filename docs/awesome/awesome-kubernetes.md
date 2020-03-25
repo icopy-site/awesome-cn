@@ -485,6 +485,7 @@ Projects
 * [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) -代理，可让webhook访问防火墙后的运行服务
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) -监视入口端点并在配置的正常运行时间检查器上自动注册活动警报
+* [k8s-label-rules-webhook](https://github.com/circa10a/k8s-label-rules-webhook) -准入网络挂钩，以强制执行在您的k8s集群中创建的资源标签的标准
 * [kmachine](https://github.com/skippbox/kmachine)
 * [KEDA](https://github.com/kedacore/keda) -基于Kubernetes的事件驱动自动缩放
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) -K8S插件，用于直接在集群工作程序节点上创建和管理容器映像的缓存
@@ -492,7 +493,7 @@ Projects
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Kubefwd](https://github.com/txn2/kubefwd) -批量端口转发Kubernetes服务以进行本地开发.
-* [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
+* [Kubernetes Cluster Federation (previously Ubernetes)](https://github.com/kubernetes-sigs/kubefed)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Reloader](https://github.com/stakater/Reloader) -将ConfigMap和Secrets的更新自动加载到用于部署，StatefulSet和DaemonSet的容器​​中
@@ -835,7 +836,7 @@ Projects
 * [Kubesec.io](http://kubesec.io/)
 * [Pomerium](http://www.pomerium.io/) -受BeyondCorp启发的零信任身份识别访问代理.
 * [Rakkess](https://github.com/corneliusweig/rakkess) -Kubectl插件，显示所有可用资源的访问矩阵.
-* [Sysdig Falco](http://www.sysdig.org/falco/)
+* [Sysdig Falco](https://sysdig.com/opensource/falco/)
 * [Sysdig Secure](http://www.sysdig.com/product/secure)
 * [Tigera Secure Cloud Edition](https://www.tigera.io/tigera-secure-ce/)
 * [Tigera Secure Enterprise Edition](https://www.tigera.io/tigera-secure-ee/)

@@ -48,7 +48,7 @@ Projects with over 500 stargazers are in bold.
 * [Relate ★ 110 ⧗ 7](https://github.com/lucidsoftware/relate) -用于Scala的轻量级，快速的数据库访问层，可抽象化JDBC的特性，同时保持对SQL的完全控制.
 * [Salat ★ 490 ⧗ 9](https://github.com/salat/salat/)  -MongoDB的ORM.  也可以使用相关的Play插件.
 * [Scala ActiveRecord ★ 297 ⧗ 3](https://github.com/aselab/scala-activerecord) -用于Scala的ORM库，受Ruby on Rails的ActiveRecord启发.
-* [Scala-Forklift ★ 91 ⧗ 1](https://github.com/lastland/scala-forklift) -Slick，Git等的类型安全数据库迁移
+* [Scala-Forklift ★ 91 ⧗ 1](https://github.com/lastland/scala-forklift) - Type-safe database migration for Slick, Git, etc.
 * **[scala-redis ★ 739 ⧗ 1](https://github.com/debasishg/scala-redis)**-用于连接到Redis服务器的Scala库，具有集群支持
 * [scala-sql ★ 14 ⧗ 34](https://github.com/wangzaixiang/scala-sql) -另一个基于SQL的Scala语言数据库访问库
 * [ScalaRelational ★ 51 ⧗ 1](https://github.com/outr/scalarelational) -用于定义，修改和查询SQL数据库的类型安全框架.
@@ -63,6 +63,7 @@ Projects with over 500 stargazers are in bold.
 * [Sangria](https://sangria-graphql.org/) -Scala GraphQL实现
 * [Scruid ★ 48](https://github.com/ing-bank/scruid) -Scruid（Scala + Druid）是一个开放源代码库，可让您在Scala中轻松编写Druid查询.
 * [Tepkin ★ 86 ⧗ 251](https://github.com/fehmicansaglam/tepkin) -基于Akka IO和Akka Streams的Scala Reactive MongoDB驱动程序.
+* [akka-persistence-gcp-datastore](https://github.com/innFactory/akka-persistence-gcp-datastore) -akka-persistence-gcp-datastore是日记和快照存储插件，用于使用Google Cloud Datastore的akka​​-persistence.
 
 ## Messaging
 
@@ -352,7 +353,7 @@ Projects with over 500 stargazers are in bold.
 * [Eff ★ 220 ⧗ 6](https://github.com/atnos-org/eff) -可扩展效果是monad变形器的替代方案，用于以功能方式计算效果.
 * [enableIf.scala ★ 40 ⧗ 25](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
 * [Enumeratum ★ 374 ⧗ 0](https://github.com/lloydmeta/enumeratum)  -用密封的案例对象族替换Scala枚举的宏.  这允许对编译器进行其他检查，例如在match语句中是否缺少大小写.  对Json库和Play框架具有附加支持.
-* [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) -使用具有一流Intellij支持的Scala宏轻松创建Cats和Scalaz免费Monad的简便方法.
+* [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) -使用具有一流Intellij支持的Scala宏轻松地为Cats和Scalaz创建免费Monad.
 * [Freedsl ★ 25 ⧗ 5](https://github.com/ISCPIF/freedsl) -实现可组合副作用的库，在包装类型和自由monad上编织类型类.
 * [Freestyle ★ 430 ⧗ 0](https://github.com/frees-io/freestyle) -以FP为中心的Scala库的内聚和实用框架.
 * [Hamsters ★ 216 ⧗ 0](https://github.com/scala-hamsters/hamsters)  -迷你Scala实用程序库.  与功能编程初学者兼容.  具有验证功能，monad转换器，HLists和Union类型.
@@ -602,7 +603,7 @@ Projects with over 500 stargazers are in bold.
 
 ## JavaScript
 
-*JavaScript generation and interop libraries.*
+* JavaScript生成和互操作库.*
 
 * [scala-js-fiddle](http://www.scala-js-fiddle.com/) ([repo](https://github.com/lihaoyi/scala-js-fiddle)）-基于浏览器的Scala.js游乐场
 * [Scala.js](http://www.scala-js.org/) ([repo](https://github.com/scala-js/scala-js)）-Scala到JavaScript编译器

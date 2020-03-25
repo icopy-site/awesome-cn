@@ -23,6 +23,7 @@
 
 * [Jumper](https://github.com/Yonaba/Jumper) -基于网格的寻路库
 * [Lua-star](https://github.com/wesleywerner/lua-star) -简单而纯粹的Lua A *路径查找
+* [astar](https://github.com/xiejiangzhi/astar)  -其他A *库.  任何地图（网格，点，网格或无限地图）和支持路径成本.
 
 ## Animation
 *动画和帧管理库*

@@ -22,6 +22,7 @@
 - [rescue-box](https://github.com/joshghent/rescue-box) -更新固定要点，以包含RescueTime的每日生产率统计信息.
 - [neko-box](https://github.com/RangerDigital/neko-box) -更新固定要点，以包含来自AniList的最新活动.
 - [douban-box](https://github.com/CodeDaraW/douban-box) -更新固定要点，以包含有关豆瓣网有关书籍/电影/音乐的最新用户状态.
+- [todoist-box](https://github.com/yohix/todoist-box) -更新固定的要点，以包含您的Todoist统计信息.
 
 ## GitHub
 
@@ -41,7 +42,7 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 在法律允许的范围内， [Matan Kushner](https://github.com/matchai) 放弃了所有版权，并且
 相关或邻接权.

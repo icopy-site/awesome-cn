@@ -16,7 +16,7 @@
 
 *回购0100+星：：fire：
 *回购0200+颗星：：fire :: fire：
-*回购0500+星：：fire :: fire :: fire：
+*回购0500+颗星：：fire :: fire :: fire：
 *回购1000颗以上的星星：：fire :: fire :: fire :: fire：
 *带2000颗以上星星的仓库：：fire :: fire :: fire :: fire :: fire：
 
@@ -398,7 +398,7 @@ AWS Repos：
 * [aws-codepipeline-plugin-for-jenkins](https://github.com/awslabs/aws-codepipeline-plugin-for-jenkins) -Jenkins插件.
 * [aws-codepipeline-s3-aws-codedeploy_linux](https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux) -适用于Linux的简单管道.
 * [AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows](https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows) -Windows的四阶段管道.
-* [AWSCodePipeline-S3-AWSCodeDeploy_Windows](https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows) -Windows的简单管道.
+* [AWSCodePipeline-S3-AWSCodeDeploy_Windows](https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows) - Simple pipeline for Windows.
 
 社区回购：
 
@@ -804,7 +804,7 @@ AWS Repos：
 
 社区回购：
 
-* [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
+* [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:](https://github.com/donnemartin/data-science-ipython-notebooks) -大数据/数据科学笔记本.
 * [everpeace/vagrant-mesos :fire::fire:](https://github.com/everpeace/vagrant-mesos) -使用Vagrant启动您的Mesos群集.
 * [jhorey/ferry :fire::fire:](https://github.com/jhorey/ferry) -使用Docker定义，运行和部署大数据应用程序.
 * [nathanmarz/storm-deploy :fire::fire::fire:](https://github.com/nathanmarz/storm-deploy) -一键部署Storm集群.
@@ -840,7 +840,7 @@ AWS Repos：
 * [Netflix/security_monkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) -监视策略更改并针对不安全的配置发出警报.
 * [RiotGames/cloud-inquisitor :fire::fire:](https://github.com/RiotGames/cloud-inquisitor) -实施所有权和数据安全性的工具.
 * [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) -在云端启动私有VPN服务器.
-* [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
+* [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) -在EC2和其他云服务上设置个人IPSEC VPN.
 * [ttlequals0/autovpn :fire::fire::fire::fire:](https://github.com/ttlequals0/autovpn) -创建按需一次性OpenVPN端点.
 
 ### Accompanying Repos
@@ -864,7 +864,6 @@ AWS Repos：
 * [reinvent2014-scalable-site-management](https://github.com/awslabs/reinvent2014-scalable-site-management) -来自re：Invent 2014的可扩展站点管理示例.
 * [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) -re：Invent 2015中的大规模指标分析.
 * [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) -2015年re：Invent 2015的安全分析样本.
-* [todo-app-railsconf](https://github.com/awslabs/todo-app-railsconf) -RailsConf 2015中的简单“ Todo”应用程序.
 * [todo-sample-app](https://github.com/awslabs/todo-sample-app) -RailsConf 2014上的简单“ Todo”应用程序.
 
 社区回购：
@@ -878,7 +877,7 @@ AWS Repos：
 * [amediamanager](https://github.com/awslabs/amediamanager) -媒体经理.
 * [aws-hal-client-java](https://github.com/awslabs/aws-hal-client-java) -超文本应用程序语言的Java客户端.
 * [aws-model-validators](https://github.com/awslabs/aws-model-validators) -用于验证AWS服务JSON模型文件的工具.
-* [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) -示例跨平台视频转码器应用程序.
+* [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) - Sample cross-platform video transcoder app.
 * [simplebeerservice :fire::fire:](https://github.com/awslabs/simplebeerservice) -与云连接的kegerator，可将实时传感器数据流式传输到AWS.
 
 社区回购：
@@ -1154,7 +1153,7 @@ AWS页面：
 AWS会议：
 
 * [re:Invent](https://reinvent.awsevents.com/)  -年度用户大会.  该活动的主题演讲，培训和认证机会，超过250场技术会议，合作伙伴博览会，下班后活动等等.
-* [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) -全球一日活动由AWS Education的技术讲师提供，非常适合希望了解如何开始使用AWS Cloud的IT专业人员，开发人员和技术经理.
+* [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) -全球一日活动由AWS Education的技术指导员提供，非常适合希望了解如何开始使用AWS Cloud的IT专业人员，开发人员和技术经理.
 
 社区会议：
 
@@ -1183,7 +1182,7 @@ AWS会议：
 *将102Tbps的网络容量连接到数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 *自2014年以来推出了500多种主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *所有其他14个云提供商的总和是AWS总容量的1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持Amazon的所有全球基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持亚马逊的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 
