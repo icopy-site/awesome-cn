@@ -71,7 +71,7 @@ _请随时使用您的宝贵资源做出贡献，谢谢！
   - [LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) -Unity的Peter Andreasen的Netcode演讲.
   - [EU 2019 / Intro to DOTS and Netcode](https://www.youtube.com/watch?v=P_-FoJuaYOI) -使用蒂姆·约翰森（Tim Johansson）的DOTS深入研究Unity的网络化未来.
 -其他
-  - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) -聊天Pat Wyatt谈论的激战，暗黑破坏神，星际争霸的网络代码.
+  - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) -聊天帕特·怀亚特（Pat Wyatt），讨论《激战》，《暗黑破坏神》，《星际争霸》网络代码.
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) -来自暴雪的Tim Ford和Philip Orwig撰写的《守望先锋》网络代码的开发日志.
   - [Networking Architecture of Warframe](https://www.youtube.com/watch?v=VVetqMgcN50) -讨论Digital Extremes的Maciej Sinilo撰写的Warframe的网络代码.
 
@@ -94,6 +94,7 @@ _请随时使用您的宝贵资源做出贡献，谢谢！
 -C / C ++
   - [ENet](http://enet.bespin.org/) -简单而强大的可靠UDP网络库.
   - [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) -用于游戏的Valve的内部（蒸汽）网络传输层.
+  - [GGPO](https://github.com/pond3r/ggpo) -出色的游戏，和平回滚网络SDK
   - [RakNet](https://github.com/facebookarchive/RakNet) -功能齐全且成熟可靠的UDP网络引擎.
   - [TNL2](https://github.com/nardo/tnl2) -（非活动）扭矩网络库2 [TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf).
   - [yojimbo](https://github.com/networkprotocol/yojimbo) -带有专用服务器的客户端/服务器游戏的可靠UDP网络库.

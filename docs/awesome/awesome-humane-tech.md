@@ -11,7 +11,7 @@
 
 ## About this list
 
- 科技和社交媒体正在对我们的社会产生重大影响.  尽管许多创新技术发明改善了我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech.com/problem/)，由特里斯坦·哈里斯（Tristan Harris）领导的世界一流团队组成，这些团队受到深切关注 [The Center of Humane Technology](https://humanetech.com).
+ 科技和社交媒体正在对我们的社会产生重大影响.  尽管许多创新技术发明改善了我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech.com/problem/)，由特里斯坦·哈里斯（Tristan Harris）领导的世界一流团队组成，该团队深为关注 [The Center of Humane Technology](https://humanetech.com).
 
 
  该列表重点关注与人文科技主题直接相关的（大多数是开源）项目.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的PR之前.
@@ -163,6 +163,7 @@
 - [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/deltachat) -通过电子邮件进行类似于Whatsapp的分散聊天，无需跟踪和中央控制.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zedeus/nitter) -另一个关注隐私的Twitter前端.
 - [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) -Firefox扩展程序，可将YouTube和Twitter请求重定向到其他选项.
+- [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cloudrac3r/bibliogram) -Instagram的替代前端.
 
 ## Freedom
 

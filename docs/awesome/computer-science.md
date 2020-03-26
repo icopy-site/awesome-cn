@@ -4,7 +4,7 @@
 
 <h3 align="center">开源社会大学</h3>
 <p align="center">
-  免费学习计算机科学自学之路！
+  通往计算机科学免费自学教育之路！
 </p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -43,10 +43,10 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
  **组织**.  课程设计如下：
 -*简介CS *：让学生尝试CS，看看是否适合他们
--*核心CS *：大致对应于计算机科学课程的前三年，所有学生都必须参加该课程
+-*核心CS *：大致对应于计算机科学课程的前三年，所有专业都必须参加的课程
 -*高级CS *：大致对应于计算机科学课程的最后一年，根据学生的兴趣选择选修课
 -*最终项目*：该项目供学生验证，巩固和展示其知识，并由世界各地的同行进行评估
--*专业CS *：研究生课程的专业学生如果希望最大程度地获得良好工作的机会，可以选择完成上述课程后选择参加
+-*专业CS *：研究生课程的专业学生如果希望最大程度地获得工作的机会，可以选择完成上述课程后选择参加
 
  **持续时间**.  如果您精心计划并每周花大约18-22个小时学习，则大约2年内即可完成Core CS.
 如果可能，Core CS的课程应采用线性课程，但由于极不可能实现完美的线性进度，
@@ -60,15 +60,23 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 请记住，您无法购买成功！
 
  **处理**.  学生可以单独或按组，按顺序或按顺序学习课程.
--要分组，请使用 [cohorts repository](https://github.com/ossu/cohorts) 查找或创建适合您的同类群组.
+-要分组，请使用 [cohorts repository](https://github.com/ossu/cohorts) to find or create a cohort suited to you.
 -我们建议您在Core CS中进行所有课程，仅当您确定以前已经学习过这些材料时才跳过课程.
 -为简单起见，我们建议您按照从上到下的顺序学习课程（尤其是Core CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) 根据他们的先决条件.
  -高级CS课程为选修课.  选择一个您想成为专家的科目（例如高级编程），并选择该标题下的所有课程.  您也可以创建自己的自定义主题，但是我们建议您从社区中获得关于所选主题的验证.
 
 *不要无视您在每门课程开始时所签署的行为准则*！
 
- **如何贡献**.  请参阅 [CONTRIBUTING](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
+**[How to contribute](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md)**
 
+**[Getting help](https://github.com/ossu/computer-science/blob/master/HELP.md)**（有关我们的常见问题解答和聊天室的详细信息）
+
+## Community
+
+ -我们有一个聊天室！  这应该是您与其他OSSU学生交谈的第一站.  您为什么现在不自我介绍？ [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
+-您也可以通过 [GitHub issues](https://github.com/ossu/computer-science/issues) .  如果课程有问题，或者需要对课程进行更改，那么这里就是开始对话的地方.  阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
+-将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 轮廓！
+ -注意：在搜索OSSU时，可能会找到一个未维护且已弃用的Firebase应用程序.  您可以放心地忽略它.  阅读更多 [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
 ## Curriculum
 
@@ -108,7 +116,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ### Introduction to Computer Science
 
- 本课程将向您介绍计算机科学领域.  从以上课程或其他地方学习过编程的学生，都应选修本课程，以获取丰富的材料.  如果您想要完成更多的课程，计算机科学很可能适合您！
+ 本课程将向您介绍计算机科学领域.  从以上课程或其他地方学习过编程的学生，都应选修本课程，以期掌握各种材料.  如果您想要完成更多的课程，计算机科学很可能适合您！
 
 **涵盖的主题**：
 `computation`
@@ -122,11 +130,11 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ## Core CS
 
-除非另有说明，否则**必修**必修的所有CS课程.
+除非另有说明，否则**必修**必修课程**.
 
 ### Core programming
 **涵盖的主题**：
-功能编程
+`functional programming`
 “测试设计”
 程序要求
 通用设计模式
@@ -270,7 +278,7 @@ Lisp家庭语言（通过球拍）
 
 ## Advanced CS
 
-在完成了核心CS中的“每门必修课程”之后，学生应根据兴趣从Advanced CS中选择课程的子集.
+在完成了核心CS的“每门必修课程”之后，学生应根据兴趣从Advanced CS中选择课程的一部分.
 并非每个子类别的课程都需要学习.
 但是学生应该选择与他们打算进入的领域相关的“每门”课程.
 
@@ -327,7 +335,7 @@ CMOS技术
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)  |  10周|  每周6个小时|  计算结构2
 
 ** <sup>1</sup>注**：
-These courses assume knowledge of basic physics.
+这些课程假定您具备基本物理知识.
 ([Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-is-the-curriculum-missing-some-pre-requisites))
 如果您在挣扎中，可以找到物理MOOC或利用可汗学院的材料：
 [Khan Academy - Physics](https://www.khanacademy.org/science/physics)
@@ -458,14 +466,6 @@ or
 ## Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
-## Community
-
- -我们有一个聊天室！  这应该是您与其他OSSU学生交谈的第一站. [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
--您也可以通过 [GitHub issues](https://github.com/ossu/computer-science/issues) .  如果课程有问题，或者需要对课程进行更改，那么这里就是开始对话的地方.
--订阅我们 [newsletter](https://tinyletter.com/ossu).
--将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 轮廓！
-- There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md).
-
 ## How to show your progress
 
 1.在中创建一个帐户 [Trello](https://trello.com/).
@@ -486,7 +486,7 @@ or
 带有“ Section”标签的卡片仅用于帮助完成列.
 您应将*课程卡*放在其各自的*部门卡*下方.
 
-该委员会的目的是为我们的学生提供一种跟踪其进度的方法，并且还可以通过公开页面向朋友，家人，雇主等展示其进度.
+该委员会的目的是为我们的学生提供一种跟踪他们的进度的方法，并能够通过公开页面向朋友，家人，雇主等展示他们的进度.
 您可以将董事会的状态更改为*公开*或*私有*.
 
 ## Team

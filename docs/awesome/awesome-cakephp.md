@@ -142,7 +142,7 @@
 ## Geolocation
 *用于对地址进行地理编码以及使用纬度和经度的插件.*
 
-- [Geo plugin](https://github.com/dereuromark/cakephp-geo) -包含 [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) 和 [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
+- ：草莓： [Geo plugin](https://github.com/dereuromark/cakephp-geo) -包含 [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) 和 [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
 
 ## I18n
 * I18n（国际化）和L10n（本地化）的插件.
@@ -197,7 +197,7 @@
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个用于向您的应用添加枚举列表支持的插件.
-- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.

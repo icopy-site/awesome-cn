@@ -48,7 +48,7 @@
 - [Bro](https://www.bro.org/) -Bro是功能强大的网络分析框架，与您可能知道的典型IDS有很大不同.
 - [OSSEC](https://ossec.github.io/) - Comprehensive Open Source HIDS. Not for the faint of heart. Takes a bit to get your head around how it works. Performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. It runs on most operating systems, including Linux, MacOS, Solaris, HP-UX, AIX and Windows. Plenty of reasonable documentation. Sweet spot is medium to large deployments.
 - [Suricata](http://suricata-ids.org/)  -Suricata是高性能的网络IDS，IPS和网络安全监视引擎.  开源，由社区运营的非营利基金会开放信息安全基金会（OISF）拥有.  Suricata由OISF及其支持供应商开发.
-- [Security Onion](http://blog.securityonion.net/) - Security Onion is a Linux distro for intrusion detection, network security monitoring, and log management. It's based on Ubuntu and contains Snort, Suricata, Bro, OSSEC, Sguil, Squert, Snorby, ELSA, Xplico, NetworkMiner, and many other security tools. The easy-to-use Setup wizard allows you to build an army of distributed sensors for your enterprise in minutes!
+- [Security Onion](http://blog.securityonion.net/)  -Security Onion是一个Linux发行版，用于入侵检测，网络安全监视和日志管理.  它基于Ubuntu，包含Snort，Suricata，Bro，OSSEC，Sguil，Squit，Snorby，ELSA，Xplico，NetworkMiner和许多其他安全工具.  易于使用的设置向导使您可以在几分钟内为企业构建一支由分布式传感器组成的队伍！
 - [sshwatch](https://github.com/marshyski/sshwatch)  -SSH的IPS，类似于用Python编写的DenyHosts.  它还可以在日志中收集有关攻击过程中攻击者的信息.
 - [Stealth](https://fbb-git.github.io/stealth/)  -文件完整性检查程序，几乎没有沉积物.  控制器从另一台计算机上运行，​​这使攻击者很难知道正在通过SSH以定义的伪随机间隔检查文件系统.  强烈建议用于中小型部署.
 - [AIEngine](https://bitbucket.org/camp0/aiengine) -AIEngine是下一代交互式/可编程Python / Ruby / Java / Lua数据包检查引擎，具有无需任何人工干预即可学习的功能，NIDS（网络入侵检测系统）功能，DNS域分类，网络收集器，网络取证等.
@@ -169,7 +169,7 @@
 ### Forensics
 
 - [grr](https://github.com/google/grr) -GRR快速响应是一个针对远程实时取证的事件响应框架.
-- [Volatility](https://github.com/volatilityfoundation/volatility) -基于Python的内存提取和分析框架.
+- [Volatility](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
 - [mig](http://mig.mozilla.org/)  -MIG是在远程端点上进行调查性手术的平台.  它使研究人员可以并行地从大量系统中获取信息，从而加快事件调查和日常运营安全性.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -* ir-rescue *是Windows Batch脚本和Unix Bash脚本，用于在事件响应期间全面收集主机取证数据.
 - [Logdissect](https://github.com/dogoncouch/logdissect) -CLI工具和Python API，用于分析日志文件和其他数据.
@@ -300,7 +300,7 @@
 - [Awesome ARM Exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) -精选的ARM开发资源列表.
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) -CTF框架，库，资源和软件的精选列表.
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) -精选的黑客环境列表，您可以在其中合法安全地培训网络技能.
-- [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) -精选的秘诀清单和链接，可保护个人数字安全和隐私. 
+- [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) -精选的数字安全和隐私提示列表，以及指向更多资源的链接.
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) -精选的很棒的Hacking教程，工具和资源列表.
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) -很棒的蜜罐资源列表.
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) -精选的出色恶意软件分析工具和资源列表.
