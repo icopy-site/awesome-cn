@@ -10,6 +10,7 @@
 ## Platforms
 
 - [Ballerina](https://ballerina.io) -云原生编程语言.
+- [Dapr](https://dapr.io) - Open source runtime for writing highly performant microservices using any programming language.
 - [Express Serverless](https://www.express-serverless.io/) -一个开源的Kubernetes原生微服务和无服务器平台.
 - [Hook.io](https://hook.io) -微服务和Webhook托管的开源提供商.
 -[KintoHub！[c]]（https://www.kintohub.com）-微服务软件包管理器，使开发人员能够轻松构建和共享云就绪功能.
@@ -184,7 +185,7 @@
 
 ### Node.js
 
-- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
+- [Actionhero](http://www.actionherojs.com/) -具有集成集群功能和延迟任务的多传输Node.js API服务器.
 - [Baucis](https://github.com/wprl/baucis) -建立和维护可扩展的HATEOAS / Level 3 REST API.
 - [BeeMS](https://github.com/umuplus/beems) -基于Bee Queue的极简工具包，用于构建快速，分散，可扩展和容错的微服务.
 - [ClaudiaJS](https://claudiajs.com/) -易于将Node.js项目部署到AWS Lambda和API网关.
@@ -281,7 +282,7 @@
 - [Træfɪk](http://traefik.io/) -现代HTTP反向代理和负载均衡器，可轻松部署微服务.
 - [Traffic Server](https://github.com/apache/trafficserver) -云服务的高性能构建块.
 - [Tyk](https://tyk.io/) -开源，快速且可扩展的API网关，门户和API管理平台.
-- [Vulcand](https://github.com/vulcand/vulcand) -由Etcd支持的程序化负载均衡器.
+- [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
 - [Zuul](https://github.com/Netflix/zuul) -边缘服务，提供动态路由，监视，弹性，安全性等.
 
 ### Configuration & Discovery
@@ -303,7 +304,7 @@
 
 ### Coordination & Governance
 
--[AWS Step Functions！[c]]（https://aws.amazon.com/step-functions/）-使用可视化工作流协调分布式应用程序和微服务的组件.
+-[AWS步骤功能！[c]]（https://aws.amazon.com/step-functions/）-使用可视化工作流协调分布式应用程序和微服务的组件.
 -[Azuqua！[c]]（https://azuqua.com/）-分布式应用程序的编排和治理平台.
 - [Cadence](https://cadenceworkflow.io/) -可以忽略故障的有状态代码平台.
 - [Conductor](https://github.com/Netflix/conductor) -微服务编排引擎.
@@ -380,7 +381,7 @@
 - [Graphite](http://graphite.wikidot.com/) -可扩展的实时图形.
 -[IOpipe！[c]]（https://www.iopipe.com/）-监控Amazon Lambda的应用程序性能.
 - [Jaeger](https://www.jaegertracing.io/) -开源的端到端分布式跟踪
-- [Microservice Graph Explorer](https://github.com/hootsuite/microservice-graph-explorer) - Navigate and explore all of the microservices in your application in real time using the real application connections.
+- [Microservice Graph Explorer](https://github.com/hootsuite/microservice-graph-explorer) -使用真实的应用程序连接实时浏览和浏览应用程序中的所有微服务.
 - [OpenTracing](https://opentracing.io/) -供应商中立的API和用于分布式跟踪的工具.
 - [Parallec](https://github.com/eBay/parallec) -快速并行异步HTTP / SSH / TCP / Ping客户端Java库.
 - [Prometheus](http://prometheus.io/) -开源服务监视系统和时间序列数据库.
@@ -402,7 +403,7 @@
 
 ### Resilience
 
-- [Hystrix](https://github.com/Netflix/Hystrix) -延迟和容错库旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在不可避免发生故障的复杂分布式系统中实现弹性.
+- [Hystrix](https://github.com/Netflix/Hystrix) 延迟和容错库旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在不可避免发生故障的复杂分布式系统中实现弹性.
 - [Pathod](http://pathod.net/) -精心制作的恶意代码，用于折磨HTTP客户端和服务器.
 - [Raft Consensus](http://raftconsensus.github.io/)  -易于理解的共识算法.  它在容错和性能上与Paxos等效.
 - [Resilience4j](https://github.com/resilience4j/resilience4j) -为Java8和功能编程设计的容错库.
@@ -457,7 +458,7 @@
 - [AtlasDB](https://github.com/palantir/atlasdb) -在键值存储之上的事务层.
 - [ClickHouse](https://clickhouse.yandex/) -面向列的数据库管理系统，允许实时生成分析数据报告.
 -[CockroachDB！[c]]（https://www.cockroachlabs.com/）-以Google Spanner为模型的云原生SQL数据库.
-- [Couchbase](http://www.couchbase.com/) -为提高性能，可伸缩性和简化管理而设计的分布式数据库.
+- [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 -[Crate！[c]]（https://crate.io/）-具有NoSQL优点的可扩展SQL数据库.
 - [Datomic](http://www.datomic.com/) -完全可交易的，可用于云的分布式数据库.
 - [Druid](http://druid.io/) -快速的面向列的分布式数据存储.
@@ -475,7 +476,7 @@
 - [Secure Scuttlebutt](https://github.com/ssbc/docs) -消息源的P2P数据库.
 - [Tachyon](http://tachyon-project.org/) -以内存为中心的分布式存储系统，可跨群集框架以内存速度实现可靠的数据共享.
 - [Voldemort](https://github.com/voldemort/voldemort) -Amazon DynamoDB的开源克隆
-- [VoltDB ![c]](https://www.voltdb.com/) - In-Memory ACID compliant distributed database.
+-[VoltDB！[c]]（https://www.voltdb.com/）-符合内存中ACID的分布式数据库.
 
 ### Testing
 
@@ -555,7 +556,7 @@
 
 ### Security
 
-- [RFC5246](https://tools.ietf.org/html/rfc5246) -传输层安全性（TLS）协议版本1.2.
+- [RFC5246](https://tools.ietf.org/html/rfc5246) - The Transport Layer Security (TLS) Protocol Version 1.2.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) -TLS扩展.
 - [RFC6347](https://tools.ietf.org/html/rfc6347) -数据报传输层安全性版本1.2.
 - [RFC6749](https://tools.ietf.org/html/rfc6749) -OAuth 2.0授权框架.
@@ -564,7 +565,7 @@
 - [RFC7642](https://tools.ietf.org/html/rfc7642) -SCIM：定义，概述，概念和要求.
 - [RFC7643](https://tools.ietf.org/html/rfc7643) -SCIM：核心架构，提供与平台无关的架构和扩展模型，用于表示用户和组.
 - [RFC7644](https://tools.ietf.org/html/rfc7644) -SCIM：协议，一种应用程序级别的REST协议，用于在Web上配置和管理身份数据.
-- [OIDCONN](http://openid.net/connect/)  -OpenID Connect 1.0是OAuth 2.0协议之上的简单身份层.  它允许客户端基于授权服务器执行的身份验证来验证最终用户的身份，并以可互操作且类似于REST的方式获取有关最终​​用户的基本配置文件信息.
+- [OIDCONN](http://openid.net/connect/)  -OpenID Connect 1.0是OAuth 2.0协议之上的简单身份层.  它允许客户端根据授权服务器执行的身份验证来验证最终用户的身份，并以可互操作且类似于REST的方式获取有关最终​​用户的基本配置文件信息.
 
 ### Service Discovery
 
@@ -581,7 +582,7 @@
 - [BSON](http://bsonspec.org/) -二进制JSON（BSON）.
 - [JSON-LD](http://json-ld.org/) -用于链接数据的JSON.
 - [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) -简单二进制编码（SBE）.
-- [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+- [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) -MessagePack规范.
 
 ### Vocabularies
 
@@ -671,7 +672,7 @@
 - [Migrating to Cloud Native Application Architectures](http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook) -此O&#39;Reilly报告定义了云本机应用程序体系结构（例如微服务和十二因子应用程序）的独特特征.
 - [Pulsar in Action](https://www.manning.com/books/pulsar-in-action) -Manning Press撰写的有关使用Apache Pulsar开发基于微服务的应用程序的实用书籍.
 - [Testing Microservices with Mountebank](https://www.manning.com/books/testing-microservices-with-mountebank) -提供使用mountebank进行服务虚拟化的测试策略，促进微服务的独立发行
-- [The Art of Scalability](http://theartofscalability.com/)  -可伸缩性的艺术：现代企业的可伸缩Web架构，流程和组织.  马丁·雅培（Martin L.
+- [The Art of Scalability](http://theartofscalability.com/)  -可伸缩性的艺术：现代企业的可伸缩Web架构，流程和组织.  马丁·雅培（Michael L. Abbott），迈克尔·费舍尔（Michael T.Fisher）.
 - [The New Stack eBook Series](http://thenewstack.io/ebookseries/) -Docker和容器生态系统的全面概述.
   +书1：Docker容器生态系统.
   +第2册：使用Docker和容器的应用程序和微服务.

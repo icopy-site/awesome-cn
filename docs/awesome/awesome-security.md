@@ -214,7 +214,7 @@
 
 - [Spyse](https://spyse.com/)  -Spyse是OSINT搜索引擎，可提供有关整个Web的最新数据.  所有数据都存储在其自己的数据库中以进行即时访问，并相互互连以进行灵活的搜索.
 提供的数据：IPv4主机，子/域/ whois，端口/横幅/协议，技术，操作系统，AS，广泛的SSL / TLS DB等.
-- [sqlmap](http://sqlmap.org/)  -sqlmap是一个开放源代码渗透测试工具，可自动检测和利用SQL注入漏洞并接管数据库服务器的过程.  它配备了强大的检测引擎，针对最终渗透测试仪的众多细分功能以及从数据库指纹识别，从数据库获取数据到访问基础文件系统以及通过外出在操作系统上执行命令的广泛开关带内连接.
+- [sqlmap](http://sqlmap.org/)  -sqlmap是一个开放源代码渗透测试工具，可自动检测和利用SQL注入漏洞并接管数据库服务器的过程.  它具有强大的检测引擎，针对最终渗透测试仪的众多细分功能以及从数据库指纹识别，从数据库获取数据到访问基础文件系统以及通过外出在操作系统上执行命令的多种开关，带内连接.
 - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)  -Zed攻击代理（ZAP）是易于使用的集成渗透测试工具，用于发现Web应用程序中的漏洞.  它被设计为具有广泛的安全经验的人使用，因此，它是渗透测试新手的开发人员和功能测试人员的理想选择.  ZAP提供了自动扫描程序以及一系列工具，可让您手动查找安全漏洞.
 - [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist)  -在网络漏洞评估期间要测试的一些控件的列表.  可以找到降价版本 [here](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 - [w3af](http://w3af.org/)  -w3af是一个Web应用程序攻击和审核框架.  该项目的目标是创建一个框架，以通过查找和利用所有Web应用程序漏洞来帮助您保护Web应用程序.
@@ -318,6 +318,7 @@
 - [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) -与容器构建和运行时安全性相关的精选资源精选列表
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) -精选的密码学论文，文章，教程和howtos清单.
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) -一组有趣，有趣且令人沮丧的搜索查询，可插入Shodan.io.
+- [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) -精选的很棒的安全性演讲清单，按年份组织，然后再进行会议. 
 
 ### Other Common Awesome Lists
 

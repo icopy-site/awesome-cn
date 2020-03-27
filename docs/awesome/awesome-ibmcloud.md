@@ -6,6 +6,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
+[![LICENSE](https://img.shields.io/badge/license-CC0%201.0-white.svg)](https://github.com/victorshinya/awesome-ibmcloud/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/victorshinya/awesome-ibmcloud/pulls)
 
 精选的IBM Cloud SDK，开放源码存储库，工具，博客和其他资源的精选列表.
 
@@ -24,7 +26,7 @@
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) -IBM Carbon Design System的Angular实施.
 * [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) -切实执行碳设计系统.
 * [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) -碳设计系统的Vue实施.
-* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本化，全面的工具包.
+* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本全面的工具包.
 * [carbon-icons](https://github.com/carbon-design-system/carbon-icons) -碳设计系统的SVG图标库.
 * [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) -碳图标，在Angular中！
 * [carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) -使用Carbon Design System精简数字和软件产品中图标的组件.
@@ -90,7 +92,7 @@
 
 * [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) -一个简单的示例应用程序，演示了Watson Assistant API.
 * [botkit-middleware](https://github.com/watson-developer-cloud/botkit-middleware) -使用Botkit将Watson Assistant Service连接到不同聊天频道的中间件.
-* [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android) -由Watson Services支持的Android ChatBot-IBM Cloud上的助手，语音到文本和文本到语音.
+* [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android) -由Watson Services提供支持的Android ChatBot-IBM Cloud上的助手，语音到文本和文本到语音.
 * [discovery-nodejs](https://github.com/watson-developer-cloud/discovery-nodejs) -这是Watson Discovery Service演示.
 * [food-coach](https://github.com/watson-developer-cloud/food-coach) -一个简单的示例Web应用程序，演示了将Watson Tone Analyzer集成到Watson Assistant中的过程.
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) -围绕IBM Watson IoT Platform构建的代码存储库.
@@ -113,7 +115,7 @@
     * [java-sdk](https://github.com/watson-developer-cloud/java-sdk) -Java SDK使用IBM Watson服务.
     * [node-sdk](https://github.com/watson-developer-cloud/node-sdk) -☄️Node.js库，用于访问IBM Watson服务.
     * [openwhisk-sdk](https://github.com/watson-developer-cloud/openwhisk-sdk) -用于在IBM Cloud Functions上使用Watson Services的SDK（基于Apache Openwhisk）.
-    * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) -客户端库，可在Python中使用IBM Watson服务，并在pip中以watson-developer-cloud的形式提供.
+    * [python-sdk](https://github.com/watson-developer-cloud/python-sdk) -客户端库，可在Python中使用IBM Watson服务，并在pip中以watson-developer-cloud形式提供.
     * [ruby-sdk](https://github.com/watson-developer-cloud/ruby-sdk) -♦️Ruby SDK使用IBM Watson服务.
     * [salesforce-sdk](https://github.com/watson-developer-cloud/salesforce-sdk) -用于与IBM Watson REST API通信的Salesforce库.
     * [swift-sdk](https://github.com/watson-developer-cloud/swift-sdk) -Watson Swift SDK使开发人员能够将Watson认知计算服务快速添加到其Swift应用程序.

@@ -128,6 +128,7 @@
 
 ## Tech
 
+* [wateringcan.work](https://www.wateringcan.work) -基督教科技工作
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
 * [Relocate.me](https://relocate.me/) -经过验证的搬迁包
 

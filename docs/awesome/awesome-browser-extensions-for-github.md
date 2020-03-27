@@ -25,6 +25,14 @@
 </details>
 
 
+CodeWyng在GitHub上提供了闪电般的快速代码导航：悬停文档，定位定义和查找引用.
+
+<details><summary>Screenshots</summary>
+
+ ![CodeWyng](https://raw.githubusercontent.com/CodeWyng/codewyng/master/demo.gif)
+</details>
+
+
 Octohint向GitHub添加了IntelliSense提示功能.
 
 <details><summary>Screenshots</summary>
@@ -41,7 +49,7 @@ Octohint向GitHub添加了IntelliSense提示功能.
 </details>
 
 
- 一个扩展，可在GitHub的源代码上创建到外部或内部导入模块的直接链接.  支持多种语言，包括Rust，Go，Python和Ruby等常见语言，以及Nim，Haskell，Julia和Elm等奇数语言.
+ 一个扩展，可在GitHub上的源代码上创建到外部或内部导入模块的直接链接.  支持多种语言，包括Rust，Go，Python和Ruby等常见语言，以及Nim，Haskell，Julia和Elm等奇数语言.
 
 <details><summary>Screenshots</summary>
 
@@ -74,7 +82,7 @@ Octohint向GitHub添加了IntelliSense提示功能.
 </details>
 
 
- Whereisit使在GitHub上的代码导航更加容易.  单击即可查找并跳过类/方法定义.
+ Whereisit使在GitHub上进行代码导航更加容易.  只需单击一下，即可查找并跳过类/方法定义.
 
 <details><summary>Screenshots</summary>
 
@@ -82,7 +90,7 @@ Octohint向GitHub添加了IntelliSense提示功能.
 </details>
 
 
- 代码折叠-有选择地隐藏和显示代码部分的功能-在许多文本编辑器和IDE中都是无价的功能.  现在，开发人员可以在GitHub上通过Web浏览源代码的同时利用相同样式的代码折叠.  适用于任何类型的缩进空格或制表符.
+ 代码折叠-有选择地隐藏和显示代码部分的功能-在许多文本编辑器和IDE中都是无价的功能.  现在，开发人员可以在GitHub上通过Web浏览源代码的同时使用相同样式的代码折叠.  适用于任何类型的缩进空格或制表符.
 
 <details><summary>Screenshots</summary>
 
@@ -118,7 +126,7 @@ Easily navigate through the changes in a file that has been edited on GitHub.
 </details>
 
 
-OctoDraft是一个浏览器扩展，在GitHub的问题部分中添加了一个保存草稿按钮，用于那些没有时间编写整个问题的时间.
+OctoDraft是一个浏览器扩展，在GitHub的问题部分中添加了保存草稿按钮，用于那些没有时间编写整个问题的时间.
 
 <details><summary>Screenshots</summary>
 
@@ -142,7 +150,7 @@ OctoEdit是一个浏览器扩展，它在GitHub的评论编辑区域中添加了
 </details>
 
 
- 像拉取请求一样查看GitHub上的存储库.  该扩展使github.com能够在文件中做笔记，并将它们作为已编译列表添加到问题中.
+ 像拉取请求一样查看GitHub上的存储库.  该扩展使github.com能够在文件中做笔记，并将其作为已编译列表添加到问题中.
 
 ## Miscellaneous
 
@@ -161,7 +169,7 @@ OctoEdit是一个浏览器扩展，它在GitHub的评论编辑区域中添加了
 2.显示未读通知的工具提示.
 3.显示回购规模.
 4.如果它具有GitHub Pages，则显示“ GH Page”链接按钮.
-5.制表符大小在2/4/8空白之间自定义.
+5.制表符大小可在2/4/8空白之间自定义.
 
 <details><summary>Screenshots</summary>
 
@@ -178,7 +186,7 @@ OctoEdit是一个浏览器扩展，它在GitHub的评论编辑区域中添加了
 
 
 
-Chrome扩展程序，它在浏览器中添加了一个按钮，并将该按钮链接到您将要配置的GitHub存储库，然后在任何网页上单击该扩展程序按钮，它将在该存储库中添加带有页面标题的给定链接.
+Chrome扩展程序，它在浏览器中添加了一个按钮，并将此按钮链接到您将要配置的GitHub存储库，然后在任何网页上单击该扩展程序按钮，它将在该存储库中添加带有页面标题的给定链接.
 
 <details><summary>Screenshots</summary>
 
@@ -237,11 +245,11 @@ Chrome扩展程序可查看GitHub项目中的故事点.
 ## Navigation
 
 
-一个Chrome扩展程序，用于在GitHub的提交页面上无限滚动.
+Chrome扩展程序，用于在GitHub的提交页面上无限滚动.
 
 
 OctoPermalinker是一个浏览器扩展程序，它在GitHub注释/文件中搜索分支上文件的链接，
-并添加一个指向分支的注释/文件创建/更新位置的链接.
+并添加一个链接到分支在注释/文件被创建/更新时指向的位置.
 这有助于您避免跟踪发布后断开的链接.
 对于上下文，这里是有关断开的GitHub链接的一些讨论：
 [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
@@ -355,7 +363,7 @@ super超小型chrome扩展程序，使您的GitHub新闻源更加井井有条
 </details>
 
 
-Chrome和Firefox扩展程序，可在GitHub新闻源中发生任何事件时显示通知.
+Chrome和Firefox扩展程序，可在GitHub新闻源中发生事件时显示通知.
 
 <details><summary>Screenshots</summary>
 
@@ -372,7 +380,7 @@ Chrome和Firefox扩展程序，可在弹出窗口中快速查看您的通知，�
 </details>
 
 
- 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并提供仅显示您正在参与的问题的未读计数的选项.您可以单击图标以快速查看未读通知.
+ 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并提供仅显示您正在参与的问题的未读计数的选项.您可以单击图标快速查看未读通知.
 
 <details><summary>Screenshots</summary>
 
@@ -416,7 +424,7 @@ GitHub的整洁悬浮卡.
 </details>
 
 
-推断或尝试查找GitHub用户的Twitter句柄，并在GitHub界面中将其呈现给您.
+推断或尝试查找GitHub用户的Twitter句柄，并在GitHub界面中向您展示它们.
 
 <details><summary>Screenshots</summary>
 
@@ -432,7 +440,7 @@ GitHub的整洁悬浮卡.
 </details>
 
 
-在用户个人资料页面上生成一个饼图，显示用户在其存储库中使用了哪些语言的细分.
+在用户个人资料页面上生成一个饼图，以显示他们在存储库中使用了哪些语言的细分.
 
 <details><summary>Screenshots</summary>
 
@@ -595,7 +603,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在资源库�
 
 1.转到定义
 2.查找参考
-3.强大的代码搜索，带有正则表达式匹配，差异搜索和其他过滤器
+3.功能强大的代码搜索，带有正则表达式匹配，差异搜索和其他过滤器
 4.悬停工具提示
 5.文件树导航
 
@@ -614,7 +622,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在资源库�
 </details>
 
 
-这是一个轻量级的Chrome扩展程序，可以自动检测以下实例 [asciinema](https://asciinema.org)  链接到GitHub上的README文件，并将播放器嵌入其位置.  与其直接进入asciinema网站观看“ asciicast”，不如直接在自述文件（或任何`.md`，.rst`，.textile， [etc.](https://github.com/github/markup/blob/master/README.md#markups) 文件），这要感谢 [embedded player widget](https://asciinema.org/docs/embedding). 
+这是一个轻量级的Chrome扩展程序，可以自动检测以下实例 [asciinema](https://asciinema.org)  链接到GitHub上的README文件，并将播放器嵌入其位置.  与其直接转到asciinema网站上观看“ asciicast”，不如直接在自述文件（或任何`.md`，.rst`，.textile， [etc.](https://github.com/github/markup/blob/master/README.md#markups) 文件），这要感谢 [embedded player widget](https://asciinema.org/docs/embedding). 
 
 <details><summary>Screenshots</summary>
 
