@@ -52,7 +52,7 @@
 
 - [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) -插件可帮助识别开发过程中的可访问性违规.
 - [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) -用于可访问的Ember.js应用程序的简单模式.
-- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) -Ember.js插件可帮助具有里程碑意义的角色，以实现更好的辅助功能.
+- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) -Ember.js插件可帮助具有里程碑意义的角色，以实现更好的可访问性.
 - [ember-a11y](https://github.com/ember-a11y/ember-a11y) -用于构建可访问的Ember.js应用程序的工具集合.
 - [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) -用于将方法添加到Ember.js组件的混合器，可帮助您管理当前关注的元素.
 - [ember-gestures](https://github.com/html-next/ember-gestures) -Ember.js手势通过在整个应用程序中轻松定义和使用HammerJS管理器和识别器，提供了一种使用手势的简便方法.
@@ -167,7 +167,7 @@
 ### Command-line apps
 
 - [ember-cli-create](https://github.com/gossi/ember-cli-create) -CLI向导创建一个新的余烬项目.
-- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清楚我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认情况下将启用的功能.  它仅适用于应用程序，不能与插件一起使用.
+- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -此插件可让您轻松启用/禁用ember-source中的可选功能.  为了弄清我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认情况下启用的功能.  它仅适用于应用程序，不能与插件一起使用.
 - [ember-cli-rename](https://github.com/trabus/ember-cli-rename) -ember-cli的插件，提供“ ember重命名”命令.
 
 ### Command-line utilities
@@ -269,7 +269,7 @@
 - [ember-cli-bundle-analyzer](https://github.com/kaliber5/ember-cli-bundle-analyzer) -一个Ember CLI插件，可使用交互式可缩放树图来分析应用程序捆绑输出的大小和内容.
 - [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) -将性能信息添加到Chrome的Ember.js应用程序的时间轴中.
 - [ember-cli-route-map](https://github.com/BBVAEngineering/ember-cli-route-map) -用于生成Ember.js应用程序的路线图的命令.
-- [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - Visualizer for heimdalljs data.
+- [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) -heimdalljs数据的可视化工具.
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) -通过源映射分析和调试空间使用情况.
 - [ember-dead-code](https://github.com/buschtoens/ember-dead-code) -通过真实的用户监控充满信心地检测死代码.
 
@@ -327,7 +327,7 @@
 - [Lazy.js](https://github.com/dtao/lazy.js) -类似于lodash / Underscore的实用程序库，但具有懒惰的评估，在许多情况下可以转换为出色的性能.
 - [lodash](https://lodash.com)  -实用程序库，可提供一致性，自定义，性能和其他功能.  更好更快的Underscore.js.
 - [mori](http://swannodette.github.io/mori/) -用于使用ClojureScript的持久数据结构并从原始JavaScript的舒适性开始支持API的库.
-- [Mout](http://moutjs.com) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
+- [Mout](http://moutjs.com) -与其他现有解决方案之间最大差异的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
 - [Ramda](http://ramdajs.com)  -实用程序库，侧重于通过自动计算和相反的参数顺序实现的灵活功能组合.  避免变异数据.
 - [RxJS](http://reactivex.io) -功能性反应式库，用于转换，合成和查询各种数据.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) -Underscore的腰带上的铜扣.
@@ -546,7 +546,7 @@
 - [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) -在Ember.js测试中启用更好的元素选择器.
 - [ember-test-setup](https://github.com/kellyselden/ember-test-setup) -测试速记以减少重复.
 - [ember-window-mock](https://github.com/kaliber5/ember-window-mock) -将global窗口用作可在测试中模拟的Ember.js服务.
-- [mirage-glue](https://github.com/izelnakri/mirage-glue) -该程序读取您的API端点，并创建响应或将响应附加到相关的Mirage固定文件.
+- [mirage-glue](https://github.com/izelnakri/mirage-glue) - This program reads your API endpoint and creates or appends response to relevant mirage fixture file(s).
 - [ember-sinon](https://github.com/csantero/ember-sinon) -Ember CLI插件添加了对sinon.js的支持.
 
 ### Text
@@ -734,6 +734,7 @@
 - [Customising Ember Power Select](https://medium.com/life-at-kayako/customising-ember-power-select-3d570c7c4c0c)
 - [Deep Dive on Ember.js Events](https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808)
 
+- [A collection of notes that summarize EmberConf 2020](https://alexdiliberto.com/posts/emberconf-2020-notes/)
 - [A collection of notes that summarize EmberConf 2019](https://alexdiliberto.com/posts/emberconf-2019-notes/)
 - [EmberConf 2019 Links and Notes](https://github.com/dknutsen/emberconf-2019)
 - [A collection of links that summarize EmberConf 2018](https://github.com/nucleartide/emberconf-2018)
@@ -1180,6 +1181,7 @@
 - [EmberConf 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT) -EmberConf 2017的会议视频.
 - [EmberConf 2018](https://www.youtube.com/watch?v=NhtpXs0ZtUc&list=PL4eq2DPpyBbnjD5iLp55as9OvIdEDI_Kt) -EmberConf 2018会议视频.
 - [EmberConf 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL) -EmberConf 2019的会议视频.
+- [EmberConf 2020](https://www.youtube.com/playlist?list=PL4eq2DPpyBbkC03mdzlyej6tcbEqrZK8N) -EmberConf 2020会议的视频.
 - [ReactiveConf 2017 - Tom Dale: Secrets of the Glimmer VM](https://www.youtube.com/watch?v=nXCSloXZ-wc)
 - [ReactiveConf 2017](https://youtu.be/62xd25kEZ3o?t=27618)
 - [Tim Thomas - Using Ember.js to build Electron Apps](https://www.youtube.com/watch?v=ER1V_u0N7u4)

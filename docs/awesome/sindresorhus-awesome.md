@@ -497,7 +497,7 @@
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) -目标设定和交流最佳实践.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) -领导人员并担任技术公司/环境的经理.
 - [Indie](https://github.com/mezod/awesome-indie#readme) -独立开发商业务.
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -公司在Hacker News上使用的工具.
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) -用技术应对气候变化.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) -提供高度的态势感知能力，以帮助改善战略规划和决策.
 
@@ -583,7 +583,7 @@
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
 - [Social Media Share Links](https://github.com/vinkla/shareable-links#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
-- [Unicode](https://github.com/Wisdom/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
+- [Unicode](https://github.com/Wisdom/Awesome-Unicode#readme) -Unicode标准，怪癖，软件包和资源.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
@@ -662,6 +662,7 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) -寻找解决气候危机的方法.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) -正确命名计算机科学中的事物.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) -如何从非结构化生物医学数据和文本中提取信息.
+- [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) -努力为后代保留Web.
 
 ## Related
 

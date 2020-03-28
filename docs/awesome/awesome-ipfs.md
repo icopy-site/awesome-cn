@@ -8,13 +8,13 @@
 
 &gt;有用的资源 [IPFS](https://ipfs.io) 并在其之上构建事物
 
- _此列表适用于项目，工具或几乎所有与IPFS相关的事物，它们都很棒**.  这是针对已经非常出色的产品的-如果您计划使用IPFS做一些有趣的事情，则应该构建它，然后在此处链接它.  如果您有一个与IPFS有关的很棒的主意，可以在这里问一下它的好地方 [our IPFS Discuss forums](https://discuss.ipfs.io).
+ _此列表适用于项目，工具或几乎所有与IPFS相关的事物，它们都很棒**.  这是针对已经非常出色的产品的-如果您计划使用IPFS做一些有趣的事情，则应该构建它，然后在此处链接它.  如果您有一个与IPFS有关的很棒的主意，可以在这里问一下它的好地方 [our IPFS Discuss Forums](https://discuss.ipfs.io)._
 
 
 
 ## Contribute to this list!
 
-欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
+欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，该项目才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
 
  自述文件和网站是自动生成的.  为了添加一个元素到这个列表中，您需要修改`/ data`中的文件，然后运行`make build`在发布您的拉取请求之前.  读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
 
@@ -39,7 +39,7 @@
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) -在浏览器中运行的分布式社交平台. [Source](https://github.com/fazo96/ipfs-boards)
 - [brig](https://brig.readthedocs.io/en/latest) -使用git之类的接口和FUSE文件系统进行文件同步. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) -一个golang应用程序，用于预置threejs界面并将其所有资产移出IPFS.
-- [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
+- [Computes](https://computes.io) -Computes.io是由IPFS驱动的分布式超级计算机.
 - [Cyber](https://cyber.page) -在IPFS的帮助下构建的分散Google替代方案. [Source](https://github.com/cybercongress)
 - [dapple](https://github.com/nexusdev/dapple) -Dapple是Solidity开发人员的多功能工具，旨在管理互连的智能合约系统日益增长的复杂性.
 - [Diffuse](https://diffuse.sh) -从IPFS节点或您使用的任何其他云/分布式存储服务播放音乐.
@@ -61,7 +61,7 @@
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) -使用IPFS进行Web存档（WARC）索引和重放.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) -建立在IPFS之上的Wiki
 - [IPFessay](https://gitlab.com/stavros/IPFessay) -在IPFS上发布无法审查的论文的简单方法.
-- [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)  -在计算机上运行IPFS节点，而无需使用命令行工具.  管理您的节点，添加文件，轻松更改设置...只需一个界面即可完成所有操作.
+- [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Run your IPFS node on your machine without having to bother with command line tools. Manage your node, add your files, easily change the settings... everything from just one interface.
 - [IPFS Drive](https://github.com/fazo96/ipfs-drive) -在用于IPFS的浏览器文件管理器中.
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) -一款可改善ipfs事件可视化的应用程序.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) -一个使用windows.ipfs的演示应用程序，向您显示IPNS链接和公共密钥的QR码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
@@ -96,7 +96,7 @@
 - [qri](https://qri.io) -数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) -金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) -一个推特机器人，使用IPFS群集将推文添加，固定或取消固定到公共IPFS网络. [Source](https://github.com/simpleaswater/twitter-pinbot)
-- [SimpleID](https://simpleid.xyz/) - Developer tools for adding Ethereum authentication and content pinning to your app. [Source](https://github.com/simplesecure/)
+- [SimpleID](https://simpleid.xyz/) -用于将以太坊身份验证和内容固定到您的应用程序的开发人员工具. [Source](https://github.com/simplesecure/)
 - [TallyLab](https://tallylab.com/) -本地优先，端到端的加密数据日记应用程序，用于捕获，分析和共享有关任何事物的数据.
 - [Temporal](https://github.com/RTradeLtd/Temporal) -Temporal是易于使用的API和平台，可用于将IPFS和其他分布式/分散式存储技术集成到企业应用程序中
 - [Textile Photos](https://www.textile.photos) -纺织品照片是用于照片的安全的移动数字钱包. [Source](https://github.com/textileio/textile-mobile)
@@ -134,6 +134,7 @@
 
 ## Datasets
 
+- [7-piece Syzygy tablebases](https://syzygy-tables.info/) -最多7个棋子残局的解决方案. [Source](https://github.com/syzygy1/tb)
 - [alpine-linux 3.4 packages](https://ipfs.io/ipfs/QmRsvEpJggeu4HhoafzRFobV4sbwVVTXMrdb2p8XWv7bCS)  [Source](https://github.com/ipfs/archives/issues/83)
 - [arXiv](https://ipfs.io/ipfs/QmfXH9XtP7xmoTH8WAp4HNSduqWMwLTH8B8TvbTkdgzNAa)  [Source](https://github.com/ipfs/archives/issues/2)
 - [cdn.media.ccc.de](https://ipfs.io/ipfs/QmW84mqTYnCkRTy6VeRJebPWuuk8b27PJ4bWm2bL4nrEWb)  [Source](https://github.com/ipfs/archives/issues/52)
@@ -197,6 +198,7 @@
 - [ipget](https://github.com/ipfs/ipget) -：satellite：IPFS的wget：通过IPFS检索文件并将其保存在本地.
 - [IPLD Explorer](https://explore.ipld.io) -在舒适的浏览器中探索默克尔森林 [Source](https://github.com/ipfs-shipyard/ipld-explorer)
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)  -用于将IPFS / IPNS地址重定向到本地网关的浏览器用户脚本.  这应该适用于尚未为其编写扩展名并支持用户脚本的任何浏览器.
+- [iprfc](https://github.com/RTradeLtd/iprfc) -IETF RFC下载器，可将RFC存储在IPFS上，并用RTradeLtd / Lens对其进行索引.
 - [ipscend](https://github.com/diasdavid/ipscend) -用于在IPFS中托管Web应用和静态网站的工具
 - [mahuta](https://github.com/ConsenSys/Mahuta) -Mahuta是您的微服务体系结构的即插即用服务，允许在IPFS上收集，存储和索引数据，并提供搜索功能（全文，查询）.
 - [orbit-db](https://github.com/orbitdb/orbit-db) -OrbitDB是一个无服务器的分布式对等数据库，使用IPFS作为其数据存储，并使用IPFS Pubsub来自动将数据库与对等同步.
@@ -208,7 +210,7 @@
 
 ## Videos
 
-- [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w)  -本演讲将探讨如何使用CRDT，发布/订阅和漂亮的UI在IPFS之上构建动态应用.  它还研究了用于分布式计算的新模型，以及分布网络的伦理重要性.
+- [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) - This talk breaks down how to build a dynamic app on top of IPFS with CRDTs, pub/sub, and slick UIs. It also delves into new models for distributed computation, and the ethical importance of distributing the web.
 - [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) 
 - [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) -让我们看一下IPFS的工作方式，如何解决诸如审查制度之类的问题，以及它是否真的可以在多个星球上运作！
 - [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) -演讲包括对IPFS项目的广泛了解，以及有关通过开源协议R＆D演进网络堆栈的讨论.

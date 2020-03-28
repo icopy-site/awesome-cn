@@ -6,7 +6,7 @@
 
 精选的令人愉快的清单 [PowerShell](https://en.wikipedia.org/wiki/PowerShell) 包和资源.
 
-PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，已针对处理结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
+PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具，针对处理结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
 它包括命令行外壳程序和关联的脚本语言.
 
 
@@ -23,7 +23,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) -用于在Powershell中与Atlassian的Confluence进行交互的模块（通过使用API​​）.
 * [JiraPS](https://atlassianps.org/module/JiraPS/) -在Powershell中与Atlassian的Jira进行交互的模块（通过使用API​​）.
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) -用于电报API的PowerShell模块
-* [PSTeams](https://github.com/EvotecIT/PSTeams) -用于将格式化的消息发送到Microsoft Teams Channel的PowerShell模块.
+* [PSTeams](https://github.com/EvotecIT/PSTeams) - PowerShell module for sending formatted messages to a Microsoft Teams Channel.
 
 ## Blogs
 
@@ -37,10 +37,10 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 ## Books
 
-* [Exploring PowerShell Automation](https://www.manning.com/books/exploring-powershell-automation) -一个免费的电子书采样器，概述了如何管理您的环境.
-* [PowerShell in Depth](https://www.manning.com/books/powershell-in-depth)  -管理员参考.  解释和演示了每种主要的Shell技术，技术和策略，为管理员在Shell中所做的几乎所有工作提供了全面的参考.
+* [Exploring PowerShell Automation](https://www.manning.com/books/exploring-powershell-automation) -免费的电子书采样器，概述了如何管理您的环境.
+* [PowerShell in Depth](https://www.manning.com/books/powershell-in-depth)  -管理员参考指南.  解释和演示了每种主要的Shell技术，技术和策略，为管理员在Shell中所做的几乎所有工作提供了全面的参考.
 * [Windows PowerShell in Action, Third Edition](https://www.manning.com/books/windows-powershell-in-action-third-edition) -综合参考指南的最新版本.
-* [Learn Windows PowerShell in a Month of Lunches, Third Edition](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition)  -专为繁忙的IT专业人员设计的创新教程.  每天只需留出一个小时-午餐时间将是一个完美的-一个月，您将以前所未有的速度自动化Windows任务.
+* [Learn Windows PowerShell in a Month of Lunches, Third Edition](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition)  -专为繁忙的IT专业人员设计的创新教程.  每天只需留出一个小时-午餐时间将是一个完美的选择-一个月，您将以前所未有的速度自动化Windows任务.
 * [Learn PowerShell in a Month of Lunches, Linux and macOS Edition](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition) -以任务为中心的教程，用于使用Microsoft PowerShell管理Linux和macOS系统.
 * [Learn PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches) -有关开发，测试和部署脚本的过程以及工具制作技巧的指南.
 * [The Monad Manifesto, Annotated - Jeffrey Snover](https://leanpub.com/s/4W-ob-YDw2LE2aSMyosCtA.pdf) -语言创建者背后的设计和理论.
@@ -50,10 +50,11 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [The Big Book of PowerShell Error Handling - Dave Wyatt](https://leanpub.com/s/znHIFrvBAYRST5nFBiQU5g.pdf) -错误处理技术的重要参考.
 * [Secrets of PowerShell Remoting](https://leanpub.com/s/DQLESXQ69TlVFQ9ogjrFLw.pdf)  -关于所有远程处理.  工作流程，扇出等
 * [PowerShell Notes for Professionals](https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf) -笔记和摘要的汇编.
+* [Powershell for SysAdmins: Workflow Automation Made Easy](https://nostarch.com/powershellsysadmins) -了解如何管理和自动化您的桌面和服务器环境.
 
 ## Build Tools
 
-* [psake](https://github.com/psake/psake) -构建自动化工具，灵感来自rake（在Ruby中为aka make）和bake（在Boo中为make）.
+* [psake](https://github.com/psake/psake) -建立自动化工具，灵感来自rake（在Ruby中为aka make）和bake（在Boo中为make）.
 * [Invoke-Build](https://github.com/nightroman/Invoke-Build) -建立和测试受psake启发的自动化工具.
 * [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) -为简化多种部署而构建的模块.
 * [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) -用于CI / CD方案的各种辅助功能.
@@ -69,15 +70,15 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 * [posh-git](https://github.com/dahlbyk/posh-git) -提供Git / PowerShell集成的PowerShell脚本集.
 * [PSReadLine](https://github.com/lzybkr/PSReadLine)  -Bash启发了PowerShell的readline实现.  保留会话之间的历史记录，添加反向历史记录搜索，使命令行总体上更好.
-* [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) -PowerShell模块使自定义制表符完成更容易，并添加了自定义参数完成器库.
+* [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) -PowerShell模块，使自定义制表符完成更容易，并添加了自定义参数完成器库.
 * [Jump-Location](https://github.com/tkellogg/Jump-Location) -Powershell`cd`可以读懂你的想法. [Autojump](https://github.com/wting/autojump) Powershell的实现.
 * [Zlocation](https://github.com/vors/ZLocation) * [z.sh](https://github.com/rupa/z)  PowerShell的实施.  类似于跳转位置.
 * [thefuck](https://github.com/nvbn/thefuck) -宏伟的应用程序，可纠正您以前的控制台命令（通过输入“ fuck”）.
 * [pslinq](https://github.com/manojlds/pslinq) -用于Powershell的LINQ（LINQ2Objects）.
-* [posh-with](https://github.com/JanJoris/posh-with) -使用单个工具进行连续工作流的命令前缀.
+* [posh-with](https://github.com/JanJoris/posh-with) -使用单个工具的连续工作流的命令前缀.
 * [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)* [peco](https://github.com/peco/peco)  实施.  交互式过滤工具.
 * [PSDirTag](https://github.com/wtjones/PSDirTag)  -DirTag是相对路径，在Powershell提示中显示为变量，并在导航时更新.  浏览文件夹结构时，保存击键.
-* [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil)  -旨在使用户的控制台生活更加方便.  它包括快捷键，别名，键绑定和便捷功能，旨在提高效率和减少打字.
+* [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil)  -旨在使用户的控制台生活更加方便.  它包括快捷方式，别名，键绑定和便捷功能，旨在提高效率和减少打字.
 
 ## Communities
 
@@ -106,25 +107,25 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 ## Module Development Templates
 
 * [Plaster](https://github.com/PowerShell/Plaster) -石膏是用PowerShell编写的基于模板的文件和项目生成器.
-* [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) -该模块的入门门槛低，使用方便，两分钟内即可开始使用模块模板.
+* [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) -在2分钟内即可使用该模块的模板，该模块的入门门槛低，使用方便.
 
 ## Frameworks
 
 * [Carbon](http://get-carbon.org/) -用于自动配置Windows计算机的DevOps.
 * [PowerShell PowerUp](https://github.com/janikvonrotz/PowerShell-PowerUp) -强大的服务器管理框架.
 * [PSCX](https://github.com/Pscx/Pscx) -PowerShell社区扩展-有用的其他cmdlet集.
-* [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) -轻松将配置，日志记录等添加到您自己的PowerShell模块中.
+* [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) -轻松向您自己的PowerShell模块添加配置，日志记录等.
 
 ## Package Managers
 
-* [PowershellGet](https://github.com/powershell/powershellget)  -PowerShellGet是PowerShell的软件包管理器.  包可在 [PowerShellGallery](https://www.PowerShellGallery.com).
+* [PowershellGet](https://github.com/powershell/powershellget)  -PowerShellGet是PowerShell的软件包管理器.  套餐可在 [PowerShellGallery](https://www.PowerShellGallery.com).
 * [PsGet](http://psget.net/) -从中央目录，本地文件或从Web安装模块的命令集.
-* [Chocolatey](https://chocolatey.org/)  -Windows的软件包管理器.  在Windows上管理软件的明智方法.
+* [Chocolatey](https://chocolatey.org/)  -Windows的软件包管理器.  在Windows上管理软件的理智方式.
 * [GitLab](https://github.com/akamac/GitLabProvider) -使用GitLab服务器作为Package Provider.
 
 ## Parallel Processing
 
-* [PoshRSJob](https://github.com/proxb/PoshRSJob) -提供PSjobs的替代选择，具有更高的性能和更少的开销，可在后台运行命令.
+* [PoshRSJob](https://github.com/proxb/PoshRSJob) -提供PSjobs的替代方案，具有更高的性能和更少的开销，可在后台运行命令.
 * [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) -此函数将接收一个脚本或脚本块，并针对指定的对象并行运行它.
 
 ## Podcasts
@@ -153,13 +154,14 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 * [Oh-My-Posh](https://github.com/JanJoris/oh-my-posh) -可以通过一个命令启用许多精美的主题（包括许多很棒的电力线主题）.
 * [Powerline](https://github.com/Jaykul/PowerLine) -用于更丰富的输出和提示的PowerShell类.
+* [Starship](https://github.com/starship/starship) -任何shell的最小，快速，可高度自定义的提示.
 
 ## Videos
 
-* [PowerShell Unplugged with Jeffrey Snover and Don Jones Ignite 2017](https://www.youtube.com/watch?v=D15vh-ryJGk)  -PowerShell的发明者谈论“可帮助您自动化和管理混合云的最新，最酷的PowerShell功能”.  专注于PowerShell社区.
-* [Getting Started With PowerShell 3.0 Jump Start](https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276) -快速入门系列适用于以前没有使用PowerShell的IT专业人员，并且希望快速学习它.
-* [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) -IT专业人员，请参加此高级PowerShell课程，以了解如何将实时管理和自动化脚本转换为有用的可重用工具和cmdlet.
-* [What's New in PowerShell v5](https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434) -通过描述PowerShell版本5.0中一些令人兴奋的新功能.
+* [PowerShell Unplugged with Jeffrey Snover and Don Jones Ignite 2017](https://www.youtube.com/watch?v=D15vh-ryJGk)  -PowerShell的发明者谈论了“最新和最酷的PowerShell功能以帮助您自动化和管理混合云”.  专注于PowerShell社区.
+* [Getting Started With PowerShell 3.0 Jump Start](https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276) -快速入门系列适用于没有使用PowerShell经验的IT专业人员，并且希望快速学习它.
+* [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) -IT专业人员，请学习高级PowerShell课程，以了解如何将实时管理和自动化脚本转换为有用的可重用工具和cmdlet.
+* [What's New in PowerShell v5](https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434) -通过对PowerShell版本5.0中一些令人兴奋的新功能的描述.
 * [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) -视频集全面演示了PowerShell开源项目如何在Linux上运行.
 * [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) -PowerShell开源项目及其在Linux上的运行方式的简要介绍.
 * [PowerShell](https://channel9.msdn.com/Shows/MsftPowerShell)  -该节目将包含有关PowerShell自动化平台，所需状态配置（DSC），作为代码的基础结构以及相关概念的视频！！  这些视频由Windows PowerShell的Microsoft MVP Trevor Sullivan创建.
@@ -185,7 +187,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 * [AutoSPInstaller](https://autospinstaller.com/) -自动化的SharePoint 2010-2019安装脚本.
 * [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) -SharePoint 2010、2013和Online的API.
-* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) -SPReplicator可以帮助将SharePoint列表数据复制到CSV，SQL Server，SharePoint本身以及其他内容中.
+* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) -SPReplicator可帮助将SharePoint列表数据复制到CSV，SQL Server，SharePoint本身以及其他内容中.
 
 ## SQL Server
 
@@ -194,8 +196,8 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 ## Misc
 
 * [DbgShell](https://github.com/Microsoft/DbgShell) -Windows调试器引擎的PowerShell前端.
-* [poke](https://github.com/oising/poke) -用于Powershell的疯狂炫酷反射模块.
+* [poke](https://github.com/oising/poke) -Powershell的疯狂炫酷反射模块.
   探索和调用私有API，就像没人在看着一样.
   对于安全性研究，测试和快速破解很有用.
 * [psInlineProgress](https://github.com/gravejester/psInlineProgress) -在PowerShell中编写内嵌进度条.
-* [Graphical](https://github.com/PrateekKumarSingh/graphical) - PowerShell Module to plot colorful console 2D Graphs (Scatter, Bar, Line).
+* [Graphical](https://github.com/PrateekKumarSingh/graphical) -用于绘制彩色控制台2D图形（散点图，条形图，线图）的PowerShell模块.

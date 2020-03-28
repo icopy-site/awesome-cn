@@ -25,7 +25,7 @@
 * [Wiki](https://gitlab.kitware.com/cmake/community/-/wikis/home)
 * [Webinars](https://cmake.org/webinars/)
 * [Web Book](https://github.com/ruslo/CGold) -CGold：旅行者 [Guide](https://cgold.readthedocs.io)  到CMake.  [```[BSD2]```] [BSD-2-Clause]
-* [Modern CMake](https://github.com/toeb/moderncmake) -现代CMake ** PDF **和示例的创建者 [cmakepp](https://github.com/toeb/cmakepp) .  [```[MIT]```]] [MIT]
+* [Modern CMake](https://github.com/toeb/moderncmake) -现代CMake ** PDF **和示例的创建者 [cmakepp](https://github.com/toeb/cmakepp) .  [```[MIT]```] [MIT]
 * [Article](http://foonathan.net/blog/2016/03/03/cmake-install.html) -轻松支持CMake安装和find_package（）.
 * [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) -使用CMake和Git对C ++进行轻松的依赖管理.
 * [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) -使用CMake选择加入仅标头的库.
@@ -56,6 +56,7 @@
 * [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk)  - 不好了！  更现代的CMake（[slides](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf)）-由会议C ++ 2019的Deniz Bahadir撰写.
 * [Article](https://cristianadam.eu/20190223/modifying-the-default-cmake-build-types/)  -修改默认的CMake构建类型/标志，工具链和补丁-噢，天哪！  -克里斯蒂安·亚当（Cristian Adam）.
 * [Article](https://www.jetbrains.com/help/clion/quick-cmake-tutorial.html) -CLion背后的公司JetBrains提供的快速CMake教程.
+* [Tutorial](https://github.com/schweitzer/modern-cmake-tutorial) -有关如何正确使用现代CMake的教程和示例.
 
 ## Package Management / Build Systems
 
@@ -79,12 +80,12 @@
 * [vfxcmake](https://github.com/nerdvegas/vfxcmake)  -通用vfx软件的CMake查找模块，以及通用CMake实用程序代码.  [```[LGPL]```] [LGPL]
 * [cmake-modules](https://github.com/jedbrown/cmake-modules)  -一些科学图书馆的CMake模块.  [```[BSD2]```] [BSD-2-Clause]
 * [cgcmake](https://github.com/chadmv/cgcmake)  -用于与计算机图形相关的常见应用程序的CMake模块.  [```[MIT]```] [MIT]
-* [FindMathematica](https://github.com/sakra/FindMathematica)  -Mathematica的CMake模块.  [```[MIT]```]] [MIT]
+* [FindMathematica](https://github.com/sakra/FindMathematica)  -Mathematica的CMake模块.  [```[MIT]```] [MIT]
 * [extra-cmake-modules](https://github.com/KDE/extra-cmake-modules) - [KDE](https://github.com/KDE) 的CMake额外模块和脚本.  [```[BSD3]```] [BSD-3-Clause]
 * [FindICU.cmake](https://github.com/julp/FindICU.cmake)  -CMake模块以查找Unicode国际组件（ICU）库.  [```[BSD2]```] [BSD-2-Clause]
 * [FindTBB](https://github.com/justusc/FindTBB)  -用于英特尔线程构建模块的CMake查找模块.  [```[MIT]```] [MIT]
 * [FindWiX](https://github.com/apriorit/FindWiX) -用于建筑的CMake模块 [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) 与包装 [WiX toolset](http://wixtoolset.org) .  [```[BSD3]``&#39;] [BSD-3-条款]
-* [FindIDL](https://github.com/apriorit/FindIDL) -用于建筑的CMake模块 [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) MIDL文件并使用生成CLR DLL [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer) .  [```[MIT]```]] [MIT]
+* [FindIDL](https://github.com/apriorit/FindIDL) -用于建筑的CMake模块 [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) MIDL文件并使用生成CLR DLL [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer) .  [```[MIT]```] [MIT]
 * [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei) 的CMake模块集合.  [```[MIT]```] [MIT]
 * [YCM](https://github.com/robotology/ycm) -额外的CMake模块 [Yet Another Robot Platform](https://github.com/robotology/yarp)  和朋友.  [```[BSD3]```] [BSD-3-Clause]
 * [CMakeCM](https://github.com/AnotherFoxGuy/CMakeCM)  -CMake社区模块.  ```[无许可证]```
@@ -147,7 +148,7 @@
 * [cmake-example](https://github.com/bast/cmake-example)  -演示各种CMake功能的示例项目.  [```[BSD3]```] [BSD-3-Clause]
 * [cmake-examples](https://github.com/ttroy50/cmake-examples)  -教程格式的有用CMake示例.  [```[MIT]```] [MIT]
 * [cmake-templates](https://github.com/district10/cmake-templates)  -一些CMake模板.  Qt，Boost，OpenCV，C ++ 11等.[```[MIT]```] [MIT]
-* [CppProjectTemplate](https://github.com/Barthelemy/CppProjectTemplate)  -使用CMake，boost和Doxygen的基本但有效的C ++项目.  [```[MIT]```] [MIT]
+* [CppProjectTemplate](https://github.com/Barthelemy/CppProjectTemplate) - Basic, but working, C++ project using CMake, boost and Doxygen. [```[MIT]```][MIT]
 * [mini-cmake-qt](https://github.com/euler0/mini-cmake-qt)  -Qt 5项目的最小CMake模板.  [```[LICENSE]```]（https://github.com/euler0/mini-cmake-qt/blob/master/LICENSE）
 * [CMake-VisualStudio-Example](https://github.com/cognitivewaves/CMake-VisualStudio-Example) -适用于Visual Studio开发人员的CMake示例- [blog post](http://cognitivewaves.wordpress.com/cmake-and-visual-studio/) .  ```[无许可证]```
 * [Cpp-Project-Template](https://github.com/NewProggie/Cpp-Project-Template)  -C ++引导项目模板，包括CMake构建系统.  [```[MIT]```] [MIT]
@@ -181,11 +182,11 @@
 * [python-cmake-buildsystem](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem)  -用于CPython的替换构建系统.  [```[APACHE2]```] [APACHE2]
 * [scikit-build](https://github.com/scikit-build/scikit-build)  -改进了CPython C扩展的构建系统生成器.  [```[MIT]```] [MIT]
 * [protobuf-cmake](https://github.com/jesperes/protobuf-cmake)  -对Google Protobufs的CMake构建支持.  [```[BSD3]```] [BSD-3-Clause]
-* [node-cmake](https://github.com/cjntaylor/node-cmake) - CMake-based build system for node.js native modules. [```[ISC]```][ISC]
+* [node-cmake](https://github.com/cjntaylor/node-cmake)  -用于node.js本机模块的基于CMake的构建系统.  [```[ISC]```] [ISC]
 * [cmake-font-lock](https://github.com/Lindydancer/cmake-font-lock)  -Emacs中对CMake脚本的高级语法着色支持.  [```[GPL]```] [GPL]
 * [stm32-cmake](https://github.com/ObKo/stm32-cmake)  -用于开发STM32的应用程序-ST的ARM Cortex-M0（3,4,7）MCU.  [```[MIT]```] [MIT]
 * [autovala](https://github.com/rastersoft/autovala)  -自动为您的Vala项目生成CMake配置文件的程序.  [```[GPL]```] [GPL]
-* [catkin](https://github.com/ros/catkin) - CMake-based build system that is used to build all packages in Robot Operating System (ROS). [```[BSD3]```][BSD-3-Clause]
+* [catkin](https://github.com/ros/catkin)  -基于CMake的构建系统，用于构建机器人操作系统（ROS）中的所有软件包.  [```[BSD3]```] [BSD-3-Clause]
 * [suitesparse-metis-for-windows](https://github.com/jlblancoc/suitesparse-metis-for-windows)  -CMake脚本可轻松使用SuiteSparse + METIS.  [```[BSD3]```] [BSD-3-Clause]
 * [cython-cmake-example](https://github.com/thewtex/cython-cmake-example)  -使用CMake构建Cython模块的实用程序和示例.  [```[LICENSE]```]（https://github.com/thewtex/cython-cmake-example/blob/master/LICENSE）
 * [osg-3rdparty-cmake](https://github.com/bjornblissing/osg-3rdparty-cmake)  -用于构建OpenSceneGraph第三方库的CMake脚本.  ```[混合许可]```
@@ -194,7 +195,7 @@
 * [cmake-lint](https://github.com/richq/cmake-lint)  -检查CMake文件中的编码样式问题.  cmakelint需要Python.  [```[APACHE2]```] [APACHE2]
 * [git-cmake-format](https://github.com/kbenzie/git-cmake-format)  -将clang格式集成到git存储库中托管的CMake项目中.  [```[LICENSE]```]（https://github.com/kbenzie/git-cmake-format/blob/master/license.txt）
 * [configure-cmake](https://github.com/nemequ/configure-cmake)  -configure-cmake是用于基于CMake的项目的自动工具样式的配置脚本.  [```[CC0-1.0]```] [CC0-1.0]
-* [tbb](https://github.com/wjakob/tbb)  -使用CMake构建线程构建模块.  [```[APACHE2]```] [APACHE2]
+* [tbb](https://github.com/wjakob/tbb) - Threading Building Blocks with CMake build. [```[APACHE2]```][APACHE2]
 * [sqlite.cmake.build](https://github.com/snikulov/sqlite.cmake.build)  -用于sqlite合并的CMake脚本.  ```[无许可证]```
 * [cmake-ast](https://github.com/polysquare/cmake-ast)  -将CMake文件转换为AST的Python模块.  [```[MIT]```] [MIT]
 * [cmake_format](https://github.com/cheshirekow/cmake_format)  -CMakeLists.txt文件的源代码格式化程序.  [```[GPL]```] [GPL]
@@ -206,7 +207,7 @@
 
 ## License
 
-这是根据 [**```Creative Commons Attribution 4.0 International```**](http://creativecommons.org/licenses/by/4.0/) 许可证```（CC BY 4.0）`&#39;&#39;.
+This is released under the [**```Creative Commons Attribution 4.0 International```**](http://creativecommons.org/licenses/by/4.0/) 许可证```（CC BY 4.0）`&#39;&#39;.
 
 [ISC]：https://opensource.org/licenses/ISC
 [GPL]：https://www.gnu.org/licenses/gpl-3.0.html

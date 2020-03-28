@@ -38,7 +38,7 @@ Famously...
 
 ## Functions
 
-- [fold](https://en.wikipedia.org/wiki/Fold_(higher-order_function)）-就像被子折叠起来一样，此功能将迭代一个集合，并在每个步骤中将当前项目与已被折叠的所有内容组合在一起.
+- [fold](https://en.wikipedia.org/wiki/Fold_(higher-order_function)）-就像被子折叠起来一样，此功能可以迭代一个集合，并且在每个步骤中，将当前项目与已被折叠的所有东西组合在一起.
 - [trampoline](https://clojuredocs.org/clojure.core/trampoline)  -连续运行本身返回函数的函数.  就像一个蹦床上的孩子一样，会返回并弹跳起来. 
 - [zip](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#v:zip) -将两个列表合并为一对列表，例如拉链的互锁齿.
 
@@ -73,6 +73,7 @@ Famously...
 - [ACID vs. BASE](https://www.johndcook.com/blog/2009/07/06/brewer-cap-theorem-base/) -描述竞争数据库意识形态的首字母缩略词（又名SQL vs. NoSQL）. 
 - [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) -名称说明其外观的不同案例样式.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)）-一项隐藏功能，尤其是在视频游戏中，涉及复活节彩蛋狩猎.
+- [Glue Code](https://en.wikipedia.org/wiki/Glue_code) -积木和乐高积木不共享相同的界面，但您始终可以将它们粘合在一起.
 - [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) -评估策略，它会暂停评估直到绝对必要，然后再也不会执行.
 - [Optimistic UI](https://uxplanet.org/optimistic-1000-34d9eefe4c05) -假设操作昂贵的用户界面将成功完成，从而改善感知性能.
 - [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)）-永久性地剥夺流程资源来执行其工作的问题.

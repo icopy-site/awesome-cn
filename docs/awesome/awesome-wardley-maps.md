@@ -34,7 +34,7 @@
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) -社区YouTube频道和 [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
 - [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -视觉上引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
-- [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Watch presentations and video recordings on InfoQ.
+- [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) -在InfoQ上观看演示和录像.
   
 ## Courses
 
@@ -45,6 +45,7 @@
 
  博客文章和Wardley地图的其他有趣示例.  按日期排序，最新的优先.
 
+- [Me versus We](https://medium.com/@swardley/me-versus-we-975f518b8219)  -脱离人迹罕至的地方-转动.  2020年3月27日.
 - [On the diversity of values](https://medium.com/@swardley/on-the-diversity-of-values-af1f91217be5)  -关于价值观的包容性和排他性.  2020年2月24日.
 - [From HS2 to China and … back again](https://medium.com/@swardley/from-hs2-to-china-and-back-again-6bce5764ea14)  -在不断变化的地缘政治世界中.  2020年2月23日.
 - [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) -2020年2月9日，查看组织中的团队和层级以及用于满足组织需求的做法，例如结盟，报告等.
@@ -57,7 +58,7 @@
 - [Exploring Brexit](https://medium.com/@swardley/exploring-brexit-2ea2f3f283c8)  -英国脱欧的第一个规则是“你错了”.  2019年9月5日.
 - [Exploring Culture](https://medium.com/@swardley/mapping-culture-ac164c0e17f0)  -映射文化.  2019年9月4日.
 - [What culture is right for you?](https://medium.com/@swardley/what-culture-is-right-for-you-ba892f1f3bc5) -2019年7月31日
-- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/)  -绘制路易斯·格斯特纳（Louis Gerstner）的“谁说大象不能跳舞”.  2019年6月18日.
+- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/) - Mapping "Who Says Elephants Can't Dance" by Louis Gerstner. Jun 18, 2019.
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  -应对推出新型支付解决方案的挑战.  2019年6月14日.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  -通过沃德利地图了解加密货币生态系统.  2019年6月2日.
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.

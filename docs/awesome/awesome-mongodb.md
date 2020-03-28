@@ -166,7 +166,6 @@
 Services:
 
  - [Compose](https://www.compose.com/) -IBM DBaaS提供（也有其他数据库类型）
- - [mLab](https://mlab.com/) -完全托管的DBaaS（以前称为MongoLab）
  - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) -MongoDB Inc. DBaaS产品（与AWS，Azure或GCP配合使用）
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) -MongoDB Inc.数据库管理产品
  - [ObjectRocket](https://www.objectrocket.com/) -Rackspace DBaaS提供（也有其他数据库类型）

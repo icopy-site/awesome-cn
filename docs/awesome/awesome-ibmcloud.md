@@ -80,7 +80,7 @@
 
 ## Serverless
 
-*使用IBM Cloud Functions（基于IBM Cloud的Apache OpenWhisk）部署和管理您的操作/功能.*
+*Deploy and manage your actions/functions with IBM Cloud Functions, an Apache OpenWhisk base on IBM Cloud.*
 
 * [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) -使用IBM Watson和IBM Cloud Functions发现视频中的暗数据.
 * [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) -使用IBM Cloud Functions构建的用于图像标记和面部检测的示例iOS应用程序.
@@ -151,6 +151,35 @@
 * [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) -与我们的专业开发者倡导者一起的开源技术，学习资源和本地聚会.
 * [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) -使用Watson服务，开发人员工具包，教学剪辑，活动回顾等的教程.
 * [IBM Watson Internet of Things](https://www.youtube.com/channel/UCFNoGF7Ea-FfmAjfK4ReFpA) -有关Watson服务和IoT平台的视频，采访，教育片段等.
+
+## Twitter Accounts
+
+* [IBM](https://twitter.com/IBM)  -与客户一起，我们正在使用AI，云，区块链和IoT等技术来改变业务，行业和世界.  让我们聪明地工作.
+* [IBMorg](https://twitter.com/IBMorg) - IBM’s approach to corporate responsibility reflects our business — applied technology, continuous transformation, and sustainable change. #GoodTechIBM.
+* [IBM Accessibility](https://twitter.com/IBMAccess)  -官方IBM Accessibility Twitter帐户.  该帐户遵循《 IBM Social Computing Guidelines》.
+* [IBM Blockchain](https://twitter.com/IBMBlockchain) - Official Twitter of #IBM #Blockchain. All blockchain all the time. DMs are open. Run by Kyle Schlapkohl & Bret Bardeli.
+* [IBM Cloud](https://twitter.com/IBMcloud) - Built for your business, #IBMCloud has the tools, data & APIs to make AI real now. Follows IBM Social Computing Guidelines.
+* [IBM Data and AI](https://twitter.com/IBMData) - The IBM tools, resources and industry news you need to get the most value from your #data and make it truly #AI-ready. For Support: https://ibm.com/mysupport.
+* [IBM Design](https://twitter.com/ibmdesign)  -在IBM，设计不仅是工作，而且是我们所服务人员的深切责任.  根据IBM准则由@willfanguy管理.
+* [IBM Developer](https://twitter.com/IBMDeveloper) - Open source, code patterns, tutorials, meet-ups, challenges, & a global coding community— #IBMDeveloper has it all in one place. #AI #Cloud #Blockchain.
+* [IBM FinTech](https://twitter.com/IBMFinTech)  -️Ⓜ由克劳迪娅·马西奥（Claudia Masseo）管理的正式帐户.  RegTech，支付，SPM，保险和银行业的所有最新信息.
+* [IBM Industries](https://twitter.com/IBMindustries) -立即下载《工业杂志》第8期：https：//ibm.co/industrious.
+* [IBM iX](https://twitter.com/IBM_iX)  -我们设想未来的业务-并帮助我们的客户将它们变为现实.  遵循IBM社会准则.
+* [IBM Live](https://twitter.com/ibmlive) - Your home for #IBM's immersive event experiences. Learn more about our upcoming worldwide events. Managed by Rafiat K and Ixel M. Follows IBM Social Guidelines.
+* [IBM News Room](https://twitter.com/IBMNews)  -所有与IBM业务，技术和人员有关的新事物+值得关注的官方中心.  该帐户遵循IBM Social Computing Guidelines.
+* [IBM Policy](https://twitter.com/IBMpolicy)  -IBM政府与法规事务和IBM Policy Lab的正式帐户.  在技​​术和创新政策问题上发推文.  由Adam Pratt和Ashley Bright管理.
+* [IBM Power Systems](https://twitter.com/IBMPowerSystems) - Official Twitter account for IBM Power Systems—built to crush the most advanced data applications from mission-critical workloads to the next generation of #AI.
+* [IBM Research](https://twitter.com/IBMResearch)  -这是IBM Research的官方Twitter ID.  该帐户由Chris Sciacca管理，并遵循《 IBM Social Computing Guidelines》.
+* [IBM Security](https://twitter.com/IBMSecurity)  -我们保护业务，使您在面对网络不确定性时能够free壮成长.  如需支持，请@AskIBMSecurity.  遵循IBM社交计算准则.
+* [IBM Sports & Entertainment](https://twitter.com/IBMSports) - Official IBM Twitter account. Managed by Noah Syken and Elizabeth O'Brien. Follows the IBM Social Computing Guidelines. #IBMsports.
+* [IBM Sterling Supply Chain](https://twitter.com/IBMSupplyChain) - #SupplyChain and #B2BCollaboration news & innovation from #IBMSterling. We help you build smarter business networks. Follows IBM Social Computing Guidelines.
+* [IBM Storage](https://twitter.com/IBMStorage) -利用业界最广泛的存储解决方案组合之一来捕获数据的功能，以在多云和AI环境中统一，管理和保护数据.
+* [IBM Systems](https://twitter.com/IBMSystems) - From servers and mainframes to storage systems and software, IBM provides the building blocks of a next-gen #ITinfrastructure that empowers your enterprise.
+* [IBM thinkLeaders](https://twitter.com/IBMthinkLeaders)  -数字时代变革与创新的思想领导者.  查看我们的播客：https：//ibm.biz/thinkpoditunes.
+* [IBM Watson](https://twitter.com/IBMWatson) -Watson是针对专业人士的AI，专为您的业务而设计.
+* [IBM Watson Commerce](https://twitter.com/ibmcommerce)  -HCL Technologies已经获得了几种IBM Commerce解决方案.  了解更多信息：https://ibm.co/2Jm59iP.
+* [IBM Watson Health](https://twitter.com/IBMWatsonHealth) - Watson Health is Smarter Health – Using data, analytics and #IBM technologies and services to help make smarter health a reality.
+* [IBM Watson IoT](https://twitter.com/IBMIoT) - Intelligence is your greatest asset. Follow us for the latest on insightful #IIoT solutions using #AI. Official IBM #IoT, managed by @theRab & @graemeknows.
 
 ## Contributing
 
