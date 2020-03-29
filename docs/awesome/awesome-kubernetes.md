@@ -216,6 +216,7 @@ Installers
 - [Kubernetes 101 – Networking](http://www.dasblinkenlichten.com/kubernetes-101-networking/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
 - [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
+- [IPVS-Based In-Cluster Load Balancing Deep Dive](https://kubernetes.io/blog/2018/07/09/ipvs-based-in-cluster-load-balancing-deep-dive/)
 
 
 
@@ -265,6 +266,7 @@ Installers
 * [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) 通过 [Dan Pastusek](https://twitter.com/pastudan)
 * [Simplify your research experiments with Kubernetes](https://www.ovh.com/blog/simplify-your-research-experiments-with-kubernetes/) 通过 [Parmentier Laurent](https://www.linkedin.com/in/laurent-parmentier-33187948/)
 * [Self-registering compact k3OS clusters to Rancher Server via cloud-init](https://medium.com/@jamesdavidbohrman/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8) 通过 [James D. Bohrman](https://github.com/jdbohrman)
+* [Benchmarking 5 Popular Load Balancers: Nginx, HAProxy, Envoy, Traefik, and ALB](https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb/)
 
 在Kubernetes中管理
 =======================================================================
@@ -952,7 +954,7 @@ Books
 
 * [Cloud Native DevOps with Kubernetes](http://shop.oreilly.com/product/0636920175131.do) 通过 [John Arundel](https://twitter.com/bitfield), [Justin Domingus](https://justindomingus.com/) ([blog](https://cloudnativedevopsblog.com))
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
-* [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer)，孙建波和浙江大学的实验室SEL
+* [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer)，孙建波和ZJU SEL实验室
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) 杰夫·尼克洛夫（Jeff Nickoloff）和斯蒂芬·库恩兹利（Stephen Kuenzli）
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) 通过 [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）

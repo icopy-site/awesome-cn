@@ -52,8 +52,8 @@
 * Beta绑定-http://www.betabound.com/announce/
 * Beta页-https://betapage.co/
 * Betafy-https://www.betafy.co/easysignup/startup
-* BetaList-https://betalist.com/submit
-*最好-https://beterest.com/submit-startup/
+* BetaList - https://betalist.com/submit
+*更好的测试-https://beterest.com/submit-startup/
 * Boing Boing-http://boingboing.net/sub/
 * BuiltInChicago-http://www.builtinchicago.org/send-us-tip
 * Capterra-http://www.capterra.com/vendors/sign-up
@@ -88,7 +88,7 @@
 *启动列表-https://launchlister.com/submit-startup
 *已启动-https://launched.io/SubmitStartup
 *下一步启动-http://www.launchingnext.com/submit/
-* Loop - https://app.loopinput.com/ 
+*循环-https://app.loopinput.com/ 
 * MakeUseOf-http://www.makeuseof.com/about/
 * Maqtoob-https://maqtoob.com/submit-a-tool
 *动员-https://www.moblized.com/vendors/register
@@ -103,13 +103,11 @@
 *产品搜寻-http://www.producthunt.com/
 *可编程Web-https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18
 * PublicityX-https://www.publicityx.com/startups/new
-*版本2-http://www.rev2.org/
 * Robingood-http：//tools.robingood.com/
 *订阅-https://www.saashub.com/
 *萨斯化-https://saasified.co
 *显示HN-https://news.ycombinator.com/showhn.html
 *侧面投影仪-https://www.sideprojectors.com
-*辅助项目-http://sideprojects.web3canvas.com
 * SideProjects-https://sideprojects.net
 * SameSiteSearch-http://www.similarsitesearch.com/tips.html
 *倾斜-https://www.slant.co/

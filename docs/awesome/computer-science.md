@@ -73,7 +73,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ## Community
 
- -我们有一个聊天室！  这应该是您与其他OSSU学生交谈的第一站.  您为什么现在不自我介绍？ [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
+ -我们有一个聊天室！  这应该是您与其他OSSU学生交谈的第一站.  您为什么现在不自我介绍？ [Join the chat in Gitter](https://gitter.im/open-source-society/computer-science) [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
 -您也可以通过 [GitHub issues](https://github.com/ossu/computer-science/issues) .  如果课程有问题，或者需要对课程进行更改，那么这里就是开始对话的地方.  阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
 -将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 轮廓！
  -注意：在搜索OSSU时，可能会找到一个未维护且已弃用的Firebase应用程序.  您可以放心地忽略它.  阅读更多 [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
@@ -87,8 +87,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ## Prerequisites
 
-- [Core CS](#core-cs) 假设学生已经上过高中数学和物理，包括代数，几何和预微积分.
-一些高中毕业生将已经修过AP微积分，但这通常只相当于大学微积分课程的3/4，因此仍建议使用课程中的微积分课程.
+- [Core CS](#core-cs) 假设学生已经参加了 [high school math](https://www.khanacademy.org/math/high-school-math)，包括代数，几何和预演算.
 - [Advanced CS](#advanced-cs) 假设学生已经掌握了整个核心CS
 并且现在已经足够知识来决定选修哪个选修课了.
 - 注意 [Advanced systems](#advanced-systems) 假设学生已修过基础物理学课程（例如，高中的AP Physics）.
@@ -130,11 +129,11 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ## Core CS
 
-除非另有说明，否则**必修**必修课程**.
+除非另有说明，否则**必修**必修的所有CS课程.
 
 ### Core programming
 **涵盖的主题**：
-`functional programming`
+功能编程
 “测试设计”
 程序要求
 通用设计模式
@@ -152,7 +151,7 @@ Lisp家庭语言（通过球拍）
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)  |  7周  每周8-10个小时|  没有
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  |  6周  每周8-10个小时|  如何编码：简单数据
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  4周  每周8-16小时|  推荐：Java，C
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3周  每周8-16小时|  编程语言，A部分
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3周  每周8-16小时|  编程语言，B部分
 
@@ -222,7 +221,7 @@ Lisp家庭语言（通过球拍）
 
  课程  持续时间|  努力  其他文字/作业|  先决条件
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/) ）|  12周|  每周10-20个小时|  在有关C的各节之后，请跳至下一课程. [Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50)  |  入门编程
+[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/) ）|  12周|  每周10-20个小时|  在有关C的各节之后，请跳至下一课程. [Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50) | introductory programming
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/) ）|  6周  每周7到13个小时|  -|  类似于C的编程语言
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6周  每周12-18个小时|  -|  之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png)，从南德到俄罗斯方块第一部分
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) |  8周  每周4–12小时| [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)  |  代数，概率，基本CS
@@ -245,7 +244,7 @@ Lisp家庭语言（通过球拍）
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)  |  4周  每周4-8个小时|  任何编程语言，计算机科学数学
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)  |  4周  每周4-8个小时|  分而治之，排序和搜索以及随机算法
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)  |  4周  每周4-8个小时|  图搜索，最短路径和数据结构
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete)  |  4周  每周4-8个小时|  贪婪算法，最小生成树和动态规划
@@ -278,7 +277,7 @@ Lisp家庭语言（通过球拍）
 
 ## Advanced CS
 
-在完成了核心CS的“每门必修课程”之后，学生应根据兴趣从Advanced CS中选择课程的一部分.
+在完成了核心CS中的“每门必修课程”之后，学生应根据兴趣从Advanced CS中选择课程的子集.
 并非每个子类别的课程都需要学习.
 但是学生应该选择与他们打算进入的领域相关的“每门”课程.
 
@@ -371,7 +370,7 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得专业化课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
