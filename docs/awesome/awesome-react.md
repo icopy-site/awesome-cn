@@ -136,6 +136,12 @@
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -根据Atlassian设计指南构建的Atlassian官方UI库.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
 - [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，包含50多个具有材质，引导程序和自定义主题的组件.
+- [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
+- [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
+- [rbx](https://github.com/dfee/rbx) -React的综合布尔玛UI框架
+- [trunx](https://github.com/fibo/trunx) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
+- [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
+- [tails-ui](https://github.com/knipferrc/tails-ui) -基于tailwindcss的干净UI
 
 ##### React Awesome Components
 
@@ -224,7 +230,7 @@
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
 - [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
 - [react-esi](https://github.com/dunglas/react-esi) -反应边缘侧包括
-- [hookstate](https://github.com/avkonst/hookstate) -基于钩子的React的现代，非常快速和可扩展的状态管理
+- [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
 - [universal-model-react](https://github.com/universal-model/universal-model-react) -React的统一状态管理解决方案
 
 ##### React Integration
@@ -403,7 +409,7 @@
 
 ### React Native
 
-> Framework for building native apps using React
+&gt;使用React构建本机应用程序的框架
 
 #### React Native General Resources
 
@@ -723,4 +729,4 @@
 
  该列表最初是关于React有趣的事情的个人收藏.  在React刚开始测试时，它是一个特殊的脚本，可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

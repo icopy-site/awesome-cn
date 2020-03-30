@@ -13,7 +13,7 @@
 ## Journals
 
 - [The Programming Historian](https://programminghistorian.org/) -新手友好，同行评审的教程，可帮助人文主义者学习广泛的数字工具，技术和工作流程，以促进研究和教学.
-- [Current Research in Digital History](http://crdh.rrchnm.org/) -乔治·梅森大学（Roy Rosenzweig）历史与新媒体中心罗伊·罗森茨威格（Roy Rosenzweig）历史与新媒体中心的年度开放获取，经过同行评审的出版物.
+- [Current Research in Digital History](http://crdh.rrchnm.org/) -乔治·梅森大学（Roy Rosenzweig）历史与新媒体中心罗伊·罗森茨威格（Roy Rosenzweig）历史和新媒体中心的年度开放获取，同行评审.
 
 ## Primary Sources
 
@@ -49,6 +49,7 @@
 - [Diplomatic Documents of Switzerland](https://www.dodis.ch/) -瑞士的外交文件.
 - [e-rara](https://www.e-rara.ch/) -瑞士图书馆数字化印刷的平台.
 - [e-manuscripta](https://www.e-manuscripta.ch/) -瑞士图书馆和档案馆的手稿材料.
+- [e-gs](https://www.e-gs.ethz.ch/) -苏黎世联邦理工学院图形收藏在线门户网站.
 - [infoclio.ch Edition projects](http://www.infoclio.ch/en/edition-projects) -包含瑞士当前所有历史版本项目的数据库.
 - [MEMOBASE](http://www.memobase.ch/) -来自13个瑞士存储机构的70,000个视听文档.
 - [COSMOV](http://www.cosmov.uzh.ch/) -COSMOV包含1968年夏天苏黎世活动的数字版本.
@@ -71,7 +72,7 @@
 
 ## Encyclopaedias
 
-- [Historical Dictionary of Switzerland](https://hls-dhs-dss.ch/) -关于瑞士历史的字典.
+- [Historical Encyclopedia of Switzerland](https://hls-dhs-dss.ch/) -关于瑞士历史的百科全书.
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) -关于哲学和相关学科的百科全书.
 
 ## Tools
@@ -87,6 +88,7 @@
 - [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) -为历史学家（教师和学生，档案管理员和博物馆策展人，教授以及业余爱好者）提供的网络介绍，他们希望制作在线历史著作，或者在这种重要的新媒介上进一步发展和改进他们已经开始的项目.
 - [forText](https://fortext.net/routinen/lerneinheiten) -学习以数字方式（德语）探索文学.
 - [Framework for Information Literacy for Higher Education](http://www.ala.org/acrl/standards/ilframework) -如何教授数字素养.
+- [Missing Semester](https://missing.csail.mit.edu/) -课堂上未教授的有用工具.
 
 ### Visualization
 
@@ -113,7 +115,7 @@
 
 ### Data Analysis
 
-- [Open Semantic Search](https://www.opensemanticsearch.org/) -适用于您自己的搜索引擎的免费软件，用于发现大型文档集合的资源管理器，媒体监视，文本分析，基于Apache Solr或Elasticsearch开源企业搜索的企业文本分析和文本挖掘平台以及链接数据的开放标准，语义Web和链接的开放数据集成.
+- [Open Semantic Search](https://www.opensemanticsearch.org/) -适用于您自己的搜索引擎的免费软件，用于发现大型文档集合的资源管理器，媒体监视，文本分析，基于Apache Solr或Elasticsearch开源企业级搜索的企业分析和文本挖掘平台以及用于链接数据的开放标准，语义Web和链接的开放数据集成.
 - [Data Pen](http://hdlab.stanford.edu/data-pen/) -人文研究人员访问，探索和操纵多维历史数据的框架.
 - [Breve](http://hdlab.stanford.edu/breve/) -可视化和编辑表格数据.
 - [Voyant](https://voyant-tools.org/) -数字文本的阅读和分析环境.
@@ -165,7 +167,7 @@
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内，MoritzMähr放弃了所有版权和
 相关或邻接权.

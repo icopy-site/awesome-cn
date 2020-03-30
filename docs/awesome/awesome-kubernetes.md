@@ -150,6 +150,7 @@ Installers
 
 *来自Kubernetes团队的关于稳定Kubernetes发行版的正式发行说明*
 
+* [Kubernetes-1.18](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.18.md)
 * [Kubernetes-1.17](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.17.md)
 * [Kubernetes-1.16](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.16.md)
 * [Kubernetes-1.15](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.15.md)
@@ -250,7 +251,7 @@ Installers
 * [1 command to Kubernetes with Docker compose](http://sebgoa.blogspot.in/2015/04/1-command-to-kubernetes-with-docker.html) 通过 [Sebastien Goasguen](https://twitter.com/sebgoa)
 * [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
-* [CoreOS + Kubernetes Step By Step](https://coreos.com/kubernetes/docs/latest/getting-started.html) 通过 [Coreos](https://twitter.com/coreoslinux)
+* [CoreOS + Kubernetes Step By Step](http://coreos.com/tectonic/docs/latest/tutorials/kubernetes/getting-started.html) 通过 [Coreos](https://twitter.com/coreoslinux)
 * [Deploying to Kubernetes with Panamax](http://www.ctl.io/developers/blog/post/deploying-to-kubernetes-with-panamax/) 通过 [Brian DeHamer](https://twitter.com/bdehamer)
 * [Deploy Kubernetes with a Single Command Using Atomicapp](http://www.projectatomic.io/blog/2015/08/fun-with-kubenetes-and-atomicapp/) 通过 [Jason Brooks](https://twitter.com/jasonbrooks)
 * [Deploying a Bare Metal Kubernetes Cluster](http://blog.jameskyle.org/2014/08/deploying-baremetal-kubernetes-cluster/) 通过 [James Kyle](https://twitter.com/jameskyle75)

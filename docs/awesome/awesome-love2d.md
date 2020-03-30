@@ -57,6 +57,7 @@
 * [LÖVE API](https://github.com/love2d-community/love-api) -Lua表中LÖVE的完整API文档
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) -使用TypeScript编写LÖVE游戏
 * [MakeLove](https://github.com/instilledbee/MakeLove) -通过实时监视更改自动为项目创建构建（仅限Windows）
+* [boon](https://github.com/camchenry/boon) -LÖVE的跨平台构建工具
 
 ## Drawing
 *绘制特定的库，简化了绘制过程*
@@ -190,7 +191,7 @@
 *在第三方商店中分发LÖVE游戏的指南*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) -用于包装LÖVE游戏以在Snappy商店中分发的模板
-* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可在基于Linux的常见操作系统（如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上运行的AppImages；  一局=一局
+* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可在基于Linux的常见操作系统（例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上运行的AppImages；  一局=一局
 
 ## Serialization
 *保存游戏和存储库*
@@ -323,7 +324,7 @@
 
 ## Contributing
 
-请参阅 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 有关详细信息.
+请参见 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 有关详细信息.
 
 ## Other Awesome Lists
 

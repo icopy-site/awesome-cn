@@ -104,7 +104,7 @@
 
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) -AdaCore大学视频教程.
-- [ada-crash-course](http://www.pchapin.org/Ada/AdaCrash.pdf) -佛蒙特州技术学院提供的Ada 2012速成课程少于50页.
+- [ada-crash-course](http://www.pchapin.org/Ada/AdaCrash.pdf) -佛蒙特技术学院提供的Ada 2012速成课程少于50页.
 - [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) -通过编写简单的游戏学习Ada 2012.
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) -在SPARK中收集经过验证的功能和数据类型.
 
@@ -112,7 +112,7 @@
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) -Wikibooks上的Ada编程书.
 - [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) -2005年Ada蒸馏.
 - [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) -Ada 95：面向对象编程的技巧.
-- [ada-cpp-java](https://learn.adacore.com/books/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
+- [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) -通过SPARK的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  -安全可靠的软件.  2012年Ada邀请函.
 - [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -Ada 95中的本书，从初学者到高级概念，并附带源文件
@@ -325,7 +325,7 @@
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) -Ada构造了皮棉工具.
 - [spark-2014](https://github.com/AdaCore/spark2014/) -SPARK正式验证工具集.
 - [acats](https://github.com/simonjwright/ACATS) -针对GCC定制的Ada合格评定测试套件.
-- [acats-grading](https://github.com/simonjwright/ACATS-grading) -用于对ACATS结果进行评分的工具，已针对类似Unix的系统进行了修改.
+- [acats-grading](https://github.com/simonjwright/ACATS-grading) -用于对ACATS结果进行评分的工具，已针对类Unix系统进行了修改.
 
 #### Generation
 - [asn1scc](https://github.com/ttsiodras/asn1scc) -ASN1SCC：Ada类型声明和编码器/解码器的开源ASN.1生成器.
