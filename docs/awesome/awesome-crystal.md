@@ -102,7 +102,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) -的绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
 
 ## Configuration
- * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+ * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) -加载.env文件
  * [envyable](https://github.com/philnash/envyable.cr) -一个简单的YAML到ENV配置加载程序
  * [habitat](https://github.com/luckyframework/habitat) -为您的类和模块输入安全配置
  * [totem](https://github.com/icyleaf/totem) -加载和解析JSON，YAML，dotenv格式的配置
@@ -201,6 +201,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) 实作
  * [kave](https://github.com/jwoertink/kave) -Kemal API版本扩展
  * [kemal-session](https://github.com/kemalcr/kemal-session) -Session正在为Kemal交易
+ * [mochi](https://github.com/gitlato/mochi) -受Devise支持的身份验证分片：可验证，可确认，可邀请等
  * [multi-auth](https://github.com/msa7/multi_auth) -标准化的多提供商OAuth2身份验证（受omniauth启发）
  * [praetorian](https://github.com/ilanusse/praetorian) -受Pundit启发的极简主义授权库
  * [request_id](https://github.com/SuperPaintman/request-id) -中间件，用于生成/获取Crystal服务器的唯一请求ID
@@ -245,7 +246,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Image processing
  * [libpixel.cr](https://github.com/libpixel/libpixel.cr)
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) -的绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) -读取和写入PNG图像
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) -查理编程语言
@@ -271,6 +272,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [ai4cr](https://github.com/drhuffman12/ai4cr) -人工智能（基于https://github.com/SergioFierens/ai4r）
  * [Cadmium](https://github.com/cadmiumcr/cadmium) -NLP库主要基于 [natural](https://github.com/NaturalNode/natural)
  * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) -FANN（快速人工神经网络）绑定
+ * [mxnet.cr](https://github.com/toddsundsted/mxnet.cr) -的绑定 [MXNet](https://mxnet.incubator.apache.org/)
  * [shainet](https://github.com/NeuraLegion/shainet) -SHAInet（纯水晶神经网络）
  * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) -的绑定 [TensorFlow](https://github.com/tensorflow/tensorflow)
 
@@ -296,6 +298,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) -国际化碎片
  * [immutable](https://github.com/lucaong/immutable) -实现线程安全的，持久的，不可变的集合
  * [inflector.cr](https://github.com/phoffer/inflector.cr) -单数，复数，驼色等（来自ActiveSupport的端口）
+ * [iterm2](https://github.com/toddsundsted/iterm2) -使用ITerm2内嵌图像协议在终端内显示图像
  * [lirith](https://github.com/lirith-engine/lirith) -图形引擎
  * [m3u8](https://github.com/akiicat/m3u8) -生成和解析m3u8播放列表以进行HTTP Live Streaming
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) -验证并生成Rails的ActiveSupport :: MessageVerifier签名令牌
@@ -338,7 +341,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) -通过灵活的查询可链接构建器和迁移系统实现Active Record模式
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) -Redis的对象哈希映射库
  * [onyx-sql](https://github.com/onyxframework/sql) -与DB无关的SQL ORM，具有漂亮的DSL和类型安全的查询生成器
- * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) -以TSV格式从Redis导入和导出数据
+ * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm) -RethinkDB / RebirthDB的ORM
  * [stal-crystal](https://github.com/soveran/stal-crystal) -为Redis设置代数求解器
  * [topaz](https://github.com/topaz-crystal/topaz) -一个简单而有用的数据库包装器
@@ -376,6 +379,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [tasker](https://github.com/spider-gazelle/tasker) -包含时区感知的cron作业的高精度调度程序
 
 ## Science and Data analysis
+ * [ishi](https://github.com/toddsundsted/ishi) -带有小型API和gnuplot支持的明智默认值的图形绘图软件包
  * [linalg](https://github.com/konovod/linalg) -受MATLAB和SciPy.linalg启发的线性代数库
  * [num.cr](https://github.com/crystal-data/num.cr) -支持N维数据的数值计算库
  * [predict.cr](https://github.com/RX14/predict.cr) -使用sgp4模型的卫星预测库
@@ -426,27 +430,30 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Third-party APIs
  * [aws-credentials](https://github.com/y2k2mt/aws-credentials) -通过多种方式获取AWS凭证
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) -该库使用AWS v4对您的HTTP请求进行签名
- * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) - AWS S3 interface
+ * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
  * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -客户端API领事
- * [crystal-darksky](https://github.com/sb89/crystal-darksky) -包装 [Dark Sky](https://darksky.net) API
- * [crystal-github](https://github.com/felipeelias/crystal-github) -包装 [Github](https://github.com/) API
+ * [crystal-darksky](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
+ * [crystal-github](https://github.com/felipeelias/crystal-github) - Wrapper for the [Github](https://github.com/) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) -星球大战API（SWAPI）包装器
  * [crystal_slack](https://github.com/manastech/crystal_slack) -解析Slack斜杠命令或发送传入的Web挂钩的工具
  * [discordcr](https://github.com/meew0/discordcr) -极简的Discord API库
  * [GDAX](https://github.com/mccallofthewild/gdax) -带有请求签名的GDAX REST和WebSocket API包装器
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) -GitLab API包装器
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) -Google Maps API
+ * [host_meta](https://github.com/toddsundsted/host_meta) -Web主机元数据（https://tools.ietf.org/html/rfc6415）客户端
  * [kube-client.cr](https://github.com/spoved/kube-client.cr) -Kubernetes API客户端
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) -用于将事件发送到Mixpanel的库
+ * [mollie.cr](https://github.com/tilishop/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API包装器（信用卡，PayPal，Apple Pay，Sofort，Klarna等）
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) -Raven是的客户 [Sentry](https://github.com/getsentry/sentry)
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) -访问Twitter API的库
+ * [web_finger](https://github.com/toddsundsted/web_finger) -WebFinger（https://tools.ietf.org/html/rfc7033）客户端
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) -与您的YNAB数据进行交互的库
 
 ## Validation
- * [accord](https://github.com/neovintage/accord) -共享的Crystal对象验证库
+ * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
  * [assert](https://github.com/blacksmoke16/assert) -基于可扩展注释的对象验证库
  * [denetmen](https://github.com/izniburak/denetmen) -修补Crystal stdlib的微型检查库
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
@@ -514,6 +521,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-base](https://github.com/ruivieira/crystal-base) -用于Crystal开发的CentOS基本docker映像
  * [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags) -水晶的Ctags生成器
  * [crystal-dash-docset](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) 文档集生成器
+ * [public_suffix](https://github.com/toddsundsted/public_suffix) -旨在简化公共后缀列表（https://publicsuffix.org/）的小型图书馆
 
 ## DevOps
  * [ansible-crystal](https://github.com/CorbanR/ansible-crystal) -Ansible剧本，用于安装水晶

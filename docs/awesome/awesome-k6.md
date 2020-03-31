@@ -28,6 +28,10 @@
 - [Using k6 with TypeScript](https://medium.com/better-programming/performance-testing-in-typescript-5b5444510b83) -为什么在TypeScript中编写k6脚本是一个好主意，以及如何设置框架.
 - [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) -最流行的开源负载测试工具的详细比较.
 
+## Videos
+
+- [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) -k6简介，显示了如何从HAR文件创建测试.
+
 ## Reference Projects
 
 - [k6-circleci-example](https://github.com/loadimpact/k6-circleci-example) -作为CircleCI构建的一部分运行k6负载测试.

@@ -64,6 +64,8 @@ them.
   （Python，BSD， [GitHub](https://github.com/sfepy/sfepy))
 - [FreeFEM](https://freefem.org) -高级Multiphysics-multimesh有限元语言.
   （C ++，LGPL， [GitHub](https://github.com/FreeFem))
+- [libceed](https://libceed.readthedocs.io/en/latest/index.html) -有效的可扩展离散化代码.
+  （C，2句BSD， [GitHub](https://github.com/CEED/libCEED))
 
 ## Meshing
 
@@ -88,7 +90,7 @@ them.
   许可]（https://www.unidata.ucar.edu/software/netcdf/copyright.html），
   [GitHub](https://github.com/Unidata/netcdf-c/))
 - [HDF5](https://support.hdfgroup.org/HDF5/) -用于存储和管理数据的数据模型，库和文件格式.
-  (C/Fortran, BSD)
+  （C / Fortran，BSD）
 - [XDMF](http://www.xdmf.org/index.php/Main_Page) -用于高性能计算代码的数据的可扩展数据模型和格式.
   （C ++， [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) -优质的四面体网格生成器和3D Delaunay三角剖分器.
@@ -177,7 +179,7 @@ them.
 - [SciComp StackExchange](https://scicomp.stackexchange.com/) -StackExchange网络上的计算科学.
 - [Wolfgang Bangerth's video class](https://www.math.colostate.edu/~bangerth/videos.html) -MATH 676：科学计算中的有限元方法.
 - [Nick Higham's blog](https://nhigham.com/) -通常在MATLAB上提供一般计算建议.
-- [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) -关于逼近理论/实践和科学计算的36个视频讲座.
+- [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 36 video lectures on approximation theory/practice and scientific computing.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) -科学计算的壮举.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) -解决线性代数问题的免费软件列表.
 - [NA Digest](https://www.netlib.org/na-digest-html/) -收集与数值分析有关的主题和实践者的文章.

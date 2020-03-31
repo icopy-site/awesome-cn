@@ -77,6 +77,7 @@
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费Wiki软件平台，其设计重点是可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  API自动化，无需编码，简单的JSON响应断言，测试REST，SOAP，Kafka和Java / DB API，CI / Jenkins Friendly.
 - [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  SirixDB是一种进化的，版本化的NoSQL文档存储（XML和JSON）（主要是用Java编写）.  它使用从ZFS和Git借来的许多概念在提交期间存储压缩快照.  每个修订都已建立索引，并且可以使用临时查询来查询文档存储.  特别适合现代硬件.
+- [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一个将图像转换为PDF文件的Android应用.
 
 ## JavaScript
 
@@ -106,7 +107,7 @@
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs)  _（标签：抢购对象）_ <br>  一个轻量级的JavaScript日期库，用于解析，验证，操作和格式化日期.
 - [serverless](https://github.com/serverless/serverless/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  无服务器框架
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Hoodie Camp是供新老参与者使用的空间.
-- [React](https://github.com/facebook/react/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一个声明性，有效且灵活的JavaScript库，用于构建用户界面.
+- [React](https://github.com/facebook/react/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  用于构建用户界面的声明性，高效且灵活的JavaScript库.
 - [React Native](https://github.com/facebook/react-native/labels/Good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建本机应用程序的框架.
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution)  _（标签：良好贡献）_ <br>  具有服务器渲染功能的React框架可实现快速的页面加载和浏览器中页面之间的无缝过渡.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  快速，可靠和安全的依赖关系管理.
@@ -179,6 +180,7 @@
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一个软件包，提供了将MailChimp与Laravel 5集成的简便方法.
 - [Appwrite](https://github.com/appwrite/appwrite/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  适用于前端和移动开发人员的端到端后端服务器. 
 - [NextCloud Server](https://github.com/nextcloud/server/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Nextcloud服务器，所有数据的安全之家.
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  开源电子商务解决方案，可以开始您的在线业务并开始在线销售.
 
 ## Python
 

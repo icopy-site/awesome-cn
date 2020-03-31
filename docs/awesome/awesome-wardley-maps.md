@@ -26,7 +26,7 @@
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) -知识共享书作者： [Simon Wardley](https://twitter.com/swardley).
   -PDF和.mobi电子书（Kindle） [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
-- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -Wiki百科全书，专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术.
+- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术的Wiki百科全书.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) -维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
 
@@ -45,6 +45,7 @@
 
  博客文章和Wardley地图的其他有趣示例.  按日期排序，最新的优先.
 
+- [Research Skills Framework](https://www.researchskills.net/) -RSF [Map](https://www.researchskills.net/framework/map)  和Mapping Kit建立在Simon Wardley的地图上.  于2020年3月30日检索.
 - [Me versus We](https://medium.com/@swardley/me-versus-we-975f518b8219)  -脱离人迹罕至的地方-转动.  2020年3月27日.
 - [On the diversity of values](https://medium.com/@swardley/on-the-diversity-of-values-af1f91217be5)  -关于价值观的包容性和排他性.  2020年2月24日.
 - [From HS2 to China and … back again](https://medium.com/@swardley/from-hs2-to-china-and-back-again-6bce5764ea14)  -在不断变化的地缘政治世界中.  2020年2月23日.
@@ -58,7 +59,7 @@
 - [Exploring Brexit](https://medium.com/@swardley/exploring-brexit-2ea2f3f283c8)  -英国脱欧的第一个规则是“你错了”.  2019年9月5日.
 - [Exploring Culture](https://medium.com/@swardley/mapping-culture-ac164c0e17f0)  -映射文化.  2019年9月4日.
 - [What culture is right for you?](https://medium.com/@swardley/what-culture-is-right-for-you-ba892f1f3bc5) -2019年7月31日
-- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/) - Mapping "Who Says Elephants Can't Dance" by Louis Gerstner. Jun 18, 2019.
+- [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/)  -绘制路易斯·格斯特纳（Louis Gerstner）的“谁说大象不能跳舞”.  2019年6月18日.
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  -应对推出新型支付解决方案的挑战.  2019年6月14日.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  -通过沃德利地图了解加密货币生态系统.  2019年6月2日.
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.
@@ -98,10 +99,11 @@
 ### Mapping
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) -动画指导和开源Wardley地图图标集合.
-- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
-- [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
+- [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) -Microsoft Visio和PowerPoint的模板.
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的方法指南.
+- [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
+- [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -OmniGraffle的Wardley映射模具.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和11，展示了在LaTeX中绘制沃德利地图的过程.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -Wardley yYd的调色板.
 
 ### Doctrine Assessement
@@ -134,7 +136,7 @@
 
 ## Meetups
 
--欧洲
+- Europe
   -比利时
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
   - 捷克共和国

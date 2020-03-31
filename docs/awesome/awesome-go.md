@@ -385,6 +385,7 @@
 
 * SQL查询生成器，用于构建和使用SQL的库.*
 
+* [buildsqlx](https://github.com/arthurkushman/buildsqlx) -使用PostgreSQL的数据库查询构建器库.
 * [dbq](https://github.com/rocketlaunchr/dbq) -Go的零样本数据库操作.
 * [Dotsql](https://github.com/gchaincl/dotsql) -Go库可帮助您将sql文件保存在一个位置，并轻松使用它们.
 * [gendry](https://github.com/didi/gendry) -非侵入式SQL构建器和强大的数据绑定器.
@@ -438,7 +439,7 @@
     * [goriak](https://github.com/zegl/goriak) -Riak KV的语言驱动程序.
     * [mgm](https://github.com/kamva/mgm) -Go的基于MongoDB模型的ODM（基于官方的MongoDB驱动程序）.
     * [mgo](https://github.com/globalsign/mgo) -（无需维护）用于Go语言的MongoDB驱动程序，该驱动程序遵循标准的Go习惯用法，在非常简单的API下实现了功能丰富且经过测试的精选功能.
-    * [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) -Go语言的官方MongoDB驱动程序.
+    * [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - Official MongoDB driver for the Go language.
     * [neo4j](https://github.com/cihangir/neo4j) -用于Golang的Neo4j Rest API绑定.
     * [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) -Golang中的Neo4j REST客户端.
     * [neoism](https://github.com/jmcvetta/neoism) -Golang的Neo4j客户端.
@@ -1826,7 +1827,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [silk](https://github.com/chrispassas/silk) -读取丝网流文件.
 * [slice](https://github.com/psampaz/slice) -用于常见Go Slice操作的类型安全功能.
 * [sliceconv](https://github.com/Henry-Sarabia/sliceconv) -基本类型之间的切片转换.
-* [slicer](https://github.com/leaanthony/slicer) - Makes working with slices easier.
+* [slicer](https://github.com/leaanthony/slicer) -使切片操作更加轻松.
 * [sorty](https://github.com/jfcg/sorty) -快速并发/并行排序.
 * [spinner](https://github.com/briandowns/spinner) -封装可轻松为终端旋转器提供选项.
 * [sqlx](https://github.com/jmoiron/sqlx) -在出色的内置数据库/ sql软件包的基础上提供了一组扩展.

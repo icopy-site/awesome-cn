@@ -279,7 +279,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [asciidoctor](https://github.com/sparsick/asciidoctor-zsh) -AsciiDoctor的插件.
 * [asdf](https://github.com/kiurchv/asdf.plugin.zsh) -的整合和完成 [asdf](https://github.com/asdf-vm/asdf)，可扩展的版本管理器，支持Ruby，Node.js，Elixir，Erlang等.
 * [assume-role](https://github.com/weizard/assume-role)  -ZSH插件，可让您轻松承担AWS IAM角色.  包括补全.
-* [async](https://github.com/mafredri/zsh-async)  -在ZSH中运行异步任务而无需任何外部工具的库.  允许您运行多个异步作业，强制执行唯一的作业（同一作业的多个实例将不会运行），刷新所有当前正在运行的作业以及创建多个工作程序（每个工作程序都有自己的工作）.
+* [async](https://github.com/mafredri/zsh-async)  -在ZSH中运行异步任务而无需任何外部工具的库.  允许您运行多个异步作业，强制执行唯一作业（同一作业的多个实例将不会运行），刷新所有当前正在运行的作业并创建多个工作程序（每个工作程序都有自己的工作）.
 * [atom-plugin](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) -基于 [Sublime](https://github.com/valentinocossar/sublime) 插件，可让您在其中启动文件或文件夹 [Atom](https://atom.io) 从 [iTerm 2](https://iterm2.com).
 * [auto-color-ls](https://github.com/gretzky/auto-color-ls) -用`colorls`自动列出目录.
 * [auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh)  -自动完整单词和列表选择.  最初是y.fujii的incr-0.2.zsh <y-fujii at mimosa-pudica.net>  .
@@ -812,7 +812,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [gulp](https://github.com/akoenig/gulp.plugin.zsh) -在Z-Shell（ZSH）中自动完成gulp.js任务.
 * [hashlink](https://github.com/tong/zsh.plugin.hashlink) -完成 [https://hashlink.haxe.org/](https://hashlink.haxe.org/).
 * [haxelib](https://github.com/tong/zsh.plugin.haxelib) -haxelib的完成.
-* [ipfs](https://github.com/aramboi/zsh-ipfs) -完成 [Interplanetary File System](https://ipfs.io).
+* [ipfs](https://github.com/hellounicorn/zsh-ipfs) -完成 [Interplanetary File System](https://ipfs.io).
 * [joe-completion](https://github.com/corvofeng/joe-completion) -为完成添加 [joe](https://github.com/karan/joe) gitignore editor.
 * [jtool-completion](https://github.com/beaugalbraith/jtool-completion) -jtool的ZSH完成.
 * [jumpstorm-completion](https://github.com/netresearch/jumpstorm-zsh-plugin) -增加了自动补全功能 [jumpstorm](https://github.com/netresearch/jumpstorm)
@@ -873,7 +873,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [aflah-bhari](https://github.com/AflahB/aflah-bhari-zsh-theme) -的修改版 [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme) oh-my-zsh中的主题.
 * [aftermath](https://github.com/schanur/aftermath) -在您的Shell中运行每个命令后，请获得漂亮的摘要行.
 * [agitnoster](https://github.com/dbestevez/agitnoster-theme) - 基于 [agnoster](https://gist.github.com/3712874) 包含在主题 [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) 和 [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) .  显示有关`git`状态的详细信息.
-* [agkozak](https://github.com/agkozak/agkozak-zsh-prompt)  -使用三种异步方法来保持ZSH提示符响应，同时显示git状态和SSH连接指示符，退出代码和vi模式以及缩写的PROMPT_DIRTRIM样式的路径.  非常可定制的.  甚至在Cygwin和MSYS2上也是异步的.
+* [agkozak](https://github.com/agkozak/agkozak-zsh-prompt)  -使用三种异步方法来保持ZSH提示符响应，同时显示git状态和SSH连接，退出代码和vi模式的指示符，以及缩写的PROMPT_DIRTRIM样式的路径.  非常可定制的.  甚至在Cygwin和MSYS2上也是异步的.
 * [agnoster-fcamblor](https://github.com/fcamblor/oh-my-zsh-agnoster-fcamblor) -日晒 [Agnoster](https://gist.github.com/agnoster/3712874)  带有`git`状态信息的变体.  需要unicode字体，最适合与 [solarized](https://github.com/altercation/solarized) 终奌站.
 * [agnoster-fseguin](https://github.com/fsegouin/oh-my-zsh-agnoster-mod-theme) - [agnoster](https://gist.github.com/agnoster/3712874) 带有正确提示的变体.
 * [agnoster-j](https://github.com/apjanke/agnosterj-zsh-theme) -针对 [solarized](https://ethanschoonover.com/solarized/)  配色方案，`git`或其他VCS工具以及与unicode兼容的字体.  包括上次运行命令的状态，user @ hostname，`git`状态修饰，工作目录，是否以root用户身份运行，后台作业是否正在运行以及其他信息.
@@ -1410,7 +1410,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 
 ### [Antibody](https://github.com/getantibody/antibody)
 
- 通过将`antibody bundle githubuser / reponame`添加到您的.zshrc文件中，可以安装大多数这些插件.  下次启动“ zsh”时，抗体将自动为您处理克隆插件.  您还可以将插件添加到正在运行的ZSH中，并使用“抗体捆绑包githubuser / reponame”进行测试，然后再将其添加到.zshrc中.
+ 通过将`antibody bundle githubuser / reponame`添加到您的.zshrc文件中，可以安装大多数这些插件.  下次启动“ zsh”时，抗体将自动为您处理克隆插件.  您还可以将插件添加到正在运行的ZSH中，并使用“抗体包githubuser / reponame”进行测试，然后再将其添加到.zshrc中.
 
 ### [Antigen](https://github.com/zsh-users/antigen)
 

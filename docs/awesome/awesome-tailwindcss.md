@@ -61,15 +61,16 @@
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) -添加基于CSS类的“深色”变体.
-- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的类名，以获取边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式.
+- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的类名，以显示边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) -添加了“滚动捕捉”实用程序.
 + [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) -将不透明度变体添加到现有颜色.
++ [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) -根据配置的颜色添加“ box-shadow”实用程序.
 
 &gt;-_以下这些插件提供的功能已在最新的Tailwind CSS版本中完全或部分实现.
 
 -  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) -添加了屏幕阅读器实用程序.
 -  [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) -添加了“ object-fit”实用程序.
--  [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
+-  [Object Position](https://github.com/hacknug/tailwindcss-object-position) -添加了“ object-position”实用程序.
 -  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) -添加了屏幕阅读器实用程序.
 -  [Layout](https://github.com/benface/tailwindcss-layout) -添加了一些布局实用程序.
 -  [Important](https://github.com/chasegiunta/tailwindcss-important) -添加了一个“重要”变体.
@@ -132,7 +133,7 @@
 -  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
 -  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
 -  [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) -Tailwind CSS的调色板生成器（在线）.
--  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带PurgeCSS和现代CSS（预设环境1）的NuxtJS的Tailwind CSS模块.
+-  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带有PurgeCSS和现代CSS的NuxtJS的Tailwind CSS模块（预设环境1）.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) -将Tailwind CSS模块添加为PostCSS插件，并在生产中为PreactJS CLI项目设置PurgeCSS.
 
  |  表情符号|  描述
@@ -164,6 +165,7 @@
 -  [Laravel Boilerplate](https://github.com/hawezo/laravel-boilerplate) -使用Tailwind CSS，Inertia JS，TypeScript，Vue和字体结尾主题的Laravel样板.
 -  [Hugo Starter Theme Starter](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) -使用Tailwind CSS的Hugo主题入门.
 -  [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) -使用Eleventy，Tailwind CSS，Webpack和PostCSS的入门套件.
+-  [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) -使用Tailwind CSS的Nanoc启动器.
 -  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -具有Tailwind CSS的管理面板模板.
 -  [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) -使用Tailwind CSS的Wordpress主题和PWA.
@@ -230,7 +232,7 @@
 -  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
 -  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
 -  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
--  [Rebuilding Airbnb’s Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
+-  [Rebuilding Airbnb’s Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb’s Home Page with Tailwind CSS.
 -  [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 -  [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 -  [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
@@ -306,6 +308,7 @@
 - [Home Away From Home](https://homeawayfromhome.online)
 - [Litekart](https://www.litekart.in)
 - [NuxtJS Documentation](https://nuxtjs.org)
+- [Vaggelis Yfantis](https://octoper.me)
 
 ## Contribute
 

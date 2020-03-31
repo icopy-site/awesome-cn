@@ -17,7 +17,7 @@ _请随时使用您的宝贵资源做出贡献，谢谢！
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -Armin Ronacher对《战地风云3》多人射击机制的分析.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) -学术论文.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) -IT Hare团队的详细网络编程文章.
-- [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) - Brief summary of NAT and P2P connectivity by Keith Johnston.
+- [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) -Keith Johnston简要介绍了NAT和P2P连接.
 - [Netcode Explained](https://www.pcgamer.com/uk/netcode-explained/) -基本的游戏网络概念，包括PC Gamer上的Chris“ Battle（non）sense”实例.
 - [Networked Physics in Virtual Reality](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) -Oculus的Glenn Fiedler用Unity和PhysX将一堆多维数据集联网.
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) -Destroy All Software的底层网络协议栈的简要而详细的概述.
@@ -94,7 +94,8 @@ _请随时使用您的宝贵资源做出贡献，谢谢！
 -C / C ++
   - [ENet](http://enet.bespin.org/) -简单而强大的可靠UDP网络库.
   - [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) -用于游戏的Valve的内部（蒸汽）网络传输层.
-  - [GGPO](https://github.com/pond3r/ggpo) -出色的游戏，和平回滚网络SDK
+  - [GGPO](https://github.com/pond3r/ggpo) -出色的游戏，和平回滚网络SDK.
+  - [KCP](https://github.com/skywind3000/kcp) -快速可靠的ARQ协议.
   - [RakNet](https://github.com/facebookarchive/RakNet) -功能齐全且成熟可靠的UDP网络引擎.
   - [TNL2](https://github.com/nardo/tnl2) -（非活动）扭矩网络库2 [TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf).
   - [yojimbo](https://github.com/networkprotocol/yojimbo) -带有专用服务器的客户端/服务器游戏的可靠UDP网络库.
@@ -123,7 +124,7 @@ _请随时使用您的宝贵资源做出贡献，谢谢！
   - [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGameSeries) -第三人称多人僵尸生存游戏教程项目.
   - [GASDocumentation](https://github.com/tranek/GASDocumentation) -具有详细游戏功能系统文档的第三人称多人射击游戏.
 -团结
-  - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) -使用Forge Networking for Unity的服务器权威性移动项目.
+  - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) - Server authoritative movement project using Forge Networking for Unity.
   - [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) -基于光子PUN的多人自顶向下射击游戏项目.
   - [ArenaGame](https://github.com/NFMynster/ArenaGame) -基于Forge Networking的多人FPS游戏作为示例项目.
   - [Entitas Sync Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) -面向面向回合制或慢节奏游戏的Entitas ECS的网络框架.

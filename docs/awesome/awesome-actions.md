@@ -10,7 +10,7 @@
 
 &gt;与以下内容相关的精选精选清单 [GitHub Actions](https://github.com/actions).
 
- 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
+ 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或在容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
 
 
 
@@ -30,7 +30,7 @@
 - [actions/example-services](https://github.com/actions/example-services) -使用服务容器的示例工作流程.
 
 ### Official Actions
-
+<!--lint disable no-dead-urls-->
 #### Workflow Tool Actions
 
 工作流程的工具动作.
@@ -109,6 +109,7 @@
 - [Rollback a GitHub Release](https://github.com/author/action-rollback)
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
+- [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
 
 ### Collection of Actions
 
@@ -144,7 +145,7 @@
 - [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction)
 - [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
-- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后对构建的Jekyll站点进行区分，并将结果注释回GitHub.
+- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后对构建的Jekyll网站进行区分，并将结果注释回GitHub.
 - [Branch Protection Bot](https://github.com/benjefferies/branch-protection-bot) -在分支机构保护中暂时禁用并重新启用“包括管理员”选项.
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) -等待所有状态和检查成功或其中任何一个失败，然后相应地设置其状态输出.
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) -从git获取上一个标签.
@@ -160,6 +161,9 @@
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) -使用Jinja2模板引擎从模板生成文件.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) -检查之前的步骤是否有代码更改.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) -检测问题中的冒犯性评论并提出请求，并警告发件人.
+- [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) -可互换地转换YAML / JSON / XML文件格式. 
+- [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) -检测已提交文件中的NSFW内容.
+- [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) -根据更改的路径有条件地执行操作.
 
 #### Environments
 
@@ -167,6 +171,7 @@
 - [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Install Conda environments for Python](https://github.com/goanpeca/setup-miniconda)
+- [Setup NativeScript](https://github.com/hrueger/setup-nativescript)
 
 #### Dependencies
 
@@ -250,6 +255,7 @@
 - [Runs Lighthouse and posts results to PRs and Slack](https://github.com/foo-software/lighthouse-check-action)
 - [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
+- [Size Limit Action](https://github.com/andresz1/size-limit-action) -评论PR中您的JS的费用比较，如果超出限制则拒绝它们.
 
 ### Pull Requests
 
@@ -276,13 +282,14 @@
 - [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
 - [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
+- [Get generated static site screeshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 
 ### GitHub Pages
 
 - [Deploy a Zola site to GitHub Pages](https://github.com/shalzz/zola-deploy-action)
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
-- [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) -以及其他schema.org提取程序，可从GitHub页面中发现数据集.
+- [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) -以及其他schema.org提取器，可从GitHub页面中发现数据集.
 - [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
 - [GitHub Action for Hexo](https://github.com/heowc/action-hexo)
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
@@ -294,7 +301,7 @@
 - [Post a Slack message as a bot](https://github.com/pullreminders/slack-action)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
-- [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
+- [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/discord-action)
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
 - [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action)
 - [Send email with SendGrid](https://github.com/peter-evans/sendgrid-action)
@@ -348,6 +355,7 @@
 - [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
 - [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action)
+- [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit)
 
 #### Kubernetes
 
@@ -386,6 +394,7 @@
 - [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo)
 - [Generate OG Image](https://github.com/BoyWithSilverWings/generate-og-image) -从Markdown文件生成可自定义的打开图形图像.
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook)
+- [Setup Mint](https://github.com/fabasoad/setup-mint-action) -Setup Mint（用于编写单页应用程序的编程语言）.
 
 ### Machine Learning Ops
 
@@ -401,10 +410,15 @@
 - [run-vcpkg](https://github.com/lukka/run-vcpkg) -使用以下命令构建和安装C / C ++依赖项的多平台操作 [vcpkg](https://github.com/microsoft/vcpkg).
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
+- [Setup Brainfuck](https://github.com/fabasoad/brainfuck-install-action/) -设置Brainfuck解释器.
 
 ### Database
 
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) -从Cassandra群集顶部的提供的文件夹中运行脚本.
+
+### Localization
+
+- [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action) 
 
 ### Cheat Sheet
 

@@ -337,7 +337,7 @@
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) -遍历嵌套的数据结构.
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 
 ## Books
 
@@ -376,6 +376,7 @@
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) -用于生成跨平台本机代码的高级强类型编程语言.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) -Java游戏框架.
 - [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) -游戏引擎.
+- [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) -积极维护的开源游戏翻拍.
 
 ## Development Environment
 
@@ -497,7 +498,7 @@
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) -目标设定和交流最佳实践.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) -领导人员并担任技术公司/环境的经理.
 - [Indie](https://github.com/mezod/awesome-indie#readme) -独立开发商业务.
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -公司在Hacker News上使用的工具.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) -用技术应对气候变化.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) -提供高度的态势感知能力，以帮助改善战略规划和决策.
 

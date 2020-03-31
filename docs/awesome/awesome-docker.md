@@ -132,14 +132,14 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Monitoring
 
-- [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将来自Docker引擎的性能计数器，配置更改和生命周期事件流式传输到Axibase时间序列数据库中，以用于汇总仪表板并与上游监控系统集成.
+- [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将性能计数器，配置更改和生命周期事件从Docker引擎流式传输到Axibase时间序列数据库中，以汇总仪表盘并与上游监控系统集成.
 - [cAdvisor](https://github.com/google/cadvisor)  -分析正在运行的容器的资源使用情况和性能特征.  由[@Google] [google]创建
 - [dockprom](https://github.com/stefanprodan/dockprom) -通过Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager监控Docker主机和容器 [@stefanprodan](https://github.com/stefanprodan)
 - [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) -根据Docker容器资源的使用情况/统计信息监视和发送警报
 - [Docker-Flow-Monitor](https://github.com/docker-flow/docker-flow-monitor) -[@ docker-flow] [docker-flow]自动更新或部署新服务时，重新配置Prometheus
 - [Dockerana](https://github.com/dockerana/dockerana) ：skull：-Graphite和Grafana的打包版本，专门针对Docker的指标.
 - [DockProc](https://gitlab.com/n0r1sk/dockproc) -在过程级别监视容器的I / O.
-- [Dozzle](https://github.com/amir20/dozzle) -通过浏览器或移动设备实时监视容器日志. [@amir20](https://github.com/amir20)
+- [Dozzle](https://github.com/amir20/dozzle) - Monitor container logs in real-time with a browser or mobile device. [@amir20](https://github.com/amir20)
 - [Dynatrace](https://www.dynatrace.com/technologies/docker-monitoring/) ：heavy_dollar_sign：-监视容器化的应用程序，而无需安装代理或修改运行命令
 - [Glances](https://github.com/nicolargo/glances) -由Python用以下语言编写的基于跨平台curses的系统监视工具 [@nicolargo](https://github.com/nicolargo)
 - [Grafana Docker Dashboard Template](https://grafana.com/grafana/dashboards/179) -您的Docker，Grafana和Prometheus堆栈的模板[@vegasbrianc] [vegasbrianc]
@@ -148,7 +148,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Logspout](https://github.com/gliderlabs/logspout) -[@gliderlabs] [gliderlabs]进行Docker容器日志的日志路由
 - [monit-docker](https://github.com/decryptus/monit-docker)  -监视Docker容器资源使用情况或状态并执行Docker命令或在容器内部.  [@decryptus] [decryptus]
 - [NexClipper](https://github.com/NexClipper/NexClipper) -NexClipper是专门用于Docker，Apache Mesos，Marathon，DC / OS，Mesosphere和Kubernetes的容器监视和性能管理解决方案 [@Nexclipper](https://github.com/NexClipper)
-- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  -使用cAdvisor，Prometheus，Grafana进行监视，Elasticsearch，Kibana和Logstash进行日志记录以及使用elastalert和Alertmanager进行警报，开箱即用地进行Docker主机和容器监视，日志记录和警报.  设置5分钟.  内置的[自动Nginx反向代理（jwilder）] [nginxproxy]用于生产的安全模式.
+- [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  -使用cAdvisor，Prometheus，Grafana进行监视，Elasticsearch，Kibana和Logstash进行日志记录以及使用elastalert和Alertmanager进行警报，开箱即用地监控Docker主机和容器，进行日志记录和警报.  设置5分钟.  内置的[自动Nginx反向代理（jwilder）] [nginxproxy]用于生产的安全模式.
 - [SwarmAlert](https://github.com/gpulido/SwarmAlert) -监视Docker Swarm并在发现没有运行正常服务任务的容器时发送Pushover警报.
 - [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)  -Zabbix模块，提供发现运行中的容器，CPU /内存/ blk IO /网络容器指标的信息.  还支持系统化Docker和LXC执行驱动程序.  它是一个动态链接的共享对象库，因此其性能比任何脚本解决方案都要好（〜10倍）.
 - [Zabbix Docker](https://github.com/gomex/docker-zabbix) -使用zabbix LLD功能自动监视容器.
@@ -239,7 +239,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [docker-consul](https://github.com/gliderlabs/docker-consul) 由[@progrium] [progrium]
 - [etcd](https://github.com/etcd-io/etcd) -通过以下方式为分布式系统的最关键数据分配可靠的键值存储： [@etcd-io](https://github.com/etcd-io) （CoreOS的前一部分）
 - [https://github.com/veggiemonk/awesome-docker/blob/master/istio](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/istio/https://github.com/veggiemonk/awesome-docker/blob/master/istio) -通过以下方式连接，管理和保护微服务的开放平台 [@IstioMesh](https://github.com/veggiemonk/awesome-docker/blob/master/istio)
-- [proxy](https://github.com/factorish/proxy)  ：skull：-使用轻量级的基于nginx的负载均衡器自身，使用注册器提供的服务发现.  通过 [@factorish](https://github.com/factorish)
+- [proxy](https://github.com/factorish/proxy)  ：skull：-使用轻量级基于nginx的负载均衡器自身，使用注册器提供的服务发现.  通过 [@factorish](https://github.com/factorish)
 - [registrator](https://github.com/gliderlabs/registrator) -[@gliderlabs] [gliderlabs]和[@progrium] [progrium]的Docker服务注册桥
 
 ### Volume Management / Data
@@ -504,6 +504,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [forward2docker](https://github.com/bsideup/forward2docker) ：skull：-通过以下方式将端口从本地主机自动转发到在boot2docker VM中运行的Docker容器上的端口的实用程序 [@bsideup](https://github.com/bsideup)
 - [Lando](https://github.com/lando/lando)  -Lando适用于想要快速指定并轻松开发项目所需的服务和工具的开发人员.  通过 [Tandem](https://thinktandem.io/)
 - [Vagga](https://github.com/tailhook/vagga)  -Vagga是没有守护程序的容器化工具.  这是一个受Vagrant和Docker启发的全用户空间容器引擎，专门针对开发环境 [@tailhook](https://github.com/tailhook/)
+- [Zsh-in-Docker](https://github.com/deluan/zsh-in-docker)  -用一行代码在Docker容器中安装Zsh，Oh-My-Zsh和插件！  通过 [Deluan](https://www.deluan.com)
 
 ### Garbage Collection
 
@@ -542,7 +543,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dexec](https://github.com/docker-exec/dexec) -用Go编写的命令行界面，用于运行带有Docker Exec映像的代码.
 - [dockerized](https://github.com/benzaita/dockerized-cli) -无缝执行容器中的命令.
 - [Dray](https://github.com/CenturyLinkLabs/dray) -一个由[@CenturyLinkLabs] [centurylinklabs]管理基于容器的工作流程执行的引擎
-- [FuGu](https://github.com/mattes/fugu) :skull: - Docker run wrapper without orchestration by [@mattes](https://github.com/mattes)
+- [FuGu](https://github.com/mattes/fugu) ：skull：-Docker在没有编排的情况下运行包装器 [@mattes](https://github.com/mattes)
 - [Shutit](https://github.com/ianmiell/shutit) -通过以下工具构建和维护复杂的Docker部署的工具 [@ianmiell](https://github.com/ianmiell)
 - [subuser](https://github.com/subuser-security/subuser) -使在Docker中安全且可移植地运行图形桌面应用程序变得容易
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  -Ansible和Terraform的强大功能+ Docker Swarm的简单性=基础架构是Code和DevOps的最佳实践.  通过 [@Thomvaill](https://github.com/Thomvaill)
