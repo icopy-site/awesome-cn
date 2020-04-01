@@ -104,7 +104,7 @@
 
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) -AdaCore大学视频教程.
-- [ada-crash-course](http://www.pchapin.org/Ada/AdaCrash.pdf) -佛蒙特技术学院提供的Ada 2012速成课程少于50页.
+- [ada-crash-course](http://www.pchapin.org/Ada/AdaCrash.pdf) -佛蒙特州技术学院提供的Ada 2012速成课程少于50页.
 - [simple-games](https://drive.google.com/file/d/1hdLc9nZzTnBDcN9qJeDlJm1F9IL91Lvi/view) -通过编写简单的游戏学习Ada 2012.
 - [spark-by-example](https://github.com/tofgarion/spark-by-example) -在SPARK中收集经过验证的功能和数据类型.
 
@@ -211,7 +211,6 @@
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) -BBEdit对Ada的支持.
 
 #### VSCode Extensions
-- [ada-language-server](https://github.com/AdaCore/ada_language_server) -Ada和SPARK的Microsoft语言协议的Adacore服务器实现.
 - [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) -Ada语言对VS Code的支持.
 - [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) -Ada和GPR的基本语法突出显示.
 - [ada-utilities](https://github.com/Lucretia/ada-utilities)-VSCode扩展Ada程序员，提供了一些实用程序功能.
@@ -283,7 +282,7 @@
 - [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) -Ada-2012移植到VTK 8.1（可视化工具包）.
 
 #### 3D
-- [globe-3d](https://github.com/zertovitch/globe-3d) -用于3D的基于GL对象的引擎。
+- [globe-3d](https://github.com/zertovitch/globe-3d) -用于3D的基于GL对象的引擎.
 - [orka](https://github.com/onox/orka) -Ada 2012中的OpenGL 4.6渲染内核.
 - [ada-ogl](https://github.com/JulianSchutsch/AdaOGL) -有一个OpenGL框架.
 - [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) -采用Ada编程语言的Id Software的Id-tech-4-BFG. 
@@ -338,6 +337,9 @@
 - [ada-ml](https://github.com/rocher/AdaML) -有一种UML量身定制的建模语言.
 - [coldframe](https://github.com/simonjwright/coldframe) -ColdFrame从UML模型生成Ada框架代码和文档.
 
+#### Cryptography
+- [ada-keystore](https://github.com/stcarrez/ada-keystore) -Ada Keystore-通过安全存储保护您的敏感数据.
+
 ## Libraries
 
 #### Math
@@ -349,9 +351,10 @@
 - [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) -“ ASCII”中的Mandelbrot渲染器（实际上是unicode，但是仍然是文本）.
 
 #### Algorithms, Containers and Protocols
+- [ada-language-server](https://github.com/AdaCore/ada_language_server) -Ada和SPARK的Microsoft语言协议的Adacore服务器实现.
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) -用于算法和容器的通用Ada库.
 - [dequesterity](https://sourceforge.net/projects/dequesterity/) -由构建块组成的双端队列/缓冲区泛型，可以通过各种方式组合以创建更高的抽象缓冲区.
-- [pragmarc](https://github.com/jrcarter/PragmARC) -来自PragmAda S / W Engineering的PragmAda可重用组件（PragmARC）.
+- [pragmarc](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
 - [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) -这是具有良好API的Ada加密库，是为i386和x86_64硬件体系结构编写的.
 - [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) -在SPARK中实现的密码库.
 - [booch95](https://sourceforge.net/projects/booch95/) -Ada 95 Booch组件是Grady Booch的C ++组件的一部分.
@@ -527,6 +530,7 @@
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) -G代码解析器和CNC控制器（在Ada中）.
 
 #### Simulation
+- [ghdl](https://github.com/ghdl/ghdl) -VHDL 2008/93/87模拟器.
 - [parallel-sim](https://github.com/JulianSchutsch/ParallelSim) -传输网络的分布式仿真.
 
 #### Generators and Translators
@@ -547,7 +551,6 @@
 - [analytical-engine](https://github.com/simonjwright/analytical-engine) -Charles Babbage的分析引擎的Ada 2012模拟.
 
 #### Programming Languages
-- [gnat-spitbol](https://www2.adacore.com/gap-static/GNAT_Book/html/rts/g-spipat__ads.htm) -GNAT.SPITBOL是SNOBOL面向文本的编程语言的实现，现已成为GNAT库的一部分.
 - [para-sail](http://parasail-lang.org/)  -ParaSail是一种高度并行的实验语言，类似于Go和Erlang.  它最初是SofCheck（现为AdaCore）所有，它是一个尝试新想法的测试项目.  可扩展指针是即将引入SPARK和Ada的示例功能.  实际上，有4种实验语言：ParaSail，Sparkel，Javallel，Parython，它们都共享字节码解释器和LLVM引擎.
 
 #### Misc
@@ -592,7 +595,7 @@
 - [player-ada](https://github.com/mosteo/player-ada) -播放器机器人平台的Ada绑定.
 - [dl-ada](https://github.com/mosteo/dl-ada) -最小绑定到libdl.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) -与NanoVG绑定.
-- [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
+- [free-type-ada](https://github.com/flyx/FreeTypeAda) -适用于Ada 2005的FreeType绑定.
 - [opencl-ada](https://github.com/flyx/OpenCLAda) -用于OpenCL主机API的Ada绑定.
 - [coreland-lua-ada](https://github.com/io7m/coreland-lua-ada) -Ada与Lua语言的绑定.
 - [libsodium-ada](https://github.com/jrmarino/libsodium-ada) -安全的密码库（用于Ada的libsodium）.

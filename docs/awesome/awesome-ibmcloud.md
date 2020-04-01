@@ -57,7 +57,7 @@
 *Deploy and manage your applications with Cloud Foundry.*
 
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - Generator for Kitura REST webservice servers.
-* [go-cloud](https://github.com/victorshinya/go-cloud) -Golang样板代码，用于对托管Go应用程序的云平台进行基准测试.
+* [go-cloud](https://github.com/victorshinya/go-cloud) -Golang样板代码，用于基准测试托管Go应用程序的云平台.
 * [go-website](https://github.com/victorshinya/go-website) -使用Golang服务器部署您的网站.
 * [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) -用于访问IBM Cloud API的Go库.
 * [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) -基于消息的保险经验.
@@ -86,13 +86,13 @@
 * [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) -使用IBM Cloud Functions构建的用于图像标记和面部检测的示例iOS应用程序.
 * [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) -使用无服务器服务（无服务器架构/功能即服务）构建自己的聊天机器人.
 
-## Watson
+## Data & AI
 
 *带有Watson服务的SDK和代码模式.
 
 * [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) -一个简单的示例应用程序，演示了Watson Assistant API.
 * [botkit-middleware](https://github.com/watson-developer-cloud/botkit-middleware) -使用Botkit将Watson Assistant Service连接到不同聊天频道的中间件.
-* [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android) -由Watson Services提供支持的Android ChatBot-IBM Cloud上的助手，语音到文本和文本到语音.
+* [chatbot-watson-android](https://github.com/IBM-Cloud/chatbot-watson-android) -由Watson Services支持的Android ChatBot-IBM Cloud上的助手，语音到文本和文本到语音.
 * [discovery-nodejs](https://github.com/watson-developer-cloud/discovery-nodejs) -这是Watson Discovery Service演示.
 * [food-coach](https://github.com/watson-developer-cloud/food-coach) -一个简单的示例Web应用程序，演示了将Watson Tone Analyzer集成到Watson Assistant中的过程.
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) -围绕IBM Watson IoT Platform构建的代码存储库.
@@ -211,7 +211,7 @@
 * [Gurgaon, India - IBM cloud developer's ecosystem Delhi NCR](https://www.meetup.com/IBM-cloud-developers-ecosystem-Delhi-NCR/)  -社区学习共同感兴趣领域的尖端技术.  该小组是为喜欢探索云平台上运行的IaaS / PaaS，容器，Kubernetes，DevOps，人工智能和其他微服务等技术领域的技术爱好者创建的.
 * [Hong Kong, Hong Kong - AI/Blockchain/Cloud/BigData Meetup by IBM HK](https://www.meetup.com/Hong-Kong-Artificial-Intelligence-Meetup-Group/) -该小组适合任何想学习ABCD，AI，区块链，云和大数据最新趋势的人.
 * [Hong Kong, Hong Kong - IBM Cloud - Hong Kong](https://www.meetup.com/IBM-Cloud-Hong-Kong/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
-* [Hyderabad, India - Hyderabad CodeWeekend](https://www.meetup.com/codeweekend/)  -您好，朋友们，这个群组是由开发人员针对的.  对于那些热衷于学习新技术（例如AI，DL，ML，Blockchain，IoT，微服务，Docker，Functions等）的人来说，这是一个理想的地方.  我们每个月就上述任何一种技术进行聚会.
+* [Hyderabad, India - Hyderabad CodeWeekend](https://www.meetup.com/codeweekend/)  -您好，朋友们，这个群组是由开发人员为开发人员准备的.  对于那些热衷于学习新技术（例如AI，DL，ML，Blockchain，IoT，微服务，Docker，Functions等）的人来说，这是一个理想的地方.  我们每个月就上述任何一种技术进行聚会.
 * [Islamabad, Pakistan - IBM Developer Islamabad](https://www.meetup.com/IBM-Developer-Islamabad-Meetup/)  -这是面向开发人员，架构师和云爱好者的聚会小组.  我们了解有关IBM Cloud，Watson，IoT，数据科学和区块链的所有信息.  我们的聚会是免费的.
 * [Istanbul, Turkey - IBM Developer Turkey](https://www.meetup.com/IBMDeveloperTR/) -欢迎来到IBM Developer Turkey事件公告页面！
 * [Johannesburg, South Africa - IBM Cloud - South Africa](https://www.meetup.com/ZA-IBMCloud/) -针对开发人员，架构师，PaaS和Cloud Foundry爱好者，我们通过动手演示和讨论了解了IBM Cloud.

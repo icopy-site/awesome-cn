@@ -11,11 +11,11 @@
 
 <br/>
 
-## [Does your employer support your growth?](https://github.com/hangtwenty/dive-into-machine-learning/blob/master/"https://triplebyte.com/iv/RoKMZpG/cp/header")
+## Does your employer support your growth?
 
  如果您正在阅读本指南，则喜欢边做边学.  您的雇主应根据您的优势和兴趣为您提供项目.  如果没有，您应该继续前进！
 
-<a href="https://triplebyte.com/iv/RoKMZpG/cp/header"><img align="right" src="https://user-images.githubusercontent.com/2420688/67127456-3f4b1700-f1ae-11e9-8cad-371212258d5c.png" width="300"  alt="Triplebyte"><a href="https://triplebyte.com/iv/RoKMZpG/cp/header">参加三字节编码测验，然后**让工作来找您.**</a> <a href="https://triplebyte.com/iv/RoKMZpG/cp/header">您可以使用我的链接来支持 .</a>
+<a href="https://triplebyte.com/a/POPZ5Di/diveintomachinelearning"><img align="right" src="https://user-images.githubusercontent.com/2420688/67127456-3f4b1700-f1ae-11e9-8cad-371212258d5c.png" width="300"  alt="Triplebyte"> <a href="https://triplebyte.com/a/POPZ5Di/diveintomachinelearning">进行三字节编码测验，**让工作来找您.</a>  by using my link.</a></i> <a href="https://triplebyte.com/a/POPZ5Di/diveintomachinelearning">远程OK！**您可以使用我的链接来支持 .</a>
 
 <br/>
 
@@ -49,7 +49,7 @@
 
  您刚刚使用[scikit-learn]对一些手写数字进行了分类.  整洁吧？
 
-[scikit-learn] is the go-to library for machine learning in Python. [It's used widely.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is hard. You'll be glad your tools are easy to work with.
+[scikit-learn]是Python机器学习的入门库. [It's used widely.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is hard. You'll be glad your tools are easy to work with.
 
 [scikit-learn]：http://scikit-learn.org/stable/index.html
 
@@ -198,7 +198,7 @@ Next, subscribe to more machine learning and data science podcasts! These are gr
 * [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
 *以下是我在继续学习中发现特别有用的一些文档：
 	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
-	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)，尤其是 [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) 部分
+	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) 部分
 	* [Reshaping by pivoting DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html)
 	* [Computational tools](http://p和as.pydata.org/p和as-docs/stable/computation.html) 和 [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
@@ -361,7 +361,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
  * ** [戴维·汉弗莱（David Humphrey）的“通过[深度]学习获得乐趣”.]（https://github.com/humphd/have-fun-with-machine-learning）**这是“取得成功的绝佳方法自己”和“ hack-first”.  然后，您会兴奋地前进到...
 *  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)！**有五门课程，作为 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning) .  这些课程是他的新事业的一部分， [deeplearning.ai](https://www.deeplearning.ai)
 * **[Machine Learning Crash Course from Google.](https://developers.google.com/machine-learning/crash-course/)** Google对机器学习的快节奏，实用的介绍，涵盖了使用TensorFlow构建深度神经网络.
-* **[_Deep Learning_](http://www.deeplearningbook.org/)，由麻省理工学院出版社出版的免费书.**伊恩·古德费洛（Ian Goodfellow），约书亚（Yoshua Bengio）和亚伦·库维尔（Aaron Courville）
+* **[_Deep Learning_](http://www.deeplearningbook.org/)，由麻省理工学院出版社出版的免费书.
 * [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) —由Greg Brockman（OpenAI的联合创始人兼CTO，以前是Stripe的CTO）回答
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)

@@ -12,7 +12,7 @@
 
  |  iOS应用|  很棒  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1030 |  2020年3月30日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1031 |  2020年3月31日
 
 
 
@@ -44,7 +44,7 @@
 ### Third party Guides
 [back to top](#readme) 
 
-* [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - A cool 30 days tutorial.
+* [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) -一个很酷的30天教程.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) -关于Swift语言的游乐场.
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) -基本的Swift语言主题的组织列表.
 * [Conferences.digital](https://github.com/zagahr/Conferences.digital) -在本机macOS应用中观看会议视频.
@@ -56,7 +56,7 @@
 * [SwiftDoc](https://swiftdoc.org/) -自动生成的文档.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) -中文书面指南.
 * [SwiftTips](https://github.com/JohnSundell/SwiftTips) -John Sundell收集的有用技巧.
-* [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.
+* [The Swift Web Developer](https://theswiftwebdeveloper.com) -面向Swift Web开发人员的出版物.
 * [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4) -一个Xcode游乐场，展示了Swift 4.0中的新功能.
 
 ## Boilerplates
@@ -578,7 +578,7 @@
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) -针对iOS优化的发布/订阅事件总线.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) -受Redux和MVVM启发的整体iOS开发方法.
 * [Tokamak](https://github.com/MaxDesiatov/Tokamak) -类似React的声明性API，用于通过易于使用的单向数据绑定构建本机UI组件.
-* [Tomorrowland](https://github.com/lilyball/Tomorrowland) -轻量级的承诺.
+* [Tomorrowland](https://github.com/lilyball/Tomorrowland) - Lightweight Promises.
 * [TopicEventBus](https://github.com/mcmatan/topicEventBus) -发布-订阅设计模式实现框架，能够按主题发布事件.
 * [VueFlux](https://github.com/ra1028/VueFlux) -单向数据流状态管理体系结构-受Vuex和Flux的启发.
 * [When](https://github.com/vadymmarkov/When) -Promises的轻量级实现.
@@ -655,7 +655,7 @@
 * [CameraBackground](https://github.com/yonat/CameraBackground) -将相机图层显示为任何UIView的背景.
 * [CameraKit-iOS](https://github.com/CameraKit/camerakit-ios) -大幅提高相机性能，并在下一个项目中易于使用.
 * [Fusuma](https://github.com/ytakzk/Fusuma) -类似Instagram的照片浏览器和相机功能.
-* [NextLevel](https://github.com/NextLevel/NextLevel) - Rad Media Capture.
+* [NextLevel](https://github.com/NextLevel/NextLevel) -Rad Media Capture.
 
 ##### Barcode
 *条形码，QR码，其他读码器* [back to top](#readme) 
@@ -1050,7 +1050,7 @@
 * [Parsey](https://github.com/rxwei/Parsey) -解析器组合器框架，支持源位置跟踪，防止回溯和丰富的错误消息.
 * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) -大字符串复数扩展.
 * [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) -PredicateFlow是一个生成器，可让您编写出色，强类型且易于阅读的NSPredicate.
-* [PrediKit](https://github.com/KrakenDev/PrediKit) -受SnapKit启发的用于iOS和OS X的NSPredicate DSL.
+* [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS & OS X inspired by SnapKit.
 * [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) -以Pythonic方式轻松处理Regex.
 * [Regex by crossroadlabs](https://github.com/crossroadlabs/Regex)  ：penguin：-具有丰富功能的正则表达式库非常易于使用.  同时具有运算符`=〜`和基于方法的API.  涵盖了单元测试.
 * [RichEditorView](https://github.com/cjwirth/RichEditorView) -RichEditorView是用于RTF编辑的简单，模块化，嵌入式UIView子类.
@@ -1402,7 +1402,7 @@
 * [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) -受Airbnb启发的轻量级自定义集合视图.
 * [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) -轻松将分页与CollectionView中的虚拟视图集成在一起的方法，使Instagram Discover只需几分钟.
 * [Blueprints](https://github.com/zenangst/Blueprints) -一个框架，旨在使您在使用集合视图流布局时更轻松.
-* [BouncyLayout](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout) -集合视图布局，使您的单元格反弹.
 * [CardsLayout](https://github.com/filletofish/CardsLayout) -精美的卡片设计自定义CollectionView布局.
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) -易于使用的收藏视图布局，可制作类似卡片的动画.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) -一种轻量级的UICollectionViewLayout，可将其单元格分页并居中.
@@ -1427,10 +1427,10 @@
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) 弹性拉力刷新.
 * [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) -用于向后移植UITableView / UICollectionViewDiffableDataSource的库.
 * [DTTableViewManager](https://github.com/DenTelezhkin/DTTableViewManager) -面向协议的UITableView管理，由泛型和关联类型提供支持.
-* [ExpandableCell](https://github.com/younatics/ExpandableCell)  -完全重构的YNExapnadableCell，更加简洁，无错误.  适用于iOS的可扩展和可折叠单元的最简单用法.  您可以根据需要自定义可扩展的UITableViewCell.  之所以制作ExpandableCell是因为很难使用insertRows和deleteRows.  只是继承了ExpandableDelegate.
+* [ExpandableCell](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate.
 * [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) -仅通过实现一种方法即可使表格视图可扩展.
 * [folding-cell](https://github.com/Ramotion/folding-cell) -折叠细胞过渡.
-* [GridView](https://github.com/KyoheiG3/GridView) -可以自定义为时间表，电子表格，分页等.
+* [GridView](https://github.com/KyoheiG3/GridView) - Can be customized as a time table, spreadsheet, paging and more.
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) -不错的库，可显示项目中任何UITableView / UICollectionView的占位符和空状态.
 * [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) -帮助您更好地管理UITableViews的框架
 * [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) -将视差标头添加到UIScrollView / UITableView的简单方法.
@@ -1488,6 +1488,7 @@
 * [Lumos](https://github.com/sushinoya/Lumos) -用于Objective-C运行时功能的易于使用的API.
 * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) -用于Objective C运行时功能的API.
 * [OpenSourceController](https://github.com/floriangbh/OpenSourceController) -显示应用程序中使用的librarie许可证的最简单方法.
+* [Playbook](https://github.com/playbook-ui/playbook-ios) -用于隔离开发的UI组件并自动为其快照的库.
 * [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) -根据其代码为Swift iOS应用生成隐私政策.
 * [protobuf-swift](https://github.com/alexeyxo/protobuf-swift) -ProtocolBuffers.
 * [Prototope](http://khan.github.io/Prototope/) -用于原型的轻量级接口库，已桥接到JS.

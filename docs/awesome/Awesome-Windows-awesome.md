@@ -69,8 +69,8 @@
 - [Clover](http://en.ejie.me/)  -将多标签功能添加到Windows资源管理器.  ！[免费软件] [免费软件图标]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  -通过系统托盘进行每个应用程序的音量控制.  [！[开源软件] [oss图标]]（https://github.com/File-New-Project/EarTrumpet）！[免费软件] [免费软件图标]
 - [QTTabBar](http://qttabbar.wikidot.com/)  -通过标签和额外的文件夹视图扩展资源管理器.  ！[免费软件] [免费软件图标]
-- [Rainmeter](https://www.rainmeter.net/)  -Rainmeter使您可以在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器.  [！[开源软件] [oss图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
-- [Search Deflector](https://github.com/spikespaz/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的浏览器和搜索引擎.  [！[开源软件] [oss图标]]（https://github.com/spikespaz/search-deflector）！[免费软件] [免费软件图标]
+- [Rainmeter](https://www.rainmeter.net/)  -Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器.  [！[开源软件] [oss图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
+- [Search Deflector](https://github.com/spikespaz/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  [！[开源软件] [oss图标]]（https://github.com/spikespaz/search-deflector）！[免费软件] [免费软件图标]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)  -使Windows任务栏透明.  [！[开源软件] [oss图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)  -可让您更改Windows 10登录屏幕的背景.  [！[开源软件] [oss图标]]（https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer）！[免费软件] [免费软件图标]
 - [ZBar](http://www.zhornsoftware.co.uk/zbar/) -如果使用多个监视器，则可以在每个监视器上显示单独的任务栏.
@@ -152,7 +152,7 @@
 
 ### Email
 
-- [MailBird](https://www.mailbird.com/) -IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多种语言支持.
+- [Mailbird](https://www.mailbird.com/) -IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多种语言支持.
 - [Mailspring](https://getmailspring.com/)  -基于现代网络技术的Nylas Mail快速维护叉.  [！[开源软件] [oss图标]]（https://github.com/Foundry376/Mailspring）！[免费软件] [免费软件图标]
 - [Nylas Mail](https://www.nylas.com/download/)  -建立在现代网络上的可扩展桌面邮件应用程序.  [！[开源软件] [oss图标]]（https://github.com/nylas/N1）！[免费软件] [免费软件图标]
 - [Postbox](https://postbox-inc.com/) -强大的电子邮件应用程序
@@ -171,7 +171,7 @@
 - [Origin](https://www.origin.com/en-in/store/) -与Steam类似，但适用于EA.
 - [Steam](http://store.steampowered.com/)  -最大的在线视频游戏零售商.  桌面应用程序可让您整理游戏库并随时播放.  但是你已经知道了.
 - [Unity](https://unity3d.com/)  -免费游戏引擎.  易于使用，并带有许多教程.
-- [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)  -另一个免费游戏引擎.  大量的文档资料而且更容易获取，但是当您从基于UE的游戏中赚钱时，您需要向Unreal支付5％的版税.
+- [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)  -另一个免费游戏引擎.  大量的文档资料而且更容易获取，但是当您从基于UE的游戏中赚钱时，您需要向Unreal支付5％的专利使用费.
 - [Warsow](https://www.warsow.net/)  -适用于Windows的免费和快节奏的FPS游戏.  ！[免费软件] [免费软件图标]
 
 ### Graphics
@@ -261,7 +261,7 @@
 
 - [Alacritty](https://github.com/jwilm/alacritty) -跨平台，GPU加速的终端仿真器[！[开源软件] [oss图标]]（https://github.com/jwilm/alacritty）！[免费软件] [免费软件图标]
 - [Babun](http://babun.github.io)  -基于Cygwin的替代Windows Shell.  [！[开源软件] [oss图标]]（https://github.com/babun/babun）！[免费软件] [免费软件图标]
-- [Cmder](https://cmder.net)  -带有clink外壳的控制台仿真器软件包.  [！[开源软件] [oss图标]]（https://github.com/cmderdev/cmder）！[免费软件] [免费软件图标]
+- [Cmder](https://cmder.net)  -带有clink外壳的控制台仿真器程序包.  [！[开源软件] [oss图标]]（https://github.com/cmderdev/cmder）！[免费软件] [免费软件图标]
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) -为Windows控制台设置自定义配色方案，并支持iTerm配色方案.
 - [ConEmu](https://github.com/Maximus5/ConEmu) -具有选项卡，拆分，地震样式等的可定制终端.
 - [ConsoleZ](https://github.com/cbucher/console) -控制台2的修改版本，以获得更好的体验和更好的视觉效果.

@@ -128,6 +128,7 @@
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
+- [GitHub Actions for Docker](https://github.com/docker/github-actions)
 
 ### Utility
 
@@ -164,6 +165,7 @@
 - [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) -可互换地转换YAML / JSON / XML文件格式. 
 - [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) -检测已提交文件中的NSFW内容.
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) -根据更改的路径有条件地执行操作.
+- [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) -使用定义的文本进行Twilio语音通话.
 
 #### Environments
 
@@ -384,6 +386,7 @@
 - [Upload files to any OpenStack Swift service provider](https://github.com/iksaku/openstack-swift-action)
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
+- [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
 
 ### Frontend Tools
 
@@ -410,7 +413,9 @@
 - [run-vcpkg](https://github.com/lukka/run-vcpkg) -使用以下命令构建和安装C / C ++依赖项的多平台操作 [vcpkg](https://github.com/microsoft/vcpkg).
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
+- [Run Pascal Script](https://github.com/fabasoad/pascal-action)
 - [Setup Brainfuck](https://github.com/fabasoad/brainfuck-install-action/) -设置Brainfuck解释器.
+- [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
 
 ### Database
 
@@ -418,7 +423,8 @@
 
 ### Localization
 
-- [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action) 
+- [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
+- [Translation](https://github.com/fabasoad/translation-action) -将文本从任何语言翻译成任何语言.
 
 ### Cheat Sheet
 

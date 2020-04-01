@@ -10,7 +10,7 @@
 
 ## Getting started
 
-- [Chrome Extensions documentation](https://developer.chrome.com/extensions) -原始Chrome扩展程序型号的文档.
+- [Chrome Extensions documentation](https://developer.chrome.com/extensions) -原始Chrome扩展程序模型的文档.
 - [Chrome Extensions API](https://developer.chrome.com/extensions/api_index) -有关Chrome提供的原始API的全面文档.
 - [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) -WebExtensions API的MDN Wiki.
 - [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) -适用于Chrome，Edge，Firefox和Opera的兼容性表.
@@ -24,7 +24,7 @@
 
 - [Google Groups](https://groups.google.com/a/chromium.org/forum/#!forum/chromium-extensions) -讨论.
 - [Mozilla Discourse](https://discourse.mozilla.org/c/add-ons) -讨论.
-- [`#webextensions`](https://wiki.mozilla.org/IRC) -Mozilla的IRC频道.
+- [`#addons:mozilla.org`](https://matrix.to/#/#addons:mozilla.org) -Mozilla的矩阵频道.
 - [`google-chrome-extension` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/google-chrome-extension) -相关问题.
 - [`firefox-webextensions` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/firefox-webextensions) -相关问题.
 - [`microsoft-edge-extension` tag on Stack Overflow](https://stackoverflow.com/questions/tagged/microsoft-edge-extension) -相关问题.
@@ -34,9 +34,9 @@
 代码意味着成为扩展的一部分.
 
 - [webext-options-sync](https://github.com/fregante/webext-options-sync) -帮助您管理和自动保存扩展程序的选项.
-- [webext-storage-cache](https://github.com/fregante/webext-storage-cache) -类似于地图的承诺缓存存储，其中包含到期.
+- [webext-storage-cache](https://github.com/fregante/webext-storage-cache) -类似于地图的承诺缓存存储，具有到期时间.
 - [webext-dynamic-content-scripts](https://github.com/fregante/webext-dynamic-content-scripts) -自动将您的`content_scripts`注入自定义域.
-- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) -Polyfill支持`browser`名称空间中基于标准化promise的API.
+- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) -Polyfill支持`browser`命名空间中基于标准化Promise的API.
 - [redux-webext](https://github.com/ivantsov/redux-webext) -用途 [redux](https://github.com/reactjs/redux) 用于管理WebExtension的状态.
 
 ## Tools
@@ -50,12 +50,17 @@
 - [chrome-store-api](https://github.com/acvetkov/chrome-store-api) -Chrome Web Store API包装器.
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) -WebExtension，可直接在商店上查看扩展的源代码.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) -自动发布到Chrome网上应用店，Mozilla插件和Opera插件的工具.
-- [web-ext-translator](https://github.com/Lusito/web-ext-translator) -用于管理i18n messages.json的翻译器工具.
+- [web-ext-translator](https://github.com/Lusito/web-ext-translator) -管理i18n messages.json的翻译器工具.
+- [wext-manifest](https://github.com/abhijithvijayan/wext-manifest) -可让您指定“ manifest.json”属性，使其仅出现在特定的浏览器中.
 
 ## Testing
 
 - [sinon-chrome](https://github.com/acvetkov/sinon-chrome) -修改Chrome扩展程序API进行测试.
 - [addons-validator](https://github.com/mozilla/addons-validator) -根据Mozilla的指南验证扩展.
+- [webextensions-jsdom](https://github.com/stoically/webextensions-jsdom) -根据manifest.json使用JSDOM加载弹出窗口，侧边栏和背景.
+- [webextensions-api-fake](https://github.com/stoically/webextensions-api-fake) -内存中的WebExtensions API伪实现（包括TypeScript类型）.
+- [webextensions-api-mock](https://github.com/stoically/webextensions-api-mock) -作为sinon存根的WebExtensions API（包括TypeScript类型）.
+- [webextensions-schema](https://github.com/stoically/webextensions-schema) -以编程方式使用WebExtensions架构JSON文件.
 
 ## Boilerplates
 
@@ -66,7 +71,7 @@
 
 ## Sample Extensions
 
-这些是简单而现代的WebExtensions存储库，可以帮助您弄清碎片的位置，包括通过Travis CI自动部署.
+这些是简单而现代的WebExtensions存储库，可以帮助您确定组件的运行方向，包括通过Travis CI自动部署.
 
 - [npmhub](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
@@ -76,4 +81,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Federico Brigante](https://bfred.it) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Federico Brigante](https://bfred.it) 已放弃此作品的所有版权以及相关或邻近的权利.
