@@ -20,20 +20,25 @@
 
 
 ## Software Tools
-用于分析嵌入式/ IoT固件的软件工具.
+用于分析嵌入式/ IoT设备和固件的软件工具.
 
 ### Analysis Frameworks
 
 - [EXPLIoT](https://gitlab.com/expliot_framework/expliot) -Pentest框架，例如Metasploit，但专门用于物联网.
 - [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) -功能齐全的静态分析框架，包括固件提取，使用不同插件的分析以及不同固件版本的比较.
-  - [Improving your firmware security analysis process with FACT](https://passthesalt.ubicast.tv/videos/improving-your-firmware-security-analysis-process-with-fact/) -关于FACT：tv：的会议讨论.
+  - [Improving your firmware security analysis process with FACT](https://passthesalt.ubicast.tv/videos/improving-your-firmware-security-analysis-process-with-fact/) - Conference talk about FACT :tv:.
 - [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer)  -根据自定义规则分析固件的安全性.  打算作为DevSecOps中的附加步骤，类似于CI.
+- [HAL – The Hardware Analyzer](https://github.com/emsec/hal) -用于门级网表的全面的逆向工程和操作框架.
+- [IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz) -物联网层安全分析自动化框架：硬件，软件和通信.
+- [Killerbee](https://github.com/riverloopsec/killerbee) -测试和审核ZigBee和IEEE 802.15.4网络的框架.
+- [PRET](https://github.com/RUB-NDS/PRET) -打印机利用工具包.
+- [Routersploit](https://github.com/threat9/routersploit) -专门用于开发嵌入式设备的框架.
 
 ### Analysis Tools
 
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) -在二进制文件中搜索“有趣”的东西.  
 - [Firmadyne](https://github.com/firmadyne/firmadyne) -尝试模拟和渗透固件.
-- [firmwalker](https://github.com/craigz28/firmwalker) -在提取的固件映像中搜索有趣的文件和信息.
+- [Firmwalker](https://github.com/craigz28/firmwalker) -在提取的固件映像中搜索有趣的文件和信息.
 - [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) -通过概念分析和功能集群发现固件中的漏洞.
 - [Ghidra](https://ghidra-sre.org/)  -软件逆向工程套件；  如果提供了二进制的CPU体系结构和字节序，则可以处理任意二进制文件.
 - [Radare2](https://github.com/radare/radare2) -软件逆向工程框架，还处理流行的格式和任意二进制文件，具有广泛的命令行工具集.
@@ -51,7 +56,6 @@
 - [JTAGenum](https://github.com/cyphunk/JTAGenum) -将JTAG功能添加到Arduino.
 - [OpenOCD](http://openocd.org/) -免费和开放的片上调试，系统内编程和边界扫描测试.
 
-
 ## Hardware Tools
 
 - [Bus Blaster](http://dangerousprototypes.com/docs/Bus_Blaster) -检测硬件调试端口并与之交互 [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) 和 [JTAG](https://en.wikipedia.org/wiki/JTAG).
@@ -64,14 +68,13 @@
 - [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) -用于探索和调试不同数字接口的工具.
 - [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) -J-Link提供了USB供电的JTAG调试探针，用于多个不同的CPU内核：euro:.
 
-
 ## Books
 
 -2020年，贾斯珀·凡·乌登伯格（Jasper van Woudenberg），科林·奥弗林（Colin O&#39;Flynn）： [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded-ebook/dp/B077WZBFYL)
 -2019年，Yago Hansen： [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf)
 -2019，阿蒂亚·古普塔（Aditya Gupta）： [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.apress.com/us/book/9781484242995)
 -2018年，马克·斯沃鲁普·蒂拉尼普（Mark Swarup Tehranipoor）： [Hardware Security: A Hands-on Learning Approach](https://www.elsevier.com/books/hardware-security/bhunia/978-0-12-812477-2)
--2017年，阿蒂亚·古普塔（Aditya Gupta），亚伦·古兹曼（Aaron Guzman）： [IoT Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)  
+-2017年，阿蒂亚·古普塔（Aditya Gupta），亚伦·古兹曼（Aaron Guzman）： [IoT Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
 -2017年，黄宏伟： [The Hardware Hacker: Adventures in Making and Breaking Hardware](https://nostarch.com/hardwarehackerpaperback)
 -2016年，克雷格·史密斯（Craig Smith）： [The Car Hacker's Handbook: A Guide for the Penetration Tester](https://nostarch.com/carhacking)
 -2015年，Nitesh Dhanjan： [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](https://shop.oreilly.com/product/0636920033547.do)
@@ -83,6 +86,7 @@
 
 ## Research Papers
 <!--lint ignore match-punctuation-->
+-2019年，Almakhdhub等人： [BenchIoT: A Security Benchmark for the Internet of Things](https://nebelwelt.net/publications/files/19DSN.pdf)
 2019年，Alrawi等人： [SoK: Security Evaluation of Home-Based IoT Deployments](https://alrawi.github.io/static/papers/alrawi_sok_sp19.pdf)
 -2019，Abbasi等： [Challenges in Designing Exploit Mitigations for Deeply Embedded Systems](https://ieeexplore.ieee.org/abstract/document/8806725)
 -2019年，宋等.. [PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04A-1_Song_paper.pdf)
@@ -93,7 +97,7 @@
 -2016年，Kammerstetter等： [Embedded Security Testing with Peripheral Device Caching and Runtime Program State Approximation](https://www.thinkmind.org/download.php?articleid=securware_2016_2_10_30082)
 -2016年Chen等： [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.dcddcc.com/docs/2016_paper_firmadyne.pdf)
 -2016年，Costin等人： [Automated Dynamic Firmware Analysis at Scale: A Case Study on Embedded Web Interfaces](http://s3.eurecom.fr/docs/asiaccs16_costin.pdf)
--2015年，Shoshitaishvili等人：[Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware](https://seclab.cs.ucsb.edu/media/uploads/papers/firmalice.pdf)
+-2015年，Shoshitaishvili等人：[Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware](https://www.ndss-symposium.org/wp-content/uploads/2017/09/11_1_2.pdf)
 -2015年，Papp等： [Embedded Systems Security: Threats, Vulnerabilities, and Attack Taxonomy](http://www.cse.psu.edu/~pdm12/cse597g-f15/readings/cse597g-embedded_systems.pdf)
 2014年，Zaddach等人： [Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares](http://www.eurecom.fr/en/publication/4158/download/rs-publi-4158.pdf)
 2014年，Alimi等人： [Analysis of embedded applications by evolutionary fuzzing](http://ieeexplore.ieee.org/document/6903734/)
@@ -104,29 +108,41 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 ## Case Studies
 <!--lint ignore no-repeat-punctuation-->
 - [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
+- [Cracking Linksys “Encryption”](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
 - [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) -会议演讲，介绍了一些有关实际不良实现的真实示例：tv:.
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
+- [Hacking the PS4](https://cturt.github.io/ps4.html) -PS4的安全性简介.
 - [Multiple vulnerabilities found in the D-link DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
 - [Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol](https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html)
 - [PWN Xerox Printers (...again)](https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/xerox_phaser_6700_white_paper.pdf)
-
+- [Reversing Firmware With Radare](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)
+- [Reversing the Huawei HG533](http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
 
 ## Free Training
 
+- [CSAW Embedded Security Challenge 2019](https://github.com/TrustworthyComputing/csaw_esc_2019) -CSAW 2019嵌入式安全挑战赛（ESC）.
+- [Embedded Security CTF](https://microcorruption.com) -微腐败：嵌入式安全CTF.
 - [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) -研讨会@ BSides慕尼黑2019.
 - [IoTGoat](https://github.com/scriptingxss/IoTGoat) -IoTGoat是基于OpenWrt的故意不安全的固件.
-- [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) -Riscure Hack Me 3嵌入式硬件CTF 2017-2018.
-- [Rhme-2016](https://github.com/Riscure/Rhme-2016) -Riscure Hack me 2是低级硬件CTF挑战.
 - [Rhme-2015](https://github.com/Riscure/RHme-2015) -首先风险Hack me硬件CTF挑战.
-- [Embedded Security CTF](https://microcorruption.com) -微腐败：嵌入式安全CTF.
-
+- [Rhme-2016](https://github.com/Riscure/Rhme-2016) -Riscure Hack me 2是低级硬件CTF挑战.
+- [Rhme-2017/2018](https://github.com/Riscure/Rhme-2017) -Riscure Hack Me 3嵌入式硬件CTF 2017-2018.
 
 ## Websites
 
+- [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page) -万物打印机.
 - [OWASP Embedded Application Security Project](https://www.owasp.org/index.php/OWASP_Embedded_Application_Security) -开发最佳做法以及硬件和软件工具列表.
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project) -物联网常见漏洞和攻击面. 
-- [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page)
-- [Router Passwords](https://www.routerpasswords.com) -按制造商排序的默认登录凭据数据库.
+- [Router Passwords](https://192-168-1-1ip.mobi/default-router-passwords-list/) -按制造商排序的默认登录凭据数据库.
+- [Siliconpr0n](https://siliconpr0n.org/) -集成电路倒车的所有内容的Wiki /存档.
+
+### Blogs
+<!--lint ignore no-repeat-punctuation-->
+- [/dev/ttyS0's Embedded Device Hacking](http://www.devttys0.com/blog/)
+- [Exploiteers](https://www.exploitee.rs/)
+- [Hackaday](https://hackaday.com)
+- [jcjc's Hack The World](https://jcjc-dev.com/)
+- [Quarkslab](https://blog.quarkslab.com/)
 
 ## Conferences
 会议重点讨论嵌入式和/或物联网安全.
@@ -140,7 +156,7 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内，Fraunhofer FKIE放弃了所有版权和
 相关或邻接权.

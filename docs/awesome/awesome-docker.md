@@ -168,7 +168,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [blimp](https://github.com/tubes和lube/blimp) ：skull：-使用Docker Machine轻松地将容器从一台Docker主机移至另一台Docker主机，显示针对所有主机运行的容器，跨多个主机复制容器，以及通过 [@defermat](https://github.com/defermat) 和 [@schvin](https://github.com/schvin)
 - [CloudSlang](https://github.com/CloudSlang/cloud-slang) -CloudSlang是用于创建Docker流程自动化的工作流引擎
 - [clusterdock](https://github.com/clusterdock/clusterdock) -Docker容器编排以启用对长时间运行的集群部署的测试
-- [ContainerShip](https://github.com/containership/containership) :skull: - A simple container management platform
+- [ContainerShip](https://github.com/containership/containership) ：skull：-一个简单的容器管理平台
 - [Crane](https://github.com/Dataman-Cloud/crane) -基于docker内置群的控制平面 [@Dataman-Cloud](https://github.com/Dataman-Cloud)
 - [Docker Flow Swarm Listener](https://github.com/docker-flow/docker-flow-swarm-listener)  -Docker Flow Swarm Listener项目将侦听Docker Swarm事件并在发生更改时发送请求.  通过[@ docker-flow] [docker-flow]
 - [gantryd](https://github.com/DevTable/gantryd) ：skull：-一个框架，通过它可以轻松管理跨机器的基于docker的组件 [@DevTable](https://github.com/DevTable)
@@ -208,7 +208,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [docker-proxy](https://github.com/silarsis/docker-proxy)  ：skull：-Docker容器的透明代理，在Docker容器中运行.  通过 [@silarsis](https://github.com/silarsis)
 - [fabio](https://github.com/fabiolb/fabio)  -快速，现代的零配置负载平衡HTTP（S）路由器，用于部署由领事管理的微服务.  通过 [@magiconair](https://github.com/magiconair) （弗兰克·施罗德）
 - [h2o-proxy](https://github.com/zchee/h2o-proxy)  ：skull：-Docker容器的自动化H2O反向代理.  [jwilder / nginx-proxy] [nginxproxy]的替代方法是 [@zchee](https://github.com/zchee)
-- [Let's Encrypt Nginx-proxy Companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion)  -用于Nginx代理的轻量级随身容器.  它允许自动创建/更新“加密我们的证书”.  通过 [@JrCs](https://github.com/JrCs)
+- [Let's Encrypt Nginx-proxy Companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) - A lightweight companion container for the nginx-proxy. It allow the creation/renewal of Let's Encrypt certificates automatically. By [@JrCs](https://github.com/JrCs)
 - [muguet](https://github.com/mattallty/muguet)  ：skull：-用于Docker环境的DNS服务器和反向代理.  通过 [@mattallty](https://github.com/mattallty)
 -[nginx-proxy] [nginxproxy]-[@jwilder] [jwilder]使用docker-gen为Docker容器提供的自动nginx代理
 - [Nginx Proxy Manager](https://github.com/jc21/nginx-proxy-manager)  -美观的Web界面，用于通过SSL代理基于Web的服务.  通过 [@jc21](https://github.com/jc21)
@@ -400,6 +400,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) -密切关注docker映像大小的工具.
 - [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -Dockerfile的基于规则的&#39;linter&#39; [@projectatomic](https://github.com/projectatomic)
+- [Dockerfile Linter action](https://github.com/buddy-works/dockerfile-linter) -通过linter，您可以验证Dockerfile语法，以确保其遵循构建高效Docker映像的最佳实践.
 - [dockfmt](https://github.com/jessfraz/dockfmt) ：construction：-[@jessfraz] [jessfraz]的Dockerfile格式化程序和解析器
 - [FROM:latest](https://github.com/replicatedhq/dockerfilelint) -一个自以为是的Dockerfile linter [@replicatedhq](https://github.com/replicatedhq)
 - [Hadolint](https://github.com/hadolint/hadolint)  -一个Dockerfile linter，它检查最佳实践，常见错误，并且还可以抹掉用RUN指令编写的bash；  通过 [@lukasmartinelli](https://github.com/lukasmartinelli)

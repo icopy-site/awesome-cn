@@ -173,6 +173,7 @@
 - [Ale Muñoz](https://github.com/bomberstudios/ama) -Sketch的开发人员关系，插件开发人员，设计师和数字工具匠.
 - [Imed Jaberi](https://github.com/3imed-jaberi/ama) -JavaScript开发人员，指导者，开源贡献者，社区构建者和发言人.
 - [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) -分布式系统工程师，Java和Golang开发人员，3x CTO， [blogger](https://blog.arpitmohan.com).
+- [Yohix](https://github.com/yohix/ama) -他/他是iOS和网络开发人员，开源工具制造商，他喜欢咖啡和音乐.
 
 #### Ask these organizations anything!
 

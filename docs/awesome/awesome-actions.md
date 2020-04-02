@@ -165,6 +165,7 @@
 - [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) -可互换地转换YAML / JSON / XML文件格式. 
 - [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) -检测已提交文件中的NSFW内容.
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) -根据更改的路径有条件地执行操作.
+- [Linguist](https://github.com/fabasoad/linguist-action) -检查存储库并在输出中生成有关使用的语言的信息.
 - [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) -使用定义的文本进行Twilio语音通话.
 
 #### Environments

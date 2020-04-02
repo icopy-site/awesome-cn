@@ -13,7 +13,7 @@
 
  这是开始研究“数据科学”的捷径.  只需按照以下步骤回答以下问题：“什么是数据科学？我应该学习什么才能学习数据科学？”
 
- 首先，数据科学是当今计算机和Internet农田上最热门的主题之一.  人们一直从应用程序和系统收集数据，直到今天，现在是分析它们的时候了.  下一步是从数据中提出建议并创建有关未来的预测. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到** Data Science **的最大问题以及专家提供的数百个答案. 
+First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) 您可以找到** Data Science **的最大问题以及专家提供的数百个答案. 
 
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/)  该库具有收集和分析数据的全部功能.  我们用 [Anaconda](https://www.continuum.io/downloads) 玩数据并创建应用程序. 
 
@@ -183,7 +183,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Revolution Analytics](http://blog.revolutionanalytics.com/) -数据科学博客
 - [R Bloggers](https://www.r-bloggers.com/) -R博客
 - [The Practical Quant](https://practicalquant.blogspot.com/) 大数据
-- [Micheal Le Gal](http://www.mickaellegal.com/) a data enthusiast who gets hooked on solving intriguing problems and crafting beautiful stories and visualizations with data. Over the past 5 years, He haas applied statistics to solve problems in government, brain sciences, and most recently, retail.
+- [Micheal Le Gal](http://www.mickaellegal.com/)  一位数据爱好者，他热衷于解决有趣的问题并制作精美的故事和可视化数据.  在过去的5年中，他为统计工作解决了政府，脑科学以及最近的零售业中的问题.
 - [Datascope Analytics](https://datascopeanalytics.com/) 数据驱动的咨询和设计
 - [另一个数据博客](http://yet-another-data-blog.blogspot.com.tr/) 另一个数据博客
 - [Spenczar](http://spenczar.com/)  _Twitch_的一位数据科学家.  我负责整个数据管道，从跟踪到模型构建再到报告.
@@ -235,7 +235,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Colah's Blog](http://colah.github.io) -了解神经网络的博客！
 - [Sebastian's Blog](http://sebastianruder.com/#open) -NLP和转学的博客！
 - [Distill](http://distill.pub) -致力于清楚地解释机器学习！
-- [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes 
+- [Chris Albon's Website](https://chrisalbon.com/) -数据科学和AI笔记 
 - [Andrew Carr](https://andrewnc.github.io/blog/blog.html) -具有神秘编程语言的数据科学
 
 ## Newsletters
@@ -343,7 +343,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Kevin Markham](https://twitter.com/justmarkham) -数据科学讲师和创始人 [Data School](http://www.dataschool.io/)
 - [Kim Rees](https://twitter.com/krees)  -交互式数据可视化和工具.  数据专家.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
-- [Linda Regber](https://twitter.com/LindaRegber) - Data story teller, visualizations.
+- [Linda Regber](https://twitter.com/LindaRegber) -数据故事讲述人，可视化.
 - [Luis Rei](https://twitter.com/lmrei)  - 博士生.  编程，移动，Web.  人工智能，智能机器人机器学习，数据挖掘，自然语言处理，数据科学.
 - [Mark Stevenson](https://twitter.com/Agent_Analytics)  -Salt（@SaltJobs）的数据分析招聘专员|  分析-洞察力-大数据-数据科学
 - [Matt Harrison](https://twitter.com/__mharrison__)  -目前正在玩数据科学家的全栈Python专家，作家，讲师的观点.  偶尔进行育儿，养育，超期种植，有机园艺.
@@ -383,7 +383,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  - [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
  - [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
  - [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
- - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) -数据科学教育
+ - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
  - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
  - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
@@ -412,9 +412,9 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数字，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并将其给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
- 在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
+ 在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
  * [Variance](http://variancecharts.com/) 无需编写JavaScript，即可构建强大的Web数据可视化
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) Kite软件开发工具包（Apache许可，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.
@@ -443,13 +443,14 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Optimus](https://github.com/ironmussa/Optimus) -使用PySpark后端进行清理，预处理，功能工程，探索性数据分析和轻松ML. 
 * [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持开箱即用的分类，细分和检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
 * [DVC](https://github.com/iterative/dvc)  -开源数据科学版本控制系统.  它有助于跟踪，组织和使数据科学项目可重复.  在最基本的情况下，它有助于版本控制以及共享大数据和模型文件.
-* [Lambdo](https://github.com/asavinov/lambdo) 是一种工作流程引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
+* [Lambdo](https://github.com/asavinov/lambdo) is a workflow engine which significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation.
 * [Feast](https://github.com/gojek/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -用于可重现和可扩展的机器学习和深度学习的平台.
 * [LightTag](https://lighttag.io) -团队文字注释工具
 * [Trains](https://github.com/allegroai/trains) -适用于AI的自动魔术实验管理器，版本控制和DevOps
 * [Hopsworks](https://github.com/logicalclocks/hopsworks)  -具有功能存储的开源数据密集型机器学习平台.  摄取和管理在线（MySQL Cluster）和离线（Apache Hive）访问的功能，大规模培训和提供模型.
 * [MindsDB](https://github.com/mindsdb/mindsdb)  -MindsDB是开发人员可解释的AutoML框架.  借助MindsDB，您可以仅用一行代码即可构建，训练和使用最新的ML模型.
+* [Lightwood](https://github.com/mindsdb/lightwood) -一个基于Pytorch的框架，它将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.
 
 ## Visualization Tools - Environments
  

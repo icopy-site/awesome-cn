@@ -2,6 +2,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Food [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Awesome-food](https://raw.githubusercontent.com/jzarca01/awesome-food/master/awesome_food.png)
+
 &gt; GitHub上与食品相关项目的精选清单
 
 
@@ -9,13 +11,13 @@
 ## Food-related projects
 
 - [is-vegan](https://github.com/hmontazeri/is-vegan) -Is-Vegan可帮助您找出哪些食品成分是素食主义者/非素食主义者.
-- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) -现在，唾手可得的旧金山小吃街美食.
+- [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) -现在，唾手可得的旧金山街头美食就在您的指尖.
 - [Growstuff](https://github.com/Growstuff/growstuff) -面向小型粮食种植者的开放数据项目.
 - [myfood-app](https://github.com/MickaelGandecki/myfood-app) -智能温室管理.
 - [dominosjp](https://github.com/inket/dominosjp) -Domino&#39;s Pizza Japan CLI.
 - [pizzadash](https://github.com/bhberson/pizzadash) -这是一个Node.js应用程序，可“入侵”您的Amazon Dash Button以订购Domino的披萨.
 - [fetch-my-whopper](https://github.com/jzarca01/fetch-my-whopper) -Node应用程序可在Burger King索取免费的whopper.
-- [fetch-my-cookie](https://github.com/jzarca01/fetch-my-cookie) -Node应用程序可在Subway索取免费的cookie.
+- [fetch-my-cookie](https://github.com/jzarca01/fetch-my-cookie) -Node应用程序可在Subway上索取免费的cookie.
 - [whoffer](https://github.com/jzarca01/whoffer) -React Native OCR应用程序可在Subway索取免费cookie.
 - [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) -DeepChef：通过机器学习对烹饪菜肴进行分类.
 - [TooManyChefs](https://github.com/navignaw/TooManyChefs) -基于文本的合作烹饪游戏.
@@ -27,12 +29,12 @@
 
 - [the-bread-code](https://github.com/hendricius/the-bread-code) -学习如何掌握烘焙程序员的艺术.
 - [1337-Noms-The-Hacker-Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) -此仓库的目标是收集黑客社区周围各种菜式的食谱.
-- [Vegan-chocolate-seduction-cookbook](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) -几种很棒的纯素食巧克力食谱.
+- [Vegan-chocolate-seduction-cookbook](https://github.com/the-domains/vegan-chocolate-seduction-cookbook) -几种很棒的纯素巧克力食谱.
 - [food-recipes](https://github.com/obfuscurity/food-recipes) -诚实至善的“真实食品”食谱.
 - [recipes](https://github.com/bzimmerman/recipes) -该存储库包含美味的开源食谱.
 - [tacofancy](https://github.com/sinker/tacofancy)  -社区驱动的炸玉米饼回购.  星星星星.
 - [cookbook](https://github.com/jlinder/cookbook)  - 美味的食物.  多数不含小麦或麸质.
-- [pizza-dough](https://github.com/hendricius/pizza-dough) -此食谱致力于帮助您为那不勒斯披萨制作最好的披萨面团.
+- [pizza-dough](https://github.com/hendricius/pizza-dough) -此食谱致力于帮助您为那不勒斯比萨制作最好的比萨面团.
 - [mozzarella](https://github.com/hendricius/mozzarella) -了解如何制作自制芝士.
 
 ## API for Food services
@@ -40,7 +42,7 @@
 - [node-deliveroo](https://github.com/jzarca01/node-deliveroo) -用于交付的非官方节点API.
 - [tacofancy-api](https://github.com/evz/tacofancy-api) -回购Tacofancy的API.
 - [Spoonacular](https://spoonacular.com/food-api) -
-  Spoonacular为企业和开发人员提供其食品分析，匹配和搜索技术，以创建出色的应用程序.
+  Spoonacular为企业和开发人员提供其食品解析，匹配和搜索技术，以创建出色的应用程序.
 - [Edamam](https://developer.edamam.com/) -用于营养分析，食物数据库查找，配方搜索API等的API开发人员门户.
 - [RecipePuppy](http://www.recipepuppy.com/about/api/) -该API可让您通过关键字和/或搜索查询来搜索超过一百万个食谱的食谱小狗数据库.
 - [node-ubereats](https://github.com/jzarca01/node-ubereats) -Uber Eats的开发中API.
@@ -53,7 +55,7 @@
 - [node-nestor](https://github.com/jzarca01/node-nestor) -适用于Node.js的Nestor API包装器.
 - [node-mcdofrance](https://github.com/jzarca01/node-mcdofrance) -麦当劳法国的API.
 - [FoodtttruckAPI](https://github.com/jzarca01/FoodtttruckAPI.git) -一个非官方的tttruck.com API来查找食物卡车.
-- [node-dominos-france](https://github.com/jzarca01/node-dominos-france.git) -Domino&#39;s Pizza Promos应用程序的API.
+- [node-dominos-france](https://github.com/jzarca01/node-dominos-france.git) -Domino的Pizza Promos应用程序的API.
 - [node-kebab](https://github.com/jzarca01/node-kebab) -kebab-frites.info的API包装器.
 
 ## Sport nutrition
@@ -81,6 +83,17 @@
 - [Child Nutrition and Cooking](https://www.coursera.org/learn/childnutrition)  -本课程研究当代儿童营养状况以及每个家庭做出的个人决定的影响.  还讨论了与儿童肥胖有关的健康风险.
 - [Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-chemistry) -顶级厨师和哈佛研究人员探索日常烹饪和高级烹饪如何阐明化学，物理和工程学的基本原理.
 - [Science & Cooking: From Haute Cuisine to Soft Matter Science (physics)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-physics-2) -以上课程的第2部分，了解弹性，粘度，蛋黄酱，烘烤等知识！
+
+## Videos
+
+### Italian Cuisine
+
+- [Jamie Oliver](https://www.youtube.com/user/JamieOliver) -一个臭名昭著的英国厨师，这个家伙到处都有书籍和餐厅
+
+### Asian cuisine
+
+- [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) -亚洲烹饪，轻松而美丽
+- [Asian at Home](https://www.youtube.com/user/SeonkyoungLongest) -她说话太多了，但是食物看起来很棒
 
 
 ## Contribute

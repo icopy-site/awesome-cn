@@ -79,7 +79,7 @@
 * [Bulma](http://bulma.io/)  -基于Flexbox的现代CSS框架.  还具有Sass导入以进行修改.
 * [Butter Cake](http://getbuttercake.com/) -现代轻量级前端CSS框架，可更快，更轻松地进行Web开发.
 * [Chota](https://jenil.github.io/chota/) -具有有用的实用程序和网格系统的响应式，可自定义的微框架（3kb）.
-* [Cirrus](https://spiderpig86.github.io/Cirrus/) -具有精美控件和简单结构的完全响应和全面的CSS框架.
+* [Cirrus](https://spiderpig86.github.io/Cirrus/) -完全响应的，全面的CSS框架，具有精美的控件和简单的结构.
 * [eFrolic](https://efraa.github.io/eFrolic/) -不使用JavaScript的CSS框架是交互式的且具有动画效果.
 * [Foundation](http://foundation.zurb.com/) -先进的响应式前端框架.
 * [Hasser CSS](https://github.com/HeavenMercy/HasserCSS) -轻量级（12k，未缩小），但有用的CSS框架以及灵活的Grid，Hero等.
@@ -156,7 +156,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Style Guide
 
-* [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
+* [AUI](http://docs.atlassian.com/aui/latest/docs) 由Atlassian Design设计
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) 由孤独的星球
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) 通过Dropbox
 * [Fabric](https://dev.office.com/fabric#/) 由Microsoft
@@ -249,7 +249,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Podcasts :radio:
 
-*编程时要听的东西.*
+*Something to listen to while programming.*
 
 * [Shop Talk Show](http://shoptalkshow.com/) -与Chris Coyier和Dave Rupert进行的有关前端Web设计，开发和UX的实时播客.
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) -由Anna Debenham和Brad Frost主持的关于风格指南的一小批访谈.
@@ -353,9 +353,8 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 [sotayamashita]：https://github.com/sotayamashita
 [Rishabh04-02]：https://github.com/Rishabh04-02
-[troxler]：https：//github.com/troxler
 
-[@sotayamashita] [sotayamashita]，[@ troxler] [troxler]，[@ Rishabh04-02] [Rishabh04-02]和您！
+[@sotayamashita] [sotayamashita]，[@ Rishabh04-02] [Rishabh04-02]和您！
 
 
 ## Contribute

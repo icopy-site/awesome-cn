@@ -23,7 +23,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystaledge](https://github.com/unn4m3d/crystaledge) -一个纯向量数学库
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) -通用算法库
  * [crystalline](https://github.com/jtomschroeder/crystalline) -容器和算法的集合
- * [edits.cr](https://github.com/tcrouch/edits.cr) -编辑距离算法的集合
+ * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [fzy](https://github.com/hugopl/fzy) -很棒的Fzy项目模糊查找器算法的Crystal端口
  * [graphlb](https://github.com/mettuaditya/graphlb) -收集图数据结构和算法
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) -一致性哈希环的实现
@@ -164,6 +164,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Dependency Injection
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) -轻巧的DI容器
+ * [HardWire](https://github.com/jerometwell/hardwire) -编译时非侵入式依赖项注入系统.
  * [syringe](https://github.com/Bonemind/syringe) -用于晶体的简单且基本的依赖注入碎片
 
 ## Development Tools
@@ -434,8 +435,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
  * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -客户端API领事
- * [crystal-darksky](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
- * [crystal-github](https://github.com/felipeelias/crystal-github) - Wrapper for the [Github](https://github.com/) API
+ * [crystal-darksky](https://github.com/sb89/crystal-darksky) -包装 [Dark Sky](https://darksky.net) API
+ * [crystal-github](https://github.com/felipeelias/crystal-github) -包装 [Github](https://github.com/) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) -星球大战API（SWAPI）包装器
  * [crystal_slack](https://github.com/manastech/crystal_slack) -解析Slack斜杠命令或发送传入的Web挂钩的工具
  * [discordcr](https://github.com/meew0/discordcr) -极简的Discord API库
