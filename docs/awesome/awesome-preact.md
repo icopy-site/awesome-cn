@@ -53,10 +53,10 @@
 - [Preact Cycle](https://git.io/preact-cycle) -Preact的功能反应范例.
 - [Preact Layout](https://download.github.io/preact-layout/) -小而简单的布局库.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) -的Preact插件 [Socrates](http://github.com/matthewmueller/socrates).
-- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 采用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
+- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
 - [Preact I18nline](https://github.com/download/preact-i18nline) -整合周围的生态系统 [i18n-js](https://github.com/everydayhero/i18n-js) 通过Preact通过 [i18nline](https://github.com/download/i18nline).
 - [Preact MUI](https://git.io/v1aVO) -MUI CSS Preact库.
-- [Preact MDL](https://git.io/preact-mdl) - 采用 [MDL](https://getmdl.io) 作为Preact组件.
+- [Preact MDL](https://git.io/preact-mdl) - 用 [MDL](https://getmdl.io) 作为Preact组件.
 - [Preact Photon](https://git.io/preact-photon) -使用构建漂亮的桌面UI [photon](http://photonkit.com).
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) -创建没有class关键字的preact组件.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) -用于创建元素的类似于超脚本的语法.
@@ -84,7 +84,7 @@
 - [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建preact组件，受到elm的启发.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) -零学习曲线的React，Preact和Inferno的快速轻松状态管理.
-- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 采用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
+- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -JSX断言测试_（没有DOM，就在Node中）_.
@@ -129,6 +129,7 @@
 - [**Proxx**](https://proxx.app)  GoogleChromeLabs使用预设功能进行的接近游戏.  _（[Github project](https://github.com/GoogleChromeLabs/proxx))_.
 - [**Web Maker**](https://webmaker.app)  使用Preact打造的离线，超快的快速前端游乐场.  _（[Github project](https://github.com/chinchang/web-maker))_.
 - [**Intergram**](https://www.intergram.xyz)  链接到使用Preact构建的Telegram Messenger的实时聊天小部件.  _（[Github project](https://github.com/idoco/intergram))_.
+- [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) _([GitHub Project](https://github.com/safdarjamal/vanilla-preact/))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) -用于构建用户界面的声明性，高效且灵活的JavaScript库.

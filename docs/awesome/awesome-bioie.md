@@ -18,7 +18,7 @@ What is BioIE? It includes any effort to extract structured information from _un
 
 也可以看看 [awesome-nlp](https://github.com/keon/awesome-nlp), [awesome-biology](https://github.com/raivivek/awesome-biology) 和 [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics).
 
-_请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie/blob/master/contributing.md)  在贡献之前.  请提出一个 [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)._
+_请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie/blob/master/contributing.md)  在贡献之前.  请通过筹集资金来添加您喜欢的资源 [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)._
 
 
 ## Research Overviews
@@ -87,7 +87,7 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 * [BioASQ](http://bioasq.org/)  -生物医学语义索引和问题解答方面的挑战.  自2013年以来，每年举行一次挑战赛和研讨会.
 * [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) -自2004年以来就组织了这些研讨会，BioCreative VI于2017年2月举行， [BioCreative/OHNLP Challenge](https://sites.google.com/view/ohnlp2018/home) 于2018年举行.请参阅 [Datasets](#datasets) 下面. 
 * [SemEval workshop](http://alt.qcri.org/semeval2020/)  -计算语义分析中的任务和评估.  任务因年份而异，但通常涵盖科学和/或生物医学语言，例如 [SemEval-2019 Task 12 on Toponym Resolution in Scientific Papers](https://competitions.codalab.org/competitions/19948).
-* [eHealth-KD](https://knowledge-learning.github.io/ehealthkd-2019/)  -鼓励“开发自动从以西班牙语编写的eHealth文档中提取大量知识的软件技术”面临的挑战.  以前作为 [TASS](http://www.sepln.org/workshops/tass/)，每年一次的西班牙语语义分析研讨会.
+* [eHealth-KD](https://knowledge-learning.github.io/ehealthkd-2019/)  -鼓励“开发软件技术以自动从以西班牙语编写的eHealth文档中提取大量知识的挑战”.  以前作为 [TASS](http://www.sepln.org/workshops/tass/)，每年一次的西班牙语语义分析研讨会.
 
 
 ## Tutorials
@@ -108,11 +108,12 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) -主要用于生物信息学和计算分子生物学目的的Python工具，但也是一种获取数据的便捷方法，包括从PubMed获得的文档/摘要（请参阅文档的第9章）.
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) -Python工具主要用于生物信息学和计算分子生物学目的，但也是一种获取数据的便捷方法，包括从PubMed获得的文档/摘要（请参阅文档的第9章）.
 * [Bio-SCoRes](https://github.com/kilicogluh/Bio-SCoRes) - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538) -生物医学共同参考解决方案的框架.
 * [medaCy](https://github.com/NLPatVCU/medaCy)  -用于建立预测医学自然语言处理模型的系统.  建立在 [spaCy](https://spacy.io/) 框架. 
 * [ScispaCy](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) -版本 [spaCy](https://spacy.io/) 科学和生物医学文献的框架.
 * [rentrez](https://github.com/ropensci/rentrez) - R utilities for accessing NCBI resources, including PubMed.
+* [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) -用于与药物相关概念进行NER的Python软件包和模型（用于spaCy）.
 
 ### Repos for Specific Datasets
 
@@ -167,7 +168,7 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 以下资源包含生物医学科学中的索引文本文件.
 * [OHSUMED](http://davis.wpi.edu/xmdv/datasets/ohsumed.html) - [paper](https://dl.acm.org/citation.cfm?id=188557)  -1987年至1991年之间的348,566条MEDLINE条目（标题有时有时是摘要）.包括MeSH标签.  主要具有历史意义.
 * [PubMed Central Open Access Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)  -一套PubMed Central文章，可根据传统版权以外的许可使用，尽管确切的许可因出版物和来源而异.  文章以PDF和XML的形式提供.
-* [CORD-19](https://pages.semanticscholar.org/coronavirus-research)  -有关COVID-19的学术手稿集.  文章主要来自PubMed Central和预印本服务器，尽管该文章集还包含纸张上的元数据，但没有全文本.
+* [CORD-19](https://pages.semanticscholar.org/coronavirus-research)  -有关COVID-19的学术手稿集.  文章主要来自PubMed Central和预印服务器，尽管该文章集还包含纸张上的元数据，但没有全文本.
 
 ### Annotated Text Data
 

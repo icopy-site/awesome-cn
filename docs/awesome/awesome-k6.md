@@ -31,6 +31,7 @@
 ## Videos
 
 - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) -k6简介，显示了如何从HAR文件创建测试.
+- [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) -演练了开源负载和性能回归测试工具k6，以及如何对API和网站进行负载测试.
 
 ## Reference Projects
 
@@ -48,6 +49,7 @@
 - [k6-to-junit](https://github.com/Mattihew/k6-to-junit) -用于将k6输出转换为JUnit XML以便于CI轻松使用的工具.
 - [har-to-k6](https://github.com/loadimpact/har-to-k6) -用于将HAR记录转换为k6测试脚本的工具.
 - [postman-to-k6](https://github.com/loadimpact/postman-to-k6) -用于将Postman集合转换为k6测试脚本的工具.
+- [k6 generator](https://github.com/OpenAPITools/openapi-generator) -用于将Swagger / OpenAPI规范转换为k6测试脚本的工具.
 - [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) -用于将JMeter测试用例转换为k6测试脚本的工具.
 - [jslib.k6.io](https://jslib.k6.io/) -适用于k6脚本的实用工具库.
 

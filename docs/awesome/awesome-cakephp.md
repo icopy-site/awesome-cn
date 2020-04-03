@@ -148,7 +148,7 @@
 * I18n（国际化）和L10n（本地化）的插件.
 
 - ：草莓： [ADmad/I18n plugin](https://github.com/ADmad/cakephp-i18n) -具有I18n相关工具的插件.
-- [Localized plugin](https://github.com/cakephp/localized) -本地化的验证和现成的翻译PO文件.
+- ：草莓： [Cake/Localized plugin](https://github.com/cakephp/localized) -本地化的验证和现成的翻译PO文件.
 - ：草莓： [ShadowTranslate plugin](https://github.com/AD7six/cakephp-shadow-translate) -一个基于影子表的插件，用于替换核心的Translate行为.
 - [Transifex plugin](https://github.com/dereuromark/cakephp-transifex) -通过Transifex API管理i18n PO文件和翻译.
 - [Translate plugin](https://github.com/dereuromark/cakephp-translate)  -通过网络后端（包括）轻松地管理静态内容的翻译.  从POT文件导入，自动建议和通过API自动翻译.
@@ -197,7 +197,7 @@
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个用于向您的应用添加枚举列表支持的插件.
-- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.
@@ -223,7 +223,7 @@
 ## Navigation
 *用于构建导航结构的工具.*
 
-- ：草莓： [Icings/Menu plugin](https://github.com/icings/menu) - 一种 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP的经验丰富的菜单插件.
+- ：草莓： [Icings/Menu plugin](https://github.com/icings/menu) - 一个 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP的经验丰富的菜单插件.
 
 ## NoSQL
 *用于“ NoSQL”后端的插件.*
@@ -475,7 +475,7 @@
 - [CakePHP-NL](https://www.meetup.com/CakePHP-NL) -荷兰的MeetUps.
 
 ## Contributing
-请参阅 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 有关详细信息.
+请参见 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 有关详细信息.
 
 ## Credits
 awesome-cakephp由创建 [dereuromark](https://github.com/dereuromark)  目前由他和FriendsOfCake小组维护.  谢谢你们 [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors)也一样

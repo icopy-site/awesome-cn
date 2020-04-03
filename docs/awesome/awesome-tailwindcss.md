@@ -135,6 +135,7 @@
 -  [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) -Tailwind CSS的调色板生成器（在线）.
 -  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带有PurgeCSS和现代CSS的NuxtJS的Tailwind CSS模块（预设环境1）.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) -将Tailwind CSS模块添加为PostCSS插件，并在生产中为PreactJS CLI项目设置PurgeCSS.
+-  [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) -Babel宏，可将Tailwind CSS类转换为CSS-in-JS库的对象.
 
  |  表情符号|  描述
 | ----- | ---------------------------------------------- |

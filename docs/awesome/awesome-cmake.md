@@ -34,14 +34,14 @@
 * [Article](http://preshing.com/20170511/how-to-build-a-cmake-based-project/) -如何构建基于CMake的项目.
 * [Article](http://preshing.com/20170522/learn-cmakes-scripting-language-in-15-minutes/) -在15分钟内学习CMake的脚本语言.
 * [Article](http://aosabook.org/en/cmake.html) -CMake的体系结构.
-* [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) -有效的CMake-由C ++ Now 2017年Daniel Pfeifer撰写
+* [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) -有效的CMake-由C ++ Now 2017年Daniel Pfeifer撰写.
 * [Article](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/) -使用CMake构建跨平台CUDA应用程序.
 * [Tutorial](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) -逐步了解CMake的指南.
 * [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) -拥抱现代CMake-Stephen Kelly.
 * [Lecture](https://www.youtube.com/watch?v=eC9-iRN2b04) -模块化设计的现代CMake-Mathieu Ropert，CppCon 2017.
 * [Article](https://juan-medina.com/2017/07/01/moderncppci/) -现代C ++ CI（尽管它使用非现代CMake，如```include_directories（）`&#39;&#39;）.
 * [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) -是时候正确地做CMake了（有关CMake的最佳文章之一）.
-*文章-关于CMake的系列-作者：MartinHořeňovský
+*文章-关于CMake的系列-作者MartinHořeřovský
     * [Basic CMake usage](https://codingnest.com/basic-cmake/).
     * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/).
 * [Lecture](https://www.youtube.com/watch?v=jt3meXdP-QI) -CMake简介-作者：Florent Castelli，C ++ Sweden 2018.
@@ -73,7 +73,7 @@
 
 ## Modules
 
-* [cmake-modules](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik) 的CMake模块集合.  有许多查找模块，特别是用于虚拟现实和物理模拟的查找模块，一些实用程序模块以及CMake本身的某些修补程序或解决方法.  [```[BOOST]```] [BOOST]
+* [cmake-modules](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik) 的CMake模块集合.  有许多查找模块，特别是用于虚拟现实和物理模拟的查找模块，一些实用程序模块以及CMake本身的某些修补程序或变通办法.  [```[BOOST]```] [BOOST]
 * [cmake-modules](https://github.com/bilke/cmake-modules)  -这是其他CMake模块的集合.  其中大多数来自Ryan Pavlik.  [```[BOOST]```] [BOOST]
 * [CMake](https://github.com/Eyescale/CMake) - [Eyescale](https://github.com/Eyescale) 的常见CMake模块.  [```[BSD3]```] [BSD-3-Clause]
 * [sdl2-cmake-scripts](https://github.com/tcbrindle/sdl2-cmake-scripts)  -用于查找SDL2，SDL2_image和SDL2_ttf库和标头的CMake脚本.  [```[BSD2]```] [BSD-2-Clause]
@@ -86,7 +86,7 @@
 * [FindTBB](https://github.com/justusc/FindTBB)  -用于英特尔线程构建模块的CMake查找模块.  [```[MIT]```] [MIT]
 * [FindWiX](https://github.com/apriorit/FindWiX) -用于建筑的CMake模块 [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) 与包装 [WiX toolset](http://wixtoolset.org) .  [```[BSD3]``&#39;] [BSD-3-条款]
 * [FindIDL](https://github.com/apriorit/FindIDL) -用于建筑的CMake模块 [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) MIDL文件并使用生成CLR DLL [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer) .  [```[MIT]```] [MIT]
-* [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei) 的CMake模块集合.  [```[MIT]```] [MIT]
+* [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei)'s CMake module collection. [```[MIT]```][MIT]
 * [YCM](https://github.com/robotology/ycm) -额外的CMake模块 [Yet Another Robot Platform](https://github.com/robotology/yarp)  和朋友.  [```[BSD3]```] [BSD-3-Clause]
 * [CMakeCM](https://github.com/AnotherFoxGuy/CMakeCM)  -CMake社区模块.  ```[无许可证]```
 * [Metabench](https://github.com/ldionne/metabench)  -用于编译时微基准测试的CMake模块.  [```[BOOST]```] [BOOST]
@@ -95,7 +95,7 @@
 
  它们提供了广泛的功能-从处理编译器标志到使用工具.  有些还包含模块.
 
-* [cotire](https://github.com/sakra/cotire)  -Cotire（编译时间减少器）是一个CMake模块，它通过完全自动化的技术（如针对C和C ++的预编译头和统一构建）来加速基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
+* [cotire](https://github.com/sakra/cotire)  -Cotire（编译时间减少器）是一个CMake模块，它通过完全自动化的技术（如针对C和C ++的预编译头和统一构建）来加快基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
 * [ucm](https://github.com/onqtam/ucm)  -用于管理编译器/链接器标志，收集源，预编译的头文件，统一构建等.  [```[MIT]```] [MIT]
 * [cmakepp](https://github.com/toeb/cmakepp)  -CMake构建系统的增强套件.  [```[MIT]```] [MIT]
 * [sugar](https://github.com/ruslo/sugar) -CMake工具和示例：收集源文件，警告抑制等.[```[BSD2]```] [BSD-2-Clause]
@@ -133,6 +133,7 @@
 * [polly](https://github.com/ruslo/polly)  -收集CMake工具链文件和脚本，以进行跨平台构建和CI测试.  [```[BSD2]```] [BSD-2-Clause]
 * [toolchains](https://github.com/mosra/toolchains)  -用于与CMake交叉编译.  它们主要用于ArchLinux.  ```[无许可证]```
 * [cmake](https://github.com/staticlibs/cmake/tree/master/toolchains)  -收集CMake工具链文件，主要用于静态链接.  [```[APACHE2]```] [APACHE2]
+* [Arduino-CMake-Toolchain](https://github.com/a9183756-gh/Arduino-CMake-Toolchain)  -适用于所有官方和第三方Arduino平台的CMake工具链.  [```[MIT]```] [MIT]
 
 ## Examples / Templates
 
@@ -195,7 +196,7 @@
 * [cmake-lint](https://github.com/richq/cmake-lint)  -检查CMake文件中的编码样式问题.  cmakelint需要Python.  [```[APACHE2]```] [APACHE2]
 * [git-cmake-format](https://github.com/kbenzie/git-cmake-format)  -将clang格式集成到git存储库中托管的CMake项目中.  [```[LICENSE]```]（https://github.com/kbenzie/git-cmake-format/blob/master/license.txt）
 * [configure-cmake](https://github.com/nemequ/configure-cmake)  -configure-cmake是用于基于CMake的项目的自动工具样式的配置脚本.  [```[CC0-1.0]```] [CC0-1.0]
-* [tbb](https://github.com/wjakob/tbb) - Threading Building Blocks with CMake build. [```[APACHE2]```][APACHE2]
+* [tbb](https://github.com/wjakob/tbb) <i>- Threading Building Blocks with CMake build.</i> <b>-使用CMake构建线程构建模块。</b> <i>[```[APACHE2]```][APACHE2]</i> <b>[```[APACHE2]```] [APACHE2]</b>
 * [sqlite.cmake.build](https://github.com/snikulov/sqlite.cmake.build)  -用于sqlite合并的CMake脚本.  ```[无许可证]```
 * [cmake-ast](https://github.com/polysquare/cmake-ast)  -将CMake文件转换为AST的Python模块.  [```[MIT]```] [MIT]
 * [cmake_format](https://github.com/cheshirekow/cmake_format)  -CMakeLists.txt文件的源代码格式化程序.  [```[GPL]```] [GPL]

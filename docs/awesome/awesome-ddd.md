@@ -21,7 +21,7 @@
 **[Event Storming](https://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)**是一种研讨会形式，用于快速探索复杂的业务领域.
 
 
-- [Awesome Domain-Driven Design ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-domain-driven-design-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
+- [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd/)
 
 ## Books
 
@@ -58,6 +58,7 @@
 - [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) -了解生活文档如何在项目的各个方面提供帮助，从业务目标到业务领域的知识，体系结构和设计，流程和部署，即使您讨厌编写文档.
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) -介绍如何开发基于微服务的应用程序并使用容器对其进行管理. [eShopOnContainers sample](https://github.com/dotnet-architecture/eShopOnContainers)
 - [The Semantic JavaScript Backend for Event-Driven Development](https://docs.wolkenkit.io/1.1.0/downloads/brochure/) -一本长达68页的免费电子书，内容涉及DDD，CQRS和事件源以及它们如何相互配合.
+- [DDD Magazine from Xebia #1](https://pages.xebia.com/domain-driven-design-magazine-xebia) -这本杂志囊括了基于个人，业务和客户经验的富有远见和实用的见解，可为您的DDD之旅提供支持
 
 ## Training Courses
 
@@ -105,13 +106,14 @@
 - [wolkenkit Slack](http://slackin.wolkenkit.io/) -一个在DDD，事件源，CQRS和wolkenkit上的Slack团队.
 - [Awesome Event Storming](https://github.com/mariuszgil/awesome-eventstorming) -很棒的列表，仅关注事件风暴.
 - [Virtual Domain-driven design community](https://virtualddd.com) -小组讨论，在线协作和资源共享的在线聚会.
+- [Domain-driven design heuristics](https://www.dddheuristics.com/) -域驱动的设计启发法是一个社区驱动的站点，用于记录和讨论有关设计启发法的内容.
 
 ## Blogs
 
 - [Nick Chamberlain](https://buildplease.com) -为.NET开发人员提供有用的开发和设计建议.
-- [DDD Weekly](http://dddweekly.com) - Weekly curated links related to DDD/CQRS/ES.
+- [DDD Weekly](http://dddweekly.com) -与DDD / CQRS / ES相关的每周精选链接.
 - [Daniel Whittaker](http://danielwhittaker.me)  -是否想了解CQRS和事件来源？  该博客中包含分步指南，可帮助您起步.
-- [Cyrille Martraire](http://cyrille.martraire.com) - Being so immersed in finance while still in love with programming, I’m naturally a big fan of Domain-Driven Design by Eric Evans, along with TDD, BDD and agile/XP practices.
+- [Cyrille Martraire](http://cyrille.martraire.com) -在沉迷于金融的同时仍然热衷于编程，我自然是Eric Evans的领域驱动设计以及TDD，BDD和敏捷/ XP实践的忠实拥护者.
 - [Jimmy Bogard](https://lostechies.com/jimmybogard/) -我专注于DDD，分布式系统以及其他以缩略语为中心的设计/架构/方法论.
 - [CodeBetter](http://codebetter.com) -CodeBetter.Com的存在是为了帮助在软件开发社区中培养对更好的实践，高级工具，行之有效的方法和技术的意识.
 - [Greg Young](https://goodenoughsoftware.net/) -足够好的软件，从定义上讲是足够的.
@@ -155,7 +157,7 @@
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 - [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
 - [DotNet CQRS Intro](https://github.com/asc-lab/dotnet-cqrs-intro) -具有事件来源的实现CQRS的示例-演化方法（无CQRS，具有相同模型的单独模型和命令，具有单独模型的单独模型和命令，单独的存储引擎，事件源）.
-- [EISK](https://github.com/eisk) -具有简单用例的.NET CLI和VS模板，可使用体系结构最佳实践（DDD，洋葱体系结构等）在.net核心之上构建可伸缩的应用程序.
+- [EISK](https://github.com/eisk) - .NET CLI and VS Templates with simple use cases to build scalable applications on top of .net core with architectural best practices (DDD, onion architecture etc).
 - [EmailMaker](https://github.com/xhafan/emailmaker) -电子邮件营销ASP.NET Core MVC和ASP.NET MVC演示应用程序演示 [CoreDdd](https://github.com/xhafan/coreddd) 用法
 - [eShopOnContainersDDD](https://github.com/volak/eShopOnContainersDDD) -具有目录，购物篮，结帐和订单有界上下文的eShop全栈示例
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject) -具有DDD，CQRS和事件来源的完整ASP.NET Core 2.0应用程序
@@ -185,7 +187,7 @@
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) -演示项目，用于在Scala-Akka中实现CQRS和事件源模式.
 - [DDD By Examples - Library](https://github.com/ddd-by-examples/library)  -由实际业务需求驱动的图书馆样本项目.  借助DDD，BDD，EventStorming，示例映射，CQRS等实现的模块化整体.
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) -DDD-CQRS示例v2.0项目，可帮助您使用Spring，JPA和测试开始高级域建模.
-- [DDD Workshop - Project Manager](https://github.com/mkopylec/project-manager)  -“自己动手” DDD研讨会和一个示例DDD应用程序同时进行.  基于项目管理域.
+- [DDD Workshop - Project Manager](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
 - [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) -用于Java代码的事件源和CQRS实现的简化（内存中）示例（针对银行领域用例建模）.
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) -Java中的事件源和CQRS的实用应用程序，对于常见的相关问题（例如事件顺序和幂等）具有很好的参考.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) -示例事件源应用程序，带有命令查询职责隔离
@@ -206,9 +208,9 @@
 - [Aggregates.NET](https://github.com/volak/Aggregates.NET) -通过NServicebus和GetEventStore的.NET事件源域驱动的设计模型.
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) -轻量级基础架构，用于使用聚合进行事件外包.
 - [Akka.NET](http://getakka.net/) -Akka.NET是一个工具包和运行时，用于在.NET＆Mono上构建高度并发，分布式和容错事件驱动的应用程序.
-- [ABP](https://abp.io) - Successor of ASP.NET Boilerplate - ASP.NET Core based application framework to create NLayered, Domain Driven Designed web applications with a microservice focused modular architecture
+- [ABP](https://abp.io) -ASP.NET Boilerplate的后继者-基于ASP.NET Core的应用程序框架，用于创建具有以微服务为中心的模块化体系结构的NLayered，域驱动设计的Web应用程序
 - [ASP.NET Boilerplate](http://aspnetboilerplate.com/) -基于ASP.NET MVC，Web API和ASP.NET Core的应用程序框架，以创建实现最佳实践的NLayered，域驱动设计的Web应用程序.
-- [ByValue](https://github.com/sm-g/ByValue) - This library helps to create ValueObjects (even with collection properties) with properly implemented equality behavior.
+- [ByValue](https://github.com/sm-g/ByValue) -该库有助于创建具有正确实现的相等行为的ValueObjects（即使具有集合属性）.
 - [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling)  -通过HTTP处理命令的中间件；  通常用于CQRS应用程序.
 - [Cirqus](https://github.com/d60/Cirqus) -d60事件源+ CQRS框架.
 - [CoreDdd](https://github.com/xhafan/coreddd) -一组有助于DDD和CQRS，具有NHibernate持久性的开源.NET库
@@ -265,7 +267,7 @@
 
 - [Deeper into DDD on DotNetRocks with David Real](http://dotnetrocks.com/?show=1151) -2015年6月11日.
 - [Thinking in DDD on DotNetRocks with Julie Lerman and Steve Smith](http://dotnetrocks.com/?show=1023) -2014年8月19日.
-- [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) -2007年5月10日.
+- [Eric Evans on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=236) - 10 May 2007.
 - [Jimmy Nilsson on Domain Driven Design on DotNetRocks](http://dotnetrocks.com/?show=191) -2006年8月29日.
 - [Being the Worst](http://www.beingtheworst.com) -2012年至2016年.
 - [Software Engineering Radio Episode 225: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/) -2015年5月13日.

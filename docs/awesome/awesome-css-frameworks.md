@@ -10,7 +10,7 @@
 
 ## Base / Reset / Normalize
 
-- [**normalize.css**](http://necolas.github.io/normalize.css/) -支援HTML5的CSS重置替代品.  
+- [**normalize.css**](http://necolas.github.io/normalize.css/) -支持HTML5的CSS重置替代品.  
   ![](https://img.shields.io/github/stars/necolas/normalize.css.svg?style=social&label=Star)
   [Repo](https://github.com/necolas/normalize.css/)
   | #CSS
@@ -25,7 +25,7 @@
   [Repo](https://github.com/jgthms/minireset.css)
   | #Sass
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) -可扩展，可扩展，基于Sass的OOCSS框架，适用于大型和持久的UI项目.  
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) -可扩展，可扩展，基于Sass的OOCSS框架，用于大型且持久的UI项目.  
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
@@ -38,7 +38,7 @@
 
 ## Very Lightweight
 
-小于约5KB的框架.
+小于〜5KB的框架.
 
 - [**Pure**](https://purecss.io) -可在每个Web项目中使用的小型响应式CSS模块集.  
   ![](https://img.shields.io/github/stars/yahoo/pure.svg?style=social&label=Star)
@@ -277,13 +277,6 @@
   [Scaffold](http://bitters.bourbon.io/)
   | #SCSS
 
-- [**Neat**](https://neat.bourbon.io/) -轻巧灵活的Sass网格.  
-  ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
-  [Demo](https://neat.bourbon.io/examples/),
-  [Docs](https://neat.bourbon.io/docs/latest/),
-  [Repo](https://github.com/thoughtbot/neat)
-  | #SCSS
-
 
 ## Stalled Development
 
@@ -317,6 +310,13 @@
 - [**Basscss**](http://basscss.com) -低级CSS工具箱.  
   ![](https://img.shields.io/github/stars/basscss/basscss.svg?style=social&label=Star)
   [Repo](https://github.com/basscss/basscss/)
+  
+- [**Neat**](https://neat.bourbon.io/) -轻巧灵活的Sass网格.  
+  ![](https://img.shields.io/github/stars/thoughtbot/neat.svg?style=social&label=Star)
+  [Demo](https://neat.bourbon.io/examples/),
+  [Docs](https://neat.bourbon.io/docs/latest/),
+  [Repo](https://github.com/thoughtbot/neat)
+  | #SCSS
 
 - [**Mobi.css**](http://getmobicss.com) -轻巧，可扩展，移动优先的CSS框架.  
   ![](https://img.shields.io/github/stars/mobi-css/mobi.css.svg?style=social&label=Star)
@@ -354,7 +354,7 @@
   ![](https://img.shields.io/github/stars/dropbox/scooter.svg?style=social&label=Star)
   [Repo](https://github.com/dropbox/scooter)
 
-- [**Responsive Boilerplate**](http://responsivebp.com) -强大，可访问，对开发人员友好的框架，用于构建响应式网站.  
+- [**Responsive Boilerplate**](http://responsivebp.com) -强大，易于访问，对开发人员友好的框架，用于构建响应式网站.  
   ![](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=social&label=Star)
   [Docs](http://responsivebp.com/getting-started/),
   [Repo](https://github.com/responsivebp/responsive)

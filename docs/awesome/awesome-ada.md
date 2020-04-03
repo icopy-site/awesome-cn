@@ -53,9 +53,8 @@
 	1. [Verification](#Verification)   
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
-	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
-	3. [Patterns](#Patterns)   
-	5. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#Parsers-Scanners-Linters-Analysers-Interpreters-and-Prettyprinters)   
+	4. [Patterns](#Patterns)   
+	6. [Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters](#Parsers-Scanners-Linters-Analysers-Interpreters-and-Prettyprinters)   
 	6. [Format Readers and Writers](#Format-Readers-and-Writers)   
 	7. [Network](#Network)   
 	8. [Web](#Web)   
@@ -279,7 +278,7 @@
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) -CLAW，Microsoft Windows的高级，可移植的Ada 95绑定.
 - [gtkada](https://github.com/AdaCore/gtkada) -基于Gtk3组件的Ada图形工具包.
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/qtada/qt5ada.html) -Ada-2012移植到QT 5框架.
-- [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) -Ada-2012移植到VTK 8.1（可视化工具包）.
+- [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
 
 #### 3D
 - [globe-3d](https://github.com/zertovitch/globe-3d) -用于3D的基于GL对象的引擎.
@@ -337,7 +336,7 @@
 - [ada-ml](https://github.com/rocher/AdaML) -有一种UML量身定制的建模语言.
 - [coldframe](https://github.com/simonjwright/coldframe) -ColdFrame从UML模型生成Ada框架代码和文档.
 
-#### Cryptography
+#### Encryption
 - [ada-keystore](https://github.com/stcarrez/ada-keystore) -Ada Keystore-通过安全存储保护您的敏感数据.
 
 ## Libraries
@@ -352,42 +351,43 @@
 
 #### Algorithms, Containers and Protocols
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) -Ada和SPARK的Microsoft语言协议的Adacore服务器实现.
+- [ada-lsp](https://github.com/reznikmm/ada-lsp) -Ada的语言服务器协议.
+- [ada-lsp-client](https://github.com/Alex-Gamper/Ada-LanguageServer) -LSP客户端的原型实现-Visual Studio 2017
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) -用于算法和容器的通用Ada库.
 - [dequesterity](https://sourceforge.net/projects/dequesterity/) -由构建块组成的双端队列/缓冲区泛型，可以通过各种方式组合以创建更高的抽象缓冲区.
-- [pragmarc](https://github.com/jrcarter/PragmARC) - PragmAda Reusable Components (PragmARCs) from PragmAda S/W Engineering.
-- [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) -这是具有良好API的Ada加密库，是为i386和x86_64硬件体系结构编写的.
-- [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) -在SPARK中实现的密码库.
+- [pragmarc](https://github.com/jrcarter/PragmARC) -来自PragmAda S / W Engineering的PragmAda可重用组件（PragmARC）.
 - [booch95](https://sourceforge.net/projects/booch95/) -Ada 95 Booch组件是Grady Booch的C ++组件的一部分.
 - [ada-id](https://github.com/anthony-arnold/AdaID) -用于生成UUID的简单Ada库.
 - [ada-ga](https://github.com/frett27/Ada-GA) -Ada的遗传算法实现.
 - [ada-sodoku](https://github.com/frett27/Ada-Sodoku) -用于Sodoku网格求解/查找的小型图书馆.
 - [sl3p](https://github.com/jklmnn/sl3p) -简单的第3层协议.
-- [sip-hash](https://github.com/grim7reaper/SipHash) -SipHash PRF的纯Ada实现.
-- [ada-lsp](https://github.com/reznikmm/ada-lsp) -Ada的语言服务器协议.
-- [ada-lsp-client](https://github.com/Alex-Gamper/Ada-LanguageServer) -LSP客户端的原型实现-Visual Studio 2017
-- [ada-language-server](https://github.com/AdaCore/ada_language_server) -用于Ada / SPARK的Microsoft语言服务器协议的原型实现.
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) -提供引用计数访问类型Smart_Pointer的软件包.
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) -佛罗里达州立大学超级计算机研究所George Marsaglia开发的算法的Ada实现.
 - [lib-anne](https://github.com/Entomy/libAnne)  -大量的Ada软件包.  这有点像是“新标准库”.  谁是安妮？  艾达的女儿
-- [libkeccak](https://github.com/damaki/libkeccak) -Keccak系列海绵功能和相关结构的SPARK实现.
-- [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) -具有附加数据算法的Ascon身份验证加密的Ada / SPARK实现.
-- [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) -SipHash键控哈希函数的Ada / SPARK实现.
-- [spark-norx](https://github.com/jhumphry/SPARK_NORX) -使用附加数据算法的NORX身份验证加密的Ada / SPARK实现.
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) -在Ada中实施匈牙利算法.
-- [hungarian](https://github.com/mosteo/hungarian) -Ada包装器，用于快速的Stachniss匈牙利求解器.
-- [stotp](https://github.com/jklmnn/STOTP) -SPARK中的定时一次性垫（RFC 6238）实现.
 - [sal](http://www.stephe-leake.org/ada/sal.html) -SAL（Stephe的Ada库）.
 - [nb-ada](https://github.com/andgi/NBAda) -NBAda：无锁数据结构和算法的Ada库.
-- [xxhash-ada](https://github.com/lyarbean/xxhash-ada) -极快的非加密哈希算法，xxhash的工作速度接近RAM限制.
-- [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) -Ada中的Base58编码和解码.
 - [paraffin](https://sourceforge.net/projects/paraffin/) -Ada 2012泛型套件，用于促进多核系统的迭代和递归并行性.
 - [deepend](https://sourceforge.net/projects/deepend/) -Deepend是具有Ada 2012，Ada 2005和Ada 95子池功能的存储池.
 - [charles](http://home.earthlink.net/~matthewjheaney/charles/) -Charles是Ada 95容器库，是Ada 2005+标准容器的前身.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) -Ada中的简单区块链.
-- [fletcher](https://github.com/darkestkhan/fletcher) -fletcher_16校验和计算算法的简单实现.
 - [adagio](https://github.com/mosteo/adagio) -Gnutella2（G2）网络服务器叶.
 - [agpl](https://github.com/mosteo/agpl) -Ada通用库（杂项实用程序，具有机器人功能）.
 - [increment](https://github.com/reznikmm/increment) -该软件包提供了增量分析算法和相关的数据结构.
+
+#### Encryption, hashing, encoding
+- [threefish](https://github.com/jrcarter/Threefish) -Threefish-256加密算法的Ada实现
+- [fletcher](https://github.com/darkestkhan/fletcher) -fletcher_16校验和计算算法的简单实现.
+- [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) -Ada中的Base58编码和解码.
+- [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) -这是具有良好API的Ada加密库，是为i386和x86_64硬件体系结构编写的.
+- [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) -在SPARK中实现的密码库.
+- [sip-hash](https://github.com/grim7reaper/SipHash) -SipHash PRF的纯Ada实现.
+- [libkeccak](https://github.com/damaki/libkeccak) -Keccak系列海绵功能和相关结构的SPARK实现.
+- [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) -具有附加数据算法的Ascon身份验证加密的Ada / SPARK实现.
+- [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) -SipHash键控哈希函数的Ada / SPARK实现.
+- [spark-norx](https://github.com/jhumphry/SPARK_NORX) -使用附加数据算法的NORX身份验证加密的Ada / SPARK实现.
+- [stotp](https://github.com/jklmnn/STOTP) -SPARK中的定时一次性垫（RFC 6238）实现.
+- [xxhash-ada](https://github.com/lyarbean/xxhash-ada) -极快的非加密哈希算法，xxhash的工作速度接近RAM限制.
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises)  -在Ada中兑现承诺.  类型安全，高效，线程安全.
@@ -602,6 +602,8 @@
 - [adagl](https://github.com/godunko/adagl) -多平台Ada / OpenGL绑定（移植到本机/ OpenGL，A2JS / WebGL和WASM / WebGL）
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) -Tcl Ada SHell（Tash）是绑定到Tcl / Tk的Ada.
 - [tashy](https://github.com/thindil/tashy)  -Tashy比Tcl Ada SHell Younger矮.  它是Tash的派生产品，主要关注Tk绑定.
+- [hungarian](https://github.com/mosteo/hungarian) -Ada包装器，用于快速的Stachniss匈牙利求解器.
+- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) -Microsoft NetFramework API有绑定.
 
 ## License
 

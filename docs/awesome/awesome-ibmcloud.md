@@ -17,7 +17,7 @@
 
 *附加组件，组件，图标和其他资源，以使用由IBM构建的设计系统.*
 
-* [carbon](https://github.com/carbon-design-system/carbon) -由IBM构建的设计系统.
+* [carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM.
 * [carbon-addons-angular](https://github.com/IBM/carbon-addons-angular) -碳角项目的通用插件.
 * [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) -用于IBM协作解决方案的Carbon Add-on.
 * [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react)  -该库包含所有IBM IoT产品之间共享的React组件，以统一我们的外观.  这些小部件通常基于碳组分反应小部件.
@@ -41,7 +41,7 @@
 
 *适用于MacOS，Windows和Linux的命令行工具.*
 
-* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) -这是IBM Cloud的命令行客户端.
+* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - This is the command line client for IBM Cloud.
 * [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) -与IBM Cloud交互的不同Docker容器的“非官方”集合.
 * [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) -IBM Cloud CLI提供了用于管理IBM Cloud中资源的命令行界面.
 * [Windows 64-bit](https://clis.cloud.ibm.com/download/bluemix-cli/latest/win64) -Windows 64位的命令行界面.
@@ -54,9 +54,9 @@
 
 ## Platform
 
-*Deploy and manage your applications with Cloud Foundry.*
+*使用Cloud Foundry部署和管理您的应用程序.*
 
-* [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) - Generator for Kitura REST webservice servers.
+* [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) -Kitura REST Web服务服务器的生成器.
 * [go-cloud](https://github.com/victorshinya/go-cloud) -Golang样板代码，用于基准测试托管Go应用程序的云平台.
 * [go-website](https://github.com/victorshinya/go-website) -使用Golang服务器部署您的网站.
 * [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) -用于访问IBM Cloud API的Go库.
@@ -96,6 +96,33 @@
 * [discovery-nodejs](https://github.com/watson-developer-cloud/discovery-nodejs) -这是Watson Discovery Service演示.
 * [food-coach](https://github.com/watson-developer-cloud/food-coach) -一个简单的示例Web应用程序，演示了将Watson Tone Analyzer集成到Watson Assistant中的过程.
 * [ibm-watson-iot](https://github.com/ibm-watson-iot) -围绕IBM Watson IoT Platform构建的代码存储库.
+* [max-audio-classifier](https://github.com/IBM/MAX-Audio-Classifier) -识别短片段中的声音.
+* [max-audio-embedding-generator](https://github.com/IBM/MAX-Audio-Embedding-Generator) -从音频文件生成嵌入矢量.
+* [max-audio-sample-generator](https://github.com/IBM/MAX-Audio-Sample-Generator) -生成语音命令和lo-fi乐器样本的简短音频片段.
+* [max-breast-cancer-mitosis-detector](https://github.com/IBM/MAX-Breast-Cancer-Mitosis-Detector) -检测乳腺癌肿瘤细胞图像中是否存在有丝分裂.
+* [max-chinese-phonetic-similarity-estimator](https://github.com/IBM/MAX-Chinese-Phonetic-Similarity-Estimator) -估计中文单词之间的语音距离，并获得相似的发音候选单词.
+* [max-human-pose-estimator](https://github.com/IBM/MAX-Human-Pose-Estimator) -在图像中检测人并估计每个人的姿势.
+* [max-image-caption-generator](https://github.com/IBM/MAX-Image-Caption-Generator) -IBM代码模型资产交换：显示和说明图像标题生成器.
+* [max-image-colorizer](https://github.com/IBM/MAX-Image-Colorizer) -为黑白图像添加颜色.
+* [max-image-resolution-enhancer](https://github.com/IBM/MAX-Image-Resolution-Enhancer) -将图像放大4倍，同时生成逼真的细节.
+* [max-image-segmenter](https://github.com/IBM/MAX-Image-Segmenter) -识别图像中的对象，另外将图像的每个像素分配给特定对象.
+* [max-inception-resnet-v2](https://github.com/IBM/MAX-Inception-ResNet-v2) -使用第三代深度残差网络识别图像中的对象.
+* [max-named-entity-tagger](https://github.com/IBM/MAX-Named-Entity-Tagger) -在文本中找到并标记命名的实体.
+* [max-news-text-generator](https://github.com/IBM/MAX-News-Text-Generator) -生成类似于“十亿字”数据集中新闻报道的英语文本.
+* [max-nucleus-segmenter](https://github.com/IBM/MAX-Nucleus-Segmenter) -识别显微图像中的核，并将图像的每个像素分配给特定的核.
+* [max-object-detector](https://github.com/IBM/MAX-Object-Detector) -在单个图像中定位并标识多个对象.
+* [max-ocr](https://github.com/IBM/MAX-OCR) -MAX光学字符识别.
+* [max-question-answering](https://github.com/IBM/Max-Question-Answering) -在给定的语料库上回答问题.
+* [max-resnet-50](https://github.com/IBM/MAX-ResNet-50) -使用第一代深度残差网络识别图像中的对象.
+* [max-review-text-generator](https://github.com/IBM/MAX-Review-Text-Generator) -生成与Yelp®评论数据集中的文本相似的英语文本.
+* [max-scene-classifier](https://github.com/IBM/MAX-Scene-Classifier) -基于Places365-CNN模型的物理位置/位置的图像分类器.
+* [max-speech-to-text-converter](https://github.com/IBM/MAX-speech-to-text-converter) -将口语转换为文本形式.
+* [max-sports-video-classifier](https://github.com/IBM/MAX-Sports-Video-Classifier) -根据体育视频描述的体育内容对体育视频进行分类.
+* [max-text-sentiment-classifier](https://github.com/IBM/MAX-Text-Sentiment-Classifier) -检测短文本中捕获的情绪.
+* [max-text-summarizer](https://github.com/IBM/MAX-Text-Summarizer) -生成文本正文的摘要描述.
+* [max-toxic-comment-classifier](https://github.com/IBM/MAX-Toxic-Comment-Classifier) -在用户评论中检测6种类型的毒性.
+* [max-weather-forecaster](https://github.com/IBM/MAX-Weather-Forecaster) -根据特定位置的历史数据，预测每小时的天气特征.
+* [max-word-embedding-generator](https://github.com/IBM/MAX-Word-Embedding-Generator) -从文本文件生成嵌入向量.
 * [natural-language-classifier-nodejs](https://github.com/watson-developer-cloud/natural-language-classifier-nodejs) -了解分类服务如何使用自然语言来确定问题的意图.
 * [natural-language-understanding-nodejs](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) -自然语言理解服务的演示代码.
 * [node-red-labs](https://github.com/watson-developer-cloud/node-red-labs) -Node-RED实验室使用Watson Developer Cloud服务.
@@ -107,7 +134,7 @@
 * [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) -IBM Watson语音转文本服务的示例Node.js应用程序.
 * [tone-analyzer-nodejs](https://github.com/watson-developer-cloud/tone-analyzer-nodejs) -用于IBM Tone Analyzer Service的示例Node.js应用程序.
 * [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) -使用Watson Visual Recognition和Core ML离线对图像进行分类.
-* [visual-recognition-nodejs](https://github.com/watson-developer-cloud/visual-recognition-nodejs) - 📷 Sample Node.js Application for the IBM Watson Visual Recognition Service.
+* [visual-recognition-nodejs](https://github.com/watson-developer-cloud/visual-recognition-nodejs) -IBM Watson Visual Recognition Service的示例Node.js应用程序.
 * [watson-developer-cloud](https://github.com/watson-developer-cloud) -使用认知计算解决复杂问题的REST API和SDK的集合.
     * [android-sdk](https://github.com/watson-developer-cloud/android-sdk) -Android SDK使用IBM Watson服务.
     * [dotnet-standard-sdk](https://github.com/watson-developer-cloud/dotnet-standard-sdk) -.NET标准库，用于访问Watson Services.
@@ -170,7 +197,7 @@
 * [IBM Policy](https://twitter.com/IBMpolicy)  -IBM政府与法规事务和IBM Policy Lab的正式帐户.  在技​​术和创新政策问题上发推文.  由Adam Pratt和Ashley Bright管理.
 * [IBM Power Systems](https://twitter.com/IBMPowerSystems) - Official Twitter account for IBM Power Systems—built to crush the most advanced data applications from mission-critical workloads to the next generation of #AI.
 * [IBM Research](https://twitter.com/IBMResearch)  -这是IBM Research的官方Twitter ID.  该帐户由Chris Sciacca管理，并遵循《 IBM Social Computing Guidelines》.
-* [IBM Security](https://twitter.com/IBMSecurity)  -我们保护业务，使您在面对网络不确定性时能够free壮成长.  如需支持，请@AskIBMSecurity.  遵循IBM社交计算准则.
+* [IBM Security](https://twitter.com/IBMSecurity) - We protect business, freeing you to thrive in the face of cyber uncertainty. For support, @AskIBMSecurity. Follows IBM Social Computing Guidelines.
 * [IBM Sports & Entertainment](https://twitter.com/IBMSports) - Official IBM Twitter account. Managed by Noah Syken and Elizabeth O'Brien. Follows the IBM Social Computing Guidelines. #IBMsports.
 * [IBM Sterling Supply Chain](https://twitter.com/IBMSupplyChain) - #SupplyChain and #B2BCollaboration news & innovation from #IBMSterling. We help you build smarter business networks. Follows IBM Social Computing Guidelines.
 * [IBM Storage](https://twitter.com/IBMStorage) -利用业界最广泛的存储解决方案组合之一来捕获数据的功能，以在多云和AI环境中统一，管理和保护数据.
@@ -218,7 +245,7 @@
 * [Karachi, Pakistan - IBM Developer Karachi](https://www.meetup.com/IBMKarachi/)  -这是面向开发人员，架构师和云爱好者的聚会小组.  我们了解有关IBM Cloud，Watson，IoT，数据科学和区块链的所有信息.  我们的聚会是免费的.
 * [Kuala Lumpur, Malaysia - IBM Cloud - Malaysia](https://www.meetup.com/IBM-Cloud-Malaysia/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
 * [Las, Nigeria - IBM Developer Nigeria](https://www.meetup.com/IBM-Developer-Nigeria/) -召集所有有兴趣聚在一起的开发人员，初创企业和企业家来交流思想并学习新技术，例如认知计算，物联网，区块链，人工智能，机器学习，数据分析和云.
-* [Lima, Peru - IBM Developers Perú](https://www.meetup.com/IBM-Developers-Peru/)  -这是IBM delPerú赞助的聚会.  它面向希望开始以动手方式测试此解决方案的开发人员，架构师和所有这些IBM Cloud发烧友.
+* [Lima, Peru - IBM Developers Perú](https://www.meetup.com/IBM-Developers-Peru/) - Este es una meetup sponsoreada por IBM del Perú. Está orientado a desarrolladores, arquitectos y todos aquellos entusiastas en IBM Cloud que deseen comenzar a probar esta solución en una modalidad hands on.
 * [London, United Kingdom - IBM Cloud - London](https://www.meetup.com/IBM-Cloud-London/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
 * [Madrid, Spain - Meetup para desarrolladores Cloud](https://www.meetup.com/desarrolladores-cloud-meetup/)  -此聚会适用于开发人员，架构师，学生以及所有PaaS和Cloud Foundry爱好者，以及一般的开发人员.  该小组的目的是以一种非常实用的方式展示Cloud平台的功能以及其他平台（http://ibm.biz/BluemixES）.
 * [Melbourne, Australia - IBM Cloud - Melbourne](https://www.meetup.com/IBM-Cloud-Melbourne/)  -墨尔本☁meetup是开发人员，工程师，建筑师，设计师以及所有其他人员之间进行技术交流和讨论的地方.  涵盖诸如认知计算，物联网，区块链，人工智能，机器学习，数据分析，开源等主题.
@@ -241,7 +268,7 @@
 * [San Francisco, CA - IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/) -召集所有有兴趣聚在一起的开发人员和企业家交流思想并学习新技术，例如认知计算，物联网，区块链，人工智能，机器学习，数据分析和云.
 * [Santiago, Chile - IBM Cloud](https://www.meetup.com/meetup-group-fFKMjMnd/) -该小组的目标是以非常实用的方式向学生，开发人员，IT专业人员和所有云爱好者或想要了解这些有趣主题（云，DevOps，虚拟化，沃森，物联网，数据科学和区块链）.
 * [São Paulo, Brazil - Bluetalks](https://www.meetup.com/bluetalks/)  -Bluetalks是聚会，对技术，创新，企业家精神和多样性进行了广泛的讨论.  开放您的心态以应对当前问题的破坏和新见解，并敞开心heart与我们一起潜水.
-* [São Paulo, Brazil - Comunidade IBM Cloud Brasil](https://www.meetup.com/Comunidade-IBM-Cloud-Brasil/) -软件开发人员，IT架构师，云管理员，全栈开发人员，IT经理，IT领导者，云领导者，业务开发.
+* [São Paulo, Brazil - Comunidade IBM Cloud Brasil](https://www.meetup.com/Comunidade-IBM-Cloud-Brasil/) - Software developers, IT Architects, Cloud administrators, Full-stack developer, IT Manager, IT Leaders, Cloud Leadership, Business Development.
 * [São Paulo, Brazil - Iniciativa Z](https://www.meetup.com/iniciativaz/)  -我们的目标是在巴西创建最大的大型机社区.  通过这个小组，我们希望散布与大型机有关的所有信息，生成内容，宣传机会，举办活动并鼓励经验丰富的专业人员与我们正在开发的新一代大型机之间建立联系.
 * [Seoul, Korea (South) - IBM Cloud - Korea](https://www.meetup.com/IBM-Cloud-Korea/) -该会议适用于所有想学习如何使用IBM Cloud for business的人.
 * [Seoul, Korea (South) - IBM Developer Meetup](https://www.meetup.com/IBM-developerWorks-Meetup/)  -“ IBM开发人员聚会”是一次会议，开发人员使用每月可一次在IBM Cloud上运行的各种主题技术收集和执行动手/实践培训.  主题和日程表将在此聚会页面上更新.

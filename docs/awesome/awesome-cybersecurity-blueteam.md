@@ -88,7 +88,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ### Sandboxes
 
-- [Firejail](https://firejail.wordpress.com/) -SUID程序，可通过使用Linux名称空间和seccomp-bpf限制不受信任的应用程序的运行环境来降低安全漏洞的风险.
+- [Firejail](https://firejail.wordpress.com/) - SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 
 ## Incident Response tools
 
@@ -133,11 +133,11 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 - [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可轻松测试组织对网络钓鱼的危害.
-- [King Phisher](https://github.com/securestate/king-phisher) - Tool for testing and promoting user awareness by simulating real world phishing attacks.
+- [King Phisher](https://github.com/securestate/king-phisher) -通过模拟真实的网络钓鱼攻击来测试和增强用户意识的工具.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
 - [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) -有助于检测和响应网络钓鱼攻击的框架.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) -允许创建和管理（伪造）网络钓鱼活动的平台，旨在训练人们识别可疑邮件. 
-- [mailspoof](https://github.com/serain/mailspoof) -扫描SPF和DMARC记录以查找可能允许电子邮件欺骗的问题.
+- [mailspoof](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 - [phishing_catcher](https://github.com/x0rz/phishing_catcher) -可配置脚本，可使用以下命令在证书透明日志（CTL）中按域名监视可疑TLS证书的颁发 [CertStream](https://certstream.calidog.io/) 服务.
 
 ## Preparedness training and wargaming
@@ -145,7 +145,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 （也称为*对手模拟*，*威胁模拟*或类似的东西.）
 
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) -使系统看起来像是APT攻击的受害者的工具集.
-- [Atomic Red Team](https://atomicredteam.io/) -简单，可自动执行的测试库，以执行以测试安全性控制.
+- [Atomic Red Team](https://atomicredteam.io/) -简单，可自动执行的测试库，以执行测试安全性控制.
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) -模块化，菜单驱动的跨平台工具，用于为Blue Team演练和传感器/警报映射构建可重复的，延迟的，分布式的安全事件.
 - [Metta](https://github.com/uber-common/metta) -自动化的信息安全准备工具进行对抗性模拟.
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) -生成恶意网络流量并帮助安全团队评估安全控制并审核其网络可见性的实用程序.
@@ -161,7 +161,6 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 也可以看看 [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
 
-- [Bro](https://www.bro.org/) -专注于安全监控的强大网络分析框架.
 - [ChopShop](https://github.com/MITRECND/chopshop) -协助分析人员创建和执行基于APT的基于Pynids的解码器和检测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) -恶意网络流量检测系统.
 - [Moloch](https://github.com/aol/moloch) -增强您当前的安全基础架构，以标准PCAP格式存储和索引网络流量，从而提供快速的索引访问.
@@ -170,7 +169,9 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Snort](https://snort.org/) -广泛部署的免费软件IPS，能够进行实时数据包分析，流量记录和基于规则的自定义触发器.
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) -捕获欺骗的NetBIOS名称服务（NBNS）响应并警告电子邮件或日志文件.
 - [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及深度数据包检查功能的免费，跨平台IDS / IPS，Lua也可以编写脚本.
+- [VAST](https://github.com/tenzir/vast) -免费的开源网络遥测引擎，用于数据驱动的安全调查.
 - [Wireshark](https://www.wireshark.org) -免费的开源数据包分析器，可用于网络故障排除或法医网络流分析.
+- [Zeek](https://zeek.org/) -专注于安全监控的强大网络分析框架，以前称为Bro.
 - [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（`flowtop`），流量生成器（`trafgen`）和自治系统（AS）跟踪路由实用程序（`astraceroute`）.
 
 
@@ -210,7 +211,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 也可以看看 [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
-- [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)  -将Active Directory权限配置（“控制关系”）可视化并绘制图形，以审核诸如“谁可以阅读CEO的电子邮件？”之类的问题.  和类似的.
+- [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
 - [DATA](https://github.com/hadojae/DATA) -凭据网络钓鱼分析和自动化工具，可以直接接受可疑网络钓鱼URL或在观察到的包含此类URL的网络流量上触发.
 - [Forager](https://github.com/opensourcesec/Forager) -使用Python3构建的多线程威胁情报收集功能，具有基于文本的简单配置和数据存储，易于使用和数据可移植性.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) -通过被动地映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）和监督控制与数据采集（SCADA）的态势感知.
@@ -236,7 +237,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## macOS-based defenses
 
-- [LuLu](https://objective-see.com/products/lulu.html) - Free macOS firewall.
+- [LuLu](https://objective-see.com/products/lulu.html) -免费的macOS防火墙.
 - [Stronghold](https://github.com/alichtman/stronghold) -从终端轻松配置macOS安全设置.
 - [macOS Fortress](https://github.com/essandess/macOS-Fortress) -自动配置内核级，操作系统级和客户端级安全功能，包括私有化代理和macOS的防病毒扫描.
 
@@ -249,7 +250,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) -对照Microsoft审核Windows主机的根证书存储 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) -从主机名列表建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.
 - [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) -组策略对象，合规性检查和配置工具，它们提供了一种自动化且灵活的方法来安全地部署和维护Windows 10的最新版本.
-- [WMI Monitor](https://github.com/realparisi/WMI_Monitor) - Log newly created WMI consumers and processes to the Windows Application event log.
+- [WMI Monitor](https://github.com/realparisi/WMI_Monitor) -将新创建的WMI使用者和进程记录到Windows应用程序事件日志中。
 
 ## License
 

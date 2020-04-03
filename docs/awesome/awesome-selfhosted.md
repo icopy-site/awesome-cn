@@ -166,7 +166,7 @@ _CalDAV或CardDAV服务器_
 - [CalendarServer](https://www.calendarserver.org/)  -Apple，Inc.的标准服务器，实现了macOS Server随附的CalDAV和CardDAV协议.  （[Source Code](https://github.com/apple/ccs-calendarserver)）`Apache-2.0`` Python`
 - [calypso](https://keithp.com/calypso/)  -基于Python的CalDAV和CardDAV服务器，由Radicale分叉.  （[Source Code](https://keithp.com/git/calypso.git)）`GPL-3.0`` Python`
 - [DAViCal](https://www.davical.org/)  -使用PostgreSQL数据库作为数据存储的日历共享服务器（CalDAV）.  （[Source Code](https://gitlab.com/davical-project/davical)）`GPL-2.0``PHP`
-- [Davis](https://github.com/tchapi/davis/)  -基于Symfony 5和Bootstrap 4的sabre / dav的简单，可泊坞窗化且可完全翻译的管理界面，灵感主要来自Baïkal.  麻省理工学院PHP
+- [Davis](https://github.com/tchapi/davis/)  -基于Symfony 5和Bootstrap 4的sabre / dav的简单，可Dockerdocker化且可完全翻译的管理界面，灵感主要来自Baïkal.  麻省理工学院PHP
 - [DecSync CC](https://f-droid.org/packages/org.decsync.cc/) -无服务器联系人，使用您自己的文件同步方法（即Syncthing，Nextcloud等）进行日历同步（[Source Code](https://github.com/39aldo39/DecSyncCC)）`GPL-3.0``Kotlin`
 - [EteSync Server](https://www.etesync.com)  -支持日历和联系方式的端到端加密和日记化个人信息服务器，并提供自己的客户.  （[Source Code](https://github.com/etesync/server-skeleton)）`AGPL-3.0``Python / Django`
 - [Radicale](http://radicale.org/)  -简单的日历和联系服务器，管理费用极低.  （[Source Code](https://github.com/Kozea/Radicale)）`GPL-3.0`` Python`
@@ -452,9 +452,9 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [KeystoneJS](http://keystonejs.com/)  -CMS和Web应用程序平台.  （[Demo](http://demo.keystonejs.com/), [Source Code](https://github.com/keystonejs/keystone)）MIT Nodejs
 - [MODX](http://modx.com/)  -MODX是先进的内容管理和发布平台.  当前版本称为“革命”.  （[Source Code](https://github.com/modxcms/revolution)）`GPL-2.0``PHP`
 - [Neos](https://www.neos.io)  -Neos或TYPO3 Neos（对于版本1）是现代的开源CMS.  （[Source Code](https://git.typo3.org/Packages/TYPO3.Neos.git)）`GPL-3.0``PHP`
-- [Noosfero](https://gitlab.com/noosfero/noosfero)  -Noosfero是一个用于社交和团结经济网络的Web平台，在同一系统中具有博客，e-Portfolios，CMS，RSS，主​​题讨论，事件议程和集体智慧，用于团结经济.  AGPL-3.0`Ruby
+- [Noosfero](https://gitlab.com/noosfero/noosfero)  -Noosfero是社交和团结经济网络的Web平台，在同一系统中具有博客，e-Portfolios，CMS，RSS，主​​题讨论，事件议程和集体智慧的集体智慧.  AGPL-3.0`Ruby
 - [october](http://octobercms.com/)  -免费，开源，自托管的CMS平台.  （[Source Code](https://github.com/octobercms/october)）`MIT`` PHP`
-- [Omeka](http://omeka.org)  -创建复杂的叙述并共享丰富的收藏，并遵循Omeka在服务器上的都柏林核心标准，专为学者，博物馆，图书馆，档案馆和发烧友而设计.  （[Demo](http://omeka.org/showcase/), [Source Code](https://github.com/omeka/Omeka)）`GPL-3.0``PHP`
+- [Omeka](http://omeka.org)  -创建复杂的叙述并共享丰富的收藏，并遵循Omeka在服务器上的都柏林核心标准，专为学者，博物馆，图书馆，档案馆和爱好者设计.  （[Demo](http://omeka.org/showcase/), [Source Code](https://github.com/omeka/Omeka)）`GPL-3.0``PHP`
 - [Pagekit](https://pagekit.com/)  -创建和共享新的现代CMS.  （[Source Code](https://github.com/pagekit/pagekit)）`MIT`` PHP`
 - [Pico](http://picocms.org/)  -非常简单，快速，扁平的文件CMS.  （[Source Code](https://github.com/picocms/Pico)）`MIT`` PHP`
 - [Pimcore](https://www.pimcore.org/)  -多渠道体验和参与管理平台.  （[Source Code](https://github.com/pimcore/pimcore)）`GPL-3.0或更高版本``PHP`
@@ -556,7 +556,7 @@ _企业级图书馆管理软件.
 
 _机构资料库和数字图书馆软件.
 
-- [DSpace](http://dspace.org/)  -交钥匙存储库应用程序，可以持久访问数字资源.  （[Source Code](https://github.com/DSpace/DSpace)）`BSD-3-Clause`` Java`
+- [DSpace](http://dspace.org/)  -交钥匙存储库应用程序，提供对数字资源的持久访问.  （[Source Code](https://github.com/DSpace/DSpace)）`BSD-3-Clause`` Java`
 - [EPrints](https://www.eprints.org/)  -具有主要针对学术机构的具有灵活的元数据和工作流模型的数字文档管理系统.  （[Demo](http://demoprints.eprints.org/), [Source Code](https://github.com/eprints/eprints)）`GPL-3.0` Perl
 - [Fedora Commons Repository](https://fedorarepository.org/)  -用于管理和分发数字内容的健壮且模块化的存储系统，特别适合于数字图书馆和档案馆（用于访问和保存）.  （[Source Code](https://github.com/fcrepo4/fcrepo4)）Apache-2.0`` Java`
 - [Islandora](https://islandora.ca/)  -Drupal模块，用于浏览和管理基于Fedora的数字存储库.  （[Source Code](https://github.com/Islandora/islandora)）`GPL-3.0``PHP`
@@ -663,7 +663,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 
 - [BoZoN](https://github.com/broncowdd/BoZoN)  -极简主义拖放文件共享应用程序.  `AGPL-3.0``PHP`
 - [Coquelicot](https://coquelicot.potager.org/)  -Coquelicot是一个“一键式”文件共享Web应用程序，其重点是保护用户的隐私.  （[Source Code](https://coquelicot.potager.org/gitweb/?p=coquelicot.git)）`AGPL-3.0``Ruby`
-- [droppy](https://github.com/silverwind/droppy)  -droppy是一台自托管的云服务器，其界面类似于桌面文件管理器，并具有即时编辑文件以及直接在浏览器中查看和播放媒体的功能.  （[Demo](https://droppy.silverwind.io/)）`BSD-2-Clause``Nodejs`
+- [droppy](https://github.com/silverwind/droppy)  -droppy是一种自托管的云服务器，其界面类似于桌面文件管理器，并具有即时编辑文件以及直接在浏览器中查看和播放媒体的功能.  （[Demo](https://droppy.silverwind.io/)）`BSD-2-Clause``Nodejs`
 - [elixire](https://elixi.re)  -简单而高级的屏幕截图上传和链接缩短服务.  （[Source Code](https://gitlab.com/elixire/elixire), [Clients](https://gitlab.com/elixire/elixiremanager)）`AGPL-3.0``Python`
 - [fibridge](https://github.com/anderspitman/fibridge-proxy-rs)  -无需上传即可从浏览器中流式传输大文件.  （[Demo](https://fbrg.xyz/)）`MIT``休息`
 - [FileShelter](https://github.com/epoupon/fileshelter)  -FileShelter是一种自托管软件，可让您轻松地通过Internet共享文件.  （[Demo](http://fileshelter.demo.poupon.io/)）`GPL-3.0`` C ++`
@@ -902,7 +902,7 @@ _游戏，游戏服务器和控制面板.
 - [Restreamer](https://datarhei.github.io/restreamer/)  -Restreamer允许您在没有流媒体提供商的情况下在网站上进行h.264实时视频流.  （[Source Code](https://github.com/datarhei/restreamer)）`Apache-2.0`Nodejs / Docker`
 - [ShinobiCE](https://gitlab.com/Shinobi-Systems/ShinobiCE)  -用Node编写的开源CCTV软件，同时支持IP和本地摄像机.  AGPL-3.0 / GPL-3.0 Node.js
 - [Streama](https://streamaserver.org/)  -自托管的流媒体服务器.  （[Source Code](https://github.com/streamaserver/streama)）MIT Java
-- [SyncTube](https://github.com/RblSb/SyncTube)  -轻巧且易于设置的CyTube替代品，可以与朋友一起观看视频并进行聊天.  （[Demo](http://synctube-example.herokuapp.com/)）MIT Nodejs / Haxe
+- [SyncTube](https://github.com/RblSb/SyncTube)  -轻巧且易于设置的CyTube替代品，可与朋友一起观看视频并聊天.  （[Demo](http://synctube-example.herokuapp.com/)）MIT Nodejs / Haxe
 - [VideoLAN Client (VLC)](https://www.videolan.org/)  -跨平台的多媒体播放器客户端和服务器，支持大多数多媒体文件以及DVD，音频CD，VCD和各种流协议.  （[Source Code](https://github.com/videolan/vlc)）`Multiple``C`
 - [Zoneminder](https://www.zoneminder.com/)  -支持IP，USB和模拟摄像机的闭路电视（CCTV）软件应用程序.  （[Source Code](https://github.com/ZoneMinder/ZoneMinder)）`GPL-2.0``PHP`
 
@@ -1039,7 +1039,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [Passbolt](https://www.passbolt.com/)  -密码管理器，专用于使用MySQL数据库后端在任何Web服务器上以协作方式管理密码.  （[Source Code](https://github.com/passbolt/passbolt_api)）`AGPL-3.0``PHP`
 - [Padloc](https://padloc.app/)  -适用于个人和团队的现代，开源密码管理器.  （[Source Code](https://github.com/padloc/padloc)）`GPL-3.0`` Nodejs`
 - [PassIt](https://passit.io/)  -简单的密码管理，具有按组和用户共享的功能，但没有管理界面.  （[Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)）`AGPL-3.0``Python`
-- [Psono](https://psono.com/)  -面向团队的功能齐全的有前途的密码管理员.  （[Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)）`Apache-2.0`` Python`
+- [Psono](https://psono.com/)  -面向团队的功能齐全的有前途的密码管理器.  （[Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)）`Apache-2.0`` Python`
 - [sysPass](http://www.syspass.org/)  -多用户密码管理系统.  （[Demo](http://demo.syspass.org/), [Source Code](https://github.com/nuxsmin/sysPass)）`GPL-3.0``PHP`
 - [Teampass](http://teampass.net/)  -专用于以协作方式管理密码的密码管理器.  一个对称密钥用于加密所有共享/组密码以及存储在文件和数据库中的服务器端.  适用于任何服务器Apache，MySQL和PHP.  （[Source Code](https://github.com/nilsteampassnet/TeamPass)）`GPL-3.0``PHP`
 
@@ -1077,7 +1077,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 也可以看看 _[Monitoring](#monitoring)_
 
 - [Baby Buddy](https://github.com/cdubz/babybuddy)  -帮助护理人员跟踪婴儿的睡眠，喂养，尿布更换和肚子时间.  （[Demo](https://babybuddy.herokuapp.com/)）`BSD-2-Clause``Python`
-- [DashMachine](https://git.wolf-house.net/ross/DashMachine)  -另一个具有有趣功能的Web应用程序书签仪表板.  GPL-3.0 Python
+- [DashMachine](https://github.com/rmountjoy92/DashMachine)  -另一个具有有趣功能的Web应用程序书签仪表板.  GPL-3.0 Python
 - [Dj Diabetes](https://github.com/foxmask/dj-diabetes)  -我的葡萄糖经理-遵守您的日常健康状况.  BSD-3-Clause Python
 - [Habitica](https://habitica.com/)  -习惯跟踪器应用程序，将您的目标像角色扮演游戏一样对待.  以前称为HabitRPG.  （[Source Code](https://github.com/HabitRPG/habitrpg)）`GPL-3.0 / CC-BY-NC-SA-3.0 / CC-BY-SA-3.0``Nodejs`
 - [Heimdall](https://heimdall.site/)  -Heimdall是用于组织所有Web应用程序的优雅解决方案.  （[Source Code](https://github.com/linuxserver/Heimdall)）`MIT`` PHP`
@@ -1231,7 +1231,7 @@ _也可以看看 [Ticketing](#ticketing), [Task management/To-do lists](#task-ma
 - [Titra](https://titra.io/en/free-time-tracking-online/)  -自由职业者和小型团队的时间跟踪解决方案.  （[Demo](https://app.titra.io/try), [Source Code](https://github.com/kromitgmbh/titra)）`GPL-3.0``JavaScript`
 - [Trac](http://trac.edgewall.org/)  -Trac是用于软件开发项目的增强的Wiki和问题跟踪系统.  BSD-3-Clause Python
 - [Tuleap](https://www.tuleap.org/)  -Tuleap是一个自由套件，用于计划，跟踪，编码和协作软件项目.  （[Source Code](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree)）`GPL-2.0``PHP`
-- [UVDesk](https://www.uvdesk.com/)  -UVDesk社区是一个面向服务，事件驱动的可扩展开源帮助台系统，您的组织可以使用该平台以您想像的方式轻松地为您的客户提供有效的支持.  （[Demo](https://demo.uvdesk.com/), [Source Code](https://github.com/uvdesk/community-skeleton)）`MIT`` PHP`
+- [UVDesk](https://www.uvdesk.com/)  -UVDesk社区是一个面向服务，事件驱动的可扩展开源帮助台系统，您的组织可以使用它以您想像的任何方式轻松地为您的客户提供有效的支持.  （[Demo](https://demo.uvdesk.com/), [Source Code](https://github.com/uvdesk/community-skeleton)）`MIT`` PHP`
 - [ZenTao](http://www.zentao.pm/)  -敏捷（scrum）项目管理系统/工具.  （[Demo](http://demo.zentao.pm/user-login.html), [Source Code](https://github.com/easysoft/zentaopms)）`ZPL-1.2``PHP`
 
 ### Bug Trackers
@@ -1489,9 +1489,9 @@ See https://github.com/n1trux/awesome-sysadmin#web
 -`仅限GPL-3.0`- [GNU General Public License v3.0 only](https://spdx.org/licenses/GPL-3.0-only.html)
 -`GPL-3.0或更高版本- [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0-or-later.html)
 -`GPL-3.0`- [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
--IPL-1.0`- [IBM Public License](https://opensource.org/licenses/IPL-1.0)
+-`IPL-1.0`- [IBM Public License](https://opensource.org/licenses/IPL-1.0)
 -`ISC`- [Internet Systems Consortium License](https://www.isc.org/downloads/software-support-policy/isc-license/)
--LGPL-2.1`- [Lesser General Public License 2.1](http://opensource.org/licenses/LGPL-2.1)
+-`LGPL-2.1`- [Lesser General Public License 2.1](http://opensource.org/licenses/LGPL-2.1)
 -LGPL-3.0`- [Lesser General Public License 3.0](http://opensource.org/licenses/LGPL-3.0)
 -`MIT`- [MIT License](http://opensource.org/licenses/MIT)
 -`MPL-1.1`- [Mozilla Public License Version 1.1](https://www.mozilla.org/media/MPL/1.1/index.txt)

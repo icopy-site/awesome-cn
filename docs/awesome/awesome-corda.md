@@ -77,7 +77,7 @@
 ## Networks
 
 - [Corda Network](https://corda.network/) -由Corda Network Foundation管理的全球生产网络.
-- [UAT Network](https://corda.network/participation/preprod.html) -UAT网络提供由Corda Network Foundation运行的预生产环境.
+- [Corda Pre-Production Network](https://corda.network/participation/preprod.html) -UAT网络提供由Corda Network Foundation运行的预生产环境.
 - [Corda Testnet](https://docs.corda.net/corda-testnet-intro.html) -由Corda Network Foundation运行的具有最小权限的免费公共测试网.
 - [Cordite Network](https://cordite.foundation/) -由Cordite Foundation运营的任何人均可使用的测试网.
 

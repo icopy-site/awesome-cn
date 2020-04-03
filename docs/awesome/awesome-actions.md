@@ -10,7 +10,7 @@
 
 &gt;与以下内容相关的精选精选清单 [GitHub Actions](https://github.com/actions).
 
- 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或在容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
+ 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
 
 
 
@@ -440,6 +440,7 @@
 - [GitHub Actions for Rails Developers](https://www.youtube.com/watch?v=gGUXydw22zw)
 - [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 - [Zero Downtime Laravel Deployments with GitHub Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
+- [Building Custom GitHub Actions Pluralsight Course](https://www.pluralsight.com/courses/building-custom-github-actions/)
 
  &gt;如果您有更多资源可以共享，请不要犹豫进行PR.  查看 [https://github.com/sdras/awesome-actions/blob/master/contributing.md](https://github.com/sdras/awesome-actions/blob/master/contributing.md) 了解更多信息
 
