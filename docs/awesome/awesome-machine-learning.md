@@ -952,6 +952,7 @@ be
 * [Catalyst](https://github.com/catalyst-team/catalyst)  -用于PyTorch DL和RL研究的高级工具.  它的开发侧重于可重复性，快速实验和代码/想法重用.  能够研究/开发新事物，而不是编写另一个常规火车循环.
 * [Fastai](https://github.com/fastai/fastai) -建立在Pytorch顶部的高级包装程序，支持视觉，文本，表格数据和协作过滤.
 * [scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) -用于多输出/多标签和流数据的机器学习框架.
+* [Lightwood](https://github.com/mindsdb/lightwood) -基于Pytorch的框架，将机器学习问题分解为较小的块，可以与目标无缝地粘合在一起，从而用一行代码构建预测模型.
 
 
 <a name="python-data-analysis"></a>

@@ -127,7 +127,7 @@ Installers
 * [MicroK8s](https://github.com/ubuntu/microk8s) -单个k8软件包，可安装在42种Linux上
 * [Minikube](https://github.com/kubernetes/minikube) -在本地运行Kubernetes
 * [RKE](https://github.com/rancher/rke) -与操作系统无关-与云无关
-* [sealos](https://github.com/fanux/sealos) -简单的调控器HA安装程序
+* [sealos](https://github.com/fanux/sealos) -简单的kubernetes HA安装程序
 * [Simplekube](https://github.com/valentin2105/Simplekube) -`systemd`操作系统-不可知云
 * [Supergiant](http://supergiant.io/) -CoreOS-不可知云
 * [Terraform](https://github.com/kz8s/tack) -CoreOS-AWS
@@ -225,7 +225,7 @@ Installers
 - [Achieving CI/CD with Kubernetes](https://ramitsurana.github.io/myblog/2016/08/01/achieving-ci/cd-with-kubernetes/) 通过 [Ramit Surana](https://twitter.com/ramitsurana)
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
 - [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) 通过 [Matt Raible](https://twitter.com/mraible) 使用 [Jenkins X](https://jenkins-x.io/)
-- [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) 通过 [Henryk Konsek](https://twitter.com/hekonsek) 使用 [Jenkins X](https://jenkins-x.io/)
+- [DOCKER & KUBERNETES : JENKINS-X ON EKS](http://www.bogotobogo.com/DevOps/Docker/Docker_Kubernetes_Jenkins-X-EKS.php)
 - [Continuous Integration and Delivery to AWS Kubernetes](https://semaphoreci.com/blog/continuous-integration-delivery-aws-eks-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
 - [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
 - [How to Release Faster with Continuous Delivery for Google Kubernetes](https://semaphoreci.com/blog/continuous-delivery-google-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
@@ -269,7 +269,7 @@ Installers
 * [Self-registering compact k3OS clusters to Rancher Server via cloud-init](https://medium.com/@jamesdavidbohrman/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8) 通过 [James D. Bohrman](https://github.com/jdbohrman)
 * [Benchmarking 5 Popular Load Balancers: Nginx, HAProxy, Envoy, Traefik, and ALB](https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb/)
 
-在Kubernetes中管理
+托管省长
 =======================================================================
 
   - [Platform9](http://platform9.com)
@@ -317,11 +317,11 @@ Installers
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -阿里云Kubernetes云容器服务
    - [AWS EKS](https://aws.amazon.com/eks/) - Amazon Elastic Container Service
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -Azure Kubernetes服务
-   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean Kubernetes
+   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean州长
    - [GKE](https://cloud.google.com/container-engine/) -Google Kubernetes引擎
    - [IKS](https://www.ibm.com/cloud/container-service) -IBM Cloud Kubernetes服务
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -Oracle Kubernetes引擎
-   - [OVH Managed Kubernetes](https://www.ovh.co.uk/kubernetes/) -OVH托管的Kubernetes
+   - [OVH Managed Kubernetes](https://www.ovh.co.uk/kubernetes/) -OVH管理的州长
    - [Rackspace](https://www.rackspace.com/en-in) -机架空间
    - [VMware Cloud PKS](https://cloud.vmware.com/vmware-cloud-pks)
 
@@ -525,6 +525,7 @@ Projects
 * [Heapster](https://github.com/kubernetes/heapster)
 * [kail](https://github.com/boz/kail)  -Kubernetes日志查看器.  从所有匹配的容器的所有容器中流式传输日志.
 * [Kubebox](https://github.com/astefanutti/kubebox) -Kubernetes的终端控制台
+* [Kubecost](https://kubecost.com/) -根据资源的财务成本监控资源
 * [Kubedash](https://github.com/kubernetes/kubedash) -**不推荐使用的**存储库已归档且为只读
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) -多个K8s集群的只读系统仪表板
 * [K8Dash](https://github.com/herbrandson/k8dash) -实时K8S替代仪表板

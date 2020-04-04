@@ -217,6 +217,7 @@ Services:
  - [mtop](https://github.com/beaufour/mtop) -另一个顶级克隆
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) -Nagios插件（在Python中）
  - [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management) -用于管理和监视数据库性能的免费开源平台
+ - [mongotail](https://github.com/mrsarm/mongotail) -以“详细”的方式记录所有MongoDB查询
 
 Services:
 
@@ -253,6 +254,7 @@ Services:
  - [Reaction](https://github.com/reactioncommerce/reaction) -使用ES6构建的事件驱动的实时商务平台
  - [SaaS Boilerplate](https://github.com/async-labs/saas) -使用TypeScript，React和Express构建的SaaS产品样板
  - [uptime](https://github.com/fzaninotto/uptime) -使用Node.js和Bootstrap构建的远程监控应用程序
+ - [WildDuck Mail Server](https://wildduck.email/) -使用MongoDB进行电子邮件存储的可扩展高可用性电子邮件服务器
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -78,7 +78,7 @@
 - [MonoGame ★5,276](https://github.com/MonoGame/MonoGame) -Microsoft XNA 4.x框架的开源实现.
 - [Paradox ★1,706](https://github.com/SiliconStudio/xenko) -Paradox3D + Silicon Studio .NET.
 - [UrhoSharp ★275](https://github.com/xamarin/urho) -跨平台的高级3D和2D引擎.
-- [CocosCreator ★2](https://github.com/toanlcgift/xamarin-cocos-creator) -Xarinarin用于CocosCreator引擎的绑定.
+- [CocosCreator ★2](https://github.com/toanlcgift/xamarin-cocos-creator) -Xamarin用于CocosCreator引擎的绑定.
 
 
 ## IO/Storage
@@ -102,7 +102,7 @@
 ## Internationalization
 
 - [I18NPortable ★49](https://github.com/xleon/I18N-Portable) -Xamarin和.NET的简单跨平台国际化/翻译.
-- [Resxible ★9](https://github.com/apcurium/resxible) -从单个RESX文件自动生成多个平台相关资源文件的工具.
+- [Resxible ★9](https://github.com/apcurium/resxible) - Tool to generate automatically several platform-dependent resource files from a single RESX file.
 - [Vernacular ★167](https://github.com/rdio/vernacular) -跨平台本地化，用于转换标准字符串格式的工具.
 
 
@@ -130,7 +130,7 @@
 ## MVVM
 
 - [Bind ★158](https://github.com/praeclarum/Bind) -绑定使您可以轻松地在对象属性之间进行双向数据绑定.
-- [FreshMvvm ★324](https://github.com/rid00z/FreshMvvm) - Super light Mvvm Framework designed specifically for Xamarin.Forms.
+- [FreshMvvm ★324](https://github.com/rid00z/FreshMvvm) -专为Xamarin.Forms设计的超轻型Mvvm框架.
 - [Infinite Scroll Plugin ★24](https://github.com/HBSequence/Sequence.Plugins) -一个插件，可促进页面数据源的仅前向增量滚动.
 - [MVVMCross ★2,657](https://github.com/MvvmCross/MvvmCross) -跨平台mvvm移动开发框架.
   - [Cheesebaron.MvxPlugins ★79](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins) -插件集合.
@@ -177,10 +177,11 @@
 ## Security
 
 - [BoucyCastle.PCL ★93](https://github.com/clairernovotny/BouncyCastle-PCL) -针对.NET，SL，WP和WinRT的BouncyCastle（密码学）的PCL版本.
+- [BreachDetector ★11](https://github.com/nmilcoff/BreachDetector) -在Xamarin应用程序中检测根，仿真，调试模式和其他安全问题.
 - [Cryoprison](https://github.com/padresmurfa/cryoprison) -Xamarin的越狱/根检测
 - [Fingerprint Plugin ★165](https://github.com/smstuebe/xamarin-fingerprint) -Xamarin和MvvMCross插件，用于访问指纹传感器.
 - [PCLCrypto ★184](https://github.com/AArnott/PCLCrypto) -可移植类库（MD5等）的密码学.
-- [Permissions ★1](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/Permissions) -简单的跨平台插件，可检查移动设备的连接状态，收集连接类型，带宽等.
+- [Permissions ★255](https://github.com/jamesmontemagno/PermissionsPlugin) -简单的跨平台插件，可检查移动设备的连接状态，收集连接类型，带宽等.
 
 
 ## Serialization
@@ -239,7 +240,7 @@
 - [AdvancedTimer ★35](https://github.com/ufuf/AdvancedTimer) -计时器对象及其方法实现了对计时器的扩展支持.
 - [Android AppCompat ★34](https://github.com/nativecode-dev/oss-xamarin) -现在就为Xamarin.Forms应用提供原生的材料设计主题，而不会受到黑客的攻击.
 - [BadgeView ★31](https://github.com/SuavePirate/BadgeView) -一个简单的Xamarin.Forms控件，用于显示圆形徽章.
-- [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) -在Xamarin.Forms项目中显示圆形图像的简单但优雅的方法.
+- [Circle Image Control](https://github.com/jamesmontemagno/ImageCirclePlugin) -在Xamarin.Forms项目中显示圆形图像的简单但优雅的方法.
 - [Compass ★19](https://github.com/JarleySoft/CompassPlugin) -提供了从您的Xamarin.Forms项目访问Windows Phone，iOS和Android上的指南针的简便方法.
 - [Device Orientation ★28](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation) -简单的跨平台插件，可与移动设备的屏幕方向配合使用.
 - [Device Orientation ★1](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) -在Xamarin.Forms项目中获取设备方向或通知方向更改的简单方法.

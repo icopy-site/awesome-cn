@@ -137,6 +137,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) 游�
 - [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd（Godot 3.2，3.1）在Godot中进行快速3D碰撞检查.
 - [godotdetour](https://github.com/TheSHEEEP/godotdetour) -绕行/绕行人群库的GDNative实现（Godot 3.2）.
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -Phoenix框架（Godot 3.1）的Channels API的GDScript和Godot引擎实现.
+- [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) -Blender插件可轻松将资产导入Godot.
 - [Godot Mixing Desk](https://github.com/kyzfrintin/Godot-Mixing-Desk) -用几个节点和几行代码制作程序声音和自适​​应/程序音乐（Godot 3.1）.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) -一组基本节点扩展（Godot 3.1）.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) -通知中心（Godot 3.1）.

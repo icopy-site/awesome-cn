@@ -141,6 +141,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Data Generators
  * [faker](https://github.com/askn/faker) -用于生成假数据的库
  * [hashids.cr](https://github.com/splattael/hashids.cr) -一个库，可从一个或多个数字生成类似YouTube的ID
+ * [prime](https://github.com/wontruefree/prime) -质数发生器
 
 ## Database Drivers/Clients
  * [couchdb.cr](https://github.com/TechMagister/couchdb.cr) -CouchDB客户端
@@ -232,7 +233,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [cryload](https://github.com/sdogruyol/cryload) -HTTP基准测试工具
  * [halite](https://github.com/icyleaf/halite) -带有可链接的REST API，内置会话和记录器的Crystal HTTP请求
  * [helmet](https://github.com/EvanHahn/crystal-helmet) -设置与安全性相关的HTTP标头
- * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) -通过路由安装多个服务器（又称URL映射）
+ * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
  * [http-params-serializable](https://github.com/vladfaust/http-params-serializable) -HTTP参数（反）序列化，适用于URL查询和URL编码的表单
  * [http-protection](https://github.com/rogeriozambon/http-protection) -防范典型的网络攻击
  * [http2](https://github.com/ysbaddaden/http2) -HTTP / 2协议实现
@@ -292,7 +293,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) -基于可扩展注释的序列化/反序列化库
  * [CrSignals](https://github.com/firejox/CrSignals) -信号/插槽通知库
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) -二进制解析器
- * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github出演
+ * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github担任
  * [crz](https://github.com/dhruvrajvanshi/crz) -功能编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) -表情符号库
  * [hoop](https://github.com/0x73/hoop) -构建本机OSX应用
@@ -342,7 +343,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) -通过灵活的查询可链接构建器和迁移系统实现Active Record模式
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) -Redis的对象哈希映射库
  * [onyx-sql](https://github.com/onyxframework/sql) -与DB无关的SQL ORM，具有漂亮的DSL和类型安全的查询生成器
- * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
+ * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) -以TSV格式从Redis导入和导出数据
  * [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm) -RethinkDB / RebirthDB的ORM
  * [stal-crystal](https://github.com/soveran/stal-crystal) -为Redis设置代数求解器
  * [topaz](https://github.com/topaz-crystal/topaz) -一个简单而有用的数据库包装器
@@ -357,7 +358,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [promise](https://github.com/spider-gazelle/promise) -带有类型推断的Promise实现
 
 ## Project Generators
- * [crystal_lib](https://github.com/crystal-lang/crystal_lib) -用于本机库的自动绑定生成器
+ * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
  * [fez](https://github.com/jwoertink/fez) -凯末尔应用程序生成器
  * [kgen](https://github.com/kemalyst/kemalyst-generator) -Kemalyst命令行工具，用于控制台，init，生成（脚手架）和监视.
  * [libgen](https://github.com/olbat/libgen) -使用JSON / YAML文件配置的自动绑定生成器
@@ -418,7 +419,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crytic](https://github.com/hanneskaeufler/crytic) -变异测试框架
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) -与Capybara类似的自动浏览器测试
  * [mass-spec](https://github.com/c910335/mass-spec) -Web API测试库
- * [microtest](https://github.com/Ragmaanir/microtest) -专注于权力主张的小型自以为是的测试库
+ * [microtest](https://github.com/Ragmaanir/microtest) -专注于功率断言的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
@@ -454,7 +455,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) -与您的YNAB数据进行交互的库
 
 ## Validation
- * [accord](https://github.com/neovintage/accord) - Shareable validation library for Crystal Objects
+ * [accord](https://github.com/neovintage/accord) -共享的Crystal对象验证库
  * [assert](https://github.com/blacksmoke16/assert) -基于可扩展注释的对象验证库
  * [denetmen](https://github.com/izniburak/denetmen) -修补Crystal stdlib的微型检查库
  * [validations](https://github.com/vladfaust/validations.cr) - Validations mixin
