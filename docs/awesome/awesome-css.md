@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="awesome-css-group/awesome-css"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-[awesome-link]：https://github.com/sindresorhus/awesome
+[awesome-link]:  https://github.com/sindresorhus/awesome
 [awesome-badge]：https：//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis链接]：https://travis-ci.org/awesome-css-group/awesome-css
 [travis-徽章]：https://travis-ci.org/awesome-css-group/awesome-css.svg?branch=master
@@ -89,6 +89,7 @@
 * [Milligram](http://milligram.io) -极简的CSS框架.
 * [Pure.css](http://purecss.io/) -一组小型的自适应CSS模块，您可以在每个Web项目中使用.
 * [Semantic UI](http://semantic-ui.com/) -使用人类友好的HTML的强大框架.
+* [Shorthand Framework](https://github.com/shorthandcss/shorthand) -面向新十年的功能丰富的CSS框架.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) -轻巧，响应迅速的现代CSS框架.
 * [Strawberry](https://github.com/jfet97/strawberry) -一组通用的flexbox实用程序，这些实用程序专注于通过嵌套flexbox来使您的生活更轻松，更快.
 * [Tachyons](http://tachyons.io/) -适用于人类的功能CSS.
@@ -156,7 +157,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Style Guide
 
-* [AUI](http://docs.atlassian.com/aui/latest/docs) 由Atlassian Design设计
+* [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) 由孤独的星球
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) 通过Dropbox
 * [Fabric](https://dev.office.com/fabric#/) 由Microsoft
@@ -249,7 +250,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Podcasts :radio:
 
-*Something to listen to while programming.*
+*编程时要听的东西.*
 
 * [Shop Talk Show](http://shoptalkshow.com/) -与Chris Coyier和Dave Rupert进行的有关前端Web设计，开发和UX的实时播客.
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) -由Anna Debenham和Brad Frost主持的关于风格指南的一小批访谈.
@@ -361,7 +362,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 [贡献者契约]：https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
 
-Feel free to dive in! Open an issue or submit PRs.
+ 随时潜入！  打开一个问题或提交PR.
 
 很棒的CSS遵循[贡献者契约] [contributor-covenant]行为准则.
 

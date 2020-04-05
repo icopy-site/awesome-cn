@@ -23,7 +23,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystaledge](https://github.com/unn4m3d/crystaledge) -一个纯向量数学库
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) -通用算法库
  * [crystalline](https://github.com/jtomschroeder/crystalline) -容器和算法的集合
- * [edits.cr](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
+ * [edits.cr](https://github.com/tcrouch/edits.cr) -编辑距离算法的集合
  * [fzy](https://github.com/hugopl/fzy) -很棒的Fzy项目模糊查找器算法的Crystal端口
  * [graphlb](https://github.com/mettuaditya/graphlb) -收集图数据结构和算法
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) -一致性哈希环的实现
@@ -103,7 +103,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) -加载.env文件
- * [envyable](https://github.com/philnash/envyable.cr) -一个简单的YAML到ENV配置加载程序
+ * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
  * [habitat](https://github.com/luckyframework/habitat) -为您的类和模块输入安全配置
  * [totem](https://github.com/icyleaf/totem) -加载和解析JSON，YAML，dotenv格式的配置
 
@@ -443,11 +443,13 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [discordcr](https://github.com/meew0/discordcr) -极简的Discord API库
  * [GDAX](https://github.com/mccallofthewild/gdax) -带有请求签名的GDAX REST和WebSocket API包装器
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) -GitLab API包装器
+ * [google](https://github.com/PlaceOS/google) -Google API包装器
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) -Google Maps API
  * [host_meta](https://github.com/toddsundsted/host_meta) -Web主机元数据（https://tools.ietf.org/html/rfc6415）客户端
  * [kube-client.cr](https://github.com/spoved/kube-client.cr) -Kubernetes API客户端
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) -用于将事件发送到Mixpanel的库
  * [mollie.cr](https://github.com/tilishop/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API包装器（信用卡，PayPal，Apple Pay，Sofort，Klarna等）
+ * [office365](https://github.com/PlaceOS/office365) -Microsoft Graph API包装器
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) -Raven是的客户 [Sentry](https://github.com/getsentry/sentry)
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) -访问Twitter API的库

@@ -235,7 +235,7 @@
 * [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) -R的SQLite接口
 * [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) -通过JDBC接口提供对数据库的访问.
 * [rmongodb](https://github.com/mongosoup/rmongodb) -MongoDB的R驱动程序.
-* [rredis](http://cran.r-project.org/web/packages/rredis/) -R的Redis客户端.
+* [redux](https://github.com/richfitz/redux) -R的Redis客户端.
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) -Apache Cassandra的最基本功能的直接接口（不是Java）.
 * [RHive](https://github.com/nexr/RHive) -R扩展通过Apache Hive促进分布式计算.
 * [RNeo4j](https://github.com/nicolewhite/Rneo4j) -Neo4j图形数据库驱动程序.
@@ -300,6 +300,7 @@ covariates
 * [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) -逻辑回归
 * [maptree](http://cran.r-project.org/web/packages/maptree/index.html) -映射，修剪和绘制树模型
 * [mboost](http://cran.r-project.org/web/packages/mboost/index.html) -基于模型的提升
+* [mlr](https://github.com/mlr-org/mlr) -分类，回归，生存分析和聚类的可扩展框架[已弃用]
 * [mvpart](http://cran.r-project.org/web/packages/mvpart/index.html) -多元分区
 * [ncvreg](http://cran.r-project.org/web/packages/ncvreg/index.html) -SCAD和MCP惩罚回归的正则化路径
 models
@@ -558,7 +559,7 @@ R中的搜索链（MA-LS链）
 
 * [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) -这是系统学习基础知识（例如对象类型，控制语句，变量作用域，类和R中的调试）的良好资源.
 * [_R Cookbook_, 2nd ed. by JD Long & Paul Teetor (2019)](http://shop.oreilly.com/product/0636920174851.do) -使用R进行许多常见统计任务的快速简单介绍.
-* [R in Action](http://www.manning.com/kabacoff2/) -本书面向所有级别的用户，其初级，中级和高级R部分从“探索R数据结构”到运行回归和进行因子分析，不一而足.
+* [R in Action](http://www.manning.com/kabacoff2/) -本书针对所有级别的用户，其初级，中级和高级R部分从“探索R数据结构”到运行回归和进行因子分析，不一而足.
 * [_Use R!_ Series by Springer](http://www.springer.com/series/6991?detailsPage=titles)  -斯普林格（Springer）的这一系列廉价且专心的书籍出版了针对从业者的较短书籍.  书籍可以讨论R在特定主题领域中的使用，例如贝叶斯网络，ggplot2和Rcpp.
 * [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) -从基础到高级主题学习R作为一种编程语言.
 

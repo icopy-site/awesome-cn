@@ -328,7 +328,7 @@ AWS Repos：
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) -自定义资源框架.
 * [cfn-python-lint :fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) -用于整理/验证CloudFormation的工具.
 * [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) -样本菜谱.
-* [cfncluster :fire::fire:](https://github.com/awslabs/cfncluster) -部署和维护HPC群集的框架.
+* [cfncluster :fire::fire::fire:](https://github.com/awslabs/cfncluster) -部署和维护HPC群集的框架.
 
 社区回购：
 
@@ -719,7 +719,7 @@ AWS Repos：
 
 社区回购：
 
-* [barnybug/cli53 :fire::fire::fire::fire:](https://github.com/barnybug/cli53) -cli53是Amazon Route 53的命令行工具，它提供了从BIND格式的导入和导出以及Route 53域的简单命令行管理.
+* [barnybug/cli53 :fire::fire::fire::fire:](https://github.com/barnybug/cli53) -cli53是Amazon Route 53的命令行工具，它提供从BIND格式的导入和导出以及Route 53域的简单命令行管理.
 * [winebarrel/roadworker :fire::fire:](https://github.com/winebarrel/roadworker)  -Roadworker是管理Route53的工具.  它使用DSL定义Route53的状态，并根据DSL更新Route53.
 
 ### S3
@@ -1182,7 +1182,7 @@ AWS会议：
 *将102Tbps的网络容量连接到数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 *自2014年以来推出了500多种主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *所有其他14个云提供商的总和是AWS总容量的1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持亚马逊的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持Amazon的所有全球基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 

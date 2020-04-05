@@ -60,12 +60,6 @@
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
 
-- [**mini.css**](http://minicss.org) -最小的，响应式的，与风格无关的CSS框架.  
-  ![](https://img.shields.io/github/stars/Chalarangelo/mini.css.svg?style=social&label=Star)
-  [Docs](http://minicss.org/docs),
-  [Repo](https://github.com/Chalarangelo/mini.css)
-  | #SCSS
-
 - [**sakura**](https://oxal.org/projects/sakura/) -最小的无类CSS框架/主题.  
   ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
   [Demo](https://oxal.org/projects/sakura/demo/),
@@ -316,6 +310,12 @@
   [Demo](https://neat.bourbon.io/examples/),
   [Docs](https://neat.bourbon.io/docs/latest/),
   [Repo](https://github.com/thoughtbot/neat)
+  | #SCSS
+
+- [**mini.css**](http://minicss.org) -最小的，响应式的，与风格无关的CSS框架.  
+  ![](https://img.shields.io/github/stars/Chalarangelo/mini.css.svg?style=social&label=Star)
+  [Docs](http://minicss.org/docs),
+  [Repo](https://github.com/Chalarangelo/mini.css)
   | #SCSS
 
 - [**Mobi.css**](http://getmobicss.com) -轻巧，可扩展，移动优先的CSS框架.  

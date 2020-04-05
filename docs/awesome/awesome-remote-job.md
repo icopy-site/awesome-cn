@@ -106,6 +106,7 @@
   1. [Working Remotely for Extroverts](https://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
   1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
   1. [Your Commute Is Killing You](http://www.slate.com/articles/business/moneybox/2011/05/your_commute_is_killing_you.html)
+  1. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
 
 ## Videos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
@@ -114,7 +115,7 @@
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
-     Robert Pankowecki和Andrzej Krzywda（方舟），2014年.
+     Robert Pankowecki和Andrzej Krzywda（Arkency），2014年.
   1. [Distributed Teams](https://oduinn.com/book/).
      John O&#39;Duinn着，2018年.
   1. [Remote: Office Not Required](http://37signals.com/remote/).
@@ -253,7 +254,7 @@
   1. [Distributed](https://distributed.blog/podcast/)  -马特·穆伦维格（Matt Mullenweg）的访谈播客.  专注于分布式工作的好处和挑战以及在全球范围内招募人员.
   1. [Free People Move Podcast](https://teleport.org/podcast/) -多数采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
-  1. [Remote Works](https://remote.works) -远程工作播客每两周发布一次，主持人乔纳森·夏普（Jonathan Sharp）讨论远程工作，远程团队，远程办公和数字游牧者的机会，经验，文化和社区.
+  1. [Remote Works](https://remote.works) -远程工作播客每两周发布一次，主持人乔纳森·夏普（Jonathan Sharp）讨论远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，生产性和自由放养的工人.
   1. [Wide Teams](http://www.wideteams.com) -每集与远程工作者进行一对一的面试，介绍工作流程和做法
 
@@ -264,7 +265,7 @@
   1. [Adeva](https://adevait.com)  -独家的远程开发人员网络.  Adeva与公司合作以按需扩展工程团队.
   1. [AgentFire](https://agentfire.com/meet-our-team/) -由Wordpress提供支持的超级本地房地产网站.
   1. [Aha!](https://www.aha.io/company/careers/current-openings)  -啊哈！  是为希望恢复魔力的PM的路线图软件.
-  1. [AirTreks](https://www.airtreks.com/about/) -分布团队的多站国际飞行计划员.
+  1. [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
   1. [Alley](https://alley.co/jobs/)  -数字代理商.  我们是战略家，研究人员，设计师和开发商，他们为出版商，非营利机构，博物馆和品牌提供定制的数字体验.
   1. [ALICE](https://www.aliceplatform.com/careers/) - Remote-friendly start-up company. We’re creating the global operations platform for the hospitality industry. ALICE empowers the world's best hotels to deliver a remarkable guest experience.
   1. [Ameego](http://ameego.ca/) -餐厅调度软件.
@@ -353,7 +354,7 @@
   1. [Incsub](http://incsub.com/careers/) - Remote team that builds Wordpress projects.
   1. [Inpsyde GmbH](https://inpsyde.com/) -德国的WordPress代理商.
   1. [Institute for Nonprofit News](https://inn.org/about/jobs/) -非营利新闻机构.
-  1. [Instructure](https://www.instructure.com/careers/) - We make software that makes people smarter.
+  1. [Instructure](https://www.instructure.com/careers/) -我们开发的软件可以使人们变得更聪明.
   1. [Intellum](http://intellum.com/)  -我们建立员工协作，绩效和学习工具.  Ruby，iOS，Android，AWS，GCS.
   1. [InVision](https://www.invisionapp.com/company#jobs) -原型，协作和工作流平台.
   1. [Isos Technology](https://careers.isostech.com/) -杰出的Atlassian白金和企业解决方案合作伙伴，使用Atlassian工具帮助组织解决复杂的开发和业务问题.
@@ -431,6 +432,7 @@
   1. [Splice Machine](https://www.splicemachine.com/company/careers/) 在一个统一的AI平台中将关系数据库，数据仓库和机器学习的功能结合在一起.
   1. [Spreaker](https://www.spreaker.com/jobs) 发现并收听您喜欢的播客.
   1. [StackExchange](http://stackexchange.com/work-here)
+  1. [Stripe](https://stripe.com/blog/remote-hub) Stripe为互联网建立金融工具和经济基础设施
   1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) -我们喜欢高影响力的远程工程师，协作，创造力，python，angularjs
   1. [Surevine](https://www.surevine.com/jobs/)
@@ -470,7 +472,7 @@
 
 ## Q&A
   1. Chegg家教： [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
-  1. Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
+  1. Quora： [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
   1. Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
   1. StackExchange
     -工作场所： [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
@@ -478,7 +480,7 @@
     -程序员： [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes) / [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes)
 
 ## Communities
-1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) -子网.
+1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) -Subreddit.
 1. [##remotes](https://github.com/remotesclub/remotes) -IRC频道（[web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) -远程工作者.
 1. [Remote Year](http://www.remoteyear.com/) -旅行技术人员1年.
@@ -499,7 +501,7 @@
 
 #### Communication
   1. [Bluejeans](https://bluejeans.com/) 视频会议应用程序，非常适合大型团体和直播
-  1. [Codeshare.io](https://codeshare.io/) –基于浏览器的多用户实时代码共享以及可选的视频聊天.
+  1. [Codeshare.io](https://codeshare.io/) – Browser-based multi-user live code sharing with optional video chat.
   1. [Fleep](https://fleep.io/) -开发团队的内部聊天和协作工具
   1. [Floobits](https://floobits.com)  -屏幕共享的远程配对编程.  与Sublime，IntelliJ，Atom等集成
   1. [Flowdock](https://www.flowdock.com/)  –基于浏览器的团队聊天.  与GitHub，Jira，Jenkins等集成
@@ -516,6 +518,7 @@
   1. [Slack](https://slack.com/) –具有大量集成选项的文本，语音和视频聊天系统，包括 [ScreenHero](https://screenhero.com)，一个实时的高清屏幕共享系统，可进行团队协作
   1. [Talky](https://talky.io/) -群组的真正简单的视频聊天和屏幕共享
   1. [TeamHub](https://teamhub.app/) -直接在IDE内部实时报告状态和进度
+  1. [Twist](https://twist.com/) —一个交流平台，长时间的讨论和随意的消息传递和谐相处.
   1. [Whereby](https://whereby.com) –基于浏览器的无插件群组视频通话.
   1. [Zoom](https://zoom.us) —高质量的团体视频和共享屏幕，在linux上运行，记录会话并支持电话.
 

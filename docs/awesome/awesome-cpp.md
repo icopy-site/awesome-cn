@@ -32,6 +32,7 @@
 * [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus)  -C ++的功能编程库.  编写简洁易读的C ++代码.  [麻省理工学院]
 * [GLib](https://wiki.gnome.org/Projects/GLib) -GLib为用C编写的库和应用程序提供了核心应用程序构建块.[LGPL]
 * [JUCE](https://github.com/julianstorer/JUCE)  -全面的C ++类库，用于开发跨平台软件.  [核心模块：ISC，其余：GPL2 / GPL3 / Commercial] [website](http://www.juce.com/)
+* [Kigs framework](https://github.com/assoria/kigs)  -一个免费的开源C ++模块化多功能跨平台框架.  [麻省理工学院] [website](https://kigs-framework.org/)
 * [libPhenom](https://github.com/facebook/libphenom) -libPhenom是一个事件框架，用于在C中构建高性能和高可伸缩性系统.[Apache2]
 * [LibSourcey](https://github.com/sourcey/libsourcey)  -C ++ 11事件IO用于实时视频流和高性能网络应用程序.  [LGPL]
 * [LibU](https://github.com/koanlogic/libu) -用C语言编写的多平台实用程序库.[BSD]
@@ -43,7 +44,7 @@
 * [ROOT](https://root.cern.ch/)  -一组OO框架，具有以非常有效的方式处理和分析大量数据所需的所有功能.  在CERN使用.  [LGPL]
 * [STLport](http://www.stlport.org/)  -STL的示例版本.  [自由]
 * [STXXL](http://stxxl.sourceforge.net/)  -超大数据集的标准模板库.  [促进]
-* [tbox](https://github.com/tboox/tbox) - A glib-like multi-platform c library. [Apache2] [website](http://tboox.org/)
+* [tbox](https://github.com/tboox/tbox)  -类似于glib的多平台c库.  [Apache2] [website](http://tboox.org/)
 * [Ultimate++](http://www.ultimatepp.org/)  -C ++跨平台快速应用程序开发框架.  [BSD]
 * [uSTL](http://msharov.github.io/ustl/)  -小型STL库.  [麻省理工学院]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/)  -用于开发Windows应用程序和UI组件的C ++库.  [上市]
@@ -216,7 +217,7 @@
 * [iniparser](https://github.com/ndevilla/iniparser)  -此解析器文件.  [麻省理工学院]
 * [libconfig](https://github.com/hyperrealm/libconfig)  -C，C ++库，用于处理结构化配置文件.  [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) -C的小型配置文件解析器库.[ISC]
-* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
+* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供了一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
 * [toml++](https://github.com/marzer/tomlplusplus)  -C ++ 17及更高版本的仅标头TOML解析器和序列化器.  [麻省理工学院] [website](https://marzer.github.io/tomlplusplus/)
 
 ## Containers
@@ -322,7 +323,7 @@
 * [Mockator](http://www.mockator.com) -用于C ++接缝和模拟对象的Eclipse CDT插件.
 * [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer)  -用于基准测试的简单，低开销的跨平台计时器类.  [zLib] [website](http://www.plflib.org/nanotimer.htm)
 * [Nonius](https://github.com/libnonius/nonius)  -一个C ++微基准测试框架.  [CC]
-* [Remotery](https://github.com/Celtoys/Remotery)  -具有Web Viewer的单个C文件分析器.  [Apache2]
+* [Remotery](https://github.com/Celtoys/Remotery)  -带有Web Viewer的单个C文件分析器.  [Apache2]
 * [UnitTest++](https://github.com/unittest-cpp/unittest-cpp)  -用于C ++的轻量级单元测试框架.  [MIT / X联盟许可证]
 * [Unity](https://github.com/ThrowTheSwitch/Unity) -C的简单单元测试.[MIT]
 * [utest.h](https://github.com/sheredom/utest.h)  -用于C和C ++的单头单元测试框架.  [无牌]
@@ -343,7 +344,7 @@
 * [Atomic Game Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - A multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript. [Commercial]
 * [Cocos2d-x](http://www.cocos2d-x.org/)  -用于构建2d游戏，交互式书籍，演示和其他图形应用程序的多平台框架.  [麻省理工学院]
 * [Corange](https://github.com/orangeduck/Corange)  -用纯C，SDL和OpenGL编写的游戏引擎.  [BSD]
-* [crown](https://github.com/dbartolini/crown)  -Crown是通用数据驱动的游戏引擎，使用正统的面向数据的设计理念从正统C ++从头开始编写.  [麻省理工学院]
+* [crown](https://github.com/dbartolini/crown)  -Crown是一款通用的数据驱动游戏引擎，使用正统的C ++从零开始编写，并牢记简约和面向数据的设计理念.  [麻省理工学院]
 * [delta3d](http://sourceforge.net/projects/delta3d/)  -强大的仿真平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  -游戏符合现代C ++.  [麻省理工学院]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)  -跨平台的本机C ++游戏框架，用于创建2D / 3D移动和桌面游戏.  [Apache2]
@@ -366,7 +367,7 @@
 ## GUI
 *图形用户界面*
 
-* [Boden](https://github.com/AshampooSystems/boden)  -本机，移动，跨平台的GUI框架.  [GPL / LGPL /商业] [website](https://www.boden.io)
+* [Boden](https://github.com/AshampooSystems/boden) - Native, mobile, cross-platform GUI Framework. [GPL/LGPL/Commercial] [website](https://www.boden.io)
 * [CEGUI](http://cegui.org.uk/) -灵活的跨平台GUI库.
 * [FLTK](http://www.fltk.org/index.php)  -快速，轻便，跨平台的C ++ GUI工具箱.  [GPL2]
 * [GacUI](https://github.com/vczh-libraries/GacUI)  -GPU加速的C ++用户界面，具有所见即所得的开发工具，XML支持，内置的数据绑定和MVVM功能.  [女士PL]
@@ -456,6 +457,7 @@
 
 * [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Facebook. [Apache2]
 * [Cap'n Proto](https://github.com/capnproto/capnproto)  -快速的数据交换格式和基于功能的RPC系统.  [麻省理工学院] [website](https://capnproto.org/)
+* [eCAL](https://github.com/continental/ecal) - Pub/sub, client/server, C++/Python/C#, various message protocols (protobuf, capnproto ..). [Apache2] [website](http://www.ecal.io/)
 * [gRPC](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. [BSD] [website](http://www.grpc.io/)
 * [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. [GPLv2]
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp)  -用于C ++服务器和客户端的JSON-RPC框架.  [麻省理工学院]
@@ -731,7 +733,7 @@
 * [JavaCpp](https://github.com/bytedeco/javacpp)  -Java和本机C ++之间缺少的桥梁.  [Apache2]
 * [libffi](https://github.com/libffi/libffi)  -便携式外部功能接口库.  [麻省理工学院] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/)  -用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [麻省理工学院]
-* [LuaBridge](https://github.com/vinniefalco/LuaBridge)  -用于将Lua绑定到C ++的轻量级，无依赖库.  [麻省理工学院]
+* [LuaBridge](https://github.com/vinniefalco/LuaBridge)  -轻量级，无依赖的库，用于将Lua绑定到C ++.  [麻省理工学院]
 * [luacxx](https://github.com/dafrito/luacxx)  -用于创建Lua绑定的C ++ 11 API.  [麻省理工学院]
 * [nbind](https://github.com/charto/nbind)  -神奇的标头，可从JavaScript访问C ++库.  [麻省理工学院]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)  -一个库，用于使用C ++构建PHP扩展.  [Apache2] [website](http://www.php-cpp.com/)
@@ -777,7 +779,7 @@
 
 ## Virtual Machines
 
-* [CarpVM](https://github.com/tekknolagi/carp)  -C语言中的“有趣” VM.让我们看看这是怎么回事.  [GPLv3]
+* [CarpVM](https://github.com/tekknolagi/carp)  -C语言中的“有趣” VM.  [GPLv3]
 * [MicroPython](https://github.com/micropython/micropython)  -旨在在微控制器上实现Python 3.x的实现.  [麻省理工学院]
 * [TinyVM](https://github.com/jakogut/tinyvm) -用纯ANSI C编写的小型，快速，轻巧的虚拟机.
 
@@ -818,7 +820,7 @@
 *有用的库或工具不适合上述类别，或者可能尚未归类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)  -一种用于计算对c ++程序中成员变量的访问的工具.  [GPL3]
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在给定时间和最少示例输入的情况下自动发现错误.  [Apache2]
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在一定时间和最少示例输入的情况下自动发现错误.  [Apache2]
 * [Better String](http://bstring.sourceforge.net)  -替代C的字符串库，它的功能更强大，并且没有缓冲区溢出超限问题.  还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  -托管信号和时隙系统的实现.  [促进]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  -受Python内置函数和itertools库启发的基于范围的for循环插件.  [BSD-2-Clause]
@@ -930,7 +932,7 @@
 
 * [Bazel](https://bazel.build)  -Google提供的多语言，快速且可扩展的构建系统.  [Apache]
 * [Bear](https://github.com/rizsotto/Bear)  -生成用于clang工具的编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  -快速构建系统，鼓励通过各种平台和语言（包括在Facebook开发和使用的C ++）创建小的可重用模块.  用Java编写.  [Apache]
+* [Buck](https://github.com/facebook/buck)  -快速构建系统，鼓励通过各种平台和语言（包括在Facebook开发和使用的C ++）创建小型可重用的模块.  用Java编写.  [Apache]
 * [clib](https://github.com/clibs/clib)  -C编程语言的程序包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  -跨平台的免费开源软件，用于使用与编译器无关的方法来管理软件的构建过程.  [BSD]
 * [C++ Archive Network](https://cppan.org/) -具有许多可用程序包的跨平台C ++依赖管理器.
@@ -955,7 +957,7 @@
 *通过代码分析提高质量和减少缺陷的工具列表*
 
 * [Cppcheck](http://cppcheck.sourceforge.net/)  -用于静态C / C ++代码分析的工具.  -- [source](https://github.com/danmar/cppcheck)
-* [CppDepend](https://www.cppdepend.com/) -通过分析和可视化代码依赖性，定义设计规则，进行影响分析并比较不同版本的代码，简化了复杂C / C ++代码库的管理.
+* [CppDepend](https://www.cppdepend.com/) -通过分析和可视化代码依赖关系，定义设计规则，进行影响分析以及比较不同版本的代码，简化了复杂C / C ++代码库的管理.
 * [cpplint](https://github.com/cpplint/cpplint) -遵循Google C ++样式指南的C ++样式检查器.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]

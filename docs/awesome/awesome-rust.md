@@ -163,6 +163,7 @@
 * [mmstick/concurr](https://github.com/mmstick/concurr) —带有客户端-服务器体系结构的GNU Parallel的替代方案
 * [mmstick/fontfinder](https://github.com/mmstick/fontfinder) — GTK3应用程序，用于预览和安装Google的字体
 * [mmstick/parallel](https://github.com/mmstick/parallel) —重新实现GNU并行
+* [orhun/kmon](https://github.com/orhun/kmon) — Linux内核管理器和活动监视器 ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
 * [pop-os/debrep](https://github.com/pop-os/debrepbuild) —用于构建和管理APT回购的APT储存库工具
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3和CLI实用程序，用于并行刷新多个USB设备
 * [Luminarys/synapse](https://github.com/Luminarys/synapse) —灵活，快速的BitTorrent守护程序. [![Build Status](https://api.travis-ci.org/Luminarys/synapse.svg?branch=master)](https://travis-ci.org/Luminarys/synapse)
@@ -381,7 +382,7 @@
     * [RustDT](https://raw.githubusercontent.com/RustDT/RustDT) — [<img src="https://api.travis-ci.org/RustDT/RustDT.svg?branch=master">](https://travis-ci.org/RustDT/RustDT)
   * [Emacs](https://www.gnu.org/software/emacs/)
     * [rust-mode](https://github.com/rust-lang/rust-mode) — Rust主要模式
-    * [flycheck-rust](https://github.com/flycheck/flycheck-rust) — Rust support for [Flycheck](https://github.com/flycheck/flycheck)
+    * [flycheck-rust](https://github.com/flycheck/flycheck-rust) —的Rust支持 [Flycheck](https://github.com/flycheck/flycheck)
     * [emacs-racer](https://github.com/racer-rust/emacs-racer) —自动补全（另请参见 [company](https://company-mode.github.io) 和 [auto-complete](https://github.com/auto-complete/auto-complete))
     * [lsp-rust](https://github.com/emacs-lsp-legacy/lsp-rust) —将rls支持添加到 [lsp-mode](https://github.com/emacs-lsp/lsp-mode)
   * [gitpod.io](https://gitpod.io) —具有基于Rust语言服务器的完全Rust支持的在线IDE
@@ -716,7 +717,7 @@
 
 ### Data processing
 
-* [bluss/ndarray](https://github.com/rust-ndarray/ndarray) —具有数组视图，多维切片和高效操作的N维数组
+* [bluss/ndarray](https://github.com/rust-ndarray/ndarray) — N-dimensional array with array views, multidimensional slicing, and efficient operations
 * [kernelmachine/utah](https://github.com/kernelmachine/utah) — Rust中的数据框结构和操作
 * [weld-project/weld](https://github.com/weld-project/weld) —数据分析应用程序的高性能运行时
 
