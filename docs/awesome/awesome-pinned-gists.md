@@ -23,12 +23,14 @@
 - [neko-box](https://github.com/RangerDigital/neko-box) -更新固定要点，以包含来自AniList的最新活动.
 - [douban-box](https://github.com/CodeDaraW/douban-box) -更新固定要点，以包含有关豆瓣网有关书籍/电影/音乐的最新用户状态.
 - [todoist-box](https://github.com/yohix/todoist-box) -更新固定的要点，以包含您的Todoist统计信息.
+- [movie-box](https://github.com/LuisAlejandro/movie-box) -更新固定的要点，以包含Trakt.tv的媒体中心统计信息.
 
 ## GitHub
 
 以固定的方式显示更详细的GitHub用户数据.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) -更新固定要点，以包含GitHub用户的最新活动.
+- [gh-box](https://github.com/yohix/gh-box) -更新固定要点以包含您的GitHub个人资料数据.
 
 ## Resources
 

@@ -158,7 +158,7 @@ Lisp家庭语言（通过球拍）
 #### Readings
 -**必填**，以了解单子，懒惰和纯度： [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
   -**注意**：可能是学习Haskell的最佳资源： [Haskell Programming from First Principles](http://haskellbook.com/) “付费”
--**必需**，以了解逻辑编程，回溯和统一： [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
+- **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 
 ### Math Electives
 **学生必须选择以下主题之一**：微积分，线性代数，逻辑或概率.
@@ -301,7 +301,7 @@ GPU编程
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_) ）|  12周|  -|  C，算法
-[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx))| 9 weeks | 6-8 hours/week | none
+[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx) ）|  9周  每周6-8个小时|  没有
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8周  每周6个小时|  Python，面向对象的编程
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)  |  4周  每周6个小时|  Python，编程经验
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness)  |  7周  每周6个小时|  线性代数
@@ -382,6 +382,7 @@ CMOS技术
 [Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack)  |  27周|  每周2-6个小时|  编程，数据库
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science)  |  43周  每周1-6个小时|  没有
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala)  |  29周|  每周4-5个小时|  一年编程经验
+[Game Design and Development (Specialization)](https://www.coursera.org/specializations/game-development)  |  6个月  每周5小时|  编程，交互设计
 
 ## Final project
 

@@ -76,6 +76,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [clicr](https://github.com/j8r/clicr) -一个简单的声明性命令行界面生成器
  * [clim](https://github.com/at-grandpa/clim) -苗条的命令行界面构建器
  * [commander](https://github.com/mrrooijen/commander) -命令行界面构建器
+ * [Keimeno](https://github.com/robacarp/keimeno) -Crystal中的轻量级文本用户界面库
  * [optarg](https://github.com/mosop/optarg) -另一个用于解析命令行选项和参数的库
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) -命令行选项处理（Crystal stdlib）
  * [Phreak](https://github.com/shinzlet/phreak) -采用OptionParser风格的高度灵活的Crystal CLI构建器
@@ -103,7 +104,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) -加载.env文件
- * [envyable](https://github.com/philnash/envyable.cr) -  A simple YAML to ENV config loader
+ * [envyable](https://github.com/philnash/envyable.cr) -一个简单的YAML到ENV配置加载程序
  * [habitat](https://github.com/luckyframework/habitat) -为您的类和模块输入安全配置
  * [totem](https://github.com/icyleaf/totem) -加载和解析JSON，YAML，dotenv格式的配置
 
@@ -233,7 +234,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [cryload](https://github.com/sdogruyol/cryload) -HTTP基准测试工具
  * [halite](https://github.com/icyleaf/halite) -带有可链接的REST API，内置会话和记录器的Crystal HTTP请求
  * [helmet](https://github.com/EvanHahn/crystal-helmet) -设置与安全性相关的HTTP标头
- * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - Mounting multiple servers via routes (a.k.a. URL mapping)
+ * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) -通过路由安装多个服务器（又称URL映射）
  * [http-params-serializable](https://github.com/vladfaust/http-params-serializable) -HTTP参数（反）序列化，适用于URL查询和URL编码的表单
  * [http-protection](https://github.com/rogeriozambon/http-protection) -防范典型的网络攻击
  * [http2](https://github.com/ysbaddaden/http2) -HTTP / 2协议实现
@@ -358,7 +359,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [promise](https://github.com/spider-gazelle/promise) -带有类型推断的Promise实现
 
 ## Project Generators
- * [crystal_lib](https://github.com/crystal-lang/crystal_lib) - Automatic binding generator for native libraries
+ * [crystal_lib](https://github.com/crystal-lang/crystal_lib) -用于本机库的自动绑定生成器
  * [fez](https://github.com/jwoertink/fez) -凯末尔应用程序生成器
  * [kgen](https://github.com/kemalyst/kemalyst-generator) -Kemalyst命令行工具，用于控制台，init，生成（脚手架）和监视.
  * [libgen](https://github.com/olbat/libgen) -使用JSON / YAML文件配置的自动绑定生成器
@@ -387,7 +388,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [predict.cr](https://github.com/RX14/predict.cr) -使用sgp4模型的卫星预测库
 
 ## Search
- * [hermes](https://github.com/imdrasil/hermes.cr) -ElastiSearch的数据映射器模式实现
+ * [hermes](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
  * [query-builder](https://github.com/izniburak/query-builder) -SQL查询生成器库
  * [soegen](https://github.com/Ragmaanir/soegen) -Crystal的Elasticsearch客户端类似于红宝石的担架宝石
 
@@ -427,7 +428,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用`Time.now`嘲笑的库.  受到启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [vcr](https://github.com/spoved/vcr.cr) -Crystal的HTTP捕获和重放实现
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)  -页面对象库.  受到Ruby的启发 [WatirPump](https://github.com/bwilczek/watir_pump)
- * [webmock.cr](https://github.com/manastech/webmock.cr) -用于存根HTTP :: Client请求的库
+ * [webmock.cr](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
  * [aws-credentials](https://github.com/y2k2mt/aws-credentials) -通过多种方式获取AWS凭证
@@ -533,7 +534,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [DPPM](https://github.com/DFabric/dppm) -一种以包形式安装和管理应用程序的简便通用方法（主要是Linux）
 
 ## Editor Plugins
- *原子
+ * Atom
    * [crystal-tools](https://atom.io/packages/crystal-tools) -启用Crystal编译器中的内置工具
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) -Atom中的Crystal语言支持
  *埃马克斯

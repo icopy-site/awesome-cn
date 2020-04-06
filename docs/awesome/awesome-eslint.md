@@ -101,6 +101,9 @@
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询的语法内容.
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
+-表现
+  - [DOM](https://github.com/amilajack/eslint-plugin-dom)
+  - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) （也有一个 [config](https://github.com/Raynos/eslint-config-perf-standard))
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) -兑现承诺时的最佳做法.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) -节点安全性的ESLint规则.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) -为ESLint`sort-keys`规则添加了修复程序.

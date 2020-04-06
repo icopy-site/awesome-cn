@@ -232,10 +232,12 @@ drm/kms.
 *  [VulkanTools](https://github.com/LunarG/VulkanTools)  -LunarG的工具，包括图层，“ vktrace”和“ vkreplay”.  [Apache许可2.0]
 *  [CodeXL](https://github.com/GPUOpen-Tools/CodeXL)  -CodeXL开源.  [麻省理工学院]
 *  [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
-*  [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) -包括可轻松跟踪图形性能问题的Arm图形分析器和Arm Streamline性能分析器，以提供整个系统的性能视图，从而快速确定CPU和GPU上的瓶颈.
+*  [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) -包括可轻松跟踪图形性能问题的Arm Graphics Analyzer和Arm Streamline性能分析器，可从整个系统查看性能，从而快速确定CPU和GPU上的瓶颈.
 *  [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT)  -为D3D11，D3D12和Vulkan提供FPS覆盖和性能测量.  [麻省理工学院]
 *  [gapid](https://github.com/google/gapid)  -图形API调试器，可以跟踪和重播Android OpenGL ES和Vulkan应用程序.  [Apache许可2.0]
 *  [Arm - PerfDoc](https://github.com/ARM-software/perfdoc)  -针对Mali Application Developer最佳做法文档的验证层.  [麻省理工学院]
+*  [glsl_trace](https://github.com/azhirnov/glsl_trace)  -用于Vulkan和OpenGL的着色器调试和性能分析的库.  [麻省理工学院]
+
 
 ## Books
 * [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) 作者：Kenwright **-使用Vulkan API，从实践的角度向读者介绍计算机图形学的令人兴奋的主题.
@@ -293,4 +295,4 @@ drm/kms.
 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Contributing
-请参阅 [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) 有关详细信息.
+请参见 [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) 有关详细信息.

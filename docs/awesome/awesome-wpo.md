@@ -122,7 +122,7 @@
 * [Bundlephobia](https://bundlephobia.com/) -帮助您找到将npm软件包添加到前端捆绑包中对性能的影响.
 * [Disc](http://hughsk.io/disc/) -可视化浏览器项目捆绑包的模块树并追踪膨胀. 
 * [Lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) -分析和可视化由Lasso创建的项目包.  
-* [Packtracker.io](https://packtracker.io) -在每个提取请求中检查您的webpack捆绑统计信息，并随着时间的推移进行跟踪.
+* [Packtracker.io](https://packtracker.io) -在每个提取请求中检查您的webpack捆绑统计信息，并随着时间的推移对其进行跟踪.
 
 
 ## Benchmark - CSS
@@ -303,7 +303,6 @@
 * [HTTPinvoke](https://github.com/jakutis/httpinvoke)-用于浏览器和Node.js的无依赖性HTTP客户端库，具有基于promise或基于Node.js样式的基于回调的API来处理事件，文本和二进制文件的上传和下载，部分响应主体，请求和响应标头，状态码.
 * [Critical](https://github.com/addyosmani/critical) -在HTML页面（alpha）中提取和内嵌关键路径CSS.
 * [Csscolormin](https://github.com/stoyan/csscolormin) - Utility that minifies CSS colors, example: min("white"); // minifies to "#fff".
-* [StyleStats](http://www.stylestats.org/) -StyleStats是一个Node.js库，用于收集CSS统计信息.
 * [Lazysizes](https://github.com/aFarkas/lazysizes) -用于图像（响应和正常），iframe和脚本的高性能惰性加载程序，无需配置即可检测到由用户交互，CSS或JavaScript触发的可见性更改.
 * [Perf-Tooling](http://perf-tooling.today/) -Perf Tooling是共享资源，可以跟踪新的和现有的性能工具.
 * [TMI](https://github.com/addyosmani/tmi) -TMI（图像过多）-在网络上发现图像的权重.
