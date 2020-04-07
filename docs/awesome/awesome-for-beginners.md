@@ -6,7 +6,7 @@
 
 受启发 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章.
 
-如果您是开源项目的维护者，请在您的项目中添加标签“仅限初学者”（或类似名称）并在此处列出，以便人们可以找到它.
+如果您是开源项目的维护者，请在您的项目中添加标签“仅初次使用”（或类似名称），并在此处列出以便人们查找.
 
 如果您想做出贡献，请浏览此列表，查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，然后按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上创建新的“仅限初学者”问题时会收到通知.
 
@@ -72,7 +72,7 @@
 - [Strongbox](https://github.com/strongbox/strongbox/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Strongbox是用Java编写的工件存储库管理器.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers)  _（标签：d.FirstTimers）_ <br>  TEAMMATES是一个免费的在线工具，用于管理学生的同伴评估和其他反馈路径.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  开源，分布式，RESTful搜索引擎.
-- [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  桌面应用程序从SWING迁移到JavaFX.  关注代码质量：使用代码质量工具，例如 [CodeCov](https://codecov.io/) 和 [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback 和 to ensure high quality of new contributions.
+- [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  使用包括JavaFX在内的现代Java功能管理文献参考的桌面应用程序. [Dedicated to code quality and constructive feedback](https://devdocs.jabref.org/getting-into-the-code/development-strategy): Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  允许用户将图片从其Android手机/平板电脑上传到Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费Wiki软件平台，其设计重点是可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  API自动化，无需编码，简单的JSON响应断言，测试REST，SOAP，Kafka和Java / DB API，CI / Jenkins Friendly.
@@ -138,7 +138,7 @@
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  来自免费资源的多平台音乐播放器.
 - [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  使用React组件可以更快，更轻松地进行Web开发.  建立自己的设计系统，或从材料设计开始.
 - [Mocha](https://github.com/mochajs/mocha/labels/good-first-issue)  _（标签：好第一期）_ <br>  适用于Node.js和浏览器的Javascript测试框架.
-- [Babel](https://github.com/babel/babel/labels/good%20first%20issue) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
+- [Babel](https://github.com/babel/babel/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  用于编写下一代JavaScript的编译器.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  轻松创建自己的react-content-loader的工具.
 - [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  git工作流程的开源内容管理.
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  适用于所有平台的功能丰富的美丽GraphQL客户端.
@@ -187,7 +187,7 @@
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue)  _（首发）_ <br>  为互联网时代建立更好的民主
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow)  _（标签：难度/低）_ <br>  Python国际化库.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick)  _（标签：轻松选择）_ <br>  具有同步和共享功能的轻量级JSON存储服务.
-- [BorgBackup](https://github.com/borgbackup/borg/labels/easy)  _（标签：简单）_ <br>  通过压缩和经过身份验证的加密对备份程序进行重复数据删除.
+- [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [scrapy](https://github.com/scrapy/scrapy/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  适用于Python的快速高级Web爬网和抓取框架.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/help%20wanted)  _（标签：需要帮助）_ <br>  面向渗透测试人员和软件开发人员的交互式TLS拦截HTTP代理功能
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit)  _（标签：低挂水果）_ <br>  一个免费且开放的现代，快速电子邮件客户端，具有用户友好的加密和隐私功能
@@ -216,7 +216,7 @@
 
 ## Ruby
 
-- [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
+- [JRuby](https://github.com/jruby/jruby/labels/beginner)  _（标签：初学者）_ <br>  Ruby在Java虚拟机上的实现.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  优雅的Web开发采用DSL.
 - [Goby](https://github.com/nskins/goby)  _（标签：初学者）_ <br>  开发文本RPG的框架.
 - [Hanami](https://github.com/hanami/hanami/labels/easy)  _（标签：简单）_ <br>  Ruby的现代框架.
@@ -238,7 +238,7 @@
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一堆棉绒来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：优先事项）_ <br>  根据样式准则格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  用于Rust的可扩展的并发Web框架
-- [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy) _(label: D: Easy)_ <br> A distributed transactional key-value database
+- [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy)  _（标签：D：简单）_ <br>  分布式交易关键值数据库
 - [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  用Rust编写的GitHub时代的现代外壳.
 - [Hyper](https://github.com/hyperium/hyper/labels/E-easy)  _（标签：E-easy）_ <br>  一个用于Rust的快速，安全和正确的低级HTTP库.
 
@@ -257,7 +257,7 @@
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  一种新型工具，结合了代码编辑器的简便性和开发人员对其核心edit-build-debug周期的需求.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution)  _（标签：不错的第一笔捐款）_ <br>  TSLint的ESLint规则.
 - [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  Reatom是声明式和反应式状态管理器，设计用于简单和复杂的应用程序.
-- [game-of-life](https://github.com/TroyTae/game-of-life/labels/good%20first%20issue)  _（标签：好第一期）_ <br>  康威的《人生游戏》网络版！
+- [game-of-life](https://github.com/TroyTae/game-of-life/labels/good%20first%20issue) _(label: good first issue)_ <br> Conway's Game of Life web version!
 
 ## Contribute
 

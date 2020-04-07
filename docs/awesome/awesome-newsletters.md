@@ -98,6 +98,7 @@
 - [Designgest](http://designgest.com/) .  Designgest是一种获取有关交互式设计趋势的最新信息的简便方法.
 - [Unreadit/Design](https://unread.it/n/design/) .  设计灵感和与最佳设计相关的丰富内容均来自最佳子目录.
 - [realusers.club](https://realusers.club) .  每周进行的真实用户访谈.
+- [Figmalion](https://figmalion.com) .  每两周一次的时事通讯 [Figma](https://www.figma.com/).
 
 ### HTML5
 
@@ -179,7 +180,7 @@
 ### Python
 
 - [Python Weekly](https://www.pythonweekly.com/) .  一个免费的每周新闻通讯，其中包含与Python相关的精选新闻，文章，新版本，职位等.
-- [Weekly Python Newsletter](https://importpython.com/newsletter/) .  每周Python新闻快讯，其中包含您的收件箱中提供的Python文章，项目，视频，推文. [Archive](https://importpython.com/newsletter/archive/).
+- [Weekly Python Newsletter](https://importpython.com/newsletter/) .  每周Python新闻通讯，其中包含您收件箱中提供的Python文章，项目，视频，推文. [Archive](https://importpython.com/newsletter/archive/).
 - [Pycoders Weekly](https://pycoders.com/) .  星期五，每周免费提供一次电子邮件时事通讯，以供对python开发和有关python各种主题感兴趣的人使用.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) .  每周最受欢迎的Python新闻，文章和软件包概述.
 
@@ -195,7 +196,7 @@
 
 - [Elixir Radar](http://plataformatec.com.br/elixir-radar) .  每周电子邮件，其中包含博客文章，最新图书馆，讲座，活动和工作机会.
 - [Awesome Elixir Newsletter](https://elixir.libhunt.com/newsletter) .  精选的Elixir和Erlang软件包和资源的精选列表. [Archive](https://elixir.libhunt.com/newsletter/archive).
-- [Elixir Digest](https://elixirdigest.net/) .  每周长生不老药和凤凰药水. [Archive](https://elixirdigest.net/digests).
+- [Elixir Digest](https://elixirdigest.net/). Weekly portion of Elixir and Phoenix goodness. [Archive](https://elixirdigest.net/digests).
 
 ### Clojure
 
@@ -320,7 +321,7 @@
 - [Artificial Intelligence Weekly](http://aiweekly.co/) .  每周收集有关人工智能和机器学习的最佳新闻和资源.
 - [The Wild Week in AI](https://www.getrevue.co/profile/wildml). A weekly AI & Deep Learning newsletter. [Archive](https://www.getrevue.co/profile/wildml#archive).
 - [Machine Learnings](http://subscribe.machinelearnings.co/) .  每周有关ML和AI新闻的摘要.
-- [Inside AI](https://inside.com/ai). Weekly newsletter bringing you the latest in Artificial Intelligence, Robotics, and Neurotechnology.
+- [Inside AI](https://inside.com/ai) .  每周时事通讯为您带来有关人工智能，机器人技术和神经技术的最新信息.
 - [Data Prism](http://dataprism.co/) .  Data Prism每周出版一次精选新闻，内容涉及数据科学，机器学习，人工智能和分析领域的初创公司和公司.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) .  人工智能的最新突破，应用和失败之处. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 - [AI Digest](https://aidigest.net/) .  每周新闻通讯，以了解人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).

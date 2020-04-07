@@ -4,7 +4,7 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效.  虽然不是排他性的，但此列表在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目，并反对专有产品或公司服务.  有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效.  虽然不是排他性的，但此清单在很大程度上偏向 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目，并反对专有产品或公司服务.  有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
  衷心欢迎您的贡献和建议♥.  （✿◕‿◕）.  请检查 [Contributing Guidelines](https://github.com/meitar/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md)  更多细节.  这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -44,6 +44,7 @@
 - [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将秘密安全地存储在Git / Mercurial / Subversion中.
 - [Cilium](https://cilium.io/) -开源软件，用于透明保护使用Docker和Kubernetes等Linux容器管理平台部署的应用程序服务之间的网络连接.
 - [Clair](https://github.com/coreos/clair) -静态分析工具，用于探测通过应用程序容器（例如Docker）映像引入的漏洞.
+- [CodeQL](https://securitylab.github.com/tools/codeql) -通过对代码进行查询，就好像是数据一样，从而发现整个代码库中的漏洞.
 - [Gauntlt](http://gauntlt.org/) -在常规连续集成过程中的Pentest应用程序构建管道.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -防止您将密码和其他敏感信息提交到git存储库.
 - [Vault](https://www.vaultproject.io/) -通过统一界面安全访问API密钥，密码或证书等机密的工具.
@@ -145,7 +146,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 （也称为*对手模拟*，*威胁模拟*或类似的东西.）
 
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) -使系统看起来像是APT攻击的受害者的工具集.
-- [Atomic Red Team](https://atomicredteam.io/) -简单，可自动执行的测试库，以执行测试安全性控制.
+- [Atomic Red Team](https://atomicredteam.io/) -简单，可自动执行的测试库，以执行以测试安全性控制.
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) -模块化，菜单驱动的跨平台工具，用于为Blue Team演练和传感器/警报映射构建可重复的，延迟的，分布式的安全事件.
 - [Metta](https://github.com/uber-common/metta) -自动化的信息安全准备工具进行对抗性模拟.
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) -生成恶意网络流量并帮助安全团队评估安全控制并审核其网络可见性的实用程序.

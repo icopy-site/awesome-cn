@@ -6,7 +6,7 @@
 
 精选的令人愉快的清单 [PowerShell](https://en.wikipedia.org/wiki/PowerShell) 包和资源.
 
-PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具，针对处理结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
+PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，已针对结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
 它包括命令行外壳程序和关联的脚本语言.
 
 
@@ -14,22 +14,22 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 ## API Wrapper
 
 * [HipChatAdmin](https://github.com/cofonseca/HipChatAdmin) -通过HipChat API与Atlassian HipChat进行简单集成的模块.
-* [PSGitHub](https://github.com/pcgeek86/PSGitHub) -该PowerShell模块包含用于通过其REST API管理GitHub的命令.
-* [Posh-Github](https://github.com/Iristyle/Posh-GitHub) -公开GitHub API的Powershell cmdlet.
-* [Posh-Gist](https://github.com/dfinke/Posh-Gist) -用于与GitHub Gist进行交互的PowerShell cmdlet.
-* [PSGist](https://github.com/dotps1/PSGist) -与GitHub Gists一起使用的PowerShell模块.
-* [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) -与AppVeyor REST Api进行交互的PowerShell模块.
-* [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) -用于简单Slack集成的PowerShell模块.
+* [PSGitHub](https://github.com/pcgeek86/PSGitHub) -模块包含用于通过其REST API管理GitHub的命令.
+* [Posh-GitHub](https://github.com/Iristyle/Posh-GitHub) -公开GitHub API的Cmdlet.
+* [Posh-Gist](https://github.com/dfinke/Posh-Gist) -用于与GitHub Gist进行交互的Cmdlet.
+* [PSGist](https://github.com/dotps1/PSGist) -与GitHub Gists合作的模块.
+* [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) -与AppVeyor REST API进行交互的模块.
+* [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) -用于简单Slack集成的模块.
 * [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) -用于在Powershell中与Atlassian的Confluence进行交互的模块（通过使用API​​）.
 * [JiraPS](https://atlassianps.org/module/JiraPS/) -在Powershell中与Atlassian的Jira进行交互的模块（通过使用API​​）.
-* [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) -用于电报API的PowerShell模块
-* [PSTeams](https://github.com/EvotecIT/PSTeams) - PowerShell module for sending formatted messages to a Microsoft Teams Channel.
+* [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) -电报API模块
+* [PSTeams](https://github.com/EvotecIT/PSTeams) -用于将格式化的消息发送到Microsoft Teams Channel的模块.
 
 ## Blogs
 
 * [Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/) -官方PowerShell团队博客.
 * [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) -流行的Microsoft博客.
-* [Learn Powershell | Achieve More](http://learn-powershell.net/) -Boe Prox的个人博客，他为脚本专家主持.
+* [Learn PowerShell | Achieve More](http://learn-powershell.net/) -Boe Prox的个人博客，他为脚本专家主持.
 * [PowerShellMagazine](http://www.powershellmagazine.com/) -很棒的杂志.
 * [PowerShellExplained](https://powershellexplained.com) -Kevin Marquette的个人博客
 * [Doug Finke](https://dfinke.github.io/#blog) -的作者 [PowerShell for Developers](http://shop.oreilly.com/product/0636920024491.do).
@@ -50,7 +50,7 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 * [The Big Book of PowerShell Error Handling - Dave Wyatt](https://leanpub.com/s/znHIFrvBAYRST5nFBiQU5g.pdf) -错误处理技术的重要参考.
 * [Secrets of PowerShell Remoting](https://leanpub.com/s/DQLESXQ69TlVFQ9ogjrFLw.pdf)  -关于所有远程处理.  工作流程，扇出等
 * [PowerShell Notes for Professionals](https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf) -笔记和摘要的汇编.
-* [Powershell for SysAdmins: Workflow Automation Made Easy](https://nostarch.com/powershellsysadmins) -了解如何管理和自动化您的桌面和服务器环境.
+* [PowerShell for SysAdmins: Workflow Automation Made Easy](https://nostarch.com/powershellsysadmins) -了解如何管理和自动化您的桌面和服务器环境.
 
 ## Build Tools
 
@@ -71,14 +71,14 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 * [posh-git](https://github.com/dahlbyk/posh-git) -提供Git / PowerShell集成的PowerShell脚本集.
 * [PSReadLine](https://github.com/lzybkr/PSReadLine)  -Bash启发了PowerShell的readline实现.  保留会话之间的历史记录，添加反向历史记录搜索，使命令行总体上更好.
 * [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) -PowerShell模块，使自定义制表符完成更容易，并添加了自定义参数完成器库.
-* [Jump-Location](https://github.com/tkellogg/Jump-Location) -Powershell`cd`可以读懂你的想法. [Autojump](https://github.com/wting/autojump) Powershell的实现.
+* [Jump-Location](https://github.com/tkellogg/Jump-Location) -可以读懂您想法的PowerShell`cd`. [Autojump](https://github.com/wting/autojump) PowerShell的实施.
 * [Zlocation](https://github.com/vors/ZLocation) * [z.sh](https://github.com/rupa/z)  PowerShell的实施.  类似于跳转位置.
 * [thefuck](https://github.com/nvbn/thefuck) -宏伟的应用程序，可纠正您以前的控制台命令（通过输入“ fuck”）.
-* [pslinq](https://github.com/manojlds/pslinq) -用于Powershell的LINQ（LINQ2Objects）.
+* [pslinq](https://github.com/manojlds/pslinq) -用于PowerShell的LINQ（LINQ2Objects）.
 * [posh-with](https://github.com/JanJoris/posh-with) -使用单个工具的连续工作流的命令前缀.
 * [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)* [peco](https://github.com/peco/peco)  实施.  交互式过滤工具.
-* [PSDirTag](https://github.com/wtjones/PSDirTag)  -DirTag是相对路径，在Powershell提示中显示为变量，并在导航时更新.  浏览文件夹结构时，保存击键.
-* [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil)  -旨在使用户的控制台生活更加方便.  它包括快捷方式，别名，键绑定和便捷功能，旨在提高效率和减少打字.
+* [PSDirTag](https://github.com/wtjones/PSDirTag)  -DirTag是相对路径，在PowerShell提示中显示为变量，并在您浏览时进行更新.  浏览文件夹结构时，保存击键.
+* [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil)  -旨在使用户的控制台生活更加方便.  它包括快捷方式，别名，键绑定和便利功能，旨在提高效率和减少打字次数.
 
 ## Communities
 
@@ -108,6 +108,7 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 
 * [Plaster](https://github.com/PowerShell/Plaster) -石膏是用PowerShell编写的基于模板的文件和项目生成器.
 * [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) -在2分钟内即可使用该模块的模板，该模块的入门门槛低，使用方便.
+* [Catesta](https://github.com/techthoughts2/Catesta)  -Catesta是PowerShell模块项目生成器.  它使用模板为各种CI / CD平台快速进行支架测试并建立集成.
 
 ## Frameworks
 
@@ -118,14 +119,14 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 
 ## Package Managers
 
-* [PowershellGet](https://github.com/powershell/powershellget)  -PowerShellGet是PowerShell的软件包管理器.  套餐可在 [PowerShellGallery](https://www.PowerShellGallery.com).
+* [PowerShellGet](https://github.com/powershell/powershellget)  -PowerShellGet是PowerShell的软件包管理器.  套餐可在 [PowerShellGallery](https://www.PowerShellGallery.com).
 * [PsGet](http://psget.net/) -从中央目录，本地文件或从Web安装模块的命令集.
 * [Chocolatey](https://chocolatey.org/)  -Windows的软件包管理器.  在Windows上管理软件的理智方式.
 * [GitLab](https://github.com/akamac/GitLabProvider) -使用GitLab服务器作为Package Provider.
 
 ## Parallel Processing
 
-* [PoshRSJob](https://github.com/proxb/PoshRSJob) -提供PSjobs的替代方案，具有更高的性能和更少的开销，可在后台运行命令.
+* [PoshRSJob](https://github.com/proxb/PoshRSJob) -提供PSJobs的替代方案，具有更高的性能和更少的开销，可在后台运行命令.
 * [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) -此函数将接收一个脚本或脚本块，并针对指定的对象并行运行它.
 
 ## Podcasts
@@ -147,8 +148,8 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 
 ## Testing
 
-* [Pester](https://github.com/pester/Pester) -Powershell BDD样式测试框架.
-* [Format-Pester](https://github.com/equelin/format-pester) -用于记录Pester结果的Powershell模块-使用以下命令将Pester结果导出到HTML，Word，文本文件 [PScribo](https://github.com/iainbrighton/PScribo).
+* [Pester](https://github.com/pester/Pester) -PowerShell BDD样式测试框架.
+* [Format-Pester](https://github.com/equelin/format-pester) -用于记录Pester结果的PowerShell模块-使用以下命令将Pester结果导出到HTML，Word，文本文件 [PScribo](https://github.com/iainbrighton/PScribo).
 
 ## Themes
 
@@ -187,7 +188,7 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 
 * [AutoSPInstaller](https://autospinstaller.com/) -自动化的SharePoint 2010-2019安装脚本.
 * [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) -SharePoint 2010、2013和Online的API.
-* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) -SPReplicator可帮助将SharePoint列表数据复制到CSV，SQL Server，SharePoint本身以及其他内容中.
+* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
 
 ## SQL Server
 
@@ -196,7 +197,7 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 ## Misc
 
 * [DbgShell](https://github.com/Microsoft/DbgShell) -Windows调试器引擎的PowerShell前端.
-* [poke](https://github.com/oising/poke) -Powershell的疯狂炫酷反射模块.
+* [poke](https://github.com/oising/poke) -PowerShell的疯狂酷反射模块.
   探索和调用私有API，就像没人在看着一样.
   对于安全性研究，测试和快速破解很有用.
 * [psInlineProgress](https://github.com/gravejester/psInlineProgress) -在PowerShell中编写内嵌进度条.

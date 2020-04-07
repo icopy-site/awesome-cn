@@ -55,6 +55,7 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 ## Services
 
 * [WorkflowCI](https://www.workflowci.com)  –针对开发人员的IFTTT（免费）.  与Slack，GitHub，CircleCI，Google Cloud Build集成.
+* [AWS ChatBot](https://aws.amazon.com/chatbot/) -交互式代理，用于监视Slack中的AWS资源并与之交互.
 
 ## Frameworks and libraries
 

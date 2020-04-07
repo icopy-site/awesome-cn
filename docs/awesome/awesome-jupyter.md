@@ -30,6 +30,7 @@
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) -Docker映像，其中包括Jupyter（Lab）和用于数据科学/机器学习的各种软件包.
 - [nteract](https://github.com/nteract/nteract) -本机台式机笔记本前端.
 - [Stencila](https://github.com/stencila/stencila) -本机台式机笔记本前端.
+- [voila](https://github.com/voila-dashboards/voila) -笔记本作为交互式独立Web应用程序.
 
 ## Collaboration/Education
 
@@ -66,7 +67,7 @@
 - [tqdm](https://github.com/tqdm/tqdm) -快速，可扩展的进度条，用于循环和可迭代.
 - [xleaflet](https://github.com/QuantStack/xleaflet) -ipyleaflet的C ++后端.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) -ipywebrtc的C ++后端.
-- [xwidgets](https://github.com/QuantStack/xwidgets) - C++ Backend for ipywidgets.
+- [xwidgets](https://github.com/QuantStack/xwidgets) -ipywidgets的C ++后端.
 
 ## Rendering/Publishing/Conversion
 
@@ -95,6 +96,7 @@
 
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) -使用单元标签扩展组织和执行笔记本的功能.
 - [code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) -通用代码格式化程序.
+- [debugger](https://github.com/jupyterlab/debugger) -用于Jupyter笔记本，控制台和源文件的可视调试器.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) -显示drawio / mxgraph图的扩展.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) -用于在JupyterLab中导航到变量或函数的定义的扩展.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) -Google云端硬盘集成扩展.

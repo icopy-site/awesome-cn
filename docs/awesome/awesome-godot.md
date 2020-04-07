@@ -4,7 +4,7 @@
 
 [![Godot Engine logo](https://raw.githubusercontent.com/Calinou/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
 
-A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) 游戏，插件，附加组件和脚本 [Godot](https://godotengine.org).
+精选清单 [free/libre](https://www.gnu.org/philosophy/free-sw.html) 游戏，插件，附加组件和脚本 [Godot](https://godotengine.org).
 
 
 
@@ -96,6 +96,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) 游�
 - [Code with Tom](https://www.youtube.com/codewithtom) -通过制作游戏学习编码（Godot 3.1）.
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) （Godot 3.0）
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) -有关2D和3D游戏开发的教程（Godot 2.1、3.x）.
+- [HeartBeast](https://www.youtube.com/user/uheartbeast) -Godot开发人员的日记和教程（Godot 3.x）.
 - [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) -有关2D和3D游戏开发的教程（Godot 2.1、3.x）.
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) （Godot 3.1）
 - [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) -有关3D效果和知名游戏（Godot 3.0）中的复制概念的教程.
@@ -130,7 +131,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) 游�
 - [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程式的一部分.
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
-- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
+- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
 - [gdstats](https://github.com/droxpopuli/gdstats) -通用统计分布的伪随机数生成器库（Godot 3.0）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) -与GitHub交互，而无需打开浏览器（Godot 3.1）.

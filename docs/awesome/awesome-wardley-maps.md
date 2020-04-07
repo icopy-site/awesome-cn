@@ -26,7 +26,7 @@
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) -知识共享书作者： [Simon Wardley](https://twitter.com/swardley).
   -PDF和.mobi电子书（Kindle） [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
-- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术的Wiki百科全书.
+- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -Wiki百科全书，专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) -维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
 
@@ -84,6 +84,7 @@
 - [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) -2016年11月30日.
 - [The map is not the territory](https://medium.com/@swardley/the-map-is-not-the-territory-257a3c258a83) -2016年11月24日.
 - [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0)  -建筑实践和基于价值的开发的演变和共同发展.  2016年11月23日.
+- [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) -2015年10月17日.
 - [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government)  -第2部分Mark Thompson概述了数字化愿景，以使政府成为一个更具凝聚力的集成组织.  2015年10月9日.
 - [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight)  -第1部分Mark Thompson概述了数字愿景，以使政府成为一个更具凝聚力的集成组织.  2015年10月9日.
 
@@ -103,7 +104,7 @@
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的方法指南.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和11，展示了在LaTeX中绘制沃德利地图的过程.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -Wardley yYd的调色板.
 
 ### Doctrine Assessement

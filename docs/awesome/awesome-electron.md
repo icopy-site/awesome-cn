@@ -67,7 +67,7 @@
 - [TimoFM](https://github.com/sapjax/TimoFM) -DoubanFM音乐播放器.
 - [Monu](https://github.com/maxogden/monu) -过程监控.
 - [DevDocs](https://github.com/egoist/devdocs-app) -非官方的DevDocs.io应用程序.
-- [google-music-electron](https://github.com/twolfson/google-music-electron) -非官方的Google音乐应用.
+- [google-music-electron](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
 - [Pomodoro](https://github.com/G07cha/pomodoro) -基于番茄时间技术的计时器.
 - [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) -基于加密货币技术的分散文件存储系统.
 - [MarkRight](https://github.com/dvcrn/markright) -具有实时预览功能的GitHub风格的Markdown编辑器.
@@ -152,14 +152,14 @@
 - [FreeMAN](https://github.com/matthew-matvei/freeman) -高级用户的文件管理器.
 - [Mark Text](https://github.com/marktext/marktext) -实时预览Markdown编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) -番茄计时器.
-- [Pretzel](https://github.com/amiechen/pretzel) - Show and search keyboard shortcuts for the current app.
+- [Pretzel](https://github.com/amiechen/pretzel) -显示和搜索当前应用程序的键盘快捷键.
 - [Netron](https://github.com/lutzroeder/netron) -用于深度学习和机器学习模型的可视化工具.
 - [Ao](https://github.com/klauscfhq/ao) -非官方的Microsoft To-Do应用.
 - [Etcher](https://github.com/resin-io/etcher) -将OS映像闪存到SD卡和USB驱动器.
 - [Noty](https://github.com/fabiospampinato/noty) -自动保存即时贴，在一个窗口中支持多个便签.
 - [Notable](https://github.com/fabiospampinato/notable) -基于Markdown的笔记.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) -简单和安全的日记应用程序.
-- [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
+- [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) -从Unsplash设置桌面墙纸.
 - [Motrix](https://github.com/agalwood/Motrix) - 下载管理器.
 - [Franz](https://github.com/meetfranz/franz) -在同一应用中使用Skype，Slack，环聊，WhatsApp，Grape，Telegram，FB Messenger，Hipchat.
 - [Gmail Desktop](https://github.com/timche/gmail-desktop) -非官方的Gmail应用程序.
@@ -197,7 +197,7 @@
 - [Exodus](https://www.exodus.io) -保护，管理和交换比特币和以太坊等区块链资产.
 - [Hackolade](http://hackolade.com) -用于NoSQL和多模型数据库的数据建模.
 - [ScreenSquid](http://screensquid.com) -记录和播放网站访问者会话.
-- [CashNotify](https://cashnotify.com) -从菜单栏中监视您的Stripe帐户.
+- [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
 - [Mockoon](https://mockoon.com) -在几秒钟内模拟服务器.
 - [Twitch](https://app.twitch.tv) -官方Twitch应用程序.
 - [Fenêtre](https://fenêt.re) -适用于Mac的画中画.
@@ -210,6 +210,8 @@
 - [Notion](https://notion.so) -便笺，任务，Wiki和数据库的多合一工作区.
 - [FATpick](https://www.fatpick.com) -吉他弹奏器查看器，可在演奏时为您的演奏评分.
 - [Taskade](https://www.taskade.com) -用于具有任务，注释和聊天功能的分布式团队的实时组织和协作工具.
+- [Mouseless](https://mouseless.app) -键盘快捷键训练和查找.
+- [Glyphfinder](https://www.glyphfinder.com) -Unicode字符搜索.
 
 ### Samples
 
@@ -278,6 +280,7 @@
 - [electron-context-menu](https://github.com/sindresorhus/electron-context-menu) -可扩展的上下文菜单.
 - [electron-require](https://github.com/brrd/electron-require) -简化要求.
 - [NeDB](https://github.com/louischatriot/nedb) -嵌入式持久性或内存数据库.
+- [RxDB](https://github.com/pubkey/rxdb) -实时NoSQL数据库.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) -从Chrome网上应用店安装DevTools扩展程序.
 - [electron-log](https://github.com/megahertz/electron-log) -简单的日志记录.
 - [electron-redux](https://github.com/hardchor/electron-redux) -跨Windows同步Redux状态.

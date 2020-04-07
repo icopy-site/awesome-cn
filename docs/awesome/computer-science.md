@@ -46,16 +46,16 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 -*核心CS *：大致对应于计算机科学课程的前三年，所有专业都必须参加的课程
 -*高级CS *：大致对应于计算机科学课程的最后一年，根据学生的兴趣选择选修课
 -*最终项目*：该项目供学生验证，巩固和展示其知识，并由世界各地的同行进行评估
--*专业CS *：研究生课程的专业学生如果希望最大程度地获得工作的机会，可以选择完成上述课程后选择参加
+
 
  **持续时间**.  如果您精心计划并每周花大约18-22个小时学习，则大约2年内即可完成Core CS.
 如果可能，Core CS的课程应采用线性课程，但由于极不可能实现完美的线性进度，
 指定每个班级的前提条件，以便您可以设计逻辑但非线性的进度
 根据课程表和您自己的生活计划.
 
- **成本**.  Pro CS之前的所有或几乎所有课程资料都是免费提供的.
-但是，有些课程可能会为要评分的作业/测试/项目收取费用.
+ **成本**.  所有或几乎所有课程资料都是免费提供的.  但是，有些课程可能会为要评分的作业/测试/项目收取费用.
 请注意，Coursera提供 [financial aid](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid).
+
 根据您自己的时间和预算来决定要花多少钱；
 请记住，您无法购买成功！
 
@@ -158,7 +158,7 @@ Lisp家庭语言（通过球拍）
 #### Readings
 -**必填**，以了解单子，懒惰和纯度： [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
   -**注意**：可能是学习Haskell的最佳资源： [Haskell Programming from First Principles](http://haskellbook.com/) “付费”
-- **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
+-**必需**，以了解逻辑编程，回溯和统一： [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
 
 ### Math Electives
 **学生必须选择以下主题之一**：微积分，线性代数，逻辑或概率.
@@ -301,7 +301,7 @@ GPU编程
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_) ）|  12周|  -|  C，算法
-[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx) ）|  9周  每周6-8个小时|  没有
+[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx))| 9 weeks | 6-8 hours/week | none
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8周  每周6个小时|  Python，面向对象的编程
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)  |  4周  每周6个小时|  Python，编程经验
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness)  |  7周  每周6个小时|  线性代数
@@ -330,8 +330,8 @@ CMOS技术
 [Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) <sup>1</sup> |  7周  每周8-10个小时|  微积分，基本力学
 [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0)  |  7周  每周8-10个小时|  电磁学，第1部分
 [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)  |  10周|  每周6个小时|  电，磁
-[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)  |  10周|  每周6个小时|  计算结构1
-[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | 10 weeks | 6 hours/week | Computation Structures 2
+[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | 10 weeks | 6 hours/week | Computation Structures 1
+[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)  |  10周|  每周6个小时|  计算结构2
 
 ** <sup>1</sup>注**：
 这些课程假定您具备基本物理知识.
@@ -390,7 +390,7 @@ OSS University是**以项目为中心的**.
 我们鼓励您为每门课程进行作业和考试，但真正重要的是您是否可以*利用*您的知识来解决实际问题.
 
 阅读完所有核心CS和与您相关的高级CS的各个部分后，您应该考虑一个可以使用所学知识解决的问题.
-Not only does real project work look great on a resume, but the project will also *validate* and *consolidate* your knowledge.
+真实的项目工作不仅在履历表上看起来很棒，而且该项目还将“验证”并“巩固”您的知识.
 您可以创建全新的内容，也可以通过以下网站找到需要帮助的现有项目
 [CodeTriage](https://www.codetriage.com/)
 or
@@ -428,7 +428,7 @@ or
 
 ### Which programming languages should I use?
 
-我的朋友，这是自由的最好部分！
+My friend, here is the best part of liberty!
 您可以使用要完成最终项目的任何语言.
 
 重要的是要“内化”核心概念，并使其能够与所需的任何工具（编程语言）一起使用.

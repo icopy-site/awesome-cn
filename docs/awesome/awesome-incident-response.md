@@ -20,7 +20,7 @@
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  -模块化，菜单驱动的跨平台工具，用于构建可重复的，时间延迟的分布式安全事件.  轻松为Blue Team演练和传感器/警报映射创建自定义事件链.  红队可以制造诱饵事件，分散注意力和引诱，以支持和扩大其行动.
 * [Metta](https://github.com/uber-common/metta) -进行对抗模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) -用于生成恶意网络流量并帮助安全团队评估安全控制和网络可见性的轻量级实用程序.
-* [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) -RTA提供了一个脚本框架，旨在使蓝队可以按照MITER ATT＆CK的模型来测试其针对恶意贸易工具的检测能力.
+* [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) -RTA提供了一个脚本框架，旨在使蓝队可以根据MITER ATT＆CK建模，以针对恶意贸易工具测试其检测功能.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) -用于对手仿真和威胁搜寻的虚拟机.
 
 ### All in one Tools
@@ -50,7 +50,7 @@
 ### Books
 
 * [DFIR intro](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) -Scott J. Roberts着.
-* [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) -理查德·贝特里奇（Richard Bejtlich）关于IR的书.
+* [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) -理查德·贝特里奇（Richard Bejtlich）关于IR的书
 
 ### Communities
 
@@ -70,6 +70,7 @@
 
 * [bulk_extractor](https://github.com/simsong/bulk_extractor)  -计算机取证工具，可扫描磁盘映像，文件或文件目录并提取有用的信息，而无需解析文件系统或文件系统结构.  由于忽略了文件系统结构，因此该程序在速度和完整性方面与众不同.
 * [Cold Disk Quick Response](https://github.com/rough007/CDQR) -简化的解析器列表，可快速分析法医图像文件（“ dd”，E01，“.vmdk”等）并输出九份报告.
+* [CyLR](https://github.com/orlikoski/CyLR) -CyLR工具可以快速，安全地从具有NTFS文件系统的主机收集取证伪像，并最大程度地减少对主机的影响.
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -Windows Batch脚本和Unix Bash脚本，可在事件响应期间全面收集主机取证数据.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) -自动化工具，可从Windows，OSX和基于* nix的操作系统收集易失性数据.
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) -命令行实用程序（可与或不与Amazon EC2实例一起使用）并行化远程内存获取.
@@ -94,7 +95,7 @@
 * [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) -Linux发行版，其中包含大量对网络安全专业人员有用的同类最佳的开源网络安全应用程序.
 * [PALADIN](https://sumuri.com/software/paladin/)  -修改后的Linux发行版，以法医合理的方式执行各种法医任务.  它包含许多开放源代码取证工具.
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) -专门用于网络安全监视的Linux发行版，具有高级分析工具.
-* [SANS Investigative Forensic Toolkit (SIFT) Workstation](http://digital-forensics.sans.org/community/downloads) -展示了先进的事件响应功能和针对入侵的深度潜水数字取证技术可以使用免费提供并经常更新的尖端开源工具来实现.
+* [SANS Investigative Forensic Toolkit (SIFT) Workstation](http://digital-forensics.sans.org/community/downloads) - Demonstrates that advanced incident response capabilities and deep dive digital forensic techniques to intrusions can be accomplished using cutting-edge open-source tools that are freely available and frequently updated.
 
 ### Linux Evidence Collection
 
@@ -116,7 +117,7 @@
 * [LiME](https://github.com/504ensicsLabs/LiME) 可加载内核模块（LKM），允许从Linux和基于Linux的设备（以前称为DMD）中获取易失性内存.
 * [MalConfScan](https://github.com/JPCERTCC/MalConfScan)  -MalConfScan是一个Volatility插件，可提取已知恶意软件的配置数据.  Volatility是用于事件响应和恶意软件分析的开源内存取证框架.  该工具在内存映像中搜索恶意软件并转储配置数据.  此外，该工具还具有列出恶意代码引用的字符串的功能.
 * [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html)  -免费的内存取证软件，可帮助事件响应者在实时内存中发现邪恶.  Memoryze可以获取和/或分析内存映像，并且在实时系统上可以将分页文件包括在其分析中.
-* [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze-for-the-mac.html) - Memoryze for Mac is Memoryze but then for Macs. A lower number of features, however.
+* [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze-for-the-mac.html)  -Mac版Memoryze是Memoryze，但Mac版则是.  但是，功能较少.
 * [Rekall](http://www.rekall-forensic.com/) -开源工具（和库），用于从易失性存储器（RAM）样本中提取数字伪像.
 * [Responder PRO](http://www.countertack.com/responder-pro) -Responder PRO是行业标准的物理内存和自动化恶意软件分析解决方案.
 * [Volatility](https://github.com/volatilityfoundation/volatility) -高级内存取证框架.
@@ -154,6 +155,7 @@
 * [Hostintel](https://github.com/keithjjones/hostintel) -拉每个主机的情报.
 * [imagemounter](https://github.com/ralphje/imagemounter) -命令行实用程序和Python软件包，可简化（取消）法医磁盘映像的安装.
 * [Kansa](https://github.com/davehull/Kansa/) -Powershell中的模块化事件响应框架.
+* [PowerSponse](https://github.com/swisscom/PowerSponse) -PowerSponse是一个PowerShell模块，专注于在安全事件响应期间进行有针对性的遏制和修复.
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) -非常简单的多线程多规则多文件YARA扫描Python脚本的恶意软件动物园和IR.
 * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) -允许在Windows，Linux和OS X上使用YARA扫描磁盘和内存以查找IOC.
 * [RaQet](https://raqet.github.io/) -非常规的远程获取和分类工具，可对通过专门构建的取证操作系统重新启动的远程计算机（客户端）的磁盘进行分类.
@@ -219,6 +221,7 @@
 * [Fibratus](https://github.com/rabbitstack/fibratus) -探索和跟踪Windows内核的工具.
 * [IREC](https://binalyze.com/products/irec-free/)  -多合一的IR证据收集器，可捕获RAM映像，$ MFT，EventLogs，WMI脚本，注册表配置单元，系统还原点等等.  它是免费的，闪电般快速且易于使用.
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html)  -Mandiant提供的免费工具，用于收集主机系统数据并报告危害指标（IOC）的存在.  仅支持Windows.
+* [IRTriage](https://github.com/AJMartel/IRTriage) -事件响应分类-用于取证分析的Windows证据收集.
 * [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner)  -Fidelis网络安全提供的免费工具，该工具使用OpenIOC和YARA规则报告端点状态.  用户提供OpenIOC和YARA规则并执行该工具.  ThreatScanner可以测量系统状态，运行完成后，将生成任何匹配规则的报告.  仅Windows.
 * [LOKI](https://github.com/Neo23x0/Loki) -免费的IR扫描仪，可使用yara规则和其他指示器（IOC）扫描端点.
 * [MEERKAT](https://github.com/TonyPhipps/Meerkat) -Windows的基于PowerShell的分类和威胁搜寻.
