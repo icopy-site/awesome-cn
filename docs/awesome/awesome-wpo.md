@@ -198,6 +198,7 @@
 * [Sharp](https://github.com/lovell/sharp) -此高速Node.js模块的典型用例是将多种格式的大图像转换为尺寸较小，对网络友好的JPEG，PNG和WebP图像.
 * [Gm](https://github.com/aheckmann/gm) -用于节点的GraphicsMagick和ImageMagick.
 * [Exexif](https://github.com/h4cc/awesome-elixir) -纯灵丹妙药库，可从jpeg文件提取tiff和exif元数据.
+* [ExifCleaner](https://exifcleaner.com)  -GUI应用程序，可通过拖放操作从图像和视频文件中删除exif元数据.  免费和开源.
 * [OptiPNG](http://optipng.sourceforge.net/) -OptiPNG是PNG优化器，可以将图像文件重新压缩为较小的大小，而不会丢失任何信息.
 * [Grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin) -最小化Grunt的PNG和JPEG图像.
 * [Gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) -使用imagemin为Gulp缩小PNG，JPEG，GIF和SVG图像.

@@ -61,10 +61,11 @@
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) -添加基于CSS类的“深色”变体.
-- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的类名，以显示边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式.
+- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -为边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式的CSS逻辑属性生成类名.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) -添加了“滚动捕捉”实用程序.
 + [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) -将不透明度变体添加到现有颜色.
 + [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) -根据配置的颜色添加“ box-shadow”实用程序.
+- [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) -为带有可配置边框和背景的工具提示箭头添加CSS实用程序.
 
 &gt;-_以下这些插件提供的功能已在最新的Tailwind CSS版本中完全或部分实现.
 
@@ -219,7 +220,7 @@
 -  [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) -使用Tailwind CSS重建Netlify.
 -  [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) -使用Tailwind CSS重建Resolute.
 -  [Let’s Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) -使用Tailwind CSS构建电影制作登录页面.
--  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) -使用Tailwind CSS构建响应式导航栏.
+-  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
 -  [Let’s Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) -用Tailwind CSS拍摄的运球.
 -  [Let’s Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) -使用Tailwind CSS构建Tweet组件.
 -  [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) -使用Tailwind CSS创建模式对话框.
@@ -229,11 +230,11 @@
 -  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
 -  [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中使用Tailwind CSS构建Vue.js组件.
 -  [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
--  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.
--  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
+-  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航。
+-  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
 -  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
 -  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
--  [Rebuilding Airbnb’s Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) - Rebuilding Airbnb’s Home Page with Tailwind CSS.
+-  [Rebuilding Airbnb’s Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
 -  [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 -  [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 -  [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)

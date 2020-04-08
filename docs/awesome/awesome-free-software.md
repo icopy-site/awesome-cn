@@ -108,6 +108,7 @@
 
 ### Utilities
 
+- [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode)  -开源macOS应用程序，可让您从菜单栏或使用键盘快捷键（⌥⌘G）快速切换灰度滤镜.  （[MIT](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
 - [Markdownify](https://markdownify.js.org)  -最小的Markdown编辑器.  （[MIT](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
 - [Sandman](https://alexanderepstein.github.io/Sandman/)  -让您知道何时关闭计算机并根据计算出的睡眠周期进入睡眠状态.  （[MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [Search Deflector](https://spikespaz.com/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  （[MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))

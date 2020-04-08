@@ -17,7 +17,7 @@
 
 ## Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
- 精选的出色命令行框架，工具包，指南和小玩意的列表.  受到awesome-php的启发.  这个很棒的收藏也可以在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
+ 精选的优秀命令行框架，工具包，指南和小玩意的列表.  受到awesome-php的启发.  这个很棒的收藏也可以在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 -[** Awesome Zsh **] [awesome-zsh] [！[Awesome] [awesome-badge]] [awesome-zsh]
 -[** Awesome Fish **] [awesome-fish] [！[Awesome] [awesome-badge]] [[awesome-fish]
 
@@ -31,9 +31,9 @@
 * [ion](https://github.com/redox-os/ion)  -具有简单但功能强大的语法的现代系统外壳.  它完全用Rust编写.
 * [ksh93](https://github.com/att/ast) -康恩·壳
 * [mksh](https://github.com/MirBSD/mksh) -MirBSD Korn Shell
-* [nushell](https://github.com/nushell/nushell) -用Rust编写的现代外壳 
+* [nushell](https://github.com/nushell/nushell) -用Rust编写的现代外壳
 * [oksh](https://github.com/ibara/oksh) -便携式OpenBSD ksh
-* [osh](https://www.oilshell.org) -与Bash兼容，并使用称为Oil的新/现代Unix Shell语言
+* [osh](https://www.oilshell.org) -Bash兼容，与新的/现代的Unix Shell语言称为Oil
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) -公共领域的Korn Shell
 * [shell++](https://github.com/alexst07/shell-plus-plus) -友好而现代的功能和面向对象的Shell脚本语言
 * [shenv](https://github.com/shenv/shenv) -简单的shell版本管理
@@ -61,7 +61,7 @@
 * [borg](https://github.com/ok-borg/borg) -基于终端的bash命令搜索引擎
 * [browsh](https://github.com/browsh-org/browsh) -现代的基于文本的浏览器
 * [Buku](https://github.com/jarun/Buku) -强大的命令行书签管理器
-* [byobu](https://byobu.org/) -基于文本的窗口管理器和终端多路复用器
+* [byobu](https://www.byobu.org) -基于文本的窗口管理器和终端多路复用器
 * [cod](https://github.com/dim-an/cod) — Shell的完成守护程序，可在调用`--help`命令时学习
 * [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 * [CloudClip](https://github.com/skywind3000/CloudClip) -您在云端的剪贴板，在不同系统之间根据要点复制和粘贴文本
@@ -182,7 +182,7 @@
 * [hub](https://github.com/github/hub) -集线器可帮助您在git上获胜.
 * [licins](https://github.com/dogoncouch/licins) -将注释的软件许可证插入源代码.
 * [mkdkr](https://github.com/rosineygp/mkdkr) -Makefile + Docker = CI管道
-* [mr](https://myrepos.branchable.com) - Multiple Repository management tool
+* [mr](https://myrepos.branchable.com) -多个存储库管理工具
 * [overcommit](https://github.com/sds/overcommit) -完全可配置和可扩展的Git挂钩管理器
 * [pre-commit](https://pre-commit.com) -用于管理和维护多语言预提交挂钩的框架
 * [rebound](https://github.com/shobrook/rebound) -遇到编译器错误时，立即在终端中浏览堆栈溢出结果
@@ -238,7 +238,7 @@
 * [HTTPLab](https://github.com/gchaincl/httplab) -交互式Web服务器，可让您检查HTTP请求并伪造响应.
 * [ngincat](https://github.com/jaburns/ngincat) -使用netcat的Tiny Bash HTTP服务器
 * [resty](https://github.com/micha/resty) -可在管道中使用的小命令行REST客户端
-* [shell2http](https://github.com/msoap/shell2http)  -HTTP服务器执行Shell命令.  专为开发，原型制作或远程控制而设计
+* [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
 * [vesper](https://github.com/chris-rock/vesper) -Vesper是Bash / Unix Shell的HTTP框架
 * [youtube-dl](https://github.com/ytdl-org/youtube-dl) -小型命令行程序，可从YouTube.com和其他视频网站下载视频
 
@@ -342,9 +342,11 @@
 * [Bashlets](https://github.com/reale/bashlets) -用于Bash的模块化可扩展工具箱
 * [bashmanager](https://github.com/lingtalfi/bashmanager) -用于创建命令行工具的mini bash框架
 * [bashwithnails](https://github.com/mindaugasbarysas/bashwithnails) -一个Bash框架，专门用于测试，依赖性管理和打包
-* [bash-language-server](https://github.com/mads-hartmann/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)基于Bash的语言服务器
+* [bash-language-server](https://github.com/bash-lsp/bash-language-server) - [LSP](https://microsoft.github.io/language-server-protocol/)基于Bash的语言服务器
 * [bats](https://github.com/bats-core/bats-core) -Bash自动化测试系统
 * [crash](https://github.com/molovo/crash) -正确的错误处理，异常和ZSH的try / catch
+* [critic.sh](https://github.com/Checksum/critic.sh) -具有覆盖率报告的针对Bash的简单测试框架
+* [esh](https://github.com/jirutka/esh) -一个简单的基于模板的模板引擎，在POSIX shell和awk的约290行中实现.
 * [Fishtape](https://github.com/jorgebucaran/fishtape) -TAP生产商和鱼用测试装置
 * [composure](https://github.com/erichs/composure) -编写，记录，版本化和组织您的Shell函数
 * [dispatch](https://github.com/Mosai/workshop/blob/master/doc/dispatch.md) -50行可移植Shell脚本中的命令行参数解析器.

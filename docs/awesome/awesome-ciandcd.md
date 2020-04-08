@@ -4,7 +4,7 @@
 
 **持续集成和持续交付**
 
-撰写者 [ciandcd.com](http://www.ciandcd.com)  
+撰写者 [cicdops.com](http://www.cicdops.com)  
 
 精选工具的精选清单：   
 持续集成  
@@ -26,7 +26,7 @@ devops
 ## Build And Release System
 The system for software build and release, continuous integration and continuous delivery  
 * [Jenkins](http://jenkins-ci.org)  可扩展的开源持续集成服务器  
-* [Solano CI](https://www.solanolabs.com)   借助获得专利的自动并行化功能，可以更快地进行持续集成和部署.  查看结果快10到80倍.  14天免费试用.  无需信用卡.
+* [Solano CI](https://www.solanolabs.com)   通过获得专利的自动并行功能，可以更快地进行持续集成和部署.  查看结果快10到80倍.  14天免费试用.  无需信用卡.
 * [Concourse](https://concourse-ci.org) 管道被定义为单个声明性配置文件，而不是无数的复选框
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  自动化并加速构建和发布过程  
 * [ElectricFlow](http://electric-cloud.com/products/electricflow/)   ElectricFlow / ElectricCommander为分布式团队提供了对基础架构，工具链和流程的共享控制和可见性.  它可以加速和自动化软件交付过程，从而跨许多构建-测试-部署管道实现敏捷性，可预测性和安全性  
@@ -41,7 +41,7 @@ The system for software build and release, continuous integration and continuous
 * [FinalBuilder](https://www.finalbuilder.com/)   使用FinalBuilder，使构建过程自动化很简单.  使用FinalBuilder，您无需编辑xml或编写脚本.  可视地定义和调试您的构建脚本，然后使用Windows Scheduler对其进行调度，或者将它们与Continua CI，Jenkins或任何其他CI Server集成  
 * [VisualBuild](http://www.kinook.com/VisBuildPro/)  Visual Build使开发人员和构建大师可以轻松地创建自动化，可重复的构建过程  
 * [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET，一个自动持续集成服务器，使用.NET Framework实现  
-* [continuum](http://continuum.apache.org/) Apache Continuum™是企业级持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理系统的集成等功能.  
+* [continuum](http://continuum.apache.org/) Apache Continuum™是企业级持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理管理系统集成的功能.  
 * [quickbuild](http://www.pmease.com/)   GitHub集成.  Perforce搁置了支持.  覆盖率报告呈现.  颠覆外部变更检索.  资源访问信息.  显示等待步骤的原因.  自定义构建和请求列.  最喜欢的仪表板列表.  可继承的环境变量.还有更多...  
 * [rexify](http://www.rexify.org//)  perl部署和配置管理  
 * [SimpleCI](https://github.com/simpleci/simpleci)  基于Docker的自托管ci系统.  支持分布式构建缓存，外部提供程序（GCE），实时构建日志等.  
@@ -70,7 +70,7 @@ The system for software build and release, continuous integration and continuous
 * [testling](https://ci.testling.com) 每次推送时自动进行浏览器测试  
 * [magnum-ci](https://magnum-ci.com)  托管用于私有存储库的持续集成和交付平台  
 * [wercker](http://wercker.com)  轻松测试和部署您的应用程序  
-* [codecov](https://codecov.io)   连续的代码覆盖率.  具有浏览器扩展功能和出色的请求请求注释，可跟踪GitHub / Bitbucket / Gitlab存储库中的覆盖范围  
+* [codecov](https://codecov.io)   连续的代码覆盖率.  具有浏览器扩展功能和出色的请求请求注释，可跟踪GitHub / Bitbucket / Gitlab存储库上的覆盖范围  
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/)  -基于红宝石.  他们还提供了GitLab，用于管理git存储库. 
 * [IBM DevOps Services](https://hub.jazz.net) -在IBM Bluemix云平台上开发，跟踪，计划和部署软件.  
 * [deploybot](https://deploybot.com) -为整个团队以一致的过程立即在任何地方构建和交付代码.
@@ -90,7 +90,7 @@ The system for software build and release, continuous integration and continuous
 硬件，虚拟机，fram管理，docker  
 * [GridWiki](http://wiki.gridengine.info/wiki/index.php/Main_Page)  网格的Wiki页面  
 * [UGE](http://www.univa.com)  Univa工作负载管理解决方案通过在数千台服务器之间有效地共享工作负载来最大化现有计算资源的价值  
-* [SGE](http://gridscheduler.sourceforge.net)   Grid Engine通常用于计算机场或高性能计算（HPC）群集上，并负责接受，调度，调度和管理大量独立，并行或交互式用户作业的远程和分布式执行.  它还管理和调度分配资源的分配，例如处理器，内存，磁盘空间和软件许可证.  
+* [SGE](http://gridscheduler.sourceforge.net)   Grid Engine通常用于计算机场或高性能计算（HPC）群集上，并负责接受，调度，调度和管理大量独立，并行或交互式用户作业的远程和分布式执行.  它还管理和调度分布式资源的分配，例如处理器，内存，磁盘空间和软件许可证.  
 * [LSF](http://www-03.ibm.com/systems/platformcomputing/products/lsf/)   平台负载共享工具（或简称为LSF）是用于分布式HPC环境的工作负载管理平台，作业调度程序.  它可用于在许多不同体系结构的联网Unix和Windows系统上执行批处理作业  
 * [vmwarevshpere](http://www.vmware.com/products/vsphere)  VMware vSphere（以前称为VMware Infrastructure 4）是VMware的云计算虚拟化操作系统  
 * [citrixserver](http://www.citrix.com/products/xenserver/overview.html)   XenServer是用于公共云和私有云的最佳服务器虚拟化平台，为5个最大的托管服务提供商云中的4个提供支持.  XenServer建立在考虑规模，安全性和多租户的基础之上，可提供更大的灵活性和成本效益  
@@ -150,7 +150,7 @@ The system for software build and release, continuous integration and continuous
 软件静态检查工具  
 * [static tools wiki](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) 维基页面  
 * [coverity](http://www.coverity.com/)  持续衡量并改善整个开发组织中的代码质量和安全性  
-* [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  FxCop是一个应用程序，用于分析托管代码程序集（针对.NET Framework公共语言运行时的代码）并报告有关程序集的信息，例如可能的设计，本地化，性能和安全性改进  
+* [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  FxCop是一个应用程序，它分析托管代码程序集（针对.NET Framework公共语言运行时的代码）并报告有关程序集的信息，例如可能的设计，本地化，性能和安全性改进  
 * [cpd](http://pmd.sourceforge.net/pmd-4.3.0/cpd.html)  重复的代码可能很难找到，尤其是在大型项目中.  但是PMD的复制/粘贴检测器（CPD）可以为您找到它  
 * [sonar](http://www.sonarqube.org)  SonarQube是管理代码质量的开放平台  
 * [findbugs](http://findbugs.sourceforge.net)  在Java程序中查找错误   
@@ -223,7 +223,7 @@ The system for software build and release, continuous integration and continuous
 * [nginx](http://nginx.org) 高性能的免费开源Web服务器，为Internet上最繁忙的站点提供支持  
 * [tomcat](http://tomcat.apache.org)  Java Servlet和JavaServer Pages技术的开源软件实现  
 * [jetty](http://www.eclipse.org/jetty/)  
-Jetty提供了Web服务器和javax.servlet容器，并支持SPDY，WebSocket，OSGi，JMX，JNDI，JAAS和许多其他集成  
+Jetty提供了一个Web服务器和javax.servlet容器，并支持SPDY，WebSocket，OSGi，JMX，JNDI，JAAS和许多其他集成  
 * [HAProxy](http://www.haproxy.org/) -基于软件的负载平衡，SSL卸载和性能优化，压缩以及常规Web路由.  
 
 ## OS And Shell

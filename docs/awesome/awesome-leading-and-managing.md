@@ -9,31 +9,34 @@
 
  -“资源真棒！”  —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178)， 推特
 -“再次感谢您整合了这一巨大资源！”[Dave Golden](https://twitter.com/xdg)，MongoDB和贡献者
--“在过去的几个月中，我已经反复狩猎并使用了这种材料，并将其他材料转介给其他人.所以谢谢您-它以比您想象的更多的方式产生了真正的改变！:)”-Dave Igoe，通过Slack
+-“在过去的几个月中，我已经反复狩猎并使用了这种材料，并将许多其他材料推荐给该材料.谢谢您-它以比您想象的更多的方式产生了真正的改变！:)”-戴夫·伊戈伊
 
 - [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
 - [Conflict Prevention and Conflict Resolution](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
 - [Culture](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Culture.md)
+- [Decision-Making](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Decision-Making.md)
+- [Delegation](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Delegation.md)
 - [Diversity and Gender](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Diversity-and-Gender.md)
 - [Firing](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Firing.md)
 - [Giving Feedback, Praise, and Advice](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Giving-Feedback-Praise-and-Advice.md)
 - [Hiring and Interviewing Candidates](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Hiring-and-Interviewing.md)
 - [For Developers: Software Craftspersonship, Teamwork, Technical Debt](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/For-Developers-Teamwork-TechDebt.md)
-- [Influence, Delegation, and Decision-Making](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Influence-Delegation-and-Decision-Making.md)
+- [Influencing Others](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Influencing-Others.md)
 - [Leader List](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leader-List.md)
 - [Leadership Forums](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Forums.md)
 - [Leadership Media](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Media.md)
 - [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
 - [Managing Remotely](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Managing-Remotely.md)
-- [Meetings and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Meetings-and-Time-Management.md)
+- [Meetings](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Meetings.md)
 - [Motivation and “Retention”](https://github.com/LappleApple/awesome-leading-and-managing/blob/master//Motivation-Retention.md)
 - [Onboarding](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Onboarding.md)
 - [One-on-Ones](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/People-Ops-Perf-Reviews-and-Goal-setting.md)
 - [Planning, Roadmaps and Processes](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
 - [Postmortems and Retrospectives](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
+- [Productivity and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 
  *“如果我看得更远，那就是站在巨人的肩膀上.”  —艾萨克·牛顿爵士 <br>

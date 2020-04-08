@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="janikvonrotz/awesome-powershell"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Quality Assurance](https://github.com/janikvonrotz/awesome-powershell/workflows/Quality%20Assurance/badge.svg)
 
 [<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
@@ -44,7 +44,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [Learn PowerShell in a Month of Lunches, Linux and macOS Edition](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition) -以任务为中心的教程，用于使用Microsoft PowerShell管理Linux和macOS系统.
 * [Learn PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches) -有关开发，测试和部署脚本的过程以及工具制作技巧的指南.
 * [The Monad Manifesto, Annotated - Jeffrey Snover](https://leanpub.com/s/4W-ob-YDw2LE2aSMyosCtA.pdf) -语言创建者背后的设计和理论.
-* [Windows PowerShell Networking Guide](https://leanpub.com/s/QRQJjPFKqmeA7Hw5Cgk-KA.pdf) -Windows网络特定于语言的指南.
+* [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide/read) -Windows网络特定于语言的指南.
 * [Why PowerShell? - Warren Frame & Don Jones](https://leanpub.com/s/aQDRwmoOi940mX_EB6N7Yg.pdf) -语言的用例.
 * [The Big Book of PowerShell Gotchas - Don Jones](https://leanpub.com/s/lDl9ZV0QW7zaE4BpitXVig.pdf) -避免常见陷阱的出色指南.
 * [The Big Book of PowerShell Error Handling - Dave Wyatt](https://leanpub.com/s/znHIFrvBAYRST5nFBiQU5g.pdf) -错误处理技术的重要参考.
@@ -82,7 +82,6 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 ## Communities
 
-* [PowerShell.com](http://powershell.com/) -论坛，博客文章等.
 * [PowerShell.org](http://powershell.org/) -论坛，峰会，社区博客文章等.
 * [/r/PowerShell](http://www.reddit.com/r/powershell) -Reddit PowerShell社区.
 * [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
@@ -98,7 +97,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [PowerShell Studio](https://www.sapien.com/software/powershell_studio) -强大的PowerShell IDE，具有模块，帮助和用户界面开发工具，高DPI支持和定期更新.
 * [PowerShell for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) -提供IntelliSense，代码导航，脚本分析，脚本调试等功能， [Visual Studio Code](https://code.visualstudio.com) 编辑.
 * [PoshTools for Visual Studio](https://github.com/adamdriscoll/PoshTools) -为PowerShell to Visual Studio提供IntelliSense，脚本调试和Pester测试支持.
-* [PowerShell ISE](https://msdn.microsoft.com/en-us/powershell/scripting/core-powershell/ise/using-the-windows-powershell-ise) -Microsoft Windows附带的官方PowerShell开发环境.
+* [PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise) -Microsoft Windows附带的官方PowerShell开发环境.
 * [ISE Steroids](http://www.powertheshell.com/isesteroids/) -PowerShell ISE的附件，它提供了一组丰富的附加功能来完善ISE开发体验.
 * [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) -多合一的IDE.
 * [SublimeText package](https://github.com/SublimeText/PowerShell) -对Sublime Text的PowerShell语言支持.

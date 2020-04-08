@@ -12,7 +12,7 @@
 	
 </div>
 
-What is BioIE? It includes any effort to extract structured information from _unstructured_ (or, at least inconsistently structured) biological, clinical, or other biomedical data. The data source is often some collection of text documents written in technical language. If the resulting information is verifiable and consistent across sources, we may then consider it _knowledge_. Extracting information and producing knowledge from bio data requires adaptations upon methods developed for other types of unstructured data.
+ 什么是BioIE？  它包括从非结构化（或至少不一致结构化）的生物学，临床或其他生物医学数据中提取结构化信息的任何努力.  数据源通常是一些用技术语言编写的文本文档的集合.  如果结果信息在各个来源之间都是可验证的且一致的，那么我们可以考虑_knowledge_.  从生物数据中提取信息并产生知识需要适应为其他类型的非结构化数据开发的方法.
 
  此处包含的资源优先是那些无须花费金钱和有限许可要求的资源.  方法和数据集应公开可用并积极维护.
 
@@ -85,7 +85,7 @@ _请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie
 BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根据给定的数据集开发自己的计算解决方案.
 
 * [BioASQ](http://bioasq.org/)  -生物医学语义索引和问题解答方面的挑战.  自2013年以来，每年举行一次挑战赛和研讨会.
-* [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) -自2004年以来就组织了这些研讨会，BioCreative VI于2017年2月举行， [BioCreative/OHNLP Challenge](https://sites.google.com/view/ohnlp2018/home) 于2018年举行.请参阅 [Datasets](#datasets) 下面. 
+* [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) -自2004年以来就组织了这些研讨会，BioCreative VI于2017年2月举行， [BioCreative/OHNLP Challenge](https://sites.google.com/view/ohnlp2018/home) 于2018年举行.请参阅 [Datasets](#datasets) below. 
 * [SemEval workshop](http://alt.qcri.org/semeval2020/)  -计算语义分析中的任务和评估.  任务因年份而异，但通常涵盖科学和/或生物医学语言，例如 [SemEval-2019 Task 12 on Toponym Resolution in Scientific Papers](https://competitions.codalab.org/competitions/19948).
 * [eHealth-KD](https://knowledge-learning.github.io/ehealthkd-2019/)  -鼓励“开发软件技术以自动从以西班牙语编写的eHealth文档中提取大量知识的挑战”.  以前作为 [TASS](http://www.sepln.org/workshops/tass/)，每年一次的西班牙语语义分析研讨会.
 
@@ -178,10 +178,11 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 * [BioCreAtIvE V CDR Task Corpus (BC5CDR)](https://biocreative.bioinformatics.udel.edu/accounts/login/?next=/resources/corpora/biocreative-v-cdr-corpus/) - [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw068/2630414)  -2014年或以后发表的1,500篇文章（标题和摘要）被注释了4,409种化学物质，5,818种疾病和3116种化学-疾病相互作用.  需要注册.
 * [BioCreative VI CHEMPROT Corpus](https://biocreative.bioinformatics.udel.edu/resources/corpora/chemprot-corpus-biocreative-vi/#chemprot-corpus-biocreative-vi:downloads) - [paper](https://pdfs.semanticscholar.org/eed7/81f498b563df5a9e8a241c67d63dd1d92ad5.pdf)  -&gt; 2,400篇文章，注明了各种关系类型的化学-蛋白质相互作用.  需要注册.
 * [CRAFT](https://github.com/UCDenver-ccp/CRAFT) - [paper](https://link.springer.com/chapter/10.1007/978-94-024-0881-2_53)  -67篇全文的生物医学文章，以各种方式注释，包括概念和共同引用.  现在是版本3.
-* [n2c2 (formerly i2b2) Data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/)  -哈佛医学院的生物医学信息学系（DBMI）管理着全国NLP临床挑战赛和整合生物学信息学以及床边挑战赛自2006年以来开始的数据.在访问和使用之前，它们需要进行注册.  数据集包括各种主题.  看到 [list of data challenges](https://portal.dbmi.hms.harvard.edu/data-challenges/) 用于个人说明.
+* [n2c2 (formerly i2b2) Data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/)  -哈佛医学院的生物医学信息学系（DBMI）管理着全国NLP临床挑战赛和整合生物学信息学以及床边挑战赛（自2006年开始）的数据.在访问和使用之前，它们需要进行注册.  数据集包括各种主题.  看到 [list of data challenges](https://portal.dbmi.hms.harvard.edu/data-challenges/) 用于个人说明.
 * [NCBI Disease Corpus](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/) - [paper](https://www.sciencedirect.com/science/article/pii/S1532046413001974) -793种生物医学摘要的语料库，标有疾病名称和MeSH和 [OMIM](https://omim.org/).
 * [PubTator Central datasets](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727)  -可通过RESTful API或FTP下载进行访问.  包括对超过2900万份摘要和300万份全文文档的注释.
 * [Word Sense Disambiguation (WSD)](https://wsd.nlm.nih.gov/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223)  -203个歧义词和37,888个自动提取的词在生物医学研究出版物中的使用实例.  需要UTS帐户.
+* [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) -也称为CQC或爱荷华州收藏，这些是医师在办公室就诊时提出的数千个问题以及相关的答案. 
 
 ### Protein-protein Interaction Annotated Corpora
  蛋白间相互作用简称为PPI.  以下几组可用 [BioC format](http://bioc.sourceforge.net/) .  较旧的设置（AIMed，BioInfer，HPRD50，IEPA和LLL）由以下公司提供： [WBI corpora repository](http://corpora.informatik.hu-berlin.de) 最初是由 [group at Turku University](http://mars.cs.utu.fi/PPICorpora/).
@@ -191,7 +192,7 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 * [BioInfer](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/bioinfer_bioc.xml.zip) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-50) -来自生物医学研究摘要的1,100句话，标有关系（包括PPI），命名实体和句法依存关系的注释. [Additional information and download links are here.](http://mars.cs.utu.fi/BioInfer/)
 * [HPRD50](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/hprd50_bioc.xml.zip) - [paper](https://academic.oup.com/bioinformatics/article/23/3/365/236564) -人蛋白质参考数据库参考的50篇科学摘要，标注了PPI.
 * [IEPA](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/iepa_bioc.xml.zip) - [paper](http://psb.stanford.edu/psb-online/proceedings/psb02/abstracts/p326.html) -从生物医学研究摘要中提取的486句注释了共生化学物质对，包括蛋白质（因此，PPI注释）.
-* [LLL](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/lll_bioc.xml.zip) - [paper](https://www.semanticscholar.org/paper/Learning-Language-in-Logic-Genic-Interaction-Nedellec/0863a9d71955341b7e1a6a6877d44d4f0bb22671) -有关枯草芽孢杆菌细菌的研究文章中的77个句子，注释了蛋白质与基因的相互作用（因此，与PPI注释相当接近）. [Additional information is here.](http://genome.jouy.inra.fr/texte/LLLchallenge/#task1)
+* [LLL](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/lll_bioc.xml.zip) - [paper](https://www.semanticscholar.org/paper/Learning-Language-in-Logic-Genic-Interaction-Nedellec/0863a9d71955341b7e1a6a6877d44d4f0bb22671) -有关枯草芽孢杆菌细菌的研究文章中的77个句子，注释了蛋白质-基因相互作用（因此，与PPI注释相当接近）. [Additional information is here.](http://genome.jouy.inra.fr/texte/LLLchallenge/#task1)
 
 ### Other Datasets
 

@@ -62,7 +62,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
  **处理**.  学生可以单独或按组，按顺序或按顺序学习课程.
 -要分组，请使用 [cohorts repository](https://github.com/ossu/cohorts) 查找或创建适合您的同类群组.
 -我们建议您在Core CS中进行所有课程，仅当您确定以前已经学习过这些材料时才跳过课程.
--为简单起见，我们建议您按照从上到下的顺序学习课程（尤其是Core CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) 根据他们的先决条件.
+-为简单起见，我们建议您按照从上到下的顺序学习课程（尤其是Core CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites.
  -高级CS课程为选修课.  选择一个您想成为专家的科目（例如高级编程），并选择该标题下的所有课程.  您也可以创建自己的自定义主题，但是我们建议您从社区中获得关于所选主题的验证.
 
 *不要无视您在每门课程开始时所签署的行为准则*！
@@ -147,6 +147,8 @@ Lisp家庭语言（通过球拍）
 `Ruby`
 还有更多
 
+“如何编码”课程基于教科书 [How to Design Programs](https://htdp.org/2003-09-26/) .  第一版可在线免费获得，其中包括问题集和解决方案.  鼓励学生做这些作业.
+
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)  |  7周  每周8-10个小时|  没有
@@ -221,7 +223,7 @@ Lisp家庭语言（通过球拍）
 
  课程  持续时间|  努力  其他文字/作业|  先决条件
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/) ）|  12周|  每周10-20个小时|  在有关C的各节之后，请跳至下一课程. [Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50)  |  入门编程
+[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/) ）|  12周|  每周10-20个小时|  在有关C的各节之后，请跳至下一课程. [Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50) | introductory programming
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/) ）|  6周  每周7到13个小时|  -|  类似于C的编程语言
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6周  每周12-18个小时|  -|  之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png)，从南德到俄罗斯方块第一部分
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) |  8周  每周4–12小时| [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)  |  代数，概率，基本CS
@@ -249,6 +251,29 @@ Lisp家庭语言（通过球拍）
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy)  |  4周  每周4-8个小时|  图搜索，最短路径和数据结构
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete)  |  4周  每周4-8个小时|  贪婪算法，最小生成树和动态规划
 
+### Core Security
+**涵盖的主题**
+`机密性，完整性，可用性&#39;
+安全设计
+防御性编程
+`威胁和攻击`
+网络安全
+`Cryptography`
+还有更多
+
+ 注意：** _这些课程是临时推荐的_ **.  有一个开放 [Request For Comment](https://github.com/ossu/computer-science/issues/639)  关于安全课程的选择.  鼓励贡献者比较RFC中的各种课程并提供反馈.
+
+ 课程  持续时间|  努力  先决条件
+:-- | :--: | :--: | :--:
+[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data)  |  5周  每周3个小时|  --
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) |  4周  每周4小时|  --
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)  |  4周  每周4小时|  --
+
+选择以下一项：
+ 课程  持续时间|  努力  先决条件
+:-- | :--: | :--: | :--:
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)  |  4周  每周5小时|  --
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications)  |  4周  每周5小时|  --
 
 ### Core applications
 
@@ -301,7 +326,7 @@ GPU编程
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_) ）|  12周|  -|  C，算法
-[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx))| 9 weeks | 6-8 hours/week | none
+[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx) ）|  9周  每周6-8个小时|  没有
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8周  每周6个小时|  Python，面向对象的编程
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)  |  4周  每周6个小时|  Python，编程经验
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness)  |  7周  每周6个小时|  线性代数
@@ -330,7 +355,7 @@ CMOS技术
 [Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) <sup>1</sup> |  7周  每周8-10个小时|  微积分，基本力学
 [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0)  |  7周  每周8-10个小时|  电磁学，第1部分
 [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)  |  10周|  每周6个小时|  电，磁
-[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | 10 weeks | 6 hours/week | Computation Structures 1
+[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)  |  10周|  每周6个小时|  计算结构1
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)  |  10周|  每周6个小时|  计算结构2
 
 ** <sup>1</sup>注**：
@@ -391,7 +416,7 @@ OSS University是**以项目为中心的**.
 
 阅读完所有核心CS和与您相关的高级CS的各个部分后，您应该考虑一个可以使用所学知识解决的问题.
 真实的项目工作不仅在履历表上看起来很棒，而且该项目还将“验证”并“巩固”您的知识.
-您可以创建全新的内容，也可以通过以下网站找到需要帮助的现有项目
+You can create something entirely new, or you can find an existing project that needs help via websites like
 [CodeTriage](https://www.codetriage.com/)
 or
 [First Timers Only](http://www.firsttimersonly.com/).
@@ -428,7 +453,7 @@ or
 
 ### Which programming languages should I use?
 
-My friend, here is the best part of liberty!
+我的朋友，这是自由的最好部分！
 您可以使用要完成最终项目的任何语言.
 
 重要的是要“内化”核心概念，并使其能够与所需的任何工具（编程语言）一起使用.

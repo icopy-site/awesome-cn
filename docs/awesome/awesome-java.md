@@ -221,7 +221,7 @@ _有助于实现 [Inversion of Control](https://en.wikipedia.org/wiki/Inversion_
 - [Dagger](https://dagger.dev/) -编译时注入框架，无需反思.
 - [Feather](https://github.com/zsoltherpai/feather) -符合JSR-330的超轻量级依赖注入库.
 - [Governator](https://github.com/Netflix/governator) -扩展了Google Guice的扩展程序和实用程序.
-- [Guice](https://github.com/google/guice) -完善Dagger的轻量级，自以为是的框架.
+- [Guice](https://github.com/google/guice) -轻巧而自以为是的框架，完善了Dagger.
 - [HK2](https://javaee.github.io/hk2/) -轻量级和动态依赖注入框架.
 - [JayWire](https://github.com/vanillasource/jaywire)  -轻量级依赖注入框架.  （仅限LGPL-3.0）
 
@@ -386,6 +386,7 @@ _协助创建HTTP请求和/或绑定响应的库.
 
 _处理到超媒体类型的序列化的库.
 
+- [hate](https://github.com/blackdoor/hate) -根据HAL规范构建对超媒体友好的对象.
 - [JSON-LD](https://github.com/jsonld-java/jsonld-java) -JSON-LD实现.
 - [Siren4J](https://github.com/eserating/siren4j) -警笛规范库.
 
@@ -505,7 +506,7 @@ _提供用于从数据中学习的特定统计算法的工具._
 _帮助客户端之间发送消息以确保协议独立性的工具._
 
 - [Aeron](https://github.com/real-logic/Aeron) -高效，可靠的单播和多播消息传输.
-- [Apache ActiveMQ](https://activemq.apache.org) -实现JMS并将同步转换为异步通信的消息代理.
+- [Apache ActiveMQ](https://activemq.apache.org) - Message broker that implements JMS and converts synchronous to asynchronous communication.
 - [Apache Camel](https://camel.apache.org) -通过企业集成模式将不同的传输API粘合在一起.
 - [Apache Kafka](https://kafka.apache.org) -高吞吐量的分布式消息传递系统.
 - [Apache Pulsar](https://pulsar.apache.org) -分布式发布/子消息系统.
@@ -574,7 +575,7 @@ _其他一切._
 
 _监视生产中的应用程序的工具.
 
-- [Automon](https://github.com/stevensouza/automon) - Combines the power of AOP with monitoring and/or logging tools.
+- [Automon](https://github.com/stevensouza/automon) -将AOP的功能与监视和/或记录工具结合在一起.
 - [LeakCanary](https://github.com/square/leakcanary) -内存泄漏检测.
 - [Failsafe Actuator](https://github.com/zalando/failsafe-actuator) -在弹簧引导环境中对故障安全断路器进行开箱即用的监视.
 - [Glowroot](https://glowroot.org) -开源Java APM.
@@ -630,7 +631,7 @@ _用于构建网络服务器的库.
 - [Drift](https://github.com/airlift/drift) -易于使用的基于注释的库，用于创建Thrift客户端和可序列化的类型.
 - [ServiceTalk](https://github.com/apple/servicetalk) -基于Netty构建的框架，具有针对特定协议量身定制的API，并支持多种编程范例.
 - [sshj](https://github.com/hierynomus/sshj) -以编程方式使用SSH，SCP或SFTP.
-- [TLS Channel](https://github.com/marianobarrios/tls-channel) -通过SSLEngine实现ByteChannel接口，从而启用易于使用的（类似于套接字的）TLS.
+- [TLS Channel](https://github.com/marianobarrios/tls-channel) - Implements a ByteChannel interface over SSLEngine, enabling easy-to-use (socket-like) TLS.
 - [Undertow](http://undertow.io)  -提供基于NIO的阻塞和非阻塞API的Web服务器.  在WildFly中用作网络层.  （仅限LGPL-2.1）
 - [urnlib](https://github.com/slub/urnlib) -表示，解析和编码URN，如RFC 2141中所示.（仅GPL-3.0）
 
@@ -727,7 +728,7 @@ _框架是包含多个类别的多个库的套件.
 - [JNet](http://commons.apache.org/sandbox/commons-jnet/) -JNet允许通过java.net API动态使用注册的URL流处理程序.
 - [JXPath](http://commons.apache.org/proper/commons-jxpath/) -使用XPath语法处理Java Bean的实用程序.
 - [Lang](http://commons.apache.org/proper/commons-lang/) -为java.lang中的类提供额外的功能.
-- [Logging](https://commons.apache.org/proper/commons-logging/) - Wrapper around a variety of logging API implementations.
+- [Logging](https://commons.apache.org/proper/commons-logging/) -各种日志API实现的包装器.
 - [Math](http://commons.apache.org/proper/commons-math/) -轻巧，独立的数学和统计组件.
 - [Monitoring](http://commons.apache.org/sandbox/commons-monitoring/) -监视旨在为Java应用程序提供一个简单但可扩展的监视解决方案.
 - [Nabla](http://commons.apache.org/sandbox/commons-nabla/) -Nabla提供了自动区分类，可以生成以Java语言实现的任何功能的派生类.
@@ -743,13 +744,13 @@ _框架是包含多个类别的多个库的套件.
 - [SCXML](http://commons.apache.org/proper/commons-scxml/) -旨在创建和维护Java SCXML引擎的State Chart XML规范的实现.
 - [Validator](http://commons.apache.org/proper/commons-validator/) -在xml文件中定义验证器和验证规则的框架.
 - [VFS](http://commons.apache.org/proper/commons-vfs/) -虚拟文件系统组件，用于将文件，FTP，SMB，ZIP等视为单个逻辑文件系统.
-- [Weaver](http://commons.apache.org/proper/commons-weaver/) - Provides an easy way to enhance (weave) compiled bytecode.
+- [Weaver](http://commons.apache.org/proper/commons-weaver/) -提供一种简单的方法来增强（编织）已编译的字节码.
 
 #### Other
 
 - [CUBA Platform](https://www.cuba-platform.com/) -基于Spring，EclipseLink和Vaadin的具有丰富Web界面的企业应用程序开发高级框架.
 - [Light-4J](https://github.com/networknt/light-4j/) -内置的快速，轻量级和高效的微服务框架 [security](https://github.com/networknt/light-oauth2/).
-- [Orienteer](https://github.com/OrienteerBAP/Orienteer/) -开源业务应用程序平台，用于快速配置/开发CRM，ERP，LMS和其他应用程序.
+- [Orienteer](https://github.com/OrienteerBAP/Orienteer/) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
 - [Spring](https://spring.io/projects/) -提供许多用于依赖项注入，面向方面的编程，安全性等的程序包.
 
 ### Processes
@@ -772,7 +773,7 @@ _用于开发响应式应用程序的库.
 
 ### REST Frameworks
 
-_专门用于创建RESTful服务的框架.
+_Frameworks specifically for creating RESTful services._
 
 - [Dropwizard](https://github.com/dropwizard/dropwizard) -通过Jetty，Jackson，Jersey和Metrics建立现代Web应用程序的自有框架.
 - [Elide](https://elide.io) -基于JPA数据模型的JSON-或GraphQL-API的框架.
@@ -833,7 +834,7 @@ _Libraries that handle security, authentication, authorization or session manage
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) -用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)  多平台高级密码库提供了易于使用的加密来保护敏感数据：具有前向保密性的安全消息传递，安全数据存储（AES256GCM）；  适用于构建端到端的加密应用程序.
 - [Tink](https://github.com/google/tink) -为常见的加密任务提供了一个简单且防误用的API.
-- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的密钥/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
+- [Vault](https://www.vaultproject.io)  -保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭证等.
 
 ### Serialization
 
@@ -1076,7 +1077,7 @@ _编程时要看或听的东西._
 - [Java](https://twitter.com/java) -官方Java Twitter帐户.
 - [Javin Paul](https://twitter.com/javinpaul) -著名的Java博客.
 - [Josh Long](https://twitter.com/starbuxman) -Pivotal的Spring Advocate，是O&#39;Reilly的Cloud Native Java和使用Spring Boot构建微服务JavaOne Rock Star的作者.
-- [Lukas Eder](https://twitter.com/lukaseder) - Java Champion, speaker, JUG.ch co-leader, Founder and CEO Data Geekery (jOOQ).
+- [Lukas Eder](https://twitter.com/lukaseder) -Java冠军，演讲者，JUG.ch联合负责人，Data Geekery（jOOQ）的创始人兼首席执行官.
 - [Mario Fusco](https://twitter.com/mariofusco) -RedHatter，JUG协调员，常任发言人和作家.
 - [Mark Heckler](https://twitter.com/MkHeck) -Pivotal首席技术专家兼开发倡导者，会议发言人，已发表的作者和Java Champion，主要关注物联网和云.
 - [Mark Reinhold](https://twitter.com/mreinhold) -Oracle Java平台组首席架构师.

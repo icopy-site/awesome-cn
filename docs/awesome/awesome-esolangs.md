@@ -7,7 +7,7 @@
 精选的深奥编程语言和资源清单.
 
 
-&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以以编程语言或作为玩笑，而不是实际使用.”  
+&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以被编程或作为玩笑，而不是用于实际用途.”  
 &gt; *** esolang.org ***
 
 
@@ -15,6 +15,7 @@
 
 ## Languages
 
+* [78](https://github.com/oatmealine/78) -围绕数字7和8的单字符命令语言.
 * [Ajsone](https://www.quaxio.com/ajsone) -语言完全以JSON定义.
 * [Befunge](https://esolangs.org/wiki/Befunge) -二维语言.
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) -仅使用8个单字符命令的极简语言.
@@ -45,7 +46,7 @@
 * [Piet](http://www.dangermouse.net/esoteric/piet.html)  -使用颜色作为代码的程序看起来像抽象绘画的语言.  以Piet Mondrian的名字命名.
 * [Shakespeare](http://shakespearelang.sourceforge.net) -代码看起来像是莎士比亚戏剧的语言.
 * [Suzy](https://github.com/gvx/suzy) -以Befunge为灵感的3D语言.
-* [Thue](https://github.com/jcolag/Thue) -* Matrioshka *语言，基于半确定语法的不确定性字符串重写.
+* [Thue](https://github.com/jcolag/Thue) -基于半确定语法的不确定字符串重写的* Matrioshka *语言.
 * [Turtle](https://github.com/TypeMonkey/Turtle) -将长期存储用于内存使用.
 * [Unary](https://esolangs.org/wiki/Unary) -基于Brainfuck的语言，其中所有命令均为0.
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.

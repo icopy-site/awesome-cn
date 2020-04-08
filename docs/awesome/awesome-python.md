@@ -28,6 +28,7 @@
 *算法和设计模式的Python实现.
 
 * [algorithms](https://github.com/keon/algorithms) -Python中数据结构和算法的最小示例.
+* [more-itertools](https://github.com/erikrose/more-itertools) -除了`itertools`之外，还有更多的可迭代操作例程.
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) -一个简单而有效的库，用于实现常见的设计模式.
 * [python-patterns](https://github.com/faif/python-patterns) -Python中的设计模式集合.
 * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) -SortedList，SortedDict和SortedSet类型的快速，纯Python实现.
@@ -51,7 +52,7 @@
 
 *音频
     * [audioread](https://github.com/beetbox/audioread) -跨库（GStreamer +核心音频+ MAD + FFmpeg）音频解码.
-    * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    * [dejavu](https://github.com/worldveil/dejavu) -音频指纹识别.
     * [mingus](http://bspaans.github.io/python-mingus/) -带有MIDI文件和播放支持的高级音乐理论和乐谱包.
     * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) -音频特征提取，分类，分段和应用.
     * [pydub](https://github.com/jiaaro/pydub) -通过简单易用的高级界面处理音频.
@@ -175,16 +176,19 @@
     * [cookiecutter](https://github.com/audreyr/cookiecutter) -从cookiecutter（项目模板）创建项目的命令行实用程序.
     * [doitlive](https://github.com/sloria/doitlive) -在终端中进行实时演示的工具.
     * [howdoi](https://github.com/gleitz/howdoi) -通过命令行即时编码答案.
+    * [Invoke](https://github.com/pyinvoke/invoke#readme) -一种工具，用于管理面向外壳的子流程，并将可执行的Python代码组织到CLI可以调用的任务中.
     * [PathPicker](https://github.com/facebook/PathPicker) -从bash输出中选择文件.
     * [percol](https://github.com/mooz/percol) -在UNIX上的传统管道概念中增加了交互式选择的风格.
     * [thefuck](https://github.com/nvbn/thefuck) -更正先前的控制台命令.
-    * [tmuxp](https://github.com/tony/tmuxp) - 一种 [tmux](https://github.com/tmux/tmux) 会话管理器.
+    * [tmuxp](https://github.com/tony/tmuxp) - 一个 [tmux](https://github.com/tmux/tmux) 会话管理器.
     * [try](https://github.com/timofurrer/try) -死了的简单CLI，可以试用python软件包-从未如此简单.
 * CLI增强功能
     * [httpie](https://github.com/jakubroztocil/httpie) -命令行HTTP客户端，方便用户的cURL替换.
     * [kube-shell](https://github.com/cloudnativelabs/kube-shell) -用于Kubernetes CLI的集成外壳.
-    * [mycli](https://github.com/dbcli/mycli) -具有自动完成功能和语法突出显示功能的MySQL终端客户端.
-    * [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的Postgres CLI.
+    * [mycli](https://github.com/dbcli/mycli) -具有自动补全功能和语法突出显示功能的MySQL CLI.
+    * [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的PostgreSQL CLI.
+    * [iredis](https://github.com/laixintao/iredis) -具有自动完成功能和语法突出显示功能的Redis CLI.
+    * [litecli](https://github.com/dbcli/litecli) -具有自动完成功能和语法突出显示功能的SQLite CLI.
     * [saws](https://github.com/donnemartin/saws) -增压 [aws-cli](https://github.com/aws/aws-cli).
 
 ## Compatibility
@@ -221,7 +225,7 @@
 
 * [configobj](https://github.com/DiffSK/configobj) -带有验证的INI文件解析器.
 * [configparser](https://docs.python.org/3/library/configparser.html) -（Python标准库）此解析器文件.
-* [profig](https://profig.readthedocs.io/en/default/) -通过值转换从多种格式进行配置.
+* [profig](https://profig.readthedocs.io/en/latest/) -通过值转换从多种格式进行配置.
 * [python-decouple](https://github.com/henriquebastos/python-decouple) -严格将设置与代码分开.
 
 ## Cryptography
@@ -239,7 +243,7 @@
 * [Open Mining](https://github.com/mining/mining) -熊猫界面中的商业智能（BI）.
 * [Orange](https://orange.biolab.si/) -通过可视化编程或脚本进行数据挖掘，数据可视化，分析和机器学习.
 * [Pandas](http://pandas.pydata.org/) -提供高性能，易于使用的数据结构和数据分析工具的库.
-* [Optimus](https://github.com/ironmussa/Optimus) -使用PySpark简化了敏捷数据科学工作流程.
+* [Optimus](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with PySpark.
 
 ## Data Validation
 
@@ -265,7 +269,7 @@
 * [plotnine](https://github.com/has2k1/plotnine) -基于ggplot2的Python图形语法.
 * [Matplotlib](http://matplotlib.org/) -Python 2D绘图库.
 * [Pygal](http://www.pygal.org/en/latest/) -Python SVG Charts Creator.
-* [PyGraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
+* [PyGraphviz](https://pypi.org/project/pygraphviz/) -Python接口 [Graphviz](http://www.graphviz.org/).
 * [PyQtGraph](http://www.pyqtgraph.org/) -交互式和实时2D / 3D /图像绘制以及科学/工程小部件.
 * [Seaborn](https://github.com/mwaskom/seaborn) -使用Matplotlib可视化统计数据.
 * [VisPy](https://github.com/vispy/vispy) -基于OpenGL的高性能科学可视化.
@@ -305,7 +309,7 @@
 
 *用于处理日期和时间的库.*
 
-* [Chronyk](https://github.com/KoffeinFlummi/Chronyk) -一个Python 3库，用于解析人类编写的时间和日期.
+* [Chronyk](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates.
 * [dateutil](https://github.com/dateutil/dateutil) -对标准Python的扩展 [datetime](https://docs.python.org/3/library/datetime.html) 模块.
 * [delorean](https://github.com/myusuf3/delorean/) -一个库，用于清除与日期时间有关的不便事实.
 * [moment](https://github.com/zachwill/moment)  -用于处理日期/时间的Python库.  受启发 [Moment.js](http://momentjs.com/).
@@ -325,7 +329,7 @@
     * [pudb](https://github.com/inducer/pudb) -基于控制台的全屏Python调试器.
     * [wdb](https://github.com/Kozea/wdb) -通过WebSocket的不可能的Web调试器.
 *追踪
-    * [lptrace](https://github.com/khamidou/lptrace) - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) 适用于Python程序.
+    * [lptrace](https://github.com/khamidou/lptrace) - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) for Python programs.
     * [manhole](https://github.com/ionelmc/python-manhole) -调试UNIX套接字连接，并显示所有线程的堆栈跟踪和交互式提示.
     * [pyringe](https://github.com/google/pyringe) -能够附加到Python进程并将代码注入到Python进程中的调试器.
     * [python-hunter](https://github.com/ionelmc/python-hunter) -灵活的代码跟踪工具包.
@@ -395,6 +399,8 @@
 * [py2exe](http://www.py2exe.org/) -冻结Python脚本（Windows）.
 * [PyInstaller](https://github.com/pyinstaller/pyinstaller) -将Python程序转换为独立的可执行文件（跨平台）.
 * [pynsist](http://pynsist.readthedocs.io/en/latest/) -安装Windows的工具，安装程序捆绑Python本身.
+* [pyarmor](https://github.com/dashingsoft/pyarmor) -用于混淆python脚本，将混淆的脚本绑定到固定计算机或使混淆的脚本过期的工具.
+* [shiv](https://github.com/linkedin/shiv) -命令行实用程序，用于构建完全独立的zipapp（PEP 441），但包括其所有依赖性.
 
 ## Documentation
 
@@ -413,6 +419,7 @@
 * [s4cmd](https://github.com/bloomreach/s4cmd) -超级S3命令行工具，可提高性能.
 * [you-get](https://you-get.org/) -用Python 3编写的YouTube / Youku / Niconico视频下载器.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) -一个小的命令行程序，可以从YouTube下载视频.
+* [akshare](https://github.com/jindaxiang/akshare) -为人类建立的财务数据接口库！
 
 ## E-commerce
 
@@ -469,6 +476,12 @@
 * [pyenv](https://github.com/pyenv/pyenv) -简单的Python版本管理.
 * [virtualenv](https://github.com/pypa/virtualenv) -创建隔离的Python环境的工具.
 
+## Event Management
+
+*用于管理事件的工具和库.
+
+* [indico](https://github.com/indico/indico) -功能丰富的事件管理系统，由@ [CERN](https://en.wikipedia.org/wiki/CERN).
+
 ## Files
 
 *用于文件操作和MIME类型检测的库.
@@ -510,6 +523,7 @@
 * [fn.py](https://github.com/kachayev/fn.py) -Python中的函数式编程：实现缺少功能以享受FP.
 * [funcy](https://github.com/Suor/funcy) -精美实用的功能工具.
 * [Toolz](https://github.com/pytoolz/toolz) -用于迭代器，函数和字典的函数实用程序的集合.
+* [returns](https://github.com/dry-python/returns) -一组类型安全的Monad，变形金刚和合成工具.
 
 ## GUI Development
 
@@ -536,7 +550,7 @@
 *使用GraphQL的库.*
 
 * [tartiflette](https://tartiflette.io) -适用于Python 3.6及更高版本和asyncio的SDL优先GraphQL引擎实现.
-* [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) -Tartiflette的基于aiohttp的包装器，用于通过HTTP公开GraphQL API.
+* [tartiflette-aiohttp](https://github.com/tartiflette/tartiflette-aiohttp/) -一个基于aiohttp的包装，用于Tartiflette，以通过HTTP公开GraphQL API.
 * [tartiflette-asgi](https://github.com/tartiflette/tartiflette-asgi/) -ASGI支持Tartiflette GraphQL引擎.
 
 ## Game Development
@@ -633,7 +647,7 @@
 * [Numba](http://numba.pydata.org/) -针对科学Python的LLVM的Python JIT编译器.
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) -嵌入在Python中的x86-64汇编器.
 * [Pyjion](https://github.com/Microsoft/Pyjion) -基于CoreCLR的Python JIT.
-* [PyPy](https://bitbucket.org/pypy/pypy) -Python语言的非常快速且合规的实现.
+* [PyPy](https://foss.heptapod.net/pypy/pypy) -Python语言的非常快速且合规的实现.
 * [Pyston](https://github.com/dropbox/pyston) -使用JIT技术的Python实现.
 * [Stackless Python](https://github.com/stackless-dev/stackless) -Python编程语言的增强版本.
 
@@ -658,7 +672,7 @@
 *用于计划作业的库.*
 
 * [APScheduler](http://apscheduler.readthedocs.io/en/latest/) -轻巧但功能强大的进程内任务计划程序，可让您计划功能.
-* [django-schedule](https://github.com/thauber/django-schedule) -适用于Django的日历应用程序.
+* [django-schedule](https://github.com/thauber/django-schedule) - A calendaring app for Django.
 * [doit](http://pydoit.org/) -任务运行器和构建工具.
 * [gunnery](https://github.com/gunnery/gunnery) -具有基于Web界面的分布式系统的多功能任务执行工具.
 * [Joblib](https://joblib.readthedocs.io/) -一组用于在Python中提供轻量级流水线的工具.
@@ -717,12 +731,12 @@
     * [gensim](https://github.com/RaRe-Technologies/gensim) -人类主题建模.
     * [langid.py](https://github.com/saffsd/langid.py) -独立的语言识别系统.
     * [nltk](http://www.nltk.org/) -用于构建Python程序以使用人类语言数据的领先平台.
-    * [pattern](https://github.com/clips/pattern) -用于Python的网络挖掘模块.
+    * [pattern](https://github.com/clips/pattern) -网络挖掘模块.
     * [polyglot](https://github.com/aboSamoor/polyglot) -支持数百种语言的自然语言管道.
-    * [pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
+    * [pytext](https://github.com/facebookresearch/pytext) -基于PyTorch的自然语言建模框架.
     * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) -一个工具包，可用于研究的快速深度学习NLP原型.
     * [spacy](https://spacy.io/) -使用Python和Cython进行工业强度自然语言处理的库.
-    * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) -Stanford NLP Group的官方Python库，支持50多种语言.
+    * [Stanza](https://github.com/stanfordnlp/stanza) -Stanford NLP Group的官方Python库，支持60多种语言.
 -中文
     * [jieba](https://github.com/fxsjy/jieba) -最受欢迎的中文文本分割库.
     * [pkuseg-python](https://github.com/lancopku/pkuseg-python) -用于各个领域的中文分词的工具包.
@@ -864,6 +878,7 @@
 * [Biopython](http://biopython.org/wiki/Main_Page) -Biopython是一套免费的生物计算工具.
 * [cclib](http://cclib.github.io/) -用于解析和解释计算化学软件包结果的库.
 * [Colour](http://colour-science.org/) -实施大量的色彩理论转换和算法.
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub) -用于图形结构化数据的无监督机器学习工具箱.
 * [NetworkX](https://networkx.github.io/) -用于复杂网络的高生产率软件.
 * [NIPY](http://nipy.org) -神经影像工具箱的集合.
 * [NumPy](http://www.numpy.org/) -使用Python进行科学计算的基本软件包.
@@ -913,8 +928,8 @@
     * [tablib](https://github.com/jazzband/tablib) -XLS，CSV，JSON，YAML中的表格数据集模块.
 *办公室
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) -用于读取和写入Excel 2010 xlsx / xlsm / xltx / xltm文件的库.
-    * [pyexcel](https://github.com/pyexcel/pyexcel) -提供一个用于读取，操作和写入csv，ods，xls，xlsx和xlsm文件的API.
-    * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
+    * [pyexcel](https://github.com/pyexcel/pyexcel) -提供一种用于读取，操作和写入csv，ods，xls，xlsx和xlsm文件的API.
+    * [python-docx](https://github.com/python-openxml/python-docx) -读取，查询和修改Microsoft Word 2007/2008 docx文件.
     * [python-pptx](https://github.com/scanny/python-pptx) -用于创建和更新PowerPoint（.pptx）文件的Python库.
     * [unoconv](https://github.com/unoconv/unoconv) -在LibreOffice / OpenOffice支持的任何文档格式之间转换.
     * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) -用于创建Excel .xlsx文件的Python模块.
@@ -922,7 +937,7 @@
     * [xlwt](https://github.com/python-excel/xlwt) / [xlrd](https://github.com/python-excel/xlrd) -从Excel文件写入和读取数据以及格式化信息.
 * PDF
     * [PDFMiner](https://github.com/euske/pdfminer) -从PDF文档中提取信息的工具.
-    * [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.
+    * [PyPDF2](https://github.com/mstamy2/PyPDF2) -能够拆分，合并和转换PDF页面的库.
     * [ReportLab](https://www.reportlab.com/opensource/) -允许快速创建丰富的PDF文档.
 *降价
     * [Mistune](https://github.com/lepture/mistune) -Markdown最快且功能齐全的纯Python解析器.
@@ -930,8 +945,8 @@
 * YAML
     * [PyYAML](http://pyyaml.org/) -适用于Python的YAML实现.
 * CSV
-    * [csvkit](https://github.com/wireservice/csvkit) -用于转换为CSV并与CSV合作的实用程序.
-*存档
+    * [csvkit](https://github.com/wireservice/csvkit) - Utilities for converting to and working with CSV.
+* Archive
     * [unp](https://github.com/mitsuhiko/unp) -可以轻松解压缩档案的命令行工具.
 
 ## Static Site Generator
@@ -945,7 +960,7 @@
 
 ## Tagging
 
-*用于标记项目的库.*
+*Libraries for tagging items.*
 
 * [django-taggit](https://github.com/jazzband/django-taggit) -Django的简单标记.
 
@@ -1030,7 +1045,7 @@
     * [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
     * [shortuuid](https://github.com/skorokithakis/shortuuid) -生成器库，用于生成简洁，明确和URL安全的UUID.
 *解析器
-    * [ply](https://github.com/dabeaz/ply) - Implementation of lex and yacc parsing tools for Python.
+    * [ply](https://github.com/dabeaz/ply) -为Python实现lex和yacc解析工具.
     * [pygments](http://pygments.org/) -通用语法荧光笔.
     * [pyparsing](https://github.com/pyparsing/pyparsing) -用于生成解析器的通用框架.
     * [python-nameparser](https://github.com/derek73/python-nameparser) -将人名解析为其各个组成部分.
@@ -1045,7 +1060,7 @@
 * [apache-libcloud](https://libcloud.apache.org/) -一个适用于所有云的Python库.
 * [boto3](https://github.com/boto/boto3) -Amazon Web Services的Python接口.
 * [django-wordpress](https://github.com/istrategylabs/django-wordpress) -Django的WordPress模型和视图.
-* [facebook-sdk](https://github.com/mobolic/facebook-sdk) -Facebook平台Python SDK.
+* [facebook-sdk](https://github.com/mobolic/facebook-sdk) - Facebook Platform Python SDK.
 * [google-api-python-client](https://github.com/google/google-api-python-client) -适用于Python的Google API客户端库.
 * [gspread](https://github.com/burnash/gspread) -Google Spreadsheets Python API.
 * [twython](https://github.com/ryanmcgrath/twython) -Twitter API的Python包装器.
@@ -1071,7 +1086,7 @@
 
 *用于管理，压缩和最小化网站资产的工具.*
 
-* [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
+* [django-compressor](https://github.com/django-compressor/django-compressor) -将链接的和内联的JavaScript或CSS压缩到单个缓存的文件中.
 * [django-pipeline](https://github.com/jazzband/django-pipeline) -Django的资产包装库.
 * [django-storages](https://github.com/jschneier/django-storages) -Django的自定义存储后端集合.
 * [fanstatic](http://www.fanstatic.org/en/latest/) -打包，优化并作为Python包提供静态文件依赖项.
@@ -1083,7 +1098,7 @@
 
 * [html2text](https://github.com/Alir3z4/html2text) -将HTML转换为Markdown格式的文本.
 * [python-readability](https://github.com/buriy/python-readability) -arc90的可读性工具的快速Python端口.
-* [requests-html](https://github.com/psf/requests-html) -人类的Pythonic HTML解析。
+* [requests-html](https://github.com/psf/requests-html) -人类的Pythonic HTML解析.
 * [sumy](https://github.com/miso-belica/sumy) -自动汇总文本文档和HTML页面的模块.
 * [textract](https://github.com/deanmalmgren/textract) -从任何文档，Word，PowerPoint，PDF等中提取文本.
 * [toapi](https://github.com/gaojiuli/toapi) -每个网站都提供API.
@@ -1136,7 +1151,7 @@
 
 ## Resources
 
-Where to discover new Python libraries.
+在哪里发现新的Python库.
 
 ## Podcasts
 
@@ -1147,6 +1162,7 @@ Where to discover new Python libraries.
 * [Radio Free Python](http://radiofreepython.com/)
 * [Talk Python To Me](https://talkpython.fm/)
 * [Test and Code](https://testandcode.com/)
+* [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
 ## Twitter
 
@@ -1174,6 +1190,7 @@ Where to discover new Python libraries.
 * [Real Python](https://realpython.com)
 * [Trending Python repositories on GitHub today](https://github.com/trending?l=python)
 * [Сообщество Python Программистов](https://python-scripts.com/)
+* [Pythonic News](https://news.python.sc/)
 
 ## Weekly
 

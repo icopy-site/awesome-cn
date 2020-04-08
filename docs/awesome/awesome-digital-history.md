@@ -32,7 +32,7 @@
 
 - [e-newspaperarchives.ch](https://www.e-newspaperarchives.ch/) -瑞士报纸.
 - [E-Periodica](https://www.e-periodica.ch/) -瑞士期刊.
-- [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) -自1947年以来，SPIEGEL档案馆.
+- [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) -自1947年以来SPIEGEL档案.
 - [impresso](https://impresso-project.ch/) -瑞士国家图书馆，卢森堡国家图书馆，NeueZürcherZeitung，Le Temps，瓦莱州政府档案馆和瑞士经济档案馆的历史报纸收藏.
 - [Delpher](https://www.delpher.nl/) -来自荷兰报纸，书籍和杂志的一亿多页.
 - [Project Gutenberg](https://www.gutenberg.org/) -超过60,000本免费电子书的图书馆.
@@ -115,7 +115,7 @@
 
 ### Data Analysis
 
-- [Open Semantic Search](https://www.opensemanticsearch.org/) -适用于您自己的搜索引擎的免费软件，用于发现大型文档集合的资源管理器，媒体监视，文本分析，基于Apache Solr或Elasticsearch开源企业级搜索的企业分析和文本挖掘平台以及用于链接数据的开放标准，语义Web和链接的开放数据集成.
+- [Open Semantic Search](https://www.opensemanticsearch.org/) -适用于您自己的搜索引擎的免费软件，用于发现大型文档集合的资源管理器，媒体监视，文本分析，基于Apache Solr或Elasticsearch开源企业搜索的企业文本分析和文本挖掘平台以及链接数据的开放标准，语义Web和链接的开放数据集成.
 - [Data Pen](http://hdlab.stanford.edu/data-pen/) -人文研究人员访问，探索和操纵多维历史数据的框架.
 - [Breve](http://hdlab.stanford.edu/breve/) -可视化和编辑表格数据.
 - [Voyant](https://voyant-tools.org/) -数字文本的阅读和分析环境.

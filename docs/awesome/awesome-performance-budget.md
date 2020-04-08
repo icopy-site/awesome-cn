@@ -72,6 +72,8 @@
 - [Telegraph - Creating a web performance culture](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) -改善《电讯报》的第三方网络性能.
 - [Uber Eats - Performance Improvements](https://eng.uber.com/uber-eats-com-web-app-rewrite/) -计算卡路里：我们如何改善UberEats.com的性能和开发人员体验.
 - [Analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) -改善沃尔玛产品页面的性能.
+- [Walmart - Turbocharging the Speed](https://speakerdeck.com/vasa/turbocharging-walmart-dot-com-speed-without-compromise) -毫不妥协地为沃尔玛网站速度加价.
+- [Wehkamp.nl - How performance budgets and SpeedCurve are helped us](https://medium.com/wehkamp-techblog/how-performance-budgets-and-speedcurve-are-helping-us-keeping-a-high-performant-website-283c0233daba)通过使用速度曲线实施效果预算来保持我们网站的高性能.
 
 ## Contribution
  随时添加一个很棒的列表.  请阅读 [contribution guidelines](https://github.com/pajaydev/awesome-performance-budget/blob/master/CONTRIBUTING.md) 接着 [open a pull request](https://github.com/pajaydev/awesome-web-performance-budget/issues/new)! 

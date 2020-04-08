@@ -6,13 +6,12 @@
 
 
 
-
 ## Platforms
 
 - [Ballerina](https://ballerina.io) -云原生编程语言.
-- [Dapr](https://dapr.io) - Open source runtime for writing highly performant microservices using any programming language.
+- [Dapr](https://dapr.io) -开源运行时，可使用任何编程语言编写高性能的微服务.
 - [Express Serverless](https://www.express-serverless.io/) -一个开源的Kubernetes原生微服务和无服务器平台.
-- [Hook.io](https://hook.io) -微服务和Webhook托管的开源提供商.
+- [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 -[KintoHub！[c]]（https://www.kintohub.com）-微服务软件包管理器，使开发人员能够轻松构建和共享云就绪功能.
 -[Lightbend！[c]]（https://www.lightbend.com/）-用于在JVM上构建可伸缩反应系统的平台.
 - [M3O](https://micro.mu/) -用于微服务开发的无服务器平台.
@@ -21,7 +20,7 @@
 - [OpenWhisk](http://openwhisk.org/) -无服务器的开源云平台，可以执行各种规模的事件响应功能.
 - [Pulumi](https://pulumi.io/)  -用于云原生基础架构的SDK作为代码.  使用您喜欢的语言预览和管理对应用程序和基础结构的更新，并持续部署到任何云（无需YAML）.
 - [STUPS](https://stups.io/) -Zalando的一组工具和组件，可为AWS之上的多个自治团队提供方便且符合审计要求的PaaS.
--[VAMP！[c]]（http://vamp.io/）-轻松构建，部署和管理微服务.
+- [VAMP ![c]](http://vamp.io/) - Build, deploy and manage microservices with power and ease.
 
 ## Frameworks / Runtimes
 
@@ -37,7 +36,7 @@
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Lagom](https://github.com/lagom/lagom) -用于JVM的反应微服务.
 - [Light-4j](https://github.com/networknt/light-4j) -高吞吐量，低延迟，较小的内存占用空间和更高生产率的微服务平台.
-- [Microserver](https://github.com/aol/micro-server) -Java 8本机，零配置，基于标准的，经过战斗加固的库，可以运行Java REST微服务.
+- [Microserver](https://github.com/aol/micro-server) -Java 8本机，零配置，基于标准，经过战斗加固的库，可运行Java REST微服务.
 - [Moleculer](http://moleculer.services/) -适用于Node.js，Java，Go和Ruby的快速而强大的微服务框架.
 - [Open Liberty](https://openliberty.io/) -用于构建快速有效的云原生Java微服务的轻型开放框架.
 - [Orbit](https://github.com/orbit/orbit) -JVM语言的现代框架，使构建和维护分布式和可伸缩的在线服务变得更加容易.
@@ -146,7 +145,7 @@
 - [Liberator](http://clojure-liberator.github.io/liberator/) -帮助您将数据公开为资源，同时自动符合HTTP规范的所有相关要求的库.
 - [Modularity](https://modularity.org/) -JUXT的基于Clojure的模块化系统.
 - [System](https://github.com/danielsz/system) -建立在Stuart Sierra组件库的顶部，提供了一组现成的组件.
-- [Tesla](https://github.com/otto-de/tesla-microservice) - Common basis for some of Otto.de's Clojure microservices.
+- [Tesla](https://github.com/otto-de/tesla-microservice) -Otto.de的Clojure微服务的通用基础.
 
 #### Java
 
@@ -154,7 +153,7 @@
 - [Armeria](https://line.github.io/armeria/) -基于Java 8，Netty，Thrift和gRPC构建的开源异步HTTP / 2 RPC / REST客户端/服务器库.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) -高性能线程间消息传递库.
 - [Dropwizard](https://dropwizard.github.io/) -用于开发对ops友好的高性能RESTful Web服务的Java框架.
-- [Dubbo](http://dubbo.io/) -阿里巴巴开源的基于Java的高性能RPC框架.
+- [Dubbo](https://github.com/apache/dubbo) -阿里巴巴开源的基于Java的高性能RPC框架.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) -用于定义和创建基于Feign或Retrofit的RESTish / RPC服务器和客户端的库，以及基于JAX-RS服务定义的Dropwizard / Jersey的服务器.
 - [Ja-micro](https://github.com/Sixt/ja-micro) -用于构建微服务的轻量级Java框架（与go-micro兼容）.
 - [Jersey](https://jersey.github.io/)  -Java中的RESTful服务.  JAX-RS参考实现.
@@ -180,7 +179,7 @@
 - [Http4s](http://http4s.org/) -HTTP的最小惯用Scala界面
 - [Play](https://www.playframework.com/) -Java和Scala的高速Web框架.
 - [Scalatra](http://scalatra.org/) -简单，可访问且免费的Web微框架.
-- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
+- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) -在Scala中构建servlet应用程序的微网络框架.
 - [Squbs](http://paypal.github.io/squbs/) -一套组件，可在大规模托管云环境中实现Akka和Akka HTTP应用程序/服务的标准化和可操作性.
 
 ### Node.js
@@ -215,7 +214,7 @@
 ### PHP
 
 - [API Platform](https://api-platform.com/) -Symfony之上具有JSON-LD，Schema.org和Hydra支持的API优先的Web框架.
-- [Fat-Free](https://fatfreeframework.com/) -一个功能强大但易于使用的PHP微框架.
+- [Fat-Free](https://fatfreeframework.com/) - A powerful yet easy-to-use PHP micro-framework.
 - [Flight](https://github.com/mikecao/flight) -可扩展的微框架.
 - [Lumen](https://lumen.laravel.com/) -惊人的快速微框架.
 - [Phalcon](https://phalconphp.com/) -作为C扩展提供的全栈PHP框架.
@@ -230,7 +229,7 @@
 - [Bottle](https://bottlepy.org) -适用于Python的快速，简单，轻巧的WSGI微型网络框架.
 - [Connexion](https://github.com/zalando/connexion) -Flask之上的Python Swagger / OpenAPI框架，具有自动端点验证和OAuth2支持.
 - [Falcon](https://falconframework.org/) -裸机Python Web API框架，用于构建非常快速的应用程序后端和微服务.
-- [Flask](http://flask.pocoo.org/) -基于Werkzeug和Jinja 2的微服务Python框架.
+- [Flask](http://flask.pocoo.org/) - Python framework for microservices based on Werkzeug and Jinja 2.
 - [Nameko](https://github.com/onefinestay/nameko) -用于构建微服务的Python框架.
 - [Sanic](https://github.com/channelcat/sanic) -Sanic是类似于Flask的Python 3.5+ Web服务器，其编写速度很快.
 - [Tornado](http://www.tornadoweb.org/) -Web框架和异步网络库.
@@ -246,6 +245,11 @@
 - [Rails API](http://edgeguides.rubyonrails.org/api_app.html) -Rails仅作为API.
 - [Scorched](https://github.com/wardrop/Scorched) -Ruby的轻量级Web框架.
 - [Sinatra](http://www.sinatrarb.com/) -Sinatra是一种DSL，可用于以最少的精力在Ruby中快速创建Web应用程序.
+
+### Rust
+
+- [Are we web yet?](http://www.arewewebyet.org/) -Rust中Web编程的当前状态的摘要.
+- [Tarpc](https://github.com/google/tarpc) -Rust的RPC框架，着重于易用性.
 
 ## Frontend / UI
 
@@ -282,7 +286,7 @@
 - [Træfɪk](http://traefik.io/) -现代HTTP反向代理和负载均衡器，可轻松部署微服务.
 - [Traffic Server](https://github.com/apache/trafficserver) -云服务的高性能构建块.
 - [Tyk](https://tyk.io/) -开源，快速且可扩展的API网关，门户和API管理平台.
-- [Vulcand](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
+- [Vulcand](https://github.com/vulcand/vulcand) -由Etcd支持的程序化负载均衡器.
 - [Zuul](https://github.com/Netflix/zuul) -边缘服务，提供动态路由，监视，弹性，安全性等.
 
 ### Configuration & Discovery
@@ -304,7 +308,7 @@
 
 ### Coordination & Governance
 
--[AWS步骤功能！[c]]（https://aws.amazon.com/step-functions/）-使用可视化工作流协调分布式应用程序和微服务的组件.
+-[AWS Step Functions！[c]]（https://aws.amazon.com/step-functions/）-使用可视化工作流协调分布式应用程序和微服务的组件.
 -[Azuqua！[c]]（https://azuqua.com/）-分布式应用程序的编排和治理平台.
 - [Cadence](https://cadenceworkflow.io/) -可以忽略故障的有状态代码平台.
 - [Conductor](https://github.com/Netflix/conductor) -微服务编排引擎.
@@ -353,7 +357,8 @@
 - [Aeron](https://github.com/real-logic/Aeron) -高效可靠的UDP单播，UDP组播和IPC消息传输.
 - [Apollo](http://activemq.apache.org/apollo/) -从原始ActiveMQ的基础上构建的更快，更可靠，更易于维护的消息传递代理.
 - [Ascoltatori](https://github.com/mcollina/ascoltatori) -Node的发布/订阅库.
-- [Beanstalk](http://kr.github.io/beanstalkd/) -简单，快速的工作队列.
+- [Beanstalk](https://beanstalkd.github.io/) -简单，快速的工作队列.
+- [Bull](https://github.com/OptimalBits/bull) - Fast and reliable Redis-based queue for Node.
 - [Crossbar](https://github.com/crossbario/crossbar)  -用于分布式和微服务应用程序的开源网络平台.  它实现了开放的Web应用程序消息协议（WAMP）.
 - [Disque](https://github.com/antirez/disque) -分布式消息代理.
 - [Eventuate](http://eventuate.io/) -开发异步微服务的平台，用于解决分布式数据管理问题.
@@ -363,6 +368,7 @@
 - [Mosca](http://www.mosca.io/) -MQTT代理作为模块.
 - [Mosquitto](http://mosquitto.org/) -实现MQTT协议的开源消息代理.
 - [Nanomsg](http://nanomsg.org/) -套接字库，为构建分布式系统提供了几种常见的通信模式.
+- [Nanomsg-NG](https://nng.nanomsg.org/) -轻量级无代理消息传递.
 - [NATS](https://nats.io/) -开源，高性能，轻量级的云消息传递系统.
 - [NSQ](http://nsq.io/) -实时分布式消息传递平台.
 - [Pulsar](https://pulsar.apache.org/) -分布式发布订阅邮件系统.
@@ -424,6 +430,7 @@
 - [Login With](https://github.com/lipp/login-with) -用于Google，FB，Github等的微服务无状态登录.
 - [OAuth](http://oauth.net/2/)  -提供针对Web应用程序，桌面应用程序，移动电话和客厅设备的特定授权流程.  许多实现.
 - [OpenID Connect](http://openid.net/developers/libraries/) -实现当前OpenID规范和相关规范的库，产品和工具.
+- [ORY](https://www.ory.sh/) -开源身份基础架构和服务.
 - [OSIAM](https://github.com/osiam/osiam) -实施OAuth 2.0和SCIMv2的开源身份和访问管理.
 - [SCIM](http://www.simplecloud.info/) -跨域身份管理系统.
 - [Vault](https://www.vaultproject.io/) -保护，存储和严格控制对令牌，密码，证书，API密钥和现代计算中其他机密的访问.
@@ -458,10 +465,10 @@
 - [AtlasDB](https://github.com/palantir/atlasdb) -在键值存储之上的事务层.
 - [ClickHouse](https://clickhouse.yandex/) -面向列的数据库管理系统，允许实时生成分析数据报告.
 -[CockroachDB！[c]]（https://www.cockroachlabs.com/）-以Google Spanner为模型的云原生SQL数据库.
-- [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
+- [Couchbase](http://www.couchbase.com/) -为提高性能，可伸缩性和简化管理而设计的分布式数据库.
 -[Crate！[c]]（https://crate.io/）-具有NoSQL优点的可扩展SQL数据库.
 - [Datomic](http://www.datomic.com/) -完全可交易的，可用于云的分布式数据库.
-- [Druid](http://druid.io/) -快速的面向列的分布式数据存储.
+- [Druid](http://druid.io/) - Fast column-oriented distributed data store.
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) -开源的分布式，可伸缩且高度可用的搜索服务器.
 - [Elliptics](http://reverbrain.com/elliptics/) -容错分布式键/值存储.
 - [Geode](http://geode.incubator.apache.org/) -用于横向扩展应用程序的开源，分布式内存数据库.
@@ -508,13 +515,13 @@
 ### REST
 
 - [Aglio](https://github.com/danielgtaylor/aglio) -具有主题支持的API蓝图渲染器，可输出静态HTML.
-- [API Blueprint](https://apiblueprint.org/) - Tools for your whole API lifecycle. Use it to discuss your API with others. Generate documentation automatically. Or a test suite. Or even some code.
+- [API Blueprint](https://apiblueprint.org/)  -整个API生命周期的工具.  用它与他人讨论您的API.  自动生成文档.  或测试套件.  甚至是一些代码.
 - [Apidoc](https://github.com/mbryzek/apidoc) -REST服务的精美文档.
 - [RAML](http://raml.org/) -RESTful API建模语言，一种描述实际RESTful API的简单方法.
 - [ReDoc](https://github.com/Rebilly/ReDoc) -OpenAPI / Swagger生成的API文档.
 - [Slate](https://github.com/tripit/slate) -您API的精美静态文档.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) -通过将手写文档与Spring MVC Test生成的自动生成的片段结合起来，记录RESTful服务.
-- [Swagger](http://swagger.io/) - A simple yet powerful representation of your RESTful API.
+- [Swagger](http://swagger.io/) -RESTful API的简单但功能强大的表示形式.
 
 ## Standards / Recommendations
 
@@ -556,7 +563,7 @@
 
 ### Security
 
-- [RFC5246](https://tools.ietf.org/html/rfc5246) - The Transport Layer Security (TLS) Protocol Version 1.2.
+- [RFC5246](https://tools.ietf.org/html/rfc5246) -传输层安全性（TLS）协议版本1.2.
 - [RFC6066](https://tools.ietf.org/html/rfc6066) -TLS扩展.
 - [RFC6347](https://tools.ietf.org/html/rfc6347) -数据报传输层安全性版本1.2.
 - [RFC6749](https://tools.ietf.org/html/rfc6749) -OAuth 2.0授权框架.
@@ -580,7 +587,7 @@
 - [RFC4627](https://tools.ietf.org/html/rfc4627) -JavaScript对象符号（JSON）.
 - [RFC7049](http://tools.ietf.org/search/rfc7049) -简洁的二进制对象表示（CBOR）.
 - [BSON](http://bsonspec.org/) -二进制JSON（BSON）.
-- [JSON-LD](http://json-ld.org/) -用于链接数据的JSON.
+- [JSON-LD](http://json-ld.org/) - JSON for Linking Data.
 - [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) -简单二进制编码（SBE）.
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) -MessagePack规范.
 
@@ -672,7 +679,7 @@
 - [Migrating to Cloud Native Application Architectures](http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook) -此O&#39;Reilly报告定义了云本机应用程序体系结构（例如微服务和十二因子应用程序）的独特特征.
 - [Pulsar in Action](https://www.manning.com/books/pulsar-in-action) -Manning Press撰写的有关使用Apache Pulsar开发基于微服务的应用程序的实用书籍.
 - [Testing Microservices with Mountebank](https://www.manning.com/books/testing-microservices-with-mountebank) -提供使用mountebank进行服务虚拟化的测试策略，促进微服务的独立发行
-- [The Art of Scalability](http://theartofscalability.com/)  -可伸缩性的艺术：现代企业的可伸缩Web架构，流程和组织.  马丁·雅培（Michael L. Abbott），迈克尔·费舍尔（Michael T.Fisher）.
+- [The Art of Scalability](http://theartofscalability.com/)  -可伸缩性的艺术：现代企业的可伸缩Web架构，流程和组织.  马丁·雅培（Martin L.
 - [The New Stack eBook Series](http://thenewstack.io/ebookseries/) -Docker和容器生态系统的全面概述.
   +书1：Docker容器生态系统.
   +第2册：使用Docker和容器的应用程序和微服务.
@@ -680,7 +687,7 @@
   +第4册：使用Docker和容器的网络，安全性和存储.
   +书5：使用Docker和容器进行监视和管理.
 - [The Tao of Microservices](https://www.manning.com/books/the-tao-of-microservices) -引导您了解如何在自己的实际项目中应用微服务架构.
-- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) -实用指南，教如何与多个独立团队一起开发大型软件项目.
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) - A practical guide that teaches how to develop large software projects with multiple independent teams.
 
 ### Sites & Organizations
 

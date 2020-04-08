@@ -685,6 +685,7 @@
 * [Oak](https://github.com/oakmound/oak) -Pure Go游戏引擎.
 * [Pitaya](https://github.com/topfreegames/pitaya) -可扩展的游戏服务器框架，具有群集支持以及通过C SDK的iOS，Android，Unity等客户端库.
 * [Pixel](https://github.com/faiface/pixel) -Go中的手工2D游戏库.
+* [prototype](https://github.com/gonutz/prototype) -跨平台（Windows / Linux / Mac）库，用于使用最小的API创建桌面游戏.
 * [raylib-go](https://github.com/gen2brain/raylib-go) -去绑定 [raylib](http://www.raylib.com/)，这是一个简单易用的库，用于学习视频游戏编程.
 * [termloop](https://github.com/JoelOtter/termloop) -Go的基于终端的游戏引擎，建立在Termbox之上.
 
@@ -1540,7 +1541,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 *模拟
     * [counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) -生成独立模拟对象的工具.
     * [go-localstack](https://github.com/elgohr/go-localstack) -在AWS测试中使用localstack的工具.
-    * [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Mock SQL driver for testing database interactions.
+    * [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) -模拟SQL驱动程序，用于测试数据库交互.
     * [go-txdb](https://github.com/DATA-DOG/go-txdb) -基于单事务的数据库驱动程序，主要用于测试目的.
     * [gock](https://github.com/h2non/gock) -通用的HTTP模拟变得容易.
     * [gomock](https://github.com/golang/mock) -Go编程语言的模拟框架.
@@ -1591,7 +1592,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [go-humanize](https://github.com/dustin/go-humanize) -用于将时间，数字和内存大小格式化为人类可读格式的格式化程序.
     * [go-nmea](https://github.com/adrianmo/go-nmea) -用于Go语言的NMEA解析器库.
     * [go-runewidth](https://github.com/mattn/go-runewidth) -获得固定宽度的字符或字符串的函数.
-    * [go-slugify](https://github.com/mozillazg/go-slugify) -多种语言支持，使您很轻松.
+    * [go-slugify](https://github.com/mozillazg/go-slugify) - Make pretty slug with multiple languages support.
     * [go-toml](https://github.com/pelletier/go-toml) -使用查询支持和方便的cli工具获取TOML格式的库.
     * [go-vcard](https://github.com/emersion/go-vcard) -解析并格式化vCard.
     * [go-zero-width](https://github.com/trubitsyn/go-zero-width) -Go的零宽度字符检测和删除.

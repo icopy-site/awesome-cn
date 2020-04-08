@@ -284,6 +284,7 @@
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) -通过nooowaay进行突破克隆的完整教程
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) -使用LÖVE（蛇，推箱子，俄罗斯方块等）制作简单游戏的教程
 * [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/) -哈佛学院的CS50 OpenCourseWare
+* [Building love2d games for the web with love.js and Docker](https://kalis.me/building-love2d-games-web-docker/) -有关打包用于网络的LÖVE游戏的教程
 
 ## IDEs
 *集成开发环境和文本编辑器插件*
