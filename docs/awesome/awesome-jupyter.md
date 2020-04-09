@@ -73,6 +73,7 @@
 
 - [Binder](http://mybinder.org) -将GitHub仓库变成交互式笔记本的集合.
 - [Bookbook](https://github.com/takluyver/bookbook) -Bookbook将目录中的一组笔记本转换为HTML或PDF，从而保留了笔记本内部和之间的交叉引用.
+- [Kapitsa](https://github.com/gitjeff05/kapitsa) -CLI搜索本地Jupyter笔记本.
 - [nbconvert](https://nbconvert.readthedocs.io) -将笔记本转换为其他格式.
 - [nbinteract](https://www.nbinteract.com) -从Jupyter笔记本创建交互式网页.
 - [nbflow](https://github.com/jhamrick/nbflow) -使用Jupyter和Scons的一键式可重复工作流程.
@@ -139,7 +140,7 @@
 ## Hosted Notebook Solutions
 
 - [Anaconda Enterprise](https://www.anaconda.com/enterprise/) -模型，笔记本和仪表板的多用户协作和一键式部署.
-- [Azure Notebooks](https://notebooks.azure.com) -在Microsoft Azure上的云中运行的Jupyter笔记本.
+- [Azure Notebooks](https://notebooks.azure.com) - Jupyter notebooks running in the cloud on Microsoft Azure.
 - [CoCalc](https://cocalc.com) -具有17种受支持的内核类型，课程管理，LaTeX文档创作，同步文档编辑以及与SageMath计算机代数系统集成的笔记本.
 - [DataScience.com](https://www.datascience.com) -企业数据科学平台.
 - [Deepnote](https://www.deepnote.com) -与Jupyter兼容的数据科学笔记本，具有实时协作，版本控制和易于部署的功能.

@@ -1,6 +1,9 @@
 <div class="github-widget" data-repo="aniftyco/awesome-tailwindcss"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<!--lint disable no-dead-urls-->
+<!-- ignore all dead urls because of https://github.com/sindresorhus/awesome-lint/issues/89 -->
+
+## Awesome Tailwind CSS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/aniftyco/awesome-tailwindcss/workflows/Lint%20Awesome%20List/badge.svg)
 
 [<img src="https://raw.githubusercontent.com/aniftyco/awesome-tailwindcss/master/tailwind-css-logo.svg?sanitize=true" align="right" width="100">](https://tailwindcss.com)
 
@@ -10,7 +13,7 @@
 
 ---
 
- **[Tailwind UI](https://tailwindui.com "Tailwind UI")**-设计精美的组件和模板，使用您已经了解和喜欢的CSS框架手工制作.
+ **[Tailwind UI](https://tailwindui.com)**-设计精美的组件和模板，使用您已经了解和喜欢的CSS框架手工制作.
 
 ---
 
@@ -63,15 +66,15 @@
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) -添加基于CSS类的“深色”变体.
 - [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -为边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式的CSS逻辑属性生成类名.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) -添加了“滚动捕捉”实用程序.
-+ [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) -将不透明度变体添加到现有颜色.
-+ [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) -根据配置的颜色添加“ box-shadow”实用程序.
+- [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) -将不透明度变体添加到现有颜色.
+- [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) -根据配置的颜色添加“ box-shadow”实用程序.
 - [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) -为带有可配置边框和背景的工具提示箭头添加CSS实用程序.
 
 &gt;-_以下这些插件提供的功能已在最新的Tailwind CSS版本中完全或部分实现.
 
 -  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) -添加了屏幕阅读器实用程序.
 -  [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) -添加了“ object-fit”实用程序.
--  [Object Position](https://github.com/hacknug/tailwindcss-object-position) -添加了“ object-position”实用程序.
+-  [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
 -  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) -添加了屏幕阅读器实用程序.
 -  [Layout](https://github.com/benface/tailwindcss-layout) -添加了一些布局实用程序.
 -  [Important](https://github.com/chasegiunta/tailwindcss-important) -添加了一个“重要”变体.
@@ -82,8 +85,6 @@
 -  [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) -添加了基本的转换实用程序.
 -  [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) -扩展`cursor`工具.
 
-
-
 ## UI Libraries & Components
 
 - [tails-ui](https://github.com/knipferrc/tails-ui) -使用Tailwind CSS的React UI库.
@@ -92,6 +93,7 @@
 - [Tailwind Templates](https://www.tailwindtemplates.io) -Tailwind CSS组件.
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) -使用jQuery和Tailwind CSS进行切换.
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) -Tailwind Starter Kit是TailwindCSS，免费和开源的扩展.
+- [a17t](https://a17t.rmrm.io) -用于扩展Tailwind CSS的原子设计工具包.
 
 ## Resources
 
@@ -109,6 +111,8 @@
 - [Maizzle](https://maizzle.com/) -使用Tailwind CSS快速建立电子邮件原型的框架.
 
 ### Tools
+
+**传奇**：可在线访问·转换或升级工具·生成器·输入/执行·外部服务的插件/工具/扩展
 
 -  [Color shades generator](https://javisperez.github.io/tailwindcolorshades) -Tailwind CSS的颜色生成器（在线）.
 -  [Color palette generator](https://adevade.github.io/color-scheme-generator) -调色板生成器，可为Tailwind CSS（在线）输出颜色配置.
@@ -133,20 +137,13 @@
 -  [Tailwind CSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin) -集成了Tailwind CSS的Figma插件.
 -  [RustyWind](https://github.com/avencera/rustywind) -用于对Tailwind CSS类进行排序的CLI工具.
 -  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
--  [TailwindCSS Palette Generator](https://tailwindcss-palette-generator.coderello.com/) -Tailwind CSS的调色板生成器（在线）.
 -  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带有PurgeCSS和现代CSS的NuxtJS的Tailwind CSS模块（预设环境1）.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) -将Tailwind CSS模块添加为PostCSS插件，并在生产中为PreactJS CLI项目设置PurgeCSS.
 -  [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) -Babel宏，可将Tailwind CSS类转换为CSS-in-JS库的对象.
 
- |  表情符号|  描述
-| ----- | ---------------------------------------------- |
- |  |  在线访问|
- |  |  转换或升级工具|
- |  |  发电机|
- |  |  打字/执行|
- |  |  外部服务的插件/工具/扩展|
-
 ### Starters, Templates & Themes
+
+**传奇**：入门程序和样板·入门程序包·模板和主题
 
 -  [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) -使用Tailwind CSS的Jekyll启动器.
 -  [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) -使用Tailwind CSS的Jekyll启动器.
@@ -173,12 +170,6 @@
 -  [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) -使用Tailwind CSS的Wordpress主题和PWA.
 -  [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
 
- |  表情符号|  描述
-| ----- | ----------------------- |
- |  |  起动器和样板|
- |  |  入门包|
- |  |  模板和主题|
-
 ### IDE Extensions
 
 - [Tailwind CSS IntelliSense for VS Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) -Tailwind CSS的Visual Studio Code IntelliSense扩展.
@@ -192,10 +183,12 @@
 - [Statusfy](https://github.com/bazzite/statusfy) -使用Tailwind CSS的状态页面系统.
 - [Todolist](https://github.com/guillaumebriday/todolist-frontend-vuejs) -使用Tailwind CSS的待办事项列表应用程序.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) -英雄联盟玩家的统计网站.
-+ [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) -使用Svelte＆Tailwind CSS的电子商务店面.
-+ [Misiki Books](https://github.com/itswadesh/misiki-books) -使用Vue + Moltin + Tailwind CSS的书店.
+- [SapperCommerce](https://github.com/itswadesh/sapper-ecommerce) -使用Svelte＆Tailwind CSS的电子商务店面.
+- [Misiki Books](https://github.com/itswadesh/misiki-books) -使用Vue + Moltin + Tailwind CSS的书店.
 
 ### Learning
+
+**传奇**：示例·设置教程·视频教程·组件或页面教程·演员表
 
 -  [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) -使用CSS自定义属性和Tailwind CSS切换主题.
 -  [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples) -官方插件示例.
@@ -219,37 +212,30 @@
 -  [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) -使用Tailwind CSS重建YouTube.
 -  [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) -使用Tailwind CSS重建Netlify.
 -  [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) -使用Tailwind CSS重建Resolute.
--  [Let’s Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) -使用Tailwind CSS构建电影制作登录页面.
--  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) - Building a responsive navbar with Tailwind CSS.
--  [Let’s Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) -用Tailwind CSS拍摄的运球.
--  [Let’s Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) -使用Tailwind CSS构建Tweet组件.
+-  [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) -使用Tailwind CSS构建电影制作登录页面.
+-  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) -使用Tailwind CSS构建响应式导航栏.
+-  [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) -用Tailwind CSS拍摄的运球.
+-  [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) -使用Tailwind CSS构建Tweet组件.
 -  [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) -使用Tailwind CSS创建模式对话框.
--  [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) -使用Tailwind CSS构建Shopify，Spotify，Netlify和Atlassian UI的示例. 
+-  [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) -使用Tailwind CSS构建Shopify，Spotify，Netlify和Atlassian UI的示例.
 -  [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) -使用Tailwind CSS重建FreshBooks.
 -  [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) -使用Tailwind CSS创建登录页面.
 -  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
 -  [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中使用Tailwind CSS构建Vue.js组件.
 -  [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
--  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航。
--  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) - How to style a form with Tailwind CSS.
+-  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.
+-  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
 -  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
 -  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
--  [Rebuilding Airbnb’s Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
+-  [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
 -  [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 -  [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 -  [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 -  [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 -  [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
- |  表情符号|  类型
-| ----- | -------------------------- |
- |  |  样品
- |  |  设置教程|
- |  |  视频教程|
- |  |  组件或页面教程|
- |  |  演员表|
-
 ### Apps & Websites
+
 - [Josh Manders](https://joshmanders.com)
 - [App Metrics](https://appmetrics.co)
 - [Matt Stauffer](https://mattstauffer.com)
@@ -264,7 +250,6 @@
 - [University of West London](https://www.uwl.ac.uk)
 - [Joey Beninghove](https://joey.io)
 - [Stefan Bauer](https://stefanbauer.me)
-- [Eyewitness.io](https://eyewitness.io)
 - [Laravel Spark](https://spark.laravel.com)
 - [Sitesauce](https://sitesauce.app)
 - [Milan Chheda](https://milanchheda.com)
@@ -287,9 +272,7 @@
 - [Sjabloon](https://www.getsjabloon.com)
 - [Guillaume Briday](https://guillaumebriday.fr)
 - [Hello Sun](https://hellosun.brussels)
-- [Onur Şuyalçınkaya](https://suyalcinkaya.me)
 - [OpenEmu](http://openemu.org)
-- [Alice's Magical Maze](https://alice.thomasverhelst.be/game)
 - [sleeplessmind.info](https://sleeplessmind.info)
 - [The Speedcube Site](https://speedcube.site)
 - [Woburn Mosaic](https://www.woburnmosaic.co.uk)
@@ -311,6 +294,7 @@
 - [Litekart](https://www.litekart.in)
 - [NuxtJS Documentation](https://nuxtjs.org)
 - [Vaggelis Yfantis](https://octoper.me)
+- [This Month Rocks](https://thismonth.rocks)
 
 ## Contribute
 

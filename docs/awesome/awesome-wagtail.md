@@ -24,7 +24,7 @@
 
 - [Puput](https://puput.readthedocs.org/)  -Puput是一个功能强大且简单的Django应用程序，用于管理博客.  它使用了很棒的Wagtail CMS作为内容管理系统.
 - [wagtail_blog](https://github.com/thelabnyc/wagtail_blog) -在Wagtail中实现的类似WordPress的博客应用程序.
-- [wagtailnews](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
+- [wagtailnews](https://github.com/takeflight/wagtailnews) -Wagtail插件，提供新闻/博客功能.
 - [wagtail-blog-app](https://github.com/Tivix/wagtail-blog-app) -Wagtail Django CMS的博客应用程序.
 - [Django Wagtail Feeds](https://github.com/chrisdev/django-wagtail-feeds) -将对RSS Feed，Facebook Instant Articles和Apple News Publisher的支持添加到Wagtail CMS项目中.
 - [CodeRed CMS](https://github.com/coderedc要么p/coderedcms)  -用于构建营销网站的专业支持的W要么dPress替代方案.  开箱即用地创建wagtail管理员中的页面，博客，表单和每个Bootstrap 4组件！ [Learn m要么e](https://www.coderedc要么p.com/cms/) 要么 [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s).
@@ -61,6 +61,7 @@
 - [Wagtail Code Block](https://github.com/FlipperPA/wagtailcodeblock) -Wagtail CMS的StreamField代码块，带有实时PrismJS语法突出显示功能.
 - [Wagtail Blocks](https://github.com/ibrahimawadhamid/wagtail_blocks) -令人敬畏的Wagtail CMS流场数据块和图表的集合.
 - [Wagtail UI Plus](https://github.com/davidcondenl/wagtailuiplus) -对Wagtail编辑器界面的StreamFields和StreamBlocks进行了一些UI改进.
+- [Wagtail Cache Block](https://github.com/AccordBox/wagtail_cache_block) -将HTML片段缓存添加到您的StreamField块的templatetag
 
 ### Static site generation
 
@@ -125,9 +126,13 @@
 ### Testing
 
 - [wagtail-linkchecker](https://github.com/takeflight/wagtail-linkchecker) -一种工具，可帮助您在Wagtail网站上查找损坏的链接.
-- [Wagtail Accessibility](https://github.com/takeflight/wagtail-accessibility) –一个插件，用于在Wagtail中进行开发时有助于辅助功能.
+- [Wagtail Accessibility](https://github.com/takeflight/wagtail-accessibility) –一个插件，用于在Wagtail中进行开发时辅助可访问性.
 - [Wagtail Factories](https://github.com/mvantellingen/wagtail-factories) -Wa的工厂男孩班.
 - [Wagtail Foliage](https://github.com/harrislapiroff/wagtail-foliage) -在Wagtail中以编程方式构建页面树的实用程序.
+
+### Modeladmin
+
+- [wagtail-admin-list-controls](https://github.com/ixc/wagtail-admin-list-controls) -在Wagtail的modeladmin列表视图中添加了高级搜索，排序和布局控件.
 
 ### Misc
 
@@ -146,14 +151,14 @@
 - [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) -该应用程序可将GraphQL支持自动添加到Wagtail网站.
 - [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) -Mixin支持在管理面板中进行拖放排序.
 - [Wagtail Live Preview](https://github.com/KalobTaulien/wagtail-livepreview) -内容旁边的实时页面预览.
-- [Wagtail Resume](https://github.com/adinhodovic/wagtail-resume) –一个Wagtail项目，旨在简化开发人员的简历创建.
+- [Wagtail Resume](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
 ## Tools
 
 - [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) -使用Zurb Foundation 6的Wagtail CMS的Cookiecutter模板.
 - [Beginner Wagtail Cookiecutter](https://github.com/heymonkeyriot/beginner-wagtail) – Wagtail CMS的超级简单实现.
 - [Wagtail Starter Kit](https://github.com/tkjone/starterkit-wagtail) –包括w，django布局，无业游民，预配书稿，前端构建系统等的切碎机！
-- [Wagtail Pipit](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+- [Wagtail Pipit](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit是Wagtail样板，旨在通过React渲染的前端提供简单现代的开发人员工作流程.
 - [Django Cookiecutter Wagtail](https://github.com/Jean-Zombie/cookiecutter-django-wagtail)  –带有Wagtail的Django Cookiecutter模板.  基于原始的“ Django Cookiecutter”.  功能：Docker支持使用docker-compose进行开发和生产（使用Traefik和LetsEncrypt支持），可定制的PostgreSQL版本，Bootstrap 4，使用Amazon S3或Google Cloud Storage的媒体存储等等.
 
 ## Resources
@@ -211,7 +216,7 @@
 - [The Word Problem – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s) 汤姆·戴森（Tom Dyson）撰写.
 - [Wagtail on Divio Cloud – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s) 由Daniele Procida.
 - [Chopping the head off Wagtail and sticking it back on – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=152s) 由Tony Yates撰写.
-- [StreamField editor at UWKM – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) 由Geert Jan Hoogeslag撰写.
+- [StreamField editor at UWKM – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) 由Geert jan Hoogeslag撰写.
 - [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) 由Codie Roelf撰写.
 - [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) 由Daniele Procida.
 - [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) 由Michael van Tellingen撰写. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
@@ -221,7 +226,7 @@
 - [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 汤姆·戴森（Tom Dyson）撰写.
 - [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由莱西·威廉姆斯·亨舍尔.
 - [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) 由Ryan Sullivan撰写.
-- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由丽莎·亚当斯（Lisa Adams）和科迪·罗伊夫（Codie Roelf）创作.
+- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）
 - [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) 哈里斯·拉皮罗夫（Harris Lapiroff）撰写.
 - [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) 由Zarina Mustapha提供.
 - [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) 由Ryan Verner撰写.
@@ -243,7 +248,7 @@
 - [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) 由Kees Hink. [Code](https://github.com/fourdigits/wagtail_textract).
 - [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) 作者：马特·韦斯科特（Matt Wescott）.
 - [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) 由Janneke Janssen撰写. [Code](https://github.com/LUKKIEN/wagtail-marketing-addons).
-- [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) 由Arifin Ibne Matin撰写.
+- [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
 - [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) 由Daniele Procida.
 - [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) 作者：亚瑟·拜尔（Arthur Bayr）.
 - [Writing (code) for authors – Wagtail Space US 2019](https://www.youtube.com/watch?v=Ihsrki0d1G8&list=PLEyaio0l1qoEIUFM9bnRKoN6VKEUOdxAn&index=1) 由Brian Smith和Eric Sherman撰写. [Slides](https://docs.google.com/presentation/d/1z61u0uKwJxmYS4Zawbu4Zgg-kCtInd1VgsEg-rnwzBE/edit).

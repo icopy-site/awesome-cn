@@ -11,12 +11,12 @@
 
 ## About this list
 
- 科技和社交媒体正在对我们的社会产生重大影响.  尽管许多创新技术发明改善了我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech.com/problem/)，由特里斯坦·哈里斯（Tristan Harris）领导的世界一流团队组成，该团队深为关注 [The Center of Humane Technology](https://humanetech.com).
+ 科技和社交媒体正在对我们的社会产生重大影响.  尽管许多创新技术发明改善了我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech.com/problem/)，由特里斯坦·哈里斯（Tristan Harris）领导的世界一流团队组成，这些团队受到深切关注 [The Center of Humane Technology](https://humanetech.com).
 
 
  该列表重点关注与人文科技主题直接相关的（大多数是开源）项目.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的PR之前.
 
- **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望对您有用.  但是根据 [License](#license)  我们不能保证所引用软件的质量或适用性.  因此，在安装任何东西之前，请正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues)  因此我们可以采取适当的措施.  谢谢！
+ **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望对您有用.  但是根据 [License](#license)  我们不能保证所引用软件的质量或适用性.  因此，在安装任何东西之前，请正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues)  因此我们可以采取适当的措施.  谢谢！
 
 ## Community
 
@@ -49,8 +49,8 @@
 
 - [NoScript Security Suite](https://noscript.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hackademix/noscript) -基于Mozilla的浏览器插件，仅允许列入白名单的网站上的活动内容.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/https-everywhere) -加密您与许多主要网站的通信，使您的浏览更加安全.
-- [Security Checklist](https://securitycheckli.st/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/brianlovin/security-checklist) -旨在改善您的在线隐私和安全性的资源清单.
-- [PRISM Break](https://prism-break.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) - Security and privacy-aware alternatives to proprietary software.
+- [Security Checklist](https://securitycheckli.st/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/brianlovin/security-checklist) - Checklist of resources designed to improve your online privacy and security.
+- [PRISM Break](https://prism-break.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) -专有软件的安全性和隐私意识替代品.
 - [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/google/password-alert) -Google的Chrome扩展程序，可警告您对您的Google帐户进行网络钓鱼.
 - [Warn Common Password](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/master/README.md)-附加组件通过捆绑的_offline_列表500006条目来保护我们免受常见密码的侵害
 
@@ -162,7 +162,7 @@
 - [Invidious](https://invidio.us) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/omarroth/invidious) -不带广告的YouTube替代前端.
 - [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/deltachat) -通过电子邮件进行类似于Whatsapp的分散聊天，无需跟踪和中央控制.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zedeus/nitter) -另一个关注隐私的Twitter前端.
-- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) -Firefox扩展程序，可将YouTube和Twitter请求重定向到其他选项.
+- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) -Firefox扩展程序，可将YouTube和Twitter请求重定向到其他选项.
 - [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cloudrac3r/bibliogram) -Instagram的替代前端.
 
 ## Freedom
@@ -200,15 +200,17 @@
 ## Health
 
 - [Stanford HabitLab](https://habitlab.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/habitlab/habitlab) -更改您的在线习惯，设定目标，尝试干预措施，查看进度.
-- [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
+- [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) -Redshift可根据周围环境调整屏幕的色温.
 - [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/slgobinath/SafeEyes) -Safe Eyes是Linux用户减少和防止重复性劳损（RSI）的工具.
 - [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) -增强记忆力丧失者与亲近者之间关系的应用程序.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) -用于创建和维护良好习惯的Android应用.
 - [If me](http://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) -一个精神健康体验社区，鼓励人们与亲人分享他们的故事.
 - [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hovancik/stretchly) -跨平台应用程序，提醒您在使用计算机时要休息一下.
-- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) - An automated time-tracker that is cross-platform, extensible and privacy-focused.
+- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ActivityWatch/activitywatch) -跨平台，可扩展且注重隐私的自动化时间跟踪器.
 - [Red Moon](https://github.com/LibreShift/red-moon) -夜间电话使用的Android屏幕过滤器应用程序.
 - [Workrave](http://www.workrave.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rcaelers/workrave) -协助恢复和预防重复性劳损（RSI）的计划.
+- [Grayscale Mode](https://grayscalemode.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rkbhochalya/grayscale-mode) -一个macOS菜单栏应用程序，可让您更好地控制灰度模式.
+- [FitoTrack](https://codeberg.org/jannis/FitoTrack) -面向隐私的Android健身追踪器，用于记录和查看您的锻炼情况.
 
 ## Mindfulness
 
@@ -221,6 +223,8 @@
 - [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/sandoche/Detoxify-app) -生成伪造的应用程序以替换任何令人上瘾的应用程序.
 - [Nudge](https://nudgeware.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/lgwb89/nudge) -一款Chrome扩展程序，可降低互联网的吸引力.
 - [SelfControl](https://selfcontrolapp.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/SelfControlApp/selfcontrol) -一个macOS应用程序，可让您阻止自己访问分散注意力的网站和邮件服务器.
+- [DelayWebPage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OskarDamkjaer/FirefoxDelayWebpage) -Firefox附加组件，可让您在浪费时间之前上网等待.
+- [Leechblock NG](https://www.proginosko.com/leechblock/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/proginosko/LeechBlockNG/) -一种简单的生产力工具，旨在在指定时间阻止浪费时间的网站.
 
 ## Happiness
 
@@ -235,7 +239,7 @@
 
 ## Awareness
 
-- [Hack the Media](https://github.com/nemild/hack-the-media) -媒体素养指南，着重强调我们的媒体资源如何使我们对世界有错误的看法.
+- [Hack the Media](https://github.com/nemild/hack-the-media) - A media literacy guide highlighting how our media sources can give us a flawed view of the world.
 - [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/nemild/hack-the-media/master/software-engineers-media-guide.md) -面向软件工程师的媒体素养指南.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) -分析您自己数据的Facebook副本.
 - [HTTP Leaks](https://github.com/cure53/HTTPLeaks) -所有可能的方式，网站都可能泄漏HTTP请求.
@@ -280,7 +284,7 @@
 
 ## Contributing
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 第一.
+Contributions welcome! Read the [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 第一.
 
 ## License
 

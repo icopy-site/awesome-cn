@@ -167,6 +167,7 @@
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) -根据更改的路径有条件地执行操作.
 - [Linguist](https://github.com/fabasoad/linguist-action) -检查存储库并在输出中生成有关使用的语言的信息.
 - [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) -使用定义的文本进行Twilio语音通话.
+- [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) -在用于MacOS映像的Xamarin和Mono的预安装版本之间切换.
 
 #### Environments
 
@@ -175,6 +176,7 @@
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Install Conda environments for Python](https://github.com/goanpeca/setup-miniconda)
 - [Setup NativeScript](https://github.com/hrueger/setup-nativescript)
+- [Create a JSON Environment File](https://github.com/schdck/create-env-json)
 
 #### Dependencies
 
@@ -244,6 +246,7 @@
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) -将AWS Secrets Manager机密定义为环境值.
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) -本身不是动作，而是用于在整个存储库列表中管理动作秘密的工具.
+- [Secrets Sync Action](https://github.com/google/secrets-sync-action) -动作可跨多个存储库同步机密.
 
 #### Code Coverage
 
@@ -297,6 +300,7 @@
 - [GitHub Action for Hexo](https://github.com/heowc/action-hexo)
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
 - [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages)
+- [Deploy A Static Site to GitHub Pages](https://github.com/appleboy/gh-pages-action) -部署到自定义目录，并忽略文件夹/文件.
 
 ### Notifications and Messages
 
@@ -359,6 +363,7 @@
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
 - [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action)
 - [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit)
+- [Publish Docker Images to the Amazon Elastic Container Registry (ECR)](https://github.com/appleboy/docker-ecr-action)
 
 #### Kubernetes
 

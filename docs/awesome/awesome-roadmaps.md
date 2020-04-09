@@ -21,6 +21,7 @@
 - [React Developer Roadmap](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap) -2019年成为React开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap).
 - [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap) -在2018年成为Vue.js开发人员的路线图.
 - [ASP.Net Core Developer Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap) -2019年成为ASP.NET Core开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap).
+- [Laravel Developer Roadmap](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap) -2020年成为Laravel开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap).
 
 ## Mobile Development
 - [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) -在2018年成为iOS开发人员的路线图.
