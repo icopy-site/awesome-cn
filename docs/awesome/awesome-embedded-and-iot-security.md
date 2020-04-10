@@ -17,6 +17,7 @@
 &gt; *标有：euro：的物品是商业产品.*
 
 
+  - [Blogs](#blogs) 
 
 
 ## Software Tools
@@ -131,10 +132,10 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 ## Websites
 
 - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page) -万物打印机.
-- [OWASP Embedded Application Security Project](https://www.owasp.org/index.php/OWASP_Embedded_Application_Security) -开发最佳做法以及硬件和软件工具列表.
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project) -物联网常见漏洞和攻击面. 
+- [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) -开发最佳做法以及硬件和软件工具列表.
+- [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) -物联网常见漏洞和攻击面. 
 - [Router Passwords](https://192-168-1-1ip.mobi/default-router-passwords-list/) -按制造商排序的默认登录凭据数据库.
-- [Siliconpr0n](https://siliconpr0n.org/) -集成电路倒车的所有内容的Wiki /存档.
+- [Siliconpr0n](https://siliconpr0n.org/) -关于IC反转所有内容的Wiki /存档.
 
 ### Blogs
 <!--lint ignore no-repeat-punctuation-->

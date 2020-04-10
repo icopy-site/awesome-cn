@@ -140,7 +140,7 @@
 - [immutable](https://github.com/facebook/immutable-js) -不可变的数据收集.
 - [Ramda](https://github.com/ramda/ramda)  -实用程序库，侧重于通过自动计算和相反的参数顺序实现的灵活功能组合.  避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) -使用JavaScript进行通用功能编程的库套件，可让您编写优雅的模块化应用程序，减少错误，并增加重复使用率.
-- [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
+- [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大差异的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
 - [Bacon.js](https://github.com/baconjs/bacon.js) -功能反应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) -功能性反应式库，用于转换，合成和查询各种数据.
 - [Lazy.js](https://github.com/dtao/lazy.js) -类似于lodash / Underscore的实用程序库，但具有懒惰的评估，在许多情况下可以转换为出色的性能.
@@ -519,7 +519,7 @@
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -适用于PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  类似于ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL的PostgreSQL框架.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) -基于SQL查询生成器Knex构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) -适用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
@@ -637,7 +637,7 @@
 - [node-mac](https://github.com/coreybutler/node-mac) -将脚本作为本地Mac守护程序运行，并登录到控制台应用程序.
 - [node-linux](https://github.com/coreybutler/node-linux) -将脚本作为本机系统服务运行，并登录到syslog.
 - [node-windows](https://github.com/coreybutler/node-windows) -将脚本作为本地Windows服务运行，并登录到事件查看器.
-- [supervisor](https://github.com/petruisfan/node-supervisor) -当脚本崩溃时重新启动脚本，或者在`* .js`文件更改时重新启动脚本.
+- [supervisor](https://github.com/petruisfan/node-supervisor) -当脚本崩溃时重新启动脚本，或在* .js文件更改时重新启动脚本.
 - [Phusion Passenger](https://github.com/phusion/passenger) -友好的流程管理器，可以直接集成到Nginx中.
 
 ### Automation
@@ -683,7 +683,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) -获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) -获取超级恶名.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) -得到一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍˄·͈·̑̑ෆ⃛（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍˄·͈·༝（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”`.
 - [nerds](https://github.com/SkyHacks/nerds) -从“哈利·波特”，“星球大战”和“神奇宝贝”等讨厌的话题中获取数据.
 
 ### Serialization
@@ -732,6 +732,7 @@
 - [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP / FTPS客户端.
 - [cashify](https://github.com/xxczaki/cashify) - 货币转换.
 - [genepi](https://github.com/Geode-solutions/genepi) -从C ++代码自动生成本机Node.js插件.
+- [husky](https://github.com/typicode/husky) -创建Git钩子脚本.
 
 ## Resources
 

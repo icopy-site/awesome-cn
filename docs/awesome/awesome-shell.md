@@ -33,7 +33,7 @@
 * [mksh](https://github.com/MirBSD/mksh) -MirBSD Korn Shell
 * [nushell](https://github.com/nushell/nushell) -用Rust编写的现代外壳
 * [oksh](https://github.com/ibara/oksh) -便携式OpenBSD ksh
-* [osh](https://www.oilshell.org) -Bash兼容，与新的/现代的Unix Shell语言称为Oil
+* [osh](https://www.oilshell.org) -与Bash兼容，并使用称为Oil的新/现代Unix Shell语言
 * [pdksh](https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/bin/ksh/) -公共领域的Korn Shell
 * [shell++](https://github.com/alexst07/shell-plus-plus) -友好而现代的功能和面向对象的Shell脚本语言
 * [shenv](https://github.com/shenv/shenv) -简单的shell版本管理
@@ -63,7 +63,7 @@
 * [Buku](https://github.com/jarun/Buku) -强大的命令行书签管理器
 * [byobu](https://www.byobu.org) -基于文本的窗口管理器和终端多路复用器
 * [cod](https://github.com/dim-an/cod) — Shell的完成守护程序，可在调用`--help`命令时学习
-* [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+* [commacd](https://github.com/shyiko/commacd) -在Bash中移动的更快方法
 * [CloudClip](https://github.com/skywind3000/CloudClip) -您在云端的剪贴板，在不同系统之间根据要点复制和粘贴文本
 * [ddgr](https://github.com/jarun/ddgr) -来自终端的DuckDuckGo
 * [desk](https://github.com/jamesob/desk) -外壳的轻量级工作区管理器
@@ -133,6 +133,7 @@
 * [v](https://github.com/rupa/v) -z代表vim.
 * [wemux](https://github.com/zolrath/wemux) -简化多用户Tmux
 * [xsv](https://github.com/BurntSushi/xsv) -用Rust编写的快速CSV命令行工具包
+* [xxh](https://github.com/xxh/xxh) -无论您通过SSH到哪里，都可以带上自己喜欢的外壳.
 * [z](https://github.com/rupa/z) -z是新的j，哟
 * [z.lua](https://github.com/skywind3000/z.lua) -新的cd命令，可帮助您通过学习习惯来更快地导航
 
@@ -192,7 +193,7 @@
 * [starring](https://github.com/ritz078/starring) -自动为您在GitHub上使用的npm-package加上星号.
 * [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 * [wipe-modules](https://github.com/bntzio/wipe-modules) -一个小的代理，可删除非活动项目的node_modules文件夹
-* [xtm](https://github.com/Camji55/xtm) -命令行工具，可帮助您管理Xcode项目模板.
+* [xtm](https://github.com/Camji55/xtm) - Command line tool that helps you manage your Xcode project templates.
 
 ## System Utilities
 
@@ -214,6 +215,7 @@
 * [logdissect](https://github.com/dogoncouch/logdissect) -CLI工具和Python API，用于分析日志文件和其他数据.
 * [ls++](https://github.com/trapd00r/ls--) -在类固醇上的彩色ls
 * [lsp](https://github.com/dborzov/lsp) -改进的`ls`，具有简单语言的文件描述和智能文件分组功能
+* [maza](https://github.com/tanrax/maza-ad-blocking)  -本地广告拦截器.  像Pi-hole，但在本地使用操作系统.
 * [mtr](https://github.com/traviscross/mtr) -单个网络诊断工具中“ traceroute”和“ ping”程序的功能.
 * [ncdu](https://dev.yorhel.nl/ncdu) -NCurses磁盘使用情况
 * [nmtui](https://github.com/NetworkManager/NetworkManager) -用于控制NetworkManager的文本用户界面
@@ -238,7 +240,7 @@
 * [HTTPLab](https://github.com/gchaincl/httplab) -交互式Web服务器，可让您检查HTTP请求并伪造响应.
 * [ngincat](https://github.com/jaburns/ngincat) -使用netcat的Tiny Bash HTTP服务器
 * [resty](https://github.com/micha/resty) -可在管道中使用的小命令行REST客户端
-* [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
+* [shell2http](https://github.com/msoap/shell2http)  -HTTP服务器执行Shell命令.  专为开发，原型制作或远程控制而设计
 * [vesper](https://github.com/chris-rock/vesper) -Vesper是Bash / Unix Shell的HTTP框架
 * [youtube-dl](https://github.com/ytdl-org/youtube-dl) -小型命令行程序，可从YouTube.com和其他视频网站下载视频
 
@@ -284,7 +286,7 @@
 * [jrnl](https://github.com/jrnl-org/jrnl) -一个简单的命令行日志应用程序，将您的日志存储在纯文本文件中
 * [ledger](https://github.com/ledger/ledger) -命令行记帐
 * [licen](https://github.com/lord63/licen)  -生成您的许可证.  另一个虱子，但是用Jinja2和docopt实现
-* [md2png](https://github.com/weaming/md2png) -将降价转换为PNG图片
+* [md2png](https://github.com/weaming/md2png) - Convert markdown to PNG image
 * [moviemon](https://github.com/iCHAIT/moviemon) -在命令行中有关电影的所有内容.
 * [pockyt](https://github.com/arvindch/pockyt) -阅读，管理和自动化您 [Pocket](https://getpocket.com) 采集.
 * [pushblast](https://github.com/alebcay/pushblast) -当Shell程序退出时获取PushBullet通知

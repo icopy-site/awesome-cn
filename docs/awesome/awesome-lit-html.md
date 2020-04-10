@@ -62,6 +62,7 @@
 - [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) -之间缺少连接 [Haunted](https://www.npmjs.com/package/haunted) 和LitElement.
 - [lit-robot](https://www.npmjs.com/package/lit-robot) -与LitElement集成 [Robot](https://thisrobot.life/).
 - [nextbone](https://www.npmjs.com/package/nextbone) -使用ES类和装饰器重新构想的主干，可与LitElement一起使用.
+- [wc-context](https://www.npmjs.com/package/wc-context) -具有LitElement集成的Web组件的上下文实现.
 
 ### Other
 
@@ -78,11 +79,12 @@
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs的Web组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Ink Components](https://github.com/ink-components/ink-components) -用于交互式科学写作的Web组件.
-- [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件可在任何地方使用.
+- [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件，可在任何地方使用.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) -使用Web组件进行突变测试结果的方案，以使其可视化.
+- [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用LitElement构建的Adobe Spectrum设计语言实现.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -在本地API之上的企业风味糖！
 - [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) -用于创建使用Webview API的VSCode扩展的组件.
 - [Weightless](https://github.com/andreasbm/weightless) -占地面积小的高质量Web组件.
@@ -145,7 +147,7 @@
 **使用CDN的注意事项**
 
 1. lit-html指令 [might not work](https://github.com/Polymer/lit-element/issues/603#issuecomment-501528498) 使用Pika CDN时使用LitElement.
-2. See [this issue](https://github.com/Polymer/lit-element/issues/603) 讨论了CDN分发的静态构建.
+2.参见 [this issue](https://github.com/Polymer/lit-element/issues/603) 讨论了CDN分发的静态构建.
 
 ## Static Site Generators
 
@@ -197,7 +199,7 @@
     <td>资源</td>
   </tr>
   <tr>
-    <td>创建社会形象</td>
+    <td>Create Social Images</td>
     <td>https://createsocialimages.com</td>
     <td> <a href="https://github.com/pshihn/csi">资源</a> </td>
   </tr>

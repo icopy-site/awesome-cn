@@ -9,7 +9,7 @@
 
  -“资源真棒！”  —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178)， 推特
 -“再次感谢您整合了这一巨大资源！”[Dave Golden](https://twitter.com/xdg)，MongoDB和贡献者
--“在过去的几个月中，我已经反复狩猎并使用了这种材料，并将许多其他材料推荐给该材料.谢谢您-它以比您想象的更多的方式产生了真正的改变！:)”-戴夫·伊戈伊
+-“在过去的几个月中，我已经反复狩猎并使用了这种材料，并将其他材料转介给其他人.所以谢谢您-它以比您想象的更多的方式产生了真正的改变！:)”-Dave Igoe，通过Slack
 
 - [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
@@ -37,6 +37,7 @@
 - [Planning, Roadmaps and Processes](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Planning-roadmaps.md)
 - [Postmortems and Retrospectives](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Postmortems-Retrospectives.md)
 - [Productivity and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
+- [Tools to Define Your Leadership Style](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 
  *“如果我看得更远，那就是站在巨人的肩膀上.”  —艾萨克·牛顿爵士 <br>

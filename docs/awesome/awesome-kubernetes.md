@@ -724,7 +724,6 @@ Projects
 ## RPC
 
 * [gRPC](http://grpc.io)
-* [Micro](https://github.com/micro/kubernetes)
 
 
 ## Secret generation and management

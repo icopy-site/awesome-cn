@@ -72,7 +72,7 @@
 - [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) -浏览器扩展程序，可防止通过Javascript Canvas API进行指纹识别.
 - [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ChrisAntaki/disable-webrtc-firefox) -浏览器扩展程序，禁用WebRTC，以避免从VPN后面泄漏您的IP地址.
 - [Syncthing](https://syncthing.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/syncthing/syncthing/) -取代专有的云服务，以分散多个设备之间的文件同步.
-- [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) -点对点即时通讯工具，旨在使普通用户易于获得安全性和隐私性.
+- [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) - A peer-to-peer instant messenger aimed at making security and privacy easy to obtain for regular users.
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/oversecio/oversec) -捕获并加密您键入的文本，然后将其传递给实际应用的Android应用.
 - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) -插件，可让您根据其IPv4 / 6范围选择和屏蔽排名前5位的云计算公司.
 - [Librefox](https://github.com/intika/Librefox) -一个旨在加强Firefox的隐私和安全性而又不分叉该项目的项目.
@@ -115,6 +115,7 @@
 - [Trackless](https://github.com/ascorbic/trackless) -将GDPR友好的Google Analytics（分析）选择加入/退出按钮添加到您的网站.
 - [ConsentCookie](https://www.consentcookie.nl/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humanswitch/consentcookie) -可自定义的脚本，允许用户根据情况选择加入Cookie.
 - [GDPR Transparency and Consent Framework](https://iabtechlab.com/standards/gdpr-transparency-and-consent-framework/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) -有助于遵守欧盟数据保护和隐私规则的规范.
+- [Klaro](https://klaro.kiprotect.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/KIProtect/klaro) -一个简单而强大的工具，可以管理网站上的用户同意.
 
 ## Analytics
 
@@ -284,7 +285,7 @@
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 第一.
+ 欢迎捐款！  阅读 [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 第一.
 
 ## License
 

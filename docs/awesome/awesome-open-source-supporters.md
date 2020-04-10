@@ -29,7 +29,7 @@
 - [Reviewable](https://reviewable.io/) -自动化的GitHub代码审查.
 - [SensioLabsInsight](https://insight.sensiolabs.com/) -PHP的自动代码审查.
 - [Scrutinizer](https://scrutinizer-ci.com/) -持续的代码质量分析.
-- [SideCI](https://sideci.com/) -自动化的静态代码分析.
+- [Sider](https://sider.review/) -自动代码审查.
 - [StyleCI](https://styleci.io/) -PHP代码样式审查.
 
 ## Continuous Integration

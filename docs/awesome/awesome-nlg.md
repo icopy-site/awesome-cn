@@ -57,7 +57,7 @@
 - [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) -基于神经网络的生成模型，用于使用Tensorflow字幕.
 - [PPLM](https://github.com/uber-research/PPLM)  -即插即用语言模型实现.  允许引导GPT-2模型的主题和属性.
 - [Texar](https://github.com/asyml/texar) -Texar是一个工具包，旨在支持广泛的机器学习，尤其是自然语言处理和文本生成任务.
-- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以轻松地在任何文本数据集上训练任何大小和复杂度的自己的文本生成神经网络.
+- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以在任何文本数据集上轻松训练自己的任意大小和复杂度的文本生成神经网络.
 - [Transformers](https://github.com/huggingface/transformers) -TensorFlow 2.0和PyTorch的最新自然语言处理.
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) -用于将以结构化数据形式存在的信息转换为自然语言文本.
 
@@ -65,6 +65,7 @@
 - [A Closer Look at Recent Results of Verb Selection for Data-to-Text NLG](https://www.inlg2019.com/assets/papers/178_Paper.pdf)
 - [A Personalized Data-to-Text Support Tool for Cancer Patients](https://www.inlg2019.com/assets/papers/28_Paper.pdf)
 - [Controlling Contents in Data-to-Document Generation with Human-Designed Topic Labels](https://www.inlg2019.com/assets/papers/79_Paper.pdf)
+- [Generated Texts Must Be Accurate!](https://ehudreiter.com/2019/09/26/generated-texts-must-be-accurate/)
 - [Hotel Scribe: Generating High Variation Hotel Descriptions](https://www.inlg2019.com/assets/papers/44_Paper.pdf)
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 - [Natural Language Generation enhances human decision-making with uncertain information](https://arxiv.org/pdf/1606.03254.pdf)
@@ -73,10 +74,10 @@
 - [Revisiting Challenges in Data-to-Text Generation with Fact Grounding](https://www.inlg2019.com/assets/papers/32_Paper.pdf)
 - [Turing-NLG: A 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)
 
-
 ## Products 
 
 - [Accelerated Text](https://github.com/tokenmill/accelerated-text) -自动为您的数据生成多种自然语言描述，其措词和结构各不相同.
+- [RosaeNLG](https://rosaenlg.org) -基于Pug模板引擎的用于node.js或客户端（浏览器）执行的开源库，以生成英语，法语，德语和意大利语的文本.
 - [Twine](http://twinery.org/) -讲交互式非线性故事的开源工具.
 
 ## Realizers

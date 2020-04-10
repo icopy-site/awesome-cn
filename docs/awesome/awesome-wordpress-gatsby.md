@@ -15,15 +15,15 @@
   <br />
 </div>
 
- **无头CMS **是仅后端的内容管理系统（CMS）.  其目的是提供内容并使其可以通过API（例如REST或GraphQL）进行访问.
+ **无头CMS **是仅后端的内容管理系统（CMS）.  其目的是提供内容并通过API（例如REST或GraphQL）对其进行访问.
 
- 静态网站生成器（SSG）是一种框架或设置，可帮助您生成静态网站（HTML / CSS / JS）.  数据的来源可以是任何东西，从本地文件（例如文本文件或markdown）到API（例如REST，GraphQL）.
+ 静态网站生成器（SSG）是一种框架或设置，可帮助您生成静态网站（HTML / CSS / JS）.  数据的来源可以是任何内容，从本地文件（例如，文本文件或markdown）到API（例如，REST，GraphQL）.
 
 <br />
 
-**为什么要使用盖茨比和WordPress？**
+**为什么使用盖茨比和WordPress？**
 
- WordPress是“世界上使用最广泛的CMS”之一，因此许多人已经知道如何使用它.  在性能是关键的环境中，基于PHP的模板的典型前端方法正变得越来越成问题.  已经存在将WordPress用作通过JavaScript进行普通API调用的无头CMS的方法，但是还存在必须向服务器发出请求并根据响应进行呈现的缺点.  这增加了加载时间.  **相反，Gatsby会在编译时预先渲染整个网站**，因此用户会在第一次请求时获得**准备充分的静态网站**，从而使其成为**最佳性能方法之一.  另一个巨大的好处是**安全性**，因为您的WordPress实例可以在任何地方，甚至在本地，也不需要向用户公开.  **因此，静态的Gatsby网站是不可入侵的.**在下面的资源中查找利弊的进一步论据.
+ WordPress是“世界上使用最广泛的CMS”之一，因此许多人已经知道如何使用它.  在性能是关键的环境中，基于PHP的模板的典型前端方法正变得越来越成问题.  已经存在将WordPress用作通过JavaScript进行普通API调用的无头CMS的方法，但是还存在缺点，必须向服务器发出请求并根据响应进行呈现.  这增加了加载时间.  **相反，Gatsby会在编译时预先渲染整个站点**，因此用户会在第一个请求上获得**准备充分的静态站点**，从而使其成为“最佳性能方法”之一.  另一个巨大的好处是**安全性**，因为您的WordPress实例可以在任何地方，甚至可以在本地，而且您不需要将其公开给用户.  **因此，静态的Gatsby网站是不可入侵的.**在下面的资源中查找利弊的进一步论据.
 
 <!-- TOC -->
 <!-- /TOC -->
@@ -61,14 +61,15 @@
 - [WPGraphQL Gutenberg](https://github.com/pristas-peter/wp-graphql-gutenberg) -将Gutenberg块暴露于WPGraphQL API.
 - [WPGraphQL Gutenberg ACF](https://github.com/pristas-peter/wp-graphql-gutenberg-acf) -通过GraphQL公开ACF块
 - [WPGraphQL Meta Query](https://github.com/wp-graphql/wp-graphql-meta-query) -将Meta_Query支持添加到WPGraphQL插件以支持postObject查询args.
-- [WPGraphQL Tax Query](https://github.com/wp-graphql/wp-graphql-tax-query) -向PostObject查询参数（WP_Query）的WPGraphQL插件添加Tax_Query支持.
+- [WPGraphQL Tax Query](https://github.com/wp-graphql/wp-graphql-tax-query) -为PostObject查询参数（WP_Query）的WPGraphQL插件增加了Tax_Query支持.
 - [WPGraphQL JWT Authentication](https://github.com/wp-graphql/wp-graphql-jwt-authentication) -扩展WPGraphQL插件以使用JWT（JSON Web令牌）提供身份验证.
-- [WPGraphQL Lock](https://github.com/valu-digital/wp-graphql-lock) -通过实施持久的GraphQL查询，为WPGraphQL启用查询锁定.
+- [WPGraphQL Lock](https://github.com/valu-digital/wp-graphql-lock) -通过实现持久的GraphQL查询，为WPGraphQL启用查询锁定.
 - [QL Search](https://github.com/funkhaus/ql-search) -将SearchWP集成到WPGraphQL中的扩展.
+- [WPGraphQl Yoast SEO Plugin](https://github.com/ashhitch/wp-graphql-yoast-seo) -将Yoast SEO数据公开到WPGraphQL插件.
 - [WPGraphiQL](https://github.com/wp-graphql/wp-graphiql) -使用GraphiQL IDE扩展WordPress仪表板.
 - [WP API Menus](https://wordpress.org/plugins/wp-api-menus/) -使用WordPress注册菜单的新路由扩展WordPress JSON REST API.
-- [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) -用于Netlify（和其他平台）上的JAMstack部署的WordPress插件.
-- [Headless Mode](https://wordpress.org/plugins/headless-mode/)  -无头模式为尝试访问该网站的所有用户设置了重定向.  唯一允许访问的请求是试图访问REST API，WP GraphQL API或希望访问无头安装以编辑或创建帖子的登录用户.
+- [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) -用于Netlify（和其他平台）上JAMstack部署的WordPress插件.
+- [Headless Mode](https://wordpress.org/plugins/headless-mode/)  -无头模式为尝试访问该网站的所有用户设置了重定向.  唯一允许访问的请求是尝试访问REST API，WP GraphQL API或希望访问无头安装以编辑或创建帖子的登录用户.
 
 
 **显而易见的是，上面的一些插件：**
@@ -86,7 +87,7 @@
 
 ## Tutorials
 
- **注意：**我们区分在Gatsby中使用WordPress的两种方式.  有一个`gatsby-source-wordpress`插件，它基于WP REST API **创建了一个Gatsby-GraphQL模式，还有一个** WPGraphQL **方式，它直接从带有``的GraphQL模式中提取. gatsby-source-graphql`插件.
+ **注意：**我们区分将WordPress与Gatsby结合使用的两种方式.  有一个`gatsby-source-wordpress`插件，它基于WP REST API **创建一个Gatsby-GraphQL模式，还有一个** WPGraphQL **方式，可以直接从带有``的GraphQL模式中提取. gatsby-source-graphql`插件.
 
 ### Written Tutorials
 
@@ -105,19 +106,19 @@
 - 2019.09: [Sourcing from WordPress](https://www.gatsbyjs.org/docs/sourcing-from-wordpress/) -本指南将引导您完成将Gatsby与WordPress Rest Api结合使用的过程.
 - 2019.07: [Complete guide to WordPress menu sourcing in Gatsby](https://dev.to/boussama/complete-guide-to-wordpress-menu-sourcing-in-gatsby-h76) -本指南说明了如何将WordPress菜单添加到您的Gatsby版本中.
 - 2019.04: [How To Build A Blog with WordPress and Gatsby.js](https://dev.to/iam_timsmith/how-to-build-a-blog-with-wordpress-and-gatsby-js-part-1-4f9e) -教程（共3部分），教您如何使用WordPress和Gatsby构建博客.
-- 2018.10: [Build a blog with React, WordPress using Gatsby](https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004) -讲解如何使用Gatsby和WordPress作为数据源的10个步骤创建博客的教程.
+- 2018.10: [Build a blog with React, WordPress using Gatsby](https://medium.com/@mjadav/build-a-blog-with-react-wordpress-using-gatsby-4cdfb6ce2004) -讲解如何使用Gatsby和WordPress作为数据源的10个步骤来创建博客的教程.
 
 
 ### Video Tutorials
 
 **WPGraphQL**
-- 2019.11: [30+ Videos - Gatsby + WordPress (2019) Complete Course](https://whatjackhasmade.co.uk/gatsby-wordpress-2019/)  -该系列重点介绍如何将WordPress用作具有GraphQL模式的无头CMS.  设置了WordPress网站和主题之后，我们将转到Gatsby上，以及如何使用新模式为Gatsby网站生成内容，以编程方式生成页面，将Gutenberg块转换为React组件并着重介绍本章.盖茨比的SEO.
-- 2019.07: [Gatsby + WordPress with WPGraphQL (with Jason Bahl) — Learn With Jason](https://www.youtube.com/watch?v=DH7I1xRrbxs) -在此流中，Jason Bahl讲授如何将WordPress与Advanced Custom Fields和WPGraphQL一起使用，以创建功能强大，灵活的管理仪表板，然后在Gatsby网站中查询和显示该数据.
-- 2019.07: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) -在此视频中，Alex Young（WPCasts）介绍了如何通过WPGraphQL和React获得简单的无头WordPress设置.
-- 2019.06: [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws) -在此视频中，您将学习如何使用名为WPGraphQL的超赞插件和GraphQL + Advanced Custom Fields等超酷工具，将GraphQL与WordPress结合使用.
+- 2019.11: [30+ Videos - Gatsby + WordPress (2019) Complete Course](https://whatjackhasmade.co.uk/gatsby-wordpress-2019/)  -该系列重点介绍如何将WordPress用作具有GraphQL模式的无头CMS.  设置了WordPress网站和主题之后，我们将转到Gatsby上，以及如何使用新模式为Gatsby网站生成内容，以编程方式生成页面，将Gutenberg块转换为React组件，并重点关注本章.盖茨比的SEO.
+- 2019.07: [Gatsby + WordPress with WPGraphQL (with Jason Bahl) — Learn With Jason](https://www.youtube.com/watch?v=DH7I1xRrbxs) -在此流中，Jason Bahl教授如何将WordPress与Advanced Custom Fields和WPGraphQL一起使用，以创建功能强大，灵活的管理仪表板，然后在Gatsby站点中查询和显示该数据.
+- 2019.07: [Crash Course: Headless WordPress with WPGraphQL, ACF, and React](https://www.youtube.com/watch?v=9KGuI0UmpMw) -在此视频中，Alex Young（WPCasts）介绍了如何使用WPGraphQL和React获得简单的无头WordPress设置.
+- 2019.06: [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws) -在此视频中，您将学习如何使用名为WPGraphQL的超赞插件以及诸如GraphQL + Advanced Custom Fields之类的一些超酷功能，将GraphQL与WordPress结合使用.
 - 2019.04: [WPGraphQL for ACF](https://www.youtube.com/watch?v=rIg4MHc8elg) -Jason Bahl展示了如何将WPGraphQL用于高级自定义字段.
--2018.07：[GraphQL with WordPress and Gutenberg-Jason Bahl-2018 JavaScript for WordPress Conference
-]（https://www.youtube.com/watch?v=6CuM1PY9ESQ）-在2018年WordPress的JavaScript会议的演讲中，WP GraphQL插件的开发人员Jason Bahl提供了有关如何使用GraphQL的更新示例. WordPress和古腾堡.
+-2018.07：[GraphQL与WordPress和古腾堡-Jason Bahl-2018 JavaScript for WordPress Conference
+]（https://www.youtube.com/watch?v=6CuM1PY9ESQ）-在2018年WordPress JavaScript会议的演讲中，WP GraphQL插件的开发人员Jason Bahl提供了有关如何使用GraphQL的更新示例WordPress和古腾堡.
 
 
 ** WP REST API **
@@ -127,7 +128,7 @@
 ## Starters
 您可以克隆并开始构建的项目启动器列表.
 
-- [Gatsby + WPGraphQL Blog Example](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example) -演示展示如何使用WPGraphQL作为盖茨比站点的源.
+- [Gatsby + WPGraphQL Blog Example](https://github.com/wp-graphql/gatsby-wpgraphql-blog-example) -演示如何使用WPGraphQL作为盖茨比站点的源代码的演示.
 - [Gatsby + Headless WordPress + Netlify Starter](https://github.com/justinwhall/gatsby-wordpress-netlify-starter) -用于持续部署到Netlify的Gatsby + WordPress入门工具.
 - [Gatsby WordPress Starter Advanced](https://github.com/henrikwirth/gatsby-starter-wordpress-advanced) -先进的Gatsby + WordPress入门程序，它是根据一系列教程构建的，并与ACF灵活的内容字段一起使用以创建内容块/布局.
 
