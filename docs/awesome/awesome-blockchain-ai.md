@@ -32,16 +32,16 @@
 
 - [SingularityNET](https://singularitynet.io/) -SingularityNET是以太坊区块链上的分布式AI平台，每个区块链节点都支持AI算法.
 - [Intuition Fabric](https://intuitionfabric.com) -Intuition Fabric的目标是通过存储在行星际文件系统上并通过以太坊区块链访问的深度学习模型网络，使对AI的访问民主化.
-- [Cerebrum](https://cerebrum.world/)  -Cerebrum是用于众包机器学习的去中心化平台.  Cerebrum使任何人都可以加密其数据并主持机器学习竞赛，以利用众包的机器学习模型. 
+- [Cerebrum](https://cerebrum.world/)  -Cerebrum是用于众包机器学习的去中心化平台.  Cerebrum使任何人都可以加密其数据并举办机器学习竞赛，以利用众包的机器学习模型. 
 - [OpenMined](https://openmined.org/)  -OpenMined是一个致力于构建开源技术以分散数据和情报所有权的社区.  借助OpenMined，可以对AI进行永远无法访问的数据培训.
 - [Effect.ai](https://effect.ai) -Effect.ai是一个区块链驱动的去中心化平台，用于人工智能开发和AI相关服务.
 - [Decentralized Machine Learning](https://decentralizedml.com/) -DML旨在创建基于区块链的去中心化机器学习协议和生态系统.
 - [Raven Protocol](https://www.ravenprotocol.com/) -Raven协议是一种分散式和分布式的深度学习培训协议.
-- [Thought Network](https://thought.live/) -Thought的支持区块链的Fabric通过将人工智能嵌入到每一个数据中来从根本上改变应用程序，从而使其变得敏捷，可操作且本质上是安全的.
-- [MATRIX AI](https://www.matrix.io/) -MATRIX是一个结合了区块链和AI的平台，可实现智能区块链.
+- [Thought Network](https://thought.live/) -Thought的支持区块链的Fabric通过将人工智能嵌入到每一个数据比特中来从根本上改变应用程序，从而使其变得敏捷，可操作且本质上是安全的.
+- [MATRIX AI](https://www.matrix.io/)  -Matrix AI Network是将AI技术与区块链技术相结合的公链，以解决当前阻碍区块链技术发展和采用的主要挑战.  Matrix准备使用基于区块链的去中心化计算平台来革新人工智能领域并使其民主化.
 - [Pandora Boxchain](https://pandoraboxchain.ai/) -由认知工作证明（PoCW）支持的AI内核，计算和大数据市场.
 - [Fitchain](https://fitchain.io/) -Fitchain是基于区块链的机器学习工厂，它使数据科学家可以训练模型，从开始到整个生命周期都对其进行跟踪.
-- [Cortex Labs](https://www.cortexlabs.ai/) -Cortex Labs是具有虚拟机的去中心化AI平台，允许您在链上执行AI程序.
+- [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
 
 ### Blockchain projects for AI algorithms
 - [Danku](https://github.com/algorithmiaio/danku) -基于区块链的协议，用于在以太坊等公共区块链上评估和购买ML模型. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
@@ -79,7 +79,7 @@
 
 ## Blockchains for AI in supply chains
 
-- [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
+- [Namahe](https://namahe.io/) -Namahe是一个旨在通过合并AI层为供应链行业带来效率的平台.
 
 ## Deadpool
 

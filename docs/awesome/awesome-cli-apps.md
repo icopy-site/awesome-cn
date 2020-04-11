@@ -263,7 +263,7 @@
 
 - [gotty](https://github.com/yudai/gotty) -将您的终端共享为Web应用程序.
 - [localtunnel](https://github.com/localtunnel/localtunnel) -将您的localhost暴露给全世界，以方便测试和共享.
-- [mosh](https://mosh.org/) -允许间断连接漫游的远程SSH客户端.
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
 - [ngrok](https://ngrok.com/) -安全自省到本地主机的隧道.
 - [serveo](https://serveo.net/) -仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) -管道输出到网络.
@@ -392,7 +392,8 @@
 - [PathPicker](https://github.com/facebook/pathpicker/) -解析命令的输出后，PathPicker将为您提供一个不错的UI，以选择您感兴趣的文件.
 - [fz](https://github.com/changyuheng/fz) -z的无缝模糊制表符完成.
 - [goto](https://github.com/iridakos/goto) -具有自动完成功能的Shell的目录别名.
-- [z.lua](https://github.com/skywind3000/z.lua) -新的cd命令，可帮助您通过学习习惯来更快地导航.
+- [z.lua](https://github.com/skywind3000/z.lua) -`cd`命令，可以学习您的习惯.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) -Rust中的快速目录跳线.
 
 ### Search
 
@@ -485,7 +486,7 @@
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) -从网络快捷方式文件获取网址.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) -将匹配的单引号转换为双引号：我“爱”独角兽=&gt;我“爱”独角兽.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) -将匹配的双引号转换为单引号：我“爱”独角兽→我“爱”独角兽.
-- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) -Python中GDB的模块化可视界面.
 - [hget](https://github.com/bevacqua/hget) -从您的终端以纯文本形式呈现网站.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) -一个Node.js CLI应用，可显示您的Google Wifi / OnHub路由器的状态.
 - [calories](https://github.com/zupzup/calories) -卡路里和体重追踪器.

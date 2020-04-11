@@ -46,7 +46,7 @@ _请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie
 * [JensenLab](https://jensenlab.org/) -总部位于丹麦哥本哈根大学的诺和诺德蛋白质研究基金会中心. 
 * [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) -NaCTeM总部位于曼彻斯特大学，由Sophia Ananiadou教授领导，通常关注文本挖掘，但特别关注生物医学应用.
 * [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) -在过去20年中，Mayo Clinic的几个小组对BioIE（例如Apache cTAKES平台）做出了重大贡献.
-* [Monarch Initiative](https://monarchinitiative.org/) -俄勒冈州立大学，俄勒冈健康与科学大学，劳伦斯·伯克利国家实验室，杰克逊实验室以及其他几家研究机构之间的共同努力，力求“利用语义整合生物学信息，并以新颖的方式展示生物信息，利用表型弥合知识鸿沟”.
+* [Monarch Initiative](https://monarchinitiative.org/) -俄勒冈州立大学，俄勒冈健康与科学大学，劳伦斯·伯克利国家实验室，杰克逊实验室以及其他几个小组的共同努力，旨在“利用语义整合生物信息，并以新颖的方式展示生物信息，并利用表型弥合知识鸿沟”.
 * [TurkuNLP](https://turkunlp.org/) -总部位于图尔库大学，主要关注NLP，重点是BioNLP和临床应用.
 * [UTHealth Houston Biomedical Natural Language Processing Lab](https://sbmi.uth.edu/nlp/) - Based in the University of Texas Health Science Center at Houston, School of Biomedical Informatics and led by Dr. Hua Xu.
 * [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) -总部位于弗吉尼亚联邦大学，由布里奇特·麦金尼斯博士领导.
@@ -108,7 +108,7 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) -Python工具主要用于生物信息学和计算分子生物学目的，但也是一种获取数据的便捷方法，包括从PubMed获得的文档/摘要（请参阅文档的第9章）.
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) -主要用于生物信息学和计算分子生物学目的的Python工具，但也是一种获取数据的便捷方法，包括从PubMed获得的文档/摘要（请参阅文档的第9章）.
 * [Bio-SCoRes](https://github.com/kilicogluh/Bio-SCoRes) - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538) -生物医学共同参考解决方案的框架.
 * [medaCy](https://github.com/NLPatVCU/medaCy)  -用于建立预测医学自然语言处理模型的系统.  建立在 [spaCy](https://spacy.io/) 框架. 
 * [ScispaCy](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) -版本 [spaCy](https://spacy.io/) 科学和生物医学文献的框架.
@@ -182,7 +182,8 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 * [NCBI Disease Corpus](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/) - [paper](https://www.sciencedirect.com/science/article/pii/S1532046413001974) -793种生物医学摘要的语料库，标有疾病名称和MeSH和 [OMIM](https://omim.org/).
 * [PubTator Central datasets](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727)  -可通过RESTful API或FTP下载进行访问.  包括对超过2900万份摘要和300万份全文文档的注释.
 * [Word Sense Disambiguation (WSD)](https://wsd.nlm.nih.gov/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223)  -203个歧义词和37,888个自动提取的词在生物医学研究出版物中的使用实例.  需要UTS帐户.
-* [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) -也称为CQC或爱荷华州收藏，这些是医师在办公室就诊时提出的数千个问题以及相关的答案. 
+* [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) -也称为CQC或爱荷华州收藏，这些是医师在办公室就诊时提出的数千个问题以及相关的答案.
+* [BioNLP ST 2013 datasets](http://2013.bionlp-st.org/)  -来自六个共享任务的数据，尽管其中一些可能不容易获得；  尝试使用CG任务集（BioNLP2013CG）获得广泛的实体和事件注释.
 
 ### Protein-protein Interaction Annotated Corpora
  蛋白间相互作用简称为PPI.  以下几组可用 [BioC format](http://bioc.sourceforge.net/) .  较旧的设置（AIMed，BioInfer，HPRD50，IEPA和LLL）由以下公司提供： [WBI corpora repository](http://corpora.informatik.hu-berlin.de) 最初是由 [group at Turku University](http://mars.cs.utu.fi/PPICorpora/).
@@ -192,7 +193,7 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 * [BioInfer](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/bioinfer_bioc.xml.zip) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-50) -来自生物医学研究摘要的1,100句话，标有关系（包括PPI），命名实体和句法依存关系的注释. [Additional information and download links are here.](http://mars.cs.utu.fi/BioInfer/)
 * [HPRD50](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/hprd50_bioc.xml.zip) - [paper](https://academic.oup.com/bioinformatics/article/23/3/365/236564) -人蛋白质参考数据库参考的50篇科学摘要，标注了PPI.
 * [IEPA](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/iepa_bioc.xml.zip) - [paper](http://psb.stanford.edu/psb-online/proceedings/psb02/abstracts/p326.html) -从生物医学研究摘要中提取的486句注释了共生化学物质对，包括蛋白质（因此，PPI注释）.
-* [LLL](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/lll_bioc.xml.zip) - [paper](https://www.semanticscholar.org/paper/Learning-Language-in-Logic-Genic-Interaction-Nedellec/0863a9d71955341b7e1a6a6877d44d4f0bb22671) -有关枯草芽孢杆菌细菌的研究文章中的77个句子，注释了蛋白质-基因相互作用（因此，与PPI注释相当接近）. [Additional information is here.](http://genome.jouy.inra.fr/texte/LLLchallenge/#task1)
+* [LLL](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/lll_bioc.xml.zip) - [paper](https://www.semanticscholar.org/paper/Learning-Language-in-Logic-Genic-Interaction-Nedellec/0863a9d71955341b7e1a6a6877d44d4f0bb22671) -有关枯草芽孢杆菌细菌的研究文章中的77个句子，注释了蛋白质与基因的相互作用（因此，与PPI注释相当接近）. [Additional information is here.](http://genome.jouy.inra.fr/texte/LLLchallenge/#task1)
 
 ### Other Datasets
 

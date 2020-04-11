@@ -35,15 +35,15 @@
 - [Every Circuit](http://everycircuit.com) -免费试用在线，可视，交互式电路模拟器，以简化电路.
 - [Qucs](http://qucs.sourceforge.net/) -用于DC，AC，S参数，噪声分析等的开源集成电路模拟器
 - [iCircuit](http://icircuitapp.com/) -易于使用的电子电路模拟器，其先进的模拟引擎可以处理模拟和数字电路，并具有实时始终在线分析功能.
-- [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) -具有多种交互式仿真类型的专业级混合信号仿真器. 
-  
+- [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) -具有多种交互式仿真类型的专业级混合信号仿真器.
+
 ## Gerber Viewers
 
 ### Online
 - [Tracespace Viewer](http://viewer.tracespace.io) -Gerber查看器，使您可以检查各个图层以及板预览.
 - [Gerblook](http://gerblook.org/) -由Gerbv提供支持的在线Gerber查看器.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) -3D Gerber查看器.
-- [CircuitPeople](https://circuitpeople.com) -没有多余的处理，Gerbers的2D图层查看器不会多余.
+- [CircuitPeople](https://circuitpeople.com) -没有多余的处理，Gerbers的2D图层查看器没有多余的装饰.
 - [Stackrate Viewer](http://stackrate.de/viewer) -易于使用的在线gerber查看器以及跟踪悬停和测量工具.
 
 ### Installable
@@ -72,7 +72,7 @@
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -全面的书面教程，可带您创建键盘PCB.
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) （也 [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)）-简短的PDF，可通过菜单和键盘快捷键进行最常用的操作.
 - [Footprint Collection](https://github.com/monostable/kicad_footprints) -可以在线收集所有KiCAD脚印以及一些脚本来管理它们.
-- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) -用于手动拾取和放置的html BOM生成工具.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
@@ -98,6 +98,10 @@
 ## Project Sharing Platforms
 - [Kitspace.org](https://kitspace.org)  -项目共享网站，可帮助您购买零件并重建项目.  开源，真正由您开发.
 - [Hackaday.io](https://hackaday.io) -共享流行博客项目的社交网站.
+- [Hackster.io](https://www.hackster.io/)  -另一个用于共享项目的社交网站.  按平台，主题和产品井井有条
+- [InventHub](https://inventhub.io/) -基于Git的项目托管和协作平台，用于硬件开发
+- [CADLab](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development
+
 
 ## Inventory Management and Purchasing
 - [1-click BOM](https://1clickbom.com) -浏览器扩展程序，可自动执行购买和零件搜索.
@@ -119,7 +123,9 @@
 - [bunniestudios.com](https://www.bunniestudios.com) -Andrew&#39;Bunnie&#39;Huang涉及硬件黑客，开放式硬件，制造等等.
 - [Bald Engineer](https://www.baldengineer.com) -James Lewis撰写的有关电子产品和嵌入式软件的项目日志，教程和文章.
 - [Rheingold Heavy](https://rheingoldheavy.com) -Dan Hienzsch撰写的有关电子产品和嵌入式软件的更多项目日志，教程和文章.
+- [Hackster.io](https://blog.hackster.io/) -另一个涵盖电子产品的博客
 - [Dangerous Prototypes](http://dangerousprototypes.com/blog/) -有关开源硬件项目和有趣的应用笔记的博客.
+
 
 ## Forums
 

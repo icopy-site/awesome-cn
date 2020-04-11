@@ -28,7 +28,8 @@
 
 ### Mod Loader
 
-- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) -修改了Minecraft基本文件，以帮助改进模组之间的兼容性.
+- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) -对Minecraft基本文件的修改，以帮助改进各模组之间的兼容性.
+- [Fabric](https://fabricmc.net/) -适用于Minecraft的轻量级实验改装工具链.
 - [liteloader](http://www.liteloader.com/) -Minecraft的轻量级Mod加载器，旨在为不需要修改游戏机制的Mod提供简单，高性能和可靠的加载器功能.
 - [Meddle](https://github.com/FyberOptic/Meddle) -与修改1.9 / 1.10快照有关的所有内容都集中在一处.
 - [RopeMC](https://github.com/RopeMC/RopeMC) -轻量级的基于反射的mod loader，旨在使用户友好并独立于更高版本.
@@ -52,16 +53,16 @@
 
 ### Technology
 
-- [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) -Tinkers&#39;Construct是一种mod，用于以多种方式将工具组合在一起，然后对其进行修改，直到它们变成其他东西为止.
-- [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) -沉浸式工程技术是一款具有一定魅力的技术模块，其设计思想和理念均基于达米恩·哈扎德（Damien Hazard）创造的大部分资产.
+- [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) -Tinkers&#39;Construct是一种Mod，它以多种方式将工具组合在一起，然后对其进行修改，直到它们变成其他东西为止.
+- [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) -沉浸式工程技术是一款具有一定魅力的技术模块，其设计思想和理念均由达米安·哈扎德（Damien Hazard）创造，并具有大部分资产.
 - [Botania](https://github.com/Vazkii/Botania)  -Botania本质上是一个技术mod.  主题是自然魔术.
-- [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) -服务器友好且内容丰富的魔术与技术的融合！
+- [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) -服务器友好且内容丰富的魔术和技术的融合！
 - [Ender IO](https://github.com/CrazyPants/EnderIO) -Ender IO是全尺寸的技术模型.
 - [Railcraft](https://github.com/Railcraft/Railcraft) -极大地扩展和完善Minecraft中的Minecart系统.
 
 ### Farming And Food
 
-- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) -Pam的HarvestCraft是Minecraft的改良版，目前可添加多种农作物和食物.
+- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) -帕姆（Pam）的HarvestCraft是Minecraft的改良版，目前可添加多种农作物和食物.
 
 ### Energy
 
@@ -78,11 +79,11 @@
 
 ## Server Plugins
 
-- [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) -AntiCheatReloaded通过监视和分析播放器的行为来帮助服务器管理员轻松识别和阻止恶意用户.
+- [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) -AntiCheatReloaded通过监视和分析播放器的行为来帮助服务器管理员轻松地识别和阻止恶意用户.
 - [ViaVersion](https://github.com/MylesIsCool/ViaVersion) -允许将新客户端连接到Minecraft服务器的旧服务器版本.
 - [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded)  -AdvancedKitsReloaded是Minecraft服务器的工具包管理插件，可运行Bukkit，CraftBukkit，Spigot和Paper（&gt; 1.8）.  使用此插件，您可以轻松创建/编辑/删除工具箱，并且可以根据需要进行自定义.
 - [WorldGuard](https://github.com/EngineHub/WorldGuard) -WorldGuard可让您和玩家保护陆地区域免受悲痛和不良影响，并调整和禁用Minecraft的各种游戏功能.
-- [CraftBook](https://github.com/EngineHub/CraftBook) -CraftBook可让您创建神奇扩展的网桥，紧凑的Redstone电路，复杂的Minecart机制等，而所有这些都无需客户端mod即可由服务器完全自定义.
+- [CraftBook](https://github.com/EngineHub/CraftBook) -CraftBook可让您创建神奇扩展的网桥，紧凑的Redstone电路，复杂的Minecart力学等，而所有这些都无需客户端mod即可由服务器完全自定义.
 
 ## Web Applications
 
@@ -99,8 +100,8 @@
 
 ### Launchers
 
-- [MultiMC](https://github.com/MultiMC/MultiMC5) -Minecraft的自定义启动器，使您可以轻松地一次管理Minecraft的多个安装.
-- [HMCL](https://github.com/huanghongxun/HMCL) -支持许多功能的动力Minecraft启动器.
+- [MultiMC](https://github.com/MultiMC/MultiMC5) -Minecraft的自定义启动器，可让您轻松轻松地一次管理Minecraft的多个安装.
+- [HMCL](https://github.com/huanghongxun/HMCL) -支援许多功能的Minecraft启动器.
 
 ## Development
 

@@ -369,6 +369,7 @@ algorithm.
 ### Web-sites
 
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) -密码学堆栈交换是软件开发人员，数学家和其他对密码学感兴趣的人的问答网站.
+- [Cryptohack](https://cryptohack.org/) -与Cryptopals类似的具有很多交互式密码学挑战的平台.
 - [Cryptopals Crypto Challenges](http://cryptopals.com/) -一系列应用密码学挑战，从非常基本的挑战（例如十六进制到基础64个挑战）开始，逐渐将难度提高到抽象代数.
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) -密码学概述.
 - [IACR](https://www.iacr.org/) -国际密码学研究协会是一个非营利性的科学组织，其目的是进一步研究密码学及相关领域.

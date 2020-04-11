@@ -26,12 +26,11 @@
 *用于应用程序性能监视的插件.*
 
 - [NewRelic plugin](https://github.com/jippi/cakephp-newrelic/tree/cake3) -一个完整的插件，可为CakePHP应用程序实现完整的New Relic集成，包括CLI命名，异常发送，自定义计时等.
-
-- [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) -一个简单的插件，可以使用New Relic PHP代理仅对CakePHP 3应用程序进行名称交易和浏览器计时.
+- [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) -一个简单的插件，可以使用New Relic PHP代理仅进行名称交易和浏览器计时.
 
 ## Architecture
 
-:strawberry: [Burzum/CakeServiceLayer plugin](https://github.com/burzum/cakephp-service-layer) -服务层和域/业务模型的实现.
+- ：草莓： [Burzum/CakeServiceLayer plugin](https://github.com/burzum/cakephp-service-layer) -服务层和域/业务模型的实现.
 
 ## Asset Management
 *用于管理，压缩和最小化网站资产的工具.*
@@ -65,7 +64,7 @@
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) -使用OAuth2身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
 - ：草莓： [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) -事件驱动的行为，可轻松生成一次性使用的安全令牌.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) -轻松构建支持SaaS的Web应用程序.
-- ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -基于身份验证和基于角色的（单/多）授权，这是一种非常轻巧的方法.
+- ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -身份验证和基于角色的（单/多）授权，是一种非常轻巧的方法.
 - ：草莓： [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) -包含 [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) 用于密码哈希的DRY方法.
 - ：草莓： [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth)  -允许使用Google Authenticator或类似应用进行两因素身份验证，以生成一次性代码.  基于 [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) 图书馆.
 - [UserPermissions plugin](https://github.com/AlessandroMinoccheri/UserPermissions) -允许用户组或单个用户查看特定页面.
@@ -87,7 +86,7 @@
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) 一个将Airbrake与CakePHP无缝集成以解决错误和异常的插件.
 - ：草莓： [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
-- [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
+- ：草莓： [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
 - [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) -一个插件，可帮助检测实时数据库和灯具中的不匹配情况，从而使基于灯具的测试更加可靠，并且部署更安全.
 - [Sentry plugin](https://github.com/Connehito/cake-sentry) 一个将Sentry与CakePHP无缝集成以解决错误和异常的插件.
 - ：草莓： [Setup plugin](https://github.com/dereuromark/cakephp-setup) -包含调试和维护工具的轻量级安装插件.
@@ -110,7 +109,7 @@
 - [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) -电子邮件传输插件，用于通过Elastic Email API发送电子邮件.
 - [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) -具有预览和发件人外壳的电子邮件队列插件.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) -电子邮件帮助程序，布局等.
-- ：草莓： [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) -电子邮件传输插件，用于通过Mailgun发送电子邮件.
+- ：草莓： [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
 - [SendGrid plugin](https://github.com/sprintcube/cakephp-sendgrid) -电子邮件传输插件，用于通过SendGrid API发送电子邮件.
 
 ## Environment
@@ -143,6 +142,11 @@
 *用于对地址进行地理编码以及使用纬度和经度的插件.*
 
 - ：草莓： [Geo plugin](https://github.com/dereuromark/cakephp-geo) -包含 [Geocoder behavior](https://www.dereuromark.de/2012/06/12/geocoding-with-cakephp/) 和 [GoogleMaps helper](https://www.dereuromark.de/2010/12/21/googlemapsv3-cakephp-helper/).
+
+## HTTP
+*用于HTTP和客户端抽象的插件*
+
+- ：草莓： [Http/Adapter/Cake library](https://github.com/php-http/cakephp-adapter) -适配器 [HTTPlug](https://github.com/php-http/httplug) HTTP客户端抽象.
 
 ## I18n
 * I18n（国际化）和L10n（本地化）的插件.
@@ -194,10 +198,10 @@
 *其他插件和库.*
 
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) -使您能够将控制器操作作为单个类进行管理.
-- ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
+- ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -具有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个用于向您的应用添加枚举列表支持的插件.
-- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件.  用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历.  包括用于ICS日历文件生成的IcalView.
@@ -223,7 +227,7 @@
 ## Navigation
 *用于构建导航结构的工具.*
 
-- ：草莓： [Icings/Menu plugin](https://github.com/icings/menu) - 一个 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP的经验丰富的菜单插件.
+- ：草莓： [Icings/Menu plugin](https://github.com/icings/menu) - 一种 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP的经验丰富的菜单插件.
 
 ## NoSQL
 *用于“ NoSQL”后端的插件.*
@@ -233,11 +237,11 @@
 ## Notifications
 *使用通知软件的插件.*
 
-- [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) - A plugin to send downstream messages to an Android or iOS device through Google Cloud Messaging.
+- [ker0x/CakeGcm plugin](https://github.com/ker0x/CakeGCM) -一个插件，可通过Google Cloud Messaging将下游消息发送到Android或iOS设备.
 - [Notifier plugin](https://github.com/cakemanager/cakephp-notifier) -一个使创建和阅读通知变得容易的插件.
 - [ker0x/Push plugin](https://github.com/ker0x/cakephp-push) -通过Firebase Cloud Messaging等服务发送推送通知的插件.
 
-## ORM and Datamapping
+## ORM / Database / Datamapping
 *实现对象关系映射或数据映射技术的插件.
 
 - ：草莓： [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) -维护记录的有序列表的行为.
@@ -257,6 +261,7 @@
 - ：草莓： [RowLocker plugin](https://github.com/lorenzo/row-locker) -表中行的排他锁.
 - [Serializeable Data Types plugin](https://github.com/burzum/cakephp-serialize-data-types) -将数据库内容序列化为JSON或使用phps序列化函数.
 - ：草莓： [Muffin/Webservices ORM plugin](https://github.com/usemuffin/webservice) -类似于ORM的网络服务界面.
+- ：草莓： [Connehito/CakephpMasterReplica plugin](https://github.com/Connehito/cakephp-master-replica) -切换主数据库/副本数据库连接.
 
 ## PDF
 *用于处理PDF文件的插件和软件.
@@ -281,7 +286,7 @@
 - [Cors plugin](https://github.com/ozee31/cakephp-cors) -使用中间件激活CORS.
 - [Cors plugin](https://github.com/snelg/cakephp-cors) -用于将CORS标头添加到指定端点的轻量级插件.
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) -建筑的听众 [JSON API](https://jsonapi.org/) 兼容的API.
-- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
+- [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) -允许使用的插件 [Fractal transformers](https://fractal.thephpleague.com/transformers/) 用于您的API输出.
 
 ## Search
 *用于对数据建立索引并执行搜索查询的插件和软件.*
@@ -295,6 +300,7 @@
 ## Security
 *有关安全性的插件和信息，可防止漏洞并防御XSS等.
 
+- ：草莓： [Bruteforce](https://github.com/Ali1/cakephp-bruteforce/) -在不涉及数据库的情况下将Brute Force Protection添加到安装中的简单方法.
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) -简单的解决方案，使加密的数据类型可以存储在数据库中.
 - ：草莓： [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) -简单，不干扰和可扩展的验证码解决方案，默认情况下提供基于图像的数学验证码.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior)  -使用这种行为来加密您的实体数据.  使用CakePHP Security类在PHP级别完成加密.
@@ -339,7 +345,7 @@
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) -前端框架FormHelper扩展.
 - [CommonMark plugin](https://github.com/gourmet/common-mark) -添加 [CommonMark](https://commonmark.org) （降价）对模型和视图的支持.
 - ：草莓： [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) -一个视图类，可以轻松生成CSV.
-- [Datalist plugin](https://github.com/rrd108/cakephp-datalist) - Support for HTML5 datalist element with the possibility to create new entries into associated models.
+- [Datalist plugin](https://github.com/rrd108/cakephp-datalist) -支持HTML5数据列表元素，并可以在相关模型中创建新条目.
 - ：草莓： [Feed plugin](https://github.com/dereuromark/cakephp-feed) -包含RssView类以轻松生成（复杂）RSS feed.
 - [InlineCss plugin](https://github.com/drmonkeyninja/cakephp-inline-css) -一个插件，可将HTML样式块转换为View模板上的内联CSS（旨在与电子邮件模板一起使用）.
 - [JadeView plugin](https://github.com/clthck/cakephp-jade) -Jade模板引擎插件.
@@ -418,7 +424,7 @@
 *在哪里获得帮助.*
 
 - [CakePHP-FR.org](http://cakephp-fr.org) -法国社区网站.
-- [CakePHP.ir](http://forum.cakephp.ir/) -与其他开发者的讨论以及针对波斯社区的一般性问题.
+- [CakePHP.ir](http://forum.cakephp.ir/) - discussion with other devs and generic questions for Persian community.
 - [Official CakePHP Forum](https://discourse.cakephp.org/) -这适用于一般性问题.
 - [IRC Channel](https://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) -与其他开发人员和核心开发人员的实时聊天/讨论.
 - [stackoverflow.com/questions/tagged/cakephp](https://stackoverflow.com/questions/tagged/cakephp) -这是针对特定问题的，最好是带有一些示例代码.
@@ -475,7 +481,7 @@
 - [CakePHP-NL](https://www.meetup.com/CakePHP-NL) -荷兰的MeetUps.
 
 ## Contributing
-请参见 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 有关详细信息.
+请参阅 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 有关详细信息.
 
 ## Credits
 awesome-cakephp由创建 [dereuromark](https://github.com/dereuromark)  目前由他和FriendsOfCake小组维护.  谢谢你们 [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors)也一样

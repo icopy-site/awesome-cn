@@ -11,12 +11,12 @@
 
 ## About this list
 
- 科技和社交媒体正在对我们的社会产生重大影响.  尽管许多创新技术发明改善了我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech.com/problem/)，由特里斯坦·哈里斯（Tristan Harris）领导的世界一流团队组成，这些团队受到深切关注 [The Center of Humane Technology](https://humanetech.com).
+ 科技和社交媒体正在对我们的社会产生重大影响.  尽管许多创新技术发明改善了我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech.com/problem/)，由特里斯坦·哈里斯（Tristan Harris）领导的世界一流团队组成，该团队深为关注 [The Center of Humane Technology](https://humanetech.com).
 
 
  该列表重点关注与人文科技主题直接相关的（大多数是开源）项目.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的PR之前.
 
- **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望对您有用.  但是根据 [License](#license)  我们不能保证所引用软件的质量或适用性.  因此，在安装任何东西之前，请正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues)  因此我们可以采取适当的措施.  谢谢！
+ **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望对您有用.  但是根据 [License](#license)  我们不能保证所引用软件的质量或适用性.  因此，在安装任何东西之前，请先正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues)  因此我们可以采取适当的措施.  谢谢！
 
 ## Community
 
@@ -49,7 +49,7 @@
 
 - [NoScript Security Suite](https://noscript.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/hackademix/noscript) -基于Mozilla的浏览器插件，仅允许列入白名单的网站上的活动内容.
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/https-everywhere) -加密您与许多主要网站的通信，使您的浏览更加安全.
-- [Security Checklist](https://securitycheckli.st/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/brianlovin/security-checklist) - Checklist of resources designed to improve your online privacy and security.
+- [Security Checklist](https://securitycheckli.st/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/brianlovin/security-checklist) -旨在改善您的在线隐私和安全性的资源清单.
 - [PRISM Break](https://prism-break.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/prism-break/prism-break) -专有软件的安全性和隐私意识替代品.
 - [Password Alert](https://chrome.google.com/webstore/detail/password-alert/noondiphcddnnabmjcihcjfbhfklnnep) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/google/password-alert) -Google的Chrome扩展程序，可警告您对您的Google帐户进行网络钓鱼.
 - [Warn Common Password](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/Warn-Common-Password/blob/master/README.md)-附加组件通过捆绑的_offline_列表500006条目来保护我们免受常见密码的侵害
@@ -72,14 +72,14 @@
 - [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) -浏览器扩展程序，可防止通过Javascript Canvas API进行指纹识别.
 - [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ChrisAntaki/disable-webrtc-firefox) -浏览器扩展程序，禁用WebRTC，以避免从VPN后面泄漏您的IP地址.
 - [Syncthing](https://syncthing.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/syncthing/syncthing/) -取代专有的云服务，以分散多个设备之间的文件同步.
-- [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) - A peer-to-peer instant messenger aimed at making security and privacy easy to obtain for regular users.
+- [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) -点对点即时通讯工具，旨在使普通用户易于获得安全性和隐私性.
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/oversecio/oversec) -捕获并加密您键入的文本，然后将其传递给实际应用的Android应用.
 - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) -插件，可让您根据其IPv4 / 6范围选择和屏蔽排名前5位的云计算公司.
 - [Librefox](https://github.com/intika/Librefox) -一个旨在加强Firefox的隐私和安全性而又不分叉该项目的项目.
 - [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/amp2html) -浏览器扩展，可自动将加速移动页面（AMP）重定向到实际的HTML页面.
 - [Location Privacy](https://guardianproject.info/apps/info.guardianproject.locationprivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/guardianproject/LocationPrivacy) -共享位置链接的隐私过滤器.
 - [DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) -图像和视频的全自动面部匿名化技术.
-- [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) -根据其代码为您的iOS应用生成隐私权政策.
+- [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate a privacy policy for your iOS app from its code.
 - [Reveal Frame Component](https://vwochnik.github.io/reveal-frame-component/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/vwochnik/reveal-frame-component)  -注重隐私的iFrame占位符（JS脚本）.  仅在用户同意后加载.
 - [FreedomBox](https://freedombox.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://salsa.debian.org/freedombox-team/plinth) -易于管理，面向隐私的家庭服务器.
 - [EteSync](https://www.etesync.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/etesync) -为您的联系人，日历和任务提供安全，端到端加密和尊重隐私的同步.
@@ -94,7 +94,7 @@
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/multi-account-containers) -将您的在线生活分成不同的颜色标签，以保护您的隐私.
 - [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/contain-facebook) -将您的Facebook活动与其他网络活动隔离开，以防止跟踪.
 - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/containers-everywhere/contain-google) -将您的Google活动与其他网络活动隔离开，以防止跟踪.
-- [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) -浏览器扩展程序，可从URL查询字符串中剥离Google Analytics（分析）（UTM）令牌.
+- [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) - Browser extension that strips Google Analytics (UTM) tokens from URL query strings.
 - [SilverDog](http://ubeacsec.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ubeacsec/Silverdog) -阻止超声波跟踪应用程序的音频防火墙.
 - [Blokada](https://blokada.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/blokadaorg/blokada) -适用于Android的紧凑，快速的广告拦截器，适用于所有应用，不需要root.
 - [Better](https://better.fyi/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://source.ind.ie/better) -适用于iPhone，iPad和Mac上Safari浏览器的隐私工具，可阻止行为广告和跟踪器.
@@ -108,6 +108,7 @@
 - [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/panzi/SocialSharePrivacy) -jQuery插件，用于添加不允许社交网站跟踪用户的社交共享按钮.
 - [EasyList](https://easylist.to/) -一组规则（最初是为Adblock设计的），可自动从互联网中删除不需要的内容.
 - [TrackMeNot](https://trackmenot.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/vtoubiana/TrackMeNot) -浏览器扩展程序，通过添加干扰和混淆来隐藏您的真实搜索查询.
+- [Deda](https://dfd.inf.tu-dresden.de/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/dfd-tud/deda) - Printer tracking Dots Extraction, Decoding and Anonymisation toolkit.
 
 ## Consent
 
@@ -226,6 +227,7 @@
 - [SelfControl](https://selfcontrolapp.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/SelfControlApp/selfcontrol) -一个macOS应用程序，可让您阻止自己访问分散注意力的网站和邮件服务器.
 - [DelayWebPage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OskarDamkjaer/FirefoxDelayWebpage) -Firefox附加组件，可让您在浪费时间之前上网等待.
 - [Leechblock NG](https://www.proginosko.com/leechblock/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/proginosko/LeechBlockNG/) -一种简单的生产力工具，旨在在指定时间阻止浪费时间的网站.
+- [Introvert](https://iamintrovert.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/IamIntrovert/Introvert) -视听体验会鼓励您在生成独特的艺术品时去做，专注或放松.
 
 ## Happiness
 
@@ -240,7 +242,7 @@
 
 ## Awareness
 
-- [Hack the Media](https://github.com/nemild/hack-the-media) - A media literacy guide highlighting how our media sources can give us a flawed view of the world.
+- [Hack the Media](https://github.com/nemild/hack-the-media) -媒体素养指南，着重强调我们的媒体资源如何使我们对世界有错误的看法.
 - [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/nemild/hack-the-media/master/software-engineers-media-guide.md) -面向软件工程师的媒体素养指南.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) -分析您自己数据的Facebook副本.
 - [HTTP Leaks](https://github.com/cure53/HTTPLeaks) -所有可能的方式，网站都可能泄漏HTTP请求.
@@ -259,6 +261,7 @@
 ## Censorship
 
 - [OONI Probe](https://ooni.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ooni/probe) -观察网络以检测检查，监视和流量操纵（初读 [risks](https://ooni.io/about/risks/)).
+- [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) -反审查实用程序，旨在绕过阻止访问某些网站的ISP. 
 
 ## Unmaintained
 

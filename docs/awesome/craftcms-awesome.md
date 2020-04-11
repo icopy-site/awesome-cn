@@ -33,7 +33,7 @@
 - **伙伴** - [craftcms.com/partners](https://craftcms.com/partners)
 -**许可证管理**- [id.craftcms.com](https://id.craftcms.com)
 -**存储库**- [github.com/craftcms/cms](https://github.com/craftcms/cms)
--**不参加所有会议**- [dotall.com](http://dotall.com/2018)
+-**不参加所有会议**- [dotall.com](http://dotall.com)
 
 ---
 

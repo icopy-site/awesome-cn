@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="avajs/awesome-ava"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
-> [AVA](https://ava.li) 是最低限度和未来派的JavaScript测试人员
+> [AVA](https://ava.li) 是极简主义和未来派的JavaScript测试人员
 
 
 
@@ -15,7 +15,7 @@
 ## Videos
 
 - [JavaScript Air episode with the AVA team](http://jsair.io/ava)
-- [AVA Casts](http://avacasts.com) -有关AVA的简短屏幕录像.
+- [AVA Casts](http://avacasts.com) -关于AVA的简短屏幕录像.
 - [Testing React components with AVA](https://www.youtube.com/watch?v=RxLW6-3dk5A)
 
 ## Packages
@@ -23,13 +23,12 @@
 - [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) -ESLint规则.
 - [ava-codemods](https://github.com/jamestalmage/ava-codemods) -简化升级到较新版本的Codemod.
 - [sublime-ava](https://github.com/avajs/sublime-ava) -崇高的片段.
-- [atom-ava](https://github.com/avajs/atom-ava) -Atom的摘要.
+- [atom-ava](https://github.com/avajs/atom-ava) -Atom片段.
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) -Visual Studio Code的代码段.
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) -Vim片段.
-- [ava-spec](https://github.com/sheerun/ava-spec) -嵌入式BDD助手.
 - [redux-ava](https://github.com/sotojuan/redux-ava) -测试Redux的帮助程序.
 - [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) -在React应用中为Redux减速器生成AVA测试.
-- [gulp-ava](https://github.com/avajs/gulp-ava) -使用Gulp进行测试.
+- [gulp-ava](https://github.com/avajs/gulp-ava) -使用Gulp运行测试.
 - [grunt-ava](https://github.com/avajs/grunt-ava) -使用Grunt进行测试.
 - [fly-ava](https://github.com/pine/fly-ava) -使用Fly运行测试.
 - [start-ava](https://github.com/start-runner/ava) -使用“开始”运行测试.
