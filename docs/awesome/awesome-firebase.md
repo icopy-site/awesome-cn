@@ -35,6 +35,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
+-  [Typesaurus](https://github.com/kossnocorp/typesaurus) -用于Firestore的类型安全的TypeScript优先ODM.
 -  [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) -用于C ++和Unity的C ++和Unity SDK（可通过Unity软件包管理器使用Firebase Unity SDK）.
 -  [Firebase for Games](https://firebase.google.com/games) -新的Firebase游戏登陆页面，其中包含指向游戏开发者的Firebase / Google资源的链接.
 -  [asdf-firebase](https://github.com/jthegedus/asdf-firebase) -一个 [asdf-vm](https://asdf-vm.com/)  firebase-tools的插件.  在没有Node.js或`npm`的情况下管理您的Firebase CLI！  非常适合python，golang，c ++和java Firebase项目.
@@ -80,7 +81,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [React Native Firebase](https://github.com/invertase/react-native-firebase)  -经过测试的功能丰富的模块化Firebase实施，用于React Native.  同时支持iOS和Android平台.
 -  [React Native Firebase Cloud Messaging](https://github.com/evollu/react-native-fcm) -
   用于Firebase Cloud Messaging和本地通知的React Native模块.
--  [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) -用于Firestore，通知，分析，存储，消息传递和数据库的本地Firebase Expo应用程序（iOS，Android）演示.
+-  [Expo Native Firebase](https://github.com/EvanBacon/expo-native-firebase) -用于Firestore，通知，分析，存储，消息传递，数据库的本地Firebase Expo应用（iOS，Android）演示.
 -  [Flutter Calendar App](https://github.com/mattgraham1/FlutterCalendar) -
   新的Flutter应用程序实现了一个简单的移动日历应用程序，用于将基本事件存储到Firebase云数据库中.
 -  [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) -将应用的预发布版本分发给您值得信赖的测试人员.

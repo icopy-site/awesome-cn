@@ -30,7 +30,7 @@
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) -使用Theater Game Jam（PGA 2015）（Godot 2.1）制作的游戏.
 - [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) -小型跑步游戏，挑战1小时（Godot 2.1）.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
-- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) -外星环境中的2D物理跑酷游戏（Godot 2.1）.
+- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment (Godot 2.1).
 - [Platshoot](https://github.com/Calinou/platshoot) -2D射击游戏（Godot 2.1）.
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) -自上而下的射击游戏，广泛使用光效（Godot 2.1）.
 - [SealedBite](https://github.com/securas/SealedBite) -2D平台游戏，是GitHub Game Off 2019 jam（Godot 3.1）的赢家.
@@ -128,10 +128,10 @@
 - [Auto Tile Layer](https://github.com/leezh/autotile) -允许使用RPG Maker的Autotile格式（Godot 2.1）自动进行2D拼贴.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -Camera2D的屏幕抖动效果.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器（Godot 2.1、3.1）.
-- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程式的一部分.
+- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的放松方程式的一部分.
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
-- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - Font Awesome plugin for Godot.
+- [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
 - [gdstats](https://github.com/droxpopuli/gdstats) -通用统计分布的伪随机数生成器库（Godot 3.0）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
 - [GitHub integration](https://github.com/fenix-hub/godot-engine.github-integration) -与GitHub交互，而无需打开浏览器（Godot 3.1）.
@@ -155,6 +155,8 @@
 - [Tiled importer](https://github.com/vnen/godot-tiled-importer) -从导入地图 [Tiled](https://www.mapeditor.org/) （Godot 3.1）.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) -建立贴图集.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) -快速建立样式（Godot 2.x）的tileset.
+- [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) -基于体素的体积照明和雾插件（Godot 3.2）.
+- [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) -用于创建视觉小说游戏的集成编辑器（Godot 3.2）.
 
 ## GDScript editor support
 

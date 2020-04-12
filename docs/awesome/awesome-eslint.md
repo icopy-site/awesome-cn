@@ -65,6 +65,8 @@
 - [Coffee](https://github.com/aminland/eslint-plugin-coffee) -使用来自Coffeelint库的可选掉毛规则，启用掉毛CoffeeScript文件.
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) -对CSS模块使用未定义或未使用的规则.
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) -将功能或模块标记为已弃用，并在使用时获得棉绒消息.
+- [deprecation](https://github.com/gund/eslint-plugin-deprecation) -确定使用
+  jsdoc`@ deprecated`函数.
 - [disable](https://github.com/mradionov/eslint-plugin-disable) -使用文件路径模式和内联注释禁用指定的插件.
 - [ecmascript-compat](https://github.com/robatwilliams/es-compat) -禁用浏览器列表目标不支持的ECMAScript语言功能.
 - [es](https://github.com/mysticatea/eslint-plugin-es) -禁用特定的ECMAScript语言版本或单个功能.

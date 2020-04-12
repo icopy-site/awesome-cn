@@ -14,7 +14,7 @@
 - [Community](#community)
 - [Documentation](#documentation)
     + [Misc](#misc)
-    + [Cheatsheets, Tables](#cheatsheets-tables)
+    + [Opcodes](#opcodes)
   * [Game Boy Color](#game-boy-color)
   * [Hardware](#hardware)
   * [Peripherals](#peripherals)
@@ -71,7 +71,7 @@
 &gt;-特定寄存器
 &gt;-特定的错误，怪癖和可利用的行为
 >
-&gt;如果您打算为SGB或GBC开发软件，或者想了解其在其他系统上的运行方式，则可以利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
+&gt;如果您打算为SGB或GBC开发软件，或者想知道其在其他系统上的运行方式，则可以利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
 
 
 ## Community
@@ -87,15 +87,10 @@
 - [Complete Technical Reference](https://gekkio.fi/files/gb-docs/gbctr.pdf) 由Gekkio.
 - [Game Boy Programming Manual](https://archive.org/download/GameBoyProgManVer1.1/GameBoyProgManVer1.1.pdf)  -任天堂官方的Game Boy编程和硬件手册.  历史价值，被更多最新文件所取代.
 
-#### Cheatsheets, Tables
+#### Opcodes
 
-- [Game Boy Crib Sheet](https://github.com/gb-archive/salvage/blob/master/misc/GBCribSheet000129.pdf) -带有ASM操作码，内存位置以及更多其他内容的方便打印的参考表（[repository](https://github.com/JustinLloyd/Gameboy-Cribsheet)).
-- [OP Codes cheatsheet](http://pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
 - [gb-opcodes](https://gbdev.github.io/gb-opcodes/optables/) -操作码表
 - [rednex gbz80 opcode reference](https://rednex.github.io/rgbds/gbz80.7.html) -所有指令的参考，包括简短说明，周期和字节数以及标志修改的说明.
-- [Opcode table](http://goldencrystal.free.fr/GBZ80Opcodes.pdf)
-- [Opcode table with timings and flags](http://www.devrs.com/gb/files/opcodes.html)
-- [Game Boy CPU Instruction Set Sheet (GCISheet)](http://www.devrs.com/gb/files/GBCPU_Instr.html) -适用于指令集的备忘单.
 
 ### Game Boy Color
 
@@ -236,7 +231,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [BGB](https://bgb.bircd.org/)  -强大的仿真器和调试器.  提供准确的硬件仿真.
 - [SameBoy](https://github.com/LIJI32/SameBoy) -精确的仿真器，具有各种强大的调试功能.
 - [Mooneye GB](https://github.com/Gekkio/mooneye-gb) -Rust中的研究项目和模拟器.
-- [mGBA](https://github.com/mgba-emu/mgba) -现代化的跨平台GBA模拟器，也可以运行GB / GBC游戏.
+- [mGBA](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
 - [Binjgb](https://github.com/binji/binjgb)  -通过大多数测试的5Kloc模拟器.  *快退*功能.  使用WebAssembly在浏览器中运行.
 - [Gambatte](https://github.com/sinamas/gambatte) -跨平台和准确的模拟器.
 - [MetroBoy](https://github.com/aappleby/MetroBoy) -整个Game Boy的可播放电路级仿真.
@@ -316,7 +311,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 #### Boilerplates and libraries
 
-- [gb-template](https://github.com/exezin/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
+- [gb-template](https://github.com/exezin/gb-template) -具有基本功能的模板，例如游戏手柄输入，DMA传输和地图/拼贴数据加载.
 - [rgbds-template](https://github.com/nezticle/rgbds-template) -使用RGBDS的Game Boy的基本hello-world示例.
 - [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) -具有内存定义，复制例程和IBM字体tilemap的简单模板代码.
 - [bootstrap.gb](https://github.com/yenatch/bootstrap.gb) -一个示例Game Boy项目.
@@ -353,7 +348,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线播放（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的所有非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
+- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方自制软件都可以在线玩（也可以通过移动/触摸）：社区领导试图收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
 - [Infinity](https://github.com/infinity-gbc/infinity)  -由Affinix Software开发的RPG，主要在1999年到2001年之间.该游戏从未找到发行商，并最终被取消了.  最近发布了完整的源代码，开发工具和工作流程.
 
 ### ASM
@@ -375,11 +370,11 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [exeman](https://github.com/exezin/exeman/)
 - [Aevilia](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides](https://github.com/Kartones/gameboy) -一个简单的类似Game Boy Powerpoint的幻灯片查看器.
-- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全通过GBC支持对PokémonRed进行了重新制作.
+- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全基于GBC支持的PokémonRed重制.
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) -Fourway Breakout克隆.
 - [Galaxia](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
-- [desgb](https://github.com/sanqui/desgb) - DES encryption.
+- [desgb](https://github.com/sanqui/desgb) -DES加密.
 - [superhappyfunbubbletime](https://github.com/l0k1/superhappyfunbubbletime)
 - [minesweepGB](https://github.com/lancekindle/minesweepGB)
 - [Libbet and the Magic Floor](https://github.com/pinobatch/libbet)
@@ -511,7 +506,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 ### License
 
 根据** GPLv3 **许可.
-See [LICENSE](LICENSE) 了解更多信息.
+See [LICENSE](LICENSE) for more information.
 
 ### Acknowledgements
 

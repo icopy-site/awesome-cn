@@ -30,7 +30,7 @@
 - [Foobar2000](http://www.foobar2000.org/)  -适用于Windows的免费音频播放器，支持多种音频格式，并具有许多很酷的功能.  ！[免费软件] [免费软件图标]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm)  -收集DirectShow过滤器，VFW / ACM编解码器和工具.  ！[免费软件] [免费软件图标]
 - [Kodi](https://kodi.tv/)  -免费和开源的家庭影院软件.  [！[开源软件] [oss图标]]（https://github.com/xbmc）！[免费软件] [免费软件图标]
-- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx) ![Freeware][freeware icon]
+- [Mixxx](http://mixxx.org/)  -免费的DJ软件，可为您提供进行现场混音所需的一切，是Traktor的真正替代产品.  [！[开源软件] [oss图标]]（https://github.com/mixxxdj/mixxx）！[免费软件] [免费软件图标]
 - [Musicbee](http://getmusicbee.com/) -与iTunes类似，但比iTunes更好.
 - [MusicBrainz Picard](https://picard.musicbrainz.org/)  -Picard是一种跨平台的音乐标记器，用于查找和重写元数据标记.  [！[开源软件] [oss图标]]（https://github.com/metabrainz/picard）！[免费软件] [免费软件图标]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][freeware icon]
@@ -38,8 +38,6 @@
 - [Resonic](https://resonic.at/) -快速和免费的音频播放器.
 - [VLC](http://www.videolan.org/vlc/index.html)  -免费的媒体播放器，效果很好.  [！[开源软件] [OSS图标]]（https://www.videolan.org/vlc/download-sources.html）！[免费软件] [免费软件图标]
 - [WACUP](https://getwacup.com/preview)  -Winamp的扩展/改进，提供错误修正和更多功能，例如更好的MOD播放器和YouTube支持.  ！[免费软件] [免费软件图标]
-- [Winamp](http://www.winamp.com/)  -能够播放MP3，MP2，WAV，VOC和MIDI文件的音乐播放器.  ！[免费软件] [免费软件图标]
-- [VLC](http://www.videolan.org/vlc/index.html)  -免费的媒体播放器，效果很好.  [！[开源软件] [oss图标]]（https://www.videolan.org/vlc/download-sources.html）！[免费软件] [免费软件图标]
 - [Winamp](http://www.winamp.com/)  -能够播放MP3，MP2，WAV，VOC和MIDI文件的音乐播放器.  ！[免费软件] [免费软件图标]
 
 ### Chat Clients
@@ -51,7 +49,7 @@
 - [mIRC](http://www.mirc.com/) -Internet中继聊天（IRC）客户端.
 - [Quassel](http://quassel-irc.org/)  -Quassel IRC是一个现代的，跨平台的分布式IRC客户.  [！[开源软件] [oss图标]]（http://quassel-irc.org/）！[免费软件] [免费软件图标]
 - [Riot](https://about.riot.im/)  -Matrix.org生态系统的分散式加密通讯应用程序.  [！[开源软件] [oss图标]]（https://github.com/vector-im/riot-web）！[免费软件] [免费软件图标]
-- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][oss icon]](https://telegram.org/apps) ![Freeware][freeware icon]
+- [Telegram](https://desktop.telegram.org/)  -专注于速度和安全性的消息传递应用程序，它超级快速，简单，免费.  [！[开源软件] [oss图标]]（https://telegram.org/apps）！[免费软件] [免费软件图标]
 - [Waow](http://dedg3.com/wao/)  -出色的WhatsApp Web客户端，可为您提供最佳的WhatsApp体验.  ！[免费软件] [免费软件图标]
 
 ### Compression
@@ -188,7 +186,7 @@
 - [Atom](https://atom.io/)  -21世纪可入侵的文本编辑器.  [！[开源软件] [oss图标]]（https://github.com/atom/atom）！[免费软件] [免费软件图标]
 - [Brackets](http://brackets.io/)  -能够理解网页设计的现代开放源代码文本编辑器.  [！[开源软件] [oss图标]]（https://github.com/adobe/brackets）！[免费软件] [免费软件图标]
 - [GVim](http://www.vim.org/download.php#pc)  -（G）Vim是一种高度可配置的文本编辑器，旨在实现高效的文本编辑.  [！[开源软件] [oss图标]]（https://github.com/vim/vim）！[免费软件] [免费软件图标]
-- [Light Table](http://lighttable.com/)  -具有即时反馈并显示数据值的可自定义编辑器，贯穿您的代码.  [！[开源软件] [oss图标]]（https://github.com/LightTable/LightTable）！[免费软件] [免费软件图标]
+- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable) ![Freeware][freeware icon]
 - [Neovim](https://neovim.io/) -实际上是vim的未来[！[开源软件] [oss图标]]（https://github.com/neovim/neovim）！[免费软件] [免费软件图标]
 - [Notepad++](https://notepad-plus-plus.org/)  -支持多种编程语言的源代码编辑器.  [！[开源软件] [oss图标]]（https://github.com/notepad-plus-plus/notepad-plus-plus）！[免费软件] [免费软件图标]
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html)  -具有许多有用功能的微型记事本，可快速更换.  ！[开源软件] [oss图标]！[免费软件] [免费软件图标]
@@ -292,7 +290,7 @@
 - [Fraps](http://www.fraps.com/)-视频游戏捕获屏幕录像机，可与所有使用DirectX或OpenGL技术的游戏一起使用.
 - [FreeFileSync](http://www.freefilesync.org/) -一种用于文件和文件夹的简便备份解决方案，它支持源/目标之间的镜像/双向同步/更新.
 - [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的查询搜索文件的命令行工具.
-- [Glary Utilities](http://www.glarysoft.com/) -提供ccleaner中不存在的许多更高级的功能.
+- [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
 - [GPU-Z](http://www.techpowerup.com/gpuz/)  -免费的多合一GPU监控工具.  ！[免费软件] [免费软件图标]
 - [Greenshot](https://github.com/greenshot/greenshot)  -直接在屏幕上拍摄和裁剪屏幕截图.  [！[开源软件] [oss图标]]（https://github.com/greenshot/greenshot）
 - [HTTrack](https://www.httrack.com/page/2/en/index.html) -脱机浏览器实用程序，使您可以从Internet将网站下载到本地目录.  [！[开源软件] [oss图标]]（https://github.com/xroche/httrack/tree/master）
@@ -321,7 +319,7 @@
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/)  -更改Windows 10登录屏幕背景.  [！[开源软件] [oss图标]]（https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer）
 - [`winreg-cli`](https://github.com/notlmn/winreg-cli)  -带有流畅API的命令行工具，用于修改Windows注册表.  ！[[开源软件] [OSS图标]]（https://github.com/notlmn/winreg-cli）！[免费软件] [免费软件图标]
 - [WizTree](https://wiztree.en.lo4d.com/)  -出色的小型实用程序，使用户可以快速找到硬盘上的大文件.  ！[免费软件] [免费软件图标]
-- [Yacy](https://github.com/yacy/yacy_search_server) -由人员组成的通用搜索引擎，包括搜索网页，通用爬网程序，索引和排名功能.[！[开源软件] [oss图标]]（https://github.com/yacy/yacy_search_server ）
+- [Yacy](https://github.com/yacy/yacy_search_server) -由公司组成的通用搜索引擎，包括搜索网页，通用爬网程序，索引和排名功能.[！[开源软件] [oss图标]]（https://github.com/yacy/yacy_search_server ）
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)  -分散的网站.  [！[开源软件] [oss图标]]（https://github.com/HelloZeroNet/ZeroNet）
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx)  -它是用于技术演示的屏幕缩放和注释工具.  它在纸盘中的显示效果不显眼，并通过可自定义的热键激活，以放大屏幕区域，在缩放时四处移动并绘制缩放后的图像.
 
@@ -409,12 +407,12 @@
 
 **[⬆ back to top](#applications)**
 
-[oss icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
+[oss图标]：https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [免费软件图标]：https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
 
 ## Backers
 
-谢谢我们所有的支持者！ 
+Thank you to all our supporters! 🙏
 
  &gt; \ *请考虑支持我的工作，因为要花费大量精力来生成此列表！  非常感谢.
 

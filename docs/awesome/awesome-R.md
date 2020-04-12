@@ -11,9 +11,9 @@
 <img class="emoji" alt="star" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/star.png" height="20" align="absmiddle" width="20"></p>
 
 - [Awesome R](#awesome-)
+    - [2020](#2020)
     - [2019](#2019)
     - [2018](#2018)
-    - [2017](#2017)
     - [Integrated Development Environments](#integrated-development-environments)
     - [Syntax](#syntax)
     - [Data Manipulation](#data-manipulation)
@@ -49,6 +49,11 @@
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
+## 2020
+
+* [VSCode](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
+* [gt](https://github.com/rstudio/gt) -从R轻松生成信息丰富，发布质量良好的表格
+
 ## 2019
 
 * [ggforce](https://github.com/thomasp85/ggforce) -ggplot2扩展框架 ![ggforce](https://cranlogs.r-pkg.org/badges/ggforce)
@@ -58,6 +63,7 @@
 ## Integrated Development Environments
 *集成开发环境*
 
+* [VSCode <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
 * [RStudio <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) -R的强大而高效的用户界面.在Windows，Mac和Linux上都可以很好地工作.
 * [Emacs + ESS](http://ess.r-project.org/) -Emacs Speaks Statistics是emacs文本编辑器的附加软件包.
 * [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) -Sublime Text 2/3的附加软件包.
@@ -353,7 +359,7 @@ R中的搜索链（MA-LS链）
 *用于自然语言处理的软件包.*
 
 * [text2vec](https://github.com/dselivanov/text2vec) -用于矢量化和词嵌入的快速文本挖掘框架.
-* [tm](http://cran.r-project.org/web/packages/tm/index.html) - A comprehensive text mining framework for R.
+* [tm](http://cran.r-project.org/web/packages/tm/index.html) -R的综合文本挖掘框架.
 * [openNLP](http://cran.r-project.org/web/packages/openNLP/index.html) -Apache OpenNLP工具界面.
 * [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) -用于文本分析的R包.
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) -单词频率分布的统计模型.
@@ -559,7 +565,7 @@ R中的搜索链（MA-LS链）
 
 * [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) -这是系统学习基础知识（例如对象类型，控制语句，变量作用域，类和R中的调试）的良好资源.
 * [_R Cookbook_, 2nd ed. by JD Long & Paul Teetor (2019)](http://shop.oreilly.com/product/0636920174851.do) -使用R进行许多常见统计任务的快速简单介绍.
-* [R in Action](http://www.manning.com/kabacoff2/) -本书针对所有级别的用户，其初级，中级和高级R部分从“探索R数据结构”到运行回归和进行因子分析，不一而足.
+* [R in Action](http://www.manning.com/kabacoff2/) -本书针对所有级别的用户，包括从“探索R数据结构”到运行回归和进行因子分析的入门，中级和高级R的部分.
 * [_Use R!_ Series by Springer](http://www.springer.com/series/6991?detailsPage=titles)  -斯普林格（Springer）的这一系列廉价且专心的书籍出版了针对从业者的较短书籍.  书籍可以讨论R在特定主题领域中的使用，例如贝叶斯网络，ggplot2和Rcpp.
 * [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) -从基础到高级主题学习R作为一种编程语言.
 

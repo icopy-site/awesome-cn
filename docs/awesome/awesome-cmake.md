@@ -26,6 +26,7 @@
 * [Webinars](https://cmake.org/webinars/)
 * [Web Book](https://github.com/ruslo/CGold) -CGold：旅行者 [Guide](https://cgold.readthedocs.io)  到CMake.  [```[BSD2]```] [BSD-2-Clause]
 * [Modern CMake](https://github.com/toeb/moderncmake) -现代CMake ** PDF **和示例的创建者 [cmakepp](https://github.com/toeb/cmakepp) .  [```[MIT]```] [MIT]
+* [Tutorial](https://www.siliceum.com/en/blog/post/cmake_01_cmake-basics) -现代CMake教程第1部分：CMake基础
 * [Article](http://foonathan.net/blog/2016/03/03/cmake-install.html) -轻松支持CMake安装和find_package（）.
 * [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) -使用CMake和Git对C ++进行轻松的依赖管理.
 * [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) -使用CMake选择加入仅标头的库.
@@ -41,7 +42,7 @@
 * [Lecture](https://www.youtube.com/watch?v=eC9-iRN2b04) -模块化设计的现代CMake-Mathieu Ropert，CppCon 2017.
 * [Article](https://juan-medina.com/2017/07/01/moderncppci/) -现代C ++ CI（尽管它使用非现代CMake，如```include_directories（）`&#39;&#39;）.
 * [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) -是时候正确地做CMake了（有关CMake的最佳文章之一）.
-*文章-关于CMake的系列-作者MartinHořeřovský
+*文章-关于CMake的系列-作者：MartinHořeňovský
     * [Basic CMake usage](https://codingnest.com/basic-cmake/).
     * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/).
 * [Lecture](https://www.youtube.com/watch?v=jt3meXdP-QI) -CMake简介-作者：Florent Castelli，C ++ Sweden 2018.
@@ -95,7 +96,7 @@
 
  它们提供了广泛的功能-从处理编译器标志到使用工具.  有些还包含模块.
 
-* [cotire](https://github.com/sakra/cotire)  -Cotire（编译时间减少器）是一个CMake模块，它通过完全自动化的技术（如针对C和C ++的预编译头和统一构建）来加快基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
+* [cotire](https://github.com/sakra/cotire)  -Cotire（编译时间减少器）是一个CMake模块，它通过完全自动化的技术（如针对C和C ++的预编译头和统一构建）来加速基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
 * [ucm](https://github.com/onqtam/ucm)  -用于管理编译器/链接器标志，收集源，预编译的头文件，统一构建等.  [```[MIT]```] [MIT]
 * [cmakepp](https://github.com/toeb/cmakepp)  -CMake构建系统的增强套件.  [```[MIT]```] [MIT]
 * [sugar](https://github.com/ruslo/sugar) -CMake工具和示例：收集源文件，警告抑制等.[```[BSD2]```] [BSD-2-Clause]
