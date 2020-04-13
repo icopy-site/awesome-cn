@@ -51,7 +51,7 @@
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) -WebExtension，可直接在商店上查看扩展的源代码.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) -自动发布到Chrome网上应用店，Mozilla插件和Opera插件的工具.
 - [web-ext-translator](https://github.com/Lusito/web-ext-translator) -管理i18n messages.json的翻译器工具.
-- [wext-manifest](https://github.com/abhijithvijayan/wext-manifest) -可让您指定“ manifest.json”属性，使其仅出现在特定的浏览器中.
+- [wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) -Webpack加载器，可让您指定“ manifest.json”属性以仅在特定浏览器中显示.
 
 ## Testing
 
@@ -71,7 +71,7 @@
 
 ## Sample Extensions
 
-这些是简单而现代的WebExtensions存储库，可以帮助您确定组件的运行方向，包括通过Travis CI自动部署.
+这些是简单而现代的WebExtensions存储库，可以帮助您确定组件的存放位置，包括通过Travis CI自动部署.
 
 - [npmhub](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)

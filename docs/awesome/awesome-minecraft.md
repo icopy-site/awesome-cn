@@ -16,7 +16,7 @@
 
 - [Official Minecraft Wiki](https://minecraft.gamepedia.com/Minecraft_Wiki) -Minecraft Wiki是Minecraft的完整资源，包括游戏玩法，块，制作，更新，事件，mod，运行服务器和资源包.
 - [Chinese Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) -中国Minecraft Wiki是Minecraft的官方Wiki，涵盖有关制作，积木，生物甚至PE版本的详细教程.
-- [wiki.vg](http://wiki.vg/) -Minecraft技术Wiki.
+- [wiki.vg](http://wiki.vg/) - Technical Minecraft wiki.
 
 ### Forums
 
@@ -24,9 +24,7 @@
 - [Planet Minecraft](https://www.planetminecraft.com/forums/) -创意社区爱好者.
 - [Minecraft Chinese Forum](http://www.mcbbs.net/) -Minecraft最大的中国玩家社区.
 
-## Mods
-
-### Mod Loader
+## Mod Loaders
 
 - [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) -对Minecraft基本文件的修改，以帮助改进各模组之间的兼容性.
 - [Fabric](https://fabricmc.net/) -适用于Minecraft的轻量级实验改装工具链.
@@ -34,9 +32,12 @@
 - [Meddle](https://github.com/FyberOptic/Meddle) -与修改1.9 / 1.10快照有关的所有内容都集中在一处.
 - [RopeMC](https://github.com/RopeMC/RopeMC) -轻量级的基于反射的mod loader，旨在使用户友好并独立于更高版本.
 
+## Forge Mods
+
 ### Performance
 
 - [Optifine](https://www.optifine.net/home) -OptiFine是Minecraft优化模块.
+- [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) -BetterFps是Minecraft的Mod，增加了一些性能改进.
 
 ### Skins And Capes
 
@@ -50,32 +51,71 @@
 ### Items Management
 
 - [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) -JEI是Minecraft的物品和配方查看模块，它是从头开始构建的，旨在提高稳定性和性能.
+- [Bibliocraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) -Bibliocraft是一种存储和组织模式，最初只是一个书架，现在已经扩展到更多.
+- [/dank/null](https://www.curseforge.com/minecraft/mc-mods/dank-null)  -虚幻比例的存储模块，没人真正得到.  最大层/ dank / null对象可容纳54个项目插槽，每个插槽可容纳21.4亿个项目！
 
 ### Technology
 
 - [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) -Tinkers&#39;Construct是一种Mod，它以多种方式将工具组合在一起，然后对其进行修改，直到它们变成其他东西为止.
 - [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) -沉浸式工程技术是一款具有一定魅力的技术模块，其设计思想和理念均由达米安·哈扎德（Damien Hazard）创造，并具有大部分资产.
 - [Botania](https://github.com/Vazkii/Botania)  -Botania本质上是一个技术mod.  主题是自然魔术.
-- [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) -服务器友好且内容丰富的魔术和技术的融合！
-- [Ender IO](https://github.com/CrazyPants/EnderIO) -Ender IO是全尺寸的技术模型.
+- [Thermal Foundation + Dynamics + Expansion](https://minecraft.curseforge.com/projects/thermalexpansion)  -服务器友好且内容丰富的魔术和技术的融合！  标题是三个不同的Mod名称，但具有相同的系列并且通常一起播放.
 - [Railcraft](https://github.com/Railcraft/Railcraft) -极大地扩展和完善Minecraft中的Minecart系统.
+- [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions) -实际上，Additions是一种技术Mod，它添加了各种实用程序，例如多功能工具，磁体磁铁，原子重建器等.
+- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2)  -关于物质，能源并利用它们征服世界的Minecraft Mod.  主要侧重于项目存储.
+- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)  -那里是最好的技术模组之一，但在后期游戏中确实表现不佳.  添加了诸如Draconic Power Core之类的东西，但没人能填满……
+- [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) -以大型渲染器为主题的mod，仅添加了许多有趣的新东西.
+- [Galacticraft](https://micdoodle8.com/mods/galacticraft)  -新增火箭和新星球来探索的Mod.  可通过插件扩展.
+- [OpenComputers](https://ocdoc.cil.li) -OpenComputers是一个Mod，可以在游戏中添加计算机和机器人，可以在Lua 5.3中进行编程.
+- [ComputerCraft](https://www.computercraft.info) -将基于Lua（5.2和5.3）的计算机添加到Minecraft.
+- [WarpDrive](https://www.curseforge.com/minecraft/mc-mods/warpdrive)  -将《星际迷航》和其他专营权（如船舶，武器，运输工具等）添加到游戏中.  还增加了新的行星（尺寸）.
 
 ### Farming And Food
 
 - [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) -帕姆（Pam）的HarvestCraft是Minecraft的改良版，目前可添加多种农作物和食物.
+- [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft) -一个mod，它添加了更复杂的农作物系统，例如具有遗传突变的能力，并且还增加了更多农作物.
+- [Bonsai Trees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) -本质上增加了一个大块的迷你林场.
+- [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) -一款出色的Sky障碍物，它可以过滤诸如沙子和碎石之类的东西，以获取有用的资源（如铁和钻石），并与许多Mod兼容.
 
 ### Energy
 
 - [RFTools](https://minecraft.curseforge.com/projects/rftools) -RFTools是一个Mod，包含与RF（Redflux）或一般技术相关的各种工具.
+- [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)  -增加带有虚构燃料“ y”的核反应堆.  原始大反应堆的延续.
+- [Zetta Industries](https://www.curseforge.com/minecraft/mc-mods/zetta-industries) -一个mod，增加了一个大电池的主要multiblock.
 - [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) -关于物质，能源并利用它们征服世界的Minecraft Mod.
 
-### Tweaking
+### Magic
+
+- [AbyssalCraft](https://www.curseforge.com/minecraft/mc-mods/abyssalcraft) -AbyssalCraft是一个以探索为中心的魔法模块.
+- [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery) -这是一个基于星星的魔术mod，它利用了星光和星座的力量.
+- [Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia)  -Avaritia是一个具有很长的进度树的mod，但是在后期游戏中确实很强大.  它的灵魂目的是将残局的游戏玩法拖至极限.
+- [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)  -这是一个基于血液的魔法MOD.  当心，你死了很多.
+
+### Utilities
 
 - [TNTUtils](https://github.com/ljfa-ag/TNTUtils) -更好地控制Minecraft中的爆炸.
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) -基于Morph-o-Tool的mod，主要提供合并不同mod文档文档的功能.
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) -此mod不会更改任何现有机制，而只会在默认GUI中显示现有的饥饿饱和度和疲劳程度.
+- [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) -此模组修复了Minecraft中处理盔甲点等属性的属性系统，因为许多其他模组无意中受到该系统限制的影响.
+- [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) -此修改修改了Minecraft计算料斗碰撞盒的方式，以便您可以访问其后面的任何可见块.
+- [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) -修正了Minecraft代码的各个方面，通常使游戏更快.
+
+### General
+
+- [ArmorPlus](https://www.curseforge.com/minecraft/mc-mods/armorplus) -从字面上看，这个mod给游戏增加了很多装甲，以及制作它们的不同方法.
+- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) -这个模组为玩家的清单增加了七个新的插槽，可以与其他模组所添加的各种物品（如护身符，皮带，戒指等）配合使用.
+
+### Exploration
+
+- [Aroma1997's Dimensional World](https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world) -此国防部增加了一个额外的维度，旨在达到采矿的预期目的，这意味着Overworld将不再被诸如Buildcraft采石场之类的东西所填满.
+- [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) -添加新的暮光森林维度，其中包含新的结构，首领和要完成的任务.
 
 ### Building
 
+- [Carpenter's Blocks](https://www.curseforge.com/minecraft/mc-mods/carpenters-blocks)  -此国防部添加了新块，例如倾斜和角，可以使其看起来像游戏中的任何其他块！  对于艺术作品极为有用.  （对于1.12+，请参见BlockCraftery）
+- [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)  -此mod向游戏中的许多块添加了多个新纹理，从而添加了多种纹理.  （对于小于块的编辑单元，请参见凿子和钻头.）
 - [WorldEdit](https://github.com/EngineHub/WorldEdit) -WorldEdit是一个开放源代码的游戏内地图编辑器，可用于Bukkit，Forge，MinecraftEdu和许多其他平台.
+- [FAWE](https://intellectualsites.github.io/download/fawe.html)  -代表快速异步WorldEdit.  基于WorldEdit，它速度更快，并且添加了更多可使用的工具（即画笔）.
 
 ## Server Plugins
 

@@ -50,6 +50,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Katacoda](https://www.katacoda.com/courses/docker)：使用基于交互式浏览器的实验室学习Docker
 - [Learn Docker](https://github.com/dwyl/learn-docker)：循序渐进的教程和更多资源（视频，文章，备忘单），作者： [@dwyl](https://github.com/dwyl)
 - [Play With Docker](https://training.play-with-docker.com/) ：PWD是从初学者到高级用户入门Docker的绝佳方法.  Docker直接在您的浏览器中运行.
+- [Practical Guide about Docker Commands in Spanish](https://github.com/brunocascio/docker-espanol) 该西班牙语指南包含基本docker命令和实际示例的用法.
 - [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)  容器技术的前景不仅限于码头工人.  如果没有很好的术语处理，可能很难把握docker和（选择您的最爱，CRI-O，rkt，lxc / lxd）之间的关键区别，或者难以理解开放容器倡议正在采取哪些措施来标准化容器技术.
 
 **备忘单**，作者：
@@ -263,7 +264,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Captain](https://getcaptain.co/) -通过MacOSX菜单栏管理容器 [@RickWong](https://github.com/rickwong)
 - [Dockeron](https://github.com/dockeron/dockeron) -一个在Electron + Vue.js上为桌面Docker构建的项目. [@fluency03](https://github.com/fluency03)
-- [DockStation](https://github.com/DockStation/dockstation) -以开发人员为中心的UI，用于配置，监视和管理服务和容器 [@dock_station](https://twitter.com/dock_station)
+- [DockStation](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock_station](https://twitter.com/dock_station)
 - [Lifeboat](https://github.com/jplhomer/lifeboat) -在Mac上使用图形界面启动Docker项目的简便方法. [@jplhomer](https://github.com/jplhomer)
 
 #### Terminal
@@ -285,7 +286,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dry](https://github.com/moncho/dry) -用于Docker容器的交互式CLI [@moncho](https://github.com/moncho)
 - [DVM](https://github.com/howtowhale/dvm) -Docker版本管理器 [@howtowhale](https://github.com/howtowhale)
 - [goinside](https://github.com/iamsoorena/goinside)  -轻松进入正在运行的Docker容器.  通过 [@iamsoorena](https://github.com/iamsoorena)
-- [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By [@jesseduffield](https://github.com/jesseduffield)
+- [lazydocker](https://github.com/jesseduffield/lazydocker)  -管理所有泊坞窗的懒惰方式.  用于docker和docker-compose的简单终端UI，使用gocui库用Go编写.  通过 [@jesseduffield](https://github.com/jesseduffield)
 - [MultiDocker](https://github.com/marty90/multidocker) -创建一个安全的多用户Docker计算机，其中每个用户都被隔离到一个独立的容器中.
 - [ns-enter](https://github.com/jpetazzo/nsenter) -不再使用ssh，请通过[@jpetazzo] [jpetazzo]输入容器的名称空间
 - [Pdocker](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/g31s/Pdocker) -通过以下方式管理和维护个人项目Docker的简单工具： [@https://github.com/veggiemonk/awesome-docker/blob/master/g31s](https://github.com/veggiemonk/awesome-docker/blob/master/g31s)
@@ -310,7 +311,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) ：skull：-适用于Docker的简单Web接口，具有许多功能 [@Electrofenster](https://github.com/Electrofenster/)
 - [DockerSurfer](https://github.com/Simone-Erba/DockerSurfer) ：skull：-用于分析和浏览Docker注册表中Docker映像之间的依赖关系的Web服务 [@Simone-Erba](https://github.com/Simone-Erba/)
 - [Kubevious](https://github.com/kubevious/kubevious) -用于Kubernetes的高度可视化的Web UI，通过以下方式以应用程序为中心呈现配置和状态 [@rubenhak](https://github.com/rubenhak).
-- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) -GitHub的浏览器扩展，可单击Dockerfile中的映像名称，并将您重定向到相关的Docker Hub页面.
 - [Portainer](https://github.com/portainer/portainer) -用于管理Docker主机或Docker Swarm集群的轻量级管理UI [@portainer](https://github.com/portainer)
 - [Portus](https://github.com/SUSE/Portus) -Docker注册中心（v2）的授权服务和前端 [@SUSE](https://github.com/SUSE)
 - [Rapid Dashboard](https://github.com/ozlerhakan/rapid) -通过以下方式使用Docker Remote API的简单查询仪表板 [@ozlerhakan](https://github.com/ozlerhakan/)
@@ -385,7 +386,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Vektorcloud](https://github.com/vektorcloud) -最小的基于阿尔卑斯的Docker映像的集合
 - [Dockershelf](https://github.com/Dockershelf/dockershelf)  -一个用作通用，高效且苗条的Docker配方的收集器的存储库.  图像每天都会通过Travis cron作业进行更新，测试和发布.  维护者 [@CollageLabs](https://github.com/CollageLabs).
 
-范例：
+Examples by:
 
 - [@arun-gupta](https://github.com/arun-gupta/docker-images)
 - [@awesome-startup](https://github.com/awesome-startup/docker-compose)
@@ -711,12 +712,12 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [docker-for-windows]：https://docs.docker.com/docker-for-windows/
 [docker]：https：//github.com/docker
 [editreadme]：https://github.com/veggiemonk/awesome-docker/edit/master/README.md
-[fgrehm]: https://github.com/fgrehm
+[fgrehm]：https://github.com/fgrehm
 [Gesellix]：https：//github.com/gesellschaftix
 [genuinetools]：https://github.com/genuinetools
 [gliderlabs]：https://github.com/gliderlabs
 [google]：https：//github.com/google
-[googlecontainertools]：https://github.com/GoogleContainerTools
+[googlecontainertools]: https://github.com/GoogleContainerTools
 [检查]：https://github.com/inspec/inspec
 [jessfraz]：https://github.com/jessfraz
 [jpetazzo]：https://github.com/jpetazzo

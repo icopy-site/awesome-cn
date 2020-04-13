@@ -26,6 +26,10 @@
 - [Walking animation cycle in games](https://finalbossblues.com/walk-cycles-p1/)
 - [Tips for animating 2D games](http://www.gamasutra.com/view/news/176663/5_tips_for_making_great_animations_for_2D_games.php)
 
+## Books
+- [Pixel logic](https://gumroad.com/l/pixel-logic) -Pixel Logic是一本深入的像素艺术教程书.
+- [Make Your Own Pixel Art](https://nostarch.com/pixelart) -逐步指导您使用可用的工具，像素艺术技巧，形状，颜色，阴影的重要性以及如何将艺术转变为动画.
+
 ## Inspiration
 ### Games
 - [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island)  -扮演Yoshi携带Baby Mario，穿越危险的世界.  涂漆的感觉和柔和的柔和色彩营造出温暖的手工风格，散发着儿童读物的魅力.

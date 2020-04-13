@@ -44,6 +44,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [Intel-GPA](https://software.intel.com/en-us/gpa) -英特尔的OpenGL图形性能分析器.
 * [NVIDIA® Nsight™](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition) -图形应用程序开发平台.
 * [RenderDoc](https://github.com/baldurk/renderdoc) -RenderDoc是一个独立的图形调试工具.
+* [tracy](https://github.com/wolfpld/tracy) -用于游戏和其他应用程序的实时远程遥测帧探查器.
 * [vogl](https://github.com/ValveSoftware/vogl) -由Valve开发的OpenGL捕获和回放调试器.
 
 
