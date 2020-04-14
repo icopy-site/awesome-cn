@@ -40,7 +40,7 @@
 - [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) -添加了“边界图像”渐变实用程序.
 - [RFS](https://github.com/aerni/tailwindcss-rfs) -添加 [`RFS`](https://github.com/twbs/rfs) 实用程序.
 - [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) -添加`font-variant-numeric`实用程序.
-- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) -根据“ prefers-color-scheme”媒体查询添加“ dark”变体.
+- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) -添加与Vue.js的`v-cloak`指令配合使用的可见性类.
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) -重新添加在Tailwind CSS 1.0之前删除的`list-reset`类.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) -添加流体上浆工具.
@@ -64,7 +64,7 @@
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) -添加基于CSS类的“深色”变体.
-- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的类名，以显示边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式.
+- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的类名，以获取边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) -添加了“滚动捕捉”实用程序.
 - [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) -将不透明度变体添加到现有颜色.
 - [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) -根据配置的颜色添加“ box-shadow”实用程序.
@@ -74,7 +74,7 @@
 
 -  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) -添加了屏幕阅读器实用程序.
 -  [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) -添加了“ object-fit”实用程序.
--  [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
+-  [Object Position](https://github.com/hacknug/tailwindcss-object-position) -添加了“ object-position”实用程序.
 -  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) -添加了屏幕阅读器实用程序.
 -  [Layout](https://github.com/benface/tailwindcss-layout) -添加了一些布局实用程序.
 -  [Important](https://github.com/chasegiunta/tailwindcss-important) -添加了一个“重要”变体.
@@ -94,6 +94,7 @@
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) -使用jQuery和Tailwind CSS进行切换.
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) -Tailwind Starter Kit是TailwindCSS，免费和开源的扩展.
 - [a17t](https://a17t.rmrm.io) -用于扩展Tailwind CSS的原子设计工具包.
+- [Tailwind Blocks](https://mert.dev/tailwind-blocks) -登陆页面的Tailwind CSS UI块.
 
 ## Resources
 
@@ -296,6 +297,7 @@
 - [Vaggelis Yfantis](https://octoper.me)
 - [This Month Rocks](https://thismonth.rocks)
 - [Aditya Agarwal](https://devadi.netlify.com)
+- [Dumpsters.com](https://www.dumpsters.com)
 
 ## Contribute
 

@@ -53,7 +53,7 @@
 - [dat](https://github.com/datproject/dat-node) -数据集的实时复制和版本控制.
 - [ipfs](https://github.com/ipfs/js-ipfs) -分布式文件系统，试图将所有计算设备与同一文件系统连接.
 - [stackgl](https://github.com/stackgl) -用于WebGL的开放软件生态系统，建立在browserify和npm之上.
-- [peerwiki](https://github.com/mafintosh/peerwiki) -关于BitTorrent的所有Wikipedia.
+- [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast](https://github.com/mafintosh/peercast) -将torrent视频流式传输到Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) -干净，可读，经过验证的比特币库.
 - [Bitcore](https://github.com/bitpay/bitcore) -强大的纯比特币库.
@@ -297,6 +297,7 @@
 - [ESDoc](https://github.com/esdoc/esdoc) -针对ES2015的文档生成器，附带测试代码并衡量文档覆盖范围.
 - [Docco](https://github.com/jashkenas/docco) -文档生成器，生成一个HTML文档，该文档显示与代码混合在一起的注释.
 - [JSDoc](https://github.com/jsdoc3/jsdoc) -API文档生成器，类似于JavaDoc或PHPDoc.
+- [Docusaurus](https://github.com/facebook/docusaurus) -利用React和Markdown并具有翻译和版本控制功能的文档网站生成器.
 
 ### Filesystem
 
@@ -306,7 +307,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除rm -rf之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -文件系统观察程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机的fsevents.
+- [chokidar](https://github.com/paulmillr/chokidar) -稳定来自fs.watch和fs.watchFile的事件以及在macOS上使用本机fsevents的文件系统监视程序.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -467,7 +468,7 @@
 - [nearley](https://github.com/Hardmath123/nearley) -简单，快速，强大的JavaScript解析.
 - [binary-extract](https://github.com/juliangruber/binary-extract) -从JSON缓冲区中提取一个值，而不分析整个内容.
 - [Stylecow](https://github.com/stylecow/stylecow)  -解析，操作和转换现代CSS，使其与所有浏览器兼容.  可通过插件扩展.
-- [js-yaml](https://github.com/nodeca/js-yaml) -非常快速的YAML解析器.
+- [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) -XML到JavaScript对象的转换器.
 - [Jison](https://github.com/zaach/jison)  -友好的JavaScript解析器生成器.  它与野牛，Yacc和家庭共享基因.
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) -解析，格式化，存储和验证电话号码.
@@ -519,7 +520,7 @@
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -适用于PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  类似于ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL PostgreSQL框架.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL的PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) -基于SQL查询生成器Knex构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) -适用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
@@ -567,7 +568,7 @@
 
 - [upash](https://github.com/simonepri/upash) -适用于所有密码哈希算法的统一API.
 - [themis](https://github.com/cossacklabs/themis) -使简单的加密方案易于使用的多语言框架：静态数据，经过身份验证的数据交换，传输保护，身份验证等.
-- [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
+- [GuardRails](https://github.com/apps/guardrails) -GitHub应用程序，可在请求请求中提供安全反馈.
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) -暴力破解和DDoS攻击防护.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) -异步非阻塞哈希.
 - [jose-simple](https://github.com/davesag/jose-simple) -使用JOSE（JSON对象签名和加密）标准对数据进行加密和解密.
@@ -581,7 +582,7 @@
 
 - [babili](https://github.com/babel/babili) -基于Babel工具链的可感知ES2015 +的压缩程序.
 - [UglifyJS2](https://github.com/mishoo/UglifyJS2) -JavaScript缩小器.
-- [clean-css](https://github.com/jakubpawlowicz/clean-css) - CSS minifier.
+- [clean-css](https://github.com/jakubpawlowicz/clean-css) -CSS缩小器.
 - [minimize](https://github.com/Swaagie/minimize) -HTML缩小器.
 - [imagemin](https://github.com/imagemin/imagemin) -图像缩小器.
 
@@ -609,7 +610,7 @@
 - [idoit](https://github.com/nodeca/idoit) -具有高级作业控制的Redis支持的作业队列引擎.
 - [node-resque](https://github.com/taskrabbit/node-resque) -Redis支持的作业队列.
 - [rsmq](https://github.com/smrchy/rsmq) -Redis支持的消息队列.
-- [bee-queue](https://github.com/bee-queue/bee-queue) -高性能的Redis支持的作业队列.
+- [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) -具有实时监控功能的简单高性能Redis消息队列.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) -在没有样板的情况下构建基于Amazon Simple Queue Service（SQS）的应用程序.
 - [better-queue](https://github.com/diamondio/better-queue) -无法使用Redis时，简单而高效的作业队列.
@@ -637,7 +638,7 @@
 - [node-mac](https://github.com/coreybutler/node-mac) -将脚本作为本地Mac守护程序运行，并登录到控制台应用程序.
 - [node-linux](https://github.com/coreybutler/node-linux) -将脚本作为本机系统服务运行，并登录到syslog.
 - [node-windows](https://github.com/coreybutler/node-windows) -将脚本作为本地Windows服务运行，并登录到事件查看器.
-- [supervisor](https://github.com/petruisfan/node-supervisor) -当脚本崩溃时重新启动脚本，或在* .js文件更改时重新启动脚本.
+- [supervisor](https://github.com/petruisfan/node-supervisor) -当脚本崩溃时重新启动脚本，或者在`* .js`文件更改时重新启动脚本.
 - [Phusion Passenger](https://github.com/phusion/passenger) -友好的流程管理器，可以直接集成到Nginx中.
 
 ### Automation
@@ -689,7 +690,7 @@
 ### Serialization
 
 - [snappy](https://github.com/kesla/node-snappy) -Google的Snappy压缩库的本地绑定.
-- [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers.
+- [protobuf](https://github.com/dcodeIO/protobuf.js) -协议缓冲区的实现.
 - [compactr](https://github.com/compactr/compactr.js) -压缩器协议的实现.
 
 ### Miscellaneous
@@ -741,7 +742,7 @@
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) -Node.js最佳实践中排名最高的内容的摘要和整理，提供多种语言.
 - [Nodeschool](https://github.com/nodeschool) -通过互动课程学习Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) -Node.js简介.
-- [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
+- [stream-handbook](https://github.com/substack/stream-handbook) -如何使用流编写Node.js程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) -编写新的npm模块时的一些良好做法.
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.

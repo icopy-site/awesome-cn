@@ -19,7 +19,7 @@
  此列表的创建者和维护者不会接受任何付款方式来接受任何贡献者所做的更改.  该页面绝不是官方的Docker产品.  它是项目链接的列表，由志愿者维护.  欢迎大家贡献力量.  此仓库的目的是索引开源项目，而不是为了牟利而做广告.
 
 所有链接均通过以下方式进行监控和测试 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 由制成 [@dkhamsing](https://github.com/dkhamsing)
- 
+
 
 <!-- TOC -->
 
@@ -44,7 +44,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) ：关于Docker入门的综合教程.  教您如何使用Docker以及通过Elastic Beanstalk和Elastic Container Service在AWS上部署dockerized应用程序.
 - [Docker Documentation](https://docs.docker.com/)：官方文档.
 - [Docker for beginners](https://github.com/groda/big_data/blob/master/docker_for_beginners.md) ：面向需要从“ Hello world！”学习Docker基础的初学者的教程.  与容器的基本交互，以及对基本概念的简单说明.
-- [Docker for novices](https://www.youtube.com/watch?v=xsjSadjKXns)  从未使用过Docker的开发人员和测试人员的Docker简介.  （视频1h40，录制于linux.conf.au 2019-新西兰基督城），作者是Alex Clews. 
+- [Docker for novices](https://www.youtube.com/watch?v=xsjSadjKXns)  从未使用过Docker的开发人员和测试人员的Docker简介.  （视频1h40，录制于linux.conf.au 2019-新西兰基督城），作者是Alex Clews.
 - [Docker Training](https://success.docker.com/training) ：heavy_dollar_sign：
 - [Docker Tutorial for Beginners (Updated 2019 version)](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)  —在此Docker教程中，您将学习所有基础知识，并学习如何容器化Node.js和Go应用程序.  即使您不熟悉这些语言，也应该很容易阅读本教程并使用任何其他语言.
 - [Katacoda](https://www.katacoda.com/courses/docker)：使用基于交互式浏览器的实验室学习Docker
@@ -70,7 +70,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Exploring ASP.NET Core with Docker in both Linux and Windows Containers](https://www.hanselman.com/blog/ExploringASPNETCoreWithDockerInBothLinuxAndWindowsContainers.aspx) 使用[适用于Windows的Docker] [docker-for-windows]在Linux和Windows容器中运行ASP.NET Core应用
 - [Running a Legacy ASP.NET App in a Windows Container](https://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/) 用于对旧式ASP.NET应用程序进行Docker打包并作为Windows容器运行的步骤
 - [Windows Containers and Docker: The 101](https://www.youtube.com/watch?v=N7SG2wEyQtM) ：movie_camera：-20分钟的概述，使用Docker运行PowerShell，ASP.NET Core和ASP.NET应用程序
-- [Windows Containers Quick Start](https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/index) Windows容器概述，深入到Windows 10和Windows Server 2016快速入门
+- [Windows Containers Quick Start](https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/) Windows容器概述，深入到Windows 10和Windows Server 2016快速入门
 
 ---
 
@@ -161,7 +161,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Freeflow](https://github.com/Microsoft/Freeflow)  -Linux上的高性能容器覆盖网络.  启用RDMA（在InfiniBand和RoCE上）并加速TCP到裸机的性能.  通过 [@Microsoft](https://github.com/Microsoft)
 - [netshoot](https://github.com/nicolaka/netshoot) -netshoot容器具有一组强大的网络工具，可通过以下方式帮助解决Docker网络问题 [@nicolaka](https://github.com/nicolaka)
 - [Pipework](https://github.com/jpetazzo/pipework)  -用于Linux容器的软件定义网络，管道工作与“普通” LXC容器以及出色的Docker一起使用.  由[@jpetazzo] [jpetazzo]
--[Weave] [weave]（Docker网络）-Weave创建一个虚拟网络，该网络连接跨多个主机部署的Docker容器.
+-[Weave] [weave]（Docker网络）-Weave创建一个虚拟网络，该网络连接部署在多个主机上的Docker容器.
 
 ### Orchestration
 
@@ -232,7 +232,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Phonito Security](https://phonito.io/?b=b) ：heavy_dollar_sign：-一个Docker漏洞扫描器，具有持续的Kubernetes监视和管道集成.
 - [Sysdig Falco](https://github.com/falcosecurity/falco)  -Sysdig Falco是一个开源容器安全监视器.  它可以监视应用程序，容器，主机和网络活动，并在发生未经授权的活动时发出警报.
 - [Sysdig Secure](https://sysdig.com/products/kubernetes-security/runtime-security/) ：heavy_dollar_sign：-Sysdig Secure通过行为监视和防御解决运行时安全问题，并基于开源Sysdig提供深度的取证，以进行事件响应.
-- [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) ：heavy_dollar_sign：-趋势科技趋势科技服务器深度安全防护系统可为容器工作负载和主机提供运行时保护，并提供映像的运行前扫描，以识别漏洞，恶意软件和诸如硬编码机密之类的内容.
+- [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) ：heavy_dollar_sign：-趋势科技趋势科技服务器深度安全防护系统可为容器工作负载和主机提供运行时保护，以及对图像进行预运行时扫描，以识别漏洞，恶意软件和诸如硬编码机密之类的内容.
 - [Twistlock](https://www.twistlock.com/) ：heavy_dollar_sign：-Twistlock Security Suite在应用程序的整个生命周期中检测漏洞，强化容器映像并实施安全策略.
 
 ### Service Discovery
@@ -333,7 +333,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [distroless](https://github.com/GoogleContainerTools/distroless) -通过[@GoogleContainerTools] [googlecontainertools]删除操作系统的以语言为中心的docker映像
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) -[@gliderlabs] [gliderlabs]使用Alpine Linux的超小型Docker基本映像_（5MB）_
 - [docker-gen](https://github.com/jwilder/docker-gen) -通过[@jwilder] [jwilder]从docker容器元数据生成文件
-- [dockerize](https://github.com/jwilder/dockerize) -通过[@jwilder] [jwilder]简化docker容器中正在运行的应用程序的实用程序
+- [dockerize](https://github.com/jwilder/dockerize) -通过[@jwilder] [jwilder]简化在Docker容器中运行应用程序的实用程序
 - [GoSu](https://github.com/tianon/gosu) -以该特定用户身份运行该特定应用程序，并通过以下方式退出管道（入口点脚本工具） [@tianon](https://github.com/tianon)
 - [is-docker](https://github.com/sindresorhus/is-docker) -[@sindresorhus] [sindresorhus]检查进程是否在Docker容器中运行
 - [lstags](https://github.com/ivanilves/lstags) -通过跨注册表同步Docker映像 [@ivanilves](https://github.com/ivanilves)
@@ -382,9 +382,9 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Dockerfile Generator](https://github.com/ozankasikci/dockerfile-generator) dfg既是Go库又是一个可执行文件，它使用各种输入通道生成有效的Dockerfile.
 - [Dockerfile Generator](https://jrruethe.github.io/blog/2015/09/20/dockerfile-generator/)
 - [Dockerfile Project](https://dockerfile.github.io/)  -受信任的自动化Docker构建.  Dockerfile Project为可在Docker容器上运行的各种流行的开源软件服务维护Dockerfile的中央存储库.
+- [Dockershelf](https://github.com/Dockershelf/dockershelf)  -一个用作通用，高效且苗条的Docker配方的收集器的存储库.  图像每天都会通过Travis cron作业进行更新，测试和发布.  维护者 [@CollageLabs](https://github.com/CollageLabs).
 - [dockmoor](https://github.com/MeneDev/dockmoor)  ：construction：-管理Docker映像参考，并帮助使用Docker创建可复制的构建.  通过 [@MeneDev](https://github.com/MeneDev)
 - [Vektorcloud](https://github.com/vektorcloud) -最小的基于阿尔卑斯的Docker映像的集合
-- [Dockershelf](https://github.com/Dockershelf/dockershelf)  -一个用作通用，高效且苗条的Docker配方的收集器的存储库.  图像每天都会通过Travis cron作业进行更新，测试和发布.  维护者 [@CollageLabs](https://github.com/CollageLabs).
 
 Examples by:
 
@@ -405,7 +405,7 @@ Examples by:
 - [Dockerfile Linter action](https://github.com/buddy-works/dockerfile-linter) -通过linter，您可以验证Dockerfile语法，以确保其遵循构建高效Docker映像的最佳实践.
 - [dockfmt](https://github.com/jessfraz/dockfmt) ：construction：-[@jessfraz] [jessfraz]的Dockerfile格式化程序和解析器
 - [FROM:latest](https://github.com/replicatedhq/dockerfilelint) -一个自以为是的Dockerfile linter [@replicatedhq](https://github.com/replicatedhq)
-- [Hadolint](https://github.com/hadolint/hadolint)  -Dockerfile linter，用于检查最佳实践，常见错误，并且还可以抹去用RUN指令编写的bash；  通过 [@lukasmartinelli](https://github.com/lukasmartinelli)
+- [Hadolint](https://github.com/hadolint/hadolint)  -一个Dockerfile linter，它检查最佳实践，常见错误，并且还可以抹掉用RUN指令编写的bash；  通过 [@lukasmartinelli](https://github.com/lukasmartinelli)
 - [Whale-linter](https://github.com/jeromepin/whale-linter) -用Python3 +编写的简单而小型的Dockerfile linter，无依赖 [@jeromepin](https://github.com/jeromepin)
 
 ### Metadata
@@ -483,7 +483,7 @@ Examples by:
 
 ### Development Environment
 
-- [batect](https://github.com/batect/batect) -将构建和测试环境作为代码工具：Dockerized的构建和测试环境可通过以下方式轻松实现 [@charleskorn](https://github.com/charleskorn)
+- [batect](https://github.com/batect/batect) -将构建和测试环境作为代码工具：Dockerized构建和测试环境通过以下方式变得容易 [@charleskorn](https://github.com/charleskorn)
 - [Binci](https://github.com/binci/binci)  -容器化您的开发工作流程.  （以前是DevLab，由 [@TechnologyAdvice](https://github.com/TechnologyAdvice))
 - [Boot2Docker](https://github.com/boot2docker/boot2docker) -适用于OSX和Windows的Docker
 - [construi](https://github.com/lstephen/construi) -通过以下方式在Docker定义的环境中运行构建 [@lstephen](https://github.com/lstephen)
@@ -587,7 +587,7 @@ Examples by:
 - [AppDynamics](https://www.appdynamics.com/community/exchange/extension/docker-monitoring-extension/) ：heavy_dollar_sign：-AppDynamics可为企业提供有关应用程序性能，用户性能和业务性能的实时洞察，从而使他们能够在日益复杂的软件驱动世界中更快地移动.
 - [Axibase Time-Series Database](https://axibase.com/products/axibase-time-series-database/writing-data/docker-cadvisor/)  ：heavy_dollar_sign：-长期保留Docker的容器统计信息和内置仪表板.  使用本机Google cAdvisor存储驱动程序收集.
 - [Broadcom Docker Monitoring](https://www.broadcom.com/info/aiops/docker-monitoring)  ：heavy_dollar_sign：-Broadcom的敏捷运营解决方案提供了现代Docker监控业务，这些业务是加速和优化微服务以及运行它们的动态Docker环境的性能所需要的.  监视Docker环境和在其中运行的应用程序.  （以前的CA Technologies）
-- [Collecting docker logs and stats with Splunk](https://www.splunk.com/en_us/blog/cloud/collecting-docker-logs-and-stats-with-splunk.html )
+- [Collecting docker logs and stats with Splunk](https://www.splunk.com/en_us/blog/cloud/collecting-docker-logs-and-stats-with-splunk.html)
 - [Datadog](https://www.datadoghq.com/)  ：heavy_dollar_sign：-Datadog是针对大型云环境的全栈监视服务，该服务聚合来自服务器，数据库和应用程序的指标/事件.  它包括对Docker，Kubernetes和Mesos的支持.
 - [Prometheus](https://prometheus.io/) ：heavy_dollar_sign：-开源服务监视系统和时间序列数据库
 - [Site24x7](https://www.site24x7.com/docker-monitoring.html) ：heavy_dollar_sign：-用于DevOps和IT的Docker监控是SaaS按主机付费的模型
@@ -609,19 +609,17 @@ Examples by:
 
 ## Awesome Lists
 
-- [Awesome CI/CD](https://github.com/ciandcd/awesome-ciandcd) -不是特定于docker而是相关的.
+- [Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd) -不是特定于docker而是相关的.
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) 由[@ramitsurana] [ramitsurana]
 - [Awesome Linux Container](https://github.com/Friz-zy/awesome-linux-containers) 关于容器比这个仓库更笼统 [@Friz-zy](https://github.com/Friz-zy).
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  可以通过以经典方式运行（在本地设置本地Web服务器并从此处运行应用程序）或在Docker容器中本地托管的自由软件网络服务和Web应用程序的列表.  通过 [@Kickball](https://github.com/Kickball)
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) 通过 [@n1trux](https://github.com/n1trux)
 - [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) SaaS和本地应用程序列表 [@cjbarber](https://github.com/cjbarber)
 
-
 ## Demos and Examples
 
 - [Webstack-micro](https://github.com/ferbs/webstack-micro) 该演示Web应用程序展示了如何使用Docker Compose来将API网关，集中式身份验证，后台工作程序和WebSockets设置为容器化服务.
 - [An Annotated Docker Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-docker-config-for-frontend-web-development) 借助Docker的本地开发环境，您可以将项目所需的devop打包为config，从而使入职过程变得顺畅无阻.
-
 
 ## Good Tips
 

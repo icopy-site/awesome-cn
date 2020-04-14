@@ -79,7 +79,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Community Modules
 
-For more Community Modules not listed here please see the [Terraform Module Registry](https://registry.terraform.io/).
+有关此处未列出的更多社区模块，请参见 [Terraform Module Registry](https://registry.terraform.io/).
 
 * [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) -Digitalocean上的Rancher服务器.
 * [segmentio/stack](https://github.com/segmentio/stack) -使用AWS，Docker和ECS配置生产基础架构.
@@ -141,6 +141,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) -Linode插件.
 * [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) -OpenStack插件.
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) -管理Pingdom资源的提供者.
+* [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) -SecretHub的提供者.
 * [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) -管理 [Spinnaker](https://www.spinnaker.io/) Terraform的应用程序和管道.
 * [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) -适用于AWS，Azure，GCP的Devops自动化平台.
 * [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) -Stripe的提供者.
@@ -189,7 +190,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) -命令行实用程序和JavaScript API，用于从“ terraform plan”中解析标准输出并将其转换为JSON.
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) -用于管理同一Terraform脚本的多个配置的工具.
 * [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) -用于管理Terraform计划的共享Rake任务.
-* [terraform.py](https://github.com/ciscocloud/terraform.py) -Ansible动态清单脚本，用于解析Terraform状态文件.
+* [terraform.py](https://github.com/ciscocloud/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 * [terraformer](https://github.com/GoogleCloudPlatform/terraformer)  -CLI工具，用于从现有基础架构生成terraform文件.  代码基础架构.  支持的提供商很少.
 * [terraforming](https://github.com/dtan4/terraforming)  -将现有的AWS资源导出为Terraform样式（tf，tfstate）.  类似于`terraformer`.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) -Terragrunt是Terraform的薄包装，它支持锁定Terraform状态并执行最佳实践.
@@ -203,10 +204,12 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [tfmask](https://github.com/cloudposse/tfmask) -Terraform实用程序，用于屏蔽“ terraform plan”和“ terraform apply”中的选择输出
 * [tfscaffold](https://github.com/tfutils/tfscaffold) -用于控制多环境多组件地形管理的AWS基础架构的框架.
 * [tfschema](https://github.com/minamijoyo/tfschema) -Terraform提供程序的架构检查器.
-* [tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform configurations.
+* [tfsec](https://github.com/liamg/tfsec) -静态分析支持的安全扫描器，用于您的Terraform代码
+* [tfupdate](https://github.com/minamijoyo/tfupdate) -更新Terraform配置中的版本限制.
 * [tfwrapper](https://github.com/manheim/tfwrapper) -Rubygem提供耙任务，以合理地运行Hashicorp Terraform.
 * [tgf](https://github.com/coveo/tgf) -Terragrunt前端，用于通过Docker执行Terragrunt / Terraform.
 * [xterrafile](https://github.com/devopsmakers/xterrafile) 从模块注册表，git或本地目录中系统地管理外部模块，以在Terraform中使用（用Go编写）.
+* [TerraDepot](https://github.com/derBroBro/TerraDepot)  Terraform状态存储库，基于默认的http远程后端.  允许在AWS S3上对tfstates进行集中管理.
 
 ## Libraries
 
@@ -240,7 +243,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 * [Test and verify a Google Compute Instance with Kitchen-Terraform](https://www.youtube.com/watch?v=kiH3-LEveek) -使用Kitchen-Terraform测试我们创建了Google Compute的Terraform代码的示例.
 * [Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs) -如何以最小的风险谨慎地重构Terraform代码.
 * [Using Terraform for blue-green deployments on Triton](https://www.joyent.com/blog/video-blue-green-deploys-terraform) -有关在Terraform中使用蓝绿色的演示视频.
-* [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) -使用Terraform供应混合云基础架构.
+* [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) - Provisioning hybrid cloud infrastructure using Terraform.
 
 ## Editor Plugins
 

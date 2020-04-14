@@ -29,11 +29,49 @@
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
-  
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) -仅对Chrome，Firefox和Safari标准化（不支持Edge或Internet Explorer）.  
+
+- [**ress**](https://github.com/filipelinhares/ress) -现代CSS重置.  
+  ![](https://img.shields.io/github/stars/filipelinhares/ress.svg?style=social&label=Star)
+  [Repo](https://github.com/filipelinhares/ress)
+  | #CSS
+
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
+
+
+## Class-less
+
+使用语义HTML且不依赖类的框架.
+
+- [**Water.css**](https://watercss.netlify.com/) -只需添加CSS样式集，即可使简单的网站变得更好.  
+  ![](https://img.shields.io/github/stars/kognise/water.css.svg?style=social&label=Star)
+  [Repo](https://github.com/kognise/water.css)
+  | #CSS
+
+- [**sakura**](https://oxal.org/projects/sakura/) -最小的无类CSS框架/主题.  
+  ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
+  [Demo](https://oxal.org/projects/sakura/demo/),
+  [Repo](https://github.com/oxalorg/sakura)
+  | #SCSS
+  
+- [**Marx**](https://mblode.github.io/marx/) -无类CSS重置.  
+  ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
+  [Docs](https://mblode.github.io/marx/documentation/),
+  [Repo](https://github.com/mblode/marx)
+  | #SCSS #Stylus
+
+- [**Tacit**](https://yegor256.github.io/tacit/) -假人的CSS框架，不带类.  
+  ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
+  [Repo](https://github.com/yegor256/tacit/)
+  | #SCSS
+  
+- [**awsm.css**](https://igoradamenko.github.io/awsm.css) -CSS图书馆，用于语义HTML标记，没有类，属性等.  
+  ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
+  [Demo](https://igoradamenko.github.io/awsm.css/),
+  [Repo](https://github.com/igoradamenko/awsm.css)
+  | #SCSS
 
 
 ## Very Lightweight
@@ -60,34 +98,11 @@
   [Repo](https://github.com/franciscop/picnic)
   | #SCSS
 
-- [**sakura**](https://oxal.org/projects/sakura/) -最小的无类CSS框架/主题.  
-  ![](https://img.shields.io/github/stars/oxalorg/sakura.svg?style=social&label=Star)
-  [Demo](https://oxal.org/projects/sakura/demo/),
-  [Repo](https://github.com/oxalorg/sakura)
-  | #SCSS
-
 - [**Wing**](https://kbrsh.github.io/wing/) -专为极简主义者设计的漂亮CSS框架.  
   ![](https://img.shields.io/github/stars/kbrsh/wing.svg?style=social&label=Star)
   [Docs](https://kbrsh.github.io/wing/#installation),
   [Repo](https://github.com/kbrsh/wing)
   | #Stylus
-  
-- [**Marx**](https://mblode.github.io/marx/) -无类CSS重置.  
-  ![](https://img.shields.io/github/stars/mblode/marx.svg?style=social&label=Star)
-  [Docs](https://mblode.github.io/marx/documentation/),
-  [Repo](https://github.com/mblode/marx)
-  | #SCSS #Stylus
-
-- [**Tacit**](https://yegor256.github.io/tacit/) -假人的CSS框架，不带类.  
-  ![](https://img.shields.io/github/stars/yegor256/tacit.svg?style=social&label=Star)
-  [Repo](https://github.com/yegor256/tacit/)
-  | #SCSS
-  
-- [**awsm.css**](https://igoradamenko.github.io/awsm.css) - CSS library for semantic HTML markup without classes, attributes, etc.  
-  ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
-  [Demo](https://igoradamenko.github.io/awsm.css/),
-  [Repo](https://github.com/igoradamenko/awsm.css)
-  | #SCSS
 
 - [**Chota**](https://jenil.github.io/chota/) -很小的CSS框架.  
   ![](https://img.shields.io/github/stars/jenil/chota.svg?style=social&label=Star)
