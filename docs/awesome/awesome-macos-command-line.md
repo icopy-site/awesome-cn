@@ -174,7 +174,7 @@ sudo chmod 0000 /应用程序/iTunes.app
     如果“ 10.14” &lt;= os_version，则将mail_version设置为“ V6”
 结束考虑
 
-设置sizeBefore做外壳程序脚本“ ls -lnah〜/ Library / Mail /”＆mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
+set sizeBefore to do shell script "ls -lnah ~/Library/Mail/" & mail_version & "/MailData | grep -E 'Envelope Index$' | awk {'print $5'}"
 做shell脚本“ / usr / bin / sqlite3〜/ Library / Mail /”和mail_version和“ / MailData / Envelope \\ Index vacuum”
 
 设置sizeAfter以执行shell脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
@@ -402,7 +402,7 @@ bash
 杀人码头
 
 ## Disable (Default)
-defaults write com.apple.dock autohide -bool false && \
+默认写com.apple.dock autohide -bool false &amp;&amp; \
 杀人码头
 ```
 
@@ -489,7 +489,7 @@ defaults write com.apple.dock autohide -bool false && \
 到最前面，但所有其他应用程序窗口将被隐藏.
 ```bash
 ## Enable
-defaults write com.apple.dock single-app -bool true && \
+默认写com.apple.dock单应用程序-bool true &amp;&amp; \
 杀人码头
 
 ## Disable (Default)
@@ -510,7 +510,7 @@ textutil-转换html file.ext
 ## Files, Disks and Volumes
 
 #### Create an Empty File
-Creates an empty 10 gigabyte test file.
+创建一个空的10 GB测试文件.
 ```bash
 mkfile 10g / path / to / file
 ```
@@ -660,7 +660,7 @@ Killall搜寻器
 内置HD或SSD.
 ```bash
 ## Enable
-默认值写com.apple.finder ShowHardDrivesOnDesktop -bool true &amp;&amp; \
+defaults write com.apple.finder ShowHardDrivesOnDesktop -bool true && \
 Killall搜寻器
 
 ## Disable (Default)
@@ -724,7 +724,7 @@ sudo chflags -R nouchg /路径/到/文件/或/文件夹
 
 #### Show Full Path in Finder Title
 ```bash
-默认写入com.apple.finder _FXShowPosixPathInTitle -bool true
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
 ```
 
 #### Unhide User Library Folder
@@ -854,7 +854,7 @@ Killall搜寻器
 #### Change Working Directory to Finder Path
 如果打开了多个窗口，它将选择最上面的一个.
 ```bash
-cd“ $（osascript -e&#39;tell app” Finder“到（作为别名的插入位置）的POSIX路径&#39;）”
+cd“ $（osascript -e&#39;tell app” Finder“到（插入位置作为别名的）POSIX路径&#39;）”
 ```
 
 #### Open URL
@@ -1035,7 +1035,7 @@ sudo systemsetup -setrestartfreeze在
 打开/System/Library/CoreServices/PowerChime.app
 
 ## Disable (Default)
-defaults write com.apple.PowerChime ChimeOnAllHardware -bool false && \
+默认写com.apple.PowerChime ChimeOnAllHardware -bool false &amp;&amp; \
 杀死所有力量
 ```
 
@@ -1106,7 +1106,7 @@ afconvert input.mp3铃声.m4r -f m4af
 ```
 
 #### Create Audiobook From Text
-使用“ Alex”语音，UTF-8编码的纯文本文件用于输入和AAC输出.
+使用“ Alex”语音，这是一种普通的UTF-8编码文本文件，用于输入和AAC输出.
 ```bash
 说-v Alex -f file.txt -o“ output.m4a”
 ```
@@ -1118,7 +1118,7 @@ sudo nvram SystemAudioVolume =“”
 
 #### Mute Audio Output
 ```bash
-osascript -e&#39;设置音量输出静音为真&#39;
+osascript -e 'set volume output muted true'
 ```
 
 #### Set Audio Volume
@@ -1221,7 +1221,7 @@ scselect LocationNameFromStatus
 
 #### Set Static IP Address
 ```bash
-networksetup -setmanual“ Ethernet” 192.168.2.100 255.255.255.0 192.168.2.1
+networksetup -setmanual“以太网” 192.168.2.100 255.255.255.0 192.168.2.1
 ```
 
 ### Networking Tools
@@ -1569,7 +1569,7 @@ sw_vers
 ```
 
 #### Uptime
-自上次重新启动以来已过
+自上次重新启动以来已经过了多长时间.
 ```bash
 uptime
 ```
@@ -1804,6 +1804,19 @@ sudo nvram boot-args =“”
 安装程序-pkg /path/to/installer.pkg -target /
 ```
 
+### Sidecar
+
+#### Use on Incompatible Macs
+根据机器的使用时间，此方法可能有效或无效.
+```bash
+## Enable
+默认写com.apple.sidecar.display AllowAllDevices -bool true &amp;&amp; \
+defaults write com.apple.sidecar.display hasShownPref -bool true
+
+## Disable (Default)
+默认删除com.apple.sidecar.display
+```
+
 ### Software Update
 
 #### Ignore Specific Software Update
@@ -1985,7 +1998,7 @@ chsh -s $（brew --prefix）/ bin / zsh
 -------------------------- | ------------------ | ------------------ | -------------------------------------
  Rhapsody开发人员发布|  Grail1Z4 / Titan1U |  1997年8月31日|  DR2（1998年5月14日）
  Mac OS X服务器1.0 |  赫拉|  1999年3月16日|  1.2v3（2000年10月27日）
- Mac OS X开发人员预览|  不适用  1999年3月16日|  DP4（2000年4月5日）
+Mac OS X Developer Preview | n/a                | March 16, 1999     | DP4 (April 5, 2000)
  Mac OS X公开Beta版|  科迪亚克|  2000年9月13日|  不适用
  Mac OS X 10.0 |  猎豹  2001年3月24日|  10.0.4（2001年6月22日）
  Mac OS X 10.1 |  彪马|  2001年9月25日|  10.1.5（2002年6月6日）
@@ -1994,13 +2007,13 @@ chsh -s $（brew --prefix）/ bin / zsh
  Mac OS X 10.4 |  老虎|  2005年4月29日|  10.4.11（2007年11月14日）
  Mac OS X 10.5 |  豹纹|  2007年10月26日|  10.5.8（2009年8月5日）
  Mac OS X 10.6 |  雪豹|  2009年8月28日|  10.6.8 v1.1（2011年7月25日）
- Mac OS X 10.7 |  狮子|  2011年7月20日|  10.7.5（2012年9月19日）
+Mac OS X 10.7              | Lion               | July 20, 2011      | 10.7.5 (September 19, 2012)
  OS X 10.8 |  山狮|  2012年7月25日|  10.8.5（12F45）（2013年10月3日）
  OS X 10.9 |  小牛|  2013年10月22日|  10.9.5（13F1112）（2014年9月18日）
  OS X 10.10 |  优胜美地  2014年10月16日|  10.10.5（14F27）（2015年8月13日）
  OS X 10.11 |  埃尔卡皮坦|  2015年9月30日|  10.11.6（15G31）（2016年7月18日）
  macOS 10.12 |  塞拉利昂  2016年9月20日|  10.12.6（16G29）（2017年7月19日）
-macOS 10.13                | High Sierra        | September 25, 2017 | 10.13.6 (17G65) (July 9, 2018)
+ macOS 10.13 |  高山脉  2017年9月25日|  10.13.6（17G65）（2018年7月9日）
  macOS 10.14 |  莫哈韦沙漠|  2018年9月24日|  10.14.6（18G3020）（2020年1月28日）
  macOS 10.15 |  卡塔琳娜|  2019年10月7日|  10.15.3（19D76）（2020年1月28日）
 

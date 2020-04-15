@@ -6,11 +6,11 @@
 
 &gt;精选的Web组件资源精选列表.
 
-[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) —一套不同的技术，使您可以创建可重用的自定义元素（其功能与其余代码封装在一起），并在Web应用程序中使用它们.
+[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) —一套不同的技术，使您可以创建可重用的自定义元素（其功能与其他代码封装在一起），并在Web应用程序中使用它们.
 
 
 
-&gt; Web Components的正确方法是由爱创造 [Mateus Ortiz](https://twitter.com/mteusortiz) 并由 [Serhii Kulykov](https://twitter.com/serhiikulykov)
+&gt; Web Components通过爱创造了正确的方式 [Mateus Ortiz](https://twitter.com/mteusortiz) 并由 [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Specifications
 
@@ -32,16 +32,13 @@
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
   - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
 
+-** CSS Shadow Parts **允许开发人员在Shadow DOM中公开某些元素以用于样式设计.
+  - [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+  - [`::part()` CSS pseudo element](https://developer.mozilla.org/en-US/docs/Web/CSS/::part)
+  - [`part` global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part)
+
 ### Proposals
-
-#### CSS Shadow Parts
-
-- [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
-- [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md)
-- [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) -Chrome平台状态中的功能.
-- [Mozilla issue: Implement CSS Shadow Parts](https://bugzilla.mozilla.org/show_bug.cgi?id=1505489)
-- [WebKit issue: Add the support for the CSS shadow parts](https://bugs.webkit.org/show_bug.cgi?id=149443)
 
 #### Form-associated Custom Elements
 
@@ -76,7 +73,7 @@
 
 下面的填充填充物由 [ungap project](https://ungap.github.io).
 
-- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) -用于自定义元素内置的polyfill扩展.
+- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) -内置自定义元素的polyfill扩展.
 
 ## Articles
 
@@ -159,9 +156,8 @@
 - [Omi](https://github.com/Tencent/omi) -4kb JavaScript的下一代Web框架（Web组件+ JSX +代理+存储+路径更新）.
 - [Polymer](https://polymer-library.polymer-project.org) -Polymer Project作者提供的原始Web组件库.
 - [readymade](https://github.com/readymade-ui/readymade) -用于使用装饰器开发Web组件的JavaScript微库.
-- [Skate](https://github.com/skatejs/skatejs) -专注于功能渲染管道和较小占用空间的Web组件库.
+- [Skate](https://github.com/skatejs/skatejs) -Web组件库专注于功能渲染管线和较小的占用空间.
 - [slim.js](https://github.com/slimjs/slim.js) -基于现代标准的快速，强大的前端微框架.
-- [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) -用于使用简单API创建自定义元素的UI库.
 
 ### Functional
 
@@ -169,10 +165,6 @@
 - [functional-web-component](https://github.com/wtnbass/functional-web-component) -功能组件，如React，但用于Web组件.
 - [haunted](https://github.com/matthewp/haunted) -针对Web组件实现的React的Hooks API.
 - [hybrids](https://github.com/hybridsjs/hybrids) -用于使用简单实用的API创建Web组件的UI库.
-- [reLift-HTML](https://github.com/mardix/relift-html) -小型（3kb）视图库，可用于创建Web组件并使HTML页面具有响应性.
-- [osagai](https://github.com/HenriqueLimas/osagai) -用于以功能方式创建Web组件的微型库.
-- [Switzerland](https://github.com/Wildhoney/Switzerland) -允许通过中间件功能以功能方式创建Web组件的库.
-- [ullr](https://github.com/aggre/ullr) -用于通过功能编程来构建Web组件的库.
 
 ### Compilers
 
@@ -181,26 +173,26 @@
 
 ### Other
 
-- [custom-element-ts](https://github.com/geocine/custom-elements-ts) -使用Typescript创建本机自定义元素，而不使用任何第三方库.
-- [preact-custom-element](https://github.com/bspaulding/preact-custom-element) -从预设组件生成/注册自定义元素.
+- [preact-custom-element](https://github.com/bspaulding/preact-custom-element) -从preact组件生成/注册自定义元素.
 - [remount](https://github.com/rstacruz/remount) -使用自定义元素将React组件安装到DOM.
 - [@riotjs/custom-elements](https://github.com/riot/custom-elements) -使用Riot.js创建香草自定义元素的简单API.
 
 ## Component Libraries
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
-- [AMP HTML](https://github.com/ampproject/amphtml) -Web组件库，用于构建以可靠，快速的性能呈现的网页.
+- [AMP HTML](https://github.com/ampproject/amphtml) -Web组件库，用于构建以可靠和快速的性能呈现的网页.
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
-- [Elix](https://github.com/elix/elix) -用于通用用户界面模式的高质量，可定制的Web组件.
+- [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
-- [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
+- [Material Web Components](https://github.com/material-components/material-components-web-components) -材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) -灵活，轻量级的Web组件以及构建它们的工具的集合.
+- [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用Web组件构建的Adobe Spectrum设计语言实现.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -组件库在本地API的基础上提供了企业风味的糖.
 - [Vaadin components](https://github.com/vaadin/vaadin) -用于构建业务Web应用程序的不断发展的高质量Web组件集.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) -手绘，粗略外观的一组通用UI元素.
 
 ## Frameworks
 
@@ -236,7 +228,7 @@
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) -本·法雷尔（Ben Farrell）的书，可在曼宁（Manning）早期发行计划中获得.
-- [Web Component Essentials](https://leanpub.com/web-component-essentials) -由Cory Rylan所著，Leanpub提供早期预览版.
+- [Web Component Essentials](https://leanpub.com/web-component-essentials) -书名：Cory Rylan，早期预览版可在Leanpub上获得.
 
 ## Tutorials
 
@@ -282,8 +274,8 @@
 
 ## History
 
-以下文章代表了Web组件规范在实现标准化方面的悠久历史.
-其中一些参考了早期的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
+下面的文章描述了Web组件规范在标准化方面的悠久历史.
+其中一些参考了较早的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
 这些材料仅出于历史原因在这里，它们按年份分组并按时间顺序列出.
 
 ### 2017
@@ -366,7 +358,7 @@
       <td align="center">
         <a href="https://twitter.com/viljamis">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/671595827740086273/wCUWq-1S_80x80.png">
-          <div>威廉·萨尔米宁</div>
+          <div>维尔贾米·萨尔米宁（Viljami Salminen） </div>
         </a>
       </td>
       <td align="center">

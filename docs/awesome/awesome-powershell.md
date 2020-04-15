@@ -1,12 +1,12 @@
 <div class="github-widget" data-repo="janikvonrotz/awesome-powershell"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Quality Assurance](https://github.com/janikvonrotz/awesome-powershell/workflows/Quality%20Assurance/badge.svg)
+## Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Quality Assurance](https://github.com/janikvonrotz/awesome-powershell/workflows/Quality%20Assurance/badge.svg)](https://github.com/janikvonrotz/awesome-powershell/actions?query=workflow%3A%22Quality+Assurance%22)
 
 [<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
 精选的令人愉快的清单 [PowerShell](https://en.wikipedia.org/wiki/PowerShell) 包和资源.
 
-PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，已针对结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
+PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具，针对处理结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
 它包括命令行外壳程序和关联的脚本语言.
 
 
@@ -24,6 +24,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [JiraPS](https://atlassianps.org/module/JiraPS/) -在Powershell中与Atlassian的Jira进行交互的模块（通过使用API​​）.
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) -电报API模块
 * [PSTeams](https://github.com/EvotecIT/PSTeams) -用于将格式化的消息发送到Microsoft Teams Channel的模块.
+* [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) -用于 [urlscan.io](https://urlscan.io/) 这是一项扫描和分析网站的服务.
 
 ## Blogs
 
@@ -34,6 +35,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [PowerShellExplained](https://powershellexplained.com) -Kevin Marquette的个人博客
 * [Doug Finke](https://dfinke.github.io/#blog) -的作者 [PowerShell for Developers](http://shop.oreilly.com/product/0636920024491.do).
 * [Mike F. Robbins](http://mikefrobbins.com/)  -微软MVP.  SAPIEN Tech MVP.  Windows PowerShell TFM 4th Edition的合著者.
+* [Clear-Script](https://vexx32.github.io/) -Joel（Sallow）Francis的个人博客.
 
 ## Books
 
@@ -201,3 +203,4 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
   对于安全性研究，测试和快速破解很有用.
 * [psInlineProgress](https://github.com/gravejester/psInlineProgress) -在PowerShell中编写内嵌进度条.
 * [Graphical](https://github.com/PrateekKumarSingh/graphical) -用于绘制彩色控制台2D图形（散点图，条形图，线图）的PowerShell模块.
+* [WSLab](https://github.com/microsoft/WSLab) -Windows Server快速实验室部署脚本.

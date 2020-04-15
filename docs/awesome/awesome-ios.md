@@ -99,7 +99,7 @@
 - [Marshroute](https://github.com/avito-tech/Marshroute) -Marshroute是一个iOS库，可让您的路由器变得简单而强大.
 - [SwiftRouter](https://github.com/skyline75489/SwiftRouter) -适用于iOS的URL路由器.
 - [Router](https://github.com/freshOS/Router) -适用于iOS的简单导航.
-- [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
+- [ApplicationCoordinator](https://github.com/AndreyPanov/ApplicationCoordinator) -协调器是一个对象，该对象处理导航流并在打开下一个链后共享下一个协调器的流处理.
 - [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) -基于Reactive Flow Coordinator模式的iOS应用程序导航框架.
 - [Linker](https://github.com/MaksimKurpa/Linker) -处理iOS内部和外部深层链接的轻量级方法.
 - [CoreNavigation](https://github.com/aronbalog/CoreNavigation) -轻松在视图控制器之间导航.
@@ -138,7 +138,7 @@
 - [YARCH](https://github.com/alfa-laboratory/YARCH) -具有单向数据流（类似助焊剂）的VIPER的更干净的替代品.
 - [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) -该存储库包含一个详细的示例应用程序，该应用程序使用Alamofire，AlamofireImage，PKHUD，CoreData等库和框架在iOS中实现VIPER架构.
 - [Tempura](https://github.com/BendingSpoons/tempura-swift) -受Redux和MVVM启发的整体iOS开发方法.
-- [VIPER Module Generator](https://github.com/Kaakati/VIPER-Module-Generator) -带有注释和预定义功能的干净VIPER模块生成器.
+- [VIPER Module Generator](https://github.com/Kaakati/VIPER-Module-Generator) - A Clean VIPER Modules Generator with comments and predfined functions.
 - [MMVMi](https://github.com/Maryom/MMVMi) -iOS应用程序中MVC和MVVM设计模式的验证模型.
 - [ios-architecture](https://github.com/tailec/ios-architecture) -iOS架构的集合-MVC，MVVM，MVVM + RxSwift，VIPER，RIB等.
 - [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui) -一个演示项目，展示带有Clean Architecture的SwiftUI应用的生产设置.
@@ -226,7 +226,7 @@
 
 *美丽，容易和完全定制的图表*
 
-- [Charts](https://github.com/danielgindi/Charts) -强大的图表/图形框架，相当于iOS [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
+- [Charts](https://github.com/danielgindi/Charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 - [PNChart](https://github.com/kevinzhow/PNChart) -适用于iOS的Piner和CoinsMan中使用的简单美观的图表库.
 - [XJYChart](https://github.com/JunyiXie/XJYChart)  -适用于iOS的精美图表.  支持动画，单击，滑动，区域突出显示.
 - [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) -适用于iOS的优雅线图（图表库）.
@@ -255,7 +255,7 @@
 - [SMDiagramViewSwift](https://github.com/VRGsoftUA/SMDiagramView) -满足可爱且非常灵活的iOS应用程序库，可在一圈图中查看不同的数据.
 - [Swift LineChart](https://github.com/zemirco/swift-linechart) -使用Swift编写的iOS折线图库.
 - [SwiftChart](https://github.com/gpbl/SwiftChart) -适用于iOS的折线图和面积图库.
-- [EatFit](https://github.com/Yalantis/EatFit) -饮食合体是受Google健身启发的有吸引力的数据表示形式的组件.
+- [EatFit](https://github.com/Yalantis/EatFit) -饮食合体是受Google健身启发的有吸引力的数据表示形式的组成部分.
 - [CoreCharts](https://github.com/cagricolak/CoreCharts) -CoreCharts是一个简单而强大的Apple产品图表库.
 
 ## Code Quality
@@ -272,7 +272,7 @@
 - [SwiftCop](https://github.com/andresinaka/SwiftCop) -SwiftCop是一个完全用Swift编写的验证库，其灵感来自Ruby On Rails Active Record验证的清晰性.
 - [Trackable](https://github.com/VojtaStavik/Trackable)  -可跟踪是一个简单的分析集成帮助程序库.  它是专为轻松，舒适地与现有项目集成而设计的.
 - [MLeaksFinder](https://github.com/Tencent/MLeaksFinder) -在开发时在iOS应用中查找内存泄漏.
-- [HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS) -在没有仪器的情况下，在iOS应用中查找内存问题和泄漏.
+- [HeapInspector-for-iOS](https://github.com/tapwork/HeapInspector-for-iOS) - Find memory issues & leaks in your iOS app without instruments.
 - [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) -帮助分析iOS内存使用情况的iOS工具.
 - [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) -iOS库可帮助检测运行时中的保留周期.
 - [Buglife](https://github.com/Buglife/Buglife-iOS) -很棒的iOS应用错误报告.
@@ -298,13 +298,13 @@
 - [Taylor](https://github.com/yopeso/Taylor) -测量Swift代码指标并在Xcode，Jenkins和其他CI平台中获取报告.
 - [Swiftlint](https://github.com/realm/SwiftLint) -实施Swift样式和约定的工具.
 - [IBLinter](https://github.com/IBDecodable/IBLinter) -用于Interface Builder的linter工具.
-- [SwiftLinter](https://github.com/muyexi/SwiftLinter) -使用SwiftLint在项目之间共享皮棉规则，并在皮棉更改的文件之间共享.
+- [SwiftLinter](https://github.com/muyexi/SwiftLinter) -使用SwiftLint在项目之间共享皮棉规则，并在皮棉更改文件之间共享.
 
 ## Color
 
 *十六进制颜色扩展，主题，颜色选择器和其他很棒的颜色工具.*
 
-- [DynamicColor](https://github.com/yannickl/DynamicColor) -另一个扩展，可在Swift中轻松操纵颜色.
+- [DynamicColor](https://github.com/yannickl/DynamicColor) - Yet another extension to manipulate colors easily in Swift.
 - [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) -十六进制颜色处理作为UIColor的扩展.
 - [Colours](https://github.com/bennyguitar/Colours) -一组漂亮的预定义颜色和一组颜色方法，使您的iOS / macOS开发工作更加轻松.
 - [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) -使用RGBA十六进制字符串创建自动发布颜色的便捷方法.
@@ -312,10 +312,10 @@
 - [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) -用Swift编写的平面UI调色板助手.
 - [RandomColorSwift](https://github.com/onevcat/RandomColorSwift)  -极具吸引力的Swift色彩生成器.  从`randomColor.js`移植.
 - [PFColorHash](https://github.com/PerfectFreeze/PFColorHash) -根据给定的字符串生成颜色.
-- [BCColor](https://github.com/boycechang/BCColor) -轻巧但功能强大的配色套件（Swift）.
+- [BCColor](https://github.com/boycechang/BCColor) -轻巧但功能强大的颜色套件（Swift）.
 - [DKNightVersion](https://github.com/Draveness/DKNightVersion) -管理颜色，整合夜间/多个主题.
 - [PrettyColors](https://github.com/jdhealy/PrettyColors)  -PrettyColors是一个Swift库，用于在终端中为文本设置样式和颜色.  库输出 [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code) 并符合ECMA标准48.
-- [TFTColor](https://github.com/burhanuddin353/TFTColor) - Simple Extension for RGB and CMKY Hex Strings and Hex Values (ObjC & Swift).
+- [TFTColor](https://github.com/burhanuddin353/TFTColor) -RGB和CMKY十六进制字符串和十六进制值（ObjC和Swift）的简单扩展.
 - [CostumeKit](https://github.com/jakemarsh/CostumeKit) -主题化应用程序的基本类型.
 - [CSS3ColorsSwift](https://github.com/WorldDownTown/CSS3ColorsSwift) -具有CSS3颜色名称的UIColor扩展.
 - [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) -内置于Swift中的直观iOS颜色选择器.
@@ -335,7 +335,7 @@
 - [Crayon](https://github.com/luoxiu/Crayon) -具有表现力的api和256 / TrueColor支持的终端字符串样式.
 - [SwiftShell](https://github.com/kareman/SwiftShell) -一个用于shell脚本和运行shell命令的Swift框架.
 - [SourceDocs](https://github.com/eneko/SourceDocs) -命令行工具，可从内联源代码注释生成Markdown文档.
-- [ModuleInterface](https://github.com/minuscorp/ModuleInterface) -命令行工具，可从Swift项目生成模块的界面.
+- [ModuleInterface](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
 
 ## Concurrency
 
@@ -368,14 +368,14 @@
 - [Core Data Query Interface](https://github.com/prosumma/CoreDataQueryInterface) 类型安全，流畅的核心数据查询框架.
 - [Graph](https://github.com/CosmicMind/Graph) -Swift中CoreData的优雅数据驱动框架.
 - [CoreDataDandy](https://github.com/fuzz-productions/CoreDataDandy) -围绕Core Data的功能轻巧的包装器，可简化常见的数据库操作.
-- [Sync](https://github.com/3lvis/Sync) -现代Swift JSON同步到核心数据.
+- [Sync](https://github.com/3lvis/Sync) - Modern Swift JSON synchronization to Core Data.
 - [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) -用Swift编写的功能强大且简单的Core Data包装器框架.
 - [AERecord](https://github.com/tadija/AERecord) -Swift中超棒的Core Data包装器.
 - [CoreDataStack](https://github.com/bignerdranch/CoreDataStack) -大书呆子牧场核心数据栈.
 - [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) -更快的核心数据堆栈.
 - [Skopelos](https://github.com/albertodebortoli/Skopelos)  -核心数据上Active Record的简约，线程安全，非样板且超级易于使用的版本.  只需完成核心数据即可.
 - [Cadmium](https://github.com/jmfieldman/cadmium) -完整的快速框架，用于包装CoreData并有助于促进最佳实践.
-- [DataKernel](https://github.com/mrdekk/DataKernel) - Simple CoreData wrapper to ease operations.
+- [DataKernel](https://github.com/mrdekk/DataKernel) -简单的CoreData包装器可简化操作.
 - [DATAStack](https://github.com/3lvis/DATAStack)  -100％快速简单样板免费核心数据堆栈.  NSPersistentContainer.
 - [JustPersist](https://github.com/justeat/JustPersist) -JustPersist是开箱即用的Core Data支持，是在iOS上实现持久性的最简单，最安全的方法.
 - [PrediKit](https://github.com/KrakenDev/PrediKit)  -适用于iOS，macOS，tvOS和watchOS的NSPredicate DSL.  受SnapKit的启发，以Swift编写.
@@ -420,7 +420,7 @@
 - [StorageKit](https://github.com/StorageKit/StorageKit) -您的数据存储问题排查工具.
 - [UserDefaults](https://github.com/nmdias/DefaultsKit) -适用于iOS，macOS和tvOS的简单强类型UserDefaults.
 - [Default](https://github.com/Nirma/Default) -UserDefaults + Codable支持的现代界面.
-- [IceCream](https://github.com/caiyue1993/IceCream) - Sync Realm Database with CloudKit.
+- [IceCream](https://github.com/caiyue1993/IceCream) -与CloudKit同步领域数据库.
 - [FirebaseHelper](https://github.com/quanvo87/FirebaseHelper) -适用于常见的Firebase实时数据库功能的安全简便的包装器.
 - [Shallows](https://github.com/dreymonde/Shallows) -您的轻量级持久性工具箱.
 - [StorageManager](https://github.com/iAmrSalman/StorageManager) -使用FileManager作为数据库的安全简便方法.
@@ -456,7 +456,7 @@
 - [Pencil](https://github.com/naru-jpn/pencil) -将值写入文件并更轻松地读取.
 - [HeckelDiff](https://github.com/mcudich/HeckelDiff) -快速的Swift差异库.
 - [Dekoter](https://github.com/artemstepanenko/Dekoter) -`NSCoding`对应的Swift结构.
-- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations!
+- [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) -Swift中的算法和数据结构，并附有说明！
 - [Impeller](https://github.com/david-coyle-sjc/impeller) -Swift中的分布式值存储.
 - [Dispatch](https://github.com/alexdrone/Store) -在Swift中实现多商店Flux.
 - [DeepDiff](https://github.com/onmyway133/DeepDiff) -与Swift相较.
@@ -477,8 +477,8 @@
 - [SwiftMoment](https://github.com/akosma/SwiftMoment) -时间和日历操作库.
 - [DateTools](https://github.com/MatthewYork/DateTools) -在Objective-C中轻松实现日期和时间.
 - [SwiftyTimer](https://github.com/radex/SwiftyTimer) -NSTimer的Swifty API.
-- [DateHelper](https://github.com/melvitax/DateHelper) -Swift中NSDate的便利扩展.
-- [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter)  -可可NSFormatter子类，用于将日期与ISO-8601格式的字符串进行转换.  支持日历，星期和序数格式.
+- [DateHelper](https://github.com/melvitax/DateHelper) - Convenience extension for NSDate in Swift.
+- [iso-8601-date-formatter](https://github.com/boredzo/iso-8601-date-formatter) - A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
 - [EmojiTimeFormatter](https://github.com/thomaspaulmann/EmojiTimeFormatter) -将日期/时间格式化为表情符号.
 - [Kronos](https://github.com/lyft/Kronos) -Swift中优雅的NTP日期库.
 - [TrueTime](https://github.com/instacart/TrueTime.swift) -获得不受设备时钟时间变化影响的真实当前时间.
@@ -488,7 +488,7 @@
 - [TimeZonePicker](https://github.com/gligorkot/TimeZonePicker) -与iOS设置应用类似的TimeZonePicker UIViewController.
 - [Time](https://github.com/dreymonde/Time) -Swift中类型安全的时间计算，由泛型提供支持.
 - [Chronology](https://github.com/davedelong/Chronology) -建立更好的日期/时间库.
-- [Solar](https://github.com/ceeK/Solar) - A Swift micro library for generating Sunrise and Sunset times.
+- [Solar](https://github.com/ceeK/Solar) -一个用于生成日出和日落时间的Swift微库.
 - [TimePicker](https://github.com/Endore8/TimePicker) -基于平移手势及其速度的可配置时间选择器组件.
 - [LFTimePicker](https://github.com/awesome-labs/LFTimePicker) -自定义时间选择器ViewController，可在Swift中选择开始时间和结束时间.
 - [NVDate](https://github.com/novalagung/nvdate) -Swift4日期扩展库.
@@ -506,7 +506,7 @@
 - [chisel](https://github.com/facebook/chisel) -收集LLDB命令以帮助调试iOS应用.
 - [Alpha](https://github.com/Legoless/Alpha) -适用于iOS的下一代调试框架.
 - [AEConsole](https://github.com/tadija/AEConsole) -可自定义的控制台UI叠加层，在iOS App顶部带有调试日志.
-- [GodEye](https://github.com/zixun/GodEye) -基于Swift的一行代码自动显示Log，Crash，Network，ANR，Leak，CPU，RAM，FPS，NetFlow，Folder等.
+- [GodEye](https://github.com/zixun/GodEye) -使用基于Swift的一行代码自动显示Log，Crash，Network，ANR，Leak，CPU，RAM，FPS，NetFlow，Folder等.
 - [NetworkEye](https://github.com/coderyi/NetworkEye) -iOS网络调试库，它可以监视App中的HTTP请求并显示与该请求有关的信息.
 - [Dotzu](https://github.com/remirobert/Dotzu)  -使用应用程序时的iOS应用程序调试器.  崩溃报告，日志，网络.
 - [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS) -应用内设计审查工具，可检查尺寸，属性和动画.
@@ -517,6 +517,7 @@
 - [Woodpecker](http://www.woodpeck.cn) -查看Mac的沙盒文件，UserDefaults和网络请求.
 - [LayoutInspector](https://github.com/isavynskyi/LayoutInspector) -直接在iOS设备上调试应用布局：检查3D图层并调试每个可见视图属性.
 - [MTHawkeye](https://github.com/meitu/MTHawkeye) -适用于iOS的分析/调试辅助工具，包括以下工具：UITimeProfiler，内存分配，实时ObjC对象嗅探器，网络事务瀑布等.
+- [Playbook](https://github.com/playbook-ui/playbook-ios) -用于隔离开发的UI组件并自动为其快照的库.
 
 ## EventBus
 
@@ -538,7 +539,7 @@
 - [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) -NoticeObserveKit是类型安全的NotificationCenter包装器，用于将通知类型与信息类型相关联.
 - [Hydra](https://github.com/malcommac/Hydra) -承诺与等待-在Swift中编写更好的异步代码.
 - [Promis](https://github.com/albertodebortoli/Promis)  -Swift中最简单的Future and Promises框架.  没魔术  没有样板.
-- [Bluebird.swift](https://github.com/AndrewBarba/Bluebird.swift) -Promise / A +，灵感来自Bluebird，在Swift 4中实现.
+- [Bluebird.swift](https://github.com/AndrewBarba/Bluebird.swift) - Promise/A+, Bluebird inspired, implementation in Swift 4.
 - [Promise](https://github.com/khanlou/Promise) -Swift的Promise库，部分基于Javascript的A +规范.
 - [promises](https://github.com/google/promises) -Google为Objective-C和Swift提供了一个同步结构，以方便编写异步代码.
 - [Continuum](https://github.com/marty-suzuki/Continuum) -基于NotificationCenter的轻量级UI / AnyObject绑定器.
@@ -557,7 +558,7 @@
 - [FileProvider](https://github.com/amosavian/FileProvider) -FileManager替代iOS / tvOS和macOS上的本地，iCloud和远程（WebDAV / FTP / Dropbox / OneDrive / SMB2）文件.
 - [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers)  -用于观察本地和远程文件更改的微型框架.  有助于构建开发人员工具.
 - [ZipArchive](https://github.com/ZipArchive/ZipArchive) -ZipArchive是用于在iOS和Mac上压缩和解压缩文件的简单实用程序类.
-- [FileExplorer](https://github.com/Augustyniak/FileExplorer) -适用于iOS的强大文件浏览器，允许其用户选择和删除文件和/或目录.
+- [FileExplorer](https://github.com/Augustyniak/FileExplorer) - Powerful file browser for iOS that allows its users to choose and remove files and/or directories.
 - [ZIPFoundation](https://github.com/weichsel/ZIPFoundation) -在Swift中轻松进行ZIP处理.
 - [AppFolder](https://github.com/dreymonde/AppFolder) -AppFolder是一个轻量级框架，可让您设计应用程序容器内目录的友好，强类型表示.
 - [ZipZap](https://github.com/pixelglow/ZipZap) -适用于iOS，macOS和tvOS的zip文件I / O库.
@@ -624,14 +625,14 @@
 - [MPWDrawingContext](https://github.com/mpw/MPWDrawingContext) -CoreGraphics CGContext的Objective-C包装器.
 - [DePict](https://github.com/davidcairns/DePict) -在Swift中一个简单的，声明性的，功能性的绘图框架！
 - [SwiftSVG](https://github.com/mchoe/SwiftSVG) -具有多个接口选项（字符串，NS / UIBezierPath，CAShapeLayer和NS / UIView）的单遍SVG解析器.
-- [InkKit](https://github.com/shaps80/InkKit) -适用于iOS和macOS的一次写入，无处不在绘图.
+- [InkKit](https://github.com/shaps80/InkKit) -适用于iOS和macOS的Write-Once，Draw-Everywhere.
 - [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) -用于异步渲染和显示的iOS实用程序类.
 - [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) -NXDrawKit是一个简单易用但有用的iPhone绘图工具.
 - [jot](https://github.com/IFTTT/jot) -一个iOS框架，可轻松将绘图和文本添加到图像.
 - [SVGKit](https://github.com/SVGKit/SVGKit) -使用本机渲染（CoreAnimation）（当前仅支持iOS-需要更新macOS代码）在iOS / macOS上显示SVG图像并与之交互.
 - [Snowflake](https://github.com/onmyway133/Snowflake) -Swift中的SVG.
 - [HxSTLParser](https://github.com/victorgama/HxSTLParser) -用于SceneKit的基本STL加载器.
-- [ProcessingKit](https://github.com/natmark/ProcessingKit) -适用于iOS和OSX的视觉设计库.
+- [ProcessingKit](https://github.com/natmark/ProcessingKit) -适用于iOS和OSX的可视化设计库.
 - [EZYGradientView](https://github.com/shashankpali/EZYGradientView) -无需一行代码即可创建渐变和模糊渐变.
 - [AEConicalGradient](https://github.com/tadija/AEConicalGradient) -用Swift编写的圆锥形（角度）渐变层.
 - [MKGradientView](https://github.com/maxkonovalov/MKGradientView) -基于Swift编写的基于核心图形的渐变视图，能够生成线性（轴向），径向（圆形），圆锥形（角度），双线性（四点）渐变.
@@ -673,14 +674,14 @@
 - [PBJVision](https://github.com/piemonte/PBJVision) -iOS摄像头引擎，具有触摸录制视频，慢动作视频和照片捕获功能.
 - [Cool-iOS-Camera](https://github.com/GabrielAlva/Cool-iOS-Camera) -使用AVFoundation为iOS完全可定制且现代的相机实现.
 - [SCRecorder](https://github.com/rFlex/SCRecorder) -类似于Vine的水龙头的摄像头引擎可以录制，动画滤镜，慢动作，片段编辑.
-- [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - A camera view controller with custom image picker and image cropping. Written in Swift.
+- [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController)  -具有自定义图像选择器和图像裁剪的相机视图控制器.  用Swift编写.
 - [CameraManager](https://github.com/imaginary-cloud/CameraManager) -简单的Swift类，提供在应用程序中创建自定义相机视图所需的所有配置.
-- [RSBarcodes_Swift](https://github.com/yeahdongcn/RSBarcodes_Swift) - 1D and 2D barcodes reader and generators for iOS 8 with delightful controls. Now Swift.
+- [RSBarcodes_Swift](https://github.com/yeahdongcn/RSBarcodes_Swift)  -适用于iOS 8的1D和2D条码读取器和生成器，带有令人愉悦的控件.  现在是Swift.
 - [LLSimpleCamera](https://github.com/omergul/LLSimpleCamera) -简单，可自定义的相机控件-适用于iOS的录像机.
 - [Fusuma](https://github.com/ytakzk/Fusuma) -类似Instagram的照片浏览器和相机功能，在Swift中包含几行代码.
 - [BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) -简单美观的条形码扫描仪.
 - [HorizonSDK-iOS](https://github.com/HorizonCamera/HorizonSDK-iOS) -最先进的实时视频录制/照片拍摄iOS库.
-- [FastttCamera](https://github.com/IFTTT/FastttCamera) - Fasttt and easy camera framework for iOS with customizable filters.
+- [FastttCamera](https://github.com/IFTTT/FastttCamera) -适用于iOS的Fasttt简易相机框架，带有可自定义的滤镜.
 - [DKCamera](https://github.com/zhangao0086/DKCamera)  -适用于iOS的轻巧简单的相机框架.  用Swift编写.
 - [NextLevel](https://github.com/NextLevel/NextLevel) -Next Level是适用于iOS的媒体捕获相机库.
 - [CameraEngine](https://github.com/remirobert/CameraEngine) -适用于iOS的相机引擎，以AVFoundation上方的Swift编写.
@@ -709,7 +710,7 @@
 *设备检测库和iBeacon帮助器*
 
 - [Proxitee](https://github.com/Proxitee/iOS-SDK) -允许开发人员使用iBeacons和地理围栏创建接近感应应用程序.
-- [OWUProximityManager](https://github.com/ohayon/OWUProximityManager) -iBeacons + CoreBluetooth.
+- [OWUProximityManager](https://github.com/ohayon/OWUProximityManager) - iBeacons + CoreBluetooth.
 - [Vicinity](https://github.com/Instrument/Vicinity) -Vicinity通过分析RSSI复制iBeacon，并支持在后台广播和检测低能耗蓝牙设备.
 - [BeaconEmitter](https://github.com/lgaches/BeaconEmitter) -将Mac变成iBeacon.
 - [MOCA Proximity](https://mocaplatform.com/features) -付费的接近营销平台，可让您向应用程序添加惊人的接近体验.
@@ -720,7 +721,7 @@
 *位置监控，检测运动和地理围栏库*
 
 - [IngeoSDK](https://github.com/IngeoSDK/ingeo-ios-sdk) -iOS的永远在线位置监视框架.
-- [LocationManager](https://github.com/intuit/LocationManager) - Provides a block-based asynchronous API to request the current location, either once or continuously.
+- [LocationManager](https://github.com/intuit/LocationManager) -提供基于块的异步API以一次或连续请求当前位置.
 - [SwiftLocation](https://github.com/malcommac/SwiftLocation) -Swift中的位置和信标监视.
 - [SOMotionDetector](https://github.com/arturdev/SOMotionDetector)  -简单的库来检测运动.  基于位置更新和加速.
 - [LocationPicker](https://github.com/ZhuoranTan/LocationPicker) -适用于您的应用的即用型和完全可定制的位置选择器.
@@ -748,7 +749,7 @@
 
 ## Layout
 
-*Auto Layout, UI frameworks and a gorgeous list of tools to simplify layout constructions*
+*自动版面设计，UI框架和大量用于简化版面设计的工具*
 
 - [Masonry](https://github.com/SnapKit/Masonry) -利用简化的，可链接的和富有表现力的语法来利用AutoLayout NSLayoutConstraints的功能.
 - [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) -UIView类别，可轻松在代码中创建布局约束.
@@ -841,7 +842,7 @@
 - [ReflectedStringConvertible](https://github.com/mattcomi/ReflectedStringConvertible) -一种协议，它允许将任何类作为结构进行打印.
 - [Evergreen](https://github.com/nilsleiffischer/Evergreen) -最自然的Swift日志记录.
 - [SwiftTrace](https://github.com/johnno1962/SwiftTrace) -跟踪Swift和Objective-C方法调用.
-- [Willow](https://github.com/Nike-Inc/Willow) -Willow是用Swift编写的功能强大但轻量级的日志记录库.
+- [Willow](https://github.com/Nike-Inc/Willow) -Willow是一个用Swift编写的功能强大但轻量级的日志记录库.
 - [Bugfender](https://github.com/bugfender/BugfenderSDK-iOS)  -应用程序日志的云存储.  跟踪用户行为以发现您的移动应用程序中的问题.
 - [LxDBAnything](https://github.com/DeveloperLx/LxDBAnything)  -自动化盒子的任何价值！  打印日志，不带任何格式控制符号！  彻底改变调试习惯！
 - [XLTestLog](https://github.com/xareelee/XLTestLog) -在Xcode Console上为XCTest日志设置样式和颜色.
@@ -891,7 +892,7 @@
 
 *数学框架，函数和库，用于自定义操作，统计计算等.*
 
-- [Euler](https://github.com/mattt/Euler) - Swift Custom Operators for Mathematical Notation.
+- [Euler](https://github.com/mattt/Euler) -数学表示法的Swift自定义运算符.
 - [SwiftMath](https://github.com/madbat/SwiftMath)  -Swift的数学框架.  包括：向量，矩阵，复数，四元数和多项式.
 - [Arithmosophi](https://github.com/phimage/Arithmosophi) -一组用于算术和逻辑运算的协议.
 - [Surge](https://github.com/mattt/Surge) -一个Swift库，它使用Accelerate框架为矩阵数学，数字信号处理和图像处理提供高性能的功能.
@@ -915,7 +916,7 @@
 - [novocaine](https://github.com/alexbw/novocaine) -iOS和macOS上的无痛高性能音频.
 - [QHSpeechSynthesizerQueue](https://github.com/quentinhayot/QHSpeechSynthesizerQueue) -AVSpeechSynthesizer（iOS文本到语音）的队列管理系统.
 - [Cephalopod](https://github.com/evgenyneu/Cephalopod) -用Swift编写的AVAudioPlayer的声音推子.
-- [Chirp](https://github.com/trifl/Chirp) -在Swift应用中准备，播放和删除声音的最简单方法！
+- [Chirp](https://github.com/trifl/Chirp) - The easiest way to prepare, play, and remove sounds in your Swift app!
 - [Beethoven](https://github.com/vadymmarkov/Beethoven) -音频处理Swift库，用于音乐信号的音高检测.
 - [AudioPlayerSwift](https://github.com/vsouza/awesome-ios/blob/master/ https://github.com/tbaranes/AudioPlayerSwift) -AudioPlayer是用于在iOS，macOS和tvOS应用程序中播放音频的简单类.
 - [AudioPlayer](https://github.com/delannoyk/AudioPlayer)  -AudioPlayer是AVPlayer的语法和功能.  它播放您的音频文件（本地和远程）.
@@ -932,7 +933,7 @@
 - [SwiftySound](https://github.com/adamcichy/SwiftySound)  -超级简单的库，可让您用单行代码播放声音（甚至更多）.  用Swift 3编写，支持iOS，macOS和tvOS.  CocoaPods和迦太基兼容.
 - [BPMAnalyser](https://github.com/Luccifer/BPM-Analyser) -快速简便的工具，可从音频文件中获取BPM速率.
 - [PandoraPlayer](https://github.com/AppliKeySolutions/PandoraPlayer) -基于AudioKit的iOS轻量级音乐播放器.
-- [SonogramView](https://github.com/Luccifer/SonogramView) - Audio visualisation of song.
+- [SonogramView](https://github.com/Luccifer/SonogramView) -歌曲的音频可视化.
 - [AudioIndicatorBars](https://github.com/LeonardoCardoso/AudioIndicatorBars)  -AIB为您的应用程序用户指示正在播放的音频.  就像Podcasts应用一样.
 - [Porcupine](https://github.com/Picovoice/Porcupine) -由深度学习提供支持的macOS，iOS和watchOS设备唤醒字词检测引擎.
 - [Voice Overlay](https://github.com/algolia/voice-overlay-ios) -覆盖层，可获取用户的语音权限并在可自定义的UI中以文本形式输入.
@@ -994,7 +995,7 @@
 - [UIImageColors](https://github.com/jathu/UIImageColors) -用于UIImage的iTunes样式的颜色提取器.
 - [CDFlipView](https://github.com/jibeex/CDFlipView) -拍摄一组图像的视图，使用翻转效果从一个图像过渡到另一个图像.
 - [GPUImage2](https://github.com/BradLarson/GPUImage2) -GPUImage 2是BSD许可的Swift框架，用于GPU加速的视频和图像处理.
-- [TGLParallaxCarousel](https://github.com/taglia3/TGLParallaxCarousel) - A lightweight 3D Linear Carousel with parallax effect.
+- [TGLParallaxCarousel](https://github.com/taglia3/TGLParallaxCarousel) -具有视差效果的轻量级3D线性旋转木马.
 - [ImageButter](https://github.com/dollarshaveclub/ImageButter) -使处理黄油图像平滑.
 - [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) -受Facebook启发的简单PhotoBrowser / Viewer，由swift编写的Twitter照片浏览器.
 - [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) -使用Apple的Core Image Framework实现高通皮肤平滑的方法.
@@ -1024,7 +1025,7 @@
 - [YapImageManager](https://github.com/yapstudios/YapImageManager) -由YapDatabase支持的用Swift编写的高性能图像下载器.
 - [PhotoEditorSDK](https://photoeditorsdk.com/) -为您的应用程序完全可自定义的照片编辑器.
 - [SimpleImageViewer](https://github.com/aFrogleap/SimpleImageViewer) -带有缩放和交互式关闭过渡的快速图像查看器.
-- [AZImagePreview](https://github.com/Minitour/AZImagePreview) -简化图像浏览的框架.
+- [AZImagePreview](https://github.com/Minitour/AZImagePreview) - A framework that makes image viewing easy.
 - [FaceCropper](https://github.com/KimDarren/FaceCropper) -使用iOS 11 Vision API在图片内裁剪人脸.
 - [Paparazzo](https://github.com/avito-tech/Paparazzo) -具有编辑功能的自定义iOS相机和照片选择器.
 - [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) -一个Swift项目，可以裁剪任何形状的图像.
@@ -1068,7 +1069,7 @@
 - [SwiftPDFGenerator](https://github.com/kayoslab/SwiftPDFGenerator)  -使用UIViews的PDF生成器；  &#39;UIView 2 PDF&#39;的Swift版本.
 - [PSPDFKit](https://pspdfkit.com/) -渲染PDF，添加/编辑注释，填写表格，添加/编辑页面，查看/创建数字签名.
 - [TPPDF](https://github.com/Techprimate/TPPDF) -使用命令和自动布局生成PDF.
-- [FastPdfKit](https://github.com/mobfarm/FastPdfKit) -静态库，将嵌入到iOS应用程序中，以显示从Fast PDF派生的pdf文档.
+- [FastPdfKit](https://github.com/mobfarm/FastPdfKit) -静态库将嵌入在iOS应用程序中，以显示从Fast PDF派生的pdf文档.
 - [UIImagePlusPDF](https://github.com/DimaMishchenko/UIImagePlusPDF) -UIImage扩展仅使用PDF文件.
 
 ### Streaming
@@ -1170,7 +1171,7 @@
 - [AFNetworking+RetryPolicy](https://github.com/kubatruhlar/AFNetworking-RetryPolicy) -Objective-C类别，它增加了为AFNetworking发出的请求设置重试逻辑的功能.
 - [SwiftyZeroMQ](https://github.com/azawawi/SwiftyZeroMQ) -适用于iOS，macOS，tvOS和watchOS的ZeroMQ Swift绑定.
 - [Nikka](https://github.com/stremsdoerfer/Nikka) -超级简单的网络包装器，支持许多JSON库，Futures和Rx.
-- [XMNetworking](https://github.com/kangzubin/XMNetworking) - A lightweight but powerful network library with simplified and expressive syntax based on AFNetworking.
+- [XMNetworking](https://github.com/kangzubin/XMNetworking) -轻巧但功能强大的网络库，具有基于AFNetworking的简化表达语法.
 - [Merhaba](https://github.com/abdullahselek/Merhaba) -Bonjour网络，用于在iOS，macOS和tvOS设备之间发现和连接.
 - [DBNetworkStack](https://github.com/dbsystel/DBNetworkStack) -以资源为导向的网络，类型安全，可扩展，可组合，并且使测试变得更加容易.
 - [EFInternetIndicator](https://github.com/ezefranca/EFInternetIndicator) -使用ReachabilitySwift的快速互联网错误状态指示器.
@@ -1194,7 +1195,7 @@
 - [MHNetwork](https://github.com/emadhegab/MHNetwork) -面向协议的网络层旨在避免avoid肿的单例NetworkManager.
 - [ThunderRequest](https://github.com/3sidedcube/ThunderRequest) -一个简单的URLSession包装器，具有基于通用协议的请求主体方法，并且易于反序列化响应.
 - [ReactiveAPI](https://github.com/sky-uk/ReactiveAPI)  -使用RxSwift的功能，依靠URLSession编写干净，简洁和声明性的网络代码.  受到改造的启发.
-- [Squid](https://github.com/borchero/Squid) - Declarative and reactive networking framework based on Combine and providing means for HTTP requests, transparent pagination, and WebSocket communication.
+- [Squid](https://github.com/borchero/Squid) -基于Combine的声明性和反应性网络框架，并提供HTTP请求，透明分页和WebSocket通信的方式.
 
 ### Email
 
@@ -1213,8 +1214,8 @@
 ### Push Notifications
 
 - [Orbiter](https://github.com/mattt/Orbiter) -为iOS推送通知注册.
-- [PEM](https://github.com/fastlane/fastlane/tree/master/pem) - Automatically generate and renew your push notification profiles.
-- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
+- [PEM](https://github.com/fastlane/fastlane/tree/master/pem) -自动生成和更新您的推送通知配置文件.
+- [Knuff](https://github.com/KnuffApp/Knuff) -Apple推送通知服务（APNS）的调试应用程序.
 - [FBNotifications](https://github.com/facebook/FBNotifications) -Facebook Analytics（分析）应用内通知框架.
 - [NWPusher](https://github.com/noodlewerk/NWPusher) -macOS和iOS应用程序和框架可与Apple Push Notification Service（APN）一起使用.
 - [SimulatorRemoteNotifications](https://github.com/acoomans/SimulatorRemoteNotifications) -将模拟远程通知发送到iOS模拟器的库.
@@ -1276,9 +1277,9 @@
 - [alexander](https://github.com/hodinkee/alexander) -用Swift编写的极其简单的JSON帮助程序.
 - [Freddy](https://github.com/bignerdranch/Freddy) -在Swift中解析JSON的可重用框架.
 - [mapper](https://github.com/lyft/mapper) -用于Swift的JSON反序列化库.
-- [Alembic](https://github.com/ra1028/Alembic) -功能性JSON解析，映射到对象以及序列化为JSON.
+- [Alembic](https://github.com/ra1028/Alembic) - Functional JSON parsing, mapping to objects, and serialize to JSON.
 - [Arrow 🏹](https://github.com/freshOS/Arrow) -在Swift中进行优雅的JSON解析.
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) -JSONExport是适用于macOS的桌面应用程序，可让您使用自己喜欢的语言将JSON对象作为关联的构造函数，实用程序方法，setter和getter导出为模型类.
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport) -JSONExport是适用于macOS的桌面应用程序，可让您使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，setter和getter导出为模型类.
 - [Elevate](https://github.com/Nike-Inc/Elevate) -Elevate是一个JSON解析框架，利用Swift使解析变得简单，可靠和可组合.
 - [MJExtension](https://github.com/CoderMJLee/MJExtension)  -JSON和模型之间的快速，便捷和非侵入式转换.  您的模型类不需要扩展另一个基类.  您无需修改​​任何模型文件.
 - [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) -Alamofire扩展，可使用ObjectMapper将JSON响应数据转换为快速对象.
@@ -1290,7 +1291,7 @@
 - [Serpent](https://github.com/nodes-ios/Serpent) -序列化Swift结构和类以进行编码和解码的协议.
 - [FlatBuffersSwift](https://github.com/mzaks/FlatBuffersSwift) -该项目将FlatBuffers（高效的跨平台序列化库）引入了Swift.
 - [CodableAlamofire](https://github.com/Otbivnoe/CodableAlamofire) -Alamofire的扩展程序，可将JSON数据转换为可分解的对象（Swift 4）.
-- [WAMapping](https://github.com/Wasappli/WAMapping) - A library to turn dictionary into object and vice versa for iOS. Designed for speed!
+- [WAMapping](https://github.com/Wasappli/WAMapping)  -一个库，可将字典转换为对象，反之亦然.  专为速度而设计！
 - [Himotoki](https://github.com/ikesyo/Himotoki) -纯粹用Swift编写的类型安全JSON解码库.
 - [PMHTTP](https://github.com/postmates/PMHTTP) -专注于REST和JSON的Swift / Obj-C HTTP框架.
 - [NativeJSONMapper](https://github.com/DimaMishchenko/NativeJSONMapper) -简单的Swift 4编码和解码.
@@ -1303,7 +1304,7 @@
 - [Ji](https://github.com/honghaoz/Ji) -Swift的XML / HTML解析器.
 - [Ono](https://github.com/mattt/Ono) -处理iOS和macOS的XML和HTML的明智方法.
 - [Fuzi](https://github.com/cezheng/Fuzi) -Swift中具有XPath和CSS支持的快速，轻量级的XML和HTML解析器.
-- [Kanna](https://github.com/tid-kijyun/Kanna)  -Kanna（平面）是用于macOS / iOS的XML / HTML解析器.
+- [Kanna](https://github.com/tid-kijyun/Kanna)  -Kanna是用于macOS / iOS的XML / HTML解析器.
 - [SwiftyXMLParser](https://github.com/yahoojapan/SwiftyXMLParser) -在Swift中实现的简单XML解析器.
 - [HTMLKit](https://github.com/iabudiab/HTMLKit) -满足您日常HTML需求的Objective-C框架.
 - [SWXMLHash](https://github.com/drmohundro/SWXMLHash) -在Swift中进行简单的XML解析.
@@ -1350,16 +1351,16 @@
 - [merchantkit](https://github.com/benjaminmayo/merchantkit) -适用于iOS的现代应用内购买管理框架.
 - [TipJarViewController](https://github.com/lionheart/TipJarViewController) -适用于iOS应用的简单易用的小费罐.
 - [FramesIos](https://github.com/checkout/frames-ios) -Swift中的付款表单用户界面和实用程序.
-- [YRPayment](https://github.com/yassram/YRPayment) -更好的付款用户体验库，带有Swift中的炫酷动画.
+- [YRPayment](https://github.com/yassram/YRPayment) -更好的付款用户体验库，其中包含Swift中的炫酷动画.
 
 ## Permissions
 - [Proposer](https://github.com/nixzhu/Proposer) -简化权限请求（支持相机，照片，麦克风，联系人，位置）.
 - [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) -iOS应用程序请求用户权限的统一方式.
-- [ClusterPrePermissions](https://github.com/rsattar/ClusterPrePermissions) -可重用的预许可实用程序，允许开发人员在发出基于系统的请求之前，要求用户在自己的对话框中进行访问.
+- [ClusterPrePermissions](https://github.com/rsattar/ClusterPrePermissions) -可重用的预许可实用程序，允许开发人员在发出基于系统的请求之前，要求用户在其自己的对话框中进行访问.
 - [Permission](https://github.com/delba/Permission) -要求在iOS上获得许可的统一API.
 - [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) -一个简单而优雅的3D悬停位置请求屏幕，内容为Swift.
 - [PAPermissions](https://github.com/pascalbros/PAPermissions) -要求在iOS上获得许可的统一API.
-- [AREK](https://github.com/ennioma/arek) -AREK是一种清洁且易于使用的包装，可用于任何类型的iOS权限.
+- [AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 - [SPPermissions](https://github.com/ivanvorobei/SPPermissions)  -在Swift上询问权限.  可用列表，对话框和本机界面.  可以检查状态权限.
 
 ## Products
@@ -1422,7 +1423,7 @@
 
 ## Reflection
 - [Reflection](https://github.com/Zewo/Reflection) -反射提供了用于在运行时进行高级反射的API，包括类型的动态构造.
-- [Reflect](https://github.com/CharlinFeng/Reflect) -反射，Dict2Model，Model2Dict，存档.
+- [Reflect](https://github.com/CharlinFeng/Reflect) - Reflection, Dict2Model, Model2Dict, Archive.
 - [EVReflection](https://github.com/evermeer/EVReflection)  -基于反射的JSON编码和解码.  包括对NSDictionary，NSCoding，Printable，Hashable和Equatable的支持.
 - [JSONNeverDie](https://github.com/johnlui/JSONNeverDie) -从JSON到模型的自动反射工具，用户友好的JSON编码器/解码器，旨在永生不死.
 - [SwiftKVC](https://github.com/bradhilton/SwiftKVC) -用于本机Swift类和结构的键值编码（KVC）.
@@ -1504,12 +1505,12 @@
 - [JamfKit](https://github.com/ethenyl/JamfKit) -用Swift编写的JSS通信框架.
 
 ## Security
-- [cocoapods-keys](https://github.com/orta/cocoapods-keys) -键值存储区，用于存储环境和应用程序键.
+- [cocoapods-keys](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
 - [simple-touch](https://github.com/simple-machines/simple-touch) -iOS上用于生物特征认证服务（Touch ID）的非常简单的快速包装器.
 - [SwiftPasscodeLock](https://github.com/yankodimitrov/SwiftPasscodeLock) -使用Swift编写的具有TouchID身份验证的iOS密码锁.
 - [Smile-Lock](https://github.com/recruit-lifestyle/Smile-Lock) -用于制作漂亮的密码锁定视图的库.
 - [zxcvbn-ios](https://github.com/dropbox/zxcvbn-ios) -现实的密码强度估算器.
-- [TPObfuscatedString](https://github.com/Techprimate/TPObfuscatedString) -使用核心Swift进行简单的字符串混淆.
+- [TPObfuscatedString](https://github.com/Techprimate/TPObfuscatedString) - Simple String obfuscation using core Swift.
 - [LTHPasscodeViewController](https://github.com/rolandleth/LTHPasscodeViewController) -iOS密码锁屏副本（来自“设置”），具有TouchID和简单（可变长度）/复杂支持.
 - [iOS-App-Security-Class](https://github.com/karek314/iOS-App-Security-Class) -简单的类，用于检查iOS应用是否已被破解，是否已通过自定义dylib进行调试或丰富，以及检测越狱环境.
 - [BiometricAuth](https://github.com/vasilenkoigor/BiometricAuth) -应用程序中用于生物特征认证（通过TouchID）的简单框架.
@@ -1520,6 +1521,7 @@
 - [Virgil SWIFT PFS SDK](https://github.com/VirgilSecurity/virgil-sdk-pfs-x) -一个SDK，允许开发人员将完善的前向保密（PFS）技术添加到其数字解决方案中，以保护先前拦截的流量，即使主私钥遭到破坏也不会被解密.
 - [Virgil Security Objective-C/Swift SDK](https://github.com/VirgilSecurity/virgil-sdk-x) -一个SDK，允许开发人员将完整的端到端安全性添加到他们现有的数字解决方案中，从而使其符合HIPAA和GDPR要求，并使用Virgil API进行更多的使用.
 - [Vault](https://github.com/passlock/Vault) -存放加密密钥的安全场所.
+- [SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) -帮助您使用Swift属性包装器为属性定义安全存储.
 
 ### Encryption
 - [AESCrypt-ObjC](https://github.com/Gurpartap/AESCrypt-ObjC) -简单有效的AES加密/解密仅适用的Objective-C类.
@@ -1564,7 +1566,7 @@
 - [Swifter](https://github.com/httpswift/swifter) -用Swift编程语言编写的微型http服务器引擎.
 - [CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer) -适用于macOS或iOS应用程序的小型，轻巧，可嵌入的HTTP服务器.
 - [Curassow](https://github.com/kylef-archive/Curassow) -使用前叉工作程序模型的Swift HTTP服务器.
-- [Zewo](https://github.com/Zewo/Zewo) -由协程提供支持的macOS和Linux上的Swift中Web服务器应用程序的轻量级库.
+- [Zewo](https://github.com/Zewo/Zewo) -轻量级的库，用于由协程驱动的macOS和Linux上的Swift中的Web服务器应用程序.
 - [Vapor](https://github.com/vapor/vapor) -适用于iOS，macOS和Ubuntu的Swift优雅的Web框架.
 - [swiftra](https://github.com/takebayashi/swiftra) -类似Sinatra的DSL，用于在Swift中开发Web应用程序.
 - [blackfire](https://github.com/elliottminns/blackfire) -基于Swift编写的基于Node.js和Express的快速HTTP Web服务器.
@@ -1633,7 +1635,7 @@
 - [Emojica](https://github.com/xoudini/emojica) -将字符串中的标准表情符号替换为自定义表情符号集，例如 [Twemoji](https://github.com/twitter/twemoji) 要么 [EmojiOne](https://github.com/joypixels/emojione).
 - [SwiftRichString](https://github.com/malcommac/SwiftRichString) -Swift中的优雅无痛属性字符串管理库.
 - [libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS) -libphonenumber（Google的电话号码处理库）中的iOS端口.
-- [AttributedTextView](https://github.com/evermeer/AttributedTextView) - Easiest way to create an attributed UITextView with support for multiple links (including hashtags and mentions).
+- [AttributedTextView](https://github.com/evermeer/AttributedTextView) -创建支持多个链接（包括标签和提及）的属性UITextView的最简单方法.
 - [StyleDecorator](https://github.com/dimpiax/StyleDecorator) -仅通过将属性链接到所需的零件即可设计字符串.
 - [Mustard](https://github.com/mathewsanders/Mustard) -Mustard是一个Swift库，用于在按空格分割时不切分标记字符串.
 - [Input Mask](https://github.com/RedMadRobot/input-mask-ios) -适用于iOS的基于模式的用户输入格式化程序，解析器和验证器.
@@ -1644,7 +1646,7 @@
 - [Down](https://github.com/iwasrobbed/Down) -基于cmark建立的Swift快速Markdown渲染.
 - [Marky Mark](https://github.com/m2mobi/Marky-Mark) -在Swift中高度可定制的Markdown解析和本机渲染.
 - [MarkdownView](https://github.com/keitaoouchi/MarkdownView) -适用于iOS的Markdown视图.
-- [Highlighter](https://github.com/younatics/Highlighter)  -突出显示您想要的任何内容！  荧光笔会神奇地在UITableViewCell或其他类中找到UI对象，例如UILabel，UITextView，UITexTfield，UIButton.
+- [Highlighter](https://github.com/younatics/Highlighter)  -突出显示您想要的任何内容！  荧光笔会神奇地在UITableViewCell或其他类中找到UILabel，UITextView，UITexTfield，UIButton等UI对象.
 - [Sprinter](https://github.com/nicklockwood/Sprinter) -用于在iOS和macOS上格式化字符串的库.
 - [Highlightr](https://github.com/raspu/Highlightr) -iOS和macOS语法荧光笔，支持176种语言并提供79种样式.
 - [fuse-swift](https://github.com/krisk/fuse-swift) -零依赖的轻量级模糊搜索库.
@@ -1675,7 +1677,7 @@
 ## Testing
 
 ### TDD / BDD
-- [Kiwi](https://github.com/kiwi-bdd/Kiwi) - A behavior-driven development library for iOS development.
+- [Kiwi](https://github.com/kiwi-bdd/Kiwi) -用于iOS开发的行为驱动开发库.
 - [Specta](https://github.com/specta/specta) -用于Objective-C和Cocoa的轻量级TDD / BDD框架.
 - [Quick](https://github.com/Quick/Quick) -Swift和Objective-C的行为驱动开发框架.
 - [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) -Xcode项目的代码覆盖率.
@@ -1716,7 +1718,7 @@
 ### Other Testing
 - [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)  -顽皮字符串的大列表是一个字符串列表，当用作用户输入数据时，很可能引起问题.  这是一个键盘，可帮助您从iOS设备测试应用.
 - [Fakery](https://github.com/vadymmarkov/Fakery) -迅捷的假数据生成器.
-- [DVR](https://github.com/venmo/DVR) - Network testing for Swift.
+- [DVR](https://github.com/venmo/DVR) -Swift的网络测试.
 - [Cuckoo](https://github.com/Brightify/Cuckoo) -第一个无样板的Swift框架.
 - [Vinyl](https://github.com/Velhotes/Vinyl) -在Swift中进行VCR的网络测试.
 - [Mockit](https://github.com/sabirvirtuoso/Mockit) -受著名的Java Mockito启发，为Swift提供了一个简单的模拟框架.
@@ -1771,7 +1773,7 @@
 - [NightNight](https://github.com/Draveness/NightNight) -将夜间模式集成到快速项目的优雅方式.
 - [SwiftTheme](https://github.com/wxxsw/SwiftTheme) -强大的iOS主题/皮肤管理器.
 - [FDStackView](https://github.com/forkingdog/FDStackView) -直接在iOS中使用UIStackView.
-- [RedBeard](https://www.redbeard.io/) -这是一个完整的框架，消除了制作精美，强大的iOS应用程序的痛苦.
+- [RedBeard](https://www.redbeard.io/) - It's a complete framework that takes away much of the pain of getting a beautiful, powerful iOS App crafted.
 - [Material](https://github.com/CosmicMind/Material) -Material是一个动画和图形框架，允许开发人员轻松创建漂亮的应用程序.
 - [DistancePicker](https://github.com/qmathe/DistancePicker) -自定义控件，以平移手势选择距离，以Swift编写.
 - [OAStackView](https://github.com/nsomar/OAStackView)  -OAStackView尝试将stackview移植回iOS 7+.  OAStackView旨在复制UIStackView中的所有功能.
@@ -1795,7 +1797,7 @@
 - [Pageboy](https://github.com/uias/Pageboy) -一个简单的，内容丰富的页面视图控制器.
 - [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) -Swift中适用于iOS的可自定义颜色选择器.
 - [KPActionSheet](https://github.com/khuong291/KPActionSheet) -替代默认操作表，但用法非常简单.
-- [SegmentedProgressBar](https://github.com/D-32/SegmentedProgressBar) - Snapchat / Instagram Stories style animated indicator.
+- [SegmentedProgressBar](https://github.com/D-32/SegmentedProgressBar) -Snapchat / Instagram故事风格的动画指示器.
 - [Magnetic](https://github.com/efremidze/Magnetic) -SpriteKit浮动气泡选取器（受Apple Music启发）.
 - [AmazingBubbles](https://github.com/GlebRadchenko/AmazingBubbles) -使用动态动画的气泡选择器之类的Apple Music.
 - [Haptica](https://github.com/efremidze/Haptica) -简单的触觉反馈生成器.
@@ -1810,7 +1812,7 @@
 - [Pulley](https://github.com/52inc/Pulley) -模仿iOS 10 Maps UI的库.
 - [N8iveKit](https://github.com/n8iveapps/N8iveKit) -一组使iOS开发更加有趣的框架.
 - [Panda](https://github.com/wordlessj/Panda) -以声明方式创建视图层次结构.
-- [NotchKit](https://github.com/HarshilShah/NotchKit) - A simple way to hide the notch on the iPhone X
+- [NotchKit](https://github.com/HarshilShah/NotchKit) -在iPhone X上隐藏缺口的简单方法
 - [Overlay](https://github.com/TintPoint/Overlay)  -叠加层是专为Swift设计的灵活的UI框架.  它允许您编写类似Swift代码的CSS.
 - [SwiftyUI](https://github.com/haoking/SwiftyUI) -高性能和轻量级（每个UI一个类）UIView，UIImage，UIImageView，UIlabel，UIButton，Promise等.
 - [NotchToolkit](https://github.com/AFathi/NotchToolkit) -iOS的框架，允许开发人员以创造性的方式使用iPhone X槽口.
@@ -1918,7 +1920,7 @@
 - [Walker](https://github.com/RamonGilabert/Walker) -适用于您的应用的新动画引擎.
 - [Morgan](https://github.com/RamonGilabert/Morgan) -为您的应用设置了动画.
 - [MagicMove](https://github.com/patrickreynolds/MagicMove) -主题演讲风格的Magic Move过渡动画.
-- [Shimmer](https://github.com/facebook/Shimmer) -一种向iOS应用程序中的任何视图添加简单闪烁效果的简便方法.
+- [Shimmer](https://github.com/facebook/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
 - [SAConfettiView](https://github.com/sudeepag/SAConfettiView)  -五彩纸屑！  谁不喜欢五彩纸屑？
 - [CCMRadarView](https://github.com/cacmartinez/CCMRadarView) -CCMRadarView使用IBDesignable工具制作带有动画的轻松可定制雷达视图.
 - [Pulsator](https://github.com/shu223/Pulsator) -适用于iOS的脉冲动画.
@@ -2052,9 +2054,9 @@
 - [LIHAlert](https://github.com/Lasithih/LIHAlert) -提前为iOS设置动画横幅警报.
 - [BPStatusBarAlert](https://github.com/ppth0608/BPStatusBarAlert) -在状态栏和导航栏（如Facebook）下方显示的简单警报.
 - [CFAlertViewController](https://github.com/Codigami/CFAlertViewController) -一个可帮助您在iPad和iPhone上显示和自定义警报和操作表的库.
-- [NotificationBanner](https://github.com/Daltron/NotificationBanner) -在iOS中的应用程序通知横幅中显示高度可定制的最简单方法.
+- [NotificationBanner](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 - [Alertift](https://github.com/sgr-ksmt/Alertift) -快速，现代的UIAlertController包装器.
-- [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) - Swift AlertController with UIVisualEffectView.
+- [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) -带有UIVisualEffectView的Swift AlertController.
 - [JDropDownAlert](https://github.com/trilliwon/JDropDownAlert) -多方向下拉警报视图.
 - [BulletinBoard](https://github.com/alexaubry/BulletinBoard) -在iOS上生成和显示底卡界面
 - [CFNotify](https://github.com/JT501/CFNotify) -用于创建可拖动视图的可定制框架.
@@ -2128,10 +2130,10 @@
 - [Koyomi](https://github.com/shoheiyokoyama/Koyomi) -Swift中简单的可自定义日历组件
 - [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) -一个更好的iOS UI组件，用于选择日期和时间
 - [RCalendarPicker](https://github.com/roycms/RCalendarPicker) -RCalendarPicker日期选择器控件.
-- [CalendarKit](https://github.com/richardtop/CalendarKit) - Fully customizable calendar day view.
+- [CalendarKit](https://github.com/richardtop/CalendarKit) -完全可自定义的日历日视图.
 - [GDPersianCalendar](https://github.com/saeid/GDCalendar) -可自定义和易于使用的波斯日历组件.
 - [MBCalendarKit](https://github.com/MosheBerman/MBCalendarKit) -适用于iOS的日历框架，考虑到自定义和本地化而构建.
-- [PTEventView](https://github.com/amantaneja/PTEventView) - An Event View based on Apple's Event Detail View within Calender.Supports ARC, Autolayout and editing via StoryBoard.
+- [PTEventView](https://github.com/amantaneja/PTEventView) -基于日历中Apple事件详细信息视图的事件视图.支持通过StoryBoard进行ARC，自动布局和编辑.
 - [KDCalendarView](https://github.com/mmick66/CalendarView)  -使用Swift 4.0编写的iOS日历组件.  它具有垂直和水平布局（以及滚动）以及本机日历事件的显示功能.
 - [CalendarPopUp](https://github.com/orazz/CalendarPopUp) -CalendarPopUp-JTAppleCalendar库.
 - [ios_calendar](https://github.com/maximbilan/Calendar-iOS)   -它具有支持Locale和CalendarIdentifier的轻巧且简单的控件.  有适用于iPhone和iPad的示例，以及使用弹出框的示例.  附波斯语日历
@@ -2148,7 +2150,7 @@
 - [KVCardSelectionVC](https://github.com/kunalverma25/KVCardSelectionVC) -令人赞叹的Dial，就像卡片选择ViewController.
 - [DMSwipeCards](https://github.com/D-32/DMSwipeCards) -类似于卡片堆栈的Tinder，支持延迟加载和泛型
 - [TimelineCards](https://github.com/vladaverin24/TimelineCards) -以卡的形式显示时间轴，单个或捆绑在滚动式Feed中！
-- [Cards](https://github.com/PaoloCuscela/Cards) -很棒的iOS 11 AppStore的名片视图.
+- [Cards](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
 - [MMCardView](https://github.com/MillmanY/MMCardView) -像电子钱包应用程序一样的自定义CollectionView
 - [CardsLayout](https://github.com/filletofish/CardsLayout) -精美的卡片设计自定义收藏视图布局.
 - [CardParts](https://github.com/intuit/CardParts) -基于UIKit的基于卡片的反应式UI框架.
@@ -2161,7 +2163,7 @@
 - [Form](https://github.com/hyperoslo/Form) -在iOS上构建表单的最灵活，最强大的方法
 - [XLForm](https://github.com/xmartlabs/XLForm)  -XLForm是创建动态表格视图表单的最灵活，功能最强大的iOS库.  与Swift和Obj-C完全兼容.
 - [Eureka](https://github.com/xmartlabs/Eureka) -纯Swift中的优雅iOS表单生成器.
-- [YALField](https://github.com/Yalantis/YALField) -带有验证的“自定义字段”组件，用于从界面生成器创建更轻松的类似于表单的UI.
+- [YALField](https://github.com/Yalantis/YALField) -带有验证的“自定义字段”组件，用于从界面生成器创建更简单的表单式UI.
 - [Former](https://github.com/ra1028/Former) -前者是一个完全可自定义的Swift2库，用于轻松创建基于UITableView的表单.
 - [SwiftForms](https://github.com/ortuman/SwiftForms) -用Swift编写的小型轻量级库，可让您轻松创建表单.
 - [Formalist](https://github.com/seedco/Formalist) -iOS的声明式表单构建框架
@@ -2276,9 +2278,10 @@
 - [Parchment](https://github.com/rechsteiner/Parchment)  -具有高度可定制菜单的分页视图控制器.  基于UICollectionView构建，支持自定义布局和无限数据源.
 - [ContextMenu](https://github.com/GitHawkApp/ContextMenu) -受Things 3启发的iOS上下文菜单UI.
 - [Panels](https://github.com/antoniocasero/Panels) -面板是一个框架，可以轻松地向您的应用程序添加滑动面板.
-- [UIMenuScroll](https://github.com/AlekseyPleshkov/UIMenuScroll) -如何在Facebook Messenger上创建水平滑动导航.
+- [UIMenuScroll](https://github.com/AlekseyPleshkov/UIMenuScroll) - Creating the horizontal swiping navigation how on Facebook Messenger.
 - [CircleBar](https://github.com/softhausHQ/CircleBar) -适用于iOS的有趣，易于使用的标签栏导航控制器.
 - [SPLarkController](https://github.com/IvanVorobei/SPLarkController) -带有按钮和开关的设置屏幕.
+- [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) -适用于iOS的简洁优雅的下拉菜单 
 
 ### Navigation Bar
 - [HidingNavigationBar](https://github.com/tristanhimmelman/HidingNavigationBar) -在用户滚动时轻松隐藏和显示视图控制器的导航栏（和标签栏）
@@ -2288,7 +2291,7 @@
 - [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) -一个UINavigationController子类，该子类支持带有隐藏或显示的弹出交互式UINavigationbar.
 - [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) -跟随UIScrollView滚动的可滚动UINavigationBar
 - [NavKit](https://github.com/wilbertliu/NavKit) -在iOS应用上自定义导航栏体验的简单集成方式.
-- [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) - An easy way to change backgroundColor of UINavigationBar when Push & Pop
+- [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) -推送和弹出时更改UINavigationBar的backgroundColor的简单方法
 - [TONavigationBar](https://github.com/TimOliver/TONavigationBar) -一个简单的子类，增加了将导航栏背景设置为“清除”并逐渐将其可视地过渡回的功能，类似于iOS音乐应用程序中的效果.
 
 ### PickerView
@@ -2302,7 +2305,7 @@
 - [Mandoline](https://github.com/blueapron/Mandoline) -iOS选择器视图可满足您的所有“选择”需求
 - [D2PDatePicker](https://github.com/di2pra/D2PDatePicker) -优雅且易于使用的iOS Swift日期选择器
 - [CountryPickerView](https://github.com/kizitonwose/CountryPickerView)-简单，可自定义的视图，可有效收集iOS应用中的国家/地区信息
-- [planet](https://github.com/kwallet/planet) -国家选择器
+- [planet](https://github.com/kwallet/planet) - A country picker
 - [MICountryPicker](https://github.com/mustafaibrahim989/MICountryPicker) -带有搜索选项的Swift Country Picker.
 - [ADDatePicker](https://github.com/abhiperry/ADDatePicker) -完全可自定义的iOS Horizo​​ntal PickerView库，以纯Swift编写.
 - [SKCountryPicker](https://github.com/SURYAKANTSHARMA/CountryPicker) -简单，可自定义的国家/地区选择器，用于选择国家或地区代码.
@@ -2343,7 +2346,7 @@
 - [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) -使用SpriteKit的可拉动刷新视图.
 - [MJRefresh](https://github.com/CoderMJLee/MJRefresh) 一种简单的使用立即刷新的方法.
 - [HTPullToRefresh](https://github.com/hoang-tran/HTPullToRefresh)  -轻松添加垂直和水平拉动以刷新到任何UIScrollView.  也可以一次添加多个“刷新”视图.
-- [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) - iOS Simple Cool PullToRefresh Library. It is written in pure swift.
+- [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift)  -iOS简单酷PullToRefresh库.  它写得很快.
 - [GIFRefreshControl](https://github.com/delannoyk/GIFRefreshControl) -GIFRefreshControl是一种刷新操作，它支持将GIF图像用作轨道动画.
 - [ReplaceAnimation](https://github.com/fruitcoder/ReplaceAnimation) -使用粘性标题流布局在UICollectionView中进行拉动刷新动画，用Swift编写
 - [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) -可以轻松添加到UIScrollView的自定义动画即按式刷新
@@ -2384,7 +2387,7 @@
 - [YUSegment](https://github.com/afishhhhh/YUSegment)  -适用于iOS的可自定义分段控件.  同时支持文本和图像.
 - [MultiSelectSegmentedControl](https://github.com/yonat/MultiSelectSegmentedControl) -将多选添加到标准的“ UISegmentedControl”中.
 - [DynamicMaskSegmentSwitch](https://github.com/KittenYang/DynamicMaskSegmentSwitch) -具有动态文本蒙版效果的分段切换器
-- [PinterestSegment](https://github.com/TBXark/PinterestSegment) -具有遮罩动画的类似Pinterest的细分控件.
+- [PinterestSegment](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation.
 - [Rotary](https://github.com/BowdusBrown/Rotary) -由可选部分组成的可定制旋转轮.
 - [DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch) -Runkeeper设计开关控制（两部分控制）
 
@@ -2406,14 +2409,14 @@
 - [CircularSlider](https://github.com/taglia3/CircularSlider)  -强大的圆形滑块.  它是用Swift编写的，它是100％IBDesignable，所有参数都是IBInspectable.
 - [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) -适用于iOS应用程序的自定义可重复使用的圆形滑块控件.
 - [RangeSeekSlider](https://github.com/WorldDownTown/RangeSeekSlider) -适用于iOS的可自定义范围滑块.
-- [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) -控制中心滑块.
-- [MultiSlider](https://github.com/yonat/MultiSlider) -具有多个拇指和值，可选捕捉间隔，可选值标签的UISlider克隆.
+- [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+- [MultiSlider](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, optional snap intervals, optional value labels.
 - [AGCircularPicker](https://github.com/agilie/AGCircularPicker) -AGCircularPicker是有用的组件，可用于创建旨在管理任何计算出的参数的控制器.
 - [Fluid Slider](https://github.com/Ramotion/fluid-slider) -带有弹出气泡的滑块小部件，显示选定的精确值.
 
 ### Splash View
 - [CBZSplashView](https://github.com/callumboddy/CBZSplashView)  -Twitter风格的启动画面视图.  成长为揭示背后的初步观点.
-- [SKSplashView](https://github.com/sachinkesiraju/SKSplashView) - Create custom animated splash views similar to the ones in the Twitter, Uber and Ping iOS app.
+- [SKSplashView](https://github.com/sachinkesiraju/SKSplashView) -创建类似于Twitter，Uber和Ping iOS应用中的自定义动画启动视图.
 - [RevealingSplashView](https://github.com/PiXeL16/RevealingSplashView) -受Twitter启发的Splash视图可以动画显示其内容
 
 ### Status Bar
@@ -2431,7 +2434,7 @@
 - [AnimatedSwitch](https://github.com/alsedi/AnimatedSwitch) -UISwitch使用Swift中的颜色在父视图上绘制.
 - [ViralSwitch](https://github.com/andreamazz/ViralSwitch) -一个UISwitch，其色调会感染其超级视图.
 - [JTMaterialSwitch](https://github.com/JunichiT/JTMaterialSwitch) -可自定义的开关UI，具有波纹效果和弹跳动画，灵感来自Google的Material Design.
-- [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) -动画开关集合
+- [TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection
 - [SevenSwitch](https://github.com/bvogelzang/SevenSwitch) -取代UISwitch的iOS7样式下降.
 - [PMZSwitch](https://github.com/kovpas/PMZSwitch) -另一个动画切换
 - [Switcher](https://github.com/knn90/Switcher) -迅捷-更改状态时带有动画的自定义UISwitcher
@@ -2444,7 +2447,7 @@
 - [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) -粘性效果标签栏
 - [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) -RAMAnimatedTabBarController是一个Swift模块，用于向选项卡项添加动画.
 - [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) -折叠标签栏和标签栏控制器
-- [GGTabBar](https://github.com/Goles/GGTabBar) -另一个UITabBar和UITabBarController（iOS选项卡栏）替代品，但使用自动布局来排列其视图层次结构.
+- [GGTabBar](https://github.com/Goles/GGTabBar) -另一个UITabBar和UITabBarController（iOS选项卡栏）替代品，但是使用自动布局来排列视图层次.
 - [adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar) -AdaptiveController是一个&#39;Progressive Reduction&#39;Swift模块，用于向本机或自定义iOS UI元素添加自定义状态
 - [Pager](https://github.com/lucoceano/Pager) -使用Pager轻松创建滑动标签
 - [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) -适用于iOS的Android PagerTabStrip.
@@ -2559,7 +2562,7 @@
 #### Header
 
 - [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) -滚动tableView时，UITableView标头视图上的视差滚动效果.
-- [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)  -UICollectionView替换UITableView.  像Parallax Header，Sticky Section Header一样执行更多操作.
+- [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)  -UICollectionView替换UITableView.  像Parallax Header，Sticky Section Header一样做更多的事情.
 - [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView) -可配置但易于使用的UITableView和UICollectionView伸缩标题视图.
 
 #### Placeholder
@@ -2612,10 +2615,10 @@
 - [MBAutoGrowingTextView](https://github.com/MatejBalantic/MBAutoGrowingTextView) -一个自动布局的基础UITextView子类，该子类随用户输入而自动增长，并且可以受最大和最小高度的约束-所有这些都无需一行代码.
 - [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) -受Codrops启发的自定义UITextFields效果，是使用Swift构建的.
 - [Reel Search](https://github.com/Ramotion/reel-search) -RAMReel是一个控制器，允许您从列表中选择选项.
-- [MLPAutoCompleteTextField](https://github.com/EddyBorja/MLPAutoCompleteTextField) -UITextField的子类，其行为类似于典型的UITextField，但有一个明显的例外：它管理一个自动完成建议的下拉表，该表会随着用户类型的更新而更新.
+- [MLPAutoCompleteTextField](https://github.com/EddyBorja/MLPAutoCompleteTextField) -UITextField的子类，其行为与典型的UITextField相似，但有一个明显的例外：它管理一个自动完成建议的下拉表，该表随用户类型而更新.
 - [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)  -“浮动标签模式”的美观灵活的文本字段控制实现.  用Swift编写.
 - [VMaskTextField](https://github.com/viniciusmo/VMaskTextField) -VMaskTextField是一个库，可为iOS创建输入掩码.
-- [TJTextField](https://github.com/tejas-ardeshna/TJTextField) -带下划线和左侧图像的UITextField.
+- [TJTextField](https://github.com/tejas-ardeshna/TJTextField) - UITextField with underline and left image.
 - [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) -针对iOS 7及更高版本进行了优化的下一代“不断增长的文本视图”.
 - [RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders) -具有占位符的UITextField和UITextView子类，当用文本填充字段时，它们会变为浮动标签.
 - [CurrencyTextField](https://github.com/richa008/CurrencyTextField) -UITextField，可自动格式化文本以货币格式显示.
@@ -2674,7 +2677,7 @@
  * [SwiftParsec](https://github.com/davedufresne/SwiftParsec) -用Swift编程语言编写的解析器组合器库.
  * [OrderedSet](https://github.com/Weebly/OrderedSet) -独特的有序对象的Swift集合.
  * [Datez](https://github.com/SwiftKitz/Datez) -用于处理NSDate，NSCalendar和NSDateComponents的Swift库.
- * [BFKit](https://github.com/FabrizioBrancati/BFKit) -有用的类的Objective-C集合，可以更快地开发Apps.
+ * [BFKit](https://github.com/FabrizioBrancati/BFKit) -实用类的Objective-C集合，可以更快地开发Apps.
  * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) -有用的类的Swift集合，可以更快地开发Apps.
  * [Scale](https://github.com/onmyway133/scale) -Swift中的单位转换器（可通过CocoaPods获得）.
  * [Standard Template Protocols](https://github.com/cconeil/Standard-Template-Protocols) -您每天iOS所需的协议.
@@ -2729,9 +2732,11 @@
  * [Once](https://github.com/luoxiu/Once) -极简主义库，用于管理一次性操作.
  * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) -微型实用程序和标准库，基础和UIKit扩展的集合.
  * [DuctTape](https://github.com/marty-suzuki/DuctTape) -基于KeyPath dynamicMemberLookup的语法糖，可快速使用.
+ * [ReviewKit](https://github.com/simonmitchell/ReviewKit) -一个框架，该框架通过记录正面和负面的行为，使用SKStoreReviewController来帮助对使用您的应用有好时光的用户进行审查提示请求.
 
 ## User Consent
 - [SmartlookConsentSDK](https://github.com/smartlook/ios-consent-sdk) -开源SDK，提供了一个可配置的控制面板，用户可以在其中选择其隐私选项并存储该应用的用户首选项.
+- [PrivacyFlash Pro](https://github.com/privacy-tech-lab/privacyflash-pro) -根据其代码为您的iOS应用生成隐私权政策
 
 ## VR
 - [VR Toolkit iOS](https://github.com/Aralekk/VR_Toolkit_iOS) -一个示例项目，提供在iOS上创建交互式VR体验的基础.
@@ -2844,7 +2849,7 @@
 - [infer](https://github.com/facebook/infer) -用于Java，C和Objective-C的静态分析器.
 - [PlayNow](https://github.com/marcboquet/PlayNow) -小型应用程序，可创建空的Swift游乐场文件并使用Xcode打开它们.
 - [Xtrace](https://github.com/johnno1962/Xtrace) -通过类或实例跟踪Objective-C方法调用.
-- [xcenv](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
+- [xcenv](https://github.com/xcenv/xcenv) -修饰您的Xcode环境.
 - [playgroundbook](https://github.com/playgroundbooks/playgroundbook) -Swift Playground图书的工具.
 - [Ecno](https://github.com/xmartlabs/Ecno) -Ecno是一个任务状态管理器，建立在纯Swift 3的UserDefaults之上.
 - [ipanema](https://github.com/toshi0383/ipanema) -ipanema从.ipa文件分析并打印有用的信息.
@@ -2878,9 +2883,10 @@
 - [Zolang](https://github.com/Zolang/Zolang) -一种用于在iOS，Android和工具之间共享逻辑的编程语言.
 - [xavtool](https://github.com/gabrielrobert/xavtool) -命令行实用程序，可自动增加iOS / Android应用程序的版本.
 - [Cutter](https://cutter.albemala.me/) -可以从单个模板开始为所有屏幕尺寸生成iOS启动图像（启动屏幕）的工具.
-- [nef](https://github.com/bow-swift/nef) -用于Xcode Playground的一组命令行工具：可让您对以Xcode Playgrounds形式编写的文档进行编译时验证，生成markdown文件，与Jekyll集成以构建微站点和Carbon来导出代码段.
+- [nef](https://github.com/bow-swift/nef) -一组用于Xcode Playground的命令行工具：可让您对以Xcode Playgrounds形式编写的文档进行编译时验证，生成markdown文件，与Jekyll集成以构建微站点和Carbon来导出代码段.
 - [Pecker](https://github.com/woshiccm/Pecker) -CodePecker是检测未使用代码的工具.
 - [Speculid](https://speculid.com) -从SVG，PNG和JPEG文件生成图像集和应用程序图标
+- [SkrybaMD](https://github.com/robertherdzik/SkrybaMD)  -Markdown文档生成器.  如果您的团队需要简单的方法来维护和创建文档，则此生成器适合您.
 
 ## Rapid Development
 
@@ -2910,7 +2916,7 @@
 - [Guise](https://github.com/prosumma/Guise) -一个优雅，灵活，类型安全的Swift依赖项解析框架.
 - [Weaver](https://github.com/scribd/Weaver) -一个用于Swift的声明性，易于使用和安全的依赖注入框架.
 - [StoryboardBuilder](https://github.com/hiro-nagami/StoryboardBuilder) -简单的依赖注入，用于从情节提要中生成视图.
-- [ViperServices](https://github.com/ladeiko/ViperServices)  -用Swift编写的iOS应用程序的依赖注入容器.  每个服务可以具有启动和关闭代码.
+- [ViperServices](https://github.com/ladeiko/ViperServices) - Dependency injection container for iOS applications written in Swift. Each service can have boot and shutdown code.
 - [DITranquillity](https://github.com/ivlevAstef/DITranquillity) -用干净的Swift编写的iOS应用程序的依赖注入框架.
 - [Needle](https://github.com/uber/needle) —具有实际代码的编译时安全Swift依赖项注入框架.
 - [Locatable](https://github.com/vincent-pradeilles/locatable) -利用Property Wrappers实施服务定位器模式的微型框架.
@@ -2971,7 +2977,7 @@
 ### Themes
 
 - [Dracula Theme](https://draculatheme.com/xcode/) -Xcode的深色主题.
-- [Xcode themes list](https://github.com/hdoria/xcode-themes) -Xcode的颜色主题.
+- [Xcode themes list](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
 - [Solarized-Dark-for-Xcode](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/) -Xcode 5的Solarized Dark Theme.
 - [WWDC2016 Xcode Color Scheme](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) -基于WWDC 2016邀请的Xcode配色方案.
 - [DRL Theme](https://github.com/durul/Xcodetheme) -Xcode的柔和黑暗主题.
@@ -3086,7 +3092,7 @@
 - [iOS Goodies](https://ios-goodies.com) -每周的iOS新闻.
 - [raywenderlich.com Weekly](https://www.raywenderlich.com/newsletter) -每周注册以获取来自raywenderlich.com的最新教程.
 - [iOS Dev Tools Weekly](https://iosdev.tools) -最出色的iOS开发工具，包括网站，桌面和移动应用以及后端服务.
-- [iOS Trivia Weekly](https://wanderbit.us4.list-manage.com/subscribe?u=4e20cd8ea3a0ce09ff4619a52&id=5898a5992b) -每个星期三，有关iOS开发的三个挑战性问题.
+- [iOS Trivia Weekly](https://wanderbit.us4.list-manage.com/subscribe?u=4e20cd8ea3a0ce09ff4619a52&id=5898a5992b) -每个星期三，有关iOS开发的三个具有挑战性的问题.
 - [Indie iOS Focus Weekly](http://indieiosfocus.com/)  -寻找除常见新闻之外的最佳iOS开发链接，教程和技巧？  由Chris Beshore策划.  每周四发布.
 - [iOS Dev Weekly](https://iosdevweekly.com/)  -每周订阅精选的最佳iOS开发链接.  自由.
 - [Swift Weekly Brief](https://swiftweekly.github.io/)  -有关Swift.org的社区驱动的每周新闻.  由Jesse Squires策划，并在每个星期四免费发布.

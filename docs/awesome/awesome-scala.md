@@ -26,6 +26,7 @@ Projects with over 500 stargazers are in bold.
 * [Clickhouse-scala-client](https://github.com/crobox/clickhouse-scala-client) -Clickhouse的反应式客户端
 * [CouchDB-Scala ★ 59 ⧗ 21](https://github.com/beloglazov/couchdb-scala) -用于CouchDB的纯功能Scala客户端
 * [Couchbase](https://github.com/couchbase/couchbase-jvm-clients) -Scala的官方Couchbase客户.
+* [d4s](https://github.com/PlayQ/d4s)  -《 Dynamo DB Database做Scala的方式》.  一个允许以纯功能方式访问DynamoDB的库.
 * **[doobie ★ 812 ⧗ 0](https://github.com/tpolecat/doobie)**-Scala的纯功能JDBC层.
 * **[Elastic4s ★ 1049 ⧗ 0](https://github.com/sksamuel/elastic4s)**-用于Elasticsearch的Scala DSL /反应式客户端
 * [etcd4s](https://github.com/mingchuno/etcd4s) -实现V3 API的Scala etcd客户端
@@ -189,7 +190,7 @@ Projects with over 500 stargazers are in bold.
 * [scala-jsonapi ★ 95 ⧗ 240](https://github.com/scala-jsonapi/scala-jsonapi)  -支持库，用于将JSON API规范与Scala和Spray JSON集成，播放！  JSON或Circe.
 * [scalajack ★ 81 ⧗ 35](https://github.com/gzoller/ScalaJack)  -带有可选MongoDB支持的快速n轻松JSON序列化.  在引擎盖下使用杰克逊.
 * **[spray-json ★ 606 ⧗ 2](https://github.com/spray/spray-json)**-Scala中的轻量级，干净且高效的JSON实现.
-* [sbt-json](https://github.com/battermann/sbt-json) - sbt plugin that generates Scala case classes for easy, statically typed and implicit access of JSON documents
+* [sbt-json](https://github.com/battermann/sbt-json) -生成Scala案例类的sbt插件，可轻松，静态键入和隐式访问JSON文档
 * [uJson](http://www.lihaoyi.com/upickle/#uJson) -用于Scala的快速，灵活和直观的JSON
 
 ## YAML
@@ -279,6 +280,15 @@ Projects with over 500 stargazers are in bold.
 * **[Summingbird ★ 1841 ⧗ 1](https://github.com/twitter/summingbird)**-作为软件抽象的“ lambda体系结构”的实现— Hadoop和Storm的单个API.
 * [Vegas](https://github.com/vegas-viz/Vegas) -Scala + Spark缺少的MatPlotLib
 
+## Command Line Interfaces
+
+*用于创建命令行界面的库*
+
+* [CLIST ★ 97 ⧗ 24](https://github.com/backuity/clist) -命令行界面Scala工具包
+* [decline ★ 361 ⧗ 37](https://github.com/bkirwi/decline) -基于Cats构建的Scala的可组合命令行解析器
+* **[scallop ★ 527 ⧗ 28](https://github.com/scallop/scallop)**-一个简单的Scala CLI解析库
+* **[Scopt ★ 1195 ⧗ 24](https://github.com/scopt/scopt)**-简单的scala命令行选项解析.
+
 ## Image processing and image analysis
 
 * 2D和3D图像处理和图像分析*
@@ -353,11 +363,11 @@ Projects with over 500 stargazers are in bold.
 * [Eff ★ 220 ⧗ 6](https://github.com/atnos-org/eff) -可扩展效果是monad变形器的替代方案，用于以功能方式计算效果.
 * [enableIf.scala ★ 40 ⧗ 25](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
 * [Enumeratum ★ 374 ⧗ 0](https://github.com/lloydmeta/enumeratum)  -用密封的案例对象族替换Scala枚举的宏.  这允许对编译器进行其他检查，例如在match语句中是否缺少大小写.  对Json库和Play框架具有附加支持.
-* [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) -使用具有一流Intellij支持的Scala宏轻松地为Cats和Scalaz创建免费Monad.
+* [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) -使用具有一流Intellij支持的Scala宏轻松创建Cats和Scalaz免费Monad的简便方法.
 * [Freedsl ★ 25 ⧗ 5](https://github.com/ISCPIF/freedsl) -实现可组合副作用的库，在包装类型和自由monad上编织类型类.
 * [Freestyle ★ 430 ⧗ 0](https://github.com/frees-io/freestyle) -以FP为中心的Scala库的内聚和实用框架.
 * [Hamsters ★ 216 ⧗ 0](https://github.com/scala-hamsters/hamsters)  -迷你Scala实用程序库.  与功能编程初学者兼容.  具有验证功能，monad转换器，HLists和Union类型.
-* [idid ★ 4 ⧗ 43](https://github.com/lucastorri/idid) -为不同ID类型定义通用接口的库.
+* [idid ★ 4 ⧗ 43](https://github.com/lucastorri/idid) - A library to define common interfaces for different Id types.
 * [Lamma ★ 70 ⧗ 8](https://github.com/maxcellent/lamma) -用于日期和时间表生成的Scala日期库.
 * [LArray ★ 225 ⧗ 25](https://github.com/xerial/larray) -大型堆外阵列（&gt; 2GB）和mmap文件.
 * [Log4s](http://www.log4s.org/) -快速，易于Scala记录日志绑定 [SLF4J](http://slf4j.org/) .  使用宏来获得最佳性能.
@@ -467,12 +477,9 @@ Projects with over 500 stargazers are in bold.
 *用于创建解析器的Scala库.
 
 * [atto ★ 148 ⧗ 1](https://github.com/tpolecat/atto) -基于Attoparsec的Scala的纯功能增量文本解析库.
-* [CLIST ★ 43 ⧗ 24](https://github.com/backuity/clist) -命令行界面Scala工具包
-* [decline ★ 101](https://github.com/bkirwi/decline) -基于Cats构建的Scala的可组合命令行解析器
 * [Fast Parse ★ 467 ⧗ 1](https://github.com/lihaoyi/fastparse) -快速编写，在Scala中快速运行的解析器
 * **[Parboiled2 ★ 502 ⧗ 7](https://github.com/sirthias/parboiled2)**-适用于Scala 2.10.3+的快速解析器生成器.
 * [Scala Parser Combinators ★ 221 ⧗ 0](https://github.com/scala/scala-parser-combinators) -Scala标准解析器组合器库.
-* **[Scopt ★ 678 ⧗ 0](https://github.com/scopt/scopt)**-简单的scala命令行选项解析.
 
 ## Sbt plugins
 
@@ -504,7 +511,7 @@ Projects with over 500 stargazers are in bold.
 * [sbt-pantarhei ★ 3 ⧗ 0](https://github.com/kolov/sbt-pantarhei) -SBT插件，用于从GitHub中的拉取请求和git commit生成发行说明.
 * [sbt-pgp ★ 101 ⧗ 4](https://github.com/sbt/sbt-pgp) -sbt的PGP插件
 * **[sbt-revolver ★ 519 ⧗ 0](https://github.com/spray/sbt-revolver)**-sbt的分叉和停止过程.
-* **[sbt-release ★ 543 ⧗ 70](https://github.com/sbt/sbt-release)**-sbt的发布插件 
+* **[sbt-release ★ 543 ⧗ 70](https://github.com/sbt/sbt-release)**-sbt的发布插件
 * [sbt-robovm ★ 107 ⧗ 17](https://github.com/roboscala/sbt-robovm) -Scala中用于iOS开发的sbt插件
 * [sbt-scalafmt ★ 37 ⧗ 6](https://github.com/scalameta/sbt-scalafmt) -Scalafmt的sbt插件 [https://scalameta.org/scalafmt/](https://scalameta.org/scalafmt/)
 * [sbt-scala-js-map ★ 12 ⧗ 2](https://github.com/ThoughtWorksInc/sbt-scala-js-map) -一个sbt插件，可为Github上托管的Scala.js项目配置源映射
@@ -652,7 +659,7 @@ Projects with over 500 stargazers are in bold.
 
 * **[Geotrellis ★ 553 ⧗ 0](https://github.com/locationtech/geotrellis)**-用于GIS处理的可扩展栅格工具包
 * [osm4scala ★ 8 ⧗ 40](https://github.com/angelcervera/osm4scala) -OpenStreetMap PBF2文件解析器
-* [rtree2d ★ 27 ⧗ 1](https://github.com/Sizmek/rtree2d) -RTree2D是带有STR（排序-递归-递归）打包的2D不变R树，可在平面和球面上进行超快速最近和相交查询
+* [rtree2d ★ 27 ⧗ 1](https://github.com/Sizmek/rtree2d) -RTree2D是带有STR（排序-递归-递归）打包的2D不变R树，用于在平面和球面上进行超快速的最近和相交查询
 * [sfcurve ★ 20 ⧗ 1](https://github.com/locationtech/sfcurve) -Scala中的空间填充曲线，用于地理空间索引和查询
 
 ## Devops

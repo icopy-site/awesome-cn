@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="EbookFoundation/free-programming-books"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-该页面可通过以下网站轻松阅读 [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
+此页面可作为易于阅读的网站访问： [https://ebookfoundation.github.io/](https://ebookfoundation.github.io/free-programming-books/).
 
 ## List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -11,11 +11,11 @@
 
  该列表已由Victor Felder移至GitHub，以进行协作更新和维护.  它已成长为其中之一 [most popular repositories on Github](https://octoverse.github.com/)，拥有超过100,000个星星，超过4,500个提交，超过950个贡献者和25,000个分支.
 
-现在，回购由 [Free Ebook Foundation](https://ebookfoundation.org)，这是一家致力于促进免费电子书的创建，发行，归档和可持续发展的非营利组织. [Donations](https://ebookfoundation.org/contributions.html) Free Ebook Foundation的免税额在美国可免税.
+现在，回购由 [Free Ebook Foundation](https://ebookfoundation.org)，这是一个致力于促进免费电子书的创建，发行，归档和可持续发展的非营利组织. [Donations](https://ebookfoundation.org/contributions.html) 免费电子书基金会的费用在美国可免税.
 
 ### How To Contribute
 
-请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master//CONTRIBUTING.md) .  如果您是Github的新手， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master//HOWTO.md)!
+请阅读 [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-books/blob/master//CONTRIBUTING.md) .  如果您不熟悉Github， [welcome](https://github.com/EbookFoundation/free-programming-books/blob/master//HOWTO.md)!
 
 ### How to Share
 + [Share on Twitter](http://twitter.com/home?status=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
@@ -36,6 +36,7 @@
 + [Danish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-dk.md)
 + [Dutch](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-nl.md)
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books.md)
++ [Estonian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-et.md)
 + [Finnish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-fi.md)
 + [French](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-fr.md)
 + [German](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-de.md)

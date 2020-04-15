@@ -734,6 +734,7 @@
 - [cashify](https://github.com/xxczaki/cashify) - 货币转换.
 - [genepi](https://github.com/Geode-solutions/genepi) -从C ++代码自动生成本机Node.js插件.
 - [husky](https://github.com/typicode/husky) -创建Git钩子脚本.
+- [patch-package](https://github.com/ds300/patch-package) -修复并保留对npm依赖项的修复.
 
 ## Resources
 

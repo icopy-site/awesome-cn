@@ -30,12 +30,15 @@
 - [actions/example-services](https://github.com/actions/example-services) -使用服务容器的示例工作流程.
 
 ### Official Actions
+
 <!--lint disable no-dead-urls-->
+
 #### Workflow Tool Actions
 
 工作流程的工具动作.
 
 <!--lint ignore awesome-spell-check-->
+
 - [actions/github](https://github.com/actions/github) -将action-toolkit包装到Action中，以实现常见的GitHub自动化.
 - [actions/checkout](https://github.com/actions/checkout) -在工作流程上设置存储库.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) -从您的工作流程中上传工件.
@@ -162,12 +165,14 @@
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) -使用Jinja2模板引擎从模板生成文件.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) -检查之前的步骤是否有代码更改.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) -检测问题中的冒犯性评论并提出请求，并警告发件人.
-- [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) -可互换地转换YAML / JSON / XML文件格式. 
+- [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) -可互换地转换YAML / JSON / XML文件格式.
 - [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) -检测已提交文件中的NSFW内容.
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) -根据更改的路径有条件地执行操作.
 - [Linguist](https://github.com/fabasoad/linguist-action) -检查存储库并在输出中生成有关使用的语言的信息.
 - [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) -使用定义的文本进行Twilio语音通话.
 - [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) -在用于MacOS映像的Xamarin和Mono的预安装版本之间切换.
+- [Memer Action](https://github.com/Bhupesh-V/memer-action) -程序员Memes xD的GitHub操作.
+- [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) -设置特定版本的Cocoapods.
 - [Public IP](https://github.com/haythem/public-ip) -查询GitHub动作执行者的公共IP地址.
 
 #### Environments
@@ -199,7 +204,6 @@
 
 #### Testing
 
-- [Snyk Test Action](https://github.com/snyk/actions)
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
 - [Run codeception tests](https://github.com/joelwmale/codeception-action)
@@ -249,6 +253,7 @@
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) -本身不是动作，而是用于在整个存储库列表中管理动作秘密的工具.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) -动作可跨多个存储库同步机密.
+- [Snyk Test Action](https://github.com/snyk/actions)
 
 #### Code Coverage
 
@@ -358,6 +363,7 @@
 - [Publish a package with 2FA using Slack](https://github.com/erezrokah/2fa-with-slack-action)
 - [Serialize Workflow Runs in Continuous Deployment Pipelines](https://github.com/softprops/turnstyle)
 - [Netlify Deploy GitHub Action for each commit](https://github.com/nwtgck/actions-netlify)
+- [Run Ansible Playbooks](https://github.com/arillso/action.playbook)
 
 #### Docker
 
@@ -367,6 +373,7 @@
 - [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action)
 - [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit)
 - [Publish Docker Images to the Amazon Elastic Container Registry (ECR)](https://github.com/appleboy/docker-ecr-action)
+- [Build And Push Your Docker Images Caching Each Stage To Reduce Build Time](https://github.com/whoan/docker-build-with-cache-action)
 
 #### Kubernetes
 
@@ -383,7 +390,6 @@
 
 - [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) -使用terraform-docs生成terraform模块的文档.
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
-
 
 ### External Services
 

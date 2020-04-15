@@ -39,7 +39,6 @@
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) -在浏览器中运行的分布式社交平台. [Source](https://github.com/fazo96/ipfs-boards)
 - [brig](https://brig.readthedocs.io/en/latest) -使用git之类的接口和FUSE文件系统进行文件同步. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) -一个golang应用程序，用于预置threejs界面并将其所有资产移出IPFS.
-- [Computes](https://computes.io) -Computes.io是由IPFS驱动的分布式超级计算机.
 - [Cyber](https://cyber.page) -在IPFS的帮助下构建的分散Google替代方案. [Source](https://github.com/cybercongress)
 - [dapple](https://github.com/nexusdev/dapple) -Dapple是Solidity开发人员的多功能工具，旨在管理互连的智能合约系统日益增长的复杂性.
 - [Diffuse](https://diffuse.sh) -从IPFS节点或您使用的任何其他云/分布式存储服务播放音乐.
@@ -55,9 +54,9 @@
 - [gogo.tattoo](http://gogo.tattoo)  -Gogo纹身项目使用IPFS，DLT和其他现代技术，为纹身艺术家和佩戴者提供了其作品集的坚不可摧的终生记录.  gogo.tattoo应用程序已经具有直接将作品共享到IPFS的功能.
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) -大猩猩是笔记本风格的Clojure的丰富REPL.
 - [Hardbin](https://github.com/jes/hardbin) -Hardbin是一种加密的pastebin，其解密密钥在URL片段中传递
-- [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) -具有多种功能的booru风格的媒体标记应用程序，最近添加了对ipfs的基本支持.
+- [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) -具有许多功能的booru风格的媒体标记应用程序，最近添加了基本的ipfs支持.
 - [InfiniteBooru](https://infinitebooru.com) -具有IPFS支持的所有媒体的booru风格的媒体标记应用程序和内容聚合器.
-- [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具可提供对以太坊和IPFS的安全，可靠和可扩展的访问，以帮助简化分散式应用程序的构建.
+- [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具可提供对以太坊和IPFS的安全，可靠和可扩展的访问，以帮助简化分布式应用程序的构建.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) -使用IPFS进行Web存档（WARC）索引和重放.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) -建立在IPFS之上的Wiki
 - [IPFessay](https://gitlab.com/stavros/IPFessay) -在IPFS上发布无法审查的论文的简单方法.
@@ -96,7 +95,7 @@
 - [qri](https://qri.io) -数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) -金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) -一个推特机器人，使用IPFS群集将推文添加，固定或取消固定到公共IPFS网络. [Source](https://github.com/simpleaswater/twitter-pinbot)
-- [SimpleID](https://simpleid.xyz/) -用于将以太坊身份验证和内容固定到您的应用程序的开发人员工具. [Source](https://github.com/simplesecure/)
+- [SimpleID](https://simpleid.xyz/) - Developer tools for adding Ethereum authentication and content pinning to your app. [Source](https://github.com/simplesecure/)
 - [TallyLab](https://tallylab.com/) -本地优先，端到端的加密数据日记应用程序，用于捕获，分析和共享有关任何事物的数据.
 - [Temporal](https://github.com/RTradeLtd/Temporal) -Temporal是易于使用的API和平台，可用于将IPFS和其他分布式/分散式存储技术集成到企业应用程序中
 - [Textile Photos](https://www.textile.photos) -纺织品照片是用于照片的安全的移动数字钱包. [Source](https://github.com/textileio/textile-mobile)
@@ -210,7 +209,7 @@
 
 ## Videos
 
-- [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) - This talk breaks down how to build a dynamic app on top of IPFS with CRDTs, pub/sub, and slick UIs. It also delves into new models for distributed computation, and the ethical importance of distributing the web.
+- [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w)  -本演讲将探讨如何使用CRDT，发布/订阅和漂亮的UI在IPFS之上构建动态应用.  它还研究了用于分布式计算的新模型，以及分布网络的伦理重要性.
 - [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) 
 - [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) -让我们看一下IPFS的工作方式，如何解决诸如审查制度之类的问题，以及它是否真的可以在多个星球上运作！
 - [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) -演讲包括对IPFS项目的广泛了解，以及有关通过开源协议R＆D演进网络堆栈的讨论.

@@ -74,13 +74,13 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 ## Community
 
  -我们有一个聊天室！  这应该是您与其他OSSU学生交谈的第一站.  您为什么现在不自我介绍？ [Join the chat in Gitter](https://gitter.im/open-source-society/computer-science) [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
--您也可以通过 [GitHub issues](https://github.com/ossu/computer-science/issues) .  如果课程有问题，或者需要对课程进行更改，那么这里就是开始对话的地方.  阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
-- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) 轮廓！
+- You can also interact through [GitHub issues](https://github.com/ossu/computer-science/issues) .  如果课程有问题，或者需要对课程进行更改，那么这里就是开始对话的地方.  阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
+-将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 轮廓！
  -注意：在搜索OSSU时，可能会找到一个未维护且已弃用的Firebase应用程序.  您可以放心地忽略它.  阅读更多 [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
 ## Curriculum
 
-**课程版本**：`8.0.0`（请参见 [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
+**Curriculum version**: `8.0.0` (see [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
 
 
 ---
@@ -395,7 +395,7 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得专业化课程，但并非所有人都允许这样做.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
@@ -416,7 +416,7 @@ OSS University是**以项目为中心的**.
 
 阅读完所有核心CS和与您相关的高级CS的各个部分后，您应该考虑一个可以使用所学知识解决的问题.
 真实的项目工作不仅在履历表上看起来很棒，而且该项目还将“验证”并“巩固”您的知识.
-You can create something entirely new, or you can find an existing project that needs help via websites like
+您可以创建全新的内容，也可以通过以下网站找到需要帮助的现有项目
 [CodeTriage](https://www.codetriage.com/)
 or
 [First Timers Only](http://www.firsttimersonly.com/).
@@ -502,7 +502,7 @@ or
 
 ## Team
 
-* **[Eric Douglas](https://github.com/ericdouglas)**：OSSU的创始人和所有课程的共同维护者
+* **[Eric Douglas](https://github.com/ericdouglas)**：OSSU的创始人
 * **[hanjiexi](https://github.com/hanjiexi)**：首席技术维护人员
 * **[waciumawanjohi](https://github.com/waciumawanjohi)**：首席学术维护者
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**

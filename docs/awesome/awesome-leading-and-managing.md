@@ -14,6 +14,7 @@
 - [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
 - [Conflict Prevention and Conflict Resolution](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
+- [The CTO Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/The-CTO-role.md)
 - [Culture](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Culture.md)
 - [Decision-Making](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Decision-Making.md)
 - [Delegation](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Delegation.md)
@@ -25,10 +26,10 @@
 - [Influencing Others](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Influencing-Others.md)
 - [Leader List](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leader-List.md)
 - [Leadership Forums](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Forums.md)
-- [Leadership Media](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Media.md)
 - [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
 - [Leading Leaders](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leading-Leaders.md)
 - [Managing Remotely](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Managing-Remotely.md)
+- [Media: Blogs, Newsletters, Podcasts](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Media-Blogs-Newsletters-Podcasts.md)
 - [Meetings](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Meetings.md)
 - [Motivation and “Retention”](https://github.com/LappleApple/awesome-leading-and-managing/blob/master//Motivation-Retention.md)
 - [Onboarding](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Onboarding.md)
@@ -39,6 +40,7 @@
 - [Productivity and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
 - [Tools to Define Your Leadership Style](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
+- [The VP Engineering Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/VP-Engineering-Role.md)
 
  *“如果我看得更远，那就是站在巨人的肩膀上.”  —艾萨克·牛顿爵士 <br>
  *“如果我还没有看到，那是因为巨人站在我的肩膀上.”  -很多人，包括Leigh Caplan <br>

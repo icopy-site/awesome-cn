@@ -18,7 +18,7 @@
 
  此列表的创建者和维护者不会接受任何付款方式来接受任何贡献者所做的更改.  该页面绝不是官方的Docker产品.  它是项目链接的列表，由志愿者维护.  欢迎大家贡献力量.  此仓库的目的是索引开源项目，而不是为了牟利而做广告.
 
-所有链接均通过以下方式进行监控和测试 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 由制成 [@dkhamsing](https://github.com/dkhamsing)
+所有链接均通过家庭烘焙进行监控和测试 [Node.js script](https://github.com/veggiemonk/awesome-docker/blob/master/pull_request.js)
 
 
 <!-- TOC -->
@@ -98,8 +98,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [box](https://github.com/box-builder/box) -使用mruby DSL构建Dockerfile映像，包括展平和层操作
 - [Capitan](https://github.com/byrnedo/capitan) -可组合的docker编排，并添加了脚本支持 [@byrnedo](https://github.com/byrnedo).
 - [compose_plantuml](https://github.com/funkwerk/compose_plantuml) ：skull：-通过docker-compose文件生成Plantuml图 [@funkwerk](https://github.com/funkwerk)
-- [Composerize](https://github.com/magicmark/composerize) - Convert docker run commands into docker-compose files
-- [crowdr](https://github.com/polonskiy/crowdr) -通过以下工具管理多个Docker容器的工具（“ docker-compose”替代方案） [@polonskiy](https://github.com/polonskiy/)
+- [Composerize](https://github.com/magicmark/composerize) -将docker run命令转换为docker-compose文件
+- [crowdr](https://github.com/polonskiy/crowdr) - Tool for managing multiple Docker containers (`docker-compose` alternative) by [@polonskiy](https://github.com/polonskiy/)
 - [docker-compose-graphviz](https://github.com/abesto/docker-compose-graphviz) ：skull：-通过将docker-compose.yml文件转换为Graphviz .dot文件 [@abesto](https://github.com/abesto)
 - [docker-config-update](https://github.com/sudo-bmitch/docker-config-update) -实用程序，用于更新docker配置和密钥以通过以下方式在撰写文件中进行部署 [@sudo-bmitch](https://github.com/sudo-bmitch)
 - [draw-compose](https://github.com/Alexis-benoist/draw-compose) ：skull：-用于绘制docker模式的实用程序 [@Alexis-benoist](https://github.com/Alexis-benoist)
@@ -152,7 +152,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)  -使用cAdvisor，Prometheus，Grafana进行监视，Elasticsearch，Kibana和Logstash进行日志记录以及使用elastalert和Alertmanager进行警报，开箱即用地进行Docker主机和容器监视，日志记录和警报.  设置5分钟.  内置的[自动Nginx反向代理（jwilder）] [nginxproxy]用于生产的安全模式.
 - [SwarmAlert](https://github.com/gpulido/SwarmAlert) -监视Docker Swarm并在发现没有运行正常服务任务的容器时发送Pushover警报.
 - [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)  -Zabbix模块，提供发现运行中的容器，CPU /内存/ blk IO /网络容器指标的信息.  还支持系统化Docker和LXC执行驱动程序.  它是一个动态链接的共享对象库，因此其性能比任何脚本解决方案都要好（〜10倍）.
-- [Zabbix Docker](https://github.com/gomex/docker-zabbix) -使用zabbix LLD功能自动监视容器.
+- [Zabbix Docker](https://github.com/gomex/docker-zabbix) - Monitor containers automatically using zabbix LLD feature.
 
 ### Networking
 
@@ -230,7 +230,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [notary](https://github.com/theupdateframework/notary)  -用于运行可信集合并与之交互的服务器和客户端.  通过 [@TUF](https://github.com/theupdateframework)
 - [oscap-docker](https://github.com/OpenSCAP/openscap)  -OpenSCAP提供了oscap-docker工具，该工具用于扫描Docker容器和图像.  通过 [OpenSCAP](https://github.com/OpenSCAP)
 - [Phonito Security](https://phonito.io/?b=b) ：heavy_dollar_sign：-一个Docker漏洞扫描器，具有持续的Kubernetes监视和管道集成.
-- [Sysdig Falco](https://github.com/falcosecurity/falco)  -Sysdig Falco是一个开源容器安全监视器.  它可以监视应用程序，容器，主机和网络活动，并在发生未经授权的活动时发出警报.
+- [Sysdig Falco](https://github.com/falcosecurity/falco) - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
 - [Sysdig Secure](https://sysdig.com/products/kubernetes-security/runtime-security/) ：heavy_dollar_sign：-Sysdig Secure通过行为监视和防御解决运行时安全问题，并基于开源Sysdig提供深度的取证，以进行事件响应.
 - [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) ：heavy_dollar_sign：-趋势科技趋势科技服务器深度安全防护系统可为容器工作负载和主机提供运行时保护，以及对图像进行预运行时扫描，以识别漏洞，恶意软件和诸如硬编码机密之类的内容.
 - [Twistlock](https://www.twistlock.com/) ：heavy_dollar_sign：-Twistlock Security Suite在应用程序的整个生命周期中检测漏洞，强化容器映像并实施安全策略.
@@ -264,7 +264,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Captain](https://getcaptain.co/) -通过MacOSX菜单栏管理容器 [@RickWong](https://github.com/rickwong)
 - [Dockeron](https://github.com/dockeron/dockeron) -一个在Electron + Vue.js上为桌面Docker构建的项目. [@fluency03](https://github.com/fluency03)
-- [DockStation](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock_station](https://twitter.com/dock_station)
+- [DockStation](https://github.com/DockStation/dockstation) -以开发人员为中心的UI，用于配置，监视和管理服务和容器 [@dock_station](https://twitter.com/dock_station)
 - [Lifeboat](https://github.com/jplhomer/lifeboat) -在Mac上使用图形界面启动Docker项目的简便方法. [@jplhomer](https://github.com/jplhomer)
 
 #### Terminal
@@ -386,7 +386,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockmoor](https://github.com/MeneDev/dockmoor)  ：construction：-管理Docker映像参考，并帮助使用Docker创建可复制的构建.  通过 [@MeneDev](https://github.com/MeneDev)
 - [Vektorcloud](https://github.com/vektorcloud) -最小的基于阿尔卑斯的Docker映像的集合
 
-Examples by:
+范例：
 
 - [@arun-gupta](https://github.com/arun-gupta/docker-images)
 - [@awesome-startup](https://github.com/awesome-startup/docker-compose)
@@ -430,7 +430,7 @@ Examples by:
 - [GitLab Container Registry](https://docs.gitlab.com/ce/user/project/container_registry.html) -致力于在GitLab CI中使用图像的存储库
 - [Harbor](https://github.com/goharbor/harbor)  一个开放源代码可信云本机注册表项目，用于存储，签名和扫描内容.  支持复制，用户管理，访问控制和活动审核.  通过 [CNCF](https://github.com/veggiemonk/awesome-docker/blob/master/Sandbox) 以前 [VMWare](https://github.com/vmware)
 - [JFrog Artifactory :heavy_dollar_sign:](https://jfrog.com/artifactory/) -Artifact Repository Manager，也可以用作私有Docker Registry
-- [Kraken](https://github.com/uber/kraken) - Uber's Highly scalable P2P docker registry, capable of distributing TBs of data in seconds.
+- [Kraken](https://github.com/uber/kraken) -Uber的高度可扩展的P2P docker注册表，能够在几秒钟内分发TB的数据.
 - [Private Docker Registry :heavy_dollar_sign:](https://private-docker-registry.com) -专用的Conainer Registry Service，具有无限的私有存储库，用户，团队，名称空间以及企业级身份验证LDAP / AD / OAuth / SAML.
 - [Quay.io :heavy_dollar_sign:](https://quay.io/) （CoreOS的一部分）-私有Docker存储库的安全托管
 - [Rescoyl](https://github.com/noteed/rescoyl) -私有Docker注册表（免费和开源） [@noteed](https://github.com/noteed)
@@ -444,7 +444,7 @@ Examples by:
 - [ahab](https://github.com/instacart/ahab) -通过Python使用Docker事件处理 [@instacart](https://github.com/instacart)
 - [clj-docker-client](https://github.com/lispyclouds/clj-docker-client)  ：construction：-Docker远程API的惯用Clojure客户端.  通过 [@lispyclouds](https://github.com/lispyclouds)
 - [Docker Client for JVM](https://github.com/gesellix/docker-client) -用于JVM的Docker远程api客户端库，由[@gesellix] [gesellix]用Groovy编写
-- [Docker Client TypeScript](https://gitlab.com/masaeedu/docker-client)  -用于JavaScript的Docker API客户端，可从moby存储库的Swagger API定义自动生成.  通过 [@masaeedu](https://github.com/masaeedu)
+- [Docker Client TypeScript](https://gitlab.com/masaeedu/docker-client) - Docker API client for JavaScript, automatically generated from Swagger API definition from moby repository. By [@masaeedu](https://github.com/masaeedu)
 - [docker-client](https://github.com/spotify/docker-client)  ：skull：-Docker远程API的Java客户端.  由[@spotify] [spotify]
 - [docker-it-scala](https://github.com/whisklabs/docker-it-scala) -与Scala结合使用的Docker集成测试套件 [@whisklabs](https://github.com/whisklabs)
 - [docker-java-api](https://github.com/amihaiemil/docker-java-api)  -用于Docker API的轻量级，真正面向对象的Java客户端.  通过 [@amihaiemil](https://github.com/amihaiemil)
@@ -472,7 +472,7 @@ Examples by:
 - [Drone](https://github.com/drone/drone) -基于Docker构建并使用YAML文件配置的持续集成服务器.
 - [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) -GitLab集成了CI，可以使用GitLab运行程序来测试，构建和部署您的代码.
 - [GOCD-Docker](https://github.com/gocd/gocd-docker) ：skull：-在Docker容器中转到服务器和代理进行配置.
-- [Microservices Continuous Deployment](https://github.com/francescou/docker-continuous-deployment) -持续部署微服务应用程序.
+- [Microservices Continuous Deployment](https://github.com/francescou/docker-continuous-deployment) - Continuous deployment of a microservices application.
 - [mu](https://github.com/stelligent/mu) -通过AWS CodePipeline，CodeBuild和ECS配置容器应用程序的CI / CD的工具 [@Stelligent](https://github.com/stelligent)
 - [Ouroboros](https://github.com/pyouroboros/ouroboros) -通过通知自动更新正在运行的Docker容器
 - [Popper](https://github.com/systemslab/popper) -Github操作工作流（HCL语法）执行引擎.
@@ -493,7 +493,7 @@ Examples by:
 - [Dinghy](https://github.com/codekitchen/dinghy) -使用带有Virtualbox，vmware，xhyve或parallels的Docker Machine在Mac OS X上使用Docker的另一种方法
 - [DIP](https://github.com/bibendi/dip)  -CLI实用程序，用于直接配置和与docker-compose配置的应用程序进行交互.  通过 [@bibendi](https://github.com/bibendi)
 - [DLite](https://github.com/nlf/dlite)  ：skull：-在OSX上使用Docker的最简单方法，不需要VM.  通过 [@nlf](https://github.com/nlf)
-- [dobi](https://github.com/dnephin/dobi)  -用于Docker应用程序的构建自动化工具.  通过 [@dnephin](https://github.com/dnephin)
+- [dobi](https://github.com/dnephin/dobi) - A build automation tool for Docker applications. By [@dnephin](https://github.com/dnephin)
 - [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)  -生成管理是与pip一起安装的python应用程序.  通过配置单个yaml文件来描述如何构建，测试，运行或发布容器化解决方案，该应用程序使基于Docker的构建系统管理变得容易.
 - [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)  -一组bash命令，用于简化典型的docker dev-ops.  在代码存储库中创建典型的帮助程序脚本（例如“ build.sh”和“ deploy.sh”）的替代方法.  通过 [@NandoQuintana](https://github.com/nandoquintana).
 - [Docker osx dev](https://github.com/brikis98/docker-osx-dev) ：skull：-在OS X上使用Docker的高效开发环境，作者： [@brikis98](https://github.com/brikis98)
@@ -536,7 +536,7 @@ Examples by:
 - [DockerSpec](https://github.com/zuazo/dockerspec)  -一个小的Ruby Gem，可以轻松地对Dockerfile或Docker映像运行RSpec和Serverspec，Infrataster和Capybara测试.  通过 [@zuazo](https://github.com/zuazo)
 - [Dockunit](https://github.com/dockunit/platform)  ：skull：-基于Docker的集成测试.  一个简单的基于Node的实用程序，用于运行基于Docker的单元测试.  通过 [@dockunit](https://github.com/dockunit)
  -[InSpec] [inspec]-InSpec是用于基础结构的开放源代码测试框架，具有人类和机器可读的语言，用于指定合规性，安全性和策略要求.  通过 [@chef](https://github.com/chef)
-- [Pumba](https://github.com/alexei-led/pumba) - Chaos testing tool for Docker. Can be deployed on kubernetes and CoreOS cluster. By [@alexei-led](https://github.com/alexei-led)
+- [Pumba](https://github.com/alexei-led/pumba)  -Docker的混沌测试工具.  可以部署在kubernetes和CoreOS集群上.  通过 [@alexei-led](https://github.com/alexei-led)
 
 ### Wrappers
 
@@ -552,7 +552,7 @@ Examples by:
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  -Ansible和Terraform的强大功能+ Docker Swarm的简单性=基础架构是Code和DevOps的最佳实践.  通过 [@Thomvaill](https://github.com/Thomvaill)
 - [Turbo](https://github.com/ramitsurana/turbo)  -适用于Docker的简单而强大的实用程序.  由[@ramitsurana] [ramitsurana]
 - [udocker](https://github.com/indigo-dc/udocker) -一种在批处理或交互式系统中执行简单docker容器而无需root特权的工具 [@inidigo-dc](https://github.com/indigo-dc)
-- [Vagrant - Docker provider](https://www.vagrantup.com/docs/docker/basics.html) -好的起点是 [vagrant-docker-example](https://github.com/bubenkoff/vagrant-docker-example) 通过 [@bubenkoff](https://github.com/bubenkoff)
+- [Vagrant - Docker provider](https://www.vagrantup.com/docs/docker/basics.html) - Good starting point is [vagrant-docker-example](https://github.com/bubenkoff/vagrant-docker-example) 通过 [@bubenkoff](https://github.com/bubenkoff)
 
 ## Services based on Docker (:heavy_dollar_sign:)
 
@@ -660,7 +660,7 @@ Examples by:
 - [Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic](https://www.youtube.com/watch?v=GpHMTR7P2Ms) （3:11:06）由[@jpetazzo] [jpetazzo]
 - [Docker and SELinux by Daniel Walsh from Red Hat](https://www.youtube.com/watch?v=zWGFqMuEHdw) (40:23)
 - [Docker for Developers](https://www.youtube.com/watch?v=FdkNAjjO5yQ) （54:26）由[@jpetazzo] [jpetazzo] &lt;==良好的介绍，内容，演示
-- [Docker in Production](https://www.youtube.com/watch?v=Glk5d5WP6MI) by [@jpetazzo][jpetazzo] (36:05)
+- [Docker in Production](https://www.youtube.com/watch?v=Glk5d5WP6MI) 来自[@jpetazzo] [jpetazzo]（36:05）
 - [Docker: How to Use Your Own Private Registry](https://www.youtube.com/watch?v=CAewZCBT4PI) (15:01)
 - [Extending Docker with Plugins](https://vimeo.com/110835013) (15:21)
 - [From Local Docker Development to Production Deployments](https://www.youtube.com/watch?v=7CZFpHUPqXw) 由[@jpetazzo] [jpetazzo] @ AWS re：Invent 2015
@@ -681,7 +681,7 @@ Examples by:
 
 ## Chinese
 
-- [DockerOne](http://dockone.io/) Docker社区（中文） [@LiYingJie](http://dockone.io/people/%E6%9D%8E%E9%A2%96%E6%9D%B0)
+- [DockerOne](http://dockone.io/) Docker Community (in Chinese) by [@LiYingJie](http://dockone.io/people/%E6%9D%8E%E9%A2%96%E6%9D%B0)
 
 ## English
 
@@ -715,12 +715,12 @@ Examples by:
 [genuinetools]：https://github.com/genuinetools
 [gliderlabs]：https://github.com/gliderlabs
 [google]：https：//github.com/google
-[googlecontainertools]: https://github.com/GoogleContainerTools
+[googlecontainertools]：https://github.com/GoogleContainerTools
 [检查]：https://github.com/inspec/inspec
 [jessfraz]：https://github.com/jessfraz
 [jpetazzo]：https://github.com/jpetazzo
 [jwilder]：https://github.com/jwilder
-[kubernetes]: https://kubernetes.io
+[kubernetes]：https：//kubernetes.io
 [nvidia]：https：//github.com/nvidia
 [nginxproxy]：https://github.com/nginx-proxy/nginx-proxy
 [openshift]：https：//www.okd.io

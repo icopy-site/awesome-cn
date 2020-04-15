@@ -28,6 +28,12 @@
 - [Supermind](https://github.com/supermind/eslint-config-supermind) -Supermind风格的共享配置.
 - [XO](https://github.com/sindresorhus/eslint-config-xo) -可共享的配置 [XO](https://github.com/sindresorhus/xo).
 
+## Globals
+
+- [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) -在全局变量上期望有“ window”限定符，否则可能会混淆为局部变量.
+- [ES and browser globals](https://github.com/sindresorhus/globals) （最初来自ESLint）
+- [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
+
 ## Parsers
 
 - [Babel](https://github.com/babel/babel-eslint) -使用Babel的解析器来整理所有Babel功能.
@@ -85,7 +91,7 @@
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) -检测错误和可疑模式的规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) -ESLint的SQL插入规则.
 - [TypeLint](https://github.com/yarax/typelint) -根据现有模式（Swagger，Redux）引入类型，并减少对对象属性的访问，以防止出现“未定义”错误.
-- [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
+- [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) -各种很棒的ESLint规则.
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) -有关ESLint指令注释的最佳做法（`/ * eslint-disable * /`等）.
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) -用于整理ESLint插件的ESLint插件.
 
@@ -100,7 +106,7 @@
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) -要求使用`new`抛出错误.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -ESLint的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -是2019年，您仍然使用循环吗？
-- [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询的语法内容.
+- [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
 -表现
