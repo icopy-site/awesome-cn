@@ -52,7 +52,7 @@
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole)  -BlackHole是现代的macOS虚拟音频驱动程序，允许应用程序以零附加延迟将音频传递到其他应用程序.  ！[c_icon] 
 - [CAM](https://github.com/hanayik/CAM) -使用ffmpeg录制macOS摄像机！[javascript_icon] 
 - [Clementine](https://github.com/clementine-player/Clementine)  -Clementine是Windows，Linux和macOS的现代音乐播放器和图书馆组织者.  ！[cpp_icon] 
-- [Cog](https://bitbucket.org/losnoco/cog/src)  -Cog是macOS的开源音频播放器.  基本布局是一个单窗格播放列表界面，带有两个可伸缩抽屉，一个用于浏览用户的音乐文件夹，另一个用于查看音频文件属性，例如比特率.  ！[objective_c_icon] 
+- [Cog](https://bitbucket.org/losnoco/cog/src)  -Cog是macOS的开源音频播放器.  基本布局是具有两个可伸缩抽屉的单窗格播放列表界面，一个用于导航用户的音乐文件夹，另一个用于查看音频文件属性（例如比特率）.  ！[objective_c_icon] 
 - [LocalRadio](https://github.com/dsward2/LocalRadio)  -LocalRadio是用于在Mac和移动设备上收听“软件定义的广播”的软件.  ！[objective_c_icon] 
 - [Lyricism](https://github.com/lyc2345/Lyricism)  -macOS应用程序，向您显示歌词，当前iTunes或Spotify正在播放什么.  ！[objective_c_icon]！[swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX)  -iTunes，Spotify和Vox的歌词.  ！[swift_icon] 
@@ -190,7 +190,7 @@
 - [FilterShop](https://github.com/KrisYu/FilterShop)  -macOS应用程序，用于浏览CoreImage滤镜.  ！[swift_icon] 
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)  -macOS应用程序以生成应用程序图标.  ！[javascript_icon] 
 - [Iconizer](https://github.com/raphaelhanneken/iconizer)  -动态创建Xcode图像目录（xcassets）.  ！[swift_icon] 
-- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成各种状态下的现有应用程序大小一致的图标，摇动（晃动）等.[objective_c_icon] 
+- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成各种状态下的现有应用程序的大小一致的图标，摇动（摇动）等. 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)  -过期的Swift注入重写.  ！[objective_c_icon]！[swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)  -直观的应用程序，可在屏幕上显示透明图像.  ！[swift_icon] 
@@ -254,6 +254,7 @@
 - [PiPTool](https://github.com/bfmatei/PiPTool)  -在macOS中将画中画功能添加到YouTube，Netflix，Plex和其他视频广播服务.  ！[javascript_icon] 
 - [PiPifier](https://github.com/arnoappenzeller/PiPifier)  -PiPifier是本机macOS 10.12 Safari扩展，可让您在画中画模式下使用每个HTML5视频.  ！[swift_icon] 
 - [Sessions](https://github.com/AlexPerathoner/Sessions) -Safari扩展程序可以保存您的工作会话！[swift_icon] 
+- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) -Ultra TabSaver是Safari的开源标签管理器！[swift_icon] 
 - [nef](https://github.com/bow-swift/nef-plugin)  -通过此Xcode扩展名，您可以选择代码并将其导出到代码段.  在Mac AppStore上可用.  ！[swift_icon] 
 
 ### Finder
@@ -292,7 +293,7 @@
 - [LiveCode](https://github.com/livecode/livecode)  -跨平台开发IDE.  ！[c_icon] 
 - [Oni](https://github.com/onivim/oni)  -Oni是模态编辑代码编辑器的现代版，专注于开发人员的工作效率.  ！[javascript_icon]！[type_script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode)  -由Microsoft开发的代码编辑器.  ！[type_script_icon] 
-- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)  -ZeroBrane Studio是一个轻量级的跨平台Lua IDE，具有代码完成，语法突出显示，远程调试器，代码分析器，实时编码以及对各种Lua引擎的调试支持.  ！[lua_icon] 
+- [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)  -ZeroBrane Studio是一种轻量级的跨平台Lua IDE，具有代码完成，语法突出显示，远程调试器，代码分析器，实时编码以及对各种Lua引擎的调试支持.  ！[lua_icon] 
 
 ### Images
 - [APNGb](https://github.com/shgodoroja/APNGb)  -组装和拆卸动画png文件的macOS应用.  ！[swift_icon] 
@@ -377,7 +378,7 @@
 - [FromScratch](https://github.com/Kilian/fromscratch) - Little app that you can use as a quick note taking or todo app. ![javascript_icon] ![css_icon] 
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app)  -适用于macOS的笔记本查看器.  ！[swift_icon] 
 - [NoteTaker](https://github.com/insidegui/NoteTaker)  -适用于macOS和iOS的简单笔记应用程序，使用Realm和CloudKit进行同步.  ！[swift_icon] 
-- [Notes](https://github.com/SauvageP/Notes) -Notes是一个macOS应用程序，用于创建注释，使用文本以及其他格式（图像，视频，联系人等）创建注释！[swift_icon] 
+- [Notes](https://github.com/SauvageP/Notes) -Notes是一个macOS应用程序，用于创建注释，它使用文本以及其他格式来创建注释：图像，视频，联系人等.！[swift_icon] 
 - [QOwnNotes](https://github.com/pbek/QOwnNotes)  -具有降价支持和ownCloud / Nextcloud集成的纯文本文件记事本和待办事项列表管理器.  ！[cpp_icon] 
 - [Simplenote](https://github.com/Automattic/simplenote-macos)  -记笔记的最简单方法.  ！[objective_c_icon] 
 - [Standard Notes](https://github.com/standardnotes/web)  -安全的地方，方便您记录笔记，思想和生活.  ！[javascript_icon]！[css_icon] 
@@ -454,6 +455,7 @@
  -[Toggl Desktop]（）-适用于Windows，Mac和Linux的Toggl Desktop应用程序.  ！[cpp_icon] 
 - [TomatoBar](https://github.com/ivoronin/TomatoBar)  -支持触摸栏的macOS的Pomodoro技术计时器.  ！[swift_icon] 
 - [TrelloApp](https://github.com/jlong/TrelloApp)  -用Swift编写的Trello.com的非官方包装应用程序.  对于站点特定的浏览器来说，这几乎是一个“ Hello World”.  ！[swift_icon] 
+- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) -Ultra TabSaver是Safari的开源标签管理器！[swift_icon] 
 - [Watson](https://github.com/TailorDev/Watson)  -用于时间跟踪的CLI应用程序.  ！[python_icon] 
 - [Whale](https://github.com/1000ch/whale)  -非官方的Trello应用程序.  ！[javascript_icon] 
 - [Yomu](https://github.com/sendyhalim/Yomu)  -适用于macOS的漫画阅读器应用程序.  ！[swift_icon] 
@@ -491,7 +493,7 @@
 - [Caprine](https://github.com/sindresorhus/caprine#features)  -优雅的Facebook Messenger桌面应用程序.  ！[javascript_icon]！[css_icon] 
 - [Goofy](https://github.com/danielbuechele/goofy)  -非官方的Facebook Messenger客户端.  ！[javascript_icon] 
 - [Leviathan](https://github.com/Swiftodon/Leviathan)  -Leviathan是Mastodon社交网络的iOS和macOS客户端应用程序.  ！[swift_icon] 
-- [Messenger](https://github.com/rsms/fb-mac-messenger)  -macOS应用程序，用于将Facebook Messenger封装在桌面上.  ！[objective_c_icon] 
+- [Messenger](https://github.com/rsms/fb-mac-messenger)  -macOS应用程序，将Facebook的Messenger封装在桌面上.  ！[objective_c_icon] 
 - [Product Hunt](https://github.com/producthunt/producthunt-osx)  -分享并发现您喜欢的新产品和应用.  ！[swift_icon] 
 - [Quail](https://github.com/1000ch/quail) -非官方 [esa](https://esa.io)  应用程式.  ！[javascript_icon] 
 - [Ramme](https://github.com/terkelg/ramme)  -非官方的Instagram桌面应用程序.  ！[javascript_icon]！[css_icon] 
@@ -587,6 +589,7 @@
 - [The Blockstack Browser](https://github.com/blockstack/blockstack-browser)  -Blockstack是用于分散式应用程序的互联网，用户拥有自己的数据.  Blockstack浏览器使您可以浏览Blockstack Internet.  ！[javascript_icon] 
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver/src )  -Unarchiver是用于解压缩存档文件的Objective-C应用程序.  ！[objective_c_icon] 
 - [ToTheTop](https://github.com/zenangst/ToTheTop)  -小型macOS应用程序，可帮助您滚动到顶部.  ！[swift_icon] 
+- [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) -Ultra TabSaver是Safari的开源标签管理器！[swift_icon] 
 - [calibre](https://github.com/kovidgoyal/calibre)  -跨平台电子书管理器.  ！[python_icon] 
 - [fselect](https://github.com/jhspetersson/fselect)  -使用SQL语法搜索文件的命令行工具.  ！[rust_icon] 
 - [homebrew-cask](https://github.com/Homebrew/homebrew-cask) -一个CLI工作流，用于管理作为二进制文件分发的macOS应用程序！[ruby_icon] 

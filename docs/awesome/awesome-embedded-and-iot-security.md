@@ -17,7 +17,6 @@
 &gt; *标有：euro：的物品是商业产品.*
 
 
-  - [Blogs](#blogs) 
 
 
 ## Software Tools
@@ -27,7 +26,7 @@
 
 - [EXPLIoT](https://gitlab.com/expliot_framework/expliot) -Pentest框架，例如Metasploit，但专门用于物联网.
 - [FACT - The Firmware Analysis and Comparison Tool](https://fkie-cad.github.io/FACT_core/) -功能齐全的静态分析框架，包括固件提取，使用不同插件的分析以及不同固件版本的比较.
-  - [Improving your firmware security analysis process with FACT](https://passthesalt.ubicast.tv/videos/improving-your-firmware-security-analysis-process-with-fact/) - Conference talk about FACT :tv:.
+  - [Improving your firmware security analysis process with FACT](https://passthesalt.ubicast.tv/videos/improving-your-firmware-security-analysis-process-with-fact/) -关于FACT：tv：的会议讨论.
 - [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer)  -根据自定义规则分析固件的安全性.  打算作为DevSecOps中的附加步骤，类似于CI.
 - [HAL – The Hardware Analyzer](https://github.com/emsec/hal) -用于门级网表的全面的逆向工程和操作框架.
 - [IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz) -物联网层安全分析自动化框架：硬件，软件和通信.
@@ -57,6 +56,10 @@
 - [JTAGenum](https://github.com/cyphunk/JTAGenum) -将JTAG功能添加到Arduino.
 - [OpenOCD](http://openocd.org/) -免费和开放的片上调试，系统内编程和边界扫描测试.
 
+### Misc Tools
+
+- [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) -解密Samsung SSD固件更新. 
+
 ## Hardware Tools
 
 - [Bus Blaster](http://dangerousprototypes.com/docs/Bus_Blaster) -检测硬件调试端口并与之交互 [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) 和 [JTAG](https://en.wikipedia.org/wiki/JTAG).
@@ -76,12 +79,12 @@
 -2019，阿蒂亚·古普塔（Aditya Gupta）： [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.apress.com/us/book/9781484242995)
 -2018年，马克·斯沃鲁普·蒂拉尼普（Mark Swarup Tehranipoor）： [Hardware Security: A Hands-on Learning Approach](https://www.elsevier.com/books/hardware-security/bhunia/978-0-12-812477-2)
 -2017年，阿蒂亚·古普塔（Aditya Gupta），亚伦·古兹曼（Aaron Guzman）： [IoT Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
--2017年，黄宏伟： [The Hardware Hacker: Adventures in Making and Breaking Hardware](https://nostarch.com/hardwarehackerpaperback)
+- 2017, Andrew Huang: [The Hardware Hacker: Adventures in Making and Breaking Hardware](https://nostarch.com/hardwarehackerpaperback)
 -2016年，克雷格·史密斯（Craig Smith）： [The Car Hacker's Handbook: A Guide for the Penetration Tester](https://nostarch.com/carhacking)
 -2015年，Nitesh Dhanjan： [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](https://shop.oreilly.com/product/0636920033547.do)
 -2014年，Debdeep Mukhopadhyay： [Hardware Security: Design, Threats, and Safeguards](https://www.taylorfrancis.com/books/9780429066900)
 -2014年，杰克·甘斯勒（Jack Ganssle）： [The Firmware Handbook (Embedded Technology)](https://www.elsevier.com/books/the-firmware-handbook/ganssle/978-0-7506-7606-9)
--2013年，黄宏伟： [Hacking the XBOX](https://nostarch.com/xboxfree)
+-2013年，黄宏伟 [Hacking the XBOX](https://nostarch.com/xboxfree)
 
 
 
@@ -111,6 +114,7 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 - [Cracking Linksys “Encryption”](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
 - [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) -会议演讲，介绍了一些有关实际不良实现的真实示例：tv:.
+- [Dumping firmware from a device's SPI flash with a buspirate](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
 - [Hacking the DSP-W215, Again](http://www.devttys0.com/2014/05/hacking-the-dspw215-again/)
 - [Hacking the PS4](https://cturt.github.io/ps4.html) -PS4的安全性简介.
 - [Multiple vulnerabilities found in the D-link DWR-932B](https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html)
@@ -135,7 +139,7 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) -开发最佳做法以及硬件和软件工具列表.
 - [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) -物联网常见漏洞和攻击面. 
 - [Router Passwords](https://192-168-1-1ip.mobi/default-router-passwords-list/) -按制造商排序的默认登录凭据数据库.
-- [Siliconpr0n](https://siliconpr0n.org/) -关于IC反转所有内容的Wiki /存档.
+- [Siliconpr0n](https://siliconpr0n.org/) -集成电路倒车的所有内容的Wiki /存档.
 
 ### Blogs
 <!--lint ignore no-repeat-punctuation-->
@@ -144,6 +148,14 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 - [Hackaday](https://hackaday.com)
 - [jcjc's Hack The World](https://jcjc-dev.com/)
 - [Quarkslab](https://blog.quarkslab.com/)
+- [wrong baud](https://wrongbaud.github.io/)
+
+### Tutorials and Technical Background
+- [Azeria Lab](https://azeria-labs.com/) -其他与ARM相关的教程.
+- [JTAG Explained](https://blog.senr.io/blog/jtag-explained#) -绕过受保护的登录外壳介绍UART和JTAG的演练.
+- [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/) -有关如何在PCB上发现调试焊盘的详细教程.
+- [UART explained](https://www.mikroe.com/blog/uart-serial-communication) -UART协议的深入说明.
+
 
 ## Conferences
 会议重点讨论嵌入式和/或物联网安全.

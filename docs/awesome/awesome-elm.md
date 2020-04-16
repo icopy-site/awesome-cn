@@ -44,7 +44,7 @@
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) -纯粹的SPA（带有路由），探索榆树的各个方面.
 * [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) -使用官方的Hacker-News API使用Elm版本0.18构建的渐进式Web应用程序
 * [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine)  -在榆树中建立互动小说风格故事的框架.  详细的例子 [elmnarrativeengine.com](http://elmnarrativeengine.com)  展示了如何构建“选择自己的冒险”游戏；  非常适合初学者.  **榆木v.0.19 **
-* [Ari's Garden](https://github.com/theiceshelf/arisgarden) - 一个食谱 [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
+* [Ari's Garden](https://github.com/theiceshelf/arisgarden) - 一个食谱 [site](https://arisgarden.theiceshelf.com/) 作为SPA构建，还使用Elm解析器.
 
 ### Games
 
@@ -68,12 +68,12 @@
 * [Official tutorial](http://elm-lang.org/docs) —常规信息和带有示例的深入指南.
 * [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c) —来自Manning Publications的针对Elm初学者的深入书籍.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) -如何创建可与您的应用很好地缩放的模块化Elm代码.
-* [Exercism Elm Track](http://exercism.io/languages/elm) -榆木练习集.
+* [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 * [Learn you an Elm](http://learnyouanelm.github.io/) -Elm教程，提供详尽的示例和说明.
 * [Beginning Elm](http://elmprogramming.com/) -对Elm编程语言的简要介绍.
 * [Elm Koans](https://github.com/robertjlooby/elm-koans) -学习榆木的练习.
 * [Learn Elm](https://github.com/dwyl/learn-elm) -探索使前端Web应用程序易于构建和维护的优美编程语言！
-* [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/)  -语法和功能概述.  榆木页面 [learnxinyminutes.com](https://learnxinyminutes.com)
+* [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) -使用Maybe类型，并带有注释良好的代码示例.
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) -实用程序员的详尽书籍，涵盖了基础知识和高级概念.
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) -语法和功能概述.
@@ -170,7 +170,7 @@
 * [Official Elm News](https://elm-lang.org/news) -榆树官方博客
 * [Elm Weekly](http://www.elmweekly.nl/) -关于榆树的每周新闻
 * [Elm News](https://elm-news.com/) -所有榆木新闻集中在一处
-* [Elm Greenwood](https://elm-greenwood.com/) -Elm软件包发布
+* [Elm Greenwood](https://elm-greenwood.com/) -榆木包发布
 * [Elm Reddit](https://www.reddit.com/r/elm/) -Reddit中的榆木新闻
 
 ## Podcasts
@@ -179,6 +179,7 @@
 
 * [Elm Town](https://elmtown.github.io/) -关于榆树社区中的人们的播客.
 * [Implementing Elm](https://www.implementingelm.com/) -深入探讨特定问题，以帮助Elm社区.
+* [Elm Radio](https://elm-radio.com) -调整Elm生态系统中的工具和技术.
 
 ### Individual Podcast episodes
 
@@ -225,7 +226,7 @@
 ### Code Generators
 
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/)  -将HTML转换为Elm Html.  将应用程序移植到Elm时很有用.
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) -为Elm生成OpenApi类型.
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) -从Elm生成TypeScript定义.
 * [Elm JSON Interop](https://github.com/pravdomil/elm-json-interop) -从Elm文件生成JSON编码器/解码器和TypeScript定义.
 * [Quicktype](https://github.com/quicktype/quicktype) -从JSON生成JSON解码器和编码器
@@ -398,7 +399,7 @@
 
 ## Who to follow
 
- *免费跟随新更新.  用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *免费跟随新更新.  利用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---

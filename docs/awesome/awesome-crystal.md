@@ -263,11 +263,11 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [runic-lang](https://github.com/runic-lang) -设计玩具语言
 
 ## Logging and monitoring
- * [crafana](https://github.com/spoved/crafana.cr) - 一个 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
- * [crometheus](https://gitlab.com/ezrast/crometheus) - 一个 [Prometheus](https://prometheus.io/) 客户库
+ * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
+ * [crometheus](https://gitlab.com/ezrast/crometheus) - 一种 [Prometheus](https://prometheus.io/) 客户库
  * [crylog](https://github.com/blacksmoke16/crylog) -基于Monolog的灵活日志记录框架
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) -用于的结构化记录器 [Fluentd](https://www.fluentd.org/)
- * [Logger](https://crystal-lang.org/api/Logger.html) -日志记录实用程序（Crystal stdlib）
+ * [Log](https://crystal-lang.org/api/Log.html) -日志记录实用程序（Crystal stdlib）
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd](https://github.com/etsy/statsd) 客户库
  * [syslog.cr](https://github.com/comandeo/syslog.cr) -Syslog客户端的实现
 

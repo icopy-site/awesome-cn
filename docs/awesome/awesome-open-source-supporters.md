@@ -87,8 +87,10 @@
 
 - [Crowdin](https://crowdin.com/) `requires-approval`-本地化管理平台.
 - [LingoHub](https://lingohub.com/) `requires-approval`-翻译管理.
+- [Locale](https://www.localeapp.com/) -本地化和翻译.
 - [POEditor](https://poeditor.com/) `requires-approval`-本地化管理平台.
 - [Transifex](https://www.transifex.com/) `requires-approval`-用于翻译数字内容的本地化平台.
+- [Weblate](https://weblate.org/) `requires-approval`-基于Web的连续本地化.
 
 ## Version Control
 

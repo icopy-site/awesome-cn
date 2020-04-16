@@ -138,7 +138,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
 - [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) -有助于检测和响应网络钓鱼攻击的框架.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) -允许创建和管理（伪造）网络钓鱼活动的平台，旨在训练人们识别可疑邮件. 
-- [mailspoof](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
+- [mailspoof](https://github.com/serain/mailspoof) -扫描SPF和DMARC记录以查找可能允许电子邮件欺骗的问题.
 - [phishing_catcher](https://github.com/x0rz/phishing_catcher) -可配置脚本，可使用以下命令在证书透明日志（CTL）中按域名监视可疑TLS证书的颁发 [CertStream](https://certstream.calidog.io/) 服务.
 
 ## Preparedness training and wargaming
@@ -198,7 +198,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 也可以看看 [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection).
 
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) -基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和搜寻操作.
-- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) -用于通过Windows事件日志进行寻线分组的PowerShell模块.
+- [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) - PowerShell module for hunt teaming via Windows Event logs.
 - [GRR Rapid Response](https://github.com/google/grr) -事件响应框架专注于远程实时取证，该远程响应取证由安装在资产上的Python代理和基于Python的服务器基础结构组成，使分析人员能够快速分类攻击并进行远程分析.
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置集成分析功能.
 - [MozDef](https://github.com/mozilla/MozDef) -使安全事件处理过程自动化，并促进事件处理程序的实时活动.
@@ -213,6 +213,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 也可以看看 [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence).
 
 - [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths) - Visualize and graph Active Directory permission configs ("control relations") to audit questions such as "Who can read the CEO's email?" and similar.
+- [AttackerKB](https://attackerkb.com/) -免费的公共众包漏洞评估平台，可帮助确定高风险补丁应用程序的优先级并消除漏洞疲劳.
 - [DATA](https://github.com/hadojae/DATA) -凭据网络钓鱼分析和自动化工具，可以直接接受可疑网络钓鱼URL或在观察到的包含此类URL的网络流量上触发.
 - [Forager](https://github.com/opensourcesec/Forager) -使用Python3构建的多线程威胁情报收集功能，具有基于文本的简单配置和数据存储，易于使用和数据可移植性.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) -通过被动地映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）和监督控制与数据采集（SCADA）的态势感知.
@@ -251,7 +252,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) -对照Microsoft审核Windows主机的根证书存储 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) -从主机名列表建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.
 - [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) -组策略对象，合规性检查和配置工具，它们提供了一种自动化且灵活的方法来安全地部署和维护Windows 10的最新版本.
-- [WMI Monitor](https://github.com/realparisi/WMI_Monitor) -将新创建的WMI使用者和进程记录到Windows应用程序事件日志中。
+- [WMI Monitor](https://github.com/realparisi/WMI_Monitor) -将新创建的WMI使用者和进程记录到Windows应用程序事件日志中.
 
 ## License
 

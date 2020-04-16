@@ -19,7 +19,7 @@
 ### Toolkits
 - [Preact CLI](https://github.com/developit/preact-cli) -在几秒钟内构建一个Preact Progressive Web App.
 - [nwb](https://github.com/insin/nwb) -使用React，Inferno或Preact快速开发.
-- [React App Rewire Preact](https://github.com/timarney/react-app-rewired) -结合使用Preact和create-react-app而不弹出.
+- [React App Rewire Preact](https://github.com/timarney/react-app-rewired) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) -它会删除Preact CLI上的默认postcss配置，因此您可以使用postcss.config.js.
 - [Create Preact App](https://github.com/just-boris/create-preact-app) -创建没有构建配置的Preact应用.
 - [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) -Storybook for Preact是用于Preact组件的UI开发环境.
@@ -53,17 +53,17 @@
 - [Preact Cycle](https://git.io/preact-cycle) -Preact的功能反应范例.
 - [Preact Layout](https://download.github.io/preact-layout/) -小而简单的布局库.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) -的Preact插件 [Socrates](http://github.com/matthewmueller/socrates).
-- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
+- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 利用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
 - [Preact I18nline](https://github.com/download/preact-i18nline) -整合周围的生态系统 [i18n-js](https://github.com/everydayhero/i18n-js) 通过Preact通过 [i18nline](https://github.com/download/i18nline).
 - [Preact MUI](https://git.io/v1aVO) -MUI CSS Preact库.
-- [Preact MDL](https://git.io/preact-mdl) - 用 [MDL](https://getmdl.io) 作为Preact组件.
+- [Preact MDL](https://git.io/preact-mdl) - 利用 [MDL](https://getmdl.io) 作为Preact组件.
 - [Preact Photon](https://git.io/preact-photon) -使用构建漂亮的桌面UI [photon](http://photonkit.com).
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) -创建没有class关键字的preact组件.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) -用于创建元素的类似于超脚本的语法.
 - [Shallow Compare](https://github.com/tkh44/shallow-compare) -简化的“ shouldComponentUpdate”助手.
 - [Preact Codemod](https://github.com/vutran/preact-codemod) -将您的React代码转换为Preact.
 - [Preact Helmet](https://github.com/download/preact-helmet) -Preact的文档主管.
-- [Preact Delegate](https://github.com/NekR/preact-delegate) - Delegate DOM events.
+- [Preact Delegate](https://github.com/NekR/preact-delegate) -委托DOM事件.
 - [Preact No SSR](https://github.com/gufsky/preact-no-ssr) -跳过组件的服务器端渲染.
 - [Preact Head](https://github.com/matthewmueller/preact-head)  -独立的声明式\ <Head /\>  对于Preact.
 - [Preact Side Effect](https://github.com/ooade/preact-side-effect) -创建其嵌套属性更改会映射到全局副作用的组件.
@@ -84,7 +84,7 @@
 - [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建preact组件，受到elm的启发.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) -零学习曲线的React，Preact和Inferno的快速轻松状态管理.
-- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
+- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 利用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -JSX断言测试_（没有DOM，就在Node中）_.
@@ -130,6 +130,7 @@
 - [**Web Maker**](https://webmaker.app)  使用Preact打造的离线，超快的快速前端游乐场.  _（[Github project](https://github.com/chinchang/web-maker))_.
 - [**Intergram**](https://www.intergram.xyz)  链接到使用Preact构建的Telegram Messenger的实时聊天小部件.  _（[Github project](https://github.com/idoco/intergram))_.
 - [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) _([GitHub Project](https://github.com/safdarjamal/vanilla-preact/))_.
+- [**GHFresh**](https://code2k.github.io/ghfresh/)  监视GitHub存储库版本–使用Preact进行预渲染.  使用Preact Compat，TypeScript，Material-UI和Redux Toolkit构建.  _（[GitHub Project](https://github.com/code2k/ghfresh))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) -用于构建用户界面的声明性，高效且灵活的JavaScript库.

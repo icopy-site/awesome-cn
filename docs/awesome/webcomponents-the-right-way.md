@@ -139,11 +139,11 @@
 
 - [Bringing Order to Web Design Chaos (with Web Components)](https://dev.to/thatjoemoore/bringing-order-to-web-design-chaos--3fhb)
 - [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
+- [ING Open-Sources Lion, Its White-Label Web Component Library – Q&A with Thomas Allmer](https://www.infoq.com/articles/ing-open-sources-lion-web-component/)
 - [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
-- [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
-- [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
+- [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 - [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/)
 
 ## Libraries
@@ -155,9 +155,9 @@
 - [Lightning Web Components](https://github.com/salesforce/lwc) -快速的企业级Web组件基础.
 - [Omi](https://github.com/Tencent/omi) -4kb JavaScript的下一代Web框架（Web组件+ JSX +代理+存储+路径更新）.
 - [Polymer](https://polymer-library.polymer-project.org) -Polymer Project作者提供的原始Web组件库.
-- [readymade](https://github.com/readymade-ui/readymade) -用于使用装饰器开发Web组件的JavaScript微库.
 - [Skate](https://github.com/skatejs/skatejs) -Web组件库专注于功能渲染管线和较小的占用空间.
 - [slim.js](https://github.com/slimjs/slim.js) -基于现代标准的快速，强大的前端微框架.
+- [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
 
 ### Functional
 
@@ -165,11 +165,6 @@
 - [functional-web-component](https://github.com/wtnbass/functional-web-component) -功能组件，如React，但用于Web组件.
 - [haunted](https://github.com/matthewp/haunted) -针对Web组件实现的React的Hooks API.
 - [hybrids](https://github.com/hybridsjs/hybrids) -用于使用简单实用的API创建Web组件的UI库.
-
-### Compilers
-
-- [Stencil](https://stenciljs.com) -生成Web组件的编译器.
-- [Svelte](https://svelte.dev) -控制论增强的Web应用程序（可以选择生成Web组件）.
 
 ### Other
 
@@ -184,7 +179,7 @@
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
-- [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.
+- [Elix](https://github.com/elix/elix) -用于常见用户界面模式的高质量，可定制的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
@@ -269,7 +264,6 @@
 - [Vaadin Directory](https://vaadin.com/directory) -发布，讨论和评估Web组件
 - [webcomponents.dev](https://webcomponents.dev) -您的Web组件工作室.
 - [webcomponents.org](http://webcomponents.org/) -讨论和共享Web组件.
-- [webcomponents.news](http://webcomponents.news) -展示Web组件的文章，教程，微库和网站的集合.
 - [web-components-examples](https://github.com/mdn/web-components-examples) -与MDN Web组件文档相关的一系列Web组件示例.
 
 ## History
@@ -303,6 +297,7 @@
 - [The State of the Componentised Web](https://www.leggetter.co.uk/2014/08/06/state-componentised-web.html)
 - [Web Components and you – dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
 - [The Web's Declarative, Composable Future](https://addyosmani.com/blog/the-webs-declarative-composable-future/)
+- [The Shadow DOM Diaries](https://gist.github.com/dglazkov/efd2deec54f65aa86f2e)
 
 ### 2013
 

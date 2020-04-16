@@ -113,6 +113,7 @@
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
+- [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
 
 ### Collection of Actions
 
@@ -132,6 +133,7 @@
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
 - [GitHub Actions for Docker](https://github.com/docker/github-actions)
+- [GitHub Actions for AWS](https://github.com/clowdhaus/aws-github-actions)
 
 ### Utility
 
@@ -154,7 +156,7 @@
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) -等待所有状态和检查成功或其中任何一个失败，然后相应地设置其状态输出.
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) -从git获取上一个标签.
 - [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) -根据标题和说明创建一个新的开放里程碑.
-- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) -关闭给定的里程碑.
+- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)
@@ -162,6 +164,7 @@
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Read Properties](https://github.com/christian-draeger/read-properties) -从`.properties`文件中读取值.
 - [Write Properties](https://github.com/christian-draeger/write-properties) -将值写入.properties文件.
+- [Autotag](https://github.com/butlerlogic/action-autotag) -当清单文件（即“ package.json”）的版本更改时，自动生成一个新标签.
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) -使用Jinja2模板引擎从模板生成文件.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) -检查之前的步骤是否有代码更改.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) -检测问题中的冒犯性评论并提出请求，并警告发件人.
@@ -364,6 +367,7 @@
 - [Serialize Workflow Runs in Continuous Deployment Pipelines](https://github.com/softprops/turnstyle)
 - [Netlify Deploy GitHub Action for each commit](https://github.com/nwtgck/actions-netlify)
 - [Run Ansible Playbooks](https://github.com/arillso/action.playbook)
+- [Publish a Python Distribution Package to Anaconda Cloud](https://github.com/fcakyon/conda-publish-action)
 
 #### Docker
 

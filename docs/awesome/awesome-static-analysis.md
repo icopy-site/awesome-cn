@@ -78,7 +78,7 @@
 ## Ada
 
 * [Codepeer](http://www.adacore.com/codepeer) -检测运行时和逻辑错误
-* [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) ：copyright：-提供代码验证，以证明源代码中没有溢出，被零除，越界数组访问以及某些其他运行时错误.
+* [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) ：copyright：-提供代码验证，以证明源代码中不存在溢出，零除，越界数组访问以及某些其他运行时错误.
 * [SPARK](http://www.spark-2014.org/about) ：copyright：-Ada的静态分析和形式验证工具集
 * [Understand](https://scitools.com/ada-programming-essential/) ：copyright：-IDE为Ada和VHDL提供代码分析，标准测试，指标，图形，依赖性分析等.
 
@@ -227,7 +227,7 @@
 * [gofmt -s](https://golang.org/cmd/gofmt/) -检查代码格式是否正确，是否无法进一步简化.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) -检查丢失或未引用的程序包导入.
 * [GolangCI-Lint](https://github.com/golangci/golangci-lint) -替代“ Go Meta Linter”：GolangCI-Lint是一个Linters聚合器.
-* [golint](https://github.com/golang/lint) -在Go源代码中打印出编码样式错误.
+* [golint](https://github.com/golang/lint) - Prints out coding style mistakes in Go source code.
 * [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) -同时运行许多linter，并将其输出标准化为报告.
 * [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) -分析Golang goroutine转储的交互式工具.
 * [gosec (gas)](https://github.com/GoASTScanner/gas) -通过扫描Go AST检查源代码是否存在安全问题.
@@ -303,6 +303,7 @@
 * [eslint](https://github.com/eslint/eslint) -完全可插拔的工具，用于识别和报告JavaScript模式
 * [Esprima](https://github.com/jquery/esprima) -用于多用途分析的ECMAScript解析基础结构
 * [flow](https://flow.org/) -JavaScript的静态类型检查器.
+* [hegel](https://jsmonk.github.io/hegel) -JavaScript的静态类型检查器，带有类型推断偏向和强类型系统.
 * [jshint](https://github.com/jshint/jshint) ：warning：-检测JavaScript代码中的错误和潜在问题，并执行团队的编码约定
 * [JSLint](https://github.com/douglascrockford/JSLint) ：警告：-JavaScript代码质量工具
 * [JSPrime](https://github.com/dpnishant/jsprime) -静态安全分析工具
@@ -314,7 +315,7 @@
 * [standard](http://standardjs.com/) -一个npm模块，用于检查Javascript Styleguide问题
 * [tern](https://github.com/ternjs/tern) -JavaScript代码分析器，可提供深入的跨编辑器语言支持
 * [xo](https://github.com/xojs/xo)  -固执己见，但可配置的ESLint包装器，其中包含许多好东西.  强制执行严格且易读的代码.
-* [yardstick](https://github.com/calmh/yardstick) :warning: - Javascript code metrics
+* [yardstick](https://github.com/calmh/yardstick) ：警告：-Javascript代码指标
 
 ## Kotlin
 
@@ -360,8 +361,8 @@
 * [phpdcd](https://github.com/sebastianbergmann/phpdcd) -PHP代码的死代码检测器（DCD）.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) -为项目建立依赖图
 * [phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) -使用PHPDoc批注添加标量类型提示并向现有的PHP项目返回类型
-* [phpDocumentor](https://www.phpdoc.org/) - Analyzes PHP source code to generate documentation
-* [PHPMD](https://phpmd.org/) -在代码中找到可能的错误
+* [phpDocumentor](https://www.phpdoc.org/) -分析PHP源代码以生成文档
+* [PHPMD](https://phpmd.org/) - finds possible bugs in your code
 * [PhpMetrics](http://www.phpmetrics.org/) -计算和可视化各种代码质量指标
 * [phpmnd](https://github.com/povils/phpmnd) -有助于检测魔术数字
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) -用于运行质量检查工具的工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）
@@ -530,6 +531,7 @@
 * [CodeScene](https://empear.com/) ：copyright：-CodeScene优先考虑技术债务，查找社会模式并识别代码中的隐患.
 * [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: - Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET.
 * [cqc](https://github.com/xcatliu/cqc) -检查js，jsx，vue，css，less，scss，sass和styl文件的代码质量.
+* [DeepCode](https://www.deepcode.ai/)  ：copyright：-DeepCode基于AI查找错误，安全漏洞，性能和API问题.  DeepCode的分析速度使我们能够实时分析您的代码并在您单击IDE中的“保存”按钮时提供结果.  支持的语言是Java，C / C ++，JavaScript，Python，TypeScript和XML.  与GitHub，BitBucket和Gitlab的集成.
 * [DeepSource](https://deepsource.io/)  ：copyright：-深入的静态分析以监视源代码的质量和安全性.  支持Python和Go，并且可以在错误风险，安全性，反模式，性能，文档和样式等垂直方面检测600多种类型的问题.  与GitHub的本机集成.
 * [Depends](https://github.com/multilang-depends/depends) -分析Java，C / C ++，Ruby的代码元素的全面依赖关系.
 * [DevSkim](https://github.com/microsoft/devskim) - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
@@ -547,7 +549,7 @@
 * [pre-commit](https://github.com/pre-commit/pre-commit) -用于管理和维护多语言预提交挂钩的框架.
 * [Pronto](https://github.com/prontolabs/pronto)  -快速自动代码审查您的更改.  支持40多种语言的跑步者，包括Clang，Elixir，JavaSCript，PHP，Ruby等
 * [PT.PM](https://github.com/PositiveTechnologies/PT.PM) - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL.
-* [PVS-Studio](https://www.viva64.com/en/pvs-studio/) ：版权：-a（[conditionally free](https://www.viva64.com/en/b/0614/) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) .  支持CWE映射，MISRA和CERT编码标准.
+* [PVS-Studio](https://www.viva64.com/en/pvs-studio/) ：版权：-a（[conditionally free](https://www.viva64.com/en/b/0614/) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, MISRA and CERT coding standards.
 * [Reviewdog](https://github.com/haya14busa/reviewdog) -一种在任何代码托管服务中发布来自任何linter的评论评论的工具.
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 * [Semmle QL and LGTM](https://semmle.com/)  ：copyright：-使用对源代码的查询来查找安全漏洞，变体和关键代码质量问题.  自动检查PR代码；  对于公共GitHub / Bitbucket回购免费： [LGTM.com](https://LGTM.com).
@@ -607,7 +609,7 @@
 * [cookstyle](https://docs.chef.io/cookstyle.html) -Cookstyle是基于RuboCop Ruby linting工具的厨师工具整理工具
 * [foodcritic](http://www.foodcritic.io/) -检查主厨食谱中常见问题的皮棉工具.
 * [Puppet Lint](https://github.com/rodjek/puppet-lint) -检查您的人偶清单是否符合样式指南.
-* [terraform-compliance](https://terraform-compliance.com) -针对Terraform的轻量级，专注于合规性和安全性的BDD测试框架.
+* [terraform-compliance](https://terraform-compliance.com) -针对Terraform的轻量级，注重合规性和安全性的BDD测试框架.
 * [terrascan](https://github.com/cesar-rodriguez/terrascan) -收集用于Terraform模板的静态代码分析的安全性和最佳实践测试.
 * [tflint](https://github.com/wata727/tflint) -一种Terraform linter，用于检测“ terraform plan”无法检测到的错误.
 
@@ -652,7 +654,7 @@
 
 ## LaTeX
 
-* [ChkTeX](http://www.nongnu.org/chktex/) - A linter for LaTex which catches some typographic errors LaTeX oversees.
+* [ChkTeX](http://www.nongnu.org/chktex/) -用于LaTex的短毛绒，它捕获LaTeX监督的一些印刷错误.
 * [lacheck](https://www.ctan.org/pkg/lacheck) -查找LaTeX文档中常见错误的工具.
 
 ## Makefiles

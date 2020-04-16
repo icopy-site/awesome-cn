@@ -504,6 +504,7 @@ Projects
 * [krane](https://github.com/Shopify/krane) -一个命令行工具，可帮助您将更改发送到Kubernetes命名空间并了解结果
 * [ktunnel](https://github.com/omrikiei/ktunnel) -一个命令行工具，可在Kubernetes和您的集群之间建立反向隧道，将其用于本地开发/调试服务或与本地资源集成.
 * [k8s-platform-lcm](https://github.com/arminc/k8s-platform-lcm) -一种更快，更轻松的方法来管理应用程序和工具的生命周期，在Kubernetes平台上运行和生活
+* [Pixie](https://github.com/pixie-labs/pixie) -实时调试多集群K8s环境，而无需更改代码和将数据移出集群.
 
 ## Package Managers
 
@@ -580,7 +581,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最好的OSS工具（例如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -730,7 +731,7 @@ Projects
 
 * [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html) -使用Cyber​​Ark Conjur保护Kubernetes部署的应用程序
 * [k8sec](https://github.com/dtan4/k8sec)
-* [Kamus](https://github.com/Soluto/kamus) -秘密加密/解密解决方案的GitOps，零信任解决方案.
+* [Kamus](https://github.com/Soluto/kamus) - A GitOps, zero-trust solution for secrets encryption/decryption solution.
 * [kube-lego](https://github.com/jetstack/kube-lego)
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
 * [kubesec](https://github.com/shyiko/kubesec) -安全秘密管理
@@ -874,7 +875,7 @@ Projects
 ## Machine Learning
 
 * [FfDL](https://github.com/IBM/FfDL) -深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等作为服务
-* [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
+* [kubeflow](https://github.com/google/kubeflow) -Kubernetes的机器学习工具包.
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -Kubernetes上的ML / MXNet工具.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -在kubernetes上可重现的机器学习和深度学习的开源平台
 * [seldon-core](https://github.com/SeldonIO/seldon-core) -在Kubernetes上部署机器学习模型的开源框架
