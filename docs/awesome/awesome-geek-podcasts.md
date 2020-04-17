@@ -18,7 +18,7 @@
 
 ## In English
 
-* [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的网络音频脱口秀.
+* [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的互联网音频脱口秀节目.
 * [/dev/hell](http://devhell.info/) 克里斯·哈特耶斯（Chris Hartjes）和埃德·芬克勒（Ed Finkler）被困在“发展地狱”中，他们主要谈论PHP，Web，他们的开发经验以及特别邀请来宾.
 * [Accidental Tech Podcast](http://atp.fm/) -三个书呆子讨论技术，苹果，编程和松散相关的问题.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) -妇女在科学，技术，工程和数学（STEM）方面的成就.
@@ -89,7 +89,7 @@
 * [IRL: Because Online Life Is Real Life](https://irlpodcast.org/)  -主持人Veronica Belmont分享了在线生活的真实故事和有关Web未来的真实话题.  IRL是Mozilla的原始播客.
 * [JavaScript Air](https://javascriptair.com/) -有关JavaScript的现场直播播客.
 * [JS Party](https://changelog.com/jsparty) – JavaScript和网络社区庆祝活动
-* [Ladybug Podcast](https://ladybug.dev/) –为所有开发人员主持的由女士主持的技术播客，围绕如何开始编码，当前的热门技术，如何获得第一份开发人员工作，冒名顶替综合症，如何编写CSS等进行了大量讨论.
+* [Ladybug Podcast](https://ladybug.dev/) –面向所有开发人员的由女士主持的技术播客，围绕如何开始编码，当前热门技术，如何获得第一份开发人员工作，冒名顶替综合症，如何编写CSS等进行了精彩的讨论.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) -Laravel新闻播客带给您与Laravel相关的所有最新新闻和事件.
 * [Linear Digressions](http://lineardigressions.com/) -通过真实的故事和示例以可访问的方式探索数据科学和机器学习的主题.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) -有关Linux和开源世界的每周新闻.
@@ -104,7 +104,7 @@
 * [Mind the Cloud Podcast](http://mindthecloud.com) -关于使用云创建未来的开发人员和公司的播客.
 * [MS Dev Show](https://msdevshow.com/)  -Microsoft开发人员的播客.  Jason Young和Carl Schweitzer谈论了开发人员新闻中的最新消息，涵盖了诸如Azure云，Windows，Windows Phone，Visual Studio以及使用Microsoft平台进行跨平台开发等主题.
 * [New Rustacean](https://newrustacean.com/) -这是有关从头学习编程语言Rust的播客.
-* [Note To Self](https://www.wnycstudios.org/shows/notetoself) -主持人Manoush Zomorodi与大牌技术人员到小学老师的每个人都在讨论技术对我们生活的影响，以寻求有助于您思考和生活更好的明智选择.
+* [Note To Self](https://www.wnycstudios.org/shows/notetoself) -主持人Manoush Zomorodi与大牌技术员到小学老师的每个人都在讨论技术对我们生活的影响，以寻求有助于您思考和生活更好的明智选择.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) -唯一针对Office 365开发的展览，我们与来自全球的专家就Office 365平台的编码进行了交谈.
 * [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) -硬件/软件界面的故事：“地球上最讨厌的播客”.
 * [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) -面向希望更好地了解当天安全主题的人员的安全播客.
@@ -206,7 +206,6 @@
 * [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) -播客和Lambda3
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) -采访领导力和企业家精神等主题.
 * [Like a Boss](https://www.likeaboss.com.br)  -Like Boss播客是企业家的播客.  成功的创业公司和公司的领导者和创始人与该计划的两位主持人坐下来.
-* [Lovelace Podcast](https://twitter.com/LovelacePodcast) -互联网，模因，游戏，新闻及其发生时间-技术.
 * [Mamilos](https://www.b9.com.br/shows/mamilos/) -开胸新闻
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) -播客有一项提案，建议解释几个主题，使用科学，哲学，历史等方法来支持答案.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) -JovemNerd门户播客，讨论书呆子，理论和rpg
@@ -344,7 +343,7 @@
 * [De Appels en Peren Show](http://appelsenperenshow.nl/)  -关于未来的脱口秀节目.  技术，媒体，文化以及一切使未来成为可能的事物.
 * [Tech45](https://tech45.eu/)  -Tech45是每周的技术播客.  在大约45分钟内，一群极客将指导您了解上周最有趣的技术新闻.
 * [TechSnacks](https://techsnacks.nl/) -唯一的零食大小的技术播客！
-* [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/)  -每周播客，书呆子喝Spa Red并谈论技术话题.  有定期的书呆子和定期的书呆子，丹尼尔·凯格尔（Daniel Kegel），弗洛里斯·迪梅尔（Floris Diemel），乔斯特·谢勒维斯（Joost Schellevis），朱利安·乌巴克斯（Jurian Ubachs）和兰达·皮伦（Randal Peelen）.
+* [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/)  -每周播客，书呆子喝Spa Red并谈论技术话题.  有定期的书呆子和定期的书呆子Daniel Kegel，Floris Diemel，Joost Schellevis，Jurian Ubachs和Randal Peelen.
 * [ZeepCast](https://twitter.com/Zeepcast)  -有关科学，技术和流行文化最新发展的播客.  由Sander Bijleveld和David van Dorsten主持.
 
 ### Tooling

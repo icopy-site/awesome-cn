@@ -5,7 +5,7 @@
 &gt;有用的资源 [Test Anything Protocol](https://testanything.org)\
 &gt;测试工具中测试模块之间的基于文本的简单界面
 
- *此列表目前非常关注JavaScript.  那是因为我只对JS世界中的TAP东西很熟悉.  欢迎任何语言的贡献.*
+ *此列表目前非常关注JavaScript.  那只是因为我只对JS世界中的TAP东西很熟悉.  欢迎任何语言的贡献.*
 
 
 
@@ -24,7 +24,7 @@
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) -使用任何 [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
 - [tap-summary](https://github.com/zoubin/tap-summary) -汇总输出.
 - [tap-pessimist](https://github.com/clux/tap-pessimist) -仅显示失败的测试.
-- [tap-prettify](https://github.com/toolness/tap-prettify) -带有差异的漂亮可读输出.
+- [tap-prettify](https://github.com/toolness/tap-prettify) -具有差异性的可读性好输出.
 - [tap-colorize](https://github.com/substack/tap-colorize) -在保持机器可读性的同时为输出着色.
 - [tap-bail](https://github.com/juliangruber/tap-bail) -当第一个测试失败时，请保释.
 - [tap-notify](https://github.com/axross/tap-notify) -适用于macOS，Linux和Windows的通知程序.
@@ -42,8 +42,8 @@
 - [AVA](https://github.com/sindresorhus/ava) -未来派测试跑步者（`$ ava --tap`）.
 - [tap](https://github.com/isaacs/node-tap) -Node.js的TAP测试框架.
 - [tape](https://github.com/substack/tape) -用于Node.js和浏览器的TAP生产测试工具.
-- [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) -可插入的JavaScript linter（`$ eslint --format = tap`）.
-- [Mocha](https://mochajs.org) -适用于Node.js和浏览器的功能丰富的测试框架（$ mocha reporter = tap）.
+- [ESLint](https://eslint.org/docs/user-guide/formatters/#tap) -可插入的JavaScript linter（`$ eslint --format = tap`）.
+- [Mocha](https://mochajs.org) -适用于Node.js和浏览器的功能丰富的测试框架（`$ mocha reporter = tap`）.
 - [qunit-tap](https://github.com/twada/qunit-tap) -QUnit的TAP输出.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) -茉莉的TAP输出.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) -业力的TAP输出.
@@ -79,7 +79,7 @@
 - [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) -在浏览器控制台中美化TAP.
 - [tap-merge](https://github.com/anko/tap-merge) -合并多个TAP流.
 - [smokestack](https://github.com/hughsk/smokestack) -在浏览器中运行TAP测试，并将输出写入`stdout`.
-- [chutney](https://github.com/derhuerst/chutney)  -在Sauce Labs中运行TAP测试.  轻巧 [smokestack](https://github.com/hughsk/smokestack) 替代.
+- [chutney](https://github.com/derhuerst/chutney)  -在Sauce Labs进行TAP测试.  轻巧 [smokestack](https://github.com/hughsk/smokestack) 替代.
 
 ### Python
 
@@ -87,7 +87,7 @@
 
 ## Articles
 
-- [Understand the Test Anything Protocol](http://www.effectiveperlprogramming.com/2011/05/understand-the-test-anything-protocol/)
+- [Understand the Test Anything Protocol](https://www.effectiveperlprogramming.com/2011/05/understand-the-test-anything-protocol/)
 
 ## Tutorials
 
@@ -102,4 +102,4 @@
 
 - [Discuss](https://github.com/TestAnything/Specification/issues)
 - [Reddit](https://www.reddit.com/r/testanythingprotocol)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/tap)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/tap)

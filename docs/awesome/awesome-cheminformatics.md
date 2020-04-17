@@ -112,7 +112,6 @@
 ### Courses
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) -印第安那大学的“化学信息学：在化学数据世界中导航”.
-* [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) -一个用于化学信息学教育的YouTube频道.
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) -使用开源软件包和数据进行计算机辅助药物设计（CADD）的教学平台.
 * [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)％3A_Chem_4399％2F％2F5399）-罗伯特·贝尔福德（Robert Belford）的阿肯色大学小石城分校化学信息学课程（2017年春季）
 * [BigChem](http://bigchem.eu/alllectures) -的所有讲座 [BigChem](http://bigchem.eu/) （Horizo​​n 2020 MSC ITN EID项目提供了有关大型化学数据分析的创新教育.）

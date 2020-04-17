@@ -10,7 +10,7 @@
 
 
 
-&gt; Web Components通过爱创造了正确的方式 [Mateus Ortiz](https://twitter.com/mteusortiz) 并由 [Serhii Kulykov](https://twitter.com/serhiikulykov)
+&gt; Web Components通过爱创造了正确的方式 [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Specifications
 
@@ -84,8 +84,6 @@
 - [The Case for Web Components](https://alankent.me/2019/02/20/the-case-for-web-components/)
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Web Components 101: An Introduction to Web Components](https://www.telerik.com/blogs/web-components-101-an-introduction-to-web-components)
-- [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
-- [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 - [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components?utm_source=scotch&utm_campaign=share&utm_medium=twitter)
 
 ### Custom Elements
@@ -93,7 +91,6 @@
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - [All about HTML Custom Elements](https://github.com/shawnbot/custom-elements)
-- [Introducing Custom Elements (WebKit)](https://webkit.org/blog/7027/introducing-custom-elements/)
 - [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439)
 - [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133)
 - [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
@@ -105,8 +102,6 @@
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
 - [The Rise of Shadow DOM](https://medium.com/front-end-hacking/the-rise-of-shadow-dom-84aa1f731e82)
 - [Shadow DOM in depth](https://github.com/praveenpuglia/shadow-dom-in-depth)
-- [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
-- [Introducing Slot-Based Shadow DOM API (WebKit)](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
 - [Using Shadow DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 - [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 
@@ -157,7 +152,7 @@
 - [Polymer](https://polymer-library.polymer-project.org) -Polymer Project作者提供的原始Web组件库.
 - [Skate](https://github.com/skatejs/skatejs) -Web组件库专注于功能渲染管线和较小的占用空间.
 - [slim.js](https://github.com/slimjs/slim.js) -基于现代标准的快速，强大的前端微框架.
-- [Stencil](https://github.com/ionic-team/stencil) - Compiler for generating Web Components.
+- [Stencil](https://github.com/ionic-team/stencil) -用于生成Web组件的编译器.
 
 ### Functional
 
@@ -180,6 +175,7 @@
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Elix](https://github.com/elix/elix) -用于常见用户界面模式的高质量，可定制的Web组件.
+- [Lion Web Components](https://github.com/ing-bank/lion) -一套高性能，可访问且灵活的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
@@ -194,26 +190,15 @@
 ### Angular
 
 - [Angular Elements Overview](https://angular.io/guide/elements)
-- [Angular Elements, Part I: A Dynamic Dashboard In Four Steps With Web Components](https://www.softwarearchitekt.at/post/2018/07/13/angular-elements-part-i-a-dynamic-dashboard-in-four-steps-with-web-components.aspx)
-- [Angular Elements, Part II: Lazy And External Web Components](https://www.softwarearchitekt.at/post/2018/07/29/angular-elements-part-ii-lazy-and-external-web-components.aspx)
-- [Angular Elements, Part III: Angular Elements Without Zone.Js](https://www.softwarearchitekt.at/post/2018/07/06/angular-elements-without-zone-js.aspx)
-- [Angular Elements, Part IV: Content Projection with Slots in Angular Elements (>=7)](https://www.softwarearchitekt.at/post/2018/10/31/content-projection-with-slots-in-angular-elements-7.aspx)
-- [Angular Elements, Part V: Your Options For Building Angular Elements With The CLI](https://www.softwarearchitekt.at/post/2019/01/27/building-angular-elements-with-the-cli.aspx)
 - [Building Custom Elements / Web Components with Angular 6](https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b)
+- [Using Web Components in Angular](https://coryrylan.com/blog/using-web-components-in-angular)
 - [Web Components With Angular Ivy In 6 Steps](https://www.softwarearchitekt.at/post/2019/05/18/web-components-custom-elements-with-angular-ivy-in-6-steps.aspx)
 
 ### Vue
 
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
-
-### Ember
-
-- [ember-shadow-dom](https://github.com/knownasilya/ember-shadow-dom)
-
-### Aurelia
-
-- [Aurelia Web Components plugin](https://github.com/aurelia/web-components)
+- [Using Web Components in Vue](https://coryrylan.com/blog/using-web-components-in-vue)
 
 ## Tools
 
@@ -248,6 +233,13 @@
   - [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
   - [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
 
+-《 Angular Elements》文章系列，作者： [Manfred Steyer](https://www.angulararchitects.io/about/)
+  - [Part I: A Dynamic Dashboard In Four Steps With Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-i/)
+  - [Part II: Lazy and External Web Components](https://www.angulararchitects.io/aktuelles/angular-elements-part-ii/)
+  - [Part III: Angular Elements Without Zone.Js](https://www.angulararchitects.io/aktuelles/angular-elements-part-iii/)
+  - [Part IV: Content Projection with Slots in Angular Elements (>=7)](https://www.angulararchitects.io/aktuelles/content-projection-with-slots-in-angular-elements-7/)
+  - [Part V: Your Options for Building Angular Elements with the CLI](https://www.angulararchitects.io/aktuelles/your-options-for-building-angular-elements/)
+
 ## Podcasts
 
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
@@ -272,6 +264,11 @@
 其中一些参考了较早的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
 这些材料仅出于历史原因在这里，它们按年份分组并按时间顺序列出.
 
+### 2018
+
+- [Web Components in 2018](https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/)
+- [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
+
 ### 2017
 
 - [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
@@ -280,11 +277,14 @@
 
 ### 2016
 
+- [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/)
 - [Demythstifying Web Components](http://www.backalleycoder.com/2016/08/26/demythstifying-web-components/)
+- [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/)
 - [Understanding Web Components](https://medium.com/the-ui-files/understanding-web-components-d051baa66019)
 
 ### 2015
 
+- [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/)
 - [Web Components and their role in the future of web development](http://kaytcat.github.io/web-components/)
 - [Microsoft Edge and Web Components](https://blogs.windows.com/msedgedev/2015/07/15/microsoft-edge-and-web-components/)
 - [Bringing componentization to the web: An overview of Web Components](https://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/)

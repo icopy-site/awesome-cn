@@ -77,7 +77,6 @@
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) -与约书亚·戴维斯（Joshua Davis）一起学习生成艺术和艺术处理.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/)  -Matt DesLauriers的工作坊.  教您有关生成艺术，交互式动画，3D图形和着色器的知识.
 
-
 ## Tools
 
 ### Frameworks • Libraries • Ecosystems
@@ -113,6 +112,7 @@
 - [XOD](https://xod.io/) [跨平台]-用于基于微控制器的项目的开源可视化编程语言和环境.
 - [Isadora](https://troikatronix.com) [跨平台]-具有集成投影映射器的基于场景的媒体控制软件.
 - [cables](https://cables.gl)  [跨平台/ Web]-用于创建漂亮的交互式内容的模型套件.  当前处于私人Beta版，可以请求邀请.
+- [eternal](https://github.com/kousun12/eternal) [Web]-程序作为图形，图形作为合成工具
 - [Notch Builder](https://www.notch.one)  [Win]-基于节点的创作工具，重点关注实时图形.  目前处于测试阶段.
 - [Synopsis](https://synopsis.video/) -一套用于计算摄影的开源软件.
 - [JOY.JS](https://ncase.me/joy/) -实时视觉编码工具，易于理解，针对初学者.
@@ -123,7 +123,7 @@
 - [TidalCycles](https://tidalcycles.org/) -用于模式实时编码的领域特定语言.
 - [Sonic Pi](http://sonic-pi.net/) -每个人的现场编码音乐合成器.
 - [Csound](https://csound.com/) -声音和音乐计算系统.
-- [Orca](https://100r.co/pages/orca.html) -实时编码环境，可快速创建过程定序器.
+- [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
 
 ### Web Programming • Libraries
 
@@ -160,7 +160,6 @@
 - [Millumin](https://www.millumin.com/v3/index.php) [Mac]-用于创建和执行交互式视听节目的软件.
 - [Smode](https://smode.fr/) [Win]-实时2D / 3D创建，合成和视频映射引擎.
 - [Veejay](http://veejayhq.net/) [Linux]-一种现场表演工具，具有简单的非线性编辑功能，可从多个来源（文件，设备，流...）进行混合
-
 
 ### Online
 
@@ -208,7 +207,6 @@
 - [Klak](https://github.com/keijiro/Klak) -使用Unity进行创意编码的脚本集合.
 - [basil.js](http://basiljs.ch/) -秉承处理的精神，在InDesign中为设计师和艺术家提供脚本（JS）.
 
-
 ## Learning Resources
 
 ### Videos
@@ -240,7 +238,6 @@
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -Matt DesLauriers的FITC谈谈他对艺术创作的热情.
-
 
 ### Articles • Tutorials
 
@@ -317,7 +314,6 @@
 - [Tips to Improve Your Generative Artwork](http://www.tylerlhobbs.com/writings/tips) -技巧，使您的艺术品看起来更好.
 - [Working With Color in Generative Art](http://www.tylerlhobbs.com/writings/generative-colors) -有关如何正确选择颜色的提示.
 
-
 ### Interactive
 
 - [Shader-school](https://github.com/stackgl/shader-school) -GLSL着色器和图形编程研讨会.
@@ -330,7 +326,6 @@
 - [Bubble Breakdown](http://mrl.nyu.edu/~perlin/bubble_breakdown/) -着色器由Perlin分解.
 - [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) -关于编写光线行进器的交互式着色器玩具.
 - [Raymarching](https://www.shadertoy.com/view/4dSfRc) -交互式Shader-Toy raymarching教程.
-
 
 ### Quick References • Cheatsheets
 
@@ -353,17 +348,16 @@
 - [Visual Noises](https://ramesaliyev.com/visual-noises/) -可视化一维和二维噪声算法.
 - [Trigonoparty](https://ramesaliyev.com/trigonoparty/) -简单的三角可视化.
 
-
 ## Communities
 
 ### Subreddits
 
 - [r/creativecoding](https://www.reddit.com/r/creativecoding/) -分享和讨论将计算机编程用作创新学科.
-- [r/raytraycing](https://www.reddit.com/r/raytracing/) -光线追踪子网.
+- [r/raytraycing](https://www.reddit.com/r/raytracing/) -关于光线追踪的修订.
 - [r/opengl](https://www.reddit.com/r/opengl/) -在所有平台上有关OpenGL的新闻和讨论.
 - [r/graphicsprogramming](https://www.reddit.com/r/GraphicsProgramming/) -关于图形编程的修订.
 - [r/processing](https://www.reddit.com/r/processing/) -处理上的修订.
-- [r/shaders](https://www.reddit.com/r/shaders/) -着色器上的子网.
+- [r/shaders](https://www.reddit.com/r/shaders/) -在着色器上进行subreddit.
 - [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) -在程序生成上屈服.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) -对机器学习有所了解.
 
@@ -382,7 +376,7 @@
 - [Data Stories](http://datastori.es/) -关于数据可视化的播客.
 - [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) -大量的着色器和数学相关资源.
 - [Pass The Pen](https://spectrum.chat/codepen/pass-the-pen/) -前端开发人员社区，他们在CodePen上构建协作式创意编码项目.
-
+- [Creative Tech Weekly](https://us19.campaign-archive.com/home/?u=ac884610ba6fe07f4988a2182&id=ad49a755b1) -有关创意技术的每周资源通讯.
 
 ## Math
 
@@ -425,7 +419,7 @@
 - [ml4a](http://ml4a.github.io/) -艺术家的机器学习.
 - [Keras.js](https://transcranial.github.io/keras-js/) -在具有GPU支持的浏览器中运行Keras模型（tensorflow后端）.
 - [Tesseract.js](http://tesseract.projectnaptha.com/) -纯Javascript多语言OCR.
-- [Google ML](https://cloud.google.com/ml/) - Cloud machine learning by Google.
+- [Google ML](https://cloud.google.com/ml/) -Google的云端机器学习.
 - [TensorFlow](https://www.tensorflow.org/) -用于机器智能的开源软件库.
 - [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/started.html) -在浏览器中进行深度学习.
 - [Wekinator](http://www.wekinator.org/) -允许任何人使用机器学习.
@@ -460,7 +454,6 @@
 - [DevArt](https://devart.withgoogle.com/) -通过艺术家的代码庆祝艺术，推动创造力的发展.
 - [Folds2d](http://folds2d.tumblr.com/) -带有曲线，曲面，标量和矢量场的Tumblr.
 - [W:BLUT Inspiration](http://inspiration.wblut.com/) -通过W：Blut收集gif，链接和图像.
-
 
 ## Events
 
@@ -502,7 +495,6 @@
 - [simonschreibt.de](https://simonschreibt.de/) -游戏技巧，Simon撰写的设计技巧.
 - [sighack.com](https://sighack.com/) -Manohar Vanga撰写的有关生成艺术算法和技术的博客.
 
-
 ## Related
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) -精选的OpenGL库，调试器和资源清单.
@@ -520,11 +512,9 @@
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) -2013年精选清单.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) -用于3D机器学习的资源库.
 
-
 ## Special Thanks
 
 [<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
-
 
 ## License
 

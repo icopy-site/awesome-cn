@@ -24,6 +24,7 @@
 - [douban-box](https://github.com/CodeDaraW/douban-box) -更新固定要点，以包含有关豆瓣网有关书籍/电影/音乐的最新用户状态.
 - [todoist-box](https://github.com/yohix/todoist-box) -更新固定的要点，以包含您的Todoist统计信息.
 - [movie-box](https://github.com/LuisAlejandro/movie-box) -更新固定的要点，以包含Trakt.tv的媒体中心统计信息.
+- [productive-box](https://github.com/maxam2017/productive-box) -更新固定的要点，以包含您白天最忙碌的时间.
 
 ## GitHub
 
