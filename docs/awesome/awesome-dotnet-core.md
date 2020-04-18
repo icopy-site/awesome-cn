@@ -70,7 +70,7 @@
 * [Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET) -高效可靠的UDP单播，UDP组播和IPC消息传输-Aeron的.NET端口.
 * [akka.net](https://github.com/akkadotnet/akka.net) -用于在.NET和Mono上构建高度并发，分布式和容错事件驱动的应用程序的工具包和运行时.
 * [Aggregates.NET](https://github.com/volak/Aggregates.NET) -Aggregates.NET是一个框架，可帮助开发人员将出色的NServiceBus和EventStore库集成在一起.
-* [ASP.NET MVC](https://github.com/aspnet/Mvc) -模型视图控制器框架，用于构建关注点完全分离的动态网站，包括合并的MVC，Web API和带有Razor的Web页面.
+* [ASP.NET MVC](https://github.com/dotnet/aspnetcore/tree/master/src/Mvc) -模型视图控制器框架，用于构建关注点完全分离的动态网站，包括合并的MVC，Web API和带有Razor的Web页面.
 * [Butterfly Server .NET](https://github.com/firesharkstudios/butterfly-server-dotnet)  -允许轻松构建实时Web应用程序和本机应用程序.  定义一个Web API和Subscription API，它们可以自动在连接的客户端之间同步数据集.
 * [CAP](https://github.com/dotnetcore/CAP) -具有本地持久消息功能的EventBus，用于SOA或微服务体系结构中的系统集成.
 * [Carter](https://github.com/CarterCommunity/Carter) -Carter是一个库，它允许将Nancy式路由与ASP.Net Core一起使用.
@@ -100,7 +100,7 @@
 * [Nancy](https://github.com/NancyFx/Nancy) -轻量级，低礼仪的框架，用于在.NET和Mono上构建基于HTTP的服务.
 * [opencvsharp](https://github.com/shimat/opencvsharp) -用于OpenCV的.NET Framework包装器.
 * [orleans](https://github.com/dotnet/orleans) -框架，提供了一种直接的方法来构建分布式大规模计算应用程序，而无需学习和应用复杂的并发或其他扩展模式.
-* [Prism](https://github.com/PrismLibrary/Prism) -Prism是用于在WPF，Windows 10 UWP和Xamarin Forms中构建松耦合，可维护和可测试的XAML应用程序的框架.
+* [Prism](https://github.com/PrismLibrary/Prism) -Prism是用于在WPF，Windows 10 UWP和Xamarin Forms中构建松散耦合，可维护和可测试的XAML应用程序的框架.
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) -适用于Golang和C的超快速分布式演员# [http://proto.actor](http://proto.actor).
 * [resin](https://github.com/kreeben/resin) -具有HTTP API和可插拔读/写管道的16位宽矢量空间搜索引擎.
 * [RService.io](https://github.com/Stoom/RService.IO) -专注于速度和易用性的ASP.Net Core RESTful微服务框架.
@@ -226,7 +226,7 @@
   * [MiniCover](https://github.com/lucaslorentz/minicover) -.NET Core的极简代码覆盖率工具.
   * [NBench](https://github.com/petabridge/NBench) -.NET应用程序的性能基准测试框架.
   * [Nexogen.Libraries.Metrics](https://github.com/nexogen-international/Nexogen.Libraries.Metrics) -用于在.NET中收集应用程序指标并将其导出到Prometheus的库.
-  * [OpenCover](https://github.com/OpenCover/opencover) -适用于.NET 2及更高版本的代码覆盖工具（仅适用于WINDOWS OS），支持32和64个带有分支点和顺序点的进程.
+  * [OpenCover](https://github.com/OpenCover/opencover) -适用于.NET 2及更高版本（仅限WINDOWS OS）的代码覆盖工具，支持带有分支点和序列点的32和64个进程.
   * [PerformanceMonitor](https://github.com/dotnet-architecture/PerformanceMonitor) -.NET核心应用程序性能监视器.
   * [prometheus-net](https://github.com/prometheus-net/prometheus-net) -.NET客户端 [https://prometheus.io](https://prometheus.io).
   * [Prometheus.Client](https://github.com/PrometheusClientNet/Prometheus.Client) -.NET客户端 [Prometheus](https://prometheus.io).
@@ -389,7 +389,7 @@
 * [Lamar](https://github.com/JasperFx/lamar) -快速反转罗斯林制酒厂的控制工具和杂物.
 * [LightInject](https://github.com/seesharper/LightInject) - Ultra lightweight IoC container.
 * [SimpleInjector](https://github.com/simpleinjector/SimpleInjector) -简单，灵活和快速的依赖注入库，可促进最佳实践，以引导开发人员迈向成功之路.
-* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻量级便携式依赖注入框架.
+* [Stashbox](https://github.com/z4kn4fein/stashbox) -用于基于.NET的解决方案的轻巧，可移植的依赖项注入框架.
 * [Unity](https://github.com/unitycontainer/unity) -轻巧，可扩展的依赖项注入容器.
 
 ### Logging
@@ -498,14 +498,14 @@
 * [Sheller](https://github.com/twitchax/Sheller) -一个.NET库，使shell命令超级简单和流畅.
 * [SmartFormat.NET](https://github.com/scottrippey/SmartFormat.NET) -string.Format的可扩展替代.
 *股票
-  * [Trady](https://github.com/lppkarl/Trady) -方便的库，用于计算技术指标，它的目标是成为一个自动交易系统，提供股票数据馈送，指标计算，战略制定和自动交易.
+  * [Trady](https://github.com/lppkarl/Trady) -用于计算技术指标的便捷库，它的目标是成为一个自动交易系统，提供股票数据馈送，指标计算，战略制定和自动交易.
 * [System.Linq.Dynamic.Core](https://github.com/StefH/System.Linq.Dynamic.Core) -System Linq Dynamic功能的.NET Standard（.NET Core）版本.
 * [UnitsNet](https://github.com/angularsen/UnitsNet) -Units.NET为您提供所有常用的度量单位以及它们之间的转换.
 *验证
   * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) -用于.NET的小型验证库，该库使用流利的接口和lambda表达式构建验证规则.
   * [Guard](https://github.com/safakgur/guard) -高性能，可扩展的参数验证库.
   * [Valit](https://github.com/valit-stack/Valit)  -对.NET Core的简单验证.  您的代码周围不再有if语句.  改写漂亮干净的流利的验证器！
-* [Vanara](https://github.com/dahall/Vanara) -一组用于Windows的.NET库，用于通过支持包装程序对许多本机Windows API进行PInvoke调用.
+* [Vanara](https://github.com/dahall/Vanara) -一组用于Windows的.NET库，通过支持的包装程序实现了对许多本机Windows API的PInvoke调用.
 * [warden-stack](https://github.com/warden-stack)  -针对您的应用程序，资源和基础架构的“运行状况检查”.  保持您的守望者在手表上.
 * [WebEssentials.AspNetCore.ServiceWorker](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) -ASP.NET Core渐进式Web应用程序.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application.
@@ -766,7 +766,7 @@
   * [AutoHistory](https://github.com/Arch/AutoHistory) -Microsoft.EntityFrameworkCore的插件，支持自动记录数据更改历史记录.
 * [AspNetCore-Angular2-Universal](https://github.com/MarkPieszak/aspnetcore-angular2-universal) -跨平台-带有SEO，Bootstrap，i18n国际化（ngx-translate），Webpack，TypeScript，带有Karma的单元测试，WebAPI REST设置，SignalR，Swagger文档等服务器端渲染！
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
-* [aspnetcore-spa generator](https://github.com/aspnet/JavaScriptServices) -Yeoman生成器生成一个全新的ASP.NET Core单页应用程序，该应用程序在客户端上使用Angular 2 / React / React with Redux / Knockout / Aurelia.
+* [aspnetcore-spa generator](https://github.com/aspnet/JavaScriptServices) -Yeoman生成器生成一个全新的ASP.NET Core单页应用程序，该应用程序在客户端上使用Angular 2 / React / React With Redux / Knockout / Aurelia.
 * [ASP.Net Core Vue Starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) -Asp.NETCore 2.0 Vue 2（ES6）SPA入门套件，包含路由，Vuex等！
 * [bitwarden-core](https://github.com/bitwarden/core) -核心基础架构后端（API，数据库等） [https://bitwarden.com](https://bitwarden.com).
 * [dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.
@@ -778,7 +778,7 @@
 
 ## Sample Projects
 *微服务和服务网格
-  * [A lightweight Contact management (CRM)](https://github.com/tungphuong/crm) -这是在微服务架构中制作的简化的联系人管理系统（.Net Core 3.0，React，带有热巧克力的GraphQL，Identity Server 4，gRPC，CQRS，RabbitMQ，Monitoring，Jaeger，Azure Pipeline，Seq，K8s，Linkerd，Helm 3）
+  * [A lightweight Contact management (CRM)](https://github.com/tungphuong/crm) -这是使用微服务架构（.Net Core 3.0，React，带有热巧克力的GraphQL，Identity Server 4，gRPC，CQRS，RabbitMQ，Monitoring，Jaeger，Azure Pipeline，Seq，K8s，Linkerd，Helm的微服务架构制成的简化的联系人管理系统3）
   * [coolstore-microservices ](https://github.com/vietnam-devs/coolstore-microservices) -具有Istio服务网格的基于Kubernetes的多语言微服务应用程序
   * [distributed-playground](https://github.com/jvandevelde/distributed-playground) -具有Vagrant，Consul，Docker和ASP.NET Core的分布式服务平台.
   * [DNC-DShop](https://github.com/devmentors)  -分布式.NET Core项目和免费课程.  （DDD，CQRS，RabbitMQ，MongoDB，Redis，监控，日志记录，CI，CD）
@@ -794,7 +794,7 @@
   * [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) -ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
   * [aspnet-servicediscovery-patterns](https://github.com/cecilphillip/aspnet-servicediscovery-patterns) -使用ASP.NET Core实现服务发现模式的示例.
   * [AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) -讨论ASP.NET Core授权中各种新内容的研讨会
-  * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 在2016年12月的Connect大会上发表了一系列面向企业用户和消费者（骑自行车的人）的交互应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
+  * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 提出了December Connect 2016 Conference，这是一组面向企业用户和消费者（骑自行车的人）的互通应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
  [Azure Bot App](https://github.com/Microsoft/BikeSharing360_BotApps).
   * [Clean Architecture Manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Clean Architecture sample with .NET Core 3.0 and C# 8. Use cases as central organising structure, completely testable, decoupled from frameworks.
   * [cloudscribe](https://github.com/cloudscribe/cloudscribe) -ASP.NET Core多租户Web应用程序基础.
@@ -806,8 +806,8 @@
   * [GenVue](https://github.com/herbat73/GenVue) -可托管的Web应用程序，允许机密用户上传和共享基于Vue.js，Vuetifyjs和NetCore WebAPI堆栈的私有文件
   * [guidance-identity-management-for-multitenant-apps](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) -如何使用Azure Active Directory进行身份验证在Microsoft Azure上的多租户应用程序中管理用户身份.
   * [JustA.ML](https://github.com/mustakimali/JustA.ML)  -一个Web应用程序，可让您在用ASP.NET Core 2.0编写的设备之间共享文件/ URL /文本.  开源，生活在 [https://justa.ml](https://justa.ml)
-  * [MegaMine](https://github.com/Nootus/MegaMine) -开源采矿解决方案，可帮助矿工提取金，石英，花岗岩等.此解决方案使用ASP.NET Core和AngularJS构建，并以微服务的方式利用多个轻量级组件.
-  * [MusicStore](https://github.com/aspnet/MusicStore) -使用MVC和实体框架的示例MusicStore应用程序.
+  * [MegaMine](https://github.com/Nootus/MegaMine) -开源采矿解决方案，可帮助矿工提取金，石英，花岗岩等.此解决方案是使用ASP.NET Core和AngularJS构建的，并以微服务的方式利用了多个轻量级组件.
+  * [MusicStore](https://github.com/dotnet/aspnetcore/tree/master/src/MusicStore) -使用MVC和实体框架的示例MusicStore应用程序.
   * [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) -具有.NET Core Preview 2的NLayerAppV3 N层体系结构.
   * [NorthwindTraders](https://github.com/JasonGT/NorthwindTraders) -Northwind Traders是使用ASP.NET Core和Entity Framework Core构建的示例应用程序.
   * [Orchard Core - Modular and Multi-tenant applications](https://github.com/OrchardCMS/OrchardCore.Samples) -使用Orchard Core Framework创建模块化和多租户应用程序.

@@ -19,7 +19,7 @@
 ### Toolkits
 - [Preact CLI](https://github.com/developit/preact-cli) -在几秒钟内构建一个Preact Progressive Web App.
 - [nwb](https://github.com/insin/nwb) -使用React，Inferno或Preact快速开发.
-- [React App Rewire Preact](https://github.com/timarney/react-app-rewired) - Use Preact with create-react-app without ejecting.
+- [React App Rewire Preact](https://github.com/timarney/react-app-rewired) -结合使用Preact和create-react-app而不弹出.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) -它会删除Preact CLI上的默认postcss配置，因此您可以使用postcss.config.js.
 - [Create Preact App](https://github.com/just-boris/create-preact-app) -创建没有构建配置的Preact应用.
 - [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) -Storybook for Preact是用于Preact组件的UI开发环境.
@@ -31,7 +31,7 @@
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) -使用TypeScript进行Preact的准系统入门项目.
 - [TypeScript PWA Preact Starter](https://github.com/bmitchinson/preact-typescript-pwa-starter) -具有TypeScript和SASS的PWA Starter（131kb）
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) -使用Redux示例的服务器端渲染.
-- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) -PWA专注于原始性能，服务器端渲染，预渲染，redux，express，汇总.
+- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) -由Parcel提供支持的绝对最小的Preact入门项目.
 
 ### Routing
@@ -53,10 +53,10 @@
 - [Preact Cycle](https://git.io/preact-cycle) -Preact的功能反应范例.
 - [Preact Layout](https://download.github.io/preact-layout/) -小而简单的布局库.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) -的Preact插件 [Socrates](http://github.com/matthewmueller/socrates).
-- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 利用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
+- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 使用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
 - [Preact I18nline](https://github.com/download/preact-i18nline) -整合周围的生态系统 [i18n-js](https://github.com/everydayhero/i18n-js) 通过Preact通过 [i18nline](https://github.com/download/i18nline).
 - [Preact MUI](https://git.io/v1aVO) -MUI CSS Preact库.
-- [Preact MDL](https://git.io/preact-mdl) - 利用 [MDL](https://getmdl.io) 作为Preact组件.
+- [Preact MDL](https://git.io/preact-mdl) - 使用 [MDL](https://getmdl.io) 作为Preact组件.
 - [Preact Photon](https://git.io/preact-photon) -使用构建漂亮的桌面UI [photon](http://photonkit.com).
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) -创建没有class关键字的preact组件.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) -用于创建元素的类似于超脚本的语法.
@@ -84,7 +84,8 @@
 - [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建preact组件，受到elm的启发.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) -零学习曲线的React，Preact和Inferno的快速轻松状态管理.
-- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 利用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
+- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 使用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
+- [hooked-head](https://github.com/JoviDeCroock/hooked-head)  -钩子操纵` <head>  DOM部分.  它有一个带有核心preact支持的子包（使用`preact / hooks`）.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -JSX断言测试_（没有DOM，就在Node中）_.

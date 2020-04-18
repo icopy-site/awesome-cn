@@ -64,7 +64,7 @@
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) -使用OAuth2身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
 - ：草莓： [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) -事件驱动的行为，可轻松生成一次性使用的安全令牌.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) -轻松构建支持SaaS的Web应用程序.
-- ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -身份验证和基于角色的（单/多）授权，是一种非常轻巧的方法.
+- ：草莓： [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) -基于身份验证和基于角色的（单/多）授权，这是一种非常轻巧的方法.
 - ：草莓： [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) -包含 [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) 用于密码哈希的DRY方法.
 - ：草莓： [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth)  -允许使用Google Authenticator或类似应用进行两因素身份验证，以生成一次性代码.  基于 [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) 图书馆.
 - [UserPermissions plugin](https://github.com/AlessandroMinoccheri/UserPermissions) -允许用户组或单个用户查看特定页面.
@@ -107,7 +107,7 @@
 *用于发送和解析电子邮件的插件.
 
 - [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) -电子邮件传输插件，用于通过Elastic Email API发送电子邮件.
-- [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) -具有预览和发件人外壳的电子邮件队列插件.
+- ：草莓： [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) -具有预览和发件人外壳的电子邮件队列插件.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) -电子邮件帮助程序，布局等.
 - ：草莓： [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
 - [SendGrid plugin](https://github.com/sprintcube/cakephp-sendgrid) -电子邮件传输插件，用于通过SendGrid API发送电子邮件.
@@ -126,7 +126,7 @@
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) -使用Flysystem进行抽象文件系统访问.
 - [Image plugin](https://github.com/josbeir/image) -图像行为与Cake在TranslateBehavior中内置的行为非常相似.
 - ：草莓： [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) -摘要 [Flysystem](https://flysystem.thephpleague.com/) +基于文件实体的上传插件.
-- [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) -使用 [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
+- ：草莓： [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) -使用 [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) -具有缩略图生成功能的可自定义上传插件.
 - [Xety/Cake3Upload plugin](https://github.com/Xety/Cake3-Upload) -一个用于上传文件的小插件.
 
@@ -314,7 +314,7 @@
 ## SEO
 *搜索引擎优化.*
 
-- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -一个用于生成弹头并按弹头查找记录的插件.  使用可插拔的体系结构，该体系结构允许使用您自己的Slug生成器类.
+- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -一个用于生成弹头并按弹头查找记录的插件.  使用可插拔的体系结构，该体系结构允许使用您自己的slug generator类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) -自动创建和管理您的SEO标签.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) -一个简单的Cake3插件，用于处理字段和按记录查找记录.
 - ：草莓： [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的.

@@ -174,7 +174,7 @@
 
 ## Command-line Tools
 
-*Useful CLI-based tools for productivity.*
+*有用的基于CLI的工具可提高生产力.*
 
 *生产力工具
     * [cookiecutter](https://github.com/audreyr/cookiecutter) -从cookiecutter（项目模板）创建项目的命令行实用程序.
@@ -184,7 +184,7 @@
     * [PathPicker](https://github.com/facebook/PathPicker) -从bash输出中选择文件.
     * [percol](https://github.com/mooz/percol) -在UNIX上的传统管道概念中增加了交互式选择的风格.
     * [thefuck](https://github.com/nvbn/thefuck) -更正先前的控制台命令.
-    * [tmuxp](https://github.com/tony/tmuxp) - 一个 [tmux](https://github.com/tmux/tmux) 会话管理器.
+    * [tmuxp](https://github.com/tony/tmuxp) - 一种 [tmux](https://github.com/tmux/tmux) 会话管理器.
     * [try](https://github.com/timofurrer/try) -死了的简单CLI，可以试用python软件包-从未如此简单.
 * CLI增强功能
     * [httpie](https://github.com/jakubroztocil/httpie) -命令行HTTP客户端，方便用户的cURL替换.
@@ -249,6 +249,7 @@
 * [Orange](https://orange.biolab.si/) -通过可视化编程或脚本进行数据挖掘，数据可视化，分析和机器学习.
 * [Pandas](http://pandas.pydata.org/) -提供高性能，易于使用的数据结构和数据分析工具的库.
 * [Optimus](https://github.com/ironmussa/Optimus) -使用PySpark简化了敏捷数据科学工作流程.
+* [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -AWS上的熊猫.
 
 ## Data Validation
 
@@ -299,7 +300,7 @@
     * [psycopg2](http://initd.org/psycopg/) -最受欢迎的Python PostgreSQL适配器.
     * [queries](https://github.com/gmr/queries) -psycopg2库的包装，用于与PostgreSQL交互.
 *其他关系数据库
-    * [pymssql](http://www.pymssql.org/en/latest/) -Microsoft SQL Server的简单数据库接口.
+    * [pymssql](https://pymssql.readthedocs.io/en/latest/) -Microsoft SQL Server的简单数据库接口.
     * [SuperSQLite](https://github.com/plasticityai/supersqlite) -建立在 [apsw](https://github.com/rogerbinns/apsw).
 * NoSQL数据库
     * [cassandra-driver](https://github.com/datastax/python-driver) -Apache Cassandra的Python驱动程序.
@@ -315,7 +316,7 @@
 
 *用于处理日期和时间的库.*
 
-* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，它提供了一种明智且人性化的方法来创建，操作，格式化和转换日期，时间和时间戳.
+* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，它提供了一种明智且人性化的方法来创建，处理，格式化和转换日期，时间和时间戳.
 * [Chronyk](https://github.com/KoffeinFlummi/Chronyk) -一个Python 3库，用于解析人类编写的时间和日期.
 * [dateutil](https://github.com/dateutil/dateutil) -对标准Python的扩展 [datetime](https://docs.python.org/3/library/datetime.html) 模块.
 * [delorean](https://github.com/myusuf3/delorean/) -一个库，用于清除与日期时间有关的不便事实.
@@ -469,7 +470,7 @@
 *邮件服务器
     * [modoboa](https://github.com/modoboa/modoboa) -包含现代Web UI的邮件托管和管理平台.
     * [salmon](https://github.com/moggers87/salmon) -Python邮件服务器.
-*客户
+* Clients
     * [imbox](https://github.com/martinrusev/imbox) -适用于人类的Python IMAP.
     * [yagmail](https://github.com/kootenpv/yagmail) -另一个Gmail / SMTP客户端.
 * 其他
@@ -603,7 +604,7 @@
 * [httplib2](https://github.com/httplib2/httplib2) -全面的HTTP客户端库.
 * [httpx](https://github.com/encode/httpx) -用于Python的下一代HTTP客户端.
 * [requests](https://github.com/psf/requests) -人类的HTTP请求.
-* [treq](https://github.com/twisted/treq) -像Twisted的HTTP客户端一样构建的API之类的Python请求.
+* [treq](https://github.com/twisted/treq) -Python要求，例如在Twisted的HTTP客户端之上构建的API.
 * [urllib3](https://github.com/shazow/urllib3) -具有线程安全连接池的HTTP库，支持文件发布，健全.
 
 ## Hardware
@@ -642,7 +643,7 @@
 * [CPython](https://github.com/python/cpython) -**默认的，最广泛使用的用C语言编写的Python编程语言的实现.**
 * [Cython](http://cython.org/) -针对Python优化静态编译器.
 * [CLPython](https://github.com/metawilm/cl-python) -以Common Lisp编写的Python编程语言的实现.
-* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，因为它是更强大的CPython2.7替代（alpha）.
+* [Grumpy](https://github.com/google/grumpy) -更多的编译器比更强大的CPython2.7替换（alpha）解释器.
 * [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 * [Jython](https://hg.python.org/jython) -为JVM用Java编写的Python编程语言的实现.
 * [MicroPython](https://github.com/micropython/micropython) -精简高效的Python编程语言实现.
@@ -931,7 +932,7 @@
     * [tablib](https://github.com/jazzband/tablib) -XLS，CSV，JSON，YAML中的表格数据集模块.
 *办公室
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) -用于读取和写入Excel 2010 xlsx / xlsm / xltx / xltm文件的库.
-    * [pyexcel](https://github.com/pyexcel/pyexcel) -提供一种用于读取，操作和写入csv，ods，xls，xlsx和xlsm文件的API.
+    * [pyexcel](https://github.com/pyexcel/pyexcel) -提供一个用于读取，操作和写入csv，ods，xls，xlsx和xlsm文件的API.
     * [python-docx](https://github.com/python-openxml/python-docx) -读取，查询和修改Microsoft Word 2007/2008 docx文件.
     * [python-pptx](https://github.com/scanny/python-pptx) -用于创建和更新PowerPoint（.pptx）文件的Python库.
     * [unoconv](https://github.com/unoconv/unoconv) -在LibreOffice / OpenOffice支持的任何文档格式之间转换.
