@@ -43,6 +43,8 @@
 
 ## Books
 
+- [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)  -回到您傻瓜的基础知识！  了解如何为您的职业做好清洁代码.  即使此列表与深度学习有关，这也是迄今为止我读过的最好的书.
+- [Clean Coder](https://www.amazon.ca/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)  -了解如何成为一名专业的编码员，以及如何与您的经理互动.  这对任何编码职业都很重要.
 - [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/B009VSFXZ4)  -通勤时听音频版本很不错.  本书旨在激发思想的逆向工程，并思考如何编写AI.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) -本书涵盖了神经网络和深度学习背后的许多核心概念.
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) -在本书中途，它包含了令人满意的数学内容，涉及如何思考实际的深度学习.
@@ -73,7 +75,7 @@
  - [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) -从大型语料库的无人监督预培训中跨许多NLP任务进行SOTA.
  - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/) -全部欢呼NLP的ImageNet时刻. 
  - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/) -了解用于NLP ImageNet时刻的不同方法. 
- - [Uncle Bob's Principles Of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) -不仅需要SOLID原则来编写简洁的代码，而且众所周知的REP，CCP，CRP，ADP，SDP和SAP原则对于开发必须捆绑在不同单独软件包中的大型软件非常重要.
+ - [Uncle Bob's Principles Of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) -不仅需要SOLID原则来编写干净的代码，而且众所周知的REP，CCP，CRP，ADP，SDP和SAP原则对于开发必须捆绑在不同单独软件包中的大型软件也非常重要.
  - [Why do 87% of data science projects never make it into production?](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/) -数据不可忽视，团队与数据科学家之间的沟通对于正确集成解决方案非常重要.
  - [The real reason most ML projects fail](https://towardsdatascience.com/what-is-the-main-reason-most-ml-projects-fail-515d409a161f) -专注于明确的业务目标，避免使用算法的枢纽，除非您拥有真正干净的代码，并且能够知道何时编写的代码“足够好”.
  
@@ -99,6 +101,7 @@
 - [Smoothly Blend Image Patches](https://github.com/guillaume-chevalier/Smoothly-Blend-Image-Patches) -平滑的补丁合并 [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
 - [Self Governing Neural Networks (SGNN): the Projection Layer](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) -这样一来，您就可以在深度学习模型中使用单词，而无需训练或加载嵌入内容.
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -Neuraxle是一个机器学习（ML）库，用于构建整洁的管道，提供正确的抽象以简化ML应用程序的研究，开发和部署.
+- [Clean Machine Learning, a Coding Kata](https://github.com/Neuraxio/Kata-Clean-Machine-Learning-From-Dirty-Code) -通过练习学习用于设计机器学习的好方法的良好设计模式.
 
 <a name="some-datasets" />
 
@@ -142,7 +145,7 @@
 
 ### Complex Numbers & Digital Signal Processing
 
-好的，信号处理可能与深度学习没有直接关系，但是研究在基于信号的神经体系结构开发中拥有更多的直觉是有趣的.
+Okay, signal processing might not be directly related to deep learning, but studying it is interesting to have more intuition in developing neural architectures based on signal.
 
 - [Window Functions](https://en.wikipedia.org/wiki/Window_function) -列出了一些已知窗口功能的Wikipedia页面-请注意， [Hann-Poisson window](https://en.wikipedia.org/wiki/Window_function#Hann%E2%80%93Poisson_window) 对于贪婪的爬坡算法（例如，梯度下降）而言，它特别有趣. 
 - [MathBox, Tools for Thought Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/) -傅立叶分析的新面貌.
@@ -188,7 +191,7 @@
 - [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) 史诗原始语音/音乐生成，具有基于因果卷积的新架构，可捕获更多音频长度.
 - [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) -3D-GAN用于生成3D模型并从嵌入中获得有趣的3D家具算术（想像具有3D家具表示形式的word2vec单词算术）.
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/ImageNet1kIn1h/) -CNN的快速分布式培训.
-- [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) -2017年CVPR最佳论文奖，该新神经网络体系结构被称为DenseNet，对CIFAR-10，CIFAR-100和SVHN数据集的最新性能产生了改进.
+- [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) -2017年CVPR最佳论文奖，该新神经网络架构被称为DenseNet，对CIFAR-10，CIFAR-100和SVHN数据集的最新性能产生了改进.
 - [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf) -融合了U-Net和DenseNet的思想，这种新的神经网络特别适用于图像分割中的大型数据集.
 - [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) -在损失中使用距离度量，从一些示例中确定对象属于哪个类.
 
@@ -225,11 +228,11 @@
 - [Attention Mechanisms in Recurrent Neural Networks (RNNs) - IGGG](https://www.youtube.com/watch?v=QuvRWevJMZ4) -一个关于注意力机制的阅读小组的演讲（论文：通过共同学习对齐和翻译的神经机器翻译）.
 - [Tensor Calculus and the Calculus of Moving Surfaces](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) -适当地概括Tensors的工作原理，但是仅仅观看一些视频已经对理解这些概念很有帮助.
 - [Deep Learning & Machine Learning (Advanced topics)](https://www.youtube.com/playlist?list=PLlp-GWNOd6m4C_-9HxuHg2_ZeI2Yzwwqt) -我发现有趣或有用的有关深度学习的视频列表，这是所有内容的组合.
-- [Signal Processing Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) -我编写的有关DFT / FFT，STFT和Laplace变换的YouTube播放列表-我很生气，因为我的软件工程学士学位不包括信号处理课程（量子物理学课程除外）.
+- [Signal Processing Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) -我撰写的有关DFT / FFT，STFT和Laplace变换的YouTube播放列表-我很生气，因为我的软件工程学士学位不包括信号处理课程（量子物理学课程除外）.
 - [Computer Science](https://www.youtube.com/playlist?list=PLlp-GWNOd6m7vLOsW20xAJ81-65C-Ys6k) -我撰写的另一个YouTube播放列表，这次涉及各种CS主题.
 - [Siraj's Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) -Siraj有有趣的，快节奏的有关深度学习的视频教程.
 - [Two Minute Papers' Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) -一些研究论文的有趣而浅薄的概述，例如有关WaveNet或神经样式转换的论文.
-- [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) -吴安德（George Ng）采访了杰弗里·欣顿（Geoffrey Hinton），后者谈论了他的研究和波谷，并为学生提供建议.
+- [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) -吴安德（George Ng）采访了杰弗里·欣顿（Geoffrey Hinton），后者谈论了他的研究和波谷，并为学生提供了建议.
 - [Growing Neat Software Architecture from Jupyter Notebooks](https://www.youtube.com/watch?v=K4QN27IKr0g) -有关使用Jupyter Notebooks时如何构建机器学习项目的入门.
 
 <a name="misc-hubs-and-links" />
@@ -248,4 +251,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Guillaume Chevalier](https://github.com/guillaume-chevalier) 已放弃此作品的所有版权以及相关或邻近的权利.

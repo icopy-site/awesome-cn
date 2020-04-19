@@ -35,9 +35,8 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
+-  [Firebase Tools UI](https://github.com/firebase/firebase-tools-ui) -Firebase模拟器套件的Web UI.
 -  [Typesaurus](https://github.com/kossnocorp/typesaurus) -用于Firestore的类型安全的TypeScript优先ODM.
--  [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) -用于C ++和Unity的C ++和Unity SDK（可通过Unity软件包管理器使用Firebase Unity SDK）.
--  [Firebase for Games](https://firebase.google.com/games) -新的Firebase游戏登陆页面，其中包含指向游戏开发者的Firebase / Google资源的链接.
 -  [asdf-firebase](https://github.com/jthegedus/asdf-firebase) -一个 [asdf-vm](https://asdf-vm.com/)  firebase-tools的插件.  在没有Node.js或`npm`的情况下管理您的Firebase CLI！  非常适合python，golang，c ++和java Firebase项目.
 -  [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/)  -存储在远程配置中的CSS的动态/有条件加载.  （[Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
 -  [Firebase Extensions](https://firebase.google.com/products/extensions) -Firebase Extensions为您的应用程序提供了扩展功能，而无需自己研究，编写或调试代码.
@@ -48,6 +47,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Firebase Status Dashboard](https://status.firebase.google.com) -此页面提供有关Firebase一部分服务的状态信息.
 -  [Firebase Quickstarts](https://github.com/firebase?utf8=%E2%9C%93&q=quickstart&type=&language=) -官方Firebase快速入门.
 -  [Google Codelabs | Firebase](https://codelabs.developers.google.com/?cat=Firebase) -Google Developers Codelabs提供了指导性的，动手的编码经验.
+-  [Firebase for Games](https://firebase.google.com/games) -新的Firebase游戏登陆页面，其中包含指向游戏开发者的Firebase / Google资源的链接.
 
 ## Web
 
@@ -99,6 +99,10 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Firebase UI](https://github.com/firebase/firebaseui-ios) -用于Firebase的iOS UI绑定.
 -  [MLKit - ARCore](https://github.com/FirebaseExtended/MLKit-ARCore)  -检测对象并在增强现实中使用3D标签标记它们的示例.  使用Firebase ML Kit，ARCore和Firebase RTDB.
 -  [MLKit - ARKit](https://github.com/FirebaseExtended/MLKit-ARKit) -使用Firebase ML Kit检测对象并在增强现实中使用3D标签标记对象的示例.
+
+## Games
+
+-  [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) -用于C ++和Unity的C ++和Unity SDK（可通过Unity软件包管理器使用Firebase Unity SDK）.
 
 ## Server-side (Cloud Functions, BigQuery etc)
 

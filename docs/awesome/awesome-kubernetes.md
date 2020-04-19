@@ -229,6 +229,7 @@ Installers
 - [Continuous Integration and Delivery to AWS Kubernetes](https://semaphoreci.com/blog/continuous-integration-delivery-aws-eks-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
 - [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
 - [How to Release Faster with Continuous Delivery for Google Kubernetes](https://semaphoreci.com/blog/continuous-delivery-google-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
+- [Build, Test & Deploy to Kubernetes](https://buddy.works/guides/how-optimize-kubernetes-workflow) 通过 [Buddy](https://buddy.works)
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 - [Kubernetes Deployments: The Ultimate Guide](https://semaphoreci.com/blog/kubernetes-deployment) 通过 [Jérôme Petazzoni](https://twitter.com/jpetazzo)
 
@@ -242,7 +243,7 @@ Installers
 - [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/) 通过 [Christoph Hartmann](https://twitter.com/chri_hartmann)
 - [Cluster Consul using Kubernetes API](http://www.devoperandi.com/cluster-consul-using-kubernetes-api/)
 
-*  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
+*  [Packaging Multiple Resources together](https://planet.jboss.org/post/kubernetes_application_package_multiple_resources_together) 通过阿伦·古普塔（Arun Gupta）
 *  [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) 通过 [Carlos Sanchez](https://twitter.com/csanchez)
 * [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](http://access.redhat.com/articles/1353773) 通过 [Chris Negus](https://twitter.com/linuxcricket)
 * [Containerizing Docker on Kubernetes !!](http://www.linkedin.com/pulse/containerizing-docker-kubernetes-ramit-surana) 通过 [Ramit Surana](https://twitter.com/ramitsurana)
@@ -268,6 +269,8 @@ Installers
 * [Simplify your research experiments with Kubernetes](https://www.ovh.com/blog/simplify-your-research-experiments-with-kubernetes/) 通过 [Parmentier Laurent](https://www.linkedin.com/in/laurent-parmentier-33187948/)
 * [Self-registering compact k3OS clusters to Rancher Server via cloud-init](https://medium.com/@jamesdavidbohrman/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8) 通过 [James D. Bohrman](https://github.com/jdbohrman)
 * [Benchmarking 5 Popular Load Balancers: Nginx, HAProxy, Envoy, Traefik, and ALB](https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb/)
+* [Magento on Kubernetes](https://buddy.works/guides/magento-kubernetes)
+* [Wordpress in Docker with Kubernetes](https://buddy.works/guides/wordpress-docker-kubernetes-part-3)
 
 托管省长
 =======================================================================
@@ -510,7 +513,7 @@ Projects
 
 * [CNAB](https://cnab.io) -CNAB促进了容器本地应用程序及其耦合服务的捆绑，安装和管理.
 * [Helm](http://helm.sh) -有关更多信息，请查看- [Awesome Helm](https://github.com/cdwv/awesome-helm).
-* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他服务）.
+* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他）.
 
 ## Monitoring Services
 
@@ -581,7 +584,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最好的OSS工具（例如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -602,6 +605,7 @@ Projects
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
 * [Werf](https://werf.io)  -具有高级功能的GitOps工具可构建映像并将其部署到Kubernetes.  与任何现有的CI系统集成.
+* [Buddy](https://buddy.works)
 
 ## Serverless Implementations
 

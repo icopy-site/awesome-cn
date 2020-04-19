@@ -9,16 +9,22 @@
 
  -“资源真棒！”  —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178)， 推特
 -“再次感谢您整合了这一巨大资源！”[Dave Golden](https://twitter.com/xdg)，MongoDB和贡献者
--“在过去的几个月中，我已经反复狩猎并使用了这种材料，并将其他材料转介给其他人.所以谢谢您-它以比您想象的更多的方式产生了真正的改变！:)”-Dave Igoe，通过Slack
+-“在过去的几个月中，我已经反复狩猎并使用了这种材料，并将许多其他材料推荐给该材料.谢谢您-它以比您想象的更多的方式产生了真正的改变！:)”-戴夫·伊戈伊
+
+ -“如果我进一步了解的话，那就是站在巨人的肩膀上.”  —艾萨克·牛顿爵士
+ -“如果我还没有看到，那是因为巨人站在我的肩膀上.”  -很多人，包括Leigh Caplan
+ -“人们需要停止使用“天生的领导者”一词.  没有人是天生的领导者.”  — [Kate Heddleston](https://twitter.com/heddle317) 
 
 - [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
+- [Building Teams](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Teams.md)
 - [Conflict Prevention and Conflict Resolution](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
 - [The CTO Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/The-CTO-role.md)
 - [Culture](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Culture.md)
 - [Decision-Making](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Decision-Making.md)
 - [Delegation](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Delegation.md)
-- [Diversity and Gender](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Diversity-and-Gender.md)
+- [Diversity and Inclusion](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Diversity-and-Inclusion.md)
+- [Empathy and Listening](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Empathy-and-Listening.md)
 - [Firing](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Firing.md)
 - [Giving Feedback, Praise, and Advice](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Giving-Feedback-Praise-and-Advice.md)
 - [Hiring and Interviewing Candidates](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Hiring-and-Interviewing.md)
@@ -42,31 +48,21 @@
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
 - [The VP Engineering Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/VP-Engineering-Role.md)
 
- *“如果我看得更远，那就是站在巨人的肩膀上.”  —艾萨克·牛顿爵士 <br>
- *“如果我还没有看到，那是因为巨人站在我的肩膀上.”  -很多人，包括Leigh Caplan <br>
- *“人们需要停止使用“天生的领导者”一词.  没有人是天生的领导者.”  — [Kate Heddleston](https://twitter.com/heddle317)
-
-## Contribute Your Favorites
- 请将您喜欢的管理和领先资源（如书籍，文章，Twitter提要，视频等）添加到列表中，以促进他们的共享.  很简单：查看我们 [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) 并提出拉取请求（每项/每项一次）. 
-
 ## FAQ
 - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
 
 ### Who is this for?
--希望成为管理角色的个人贡献者（IC），但不确定是否适合他们
+-考虑向管理人员过渡的个人贡献者（IC）
 -希望保留IC但希望在组织中发挥更大影响力的IC
 -最近担任管理职务的IC
--希望提升特定技能的经理
+-希望提升特定技能或属性的经理
 -过渡到元管理的经理（管理经理）
 
-### Why should you read this or trust the authors for advice?
- 你不应该  这在很大程度上是自相矛盾的.  当时有些人似乎是好的建议.  它很少是原创的，我写的甚至更少.  请勿阅读此封面.  扫描目录，然后选择您想了解更多的主题.  Joe强调了绝对最重要的内容（几十篇文章，六本书以及一些视频，清单和幻灯片）.
-
 ### How can I submit a link or ask a question?
- 首先，我们会喜欢的！  对于提交，请遵循我们 [contributing guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) .  如有问题，请继续并在我们的问题跟踪器中发布问题. 
+ 很高兴你问！  通过查看以下内容来分享和推广您喜欢的管理和领先资源/入门指南（书籍，文章，Twitter提要，视频等）. [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) ，然后提出拉取请求（每个项目/条目一个）.  如有疑问，请继续并在问题跟踪器中发布问题. 
 
 ### How can I get more info on [missing topic]?
-如果您希望此列表包含某个主题，请通过问题跟踪器告知我们.
+如果您想要此列表包含一个主题，请通过问题跟踪器发出请求.
 
 ### Did you write all this yourself? (Credit/Attribution)
  此列表中共享的内容几乎都不是作者提供的.  在有链接的地方，其下面的内容通常是链接网页的摘要.  没有链接时，它要么是原始内容，要么是信誉/归属.  一些书摘来自 [Personal MBA](https://personalmba.com/)，乔对此进行了试点并进行了咨询，但是并没有达到他愿意为其内容归功的程度.

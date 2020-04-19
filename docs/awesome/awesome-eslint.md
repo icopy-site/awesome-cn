@@ -148,6 +148,7 @@
 
 ### Formatters
 
+- [eslint-formatter-badger](https://github.com/brettz9/eslint-formatter-badger) -制作基于SVG的徽章，以汇总ESLint结果（例如，用于自述文件）.
 - [eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) -具有Git作者，日期和哈希的ESLint Formatter.
 - [eslint-formatter-github](https://github.com/hipstersmoothie/eslint-formatter-github) -直接在拉取请求中查看ESLint错误和警告.
 - [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) -在GitLab代码质量结果中输出ESLint结果.

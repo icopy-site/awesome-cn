@@ -149,6 +149,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Open Government Data Platform India](https://data.gov.in/)
 * [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
 * [NAYN.CO Turkish News with categories](https://github.com/naynco/nayn.data)
+* [Covid-19](https://github.com/datasets/covid-19)
 
 ## Bloggers
 
@@ -412,12 +413,12 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并将其给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言提供支持.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并将其给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
  * [Variance](http://variancecharts.com/) 无需编写JavaScript，即可构建强大的Web数据可视化
- * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) Kite软件开发套件（Apache许可证，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.
+ * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) Kite软件开发工具包（Apache许可，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.
  * [Domino Data Labs](http://www.dominodatalab.com) 运行，扩展，共享和部署模型-无需任何基础架构或设置.
  * [Apache Flink](http://flink.apache.org/) 一个高效，分布式，通用数据处理的平台.
  * [Apache Hama](http://hama.apache.org/) Apache Hama是Apache顶级开放源代码项目，可让您进行MapReduce之外的高级分析.
@@ -447,11 +448,11 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Feast](https://github.com/gojek/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -用于可重现和可扩展的机器学习和深度学习的平台.
 * [LightTag](https://lighttag.io) -团队文字注释工具
-* [Trains](https://github.com/allegroai/trains) -用于AI的自动魔术实验管理器，版本控制和DevOps
+* [Trains](https://github.com/allegroai/trains) -适用于AI的自动魔术实验管理器，版本控制和DevOps
 * [Hopsworks](https://github.com/logicalclocks/hopsworks)  -具有功能存储的开源数据密集型机器学习平台.  摄取和管理在线（MySQL Cluster）和离线（Apache Hive）访问的功能，大规模培训和提供模型.
 * [MindsDB](https://github.com/mindsdb/mindsdb)  -MindsDB是开发人员可解释的AutoML框架.  借助MindsDB，您可以仅用一行代码即可构建，训练和使用最新的ML模型.
 * [Lightwood](https://github.com/mindsdb/lightwood) -一个基于Pytorch的框架，它将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.
-* [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -一个开源Python软件包，它将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.
+* [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -一个开源Python软件包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.
 
 ## Visualization Tools - Environments
  
