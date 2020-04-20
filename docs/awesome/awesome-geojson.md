@@ -36,7 +36,7 @@ GeoJSON实用程序将使您的生活更轻松.
 * [geojson.io](http://geojson.io/)：基于Web的编辑器，支持许多文件类型的进出口，操作，通过GitHub共享
 * [umap](http://umap.openstreetmap.fr/en/)：基于网络的编辑器，支持现场共享
 * [geojson.tools](http://geojson.tools/)：HERE XYZ的基于Web的编辑器
-* [simple geojson editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/)：在google map上的geojson编辑器，由google
+* [simple geojson editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/): geojson editor on a google map, by google
 * [mapstarter](http://mapstarter.com/)：帮助从GeoJSON生成svg，图像和代码
 * [gjv](https://github.com/anandthakker/gjv) ：电子应用程序允许在本地查看GeoJSON并用草皮对其进行黑客入侵；  离线工作
 * [GeoJSON editor](https://tomscholz.github.io/geojson-editor/)：Google简单的geojson编辑器的修改版本
@@ -63,7 +63,7 @@ GeoJSON实用程序将使您的生活更轻松.
 * ** CSV **
   * [csv2geojson](https://github.com/mapbox/csv2geojson)：将CSV转换为geojson
   * [geojson2dsv](https://github.com/tmcw/geojson2dsv)：将geojson转换为CSV和TSV
-* [geojson-mapnikify](https://github.com/mapbox/geojson-mapnikify)：使用嵌入式GeoJSON数据和源自简单样式规范的样式将GeoJSON对象转换为Mapnik XML样式表.
+* [geojson-mapnikify](https://github.com/mapbox/geojson-mapnikify)：使用嵌入的GeoJSON数据和源自简单样式规范的样式将GeoJSON对象转换为Mapnik XML样式表.
 * [geojson-vt](https://github.com/mapbox/geojson-vt)：在浏览器中即时将GeoJSON切片为矢量切片
 * [vt-geojson](https://github.com/developmentseed/vt-geojson)：从Mapbox矢量图块中提取GeoJSON
 * [geojson2rtree](https://github.com/maxogden/geojson2rtree)：从一组geojson功能生成静态rtree（使用terraformer）
@@ -112,12 +112,13 @@ GeoJSON实用程序将使您的生活更轻松.
 * [strava-to-geojsonio](https://github.com/taketime/strava-to-geojsonio)：从Strava导出跑步和骑行到GeoJSON
 * [strava-geojson](https://github.com/tmcw/strava-geojson)：在节点＆中将_all_ strava数据导出到geojson [on the web](http://www.macwright.org/strava-geojson/)
 * [gimme OSM](http://ustroetz.github.io/gimmeOSM/)：通过openstreetmap id获取geojson文件
+* [country-levels](https://github.com/hyperknot/country-levels-export) 基于ISO和FIPS代码的全行星GeoJSON提取.
 
 ### serialization
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson)：将geojson与python数据类型串行化
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson)：将geojson与ruby RGeo数据类型串行化
-* [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+* [rust-geojson](https://github.com/georust/rust-geojson)：将geojson序列化为rust数据类型
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson)：将GeoJSON与Java数据类型进行序列化（基于 [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [mapbox-java](https://github.com/mapbox/mapbox-java)：将GeoJSON与Java数据类型进行序列化（基于 [Gson](https://github.com/google/gson))
 

@@ -4,7 +4,7 @@
                                                                        ---.
       ╭───╮╭──╮  ╭──╮   ╭──╮ ╭───╮  ╭──╮  ╭─── ───╮   ╭──╮            -..  \
      /    ││  │──│  │  / ╭─╯/ ╭──╯ /    \ │   │   │  / ╭─╯              _|_|_
-    │o││││/╰─（\││───│/╰─╮/ O \
+    │o│││││/╰─（\─╮│││──││/╰─╮/ O \
     │││││││╭─╯\ __││O││\ _ /││╭─╯\_______/
     │  _  ││  `  '  ││   ╰─╮/  \ ││      ││   │   ││   ╰─╮               /   \
     │  │  │ \      / │     │\    │ \    / │   │   ││     │               \/   \
@@ -106,6 +106,7 @@ Ant Design系列项目.
 使用Blazor WebAssembly和Ant Design构建的项目.
 
 - [ant-design-blazor](https://github.com/ElderJames/ant-design-blazor) -Blazor的Ant设计（服务器端和WebAssembly）.
+- [Blazorise](https://github.com/stsrki/Blazorise) -对Blazorise和Blazor的AntDesign支持 [Demo](https://antdesigndemo.blazorise.com/)
 
 ## Components
 

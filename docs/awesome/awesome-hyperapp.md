@@ -11,7 +11,7 @@
 
 <!-- /TOC -->
 
- 要做出贡献，请分叉该存储库，添加精彩的条目并发送给我们PR.  看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 了解更多信息.
+ 要做出贡献，请分叉该存储库，添加精彩的条目并发送给我们PR.  看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 想要查询更多的信息.
 
 ## Official Resources
 
@@ -20,7 +20,6 @@
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
-* [Hyperapp CodePen](https://codepen.io/hyperapp/)
 
 ## Articles & Tutorials
 

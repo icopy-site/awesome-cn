@@ -29,7 +29,7 @@
 *与依赖项管理有关的其他内容.
 
 * [Composed](https://github.com/joshdifabio/composed) -一个在运行时解析项目的Composer环境的库.
-* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) -一个composer插件，用于合并多个composer.json文件.
 * [Prestissimo](https://github.com/hirak/prestissimo) -一个composer插件，可实现并行安装过程.
 * [Satis](https://github.com/composer/satis) -静态Composer资源库生成器.
 * [tooly](https://github.com/tommy-muehle/tooly-composer-script) -使用Composer管理项目中PHAR文件的库.
@@ -406,7 +406,7 @@
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) -另一个Web套接字库.
 * [Evenement](https://github.com/igorw/evenement) -事件分配器库.
 * [Event](https://github.com/thephpleague/event) -重点关注域事件的事件库.
-* [Hoa EventSource](https://github.com/hoaproject/Eventsource) -事件源库.
+* [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) -另一个Web套接字库.
 * [Prooph Event Store](https://github.com/prooph/event-store) -事件源组件，用于保留事件消息
 * [PHP Defer](https://github.com/php-defer/php-defer) -Golang的PHP延迟声明.
@@ -555,7 +555,7 @@
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -用于检测移动设备（包括平板电脑）的轻量级PHP类.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) -用于处理UTF-8字符串的可移植库.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) -具有UTF-8安全替换方法的字符串处理库.
-* [Slugify](https://github.com/cocur/slugify) -将字符串转换为段的库.
+* [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) -用于格式化SQL语句的库.
 * [Stringy](https://github.com/danielstjules/Stringy) -具有多字节支持的字符串处理库.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) -用于解析用户代理字符串的库.
@@ -565,6 +565,7 @@
 ### Numbers
 *用于处理数字的库.*
 
+* [Brick\Math](https://github.com/brick/math) -提供大量支持的图书馆：`BigInteger`，`BigDecimal`和`BigRational`.
 * [ByteUnits](https://github.com/gabrielelana/byte-units) -用于在二进制和公制系统中解析，格式化和转换字节单位的库.
 * [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -Google电话号码处理库的PHP实现.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) -另一个在度量单位之间转换的库.
@@ -577,7 +578,7 @@
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) -提供验证和清理对象和数组的工具.
 * [Cake Validation](https://github.com/cakephp/validation) -另一个验证库（CP）.
 * [Filterus](https://github.com/ircmaxell/filterus) -一个简单的PHP过滤库.
-* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -一个用于根据许多国家/地区的ISO，国际金融，公共管理，GS1，图书行业，电话号码和邮政编码标准验证输入的库.
+* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -一个用于根据许多国家/地区的ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的库.
 * [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) -支持YAML，JSON和XML的架构验证库.
 * [Respect Validation](https://github.com/Respect/Validation) -一个简单的验证库.
@@ -647,7 +648,7 @@
 * [Cake I18n](https://github.com/cakephp/i18n) -消息翻译和本地化的日期和数字（CP）
 
 ### Serverless
-*Libraries and tools to help build serverless web applications.*
+*帮助构建无服务器Web应用程序的库和工具.
 
 * [Bref](https://bref.sh/) -AWS Lambda上的无服务器PHP.
 * [OpenWhisk](http://openwhisk.apache.org/) -开源的无服务器云平台.

@@ -318,7 +318,7 @@ Installers
 
 
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -阿里云Kubernetes云容器服务
-   - [AWS EKS](https://aws.amazon.com/eks/) - Amazon Elastic Container Service
+   - [AWS EKS](https://aws.amazon.com/eks/) -亚马逊弹性容器服务
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -Azure Kubernetes服务
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean州长
    - [GKE](https://cloud.google.com/container-engine/) -Google Kubernetes引擎
@@ -488,7 +488,7 @@ Projects
 * [Escalator](https://github.com/atlassian/escalator) -适用于Kubernetes的批处理或作业优化的水平自动缩放器
 * [Fission Workflows](https://github.com/fission/fission-workflows) -基于工作流的无服务器功能组合
 * [Forecastle](https://github.com/stakater/Forecastle) -可以动态发现并提供启动板以访问Kubernetes上部署的应用程序的仪表板
-* [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) -代理，可让webhook访问防火墙后的运行服务
+* [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) -监视入口端点并在配置的正常运行时间检查器上自动注册活动警报
 * [k8s-label-rules-webhook](https://github.com/circa10a/k8s-label-rules-webhook) -准入网络挂钩，以强制执行在您的k8s集群中创建的资源标签的标准
@@ -923,6 +923,7 @@ Projects
 * [K8up](https://github.com/vshn/k8up) -基于Restic的Kubernetes和OpenShift Backup Operator
 * [burry.sh](https://github.com/mhausenblas/burry.sh) -为etcd，zookeeper和领事提供Cloud Native备份和恢复
 * [kube-backup](https://github.com/pieterlange/kube-backup) -将kubernetes状态同步到git.
+* [Stash](https://github.com/stashed/stash) -Stash是Kubernetes运营商，它使用Restic或Kubernetes CSI驱动程序VolumeSnapshotter备份您的卷和kubernetes状态.
 
 ## Policy Management
 
