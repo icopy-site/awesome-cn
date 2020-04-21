@@ -54,16 +54,17 @@
 - [gogo.tattoo](http://gogo.tattoo)  -Gogo纹身项目使用IPFS，DLT和其他现代技术，为纹身艺术家和佩戴者提供了其作品集的坚不可摧的终生记录.  gogo.tattoo应用程序已经具有直接将作品共享到IPFS的功能.
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) -大猩猩是笔记本风格的Clojure的丰富REPL.
 - [Hardbin](https://github.com/jes/hardbin) -Hardbin是一种加密的pastebin，其解密密钥在URL片段中传递
-- [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) -具有许多功能的booru风格的媒体标记应用程序，最近添加了基本的ipfs支持.
+- [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) -具有多种功能的booru风格的媒体标记应用程序，最近添加了对ipfs的基本支持.
 - [InfiniteBooru](https://infinitebooru.com) -具有IPFS支持的所有媒体的booru风格的媒体标记应用程序和内容聚合器.
-- [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具可提供对以太坊和IPFS的安全，可靠和可扩展的访问，以帮助简化分布式应用程序的构建.
+- [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具可提供对以太坊和IPFS的安全，可靠和可扩展的访问，以帮助简化分散式应用程序的构建.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) -使用IPFS进行Web存档（WARC）索引和重放.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) -建立在IPFS之上的Wiki
 - [IPFessay](https://gitlab.com/stavros/IPFessay) -在IPFS上发布无法审查的论文的简单方法.
-- [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) - Run your IPFS node on your machine without having to bother with command line tools. Manage your node, add your files, easily change the settings... everything from just one interface.
+- [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)  -在计算机上运行IPFS节点，而无需使用命令行工具.  管理您的节点，添加文件，轻松更改设置...只需一个界面即可完成所有操作.
 - [IPFS Drive](https://github.com/fazo96/ipfs-drive) -在用于IPFS的浏览器文件管理器中.
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) -一款可改善ipfs事件可视化的应用程序.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) -一个使用windows.ipfs的演示应用程序，向您显示IPNS链接和公共密钥的QR码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
+- [IPFS Image Uploader](https://ipfs.talaikis.com/) -IPFS图像上传器和查看器. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) -带有TiddyWiki的IPFS是一个TiddlyWiki插件，旨在帮助开发人员，编辑者或用户通过IPFS保存其Wiki和附件.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) -基于ipfs和markdown构建您的Wiki系统.
 - [ipfs-search](https://ipfs-search.com) -自2016年起搜寻宇宙.
@@ -95,14 +96,14 @@
 - [qri](https://qri.io) -数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) -金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) -一个推特机器人，使用IPFS群集将推文添加，固定或取消固定到公共IPFS网络. [Source](https://github.com/simpleaswater/twitter-pinbot)
-- [SimpleID](https://simpleid.xyz/) - Developer tools for adding Ethereum authentication and content pinning to your app. [Source](https://github.com/simplesecure/)
+- [SimpleID](https://simpleid.xyz/) -用于将以太坊身份验证和内容固定到您的应用程序的开发人员工具. [Source](https://github.com/simplesecure/)
 - [TallyLab](https://tallylab.com/) -本地优先，端到端的加密数据日记应用程序，用于捕获，分析和共享有关任何事物的数据.
 - [Temporal](https://github.com/RTradeLtd/Temporal) -Temporal是易于使用的API和平台，可用于将IPFS和其他分布式/分散式存储技术集成到企业应用程序中
 - [Textile Photos](https://www.textile.photos) -纺织品照片是用于照片的安全的移动数字钱包. [Source](https://github.com/textileio/textile-mobile)
 - [ToDo List Demo](https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/) -使用Windows.ipfs的待办事项列表演示应用程序. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
 - [Tree3 Network](https://tree3.network/) -由Stellar和IPFS提供支持的去中心化平台，用于小额支付，离线数据和博客. [Source](https://github.com/tree3network/tree3)
 - [ujo](http://ujomusic.com/) -音乐家的区块链市场.
-- [uport](https://www.uport.me) -Uport是一个基于以太坊区块链的移动式，自我主权身份和密钥管理系统.
+- [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 - [Wistful Books](https://wistfulbooks.com/) -单页离线应用程序，可欣赏librivox.org有声读物. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) -具有IPFS支持的xfce-screenshooter的分支！
 
@@ -192,6 +193,7 @@
 - [ipfs-paste](https://github.com/jbenet/ipfs-paste) -将标准输入和剪贴板粘贴到IPFS
 - [ipfs-publish](https://ipfs-publish.uhlir.dev) -持续交付工具，用于将静态网站从Git提供商交付到IPFS. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) -捕获屏幕截图，将其发布到IPFS，然后将链接复制到剪贴板.
+- [ipfs-video-gateway](https://ipfs.video) -通过云提供商在云提供商上初始化自己的IPFS网关，并通过简单的Web界面轻松固定内容. [Source](https://github.com/bneijt/ipfs-video-gateway)
 - [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) -抓取所有资产的网页并将其放入IPFS
 - [ipfsecret](https://github.com/shlemph/ipfsecret) -使用秘密密码加密和解密IPFS文件
 - [ipget](https://github.com/ipfs/ipget) -：satellite：IPFS的wget：通过IPFS检索文件并将其保存在本地.
@@ -209,7 +211,7 @@
 
 ## Videos
 
-- [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w)  -本演讲将探讨如何使用CRDT，发布/订阅和漂亮的UI在IPFS之上构建动态应用.  它还研究了用于分布式计算的新模型，以及分布网络的伦理重要性.
+- [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w) - This talk breaks down how to build a dynamic app on top of IPFS with CRDTs, pub/sub, and slick UIs. It also delves into new models for distributed computation, and the ethical importance of distributing the web.
 - [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) 
 - [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) -让我们看一下IPFS的工作方式，如何解决诸如审查制度之类的问题，以及它是否真的可以在多个星球上运作！
 - [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) -演讲包括对IPFS项目的广泛了解，以及有关通过开源协议R＆D演进网络堆栈的讨论.

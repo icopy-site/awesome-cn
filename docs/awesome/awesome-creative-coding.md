@@ -311,8 +311,8 @@
 - [Adventures in Game Development World](http://ruh.li/) -易于理解的有关游戏开发的文章集，但也与创意编码有关.
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) -引导随机数的小指南.
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) -收集诸如寻路，人工智能，数学等内容的资源
-- [Tips to Improve Your Generative Artwork](http://www.tylerlhobbs.com/writings/tips) -技巧，使您的艺术品看起来更好.
-- [Working With Color in Generative Art](http://www.tylerlhobbs.com/writings/generative-colors) -有关如何正确选择颜色的提示.
+- [Tips to Improve Your Generative Artwork](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork) -技巧，使您的艺术品看起来更好.
+- [Working With Color in Generative Art](https://tylerxhobbs.com/essays/2016/working-with-color-in-generative-art) -有关如何正确选择颜色的提示.
 
 ### Interactive
 

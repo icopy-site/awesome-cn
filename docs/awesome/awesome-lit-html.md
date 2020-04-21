@@ -42,7 +42,7 @@
 
 ### Renderers
 
-以下库允许将lit-html用作渲染器，同时还提供其他替代方法，例如 [HyperHTML](https://github.com/WebReflection/hyperHTML) 或JSX.
+The following libraries allow using lit-html as a renderer, while also providing alternatives such as [HyperHTML](https://github.com/WebReflection/hyperHTML) 或JSX.
 
 - [@corpuscule/lit-html-renderer](https://www.npmjs.com/package/@corpuscule/lit-html-renderer) -基于lit-html的渲染器 [Corpuscule](https://github.com/corpusculejs/corpuscule).
 - [@helikopter/render-lit-html](https://www.npmjs.com/package/@helikopter/render-lit-html) -基于lit-html的渲染器 [Helicopter](https://github.com/briancavalier/helikopter).
@@ -94,12 +94,15 @@
 
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) -Web组件的API文档和实时游乐场.
 - [`<app-datepicker>`](https://github.com/motss/app-datepicker) -使用LitElement和Material Design 2构建的Datepicker元素.
+- [`<burgton-button>`](https://github.com/boguz/burgton-button) -简单易用，可自定义和可访问的汉堡按钮元素.
+- [`<code-block>`](https://github.com/justinribeiro/code-block) -使用Prism.js和LitElement显示彩色格式代码的Web组件.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) -单击时显示CodeSandbox演示的自定义元素.
 - [`<dile-modal>`](https://github.com/Polydile/dile-modal) -基于LitElement的Web组件，用于实现模式框.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) -由LitElement支持的数据表的Material Design实现.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) -Web组件，可轻松嵌入和播放Lottie动画.
 - [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) -用于渲染交互式3D模型的Web组件.
 - [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) -用于查看OpenAPI 3.0和Swagger 2.0规范的Web组件.
+- [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) -使用Three.js来显示STL模型文件的LitElement Web组件.
 
 ## Starter Templates
 
@@ -114,6 +117,7 @@
 - [vscode-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) -lit-html的语法高亮显示，类型检查和代码完成.
 - [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) -VSCode扩展，可为ES6多行字符串中的HTML提供语法突出显示.
 - [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) -lit-html的语法突出显示和缩进.
+- [lit-web-components-vscode-extension-pack](https://github.com/justinribeiro/lit-web-components-vscode-extension-pack) -一组VS Code扩展，可用于开发LitElement Web组件.
 
 ## TypeScript Plugins
 
@@ -189,6 +193,7 @@
 - [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
 - [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
 - [Render HTML with Vanilla JavaScript and lit-html](https://dev.to/azure/too-hard-too-soft-just-right-rendering-html-with-lit-html-1km8)
+- [Updating blog-pwa from Polymer to LitElement, Workbox, and Rollup](https://justinribeiro.com/chronicle/2019/04/11/updating-blog-pwa-from-polymer-to-litelement-workbox-and-rollup/)
 
 ## Projects
 
@@ -199,7 +204,7 @@
     <td>资源</td>
   </tr>
   <tr>
-    <td>Create Social Images</td>
+    <td>创建社会形象</td>
     <td>https://createsocialimages.com</td>
     <td> <a href="https://github.com/pshihn/csi">资源</a> </td>
   </tr>

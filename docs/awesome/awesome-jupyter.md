@@ -31,6 +31,7 @@
 - [nteract](https://github.com/nteract/nteract) -本机台式机笔记本前端.
 - [Stencila](https://github.com/stencila/stencila) -本机台式机笔记本前端.
 - [voila](https://github.com/voila-dashboards/voila) -笔记本作为交互式独立Web应用程序.
+- [Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support) -本机台式机笔记本前端.
 
 ## Collaboration/Education
 

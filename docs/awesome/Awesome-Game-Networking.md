@@ -73,7 +73,8 @@ _请随时使用您的宝贵资源做出贡献，谢谢！
 -其他
   - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) -聊天帕特·怀亚特（Pat Wyatt），讨论《激战》，《暗黑破坏神》，《星际争霸》网络代码.
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) -来自暴雪的Tim Ford和Philip Orwig撰写的《守望先锋》网络代码的开发日志.
-  - [Networking Architecture of Warframe](https://www.youtube.com/watch?v=VVetqMgcN50) -讨论Digital Extremes的Maciej Sinilo撰写的Warframe的网络代码.
+  - [Valorant / Netcode & 128-Servers](https://www.youtube.com/watch?v=_Cu97mr7zcM) -Riot Games的Valorant中的一些基本网络概念.
+  - [Warframe / Networking Architecture](https://www.youtube.com/watch?v=VVetqMgcN50) -讨论Digital Extremes的Maciej Sinilo撰写的Warframe的网络代码.
 
 ## Tutorials
 
@@ -132,8 +133,6 @@ _请随时使用您的宝贵资源做出贡献，谢谢！
   - [Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) -Gabriel Gambetta使用Lidgren在Unity中实现网络架构.
   - [MultiplayerFPS](https://github.com/Brackeys/MultiplayerFPS-Tutorial) -基于UNET的简单多人第一人称射击游戏教程项目.
   - [SmartFoxServer2X Multiplayer](https://assetstore.unity.com/packages/tools/network/smartfoxserver2x-multiplayer-sdk-17261) -基于SFS2X的多人项目示例.
-  - [TANKS! Networking](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-networking-demo-46213) -基于UNET的多人坦克射击游戏项目.
-  - [UNet-Controller](https://github.com/Heep042/UNet-Controller) -基于UNET的网络第一人称和第三人称玩家控制器，具有高级功能.
 
 ## Tools
 

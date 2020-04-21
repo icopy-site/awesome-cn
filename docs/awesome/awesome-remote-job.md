@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) 资源.
+精选清单 [remote working](https://en.wikipedia.org/wiki/Telecommuting) 资源.
 
  *要进行贡献，请单击README.md，然后单击铅笔图标.  进行更改，然后单击“建议更改文件”按钮以提交拉取请求.  确保遵循 [the contributions guidelines](CONTRIBUTING.md).*
 
@@ -134,7 +134,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Job boards
   1. [Angel List](https://angel.co/jobs)  -启动作业.  通过转到作业类型，然后选择“远程确定”进行搜索.
-  1. [Authentic Jobs](https://authenticjobs.com/#remote=true)
+  1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
   1. [Codestunts](https://codestunts.com)
   1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) -加密爱好者的区块链工作.
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
@@ -166,6 +166,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Nonprofit Remote](https://nonprofitremote.com/) -远程工作者，志愿者和非营利组织连接的地方.
   1. [Power to Fly](https://powertofly.com/jobs/) -特定于女性
+  1. [remote-es/remotes](https://github.com/remote-es/remotes) -仓库上市公司，提供西班牙合同的全职远程工作
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) -列表中的半到完全远程友好的技术公司
   1. [Remotees](https://remotees.com/)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
@@ -196,7 +197,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供偏远职位使用.
   1. [RemotePHP.io](https://remotephp.io) -来自网络的远程PHP作业.
   1. [Remote Python](https://www.remotepython.com/) -专门用于远程Python作业的作业板和聚合器.
-  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) -抓取多个作业板以进行远程作业发布.
+  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [Theo](https://theojobs.com/) -所有远程设计工作，一处.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Work Remotely](https://workremotely.io/) -抓取并整理许多工作板供稿以用于偏远职位
@@ -219,16 +220,16 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Roam](https://www.roam.co/) -大肠杆菌空间的全球网络
   1. [Sende](http://sende.co) -西班牙北部的集体办公空间
   1. [Sun Desk](http://sun-desk.com) -摩洛哥Taghazout的集体办公空间
-  1. [Talent Garden](https://talentgarden.org/coworking/) -联合办公空间主要在意大利，但在其他一些国家也可以使用
+  1. [Talent Garden](https://talentgarden.org/coworking/) - Coworking space mainly in Italy but available in some other countries
   1. [The Surf Office](https://www.thesurfoffice.com/home/) -葡萄牙，加那利和加利福尼亚的联合办公和度假空间
   1. [Work From Curacao](http://www.workfromcuracao.com/) -库拉索岛的集会空间
-  1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
+  1. [Worldpackers](https://www.worldpackers.com) -住房/工作交流
 
 ## Relocation Incentives
   1. [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/)  -从您的州所得税中减去每年用于学生贷款付款的金额.  州外居民必须在2015年之后获得学士学位或副学士学位才能有资格.
   1. [Tulsa Remote](https://tulsaremote.com/) -从塔尔萨（Tulsa）获得10,000美元现金.
   1. [Vermont Remote Worker Grant Program](https://www.thinkvermont.com/relocate/)  -每年最多可从佛蒙特州获得$ 5,000的津贴.  该计划在每个人的有效期内不能超过$ 10,000.
-  1. [Remote Shoals](https://remoteshoals.com/)  -远程工作？  从Shoals手中获得10,000美元，以完成工作.
+  1. [Remote Shoals](https://remoteshoals.com/)  -远程工作？  从Shoals手中获得10,000美元，以完成您的工作.
 
 ## Interviewing
   1. [andreis/interview](https://github.com/andreis/interview) -在编程面试中需要做的所有事情
@@ -306,7 +307,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Close.io](http://jobs.close.io) -面向初创企业和中小型企业的内部销售CRM.
   1. [Codeship](https://codeship.com/jobs) -SaaS连续交付
   1. [Collabora](https://www.collabora.com/careers.html) -基于开源软件的咨询.
-  1. [Collage](http://jobs.collage.com/)  -我们提供最简单，最通用的工具，可帮助您将照片变成回忆.  100％的远程团队.
+  1. [Collage](http://jobs.collage.com/) - We provide the easiest and most versatile tools to help you turn your photos into memories. 100% remote team.
   1. [Compose](https://www.compose.io/jobs/)  -管理数据库即服务.  分布团队，在加利福尼亚州圣梅特奥和阿拉巴马州伯明翰设有办事处.
   1. [ConsenSys](https://consensys.net/careers/) -区块链软件技术公司，在全球设有办事处，并在更多地区设有独立员工.
   1. [Continu](http://www.continu.co/careers/) -适用于现代团队的持续学习软件.
@@ -330,6 +331,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
   1. [Elastic](https://www.elastic.co/) -开源搜索和分析
   1. [Envato](https://envato.com/careers)  -ThemeForest和其他在线市场的制造商.  MySQL，Ruby，Rails，Javascript.  与总部设在澳大利亚墨尔本的分布式团队.
+  1. [Ergeon](https://www.ergeon.com/careers/)  -家庭服务和建筑公司.  在加利福尼亚州帕洛阿尔托市设有总部的全远程公司，但在全球范围内招聘.
   1. [Etsy](https://www.etsy.com/careers)  -艺术家市场.  MySQL，Memcache，PHP.  在都柏林，巴黎，旧金山，纽约，伦敦和墨尔本设有办事处.
   1. [Eyeo](https://eyeo.com/en/jobs/)  -AdBlock Plus的制造商.  总公司在德国科隆.
   1. [Findify](https://findify.io/)  -由机器学习和大数据支持的电子商务搜索.  团队遍布欧洲.
@@ -392,7 +394,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Modern Tribe](http://tri.be/about/join-our-team/)  -具有现代特色的数字代理商.  所有自由职业者.  所有专家.
   1. [Modus Create](https://moduscreate.com/)  -Modus是一家由世界一流的人才驱动的数字设计建造公司.  PHP，JavaScript.
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) -学习单词，享受世界.
-  1. [MVP Space](http://mvp-space.com/) - Test a business idea with your target audience or show its potential to your investors.
+  1. [MVP Space](http://mvp-space.com/) -与目标受众一起测试商业创意，或向投资者展示其潜力.
   1. [Mozilla](https://careers.mozilla.org/listings/) -Firefox的位置搜索栏下有一个“远程”选项
   1. [NearForm](https://www.nearform.com/careers/)  -NearForm通过构建高性能，开放软件来发展企业.  我们的全球团队使用现代化的流程和工具来帮助客户快速创新.
   1. [Netguru](https://www.netguru.com/career)  -软件代理商.  JavaScript，Ruby on Rails，Python，Android，iOS
@@ -478,7 +480,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [YourSports](https://www.yoursports.com/jobs) -您最喜欢的球队的社交网络.
   1. [Zamphyr](https://zamphyr.com/)  -学习计算机科学的School 2.0.  远程优先，主要是流星的100％JavaScript.
   1. [Zapier](https://zapier.com/about/)
-  1. [ZipRecruiter](https://www.ziprecruiter.com/careers) -Perl / Catalyst商店，有一些最好的Perl开发人员可以远程工作.
+  1. [ZipRecruiter](https://www.ziprecruiter.com/careers) -Perl / Catalyst商店，其中有一些最好的Perl开发人员可以远程工作.
   1. [The Appraisal Lane](https://www.theappraisallane.com/careers)  -第三方车辆鉴定服务.  工作空间主要在奥斯丁和蒙得维的亚，但在其他国家也可以使用.
 
 ## Q&A
@@ -549,7 +551,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Coffitivity](https://coffitivity.com/) -Coffitivity可再现咖啡馆的环境声音，以增强您的创造力并帮助您更好地工作.
   1. [Fiverr](https://www.fiverr.com/) -Fiverr是面向精益企业家的全球最大的自由职业服务市场，您可以在这里雇用远程工人为您做一些小工作.
   1. [Funretro](https://funretro.github.io/distributed) -Funretro是分布式团队的回顾性在线董事会.
-  1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - Listen to the sound of Wikipedia's recent changes feed.
+  1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) -听听Wikipedia的最新更改提要.
   1. [Noisli](https://www.noisli.com/) -Noisli提供了一系列不同的环境声音，可以组合使用这些声音来增强创造力和注意力.
   1. [musicforprogramming.net](https://musicforprogramming.net/) -`返回&#39;一系列旨在听的混音，而&#39;+ task +&#39;有助于集中注意力并提高生产力（也与其他活动兼容）.
   1. [Qbserve](https://qotoqot.com/qbserve/) -时间跟踪自动化：自由项目跟踪，时间表，发票和实时生产力反馈（Mac）.

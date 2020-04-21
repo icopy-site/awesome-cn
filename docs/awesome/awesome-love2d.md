@@ -183,7 +183,7 @@
 
 * [LoveDos](https://github.com/rxi/lovedos) -用于2D DOS游戏的Lua框架，实现了LÖVEAPI的子集
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) -Windows Phone 8.1的进行中端口
-* [LovePotion](https://github.com/videah/LovePotion) -用于3DS Homebrew的LÖVEAPI的非正式开发中实施
+* [LovePotion](https://github.com/TurtleP/LovePotion) -用于Nintendo 3DS和Nintendo Switch Homebrew的LÖVEAPI的非官方正在进行中的实现
 * [Love.js](https://github.com/TannerRogalsky/love.js) -使用Emscripten将LÖVE移植到网络上
 * [LÖVR](https://github.com/bjornbytes/lovr) -喜欢虚拟现实设备
 
@@ -325,7 +325,7 @@
 
 ## Contributing
 
-请参见 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 有关详细信息.
+请参阅 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 有关详细信息.
 
 ## Other Awesome Lists
 

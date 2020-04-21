@@ -6,8 +6,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
 
-来自维基百科-
-&gt; A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) 是一种数字资产，旨在用作使用加密的交换媒介，以保护交易并控制货币的其他单位的创建.
+来自维基百科
+&gt; A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) 是一种数字资产，旨在用作使用加密的交换媒介，以保护交易并控制货币其他单位的创建.
 
  许多算法用于不同的加密货币中.  本文档引用了加密货币中使用的算法，并提供了一系列有用的服务和实用程序来管理硬币.
 
@@ -60,7 +60,7 @@
 -出版物
     * [Cryptoeconomics](https://medium.com/@cryptoeconomics) /团队位于cryptoeconomics.com.au
     * [Minessence](https://vinnylingham.com/) / Civic.com联合创始人兼首席执行官Vinny Lingham
-    * [CryptoOracle](https://medium.com/crypto-oracle) / Lou Kerner
+    * [CryptoOracle](https://medium.com/crypto-oracle) -卢·克纳（Lou Kerner）
     * [CryptoCurrencyHub](https://cryptocurrencyhub.io/)
     * [Build Blockchain](https://www.buildblockchain.tech/newsletter/issues/)
     *哈克农
@@ -73,12 +73,12 @@
 
 这是一个清单 [WhatToMine](https://whattomine.com).
 
-- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) —开采任何算法（针对您的GPU进行了优化）并通过** BTC **获得付款.
+- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) —开采任何算法（针对您的GPU优化）并以** BTC **形式收取.
 -** BTC **：https://pool.bitcoin.com/
 -** ETH **：https://eth.nanopool.org/
 -** SC **：https://sia.nanopool.org/
 -** PASC **：https://pasc.nanopool.org/
--** XMR **：https：//xmr.nanopool.org/
+-** XMR **：https://xmr.nanopool.org/
 -** ZEC **：https://zec.nanopool.org/
 -** ETC **：https：//etc.nanopool.org/
 -** ZCL **：https://2miners.com/zcl-mining-pool
@@ -95,7 +95,7 @@
 
 ### Hosted Coin Wallets
 
-**注意：**代币社区对使用这些服务不满意，因为您无法直接控制代币-实际上，您根本不拥有代币-该服务确实像标准银行一样运作.
+**注意：**代币社区对使用这些服务感到不满，因为您无法直接控制代币-实际上，您根本不拥有代币-该服务确实像标准银行一样运作.
 
 - [Coinbase **BTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [Coinbase **ETH**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
@@ -107,6 +107,7 @@
 - [Tokenary **ETH&ERC20 Tokens**](https://www.tokenary.io/)
 - [Dogechain **DOGE**](https://my.dogechain.info/#/wallet)
 - [Gamecredits **GAME**](https://wallet.gamecredits.com/dashboard/myWallet)
+- [Glif **FIL**](https://github.com/openworklabs/filecoin-web-wallet)
 
 ### Coin Debit Cards
 
@@ -116,7 +117,7 @@
 
 - [**Sia** Paper Wallet](https://siapaperwallet.co)
 - [WalletGenerator.net](https://walletgenerator.net)
-- [Cryptosteel](https://cryptosteel.com) —钢制！
+- [Cryptosteel](https://cryptosteel.com) —由钢制成！
 
 ## ☤ Coin Exchanges
 
@@ -124,7 +125,7 @@
 - [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) —适用于所有货币的钱包，可以与所有货币进行交易.
 - [Shapeshift](https://shapeshift.io/#/coins) —地球上最快的交换.
 - [Bittrex](https://bittrex.com) —适用于所有货币的钱包，可以与所有货币进行交易.
-- [Qvolta](https://qvolta.com) —在全球范围内使用本地支付方式买卖加密资产.
+- [Qvolta](https://qvolta.com) —在全球范围内使用本地付款方式买卖加密资产.
 - [InstaEx](https://instaex.io) -即时加密货币交换.
 - [ExchangeRates.Pro](https://exchangerates.pro) —包括P2P市场在内的全球交易所的价格比较.
 
@@ -149,7 +150,7 @@
 
 - [bfgminer](http://macminer.fabulouspanda.com/commandline/) —用C编写的模块化ASIC / FPGA矿机，具有超频，监视，风扇速度控制和远程接口功能.
 - [cgminer](http://macminer.fabulouspanda.com/commandline/) — C语言中用于比特币的ASIC和FPGA矿工.
-- [sgminer](http://macminer.fabulouspanda.com/commandline/) — Scrypt GPU矿工.
+- [sgminer](http://macminer.fabulouspanda.com/commandline/) -加密GPU矿工.
 - [nheqminer](https://github.com/kozyilmaz/nheqminer-macos) — Equihash CPU和GPU矿工.
 
 ## ☤ Recommended Hardware
@@ -164,11 +165,11 @@
 - [bcoin](http://bcoin.io) —完全用Node.js编写的比特币全节点实现，您甚至可以在浏览器中运行，包括钱包，内存池，链和挖掘. 
 - [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
 - [Tezos](https://www.tezos.com) —自修复区块链.
-- [Tendermint](https://tendermint.com) —任何编程语言中的拜占庭式容错复制状态机.
-- [Cosmos](https://cosmos.network) —网络和区块链之间互操作性的框架.
+- [Tendermint](https://tendermint.com) —使用任何编程语言的拜占庭式容错复制状态机.
+- [Cosmos](https://cosmos.network) —网络和区块链之间的互操作性框架.
 - [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
-- [Blockply](https://blockply.com/) -收集最有趣和最杰出的区块链项目
-- [Blockchain demo](https://github.com/anders94/blockchain-demo) -基于网络的区块链概念演示.
+- [Blockply](https://blockply.com/) -最有趣和最杰出的区块链项目的集合
+- [Blockchain demo](https://github.com/anders94/blockchain-demo) —基于网络的区块链概念演示.
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
@@ -180,9 +181,9 @@
 -`Keccak`（MaxCoin / ** MAX **）
 -`X15`（HTML5硬币，** HTML5 **）
 -`Nist5`（Talkcoin，** TAC **）
--`NeoScrypt`（凤凰币（** PXC **），帝国币（** IPC **），羽毛币（** FTC **），UFOcoin（** UFO **），Guncoin（** GUN **），宝莱坞币（** BDC **），轨道币（** ORB **），太平（** HAL **））
+-`NeoScrypt`（Phoenixcoin（** PXC **），Imperialcoin（** IPC **），Feathercoin（** FTC **），UFOcoin（** UFO **），Guncoin（** GUN **），宝莱坞币（** BDC **），轨道币（** ORB **），太平（** HAL **））
 -`Lyra2RE`（VertCoin / ** VTC **，CryptoCoin）
--“ WhirlpoolX”（香草硬币/ ** VNL **）
+-`WhirlpoolX`（Vanillacoin / ** VNL **）
 -`Qubit`（QuibitCoin / ** Q2C **）
 -`Quark`（** QRK **）
 -`Axiom`（Axiom代币/ ** AXIOM **）
@@ -190,7 +191,7 @@
 -`ScryptJaneNf16`（钻石/ ** DMD **）
 -`Blake256r8`（Blake Coin / ** BLC **）
 -`Blake256r14`（Blake硬币/ ** BLC **）
--`Blake256r8vnl`（Blake硬币/ ** BLC **）
+-`Blake256r8vnl`（Blake Coin / ** BLC **）
 -`Hodl`（HodlCoin / **观看**）
 -`DaggerHashimoto`（以太坊/ ** ETH **）
 -`Decred`（** DCR **）
@@ -199,9 +200,9 @@
 -`Equihash`（Zcash / ** XEC **，ZClassic，** HUSH **，Komodo）
 -`Pascal`（** PASC **）
 -`X11Gost`（SIBCoin / ** SIB **）
--`Sia`（** SC **）
+-`Let`（** SC **）
 -`Blake2`s（NevaCoin，Someone Coin，Verge，TajCoin）
--`Skunk`（Signatum Coin / ** SIGT **）
+- `Skunk`（签署投币/ ** sigtes）
 
 [(others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)
 
@@ -404,7 +405,7 @@
 
 ## Find this useful?
 
-如果您想为我在开源世界中的努力而捐款，则可以使用以下钱包地址，任何贡献（无论多小）都将受到赞赏.
+如果您想为我在开源世界中的努力捐款，可以使用以下钱包地址，任何贡献（无论多小）都将受到赞赏.
 
 - **[BTC](http://coinbin.org/btc)**：`1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
 - **[ETH](http://coinbin.org/eth)**：`0x1321Ec9c7550a7c44ef3e583930556556c6557411d1`
