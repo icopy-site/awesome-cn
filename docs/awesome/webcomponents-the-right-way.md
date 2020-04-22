@@ -136,6 +136,7 @@
 - [Lessons Learned, making our app with Web Components](https://medium.com/samsung-internet-dev/lessons-learned-making-our-app-with-web-components-bf55379cfcda)
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
+- [Shipping Web Components in 2020](https://dev.to/joe8bit/shipping-web-components-in-2020-2h54)
 - [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 - [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/)
 
@@ -145,7 +146,7 @@
 
 - [Corpuscule](https://github.com/corpusculejs/corpuscule) -基于装饰器的小型Web组件框架.
 - [LitElement](https://lit-element.polymer-project.org)  -用于创建快速，轻量级Web组件的简单基类.  聚合物项目的一部分.
-- [Lightning Web Components](https://github.com/salesforce/lwc) - blazing fast, enterprise-grade Web Components foundation.
+- [Lightning Web Components](https://github.com/salesforce/lwc) -快速的企业级Web组件基础.
 - [Omi](https://github.com/Tencent/omi) -4kb JavaScript的下一代Web框架（Web组件+ JSX +代理+存储+路径更新）.
 - [Polymer](https://polymer-library.polymer-project.org) -Polymer Project作者提供的原始Web组件库.
 - [Skate](https://github.com/skatejs/skatejs) -Web组件库专注于功能渲染管线和较小的占用空间.
@@ -170,6 +171,7 @@
 - [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
 - [AMP HTML](https://github.com/ampproject/amphtml) -Web组件库，用于构建以可靠和快速的性能呈现的网页.
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
+- [Calcite Components](https://github.com/Esri/calcite-components) -用于Esri的Calcite设计框架的共享Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Elix](https://github.com/elix/elix) -用于常见用户界面模式的高质量，可定制的Web组件.
@@ -178,7 +180,9 @@
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) -灵活，轻量级的Web组件以及构建它们的工具的集合.
+- [Pearson Web Components](https://github.com/pearson-ux/web-components) -Pearson的可共享组件库可帮助开发人员构建一致的UI.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用Web组件构建的Adobe Spectrum设计语言实现.
+- [Tradeshift Elements](https://github.com/Tradeshift/elements) -可重用的Tradeshift UI组件作为Web组件.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -组件库在本地API的基础上提供了企业风味的糖.
 - [Vaadin components](https://github.com/vaadin/vaadin) -用于构建业务Web应用程序的不断发展的高质量Web组件集.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) -手绘，粗略外观的一组通用UI元素.

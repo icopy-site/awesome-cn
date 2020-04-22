@@ -125,7 +125,7 @@
 * [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 * [Designite](http://www.designite-tools.com) ：copyright：-Designite支持各种体系结构，设计和实现气味的检测，各种代码质量指标的计算以及趋势分析.
 * [Gendarme](http://www.mono-project.com/docs/tools+libraries/tools/gendarme/) -Gendarme检查包含ECMA CIL格式（Mono和.NET）代码的程序和库.
-* [NDepend](http://www.ndepend.com/) ：copyright：-测量，查询和可视化您的代码，避免意外问题，技术负担和复杂性.
+* [NDepend](http://www.ndepend.com/) :copyright: - Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 * [Puma Scan](https://github.com/pumasecurity/puma-scan) -开发团队在Visual Studio中编写代码时，Puma Scan提供了针对常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）的实时安全代码分析.
 * [Refactoring Essentials](http://vsrefactoringessentials.com/) - The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 * [ReSharper](https://www.jetbrains.com/resharper/) :copyright: - Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
@@ -198,7 +198,7 @@
 
 ## F#
 
-* [FSharpLint](https://github.com/fsprojects/FSharpLint) -F的皮棉工具#
+* [FSharpLint](https://github.com/fsprojects/FSharpLint) - Lint tool for F#
 
 ## Fortran
 
@@ -227,7 +227,7 @@
 * [gofmt -s](https://golang.org/cmd/gofmt/) -检查代码格式是否正确，是否无法进一步简化.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) -检查丢失或未引用的程序包导入.
 * [GolangCI-Lint](https://github.com/golangci/golangci-lint) -替代“ Go Meta Linter”：GolangCI-Lint是一个Linters聚合器.
-* [golint](https://github.com/golang/lint) - Prints out coding style mistakes in Go source code.
+* [golint](https://github.com/golang/lint) -在Go源代码中打印出编码样式错误.
 * [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) -同时运行许多linter，并将其输出标准化为报告.
 * [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) -分析Golang goroutine转储的交互式工具.
 * [gosec (gas)](https://github.com/GoASTScanner/gas) -通过扫描Go AST检查源代码是否存在安全问题.
@@ -281,7 +281,7 @@
 * [google-java-format](https://github.com/google/google-java-format) -Google样式重新格式化
 * [Hopper](https://github.com/cuplv/hopper) -用scala编写的针对JVM上运行的语言的静态分析工具
 * [HuntBugs](https://github.com/amaembo/huntbugs) ：warning：-基于Procyon编译器工具的字节码静态分析器工具，旨在取代FindBugs.
-* [JArchitect](https://www.jarchitect.com) ：copyright：-测量，查询和可视化您的代码，避免意外问题，技术负担和复杂性.
+* [JArchitect](https://www.jarchitect.com) :copyright: - Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity.
 * [JBMC](http://www.cprover.org/jbmc/) -Java的有限模型检查器（字节码），验证用户定义的断言，标准断言，若干覆盖率度量分析
 * [NullAway](https://github.com/uber/NullAway)  -基于类型的空指针检查器，具有较低的构建时间开销；  一个 [Error Prone](http://errorprone.info/) 插入
 * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) -检查依赖项是否存在已知的，公开披露的漏洞.
@@ -310,7 +310,7 @@
 * [NodeJSScan](https://github.com/ajinabraham/NodeJsScan) -NodeJsScan是用于Node.js应用程序的静态安全代码扫描程序.
 * [plato](https://github.com/es-analysis/plato) -可视化JavaScript源复杂度
 * [Prettier](https://github.com/prettier/prettier) -固执己见的代码格式化程序.
-* [quality](https://github.com/jden/quality) - zero configuration code and module linting
+* [quality](https://github.com/jden/quality) -零配置代码和模块棉绒
 * [retire.js](https://github.com/RetireJS/retire.js) -扫描程序检测已知漏洞的JavaScript库的使用
 * [standard](http://standardjs.com/) -一个npm模块，用于检查Javascript Styleguide问题
 * [tern](https://github.com/ternjs/tern) -JavaScript代码分析器，可提供深入的跨编辑器语言支持
@@ -362,7 +362,7 @@
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) -为项目建立依赖图
 * [phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) -使用PHPDoc批注添加标量类型提示并向现有的PHP项目返回类型
 * [phpDocumentor](https://www.phpdoc.org/) -分析PHP源代码以生成文档
-* [PHPMD](https://phpmd.org/) - finds possible bugs in your code
+* [PHPMD](https://phpmd.org/) -在代码中找到可能的错误
 * [PhpMetrics](http://www.phpmetrics.org/) -计算和可视化各种代码质量指标
 * [phpmnd](https://github.com/povils/phpmnd) -有助于检测魔术数字
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) -用于运行质量检查工具的工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）
@@ -376,7 +376,7 @@
 * [RIPS](https://www.ripstech.com/) ：copyright：-静态源代码分析器，用于PHP脚本中的漏洞
 * [Tuli](https://github.com/ircmaxell/Tuli) -静态分析引擎
 * [twig-lint](https://github.com/asm89/twig-lint) -twig-lint是用于您的twig文件的皮棉工具.
-* [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) -用于检测和纠正PHP（4.0或更高版本）Web应用程序中的输入验证漏洞的工具，并通过结合静态分析和数据挖掘来预测误报.
+* [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives by combining static analysis and data mining.
 
 ## Perl
 
@@ -419,7 +419,7 @@
 
 ## R
 
-* [cyclocomp](https://github.com/MangoTheCat/cyclocomp) - Quantifies the cyclomatic complexity of R functions / expressions.
+* [cyclocomp](https://github.com/MangoTheCat/cyclocomp) -量化R函数/表达式的圈复杂度.
 * [goodpractice](http://mangothecat.github.io/goodpractice/) -分析R软件包的源代码并提供最佳实践建议.
 * [lintr](https://github.com/jimhester/lintr) -R的静态代码分析.
 * [styler](https://styler.r-lib.org/) -R源代码文件的格式和R代码的漂亮打印.
@@ -451,7 +451,7 @@
 
 ## Rust
 
-* [cargo-audit](https://github.com/RustSec/cargo-audit) -审核Cargo.lock，以将带有安全漏洞的板条箱报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
+* [cargo-audit](https://github.com/RustSec/cargo-audit) -审核Cargo.lock，以将带有安全漏洞的箱子报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
 * [cargo-inspect](https://github.com/mre/cargo-inspect) -在没有语法糖的情况下检查Rust代码，以了解编译器的幕后工作.
 * [clippy](https://github.com/Manishearth/rust-clippy) -防止常见错误并改进Rust代码的代码仓库
 * [electrolysis](https://github.com/Kha/electrolysis) -通过在精益定理证明者中将其转换为定义来正式验证Rust程序的工具.
@@ -539,8 +539,9 @@
 * [Goodcheck](https://github.com/sideci/goodcheck) -基于正则表达式的可定制棉短绒
 * [graudit](https://github.com/wireghoul/graudit) - Grep rough audit - source code auditing tool - C/C++, PHP, ASP, C#, Java, Perl, Python, Ruby
 * [Hound CI](https://houndci.com/)  -在GitHub拉取请求中评论样式违规.  支持Coffeescript，Go，HAML，JavaScript，Ruby，SCSS和Swift.
-* [imhotep](https://github.com/justinabrahms/imhotep) -对提交到存储库中的提交进行评论，并检查语法错误和常规的掉毛警告.
+* [imhotep](https://github.com/justinabrahms/imhotep) - Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
 * [Infer](https://github.com/facebook/infer) -用于Java，C和Objective-C的静态分析器
+* [InsiderSec](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 * [Kiuwan](https://www.kiuwan.com/code-security-sast/) :copyright: - Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more
 * [Klocwork](http://www.klocwork.com/products-services/klocwork) ：copyright：-针对C / C ++，Java和C的质量和安全性静态分析#
 * [oclint](https://github.com/oclint/oclint) -静态源代码分析工具，可提高C，C ++和Objective-C的质量并减少缺陷
@@ -549,7 +550,7 @@
 * [pre-commit](https://github.com/pre-commit/pre-commit) -用于管理和维护多语言预提交挂钩的框架.
 * [Pronto](https://github.com/prontolabs/pronto)  -快速自动代码审查您的更改.  支持40多种语言的跑步者，包括Clang，Elixir，JavaSCript，PHP，Ruby等
 * [PT.PM](https://github.com/PositiveTechnologies/PT.PM) - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL.
-* [PVS-Studio](https://www.viva64.com/en/pvs-studio/) ：版权：-a（[conditionally free](https://www.viva64.com/en/b/0614/) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list). Supports CWE mapping, MISRA and CERT coding standards.
+* [PVS-Studio](https://www.viva64.com/en/pvs-studio/) ：版权：-a（[conditionally free](https://www.viva64.com/en/b/0614/) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) .  支持CWE映射，MISRA和CERT编码标准.
 * [Reviewdog](https://github.com/haya14busa/reviewdog) -一种在任何代码托管服务中发布来自任何linter的评论评论的工具.
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 * [Semmle QL and LGTM](https://semmle.com/)  ：copyright：-使用对源代码的查询来查找安全漏洞，变体和关键代码质量问题.  自动检查PR代码；  对于公共GitHub / Bitbucket回购免费： [LGTM.com](https://LGTM.com).
@@ -575,7 +576,7 @@
 * [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
 * [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
 * [Jakstab](https://github.com/jkinder/jakstab) -Jakstab是基于抽象解释的集成反汇编和静态分析框架，用于设计可执行文件的分析并恢复可靠的控制流程图.
-* [Twiggy](https://github.com/rustwasm/twiggy)  -分析二进制文件的调用图以分析代码大小.  目标是减少二进制文件.
+* [Twiggy](https://github.com/rustwasm/twiggy) - Analyzes a binary's call graph to profile code size. The goal is to slim down binaries.
 
 ## Build tools
 
@@ -603,13 +604,13 @@
 ## Configuration Management
 
 * [ansible-lint](https://github.com/willthames/ansible-lint) -检查剧本中可能会改善的做法和行为
-* [cfn-lint](https://github.com/awslabs/cfn-python-lint) -AWS Labs CloudFormation linter.
+* [cfn-lint](https://github.com/awslabs/cfn-python-lint) - AWS Labs CloudFormation linter.
 * [cfn_nag](https://github.com/stelligent/cfn_nag) -适用于AWS CloudFormation模板的模板.
 * [checkov](https://github.com/bridgecrewio/checkov/) -用于Terraform文件的静态分析工具（tf&gt; = v0.12），可防止在构建时云配置错误.
 * [cookstyle](https://docs.chef.io/cookstyle.html) -Cookstyle是基于RuboCop Ruby linting工具的厨师工具整理工具
 * [foodcritic](http://www.foodcritic.io/) -检查主厨食谱中常见问题的皮棉工具.
 * [Puppet Lint](https://github.com/rodjek/puppet-lint) -检查您的人偶清单是否符合样式指南.
-* [terraform-compliance](https://terraform-compliance.com) -针对Terraform的轻量级，注重合规性和安全性的BDD测试框架.
+* [terraform-compliance](https://terraform-compliance.com) -针对Terraform的轻量级，专注于合规性和安全性的BDD测试框架.
 * [terrascan](https://github.com/cesar-rodriguez/terrascan) -收集用于Terraform模板的静态代码分析的安全性和最佳实践测试.
 * [tflint](https://github.com/wata727/tflint) -一种Terraform linter，用于检测“ terraform plan”无法检测到的错误.
 
@@ -672,7 +673,7 @@
 * [Android Lint](http://tools.android.com/tips/lint) -在Android项目上运行静态分析.
 * [android-lint-summary](https://github.com/passy/android-lint-summary) -将多个项目的棉绒错误合并为一个输出，立即检查多个子项目的棉绒结果.
 * [FlowDroid](https://github.com/secure-software-engineering/soot-infoflow-android) -适用于Android应用程序的静态污点分析工具
-* [paprika](https://github.com/GeoffreyHecht/paprika) -一个工具包，用于检测已分析的Android应用程序中的某些代码异味.
+* [paprika](https://github.com/GeoffreyHecht/paprika) -一个工具包，用于检测已分析的Android应用程序中的某些代码气味.
 * [qark](https://github.com/linkedin/qark) -查找多个与安全性相关的Android应用程序漏洞的工具
 
 ## Packages
@@ -724,7 +725,7 @@
 * [Snyk](https://snyk.io/) -漏洞扫描程序，用于依赖node.js应用程序（开放源代码项目免费）
 * [SonarCloud](https://sonarcloud.io)  -基于多语言云的静态代码分析.  历史，趋势，安全热点，请求请求分析等.  免费提供开源.
 * [Teamscale](http://www.teamscale.com/)  -静态和动态分析工具，支持超过25种语言并直接集成了IDE.  可应要求免费托管开源项目.  提供免费的学术许可证.
-* [Upsource](https://www.jetbrains.com/upsource/) - Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin.
+* [Upsource](https://www.jetbrains.com/upsource/) -具有Java，PHP，JavaScript和Kotlin的静态代码分析和代码感知导航的代码审查工具.
 
 ## Writing
 

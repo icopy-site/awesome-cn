@@ -47,7 +47,7 @@ Audio
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统.  包括用于Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在以更健壮，更具表现力，连贯性，反射性和柔和的方式实现其中的大部分功能.  通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在实现其中的大部分功能，但以一种更健壮，富有表现力，一致，反射性和脆弱的方式实现.  通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  -用于OpenAL音频库的绑定.  公共区域.
 * [Common Music](https://github.com/ormf/cm) -一个的存储库
 古老版本的通用音乐（2.12.0版），大概是最后一个
@@ -176,7 +176,7 @@ Tools
 * [modf](https://github.com/smithzvk/modf) -类似setf的宏，用于函数式编程.
 
 
-and see more on [Quickdocs](http://quickdocs.org/search?q=data+structure).
+并查看更多 [Quickdocs](http://quickdocs.org/search?q=data+structure).
 
 
 Docker映像
@@ -240,7 +240,7 @@ Docker映像
 * [cl-mpg123](https://shirakumo.github.io/cl-mpg123) 和
   [cl-out123](https://shirakumo.github.io/cl-out123)，绑定
   分别用于libmpg123和libout123的库
-  易于使用的mp3解码和跨平台音频
+  and easy to use mp3 decoding and cross-platform audio
    输出.  [Artistic License 2.0] [47].
 * [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) –通过这种小型框架，您将能够制作简单的2D游戏：绘制基本的几何形式，图像和文本，播放声音以及收听鼠标和键盘输入.
 * [cl-gamepad](https://shirakumo.github.io/cl-gamepad)  -在Windows，Mac OS和Linux上访问游戏手柄和操纵杆.  [Artistic License 2.0] [51].
@@ -260,7 +260,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
-* [donuts](https://github.com/tkych/donuts)  -图形绘制DSL用于Common Lisp.  [Expat] [14].
+* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [Expat] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -448,7 +448,7 @@ Typing
 ------
 
 * [cl-algebraic-data-type](https://github.com/stylewarning/cl-algebraic-data-type)  -一个用于以与Haskell或ML类似的精神定义代数数据类型的库.  [3子BSD] [15].
-*  [trivial-types](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL][8].
+*  [trivial-types](https://github.com/m2ym/trivial-types)  -提供缺少但重要的类型定义，例如“ proper-list”，“ association-list”，“ property-list”和“ tuple”.  [LLGPL] [8].
 * [defstar](https://bitbucket.org/eeeickythump/defstar/src/master/)  -宏的集合，可轻松包含lambda列表中参数的类型声明.  [GNU GPL3] [2]
 
 
@@ -482,6 +482,7 @@ Advanced
 
  * [Lake Over Lambda] [156]-有关高级宏技术的书.  前六章可在​​线获得.
 * [On Lisp](http://www.paulgraham.com/onlisp.html) -Paul Graham关于Lisp宏（以及其他有趣内容）的惊人著作.
+* [Programming Algorithms](https://leanpub.com/progalgs) -用Lisp中的示例编写高效程序的综合指南.
 
 Reference
 ---------
@@ -492,7 +493,7 @@ Reference
 * [Common Lisp Standard Draft (pdf)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) -Common Lisp规范的标准草案，格式正确且带有侧边栏的PDF.
 * [Common Lisp the Language](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) -ANSI规范之前的Common Lisp的原始标准.
 * [Minispec](https://lamberta.github.io/minispec/)  -较友好但不完整的CLHS版本.  还包含一些常用CL库的文档（例如Alexandria）.
-* [Simplified Common Lisp reference](http://jtra.cz/stuff/lisp/sclr/index.html) -CLHS的简化版本.
+* [Simplified Common Lisp reference](http://jtra.cz/stuff/lisp/sclr/index.html) - The simplified version of CLHS.
 * [Quickdocs](http://quickdocs.org/) -Quicklisp提供的库的参考.
 
 ## Offline ##
@@ -570,7 +571,7 @@ Credit: [borretti.me' state of CL ecosystem 2015](http://borretti.me/article/com
 ===========================
 
 * [cl-nlp](https://github.com/vseloved/cl-nlp)  -自然语言处理工具集.  [Apache2.0] [89].
-* [babel2](https://github.com/lucas8/Babel2/) - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism [Apache2.0][89].
+* [babel2](https://github.com/lucas8/Babel2/) -流体构造语法的实现，计算框架和基于统一的语法形式化[Apache2.0] [89].
 * [sparser](https://github.com/ddmcdonald/sparser) -自然
  英语语言理解系统.  [Eclipse] [209].
 
@@ -845,8 +846,12 @@ Others
 作业处理
 --------------
 
+
+* [SBCL's timers](http://www.sbcl.org/manual/#Timers)，系统范围内的事件调度程序.
 * [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理.  受Ruby的Sidekiq启发，并与其Web UI兼容.  [LLGPL] [8].
+* [cl-cron](http://quickdocs.org/cl-cron/api)  -提供cron类设施的简单工具.  [GPL3] [2].
 * [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的类似cron的调度程序.  [MIT] [200].
+
 
 Regex
 =====
@@ -1011,7 +1016,7 @@ Tools
  * [quickapp] [188]-一个用于使用SBCL和buildapp生成模板项目的项目.  还包括命令行argparser.  [3子BSD] [15].
 * [quickapp-cli](https://github.com/triclops200/quickapp-cli)  -[quickapp] [188]作为命令行实用程序.  [3子BSD] [15].
 * [quicksearch](https://github.com/tkych/quicksearch)  -从REPL查找在线图书馆.  [Expat] [14].
-* [cl-project](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL][8].
+* [cl-project](https://github.com/fukamachi/cl-project)  -一般的现代项目骨架.  [LLGPL] [8].
 * [lake](https://github.com/takagi/lake)  -一个GNU make like build实用程序.  [MIT] [200].
 
 
@@ -1049,7 +1054,7 @@ Configuration
 -------------
 
 *  [py-configparser](https://common-lisp.net/project/py-configparser/)  -读写Python的类似ConfigParser的配置文件.  [MIT] [200].
-* [envy](https://github.com/fukamachi/envy)  -配置切换器.  [FreeBSD] [39].
+* [envy](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD][39].
 * [chameleon](https://github.com/sheepduke/chameleon/)  -配置文件支持附带的配置管理库.  [MIT] [200].
 
 CSV
@@ -1236,7 +1241,7 @@ XML
 Contributing
 ============
  永远欢迎您的贡献！  请提交拉取请求或创建
-向列表添加新框架，库或软件的问题.
+an issue to add a new framework, library or software to the list.
 
 我们（尝试）遵守的规则如下：
 

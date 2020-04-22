@@ -45,7 +45,6 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [WhatoPlay](https://whatoplay.com) -游戏评论和分级聚合器，以及发现游戏的推荐器.
 
 ---
-
 ## Artificial Intelligence
 
 - [AI Birds](http://aibirds.org) -人工智能竞赛.
@@ -101,16 +100,26 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [WebNES](https://github.com/pubby) -在网络浏览器中播放NES的房间. [Play](http://pubby.github.io/webnes/index_app.html).
 
 ---
+## Books
+ -Drachen，A.Mirza-Babaei，P.Nacke，L.（2018年）.  _游戏用户研究_.  牛津
+ -El-Nasr，S.Drachen，A.Canossa，A.（2013）.  _游戏分析：最大化玩家数据的价值_.  Sprigner.
+ -Han，J.，Pei，J.，Kamber，M.（2011）.  _数据挖掘：概念和技术_.  爱思唯尔.
+ -Hennig-Thurau，T.休斯敦，M.（2018）.  _娱乐科学：电影，游戏，音乐和书籍的数据分析和实用理论_.  施普林格.
+ -Loh，A. Sheng，Y.Ifenthaler，D.（2015）.  _严肃的游戏分析：绩效评估，评估和改进的方法_.  施普林格.
+ -罗素（Russell，SJ），诺维格（Norvig，P.）（2016）.  _人工智能：现代方法.  马来西亚;  培生教育有限公司.
+ -Yannakakis，GN，Togelius，J.（2018年）.  _人工智能和游戏_.  施普林格.
+
+---
 ## Dataset
 
 - [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) -匹配排名游戏的详细信息.
 - [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) -Apple App Store中的策略游戏.
 - [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) -参加世界杯的球队的详细信息.
+- [380,000 Guesses Dataset - Higher or Lower?](https://www.kaggle.com/sdobson46/higher-or-lower-game) -猜数字的真实游戏数据.
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) -来自棋盘游戏的数据.
 - [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) -桌游中的属性和等级 [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) -棋盘游戏的玩法.
 - [bravefrontier_data](https://github.com/cheahjs/bravefrontier_data) -手机游戏数据，物品和任务信息.
-- [Caltech Games](http://www.vision.caltech.edu/malaa/datasets/caltech-games/) -游戏封面.
 - [Clash of Clans app store user comments](https://www.kaggle.com/moradnejad/clash-of-clans-50000-user-comments) -来自Google Play和iTunes App Store的用户评论.
 - [Clash royale Dataset](https://www.kaggle.com/swappyk/clash-royale-dataset) -卡数据.
 - [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global) -玩家数据.
@@ -130,6 +139,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [Heroes of Might and Magic 3 Units](https://www.kaggle.com/daynearthur/heroes-of-might-and-magic-3-units) -游戏单位.
 - [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - Collection of decks.
 - [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) -球员和球队数据.
+- [League of Legends Diamond Ranked Games (10 min)](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min) -分类排名的游戏.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) -游戏数据.
 - [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) -卡数据.
 - [Oldschool Runescape Polling Data](https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data) -历史轮询数据.
@@ -183,8 +193,8 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 
 ---
 ## Market Research
-- [Euro-Monitor, Video Games](https://www.euromonitor.com/video-games) -战略市场研究员
-- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) -联合市场研究
+- [Euro-Monitor, Video Games](https://www.euromonitor.com/) -战略市场研究员.
+- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) -联合市场研究.
 - [Newzoo](https://newzoo.com/)  -在游戏市场上查看.  无与伦比的见解和价值.
 - [Statista, Video Games](https://www.statista.com/topics/868/video-games/) -市场和舆论研究机构以及来自经济部门的数据.
 
@@ -207,17 +217,6 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [Reddit - Datasets](https://www.reddit.com/r/datasets) -数据集论坛.
 - [UCI](https://archive.ics.uci.edu/) -数据集.
 - [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) -数据集.
-
----
-
-## Books
- -Drachen，A.Mirza-Babaei，P.Nacke，L.（2018年）.  _游戏用户研究_.  牛津
- -El-Nasr，S.Drachen，A.Canossa，A.（2013）.  _游戏分析：最大化玩家数据的价值_.  Sprigner.
- -Han，J.，Pei，J.，Kamber，M.（2011）.  _数据挖掘：概念和技术_.  爱思唯尔.
- -Hennig-Thurau，T.休斯敦，M.（2018）.  _娱乐科学：电影，游戏，音乐和书籍的数据分析和实用理论_.  施普林格.
- -Loh，A. Sheng，Y.Ifenthaler，D.（2015）.  _严肃的游戏分析：绩效评估，评估和改进的方法_.  施普林格.
- -罗素（Russell，SJ），诺维格（Norvig，P.）（2016）.  _人工智能：现代方法.  马来西亚;  培生教育有限公司.
- -Yannakakis，GN，Togelius，J.（2018年）.  _人工智能和游戏_.  施普林格.
 
 ---
 ## License

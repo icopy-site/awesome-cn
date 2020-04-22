@@ -128,7 +128,7 @@
 - [Auto Tile Layer](https://github.com/leezh/autotile) -允许使用RPG Maker的Autotile格式（Godot 2.1）自动进行2D拼贴.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -Camera2D的屏幕抖动效果.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器（Godot 2.1、3.1）.
-- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的放松方程式的一部分.
+- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程式的一部分.
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
@@ -156,6 +156,7 @@
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) -建立贴图集.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) -快速建立样式（Godot 2.x）的tileset.
 - [Volumetrics](https://github.com/SIsilicon/Godot-Volumetrics-Plugin) -基于体素的体积照明和雾插件（Godot 3.2）.
+- [VPainter](https://github.com/tomankirilov/VPainter) -3D顶点绘画插件（Godot 3.2）.
 - [Yume Visual Novel Editor](https://github.com/yumedev40/Yume-Visual-Novel-Editor) -用于创建视觉小说游戏的集成编辑器（Godot 3.2）.
 
 ## GDScript editor support

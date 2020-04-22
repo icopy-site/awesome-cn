@@ -172,7 +172,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) -面向对象的语言，针对Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -JVM的功能性编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) -具有Haskell和ML影响的依赖类型的通用纯函数式编程语言.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，在这些应用中，可靠性和效率至关重要.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，这些应用对可靠性和效率至关重要.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
@@ -337,7 +337,7 @@
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) -遍历嵌套的数据结构.
 
 ## Books
 
@@ -529,6 +529,7 @@
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) -人工智能和机器学习的区块链项目.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) -支持工业规模应用程序的分散式操作系统.
 - [Corda](https://github.com/chainstack/awesome-corda#readme) -专为业务设计的开源区块链平台.
+- [Waves](https://github.com/msmolyakov/awesome-waves#readme) -用于Web 3.0应用程序和去中心化解决方案的开源区块链平台和开发工具集.
 
 ## Higher Education
 
@@ -609,7 +610,7 @@
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) -动态跟踪框架.
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) -增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实施与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.

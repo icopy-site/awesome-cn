@@ -61,6 +61,8 @@
 -[西班牙语的VueJS-Facebook组[西班牙语]]（https://www.facebook.com/groups/vue.es/）
 - [VueJS India 🇮🇳  - Discord chat server](https://goo.gl/mYXKUv)
 -[VueJS Indonesia-Telegram Group [Indonesian]]（https://t.me/vuejsindonesia）
+-[VueJS Indonesia-Facebook Group [Indonesian]]（https://www.facebook.com/groups/1675298779418239/）
+-[VueJS Indonesia-聚会页面[印尼]]（https://www.meetup.com/Vuejs-Indonesia/）
 - [VueJS Hong Kong - Facebook group](https://www.facebook.com/groups/887185518120024)
 - [VueJS Arab - Telegram Group](https://t.me/vuejsarab)
 -[VueJS Vix-电报组[葡萄牙语]]（https://t.me/vuejsvix）
@@ -70,7 +72,6 @@
 - [VueJS Finland - Meetup](https://www.meetup.com/vuejs-finland/)
 - [VueJS Finland - Facebook Page](https://www.facebook.com/vuejsfinland/)
 -[让我们谈谈Vue.js-电报小组[西班牙语]]（https://t.me/vuejsEs）
-- [VueJS Indonesia - Facebook Group](https://www.facebook.com/groups/1675298779418239/)
 - [VueBLR - Meetup](https://www.meetup.com/vue-bangalore/)
 - [VueBLR - WhatsApp Group](http://bit.ly/vueblr-whatsapp)
 - [VueBLR - Facebook Group](https://www.facebook.com/groups/vue.blr/)
@@ -196,7 +197,7 @@
 - [Deploy Vue.js — SSR(Vuetify) on Production with Pm2 and Nginx](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
 - [Testing Vue Comp上ents](http://testingvue.com) 上 [laracast](https://laracasts.com/series/testing-vue)
 - [Building a Full Stack Web App with Vue.js and Express.js](https://www.youtube.com/watch?v=Fa4cRMaTDUI&t=) 通过 [@CodyLSeibert](https://twitter.com/CodyLSeibert)
-- [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video) by Peter van Meijgaard, Packt. (September 2017)
+- [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video)  由Packt的Peter van Meijgaard撰写.  （2017年9月）
 - [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js) 上 [Sabe.io](https://sabe.io/)
 - [Building Your First Advanced CRUD Application with Vue 2 (Video)](https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video)  由Packt的Peter van Meijgaard撰写.  （2017年7月）
 - [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
@@ -656,8 +657,8 @@
 - [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) -基于JavaScript的DataMap的Vue端口
 - [Marked.cc](https://github.com/msjaber/marked.cc) -创建并共享笔记和散文的精美图像.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) -英雄联盟在线游戏玩家的统计网站.
-- [Veniqa](https://github.com/Viveckh/Veniqa) -带有Vue编写的购物客户端和管理面板的电子商务解决方案. 
-- [tato music player](https://github.com/tatoMa/neteast-cloud-music-player) -适用于以Vue和Vuetify编写的音乐迷的移动优先，手写，响应式网络应用程序. 
+- [Veniqa](https://github.com/Viveckh/Veniqa) -带有Vue编写的购物客户端和管理面板的电子商务解决方案.
+- [tato music player](https://github.com/tatoMa/neteast-cloud-music-player) -适用于以Vue和Vuetify编写的音乐迷的移动优先，手写，响应式网络应用程序.
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) -PWA跟踪个人购买，不再需要纸和笔去超市Vue和Vuetify
 
 ### Commercial Products
@@ -715,7 +716,7 @@
   - [Bitly Vue](https://alpixel.github.io/bitly-vuejs) -使用VueJS和Bitly API缩短网址.
   - [Storyblok](https://www.storyblok.com) -使用VueJS作为前端的基于API的/解耦的CMS.
   - [WizzAir](https://wizzair.com/)
-  - [Moving to HTTPS](https://movingtohttps.com/) -有关将不同平台/托管站点移至HTTPS的指南
+  - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS
   - [Booknshelf](https://booknshelf.com/) -发现有关不同主题的精彩书籍和书架.
   - [Euronews](http://www.euronews.com) -Euronews是一种多语言新闻媒体服务，总部位于法国里昂.
   - [Roozame روزامه](http://www.roozame.com) -Roozame是波斯的智能新闻媒体服务.
@@ -875,7 +876,7 @@
   - [Tune.pk](https://tune.pk/) -Tune.pk是最大的视频共享网站之一，其内容来自世界各地.
   - [Narrandum](https://narrandum.com) -使用Vue.js，Vuetify和Feathersjs构建的客户旅程映射工具
   - [Keep Formula](https://keepformula.com/) -Keep Formula是一个简单的应用程序，可简化您的计算.
-  - [tato music player](https://neteast.netlify.com/) -适用于以Vue和Vuetify编写的音乐迷的移动优先，手写，响应式网络应用程序. 
+  - [tato music player](https://neteast.netlify.com/) -适用于以Vue和Vuetify编写的音乐迷的移动优先，手写，响应式网络应用程序.
 
 ### Interactive Experiences
 
@@ -1093,7 +1094,7 @@
 - [@hscmap/vue-window](https://github.com/michitaro/vue-window) -vue2的窗口UI组件.
 - [vue-gallery](https://github.com/RobinCK/vue-gallery)  -VueJS响应式和可自定义的图像和视频库，轮播和灯箱，针对移动和桌面Web浏览器进行了优化.  基于blueimp-gallery
 - [vue-swal](https://github.com/anteriovieira/vue-swal)  -用于将SweetAlert集成到Vuejs的小型包装器.  （与SSR兼容）
-- [vue-modal-dialogs](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
+- [vue-modal-dialogs](https://github.com/hjkcai/vue-modal-dialogs) -✨承诺自己的对话！
 - [vue-img-view](https://github.com/la7ender/vue-img-view) -Vue.js的插件，您可以在任何地方拖动/查看/旋转图片
 - [vue-modaltor](https://github.com/davodaslanifakor/modaltor) -vuejs的最先进的可配置模式组件
 - [v-modal-backdrop](https://github.com/nash403/v-modal-backdrop) -vue的简单通用背景组件
@@ -1133,7 +1134,7 @@
  - [vue-ionicons](https://github.com/mazipan/vue-ionicons) -来自离子团队的Vue图标集组件.
  - [vue-ico](https://github.com/paulcollett/vue-ico) -具有嵌入式浏览器支持和选择性捆绑的Vue死简单图标
  - [mdi-vue](https://github.com/therufa/mdi-vue) -Vuejs的Material Design图标组件
- - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) -真棒5 Vue组件
+ - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
  - [g-icon](https://github.com/nash403/g-icon) -用于svg图标的简单图标组件（与类似Font Awesome的字体工具包兼容）
  - [vue-simple-line-icons](https://github.com/nkoik/vue-simple-line-icons) -Vuejs的简单线条图标组件
  - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) -国旗图标的Vue组件
@@ -1299,7 +1300,7 @@
  - [vue-functional-calendar](https://github.com/ManukMinasyan/vue-functional-calendar) -基于Vue的轻量级高性能日历组件（日期选择器，日期范围）.
  - [vue-cal](https://github.com/antoniandre/vue-cal)  -Vue JS完整日历，无依赖性，无BS.  .
  - [vue-draggableCal](https://github.com/liloow/vue-draggableCal)  -不是您的普通日期选择器.  一个Vuejs可拖动的日期选择器，具有新颖的响应式设计，可移动就绪且具有0个依赖项，已压缩17kb
- - [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar) -  A full year (12 months on a page) calendar for Vue2. Uses dayjs.
+ - [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar)  -Vue2的全年（每页12个月）日历.  使用dayjs.
  - [vuelendar](https://github.com/codesthq/vuelendar) -用VueJS编写的简洁日历
  - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) -Vue的Datepicker组件
  - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) -最轻巧的VueJS日期选择器和日期范围选择器，使用date-fns且没有其他依赖项
@@ -1556,7 +1557,7 @@
 ##### Picker
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) -Vue 2.x的平滑选择器组件，例如iOS本机日期时间选择器.
- - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker)  -Vue 2.x的滚动选择器组件.  支持鼠标（也可以滚轮）和触摸的所有手势.
+ - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.
  - [vue-fontawesome-picker](https://github.com/zolamk/vue-fontawesome-picker) -Vue 2.x的字体真棒图标选择器组件.
 
 ##### Generator
@@ -1943,14 +1944,14 @@
  - [iview-ui](https://www.iviewui.com) -适用于网络的Vue.js 2.0 UI框架.
  - [AT-UI](https://at.aotu.io) -Vue.js 2.0使用♥制作的专门用于桌面应用程序的全新扁平UI-Kit
  - [v-semantic](https://www.npmjs.com/package/v-semantic) - 实施 [semantic-ui](https://semantic-ui.com/) 查看
- - [bootstrap-vue](https://bootstrap-vue.github.io) - 实施 [bootstrap-4](https://getbootstrap.com/) Vue.js的网格和组件2.
+ - [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) -Vue.js的Bootstrap v4组件和网格系统.
  - [fish-ui](https://myliang.github.io/fish-ui) -适用于Web的Vue.js 2.0 UI工具包
  - [zircle-ui](https://github.com/zircleUI/zircleUI) -前端库，用于开发可缩放的用户界面.
  - [Material Components Vue](https://github.com/matsp/material-components-vue) -包装 [material-components-web](https://github.com/material-components/material-components-web) 对于Vue.js
  - [VueFace](https://github.com/sudheerj/vueface) -用于Web的Vue.js 2.0 UI组件库
  - [vuesax](https://github.com/lusaxweb/vuesax) -Vue.js的前端视图组件.
  - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) -Vue.js 2.0的UI组件框架
- - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
+ - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) -基于Ant Design和Vue 2.5.0的企业级UI组件
  - [heyui](https://github.com/heyui/heyui) -（https://www.heyui.top/zh）-适用于Web的Vue.js 2.0 UI工具包.
  - [Carvue.js](https://carvuejs.github.io/) -IBM的Vue.js碳设计系统
  - [BalmUI](https://material.balmjs.com/) -Vue.js的下一代Material UI
@@ -1994,7 +1995,7 @@
  - [keen-ui](https://github.com/JosephusPaye/Keen-UI) -用Vue编写并受Material Design启发的基本UI组件的轻量级集合.
  - [vue-admin](https://github.com/vue-bulma/vue-admin) -Vue管理面板框架，由Vue 2.0和Bulma 0.3提供支持.
  - [vuikit](https://github.com/vuikit/vuikit) -具有Vue所有功能的UIkit.
- - [uiv](https://github.com/wxsms/uiv) 由Vue2实现的Bootstrap3组件.
+ - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
  - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) -使用Vue.js 2构建的Bootstrap 3组件
  - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) -适用于vue 2.0的高度可扩展的Web组件
  - [guilhermewaess/SemVue](https://github.com/guilhermewaess/SemVue) -使用Vue 2实现的语义UI模块

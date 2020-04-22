@@ -52,7 +52,7 @@
 * Beta绑定-http://www.betabound.com/announce/
 * Beta页-https://betapage.co/
 * Betafy-https://www.betafy.co/easysignup/startup
-* BetaList - https://betalist.com/submit
+* BetaList-https://betalist.com/submit
 *更好的测试-https://beterest.com/submit-startup/
 * Boing Boing-http://boingboing.net/sub/
 * BuiltInChicago-http://www.builtinchicago.org/send-us-tip
@@ -84,6 +84,7 @@
 * Index.co - https://index.co/startup
 *独立黑客-https://www.indiehackers.com/
 *杀手级创业公司-http://killerstartups.com/submit-startup/
+*拉拉斯人-https://larasites.com/
 *土地书-https://land-book.com/guidelines
 *启动列表-https://launchlister.com/submit-startup
 *已启动-https://launched.io/SubmitStartup
@@ -95,7 +96,6 @@
 *网状-https://www.netted.net/contact-us/
 *下一大产品-http://nextbigproduct.net/product-submission/
 *下一件大事-http://nextbigwhat.com/
-*在应用程序上-http://ontheapp.com/about/
 *下载-http://www.paggu.com/submit-your-startup/
 * pFind-http://www.pfind.com/submit
 * Postscapes-http://about.postscapes.com/tools
@@ -140,7 +140,7 @@
 *技术冥王星-http://www.techpluto.com/submit-a-startup/
 *更改日志-https://github.com/thechangelog/ping
 * iPhone妈妈-https://www.theiphonemom.com/
-*启动音调-http://thestartuppitch.com/post-a-pitch/
+* The Startup Pitch - http://thestartuppitch.com/post-a-pitch/
 *顶级替代品-https://topalternatives.com/
 * Vator-http://www.vator.tv/
 * VB个人资料-http://vbprofiles.com/

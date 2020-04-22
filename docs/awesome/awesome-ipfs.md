@@ -56,7 +56,7 @@
 - [Hardbin](https://github.com/jes/hardbin) -Hardbin是一种加密的pastebin，其解密密钥在URL片段中传递
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) -具有多种功能的booru风格的媒体标记应用程序，最近添加了对ipfs的基本支持.
 - [InfiniteBooru](https://infinitebooru.com) -具有IPFS支持的所有媒体的booru风格的媒体标记应用程序和内容聚合器.
-- [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具可提供对以太坊和IPFS的安全，可靠和可扩展的访问，以帮助简化分散式应用程序的构建.
+- [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具可提供对以太坊和IPFS的安全，可靠和可扩展的访问，从而帮助简化分散式应用程序的构建.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) -使用IPFS进行Web存档（WARC）索引和重放.
 - [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) -建立在IPFS之上的Wiki
 - [IPFessay](https://gitlab.com/stavros/IPFessay) -在IPFS上发布无法审查的论文的简单方法.
@@ -76,7 +76,7 @@
 - [IpJot](https://ipjot.herokuapp.com/) -在IPFS上创建简短的笔记，故事，书籍，诗歌，对话.
 - [IPSE](https://www.ipse.io/) -IPFS网络的搜索引擎.
 - [Kauri](https://kauri.io)  -在IPFS和以太坊之上构建的，基于Web3技术的基于社区的知识平台.  学习，分享和策划最新和高质量的技术文章和系列.
-- [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -Dolphin File Manager的服务菜单，用于将文件上传到IPFS用于交易请求的开放网络.
+- [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) - Service Menu for Dolphin File Manager to upload files to IPFS The open network for transaction requests.
 - [killcord](https://killcord.io/) -防审查的死人开关 [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) -基于Pandoc的标记编辑器/预览器/转换器，已移植到IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [Minerva](https://github.com/bdchain/Minerva) -Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来.
@@ -103,7 +103,7 @@
 - [ToDo List Demo](https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/) -使用Windows.ipfs的待办事项列表演示应用程序. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
 - [Tree3 Network](https://tree3.network/) -由Stellar和IPFS提供支持的去中心化平台，用于小额支付，离线数据和博客. [Source](https://github.com/tree3network/tree3)
 - [ujo](http://ujomusic.com/) -音乐家的区块链市场.
-- [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
+- [uport](https://www.uport.me) -Uport是一个基于以太坊区块链的移动式，自我主权身份和密钥管理系统.
 - [Wistful Books](https://wistfulbooks.com/) -单页离线应用程序，可欣赏librivox.org有声读物. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) -具有IPFS支持的xfce-screenshooter的分支！
 

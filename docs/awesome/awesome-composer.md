@@ -78,7 +78,7 @@
 - [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) -下载并安装NodeJS和npm作为作曲家软件包.
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin)  -将所有Composer供应商软件包包装在您自己的名称空间中.  适用于WordPress插件.
 - [Composer Preload](https://github.com/Ayesh/Composer-Preload) -该插件会生成一个“ vendor / preload.php”文件来预热Opcache.
-- [PHP Inc](https://github.com/krakphp/php-inc) -自动包含用于自动加载和自动加载-开发的文件，以方便在作曲家加载的应用程序中使用功能和分组定义.
+- [PHP Inc](https://github.com/krakphp/php-inc) -自动包含用于autoload和autoload-dev的文件，以便于在composer加载的应用程序中使用函数和分组定义.
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) -使您可以在不同的作曲者存储库之间切换.
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) -防止将开发包添加到需求中并进入生产环境.
 - [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) -一次阻止多个安装或更新操作.
@@ -106,8 +106,9 @@
 - [Composer-Travis-Lint](https://github.com/raphaelstolt/composer-travis-lint) -允许您填充Travis CI配置文件（.travis.yml`）.
 - [Composer-Multitest](https://github.com/raphaelstolt/composer-multitest) -使您可以针对多个本地安装的PHP版本（由PHPBrew或phpenv管理）运行Composer脚本.
 - [ScriptsDev](https://github.com/neronmoon/scriptsdev) -使您可以使用`scripts-dev`部分，该部分仅在开发模式下触发脚本.
-- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)-一个Composer软件包，可将PhantomJS二进制文件（Linux，Windows，Mac）安装到项目的/ bin中.
-- [Composer-Vendor-Cleanup](https://github.com/0xch/composer-vendor-cleanup)-从供应商目录中删除列入白名单的不必要文件（例​​如测试/文档等）的脚本
+- [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer) -一个Composer软件包，可将PhantomJS二进制文件（Linux，Windows，Mac）安装到项目的/ bin中.
+- [Composer-Vendor-Cleanup](https://github.com/0xch/composer-vendor-cleanup) -从供应商目录中删除列入白名单的不必要文件（例​​如测试/文档等）的脚本.
+- [Composer Substitution Plugin](https://github.com/villfa/composer-substitution-plugin) -一个Composer插件，用动态值替换“脚本”部分中的占位符.
 
 ## Services
 

@@ -52,6 +52,7 @@
 - [k6 generator](https://github.com/OpenAPITools/openapi-generator) -用于将Swagger / OpenAPI规范转换为k6测试脚本的工具.
 - [jmeter-to-k6](https://github.com/loadimpact/jmeter-to-k6) -用于将JMeter测试用例转换为k6测试脚本的工具.
 - [jslib.k6.io](https://jslib.k6.io/) -适用于k6脚本的实用工具库.
+- [k6 for azure devops pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) -用于在Azure Devops管道中运行k6的Marketplace扩展.
 
 ## Stacks
 

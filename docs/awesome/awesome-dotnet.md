@@ -880,10 +880,10 @@
 * [SpecFlow](https://github.com/SpecFlowOSS/SpecFlow) -将业务需求绑定到.Net代码
 * [Stryker.NET](https://github.com/stryker-mutator/stryker-net) -.NET Core项目的变异测试
 * [xBehave.net](https://github.com/xbehave/xbehave.net) -xUnit.net扩展，用于使用自然语言描述您的测试. [https://xbehave.github.io](https://xbehave.github.io)
-* [xUnit.net](https://github.com/xunit/xunit) -用于.NET Framework的免费，开源，以社区为中心的单元测试工具. [https://xunit.github.io/](https://xunit.github.io/)
+* [xUnit.net](https://github.com/xunit/xunit) -用于.NET Framework的免费，开源，以社区为中心的单元测试工具.
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
 * [Expecto](https://github.com/haf/expecto) - A smooth testing framework for F# with tests as values. Unit testing, property based testing, performance testing and stress testing.
-* [ReportPortal](http://reportportal.io)  -AI驱动的测试自动化仪表板.  获取，汇总和分析测试报告以确定发布状况.
+* [ReportPortal](https://reportportal.io)  -AI驱动的测试自动化仪表板.  获取，汇总和分析测试报告以确定发布状况.
 * [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects)  -使用反射对任何两个.NET对象进行深层比较.  显示两个对象之间的差异. 
 * [Verify](https://github.com/SimonCropp/Verify) -验证工具，可轻松批准复杂的模型和文档.
 

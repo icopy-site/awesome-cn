@@ -64,7 +64,7 @@
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) -添加基于CSS类的“深色”变体.
-- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的类名，以显示边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式.
+- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -为边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式的CSS逻辑属性生成类名.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) -添加了“滚动捕捉”实用程序.
 - [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) -将不透明度变体添加到现有颜色.
 - [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) -根据配置的颜色添加“ box-shadow”实用程序.
@@ -299,6 +299,8 @@
 - [This Month Rocks](https://thismonth.rocks)
 - [Aditya Agarwal](https://devadi.netlify.com)
 - [Dumpsters.com](https://www.dumpsters.com)
+- [Rasul Kireev](https://rasulkireev.com)
+- [Built with Django](https://builtwithdjango.com)
 
 ## Contribute
 
