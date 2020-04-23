@@ -343,7 +343,6 @@ Installers
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [RIO](https://rio.io/) -基于Kubernetes的MicroPaaS
   - [teresa](https://github.com/luizalabs/teresa) -在Kubernetes上运行的简单PAAS.
-  - [WSO2](http://wso2.com)
   - [Z.A.R.V.I.S.](https://zarvis.ai) -免费将Github项目部署到托管Kubernetes
 
 互动学习环境
@@ -513,7 +512,7 @@ Projects
 
 * [CNAB](https://cnab.io) -CNAB促进了容器本地应用程序及其耦合服务的捆绑，安装和管理.
 * [Helm](http://helm.sh) -有关更多信息，请查看- [Awesome Helm](https://github.com/cdwv/awesome-helm).
-* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他）.
+* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) -完全托管的软件包管理SaaS，为公共和私有Kubernetes注册中心提供一流的支持（Docker + Helm Charts，以及许多其他服务）.
 
 ## Monitoring Services
 
@@ -584,7 +583,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最好的OSS工具（例如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（例如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -1042,7 +1041,7 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，并且是充分利用品牌或企业的潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且是充分利用品牌或企业潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [Apcera](https://twitter.com/Apcera)

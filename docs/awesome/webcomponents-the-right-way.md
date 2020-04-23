@@ -81,7 +81,6 @@
 
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
-- [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
 ### Custom Elements
@@ -113,6 +112,11 @@
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
 - [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
 - [Open Web Components Recommendations](https://open-wc.org)
+
+### Styling
+
+- [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
+- [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
 
 ### Interoperability
 
@@ -173,19 +177,22 @@
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Calcite Components](https://github.com/Esri/calcite-components) -用于Esri的Calcite设计框架的共享Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
+- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统收集与框架无关的元素.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Elix](https://github.com/elix/elix) -用于常见用户界面模式的高质量，可定制的Web组件.
+- [Helix UI](https://github.com/HelixDesignSystem/helix-ui) -Helix设计系统的Web组件库.
 - [Lion Web Components](https://github.com/ing-bank/lion) -一套高性能，可访问且灵活的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
+- [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) -用于使用Web组件通过Nuxeo构建Web应用程序的组件.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) -灵活，轻量级的Web组件以及构建它们的工具的集合.
 - [Pearson Web Components](https://github.com/pearson-ux/web-components) -Pearson的可共享组件库可帮助开发人员构建一致的UI.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用Web组件构建的Adobe Spectrum设计语言实现.
 - [Tradeshift Elements](https://github.com/Tradeshift/elements) -可重用的Tradeshift UI组件作为Web组件.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -组件库在本地API的基础上提供了企业风味的糖.
 - [Vaadin components](https://github.com/vaadin/vaadin) -用于构建业务Web应用程序的不断发展的高质量Web组件集.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) -手绘，粗略外观的一组通用UI元素.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) - Set of common UI elements with a hand-drawn, sketchy look.
 
 ## Frameworks
 

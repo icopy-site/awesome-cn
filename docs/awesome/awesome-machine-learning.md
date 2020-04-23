@@ -47,7 +47,7 @@
 
 <a name="c-general-purpose"></a>
 #### General-Purpose Machine Learning
-* [Darknet](https://github.com/pjreddie/darknet)  -Darknet是用C和CUDA编写的开源神经网络框架.  它快速，易于安装，并支持CPU和GPU计算.
+* [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 * [Recommender](https://github.com/GHamrouni/Recommender) -使用协作过滤（CF）的产品推荐/建议的AC库.
 * [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner)  -基于scikit-learn算法的混合推荐系统.  ** [不推荐使用] **
 * [neonrvm](https://github.com/siavashserver/neonrvm)  -neonrvm是基于RVM技术的开源机器学习库.  它是用C编程语言编写的，并带有Python编程语言绑定.
@@ -108,14 +108,15 @@
 * [xLearn](https://github.com/aksnzhy/xlearn)  -高性能，易于使用且可扩展的机器学习套件，可用于解决大规模的机器学习问题.  xLearn对于解决大规模稀疏数据上的机器学习问题特别有用，这在Internet服务（例如在线广告和推荐系统）中非常常见.
 * [Featuretools](https://github.com/featuretools/featuretools)  -自动特征工程库.  它擅长使用可重复使用的特征工程“基元”将事务和关系数据集转换为用于机器学习的特征矩阵.
 * [skynet](https://github.com/Tyill/skynet) - A library for learning neural network, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#.
-* [Feast](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+* [Feast](https://github.com/gojek/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
+* [Hopsworks](https://github.com/logicalclocks/hopsworks)  -业界首个开放源代码功能存储，用于AI的数据密集型平台.  Hopsworks Feature Store既提供了基于Apache Hive进行培训和批处理的功能库，又为在线应用程序提供了基于MySQL Cluster的功能服务数据库.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -用于可重现和可扩展的机器学习和深度学习的平台.
 
 <a name="cpp-nlp"></a>
 #### Natural Language Processing
 
 * [BLLIP Parser](https://github.com/BLLIP/bllip-parser) -BLLIP自然语言解析器（也称为Charniak-Johnson解析器）.
-* [colibri-core](https://github.com/proycon/colibri-core) -C ++库，命令行工具和Python绑定，用于以快速且节省内存的方式提取并使用基本语言结构（例如n-gram和skipgram）.
+* [colibri-core](https://github.com/proycon/colibri-core) -C ++库，命令行工具和Python绑定，用于以快速且节省内存的方式提取和使用基本语言结构（例如n-gram和skipgram）.
 * [CRF++](https://taku910.github.io/crfpp/)  -条件随机字段（CRF）的开源实现，用于分割/标记顺序数据和其他自然语言处理任务.  ** [不推荐使用] **
 * [CRFsuite](http://www.chokkan.org/software/crfsuite/)  -CRFsuite是用于标记顺序数据的条件随机字段（CRF）的实现.  ** [不推荐使用] **
 * [frog](https://github.com/LanguageMachines/frog) -为荷兰人开发的基于内存的NLP套件：PoS标记器，lemmatiser，依赖性分析器，NER，浅层分析器，形态分析器.
@@ -268,7 +269,7 @@
 * [SVGo](https://github.com/ajstarks/svgo) -用于SVG生成的Go语言库.
 * [glot](https://github.com/arafatk/glot) -Glot是在gnuplot之上构建的Golang绘图库.
 * [globe](https://github.com/mmcloughlin/globe) -全球线框可视化.
-* [gonum/graph](https://godoc.org/gonum.org/v1/gonum/graph) - General-purpose graph library.
+* [gonum/graph](https://godoc.org/gonum.org/v1/gonum/graph) -通用图形库.
 * [go-graph](https://github.com/StepLg/go-graph)  -用于Go / Golang语言的图形库.  ** [不推荐使用] **
 * [RF](https://github.com/fxsjy/RF.go)  -Go中的随机森林实施.  ** [不推荐使用] **
 
@@ -308,7 +309,7 @@
 * [Stanford Word Segmenter](https://nlp.stanford.edu/software/segmenter.shtml) -原始文本的标记化是许多NLP任务的标准预处理步骤.
 * [Tregex, Tsurgeon and Semgrex](https://nlp.stanford.edu/software/tregex.shtml) -Tregex是一种实用程序，用于根据树的关系和节点上的正则表达式匹配来匹配树中的模式（名称是“树正则表达式”的缩写）.
 * [Stanford Phrasal: A Phrase-Based Translation System](https://nlp.stanford.edu/phrasal/)
-* [Stanford English Tokenizer](https://nlp.stanford.edu/software/tokenizer.shtml) -Stanford Phrasal是使用Java编写的基于统计短语的最新机器翻译系统.
+* [Stanford English Tokenizer](https://nlp.stanford.edu/software/tokenizer.shtml) - Stanford Phrasal is a state-of-the-art statistical phrase-based machine translation system, written in Java.
 * [Stanford Tokens Regex](https://nlp.stanford.edu/software/tokensregex.shtml) -分词器将文本分为一系列的标志，这些标志大致对应于“单词”.
 * [Stanford Temporal Tagger](https://nlp.stanford.edu/software/sutime.shtml) -SUTime是用于识别和规范化时间表达式的库.
 * [Stanford SPIED](https://nlp.stanford.edu/software/patternslearning.shtml) -以迭代方式使用模式从种子集开始的未标记文本中学习实体.
@@ -348,7 +349,7 @@
 * [SmileMiner](https://github.com/haifengl/smile) -统计机器智能和学习引擎.
 * [SystemML](https://github.com/apache/systemml) -灵活，可扩展的机器学习（ML）语言.
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/) -Weka是用于数据挖掘任务的机器学习算法的集合.
-* [LBJava](https://github.com/CogComp/lbjava) 基于学习的Java是一种用于快速开发软件系统的建模语言，它直接根据程序员应用程序中的对象，为分类器和约束定义提供了一种方便的声明式语法.
+* [LBJava](https://github.com/CogComp/lbjava) -基于学习的Java是一种用于快速开发软件系统的建模语言，它直接根据程序员应用程序中的对象为分类器和约束定义提供了一种方便的声明式语法.
 
 
 <a name="java-speech-recognition"></a>
@@ -488,7 +489,7 @@
 * [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) -决策树分类器和回归器.
 * [Neural](https://github.com/compressed/BackpropNeuralNet.jl) -朱莉娅的神经网络.
 * [MCMC](https://github.com/doobwa/MCMC.jl)  -朱莉娅的MCMC工具.  ** [不推荐使用] **
-* [Mamba](https://github.com/brian-j-smith/Mamba.jl) -马尔可夫链蒙特卡洛（MCMC），用于朱莉娅的贝叶斯分析.
+* [Mamba](https://github.com/brian-j-smith/Mamba.jl) -马尔可夫链蒙特卡洛（MCMC），用于Julia中的贝叶斯分析.
 * [GLM](https://github.com/JuliaStats/GLM.jl) -Julia中的广义线性模型.
 * [Gaussian Processes](https://github.com/STOR-i/GaussianProcesses.jl) -高斯过程的Julia软件包.
 * [Online Learning](https://github.com/lendle/OnlineLearning.jl) ** [不推荐使用] **
@@ -496,7 +497,7 @@
 * [Clustering](https://github.com/JuliaStats/Clustering.jl) -数据聚类的基本功能：k-均值，dp-均值等
 * [SVM](https://github.com/JuliaStats/SVM.jl)  -支持Julia的SVM.  ** [不推荐使用] **
 * [Kernel Density](https://github.com/JuliaStats/KernelDensity.jl) -朱莉娅的内核密度估算器.
-* [MultivariateStats](https://github.com/JuliaStats/MultivariateStats.jl) -降维方法.
+* [MultivariateStats](https://github.com/JuliaStats/MultivariateStats.jl) - Methods for dimensionality reduction.
 * [NMF](https://github.com/JuliaStats/NMF.jl) -用于非负矩阵分解的Julia软件包.
 * [ANN](https://github.com/EricChiang/ANN.jl)  -朱莉娅人工神经网络.  ** [不推荐使用] **
 * [Mocha](https://github.com/pluskid/Mocha.jl)  -受Caffe启发的Julia的深度学习框架.  ** [不推荐使用] **
@@ -628,7 +629,7 @@
 #### Computer Vision
 
 * [Contourlets](http://www.ifp.illinois.edu/~minhdo/software/contourlet_toolbox.tar) -实现轮廓波变换及其实用功能的MATLAB源代码.
-* [Shearlets](https://www3.math.tu-berlin.de/numerik/www.shearlab.org/software) -用于Slicelet变换的MATLAB代码.
+* [Shearlets](https://www3.math.tu-berlin.de/numerik/www.shearlab.org/software) - MATLAB code for shearlet transform.
 * [Curvelets](http://www.curvelet.org/software.html) -Curvelet变换是Wavelet变换的高维概括，旨在表示不同比例和不同角度的图像.
 * [Bandlets](http://www.cmap.polytechnique.fr/~peyre/download/) -用于bandlet变换的MATLAB代码.
 * [mexopencv](https://kyamagu.github.io/mexopencv/) -用于OpenCV库的MATLAB mex函数的集合和开发套件.
@@ -641,7 +642,7 @@
 <a name="matlab-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [Training a deep autoencoder or a classifier
+* [训练深度自动编码器或分类器
 在MNIST位数上]（https://www.cs.toronto.edu/~hinton/MatlabForSciencePaper.html）-训练深度自动编码器或分类器
 关于MNIST数字[深度学习].
 * [Convolutional-Recursive Deep Learning for 3D Object Classification](https://www.socher.org/index.php/Main/Convolutional-RecursiveDeepLearningFor3DObjectClassification) -用于3D对象分类的卷积递归深度学习[DEEP LEARNING].
@@ -650,7 +651,7 @@
 * [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) -GPU和CPU上的开源SVM库
 * [LibLinear](https://www.csie.ntu.edu.tw/~cjlin/liblinear/#download) -大型线性分类库.
 * [Machine Learning Module](https://github.com/josephmisiti/machine-learning-module) -带PDF的机器上的课程，讲座，代码
-* [Caffe](https://github.com/BVLC/caffe) -开发深度学习框架时要考虑到清洁度，可读性和速度.
+* [Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind.
 * [Pattern Recognition Toolbox](https://github.com/covartech/PRT) -Matlab中用于机器学习的完整的面向对象环境.
 * [Pattern Recognition and Machine Learning](https://github.com/PRML/PRMLT) -该软件包包含C. Bishop撰写的《模式识别和机器学习》一书中描述的算法的matlab实现.
 * [Optunity](https://optunity.readthedocs.io/en/latest/)  -专门用于自动超参数优化的库，它具有一个简单，轻量级的API，可以方便地替换网格搜索.  机会是用Python编写的，但是可以与MATLAB无缝连接.
@@ -747,7 +748,7 @@ also [released in CPAN](https://metacpan.org/pod/AI::MXNet).
    支持向量机在其下的SVMLight的实现.  ** [不推荐使用] **
 *几种机器学习和人工智能模型
   包含在 [`AI`](https://metacpan.org/search?size=20&q=AI)
-   命名空间.  例如，您可以
+  namespace. For instance, you can
   找 [Naïve Bayes](https://metacpan.org/pod/AI::NaiveBayes).
 
 <a name="perl6"></a>
@@ -788,7 +789,7 @@ be
 #### Computer Vision
 
 * [Scikit-Image](https://github.com/scikit-image/scikit-image) -Python中图像处理算法的集合.
-* [SimpleCV](http://simplecv.org/) - An open source computer vision framework that gives access to several high-powered computer vision libraries, such as OpenCV. Written on Python and runs on Mac, Windows, and Ubuntu Linux.
+* [SimpleCV](http://simplecv.org/)  -一个开放源代码的计算机视觉框架，可以访问几个高性能的计算机视觉库，例如OpenCV.  用Python编写，可在Mac，Windows和Ubuntu Linux上运行.
 * [Vigranumpy](https://github.com/ukoethe/vigra) -VIGRA C ++计算机视觉库的Python绑定.
 * [OpenFace](https://cmusatyalab.github.io/openface/) -使用深度神经网络的免费和开源人脸识别.
 * [PCV](https://github.com/jesolem/PCV)  -用于计算机视觉的开源Python模块.  ** [不推荐使用] **
@@ -810,9 +811,9 @@ be
 * [pkuseg-python](https://github.com/lancopku/pkuseg-python) -北京大学开发的更好的解霸版本.
 * [NLTK](https://www.nltk.org/) -用于构建Python程序以使用人类语言数据的领先平台.
 * [Pattern](http://www.clips.ua.ac.be/pattern)  -用于Python编程语言的Web挖掘模块.  它具有用于自然语言处理，机器学习等的工具.
-* [Quepy](https://github.com/machinalis/quepy) -将自然语言问题转换为数据库查询语言查询的python框架.
+* [Quepy](https://github.com/machinalis/quepy) - A python framework to transform natural language questions to queries in a database query language.
 * [TextBlob](http://textblob.readthedocs.io/en/dev/)  -提供一致的API，以深入研究普通自然语言处理（NLP）任务.  站在NLTK和Pattern的大肩膀上，并且两者都很好地配合使用.
-* [YAlign](https://github.com/machinalis/yalign) - A sentence aligner, a friendly tool for extracting parallel sentences from comparable corpora. **[Deprecated]**
+* [YAlign](https://github.com/machinalis/yalign)  -句子对齐器，一种用于从可比语料库中提取平行句子的友好工具.  ** [不推荐使用] **
 * [jieba](https://github.com/fxsjy/jieba#jieba-1) -中文分词工具.
 * [SnowNLP](https://github.com/isnowfy/snownlp) -用于处理中文文本的库.
 * [spammy](https://github.com/tasdikrahman/spammy) -建立在nltk之上的电子邮件垃圾邮件过滤库
@@ -850,7 +851,7 @@ be
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
  * [Karate Club](https://github.com/benedekrozemberczki/karateclub) -&gt;具有Scikit-Learn之类API的NetworkX的无监督机器学习扩展库.
-* [Auto_ViML](https://github.com/AutoViML/Auto_ViML)  -&gt;快速自动构建变体可解释的ML模型！  Auto_ViML的发音为“ auto vimal”，是一种全面且可扩展的Python AutoML工具包，具有不平衡的处理，集合，堆栈和内置功能选择.  在<a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">中型文章中</a>精选.
+* [Auto_ViML](https://github.com/AutoViML/Auto_ViML)  -&gt;快速自动构建变体可解释的ML模型！  Auto_ViML的发音是“ auto vimal”，它是一个全面且可扩展的Python AutoML工具包，具有不平衡的处理，集合，堆栈和内置功能选择.  在<a href="https://towardsdatascience.com/why-automl-is-an-essential-new-tool-for-data-scientists-2d9ab4e25e46?source=friends_link&sk=d03a0cc55c23deb497d546d6b9be0653">中型文章中</a>精选.
 * [PyOD](https://github.com/yzhao062/pyod)  -&gt; Python离群值检测，全面而可扩展的Python工具包，用于检测多元数据中的离群对象.  适用于高级模型，包括神经网络/深度学习和离群值.
 * [steppy](https://github.com/neptune-ml/steppy)  -&gt;轻量级的Python库，用于快速且可重复的机器学习实验.  引入了非常简单的界面，可以进行干净的机器学习管道设计.
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -&gt;精心挑选的神经网络，变换器和模型集合，使您的机器学习工作更快，更有效.
@@ -894,16 +895,16 @@ be
 * [imbalanced-learn](https://imbalanced-learn.org/en/stable/index.html) -Python模块，可使用多种技术进行欠采样和过采样.
 * [Shogun](https://github.com/shogun-toolbox/shogun) -将军机器学习工具箱.
 * [Pyevolve](https://github.com/perone/Pyevolve)  -遗传算法框架.  ** [不推荐使用] **
-* [Caffe](https://github.com/BVLC/caffe) -开发深度学习框架时要考虑到清洁度，可读性和速度.
+* [Caffe](https://github.com/BVLC/caffe) - A deep learning framework developed with cleanliness, readability, and speed in mind.
 * [breze](https://github.com/breze-no-salt/breze) -基于Theano的深度和递归神经网络库. 
 * [Cortex](https://github.com/cortexlabs/cortex) -用于在生产中部署机器学习模型的开源平台.
-* [pyhsmm](https://github.com/mattjj/pyhsmm) -贝叶斯隐马尔可夫模型（HMM）和显性持续时间隐半马尔可夫模型（HSMM）中的近似无监督推理的库，重点关注贝叶斯非参数扩展，HDP-HMM和HDP-HSMM，大多数具有弱极限近似.
+* [pyhsmm](https://github.com/mattjj/pyhsmm) -用于贝叶斯隐马尔可夫模型（HMM）和显性持续时间隐半马尔可夫模型（HSMM）中的近似无监督推理的库，重点关注贝叶斯非参数扩展，HDP-HMM和HDP-HSMM，其中大多数具有弱极限近似.
 * [mrjob](https://pythonhosted.org/mrjob/) -让Python程序在Hadoop上运行的库.
 * [SKLL](https://github.com/EducationalTestingService/skll) -围绕scikit-learn的包装器，使进行实验变得更加简单.
 * [neurolab](https://github.com/zueve/neurolab)
 * [Spearmint](https://github.com/HIPS/Spearmint)  -Spearmint是根据白皮书中概述的算法执行贝叶斯优化的软件包：机器学习算法的实用贝叶斯优化.  Jasper Snoek，Hugo Larochelle和Ryan P.Adams.  神经信息处理系统的进展，2012年.** [已弃用] **
 * [Pebl](https://github.com/abhik/pebl/)  -用于贝叶斯学习的Python环境.  ** [不推荐使用] **
-* [Theano](https://github.com/Theano/Theano/) -优化GPU元编程代码，在Python中生成面向数组的优化数学编译器.
+* [Theano](https://github.com/Theano/Theano/) - Optimizing GPU-meta-programming code generating array oriented optimizing math compiler in Python.
 * [TensorFlow](https://github.com/tensorflow/tensorflow/) -开源软件库，可使用数据流图进行数值计算.
 * [pomegranate](https://github.com/jmschrei/pomegranate) -Python的隐马尔可夫模型，在Cython中实现，以提高速度和效率.
 * [python-timbl](https://github.com/proycon/python-timbl)  -包含完整TiMBL C ++编程接口的Python扩展模块.  Timbl是精心设计的k最近邻机器学习工具包.
@@ -921,7 +922,7 @@ be
 * [MXNet](https://github.com/apache/incubator-mxnet)  -具有动态，可感知突变的Dataflow Dep Scheduler的轻型，便携式，灵活的分布式/移动深度学习；  适用于Python，R，Julia，Go，Javascript等.
 * [milk](https://github.com/luispedro/milk)  -专注于监督分类的机器学习工具包.  ** [不推荐使用] **
 * [TFLearn](https://github.com/tflearn/tflearn) -深度学习库，具有用于TensorFlow的更高级别的API.
-* [REP](https://github.com/yandex/rep)  -基于IPython的环境，用于以一致且可重复的方式进行数据驱动的研究.  REP并没有尝试替代scikit-learn，而是对其进行了扩展并提供了更好的用户体验.  ** [不推荐使用] **
+* [REP](https://github.com/yandex/rep)  -基于IPython的环境，用于以一致且可重复的方式进行数据驱动的研究.  REP并未尝试替代scikit-learn，而是对其进行了扩展并提供了更好的用户体验.  ** [不推荐使用] **
 * [rgf_python](https://github.com/RGF-team/rgf) -正则化贪婪森林（树）库的Python绑定.
 * [skbayes](https://github.com/AmazaspShumik/sklearn-bayes) -用于带有scikit-learn API的贝叶斯机器学习的Python软件包.
 * [fuku-ml](https://github.com/fukuball/fuku-ml) -简单的机器学习库，包括Perceptron，回归，支持向量机，决策树等，对于初学者而言，它易于使用且易于学习.
@@ -942,16 +943,16 @@ be
 * [Netron](https://github.com/lutzroeder/netron) -机器学习模型的可视化工具.
 * [Thampi](https://github.com/scoremedia/thampi) -AWS Lambda上的机器学习预测系统
 * [MindsDB](https://github.com/mindsdb/mindsdb) -开源框架，以简化神经网络的使用.
-* [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ：构建推荐系统的示例和最佳做法，以Jupyter笔记本的形式提供.  该回购包含Microsoft Research以及其他公司和机构的一些最新技术.
+* [Microsoft Recommenders](https://github.com/Microsoft/Recommenders): Examples and best practices for building recommendation systems, provided as Jupyter notebooks. The repo contains some of the latest state of the art algorithms from Microsoft Research as well as from other companies and institutions.
 * [StellarGraph](https://github.com/stellargraph/stellargraph)：图上的机器学习，这是一个用于对图结构（网络结构）数据进行机器学习的Python库.
 * [BentoML](https://github.com/bentoml/bentoml)：用于打包和部署机器学习模型以在生产中使用的工具包
-* [MiraiML](https://github.com/arthurpaulino/miraiml): An asynchronous engine for continuous & autonomous machine learning, built for real-time usage.
+* [MiraiML](https://github.com/arthurpaulino/miraiml)：用于实时自动使用的异步引擎，用于连续和自主的机器学习.
 * [numpy-ML](https://github.com/ddbourgin/numpy-ml)：用numpy编写的ML模型的参考实现
 * [creme](https://github.com/creme-ml/creme)：在线机器学习的框架.
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle)：提供正确抽象以简化ML管道的研究，开发和部署的框架.
 * [Cornac](https://github.com/PreferredAI/cornac) -多模式推荐系统的比较框架，重点放在利用辅助数据的模型上.
 * [JAX](https://github.com/google/jax) -JAX是Autograd和XLA的结合，用于高性能机器学习研究.
-* [Catalyst](https://github.com/catalyst-team/catalyst)  -用于PyTorch DL和RL研究的高级工具.  它的开发侧重于可重复性，快速实验和代码/想法重用.  能够研究/开发新事物，而不是编写另一个常规火车循环.
+* [Catalyst](https://github.com/catalyst-team/catalyst) - High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 * [Fastai](https://github.com/fastai/fastai) -建立在Pytorch顶部的高级包装程序，支持视觉，文本，表格数据和协作过滤.
 * [scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) -用于多输出/多标签和流数据的机器学习框架.
 * [Lightwood](https://github.com/mindsdb/lightwood) -基于Pytorch的框架，将机器学习问题分解为较小的块，可以与目标无缝地粘合在一起，从而用一行代码构建预测模型.
@@ -984,14 +985,14 @@ be
 * [ggplot](https://github.com/yhat/ggpy) -与R的ggplot2相同的API.** [不建议使用] **
 * [ggfortify](https://github.com/sinhrks/ggfortify) -ggplot2流行的R包的统一接口.
 * [Kartograph.py](https://github.com/kartograph/kartograph.py) -用Python渲染漂亮的SVG地图.
-* [pygal](http://pygal.org/en/stable/) - A Python SVG Charts Creator.
+* [pygal](http://pygal.org/en/stable/) -Python SVG Charts Creator.
 * [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) -建立在PyQt4 / PySide和NumPy上的纯Python图形和GUI库.
 * [pycascading](https://github.com/twitter/pycascading) ** [不推荐使用] **
 * [Petrel](https://github.com/AirSage/Petrel) -用于在纯Python中编写，提交，调试和监视Storm拓扑的工具.
 * [Blaze](https://github.com/blaze/blaze) -NumPy和Pandas与大数据的接口.
 * [emcee](https://github.com/dfm/emcee) -仿射不变MCMC的Python集成采样工具包.
 * [windML](https://github.com/cigroup-ol/windml) -用于风能分析和预测的Python框架.
-* [vispy](https://github.com/vispy/vispy) - GPU-based high-performance interactive OpenGL 2D/3D data visualization library.
+* [vispy](https://github.com/vispy/vispy) -基于GPU的高性能交互式OpenGL 2D / 3D数据可视化库.
 * [cerebro2](https://github.com/numenta/nupic.cerebro2)  NuPIC的基于Web的可视化和调试平台.  ** [不推荐使用] **
 * [NuPIC Studio](https://github.com/htm-community/nupic.studio)  一体化的NuPIC分层时间记忆可视化和调试超级工具！  ** [不推荐使用] **
 * [SparklingPandas](https://github.com/sparklingpandas/sparklingpandas) PySpark（POPS）上的熊猫.
@@ -1016,9 +1017,9 @@ be
 
 <a name="python-misc"></a>
 #### Misc Scripts / iPython Notebooks / Codebases
-* [Map/Reduce implementations of common ML algorithms](https://github.com/Yannael/BigDataAnalytics_INFOH515)：Jupyter笔记本，介绍了如何使用Python NumPy从头开始实现不同的ML算法（普通最小二乘，梯度下降，k均值，交替最小二乘），以及如何使用Map / Reduce和Spark扩展这些实现的可扩展性.
+* [Map/Reduce implementations of common ML algorithms](https://github.com/Yannael/BigDataAnalytics_INFOH515)：Jupyter笔记本，涵盖如何使用Python NumPy从头开始实现不同的ML算法（普通最小二乘，梯度下降，k均值，交替最小二乘），以及如何使用Map / Reduce和Spark扩展这些实现的可扩展性.
 * [BioPy](https://github.com/jaredthecoder/BioPy)  -Python中的生物启发和机器学习算法.  ** [不推荐使用] **
-* [SVM Explorer](https://github.com/plotly/dash-svm) -交互式SVM Explorer，使用Dash和scikit-learn
+* [SVM Explorer](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
 * [pattern_classification](https://github.com/rasbt/pattern_classification)
 * [thinking stats 2](https://github.com/Wavelets/ThinkStats2)
 * [hyperopt](https://github.com/hyperopt/hyperopt-sklearn)
@@ -1065,10 +1066,10 @@ be
 
 * [nn_builder](https://github.com/p-christ/nn_builder) -nn_builder是一个python软件包，可让您在1行中构建神经网络
 * [NeuralTalk](https://github.com/karpathy/neuraltalk) -NeuralTalk是一个Python + numpy项目，用于学习使用语句描述图像的多模态递归神经网络.
-* [Neuron](https://github.com/molcik/python-neuron)  -Neuron是用于时间序列预测的简单类.  它利用通过梯度下降或LeLevenberg学习的LNU（线性神经单元），QNU（二次神经单元），RBF（径向基函数），MLP（多层感知器），MLP-ELM（多层感知器-极限学习机）神经网络来学习. – Marquardt算法.
+* [Neuron](https://github.com/molcik/python-neuron)  -Neuron是用于时间序列预测的简单类.  它利用通过梯度下降或LeLevenberg学习的LNU（线性神经单位），QNU（二次神经单位），RBF（径向基函数），MLP（多层感知器），MLP-ELM（多层感知器-极限学习机）神经网络来学习. – Marquardt算法.
 =======
 * [NeuralTalk](https://github.com/karpathy/neuraltalk2)  -NeuralTalk是一个Python + numpy项目，用于学习使用语句描述图像的多模态递归神经网络.  ** [不推荐使用] **
-* [Neuron](https://github.com/molcik/python-neuron)  -Neuron是用于时间序列预测的简单类.  它利用通过梯度下降或LeLevenberg学习的LNU（线性神经单元），QNU（二次神经单元），RBF（径向基函数），MLP（多层感知器），MLP-ELM（多层感知器-极限学习机）神经网络来学习. – Marquardt算法.  ** [不推荐使用] **
+* [Neuron](https://github.com/molcik/python-neuron)  -Neuron是用于时间序列预测的简单类.  它利用通过梯度下降或LeLevenberg学习的LNU（线性神经单位），QNU（二次神经单位），RBF（径向基函数），MLP（多层感知器），MLP-ELM（多层感知器-极限学习机）神经网络来学习. – Marquardt算法.  ** [不推荐使用] **
 * [Data Driven Code](https://github.com/atmb4u/data-driven-code) -在python中使用假人非常简单地实现神经网络，而无需使用任何库，并带有详细注释.
 * [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) -包含机器学习，Tensorflow，人工智能和神经网络的LiveVideo课程.
 * [TResNet: High Performance GPU-Dedicated Architecture](https://github.com/mrT23/TResNet) -TResNet模型经过设计和优化，可以在GPU上实现最佳的速度精度折衷. 
@@ -1144,7 +1145,7 @@ be
 * [rsruby](https://github.com/alexgutteridge/rsruby) -红宝石-R桥
 * [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot)  -Ruby的gnuplot包装器，特别是用于将ROC曲线绘制到SVG文件中.  ** [不推荐使用] **
 * [plot-rb](https://github.com/zuhao/plotrb)  -在Vega和D3之上构建的Ruby中的绘图库.  ** [不推荐使用] **
-* [scruffy](https://github.com/delano/scruffy) - A beautiful graphing toolkit for Ruby.
+* [scruffy](https://github.com/delano/scruffy) -Ruby的精美绘图工具包.
 * [SciRuby](http://sciruby.com/)
 * [Glean](https://github.com/glean/glean)  -用于人类的数据管理工具.  ** [不推荐使用] **
 * [Bioruby](https://github.com/bioruby/bioruby)
@@ -1184,7 +1185,7 @@ be
 * [bst](https://cran.r-project.org/web/packages/bst/index.html) -bst：梯度增强.
 * [C50](https://cran.r-project.org/web/packages/C50/index.html) -C50：C5.0决策树和基于规则的模型.
 * [caret](https://topepo.github.io/caret/index.html) -分类和回归训练：R中约150 ML算法的统一接口.
-* [caretEnsemble](https://cran.r-project.org/web/packages/caretEnsemble/index.html) - caretEnsemble: Framework for fitting multiple caret models as well as creating ensembles of such models. **[Deprecated]**
+* [caretEnsemble](https://cran.r-project.org/web/packages/caretEnsemble/index.html)  -caretEnsemble：用于拟合多个插入符号模型以及创建此类模型的集合的框架.  ** [不推荐使用] **
 * [CatBoost](https://github.com/catboost/catboost) -带有决策功能的决策树库上的通用梯度提升为R提供了开箱即用的支持.
 * [Clever Algorithms For Machine Learning](https://machinelearningmastery.com/)
 * [CORElearn](https://cran.r-project.org/web/packages/CORElearn/index.html) -CORElearn：分类，回归，特征评估和顺序评估.
@@ -1213,7 +1214,7 @@ be
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html) -ipred：改进的预测变量.
 * [kernlab](https://cran.r-project.org/web/packages/kernlab/index.html) -kernlab：基于内核的机器学习实验室.
 * [klaR](https://cran.r-project.org/web/packages/klaR/index.html) -klaR：分类和可视化.
-* [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - L0Learn: Fast algorithms for best subset selection.
+* [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) -L0Learn：最佳子集选择的快速算法.
 * [lars](https://cran.r-project.org/web/packages/lars/index.html)  -Lars：最小角度回归，套索和前向舞台.  ** [不推荐使用] **
 * [lasso2](https://cran.r-project.org/web/packages/lasso2/index.html) -lasso2：L1受约束的估计，也称为“套索”.
 * [LiblineaR](https://cran.r-project.org/web/packages/LiblineaR/index.html) -LiblineaR：基于Liblinear C / C ++库的线性预测模型.
@@ -1278,7 +1279,7 @@ be
 #### General-Purpose Machine Learning
 
 * [Visual Data Mining and Machine Learning](https://www.sas.com/en_us/software/visual-data-mining-machine-learning.html)  -从数据准备到部署，在端到端分析环境中使用最新的机器学习算法进行交互式，自动化和程序化建模.  提供免费试用.
-* [Enterprise Miner](https://www.sas.com/en_us/software/enterprise-miner.html) - Data mining and machine learning that creates deployable models using a GUI or code.
+* [Enterprise Miner](https://www.sas.com/en_us/software/enterprise-miner.html) -数据挖掘和机器学习，可使用GUI或代码创建可部署模型.
 * [Factory Miner](https://www.sas.com/en_us/software/factory-miner.html) -使用GUI在众多市场或客户群中自动创建可部署的机器学习模型.
 
 <a name="sas-data-analysis"></a>
@@ -1401,7 +1402,7 @@ be
 * [guild.ai](https://guild.ai/)  -记录，分析，比较和“优化”实验的工具.  它是跨平台和独立于框架的，并提供了集成的可视化工具，例如张量板.
 * [Sacred](https://github.com/IDSIA/sacred)  -Python工具，可帮助您配置，组织，记录和复制实验.  就像化学/生物学背景下的笔记本实验室一样.  社区利用提议的标准构建了多个附加组件.
 * [MLFlow](https://mlflow.org/)  -管理机器学习生命周期的平台，包括实验，可重复性和部署.  与语言无关的框架，请看一下所有内置集成.
-*更多改善ML生命周期的工具： [Catalyst](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/) .  以下是类似Github的目标团队 [Weights & Biases](https://www.wandb.com/), [Neptune.Ml](https://neptune.ml/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/).
+*更多改善ML生命周期的工具： [Catalyst](https://github.com/catalyst-team/catalyst), [PachydermIO](https://www.pachyderm.io/). The following are Github-alike and targetting teams [Weights & Biases](https://www.wandb.com/), [Neptune.Ml](https://neptune.ml/), [Comet.ml](https://www.comet.ml/), [Valohai.ai](https://valohai.com/).
 * [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) -使用TensorFlow 1.14.1编写的有关通用机器学习技术回归，分类，无监督聚类，强化学习，自动编码器，卷积神经网络，RNN，LSTM的书.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
 
