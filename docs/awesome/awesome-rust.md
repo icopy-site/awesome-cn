@@ -175,6 +175,7 @@
 
 ### Text editors
 
+* [amp](https://amp.rs) —受Vi / Vim启发. [<img src="https://api.travis-ci.org/jmacdonald/amp.svg?branch=master">](https://travis-ci.org/jmacdonald/amp)
 * [mathall/rim](https://github.com/mathall/rim) -用Rust编写的类似Vim的文本编辑器
 * [xi-editor](https://github.com/xi-editor/xi-editor) —具有用Rust编写的后端的现代编辑器.
 

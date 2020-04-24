@@ -543,9 +543,9 @@
   * [sandstorm.io](https://sandstorm.io/)  — Sandstorm是用于个人和私有云的开源操作系统.  免费计划可提供200 MB存储空间和5粒谷物
   * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)  — SAP提供的内存中平台即服务产品.  免费的开发人员帐户具有1 GB的结构化，1 GB的非结构化，1 GB的Git数据，并允许您运行HTML5，Java和HANA XS应用程序
   * [workers.dev](https://workers.dev)  -在Cloudflare的全球网络上免费部署无服务器代码.  每天使用worker.dev子域的100,000个免费请求.
-  * [zeit.co/now](https://zeit.co/now)  —无服务器平台，支持多种语言（包括静态站点）和单个命令部署.  免费套餐包括SSL，无限制（公平使用）带宽，100个部署.
+  * [vercel.com](https://vercel.com/)  —无服务器平台，支持多种语言（包括静态站点）和单个命令部署.  免费套餐包括SSL，无限制（公平使用）带宽，100个部署.
   * [Platform9](https://platform9.com/)  -为开发人员设计的托管Kubernetes服务.  免费的开发人员帐户最多包含3个群集和20个节点群集.
-  * [fly.io](https://fly.io/)  -Fly是一个需要全局运行的应用程序的平台.  它可以在靠近用户的地方运行代码，并在应用最繁忙的城市扩展计算.  编写您的代码，将其打包到Docker映像中，将其部署到Fly的平台上，然后执行所有工作以使您的应用程序保持敏捷.  附带项目免费，每月10美元的服务信用自动适用于任何付费服务.  而且，如果您运行的是非常小的虚拟机，那么信誉将大有帮助.
+  * [fly.io](https://fly.io/)  -Fly是一个需要全局运行的应用程序的平台.  它可以在靠近用户的地方运行代码，并在应用最繁忙的城市扩展计算.  编写您的代码，将其打包到Docker映像中，将其部署到Fly的平台上，然后执行所有工作以使您的应用程序保持活泼.  附带项目免费，每月10美元的服务信用自动适用于任何付费服务.  而且，如果您运行的是非常小的虚拟机，那么信誉将大有帮助.
 
 ## BaaS
 
@@ -620,7 +620,7 @@
   * [selectel.com](https://selectel.com/services/dns/) —免费DNS托管，任意播，10个地理区域
   * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) —免费的DNS托管.
   * [Yandex.Connect](https://connect.yandex.com/pdd/) —最多可容纳1,000位用户的免费电子邮件和DNS托管
-  * [zilore.com](https://zilore.com/ru/dns) —免费的DNS托管.
+  * [zilore.com](https://zilore.com/en/dns) —免费的DNS托管.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) —具有动态DNS支持的免费DNS托管.
   * [zonewatcher.com](https://zonewatcher.com)  —自动备份和DNS更改监视.  1个域名免费
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) –华为免费DNS托管

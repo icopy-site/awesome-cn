@@ -39,7 +39,7 @@
  - [Scaling MongoDB on Amazon Web Services (Michael Saffitz, Apptentive)](https://www.youtube.com/watch?v=bkjVhEQocFI) [50']
 
 ### Tutorials
- - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
+ - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) -Kubernetes上基本Node.js和MongoDB Web堆栈的部署教程
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
 
 ### More
@@ -137,7 +137,7 @@
  - [μMongo](https://github.com/Scille/umongo) -基于棉花糖的独立于驱动程序的（异步/同步）ODM
 
 ### R
- - [mongolite](https://github.com/jeroen/mongolite) -快速简单的R客户端
+ - [mongolite](https://github.com/jeroen/mongolite) - Fast and simple client for R
 
 ### Ruby
  - [awesome_explain](https://github.com/sandboxws/awesome_explain) -解释Mongoid查询的简单全局方法
@@ -172,11 +172,12 @@ Services:
  - [Scalegrid](https://scalegrid.io) -完全托管的DBaaS（可选择带您自己的Azure / AWS帐户）
 
 ### Data
+ - [mongo-connector](https://github.com/yougov/mongo-connector) -流复制到Elasticsearch，Solr或MongoDB
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) -PostgreSQL外部数据包装器
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) -Hadoop连接器
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) -从MongoDB到Elasticsearch的迁移工具（反之亦然）
  - [MongoMultiMaster](https://github.com/rick446/mmm) -多原版复制
- - [MoSQL](https://github.com/stripe/mosql) -MongoDB到PostgreSQL的流复制
+ - [MoSQL](https://github.com/stripe/mosql) -流复制到PostgreSQL
 
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) -角色扮演

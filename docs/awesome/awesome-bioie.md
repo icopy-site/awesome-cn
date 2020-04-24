@@ -85,7 +85,7 @@ _请阅读 [contribution guidelines](https://github.com/caufieldjh/awesome-bioie
 BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根据给定的数据集开发自己的计算解决方案.
 
 * [BioASQ](http://bioasq.org/)  -生物医学语义索引和问题解答方面的挑战.  自2013年以来，每年举行一次挑战赛和研讨会.
-* [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) -自2004年以来就组织了这些研讨会，BioCreative VI于2017年2月举行， [BioCreative/OHNLP Challenge](https://sites.google.com/view/ohnlp2018/home) 于2018年举行.请参阅 [Datasets](#datasets) below. 
+* [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) -自2004年以来就组织了这些研讨会，BioCreative VI于2017年2月举行， [BioCreative/OHNLP Challenge](https://sites.google.com/view/ohnlp2018/home) 于2018年举行.请参阅 [Datasets](#datasets) 下面. 
 * [SemEval workshop](http://alt.qcri.org/semeval2020/)  -计算语义分析中的任务和评估.  任务因年份而异，但通常涵盖科学和/或生物医学语言，例如 [SemEval-2019 Task 12 on Toponym Resolution in Scientific Papers](https://competitions.codalab.org/competitions/19948).
 * [eHealth-KD](https://knowledge-learning.github.io/ehealthkd-2019/)  -鼓励“开发软件技术以自动从以西班牙语编写的eHealth文档中提取大量知识的挑战”.  以前作为 [TASS](http://www.sepln.org/workshops/tass/)，每年一次的西班牙语语义分析研讨会.
 
@@ -108,7 +108,7 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) -主要用于生物信息学和计算分子生物学目的的Python工具，但也是一种获取数据的便捷方法，包括从PubMed获得的文档/摘要（请参阅文档的第9章）.
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) -Python工具主要用于生物信息学和计算分子生物学目的，但也是一种获取数据的便捷方法，包括从PubMed获得的文档/摘要（请参阅文档的第9章）.
 * [Bio-SCoRes](https://github.com/kilicogluh/Bio-SCoRes) - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538) -生物医学共同参考解决方案的框架.
 * [medaCy](https://github.com/NLPatVCU/medaCy)  -用于建立预测医学自然语言处理模型的系统.  建立在 [spaCy](https://spacy.io/) 框架. 
 * [ScispaCy](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) -版本 [spaCy](https://spacy.io/) 科学和生物医学文献的框架.
@@ -142,7 +142,7 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 
 ### Text Embeddings
 
-[This paper from Hongfang Liu's group at Mayo Clinic](https://www.sciencedirect.com/science/article/pii/S1532046418301825)  演示了在生物医学或临床文本上训练的文本嵌入如何能够（但并非总是）在生物医学自然语言处理任务上表现更好.  话虽如此，预训练的嵌入可能适合您的需求，特别是因为训练特定于领域的嵌入可能需要大量计算.
+[This paper from Hongfang Liu's group at Mayo Clinic](https://www.sciencedirect.com/science/article/pii/S1532046418301825) demonstrates how text embeddings trained on biomedical or clinical text can, but don't always, perform better on biomedical natural language processing tasks. That being said, pre-trained embeddings may be appropriate for your needs, especially as training domain-specific embeddings can be computationally intensive.
 
 ### Word Embeddings
 
@@ -184,6 +184,7 @@ BioIE中的一些事件是围绕正式任务和挑战组织的，其中小组根
 * [Word Sense Disambiguation (WSD)](https://wsd.nlm.nih.gov/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223)  -203个歧义词和37,888个自动提取的词在生物医学研究出版物中的使用实例.  需要UTS帐户.
 * [Clinical Questions Collection](https://www.nlm.nih.gov/databases/download/CQC.html) -也称为CQC或爱荷华州收藏，这些是医师在办公室就诊时提出的数千个问题以及相关的答案.
 * [BioNLP ST 2013 datasets](http://2013.bionlp-st.org/)  -来自六个共享任务的数据，尽管其中一些可能不容易获得；  尝试使用CG任务集（BioNLP2013CG）获得广泛的实体和事件注释.
+* [BioScope](https://rgai.inf.u-szeged.hu/node/105) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586758/) -来自医学和生物学文献的句子的语料库，注明否定，推测和语言范围.
 
 ### Protein-protein Interaction Annotated Corpora
  蛋白间相互作用简称为PPI.  以下几组可用 [BioC format](http://bioc.sourceforge.net/) .  较旧的设置（AIMed，BioInfer，HPRD50，IEPA和LLL）由以下公司提供： [WBI corpora repository](http://corpora.informatik.hu-berlin.de) 最初是由 [group at Turku University](http://mars.cs.utu.fi/PPICorpora/).

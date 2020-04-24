@@ -42,7 +42,7 @@
 
 ### Renderers
 
-The following libraries allow using lit-html as a renderer, while also providing alternatives such as [HyperHTML](https://github.com/WebReflection/hyperHTML) 或JSX.
+以下库允许将lit-html用作渲染器，同时还提供其他替代方法，例如 [HyperHTML](https://github.com/WebReflection/hyperHTML) 或JSX.
 
 - [@corpuscule/lit-html-renderer](https://www.npmjs.com/package/@corpuscule/lit-html-renderer) -基于lit-html的渲染器 [Corpuscule](https://github.com/corpusculejs/corpuscule).
 - [@helikopter/render-lit-html](https://www.npmjs.com/package/@helikopter/render-lit-html) -基于lit-html的渲染器 [Helicopter](https://github.com/briancavalier/helikopter).
@@ -74,12 +74,14 @@ The following libraries allow using lit-html as a renderer, while also providing
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
 - [Blackstone UI](https://github.com/kjantzer/bui) -用于创建使用lit-html和LitElement构建的界面的Web组件.
+- [Brightspace UI core](https://github.com/BrightspaceUI/core) -收集用于构建Brightspace应用程序的Web组件.
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
+- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs的Web组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Ink Components](https://github.com/ink-components/ink-components) -用于交互式科学写作的Web组件.
-- [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件，可在任何地方使用.
+- [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件可在任何地方使用.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.

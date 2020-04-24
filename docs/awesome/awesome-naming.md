@@ -24,7 +24,7 @@ Famously...
 ## Data Structures and Algorithms
 
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm) -一种算法，可通过始终选择当前外观最佳的选项而无需过多考虑过去和将来的决策来找到解决方案.
-- [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/)  -一种优先队列，并提及以色列臭名昭著的无组织队列.  当项目已经有“朋友排队”时，这里是第一个.
+- [Israeli Queue](https://rapidapi.com/blog/israeli-queues-exploring-a-bizarre-data-structure/)  -一种优先队列，并提及以色列臭名昭著的无组织队列.  当项目“已经有等待的朋友”时，可以在这里“插入行”.
 - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)）-与一叠煎饼一样，您只能从此数据结构的顶部添加和删除项目.
 - [Tree](https://en.wikipedia.org/wiki/Tree_(data_structure) ）-分层组织的数据结构.  从_root_项将其他项_branch out_到_nodes_和_leaves_.
 - [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)）-在此数据结构中，项目总是在末尾添加，而在前面则被删除，就好像这些项目在排队一样.
@@ -38,7 +38,7 @@ Famously...
 
 ## Functions
 
-- [fold](https://en.wikipedia.org/wiki/Fold_(higher-order_function)）-就像被子折叠起来一样，此功能可以迭代一个集合，并且在每个步骤中，将当前项目与已被折叠的所有东西组合在一起.
+- [fold](https://en.wikipedia.org/wiki/Fold_(higher-order_function)）-就像被子折叠起来一样，此功能将迭代一个集合，并在每个步骤中将当前项目与已被折叠的所有内容组合在一起.
 - [trampoline](https://clojuredocs.org/clojure.core/trampoline)  -连续运行本身返回函数的函数.  就像一个蹦床上的孩子一样，会返回并弹跳起来. 
 - [zip](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#v:zip) -将两个列表合并为一对列表，例如拉链的互锁齿.
 
@@ -67,6 +67,7 @@ Famously...
 ## Theoretical Computer Science
 
 - [Clique problem](https://en.wikipedia.org/wiki/Clique_problem)  -在具有友好关系的人的网络中寻找共同的朋友群体的问题.  或更笼统的是，找到完整的子图.
+- [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) -没有玩家且几乎没有规则的游戏，但是却产生了惊人的复杂性.
 
 ## Other
 
