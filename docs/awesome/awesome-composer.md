@@ -6,7 +6,7 @@
 
 &gt;精选的Composer，Packagist，Satis，插件，脚本，视频，教程资源列表.
 
-你可能还喜欢 [awesome-php](https://github.com/ziadoz/awesome-php).
+您可能还喜欢 [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *请阅读 [contribution guidelines](https://github.com/jakoch/awesome-composer/blob/master/contributing.md) 在捐款之前.*
 
@@ -64,7 +64,7 @@
 - [Prestissimo](https://github.com/hirak/prestissimo) -使用`phpext_curl`的并行下载器.
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) -该插件使用phpext_curl下载软件包.
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
-- [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) -允许您为已安装的composer项目构建依赖关系图.
+- [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 - [Graph-Composer](https://github.com/clue/graph-composer) -为项目的`composer.json`及其依赖项提供图形可视化.
 - [PackageVersions](https://github.com/Ocramius/PackageVersions) -提供对已安装的作曲家依赖关系版本的快速便捷访问.
 - [Composer Locator](https://github.com/mindplay-dk/composer-locator) -提供一种查找给定Composer软件包名称的安装路径的方法.
@@ -211,13 +211,18 @@
 - [Private Packagist Enterprise](https://packagist.com) -私有Packagist的本地自托管版本.
 - [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client)  -专用Packagist API的PHP客户端.  客户端处理身份验证，签名生成以及对所有端点的访问.
 
+### Repman
+
+- [repman.io](https://repman.io) & [repman-io/repman](https://github.com/repman-io/repman) -私有PHP软件包存储库管理器和Packagist代理.
+- [repman-io/composer-plugin](https://github.com/repman-io/composer-plugin) -该插件可以通过添加所有依赖项的分发镜像URL来通过Repman下载（无需更新`composer.lock`文件）. 
+
 ## Packagist-compatible repositories
 
 - [WordPress Packagist](https://wpackagist.org/) -将WordPress插件和主题目录镜像为Composer存储库.
 - [Asset Packagist](https://asset-packagist.org/) -允许将Bower和NPM软件包安装为本地Composer软件包.
 - [Firegento](https://packages.firegento.com/) -提供Magento模块的Composer存储库.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) -用于Drupal 7和8核心，模块和主题的Composer存储库.
-- [Satis Server](https://github.com/lukaszlach/satis-server) -该docker容器提供了Satis Server，使您能够运行私有的，自托管的Composer存储库，并支持Git，Mercurial和Subversion，HTTP API，HTTPs，webhook处理程序和计划的构建.
+- [Satis Server](https://github.com/lukaszlach/satis-server) -该docker容器提供了一个Satis Server，使您能够运行私有，自托管的Composer存储库，并支持Git，Mercurial和Subversion，HTTP API，HTTPs，webhook处理程序和计划的构建.
 - [Cloudsmith](https://cloudsmith.io) -具有PHP / Composer支持（以及许多其他功能）的完全托管的软件包管理SaaS.
 - [Release Belt](https://github.com/Rarst/release-belt) -自托管的Composer存储库实施，可快速集成第三方非Composer版本的ZIP文件.
 - [Packeton](https://github.com/vtsykun/packeton)  -供供应商使用的私人自托管Composer存储库.  包装专家的分叉，增加了对授权，客户用户，组，webhooks的支持.

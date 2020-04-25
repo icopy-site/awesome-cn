@@ -39,7 +39,6 @@
 
 <!--lint ignore awesome-spell-check-->
 
-- [actions/github](https://github.com/actions/github) -将action-toolkit包装到Action中，以实现常见的GitHub自动化.
 - [actions/checkout](https://github.com/actions/checkout) -在工作流程上设置存储库.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) -从您的工作流程中上传工件.
 - [actions/download-artifact](https://github.com/actions/download-artifact) -从构建中下载工件.
@@ -156,7 +155,7 @@
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) -等待所有状态和检查成功或其中任何一个失败，然后相应地设置其状态输出.
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) -从git获取上一个标签.
 - [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) -根据标题和说明创建一个新的开放里程碑.
-- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
+- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) -关闭给定的里程碑.
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)
@@ -330,6 +329,7 @@
 - [Send a Push Notification via Pushbullet](https://github.com/ShaunLWM/action-pushbullet)
 - [Create an Outlook Calendar Event using Microsoft Graph](https://github.com/anoopt/ms-graph-create-event)
 - [Watch for GitHub Wiki page changes and post to Slack](https://github.com/benmatselby/gollum-page-watcher-action)
+- [Send an SMS using MessageBird](https://github.com/nikitasavinov/messagebird-sms-action)
 
 ### Deployment
 
@@ -459,8 +459,9 @@
 - [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 - [Zero Downtime Laravel Deployments with GitHub Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
 - [Building Custom GitHub Actions Pluralsight Course](https://www.pluralsight.com/courses/building-custom-github-actions/)
+- [Continuously Deploying Django to DigitalOcean with Docker and GitHub Actions](https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/)
 
- &gt;如果您有更多资源可以共享，请不要犹豫进行PR.  查看 [https://github.com/sdras/awesome-actions/blob/master/contributing.md](https://github.com/sdras/awesome-actions/blob/master/contributing.md) 了解更多信息
+ &gt;如果您有更多资源可以共享，请不要犹豫进行PR.  查看 [https://github.com/sdras/awesome-actions/blob/master/contributing.md](https://github.com/sdras/awesome-actions/blob/master/contributing.md) 欲获得更多信息
 
 ## License
 

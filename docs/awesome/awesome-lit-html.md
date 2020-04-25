@@ -73,11 +73,12 @@
 ### Component Libraries
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
+- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) -使用LitElement构建的AXA CH UI组件库.
 - [Blackstone UI](https://github.com/kjantzer/bui) -用于创建使用lit-html和LitElement构建的界面的Web组件.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) -收集用于构建Brightspace应用程序的Web组件.
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
-- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
+- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统收集与框架无关的元素.
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs的Web组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Ink Components](https://github.com/ink-components/ink-components) -用于交互式科学写作的Web组件.
@@ -88,9 +89,10 @@
 - [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) -使用Web组件进行突变测试结果的方案，以使其可视化.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用LitElement构建的Adobe Spectrum设计语言实现.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -在本地API之上的企业风味糖！
-- [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) -用于创建使用Webview API的VSCode扩展的组件.
+- [VSCode-Webview-Elements](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
 - [Weightless](https://github.com/andreasbm/weightless) -占地面积小的高质量Web组件.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) -出现手绘元素的集合.
+- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) -Arduino和各种电子零件的Web组件.
 
 ### Individual Components
 

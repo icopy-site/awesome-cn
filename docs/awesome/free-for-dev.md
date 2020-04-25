@@ -204,7 +204,7 @@
   * [Tadum](https://tadum.app) -专为定期会议而设计的会议议程和会议记录应用，免费供10人以下的团队使用
   * [talky.io](https://talky.io/)  —免费的小组视频聊天.  匿名.  点对点.  无需插件，注册或付款
   * [Tefter](https://tefter.io)  -具有强大的Slack集成功能的书签应用程序.  开源团队免费.
-  * [twist.com](https://twist.com)  —异步友好的团队交流应用程序，其中的对话保持井井有条，并保持主题一致.  提供免费和无限计划.  为符合条件的团队提供折扣.
+  * [twist.com](https://twist.com)  —异步友好的团队交流应用程序，其中的对话保持井井有条，并保持在主题上.  提供免费和无限计划.  为符合条件的团队提供折扣.
   * [typetalk.com](https://www.typetalk.com/) -通过网络或手机上的即时消息与团队共享和讨论想法
   * [Tugboat](https://tugboat.qa)  -预览每个自动请求和请求请求.  所有人免费，非营利组织免费提供Nano层.
   * [whereby.com](https://whereby.com/) — One click video conversations, for free (formerly known as appear.in)
@@ -284,6 +284,7 @@
   * [travis-ci.org](https://travis-ci.org/) —对于公共GitHub存储库免费
   * [cirrus-ci.org](https://cirrus-ci.org) -对于公共GitHub存储库免费
   * [drone](https://cloud.drone.io/) -Drone Cloud使开发人员能够在一个地方跨多个架构运行持续交付管道-包括x86和Arm（32位和64位）
+  * [codemagic.io](https://codemagic.io/) -每月免费构建500分钟
 
 ## Testing
 
@@ -412,7 +413,7 @@
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) — Performance Monitoring API，检查Ping，DNS等.
   * [stathat.com](https://www.stathat.com/) -免费获得10个统计信息，无过期
   * [statuscake.com](https://www.statuscake.com/) -网站监控，无限制的无限制测试
-  * [thousandeyes.com](https://www.thousandeyes.com/)  —网络和用户体验监控.  免费提供3个位置和20个主要Web服务的数据馈送
+  * [thousandeyes.com](https://www.thousandeyes.com/)  —网络和用户体验监视.  免费提供3个位置和20个主要Web服务的数据馈送
   * [uptimerobot.com](https://uptimerobot.com/) -网站监控，免费提供50个监控器
   * [nixstats.com](https://nixstats.com)  -一台服务器免费.  电子邮件通知，公共状态页面，60秒间隔等.
 
@@ -493,7 +494,7 @@
   * [Formspree.io](https://formspree.io/)  —使用HTTP POST请求发送电子邮件.  免费套餐每月限制1000个提交，并且必须在API调用中公开电子邮件地址.
   * [getform.io](https://getform.io/) -面向设计人员和开发人员的表单后端平台，1个表单，100个提交，单个文件上传，100MB文件存储.
   * [Kwes.io](https://kwes.io/)  -功能丰富的表单端点.  非常适合静态网站.  免费计划包括最多1个网站，每月最多50个提交.
-  * [smartforms.dev](https://smartforms.dev/) -强大而简单的网站后端表单，永久免费的计划允许每月50次提交，100MB文件存储，Zapier集成，CSV / JSON导出，自定义重定向，自定义响应页面，Telegram＆Slack bot，单个电子邮件通知.
+  * [smartforms.dev](https://smartforms.dev/) -适用于您网站的强大而简单的表单后端，永远免费的计划允许每月50次提交，100MB文件存储，Zapier集成，CSV / JSON导出，自定义重定向，自定义响应页面，Telegram＆Slack bot，单个电子邮件通知.
   * [staticforms.xyz](https://www.staticforms.xyz/)  -无需任何服务器端代码即可轻松轻松地集成HTML表单.  用户提交表单后，会将包含表单内容的电子邮件发送到您的注册地址.
   * [Typeform.com](https://www.typeform.com/)  —在网站上包括设计精美的表格.  免费计划每个表格只允许10个字段，每月只允许100个回复.
 
@@ -578,7 +579,7 @@
 
   * [000WebHost](https://www.000webhost.com/) -使用PHP，MySQL，cPanel且无广告的零成本网站托管！
   * [Awardspace.com](https://www.awardspace.com) —免费的虚拟主机+免费的短域名，PHP，MySQL，应用安装程序，电子邮件发送和无广告.
-  * [bubble.is](https://bubble.is/) —可视化编程，无需代码即可构建Web和移动应用，每月免费100位访问者，2个应用
+  * [bubble.is](https://bubble.is/) —可视化编程，无需代码即可构建Web和移动应用程序，每月免费100位访问者，2个应用程序
   * [Byet](https://byet.host) — Byet为您提供了大量免费且无广告的负载平衡免费虚拟主机服务，包括PHP，MySQL，FTP，Vistapanel等！
   * [cloudno.de](https://cloudno.de/) — Node.js应用程序的免费云托管.
   * [devport.co](http://devport.co/) —将GitHub项目，应用和网站转变为个人开发人员组合
@@ -659,7 +660,7 @@
    * [serveo.net](https://serveo.net/) —使用SSH隧道快速将任何本地端口公开到伺服子域上的公共Internet，其中包括SSH GUI，可通过HTTP重放请求.
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) — Google STUN
-   * [webhookrelay.com](https://webhookrelay.com)  —管理，调试，扇出并将所有Webhook代理到公共或内部（即localhost）目标.  另外，通过获取公共HTTP端点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080），公开运行在专用网络上通过隧道的服务器.
+   * [webhookrelay.com](https://webhookrelay.com)  —管理，调试，扇出并将所有Webhook代理到公共或内部（即localhost）目标.  另外，通过获取公共HTTP终结点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080），公开通过隧道在私有网络中运行的服务器.
    * [ZeroTier](https://www.zerotier.com)  — FOSS管理的虚拟以太网即服务.  免费计划的100个客户端的无限端到端加密网络.  台式机/手机/ NA的客户端；  Web界面，用于配置自定义路由规则并批准专用网络上的新客户端节点.
 
 ## Issue Tracking and Project Management
@@ -806,7 +807,7 @@
    * [Eclipse Che](https://www.eclipse.org/che/)  -基于Web和Kubernetes-Native IDE的开发人员团队，具有多语言支持.  开源和社区驱动.  托管版本位于： [che.openshift.io](https://che.openshift.io/)
    * [fakejson.com](https://fakejson.com/)  — FakeJSON可帮助您使用其API快速生成伪造数据.  发出一个API请求，描述您想要什么以及如何想要它.  API以JSON返回所有内容.  加快进入市场的过程，寻找创意，并进行伪造，直到实现为止.
    * [gitpod.io](https://www.gitpod.io)  —用于GitHub项目的即时，可编写代码的开发环境.  免费提供开源.
-   * [ide.goorm.io](https://ide.goorm.io)  goormIDE是云上的完整IDE.  多语言支持，通过功能齐全的基于Web的终端，基于Linux的容器，端口转发，自定义URL，实时协作和聊天，共享链接，Git / Subversion支持.  还有更多功能（免费层包括每个容器1GB RAM和10GB存储空间，5个容器插槽）.
+   * [ide.goorm.io](https://ide.goorm.io)  goormIDE是云上的完整IDE.  多语言支持，通过功能齐全的基于Web的终端通过基于Linux的容器，端口转发，自定义URL，实时协作和聊天，共享链接，Git / Subversion支持.  还有更多功能（免费层包括每个容器1GB RAM和10GB存储空间，5个容器插槽）.
    * [JDoodle](https://www.jdoodle.com) —用于60多种编程语言的在线编译器和编辑器，并提供免费的REST API代码计划，每天最多可编译200学分.
    * [jetbrains.com](https://jetbrains.com/products.html) -生产力工具，IDE和部署工具（aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) 等）.  为学生，教师，开源和用户组提供免费许可证.
    * [jsbin.com](https://jsbin.com) — JS Bin是前端Web的另一个游乐场和代码共享站点（HTML，CSS和JavaScript.还支持Markdown，Jade和Sass）.
@@ -903,7 +904,7 @@
   * [docsapp.io](https://www.docsapp.io/) —最简单的发布文档的方式，免费提供给开源
   * [Filly](https://fill.ly)  -通过重复使用以前在应用程序上完成的手动操作来增强您的Web开发工作流程.  填写表格以改善团队协作.
   * [FOSSA](https://fossa.com/) -可扩展的端到端管理，用于第三方代码，许可证合规性和漏洞.
-  * [fullcontact.com](https://www.fullcontact.com/developer/pricing/)  —通过将社交资料添加到您的应用中，帮助您的用户更多地了解他们的联系人.  每月500次免费的Person API匹配
+  * [fullcontact.com](https://www.fullcontact.com/developer/pricing/)  —通过将社交资料添加到您的应用中，帮助您的用户更多地了解其联系人.  每月500次免费的Person API匹配
   * [http2.pro](https://http2.pro) — HTTP / 2协议准备测试和客户端HTTP / 2支持检测API.
   * [PDFMonkey](https://www.pdfmonkey.io/) — Manage PDF templates in a dashboard, call the API with dynamic data, download your PDF. Offers 1000 free documents per month.
   * [readme.com](https://readme.com/) —易于使用的精美文档，对于开源免费提供：请参见 [here](https://readme.readme.io/docs/open-source).

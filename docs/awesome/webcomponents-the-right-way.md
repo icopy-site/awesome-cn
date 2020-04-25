@@ -174,13 +174,14 @@
 ## Component Libraries
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
-- [AMP HTML](https://github.com/ampproject/amphtml) - Web component library for building web pages that render with reliable and fast performance.
+- [AMP HTML](https://github.com/ampproject/amphtml) -Web组件库，用于构建以可靠和快速的性能呈现的网页.
+- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) -使用Web组件构建的AXA CH UI组件库.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) -收集用于构建Brightspace应用程序的Web组件.
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Calcite Components](https://github.com/Esri/calcite-components) -用于Esri的Calcite设计框架的共享Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
 - [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统收集与框架无关的元素.
-- [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
+- [Clever components](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
 - [Elix](https://github.com/elix/elix) -用于常见用户界面模式的高质量，可定制的Web组件.
 - [Helix UI](https://github.com/HelixDesignSystem/helix-ui) -Helix设计系统的Web组件库.
 - [Lion Web Components](https://github.com/ing-bank/lion) -一套高性能，可访问且灵活的Web组件.
@@ -195,6 +196,7 @@
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -组件库在本地API的基础上提供了企业风味的糖.
 - [Vaadin components](https://github.com/vaadin/vaadin) -用于构建业务Web应用程序的不断发展的高质量Web组件集.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) -手绘，粗略外观的一组通用UI元素.
+- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) -Arduino和各种电子零件的Web组件.
 
 ## Frameworks
 

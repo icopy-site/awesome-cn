@@ -44,6 +44,8 @@
 - [caniuse.rs](https://github.com/jplatte/caniuse.rs) -防锈功能搜索.
 - [Rust electron yew demo](https://github.com/Extrawurst/rust-electron-demo) -使用电子将基于Rust的Web应用程序（Yew）构建到本机应用程序的示例.
 - [covplot](https://github.com/jbowens/covplot) -全球CoVID-19数据的实时图表.
+- [Tanoshi](https://github.com/fadhlika/tanoshi-web) -类似Tachiyomi的网络漫画阅读器.
+- [Minesweeper](https://github.com/jgpaiva/minesweeper) -使用Rust，Yew和WebAssembly构建的扫雷器.
 
 ## Templates
 

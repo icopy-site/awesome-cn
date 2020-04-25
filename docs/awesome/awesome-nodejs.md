@@ -108,7 +108,7 @@
 - [torrent](https://github.com/maxogden/torrent) -下载种子.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [alex](https://github.com/wooorm/alex) -捕捉不敏感，不体贴的文字.
-- [pen](https://github.com/noraesae/pen) -您最喜欢的编辑器在浏览器中提供实时Markdown预览.
+- [pen](https://github.com/noraesae/pen) -您最喜欢的编辑器在浏览器中提供实时降价预览.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) -电影和电视连续剧的字幕下载器.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) -切换macOS暗模式.
 - [iponmap](https://github.com/nogizhopaboroda/iponmap) -IP位置查找器.
@@ -140,7 +140,7 @@
 - [immutable](https://github.com/facebook/immutable-js) -不可变的数据收集.
 - [Ramda](https://github.com/ramda/ramda)  -实用程序库，侧重于通过自动计算和相反的参数顺序实现的灵活功能组合.  避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) -使用JavaScript进行通用功能编程的库套件，可让您编写优雅的模块化应用程序，减少错误，并增加重复使用率.
-- [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大差异的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
+- [Mout](https://github.com/mout/mout) -其他现有解决方案之间最大的区别是实用程序库，您可以选择仅加载所需的模块/功能，而无需额外的开销.
 - [Bacon.js](https://github.com/baconjs/bacon.js) -功能反应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) -功能性反应式库，用于转换，合成和查询各种数据.
 - [Lazy.js](https://github.com/dtao/lazy.js) -类似于lodash / Underscore的实用程序库，但具有懒惰的评估，在许多情况下可以转换为出色的性能.
@@ -257,7 +257,7 @@
 - [i2c-bus](https://github.com/fivdi/i2c-bus) -I2C串行总线访问.
 - [onoff](https://github.com/fivdi/onoff) -GPIO访问和中断检测.
 - [spi-device](https://github.com/fivdi/spi-device) -SPI串行总线访问.
-- [pigpio](https://github.com/fivdi/pigpio) -Raspberry Pi上的快速GPIO，PWM，伺服控制，状态更改通知和中断处理.
+- [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 - [gps](https://github.com/infusion/GPS.js) -NMEA解析器，用于处理GPS接收器.
 
 ### Templating
@@ -468,7 +468,7 @@
 - [nearley](https://github.com/Hardmath123/nearley) -简单，快速，强大的JavaScript解析.
 - [binary-extract](https://github.com/juliangruber/binary-extract) -从JSON缓冲区中提取一个值，而不分析整个内容.
 - [Stylecow](https://github.com/stylecow/stylecow)  -解析，操作和转换现代CSS，使其与所有浏览器兼容.  可通过插件扩展.
-- [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
+- [js-yaml](https://github.com/nodeca/js-yaml) -非常快速的YAML解析器.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) -XML到JavaScript对象的转换器.
 - [Jison](https://github.com/zaach/jison)  -友好的JavaScript解析器生成器.  它与野牛，Yacc和家庭共享基因.
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) -解析，格式化，存储和验证电话号码.
@@ -664,7 +664,7 @@
 - [KeystoneJS](https://github.com/keystonejs/keystone) -基于Express和MongoDB构建的CMS和Web应用程序平台.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) -基于Express和MongoDB的内容管理系统，重点在于直观的前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) -内容管理框架（headless-CMS），用于构建功能强大的API.
-- [Tipe](https://github.com/tipeio/tipe) -来自架构文件的具有GraphQL和REST API的开发人员优先的内容管理系统.
+- [Tipe](https://github.com/tipeio/tipe) -来自架构文件的具有GraphQL和REST API的开发人员优先内容管理系统.
 
 ### Forum
 
@@ -781,6 +781,7 @@
 - [Nodetuts](http://nodetuts.com) -一系列讲座，包括TCP和HTTP API服务器，异步编程等.
 - [V8 Garbage Collector](https://v8.dev/blog/trash-talk) -谈论V8垃圾收集器.
 - [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) -Node.js的创建者关于其某些局限性的深刻见解.
+- [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) -有关如何使用Node.js制作REST API的视频课程.
 
 ### Books
 

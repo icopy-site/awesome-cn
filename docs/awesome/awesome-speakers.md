@@ -19,8 +19,14 @@
 <img src="https://twitter.com/onejsninja/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **赔率报价** \
-主题：JavaScript，Node.js，Typescript，测试，社区，\
+主题：JavaScript，Node.js，TypeScript，测试，社区，\
 https://twitter.com/onejsninja
+
+<img src="https://twitter.com/AnayoOleru/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**有Oleru ** \
+主题：JavaScript，Node.js，TypeScript，测试，React，Redux，React Native，开放源代码，Dialogflow，PWA \
+https://twitter.com/AnayoOleru
 
 <img src="https://twitter.com/codebeast/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -98,7 +104,7 @@ https://twitter.com/MohitRajput987
 
 <img src="https://twitter.com/jayeshkattar/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Jayesh Katta Ramalingaiah ** \
+** Jayesh Katta拉玛琳格**
 主题：Rust，Android，Angular，React，Web VR，Project Things，Common Voice，Web兼容性\
 https://twitter.com/jayeshkattar
 
@@ -202,7 +208,7 @@ https://twitter.com/narainsagar
 
 <img src="https://twitter.com/WajahatKarim/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Wajahat Karim**\
+Wajahat Karim ** \
 主题：Android，开源，Java，Kotlin \
 https://twitter.com/WajahatKarim
 
@@ -318,7 +324,7 @@ https://twitter.com/glnnrys
 
 <img src="https://twitter.com/mrozilla/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**扬·赫鲁比（Jan Hruby）
+** Jan Hruby ** \
 主题：React，Redux，JS中的CSS，React Native，无服务器，GraphQL \
 https://twitter.com/mrozilla
 
@@ -330,7 +336,7 @@ https://twitter.com/bebraw
 
 <img src="https://twitter.com/karlhorky/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**卡尔·霍基**
+**卡尔·霍基** \
 主题：工具，标准，交叉性，OSS，心理学\
 https://twitter.com/karlhorky
 
@@ -388,7 +394,7 @@ https://twitter.com/defuex
 
 <img src="https://twitter.com/sambego/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**山姆·贝伦** \
+**致电Sam ** **
 主题：Web音频，浏览器API \
 https://twitter.com/sambego
 
@@ -398,7 +404,7 @@ https://twitter.com/sambego
 
 <img src="https://twitter.com/rstankov/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**拉多斯拉夫·斯坦科夫** \
+**Radoslav Stankov**\
 主题：React，Redux，Ruby，测试，GraphQL \
 https://twitter.com/rstankov
 
@@ -430,7 +436,7 @@ https://twitter.com/enthusiasto
 
 <img src="https://twitter.com/tereza_sokol/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Tereza Sokol
+** Tereza Sokol ** \
 主题：榆木，可视化\
 https://twitter.com/tereza_sokol
 
@@ -526,13 +532,13 @@ https://twitter.com/Lugotype
 
 <img src="https://twitter.com/ManuelBieh/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-曼努埃尔Bieh ** \
+**曼努埃尔·比耶** \
 主题：React，JavaScript，代码质量，干净代码，领导力，开发人员经验\
 https://twitter.com/ManuelBieh
 
 <img src="https://twitter.com/nataliepis/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-娜塔莉Pistunovich ** \
+**娜塔莉·皮斯托努维奇** \
 主题：移动应用，Go \
 https://twitter.com/nataliepis
 
@@ -806,7 +812,7 @@ https://twitter.com/serifritsch
 
 <img src="https://twitter.com/malyw/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**瑟格·霍斯帕莱斯**
+** Serg Hospodarets ** \
 主题：JavaScript，CSS，CSS Houdini \
 https://twitter.com/malyw
 
@@ -913,7 +919,7 @@ https://twitter.com/JoubranJad
 
 <img src="https://twitter.com/udezekene/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Kene Udeze**\
+**肯尼·乌德兹** \
 主题：设计，CSS，可访问性，包容性设计\
 https://twitter.com/udezekene
 
@@ -1033,7 +1039,7 @@ https://twitter.com/tlakomy
 
 <img src="https://twitter.com/aganaplocha/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**阿加·那普洛（Aga Naplocha）**
+** Aga Naplocha ** \
 主题：CSS，教学Web技术\
 https://twitter.com/aganaplocha
 
@@ -1047,7 +1053,7 @@ https://twitter.com/tomasz_ducin
 
 <img src="https://twitter.com/ferrannp/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**黑色Ferran ** \
+** Ferran Negre ** \
 主题：React Native，React，测试，JavaScript，Android \
 https://twitter.com/ferrannp
 
@@ -1071,7 +1077,7 @@ https://twitter.com/michal_chudziak
 
 <img src="https://twitter.com/satya164/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Satyajit Sahoo ** \
+** Satyajit Sahoo **
 主题：React，React Native，JS中的CSS，工具\
 https://twitter.com/satya164
 
@@ -1573,7 +1579,7 @@ https://twitter.com/bahmutov
 
 <img src="https://twitter.com/leaverou/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Lea Verou **
+** Lea Verou ** \
 主题：CSS，HTML \
 https://twitter.com/leaverou
 
@@ -1705,7 +1711,7 @@ https://twitter.com/jaredpalmer
 
 <img src="https://twitter.com/jensimmons/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**仅Simmons ** \
+**詹·西蒙斯** \
 主题：设计，CSS，HTML，Web \
 https://twitter.com/jensimmons
 
@@ -1747,7 +1753,7 @@ https://twitter.com/swyx
 
 <img src="https://twitter.com/una/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
-**一个Kravets ** \
+**克拉维特人** \
 主题：CSS，Web \
 https://twitter.com/una
 
@@ -1761,7 +1767,7 @@ https://twitter.com/bitandbang
 
 <img src="https://twitter.com/addyosmani/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**艾迪·奥斯曼尼**
+**阿迪·奥斯曼尼**加
 主题：Chrome DevTools，性能\
 https://twitter.com/addyosmani
 
@@ -1831,7 +1837,7 @@ https://twitter.com/kyleshevlin
 
 <img src="https://twitter.com/micahgodbolt/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**米迦勒·戈德波特** \
+**米迦勒·戈德波特**
 主题：前端架构，CSS，设计系统\
 https://twitter.com/micahgodbolt
 
@@ -1909,7 +1915,7 @@ https://twitter.com/standardista
 
 <img src="https://twitter.com/fvcproductions/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**弗朗西斯上校** \
+** Frances Coronel ** \
 主题：渐进式Web应用程序，TypeScript，Web设计，开源\
 https://twitter.com/fvcproductions
 
@@ -2037,7 +2043,7 @@ https://twitter.com/obetomuniz
 
 <img src="https://twitter.com/fdaciuk/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**费尔南多·达丘克**
+**费尔南多·达丘克** \
 主题：React，JavaScript \
 https://twitter.com/fdaciuk
 
@@ -2080,11 +2086,11 @@ https://twitter.com/JoaoVictor_AC
 <img src="https://twitter.com/sseraphini/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **西贝柳斯·塞拉菲尼** \
-主题：React，React Native，Node.js，GraphQL，Relay Modern，开源，机器学习，区块链\
+Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain\
 https://twitter.com/sseraphini
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Karl Horky](https://github.com/karlhorky) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Karl Horky](https://github.com/karlhorky) 已放弃此作品的所有版权以及相关或邻近的权利.

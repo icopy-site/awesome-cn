@@ -52,7 +52,7 @@
 * Beta绑定-http://www.betabound.com/announce/
 * Beta页-https://betapage.co/
 * Betafy-https://www.betafy.co/easysignup/startup
-* BetaList-https://betalist.com/submit
+* BetaList - https://betalist.com/submit
 *更好的测试-https://beterest.com/submit-startup/
 * Boing Boing-http://boingboing.net/sub/
 * BuiltInChicago-http://www.builtinchicago.org/send-us-tip
@@ -75,16 +75,13 @@
 * Geek Wire-http://geekwire.com/startup-list/
 *获取应用-http://getapp.com/
 * Getworm-https://getworm.com/submit-startup
-*味道-https://www.gust.com
-* Hackerstreet-https://in.thehackerstreet.com/
+*狂风-https://www.gust.com
 哈罗-https://www.helpareporter.com/sources/
-*我是电线-http://www.iamwire.com/startups/user/register?uType=Entrepreneur
 *创意搜寻-http://ideahunt.io/
 * Inc 42-https://inc42.com/startup-submission/
 * Index.co - https://index.co/startup
 *独立黑客-https://www.indiehackers.com/
 *杀手级创业公司-http://killerstartups.com/submit-startup/
-*拉拉斯人-https://larasites.com/
 *土地书-https://land-book.com/guidelines
 *启动列表-https://launchlister.com/submit-startup
 *已启动-https://launched.io/SubmitStartup
@@ -98,6 +95,7 @@
 *下一件大事-http://nextbigwhat.com/
 *下载-http://www.paggu.com/submit-your-startup/
 * pFind-http://www.pfind.com/submit
+* Postmake-https://postmake.io/submit
 * Postscapes-http://about.postscapes.com/tools
 * PreApps-http://www.preapps.com/
 *产品搜寻-http://www.producthunt.com/
@@ -140,7 +138,7 @@
 *技术冥王星-http://www.techpluto.com/submit-a-startup/
 *更改日志-https://github.com/thechangelog/ping
 * iPhone妈妈-https://www.theiphonemom.com/
-* The Startup Pitch - http://thestartuppitch.com/post-a-pitch/
+*启动音调-http://thestartuppitch.com/post-a-pitch/
 *顶级替代品-https://topalternatives.com/
 * Vator-http://www.vator.tv/
 * VB个人资料-http://vbprofiles.com/

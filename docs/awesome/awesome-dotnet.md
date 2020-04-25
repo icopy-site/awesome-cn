@@ -52,7 +52,7 @@
 * [CSLA .NET](https://github.com/MarimerLLC/csla) -业务层开发框架https://cslanet.com/
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) -Mono.Addins是用于创建可扩展应用程序以及用于创建扩展这些应用程序的加载项的通用框架
-* [peasy](https://github.com/peasy/Peasy.NET) -Peasy是一个中间层框架，提供了易于使用和灵活的规则引擎，旨在解决常见挑战，例如并发处理，事务支持，容错，线程，可伸缩性，异步和多客户端支持以及易于测试的功能.没有巨大的学习曲线！
+* [peasy](https://github.com/peasy/Peasy.NET) -Peasy是一个中间层框架，提供了易于使用和灵活的规则引擎，旨在解决常见挑战，例如并发处理，事务支持，容错，线程，可伸缩性，异步和多客户端支持以及易于测试的功能，所有这些没有巨大的学习曲线！
 * [Spring.Net](https://github.com/spring-projects/spring-net) -Spring.NET是一个开源应用程序框架，使构建企业.NET应用程序更加容易
 * [DotNetty](https://github.com/Azure/DotNetty) -DotNetty是Netty的端口，异步事件驱动的网络应用程序框架用于快速开发可维护的高性能协议服务器和客户端.
 * [AspectCore Framework](https://github.com/dotnetcore/AspectCore-Framework)  -AspectCore框架是用于.NET Core和.NET Framework的基于面向方面的编程的跨平台框架.  对方面拦截器，依赖注入集成，Web应用程序，数据验证等的核心支持.
@@ -62,7 +62,7 @@
 
 * [.NET Boxed Templates](https://github.com/Dotnet-Boxed/Templates) -包含电池的.NET项目模板，可提供所需的最少代码量，以帮助您快速入门.
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - backend: .NET Core, EF Core, C#; frontend: Babel, Webpack, React, CSS Modules
-* [MVC.Template](https://github.com/NonFactors/AspNetCore.Template) - ASP.NET Core MVC project starter template.
+* [MVC.Template](https://github.com/NonFactors/AspNetCore.Template) -ASP.NET Core MVC项目入门模板.
 * [ProjectScaffold](https://github.com/fsprojects/ProjectScaffold) - A prototypical .NET solution recommended by the F# Foundation---includes file system setup, Paket for dependencies and FAKE for build/test automation. By default, build process also compiles documentation and generates NuGet packages.
 * [Serene](https://github.com/volkanceylan/Serenity)  -Serenity是一个ASP.NET MVC应用程序平台，旨在通过基于服务的体系结构简化和缩短以数据为中心的业务应用程序的开发.  Serene是构建Serenity应用程序的入门模板.
 * [Side-Waffle](https://github.com/LigerShark/side-waffle) -大量用于Web和桌面开发的有用模板.
@@ -491,7 +491,7 @@
 * [Wix Toolset](https://wixtoolset.org/) -可用于创建Windows安装体验的最强大的工具集
 * [Squirrel](https://github.com/squirrel/squirrel.windows) -Squirrel既是一组工具又是一个库，可以完全管理安装和更新桌面Windows应用程序.
 * [Chocolatey](https://github.com/chocolatey/choco) -类似于“ yum”或“ apt-get”，但适用于Windows.
-* [Wax](https://marketplace.visualstudio.com/items?itemName=TomEnglert.Wax) -WiX项目的交互式编辑器.
+* [Wax](https://marketplace.visualstudio.com/items?itemName=TomEnglert.Wax) - An interactive editor for WiX projects.
 * [Onova](https://github.com/Tyrrrz/Onova) -桌面应用程序的非自动更新框架.
 
 ## Internationalization
@@ -694,6 +694,7 @@
 
 * [Entity Framework 6](https://github.com/dotnet/ef6) -对象关系映射器，使.NET开发人员可以使用特定于域的对象来处理关系数据
 * [Entity Framework Core](https://github.com/dotnet/efcore) -对象关系映射器，使.NET开发人员可以使用特定于域的对象来处理关系数据
+* [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) -当您的SQL查询违反SqlServer，MySql，PostgreSQL或SQLite中的数据库约束时，对Entity Framework Core使用类型化的异常
 * [Dapper](https://github.com/StackExchange/Dapper) -通过.NET编写的简单对象映射器 [StackExchange](https://stackexchange.github.io/)
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) -通过为POCO添加基本CRUD操作（获取，插入，更新，删除）补充Dapper的小型库
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) -Dapper最快的micro-ORM扩展
@@ -728,7 +729,7 @@
 * [ITextSharp](https://github.com/itext/itextsharp) -iText是一个PDF库，可让您创建，移植，检查和维护可移植文档格式（PDF）的文档**（$）**** [OSS免费] **
 * [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer) -PdfiumViewer是基于PDFium项目的PDF查看器.
 * [WkhtmlToPdf](https://github.com/codaxy/wkhtmltopdf) - C# wrapper around wkhtmltopdf console utility. Allow to generate preety PDF using HTML and CSS.
-* [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames) .  一种 [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) 也可轻松包含到您的项目中.** [$] **
+* [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames) .  一个 [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) 也可轻松包含到您的项目中.** [$] **
 
 ## Profiler
 
@@ -898,7 +899,7 @@
 * [CatLight](https://catlight.io)  -为TFS / Jenkins / Travis / Appveyor建立状态通知.  基于.NET Core和Electron的跨平台桌面应用程序.  ** [免费] [专有] **
 * [Mockaco](https://github.com/natenho/Mockaco/) - API mock server with fast setup, useful to simulate HTTP responses, leveraging ASP.NET Core features, built-in fake data generation and C# scripting engine powered by Roslyn scripting API.
 * [Netling](https://github.com/hallatore/Netling)  -负载测试器客户端，可轻松进行网络测试.  使用很少的CPU或内存时，速度非常快.
-* [Papercut](https://github.com/ChangemakerStudios/Papercut) -Papercut是一个开放源代码（基于.NET）的测试电子邮件查看器，它通过内置的SMTP服务器在本地运行，该SMTP服务器旨在接收和通知测试电子邮件.
+* [Papercut](https://github.com/ChangemakerStudios/Papercut) -Papercut是一个开放源代码（基于.NET）的测试电子邮件查看器，它通过内置的SMTP服务器在本地运行，该服务器旨在接收和通知测试电子邮件.
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) -卸载并清理Visual Studio的所有组件.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)  -假REST API，用于原型制作或作为CRUD后端.  无需定义类型，使用动态类型.  数据存储到单个JSON文件中.  具有身份验证，WebSocket通知，异步长时间运行的操作，针对错误/延迟的随机生成以及实验性GraphQL支持.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) -的“ PowerShell”标签完成 [dotnet CLI](https://github.com/dotnet/cli)

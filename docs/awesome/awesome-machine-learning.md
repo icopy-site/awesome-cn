@@ -497,7 +497,7 @@
 * [Clustering](https://github.com/JuliaStats/Clustering.jl) -数据聚类的基本功能：k-均值，dp-均值等
 * [SVM](https://github.com/JuliaStats/SVM.jl)  -支持Julia的SVM.  ** [不推荐使用] **
 * [Kernel Density](https://github.com/JuliaStats/KernelDensity.jl) -朱莉娅的内核密度估算器.
-* [MultivariateStats](https://github.com/JuliaStats/MultivariateStats.jl) - Methods for dimensionality reduction.
+* [MultivariateStats](https://github.com/JuliaStats/MultivariateStats.jl) -降维方法.
 * [NMF](https://github.com/JuliaStats/NMF.jl) -用于非负矩阵分解的Julia软件包.
 * [ANN](https://github.com/EricChiang/ANN.jl)  -朱莉娅人工神经网络.  ** [不推荐使用] **
 * [Mocha](https://github.com/pluskid/Mocha.jl)  -受Caffe启发的Julia的深度学习框架.  ** [不推荐使用] **
@@ -723,7 +723,7 @@
 <a name="ocaml-general-purpose"></a>
 ### General-Purpose Machine Learning
 
-* [Oml](https://github.com/rleonid/oml) -通用统计和机器学习库.
+* [Oml](https://github.com/rleonid/oml) - A general statistics and machine learning library.
 * [GPR](https://mmottl.github.io/gpr/) -OCaml中的高效高斯过程回归.
 * [Libra-Tk](https://libra.cs.uoregon.edu) -用于学习和推理的离散概率模型算法.
 * [TensorFlow](https://github.com/LaurentMazare/tensorflow-ocaml) -TensorFlow的OCaml绑定.
@@ -956,7 +956,7 @@ be
 * [Fastai](https://github.com/fastai/fastai) -建立在Pytorch顶部的高级包装程序，支持视觉，文本，表格数据和协作过滤.
 * [scikit-multiflow](https://github.com/scikit-multiflow/scikit-multiflow) -用于多输出/多标签和流数据的机器学习框架.
 * [Lightwood](https://github.com/mindsdb/lightwood) -基于Pytorch的框架，将机器学习问题分解为较小的块，可以与目标无缝地粘合在一起，从而用一行代码构建预测模型.
-
+* [bayeso](https://github.com/jungtaekkim/bayeso) -使用Python编写的简单但必不可少的贝叶斯优化程序包.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
