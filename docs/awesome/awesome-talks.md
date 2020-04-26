@@ -3,7 +3,7 @@
 ## Awesome talks
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 在线上有很多屏幕录像，用户组聚会记录和会议演讲.  我试图让自己每周至少观看两次新的演讲，而且我已经这样做了一段时间.  我创建了这个我非常喜欢看的在线谈话清单.  每当我看完另一个值得做的“很棒的”演讲时，我还将更新此列表.  建议总是通过请求请求得到赞赏.  因此，事不宜迟..
+ 在线上有很多屏幕录像，用户组聚会记录和会议演讲.  我试图让自己每周至少观看两次新的演讲，并且我已经这样做了一段时间.  我创建了这个我非常喜欢看的在线谈话清单.  每当我看完另一个值得做的“很棒的”演讲时，我还将更新此列表.  建议总是通过请求请求得到赞赏.  因此，事不宜迟..
 
 （无特定顺序）
 
@@ -127,8 +127,9 @@
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) 由** Justin Searls ** [43:39]
 * [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) 由** Gregory Moeck ** [44:42]
 * [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) 由** Misko Hevery ** [32:07]
-* [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) ** JB Rainsberger和Sandro Mancuso **
-* [Integrated Tests Are a Scam](https://vimeo.com/80533536) 由** JB Rainsberger **
+* [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) 作者：** JB Rainsberger和Sandro Mancuso ** [01:28:50]
+* [Integrated Tests Are a Scam](https://vimeo.com/80533536) 作者：** JB Rainsberger ** [01:04:35]
+* [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) 由** Kevlin Henney ** [01:04:23]
 
 #### Methodologies
 

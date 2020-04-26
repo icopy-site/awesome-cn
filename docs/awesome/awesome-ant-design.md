@@ -4,7 +4,7 @@
                                                                        ---.
       ╭───╮╭──╮  ╭──╮   ╭──╮ ╭───╮  ╭──╮  ╭─── ───╮   ╭──╮            -..  \
      /    ││  │──│  │  / ╭─╯/ ╭──╯ /    \ │   │   │  / ╭─╯              _|_|_
-    │o│││││/╰─（\─╮│││──││/╰─╮/ O \
+    │o│││││/╰─（\─╮│││││─││/╰─╮/ O \
     │││││││╭─╯\ __││O││\ _ /││╭─╯\_______/
     │  _  ││  `  '  ││   ╰─╮/  \ ││      ││   │   ││   ╰─╮               /   \
     │  │  │ \      / │     │\    │ \    / │   │   ││     │               \/   \
@@ -48,7 +48,7 @@ Ant Design的官方项目和资源.
 这些工具和实用程序可帮助您使用Ant Design构建应用程序，
 
 - [Antd Init](https://github.com/ant-design/antd-init) -Ant Design样板生成器（仅用于演示，请使用dva-cli）.
-- [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js](https://github.com/dvajs/dva)， 一种
+- [Dva Cli](https://github.com/dvajs/dva-cli) -根据以下内容创建Ant Design项目 [Dva.js](https://github.com/dvajs/dva)， 一个
   基于Redux和React并受启发的轻量级前端框架 [Elm](http://elm-lang.org) 和 [Choo](https://github.com/yoshuawuyts/choo).
 - [Antd Tools](https://github.com/ant-tool) -非常有用的工具列表，可用于Ant Design创建文档，创建新组件，构建工具等等.
 - [Antd Tools Docs](http://ant-tool.github.io/) -Ant工具的文档.
@@ -58,6 +58,7 @@ Ant Design的官方项目和资源.
 - [Generator Antd Pro](https://github.com/codetrial/generator-antd-pro) -一种构建Ant Design Pro应用程序的简单方法.
 - [formik-antd](https://github.com/jannikbuschke/formik-antd) -流行的表单状态管理库Formik的声明性绑定.
 - [Zaku](https://github.com/limichange/zaku) -基于JSX的UI编辑器，这是构建页面和生成antd代码的简便方法.
+- [Antd-Pro-Generator for VS Code](https://github.com/garrett12138/antd-pro-generator) 从Swagger2.0或OpenApi3.x文档为Ant Design Pro生成服务/模拟/模型.
 
 ## Theming
 
@@ -78,7 +79,7 @@ Ant Design的官方项目和资源.
 Ant Design系列项目.
 
 - [Grammar of Graphics](https://g2.alipay.com/) -纯粹的javascript，功能强大的大数据语义图生成工具，它提供了一组图形语法，使用户可以用简单的语法构建大量图表，并集成了大量统计工具，（[Read more](https://github.com/antvis/feedback)).
-- [Ant Visualization](https://antv.alipay.com/)  -专业的数据可视化规范，旨在在探索数据可视化的过程中投入数年宝贵的数据模式小组工作，以与需要数据可视化理论的所有人共享.  AntV由少量零件，数据，设计规范和图表使用规则组成，（[Read more](https://github.com/antvis/feedback)).
+- [Ant Visualization](https://antv.alipay.com/)  -专业的数据可视化规范，旨在在探索数据可视化的过程中投入数年宝贵的数据模式小组工作，以与需要数据可视化理论的所有人员共享.  AntV由少量零件，数据，设计规范和图表使用规则组成，（[Read more](https://github.com/antvis/feedback)).
 - [Ant Motion](http://motion.ant.design/) -高效的运动设计解决方案，符合带有React实现的Ant Design Visual规范.
 - [Ant UX](http://ux.ant.design/) -使用制作用于UX设计的站点地图模板 [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) 要么 [Axure](http://www.axure.com/) .  这是一个库，可帮助设计人员定义，完善和最终确定其产品的页面间逻辑.
 
@@ -86,7 +87,7 @@ Ant Design系列项目.
 
 使用Angular和Ant Design构建的项目.
 
-- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) -Angular的蚂蚁设计.
+- [NG-ZORRO](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 - [NG-ZORRO-Mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) -Angular的蚂蚁设计手机
 - [ng-alain](https://ng-alain.com/) -ng-zorro-antd管理面板前端框架.
 

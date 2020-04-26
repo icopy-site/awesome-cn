@@ -145,7 +145,7 @@ Installers
 * [Kubernetes Source](https://github.com/kubernetes/kubernetes/)
 * [Kubernetes Troubleshooting](https://kubernetes.io/docs/tasks/debug-application-cluster/troubleshooting/)
 
-发行说明
+
 =======================================================================
 
 *来自Kubernetes团队的关于稳定Kubernetes发行版的正式发行说明*
@@ -337,7 +337,7 @@ Installers
   - [Kel](http://www.kelproject.com)
   - [KubeSail](https://kubesail.com) -一种简单，免费的Kubernetes试用方法
   - [KubeSphere](https://github.com/kubesphere/kubesphere) -全栈且易于使用的容器平台，具有出色的用户体验和向导UI.
-  - [Kyma](https://kyma-project.io/)  -使用无服务器功能扩展应用程序的平台.  它提供了一系列粘合在一起的云原生项目，以简化服务的创建和管理.
+  - [Kyma](https://kyma-project.io/) - A platform for extending apps with serverless functions. It provides a selection of cloud-native projects glued together to simplify the creation and management of services.
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
@@ -583,7 +583,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（例如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最好的OSS工具（例如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -643,7 +643,7 @@ Projects
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)
 * [OperatorHub.io](https://www.operatorhub.io) -Kubernetes社区共享运营商的新家
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
-* [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和 [Patroni](https://github.com/zalando/patroni).
+* [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
 * [Addon-operator](https://github.com/flant/addon-operator) -在头盔图表中添加钩子和值，以增强头盔的功能并将图表转换为可自我配置并响应集群更改的智能模块.
 * [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
@@ -668,7 +668,7 @@ Projects
 * [containerd](https://github.com/containerd/containerd)
 * [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) -Kubernetes容器运行时接口的基于容器的实现
 * [CRI-O](https://github.com/kubernetes-incubator/cri-o)
-* [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
+* [Hyper.sh/frakti](https://github.com/kubernetes/frakti) -基于管理程序的容器运行时
 * [virtlet](https://github.com/Mirantis/virtlet) -Kubernetes CRI实施用于运行VM工作负载
 * [infranetes](https://github.com/apporbit/infranetes)
 * [Kata Containers](https://katacontainers.io)
@@ -734,7 +734,7 @@ Projects
 
 * [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html) -使用Cyber​​Ark Conjur保护Kubernetes部署的应用程序
 * [k8sec](https://github.com/dtan4/k8sec)
-* [Kamus](https://github.com/Soluto/kamus) - A GitOps, zero-trust solution for secrets encryption/decryption solution.
+* [Kamus](https://github.com/Soluto/kamus) -秘密加密/解密解决方案的GitOps，零信任解决方案.
 * [kube-lego](https://github.com/jetstack/kube-lego)
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
 * [kubesec](https://github.com/shyiko/kubesec) -安全秘密管理
@@ -832,6 +832,8 @@ Projects
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) -使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) -广泛采用的开放源代码实现，将Kubernetes网络策略和Istio应用程序策略统一在一起.
+* [Deepfence Enterprise](https://deepfence.io) -适用于kubernetes，虚拟机和无服务器的完整生命周期Cloud Native Workload Protection平台.
+* [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) -强大的运行时漏洞扫描程序，适用于kubernetes，虚拟机和无服务器.
 * [Dex](https://github.com/coreos/dex) -Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持作为身份提供者的Github，Gitlab，Google，Azure和LDAP（AD）.
 * [kiam](https://github.com/uswitch/kiam) -允许群集用户将AWS IAM角色与Pod相关联.
@@ -1041,7 +1043,7 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，并且是充分利用品牌或企业潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且是充分利用品牌或企业的潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [CoreOS](https://twitter.com/coreoslinux)

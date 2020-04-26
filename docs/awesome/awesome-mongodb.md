@@ -22,6 +22,7 @@
 
  - [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB/)
  - [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (Ahmad Awais)](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
+ - [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) -有关MongoDB设计模式的系列文章以及每个设计模式的常见用例以及真实示例.
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) -规模101
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) -您需要/必须了解的有关索引的所有信息
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
@@ -137,7 +138,7 @@
  - [μMongo](https://github.com/Scille/umongo) -基于棉花糖的独立于驱动程序的（异步/同步）ODM
 
 ### R
- - [mongolite](https://github.com/jeroen/mongolite) - Fast and simple client for R
+ - [mongolite](https://github.com/jeroen/mongolite) -快速简单的R客户端
 
 ### Ruby
  - [awesome_explain](https://github.com/sandboxws/awesome_explain) -解释Mongoid查询的简单全局方法
@@ -150,7 +151,7 @@
 ### Scala
  - [mongo-scala-driver](https://github.com/mongodb/mongo-scala-driver) -Scala官方司机
  - [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) -无阻塞Scala驱动程序
- - [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB) -使用Spark SQL读取/写入数据
+ - [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ## Tools
 ### Administration

@@ -122,7 +122,7 @@
 * [What is the role of a Site Reliability Engineer?](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
 * [Lynda.com: DevOps Foundations: Site Reliability Engineering](https://www.lynda.com/Software-Development-tutorials/DevOps-Foundations-Site-Reliability-Engineering/669542-2.html)
 * [Incident Management Training: Wheel of Misfortune](https://dastergon.gr/wheel-of-misfortune/)
-* [站点不可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
+* [站点非可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
 * [The Ultimate Guide to Structuring a 90-Day Onboarding Plan](https://medium.com/swlh/the-ultimate-guide-to-structuring-a-90-day-onboarding-plan-c91af947376)
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
@@ -461,5 +461,5 @@
 * [USENIX Association](https://twitter.com/usenix) -官方的USENIX Twitter帐户.
 
 ## SRE Tools
-* [Awesome SRE Tools](https://github.com/squadcastHQ/awesome-sre-tools) -网站可靠性和生产工程工具精选清单
+* [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) -网站可靠性和生产工程工具精选清单
 * [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)

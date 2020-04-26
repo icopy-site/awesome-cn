@@ -53,7 +53,7 @@
 - [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years)  -为了庆祝这一周年纪念日，我们请软件设计界的杰出作者撰写新旧论文.  在Martin Fowler，James Coplien，Rebecca Wirfs-Brock，Mel Conway等人的贡献下.
 - [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) -DDD的模式和定义的摘要.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) -“快速域驱动设计”是一个简短，易读的摘要，并介绍了DDD的基础知识.
-- [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) -在这个由三部分组成的系列中，Vaughn Vernon讲述了一些常见的设计陷阱，讨论了各种聚合建模选择的优缺点，并提供了经验法则来指导聚合建模.
+- [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) -在这个由三部分组成的系列文章中，Vaughn Vernon讲述了一些常见的设计陷阱，讨论了各种聚合建模选择的优缺点，并提供了经验法则来指导聚合建模.
 - [Getting Started with DDD when Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) -描述了在对遗留系统有重大承诺时开始使用DDD的三种策略.
 - [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) -了解生活文档如何在项目的各个方面提供帮助，从业务目标到业务领域的知识，体系结构和设计，流程和部署，即使您讨厌编写文档.
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) -介绍如何开发基于微服务的应用程序并使用容器对其进行管理. [eShopOnContainers sample](https://github.com/dotnet-architecture/eShopOnContainers)
@@ -113,7 +113,7 @@
 - [Nick Chamberlain](https://buildplease.com) -为.NET开发人员提供有用的开发和设计建议.
 - [DDD Weekly](http://dddweekly.com) -与DDD / CQRS / ES相关的每周精选链接.
 - [Daniel Whittaker](http://danielwhittaker.me)  -是否想了解CQRS和事件来源？  该博客中包含分步指南，可帮助您起步.
-- [Cyrille Martraire](http://cyrille.martraire.com) -在沉迷于金融的同时仍然热衷于编程，我自然是Eric Evans的领域驱动设计以及TDD，BDD和敏捷/ XP实践的忠实拥护者.
+- [Cyrille Martraire](http://cyrille.martraire.com) -在沉迷于金融的同时仍然热衷于编程，所以我自然是Eric Evans的领域驱动设计以及TDD，BDD和敏捷/ XP实践的忠实拥护者.
 - [Jimmy Bogard](https://lostechies.com/jimmybogard/) -我专注于DDD，分布式系统以及其他以缩略语为中心的设计/架构/方法论.
 - [CodeBetter](http://codebetter.com) -CodeBetter.Com的存在是为了帮助在软件开发社区中培养对更好的实践，高级工具，行之有效的方法和技术的意识.
 - [Greg Young](https://goodenoughsoftware.net/) -足够好的软件，从定义上讲是足够的.
@@ -187,7 +187,7 @@
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) -演示项目，用于在Scala-Akka中实现CQRS和事件源模式.
 - [DDD By Examples - Library](https://github.com/ddd-by-examples/library)  -由实际业务需求驱动的图书馆样本项目.  借助DDD，BDD，EventStorming，示例映射，CQRS等实现的模块化整体.
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) -DDD-CQRS示例v2.0项目，可帮助您使用Spring，JPA和测试开始高级域建模.
-- [DDD Workshop - Project Manager](https://github.com/mkopylec/project-manager) - "Do It Yourself" DDD workshop and a sample DDD application at the same time. Based on a project managing domain.
+- [DDD Workshop - Project Manager](https://github.com/mkopylec/project-manager)  -“自己动手” DDD研讨会和一个示例DDD应用程序同时进行.  基于项目管理域.
 - [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) -用于Java代码的事件源和CQRS实现的简化（内存中）示例（针对银行领域用例建模）.
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) -Java中的事件源和CQRS的实用应用程序，对于常见的相关问题（例如事件顺序和幂等）具有很好的参考.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) -示例事件源应用程序，带有命令查询职责隔离
@@ -208,7 +208,7 @@
 - [Aggregates.NET](https://github.com/volak/Aggregates.NET) -通过NServicebus和GetEventStore的.NET事件源域驱动的设计模型.
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) -轻量级基础架构，用于使用聚合进行事件外包.
 - [Akka.NET](http://getakka.net/) -Akka.NET是一个工具包和运行时，用于在.NET＆Mono上构建高度并发，分布式和容错事件驱动的应用程序.
-- [ABP](https://abp.io) -ASP.NET Boilerplate的后继者-基于ASP.NET Core的应用程序框架，用于创建具有以微服务为中心的模块化体系结构的NLayered，域驱动设计的Web应用程序
+- [ABP](https://abp.io) -ASP.NET Boilerplate的继任者-基于ASP.NET Core的应用程序框架，用于创建具有以微服务为中心的模块化体系结构的NLayered，域驱动设计的Web应用程序
 - [ASP.NET Boilerplate](http://aspnetboilerplate.com/) -基于ASP.NET MVC，Web API和ASP.NET Core的应用程序框架，以创建实现最佳实践的NLayered，域驱动设计的Web应用程序.
 - [ByValue](https://github.com/sm-g/ByValue) -该库有助于创建具有正确实现的相等行为的ValueObjects（即使具有集合属性）.
 - [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling)  -通过HTTP处理命令的中间件；  通常用于CQRS应用程序.
@@ -226,7 +226,7 @@
 - [NEventStore](https://github.com/NEventStore/NEventStore) -使用事件源作为存储机制时，用于抽象化不同存储实现的持久性库.
 - [NServiceBus](https://github.com/Particular/NServiceBus) -.NET的服务总线.
 - [Projac](https://github.com/yreynhout/Projac) -Projac是一组投影库，使您可以编写针对各种后备店的投影.
-- [shriek-fx](https://github.com/ElderJames/shriek-fx) -使用.NET Core 2.0开发的简单，优雅且有用的域驱动设计和CQRS框架.
+- [shriek-fx](https://github.com/ElderJames/shriek-fx) - An simple,elegant and useful Domain-Driven Design and CQRS framework developed using .NET Core 2.0.
 - [SqlStreamStore](https://github.com/damianh/SqlStreamStore) -面向基于SQL的实现的.NET流存储库.
 - [Streamstone](https://github.com/yevhen/Streamstone) -Azure表存储的事件存储.
 - [Stringly.Typed](https://github.com/mission202/Stringly.Typed) -使字符串与.NET类型之间的转换更加容易.
@@ -256,6 +256,7 @@
 
 ### PHP
 - [Broadway](https://github.com/broadway/broadway) -Broadway是一个（PHP）项目，为创建CQRS和事件源应用程序提供基础结构和测试帮助程序.
+- [Ecotone](http://ecotone.tech) -在PHP中启用消息驱动的体系结构，并提供遵循DDD和CQRS原理的构建块.
 
 ### Python
 - [Eventsoucing in Python](https://github.com/johnbywater/eventsourcing)  -成熟，稳定的Python库，用于事件源和DDD.  支持各种数据库，不同类型的域事件排序，应用程序级别加密，快照，乐观并发控制和流程事件.  可以独立于基础架构定义应用程序以及整个应用程序系统，并以不同的方式（单线程，多线程，计时，步进，多进程，参与者模型）和不同的基础架构运行.

@@ -26,7 +26,7 @@
 - [Wardley maps - Topographical intelligence in business](https://medium.com/wardleymaps) -知识共享书作者： [Simon Wardley](https://twitter.com/swardley).
   -PDF和.mobi电子书（Kindle） [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
-- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术的Wiki百科全书.
+- [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -Wiki百科全书，专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) -维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
 
@@ -91,7 +91,7 @@
 
 ## Research Papers
 
-- [Building Situational Awareness in the Age of Service Ecosystems](https://aisel.aisnet.org/ecis2019_rp/178/)  -上升，R；  汤普森，男；  W，Venters；  等.  2019年3月.
+- [Building Situational Awareness in the Age of Service Ecosystems](https://aisel.aisnet.org/ecis2019_rp/178/)  -Pujadas，R;  汤普森，男；  W，Venters；  等.  2019年3月.
 - [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper)  -Leading Edge论坛发布的一系列立场文件.  2018年6月13日至2019年1月28日.
 
 ## Templates
@@ -105,7 +105,7 @@
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的方法指南.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和11，展示了在LaTeX中绘制沃德利地图的过程.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -Wardley yYd的调色板.
 
 ### Doctrine Assessement
@@ -117,7 +117,7 @@
 ### Mapping
 
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2)  -开源映射工具.  提供托管版本 [here](https://atlas2.wardleymaps.com/).
-- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具.  提供托管版本 [here](https://onlinewardleymaps.com/).
+- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具.  有关更新 [@owardleymaps](https://twitter.com/owardleymaps)  在Twitter上.  提供托管版本 [here](https://onlinewardleymaps.com/).
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript)  -注意MapScript建立在Observable之上.  阅读他们 [Terms of Service](https://observablehq.com/terms-of-service) .  MapScript [feature requests](https://mapscript.canny.io/feature-requests) .  提供托管版本 [here](https://mapscript.org).
 
 ### Doctrine Assessement

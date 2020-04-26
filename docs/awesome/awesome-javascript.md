@@ -163,7 +163,7 @@
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) -基于Node.js的快速，简约的CMS.
 * [Nodizecms](https://github.com/nodize/nodizecms) -适用于CoffeeScript爱好者的CMS.
 * [Cody](https://github.com/jcoppieters/cody) -带有WSYWYG编辑器的CMS.
-* [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
+* [PencilBlue](https://github.com/pencilblue/pencilblue/) -CMS和博客平台.
 * [Strapi](https://github.com/strapi/strapi) -开源Node.js Headless CMS，可轻松构建可定制的API.
 * [Factor](https://github.com/fiction-com/factor) -Javascript CMS
 
@@ -184,6 +184,7 @@
 * [xtemplate](https://github.com/xtemplate/xtemplate) -用于节点和浏览器的可扩展模板引擎库
 * [marko](https://github.com/marko-js/marko) -用于Node.js和浏览器的快速，轻量，基于HTML的模板引擎，具有异步，流式传输，自定义标签和CommonJS模块作为已编译输出.
 * [swig](http://paularmstrong.github.io/swig/) -一个简单，功能强大且可扩展的Node.js和基于浏览器的JavaScript模板引擎.
+* [EHTML](https://github.com/Guseyn/EHTML) -HTML框架，该框架不允许您编写JavaScript代码.
 
 ## Articles and Posts
 
@@ -304,7 +305,7 @@
 
 * [underscore](https://github.com/jashkenas/underscore) -JavaScript的实用程序_ Belt.
 * [lodash](https://github.com/lodash/lodash) -提供一致性，自定义，性能和其他功能的实用程序库.
-* [Sugar](https://github.com/andrewplummer/Sugar) -用于处理本机对象的JavaScript库.
+* [Sugar](https://github.com/andrewplummer/Sugar) - A JavaScript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) -像下划线一样，但更懒惰.
 * [ramda](https://github.com/CrossEye/ramda) -适用于JavaScript程序员的实用功能库.
 * [mout](https://github.com/mout/mout) -模块化JavaScript实用工具.
@@ -324,7 +325,7 @@
 * [Cycle.js](https://cycle.js.org) -具有功能性和反应性的JavaScript库，用于编写更简洁的代码.
 
 ## Data Structure
-*数据结构库，用于构建更复杂的应用程序.*
+*Data structure libraries to build a more sophisticated application.*
 
 * [immutable-js](https://github.com/facebook/immutable-js) -不可变的数据集合，包括序列，范围，重复，图，OrderedMap，集合和稀疏向量.
 * [mori](https://github.com/swannodette/mori) -一个库，用于使用ClojureScript的持久数据结构并从原始JavaScript的舒适性中支持API.
@@ -469,7 +470,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的坚定REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) -支持OAuth / API密钥/基本等的通用API客户端.
 
@@ -508,7 +509,7 @@
 ## Code highlighting
 
 * [Highlight.js](https://github.com/isagalaev/highlight.js) -JavaScript语法荧光笔.
-* [PrismJS](https://github.com/PrismJS/prism) -轻巧，健壮，优雅的语法突出显示.
+* [PrismJS](https://github.com/PrismJS/prism) -轻巧，健壮，优雅的语法高亮显示.
 
 
 ## Loading Status
@@ -518,7 +519,7 @@
 * [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) -旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) -为页面上的每个对象创建和管理进度栏.
-* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且反应灵敏的进度条.
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且响应迅速的进度栏.
 * [pace](https://github.com/HubSpot/pace) -自动将进度条添加到您的网站.
 * [topbar](https://github.com/buunguyen/topbar) -微小而美观的站点范围进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)  -非常轻量级的进度条.  没有jQuery.
@@ -571,7 +572,7 @@
 * [messenger](https://github.com/HubSpot/messenger) -为您的应用发出怒吼式的警报和消息.
 * [noty](https://github.com/needim/noty) -jQuery通知插件.
 * [pnotify](https://github.com/sciactive/pnotify) -用于Bootstrap，jQuery UI和Web通知草稿的JavaScript通知.
-* [toastr](https://github.com/CodeSeven/toastr) - Simple JavaScript toast notifications.
+* [toastr](https://github.com/CodeSeven/toastr) -简单的JavaScript敬酒通知.
 * [humane-js](https://github.com/wavded/humane-js) -一个简单，现代的浏览器通知系统.
 * [smoke.js](https://github.com/hxgf/smoke.js) -与JavaScript框架无关的样式警报系统.
 * [notie](https://github.com/jaredreich/notie) -没有依赖性的简单通知和输入.
@@ -626,7 +627,7 @@
 ### Calendar
 
 * [pickadate.js](https://github.com/amsul/pickadate.js) -移动友好，响应迅速且轻巧的jQuery日期和时间输入选择器.
-* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) -由Stefan Petre（来自eyecon.ro）派生的@twitter引导程序日期选择器，通过@eternicode进行了改进.
+* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) -由Stefan Petre（来自eyecon.ro）派生的@twitter引导程序的日期选择器，通过@eternicode进行了改进.
 * [Pikaday](https://github.com/dbushell/Pikaday) -令人耳目一新的JavaScript Datepicker —轻巧，没有依赖关系，模块化CSS.
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) -完整的拖放事件日历（jQuery插件）.
 * [rome](https://github.com/bevacqua/rome)  -可自定义的日期（和时间）选择器.  无依赖关系的可选用户界面.
@@ -728,6 +729,7 @@
 * [fluidity](https://github.com/mrmrs/fluidity) -世界上最小的全响应式CSS框架.
 * [Ink](https://github.com/sapo/Ink) -SAPO使用的HTML5 / CSS3框架，用于快速，高效的网站设计和原型制作.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) -用于站点和SPA的快速开发的最小JavaScript框架和独立组件.
+* [EHTML](https://github.com/Guseyn/EHTML) -HTML框架，该框架不允许您编写JavaScript代码.
 
 ## Boilerplates
 
@@ -837,7 +839,7 @@
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) -从工作和个人经验中提取的JavaScript SDK设计指南
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) -面向实体的SDK，可与Spotify Web API一起使用.
-* [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) -用于付款和其他Square API的JavaScript客户端库.
+* [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
 
 
 ## Misc
@@ -911,4 +913,4 @@ http://www.listjs.com
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [chencheng](https://github.com/sorrycc) 已放弃此作品的所有版权以及相关或邻近的权利.

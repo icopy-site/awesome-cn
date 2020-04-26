@@ -44,6 +44,7 @@
 ## Privacy focused analytics
 
 * [Fathom](https://usefathom.com/) -Fathom Analytics提供简单，有用的网站统计信息，而无需跟踪或存储用户的个人数据
+* [GoatCounter](https://www.goatcounter.com)  -无需跟踪个人数据的网络分析；  可 [self-hosted](https://github.com/zgoat/goatcounter)，或使用SaaS.
 * [Simple Analytics](https://simpleanalytics.io/) -针对开发人员的简单，干净和友好的分析
 
 ## Heatmap analytics
@@ -115,7 +116,7 @@
 * [Buffer](https://bufferapp.com/) -社交媒体发布和分析平台.
 * [Topsy](http://topsy.com/) -带有搜索功能的社交分析工具.
 * [SocialBlade](http://socialblade.com/) -首映的YouTube统计信息跟踪.
-* [Hootsuite](https://hootsuite.com/) -社交媒体管理dashbaord.
+* [Hootsuite](https://hootsuite.com/) -社交媒体管理仪表板.
 * [Sproutsocial](http://sproutsocial.com/) -社交媒体管理和分析平台.
 
 ## Developer analytics

@@ -117,6 +117,7 @@
 
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
 - [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
+- [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
 
 ### Interoperability
 
@@ -284,7 +285,7 @@
 ## History
 
 下面的文章描述了Web组件规范在标准化方面的悠久历史.
-其中一些参考了较早的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
+其中一些参考了早期的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
 这些材料仅出于历史原因在这里，它们按年份分组并按时间顺序列出.
 
 ### 2018
