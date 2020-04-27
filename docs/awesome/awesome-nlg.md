@@ -12,8 +12,8 @@
 
 - [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) -公共交通信息领域对话系统中NLG的数据集.
 - [Box-score data](https://github.com/harvardnlp/boxscore-data/) -该数据集包含（人工编写的）NBA篮球比赛摘要，这些摘要与相应的方块得分和线路得分对齐.
-- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中在数据驱动的最新端到端（E2E）NLG方法上，这些方法可以从不对齐的数据中共同学习句子规划和表面实现.
-- [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库.
+- [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中于数据驱动的最新端到端（E2E）NLG方法，该方法可以从不对齐的数据中共同学习句子规划和表面实现.
+- [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英语传记的系统的必需语料库。
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) -来自weather.gov（美国公共天气预报）的计算机生成的天气预报以及相应的天气数据.
 - [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引用表达生成.
 - [WikiBio - wikipedia biography dataset](https://github.com/DavidGrangier/wikipedia-biography-dataset)  -该数据集从Wikipedia收集了728321份传记.  它旨在评估文本生成算法.  对于每篇文章，我们提供第一段和信息框（均标记化）.
@@ -45,6 +45,7 @@
 ## Libraries
 
 - [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) -.NET库，可将cron表达式转换为人类可读的描述.
+- [Number Words](https://github.com/tokenmill/numberwords) -将数字转换为近似的文本表达式：从“ 0.23”到“小于四分之一”.
 
 ## Narrative Generation
 
@@ -84,7 +85,7 @@
 
 - [Genl](https://github.com/kowey/GenI) -使用树邻接语法的表面实现器（自然语言生成系统的一部分）.
 - [JSrealB](https://github.com/rali-udem/JSrealB) -用于Web开发的JavaScript双语文本实现器.
-- [SimpleNLG](https://github.com/simplenlg/simplenlg) -用于自然语言生成的Java API.
+- [SimpleNLG](https://github.com/simplenlg/simplenlg) - Java API for Natural Language Generation.
 - [SimpleNLG DE](https://github.com/sebischair/SimpleNLG-DE) -德语版的SimpleNLG 4.
 - [SimpleNLG-EnFr](https://github.com/rali-udem/SimpleNLG-EnFr) -SimpleNLG-EnFr 1.1是SimpleNLG v4.2的英语/法语双语改编版.
 

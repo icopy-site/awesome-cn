@@ -7,7 +7,7 @@
 精选的深奥编程语言和资源清单.
 
 
-&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以被编程或作为玩笑，而不是用于实际用途.”  
+&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以被编程或作为玩笑，而不是实际使用.”  
 &gt; *** esolang.org ***
 
 
@@ -17,6 +17,7 @@
 
 * [78](https://github.com/oatmealine/78) -围绕数字7和8的单字符命令语言.
 * [Ajsone](https://www.quaxio.com/ajsone) -语言完全以JSON定义.
+* [ArnoldC](http://lhartikk.github.io/ArnoldC) -基于Arnold Schwarzenegger最好的单人阵容.
 * [Befunge](https://esolangs.org/wiki/Befunge) -二维语言.
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) -仅使用8个单字符命令的极简语言.
 * [Charcoal](https://github.com/somebody1234/Charcoal) -速写ASCII艺术的简洁语言.
@@ -47,6 +48,7 @@
 * [Shakespeare](http://shakespearelang.sourceforge.net) -代码看起来像是莎士比亚戏剧的语言.
 * [Suzy](https://github.com/gvx/suzy) -以Befunge为灵感的3D语言.
 * [Thue](https://github.com/jcolag/Thue) -基于半确定语法的不确定字符串重写的* Matrioshka *语言.
+* [TrumpScript](https://github.com/samshadwell/TrumpScript) -基于特朗普的常用词.
 * [Turtle](https://github.com/TypeMonkey/Turtle) -将长期存储用于内存使用.
 * [Unary](https://esolangs.org/wiki/Unary) -基于Brainfuck的语言，其中所有命令均为0.
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.
@@ -64,8 +66,13 @@
 * [πfs](https://github.com/philipl/pifs) -基于Pi的存储系统，通过在pi中搜索匹配序列来存储数据.
 * [Stacksort](https://gkoberger.github.io/stacksort) -通过在Stack Overflow中搜索答案并执行代码段对列表进行排序，直到被排序为止.
 
+## Tools
+
+* [asmbf](https://github.com/KrzysztofSzewczyk/asmbf) -唯一真正的Brainfuck汇编器工具包.
+
 ## Others
 
+* [CSS-only-chat](https://github.com/kkuchta/css-only-chat) -在前端完全不使用JS的真正可怕的异步Web聊天.
 * [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) -在最严格的企业标准下实施的简单FizzBu​​zz游戏.
 * [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) -基于随机动作和奖励/惩罚的操作系统概念.
 
@@ -88,6 +95,7 @@
 
 ## Community
 
+* [Anarchy Golf](http://golf.shinh.org) -非正式 [golfing](https://en.wikipedia.org/wiki/Code_golf) 问题服务器.
 * [Freenode IRC Channel](http://webchat.freenode.net/?channels=esoteric&uio=d4) - The #esoteric IRC channel on freenode.
 * [Reddit Esolangs](https://www.reddit.com/r/esolangs) -esolangs上的Reddit社区.
 

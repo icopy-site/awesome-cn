@@ -19,7 +19,7 @@ _awesome_ Common Lisp库的精选列表.
  这样.  标有a的库是我们喜欢并想要
  在Awesome-cl列表中进行推广.  他们证明是可靠的，他们可能会解决
 比社区标准更好的问题，但他们没有
- 普遍存在，或者不被认为是稳定的.  例如，我们更喜欢
+ 普遍存在，或不被视为稳定.  例如，我们更喜欢
 Cl-Who上的喷丝板.
 
  添加新的东西！  看到 [contributing](#contributing) 向其中添加内容的部分
@@ -28,7 +28,7 @@ list.
 它是根据GNU Free Documentation License发布的-其文本
  在LICENSE文件中提供.  该存储库也已镜像到
 [NotABug](https://notabug.org/CodyReichert/awesome-cl) -完全免费**（如随意）
-alternative to Github.  Preference is given to [free software][13] and
+ 替代Github.  优先考虑[免费软件] [13]和
 对物质资源并不有害的卖方.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
@@ -43,7 +43,7 @@ Audio
 * [Open Music](https://github.com/openmusic-project/OM6)  -可视化程序，计算机辅助合成环境.  [GPL3] [2].
 * [OM7](https://github.com/openmusic-project/om7)  -OpenMusic可视化编程和计算机辅助合成环境的新实现，包括图形界面，计算模式以及与外部软件库的连接方面的许多改进.  [GPL3] [2].
 * [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境.  从零开始设计软件合成器或声音插件很有用.  它也是一种合成工具，可以在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
-* [cl-collider](https://github.com/byulparan/cl-collider) - 一种
+* [cl-collider](https://github.com/byulparan/cl-collider) - 一个
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统.  包括用于Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
@@ -260,7 +260,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [Expat] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [Expat] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
-* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
+* [donuts](https://github.com/tkych/donuts)  -图形绘制DSL用于Common Lisp.  [Expat] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [Expat] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -352,6 +352,7 @@ YAML
   当前堆栈对于存储仍然有用
    某处.  [Artistic License 2.0] [51].
 * [generic-cl](https://github.com/alex-gutev/generic-cl/)  -到标准Common Lisp函数的通用函数接口（相等，比较，算术，对象，迭代器，序列等）.  [MIT] [200].  另请参阅更轻量 [generic-comparability](https://github.com/pnathan/generic-comparability) .  [LLGPL] [8].
+* [hu.dwim.walker](http://quickdocs.org/hu.dwim.walker/api)  -代码遍历和解析器（又名AST解析器和解析器）.  [BSD] [15].  也可以看看 [this blog post](http://40ants.com/lisp-project-of-the-day/2020/04/0044-hu.dwim.walker.html).
 
 可移植层
 ------------------
@@ -709,7 +710,7 @@ Websockets
 *  [usocket](https://github.com/usocket/usocket)  -便携式TCP和UDP套接字接口.  [Expat] [14].
 * [websocket-driver](https://github.com/fukamachi/websocket-driver)  -WebSocket服务器/客户端实现，后端不可知（Clack）.  [3子BSD] [15].
 
-看更多 [on cliki](http://www.cliki.net/site/search?query=websockets).
+查看更多 [on cliki](http://www.cliki.net/site/search?query=websockets).
 
 静态网站生成器
 ----------------------
@@ -784,7 +785,7 @@ Others
 * [lisp-matrix](https://github.com/blindglobe/lisp-matrix)  -矩阵包.  [FreeBSD] [39].
 * [3-matrices](https://shinmera.github.io/3d-matrices) -实现库
   通用矩阵计算，重点是2x2、3x3和4x4
-   图形中常用的矩阵.  它提供了一些数值
+  matrices as commonly used in graphics. It provides some numerical
    功能也可以，但这些不是重点.  该图书馆是
   大量优化，因此它不是由漂亮
    码.  [Artistic License 2.0] [51].
@@ -816,7 +817,7 @@ Others
 * [trivial-monitored-thread](https://gitlab.com/ediethelm/trivial-monitored-thread) -
   一个通用的Lisp库，提供了一种生成线程并被存在的方法
    通知他们中的任何一个崩溃和死亡.  [MIT] [200].
-* [cl-gearman](https://github.com/taksatou/cl-gearman) -图书馆 [Gearman](http://gearman.org/)  分布式工作系统.  [LLGPL] [8].
+* [cl-gearman](https://github.com/taksatou/cl-gearman) - a library for the [Gearman](http://gearman.org/)  分布式工作系统.  [LLGPL] [8].
 * [swank-crew](https://github.com/brown/swank-crew)  -使用Swank Client实现的分布式计算框架.  [BSD_3Clause] [15].
 * [cl-coroutine](https://github.com/takagi/cl-coroutine)  -协程库.  它在其实现中使用CL-CONT延续库.  [MIT] [200].
 
@@ -940,7 +941,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 ## Emacs ##
 
 *：星级： [Slime](https://github.com/slime/slime)  -Emacs的高级Lisp交互模式；  Emacs内部Common Lisp的成熟环境.  公共区域.
-*  [Sly](https://github.com/joaotavora/sly) - SLY is a fork of SLIME and contains multiple improvements upon it.
+*  [Sly](https://github.com/joaotavora/sly) -SLY是SLIME的分支，并在其上进行了多项改进.
 *  [Portacle](https://shinmera.github.io/portacle/) -便携式多平台通用Lisp环境：SBCL，Quicklisp，Emacs，Slime，Git.
 * [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/)  -用于Common Lisp开发环境的Docker容器.  随Slime一起装运SBCL，CCL，Roswell和Emacs25.
 
@@ -980,7 +981,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 
 * [cl-jupyter](https://github.com/fredokun/cl-jupyter) -适用于Jupyter笔记本的Common Lisp内核 [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
 * [common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter)  -用于Jupyter的Common Lisp内核以及用于构建Jupyter内核的库，该库基于Robert Dodier的Maxima-Jupyter，该库基于Frederic Peschanski的cl-jupyter.  [MIT] [200].
-* [Darkmatter](https://github.com/tamamu/darkmatter) - 一种
+* [Darkmatter](https://github.com/tamamu/darkmatter) - 一个
    笔记本样式的通用Lisp环境.  [MIT] [200].
 
 ## REPLs ##
@@ -1126,7 +1127,7 @@ REPL的常见任务（打印文档，打印外部符号，
   （替换 [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
    因此，在许多实施方式中都可以使用.  [MIT] [200].
 * [osicat](https://common-lisp.net/project/osicat/) -类似于POSIX的系统上的轻量级操作系统界面（目录迭代和删除，环境变量，文件权限等）[Expat] [14].
-* [pathname-utils](https://github.com/Shinmera/pathname-utils) - 一种
+* [pathname-utils](https://github.com/Shinmera/pathname-utils) - 一个
   实用程序集合，以帮助使用路径名
    操作.  [Artistic License 2.0] [51].
 * [ppath](https://github.com/fourier/ppath) -普通Lisp
@@ -1191,7 +1192,7 @@ Plotting
 * [vgplot](https://github.com/volkers/vgplot) -的接口
   gnuplot绘图实用程序，旨在类似于
    八度或matlab的绘图命令.  [GPL3] [2].
-* [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一种
+* [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一个
    lispy，无结构的Gnuplot库.  与它
   [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLGPL] [8]
 
@@ -1245,12 +1246,12 @@ an issue to add a new framework, library or software to the list.
 
 我们（尝试）遵守的规则如下：
 
--默认情况下，将库添加到其部分的末尾.
+- by default, add a library to the end of its section.
 -绝对事实库，例如BordeauxThreads或Quicklisp，
   应该用：star：（在markdown中用`：star：`）表示.
 -范围非常相似的两个库应并排放置，或放在一个
   自己的部分.
-- do some curation based on our experience and the state of the
+-根据我们的经验和状态进行一些策划
    图书馆的文件.  我们*不*旨在列出所有现有
   CL库（请参阅Quickdocs或Cliki）或列出每个库
   “热门”库（请参阅Quicklisp统计信息）.

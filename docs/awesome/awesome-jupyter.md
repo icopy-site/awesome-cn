@@ -36,6 +36,7 @@
 ## Collaboration/Education
 
 - [callgraph](https://github.com/osteele/callgraph) -显示功能调用图的魔术.
+- [IllumiDesk](https://github.com/IllumiDesk/illumidesk) -基于Docker的JupyterHub + LTI + nbgrader发行版，用于教育.
 - [IPythonBlocks](https://github.com/jiffyclub/ipythonblocks) -在Jupyter中使用彩色网格练习Python.
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) -Jupyter的Google驱动器.
 - [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) -在Open edX XBlock中获取并显示部分或整个Jupyter Notebook.

@@ -124,7 +124,7 @@
 - [Moonview](https://github.com/teesloane/moonview) -环保记事本.
 - [DBGlass](https://github.com/web-pal/DBGlass) -PostgreSQL客户端.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) -物理网络信标广播.
-- [Rambox](https://github.com/saenzramiro/rambox) -聊天和电子邮件应用程序，结合了多种服务，例如Discord，环聊，Gmail和Outlook.
+- [Rambox](https://github.com/saenzramiro/rambox) -聊天和电子邮件应用程序，结合了Discord，环聊，Gmail和Outlook等多种服务.
 - [Extraterm](https://github.com/sedwards2009/extraterm) - 终奌站.
 - [Materialette](https://github.com/mike-schultz/materialette) -菜单栏中的材料设计调色板.
 - [Dext](https://github.com/vutran/dext) -发射器.
@@ -168,6 +168,7 @@
 - [massCode](https://github.com/antonreshetov/massCode) -开发人员的代码段管理器.
 - [Swifty](https://github.com/swiftyapp/swifty) -密码管理器.
 - [MQTTX](https://github.com/emqx/MQTTX) -MQTT的客户端，这是一种轻量级的消息传递协议.
+- [LightProxy](https://github.com/alibaba/lightproxy) -Web调试代理.
 
 ### Closed Source
 

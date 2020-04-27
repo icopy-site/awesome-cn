@@ -87,7 +87,7 @@
 * [PubChemPy](http://pubchempy.readthedocs.io) -PubChem PUG REST API的Python包装器.
 * [ChemSpiPy](http://chemspipy.readthedocs.org) -ChemSpider API的Python包装器.
 * [CIRpy](http://cirpy.readthedocs.org/) -NCI化学​​标识符解析器（CIR）的Python包装器.
-* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
+* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) 上 [Tornado](http://www.tornadoweb.org/en/stable/).
 
 <a id="lib-db"></a>
 ### Databases
@@ -102,6 +102,11 @@
 * [MDTraj](https://github.com/mdtraj/mdtraj) -分子动力学轨迹分析.
 * [cclib](https://github.com/cclib/cclib) -用于计算化学日志文件的解析器和算法.
 
+<a id="lib-others"></a>
+### Others
+
+* [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) -以Python为中心的Cookiecutter，用于分子计算化学软件包，作者： [MolSSL](https://molssi.org/)
+
 ## Journals
 
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
@@ -112,6 +117,7 @@
 ### Courses
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) -印第安那大学的“化学信息学：在化学数据世界中导航”.
+* [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) -使用开源软件包和数据进行计算机辅助药物设计（CADD）的教学平台.
 * [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)％3A_Chem_4399％2F％2F5399）-罗伯特·贝尔福德（Robert Belford）的阿肯色大学小石城分校化学信息学课程（2017年春季）
 * [BigChem](http://bigchem.eu/alllectures) -的所有讲座 [BigChem](http://bigchem.eu/) （Horizo​​n 2020 MSC ITN EID项目提供了有关大型化学数据分析的创新教育.）
@@ -123,7 +129,7 @@
 * [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/README.html) -开源分子建模软件的可更新目录.
 * [PubChem Blog](https://pubchemblog.ncbi.nlm.nih.gov/) -有关的新闻，更新和教程 [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 * [The ChEMBL-og blog](http://chembl.blogspot.tw/) -计算化学生物学小组的故事和新闻 [EMBL-EBI](https://www.ebi.ac.uk/).
-* [ChEMBL blog](http://chembl.github.io/) -GitHub上的ChEMBL.
+* [ChEMBL blog](http://chembl.github.io/) - ChEMBL on GitHub.
 * [SteinBlog](http://www.steinbeck-molecular.de/steinblog/) -的博客 [Christoph Steinbeck](http://www.steinbeck-molecular.de/steinblog/index.php/about/)是EMBL-EBI的化学信息学和新陈代谢负责人.
 * [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) -博客，详细介绍化学信息学的实际应用.
 * [So much to do, so little time - Trying to squeeze sense out of chemical data](http://blog.rguha.net/) -的Bolg [Rajarshi Guha](http://blog.rguha.net/?page_id=8)是美国国立卫生研究院转化科学促进中心的研究科学家.
@@ -135,7 +141,7 @@
 * [Macs in Chemistry](http://www.macinchem.org/) -为使用Apple Macintosh计算机的化学家提供资源.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) -的博客 [Andreas Bender](http://www.andreasbender.de/)，是剑桥大学分子信息学的读者.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) -化学信息学库的一些示例.
-* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是“协作药物发现”的研究科学家.
+* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是协作药物发现公司（Collaborative Drug Discovery）的研究科学家.
 
 ### Books
 
@@ -148,6 +154,7 @@
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) -深度学习生物学库中的化学信息学和药物发现部分.
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个清单着重于与化学有关的Python内容.
+* [MolSSI Molecular Software Database](https://molssi.org/software-search/)
 
 ## License
 

@@ -4,7 +4,7 @@
 
 &gt;精选列表，可以为您提供出色的程序员和软件项目！
 
-帮助个人程序员或开放源代码项目通过Github，赞助其Patreon帐户或使用其他形式的赞助来资助您喜欢的软件的开发. 
+帮助个人程序员或开源项目通过Github赞助他们最喜欢的软件的开发，赞助他们的Patreon帐户或使用其他形式的赞助. 
 
 回馈开源社区的切实方法！
 
@@ -41,6 +41,7 @@ _使用开源许可证发布的项目.
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) -D＆D桌面角色扮演游戏战斗追踪器.
 - [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) -YouTube的替代Web前端.
 - [iTerm2](https://www.patreon.com/gnachman) -macOS终端更换.
+- [JHipster](https://opencollective.com/generator-jhipster) -开源应用程序平台，可在几秒钟内创建Spring Boot + Angular / React / Vue项目.
 - [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) -Kismet无线工具.
 - [Laigter](https://www.patreon.com/azagaya) -自动的法线/镜面/遮挡/视差图生成器，用于2D游戏精灵.
 - [Latte Dock](https://liberapay.com/latte-dock) -等离子台式机的替换底座.
@@ -48,7 +49,7 @@ _使用开源许可证发布的项目.
 - [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) -适合所有人的廉价，轻松，自托管的云.
 - [Machine Labs](https://www.patreon.com/machinelabs) -机器学习平台.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) -联合社交网络服务器.  
-- [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) -用于安全，分散通信的开放网络.
+- [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
 - [MissKey](https://www.patreon.com/syuilo) -联合微博平台.
 - [MuseScore](https://www.patreon.com/musescore) -音乐符号软件.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) -带有NativeScript和Vue的本地移动应用程序.
@@ -90,7 +91,7 @@ _使用开源许可证发布的项目.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) -VLC视频播放器的制造商.
 - [Vim-Go](https://www.patreon.com/fatih) -Go插件为VIM.
 - [Webpack](https://opencollective.com/webpack) -JavaScript模块捆绑器.
-- [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
+- [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) -使用Node.js构建的Wiki平台.
 - [Xfce](https://salt.bountysource.com/teams/xfce) -用于类似UNIX的操作系统的桌面环境.
 - [Zig](https://www.patreon.com/andrewrk) -优先考虑鲁棒性，最优性和清晰度的系统编程语言.
 
@@ -200,12 +201,12 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Nick Sweeting](https://github.com/sponsors/pirate) -ArchiveBox和OSS贡献，还有文章和文档.
 - [Nicolas Hafner](https://github.com/users/Shinmera/sponsorship) -各种通用Lisp库.
 - [Nils Maier](https://www.patreon.com/nmaier)  -全部下载！  Firefox和Chrome扩展程序.
-- [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) -GNU Emacs插件，Ivy / Swiper / Counsel，Hydra，Avy，Lissy等的维护者.
+- [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) -GNU Emacs插件，Ivy / Swiper / Counsel，Hydra，Avy，Lispy等的维护者.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) -Debian打包器.
 - [Pablo Dobarro](https://www.patreon.com/pablodp606) -雕刻机的改进.
 - [Patrick Wardle](https://www.patreon.com/objective_see) -Objective-See的所有者，各种macOS安全工具和文章.
 - [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) -Tuist和XcodeProj库，文章.
-- [Pedro Carrasco](https://github.com/sponsors/pedrommcarrasco) -各种iOS库和项目.
+- [Pedro Carrasco](https://github.com/sponsors/pedrommcarrasco) - Various iOS libraries and projects.
 - [Philip Guo](https://www.patreon.com/pgbovine) -Python Tutor和pgbovine.net（文章/播客/ vlogs）.
 - [Pierre Krieger](https://www.patreon.com/tomaka) -各种Rust库.
 - [Raph Levien](https://www.patreon.com/raphlinus) -Xi编辑器和其他Rust项目.
@@ -221,7 +222,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [skypjack](https://www.patreon.com/skypjack) -C ++库，例如uvw和EnTT.
 - [Stéphane Peter](https://github.com/sponsors/megastep) -AudioKit贡献者，Makeself和其他库和项目.
 - [Steve Purcell](https://www.patreon.com/sanityinc) -MELPA Lisp软件包存档和其他软件工具.
-- [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - Various iOS/macOS software. 
+- [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) -各种iOS / macOS软件. 
 - [Stjepan Glavina](https://www.patreon.com/stjepang) -防锈横梁.
 - [Tanu Kaskinen](https://www.patreon.com/tanuk), [#2](https://liberapay.com/tanuk) -PulseAudio声音服务器贡献者. 
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) -在Inkscape矢量图形编辑器上工作.

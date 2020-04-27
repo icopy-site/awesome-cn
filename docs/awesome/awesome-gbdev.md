@@ -64,14 +64,14 @@
 >
 > #### Game Boy Color and Super Game Boy
 > 
-&gt;此列表集中于原始（1989）Game Boy（DMG），* Game Boy Color *（GBC）和* Super Game Boy *（SGB）是非常相似的系统，但有一些重要区别，例如：
+&gt;此列表集中于原始的（1989）Game Boy（DMG），* Game Boy Color *（GBC）和* Super Game Boy *（SGB）是非常相似的系统，但有一些重要区别，例如：
 >
 &gt;-不同的硬件规格
 &gt;-特定的硬件和软件功能
 &gt;-特定寄存器
 &gt;-特定的错误，怪癖和可利用的行为
 >
-&gt;如果您打算为SGB或GBC开发软件，或者想知道其在其他系统上的运行方式，则可以利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
+&gt;如果您打算为SGB或GBC开发软件，或者想了解其在其他系统上的运行方式，则可以利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
 
 
 ## Community
@@ -331,7 +331,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 ### C
 
-- [8-Bit Wonderland](http://belial.blarzwurst.de/gbpaper/paper.pdf) -关于Game Boy的工作原理以及如何开始为其开发有效代码的书面入门文件.
+- [8-Bit Wonderland](https://web.archive.org/web/20191106010059/http://belial.blarzwurst.de/gbpaper/paper.pdf) -关于Game Boy的工作原理以及如何开始为其开发有效代码的书面入门文件.
 - [Grooves Game Boy Programming](https://github.com/gbdk-salvage/grooves-game-boy-programming) -有关在Game Boy游戏中实现各种游戏机制的完整课程.
 - [How to Write a Simple Side Scrolling Game](http://pastebin.com/F3tHLj68) -旧的（但仍然有用）教程.
 - [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
@@ -370,7 +370,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [exeman](https://github.com/exezin/exeman/)
 - [Aevilia](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides](https://github.com/Kartones/gameboy) -一个简单的类似Game Boy Powerpoint的幻灯片查看器.
-- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全基于GBC支持的PokémonRed重制.
+- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全通过GBC支持对PokémonRed进行了重新制作.
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) -Fourway Breakout克隆.
 - [Galaxia](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
@@ -453,7 +453,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Gatesboy](https://web.archive.org/web/*/http://www.gatesboy.com/) -非游戏用途的应用程序开发.
 - [Ostrich](https://github.com/PumpMagic/ostrich) -用Swift编写的Game Boy音响系统玩家.
 - [mGB](https://github.com/trash80/mGB) -一个Game Boy盒带程序，使Game Boy可以充当受MIDI支持的完整声音模块.
-- [GBVisualizer](https://github.com/LIJI32/GBVisualizer) -演示使用两个未记录的Game Boy Color寄存器，分别称为PCM12（FF76）和PCM34（FF77），可用于读取4个APU通道的当前PCM幅度.
+- [GBVisualizer](https://github.com/LIJI32/GBVisualizer) -演示使用两个未公开的Game Boy Color寄存器，分别称为PCM12（FF76）和PCM34（FF77），可用于读取4个APU通道的当前PCM幅度.
 - [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) -基于Arduino的Game Boy墨盒读写器.
 - [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) -Brainf * ck口译员.
 - [gbfk](https://github.com/elseyf/gbfk) -Brainf * ck解释器，带有输入.

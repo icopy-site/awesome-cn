@@ -61,6 +61,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [Coq Package Index](https://coq.inria.fr/packages.html) -基于OPAM的Coq软件包集合.
 - [Docker-Coq](https://github.com/coq-community/docker-coq) -适用于许多版本的Coq的Docker映像.
 - [Docker-MathComp](https://github.com/math-comp/docker-mathcomp) -用于Coq版本和Mathematical Components库的许多组合的Docker映像.
+- [Docker-Coq-action](https://github.com/marketplace/actions/docker-coq-action) -可与docker-coq或docker-mathcomp一起使用的GitHub容器操作.
 - [Dune](https://github.com/ocaml/dune) -Coq和OCaml（以前的jbuilder）可组合且自以为是的构建系统.
 - [Nix](https://nixos.org/nix/) -Linux和其他Unix系统的软件包管理器，支持原子升级和回滚.
 - [Nix Coq packages](https://nixos.org/nixos/packages.html?channel=nixpkgs-unstable&query=coqPackages) -收集Cox相关的Nix软件包.
@@ -74,7 +75,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [Equations](https://github.com/mattam82/Coq-Equations) -Coq的功能定义包.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) -达成有关浮点算术和舍入误差的目标的策略.
 - [Ltac2](https://coq.inria.fr/refman/proof-engine/ltac2.html) -实验型战术语言，类似于Coq的经典Ltac语言.
-- [MetaCoq](https://github.com/MetaCoq/metacoq) -在Coq中将Coq正式化，并提供用于处理Coq术语和开发经过认证的插件的工具.
+- [MetaCoq](https://github.com/MetaCoq/metacoq) -在Coq中将Coq正式化，并提供用于处理Coq术语和开发认证插件的工具.
 - [Mtac2](https://github.com/Mtac2/Mtac2) -插件添加了用于后向推理的类型化策略.
 - [Paramcoq](https://github.com/coq-community/paramcoq) -插件以生成Coq术语的参数翻译.
 - [QuickChick](https://github.com/QuickChick/QuickChick) -用于基于属性的随机测试的插件.
@@ -153,7 +154,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/) -使用Coq编写的有关实用工程的教科书，教授高级实用技巧和非常具体的证明样式.
 - [Program Logics for Certified Compilers](https://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/program-logics-certified-compilers) -本书解释了如何使用分离逻辑构造程序逻辑，并辅以Coq中的正式模型，该模型适用于Clight编程语言和其他示例.
 - [Formal Reasoning About Programs](http://adam.chlipala.net/frap/) - Book that simultaneously provides a general introduction to formal logical reasoning about the correctness of programs and to using Coq for this purpose.
-- [Programs and Proofs](https://ilyasergey.net/pnp/) -本书简要介绍了Coq中的交互式证明，并在实践中作了介绍，该书强调了通过SSReflect证明语言中的一小部分原语，对可判定命题进行归纳推理的计算性质.
+- [Programs and Proofs](https://ilyasergey.net/pnp/) -本书简要介绍了Coq中的交互式证明，并在实践中作了介绍，该书强调了通过SSReflect证明语言中的少量原语，对可判定命题进行归纳推理的计算性质.
 - [Computer Arithmetic and Formal Proofs](http://iste.co.uk/book.php?id=1238) -本书介绍了如何使用Flocq库在Coq中正式指定和验证浮点算法.
 - [The Mathematical Components book](https://math-comp.github.io/mcb/) -面向数学倾向用户的书籍，侧重于数学组件库和SSReflect证明语言.
 

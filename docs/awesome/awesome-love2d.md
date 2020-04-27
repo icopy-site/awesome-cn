@@ -55,6 +55,7 @@
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) -内联控制台式调试器实用程序
 * [lurker](https://github.com/rxi/lurker) -在正在运行的游戏中自动交换已更改的Lua文件
 * [LÖVE API](https://github.com/love2d-community/love-api) -Lua表中LÖVE的完整API文档
+* [LÖVE Build](https://github.com/nhartland/love-build) -用于自动跨平台构建的GitHub Action
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) -使用TypeScript编写LÖVE游戏
 * [MakeLove](https://github.com/instilledbee/MakeLove) -通过实时监视更改自动为项目创建构建（仅限Windows）
 * [boon](https://github.com/camchenry/boon) -LÖVE的跨平台构建工具
@@ -97,13 +98,14 @@
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) -LuaLÖVE引擎的状态切换器类
 * [lue](https://github.com/Ulydev/lue) -lue是一个LÖVE库，可让您在游戏中显示色相色彩效果
 * [lume](https://github.com/rxi/lume/) -Lua的功能集合，用于游戏开发
-* [reflowprint](https://github.com/josefnpat/reflowprint) - A library designed for alignment of text that is shown one character at a time
+* [reflowprint](https://github.com/josefnpat/reflowprint) -专为对齐文本而设计的库，一次显示一个字符
 * [roomy](https://github.com/tesselode/roomy) -LÖVE的屏幕管理库
 * [rotLove](https://github.com/paulofmandown/rotLove)  -《恋爱中的Roguelike工具包》.  rot.js的Love2D / lua端口
 * [ScreenManager](https://github.com/rm-code/screenmanager) -LÖVE框架的屏幕/状态管理
 * [shack](https://github.com/Ulydev/shack) -shack是一个LÖVE库，可让您轻松添加屏幕效果，例如摇动和旋转
 * [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) -平铺的地图加载器和渲染器
 * [Vivid](https://github.com/WetDesertRock/vivid) -颜色数学，操作和转换库
+* [Yonder](https://github.com/thenerdie/Yonder) -LOVE2D易于使用的游戏状态管理库
 
 ## Input
 *输入和绑定库*
@@ -237,7 +239,7 @@
 
 * [CatUI](https://github.com/wilhantian/catui) -LÖVE的非常轻量级的GUI库
 * [GOOi](https://github.com/tavuntu/gooi) -面向Android的GUI库
-* [Gspöt](https://notabug.org/pgimeno/Gspot) -LÖVE的有状态GUI库
+* [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE
 * [Hanker](https://gitlab.com/Alloyed/hanker)  -极简主义即时模式式UI元素；  游戏手柄友好
 * [LoveFrames Fork](https://github.com/linux-man/LoveFrames) -11.2 GUI库的前叉
 * [Love Imgui](https://github.com/slages/love-imgui) -LÖVE游戏引擎的imgui模块
@@ -261,7 +263,7 @@
 * [hex2color](https://github.com/S-Walrus/hex2color/) -使用十六进制颜色值的单个功能
 * [i18n](https://github.com/excessive/i18n) -国际化库旨在帮助您本地化游戏
 * [Ini Parser](https://github.com/FivosM/ini_parser) -通用ini配置解析器
-* [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output
+* [log.lua](https://github.com/rxi/log.lua) -用于可配置日志输出的库
 * [love-loader](https://github.com/kikito/love-loader) -线程资源加载
 * [love2d-assets-loader](https://github.com/Yonaba/love2d-assets-loader) -资产装载机
 * [love-pe](https://github.com/RamiLego4Game/love-pe) -用LÖVE制造的用于更改LÖVE图标本身的工具
@@ -289,7 +291,7 @@
 ## IDEs
 *集成开发环境和文本编辑器插件*
 
-* [Atom](https://atom.io/) -21世纪可入侵的文字编辑器
+* [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 	* [Love-Atom](https://atom.io/packages/love-atom) -Atom中LÖVE框架的智能自动补全功能.
 	* [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) -在Atom中添加GLSL自动补全功能
 	* [language-glsl](https://atom.io/packages/language-glsl) -Atom中的OpenGL阴影语言支持

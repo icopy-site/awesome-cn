@@ -62,7 +62,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
  **处理**.  学生可以单独或按组，按顺序或按顺序学习课程.
 -要分组，请使用 [cohorts repository](https://github.com/ossu/cohorts) 查找或创建适合您的同类群组.
 -我们建议您在Core CS中进行所有课程，仅当您确定以前已经学习过这些材料时才跳过课程.
--为简单起见，我们建议您按照从上到下的顺序学习课程（尤其是Core CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites.
+-为简单起见，我们建议您按照从上到下的顺序学习课程（尤其是Core CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) 根据他们的先决条件.
  -高级CS课程为选修课.  选择一个您想成为专家的科目（例如高级编程），并选择该标题下的所有课程.  您也可以创建自己的自定义主题，但是我们建议您从社区中获得关于所选主题的验证.
 
 *不要无视您在每门课程开始时所签署的行为准则*！
@@ -74,13 +74,13 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 ## Community
 
  -我们有一个聊天室！  这应该是您与其他OSSU学生交谈的第一站.  您为什么现在不自我介绍？ [Join the chat in Gitter](https://gitter.im/open-source-society/computer-science) [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
-- You can also interact through [GitHub issues](https://github.com/ossu/computer-science/issues) .  如果课程有问题，或者需要对课程进行更改，那么这里就是开始对话的地方.  阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
+-您也可以通过 [GitHub issues](https://github.com/ossu/computer-science/issues) .  如果课程有问题，或者需要对课程进行更改，那么这里就是开始对话的地方.  阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
 -将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 轮廓！
  -注意：在搜索OSSU时，可能会找到一个未维护且已弃用的Firebase应用程序.  您可以放心地忽略它.  阅读更多 [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
 ## Curriculum
 
-**Curriculum version**: `8.0.0` (see [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
+**课程版本**：`8.0.0`（请参见 [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
 
 
 ---
@@ -125,7 +125,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ）|  9周  每周15小时|  高中代数
+[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ）|  9周  每周15小时| [high school algebra](https://www.khanacademy.org/math/algebra-home)
 
 ## Core CS
 
@@ -168,25 +168,25 @@ Lisp家庭语言（通过球拍）
 #### Calculus
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)  |  13周|  每周6-10个小时|  前微积分
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)  |  13周|  每周6-10个小时| [pre-calculus](https://www.futurelearn.com/courses/precalculus)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)  |  13周|  每周5-10个小时|  微积分1A
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)  |  13周|  每周5-10个小时|  微积分1B
 
 #### Linear Algebra
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  |  -|  -|  前微积分
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [pre-calculus](https://www.futurelearn.com/courses/precalculus)
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/) ）|  15周|  每周8小时|  线性代数的本质
 
 #### Logic
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Introduction to Logic](https://www.coursera.org/learn/logic-introduction)  |  10周|  每周4-8个小时|  集合论
+[Introduction to Logic](https://www.coursera.org/learn/logic-introduction)  |  10周|  每周4-8个小时| [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N)
 
 #### Probability
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)  |  18周|  每周12小时|  多变量微积分
+[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)  |  18周|  每周12小时| [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
 ### Core Math
 除了数学选修课外，学生还必须完成以下有关离散数学的课程.
@@ -302,7 +302,7 @@ Lisp家庭语言（通过球拍）
 
 ## Advanced CS
 
-在完成了核心CS的“每门必修课程”之后，学生应根据兴趣从Advanced CS中选择课程的一部分.
+在完成了核心CS中的“每门必修课程”之后，学生应根据兴趣从Advanced CS中选择课程的子集.
 并非每个子类别的课程都需要学习.
 但是学生应该选择与他们打算进入的领域相关的“每门”课程.
 
@@ -326,7 +326,7 @@ GPU编程
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) ([HW](https://colab.research.google.com/github/depctg/udacity-cs344-colab) ）|  12周|  -|  C，算法
-[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx) ）|  9周  每周6-8个小时|  没有
+[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx))| 9 weeks | 6-8 hours/week | none
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8周  每周6个小时|  Python，面向对象的编程
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)  |  4周  每周6个小时|  Python，编程经验
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness)  |  7周  每周6个小时|  线性代数
@@ -352,11 +352,11 @@ CMOS技术
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) <sup>1</sup> |  7周  每周8-10个小时|  微积分，基本力学
+[Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) <sup>1</sup> |  7周  每周8-10个小时| [calculus](https://www.khanacademy.org/math/calculus-1), [basic mechanics](https://www.khanacademy.org/science/physics)
 [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0)  |  7周  每周8-10个小时|  电磁学，第1部分
 [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)  |  10周|  每周6个小时|  电，磁
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)  |  10周|  每周6个小时|  计算结构1
-[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)  |  10周|  每周6个小时|  计算结构2
+[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | 10 weeks | 6 hours/week | Computation Structures 2
 
 ** <sup>1</sup>注**：
 这些课程假定您具备基本物理知识.
@@ -395,11 +395,11 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得专业化课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics)  |  26周|  每周2-5个小时|  大学一年级物理，线性代数，微积分，线性常微分方程
+[Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics)  |  26周|  每周2-5个小时|  大学一年级物理，线性代数，微积分， [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
 [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining)  |  30周|  每周2-5个小时|  机器学习
 [Big Data (Specialization)](https://www.coursera.org/specializations/big-data)  |  30周|  每周3-5个小时|  没有
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things)  |  30周|  每周1-5小时|  强大的编程
@@ -453,7 +453,7 @@ or
 
 ### Which programming languages should I use?
 
-我的朋友，这是自由的最好部分！
+My friend, here is the best part of liberty!
 您可以使用要完成最终项目的任何语言.
 
 重要的是要“内化”核心概念，并使其能够与所需的任何工具（编程语言）一起使用.

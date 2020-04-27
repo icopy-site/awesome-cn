@@ -263,8 +263,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [runic-lang](https://github.com/runic-lang) -设计玩具语言
 
 ## Logging and monitoring
- * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
- * [crometheus](https://gitlab.com/ezrast/crometheus) - 一种 [Prometheus](https://prometheus.io/) 客户库
+ * [crafana](https://github.com/spoved/crafana.cr) - 一个 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
+ * [crometheus](https://gitlab.com/ezrast/crometheus) - 一个 [Prometheus](https://prometheus.io/) 客户库
  * [crylog](https://github.com/blacksmoke16/crylog) -基于Monolog的灵活日志记录框架
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) -用于的结构化记录器 [Fluentd](https://www.fluentd.org/)
  * [Log](https://crystal-lang.org/api/Log.html) -日志记录实用程序（Crystal stdlib）
@@ -294,9 +294,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) -基于可扩展注释的序列化/反序列化库
  * [CrSignals](https://github.com/firejox/CrSignals) -信号/插槽通知库
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) -二进制解析器
- * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github担任
+ * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github出演
  * [crz](https://github.com/dhruvrajvanshi/crz) -功能编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) -表情符号库
+ * [gphoto2-web.cr](https://github.com/Sija/gphoto2-web.cr) -libgphoto2的Web API
  * [hoop](https://github.com/0x73/hoop) -构建本机OSX应用
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) -国际化碎片
  * [immutable](https://github.com/lucaong/immutable) -实现线程安全的，持久的，不可变的集合
@@ -436,7 +437,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -Bugsnag异常通知程序和sidekiq中间件
- * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -客户端API领事
+ * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -客户端API控制台
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) -包装 [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) -包装 [Github](https://github.com/) API
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) -星球大战API（SWAPI）包装器
