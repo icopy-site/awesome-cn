@@ -142,6 +142,7 @@
 - [trunx](https://github.com/fibo/trunx) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
 - [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
 - [tails-ui](https://github.com/knipferrc/tails-ui) -基于tailwindcss的干净UI
+- [zeit-ui/react](https://github.com/zeit-ui/react) -现代简约的React UI库
 
 ##### React Awesome Components
 
@@ -221,7 +222,7 @@
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
 - [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications](https://github.com/Autodesk/clearx)
 - [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态预呈现
-- [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
+- [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [refract](https://github.com/fanduel-oss/refract) -利用反应式编程的力量为您的组件增压
 - [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 - [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
@@ -230,7 +231,7 @@
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
 - [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
 - [react-esi](https://github.com/dunglas/react-esi) -反应边缘侧包括
-- [hookstate](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks
+- [hookstate](https://github.com/avkonst/hookstate) -基于钩子的React的现代，非常快速和可扩展的状态管理
 - [universal-model-react](https://github.com/universal-model/universal-model-react) -React的统一状态管理解决方案
 
 ##### React Integration

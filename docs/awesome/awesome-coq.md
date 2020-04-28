@@ -55,7 +55,7 @@ The [Coq proof assistant](https://coq.inria.fr) 提供了一种正式的语言�
 - [Relation Algebra](https://github.com/damien-pous/relation-algebra) -以异构二进制关系作为模型的代数的模块化形式化.
 - [TLC](http://www.chargueraud.org/softs/tlc/) -Coq标准库的非建设性替代方案.
 
-### Package Management
+### Package and Build Management
 
 - [coq_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) -由Coq分发并基于生成Makefile的构建工具.
 - [Coq Package Index](https://coq.inria.fr/packages.html) -基于OPAM的Coq软件包集合.

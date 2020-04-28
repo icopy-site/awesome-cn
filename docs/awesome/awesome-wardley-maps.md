@@ -88,6 +88,7 @@
 - [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) -2015年10月17日.
 - [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government)  -第2部分Mark Thompson概述了数字化愿景，以使政府成为一个更具凝聚力的集成组织.  2015年10月9日.
 - [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight)  -第1部分Mark Thompson概述了数字愿景，以使政府成为一个更具凝聚力的集成组织.  2015年10月9日.
+- [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html)  -Simon Wardley讨论了他在映射中使用的其他一些工具.  2015年3月6日.
 
 ## Research Papers
 

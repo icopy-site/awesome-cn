@@ -80,6 +80,7 @@ Material-UI设计项目系列.
 
 使用Material-UI设计构建的入门项目和样板列表.
 
+- [Create React App example (mui-org/material-ui)](https://github.com/mui-org/material-ui/tree/master/examples/create-react-app) -从官方Material-UI仓库创建React App示例.
 - [create-react-app-material-ui](https://github.com/katopz/create-react-app-material-ui) -使用Material-UI表单提交示例轻松创建React App.
 - [react-materialui-boilerplate](https://github.com/syedabuthahirm/react-materialui-boilerplate) -用于React和Material-UI的入门工具包.
 - [gatsby-starter-material-ui](https://github.com/nareshbhatia/gatsby-starter-material-ui) -使用Material-UI的Gatsby入门模板.

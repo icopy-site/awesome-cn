@@ -32,6 +32,11 @@
 
 * __[Bioconda](https://bioconda.github.io/)__-的频道 [conda package manager](http://conda.pydata.org/docs/intro.html)  专业从事生物信息学软件.  包括一个存储库，该存储库包含3000多个随时可安装（带有`conda install`）生物信息学软件包.
 
+## Data Tools
+
+* __[GGD](https://github.com/gogetdata/ggd-cli)_ _-获取数据；  用于获取基因组数据的命令行界面
+* __[SRA-Explorer](https://sra-explorer.info/)__-轻松获得SRA下载链接和其他信息.
+
 ## Data Processing
 
 ### Command Line Utilities
@@ -45,6 +50,7 @@
 * __[easy_qsub](https://github.com/shenwei356/easy_qsub)_ _-使用脚本模板轻松提交PBS作业.  支持多个输入文件.
 * __[GNU `parallel`](http://www.gnu.org/software/parallel/)__-通用并行器，可在一台多核计算机上并行运行作业. [Here](https://www.biostars.org/p/63816/) 一些使用GNU`parallel`的示例脚本.
 * __[grabix](https://github.com/arq5x/grabix)__-随机访问BGZF文件的工具.
+* __[gsort](https://github.com/brentp/gsort)__-根据指定顺序对基因组文件进行排序.
 * __[tabix](https://github.com/samtools/tabix)__-表文件索引.
 * __[wormtable](https://github.com/wormtable/wormtable)__-大型数据集的一次写入多次读取表.
 * __[zindex](https://github.com/mattgodbolt/zindex)__-在压缩的文本文件上创建索引.
@@ -55,9 +61,9 @@
 
 * __[BigDataScript](https://pcingola.github.io/BigDataScript/)__-一种跨系统脚本语言，用于处理具有不同大小和功能的计算机系统中的大数据管道.
 * __[Bpipe](http://docs.bpipe.org)__-一种用于定义管道阶段并将它们链接在一起以构成管道的小语言.
-* __[Common Workflow Language](http://www.commonwl.org/)__-一种规范，用于描述分析工作流和工具，这些工作流和工具可在从工作站到群集，云和高性能计算（HPC）环境的各种软件和硬件环境中移植和扩展.
+* __[Common Workflow Language](http://www.commonwl.org/)__-用于描述分析工作流和工具的规范，该分析工作流和工具在从工作站到集群，云和高性能计算（HPC）环境的各种软件和硬件环境中均具有可移植性和可伸缩性.
 * __[Cromwell](https://github.com/broadinstitute/cromwell)__-面向科学工作流程的工作流程管理系统.
-* __[Galaxy](https://usegalaxy.org/)__ - a popular open-source, web-based platform for data intensive biomedical research. Has several features, from data analysis to workflow management to visualization tools.
+* __[Galaxy](https://usegalaxy.org/)_ _-流行的基于Web的开源平台，用于数据密集型生物医学研究.  从数据分析到工作流管理再到可视化工具，具有多种功能.
 * __[GATK Queue](https://gatkforums.broadinstitute.org/gatk/discussion/1288/howto-run-queue-for-the-first-time)_-流水线系统，可与GATK以及其他高通量序列分析软件一起使用.
 * __[Nextflow](https://www.nextflow.io) (recommended)__ - A fluent DSL modelled around the UNIX pipe concept, that simplifies writing parallel and scalable pipelines in a portable manner.
 * __[Ruffus](http://www.ruffus.org.uk)__-广泛用于科学和生物信息学的python计算管道库.
@@ -85,9 +91,16 @@
 * __[Seqtk](https://github.com/lh3/seqtk)__-用于处理FASTA / Q格式的序列的工具包.
 * __[smof](https://github.com/incertae-sedis/smof)__-UNIX风格的FASTA操作工具.
 
+### Data Analysis
+
+通过引入专门的数据库，以下各项可进行可扩展的基因组分析.
+
+* __[Hail](https://github.com/hail-is/hail)__-可扩展的基因组分析
+* __[GLNexus](https://github.com/dnanexus-rnd/GLnexus)_-可扩展的gVCF合并和联合变量调用，以进行总体测序项目.
+
 ### Sequence Alignment
 
-__新对齐__
+__De New Alignment__
 
 __DNA重测序__
 
@@ -137,7 +150,7 @@ __结构变量调用者__
 
 ### Variant Prediction/Annotation
 
-* __[SIFT](http://sift.jcvi.org/)__-预测氨基酸取代是否影响蛋白质功能.
+* __[SIFT](http://sift.jcvi.org/)__ - Predicts whether an amino acid substitution affects protein function.
 * __[SnpEff](https://github.com/pcingola/SnpEff)__-遗传变异注释和效果预测工具箱.
 
 ### Python Modules
@@ -170,7 +183,7 @@ __结构变量调用者__
 * __[DNAism](https://github.com/drio/dnaism)__-基于D3地平线图表的JavaScript库，用于DNA数据.
 * __[IGV js](https://www.broadinstitute.org/igv)_ _-基于Java的浏览器.  快速，高效，可扩展的可视化工具，用于基因组数据和注释.  处理大 [variety of formats](http://software.broadinstitute.org/software/igv/fileformats).
 * __[Island Plot](https://github.com/lairdm/islandplot)_ _-基于D3 JavaScript的基因组查看器.  构造SVG.
-* __[JBrowse](https://jbrowse.org)__-JavaScript基因组浏览器，可通过插件高度自定义并跟踪自定义
+* __[JBrowse](https://jbrowse.org)__-JavaScript基因组浏览器，可通过插件进行高度自定义并跟踪自定义
 * __[PHAT](https://github.com/chgibb/PHAT)__-跨平台套件的点击式，用于分析和可视化下一代测序数据集.
 * __[pileup.js](https://github.com/hammerlab/pileup.js)__-JavaScript库，可用于生成交互式且高度可定制的基于Web的基因组浏览器.
 * __[scribl](https://github.com/chmille4/Scribl)_ _-JavaScript库，用于绘制基于画布的基因图.   [Homepage](http://chmille4.github.io/Scribl/) 有例子.
@@ -195,13 +208,13 @@ __结构变量调用者__
 * [What is a bioinformatician](http://blog.fejes.ca/?p=2418)
 * [Bioinformatics Curriculum Guidelines: Toward a Definition of Core Competencies](http://www.ploscompbiol.org/article/info:doi%2F10.1371%2Fjournal.pcbi.1003496)
 * [Top N Reasons To Do A Ph.D. or Post-Doc in Bioinformatics/Computational Biology](http://caseybergman.wordpress.com/2012/07/31/top-n-reasons-to-do-a-ph-d-or-post-doc-in-bioinformaticscomputational-biology/)
-* [A 10-Step Guide to Party Conversation For Bioinformaticians](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-104) -这是有关如何向未参与该领域工作的人传达概念的分步指南，当您提出以下问题时：“那么，您会怎么做？”
+* [A 10-Step Guide to Party Conversation For Bioinformaticians](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-104) -这是有关如何向未参与该领域的人员传达概念的分步指南，当您提出以下问题时：“那么，您会怎么做？”
 * [A History Of Bioinformatics (In The Year 2039)](https://www.youtube.com/watch?v=uwsjwMO-TEA) -泰特斯·布朗（C. Titus Brown）关于他回顾2039年以来的生物信息学的演讲. [here](http://ivory.idyll.org/blog/2014-bosc-keynote.html).
 * [A farewell to bioinformatics](http://madhadron.com/posts/2012-03-26-a-farewell-to-bioinformatics.html) -对生物信息学状态的批判性看法.
 * [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) -Keith Bradnam博士“认为向一群著名的生物信息学家提出一系列简单的问题，以评估他们对当前生物信息学研究现状的看法可能具有启发性，也许可以获取他们对自己的研究有用的任何提示生物信息学事业.”
 * [Open Source Society University on Bioinformatics](https://github.com/ossu/bioinformatics) -对于那些想要免费完成世界上最好的大学的信息的人来说，这是一条坚实的道路.
 * [Rosalind](http://rosalind.info/) -Rosalind是一个通过解决问题来学习生物信息学的平台.
-* [A guide for the lonely bioinformatician](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) -本指南针对生物信息学家，旨在指导他们朝着更好的职业发展方向发展.
+* [A guide for the lonely bioinformatician](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) - This guide is aimed at bioinformaticians, and is meant to guide them towards better career development.
 * [A brief history of bioinformatics](https://doi.org/10.1093/bib/bby063)
 
 ### Bioinformatics on GitHub
@@ -211,13 +224,13 @@ __结构变量调用者__
 ### Sequencing
 
 * [Next-Generation Sequencing Technologies - Elaine Mardis (2014)](https://youtu.be/6Is3W7JkFp8) [1:34:35]-下一代和第三代测序技术的出色（技术）概述，以及在癌症研究中的一些应用.
-* [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) -约100篇论文，涉及从转录到可转座元素发现的各种测序技术和测定.
+* [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) -约100篇论文，涉及从转录到转座因子发现的各种测序技术和测定.
 
 ### RNA-Seq
 
 * [Review papers on RNA-seq (Biostars)](https://www.biostars.org/p/52152/) -包括许多有关RNA序列和分析方法的开创性论文.
 * [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial)  -有关使用Amazon AWS云服务在云中执行RNA序列分析的教育资源.  主题包括准备数据，预处理，差异表达，异构体发现，数据可视化和解释.
-* [RNA-seqlopedia](http://rnaseq.uoregon.edu/) -RNA-seqlopedia提供了一个很棒的RNA-seq概述以及进行成功的RNA-seq实验所需的选择.
+* [RNA-seqlopedia](http://rnaseq.uoregon.edu/) -RNA-seqlopedia提供了一个很棒的RNA-seq概述，以及进行成功的RNA-seq实验所需的选择.
 * [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) -为RNA序列计算分析提供了绝佳的路线图，包括挑战/障碍和需要注意的事项，以及如何将RNA序列数据与其他数据类型集成在一起.
 * [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39]-Lior Pachter博士分享了著名RNA-seq分析软件CuffDiff和 [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) 并解释了他们的一些方法.
 * [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) -分析所需的RNA-seq生物信息学工具在Wikipedia上的详尽列表，涵盖质量，控制，比对，剪接分析和可视化等分析流程的所有部分.
@@ -230,8 +243,8 @@ __结构变量调用者__
 ### YouTube Channels and Playlists
 
 * [Current Topics in Genome Analysis 2016](https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/) -在NIH举行的十四次精彩系列讲座，内容涉及基因组学的当前主题，从序列分析到测序技术，甚至还有更多翻译主题，例如基因组医学.
-* [GenomeTV](https://www.youtube.com/user/GenomeTV) -“ GenomeTV是NHGRI官方视频资源的集合，包括演讲，新闻纪录片，会议的完整视频集，这些视频集解决了基因组研究的研究，问题和临床应用.”
-* [Leading Strand](https://www.youtube.com/user/LeadingStrand) - Keynote lectures from Cold Spring Harbor Laboratory (CSHL) Meetings. More on [The Leading Strand](http://theleadingstrand.cshl.edu/).
+* [GenomeTV](https://www.youtube.com/user/GenomeTV) -“ GenomeTV是NHGRI官方视频资源的集合，包括演讲，新闻纪录片，会议的完整视频集，这些视频集处理基因组研究的研究，问题和临床应用.”
+* [Leading Strand](https://www.youtube.com/user/LeadingStrand)  -冷泉港实验室（CSHL）会议的主题演讲.  更多关于 [The Leading Strand](http://theleadingstrand.cshl.edu/).
 * [Genomics, Big Data and Medicine Seminar Series](https://www.youtube.com/playlist?list=PLqLDR0CTP9_pboZCk6gR9Zn4kW7h9XWJI) -“我们的研讨会专门针对GBM的关键交叉领域，深入研究将深刻塑造未来的&#39;出血边缘&#39;技术和方法.”
 * [Rafael Irizarry's Channel](https://www.youtube.com/user/RafalabChannel/videos) -Rafael Irizarry博士关于基因组统计的讲座和学术讲座.
 * [NIH VideoCasting and Podcasting](https://www.youtube.com/user/nihvcast)  -“ NIH VideoCast通过互联网向全世界的观众直播研讨会，会议和会议，作为实时流视频.”  不仅是基因组学和生物信息学视频，而且还有许多关于特定领域的生物信息学和基因组学使用的精彩演讲.
@@ -249,7 +262,7 @@ __结构变量调用者__
 * [A New Online Computational Biology Curriculum](https://doi.org/10.1371/journal.pcbi.1003662) -“本文介绍了数百个免费视频课程的目录，这些课程对那些希望扩展其生物信息学和计算生物学知识的人们来说是必不可少的.这些课程分为11个学科领域，以大学部门为蓝本，并附有评论和职业建议. ”
 * [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) -林肯·斯坦因（Lincoln D. Stein）的轶事，有关Perl编程语言在人类基因组计划中的重要性.
 * [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) -引文链接和关于计算生物学和生物信息学中使用的各种方法的简短教育文章的链接.
-* [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) -Keith Crandall和Claus White策划的工具集合，目的是整理PeerJ中最有趣，创新和相关的生物信息学工具文章.
+* [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) -由Keith Crandall和Claus White策划的工具集合，旨在整理PeerJ中最有趣，创新和相关的生物信息学工具文章.
 
 ## License
 

@@ -34,7 +34,7 @@
 * [pitrery](https://dalibo.github.io/pitrery/) -pitrery是一组Bash脚本，用于管理PostgreSQL的时间点恢复（PITR）备份.
 
 ### GUI
-* [Adminer](https://www.adminer.org/) -用PHP编写的功能齐全的数据库管理工具.
+* [Adminer](https://www.adminer.org/) - Full-featured database management tool written in PHP.
 * [OmniDB](https://omnidb.org/en/) -开源协作环境
 用于数据库管理
 * [DataGrip](https://www.jetbrains.com/datagrip/) -具有高级工具集和良好跨平台经验的IDE（商业软件）.
@@ -53,7 +53,7 @@
 * [Postico](https://eggerapps.at/postico/) -适用于macOS（商业软件）的现代PostgreSQL客户端.
 * [PSequel](http://www.psequel.com/) -简洁易用的界面，可快速执行常见的PostgreSQL任务（商业软件）.
 * [SQL Tabs](http://www.sqltabs.com/) -用JS编写的PostgreSQL跨平台桌面客户端.
-* [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
+* [SQLPro for Postgres](http://macpostgresclient.com/) -适用于macOS（商业软件）的简单，功能强大的PostgreSQL管理器.
 * [temBoard](https://github.com/dalibo/temboard) -基于Web的PostgreSQL GUI和监视.
 * [TablePlus](https://tableplus.com/)  -本机应用程序，可让您编辑数据库和结构.  确保高端安全性（商业软件）.
 * [DataRow](https://datarow.com/) -适用于Amazon Redshift的跨平台SQL客户端：简单，轻松，可扩展.
@@ -161,6 +161,7 @@
 * [pg-differ](https://github.com/av-dev/postgres-differ) -易于初始化/更新PostgreSQL表结构的工具，可替代迁移（Node.js）.
 * [sqlcheck](https://github.com/jarulraj/sqlcheck)  -自动检测常见的SQL反模式.  这种反模式通常会使查询变慢.  因此，解决这些问题将有助于加快查询速度.
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) -新一代诊断工具，可让用户收集对Postgres数据库运行状况的深入分析.
+* [ScaffoldHub.io](https://scaffoldhub.io) -使用Angular，Vue或React（商业软件）生成全栈PostgreSQL应用. 
 
 ### Language bindings
 *普通Lisp： [Postmodern](https://github.com/marijnh/Postmodern)

@@ -30,6 +30,7 @@
 * [Enterprise™](https://github.com/joaomilho/Enterprise) -非确定性不必要的静态类型语言.
 * [False](http://strlen.com/false-language) -很少使用的语言被大量使用.
 * [Fetlang](https://github.com/Property404/fetlang) -旨在使源代码看起来像写得不好的恋物癖情色.
+* [Folders](https://github.com/rottytooth/Folders) -用文件夹编写的代码.
 * [Fugue](https://esolangs.org/wiki/Fugue) -音乐作为源代码.
 * [Golfscript](http://www.golfscript.com/golfscript) -面向堆栈，旨在解决尽可能少的按键问题.
 * [Haifu](http://www.dangermouse.net/esoteric/haifu.html) -设计时考虑了复活节哲学的核心价值观.

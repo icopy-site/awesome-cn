@@ -140,7 +140,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) -Kubernetes的插件.
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) -Linode插件.
 * [terraform-provider-openstack](https://github.com/terraform-providers/terraform-provider-openstack) -OpenStack插件.
-* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) -管理Pingdom资源的提供者.
+* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources.
 * [terraform-provider-secrethub](https://github.com/secrethub/terraform-provider-secrethub) -SecretHub的提供者.
 * [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) -管理 [Spinnaker](https://www.spinnaker.io/) Terraform的应用程序和管道.
 * [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) -适用于AWS，Azure，GCP的Devops自动化平台.
@@ -154,7 +154,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Testing
 
-* [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) -提供了一组Test Kitchen插件，使系统可以使用Test Kitchen收敛Terraform配置并通过InSpec控件验证生成的Terraform状态.
+* [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) -提供了一组Test Kitchen插件，使系统可以使用Test Kitchen聚合Terraform配置并通过InSpec控件验证生成的Terraform状态.
 * [rspec-terraform](https://github.com/bsnape/rspec-terraform) -针对您的Terraform模块的RSpec测试.
 * [terraform-compliance](https://github.com/eerkunt/terraform-compliance) -Terraform文件的BDD测试.
 * [terraform_validate](https://github.com/elmundio87/terraform_validate) -协助在Terraform中实施用户定义的标准.
@@ -165,6 +165,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [atlantis](https://github.com/runatlantis/atlantis) -通过GitHub在Terraform上进行协作的统一工作流程.
 * [blast radius](https://github.com/28mm/blast-radius) -Terraform依赖图的交互式可视化.
 * [fogg](https://github.com/chanzuckerberg/fogg) -用于消除管理Terraform资料库中的工作的工具.
+* [former2](https://github.com/iann0036/former2) -从您的AWS账户中的现有资源生成Terraform配置.
 * [geopoiesis](https://docs.geopoiesis.io/manual/) -专业的持续集成和部署工具，用于现代声明式基础架构的设置和管理.
 * [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) -将JSON格式的IAM策略转换为Terraform aws_iam_policy_document的小型工具
 * [k2tf](https://github.com/sl1pm4t/k2tf) -Kubernetes YAML到Terraform HCL转换器.
@@ -243,7 +244,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Test and verify a Google Compute Instance with Kitchen-Terraform](https://www.youtube.com/watch?v=kiH3-LEveek) -使用Kitchen-Terraform测试我们创建了Google Compute的Terraform代码的示例.
 * [Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs) -如何以最小的风险谨慎地重构Terraform代码.
 * [Using Terraform for blue-green deployments on Triton](https://www.joyent.com/blog/video-blue-green-deploys-terraform) -有关在Terraform中使用蓝绿色的演示视频.
-* [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) - Provisioning hybrid cloud infrastructure using Terraform.
+* [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) -使用Terraform供应混合云基础架构.
 
 ## Editor Plugins
 

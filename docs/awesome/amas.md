@@ -61,7 +61,7 @@
 - [Nick Johnstone](https://github.com/Widdershin/ama)  -来自新西兰的Web开发人员，目前全职担任Rails开发人员.  作为附带项目，我正在开发一种无需编写代码即可开发游戏的工具.
 - [JD Ballard](https://github.com/Qix-/ama)  -爱达荷州本地人，Chalk合作者，阳光烧伤了我们.  喜欢假设，不喜欢蜜蜂.
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/ama) -热情的全栈开发人员，继续 [ArchLinux](https://www.archlinux.org/) .  完美主义者.  革命家.  创办人 [@RegexHQ](https://github.com/regexhq)，核心成员位于 [@JSTransformers](https://github.com/jstransformers) 和一部分 [@dwylhq](https://twitter.com/dwylhq).
-- [Mohamad Jahani](https://github.com/mamal72/ama)  -来自伊朗的软件开发人员，主要从事Web后端，\ * nix服务器，电子设备以及您可以想象的最酷的东西！  一个知识上瘾者，他全天候24/7读书和工作.
+- [Mohamad Jahani](https://github.com/mamal72/ama)  -来自伊朗的软件开发人员，主要从事Web后端，\ * nix服务器，电子设备以及您可以想象的最酷的东西！  知识上瘾者，他每天24/7读书和工作.
 - [Justin Miller](https://github.com/incanus/ama) -Mapbox的移动主管，曾是Code Sorcery Workshop（Pukka / Meerkat）的摄影师，旅行者.
 - [Yitzchok Willroth](https://github.com/coderabbi/ama)  -Coder＆Rabbi（虽然很少在同一时间！）；  Grovo工程实践经理；  ShorePHP和NYPHP的组织者；  会议发言人；  导师.
 - [Graham Daniels](https://github.com/greydnls/ama) -资深软件工程师 [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
@@ -174,6 +174,7 @@
 - [Imed Jaberi](https://github.com/3imed-jaberi/ama) -JavaScript开发人员，指导者，开源贡献者，社区构建者和发言人.
 - [Arpit Mohan](https://dev.to/mohanarpit/i-am-a-yc-alumnus-3x-vc-funded-founder-cto-ama-4006) -分布式系统工程师，Java和Golang开发人员，3x CTO， [blogger](https://blog.arpitmohan.com).
 - [Yohix](https://github.com/yohix/ama) -他/他是iOS和网络开发人员，开源工具制造商，他喜欢咖啡和音乐.
+- [Ittussarom Ynohtna](https://github.com/thetechrobo/ama) -爱好者Python 3.x开发人员，他对语法的纠正是如此之大，以至于失去了朋友.
 
 #### Ask these organizations anything!
 

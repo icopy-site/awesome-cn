@@ -69,7 +69,7 @@
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) -虚拟机，可让您编写更有效，更强大的Linux系统跟踪和监视.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) -基于Arch Linux的Linux发行版和项目.
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) -适用于Apple Mac电脑的操作系统.
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
@@ -172,11 +172,12 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) -面向对象的语言，针对Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -JVM的功能性编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) -具有Haskell和ML影响的依赖类型的通用纯函数式编程语言.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，这些应用对可靠性和效率至关重要.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，在这些应用中，可靠性和效率至关重要.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) -旨在充分利用GLib和GNOME生态系统的编程语言，同时保留C代码的速度.
 - [Coq](https://github.com/coq-community/awesome-coq#readme) -用于编程和说明的正式语言和环境，可促进交互式开发机器检查的证明.
+- [V](https://github.com/vlang/awesome-v#readme) -用于开发可维护软件的简单，快速，安全，已编译的语言.
 
 ## Front-End Development
 
@@ -255,13 +256,13 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) -确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) -浏览器中具有JavaScript，CSS，SVG等的动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) -受Elm和React启发的Rust框架，用于使用WebAssembly创建多线程前端Web应用程序.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，可以更快，更轻松地进行Web开发.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件可以更快，更轻松地进行Web开发.
 
 ## Back-End Development
 
 - [Flask](https://github.com/humiaozuzu/awesome-flask#readme) -Python框架.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) -自动化虚拟机环境.
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) -Python框架.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) -PHP框架.
@@ -313,7 +314,7 @@
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) -基于证据的软件系统研究.
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) -学习开发自己的搜索引擎.
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) -利用量子力学和量子计算机上的量子位的计算.
 
 ## Big Data
 
@@ -424,7 +425,7 @@
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) -对象关系数据库.
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) -面向文档的NoSQL数据库.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) -分布式，可扩展的大数据存储.
-- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) -帮助使用非关系型，分布式，开源和水平可伸缩的数据库.
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 - [Contexture](https://github.com/ltchris/awesome-contexture#readme) -从诸如ElasticSearch和MongoDB之类的不同后备数据存储中提取查询/过滤器和结果/聚合.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) -使数据库处理变得更加容易的一切.
 
@@ -610,7 +611,7 @@
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) -动态跟踪框架.
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) -增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实施与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
@@ -670,6 +671,6 @@
 ## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
-- [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
+- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) -使用浏览器扩展程序从Awesome数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) -一个简单的命令行工具，可深入研究Awesome列表.

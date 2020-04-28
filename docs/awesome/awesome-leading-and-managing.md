@@ -46,7 +46,7 @@
 - [Productivity and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Productivity-and-Time-Management.md)
 - [Tools to Define Your Leadership Style](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Tools-to-Define-Your-Leadership-Style.md)
 - [Transitioning to Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
-- [The VP Engineering Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/VP-Engineering-Role.md)
+- [The VP Engineering Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/The-VP-Engineering-Role.md)
 
 ## FAQ
 - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
