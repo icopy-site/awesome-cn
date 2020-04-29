@@ -106,7 +106,7 @@
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) -要求使用`new`抛出错误.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -ESLint的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -是2019年，您仍然使用循环吗？
-- [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) - Show queried syntax's content in messages.
+- [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询的语法内容.
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
 -表现
@@ -161,11 +161,12 @@
 - [Standard](https://github.com/feross/standard) -JavaScript标准样式.
 - [Superlint](https://github.com/supermind/superlint) -JavaScript Supermind样式.
 - [XO](https://github.com/sindresorhus/xo) -JavaScript幸福风格的短毛猫❤️.
-- [Zoe](https://github.com/jorgegonzalez/zoe) -通用JavaScript小工具和格式化程序.
+- [Zoe](https://github.com/jorgegonzalez/zoe) - Universal JavaScript linter and formatter.
 - [Healthier](https://github.com/KidkArolis/healthier) -标准的代码风格不可知版本，是Prettier的完美伴侣.
 
 ## Tools
 
+- [es-file-traverse](https://github.com/brettz9/es-file-traverse)  -从一个或多个入口文件中仅获取基于导入和/或需求使用的那些文件的列表；  列表可传递给ESLint.  预期的  用于消除第三方依赖性.
 - [eslint-cli](https://github.com/eslint/eslint-cli) -这是执行本地安装的ESLint的`eslint`命令.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) -查找自定义配置中没有的内置ESLint规则.
 - [eslint-index](https://github.com/wagerfield/eslint-index) -用于在ESLint配置文件中查找和管理规则的CLI.

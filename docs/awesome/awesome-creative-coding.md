@@ -11,7 +11,9 @@
 
 ---
 
-⭐ **[Don't know where to start? Check out Matt DesLauriers Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/).**
+⭐**不知道从哪里开始？**退房**[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
+
+ **想去更深吗？**退房**[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 
 
 ---
 
@@ -25,7 +27,7 @@
 - [Programming Design Systems](https://programmingdesignsystems.com/) -实用的图形设计新基础介绍.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) -有关使用OpenGL进行图形渲染的一系列教程.
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) -处理，Arduino和openFrameworks设计指南.
-- [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) -适用于程序员，视觉艺术家或设计师的openFrameworks初学者指南.
+- [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) - openFrameworks beginner Guide for programmer, visual artist, or designer.
 - [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/application-development/mastering-openframeworks-creative-coding-demystified) -深入了解openFrameworks.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) -试验设计问题以创建3D动画，GUI等.
 - [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) -使用HTML5画布创建动画所需的所有知识.
@@ -61,7 +63,7 @@
 ## Courses
 
 - [Create 3D Graphics in JS Using WebGL](https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl) -开始使用不带任何框架的WebGL创建内容.
-- [Learn HTML5 Graphics and Animation](https://egghead.io/courses/learn-html5-graphics-and-animation) -canvas 2D绘图API简介.
+- [Learn HTML5 Graphics and Animation](https://egghead.io/courses/learn-html5-graphics-and-animation) - Introduction to the canvas 2D drawing API.
 - [Interactive 3D Graphics](https://classroom.udacity.com/courses/cs291) -Udacity课程，教您3D计算机图形学的原理.
 - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) -Coursera的计算机图形学课程.
 - [Kadenze Creative Coding](http://try.kadenze.com/creative-coder/) -选择涵盖p5.js，TensorFlow，Max / Jitter和ChucK的Kadenze课程.
@@ -76,6 +78,7 @@
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) -加入Nicholas Felton，获取有关数据可视化的智能，全面且启发性的介绍.
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) -与约书亚·戴维斯（Joshua Davis）一起学习生成艺术和艺术处理.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/)  -Matt DesLauriers的工作坊.  教您有关生成艺术，交互式动画，3D图形和着色器的知识.
+- [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) -Matt DesLauriers举办的研讨会，深入探讨了图形编程，数学和着色器.
 
 ## Tools
 
@@ -105,7 +108,7 @@
 - [TouchDesigner](http://www.derivative.ca/) [Mac，Win]-创建实时项目的可视化开发平台.
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac]-用于处理和呈现图形数据的开发工具.
 - [Vuo](http://vuo.org/) [Mac]-实时互动媒体编程环境.
-- [Max](https://cycling74.com/products/max/) [Mac, Win] - Visual programming language for media.
+- [Max](https://cycling74.com/products/max/) [Mac，Win]-媒体的可视编程语言.
 - [Pure Data](https://puredata.info/) [跨平台]-多媒体的开源可视化编程语言.
 - [i-score](http://www.i-score.org) [跨平台]-交互式音序器，用于控制创意编码库和工具包.
 - [tooll](http://tooll.io/) [Win]-用于创建交互式3d内容和动画的开源工具.
@@ -123,7 +126,7 @@
 - [TidalCycles](https://tidalcycles.org/) -用于模式实时编码的领域特定语言.
 - [Sonic Pi](http://sonic-pi.net/) -每个人的现场编码音乐合成器.
 - [Csound](https://csound.com/) -声音和音乐计算系统.
-- [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
+- [Orca](https://100r.co/pages/orca.html) -实时编码环境，可快速创建过程定序器.
 
 ### Web Programming • Libraries
 
@@ -192,6 +195,7 @@
 - [AxiDraw](https://www.axidraw.com/) -简单，现代且精确的笔式绘图仪.
 - [Phidgets](https://www.phidgets.com) -计算机的传感器，输入设备和控制器.
 - [Teensy](https://www.pjrc.com/teensy/) -基于USB的微控制器开发系统.
+- [Lightform](https://lightform.com/) -带有内置深度传感器的AR投影映射.
 
 ### Other
 
@@ -235,7 +239,7 @@
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
-- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
+- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -史蒂文·维滕斯（Steven Wittens）谈论WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -Matt DesLauriers的FITC谈谈他对艺术创作的热情.
 
@@ -266,7 +270,7 @@
 - [Modeling with distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) -在一个集中的地方收集距离功能.
 - [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/) -说明如何在体积着色器中创建复杂的3D形状.
 - [Real-time Rendering](http://www.realtimerendering.com/) -有关实时渲染的书籍，博客和资源集合.
-- [OpenGL 4 Shaders](http://antongerdelan.net/opengl/shaders.html) -Anton Gerdelan对OpenGL着色器的简短介绍.
+- [OpenGL 4 Shaders](http://antongerdelan.net/opengl/shaders.html) - Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
 - [On ray casting, ray tracing, ray marching and the like](http://www.hugi.scene.org/online/hugi37/hugi%2037%20-%20coding%20adok%20on%20ray%20casting,%20ray%20tracing,%20ray%20marching%20and%20the%20like.htm)  - 标题说明了一切.  Adok介绍.
 - [Sun and Black Cat](http://sunandblackcat.com/other.php?l=eng) -有关着色器和其他计算机图形学相关主题的文章.
 - [Writing a small software renderer](http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html) -很好地介绍了基本软件渲染的工作原理.
@@ -388,7 +392,7 @@
 - [Eases](https://github.com/mattdesl/eases) -模块化缓和方程的抓包.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) -不同运动方程的可视化.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) -矩阵乘法可视化.
-- [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
+- [Algebra rules](http://algebrarules.com/) -基本代数最有用的规则.
 - [Immersive Math](http://immersivemath.com/ila/index.html) -完全交互式的线性代数.
 - [Image Kernels](http://setosa.io/ev/image-kernels/) -图像内核的交互和视觉介绍.
 - [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) -正弦和余弦的交互爆炸.

@@ -18,7 +18,7 @@
 
 ## In English
 
-* [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的互联网音频脱口秀节目.
+* [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的网络音频脱口秀.
 * [/dev/hell](http://devhell.info/) 克里斯·哈特耶斯（Chris Hartjes）和埃德·芬克勒（Ed Finkler）被困在“发展地狱”中，他们主要谈论PHP，Web，他们的开发经验以及特别邀请来宾.
 * [Accidental Tech Podcast](http://atp.fm/) -三个书呆子讨论技术，苹果，编程和松散相关的问题.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) -妇女在科学，技术，工程和数学（STEM）方面的成就.
@@ -29,7 +29,7 @@
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday)  -Scott Hanselman和实际的工程师坐在一起，他们在学习如何编程云的过程中建立了Azure.  没有营销，没有BS，只有两名工程师和一小段可管理的笔记本电脑.
 * [Base.cs](https://www.codenewbie.org/basecs) -基于CodeNewbie制作的Vaidehi Joshi的base.cs博客系列的初学者友好型计算机科学课程.
 * [Beats, Rye & Types](http://beatsryetypes.com/) -两个老朋友，讨论他们的三个主要爱好：音乐，美食和编程.
-* [Blockchain Insider](https://bi.11fs.com/) -每周播客，专门研究区块链，分类账技术和加密货币的所有事物.
+* [Blockchain Insider](https://bi.11fs.com/) -每周播客，专门研究所有区块链，分类账技术和加密货币.
 * [Boagworld Show](https://boagworld.com/show)  -Boagworld是有关数字策略，管理和用户体验的播客.  它提供实用的建议，新闻，工具，评论以及与Web设计社区中的知名人物的访谈.
 * [BookBytes](https://www.orbit.fm/bookbytes/) -面向开发人员的读书俱乐部播客.
 * [Bootstrapped](http://bootstrapped.fm/)  -伊恩（Ian）和安德烈（Andrey）都是经验丰富的初创公司创始人，在职业生涯中都遭受了重大打击和成功.  您可以学习很多聆听它们的知识.
@@ -47,7 +47,7 @@
 * [Complete Developer Podcast](https://completedeveloperpodcast.com/)  -关于语言和编码的播客很多.  我们使用Complete Developer Podcast进行的工作是涵盖生活的其他领域.  例如，我们的第一集是关于与客户，老板以及其他与开发人员互动的人（不是开发人员）进行交谈.
 * [CppCast](http://cppcast.com/) -C ++开发人员针对C ++开发人员的第一个播客.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) -关于视觉和创意应用程序的编程.
-* [Curious Minds](https://www.cmpod.net/)  -好奇心是关于科学，技术和历史的播客.  每个插曲都会带来许多主题的有趣故事：从物理和天文学到医学，艺术和科幻小说.
+* [Curious Minds](https://www.cmpod.net/) - Curious Minds is a podcast about Science, Technology, and History. Each episode brings interesting stories from a wide range of subjects: from Physics and Astronomy to Medicine, Art and Science Fiction.
 * [Darknet Diaries](https://darknetdiaries.com)  -黑客或受攻击者的故事.  他们如何进入以及发生了什么.
 * [Data Stories](http://datastori.es/) -Enrico Bertini和Moritz Stefaner讨论了数据分析，可视化和相关主题的最新发展.
 * [Design vs Dev](https://agileleague.com/) -从设计师和开发人员的不同角度进行的有关Web开发的播客.
@@ -63,7 +63,7 @@
 * [Elixir Foundation](http://feeds.soundcloud.com/users/soundcloud:users:24638646/sounds.rss) -您每周播客，以了解Elixirlang社区周围的新闻和采访.
 * [Elixir Outlaws](https://elixiroutlaws.com) -关于Elixir开发及其周围主题的小组讨论.
 * [Embedded.fm](https://www.embedded.fm/) -讨论通常用于设备的工程的方式，原因和内容.
-* [Ember Weekend](https://emberweekend.com/episodes) -由乔恩（Jon）和蔡斯（Chase）主持的关于恩伯（Ember）的一周（末）播客.
+* [Ember Weekend](https://emberweekend.com/episodes) -由乔恩（Jon）和蔡斯（Chase）主持的关于恩伯（Ember）的一周（末期）播客.
 * [Entreprogrammers](http://entreprogrammers.com/)  -从4位开发人员转变为企业家的过程中获得飞速发展的视野，因为他们在与企业的斗争中艰难地学习课程.  这是程序员的每周策划者组.
 * [FiveJS](https://www.pluralsight.com/codeschool) -JavaScript社区中的最新消息.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) -与来自自由软件/开源社区的杰出来宾进行访谈.
@@ -141,7 +141,7 @@
 * [SYFY25 Origin Stories](https://www.syfy.com/syfywire/syfy25/podcast-episodes)  -亚当·萨维奇（Adam Savage）与创作者，思想领导者和名人粉丝坐在一起，讨论改变了宇宙类型的时刻，人物和里程碑.  所有科幻小说的怀旧庆祝活动.
 * [Syntax FM](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 * [Sysadministrivia](https://sysadministrivia.com/) -Linux，更大的啤酒和深夜.
-* [Syscast Podcast](http://podcast.sysca.st/) -谈论Linux，开源，Web开发和系统管理（DevOps）.
+* [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
 * [Talking Code](http://www.talkingcode.com/) -简短的专家访谈，可帮助您解码开发人员在说什么.
 * [Talking Kotlin](http://talkingkotlin.com/) -关于Kotlin的双月播客，更多由Hadi Hariri主持.
 * [Talking Machines](http://www.thetalkingmachines.com/) -Talking Machines是您进入机器学习世界的窗口.
@@ -155,7 +155,7 @@
 * [The Amp Hour](https://theamphour.com/) -在一个小时（每周）的每周表演中讨论电子设计的世界.
 * [The Back to Front Show](https://backtofrontshow.com/)  -由网络行业资深人士Keir Whitaker和Kieran Masterton于2013年发起了Back to Front节目.  在前40集中，他们讨论了从网页设计和开发到初创公司和狗相关技术的所有内容.
 * [The Big Web Show](http://5by5.tv/bigwebshow) -重要的是网络.
-* [The Bike Shed](http://bikeshed.fm/) -在“自行车棚”上，主持人Derek Prior，Sean Griffin，Laila Winner和来宾讨论了他们在Ruby，Rails，JavaScript等方面的开发经验和挑战，以及本周引起他们注意，钦佩或不满的任何其他内容.
+* [The Bike Shed](http://bikeshed.fm/) -在“自行车棚”上，主持人Derek Prior，Sean Griffin，Laila Winner和来宾讨论了他们在Ruby，Rails，JavaScript等方面的开发经验和挑战，以及本周引起人们注意，钦佩或不满的任何其他内容.
 * [The Changelog](https://changelog.com/podcast) -与软件开发的黑客，领导者和创新者进行对话.
 * [The Cognicast](http://blog.cognitect.com/cognicast) -Cognicast以前是ThinkRelevance：Podcast是Cognitect家族的播客.
 * [The Distributed Data Show](https://academy.datastax.com/distributed-data-show)  -每周最新消息和技术专长，以帮助构建大规模分布式系统.  由DataStax技术推广人员团队带队，与DataStax工程师和来自更广泛数据社区的特别嘉宾深入探讨.  每个星期二有新剧集.
@@ -173,7 +173,7 @@
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/) -每周一次的节目，深入探讨了今天构建平台的开发人员对Web的所有关注.
 * [This Developer's Life](http://thisdeveloperslife.com/) -关于开发人员及其生活的播客.
 * [Thoughtbot](https://thoughtbot.com/podcasts) -我们记录并发布来自Thoughtbot在设计，Ruby on Rails，iOS，正在运行的软件公司以及保持工作/生活平衡方面的每周播客.
-* [ThoughtWorks](https://soundcloud.com/thoughtworks) - A community of passionate individuals whose purpose is to revolutionize software design, creation and delivery, while advocating for positive social change.
+* [ThoughtWorks](https://soundcloud.com/thoughtworks) -一个充满热情的个人社区，其目的是在倡导积极的社会变革的同时彻底改变软件设计，创建和交付.
 * [Three Devs and a Maybe](https://threedevsandamaybe.com/)  -关于Web开发所有事物的每周讨论播客.  主题包括开发人员的日常生活，PHP，框架，测试，良好的软件设计以及我们使用许多其他编程语言的经验.
 * [Toolsday Podcast](https://spec.fm/podcasts/toolsday) -在星期二2点播出一个20分钟的播客，其中包含最新的技术工具，技巧和窍门！
 * [TTL Podcast](http://ttlpodcast.com/) -由丽贝卡·穆菲（Rebecca Murphey）主持的TTL播客，与大型组织的前端开发人员进行了对话，以讨论他们的工作方式.
@@ -183,18 +183,18 @@
 * [Why Are Computers](https://whyarecomputers.com/) -关于计算机和计算机程序及其原因的播客.
 * [WIRED's Webmonkey Podcast](https://www.wired.com/series/webmonkey/) -与技术团队一起浏览WIRED.com的幕后故事.
 * [Breach](https://www.carbonite.com/podcasts/breach/) -播客，探讨Carbonite的数据泄露和网络安全.
-* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast)  -Facebbok.  苹果.  亚马逊  Netflix.  谷歌.  该播客检查了它如何发挥作用，如何使用它以及将来会发生什么.
+* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast) - Facebbok. Apple. Amazon. Netflix. Google. This podcast examine how it got its power, what it's doing with it, and what might happen to in the future.
 * [a16z Podcast](https://a16z.com/podcasts/) -播客讨论技术和文化趋势，新闻和未来.
 
 
 ## In Portuguese
 
-* [10deploys](https://www.10deploys.com/) -讨论了DevOps背后的起源，趋势，影响和概念，旨在帮助组织成为高性能组织.
+* [10deploys](https://www.10deploys.com/) -讨论了DevOps背后的起源，趋势，影响和概念，以帮助组织成为高性能组织.
 * [99Vidas](http://99vidas.com.br/) -怀旧，有趣和对电子游戏的很多见解.
 * [CapyCast](https://soundcloud.com/rdshipit/) -与Resultados Digitais产品团队一起播客，介绍他们在开发和设计方面的经验.
 * [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) -坎皮纳格兰德联邦大学计算机科学课程的监护人小组播客.
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) -关于数据库的第一个巴西播客.
-* [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
+* [DevDrops](https://anchor.fm/devdrops) -您的软件开发播客.
 * [DataHackers](https://datahackers.com.br/podcast) -每月播客，可让数据科学专业人士谈论就业市场，职业和新闻.
 * [DevNaEstrada](https://devnaestrada.com.br/) -关于Web开发的每周播客，带有幽默感.
 * [Elemencast](https://elemencast.github.io) -建议将听众关于前端宇宙，NodeJ，函数式编程等各种内容的内容带给听众.
@@ -206,34 +206,34 @@
 * [Lambda3 Podcast](https://www.lambda3.com.br/category/podcast/) -播客和Lambda3
 * [Lídercast Café Brasil](http://www.portalcafebrasil.com.br/todos/lidercast/) -采访领导力和企业家精神等主题.
 * [Like a Boss](https://www.likeaboss.com.br)  -Like Boss播客是企业家的播客.  成功的创业公司和公司的领导者和创始人与该计划的两位主持人坐下来.
-* [Mamilos](https://www.b9.com.br/shows/mamilos/) -开胸新闻
+* [Mamilos](https://www.b9.com.br/shows/mamilos/) -坦诚的新闻
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) -播客有一项提案，建议解释几个主题，使用科学，哲学，历史等方法来支持答案.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) -JovemNerd门户播客，讨论书呆子，理论和rpg
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) -面向经验丰富的开发人员和初学者的有关PHP新闻的新闻.
-* [Pizza de Dados](https://pizzadedados.com/) -Pizza de Dados是一项倡议，它以一种轻松有趣的方式提出了与数据科学相关的问题.
+* [Pizza de Dados](https://pizzadedados.com/) -Pizza de Dados是一项倡议，旨在以一种有趣而轻松的方式带来与数据科学相关的主题.
 * [PODebug](http://www.podebug.com/) -通常以幽默和轻松的方式开发软件和技术.
 * [Quebradev](https://quebradev.com.br/) -外围起源的播客，并注定要起源.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) -带有rapadura的电影播客，今天被视为巴西流行文化的参考.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) -播客面向极客，涉及技术，科学，历史等各个领域.
-* [Reloading](http://reloading.com.br/) -每周播客，其中包含视频游戏世界中最重要的新闻，事件和好奇心.
-* [Souforce.cloud](https://souforce.cloud/podcast/) -第一个播客以葡萄牙语为焦点，聚焦于Salesforce世界，在这里我们聊了有关开发，平台管理，Salesforce产品以及诸如Career之类的话题.
+* [Reloading](http://reloading.com.br/) -每周播客，带来来自视频游戏世界的最重要的新闻，事件和好奇心.
+* [Souforce.cloud](https://souforce.cloud/podcast/) -第一个播客以葡萄牙语为焦点，聚焦于Salesforce世界，在这里我们讨论了开发，平台管理，Salesforce产品以及诸如Careers之类的主题.
 * [Tecnocast](https://tecnoblog.net/categoria/podcast/) -关于技术的Tecnoblog播客.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) -敏捷性，建筑，语言和行动主义.
 * [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) -政治，历史和时事.
 * [Zeno Overflow](https://soundcloud.com/zenorocha) -有关巴西以外的技术，职业和生活的一系列现场问答.
 * [Zone Of Front-Enders](https://zofe.com.br/) -专注于前端Web开发的播客.  
-* [Dragões de Garagem](http://dragoesdegaragem.com/) -播送科学节目的播客，希望以一种容易获得和轻松的方式谈论科学，鼓励好奇心和批判性思维.
+* [Dragões de Garagem](http://dragoesdegaragem.com/) -科学传播的播客，希望以一种容易获得和轻松的方式谈论科学，鼓励好奇心和批判性思维.
 * [Opencast](https://anchor.fm/opencast) -轻松聊天中的技术，免费软件和创新，其中充斥着关于类Unix世界的参考.
 
 ## In Spanish
 
-* [1984](https://podcast.jcea.es/podcast1984/) - Hacking, hacktivismo y seguridad
+* [1984](https://podcast.jcea.es/podcast1984/) -黑客，黑客行为和安全
 * [85% Cocoa](http://ochentaycincoporcientococoa.tumblr.com/) -关于可可和节目的播客.
 * [A hombros de gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/) -科学传播计划.
 * [Basta ya de picar](http://www.bastayadepicar.com/) -播客，讨论各种编程主题和程序员的生活.
 * [CAChemE](https://cacheme.org/podcast/) -科学与工程应用程序（主要是Python）.
 * [El gato de Turing](https://elgatodeturing.com/) -播客最新科技新闻.
-* [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) -科学传播，科幻小说和视频游戏计划.
+* [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 * [Ideas ágiles](https://dosideas.com/podcast/ideasagiles/) -关于软件开发人员生活的讲座，访谈和体验的播客.
 * [Nación Lumpen](https://www.nacionlumpen.com/) -类似于“停止瘙痒”.
 * [Python en español](https://podcast.jcea.es/python/) -使用您的语言的Python
@@ -294,13 +294,15 @@
 * [La Dev Team](https://www.radiokawa.com/episode/la-dev-team-hs2/) -由开发人员主持的每月播客，谈论视频游戏行业.
 * [Le comptoir sécu](https://www.comptoirsecu.fr/)  —关于安全性的双向播客，欢迎每个主题的专家.  由Justin Ganivet，Morgan Hotonnier，Youenn Piolet和LoïsSamain主持.
 * [Les Cast Codeurs](https://lescastcodeurs.com)  —由开发人员提供或为开发人员提供的播客.  总体上有关Java生态系统和开发的最新消息.  由Emmanuel Bernard（JBoss，Hibernate），ArnaudHéritier（CloudBees，Jenkins），Guillaume Laforge（Google，Groovy），Antonio Goncalves（自由职业者，auteur），Vincent Massol（XWiki，Maven），Audrey Neveu（Saagie，Devoxx4Kids）主持.
+* [Le podcast AWS en français](https://aws.amazon.com/fr/blogs/france/podcasts/) -用法语谈论AWS的播客.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/)  -法国播客谈论Microsoft技术的开发.  由Mario Cardinal和Guy Barrette主持.
 * [IFTTD – If This Then Dev](https://ifttd.io/)  -每周一次的法国播客采访各个技术领域（AI，区块链，安全性，devops等）的专家.  由Bruno Soulez主持.
+* [Electro Monkeys](https://electro-monkeys.fr/)  -每周一次的法国播客，Electro Monkeys是云原生技术上地球上最另类的播客！  由StéphaneBeuret主持.
 
 ## In German
 
 * [Apfelfunk](https://apfelfunk.com/) -每周播客有关与Apple相关的所有内容的播客.
-* [Chaosradio](https://chaosradio.de) - Monthly live talk radio show of the Chaos Computer Club.
+* [Chaosradio](https://chaosradio.de) -混沌计算机俱乐部的每月直播脱口秀节目.
 * [Freak Show](https://freakshow.fm/)  -技术播客，通常每两周发布一次.  主要是苹果，比特币和播客.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) -关于网络政治的每周播客.
 * [Methodisch inkorrekt](http://minkorrekt.de/) -对论文进行幽默的评论4.两个星期几乎都发布了
@@ -343,7 +345,7 @@
 * [De Appels en Peren Show](http://appelsenperenshow.nl/)  -关于未来的脱口秀节目.  技术，媒体，文化以及一切使未来成为可能的事物.
 * [Tech45](https://tech45.eu/)  -Tech45是每周的技术播客.  在大约45分钟内，一群极客将指导您了解上周最有趣的技术新闻.
 * [TechSnacks](https://techsnacks.nl/) -唯一的零食大小的技术播客！
-* [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/)  -每周播客，书呆子喝Spa Red并谈论技术话题.  有定期的书呆子和定期的书呆子Daniel Kegel，Floris Diemel，Joost Schellevis，Jurian Ubachs和Randal Peelen.
+* [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/)  -每周播客，书呆子喝Spa Red并谈论技术话题.  有定期的书呆子和定期的书呆子，丹尼尔·凯格尔（Daniel Kegel），弗洛里斯·迪梅尔（Floris Diemel），乔斯特·谢勒维斯（Joost Schellevis），朱利安·乌巴克斯（Jurian Ubachs）和兰达·皮伦（Randal Peelen）.
 * [ZeepCast](https://twitter.com/Zeepcast)  -有关科学，技术和流行文化最新发展的播客.  由Sander Bijleveld和David van Dorsten主持.
 
 ### Tooling

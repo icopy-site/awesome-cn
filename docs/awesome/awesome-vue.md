@@ -242,7 +242,7 @@
 - [Nuxt.js - Vue.js on Steroids](https://www.packtpub.com/application-development/nuxtjs-vuejs-steroids-video)  由Packt的MaximilianSchwarzmüller设计.  （2018年10月）
 - [Building an Electron File Explorer with Quasar (and Vue)](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) 通过 [@hawkeye64](https://github.com/hawkeye64) .  （2018年11月）
 - [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/build-web-apps-with-vuejs-firebase/learn/v4/overview) 上 [Udemy](https://www.udemy.com/) 通过 [the Net Ninja](https://www.thenetninja.co.uk/)
-- [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview) 上 [Udemy](https://www.udemy.com/) 马克西米利安·施瓦茨穆勒（MaximilianSchwarzmüller）
+- [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview) 上 [Udemy](https://www.udemy.com/) 通过马克西米利安·施瓦茨穆勒
 - [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 1)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-1/) 詹妮弗·布兰德（Jennifer Bland） [@ratracegrad](https://github.com/ratracegrad) .  （2018年11月）
 - [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 2)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-2/) 詹妮弗·布兰德（Jennifer Bland） [@ratracegrad](https://github.com/ratracegrad) .  （2018年11月）
 - [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 3)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-3/) 詹妮弗·布兰德（Jennifer Bland） [@ratracegrad](https://github.com/ratracegrad) .  （2018年11月）
@@ -296,7 +296,7 @@
 - [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) 通过 [mul14](https://github.com/mul14)
 - [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) 通过 [haydenbbickerton](https://github.com/haydenbbickerton)
 - [Vue Cookbook (Vue1.0 + express)](https://github.com/yjj5855/node-vue-server-webpack) 通过 [@yjj5855](https://github.com/yjj5855)：演示服务的第一个屏幕渲染
-- [Strong Together](https://github.com/websemantics/strong-together) -一个启动项目，该项目基于Browserify和Semantic-ui，可以独立或为Laravel / Laravel Spark项目构建单页Vue.js应用程序，方法如下： [WebSemantics](https://github.com/websemantics)
+- [Strong Together](https://github.com/websemantics/strong-together) -一个启动器项目，用于基于浏览器和Semantic-ui构建独立的单页Vue.js应用程序或Laravel / Laravel Spark项目. [WebSemantics](https://github.com/websemantics)
 - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest)
 - [**vue-shopping**](https://github.com/andylei18/vue-shopping) 通过 [andylei18](https://github.com/andylei18)
 - [**Vue-cnodejs,060**](https://github.com/shinygang/Vue-cnodejs) 通过 [@shinygang](https://github.com/shinygang)
@@ -430,17 +430,17 @@
 - [Testing Vue.js Applications](https://www.manning.com/books/testing-vuejs-applications) by Edd Yerburgh (Summer 2018)
 - [Vue.js 2 and Bootstrap 4 Web Development](https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development)  由Packt的Olga Filipova撰写.  （2017年9月）
 - [Front-end com Vue.js](https://www.casadocodigo.com.br/products/livro-frontend-vue)  代码室的Leonardo Vilarinho.  （2017年11月）
-- [Vue.js 2 Web Development Projects](https://www.packtpub.com/web-development/vuejs-2-web-development-projects)  由Packt的Guillaume Chau撰写.  （2017年11月）
+- [Vue.js 2 Web Development Projects](https://www.packtpub.com/web-development/vuejs-2-web-development-projects)  Packt的Guillaume Chau  （2017年11月）
 - [Full-Stack Vue.js 2 and Laravel 5](https://www.packtpub.com/application-development/full-stack-vuejs-2-and-laravel-5)  由Packt Anthony Gore撰写.  （2017年12月）
 - [Vue.js 2.x by Example](https://www.packtpub.com/application-development/vuejs-2x-example)  由Packt的Mike Street提供.  （2017年12月）
 - [Mastering Vue.js](https://masteringvuejs.com)  由Oleksandr Kocherhin撰写.  （2018年1月）
 - [Fullstack Vue: The Complete Guide to Vue.js](https://www.fullstack.io/vue/)  由Hassan Djirdeh，Nate Murray和Ari Lerner撰写.  （2018年3月）
-- [Vue.js 2 Design Patterns and Best Practices](https://www.amazon.com/dp/178883979X)  由Packt的Paul Halliday提供.  （2018年3月）
+- [Vue.js 2 Design Patterns and Best Practices](https://www.amazon.com/dp/178883979X)  由Packt的Paul Halliday撰写.  （2018年3月）
 - [Vuex Quick Start Guide](https://www.amazon.com/dp/1788999932)  由Packt的Andrea Koutifaris提供.  （2018年4月）
 - [Full-Stack Web Development with Vue.js and Node](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144)  由Packt的Aneeta Sharma撰写.  （2018年5月）
 - [The Vue Handbook](https://vuehandbook.com)  由Flavio Copes提供.  （2018年7月）
 - [ASP.NET Core 2 and Vue.js](https://www.amazon.com/dp/1788839463)  由Packt的Stuart Ratcliffe提供.  （2018年7月）
-- [Vue.js: Construa aplicações incríveis](https://www.casadocodigo.com.br/products/livro-vue)  由CasaoCódigo的Caio Incau撰写.  （2017年9月）
+- [Vue.js: Construa aplicações incríveis](https://www.casadocodigo.com.br/products/livro-vue)  由CasaoCódigo的Caio Incau提供.  （2017年9月）
 - [Getting to Know Vue.js](https://www.apress.com/us/book/9781484237809)  由Apress的Brett Nelson撰写.  （2018年8月）
 - [Vue: Build & Deploy](https://leanpub.com/vue-book)  由Leanpub的Daniel Schmitz撰写.  （2018年9月）
 - [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2)  由Packt的James J. Ye.  （2018年10月）
@@ -604,7 +604,7 @@
 - [Bael Blog Template](https://bael-theme.jake101.com/)  -静态生成的博客模板，该模板使用Netlify CMS作为后端，使用Netlify作为托管.  具有野蛮美学，模糊搜索，无服务器电子邮件注册等功能.
 - [Buefy Shop](https://buefy-shop.now.sh/) 示例商店，开源的，具有Nuxt，Stripe，Firebase，Bulma和无服务器功能.
 - [sysmon](https://github.com/Lt0/sysmon)  适用于Linux的AB / S模式系统监视器.  您可以在任何地方通过Web浏览器远程观看系统资源的使用情况.
-- [eth-vue](https://github.com/DOkwufulueze/eth-vue)  一个Truffle Box，提供您快速构建带有Vue.js身份验证功能的以太坊dApp所需的一切，包括易于部署到Ropsten网络的配置.  它还具有Gravatar功能.
+- [eth-vue](https://github.com/DOkwufulueze/eth-vue)  一个Truffle Box，提供您快速构建带有Vue.js身份验证功能的以太坊dApp所需的一切，包括易于部署到Ropsten Network的配置.  它还具有Gravatar功能.
 - [Nippon-color](https://github.com/ssshooter/nippon-color)  受到nipponcolors dot com的启发.  这是使用vue-cli 3的日本彩色PWA版本.
 - [Saleina CMS](https://github.com/saleina/SaleinaCMS) 使用vue使用git作为后端构建的静态站点内容管理系统.
 - [Vuido](https://github.com/mimecorg/vuido)  用于创建本机桌面应用程序的框架.  它可以使用本机GUI组件在Windows，OS X和Linux上运行.
@@ -877,6 +877,7 @@
   - [Narrandum](https://narrandum.com) -使用Vue.js，Vuetify和Feathersjs构建的客户旅程映射工具
   - [Keep Formula](https://keepformula.com/) -Keep Formula是一个简单的应用程序，可简化您的计算.
   - [tato music player](https://neteast.netlify.com/) -适用于以Vue和Vuetify编写的音乐迷的移动优先，手写，响应式网络应用程序.
+  - [ChatterBoxes](https://chatterboxes.netlify.com/) -用于快速秘密聊天会话
 
 ### Interactive Experiences
 
@@ -1149,6 +1150,9 @@
  - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) -美丽的像素完美的400+加密货币和10+菲亚特货币图标.
  - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) -一组源自SVG的高质量图标 [@refactoringui/heroicons](https://github.com/refactoringui/heroicons)，作为Vue功能组件.
  - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) -104保费的Vue组件 [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg图标
+
+#### Marquee
+- [vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) -选框组件，完全响应动态变化.
 
 #### Menu
 
@@ -1784,7 +1788,7 @@
 
 *显示图像*
 
- - [vue-cloudinary](https://github.com/diegopamio/vue-cloudinary) -Vue（2.0）插件，提供了可重用的指令，可通过动态操作（调整大小/裁剪/效果/水印/缩放/格式化）和优化（webp / png / auto）从Cloudinary（https://cloudinary.com）获取图像质量/自动视网膜）.
+ - [vue-cloudinary](https://github.com/diegopamio/vue-cloudinary) -Vue（2.0）插件，提供可重用的指令，可通过动态操作（调整大小/裁剪/效果/水印/缩放/格式化）和优化（webp / png / auto）从Cloudinary（https://cloudinary.com）获取图像质量/自动视网膜）.
  - [img-Vuer](https://github.com/ssshooter/img-vuer) - An Mobile-First image viewer/gallery for Vue2
  - [vue-image-loader](https://github.com/kevindesousa/vue-image-loader) -Vue加载器/渐进式图像插件，例如Medium.
  - [vue-load-image](https://github.com/john015/vue-load-image) -在图像加载期间显示加载器，以及在图像加载失败时显示替代内容.
@@ -2311,7 +2315,7 @@
 
  - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon)  -创建svg图标组件的工具.  （版本2.x）.
  - [vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) -Vue组件，可轻松构建（或使用预设）Facebook之类的SVG加载卡.
- - [vue-annotator](https://github.com/DrSensor/vue-annotator) -使用任何SVG元素（“ rect”，“ polygon”等，甚至是HTML元素，如“ canvas”，如果包装在“ foreignObject”中，则为页面添加注释）
+ - [vue-annotator](https://github.com/DrSensor/vue-annotator) -使用任何SVG元素（“ rect”，“ polygon”以及更多元素，甚至是HTML元素（如“ canvas”，如果包裹在“ foreignObject”中），都可以为页面添加注释）
  - [vue-svg-sprite](https://github.com/thierrymichel/vue-svg-sprite) -简单使用SVG精灵（vue 2.x）的指令.
  - [vue-svg-filler](https://github.com/biigpongsatorn/vue-svg-filler) -用于自定义svg文件的Vue组件（vue 2.x）.
 
@@ -2401,7 +2405,7 @@
  - [zipkin-instrumentation-vue-resource](https://github.com/elgris/zipkin-instrumentation-vue-resource) -的拦截器 [vue-resource](https://github.com/pagekit/vue-resource) 可以检测出的HTTP请求 [Zipkin](https://github.com/openzipkin/zipkin)
  - [vue-api-query](https://github.com/robsontenorio/vue-api-query) -构建REST API请求的优雅而简单的方法.
  - [vue-chimera](https://github.com/SasanFarrokh/vue-chimera) -基于RESTful资源的全功能客户端，与Nuxt.js兼容，并允许服务器端提取.
- - [vue-google-api](https://github.com/vertcitron/vue-google-api) -一个包装器，可基于Promise与内置的Oauth2“使用Google登录”功能轻松地将Google API客户端集成到任何vue.js 2项目中.
+ - [vue-google-api](https://github.com/vertcitron/vue-google-api) -一个包装器，用于基于Promise与内置的Oauth2“使用Google登录”功能，将Google API客户端轻松集成到任何vue.js 2项目中.
  - [vue-apis](https://github.com/ChangedenCZD/vue-apis)  -与axios集成的vue插件，可通过链式构建API实例.  在vue实例的上下文中可用（例如：this.$ apis.apiName（））.
 
 #### i18n
@@ -2503,7 +2507,7 @@ the amazing Vue.js.
  - [vue-authenticate](https://github.com/dgrubelic/vue-authenticate) -用于登录/注册和OAuth（1.0 / 2.0）身份验证的简单Vue.js身份验证库
  - [vue-facebook-account-kit](https://github.com/biessek/vue-facebook-account-kit) -fb帐户工具包库的简单vue包装器.
  - [casl-vue](https://github.com/stalniy/casl/tree/master/packages/casl-vue) -限制允许给定用户访问哪些资源
- - [vue-google-api](https://github.com/vertcitron/vue-google-api) -一个包装器，可基于Promise与内置的Oauth2“使用Google登录”功能轻松地将Google API客户端集成到任何vue.js 2项目中.
+ - [vue-google-api](https://github.com/vertcitron/vue-google-api) -一个包装器，用于基于Promise与内置的Oauth2“使用Google登录”功能，将Google API客户端轻松集成到任何vue.js 2项目中.
  - [vue-auth](https://github.com/websanova/vue-auth) -用于Vue.js的简单轻量级身份验证库
  - [vue-auth-plugin](https://github.com/d0whc3r/vue-auth-plugin) -使用打字稿的Vue.js的简单身份验证和授权库
  - [vue-google-signin-button](https://github.com/phanan/vue-google-signin-button) -一个简单的Vue插件，可将Google登录按钮添加到您的网络应用中
@@ -2932,7 +2936,7 @@ the amazing Vue.js.
  - [vue-tachyons-template](https://github.com/colorful-tones/vue-tachyons-template) -带Tachyons，Webpack和ESLint的Vue 2项目入门模板
  - [Vuets](https://github.com/AkiraLaine/Vuets) -使用类样式的组件，vue插件选项，webpack和vue-cli的Vue，支持TypeScript的样板.
  - [MMF-FE/vue-typescript](https://github.com/MMF-FE/vue-typescript) -vue2.x打字稿模板.
- - [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) -通过Apollo客户端（Vuex，Vue-router，Vue-i18n，Webpack 3，Eslint，Prettier等）通过GraphQL支持的功能齐全的Vue.js入门项目.
+ - [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) -通过Apollo客户端（Vuex，Vue路由器，Vue-i18n，Webpack 3，Eslint，Prettier等）通过GraphQL支持的功能齐全的Vue.js入门项目.
  - [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) -Vue 2.2 Webpack 2和Typescript 2设置，具有热重载，单元测试，代码覆盖率，无效和捆绑/最小化.
  - [vue-ts-amd](https://github.com/Micene09/vue-ts-amd) -使用AMD模式（RequireJS）和Typescript的功能齐全的Vue.js 2样板.
  - [**vue-2-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) -Vue 2样板，用于开发中型到大型单页应用程序 [petervmeijgaard](https://github.com/petervmeijgaard/)

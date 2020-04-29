@@ -9,10 +9,6 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 
  永远欢迎捐款！  请看看 [contribution guidelines](https://github.com/AdrienTorris/awesome-blazor/blob/master/CONTRIBUTING.md)  第一页.  谢谢大家 [contributors](https://github.com/AdrienTorris/awesome-blazor/graphs/contributors)，您真棒，没有您就不可能！
 
-## Special event: "Virtual Meetup". [TODAY!]
-[<img src="https://secure.meetupstatic.com/photos/event/1/9/e/a/highres_490206634.jpeg" align="center" width="100%">](https://www.meetup.com/fr-FR/dotnetsouthwest/events/270194696/)
- -虚拟聚会-什么是Blazor？  为什么这么令人兴奋？  克里斯·桑蒂（Chris Sainty）
-
 
 ## Introduction
 

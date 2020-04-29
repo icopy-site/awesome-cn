@@ -31,10 +31,10 @@ subtleties.
 
 ## Meta
 
-- [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - 一种
+- [Falsehoods Programmers Believe](https://spaceninja.com/2015/12/07/falsehoods-programmers-believe/) - 一个
  常见错误的简要清单.  概述和快速介绍
 虚假的世界.
-- [Falsehoods About Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - 一种
+- [Falsehoods About Programming](https://chiselapp.com/user/ttmrichter/repository/gng/doc/trunk/output/falsehoods.html) - 一个
 关于编程和程序员本身的谦卑和有趣的清单.
 - [Falsehoods About Falsehoods Lists](https://github.com/kdeldycke/kevin-deldycke-blog/blob/master/content/posts/falsehoods-programmers-believe-about-falsehoods-lists.md) -元
 关于如何处理这些谬论的评论.
@@ -91,7 +91,7 @@ macOS开发人员.
 - [So You Want to Abolish Time Zones](https://qntm.org/abolish) -废除
 时区听起来似乎是个好主意，但有很多复杂之处
 这使得事实并非如此.
-- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 一种
+- [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - 一个
 如果您有帮助，请观看有关为何不应该处理时区的视频.
 - [$26,000 Overcollection by Labor Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) -
 日历会计错误的后果.
@@ -112,7 +112,7 @@ leap秒！
 
 ## Education
 
-- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一种
+- [Falsehoods CS Students (Still) Believe Upon Graduating](https://www.netmeister.org/blog/cs-falsehoods.html) - 一个
 清单（不仅如此）计算机科学专业的学生往往会错误地
 时代令人惊讶地相信，即使他们（可能）应该更了解.
 - [Postdoc myths](https://www.cs.kent.ac.uk/people/staff/srk21/blog/2019/12/02/) -“关于博士后研究人员的很多事情都被说，写和相信了，这是完全不正确的.”
@@ -139,7 +139,7 @@ RFC-822.
 
 - [Falsehoods About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -
 开始一切的文章.
-- [Falsehoods About Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 一种
+- [Falsehoods About Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) - 一个
 上面文章的重访版本，这次有详细说明.
 -有关性别的谬论： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) - 性别
 是人类身份的一部分，具有自己的微妙之处.
@@ -157,7 +157,7 @@ RFC-822.
 实施虚假行为如何对某人的生活产生负面影响的例子.
 - [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) -老
 航空公司预订系统将“ MR”后缀视为“ Mister”，并将其删除.
-- [HL7 v3 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) - 一种
+- [HL7 v3 RIM](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=186) - 一个
 用于表示人名的灵活数据模型.
 - [Apple iOS `NSPersonNameComponentsFormatter`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/NSPersonNameComponentsFormatter_Class/index.html) -本地化
 人名组成部分的表示形式.
@@ -171,10 +171,10 @@ RFC-822.
 
 - [Falsehoods About Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language) -翻译
 用英语编写的软件并不像看起来那样简单.
-- [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - 一种
+- [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - 一个
 有关国际化您需要记住的事情的视频
 code.
-- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 一种
+- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 一个
 很好地介绍了unicode，其历史背景和起源，其次是
 对其内部工作的概述.
 - [Awesome Unicode](https://github.com/Wisdom/Awesome-Unicode) -精选清单
@@ -191,7 +191,7 @@ quirks.
 spice.
 - [i18n Testing Data](https://github.com/patch/i18n-testing) -汇编
 用于单元测试和质量检查的实词国际和多种名称数据.
-- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - 一种
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - 一个
 巨大的弦集，当
  用作用户输入数据.  必须具备一组实用的边际案例来测试您
 软件反对.
@@ -298,7 +298,7 @@ RFC4180存在，它远非定论，而在很大程度上被忽略.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) -不
 *每秒钟*的虚假信息，但仍然是要实施的良好做法的好清单
 autocompletion.
-- [`9999999999999999.0` - `9999999999999998.0`](http://geocar.sdf1.org/numbers.html) - 一种
+- [`9999999999999999.0` - `9999999999999998.0`](http://geocar.sdf1.org/numbers.html) - 一个
 有点虚假的数字，浮点数与小数.
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) -为什么
 搜索（包括分析，标记化，突出显示）看似复杂.
@@ -318,7 +318,7 @@ autocompletion.
 
 - [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) -假设
 有关网络和桌面应用程序中的排版的信息.
-- [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - 一种
+- [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - 一个
 完全相反的虚假格式，以大小写为主题（如大写）
 和小写文字）.
 
@@ -326,7 +326,7 @@ autocompletion.
 ## Contributing
 
  永远欢迎您的贡献！  请看看
-[contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/master/CONTRIBUTING.md) 第一.
+[contribution guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/master/./.github/contributing.md) 第一.
 
 
 ## License

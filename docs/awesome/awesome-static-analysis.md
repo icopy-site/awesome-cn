@@ -106,7 +106,7 @@
 * [Helix QAC](https://www.perforce.com/products/helix-qac)  ：copyright：-嵌入式软件的企业级静态分析.  支持MISRA，CERT和AUTOSAR编码标准.
 * [IKOS](https://github.com/nasa-sw-vnv/ikos) -基于LLVM的C / C ++代码的声音静态分析器
 * [include-gardener](https://github.com/feddischson/include_gardener) - a multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
-* [LDRA](https://ldra.com/) ：copyright：-一个工具套件，包括对各种标准的静态分析（TBVISION），包括MISRA C＆C ++，JSF ++ AV，CWE，CERT C，CERT C ++和自定义规则.
+* [LDRA](https://ldra.com) ：copyright：-一个工具套件，包括对各种标准的静态分析（TBVISION），包括MISRA C＆C ++，JSF ++ AV，CWE，CERT C，CERT C ++和自定义规则.
 * [oclint](http://oclint.org/) -C / C ++代码的静态分析
 * [Phasar](https://github.com/secure-software-engineering/phasar) -基于LLVM的静态分析框架，带有污点和类型状态分析.
 * [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) ：copyright：-识别C和C ++嵌入式软件中的运行时错误，并发问题，安全漏洞和其他缺陷.
@@ -157,7 +157,7 @@
 * [Helix QAC](https://www.perforce.com/products/helix-qac)  ：copyright：-嵌入式软件的企业级静态分析.  支持MISRA，CERT和AUTOSAR编码标准.
 * [IKOS](https://github.com/nasa-sw-vnv/ikos) -基于LLVM的C / C ++代码的声音静态分析器
 * [include-gardener](https://github.com/feddischson/include_gardener) - a multi-language static analyzer for C/C++/Obj-C/Python/Ruby to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
-* [LDRA](https://ldra.com/) ：copyright：-一个工具套件，包括对各种标准的静态分析（TBVISION），包括MISRA C＆C ++，JSF ++ AV，CWE，CERT C，CERT C ++和自定义规则.
+* [LDRA](https://ldra.com) ：copyright：-一个工具套件，包括对各种标准的静态分析（TBVISION），包括MISRA C＆C ++，JSF ++ AV，CWE，CERT C，CERT C ++和自定义规则.
 * [oclint](http://oclint.org/) -C / C ++代码的静态分析
 * [Phasar](https://github.com/secure-software-engineering/phasar) -基于LLVM的静态分析框架，带有污点和类型状态分析.
 * [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) ：copyright：-识别C和C ++嵌入式软件中的运行时错误，并发问题，安全漏洞和其他缺陷.
@@ -451,7 +451,7 @@
 
 ## Rust
 
-* [cargo-audit](https://github.com/RustSec/cargo-audit) -审核Cargo.lock，以将带有安全漏洞的箱子报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
+* [cargo-audit](https://github.com/RustSec/cargo-audit) -审核Cargo.lock，以将带有安全漏洞的板条箱报告给 [RustSec Advisory Database](https://github.com/RustSec/advisory-db/).
 * [cargo-inspect](https://github.com/mre/cargo-inspect) -在没有语法糖的情况下检查Rust代码，以了解编译器的幕后工作.
 * [clippy](https://github.com/Manishearth/rust-clippy) -防止常见错误并改进Rust代码的代码仓库
 * [electrolysis](https://github.com/Kha/electrolysis) -通过在精益定理证明者中将其转换为定义来正式验证Rust程序的工具.
@@ -516,7 +516,7 @@
 * [Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/) :copyright: - Commercial Static Code Analysis which generates exploits to verify vulnerabilities. Supports: Java (including JSP and JSF), C#, VB.Net, ASP.NET, Php, JavaScript, Objective-C, Swift, C\C++, SQL (PL/SQL. T-SQL. MySQL), HTML5
 * [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) - creates reports of over 400 rule patterns for feature detection (e.g. the use of cryptography or version control in apps). Supports C/C++, C#, Java, JavaScript, HTML, Python, Objective-C, Go, Ruby, Powershell
 * [AppScan Source](https://www.hcltechsw.com/wps/portal/products/appscan/home) :copyright: - Commercial Static Code Analysis. Supports: Microsoft .NET Framework (C#, ASP.NET, VB.NET), ASP (JavaScript/VBScript), C/C++, COBOL, ColdFusion, JavaScript, JavaServer Pages (JSP), Java™ (including support for Android APIs), Perl, PHP, PL/SQL, T-SQL, Visual Basic 6
-* [APPscreener](https://appscreener.us) :copyright: - Static code analysis for binary and source code - Java/Scala, PHP, Javascript, C#, PL/SQL, Python, T-SQL, C/C++, ObjectiveC/Swift, Visual Basic 6.0, Ruby, Delphi, ABAP, HTML5 and Solidity
+* [APPscreener](https://solarappscreener.com/) :copyright: - Static code analysis for binary and source code - Java/Scala, PHP, Javascript, C#, PL/SQL, Python, T-SQL, C/C++, ObjectiveC/Swift, Visual Basic 6.0, Ruby, Delphi, ABAP, HTML5 and Solidity
 * [ArchUnit](https://www.archunit.org/) -对Java或Kotlin架构进行单元测试
 * [Atom-Beautify](https://atom.io/packages/atom-beautify) - Beautify HTML, CSS, JavaScript, PHP, Python, Ruby, Java, C, C++, C#, Objective-C, CoffeeScript, TypeScript, Coldfusion, SQL, and more in Atom editor
 * [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: - Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95

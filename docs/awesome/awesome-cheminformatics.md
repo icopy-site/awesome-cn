@@ -105,6 +105,7 @@
 <a id="lib-others"></a>
 ### Others
 
+* [OPSIN](https://bitbucket.org/dan2097/opsin/downloads/) -用于系统IUPAC术语的开放解析器
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) -以Python为中心的Cookiecutter，用于分子计算化学软件包，作者： [MolSSL](https://molssi.org/)
 
 ## Journals

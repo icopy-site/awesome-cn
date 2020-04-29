@@ -16,7 +16,7 @@
 ## Languages
 
 * [78](https://github.com/oatmealine/78) -围绕数字7和8的单字符命令语言.
-* [Ajsone](https://www.quaxio.com/ajsone) -语言完全以JSON定义.
+* [ajsone](https://www.quaxio.com/ajsone) -语言完全以JSON定义.
 * [ArnoldC](http://lhartikk.github.io/ArnoldC) -基于Arnold Schwarzenegger最好的单人阵容.
 * [Befunge](https://esolangs.org/wiki/Befunge) -二维语言.
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) -仅使用8个单字符命令的极简语言.
@@ -55,7 +55,7 @@
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.
 * [Velato](http://velato.net) -使用MIDI文件作为源的语言，程序由音高和音高顺序定义.
 * [Vigil](https://github.com/munificent/vigil) -只有Vigil真正警惕不允许未通过编程规范的代码.
-* [Wenyan](http://wenyan-lang.lingdong.works) -紧跟中国古典文学的语法和语气.
+* [文言 (Wenyan)](http://wenyan-lang.lingdong.works) -紧跟中国古典文学的语法和语气.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) -随时随地执行操作的语言.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) -仅使用白色字符（空格，制表符和换行符）.
 * [WordLang](https://github.com/WilliamRagstad/WordLang) -一种基于类似含义的语法的语言，可产生输出.
@@ -97,6 +97,7 @@
 ## Community
 
 * [Anarchy Golf](http://golf.shinh.org) -非正式 [golfing](https://en.wikipedia.org/wiki/Code_golf) 问题服务器.
+* [Code Golf Stack Exchange](https://codegolf.stackexchange.com) -打高尔夫球的问题和答案.
 * [Freenode IRC Channel](http://webchat.freenode.net/?channels=esoteric&uio=d4) - The #esoteric IRC channel on freenode.
 * [Reddit Esolangs](https://www.reddit.com/r/esolangs) -esolangs上的Reddit社区.
 

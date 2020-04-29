@@ -121,7 +121,6 @@
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
 *不和谐https://blog.discordapp.com/
 * Docker https://blog.docker.com/
-* Docker工程https://engineering.docker.com/
 * DoorDash https://blog.doordash.com/tagged/engineering
 * Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
@@ -133,7 +132,7 @@
 *和谐http://www.eharmony.com/engineering/
 *弹性https://www.elastic.co/blog/category/engineering
 *发动机场https://blog.engineyard.com/
-*输入https://sourcecode.entelo.com/
+* Entelo https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
 *特使https://envoy.engineering/
 * Erlang解决方案https://www.erlang-solutions.com/blog.html
@@ -145,9 +144,9 @@
 
 #### F companies
 * Facebook https://code.facebook.com/posts/
-* Facebook AI研究https://research.facebook.com/blog/ai/
+* Facebook AI研究https://engineering.fb.com/category/ai-research/
 *法拉第http://blog.faraday.io/
-*禁用https://medium.com/feedzaitech
+*发现https://medium.com/feedzaitech
 *第五十三章http://making.fiftythree.com/
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
@@ -373,6 +372,7 @@
 *大步https://blog.stridenyc.com/
 *条纹https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
+* Swiggy https://bytes.swiggy.com/
 
 #### T companies
 * http://blog.takipi.com/
@@ -411,7 +411,7 @@
 * VersionEye https://blog.versioneye.com/
 * Vevo http://blog.vevo.com/
 * Viget https://www.viget.com/articles/category/code#articles
-*来http://engineering.vine.co/
+*藤http://engineering.vine.co/
 * Vinted http://engineering.vinted.com/
 * VNGRS http://blog.vngrs.com/
 * VTS https://buildingvts.com/
@@ -459,12 +459,12 @@
 ### Individuals/Group Contributors
 
 #### \# individuals
-* 0代码https://0x.pub/
+* 0x https://0xcode.pub/
 
 #### A individuals
 *亚伦·帕特森（Aaron Patterson）http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
-* Abu Ashraf Masnun http://masnun.com/
+*阿布·阿什拉夫（Abu Ashraf）Masnun http://masnun.com/
 *亚当·巴德https://adambard.com/blog/
 *亚当·莱文塔尔http://dtrace.org/blogs/ahl/
 *亚当·普莱默（Adam Tuliper）http://www.adamtuliper.com/
@@ -494,7 +494,7 @@
 *本·麦考密克https://benmccormick.org/
 *比尔蜥蜴http://www.billthelizard.com/
 *比约恩·约翰森（BjørnJohansen）https://bjornjohansen.no/
-*布莱克·埃里克森（Blake Erickson）https://blog.blakeerickson.com/
+* Blake Erickson https://blog.blakeerickson.com/
 * Blundell的Android教程http://blog.blundellapps.co.uk
 * Bohops https://bohops.com/
 *布兰登·罗德斯http://rhodesmill.org/brandon/
@@ -582,7 +582,7 @@
 * Elijah Eftimov http://ieftimov.com/
 * Ilya Grigorik https://www.igvita.com/
 * Itamar Turner结婚戒指https://codewithoutrules.com
-*伊万·乌苏尔https://ivanursul.com/
+*熊伊万https：//ivanântul.com/
 
 #### J individuals
 * Jacopo Tarantino https://jack.ofspades.com/
@@ -590,7 +590,7 @@
 *杰克·沃顿（Jake Wharton）http://jakewharton.com/blog
 *杰克·耶斯贝克（Jake Yesbeck）http://jakeyesbeck.com/
 *詹姆斯·海格http://prog21.dadgum.com/
-*詹姆斯·朗http://jlong​​ster.com/archive
+* James Long http://jlongster.com/archive
 *贾米斯·巴克http://weblog.jamisbuck.org/
 * Jan Lelis https://idiosyncratic-ruby.com/
 * Jay Fields http://blog.jayfields.com
@@ -691,7 +691,7 @@
 *PawełChudzik https://blog.pchudzik.com/
 *彼得·诺维格http://norvig.com/
 *彼得·斯坦伯格（Peter Steinberger）http://petersteinberger.com/
-*彼得·克鲁姆斯（Peter Krumins）http://www.catonmat.net/blog/
+* Peteris Krumins http://www.catonmat.net/blog/
 * Petr Mitrichev http://petr-mitrichev.blogspot.com/
 *菲利普·沃尔顿https://philipwalton.com/
 *菲利普·奥珀曼https://os.phil-opp.com/
@@ -788,7 +788,7 @@
 * IPFS https://ipfs.io/blog/
 
 #### J technologies
-* JOOQ https://blog.jooq.org/
+* jOOQ https://blog.jooq.org/
 
 #### K technologies
 *剪辑http://blog.klipse.tech/
