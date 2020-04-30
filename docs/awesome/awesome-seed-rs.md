@@ -47,6 +47,10 @@
 - [benxu.dev/blog](https://github.com/AlterionX/benxu-dev)  -相对简单的开源个人博客.  建立在 [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs)和 [`Diesel`](https://diesel.rs).
 - [seed-rs.org](https://github.com/seed-rs/seed-rs.org) -种子的官方网站.
 
+## Libraries
+
+- [Savory](https://gitlab.com/MAlrusayni/savory) -用于基于Seed构建用户界面的库.
+
 ## Contribute
 
  欢迎捐款！  阅读 [contribution guidelines](https://github.com/seed-rs/awesome-seed-rs/blob/master/contributing.md) 第一.

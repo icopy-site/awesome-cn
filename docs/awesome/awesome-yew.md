@@ -21,8 +21,9 @@
 - [Examples](https://github.com/yewstack/yew/tree/master/examples) -官方回购中包含的较小示例.
 - [API Docs](https://docs.rs/yew) -docs.rs上的文档.
 - [Website](https://yew.rs/) - 官方网站.
-- [Gitter chatroom](https://gitter.im/yewframework/Lobby) -非常活跃，是提问的好地方.
+- [Chatroom](https://discord.gg/VQck8X4) -非常活跃，是提问的好地方.
 - [Financial Contribute](https://opencollective.com/yew) -成为财务贡献者，并帮助我们维持我们的社区.
+- [Yewtify](https://github.com/yewstack/yewtify) -为Yew框架提供Vuetify组件.
 
 ## Projects
 

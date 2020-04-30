@@ -128,7 +128,7 @@
 - [Auto Tile Layer](https://github.com/leezh/autotile) -允许使用RPG Maker的Autotile格式（Godot 2.1）自动进行2D拼贴.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -Camera2D的屏幕抖动效果.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器（Godot 2.1、3.1）.
-- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程式的一部分.
+- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的放松方程式的一部分.
 - [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
 - [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
@@ -147,7 +147,7 @@
 - [gterm](https://github.com/TeddyDD/gterm) -GUI控件，其绘制类似于\ * nix终端模拟器（Godot 2.1）.
 - [GUT](https://github.com/bitwes/Gut) -用于在GDScript（Godot 3.x）中编写单元测试的实用程序.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) -合并多边形.
-- [Qodot](https://github.com/Shfty/qodot-plugin)  -对Godot的Quake`.map`文件支持.  让您使用 [TrenchBroom](https://kristianduske.com/trenchbroom/)  用于关卡设计.  （Godot 3.1）.
+- [Qodot](https://github.com/Shfty/qodot-plugin)  -对Godot的Quake`.map`文件支持.  让您使用 [TrenchBroom](https://kristianduske.com/trenchbroom/)  用于关卡设计.  （Godot 3.2）.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) -单工确定性噪声函数.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) -滚动背景节点（Godot 2.1）.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) -对话框系统和编辑器可自定义，非常适合故事驱动的游戏（Godot 3.0）.

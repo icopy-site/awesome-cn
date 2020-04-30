@@ -26,7 +26,7 @@
 ## Async
 
 - [AsyncEx ★1,253](https://github.com/StephenCleary/AsyncEx) -异步/等待的帮助程序库.
-- [LinqToAwait ★99](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
+- [LinqToAwait ★99](https://github.com/anaisbetts/LinqToAwait) -基于任务的LINQ，旨在与异步/等待一起使用.
 
 
 ## Charts
@@ -171,7 +171,7 @@
 - [ReactiveProperty ★361](https://github.com/runceel/ReactiveProperty) -在“响应式扩展”下提供MVVM和异步支持功能.
 - [RxFlow ★18](https://github.com/ugaya40/RxFlow) -具有Rx（反应性扩展）的简单流控制库.
 - [Sensors](https://github.com/aritchie/sensors) -适用于Xamarin和Windows的ACR反应式传感器插件.
-- [CrossPlatformLiveData](https://github.com/jakdor/CrossPlatformLiveData) -Android LiveData启发了.NET的实现-生命周期感知的rx流.
+- [CrossPlatformLiveData](https://github.com/jakdor/CrossPlatformLiveData) -Android LiveData启发性的.NET实现-生命周期感知的rx流
 
 
 ## Security
@@ -245,10 +245,13 @@
 - [Device Orientation ★28](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation) -简单的跨平台插件，可与移动设备的屏幕方向配合使用.
 - [Device Orientation ★1](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) -在Xamarin.Forms项目中获取设备方向或通知方向更改的简单方法.
 - [NControl ★243](https://github.com/chrfalch/NControl) -用于NGraphics的Xamarin.Forms控件.
+- [Magic Gradients ★128](https://github.com/mgierlasinski/MagicGradients) -提供了一种在Xamarin.Forms中实现各种渐变的简单方法.
 - [MvxForms ★8](https://github.com/MobiliTips/MvxPlugins) -MVVMCross插件，用于使用Xamarin.Forms.
+- [PancakeView ★454](https://github.com/sthewissen/Xamarin.Forms.PancakeView) -Xamarin.Forms的扩展ContentView，具有圆角，边框，阴影，渐变等.
 - [PullToRefreshLayout ★134](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) -在Xamarin.Forms中拉动以刷新ScrollView或ListView.
 - [Rb.Forms.Barcode ★34](https://github.com/rebuy-de/rb-forms-barcode) -Xamarin.Forms视图，用于扫描条形码.
 - [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup) -Xamarin.Forms的跨平台插件，允许打开Xamarin.Forms页面作为弹出窗口.
+- [SharedTransitions ★223](https://github.com/GiampaoloGabba/Xamarin.Plugin.SharedTransitions) -Xamarin.Forms（IOS / Android）中页面之间的共享元素转换.
 - [Sharpnado.Presentation.Forms ★28](https://github.com/roubachof/Sharpnado.Presentation.Forms) -Horizo​​ntalListView，TaskViewLoader和Paginator.
 - [SolTech Xamarin Forms Toolkit ★31](https://github.com/soltechinc/soltechxf) -Xamarin Forms框架的有用扩展集.
 - [Store Rating Plugin ★7](https://github.com/voxdev/Xamarin.Plugins) -评价应用程序弹出窗口.
@@ -300,7 +303,7 @@
 
 ## Websites
 
-- [Planet Xamarin](https://www.planetxamarin.com)  -Xamarin社区成员的内容汇总者.  当您可以订阅一个便捷的RSS feed时，为什么还要单独订阅？  如果您不喜欢RSS，请按照 [Twitter](https://twitter.com/PlanetXamarin) 要么 [Facebook](https://www.facebook.com/planetxamarin/) 帐户会自动使用社区中的最新内容进行更新.
+- [Planet Xamarin](https://www.planetxamarin.com)  -Xamarin社区成员的内容汇总者.  当您可以订阅一个便捷的RSS feed时，为什么还要单独订阅？  如果您不喜欢RSS，请按照 [Twitter](https://twitter.com/PlanetXamarin) 要么 [Facebook](https://www.facebook.com/planetxamarin/) accounts which are automatically updated with the latest content from the community.
 - [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) -精选的学习Xamarin的资源列表.
 - [Weekly Xamarin](http://weeklyxamarin.com)  -每周精选最佳Xamarin开发链接.  由杰弗里·亨特利（Geoffrey Huntley）策划，每个星期五出版.  自由.
 

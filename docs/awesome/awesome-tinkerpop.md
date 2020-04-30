@@ -46,7 +46,6 @@ Github上只有很棒的TinkerPop库的精选列表.
 * [grammes](https://github.com/northwesternmutual/grammes) -Go软件包，用于使用Gremlin与Apache TinkerPop™Graph计算框架进行通信.
 
 ##### Haskell
-* [gremlin-haskell](https://github.com/nakaji-dayo/gremlin-haskell) -TinkerPop3 Gremlin服务器的Haskell图形数据库客户端.
 * [greskell-websocket](https://github.com/debug-ito/greskell) -TinkerPop3 Gremlin服务器的Haskell客户端.
 
 ##### Java
@@ -65,7 +64,7 @@ Github上只有很棒的TinkerPop库的精选列表.
 ##### Python
 * [Mogwai](https://github.com/platinummonkey/mogwai) -适用于Python的TinkerPop3图形数据库库.
 * [python-gremlin-rest](https://github.com/windj007/python-gremlin-rest) -Gremlin服务器的基于REST的客户端.
-* [gremlinclient](https://github.com/davebshow/gremlinclient) -Gremlin Server的异步Python 2/3客户端，支持灵活的协程语法-Trollius，Tornado，Asyncio.
+* [gremlinclient](https://github.com/davebshow/gremlinclient) -Gremlin Server的异步Python 2/3客户端，允许灵活的协程语法-Trollius，Tornado，Asyncio.
 * [aiogremlin](https://github.com/davebshow/aiogremlin) （python）-基于asyncio和aiohttp的Python 3库，该库使用websocket与Gremlin Server通信.
 * [gremlinrestclient](http://gremlinrestclient.readthedocs.org/en/latest/) （python）-使用HTTP通过REST与Gremlin Server通信的Python 2/3库.
 * [goblin](https://github.com/ZEROFAIL/goblin) -TinkerPop3 Gremlin服务器的OGM.
@@ -102,7 +101,7 @@ Github上只有很棒的TinkerPop库的精选列表.
 
 ## <A NAME="communites"></A>Communities
 * [Gremlin-users](https://groups.google.com/forum/#!forum/gremlin-users) -Gremlin用户的邮件列表.
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/tinkerpop3) - Stack Overflow has a relatively active community.
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/tinkerpop3) -堆栈溢出有一个相对活跃的社区.
 * [TinkerPop-dev](http://mail-archives.apache.org/mod_mbox/incubator-tinkerpop-dev/) -TP3开发人员的邮件列表.
 
 ## <A NAME="people-to-follow"></A>People to Follow 
@@ -120,7 +119,7 @@ Github上只有很棒的TinkerPop库的精选列表.
 * [The Gremlin Console](http://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/) -讨论Gremlin控制台的使用案例和使用模式.
 * [Gremlin Recipes](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/recipes/) -常见遍历样式和样式的参考.
 * [Gremlin Language Variants](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/) -了解如何将Gremlin嵌入宿主编程语言.
-* [SQL2Gremlin](http://sql2gremlin.com/) -使用通过SQL查询数据时发现的典型模式学习Gremlin.
+* [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 * [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) -将关系数据库与图形数据库进行比较，并将SQL与Gremlin进行比较.
 * [Graph](https://github.com/krlawrence/graph) -图形数据库，Gremlin和TinkerPop-教程.
 

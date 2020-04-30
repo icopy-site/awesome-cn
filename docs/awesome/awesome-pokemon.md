@@ -34,7 +34,7 @@
 - [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#.
 - [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) -神奇宝贝GO API for Java.
 - [Pokemon Name API](https://github.com/sindresorhus/pokemon) -获取JSON中的神奇宝贝名称的列表.
-- [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) -JSON中的PokémonGO的Pokédex.
+- [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) -神奇宝贝GO的神奇宝贝JSON.
 - [PokeTypes](https://github.com/fbosch/poke-types) -获取神奇宝贝的类型，弱点和长处.
 - [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) -使用Kotlin构建的Pokedex应用.
 
@@ -42,23 +42,23 @@
 - [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) -神奇宝贝战斗模拟器.
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) -神奇宝贝之类的iOS游戏具有基于位置的服务.
 - [pokemon-online](https://github.com/po-devs/pokemon-online) -在线神奇宝贝战斗模拟器.
-- [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) -识别并显示《神奇宝贝随机播放》游戏最佳下一步动作的程序.
+- [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) -一个程序，用于识别和显示游戏神奇宝贝随机播放的最佳下一步.
 - [pokecry](https://github.com/fent/pokecry) -从他们的哭泣中猜猜神奇宝贝.
 
 #### Bots
-- [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) -神奇宝贝GO机器人，可以在Pokestops和Pokémon中使用.
+- [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) -可以在Pokestops和Pokémon中使用的PokémonGO机器人.
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) -在Slack中进行神奇宝贝战斗的机器人.
 - [PokeSlack](https://github.com/timwah/pokeslack) -提醒您附近的神奇宝贝.
 - [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) -模仿Twitch的机器人玩神奇宝贝.
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) -PokémonGO机器人脚本，与社区合作.
-- [Poketrainer](https://github.com/j-e-k/poketrainer) -使用Python进行快速且功能丰富的机器人.
+- [Poketrainer](https://github.com/j-e-k/poketrainer) -使用Python快速且功能丰富的机器人.
 - [PokeBot](https://github.com/akbaryahya/PokeBot) -神奇宝贝自动跑步机.
 - [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) -玩神奇宝贝GO的机器人.
 - [Bot Builder for PokemonGoBot](https://github.com/shilch/pogobot-builder) -只需构建您的PokémonGO机器人即可.
 - [PokeBuddy](https://github.com/finndev/PokeBuddy) -神奇宝贝GO机器人.
 
 #### Miscellaneous
-- [alfred-pokedex](https://github.com/vutran/alfred-pokedex) -Alfred 3工作流程以查找有关神奇宝贝的信息.
+- [alfred-pokedex](https://github.com/vutran/alfred-pokedex) -Alfred 3工作流程，用于查找有关神奇宝贝的信息.
 - [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) -为您的超级终端量身定制的神奇宝贝主题.
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) -安全地或在不可用的地方玩神奇宝贝GO.
 - [pokecrystal](https://github.com/pret/pokecrystal) -拆卸神奇宝贝水晶.
@@ -67,20 +67,21 @@
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) -神奇宝贝Red和PokémonCrystal的编译和拆卸工具.
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) -神奇宝贝GO MITM代理.
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) -带有实时编辑器的WebGLPokémonMMO引擎.
-- [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) -向您显示确定哪个神奇宝贝磨成糖果所需的IV和信息.
-- [PoGoTools](https://github.com/nelsyeung/PoGoTools) -一套用于获取IV，转移神奇宝贝，不断发展的神奇宝贝以及丢弃物品的CLI工具.
+- [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) -向您显示确定哪种神奇宝贝磨成糖果所需的IV和信息.
+- [PoGoTools](https://github.com/nelsyeung/PoGoTools) -一套用于获取IV，转移神奇宝贝，进化神奇宝贝以及丢弃物品的CLI工具.
 - [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) -Node.js应用程序，用于检查PokémonGO服务器的响应能力.
 - [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) -一种将所有神奇宝贝上传到Slack表情符号的工具.
 - [slack-emoji-pokemon](https://github.com/Templarian/slack-emoji-pokemon) -Slack的神奇宝贝表情符号列表.
 - [PokemonGO-IV-Renamer](https://github.com/Boren/PokemonGO-IV-Renamer) -自动将您的神奇宝贝重命名为其IV状态.
-- [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) -从Genymotion设备上播放PokémonGO.
+- [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) -在Genymotion设备上播放PokémonGO.
 - [pokemongo-game-master](https://github.com/BrunnerLivio/pokemongo-game-master) -神奇宝贝GO Game Master版本的集合.
 - [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) -iTerm2的神奇宝贝终端主题.
 - [pokemon-cli](https://github.com/sindresorhus/pokemon-cli) -CLI获取神奇宝贝名称.
+- [pokesprite](https://github.com/msikma/pokesprite) -核心系列游戏中的神奇宝贝精灵数据库，包括自定义闪亮版本.
 
 ## Resources & Others
 #### Communities
-- [/r/pokemongo](https://www.reddit.com/r/pokemongo/) -神奇宝贝GO子网.
+- [/r/pokemongo](https://www.reddit.com/r/pokemongo/) -神奇宝贝GO Subreddit.
 - [/r/pokemongodev](https://www.reddit.com/r/pokemongodev) -逆向工程游戏/ API.
 - [/r/thesilphroad](https://www.reddit.com/r/thesilphroad) -非常深入的游戏讨论等.
 - [RazerGo](https://go.razerzone.com/) -本地化的神奇宝贝GO聊天.
@@ -112,7 +113,7 @@
 - [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) -神奇宝贝GO：您需要知道的10个秘籍，技巧和窍门.
 
 #### Wiki
-- [Pokedex](https://github.com/veekun/pokedex) -有关神奇宝贝的知识比您想知道的要多.
+- [Pokedex](https://github.com/veekun/pokedex) -关于神奇宝贝的知识比您想知道的要多.
 - [Pokedex.org](https://github.com/nolanlawson/pokedex.org) -具有离线功能的Pokédex网站https://www.pokedex.org.
 - [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 - [Pokémon GO Wiki](https://pkmngowiki.com/)
@@ -132,4 +133,4 @@
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Tobias Bueschel](http://github.com/tobiasbueschel) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Tobias Bueschel](http://github.com/tobiasbueschel) 已放弃此作品的所有版权以及相关或邻近的权利.

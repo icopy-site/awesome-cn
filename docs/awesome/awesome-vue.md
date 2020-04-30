@@ -1544,7 +1544,7 @@
  - [vue-swipe-tabs](https://github.com/zhangxiang958/vue-tab) -vue.js（vue2）的轻触标签选项卡组件.
  - [vue-tabs-component](https://github.com/spatie/vue-tabs-component) -使用Vue显示标签的简单方法.
  - [vue-k-tabs](https://github.com/kevindesousa/vue-k-tabs) -具有Gitlab设计的简单选项卡组件.
- - [vue-tabs-with-active-line](https://github.com/karambafe/vue-tabs-with-active-line) -简单的Vue 2组件，可让您制作带有移动底线的标签
+ - [vue-tabs-with-active-line](https://github.com/karambafe/vue-tabs-with-active-line) - Simple Vue 2 component, that allows you to make tabs with moving bottom line
  - [vue-tabs-chrome](https://github.com/viewweiwu/vue-tabs-chrome) -类似于Chrome的标签的Vue组件.
  - [vue-tiny-tabs](https://github.com/mevinoth/vue-tiny-tabs) -极简的Tab组件，如tinytabs Vuejs包装器（大小&lt;3.1kb）
 
@@ -1696,7 +1696,7 @@
  - [v-image](https://github.com/vinayakkulkarni/v-image) ：camera：输入类型=文件的微小组件（&lt;1kb，gzip压缩）
  - [@voerro/vue-tagsinput](https://github.com/AlexMordred/vue-tagsinput) 一个简单的标签输入带有预输入/自动完成功能的Vue.js 2组件
  - [vue-tag-selector](https://github.com/tomquinonero/vue-tag-selector)  -标签式输入.  轻便，可自定义并处理REGEX验证！
-
+ - [vue-input-text-to-tags](https://github.com/leepyng/vue-input-text-to-tags) -可以为结果显示创建标签的输入组件
 
 ##### Color Picker
 
@@ -1723,7 +1723,7 @@
 
 ##### Masked Input
 
-- [vue-masked-input](https://github.com/niksmr/vue-masked-input) - Masked input component for Vue.js.
+- [vue-masked-input](https://github.com/niksmr/vue-masked-input) -Vue.js的屏蔽输入组件.
 - [vue-text-mask](https://github.com/text-mask/text-mask) -用于React，Angular，Ember，Vue和普通JavaScript的输入掩码.
 - [vue-ip-input](https://github.com/lakb248/vue-ip-input) -由vuejs实现的ip输入.
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) -输入字段组件以显示基于Vue的货币值.
@@ -1879,7 +1879,7 @@
 
  - [vue-easeljs](http://github.com/dankuck/vue-easeljs) -对HTML5 canvas元素的数据驱动控件.
  - [vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) -Vue.js的简单画布效果集合.
- - [vue-konva](https://github.com/rafaesc/vue-konva) -Vue＆Canvas-JavaScript库，用于使用Vue绘制复杂的画布图形.
+ - [vue-konva](https://github.com/rafaesc/vue-konva) - Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.
  - [vue-html2canvas](https://github.com/mycure-inc/vue-html2canvas) -Vue mixin捕获html并使用Html2Canvas将其转换为图像.
  - [vue-canvas-nest](https://github.com/ZYSzys/vue-canvas-nest) -用于画布嵌套的Vue.js组件.
  - [vue-signature-pad](https://github.com/neighborhood999/vue-signature-pad) -Vue签名板组件
@@ -2164,7 +2164,7 @@
 - [vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll) -Vue.js 2.0的自动滚动到底部指令.
 - [vue-scrollto](https://github.com/rigor789/vue-scrollTo) -添加指令以监听点击事件并滚动到元素.
 - [vue-next-level-scroll](https://github.com/Developmint/vue-next-level-scroll) -使用现代Scroll行为API的基于组件且SSR就绪的方法来平滑滚动
-- [vue-scroll-sync](https://github.com/metawin-m/vue-scroll-sync) -同步容器滚动位置的组件
+- [vue-scroll-sync](https://github.com/metawin-m/vue-scroll-sync) - A component that synchronizes containers’ scroll positions
 - [v-scroll-lock](https://github.com/phegman/v-scroll-lock) -用于主体滚动锁定而不中断目标元素滚动的Vue.js指令
 - [vue2-perfect-scrollbar](https://github.com/mercs600/vue2-perfect-scrollbar) -PerfectScrollbar简约包装
 - [vue-scroll-to](https://github.com/KevinHoughton/vue-scroll-to) -添加指令以监听点击事件并滚动到元素.
@@ -2202,7 +2202,7 @@
 
 *无缝滚动*
 
-- [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
+- [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -Vue.js的简单无缝​​滚动.
 
 #### Routing
 
@@ -2648,7 +2648,7 @@ the amazing Vue.js.
 - [vue-injector](https://github.com/Scandltd/vue-injector) -Vue 2.x的依赖注入
 - [vue-subslot](https://github.com/privatenumber/vue-subslot) -Vue组件，可以从插槽中选择所需的东西
 - [vue-timed-content](https://github.com/dannyfeliz/vue-timed-content) -根据给定的时间范围和时区显示或隐藏内容.
-- [vue-live](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
+- [vue-live](https://github.com/vue-styleguidist/vue-live) -受实时响应启发的演示组件的组件.
 
 #### Web Workers
 
@@ -2748,7 +2748,7 @@ the amazing Vue.js.
  - [vue-cli-plugin-component](https://github.com/David-Desmaisons/vue-cli-plugin-component) -Vue CLI 3插件来创建组件
  - [vue-cli-plugin-modular-vuex](https://github.com/PureConstructs/vue-cli-plugin-modular-vuex) -Vue CLI 3插件来创建模块化Vuex存储文件
  - [vue-cli-plugin-modular-router](https://github.com/PureConstructs/vue-cli-plugin-modular-router) -Vue CLI插件来创建模块化路由文件
- - [vue-cli-plugin-docker-nginx](https://github.com/truefalse10/vue-cli-plugin-docker-nginx) - Vue CLI Plugin to add a docker deployment using a minimal nginx server
+ - [vue-cli-plugin-docker-nginx](https://github.com/truefalse10/vue-cli-plugin-docker-nginx) -Vue CLI插件，使用最少的nginx服务器添加docker部署
  - [vue-cli-plugin-element](https://github.com/codetrial/vue-cli-plugin-element) -Vue CLI 3插件可在几秒钟内使用element-ui构建企业应用程序
  - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) -适用于Electron的Vue CLI 3插件，无需使用Electron Builder的必需配置.
  - [vue-cli-plugin-codeceptjs-puppeteer](https://github.com/codecept-js/vue-cli-plugin-codeceptjs-puppeteer) -安装CodeceptJS和Puppeteer进行增压的2端测试 

@@ -19,7 +19,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 
 ## Climate
 
-* [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *（1880-2015年与1901-2000年平均值）*
+* [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *（1880-2015年与1901-2000年平均值的对比）*
 * [US Annual Average Temperature and Anomaly](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *（1880-2015（vs. 1901-2000 Average）*
 * [Contiguous US Annual Precipitation](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1895-2015)*
 
@@ -35,13 +35,11 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Los Angeles (historical data since 2010)](https://data.lacity.org/api/views/y8tr-7khq/rows.json?accessType=DOWNLOAD)
 
 ## Currency
-* [VAT rates for EU](http://jsonvat.com/)
 * [Exchange Rate API](https://www.exchangerate-api.com)
   * [USD](https://api.exchangerate-api.com/v4/latest/USD)
   * [GBP](https://api.exchangerate-api.com/v4/latest/GBP)
 
 ## Gaming
-* [BattleField 4 Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
 * [Pokémon](https://pokeapi.co/docsv2/)
   * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *（用所需的神奇宝贝编号替换`1`）*
   * [Types](http://pokeapi.co/api/v2/type/1/) *（用另一个数字替换“ 1”以检索不同的类型）*
@@ -62,14 +60,11 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [Meta](https://api.github.com/meta)
 
 ## Government
-* [Trade.gov](http://developer.trade.gov/api/trade-apis.json)
-  * [Business Service Providers](http://developer.trade.gov/api/business-service-providers.json)
-  * [Consumer Complaint Database](http://data.consumerfinance.gov/api/views.json)
 *美国政客
   * [Current US Senators](https://www.govtrack.us/api/v2/role?current=true&role_type=senator)
   * [Current US Representatives](https://www.govtrack.us/api/v2/role?current=true&role_type=representative&limit=438)
 
-&gt;提示： [GovTrack](https://www.govtrack.us/) 提供一个 [powerful API](https://www.govtrack.us/developers/api) 用于查看国会，唱名册和账单上的数据.
+&gt;提示： [GovTrack](https://www.govtrack.us/) 提供一个 [powerful API](https://www.govtrack.us/developers/api) 用于查看国会，唱名册和账单上的数据
 
 * 司法部
   * [Blog Entries](https://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
@@ -82,16 +77,8 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Government Roles](https://data.parliament.scot/api/governmentroles)
   * [Members](https://data.parliament.scot/api/members)
 
-&gt;专业提示：您可以在**做更多** [http://parliamentdata.ca/](http://parliamentdata.ca/)
+&gt;专家提示：您可以在**做更多** [http://parliamentdata.ca/](http://parliamentdata.ca/)
 
-*欧盟游说透明度登记册
-  * [Country](http://api.lobbyfacts.eu/api/1/country)
-  * [Entity](http://api.lobbyfacts.eu/api/1/entity)
-  * [Representative](http://api.lobbyfacts.eu/api/1/representative)
-  * [Person](http://api.lobbyfacts.eu/api/1/person)
-  * [Category](http://api.lobbyfacts.eu/api/1/category)
-  * [Financial](http://api.lobbyfacts.eu/api/1/financial_data)
-  * [Accreditation](http://api.lobbyfacts.eu/api/1/accreditation)
 *印度政府
   * [State Codes](http://vocab.nic.in/rest.php/states/json)
   * [Consumer Price Index](https://data.gov.in/node/1084041/datastore/export/json)
@@ -102,11 +89,6 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [ABC Local Stations](http://data.gov.au/geoserver/abc-local-stations/wfs?request=GetFeature&typeName=ckan_d534c0e9_a9bf_487b_ac8f_b7877a09d162&outputFormat=json)
   * [VIC Police Station Locations](http://data.gov.au/geoserver/police-station-locations/wfs?request=GetFeature&typeName=762b47b2_e706_4cab_b0c7_cf8e406aefc1&outputFormat=json)
   * [Museums Victoria Collections](https://collections.museumvictoria.com.au/api/search)
-*阿姆斯特丹
-  * [Shops](http://open.datapunt.amsterdam.nl/Shoppen.json)
-  * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
-  * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
-
 *西班牙
   * [Province of Madrid Municipalities](https://datos.comunidad.madrid/catalogo/dataset/032474a0-bf11-4465-bb92-392052962866/resource/301aed82-339b-4005-ab20-06db41ee7017/download/municipio_comunidad_madrid.json)
   * [Province of Barcelona Municipalities](https://do.diba.cat/api/dataset/municipis/format/json2)
@@ -126,7 +108,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Romanian](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=ro)
   * [Turkish](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=tr)
 
- &gt;专家提示：您可以在URL中更改`begin_date`和`end_date`来获取特定时间间隔内的事件.  更多的选择 [here](http://www.vizgr.org/historical-events/).
+ &gt;专家提示：您可以在URL中更改`begin_date`和`end_date`以获取特定时间间隔内的事件.  更多选择 [here](http://www.vizgr.org/historical-events/).
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
@@ -138,9 +120,9 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [cookies](http://httpbin.org/cookies)
 * [stream](http://httpbin.org/stream/10)
 * [delay](http://httpbin.org/delay/3)
-* [cache](http://httpbin.org/cache/60) *（`60` ===`60秒`）*
+* [cache](http://httpbin.org/cache/60) *（`60` ===`60秒
 
-&gt;专业提示：您可以在**做更多** [http://httpbin.org](http://httpbin.org/).
+&gt;专家提示：您可以在**做更多** [http://httpbin.org](http://httpbin.org/).
 
 ## NASA
 * [ISS Current Location](http://api.open-notify.org/iss-now.json)
@@ -174,31 +156,6 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 
 ## Population
 
-*今天的总人口
-  * [Earth](http://api.population.io/1.0/population/World/today-and-tomorrow/?format=json)
-  * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/?format=json)
-  * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/?format=json)
-  * [Germany](http://api.population.io/1.0/population/Germany/today-and-tomorrow/?format=json)
-  * [Greece](http://api.population.io/1.0/population/Greece/today-and-tomorrow/?format=json)
-  * [Italy](http://api.population.io/1.0/population/Italy/today-and-tomorrow/?format=json)
-  * [Japan](http://api.population.io/1.0/population/Japan/today-and-tomorrow/?format=json)
-  * [Kenya](http://api.population.io/1.0/population/Kenya/today-and-tomorrow/?format=json)
-  * [Mexico](http://api.population.io/1.0/population/Mexico/today-and-tomorrow/?format=json)
-  * [Poland](http://api.population.io/1.0/population/Poland/today-and-tomorrow/?format=json)
-  * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/?format=json)
-  * [United States](http://api.population.io/1.0/population/United%20States/today-and-tomorrow/?format=json)
-
-&gt;专业提示： [List of all Countries](http://api.population.io/1.0/countries) 已追踪
-
-*美国人口表（0-100岁）
-    * [1950](http://api.population.io/1.0/population/1950/United%20States/?format=json)
-    * [1960](http://api.population.io/1.0/population/1960/United%20States/?format=json)
-    * [1970](http://api.population.io/1.0/population/1970/United%20States/?format=json)
-    * [1980](http://api.population.io/1.0/population/1980/United%20States/?format=json)
-    * [1990](http://api.population.io/1.0/population/1990/United%20States/?format=json)
-    * [2000](http://api.population.io/1.0/population/2000/United%20States/?format=json)
-    * [2010](http://api.population.io/1.0/population/2010/United%20States/?format=json)
-
 *历史人口（自1960年以来）
   * [China](http://api.worldbank.org/countries/CHN/indicators/SP.POP.TOTL?per_page=5000&format=json)
   * [India](http://api.worldbank.org/countries/IND/indicators/SP.POP.TOTL?per_page=5000&format=json)
@@ -228,8 +185,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 &gt;专业提示：您可以将.json附加到任何subreddit网址.
 
 ## Travel
-* [Global Airfields](https://ckannet-storage.commondatastorage.googleapis.com/2014-12-13T15:15:31.729Z/airfields.json)
-* [Monthly Airline Delays by Airport, 2003-2016](https://think.cs.vt.edu/corgis/json/airlines/airlines.json)
+* [Monthly Airline Delays by Airport, 2003-2016](https://think.cs.vt.edu/corgis/datasets/json/airlines/airlines.json)
 * FAA机场状态
   * [SFO](http://services.faa.gov/airport/status/SFO?format=application/json)
   * [LAX](http://services.faa.gov/airport/status/LAX?format=application/json)
@@ -263,7 +219,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [Rick and Morty (Adult Swim)](http://api.tvmaze.com/singlesearch/shows?q=rick-&-morty&embed=episodes)
 * [Westworld (HBO)](http://api.tvmaze.com/singlesearch/shows?q=westworld&embed=episodes)
 
- &gt;专业提示：替换未列出的节目的字段值，例如“ shows？q = show-name”.  更多的选择 [here](http://www.tvmaze.com/api)
+ &gt;专业提示：替换未列出的节目的字段值，例如“ shows？q = show-name”.  更多选择 [here](http://www.tvmaze.com/api)
 
 *里克和莫蒂
   * [Get all characters](https://rickandmortyapi.com/api/character/)
@@ -295,4 +251,4 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [MaxCDN](https://www.maxcdn.com) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [MaxCDN](https://www.maxcdn.com) 已放弃此作品的所有版权以及相关或邻近的权利.

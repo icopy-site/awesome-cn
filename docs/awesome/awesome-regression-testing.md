@@ -26,7 +26,7 @@
 - [SlimerJS](https://github.com/laurentj/slimerjs) -基于Firefox的可编写脚本的浏览器，例如PhantomJS.
 - [trifleJS](https://github.com/sdesalas/trifleJS) -Internet Explorer的无头自动化.
 - [CasperJS](https://github.com/casperjs/casperjs) -用于PhantomJS和SlimerJS的导航脚本和测试实用程序.
-- [Webdriver.io](https://github.com/webdriverio/webdriverio/) -W3C WebDriver协议的Node.js绑定实现.
+- [Webdriver.io](https://github.com/webdriverio/webdriverio/) - Node.js bindings implementation for the W3C WebDriver protocol.
 - [Navalia](https://github.com/joelgriffith/navalia) -基于无头Chrome和GraphQL的浏览器自动化.
 - [Chromeless](https://github.com/graphcool/chromeless)  -Chrome自动化变得简单.  在AWS Lambda上本地运行或无头运行.
 - [Cypress.io](https://www.cypress.io/) -在浏览器中运行的自动化框架.
@@ -86,7 +86,6 @@
 - [applitools](https://applitools.com) -云基础视觉测试.
 - [percy.io](https://percy.io) -对Web应用程序进行连续的视觉检查.
 - [screenster.io](http://screenster.io) -用于Web和移动UI的基于云的自动化测试平台.
-- [MogoTest](http://mogotest.com) -针对SEO专家的网站浏览器测试工具.
 - [browserling](https://www.browserling.com) -实时交互式跨浏览器测试.
 - [Browser Shots](http://browsershots.org) -仅屏幕截图.
 - [Ghost Inspector](https://ghostinspector.com) -看 [introduction video](https://vimeo.com/ghostinspector/intro).
@@ -128,7 +127,7 @@
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) -有关如何使用Screenster创建视觉自动化测试的教程.
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) -演示外观类似的Chrome扩展程序是什么，如何工作以及构建的方式和原因.
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) -如何与CSS评论家一起编写您的第一个CSS测试，使其通过，中断并再次通过.
-- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者：Nikhil Verma-Badoo的移动Web团队如何将PhantomCSS转换并集成到他们的工作流程中，并将其连接到CI流程.
+- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者：Nikhil Verma-Badoo的移动网络团队如何将PhantomCSS转换并集成到他们的工作流程中，并将其连接到他们的CI流程.
 
 ## Deprecated
 
@@ -143,11 +142,11 @@
 
 ### Contributing
 
-See the [Contribution Guide](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CONTRIBUTING.md) 有关如何贡献的详细信息.
+看到 [Contribution Guide](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CONTRIBUTING.md) 有关如何贡献的详细信息.
 
 ### Code of Conduct
 
-See the [Code of Conduct](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CODE-OF-CONDUCT.md)  有关详细信息.  基本上可以归结为：
+看到 [Code of Conduct](https://github.com/mojoaxel/awesome-regression-testing/blob/master/.github/CODE-OF-CONDUCT.md)  有关详细信息.  基本上可以归结为：
 &gt;为了营造开放和热情的环境，我们
 贡献者和维护者承诺参与我们的项目，
 我们的社区为每个人提供无骚扰的体验，无论其年龄，身体如何
