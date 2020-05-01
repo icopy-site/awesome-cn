@@ -111,6 +111,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ### Accessibility
 
+- [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
 - [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 - [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 - [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
@@ -197,10 +198,15 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Using Web Components in Angular](https://coryrylan.com/blog/using-web-components-in-angular)
 - [Web Components With Angular Ivy In 6 Steps](https://www.softwarearchitekt.at/post/2019/05/18/web-components-custom-elements-with-angular-ivy-in-6-steps.aspx)
 
+### React
+
+- [How to use Web Components in React](https://www.robinwieruch.de/react-web-components)
+
 ### Vue
 
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
+- [Integrate Web Components with Your Vue.js App](https://alligator.io/vuejs/vue-integrate-web-components/)
 - [Using Web Components in Vue](https://coryrylan.com/blog/using-web-components-in-vue)
 
 ## Tools

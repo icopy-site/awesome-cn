@@ -74,7 +74,7 @@
 * [indradb](https://crates.io/crates/indradb) -基于Rust的图形数据库 [<img src="https://api.travis-ci.org/indradb/indradb.svg?branch=master">](https://travis-ci.org/indradb/indradb)
 * [noria](https://crates.io/crates/noria) —动态更改Web应用程序后端的部分状态数据流 [<img src="https://api.travis-ci.org/mit-pdos/noria.svg?branch=master">](https://travis-ci.org/mit-pdos/noria)
 * [Lucid](https://github.com/lucid-kv/lucid) —可通过HTTP API访问的高性能分布式KV存储. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
-* [ParityDB](https://github.com/paritytech/paritydb) —快速可靠的数据库，针对读取操作进行了优化
+* [ParityDB](https://github.com/paritytech/parity-db) —快速可靠的数据库，针对读取操作进行了优化
 
 ### Emulators
 
@@ -121,6 +121,7 @@
 * [rhex](https://github.com/dpc/rhex) —六角形的asguei roguelike
 * [Veloren](https://gitlab.com/veloren/veloren) —目前正在Alpha开发中的开放世界，开源多人体素RPG游戏 [<img src="https://gitlab.com/veloren/veloren/badges/master/pipeline.svg">](https://gitlab.com/veloren/veloren/commits/master)
 * [swatteau/sokoban-rs](https://github.com/swatteau/sokoban-rs) —推箱子的实现
+* [KostasKyriakou/snake_game](https://github.com/KostasKyriakou/snake_game) -用Rust写的简单的终端蛇游戏.
 
 ### Graphics
 
@@ -296,7 +297,7 @@
   * [lldb_batchmode.py](https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py) —允许以类似于GDB批处理模式的方式使用LLDB.
   * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) —的LLDB扩展 [Visual Studio Code](https://code.visualstudio.com/).
 * rr
-  * [rr](https://rr-project.org/) — rr是用于记录和重放应用程序执行的轻量级工具
+  * [rr](https://rr-project.org/) — rr is a lightweight tool for recording and replaying execution of applications
 
 ### Deployment
 
@@ -366,8 +367,6 @@
   * [getsentry/milksnake](https://github.com/getsentry/milksnake) — python setuptools的扩展，允许您以可想象的最便捷的方式在Python轮子中分发动态链接库.
   * [dgrunwald/rust-cpython](https://raw.githubusercontent.com/dgrunwald/rust-cpython) — Python绑定 [<img src="https://api.travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
   * [PyO3/PyO3](https://raw.githubusercontent.com/PyO3/PyO3) — Python解释器的Rust绑定 [<img src="https://api.travis-ci.org/PyO3/pyo3.svg?branch=master">](https://travis-ci.org/PyO3/pyo3)
-* R
-  * [rustr/rustr](https://raw.githubusercontent.com/rustr/rustr) -使用R中的Rust，并在Rust中使用R [<img src="https://api.travis-ci.org/rustr/rustr.svg?branch=master">](https://travis-ci.org/rustr/rustr)
 *红宝石
   * [d-unseductable/ruru](https://raw.githubusercontent.com/d-unseductable/ruru) —用Rust编写的本机Ruby扩展 [<img src="https://api.travis-ci.org/d-unseductable/ruru.svg?branch=master">](https://travis-ci.org/d-unseductable/ruru)
   * [danielpclark/rutie](https://github.com/danielpclark/rutie) —用Rust编写的本机Ruby扩展，反之亦然 [![Build Status](https://api.travis-ci.org/danielpclark/rutie.svg?branch=master)](https://travis-ci.org/danielpclark/rutie)
@@ -730,7 +729,7 @@
 
 ### Data structures
 
-* [contain-rs](https://github.com/contain-rs) — Rust的std :: collections的扩展
+* [contain-rs](https://github.com/contain-rs) — Extension of Rust's std::collections
 * [mrhooray/kdtree-rs](https://github.com/mrhooray/kdtree-rs) — Rust中的K维树，用于快速地理空间索引和最近邻居查找
 * [pop-os/progress-streams](https://github.com/pop-os/progress-streams) —实现“ dyn io :: Read”或“ dyn io :: Write”的类型的进度回调.
 * [whitfin/usher](https://github.com/whitfin/usher) [[usher](https://crates.io/crates/usher)] — Rust中通用资源的参数化路由.
@@ -1173,7 +1172,7 @@
   * [GildedHonour/frank_jwt](https://raw.githubusercontent.com/GildedHonour/frank_jwt) — Rust中的JSON Web令牌实现. [<img src="https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master">](https://travis-ci.org/GildedHonour/frank_jwt)
   * [handlebars-rust](https://raw.githubusercontent.com/sunng87/handlebars-rust) — Iron Web框架中间件. [<img src="https://api.travis-ci.org/sunng87/handlebars-iron.svg?branch=master">](https://travis-ci.org/sunng87/handlebars-iron)
   * [Iron](https://raw.githubusercontent.com/iron/iron) —基于中间件的服务器框架 [<img src="https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master">](https://travis-ci.org/GildedHonour/frank_jwt)
-  * [Juniper](https://raw.githubusercontent.com/graphql-rust/juniper) —用于Rust的GraphQL服务器库 [<img src="https://api.travis-ci.org/graphql-rust/juniper.svg?branch=master">](https://travis-ci.org/graphql-rust/juniper)  
+  * [Juniper](https://raw.githubusercontent.com/graphql-rust/juniper) —用于Rust的GraphQL服务器库 [<img src="https://api.travis-ci.org/graphql-rust/juniper.svg?branch=master">](https://travis-ci.org/graphql-rust/juniper)
   * [Nickel](https://raw.githubusercontent.com/nickel-org/nickel.rs/) -受启发 [Express](http://expressjs.com/) [<img src="https://api.travis-ci.org/nickel-org/nickel.rs.svg?branch=master">](https://travis-ci.org/nickel-org/nickel.rs)
   * [Ogeon/rustful](https://raw.githubusercontent.com/Ogeon/rustful) — Rust的RESTful Web框架  [<img src="https://api.travis-ci.org/Ogeon/rustful.svg?branch=master">](https://travis-ci.org/Ogeon/rustful)
   * [Rocket](https://raw.githubusercontent.com/SergioBenitez/Rocket) —火箭是Rust的Web框架（每晚），重点是易用性，可表达性和速度 [<img src="https://api.travis-ci.org/SergioBenitez/Rocket.svg?branch=master">](https://travis-ci.org/SergioBenitez/Rocket)
@@ -1204,7 +1203,7 @@
   * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) [[sozu](https://crates.io/crates/sozu)] — HTTP反向代理. [![Build Status](https://api.travis-ci.org/sozu-proxy/sozu.svg?branch=master)](https://travis-ci.org/sozu-proxy/sozu)
 *静态网站生成器
   * [getzola/zola](https://github.com/getzola/zola) [[zola](https://www.getzola.org/)]-具有内置功能的自觉静态站点生成器. [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build/latest?definitionId=1&branchName=master)
-  * [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) —用Rust编写的静态站点生成器 [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build/latest?definitionId=2&branchName=master)
+  * [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) — Static site generator written in Rust [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build/latest?definitionId=2&branchName=master)
   * [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) — Markdown文件中的静态站点生成器.
   * [leven-the-blog/leven](https://raw.githubusercontent.com/leven-the-blog/leven) [[leven](https://crates.io/crates/leven)] —一个简单的并行化博客生成器. [<img src="https://api.travis-ci.org/quadrupleslap/leven.svg?branch=master">](https://travis-ci.org/quadrupleslap/leven)
 

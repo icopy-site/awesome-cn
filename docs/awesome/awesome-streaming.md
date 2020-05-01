@@ -18,7 +18,7 @@
 - [Apache Samza](https://github.com/apache/samza) [Scala / Java]-基于Kafka（消息，存储）和YARN（容错，处理器隔离，安全性和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala]-使构建可扩展的容错流应用程序变得容易.
 - [Apache Storm](https://github.com/apache/storm)  [Clojure / Java]-分布式实时计算系统.  Storm是流处理，而Hadoop是批处理. 
-- [AthenaX](https://github.com/uber/AthenaX) [Java]-生产中使用的Uber流分析框架
+- [AthenaX](https://github.com/uber/AthenaX) [Java] - Uber's Stream Analytics Framework used in production
 - [Faust](https://github.com/robinhood/faust) [Python]-流处理库，将想法从Kafka Streams移植到Python
 - [Gearpump](https://github.com/gearpump/gearpump) [Scala]-基于Akka构建的轻量级实时分布式流引擎.
 - [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) [Java]-基于Hazelcast构建的通用分布式数据处理引擎.
@@ -56,7 +56,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 
 ### IoT
 
-- [sensorbee](https://github.com/sensorbee/sensorbee) [Go] - lightweight stream processing engine for IoT.
+- [sensorbee](https://github.com/sensorbee/sensorbee) [开始]-物联网的轻量级流处理引擎.
 - [Apache Edgent](https://github.com/apache/incubator-edgent) [Java]-一种编程模型和运行时，可在网关和边缘设备上进行连续的流分析，可以与集中式系统一起使用，以在整个IoT生态系统中提供高效，及时的分析：从中心到边缘，由IBM开源.
 - [Apache StreamPipes](https://github.com/apache/incubator-streampipes) [Java]-自助（工业）IoT工具箱，使非技术用户可以连接，分析和探索IoT数据流.
 
@@ -72,10 +72,11 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 
 - [Apache Kafka](https://github.com/apache/kafka) [Scala / Java]-分布式，分区，复制的提交日志服务，该服务提供消息传递系统的功能，但具有独特的设计.
 - [Apache Pulsar](https://github.com/apache/incubator-pulsar) [Java]-具有非常灵活的消息传递模型和直观的客户端API的分布式pub-sub消息传递平台.
-- [brooklin](https://github.com/linkedin/Brooklin/) [Java]-一种分布式系统，旨在通过Linkedin（替代数据总线）实现大规模，高可靠性和吞吐量的各种异构源系统和目标系统之间的数据流.
+- [brooklin](https://github.com/linkedin/Brooklin/) [Java]-一种分布式系统，旨在通过Linkedin（替代数据总线）实现大规模，高可靠性和高吞吐量的各种异构源系统和目标系统之间的数据流.
 - [camus](https://github.com/linkedin/camus) [Java]-Linkedin的Kafka-&gt; HDFS管道.
 - [databus](https://github.com/linkedin/databus) [Java]-Linkedin的与源无关的分布式更改数据捕获系统.
 - [flume](https://github.com/apache/flume) [Java]-分布式，可靠且可用的服务，用于有效地收集，聚集和移动大量日志数据.
+- [Gazette](https://github.com/gazette/core) [golang]-基于云存储构建的分布式流式基础结构，可轻松混合和匹配批处理和流式范例.
 - [LogDevice](https://logdevice.io/) [C ++]-Facebook的高性能分布式系统，用于使用日志结构流式传输和存储顺序数据.
 - [metaq](https://github.com/killme2008/Metamorphosis) [Java]-淘宝的高可用性，高性能分布式消息传递系统
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [开始]-快速的磁盘支持消息传递解决方案

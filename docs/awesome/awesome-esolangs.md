@@ -4,10 +4,10 @@
 
 <img src="https://raw.githubusercontent.com/angrykoala/awesome-esolangs/master/logo_piet.png" align="right">
 
-精选的深奥编程语言和资源清单.
+精选的深奥编程语言，资源和相关项目的清单.
 
 
-&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以被编程或作为玩笑，而不是实际使用.”  
+&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以编程或作为玩笑，而不是用于实际用途.”  
 &gt; *** esolang.org ***
 
 
@@ -34,7 +34,9 @@
 * [Fugue](https://esolangs.org/wiki/Fugue) -音乐作为源代码.
 * [Golfscript](http://www.golfscript.com/golfscript) -面向堆栈，旨在解决尽可能少的按键问题.
 * [Haifu](http://www.dangermouse.net/esoteric/haifu.html) -设计时考虑了复活节哲学的核心价值观.
-* [INTERCAL](http://www.catb.org/~esr/intercal/) -拟与其他语言完全不同的模仿语言.
+* [INTERCAL](http://www.catb.org/~esr/intercal) -拟与其他语言完全不同的模仿语言.
+* [Japt](https://github.com/ETHproductions/japt) -减少了JavaScript [golfing](https://en.wikipedia.org/wiki/Code_golf).
+* [Jelly](https://github.com/DennisMitchell/jellylanguage) - [Golfing](https://en.wikipedia.org/wiki/Code_golf) 基于J的语言
 * [JSFuck](https://github.com/aemkei/jsfuck) -基于JavaScript原子部分的神秘编程风格.
 * [Lazy K](https://tromp.github.io/cl/lazy-k.html) -最小，图灵完整的纯函数式语言，没有其他功能.
 * [LolCode](http://lolcode.org) -带有基于lolcat meme表达式的关键字的语言.
@@ -49,7 +51,7 @@
 * [Shakespeare](http://shakespearelang.sourceforge.net) -代码看起来像是莎士比亚戏剧的语言.
 * [Suzy](https://github.com/gvx/suzy) -以Befunge为灵感的3D语言.
 * [Thue](https://github.com/jcolag/Thue) -基于半确定语法的不确定字符串重写的* Matrioshka *语言.
-* [TrumpScript](https://github.com/samshadwell/TrumpScript) -基于特朗普的常用词.
+* [TrumpScript](https://github.com/samshadwell/TrumpScript) -使Python再次出色.
 * [Turtle](https://github.com/TypeMonkey/Turtle) -将长期存储用于内存使用.
 * [Unary](https://esolangs.org/wiki/Unary) -基于Brainfuck的语言，其中所有命令均为0.
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.

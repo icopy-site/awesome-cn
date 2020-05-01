@@ -50,6 +50,10 @@
 - [mos](https://github.com/zkochan/mos) -Markdown文件生成器和测试器（`$ mos test --tap`）.
 - [zora](https://github.com/lorenzofox3/zora) -TAP生产的测试运行程序，可在没有Babel的情况下与ES2015一起使用.
 
+### Swift
+
+- [TAP](https://github.com/swiftdocorg/tap) -适用于任何测试协议（v13）的Swift软件包.
+
 ### Fish
 
 - [Fishtape](https://github.com/fisherman/fishtape) -TAP生产商和鱼的测试装置.

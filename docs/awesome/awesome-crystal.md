@@ -387,6 +387,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [linalg](https://github.com/konovod/linalg) -受MATLAB和SciPy.linalg启发的线性代数库
  * [num.cr](https://github.com/crystal-data/num.cr) -支持N维数据的数值计算库
  * [predict.cr](https://github.com/RX14/predict.cr) -使用sgp4模型的卫星预测库
+ * [quartz](https://github.com/RomainFranceschini/quartz) -建模和仿真框架
 
 ## Search
  * [hermes](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch

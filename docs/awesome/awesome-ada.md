@@ -118,7 +118,8 @@
 
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) -全面.  
-<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.   
+<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.    
+<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41SQC2F542L._SX347_BO1,204,203,200_.jpg">[Ada 95: The Craft of Object-Oriented Programming](https://www.amazon.com/Ada-95-Craft-Object-Oriented-Programming/dp/0132303507) -一般，中级.    
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.springer.com/gp/book/9781848823136) - 数据结构.   
 <img height="50px" width="36px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9781848823136.jpg"> [Ada for Software Engineers](https://www.springer.com/gp/book/9781848823136) -成语，建筑.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805218/66972/cover/9780521866972.jpg">[Concurrent and Real-Time Programming in Ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71) -并发，容器，调度.   
@@ -126,7 +127,7 @@
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805211/97168/cover/9780521197168.jpg">[Building Parallel, Embedded, and Real-Time Applications with Ada](https://www.cambridge.org/core/books/building-parallel-embedded-and-real-time-applications-with-ada/9FC78A90F1B6A2228D69E32CE610A66C) -并发，分布式.    
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41HIwJp0ktL._SX336_BO1,204,203,200_.jpg">[Analysable Real-Time Systems: Programmed in Ada](https://www.amazon.com/Analysable-Real-Time-Systems-Programmed-Ada/dp/1530265509/ref=sr_1_2?ie=UTF8&qid=1544540272&sr=8-2&keywords=ada+programming+language) -排程.   
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811076/56840/cover/9781107656840.jpg">[Building High Integrity Applications with SPARK](https://www.cambridge.org/core/books/building-high-integrity-applications-with-spark/F213D9867D2E271F5FF3EDA765D48E95) -正式验证.    
-<img height="50px" width="36px" hspace="10px" src="https://static.lulu.com/browse/product_thumbnail.php?productId=22614818&resolution=320">[Ada and SPARK on ARM Cortex-M](http://www.lulu.com/shop/maciej-sobczak/ada-and-spark-on-arm-cortex-m/paperback/product-22614818.html) -嵌入式.  
+<img height="50px" width="36px" hspace="10px" src="https://assets.lulu.com/cover_thumbs/1/e/1erpwvkr-front-shortedge-384.jpg">[Ada and SPARK on ARM Cortex-M](http://www.lulu.com/shop/maciej-sobczak/ada-and-spark-on-arm-cortex-m/paperback/product-22614818.html) -嵌入式.  
 
 #### Specialties
 - [gems](https://www.adacore.com/gems/) -艾达宝石档案馆.
@@ -212,7 +213,7 @@
 #### VSCode Extensions
 - [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) -Ada语言对VS Code的支持.
 - [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) -Ada和GPR的基本语法突出显示.
-- [ada-utilities](https://github.com/Lucretia/ada-utilities)-VSCode扩展Ada程序员，提供了一些实用程序功能.
+- [ada-utilities](https://github.com/Lucretia/ada-utilities) -VSCode扩展Ada程序员，提供了一些实用程序功能.
 
 ## Deployment
 
@@ -603,7 +604,7 @@
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) -Tcl Ada SHell（Tash）是绑定到Tcl / Tk的Ada.
 - [tashy](https://github.com/thindil/tashy)  -Tashy比Tcl Ada SHell Younger矮.  它是Tash的派生产品，主要关注Tk绑定.
 - [hungarian](https://github.com/mosteo/hungarian) -Ada包装器，用于快速的Stachniss匈牙利求解器.
-- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) -Microsoft NetFramework API有绑定.
+- [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) -Microsoft NetFramework Fire具有绑定.
 
 ## License
 

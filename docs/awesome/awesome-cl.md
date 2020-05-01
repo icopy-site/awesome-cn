@@ -19,7 +19,7 @@ _awesome_ Common Lisp库的精选列表.
  这样.  标有a的库是我们喜欢并想要
  在Awesome-cl列表中进行推广.  他们证明是可靠的，他们可能会解决
 比社区标准更好的问题，但他们没有
- 普遍存在，或不被视为稳定.  例如，我们更喜欢
+ 普遍存在，或者不被认为是稳定的.  例如，我们更喜欢
 Cl-Who上的喷丝板.
 
  添加新的东西！  看到 [contributing](#contributing) 向其中添加内容的部分
@@ -94,7 +94,7 @@ Cryptocurrencies
 
 * [cl-monero-tools](https://github.com/glv2/cl-monero-tools)  -Common Lisp工具箱，可与Monero加密货币一起使用.  [GPL3] [2].  不在Quicklisp中.
 * [emotiq](https://github.com/emotiq/emotiq)  -下一代区块链，采用创新的自然语言方法处理智能合约.  [MIT] [200].
-* [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)  -解析文件中包含的区块链，并将其某些数据导出到文本文件，SQL脚本或数据库中.  它还可以使用Peercoin守护程序的RPC作为数据源而不是区块链文件来创建数据库.  LGPL3.  不在Quicklisp中.
+* [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser) - parse the blockchain contained in a file and export some of its data to a text file, a SQL script or a database. It can also create a database using the RPC of a Peercoin daemon as source of data instead of a blockchain file. LGPL3. Not in Quicklisp.
 * [peercoin-calculator](https://github.com/glv2/peercoin-calculator)  -该程序使您有可能在10分钟，24小时，31天，90天和1年内生成POS或POW块，并可以获得预期的奖励.  Qt中的GUI.  [GPL3] [2].  不在Quicklisp中.
 * [peercoin-vote](https://github.com/glv2/peercoin-vote)  -基于来自区块链的数据（地址和余额）的投票系统.  [GPL3] [2].  不在Quicklisp中.
 
@@ -139,6 +139,13 @@ Wrappers
 * [cl-disque](https://github.com/CodyReichert/cl-disque)  -客户端磁盘.  [3-BSD条款] [15].
 * [cl-rethinkdb](https://github.com/orthecreedence/cl-rethinkdb)  -RethinkDB客户端.  [Expat] [14].
 * [clouchdb](https://common-lisp.net/project/clouchdb/)  -用于与CouchDB进行交互的库.  [FreeBSD] [39].
+
+迁移工具
+---------------
+
+* [cl-migratum](https://github.com/dnaeon/cl-migratum)  -提供用于执行数据库模式迁移的工具的系统，旨在与各种数据库一起使用.  [BSD_3Clause] [15].
+* [postmodern-passenger-pigeon](https://github.com/fisxoj/postmodern-passenger-pigeon/)  -后现代的迁移经理.  未指定许可证.
+
 
 给第三方
 ----------------
@@ -240,7 +247,7 @@ Docker映像
 * [cl-mpg123](https://shirakumo.github.io/cl-mpg123) 和
   [cl-out123](https://shirakumo.github.io/cl-out123)，绑定
   分别用于libmpg123和libout123的库
-  and easy to use mp3 decoding and cross-platform audio
+  易于使用的mp3解码和跨平台音频
    输出.  [Artistic License 2.0] [47].
 * [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) –通过这种小型框架，您将能够制作简单的2D游戏：绘制基本的几何形式，图像和文本，播放声音以及收听鼠标和键盘输入.
 * [cl-gamepad](https://shirakumo.github.io/cl-gamepad)  -在Windows，Mac OS和Linux上访问游戏手柄和操纵杆.  [Artistic License 2.0] [51].
@@ -406,7 +413,7 @@ Iteration
   与迭代不同，它不需要代码遍历并且更容易
    延伸.  [Artistic License 2.0] [51].
 * [series](https://github.com/tokenrove/series/wiki)  -功能样式，完全没有任何运行时损失.  [MIT] [200].
-* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp)  -简洁且可扩展的迭代工具，具有与FSet很好地集成的优势（请参阅“数据结构”部分），正如同一作者所写.  在Quicklisp中，是`misc-extensions`的一部分.  公共区域.
+* [gmap](https://github.com/slburson/misc-extensions/blob/master/src/gmap.lisp) - A concise and extensible iteration facility that has the advantage of integrating well with FSet (see the Data Structures section), as it was written by the same author. In Quicklisp as part of `misc-extensions`. Public domain.
 * [doplus](https://bitbucket.org/alessiostalla/doplus/wiki/Home) –另一个可扩展的迭代库，类似于：for.
 
 
@@ -552,7 +559,7 @@ Community
 
 * [cl-brewer](https://github.com/can3p/cl-brewer)  -用于（命令行）常见lisp应用程序的自制程序公式生成器.  公共区域.
 * [qldeb](https://github.com/ralt/qldeb) -用于debian软件包的Quicklisp系统以及 [deb-packager](https://github.com/ralt/deb-packager) （只需通过定义s表达式创建一个debian软件包）和介绍 [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html) .  两者[MIT] [200].
-* [ql-to-deb](https://github.com/dimitri/ql-to-deb) -  Update cl-* debian packages from Quicklisp releases. WTFPL.
+* [ql-to-deb](https://github.com/dimitri/ql-to-deb)  -从Quicklisp版本更新cl- * debian软件包.  WTFPL.
 * [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  -debhelper实用程序，使您几乎无需费力就可以将基于quicklisp的Common Lisp代码编译为.deb中的buildapp二进制文件.  [MIT] [200].
 
 也可以看看 [asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)，是通用软件包管理器的插件.
@@ -628,8 +635,13 @@ Web框架
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
-* [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录，缓存，权限或身份验证的注释，通过Swagger的文档等功能.[MIT] [200].
 * [Weblocks](https://github.com/40ants/weblocks)  -基于窗口小部件的框架，具有内置的ajax更新机制，可“解决JavaScript问题”.  [LLGPL] [8].
+
+以REST为重点的框架：
+
+* [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库.  具有模式验证，用于日志记录，缓存，权限或身份验证的注释，通过Swagger的文档等功能.[MIT] [200].
+* [cl-odata-client](https://github.com/copyleft/cl-odata-client) -用于访问的通用Lisp客户端库 [OData services](https://www.odata.org) .  [MIT] [200].
+
 
  有更多的项目，或多或少地中止了但很有趣.  请参阅其他资源.
 
@@ -650,7 +662,7 @@ Web框架
 -----------------
  * [lquery] [72]-一个类似jQuery的HTML / DOM操作库.  [Artistic License 2.0] [51].
 
-另请参阅下面的XML部分以获取xpath库和更多内容.
+See also the XML section below for xpath libraries and more.
 
 
 HTML生成器和模板
@@ -759,7 +771,7 @@ Monitoring
 * [cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki)  -MediaWiki API的包装.  [MIT] [200].
 * [cl-openid](https://github.com/cl-openid/cl-openid)  -OpenID的实现.  [LLGPL] [8].
 * [cl-pushover](https://github.com/TeMPOraL/cl-pushover)  -通用Lisp绑定到Pushover.  [MIT] [200].
-* [humbler](https://github.com/Shinmera/humbler) - A Tumblr API interface. [Artistic License 2.0][51].
+* [humbler](https://github.com/Shinmera/humbler)  -Tumblr API接口.  [Artistic License 2.0] [51].
 *[multiposter](https://github.com/Shinmera/multiposter) -同时发布到多个服务.
 * [stripe-client](https://github.com/ruricolist/cl-stripe-client)  -Stripe付款系统的客户.  [MIT] [200].
 
@@ -797,7 +809,7 @@ Others
   N维数组，但仅用于构建的几个构建基块
    他们.  [AGPL-3.0] [agpl3].
 * [cmu-infix](https://github.com/rigetti/cmu-infix)  -用于在Common Lisp中编写中缀数学符号的库.  也可以看看 [polisher](https://github.com/mrcdr/polisher).
-* [cl-ana](https://github.com/ghollisjr/cl-ana)  -通用Lisp数据分析库，着重于模块化和概念清晰性.  它旨在成为分析小型和大型数据集的通用框架，包括分箱数据分析和可视化.  [GNU GPL3] [2].
+* [cl-ana](https://github.com/ghollisjr/cl-ana) - Common Lisp data analysis library with emphasis on modularity and conceptual clarity. It aims to be a general purpose framework for analyzing small and large scale datasets, including binned data analysis and visualization. [GNU GPL3][2].
 * [linear-programming](https://neil-lindquist.github.io/linear-programming/)  –用于解决线性编程问题的库.  [MIT] [200].
 * [avm](https://github.com/takagi/avm)  -具有多线程和CUDA支持的高效且富有表现力的数组矢量数学库.  [MIT] [200].
 * [array-operations](https://github.com/bendudson/array-operations)  -用于处理Common Lisp数组并使用它们执行数值计算的函数和宏的集合.  [MIT] [200].
@@ -817,7 +829,7 @@ Others
 * [trivial-monitored-thread](https://gitlab.com/ediethelm/trivial-monitored-thread) -
   一个通用的Lisp库，提供了一种生成线程并被存在的方法
    通知他们中的任何一个崩溃和死亡.  [MIT] [200].
-* [cl-gearman](https://github.com/taksatou/cl-gearman) - a library for the [Gearman](http://gearman.org/)  分布式工作系统.  [LLGPL] [8].
+* [cl-gearman](https://github.com/taksatou/cl-gearman) -图书馆 [Gearman](http://gearman.org/)  分布式工作系统.  [LLGPL] [8].
 * [swank-crew](https://github.com/brown/swank-crew)  -使用Swank Client实现的分布式计算框架.  [BSD_3Clause] [15].
 * [cl-coroutine](https://github.com/takagi/cl-coroutine)  -协程库.  它在其实现中使用CL-CONT延续库.  [MIT] [200].
 
@@ -850,8 +862,8 @@ Others
 
 * [SBCL's timers](http://www.sbcl.org/manual/#Timers)，系统范围内的事件调度程序.
 * [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理.  受Ruby的Sidekiq启发，并与其Web UI兼容.  [LLGPL] [8].
-* [cl-cron](http://quickdocs.org/cl-cron/api)  -提供cron类设施的简单工具.  [GPL3] [2].
-* [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的类似cron的调度程序.  [MIT] [200].
+* [cl-cron](http://quickdocs.org/cl-cron/api) - A simple tool that provides cron like facilities. [GPL3][2].
+* [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的cron式调度程序.  [MIT] [200].
 
 
 Regex
@@ -1055,7 +1067,7 @@ Configuration
 -------------
 
 *  [py-configparser](https://common-lisp.net/project/py-configparser/)  -读写Python的类似ConfigParser的配置文件.  [MIT] [200].
-* [envy](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD][39].
+* [envy](https://github.com/fukamachi/envy)  -配置切换器.  [FreeBSD] [39].
 * [chameleon](https://github.com/sheepduke/chameleon/)  -配置文件支持附带的配置管理库.  [MIT] [200].
 
 CSV
@@ -1063,7 +1075,7 @@ CSV
 
 *：星级： [cl-csv](https://github.com/AccelerationNet/cl-csv)  -用于解析CSV文件的库.  [3子BSD] [15].
 * [cl-decimals](https://github.com/tlikonen/cl-decimals)  -十进制数解析器和格式化程序.  公共区域.
-* [auto-text](https://github.com/defunkydrummer/auto-text)  -文本文件的自动（编码，行尾，列宽，csv定界符等）检测.  [MIT] [200].  也可以看看 [inquisitor](https://github.com/t-sin/inquisitor) 用于检测亚洲和远东语言.
+* [auto-text](https://github.com/defunkydrummer/auto-text) - automatic (encoding, end of line, column width, csv delimiter etc) detection for text files. [MIT][200]. See also [inquisitor](https://github.com/t-sin/inquisitor) 用于检测亚洲和远东语言.
 
 
 日期和时间
@@ -1074,7 +1086,7 @@ CSV
 * [chronicity](https://github.com/chaitanyagupta/chronicity)  -自然语言的日期和时间解析，以解析“从现在开始3天”之类的字符串.  [BSD_3Clause] [15].
 * [local-time-duration](https://github.com/enaeher/local-time-duration) -
  持续时间处理库建立在本地时间之上.  [MIT] [200].
-* [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date) - Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. [LLGPL][8].
+* [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date)  -Common Lisp中的其他日期例程，基于ISO 8601字符串表示形式.  [LLGPL] [8].
 * [calendar-date](https://github.com/takagi/calendar-date)  -公历日期库.  [MIT] [200].
 * [periods](https://github.com/jwiegley/periods)  -在更高级别上处理日期/时间对象.  具有与系列兼容的数据结构.  [BSD_3Clause] [15].
 
@@ -1114,7 +1126,7 @@ REPL的常见任务（打印文档，打印外部符号，
 * [cl-bibtex](https://github.com/mkoeppe/cl-bibtex)  -使用BST-to-CL编译器在Common Lisp中对BibTeX程序进行了兼容的重新实现.  [GNU LGPL2.1] [11].
 * [mgl-pax](https://github.com/melisgl/mgl-pax) -探索性
  编程环境和文档生成器.  一个可能
-达到与Literate Programming相似的效果，但是
+与使用Literate Programming取得相似的效果
  文档是从代码生成的，反之亦然.  代码是第一位
  代码必须看起来很漂亮，文档就是代码.  [MIT] [200].
 * [erudite](https://github.com/mmontone/erudite)  -考虑互动开发的精巧编程系统.  [MIT] [200].
@@ -1242,11 +1254,11 @@ XML
 Contributing
 ============
  永远欢迎您的贡献！  请提交拉取请求或创建
-an issue to add a new framework, library or software to the list.
+向列表添加新框架，库或软件的问题.
 
 我们（尝试）遵守的规则如下：
 
-- by default, add a library to the end of its section.
+-默认情况下，将库添加到其部分的末尾.
 -绝对事实库，例如BordeauxThreads或Quicklisp，
   应该用：star：（在markdown中用`：star：`）表示.
 -范围非常相似的两个库应并排放置，或放在一个

@@ -2030,14 +2030,14 @@
 
 *管理模板集*
 
-  - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) -iView Vue Admin /基于iView 2.x的管理门户模板
+  - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) -iView Vue Admin /基于iView 2.x的管理门户模板 [Online Demo](https://tonyluo.github.io/iview-vue-admin)
   - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) -element Vue Admin /基于Element UI 2.x的管理门户模板
-  - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) -基于Element UI 2.x的神奇vue管理员
+  - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) -基于Element UI 2.x的神奇vue管理员 [Online Demo](https://panjiachen.github.io/vue-element-admin/#/dashboard)
   - [D2 Admin](https://github.com/d2-projects/d2-admin) -由vue构建的优雅的后台模板 [Online Demo](https://d2admin.fairyever.com)
   - [rest-admin](https://github.com/wxs77577/rest-admin) -基于Vue和Bootstrap 4的Restful管理面板 [Online Demo](http://rest-admin.genyii.com)
-  - [Shards Dashboard Lite Vue](https://github.com/DesignRevision/shards-dashboard-vue) -✨现代管理模板，具有数十个自定义组件和模板.
-  - [Vue Material Admin](https://github.com/tookit/vue-material-admin) -Vue材料设计管理模板
-  - [element-admin](https://github.com/codetrial/element-admin) -使用Vue CLI 3和element-ui的简单但功能强大的vue管理员.
+  - [Shards Dashboard Lite Vue](https://github.com/DesignRevision/shards-dashboard-vue) -✨现代管理模板，具有数十个自定义组件和模板.[Online Demo](https://designrevision.com/demo/shards-dashboard-lite-vue/blog-overview)
+  - [Vue Material Admin](https://github.com/tookit/vue-material-admin) -Vue材料设计管理模板 [Online Demo](http://vma.isocked.com/#/dashboard)
+  - [element-admin](https://github.com/codetrial/element-admin) -使用Vue CLI 3和element-ui的简单但功能强大的vue管理员.[Online Demo](https://element-admin.now.sh/)
   - [dashboard](https://github.com/zce/dashboard) -基于由vuejs / vue-cli 4.x创建的vue.js的仪表板支架. [Online Demo](https://dashboard.zce.me)
 
 #### Server-side rendering

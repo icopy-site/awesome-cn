@@ -98,7 +98,7 @@
 * [zombie](https://github.com/assaf/zombie) -使用node.js进行快速，全栈，无头的浏览器测试.
 * [totoro](https://github.com/totorojs/totoro) -一个简单稳定的跨浏览器测试工具.
 * [karma](https://github.com/karma-runner/karma) -JavaScript的壮观测试运行器.
-* [nightwatch](https://github.com/nightwatchjs/nightwatch) -基于node.js和Selenium Webdriver的UI自动化测试框架.
+* [nightwatch](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern](https://github.com/theintern/intern) -下一代JavaScript代码测试堆栈.
 * [yolpo](http://www.yolpo.com) -浏览器中的按语句JavaScript解释器.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) -由Google Chrome官方团队提供的无头Chrome Node.js API.
@@ -212,7 +212,7 @@
 * [dc.js](https://github.com/dc-js/dc.js) -建立了多维图表，可与d3.js渲染的交叉过滤器一起使用
 * [vega](https://github.com/trifacta/vega) -可视化语法.
 * [processing.js](http://processingjs.org/) -Processing.js使您的数据可视化可以使用Web标准进行且无需任何插件.
-* [envisionjs](https://github.com/HumbleSoftware/envisionjs) -动态HTML5可视化.
+* [envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization.
 * [rickshaw](https://github.com/shutterstock/rickshaw) -用于创建交互式实时图形的JavaScript工具包.
 * [flot](https://github.com/flot/flot) -有吸引力的jQuery JavaScript图表.
 * [morris.js](https://github.com/morrisjs/morris.js) -漂亮的时序线形图.
@@ -305,7 +305,7 @@
 
 * [underscore](https://github.com/jashkenas/underscore) -JavaScript的实用程序_ Belt.
 * [lodash](https://github.com/lodash/lodash) -提供一致性，自定义，性能和其他功能的实用程序库.
-* [Sugar](https://github.com/andrewplummer/Sugar) - A JavaScript library for working with native objects.
+* [Sugar](https://github.com/andrewplummer/Sugar) -用于处理本机对象的JavaScript库.
 * [lazy.js](https://github.com/dtao/lazy.js) -像下划线一样，但更懒惰.
 * [ramda](https://github.com/CrossEye/ramda) -适用于JavaScript程序员的实用功能库.
 * [mout](https://github.com/mout/mout) -模块化JavaScript实用工具.
@@ -325,7 +325,7 @@
 * [Cycle.js](https://cycle.js.org) -具有功能性和反应性的JavaScript库，用于编写更简洁的代码.
 
 ## Data Structure
-*Data structure libraries to build a more sophisticated application.*
+*数据结构库，用于构建更复杂的应用程序.*
 
 * [immutable-js](https://github.com/facebook/immutable-js) -不可变的数据集合，包括序列，范围，重复，图，OrderedMap，集合和稀疏向量.
 * [mori](https://github.com/swannodette/mori) -一个库，用于使用ClojureScript的持久数据结构并从原始JavaScript的舒适性中支持API.
@@ -361,7 +361,7 @@
 * [query-string](https://github.com/sindresorhus/query-string) -解析和字符串化URL查询字符串.
 * [URI.js](https://github.com/medialize/URI.js/) -JavaScript URL突变库.
 * [jsurl](https://github.com/Mikhus/domurl) -使用JavaScript进行轻量级URL操作.
-* [sprintf.js](https://github.com/alexei/sprintf.js) -sprintf实现.
+* [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 * [url-pattern](https://github.com/snd/url-pattern)  -比regex的url和其他字符串的字符串匹配模式更容易.  将字符串转换为数据或将数据转换为字符串.
 * [plexis](https://github.com/plexis-js/plexis) -Lo-fi，功能强大，由社区驱动的字符串处理库.
 
@@ -470,7 +470,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的坚定REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) -支持OAuth / API密钥/基本等的通用API客户端.
 
@@ -519,7 +519,7 @@
 * [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) -旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) -为页面上的每个对象创建和管理进度栏.
-* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且响应迅速的进度栏.
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且反应灵敏的进度条.
 * [pace](https://github.com/HubSpot/pace) -自动将进度条添加到您的网站.
 * [topbar](https://github.com/buunguyen/topbar) -微小而美观的站点范围进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)  -非常轻量级的进度条.  没有jQuery.
@@ -755,7 +755,7 @@
 * [Leaflet](https://github.com/Leaflet/Leaflet) -适用于移动设备的交互式地图的JavaScript库.
 * [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) -开源WebGL虚拟地球仪和地图引擎.
 * [gmaps](https://github.com/HPNeo/gmaps) -使用Google地图的最简单方法.
-* [polymaps](https://github.com/simplegeo/polymaps) -一个免费的JavaScript库，用于在现代Web浏览器中制作动态的交互式地图.
+* [polymaps](https://github.com/simplegeo/polymaps) - A free JavaScript library for making dynamic, interactive maps in modern web browsers.
 * [kartograph.js](https://github.com/kartograph/kartograph.js) -用于Kartograph SVG地图的开源JavaScript渲染器.
 * [mapbox.js](https://github.com/mapbox/mapbox.js) -Mapbox JavaScript API，一个传单插件.
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) -jQuery矢量地图库.
@@ -765,7 +765,7 @@
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于您的YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media) - Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>
- * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
+ * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，可通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频曲目队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) -用于网络的HTML5视频播放器
  <https://flowplayer.org/>
@@ -832,14 +832,14 @@
 
 ## Generators
 
-* [Gatsby.js](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的静态网站生成器.
 * [Gridsome](https://github.com/gridsome/gridsome) -Vue供电的静态站点生成器.
 
 ## SDK
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) -从工作和个人经验中提取的JavaScript SDK设计指南
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) -面向实体的SDK，可与Spotify Web API一起使用.
-* [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
+* [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) -用于付款和其他Square API的JavaScript客户端库.
 
 
 ## Misc
@@ -863,7 +863,7 @@ http://www.listjs.com
 * [ky](https://github.com/sindresorhus/ky) -基于浏览器Fetch API的小巧优雅的HTTP客户端.
 * [Fcal](https://github.com/5anthosh/fcal) -数学表达式评估器
 * [emoji-button](https://github.com/joeattardi/emoji-button) -香草JavaScript表情符号选择器组件
-* [ink-components](https://github.com/ink-components/ink-components) -用于交互式科学写作，反应性文档和可解释性说明的Web组件.
+* [iooxa](https://github.com/iooxa/article) -互动式科学写作，反应性文档和可解释性说明的组成部分.
 * [Idyll](https://github.com/idyll-lang/idyll)  -创建可解释的解释和交互式讲故事的文章.  可 [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 
 

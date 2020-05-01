@@ -4,23 +4,16 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
 	<br>
-	<hr>
+	<!-- <hr> -->
 	<p>
-		<p>
+		<!-- <p>
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">我的开源工作得到了社区的支持</a>
 			</sup>
-		</p>
-		<sup>特别感谢：</sup>
+		</p> -->
 		<br>
 		<br>
-		<a href="https://github.com/botpress/botpress">
-			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="260" alt="Botpress">
-		</a>
-		<br>
-		<sub><b>Botpress是一个开放源代码的对话助手创建平台.</b></sub>
-		<br>
-		 <sub>他们<a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">欢迎</a>任何人的<a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">贡献</a> ，无论您是学习机器学习，</sub> <sub><br></sub>  <sub>想要开始开源，或者只是有一个改进的想法.</sub>
+		<h3 align="center"> <a href="https://www.producthunt.com/posts/jiffy-2">我的用于发现和共享GIF的新macOS应用已在Product Hunt中</a> </h3></h3>
 		<br>
 	</p>
 	<hr>
@@ -69,7 +62,7 @@
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) -虚拟机，可让您编写更有效，更强大的Linux系统跟踪和监视.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) -基于Arch Linux的Linux发行版和项目.
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) -适用于Apple Mac电脑的操作系统.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
@@ -214,7 +207,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
 - [D3](https://github.com/wbkd/awesome-d3#readme) -用于产生动态，交互式数据可视化的库.
 - [Emails](https://github.com/jonathandion/awesome-emails#readme)
-- [jQuery](https://github.com/petk/awesome-jquery#readme) -易于使用的JavaScript库进行DOM操作.
+- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
@@ -314,7 +307,7 @@
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) -基于证据的软件系统研究.
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) -学习开发自己的搜索引擎.
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) -利用量子力学和量子计算机上的量子位的计算.
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
 ## Big Data
 
@@ -338,7 +331,7 @@
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) -遍历嵌套的数据结构.
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 
 ## Books
 
@@ -425,7 +418,7 @@
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) -对象关系数据库.
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) -面向文档的NoSQL数据库.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) -分布式，可扩展的大数据存储.
-- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) -帮助使用非关系型，分布式，开源和水平可伸缩的数据库.
 - [Contexture](https://github.com/ltchris/awesome-contexture#readme) -从诸如ElasticSearch和MongoDB之类的不同后备数据存储中提取查询/过滤器和结果/聚合.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) -使数据库处理变得更加容易的一切.
 
@@ -671,6 +664,6 @@
 ## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
+- [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) -使用浏览器扩展程序从Awesome数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) -一个简单的命令行工具，可深入研究Awesome列表.

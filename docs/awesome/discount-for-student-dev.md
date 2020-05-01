@@ -35,7 +35,7 @@
     *骑士-.NET IDE
     * WebStorm-JavaScript IDE
     * RubyMine-Ruby IDE
-  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student)  [免费]-简化使用并行处理来提高应用程序性能的代码的设计，开发，调试和调整的工具套件.  学生免费.
+  * [Intel® Parallel Studio XE 2015](https://software.intel.com/en-us/qualify-for-free-software/student)  [免费]-工具套件，可简化代码的设计，开发，调试和调整，这些代码利用并行处理来提高应用程序性能.  学生免费.
   * [Xamarin IDE](http://xamarin.com/student) [FREE] - IDE for using C# for iOS, Android, Mac & Windows platforms.
   * [Visual Studio Community 2017](https://www.visualstudio.com/vs/community/) [FREE] - IDE for C#,Javascript, C++ and others. Latest release includes Xamarin.
   * [Bootstrap Studio](https://bootstrapstudio.io/pages/student-license) [免费]-使用Bootstrap框架创建响应式网站的IDE.
@@ -56,14 +56,14 @@
 
   * [Digital Ocean](https://www.digitalocean.com) [CREDIT]-Digital Ocean为每位报名参加该计划的学生提供$ 50的托管信用额 [Github Student Developer Pack](https://education.github.com/pack).
   * [RoseHosting](https://www.rosehosting.com) [折扣]-RoseHosting为其所有会员提供20％的经常性折扣 [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) 和 [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html)  每月付款时.  学生可以通过使用优惠券代码“ STUDENT20”使用折扣.  仅对新客户有效.  不能与其他优惠同时使用.
-  * [SiteGround](https://www.siteground.com/students-plan.htm) [折扣]-每月$ 1.99美元，而不是每月$ 3.95美元 [StartUp plan](https://www.siteground.com/students-plan.htm).
+  * [SiteGround](https://www.siteground.com/students-plan.htm) [折扣]-每月$ 1.99美元，而不是每月$ 3.95美元 [StartUp plan](https://www.siteground.com/shared-hosting-features.htm).
   * [Education Host](https://education.github.com/pack/redeem/educationhost) [免费]-可免费使用Designer软件包为学生提供1年的虚拟主机托管服务，并提供升级优惠.可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Design and Photo Editing
 
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [折扣]-学生节省60％的Creative Cloud折扣.
   * [Sketch](https://backend.bohemiancoding.com/store/edu/) [折扣]-获得教育许可证后，您的素描副本可享受50％的折扣.
-  * [Canva](https://www.canva.com/) [免费]-通过以下方式免费订阅Canva Pro级别的12个月 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Canva](https://www.canva.com) [免费]-通过以下方式免费订阅Canva Pro级别的12个月 [Github Student Developer Pack](https://education.github.com/pack).
   * [Icons8](https://icons8.com/github-students) [免费]-Icons8提供设计资源：图标，UI插图，照片和用于对项目进行分类的软件.  通过以下方式进行为期3个月的全部访问订阅，包括图标，照片，插图和音乐 [Github Student Developer Pack](https://education.github.com/pack).
   * [Figma](https://www.figma.com/education/) [免费]-通过学生身份验证后免费获得专业团队功能.
 
@@ -84,7 +84,7 @@
 ## Email
 
   * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT]-学生计划每月通过15K封免费电子邮件（通常每天限制为200封免费电子邮件） [Github Student Developer Pack](https://education.github.com/pack).
-  * [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费]-强大的API，使您可以轻松地发送，接收和跟踪电子邮件.每月最多20,000个电子邮件和100个免费电子邮件验证（长达12个月），可通过 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费]-强大的API，可让您轻松地发送，接收和跟踪电子邮件.每月最多20,000个电子邮件和100个免费电子邮件验证（长达12个月），可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
 
@@ -98,9 +98,8 @@
 
 ## Management Systems
 
-  * [Bitnami](https://bitnami.com)  [免费]-单击即可安装云应用程序.  可通过以下方式获得一年的Business 3计划（通常为49美元/月），为期一年 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Bitnami](https://bitnami.com)  [免费]-单击即可安装云应用程序.  可以通过以下方式获得一年的Business 3计划（通常为每月49美元） [Github Student Developer Pack](https://education.github.com/pack).
   * [Yellow Circle](http://www.yellowcircle.net) [免费]-通过创建和配置虚拟路由器，虚拟机，虚拟防火墙，负载均衡器和存储设备，为各级学生和教师提供免费的在线沙箱，以学习和实践IT，网络和编程技能.
-  * [Orchestrate](https://orchestrate.io/)  [免费]-Orchestrate是一个完整的数据库产品组合，包括通过API进行的搜索，时序事件，地理位置和图形查询.  您可以将数据托管在公共云中，例如在CenturyLink数据中心中，或使用Orchestrate Enterprise的专用集群. [Github Student Developer Pack](https://education.github.com/pack) 成员将获得一个免费的开发者帐户（通常为每月49美元）.
   * [Vertabelo](http://www.vertabelo.com/)  [免费]-功能齐全的数据库设计在线工具.  免费用于教育目的.
  
 

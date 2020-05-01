@@ -39,6 +39,7 @@
 *可用于托管CTF的项目*
 
 - [CTFd](https://github.com/isislab/CTFd) -平台，用于托管来自纽约大学丹登分校ISISLab的危险风格CTF.
+- [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) -开发，部署和维护自己的CTF基础架构.
 - [FBCTF](https://github.com/facebook/fbctf) -举办Facebook抓旗大赛的平台.
 - [Haaukins](https://github.com/aau-network-security/haaukins)-用于安全教育的高度可访问且自动化的虚拟化平台.
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) -CTF评分平台.
@@ -103,6 +104,7 @@
 - [Nozzlr](https://github.com/intrd/nozzlr) -Nozzlr是一个蛮力的框架，完全模块化且脚本友好.
 - [Ophcrack](http://ophcrack.sourceforge.net/) -基于彩虹表的Windows密码破解程序.
 - [Patator](https://github.com/lanjelot/patator) -Patator是模块化设计的多功能暴力破解工具.
+- [Turbo Intruder](https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack) -Burp Suite扩展，用于发送大量HTTP请求 
 
 ## Exploits
 
@@ -183,11 +185,11 @@
 - [ctf_import](https://github.com/docileninja/ctf_import) –从剥离的二进制文件跨平台运行基本功能.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
 - [demovfuscator](https://github.com/kirschju/demovfuscator) -用于移动二进制文件的正在进行中的去混淆器.
-- [Frida](https://github.com/frida/) -动态代码注入.
+- [Frida](https://github.com/frida/) - Dynamic Code Injection.
 - [GDB](https://www.gnu.org/software/gdb/) -GNU项目调试器.
 - [GEF](https://github.com/hugsy/gef) -GDB插件.
 - [Ghidra](https://ghidra-sre.org/)  -开源的逆向工程工具套件.  类似于IDA Pro.
-- [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux.
+- [Hopper](http://www.hopperapp.com/) -用于OSX和Linux的逆向工程工具（反汇编程序）.
 - [IDA Pro](https://www.hex-rays.com/products/ida/) -最常用的倒车软件.
 - [Jadx](https://github.com/skylot/jadx) -反编译Android文件.
 - [Java Decompilers](http://www.javadecompilers.com) -Java和Android APK的在线反编译器.
@@ -311,11 +313,14 @@
 
 - [Backdoor](https://backdoor.sdslabs.co/) -SDSLabs的安全平台.
 - [Crackmes](https://crackmes.one/) -逆向工程挑战.
+- [CryptoHack](https://cryptohack.org/) -有趣的密码学挑战.
+- [echoCTF.RED](https://echoctf.red/) -具有各种攻击目标的在线CTF.
 - [Exploit Exercises](https://exploit-exercises.lains.space/) -各种VM，以学习各种计算机安全问题.
 - [Exploit.Education](http://exploit.education) -各种VM，以学习各种计算机安全问题.
 - [Gracker](https://github.com/Samuirai/gracker) -学习曲线缓慢的二进制挑战，每个级别的习题都有.
 - [Hack The Box](https://www.hackthebox.eu) -面向所有类型的安全爱好者的每周CTF.
 - [Hack This Site](https://www.hackthissite.org/) -黑客培训场.
+- [Hacker101](https://www.hacker101.com/) -HackerOne的CTF
 - [Hacking-Lab](https://hacking-lab.com/) -道德黑客，计算机网络和安全挑战平台.
 - [Hone Your Ninja Skills](https://honeyourskills.ninja/) -从基本挑战开始的网络挑战.
 - [IO](http://io.netgarage.org/) -战争游戏二进制挑战.
@@ -338,6 +343,7 @@
 - [VulnHub](https://www.vulnhub.com/) -基于VM，适用于数字安全，计算机应用和网络管理.
 - [W3Challs](https://w3challs.com) -渗透测试培训平台，提供各种类别的各种计算机挑战.
 - [WebHacking](http://webhacking.kr) -网络攻击的挑战.
+
 
 *自托管的CTF *
 

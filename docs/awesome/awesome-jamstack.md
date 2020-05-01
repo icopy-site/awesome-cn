@@ -4,16 +4,16 @@
   <br /><br />
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
   <br /><br /><br />
-  <img width="500" src="https://raw.githubusercontent.com/automata/awesome-jamstack/master/media/jamstack-full-logo.svg?sanitize=true" alt="JAMstack">
+  <img width="500" src="https://raw.githubusercontent.com/automata/awesome-jamstack/master/media/jamstack-full-logo.svg?sanitize=true" alt="Jamstack">
   <br /><br /><br />
   <p>
-    <strong>JAMstack</strong> ：名词\&#39;jam-stack&#39;\ <br />
-    基于客户端JavaScript，可重用API和预建标记的现代Web开发体系结构.
+    <strong>Jamstack</strong> ：名词\&#39;jam-stack&#39;\ <br />
+    Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
   </p>
   <br /><br />
   <p>
     <b>
-      这是<a href="https://jamstack.org">精选</a>的真棒<a href="https://jamstack.org">JAMstack</a>资源列表.
+      这是精心挑选的<a href="https://jamstack.org">精选Jamstack</a>资源的列表.
     </b>
   </p>
   <br /><br />
@@ -36,14 +36,14 @@
 
 ## General
 
-- [JAMstack](https://jamstack.org/)
-- [JAMstack resources](https://jamstack.org/resources/) -有关JAMstack的视频和文章.
-- [the New Dynamic](https://www.thenewdynamic.org/)  -在我们的目录中拾取工具以与JAMstack一起使用.  浏览我们的展示柜并获得启发.
+- [Jamstack](https://jamstack.org/)
+- [Jamstack resources](https://jamstack.org/resources/) -有关Jamstack的视频和文章.
+- [the New Dynamic](https://www.thenewdynamic.org/)  -在我们的目录中拾取工具以与Jamstack一起使用.  浏览我们的展示柜并获得启发.
 
 ## Chats
 
 - [Appernetic Gitter Chat](https://gitter.im/appernetic/issues)
-- [JAMstack Gitter Chat](https://gitter.im/jamstack/community)
+- [Jamstack Gitter Chat](https://gitter.im/jamstack/community)
 - [Netlify Gitter Chat](https://gitter.im/netlify/community)
 - [NetlifyCMS Gitter Chat](https://gitter.im/netlify/NetlifyCMS)
 - [the New Dynamic Slack](https://join.slack.com/t/thenewdynamic/shared_invite/enQtMjkwNjYwNTY0NjkxLWI1NDhlNjZkZjA5ZGJmODE1OThiMjkwN2ZkMzE1YjEwN2YwNWUxYTNjZTUxMGQ2MzU3NWQ0YmVjNGU1NTkxMDk)
@@ -52,9 +52,9 @@
 
 - [Appernetic](https://appernetic.io) -带有Hugo和GitHub Pages的静态网站的可视内容管理.
 - [Netlify](https://netlify.com) -用于自动化现代Web项目的多合一平台.
-- [ZEIT Now](https://zeit.co) -具有免配置工具和工作流程的现代Web应用程序的多合一无服务器平台.
+- [Vercel](https://vercel.com) -具有免配置工具和工作流程的现代Web应用程序的多合一无服务器平台.
 
-## JAMstack Sites Showcase
+## Jamstack Sites Showcase
 
 - [React](https://reactjs.org/) -建立在盖茨比上.
 - [Squoosh.app](https://squoosh.app/) -托管在Netlify上，演示了现代Web应用程序的高级功能.
@@ -95,7 +95,7 @@
 - [Forestry](https://forestry.io) -无头CMS，用于使用静态网站生成器构建的网站.
 - [Coisas](https://github.com/fiatjaf/coisas) -用于编辑GitHub Markdown（和其他）文件的客户端CMS.
 - [Cockpit](https://getcockpit.com/) -一个自托管的无头和api驱动的CMS.
-- [HeadlessCMS](https://headlesscms.org/) -JAMstack站点的内容管理系统列表.
+- [HeadlessCMS](https://headlesscms.org/) -Jamstack网站的内容管理系统列表.
 - [TakeShape](https://www.takeshape.io/) -一键式部署到Netlify的无头GraphQL API CMS.
 - [Ghost](https://ghost.org/) -用于在线出版物的无头CMS
 - [Strapi](https://strapi.io) -开源Headless CMS前端开发人员喜欢.
@@ -106,6 +106,7 @@
 
 - [Auth0](https://auth0.com/) -单点登录和基于令牌的身份验证.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) -提供一整套的身份验证功能，并由 [GoTrue API](https://www.gotrueapi.org).
+- [Jexia UMS](https://jexia.com) -带有JWT和其他功能的身份提供者的REST API用户管理系统，用于您的Web端. 
 
 ### Comments
 
@@ -121,10 +122,10 @@
 ### E-commerce
 
 - [Flatmarket](https://github.com/christophercliff/flatmarket) -Flatmarket是用于静态网站的免费开放源代码电子商务平台.
-- [GoCommerce](https://www.gocommerceapi.org) -JAMstack网站的无头电子商务.
+- [GoCommerce](https://www.gocommerceapi.org) -面向Jamstack网站的无头电子商务.
 - [Snipcart](https://snipcart.com/) -开发人员的强大购物车平台.
 - [Moltin](https://moltin.com/) -开发人员的电子商务API.
-- [Trolley](https://trolley.link) -专为JAMstack设计的购物车.
+- [Trolley](https://trolley.link) -专为Jamstack设计的购物车.
 - [Shopify](https://www.shopify.co.uk/plus/solutions/headless-commerce) -Shopify无头电子商务解决方案.
 
 ### Search
@@ -138,6 +139,10 @@
 - [GraphQL](https://graphql.org) -API的查询语言，以及用于使用现有数据完成这些查询的运行时.
 - [Graphcool](https://graph.cool) -开源和自托管后端即服务，用于开发无服务器的GraphQL后端.
 - [FaunaDB](https://fauna.com) -在云或本地具有连接，索引和多区域ACID事务的关系NoSQL数据库.
+- [Jexia DataSet](https://jexia.com) -带有内置验证器，关系，聚合功能的REST API架构和Shemaless云数据存储.
+
+### File management
+- [Jexia FileSet](https://jexia.com) -带有索引和其他功能的REST API文件管理器.
 
 ### Automation
 
@@ -150,7 +155,7 @@
 - [Amazon Lambda](https://aws.amazon.com/lambda/) -使您无需配置或管理服务器即可运行代码.
 -Microsoft Azure
   - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) -无服务器计算服务，使您可以按需运行代码，而不必显式设置或管理基础结构.
-  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) - Simplifies building automated scalable workflows that integrate apps and data across cloud services and on-premises systems.
+  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) -简化了构建自动可扩展工作流的过程，该工作流跨云服务和本地系统集成了应用程序和数据.
 -Google Cloud
   - [App Engine](https://cloud.google.com/appengine/) -完全抽象化基础架构的无服务器应用程序，因此您仅关注代码.
   - [Cloud Functions](https://cloud.google.com/functions/) -无服务器环境，用于建立和连接云服务.
@@ -163,56 +168,56 @@
   - [BigQuery](https://cloud.google.com/bigquery/) -无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) -无服务器的机器学习服务，可在自定义Google硬件（张量处理单元）上自动扩展.
 - [Serverless](https://serverless.com/) -用于部署和操作无服务器架构的工具包.
-- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，以简化管理媒体，CDN，存储，转换等的工作.
+- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为Jamstack提供每种流行语言和媒体窗口小部件的SDK，使您可以轻松管理媒体，CDN，存储，转换等.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
 ## Videos
 
 - [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) -Matt Biilmann.
-- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -Mathias Biillman.
-- [JAMstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) -菲尔·霍克斯沃思（Phil Hawksworth）.
+- [Rise of the Jamstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -Mathias Biillman.
+- [Jamstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) -菲尔·霍克斯沃思（Phil Hawksworth）.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) -克里斯·麦克雷（Chris Macrae）.
-- [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
+- [Jamstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -遍历媒体.
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) -凯尔·马修斯（Kyle Mathews）.
-- [Talks from all the JAMstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) -JAMstack Conf.
-- [How I Used React, Vue, & Node to Build a Single JAMstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) -艾哈迈德·阿威斯.
+- [Talks from all the Jamstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) -Jamstack Conf.
+- [How I Used React, Vue, & Node to Build a Single Jamstack App](https://www.youtube.com/watch?v=dwpn1pd9kT8) -艾哈迈德·阿威斯.
 
 ## Tutorials / Articles
 
-- [Ghost on the JAMstack](https://blog.ghost.org/jamstack/)
+- [Ghost on the Jamstack](https://blog.ghost.org/jamstack/)
 - [Building a contact form in Gatsby using Getform](https://blog.getform.io/building-a-gatsby-contact-form-using-getform)
 - [Getting Started with Gatsby and Cockpit — Part 1 of 2](https://blog.ginetta.net/getting-started-with-gatsby-and-cockpit-part-1-of-2-d86871932d44)
 - [Creating Static E-commerce site with GatsbyJs](https://medium.com/@pinku1/creating-static-e-commerce-site-with-gatsbyjs-a349d7e022a)
 - [For Static Sites, There’s No Excuse Not to Use a CDN](https://forestry.io/blog/for-static-sites-theres-no-excuse-not-to-use-a-cdn/)
 - [E-commerce front-end for Vue.js, Nuxt.js and Snipcart](https://www.sanity.io/blog/e-commerce-vue-nuxt-snipcart)
 - [Building Paul The Octopus](https://www.tomango.co.uk/thinks/paul-the-octopus-2018/)
-- [JAMstack and Netlify: Do We really need another buzzword?](https://noti.st/philhawksworth/qp7jZC/jamstack-and-netlify-do-we-really-need-another-buzzword)
-- [The JAMstack Startup Landscape](https://medium.com/@CRVVC/the-jamstack-startup-landscape-c06cc3cdb917)
+- [Jamstack and Netlify: Do We really need another buzzword?](https://noti.st/philhawksworth/qp7jZC/jamstack-and-netlify-do-we-really-need-another-buzzword)
+- [The Jamstack Startup Landscape](https://medium.com/@CRVVC/the-jamstack-startup-landscape-c06cc3cdb917)
 - [How I built my blog using Gatsby and Netlify](https://blog.pavsidhu.com/how-i-built-my-blog-using-gatsby-and-netlify/)
 - [Developer's Guide to Headless E-Commerce](https://snipcart.com/blog/headless-ecommerce-guide)
 - [Handling Static Forms, Auth & Serverless Functions with Gatsby on Netlify](https://snipcart.com/blog/static-forms-serverless-gatsby-netlify)
-- [JAMstack for Clients: Benefits, Static Site CMS, & Limitations](https://snipcart.com/blog/jamstack-clients-static-site-cms)
+- [Jamstack for Clients: Benefits, Static Site CMS, & Limitations](https://snipcart.com/blog/jamstack-clients-static-site-cms)
 - [Exploring Netlify CMS, a React & Git-Based Content Management System](https://snipcart.com/blog/netlify-cms-react-git-workflow)
-- [JAMstack PWA — Let’s Build a Polling App. with Gatsby.js, Firebase, and Styled-components Pt. 1](https://medium.com/@UnicornAgency/jamstack-pwa-lets-build-a-polling-app-with-gatsby-js-firebase-and-styled-components-pt-1-78a03a633092)
+- [Jamstack PWA — Let’s Build a Polling App. with Gatsby.js, Firebase, and Styled-components Pt. 1](https://medium.com/@UnicornAgency/jamstack-pwa-lets-build-a-polling-app-with-gatsby-js-firebase-and-styled-components-pt-1-78a03a633092)
 - [Dynamic Static Sites with Netlify and iOS Shortcuts; Use Netlify Functions, a Gulp build process and iOS Shortcuts to publish dynamic content to your static site](https://bryanlrobinson.com/blog/2018/11/12/ios-shortcuts-pushing-data-to-netlify-static-site/)
 - [Gatsby for Apps](https://www.gatsbyjs.org/blog/2018-11-07-gatsby-for-apps/)
 - [Turning the Static Dynamic](https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/)
-- [Going JAMstack with Netlify and Nuxt](https://blog.lichter.io/posts/going-jamstack-with-netlify-and-nuxt/)
+- [Going Jamstack with Netlify and Nuxt](https://blog.lichter.io/posts/going-jamstack-with-netlify-and-nuxt/)
 - [Getting Started With Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 - [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
-- [A Broad Discussion on JAMstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
+- [A Broad Discussion on Jamstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
 - [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
-- [9 Headless CMS Options for Your JAMstack Site](https://bejamas.io/blog/headless-cms/)
+- [9 Headless CMS Options for Your Jamstack Site](https://bejamas.io/blog/headless-cms/)
 
 ## Podcasts
 
-- [JAMstack Radio](https://www.netlify.com/tags/podcast/)
-- [That's my JAMstack](https://thatsmyjamstack.com)
+- [Jamstack Radio](https://www.netlify.com/tags/podcast/)
+- [That's my Jamstack](https://thatsmyjamstack.com)
 
 ## Books
-- [Modern Web Development on the JAMstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) -Mathias Biilmann和Phil Hawksworth（由O&#39;Reilly出版）.
+- [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) -Mathias Biilmann和Phil Hawksworth（由O&#39;Reilly出版）.
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## License
