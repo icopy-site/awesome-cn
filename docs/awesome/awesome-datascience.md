@@ -21,6 +21,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
  预览|  描述
 ------------ | -------------
+[<img src="http://i.imgur.com/0OoLaa5.png" width="150" />](http://i.imgur.com/0OoLaa5.png) | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer)
 [<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)  |  通过8个步骤成为一名数据科学家的直观指南 [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
 [<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png)  |  所需技能的思维导图（[img](http://i.imgur.com/FxsL3b8.png))
 [<img src="http://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)  |  斯瓦米·钱德拉塞卡兰（Swami Chandrasekaran） [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
@@ -165,7 +166,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Noah Iliinsky](http://complexdiagrams.com/) -个人博客
 - [Matt Harrison](http://hairysun.com/) -个人博客
 - [Data Science Renee](http://www.becomingadatascientist.com/) 记录我从“追求工程硕士学位的SQL数据分析师”到“数据科学家”的路径
-- [Vamshi Ambati](https://allthingsds.wordpress.com/) -万物数据科学
+- [Vamshi Ambati](https://allthingsds.wordpress.com/) -万物数据场景
 - [Prash Chan](http://www.mdmgeek.com/) -关于主数据管理及其周围所有嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) -开源数据科学大师
 - [Paul Miller](http://cloudofdata.com/) Cloud of Data的咨询服务总部位于英国，业务遍及全球，可帮助客户了解将数据及更多内容带入Cloud的含义.
@@ -452,7 +453,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Hopsworks](https://github.com/logicalclocks/hopsworks)  -具有功能存储的开源数据密集型机器学习平台.  摄取和管理在线（MySQL Cluster）和离线（Apache Hive）访问的功能，大规模培训和提供模型.
 * [MindsDB](https://github.com/mindsdb/mindsdb)  -MindsDB是开发人员可解释的AutoML框架.  借助MindsDB，您可以仅用一行代码即可构建，训练和使用最新的ML模型.
 * [Lightwood](https://github.com/mindsdb/lightwood) -一个基于Pytorch的框架，它将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.
-* [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -一个开源Python软件包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.
+* [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -一个开源Python软件包，它将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.
 
 ## Visualization Tools - Environments
  

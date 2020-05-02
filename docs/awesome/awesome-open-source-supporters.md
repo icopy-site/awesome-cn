@@ -4,9 +4,12 @@
 
 精选的优秀公司列表，这些公司免费向开源和公共项目提供其工具和服务.
 
-**注意：尽管有许多公司拥有出色的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源码社区做出公开承诺的组织.**
+**注意：虽然有许多公司拥有出色的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源码社区做出公开承诺的组织.**
 
 
+
+## Chat
+- [Zulip](https://zulip.com) `requires-approval`-为分布式团队聊天.
 
 ## Code Coverage
 
@@ -59,6 +62,7 @@
 ## Documentation
 
 - [GitBook](https://www.gitbook.com/) -协作应用程序文档.
+- [Read the Docs](https://readthedocs.com/) -文档托管平台.
 
 ## Exception Reporting
 

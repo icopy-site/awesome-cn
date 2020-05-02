@@ -26,7 +26,7 @@
 提出问题和寻找其他社区资源的地方.
 
 - [TransitWiki](http://transitwiki.org)  -交通规划人员的社区Wiki.  像这个仓库，但更好.
-- [GTFS Slack chat](http://gtfs.herokuapp.com/)
+- [MobilityData Slack chat](https://mobilitydata-io.herokuapp.com/)
 - [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
 -OneBusAway
   - [OneBusAway User mailing list](http://groups.google.com/group/onebusaway-users)
@@ -42,7 +42,7 @@
 #### 3rd party GTFS URL directories
 - [Transitland](https://transit.land/)  -许多运输机构GTFS数据集的社区可编辑列表.  还提供了以JSON / GeoJSON形式访问数据的API，并提供了一个操场来试用数据.
 - [TransitFeeds](http://transit饲料.com/) -GTFS和 [GTFS-RT](http://transit饲料.com/search?q=gtfsrt) 饲料. [Archives 和 validates](http://transit饲料.com/p/capital-metro/24) GTFS供稿，并允许您预览 [GTFS](http://transit饲料.com/p/capital-metro/24/20151015) 和 [GTFS-RT](http://transit饲料.com/p/capital-metro/495) 通过浏览器.
-- [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies)  -以前是GTFS供稿网址的确定目录.  在2016年关闭.但是，如果需要，可以提供从2008年到2016年的93 GB数据.
+- [~~GTFS Data Exchange~~ (Deprecated)](http://www.gtfs-data-exchange.com/agencies)  -以前是GTFS供稿网址的确定目录.  2016年关闭.但是，如果需要，可以提供2008年至2016年的93 GB数据.
 
 #### Transit agency data archives
 - [CapMetrics](https://github.com/scascketta/CapMetrics)  -奥斯汀的运输代理（CapMetro）的历史车辆位置.  数据收集者 [capmetricsd](https://github.com/scascketta/capmetricsd)，一个Go守护进程.
@@ -83,7 +83,7 @@
 - [RidePilot](https://github.com/camsys/ridepilot) -开源的计算机辅助调度和调度（CASD）软件系统，可满足小型人力运输机构的需求（有关更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 - [TNExT](https://github.com/ODOT-PTS/TNExT) -公交网络浏览器工具（TNExT）是基于网络的软件工具，旨在对俄勒冈州的区域和州范围的公交网络进行可视化，分析和报告.
 -路线趋势（[webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)）-R Shiny应用程序可提取乘车时间序列，并根据以下信息返回季节，趋势和残差分量 [STL methodology](https://otexts.com/fpp2/stl.html)  以及预测，包括基于这些因素的不确定性.  由...赞助 [Metro Transit](https://www.metrotransit.org/) （明尼阿波利斯-圣保罗）.
-- [TBEST](https://tbest.org/)  -TBEST（过境登机估算和模拟工具）致力于开发基于GIS的多方面建模，规划和分析工具，该工具将社会经济，土地使用和过境网络数据集成到一个基于场景的过境旅客平台中估计和分析.  由佛罗里达州交通运输部资助.  免费使用，但不开源.
+- [TBEST](https://tbest.org/)  -TBEST（过境登机估算和模拟工具）致力于开发基于GIS的多方面建模，规划和分析工具，该工具将社会经济，土地使用和过境网络数据集成到一个基于情景的过境旅客平台中估计和分析.  由佛罗里达州交通运输部资助.  免费使用，但不开源.
 
 ### Hardware
 
@@ -152,7 +152,7 @@
 - [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz) -使用以下工具对GTFS数据进行动画和可视化的Web应用程序 [gtfspy](https://github.com/CxAalto/gtfspy).
 - [Mapnificent](https://www.mapnificent.net/)  -显示您在给定时间内可以搭乘公共交通工具到达的区域.  开源 [on GitHub](https://github.com/mapnificent/mapnificent)，请访问https://www.mapnificent.net/.
 - [Toronto Transit Explorer](https://github.com/sidewalklabs/totx)  -一个Java应用程序，可视化整个多伦多市的公交，骑行和步行辅助功能.  直播版 [here](https://totx.sidewalklabs.com/) .  使用的修改版本 [R5](https://github.com/conveyal/r5) 用于路由.
-- [fastest-bus-analysis-in-the-west](https://github.com/vta/fastest-bus-analysis-in-the-west)  -结合了Ridership / APC，Swiftly速度和驻留数据，公交车站库存，GTFS和地理空间形状的python Pandas脚本，以逐站，逐路线，按时间分组的可过滤数据集进行交叉分析.  然后将数据集可视化为 [Tableau](https://public.tableau.com/profile/vivek7797#!/vizhome/stopsandspeedanalyses/Story1) 通过停车站合并和专用车道等提速方法，帮助VTA规划人员找到使公交和铁路网络更快，更可靠的场所.
+- [fastest-bus-analysis-in-the-west](https://github.com/vta/fastest-bus-analysis-in-the-west)  -结合了Ridership / APC，Swiftly速度和停留数据，公交车站库存，GTFS和地理空间形状的python Pandas脚本，以逐站，逐路线，按时间分组的可过滤数据集进行交叉分析.  然后将数据集可视化为 [Tableau](https://public.tableau.com/profile/vivek7797#!/vizhome/stopsandspeedanalyses/Story1) 通过停车站合并和专用车道等提速方法，帮助VTA规划人员找到使公交和铁路网络更快，更可靠的场所.
 - [TNExT](https://github.com/ODOT-PTS/TNExT) -公交网络浏览器工具（TNExT）是基于网络的软件工具，旨在对俄勒冈州的区域和州范围的公交网络进行可视化，分析和报告.
 
 ### GTFS
@@ -234,7 +234,7 @@
 - [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) -Google支持的基于Python的GTFS验证器.
 - [gtfs-validator](https://github.com/conveyal/gtfs-validator) -基于OneBusAway GTFS模块的GTFS验证器，以Java运行，比Google提供的验证器更快.
 - [gtfs-lib](https://github.com/conveyal/gtfs-lib/) -传送的gtfs-validator的后继者，该库用于加载和保存具有磁盘支持的存储的任意大小的GTFS提要.
-- [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - 一种 [Data Package specification](http://specs.frictionlessdata.io/data-packages/) 验证完成 [Good Tables](http://goodtables.okfnlabs.org/) .  包括数据包，模式，测试，并以东南昆士兰州GTFS数据为例.
+- [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - 一个 [Data Package specification](http://specs.frictionlessdata.io/data-packages/) 验证完成 [Good Tables](http://goodtables.okfnlabs.org/) .  包括数据包，模式，测试，并以东南昆士兰州GTFS数据为例.
 - [Web GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) -基于网络的GTFS验证器，可同时运行 [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) 和 [gtfs-validator](https://github.com/conveyal/gtfs-validator) 在上传的GTFS文件上.
 
 #### GTFS Realtime
@@ -343,7 +343,7 @@
 
 - [Tang et al. - "Ridership effects of real-time bus information system: A case study in the City of Chicago"](https://www.sciencedirect.com/science/article/pii/S0968090X12000022) -在伊利诺伊州芝加哥市进行的实验表明，当骑手可以通过短信或电子邮件访问实时信息时，骑乘人数会适度增加.
 - [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf)  -论文试图回答“我们如何传达公交预测中的不确定性？”这一问题.  说明问题，现有解决方案并设计 [better interface for letting users know when to arrive at the bus stop](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
-- [Watkins et al. - "Where Is My Bus? Impact of mobile real-time information on the perceived and actual wait time of transit riders"](https://www.sciencedirect.com/science/article/pii/S0965856411001030) -西澳州西特尔（Seattl）的实验表明，当驾驶员能够通过移动应用访问实时信息时，他们会感觉到公交车的等待时间更短.
+- [Watkins et al. - "Where Is My Bus? Impact of mobile real-time information on the perceived and actual wait time of transit riders"](https://www.sciencedirect.com/science/article/pii/S0965856411001030) -西澳州西特尔（Seattl）的实验表明，当骑手可以通过移动应用访问实时信息时，他们会感觉到公交车的等待时间更短.
 - [Brakewood et al. - “An experiment evaluating the impacts of real-time transit information on bus riders in Tampa, Florida”](https://www.sciencedirect.com/science/article/pii/S0965856414002146)  -在佛罗里达州坦帕市进行的对照实验表明，与没有实时信息的骑手相比，能够通过移动应用访问实时信息的骑手的等待时间减少了近2分钟.  具有实时信息的骑手也减少了焦虑和沮丧，并更好地接受了代理.
 - [Brakewood et al. - "The impact of real-time information on bus ridership in New York City"](https://www.sciencedirect.com/science/article/pii/S0968090X15000297) -纽约市的实验表明，向骑手提供实时信息后，长途旅行的骑行量增加.
 

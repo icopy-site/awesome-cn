@@ -71,7 +71,7 @@
     *完整的详细列表-https://www.oracle.com/cloud/free/
 
   * [IBM Cloud](https://www.ibm.com/cloud/free/)
-    *云功能-每月执行500万次
+    * Cloud Functions - 5 million executions per month
     *对象存储-每月25GB
     * Cloudant数据库-1 GB数据存储
     * Db2数据库-100MB数据存储
@@ -218,7 +218,7 @@
 
   * [acquia.com](https://www.acquia.com/)  —托管Drupal网站.  开发人员的免费套餐.  还提供免费的开发工具（例如Acquia Dev Desktop）
   * [contentful.com](https://www.contentful.com/)  —无头CMS.  云中的内容管理和交付API.  带有一个免费的微型空间，其中包括10个用户，5000条记录，24种内容类型和2种语言环境.
-  * [Prismic](https://www.prismic.io/)  —无头CMS.  具有完全托管和可扩展API的内容管理界面.  社区计划为1位用户提供了无限的API调用，文档，自定义类型，资产和语言环境.  下一个项目所需的一切.  适用于开放内容/开放源代码项目的更大的免费计划.
+  * [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides 1 user with unlimited API calls, documents, custom types, assets, and locales. Everything that you need for your next project. Bigger free plans available for Open Content/Open Source projects.
   * [sanity.io](https://www.sanity.io/)  –使用React构建的可定制MIT许可编辑器托管结构化内容的后端.  无限的项目.  3个用户，2个数据集，500k API CDN请求，每个项目免费5GB资产
   * [kontent.ai](https://www.kontent.ai)  -内容即服务平台，可为您提供所有无用的CMS好处，同时为营销人员提供支持.  入门计划为3个用户提供了无限的项目，5000个内容项和2种语言.  可提供更大的计划来满足您的需求.
 
@@ -281,7 +281,7 @@
   * [semaphoreci.com](https://semaphoreci.com/) -开源免费，每月100个私有版本
   * [shippable.com](https://app.shippable.com/) —每月150个私人构建，免费使用1个构建容器，私人和公共存储库
   * [stackahoy.io](https://stackahoy.io)  — 100％免费.  无限的部署，分支和构建
-  * [styleci.io](https://styleci.io/) -仅公共GitHub存储库
+  * [styleci.io](https://styleci.io/) — Public GitHub repositories only
   * [travis-ci.org](https://travis-ci.org/) —对于公共GitHub存储库免费
   * [cirrus-ci.org](https://cirrus-ci.org) -对于公共GitHub存储库免费
   * [drone](https://cloud.drone.io/) -Drone Cloud使开发人员能够在一个地方跨多个架构运行持续交付管道-包括x86和Arm（32位和64位）
@@ -368,9 +368,9 @@
   * [loggly.com](https://www.loggly.com/) —单个用户免费，请参阅lite选项
   * [logz.io](https://logz.io/) —每天最多释放3 GB，保留3天
   * [papertrailapp.com](https://papertrailapp.com/) — 48小时搜索，7天存档，100 MB /月
-  * [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, 7 days retention
+  * [sematext.com](https://sematext.com/logsene) —每天最多释放500 MB，保留7天
   * [splunk.com](https://www.splunk.com) -单个用户免费，每天500 MB
-  * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
+  * [sumologic.com](https://www.sumologic.com/) —每天最多释放500 MB，保留7天
 
 ## Translation Management
 
@@ -502,6 +502,7 @@
   * [smartforms.dev](https://smartforms.dev/) -适用于您网站的强大而简单的表单后端，永远免费的计划允许每月50次提交，100MB文件存储，Zapier集成，CSV / JSON导出，自定义重定向，自定义响应页面，Telegram＆Slack bot，单个电子邮件通知.
   * [staticforms.xyz](https://www.staticforms.xyz/)  -无需任何服务器端代码即可轻松轻松地集成HTML表单.  用户提交表单后，会将包含表单内容的电子邮件发送到您的注册地址.
   * [Typeform.com](https://www.typeform.com/)  —在网站上包括设计精美的表格.  免费计划每个表格只允许10个字段，每月只允许100个回复.
+  * [WaiverStevie.com](https://waiverstevie.com)  -带有REST API的电子签名平台.  接收带有Webhooks的通知.  免费计划水印签名文档，但允许无限制的信封+签名.
 
 ## CDN and Protection
 
@@ -694,7 +695,7 @@
    * [kanrails.com](https://kanrails.com/)  -基于看板的项目管理.  免费供3位合作者，2个项目和5条曲目使用.  付费计划适用于无限的合作者，项目和轨道.
    * [Kumu.io](https://kumu.io/)   —带有动画，装饰，过滤器，聚类，电子表格导入等的关系图.  免费套餐允许无限的公共项目.  图形大小不受限制.  免费的学生私人项目.  如果您不希望文件公开在线（上传，编辑，下载，丢弃），则可以使用沙盒模式.
    * [LeanBoard](https://www.leanboard.io) —带有便笺的协作白板，用于解决GitHub问题（对于示例映射和其他技术很有用）
-   * [MeuScrum](https://www.meuscrum.com/en) - Free online scrum tool with kanban board
+   * [MeuScrum](https://www.meuscrum.com/en) -带看板的免费在线Scrum工具
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) —一年的免费Office 365 E3订阅进行开发/测试.
    * [Ora](https://ora.pm/) - Agile task management & team collaboration. Free for up to 3 users and files are limited to 10 MB.
    * [pivotaltracker.com](https://www.pivotaltracker.com/) —对于无限的公共项目和两个私人项目（总计3个活动用户（读写）和无限的被动用户（只读））免费.
@@ -892,7 +893,7 @@
 
   * [dev.to](https://dev.to/) -程序员共享思想并互相帮助的地方.
   * [hashnode.com](https://hashnode.com/) —面向开发人员的无忧博客软件！.
-  * [medium.com](https://medium.com/) — Get smarter about what matters to you.
+  * [medium.com](https://medium.com/) —变得更重要.
 
 ## Commenting Platforms
   * [ReplyBox](https://getreplybox.com)  -ReplyBox，一个简单，诚实的评论系统.  没有广告，没有狡猾的会员链接，没有绒毛.

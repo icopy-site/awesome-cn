@@ -82,6 +82,7 @@
 * [Cirrus](https://spiderpig86.github.io/Cirrus/) -完全响应的，全面的CSS框架，具有精美的控件和简单的结构.
 * [eFrolic](https://efraa.github.io/eFrolic/) -不使用JavaScript的CSS框架是交互式的且具有动画效果.
 * [Foundation](http://foundation.zurb.com/) -先进的响应式前端框架.
+* [Gralig](http://gralig.com/) -适度的灰色CSS库.
 * [Hasser CSS](https://github.com/HeavenMercy/HasserCSS) -轻量级（12k，未缩小），但有用的CSS框架以及灵活的Grid，Hero等.
 * [inuit.css](http://inuitcss.com/) -强大，可扩展，基于Sass的BEM，OOCSS框架.
 * [material-components-web](https://github.com/material-components/material-components-web) -用于网络的模块化和可自定义的Material Design UI组件.
@@ -243,7 +244,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [cssfx](https://cssfx.dev/) -精美简单的点击复制CSS效果
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) -适用于Chrome，Firefox和Edge的Magic CSS扩展.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) -通用JS UI组件的CSS替代品.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找错误标记的CSS小书签，无论您在何处编写错误的HTML内容，在漫画无衬线中均显示难看的粉红色错误消息 
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找错误标记的CSS小书签，无论您在何处编写错误的HTML内容，在漫画无衬线中均显示难看的粉红色错误消息
 
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -268,7 +269,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS Animation](https://twitter.com/cssanimation)
 * [Andrey Sitnik](https://twitter.com/andreysitnik) -@ Autoprefixer，http：//easings.net和@PostCSS的作者.
-* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计师.  @multimedial_utn HTML5和CSS Freak教授.  临时翻译.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计者.  @multimedial_utn HTML5和CSS Freak教授.  临时翻译.
 * [Sara Soueidan](https://twitter.com/SaraSoueidan) - Author of the @Codrops CSS Reference & Co-author of the Smashing Book #5.
 * [Hugo Giraudel](https://twitter.com/HugoGiraudel) -@edenspiekermann的CSS妖精和Sass黑客.
 * [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，房地产势利者，Foodie.
