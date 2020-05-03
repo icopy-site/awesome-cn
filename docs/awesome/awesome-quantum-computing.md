@@ -19,7 +19,7 @@
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) -David Kemp的量子门计算交互式学习.
 - [CNOT](https://cnot.io/) -易于理解，逐步介绍了量子计算概念.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) -拒绝计算的SDK教程.
-- [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) -有关光子连续变量量子计算方法的背景信息，以及Xanadu SDK的教程.
+- [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanadu’s SDK.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) -演示和教育资源，以及对D-Wave量子计算机的访问.
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) -简短的教程提供了对量子计算和IBM Q的简要介绍.
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) -John Preskill撰写的Caltech量子计算课程物理219 /计算机科学219的注释.
@@ -52,6 +52,7 @@
 ## Development Tools
 
 - [Amazon Braket](https://aws.amazon.com/braket/) -完全托管的服务，提供开发环境以在量子模拟器和计算机上运行量子电路.
+- [Blueqat](https://github.com/Blueqat/Blueqat) -Python中用于量子门计算的软件开发套件.
 - [Cirq](https://github.com/quantumlib/Cirq) -Python库，用于编写，操纵和优化NISQ电路以在量子计算机上运行.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) -在线量子编辑器，可在真实的量子计算硬件上运行实验.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) -用于在近期量子计算机上执行量子人工智能的库.
@@ -75,8 +76,8 @@
 
 ## Blogs
 
-- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉尼（Craig Gidney）-Google量子计算团队的成员.
-- [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
+- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google量子计算团队的成员.
+- [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享研究成果和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.
 - [Musty Thoughts](http://mustythoughts.com) -MichałStęchły的个人博客，其中许多文章供人们开始学习量子计算.

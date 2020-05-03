@@ -19,6 +19,7 @@
 - [Autofill: What web devs should know, but don’t](https://cloudfour.com/thinks/autofill-what-web-devs-should-know-but-dont/) -您需要了解的有关表单自动填充的所有信息.
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) -如何设置Cache-Control以获得最佳响应时间.
 - [Current Web on Galaxy Fold](https://medium.com/samsung-internet-dev/current-web-on-galaxy-fold-ad12d7f57c26) -有关Galaxy Fold的Web开发的建议.
+- [Designing a Dark Theme for OLED iPhones](https://medium.com/lookup-design/designing-a-dark-theme-for-oled-iphones-e13cdfea7ffe) -关于OLED显示器上深色主题的问题及其处理方法.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) -如何处理iPhone X上的“缺口”.
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) -有关移动Web开发的高级概述.
 - [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) -该图显示了在哪些情况下JavaScript可能不可用.
@@ -56,7 +57,7 @@
 - [High-Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) -预定有关移动设备上网络性能的信息.
 - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) -UI模式对移动Web应用程序可能有用.
 - [Mobile First](https://abookapart.com/products/mobile-first) -如何设计移动设备的网站.
-- [Responsive Web Design](https://abookapart.com/products/responsive-web-design) - Book about responsive web design.
+- [Responsive Web Design](https://abookapart.com/products/responsive-web-design) -关于响应式网页设计的书.
 
 
 ## Specifications from W3C for Enhancing Mobile Web Experience
@@ -95,7 +96,7 @@
 - [PageSpeed](https://www.modpagespeed.com) -自动优化站点的Web服务器模块.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) -比较您的移动网站与其他网站的速度.
 - [Test Your Mobile Speed](https://testmysite.withgoogle.com/intl/en-gb) -Google提供的工具，可对移动网站进行全面的速度检查.
-- [Webpagetest](https://webpagetest.org) -使用真实的浏览器并以真实的消费者连接速度从多个位置进行网站速度测试.
+- [Webpagetest](https://webpagetest.org) - Website speed test from multiple locations using real browsers and at real consumer connection speeds.
 
 
 ## Platform Monitoring

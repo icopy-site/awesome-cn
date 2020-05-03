@@ -2,26 +2,46 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg?sanitize=true> Awesome Hyperapp
 
-&gt; 1 kB JavaScript库，用于构建Web应用程序.
+精选清单 [Hyperapp](https://hyperapp.dev) 资源. 
 
-精选清单 [Hyperapp](https://github.com/hyperapp/hyperapp) 资源.
+ 要做出贡献，请分叉该存储库，添加精彩的条目并发送给我们PR.  看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 欲获得更多信息.
 
 <!-- TOC -->
 
 
 <!-- /TOC -->
 
- 要做出贡献，请分叉该存储库，添加精彩的条目并发送给我们PR.  看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 想要查询更多的信息.
-
 ## Official Resources
 
 * [Homepage](https://hyperapp.dev/)
+* [Tutorial](https://hyperapp.dev/tutorial)
 * [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp)
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
 
+
 ## Articles & Tutorials
+
+* [A Walk through Hyperapp 2](https://medium.com/hyperapp/a-walk-through-hyperapp-2-b1f642fca172)
+
+## Utilities
+
+* [hyperapp-router](https://github.com/mrozbarry/hyperapp-router) -Hyperapp的路由器
+* [hyperapp-form](https://github.com/zaceno/hyperapp-form) -减轻了验证和提交表格的痛苦
+
+## Examples
+
+* [RealWorld with Hyperapp](https://github.com/kwasniew/hyperapp2-real-world-example)
+* [7GUIs with Hyperapp](https://github.com/zaceno/sevenguis-hyperapp)
+
+---
+
+## V1
+
+以下这些资源仅适用于Hyperapp的V1
+
+## Articles & Tutorials V1
 
 * [An Introduction to Hyperapp](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
 * [How Hyperapp Works](https://gist.github.com/JorgeBucaran/8dc33b7947f3193eb2ea3d5700e27036)
@@ -34,7 +54,7 @@
 * [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（简体中文， [Source](https://github.com/willin/hyperapp.js.cool)）
 * [Creating a Snake Clone with Hyperapp](https://dev.to/avalander/create-a-snake-clone-with-hyperapp-part-1-2ffn)
 
-## Boilerplates
+## Boilerplates V1
 
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) -样板展示了如何创建可用于生产环境的Hyperapp应用程序.
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) -带有Hyperapp，LiveReload和Redux DevTools的最小化电子应用程序启动器.
@@ -47,7 +67,7 @@
 * [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) -使用LESS和hyperapp-forms最小化webpack Hyperapp设置. 
 * [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) 专注于开发人员经验的Clean PWA启动程序-包裹，CSS模块，可靠的配置
 
-## Examples
+## Examples V1
 
 * [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) -精选的常见面试问题集.
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) -用于搜索表情符号的简单应用.
@@ -58,7 +78,7 @@
 * [Repository Search](https://ricosmall.github.io/hyperapp-search) -搜索Github存储库的简单工具.
 
 
-## Utilities
+## Utilities V1
 
 * [@hyperapp/html](https://github.com/hyperapp/html) -Hyperapp的HTML助手.
 * [@hyperapp/logger](https://github.com/hyperapp/logger) -将状态更新和操作信息记录到控制台.
@@ -80,11 +100,11 @@
 * [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) -表单状态管理库（类似于redux-form）
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) -Hyperapp的包装器，使您可以使用Pug模板而不是JSX或hyperscript.
 
-## Testing
+## Testing V1
 
 * [bahmutov/cypress-hyperapp-unit-test](https://github.com/bahmutov/cypress-hyperapp-unit-test) -用于对Hyperapp组件进行单元测试的小型实用程序 [Cypress](https://github.com/cypress-io/cypress) 端到端的测试运行程序.
 
-## Other
+## Other V1
 
 * [Deployable](https://github.com/lukejacksonn/deployable) -使用Hyperapp构建的可立即部署的静态Web应用程序模板.
 * [Linkcast](https://github.com/ajaxtown/linkcast) -使用Hyperapp构建的Chrome扩展程序，可共享组中的链接并利用离线功能进行社交.

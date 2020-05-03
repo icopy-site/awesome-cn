@@ -31,6 +31,7 @@
 * [Composed](https://github.com/joshdifabio/composed) -一个在运行时解析项目的Composer环境的库.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) -一个composer插件，用于合并多个composer.json文件.
 * [Prestissimo](https://github.com/hirak/prestissimo) -一个composer插件，可实现并行安装过程.
+* [Repman](https://repman.io) -私人PHP软件包存储库管理器和Packagist代理
 * [Satis](https://github.com/composer/satis) -静态Composer资源库生成器.
 * [tooly](https://github.com/tommy-muehle/tooly-composer-script) -使用Composer管理项目中PHAR文件的库.
 * [Toran Proxy](https://toranproxy.com) -静态的Composer存储库和代理.
@@ -222,7 +223,7 @@
 * [Faker](https://github.com/fzaninotto/Faker) -伪造的数据生成器库.
 * [HTTP Mock](https://github.com/InterNations/http-mock) -用于在单元测试中模拟HTTP请求的库.
 * [Kahlan](https://github.com/kahlan/kahlan) -具有内置存根，模拟和代码覆盖支持的完整堆栈单元/ BDD测试框架.
-* [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
+* [Mink](http://mink.behat.org/en/latest/) -网络验收测试.
 * [Mockery](https://github.com/mockery/mockery) -用于测试的模拟对象库.
 * [ParaTest](https://github.com/paratestphp/paratest) -PHPUnit的并行测试库.
 * [Peridot](https://github.com/peridot-php/peridot) -事件驱动的测试框架.
@@ -406,7 +407,7 @@
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) -另一个Web套接字库.
 * [Evenement](https://github.com/igorw/evenement) -事件分配器库.
 * [Event](https://github.com/thephpleague/event) -重点关注域事件的事件库.
-* [Hoa EventSource](https://github.com/hoaproject/Eventsource) - An event source library.
+* [Hoa EventSource](https://github.com/hoaproject/Eventsource) -事件源库.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) -另一个Web套接字库.
 * [Prooph Event Store](https://github.com/prooph/event-store) -事件源组件，用于保留事件消息
 * [PHP Defer](https://github.com/php-defer/php-defer) -Golang的PHP延迟声明.
@@ -425,6 +426,7 @@
 *用于付款和建立在线电子商务商店的图书馆和应用程序.
 
 * [Money](https://github.com/moneyphp/money) -Fowler的money模式的PHP实现.
+* [Brick\Money](https://github.com/brick/money) -一个用于PHP的货币库，支持上下文，现金舍入和货币换算.
 * [OmniPay](https://github.com/thephpleague/omnipay) -与框架无关的多网关支付处理库.
 * [Payum](https://github.com/payum/payum) -付款抽象库.
 * [Shopware](https://github.com/shopware/shopware) -高度可定制的电子商务软件
@@ -555,7 +557,7 @@
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -用于检测移动设备（包括平板电脑）的轻量级PHP类.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) -用于处理UTF-8字符串的可移植库.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) -具有UTF-8安全替换方法的字符串处理库.
-* [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
+* [Slugify](https://github.com/cocur/slugify) -将字符串转换为段的库.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) -用于格式化SQL语句的库.
 * [Stringy](https://github.com/danielstjules/Stringy) -具有多字节支持的字符串处理库.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) -用于解析用户代理字符串的库.
@@ -579,7 +581,7 @@
 * [Cake Validation](https://github.com/cakephp/validation) -另一个验证库（CP）.
 * [Filterus](https://github.com/ircmaxell/filterus) -一个简单的PHP过滤库.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -一个用于根据许多国家/地区的ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的库.
-* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](https://json-schema.org/) 验证库.
+* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) -支持YAML，JSON和XML的架构验证库.
 * [Respect Validation](https://github.com/Respect/Validation) -一个简单的验证库.
 * [Upload](https://github.com/brandonsavage/Upload) -用于处理文件上传和验证的库.
@@ -653,7 +655,7 @@
 * [Bref](https://bref.sh/) -AWS Lambda上的无服务器PHP.
 * [OpenWhisk](http://openwhisk.apache.org/) -开源的无服务器云平台.
 * [Serverless Framework](https://serverless.com/cli/) -用于构建无服务器应用程序的开源框架.
-* [Laravel Vapor](https://vapor.laravel.com/) -由AWS支持的Laravel无服务器部署平台.
+* [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
 ## Configuration
 *用于配置的库和工具.*
@@ -781,7 +783,7 @@
 ### PHP Websites
 *与PHP相关的有用网站.*
 
-* [libs.garden: PHP](https://libs.garden/php) -增长最快的PHP库的概述.
+* [libs.garden: PHP](https://libs.garden/php) - An overview of fastest growing PHP libraries.
 * [Nomad PHP](https://nomadphp.com/) -在线PHP学习资源.
 * [PHP Best Practices](https://phpbestpractices.org/) -PHP最佳做法指南.
 * [PHP FIG](https://www.php-fig.org/) -PHP框架互操作性组.
@@ -878,7 +880,7 @@
 * [PHP Internals Book](http://www.phpinternalsbook.com) -由三位核心开发人员撰写的有关PHP内部原理的在线书籍.
 * [PHP RFCs](https://wiki.php.net/rfc) -PHP RFC（要求发表评论）的所在地.
 * [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html) -有关打印和回显性能的文章.
-* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html) -文章三元表演.
+* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html) - An article ternary performance.
 * [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) -有关操作码的文章.
 * [When Does Foreach Copy?](https://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html) -有关foreach内部的文章.
 * [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) -有关对象和数组内部的文章.

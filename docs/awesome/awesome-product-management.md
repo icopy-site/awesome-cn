@@ -6,7 +6,7 @@
 
 ## Who's a product manager?
 
- 根据定义，产品经理是一个驱动产品愿景并深刻理解客户需求的人.  PM通常被认为是业务，技术和设计领域的交集-它们是问题领域的专家，并且能够学习和快速迭代以为消费者提供有价值的体验.
+ 根据定义，产品经理是一个驱动产品愿景并深刻理解客户需求的人.  PM通常被认为是业务，技术和设计领域的交集-他们是问题领域的专家，并且能够学习和快速迭代以为消费者提供有价值的体验.
 
 
 
@@ -160,18 +160,19 @@ Markdown格式的笔记，具有基于标签的组织功能.
 - [Coaching Tools – The Plan](https://svpg.com/coaching-tools-the-plan/) -由 [Marty Cagan](https://svpg.com/author/marty/).
 - [The dark side of expertise](https://lwn.net/Articles/809556/) -杰克·埃奇（Jake Edge）.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) -由概念团队.
+- [On narratives](https://ceklog.kindel.com/?s=narratives) -由 [Charlie Kindel](https://twitter.com/ckindel).
 
 ## Books
 
 - [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) -由Chip Heath和Dan Heath撰写.
 - [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) -由Chip Heath和Dan Heath撰写.
 - [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) -史蒂夫·布兰克（Steve Blank）和鲍勃·多夫（Bob Dorf）.
-- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) -亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
-- [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) -亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
+- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) -作者：亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
+- [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) -作者：亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
 - [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) -埃里克·里斯（Eric Ries）.
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) -Ben Horowitz.
 - [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) -史蒂夫·布兰克（Steve Blank）.
-- [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) -克莱顿·克里斯滕森（Clayton M. Christensen）.
+- [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Management of Innovation and Change)](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780) -克莱顿·克里斯滕森（Clayton M.
 - [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) -Nir Eyal.
 - [The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) -丹·奥尔森（Dan Olsen）.
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012) -Ed Catmull和Amy Wallace.
@@ -185,7 +186,7 @@ Markdown格式的笔记，具有基于标签的组织功能.
 
  |  播客|  主持人|  网址|  描述
 |-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
-| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpeg" width="100px" />  |  里德霍夫曼|  https://mastersofscale.com/ |  公司如何从零增长到万亿美元？  传奇的硅谷投资者/企业家里德霍夫曼（Reid Hoffman）与著名创始人一起测试了他的理论.  嘉宾包括Facebook的Mark Zuckerberg和Sheryl Sandberg，Netflix的Reed Hastings，Google的Eric Sc​​hmidt，Spanx的Sara Blakely.  凭借原始的音乐和荒诞的诚实故事，该演出听起来像是您从未听过的.  |
+| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpeg" width="100px" />  |  里德霍夫曼|  https://mastersofscale.com/ |  公司如何从零增长到万亿美元？  传奇的硅谷投资者/企业家里德霍夫曼（Reid Hoffman）与著名创始人一起测试了他的理论.  嘉宾包括Facebook的Mark Zuckerberg和Sheryl Sandberg，Netflix的Reed Hastings，谷歌的Eric Sc​​hmidt，Spanx的Sara Blakely.  凭借原始的音乐和荒诞的诚实故事，该演出听起来像是您从未听过的.  |
 | <img alt="The Product Podcast" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-product.jpg" width="100px" />         |  多个|  https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 |  这是您的产品管理播客，其中包含来自Google，Facebook，LinkedIn，Spotify，Twitter和其他科技公司/初创公司的PM.  如果您是想要学习最新最佳实践的经理，设计师，工程师，企业家或市场营销人员，请收听.  |
 | <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                    |  多个|  https://www.gimletmedia.com/startup |  您从未听说过的企业起源故事.  |
 | <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />        |  盖伊·拉兹|  https://www.npr.org/podcasts/510313/how-i-built-this |  盖伊·拉兹（Guy Raz）深入探讨了一些世界知名公司的故事.  我的建造方式编织了关于创新者，企业家和理想主义者及其创造方式的叙事旅程.  |
@@ -202,8 +203,8 @@ Markdown格式的笔记，具有基于标签的组织功能.
 
 ## Conferences
 
-- [Industry](https://industryconference.com/)  -在三天的时间里，与会人员将从著名的产品负责人那里学习，并分享他们用于构建，发布和扩展世界一流软件产品的最新方法，工具和框架.  打造世界一流的软件产品非常困难.  在INDUSTRY中，您将看到其他人如何在不同的环境中管理产品，从快节奏的初创企业到复杂的大型企业.
-- [ProductCon](https://www.productschool.com/productcon/)  -ProductCon由Product School主办，每年举行五次，在旧金山，洛杉矶，纽约，西雅图和伦敦举行.  演讲者阵容包括来自Google，Slack，亚马逊，Airbnb，Netflix，Facebook等的产品领导者.  您将学习最成功产品背后的最佳实践，以及AI，VR，IoT和区块链的新趋势.  您还将有机会与我们所有对招募PM感兴趣的赞助商公司进行互动.
+- [Industry](https://industryconference.com/)  -在三天的时间里，与会者将向著名的产品负责人学习，并分享他们用于构建，发布和扩展世界一流软件产品的最新方法，工具和框架.  打造世界一流的软件产品非常困难.  在INDUSTRY中，您将看到其他人如何在不同的环境中管理产品，从快节奏的初创企业到复杂的大型企业.
+- [ProductCon](https://www.productschool.com/productcon/)  -ProductCon由Product School主办，每年举行五次，在旧金山，洛杉矶，纽约，西雅图和伦敦举行.  演讲者阵容包括来自Google，Slack，亚马逊，Airbnb，Netflix，Facebook等的产品领导者.  您将学习最成功产品背后的最佳实践，以及AI，VR，IoT和区块链的新趋势.  您还将有机会与我们所有对招募PM感兴趣的赞助公司进行互动.
 
 ## Additional resources
 
