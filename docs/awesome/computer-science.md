@@ -32,10 +32,9 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 **必修课程**：
 -接受报名
--定期运行（最好以自定进度的格式运行，否则每月至少运行一次）
--完成 [academic requirements](https://github.com/ossu/computer-science/blob/master/REQUIREMENTS.md) OSSU
--相对于主题和难度水平，完全适应课程的进展
+-定期运行（最好以自定进度的格式运行，否则每年运行多次）
 -教材和教学法的质量普遍较高
+-符合课程标准 [CS 2013](https://github.com/ossu/computer-science/blob/master/CURRICULAR_GUIDELINES.md)：计算机科学专业本科课程大纲 
 
 如果没有课程符合以上条件，则以书为辅.
 如果课程或书籍不符合课程要求，但质量很高，
@@ -47,8 +46,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 -*高级CS *：大致对应于计算机科学课程的最后一年，根据学生的兴趣选择选修课
 -*最终项目*：该项目供学生验证，巩固和展示其知识，并由世界各地的同行进行评估
 
-
- **持续时间**.  如果您精心计划并每周花大约18-22个小时学习，则大约2年内即可完成Core CS.
+ **持续时间**.  如果您精心计划并每周花大约18-22个小时学习，则可以在大约2年内完成Core CS.
 如果可能，Core CS的课程应采用线性课程，但由于极不可能实现完美的线性进度，
 指定每个班级的前提条件，以便您可以设计逻辑但非线性的进度
 根据课程表和您自己的生活计划.
@@ -127,6 +125,21 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 :-- | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ）|  9周  每周15小时| [high school algebra](https://www.khanacademy.org/math/algebra-home)
 
+### Introduction to CS Tools
+ 理解理论很重要，但是您也应该创建程序.  有许多工具被广泛使用以简化该过程.  立即学习它们，以简化您将来编写工作的程序.
+
+**涵盖的主题**：
+终端和外壳脚本
+`vim`
+命令行环境
+版本控制
+还有更多
+
+ 课程  持续时间|  努力  先决条件
+:-- | :--: | :--: | :--:
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)  |  2周  每周12小时|  --
+
+
 ## Core CS
 
 除非另有说明，否则**必修**必修的所有CS课程.
@@ -157,11 +170,6 @@ Lisp家庭语言（通过球拍）
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3周  每周8-16小时|  编程语言，A部分
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3周  每周8-16小时|  编程语言，B部分
 
-#### Readings
--**必填**，以了解单子，懒惰和纯度： [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
-  -**注意**：可能是学习Haskell的最佳资源： [Haskell Programming from First Principles](http://haskellbook.com/) “付费”
--**必需**，以了解逻辑编程，回溯和统一： [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
-
 ### Math Electives
 **学生必须选择以下主题之一**：微积分，线性代数，逻辑或概率.
 
@@ -176,7 +184,7 @@ Lisp家庭语言（通过球拍）
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [pre-calculus](https://www.futurelearn.com/courses/precalculus)
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/) ）|  15周|  每周8小时|  线性代数的本质
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)  |  14周|  每周12小时|  线性代数的本质
 
 #### Logic
  课程  持续时间|  努力  先决条件
@@ -227,7 +235,7 @@ Lisp家庭语言（通过球拍）
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/) ）|  6周  每周7到13个小时|  -|  类似于C的编程语言
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6周  每周12-18个小时|  -|  之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png)，从南德到俄罗斯方块第一部分
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) |  8周  每周4–12小时| [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)  |  代数，概率，基本CS
-[ops-class.org - Hack the Kernel](https://www.ops-class.org/)  |  15周|  每周6个小时|  将课程教科书替换为 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  |  算法
+[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)  |  10-12周|  每周6个小时| [Homework](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html) [Lectures](https://www.youtube.com/channel/UCGweYi6vcfHaTrkap3c1TPg/videos) [Supplement](http://pages.cs.wisc.edu/~shivaram/cs537-sp20/)  |  算法
 
 ### Core theory
 
@@ -327,6 +335,8 @@ GPU编程
 :-- | :--: | :--: | :--:
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) ([HW](https://colab.research.google.com/github/depctg/udacity-cs344-colab) ）|  12周|  -|  C，算法
 [Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx))| 9 weeks | 6-8 hours/week | none
+[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) |  14周|  -|  --
+[Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top) |  12周|  -|  --
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8周  每周6个小时|  Python，面向对象的编程
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)  |  4周  每周6个小时|  Python，编程经验
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness)  |  7周  每周6个小时|  线性代数
@@ -354,7 +364,7 @@ CMOS技术
 :-- | :--: | :--: | :--:
 [Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) <sup>1</sup> |  7周  每周8-10个小时| [calculus](https://www.khanacademy.org/math/calculus-1), [basic mechanics](https://www.khanacademy.org/science/physics)
 [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0)  |  7周  每周8-10个小时|  电磁学，第1部分
-[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)  |  10周|  每周6个小时|  电，磁
+[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | 10 weeks | 6 hours/week | electricity, magnetism
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)  |  10周|  每周6个小时|  计算结构1
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | 10 weeks | 6 hours/week | Computation Structures 2
 
@@ -453,7 +463,7 @@ or
 
 ### Which programming languages should I use?
 
-My friend, here is the best part of liberty!
+我的朋友，这是自由的最好部分！
 您可以使用要完成最终项目的任何语言.
 
 重要的是要“内化”核心概念，并使其能够与所需的任何工具（编程语言）一起使用.
@@ -497,7 +507,7 @@ My friend, here is the best part of liberty!
 带有“ Section”标签的卡片仅用于帮助完成列.
 您应将*课程卡*放在其各自的*部门卡*下方.
 
-该委员会的目的是为我们的学生提供一种跟踪他们的进度的方法，并能够通过公开页面向朋友，家人，雇主等展示他们的进度.
+该委员会的目的是为我们的学生提供一种跟踪其进度的方法，并且还可以通过公开页面向朋友，家人，雇主等展示其进度.
 您可以将董事会的状态更改为*公开*或*私有*.
 
 ## Team
@@ -506,15 +516,3 @@ My friend, here is the best part of liberty!
 * **[hanjiexi](https://github.com/hanjiexi)**：首席技术维护人员
 * **[waciumawanjohi](https://github.com/waciumawanjohi)**：首席学术维护者
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
-
-## References
-
-- [Google - Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [Coursera](https://www.coursera.org/)
-- [edX](https://www.edx.org)
-- [Udacity](https://www.udacity.com/)
-- [Stanford University](https://lagunita.stanford.edu/)
-- [Carnegie Mellon University: Computer Science Major Requirements](https://www.csd.cs.cmu.edu/academics/undergraduate/requirements)
-- [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)

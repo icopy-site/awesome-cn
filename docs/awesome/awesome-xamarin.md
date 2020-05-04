@@ -102,7 +102,7 @@
 ## Internationalization
 
 - [I18NPortable ★49](https://github.com/xleon/I18N-Portable) -Xamarin和.NET的简单跨平台国际化/翻译.
-- [Resxible ★9](https://github.com/apcurium/resxible) - Tool to generate automatically several platform-dependent resource files from a single RESX file.
+- [Resxible ★9](https://github.com/apcurium/resxible) -从单个RESX文件自动生成多个平台相关资源文件的工具.
 - [Vernacular ★167](https://github.com/rdio/vernacular) -跨平台本地化，用于转换标准字符串格式的工具.
 
 
@@ -120,9 +120,10 @@
 - [MediaManager ★269](https://github.com/Baseflow/XamarinMediaManager) -跨平台Xamarin插件可播放PCL中的媒体.
 - [NGraphics ★482](https://github.com/praeclarum/NGraphics) -用于呈现矢量图形的跨平台库.
 - [PDFReader ★51](https://github.com/AlexanderMac/mTouch-PDFReader) -iOS（仅）库，用于在iPad和iPhone上显示PDF文档.
+- [Screenshot Plugin ★21](https://github.com/wilsonvargas/ScreenshotPlugin) -Xamarin和Windows的简单截图插件，可在您的应用中获取并保存截图.
 - [SkiaSharp ★920](https://github.com/mono/SkiaSharp) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library.
 - [Splat ★590](https://github.com/reactiveui/splat) -跨平台图像加载，颜色和内容.
-- [SimpleAudioPlayer ★14](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer) -用于将本地文件和音频数据作为流播放的简单插件.
+- [SimpleAudioPlayer ★14](https://github.com/adrianstevens/Xamarin-Plugins/tree/master/SimpleAudioPlayer) - Simple plugin for plays local files and audio data as a stream.
 - [ZXing.Net.Mobile ★570](https://github.com/Redth/ZXing.Net.Mobile) -适用于MonoTouch，适用于Android的Mono和Windows Phone的条形码扫描库.
 - [SupportMediaXF ★2](https://github.com/bulubuloa/SupportMediaXF) -简单的跨平台插件，可从共享代码拍照或从图库中挑选照片
 
@@ -171,7 +172,7 @@
 - [ReactiveProperty ★361](https://github.com/runceel/ReactiveProperty) -在“响应式扩展”下提供MVVM和异步支持功能.
 - [RxFlow ★18](https://github.com/ugaya40/RxFlow) -具有Rx（反应性扩展）的简单流控制库.
 - [Sensors](https://github.com/aritchie/sensors) -适用于Xamarin和Windows的ACR反应式传感器插件.
-- [CrossPlatformLiveData](https://github.com/jakdor/CrossPlatformLiveData) -Android LiveData启发性的.NET实现-生命周期感知的rx流
+- [CrossPlatformLiveData](https://github.com/jakdor/CrossPlatformLiveData) -Android LiveData启发了.NET的实现-生命周期感知的rx流.
 
 
 ## Security

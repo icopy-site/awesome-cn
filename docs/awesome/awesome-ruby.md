@@ -61,7 +61,7 @@
 * [Blanket](https://github.com/inf0rmer/blanket) -无效的简单API包装器.
 * [Crepe](https://github.com/crepe/crepe) -瘦API堆栈.
 * [Fast JSON API](https://github.com/Netflix/fast_jsonapi) -用于Ruby对象的快速的JSON：API序列化程序.
-* [Grape](http://www.ruby-grape.org) -一个自以为是的微框架，用于在Ruby中创建类似REST的API.
+* [Grape](http://www.ruby-grape.org) -在Ruby中创建类似REST的API的自觉的微框架.
 * [Her](https://github.com/remiprev/her)  -将REST资源映射到Ruby对象的ORM.  设计用于构建由RESTful API（而非数据库）支持的应用程序.
 * [jbuilder](https://github.com/rails/jbuilder) -通过构建器风格的DSL创建JSON结构.
 * [jsonapi-rb](http://jsonapi-rb.org) –高效便捷的JSON API（反序列化）库.
@@ -85,7 +85,7 @@
 * [Emoji](https://github.com/wpeterson/emoji) -公开了Phantom Open Emoji库的unicode /图像资产和与之一起使用的API.
 * [Less Rails](https://github.com/metaskills/less-rails) -Rails资产管道的动态样式表语言.
 * [Less](https://github.com/cowboyd/less.rb) -在浏览器或Ruby中使用精益CSS.
-* [Rails Assets](https://rails-assets.org) -捆绑器到Bower代理.
+* [Rails Assets](https://rails-assets.org) -Bundler到Bower代理.
 * [Sass](http://sass-lang.com) -Sass使CSS再次有趣.
 * [Sprockets](https://github.com/rails/sprockets) -基于机架的资产包装系统.
 * [Torba](https://github.com/torba-rb/torba) -链轮的无弓捆扎机.
@@ -306,7 +306,7 @@
 
 ## Data Processing and ETL
 
-* [CSV Reader](https://github.com/csvreader/csvreader) -现代的表格数据（逐行记录）阅读器不仅支持“经典​​” CSV，而且还支持CSV数字，CSV &lt;3 JSON，CSV &lt;3 YAML，制表符，空格或固定宽度字段（FWF），以及许多更多口味和方言.
+* [CSV Reader](https://github.com/csvreader/csvreader) -现代的表格数据（逐行记录）阅读器支持“经典​​” CSV，但也支持CSV数字，`CSV &lt;3 JSON`，`CSV &lt;3 YAML`，制表符，空格或固定宽度字段（FWF）以及许多更多口味和方言.
 * [Kiba](http://www.kiba-etl.org) -Ruby的轻量级数据处理/ ETL框架.
 * [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) - It Provides Snowball algorithm for stemming purposes.
 
@@ -329,7 +329,7 @@
 * [Neography](https://github.com/maxdemarzi/neography) -Neo4j Rest API的薄Ruby包装.
 * [Redic](https://github.com/amakawa/redic) -轻量级Redis客户端.
 * [redis-rb](https://github.com/redis/redis-rb) -一个Ruby客户端，它尝试一对一地匹配Redis的API，同时仍提供惯用的接口.
-* [ruby-pg](https://bitbucket.org/ged/ruby-pg) -PostgreSQL 8.3和更高版本的Ruby接口.
+* [ruby-pg](https://github.com/ged/ruby-pg) -PostgreSQL 8.3和更高版本的Ruby接口.
 * [SQLite3](https://github.com/sparklemotion/sqlite3-ruby) -用于SQLite3嵌入式数据库的Ruby绑定.
 * [SQL Server](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) -用于ActiveRecord的SQL Server适配器.
 * [TinyTDS](https://github.com/rails-sqlserver/tiny_tds) -使用DB-Library的Ruby的FreeTDS绑定.
@@ -403,7 +403,7 @@
 * [Lita](https://www.lita.io/) -用于Ruby的ChatOps：可与任何聊天服务一起使用的可插拔聊天机器人框架.
 * [Logstash](https://github.com/elastic/logstash) -日志/事件传输，处理，管理，搜索.
 * [Mina](https://github.com/mina-deploy/mina) -真正快速的部署者和服务器自动化工具.
-* [Puppet](https://github.com/puppetlabs/puppet) -针对Linux，Unix和Windows系统的自动化管理引擎，根据集中的规范执行管理任务（例如，添加用户，安装软件包和更新服务器配置）.
+* [Puppet](https://github.com/puppetlabs/puppet) -针对Linux，Unix和Windows系统的自动管理引擎，根据集中的规范执行管理任务（例如添加用户，安装软件包和更新服务器配置）.
 * [Request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer)  -根据您的日志文件创建报告.  支持Rails，Apache，MySQL，Delayed :: Job和其他格式.
 * [Rubber](https://github.com/rubber/rubber) -橡胶插件可将RubyOnRails应用程序相对复杂的多实例部署到Amazon的Elastic Compute Cloud（EC2）.
 * [SSHKey](https://github.com/bensie/sshkey) -纯Ruby（RSA和DSA）中的SSH私钥和公钥生成器.
@@ -923,7 +923,7 @@
 
 ## Robotics
 
-* [Arli](https://github.com/kigster/arli)  -Arli是CLI工具，用于使用基于YAML的Arlifile在项目中搜索，安装和打包Arduino库.  这是“用于Arduino开发的捆绑程序”. 
+* [Arli](https://github.com/kigster/arli)  -Arli是CLI工具，用于使用基于YAML的Arlifile在项目中搜索，安装和打包Arduino库.  这是“用于Arduino开发的捆绑程序”.
 * [Artoo](http://artoo.io) -支持不同平台的下一代机器人框架：Arduino，Leap Motion，Pebble，Raspberry Pi等.
 
 ## RSS
@@ -1061,7 +1061,7 @@
 
 * [Curly](https://github.com/zendesk/curly) -完全将结构和逻辑分开的模板语言.
 * [Haml](https://github.com/haml/haml) -HTML抽象标记语言.
-* [Liquid](https://github.com/Shopify/liquid) -面向客户的安全模板语言，用于灵活的Web应用程序.
+* [Liquid](https://github.com/Shopify/liquid) -面向客户的安全模板语言，可用于灵活的Web应用程序.
 * [Mustache](https://github.com/mustache/mustache) -无逻辑的Ruby模板.
 * [Slim](https://github.com/slim-template/slim) -一种模板语言，其目标是将语法简化为基本部分而又不会变得晦涩难懂.
 * [Tilt](https://github.com/rtomayko/tilt) -多个Ruby模板引擎的通用接口.
@@ -1203,7 +1203,7 @@
 * [Puma](https://github.com/puma/puma) -Ruby的现代并发Web服务器.
 * [Rack](http://rack.github.io)  -通用的Ruby Web服务器界面.  就其本身而言，它只是一个规范和实用程序库，但是所有Ruby Web服务器都实现此接口.
 * [Reel](https://github.com/celluloid/reel) -赛璐oid :: IO驱动的Web服务器.
-* [Thin](http://code.macournoyer.com/thin) -微型，快速且有趣的HTTP服务器.
+* [Thin](https://github.com/macournoyer/thin) -微型，快速且有趣的HTTP服务器.
 * [TorqueBox](https://github.com/torquebox/torquebox) -基于JBoss AS7和JRuby构建的Ruby应用服务器.
 * [Unicorn](http://unicorn.bogomips.org) -用于快速客户端和Unix的机架式HTTP服务器.
 
