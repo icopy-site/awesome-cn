@@ -16,7 +16,7 @@
 
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
-- [Web components: the secret ingredient helping power the web](https://web.dev/web-components-io-2019/)
+- [Web Components (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 ## Standards
 
@@ -33,7 +33,7 @@
 
 ### Shadow DOM
 
-Shadow DOM描述了一种将多个DOM树组合到一个层次结构中的方法，以及这些树如何在文档中彼此交互，从而实现DOM更好的组合的方法.
+Shadow DOM描述了一种将多个DOM树组合到一个层次结构中的方法，以及这些树如何在文档中彼此交互，从而实现DOM更好的组合.
 
 - [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
 - [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
@@ -122,6 +122,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
 - [5 Reasons Web Components Are Perfect for Design Systems](https://ionicframework.com/blog/5-reasons-web-components-are-perfect-for-design-systems/)
+- [Web components: the secret ingredient helping power the web](https://web.dev/web-components-io-2019/)
 - [Web Components for Enterprise. Part 1: Salesforce, Oracle, SAP](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70)
 - [Web Components for Enterprise. Part 2: Nuxeo, Ionic, Vaadin](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
 
@@ -275,11 +276,13 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ## Presentations
 
-- [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development)
-- [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components)
-- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-by-bashmish-FrontMania-2018.pdf)
-- [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that)
-- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides-mar2020/)
+- [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) 通过 [@lostinbrittany](https://twitter.com/lostinbrittany)
+- [Designing St和ard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) 通过 [@stefsull](https://twitter.com/stefsull) 和 [@bferrua](https://twitter.com/bferrua)
+- [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) 通过 [@samjulien](https://twitter.com/samjulien)
+- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) 通过 [@LeonieWatson](https://twitter.com/LeonieWatson)
+- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-通过-bashmish-FrontMania-2018.pdf) 通过 [@bashmish](https://twitter.com/bashmish)
+- [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) 通过 [@vogloblinsky](https://twitter.com/vogloblinsky)
+- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides-mar2020/) 通过 [@webcomp_dev](https://twitter.com/webcomp_dev)
 
 ## Benchmarks
 

@@ -7,7 +7,7 @@
 精选的深奥编程语言，资源和相关项目的清单.
 
 
-&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以编程或作为玩笑，而不是用于实际用途.”  
+&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以被编程或作为玩笑，而不是用于实际用途.”  
 &gt; *** esolang.org ***
 
 
@@ -49,6 +49,7 @@
 * [Rockstar](https://github.com/dylanbeattie/rockstar) -设计用于创建也是歌曲歌词的计算机程序.
 * [Piet](http://www.dangermouse.net/esoteric/piet.html)  -使用颜色作为代码的程序看起来像抽象绘画的语言.  以Piet Mondrian的名字命名.
 * [Shakespeare](http://shakespearelang.sourceforge.net) -代码看起来像是莎士比亚戏剧的语言.
+* [Spooky](https://spookylang.com) -最可怕的编程语言：jack_o_lantern：：skull:.
 * [Suzy](https://github.com/gvx/suzy) -以Befunge为灵感的3D语言.
 * [Thue](https://github.com/jcolag/Thue) -基于半确定语法的不确定字符串重写的* Matrioshka *语言.
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) -使Python再次出色.
@@ -69,15 +70,14 @@
 * [πfs](https://github.com/philipl/pifs) -基于Pi的存储系统，通过在pi中搜索匹配序列来存储数据.
 * [Stacksort](https://gkoberger.github.io/stacksort) -通过在Stack Overflow中搜索答案并执行代码段对列表进行排序，直到被排序为止.
 
-## Tools
-
-* [asmbf](https://github.com/KrzysztofSzewczyk/asmbf) -唯一真正的Brainfuck汇编器工具包.
-
 ## Others
 
+* [asmbf](https://github.com/KrzysztofSzewczyk/asmbf) -唯一真正的Brainfuck汇编器工具包.
 * [CSS-only-chat](https://github.com/kkuchta/css-only-chat) -在前端完全不使用JS的真正可怕的异步Web聊天.
 * [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) -在最严格的企业标准下实施的简单FizzBu​​zz游戏.
+* [NoCode](https://github.com/kelseyhightower/nocode)  -安全可靠的应用程序.  什么也不要写  无处部署.
 * [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) -基于随机动作和奖励/惩罚的操作系统概念.
+* [vapor.js](https://github.com/madrobby/vapor.js) -世界上最小和最快的JavaScript库.
 
 ## Resources
 

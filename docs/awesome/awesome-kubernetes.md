@@ -206,6 +206,8 @@ Installers
 - [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) 通过 [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
 - [Kubernetes Security Best Practices](https://dev.to/petermbenjamin/kubernetes-security-best-practices-hlk)
 - [Running Vault and Consul on Kubernetes](https://testdriven.io/running-vault-and-consul-on-kubernetes) 通过 [Michael Herman](https://mherman.org/)
+- [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions/) -由 [Eviatar Gerzi](https://twitter.com/g3rzi)
+- [Eight Ways to Create a Pod](https://www.cyberark.com/threat-research-blog/eight-ways-to-create-a-pod/) -由 [Eviatar Gerzi](https://twitter.com/g3rzi)
 
 
 - [Kubernetes Authentication plugins and kubeconfig](http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
@@ -315,7 +317,7 @@ Installers
   - [NetApp Kubernetes Service](https://cloud.netapp.com/kubernetes-service)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
-  - [WorldSibu-Forma](https://worldsibu.tech/forma/) -使用Kubernetes的多云远程区块链基础架构协调器
+  - [WorldSibu-Forma](https://worldsibu.tech/forma/) - Multi-cloud Remote Blockchain Infrastructure Orchestrator with Kubernetes
 
 
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -阿里云Kubernetes云容器服务
@@ -488,7 +490,7 @@ Projects
 * [Escalator](https://github.com/atlassian/escalator) -适用于Kubernetes的批处理或作业优化的水平自动缩放器
 * [Fission Workflows](https://github.com/fission/fission-workflows) -基于工作流的无服务器功能组合
 * [Forecastle](https://github.com/stakater/Forecastle) -可以动态发现并提供启动板以访问Kubernetes上部署的应用程序的仪表板
-* [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) - A proxy to let webhooks reach running services behind a firewall
+* [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) -代理，可让webhook访问防火墙后的运行服务
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) -监视入口端点并在配置的正常运行时间检查器上自动注册活动警报
 * [k8s-label-rules-webhook](https://github.com/circa10a/k8s-label-rules-webhook) -准入网络挂钩，以强制执行在您的k8s集群中创建的资源标签的标准
@@ -829,7 +831,8 @@ Projects
 * [kosko](https://github.com/tommy351/kosko) -用JavaScript编写Kubernetes清单，并根据Kubernetes OpenAPI定义进行验证.
 
 ## Security
-
+* [kubiscan](https://github.com/cyberark/KubiScan) -扫描Kubernetes集群中有风险的Pod和RBAC权限的工具
+* [kubeletctl](https://github.com/cyberark/kubeletctl) -具有高级功能的kubelet客户端，例如扫描易受RCE影响​​的吊舱
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) -使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) -广泛采用的开放源代码实现，将Kubernetes网络策略和Istio应用程序策略统一在一起.
@@ -1025,6 +1028,7 @@ Videos
 
 ### Other Useful Videos
 
+* [Compromising Kubernetes Cluster 通过 Exploiting RBAC Permissions](https://www.youtube.com/watch?v=1LMo0CftVC4) 通过 [Eviatar Gerzi](https://twitter.com/g3rzi)
 * [A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) 通过 [Bredan Burns](https://twitter.com/brendandburns)
 * [Alpaca Kubernetes on AWS](https://www.youtube.com/watch?v=jLk1pkc7kv4) 通过 [Adrien Lemaire](https://twitter.com/fandekasp)
 * [Arun Gupta: Package your Java applications using Docker and Kubernetes](https://www.youtube.com/watch?v=R2nj1vRjLwE) 通过 [Arun Gupta](https://twitter.com/arungupta)

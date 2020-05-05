@@ -100,9 +100,9 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
  _Python for Everyone_将向您介绍一种流行的语言，并将使用Web API和数据库迅速转移到实际的编程任务.  这将使您了解许多专业开发人员的工作.
 
- _《计算基础知识》也将从向您介绍Python开始.  然后，继续介绍计算机科学方面的主题，例如排序和递归.  这将使您了解以下课程的内容.  （完成“计算机基础知识”的学生可以跳过计算机科学入门，然后开始核心CS.）
+ _《计算基础知识》也将从向您介绍Python开始.  然后，继续介绍计算机科学方面的主题，例如排序和递归.  这将使您了解以下课程的内容.  （完成“计算机基础知识”的学生可以跳过计算机科学入门，并开始学习CS工具.）
 
-**涵盖的主题**：
+**Topics covered**:
 简单的程序
 简单的数据结构
 
@@ -115,7 +115,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
  本课程将向您介绍计算机科学领域.  从以上课程或其他地方学习过编程的学生，都应选修本课程，以获取丰富的材料.  如果您想要完成更多的课程，计算机科学很可能适合您！
 
-**涵盖的主题**：
+**Topics covered**:
 `computation`
 命令式编程
 基本数据结构和算法
@@ -128,7 +128,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 ### Introduction to CS Tools
  理解理论很重要，但是您也应该创建程序.  有许多工具被广泛使用以简化该过程.  立即学习它们，以简化您将来编写工作的程序.
 
-**涵盖的主题**：
+**Topics covered**:
 终端和外壳脚本
 `vim`
 命令行环境
@@ -145,7 +145,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 除非另有说明，否则**必修**必修的所有CS课程.
 
 ### Core programming
-**涵盖的主题**：
+**Topics covered**:
 功能编程
 “测试设计”
 程序要求
@@ -199,7 +199,7 @@ Lisp家庭语言（通过球拍）
 ### Core Math
 除了数学选修课外，学生还必须完成以下有关离散数学的课程.
 
-**涵盖的主题**：
+**Topics covered**:
 离散数学
 数学证明
 基本统计
@@ -213,7 +213,7 @@ Lisp家庭语言（通过球拍）
 
 ### Core systems
 
-**涵盖的主题**：
+**Topics covered**:
 过程编程
 `手动内存管理`
 布尔代数
@@ -239,7 +239,7 @@ Lisp家庭语言（通过球拍）
 
 ### Core theory
 
-**涵盖的主题**：
+**Topics covered**:
 分而治之
 `排序和搜索`
 随机算法
@@ -285,7 +285,7 @@ Lisp家庭语言（通过球拍）
 
 ### Core applications
 
-**涵盖的主题**：
+**Topics covered**:
 敏捷方法论
 `REST`
 软件规格
@@ -320,7 +320,7 @@ Lisp家庭语言（通过球拍）
 
 ### Advanced programming
 
-**涵盖的主题**：
+**Topics covered**:
 调试理论与实践
 面向目标的编程
 GPU编程
@@ -334,7 +334,7 @@ GPU编程
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) ([HW](https://colab.research.google.com/github/depctg/udacity-cs344-colab) ）|  12周|  -|  C，算法
-[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx))| 9 weeks | 6-8 hours/week | none
+[Compilers](https://www.edx.org/course/compilers) ([alt](https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx) ）|  9周  每周6-8个小时|  没有
 [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) |  14周|  -|  --
 [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top) |  12周|  -|  --
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) |  8周  每周6个小时|  Python，面向对象的编程
@@ -344,7 +344,7 @@ GPU编程
 
 ### Advanced systems
 
-**涵盖的主题**：
+**Topics covered**:
 数字信号
 组合逻辑
 CMOS技术
@@ -376,7 +376,7 @@ CMOS技术
 
 ### Advanced theory
 
-**涵盖的主题**：
+**Topics covered**:
 正式语言
 车床
 `computability`

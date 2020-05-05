@@ -40,7 +40,7 @@ Famously...
 
 - [fold](https://en.wikipedia.org/wiki/Fold_(higher-order_function)）-就像被子折叠起来一样，此功能将迭代一个集合，并在每个步骤中将当前项目与已被折叠的所有内容组合在一起.
 - [trampoline](https://clojuredocs.org/clojure.core/trampoline)  -连续运行本身返回函数的函数.  就像一个蹦床上的孩子一样，会返回并弹跳起来. 
-- [zip](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#v:zip) -将两个列表合并为一对列表，例如拉链的互锁齿.
+- [zip](https://hackage.haskell.org/package/base-4.12.0.0/docs/Prelude.html#v:zip) - Merges two lists into one list of pairs like the interlocking teeth of a zipper.
 
 ## IT Security
 
@@ -56,6 +56,10 @@ Famously...
 
 - [clooney](https://github.com/GoogleChromeLabs/clooney)  -一个JavaScript库，实现用于并行计算的actor模型.  该术语是指同时也是演员的乔治·克鲁尼.
 - [uppy](https://github.com/transloadit/uppy)  -以狗为主题的上传器组件.  名称是_upload_和_puppy_的混合.  它甚至附带一个名为_golden retreiver_的崩溃恢复插件.
+
+## Machine Learning
+
+- [Decision boundary](https://en.wikipedia.org/wiki/Decision_boundary)  -划分可能数据点空间的边界.  在这里，您决定，这一方面的所有内容都是垃圾邮件，那方面的所有内容都不是垃圾邮件. 
 
 ## User Interface Elements
 

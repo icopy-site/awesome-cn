@@ -134,6 +134,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Monitoring
 
+- [Autoheal](https://github.com/willfarrell/docker-autoheal) -自动监视并重新启动不健康的Docker容器.
 - [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/integrations/docker) -Axibase Collector将性能计数器，配置更改和生命周期事件从Docker引擎流式传输到Axibase时间序列数据库中，以汇总仪表盘并与上游监控系统集成.
 - [cAdvisor](https://github.com/google/cadvisor)  -分析正在运行的容器的资源使用情况和性能特征.  由[@Google] [google]创建
 - [dockprom](https://github.com/stefanprodan/dockprom) -通过Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager监控Docker主机和容器 [@stefanprodan](https://github.com/stefanprodan)
@@ -141,12 +142,12 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker-Flow-Monitor](https://github.com/docker-flow/docker-flow-monitor) -[@ docker-flow] [docker-flow]自动更新或部署新服务时，重新配置Prometheus
 - [Dockerana](https://github.com/dockerana/dockerana) ：skull：-Graphite和Grafana的打包版本，专门针对Docker的指标.
 - [DockProc](https://gitlab.com/n0r1sk/dockproc) -在过程级别监视容器的I / O.
-- [Dozzle](https://github.com/amir20/dozzle) - Monitor container logs in real-time with a browser or mobile device. [@amir20](https://github.com/amir20)
+- [Dozzle](https://github.com/amir20/dozzle) -通过浏览器或移动设备实时监视容器日志. [@amir20](https://github.com/amir20)
 - [Dynatrace](https://www.dynatrace.com/technologies/docker-monitoring/) ：heavy_dollar_sign：-监视容器化的应用程序，而无需安装代理或修改运行命令
 - [Glances](https://github.com/nicolargo/glances) -由Python用以下语言编写的基于跨平台curses的系统监视工具 [@nicolargo](https://github.com/nicolargo)
 - [Grafana Docker Dashboard Template](https://grafana.com/grafana/dashboards/179) -您的Docker，Grafana和Prometheus堆栈的模板[@vegasbrianc] [vegasbrianc]
 - [InfluxDB, cAdvisor, Grafana](https://github.com/vegasbrianc/docker-monitoring) -[@vegasbrianc] [vegasbrianc]将InfluxDB时间序列数据库与Grafana和cAdvisor结合使用
-- [LogJam](https://github.com/gocardless/logjam) -Logjam是一种日志转发器，旨在侦听本地端口，通过UDP接收日志条目，并将这些消息转发给日志收集服务器（例如logstash）， [@gocardless](https://github.com/gocardless)
+- [LogJam](https://github.com/gocardless/logjam) -Logjam是一个日志转发器，旨在通过以下方式侦听本地端口，通过UDP接收日志条目，并将这些消息转发给日志收集服务器（例如logstash）， [@gocardless](https://github.com/gocardless)
 - [Logspout](https://github.com/gliderlabs/logspout) -[@gliderlabs] [gliderlabs]进行Docker容器日志的日志路由
 - [monit-docker](https://github.com/decryptus/monit-docker)  -监视Docker容器资源使用情况或状态并执行Docker命令或在容器内部.  [@decryptus] [decryptus]
 - [NexClipper](https://github.com/NexClipper/NexClipper) -NexClipper是专门用于Docker，Apache Mesos，Marathon，DC / OS，Mesosphere和Kubernetes的容器监视和性能管理解决方案 [@Nexclipper](https://github.com/NexClipper)
@@ -490,13 +491,13 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Ouroboros](https://github.com/pyouroboros/ouroboros) ：skull：-使用通知自动更新正在运行的Docker容器
 - [Popper](https://github.com/systemslab/popper) -Github操作工作流（HCL语法）执行引擎.
 - [Screwdriver :heavy_dollar_sign:](https://screwdriver.cd/) -专为持续交付而设计的Yahoo OpenSource构建平台.
-- [Skipper](https://github.com/Stratoscale/skipper) -通过以下方式轻松地对您的Git存储库进行docker化 [@Stratoscale](https://github.com/Stratoscale)
-- [SwarmCI](https://github.com/ghostsquad/swarmci) -在Docker Swarm中创建一个分布式的隔离任务管道.
+- [Skipper](https://github.com/Stratoscale/skipper) -通过以下方式轻松地将您的Git存储库泊坞窗 [@Stratoscale](https://github.com/Stratoscale)
+- [SwarmCI](https://github.com/ghostsquad/swarmci) - Create a distributed, isolated task pipeline in your Docker Swarm.
 - [Watchtower](https://github.com/containrrr/watchtower) -自动更新正在运行的Docker容器
 
 ### Development Environment
 
-- [batect](https://github.com/batect/batect) -将构建和测试环境作为代码工具：Dockerized构建和测试环境通过以下方式变得容易 [@charleskorn](https://github.com/charleskorn)
+- [batect](https://github.com/batect/batect) -将构建和测试环境作为代码工具：Dockerized的构建和测试环境可通过以下方式轻松实现 [@charleskorn](https://github.com/charleskorn)
 - [Binci](https://github.com/binci/binci)  -容器化您的开发工作流程.  （以前是DevLab，由 [@TechnologyAdvice](https://github.com/TechnologyAdvice))
 - [Boot2Docker](https://github.com/boot2docker/boot2docker) -适用于OSX和Windows的Docker
 - [construi](https://github.com/lstephen/construi) -通过以下方式在Docker定义的环境中运行构建 [@lstephen](https://github.com/lstephen)
@@ -520,7 +521,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [forward2docker](https://github.com/bsideup/forward2docker) ：skull：-通过以下方式将端口从本地主机自动转发到在boot2docker VM中运行的Docker容器上的端口的实用程序 [@bsideup](https://github.com/bsideup)
 - [Lando](https://github.com/lando/lando)  -Lando适用于想要快速指定并轻松开发项目所需的服务和工具的开发人员.  通过 [Tandem](https://thinktandem.io/)
 - [Vagga](https://github.com/tailhook/vagga)  -Vagga是没有守护程序的容器化工具.  这是一个受Vagrant和Docker启发的全用户空间容器引擎，专门针对开发环境 [@tailhook](https://github.com/tailhook/)
-- [Zsh-in-Docker](https://github.com/deluan/zsh-in-docker)  -用一行代码在Docker容器中安装Zsh，Oh-My-Zsh和插件！  通过 [Deluan](https://www.deluan.com)
+- [Zsh-in-Docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com)
 
 ### Garbage Collection
 
@@ -565,7 +566,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  -Ansible和Terraform的强大功能+ Docker Swarm的简单性=基础架构是Code和DevOps的最佳实践.  通过 [@Thomvaill](https://github.com/Thomvaill)
 - [Turbo](https://github.com/ramitsurana/turbo)  -适用于Docker的简单而强大的实用程序.  由[@ramitsurana] [ramitsurana]
 - [udocker](https://github.com/indigo-dc/udocker) -一种在批处理或交互式系统中执行简单docker容器而无需root特权的工具 [@inidigo-dc](https://github.com/indigo-dc)
-- [Vagrant - Docker provider](https://www.vagrantup.com/docs/docker/basics.html) - Good starting point is [vagrant-docker-example](https://github.com/bubenkoff/vagrant-docker-example) 通过 [@bubenkoff](https://github.com/bubenkoff)
+- [Vagrant - Docker provider](https://www.vagrantup.com/docs/docker/basics.html) -好的起点是 [vagrant-docker-example](https://github.com/bubenkoff/vagrant-docker-example) 通过 [@bubenkoff](https://github.com/bubenkoff)
 
 ## Services based on Docker (:heavy_dollar_sign:)
 
@@ -597,7 +598,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Monitoring Services
 
-- [AppDynamics](https://www.appdynamics.com/community/exchange/extension/docker-monitoring-extension/) ：heavy_dollar_sign：-AppDynamics可为企业提供有关应用程序性能，用户性能和业务性能的实时洞察，因此它们可以在日益复杂的软件驱动世界中更快地移动.
+- [AppDynamics](https://www.appdynamics.com/community/exchange/extension/docker-monitoring-extension/) ：heavy_dollar_sign：-AppDynamics可为企业提供有关应用程序性能，用户性能和业务性能的实时洞察，从而使他们能够在日益复杂的软件驱动世界中更快地移动.
 - [Axibase Time-Series Database](https://axibase.com/products/axibase-time-series-database/writing-data/docker-cadvisor/)  ：heavy_dollar_sign：-长期保留Docker的容器统计信息和内置仪表板.  使用本机Google cAdvisor存储驱动程序收集.
 - [Broadcom Docker Monitoring](https://www.broadcom.com/info/aiops/docker-monitoring)  ：heavy_dollar_sign：-Broadcom的敏捷运营解决方案提供了现代Docker监控业务，这些业务是加速和优化微服务以及运行它们的动态Docker环境的性能所需要的.  监视Docker环境和在其中运行的应用程序.  （以前的CA Technologies）
 - [Collecting docker logs and stats with Splunk](https://www.splunk.com/en_us/blog/cloud/collecting-docker-logs-and-stats-with-splunk.html)
@@ -743,7 +744,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [progrium]：https://github.com/progrium
 [ramitsurana]：https://github.com/ramitsurana
 [牧场主]：https://github.com/rancher
-[注意resorhouse]：https://github.com/sindresorhus/awesome
+[sindresorhus]：https://github.com/sindresorhus/awesome
 [spotify]：https：//github.com/spotify
 [vegasbrianc]：https://github.com/vegasbrianc
 [编织]：https://github.com/weaveworks/weave

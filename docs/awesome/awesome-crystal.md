@@ -215,6 +215,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Game Development
  * [CrSFML](https://github.com/oprypin/crsfml) -绑定到 [SFML](https://www.sfml-dev.org/) 多媒体/游戏库
  * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) -的绑定 [Chipmunk](http://chipmunk-physics.net/)，一个快速，轻量的2D游戏物理库
+ * [entitas.cr](https://github.com/spoved/entitas.cr) -Crystal的实体组件系统框架
  * [glove](https://github.com/ddfreyne/glove) -游戏开发库
 
 ## HTML Builders
@@ -293,7 +294,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [containerregistry.cr](https://github.com/naqvis/containerregistry.cr) -与集装箱登记处合作的图书馆
  * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) -基于可扩展注释的序列化/反序列化库
  * [CrSignals](https://github.com/firejox/CrSignals) -信号/插槽通知库
- * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) -二进制解析器
+ * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -适用于Crystal的Web框架，多数由Github出演
  * [crz](https://github.com/dhruvrajvanshi/crz) -功能编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) -表情符号库
@@ -536,7 +537,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [DPPM](https://github.com/DFabric/dppm) -一种以包形式安装和管理应用程序的简便通用方法（主要是Linux）
 
 ## Editor Plugins
- * Atom
+ *原子
    * [crystal-tools](https://atom.io/packages/crystal-tools) -启用Crystal编译器中的内置工具
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) -Atom中的Crystal语言支持
  *埃马克斯

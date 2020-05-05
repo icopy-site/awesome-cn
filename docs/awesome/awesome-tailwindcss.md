@@ -143,6 +143,7 @@
 -  [@nuxtjs/tailwindcss](https://github.com/nuxt-community/tailwindcss-module) -带有PurgeCSS和现代CSS的NuxtJS的Tailwind CSS模块（预设环境1）.
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) -将Tailwind CSS模块添加为PostCSS插件，并在生产中为PreactJS CLI项目设置PurgeCSS.
 -  [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) -Babel宏，可将Tailwind CSS类转换为CSS-in-JS库的对象.
+-  [twin.macro](https://github.com/ben-rogerson/twin.macro) -在任何CSS-in-JS库中使用Tailwind类.
 
 ### Starters, Templates & Themes
 

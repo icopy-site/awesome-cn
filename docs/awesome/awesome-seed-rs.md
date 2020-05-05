@@ -31,6 +31,7 @@
 
 - [Default quickstart](https://github.com/seed-rs/seed-quickstart) -仅包含Rust库.
 - [Quickstart with Webpack](https://github.com/seed-rs/seed-quickstart-webpack) -主要功能：自动重新加载，预渲染，缩小， [TailwindCSS](https://tailwindcss.com/)，打字稿.
+-[Webpack基本快速入门[非官方]]（https://github.com/fattenap/seed-quickstart）-Webpack，Wasm-pack，自动重新加载.
 
 ## Examples
 
