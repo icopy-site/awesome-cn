@@ -9,17 +9,17 @@
 
  &gt;精选的有关嵌入式和物联网安全性的优秀资源列表.  该列表包含软件和硬件工具，书籍，研究论文等.
 
-僵尸网络喜欢 [Mirai](https://en.wikipedia.org/wiki/Mirai_(malware) ）已证明嵌入式和IoT设备需要更高的安全性.  该列表将帮助初学者和专家找到有关该主题的有用资源.  
+僵尸网络喜欢 [Mirai](https://github.com/fkie-cad/awesome-embedded-and-iot-security/blob/master/<https://en.wikipedia.org/wiki/Mirai_(malware) &gt;）已证明在嵌入式和IoT设备中需要更高的安全性.  该列表将帮助初学者和专家找到有关该主题的有用资源.  
 如果您是初学者，则应该看看 [Books](#books) 和 [Case Studies](#case-studies) 部分.  
 如果您想立即开始自己的分析，则应给 [Analysis Frameworks](#analysis-frameworks) 尝试一下.
 它们易于使用，您无需成为专家即可获得首个有意义的结果.
 
-&gt; *标有：euro：的物品是商业产品.*
-
+&gt; _标有：euro：的商品是商业产品._
 
 
 
 ## Software Tools
+
 用于分析嵌入式/ IoT设备和固件的软件工具.
 
 ### Analysis Frameworks
@@ -29,6 +29,7 @@
   - [Improving your firmware security analysis process with FACT](https://passthesalt.ubicast.tv/videos/improving-your-firmware-security-analysis-process-with-fact/) -关于FACT：tv：的会议讨论.
 - [FwAnalyzer](https://github.com/cruise-automation/fwanalyzer)  -根据自定义规则分析固件的安全性.  打算作为DevSecOps中的附加步骤，类似于CI.
 - [HAL – The Hardware Analyzer](https://github.com/emsec/hal) -用于门级网表的全面的逆向工程和操作框架.
+- [HomePWN](https://github.com/ElevenPaths/HomePWN) -物联网设备渗透测试的瑞士军刀.
 - [IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz) -物联网层安全分析自动化框架：硬件，软件和通信.
 - [Killerbee](https://github.com/riverloopsec/killerbee) -测试和审核ZigBee和IEEE 802.15.4网络的框架.
 - [PRET](https://github.com/RUB-NDS/PRET) -打印机利用工具包.
@@ -36,7 +37,7 @@
 
 ### Analysis Tools
 
-- [Binwalk](https://github.com/ReFirmLabs/binwalk) -在二进制文件中搜索“有趣”的东西.  
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) -在二进制文件中搜索“有趣”的东西.
 - [Firmadyne](https://github.com/firmadyne/firmadyne) -尝试模拟和渗透固件.
 - [Firmwalker](https://github.com/craigz28/firmwalker) -在提取的固件映像中搜索有趣的文件和信息.
 - [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) -通过概念分析和功能集群发现固件中的漏洞.
@@ -58,38 +59,72 @@
 
 ### Misc Tools
 
-- [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) -解密Samsung SSD固件更新. 
+- [Cotopaxi](https://github.com/Samsung/cotopaxi) -使用特定的网络IoT协议对物联网设备进行安全性测试的工具集.
+- [dumpflash](https://github.com/ohjeongwook/dumpflash) -低级NAND Flash转储和解析实用程序.
+- [flashrom](https://github.com/flashrom/flashrom) -用于检测，读取，写入，验证和擦除闪存芯片的工具.
+- [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic) -解密Samsung SSD固件更新.
 
 ## Hardware Tools
 
 - [Bus Blaster](http://dangerousprototypes.com/docs/Bus_Blaster) -检测硬件调试端口并与之交互 [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) 和 [JTAG](https://en.wikipedia.org/wiki/JTAG).
 - [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) -检测硬件调试端口并与之交互，例如UART和JTAG.
+- [Shikra](https://int3.cc/products/the-shikra)  -检测硬件调试端口并与之交互，例如UART和JTAG.  除其他协议外.
 - [JTAGULATOR](http://www.grandideastudio.com/jtagulator/) -快速检测JTAG引脚排列.
-- [Saleae](https://www.saleae.com/) -易于使用的逻辑分析仪，支持多种协议：euro:.
+- [Saleae](https://www.saleae.com/) - Easy to use Logic Analyzer that support many protocols :euro:.
 - [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) -替代Saleae逻辑分析仪：euro:.
 - [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) -类似于BusPirate的开源多工具硬件，但具有NFC功能.
 - [ChipWhisperer](https://newae.com/chipwhisperer/) -检测故障/侧通道攻击.
 - [Glasgow](https://github.com/GlasgowEmbedded/Glasgow) -用于探索和调试不同数字接口的工具.
 - [J-Link](https://www.segger.com/products/debug-probes/j-link/models/model-overview/) -J-Link提供了USB供电的JTAG调试探针，用于多个不同的CPU内核：euro:.
 
+### Bluetooth BLE Tools
+
+- [UberTooth One](https://greatscottgadgets.com/ubertoothone/) -适用于蓝牙实验的开源2.4 GHz无线开发平台.
+- [Bluefruit LE Sniffer](https://www.adafruit.com/product/2269) -易于使用的蓝牙低功耗嗅探器.
+
+### ZigBee Tools
+
+- [ApiMote](http://apimote.com)  -ZigBee安全研究硬件，用于了解和评估IEEE 802.15.4 / ZigBee系统的安全性.  兼容Killerbee.
+ -Atmel RZUSBstick-停产的产品.  如果您有幸运的话！  -用于开发，调试和演示各种低功耗无线应用程序的工具，包括IEEE 802.15.4、6LoWPAN和ZigBee网络.  兼容Killerbee.
+- [Freakduino](https://freaklabsstore.com/index.php?main_page=product_info&cPath=22&products_id=219&zenid=fpmu2kuuk4abjf6aurt3bjnfk4) -低成本电池供电的无线Arduino开发板，可以转换为IEEE 802.15.4协议嗅探器.
+
+### SDR Tools
+
+- [HackRF One](https://greatscottgadgets.com/hackrf/) -软件定义的无线电外围设备，能够发送或接收1 MHz至6 GHz（半双工）的无线电信号.
+- [YardStick One](https://greatscottgadgets.com/yardstickone/) -半双工低于1 GHz的无线收发器.
+- [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr) -软件定义的无线电外围设备，能够发送或接收100 KHz至3.8 GHz（全双工）的无线电信号.
+- [BladeRF 2.0](https://www.nuand.com/bladerf-2-0-micro/) -软件定义的无线电外围设备，能够发送或接收47 MHz至6 GHz（全双工）的无线电信号.
+- [USRP B Series](https://www.ettus.com/product-categories/usrp-bus-series/) -软件定义的无线电外围设备，能够发送或接收70 MHz至6 GHz（全双工）的无线电信号.
+
+### RFID NFC Tools
+
+- [Proxmark 3 RDV4](https://www.proxmark.com/)  -功能强大的通用RFID工具.  从低频（125kHz）到高频（13.56MHz）标签.
+- [ChamaleonMini](http://chameleontiny.com/) -用于NFC安全分析的可编程便携式工具.
+- [HydraNFC](https://hydrabus.com/hydranfc-1-0-specifications/)  -强大的13.56MHz RFID / NFC平台.  读/写/破解/嗅探/模拟.
+
 ## Books
 
--2020年，贾斯珀·凡·乌登伯格（Jasper van Woudenberg），科林·奥弗林（Colin O&#39;Flynn）： [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded-ebook/dp/B077WZBFYL)
+-2020年，Fotios Chantzis，Evangel Dermis，Ioannis Stais，Paulino Calderon和Beau Woods： [Practical IoT Hacking](https://www.amazon.com/Fotios-Chantzis-ebook/dp/B085BVVSN6/)
+-2020年，贾斯珀·凡·乌登伯格（Jasper van Woudenberg），科林·奥弗林（Colin O&#39;Flynn）： [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://nostarch.com/hardwarehacking)
 -2019年，Yago Hansen： [The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/blob/master/TheHackersHardwareToolkit.pdf)
 -2019，阿蒂亚·古普塔（Aditya Gupta）： [The IoT Hacker's Handbook: A Practical Guide to Hacking the Internet of Things](https://www.apress.com/us/book/9781484242995)
 -2018年，马克·斯沃鲁普·蒂拉尼普（Mark Swarup Tehranipoor）： [Hardware Security: A Hands-on Learning Approach](https://www.elsevier.com/books/hardware-security/bhunia/978-0-12-812477-2)
+-2018年，马克·卡尼（Mark Carney）： [Pentesting Hardware - A Practical Handbook (DRAFT)](https://github.com/unprovable/PentestHardware)
+- 2018, Qing Yang, Lin Huang [Inside Radio: An Attack and Defense Guide](https://link.springer.com/book/10.1007/978-981-10-8447-8)
 -2017年，阿蒂亚·古普塔（Aditya Gupta），亚伦·古兹曼（Aaron Guzman）： [IoT Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
-- 2017, Andrew Huang: [The Hardware Hacker: Adventures in Making and Breaking Hardware](https://nostarch.com/hardwarehackerpaperback)
+-2017年，黄宏伟： [The Hardware Hacker: Adventures in Making and Breaking Hardware](https://nostarch.com/hardwarehackerpaperback)
 -2016年，克雷格·史密斯（Craig Smith）： [The Car Hacker's Handbook: A Guide for the Penetration Tester](https://nostarch.com/carhacking)
+-2015年，吴敬中： [The Art of PCB Reverse Engineering](https://visio-for-engineers.blogspot.com/p/order.html)
 -2015年，Nitesh Dhanjan： [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](https://shop.oreilly.com/product/0636920033547.do)
+-2015年，约书亚·赖特（Joshua Wright），约翰尼·凯什（Johnny Cache）： [Hacking Wireless Exposed](https://www.mhprofessional.com/9780071827638-usa-hacking-exposed-wireless-third-edition-group)
 -2014年，Debdeep Mukhopadhyay： [Hardware Security: Design, Threats, and Safeguards](https://www.taylorfrancis.com/books/9780429066900)
 -2014年，杰克·甘斯勒（Jack Ganssle）： [The Firmware Handbook (Embedded Technology)](https://www.elsevier.com/books/the-firmware-handbook/ganssle/978-0-7506-7606-9)
--2013年，黄宏伟 [Hacking the XBOX](https://nostarch.com/xboxfree)
-
-
+-2013年，黄宏伟： [Hacking the XBOX](https://nostarch.com/xboxfree)
 
 ## Research Papers
+
 <!--lint ignore match-punctuation-->
+
 -2019年，Almakhdhub等人： [BenchIoT: A Security Benchmark for the Internet of Things](https://nebelwelt.net/publications/files/19DSN.pdf)
 2019年，Alrawi等人： [SoK: Security Evaluation of Home-Based IoT Deployments](https://alrawi.github.io/static/papers/alrawi_sok_sp19.pdf)
 -2019，Abbasi等： [Challenges in Designing Exploit Mitigations for Deeply Embedded Systems](https://ieeexplore.ieee.org/abstract/document/8806725)
@@ -105,12 +140,13 @@
 -2015年，Papp等： [Embedded Systems Security: Threats, Vulnerabilities, and Attack Taxonomy](http://www.cse.psu.edu/~pdm12/cse597g-f15/readings/cse597g-embedded_systems.pdf)
 2014年，Zaddach等人： [Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares](http://www.eurecom.fr/en/publication/4158/download/rs-publi-4158.pdf)
 2014年，Alimi等人： [Analysis of embedded applications by evolutionary fuzzing](http://ieeexplore.ieee.org/document/6903734/)
--2014年，Costin等人：[嵌入式固件安全性的大规模分析
-s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
+-2014年，Costin等人： [A Large-Scale Analysis of the Security of Embedded Firmwares](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 -2013年，戴维森（Davidson）等人： [FIE on Firmware: Finding Vulnerabilities in Embedded Systems using Symbolic Execution](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_davidson.pdf)
 
 ## Case Studies
+
 <!--lint ignore no-repeat-punctuation-->
+
 - [Binary Hardening in IoT products](https://cyber-itl.org/2019/08/26/iot-data-writeup.html)
 - [Cracking Linksys “Encryption”](http://www.devttys0.com/2014/02/cracking-linksys-crypto/)
 - [Deadly Sins Of Development](https://youtu.be/nXyglaY9N9w) -会议演讲，介绍了一些有关实际不良实现的真实示例：tv:.
@@ -137,31 +173,40 @@ s](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 
 - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page) -万物打印机.
 - [OWASP Embedded Application Security Project](https://owasp.org/www-project-embedded-application-security/) -开发最佳做法以及硬件和软件工具列表.
-- [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) -物联网常见漏洞和攻击面. 
+- [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/) -物联网常见漏洞和攻击面.
 - [Router Passwords](https://192-168-1-1ip.mobi/default-router-passwords-list/) -按制造商排序的默认登录凭据数据库.
 - [Siliconpr0n](https://siliconpr0n.org/) -集成电路倒车的所有内容的Wiki /存档.
 
 ### Blogs
+
 <!--lint ignore no-repeat-punctuation-->
+
 - [/dev/ttyS0's Embedded Device Hacking](http://www.devttys0.com/blog/)
 - [Exploiteers](https://www.exploitee.rs/)
 - [Hackaday](https://hackaday.com)
 - [jcjc's Hack The World](https://jcjc-dev.com/)
 - [Quarkslab](https://blog.quarkslab.com/)
 - [wrong baud](https://wrongbaud.github.io/)
+- [Firmware Security](https://firmwaresecurity.com/)
+- [PenTestPartners](https://www.pentestpartners.com/internet-of-things/)
+- [Attify](https://blog.attify.com/)
+- [Patayu](https://payatu.com/blog)
+- [GracefulSecurity - Hardware tag](https://gracefulsecurity.com/category/hardware/)
+- [Black Hills - Hardware Hacking tag](https://www.blackhillsinfosec.com/tag/hardware-hacking/)
 
 ### Tutorials and Technical Background
+
 - [Azeria Lab](https://azeria-labs.com/) -其他与ARM相关的教程.
 - [JTAG Explained](https://blog.senr.io/blog/jtag-explained#) -绕过受保护的登录外壳介绍UART和JTAG的演练.
 - [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/) -有关如何在PCB上发现调试焊盘的详细教程.
 - [UART explained](https://www.mikroe.com/blog/uart-serial-communication) -UART协议的深入说明.
 
-
 ## Conferences
+
 会议重点讨论嵌入式和/或物联网安全.
 
 - [Hardwear.io](https://hardwear.io/) -9月，海牙.
-- [Hardwear.io USA](https://hardwear.io/) -6月，圣克拉拉. 
+- [Hardwear.io USA](https://hardwear.io/) -6月，圣克拉拉.
 
 ## Contribute
 

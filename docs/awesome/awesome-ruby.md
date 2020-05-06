@@ -40,7 +40,7 @@
 * [ActiveAdmin](http://activeadmin.info) -Ruby on Rails框架，用于为网站管理创建优雅的后端.
 * [ActiveScaffold](https://github.com/activescaffold/active_scaffold)  -ActiveScaffold为Rails应用程序的CRUD（创建，读取，更新，删除）操作提供了快速而强大的用户界面.  它非常适合生成管理界面，管理大量数据的应用程序，创建小部件或进行快速原型制作.  ActiveScaffold可完全自定义，并提供了许多附加功能，包括搜索，分页，布局控制以及字段，表单和模板的覆盖.
 * [Administrate](https://github.com/thoughtbot/administrate) -一个Thoughts帮助您构建超灵活的管理仪表板的Rails引擎.
-* [bhf](http://antpaw.github.io/bhf/) -易于使用的Rails-Engine-Gem，为受信任的用户提供管理界面.
+* [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user.
 * [RailsAdmin](https://github.com/sferik/rails_admin) -一个Rails引擎，提供易于使用的界面来管理数据.
 * [Trestle](https://github.com/TrestleAdmin/trestle)  -用于Rails的现代，响应式管理框架.  在几分钟内构建一个后端，该后端将随您的应用程序需求而增长.
 
@@ -120,7 +120,7 @@
 ## Caching
 
 * [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching) -操作包的操作缓存.
-* [Dalli](https://github.com/mperham/dalli) - A high performance pure Ruby client for accessing memcached servers.
+* [Dalli](https://github.com/mperham/dalli) -用于访问内存缓存服务器的高性能纯Ruby客户端.
 * [Garner](https://github.com/artsy/garner) -一组实现各种缓存策略的Rack中间件和缓存助手.
 * [IdentityCache](https://github.com/Shopify/identity_cache) -插入ActiveRecord的Blob级缓存解决方案.
 * [Kashmir](https://github.com/IFTTT/kashmir) -Kashmir是一种Ruby DSL，可轻松实现序列化和缓存对象.
@@ -149,7 +149,7 @@
 * [Rake](https://github.com/ruby/rake) -Ruby的类似make的构建实用程序.
 * [Slop](https://github.com/leejarvis/slop) -简单的轻量级选项解析.
 * [Terrapin](https://github.com/thoughtbot/terrapin) -小型命令行库（以前为可卡因）.
-* [Thor](http://whatisthor.com) -用于构建功能强大的命令行界面的工具包.
+* [Thor](http://whatisthor.com) - A toolkit for building powerful command-line interfaces.
 * [TTY](https://github.com/peter-murach/tty) -用于开发CLI客户端的工具箱.
 
 ## CLI Utilities
@@ -352,6 +352,7 @@
 * [ByStar](https://github.com/radar/by_star) -按年，月，两周，周以及更多来查找ActiveRecord对象！
 * [Chronic](https://github.com/mojombo/chronic) -用纯Ruby编写的自然语言日期/时间解析器.
 * [groupdate](https://github.com/ankane/groupdate) -在ActiveRecord，数组和哈希中对时间数据进行分组的最简单方法.
+* [holidays](https://github.com/holidays/holidays) -处理法定假日和其他假日的Ruby方法的集合.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) -日期循环库，可轻松创建循环规则并快速查询.
 * [local_time](https://github.com/basecamp/local_time) -Rails Engine，用于缓存友好的客户端本地时间.
 * [montrose](https://github.com/rossta/montrose) -一个简单的库，用于在Ruby中表达，序列化和枚举重复发生的事件
@@ -1061,7 +1062,7 @@
   * [mutant](https://github.com/mbj/mutant) -Mutant是Ruby的突变测试工具.
   * [Parallel Tests](https://github.com/grosser/parallel_tests) -通过在多个CPU（或内核）上并行运行来加速测试：: Unit + RSpec + Cucumber.
   * [power_assert](https://github.com/k-tsj/power_assert) -Ruby的电源声明.
-  * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
+  * [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) -用于构建JMeter测试计划的基于Ruby的DSL.
   * [Spring](https://github.com/rails/spring) -在后台预载Rails环境，以进行更快的测试和Rake任务.
   * [timecop](https://github.com/travisjeffery/timecop) -提供“时间旅行”和“时间冻结”功能，使测试与时间相关的代码变得非常简单.
   * [vcr](https://github.com/vcr/vcr) -记录测试套件的HTTP交互，并在以后的测试运行期间重播它们，以进行快速，确定性和准确的测试.
@@ -1130,7 +1131,7 @@
 * [Hanami](http://hanamirb.org) -它旨在利用稳定的API，最小的DSL和普通对象，将面向对象编程重新带回Web开发.
 * [Hyperstack](https://hyperstack.org/) -使用React和Opal的完整同构Ruby框架.
 * [Padrino](http://www.padrinorb.com) -建立在Sinatra上的全栈红宝石框架.
-* [Pakyow](https://www.pakyow.org/)  -用于在Ruby中构建现代Web应用程序的框架.  它通过对设计师和开发人员都友好的开发过程，帮助您更快地构建工作软件.
+* [Pakyow](https://www.pakyow.org/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
 * [Rack::App](https://github.com/rack-app/rack-app) -用于构建机架应用程序的裸骨简约框架.
 * [Ramaze](http://ramaze.net/) -用Ruby编写的简单，轻便和模块化的开源Web应用程序框架.
 * [Roda](http://roda.jeremyevans.net/) -路由树Web框架.
@@ -1161,7 +1162,7 @@
 在线工具，服务和API，以简化开发.
 
 * [AppSignal](https://appsignal.com) -更好地监视您的Rails应用程序.
-* [Codacy](https://www.codacy.com) - Automated Code Review for Ruby, Rails, JS, PHP, Python etc. Security, Coverage & Quality.
+* [Codacy](https://www.codacy.com) -针对Ruby，Rails，JS，PHP，Python等的自动代码审查.安全性，覆盖范围和质量.
 * [CodeClimate](https://codeclimate.com) -Ruby on Rails和Javascript的质量和安全性分析.
 * [Dependabot](https://dependabot.com) -自动化的依赖项更新请求请求.
 * [GitHub](https://github.com) -开源和私有项目的强大协作，代码审查和代码管理.

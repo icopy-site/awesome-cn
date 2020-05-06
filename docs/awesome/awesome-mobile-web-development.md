@@ -56,7 +56,7 @@
 - [Going Offline](https://abookapart.com/products/going-offline) -与服务人员建立离线体验的指南.
 - [High-Performance Mobile Web: Best Practices for Optimizing Mobile Web Apps](https://www.amazon.com/High-Performance-Mobile-Web-Optimizing/dp/1491912553) -预定有关移动设备上网络性能的信息.
 - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) -UI模式对移动Web应用程序可能有用.
-- [Mobile First](https://abookapart.com/products/mobile-first) -如何设计移动设备的网站.
+- [Mobile First](http://mobile-first.abookapart.com/) -如何设计用于移动设备的网站（免费在线版本）.
 - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) -关于响应式网页设计的书.
 
 
@@ -75,7 +75,7 @@
 - [Wake Lock Api](https://www.w3.org/TR/wake-lock/) -访问唤醒锁定请求时（防止设备进入节电状态）.
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) -在API上通过蓝牙4发现设备并与之通信.
 - [Web NFC API](https://w3c.github.io/web-nfc/) -访问设备的近场通信功能.
-- [Web Notifications](https://www.w3.org/TR/notifications/) -在用于最终用户通知的API上.
+- [Web Notifications](https://www.w3.org/TR/notifications/) - On an API for end-user notifications.
 
 
 ## Talks
@@ -96,7 +96,7 @@
 - [PageSpeed](https://www.modpagespeed.com) -自动优化站点的Web服务器模块.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) -比较您的移动网站与其他网站的速度.
 - [Test Your Mobile Speed](https://testmysite.withgoogle.com/intl/en-gb) -Google提供的工具，可对移动网站进行全面的速度检查.
-- [Webpagetest](https://webpagetest.org) - Website speed test from multiple locations using real browsers and at real consumer connection speeds.
+- [Webpagetest](https://webpagetest.org) -使用真实的浏览器并以真实的消费者连接速度从多个位置进行网站速度测试.
 
 
 ## Platform Monitoring

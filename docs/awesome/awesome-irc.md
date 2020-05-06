@@ -4,7 +4,7 @@
 
 &gt;精选的超赞清单 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) 资源.
 
-与Internet中继聊天（IRC）协议相关的工具，软件和其他资源的列表.
+A list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
 
 IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通道进行基于多用户文本的通信.
 
@@ -52,10 +52,11 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 #### Self-hosted
 
 - [Convos](https://convos.by)  -始终在线的Web IRC客户端.  （[source](https://github.com/Nordaaker/convos), [demo](https://demo.convos.by)）`Perl`JavaScript`Web`
-- [ZNC](https://wiki.znc.in/ZNC)  - 最受欢迎.  许多不同的插件.  （[source](https://github.com/znc/znc))
+- [ZNC](https://wiki.znc.in/ZNC)  - 最受欢迎.  许多不同的插件.  （[source](https://github.com/znc/znc)）C ++
 - [BIP IRC Proxy](https://bip.milkypond.org)  -始终在线，轻量级和安全的带积压的开源IRC代理.  （[source](https://projects.duckcorp.org/projects/bip/repository)）C
 - [TheLounge](https://thelounge.chat)  -响应式，自托管和支持多个用户.  （[source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)）`JavaScript`Node.js`Web`
 - [WeeChat](https://weechat.org)  -快速，轻便和可扩展的聊天客户端.  （[source](https://github.com/weechat/weechat)）Linux macOS Windows
+- [soju](https://git.sr.ht/~emersion/soju)  -用户友好的IRC保镖.  去吧
 
 ### Daemons
 
@@ -90,7 +91,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 - [lazybot](https://github.com/Raynes/lazybot)  -用户友好且功能强大.  `Clojure`
 - [IRC-BF](https://github.com/ddevault/bf-irc-bot) -`Brainfuck`
 - [geordi](https://github.com/Eelis/geordi)  -编译并运行C ++代码段.  C ++
-- [CloudBot](https://github.com/CloudBotIRC/CloudBot) - Simple, fast, expandable. `Python`
+- [CloudBot](https://github.com/CloudBotIRC/CloudBot)  -简单，快速，可扩展.  Python
 - [yossarian-bot](https://github.com/woodruffw/yossarian-bot)  -大型默认插件集，基于Cinch.  红宝石
 - [helga](https://github.com/shaunduncan/helga)  -支持多种协议的可插拔聊天机器人.  Python
 

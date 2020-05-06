@@ -15,7 +15,7 @@
 
 
 ## What is Awesome Salesforce ?
-令人敬畏的是一个很棒的项目，始于 [Sindre Sorhus](https://github.com/sindresorhus) 谁是最受欢迎的人  [Github](https://github.com/sindresorhus) .  他创建了一个项目，以列出收藏在您计算机中的最酷链接，并通过在一个位置进行编译将它们组织在一起.  后来，这个项目引起了轰动，世界各地的开发人员社区开始编写很棒的页面（专用于他们喜欢的技术）.
+太棒了，这是个很棒的项目，始于 [Sindre Sorhus](https://github.com/sindresorhus) 谁是最受欢迎的人  [Github](https://github.com/sindresorhus) .  他创建了一个项目，以列出收藏在您计算机中的最酷链接，并通过在一个位置进行编译将它们组织在一起.  后来，这个项目引起了轰动，世界各地的开发人员社区开始编写很棒的页面（专用于他们喜欢的技术）.
 
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) 并确保您的列表符合要求.
@@ -34,7 +34,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 列出的每个回购协议至少满足以下要求之一：
 
-* Community-authored repo with 100+ stars
+*社区撰写的超过100个星星的回购
 *少于100星的社区担保回购
 
  社区回购的100多颗星不是严格的要求，它仅用作初始编译的指南.  如果您可以保证&lt;100星以下的仓库的出色表现，并且可以解释为什么要列出它，请提交请求请求.
@@ -73,6 +73,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) 是正式的Salesforce VS Code扩展.
   * [ForceCode](https://github.com/celador/ForceCode) 是用于Salesforce开发的Visual Studio Code扩展
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) 提供自动完成的Apex和Visualforce，Go-To和Peek定义以及实时语法检查
+  * [xysfdx](https://github.com/exiahuang/xysfdx) 是用于Salesforce SFDX开发的Visual Studio Code扩展.
 * [ApexMate](https://github.com/superfell/ApexMate)-用于TextMate的Apex插件.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)-Force.com的VIM插件.
 * [Force.com CLI](https://force-cli.heroku.com/)-Force.com的命令行界面.
@@ -180,11 +181,11 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [Salesforce IDs converter](https://www.adminbooster.com/tool/15to18)-将15个字符的ID转换为18个字符的ID.
 
-* [SOQooLio](https://soqool.io/)-用于查询，排序和导出Salesforce数据的Web应用程序.
-
 * [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) -Sweet.apex是下一代Apex开发，将Sweet Apex（功能丰富的Apex式代码）转换为Apex类.
 
 * [soql-parser-js](https://github.com/paustint/soql-parser-js) -JavaScript库，用于解析SOQL查询，组成SOQL查询和格式化SOQL查询.
+
+* [Adminite](https://adminite.app/) -具有内置自动完成功能，内联数据编辑等功能的查询编辑器桌面应用.
 
 ### Git Ignore for Salesforce
 
@@ -306,14 +307,14 @@ AngularJS包： [Get Started](https://developer.salesforce.com/mobile/getting-st
 
 
 ### Technical Blogs
-* [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) -由Salesforce开发人员关系团队管理，您会发现Salesforce世界中最酷的更新，大部分是该讲台上的体验，功能和开发人员评估博客博客.
+* [Salesforce Developer Relations Blog](https://developer.salesforce.com/blogs/) -由Salesforce开发人员关系团队管理，您会发现Salesforce世界中最酷的更新，大部分是该讲台上的体验，功能和开发人员评估博客博客.
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) -涵盖了工程团队的最新更新，您将找到有关核心工程和产品发布信息的更新，以及一些很棒的人可以关注
 * [Andrew Fawcett](http://andyinthecloud.com/) -Financialforce.com的CTO，作者，以对Salesforce Community的杰出贡献而闻名. [Read More](http://andyinthecloud.com/about/)
 * [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com)  -有关闪电组件，Apex，Visualforce，Force.com和Salesforce的文章.  他是Salesforce.com的高级技术讲师，并拥有11倍的Salesforce认证.
 * [Christophe Coenraets](http://coenraets.org/blog/) -Christophe Coenraets是Salesforce.com的开发人员，主要致力于移动应用程序开发， [Read More](http://coenraets.org/blog/bio/)
 * [Harshit Pandey -(Oyecode)](http://www.oyecode.com/) -Harshit Pandey是Intuitive Surgical的首席技术架构师，之前是Salesforce.com开发人员关系团队的技术架构师，并负责构建  [Trailhead](https://developer.salesforce.com/trailhead) 在Salesforce期间，Salesforce不断提升的能力让他们为之高兴 [Read More](https://about.me/harshit.pandey)
 * [Jeff Doughlas](http://blog.jeffdouglas.com/) -Appirio的高级技术顾问，topcoder的开发人员福音设计师，专门研究基于云，API和移动应用程序. [Read More](http://blog.jeffdouglas.com/about/)
-* [Keir Bowden](http://bobbuzzard.blogspot.com/)-也称为Keir Bowden，Keir是英国Salesforce白金合作伙伴BrightGen的首席技术官.[Read More](https://www.blogger.com/profile/07815472992351343395)
+* [Keir Bowden](http://bobbuzzard.blogspot.com/)- Also known as Keir Bowden and Keir is Chief Technical Officer at BrightGen, a Salesforce Platinum Partner, in the United Kingdom.[Read More](https://www.blogger.com/profile/07815472992351343395)
 * [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) -也称为Enreeco或ForceLogic.超极客技术爱好者佣工软件开发人员和Salesforce爱好者. [Read More](http://enree.co/)
 * [Peter Knolle](http://peterknolle.com/)  -Peter Knolle喜欢使用各种不同的技术.  经过认证的Salesforce.com专业人士和Force.com MVP. [Read More](http://peterknolle.com/about/)
 * [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)-Force.com MVP和架构师-对S1和Javascript充满热情，Profession架构师，现在是他的公司老板，专注于salesforce咨询 [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
