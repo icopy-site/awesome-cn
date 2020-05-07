@@ -12,7 +12,7 @@
 
  |  iOS应用|  很棒  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1007 |  2020年5月2日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1008 |  2020年5月6日
 
 
 
@@ -67,7 +67,7 @@
 
 ## REPL
 
-* [Online Swift Playground](http://online.swiftplayground.run) -在线Swift Playground.
+* [Online Swift Playground](http://online.swiftplayground.run) - Online Swift Playground.
 
 ## Editor Support
 *支持您最喜欢的编辑器.* 
@@ -169,7 +169,7 @@
 * [Ease](https://github.com/roberthein/Ease) -轻松制作所有动画.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) -一个将UIView.animateWithDuration（_ :, animations：...）的功能提升到全新水平的库.
 * [Elephant](https://github.com/s2mr/Elephant) -精美的SVG动画套件.
-* [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) -基于自然块的核心动画框架.
+* [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - Natural Blocks Based Core Animation Framework.
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) -双子座是基于滚动丰富的动画框架.
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) -使用IBAnimatable在Interface Builder中为可用于App Store的应用程序设计和原型UI，交互，导航，过渡和动画.
 * [Interpolate](https://github.com/marmelroy/Interpolate) -用于创建交互式手势驱动动画的插值框架.
@@ -207,12 +207,12 @@
 * [Crossroad](https://github.com/giginet/Crossroad) -：oncoming_bus：Crossroad是专门处理自定义URL方案的URL路由器.
 * [LightRoute](https://github.com/SpectralDragon/LiteRoute) -VIPER模块之间的路由.
 * [Linker](https://github.com/MaksimKurpa/Linker) -处理iOS内部和外部深层链接的轻量级方法.
-* [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) -RxFlow是基于Reactive Flow Coordinator模式的iOS应用程序导航框架.
+* [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) - RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) -适用于iOS的URL路由器.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) -优雅的URL路由.
 
 ### App Store
-*Libs to help with apple app store, in app purchases and receipt validation.* [back to top](#readme) 
+*帮助苹果应用商店，应用购买和收据验证的库.* [back to top](#readme) 
 
 * [Apphud](https://github.com/apphud/ApphudSDK) -轻量级的库，无需后端即可轻松处理自动更新的订阅.
 * [InAppPurchase](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
@@ -223,7 +223,7 @@
 *库与音频一起使用* [back to top](#readme) 
 
 * [AudioKit](https://github.com/audiokit/AudioKit) -强大的音频合成，处理和分析功能，无需陡峭的学习曲线.
-* [AudioPlayer](https://github.com/delannoyk/AudioPlayer) -围绕AVPlayer的包装，具有一些很棒的功能.
+* [AudioPlayer](https://github.com/delannoyk/AudioPlayer) -围绕AVPlayer的包装，具有一些很酷的功能.
 * [AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift) -AudioPlayer是用于在iOS，OS X和tvOS应用程序中播放音频（基本和高级用法）的简单类.
 * [Beethoven](https://github.com/vadymmarkov/Beethoven) -用于音乐信号音高检测的音频处理库.
 * [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) -持久性AVPlayer即使在后台模式下也无法通过网络连接恢复播放.
@@ -247,7 +247,7 @@
 
 * [Cely](https://github.com/chaione/Cely) -即插即用登录框架.
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) -验证Instagram帐户的简单方法.
-* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) -简单的视图控制器，用于登录并从LinkedIn检索访问令牌.
+* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) -LoginKit是将登录/注册UX添加到iOS应用的快速简便的方法.
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) -iOS的[In]可见ReCaptcha.
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) -使用Spotify API进行身份验证.
@@ -323,7 +323,7 @@
 * [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) -完整的并发和反应式编程原语集.
 * [Futures](https://github.com/formbound/Futures) ：penguin：-针对iOS，macOS，tvOS，watchOS和服务器端的轻量级承诺.
 * [GroupWork](https://github.com/quanvo87/GroupWork) ：penguin：-简单的并发，异步任务.
-* [Hydra](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
+* [Hydra](https://github.com/malcommac/Hydra) -承诺与等待-编写更好的异步代码.
 * [Kommander](https://github.com/intelygenz/Kommander-iOS) -通过Kommands管理不同线程中的任务执行.
 * [Queuer](https://github.com/FabrizioBrancati/Queuer) ：penguin：-队列管理器，建立在OperationQueue和Dispatch（aka GCD）之上.
 * [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) ：penguin：-适用于iOS，macOS和Linux的协同程序.
@@ -792,7 +792,7 @@
 * [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) ：penguin：-IBM的轻量级日志记录框架.
 * [Printer](https://github.com/hemangshah/printer) -下一个应用程序的精美记录器.
 * [Puree](https://github.com/cookpad/puree-ios) -iOS的日志收集器.
-* [QorumLogs](https://github.com/goktugyil/QorumLogs) -Xcode和Google文档的日志记录实用程序.
+* [QorumLogs](https://github.com/goktugyil/QorumLogs) - Logging Utility for Xcode & Google Docs.
 * [Rainbow](https://github.com/onevcat/Rainbow) ：penguin：-令人愉快的控制台输出.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) ：penguin：-开发和发布期间的多平台日志记录.
 * [TinyConsole](https://github.com/Cosmo/TinyConsole) -一个小的日志控制台，可在使用iOS应用程序时显示信息.
@@ -830,7 +830,7 @@
 * [Alamofire](https://github.com/Alamofire/Alamofire) ：penguin：-优雅的网络.
 * [APIKit](https://github.com/ishkawa/APIKit) -用于构建类型安全的Web API客户端的库.
 * [Ciao](https://github.com/AlTavares/Ciao) -使用mDNS（Bonjour，Zeroconf）发布和发现服务.
-* [CodyFire](https://github.com/MihaelIsaev/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
+* [CodyFire](https://github.com/MihaelIsaev/CodyFire)  -强大的Codable API要求iOS的构建者和管理者.  基于Alamofire.
 * [Conduit](https://github.com/mindbody/Conduit) -强大的网络API网络.
 * [Connectivity](https://github.com/rwbutler/Connectivity) -通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠.
 * [Dots](https://github.com/iAmrSalman/Dots) -轻量级并发网络框架.
@@ -1075,7 +1075,7 @@
 * [Dodo](https://github.com/evgenyneu/Dodo) -适用于iOS的消息栏.
 * [Doric Design System Foundation](https://github.com/jayeshk/Doric) -适用于iOS的面向协议，类型安全，可扩展的设计系统基础框架.
 * [DropDown](https://github.com/AssistoLab/DropDown) -适用于iOS的Material Design下拉列表.
-* [Element](https://github.com/eonist/Element) -适用于macOS的程序化UI框架.
+* [Element](https://github.com/eonist/Element) - Programmatic UI framework for macOS.
 * [Elissa](https://github.com/KitchenStories/Elissa) -在UITabBarItem或任何UIView锚视图的顶部显示通知，以显示其他信息.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) -音乐播放指示器，如iTunes.
 * [Family](https://github.com/zenangst/Family) -子视图控制器框架，使设置父控制器变得像馅饼一样容易.
@@ -1171,6 +1171,7 @@
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) -在iOS中的应用程序通知横幅中显示高度可定制的最简单方法.
 * [PMAlertController](https://github.com/pmusolino/PMAlertController) -PMAlertController是UIAlertController的出色且可自定义的替代品.
 * [PopupDialog](https://github.com/orderella/PopupDialog)  -一个简单的，可自定义的弹出对话框.  替换UIAlertController警报样式.
+* [PopupView](https://github.com/exyte/PopupView) -用SwiftUI编写的Toasts和Popups库.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) -动画警报视图.
 * [Sheet](https://github.com/ParkGwangBeom/Sheet) -具有导航功能（如Flipboard App）的操作表.
 * [SPAlert](https://github.com/ivanvorobei/SPAlert)  -来自AppStore中Apple Music＆Feedback的本机弹出窗口.  包含完成和心脏预设.
@@ -1213,7 +1214,7 @@
 * [CalendarView](https://github.com/mmick66/CalendarView) -日历组件，具有垂直和水平布局（和滚动）以及本机日历事件的显示.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) -一个更好的iOS UI组件，用于选择日期和时间.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) -UI日历​​交易.
-* [Workaholic](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+* [Workaholic](https://github.com/hemangshah/Workaholic) -类似于GitHub的工作贡献时间表.
 
 #### Cards
 [back to top](#readme) 
@@ -1440,7 +1441,7 @@
 
 * [AlexaSkillsKit](https://github.com/choefele/AlexaSkillsKit) -开发自定义Alexa技能.
 * [ApplyStyleKit](https://github.com/shindyu/ApplyStyleKit) -优雅地，使用“方法链”将样式应用于UIKit.
-* [Basis](https://github.com/typelift/Basis) - Pure Declarative Programming.
+* [Basis](https://github.com/typelift/Basis) -纯声明式编程.
 * [Bow](https://github.com/bow-swift/bow) -用于类型化功能编程的同伴库.
 * [Butterfly](https://github.com/wongzigii/Butterfly) -轻量级的库，用于将错误报告和反馈功能与震动事件集成在一起.
 * [CallbackURLKit](https://github.com/phimage/CallbackURLKit) -实现x-callback-url（应用间通信）.
@@ -1486,7 +1487,7 @@
 * [SwiftRater](https://github.com/takecian/SwiftRater) -提醒您iPhone应用程序用户的实用程序.
 * [SwiftTweaks](https://github.com/khan/swifttweaks) -调整您的iOS应用程序而无需重新编译.
 * [Swiftx](https://github.com/typelift/Swiftx) -任何项目的功能数据类型和功能.
-* [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+* [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils) -我们在每个项目中需要的所有可重用代码.
 * [Swiftz](https://github.com/typelift/Swiftz) -功能编程.
 * [Then](https://github.com/devxoul/Then) -初始化程序的超级甜蜜语法糖.
 * [TSAO](https://github.com/lilyball/swift-tsao) -类型安全关联对象.

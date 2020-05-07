@@ -70,7 +70,7 @@
 - [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) -检测硬件调试端口并与之交互，例如UART和JTAG.
 - [Shikra](https://int3.cc/products/the-shikra)  -检测硬件调试端口并与之交互，例如UART和JTAG.  除其他协议外.
 - [JTAGULATOR](http://www.grandideastudio.com/jtagulator/) -快速检测JTAG引脚排列.
-- [Saleae](https://www.saleae.com/) - Easy to use Logic Analyzer that support many protocols :euro:.
+- [Saleae](https://www.saleae.com/) -易于使用的逻辑分析仪，支持多种协议：euro:.
 - [Ikalogic](https://www.ikalogic.com/pages/logic-analyzer-sp-series-sp209) -替代Saleae逻辑分析仪：euro:.
 - [HydraBus](https://hydrabus.com/hydrabus-1-0-specifications/) -类似于BusPirate的开源多工具硬件，但具有NFC功能.
 - [ChipWhisperer](https://newae.com/chipwhisperer/) -检测故障/侧通道攻击.
@@ -90,6 +90,7 @@
 
 ### SDR Tools
 
+- [RTL-SDR](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/)  -初学者最便宜的特别提款权.  它是一种基于计算机的无线电扫描仪，用于接收从500 kHz到1.7​​5 GHz的实时无线电信号频率.
 - [HackRF One](https://greatscottgadgets.com/hackrf/) -软件定义的无线电外围设备，能够发送或接收1 MHz至6 GHz（半双工）的无线电信号.
 - [YardStick One](https://greatscottgadgets.com/yardstickone/) -半双工低于1 GHz的无线收发器.
 - [LimeSDR](https://www.crowdsupply.com/lime-micro/limesdr) -软件定义的无线电外围设备，能够发送或接收100 KHz至3.8 GHz（全双工）的无线电信号.
@@ -119,7 +120,7 @@
 -2015年，约书亚·赖特（Joshua Wright），约翰尼·凯什（Johnny Cache）： [Hacking Wireless Exposed](https://www.mhprofessional.com/9780071827638-usa-hacking-exposed-wireless-third-edition-group)
 -2014年，Debdeep Mukhopadhyay： [Hardware Security: Design, Threats, and Safeguards](https://www.taylorfrancis.com/books/9780429066900)
 -2014年，杰克·甘斯勒（Jack Ganssle）： [The Firmware Handbook (Embedded Technology)](https://www.elsevier.com/books/the-firmware-handbook/ganssle/978-0-7506-7606-9)
--2013年，黄宏伟： [Hacking the XBOX](https://nostarch.com/xboxfree)
+- 2013, Andrew Huang: [Hacking the XBOX](https://nostarch.com/xboxfree)
 
 ## Research Papers
 
@@ -181,6 +182,7 @@
 
 <!--lint ignore no-repeat-punctuation-->
 
+- [RTL-SDR](https://www.rtl-sdr.com/)
 - [/dev/ttyS0's Embedded Device Hacking](http://www.devttys0.com/blog/)
 - [Exploiteers](https://www.exploitee.rs/)
 - [Hackaday](https://hackaday.com)

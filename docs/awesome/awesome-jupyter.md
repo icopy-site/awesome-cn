@@ -60,10 +60,11 @@
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) -基于小部件和WebGL在Jupyter中进行Python的3D绘图.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) -交互式小部件以2D和3D形式显示图像.
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) -用于在2D和3D中构建特殊目的交互式图表的基础结构.
+- [jupyter-manim](https://github.com/krassowski/jupyter-manim) -显示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter笔记本中的视频或GIF.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) -Jupyter笔记本中的Google Maps交互式可视化库.
 - [mpld3](http://mpld3.github.io) -结合Matplotlib和D3js vor交互式数据可视化.
 - [pd-replicator](https://github.com/scwilkinson/pd-replicator) -一键将pandas DataFrame复制到剪贴板.
-- [pyecharts](https://github.com/pyecharts/pyecharts) -的Python界面 [ECharts](https://github.com/apache/incubator-echarts) 可视化库.
+- [pyecharts](https://github.com/pyecharts/pyecharts) -的Python界面 [ECharts](https://github.com/apache/incubator-echarts) visualization library.
 - [pythreejs](https://github.com/jovyan/pythreejs) -利用Jupyter小部件基础结构的Python / ThreeJS桥.
 - [Qgrid](https://github.com/quantopian/qgrid) -用于在Jupyter笔记本中对DataFrame进行排序，过滤和编辑的交互式网格.
 - [tributary](https://github.com/timkpaine/tributary) -具有Jupyter支持的Python数据流.
@@ -143,7 +144,7 @@
 ## Hosted Notebook Solutions
 
 - [Anaconda Enterprise](https://www.anaconda.com/enterprise/) -模型，笔记本和仪表板的多用户协作和一键式部署.
-- [Azure Notebooks](https://notebooks.azure.com) - Jupyter notebooks running in the cloud on Microsoft Azure.
+- [Azure Notebooks](https://notebooks.azure.com) -在Microsoft Azure上的云中运行的Jupyter笔记本.
 - [CoCalc](https://cocalc.com) -具有17种受支持的内核类型，课程管理，LaTeX文档创作，同步文档编辑以及与SageMath计算机代数系统集成的笔记本.
 - [DataScience.com](https://www.datascience.com) -企业数据科学平台.
 - [Deepnote](https://www.deepnote.com) -与Jupyter兼容的数据科学笔记本，具有实时协作，版本控制和易于部署的功能.

@@ -107,6 +107,7 @@
 - [next.js](https://github.com/zeit/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
 - [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
+- [remix](https://remix.run/) -最后，React Router的创建者提供了一个致命的React框架
 
 ##### React Styling
 
@@ -114,19 +115,22 @@
 - [emotion](https://github.com/emotion-js/emotion) -用于使用JavaScript编写CSS样式的库
 - [radium](https://github.com/FormidableLabs/radium) -用于React组件样式化的工具链
 - [jss](https://github.com/cssinjs/jss) -CSS创作工具
+- [aphrodite](https://github.com/Khan/aphrodite) -与框架无关的CSS-in-JS，支持服务器端渲染，浏览器前缀和最少的CSS生成
+
 
 ##### React Routing
 
 - [react-router](https://github.com/ReactTraining/react-router) -React的声明式路由
 - [navi](https://github.com/frontarm/navi) -用于React的声明式异步路由
 - [curi](https://github.com/pshrmn/curi) -单页应用程序的JavaScript路由器
+- [reach](https://github.com/reach/router) -下一代React路由
 
 ##### React Component Libraries
 
 - [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
 - [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
 - [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
-- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) -用于构建Microsoft Web体验的React组件
+- [Fluent UI](https://github.com/microsoft/fluentui) -一组用于构建Microsoft Web体验的React组件
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) -用React构建的Bootstrap组件
 - [reactstrap](https://github.com/reactstrap/reactstrap) -简单的React Bootstrap 4组件
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) -官方的语义UI集成
@@ -137,7 +141,7 @@
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
 - [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，包含50多个具有材质，引导程序和自定义主题的组件.
 - [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
-- [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
+- [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 - [rbx](https://github.com/dfee/rbx) -React的综合布尔玛UI框架
 - [trunx](https://github.com/fibo/trunx) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
 - [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
@@ -222,7 +226,7 @@
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
 - [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications](https://github.com/Autodesk/clearx)
 - [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态预呈现
-- [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
+- [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
 - [refract](https://github.com/fanduel-oss/refract) -利用反应式编程的力量为您的组件增压
 - [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 - [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
@@ -468,8 +472,17 @@
 - [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
 - [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 - [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
+- [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) -React Native最完整的聊天界面
+- [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) -FastImage，高性能React Native图像组件
+- [recyclerlistview](https://github.com/Flipkart/recyclerlistview) -适用于React Native和Web的高性能listview！
+- [react-native-largelist](https://github.com/bolan9999/react-native-largelist) -React Native的最佳大型列表组件
+- [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler) -声明式API将平台原生触摸和手势系统暴露给React Native
+- [rn-placeholder](https://github.com/mfrachet/rn-placeholder) -在React Native中渲染文本或媒体内容之前显示一些占位符
 
----
+#### React Native Libraries
+- [sentry-react-native](https://github.com/getsentry/sentry-react-native) -针对您的Web应用程序，移动应用程序和游戏的实时崩溃报告.
+- [realm-js](https://github.com/realm/realm-js) -Realm是一个移动数据库：SQLite和键值存储的替代品
+- [react-native-device-info](https://github.com/react-native-community/react-native-device-info) -React Native iOS和Android的设备信息
 
 ### Redux
 
@@ -486,6 +499,7 @@
 - [react-redux - Official React bindings for Redux](https://github.com/reactjs/react-redux)
 - [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/reduxjs/redux-devtools)
   - [react-router-redux - Bindings to keep react-router and redux in sync](https://github.com/reactjs/react-router-redux)
+- [redux-toolkit - The official, opinionated, batteries-included toolset for efficient Redux development](https://github.com/reduxjs/redux-toolkit)
 - [redux-form - A Higher Order Component using react-redux to keep form state](https://github.com/erikras/redux-form)
 - [redux-thunk - Thunk middleware for redux](https://github.com/gaearon/redux-thunk)
 - [redux-logger - Logger middleware for redux](https://github.com/theaqua/redux-logger)

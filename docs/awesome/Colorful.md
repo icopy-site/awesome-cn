@@ -60,6 +60,7 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [ColorFavs](http://www.colorfavs.com/) -创建和发现美丽的调色板和颜色.
 - [Colormind](http://www.colormind.io/) -Colormind是使用深度学习的配色方案生成器.
 - [iColorpalette](https://icolorpalette.com) -按颜色或主题创建，浏览或导出（aco，ase，svg，png，pdf）调色板.
+- [geenes](https://geenes.app/) -在几秒钟内创建一个色标，然后将其导出到草图或代码中.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) -具有快速预览功能的调色板.
