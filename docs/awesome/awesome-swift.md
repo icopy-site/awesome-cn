@@ -12,7 +12,7 @@
 
  |  iOS应用|  很棒  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1008 |  2020年5月6日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1009 |  2020年5月7日
 
 
 
@@ -67,7 +67,7 @@
 
 ## REPL
 
-* [Online Swift Playground](http://online.swiftplayground.run) - Online Swift Playground.
+* [Online Swift Playground](http://online.swiftplayground.run) -在线Swift Playground.
 
 ## Editor Support
 *支持您最喜欢的编辑器.* 
@@ -75,7 +75,7 @@
 ### Emacs
 [back to top](#readme) 
 
-* [swift-mode](https://github.com/swift-emacs/swift-mode) -Emacs支持，包括部分flycheck错误支持.
+* [swift-mode](https://github.com/swift-emacs/swift-mode) - Emacs support, including partial flycheck error support.
 
 ### Vim
 [back to top](#readme) 
@@ -247,7 +247,7 @@
 
 * [Cely](https://github.com/chaione/Cely) -即插即用登录框架.
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) -验证Instagram帐户的简单方法.
-* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
+* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) -简单的视图控制器即可登录并从LinkedIn检索访问令牌.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) -LoginKit是将登录/注册UX添加到iOS应用的快速简便的方法.
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) -iOS的[In]可见ReCaptcha.
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) -使用Spotify API进行身份验证.
@@ -344,7 +344,7 @@
 * [AERecord](https://github.com/tadija/AERecord) -适用于iOS的超棒Core Data包装器库.
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) -简单的核心数据包装器库.
 * [CloudCore](https://github.com/deeje/CloudCore/) -强大的CloudKit同步：离线编辑，关系，共享和公共数据库等等.
-* [CoreStore](https://github.com/JohnEstropia/CoreStore) -处理核心数据的简单而优雅的方法.
+* [CoreStore](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
 * [DataKernel](https://github.com/mrdekk/DataKernel)  -DataKernel是Core Data堆栈的简约包装，可简化持久性操作.  没有外部依赖性.
 * [Graph](https://github.com/CosmicMind/Graph) -优雅的数据驱动的核心数据框架.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) -更快的核心数据堆栈.
@@ -435,7 +435,7 @@
 [back to top](#readme) 
 
 * [Realm](https://github.com/realm/realm-cocoa) -Realm是一个移动数据库：替代了Core Data＆SQLite.
-* [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) -与Realm和JSON一样简洁的类似于Mantle的工作方式.
+* [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - A concise Mantle-like way of working with Realm and JSON.
 * [RealmWrapper](https://github.com/k-lpmg/RealmWrapper) -RealmSwift的安全便捷包装器.
 * [Unrealm](https://github.com/arturdev/Unrealm) -Unrealm使您可以轻松地将Swift本机类，结构和枚举存储到Realm中.
 
@@ -553,7 +553,7 @@
 * [LightweightObservable](https://github.com/fxm90/LightweightObservable) -您可以订阅的可观察序列的轻量级实现.
 * [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) -NoticeObserveKit是类型安全的NotificationCenter包装器，用于将通知类型与信息类型相关联.
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) -通过提供一个简单的可自定义适配器来帮助您拥有“ NSNotificationCenter”.
-* [Observable](https://github.com/roberthein/Observable) - The easiest way to observe values.
+* [Observable](https://github.com/roberthein/Observable) -观察值的最简单方法.
 * [OpenCombine](https://github.com/broadwaylamb/OpenCombine) -Apple的Combine框架的开源实现，用于随着时间的推移处理值.
 * [PMKVObserver](https://github.com/postmates/PMKVObserver/) -现代的线程安全和类型安全键值观察.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) -异步诺言编程库.
@@ -702,7 +702,7 @@
 * [Snowflake](https://github.com/onmyway133/Snowflake) -使用SVG.
 * [SwiftGen-Assets](https://github.com/SwiftGen/SwiftGen#assets-catalogs) -一种从资产目录自动为所有UIImages生成enum的工具.
 * [SwiftGif](https://github.com/swiftgif/SwiftGif) -具有GIF支持的小型UIImage扩展.
-* [SwiftSVG](https://github.com/mchoe/SwiftSVG) -具有多个接口选项（字符串，NS / UIBezierPath，CAShapeLayer和NS / UIView）的单遍SVG解析器.
+* [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
 * [SwiftWebImage](https://github.com/geekaurora/SwiftWebImage) -具有高性能LRU内存/磁盘缓存的SwiftUI图像下载器.
 * [SwiftyGif](https://github.com/kirualex/SwiftyGif) -高性能GIF引擎.
 * [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) -适用于移动应用程序的智能，易于使用的图像蒙版和剪切SDK.
@@ -754,7 +754,7 @@
 * [Cupcake](https://github.com/nerdycat/Cupcake) -为iOS创建和布局UI组件的简便方法.
 * [DeviceLayout](https://github.com/cruisediary/DeviceLayout) -可以为每个设备设置不同的自动版式.
 * [EasyPeasy](https://github.com/nakiostudio/EasyPeasy) -自动布局变得容易.
-* [EZLayout](https://github.com/alexliubj/EZAnchor) -一种更简单，更快捷的自动布局编码方式.
+* [EZLayout](https://github.com/alexliubj/EZAnchor) - An easier and faster way to code Autolayout.
 * [KVConstraintKit](https://github.com/keshavvishwkarma/KVConstraintKit) -适用于iOS，tvOS和OSX的令人印象深刻的自动布局DSL.
 * [MisterFusion](https://github.com/marty-suzuki/MisterFusion) -用于自动布局的DSL，支持尺寸等级.
 * [Mortar](https://github.com/jmfieldman/Mortar) -简洁但灵活的DSL，用于创建自动布局约束并添加子视图.
@@ -849,7 +849,7 @@
 * [PMHTTP](https://github.com/postmates/PMHTTP) -着重于REST和JSON的HTTP框架.
 * [Postal](https://github.com/snipsco/Postal) -提供对普通电子邮件提供商的简单访问的框架.
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) -封闭式替代Apple的可及性.
-* [ReactiveAPI](https://github.com/sky-uk/ReactiveAPI)  -使用RxSwift的功能，依靠URLSession编写干净，简洁和声明性的网络代码.  受到改造的启发.
+* [ReactiveAPI](https://github.com/sky-uk/ReactiveAPI) - Write clean, concise and declarative network code relying on URLSession, with the power of RxSwift. Inspired by Retrofit.
 * [ResponseDetective](https://github.com/netguru/ResponseDetective) -一种非侵入式框架，用于拦截应用程序和服务器之间的所有传出请求和传入响应，以进行调试.
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) -快速隧道代理，可帮助您绕过防火墙.
 * [Siesta](https://bustoutsolutions.github.io/siesta/)  -REST API的优雅抽象，可解开有状态的混乱情况.  基于回调和基于委托的网络的替代方法.
@@ -892,6 +892,7 @@
  *您要在设备中托管网络服务器吗？  您可以在这里找到操作方法.* [back to top](#readme) 
 
 * [Ambassador](https://github.com/envoy/Ambassador) -基于SWSGI的超轻量级Web框架.
+* [Corvus](https://github.com/apodini/corvus) ：penguin：-使用声明性语法构建REST API的Web框架.
 * [Curassow](https://github.com/kylef-archive/Curassow) ：penguin：-使用前叉工作程序模型的HTTP服务器.
 * [Embassy](https://github.com/envoy/Embassy) ：penguin：-超级轻量级​​异步HTTP服务器库.
 * [Kitura](https://github.com/IBM-Swift/Kitura) ：penguin：-IBM的Web服务的Web框架和服务器.
@@ -946,7 +947,7 @@
 * [SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) -帮助您使用Swift属性包装器为属性定义安全存储.
 
 #### Cryptography
-*使用密码方法轻松交易* [back to top](#readme) 
+*使用加密方法轻松交易* [back to top](#readme) 
 
 * [BlueCryptor](https://github.com/IBM-Swift/BlueCryptor) -IBM的跨平台加密库.
 * [BlueRSA](https://github.com/IBM-Swift/BlueRSA) -IBM的跨平台RSA加密库.
@@ -1075,7 +1076,7 @@
 * [Dodo](https://github.com/evgenyneu/Dodo) -适用于iOS的消息栏.
 * [Doric Design System Foundation](https://github.com/jayeshk/Doric) -适用于iOS的面向协议，类型安全，可扩展的设计系统基础框架.
 * [DropDown](https://github.com/AssistoLab/DropDown) -适用于iOS的Material Design下拉列表.
-* [Element](https://github.com/eonist/Element) - Programmatic UI framework for macOS.
+* [Element](https://github.com/eonist/Element) -适用于macOS的程序化UI框架.
 * [Elissa](https://github.com/KitchenStories/Elissa) -在UITabBarItem或任何UIView锚视图的顶部显示通知，以显示其他信息.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) -音乐播放指示器，如iTunes.
 * [Family](https://github.com/zenangst/Family) -子视图控制器框架，使设置父控制器变得像馅饼一样容易.
@@ -1176,7 +1177,7 @@
 * [Sheet](https://github.com/ParkGwangBeom/Sheet) -具有导航功能（如Flipboard App）的操作表.
 * [SPAlert](https://github.com/ivanvorobei/SPAlert)  -来自AppStore中Apple Music＆Feedback的本机弹出窗口.  包含完成和心脏预设.
 * [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) -显示类似Apple系统的自动隐藏状态警报，而不会中断用户流程.
-* [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
+* [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) -警报系统.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) -设计自定义提示，并提供多种选择.
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) -一个简单而通用的弹出式演示器.
 * [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) -适用于iOS的非常灵活的消息栏.
@@ -1327,7 +1328,7 @@
 * [ESTabBarController](https://github.com/eggswift/ESTabBarController) -高度可定制的TabBarController组件，该组件继承自UITabBarController.
 * [HHTabBarView](https://github.com/hemangshah/HHTabBarView) -轻巧的自定义标签栏视图.
 * [PolioPager](https://github.com/YuigaWada/PolioPager) -带有搜索选项卡（如SNKRS）的灵活TabBarController.
-* [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
+* [Tabman](https://github.com/uias/Tabman) -带有指示条的功能强大的分页视图控制器.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) -分页视图控制器和滚动选项卡视图.
 
 #### Template
@@ -1550,4 +1551,4 @@
 
 ### Contributing
 
-请快速浏览 [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢你们 [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors) ;  你摇滚！
+请快速浏览一下 [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢你们 [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors) ;  你摇滚！

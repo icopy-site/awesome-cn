@@ -61,6 +61,7 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [Colormind](http://www.colormind.io/) -Colormind是使用深度学习的配色方案生成器.
 - [iColorpalette](https://icolorpalette.com) -按颜色或主题创建，浏览或导出（aco，ase，svg，png，pdf）调色板.
 - [geenes](https://geenes.app/) -在几秒钟内创建一个色标，然后将其导出到草图或代码中.
+- [Tints and Shades](https://maketintsandshades.com/) -以10％的增量显示给定十六进制颜色的色调和阴影.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) -具有快速预览功能的调色板.

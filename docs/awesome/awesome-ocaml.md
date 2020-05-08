@@ -7,7 +7,7 @@
 
 &gt; _ **在掌握OCaml的过程中，您将需要的一切.** _
 
- 精选的精选OCaml工具，框架，库和文章的参考清单.  此外，还有一些免费提供的收藏 [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) 和 [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
+ 精选的精选OCaml工具，框架，库和文章的参考清单.  此外，还有免费的收藏 [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) 和 [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
 
 如果您正在寻找有关OCaml的全面的社区驱动内容，请访问 [OCamlverse](https://ocamlverse.github.io/)!
 
@@ -47,12 +47,12 @@
 - [Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) –用于OCaml项目的社区维护的基础库.
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) – OCaml的命令行界面的声明性定义.
 - [Core](https://github.com/janestreet/core)  – Jane Street Capital的完整标准库覆盖图.  还提供了可移植的Core子集： [Core_kernel](https://github.com/janestreet/core_kernel).
-- [Base](https://github.com/janestreet/base) -简街资本（Jane Street Capital）无依赖，快速编译，可在可运行OCaml代码标准库的任何环境中完全移植.
-- [React](http://erratique.ch/software/react)  – React是用于功能反应式编程（FRP）的OCaml模块.  它为时变值的编程提供支持：声明性事件和信号.
+- [Base](https://github.com/janestreet/base) -简街资本（Jane Street Capital）无需依赖，可快速编译，可在可运行OCaml代码标准库的任何环境中完全移植.
+- [React](http://erratique.ch/software/react)  – React是用于功能反应编程（FRP）的OCaml模块.  它为时变值编程提供支持：声明性事件和信号.
 - [Minicli](https://github.com/UnixJunkie/minicli) –用于命令行解析的极简库.
 - [easy-format](https://github.com/mjambon/easy-format) – OCaml的漂亮打印库.
-- [ocaml-rpc](https://github.com/mirage/ocaml-rpc) –轻型库，用于处理OCaml中的RPC.
-- [ocaml-containers](https://github.com/c-cube/ocaml-containers)  –轻量级的模块化标准库扩展，字符串库和各种库（bigarray，unix等的接口）.  BSD许可证.
+- [ocaml-rpc](https://github.com/mirage/ocaml-rpc) –用于处理OCaml中RPC的轻型库.
+- [ocaml-containers](https://github.com/c-cube/ocaml-containers)  –轻量级的模块化标准库扩展，字符串库以及各种库（bigarray，unix等的接口）.  BSD许可证.
 
 
 ## Benchmarking
@@ -71,7 +71,7 @@
 
 ## Books
 
-- [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)  –在More OCaml中，约翰·惠灵顿（John Whitington）曲折地浏览了OCaml的函数式编程，介绍了各种语言功能并描述了一些经典算法.  本书最后有一个处理PDF文件生成的大型示例.  每章都有问题，以及有效的答案和提示.
+- [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)  –在More OCaml中，约翰·惠灵顿（John Whitington）进行了OCaml函数编程的曲折之旅，介绍了各种语言功能并描述了一些经典算法.  本书以处理PDF文件生成的大型示例作为结尾.  每章都有问题，以及有效的答案和提示.
 - [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html)  艾伦·唐尼（Allen Downey）和尼古拉斯·蒙耶（Nicholas Monje）撰写的-《如何像计算机科学家一样思考》是一本基于OCaml语言的入门编程教科书.  它是Allen Downey编写的Think Python的修改版本.  它适用于编程的新手，以及那些了解一些编程但想在面向功能的范式中学习编程的人，或者只是想学习OCaml的人.
 - [OCaml from the Very Beginning](http://ocaml-book.com/) 由J. Whitington撰写-OCaml从一开始就将吸引新的程序员，以及经验丰富的渴望探索功能语言（例如OCaml）的程序员.
 - [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)  由理查德·伯德（Richard Bird）撰写-总结了函数编程世界中的30个难题.  尽管是针对Haskell的，但算法问题却非常有趣，尝试在OCaml中解决它们也有助于功能编程的思考.  OCaml中的部分解决方案是 [here](https://github.com/MassD/pearls).
@@ -87,7 +87,7 @@
 ## Code Analysis and Linters
 
 - [Mascot](http://mascot.x9c.fr/) -Mascot是OCaml来源的样式检查器
-- [pfff](https://github.com/aryx/pfff) – pfff是一组工具和API，用于执行一些静态分析，动态分析，代码可视化，代码导航或保留样式的源到源转换，例如对源代码进行重构.
+- [pfff](https://github.com/returntocorp/pfff) – pfff是一组工具和API，用于执行一些静态分析，动态分析，代码可视化，代码导航或保留样式的源到源转换，例如对源代码进行重构.
 - [Infer](https://github.com/facebook/infer) -Infer是用于Java，C和Objective-C的静态分析器
 - [Frama-C](http://frama-c.com) -Frama-C是针对C和C ++的静态分析和形式证明框架
 - [flow](https://github.com/facebook/flow) -flow是JavaScript的静态类型检查器
@@ -182,14 +182,14 @@
 
 ## Developer Tools
 
-- [Try OCaml](https://try.ocamlpro.com/) –在您的Web浏览器中尝试OCaml.
+- [Try OCaml](https://try.ocamlpro.com/) –在Web浏览器中尝试OCaml.
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) –在线编译并执行OCaml代码.
 - [Jupyter](https://github.com/akabe/ocaml-jupyter) – Jupyter笔记本电脑的OCaml内核.
 - [utop](https://github.com/ocaml-community/utop) – OCaml的通用顶层，支持多行版本，历史记录，实时和上下文相关的补全，颜色等.
 - [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) -格式化OCaml代码的命令行工具.
-- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html)  –使用LablTk编写的源代码和编译接口浏览器.  包含在ocaml &lt;= 4.01的标准发行版中，以及包含在labml&gt; = 4.02的labltk中.
+- [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html)  –使用LablTk编写的源和编译界面浏览器.  包含在ocaml &lt;= 4.01的标准发行版中，以及包含在labml&gt; = 4.02的labltk中.
 - [ghim](https://github.com/samoht/ghim) –用于管理Github问题的命令行工具.
-- [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) –支架式OCaml模块的Yeoman发电机.
+- [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) – Yeoman发电机连接到OCaml模块.
 
 -**外部功能接口**：
   - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) –用于使用纯OCaml绑定到C库的库.
@@ -223,9 +223,9 @@
 
 ## Formal Software Verification
 
-- [Coq](https://coq.inria.fr/)  – Coq是一个正式的证明管理系统.  它提供了一种正式的语言来编写数学定义，可执行算法和定理，以及用于半交互式开发机器检查的证明的环境.
+- [Coq](https://coq.inria.fr/)  – Coq是一个正式的证明管理系统.  它提供了一种正式的语言来编写数学定义，可执行的算法和定理，以及用于半交互式开发机器检查的证明的环境.
 - [Why3](http://why3.lri.fr/)  – Why3是演绎程序验证的平台.  它为规范和编程提供了一种丰富的语言，称为WhyML，并依靠自动和交互的外部定理证明者来满足验证条件.
-- [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo是一个开源SMT求解器，致力于证明在程序验证的情况下生成的数学公式.
+- [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo是开放源代码的SMT求解器，致力于证明在程序验证的上下文中生成的数学公式.
 
 
 ## General
@@ -249,12 +249,12 @@
 
 -** 2D **
   - [archimedes](http://archimedes.forge.ocamlcore.org/) — 2D绘图库.
-  - [cairo2](https://github.com/Chris00/ocaml-cairo)  —绑定到2D矢量图形库Cairo.  与lablgtk很好地集成.
+  - [cairo2](https://github.com/Chris00/ocaml-cairo)  —绑定到2D矢量图形库Cairo.  与lablgtk集成良好.
   - [Vg](https://github.com/dbuenzli/vg) – OCaml的声明性2D矢量图形.
 -** 3D **
   - [glMLite](http://www.linux-nantes.org/~fmonnier/OCaml/GL/)  — OCaml的OpenGL绑定.  提供（实验）功能性API.
-  - [lablgl](https://forge.ocamlcore.org/projects/lablgl/)  — OpenGL的接口.  与lablgtk很好地集成.
-  - [tgls](http://erratique.ch/software/tgls) —薄绑定OpenGL 3. {2,3}，4.{0,1,2,3,4}和OpenGL ES {2,3}.
+  - [lablgl](https://forge.ocamlcore.org/projects/lablgl/)  — OpenGL的接口.  与lablgtk集成良好.
+  - [tgls](http://erratique.ch/software/tgls) —精简绑定OpenGL 3. {2,3}，4.{0,1,2,3,4}和OpenGL ES {2,3}.
 
 
 ## Internationalization
@@ -270,7 +270,7 @@
 
 ## User Interface
 
-- [lablgtk](http://lablgtk.forge.ocamlcore.org/) — OCaml的GTK2绑定，具有各种高级功能来定义GUI.
+- [lablgtk](http://lablgtk.forge.ocamlcore.org/) —用于OCaml的GTK2绑定，具有各种高级功能来定义GUI.
 - [lablqml](https://github.com/Kakadu/lablqml) – OCaml的QML Qt5绑定.
 - [labltk](https://forge.ocamlcore.org/projects/labltk/)  — Tcl / Tk GUI框架的接口.  在ocaml &lt;= 4.01的标准发行版中.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl是OCaml模块，提供对跨平台SDL库的精简绑定.
@@ -300,7 +300,7 @@
 ## Machine Learning
 
 -**图书馆**
-	- [Owl](https://ocaml.xyz/) -具有神经网络，算法差异化和ONNX支持的科学图书馆.
+	- [Owl](https://ocaml.xyz/) -具有神经网络，算法区分和ONNX支持的科学图书馆.
 	- [Object detection convolutional neural network with OCaml (based on Owl)](https://github.com/owlbarn/owl_mask_rcnn).
 	- [PyTorch bindings](https://github.com/LaurentMazare/ocaml-torch) -PyTorch的OCaml绑定.
 -**文章**
@@ -327,7 +327,7 @@
   - [Reading Camlp4 – Ambassador to the Computers](https://ambassadortothecomputers.blogspot.com/p/reading-camlp4.html)
 -**语法扩展**：
   - [ppx_import](https://github.com/ocaml-ppx/ppx_import) –导入是一种语法扩展，它允许从其他已编译的接口文件中提取类型或签名.
-  - [ppx_string_interpolate](https://github.com/sheijk/ppx_string_interpolate) –一个简单的ppx过滤器，用于支持字符串插值，例如`[％str“ foo的值为$（foo）”]`.
+  - [ppx_string_interpolate](https://github.com/sheijk/ppx_string_interpolate) –一个简单的ppx过滤器，用于支持字符串插值，例如[[％str“ foo的值为$（foo）”]].
   - [ppx_monad](https://github.com/rizo/ppx_monad) – OCaml的Monad语法扩展.
   - [ppx_deriving_yojson](https://github.com/whitequark/ppx_deriving_yojson) –用于OCaml的Yojson编解码器生成器.
 -**工具和语言扩展**：
@@ -370,7 +370,7 @@
 
 ## Package Management
 -**分布**：
-  - [OPAM](http://opam.ocamlpro.com/) –具有多种编译器支持的灵活的Git友好软件包管理器.
+  - [OPAM](http://opam.ocamlpro.com/) –具有多个编译器支持的灵活的Git友好软件包管理器.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html)  —本地OCaml库管理器.  被大多数OCaml生态系统使用.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) -适用于Windows的opam存储库和实验版本.
   - [makorel](https://github.com/sagotch/makorel) –轻松发布OPAM软件包.
@@ -378,7 +378,7 @@
 
 -**构建工具**：
   - [Oasis](http://oasis.forge.ocamlcore.org/)  -在OCaml项目中集成配置，构建和安装系统的工具.  它有助于在构建系统中创建标准入口点，并允许外部工具轻松分析项目.
-    - [oasis2opam](https://github.com/ocaml/oasis2opam) —用于将OASIS元数据转换为OPAM软件包描述的工具.
+    - [oasis2opam](https://github.com/ocaml/oasis2opam) —将O​​ASIS元数据转换为OPAM软件包描述的工具.
   - [obuild](https://github.com/ocaml-obuild/obuild) –简单的ocaml软件包构建系统.
   - [dune](https://github.com/ocaml/dune) –用于OCaml的可组合且自以为是的构建系统（以前的jbuilder）
   - [jenga](https://github.com/janestreet/jenga) – Jane Street的Monadic构建系统.
@@ -401,7 +401,7 @@
   - [Nproc](https://github.com/MyLifeLabs/nproc) – OCaml的过程池实现.
   - [Parany](https://github.com/UnixJunkie/parany) –对独立项目进行并行计算，即使它们数量不限也是如此.
   - [Sklml](http://sklml.inria.fr) –用于OCaml程序的功能性并行骨架编译器和编程系统.
-  - [SPOC](https://github.com/mathiasbourgoin/SPOC) -库和语法扩展，可将大量计算任务卸载到并行加速器（多核CPU，GPU和与GPGPU框架兼容的其他加速器）中.
+  - [SPOC](https://github.com/mathiasbourgoin/SPOC) -库和语法扩展，可将大量计算任务卸载到并行加速器（多核CPU，GPU和其他与GPGPU框架兼容的加速器）中.
 
 -**文章**：
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
@@ -416,7 +416,7 @@
 ## Science and Technical Computing
 
 - [biocaml](https://github.com/biocaml/biocaml)  – OCaml生物信息学图书馆 <http://biocaml.org>  .
-- [guizmin](https://github.com/pveber/guizmin) –用于建立生物信息学管道的OCaml库.
+- [guizmin](https://github.com/pveber/guizmin) –用于构建生物信息学管道的OCaml库.
 - [lacaml](https://mmottl.github.io/lacaml/) -用于BLAS / LAPACK的OCaml绑定（高性能线性代数Fortran库）.
 - [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
 - [onumerical](https://github.com/cheshire/onumerical) – OCaml的数字库.
@@ -429,10 +429,10 @@
 
 ## Regular Expressions
 
-- [Re](https://github.com/ocaml/ocaml-re) –具有合并器的纯OCaml正则表达式库，支持多种格式（glob，posix，str ...）
+- [Re](https://github.com/ocaml/ocaml-re) –具有组合器的纯OCaml正则表达式库，支持多种格式（glob，posix，str ...）
 - [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) –绑定到PCRE库（与perl兼容的正则表达式）
 - [Humane-re](https://github.com/rgrinberg/humane-re) –人性化的尝试为90％的正则表达式提供简单的界面感谢ocaml-re
-- [Tyre](https://github.com/Drup/tyre) -Tire是一组组合器，用于构建类型安全的正则表达式，从而允许自动提取和修改匹配的组.
+- [Tyre](https://github.com/Drup/tyre) -Tire是一组组合器，用于构建类型安全的正则表达式，从而可以自动提取和修改匹配的组.
 
 
 ## Security and Cryptography
@@ -443,7 +443,7 @@
 - [nocoiner](https://github.com/marcoonroad/nocoiner) -用于多方计算（例如在线拍卖和赌博）的承诺计划库.
 - [nocrypto](https://github.com/mirleft/ocaml-nocrypto)  – ocaml-tls项目背后的小型加密库.  它被构建为易于使用，遵循功能性编程原则并且能够在基于Xen的unikernel中运行.
 
-&gt;注意：以下博客文章中描述了nocrypto库和cryptookit加密库之间的区别： [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
+&gt;注意：以下博客文章描述了`nocrypto`和`cryptokit`加密库之间的区别： [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
 
 
 ## Semantic Technology
@@ -464,12 +464,12 @@
 ## System Programming
 
 - [Mirage OS](https://github.com/mirage/mirage) – Mirage是一个编程框架，用于跨各种云计算和移动平台构建安全的高性能网络应用程序.
-- [ocaml-fat](https://github.com/mirage/ocaml-fat) –从OCaml读写FAT格式的文件系统.
+- [ocaml-fat](https://github.com/mirage/ocaml-fat) –从OCaml读取和写入FAT格式的文件系统.
 - [ocaml-git](https://github.com/mirage/ocaml-git) –纯OCaml低级git绑定.
 - [ocaml-vchan](https://github.com/mirage/ocaml-vchan) –“ vchan”共享内存通信协议的纯OCaml实现.
 
 - **嵌入式系统**
-  - [OMicroB](https://github.com/stevenvar/omicrob) -设计用于在AVR（例如Arduino）微控制器上运行OCaml字节码的虚拟机.
+  - [OMicroB](https://github.com/stevenvar/omicrob) -设计为在AVR（例如Arduino）微控制器上运行OCaml字节码的虚拟机.
   - [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC:OCAPIC) -用于PIC18单片机的OCaml虚拟机.
   - [ocaml-esp32](https://github.com/sadiqj/ocaml-esp32) -用于ESP32 SoC的编译器.
 
@@ -478,26 +478,26 @@
 
 - [Alcotest](https://github.com/mirage/alcotest) –轻巧而丰富多彩的测试框架.
 - [OUnit](http://ounit.forge.ocamlcore.org/)  – OUnit是OCaml的单元测试框架.  它使人们可以轻松地为OCaml代码创建单元测试.  它基于HUnit，这是Haskell的单元测试框架.
-- [QCheck](https://github.com/c-cube/qcheck) — QCheck是一个受Haskell QuickCheck启发的属性测试库
+- [QCheck](https://github.com/c-cube/qcheck) — QCheck是受Haskell QuickCheck启发的属性测试库
 - [iTeML](https://github.com/vincent-hugot/iTeML) （原名 [qtest](http://batteries.vhugot.com/qtest/)）-支持内联编译指示生成测试.
 - [Kaputt](http://kaputt.x9c.fr/) —全面的测试框架.
-- [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —常规的在线测试宏.
+- [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —常规的内联测试宏.
 - [TestSimple](https://github.com/hcarty/ocaml-testsimple) -与 [Test Anything Protocol](https://testanything.org/).
 
 
 ## Utilities
 
-- [ocaml-cuid](https://github.com/marcoonroad/ocaml-cuid) -用于服务器可伸缩性和数据库性能的防冲突ID.
+- [ocaml-cuid](https://github.com/marcoonroad/ocaml-cuid) -防冲突ID，用于服务器可伸缩性和数据库性能.
 
 
 ## Web Development
 
 - **构架**：
   - [Opium](https://github.com/rgrinberg/opium) – Sinatra像OCaml的网络工具包.
-  - [Ocsigen Eliom](http://ocsigen.org/eliom/)  – Eliom是功能全面的多层框架，用于将多平台Web和移动应用程序开发为100％OCaml分布式应用程序.  它也可以用于更传统的Web或移动应用程序：网站，单页应用程序，REST API等.
+  - [Ocsigen Eliom](http://ocsigen.org/eliom/)  – Eliom是功能齐全的多层框架，用于将多平台Web和移动应用程序开发为100％OCaml分布式应用程序.  它也可以用于更传统的Web或移动应用程序：网站，单页应用程序，REST API等.
   - [webmachine](https://github.com/inhabitedtype/ocaml-webmachine)  –用于OCaml的REST工具包.  OCaml Web机是cohttp之上的一层，它实现了基于状态机的HTTP请求处理器.  它特别适合编写RESTful API.  顾名思义，这是Webmachine项目的OCaml端口.
   - [incr_dom](https://github.com/janestreet/incr_dom) -使用Js_of_ocaml构建动态Web应用程序的库
-  - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) -Elm架构和OCaml的（V）DOM
+  - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) -Elm体系结构和OCaml的（V）DOM
 
 -**工具**：
   - [COW](https://github.com/mirage/ocaml-cow) – Web上的Caml（COW）是一组解析器和语法扩展，可让您直接从OCaml代码中操作HTML，CSS，XML，JSON和Markdown.
@@ -516,7 +516,7 @@
   - [tyxml](http://ocsigen.org/tyxml) —用于构建有效的（根据W3C规范）Html和Svg树的库.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml)  – Js_of_ocaml是OCaml字节码到Javascript的编译器.  这样就可以在Web浏览器中运行Ocaml程序.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) -从js_of_ocaml项目轻松导入和导出CommonJS模块.
-  - [BuckleScript](https://github.com/bloomberg/bucklescript)  -BuckleScript是OCaml的后端，可生成可调试的Javascript.  它使OCaml能够无缝集成Java平台.
+  - [BuckleScript](https://github.com/bloomberg/bucklescript)  -BuckleScript是OCaml的后端，可以生成可调试的Javascript.  它使OCaml能够无缝集成Java平台.
   - [ocaml-uri](https://github.com/mirage/ocaml-uri) – RFC3986 URI解析库.
   - [Goji](https://github.com/klakplok/goji) –用于JavaScript库的OCaml绑定生成器.
   - [Syndic](https://github.com/Cumulus/Syndic) – RSS和Atom提要解析
@@ -534,4 +534,4 @@
 
 * * *
 
- _受到很棒的项目线的启发.  发现 [more awesomeness](https://github.com/bayandin/awesome-awesomeness) ：sparkles：._
+ _受到了很棒的项目的启发.  发现 [more awesomeness](https://github.com/bayandin/awesome-awesomeness) ：sparkles：._

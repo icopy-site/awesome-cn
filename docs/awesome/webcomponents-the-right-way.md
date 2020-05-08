@@ -10,7 +10,7 @@
 
 
 
-&gt; Web Components通过爱创造了正确的方式 [Mateus Ortiz](https://twitter.com/mteusortiz) 并由 [Serhii Kulykov](https://twitter.com/serhiikulykov)
+&gt; Web Components的正确方法是由爱创造 [Mateus Ortiz](https://twitter.com/mteusortiz) 并由 [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Introduction
 
@@ -94,6 +94,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
 - [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
 - [Guidelines for creating web platform compatible components](https://w3ctag.github.io/webcomponents-design-guidelines/)
+- [How to Publish Web Components to NPM](https://justinfagnani.com/2019/11/01/how-to-publish-web-components-to-npm/)
 - [Open Web Components Recommendations](https://open-wc.org)
 
 ### Codelabs
@@ -156,7 +157,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Lightning Web Components](https://github.com/salesforce/lwc) -快速的企业级Web组件基础.
 - [Omi](https://github.com/Tencent/omi) -4kb JavaScript的下一代Web框架（Web组件+ JSX +代理+存储+路径更新）.
 - [Polymer](https://polymer-library.polymer-project.org) -Polymer Project作者提供的原始Web组件库.
-- [Skate](https://github.com/skatejs/skatejs) -Web组件库专注于功能渲染管线和较小的占用空间.
+- [Skate](https://github.com/skatejs/skatejs) -专注于功能渲染管道和较小占用空间的Web组件库.
 - [slim.js](https://github.com/slimjs/slim.js) -基于现代标准的快速，强大的前端微框架.
 - [Stencil](https://github.com/ionic-team/stencil) -用于生成Web组件的编译器.
 
@@ -169,14 +170,14 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ### Other
 
-- [preact-custom-element](https://github.com/bspaulding/preact-custom-element) -从preact组件生成/注册自定义元素.
+- [preact-custom-element](https://github.com/bspaulding/preact-custom-element) -从预设组件生成/注册自定义元素.
 - [remount](https://github.com/rstacruz/remount) -使用自定义元素将React组件安装到DOM.
 - [@riotjs/custom-elements](https://github.com/riot/custom-elements) -使用Riot.js创建香草自定义元素的简单API.
 
 ## Component Libraries
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
-- [AMP HTML](https://github.com/ampproject/amphtml) -Web组件库，用于构建以可靠和快速的性能呈现的网页.
+- [AMP HTML](https://github.com/ampproject/amphtml) -Web组件库，用于构建以可靠，快速的性能呈现的网页.
 - [AXA Pattern Library](https://github.com/axa-ch/patterns-library) -使用Web组件构建的AXA CH UI组件库.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) -收集用于构建Brightspace应用程序的Web组件.
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
@@ -184,11 +185,11 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
 - [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统收集与框架无关的元素.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
-- [Elix](https://github.com/elix/elix) -用于常见用户界面模式的高质量，可定制的Web组件.
+- [Elix](https://github.com/elix/elix) -用于通用用户界面模式的高质量，可定制的Web组件.
 - [Helix UI](https://github.com/HelixDesignSystem/helix-ui) -Helix设计系统的Web组件库.
-- [Lion Web Components](https://github.com/ing-bank/lion) -一套高性能，可访问且灵活的Web组件.
+- [Lion Web Components](https://github.com/ing-bank/lion) -一组高性能，可访问且灵活的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
-- [Material Web Components](https://github.com/material-components/material-components-web-components) -材料设计实现为Web组件.
+- [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
 - [NuML | NUDE Elements](https://github.com/tenphi/numl) -基于Web组件和运行时CSS生成的HTML框架和设计系统.
 - [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) -用于使用Web组件通过Nuxeo构建Web应用程序的组件.
@@ -235,7 +236,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) -本·法雷尔（Ben Farrell）的书，可在曼宁（Manning）早期发行计划中获得.
-- [Web Component Essentials](https://leanpub.com/web-component-essentials) -书名：Cory Rylan，早期预览版可在Leanpub上获得.
+- [Web Component Essentials](https://leanpub.com/web-component-essentials) -由Cory Rylan所著，Leanpub提供早期预览版.
 
 ## Tutorials
 
@@ -262,7 +263,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
   - [Part 6: Shadow DOM styling](https://javascript.info/shadow-dom-style)
   - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
 
--“ **如何：组件**” [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+-“ **方法：组件**”的作者 [Web Fundamentals](https://developers.google.com/web/fundamentals/)
   - [Overview](https://developers.google.com/web/fundamentals/web-components/examples)
   - [`<howto-checkbox>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-checkbox)
   - [`<howto-tabs>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tabs)
@@ -340,12 +341,13 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ## History
 
-下面的文章描述了Web组件规范在标准化方面的悠久历史.
-其中一些参考了较早的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
+以下文章代表了Web组件规范在实现标准化方面的悠久历史.
+其中一些参考了早期的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
 这些材料仅出于历史原因在这里，它们按年份分组并按时间顺序列出.
 
 ### 2019
 
+- [A history of the HTML slot element](https://component.kitchen/blog/posts/a-history-of-the-html-slot-element)
 - [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components)
 
 ### 2018
@@ -357,6 +359,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### 2017
 
 - [Web Components: The Long Game](https://infrequently.org/2017/10/web-components-the-long-game/)
+- [An intro to web components with otters](https://meowni.ca/posts/web-components-with-otters/)
 - [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
 - [Regarding the broken promise of Web Components](http://robdodson.me/regarding-the-broken-promise-of-web-components/)
 

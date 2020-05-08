@@ -4,15 +4,15 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" align="right" width="70">](https://www.w3.org/TR/html5/)
 
-&gt;网络安全材料和资源的精选清单.
+&gt;网络安全材料和资源的精选列表.
 
- 不用说，大多数网站都遭受各种错误，最终可能导致漏洞.  为什么这种情况经常发生？  可能涉及许多因素，包括配置错误，工程师的安全技能不足等.为解决此问题，这里有一份精选的Web安全材料和资源列表，用于学习尖端的渗透技术，我强烈建议您阅读本文“[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)首先.
+ 不用说，大多数网站都遭受各种错误，最终可能导致漏洞.  为什么这种情况经常发生？  可能涉及许多因素，包括配置错误，工程师的安全技能不足等.为解决此问题，这里有一份精选的Web安全材料和资源列表，用于学习尖端的渗透技术，我强烈建议您阅读本文“[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)“首先.
 
 *请阅读 [contribution guidelines](https://github.com/qazbnm456/awesome-web-security/blob/master/CONTRIBUTING.md) 在捐款之前.*
 
 ---
 
-<p align="center">  是否想增强您的渗透能力？ <br>  我建议您玩一些<a href="https://github.com/apsdehal/awesome-ctf" target="_blank">awesome-ctf</a> . </p>
+<p align="center">  想增强您的渗透能力吗？ <br>  我建议玩一些<a href="https://github.com/apsdehal/awesome-ctf" target="_blank">awesome-ctf</a> . </p>
 
 ---
 
@@ -180,6 +180,7 @@
 ### SSL/TLS
 
 - [SSL & TLS Penetration Testing](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) -由 [APTIVE](https://www.aptive.co.uk/).
+- [Practical introduction to SSL/TLS](https://github.com/Hakky54/mutual-tls-ssl) -由 [@Hakky54](https://github.com/Hakky54).
 
 <a name="webmail"></a>
 ### Webmail
@@ -354,7 +355,7 @@
 - [Evil XML with two encodings](https://mohemiv.com/all/evil-xml/) -由 [Arseniy Sharoglazov](https://mohemiv.com/).
 - [XXE in WeChat Pay Sdk ( WeChat leave a backdoor on merchant websites)](http://seclists.org/fulldisclosure/2018/Jul/3) -由 [Rose Jackcode](https://twitter.com/codeshtool).
 - [XML Out-Of-Band Data Retrieval](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf) -由Timur Yunusov和Alexey Osipov撰写.
-- [XXE OOB exploitation at Java 1.7+ (2014)](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html)：使用FTP协议进行渗透-撰写者 [Ivan Novikov](https://twitter.com/d0znpp/).
+- [XXE OOB exploitation at Java 1.7+ (2014)](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html)：使用FTP协议进行渗透-作者： [Ivan Novikov](https://twitter.com/d0znpp/).
 - [XXE OOB extracting via HTTP+FTP using single opened port](https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/) -由 [skavans](https://skavans.ru/).
 - [What You Didn't Know About XML External Entities Attacks](https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf) -由 [Timothy D. Morgan](https://twitter.com/ecbftw).
 - [Pre-authentication XXE vulnerability in the Services Drupal module](https://www.synacktiv.com/ressources/synacktiv_drupal_xxe_services.pdf) -由 [Renaud Dubourguais](https://twitter.com/_m0bius).
@@ -441,7 +442,7 @@
 - [Some-PoC-oR-ExP](https://github.com/coffeehb/Some-PoC-oR-ExP) - 各种漏洞poc、Exp的收集或编写 by [@coffeehb](https://github.com/coffeehb).
 - [uxss-db](https://github.com/Metnew/uxss-db) -通过PoC收集UXSS CVE [@Metnew](https://github.com/Metnew).
 - [SPLOITUS](https://sploitus.com/) -利用漏洞和工具的搜索引擎 [@i_bo0om](https://twitter.com/i_bo0om).
-- [Exploit Database](https://www.exploit-db.com/) -漏洞，Shellcode和安全文件的最终存档 [Offensive Security](https://www.offensive-security.com/).
+- [Exploit Database](https://www.exploit-db.com/) -漏洞，Shellcode和安全文件的最终存档，作者： [Offensive Security](https://www.offensive-security.com/).
 
 ## Tools
 
@@ -468,7 +469,7 @@
 - [urlscan.io](https://urlscan.io/) -分析网站及其请求资源的服务 [@heipei](https://twitter.com/heipei).
 - [ZoomEye](https://www.zoomeye.org/) -网络空间搜索引擎，由 [@zoomeye_team](https://twitter.com/zoomeye_team).
 - [FOFA](https://fofa.so/?locale=en) -网络空间搜索引擎，由 [BAIMAOHUI](http://baimaohui.net/).
-- [NSFOCUS](https://nti.nsfocus.com/) -绿盟科技全球威胁情报门户网站.
+- [NSFOCUS](https://nti.nsfocus.com/) -绿盟科技全球威胁智能门户网站.
 - [Photon](https://github.com/s0md3v/Photon) -由OSINT设计的令人难以置信的快速搜寻器 [@s0md3v](https://github.com/s0md3v).
 - [FOCA](https://github.com/ElevenPaths/FOCA) -FOCA（具有收集档案的指纹组织）是一种工具，主要用于在其扫描所依据的文档中查找元数据和隐藏信息 [ElevenPaths](https://www.elevenpaths.com/index.html).
 - [SpiderFoot](http://www.spiderfoot.net/) -开源的足迹和情报收集工具 [@binarypool](https://twitter.com/binarypool).
@@ -477,7 +478,7 @@
 - [GSIL](https://github.com/FeeiCN/GSIL) - Github Sensitive Information Leakage（Github敏感信息泄露）by [@FeeiCN](https://github.com/FeeiCN).
 - [raven](https://github.com/0x09AL/raven) -raven是Linkedin信息收集工具，渗透测试人员可以使用该工具收集有关使用Linkedin的组织员工的信息， [@0x09AL](https://github.com/0x09AL).
 - [ReconDog](https://github.com/s0md3v/ReconDog) -侦察瑞士军刀 [@s0md3v](https://github.com/s0md3v).
-- [Databases - start.me](https://start.me/p/QRENnO/databases) -可以用于OSINT研究的各种数据库 [@technisette](https://twitter.com/technisette).
+- [Databases - start.me](https://start.me/p/QRENnO/databases) -您可以通过以下各种数据库进行OSINT研究 [@technisette](https://twitter.com/technisette).
 - [peoplefindThor](https://peoplefindthor.dk/) -通过以下方式在Facebook上找到人的简单方法 [postkassen](https://github.com/qazbnm456/awesome-web-security/blob/master/mailto:postkassen@oejvind.dk?subject=peoplefindthor.dk comments).
 - [tinfoleak](https://github.com/vaguileradiaz/tinfoleak) -由Twitter提供的最完整的开源情报分析工具 [@vaguileradiaz](https://github.com/vaguileradiaz).
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) -用于侦察和漏洞扫描的高性能进攻安全工具 [@evyatarmeged](https://github.com/evyatarmeged).
@@ -488,8 +489,8 @@
 #### Sub Domain Enumeration
 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) -Sublist3r是用于渗透测试人员的多线程子域枚举工具， [@aboul3la](https://github.com/aboul3la).
-- [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) -EyeWitness旨在获取网站的屏幕截图，提供一些服务器标题信息，并在可能的情况下通过以下方式识别默认凭据： [@ChrisTruncer](https://github.com/ChrisTruncer).
-- [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) -面向渗透测试者的简单快速子域暴力破解工具 [@lijiejie](https://github.com/lijiejie).
+- [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) -EyeWitness旨在获取网站的屏幕截图，提供一些服务器标头信息，并在可能的情况下通过以下方式识别默认凭据： [@ChrisTruncer](https://github.com/ChrisTruncer).
+- [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) -面向渗透测试者的简单快速子域暴力破解工具， [@lijiejie](https://github.com/lijiejie).
 - [AQUATONE](https://github.com/michenriksen/aquatone) -的网域天桥工具 [@michenriksen](https://github.com/michenriksen).
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) -通过查找所有可能的信息来分析任何域的安全性 [@eldraco](https://github.com/eldraco).
 - [VirusTotal domain information](https://www.virustotal.com/en/documentation/searching/#getting-domain-information) -通过搜索域名信息 [VirusTotal](https://www.virustotal.com/).
@@ -554,7 +555,7 @@
 <a name="tools-xxe"></a>
 #### XXE
 
-- [dtd-finder](https://github.com/GoSecure/dtd-finder) -列出DTD并使用这些本地DTD生成XXE负载 [@GoSecure](https://github.com/GoSecure).
+- [dtd-finder](https://github.com/GoSecure/dtd-finder) -列出DTD并使用以下本地DTD生成XXE负载 [@GoSecure](https://github.com/GoSecure).
 
 <a name="tools-csrf"></a>
 #### Cross Site Request Forgery
@@ -569,9 +570,9 @@
 <a name="tools-leaking"></a>
 ### Leaking
 
-- [HTTPLeaks](https://github.com/cure53/HTTPLeaks) -所有可能的方式，网站可能通过以下方式泄漏HTTP请求 [@cure53](https://github.com/cure53).
+- [HTTPLeaks](https://github.com/cure53/HTTPLeaks) -通过所有可能的方式，网站可以通过以下方式泄漏HTTP请求： [@cure53](https://github.com/cure53).
 - [dvcs-ripper](https://github.com/kost/dvcs-ripper) -Rip Web可访问（分布式）版本控制系统：SVN / GIT / HG ... [@kost](https://github.com/kost).
-- [DVCS-Pillage](https://github.com/evilpacket/DVCS-Pillage) -通过以下方式访问药丸网络的GIT，HG和BZR存储库 [@evilpacket](https://github.com/evilpacket).
+- [DVCS-Pillage](https://github.com/evilpacket/DVCS-Pillage) -通过以下方式访问Pillage网站的GIT，HG和BZR存储库 [@evilpacket](https://github.com/evilpacket).
 - [GitMiner](https://github.com/UnkL4b/GitMiner) -由Github上的内容高级挖掘工具 [@UnkL4b](https://github.com/UnkL4b).
 - [gitleaks](https://github.com/zricethezav/gitleaks) -搜索完整的回购历史记录，以查找秘密和密钥 [@zricethezav](https://github.com/zricethezav).
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) -Chrome扩展程序和Express服务器，可利用CSS的按键记录功能 [@maxchehab](https://github.com/maxchehab).
@@ -594,9 +595,9 @@
 <a name="tools-preventing"></a>
 ### Preventing
 
-- [DOMPurify](https://github.com/cure53/DOMPurify) -HTML，MathML和SVG的纯DOM，超快速，超容忍XSS消毒器 [Cure53](https://cure53.de/).
+- [DOMPurify](https://github.com/cure53/DOMPurify) -HTML，MathML和SVG的仅DOM，超快速，超耐性XSS消毒剂，由 [Cure53](https://cure53.de/).
 - [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist by [@leizongmin](https://github.com/leizongmin).
-- [Acra](https://github.com/cossacklabs/acra) -用于SQL数据库的客户端加密引擎，具有强大的选择性加密，防止SQL注入和入侵检测功能， [@cossacklabs](https://www.cossacklabs.com/).
+- [Acra](https://github.com/cossacklabs/acra) -用于SQL数据库的客户端加密引擎，具有强大的选择性加密，防止SQL注入和入侵检测功能 [@cossacklabs](https://www.cossacklabs.com/).
 
 <a name="tools-proxy"></a>
 ### Proxy
@@ -612,7 +613,7 @@
 - [Weevely](https://github.com/epinna/weevely3) -武器化的网页壳 [@epinna](https://github.com/epinna).
 - [Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper) -通过终端管理您的网站 [@WangYihang](https://github.com/WangYihang).
 - [Reverse-Shell-Manager](https://github.com/WangYihang/Reverse-Shell-Manager) -通过终端反向Shell Manager[@WangYihang](https://github.com/WangYihang).
-- [reverse-shell](https://github.com/lukechilds/reverse-shell) -通过将反向Shell即服务 [@lukechilds](https://github.com/lukechilds).
+- [reverse-shell](https://github.com/lukechilds/reverse-shell) -反向Shell即服务 [@lukechilds](https://github.com/lukechilds).
 
 <a name="tools-disassembler"></a>
 ### Disassembler
@@ -630,8 +631,8 @@
 ### DNS Rebinding
 
 - [DNS Rebind Toolkit](https://github.com/brannondorsey/dns-rebind-toolkit) -DNS Rebind Toolkit是一个前端JavaScript框架，用于开发针对局域网（LAN）上易受攻击的主机和服务的DNS Rebinding攻击，方法是： [@brannondorsey](https://github.com/brannondorsey)
-- [dref](https://github.com/mwrlabs/dref)  -DNS重新绑定开发框架.  Dref为DNS重新绑定做了繁重的工作， [@mwrlabs](https://github.com/mwrlabs)
-- [Singularity of Origin](https://github.com/nccgroup/singularity) -它包括必要的组件，以将攻击服务器DNS名称的IP地址重新绑定到目标计算机的IP地址，并提供攻击有效载荷以通过以下方式利用目标计算机上的易受攻击的软件 [@nccgroup](https://github.com/nccgroup)
+- [dref](https://github.com/mwrlabs/dref)  -DNS重新绑定开发框架.  Dref为DNS重新绑定做了繁重的工作 [@mwrlabs](https://github.com/mwrlabs)
+- [Singularity of Origin](https://github.com/nccgroup/singularity) -它包含必要的组件，以将攻击服务器DNS名称的IP地址重新绑定到目标计算机的IP地址，并提供攻击有效载荷以通过以下方式利用目标计算机上的易受攻击的软件 [@nccgroup](https://github.com/nccgroup)
 - [Whonow DNS Server](https://github.com/brannondorsey/whonow) -恶意DNS服务器，用于通过以下方式即时执行DNS重新绑定攻击 [@brannondorsey](https://github.com/brannondorsey)
 
 <a name="tools-others"></a>
@@ -656,10 +657,10 @@
 - [Scrutiny](https://datarift.blogspot.tw/) -Dhiraj Mishra通过Web浏览器进行的Internet安全性.
 - [BRETT BUERHAUS](https://buer.haus/) -漏洞披露和有关应用程序安全性的漫步.
 - [n0tr00t](https://www.n0tr00t.com/) - ~# n0tr00t Security Team.
-- [OpnSec](https://opnsec.com/) -放心安全！
+- [OpnSec](https://opnsec.com/) -开放思想安全！
 - [RIPS Technologies](https://blog.ripstech.com/tags/security/) -有关PHP漏洞的内容.
 - [0Day Labs](http://blog.0daylabs.com/) -出色的错误赏金并挑战撰写内容.
-- [Blog of Osanda](https://osandamalith.com/) -安全研究和逆向工程.
+- [Blog of Osanda](https://osandamalith.com/) -安全研究与逆向工程.
 
 ## Twitter Users
 
@@ -710,7 +711,7 @@
 
 ## Miscellaneous
 
-- [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) -可用的漏洞赏金和披露计划以及撰写的全面精选清单 [@djadmin](https://github.com/djadmin).
+- [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) -可用的漏洞赏金与披露程序和撰写的全面精选清单 [@djadmin](https://github.com/djadmin).
 - [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) -按漏洞性质分类的漏洞赏金记录清单 [@ngalongc](https://github.com/ngalongc).
 - [Google VRP and Unicorns](https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns) -由 [Daniel Stelter-Gliese](https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/).
 - [Brute Forcing Your Facebook Email and Phone Number](http://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html) -由 [PwnDizzle](http://pwndizzle.blogspot.jp/).
@@ -743,7 +744,7 @@
 
 ## Code of Conduct
 
-请注意，该项目发布时带有 [Contributor Code of Conduct](https://github.com/qazbnm456/awesome-web-security/blob/master/code-of-conduct.md) .  通过参与该项目，您同意遵守其条款.
+请注意，此项目发布时带有 [Contributor Code of Conduct](https://github.com/qazbnm456/awesome-web-security/blob/master/code-of-conduct.md) .  通过参与该项目，您同意遵守其条款.
 
 ## License
 

@@ -3,13 +3,13 @@
 ## git-tips
  &gt; git-tips的集合，想添加您的提示吗？  查看 [contributing.md](https://github.com/git-tips/tips/blob/master/./contributing.md)
 
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어](https://github.com/mingrammer/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips) | [日本語](https://github.com/isotai/git-tips) | [नेपाली](https://github.com/amarduwal/git-tips)
+[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어](https://github.com/mingrammer/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips) | [日本語](https://github.com/isotai/git-tips) | [नेपाली](https://github.com/amarduwal/git-tips) | [Polski](https://github.com/mbiesiad/tips)
 
 ### __Tools:__
 
 * [git-tip](https://www.npmjs.com/package/git-tip)  -方便的CLI，可最佳利用这些技巧.  （[Here in Docker container](https://github.com/djoudi5/docker-git-tip))
 
-PS：所有这些命令均在git版本2.7.4（Apple Git-66）上进行了测试.
+PS：所有这些命令都在git版本2.7.4（Apple Git-66）上进行了测试.
 
 <!-- @doxie.inject start toc -->
 <!-- Don’t remove or change the comment above – that can break automatic updates. -->
@@ -62,7 +62,7 @@ git update-ref -d头
 
 ## Reset: preserve uncommitted local changes
 ```sh
-git reset-保持<commit>
+git reset --keep <commit>
 ```
 
 ## List all the conflicted files
@@ -77,7 +77,7 @@ git diff-tree --no-commit-id --name-only -r <commit-ish>
 
 ## Unstaged changes since last commit
 ```sh
-git差异
+git diff
 ```
 
 ## Changes staged for commit
@@ -252,7 +252,7 @@ git log --no-merges --stat --reverse master ..
 
 ## Pick commits across branches using cherry-pick
 ```sh
- git checkout <branch-name>  &amp;&amp; git cherry-pick <commit-ish>
+ git结帐 <branch-name>  &amp;&amp; git cherry-pick <commit-ish>
 ```
 
 ## Find out branches containing commit-hash
@@ -274,7 +274,7 @@ git config --global alias.st状态
 
 ## Saving current state of tracked files without commiting
 ```sh
-git stash
+git存储
 ```
 
 
@@ -354,7 +354,7 @@ git stash pop
 
 __Alternatives:__
 ```sh
-git stash应用stash @ {0} &amp;&amp; git stash drop存放stash @ {0}
+git stash apply stash @ {0} &amp;&amp; git stash drop存放@@ {0}
 ```
 
 ## Delete all stored stashes
@@ -370,7 +370,7 @@ git隐藏<stash@{n}>
 
 ## Grab a single file from a stash
 ```sh
- git checkout <stash@{n}>  - <file_path>
+ git结帐 <stash@{n}>  - <file_path>
 ```
 
 
@@ -391,7 +391,7 @@ git ls-files-其他
 
 ## Show all ignored files
 ```sh
-git ls-files --others -i --exclude-standard
+git ls文件--others -i --exclude-standard
 ```
 
 ## Create new working tree from a repository (git 2.5)
@@ -619,12 +619,12 @@ git clean -X -f
 
 ## Restore deleted file.
 ```sh
- git checkout <deleting_commit>  ^- <file_path>
+ git结帐 <deleting_commit>  ^- <file_path>
 ```
 
 ## Restore file to a specific commit-hash
 ```sh
- git checkout <commit-ish>  - <file_path>
+ git结帐 <commit-ish>  - <file_path>
 ```
 
 ## Always rebase instead of merge on pull.
@@ -666,7 +666,7 @@ git name-rev-仅名称<SHA-1>
 
 ## Dry run. (any command that supports dry-run flag should do.)
 ```sh
-git clean -fd --dry-run
+git clean -fd --dry运行
 ```
 
 ## Marks your commit as a fix of a previous commit.
@@ -752,7 +752,7 @@ git config --global --unset <entry-name>
 
 ## Checkout a new branch without any history
 ```sh
-git checkout-孤立<branch_name>
+git checkout --orphan <branch_name>
 ```
 
 ## Extract file from another branch.
@@ -1026,12 +1026,12 @@ git ls-远程git：//git.kernel.org/pub/scm/git/git.git
 
 __Alternatives:__
 ```sh
- git config -l |  grep别名|  切-d&#39;.  -f 2
+ git config -l |  grep别名|  切-d&#39;.&#39;  -f 2
 ```
 
 ## Show git status short
 ```sh
-git status --short-分支
+git status --short --branch
 ```
 
 ## Checkout a commit prior to a day ago
