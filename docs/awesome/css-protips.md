@@ -29,7 +29,7 @@
 * :: {之后
   框大小：border-box；
   边距：0;
-  填充：0;
+  padding: 0;
 }
 ```
 
@@ -74,7 +74,7 @@ html {
   颜色：继承；
   font：继承;
   大纲：无；
-  填充：0;
+  padding: 0;
 }
 ```
 
@@ -97,7 +97,7 @@ html {
 
 ```css
 / *添加边框* /
-.nav on {
+.nav li {
   border-right: 1px solid #666;
 }
 ```
@@ -124,6 +124,32 @@ html {
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/LkymvO)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Check If Font Is Installed Locally
+
+您可以在远程获取字体之前检查是否在本地安装了字体，这也是一个很好的性能提示.
+
+```css
+@ font-face {
+  字体家族：“ Dank Mono”；
+  src：
+    /* 全名 */
+    本地（“感谢Mono”），
+    / *后记名称* /
+    本地（“感谢Mono”），
+     / *否则，请下载！  * /
+    url（“ // ... a.server / fonts / DankMono.woff”）;
+}
+
+代码{
+  字体家族：“ Dank Mono”，system-ui-monospace；
+}
+```
+
+感谢Adam Argyle分享此技巧和演示 
+
+### [Demo](https://codepen.io/argyleink/pen/VwYJpgR)
 
 
 ### Add `line-height` to `body`
@@ -231,7 +257,7 @@ li {
 }
 
 / *选择项目1至3并显示它们* /
-li：第n个孩子（-n + 3）{
+li：nth-​​child（-n + 3）{
   显示：块；
 }
 ```
@@ -525,7 +551,7 @@ video [autoplay]：not（[muted]）{
 
 ```css
 身体 {
-  做：1雷姆/ 1.6无衬线;
+  字体：1rem / 1.6 sans-serif;
 }
 ```
 
@@ -542,7 +568,7 @@ video [autoplay]：not（[muted]）{
 input[type="text"],
 input[type="number"],
 select,
-文本区域{
+textarea {
   font-size：16px;
 }
 ```

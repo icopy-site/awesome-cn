@@ -10,7 +10,7 @@
 
 &gt;与以下内容相关的精选精选清单 [GitHub Actions](https://github.com/actions).
 
- 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
+ 动作由GitHub平台事件直接在回购中触发，并作为响应在Linux，Windows或macOS虚拟机上或在容器内部运行按需工作流.  使用GitHub Actions，您可以自动化从构思到生产的工作流程.
 
 
 
@@ -21,7 +21,7 @@
 - [Official Documentation](https://help.github.com/en/actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) -GitHub Actions虚拟环境.
-  - [actions/runner](https://github.com/actions/runner) -GitHub Action的跑步者.
+  - [actions/runner](https://github.com/actions/runner) -GitHub Action的亚军.
 - [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
 ### Workflow Examples
@@ -47,7 +47,7 @@
 
 #### Actions for GitHub Automation
 
-自动化管理问题，拉取请求和发布.
+自动管理问题，拉取请求和发布.
 
 - [actions/create-release](https://github.com/actions/create-release) -通过GitHub Release API创建发布的动作.
 - [actions/upload-release-asset](https://github.com/actions/upload-release-asset) -通过GitHub Release API上传发布资产的操作.
@@ -113,6 +113,7 @@
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
+- [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
 
 ### Collection of Actions
 
@@ -150,7 +151,7 @@
 - [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction)
 - [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
-- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后对构建的Jekyll网站进行区分，并将结果注释回GitHub.
+- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) -更改后，对构建的Jekyll网站进行区分，并将结果注释回GitHub.
 - [Branch Protection Bot](https://github.com/benjefferies/branch-protection-bot) -在分支机构保护中暂时禁用并重新启用“包括管理员”选项.
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) -等待所有状态和检查成功或其中任何一个失败，然后相应地设置其状态输出.
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) -从git获取上一个标签.
@@ -166,7 +167,7 @@
 - [Autotag](https://github.com/butlerlogic/action-autotag) -当清单文件（即“ package.json”）的版本更改时，自动生成一个新标签.
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) -使用Jinja2模板引擎从模板生成文件.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) -检查之前的步骤是否有代码更改.
-- [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) -检测问题中的冒犯性评论并提出请求，并警告发件人.
+- [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) -检测问题中的令人反感的评论并提出请求，并警告发件人.
 - [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) -可互换地转换YAML / JSON / XML文件格式.
 - [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) -检测已提交文件中的NSFW内容.
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) -根据更改的路径有条件地执行操作.
@@ -176,6 +177,8 @@
 - [Memer Action](https://github.com/Bhupesh-V/memer-action) -程序员Memes xD的GitHub操作.
 - [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) -设置特定版本的Cocoapods.
 - [Public IP](https://github.com/haythem/public-ip) -查询GitHub动作执行者的公共IP地址.
+- [GitHub Actions for Lazarus/FPC](https://github.com/gcarreno/setup-lazarus)
+
 
 #### Environments
 
@@ -195,7 +198,7 @@
 - [Next SemVers](https://github.com/WyriHaximus/github-action-next-semvers) -根据给定的semver版本输出主要，次要和补丁版本的下一个版本.
 - [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
 - [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) -在给定分支前缀和可选语义版本的情况下剪切发行分支.
-- [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) -根据给定的发行类型，碰撞给定的语义版本（SemVer）.
+- [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) -根据给定的发行版类型，给定语义版本（SemVer）.
 
 ### Static Analysis
 
@@ -256,6 +259,7 @@
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) -本身不是动作，而是用于在整个存储库列表中管理动作秘密的工具.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) -动作可跨多个存储库同步机密.
 - [Snyk Test Action](https://github.com/snyk/actions)
+- [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 
 #### Code Coverage
 
@@ -297,7 +301,7 @@
 - [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
 - [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
-- [Get generated static site screeshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
+- [Get generated static site screenshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 - [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
 
 ### GitHub Pages
@@ -392,7 +396,7 @@
 
 #### Terraform
 
-- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) -使用terraform-docs生成terraform模块的文档.
+- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) -使用terraform-docs为terraform模块生成文档.
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
 
 ### External Services
@@ -443,7 +447,7 @@
 ### Localization
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
-- [Translation](https://github.com/fabasoad/translation-action) -将文本从任何语言翻译成任何语言.
+- [Translation](https://github.com/fabasoad/translation-action) -将文字从任何一种语言翻译成任何一种语言.
 
 ### Cheat Sheet
 

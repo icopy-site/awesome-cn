@@ -271,13 +271,14 @@ Code
 *：然后： [PixiJS](http://www.pixijs.com/)  -是新来的HTML5游戏渲染器-于2013年初首次发布.该引擎的主要吸引力在于它使用WebGL来提高性能.  如果不支持WebGL，则引擎将退回到标准画布.
 *：然后： [Planck.js](http://piqnt.com/planck.js/) -用于跨平台HTML5游戏开发的2D JavaScript物理引擎.
 *：money_with_wings： [PlayCanvas](https://playcanvas.com/) -WebGL游戏引擎.
-*：然后： [Polycode](http://polycode.org) -用于用C ++创建游戏（带有Lua绑定）的开源框架.
+*：然后： [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 *：然后： [Processing](https://www.processing.org/) -处理是一种针对艺术家，设计师，研究人员的编程语言，开发环境.
 *：然后： [PuzzleScript](http://www.puzzlescript.net/) -开源HTML5益智游戏引擎.
 *：然后： [PyGame](http://pygame.org/hifi.html) -Python中的2D游戏引擎.
 *：然后： [QICI](http://www.qiciengine.com/) -用于创建HTML5游戏的基于Web的高效工具.
 * :moneybag: [RPGMaker](http://www.rpgmakerweb.com/) -用于开发角色扮演游戏的一系列程序.
 *：然后： [Rajawali](https://github.com/Rajawali/Rajawali) -Android OpenGL ES 2.0 / 3.0引擎
+*：然后： [raylib](https://www.raylib.com/) -一个简单易用的库，可享受视频游戏编程，并通过OpenGL（1.1、2.1、3.3或ES 2.0）加速硬件
 *：然后： [Ren'Py](http://www.renpy.org/)  -使用Python语言的简化形式的开源视觉小说引擎.  它支持Windows，Mac OS X，Linux，Android和iOS.
 *：然后： [Rpgboss](http://rpgboss.com)  -基于scala和libgdx的2d rpg游戏引擎和编辑器.  易于使用，无需编程知识.
 *：然后： [SDL](http://libsdl.org/) -SDL是一个跨平台库，旨在通过OpenGL和Direct3D提供对音频，键盘，鼠标，操纵杆和图形硬件的低级访问.

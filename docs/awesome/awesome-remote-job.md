@@ -210,12 +210,10 @@
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) -西班牙特内里费岛的集体办公空间
   1. [Hive Arena](https://hivearena.com/coworking/) -韩国首尔的共享办公空间
   1. [HubBOG](http://hubbog.com/)  -协同工作空间+启动加速器.  哥伦比亚波哥大
-  1. [Hus24](http://hus24.org/en/) -瑞典的集体空间
   1. [Mokrin House](http://www.mokrinhouse.com/) -塞尔维亚农村地区的集体办公空间
   1. [Nest Copenhagen](http://nestcopenhagen.dk) -丹麦哥本哈根的集体空间
   1. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) -在墨西哥收集空间
   1. [Nomad House](https://nomadhouse.io) -全球游牧住房网络
-  1. [nomadicHUB](http://nomadichub.com) -在异国情调的休闲和办公空间
   1. [Ondas](http://www.ondasmedellin.com) -哥伦比亚麦德林的联合办公空间
   1. [Roam](https://www.roam.co/) -大肠杆菌空间的全球网络
   1. [Sende](http://sende.co) -西班牙北部的集体办公空间
@@ -251,12 +249,12 @@
   1. [NODESK](https://nodesk.co/) -每两周发送一次有关数字游牧民和远程工作的新闻通讯.
   1. [Remote Internships](http://foundersgrid.com/)
   1. [Remoteur](http://www.remoteur.com) -欧洲的远程工作每两周发送到您的收件箱
-  1. [Remotive - productive remote workers](http://remotive.io/) -每周向10,000多名远程工作者发送有关远程提示和工作的新闻通讯
+  1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
   1. [Yonder Newsletter](https://yonder.io/newsletter) -每日远程工作提示，链接，文章和Yonder播客
   1. [Remote Jobs Club](https://remotejobsclub.com) -每周通讯，其中包括精选的远程工作清单
 
 ## Podcasts
-  1. [Building Remote Teams](https://www.buildingremoteteams.com/) -针对已经在远程工作的人员，并关注远程工作中细微的挑战.
+  1. [Building Remote Teams](https://www.buildingremoteteams.com/) - Targeted at people already working remotely and focuses on nuanced challenges of remote work.
   1. [Distributed](https://distributed.blog/podcast/)  -马特·穆伦维格（Matt Mullenweg）的访谈播客.  专注于分布式工作的好处和挑战以及在全球范围内招募人员.
   1. [Free People Move Podcast](https://teleport.org/podcast/) -多数采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
@@ -307,7 +305,7 @@
   1. [Close.io](http://jobs.close.io) -面向初创企业和中小型企业的内部销售CRM.
   1. [Codeship](https://codeship.com/jobs) -SaaS连续交付
   1. [Collabora](https://www.collabora.com/careers.html) -基于开源软件的咨询.
-  1. [Collage](http://jobs.collage.com/)  -我们提供最简单，最通用的工具，可帮助您将照片变成回忆.  100％的远程团队.
+  1. [Collage](http://jobs.collage.com/) - We provide the easiest and most versatile tools to help you turn your photos into memories. 100% remote team.
   1. [Compose](https://www.compose.io/jobs/)  -管理数据库即服务.  分布团队，在加利福尼亚州圣梅特奥和阿拉巴马州伯明翰设有办事处.
   1. [ConsenSys](https://consensys.net/careers/) -区块链软件技术公司，在全球设有办事处，并在更多地区设有独立员工.
   1. [Continu](http://www.continu.co/careers/) -适用于现代团队的持续学习软件.
@@ -322,7 +320,7 @@
   1. [DigitalOcean](https://www.digitalocean.com/careers/) -为开发人员构建的简单云托管
   1. [Discourse](https://www.discourse.org/team) -为您的社区进行文明的讨论.
   1. [DNSimple](https://dnsimple.com) -由100％组成的远程和全球分布的小型团队，致力于将域管理放在首位.
-  1. [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
+  1. [Doist](https://doist.com/jobs/) -自2007年以来重新定义了生产力.
   1. [Dotnetos](https://dotnetos.org/) -点网表演会议，聚会和课程.
   1. [Dotsub](https://dotsub.com/jobs)  -基于浏览器的平台，用于字幕和翻译在线视频.  Java / Spring，JavaScript / React.js
   1. [Doximity](https://www.doximity.com/about/jobs)  -美国医师最大的在线医疗网络.  Ruby，Rails，Go，JavaScript，MySQL.
@@ -364,7 +362,7 @@
   1. [Inpsyde GmbH](https://inpsyde.com/) -德国的WordPress代理商.
   1. [Institute for Nonprofit News](https://inn.org/about/jobs/) -非营利新闻机构.
   1. [Instructure](https://www.instructure.com/careers/) -我们开发的软件可以使人们变得更聪明.
-  1. [Intellum](http://intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
+  1. [Intellum](http://intellum.com/)  -我们建立员工协作，绩效和学习工具.  Ruby，iOS，Android，AWS，GCS.
   1. [InVision](https://www.invisionapp.com/company#jobs) -原型，协作和工作流平台.
   1. [iRonin.IT](https://careers.ironin.it)  -软件公司.  波兰语.  Ruby on Rails，Node.js，JavaScript，React，Angular，Vue.js
   1. [Isos Technology](https://careers.isostech.com/) -杰出的Atlassian白金和企业解决方案合作伙伴，使用Atlassian工具帮助组织解决复杂的开发和业务问题.
@@ -386,7 +384,7 @@
   1. [Maintainer Mountaineer](https://maintainer.io) -开源社区管理即服务.
   1. [MailerLite](https://www.mailerlite.com/)  -具有遍布全球的远程第一团队的电子邮件营销工具.  他们每年两次去巴厘岛，巴拿马和迈阿密等地工作.
   1. [MariaDB](https://mariadb.com/about-us/careers) -开源数据库.
-  1. [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other Javascript frameworks.
+  1. [MarsBased](https://marsbased.com) -MarsBased是巴塞罗那的一家开发咨询公司，提供基于Ruby on Rails，Angular和其他Javascript框架的端到端Web和移动应用程序.
   1. [Mapbox](https://www.mapbox.com/jobs/) -适用于各种平台的地图集成工具.
   1. [MCFTech](https://www.mcftech.com/careers/) -可帮助您成功开展业务的应用程序.
   1. [MeetEdgar](https://meetedgar.com/careers/)  -自动化的社交分享.  美国遥控器.
@@ -410,7 +408,7 @@
   1. [Olark](https://www.olark.com/jobs) -聊天支持渠道.
   1. [onTheGo Systems](https://www.onthegosystems.com/jobs/) -WordPress开发人员，支持人员和市场营销职位.
   1. [Onyo](http://www.onyo.com) -纯粹以愉悦的方式改变就餐体验.
-  1. [OpenCraft](http://opencraft.com/) -开放edX开发（自由软件MOOC项目）.
+  1. [OpenCraft](http://opencraft.com/) - Open edX development (Free Software MOOC project).
   1. [Owsy](http://owsy.com/careers/) -国际工作室专注于为金融服务公司创造产品.
   1. [Parknav](https://parknav.com) -使用AI的智能停车
   1. [Parsely](http://www.parsely.com/jobs/) -分析解决方案
@@ -504,7 +502,6 @@
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) -数字游牧会议.
- 1. [Out Of Office](http://www.outofoffice.hm/) -的在线远程工作活动 [Human Made](https://hmn.md/)
  1. [Yonder](http://www.yonder.io/events/) -圆桌会议，将分布式公司的领导人召集在一起.
  1. [9punto5](http://www.9punto5.cl) -拉丁美洲的远程工作会议.
  1. [Git Commit Show](http://gitcommit.show) -来自全球的开发者大会，旨在促进远程工作的教育
@@ -584,4 +581,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Lukasz Madon](https://github.com/lukasz-madon) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Lukasz Madon](https://github.com/lukasz-madon) 放弃了此作品的所有版权以及相关或邻近的权利.

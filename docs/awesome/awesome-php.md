@@ -40,7 +40,7 @@
 * Web开发框架.*
 
 * [Aura Framework](http://auraphp.com/framework/) -由独立组件构建的框架.
-* [CakePHP](https://cakephp.org/) -快速的应用程序开发框架（CP）.
+* [CakePHP](https://cakephp.org/) - A rapid application development framework (CP).
 * [Laravel 6](https://laravel.com/) -另一个PHP框架（L6）.
 * [Nette](https://nette.org) -另一个由单个组件组成的框架.
 * [Phalcon](https://phalcon.io/en-us) -实现为C扩展的框架.
@@ -223,7 +223,7 @@
 * [Faker](https://github.com/fzaninotto/Faker) -伪造的数据生成器库.
 * [HTTP Mock](https://github.com/InterNations/http-mock) -一个用于在单元测试中模拟HTTP请求的库.
 * [Kahlan](https://github.com/kahlan/kahlan) -具有内置存根，模拟和代码覆盖支持的完整堆栈单元/ BDD测试框架.
-* [Mink](http://mink.behat.org/en/latest/) - Web acceptance testing.
+* [Mink](http://mink.behat.org/en/latest/) -网络验收测试.
 * [Mockery](https://github.com/mockery/mockery) -用于测试的模拟对象库.
 * [ParaTest](https://github.com/paratestphp/paratest) -PHPUnit的并行测试库.
 * [Peridot](https://github.com/peridot-php/peridot) -事件驱动的测试框架.
@@ -408,7 +408,7 @@
 * [Cake Event](https://github.com/cakephp/event) -事件分配器库（CP）.
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) -另一个Web套接字库.
 * [Evenement](https://github.com/igorw/evenement) -事件调度程序库.
-* [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+* [Event](https://github.com/thephpleague/event) -重点关注域事件的事件库.
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) -事件源库.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) -另一个Web套接字库.
 * [Prooph Event Store](https://github.com/prooph/event-store) -事件源组件，用于保留事件消息
@@ -494,7 +494,7 @@
 * [Thumper](https://github.com/php-amqplib/Thumper) -RabbitMQ模式库.
 
 ### Search
-*用于对数据建立索引并执行搜索查询的库和软件.*
+*Libraries and software for indexing and performing search queries on data.*
 
 * [Elastica](https://github.com/ruflin/Elastica) -ElasticSearch的客户端库.
 * [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) -的官方客户资料库 [ElasticSearch](https://www.elastic.co/).
@@ -669,6 +669,7 @@
 *用于访问第三方API的库.
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) -官方的PHP AWS开发工具包库.
+* [AsyncAWS](https://async-aws.com/) -一个非官方的异步PHP AWS SDK.
 * [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) -正式的Campaign Monitor PHP库.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) -官方的PHP Dropbox SDK库.
 * [Github](https://github.com/KnpLabs/php-github-api) -与Github API交互的库.
@@ -762,7 +763,7 @@
 ### Web Applications
 *基于Web的应用程序和工具.*
 
-* [3V4L](https://3v4l.org/) -在线PHP和HHVM Shell.
+* [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 * [DBV](https://dbv.vizuina.com/) -数据库版本控制应用程序.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) -用于管理队列后端的应用程序.
 * [MailCatcher](https://github.com/sj26/mailcatcher) -用于捕获和查看电子邮件的网络工具.
@@ -785,7 +786,7 @@
 ### PHP Websites
 *与PHP相关的有用网站.*
 
-* [libs.garden: PHP](https://libs.garden/php) - An overview of fastest growing PHP libraries.
+* [libs.garden: PHP](https://libs.garden/php) -增长最快的PHP库的概述.
 * [Nomad PHP](https://nomadphp.com/) -在线PHP学习资源.
 * [PHP Best Practices](https://phpbestpractices.org/) -PHP最佳做法指南.
 * [PHP FIG](https://www.php-fig.org/) -PHP框架互操作性组.
@@ -813,7 +814,7 @@
 *与PHP相关的精彩书籍.*
 
 * [Functional Programming in PHP](https://www.functionalphp.com/) -本书将向您展示如何通过理解函数式编程原理来利用这些PHP5.3 +新功能
-* [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
+* [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) -Chris Hartjes撰写的有关使用PHPUnit进行单元测试的书.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) -Brandon Savage撰写的有关面向对象的PHP的书.
 * [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do) -Josh Lockhart撰写的有关PHP新功能和最佳做法的书.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) -Paul M. Jones撰写的有关更新旧版PHP应用程序的书.
@@ -882,7 +883,7 @@
 * [PHP Internals Book](http://www.phpinternalsbook.com) -由三位核心开发人员撰写的有关PHP内部原理的在线书籍.
 * [PHP RFCs](https://wiki.php.net/rfc) -PHP RFC（要求发表评论）的所在地.
 * [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html) -有关打印和回显性能的文章.
-* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html) -文章三元表演.
+* [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html) - An article ternary performance.
 * [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) -有关操作码的文章.
 * [When Does Foreach Copy?](https://nikic.github.io/2011/11/11/PHP-Internals-When-does-foreach-copy.html) -有关foreach内部的文章.
 * [Why Objects (Usually) Use Less Memory Than Arrays](https://gist.github.com/nikic/5015323) -有关对象和数组内部的文章.

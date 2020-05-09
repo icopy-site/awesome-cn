@@ -167,6 +167,7 @@
 * [mmstick/concurr](https://github.com/mmstick/concurr) —带有客户端-服务器体系结构的GNU Parallel的替代方案
 * [mmstick/fontfinder](https://github.com/mmstick/fontfinder) — GTK3应用程序，用于预览和安装Google的字体
 * [mmstick/parallel](https://github.com/mmstick/parallel) —重新实现GNU并行
+* [organize-rt](https://gitlab.com/FixFromDarkness/organize-rt) —根据正则表达式规则组织文件（默认情况下为文件扩展名）. [![pipeline status](https://gitlab.com/FixFromDarkness/organize-rt/badges/master/pipeline.svg)](https://gitlab.com/FixFromDarkness/organize-rt/-/commits/master)
 * [orhun/kmon](https://github.com/orhun/kmon) — Linux内核管理器和活动监视器 ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/workflow/status/orhun/kmon/Continuous%20Integration/master?label=build)
 * [pop-os/debrep](https://github.com/pop-os/debrepbuild) —用于构建和管理APT回购的APT储存库工具
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) — GTK3和CLI实用程序，用于并行刷新多个USB设备
@@ -208,7 +209,7 @@
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) —一个命令行工具，可使用灵活的模式远程连接Amazon S3文件.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) —一个命令行工具，用于收集有关您的Amazon S3存储桶的元数据.
 * [whitfin/s3-utils](https://github.com/whitfin/s3-utils) —包含一个基于Amazon S3的实用程序的小工具，用于提供其他便利性API.
-* [gorros/s3-edit-rs](https://github.com/gorros/s3-edit-rs) — A command line tool to edit a file directly on Amazon S3.
+* [gorros/s3-edit-rs](https://github.com/gorros/s3-edit-rs) —一个命令行工具，可直接在Amazon S3上编辑文件.
 * [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) —用Rust编写的tmux手指的闪电般快速版本，像vimium / vimperator一样复制/粘贴tmux.
 * [amar-laksh/workstation](https://github.com/amar-laksh/workstation) —一种命令行工具，可通过使您与屏幕保持一定距离来帮助您管理工作站，并通过OPENCV在您不在时锁定屏幕！
 * [guoxbin/dtool](https://github.com/guoxbin/dtool) —一个有用的命令行工具集合，可协助开发，包括转换，编解码器，哈希，加密等. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
@@ -295,9 +296,9 @@
   * [gdbgui](https://raw.githubusercontent.com/cs01/gdbgui) —基于浏览器的gdb前端，用于调试C，C ++，Rust和go. [<img src="https://api.travis-ci.org/cs01/gdbgui.svg?branch=master">](https://travis-ci.org/cs01/gdbgui)
 * LLDB
   * [lldb_batchmode.py](https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py) —允许以类似于GDB批处理模式的方式使用LLDB.
-  * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) —的LLDB扩展 [Visual Studio Code](https://code.visualstudio.com/).
+  * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — A LLDB extension for [Visual Studio Code](https://code.visualstudio.com/).
 * rr
-  * [rr](https://rr-project.org/) — rr is a lightweight tool for recording and replaying execution of applications
+  * [rr](https://rr-project.org/) — rr是用于记录和重放应用程序执行的轻量级工具
 
 ### Deployment
 
@@ -412,7 +413,7 @@
 	* [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/)  客户.  在Rust中实现，并支持开箱即用.
   * 视觉工作室
     * [PistonDevelopers/VisualRust](https://github.com/PistonDevelopers/VisualRust) — Rust的Visual Studio扩展 [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
-    * [dgriffen/rls-vs2017](https://raw.githubusercontent.com/ZoeyR/rls-vs2017) — Rust对Visual Studio 2017预览版的支持 [<img src="https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true">](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
+    * [dgriffen/rls-vs2017](https://raw.githubusercontent.com/ZoeyR/rls-vs2017) — Rust support for Visual Studio 2017 Preview [<img src="https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true">](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
   * [Visual Studio Code](https://code.visualstudio.com/)
     * [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) — Rust对Visual Studio Code的支持
     * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) — LLDB扩展
@@ -489,7 +490,7 @@
 * [avinashshenoy97/RusticSOM](https://github.com/avinashshenoy97/RusticSOM) —用于自组织地图（SOM）的Rust库. [![Build Status](https://api.travis-ci.org/avinashshenoy97/RusticSOM.svg?branch=master)](https://travis-ci.org/avinashshenoy97/RusticSOM)
 * [autumnai/leaf](https://github.com/autumnai/leaf) —开放机器智能框架. [![Build Status](https://api.travis-ci.org/autumnai/leaf.svg?branch=master) ]（https://travis-ci.org/autumnai/leaf）.  被遗弃的项目.  最新的叉子是 [spearow/juice](https://github.com/rust-unofficial/awesome-rust/blob/master/ https://github.com/spearow/juice).
 * [tensorflow/rust](https://github.com/tensorflow/rust) — TensorFlow的Rust语言绑定. [![Build Status](https://api.travis-ci.org/tensorflow/rust.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
-* [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) — Rust的机器学习板条箱. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://circleci.com/gh/maciejkula/rustlearn)
+* [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) — Rust的机器学习箱. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://circleci.com/gh/maciejkula/rustlearn)
 * [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) — PyTorch的Rust语言绑定. [![Build Status](https://api.travis-ci.org/LaurentMazare/tch-rs.svg?branch=master)](https://travis-ci.org/LaurentMazare/tch-rs)
 
 
@@ -551,7 +552,7 @@
   * [TeXitoi/structopt](https://raw.githubusercontent.com/TeXitoi/structopt) [[structopt](https://crates.io/crates/structopt)] —通过定义结构来解析命令行参数 [<img src="https://api.travis-ci.org/TeXitoi/structopt.svg?branch=master">](https://travis-ci.org/TeXitoi/structopt)
   * [killercup/quicli](https://raw.githubusercontent.com/killercup/quicli) [[quicli](https://crates.io/crates/quicli)] —在Rust中快速构建出色的CLI应用程序 [<img src="https://api.travis-ci.org/killercup/quicli.svg?branch=master">](https://travis-ci.org/killercup/quicli)
   * [ksk001100/seahorse](https://github.com/ksk001100/seahorse) [[seahorse](https://crates.io/crates/seahorse)] —用Rust编写的最小CLI框架 [![Build status](https://github.com/ksk001100/seahorse/workflows/CI/badge.svg?branch=master)](https://github.com/ksk001100/seahorse/actions)
-*数据可视化
+* Data visualization
   * [reugn/rspark](https://raw.githubusercontent.com/reugn/rspark) [[rspark](https://crates.io/crates/rspark)] — Rust█迷你图用于Rust应用程序 [<img src="https://api.travis-ci.org/reugn/rspark.svg?branch=master">](https://travis-ci.org/reugn/rspark)
 *以人为本的设计
   * [rust-cli/human-panic](https://raw.githubusercontent.com/rust-cli/human-panic) [[human-panic](https://crates.io/crates/human-panic)] —对人类的恐慌消息 [<img src="https://api.travis-ci.org/rust-cli/human-panic.svg?branch=master">](https://travis-ci.org/rust-cli/human-panic)
@@ -729,7 +730,7 @@
 
 ### Data structures
 
-* [contain-rs](https://github.com/contain-rs) — Extension of Rust's std::collections
+* [contain-rs](https://github.com/contain-rs) — Rust的std :: collections的扩展
 * [mrhooray/kdtree-rs](https://github.com/mrhooray/kdtree-rs) — Rust中的K维树，用于快速地理空间索引和最近邻居查找
 * [pop-os/progress-streams](https://github.com/pop-os/progress-streams) —实现“ dyn io :: Read”或“ dyn io :: Write”的类型的进度回调.
 * [whitfin/usher](https://github.com/whitfin/usher) [[usher](https://crates.io/crates/usher)] — Rust中通用资源的参数化路由.
@@ -1021,7 +1022,7 @@
   * [smoltcp-rs/smoltcp](https://raw.githubusercontent.com/smoltcp-rs/smoltcp) —独立的，事件驱动的TCP / IP堆栈，专为裸机实时系统设计 [<img src="https://api.travis-ci.org/smoltcp-rs/smoltcp.svg?branch=master">](https://travis-ci.org/smoltcp-rs/smoltcp)
   * [tokio-rs/tokio](https://github.com/tokio-rs/tokio) —一个网络应用程序框架，用于客户端和服务器的快速开发和高度可扩展的生产部署.
   * [dylanmckay/protocol](https://github.com/dylanmckay/protocol) —自定义TCP / UDP协议定义
-  * [actix/actix](https://raw.githubusercontent.com/actix/actix) — Rust的演员库 [<img src="https://api.travis-ci.org/actix/actix.svg?branch=master">](https://travis-ci.org/actix/actix)
+  * [actix/actix](https://raw.githubusercontent.com/actix/actix) — Actor library for Rust [<img src="https://api.travis-ci.org/actix/actix.svg?branch=master">](https://travis-ci.org/actix/actix)
 *纳米消息
   * [thehydroimpulse/nanomsg.rs](https://raw.githubusercontent.com/thehydroimpulse/nanomsg.rs) — [nanomsg](https://nanomsg.org/) 绑定 [<img src="https://api.travis-ci.org/thehydroimpulse/nanomsg.rs.svg?branch=master">](https://travis-ci.org/thehydroimpulse/nanomsg.rs)
 * Nng
@@ -1189,7 +1190,7 @@
   * [rust-websocket](https://raw.githubusercontent.com/websockets-rs/rust-websocket) —用于处理WebSocket连接（客户端和服务器）的框架 [<img src="https://api.travis-ci.org/websockets-rs/rust-websocket.svg?branch=master">](https://travis-ci.org/websockets-rs/rust-websocket)
   * [housleyjk/ws-rs](https://raw.githubusercontent.com/housleyjk/ws-rs) —用于Rust的轻量级，事件驱动的WebSocket [<img src="https://api.travis-ci.org/housleyjk/ws-rs.svg?branch=stable">](https://travis-ci.org/housleyjk/ws-rs)
   * [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) —用于Rust的基于轻量级流的WebSocket实现.
-  * [vi/websocat](https://raw.githubusercontent.com/vi/websocat) — CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat. [<img src="https://api.travis-ci.org/vi/websocat.svg?branch=master">](https://travis-ci.org/vi/websocat)
+  * [vi/websocat](https://raw.githubusercontent.com/vi/websocat) -用于与WebSocket交互的CLI，具有Netcat，Curl和Socat的功能. [<img src="https://api.travis-ci.org/vi/websocat.svg?branch=master">](https://travis-ci.org/vi/websocat)
   * [vityafx/urlshortener-rs](https://raw.githubusercontent.com/vityafx/urlshortener-rs) [[urlshortener](https://crates.io/crates/urlshortener)] —一个非常简单的Rust urlshortener库. [<img src="https://api.travis-ci.org/vityafx/urlshortener-rs.svg?branch=master">](https://travis-ci.org/vityafx/urlshortener-rs)
   * [bitwyre/websocket_core](https://raw.githubusercontent.com/bitwyre/websocket_core) — Websocket通用服务器库，用于定期广播消息. [<img src="https://raw.githubusercontent.com/bitwyre/websocket_core/workflows/Build/badge.svg?branch=master">](https://raw.githubusercontent.com/bitwyre/websocket_core/actions)
 *杂项
@@ -1203,7 +1204,7 @@
   * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) [[sozu](https://crates.io/crates/sozu)] — HTTP反向代理. [![Build Status](https://api.travis-ci.org/sozu-proxy/sozu.svg?branch=master)](https://travis-ci.org/sozu-proxy/sozu)
 *静态网站生成器
   * [getzola/zola](https://github.com/getzola/zola) [[zola](https://www.getzola.org/)]-具有内置功能的自觉静态站点生成器. [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build/latest?definitionId=1&branchName=master)
-  * [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) — Static site generator written in Rust [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build/latest?definitionId=2&branchName=master)
+  * [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) —用Rust编写的静态站点生成器 [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build/latest?definitionId=2&branchName=master)
   * [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) — Markdown文件中的静态站点生成器.
   * [leven-the-blog/leven](https://raw.githubusercontent.com/leven-the-blog/leven) [[leven](https://crates.io/crates/leven)] —一个简单的并行化博客生成器. [<img src="https://api.travis-ci.org/quadrupleslap/leven.svg?branch=master">](https://travis-ci.org/quadrupleslap/leven)
 
@@ -1241,7 +1242,7 @@
 *播客
   * [New Rustacean](https://newrustacean.com) —关于学习Rust的播客
   * [Rustacean Station](https://rustacean-station.org/) —一个社区项目，用于为Rust创建播客内容
-  * [Rusty Spike](https://rusty-spike.blubrry.net) —关于Rust的所有新闻
+  * [Rusty Spike](https://rusty-spike.blubrry.net) — news on all things Rust
 * [RustCamp 2015 Talks](http://confreaks.tv/events/rustcamp2015)
 * [Rust Design Patterns](https://github.com/rust-unofficial/patterns)
 * [Rust Guidelines](http://aturon.github.io/)

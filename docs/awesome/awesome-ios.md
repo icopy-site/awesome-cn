@@ -38,7 +38,7 @@
 - [Stanford - Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316) -Stanford的2017 iTunes U课程已针对iOS 11和Swift进行了更新.
 - [Swifteducation - Teaching App Development with Swift](https://swifteducation.github.io/teaching_app_development_with_swift/)
 - [Udacity - Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
-- [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/arkit-beginner-to-professional/)
+- [Udemy - ARKit - Beginner to Professional in Swift 4 and iOS 11](https://www.udemy.com/course/arkit-beginner-to-professional/)
 - [ARStarter](https://github.com/codePrincess/ARStarter) -开始使用ARKit-初学者的一些练习.
 - [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
@@ -64,7 +64,7 @@
 - [Answers by Fabric](https://get.fabric.io) -答案可让您实时了解人们在您的应用程序中的体验.
 - [ARAnalytics](https://github.com/orta/ARAnalytics) -Analytics抽象库提供了用于跟踪事件和用户数据的可靠API.
 - [Segment](https://github.com/segmentio/analytics-ios) -轻松将分析集成到任何iOS应用程序的方法.
-- [MOCA Analytics](http://www.mocaplatform.com/features) -付费的跨平台分析后端.
+- [MOCA Analytics](https://www.mocaplatform.com/features) -付费的跨平台分析后端.
 - [Countly](https://count.ly) -适用于iOS和Android的开源，移动和Web分析，崩溃报告和推送通知平台.
 - [Abbi](https://github.com/abbiio/iosdk) -一个简单的SDK，供开发人员管理和最大化所有应用内促销的转化.
 - [devtodev](https://www.devtodev.com/) -全面的分析服务，可改善您的项目并节省产品开发时间.
@@ -94,7 +94,7 @@
 - [Crossroad](https://github.com/giginet/Crossroad)  -Crossroad是专门处理自定义URL方案的URL路由器.  使用此功能，您可以路由多个URL方案并轻松获取参数和参数.
 - [ZIKRouter](https://github.com/Zuikyo/ZIKRouter)  -面向接口的路由器，用于在OC＆Swift，iOS和macOS中使用协议发现模块并注入依赖项.  以一种安全的方式处理路由.
 - [RouteComposer](https://github.com/ekazaev/route-composer) -帮助处理视图控制器组成，路由和深层链接任务的库.
-- [LightRoute](https://github.com/SpectralDragon/LightRoute) -在纯Swift上实现的VIPER模块之间的轻松转换.
+- [LiteRoute](https://github.com/SpectralDragon/LiteRoute) -在纯Swift上实现的VIPER模块之间的轻松转换.
 
 ## Apple TV
 
@@ -125,7 +125,7 @@
 - [YARCH](https://github.com/alfa-laboratory/YARCH) -具有单向数据流（类似流量）的VIPER的更干净的替代品.
 - [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) -该存储库包含一个详细的示例应用程序，该应用程序使用Alamofire，AlamofireImage，PKHUD，CoreData等库和框架在iOS中实现VIPER架构.
 - [Tempura](https://github.com/BendingSpoons/tempura-swift) -受Redux和MVVM启发的整体iOS开发方法.
-- [VIPER Module Generator](https://github.com/Kaakati/VIPER-Module-Generator) - A Clean VIPER Modules Generator with comments and predfined functions.
+- [VIPER Module Generator](https://github.com/Kaakati/VIPER-Module-Generator) -带有注释和预定义功能的干净VIPER模块生成器.
 - [MMVMi](https://github.com/Maryom/MMVMi) -iOS应用程序中MVC和MVVM设计模式的验证模型.
 - [ios-architecture](https://github.com/tailec/ios-architecture) -iOS架构的集合-MVC，MVVM，MVVM + RxSwift，VIPER，RIB等.
 - [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui) -一个演示项目，展示带有Clean Architecture的SwiftUI应用的生产设置.
@@ -171,7 +171,7 @@
 
 - [Web3.swift](https://github.com/Boilertalk/Web3.swift) -用于与以太坊区块链交互的Web3库.
 - [web3swift](https://github.com/BANKEX/web3swift)  -Swift中的优雅Web3js功能.  本机ABI解析和智能合约交互.
-- [EthereumKit](https://github.com/D-Technologies/EthereumKit) -EthereumKit是一个免费的开源Swift框架，可轻松与以太坊进行交互.
+- [EthereumKit](https://github.com/yuzushioh/EthereumKit) -EthereumKit是一个免费的开源Swift框架，可轻松与以太坊进行交互.
 - [BitcoinKit](https://github.com/yenom/BitcoinKit)  -用于Swift的比特币协议工具包，BitcoinKit在Swift中实现了比特币协议.  它是（几乎）全部迅速编写的Bitcoin SPV协议的实现.
 - [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) -适用于iOS的以太坊钱包工具包-您无需服务器和区块链知识即可实施以太坊钱包.
 - [CoinpaprikaAPI](https://github.com/coinpaprika/coinpaprika-api-swift-client) -Coinpaprika API客户端，具有来自加密货币世界的免费且经常更新的市场数据：硬币价格，交易量，市值，ATH，回报率等.
@@ -185,7 +185,7 @@
 - [JSPatch](https://github.com/bang590/JSPatch)  -使用Objective-C运行时的JSPatch桥接Objective-C和Javascript.  您可以通过包含一个小型引擎来调用JavaScript中的任何Objective-C类和方法.  JSPatch通常用于修补程序iOS App.
 - [WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge) -一个iOS / macOS桥，用于在UIWebViews / WebViews中的Obj-C和JavaScript之间发送消息.
 - [MAIKit](https://github.com/MichaelBuckley/MAIKit) -在iOS和macOS之间共享代码的框架.
-- [Xamarin](http://xamarin.com) - Xamarin is a free, cross-platform, open-source platform that lets you quickly develop and test native iOS, watchOS and macOS applications for iPhone, iPad, Watch and Mac, all using the C# language.
+- [Xamarin](https://xamarin.com/) - Xamarin is a free, cross-platform, open-source platform that lets you quickly develop and test native iOS, watchOS and macOS applications for iPhone, iPad, Watch and Mac, all using the C# language.
 
 ## Cache
 
@@ -704,7 +704,7 @@
 - [OWUProximityManager](https://github.com/ohayon/OWUProximityManager) - iBeacons + CoreBluetooth.
 - [Vicinity](https://github.com/Instrument/Vicinity) -Vicinity通过分析RSSI复制iBeacon，并支持在后台广播和检测低能耗蓝牙设备.
 - [BeaconEmitter](https://github.com/lgaches/BeaconEmitter) -将Mac变成iBeacon.
-- [MOCA Proximity](https://mocaplatform.com/features) -付费的接近营销平台，可让您向应用程序添加惊人的接近体验.
+- [MOCA Proximity](https://www.mocaplatform.com/features) -付费的接近营销平台，可让您向应用程序添加惊人的接近体验.
 - [JMCBeaconManager](https://github.com/izotx/JMCBeaconManager) -一个iBeacon Manager类，负责检测附近的信标.
 
 ### Location
@@ -1060,7 +1060,7 @@
 - [SwiftPDFGenerator](https://github.com/kayoslab/SwiftPDFGenerator)  -使用UIViews的PDF生成器；  &#39;UIView 2 PDF&#39;的Swift版本.
 - [PSPDFKit](https://pspdfkit.com/) -渲染PDF，添加/编辑注释，填写表格，添加/编辑页面，查看/创建数字签名.
 - [TPPDF](https://github.com/Techprimate/TPPDF) -使用命令和自动布局生成PDF.
-- [FastPdfKit](https://github.com/mobfarm/FastPdfKit) -静态库，将嵌入到iOS应用程序中，以显示从Fast PDF派生的pdf文档.
+- [FastPdfKit](https://github.com/mobfarm/FastPdfKit) -静态库将嵌入到iOS应用程序中，以显示从Fast PDF派生的pdf文档.
 - [UIImagePlusPDF](https://github.com/DimaMishchenko/UIImagePlusPDF) -UIImage扩展仅使用PDF文件.
 
 ### Streaming
@@ -1445,7 +1445,7 @@
 - [AWS](https://github.com/aws-amplify/aws-sdk-ios) 适用于iOS的Amazon Web Services移动SDK.
 - [Zendesk](https://github.com/zendesk/zendesk_sdk_ios) 适用于iOS的Zendesk Mobile SDK.
 - [Dropbox](https://www.dropbox.com/lp/developers) 用于插件和Dropbox Core API的SDK.
-- [Fabric by Twitter](https://docs.fabric.io/apple/fabric/overview.html) 适用于iOS的Fabric Twitter工具包.
+- [Firebase](https://firebase.google.com/docs/ios/setup) Mobile (and web) application development platform.
 - [ResearchKit](https://github.com/ResearchKit/ResearchKit) ResearchKit是一个开源软件框架，可轻松创建用于医学研究或其他研究项目的应用程序.
 - [Primer](https://www.goprimer.com/) -Easy SDK，可在具有a / b / n测试和分析功能的可视化编辑器上创建个性化的目标屏幕，注册和登录流程.
 - [Azure](https://github.com/Azure/azure-storage-ios) -用于访问iOS设备上的Azure存储的客户端库.
@@ -1723,7 +1723,7 @@
 - [MirrorDiffKit](https://github.com/Kuniwak/MirrorDiffKit) -任何结构或类之间的差异都很大.
 - [SnappyTestCase](https://github.com/tooploox/SnappyTestCase) -iOS模拟器类型不可知快照测试，建立在FBSnapshotTestCase之上.
 - [XCTestExtensions](https://github.com/shindyu/XCTestExtensions) -XCTestExtensions是一个Swift扩展，为编写单元测试提供了方便的断言.
-- [OCMock](http://ocmock.org) -为Objective-C模拟对象.
+- [OCMock](https://ocmock.org/) -为Objective-C模拟对象.
 - [Mockingjay](https://github.com/kylef/Mockingjay) -一个优雅的库，用于在Swift中轻松地处理HTTP请求.
 - [PinpointKit](https://github.com/Lickability/PinpointKit) -让您的测试人员和用户使用简单的手势发送带有注释的屏幕截图和日志的反馈.
 - [iOS Snapshot Test Case](https://github.com/uber/ios-snapshot-test-case) —在iOS和tvOS上快照测试您的UIViews和CALayers.
@@ -1988,7 +1988,7 @@
 - [Transition](https://github.com/Touchwonders/Transition) -易于交互的可中断自定义ViewController过渡.
 - [Gagat](https://github.com/Boerworz/Gagat) -在iOS应用程序中的视觉样式之间进行转换的一种令人愉快的方法.
 - [DeckTransition](https://github.com/HarshilShah/DeckTransition) -用于重新创建iOS Apple Music的库正在播放过渡.
-- [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab) -在选项卡之间切换时，TransitionableTab使其易于制作动画.
+- [TransitionableTab](https://github.com/ParkGwangBeom/TransitionableTab) -在选项卡之间切换时，TransitionableTab使其易于制作动画.
 - [AlertTransition](https://github.com/loopeer/AlertTransition) -AlertTransition是一个可扩展的库，用于进行视图控制器转换，尤其是警报转换.
 - [SemiModalViewController](https://github.com/muyexi/SemiModalViewController) -将视图/视图控制器显示为下半模态.
 - [ImageTransition](https://github.com/shtnkgm/ImageTransition) -ImageTransition是一个用于在过渡期间使图像平滑动画的库.
@@ -2318,6 +2318,7 @@
 - [Popover](https://github.com/corin8823/Popover)  -Popover是一个气球库，类似于Facebook应用程序.  它写得很快.
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit)  -适用于iOS的高度可定制的弹出窗口，警报和横幅演示者.  它提供了各种预设，并以纯Swift编写.
 - [FFPopup](https://github.com/JonyFang/FFPopup) -⛩FFPopup是一个轻量级的库，用于将自定义视图显示为弹出窗口.
+- [PopupView](https://github.com/exyte/PopupView) -用SwiftUI编写的Toasts和Popups库.
 
 ### ProgressView
 - [ProgressMeter](https://github.com/khawajafarooq/ProgressMeter) -在Swift上为iOS开发的带有自定义注释的仪表上显示进度
@@ -2958,7 +2959,7 @@
 * [Mark](https://github.com/velyan/Mark) -用于生成MARK注释的Xcode扩展.
 * [XShared](https://github.com/Otbivnoe/XShared) -Xcode扩展名，允许您复制带有特殊格式引号的社交代码（Slack，Telegram）.
 * [XGist](https://github.com/Bunn/Xgist) -Xcode扩展名，它允许您将文本选择或整个文件发送到GitHub的Gist，并将Gist URL自动复制到剪贴板.
-* [Swiftify](https://objectivec2swift.com/) -Objective-C至Swift的在线代码转换器和Xcode扩展.
+* [Swiftify](https://swiftify.com/) -Objective-C至Swift的在线代码转换器和Xcode扩展.
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) -尝试给VVDocumenter-Xcode赋予新的生命，作为源代码编辑器扩展.
 * [Snowonder](https://github.com/Karetski/Snowonder) -Xcode的神奇导入声明格式化程序.
 * [XVim2](https://github.com/XVimProject/XVim2) -Xcode 9的Vim键绑定.
@@ -3032,7 +3033,7 @@
 - [Code Facebook](https://engineering.fb.com/category/ios/)
 - [Feeds for iOS Developer](https://github.com/rgnlax/Feeds-for-iOS-Developer) -适用于iOS开发人员的RSS供稿列表.
 - [Cocoa Controls](https://www.cocoacontrols.com/) -适用于iOS和macOS的开源UI组件.
-- [Ohmyswift](https://www.ohmyswift.com/blog)
+- [Ohmyswift](https://www.ohmyswift.com/blog/)
 
 
 ### UIKit references
@@ -3124,7 +3125,7 @@
 
 ## Books
 - [The Swift Programming Language by Apple](https://books.apple.com/us/book/swift-programming-language/id881256329)
-- [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-sixth-edition/)
+- [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass](https://www.bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-seventh-edition/)
 - [Programming in Objective-C by Stephen G. Kochan](https://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
 - [The Complete Friday Q & A: Volume 1](https://www.mikeash.com/book.html)
 - [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](https://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426)

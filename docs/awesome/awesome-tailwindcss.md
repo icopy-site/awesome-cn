@@ -40,7 +40,7 @@
 - [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) -添加了“边界图像”渐变实用程序.
 - [RFS](https://github.com/aerni/tailwindcss-rfs) -添加 [`RFS`](https://github.com/twbs/rfs) 实用程序.
 - [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) -添加`font-variant-numeric`实用程序.
-- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
+- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) -根据“ prefers-color-scheme”媒体查询添加“ dark”变体.
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) -添加与Vue.js的`v-cloak`指令配合使用的可见性类.
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) -重新添加在Tailwind CSS 1.0之前删除的`list-reset`类.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) -添加流体上浆工具.
@@ -74,7 +74,7 @@
 
 -  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) -添加了屏幕阅读器实用程序.
 -  [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) -添加了object-fit实用程序.
--  [Object Position](https://github.com/hacknug/tailwindcss-object-position) -添加了“ object-position”实用程序.
+-  [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
 -  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) -添加了屏幕阅读器实用程序.
 -  [Layout](https://github.com/benface/tailwindcss-layout) -添加了一些布局实用程序.
 -  [Important](https://github.com/chasegiunta/tailwindcss-important) -添加了一个“重要”变体.
@@ -93,10 +93,10 @@
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com) -Tailwind CSS模板，组件和资源.
 - [Tailwind Templates](https://www.tailwindtemplates.io) -Tailwind CSS组件.
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) -使用jQuery和Tailwind CSS进行切换.
-- [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) -Tailwind Starter Kit是TailwindCSS，免费和开源的扩展.
+- [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) -Tailwind Starter Kit是Tailwind CSS，免费和开源的扩展.
 - [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
 - [Tailwind Blocks](https://mert.dev/tailwind-blocks) -登陆页面的Tailwind CSS UI块.
-- [Meraki UI Components](https://merakiui.com) -支持RTL语言的精美Tailwindcss组件.
+- [Meraki UI Components](https://merakiui.com) -支持RTL语言的精美Tailwind CSS组件.
 
 ## Resources
 
@@ -229,7 +229,7 @@
 -  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
 -  [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中使用Tailwind CSS构建Vue.js组件.
 -  [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
--  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.
+-  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Building a navigation with Tailwind CSS.
 -  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
 -  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
 -  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
@@ -315,4 +315,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内， [NiftyCo](https://aniftyco.com) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [NiftyCo](https://aniftyco.com) 放弃了此作品的所有版权以及相关或邻近的权利.

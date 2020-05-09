@@ -14,6 +14,7 @@
 
 ## Introduction
 
+- [Intro to Web Components](https://developer.salesforce.com/blogs/2020/01/intro-to-web-components.html)
 - [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
@@ -118,9 +119,12 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ### Accessibility
 
+- [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
 - [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
 - [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 - [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
+- [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
+- [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
 - [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
 ### Use Cases
@@ -385,6 +389,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [A No-Nonsense Guide to Web Components](http://cbateman.com/blog/a-no-nonsense-guide-to-web-components-part-1-the-specs/)
 - [Mozilla and Web Components: Update](https://hacks.mozilla.org/2014/12/mozilla-and-web-components/)
 - [The State of the Componentised Web](https://www.leggetter.co.uk/2014/08/06/state-componentised-web.html)
+- [Building an Accessible Disclosure Button – using Web Components](https://developer.paciellogroup.com/blog/2014/06/accessible-disclosure-button-using-web-components/)
 - [Web Components and you – dangers to avoid](https://christianheilmann.com/2014/04/18/web-components-and-you-dangers-to-avoid/)
 - [The Web's Declarative, Composable Future](https://addyosmani.com/blog/the-webs-declarative-composable-future/)
 - [The Shadow DOM Diaries](https://gist.github.com/dglazkov/efd2deec54f65aa86f2e)

@@ -13,20 +13,20 @@
 ## Configs
 
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -最好的鲜为人知的eslint插件的集合，可与您的主要配置一起使用.
-- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -可共享的配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
+- [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -共享配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) -为您的React / Vue / TypeScript项目进行渐进式ESLint配置.
 - [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) -一个配置来统治所有人！
-- [Canonical](https://github.com/gajus/eslint-config-canonical) -可共享的配置 [Canonical style guide](https://github.com/gajus/canonical).
+- [Canonical](https://github.com/gajus/eslint-config-canonical) -共享配置 [Canonical style guide](https://github.com/gajus/canonical).
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) -包含用于ESLint团队维护的项目的ESLint配置.
 - [ES](https://github.com/thenativeweb/eslint-config-es) -可共享的配置，用于非常严格的代码.
 - [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) -用于Facebook风格指南的可共享配置.
 - [Google](https://github.com/google/eslint-config-google) -的共享配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
-- [Problems](https://github.com/RyanZim/eslint-config-problems) -可共享的配置，仅捕获实际问题，不执行样式首选项.
+- [Problems](https://github.com/RyanZim/eslint-config-problems) -可共享的配置，仅捕获实际问题，并且不强制使用样式偏好.
 - [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) -可共享的配置 [React](https://reactjs.org) 项目.
-- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -可共享的配置 [Shopify's style guide](https://github.com/Shopify/javascript).
+- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -共享配置 [Shopify's style guide](https://github.com/Shopify/javascript).
 - [Standard](https://github.com/feross/eslint-config-standard) -JavaScript的共享配置 [Standard Style](https://github.com/feross/standard).
 - [Supermind](https://github.com/supermind/eslint-config-supermind) -Supermind风格的共享配置.
-- [XO](https://github.com/sindresorhus/eslint-config-xo) -可共享的配置 [XO](https://github.com/sindresorhus/xo).
+- [XO](https://github.com/sindresorhus/eslint-config-xo) -共享配置 [XO](https://github.com/sindresorhus/xo).
 
 ## Globals
 
@@ -37,7 +37,7 @@
 ## Parsers
 
 - [Babel](https://github.com/babel/babel-eslint) -使用Babel的解析器来整理所有Babel功能.
-- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) -TypeScript解析器，它产生与ESLint兼容的输出.
+- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) -一个TypeScript解析器，它产生与ESLint兼容的输出.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku)  -用于Roku开发的BrightScript插件.  包括解析器和规则.
 
 ## Plugins
@@ -47,10 +47,10 @@
 - [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) -遵守规则 [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide).
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) -骨干网规则.
 - [Ember](https://github.com/netguru/eslint-plugin-ember) -灰烬的绒毛规则.
-- [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) -根据模式检查GraphQL查询字符串.
+- [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) -根据模式检查您的GraphQL查询字符串.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) -棉纱规则.
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -JSDoc注释的规则（包括@example中的JavaScript）.
-- [Lodash](https://github.com/wix/eslint-plugin-lodash) -Lodash特定的起毛规则.
+- [Lodash](https://github.com/wix/eslint-plugin-lodash) -Lodash特定的起绒规则.
 - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) -Lodash / fp特定的起毛规则.
 - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -Lodash模板/下划线模板的插件.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) -流星特定的起毛规则.
@@ -85,7 +85,7 @@
 - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format)  -整理，格式化和自动修复JSON文件.  对您的“ package.json”进行排序.
 - [Markdown](https://github.com/eslint/eslint-plugin-markdown) -在Markdown中整理JavaScript.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin)  -其他  规则.
-- [Node](https://github.com/mysticatea/eslint-plugin-node) -针对Node.js的其他ESLint规则.
+- [Node](https://github.com/mysticatea/eslint-plugin-node) -有关Node.js的其他ESLint规则.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) -检查文件顶部并修复文件的eslint规则！
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) -优化正则表达式文字.
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) -检测错误和可疑模式的规则.
@@ -106,17 +106,18 @@
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) -要求使用`new`抛出错误.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -ESLint的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -是2019年，您仍然使用循环吗？
-- [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询的语法内容.
+- [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询语法的内容.
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
 -表现
   - [DOM](https://github.com/amilajack/eslint-plugin-dom)
   - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) （也有一个 [config](https://github.com/Raynos/eslint-config-perf-standard))
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) -兑现承诺时的最佳做法.
+-ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) 和 [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) -与安全性相关的规则.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) -节点安全性的ESLint规则.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) -为ESLint`sort-keys`规则添加了修复程序.
 - [this](https://github.com/matijs/eslint-plugin-this) -写纯函数，不允许`this`.
-- [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) -eslint插件，可避免在模块顶层产生副作用.
+- [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) -eslint插件，可防止在模块顶层产生副作用.
 -XSS
   - [DOM APIs](https://github.com/mozilla/eslint-plugin-no-unsanitized) -检查`innerHTML`，`outerHTML`等.
   - [jQuery, etc.](https://github.com/Rantanen/eslint-plugin-xss) -尝试在代码库中的XSS问题最终投入生产之前进行检测.
@@ -148,11 +149,11 @@
 
 ### Formatters
 
-- [eslint-formatter-badger](https://github.com/brettz9/eslint-formatter-badger) -制作基于SVG的徽章，以汇总ESLint结果（例如，用于自述文件）.
+- [eslint-formatter-badger](https://github.com/brettz9/eslint-formatter-badger) -使基于SVG的徽章总结ESLint结果（例如，用于自述文件）.
 - [eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) -具有Git作者，日期和哈希的ESLint Formatter.
 - [eslint-formatter-github](https://github.com/hipstersmoothie/eslint-formatter-github) -直接在拉取请求中查看ESLint错误和警告.
 - [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) -在GitLab代码质量结果中输出ESLint结果.
-- [eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo) -外观精美的ESLint格式化程序，也可提供愉悦的阅读体验.
+- [eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo) -外观精美的ESLint格式化程序，还可以带来愉悦的阅读体验.
 
 ## Preconfigured Tools with ESLint Set up
 
@@ -166,11 +167,11 @@
 
 ## Tools
 
-- [es-file-traverse](https://github.com/brettz9/es-file-traverse)  -从一个或多个入口文件中仅获取基于导入和/或需求使用的那些文件的列表；  列表可传递给ESLint.  预期的  用于消除第三方依赖性.
+- [es-file-traverse](https://github.com/brettz9/es-file-traverse)  -仅从一个或多个入口文件中获取仅基于导入和/或需求使用的那些文件的列表；  列表可传递给ESLint.  预期的  用于消除第三方依赖性.
 - [eslint-cli](https://github.com/eslint/eslint-cli) -这是执行本地安装的ESLint的`eslint`命令.
 - [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) -查找自定义配置中没有的内置ESLint规则.
 - [eslint-index](https://github.com/wagerfield/eslint-index) -用于在ESLint配置文件中查找和管理规则的CLI.
-- [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) -多路合并结果并合并公共文件的结果.
+- [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) -多路夹板结果并合并公共文件的结果.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) -通过一次固定一个规则，轻松进入ESLint.
 - [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) -查找用于ESLint规则文档的网址.
 - [eslint-watch](https://github.com/rizowski/eslint-watch) -在监视模式下运行ESLint.
@@ -179,7 +180,7 @@
 
 ## Developing for ESLint
 
-- [eslint-docs](https://github.com/j-f1/eslint-docs) -在整个存储库中保持最新的规则描述.
+- [eslint-docs](https://github.com/j-f1/eslint-docs) -在整个存储库中保持规则描述为最新.
 
 ## Tutorials
 
