@@ -20,6 +20,16 @@
 
 
 
+## Digests
+
+- [Hacker101](https://www.hacker101.com/) -由 [hackerone](https://www.hackerone.com/start-hacking).
+- [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) -由 [PortSwigger](https://portswigger.net/).
+- [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/) -由 [Netsparker](https://www.netsparker.com/).
+- [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) -由 [Mark Robinson](https://www.sneakymonkey.net/).
+- [The Magic of Learning](https://bitvijays.github.io/) -由 [@bitvijays](https://bitvijays.github.io/aboutme.html).
+- [CTF Field Guide](https://trailofbits.github.io/ctf/) -由 [Trail of Bits](https://www.trailofbits.com/).
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+
 ## Forums
 
 - [Phrack Magazine](http://www.phrack.org/) -由和为黑客编写的电子杂志.
@@ -31,17 +41,6 @@
 
 <a name="intro"></a>
 ## Introduction
-
-<a name="tips"></a>
-### Tips
-
-- [Hacker101](https://www.hacker101.com/) -由 [hackerone](https://www.hackerone.com/start-hacking).
-- [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) -由 [PortSwigger](https://portswigger.net/).
-- [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/) -由 [Netsparker](https://www.netsparker.com/).
-- [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) -由 [Mark Robinson](https://www.sneakymonkey.net/).
-- [The Magic of Learning](https://bitvijays.github.io/) -由 [@bitvijays](https://bitvijays.github.io/aboutme.html).
-- [CTF Field Guide](https://trailofbits.github.io/ctf/) -由 [Trail of Bits](https://www.trailofbits.com/).
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) -由 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="xss"></a>
 ### XSS - Cross-Site Scripting
@@ -198,6 +197,7 @@
 - [PENETRATION TESTING AWS STORAGE: KICKING THE S3 BUCKET](https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/) -由Dwight Hohnstein撰写，来自 [Rhino Security Labs](https://rhinosecuritylabs.com/).
 - [AWS PENETRATION TESTING PART 1. S3 BUCKETS](https://www.virtuesecurity.com/aws-penetration-testing-part-1-s3-buckets/) -由 [VirtueSecurity](https://www.virtuesecurity.com/).
 - [AWS PENETRATION TESTING PART 2. S3, IAM, EC2](https://www.virtuesecurity.com/aws-penetration-testing-part-2-s3-iam-ec2/) -由 [VirtueSecurity](https://www.virtuesecurity.com/).
+- [Misadventures in AWS](https://labs.f-secure.com/blog/misadventures-in-aws) -由克里斯蒂安·德姆科（Christian Demko）撰写
 
 <a name="azure"></a>
 ### Azure
@@ -233,16 +233,16 @@
 - [102 Deep Dive in the Dark Web OSINT Style Kirby Plessas](https://www.youtube.com/watch?v=fzd3zkAI_o4) -由 [@kirbstr](https://twitter.com/kirbstr).
 - [The most complete guide to finding anyone’s email](https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email) -由 [Timur Daudpota](https://www.blurbiz.io/).
 
-<a name="books"></a>
-### Books
-
-- [XSS Cheat Sheet - 2018 Edition](https://leanpub.com/xss) -由 [@brutelogic](https://twitter.com/brutelogic).
-
 <a name="dns-rebinding"></a>
 ### DNS Rebinding
 
 - [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325) -由 [@brannondorsey](https://medium.com/@brannondorsey)
 - [Hacking home routers from the Internet](https://medium.com/@radekk/hackers-can-get-access-to-your-home-router-1ddadd12a7a7) -由 [@radekk](https://medium.com/@radekk)
+
+<a name="deserialization"></a>
+### Deserialization
+
+- [What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.](https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/) -由 [@breenmachine](https://twitter.com/breenmachine).
 
 ## Evasions
 
@@ -337,6 +337,7 @@
 - [GitHub Enterprise SQL Injection](http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html) -由 [Orange](http://blog.orange.tw/).
 - [Making a Blind SQL Injection a little less blind](https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8) -由 [TomNomNom](https://twitter.com/TomNomNom).
 - [Red Team Tales 0x01: From MSSQL to RCE](https://www.tarlogic.com/en/blog/red-team-tales-0x01/) -由 [Tarlogic](https://www.tarlogic.com/en/cybersecurity-blog/).
+- [SQL INJECTION AND POSTGRES - AN ADVENTURE TO EVENTUAL RCE](https://pulsesecurity.co.nz/articles/postgres-sqli) -由 [@denandz](https://github.com/denandz).
 
 <a name="tricks-nosql-injection"></a>
 ### NoSQL Injection
@@ -396,6 +397,11 @@
 - [Unicode Domains are bad and you should feel bad for supporting them](https://www.vgrsec.com/post20170219.html) -由 [VRGSEC](https://www.vgrsec.com/).
 -[[dev.twitter.com] XSS]（http://blog.blackfan.ru/2017/09/devtwittercom-xss.html）-撰写者 [Sergey Bobrov](http://blog.blackfan.ru/).
 
+<a name="tricks-deserialization"></a>
+### Deserialization
+
+- [ASP.NET resource files (.RESX) and deserialisation issues](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/august/aspnet-resource-files-resx-and-deserialisation-issues/) -由 [@irsdl](https://twitter.com/irsdl).
+
 <a name="tricks-others"></a>
 ### Others
 
@@ -419,6 +425,7 @@
 - [How do we Stop Spilling the Beans Across Origins?](https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/) -由 [aaj at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/aaj@google.com) 和 [mkwst at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/mkwst@google.com).
 - [Setting arbitrary request headers in Chromium via CRLF injection](https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html) -由 [Michał Bentkowski](https://blog.bentkowski.info/).
 - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) -由 [David Gilbertson](https://hackernoon.com/@david.gilbertson).
+- [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) -由 [@kinugawamasato](https://twitter.com/kinugawamasato),
 
 ### Backend (core of Browser implementation, and often refers to C or C++ part)
 
@@ -443,6 +450,11 @@
 - [uxss-db](https://github.com/Metnew/uxss-db) -通过PoC收集UXSS CVE [@Metnew](https://github.com/Metnew).
 - [SPLOITUS](https://sploitus.com/) -利用漏洞和工具的搜索引擎 [@i_bo0om](https://twitter.com/i_bo0om).
 - [Exploit Database](https://www.exploit-db.com/) -漏洞，Shellcode和安全文件的最终存档，作者： [Offensive Security](https://www.offensive-security.com/).
+
+## Cheetsheets
+
+- [XSS Cheat Sheet - 2018 Edition](https://leanpub.com/xss) -由 [@brutelogic](https://twitter.com/brutelogic).
+- [Capture the Flag CheatSheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet) -由 [@uppusaikiran](https://github.com/uppusaikiran).
 
 ## Tools
 
@@ -541,6 +553,7 @@
 - [JShell](https://github.com/s0md3v/JShell) -通过XSS获得JavaScript shell [@s0md3v](https://github.com/s0md3v).
 - [XSStrike](https://github.com/s0md3v/XSStrike)  -XSStrike是一个程序，可以模糊和暴力破解XSS的参数.  它还可以通过以下方式检测和绕过WAF： [@s0md3v](https://github.com/s0md3v).
 - [xssor2](https://github.com/evilcos/xssor2) -XSS&#39;OR-使用JavaScript入侵 [@evilcos](https://github.com/evilcos).
+- [csp evaluator](https://csper.io/evaluator) -评估内容安全政策的工具 [Csper](http://csper.io).
 
 <a name="tools-sql-injection"></a>
 #### SQL Injection
@@ -596,8 +609,9 @@
 ### Preventing
 
 - [DOMPurify](https://github.com/cure53/DOMPurify) -HTML，MathML和SVG的仅DOM，超快速，超耐性XSS消毒剂，由 [Cure53](https://cure53.de/).
-- [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist by [@leizongmin](https://github.com/leizongmin).
+- [js-xss](https://github.com/leizongmin/js-xss) -使用白名单指定的配置对不受信任的HTML进行清理（以防止XSS） [@leizongmin](https://github.com/leizongmin).
 - [Acra](https://github.com/cossacklabs/acra) -用于SQL数据库的客户端加密引擎，具有强大的选择性加密，防止SQL注入和入侵检测功能 [@cossacklabs](https://www.cossacklabs.com/).
+- [Csper](https://csper.io) -一套用于构建/评估/监视内容安全策略的工具，以防止/检测跨站点脚本 [Csper](https://csper.io).
 
 <a name="tools-proxy"></a>
 ### Proxy
@@ -741,6 +755,7 @@
 - [Alexa Top 1 Million Security - Hacking the Big Ones](https://slashcrypto.org/data/itsecx2018.pdf) -由 [@slashcrypto](https://twitter.com/slashcrypto).
 - [The bug bounty program that changed my life](http://10degres.net/the-bug-bounty-program-that-changed-my-life/) -由 [Gwen](http://10degres.net/).
 - [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) -由 [Mariem](https://pentester.land/).
+- [Implications of Loading .NET Assemblies](https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html) -由 [Brian Wallace](https://threatvector.cylance.com/en_us/contributors/brian-wallace.html).
 
 ## Code of Conduct
 
@@ -750,4 +765,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [@qazbnm456](https://qazbnm456.github.io/) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [@qazbnm456](https://qazbnm456.github.io/) 放弃了此作品的所有版权以及相关或邻近的权利.
