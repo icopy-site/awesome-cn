@@ -26,6 +26,7 @@
 * [Open Babel](http://openbabel.org/wiki/Main_Page) -化学工具箱，旨在说多种化学数据语言.
 * [MayaChemTools](http://www.mayachemtools.org/index.html) -收集支持日常计算发现需求的Perl和Python脚本，模块和类.
 * [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) -通过填料优化进行分子动力学模拟的初始配置.
+* [BCL::Commons](http://meilerlab.org/index.php/bclcommons/show/b_apps_id/1)
 
 <a id="app-docking"></a>
 ### Docking
@@ -44,22 +45,22 @@
 <a id="lib-general"></a>
 ### General Purpose
 
-* [RDKit](http://www.rdkit.org/) -收集用C ++和Python编写的化学信息学和机器学习软件.
+* [RDKit](http://www.rdkit.org/) -用C ++和Python编写的化学信息学和机器学习软件的集合.
 * [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [CDK (Chemistry Development Kit)](https://sourceforge.net/projects/cdk/) -用Java实现的结构化学信息和生物信息学算法.
-* [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) -Cheminformatics软件包，用于分析R中类似药物的小分子数据.
+* [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) -用于在R中分析类药物小分子数据的化学信息包.
 
 <a id="lib-format"></a>
 ### Format Checking
 
-* [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) -设计用于提供标准化分子的简单方法的工具，例如作为分子建模练习的序幕.
+* [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) -设计用来提供标准化分子的简单方法的工具，例如作为分子建模练习的序幕.
 * [MolVS](https://github.com/mcs07/MolVS) -基于分子的验证和标准化 [RDKit](http://www.rdkit.org/).
 * [rd_filters](https://github.com/PatWalters/rd_filters) -使用RDKit和ChEMBL运行结构警报的脚本
 
 <a id="lib-visualization"></a>
 ### Visulization
 
-* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) -前端JavaScript库，用于在网络浏览器上提供表示，绘制，编辑，比较和搜索分子结构的功能.
+* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) -前端JavaScript库，用于提供在网络浏览器上表示，绘制，编辑，比较和搜索分子结构的功能.
 * [3Dmol.js](https://github.com/3dmol/3Dmol.js) -面向对象的基于webGL的JavaScript库，用于在线分子可视化.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) -基于的化学2D结构编辑器应用程序/小程序 [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) -使用PySide的简单RDKit分子编辑器GUI.
@@ -92,7 +93,7 @@
 <a id="lib-db"></a>
 ### Databases
 
-* [razi](https://github.com/rvianello/razi) -SQLAlchemy数据库的化学格式扩展.
+* [razi](https://github.com/rvianello/razi) -SQLAlchemy数据库的化学信息扩展.
 
 <a id="lib-md"></a>
 ### Molecular Dynamics
@@ -105,7 +106,7 @@
 <a id="lib-others"></a>
 ### Others
 
-* [OPSIN](https://bitbucket.org/dan2097/opsin/downloads/) -用于系统IUPAC术语的开放解析器
+* [OPSIN](https://bitbucket.org/dan2097/opsin/downloads/) -用于系统IUPAC命名法的开放解析器
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) -以Python为中心的Cookiecutter，用于分子计算化学软件包，作者： [MolSSL](https://molssi.org/)
 
 ## Journals
@@ -117,7 +118,7 @@
 
 ### Courses
 
-* [Learncheminformatics.com](http://learncheminformatics.com/) -印第安那大学的“化学信息学：在化学数据世界中导航”.
+* [Learncheminformatics.com](http://learncheminformatics.com/) 印第安纳大学的“化学信息学：在化学数据世界中导航”.
 * [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) -使用开源软件包和数据进行计算机辅助药物设计（CADD）的教学平台.
 * [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)％3A_Chem_4399％2F％2F5399）-罗伯特·贝尔福德（Robert Belford）的阿肯色大学小石城分校化学信息学课程（2017年春季）
@@ -132,28 +133,28 @@
 * [The ChEMBL-og blog](http://chembl.blogspot.tw/) -计算化学生物学小组的故事和新闻 [EMBL-EBI](https://www.ebi.ac.uk/).
 * [ChEMBL blog](http://chembl.github.io/) - ChEMBL on GitHub.
 * [SteinBlog](http://www.steinbeck-molecular.de/steinblog/) -的博客 [Christoph Steinbeck](http://www.steinbeck-molecular.de/steinblog/index.php/about/)是EMBL-EBI的化学信息学和新陈代谢负责人.
-* [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) -博客，详细介绍化学信息学的实际应用.
+* [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) -博客，其中包含化学信息学实际应用的深入示例.
 * [So much to do, so little time - Trying to squeeze sense out of chemical data](http://blog.rguha.net/) -的Bolg [Rajarshi Guha](http://blog.rguha.net/?page_id=8)是美国国立卫生研究院转化科学促进中心的研究科学家.
  *一些旧博客 [1](https://rguha.wordpress.com/) [2](http://www.rguha.net/index.html).
 * [Noel O'Blog](http://baoilleach.blogspot.tw/) -的博客 [Noel O'Boyle](https://www.redbrick.dcu.ie/~noel/)，他是NextMove Software的高级软件工程师.
 * [chem-bla-ics](http://chem-bla-ics.blogspot.tw/) -的博客 [Egon Willighagen](http://egonw.github.io/)是马斯特里赫特大学的助理教授.
 * [Asad's Blog](https://chembioinfo.com/) -Syed Asad Rahman的Bolg，他是 [Thornton group](http://www.ebi.ac.uk/research/thornton) 在EMBL-EBI.
-* [steeveslab-blog](http://asteeves.github.io/) -使用的一些例子 [RDKit](http://www.rdkit.org/).
+* [steeveslab-blog](http://asteeves.github.io/) -一些使用示例 [RDKit](http://www.rdkit.org/).
 * [Macs in Chemistry](http://www.macinchem.org/) -为使用Apple Macintosh计算机的化学家提供资源.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) -的博客 [Andreas Bender](http://www.andreasbender.de/)，是剑桥大学分子信息学的读者.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) -化学信息学库的一些示例.
-* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是协作药物发现公司（Collaborative Drug Discovery）的研究科学家.
+* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是“协作药物发现”的研究科学家.
 
 ### Books
 
 * [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -同时包括来自公共（NIH），学术界和工业界的见解.
 * [Chemoinformatics for Drug Discovery](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785) -有关如何使用化学信息学策略改善药物发现结果的材料.
-* [Molecular Descriptors for Chemoinformatics](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766) -超过3300个用于化学信息分析化学性质的描述符和相关术语.
+* [Molecular Descriptors for Chemoinformatics](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766) -超过3300个用于化学信息化学成分分析的描述符和相关术语.
 
 <a id="see-also"></a>
 ## See Also
 
-* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) -深度学习生物学库中的化学信息学和药物发现部分.
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) -深度学习生物学回购中的化学信息学和药物发现部分.
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个清单着重于与化学有关的Python内容.
 * [MolSSI Molecular Software Database](https://molssi.org/software-search/)
 

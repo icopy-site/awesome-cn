@@ -1,0 +1,175 @@
+<div class="github-widget" data-repo="vlang/awesome-v"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+<p align="center"><img src="https://raw.githubusercontent.com/vlang/awesome-v/master/media/awesome-v-logo.svg?sanitize=true" width="400"/></p>
+
+## Awesome V [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+&gt;精选的V框架，库，软件和资源的精选清单.
+
+[V](https://vlang.io/) 是一种用于开发可维护软件的简单，快速，安全，已编译的语言.
+
+
+
+## Applications
+
+### Interpreters/Compilers
+
+- [v](https://github.com/vlang/v)  -V本身.  简单，快速，安全，可编译的语言，用于开发可维护的软件.
+- [vbf](https://github.com/vpervenditti/vbf) -精明的口译/编译器.
+- [monkey_v](https://github.com/Delta456/monkey_v) - 实施 [Thorsten Ball's Monkey Language](https://interpreterbook.com/) 在V中
+- [vcc](https://github.com/lemoncmd/vcc) -用V编写的AC编译器.
+- [Vork](https://github.com/Itay2805/Vork) -用Python编写的替代V编译器/解释器.
+
+### Package managers
+
+- [vpkg](https://github.com/vpkg-project/vpkg) -V的替代软件包管理器.
+- [vpm](https://github.com/yue-best-practices/vpm) -用V编写的V语言包管理工具.
+
+### Editors
+
+- [vid](https://github.com/vlang/vid)  -用V编写的1 MB文本编辑器，具有硬件加速的文本呈现功能.  小于1秒的编译时间.
+
+### Web
+
+- [vorum](https://github.com/vlang/vorum) -用V编写的开源博客/论坛软件.
+- [Heroku Buildpack for V](https://github.com/louis77/heroku-buildpack-v) -在Heroku上部署V应用.
+
+### Graphics
+
+- [raytracer](https://github.com/ali-raheem/vraytracer)
+
+### Games
+
+- [Vlang the Game](https://github.com/alula/vlang-the-game) -用V编写的小平台游戏 [vSDL2](https://github.com/nsauzede/vsdl2)，纯粹是为了模因和娱乐而制作的.
+- [Boundstone](https://github.com/organization/boundstone) -高性能/快速编译/轻量级Minecraft：Bedrock Edition Server.
+
+### Command-line
+
+- [HN-top](https://github.com/BafS/hn-top) -一个简单的命令，用于列出来自hacker-news的最新新闻.
+- [vast](https://github.com/lydiandy/vast) -一个简单的vlang工具，可将v源文件生成为AST json文件.
+### Project Management
+
+- [vset](https://github.com/mulh8377/vset) -V项目的项目设置和配置工具.
+
+## Libraries
+
+### Syntax highlighting
+
+- [v-vim](https://github.com/ollykel/v-vim) -在Vim中支持V语法突出显示.
+- [vim-v](https://github.com/cheap-glitch/vim-v) -V编程语言的高质量语法突出显示.
+- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) -Visual Studio Code的V语言扩展.
+- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) -V语法高亮显示 [Kate](https://kate-editor.org/).
+- [scite-v-support](https://github.com/sunnylcw/scite-v-support) -V语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
+- [language-v](https://github.com/Cutlery-Drawer/language-v) -对Atom的V语言支持（vscode-vlang端口）.
+
+### Command Line Interface
+
+- [vargs](https://github.com/nedpals/vargs) -V库，用于解析类似argv的数组的参数.
+- [progressbar](https://github.com/Waqar144/progressbar) -易于使用的V库，可在cli中创建进度条.
+- [boxx](https://github.com/thecodrr/boxx) -创建高度可定制的接线盒，看起来也很棒！ 
+- [lol](https://github.com/0xLeif/lol) -lolcat的V版本（文本/字符Rainbowizer）.
+
+### Text processing
+
+- [v-regex](https://github.com/spytheman/v-regex) -V的简单正则表达式库.
+- [chalk](https://github.com/etienne-napoleone/chalk) -在终端中为字符串着色.
+- [crayon](https://github.com/thecodrr/crayon)  -画出像毕加索一样的终端输出.  ️
+- [cjson](https://github.com/lydiandy/cjson) -将cJSON包装为vlang.
+
+### Graphics
+
+- [vgl](https://github.com/justicesuh/vgl) -低级图形API访问.
+- [vsdl2](https://github.com/nsauzede/vsdl2) -libSDL2包装器.
+
+### Web
+
+- [valval](https://github.com/taojy123/valval) -用V编写的Web框架，由vweb改进.
+- [vex](https://github.com/nedpals/vex) -受Express和Sinatra启发，用V编写的Web框架.
+- [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  -V的内置Web框架.  由Vorum使用.
+- [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) -用V编写的基本JSON-RPC 2.0兼容服务器.
+
+### Database clients
+
+- [redis](https://github.com/patrickpissurno/vredis) -V的Redis客户端，用V编写.
+
+### Audio
+
+- [vave](https://github.com/thecodrr/vave) -一个疯狂的简单库，用于在V中读取/写入WAV文件. 
+- [vspeech](https://github.com/thecodrr/vspeech) -基于Mozilla的DeepSpeech TensorFlow的语音到文本库的完整V绑定. 
+- [v-miniaudio](https://github.com/Larpon/v-miniaudio) -出色的miniaudio C音频库的绑定.
+
+### Operating System
+
+- [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard)  -用于与OS剪贴板交互的V模块.  完全跨平台.
+
+### Automation
+
+- [vrobot](https://github.com/eioo/vrobot) -V的桌面自动化.仅支持Windows.
+
+### Telegram
+
+- [vgram](https://github.com/vpervenditti/vgram) -电报机器人库.
+
+### Files
+
+- [v-mime](https://github.com/nedpals/v-mime) -V的MIME检测库.
+
+### Game Development
+
+- [vraylib](https://github.com/MajorHard/vraylib) -V包装器（绑定） [raylib](https://www.raylib.com)，C游戏开发框架.
+
+### Eventing
+
+- [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) -用于V的简单事件总线系统.
+
+### User Interface Toolkits
+
+- [V UI](https://github.com/vlang/ui) -适用于Windows，macOS，Linux，Android，iOS和Web的集成的跨平台UI工具包.
+- [vgtk3](https://github.com/vgtk/vgtk3) -V中GTK3的包装.
+- [vig](https://github.com/nsauzede/vig) -的绑定 [Dear ImGui](https://github.com/ocornut/imgui) GUI工具箱.
+- [vnk](https://github.com/nsauzede/vnk) -的绑定 [Nuklear](https://github.com/vurtun/nuklear) GUI工具箱.
+
+### Scientific Computing
+
+- [vsl](https://github.com/vlang/vsl) -具有多种功能的纯V型科学图书馆.
+- [vnum](https://github.com/vlang-num/vnum) -由LAPACK和BLAS支持的支持n维数据的数值计算库.
+
+## Other
+
+- [lsp.v](https://github.com/nedpals/lsp.v) -在V上实现语言服务器协议规范.
+- [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) -GitHub动作自动化，可在您的工作流程中使用V.
+### Videos
+
+- [V Programming Language](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
+
+### Programming Contests
+
+- [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) -V中的Rosetta代码解决方案.
+
+- [Advent of Code 2019](https://github.com/mvlootman/aoc2019) -V中的代码2019年问世解决方案.
+
+### Tutorials
+
+- [Learn V in Y Minutes](https://github.com/v-community/learn_v_in_y_minutes)
+- [V by Example](https://github.com/v-community/v_by_example) -V book as [GitBook](https://v-community.gitbook.io/v-by-example/).
+- [V learning notes](https://github.com/lydiandy/vlang_note) -中文个人学习笔记.
+
+### Online IDEs with V
+
+- [V Playground](https://vlang.io/play)
+- [Judge0 IDE](https://ide.judge0.com/?XN9q)
+- [DevBits V Playground](https://devbits.app/play?lang=v&code64=Zm4gbWFpbigpIHsKCWFyZWFzIDo9IFsnZ2FtZScsICd3ZWInLCAndG9vbHMnLCAnc2NpZW5jZScsICdzeXN0ZW1zJywgJ2VtYmVkZGVkJywgJ2RyaXZlcnMnLCAnR1VJJywgJ21vYmlsZSddIAoJZm9yIGFyZWEgaW4gYXJlYXMgewoJCXByaW50bG4oJ0hlbGxvLCAkYXJlYSBkZXZlbG9wZXJzIScpCgl9Cn0K)
+
+### Articles
+
+- [An introduction to V](https://simonknott.de/articles/VLang.html)
+- [The Book of V](https://github.com/KeyWeeUsr/the-book-of-v/)
+
+### Communities
+
+- [V Community](https://github.com/v-community)
+
+### Forums
+
+- [r/vlang](https://www.reddit.com/r/vlang)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/vlang)

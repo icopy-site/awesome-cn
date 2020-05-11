@@ -163,7 +163,7 @@
 * [Pastel](https://github.com/peter-murach/pastel) -具有直观，简洁的API的终端输出样式.
 * [Ru](https://github.com/tombenner/ru) -外壳中有Ruby.
 * [Ruby/Progressbar](https://github.com/jfelchner/ruby-progressbar) -Ruby最灵活的文本进度栏库.
-* [Tabulo](https://github.com/matt-harvey/tabulo)  -Ruby ASCII表生成器.  甚至从庞大，笨拙的数据集和流中生成高度可读的终端表.
+* [Tabulo](https://github.com/matt-harvey/tabulo) -具有基于列的DRY API的纯文本表生成器.
 * [TablePrint](https://github.com/arches/table_print) -将来自多个数据库表的数据切片到单个CLI视图中.
 * [Terminal Table](https://github.com/tj/terminal-table) -Ruby ASCII表生成器，简单且功能丰富.
 * [Tmuxinator](https://github.com/tmuxinator/tmuxinator) -轻松创建和管理复杂的tmux会话.
@@ -585,7 +585,7 @@
 * [HTTP](https://github.com/httprb/http) -HTTP Gem：用于发出HTTP请求的简单Ruby DSL.
 * [HTTPX](https://gitlab.com/honeyryderchuck/httpx) -承认易用性 [http](https://github.com/httprb/http) gem API（本身受python请求库启发）旨在重用同一外观，并将其扩展为http gem不支持的用例.
 * [httparty](https://github.com/jnunemaker/httparty) -使http重新变得有趣！
-* [Http-2](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+* [Http-2](https://github.com/igrigorik/http-2) -HTTP / 2协议的纯Ruby实现
 * [Patron](https://github.com/toland/patron) -Patron是基于libcurl的Ruby HTTP客户端库.
 * [RESTClient](https://github.com/rest-client/rest-client) -Ruby的简单HTTP和REST客户端，受用于指定操作的微框架语法的启发.
 * [Savon](https://github.com/savonrb/savon) -Savon是Ruby编程语言的SOAP客户端.
@@ -620,7 +620,7 @@
 * [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
 * [Termit](https://github.com/pawurb/termit) - Translations with speech synthesis in your terminal.
 * [Tolk](https://github.com/tolk/tolk) -用于打包为Rails引擎的i18n转换的Web界面.
-* [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) -ICU（Unicode的国际组件）的Ruby实现，它使用通用语言环境数据存储库来格式化日期，复数等.
+* [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 
 ## IRB
 

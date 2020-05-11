@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Blockchain AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt;精选的人工智能和机器学习区块链项目清单.
+&gt;人工智能和机器学习的区块链项目精选清单.
 
 该列表探索了一些很棒的项目，这些项目利用了区块链技术的特性（去中心化，不变性，智能合约等）来构建下一代AI系统.
 
@@ -12,15 +12,15 @@
 
 ### Wikipedia
 
-- [Blockchain](https://en.wikipedia.org/wiki/Blockchain)：“区块链是越来越多的记录列表，称为记录块，这些记录使用密码术进行链接.”
-- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)：“在计算机科学领域，人工智能（有时称为机器智能）是机器展示的智能，与人类和其他动物所展现的自然智能相反.”
-- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)：“机器学习（ML）是对算法和统计模型的科学研究，计算机系统使用这些算法和统计模型来有效地执行特定任务，而无需使用明确的指令，而是依靠模式和推理.”
+- [Blockchain](https://en.wikipedia.org/wiki/Blockchain)：“区块链是越来越多的记录列表，称为记录块，这些记录通过密码术链接在一起.”
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)：“在计算机科学领域，人工智能（有时称为机器智能）是机器展示的智能，与人类和其他动物展示的自然智能相反.”
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)“机器学习（ML）是对算法和统计模型的科学研究，计算机系统使用这些算法和统计模型来有效地执行特定任务，而无需使用明确的指令，而是依靠模式和推理.”
 
 ### Blockchain, AI and Machine Learning
 
 - [Decentralizing AI: Dreamers vs. Pragmatists.](https://towardsdatascience.com/decentralizing-ai-dreamers-vs-pragmatists-230c48d1b350) -耶稣罗德里格斯，2019年5月23日.
 - [How the Blockchain Could Break Big Tech’s Hold on A.I.](https://www.nytimes.com/2018/10/20/technology/how-the-blockchain-could-break-big-techs-hold-on-ai.html) -纽约时报，2018年10月20日.
-- [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) -Hacker Noon，2018年6月7日.
+- [How to Actually Combine AI and Blockchain in One Platform](https://hackernoon.com/how-to-actually-combine-ai-and-blockchain-in-one-platform-ef937e919ec2) -黑客中午，2018年6月7日.
 - [Blockchain-based Machine Learning Marketplaces](https://medium.com/@FEhrsam/blockchain-based-machine-learning-marketplaces-cb2d4dae2c17) -Fred Ehrsam，2018年3月13日.
 - [The convergence of AI and Blockchain: what’s the deal?](https://medium.com/@Francesco_AI/the-convergence-of-ai-and-blockchain-whats-the-deal-60c618e3accc) -Francesco Corea，2017年12月1日.
 
@@ -32,13 +32,13 @@
 
 - [SingularityNET](https://singularitynet.io/) -SingularityNET是以太坊区块链上的分布式AI平台，每个区块链节点都支持AI算法.
 - [Intuition Fabric](https://intuitionfabric.com) -Intuition Fabric的目标是通过存储在行星际文件系统上并通过以太坊区块链访问的深度学习模型网络，使对AI的访问民主化.
-- [Cerebrum](https://cerebrum.world/)  -Cerebrum是用于众包机器学习的去中心化平台.  Cerebrum使任何人都可以加密其数据并举办机器学习竞赛，以利用众包的机器学习模型. 
+- [Cerebrum](https://cerebrum.world/)  -Cerebrum是用于众包机器学习的去中心化平台.  Cerebrum使任何人都可以加密其数据并主持机器学习竞赛，以利用众包的机器学习模型. 
 - [OpenMined](https://openmined.org/)  -OpenMined是一个致力于构建开源技术以分散数据和情报所有权的社区.  借助OpenMined，可以对AI进行永远无法访问的数据培训.
 - [Effect.ai](https://effect.ai) -Effect.ai是一个区块链驱动的去中心化平台，用于人工智能开发和AI相关服务.
 - [Decentralized Machine Learning](https://decentralizedml.com/) -DML旨在创建基于区块链的去中心化机器学习协议和生态系统.
 - [Raven Protocol](https://www.ravenprotocol.com/) -Raven协议是一种分散式和分布式的深度学习培训协议.
-- [Thought Network](https://thought.live/) -Thought的支持区块链的Fabric通过将人工智能嵌入到每一个数据比特中来从根本上改变应用程序，从而使其变得敏捷，可操作且本质上是安全的.
-- [MATRIX AI](https://www.matrix.io/)  -Matrix AI Network是将AI技术与区块链技术相结合的公链，以解决当前阻碍区块链技术发展和采用的主要挑战.  Matrix准备使用基于区块链的去中心化计算平台来革新人工智能领域并使其民主化.
+- [Thought Network](https://thought.live/) -Thought的支持区块链的Fabric通过将人工智能嵌入到每一个数据比特中来从根本上改变应用程序，从而使其变得敏捷，可操作且固有地安全.
+- [MATRIX AI](https://www.matrix.io/)  -矩阵AI网络是将AI技术与区块链技术相结合的公链，以解决当前阻碍区块链技术发展和采用的主要挑战.  Matrix准备使用区块链驱动的去中心化计算平台来革新人工智能领域并使其民主化.
 - [Pandora Boxchain](https://pandoraboxchain.ai/) -由认知工作证明（PoCW）支持的AI内核，计算和大数据市场.
 - [Fitchain](https://fitchain.io/) -Fitchain是基于区块链的机器学习工厂，它使数据科学家可以训练模型，从开始到整个生命周期都对其进行跟踪.
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
@@ -49,7 +49,7 @@
 
 ## Blockchains for data
 
-- [Ocean Protocol](https://oceanprotocol.com/)  -海洋协议是一种去中心化的数据交换协议，它使人们可以共享和货币化数据，同时确保对所有参与人员的控制，可审计性，透明度和合规性.  它的网络处理元数据的存储（即谁拥有什么），链接到数据本身等等.
+- [Ocean Protocol](https://oceanprotocol.com/)  -海洋协议是一种去中心化的数据交换协议，它使人们可以共享和货币化数据，同时保证对所有参与者的控制，可审计性，透明度和合规性.  它的网络处理元数据（即谁拥有什么）的存储，与数据本身的链接等等.
 - [Neuromation](https://neuromation.io/) -综合数据集生成和算法训练平台.
 - [BOTTOS AI](https://bottos.org/) -分散的AI数据共享网络，该网络使用基于共识的应用程序平台来允许AI项目收集培训数据.
 - [Computable](https://www.computable.io/) -人工智能应用的分散数据市场.
@@ -59,15 +59,14 @@
 
 ## Blockchains for computation
 
-- [Neureal](https://neureal.net/) -由区块链支持的开源，点对点AI超级计算.
+- [Neureal](https://neureal.net/) -由区块链支持的开源，对等AI超级计算.
 - [TrueBit](https://truebit.io/) -TrueBit为以太坊智能合约提供了计算上的提升.
-- [DeepBrain Chain](https://www.deepbrainchain.org/) -分散式AI计算平台，可为希望开发AI技术的公司提供处理能力.
 - [AI Crypto](https://aicrypto.ai/) -AI Crypto是基于区块链的生态系统，其中分布了诸如GPU，模型和数据之类的AI资源，以降低AI开发的成本.
 
 ## Blockchains for AI in finance
 
-- [Numerai](https://numer.ai/) -Numerai是一家由匿名数据科学家网络提供支持的对​​冲基金，其建立机器学习模型以对加密数据进行操作，并对加密货币进行抵押以表达对其模型的信心.
-- [Napoleon X](https://www.napoleonx.ai/) -拿破仑X是一个开放的在线计算机驱动资产管理平台，可从世界一流的交易商那里选择定量策略（交易机器人），其中每个加密货币基金都致力于特定的资产类别.
+- [Numerai](https://numer.ai/) -Numerai是一个由匿名数据科学家网络提供支持的对​​冲基金，其建立机器学习模型以对加密数据进行操作并抵押加密货币以表达对其模型的信心.
+- [Napoleon X](https://www.napoleonx.ai/) -拿破仑X是一个开放的在线计算机驱动的资产管理平台，从世界一流的交易商中选择量化策略（交易机器人），每种加密货币专用于特定的资产类别.
 - [Cindicator](https://cindicator.com/) -Cindicator是针对金融和加密指标的众包预测引擎. 
 - [Erasure](https://erasure.xxx/) -擦除是用于财务预测的去中心化协议和数据市场.
 
@@ -88,9 +87,10 @@
 - [Dopamine](https://dopamine.ai/) -分散的AI劳动力和服务市场.
 - [Trane AI](http://www.trane.ai/) -用于标记，存储和建模用于AI培训的数据的分散式经济.
 - [starmine AI](http://starmine.ai/) -Starmine是一个健壮且高度可扩展的平台，用于构建，交易和交换先进的算法生成的按需数据集，以进行机器学习和人工智能工作.
+- [DeepBrain Chain](https://www.deepbrainchain.org/) -分散式AI计算平台，为希望开发AI技术的公司提供处理能力.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Steven Van Vaerenbergh](https://github.com/steven2358) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Steven Van Vaerenbergh](https://github.com/steven2358) 放弃了此作品的所有版权以及相关或邻近的权利.

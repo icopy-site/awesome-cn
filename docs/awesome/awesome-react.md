@@ -113,7 +113,7 @@
 
 - [styled-components](https://github.com/styled-components/styled-components) -组件年龄的视觉原语
 - [emotion](https://github.com/emotion-js/emotion) -用于使用JavaScript编写CSS样式的库
-- [radium](https://github.com/FormidableLabs/radium) -用于React组件样式化的工具链
+- [radium](https://github.com/FormidableLabs/radium) -用于React组件样式的工具链
 - [jss](https://github.com/cssinjs/jss) -CSS创作工具
 - [aphrodite](https://github.com/Khan/aphrodite) -与框架无关的CSS-in-JS，支持服务器端渲染，浏览器前缀和最少的CSS生成
 
@@ -134,14 +134,18 @@
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) -用React构建的Bootstrap组件
 - [reactstrap](https://github.com/reactstrap/reactstrap) -简单的React Bootstrap 4组件
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) -官方的语义UI集成
+- [evergreen](https://github.com/segmentio/evergreen) -按部门划分的Evergreen React UI框架
+- [grommet](https://github.com/grommet/grommet) -基于反应的框架，可在整齐的程序包中提供可访问性，模块化，响应性和主题化
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui/) -适用于您的React应用程序的简单，模块化和可访问的UI组件
+- [rebass](https://github.com/rebassjs/rebass) -反应使用样式系统构建的原始UI组件
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) -用于React的Font Awesome 5组件库
 - [reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
 - [rsuite](https://github.com/rsuite/rsuite) -一套React组件
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -根据Atlassian设计指南构建的Atlassian官方UI库.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
-- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，包含50多个具有材质，引导程序和自定义主题的组件.
-- [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
-- [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
+- [primereact](https://github.com/primefaces/primereact) -用于React的完整UI框架，包含50多个具有材质，引导程序和自定义主题的组件.
+- [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
+- [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
 - [rbx](https://github.com/dfee/rbx) -React的综合布尔玛UI框架
 - [trunx](https://github.com/fibo/trunx) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
 - [tailwind-react-ui](https://github.com/emortlock/tailwind-react-ui) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
@@ -152,6 +156,7 @@
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) -React的选择组件
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) -使用React轻松美观地拖放列表
 - [react-dnd](https://github.com/react-dnd/react-dnd) -拖放进行React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) -具有可响应断点的可拖动和可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
@@ -159,18 +164,19 @@
 - [react-draggable](https://github.com/mzabriskie/react-draggable) -反应可拖动组件
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -React的可调整大小和可拖动组件
 - [react-resizable](https://github.com/strml/react-resizable) -一个简单的React组件，可以通过手柄调整其大小
-- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -用于React的可调整大小的组件
+- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -React的可调整大小的组件
+- [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) -简约搜索框
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) -React的可排序和可调整大小的窗格组件
-- [react-spaces](https://github.com/aeagle/react-spaces) -可调整大小的嵌套，锚定，可滚动组件
+- [react-spaces](https://github.com/aeagle/react-spaces) -可调整大小，可锚定，可滚动的嵌套组件
 - [react-dates](https://github.com/airbnb/react-dates) -适用于网络的易于国际化，移动友好的日期选择器库
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
-- [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做得正确
+- [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
-- [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型按键包装
+- [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型keydown包装器
 - [react-joyride](https://github.com/gilbarbara/react-joyride) -为您的应用程序创建导览
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) -React组件，可有效呈现大型列表和表格数据
 - [react-window](https://github.com/bvaughn/react-window) -React组件，可有效呈现大型列表和表格数据
@@ -181,7 +187,7 @@
 - [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
 - [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) -为React制作的PDF查看器
-- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) -在React组件上轻松应用倾斜悬停效果
+- [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) -轻松在React组件上应用倾斜悬停效果
 
 ##### React for Command Line
 
@@ -193,7 +199,7 @@
 - [jest](https://github.com/facebook/jest) -令人愉快的JavaScript测试框架
 - [enzyme](https://github.com/airbnb/enzyme) -用于React的JavaScript测试实用程序
 - [react-testing-library](https://github.com/testing-library/react-testing-library) -简单而完整的React DOM测试实用程序
-- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -React钩子测试实用程序，鼓励良好的测试实践
+- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -React hooks测试实用程序，鼓励良好的测试实践
 - [majestic](https://github.com/Raathigesh/majestic) -玩笑的零配置GUI
 
 ##### React Libraries
@@ -225,16 +231,16 @@
 - [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
 - [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications](https://github.com/Autodesk/clearx)
-- [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态预呈现
+- [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态静态呈现
 - [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
 - [refract](https://github.com/fanduel-oss/refract) -利用反应式编程的力量为您的组件增压
 - [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 - [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 - [react-extras](https://github.com/sindresorhus/react-extras) -使用React的有用组件和实用程序
-- [react-instantsearch](https://github.com/algolia/react-instantsearch) -Algolia快速搜索React和React Native应用程序
+- [react-instantsearch](https://github.com/algolia/react-instantsearch) -通过Algolia快速搜索React和React Native应用程序
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
 - [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
-- [react-esi](https://github.com/dunglas/react-esi) -反应边缘侧包括
+- [react-esi](https://github.com/dunglas/react-esi) -React Edge侧面包括
 - [hookstate](https://github.com/avkonst/hookstate) -基于钩子的React的现代，非常快速和可扩展的状态管理
 - [universal-model-react](https://github.com/universal-model/universal-model-react) -React的统一状态管理解决方案
 
@@ -742,6 +748,6 @@
 
 ### Contribution
 
- 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始测试时，它是一个特殊的脚本，可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+ 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

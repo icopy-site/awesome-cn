@@ -13,7 +13,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Official resources
 
 - [Website](https://prometheus.io/) -Prometheus官方项目网站.
-- [GitHub repository](https://github.com/prometheus/prometheus) -Prometheus的源代码，问题讨论和协作.
+- [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 - [Documentation](https://prometheus.io/docs/introduction/overview/) -官方Prometheus文档.
 - [Blog](https://prometheus.io/blog/) -Prometheus官方博客.
 
@@ -54,12 +54,12 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) -普罗米修斯计数-布莱恩·巴西（Brian Brazil），稳健的洞察力.
 - [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) -了解和扩展Prometheus AlertManager-SolarWinds的Lee Calcote
 - [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) -PromCon 2016：Prometheus时间序列数据库-BjörnRabenstein.
-- [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) -GOTO 2019：Prometheus的系统和服务监视简介-Julius Volz.
+- [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) -GOTO 2019：Prometheus的系统和服务监控简介-Julius Volz.
 - [Prometheus Deep Dive](https://www.youtube.com/watch?v=Me-kZi4xkEs) -GitLab：Prometheus深潜-Ben Kochie.
 
 ## Podcasts and interviews
 
-- [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -FLOSS每周TWiT.tv节目上的朱利叶斯·沃尔兹（Julius Volz）.
+- [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -FLOSS每周TWiT.tv节目上的朱利叶斯·沃尔兹（Julius Volz）
 - [Prometheus and Service Monitoring](https://changelog.com/podcast/168) -Changelog播客中的Julius Volz.
 - [Prometheus Monitoring with Brian Brazil](https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/) -Brian Brazil在《软件工程日报》播客中.
 
@@ -103,10 +103,11 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Node exporter](https://github.com/prometheus/node_exporter) -节点出口商会定期抓取系统统计信息**（官方出口商）**.
 - [Redis exporter](https://github.com/oliver006/redis_exporter) -Redis导出器会定期抓取Redis服务器统计信息.
 - [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) -ElasticSearch导出器会定期抓取ElasticSearch服务器统计信息.
+- [MongoDB Exporter](https://github.com/percona/mongodb_exporter) -MongoDB导出器会定期抓取MongoDB服务器统计信息.
 
 ## Alertmanager
 
-- [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) -普罗米修斯警报规则的列表.
+- [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) -普罗米修斯警报规则的真棒列表.
 - [Karma](https://github.com/prymitive/karma) -Prometheus Alertmanager的警报仪表板.
 
 ## Proxies
@@ -124,7 +125,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Uncategorized
 
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) -Subreddit收集Internet上所有与Prometheus相关的资源.
-- [PromCon](https://promcon.io/) - The Prometheus conference.
+- [PromCon](https://promcon.io/) -普罗米修斯会议.
 - [Prometheus demo site](http://demo.cloudalchemy.org:9090) -普罗米修斯（Prometheus）网站每天使用来自 [cloudalchemy repository](https://github.com/cloudalchemy/demo-site).
 
 ## License

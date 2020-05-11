@@ -244,6 +244,11 @@
 
 - [What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.](https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/) -由 [@breenmachine](https://twitter.com/breenmachine).
 
+<a name="oauth"></a>
+### OAuth
+
+- [What is going on with OAuth 2.0? And why you should not use it for authentication.](https://medium.com/securing/what-is-going-on-with-oauth-2-0-and-why-you-should-not-use-it-for-authentication-5f47597b2611) -由 [@damianrusinek](https://medium.com/@damianrusinek).
+
 ## Evasions
 
 <a name="evasions-xxe"></a>
@@ -289,6 +294,7 @@
 - [Exploiting CSRF on JSON endpoints with Flash and redirects](https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b) -由 [@riyazwalikar](https://blog.appsecco.com/@riyazwalikar).
 - [Stealing CSRF tokens with CSS injection (without iFrames)](https://github.com/dxa4481/cssInjection) -由 [@dxa4481](https://github.com/dxa4481).
 - [Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters](https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2) -由 [@rramgattie](https://blog.securityevaluators.com/@rramgattie).
+- [If HttpOnly You Could Still CSRF… Of CORS you can!](https://medium.com/@_graphx/if-httponly-you-could-still-csrf-of-cors-you-can-5d7ee2c7443) -由 [@GraphX](https://twitter.com/GraphX).
 
 <a name="tricks-clickjacking"></a>
 ### Clickjacking
@@ -402,6 +408,11 @@
 
 - [ASP.NET resource files (.RESX) and deserialisation issues](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/august/aspnet-resource-files-resx-and-deserialisation-issues/) -由 [@irsdl](https://twitter.com/irsdl).
 
+<a name="tricks-oauth"></a>
+### OAuth
+
+- [Facebook OAuth Framework Vulnerability](https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/) -由 [@AmolBaikar](https://twitter.com/AmolBaikar).
+
 <a name="tricks-others"></a>
 ### Others
 
@@ -425,7 +436,8 @@
 - [How do we Stop Spilling the Beans Across Origins?](https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/) -由 [aaj at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/aaj@google.com) 和 [mkwst at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/mkwst@google.com).
 - [Setting arbitrary request headers in Chromium via CRLF injection](https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html) -由 [Michał Bentkowski](https://blog.bentkowski.info/).
 - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) -由 [David Gilbertson](https://hackernoon.com/@david.gilbertson).
-- [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) -由 [@kinugawamasato](https://twitter.com/kinugawamasato),
+- [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) -由 [@kinugawamasato](https://twitter.com/kinugawamasato).
+- [Take Advantage of Out-of-Scope Domains in Bug Bounty Programs](https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty/) -由 [@Abdulahhusam](https://twitter.com/Abdulahhusam).
 
 ### Backend (core of Browser implementation, and often refers to C or C++ part)
 
@@ -438,6 +450,7 @@
 - [PUSHING WEBKIT'S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT](https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit) -由 [@wanderingglitch](https://twitter.com/wanderingglitch).
 - [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/) -由 [RET2 SYSTEMS, INC](https://blog.ret2.io/).
 - [CVE-2017-2446 or JSC::JSGlobalObject::isHavingABadTime.](https://doar-e.github.io/blog/2018/07/14/cve-2017-2446-or-jscjsglobalobjectishavingabadtime/) -由 [Diary of a reverse-engineer](https://doar-e.github.io/).
+- [CLEANLY ESCAPING THE CHROME SANDBOX](https://theori.io/research/escaping-chrome-sandbox) -由 [@tjbecker_](https://twitter.com/tjbecker_).
 
 ## PoCs
 
@@ -756,6 +769,7 @@
 - [The bug bounty program that changed my life](http://10degres.net/the-bug-bounty-program-that-changed-my-life/) -由 [Gwen](http://10degres.net/).
 - [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) -由 [Mariem](https://pentester.land/).
 - [Implications of Loading .NET Assemblies](https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html) -由 [Brian Wallace](https://threatvector.cylance.com/en_us/contributors/brian-wallace.html).
+- [WCTF2019: Gyotaku The Flag](https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf) -由 [@t0nk42](https://twitter.com/t0nk42).
 
 ## Code of Conduct
 
