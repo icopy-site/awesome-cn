@@ -13,6 +13,7 @@
 
 <!-- toc -->
 
+
 <!-- tocstop -->
 
 ## Learning
@@ -25,17 +26,35 @@
 ### Theory and Courses
 - [All About Circuits](https://www.allaboutcircuits.com/textbook/) -用于学习理论的在线教科书，带有清晰的图示和说明.
 - [Ultimate Electronics](https://ultimateelectronicsbook.com/) -（尚未完成）通过电路原理和交互式原理图进行学习的书，您可以加载，仿真和更改.
-- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) -具有许多主题的在线学习平台，包括电气工程，电路，半导体，信号，机器人甚至逆向工程电子设备的完整课程.
+- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) -具有很多主题的在线学习平台，包括电气工程，电路，半导体，信号，机器人甚至逆向工程电子设备的完整课程.
 
+### University Course Archives
+
+- [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) -全面的EE和CS课程网站档案.
+- [Dr. Jacob Baker](http://cmosedu.com) -课程和教程，内华达大学拉斯维加斯分校教授.
+- [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/)和 [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) -课程资料，UT Austin教授
 
 ## Simulators
-- [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) -凌力尔特（Linear Technologies）提供的免费工业标准SPICE电路仿真器.
+
+### Analog and Mixed Signal Circuit Simulators
+
+- [LTspice](https://www.analog.com/en/design-center/design-tools-和-calculators/ltspice-simulator.html)  -凌力尔特（Linear Technologies）提供的免费工业标准SPICE电路仿真器.  另请参阅非官方 [LTwiki](http://ltwiki.org/?title=Main_Page) 和 [Group](https://groups.io/g/LTspice).
 - [Ngspice](http://ngspice.sourceforge.net/) -开源SPICE电路模拟器.
 - [Circuit JS](http://www.falstad.com/circuit/circuitjs.html) -开源在线模拟器，可通过实时交互和可视化简化电路.
-- [Every Circuit](https://everycircuit.com) -免费试用在线，可视，交互式电路模拟器，以简化电路.
-- [Qucs](http://qucs.sourceforge.net/) -用于DC，AC，S参数，噪声分析等的开源集成电路模拟器
+- [Every Circuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
+- [Qucs](http://qucs.sourceforge.net/) -开源，跨平台，非基于SPICE的电路模拟器，具有S参数和谐波平衡功能.
+- [Qucs Studio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) -Qucs的免费，封闭源代码，仅限Windows的fork，具有相似的界面，新引擎和更多功能.
+- [Open Circuit Design Software](http://opencircuitdesign.com) -开源，完整的EDA套件芯片设计套件，专注于跟上商业工具的发展.
+- [TINA-TI](http://www.ti.com/tool/TINA-TI) -独家 [DesignSoft-TINA](https://www.tina.com) 与德州仪器（TI）模型捆绑在一起的德州仪器（TI）版本.
+- [CppSim](https://www.cppsim.com/) -免费的开源电路模拟器，利用C ++语言实现非常快速的仿真时间.
+- [Scilab with Xcos](https://www.scilab.org/)  -MATLAB的免费开放源代码数值计算替代方案.  Xcos提供类似于Simulink的电气系统建模功能.
 - [iCircuit](http://icircuitapp.com/) -易于使用的电子电路模拟器，其先进的模拟引擎可以处理模拟和数字电路，并具有实时始终在线分析功能.
 - [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) -具有多种交互式仿真类型的专业级混合信号仿真器.
+
+### Verilog HDL Simulators
+
+- [Verilator](https://www.veripool.org/wiki/verilator)  -免费的开源Verilog编译器.  测试平台使用C ++或SystemC.  速度非常快，但仅限于基于周期的2状态仿真和可综合代码.
+- [Icarus Verilog](http://iverilog.icarus.com/)  -免费的开源verilog解释器.  测试平台采用行为验证.  仿真是4状态的，基于事件.
 
 ## Gerber Viewers
 
@@ -43,7 +62,7 @@
 - [Tracespace Viewer](https://tracespace.io/) -Gerber查看器，可让您检查各个图层以及板预览.
 - [Gerblook](https://www.gerblook.org/) -由Gerbv支持的在线Gerber查看器.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) -3D Gerber查看器.
-- [CircuitPeople](https://circuitpeople.com) -Gerbers的2D图层查看器没有多余的装饰，无需过多处理.
+- [CircuitPeople](https://circuitpeople.com) -Gerbers的2D图层查看器没有多余的装饰，没有过多的处理.
 - [Stackrate Viewer](https://stackrate.de/viewer/) -易于使用的在线gerber查看器以及跟踪悬停和测量工具.
 
 ### Installable
@@ -55,7 +74,7 @@
 - [KiCad](https://kicad-pcb.org/) -带有推和推路由器，差分对等的开源EDA软件包.
 - [Eagle](https://www.autodesk.com/products/eagle/overview) -由于它是免费版本，因此是最受欢迎的EDA软件包之一.
 - [Design Spark PCB](https://www.rs-online.com/designspark/pcb-software) -由RS Components赞助的Gratis EDA软件包，无限制.
-- [Altium Circuit Maker](https://circuitmaker.com/) -转到专业软件制造商的免费软件包.
+- [Altium Circuit Maker](https://circuitmaker.com/) -转到专业软件制造商的免费软件包。
 - [gEDA](http://geda-project.org) -另一个开源软件包，仅对喜欢脚本和makefile，仅Linux和BSD的人有用.
 - [DipTrace](https://diptrace.com) -具有免费版本的质量原理图捕获和PCB设计软​​件（受引脚和信号层限制）.
 - [LibrePCB](https://librepcb.org/) -针对所有人，跨平台和GNU GPLv3的新的，功能强大且直观的EDA工具.
@@ -100,7 +119,7 @@
 - [Hackaday.io](https://hackaday.io) -共享流行博客项目的社交网站.
 - [Hackster.io](https://www.hackster.io/)  -另一个用于共享项目的社交网站.  按平台，主题和产品井井有条
 - [InventHub](https://inventhub.io/) -基于Git的项目托管和协作平台，用于硬件开发
-- [CADLab](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development
+- [CADLab](https://cadlab.io/) -另一个基于Git的项目托管和协作平台，用于硬件开发
 
 
 ## Inventory Management and Purchasing
@@ -119,7 +138,7 @@
 - [Tindie](https://www.tindie.com) -供电子产品制造商出售自己设计的小批量产品的市场.
 
 ## Blogs
-- [Hackaday](https://hackaday.com) -可能是最受欢迎的博客，涵盖了整个作家团队，涉及电子和硬件黑客.
+- [Hackaday](https://hackaday.com) -可能是最受欢迎的博客，涵盖了全部作家，涉及电子和硬件黑客.
 - [bunniestudios.com](https://www.bunniestudios.com) -Andrew&#39;Bunnie&#39;Huang涉及硬件黑客，开放式硬件，制造等等.
 - [Bald Engineer](https://www.baldengineer.com) -James Lewis撰写的有关电子产品和嵌入式软件的项目日志，教程和文章.
 - [Rheingold Heavy](https://rheingoldheavy.com) -Dan Hienzsch撰写的有关电子产品和嵌入式软件的更多项目日志，教程和文章.
@@ -140,7 +159,7 @@
 
 
 ## Podcasts
- - [The Amp Hour](https://theamphour.com/) -与Chris Gammel和Dave Jones（EEVBlog）经常进行电子交流，经常与客人进行交流
+ - [The Amp Hour](https://theamphour.com/) -与Chris Gammel和Dave Jones（EEVBlog）经常进行电子交流，经常与来宾进行交流
  - [Embedded FM](https://embedded.fm/) -Christopher和Elecia White经常与来宾一起讨论嵌入式系统的开发等等.
  - [Sparkgap Podcast](http://thesparkgap.net) -每集都有一个特定的EE主题，有时还会有嘉宾.
  - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) -每周播客，来自MacroFab的Parker和Stephen讨论EE主题和行业新闻
@@ -153,7 +172,7 @@
 - [Micah Scott](https://www.youtube.com/user/micahjd) -逆向工程的视频日志，并以创新的方式重新利用消费电子硬件.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) -有关电子项目的教程，通常也适合初学者.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) -非常深入地拆卸，维修和审查实验室设备和原型产品.
-- [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) -关于基本和复杂模拟硬件的优秀教程.
+- [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - Excellent tutorials about basic and complex analog hardware.
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) -拆解，维修和修复，重点是经典电子设备.
 - [GreatScott](https://www.youtube.com/user/greatscottlab) -电子教程，项目以及操作方法.
 - [Julian Ilett](https://www.youtube.com/user/julius256) -购买他能找到的最便宜的电子模块，并尝试使用它们做有用的事情.
@@ -174,5 +193,6 @@
 - [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) -所有可用软件工具的更全面的列表.
 - [intajay/open-electronics](https://github.com/intajay/open-electronics) -另一个GitHub列表：电子爱好者和硬件黑客的资源
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) -很棒的FPGA资源列表
-- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) -GitHub的机器人电子资源，项目和产品清单
+- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) -GitHub的机器人电子资源，项目和产品列表
 - [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) -很棒的嵌入式编程资源列表
+- [TCAD Central](https://tcad.com/Software.html) -DEVSIM制造商提供的技术CAD（TCAD）软件和资源清单

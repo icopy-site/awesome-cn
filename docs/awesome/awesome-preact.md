@@ -18,7 +18,7 @@
 
 ### Toolkits
 - [Preact CLI](https://github.com/developit/preact-cli) -在几秒钟内构建一个Preact Progressive Web App.
-- [nwb](https://github.com/insin/nwb) -使用React，Inferno或Preact快速开发.
+- [nwb](https://github.com/insin/nwb) -使用React，Inferno或Preact进行快速开发.
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired) -结合使用Preact和create-react-app而不弹出.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) -它会删除Preact CLI上的默认postcss配置，因此您可以使用postcss.config.js.
 - [Create Preact App](https://github.com/just-boris/create-preact-app) -创建没有构建配置的Preact应用.
@@ -31,19 +31,19 @@
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) -使用TypeScript进行Preact的准系统入门项目.
 - [TypeScript PWA Preact Starter](https://github.com/bmitchinson/preact-typescript-pwa-starter) -具有TypeScript和SASS的PWA Starter（131kb）
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) -使用Redux示例的服务器端渲染.
-- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
+- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) -PWA专注于原始性能，服务器端渲染，预渲染，redux，express，汇总.
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) -由Parcel提供支持的绝对最小的Preact入门项目.
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) -Preact的URL路由器.
-- [Preact Route Async](https://github.com/mjanssen/preact-route-async) -一个（440b gzip）路由组件，可以异步加载页面组件.
-- [Wouter](https://github.com/molefrog/wouter) -微型（1KB gzip）路由器，用于通过类似React Router的API进行Preact / React.
+- [Preact Route Async](https://github.com/mjanssen/preact-route-async) -一个（440b gzip）路由组件，它允许异步加载页面组件.
+- [Wouter](https://github.com/molefrog/wouter) -微型（1KB gzip）路由器，用于使用类似React Router的API进行Preact / React.
 
 ### Components
-- [Preact Material Components](https://github.com/prateekbh/preact-material-components) -“网络材料组件”的预先包装.
-- [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) -（800b gzip）标头，将在滚动Preact时显示/隐藏.
-- [Preact Progress](https://github.com/lukeed/preact-progress) -用于Preact的简单轻量级（约590字节gzip）进度条组件.
-- [Preact Compat](https://git.io/preact-compat) -使用任何带有Preact *（[full example](http://git.io/preact-compat-example))*.
+- [Preact Material Components](https://github.com/prateekbh/preact-material-components) -“网络材料组件”的预先包装器.
+- [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) -一个（800b gzip）标头，将在滚动Preact时显示/隐藏.
+- [Preact Progress](https://github.com/lukeed/preact-progress) -Preact的简单轻量级（约590字节gzip）进度条组件.
+- [Preact Compat](https://git.io/preact-compat) -将任何React库与Preact *（[full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) -通用渲染.
 - [Preact Markup](https://git.io/preact-markup) -将HTML和自定义元素呈现为JSX和组件.
 - [Preact Portal](https://git.io/preact-portal) -将Preact组件渲染到（a）SPACE中.
@@ -53,10 +53,10 @@
 - [Preact Cycle](https://git.io/preact-cycle) -Preact的功能反应范例.
 - [Preact Layout](https://download.github.io/preact-layout/) -小而简单的布局库.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) -的Preact插件 [Socrates](http://github.com/matthewmueller/socrates).
-- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 使用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
+- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - 采用 [flyd](https://github.com/paldepind/flyd) Preact + JSX中的FRP流.
 - [Preact I18nline](https://github.com/download/preact-i18nline) -整合周围的生态系统 [i18n-js](https://github.com/everydayhero/i18n-js) 通过Preact通过 [i18nline](https://github.com/download/i18nline).
 - [Preact MUI](https://git.io/v1aVO) -MUI CSS Preact库.
-- [Preact MDL](https://git.io/preact-mdl) - 使用 [MDL](https://getmdl.io) 作为Preact组件.
+- [Preact MDL](https://git.io/preact-mdl) - 采用 [MDL](https://getmdl.io) 作为Preact组件.
 - [Preact Photon](https://git.io/preact-photon) -使用构建漂亮的桌面UI [photon](http://photonkit.com).
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) -创建没有class关键字的preact组件.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) -用于创建元素的类似于超脚本的语法.
@@ -69,28 +69,28 @@
 - [Preact Side Effect](https://github.com/ooade/preact-side-effect) -创建其嵌套属性更改会映射到全局副作用的组件.
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) -预先整合 [Tiny Atom](https://github.com/qubitproducts/tiny-atom).
 - [Preact Level List](https://github.com/juliangruber/preact-level-list) -实时更新Preact的leveldb列表组件.
-- [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) -基于为Preact制作的引导程序3的国家/地区选择器.
+- [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) -基于为Preact制作的bootstrap 3的国家/地区选择器.
 - [Preact Fluid](https://github.com/ajainvivek/preact-fluid) -Preact的最小UI套件.
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) -Preact的羽毛图标.
 - [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) -当属性更改时添加CSS3动画.
 - [Preact Async Route](https://github.com/prateekbh/preact-async-route) -preact-router的异步路由组件.
-- [MU Forms](https://github.com/mobiushorizons/mu-forms) -（P）React的简单表单库.
+- [MU Forms](https://github.com/mobiushorizons/mu-forms) -（P）React的失效简单表单库.
 - [Pimg](https://github.com/ooade/pimg)  -渐进式图像组件；  用于延迟加载图像.
 - [Preact Component Console](https://github.com/haensl/preact-component-console)  -控制台模拟器.  通过动态延迟模拟打字.
 - [Preact Translate](https://github.com/DenysVuika/preact-translate) -Preact的简约翻译（i18n）库.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) -基于Redux的轻量级状态容器，具有单个存储且没有reducer.
-- [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建preact组件，受到elm的启发.
+- [FPreact](https://github.com/UnwrittenFun/fpreact) -提供了一个替代的api，用于创建受到elm启发的preact组件.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) -零学习曲线的React，Preact和Inferno的快速轻松状态管理.
-- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 使用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
-- [hooked-head](https://github.com/JoviDeCroock/hooked-head)  -钩子操纵` <head>  DOM部分.  它有一个带有核心preact支持的子包（使用`preact / hooks`）.
+- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - 采用 [urql](https://github.com/FormidableLabs/urql) 带有Preact核心+挂钩.
+- [hooked-head](https://github.com/JoviDeCroock/hooked-head)  -钩子来操纵` <head>  DOM部分.  它有一个带有核心preact支持的子包（使用`preact / hooks`）.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -JSX断言测试_（没有DOM，就在Node中）_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) -使Preact组件可以访问产生的虚拟dom进行测试.
-- [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -预先模拟反应-测试-利用酶.
+- [Preact Test Utils](https://github.com/windyGex/preact-test-utils) -模拟反应-测试-利用酶.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) -简单而完整的Preact DOM测试实用程序，可鼓励良好的测试实践.
 
 ### Articles
@@ -106,7 +106,7 @@
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) -用于将Hacker News建立为PWA的Preact的演示.
 - [TodoMVC](https://github.com/developit/preact-todomvc)  -TodoMVC已在Preact中完成.  小于6kb，且速度很快.
 - [Colors App](https://github.com/lukeed/colors-app)  -PWA用于复制流行调色板中的值.  支持HEX，RGB和HSL格式.
-- [Tracks](https://github.com/jordic/tracks_preact/)  -PWA一般用于跟踪事物.  Gdrive同步.
+- [Tracks](https://github.com/jordic/tracks_preact/)  -PWA一般用于跟踪事件.  Gdrive同步.
 - [Hueify](https://github.com/kvartborg/hueify) -飞利浦色相灯的简单控制器.
 - [Golazon](https://github.com/sobstel/golazon) -足球数据mnmlist方式.
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) -使用Preact和PouchDB构建的渐进式Web应用程序.
@@ -131,12 +131,13 @@
 - [**Web Maker**](https://webmaker.app)  使用Preact打造的离线，超快的快速前端游乐场.  _（[Github project](https://github.com/chinchang/web-maker))_.
 - [**Intergram**](https://www.intergram.xyz)  链接到使用Preact构建的Telegram Messenger的实时聊天小部件.  _（[Github project](https://github.com/idoco/intergram))_.
 - [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) _([GitHub Project](https://github.com/safdarjamal/vanilla-preact/))_.
-- [**GHFresh**](https://code2k.github.io/ghfresh/)  监视GitHub存储库版本–使用Preact进行预渲染.  使用Preact Compat，TypeScript，Material-UI和Redux Toolkit构建.  _（[GitHub Project](https://github.com/code2k/ghfresh))_.
+- [**GHFresh**](https://code2k.github.io/ghfresh/)  监视GitHub存储库版本-使用Preact进行预呈现.  使用Preact Compat，TypeScript，Material-UI和Redux Toolkit构建.  _（[GitHub Project](https://github.com/code2k/ghfresh))_.
+- [**Passwords Fountain**](https://passwords-fountain.com/) -现代化且性能卓越的密码管理器界面，适用于_（[Github project](https://github.com/kolodziejczakM/passwords-fountain))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) -用于构建用户界面的声明性，高效且灵活的JavaScript库.
 - [Inferno](https://github.com/infernojs/inferno) -一个非常快的，类似于React的JavaScript库，用于构建现代用户界面.
-- [Rax](https://github.com/alibaba/rax) -兼容React的通用渲染引擎.
+- [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine.
 
 ### Tips
 贡献一些;）

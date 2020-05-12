@@ -334,6 +334,7 @@
 - [XSS in Google Colaboratory + CSP bypass](https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html) -由 [Michał Bentkowski](https://blog.bentkowski.info/).
 - [Another XSS in Google Colaboratory](https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html) -由 [Michał Bentkowski](https://blog.bentkowski.info/).
 - [</script> is filtered ?](https://twitter.com/strukt93/status/931586377665331200) -由 [@strukt93](https://twitter.com/strukt93).
+- [$20000 Facebook DOM XSS](https://vinothkumar.me/20000-facebook-dom-xss/) -由 [@vinodsparrow](https://twitter.com/vinodsparrow).
 
 <a name="tricks-sql-injection"></a>
 ### SQL Injection
@@ -770,6 +771,7 @@
 - [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) -由 [Mariem](https://pentester.land/).
 - [Implications of Loading .NET Assemblies](https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html) -由 [Brian Wallace](https://threatvector.cylance.com/en_us/contributors/brian-wallace.html).
 - [WCTF2019: Gyotaku The Flag](https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf) -由 [@t0nk42](https://twitter.com/t0nk42).
+- [How we abused Slack's TURN servers to gain access to internal services](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/) -由 [@sandrogauci](https://twitter.com/sandrogauci).
 
 ## Code of Conduct
 
