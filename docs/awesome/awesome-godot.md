@@ -147,6 +147,7 @@
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) -处理大量草，树叶和其他植被的插件（Godot 2.1）.
 - [gterm](https://github.com/TeddyDD/gterm) -GUI控件，其绘制类似于\ * nix终端模拟器（Godot 2.1）.
 - [GUT](https://github.com/bitwes/Gut) -用于在GDScript（Godot 3.x）中编写单元测试的实用程序.
+- [InGrid](https://github.com/Larpon/ingrid) -无限滚动网格（Godot 3.x）.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) -合并多边形.
 - [Qodot](https://github.com/Shfty/qodot-plugin)  -对Godot的Quake`.map`文件支持.  让您使用 [TrenchBroom](https://kristianduske.com/trenchbroom/)  用于关卡设计.  （Godot 3.2）.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) -单工确定性噪声函数.

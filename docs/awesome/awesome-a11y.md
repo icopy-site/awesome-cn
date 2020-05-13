@@ -10,7 +10,7 @@
 
 图片是一个插图 [Heydon Pickering](http://www.heydonworks.com/) 你可以 [see on Dribble](https://dribbble.com/shots/2121794-rock-n-roll-a11y).
 
-&gt;精选的出色辅助工具，文章和资源列表.
+&gt;精选的无障碍工具，文章和资源清单.
 &gt;灵感来自 [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) 和 [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
 
@@ -28,6 +28,7 @@
 - [Other Resources](https://github.com/brunopulis/awesome-a11y/blob/master/topics/other-resources.md)
 - [People to Follow in Web Accessibility](https://github.com/brunopulis/awesome-a11y/blob/master/topics/people.md)
 - [Talks](https://github.com/brunopulis/awesome-a11y/blob/master/topics/talks.md)
+- [Tools](https://github.com/brunopulis/awesome-a11y/blob/master/topics/tools.md)
 - [W3C Specification](https://github.com/brunopulis/awesome-a11y/blob/master/topics/specification.md)
 
 ## CONTRIBUTING

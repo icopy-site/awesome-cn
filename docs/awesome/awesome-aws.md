@@ -888,7 +888,7 @@ AWS存储库：
 * [devops-israel/aws-inventory :fire::fire:](https://github.com/devops-israel/aws-inventory) -在单个网页上显示所有AWS资源.
 * [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) -各种开发人员工具和AWS服务的Mac设置.
 * [dtan4/terraforming :fire::fire::fire::fire::fire:](https://github.com/dtan4/terraforming) -将现有资源导出为Terraform样式（tf，tfstate）.
-* [segmentio/stack :fire::fire::fire::fire:](https://github.com/segmentio/stack) -一组用于配置生产基础结构的Terraform模块.
+* [segmentio/stack :fire::fire::fire::fire::fire:](https://github.com/segmentio/stack) -一组用于配置生产基础结构的Terraform模块.
 * [j2labs/microarmy ](https://github.com/j2labs/microarmy) -部署微型实例以发起协同攻城.
 * [jpillora/grunt-aws :fire:](https://github.com/jpillora/grunt-aws) -进入Node.JS SDK的Grunt接口.
 * [jvehent/haproxy-aws :fire::fire:](https://github.com/jvehent/haproxy-aws) -有关使用HAProxy构建HTTPS堆栈的文档.

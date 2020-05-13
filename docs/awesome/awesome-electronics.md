@@ -172,12 +172,13 @@
 - [Micah Scott](https://www.youtube.com/user/micahjd) -逆向工程的视频日志，并以创新的方式重新利用消费电子硬件.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) -有关电子项目的教程，通常也适合初学者.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) -非常深入地拆卸，维修和审查实验室设备和原型产品.
-- [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - Excellent tutorials about basic and complex analog hardware.
+- [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) -关于基本和复杂模拟硬件的优秀教程.
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) -拆解，维修和修复，重点是经典电子设备.
 - [GreatScott](https://www.youtube.com/user/greatscottlab) -电子教程，项目以及操作方法.
 - [Julian Ilett](https://www.youtube.com/user/julius256) -购买他能找到的最便宜的电子模块，并尝试使用它们做有用的事情.
 - [MikesElectricStuff](https://www.youtube.com/channel/UCcs0ZkP_as4PpHDhFcmCHyA) -拆解，大型照明项目，X射线等等.
 - [Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) -在面包板上构建8位计算机的一系列视频，对所有子电路都有很好的解释.
+- [Robert Feranec](https://www.youtube.com/user/matarofe)  -100多个硬件设计技巧和窍门.  有关原理图设计和PCB布局的视频.
 
 
 ## Subscription Kit Services
@@ -186,7 +187,7 @@
 
 ## 3D Part Models
 - [GrabCad](https://grabcad.com/library/electronic-components-1) -社区支持的带有大量电子组件模型的3D模型数据库
-- [3D ContentCentral](https://www.3dcontentcentral.com) -专门用于零件3D模型的网站（需要登录）
+- [3D ContentCentral](https://www.3dcontentcentral.com) - Website dedicated to 3D models of parts (requires login)
 
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) -您可以在项目中使用的来自中国的廉价电子产品清单

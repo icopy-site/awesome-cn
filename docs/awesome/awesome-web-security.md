@@ -247,6 +247,7 @@
 <a name="oauth"></a>
 ### OAuth
 
+- [Introduction to OAuth 2.0 and OpenID Connect](https://pragmaticwebsecurity.com/courses/introduction-oauth-oidc.html) -由 [@PhilippeDeRyck](https://twitter.com/PhilippeDeRyck).
 - [What is going on with OAuth 2.0? And why you should not use it for authentication.](https://medium.com/securing/what-is-going-on-with-oauth-2-0-and-why-you-should-not-use-it-for-authentication-5f47597b2611) -由 [@damianrusinek](https://medium.com/@damianrusinek).
 
 ## Evasions
@@ -625,7 +626,7 @@
 - [DOMPurify](https://github.com/cure53/DOMPurify) -HTML，MathML和SVG的仅DOM，超快速，超耐性XSS消毒剂，由 [Cure53](https://cure53.de/).
 - [js-xss](https://github.com/leizongmin/js-xss) -使用白名单指定的配置对不受信任的HTML进行清理（以防止XSS） [@leizongmin](https://github.com/leizongmin).
 - [Acra](https://github.com/cossacklabs/acra) -用于SQL数据库的客户端加密引擎，具有强大的选择性加密，防止SQL注入和入侵检测功能 [@cossacklabs](https://www.cossacklabs.com/).
-- [Csper](https://csper.io) -一套用于构建/评估/监视内容安全策略的工具，以防止/检测跨站点脚本 [Csper](https://csper.io).
+- [Csper](https://csper.io) -一套用于构建/评估/监控内容安全策略的工具，以防止/检测跨站点脚本 [Csper](https://csper.io).
 
 <a name="tools-proxy"></a>
 ### Proxy

@@ -146,7 +146,7 @@
 
 * [PSR-7 Middlewares](https://github.com/oscarotero/psr7-middlewares) -鼓舞人心的便捷中间件集合.
 * [Relay](https://github.com/relayphp/Relay.Relay) -一个PHP 5.5 PSR-7中间件调度程序.
-* [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
+* [Stack](https://github.com/stackphp) -Symfony的可堆叠中间件库.
 * [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) -在PSR-7之上构建的PHP中间件.
 
 ### URL
@@ -459,7 +459,7 @@
 * [Baum](https://github.com/etrepat/baum) -Eloquent的嵌套集实现.
 * [CakePHP ORM](https://github.com/cakephp/orm) -使用DataMapper模式实现的对象关系映射器.
 * [Cycle ORM](https://github.com/cycle/orm) -PHP DataMapper，ORM.
-* [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) -主义行为扩展的集合.
+* [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Doctrine](https://www.doctrine-project.org/) -全面的DBAL和ORM.
 * [Laravel Eloquent](https://github.com/illuminate/database) -一个简单的ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) -PostgreSQL的对象模型管理器.
@@ -559,7 +559,7 @@
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -用于检测移动设备（包括平板电脑）的轻量级PHP类.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) -用于处理UTF-8字符串的可移植库.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) -具有UTF-8安全替换方法的字符串处理库.
-* [Slugify](https://github.com/cocur/slugify) -将字符串转换为段的库.
+* [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) -用于格式化SQL语句的库.
 * [Stringy](https://github.com/danielstjules/Stringy) -具有多字节支持的字符串处理库.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) -用于解析用户代理字符串的库.
@@ -610,7 +610,7 @@
 * [CakePHP Cache](https://github.com/cakephp/cache) -缓存库.
 * [Doctrine Cache](https://github.com/doctrine/cache) -缓存库.
 * [Metaphore](https://github.com/sobstel/metaphore) -使用信号灯缓存猛击防御，以防止产生狗爬式效果.
-* [Stash](https://github.com/tedious/Stash) - Another library for caching.
+* [Stash](https://github.com/tedious/Stash) -另一个用于缓存的库.
 * [Laminas Cache](https://github.com/laminas/laminas-cache) -另一个缓存库.
 
 ### Data Structure and Storage
@@ -747,6 +747,7 @@
 
 * [Hack](https://hacklang.org/) -HHVM的编程语言.
 * [HHVM](https://github.com/facebook/hhvm) -Facebook提供的用于PHP的虚拟机，运行时和JIT.
+* [PeachPie](https://github.com/peachpiecompiler/peachpie) -.NET和.NET Core的PHP编译器和运行时.
 
 ### Text Editors and IDEs
 *支持PHP的文本编辑器和集成开发环境（IDE）.*
@@ -844,6 +845,7 @@
 ### PHP Podcasts
 *有关PHP主题的播客.
 
+* [Laravel Podcast](https://laravelpodcast.com/) -Laravel和PHP开发新闻和讨论.
 * [PHP Internals New](https://phpinternals.news) -关于PHP内部原理的播客.
 * [PHP Roundtable](https://www.phproundtable.com/) -PHP圆桌会议是开发人员的临时聚会，讨论PHP书呆子关心的主题.
 * [PHP Town Hall](https://phptownhall.com/) -Ben Edmunds和Phil Sturgeon的休闲PHP播客.

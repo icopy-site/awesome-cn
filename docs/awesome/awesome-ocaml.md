@@ -7,7 +7,7 @@
 
 &gt; _ **在掌握OCaml的过程中，您将需要的一切.** _
 
- 精选的精选OCaml工具，框架，库和文章的参考清单.  此外，还有免费的收藏 [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) 和 [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
+ 精选的精选OCaml工具，框架，库和文章的参考清单.  此外，还有免费的收藏 [**books**](https://github.com/rizo/awesome-ocaml/tree/master/books), [**papers**](https://github.com/rizo/awesome-ocaml/tree/master/papers) and [**presentations**](https://github.com/rizo/awesome-ocaml/tree/master/presentations).
 
 如果您正在寻找有关OCaml的全面的社区驱动内容，请访问 [OCamlverse](https://ocamlverse.github.io/)!
 
@@ -72,7 +72,7 @@
 ## Books
 
 - [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)  –在More OCaml中，约翰·惠灵顿（John Whitington）进行了OCaml函数编程的曲折之旅，介绍了各种语言功能并描述了一些经典算法.  本书以处理PDF文件生成的大型示例作为结尾.  每章都有问题，以及有效的答案和提示.
-- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html)  艾伦·唐尼（Allen Downey）和尼古拉斯·蒙耶（Nicholas Monje）撰写的-《如何像计算机科学家一样思考》是一本基于OCaml语言的入门编程教科书.  它是Allen Downey编写的Think Python的修改版本.  它适用于编程的新手，以及那些了解一些编程但想在面向功能的范式中学习编程的人，或者只是想学习OCaml的人.
+- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html)  由艾伦·唐尼（Allen Downey）和尼古拉斯·蒙耶（Nicholas Monje）撰写-如何像计算机科学家一样思考是一本基于OCaml语言的入门编程教科书.  它是Allen Downey编写的Think Python的修改版本.  它适用于编程的新手，以及那些了解一些编程但想在面向功能的范式中学习编程的人，或者只是想学习OCaml的人.
 - [OCaml from the Very Beginning](http://ocaml-book.com/) 由J. Whitington撰写-OCaml从一开始就将吸引新的程序员，以及经验丰富的渴望探索功能语言（例如OCaml）的程序员.
 - [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)  由理查德·伯德（Richard Bird）撰写-总结了函数编程世界中的30个难题.  尽管是针对Haskell的，但算法问题却非常有趣，尝试在OCaml中解决它们也有助于功能编程的思考.  OCaml中的部分解决方案是 [here](https://github.com/MassD/pearls).
 - [Real World OCaml](https://realworldocaml.org/) 由Y. Minsky，A.Madhavapeddy和J. Hickey编写-面向大众的函数式编程.
@@ -157,6 +157,8 @@
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) —用于SQLite3的精简包装，具有简化的界面.
   - [ocaml-redis](https://github.com/0xffea/ocaml-redis) – OCaml的Redis绑定.
   - [mysql](http://ygrek.org.ua/p/ocaml-mysql/) –绑定到libmysqlclient以与MySQL数据库交互.
+  - [pgx](https://github.com/arenadotio/pgx) –纯OCaml PostgreSQL客户端库
+.
   - [mysql_protocol](https://github.com/slegrand45/mysql_protocol) –使用Bitstring库实现MySQL协议.
 -**新实现**
   - [Irmin](https://github.com/mirage/irmin) —遵循与Git相同的设计原则的分布式数据库.
@@ -418,7 +420,7 @@
 - [biocaml](https://github.com/biocaml/biocaml)  – OCaml生物信息学图书馆 <http://biocaml.org>  .
 - [guizmin](https://github.com/pveber/guizmin) –用于构建生物信息学管道的OCaml库.
 - [lacaml](https://mmottl.github.io/lacaml/) -用于BLAS / LAPACK的OCaml绑定（高性能线性代数Fortran库）.
-- [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
+- [obandit](http://freux.fr/oss/obandit.html) -OCaml库，用于多臂匪徒.
 - [onumerical](https://github.com/cheshire/onumerical) – OCaml的数字库.
 - [oml](https://github.com/hammerlab/oml) -用于一般数值工作的OCaml库.
 - [ocephes](https://github.com/rleonid/ocephes) -绑定到常用的`C`特殊函数库.
@@ -502,7 +504,7 @@
 -**工具**：
   - [COW](https://github.com/mirage/ocaml-cow) – Web上的Caml（COW）是一组解析器和语法扩展，可让您直接从OCaml代码中操作HTML，CSS，XML，JSON和Markdown.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)
-    有许多相关的网络库-
+    has many relevant web libraries —
     [Nethtml](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Nethtml.html)
     html解析器
     [Netasn1](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netasn1.html)
@@ -511,7 +513,7 @@
     对于Base64，带引号的可打印内容，URL编码和HTML转义，
     [Netmime](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Netmime.html)
     用于MIME处理等.请参见[
-    modules](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html)
+    模块]（http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html）
     在Ocamlnet的手册中.
   - [tyxml](http://ocsigen.org/tyxml) —用于构建有效的（根据W3C规范）Html和Svg树的库.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml)  – Js_of_ocaml是OCaml字节码到Javascript的编译器.  这样就可以在Web浏览器中运行Ocaml程序.

@@ -14,7 +14,7 @@
   * [GNU Health](http://health.gnu.org/) -电子病历，医院管理和健康信息系统.
   * [GNUmed](http://wiki.gnumed.de/bin/view/Gnumed) -电子病历软件.
   * [EtherCIS](http://ethercis.org) -企业临床数据存储库
-  * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) -通用，最少，基于标准，面向服务的openEHR临床数据存储.
+  * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) -通用，最小，基于标准，面向服务的openEHR临床数据存储.
   * [FreeHealth EHR](https://freehealth.io) -电子病历软件.
   * [FreeMedForms EMR](https://freemedforms.com) -电子病历软件.
   * [HospitalRun](http://hospitalrun.io/) -HospitalRun旨在为资源最少的环境提供最新的医院信息系统.
@@ -56,6 +56,7 @@
   * [Cornerstone](https://github.com/cornerstonejs/cornerstone) -旨在提供完整的基于Web的医学成像平台的开源项目.
   * [dcm4che](http://www.dcm4che.org/) -临床图像和对象管理.
   * [Drishti](http://sf.anu.edu.au/Vizlab/drishti/) -层析成像和电子显微镜数据可视化仪，面向科学家和非专业人士.
+  * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) -具有DICOMweb / WADO服务的RESTful实现的独立DICOMweb服务器
   * [DICOM Web Viewer](https://ivmartel.github.io/dwv/) -基于JavaScript / HTML5的DICOM查看器，带有标准工具，专注于支持各种屏幕尺寸.
   * [Endrov](http://www.endrov.net/) -用于复杂时空图像数据的图像和数据查看器软件，主要从生物学研究中的显微镜获得.
   * [GIMIAS](http://www.gimias.org/) -可扩展的图像计算和模拟软件，重点在于特定的工作流程.
@@ -64,6 +65,7 @@
   * [ITK](https://itk.org/) -工具包，用于开发具有2维和3维前沿算法的图像分割和图像配准程序.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) -交互式软件，用于3D图像导航，注释和自动分段，并强调用户友好性.
   * [LibreHealth Radiology](http://librehealth.io/projects/lh-radiology/) -LibreHealth Toolkit的定制版本，带有针对放射学和影像专业人士的其他工具.
+  * [OHIF](https://github.com/OHIF/Viewers) -OHIF零空间DICOM查看器和特定于肿瘤的病灶跟踪器
   * [OpenREM](http://openrem.org/) -物理学家的辐射暴露监测.
   * [Orthanc](http://www.orthanc-server.com) -用于医疗保健和医学研究的轻型DICOM服务器.
   * [Papaya](https://github.com/rii-mango/Papaya) -纯JavaScript医学研究图像查看器.
@@ -84,7 +86,7 @@
   * [Clinical Meteor project](https://github.com/clinical-meteor) -适用于FDA，HIPPA和HL7兼容应用程序的流星.
   * [FHIRBase](http://fhirbase.github.io) -基于FHIR标准的存储.
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) -FHIR标准的.NET Core实现.
-  * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - 在GoLang通用FHIR服务器实现.
+  * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) -GoLang中的通用FHIR服务器实现.
   * [Opal](http://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) -易于创建用于医学研究或其他研究项目的应用程序的软件框架.
   * [Spark](https://github.com/furore-fhir/spark) -FHIR服务器.
@@ -105,7 +107,7 @@
   * [Health data standards](https://github.com/projectcypress/health-data-standards)  -用于生成和使用各种医疗相关格式的Ruby库.  这些包括HITSP C32，QRDA I类和QRDA III类.
   * [MITK](http://mitk.org/wiki/MITK) -医学影像交互工具包.
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) -与Java Hapi HL7库桥接的节点模块.
-  * [Node-hl7-parser](https://github.com/RedoxEngine/redox-hl7-v2) -Redox的HL7 v2的开放源代码版本，用于基于模式的JSON解析器.
+  * [Node-hl7-parser](https://github.com/RedoxEngine/redox-hl7-v2) -Redox的HL7 v2的开放源代码版本，用于基于模式的JSON分析器.
   * [php-fhir](https://github.com/dcarbone/php-fhir) -根据HL7 FHIR规范创建PHP类的工具
   * [pynetdicom](https://github.com/pydicom/pynetdicom) -DICOM网络协议的Python实现
   * [Python HL7](https://github.com/johnpaulett/python-hl7) -用于将HL7 2.x版的消息解析为Python对象的简单库.
