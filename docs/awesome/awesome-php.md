@@ -22,7 +22,7 @@
 * [Composer Installers](https://github.com/composer/installers) -多框架Composer库安装程序.
 * [Composer](https://getcomposer.org/) -包和依赖项管理器.
 * [Melody](https://melody.sensiolabs.org/) -一种构建一个文件Composer脚本的工具.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) -一个PHP扩展安装程序.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
 ### Dependency Management Extras
 *与依赖项管理有关的其他内容.
@@ -38,14 +38,13 @@
 ### Frameworks
 * Web开发框架.*
 
-* [Aura Framework](http://auraphp.com/framework/) -由独立组件构建的框架.
 * [CakePHP](https://cakephp.org/) -快速的应用程序开发框架.
 * [Laminas](https://getlaminas.org/) -由各个组件组成的框架（以前称为Zend框架）.
-* [Laravel](https://laravel.com/) -另一个PHP框架.
-* [Nette](https://nette.org) -另一个由单个组件组成的框架.
+* [Laravel](https://laravel.com/) -具有表达力，优雅语法的Web应用程序框架.
+* [Nette](https://nette.org) -由成熟组件组成的Web框架.
 * [Phalcon](https://phalcon.io/en-us) -实现为C扩展的框架.
-* [Symfony](https://symfony.com/) -由各个组成部分组成的框架.
-* [Yii2](https://github.com/yiisoft/yii2/) -另一个PHP框架.
+* [Symfony](https://symfony.com/) -一组可重用的组件和一个Web框架.
+* [Yii2](https://github.com/yiisoft/yii2/) -快速，安全，高效的Web框架.
 
 ### Framework Extras
 *与Web开发框架有关的其他内容.*
@@ -56,7 +55,7 @@
 
 * [Backdrop](https://backdropcms.org) -针对中小型企业和非营利组织的CMS（Drupal的分支）.
 * [Concrete5](https://www.concrete5.org/) -以最低的技术水平为目标的CMS.
-* [Drupal](https://www.drupal.org) -企业级CMS.
+* [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) -现代的平面文件CMS.
 * [Joomla](https://www.joomla.org/) -另一个领先的CMS.
 * [Magento](https://magento.com/) -最受欢迎的电子商务平台.
@@ -79,7 +78,6 @@
 ### Micro Frameworks
 *微型框架和路由器.*
 
-* [Bullet PHP](http://bulletphp.com/) -用于构建REST API的微型框架.
 * [Laravel-Zero](https://laravel-zero.com) -用于控制台应用程序的微框架.
 * [Lumen](https://lumen.laravel.com) -Laravel制作的微框架.
 * [Mezzio](https://getexpressive.org/) -Laminas的微框架.
@@ -88,7 +86,7 @@
 * [Slim](https://www.slimframework.com/) -另一个简单的微框架.
 
 ### Micro Framework Extras
-*Extras related to micro frameworks and routers.*
+*与微框架和路由器有关的其他内容.
 
 * [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) -Slim的骨架.
 * [Slim Twig View](https://github.com/slimphp/Slim-Views) -将Twig整合到Slim中.
@@ -196,7 +194,7 @@
 * [Disco](https://github.com/bitExpert/disco) -与PSR-11兼容的基于注释的依赖项注入容器.
 * [PHP-DI](http://php-di.org/) -支持自动装配的依赖项注入容器.
 * [Pimple](https://pimple.symfony.com/) -一个很小的依赖项注入容器.
-* [Symfony DI](https://github.com/symfony/dependency-injection) -依赖项注入容器组件.
+* [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
 ### Imagery
 *用于处理图像的库.*
@@ -350,7 +348,7 @@
 * [PHPSpy](https://github.com/adsr/phpspy) -低开销的采样分析器.
 * [Tideways.io](https://tideways.com/) -监视和性能分析工具.
 * [Tracy](https://github.com/nette/tracy) -一个简单的错误检测，日志记录和时间测量库.
-* [xDebug](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
+* [xDebug](https://github.com/xdebug/xdebug) -用于PHP的调试和配置文件工具.
 * [XHProf](https://github.com/phacility/xhprof) -最初由Facebook开发的分析工具.
 * [Z-Ray](https://www.zend.com/products/z-ray) -用于Zend Server的调试和配置文件工具.
 
@@ -503,7 +501,7 @@
 * [SphinxQL query builder](https://foolcode.github.io/SphinxQL-Query-Builder/) -的查询库 [Sphinx](https://sphinxsearch.com/) 搜索引擎.
 
 ### Command Line
-*Libraries related to the command line.*
+*与命令行相关的库.
 
 * [Aura.Cli](https://github.com/auraphp/Aura.Cli) -为命令行界面提供等效的request（Context）和response（Stdio）对象，包括Getopt支持，以及用于描述命令的独立Help对象.
 * [Boris](https://github.com/borisrepl/boris) -一个很小的PHP REPL.
@@ -540,7 +538,7 @@
 
 * [Cebe Markdown](https://github.com/cebe/markdown) -快速且可扩展的Markdown解析器.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) -高度可扩展的Markdown解析器，完全支持 [CommonMark spec](https://spec.commonmark.org/).
-* [Decoda](https://github.com/milesj/decoda) - A lightweight markup parser library.
+* [Decoda](https://github.com/milesj/decoda) -轻量级的标记解析器库.
 * [Emoji](https://github.com/heyupdate/Emoji) -将Unicode字符和名称转换为表情符号图像的库.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) -将HTML转换为Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) -HTML5解析器和序列化器库.
@@ -557,9 +555,9 @@
 * [Hoa String](https://github.com/hoaproject/Ustring) -另一个UTF-8字符串库.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php)  -Python的jieba的PHP端口.  中文文本分割，用于自然语言处理.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -用于检测移动设备（包括平板电脑）的轻量级PHP类.
-* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) -用于处理UTF-8字符串的可移植库.
+* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) -具有UTF-8安全替换方法的字符串处理库.
-* [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
+* [Slugify](https://github.com/cocur/slugify) -将字符串转换为段的库.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) -用于格式化SQL语句的库.
 * [Stringy](https://github.com/danielstjules/Stringy) -具有多字节支持的字符串处理库.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) -用于解析用户代理字符串的库.
@@ -669,7 +667,7 @@
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) -官方的PHP AWS开发工具包库.
 * [AsyncAWS](https://async-aws.com/) -一个非官方的异步PHP AWS SDK.
-* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) -正式的Campaign Monitor PHP库.
+* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) -官方的PHP Dropbox SDK库.
 * [Github](https://github.com/KnpLabs/php-github-api) -与Github API交互的库.
 * [Mailgun](https://github.com/mailgun/mailgun-php) 官方Mailgun PHP API.

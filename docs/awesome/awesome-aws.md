@@ -794,7 +794,7 @@ AWS存储库：
 
 AWS存储库：
 
-* [amazon-sqs-java-messaging-lib](https://github.com/awslabs/amazon-sqs-java-messaging-lib) -持有Java消息服务以与SQS进行通信.
+* [amazon-sqs-java-messaging-lib :fire:](https://github.com/awslabs/amazon-sqs-java-messaging-lib) -持有Java消息服务以与SQS进行通信.
 
 社区回购：
 

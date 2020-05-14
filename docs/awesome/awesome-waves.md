@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="msmolyakov/awesome-waves"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-<p align="center"><a href="https://wavesplatform.com/"><img src="https://raw.githubusercontent.com/msmolyakov/awesome-waves/master/logo.svg?sanitize=true" width="50%"/></a></p>
+<p align="center"><a href="https://wavesprotocol.org/"><img src="https://raw.githubusercontent.com/msmolyakov/awesome-waves/master/logo.svg?sanitize=true" width="50%"/></a></p>
 
 ## Awesome Waves [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -12,9 +12,9 @@ Waves是一个针对Web 3.0应用程序和分散式解决方案的开源区块�
 
 ## Official
 
-- [Official website](https://wavesplatform.com/)
+- [Official website](https://wavesprotocol.org/)
 - [Waves on GitHub](https://github.com/wavesplatform/)
-- [Documentation](https://docs.wavesplatform.com/)
+- [Documentation](https://docs.wavesprotocol.org/)
 
 ## Learn
 
@@ -33,14 +33,14 @@ Waves是一个针对Web 3.0应用程序和分散式解决方案的开源区块�
 - [How to Build, Deploy and Test a Waves Ride dApp](https://medium.com/wavesprotocol/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2)  -如何编写简单的分散应用程序（dApp）并在Waves节点上运行它.  （[ru](https://habr.com/ru/company/waves/blog/459773/))
 - [How to: Waves dApps — DAO. Example using Ride-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8)  -如何创建简单的DAO dApp用于项目的投票和集体投资.  （[ru](https://habr.com/ru/post/447808/))
 - [How to: Waves dApps — Prediction Markets example with Ride-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) -如何创建简单的Prediction Market dApp（如Augur或Gnosis）以创建新市场，交易份额并在预测成真时获胜.
-- [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html)  -HOA（房主协会）负责人问建筑物的房客：“亲爱的居民，您是否同意在建筑物院子里建造儿童游乐场？”.  目标：在Waves区块链上在租户之间实施此类投票.
+- [Simple voting on the Waves blockchain](https://docs.wavesprotocol.org/en/smart-contracts/simple-voting-on-the-waves-blockchain.html)  -HOA（房主协会）负责人问建筑物的房客：“亲爱的居民，您是否同意在建筑物院子里建造儿童游乐场？”.  目标：在Waves区块链上在租户之间实施此类投票.
 
 ## Products
 
 ### Wallet
 
 - [Waves.Exchange Wallet](https://waves.exchange/) -Waves.Exchange提供的Web和桌面客户端，使您能够加入生态系统并享受全方位的数字资产管理功能.
-- [Waves Keeper](https://wavesplatform.com/products-keeper) -官方的浏览器扩展程序允许管理私钥，并与启用Waves的Web服务和dApp安全且无缝地交互.
+- [Waves Keeper](https://wavesprotocol.org/protocol/keeper) -官方的浏览器扩展程序允许管理私钥，并与启用Waves的Web服务和dApp安全且无缝地交互.
 - [iOS wallet](https://itunes.apple.com/us/app/waves-wallet/id1233158971) -Waves.Exchange的iPhone电子钱包.
 - [Android wallet](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet) -Waves.Exchange提供的Android设备钱包.
 - [WavesFX](https://github.com/wavesfx/wavesfx) -适用于Windows，macOS和Linux的社区驱动的本地桌面钱包，可为用户提供多网络和多地址功能.
@@ -66,7 +66,7 @@ Waves是一个针对Web 3.0应用程序和分散式解决方案的开源区块�
 
 ### Testnet
 
-Testnet是稳定的网络，具有从Mainnet完全复制的配置和节点版本，但是允许获得免费的Waves令牌来测试您需要的东西.
+Testnet is stable network and has fully copied configurations and nodes version from mainnet, but allows to earn free Waves tokens to test something what you need.
 
 - [Explorer](https://wavesexplorer.com/testnet)  -官方测试网浏览器.  它有一个 [faucet](https://wavesexplorer.com/testnet/faucet) 获取一些免费的Waves令牌.
 - [Node API](https://nodes-testnet.wavesnodes.com/) -testnet节点的API.
@@ -168,7 +168,6 @@ Testnet是稳定的网络，具有从Mainnet完全复制的配置和节点版本
 - [Discord](https://discordapp.com/invite/cnFmDyA) -官方不和.
 - [Waves Community Portal](https://wavescommunity.com/) -官方门户网站具有构成Waves生态系统的一些工具和项目.
 - [Waves Community Forum](https://forum.wavesplatform.com/) -官方论坛.
-- [Support](https://support.wavesplatform.com/) -官方知识库和支持.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/wavesplatform)  -询问技术问题的最佳场所.  使用标签`wavesplatform`和`ride`.
 
 ### Africa
@@ -201,7 +200,7 @@ Testnet是稳定的网络，具有从Mainnet完全复制的配置和节点版本
 
 ### Portuguese
 
-- [Telegram - WavesBrasil](https://t.me/WavesBrasil) - Chat de Telegram para a Comunidade da Waves.
+- [Telegram - WavesBrasil](https://t.me/WavesBrasil) -Waves社区的电报聊天.
 - [Telegram - Waves Dev Jedi 🇧🇷 🇵🇹](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) -dApp开发人员的电报聊天.
 
 ### Russian

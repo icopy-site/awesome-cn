@@ -90,6 +90,13 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ## Articles
 
+### Architecture
+
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
+- [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
+- [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
+
 ### Best Practices
 
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
@@ -101,10 +108,9 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### Codelabs
 
 - [Build a Story Web Component with LitElement](https://dev.to/straversi/build-a-story-web-component-with-litelement-e59)
-- [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
-- [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
 - [Open Web Components: Codelabs](https://open-wc.org/codelabs/)
-- [Recreating The Arduino Pushbutton Using SVG And <lit-element>](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
+- [Recreating The Arduino Pushbutton Using SVG And `<lit-element>`](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
+- [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
 - [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73)
 
 ### Styling

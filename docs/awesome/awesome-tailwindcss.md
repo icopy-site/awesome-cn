@@ -13,7 +13,7 @@
 
 ---
 
- **[Tailwind UI](https://tailwindui.com)**-设计精美的组件和模板，使用您已经了解和喜欢的CSS框架手工制作.
+ **[Tailwind UI is hiring](https://jobs.tailwindui.com/full-stack-developer)**-帮助定义和构建其开发人员工具和产品的未来.
 
 ---
 
@@ -40,7 +40,7 @@
 - [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) -添加了“边界图像”渐变实用程序.
 - [RFS](https://github.com/aerni/tailwindcss-rfs) -添加 [`RFS`](https://github.com/twbs/rfs) 实用程序.
 - [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) -添加`font-variant-numeric`实用程序.
-- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) -根据“ prefers-color-scheme”媒体查询添加“ dark”变体.
+- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) -添加与Vue.js的`v-cloak`指令配合使用的可见性类.
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) -重新添加在Tailwind CSS 1.0之前删除的`list-reset`类.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) -添加流体上浆工具.
@@ -64,7 +64,7 @@
 - [Truncate Multiline](https://github.com/jhta/tailwindcss-truncate-multiline) -添加了用于截断多行文本元素的实用程序.
 - [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
 - [Dark Mode with Class](https://github.com/danestves/tailwindcss-darkmode) -添加基于CSS类的“深色”变体.
-- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的类名，以用于边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式.
+- [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -为边距，填充，边框宽度，边框半径，文本对齐，浮动和书写模式的CSS逻辑属性生成类名.
 - [CSS Scroll Snap](https://github.com/hawezo/tailwindcss-scroll-snap) -添加了“滚动捕捉”实用程序.
 - [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) -根据配置的颜色添加“ box-shadow”实用程序.
 - [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) -为带有可配置边框和背景的工具提示箭头添加CSS实用程序.
@@ -74,7 +74,7 @@
 
 -  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) -添加了屏幕阅读器实用程序.
 -  [Object Fit](https://github.com/hendrikeng/tailwindcss-object-fit) -添加了object-fit实用程序.
--  [Object Position](https://github.com/hacknug/tailwindcss-object-position) - Adds `object-position` utilities.
+-  [Object Position](https://github.com/hacknug/tailwindcss-object-position) -添加了“ object-position”实用程序.
 -  [Accessibility](https://github.com/jack-pallot/tailwindcss-accessibility) -添加了屏幕阅读器实用程序.
 -  [Layout](https://github.com/benface/tailwindcss-layout) -添加了一些布局实用程序.
 -  [Important](https://github.com/chasegiunta/tailwindcss-important) -添加了一个“重要”变体.
@@ -104,7 +104,7 @@
 
 - [Tailwind CSS website](https://tailwindcss.com) -Tailwind CSS官方网站.
 - [Tailwind CSS on GitHub](https://github.com/tailwindcss/tailwindcss) -官方Tailwind CSS存储库.
-- [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
+-  [Tailwind UI](https://tailwindui.com)  -使用Tailwind CSS制作的组件库.
 - [Discussion Repository](https://github.com/tailwindcss/discuss) -官方的Tailwind CSS存储库，用于讨论.
 - [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 - [Built With Tailwind](https://builtwithtailwind.com/) -使用Tailwind CSS构建的社区驱动的很棒的网站.
@@ -194,7 +194,7 @@
 
 ### Learning
 
-**图例**：样本·设置教程·视频教程·组件或页面教程·演员表
+**传奇**：示例·设置教程·视频教程·组件或页面教程·演员
 
 -  [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) -使用CSS自定义属性和Tailwind CSS切换主题.
 -  [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples) -官方插件示例.
@@ -229,7 +229,7 @@
 -  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
 -  [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中使用Tailwind CSS构建Vue.js组件.
 -  [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
--  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) - Building a navigation with Tailwind CSS.
+-  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.
 -  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
 -  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
 -  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
@@ -243,7 +243,7 @@
 ### Apps & Websites
 
 - [Josh Manders](https://joshmanders.com)
-- [App Metrics](https://appmetrics.co)
+- [Audience](https://startaudience.com)
 - [Matt Stauffer](https://mattstauffer.com)
 - [Miguel Piedrafita](https://miguelpiedrafita.com)
 - [Blogcast](https://blogcast.host)

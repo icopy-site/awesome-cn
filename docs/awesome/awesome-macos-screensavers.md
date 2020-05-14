@@ -4,7 +4,7 @@
 
 &gt;精选的macOS屏幕保护程序列表.
 
-受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 
 
@@ -70,7 +70,7 @@ Free
 
 ### ScreenMazer
 
-&gt;在显示当前时间的同时，不断构建然后解决迷宫问题.
+&gt;在显示当前时间的同时连续构建然后解决迷宫问题.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
@@ -131,6 +131,14 @@ Free
 Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
+
+### Fruit
+
+&gt;动画的老式苹果徽标
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/fruit.png)](https://github.com/ppamorim/fruit)
+
+Free
 
 ## Retro
 

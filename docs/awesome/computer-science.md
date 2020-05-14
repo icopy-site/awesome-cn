@@ -61,7 +61,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 -要分组，请使用 [cohorts repository](https://github.com/ossu/cohorts) 查找或创建适合您的同类群组.
 -我们建议您在Core CS中完成所有课程，仅在确定您以前已经学习过这些材料后才跳过课程.
 -为简单起见，我们建议您按从上到下的顺序学习课程（尤其是核心CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) 根据他们的先决条件.
- -高级CS课程为选修课.  选择一个您想成为专家的科目（例如高级编程），并选择该标题下的所有课程.  您也可以创建自己的自定义主题，但是我们建议您从社区中获得对所选主题的验证.
+- Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
 
 *不要无视您在每门课程开始时签署的行为准则*！
 
@@ -102,7 +102,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
  _《计算机基础知识》也将从向您介绍Python开始.  然后继续进行介绍计算机科学方面的主题，例如排序和递归.  这将使您了解以下课程的内容.  （完成“计算机基础知识”的学生可以跳过计算机科学入门，并开始学习CS工具.）
 
-**Topics covered**:
+**涵盖的主题**：
 简单的程序
 简单的数据结构
 
@@ -115,7 +115,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
  本课程将向您介绍计算机科学领域.  从以上课程或其他地方学习过编程的学生，都应选修本课程，以期掌握各种材料.  如果您想要完成更多的课程，计算机科学很可能适合您！
 
-**Topics covered**:
+**涵盖的主题**：
 `computation`
 命令式编程
 基本数据结构和算法
@@ -128,7 +128,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 ### Introduction to CS Tools
  理解理论很重要，但是您也应该创建程序.  有许多工具被广泛使用以简化该过程.  立即学习它们，以简化您将来编写程序的工作.
 
-**Topics covered**:
+**涵盖的主题**：
 终端和外壳脚本
 `vim`
 命令行环境
@@ -145,7 +145,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 除非另有说明，否则**必修**必修的所有CS课程.
 
 ### Core programming
-**Topics covered**:
+**涵盖的主题**：
 功能编程
 “测试设计”
 程序要求
@@ -166,9 +166,9 @@ Lisp家庭语言（通过球拍）
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)  |  7周  每周8-10小时|  没有
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  |  6周  每周8-10小时|  如何编码：简单数据
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  4周  每周8-16小时|  推荐：Java，C
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3周  每周8-16小时|  编程语言，A部分
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3周  每周8-16小时|  编程语言，B部分
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5周  每周4-8小时|  推荐：Java，C
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3周  每周4-8小时|  编程语言，A部分
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3周  每周4-8小时|  编程语言，B部分
 
 ### Math Electives
 **学生必须选择以下主题之一**：微积分，线性代数，逻辑或概率.
@@ -178,7 +178,7 @@ Lisp家庭语言（通过球拍）
 :-- | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)  |  13周|  每周6-10个小时| [pre-calculus](https://www.futurelearn.com/courses/precalculus)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)  |  13周|  每周5-10个小时|  微积分1A
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)  |  13周|  每周5-10个小时|  微积分1B
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)  |  6周  每周5-10个小时|  微积分1B
 
 #### Linear Algebra
  课程  持续时间|  努力  先决条件
@@ -199,12 +199,12 @@ Lisp家庭语言（通过球拍）
 ### Core Math
 除了选修数学外，学生还必须完成以下有关离散数学的课程.
 
-**Topics covered**:
+**涵盖的主题**：
 离散数学
 数学证明
 基本统计
 `O-notation`
-离散概率
+`discrete probability`
 还有更多
 
  课程  持续时间|  努力  注意事项  先决条件
@@ -213,7 +213,7 @@ Lisp家庭语言（通过球拍）
 
 ### Core systems
 
-**Topics covered**:
+**涵盖的主题**：
 过程编程
 `手动内存管理`
 布尔代数
@@ -239,7 +239,7 @@ Lisp家庭语言（通过球拍）
 
 ### Core theory
 
-**Topics covered**:
+**涵盖的主题**：
 分而治之
 `排序和搜索`
 随机算法
@@ -269,7 +269,7 @@ Lisp家庭语言（通过球拍）
 `Cryptography`
 还有更多
 
- 注意：** _这些课程是临时推荐的_ **.  有一个开放 [Request For Comment](https://github.com/ossu/computer-science/issues/639)  关于安全课程的选择.  鼓励贡献者比较RFC中的各种课程并提供反馈.
+ 注意：** _这些课程是临时推荐的_ **.  有一个开放 [Request For Comment](https://github.com/ossu/computer-science/issues/639) on security course selection. Contributors are encouraged to compare the various courses in the RFC and offer feedback.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
@@ -285,7 +285,7 @@ Lisp家庭语言（通过球拍）
 
 ### Core applications
 
-**Topics covered**:
+**涵盖的主题**：
 敏捷方法论
 `REST`
 软件规格
@@ -320,7 +320,7 @@ Lisp家庭语言（通过球拍）
 
 ### Advanced programming
 
-**Topics covered**:
+**涵盖的主题**：
 调试理论与实践
 面向目标的编程
 GPU编程
@@ -344,7 +344,7 @@ GPU编程
 
 ### Advanced systems
 
-**Topics covered**:
+**涵盖的主题**：
 数字信号
 组合逻辑
 CMOS技术
@@ -364,9 +364,9 @@ CMOS技术
 :-- | :--: | :--: | :--:
 [Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0) <sup>1</sup> |  7周  每周8-10小时| [calculus](https://www.khanacademy.org/math/calculus-1), [basic mechanics](https://www.khanacademy.org/science/physics)
 [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0)  |  7周  每周8-10小时|  电磁学，第1部分
-[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0) | 10 weeks | 6 hours/week | electricity, magnetism
+[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)  |  10周  每周6个小时|  电，磁
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)  |  10周  每周6个小时|  计算结构1
-[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | 10 weeks | 6 hours/week | Computation Structures 2
+[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)  |  10周  每周6个小时|  计算结构2
 
 ** <sup>1</sup>注**：
 这些课程假定您具备基本物理知识.
@@ -376,7 +376,7 @@ CMOS技术
 
 ### Advanced theory
 
-**Topics covered**:
+**涵盖的主题**：
 正式语言
 车床
 `computability`
@@ -448,7 +448,7 @@ or
 通过拉取请求并使用我们 [community](#community) 向同学宣告的渠道.
 
 然后，来自OSSU的同行和导师将对您的项目进行非正式评估.
-您不会在传统意义上被“打分”-每个人都有他们认为成功的标准.
+您不会在传统意义上被“打分”-每个人都有自己认为成功的标准.
 评估的目的是作为您第一次向世界宣布您是计算机科学家
 并获得聆听反馈（正面和负面）并大步前进的经验.
 
@@ -470,7 +470,7 @@ or
 
 ## Congratulations
 
- 完成上述课程要求后，您将获得与计算机科学相同的学士学位.  恭喜你！
+ 完成上述课程的要求后，您将完成与计算机科学相同的学士学位的等同工作.  恭喜你！
 
  接下来是什么？  可能性是无限的和重叠的：
 

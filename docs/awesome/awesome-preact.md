@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="ooade/awesome-preact"></div>
+<div class="github-widget" data-repo="preactjs/awesome-preact"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Preact [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -145,7 +145,7 @@
 ---
 ### Contribution
  随时欢迎您的贡献和建议.  使用Preact构建出色的东西，与我们分享;） <br/>
-确保您遵循 [guidelines](https://github.com/ooade/awesome-preact/blob/master//contributing.md) .  谢谢！
+确保您遵循 [guidelines](https://github.com/preactjs/awesome-preact/blob/master//contributing.md) .  谢谢！
 
 ---
 ### License

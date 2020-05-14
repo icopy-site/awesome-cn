@@ -1,8 +1,8 @@
-<div class="github-widget" data-repo="Tom2718/Awesome-Ethereum"></div>
+<div class="github-widget" data-repo="ttumiel/Awesome-Ethereum"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/>
 <div align="center">
-  <img width="250px" src="https://raw.githubusercontent.com/Tom2718/Awesome-Ethereum/master/./project_logo.jpg">
+  <img width="250px" src="https://raw.githubusercontent.com/ttumiel/Awesome-Ethereum/master/./project_logo.jpg">
 </div>
 <br/>
 <div align="center">
@@ -49,7 +49,7 @@
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) -智能合约教程，重点是在代码之前加深了解.
 - [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) -关于如何编写DApp的10部分教程.
 - [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/) -开始开发DApp的非正式指南.
-- [Full Stack DApp Tutorial Series](https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) -使用各种框架的全栈DApp.
+- [Full Stack DApp Tutorial Series](https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - Full stack DApps using various frameworks.
 - [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html) -用于在以太坊上构建的Gitbook，可更深入地了解技术功能.
 - [Learning Solidity Tutorial Series](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) -使用Metamask和Remix IDE构建智能合约.
 - [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) -使用Metamask，Truffle，Remix，React和IPFS创建一个赌博DApp.
@@ -70,7 +70,7 @@
 - [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) -关于以太坊的问答.
 - [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety) -有关智能合约安全最佳实践的以太坊Wiki.
 - [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/) -以太坊账户，天然气和交易的功能描述.
-- [Ethernaut Smart Contract Capture the Flag](https://ethernaut.zeppelin.solutions/) - Practice hacking Smart Contracts.
+- [Ethernaut Smart Contract Capture the Flag](https://ethernaut.zeppelin.solutions/) -练习破解智能合约.
 - [Ethereum Syllabus](https://novicedock.com/learn/cryptocurrency/ethereum) -学习以太坊的教学大纲.
 - [Cryptocurrency Security: University of Illinois 2016](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/) -加密货币安全课程.
 - [Stanford CS 251(p): Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251_fall15/) -斯坦福比特币和加密货币课程.
@@ -169,7 +169,7 @@
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/Tom2718/Awesome-Ethereum/blob/master/contributing.md) 第一.
+ 欢迎捐款！  阅读 [contribution guidelines](https://github.com/ttumiel/Awesome-Ethereum/blob/master/contributing.md) 第一.
 受启发 [Awesome Python](https://github.com/vinta/awesome-python) 和 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## License

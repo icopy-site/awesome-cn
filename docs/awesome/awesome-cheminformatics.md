@@ -100,6 +100,7 @@
 
 * [Gromacs](http://www.gromacs.org/) -分子动力学软件包，主要用于模拟蛋白质，脂质和核酸.
 * [OpenMM](http://openmm.org/) -用于分子模拟的高性能工具包，包括适用于Python，C，C ++甚至Fortran的广泛语言绑定.
+* [NAMD](https://www.ks.uiuc.edu/Research/namd/) -为大型生物分子系统的高性能模拟而设计的并行分子动力学代码.
 * [MDTraj](https://github.com/mdtraj/mdtraj) -分子动力学轨迹分析.
 * [cclib](https://github.com/cclib/cclib) -用于计算化学日志文件的解析器和算法.
 
@@ -155,7 +156,7 @@
 ## See Also
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) -深度学习生物学回购中的化学信息学和药物发现部分.
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个清单着重于与化学有关的Python内容.
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个列表重点关注与化学有关的Python内容.
 * [MolSSI Molecular Software Database](https://molssi.org/software-search/)
 
 ## License

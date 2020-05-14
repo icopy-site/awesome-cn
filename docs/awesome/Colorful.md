@@ -6,7 +6,7 @@
 
 ## Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 __精选的精选资源清单，供您选择下一个配色方案.
-受到启发 __[awesome](https://github.com/sindresorhus/awesome)_ _清单.  请阅读 __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__贡献之前.
+受启发 __[awesome](https://github.com/sindresorhus/awesome)_ _清单.  请阅读 __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__贡献之前.
 
 
 ## Tools
@@ -26,6 +26,7 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [granim.js](https://github.com/sarcadass/granim.js) -创建流体和交互式渐变动画.
 - [tinygradient](https://github.com/mistic100/tinygradient) -快速和小的渐变操作.
 - [TinyColor](https://github.com/bgrins/TinyColor) -快速，小巧的颜色处理和JavaScript转换.
+- [Distinct Colors](https://github.com/internalfx/distinct-colors) -生成视觉上不同颜色的调色板.
 
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) -保持色度不变，轻松选择调色板.
@@ -52,8 +53,8 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [Shutterstock Spectrum](http://www.shutterstock.com/labs/spectrum/) -通过光谱按颜色搜索图像.
 - [ColRD](http://colrd.com/) -创建并与世界分享色彩灵感.
 - [CheckMyColours](http://www.checkmycolours.com/) -检查所有DOM元素的颜色组合以获得足够的对比度.
-- [Contrast-A](http://www.dasplankton.de/ContrastA/) -检查颜色组合是否可以接受对比度和显示.
-- [Palettable](http://www.palettable.io/) -无需事先设计知识即可生成漂亮的调色板.
+- [Contrast-A](http://www.dasplankton.de/ContrastA/) -检查颜色组合以获得可接受的对比度和显示.
+- [Palettable](http://www.palettable.io/) -在没有事先设计知识的情况下生成漂亮的调色板.
 - [Colorgorical](http://vrl.cs.brown.edu/color) -生成n种颜色的调色板.
 - [Color Library](http://colorlibrary.ch/) -自动分色.
 - [Color Supply](http://colorsupplyyy.com/app/) -来自世界各地的设计师和插画家的鼓舞人心的调色板.
@@ -77,8 +78,8 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [BrandColors](http://brandcolors.net/) -全球最大品牌的官方颜色代码.
 - [Color Lisa](http://www.colorlisa.com/) -世界上最伟大的艺术家的调色板杰作.
 - [Cohesive Colors](http://javier.xyz/cohesive-colors/) -创建具有凝聚力的配色方案的工具.
-- [Colordrop](https://colordrop.io/) -精美的调色板的集合.
-- [Open Color](https://yeun.github.io/open-color/) -颜色经过了十度和近视的测试.
+- [Colordrop](https://colordrop.io/) -外观精美的调色板的集合.
+- [Open Color](https://yeun.github.io/open-color/) -颜色经过十色和近视测试.
 - [ColorClaim](http://www.vanschneider.com/colors) -微妙的色彩组合.
 - [Color Farm](http://color.farm/) -从流行的Dribbble镜头中精选的颜色.
 - [WebGradients](https://webgradients.com/) -免费收集180个线性渐变.
