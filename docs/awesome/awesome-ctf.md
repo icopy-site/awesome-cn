@@ -6,7 +6,7 @@
 
 ### Contributing
 
-请快速浏览 [contribution guidelines](https://github.com/apsdehal/ctf-tools/blob/master/CONTRIBUTING.md) 第一.
+请快速浏览一下 [contribution guidelines](https://github.com/apsdehal/ctf-tools/blob/master/CONTRIBUTING.md) 第一.
 
 #### _If you know a tool that isn't present here, feel free to open a pull request._
 
@@ -38,12 +38,13 @@
 
 *可用于托管CTF的项目*
 
-- [CTFd](https://github.com/isislab/CTFd) -平台，用于托管来自纽约大学丹登分校ISISLab的危险风格CTF.
+- [CTFd](https://github.com/isislab/CTFd) -平台，可托管来自纽约大学丹登分校ISISLab的危险风格CTF.
 - [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) -开发，部署和维护自己的CTF基础架构.
-- [FBCTF](https://github.com/facebook/fbctf) -举办Facebook抓旗大赛的平台.
+- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook.
 - [Haaukins](https://github.com/aau-network-security/haaukins)-用于安全教育的高度可访问且自动化的虚拟化平台.
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) -CTF评分平台.
 - [Mellivora](https://github.com/Nakiami/mellivora) -用PHP编写的CTF引擎.
+- [MotherFucking-CTF](https://github.com/andreafioraldi/motherfucking-ctf)  -Badass轻型平台，用于托管CTF.  不涉及JS.
 - [NightShade](https://github.com/UnrealAkama/NightShade) -一个简单的安全CTF框架.
 - [OpenCTF](https://github.com/easyctf/openctf)  -装在盒子里的CTF.  所需的设置最少.
 - [PicoCTF](https://github.com/picoCTF/picoCTF)  -用于运行picoCTF的平台.  托管任何CTF的绝佳框架.
@@ -86,10 +87,10 @@
 - [CyberChef](https://gchq.github.io/CyberChef) -用于分析和解码数据的Web应用程序.
 - [FeatherDuster](https://github.com/nccgroup/featherduster) -自动化的模块化密码分析工具.
 - [Hash Extender](https://github.com/iagox86/hash_extender) -用于执行哈希长度扩展攻击的实用工具.
-- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) -一个执行填充Oracle攻击的CLI工具.
+- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) -用于执行填充Oracle攻击的CLI工具.
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) -破解PkZip加密的工具.
 - [QuipQuip](https://quipqiup.com) -用于破坏替换密码或vigenere密码（无密钥）的在线工具.
-- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) -用于通过各种攻击恢复RSA私钥的工具.
+- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) -使用各种攻击来恢复RSA私钥的工具.
 - [RSATool](https://github.com/ius/rsatool) -生成具有p和q知识的私钥.
 - [XORTool](https://github.com/hellman/xortool) -分析多字节异或密码的工具.
 
@@ -114,9 +115,9 @@
 - [libformatstr](https://github.com/hellman/libformatstr) -简化格式字符串的利用.
 - [Metasploit](http://www.metasploit.com/) -渗透测试软件.
   - [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
-- [one_gadget](https://github.com/david942j/one_gadget) -查找一个小工具execve（&#39;/ bin / sh&#39;，NULL，NULL）`调用的工具.
+- [one_gadget](https://github.com/david942j/one_gadget) -一种查找小工具execve（&#39;/ bin / sh&#39;，NULL，NULL）`调用的工具.
   -`gem install one_gadget`
-- [Pwntools](https://github.com/Gallopsled/pwntools) -用于编写漏洞利用程序的CTF框架.
+- [Pwntools](https://github.com/Gallopsled/pwntools) -用于编写漏洞利用的CTF框架.
 - [Qira](https://github.com/BinaryAnalysisPlatform/qira) -QEMU交互式运行时分析器.
 - [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) -ROP开发框架.
 - [V0lt](https://github.com/P1kachu/v0lt) -安全CTF工具包.
@@ -136,7 +137,7 @@
 - [DVCS Ripper](https://github.com/kost/dvcs-ripper) -Rips Web可访问（分布式）版本控制系统.
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) -读取，写入和编辑文件元数据.
 - [Extundelete](http://extundelete.sourceforge.net/) -用于从可挂载映像中恢复丢失的数据.
-- [Fibratus](https://github.com/rabbitstack/fibratus) -探索和跟踪Windows内核的工具.
+- [Fibratus](https://github.com/rabbitstack/fibratus) -Windows内核探索和跟踪工具.
 - [Foremost](http://foremost.sourceforge.net/) -使用标题提取特定类型的文件.
   -`apt-get首先安装`
 - [Fsck.ext4](http://linux.die.net/man/8/fsck.ext3) -用于修复损坏的文件系统.
@@ -153,7 +154,7 @@
 - [Wireshark](https://www.wireshark.org) -用于分析pcap或pcapng文件
 
 *注册表查看器*
-- [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) -Windows的简单工具，使您可以从外部驱动器中读取脱机注册表文件，并以.reg文件格式查看所需的注册表项.
+- [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) -Windows的简单工具，使您可以从外部驱动器读取脱机注册表文件并以.reg文件格式查看所需的注册表项.
 - [Registry Viewer®](https://accessdata.com/product-download/registry-viewer-2-0-0) -用于查看Windows注册表.
 
 ## Networking
@@ -185,10 +186,10 @@
 - [ctf_import](https://github.com/docileninja/ctf_import) –从剥离的二进制文件跨平台运行基本功能.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
 - [demovfuscator](https://github.com/kirschju/demovfuscator) -用于移动二进制文件的正在进行中的去混淆器.
-- [Frida](https://github.com/frida/) - Dynamic Code Injection.
+- [Frida](https://github.com/frida/) -动态代码注入.
 - [GDB](https://www.gnu.org/software/gdb/) -GNU项目调试器.
 - [GEF](https://github.com/hugsy/gef) -GDB插件.
-- [Ghidra](https://ghidra-sre.org/)  -开源的逆向工程工具套件.  类似于IDA Pro.
+- [Ghidra](https://ghidra-sre.org/)  -逆向工程工具的开源套件.  类似于IDA Pro.
 - [Hopper](http://www.hopperapp.com/) -用于OSX和Linux的逆向工程工具（反汇编程序）.
 - [IDA Pro](https://www.hex-rays.com/products/ida/) -最常用的倒车软件.
 - [Jadx](https://github.com/skylot/jadx) -反编译Android文件.
@@ -200,13 +201,13 @@
 - [PINCE](https://github.com/korcankaraokcu/PINCE) -GDB前端/反向工程工具，专注于游戏黑客和自动化.
 - [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) -使用intel引脚进行边通道分析的工具.
 - [Plasma](https://github.com/joelpx/plasma) -用于x86 / ARM / MIPS的交互式反汇编程序，可以生成带有彩色语法的缩进伪代码.
-- [Pwndbg](https://github.com/pwndbg/pwndbg) -一个GDB插件，提供了一套实用工具来轻松破解GDB.
+- [Pwndbg](https://github.com/pwndbg/pwndbg) -一个GDB插件，提供了一套实用工具，可轻松破解GDB.
 - [radare2](https://github.com/radare/radare2) -便携式换向框架.
 - [Triton](https://github.com/JonathanSalwan/Triton/) -动态二进制分析（DBA）框架.
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) -反编译Python 2.7二进制文件（.pyc）.
 - [WinDbg](http://www.windbg.org/) -由Microsoft分发的Windows调试器.
 - [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html) -可以复制具有执行但没有读取权限的可执行文件的程序.
-- [Z3](https://github.com/Z3Prover/z3) -Microsoft Research的一个定理证明者.
+- [Z3](https://github.com/Z3Prover/z3) -Microsoft Research的定理证明者.
 
 * JavaScript反混淆器*
 
@@ -214,9 +215,9 @@
 - [Revelo](http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html) -分析混淆的Javascript代码.
 
 * SWF分析仪*
-- [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) -实用程序的集合，包括ActionScript 3汇编程序/反汇编程序.
+- [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) -实用程序的集合，包括ActionScript 3汇编器/反汇编器.
 - [Swftools](http://www.swftools.org/) -使用SWF文件的实用程序集合.
-- [Xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -  A Python script for analyzing Flash files.
+- [Xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -用于分析Flash文件的Python脚本.
 
 ## Services
 
@@ -232,10 +233,10 @@
 - [AperiSolve](https://aperisolve.fr/) -Aperi&#39;Solve是一个平台，可对图像进行图层分析（开源）.
 - [Convert](http://www.imagemagick.org/script/convert.php) -转换图像黑白格式并应用滤镜.
 - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) -在JPEG文件中显示EXIF信息.
-- [Exiftool](https://linux.die.net/man/1/exiftool) -在文件中读写元信息.
+- [Exiftool](https://linux.die.net/man/1/exiftool) -在文件中读取和写入元信息.
 - [Exiv2](http://www.exiv2.org/manpage.html) -图像元数据处理工具.
-- [Image Steganography](https://sourceforge.net/projects/image-steg/)  -使用可选的加密功能将文本和文件嵌入图像.  易于使用的用户界面.
-- [Image Steganography Online](https://incoherency.co.uk/image-steganography) -这是一种客户端Javascript工具，用于将图像隐藏在其他图像的较低“位”内
+- [Image Steganography](https://sourceforge.net/projects/image-steg/)  -使用可选的加密功能将文本和文件嵌入图像中.  易于使用的用户界面.
+- [Image Steganography Online](https://incoherency.co.uk/image-steganography) -这是一个客户端Javascript工具，用于将图像隐藏在其他图像的较低“位”内
 - [ImageMagick](http://www.imagemagick.org/script/index.php) -用于处理图像的工具.
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) -通用隐写工具.
 - [Pngtools](https://packages.debian.org/sid/pngtools) -用于与PNG相关的各种分析.
@@ -247,6 +248,7 @@
 - [StegCracker](https://github.com/Paradoxis/StegCracker) -隐写术蛮力工具，用于发现文件内的隐藏数据.
 - [stegextract](https://github.com/evyatarmeged/stegextract) -检测图像中的隐藏文件和文本.
 - [Steghide](http://steghide.sourceforge.net/) -隐藏各种图像中的数据.
+- [StegOnline](https://georgeom.net/StegOnline/upload) -进行广泛的图像隐写术操作，例如隐藏/显示隐藏在位中的文件（开源）.
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) -将各种隐写技术应用于图像.
 - [Zsteg](https://github.com/zed-0xff/zsteg/) -PNG / BMP分析.
 
@@ -268,7 +270,7 @@
 
 ## Resources
 
-*哪里可以找到有关CTF的信息*
+*在哪里可以找到有关CTF的信息*
 
 ## Operating Systems
 
@@ -300,12 +302,14 @@
 
 *学习如何播放CTF的教程*
 
-- [CTF Field Guide](https://trailofbits.github.io/ctf/) -野外寻宝指南.
+- [CTF Field Guide](https://trailofbits.github.io/ctf/) -实地考察的足迹.
 - [CTF Resources](http://ctfs.github.io/resources/) -由社区维护的入门指南.
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) 该死的脆弱的PHP / MySQL Web应用程序.
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) -Endgame为CTF初学者提供的简短指南
+- [Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) -免费课程，向初学者讲授取证，加密和网络交易的基础知识.
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) -有关剥削的视频教程.
-- [MIPT CTF](https://github.com/xairy/mipt-ctf) -面向CTF初学者的一门小课程（俄语）.
+- [MIPT CTF](https://github.com/xairy/mipt-ctf) -面向CTF初学者的小课程（俄语）.
+
 
 ## Wargames
 
@@ -322,9 +326,9 @@
 - [Hack This Site](https://www.hackthissite.org/) -黑客培训场.
 - [Hacker101](https://www.hacker101.com/) -HackerOne的CTF
 - [Hacking-Lab](https://hacking-lab.com/) -道德黑客，计算机网络和安全挑战平台.
-- [Hone Your Ninja Skills](https://honeyourskills.ninja/) -从基本挑战开始的网络挑战.
-- [IO](http://io.netgarage.org/) -战争游戏二进制挑战.
-- [Microcorruption](https://microcorruption.com) -嵌入式安全CTF.
+- [Hone Your Ninja Skills](https://honeyourskills.ninja/) -网络挑战从基本挑战开始.
+- [IO](http://io.netgarage.org/) -Wargame进行二进制挑战.
+- [Microcorruption](https://microcorruption.com) - Embedded security CTF.
 - [Over The Wire](http://overthewire.org/wargames/) -由OvertheWire社区维护的Wargame.
 - [PentesterLab](https://pentesterlab.com/) -各种虚拟机和在线挑战（付费）.
 - [PicoCTF](https://2019game.picoctf.com)  -全年CTF游戏.  来自每年的picoCTF竞赛的问题.
@@ -353,6 +357,7 @@
 
 *有关CTF的各种通用网站*
 
+- [Awesome CTF Cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#awesome-ctf-cheatsheet-) -CTF速查表.
 - [CTF Time](https://ctftime.org/) -有关世界各地的CTF的一般信息.
 - [Reddit Security CTF](http://www.reddit.com/r/securityctf) -Reddit CTF类别.
 

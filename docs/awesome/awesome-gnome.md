@@ -8,7 +8,7 @@
 
 [GNOME](https://www.gnome.org/)  是Linux和Unixes的桌面环境，旨在让用户掌控一切.  它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
 
-&gt;带有！[GNOME Core] [GNOME Core]标记的项目是GNOME项目正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为经典模式的一部分维护和分发的扩展.
+&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是作为Classic模式的一部分维护和分发的扩展.
 
 
   - [Developpement and Design](#developpement-and-design) 
@@ -31,7 +31,7 @@
 - [Haguichi](https://www.haguichi.net/) -Hamachi的图形前端.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) -传输洪流守护程序的远程客户端.
 - [Fragments](https://gitlab.gnome.org/World/Fragments) -BitTorrent客户端.
-- [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
+- [Tangram](https://github.com/sonnyp/Tangram) -将您的Web应用程序分组为一个应用程序.
 
 ### Office
 
@@ -43,7 +43,7 @@
 - [Showdown](https://gitlab.com/craigbarnes/showdown) -简单的降价查看器.
 - [Pdftag](https://github.com/arrufat/pdftag) -简单的PDF元数据编辑器.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) -提取，合并，旋转和重新排列PDF文档页面的简单应用程序.
-- [UberWriter](https://github.com/UberWriter/uberwriter) -无干扰的Markdown编辑器.
+- [Apostrophe](https://somas.pages.gitlab.gnome.org/apostrophe/) -无干扰的Markdown编辑器.
 - [Marker](https://github.com/fabiocolacio/Marker) -带有集成预览器的Markdown编辑器.
 
 ### Productivity and Time
@@ -59,7 +59,7 @@
 - [Vocal](https://github.com/needle-and-thread/vocal) -适用于现代免费桌面的强大，美观，简单的播客客户端.
 - [Celluloid](https://github.com/celluloid-player/celluloid) -mpv的简单前端.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) -美丽的音乐应用程序.
-- [GRadio](https://github.com/haecker-felix/gradio/) -基于Web的无线电的客户端（当前处于维护模式，将由Shortwave代替）.
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) -基于网络的广播客户端.
 - [Parlatype](http://gkarsay.github.io/parlatype/) -专门用于转录的音频播放器.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) -为PulseAudio应用程序提供限制器，压缩器，混响，均衡器和自动音量效果.
 - [Curlew](https://curlew.sourceforge.io/) -多媒体转换器.
@@ -146,7 +146,7 @@
 - [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) -先进的MPRIS小程序.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) -todo.txt的界面.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) -一个todo.txt管理器，时间跟踪器，计时器，秒表，番茄和闹钟.
-- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) -KDE Con​​nect实施.
+- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation.
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) -用于管理Docker容器的扩展
 - [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) -传统系统.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) -Appindicator系统.

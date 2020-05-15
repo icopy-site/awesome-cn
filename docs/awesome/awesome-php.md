@@ -22,7 +22,7 @@
 * [Composer Installers](https://github.com/composer/installers) -多框架Composer库安装程序.
 * [Composer](https://getcomposer.org/) -包和依赖项管理器.
 * [Melody](https://melody.sensiolabs.org/) -一种构建一个文件Composer脚本的工具.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) -一个PHP扩展安装程序.
 
 ### Dependency Management Extras
 *与依赖项管理有关的其他内容.
@@ -55,7 +55,7 @@
 
 * [Backdrop](https://backdropcms.org) -针对中小型企业和非营利组织的CMS（Drupal的分支）.
 * [Concrete5](https://www.concrete5.org/) -以最低的技术水平为目标的CMS.
-* [Drupal](https://www.drupal.org) - An enterprise level CMS.
+* [Drupal](https://www.drupal.org) -企业级CMS.
 * [Grav](https://github.com/getgrav/grav) -现代的平面文件CMS.
 * [Joomla](https://www.joomla.org/) -另一个领先的CMS.
 * [Magento](https://magento.com/) -最受欢迎的电子商务平台.
@@ -172,7 +172,7 @@
 *用于文件操作和MIME类型检测的库.
 
 * [CSV](https://github.com/thephpleague/csv) -CSV数据操作库.
-* [Flysystem](https://github.com/thephpleague/Flysystem) -另一个文件系统抽象层.
+* [Flysystem](https://github.com/thephpleague/Flysystem) -本地和远程文件系统的抽象.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) -文件系统抽象层.
 * [Hoa Mime](https://github.com/hoaproject/Mime) -另一个MIME检测库.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) -的包装 [FFmpeg](https://www.ffmpeg.org/) 视频库.
@@ -194,7 +194,7 @@
 * [Disco](https://github.com/bitExpert/disco) -与PSR-11兼容的基于注释的依赖项注入容器.
 * [PHP-DI](http://php-di.org/) -支持自动装配的依赖项注入容器.
 * [Pimple](https://pimple.symfony.com/) -一个很小的依赖项注入容器.
-* [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
+* [Symfony DI](https://github.com/symfony/dependency-injection) -依赖项注入容器组件.
 
 ### Imagery
 *用于处理图像的库.*
@@ -226,7 +226,7 @@
 * [Pho](https://github.com/danielstjules/pho) -另一个行为驱动的开发测试框架.
 * [PHP-Mock](https://github.com/php-mock/php-mock) -用于内置PHP函数（例如time（））的模拟库.
 * [PHPSpec](https://github.com/phpspec/phpspec) -按规格设计的单元测试库.
-* [PHPT](https://qa.php.net/write-test.php) -PHP本身使用的测试工具.
+* [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) -单元测试框架.
 * [Prophecy](https://github.com/phpspec/prophecy) -一个自以为是的模拟框架.
 * [VFS Stream](https://github.com/bovigo/vfsStream) -用于测试的虚拟文件系统流包装器.
@@ -317,7 +317,7 @@
 * [PHP Architecture Tester](https://github.com/carlosas/phpat) -易于使用的PHP体系结构测试工具.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) -用于PHP CodeSniffer的PHP兼容性检查器.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) -创建可定制的依赖图的工具.
-* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) -静态指标库.
+* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 * [PHP Migration](https://github.com/monque/PHP-Migration) -用于PHP版本迁移的静态分析器.
 * [PHPStan](https://github.com/phpstan/phpstan) -一个PHP静态分析工具.
 * [Psalm](https://github.com/vimeo/psalm) -用于在PHP应用程序中查找错误的静态分析工具.
@@ -457,7 +457,7 @@
 * [Baum](https://github.com/etrepat/baum) -Eloquent的嵌套集实现.
 * [CakePHP ORM](https://github.com/cakephp/orm) -使用DataMapper模式实现的对象关系映射器.
 * [Cycle ORM](https://github.com/cycle/orm) -PHP DataMapper，ORM.
-* [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
+* [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) -主义行为扩展的集合.
 * [Doctrine](https://www.doctrine-project.org/) -全面的DBAL和ORM.
 * [Laravel Eloquent](https://github.com/illuminate/database) -一个简单的ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) -PostgreSQL的对象模型管理器.
@@ -477,7 +477,7 @@
 ### NoSQL
 *用于“ NoSQL”后端的库.*
 
-* [PHPMongo](https://github.com/sokil/php-mongo) -MongoDB ORM.
+* [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 * [Predis](https://github.com/nrk/predis) -功能齐全的Redis库.
 
 ### Queue
@@ -555,9 +555,9 @@
 * [Hoa String](https://github.com/hoaproject/Ustring) -另一个UTF-8字符串库.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php)  -Python的jieba的PHP端口.  中文文本分割，用于自然语言处理.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -用于检测移动设备（包括平板电脑）的轻量级PHP类.
-* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
+* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) -用于处理UTF-8字符串的可移植库.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) -具有UTF-8安全替换方法的字符串处理库.
-* [Slugify](https://github.com/cocur/slugify) -将字符串转换为段的库.
+* [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) -用于格式化SQL语句的库.
 * [Stringy](https://github.com/danielstjules/Stringy) -具有多字节支持的字符串处理库.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) -用于解析用户代理字符串的库.
@@ -579,7 +579,7 @@
 * [Assert](https://github.com/beberlei/assert)  -具有丰富的断言集的验证库.  支持断言链接和惰性断言.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) -提供用于验证和清除对象和数组的工具.
 * [CakePHP Validation](https://github.com/cakephp/validation) -另一个验证库.
-* [Filterus](https://github.com/ircmaxell/filterus) -一个简单的PHP过滤库.
+* [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -一个用于根据许多国家/地区的ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的库.
 * [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) -支持YAML，JSON和XML的架构验证库.
@@ -667,7 +667,7 @@
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) -官方的PHP AWS开发工具包库.
 * [AsyncAWS](https://async-aws.com/) -一个非官方的异步PHP AWS SDK.
-* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
+* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) -正式的Campaign Monitor PHP库.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) -官方的PHP Dropbox SDK库.
 * [Github](https://github.com/KnpLabs/php-github-api) -与Github API交互的库.
 * [Mailgun](https://github.com/mailgun/mailgun-php) 官方Mailgun PHP API.
@@ -871,7 +871,7 @@
 
 * [Disproving the Single Quotes Myth](https://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) -有关单引号和双引号字符串的性能的文章.
 * [How Big Are PHP Arrays (And Values) Really?](https://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) -有关数组内部的文章.
-* [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) -有关foreach的详细StackOverflow答案.
+* [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) -有关字符串内部的文章.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) -有关PHP中评估顺序的文章.
 * [PHP Internals Book](http://www.phpinternalsbook.com) -由三位核心开发人员撰写的有关PHP内部原理的在线书籍.

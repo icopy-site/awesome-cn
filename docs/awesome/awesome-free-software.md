@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 该列表中的软件以允许任何人出于任何目的使用，修改和共享该软件的条款进行分发.  最受欢迎的两个许可证是 [MIT License](https://choosealicense.com/licenses/mit/) 和 [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/)， 但是这里有 [many other licenses](https://choosealicense.com/appendix/) 授予这些权限.
+ 此列表中的软件以允许任何人出于任何目的使用，修改和共享该软件的条款进行分发.  最受欢迎的两个许可证是 [MIT License](https://choosealicense.com/licenses/mit/) 和 [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/)， 但是这里有 [many other licenses](https://choosealicense.com/appendix/) 授予这些权限.
 
 
 
@@ -14,7 +14,7 @@
 - [Ardour](https://ardour.org/)  -数字音频工作站（DAW）.  （[GNU GPLv2](https://ardour.org/copying.html))
 - [Libre.fm](https://libre.fm/)  -免费流式传输，下载，混音和共享音乐.  （[GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 - [LMMS](https://lmms.io/)  -完整的数字音频工作站.  （[GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
-- [mStream](http://mstream.io/)  -用于在多个设备之间同步和流式传输音乐的软件套件.  （[GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
+- [mStream](http://mstream.io/)  -用于在多个设备上同步和流式传输音乐的软件套件.  （[GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 - [Nuclear Music Player](https://nuclear.js.org/)  -流音乐播放器，可自动从免费资源中查找音乐.  （[GNU AGPLv3](https://github.com/nukeop/nuclear/blob/master/LICENSE))
 
 ### Command Line Tools
@@ -24,6 +24,7 @@
 - [Logdissect](https://github.com/dogoncouch/logdissect/)  -CLI工具和Python API，用于分析日志文件和其他数据.  （[MIT](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 - [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/)  -通过SSH，Telnet，SCP和rlogin协议以及原始套接字连接进行连接的远程终端仿真器.  （[MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
 - [ranger](https://ranger.github.io/)  -最小，轻巧且美观的GNU / Linux文件浏览器.  它运行在终端窗口中，因此非常适合i3之类的窗口管理器.  vi键绑定允许执行快速操作，包括重命名和删除.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
+- [GNU stow](https://www.gnu.org/software/stow/)  -GNU Stow是一个symlink服务器场管理器，它采用位于文件系统上单独目录中的不同软件和/或数据包，并使它们看起来安装在同一位置.  （[GNU GPLv3](https://github.com/ranger/ranger/blob/master/README.md))
 
 ### Communication
 
@@ -36,13 +37,13 @@
 - [ProtonMail](https://protonmail.com/)  -安全的基于Web的电子邮件服务.  （[MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 - [Ring](https://ring.cx/)  -通过分布式服务进行电话，电话会议和媒体共享.  （[GNU GPLv3](https://ring.cx/en/about/practical))
 - [Signal](https://signal.org/)  -私人消息传递和呼叫桌面，Android和iOS.  （[GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
-- [Tox](https://tox.chat/)  -具有语音，视频和屏幕共享的加密和分布式消息传递平台.  （[GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
-- [Tutanota](https://tutanota.com/)  -免费加密的电子邮件，支持企业帐户.  （[GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
+- [Tox](https://tox.chat/)  -具有语音，视频和屏幕共享功能的加密和分布式消息传递平台.  （[GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
+- [Tutanota](https://tutanota.com/)  -免费加密电子邮件，并支持企业帐户.  （[GNU GPLv3](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
 
 ### File Management
 
 - [7-Zip](http://7-zip.org/)  -用于创建和打开压缩文件的文件存档器.  （[GNU LGPLv2.1+](http://www.7-zip.org/faq.html))
-- [Filestash](http://www.filestash.app)  -类似Dropbox的网络客户端，用户可以在其中携带自己的后端（FTP，SFTP，Webdav，S3，Minio等）.  （[GNU AGPLv3](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
+- [Filestash](http://www.filestash.app)  -类似于Dropbox的网络客户端，用户可以在其中携带自己的后端（FTP，SFTP，Webdav，S3，Minio等）.  （[GNU AGPLv3](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 - [FileZilla](https://filezilla-project.org/)  -通用FTP解决方案.  （[GNU GPLv2+](https://filezilla-project.org/license.php))
 
 ### File Sharing
@@ -61,7 +62,7 @@
 
 ### IDEs
 
-- [Eclipse](https://www.eclipse.org/eclipseide/)  -可扩展的IDE，支持最新的Java版本以及其他语言.  （[EPL](http://www.eclipse.org/legal/epl-v10.html))
+- [Eclipse](https://www.eclipse.org/eclipseide/)  -支持最新Java版本以及其他语言的可扩展IDE.  （[EPL](http://www.eclipse.org/legal/epl-v10.html))
 - [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community)  -Java / Android IDE，旨在最大程度地提高开发人员的生产力.  （[Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
 
 ### Office
@@ -85,7 +86,7 @@
 
 ### Payments
 
-- [Electrum](https://electrum.org)  -轻量级的比特币客户端，提供钱包恢复，去中心化服务器和离线存储.  （[MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE))
+- [Electrum](https://electrum.org)  -轻量级的比特币客户端，提供钱包恢复，分散式服务器和离线存储.  （[MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE))
 - [GNU Taler](https://taler.net)  -类似于现金的在线支付系统.  （[GNU GPL](https://taler.net/en/developers.html))
 
 ### Scientific Work
@@ -104,6 +105,7 @@
 - [Atom](https://atom.io/)  -可破解的文本和源代码编辑器.  （[MIT](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md))
 - [Emacs](https://www.gnu.org/software/emacs/)  -可扩展，可自定义的自由/自由文本编辑器-以及更多.  （[GNU GPL](http://www.free-soft.org/gpl_history/emacs_gpl.html))
 - [GNU nano](https://www.nano-editor.org/)  -命令行的简单文本编辑器.  （[GNU GPL](https://www.nano-editor.org/dist/v2.7/README))
+- [vim](https://www.vim.org/)  -Vim是一个高度可配置的文本编辑器，旨在使创建和更改任何类型的文本非常高效.  （[GNU GPL compatible](https://vimhelp.org/uganda.txt.html#license))
 - [Notepad++](https://notepad-plus-plus.org/)  -可扩展的文本和源代码编辑器.  （[GNU GPLv2+](https://raw.githubusercontent.com/notepad-plus-plus/notepad-plus-plus/master/LICENSE))
 
 ### Utilities
@@ -133,7 +135,7 @@
 - [Ghost](https://ghost.org/)  -用于构建和运行在线出版物的可入侵平台.  （[MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 - [GitLab](https://about.gitlab.com/installation/)  -用于整个代码生命周期的Git存储库管理器.  （[MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
 - [GNU social](https://gnu.io/social/)  -用PHP编写的微博客服务器.  （[GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
-- [Gogs](https://gogs.io/)  -轻量，跨平台，自托管的Git服务.  （[MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
+- [Gogs](https://gogs.io/)  -轻量级，跨平台，自托管的Git服务.  （[MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
 - [Inventaire](https://inventaire.io/welcome)  -与朋友和社区分享书籍.  （[GNU AGPLv3](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
 - [Lobsters](https://lobste.rs/)  -链接汇总和讨论以及下注说明.  （[BSD 3-clause](https://github.com/lobsters/lobsters/blob/master/LICENSE))
 - [Mastodon](https://joinmastodon.org/)  -分散式社交网络服务器.  （[GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
@@ -152,7 +154,7 @@
 ### Web Servers
 
 - [Apache HTTP Server](https://httpd.apache.org/)  -安全，高效且可扩展的Web服务器.  （[Apache License 2.0](http://www.apache.org/licenses/))
-- [lighttpd](http://www.lighttpd.net/)  -针对速度至关重要的环境进行了优化，同时保持了符合标准，安全和灵活的状态.  （[Revised BSD license](http://www.lighttpd.net/assets/COPYING))
+- [lighttpd](http://www.lighttpd.net/) - Optimized for speed-critical environments while remaining standards-compliant, secure and flexible. ([Revised BSD license](http://www.lighttpd.net/assets/COPYING))
 - [nginx](https://nginx.org/)  -HTTP和反向代理服务器，邮件代理服务器和通用TCP / UDP代理服务器.  （[2-clause BSD-like license](https://nginx.org/LICENSE))
 
 ## Hardware
@@ -162,8 +164,8 @@
 - [Aleph Objects](https://www.alephobjects.com/) -尊重使用自由硬件和软件构建的Freedom（RYF）认证的3D打印机.
 - [Libiquity](http://www.libiquity.com/) -设计和开发嵌入式软件和固件系统.
 - [Purism](https://puri.sm/) -注重隐私，安全和自由的计算机和软件.
-- [Raptor Computing Systems](https://raptorcs.com/) -使用IBM POWER9处理器和OpenBMC固件的台式机，主板和其他部件.
-- [Technoethical](https://tehnoetic.com/) -与免费操作系统兼容的笔记本电脑，适配器和移动设备.
+- [Raptor Computing Systems](https://raptorcs.com/) -利用IBM POWER9处理器和OpenBMC固件的台式机，主板和其他部件.
+- [Technoethical](https://tehnoetic.com/) -与免费操作系统兼容的笔记本电脑，适配器和移动设备。
 - [ThinkPenguin](https://www.thinkpenguin.com/) -不包含专有软件的现代笔记本电脑，台式机和打印机.
 - [Vikings](https://vikings.net/) -由Libreboot固件，libre软件和还出售硬件的绿色能源支持的托管公司.
 
@@ -171,8 +173,8 @@
 
 - [disaster.radio](https://disaster.radio/) -以免费软件和负担得起的开放硬件为基础的离网太阳能供电的远程网格网络.
 - [h-node](https://h-node.org/) -与完全免费的操作系统一起使用的硬件数据库.
-- [Linux Preloaded](https://linuxpreloaded.com/) -精心挑选的来自许多地区的供应商清单，这些供应商出售预先装有免费软件的计算机.
-- [Respects Your Freedom Hardware Certification](https://www.fsf.org/resources/hw/endorsement/criteria) -符合获得自由软件基金会RYF认证的要求.
+- [Linux Preloaded](https://linuxpreloaded.com/) -精心挑选的来自许多地区的供应商列表，这些供应商销售的计算机预装有免费软件.
+- [Respects Your Freedom Hardware Certification](https://www.fsf.org/resources/hw/endorsement/criteria) -符合自由软件基金会RYF认证的要求.
 
 ## Resources
 
@@ -180,7 +182,7 @@
 
 - [Free Software](https://en.wikipedia.org/wiki/Free_software) -关于自由软件的维基百科条目.
 - ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) -学术文章，介绍了对自由软件及其可持续性的经济分析.
-- [Software Freedom](https://devuan.org/os/free-software) -简短，简单的说明，为什么Devuan中的自由软件很重要.
+- [Software Freedom](https://devuan.org/os/free-software) -简短，简单的说明，为什么Devuan中的免费软件很重要.
 
 ### Blogs
 
@@ -213,7 +215,7 @@
 - [Framasoft](https://framasoft.org/) -致力于在全球范围内推广免费软件，创新项目以及共享与合作世界的网络.
 - [Free Software Foundation](https://www.fsf.org/) -非营利组织，其全球使命是促进计算机用户自由.
 - [Free Software Movement Karnataka](https://fsmk.org/) -印度班加罗尔的小组，他们传播有关自由软件的知识.
-- [Free Software Movement of India](http://fsmi.in/) -印度的自由软件组织联盟.
+- [Free Software Movement of India](http://fsmi.in/) -印度自由软件组织联盟.
 - [FSF India](http://gnu.org.in/) -FSF的印度姐妹站点.
 - [FSFE](https://fsfe.org/) -FSF的欧洲姊妹站点.
 - [FSFLA](http://www.fsfla.org/ikiwiki/) -FSF的拉丁美洲姐妹站点.
@@ -224,7 +226,7 @@
 - [Software Freedom Conservancy](https://sfconservancy.org/) -有助于促进，改善，开发和捍卫自由，自由和开源软件项目的慈善机构.
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) -免费，免费和开源软件创建者的免费法律服务提供商.
 - [Snowdrift.coop](https://snowdrift.coop/) -公共产品的人群匹配.
-- [TuxFamily](https://www.tuxfamily.org/) -免费项目无费用托管和其他服务.
+- [TuxFamily](https://www.tuxfamily.org/) -免费项目的免费托管和其他服务.
 
 ### Other Lists
 
@@ -234,7 +236,7 @@
 
 ### People
 
-- [Maxime Lathuilière](https://maxlath.eu/) -通过免费软件重组信息和资源，以实现自由社会.
+- [Maxime Lathuilière](https://maxlath.eu/) -通过自由软件重组信息和资源，以实现自由社会.
 
 ### Talks
 

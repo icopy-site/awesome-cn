@@ -349,7 +349,7 @@ Installers
   - [OpenShift Origin (OKD)](http://www.okd.io)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [RIO](https://rio.io/) -基于Kubernetes的MicroPaaS
-  - [teresa](https://github.com/luizalabs/teresa) - Simple PAAS that runs on top of Kubernetes.
+  - [teresa](https://github.com/luizalabs/teresa) -在Kubernetes上运行的简单PAAS.
   - [Z.A.R.V.I.S.](https://zarvis.ai) -免费将Github项目部署到托管Kubernetes
 
 互动学习环境
@@ -530,7 +530,7 @@ Projects
 * [Datadog](http://www.datadoghq.com/)
 * [Dynatrace](https://www.dynatrace.com/technologies/kubernetes-monitoring/) -Kubernetes集群和工作负载监控
 * [eventrouter](https://github.com/heptiolabs/eventrouter) -简单的自省型kubernetes服务，可将事件转发到指定的接收器.
-* [Goldpinger](https://github.com/bloomberg/goldpinger) 显示，监视和提醒集群间连接
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Instana](https://www.instana.com/) -自动Kubernetes应用程序性能监控
@@ -709,7 +709,7 @@ Projects
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [Contiv](http://contiv.github.io/)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) -通过Kube资源动态控制DNS记录
-* [Goldpinger](https://github.com/bloomberg/goldpinger) 显示，监视和提醒集群间连接
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 * [illuminatio](https://github.com/inovex/illuminatio) 是用于自动测试kubernetes网络策略的工具
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
@@ -734,7 +734,7 @@ Projects
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
-* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是直接，易于配置且非侵入式的服务网格，可查看和管理任何Kubernetes集群内部的流量.
+* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是直接，易于配置且非侵入式的服务网格，可对任何Kubernetes集群内部的流量进行可视化和管理.
 * [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) - Build, Secure and Observe your modern Service Mesh.
 
 ## RPC
@@ -821,6 +821,7 @@ Projects
 ## Configuration
 
 * [Ansible](https://docs.ansible.com/ansible/latest/modules/k8s_module.html)
+* [cdk8s](https://cdk8s.io) -使用熟悉的编程语言定义Kubernetes应用和可重用组件
 * [Chef](http://supermarket.chef.io/cookbooks/kubernetes)
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
@@ -918,6 +919,7 @@ Projects
 
 ## YAML/JSON Config
 
+* [cdk8s](https://cdk8s.io) -使用熟悉的编程语言定义Kubernetes应用和可重用组件
 * [kompose](https://github.com/kubernetes/kompose)
 * [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib)
 * [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) -用于Jsonnet / Kubecfg的Kubernetes对象的通用库，具有对象到数组的映射，可以轻松进行覆盖.
@@ -993,7 +995,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -1099,7 +1101,7 @@ Videos
 * [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师
 * [Aparna Sinha](https://twitter.com/apbhatnagar)，小组产品经理-Google的Kubernetes
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
-* [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
+* [Brandon Philips](https://twitter.com/BrandonPhilips)，首席技术官
 * [Brendan Burns](https://twitter.com/brendandburns)微软合伙人架构师
 * [Brian Grant](https://github.com/bgrant0607)，Google首席工程师，Kubernetes首席架构师
 * [Carlos Sanchez](https://www.twitter.com/csanchez)，CloudBees高级软件工程师

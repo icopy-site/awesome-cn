@@ -9,13 +9,13 @@
 
 ## Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link] {
 
- &gt; / *精选的令人敬畏的框架，样式指南和其他很棒的块的清单，用于编写出色的CSS.  * /
+ &gt; / *精选的很棒的框架，样式指南和其他很棒的块的清单，用于编写出色的CSS.  * /
 
 ## Introduction
 
 ### Motivation
 
- 该文档是用于编写出色CSS的框架，样式指南和酷炫信息的精选清单.  它不包含学习CSS的资源.
+ 该文档是精选的框架，样式指南和酷炫的信息清单，用于编写出色的CSS.  它不包含学习CSS的资源.
 
 ### Complementary Resources
 
@@ -64,7 +64,7 @@
 
 *更快地编写CSS *
 
-* [LESS](https://github.com/less/less.js) -向后与CSS兼容，并且它添加的其他功能使用现有CSS语法.
+* [LESS](https://github.com/less/less.js) -向后兼容CSS，它所添加的额外功能使用现有CSS语法.
 * [PostCSS](https://github.com/postcss/postcss) -使用JS插件转换CSS.
 * [Sass](https://github.com/sass/sass) -成熟，稳定且功能强大的专业级CSS扩展语言.
 * [STYLIS](https://github.com/thysultan/stylis.js) -轻量级CSS预处理器.
@@ -92,10 +92,10 @@
 * [Semantic UI](http://semantic-ui.com/) -使用人类友好的HTML的强大框架.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) -面向新十年的功能丰富的CSS框架.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) -轻巧，响应迅速的现代CSS框架.
-* [Strawberry](https://github.com/jfet97/strawberry) -一组通用的flexbox实用程序，这些实用程序专注于通过嵌套flexbox来使您的生活更轻松，更快.
+* [Strawberry](https://github.com/jfet97/strawberry) -一组通用的flexbox实用程序，这些实用程序专注于使您的生活变得更加轻松和快捷.
 * [Tachyons](http://tachyons.io/) -适用于人类的功能CSS.
 * [Tacit](https://yegor256.github.io/tacit/) -平面设计零技能的虚拟人的CSS框架.
-* [tailwindcss](https://github.com/tailwindcss/tailwindcss) -实用程序优先的CSS框架，用于快速UI开发.
+* [tailwindcss](https://github.com/tailwindcss/tailwindcss) -实用程序优先的CSS框架，用于快速的UI开发.
 * [UIkit](http://getuikit.com/) -轻巧的模块化前端框架.
 * [unsemantic](http://unsemantic.com/) -手机，平板电脑和台式机的流体网格.
 * [Wing](https://kbrsh.github.io/wing/) -最小，轻巧，响应迅速的框架.
@@ -121,7 +121,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Reset and Normalize
 
 - [Normalize](https://github.com/necolas/normalize.css) -一组CSS规则，可在HTML元素的默认样式中提供更好的跨浏览器一致性.
-- [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) -将OpenType功能（连字，字距调整等）添加到Normalize.css.
+- [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) -向Normalize.css添加OpenType功能（连字，字距调整等）.
 - [MiniReset.css](https://github.com/jgthms/minireset.css) -小型的现代CSS重置.
 - [sanitize.css](https://github.com/jonathantneal/sanitize.css/) -一组CSS规则，可立即使用当今的最佳做法.
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) -专门的样式表，用于删除用户代理样式，并以基线为网络样式.
@@ -132,7 +132,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## CSS Development at Large-Scale Websites
 
 * [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) 通过 [Max Luster](https://twitter.com/maxluster)
-* [CSS at BBC Sport](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66) 肖恩·本特（Shaun Bent）
+* [CSS at BBC Sport](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66) 由Shaun Bent
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) 史蒂夫·迈内特（Steve Mynett）
 * [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) 通过 [Mark Otto](https://twitter.com/mdo)
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) 保罗·戴维斯（Paul Davis）
@@ -161,7 +161,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) 由孤独的星球
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) 通过Dropbox
-* [Fabric](https://dev.office.com/fabric#/) 由Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) 由Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) 通过Github
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 由Bobby Grace
 * [Solid](http://solid.buzzfeed.com/) 通过BuzzFeed
@@ -241,10 +241,9 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject)  -一 <div>  `.  许多可能性.
 * [Can I use](https://caniuse.com/) -浏览器对CSS，HTML5和其他前端Web技术的支持.
-* [cssfx](https://cssfx.dev/) -精美简单的点击复制CSS效果
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) -适用于Chrome，Firefox和Edge的Magic CSS扩展.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) -通用JS UI组件的CSS替代品.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找错误标记的CSS小书签，无论您在何处编写错误的HTML内容，在漫画无衬线中均显示难看的粉红色错误消息
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找错误标记的CSS小书签，无论您在何处编写错误的HTML，它都在喜剧无衬线中显示难看的粉红色错误消息
 
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -257,7 +256,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) -由Anna Debenham和Brad Frost主持的关于风格指南的一小批访谈.
 * [The Web Ahead](http://5by5.tv/webahead/) -与世界专家就不断变化的技术和网络的未来进行对话.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) -在数字艺术，设计和开发中寻找最优秀，最聪明，最聪明的创造力人士.
-* [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展.  赶上.”  该播客以及随附的博客都是关于使您了解最新的开源技术的信息.
+* [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展.  赶上.”  该播客以及随附的博客都是关于使您保持最新的开源技术的最新信息.
 * [Syntax](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -281,13 +280,13 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Dudley Storey](https://twitter.com/dudleystorey) -网络开发作家，老师和演讲者.
 * [Zoe M. Gillenwater](https://twitter.com/zomigi) -专门从事CSS，RWD，UX和辅助功能的Web设计人员/开发人员.
 * [Ben Briggs](https://twitter.com/ben_eb)  -最后一年的网络技术专业学生.  node.js，javascript，开源模块，客户端优化，网络性能.
-* [Paul Lewis](https://twitter.com/aerotwist) -精通代码和设计的Googler.
+* [Paul Lewis](https://twitter.com/aerotwist) -熟悉代码和设计的Googler.
 * [Nicolas Gallagher](https://twitter.com/necolas) -@twitter的软件工程师.
-* [Harry Roberts](https://twitter.com/csswizardry)-顾问前端架构师：@ google，@ Etsy，@ kickstarter，@ BBC，@ Deloitte，@ FT等.
+* [Harry Roberts](https://twitter.com/csswizardry)-前端顾问顾问：@ google，@ Etsy，@ kickstarter，@ BBC，@ Deloitte，@ FT等.
 * [Phil Walton](https://twitter.com/philwalton) -Google的工程师•开源倡导者•开发人员•设计人员•作家.
 * [Lea Verou](https://twitter.com/LeaVerou) -研究助理@ MIT_CSAIL，@ CSSWG IE，@ OReillyMedia作者，例如@ W3C员工.
 * [Manoela Ilic](https://twitter.com/crnacura) -... aka Mary Lou @codrops ༶ CSS和HTML是我的蜡笔༶对认知科学，人工智能，人机交互，UI设计和天体物理学感兴趣༶数字游牧.
-* [Una Kravets](https://twitter.com/Una)  -前端@IBMDesign.  鼓舞，社区建设者和手工匠.  STEMinist :)开源所有事物.
+* [Una Kravets](https://twitter.com/Una)  -前端@IBMDesign.  鼓吹，社区建设者和手工匠.  STEMinist :)开源所有事物.
 * [Chris Coyier](https://twitter.com/chriscoyier)  -设计器@CodePen.  作家@Real_CSS_Tricks.
 * [Nicole Sullivan](https://twitter.com/stubbornella) - 极客.
 * [Eric Bidelman](https://twitter.com/ebidel) -Google的工程师，负责Chrome，Web组件和Polymer.
@@ -332,8 +331,8 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Books :books:
 
-* [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) –更好的解决方案，解决日常Web设计问题
-* [CSS: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) –真正有助于将您的设计技能提升到一个全新的水平
+* [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) –更好地解决日常Web设计问题
+* [CSS: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) –确实有助于将您的设计技能提升到一个全新的水平
 * [CSS: The Definitive Guide, 4th Edition](http://shop.oreilly.com/product/0636920012726.do)  -Web的视觉呈现
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -344,7 +343,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) -从Mozilla学习CSS网格的简单教程.
 * [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) -检查动画.
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css) -热门推荐资源.
-* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) -精选的有用的CSS片段集合，您可以在30秒或更短的时间内理解.
+* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) -精选的有用CSS片段集合，您可以在30秒或更短的时间内理解.
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) -深入介绍OOCSS，BEM，SMACSS，并提供示例.
 * [Flexbox video tutorial](https://flexbox.io/) -Wes Bos提供的免费视频课程，用于学习flexbox.
 * [CSS Grids videos tutorial](https://cssgrid.io/) -Wes Bos提供的免费视频课程，用于学习CSS网格.

@@ -32,7 +32,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 >
  &gt;鲍勃最安全的地方是太空，以最快的速度离开地球.  还是他认为.  因为宇宙充满了鼻涕，并且侵入者使他们发疯-非常发疯.
 
-#### [Accelerando](http://www.goodreads.com/book/show/17863.Accelerando) (2005) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9]
+#### [Accelerando](https://www.goodreads.com/book/show/17863.Accelerando) (2005) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9]
 
  Accelerando是对后人文主义的出色探索.  对于那些想阅读这些东西的人，这是我的推荐.  -- [@erbridge](https://github.com/erbridge)
 
@@ -136,7 +136,7 @@ Books:
 >
  &gt;吉姆·霍尔顿（Jim Holden）是一个冰工的XO，负责从土星环行到带矿的采矿站.  当他和他的船员偶然发现一艘废弃的船“ The Scopuli”时，他们发现自己拥有了他们从未想要的秘密.  一个人愿意为之谋杀的秘密-并以吉姆和他的船员无法想象的规模杀人.  除非他能找出谁离开飞船以及为什么离开，否则战争正在酝酿中.
 
-#### [Flatland](http://www.goodreads.com/book/show/433567.Flatland) (1884) *by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)* [3.8] 🌟
+#### [Flatland](https://www.goodreads.com/book/show/433567.Flatland) (1884) *by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)* [3.8] 🌟
 
  这本书将教您如何发挥想象力，以不同的方式看待事物.  -- [@elssar](https://github.com/elssar)
 
@@ -231,7 +231,7 @@ Books:
 
  实际上是两位作者的四本书.  它被制成电视连续剧，但应该代替书籍.  反英雄李斯特（Lister）和他的工作人员在最高的太空深处遇到了非常高的质量.  -- [@montao](https://github.com/montao)
 
-&gt; ...距地球三百万年，在错误的现实的错误的维度中倒下，直到最后两支香烟. 
+&gt; ...距地球三百万年，在错误的现实的错误的维度中倒下，直到最后两支香烟.
 
 #### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
 
@@ -906,7 +906,7 @@ _关于文明灭亡的小说，通常是由于某种灾难而导致的未来，�
 >
  &gt;格雷厄姆·麦克奈尔（Graham Mcneill）的史诗般的《三脚船》小说是不间断动作的杰作！  该系列包含小说《夜行者》，《奥特马尔与死海的勇士》，《黑太阳》，以及短篇小说《命令链》.该系列讲述了太空船长Uriel Ventris和Ultramarines在与人类敌人作战时的冒险经历.  格雷厄姆·麦克尼尔（Graham McNeill）从他们的家乡麦克拉格（Macragge）的世界，到可怕的恐怖之眼（Eye of Terror），甚至更远的范围，都像枪声在摇晃，使太空海军陆战队的生活前所未有.
 
-#### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines) (2013-) *by [Marko Kloos](http://www.markokloos.com/)* [4.05]
+#### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines) (2013-) *by [Marko Kloos](https://www.markokloos.com/)* [4.05]
 
 一部非常有趣的军事戏剧不断地在我身上成长，一本书接一本书. [@AlexKeyes](https://github.com/alex-keyes)
 
@@ -1148,7 +1148,7 @@ The alternate history worldbuilding is the draw here, and the scale and depth of
 
 #### [The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)* [4.2] 🌟 🔥
 
- 我读过的最有趣的系列之一.  我对自己笑着，一直都在想这件事.  改变了我不可逆转地看待银河系和钢笔的方式.  我也庆祝 [International Towel Day](http://en.wikipedia.org/wiki/Towel_Day)  现在每年.  -- [@RichardLitt](https://github.com/RichardLitt)
+ 我读过的最有趣的系列之一.  我对自己笑着，一直都在想这件事.  改变了我不可逆转地看待银河系和钢笔的方式.  我也庆祝 [International Towel Day](https://en.wikipedia.org/wiki/Towel_Day)  现在每年.  -- [@RichardLitt](https://github.com/RichardLitt)
 
 &gt;在地球被拆除以便为银河高速公路腾出空间的几秒钟之前，亚瑟·登特（Arthur Dent）被他的朋友福特·普雷迪夫（Ford Prefect）从地球上摘下，他是《银河系旅行者指南》修订版的研究者，在过去的15年中，一直扮演一个失业的演员.
 >
@@ -1254,7 +1254,7 @@ Books:
 
 ## Movies
 
-#### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]
+#### [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/) (1968) [8.3]
 
 分类：`space`ai`singularity` <br>
 导演：_Stanley Kubrick_
@@ -1263,19 +1263,19 @@ Books:
 
 &gt;人类在月球表面下发现了一个神秘的，显然是人造的物体，并借助智能计算机HAL 9000启动了任务.
 
-#### [A Clockwork Orange](http://www.imdb.com/title/tt0066921/) (1971) [8.4]
+#### [A Clockwork Orange](https://www.imdb.com/title/tt0066921/) (1971) [8.4]
 
 类别：`反乌托邦`
 
 &gt;在未来的英国，有魅力的罪犯Alex DeLarge被判入狱，并自愿接受政府为解决社会犯罪问题而开发的实验性厌恶疗法，但并非所有人都按计划进行.
 
-#### [A Scanner Darkly](http://www.imdb.com/title/tt0405296/) (2006) [7.1]
+#### [A Scanner Darkly](https://www.imdb.com/title/tt0405296/) (2006) [7.1]
 
 分类：`反乌托邦``数码朋克`
 
 > An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
 
-#### [Akira](http://www.imdb.com/title/tt0094625/) (1988) [8.1]
+#### [Akira](https://www.imdb.com/title/tt0094625/) (1988) [8.1]
 
 分类：`动漫``反乌托邦``惊悚片`
 
@@ -1283,7 +1283,7 @@ Books:
 
 &gt;一项秘密军事项目危及新东京，将骑自行车的帮派成员变成狂暴的灵能变态精神病，只有两个孩子和一组灵能停止.
 
-#### [Arrival](http://www.imdb.com/title/tt2543164/) (2016) [8.3]
+#### [Arrival](https://www.imdb.com/title/tt2543164/) (2016) [8.3]
 
 类别：Aliens语言学<br />
 导演：_丹尼斯·维伦纽夫_
@@ -1292,7 +1292,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 &gt;当世界上出现12架神秘的宇宙飞船时，语言学教授路易丝·班克斯（Louise Banks）的任务是解释外来访客的语言.
 
-#### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
+#### [Blade Runner](https://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
 类别：反乌托邦ai数码朋克奇点<br>
 导演：_Ridley Scott_
@@ -1310,7 +1310,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 &gt;一位年轻的刀片选手发现了一个长期埋藏的秘密，这使他追捕了已经失踪三十年的前刀片选手里克·德卡德.
 
-#### [Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]
+#### [Brazil](https://www.imdb.com/title/tt0088846/) (1985) [8.0]
 
 分类：`反乌托邦``警察`
 
@@ -1318,7 +1318,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 &gt;未来世界中的官僚试图纠正行政错误，他本人会成为国家的敌人.
 
-#### [Cargo](http://www.imdb.com/title/tt0381940/) (2009) [6.2]
+#### [Cargo](https://www.imdb.com/title/tt0381940/) (2009) [6.2]
 
 分类：`space``反乌托邦`
 
@@ -1326,7 +1326,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
  &gt; 2270年，地球完全枯竭，没有人居住在那里.  那些有钱的人搬到了瑞亚.  但是大多数人口生活在空间站的轨道上.  劳拉·波特曼（Laura Portmann）博士决定在卡桑德拉（Kassandra）货船上工作，历时8年，前往RH278轨道的42号车站，筹集资金与她在Rhea的姐姐Arianne会面.
 
-#### [Chappie](http://www.imdb.com/title/tt1823672/) (2015) [7.1]
+#### [Chappie](https://www.imdb.com/title/tt1823672/) (2015) [7.1]
 
 类别：`ai`police`
 
@@ -1334,7 +1334,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
  &gt;在不久的将来，犯罪将由一支机械化的警察部队巡逻.  当一个警察机器人Chappie被盗并进行新的编程后，他成为第一个具有自我思考能力的机器人.
 
-#### [Children of Men](http://www.imdb.com/title/tt0206634/) (2006) [7.9]
+#### [Children of Men](https://www.imdb.com/title/tt0206634/) (2006) [7.9]
 
 分类：`反乌托邦``戏剧`
 
@@ -1352,11 +1352,11 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 &gt;探索一个人的生命在过去，现在和未来如何相互影响，因为一个人的灵魂从杀手变成了英雄，善良的行为跨越了几个世纪，激发了一场革命.
 
-#### [Coherence](http://www.imdb.com/title/tt2866360/) (2013) [7.1]
+#### [Coherence](https://www.imdb.com/title/tt2866360/) (2013) [7.1]
 
 &gt;当彗星从头顶飞过时，一群朋友在晚上聚在一起吃晚饭时，奇怪的事情开始发生.
 
-#### [Contact](http://www.imdb.com/title/tt0118884/) (1997) [7.4]
+#### [Contact](https://www.imdb.com/title/tt0118884/) (1997) [7.4]
 
 类别：外星人空间戏剧悬疑惊悚<br>
 导演：_Robert Zemeckis_ <br>
@@ -1365,7 +1365,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 &gt; Ellie Arroway博士经过多年的搜索，找到了有关外星情报的确凿的无线电证据，并为一台神秘机器发送了计划.
 
-#### [Dark City](http://www.imdb.com/title/tt0118929/) (1998) [7.7]
+#### [Dark City](https://www.imdb.com/title/tt0118929/) (1998) [7.7]
 
 类别：“外星人”，“神秘”，“科幻”，“惊悚片” <br>
 导演：_Alex Proyas_ <br>
@@ -1374,7 +1374,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 &gt;一个男人在没有阳光的噩梦世界中挣扎着对过去的回忆，包括一个他不记得的妻子.
 
-#### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
+#### [District 9](https://www.imdb.com/title/tt1136608/) (2009) [8.0]
 
 类别：`aliens``thriller``apartheid` <br>
 导演：_尼尔·布隆坎普_ <br>
@@ -1388,7 +1388,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 &gt;被迫生活在地球上类似贫民窟的地球环境中的外星人种族突然发现了接触生物技术的政府特工.
 
-#### [Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]
+#### [Dune](https://www.imdb.com/title/tt0087182/) (1984) [6.6]
 
 分类：`space``aliens` <br>
 导演：_大卫·林奇_
@@ -1397,7 +1397,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 &gt;公爵的儿子在暗杀了银河皇帝及其父亲的邪恶克星后，带领沙漠战士对付他的父亲，并使沙漠世界脱离皇帝的统治.
 
-#### [Edge of Tomorrow](http://www.imdb.com/title/tt1631867/) (2014) [7.9]
+#### [Edge of Tomorrow](https://www.imdb.com/title/tt1631867/) (2014) [7.9]
 
 Categories: `thriller` `police` `aliens`
 
@@ -1413,21 +1413,21 @@ Categories: `thriller` `police` `aliens`
 
  &gt;一名军官与外星人敌人进行了外星战争，他们可以重整一天，了解未来.  当这名军官被赋予相同的权力时，他将与一名特种部队战士联手尝试结束战争.
 
-#### [Eraserhead](http://www.imdb.com/title/tt0074486/) (1977) [7.4]
+#### [Eraserhead](https://www.imdb.com/title/tt0074486/) (1977) [7.4]
 
 &gt;亨利·斯宾塞（Henry Spencer）试图度过他的工业环境，生气的女友以及他刚出生的变异孩子无法忍受的尖叫声.
 
-#### [Europa Report](http://www.imdb.com/title/tt2051879/) (2013) [6.5]
+#### [Europa Report](https://www.imdb.com/title/tt2051879/) (2013) [6.5]
 
 分类：`space`
 
 &gt;一支国际宇航员承担了一项私人资助的任务，以寻找木星第四大卫星上的生命.
 
-#### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9]
+#### [Ex Machina](https://www.imdb.com/title/tt0470752/) (2015) [7.9]
 
 分类：`ai`
 
- 发人深省的电影，探讨人性化的意义.  深沉，悬念的，有时是幽闭恐怖的.  行事至上.  视觉效果是如此出色且自然，您甚至都不会注意到它们.  确实是我多年来看过的最好的科幻电影.  -- [@sindresorhus](http://sindresorhus.com)
+ 发人深省的电影，探讨人性化的意义.  深沉，悬念的，有时是幽闭恐怖的.  行事至上.  视觉效果是如此出色且自然，您甚至都不会注意到它们.  确实是我多年来看过的最好的科幻电影.  -- [@sindresorhus](https://sindresorhus.com)
 
  有点模仿Google.  一家庞大的搜索提供商的所有者完全保密地创建了AI类人动物，并呼吁年轻的程序员对 [Turing test](https://en.wikipedia.org/wiki/Turing_test)  在一个秘密的地下实验室测试他的创作.  可以向对AI感兴趣的人很好地介绍Turing测试.老实说，电影的结尾对我来说有点令人失望.  -- [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
@@ -1451,7 +1451,7 @@ Categories: `thriller` `police` `aliens`
 
 &gt;一个飞船船员去调查一个星球殖民地的寂静，却发现了两个幸存者和其中一个存在的致命秘密.
 
-#### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) (1999) [7.3]
+#### [Galaxy Quest](https://www.imdb.com/title/tt0177789/) (1999) [7.3]
 
 分类：喜剧空间外国人
 
@@ -1459,7 +1459,7 @@ Categories: `thriller` `police` `aliens`
 
 &gt;当外星人的种族需要他们的帮助时，太空歌剧电视剧的校友必须扮演他们的角色.
 
-#### [Gattaca](http://www.imdb.com/title/tt0119177/) (1997) [7.8]
+#### [Gattaca](https://www.imdb.com/title/tt0119177/) (1997) [7.8]
 
 分类：`biopunk``space`
 
@@ -1467,19 +1467,19 @@ Categories: `thriller` `police` `aliens`
 
 &gt;为了追求自己一生的太空旅行梦想，遗传上处于劣等地位的人会以高级者的身份为身份.
 
-#### [Ghost in the Shell](http://www.imdb.com/title/tt0113568/) (1995) [8.0]
+#### [Ghost in the Shell](https://www.imdb.com/title/tt0113568/) (1995) [8.0]
 
 分类：`动漫``ai``警察
 
 &gt;一位半机械人的警察和她的伴侣追捕了一个神秘而强大的黑客，名为Puppet Master.
 
-#### [Godzilla](http://www.imdb.com/title/tt0047034/) (1954) [7.5]
+#### [Godzilla](https://www.imdb.com/title/tt0047034/) (1954) [7.5]
 
 类别：`启示`外星人`动作`
 
 &gt;美国的核武器测试导致产生了一种看似不可阻挡的，类似于恐龙的野兽.
 
-#### [Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2]
+#### [Hackers](https://www.imdb.com/title/tt0113243/) (1995) [6.2]
 
 Categories: `cyberpunk` `police` `thriller`
 
@@ -1487,7 +1487,7 @@ Categories: `cyberpunk` `police` `thriller`
 
  &gt;一个小男孩因编写计算机病毒而被美国特勤局逮捕，并被禁止在18岁生日之前使用计算机.  多年后，他和他的新朋友发现了释放危险的计算机病毒的阴谋，但在被特勤局和病毒背后的邪恶计算机天才追捕时，他们必须利用自己的计算机技能来寻找证据.
 
-#### [Her](http://www.imdb.com/title/tt1798709/) (2014) [8.0]
+#### [Her](https://www.imdb.com/title/tt1798709/) (2014) [8.0]
 
 类别：`ai`戏剧`奇点
 
@@ -1497,7 +1497,7 @@ Categories: `cyberpunk` `police` `thriller`
 
 &gt;一个孤独的作家会与他新购买的旨在满足他的各种需求的操作系统形成一种不太可能的关系.
 
-#### [I Origins](http://www.imdb.com/title/tt2884206/) (2014) [7.3]
+#### [I Origins](https://www.imdb.com/title/tt2884206/) (2014) [7.3]
 
 类别：`cyberpunk`
 
@@ -1511,7 +1511,7 @@ Categories: `cyberpunk` `police` `thriller`
 
 &gt; 2035年，一名仇视技术的警察调查可能由机器人实施的犯罪，这对人类造成了更大的威胁.
 
-#### [Inception](http://www.imdb.com/title/tt1375666/) (2010) [8.8]
+#### [Inception](https://www.imdb.com/title/tt1375666/) (2010) [8.8]
 
 类别：`cyberpunk`
 
@@ -1519,7 +1519,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 &gt;一个通过使用梦想共享技术窃取公司机密的小偷被赋予了将想法植入CEO头脑中的反任务.
 
-#### [Interstellar](http://www.imdb.com/title/tt0816692/) (2014) [8.7]
+#### [Interstellar](https://www.imdb.com/title/tt0816692/) (2014) [8.7]
 
 分类：`space`
 
@@ -1529,7 +1529,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 &gt;一群探险家穿过虫洞，以确保人类的生存.
 
-#### [La Jetée](http://www.imdb.com/title/tt0056119/) (1962) [8.4]
+#### [La Jetée](https://www.imdb.com/title/tt0056119/) (1962) [8.4]
 
 分类：`时间旅行``戏剧`
 
@@ -1537,7 +1537,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
  &gt;时间旅行，静止图像，过去，现在和未来以及第三次世界大战的后果.  一个男人，一个奴隶的故事，时不时地往返，以寻找解决世界命运的办法.  为了补充其不断减少的食品，药品和能源库存，并以此来永久记忆一个孤独的女性，生命，死亡和过去的事件，这些都在飞机场上再现.
 
-#### [Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]
+#### [Metropolis](https://www.imdb.com/title/tt0017136/) (1927) [8.3]
 
 分类：`启示录`
 
@@ -1545,7 +1545,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 &gt;在一个由工人阶级和城市规划者紧密划分的未来城市中，城市策划者的儿子爱上了工人阶级的先知，后者预言了救世主的降临将调解他们之间的分歧.
 
-#### [Minority Report](http://www.imdb.com/title/tt0181689/) (2002) [7.7]
+#### [Minority Report](https://www.imdb.com/title/tt0181689/) (2002) [7.7]
 
 类别：`ai`police`
 
@@ -1553,7 +1553,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 &gt;在未来一个特殊的警察部门能够逮捕凶手，使他们犯罪之前，该部门的一名官员本人被指控犯有未来的谋杀罪.
 
-#### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]
+#### [Moon](https://www.imdb.com/title/tt1182345/) (2009) [8.0]
 
 分类：`space``drama`
 
@@ -1569,7 +1569,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 > A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 
-#### [Oblivion](http://www.imdb.com/title/tt1483013/) (2013) [7.0]
+#### [Oblivion](https://www.imdb.com/title/tt1483013/) (2013) [7.0]
 
 分类：`启示录`
 
@@ -1577,7 +1577,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 &gt;被指派提取地球剩余资源的退伍军人开始质疑他对自己的任务和自己的了解.
 
-#### [Open Your Eyes](http://www.imdb.com/title/tt0125659/) (1997) [7.8]
+#### [Open Your Eyes](https://www.imdb.com/title/tt0125659/) (1997) [7.8]
 
 分类：`drama``romance`
 
@@ -1585,13 +1585,13 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 &gt;一个非常英俊的男人找到了自己一生的挚爱，但是他遭受了一次事故，在严重毁容后需要通过手术修复面部.
 
-#### [Paprika](http://www.imdb.com/title/tt0851578/) (2006) [7.7]
+#### [Paprika](https://www.imdb.com/title/tt0851578/) (2006) [7.7]
 
 分类：`ai`
 
  &gt;当一台让治疗师进入患者梦dream以求的机器被盗时，所有的地狱都会崩溃.  只有年轻的女性治疗师才能阻止它：辣椒粉.
 
-#### [Possible Worlds](http://www.imdb.com/title/tt0222293/) (2000) [6.9]
+#### [Possible Worlds](https://www.imdb.com/title/tt0222293/) (2000) [6.9]
 
 分类：`哲学``戏剧`
 
@@ -1599,17 +1599,17 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 > A man lives in parallel worlds, falling in love with the same woman, while the police hunt down a serial killer who steals brains.
 
-#### [Predestination](http://www.imdb.com/title/tt2397535/) (2014) [7.5]
+#### [Predestination](https://www.imdb.com/title/tt2397535/) (2014) [7.5]
 
 类别：`时间旅行`
 
  &gt;时间旅行的临时代理人的生活.  在完成他的最后任务时，他必须追捕一直困扰着他的一名罪犯.
 
-#### [Primer](http://www.imdb.com/title/tt0390384/) (2004) [7.0]
+#### [Primer](https://www.imdb.com/title/tt0390384/) (2004) [7.0]
 
 &gt;四个朋友/刚起步的企业家知道他们比自己制造的不同的错误检查设备更大，更富创新力，他们在为新发明而苦苦挣扎.
 
-#### [Serenity (Firefly)](http://www.imdb.com/title/tt0379786/) (2005) [8.0]
+#### [Serenity (Firefly)](https://www.imdb.com/title/tt0379786/) (2005) [8.0]
 
 分类：`space`western`action`
 
@@ -1617,13 +1617,13 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 &gt;“宁静”号船的船员试图逃避刺客，该刺客被遣返以夺回其心灵感应的一名人员.
 
-#### [Snowpiercer](http://www.imdb.com/title/tt1706620/) (2013) [7.0]
+#### [Snowpiercer](https://www.imdb.com/title/tt1706620/) (2013) [7.0]
 
 类别：`启示`动作`
 
 &gt;在一个失败的气候变化实验会杀死地球上所有生命的未来中，只有少数幸运的人登上了Snowpiercer，这是一列遍及全球的火车，在那里出现了阶级制度.
 
-#### [Solaris](http://www.imdb.com/title/tt0069293/) (1972) [8.1]
+#### [Solaris](https://www.imdb.com/title/tt0069293/) (1972) [8.1]
 
 分类：`space``drama` <br>
 导演：_Andrei Tarkovsky_
@@ -1632,7 +1632,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 &gt;心理学家被送往一个绕着遥远的行星运行的站，以发现导致机组人员精神错乱的原因.
 
-#### [Solaris](http://www.imdb.com/title/tt0307479/) (2002) [6.2]
+#### [Solaris](https://www.imdb.com/title/tt0307479/) (2002) [6.2]
 
 分类：`space``drama` <br>
 导演：_史蒂芬·索德伯格_
@@ -1641,19 +1641,19 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 > A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.
 
-#### [Source Code](http://www.imdb.com/title/tt0945513/) (2011) [7.5]
+#### [Source Code](https://www.imdb.com/title/tt0945513/) (2011) [7.5]
 
 类别：`ai`action`
 
  &gt;一名士兵在别人的身体中醒来，发现他属于政府实验计划的一部分，该计划是寻找通勤火车的轰炸机.  他的任务只有8分钟才能完成.
 
-#### [Stalker](http://www.imdb.com/title/tt0079944/) (1979) [8.2]
+#### [Stalker](https://www.imdb.com/title/tt0079944/) (1979) [8.2]
 
  潜行者（Stalker）是一部基于《路边野餐》的哲学艺术电影和美学杰作.  -- [@ggb](https://github.com/ggb)
 
  &gt;在一个灰色且未命名的城市附近是安全区，这是一个由铁丝网和士兵守卫的外星人场所.  在妻子的反对下，一个男人在清晨起来，与残疾的女儿离开，与两个男人见面.  他是缠扰者，是极少数拥有精神天赋（并有可能被监禁）将人们带入防区的房间之一，在那里人们的秘密希望得以实现.
 
-#### [Sunshine](http://www.imdb.com/title/tt0448134/) (2007) [7.3]
+#### [Sunshine](https://www.imdb.com/title/tt0448134/) (2007) [7.3]
 
 Categories: `space` `action`
 
@@ -1661,11 +1661,11 @@ Categories: `space` `action`
 
 &gt; 2057年，一组国际宇航员被派去执行危险任务，以核裂变炸弹重燃垂死的太阳.
 
-#### [The City of Lost Children](http://www.imdb.com/title/tt0112682/) (1995) [7.7]
+#### [The City of Lost Children](https://www.imdb.com/title/tt0112682/) (1995) [7.7]
 
 > A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.
 
-#### [The Fifth Element](http://www.imdb.com/title/tt0119116/) (1997) [7.6]
+#### [The Fifth Element](https://www.imdb.com/title/tt0119116/) (1997) [7.6]
 
 Categories: `space` `action`
 
@@ -1681,7 +1681,7 @@ Categories: `space` `action`
 
 &gt;在外星人的施工人员将地球摧毁之前几秒钟，旅行者亚瑟·登特（Arthur Dent）被他的朋友福特·普雷迪夫（Ford Prefect）赶下了地球，他的研究人员撰写了新版的《银河旅行者指南》.
 
-#### [The Island](http://www.imdb.com/title/tt0399201/) (2005) [6.9]
+#### [The Island](https://www.imdb.com/title/tt0399201/) (2005) [6.9]
 
 分类：`action`
 
@@ -1689,17 +1689,17 @@ Categories: `space` `action`
 
  &gt;林肯六回音（Lincoln Six-Echo）是一个看似乌托邦式的居民，但该设施将于2019年入住.像在这个经过精心控制的环境中的所有居民一样，林肯希望被选到“小岛”-据报道是最后一个未被污染的地点在这个星球上.  但是林肯很快发现关于他存在的一切都是谎言.  他和该设施的所有其他居民实际上都是人类的克隆人.  林肯与一个名叫约旦两河三角洲的美丽居民大胆逃脱.  林肯大学和乔丹大学曾一度将他们安置在这个险恶的研究所的力量下不懈地追赶，他们为了他们的制造者而与他们的生命进行了一场竞赛.
 
-#### [The Man from Earth](http://www.imdb.com/title/tt0756683/) (2007) [8.0]
+#### [The Man from Earth](https://www.imdb.com/title/tt0756683/) (2007) [8.0]
 
 &gt;这位即将退休的学者向他的同事透露他永不衰老，走了14,000年之久，为约翰·奥尔德曼（John Oldman）教授举行的即兴再见派对变成了神秘的审问.
 
-#### [The Martian](http://www.imdb.com/title/tt3659388/) (2015) [8.2]
+#### [The Martian](https://www.imdb.com/title/tt3659388/) (2015) [8.2]
 
  这是一本很棒的书的相当准确的表示，但是它更多地关注Watney的个性而不是科学（这是既定的，因为我们可以在其中真正地看到Watney，而不是仅仅阅读他在书中的日志）.  太空拍摄的效果令人难以置信，一个场景像一条丝带，像脐带一样漂浮在零克中-绝对美丽.  这部电影演员出色，演员出色.  甚至在Elrond理事会上也提到了Glorfindel.  我想我几年来没有在剧院里这么笑过.  爱它.  -- [@RichardLitt](https://github.com/RichardLitt)
 
  &gt;在对火星进行载人飞行任务期间，推测马克·沃特尼（Mark Watney）在激烈的暴风雨中丧生，并被其机组人员抛在了身后.  但是沃特尼（Watney）幸存下来，发现自己被困在这个敌对的星球上，独自一人.  他只有很少的补给，必须依靠自己的才智，才智和精神维持生存，并找到向地球发出他还活着的信号.
 
-#### [The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7]
+#### [The Matrix](https://www.imdb.com/title/tt0133093/) (1999) [8.7]
 
 分类：`ai``action``apocalypse``singularity`
 
@@ -1715,7 +1715,7 @@ Categories: `space` `action`
 
 &gt;希望改变过去的事件，一位19世纪的发明家走到了80万年前，他发现人类分为两个交战种族.
 
-#### [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/) (1999) [7.0]
+#### [The Thirteenth Floor](https://www.imdb.com/title/tt0139809/) (1999) [7.0]
 
 类别：`惊悚片`ai`
 
@@ -1723,11 +1723,11 @@ Categories: `space` `action`
 
  &gt;计算机科学家Hannon Fuller发现了一些极其重要的东西.  他正要把发现告诉他的同事道格拉斯·霍尔（Douglas Hall），但是知道他的人在后面，这位老人在公司创建的计算机生成的并行世界中留下了一封信（看起来像30年代，看上去真实的人充满了真实的情感） .  富勒当天晚上在我们的现实世界中被谋杀，他的同事也被怀疑.  道格拉斯在他的浴室里发现了一件血腥的衬衫，他无法回忆起富勒被谋杀当晚的行为.  他登录系统以查找字母，但必须面对意外情况.  真相比他想像的还要残酷.
 
-#### [The Signal](http://www.imdb.com/title/tt2910814/) (2014) [6.2]
+#### [The Signal](https://www.imdb.com/title/tt2910814/) (2014) [6.2]
 
  &gt;在公路旅行中，计算机天才将Nic和两个朋友吸引到一个孤立的区域.  当一切突然变暗时，Nic恢复了意识-却发现自己陷入了一场噩梦.
 
-#### [Transcendence](http://www.imdb.com/title/tt2209764/) (2014) [6.3]
+#### [Transcendence](https://www.imdb.com/title/tt2209764/) (2014) [6.3]
 
 分类：`ai`
 
@@ -1735,13 +1735,13 @@ Categories: `space` `action`
 
 &gt;当科学家的意识被上传到一个这样的程序中时，他对人工智能的追求就产生了危险的影响.
 
-#### [Twelve Monkeys](http://www.imdb.com/title/tt0114746/) (1996) [8.1]
+#### [Twelve Monkeys](https://www.imdb.com/title/tt0114746/) (1996) [8.1]
 
 类别：“时间旅行”动作
 
 &gt;在一个饱受疾病摧残的未来世界中，罪犯会被及时退回，以收集有关消灭地球上大多数人口的人造病毒的信息.
 
-#### [Vanilla Sky](http://www.imdb.com/title/tt0259711/) (2001) [6.9]
+#### [Vanilla Sky](https://www.imdb.com/title/tt0259711/) (2001) [6.9]
 
 分类：`drama``romance`
 
@@ -1755,7 +1755,7 @@ Categories: `space` `action`
 
 ![](https://cloud.githubusercontent.com/assets/170270/7905777/f4fc5402-081e-11e5-9a71-8dad63e3b30b.gif)
 
-#### [Star Trek II: The Wrath of Khan](http://www.imdb.com/title/tt0084726/) [7.7]
+#### [Star Trek II: The Wrath of Khan](https://www.imdb.com/title/tt0084726/) [7.7]
 
  这是一部经典电影，仅因令人难以置信的标志性“ khaaaaan”回声而值得一看.  然而，更令人印象深刻的是里卡多·蒙塔尔班（Ricardo Montalban）的表现，这本身就令人难以置信.  同样，在与主流粉饰相反的举动中，墨西哥人而不是白种人扮演了基因改造的超人，这使得这部电影展现了多样性的力量.  这部电影很棒看.  -- [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1763,7 +1763,7 @@ Categories: `space` `action`
 
 ## TV Series
 
-#### [Babylon 5](http://www.imdb.com/title/tt0105946/) (1994–1998) [8.2]
+#### [Babylon 5](https://www.imdb.com/title/tt0105946/) (1994–1998) [8.2]
 
 分类：`动作``冒险``戏剧`
 
@@ -1775,7 +1775,7 @@ Categories: `space` `action`
 
 &gt;中立地区的空间站是独特的五年传奇的重点.
 
-#### [Battlestar Galactica](http://www.imdb.com/title/tt0407362/) (2004–2009) [8.8]
+#### [Battlestar Galactica](https://www.imdb.com/title/tt0407362/) (2004–2009) [8.8]
 
 分类：`动作``冒险``戏剧`
 
@@ -1783,19 +1783,19 @@ Categories: `space` `action`
 
 &gt;当古老的敌人赛昂人重新出现并消灭了12个殖民地时，年迈的卡拉狄加的船员在前往传说中的地球第13殖民地时保护着一支小型的民用舰队-这是人类的最后一支.
 
-#### [Black Mirror](http://www.imdb.com/title/tt2085059/) (2011– ) [8.8]
+#### [Black Mirror](https://www.imdb.com/title/tt2085059/) (2011– ) [8.8]
 
 分类：`drama``thriller`
 
 &gt;电视选集，展现生活和技术的阴暗面.
 
-#### [Blakes 7](http://www.imdb.com/title/tt0076987/) (1978–1981) [8.0]
+#### [Blakes 7](https://www.imdb.com/title/tt0076987/) (1978–1981) [8.0]
 
 分类：`冒险``戏剧`
 
 &gt;一群罪犯和流浪者与一艘高度先进的外星飞船对抗极权主义的人族联合会进行游击战争.
 
-#### [Children of Dune](http://www.imdb.com/title/tt0287839/) (2003) [7.7]
+#### [Children of Dune](https://www.imdb.com/title/tt0287839/) (2003) [7.7]
 
 分类：`冒险``戏剧``幻想`
 
@@ -1803,19 +1803,19 @@ Categories: `space` `action`
 
 &gt;保罗“ Muad&#39;dib” Atreides的双胞胎被卷入Arrakis（“ Dune”）和整个宇宙的政治景观中.
 
-#### [Continuum](http://www.imdb.com/title/tt1954347/) (2012–2015) [7.8]
+#### [Continuum](https://www.imdb.com/title/tt1954347/) (2012–2015) [7.8]
 
 分类：`action``thriller`
 
 &gt;一位2077年的侦探发现自己被困在当今的温哥华，正在寻找未来的残酷犯罪分子.
 
-#### [Doctor Who](http://www.imdb.com/title/tt0436992/) (1964-1989, 2005– ) [8.9]
+#### [Doctor Who](https://www.imdb.com/title/tt0436992/) (1964-1989, 2005– ) [8.9]
 
 类别：`冒险``戏剧``家庭`
 
 &gt;时间旅行的外星冒险家和他的同伴的进一步冒险.
 
-#### [Dune](http://www.imdb.com/title/tt0142032/) (2000) [7.1]
+#### [Dune](https://www.imdb.com/title/tt0142032/) (2000) [7.1]
 
 分类：`冒险``戏剧``幻想`
 
@@ -1831,13 +1831,13 @@ Categories: `space` `action`
 
 &gt;美国的马歇尔市成为西北偏僻的尤里卡小镇的警长，那里的美国精英们被秘密地藏匿起来，为政府创造未来主义的发明，而这些发明往往会带来灾难性的错误.
 
-#### [Farscape](http://www.imdb.com/title/tt0187636/) (1999–2003) [8.4]
+#### [Farscape](https://www.imdb.com/title/tt0187636/) (1999–2003) [8.4]
 
 分类：`冒险``戏剧`
 
 &gt;被扔到宇宙的遥远地方，一位地球宇航员发现自己是逃亡的外星飞船船员的一部分.
 
-#### [Firefly](http://www.imdb.com/title/tt0303461/) (2002–2003) [9.2]
+#### [Firefly](https://www.imdb.com/title/tt0303461/) (2002–2003) [9.2]
 
 分类：`冒险``戏剧`西部`
 
@@ -1851,19 +1851,19 @@ Categories: `space` `action`
 
 &gt;未来五百年，一架小型航天器上的叛徒乘员试图生存，因为他们要穿越银河系的未知部分，并逃避交战派系和权威特工的追捕.
 
-#### [Fringe](http://www.imdb.com/title/tt1119644/) (2008–2013) [8.5]
+#### [Fringe](https://www.imdb.com/title/tt1119644/) (2008–2013) [8.5]
 
 分类：`戏剧``神秘`
 
 > A television drama centered around a female FBI agent who is forced to work with an institutionalized scientist in order to rationalize a brewing storm of unexplained phenomena.
 
-#### [Hitchhiker’s Guide to the Galaxy](http://www.imdb.com/title/tt0081874/) (1981) [8.0]
+#### [Hitchhiker’s Guide to the Galaxy](https://www.imdb.com/title/tt0081874/) (1981) [8.0]
 
 分类：`喜剧``冒险`
 
 &gt;一个地球人和他的外星朋友逃脱了地球的毁灭，并在太空旅行者中进行了一次真正奇怪的冒险.
 
-#### [Neon Genesis Evangelion](http://www.imdb.com/title/tt0112159/) (1995–1996) [8.6]
+#### [Neon Genesis Evangelion](https://www.imdb.com/title/tt0112159/) (1995–1996) [8.6]
 
 类别：“动画”，“动作”，“戏剧”
 
@@ -1877,7 +1877,7 @@ Categories: `space` `action`
 
  &gt;前刺客和富裕的程序员通过监视AI拯救生命，向他们发送即将犯罪的平民身份.  但是，这些罪行的细节（包括平民的角色）仍然是个谜.
 
-#### [Red Dwarf](http://www.imdb.com/title/tt0094535/) (1988–1999, 2009– ) [8.5]
+#### [Red Dwarf](https://www.imdb.com/title/tt0094535/) (1988–1999, 2009– ) [8.5]
 
 类别：`喜剧`
 
@@ -1893,13 +1893,13 @@ Categories: `space` `action`
 
 &gt;动画系列，讲述一位超级科学家及其不太聪明的孙子的功绩.
 
-#### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) (2004–2009) [8.1]
+#### [Stargate Atlantis](https://www.imdb.com/title/tt0374455/) (2004–2009) [8.1]
 
 Categories: `action` `drama`
 
 &gt;一支由科学家和军事人员组成的国际团队在飞马星系中发现了星际之门网络，并与一个强大的新敌人“幽灵”面对面.
 
-#### [Stargate SG1](http://www.imdb.com/title/tt0118480/) (1997–2007) [8.5]
+#### [Stargate SG1](https://www.imdb.com/title/tt0118480/) (1997–2007) [8.5]
 
 分类：`动作``冒险``戏剧`
 
@@ -1907,7 +1907,7 @@ Categories: `action` `drama`
 
 &gt;组建了一支秘密军事小组SG-1，以探索最近发现的星际之门.
 
-#### [Stargate Universe](http://www.imdb.com/title/tt1286039/) (2009–2011) [7.7]
+#### [Stargate Universe](https://www.imdb.com/title/tt1286039/) (2009–2011) [7.7]
 
 类别：`drama`
 
@@ -1915,7 +1915,7 @@ Categories: `action` `drama`
 
 &gt;一群士兵和平民被困在离家数十亿光年远的古代宇宙飞船上，为生存而奋斗并找到返回地球的路.
 
-#### [Star Trek: Deep Space Nine](http://www.imdb.com/title/tt0106145/) (1993–1999) [7.9]
+#### [Star Trek: Deep Space Nine](https://www.imdb.com/title/tt0106145/) (1993–1999) [7.9]
 
 分类：`动作``冒险``戏剧`
 
@@ -1923,7 +1923,7 @@ Categories: `action` `drama`
 
 &gt;联邦空间站绕着解放的巴约行星（Bajor）旋转，守卫着一个稳定的虫洞向银河的另一侧开放.
 
-#### [Star Trek: Discovery](http://www.imdb.com/title/tt5171438/) (2017-) [7.3]
+#### [Star Trek: Discovery](https://www.imdb.com/title/tt5171438/) (2017-) [7.3]
 
 分类：`动作``冒险``戏剧`
 
@@ -1931,7 +1931,7 @@ Categories: `action` `drama`
 
 &gt;在柯克，史波克和企业号诞生十年之前，“发现号”发现了新的世界和新生命形式，因为一位星际舰队军官学会了理解外星人的一切.
 
-#### [Star Trek: Enterprise](http://www.imdb.com/title/tt0244365/) (2001–2005) [7.5]
+#### [Star Trek: Enterprise](https://www.imdb.com/title/tt0244365/) (2001–2005) [7.5]
 
 分类：动作冒险神秘
 
@@ -1939,7 +1939,7 @@ Categories: `action` `drama`
 
 &gt;在柯克船长执行五年任务之前的一个世纪，乔纳森·阿彻（Jonathan Archer）在《星际舰队》成立初期担任地球飞船NX-01的船长，导致联邦和地球与罗慕兰之战的形成.
 
-#### [Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]
+#### [Star Trek: The Next Generation](https://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]
 
 分类：动作冒险神秘
 
@@ -1947,7 +1947,7 @@ Categories: `action` `drama`
 
 &gt;在詹姆斯·T·柯克船长（James T. Kirk）上尉执行5年任务后的几十年中，新公司中的新一代“星际舰队”（Starfleet）军官们开始了自己的任务，去往无人可及的地方.
 
-#### [Star Trek: The Original Series](http://www.imdb.com/title/tt0060028/) (1966–1969) [8.4]
+#### [Star Trek: The Original Series](https://www.imdb.com/title/tt0060028/) (1966–1969) [8.4]
 
 分类：动作冒险神秘
 
@@ -1975,19 +1975,19 @@ The Original Series, in many ways, is Star Trek at its purest. It's true that it
 
 &gt;跟随未来400年地球星际舰队中功能不太正常的探索船的船员.
 
-#### [The Prisoner](http://www.imdb.com/title/tt0061287/) (1967–1968) [8.8]
+#### [The Prisoner](https://www.imdb.com/title/tt0061287/) (1967–1968) [8.8]
 
 分类：`戏剧``神秘`
 
  &gt;辞职后，一名特工被绑架并带到一个看起来像田园诗般的村庄，但实际上是一座离奇的监狱.  他的看守要求信息.  他什么也没给，但只想逃脱.
 
-#### [The X-Files](http://www.imdb.com/title/tt0106179/) (1993-2002, 2016- ) [8.8]
+#### [The X-Files](https://www.imdb.com/title/tt0106179/) (1993-2002, 2016- ) [8.8]
 
 分类：`戏剧``神秘`
 
 &gt;两名联邦调查局特工，信徒福克斯·穆德（Fox Mulder）和持怀疑态度的达娜·斯库利（Dana Scully）调查了这起奇怪而无法解释的事件，而隐藏的部队正在努力阻止他们的努力.
 
-#### [Twilight Zone](http://www.imdb.com/title/tt0052520/) (1959–1964) [9.0]
+#### [Twilight Zone](https://www.imdb.com/title/tt0052520/) (1959–1964) [9.0]
 
 类别：`戏剧``幻想``恐怖`
 
@@ -2011,7 +2011,7 @@ The Original Series, in many ways, is Star Trek at its purest. It's true that it
 
  &gt;来自JONATHAN LUNA（《剑，女童》，《蜘蛛侠：起源》）和SARAH VAUGHN（《 Sparkshooter》，被毁），出现了ALEX + ADA，这是一部在不久的将来设定的科幻/戏剧.  Alex想要的世界上最后一件东西是X5，这是现实中最新的Android.  但是，在Ada投入生活后，他发现她不仅仅是一个机器人.  亚历克斯（Alex）冒着巨大的风险来解锁艾达（Ada），以便她可以自己思考并探索作为有情机器人的生活.
 
-#### [Arzach](http://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius* [4.06]
+#### [Arzach](https://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius* [4.06]
 
 类别：“科幻小​​说”，“科幻小说”，“网络朋克”
 
@@ -2027,7 +2027,7 @@ The Original Series, in many ways, is Star Trek at its purest. It's true that it
 
  &gt;前无政府主义科学家委员会成员格兰特·麦凯（Grant McKay）终于做到了不可能：他破译了黑科学，冲破了现实的障碍.  但是，超越面纱的不是顿悟，而是混乱.  现在格兰特（Grant）和他的团队迷失了自己，活着的幽灵在无限的外星世界海洋中沉船沉没，穿越了久已被遗忘，古老而难以想象的黑暗境界.  唯一的办法就是前进.  唯一的问题是，他们愿意走多远，又能忍受多少，才能再次回家？  与作家RICK REMENDER和MATTEO SCALERA＆DEAN WHITE的超级巨星艺术团队一道，演绎这部脸庞化的科幻史诗，涵盖了造成这一切的人所领导的铸币厂演员的一生.
 
-#### [Global Frequency](http://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis* [4.05]
+#### [Global Frequency](https://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis* [4.05]
 
 类别：“科幻小​​说”“科幻小说”
 
@@ -2043,7 +2043,7 @@ The Original Series, in many ways, is Star Trek at its purest. It's true that it
 
  &gt;在退化的反乌托邦世界中，低级侦探约翰·迪福尔（John Difool）发现一件古老的神秘文物“ The Incal”时，发现自己的生活被颠倒了.  Difool的冒险经历将使他与银河系最伟大的战士Metabaron发生冲突，并使他与Technopope强大的力量抗衡.  这些相遇以及更多的相遇构成了一个漫画和宇宙比例的故事，Difool不仅为自己的生存而奋斗，还为整个宇宙的生存而战.
 
-#### [The Manhattan Projects](http://www.goodreads.com/book/show/15736709-the-manhattan-projects-volume-1) (2015-) *by Jonathan Hickman* [3.9]
+#### [The Manhattan Projects](https://www.goodreads.com/book/show/15736709-the-manhattan-projects-volume-1) (2015-) *by Jonathan Hickman* [3.9]
 
 类别：“科幻小​​说”“科幻小说”
 
@@ -2059,7 +2059,7 @@ The Original Series, in many ways, is Star Trek at its purest. It's true that it
 
  &gt; Saga是由作家Brian K. Vaughan和艺术家Fiona Staples创作的史诗般的太空歌剧/幻想漫画系列，由Image Comics每月出版.  该系列剧受到《星球大战》的强烈影响，并基于沃恩既是孩子又是父母的思想.  它描绘了来自长期交战的外星人种族的两个恋人Alana和Marko，他们在银河战役中逃离当局，因为他们努力照顾自己的新生女儿Hazel（偶尔会叙述该系列）.
 
-#### [Transmetropolitan](http://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis* [4.23]
+#### [Transmetropolitan](https://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis* [4.23]
 
 类别：“科幻小​​说”，“科幻小说”，“网络朋克”
 
@@ -2067,7 +2067,7 @@ The Original Series, in many ways, is Star Trek at its purest. It's true that it
 
  &gt;在经历了多年衰败和in亵的文明盛行之后，多年的自我强加的放逐之后，愤世嫉俗的记者Spider Jerusalem被迫返回他讨厌的工作和他讨厌的城市.  作为《 The Word》报纸的调查记者，Spider攻击了他23世纪超现实主义环境中的不公正行为.  结合黑色幽默，危及生命的情况和道德模棱两可的内容，这本书是对一名非法记者和他试图摧毁的世界的首次关注.
 
-#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison* [3.95]
+#### [We3](https://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison* [3.95]
 
 类别：“科幻小​​说”，“科幻小说”，“社团”
 
@@ -2087,7 +2087,7 @@ The Original Series, in many ways, is Star Trek at its purest. It's true that it
 
 - [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) -黑客新闻
 - [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) -Reddit
-- [Top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - 美国国家公共电台
+- [Top 100 sci-fi and fantasy books as picked by NPR listeners](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - 美国国家公共电台
 - [List of all the movies from this list on Letterboxd](https://letterboxd.com/potherca/list/the-awesome-sci-fi-list/)
 - [List of all the novels, short story collections, and comic books from this list on Goodreads](https://www.goodreads.com/list/show/148073.The_Awesome_Sci_Fi_List)
 

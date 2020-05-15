@@ -95,7 +95,7 @@
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) -使用jQuery和Tailwind CSS进行切换.
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) -Tailwind Starter Kit是Tailwind CSS，免费和开源的扩展.
 - [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
-- [Tailwind Blocks](https://mert.dev/tailwind-blocks) -登陆页面的Tailwind CSS UI块.
+- [tailblocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
 - [Meraki UI Components](https://merakiui.com) -支持RTL语言的精美Tailwind CSS组件.
 
 ## Resources
