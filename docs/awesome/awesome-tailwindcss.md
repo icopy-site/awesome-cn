@@ -69,6 +69,7 @@
 - [Shadow Outline Colors](https://github.com/octoper/tailwindcss-shadow-outline-colors) -根据配置的颜色添加“ box-shadow”实用程序.
 - [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) -为带有可配置边框和背景的工具提示箭头添加CSS实用程序.
 - [Bidirectional](https://github.com/20lives/tailwindcss-rtl) -添加了用于创建多语言双向布局的实用程序.
+- [Fluid Utilities](https://github.com/soberwp/tailwindcss-fl) -利用现有配置生成`fl：`实用程序.
 
 &gt;-_以下这些插件提供的功能已在最新的Tailwind CSS版本中完全或部分实现.
 

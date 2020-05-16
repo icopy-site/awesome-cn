@@ -70,7 +70,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [node-gcode](https://github.com/ryansturmer/node-gcode) -基于Node.js的G代码解释器和模拟器.
 - [svg2gcode](https://github.com/em/svg2gcode) -基于Node.js的命令行实用程序，用于将SVG转换为G代码.
 - [svg2gcode](https://github.com/vishpat/svg2gcode) -基于Python的实用程序，可将SVG快速转换为G代码.
-- [jscut](http://jscut.org/) -用于将SVG转换为G代码的基于Web的实用程序.
+- [jscut](http://jscut.org/) - A web-based utiltity for converting SVG to G-code.
 - [Universal-G-Code-Sender](https://github.com/winder/Universal-G-Code-Sender) -基于Java的grbl兼容跨平台G代码发送者.
 - [ChiliPeppr Hardware Fiddle](http://chilipeppr.com) -基于Web的模块化工作区，以可视化G代码并控制硬件.
 
@@ -101,7 +101,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [p5.js](https://p5js.org) -“ JavaScript库，使艺术家，设计师，教育者和初学者都可以访问编码”.
 - [Paper.js](http://paperjs.org) -《矢量图形脚本的瑞士军刀》.
 - [ln](https://github.com/fogleman/ln) -用Go语言编写的基于矢量的3D渲染器.
-- [autotrace](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+- [autotrace](https://github.com/autotrace/autotrace) -将位图图像转换为矢量图形.
 - [stipplegen](https://github.com/evil-mad/stipplegen)  -从位图图像创建有趣的点画.  （[blog post](https://www.evilmadscientist.com/2012/stipplegen2))
 - [SquiggleDraw](https://github.com/gwygonik/SquiggleDraw/commits/master) -“ SquiggleDraw将使用亮度更改正弦波的幅度，从图像创建SVG文件”.
 - [svgurt](https://svgurt.com) -基于Web的PNG到SVG创意面条.
@@ -158,6 +158,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) -绘图仪简介，AxiDraw，penplot库的演练.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) -用于旅行推销员问题（单路径）艺术的资源.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) -讨论和指向线框的STL文件删除代码的链接.
+- [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) -很多不错的技巧，并非都是Axidraw特有的，还有一些笔评论和方便的3D打印工具.
 
 ## Community
 
@@ -187,6 +188,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
 - [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
 - [Michelle Chandra](https://www.dirtalleydesign.com/)
+- [Jessica In](https://www.jessicain.net/shop-originals)
 
 ## Other Awesomes
 

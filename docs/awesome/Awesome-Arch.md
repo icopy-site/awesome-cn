@@ -34,28 +34,28 @@
 - [Bluestar Linux](https://sourceforge.net/projects/bluestarlinux/) -基于Arch Linux的GNU / Linux发行版.
 - [EndeavourOS](https://endeavouros.com/) -基于Arch Linux的滚动发行版Linux发行版.
 - [ArchLabs Linux](https://archlabslinux.com/) -基于Arch Linux的发行版，以Openbox窗口管理器为主要桌面界面.
-- [Chakra GNU/Linux](https://www.chakralinux.org/) -最初是从Arch Linux派生的，用户友好且功能强大的发行版和现场CD.
+- [Chakra GNU/Linux](https://www.chakralinux.org/) -最初是从Arch Linux派生而来的用户友好且功能强大的发行和现场CD.
 - [Namib GNU/Linux](https://www.namiblinux.org/) -基于Arch Linux发行版（并与其兼容）的桌面操作系统.
 - [ArchEX](http://archex.exton.net/)  -基于Arch Linux的新的（190612）Linux live DVD.  大学校长的座右铭是KISS（Keep It Simple Stupid.
-- [Arch XFerience](https://www.xferience.org/) -基于Arch Linux的现代OS，具有大量软件包和功能，可用于日常操作.
+- [Arch XFerience](https://www.xferience.org/) -基于Arch Linux的现代操作系统，具有大量软件包和功能，可用于日常操作.
 - [Ctlos Linux](https://ctlos.github.io/) -基于Arch Linux的发行版.
 - [MagpieOS](https://www.magpieos.net/) -获得Arch的全新体验.
 - [Netrunner Rolling](https://www.netrunner.com/netrunner-rolling-release/) -基于Manjaro / Arch Linux的发行版.
-- [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) -基于Arch，Puppy，Porteus的轻便，便携式和灵活的Linux.
+- [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) -基于Arch，Puppy，Porteus的轻巧，便携式和灵活的Linux.
 - [TeLiSc OS](https://sourceforge.net/projects/telisc-os/) -基于Arch Linux的简单GNU / Linux发行版，可为您提供带有i3窗口管理器的稳定Arch Linux.
 
 ### Specific purpose
 
 - [BlackArch Linux](https://blackarch.org/) -_（安全/取证）_-基于Arch的Linux发行版，专门用于渗透测试人员和安全研究人员.
 - [ArchStrike](https://archstrike.org/) -_（安全性）_-基于Arch Linux的面向安全专业人员和研究人员的发行版.
-- [SystemRescueCd](http://www.system-rescue-cd.org/) -_（Data Rescue）_-可引导CD-ROM或USB驱动器上的基于Arch的Linux系统，用于在崩溃后修复系统和数据.
+- [SystemRescueCd](http://www.system-rescue-cd.org/) -_（Data Rescue）_-可引导CD-ROM或USB驱动器上的基于Arch的Linux系统，旨在在崩溃后修复系统和数据.
 - [MorpheusArch Linux](https://sourceforge.net/projects/morpheusarch-lxqt/files/) -_（Data Rescue）_-基于Arch Linux的发行版. 
 - [LinHES](http://www.linhes.org/) -_（MythTV）_-尝试使GNU / Linux和MythTV的安装尽可能简单.
-- [UBOS](https://ubos.net/) -_（服务器）_-Linux发行版，旨在极大地减少设置和维护通用网络服务所需的时间.
+- [UBOS](https://ubos.net/) -_（服务器）_-一种Linux发行版，旨在大大减少设置和维护通用网络服务所需的时间.
 - [TalkingArch](https://talkingarch.tk/) -_（辅助）_-Arch Linux实时ISO映像的重制版，已修改为包括针对盲人和视障用户的语音和盲文输出.
 - [Archphile](https://archphile.org/) -_（Raspberry Pi / ARM / Audio）_-嵌入式板的另一种Linux音频发行版.
 - [BBQLinux](http://bbqlinux.org/) -_（Android开发人员）_-专为Android开发人员设计的用户友好型Linux发行版.
-它具有构建AOSP或基于AOSP的发行版（如LineageOS或OmniROM）所需的一切.
+它拥有构建AOSP或基于AOSP的发行版（如LineageOS或OmniROM）所需的一切.
 - [RaspArch](https://sourceforge.net/projects/rasparch/) -_（Raspberry Pi / ARM）_-Arch Linux ARM的“重新制作”.
 
 ## SystemD-free Arch-based distros
@@ -68,7 +68,7 @@
 
 ## Arch Linux Installers
 
-- [Anarchy Linux](https://www.anarchylinux.org/) -简单直观的Arch Linux安装程序.
+- [Anarchy](https://anarchyinstaller.org/) -简单直观的Arch Linux安装程序.
 
 ## Other projects
 

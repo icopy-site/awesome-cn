@@ -557,9 +557,9 @@
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -用于检测移动设备（包括平板电脑）的轻量级PHP类.
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) -用于处理UTF-8字符串的可移植库.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) -具有UTF-8安全替换方法的字符串处理库.
-* [Slugify](https://github.com/cocur/slugify) - A library to convert strings to slugs.
+* [Slugify](https://github.com/cocur/slugify) -将字符串转换为段的库.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) -用于格式化SQL语句的库.
-* [Stringy](https://github.com/danielstjules/Stringy) -具有多字节支持的字符串处理库.
+* [Stringy](https://github.com/voku/Stringy) -具有多字节支持的字符串处理库.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) -用于解析用户代理字符串的库.
 * [URLify](https://github.com/jbroadway/urlify) -Django的URLify.js的PHP端口.
 * [UUID](https://github.com/ramsey/uuid) -用于生成UUID的库.
@@ -661,13 +661,14 @@
 
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) -从.env文件中解析并加载环境变量.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)-从.env文件中解析并加载环境变量.
+* [Yo! Symfony TOML](https://github.com/yosymfony/toml) -的PHP解析器 [TOML](https://github.com/toml-lang/toml). 
 
 ### Third Party APIs
 *用于访问第三方API的库.
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) -官方的PHP AWS开发工具包库.
 * [AsyncAWS](https://async-aws.com/) -一个非官方的异步PHP AWS SDK.
-* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) -正式的Campaign Monitor PHP库.
+* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) -官方的PHP Dropbox SDK库.
 * [Github](https://github.com/KnpLabs/php-github-api) -与Github API交互的库.
 * [Mailgun](https://github.com/mailgun/mailgun-php) 官方Mailgun PHP API.

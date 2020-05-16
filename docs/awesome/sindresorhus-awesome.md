@@ -96,6 +96,7 @@
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) -您的站点的CDN，DNS，DDoS保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) -Google Assistant开发者平台.
 - [ESP](https://github.com/agucova/awesome-esp#readme) -具有WiFi和广泛的IoT应用的低成本微控制器.
+- [Deno](https://github.com/denolib/awesome-deno#readme) -使用V8并内置于Rust的JavaScript和TypeScript的安全运行时.
 
 ## Programming Languages
 
@@ -207,7 +208,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
 - [D3](https://github.com/wbkd/awesome-d3#readme) -用于生成动态，交互式数据可视化的库.
 - [Emails](https://github.com/jonathandion/awesome-emails#readme)
-- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
+- [jQuery](https://github.com/petk/awesome-jquery#readme) -易于使用的JavaScript库进行DOM操作.
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
@@ -331,7 +332,7 @@
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) -遍历嵌套的数据结构.
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 
 ## Books
 
@@ -493,7 +494,7 @@
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) -目标设定和交流最佳实践.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) -领导人员并担任技术公司/环境的经理.
 - [Indie](https://github.com/mezod/awesome-indie#readme) -独立开发商业务.
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -公司在Hacker News上使用的工具.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) -用技术应对气候变化.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) -提供高度的态势感知能力，以帮助改善战略规划和决策.
 
@@ -590,7 +591,7 @@
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) -Node.js CLI框架.
-- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) -低开销，跨平台的3D图形和计算API.
+- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) -排版语言.
 - [Economics](https://github.com/antontarasenko/awesome-economics#readme) -经济学家的入门工具包.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
