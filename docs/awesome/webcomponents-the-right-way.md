@@ -94,6 +94,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
+- [How to deliver Custom Elements](https://medium.com/@WebReflection/how-to-deliver-custom-elements-702fae32d25c)
 - [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
 - [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
 
@@ -166,6 +167,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ## Examples
 
 - [howto-components](https://github.com/GoogleChromeLabs/howto-components) -实施通用Web UI模式的Web组件的集合.
+- [generic-components](https://github.com/thepassle/generic-components) -收集通用Web组件，重点放在可访问性和易用性上.
 - [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) -已弃用HTML标签的Vanilla JS UI组件库.
 - [web-components-examples](https://github.com/mdn/web-components-examples) -与MDN Web组件文档相关的一系列Web组件示例.
 
@@ -222,6 +224,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Vaadin components](https://github.com/vaadin/vaadin) -用于构建业务Web应用程序的不断发展的高质量Web组件集.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) -手绘，粗略外观的一组通用UI元素.
 - [Wokwi Elements](https://github.com/wokwi/wokwi-elements) -Arduino和各种电子零件的Web组件.
+- [Zooplus web components](https://github.com/zooplus/zoo-web-components) -实现Z +商店样式指南的一组Web组件.
 
 ## Frameworks
 
@@ -253,11 +256,11 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) -赛普拉斯的Web组件和Shadow DOM支持.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) -可以刺入Shadow DOM根的querySelector，对于自动测试很有用.
-- [web-component-analyzer](https://github.com/runem/web-component-analyzer) -用于分析Web组件并发出文档/诊断信息的CLI.
+- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
 
 ## Books
 
-- [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Book by Ben Farrell, available at Manning early release program.
+- [Web Components in Action](https://www.manning.com/books/web-components-in-action) -本·法雷尔（Ben Farrell）的书，可在曼宁（Manning）早期发行计划中获得.
 - [Web Component Essentials](https://leanpub.com/web-component-essentials) -由Cory Rylan所著，Leanpub提供早期预览版.
 
 ## Tutorials

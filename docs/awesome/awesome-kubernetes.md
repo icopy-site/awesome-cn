@@ -107,13 +107,14 @@ Installers
 * [Conjure-up](https://github.com/conjure-up/conjure-up) -Ubuntu-云不可知
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) -在您的MAC（边缘通道）上本地运行Kubernetes和Docker
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) -在Windows PC（Edge Channel）上本地运行Kubernetes和Docker
-* [eksctl](https://eksctl.io/) - The official CLI for Amazon EKS
+* [eksctl](https://eksctl.io/) -Amazon EKS的官方CLI
 * [Juju](https://jujucharms.com/canonical-kubernetes) -Ubuntu-云不可知
 * [KubeSphere](https://github.com/kubesphere/kubesphere) -轻松地在多个实例中安装Kubernetes和KubeSphere，包括全栈云原生软件，例如istio，ES，Prometheus，Fluent Bit，SonarQube，Jenkins.
-* [k3s](https://github.com/rancher/k3s)  -轻量级的Kubernetes.  易于安装，一半内存，所有二进制文件不到40mb
+* [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
 * [k3d](https://github.com/rancher/k3d) -在容器节点中运行k3s集群的工具
 * [kind](https://kind.sigs.k8s.io) -使用Docker容器“节点”运行本地Kubernetes集群的工具
 * [Kops](https://github.com/kubernetes/kops) -与操作系统无关-AWS
+* [Konvoy](https://d2iq.com/solutions/ksphere/konvoy) -轻松部署可立即投入生产的Kubernetes集群以及所有相关的运营服务
 * [Kube-ansible](https://github.com/kairen/kube-ansible) -与操作系统无关-与云无关
 * [Kube-aws](https://github.com/coreos/kube-aws) -CoreOS-AWS
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
@@ -293,6 +294,7 @@ Installers
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) -阿里巴巴，AWS，Azure，GCP和OpenStack集群管理器
   - [Gravity](https://gravitational.com/gravity) -前Telekube
+  - [Kommander](https://d2iq.com/solutions/ksphere/kommander) -本地或云Kubernetes集群的联合管理和治理
   - [Kqueen](https://github.com/Mirantis/kqueen)
   - [Kubermatic](http://www.loodse.com/)
   - [KubeSphere](https://github.com/kubesphere/kubesphere) -具有令人敬畏的用户体验和向导UI的全堆栈且易于使用的容器平台，支持在Linux和Kubernetes上进行安装.
@@ -418,7 +420,7 @@ MOOC课程/教程
 * [StorageOS](http://storageos.com)
 * [Stork](https://github.com/libopenstorage/stork)
 
-容器存储接口插件
+Container Storage Interface Plugins
 =======================================================================
 
 *部分清单 [Container Storage Interface](https://kubernetes-csi.github.io/docs/)  Kubernetes的插件.  查看 [Kubernetes-CSI Drivers](https://kubernetes-csi.github.io/docs/drivers.html) 以获得完整列表*
@@ -530,14 +532,14 @@ Projects
 * [Datadog](http://www.datadoghq.com/)
 * [Dynatrace](https://www.dynatrace.com/technologies/kubernetes-monitoring/) -Kubernetes集群和工作负载监控
 * [eventrouter](https://github.com/heptiolabs/eventrouter) -简单的自省型kubernetes服务，可将事件转发到指定的接收器.
-* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
+* [Goldpinger](https://github.com/bloomberg/goldpinger) 显示，监视和提醒集群间连接
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Instana](https://www.instana.com/) -自动Kubernetes应用程序性能监控
 * [kail](https://github.com/boz/kail)  -Kubernetes日志查看器.  从所有匹配的容器的所有容器中流式传输日志.
 * [Kubebox](https://github.com/astefanutti/kubebox) -Kubernetes的终端控制台
 * [Kubecost](https://kubecost.com/) -根据资源的财务成本监控资源
-* [Kubedash](https://github.com/kubernetes/kubedash) -**不推荐使用**信息库已归档且为只读
+* [Kubedash](https://github.com/kubernetes/kubedash) - **Deprecated** repository is archived and read-only
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) -多个K8s集群的只读系统仪表板
 * [K8Dash](https://github.com/herbrandson/k8dash) -实时K8S替代仪表板
 * [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) -在纯HTML前端中列出并查看具有永久链接友好URL的所有Kubernetes资源（包括CRD）
@@ -597,6 +599,7 @@ Projects
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
 * [Buildkite](https://github.com/buildkite/charts) -具有基础架构上的代理的精益CI / CD云托管控制平面.
 * [Codefresh](https://codefresh.io/) -Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
+* [Dispatch](https://d2iq.com/solutions/ksphere/dispatch) -基于Tekton和Argo CD的企业级Kubernetes GitOps框架
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) -通过GitLab轻松部署Kubernetes应用程序的框架.
 * [kb8or](https://github.com/UKHomeOffice/kb8or)
@@ -709,7 +712,7 @@ Projects
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [Contiv](http://contiv.github.io/)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) -通过Kube资源动态控制DNS记录
-* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
+* [Goldpinger](https://github.com/bloomberg/goldpinger) 显示，监视和提醒集群间连接
 * [illuminatio](https://github.com/inovex/illuminatio) 是用于自动测试kubernetes网络策略的工具
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
@@ -735,7 +738,7 @@ Projects
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
 * [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是直接，易于配置且非侵入式的服务网格，可对任何Kubernetes集群内部的流量进行可视化和管理.
-* [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) - Build, Secure and Observe your modern Service Mesh.
+* [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) -构建，保护和观察您的现代服务网格.
 
 ## RPC
 
@@ -760,7 +763,7 @@ Projects
 * [Kubernator](https://github.com/smpio/kubernator)
 * [Kubernetes Resource Report](https://github.com/hjacobs/kube-resource-report) -报告Kubernetes集群和Pod资源请求与使用情况并生成静态HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) -基于Web的UI，用于在Kubernetes集群中部署和管理应用程序
-* [Kubevious](https://github.com/kubevious/kubevious) - An open source UI to make Kubernetes configuration and state obvious and safe.
+* [Kubevious](https://github.com/kubevious/kubevious) -一个开源的UI，可以使Kubernetes的配置和状态变得明显且安全.
 * [Polaris](https://github.com/reactiveops/polaris) -Kubernetes最佳实践的开源仪表板
 * [Octant](https://github.com/vmware/octant) -基于Web的高度可扩展平台，供开发人员更好地了解Kubernetes集群的复杂性.
 
@@ -826,7 +829,7 @@ Projects
 * [Habitat](http://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
 * [K8comp](https://github.com/cststack/k8comp)
-* [kapitan](https://github.com/deepmind/kapitan) -使用jsonnet和jinja2管理复杂的部署
+* [kapitan](https://github.com/deepmind/kapitan) - Manage complex deployments using jsonnet and jinja2
 * [kenv](https://github.com/thisendout/kenv)
 * [Kompose](https://github.com/kubernetes/kompose)
 * [Konfd](https://github.com/kelseyhightower/konfd)

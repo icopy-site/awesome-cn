@@ -24,7 +24,7 @@
 
 ## Implementations
 
-Sorted by creation date (oldest first).
+按创建日期（最早的）排序.
 
 - [lit-element](https://www.npmjs.com/package/lit-element) -用于创建快速，轻量级Web组件的简单基类.
 - [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) -用于构建Web组件和应用程序的轻量级库.
@@ -79,7 +79,7 @@ Sorted by creation date (oldest first).
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
 - [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统收集与框架无关的元素.
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs的Web组件.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [Ink Components](https://github.com/ink-components/ink-components) -用于交互式科学写作的Web组件.
 - [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件，可在任何地方使用.
@@ -102,6 +102,7 @@ Sorted by creation date (oldest first).
 - [`<code-block>`](https://github.com/justinribeiro/code-block) -使用Prism.js和LitElement显示彩色格式代码的Web组件.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) -单击时显示CodeSandbox演示的自定义元素.
 - [`<dile-modal>`](https://github.com/Polydile/dile-modal) -基于LitElement的Web组件，用于实现模式框.
+- [`<erd-editor>`](https://github.com/vuerd/vuerd) -使用LitElement构建的ERD编辑器元素数据库建模工具
 - [`<granite-qrcode-generator>`](https://github.com/LostInBrittany/granite-qrcode-generator) -使用qr.js库的自定义元素来生成和呈现QR代码.
 - [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) -由LitElement支持的数据表的Material Design实现.
 - [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) -Web组件，可轻松嵌入和播放Lottie动画.
@@ -135,7 +136,7 @@ Sorted by creation date (oldest first).
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) -用于lit-html模板字符串的ESLint插件.
 - [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) -CLI类型，用于检查lit-html模板中的绑定.
 - [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -汇总插件，以最小化带有标签的模板字符串中的HTML.
-- [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) -汇总插件，可在LitElement和可转换装饰器中内联外部样式.
+- [rollup-plugin-inline-lit-element](https://github.com/aelbore/rollup-plugin-inline-lit-element) -汇总插件，可在LitElement和Transpile装饰器中内联外部样式.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) -汇总插件，用于将CSS文件作为LitElement标记的`css`模板字符串导入.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -汇总插件，用于在LitElement组件中加载PostCSS处理的样式表.
 - [lit-loader](https://github.com/PolymerX/lit-loader) -用于Webpack的LitElement单个文件组件加载器.
@@ -179,7 +180,7 @@ Sorted by creation date (oldest first).
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-点亮html的作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
+点亮html的创作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -贾斯汀·法格纳尼（Justin Fagnani）作为来宾的另一集.
 
 ## Blogs

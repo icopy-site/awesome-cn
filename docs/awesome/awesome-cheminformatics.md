@@ -78,6 +78,7 @@
 ### Machine Learning
 
 * [DeepChem](https://github.com/deepchem/deepchem) -基于Tensorflow的化学深度学习库
+* [OpenChem](https://github.com/Mariewelt/OpenChem) -OpenChem是具有PyTorch后端的用于计算化学的深度学习工具包.
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) -生物学和化学深度学习图书馆.
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) -PyTorch库提供了许多图卷积算法的实现.
 
@@ -132,7 +133,7 @@
 * [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/README.html) -开源分子建模软件的可更新目录.
 * [PubChem Blog](https://pubchemblog.ncbi.nlm.nih.gov/) -有关的新闻，更新和教程 [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 * [The ChEMBL-og blog](http://chembl.blogspot.tw/) -计算化学生物学小组的故事和新闻 [EMBL-EBI](https://www.ebi.ac.uk/).
-* [ChEMBL blog](http://chembl.github.io/) - ChEMBL on GitHub.
+* [ChEMBL blog](http://chembl.github.io/) -GitHub上的ChEMBL.
 * [SteinBlog](http://www.steinbeck-molecular.de/steinblog/) -的博客 [Christoph Steinbeck](http://www.steinbeck-molecular.de/steinblog/index.php/about/)是EMBL-EBI的化学信息学和新陈代谢负责人.
 * [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) -博客，其中包含化学信息学实际应用的深入示例.
 * [So much to do, so little time - Trying to squeeze sense out of chemical data](http://blog.rguha.net/) -的Bolg [Rajarshi Guha](http://blog.rguha.net/?page_id=8)是美国国立卫生研究院转化科学促进中心的研究科学家.
