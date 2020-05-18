@@ -655,11 +655,13 @@ Projects
 * [Operator Kit](https://github.com/rook/operator-kit)
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)
 * [OperatorHub.io](https://www.operatorhub.io) -Kubernetes社区共享运营商的新家
+* [PlanetScaleDB Operator](https://docs.planetscale.com/psdb-operator/overview)
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和PostgreSQL管理PostgreSQL集群 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
 * [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
 * [TiDB Operator](https://github.com/pingcap/tidb-operator) -TiDB Operator在Kubernetes上管理TiDB集群，并自动执行与操作TiDB集群相关的任务.
+* [Vitess Operator](https://github.com/planetscale/vitess-operator)
 
 ## Custom Schedulers
 
@@ -696,6 +698,7 @@ Projects
 * [Hazelcast](http://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/)
 * [Minio](http://minio.io)
 * [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
+* [PlanetScaleDB](https://www.planetscale.com)
 * [RDS](https://github.com/sorenmat/k8s-rds) -通过Kubernetes的CRD提供RDS数据库
 * [TiDB](https://github.com/pingcap/tidb) -与MySQL协议兼容的分布式HTAP数据库 
 * [Vitess](http://vitess.io/) -由Youtube对MySql进行水平缩放
@@ -998,7 +1001,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)

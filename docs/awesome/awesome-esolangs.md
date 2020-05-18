@@ -15,20 +15,21 @@
 
 ## Languages
 
+* [1+](https://esolangs.org/wiki/1%2B) -具有高度限制的指令集的令人惊讶的用户友好语言.
 * [78](https://github.com/oatmealine/78) -围绕数字7和8的单字符命令语言.
-* [ajsone](https://www.quaxio.com/ajsone) -语言完全以JSON定义.
+* [ajsone](https://www.quaxio.com/ajsone) -完全在JSON中定义的语言.
 * [ArnoldC](http://lhartikk.github.io/ArnoldC) -基于Arnold Schwarzenegger最好的单人阵容.
 * [Befunge](https://esolangs.org/wiki/Befunge) -二维语言.
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) -仅使用8个单字符命令的极简语言.
-* [Charcoal](https://github.com/somebody1234/Charcoal) -速写ASCII艺术的简洁语言.
+* [Charcoal](https://github.com/somebody1234/Charcoal) -速写ASCII艺术的简洁语言。
 * [Chef](http://www.dangermouse.net/esoteric/chef.html) -看起来像烹饪食谱的程序.
-* [Chicken](https://esolangs.org/wiki/Chicken) -仅1个有效符号：“ chicken”.
-* [ChuckScript](https://github.com/angrykoala/chuckscript) -基于一元语言，其中代码为单个数字.
+* [Chicken](https://esolangs.org/wiki/Chicken) -仅1个有效符号：“鸡”.
+* [ChuckScript](https://github.com/angrykoala/chuckscript) -基于一元语言，其中代码是一个数字.
 * [DNA#](https://esolangs.org/wiki/DNA-Sharp) -基于DNA结构的语言.
 * [Dots](https://github.com/josconno/dots) -图灵完整的语言，只有一个符号：“.”.
 * [Emojicode](http://www.emojicode.org) -由表情符号组成的成熟编程语言.
 * [Enterprise™](https://github.com/joaomilho/Enterprise) -非确定性不必要的静态类型语言.
-* [False](http://strlen.com/false-language) -很少使用的语言被大量使用.
+* [False](http://strlen.com/false-language) -极少使用的语言，实现量很少.
 * [Fetlang](https://github.com/Property404/fetlang) -旨在使源代码看起来像写得不好的恋物癖情色.
 * [Folders](https://github.com/rottytooth/Folders) -用文件夹编写的代码.
 * [Fugue](https://esolangs.org/wiki/Fugue) -音乐作为源代码.
@@ -39,18 +40,18 @@
 * [Jelly](https://github.com/DennisMitchell/jellylanguage) - [Golfing](https://en.wikipedia.org/wiki/Code_golf) 基于J的语言
 * [JSFuck](https://github.com/aemkei/jsfuck) -基于JavaScript原子部分的神秘编程风格.
 * [Lazy K](https://tromp.github.io/cl/lazy-k.html) -最小，图灵完整的纯函数式语言，没有其他功能.
-* [LolCode](http://lolcode.org) -带有基于lolcat meme表达式的关键字的语言.
+* [LolCode](http://lolcode.org) -具有基于lolcat meme表达式的关键字的语言.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) -以地狱的第8级命名，旨在尽可能地难以编程.
 * [Monicelli](https://github.com/esseks/monicelli) -使用类似意大利文的乱码进行编程.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) -类似于互联网语的语法.
-* [Ook!](http://www.dangermouse.net/esoteric/ook.html) -基于Brainfuck的语言，其中的命令是猩猩单词.
+* [Ook!](http://www.dangermouse.net/esoteric/ook.html) -基于Brainfuck的语言，其中的命令是猩猩词.
 * [Orca](https://hundredrabbits.itch.io/orca) -Livecoding环境，可快速创建程序音频定序器.
 * [reMorse](http://esolangs.org/wiki/reMorse) -摩尔斯风格的语言.
 * [Rockstar](https://github.com/dylanbeattie/rockstar) -设计用于创建也是歌曲歌词的计算机程序.
 * [Piet](http://www.dangermouse.net/esoteric/piet.html)  -使用颜色作为代码的程序看起来像抽象绘画的语言.  以Piet Mondrian的名字命名.
-* [Shakespeare](http://shakespearelang.sourceforge.net) -代码看起来像是莎士比亚戏剧的语言.
+* [Shakespeare](http://shakespearelang.sourceforge.net) -代码似乎是莎士比亚戏剧的语言.
 * [Spooky](https://spookylang.com) -最可怕的编程语言：jack_o_lantern：：skull:.
-* [Suzy](https://github.com/gvx/suzy) -以Befunge为灵感的3D语言.
+* [Suzy](https://github.com/gvx/suzy) -受Befunge启发的3D语言.
 * [Thue](https://github.com/jcolag/Thue) -基于半确定语法的不确定字符串重写的* Matrioshka *语言.
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) -使Python再次出色.
 * [Turtle](https://github.com/TypeMonkey/Turtle) -将长期存储用于内存使用.
@@ -67,8 +68,8 @@
 
 ## Algorithms
 
-* [πfs](https://github.com/philipl/pifs) -基于Pi的存储系统，通过在pi中搜索匹配序列来存储数据.
-* [Stacksort](https://gkoberger.github.io/stacksort) -通过在Stack Overflow中搜索答案并执行代码段对列表进行排序，直到被排序为止.
+* [πfs](https://github.com/philipl/pifs) -基于Pi的存储系统，通过搜索pi中的匹配序列来存储数据.
+* [Stacksort](https://gkoberger.github.io/stacksort) -通过在Stack Overflow中搜索答案并执行代码段对列表进行排序，直到将其排序为止.
 
 ## Others
 
@@ -98,7 +99,7 @@
 
 ## Community
 
-* [Anarchy Golf](http://golf.shinh.org) -非正式 [golfing](https://en.wikipedia.org/wiki/Code_golf) 问题服务器.
+* [Anarchy Golf](http://golf.shinh.org) - Informal [golfing](https://en.wikipedia.org/wiki/Code_golf) 问题服务器.
 * [Code Golf Stack Exchange](https://codegolf.stackexchange.com) -打高尔夫球的问题和答案.
 * [Freenode IRC Channel](http://webchat.freenode.net/?channels=esoteric&uio=d4) - The #esoteric IRC channel on freenode.
 * [Reddit Esolangs](https://www.reddit.com/r/esolangs) -esolangs上的Reddit社区.

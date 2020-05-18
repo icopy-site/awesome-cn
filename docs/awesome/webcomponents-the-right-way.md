@@ -34,7 +34,7 @@
 
 ### Shadow DOM
 
-Shadow DOM描述了一种将多个DOM树组合到一个层次结构中的方法，以及这些树如何在文档中彼此交互，从而实现DOM更好的组合.
+Shadow DOM描述了一种将多个DOM树组合到一个层次结构中的方法，以及这些树如何在文档中彼此交互，从而使DOM更好地构成的方法.
 
 - [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
 - [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
@@ -139,17 +139,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
 - [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
-### Use Cases
-
-- [How we chose to build our Design System using StencilJS Web Components](https://medium.com/8451/how-we-chose-to-build-our-design-system-using-stenciljs-web-components-4878c36743c5)
-- [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
-- [5 Reasons Web Components Are Perfect for Design Systems](https://ionicframework.com/blog/5-reasons-web-components-are-perfect-for-design-systems/)
-- [Web components: the secret ingredient helping power the web](https://web.dev/web-components-io-2019/)
-- [Web Components for Enterprise. Part 1: Salesforce, Oracle, SAP](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70)
-- [Web Components for Enterprise. Part 2: Nuxeo, Ionic, Vaadin](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
-- [Why I use Web Components - My use cases](https://dev.to/shihn/why-i-use-web-components-my-use-cases-1nip)
-- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) 通过 [@viljamis](https://twitter.com/viljamis)
-- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) 通过 [@maxlynch](https://twitter.com/maxlynch)
+## Real World
 
 ### Case Studies
 
@@ -163,6 +153,31 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [The Firefox UI is now built with Web Components](https://briangrinstead.com/blog/firefox-webcomponents/)
 - [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 - [web.dev engineering blog #1: How we build the site and use Web Components](https://web.dev/how-we-build-webdev-and-use-web-components/)
+
+### Presentations
+
+- [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) 通过 [@lostinbrittany](https://twitter.com/lostinbrittany)
+- [Designing St和ard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) 通过 [@stefsull](https://twitter.com/stefsull) 和 [@bferrua](https://twitter.com/bferrua)
+- [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) 通过 [@salem_cobalt](https://twitter.com/salem_cobalt)
+- [Mastering Shadow DOM](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom) 通过 [@Martine_Dowden](https://twitter.com/Martine_Dowden)
+- [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) 通过 [@samjulien](https://twitter.com/samjulien)
+- [Using Web Components to Build a Framework-agnostic UI Library](https://gotochgo.com/2019/sessions/866/using-web-components-to-build-a-framework-agnostic-ui-library) 通过 [@brianbouril](https://twitter.com/brianbouril) 和 [@danciupuliga](https://twitter.com/danciupuliga)
+- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) 通过 [@LeonieWatson](https://twitter.com/LeonieWatson)
+- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-通过-bashmish-FrontMania-2018.pdf) 通过 [@bashmish](https://twitter.com/bashmish)
+- [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) 通过 [@vogloblinsky](https://twitter.com/vogloblinsky)
+- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides-mar2020/) 通过 [@webcomp_dev](https://twitter.com/webcomp_dev)
+
+### Use Cases
+
+- [How we chose to build our Design System using StencilJS Web Components](https://medium.com/8451/how-we-chose-to-build-our-design-system-using-stenciljs-web-components-4878c36743c5)
+- [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
+- [5 Reasons Web Components Are Perfect for Design Systems](https://ionicframework.com/blog/5-reasons-web-components-are-perfect-for-design-systems/)
+- [Web components: the secret ingredient helping power the web](https://web.dev/web-components-io-2019/)
+- [Web Components for Enterprise. Part 1: Salesforce, Oracle, SAP](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70)
+- [Web Components for Enterprise. Part 2: Nuxeo, Ionic, Vaadin](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
+- [Why I use Web Components - My use cases](https://dev.to/shihn/why-i-use-web-components-my-use-cases-1nip)
+- [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) 通过 [@viljamis](https://twitter.com/viljamis)
+- [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) 通过 [@maxlynch](https://twitter.com/maxlynch)
 
 ## Examples
 
@@ -313,19 +328,6 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
 - [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
 
-## Presentations
-
-- [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) 通过 [@lostinbrittany](https://twitter.com/lostinbrittany)
-- [Designing St和ard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) 通过 [@stefsull](https://twitter.com/stefsull) 和 [@bferrua](https://twitter.com/bferrua)
-- [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) 通过 [@salem_cobalt](https://twitter.com/salem_cobalt)
-- [Mastering Shadow DOM](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom) 通过 [@Martine_Dowden](https://twitter.com/Martine_Dowden)
-- [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) 通过 [@samjulien](https://twitter.com/samjulien)
-- [Using Web Components to Build a Framework-agnostic UI Library](https://gotochgo.com/2019/sessions/866/using-web-components-to-build-a-framework-agnostic-ui-library) 通过 [@brianbouril](https://twitter.com/brianbouril) 和 [@danciupuliga](https://twitter.com/danciupuliga)
-- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) 通过 [@LeonieWatson](https://twitter.com/LeonieWatson)
-- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-通过-bashmish-FrontMania-2018.pdf) 通过 [@bashmish](https://twitter.com/bashmish)
-- [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) 通过 [@vogloblinsky](https://twitter.com/vogloblinsky)
-- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides-mar2020/) 通过 [@webcomp_dev](https://twitter.com/webcomp_dev)
-
 ## Benchmarks
 
 - [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component-april2020/)
@@ -368,7 +370,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ## History
 
 以下文章代表了Web组件规范在实现标准化方面的悠久历史.
-其中一些参考了早期的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
+其中一些参考了较早的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
 这些材料仅出于历史原因在这里，它们按年份分组并按时间顺序列出.
 
 ### 2019

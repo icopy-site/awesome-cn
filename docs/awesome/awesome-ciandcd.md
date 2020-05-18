@@ -25,7 +25,7 @@ devops
 
 ## Build And Release System
 用于软件构建和发布，持续集成和持续交付的系统  
-* [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
+* [Jenkins](http://jenkins-ci.org)  可扩展的开源持续集成服务器  
 * [Solano CI](https://www.solanolabs.com)   通过获得专利的自动并行化功能，可以更快地进行持续集成和部署.  查看结果快10到80倍.  14天免费试用.  无需信用卡.
 * [Concourse](https://concourse-ci.org) 管道被定义为单个声明性配置文件，而不是无数的复选框
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  自动化并加速构建和发布过程  
@@ -41,7 +41,7 @@ devops
 * [FinalBuilder](https://www.finalbuilder.com/)   使用FinalBuilder可以使构建过程自动化.  使用FinalBuilder，您无需编辑xml或编写脚本.  可视地定义和调试您的构建脚本，然后使用Windows Scheduler对其进行调度，或者将它们与Continua CI，Jenkins或任何其他CI Server集成  
 * [VisualBuild](http://www.kinook.com/VisBuildPro/)  Visual Build使开发人员和构建大师可以轻松地创建自动化，可重复的构建过程  
 * [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET，一个自动持续集成服务器，使用.NET Framework实现  
-* [continuum](http://continuum.apache.org/) Apache Continuum™是企业就绪的持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理系统的集成等功能.  
+* [continuum](http://continuum.apache.org/) Apache Continuum™是企业级持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理管理系统集成的功能.  
 * [quickbuild](http://www.pmease.com/)   GitHub集成.  Perforce搁置了支持.  覆盖率报告呈现.  颠覆外部变更检索.  资源访问信息.  显示等待步骤的原因.  自定义构建和请求列.  最喜欢的仪表板列表.  可继承的环境变量以及更多...  
 * [rexify](http://www.rexify.org//)  perl部署和配置管理  
 * [SimpleCI](https://github.com/simpleci/simpleci)  基于Docker的自托管ci系统.  支持分布式构建缓存，外部提供程序（GCE），实时构建日志等.  
@@ -79,7 +79,7 @@ devops
 * [Bitrise](https://www.bitrise.io/)  基于云的移动设备持续集成和交付，OSS免费  
 * [Cirrus CI](https://cirrus-ci.org) 免费开源，支持Linux，Windows，macOS和FreeBSD，灵活的托管CI服务  
 * [DeployPlace](https://deployplace.com)  -复杂的部署变得简单.  在数分钟内从git或CI部署您的应用程序.
-* [builkite](https://buildkite.com) 闪电般快速测试并交付您所有软件项目  
+* [Buildkite](https://buildkite.com) -为您所有的软件项目提供快速的测试和交付
 
 
 ## Monitoring
@@ -134,14 +134,14 @@ devops
 构建工具  
 * [gnumake](http://www.gnu.org/software/make/) GNU Make是一种工具，用于控制从程序的源文件生成程序的可执行文件和其他非源文件  
 * [gnuautoconf](http://www.gnu.org/software/autoconf/) Autoconf是M4宏的可扩展包，该宏包会生成Shell脚本以自动配置软件源代码包  
-* [mozillabuildtools](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions)  The Mozilla build system, like the rest of the Mozilla codebase, is cross-platform. It uses traditional Unix-style autoconf and make tools to build the various applications (even on non-unix operating systems)  
+* [mozillabuildtools](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions)   与Mozilla代码库的其余部分一样，Mozilla构建系统也是跨平台的.  它使用传统的Unix风格的autoconf并制作工具来构建各种应用程序（即使在非unix操作系统上）  
 * [scons](http://www.scons.org)   SCons是一种开源软件构建工具，即下一代构建工具.  可以将SCons视为经典Make实用程序的改进的跨平台替代品，它具有类似于autoconf / automake和编译器缓存（例如ccache）的集成功能.  简而言之，SCons是一种更轻松，更可靠，更快的软件构建方式  
 * [cmake](https://cmake.org/)   cmake提供了强大的跨平台软件开发解决方案.  了解我们如何帮助您的团队有效地管理软件项目的构建，测试和打包过程  
 * [msbuild](http://msdn.microsoft.com/en-us/library/dd393574.aspx)   Microsoft Build Engine是用于构建应用程序的平台.  此引擎也称为MSBuild，它为项目文件提供XML模式，该文件控制构建平台如何处理和构建软件.  Visual Studio使用MSBuild，但它不依赖于Visual Studio.  通过在项目或解决方案文件上调用msbuild.exe，可以在未安装Visual Studio的环境中编排和构建产品.  
 * [ant](http://ant.apache.org)   蚂蚁可以用来引导可以根据目标和任务来描述的任何类型的过程.  Ant的主要已知用法是Java应用程序的构建.  
 * [maven](http://maven.apache.org)   Apache Maven是一个软件项目管理和理解工具.  基于项目对象模型（POM）的概念，Maven可以从中央信息管理项目的构建，报告和文档.  
 * [gradle](http://gradle.org/)    Gradle是构建自动化的发展.  Gradle可以使软件包或其他类型的项目（例如生成的静态网站，生成的文档或其他任何东西）的构建，测试，发布，部署以及更多自动化.  
-* [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)    如果构建和测试花费太长时间才能完成，则持续交付将不是连续的.  ElectricAccelerator将构建和测试速度提高了20倍，从而缩短了软件上市时间，基础设施利用率和开发人员的工作效率  
+* [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 * [SBT](http://www.scala-sbt.org/index.html)  sbt是一个用于Scala和Java项目的开源构建工具.
 * [do](https://github.com/8gears/do)   地球上最简单的构建工具.  不可知的和多功能的构建工具和构建文件.  试图比通常的外壳地狱更好.
 
@@ -150,7 +150,7 @@ devops
 软件静态检查工具  
 * [static tools wiki](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) 维基页面  
 * [coverity](http://www.coverity.com/)  持续衡量和改善整个开发组织中的代码质量和安全性  
-* [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  FxCop是一个应用程序，它分析托管代码程序集（针对.NET Framework公共语言运行时的代码）并报告有关程序集的信息，例如可能的设计，本地化，性能和安全性改进  
+* [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  FxCop是一个应用程序，用于分析托管代码程序集（针对.NET Framework公共语言运行时的代码），并报告有关程序集的信息，例如可能的设计，本地化，性能和安全性改进  
 * [cpd](http://pmd.sourceforge.net/pmd-4.3.0/cpd.html)  重复的代码可能很难找到，尤其是在大型项目中.  但是PMD的复制/粘贴检测器（CPD）可以为您找到它  
 * [sonar](http://www.sonarqube.org)  SonarQube是管理代码质量的开放平台  
 * [findbugs](http://findbugs.sourceforge.net)  在Java程序中查找错误   
@@ -173,12 +173,12 @@ devops
 软件测试框架和工具  
 * [Testingautomation](https://en.wikipedia.org/wiki/Test_automation)  测试自动化Wiki页面  
 * [softwareqatest](http://www.softwareqatest.com) 常见问题页面  
-* [qaforums](http://www.qaforums.com)  SQA论坛  
+* [qaforums](http://www.qaforums.com)  SQA Forums  
 * [opensourcetesting](http://www.opensourcetesting.org)  开源软件测试工具，新闻和讨论   
 * [selenium](http://www.seleniumhq.org)  硒使浏览器自动化
 * [Monkey Test It](https://monkeytest.it) 具有CURLable API的免费自动化网站测试器
 * [Assertible](https://assertible.com) GitHub的持续部署后测试
-* [Macaca](https://github.com/alibaba/macaca) 针对移动和桌面平台上的本机，混合，移动Web和Web应用程序的自动化测试解决方案
+* [Macaca](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 
 ## Package
 软件包和安装工具  
@@ -203,7 +203,7 @@ devops
 * [archiva](http://archiva.apache.org/index.cgi)   Apache Archiva™是可扩展的存储库管理软件，可帮助您照顾自己的个人或企业范围内的构建工件存储库.  它是Maven，Continuum和ANT等构建工具的理想伴侣  
 * [nexus](http://www.sonatype.com/nexus)  存储库管理器（也称为组件管理器）的使用正在帮助软件开发团队在速度，效率和操作质量方面取得简单的收获  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet是一个机器软件包管理器，有点像apt-get，但是考虑到Windows的构建  
-* [herd](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
+* [herd](https://github.com/russss/Herd) 基于Twitter的Murder的单命令bittorrent分发系统     
 * [murder](https://github.com/lg/murder)  使用Twitter.com上的BitTorrent和BitTornado库部署大型服务器  
 
 ## Provisioning Tools 
@@ -242,7 +242,6 @@ VM应用程序和容器
 数据库版本控制系统  
 * [liquibase](http://www.liquibase.org) 数据库的源代码控制  
 * [flywaydb](http://flywaydb.org) 数据库迁移变得容易  
-* [nextep](http://www.nextep-softwares.com)  NeXtep软件提供了用于数据库开发和部署的工业化的软件解决方案.  我们的目标是通过控制开发生命周期并自动化部署和测试流程来提高开发团队的生产力  
 * [dbdeploy](http://dbdeploy.com)  dbdeploy是一个数据库更改管理工具.  适用于希望以简单，受控，灵活和频繁的方式发展数据库设计或重构数据库的开发人员或DBA   
 * [dbmaestro](http://www.dbmaestro.com/)  受控数据库连续交付是我们的业务  
 

@@ -125,6 +125,7 @@
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) -用于微控制器的Python版本.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) -数据分析和机器学习.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) -Python的可选静态类型.
+	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) -适用于微控制器的精简高效的Python 3实现.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
@@ -248,7 +249,7 @@
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) -实用程序优先的CSS框架，用于快速的UI开发.
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) -用于创建在WebAssembly中运行的Web应用程序的Rust框架.
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) -确保网站某些性能指标的技术.
-- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) -浏览器中具有JavaScript，CSS，SVG等的动画.
+- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) -使用JavaScript，CSS，SVG等的浏览器中的动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) -受Elm和React启发的Rust框架，用于使用WebAssembly创建多线程前端Web应用程序.
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，可以更快，更轻松地进行Web开发.
 
@@ -308,7 +309,7 @@
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) -基于证据的软件系统研究.
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) -学习开发自己的搜索引擎.
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) -在量子计算机上利用量子力学和量子位的计算.
 
 ## Big Data
 
@@ -332,7 +333,7 @@
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) -遍历嵌套的数据结构.
 
 ## Books
 
@@ -418,7 +419,7 @@
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) -对象关系数据库.
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) -面向文档的NoSQL数据库.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) -分布式，可扩展的大数据存储.
-- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) -帮助使用非关系型，分布式，开源和水平可伸缩的数据库.
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 - [Contexture](https://github.com/ltchris/awesome-contexture#readme) -从诸如ElasticSearch和MongoDB的不同后备数据存储中提取查询/过滤器和结果/聚合.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) -使数据库处理变得更加容易的一切.
 
@@ -517,7 +518,7 @@
 ## Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) -面向软件开发人员的比特币服务和工具.
-- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) -开源分布式结算网络.
+- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) -非金融区块链应用.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) -开源分散式微博网络.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) -用于智能合约开发的分布式计算平台.
@@ -591,7 +592,7 @@
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) -Node.js CLI框架.
-- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
+- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) -低开销，跨平台的3D图形和计算API.
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) -排版语言.
 - [Economics](https://github.com/antontarasenko/awesome-economics#readme) -经济学家的入门工具包.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
@@ -607,7 +608,7 @@
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
-- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) -对于数字设计师.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) -编写具有表现力的东西，而不是编写功能性的东西.

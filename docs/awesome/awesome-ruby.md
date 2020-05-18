@@ -59,7 +59,7 @@
 * [Blanket](https://github.com/inf0rmer/blanket) -无效的简单API包装器.
 * [Crepe](https://github.com/crepe/crepe) -瘦API堆栈.
 * [Fast JSON API](https://github.com/Netflix/fast_jsonapi) -用于Ruby对象的快速的JSON：API序列化程序.
-* [Grape](http://www.ruby-grape.org) -一个自以为是的微框架，用于在Ruby中创建类似REST的API.
+* [Grape](http://www.ruby-grape.org) -在Ruby中创建类似于REST的API的自觉的微框架.
 * [Her](https://github.com/remiprev/her)  -将REST资源映射到Ruby对象的ORM.  设计用于构建由RESTful API（而非数据库）支持的应用程序.
 * [jbuilder](https://github.com/rails/jbuilder) -通过构建器风格的DSL创建JSON结构.
 * [jsonapi-rb](http://jsonapi-rb.org) –高效便捷的JSON API（反序列化）库.
@@ -81,7 +81,7 @@
 * [bower-rails](https://github.com/rharriso/bower-rails) -Bower支持Rails项目.
 * [Emoji](https://github.com/wpeterson/emoji) -公开了Phantom Open Emoji库的unicode /图片素材资源和与之配合使用的API.
 * [Less Rails](https://github.com/metaskills/less-rails) -Rails资产管道的动态样式表语言.
-* [Rails Assets](https://rails-assets.org) -捆绑器到Bower代理.
+* [Rails Assets](https://rails-assets.org) -Bundler到Bower代理.
 * [Sass](http://sass-lang.com) -Sass使CSS再次有趣.
 * [Sprockets](https://github.com/rails/sprockets) -基于机架的资产包装系统.
 * [Torba](https://github.com/torba-rb/torba) -链轮的无弓捆扎机.
@@ -390,8 +390,8 @@
 * [Lita](https://www.lita.io/) -用于Ruby的ChatOps：可与任何聊天服务一起使用的可插拔聊天机器人框架.
 * [Logstash](https://github.com/elastic/logstash) -日志/事件传输，处理，管理，搜索.
 * [Mina](https://github.com/mina-deploy/mina) -真正快速的部署者和服务器自动化工具.
-* [Puppet](https://github.com/puppetlabs/puppet) -用于Linux，Unix和Windows系统的自动化管理引擎，根据集中的规范执行管理任务（例如添加用户，安装软件包和更新服务器配置）.
-* [Rubber](https://github.com/rubber/rubber) -橡胶插件可将RubyOnRails应用程序的相对复杂的多实例部署到Amazon的Elastic Compute Cloud（EC2）.
+* [Puppet](https://github.com/puppetlabs/puppet) -针对Linux，Unix和Windows系统的自动管理引擎，根据集中的规范执行管理任务（例如添加用户，安装软件包和更新服务器配置）.
+* [Rubber](https://github.com/rubber/rubber) -橡胶插件可将RubyOnRails应用程序相对复杂的多实例部署到Amazon的Elastic Compute Cloud（EC2）.
 * [SSHKey](https://github.com/bensie/sshkey) -纯Ruby（RSA和DSA）中的SSH私钥和公钥生成器.
 * [Sunzi](https://github.com/kenn/sunzi) - Server provisioning utility for minimalists
 * [Ruby-LXC](https://github.com/lxc/ruby-lxc) -用于Linux容器的本机红宝石绑定.
@@ -465,7 +465,7 @@
 * [RbNaCl](https://github.com/cryptosphere/rbnacl) -Ruby绑定到网络和密码学（NaCl）库.
 * [Sym](https://github.com/kigster/sym)  -基于OpenSSL的省时对称加密gem，使用256位（密码加密）密钥.  从STDIN，文件，ENV或在Mac：OS-X钥匙串上读取密钥.
 * [Symmetric Encryption](http://rocketjob.github.io/symmetric-encryption/)  -透明加密ActiveRecord，Mongoid和MongoMapper属性.  加密配置文件中的密码.  加密整个静态文件.
-* [Themis](https://github.com/cossacklabs/themis) -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有前向保密性的安全套接字.
+* [Themis](https://github.com/cossacklabs/themis) -加密库可实现无痛数据安全性，为移动和服务器平台提供对称和非对称加密，具有前向保密性的安全套接字.
 
 ## Environment Management
 
@@ -539,7 +539,7 @@
 ## Geolocation
 
 * [Geocoder](https://github.com/alexreisner/geocoder)  -完整的Ruby地理编码解决方案.  使用Rails，它可以添加地理编码（按街道或IP地址），反向地理编码（根据给定的坐标查找街道地址）和距离查询.
-* [geoip](https://github.com/cjheath/geoip) -在GeoIP数据库中搜索给定的主机或IP地址，并返回有关IP地址分配国家，城市，ISP和其他信息的信息.
+* [geoip](https://github.com/cjheath/geoip) -在GeoIP数据库中搜索给定的主机或IP地址，并返回有关IP地址分配国家/地区以及城市，ISP和其他信息的信息.
 * [Geokit](https://github.com/geokit/geokit) -Geokit gem提供地理编码和距离/航向计算.
 * [Google Maps for Rails](https://github.com/apneadiving/Google-Maps-for-Rails) -在Ruby应用程序中轻松创建Google Map +叠加层.
 * [rgeo](https://github.com/rgeo/rgeo)  -地理空间数据库.  空间数据类型，几何和球形计算以及WKT / WKB序列化.
@@ -558,7 +558,7 @@
 
 ## GraphQL
 
-* [graphql-batch](https://github.com/Shopify/graphql-batch) –查询批处理执行器.
+* [graphql-batch](https://github.com/Shopify/graphql-batch) – A query batching executor.
 * [graphql-client](https://github.com/github/graphql-client) -一个用于声明，编写和执行GraphQL查询的库.
 * [graphql-guard](https://github.com/exAspArk/graphql-guard) -简单的字段级授权.
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) -GraphQL的Ruby实现.
@@ -847,7 +847,7 @@
 * [Peek](https://github.com/peek/peek) -视觉状态栏显示Rails的性能.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) -用于您的开发和生产Ruby机架应用程序的Profiler.
 * [Rbkit](https://github.com/code-mancers/rbkit)  -Ruby的探查器.  带有GUI.
-* [rbspy](https://github.com/rbspy/rbspy) -用于任何Ruby进程的采样探查器.
+* [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) -MRI红宝石的代码分析器.
 * [stackprof](https://github.com/tmm1/stackprof) -用于ruby 2.1+的采样调用堆栈分析器.
 * [test-prof](https://github.com/palkan/test-prof) -Ruby测试分析工具箱
@@ -902,6 +902,7 @@
 ## Scheduling
 
 * [minicron](https://github.com/jamesrwhite/minicron) -管理和监视cron作业的系统.
+* [que-scheduler](https://github.com/hlascelles/que-scheduler) -异步作业工人Que的轻量级cron调度程序.
 * [resque-scheduler](https://github.com/resque/resque-scheduler) -基于Resque的轻型作业计划系统.
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) -Ruby的作业调度程序（at，cron，in和每个作业）.
 * [Sidekiq-Cron](https://github.com/ondrejbartas/sidekiq-cron) -Sidekiq的调度附件.
@@ -998,7 +999,7 @@
 * [simple_states](https://github.com/svenfuchs/simple_states) -超薄的类似于状态机的支持库.
 * [Statesman](https://github.com/gocardless/statesman) -政治家般的状态机库.
 * [state_machines](https://github.com/state-machines/state_machines) -增加了对在任何Ruby类上为属性创建状态机的支持.
-* [transitions](https://github.com/troessner/transitions) - A ruby state machine implementation.
+* [transitions](https://github.com/troessner/transitions) -红宝石状态机的实现.
 * [Workflow](https://github.com/geekq/workflow) -受有限状态机启发的API，用于建模和与我们通常称为“工作流”的交互.
 
 ## Static Site Generation
@@ -1146,7 +1147,7 @@
 
 * [Agoo](https://github.com/ohler55/agoo) -用于Ruby的高性能HTTP服务器，其中包括GraphQL和WebSocket支持.
 * [Iodine](https://github.com/boazsegev/iodine) -针对Linux / BDS / macOS和Ruby MRI优化的无阻塞HTTP和Websocket Web服务器.
-* [Phusion Passenger](https://www.phusionpassenger.com) - Fast and robust web server and application server.
+* [Phusion Passenger](https://www.phusionpassenger.com) -快速，强大的Web服务器和应用程序服务器.
 * [Puma](https://github.com/puma/puma) -适用于Ruby的现代并发Web服务器.
 * [Rack](http://rack.github.io)  -通用的Ruby Web服务器界面.  就其本身而言，它只是一个规范和实用程序库，但是所有Ruby Web服务器都实现此接口.
 * [Thin](https://github.com/macournoyer/thin) -微型，快速且有趣的HTTP服务器.
@@ -1199,4 +1200,4 @@
 * [Ruby Rogues](https://devchat.tv/ruby-rogues) -有关编程的每周小组讨论，主要是Ruby.
 * [Ruby Weekly](https://rubyweekly.com/) -每周一次的免费Ruby新闻和文章电子邮件摘要.
 * [The Ruby Bibliography](https://rubybib.org) -有关Ruby的研究论文.
-* [The Ruby Toolbox](https://www.ruby-toolbox.com) -面向Ruby开发人员的Ruby和Rails插件，gem，工具和资源的完整目录，其流行度等级基于GitHub观察者和Gem下载.
+* [The Ruby Toolbox](https://www.ruby-toolbox.com) -面向Ruby开发人员的Ruby和Rails插件，gem，工具和资源的完整目录，其流行度基于GitHub观察者和Gem下载.

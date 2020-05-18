@@ -108,6 +108,7 @@
 <a id="lib-others"></a>
 ### Others
 
+* [eiR](https://github.com/girke-lab/eiR) -加快小分子的相似性搜索
 * [OPSIN](https://bitbucket.org/dan2097/opsin/downloads/) -用于系统IUPAC命名法的开放解析器
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) -以Python为中心的Cookiecutter，用于分子计算化学软件包，作者： [MolSSL](https://molssi.org/)
 

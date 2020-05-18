@@ -49,6 +49,7 @@
 
 ### General Purpose
 
+- [LSP](https://packagecontrol.io/packages/LSP) —对Sublime Text 3的语言服务器协议支持，可为您提供IDE功能.
 - [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) —增强了文件和文件夹侧栏上的操作.
 - [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) —突出显示尾随空格，并立即删除它们.
 - [GitGutter](https://github.com/jisaacks/GitGutter) —一个可在装订线中查看git diff的插件.
@@ -99,7 +100,7 @@ Plugins:
 - [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) —的接口 [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) （文档字符串样式检查器）.
 - [Djaneiro](https://github.com/squ1b3r/Djaneiro) — Django支持.
 - [SublimePythonTidy](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) 积分.
-- [Anaconda](https://github.com/DamnWidget/anaconda) —自动完成，代码插入，IDE功能，autopep8格式，McCabe复杂度检查器和使用Jedi，PyFlakes，pep8，PyLint，pep257和McCabe的Sublime Text 3的流浪者，它们永远不会冻结Sublime Text.
+- [Anaconda](https://github.com/DamnWidget/anaconda) —使用Jedi，PyFlakes，pep8，PyLint，pep257和McCabe的自动补全，代码替换，IDE功能，autopep8格式，McCabe复杂度检查器和Sublime Text 3的Vagrant，它们永远不会冻结Sublime Text.
 - [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) — Python自动补全.
 
 ### JavaScript Profile
@@ -115,7 +116,7 @@ Plugins:
 - [Emmet](http://emmet.io) —用于许多流行的文本编辑器的插件，可以大大改善HTML和CSS工作流程.
 - [HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify)
 - [GutterColor](https://github.com/ggordan/GutterColor) —在包含颜色代码的CSS中的每一行的装订线中显示颜色样本.
-- [Hayaku](http://hayakubundle.com) —模糊缩写，支持预处理程序（Sass，Less，Stylus）以及易于配置的一组工具中的许多其他功能，可更快地编写CSS.
+- [Hayaku](http://hayakubundle.com) —模糊缩写，支持预处理器（Sass，Less，Stylus）以及易于配置的一组工具中的许多其他功能，可更快地编写CSS.
 
 ### LaTeX Profile
 
@@ -151,7 +152,7 @@ Plugins:
 - [Material theme](https://github.com/equinusocio/material-theme)  —此主题带来了Material Design视觉语言.  http://equinsuocha.io/material-theme
 - [Comfort](https://github.com/devanshdalal/Comfort) -升华文字的奇妙主题！
 - [Predawn](https://github.com/jamiewilson/predawn)  — Sublime Text和Atom的深色界面和语法主题.  http://jamiewilson.io/predawn
-- [Ayu](https://github.com/dempfi/ayu) —具有鲜艳色彩的简单主题，分为三种版本-黑暗，海市rage楼和明亮，适合一整天的舒适工作.
+- [Ayu](https://github.com/dempfi/ayu) —具有明亮色彩的简单主题，分为三个版本-黑暗，海市rage楼和明亮，适合一整天的舒适工作.
 - [Ciapre](https://github.com/vinhnx/Ciapre.tmTheme/) -简单易用的Sublime Text / TextMate配色方案.
 
 相关扩展：

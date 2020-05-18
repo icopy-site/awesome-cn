@@ -33,7 +33,7 @@
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) -使用Maybe类型，并带有注释良好的代码示例.
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) -实用程序员的详尽书籍，涵盖了基础知识和高级概念.
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) -语法和功能概述.
-* [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
+* [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) -关于使用Elm构建Web应用程序的两个教程.
 * [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) -Elm作为一种编程语言的简要概述.
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) -榆木和数据初学者课程
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) -一本关于开发Elm应用程序的实际方面的入门书籍.
@@ -45,7 +45,7 @@
 
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) -了解如何使用Elm构建响应式Web应用程序.
 * [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) -了解如何为Elm创建本机JavaScript模块.
-* [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
+* [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) -有关基础知识和高级主题的系列文章.
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) -语言功能概述.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) -简短的截屏视频可以教您Erik Person的Elm编程语言.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) -构建您的第一个Elm Web App.
@@ -79,7 +79,7 @@
 
 * [Elm for Web Developers](https://github.com/eeue56/elm-for-web-developers) -面向迁移到Elm的Web开发人员的注释集.
 * [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612)  -一篇博客文章，描述了减少TEA样板的一种可能方法.  对于组件库和任何有兴趣看到您可以使用函数类型完成的惊人功能的人很有用.
-* [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) -一篇文章，描述如何将遵循Elm架构的代码组织成独立的功能，如何在功能之间进行通信以及如何将其中一些功能组合在一起以组装更大的功能.
+* [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) -一篇文章，描述如何将遵循Elm架构的代码组织为独立的功能，如何在功能之间进行通信以及如何将其中一些功能组合在一起以组装更大的功能.
 * [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78) -榆树教育系列教程.
 * [Elm & Guarantees](https://medium.com/@debois/elm-guarantees-92a66679f7bd) -现实地看榆树在哪里以及是否优于其他选择.
 
@@ -177,12 +177,13 @@
 
 *与Elm相关的有用工具.*
 
+* [Elm Catalog](https://korban.net/elm/catalog) -Elm工具的目录. 
 * [Dependabot](https://dependabot.com) -为您的elm.json自动更新PR.
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) -用于Elm编程语言的Linter.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) -Elm离线文档预览器.
 * [Elm Format](https://github.com/avh4/elm-format) -自动Elm代码格式化程序 [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [Elm JSON](https://github.com/zwilias/elm-json) -安装，升级和卸载Elm依赖项
-* [Elm Live](https://elm-live.com/)  -Elm的灵活开发服务器.  包括实时重装！
+* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
 * [Elm Oracle](https://github.com/ElmCast/elm-oracle)  -查询有关榆木源文件中值的信息.  大多数编辑器插件使用.
 * [Elm Pages](http://elm-pages.com) -静态网站生成器，可预生成HTML并合并到Elm客户端应用程序中（[here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
 * [Elm Review](https://github.com/jfmengels/elm-review) -Elm编程语言的代码审阅者.
@@ -262,7 +263,7 @@
 
 ### Other editors
 
-* [elm-light-table](https://github.com/rundis/elm-light) -语法高亮显示，REPL，自动补全，包管理以及Light Table的更多功能.
+* [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
 
 ---
@@ -281,7 +282,7 @@
 您可以在以下位置找到数百种高质量的包装：
 
 * [Elm packages](https://package.elm-lang.org/) -官方注册表
-* [Elm Package Catalog](https://korban.net/elm/catalog) -在按类别组织的目录中查找软件包. 
+* [Elm Catalog](https://korban.net/elm/catalog) -在按类别组织的目录中查找软件包. 
 * [Elm Search](http://klaftertief.github.io/elm-search/) -在Elm文档中搜索运算符，功能签名等.
 
 以下是一些值得注意的：

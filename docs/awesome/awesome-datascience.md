@@ -92,6 +92,9 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 * [COMP3222/COMP6246 - Machine Learning Technologies](https://tdgunes.com/COMP6246-2019Fall/)
 * [CS 231 - Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [Coursera Tensorflow in practice](https://www.coursera.org/specializations/tensorflow-in-practice?)
+* [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+* [365 Data Science Course](https://365datascience.com/)
 
 ## Data Sets
 
@@ -443,7 +446,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 使用SQL，Scala等进行交互式数据分析和协作文档
 * [Featuretools](https://github.com/featuretools/featuretools/) -用python编写的用于自动功能工程的开源框架
 * [Optimus](https://github.com/ironmussa/Optimus) -使用PySpark后端进行清理，预处理，功能工程，探索性数据分析和简单的ML. 
-* [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持分类，分割，开箱即用的检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
+* [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持开箱即用的分类，细分和检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
 * [DVC](https://github.com/iterative/dvc)  -开源数据科学版本控制系统.  它有助于跟踪，组织数据科学项目并使之可重现.  在其最基本的方案中，它有助于版本控制以及共享大数据和模型文件.
 * [Lambdo](https://github.com/asavinov/lambdo) 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
 * [Feast](https://github.com/feast-dev/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
