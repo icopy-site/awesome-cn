@@ -27,6 +27,7 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [tinygradient](https://github.com/mistic100/tinygradient) -快速和小的渐变操作.
 - [TinyColor](https://github.com/bgrins/TinyColor) -快速，小巧的颜色处理和JavaScript转换.
 - [Distinct Colors](https://github.com/internalfx/distinct-colors) -生成视觉上不同颜色的调色板.
+- [color2k](https://github.com/ricokahler/color2k) -颜色解析和操作库.
 
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) -保持色度不变，轻松选择调色板.

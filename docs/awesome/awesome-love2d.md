@@ -59,6 +59,7 @@
 * [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) -使用TypeScript编写LÖVE游戏
 * [MakeLove](https://github.com/instilledbee/MakeLove) -通过实时监视更改自动为项目创建创建（仅限Windows）
 * [boon](https://github.com/camchenry/boon) -LÖVE的跨平台构建工具
+* [lovelier](https://github.com/patrixr/lovelier) -带有Moonscript支持的Love2D实时重新加载器
 
 ## Drawing
 *绘制特定的库，简化了绘制过程*
@@ -151,7 +152,7 @@
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) -旨在简化恋人（TCP，UDP，Enet）[IPv6]联网的联网库
 * [LoverNet](https://github.com/josefnpat/LoverNet) -利用biter和enet [IPv4]的网络库
 * [NoobHub](https://github.com/Overtorment/NoobHub) -开源多人游戏和网络消息传递[IPv6]
-* [Sock.lua](https://github.com/camchenry/sock.lua) -用于LÖVE游戏[IPv4]的Lua网络库
+* [Sock.lua](https://github.com/camchenry/sock.lua) -用于LÖVE游戏的Lua网络库[IPv4]
 * [löve-ws](https://github.com/holywyvern/love-ws) -Websocket客户端和服务器库
 
 ## <a name="object"></a>Object Orientation
@@ -186,7 +187,7 @@
 * Windows，Mac和Linux以外的平台的端口*
 
 * [LoveDos](https://github.com/rxi/lovedos) -用于2D DOS游戏的Lua框架，实现了LÖVEAPI的子集
-* [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1
+* [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) -Windows Phone 8.1的进行中端口
 * [LovePotion](https://github.com/TurtleP/LovePotion) -用于Nintendo 3DS和Nintendo Switch Homebrew的LÖVEAPI的非官方正在进行中的实现
 * [Love.js](https://github.com/TannerRogalsky/love.js) -使用Emscripten将LÖVE移植到网络上
 * [LÖVR](https://github.com/bjornbytes/lovr) -喜欢虚拟现实设备
@@ -242,7 +243,7 @@
 
 * [CatUI](https://github.com/wilhantian/catui) -LÖVE的非常轻量级的GUI库
 * [GOOi](https://github.com/tavuntu/gooi) -面向Android的GUI库
-* [Gspöt](https://notabug.org/pgimeno/Gspot) -LÖVE的有状态GUI库
+* [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE
 * [Hanker](https://gitlab.com/Alloyed/hanker)  -极简主义即时模式式UI元素；  游戏手柄友好
 * [LoveFrames Fork](https://github.com/linux-man/LoveFrames) -11.2 GUI库的前叉
 * [Love Imgui](https://github.com/slages/love-imgui) -LÖVE游戏引擎的imgui模块
@@ -250,6 +251,7 @@
 * [Patchy](https://github.com/excessive/patchy) -9补丁库
 * [Polywell](https://gitlab.com/technomancy/polywell) -用Lua编写的可高度配置的文本编辑器/编码工具，可在LÖVE游戏引擎上运行.
 * [SafeWord](https://github.com/josefnpat/safeword) -LÖVE的过扫描检测库
+* [Slab](https://github.com/coding-jackalope/Slab) -Slab是用于LÖVE框架的即时模式GUI工具包.
 * [SUIT](https://github.com/vrld/SUIT) -小型即时模式GUI库
 * [ListBox](https://github.com/darkmetalic/ListBox) -LÖVE的动态列表框，支持触摸，鼠标和键盘输入
 
@@ -259,7 +261,6 @@
 * [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) -旋转二维数组（正方形和非正方形）
 * [cargo](https://github.com/bjornbytes/cargo) -资产经理
 * [chance.lua](http://ejmr.github.io/chance.lua/) -用于生成随机数据的库
-* [Classic](https://github.com/rxi/classic) -Lua的微型类模块
 * [colorchanger](https://github.com/santoslove/colorchanger) -更改LÖVE游戏中的颜色
 * [Flirt](https://github.com/Alloyed/flirt)  -LÖVE版本管理器；  允许在同一台机器上的多个引擎版本之间切换
 * [GifCat](https://github.com/WetDesertRock/GifCat) -一个用于从LÖVE保存gif的简单模块

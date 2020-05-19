@@ -215,6 +215,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [GBDK](http://gbdk.sourceforge.net/)  -一套可以在** C **中进行开发的工具.  包括一组最常见要求的库，并生成就绪的ROM文件. [Documentation](http://gbdk.sourceforge.net/doc/gbdk-doc.pdf).
   - [gbdk-osx](https://github.com/x43x61x69/gbdk-osx) -为macOS上的最新编译器修补了GBDK 2.96a.
   - [gbdk-n](https://github.com/rotmoset/gbdk-n)  -旨在更新gbdk库以使其与新版本的SDCC兼容，并为构建rom提供帮助.  不支持ROM库，因此将ROM大小限制为32K.
+  - [gbdk-2020](https://github.com/Zal0/gbdk-2020) -GBDK，C编译器，汇编器，链接器和库集的更新版本.
 
 #### Experimental/Proof of Concepts
 
@@ -288,7 +289,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
   - [Making Art for the Game Boy](http://assemblydigest.tumblr.com/post/77404621743/tutorial-making-art-for-the-game-boy)
 - [Beginner's Guide to Reverse Engineering GB](http://web.archive.org/web/20150511145100/http://www.bennvenn.com/Beginners_Guide_To_Reverse_Engineering.htm) -有关拆卸和逆向工程的一些入门技巧.
 - [FlappyBoy: Making a simple Game Boy Game](http://voidptr.io/blog/2017/01/21/GameBoy.html)
-- [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) -逐步教程，以实现“超级游戏男孩”功能（框架和调色板）.
+- [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - Step by step tutorial to implement Super Game Boy features (frame and palettes).
 - [GameBoy programming tutorial: Hello World!](http://peterwynroberts.com/?p=10) -分步教程.
 - [DMGreport](https://github.com/lancekindle/DMGreport) -汇编中的游戏编程教程.
 - [OAM DMA tutorial](https://exez.in/gameboy-dma) -如何在装配中使用OAM DMA的示例.
@@ -311,7 +312,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 #### Boilerplates and libraries
 
-- [gb-template](https://github.com/exezin/gb-template) - A template with basic functions such as joypad input, DMA transfers, and map/tile data loading.
+- [gb-template](https://github.com/exezin/gb-template) -具有基本功能的模板，例如游戏手柄输入，DMA传输和地图/平铺数据加载.
 - [rgbds-template](https://github.com/nezticle/rgbds-template) -使用RGBDS的Game Boy的基本hello-world示例.
 - [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) -具有内存定义，复制例程和IBM字体tilemap的简单模板代码.
 - [bootstrap.gb](https://github.com/yenatch/bootstrap.gb) -一个示例Game Boy项目.
@@ -370,7 +371,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [exeman](https://github.com/exezin/exeman/)
 - [Aevilia](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides](https://github.com/Kartones/gameboy) -一个简单的类似Game Boy Powerpoint的幻灯片查看器.
-- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全基于GBC支持的PokémonRed重制.
+- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全通过GBC支持对PokémonRed进行了重新制作.
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) -Fourway Breakout克隆.
 - [Galaxia](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
@@ -510,7 +511,7 @@ See [LICENSE](LICENSE) 欲获得更多信息.
 
 ### Acknowledgements
 
-谢谢 [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) 这个项目的贡献者，Jeff Frohwein，Pascal Felber，KOOPa，Pan of Anthrox，GABY，Marat Fayzullin，Paul Robson，BOWSER，neviksti，Martin“ nocash” Korth，Nitro2k01，Duo，Chris Antonellis，Michael Hope，当心，Jonathan“ Lord梦” Gevaryahu，Carsten Sorense，SindreAamås，Otaku No Zoku，GeeBee.
+谢谢 [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) 该项目的贡献者，Jeff Frohwein，Pascal Felber，KOOPa，Pan of Anthrox，GABY，Marat Fayzullin，Paul Robson，BOWSER，neviksti，Martin“ nocash” Korth，Nitro2k01，Duo，Chris Antonellis，Michael Hope，当心，Jonathan“ Lord梦” Gevaryahu，Carsten Sorense，SindreAamås，Otaku No Zoku，GeeBee.
 
 ### Sponsors
 

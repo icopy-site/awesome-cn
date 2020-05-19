@@ -44,6 +44,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [denon](https://github.com/eliassjogreen/denon/blob/master/watcher.ts) -具有等待生成器的文件监视程序.
 - [deno_case_style](https://github.com/zekth/deno_case_style)  -用于不同大小写样式的字符串验证器和格式化程序.  例如：camelCase等.
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) -SHA1 / MD5算法.
+- [deno-context](https://github.com/code-hex/deno-context)  -将期限，取消和其他要求范围的值传播给多个承诺.  行为就像Go的上下文.
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) -使Deno程序在后台运行.
 -deno-dotenv
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) -Dotenv行动为deno.
@@ -58,7 +59,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) -色彩鲜艳的assertE等于deno.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) -格式化，修剪和删除字符串中字符之间的多余空格.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) -帮助程序生成随机间隔.
-- [deno-redis](https://github.com/keroxp/deno-redis) -Redis客户端的Deno的实验实现.
+- [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) -deno的字符串节流器.
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) -SMTP的SMTP邮件发件人.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) -deno的模板渲染器.
@@ -78,6 +79,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [gentleRpc](https://github.com/timonson/gentleRpc) -用于Deno和浏览器的JSON-RPC 2.0 TypeScript库.
 - [http](https://github.com/denoland/deno_std/tree/master/http) -包括文件服务器的HTTP模块.
 - [http-libs](https://github.com/denoserverless/http-libs) -HTTP模块和类型.
+- [invert-kv](https://github.com/denorg/invert-kv) -在Deno中反转键值对.
 - [jwt](https://github.com/denoserverless/jwt) -auth0 / jsonwebtoken的端口.
 - [lazy](https://github.com/luvies/lazy) -类似于linq的惰性求值迭代模块.
 - [log](https://github.com/denoland/deno_std/tree/master/log) -Deno的记录模块.
@@ -85,16 +87,21 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [ms](https://github.com/denolib/ms) -轻松地将各种时间格式转换为毫秒.
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) -删除字符串中的重音符号/变音符号.
 - [oak](https://github.com/oakserver/oak) -用于Deno网络服务器的中间件框架.
+- [online](https://github.com/denorg/online) -检查您当前是否在Deno在线.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) -Deno Path操作库.
 - [pogo](https://github.com/sholladay/pogo) -Deno的服务器框架.
 - [postgres](https://github.com/buildondata/deno-postgres) -PostgreSQL数据库驱动程序.
+- [qrcode](https://github.com/denorg/qrcode) -用于Deno的QR码图像生成器.
 - [qs](https://github.com/denolib/qs) -具有嵌套支持的查询字符串解析器.
+- [recursive-readdir](https://github.com/denorg/recursive-readdir) -在Deno中递归读取目录.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) -从移植的SAX样式的XML解析器 [sax-js](https://github.com/isaacs/sax-js).
 - [servest](https://github.com/keroxp/servest) -渐进式HTTP服务器/路由器.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) -sql查询生成器.
+- [status](https://github.com/denosaurs/status) -用于Deno的HTTP代码和状态实用程序.
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [type-fest](https://github.com/denoserverless/type-fest) -基本TypeScript类型的集合（sindresorhus端口/ type-fest）.
 - [unexpected](https://github.com/unexpectedjs/unexpected) -可扩展的BDD断言工具包.
+- [up](https://github.com/denorg/up) -检查是否在Deno建立了网站.
 - [watch](https://github.com/jinjor/deno-watch) -文件查看器.
 - [webview](https://github.com/eliassjogreen/deno_webview) -Webview的Deno绑定，这是一个用于创建基于Web的桌面GUI的小型库.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) -差异库，使用wu（O（NP））算法计算两个切片之间的差异.
@@ -102,6 +109,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 ## Tools
 
 - [clone](https://github.com/ekaragodin/clone) -用于方便克隆的简单实用程序.
+- [dedep](https://github.com/egoist/dedep) -管理依赖版本.
 - [denoget](https://github.com/syumai/denoget) -Denoget安装可执行的Deno脚本.
 - [denoify](https://github.com/garronej/denoify) -对于希望支持Deno但不想编写和维护端口的NPM模块作者.
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) -Denoinit为Deno项目生成有用的文件.
@@ -111,7 +119,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [denopkg](https://github.com/denopkg/denopkg.com) -在您的Deno项目中使用GitHub中代码的简便方法.
 - [denoversion](https://github.com/lucascaro/denoversion) -Deno的SemVer和git版本管理.
 - [denox](https://github.com/BentoumiTech/denox) -与packages.json脚本类似，但对于具有权限支持的Deno.
-- [deno.mk](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
+- [deno.mk](https://github.com/MarkTiedemann/deno.mk) -用于安装和运行Deno的跨平台Makefile.
 -maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗映像.
 -海德 [deno-docker](https://github.com/hayd/deno-docker) 几个docker映像.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) -使用此扩展程序利用vscode中内置的typedef和intellisense.
@@ -122,13 +130,14 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
   - [axetroy/dvm](https://github.com/axetroy/dvm) -没有运行时相关性的Deno版本管理器.
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) -用Deno编写的Elm Live Reloader.
 - [nessie](https://github.com/halvardssm/deno-nessie) -为PostgreSQL，MySQL和SQLite创建，迁移和回滚迁移.
+- [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) -一个Packer插件，可轻松使用Deno脚本构建虚拟机映像.
+- [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
+- [starter](https://github.com/denorg/starter) -带有GitHub Actions CI的Deno模块入门模板
 - [task-runner](https://github.com/jinjor/deno-task-runner) -像npm脚本一样编写任务.
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) -Deno语言服务插件，在编辑器内的TypeScript文件中提供智能感知.
 - [udd](https://github.com/hayd/deno-udd) -更新Deno依赖性：将导入语句更新为最新发布的版本.
 - [velociraptor](https://github.com/umbopepato/velociraptor) -Deno的npm风格脚本执行器.
 - [vscode-deno](https://github.com/justjavac/vscode-deno) -VS Code扩展，使用typescript-deno-plugin提供Deno支持.
-- [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) -一个Packer插件，可轻松使用Deno脚本构建虚拟机映像.
-- [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 
 ## Articles
 
@@ -140,6 +149,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [Deno on AWS Lambda with Architect or SAM](https://blog.begin.com/deno-runtime-support-for-architect-805fcbaa82c3)
 - [Deno on Cloud Run](https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d)
 - [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
+- [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
 
 ## Presentations
 
@@ -178,6 +188,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [Node之父ry：Node中的设计错误](https://mp.weixin.qq.com/s/7XAiYw18c8YZc-fXk0-wrw)
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
 - [Deno中文社区](https://denocn.org)
+- [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
 
 ### Hebrew
 

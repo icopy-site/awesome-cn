@@ -22,15 +22,15 @@
 
 *用于创建CTF挑战的工具*
 
-- [Kali Linux CTF Blueprints](https://doc.lagout.org/security/Packt.Kali.Linux.CTF.Blueprints.Jul.2014.ISBN.1783985984.pdf) -有关构建，测试和自定义自己的“夺旗”挑战的在线书籍.
+- [Kali Linux CTF Blueprints](https://www.packtpub.com/eu/networking-and-servers/kali-linux-ctf-blueprints) -有关构建，测试和自定义自己的“夺旗”挑战的在线书籍.
 
 
 ## Forensics
 
 *用于创建取证挑战的工具*
 
-- [Dnscat2](https://github.com/iagox86/dnscat2) -通过DNS托管通信.
-- [Kroll Artifact Parser and Extractor (KAPE)](https://learn.duffandphelps.com/kape) -分诊程序.
+- [Dnscat2](https://github.com/iagox86/dnscat2) - Hosts communication through DNS.
+- [Kroll Artifact Parser and Extractor (KAPE)](https://learn.duffandphelps.com/kape) - Triage program.
 - [Magnet AXIOM](https://www.magnetforensics.com/downloadaxiom) -以工件为中心的DFIR工具.
 - [Registry Dumper](http://www.kahusecurity.com/posts/registry_dumper_find_and_dump_hidden_registry_keys.html) -转储您的注册表.
 
@@ -40,7 +40,7 @@
 
 - [CTFd](https://github.com/isislab/CTFd) -平台，可托管来自纽约大学丹登分校ISISLab的危险风格CTF.
 - [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) -开发，部署和维护自己的CTF基础架构.
-- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook.
+- [FBCTF](https://github.com/facebook/fbctf) -举办Facebook抓旗大赛的平台.
 - [Haaukins](https://github.com/aau-network-security/haaukins)-用于安全教育的高度可访问且自动化的虚拟化平台.
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) -CTF评分平台.
 - [Mellivora](https://github.com/Nakiami/mellivora) -用PHP编写的CTF引擎.
@@ -236,7 +236,7 @@
 - [Exiftool](https://linux.die.net/man/1/exiftool) -在文件中读取和写入元信息.
 - [Exiv2](http://www.exiv2.org/manpage.html) -图像元数据处理工具.
 - [Image Steganography](https://sourceforge.net/projects/image-steg/)  -使用可选的加密功能将文本和文件嵌入图像中.  易于使用的用户界面.
-- [Image Steganography Online](https://incoherency.co.uk/image-steganography) -这是一个客户端Javascript工具，用于将图像隐藏在其他图像的较低“位”内
+- [Image Steganography Online](https://incoherency.co.uk/image-steganography) -这是一种客户端Javascript工具，用于将图像隐藏在其他图像的较低“位”内
 - [ImageMagick](http://www.imagemagick.org/script/index.php) -用于处理图像的工具.
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) -通用隐写工具.
 - [Pngtools](https://packages.debian.org/sid/pngtools) -用于与PNG相关的各种分析.
@@ -304,9 +304,9 @@
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) -实地考察的足迹.
 - [CTF Resources](http://ctfs.github.io/resources/) -由社区维护的入门指南.
-- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) 该死的脆弱的PHP / MySQL Web应用程序.
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) -Endgame为CTF初学者提供的简短指南
 - [Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) -免费课程，向初学者讲授取证，加密和网络交易的基础知识.
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) -流行的CTF平台的视频教程和演练.
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) -有关剥削的视频教程.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) -面向CTF初学者的小课程（俄语）.
 
@@ -328,7 +328,7 @@
 - [Hacking-Lab](https://hacking-lab.com/) -道德黑客，计算机网络和安全挑战平台.
 - [Hone Your Ninja Skills](https://honeyourskills.ninja/) -网络挑战从基本挑战开始.
 - [IO](http://io.netgarage.org/) -Wargame进行二进制挑战.
-- [Microcorruption](https://microcorruption.com) - Embedded security CTF.
+- [Microcorruption](https://microcorruption.com) -嵌入式安全CTF.
 - [Over The Wire](http://overthewire.org/wargames/) -由OvertheWire社区维护的Wargame.
 - [PentesterLab](https://pentesterlab.com/) -各种虚拟机和在线挑战（付费）.
 - [PicoCTF](https://2019game.picoctf.com)  -全年CTF游戏.  来自每年的picoCTF竞赛的问题.
@@ -350,7 +350,7 @@
 
 
 *自托管的CTF *
-
+- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) -该死的易受攻击的PHP / MySQL Web应用程序.
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) -用于托管CTF的脚本和工具 [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) 容易.
 
 ## Websites

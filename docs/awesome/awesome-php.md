@@ -22,7 +22,7 @@
 * [Composer Installers](https://github.com/composer/installers) -多框架Composer库安装程序.
 * [Composer](https://getcomposer.org/) -包和依赖项管理器.
 * [Melody](https://melody.sensiolabs.org/) -一种构建一个文件Composer脚本的工具.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) -一个PHP扩展安装程序.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
 ### Dependency Management Extras
 *与依赖项管理有关的其他内容.
@@ -194,7 +194,7 @@
 * [Disco](https://github.com/bitExpert/disco) -与PSR-11兼容的基于注释的依赖项注入容器.
 * [PHP-DI](http://php-di.org/) -支持自动装配的依赖项注入容器.
 * [Pimple](https://pimple.symfony.com/) -一个很小的依赖项注入容器.
-* [Symfony DI](https://github.com/symfony/dependency-injection) -依赖项注入容器组件.
+* [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
 ### Imagery
 *用于处理图像的库.*
@@ -226,7 +226,7 @@
 * [Pho](https://github.com/danielstjules/pho) -另一个行为驱动的开发测试框架.
 * [PHP-Mock](https://github.com/php-mock/php-mock) -用于内置PHP函数（例如time（））的模拟库.
 * [PHPSpec](https://github.com/phpspec/phpspec) -按规格设计的单元测试库.
-* [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
+* [PHPT](https://qa.php.net/write-test.php) -PHP本身使用的测试工具.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) -单元测试框架.
 * [Prophecy](https://github.com/phpspec/prophecy) -一个自以为是的模拟框架.
 * [VFS Stream](https://github.com/bovigo/vfsStream) -用于测试的虚拟文件系统流包装器.
@@ -277,7 +277,7 @@
 
 * [GenPhrase](https://github.com/timoh6/GenPhrase) -用于生成安全随机密码短语的库.
 * [Password Compat](https://github.com/ircmaxell/password_compat) -新的PHP 5.5密码功能的兼容性库.
-* [Password Policy](https://github.com/ircmaxell/password-policy) -用于PHP和JavaScript的密码策略库.
+* [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
 * [Password Validator](https://github.com/jeremykendall/password-validator) -用于验证和升级密码哈希的库.
 * [Password-Generator](https://github.com/hackzilla/password-generator) -PHP库可生成随机密码.
 * [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) -用于生成和验证密码的库.
@@ -291,6 +291,7 @@
 * [Code Climate](https://codeclimate.com) -自动代码审查.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) -用PHP编写的PHP解析器.
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) -命令行实用程序，用于比较两个源集并确定要应用的适当语义版本.
+* [Phpactor](https://github.com/phpactor/phpactor) -PHP完成，重构和自省工具.
 * [PHPLOC](https://github.com/sebastianbergmann/phploc) -快速测量PHP项目大小的工具.
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) -用于运行质量检查工具（phploc，phpcpd，phpcs，pdepend，phpmd，phpmetrics）的工具.
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) -可视化指标和源代码的工具.
@@ -317,7 +318,7 @@
 * [PHP Architecture Tester](https://github.com/carlosas/phpat) -易于使用的PHP体系结构测试工具.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) -用于PHP CodeSniffer的PHP兼容性检查器.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) -创建可定制的依赖图的工具.
-* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
+* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) -静态指标库.
 * [PHP Migration](https://github.com/monque/PHP-Migration) -用于PHP版本迁移的静态分析器.
 * [PHPStan](https://github.com/phpstan/phpstan) -一个PHP静态分析工具.
 * [Psalm](https://github.com/vimeo/psalm) -用于在PHP应用程序中查找错误的静态分析工具.
@@ -477,7 +478,7 @@
 ### NoSQL
 *用于“ NoSQL”后端的库.*
 
-* [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
+* [PHPMongo](https://github.com/sokil/php-mongo) -MongoDB ORM.
 * [Predis](https://github.com/nrk/predis) -功能齐全的Redis库.
 
 ### Queue
@@ -555,7 +556,7 @@
 * [Hoa String](https://github.com/hoaproject/Ustring) -另一个UTF-8字符串库.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php)  -Python的jieba的PHP端口.  中文文本分割，用于自然语言处理.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -用于检测移动设备（包括平板电脑）的轻量级PHP类.
-* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) -用于处理UTF-8字符串的可移植库.
+* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Portable UTF-8](https://github.com/voku/portable-utf8) -具有UTF-8安全替换方法的字符串处理库.
 * [Slugify](https://github.com/cocur/slugify) -将字符串转换为段的库.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) -用于格式化SQL语句的库.
@@ -579,12 +580,12 @@
 * [Assert](https://github.com/beberlei/assert)  -具有丰富的断言集的验证库.  支持断言链接和惰性断言.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) -提供用于验证和清除对象和数组的工具.
 * [CakePHP Validation](https://github.com/cakephp/validation) -另一个验证库.
-* [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+* [Filterus](https://github.com/ircmaxell/filterus) -一个简单的PHP过滤库.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -一个用于根据许多国家/地区的ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的库.
 * [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) -支持YAML，JSON和XML的架构验证库.
 * [Respect Validation](https://github.com/Respect/Validation) -一个简单的验证库.
-* [Upload](https://github.com/brandonsavage/Upload) -用于处理文件上传和验证的库.
+* [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 * [Valitron](https://github.com/vlucas/valitron) -另一个验证库.
 * [Volan](https://github.com/serkin/Volan) -另一个简化的验证库.
 
@@ -654,7 +655,7 @@
 * [Bref](https://bref.sh/) -AWS Lambda上的无服务器PHP.
 * [OpenWhisk](http://openwhisk.apache.org/) -开源的无服务器云平台.
 * [Serverless Framework](https://serverless.com/cli/) -用于构建无服务器应用程序的开源框架.
-* [Laravel Vapor](https://vapor.laravel.com/) -由AWS支持的Laravel无服务器部署平台.
+* [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
 
 ## Configuration
 *用于配置的库和工具.*
@@ -668,7 +669,7 @@
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) -官方的PHP AWS开发工具包库.
 * [AsyncAWS](https://async-aws.com/) -一个非官方的异步PHP AWS SDK.
-* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
+* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) -正式的Campaign Monitor PHP库.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) -官方的PHP Dropbox SDK库.
 * [Github](https://github.com/KnpLabs/php-github-api) -与Github API交互的库.
 * [Mailgun](https://github.com/mailgun/mailgun-php) 官方Mailgun PHP API.
@@ -872,7 +873,7 @@
 
 * [Disproving the Single Quotes Myth](https://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) -有关单引号和双引号字符串的性能的文章.
 * [How Big Are PHP Arrays (And Values) Really?](https://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) -有关数组内部的文章.
-* [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) - A detailed StackOverflow answer about foreach.
+* [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) -有关foreach的详细StackOverflow答案.
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) -有关字符串内部的文章.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) -有关PHP中评估顺序的文章.
 * [PHP Internals Book](http://www.phpinternalsbook.com) -由三位核心开发人员撰写的有关PHP内部原理的在线书籍.

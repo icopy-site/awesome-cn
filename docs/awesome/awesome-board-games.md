@@ -14,7 +14,7 @@
 
 ### [Ghost Blitz](https://github.com/edm00se/awesome-board-games/blob/master/<https://boardgamegeek.com/boardgame/83195/ghost-blitz>)
 
- &gt;房屋鬼魂Balduin在城堡酒窖里发现了一台旧相机.  当他出没时，他立即拍摄了他爱使一切消失的照片-当然包括他自己.  不幸的是，附魔的相机以错误的颜色拍摄了许多照片.  有时，绿色的瓶子是白色的，而其他时候是蓝色的.  看着照片，Balduin真的不记得他接下来要消失的一切了.  您能帮助他解决问题并迅速命名正确的物品，甚至让它自己消失吗？  如果您快速抓住正确的物品，您就有很大的机会赢取...
+ &gt;房屋鬼魂Balduin在城堡酒窖里发现了一台旧相机.  当他出没时，他立即拍摄了他爱使一切消失的照片-当然包括他自己.  不幸的是，附魔的相机以错误的颜色拍摄了许多照片.  有时，绿色的瓶子是白色的，而其他时候是蓝色的.  看着照片，Balduin真的不记得他接下来要消失的一切了.  您能帮助他解决问题并快速命名正确的物品，甚至让它自己消失吗？  如果您快速抓住正确的物品，您就有很大的机会赢取...
 
 ![Ghost Blitz game image](https://cf.geekdo-images.com/itemrep/img/D-2aizsXhm-kpy0ffA4R--Xd07Y=/fit-in/246x300/pic2034769.jpg)
 
@@ -145,7 +145,17 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
- |  2-4 |  6  30m |
+ |  2-4 |  6 |  30m |
+
+### [Klask](https://boardgamegeek.com/boardgame/165722/klask)
+
+> Klask is a board game that has a ball field shape with two deep holes functioning as goals in each end of the field. The purpose of the game is to push the small ball around on the field with your magnet/gaming piece, shoot the ball past the obstacles and your opponent and into the goal hole.
+
+![Klask image](https://cf.geekdo-images.com/itemrep/img/tVtNzNug3e8QiLREwiEJOZMF0UY=/fit-in/246x300/pic2627442.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2 |  8 |  10m |
 
 
 ## Strategy
@@ -168,7 +178,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2  5  30m |
+ |  2 |  5 |  30m |
 
 ### [7 Wonders](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/7_Wonders_(board_game)>)
 
@@ -188,17 +198,17 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2  10 |  30m |
+ |  2 |  10 |  30m |
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
- &gt; Antike Duellum（以Casus Belli的名字在2011年Spiel上预览）是一款基于Mac Gerdts的Antike修改规则的两人策略游戏.  游戏包括两种情况：棋盘一侧的《布匿战争》（罗马与卡塔戈），另一侧的波斯战争（希腊与波斯人）.  游戏的目标是成为第一个获得九个远古人物（国王，学者，将军，公民，航海家）的人.
+ &gt; Antike Duellum（以Casus Belli的名字在Spiel 2011上预览）是一款基于Mac Gerdts的Antike修改规则的两人策略游戏.  游戏包括两种情况：棋盘一侧的《布匿战争》（罗马与卡塔戈），另一侧的波斯战争（希腊与波斯人）.  游戏的目标是成为第一个获得九个远古人物（国王，学者，将军，公民，航海家）的人.
 
 ![Antike Duellum game image](https://cf.geekdo-images.com/itemrep/img/_wW6NgcIS12ZDpjZdXgzgMxqgQE=/fit-in/246x300/pic1282841.jpg)
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2  13 |  75m |
+ |  2 |  13 |  75m |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 
@@ -214,7 +224,7 @@
 
 ### [Mansions of Madness, 2nd ed](https://wikipedia.org/wiki/Mansions_of_Madness)
 
- &gt;与Eldritch Horror和Elder Sign在同一个世界中发生的，完全协作，由应用程序驱动的恐怖和神秘棋盘游戏，适用于1-5个玩家.  在调查恐惧和神秘的四种情况时，寻找答案时，探索因斯茅斯（Innsmouth）蒙面的街道和阿卡姆（Arkham）被诅咒的豪宅的鬼屋走廊.  收集武器，工具和信息，解决复杂的难题，与怪物，精神错乱和死亡作斗争.
+ &gt;与Eldritch Horror和Elder Sign在同一个世界中发生的，完全协作，由应用程序驱动的恐怖和神秘棋盘游戏，适用于1-5个玩家.  在调查恐惧和谜团的四种情况时，在寻找答案时，探索因斯茅斯（Innsmouth）蒙面的街道和阿卡姆（Arkham）被诅咒的豪宅的鬼屋走廊.  收集武器，工具和信息，解决复杂的难题，与怪物，精神错乱和死亡作斗争.
 
 ![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
 
@@ -224,13 +234,13 @@
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
- &gt;《权力的游戏》允许玩家扮演几家争夺七大王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，Baratheon家族，Greyjoy家族，Tyrell家族以及《 A Clash》的扩展国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
+ &gt;《权力的游戏》允许玩家扮演几家争夺七国王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，马拉松家族，格雷乔伊家族，泰瑞尔家族，以及扩展《冲突》之后的角色国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -------: |
- |  3-6 |  12  180-360m |
+ |  3-6 |  12 |  180-360m |
 
 ### [YINSH](https://en.wikipedia.org/wiki/YINSH)
 
@@ -274,7 +284,7 @@
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
- &gt;腐败的城市受邪恶和贪婪的控制，受到邪恶人物的控制.  权力的位置空缺，等待您接管－除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是让他们沿着游戏中的彼此消灭.道路.
+ &gt;一个腐败的城市，受到邪恶和贪婪的控制，受到邪恶人物的控制.  权力的位置空缺，等待您接管－除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是让他们沿着游戏中的彼此消灭.道路.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
@@ -391,7 +401,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
- |  2  8  30m |
+ |  2 |  8 |  30m |
 
 ### [Call to Adventure](https://www.brotherwisegames.com/about-call-to-adventure)
 
@@ -463,7 +473,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
-|   2 - 4 |        4 | 30-60m |
+ |  2-4 |  4 |  30-60m |
 
 ### [Carrom](https://en.wikipedia.org/wiki/Carrom)
 
@@ -497,7 +507,7 @@
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
- &gt;曾经想玩流行的Game Show游戏谁想成为百万富翁？  看看谁想成为百万富翁的棋盘游戏版本.  除了电视摄像机，Regis Philbin和真钱游戏外，这是同一款游戏，其中包括简单可笑的\ $ 100问题，生命线和超过2,000个问题.
+ &gt;曾经想玩流行的Game Show游戏谁想成为百万富翁？  看看谁想成为百万富翁的棋盘游戏版本.  除了电视摄像机，Regis Philbin和真钱游戏外，这是同一款游戏，包括简单可笑的\ $ 100问题，生命线和超过2,000个问题.
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
@@ -537,7 +547,7 @@
 
 ### [Bears vs. Babies](https://boardgamegeek.com/boardgame/211534/bears-vs-babies)
 
- &gt;熊与婴儿是一款纸牌游戏，您可以在其中建立英俊，令人难以置信的怪物，这些怪物会与可怕的可怕婴儿交战.  共享纸牌由熊的部分（和其他怪物的部分）和婴儿卡组成.  当您绘制零件时，您将使用它为自己构建一个怪物.  当您画婴儿时，它会放在桌子的中央.  当婴儿被挑衅时，他们会进攻，而怪物零件少于进攻婴儿数量的人将失去他们的怪物；  每个人都拥有比婴儿更多的部分，他们会击败这支婴儿部队并得分.
+ &gt;熊与婴儿是一款纸牌游戏，您可以在其中建立英俊，令人难以置信的怪物，这些怪物会与可怕的可怕婴儿交战.  共享纸牌由熊的部分（和其他怪物的部分）和婴儿卡组成.  当您绘制零件时，您将使用它为自己构建一个怪物.  当您画婴儿时，它会放在桌子的中央.  当婴儿被挑衅时，他们会进攻，而怪物部分少于进攻婴儿数量的人将失去他们的怪物；  每个人都拥有比婴儿更多的部分，他们会击败这支婴儿部队并得分.
 
 ![Bears vs. Babies Image](https://explodingkittens.com/img/store/games/bvb_core_thumb_x1.png)
 
@@ -558,7 +568,7 @@
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
- &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们娱乐.在与Random Comic Generator玩了几周之后，我们开始怀疑它的数百个随机面板是否适合自己玩纸牌游戏，您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+ &gt;创作者说：“互联网上曾有人告诉我们制作简笔漫画很容易，而且我们丑陋而愚蠢.从各个方面来说都是正确的.所以，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们带来了娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
@@ -574,7 +584,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
- |  2-6 |  8  40-75m |
+ |  2-6 |  8 |  40-75m |
 
 ### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
 
@@ -608,7 +618,7 @@
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
- &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后竞争击败比对手更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
+ &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后与对手相比，击败更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
@@ -634,7 +644,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  4-8 |  12  30m |
+ |  4-8 |  12 |  30m |
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
@@ -682,7 +692,7 @@
 
 ### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
 
- &gt; TZAAR是GIPF系列抽象策略游戏中的第二款游戏.  每个玩家都有不同类型的棋子（6扎，9扎和15图）.  玩家轮流尝试捕获对手的棋子或堆叠棋子.  堆叠棋子可以使棋子更坚固，但可以减少玩家在棋盘上的棋子数量.  如果玩家无法抓住对手的棋子，或者他们在棋子上没有每种棋子的至少一种类型，他们就会输. 
+ &gt; TZAAR是GIPF系列抽象策略游戏中的第二款游戏.  每个玩家都有不同类型的棋子（6扎，9扎和15图）.  玩家轮流尝试捕获对手的棋子或堆叠棋子.  堆叠棋子可以使棋子更坚固，但可以减少玩家在棋盘上的棋子数量.  如果玩家无法抓住对手的棋子，或者在战线上没有每种棋子的至少一种类型，他们就会输掉比赛. 
 
 ![TZAAR image](https://upload.wikimedia.org/wikipedia/en/b/b2/TZAAR_box_cover.png)
 
@@ -699,7 +709,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  3-6 |  12  30m |
+ |  3-6 |  12 |  30m |
 
 ### [Cranium](https://boardgamegeek.com/boardgame/891/cranium)
 

@@ -12,6 +12,7 @@
 
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) -情境意识如何将您的业务推向市场（5:51）.
 - [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) -在11个图表中 [Simon Wardley](https://twitter.com/swardley).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -视觉上引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
 
 ## Community
 
@@ -34,7 +35,7 @@
 ## Videos
 
 - [Wardley Maps](https://www.youtube.com/c/WardleyMaps) -社区YouTube频道和 [playlists](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists).
-- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -视觉上引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
+- [Wardley Maps on Vimeo](https://vimeo.com/channels/wardleymaps) -Simon Wardley和Wardley制图界的对话.
 - [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) -在InfoQ上观看演示和录像.
   
 ## Courses
@@ -109,7 +110,7 @@
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的方法指南.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -用于OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了LaTeX中绘制沃德利地图的过程.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -沃德利（Yard）映射调色板.
 
 ### Doctrine Assessement

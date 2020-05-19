@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="fffaraz/awesome-cpp"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
- 精选的C ++（或C）框架，库，资源和闪亮的清单.  受到了...的启发.
+ 精选的C ++（或C）框架，库，资源和闪亮的清单.  受到令人敬畏的东西的启发.
 
 
 ## Standard Libraries
@@ -76,7 +76,7 @@
 * [libhv](https://github.com/ithewei/libhv)  -跨平台事件循环库.  [BSD]
 * [libuv](https://github.com/libuv/libuv)  -跨平台异步I / O.  [BSD]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp)  -实现Promise / A +标准的仅标头库.  [Anti-996]
-* [uvw](https://github.com/skypjack/uvw)  -libuv的C ++包装器.  [MH]
+* [uvw](https://github.com/skypjack/uvw)  -libuv的C ++包装器.  [我的]
 
 ## Audio
 *音频，声音，音乐，数字化语音库*
@@ -90,12 +90,12 @@
 * [miniaudio](https://github.com/dr-soft/miniaudio)  -单文件音频播放和捕获库.  [无牌]
 * [Opus](http://opus-codec.org/)  -完全开放，免版税，功能广泛的音频编解码器.  [BSD]
 * [PortAudio](http://www.portaudio.com/)  -PortAudio是一个免费的，跨平台的开源音频I / O库.  [麻省理工]
-* [SELA](https://github.com/sahaRatul/sela)  -简单的无损音频.  [麻省理工]
+* [SELA](https://github.com/sahaRatul/sela)  -简单的无损音频.  [与]
 * [SoLoud](https://github.com/jarikomppa/soloud)  -简单，便携式的游戏音频引擎.  [zlib]
 * [Speex](http://www.speex.org/)  -用于言论自由的免费编解码器.  被Opus淘汰.  [BSD]
 * [Tonic](https://github.com/TonicAudio/Tonic)  -在C ++中轻松高效地进行音频合成.  [无牌]
 * [Vorbis](http://xiph.org/vorbis/)  -Ogg Vorbis是一种完全开放的，非专有的，免专利和免专利费的通用压缩音频格式.  [BSD]
-* [minimp3](https://github.com/lieff/minimp3)  -具有净室实现的公共域，仅标头的MP3解码器.  [CC0]
+* [minimp3](https://github.com/lieff/minimp3)  -公共区域，带有净室实现的仅标头MP3解码器.  [CC0]
 * [Verovio](https://github.com/rism-ch/verovio)  -Verovio是一个快速，轻便的音乐符号雕刻库.  [LGPL] [website](https://www.verovio.org)
 * [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) -公共领域，一种完全用C ++编写的快速开源语音处理工具包，它使用ArrayFire张量库和手电筒机器学习库来实现最高效率[BSD]
 
@@ -260,12 +260,12 @@
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)  -用于检测文件中SHA-1冲突的库和命令行工具.  [麻省理工]
 * [Tink](https://github.com/google/tink)  -一种多语言，跨平台的库，提供安全，易于正确使用且难以滥用的加密API.  [Apache-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) -C型小型便携式AES128 / 192/256.[PublicDomain]
-* [Themis](https://github.com/cossacklabs/themis)  -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有前向保密性的安全套接字.  [Apache2]
+* [Themis](https://github.com/cossacklabs/themis)  -加密库可实现无痛数据安全性，为移动和服务器平台提供对称和非对称加密，具有前向保密性的安全套接字.  [Apache2]
 
 ## CSV
 *用于解析逗号分隔值（CSV）文件的库*
 
-* [csv](https://github.com/p-ranav/csv)  -CSV用于现代C ++.  [MIT]
+* [csv](https://github.com/p-ranav/csv)  -CSV用于现代C ++.  [什么]
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser)  -小型，易于使用且快速的仅标头库，用于读取CSV文件.  [BSD-3-Clause]
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)  -快速，自包含的，流式C ++ 17 CSV解析器，具有可选的类型转换和统计信息.  [麻省理工]
 
@@ -345,7 +345,7 @@
 * [Atomic Game Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - A multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript. [Commercial]
 * [Cocos2d-x](http://www.cocos2d-x.org/)  -用于构建2d游戏，交互式书籍，演示和其他图形应用程序的多平台框架.  [麻省理工]
 * [Corange](https://github.com/orangeduck/Corange)  -用纯C，SDL和OpenGL编写的游戏引擎.  [BSD]
-* [crown](https://github.com/dbartolini/crown)  -Crown是通用数据驱动的游戏引擎，使用正统C ++从零开始编写，并牢记简约和面向数据的设计理念.  [麻省理工]
+* [crown](https://github.com/dbartolini/crown)  -Crown是通用数据驱动的游戏引擎，使用正统C ++从零开始编写，并牢记了简约和面向数据的设计理念.  [麻省理工]
 * [delta3d](http://sourceforge.net/projects/delta3d/)  -强大的仿真平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)  -游戏符合现代C ++.  [麻省理工]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)  -跨平台的本机C ++游戏框架，用于创建2D / 3D移动和桌面游戏.  [Apache2]
@@ -380,7 +380,7 @@
 * [MyGUI](http://mygui.info/)  -快速，灵活和简单的GUI.  [麻省理工]
 * [nana](http://nanapro.org/en-us/)  -Nana是用于现代C ++风格的GUI编程的跨平台库.  [促进]
 * [NanoGui](https://github.com/wjakob/nanogui)  -适用于OpenGL 3.x或更高版本的简约跨平台窗口小部件库.  [BSD]
-* [nuklear](https://github.com/vurtun/nuklear)  -单头ANSI C gui库.  [公共区域]
+* [nuklear](https://github.com/Immediate-Mode-UI/Nuklear)  -单头ANSI C gui库.  [公共区域]
 * [QCustomPlot](http://qcustomplot.com/)  -Qt绘图小部件，无需进一步依赖.  [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/)  -用于技术应用程序的Qt小部件.  [基于LGPL拥有]
 * [QwtPlot3D](http://qwtplot3d.sourceforge.net/)  -一个功能丰富的基于Qt / OpenGL的C ++编程库，本质上提供了一堆3D小部件.  [zlib]
@@ -483,7 +483,7 @@
 * [json.h](https://github.com/sheredom/json.h)  -在C和C ++中解析JSON的一种简单的单头/单源解决方案.  [无牌]
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工]
-* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间极低的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间非常小的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [麻省理工]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库.  支持C ++ 11.  没有依赖关系，快速且对开发人员友好.  [Apache2]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
@@ -673,7 +673,7 @@
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)  -由Nvidia作为Nvidia GameWorks软件套件的一部分开发的开源实时物理引擎中间件SDK.  [BSD-3-Clause] 
 * [Project Chrono](https://github.com/projectchrono/chrono)  -开源的多物理场仿真引擎.  [BSD-3-Clause] [website](https://projectchrono.org/)
 * [Quantum++](https://github.com/vsoftco/qpp)  -现代的C ++ 11量子计算库.  [麻省理工]
-* [Simbody](https://github.com/simbody/simbody)  -高性能C ++多体动力学/物理库，用于模拟关节运动的生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
+* [Simbody](https://github.com/simbody/simbody)  -高性能C ++多体动力学/物理库，用于仿真铰接式生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
 * [SOFA](https://github.com/sofa-framework/sofa)  -SOFA是一个针对实时模拟的开源框架，重点是医学模拟.  [LGPL] [website](https://www.sofa-framework.org)
 
 ## Reflection
@@ -682,7 +682,7 @@
 * [clReflect](https://bitbucket.org/dwilliamson/clreflect)  -使用clang进行C ++反射.  [麻省理工]
 * [CPFG](https://github.com/cpgf/cpgf)  -一个C ++ 03库，用于反射，回调和脚本绑定.  [Apache2] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)  -使用clang进行C ++反射.  [麻省理工]
-* [Magic Enum](https://github.com/Neargye/magic_enum)  -仅标头的C ++ 17库为枚举（到字符串，从字符串，迭代）提供枚举的静态反射，可与任何枚举类型一起使用，而无需任何宏或样板代码.  [麻省理工]
+* [Magic Enum](https://github.com/Neargye/magic_enum)  -仅标头的C ++ 17库为枚举（到字符串，从字符串，迭代）提供静态反射，可与任何枚举类型一起使用，而无需任何宏或样板代码.  [麻省理工]
 * [magic_get](https://github.com/apolukhin/magic_get)  -std :: tuple类似用户定义类型的方法，没有任何宏或样板代码.  [促进]
 * [meta](https://github.com/skypjack/meta)  -C ++中的仅标头，非侵入性且无宏的运行时反射系统.  [麻省理工]
 * [Nameof](https://github.com/Neargye/nameof)  -仅标头的C ++ 17库提供了nameof宏和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [麻省理工]
@@ -936,7 +936,6 @@
 * [Buck](https://github.com/facebook/buck)  -快速构建系统，鼓励通过各种平台和语言（包括在Facebook开发和使用的C ++）创建小的可重用模块.  用Java编写.  [Apache]
 * [clib](https://github.com/clibs/clib)  -C编程语言的程序包管理器.  [麻省理工]
 * [CMake](https://cmake.org/)  -跨平台的免费开源软件，用于使用与编译器无关的方法来管理软件的构建过程.  [BSD]
-* [C++ Archive Network](https://cppan.org/) -具有许多可用程序包的跨平台C ++依赖管理器.
 * [Cget](https://github.com/pfultz2/cget)  -Cmake软件包检索.  [促进] [website](http://cget.readthedocs.io)
 * [Conan](https://conan.io/)  -C / C ++程序包管理器，开源.  [麻省理工]
 * [CPM](https://github.com/iauns/cpm) -基于CMake和Git的C ++程序包管理器.
@@ -947,6 +946,7 @@
 * [Scons](http://www.scons.org/) -使用Python脚本配置的软件构建工具.
 * [Sconsolidator](http://www.sconsolidator.com/) -Scons为Eclipse CDT构建系统集成.
 * [Spack](https://spack.io/)  -灵活的软件包管理器，支持多个版本，配置，平台和编译器.  [Apache-2.0 / MIT]
+* [SW](https://software-network.org/)  -跨平台的C ++（和其他语言）构建系统和程序包管理器，其中包含许多可用程序包.  [GPLv3]
 * [tundra](https://github.com/deplinenoise/tundra) -高性能代码构建系统，即使对于非常大的软件项目，也可提供最佳的增量构建时间.
 * [tup](http://gittup.org/tup/) -基于文件的构建系统，可在后台监视更改的文件.
 * [Premake](http://premake.github.io) -使用Lua脚本配置的工具，可以在Windows，Mac OS X和Linux上为Visual Studio，GNU Make，Xcode，Code :: Blocks等生成项目文件.

@@ -112,6 +112,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Building Custom Elements with Web Components for the 2020 Elections](https://medium.com/stories-from-upstatement/building-custom-elements-with-web-components-for-the-2020-elections-f767ff9e9c6a)
 - [Building Web Components with Vanilla JavaScript](https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho)
 - [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
+- [Handling data with Web Components](https://itnext.io/handling-data-with-web-components-9e7e4a452e6e)
 - [Open Web Components: Codelabs](https://open-wc.org/codelabs/)
 - [Recreating The Arduino Pushbutton Using SVG And `<lit-element>`](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 - [Snake-Eating Game Making with Web Components of Omi and MVP Architecture](https://dev.to/dntzhang/snake-eating-game-making-with-web-components-of-omi-and-mvp-architecture-206)
@@ -191,13 +192,15 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### Class Based
 
 - [Corpuscule](https://github.com/corpusculejs/corpuscule) -基于装饰器的小型Web组件框架.
-- [LitElement](https://lit-element.polymer-project.org)  -用于创建快速，轻量级Web组件的简单基类.  聚合物项目的一部分.
+- [DNA](https://github.com/chialab/dna) -渐进式Web组件库.
+- [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
 - [Lightning Web Components](https://github.com/salesforce/lwc) -快速的企业级Web组件基础.
 - [Omi](https://github.com/Tencent/omi) -4kb JavaScript的下一代Web框架（Web组件+ JSX +代理+存储+路径更新）.
 - [Polymer](https://polymer-library.polymer-project.org) -Polymer Project作者提供的原始Web组件库.
 - [Skate](https://github.com/skatejs/skatejs) -专注于功能渲染管道和较小占用空间的Web组件库.
 - [slim.js](https://github.com/slimjs/slim.js) -基于现代标准的快速，强大的前端微框架.
 - [Stencil](https://github.com/ionic-team/stencil) -用于生成Web组件的编译器.
+- [Tonic](https://github.com/optoolco/tonic) -极简，稳定，易于审核的组件框架.
 
 ### Functional
 
@@ -271,7 +274,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) -赛普拉斯的Web组件和Shadow DOM支持.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) -可以刺入Shadow DOM根的querySelector，对于自动测试很有用.
-- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - CLI that analyzes web components and emits documentation / diagnostics.
+- [web-component-analyzer](https://github.com/runem/web-component-analyzer) -用于分析Web组件并发出文档/诊断信息的CLI.
 
 ## Books
 

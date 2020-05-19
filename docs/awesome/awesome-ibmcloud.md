@@ -26,7 +26,7 @@
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) -使用D3和打字稿实现的可重用图表.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) -IBM Carbon Design System的Angular实施.
 * [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) -精简实施碳设计系统.
-* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) -碳设计系统的Vue实施.
+* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本全面的工具包.
 * [carbon-icons](https://github.com/carbon-design-system/carbon-icons) -碳设计系统的SVG图标库.
 * [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) -碳图标，在Angular中！
@@ -42,6 +42,7 @@
 
 *适用于MacOS，Windows和Linux的命令行工具.*
 
+* [Cloud Foundry CLI](https://github.com/cloudfoundry/cli) -Cloud Foundry的官方命令行客户端.
 * [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) -这是IBM Cloud的命令行客户端.
 * [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) -与IBM Cloud交互的不同Docker容器的“非官方”集合.
 * [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) -IBM Cloud CLI提供了用于管理IBM Cloud中资源的命令行界面.
@@ -57,6 +58,19 @@
 
 *使用Cloud Foundry部署和管理您的应用程序.*
 
+* [cloud-foundry](https://github.com/cloudfoundry/) -IBM Cloud Platform即服务.
+    * [binary-buildpack](https://github.com/cloudfoundry/binary-buildpack) -将二进制文件部署到Cloud Foundry.
+    * [dotnet-buildpack](https://github.com/cloudfoundry/dotnet-core-buildpack) -适用于Linux的.NET Core的Cloud Foundry buildpack.
+    * [go-buildpack](https://github.com/cloudfoundry/go-buildpack) -用于Go语言的Cloud Foundry buildpack.
+    * [ibm-websphere-liberty-buildpack](https://github.com/cloudfoundry/ibm-websphere-liberty-buildpack) -IBM WebSphere Application Server Liberty构建包.
+    * [java-buildpack](https://github.com/cloudfoundry/java-buildpack) -用于运行Java应用程序的Cloud Foundry buildpack.
+    * [nginx-buildpack](https://github.com/cloudfoundry/nginx-buildpack) -提供NGINX的Cloud Foundry buildpack.
+    * [nodejs-buildpack](https://github.com/cloudfoundry/nodejs-buildpack) -用于Node.js的Cloud Foundry buildpack.
+    * [php-buildpack](https://github.com/cloudfoundry/php-buildpack) -适用于PHP的Cloud Foundry Buildpack.
+    * [python-buildpack](https://github.com/cloudfoundry/python-buildpack) -适用于Python语言的Cloud Foundry buildpack.
+    * [r-buildpack](https://github.com/cloudfoundry/r-buildpack) -用于R的Cloud Foundry buildpack.
+    * [ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack) -适用于Ruby，Sinatra和Rails的Cloud Foundry buildpack.
+    * [staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack) -将静态HTML / JS / CSS应用程序部署到Cloud Foundry.
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) -Kitura REST Web服务服务器的生成器.
 * [go-cloud](https://github.com/victorshinya/go-cloud) -Golang样板代码，用于基准测试托管Go应用程序的云平台.
 * [go-website](https://github.com/victorshinya/go-website) -使用Golang服务器部署您的网站.
@@ -85,7 +99,7 @@
 
 * [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) -使用IBM Watson和IBM Cloud Functions发现视频中的暗数据.
 * [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) -使用IBM Cloud Functions构建的用于图像标记和面部检测的示例iOS应用程序.
-* [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - Build your own chatbot using Serverless service (Serverless Architecture/Function-as-a-Service).
+* [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) -使用无服务器服务（无服务器架构/功能即服务）构建自己的聊天机器人.
 
 ## Data & AI
 
@@ -166,7 +180,7 @@
 * [IBM Cloud Stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) -用于使用流行的图表工具创建IBM Cloud图表的IBM Cloud模具.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) -了解最新的IBM Cloud产品和服务.
 * [IBM Demos](https://www.ibm.com/demos/) -IBM Demos是探索，学习和尝试各种IBM产品和解决方案的首选目的地.
-* [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) -使用巴西葡萄牙语的IBM Cloud平台及其服务的操作方法和学习.
+* [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
 * [IBM Garage Methodology](https://www.ibm.com/garage/method)  -IBM Garage的基础是一种独特的方法，该方法可以策划行业最佳实践，并提供只有IBM才能带来的丰富经验.  IBM Garage与IBM Garage方法论的结合可以推动前所未有的变革.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) -IBM Watson在Medium上的操作方法，新闻和公告.
 
@@ -177,7 +191,7 @@
 * [Digital Technical Engagement](https://www.youtube.com/channel/UCrVRMfpe968pW8vBU_hzplA)  -云产品演示.  有关更多信息，请访问http://ibm.biz/dte-live.
 * [IBM Cloud](https://www.youtube.com/ibmcloud)  -通往云的道路比您想象的要快.  加入为您的企业而构建的云，该云具有使AI成为现实的工具，数据和API.  是你的云.  我们保护它.  您控制它.
 * [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) -与我们的专业开发者倡导者一起的开源技术，学习资源和本地聚会.
-* [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) -使用Watson服务，开发人员工具包，教学剪辑，活动回顾等的教程.
+* [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) - Tutorials for using Watson services, developer kits, educational clips, event recaps and more.
 * [IBM Watson Internet of Things](https://www.youtube.com/channel/UCFNoGF7Ea-FfmAjfK4ReFpA) -有关Watson服务和IoT平台的视频，采访，教育片段等.
 
 ## Twitter Accounts
@@ -198,7 +212,7 @@
 * [IBM Policy](https://twitter.com/IBMpolicy)  -IBM政府与法规事务和IBM Policy Lab的正式帐户.  在技​​术和创新政策问题上发推文.  由Adam Pratt和Ashley Bright管理.
 * [IBM Power Systems](https://twitter.com/IBMPowerSystems) - Official Twitter account for IBM Power Systems—built to crush the most advanced data applications from mission-critical workloads to the next generation of #AI.
 * [IBM Research](https://twitter.com/IBMResearch)  -这是IBM Research的官方Twitter ID.  该帐户由Chris Sciacca管理，并遵循《 IBM Social Computing Guidelines》.
-* [IBM Security](https://twitter.com/IBMSecurity) - We protect business, freeing you to thrive in the face of cyber uncertainty. For support, @AskIBMSecurity. Follows IBM Social Computing Guidelines.
+* [IBM Security](https://twitter.com/IBMSecurity)  -我们保护业务，使您在面对网络不确定性时能够壮成长.  如需支持，请@AskIBMSecurity.  遵循IBM社交计算准则.
 * [IBM Sports & Entertainment](https://twitter.com/IBMSports) - Official IBM Twitter account. Managed by Noah Syken and Elizabeth O'Brien. Follows the IBM Social Computing Guidelines. #IBMsports.
 * [IBM Sterling Supply Chain](https://twitter.com/IBMSupplyChain) - #SupplyChain and #B2BCollaboration news & innovation from #IBMSterling. We help you build smarter business networks. Follows IBM Social Computing Guidelines.
 * [IBM Storage](https://twitter.com/IBMStorage) -利用业界最广泛的存储解决方案组合之一来捕获数据的功能，以在多云和AI环境中统一，管理和保护数据.
@@ -221,7 +235,7 @@
 * [Berlin, Germany - IBM Developer](https://www.meetup.com/IBM-Developer-Berlin/) -欢迎参加IBM Developer聚会！
 * [Bordeaux, France - IBM Cloud Bordeaux Meetup](https://www.meetup.com/IBM-Cloud-Bordeaux-Meetup/) -该小组面向所有对由Cloud推动的创新功能感兴趣的人员.
 * [Boston, MA - IBM Cloud - Boston](https://www.meetup.com/IBM-Cloud-Boston/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
-* [Bucharest, Romania - IBM Developer Romania](https://www.meetup.com/IBM-Developer-Romania/) - Join us if you are interested in cloud computing, cognitive technology, IoT, Blockchain or open source software.
+* [Bucharest, Romania - IBM Developer Romania](https://www.meetup.com/IBM-Developer-Romania/) -如果您对云计算，认知技术，物联网，区块链或开源软件感兴趣，请加入我们.
 * [Buenos Aires, Argentina - Meet and Think by IBM](https://www.meetup.com/Meet-Think-by-IBM/) -开放小组，交流人工智能（机器学习，深度学习），云计算，物联网，网络安全等领域的知识，良好实践，创新思想和发展！
 * [Cairo, Egypt - IBM Developer Egypt](https://www.meetup.com/IBM-Developer-Egypt/)  -这是面向开发人员，架构师和云爱好者的聚会小组.  我们了解有关IBM Cloud，Watson，微服务，物联网，数据科学和区块链的所有信息.  我们的聚会是免费的.
 * [Casablanca, Morocco - IBM Developer Morocco](https://www.meetup.com/IBM-Developer-Morocco/)  -在IBM Developer＆Startup Meetup Group，我们将分享我们对技术和企业家精神的热情.  我们是开发人员和科技创业公司的倡导者团队，他们致力于解决当今的问题，激发创新并创造出令人惊奇的事物.
@@ -268,7 +282,7 @@
 * [San Francisco, CA - IBM Cloud - San Francisco](https://www.meetup.com/IBM-Cloud-San-Francisco/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
 * [San Francisco, CA - IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/) -召集所有有兴趣聚在一起的开发人员和企业家来交流思想并学习新技术，例如认知计算，物联网，区块链，人工智能，机器学习，数据分析和云.
 * [Santiago, Chile - IBM Cloud](https://www.meetup.com/meetup-group-fFKMjMnd/) -该小组的目标是以非常实用的方式向学生，开发人员，IT专业人员和所有云爱好者或想要了解这些有趣主题（云，DevOps，虚拟化，沃森，物联网，数据科学和区块链）.
-* [São Paulo, Brazil - Bluetalks](https://www.meetup.com/bluetalks/)  -Bluetalks是聚会，对技术，创新，企业家精神和多样性进行了广泛的讨论.  开放您的心态以应对当前问题的破坏和新观点，并以开放的心态与我们一起潜水.
+* [São Paulo, Brazil - Bluetalks](https://www.meetup.com/bluetalks/)  -Bluetalks是聚会，对技术，创新，企业家精神和多样性进行了广泛的讨论.  开放您的心态，以应对当前问题的破坏和新观点，并敞开心heart与我们一起潜水.
 * [São Paulo, Brazil - Comunidade IBM Cloud Brasil](https://www.meetup.com/Comunidade-IBM-Cloud-Brasil/) - Software developers, IT Architects, Cloud administrators, Full-stack developer, IT Manager, IT Leaders, Cloud Leadership, Business Development.
 * [São Paulo, Brazil - Iniciativa Z](https://www.meetup.com/iniciativaz/)  -我们的目标是在巴西创建最大的大型机社区.  通过这个小组，我们希望传播与大型机有关的所有信息，生成内容，宣传机会，举办活动并鼓励经验丰富的专业人员与我们正在开发的新一代大型机之间建立联系.
 * [Seoul, Korea (South) - IBM Cloud - Korea](https://www.meetup.com/IBM-Cloud-Korea/) -该会议适用于所有想要学习如何使用IBM Cloud for business的人.
@@ -289,7 +303,7 @@
 
 ## Contributing
 
- 如果您想做出贡献，请随时提交您的请求请求或创建新的问题.  但首先，请花一点时间阅读 [contribution guidelines](https://github.com/victorshinya/awesome-ibmcloud/blob/master/CONTRIBUTING.md) .  谢谢大家 [contributors](https://github.com/victorshinya/awesome-ibmcloud/graphs/contributors)! **#YouROCK**!
+ 如果您想做出贡献，请随时提交您的请求请求或创建新的问题.  但首先，请花一点时间阅读 [contribution guidelines](https://github.com/victorshinya/awesome-ibmcloud/blob/master/CONTRIBUTING.md). Thanks to all [contributors](https://github.com/victorshinya/awesome-ibmcloud/graphs/contributors)! **#YouROCK**!
 
  ***如果您在此处看到不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢！***
 

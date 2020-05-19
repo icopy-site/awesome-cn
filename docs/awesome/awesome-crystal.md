@@ -16,6 +16,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Algorithms and Data structures
  * [bisect](https://github.com/spider-gazelle/bisect) -将值插入已排序的数组
+ * [blurhash.cr](https://github.com/Sija/blurhash.cr) - [BlurHash](https://github.com/woltapp/blurhash) 实作
  * [crie](https://github.com/c910335/crie) - Compile-time Trie
  * [CrOTP](https://github.com/philnash/crotp) -两因素验证的HOTP和TOTP实施
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) -执行链表
@@ -112,7 +113,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) -将文件开头的内容与其内容分开
  * [geoip2.cr](https://github.com/delef/geoip2.cr) -GeoIP2阅读器
  * [HAR](https://github.com/NeuraLegion/har) -HAR（HTTP存档）解析器
- * [INI](https://crystal-lang.org/api/INI.html) -此文件解析器（Crystal stdlib）
+ * [INI](https://crystal-lang.org/api/INI.html) -此解析器文件（Crystal stdlib）
  * [JSON](https://crystal-lang.org/api/JSON.html) -解析和生成JSON文档（Crystal stdlib）
  * [JSON tools](https://github.com/impatienttraveller/json-tools) -JSON补丁和指针RFC的实现
  * [JSON::OnSteroids](https://github.com/anykeyh/json_on_steroids) -轻松处理和变异JSON文档
@@ -372,7 +373,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
  * [spectator](https://gitlab.com/arctic-fox/spectator) -使用现代的Expect语法的功能丰富的规范框架
- * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用`Time.now`嘲笑的库.  受到启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用`Time.now`嘲笑的库.  受启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [vcr](https://github.com/spoved/vcr.cr) -Crystal的HTTP捕获和重放实现
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)  -页面对象库.  受到Ruby的启发 [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) -用于存根HTTP :: Client请求的库
@@ -382,7 +383,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) -签署HTTP :: Request对象并生成预先签署的投稿表格
  * [crystal-consul](https://github.com/rogerwelin/crystal-consul) -客户端API控制台
- * [crystal-darksky](https://github.com/sb89/crystal-darksky) -包装 [Dark Sky](https://darksky.net) API
+ * [crystal-darksky](https://github.com/sb89/crystal-darksky) -包装 [Dark Sky](https://darksky.net) 火
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) -星球大战API（SWAPI）包装器
  * [crystal_slack](https://github.com/manastech/crystal_slack) -解析Slack斜杠命令或发送传入的Web挂钩的工具
  * [discordcr](https://github.com/meew0/discordcr) -极简的Discord API库
@@ -395,7 +396,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) -用于将事件发送到Mixpanel的库
  * [mollie.cr](https://github.com/tilishop/mollie.cr) - [Mollie](https://www.mollie.com/en/) Payments API包装器（信用卡，PayPal，Apple Pay，Sofort，Klarna等）
  * [office365](https://github.com/PlaceOS/office365) -Microsoft Graph API包装器
- * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
+ * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) 火
  * [raven.cr](https://github.com/sija/raven.cr) -Raven是的客户 [Sentry](https://github.com/getsentry/sentry)
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) -访问Twitter API的库
  * [web_finger](https://github.com/toddsundsted/web_finger) -WebFinger（https://tools.ietf.org/html/rfc7033）客户端
@@ -483,7 +484,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
    * [sublime-crystal](https://github.com/crystal-lang-tools/sublime-crystal) -Sublime Text的Crystal语法高亮
  * TextMate
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) -Crystal语法高亮显示，编译，格式化命令，摘要
- *我来了
+ * 我来了
    * [vim-crystal](https://github.com/rhysd/vim-crystal) -对Crystal的Vim文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) -对Slang模板引擎的Vim文件类型支持
  * Visual Studio代码

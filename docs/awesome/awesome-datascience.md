@@ -351,7 +351,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Linda Regber](https://twitter.com/LindaRegber) -数据故事讲述人，可视化.
 - [Luis Rei](https://twitter.com/lmrei)  - 博士生.  编程，移动，Web.  人工智能，智能机器人机器学习，数据挖掘，自然语言处理，数据科学.
 - [Mark Stevenson](https://twitter.com/Agent_Analytics)  -Salt（@SaltJobs）的数据分析招聘专员|  分析-洞察力-大数据-数据科学
-- [Matt Harrison](https://twitter.com/__mharrison__)  -目前正在使用数据科学家的全栈Python专家，作家，讲师的观点.  偶尔做父亲，做丈夫，超终生，有机园艺.
+- [Matt Harrison](https://twitter.com/__mharrison__) - Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, ult|goalt-imate, organic gardening.
 - [Matthew Russell](https://twitter.com/ptwobrussell) -挖掘社交网络.
 - [Mert Nuhoğlu](https://twitter.com/mertnuhoglu) BizQualify的数据科学家，开发人员
 - [Monica Rogati](https://twitter.com/mrogati)  -数据@ Jawbone.  在LinkedIn上将数据转换为故事和产品.  文本挖掘，应用机器学习，推荐系统.  前游戏者，前机器编码器；  命名者.
@@ -359,7 +359,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Paul Miller](https://twitter.com/PaulMiller)  -云计算/大数据/开放数据分析师和顾问.  作家，演讲者和主持人.  Gigaom研究分析师.
 - [Peter Skomoroch](https://twitter.com/peteskomoroch)  -创建智能系统以自动化任务并改善决策.  企业家，前首席数据科学家@LinkedIn.  机器学习，ProductRei，网络
 - [Prash Chan](https://twitter.com/MDMGeek)  -解决方案架构师@ IBM，主数据管理，数据质量和数据治理Blogger.  数据科学，Hadoop，大数据与云.
-- [Quora Data Science](https://twitter.com/q_datascience) Quora's data science topic
+- [Quora Data Science](https://twitter.com/q_datascience) Quora的数据科学主题
 - [R-Bloggers](https://twitter.com/Rbloggers) -R博客圈，数据科学会议和（！）数据科学家的推文博客文章.
 - [Rand Hindi](https://twitter.com/randhindi)
 - [Randy Olson](https://twitter.com/randal_olson) - Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate.
@@ -402,6 +402,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 ## Toolboxes - Environment
 
+ * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) -带有Scikit-Learn like API的NetworkX的图形采样库.
  * [Karate Club](https://github.com/benedekrozemberczki/karateclub) -带有Scikit-Learn like API的NetworkX的无监督机器学习扩展库.
  * [ML Workspace](https://github.com/ml-tooling/ml-workspace)  -用于机器学习和数据科学的基于Web的多合一IDE.  工作区被部署为Docker容器，并预加载了各种流行的数据科学库（例如Tensorflow，PyTorch）和开发工具（例如Jupyter，VS Code）.
  * [neptune.ml](https://neptune.ml)  -&gt;社区友好型平台，支持数据科学家创建和共享机器学习模型.  Neptune促进了团队合作，基础架构管理，模型比较和可重复性.
@@ -446,7 +447,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 使用SQL，Scala等进行交互式数据分析和协作文档
 * [Featuretools](https://github.com/featuretools/featuretools/) -用python编写的用于自动功能工程的开源框架
 * [Optimus](https://github.com/ironmussa/Optimus) -使用PySpark后端进行清理，预处理，功能工程，探索性数据分析和简单的ML. 
-* [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持开箱即用的分类，细分和检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
+* [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持分类，分割，开箱即用的检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
 * [DVC](https://github.com/iterative/dvc)  -开源数据科学版本控制系统.  它有助于跟踪，组织数据科学项目并使之可重现.  在其最基本的方案中，它有助于版本控制以及共享大数据和模型文件.
 * [Lambdo](https://github.com/asavinov/lambdo) 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
 * [Feast](https://github.com/feast-dev/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.

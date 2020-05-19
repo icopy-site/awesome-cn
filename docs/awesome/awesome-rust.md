@@ -211,7 +211,7 @@
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) —一个命令行工具，用于收集有关您的Amazon S3存储桶的元数据.
 * [whitfin/s3-utils](https://github.com/whitfin/s3-utils) —包含一个基于Amazon S3的实用程序的小工具，用于提供其他便利性API.
 * [gorros/s3-edit-rs](https://github.com/gorros/s3-edit-rs) —一个命令行工具，可直接在Amazon S3上编辑文件.
-* [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) —用Rust编写的tmux手指的闪电般快速版本，像vimium / vimperator一样复制/粘贴tmux.
+* [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) —用Rust编写的tmux手指的闪电般快速版本，复制/粘贴tmux，如vimium / vimperator.
 * [amar-laksh/workstation](https://github.com/amar-laksh/workstation) —一个命令行工具，可通过使您与屏幕保持一定距离来帮助您管理工作站，并通过OPENCV在您不在时锁定屏幕！
 * [guoxbin/dtool](https://github.com/guoxbin/dtool) —一个有用的命令行工具集合，可协助开发，包括转换，编解码器，哈希，加密等. [![Build Status](https://api.travis-ci.org/guoxbin/dtool.svg?branch=master)](https://travis-ci.org/guoxbin/dtool)
 * [nomino](https://github.com/yaa110/nomino) —开发人员的批量重命名实用程序 [![Build Status](https://api.travis-ci.org/yaa110/nomino.svg?branch=master)](https://travis-ci.org/yaa110/nomino)
@@ -304,7 +304,7 @@
 ### Deployment
 
 *码头工人
-  * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) —用于使用musl-libc和musl-gcc编译静态Rust二进制文件的Docker映像，以及有用的C库的静态版本
+  * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) — Docker映像，用于使用musl-libc和musl-gcc以及可用的C库的静态版本来编译静态Rust二进制文件
   * [kpcyrd/mini-docker-rust](https://raw.githubusercontent.com/kpcyrd/mini-docker-rust) —一个非常小的rust docker映像的示例项目 [<img src="https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master">](https://travis-ci.org/kpcyrd/mini-docker-rust)
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) —多个版本（使用Musl工具）Rust Docker映像
   * [messense/rust-musl-cross](https://raw.githubusercontent.com/messense/rust-musl-cross) —用于使用musl-cross编译静态Rust二进制文件的Docker映像 [<img src="https://api.travis-ci.org/messense/rust-musl-cross.svg?branch=master">](https://travis-ci.org/messense/rust-musl-cross)
@@ -754,7 +754,7 @@
   * [whitfin/efflux](https://github.com/whitfin/efflux) — Rust中的Easy Hadoop Streaming和MapReduce接口.
 * Apache Kafka
   * [fede1024/rust-rdkafka](https://raw.githubusercontent.com/fede1024/rust-rdkafka) [[rdkafka](https://crates.io/crates/rdkafka)] — [librdkafka](https://raw.githubusercontent.com/edenhill/librdkafka) 绑定 [<img src="https://api.travis-ci.org/fede1024/rust-rdkafka.svg?branch=master">](https://travis-ci.org/fede1024/rust-rdkafka)
-  * [gklijs/schema_registry_converter](https://raw.githubusercontent.com/gklijs/schema_registry_converter) -与 [confluent schema registry](https://www.confluent.io/confluent-schema-registry/) [<img src="https://api.travis-ci.org/gklijs/schema_registry_converter.svg?branch=master">](https://travis-ci.org/gklijs/schema_registry_converter)
+  * [gklijs/schema_registry_converter](https://raw.githubusercontent.com/gklijs/schema_registry_converter) -与 [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/) [<img src="https://api.travis-ci.org/gklijs/schema_registry_converter.svg?branch=master">](https://travis-ci.org/gklijs/schema_registry_converter)
   * [spicavigo/kafka-rust](https://raw.githubusercontent.com/spicavigo/kafka-rust) — [<img src="https://api.travis-ci.org/spicavigo/kafka-rust.svg?branch=master">](https://travis-ci.org/spicavigo/kafka-rust)
 *投诉
   * [schickling/rust-beanstalkd](https://raw.githubusercontent.com/schickling/rust-beanstalkd) — [Beanstalkd](https://raw.githubusercontent.com/beanstalkd/beanstalkd) 绑定 [<img src="https://api.travis-ci.org/schickling/rust-beanstalkd.svg?branch=master">](https://travis-ci.org/schickling/rust-beanstalkd)
@@ -1123,7 +1123,7 @@
 
 *车把
   * [sunng87/handlebars-rust](https://raw.githubusercontent.com/sunng87/handlebars-rust) —具有继承功能，自定义帮助程序支持的车把模板引擎. [<img src="https://api.travis-ci.org/sunng87/handlebars-rust.svg?branch=master">](https://travis-ci.org/sunng87/handlebars-rust)
-  * [botika/yarte](https://github.com/botika/yarte) — Yarte代表** Y ** et **是另一个** R ** ust ** T ** emplate ** E ** ngine，是最快的模板引擎. [![Build Status](https://api.travis-ci.org/botika/yarte.svg?branch=master)](https://travis-ci.org/botika/yarte)
+  * [botika/yarte](https://github.com/botika/yarte) -Yarte代表** Y ** et ** A ** n ** R ** ust ** T ** emplate ** E ** ngine，是最快的模板引擎. [![Build Status](https://api.travis-ci.org/botika/yarte.svg?branch=master)](https://travis-ci.org/botika/yarte)
 * HTML
   * [lambda-fairy/maud](https://raw.githubusercontent.com/lambda-fairy/maud) —编译时HTML模板 [<img src="https://api.travis-ci.org/lambda-fairy/maud.svg?branch=master">](https://travis-ci.org/lambda-fairy/maud)
   * [Stebalien/horrorshow-rs](https://raw.githubusercontent.com/Stebalien/horrorshow-rs) —编译时HTML模板 [<img src="https://api.travis-ci.org/Stebalien/horrorshow-rs.svg?branch=master">](https://travis-ci.org/Stebalien/horrorshow-rs)
@@ -1204,6 +1204,7 @@
   * [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) [[select](https://crates.io/crates/select)] —一个库，可从HTML文档中提取有用的数据，适用于Web抓取. [![Build Status](https://api.travis-ci.org/utkarshkukreti/select.rs.svg?branch=master)](https://travis-ci.org/utkarshkukreti/select.rs)
   * [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) [[soup](https://crates.io/crates/soup)] —与Python的BeautifulSoup相似的库，旨在快速，轻松地操作和查询HTML文档. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
   * [softprops/openapi](https://github.com/softprops/openapi) —用于处理openapi规范文件的库
+  * [tbot](https://gitlab.com/SnejUgal/tbot) -使用Rust轻松制作酷炫的Telegram机器人 [![pipeline status](https://gitlab.com/SnejUgal/tbot/badges/master/pipeline.svg)](https://gitlab.com/SnejUgal/tbot/-/commits/master)
   * [teloxide/teloxide](https://github.com/teloxide/teloxide/) -用于Rust的优雅的Telegram机器人程序框架 [![Build Status](https://github.com/teloxide/teloxide/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/teloxide/teloxide/actions)
 *反向代理
   * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) [[sozu](https://crates.io/crates/sozu)] — HTTP反向代理. [![Build Status](https://api.travis-ci.org/sozu-proxy/sozu.svg?branch=master)](https://travis-ci.org/sozu-proxy/sozu)
@@ -1218,7 +1219,7 @@
 通过注册表，您可以将Rust库发布为板条箱程序包，以与其他人私下共享.
 
 * [Crates](https://crates.io) — Rust / Cargo的官方公共注册表.
-* [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.io/l/cargo-registry/)  —全面管理的包裹管理SaaS，具有对公共和私人货运/铁锈登记处（以及许多其他服务）的一流支持.  具有慷慨的免费套餐，并且对开源完全免费.
+* [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.io/l/cargo-registry/)  —全面管理的包裹管理SaaS，具有对公共和私人货运/铁锈登记处（以及许多其他服务）的一流支持.  具有慷慨的免费层，并且对于开源也完全免费.
 
 ## Resources
 

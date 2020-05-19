@@ -204,6 +204,7 @@ Code
 *： 然后： [EnTT](https://github.com/skypjack/entt) -游戏符合现代C ++，快速可靠的实体组件系统（ECS）等
 *： 然后： [FXGL](https://github.com/AlmasB/FXGL) -适用于Win / Mac / Linux的JavaFX / Kotlin游戏引擎.
 *： 然后： [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) -具有逼真的物理响应的碰撞检测系统.
+*： 然后： [Flame](https://github.com/flame-engine/flame) -Flutter的极简游戏引擎
 *： 然后： [FlashPunk](http://useflashpunk.net/) -专为开发2D Flash游戏而设计的免费ActionScript 3库.
 *： 然后： [Flixel](http://flixel.org/index.html) -用ActionScript3编写的开源游戏制作.
 * ：钱袋子： [GameMaker](http://www.yoyogames.com/studio) -GameMaker可使用拖放或称为Game Maker Language的脚本语言来创建跨平台视频游戏，该语言可用于开发更高级的游戏，而这些游戏无法仅通过拖放功能来创建.
@@ -285,7 +286,7 @@ Code
 *： 然后： [SFML](http://www.sfml-dev.org/) -简单快速的多媒体库.
 *： 然后： [Spring](http://springrts.com/) -强大的免费跨平台RTS引擎.
 * ：自由： [SpriteKit](https://developer.apple.com/documentation/spritekit) -iOS / Mac 2D游戏引擎.
-*： 然后： [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
+*： 然后： [Stage.js](http://piqnt.com/stage.js/) -轻巧，快速的2D HTML5渲染和布局引擎，用于跨平台游戏开发.
 *： 然后： [Starling](http://gamua.com/starling/) -GPU驱动的2D Flash API
 *：money_with_wings： [Stencyl](http://www.stencyl.com/) -游戏创建平台，允许用户为计算机，移动设备和网络创建2D视频游戏.
 *： 然后： [Superpowers](https://sparklinlabs.itch.io/superpowers) -HTML5协作2D / 3D游戏制作工具
@@ -344,7 +345,7 @@ Audio
 -----------
 *制作棋盘游戏的工具*
 
-* ：自由： [Boardgamizer](http://www.boardgamizer.com/) -棋盘游戏设计理念生成器.
+* ：自由： [Boardgamizer](http://www.boardgamizer.com/) - Board Game Design Idea Generator.
 *： 然后： [RPTools](http://www.rptools.net/) -旨在增强传统笔和纸角色扮演游戏的开源程序品牌.
 
 必看
@@ -376,7 +377,7 @@ Audio
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门图表”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“热门排行榜”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)
