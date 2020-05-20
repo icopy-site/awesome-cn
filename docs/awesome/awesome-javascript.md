@@ -81,7 +81,7 @@
 * [chai](https://github.com/chaijs/chai) -用于node.js的BDD / TDD断言框架，以及可以与任何测试框架配对的浏览器.
 * [Enzyme](http://airbnb.io/enzyme/index.html) -Enzyme是用于React的JavaScript测试实用程序，可以更轻松地断言，操作和遍历React组件的输出.
 * [react testing library](https://github.com/kentcdodds/react-testing-library) -简单而完整的React DOM测试实用程序，鼓励良好的测试实践.
-* [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
+* [Sinon.JS](https://github.com/sinonjs/sinon) -测试JavaScript的间谍，存根和模拟.
 * [expect.js](https://github.com/Automattic/expect.js) -针对Node.JS和浏览器的BDD风格的断言.
 * [proxyquire](https://github.com/thlorenz/proxyquire) -存根nodejs的要求.
 
@@ -99,7 +99,7 @@
 * [zombie](https://github.com/assaf/zombie) -使用node.js进行疯狂，快速，全栈式，无头的浏览器测试.
 * [totoro](https://github.com/totorojs/totoro) -一个简单稳定的跨浏览器测试工具.
 * [karma](https://github.com/karma-runner/karma) -JavaScript的壮观测试运行器.
-* [nightwatch](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
+* [nightwatch](https://github.com/nightwatchjs/nightwatch) -基于node.js和Selenium Webdriver的UI自动化测试框架.
 * [intern](https://github.com/theintern/intern) -用于JavaScript的下一代代码测试堆栈.
 * [yolpo](http://www.yolpo.com) -浏览器中的按语句JavaScript解释器.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) -由Google Chrome官方团队提供的无头Chrome Node.js API.
@@ -137,12 +137,12 @@
 * [preact](https://github.com/developit/preact)  -使用相同的ES6 API的快速3kb React替代方案.  组件和虚拟DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) -使用JavaScript构建真正的本机跨平台iOS和Android应用程序.
 * [react-native](https://github.com/facebook/react-native) -使用React构建本机应用程序的框架.
-* [riot](https://github.com/riot/riot) -类似React的程式库，但体积很小.
+* [riot](https://github.com/riot/riot) - React-like library, but with very small size.
 * [thorax](https://github.com/walmartlabs/thorax) -加强骨干.
 * [chaplin](https://github.com/chaplinjs/chaplin) -使用Backbone.js库的JavaScript应用程序体系结构.
 * [marionette](https://github.com/marionettejs/backbone.marionette) -Backbone.js的复合应用程序库，旨在简化大规模JavaScript应用程序的构建.
 * [ripple](https://github.com/ripplejs/ripple) -建立反应式视图的微小基础.
-* [rivets](https://github.com/mikeric/rivets) -轻巧而强大的数据绑定+模板解决方案.
+* [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
 * [derby](https://github.com/derbyjs/derby) -MVC框架使编写可在Node.js和浏览器中运行的实时协作应用程序变得容易.
     * [derby-awesome](https://github.com/russll/awesome-derby) -很棒的德比组件的集合
 * [way.js](https://github.com/gwendall/way.js) -简单，轻便，持久的双向数据绑定.
@@ -164,7 +164,7 @@
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) -基于Node.js的快速，简约的CMS.
 * [Nodizecms](https://github.com/nodize/nodizecms) -适用于CoffeeScript爱好者的CMS.
 * [Cody](https://github.com/jcoppieters/cody) -带有WSYWYG编辑器的CMS.
-* [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
+* [PencilBlue](https://github.com/pencilblue/pencilblue/) -CMS和博客平台.
 * [Strapi](https://github.com/strapi/strapi) -开源Node.js Headless CMS，可轻松构建可定制的API.
 * [Factor](https://github.com/fiction-com/factor) -Javascript CMS
 
@@ -213,7 +213,7 @@
 * [dc.js](https://github.com/dc-js/dc.js) -建立了多维图表，可与d3.js渲染的交叉过滤器一起使用
 * [vega](https://github.com/trifacta/vega) -可视化语法.
 * [processing.js](http://processingjs.org/) -Processing.js使您的数据可视化可以使用Web标准进行且无需任何插件.
-* [envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization.
+* [envisionjs](https://github.com/HumbleSoftware/envisionjs) -动态HTML5可视化.
 * [rickshaw](https://github.com/shutterstock/rickshaw) -用于创建交互式实时图形的JavaScript工具包.
 * [flot](https://github.com/flot/flot) -有吸引力的jQuery JavaScript图表.
 * [morris.js](https://github.com/morrisjs/morris.js) -漂亮的时序线形图.
@@ -326,7 +326,7 @@
 * [Cycle.js](https://cycle.js.org) -具有功能性和反应性的JavaScript库，用于编写更清晰的代码.
 
 ## Data Structure
-*数据结构库，用于构建更复杂的应用程序.*
+*Data structure libraries to build a more sophisticated application.*
 
 * [immutable-js](https://github.com/facebook/immutable-js) -不可变的数据集合，包括序列，范围，重复，图，OrderedMap，集合和稀疏向量.
 * [mori](https://github.com/swannodette/mori) -一个库，用于使用ClojureScript的持久数据结构并从原始JavaScript的舒适性中支持API.
@@ -540,7 +540,7 @@
 * [validatr](https://github.com/jaymorrow/validatr/) -跨浏览器HTML5表单验证.
 * [FormValidation](http://formvalidation.io/)  -验证表单字段的最佳jQuery插件.  以前是BootstrapValidator.
 * [is.js](https://github.com/arasatasaygin/is.js) -检查类型，正则表达式，状态，时间等.
-* [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
+* [FieldVal](https://github.com/FieldVal/fieldval-js)  -多功能验证库.  支持同步和异步验证.
 * [Funval](https://github.com/neuledge/funval) -使用函数接口（支持TypeScript）进行数据验证.
 
 
@@ -573,7 +573,7 @@
 * [messenger](https://github.com/HubSpot/messenger) -为您的应用发出怒吼式的警报和消息.
 * [noty](https://github.com/needim/noty) -jQuery通知插件.
 * [pnotify](https://github.com/sciactive/pnotify) -用于Bootstrap，jQuery UI和Web通知草稿的JavaScript通知.
-* [toastr](https://github.com/CodeSeven/toastr) -简单的JavaScript敬酒通知.
+* [toastr](https://github.com/CodeSeven/toastr) - Simple JavaScript toast notifications.
 * [humane-js](https://github.com/wavded/humane-js) -一个简单，现代的浏览器通知系统.
 * [smoke.js](https://github.com/hxgf/smoke.js) -与JavaScript框架无关的样式警报系统.
 * [notie](https://github.com/jaredreich/notie) -简单的通知和输入，没有依赖关系.
@@ -778,6 +778,7 @@
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) -允许用户在您的网站上拍摄头像图片的小部件.
  * [clappr](https://github.com/clappr/clappr) -Web http://clappr.io的可扩展媒体播放器
  * [exifr](https://github.com/MikeKovarik/exifr)  -最快，最通用的EXIF阅读库.  https://mutiny.cz/exifr/
+ * [ts-audio](https://github.com/EvandroLG/ts-audio) -一个不可知且易于使用的库，可与AudioContext API配合使用
 
 ## Typography
 
@@ -915,4 +916,4 @@ http://www.listjs.com
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [chencheng](https://github.com/sorrycc) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.

@@ -934,7 +934,7 @@
   * [kylewlacy/sorbet-cocoa](https://github.com/kylewlacy/sorbet-cocoa)
   * [servo/core-foundation-rs](https://raw.githubusercontent.com/servo/core-foundation-rs) — [<img src="https://api.travis-ci.com/servo/core-foundation-rs.svg?branch=master">](https://travis-ci.org/servo/core-foundation-rs)
 * [FLTK](https://www.fltk.org/)
-  * [fltk-rs](https://github.com/MoAlyousef/fltk-rs) — FLTK Rust绑定 [![Build and test](https://github.com/MoAlyousef/fltk-rs/workflows/Rust/badge.svg?branch=master)](https://github.com/MoAlyousef/fltk-rs/actions)
+  * [fltk-rs](https://github.com/MoAlyousef/fltk-rs) — FLTK Rust绑定 [![Build](https://github.com/MoAlyousef/fltk-rs/workflows/Build/badge.svg?branch=master)](https://github.com/MoAlyousef/fltk-rs/actions)
 * [Flutter](https://flutter.dev/)
   * [flutter-rs](https://github.com/flutter-rs/flutter-rs) —用飞镖和锈迹构建Flutter桌面应用程序.
 * [GTK+](https://www.gtk.org/) [[gtk](https://crates.io/keywords/gtk)]

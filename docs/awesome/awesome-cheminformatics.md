@@ -49,6 +49,7 @@
 * [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [CDK (Chemistry Development Kit)](https://sourceforge.net/projects/cdk/) -用Java实现的结构化学信息和生物信息学算法.
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) -用于在R中分析类药物小分子数据的化学信息包.
+* [ChemPy](https://github.com/bjodah/chempy) -适用于化学（主要是物理/无机/分析化学）的Python软件包
 
 <a id="lib-format"></a>
 ### Format Checking
@@ -89,7 +90,7 @@
 * [PubChemPy](http://pubchempy.readthedocs.io) -PubChem PUG REST API的Python包装器.
 * [ChemSpiPy](http://chemspipy.readthedocs.org) -ChemSpider API的Python包装器.
 * [CIRpy](http://cirpy.readthedocs.org/) -NCI化学​​标识符解析器（CIR）的Python包装器.
-* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) 上 [Tornado](http://www.tornadoweb.org/en/stable/).
+* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) 上 [Tornado](http://www.tornadoweb.org/en/stable/).
 
 <a id="lib-db"></a>
 ### Databases
@@ -146,7 +147,7 @@
 * [Macs in Chemistry](http://www.macinchem.org/) -为使用Apple Macintosh计算机的化学家提供资源.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) -的博客 [Andreas Bender](http://www.andreasbender.de/)，是剑桥大学分子信息学的读者.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) -化学信息学库的一些示例.
-* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是“协作药物发现”的研究科学家.
+* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，他是协作药物发现公司（Collaborative Drug Discovery）的研究科学家.
 
 ### Books
 

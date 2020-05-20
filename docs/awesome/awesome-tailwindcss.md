@@ -29,7 +29,7 @@
 - [Spinner](https://github.com/aniftyco/tailwindcss-spinner) -添加了一个微调器实用程序.
 - [Elevation](https://github.com/jonaskay/tailwindcss-elevation) -添加 [Material UI `elevation`](https://material.io/design/environment/elevation.html) 实用程序.
 - [Caret Color](https://github.com/naoray/tailwind-caret-color) -添加`caret`颜色实用程序.
-- [Direction](https://github.com/RonMelkhior/tailwindcss-dir) -添加了“ RTL”和“ LTR”变体.
+- [Direction](https://github.com/RonMelkhior/tailwindcss-dir) - Adds `RTL` and `LTR` variants.
 - [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) -添加`touch`变体.
 - [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) -添加`blend-mode`工具.
 - [Colorize](https://github.com/philippbosch/tailwindcss-colorize) -添加`filter`实用程序.
@@ -40,7 +40,7 @@
 - [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) -添加了“边界图像”渐变实用程序.
 - [RFS](https://github.com/aerni/tailwindcss-rfs) -添加 [`RFS`](https://github.com/twbs/rfs) 实用程序.
 - [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) -添加`font-variant-numeric`实用程序.
-- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Adds `dark` variants based on the `prefers-color-scheme` media query.
+- [Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) -根据“ prefers-color-scheme”媒体查询添加“ dark”变体.
 - [Vue.js](https://github.com/opdavies/tailwindcss-vuejs) -添加与Vue.js的`v-cloak`指令配合使用的可见性类.
 - [List Reset](https://github.com/opdavies/tailwindcss-list-reset) -重新添加在Tailwind CSS 1.0之前删除的`list-reset`类.
 - [Fluid](https://github.com/bradlc/tailwindcss-fluid) -添加流体上浆工具.
@@ -96,7 +96,7 @@
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) -使用jQuery和Tailwind CSS进行切换.
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) -Tailwind Starter Kit是Tailwind CSS，免费和开源的扩展.
 - [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
-- [tailblocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
+- [tailblocks](https://mertjf.github.io/tailblocks) -60多种不同的随时可以使用Tailwind CSS块.
 - [Meraki UI Components](https://merakiui.com) -支持RTL语言的精美Tailwind CSS组件.
 
 ## Resources
@@ -160,6 +160,7 @@
 -  [Create React App Boilerplate with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的CRA样板.
 -  [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) -使用Tailwind CSS的CRA样板.
 -  [Create React App script with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) -添加了Tailwind CSS和PurgeCSS的CRA脚本.
+-  [Create React App with PurgeCSS + Autoprefixer + CSSNano](https://github.com/saadeghi/create-react-app-tailwindcss) -带有Tailwind CSS（包括PurgeCSS），Autoprefixer和CSSNano的CRA样板.
 -  [Dogpatch](https://github.com/jack-pallot/dogpatch) -使用Webpack，Vue，Babel和Tailwind CSS的WordPress入门工具.
 -  [Next.js Starter](https://github.com/oddstronaut/tailwind-next) -使用Tailwind CSS的Next.js样板.
 -  [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) -使用Sapper，Tailwind CSS，Purge CSS，Prettier和ESLint精简样板.
@@ -171,7 +172,9 @@
 -  [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) -使用Tailwind CSS的Hugo主题入门.
 -  [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) -使用Eleventy，Tailwind CSS，Webpack和PostCSS的入门套件.
 -  [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) -使用Tailwind CSS的Nanoc启动器.
--  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
++  [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) -样板包括带有PostCSS的Tailwind CSS，Autoprefixer，PurgeCSS和CSSNano.
+-  [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) -使用Tailwind CSS，ParcelJS捆绑程序和TypeScript的样板.
+-  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -具有Tailwind CSS的管理面板模板.
 -  [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) -使用Tailwind CSS的Wordpress主题和PWA.
 -  [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
@@ -195,7 +198,7 @@
 
 ### Learning
 
-**传奇**：示例·设置教程·视频教程·组件或页面教程·演员
+**图例**：样本·设置教程·视频教程·组件或页面教程·演员表
 
 -  [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) -使用CSS自定义属性和Tailwind CSS切换主题.
 -  [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples) -官方插件示例.

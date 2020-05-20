@@ -34,6 +34,7 @@
 * [hyperapp-router](https://github.com/mrozbarry/hyperapp-router) -Hyperapp的路由器
 * [hyperapp-form](https://github.com/zaceno/hyperapp-form) -减轻了验证和提交表格的痛苦
 * [hyperapp-styled-components](https://github.com/silentcicero/hyperapp-styled-components) -基于组件的面向CSS-in-JS系统 [styled-components](https://styled-components.com)
+* [hyperlit](https://github.com/zaceno/hyperlit) -Hyperapp的类似JSX的标记模板文字
 
 ## Examples
 

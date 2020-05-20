@@ -23,24 +23,25 @@
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) -如何处理iPhone X上的“缺口”.
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) -有关移动Web开发的高级概述.
 - [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) -该图显示了在哪些情况下JavaScript可能不可用.
-- [Get Started with Remote Debugging Android Devices](https://github.com/myshov/awesome-mobile-web-development/blob/master/ https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) -使用Chrome DevTools在Adroid上调试您的网络应用.
+- [Get Started with Remote Debugging Android Devices](https://github.com/myshov/awesome-mobile-web-development/blob/master/ https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) -使用Chrome DevTools在Adroid上调试网络应用.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) -编写有关移动Web开发的好文章.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) -概述了移动网站上的负面行为.
 - [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) -您可以使用网络应用做什么以延长电池寿命.
 - [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete) -关于2fa的自动完成属性.
 - [Learn AMP by Example](https://ampbyexample.com) -重点介绍代码和实时示例的动手加速页面动手介绍.
+- [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6) -建立功能电话网页的最佳做法.
 - [Microbrowsers are Everywhere](https://24ways.org/2019/microbrowsers-are-everywhere/) -在为信使优化站点上.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) -有关移动搜索UX的系列文章.
-- [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) -有点过时了，但对于W3C中的移动网站的最佳做法仍然有用.
-- [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) -W3C的移动Web应用程序最佳实践列表.
+- [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) -有点过时了，但对于W3C的移动网站的最佳做法仍然有用.
+- [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) -W3C提供的有关移动Web应用程序的最佳做法列表.
 - [Mobile Web Development](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) -Mozilla有关设计移动网站的指南（必须阅读）.
-- [Mobile Web Performance Checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) -优化移动Web应用的最佳做法.
-- [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) -十字路口观察员简介.
+- [Mobile Web Performance Checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) -优化移动Web应用程序的最佳做法.
+- [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) - An introduction to intersection observers.
 - [Offline First (Awesome List)](https://github.com/pazguille/offline-first) -令人赞叹的离线优先列表（渐进式Web应用程序，服务工作者等）
 - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) -如何防止手机进入休眠状态.
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) -响应式设计技术概述.
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) -加快页面加载速度的技术概述.
-- [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/) -为什么需要自托管静态资产的原因.
+- [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/) -为什么需要自我托管静态资产的原因.
 - [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/) -如何开始为KaiOS开发.
 - [Timing Out](https://adactio.com/journal/15122) -处理lie-fi（不良网络连接）的服务工作者策略.
 - [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/) -有关创建可访问的移动UI的建议列表.
@@ -65,17 +66,17 @@
 - [Battery API](https://www.w3.org/TR/battery-status/) -关于电池信息的访问.
 - [Connection API](http://wicg.github.io/netinfo/) -关于访问有关连接的信息.
 - [Generic Sensor API](https://www.w3.org/TR/generic-sensor/) -公开传感器数据的规范.
-- [Geolocation API](https://www.w3.org/TR/geolocation-API/) -访问地理位置.
+- [Geolocation API](https://www.w3.org/TR/geolocation-API/) -关于地理位置的访问.
 - [HTML Media Capture](https://www.w3.org/TR/html-media-capture/) -用户访问相机或麦克风时.
 - [Payment Request API](https://www.w3.org/TR/payment-request/) -最小集成度的付款方式.
 - [Presentation API](https://www.w3.org/TR/presentation-api/) -访问演示文稿显示.
 - [Remote Playback API](https://www.w3.org/TR/remote-playback/) -从网页控制媒体的远程播放.
-- [Vibration API](https://www.w3.org/TR/vibration/) -访问主机设备的振动机制.
+- [Vibration API](https://www.w3.org/TR/vibration/) -在访问主机设备的振动机制时.
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/) -访问屏幕的可视部分（屏幕上的键盘除外），捏缩放区域之外的区域等.
 - [Wake Lock Api](https://www.w3.org/TR/wake-lock/) -访问唤醒锁定请求时（防止设备进入节电状态）.
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) -在API上通过蓝牙4发现设备并与之通信.
 - [Web NFC API](https://w3c.github.io/web-nfc/) -访问设备的近场通信功能.
-- [Web Notifications](https://www.w3.org/TR/notifications/) - On an API for end-user notifications.
+- [Web Notifications](https://www.w3.org/TR/notifications/) -在用于最终用户通知的API上.
 
 
 ## Talks
@@ -92,8 +93,8 @@
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) -用于Web应用程序和网页的分析工具.
 - [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) -用于测试您的网站是否适合移动设备的工具.
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) -该工具可以分析您的页面并提供有关提高下载速度的建议.
-- [PageSpeed](https://www.modpagespeed.com) -自动优化站点的Web服务器模块.
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) -该工具可分析您的页面并提供有关提高下载速度的建议.
+- [PageSpeed](https://www.modpagespeed.com) -可自动优化您的网站的Web服务器模块.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) -比较您的移动网站与其他网站的速度.
 - [Test Your Mobile Speed](https://testmysite.withgoogle.com/intl/en-gb) -Google提供的工具，可对移动网站进行全面的速度检查.
 - [Webpagetest](https://webpagetest.org) -使用真实的浏览器并以真实的消费者连接速度从多个位置进行网站速度测试.
@@ -111,10 +112,10 @@
 
 - [Browsersync](https://browsersync.io) -节省时间的同步浏览器测试.
 - [Eruda](https://github.com/liriliri/eruda) -用于移动网络浏览器的控制台.
-- [Interact.js](https://github.com/taye/interact.js) -拖曳，调整大小和多点触控手势，具有惯性和捕捉功能，适用于现代浏览器.
+- [Interact.js](https://github.com/taye/interact.js) -借助惯性和捕捉功能，可拖放，调整大小和多点触摸手势，适用于现代浏览器.
 - [Fastclick](https://github.com/ftlabs/fastclick) -消除了旧浏览器中300ms的延迟.
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) -使用IntersectionObserver API的高性能，轻便和可配置的惰性加载器
-- [React Dates](https://github.com/airbnb/react-dates) -一个易于国际化，适合移动设备的datepicker React库，用于Web.
+- [React Dates](https://github.com/airbnb/react-dates) -一个易于国际化，适合移动设备使用的datepicker React Web库.
 - [Screen Sizes](http://screensiz.es/phone) -所有流行智能手机的屏幕尺寸列表.
 - [Shiny](https://github.com/rikschennink/shiny) -移动网站的闪亮思考.
 - [Slideout](https://github.com/Mango/slideout) -适用于您的移动网络应用程序的独立且轻巧的导航菜单.
@@ -128,4 +129,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [@myshov](https://github.com/myshov) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [@myshov](https://github.com/myshov) 放弃了此作品的所有版权以及相关或邻近的权利.

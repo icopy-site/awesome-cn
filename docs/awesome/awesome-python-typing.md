@@ -75,7 +75,7 @@
 
 ### Mypy plugins
 
-- [pynamodb-mypy](https://github.com/lyft/pynamodb-mypy) -插件 [PynamoDB](https://github.com/pynamodb/PynamoDB) 支持.
+- [pynamodb-mypy](https://github.com/pynamodb/pynamodb-mypy) -插件 [PynamoDB](https://github.com/pynamodb/PynamoDB) 支持.
 - [mypy-zope](https://github.com/Shoobx/mypy-zope) -插件 [zope.interface](https://zopeinterface.readthedocs.io/en/latest/) 支持.
 - [mypy/plugins](https://github.com/python/mypy/tree/master/mypy/plugins) -插件已经集成到mypy中.
 
@@ -92,13 +92,25 @@
 
 ### PEPs
 
-- [PEP-483](https://www.python.org/dev/peps/pep-0483/) -关于类型提示理论.
-- [PEP-484](https://www.python.org/dev/peps/pep-0484/) -关于类型注释.
-- [PEP-544](https://www.python.org/dev/peps/pep-0544/) -关于协议.
-- [PEP-561](https://www.python.org/dev/peps/pep-0561/) -关于分配和包装类型信息.
-- [PEP-563](https://www.python.org/dev/peps/pep-0563/) -关于推迟评估注释.
-- [PEP-586](https://www.python.org/dev/peps/pep-0586/) -关于文字类型.
-- [PEP-3107](https://www.python.org/dev/peps/pep-3107/) -关于功能注释.
+- [PEP-3107](https://www.python.org/dev/peps/pep-3107) -功能注释.
+- [PEP-482](https://www.python.org/dev/peps/pep-0482/) -类型提示的文献概述.
+- [PEP-483](https://www.python.org/dev/peps/pep-0483/) -类型提示理论.
+- [PEP-484](https://www.python.org/dev/peps/pep-0484/) -类型提示.
+- [PEP-526](https://www.python.org/dev/peps/pep-0526/) -变量注释的语法.
+- [PEP-544](https://www.python.org/dev/peps/pep-0544/) -协议：结构子类型化（静态鸭子输入）.
+- [PEP-557](https://www.python.org/dev/peps/pep-0557/) -数据类.
+- [PEP-560](https://www.python.org/dev/peps/pep-0560/) -对键入模块和泛型类型的核心支持.
+- [PEP-561](https://www.python.org/dev/peps/pep-0561/) -分发和包装类型信息.
+- [PEP-563](https://www.python.org/dev/peps/pep-0563/) -推迟评估注释.
+- [PEP-585](https://www.python.org/dev/peps/pep-0585/) -在标准集合中键入提示泛型.
+- [PEP-586](https://www.python.org/dev/peps/pep-0586/) -文字类型.
+- [PEP-589](https://www.python.org/dev/peps/pep-0589/) -TypedDict：具有固定键集的字典的类型提示.
+- [PEP-591](https://www.python.org/dev/peps/pep-0591/) -在输入中添加最终修饰符.
+- [PEP-593](https://www.python.org/dev/peps/pep-0593/) -灵活的功能和变量注释.
+- [PEP-604](https://www.python.org/dev/peps/pep-0604/) -Union []的互补语法.
+- [PEP-612](https://www.python.org/dev/peps/pep-0612/) -参数规范变量.
+- [PEP-613](https://www.python.org/dev/peps/pep-0613/) -显式类型别名.
+
 
 ### Python docs
 

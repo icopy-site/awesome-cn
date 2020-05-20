@@ -21,6 +21,7 @@ A list of Q# code and resources.
 ## Tutorials
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing.
 - [Quantum Kata Notebooks](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/master?filepath=index.ipynb) - Online self-paced tutorials for learning Q# programming and quantum computing.
+- [Create your first Q# program by using the Quantum Development Kit](https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/) -Microsoft学习模块.
 - [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) -在Grace Hopper Celebration 2018和Hopper x1 Seattle 2019上介绍了用于自定进度的“量子计算入门”研讨会的材料.
 - [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) -在MLADS 2018上介绍了用于自定进度的“量子机器学习入门”研讨会的材料.
 

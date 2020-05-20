@@ -214,7 +214,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Let's Encrypt Nginx-proxy Companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion)  -用于Nginx代理的轻型随身容器.  它允许自动创建/更新“加密我们的证书”.  通过 [@JrCs](https://github.com/JrCs)
 - [muguet](https://github.com/mattallty/muguet)  ：skull：-用于Docker环境的DNS服务器和反向代理.  通过 [@mattallty](https://github.com/mattallty)
 -[nginx-proxy] [nginxproxy]-[@jwilder] [jwilder]使用docker-gen为Docker容器提供的自动nginx代理
-- [Nginx Proxy Manager](https://github.com/jc21/nginx-proxy-manager)  -精美的Web界面，用于通过SSL代理基于Web的服务.  通过 [@jc21](https://github.com/jc21)
+- [Nginx Proxy Manager](https://github.com/jc21/nginx-proxy-manager)  -精美的网络界面，用于通过SSL代理基于Web的服务.  通过 [@jc21](https://github.com/jc21)
 - [Swarm Ingress Router](https://github.com/tpbowden/swarm-ingress-router)  ：skull：-根据标签将DNS名称路由到Swarm服务.  通过 [@tpbowden](https://github.com/tpbowden/)
 - [Swarm Router](https://github.com/flavioaiello/swarm-router)  -一种基于“零配置”服务名称的路由器，适用于docker群模式，具有全新，更安全的方法.  通过 [@flavioaiello](https://twitter.com/flavioaiello)
 - [Træfɪk](https://github.com/containous/traefik) -用于Docker，Mesos，Consul，Etcd的自动化反向代理和负载平衡器... [@EmileVauge](https://github.com/emilevauge)
@@ -277,6 +277,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Captain](https://getcaptain.co/) -通过MacOSX菜单栏管理容器 [@RickWong](https://github.com/rickwong)
 - [Dockeron](https://github.com/dockeron/dockeron) -一个基于Electron + Vue.js的桌面上Docker项目. [@fluency03](https://github.com/fluency03)
+- [DockerStacks](http://docker-stacks.com/) -本地LAMP / LEMP开发工作室 [@sfx101](https://github.com/sfx101)
 - [DockStation](https://github.com/DockStation/dockstation) -以开发人员为中心的UI，用于配置，监视和管理服务和容器 [@dock_station](https://twitter.com/dock_station)
 - [Lifeboat](https://github.com/jplhomer/lifeboat) -在Mac上使用图形界面启动Docker项目的简便方法. [@jplhomer](https://github.com/jplhomer)
 
@@ -439,7 +440,7 @@ Applications designed to help or simplify building **new** images
 - [Cycle.io :heavy_dollar_sign:](https://cycle.io/) -裸金属容器托管.
 - [cleanreg](https://github.com/hcguersoy/cleanreg) -一个小工具，可从实现API v2的Docker注册表中删除映像清单，并通过以下方式将其引用给GC [@hcguersoy](https://github.com/hcguersoy)
 - [Dist :heavy_dollar_sign:](https://www.dist.cloud/product/container-registry/) -基于私有云的Docker容器注册表
-- [Docker Hub](https://hub.docker.com/) provided by Docker Inc.
+- [Docker Hub](https://hub.docker.com/) 由Docker Inc.提供
 -[Docker Registry v2] [分发]-用于打包，运送，存储和交付内容的Docker工具集
 - [Docket](https://github.com/netvarun/docket) -自定义Docker注册表，允许通过以下方式通过bittorrent快速部署 [@netvarun](https://github.com/netvarun/)
 - [GCE Container Registry :heavy_dollar_sign:](https://cloud.google.com/container-registry/) Google Cloud Platform上的快速私有Docker映像存储
@@ -467,7 +468,7 @@ Applications designed to help or simplify building **new** images
 - [docker-maven-plugin](https://github.com/fabric8io/docker-maven-plugin) -一个用于运行和创建Docker映像的Maven插件 [@fabric8io](https://github.com/fabric8io)
 - [Docker-PowerShell](https://github.com/Microsoft/Docker-PowerShell) -Docker的PowerShell模块
 - [Docker.DotNet](https://github.com/Microsoft/Docker.DotNet) - C#/.NET HTTP client for the Docker remote API by [@https://github.com/veggiemonk/awesome-docker/blob/master/ahmetalpbalkan](https://github.com/veggiemonk/awesome-docker/blob/master/ahmetalpbalkan)
-- [dockerfile-maven](https://github.com/spotify/dockerfile-maven) -通过[@spotify] [spotify]构建和推送Docker映像的Maven插件
+- [dockerfile-maven](https://github.com/spotify/dockerfile-maven) -一个由[@spotify] [spotify]构建和推送Docker映像的Maven插件
 - [dockerode](https://github.com/apocas/dockerode) -Docker远程API node.js模块 [@apocas](https://github.com/apocas)
 - [DoMonit](https://github.com/eon01/DoMonit) -用于Docker API的简单Docker监控包装器
 - [go-dockerclient](https://github.com/fsouza/go-dockerclient/) -通过Docker远程API的HTTP客户端 [@fsouza](https://github.com/fsouza/)
@@ -481,7 +482,7 @@ Applications designed to help or simplify building **new** images
 
 - [Buddy :heavy_dollar_sign:](https://buddy.works) -最好的Git，构建和部署工具组合成一个强大的工具，为我们的开发增添了力量.
 - [Captain](https://github.com/harbur/captain) -将您的Git工作流程转换为Docker容器以准备通过以下方式连续交付 [@harbur](https://github.com/harbur).
-- [Cyclone](https://github.com/caicloud/cyclone) -强大的工作流引擎和端到端管道解决方案，使用Kubernetes本地资源实现 [@caicloud](https://github.com/caicloud).
+- [Cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources by [@caicloud](https://github.com/caicloud).
 - [Diun](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max/diun) -通过以下方式在Docker注册表上更新映像或存储库时接收通知 [@https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max](https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max).
 - [Docker plugin for Jenkins](https://github.com/jenkinsci/docker-plugin/) -docker插件的目的是能够使用docker主机动态配置从属服务器，运行单个构建，然后拆除该从属服务器.
 - [Dockupdater](https://github.com/dockupdater/dockupdater) -自动使您的Docker服务和Docker容器保持最新
@@ -543,7 +544,7 @@ Applications designed to help or simplify building **new** images
 - [Funker](https://github.com/bfirsh/funker-example-voting-app)  -充当Docker容器示例投票应用程序.  通过 [@bfirsh](https://github.com/bfirsh)
 - [IronFunctions](https://github.com/iron-io/functions) -无服务器微服务平台FaaS（功能即服务），该平台使用Docker容器运行任何语言或AWS Lambda函数
 - [OpenFaaS](https://github.com/openfaas/faas)  -Docker和Kubernetes的完整无服务器功能框架.  通过 [OpenFaaS](https://github.com/openfaas)
-- [SCAR](https://github.com/grycap/scar) -无服务器容器感知体系结构（SCAR）是无服务器框架，允许通过以下方式在无服务器环境（例如Lambda）中轻松部署和执行容器（例如Docker）： [@grycap](https://github.com/grycap)
+- [SCAR](https://github.com/grycap/scar) -无服务器容器感知架构（SCAR）是一种无服务器框架，允许通过以下方式在无服务器环境（例如Lambda）中轻松部署和执行容器（例如Docker）： [@grycap](https://github.com/grycap)
 
 ### Testing
 
@@ -566,7 +567,7 @@ Applications designed to help or simplify building **new** images
 - [FuGu](https://github.com/mattes/fugu) ：skull：-Docker在没有编排的情况下运行包装器 [@mattes](https://github.com/mattes)
 - [Shutit](https://github.com/ianmiell/shutit) -通过以下工具构建和维护复杂的Docker部署的工具 [@ianmiell](https://github.com/ianmiell)
 - [subuser](https://github.com/subuser-security/subuser) -使在Docker中安全且可移植地运行图形桌面应用程序变得容易
-- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  -Ansible和Terraform的强大功能+ Docker Swarm的简单性=基础架构作为Code和DevOps的最佳实践.  通过 [@Thomvaill](https://github.com/Thomvaill)
+- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate)  -Ansible和Terraform的功能+ Docker Swarm的简单性=基础架构作为Code和DevOps的最佳实践.  通过 [@Thomvaill](https://github.com/Thomvaill)
 - [Turbo](https://github.com/ramitsurana/turbo)  -适用于Docker的简单而强大的实用程序.  由[@ramitsurana] [ramitsurana]
 - [udocker](https://github.com/indigo-dc/udocker) -一种在批处理或交互式系统中执行简单docker容器而无需root特权的工具 [@inidigo-dc](https://github.com/indigo-dc)
 - [Vagrant - Docker provider](https://www.vagrantup.com/docs/docker/basics.html) - Good starting point is [vagrant-docker-example](https://github.com/bubenkoff/vagrant-docker-example) 通过 [@bubenkoff](https://github.com/bubenkoff)
@@ -590,8 +591,8 @@ Applications designed to help or simplify building **new** images
 - [Azure AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/)  ：heavy_dollar_sign：-简化Kubernetes的管理，部署和操作.  使用完全托管的Kubernetes容器编排服务.
 - [Cloud 66](https://www.cloud66.com) ：heavy_dollar_sign：-全栈托管容器管理即服务
 - [Codenvy](https://codenvy.com) ：heavy_dollar_sign：-开发团队的一键式Docker环境和云工作区
-- [Dockhero](https://dockhero.io/)  ：heavy_dollar_sign：-Dockhero是一个Heroku附加组件，它将Docker映像转换为附加到Heroku应用程序的微服务.  目前处于测试阶段.
-- [Giant Swarm](https://www.giantswarm.io/)  ：heavy_dollar_sign：-简单的微服务基础架构.  在几秒钟内部署您的容器.
+- [Dockhero](https://dockhero.io/)  ：heavy_dollar_sign：-Dockhero是一个Heroku插件，它将Docker映像转换为附加到Heroku应用程序的微服务.  目前处于测试阶段.
+- [Giant Swarm](https://www.giantswarm.io/)  ：heavy_dollar_sign：-简单的微服务基础架构.  在几秒钟内部署容器.
 - [Google Container Engine](https://cloud.google.com/kubernetes-engine/docs/) ：heavy_dollar_sign：-由[Kubernetes] [kubernetes]驱动的Google Cloud Computing上的Docker容器.
 - [Jelastic Cloud](https://jelastic.cloud/)  ：heavy_dollar_sign：-“易于使用”的容器托管platfrom，具有自动垂直和水平缩放功能.  全球超过50多家托管服务提供商可用.
 - [Mesosphere DC/OS](https://d2iq.com/solutions/mesosphere) ：heavy_dollar_sign：-由Apache Mesos构建的用于数据和容器的集成平台，由 [@mesosphere](https://d2iq.com)
@@ -601,15 +602,15 @@ Applications designed to help or simplify building **new** images
 
 ### Monitoring Services
 
-- [AppDynamics](https://www.appdynamics.com/community/exchange/extension/docker-monitoring-extension/) ：heavy_dollar_sign：-AppDynamics可为企业提供有关应用程序性能，用户性能和业务性能的实时洞察，因此它们可以在日益复杂的软件驱动世界中更快地移动.
+- [AppDynamics](https://www.appdynamics.com/community/exchange/extension/docker-monitoring-extension/) ：heavy_dollar_sign：-AppDynamics可为企业提供有关应用程序性能，用户性能和业务性能的实时洞察，从而使他们可以在日益复杂的软件驱动世界中更快地移动.
 - [Axibase Time-Series Database](https://axibase.com/products/axibase-time-series-database/writing-data/docker-cadvisor/)  ：heavy_dollar_sign：-长期保留Docker的容器统计信息和内置仪表板.  使用本机Google cAdvisor存储驱动程序收集.
-- [Broadcom Docker Monitoring](https://www.broadcom.com/info/aiops/docker-monitoring)  ：heavy_dollar_sign：-Broadcom的敏捷运营解决方案提供了现代Docker监控业务，这些业务是加速和优化微服务以及运行它们的动态Docker环境的性能所需要的.  监视Docker环境和在其中运行的应用程序.  （以前的CA Technologies）
+- [Broadcom Docker Monitoring](https://www.broadcom.com/info/aiops/docker-monitoring)  ：heavy_dollar_sign：-Broadcom的敏捷运营解决方案提供了现代Docker监控业务，企业需要加速和优化微服务以及运行它们的动态Docker环境的性能.  监视Docker环境和在其中运行的应用程序.  （以前的CA Technologies）
 - [Collecting docker logs and stats with Splunk](https://www.splunk.com/en_us/blog/cloud/collecting-docker-logs-and-stats-with-splunk.html)
 - [Datadog](https://www.datadoghq.com/)  ：heavy_dollar_sign：-Datadog是针对大型云环境的全栈监视服务，该服务聚合来自服务器，数据库和应用程序的指标/事件.  它包括对Docker，Kubernetes和Mesos的支持.
 - [Prometheus](https://prometheus.io/) ：heavy_dollar_sign：-开源服务监视系统和时间序列数据库
 - [Site24x7](https://www.site24x7.com/docker-monitoring.html) ：heavy_dollar_sign：-用于DevOps和IT的Docker监控是SaaS Pay per Host模式
 - [SPM for Docker](https://github.com/sematext/sematext-agent-docker)  ：heavy_dollar_sign：-监视主机和容器指标，Docker事件和日志.  自动日志解析器.  异常检测和警报，以度量和日志. [@sematext](https://github.com/sematext)
-- [Sysdig Monitor](https://sysdig.com/products/monitor/)  ：heavy_dollar_sign：-Sysdig Monitor既可以用作软件，也可以用作SaaS服务，以使用系统调用对容器进行监视，警报和故障排除.  它具有适用于Docker和Kubernetes的特定于容器的功能.
+- [Sysdig Monitor](https://sysdig.com/products/monitor/)  ：heavy_dollar_sign：-Sysdig Monitor既可以用作软件，也可以用作SaaS服务，以使用系统调用来监视，警报容器并对其进行故障排除.  它具有适用于Docker和Kubernetes的特定于容器的功能.
 
 ## Useful Resources
 
@@ -747,7 +748,7 @@ Applications designed to help or simplify building **new** images
 [progrium]：https://github.com/progrium
 [ramitsurana]：https://github.com/ramitsurana
 [牧场主]：https://github.com/rancher
-[记住resorhouse]：https://github.com/sindresorhus/awesome
+[sindresorhus]：https://github.com/sindresorhus/awesome
 [spotify]：https：//github.com/spotify
 [tomastomecek]：https：//github.com/TomasTomecek
 [vegasbrianc]：https://github.com/vegasbrianc

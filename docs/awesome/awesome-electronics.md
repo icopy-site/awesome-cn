@@ -43,7 +43,7 @@
 - [LTspice](https://www.analog.com/en/design-center/design-tools-和-calculators/ltspice-simulator.html)  -凌力尔特（Linear Technologies）提供的免费工业标准SPICE电路仿真器.  另请参阅非官方 [LTwiki](http://ltwiki.org/?title=Main_Page) 和 [Group](https://groups.io/g/LTspice).
 - [ngspice](http://ngspice.sourceforge.net/) -开源SPICE电路模拟器.
 - [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) -具有电子流可视化功能的免费，开放源代码在线模拟器（由Paul Falstad重写了原始Java applet）.
-- [EveryCircuit](https://everycircuit.com) - Free to try online, visual, interactive circuit simulator for simpler circuits.
+- [EveryCircuit](https://everycircuit.com) -免费试用在线，可视，交互式电路模拟器，以简化电路.
 - [Qucs](http://qucs.sourceforge.net/) -开源，跨平台，非基于SPICE的电路模拟器，具有S参数和谐波平衡功能.
 - [Qucs Studio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) -Qucs的免费，封闭源代码，仅限Windows的fork，具有相似的界面，新引擎和更多功能.
 - [Open Circuit Design Software](http://opencircuitdesign.com) -开源，完整的EDA套件芯片设计套件，专注于跟上商业工具的发展.
@@ -76,12 +76,11 @@
 - [KiCad](https://kicad-pcb.org/) -带有推和推路由器，差分对等的开源EDA软件包.
 - [Eagle](https://www.autodesk.com/products/eagle/overview) -由于它是免费版本，因此是最受欢迎的EDA软件包之一.
 - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) -由RS Components赞助的Gratis EDA软件包，无限制.
-- [Altium CircuitMaker](https://circuitmaker.com/) -转到专业软件制造商的免费软件包。
+- [Altium CircuitMaker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
 - [gEDA](http://geda-project.org) -另一个开源软件包，仅对喜欢脚本和makefile，仅Linux和BSD的人有用.
 - [DipTrace](https://diptrace.com) -具有免费版本的质量原理图捕获和PCB设计软​​件（受引脚和信号层限制）.
 - [LibrePCB](https://librepcb.org/) -针对所有人，跨平台和GNU GPLv3的新的，功能强大且直观的EDA工具.
 - [Horizon EDA](https://github.com/horizon-eda/horizon) -一个免费且开源的EDA工具，着重于快捷操作.
-- [Caneda](http://caneda.org/) -Caneda是专注于易用性和可移植性的开源EDA软件套件.
 
 ## CAD Specific
 

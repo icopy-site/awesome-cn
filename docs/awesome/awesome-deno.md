@@ -25,6 +25,8 @@ Deno是使用V8并内置于Rust的JavaScript和TypeScript的简单，现代且�
 ### Online Playgrounds
 
 - [deno.town](https://deno.town)
+- [Deno Playground](https://deno-playground.now.sh)
+  - [maman/deno-playground](https://github.com/maman/deno-playground)
 
 ## Modules
 
@@ -33,6 +35,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 
 - [abc](https://github.com/zhmushan/abc) -更好的Deno框架来创建Web应用程序.
 - [alosaur](https://github.com/alosaur/alosaur) -Alosaur-具有许多装饰器的Deno Web框架.
+- [aqua](https://github.com/l2ig/aqua) -用于Deno的最小和快速的Web框架.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) -格式化字节（Uint8Array，ArrayBufferView等）输出，在调试IO功能时很有用.
 - [cac](https://github.com/cacjs/cac) -用于构建命令行应用程序的简单而强大的框架.
 - [camelcase](https://github.com/denolib/camelcase) -将破折号/点号/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
@@ -52,14 +55,14 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-express](https://github.com/NMathar/deno-express) -将Node Express移植到Deno.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) -一个非常简单的JavaScript解析器组合器.
 - [deno-globrex](https://github.com/hayd/deno-globrex) -globrex的端口为deno，globex的端口为正则表达式.
-- [deno-mysql](https://github.com/manyuanrong/deno_mysql) -MySQL数据库驱动程序.
+- [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
 - [deno_mongo](https://github.com/manyuanrong/deno_mongo) -MongoDB数据库驱动程序.
 - [deno-opn](https://github.com/hashrock/deno-opn)  -打开网站，文件，可执行文件之类的东西.  跨平台.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) -用于管理Deno本机插件依赖项的库.
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) -色彩鲜艳的assertE等于deno.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) -格式化，修剪和删除字符串中字符之间的多余空格.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) -帮助程序生成随机间隔.
-- [deno-redis](https://github.com/keroxp/deno-redis) - An experimental implementation of redis client for deno.
+- [deno-redis](https://github.com/keroxp/deno-redis) -Redis客户端的Deno的实验实现.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) -deno的字符串节流器.
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) -SMTP的SMTP邮件发件人.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) -deno的模板渲染器.
@@ -67,6 +70,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-using](https://github.com/hayd/deno-using) -带有deno语句的python样式.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) -deno的UUID模块.
 - [deno-ws](https://github.com/keroxp/deno-ws) -用于deno.ts的websocket服务器的实验性实现.
+- [deno-websocket](https://github.com/ryo-ma/deno-websocket) -一个简单的WebScoket库，例如node.js库的ws.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) -从segmentio / xml-parser移植的Deno XML解析器.
 - [denotrain](https://github.com/Caesar2011/denotrain) -带有中间件支持的多合一Web框架，如Express或Fastify forNode.js.
 - [dinatra](https://github.com/syumai/dinatra) -Sinatra像deno的轻量级Web应用程序框架.

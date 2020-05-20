@@ -28,6 +28,7 @@
 * [dlib](https://github.com/davisking/dlib) -使用C ++（Python绑定）制作现实世界中的机器学习和数据分析应用程序的工具包.
 * [pyGAM](https://github.com/dswah/pyGAM) -Python中的通用加性模型.
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) -用于图形结构化数据的无监督机器学习库.
+* [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) -用于对图形结构化数据进行采样的库.
 
 ### Time Series
 * [Prophet](https://github.com/facebook/prophet) -自动预测程序.
@@ -36,7 +37,7 @@
 * [luminol](https://github.com/linkedin/luminol) -异常检测和相关库.
 
 ### Automated Machine Learning
-* [MLBox](https://github.com/AxeldeRomblay/MLBox) -强大的自动化机器学习python库.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) -强大的自动机器学习python库.
 
 ### Ensemble Methods
 
@@ -76,7 +77,7 @@
 * [Neon](https://github.com/NervanaSystems/neon) -英特尔®Nervana™参考深度学习框架致力于在所有硬件上实现最佳性能.
 * [Tangent](https://github.com/google/tangent) -纯Python中的源到源可调试衍生物.
 * [autograd](https://github.com/HIPS/autograd) -有效地计算numpy代码的导数.
-* [Myia](https://github.com/mila-udem/myia) -深度学习框架（预测试版）.
+* [Myia](https://github.com/mila-udem/myia) -深度学习框架（pre-alpha）.
 * [nnabla](https://github.com/sony/nnabla) -索尼的神经网络图书馆.
 * [Caffe](https://github.com/BVLC/caffe) -深度学习的快速开放框架.
 * [Caffe2](https://github.com/pytorch/pytorch/tree/master/caffe2) -轻量级，模块化和可扩展的深度学习框架（现在是PyTorch的一部分）.
@@ -86,17 +87,17 @@
 ### Data Containers
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/) -强大的Python数据分析工具包.
 * [xpandas](https://github.com/alan-turing-institute/xpandas) -具有Transformers的通用1d / 2d数据容器. [The Alan Turing Institute](https://www.turing.ac.uk/).
-* [Arctic](https://github.com/manahl/arctic) -高性能的数据存储，用于时间序列和报价数据.
+* [Arctic](https://github.com/manahl/arctic) -高性能的时间序列和滴答数据存储.
 * [swifter](https://github.com/jmcarpenter2/swifter) -一种以最快的可用方式有效地将任何功能应用于熊猫数据框或系列的软件包.
 * [pandas_flavor](https://github.com/Zsailer/pandas_flavor) -一个包装，可以轻松编写自己的熊猫风味.
-* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - A package which allow to provide feedback about basic pandas operations and find both buisness logic and performance issues.
+* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) -一个软件包，可以提供有关基本熊猫操作的反馈，并发现商务逻辑和性能问题.
 
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) -熊猫DataFrames的Sasy管道.
-* [SSPipe](https://sspipe.github.io/) -支持DataFrames和Numpy和Pytorch的Python管道（|）运算符.
+* [SSPipe](https://sspipe.github.io/) -Python管道（|）运算符，支持DataFrames和Numpy和Pytorch.
 * [Dataset](https://github.com/analysiscenter/dataset) -帮助您方便地处理随机或顺序批次的数据并定义数据处理.
 * [meza](https://github.com/reubano/meza) -用于处理表格数据的Python工具箱.
-* [Prodmodel](https://github.com/prodmodel/prodmodel) -为数据科学管道构建系统.
+* [Prodmodel](https://github.com/prodmodel/prodmodel) -用于数据科学管道的构建系统.
 
 ## Feature Engineering
 
@@ -114,9 +115,9 @@
 * [prettyplotlib](https://github.com/olgabot/prettyplotlib) -无痛创建美丽的matplotlib图.
 * [python-ternary](https://github.com/marcharper/python-ternary) -具有matplotlib的python三元绘图库.
 * [missingno](https://github.com/ResidentMario/missingno) -缺少用于Python的数据可视化模块.
-* [chartify](https://github.com/spotify/chartify/) -Python库，数据科学家可以轻松创建图表.
-* [physt](https://github.com/janpipek/physt) -改进了直方图.
-* [animatplot](https://github.com/t-makaro/animatplot) -用于在matplotlib上构建动画的python软件包.
+* [chartify](https://github.com/spotify/chartify/) -Python库，可让数据科学家轻松创建图表.
+* [physt](https://github.com/janpipek/physt) -改进的直方图.
+* [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
 * [plotly](https://plot.ly/python/) -一个Python库，可以制作交互式和具有出版质量的图形.
 
 ## Model Explanation
@@ -124,12 +125,12 @@
 * [anchor](https://github.com/marcotcr/anchor) -“高精度模型不可知的解释”代码.
 * [aequitas](https://github.com/dssg/aequitas) -偏差和公平审计工具包.
 * [ELI5](https://github.com/TeamHG-Memex/eli5) -用于调试/检查机器学习分类器并解释其预测的库.
-* [L2X](https://github.com/Jianbo-Lab/L2X) -在论文“学习解释：模型解释的信息理论视角”中复制实验代码.
+* [L2X](https://github.com/Jianbo-Lab/L2X) -复制论文中的实验的代码*“学习解释：模型解释的信息论视角”.
 * [PDPbox](https://github.com/SauceCat/PDPbox) -部分依赖图工具箱.
-* [PyCEbox](https://github.com/AustinRochford/PyCEbox) -Python个体条件期望图工具箱.
+* [PyCEbox](https://github.com/AustinRochford/PyCEbox) -Python个人条件期望图工具箱.
 * [Skater](https://github.com/datascienceinc/Skater) -用于模型解释的Python库.
 * [AI Explainability 360](https://github.com/IBM/AIX360) -数据和机器学习模型的可解释性和可解释性.
-* [Auralisation](https://github.com/keunwoochoi/Auralisation) -CNN中已学习功能的音频化（用于音频）.
+* [Auralisation](https://github.com/keunwoochoi/Auralisation) -CNN中的学习功能的听觉化（用于音频）.
 * [CapsNet-Visualization](https://github.com/bourdakos1/CapsNet-Visualization) -CapsNet层的可视化，以更好地了解其工作原理.
 * [lucid](https://github.com/tensorflow/lucid) -神经网络可解释性研究的基础设施和工具的集合.
 * [Netron](https://github.com/lutzroeder/Netron) -用于深度学习和机器学习模型的可视化工具（没有Python代码，但可以可视化大多数Python深度学习框架中的模型）.
@@ -169,7 +170,7 @@
 
 <a name="opt"></a>
 ## Optimization
-* [Spearmint](https://github.com/HIPS/Spearmint) -贝叶斯优化.
+* [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) -用于优化的启发式算法.
 * [SMAC3](https://github.com/automl/SMAC3) -基于顺序模型的算法配置.
 * [Optunity](https://github.com/claesenm/optunity) -是一个包含用于超参数调整的各种优化器的库.
@@ -180,7 +181,7 @@
 * [Solid](https://github.com/100/Solid) -用Python编写的全面的无梯度优化框架.
 * [PySwarms](https://github.com/ljvmiranda921/pyswarms) -用于Python粒子群优化的研究工具包.
 * [Platypus](https://github.com/Project-Platypus/Platypus) -用于多目标优化的免费开源Python库.
-* [POT](https://github.com/rflamary/POT) - Python Optimal Transport library.
+* [POT](https://github.com/rflamary/POT) -Python最佳传输库.
 * [Talos](https://github.com/autonomio/talos) -Keras模型的超参数优化.
 * [nlopt](https://github.com/stevengj/nlopt) -用于非线性优化（全局和局部，约束或无约束）的库.
 
@@ -191,7 +192,7 @@
 * [PSI-Toolkit](http://psi-toolkit.amu.edu.pl/) -自然语言处理工具包.
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - <a href="https://github.com/morfologik/morfologik-stemming">形态学的</a> Python绑定.
 * [Phonemizer](https://github.com/bootphon/phonemizer) -多种语言的简单文本到音素转换器.
-* [flair](https://github.com/zalandoresearch/flair) -最先进的NLP的非常简单的框架.
+* [flair](https://github.com/zalandoresearch/flair) -最新的NLP的非常简单的框架.
 * [spaCy](https://spacy.io/) -工业强度的自然语言处理.
 
 ## Computer Audition
@@ -208,7 +209,7 @@
 * [OpenCV](https://github.com/opencv/opencv) -开源计算机视觉库.
 * [scikit-image](https://github.com/scikit-image/scikit-image) -图像处理SciKit（SciPy工具箱）.
 * [imgaug](https://github.com/aleju/imgaug) -用于机器学习实验的图像增强.
-* [imgaug_extension](https://github.com/cadenai/imgaug_extension) -额外的增强效果.
+* [imgaug_extension](https://github.com/cadenai/imgaug_extension) -其他增强效果.
 * [Augmentor](https://github.com/mdbloice/Augmentor) -Python中的图像增强库，用于机器学习.
 * [albumentations](https://github.com/albu/albumentations) -快速的图像增强库，易于在其他库周围使用包装器.
 
@@ -227,8 +228,8 @@
 * [Distributed](https://github.com/dask/distributed) -Python中的分布式计算.
 
 ## Experimentation
-* [Sacred](https://github.com/IDSIA/sacred) -帮助您配置，组织，记录和复制实验的工具.
-* [Xcessiv](https://github.com/reiinakano/xcessiv) -基于Web的应用程序，可进行快速，可扩展和自动的超参数调整和堆叠集成.
+* [Sacred](https://github.com/IDSIA/sacred) -一种工具，可帮助您配置，组织，记录和复制实验.
+* [Xcessiv](https://github.com/reiinakano/xcessiv) -基于Web的应用程序，可进行快速，可扩展和自动化的超参数调整和堆叠集成.
 * [Persimmon](https://github.com/AlvarBer/Persimmon) -sklearn的可视数据流编程语言.
 * [Neptune](https://neptune.ml) -轻量级的ML实验跟踪，结果可视化和管理工具.
 
@@ -244,7 +245,7 @@
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) -用于多线性代数和张量分解的Python库.
 * [numdifftools](https://github.com/pbrod/numdifftools) -解决一个或多个变量的自动数值微分问题.
 * [quaternion](https://github.com/moble/quaternion) -将四元数的内置支持添加到numpy.
-* [adaptive](https://github.com/python-adaptive/adaptive) -数学函数的自适应和并行采样工具.
+* [adaptive](https://github.com/python-adaptive/adaptive) -用于数学函数的自适应和并行采样的工具.
 
 ## Spatial Analysis
 * [PySal](https://github.com/pysal/pysal) -Python空间分析库.
@@ -254,13 +255,13 @@
 * [QML](https://github.com/qmlcode/qml) -用于量子机器学习的Python工具包.
 
 ## Conversion
-* [sklearn-porter](https://github.com/nok/sklearn-porter) -将经过训练的scikit学习估计器转换为C，Java，JavaScript等.
+* [sklearn-porter](https://github.com/nok/sklearn-porter) -将训练有素的scikit学习估计器转换为C，Java，JavaScript等.
 * [ONNX](https://github.com/onnx/onnx) -开放式神经网络交换.
 * [MMdnn](https://github.com/Microsoft/MMdnn) -一组工具，可帮助用户在不同的深度学习框架之间进行互操作.
 
 ## Contributing
  欢迎捐款！  ：墨镜： </br>
-阅读<a href=https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>贡献指南</a> .
+阅读<a href=https://github.com/krzjoa/awesome-python-datascience/blob/master/CONTRIBUTING.md>贡献准则</a> .
 
 ## License
 该作品已根据知识共享署名4.0国际许可- [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
