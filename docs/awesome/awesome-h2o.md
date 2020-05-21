@@ -14,6 +14,7 @@
 
 
 ## Blog Posts & Tutorials
+- [Visualizing ML Models with LIME](https://uc-r.github.io/lime)
 - [Parallel Grid Search in H2O ](https://www.pavel.cool/h2o-3/h2o-parallel-grid-search/) 2020年1月17日
 - [Importing, Inspecting and Scoring with MOJO models inside H2O](https://www.pavel.cool/h2o-3/h2o-mojo-import/) 2019年12月10日
 - [Artificial Intelligence Made Easy with H2O.ai: A Comprehensive Guide to Modeling with H2O.ai and AutoML in Python](https://towardsdatascience.com/artificial-intelligence-made-easy-187ecb90c299) 2019年6月12日
@@ -52,7 +53,7 @@
 - [Innovative deep learning artificial intelligence applications for predicting relationships between individual tree height and diameter at breast height](https://doi.org/10.1186/s40663-020-00226-3)  伊尔卡·埃坎利（İlkerErcanlı）.  （2020年）
 - [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803)  塞巴斯蒂安·拉施卡（Sebastian Raschka），约书亚·帕特森（Joshua Patterson），科里·诺莱特（Corey Nolet）.  （2019）
 - [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970)  费尔南多·伊塔诺（Fernando Itano），里卡多·皮雷斯（Ricardo Pires），米格尔·安吉洛·德·阿布鲁乌·德·索萨（Miguel Angelo de Abreu de Sousa），埃米利奥·德尔·莫拉·埃尔南德萨（Emilio Del-Moral-Hernandeza）.  （2019）
-- [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)   费尔南多·伊塔诺（Fernando Itano），米格尔·安杰洛·德·阿布鲁乌·德·索萨（Emirio Del-Moral-Hernandez）.  （2018）
+- [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)   费尔南多·伊塔诺（Fernando Itano），米格尔·安杰洛·德·阿布雷乌·德·索萨（Emirio Del-Moral-Hernandez）.  （2018）
 - [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B.Auffenberg，Khurshid R.Ghani，Shreyas Ramani，礼宾，Brian Denton，Craig Rogers，Benjamin Stockton，David C.Miller，Karandeep Singh.  （2018）
 - [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato，Christophe Dutang和Leonardo Petrini.  （2018）
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940)  Yuriy Kochura，Sergii Stirenko，Yuri Gordienko.  （2017）
@@ -80,7 +81,7 @@
 
 - [Are categorical variables getting lost in your random forests?](http://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/)  -分类编码方案的基准及其对基于树的模型的影响（Scikit学习与H2O）.  2016年10月28日
 - [Deep learning in R](http://www.rblog.uni-freiburg.de/2017/02/07/deep-learning-in-r/) -2016年3月7日，R开源深度学习软件包的基准测试
-- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml)  -通用开源ML框架中的随机森林，GBM，深度学习和GLM实施基准.  2015年7月3日
+- [Szilard's machine learning benchmark](https://github.com/szilard/benchm-ml)  -通用开源ML框架中的Random Forest，GBM，深度学习和GLM实施基准.  2015年7月3日
 
 ## Presentations
 

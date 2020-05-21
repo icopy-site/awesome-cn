@@ -28,6 +28,7 @@
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) -概述了移动网站上的负面行为.
 - [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) -您可以使用网络应用做什么以延长电池寿命.
 - [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete) -关于2fa的自动完成属性.
+- [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) -将绩效作为业务的关键因素.
 - [Learn AMP by Example](https://ampbyexample.com) -重点介绍代码和实时示例的动手加速页面动手介绍.
 - [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6) -建立功能电话网页的最佳做法.
 - [Microbrowsers are Everywhere](https://24ways.org/2019/microbrowsers-are-everywhere/) -在为信使优化站点上.
@@ -36,7 +37,7 @@
 - [Mobile Web Application Best Practices](https://www.w3.org/TR/mwabp/) -W3C提供的有关移动Web应用程序的最佳做法列表.
 - [Mobile Web Development](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile) -Mozilla有关设计移动网站的指南（必须阅读）.
 - [Mobile Web Performance Checklist](https://www.oreilly.com/ideas/mobile-web-performance-checklist) -优化移动Web应用程序的最佳做法.
-- [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) - An introduction to intersection observers.
+- [Observing Intersection Observers](https://davidwalsh.name/intersection-observers) -交叉口观察员简介.
 - [Offline First (Awesome List)](https://github.com/pazguille/offline-first) -令人赞叹的离线优先列表（渐进式Web应用程序，服务工作者等）
 - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) -如何防止手机进入休眠状态.
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) -响应式设计技术概述.
@@ -69,7 +70,7 @@
 - [Geolocation API](https://www.w3.org/TR/geolocation-API/) -关于地理位置的访问.
 - [HTML Media Capture](https://www.w3.org/TR/html-media-capture/) -用户访问相机或麦克风时.
 - [Payment Request API](https://www.w3.org/TR/payment-request/) -最小集成度的付款方式.
-- [Presentation API](https://www.w3.org/TR/presentation-api/) -访问演示文稿显示.
+- [Presentation API](https://www.w3.org/TR/presentation-api/) - On access to presentation displays.
 - [Remote Playback API](https://www.w3.org/TR/remote-playback/) -从网页控制媒体的远程播放.
 - [Vibration API](https://www.w3.org/TR/vibration/) -在访问主机设备的振动机制时.
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/) -访问屏幕的可视部分（屏幕上的键盘除外），捏缩放区域之外的区域等.

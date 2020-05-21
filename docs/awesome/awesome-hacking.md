@@ -43,6 +43,7 @@
  *`docker-compose build &amp;&amp; docker-compose up- [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
  *`docker pull citizentig / nowasp`- [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
  *`docker pull bkimminich / juice-shop`- [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
+ *`docker pull phocean / msf`- [Docker Metasploit](https://hub.docker.com/r/phocean/msf/)
 
 ## General
  * [Exploit database](https://www.exploit-db.com/) -漏洞和易受攻击的软件的最终存档
@@ -67,7 +68,7 @@
 ### Decompilers
 *基于JVM的语言
   * [Krakatau](https://github.com/Storyyeller/Krakatau)  -我使用过的最好的反编译器.  能够将用Scala和Kotlin编写的应用程序反编译为Java代码.  JD-GUI和Luyten未能完全做到这一点.
-  * [JD-GUI](https://github.com/java-decompiler/jd-gui) 
+  * [JD-GUI](https://github.com/java-decompiler/jd-gui)
   * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
     * [Luyten](https://github.com/deathmarine/Luyten) -最好的程序之一，尽管有点慢，但挂在某些二进制文件上，并且维护得不太好.
   * [JAD](http://varaneckas.com/jad/) -JAD Java Decompiler（封闭源，未维护）
@@ -84,6 +85,10 @@
   * [retdec](https://github.com/avast-tl/retdec)
   * [snowman](https://github.com/yegord/snowman)
   * [Hex-Rays](https://www.hex-rays.com/products/decompiler/)
+
+* Python
+  * [uncompyle6](https://github.com/rocky/python-uncompyle6) -为20多个CPython版本和20年的反编译器.
+
 
 ### Deobfuscators
  * [de4dot](https://github.com/0xd4d/de4dot) -.NET解混淆器和解包器.
@@ -113,7 +118,7 @@
  * [HxD](http://mh-nexus.de/en/hxd/) -十六进制编辑器，除了原始磁盘编辑和主存储器（RAM）修改外，还可以处理任何大小的文件
  * [WinHex](http://www.winhex.com/winhex/) -十六进制编辑器，有助于计算机取证，数据恢复，低级数据处理和IT安全领域
 * [wxHexEditor](https://github.com/EUA/wxHexEditor)
-* [Synalize It](https://www.synalysis.net/)/[Hexinator](https://hexinator.com/) - 
+* [Synalize It](https://www.synalysis.net/)/[Hexinator](https://hexinator.com/) -
 
 #### Other
  * [Binwalk](https://github.com/ReFirmLabs/binwalk) -检测签名，解压档案，可视化熵.
@@ -132,11 +137,13 @@
 ## Web
 
 ## Tools
+ * [Spyse](https://spyse.com/)  -数据收集服务，可使用OSINT收集Web信息.  提供的信息：IPv4主机，域/域名，端口/横幅/协议，技术，操作系统，自治系统，维护着巨大的SSL / TLS数据库，以及更多...所有数据都存储在其自己的数据库中，无需扫描即可获取数据.
  * [sqlmap](https://github.com/sqlmapproject/sqlmap) -自动SQL注入和数据库接管工具
  * [NoSQLMap](https://github.com/codingo/NoSQLMap) -自动化的NoSQL数据库枚举和Web应用程序开发工具.
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) -base64 base85 md4,5哈希，sha1哈希编码/解码
  * [VHostScan](https://github.com/codingo/VHostScan) -执行反向查找的虚拟主机扫描程序，可与数据透视工具一起使用，检测所有情况，别名和动态默认页面.
  * [SubFinder](https://github.com/subfinder/subfinder) -SubFinder是一个子域发现工具，可使用被动在线源发现任何目标的有效子域.
+ * [Findsubdomains](https://findsubdomains.com/) -子域发现工具，可从开源Internet收集所有可能的子域，并通过各种工具对其进行验证以提供准确的结果.
  * [badtouch](https://github.com/kpcyrd/badtouch) -可编写脚本的网络身份验证破解程序
 
 ## General
@@ -149,6 +156,9 @@
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) -网络取证分析工具（NFAT）
  * [Paros](http://sourceforge.net/projects/paros/) -基于Java的HTTP / HTTPS代理，用于评估Web应用程序漏洞
  * [pig](https://github.com/rafael-santiago/pig) -Linux数据包制作工具
+ * [findsubdomains](https://findsubdomains.com) -真正快速的子域扫描服务，比简单的子查找器（使用OSINT可以工作）具有更多的机会.
+ * [cirt-fuzzer](http://www.cirt.dk/) -一个简单的TCP / UDP协议模糊器.
+ * [ASlookup](https://aslookup.com/) -探索自治系统和所有相关信息（CIDR，ASN，组织...）的有用工具
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) -Zed攻击代理（ZAP）是易于使用的集成渗透测试工具，用于发现Web应用程序中的漏洞
  * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) -Java中间人SOCKS代理
  * [ssh-mitm](https://github.com/jtesta/ssh-mitm) -SSH / SFTP中间人工具，用于记录交互式会话和密码.
@@ -158,7 +168,7 @@
  * [Habu](https://github.com/portantier/habu) -Python网络黑客工具包
  * [Wifi Jammer](https://n0where.net/wifijammer/) -免费程序可阻止范围内的所有wifi客户端
  * [Firesheep](https://codebutler.github.io/firesheep/) -用于HTTP会话劫持攻击的免费程序.
- * [Scapy](https://github.com/secdev/scapy) -用于低级数据包创建和处理的Python工具和库
+ * [Scapy](https://github.com/secdev/awesome-scapy) -用于低级数据包创建和处理的Python工具和库
  * [Amass](https://github.com/OWASP/Amass) -深入的子域枚举工具，可执行抓取，递归蛮行强制，网络档案的爬网，名称更改和反向DNS扫描
  * [sniffglue](https://github.com/kpcyrd/sniffglue) -安全的多线程数据包嗅探器
 
@@ -170,6 +180,7 @@
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) -命令行数字取证工具库和集合
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) -Guidance Software提供的一套数字调查产品中的共享技术
  * [malzilla](http://malzilla.sourceforge.net/) -恶意软件搜寻工具
+ * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) -巴西联邦警察取证调查工具
 
 ## Cryptography
 
@@ -188,6 +199,7 @@
  * [pwnable.kr](http://pwnable.kr/) -提供有关系统安全性的各种挑战
  * [Exploit Exercises - Nebula](https://exploit-exercises.com/nebula/)
  * [SmashTheStack](http://smashthestack.org/)
+ * [HackingLab](https://www.hacking-lab.com/) 
 
 ## Reverse Engineering
  * [Reversing.kr](http://www.reversing.kr/) -该站点测试您的破解和反向代码工程能力
@@ -200,6 +212,7 @@
  * [Hack The Box](https://www.hackthebox.eu) -一个免费的站点，可以在各种不同的系统中进行笔测.
  * [Webhacking.kr](http://webhacking.kr/)
  * [0xf.at](https://0xf.at/) -一个没有登录名或广告的网站，您可以在其中解决密码难题（即所谓的hackits）.
+ * [fuzzy.land](https://fuzzy.land/)  -奥地利团体的网站.  他们参加的CTF带来了很多挑战.
  * [Gruyere](https://google-gruyere.appspot.com/)
  * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
 
@@ -208,11 +221,11 @@
 
 ## Bug bounty
   * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
-  
-## Bug bounty -  Earn Some Money  
+
+## Bug bounty -  Earn Some Money
   * [Bugcrowd](https://www.bugcrowd.com/)
   * [Hackerone](https://www.hackerone.com/start-hacking)
-  
+
 
 ## CTF
 
@@ -229,8 +242,9 @@
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
  * [ZeroDays CTF](https://zerodays.ie/)
  * [Insomni’hack](https://insomnihack.ch/)
- * [Pico CTF](https://picoctf.com/) 
+ * [Pico CTF](https://picoctf.com/)
  * [prompt(1) to win](http://prompt.ml/) -XSS挑战
+ * [HackTheBox](https://www.hackthebox.eu/)
 
 ## General
  * [Hack+](http://hack.plus) -机器人的智能网络，可获取最新的InfoSec内容.
@@ -240,7 +254,7 @@
  * [Rookit Arsenal](https://amzn.com/144962636X) -OS RE和rootkit开发
  * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) -收集有用的备忘单
  * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) -每个黑客和赛博朋克都必须看的电影精选清单.
- * [Hopper's Roppers Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) -一门免费课程，讲授法学，密码学和网络开发的基本知识，这是在“夺旗”比赛中取得成功所必需的.
+ * [Hopper's Roppers Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) -一门免费课程，讲授法学，密码学和网络利用的基本知识，这是在“夺旗”比赛中取得成功所必需的.
 
 ## OS
 
@@ -253,7 +267,8 @@
 ## tools
 * [empire](https://github.com/EmpireProject/Empire) -Powershell和python的后期开发框架.
 * [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) -使用铁python克服powershell限制的后期开发工具.
+* [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 ## ETC
  * [SecTools](http://sectools.org/) -排名前125位的网络安全工具
- * [Hopper's Roppers Security Training](https://www.hoppersroppers.org/training.html) - Four free courses designed to teach beginners the fundamentals of computing, security, and CTFs. 
+ * [Hopper's Roppers Security Training](https://www.hoppersroppers.org/training.html) -四门免费课程，旨在向初学者教授计算，安全性和CTF的基础知识. 

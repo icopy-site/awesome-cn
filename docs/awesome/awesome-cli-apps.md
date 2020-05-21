@@ -10,7 +10,7 @@
 
 &gt;精选的命令行应用程序列表.
 
-受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -36,7 +36,7 @@
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) -在终端中收听SomaFM.
 - [nehm](https://github.com/bogem/nehm) -从SoundCloud下载曲目.
-- [mpd](https://github.com/MusicPlayerDaemon/MPD) -音乐播放器守护程序.
+- [mpd](https://github.com/MusicPlayerDaemon/MPD) -音乐播放器守护进程.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) -mpd客户端.
 - [moc](http://moc.daper.net/) -Linux / UNIX的控制台音频播放器.
 - [musikcube](https://github.com/clangen/musikcube) -跨平台，基于终端的音乐播放器，音频引擎，元数据索引器和服务器.
@@ -48,7 +48,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上的智能，不错的Twitter客户端.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) -终端机上一个聪明又好看的Twitter客户端.
 - [tuir](https://gitlab.com/ajak/tuir) -Reddit TUI.
 - [WeeChat](https://weechat.org/) -快速，轻便和可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -IRC聊天客户端.
@@ -81,8 +81,8 @@
 - [bcal](https://github.com/jarun/bcal) -用于存储转换和计算的字节CALculator.
 - [cgasm](https://github.com/bnagy/cgasm) -提供x86汇编文档.
 - [legit](https://github.com/captainsafia/legit) -生成开放源代码许可证作为文件或文件头.
-- [mklicense](https://github.com/cezaraugusto/mklicense) -使用自定义信息轻松创建自定义LICENSE文件.
-- [rebound](https://github.com/shobrook/rebound) -当您遇到编译器错误时，获取堆栈溢出会在您的终端中显示.
+- [mklicense](https://github.com/cezaraugusto/mklicense) -使用自定义信息轻松创建自定义许可文件.
+- [rebound](https://github.com/shobrook/rebound) -遇到编译器错误时，获取堆栈溢出会在您的终端中显示.
 - [grip](https://github.com/joeyespo/grip) -在提交之前预览具有GitHub样式的markdown文件.
 - [bitwise](https://github.com/mellowcandle/bitwise) -ncurses中的基本转换和位操纵器.
 - [foy](https://github.com/zaaack/foy) -轻型通用任务运行器/构建工具.
@@ -97,7 +97,7 @@
 
 ### Web Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) -搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于浏览器对功能的支持.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) -搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 有关功能对浏览器的支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) -检查网站是否正常.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) -捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) -从CSS中删除注释.
@@ -111,7 +111,7 @@
 - [serve](https://github.com/zeit/serve) -易于使用的静态文件服务器，具有https，CORS和GZIP压缩等功能.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) -根据您的需求交互式地为您的项目生成.gitignore.
 - [Discharge](https://github.com/brandonweiss/discharge) -将静态网站部署到Amazon S3.
-- [reachable](https://github.com/italolelis/reachable) -检查域是否启动.
+- [reachable](https://github.com/italolelis/reachable) -检查域是否已启动.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) -通过http轻松提供本地目录.
 - [shell2http](https://github.com/msoap/shell2http) -通过HTTP服务器执行Shell命令.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) -具有自动完成功能和语法突出显示功能的交互式HTTP客户端.
@@ -141,7 +141,7 @@
 - [pm2](https://pm2.io/runtime/) -Node.js的生产流程管理器.
 - [dockly](https://github.com/lirantal/dockly) -交互式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
-- [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose界面.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose接口.
 - [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 - [docker-shell](https://github.com/Trendyol/docker-shell) -简单的交互式docker界面.
@@ -198,7 +198,7 @@
 
 ### Note Taking and Lists
 
-- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您轻松，快速地将想法保存在安全的地方.
+- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您将想法安全快捷地保存在安全的地方.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) -Evernote客户.
 - [Taskwarrior](http://taskwarrior.org) -从命令行管理TODO列表.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) -终端的快速笔记应用程序.
@@ -250,7 +250,7 @@
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) -在画中画播放器中观看视频.
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) -获取应用程序的路径.
 - [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) -从包名称获取包标识符：Safari→com.apple.Safari.
-- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) -从捆绑包标识符获取捆绑包名称：com.apple.Safari→Safari.
+- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) -从包标识符获取包名称：com.apple.Safari→Safari.
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) -安全地强制创建符号链接.
 - [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) -获取macOS版本.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) -管理wifi连接.
@@ -263,7 +263,7 @@
 
 - [gotty](https://github.com/yudai/gotty) -将您的终端共享为Web应用程序.
 - [localtunnel](https://github.com/localtunnel/localtunnel) -将您的localhost暴露给全世界，以方便测试和共享.
-- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [mosh](https://mosh.org/) -允许间断连接漫游的远程SSH客户端.
 - [ngrok](https://ngrok.com/) -安全自省到本地主机的隧道.
 - [serveo](https://serveo.net/) -仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) -管道输出到网络.
@@ -286,7 +286,7 @@
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) -获取或设置桌面墙纸.
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) -将Unsplash中的图像设置为墙纸.
-- [pywal](https://github.com/dylanaraps/pywal) -生成并更改颜色方案，然后将它们在系统范围内应用于所有您喜欢的程序.
+- [pywal](https://github.com/dylanaraps/pywal) -生成并更改颜色方案，然后将其在系统范围内应用于所有您喜欢的程序.
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) -从Unsplash直接设置墙纸.
 
 ### Shell Utilities
@@ -311,9 +311,9 @@
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com/) -通过用户提交的解决方案提出小型外壳挑战.
-- [explainshell](http://www.explainshell.com/) -输入命令行代码段以查看每个参数的帮助文本.
+- [explainshell](http://www.explainshell.com/) -输入命令行摘要以查看每个参数的帮助文本.
 - [howdoi](https://github.com/gleitz/howdoi) -通过命令行即时编码答案.
-- [how2](https://github.com/santinic/how2) -查找在UNIX bash命令行上进行操作的最简单方法（howdoi的Nodejs实现）.
+- [how2](https://github.com/santinic/how2) -查找在unix bash命令行（howdoi的Nodejs实现）上做某事的最简单方法.
 - [The Fuck](https://github.com/nvbn/thefuck) -宏伟的应用程序，可纠正您以前的控制台命令.
 - [tldr](https://github.com/tldr-pages/tldr) -简化且由社区驱动的手册页.
 - [Wat](https://github.com/dthree/wat) -即时，集中，社区构建的文档.
@@ -322,7 +322,7 @@
 
 ## Data Manipulation
 
-- [underscore-cli](https://github.com/ddopson/underscore-cli) -用于破解JSON和Javascript的命令行实用程序带.
+- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ramda-cli](https://github.com/raine/ramda-cli) -使用功能管道处理数据的CLI工具.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) -用于查询和更新YAML文件的简单CLI.
 - [q](http://harelba.github.io/q/) -命令行工具，允许在CSV / TSV（和任何其他表格文本文件）上执行类似SQL的查询.
@@ -335,11 +335,11 @@
 - [fx](https://github.com/antonmedv/fx) -命令行JSON查看器.
 - [vj](https://github.com/busyloop/vj) -使JSON易于阅读.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli) -从JSON剥离注释.
-- [GROQ](https://github.com/sanity-io/groq-cli) –具有查询和投影的JSON处理器.
+- [GROQ](https://github.com/sanity-io/groq-cli) –带有查​​询和投影的JSON处理器.
 
 ### Text
 
-- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli)  -解析文本列，例如unix命令的输出.  返回可以使用jq或underscore-cli之类的工具处理的JSON.
+- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli)  -解析文本列，如unix命令的输出.  返回可以使用jq或underscore-cli之类的工具处理的JSON.
 - [figlet](http://www.figlet.org/) -从ASCII字符创建大文本.
 
 ## Files and Directories
@@ -348,8 +348,8 @@
 
 - [ranger](https://github.com/ranger/ranger) -具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) -功能丰富的可视文件管理器.
-- [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载的文件.
-- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt那里借鉴了一些有用的想法.
+- [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载内容.
+- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt中借鉴了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) -快速，可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) -快速，简单的文件管理器.
@@ -360,13 +360,13 @@
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - 清空垃圾.
 - [del-cli](https://github.com/sindresorhus/del-cli) -删除文件和文件夹.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) -复制文件.
-- [rename-cli](https://github.com/jhotmann/node-rename-cli) -跨平台工具，可快速重命名文件，特别是一次重命名多个文件.
+- [rename-cli](https://github.com/jhotmann/node-rename-cli) -跨平台工具，可快速重命名文件，尤其是一次重命名文件.
 
 ### Files
 
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) -CLI监视文件系统更改.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) -检测文件或标准输入的文件类型.
-- [DocToc](https://github.com/thlorenz/doctoc)  -生成本地git仓库内markdown文件的目录.  链接与github或其他站点生成的锚点兼容.
+- [DocToc](https://github.com/thlorenz/doctoc)  -生成本地git存储库中的markdown文件的目录.  链接与github或其他站点生成的锚点兼容.
 - [bat](https://github.com/sharkdp/bat) -带有语法突出显示的猫克隆.
 - [NCDu](https://dev.yorhel.nl/ncdu) -具有ncurses接口的磁盘使用情况分析器.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) -Unix权限的瑞士军刀
@@ -411,7 +411,7 @@
 
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) -：tv：命令行的漂亮GitHub客户端.
 - [Gistup](https://github.com/mbostock/gistup) -从终端创建要点，然后使用git进行更新.
-- [git commander](https://github.com/golbin/git-commander) -带有简单终端界面的git工具.
+- [git commander](https://github.com/golbin/git-commander) -具有简易终端界面的git工具.
 - [git-stats](https://github.com/IonicaBizau/git-stats) -：four_leaf_clover：类似于GitHub的贡献日历，但在本地，包含所有git提交.
 - [hub](https://github.com/github/hub) -git的命令行包装，使您在GitHub上更好.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) -获取GitHub用户的当前本地时间.
@@ -422,9 +422,10 @@
 - [git-secret](https://github.com/sobolevn/git-secret) -将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -gitlab cli，用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -一些小git附加功能，例如git-ignore，git-setup，git-changelog，git-release，git-effort等.
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
+- [gita](https://github.com/nosarthur/gita) -并发管理多个git repos.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) -交互式生成README.md文件.
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli) -确保语义提交消息.
+- [import-github-labels-cli](https://github.com/abhijithvijayan/import-github-labels-cli) -在Github仓库之间同步标签.
 
 ## Images
 
@@ -481,19 +482,19 @@
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) -使用Levenshtein距离算法测量两个字符串之间的差异.
 - [mdlt](https://github.com/metadelta/mdlt) -从命令行直接进行快速数学运算.
-- [medium-cli](https://github.com/djadmin/medium-cli) -阅读 [medium.com](https://medium.com/) 终端中的故事，也可以提供热门故事.
+- [medium-cli](https://github.com/djadmin/medium-cli) -阅读 [medium.com](https://medium.com/) 终端中的故事，还可以提供热门故事.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) -从浏览器中的网络快捷文件中打开URL.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) -从网络快捷方式文件获取网址.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) -将匹配的单引号转换为双引号：我“爱”独角兽=&gt;我“爱”独角兽.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) -将匹配的双引号转换为单引号：我“爱”独角兽→我“爱”独角兽.
-- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) -Python中GDB的模块化可视界面.
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 - [hget](https://github.com/bevacqua/hget) -从您的终端以纯文本形式呈现网站.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) -一个Node.js CLI应用，可显示您的Google Wifi / OnHub路由器的状态.
 - [calories](https://github.com/zupzup/calories) -卡路里和体重追踪器.
 - [trino](https://github.com/eneserdogan/trino) -Trino CLI允许快速轻松地翻译在命令行中输入的单词和短语.
 - [alex](https://github.com/wooorm/alex) -通过检查许多可能的违法行为，检查不敏感，不体贴的文字，从而增强了文字质量.
-- [xiringuito](https://github.com/ivanilves/xiringuito)  -“穷人的VPN”.  基于SSH的“ VPN”易于安装，但性能比真正的VPN慢.
-- [nasa-cli](https://github.com/xxczaki/nasa-cli) -从您的终端下载NASA的今日图片.
+- [xiringuito](https://github.com/ivanilves/xiringuito)  -“穷人的VPN”.  一个基于SSH的“ VPN”，易于安装，但性能比真正的VPN慢.
+- [nasa-cli](https://github.com/xxczaki/nasa-cli) -从您的终端下载NASA每日图片.
 - [googlr](https://github.com/Camji55/googlr) -从命令行搜索Google.
 - [Qalculate](https://github.com/Qalculate/libqalculate)  -计算非平凡的数学表达式.  单位转换，符号计算等.
 - [translate-shell](https://github.com/soimort/translate-shell) -Google翻译界面.
@@ -520,4 +521,4 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Adam Garrett-Harris](https://twitter.com/agarrharr) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Adam Garrett-Harris](https://twitter.com/agarrharr) 放弃了此作品的所有版权以及相关或邻近的权利.

@@ -55,7 +55,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-express](https://github.com/NMathar/deno-express) -将Node Express移植到Deno.
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) -一个非常简单的JavaScript解析器组合器.
 - [deno-globrex](https://github.com/hayd/deno-globrex) -globrex的端口为deno，globex的端口为正则表达式.
-- [deno-mysql](https://github.com/manyuanrong/deno_mysql) - MySQL database driver.
+- [deno-mysql](https://github.com/manyuanrong/deno_mysql) -MySQL数据库驱动程序.
 - [deno_mongo](https://github.com/manyuanrong/deno_mongo) -MongoDB数据库驱动程序.
 - [deno-opn](https://github.com/hashrock/deno-opn)  -打开网站，文件，可执行文件之类的东西.  跨平台.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) -用于管理Deno本机插件依赖项的库.
@@ -76,6 +76,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [dinatra](https://github.com/syumai/dinatra) -Sinatra像deno的轻量级Web应用程序框架.
 - [djwt](https://github.com/timonson/djwt) -根据JWT和JWS规范在Deno上制作JSON Web令牌（JWT）.
 - [dso](https://github.com/manyuanrong/dso) -一个基于mysql的简单ORM库.
+- [ensure](https://github.com/eankeen/ensure) -确保您运行的是Deno，Typescript或V8的最低版本.
 - [evt](https://github.com/garronej/evt) -输入EventEmitter的安全替代品.
 - [expect](https://github.com/allain/expect) -编写笑话的助手，如deno中的期望测试.
 - [flags](https://github.com/denoland/deno_std/tree/master/flags) -基于极简主义的Deno命令行参数解析器.
@@ -124,7 +125,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [denoversion](https://github.com/lucascaro/denoversion) -Deno的SemVer和git版本管理.
 - [denox](https://github.com/BentoumiTech/denox) -与packages.json脚本类似，但对于具有权限支持的Deno.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) -用于安装和运行Deno的跨平台Makefile.
--maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗映像.
+-maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
 -海德 [deno-docker](https://github.com/hayd/deno-docker) 几个docker映像.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) -使用此扩展程序利用vscode中内置的typedef和intellisense.
 - [dev_server](https://github.com/zhmushan/dev_server) -让TypeScript文件直接在script标签中使用.
@@ -220,3 +221,8 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 
 ### Spanish
 - [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
+
+### Uzbek
+
+- [Telegram Channel](https://t.me/denoland_uz)
+- [Telegram Group](https://t.me/chisel_deno)

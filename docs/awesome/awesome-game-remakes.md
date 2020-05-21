@@ -34,7 +34,7 @@
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) -改写邪教足球比赛的尝试2.
 - [OpenTyrian](https://bitbucket.org/opentyrian/opentyrian/wiki/Home) -Tyrian的开源端口，从Turbo Pascal到C.
 - [Taisei](https://github.com/taisei-project/taisei) -东方系列的粉丝制作的开放源代码克隆.
-- [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) -经典的ZX Spectrum游戏，采用便携式C语言的《大逃亡》.
+- [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) -经典的ZX Spectrum游戏，采用便携式C语言进行的《大逃亡》.
 - [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) -一个游戏和编辑工具，可让您创建自定义的《塞尔达传说》任务.
 
 ## FPS
@@ -59,6 +59,7 @@
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) -Doom 3 BFG Edition具有柔和的阴影，清理的源代码，Linux和64位支持.
 - [RedneckGDX](https://gitlab.com/m210/RedneckGDX) -乡下人狂暴的港口.
 - [The Eternity Engine](https://github.com/team-eternity/eternity) -高级DOOM源端口.
+- [The Force Engine](https://github.com/luciusDXL/TheForceEngine) -适用于现代系统的Jedi Engine和使用该引擎的游戏-Dark Forces and Outlaws.
 - [Tyrquake](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) -id Software Quake II的增强客户端，专注于离线和合作游戏.
 - [vkQuake](https://github.com/Novum/vkQuake) -使用Vulkan而不是OpenGL进行渲染的Quake端口.

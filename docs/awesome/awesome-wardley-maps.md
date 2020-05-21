@@ -11,8 +11,8 @@
 ## Quick Start
 
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) -情境意识如何将您的业务推向市场（5:51）.
-- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) -在11个图表中 [Simon Wardley](https://twitter.com/swardley).
-- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -视觉上引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
+- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
+- [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
 
 ## Community
 
@@ -30,7 +30,7 @@
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术的Wiki百科全书.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) -维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
-- [Practical Introduction to Wardley Mapping - A step-by-step guide to creating and using Wardley Maps](https://leanpub.com/practicalintroductiontowardleymapping) -电子书作者： [E. Alex Hudson](https://github.com/alexhudson).
+- [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) -通过以下方式创建和使用Wardley Map的分步指南 [E. Alex Hudson](https://twitter.com/ealexhudson) .  PDF / iPad / Kindle.
 
 ## Videos
 
@@ -143,12 +143,14 @@
 
 ## Meetups
 
+-澳大利亚
+  - [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
 -欧洲
   -比利时
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
   - 捷克共和国
     - [Prague](https://www.meetup.com/Prague-Mapping-Meetup)
-  - France
+  -法国
     - [Paris](https://www.meetup.com/Strategic-Map-Meetup-Paris/)
   -德国
     - [Cologne](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/)
