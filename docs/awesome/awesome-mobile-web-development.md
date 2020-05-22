@@ -28,9 +28,8 @@
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) -概述了移动网站上的负面行为.
 - [How Web Content Can Affect Power Usage](https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/) -您可以使用网络应用做什么以延长电池寿命.
 - [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete) -关于2fa的自动完成属性.
-- [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) -将绩效作为业务的关键因素.
 - [Learn AMP by Example](https://ampbyexample.com) -重点介绍代码和实时示例的动手加速页面动手介绍.
-- [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6) -建立功能电话网页的最佳做法.
+- [Loading web pages fast on a $20 feature phone](https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6) -建立功能手机网页的最佳做法.
 - [Microbrowsers are Everywhere](https://24ways.org/2019/microbrowsers-are-everywhere/) -在为信使优化站点上.
 - [Mobile Search UX 8 Obstacles](https://blog.algolia.com/mobile-search-ux-8-obstacles/) -有关移动搜索UX的系列文章.
 - [Mobile Web Best Practices](https://www.w3.org/TR/mobile-bp/) -有点过时了，但对于W3C的移动网站的最佳做法仍然有用.
@@ -43,12 +42,14 @@
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) -响应式设计技术概述.
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) -加快页面加载速度的技术概述.
 - [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/) -为什么需要自我托管静态资产的原因.
+- [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) -将绩效作为业务的关键因素.
 - [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/) -如何开始为KaiOS开发.
 - [Timing Out](https://adactio.com/journal/15122) -处理lie-fi（不良网络连接）的服务工作者策略.
 - [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/) -有关创建可访问的移动UI的建议列表.
 - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/) -互动媒体功能概述.
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) -有关使Web内容更易于访问的大量建议.
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/) -Google提供的有关创建良好的移动网络体验的指南.
+- [What Does A Foldable Web Actually Mean?](https://www.smashingmagazine.com/2020/02/foldable-web-meaning/) -沉思于可折叠手机对网络的影响.
 - [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) -有关网站功耗的有趣论文.
 
 
@@ -72,7 +73,7 @@
 - [Payment Request API](https://www.w3.org/TR/payment-request/) -最小集成度的付款方式.
 - [Presentation API](https://www.w3.org/TR/presentation-api/) - On access to presentation displays.
 - [Remote Playback API](https://www.w3.org/TR/remote-playback/) -从网页控制媒体的远程播放.
-- [Vibration API](https://www.w3.org/TR/vibration/) -在访问主机设备的振动机制时.
+- [Vibration API](https://www.w3.org/TR/vibration/) -访问主机设备的振动机制.
 - [Visual Viewport API](https://wicg.github.io/visual-viewport/) -访问屏幕的可视部分（屏幕上的键盘除外），捏缩放区域之外的区域等.
 - [Wake Lock Api](https://www.w3.org/TR/wake-lock/) -访问唤醒锁定请求时（防止设备进入节电状态）.
 - [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) -在API上通过蓝牙4发现设备并与之通信.
@@ -84,7 +85,7 @@
 
 - [Adaptive Loading - Improving web performance on slow devices](https://www.youtube.com/watch?v=puUPpVrIRkc&feature=emb_title) -Nate Schloss的Addy Osmani概述了使站点适应硬件和网络限制的实践.
 - [Fundamentals of Mobile Web Development](https://www.youtube.com/watch?v=z6dg_V22wV0) -Matt Gaunt撰写的有关移动Web开发的最佳做法的概述.
-- [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) -杰克·阿奇博尔德（Jake Archibald）简要介绍了如何使用流和服务工作者以及其他新的API优化Web应用程序和网站.
+- [Future App Model: Advanced Service Worker](https://www.youtube.com/watch?v=J2dOTKBoTL4) -杰克·阿奇博尔德（Jake Archibald）简要介绍了如何使用流和服务工作者以及其他新的API优化Web应用和网站.
 - [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) -杰克·阿奇博尔德（Jake Archibald）介绍服务人员.
 - [Mobile Web Performance](https://www.youtube.com/watch?v=_y5IzI_tpTw) -Estelle Weyl在您的网站上如何实现最佳移动体验.
 - [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) -如何在网站上审核性能问题，作者Paul Lewis.
@@ -113,7 +114,7 @@
 
 - [Browsersync](https://browsersync.io) -节省时间的同步浏览器测试.
 - [Eruda](https://github.com/liriliri/eruda) -用于移动网络浏览器的控制台.
-- [Interact.js](https://github.com/taye/interact.js) -借助惯性和捕捉功能，可拖放，调整大小和多点触摸手势，适用于现代浏览器.
+- [Interact.js](https://github.com/taye/interact.js) -拖曳，调整大小和多点触控手势，并具有惯性和对齐功能，适用于现代浏览器.
 - [Fastclick](https://github.com/ftlabs/fastclick) -消除了旧浏览器中300ms的延迟.
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) -使用IntersectionObserver API的高性能，轻便和可配置的惰性加载器
 - [React Dates](https://github.com/airbnb/react-dates) -一个易于国际化，适合移动设备使用的datepicker React Web库.

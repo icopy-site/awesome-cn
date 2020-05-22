@@ -80,7 +80,7 @@
 
 * [DeepChem](https://github.com/deepchem/deepchem) -基于Tensorflow的化学深度学习库
 * [OpenChem](https://github.com/Mariewelt/OpenChem) -OpenChem是具有PyTorch后端的用于计算化学的深度学习工具包.
-* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) -生物学和化学深度学习图书馆.
+* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) -PyTorch库提供了许多图卷积算法的实现.
 
 <a id="lib-web"></a>
@@ -89,8 +89,9 @@
 * [webchem](https://github.com/ropensci/webchem) -来自网络的化学信息.
 * [PubChemPy](http://pubchempy.readthedocs.io) -PubChem PUG REST API的Python包装器.
 * [ChemSpiPy](http://chemspipy.readthedocs.org) -ChemSpider API的Python包装器.
-* [CIRpy](http://cirpy.readthedocs.org/) -NCI化学​​标识符解析器（CIR）的Python包装器.
-* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) 上 [Tornado](http://www.tornadoweb.org/en/stable/).
+* [CIRpy](http://cirpy.readthedocs.org/) -的Python包装器 [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
+* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) 和 [OSRA](https://cactus.nci.nih.gov/osra/) 在里面 [Bottle](http://bottlepy.org/docs/dev/) 上 [Tornado](http://www.tornadoweb.org/en/stable/).
+* [chemminetools](https://github.com/girke-lab/chemminetools) -基于Django的小分子分析开源Web框架.
 
 <a id="lib-db"></a>
 ### Databases
@@ -159,7 +160,7 @@
 ## See Also
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) -深度学习生物学回购中的化学信息学和药物发现部分.
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个列表重点关注与化学有关的Python内容.
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个清单着重于与化学有关的Python内容.
 * [MolSSI Molecular Software Database](https://molssi.org/software-search/)
 
 ## License

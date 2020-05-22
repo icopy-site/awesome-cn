@@ -4,14 +4,14 @@
 
 ![Piscis Magnus from BL Harley 647](https://raw.githubusercontent.com/tokenmill/awesome-nlg/master/logo.png)
 
- 自然语言生成在聊天机器人，故事生成和数据描述中具有广泛的应用领域.  涉及NLG过程的部分或全部的技术种类繁多.  该列表旨在通过提供各种项目，工具，研究论文和学习资料的链接来表示NLG应用程序和技术的这种逆转.
+ 自然语言生成在聊天机器人，故事生成和数据描述中具有广泛的应用领域.  涉及NLG过程的部分或全部的技术种类繁多.  该列表旨在通过提供指向各种项目，工具，研究论文和学习资料的链接来表示NLG应用程序和技术的这种逆转.
 
 
 
 ## Datasets
 
 - [Alex Context NLG Dataset](https://github.com/UFAL-DSG/alex_context_nlg_dataset) -公共交通信息领域对话系统中NLG的数据集.
-- [Box-score data](https://github.com/harvardnlp/boxscore-data/) -该数据集包含（人工编写的）NBA篮球比赛摘要，其摘要与相应的箱式和线式得分保持一致.
+- [Box-score data](https://github.com/harvardnlp/boxscore-data/) -该数据集包含（人工编写的）NBA篮球比赛摘要，其摘要与相应的方块得分和线路得分对齐.
 - [E2E](http://www.macs.hw.ac.uk/InteractionLab/E2E) -这项共同的任务集中在数据驱动的最新端到端（E2E）NLG方法上，这些方法可以从不对齐的数据中共同学习句子规划和表面实现.
 - [Neural-Wikipedian](https://github.com/pvougiou/Neural-Wikipedian) -存储库包含代码以及用于构建“学习”如何为语义Web三元组生成英文传记的系统的必需语料库.
 - [WeatherGov](https://cs.stanford.edu/~pliang/data/weather-data.zip) -来自weather.gov（美国公共天气预报）的计算机生成的天气预报以及相应的天气数据.
@@ -45,7 +45,7 @@
 
 ## Libraries
 
-- [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) -.NET库，可将cron表达式转换为人类可读的描述.
+- [Cron Expression Descriptor](https://github.com/bradymholt/cron-expression-descriptor) - A .NET library that converts cron expressions into human readable descriptions.
 - [Number Words](https://github.com/tokenmill/numberwords) -将数字转换为近似的文本表达式：从“ 0.23”到“小于四分之一”.
 
 ## Narrative Generation
@@ -53,13 +53,14 @@
 - [Random Story Generator](https://github.com/aherriot/story-generator) -使用自然语言生成（NLG）创建随机的短篇小说.
 - [Tracery](https://github.com/galaxykate/tracery) -用于JavaScript的故事语法生成库.
 
-## Neural natural language generation
+## Neural Natural Language Generation
 
+- [aitextgen](https://github.com/minimaxir/aitextgen) -强大的Python工具，用于使用GPT-2进行基于文本的AI培训和生成.
 - [graph-2-text](https://github.com/diegma/graph-2-text) -结合图卷积网络和opennmt-py在Pytorch中实现的图到序列.
 - [Image Caption Generator](https://github.com/neural-nuts/image-caption-generator) -基于神经网络的生成模型，用于使用Tensorflow字幕.
 - [PPLM](https://github.com/uber-research/PPLM)  -即插即用语言模型实现.  允许引导GPT-2模型的主题和属性.
 - [Texar](https://github.com/asyml/texar) -Texar是一个工具包，旨在支持广泛的机器学习，尤其是自然语言处理和文本生成任务.
-- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以轻松地在任何文本数据集上训练任何大小和复杂度的自己的文本生成神经网络.
+- [textgenrnn](https://github.com/minimaxir/textgenrnn) -只需几行代码，就可以在任何文本数据集上轻松训练自己的任意大小和复杂度的文本生成神经网络.
 - [Transformers](https://github.com/huggingface/transformers) -TensorFlow 2.0和PyTorch的最新自然语言处理.
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) -用于将以结构化数据形式存在的信息转换为自然语言文本.
 
@@ -93,7 +94,7 @@
 ## Templating Languages
 
 - [calyx](https://github.com/maetl/calyx) -一个用于生成带有递归模板语法的文本的Ruby库.
-- [nalgene](https://github.com/spro/nalgene) - Natural language generation language.
+- [nalgene](https://github.com/spro/nalgene) -自然语言生成语言.
 - [StringTemplate](https://www.stringtemplate.org/) - Java template engine (with ports for C##, Objective-C, JavaScript, Scala) for generating source code, web pages, emails, or any other formatted text output. 
 
 ## Videos

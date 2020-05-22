@@ -154,6 +154,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Google Dataset Search (beta)](https://toolbox.google.com/datasetsearch)
 * [NAYN.CO Turkish News with categories](https://github.com/naynco/nayn.data)
 * [Covid-19](https://github.com/datasets/covid-19)
+* [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 
 ## Bloggers
 
@@ -188,7 +189,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Revolution Analytics](http://blog.revolutionanalytics.com/) -数据科学博客
 - [R Bloggers](https://www.r-bloggers.com/) -R博客
 - [The Practical Quant](https://practicalquant.blogspot.com/) 大数据
-- [Micheal Le Gal](http://www.mickaellegal.com/)  一位数据爱好者，他热衷于解决有趣的问题并制作精美的故事和可视化数据.  在过去的5年中，他曾运用统计技术解决政府，脑科学以及最近零售领域的问题.
+- [Micheal Le Gal](http://www.mickaellegal.com/)  一位数据爱好者，他热衷于解决有趣的问题并利用数据制作精美的故事和可视化内容.  在过去的5年中，他将统计数据用于解决政府，脑科学以及最近的零售业中的问题.
 - [Datascope Analytics](https://datascopeanalytics.com/) 数据驱动的咨询和设计
 - [另一个数据博客](http://yet-another-data-blog.blogspot.com.tr/) 另一个数据博客
 - [Spenczar](http://spenczar.com/)  _Twitch_的一位数据科学家.  我负责整个数据管道，从跟踪到模型构建再到报告.
@@ -418,7 +419,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均由基于革命性知识的Wolfram语言提供支持.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
@@ -449,12 +450,12 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Optimus](https://github.com/ironmussa/Optimus) -使用PySpark后端进行清理，预处理，功能工程，探索性数据分析和简单的ML. 
 * [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持分类，分割，开箱即用的检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
 * [DVC](https://github.com/iterative/dvc)  -开源数据科学版本控制系统.  它有助于跟踪，组织数据科学项目并使之可重现.  在其最基本的方案中，它有助于版本控制以及共享大数据和模型文件.
-* [Lambdo](https://github.com/asavinov/lambdo) 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
+* [Lambdo](https://github.com/asavinov/lambdo) 是一种工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
 * [Feast](https://github.com/feast-dev/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -用于可重现和可扩展的机器学习和深度学习的平台.
 * [LightTag](https://lighttag.io) -团队文字注释工具
 * [Trains](https://github.com/allegroai/trains) -适用于AI的自动魔术实验管理器，版本控制和DevOps
-* [Hopsworks](https://github.com/logicalclocks/hopsworks)  -具有功能存储的开源数据密集型机器学习平台.  摄取和管理在线（MySQL Cluster）和离线（Apache Hive）访问的功能，大规模培训和提供模型.
+* [Hopsworks](https://github.com/logicalclocks/hopsworks)  -具有功能存储的开源数据密集型机器学习平台.  摄取和管理用于在线（MySQL群集）和离线（Apache Hive）访问的功能，大规模培训和提供模型.
 * [MindsDB](https://github.com/mindsdb/mindsdb)  -MindsDB是面向开发人员的可解释AutoML框架.  借助MindsDB，您可以像编写一行代码一样简单地构建，训练和使用最新的ML模型.
 * [Lightwood](https://github.com/mindsdb/lightwood) -一个基于Pytorch的框架，它将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.
 * [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -一个开放源代码的Python程序包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.

@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://seed-rs.org/">
-        <img src="https://raw.githubusercontent.com/seed-rs/awesome-seed-rs/master/logo.svg?sanitize=true" width="256" title="Seed logo">
+        <img src="https://raw.githubusercontent.com/seed-rs/seed-rs.org/81ed1acc77062ede3295683f21f2d39611843192/seed_branding/seed_logo.min.svg" width="256" title="Seed logo">
     </a>
 </p>
 

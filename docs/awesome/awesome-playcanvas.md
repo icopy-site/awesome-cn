@@ -48,7 +48,6 @@
 - [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) -适用于2D动画的PlayCanvas的Spine插件.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) -官方支持的补间动画插件.
 - [tween.js](https://github.com/tweenjs/tween.js/) -流行的JavaScript补间库，可轻松与PlayCanvas集成.
-- [Editor Plus](https://chrome.google.com/webstore/detail/playcanvas-editor-plus/ebedfcjmndjbaboecddbbjjjoleddfap?hl=en) -基本PlayCanvas编辑器扩展的集合.
 - [Pirron One](https://pic.pirron-rodon.one) -实施后期效果，地形创建等的编辑器外设.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) -PlayCanvas API的Sublime Text自动补全功能.
 
@@ -65,15 +64,15 @@
 ## Advertising
 
 - [Billie Eilish](https://site.billieeilish.com/) -在WebGL中重新创建了Billie的卧室.
-- [eBay Report](https://www.ebay-report.de/) -来自eBay德国的统计数据和事实.
+- [eBay Report](https://www.ebay-report.de/) -来自eBay德国的统计和事实.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) -流行的移动游戏的交互式3D广告.
 - [DOOH Invaders](https://vimeo.com/136313614) -世界上最大的太空侵略者克隆在戛纳电影节上亮相.
 - [Ride Along 2](https://vimeo.com/152996271) -使用WebGL宣传好莱坞电影.
-- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) -在伦敦皮卡迪利广场上推广橄榄球世界杯.
+- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) -在伦敦的皮卡迪利广场上推广橄榄球世界杯.
 
 ## Browser Games
 
-- [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) -来自英国广播公司的户外冒险游戏.
+- [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) -来自BBC的这场游戏中的户外探险.
 - [Bomb Town](http://bomb.town/) -MMO Bomberman游戏.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) -通过迪士尼的Moana学习编程基础知识.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) -引导鸟类穿过尽可能多的管道.
@@ -81,11 +80,12 @@
 - [Ink Wars](https://inkwars.io/) -实时多人游戏，您可以在附近绘画以赢得胜利.
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) -3D教育中心.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) -恐龙，乐高玩具和车辆特技.
-- [Mini Royale](https://miniroyale.io/) -经典大逃杀游戏.
+- [Mini Royale 2](https://miniroyale2.io/) -大逃杀第一人称射击游戏.
 - [Monopoly](http://benbean.openode.io/monopoly-io/?play=true) -在3D视频游戏中重新创建了经典的桌游.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) -在一个微小的世界中消灭一波又一波的敌人.
 - [Robostorm](https://robostorm.io/) -Frenetic在线多人机甲对战游戏.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) -在魔法岛上的双翼飞机上捡拾宝石.
+- [TANX](https://tanx.io) -在线多人坦克战游戏.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) -巫毒娃娃模拟器.
 
 ## Messenger Games
@@ -103,7 +103,7 @@
 
 ## Automotive
 
-- [BMW i8](http://car.playcanvas.com) -汽车可视仪.
+- [BMW i8](http://car.playcanvas.com) -汽车可视化仪.
 - [DAB Motors](https://dabmotors.com/configurator/) -摩托车配置器.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) -摩托车配置器.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) -越野车配置器.

@@ -130,7 +130,7 @@
 * [Refactoring Essentials](https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.RefactoringEssentialsforVisualStudio) - The free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers.
 * [ReSharper](https://www.jetbrains.com/resharper/) :copyright: - Extends Visual Studio with on-the-fly code inspections for C#, VB.NET, ASP.NET, JavaScript, TypeScript and other technologies.
 * [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers) -基于Roslyn的FxCop分析仪实施.
-* [Roslyn Security Guard](https://dotnet-security-guard.github.io/) -该项目侧重于识别潜在漏洞，例如SQL注入，跨站点脚本（XSS），CSRF，加密漏洞，硬编码密码等.
+* [Roslyn Security Guard](https://dotnet-security-guard.github.io/) -该项目侧重于识别潜在漏洞，例如SQL注入，跨站点脚本（XSS），CSRF，加密漏洞，硬编码密码等等.
 * [Roslynator](https://github.com/JosefPihrt/Roslynator/) - A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 * [SonarLint for Visual Studio](https://vs.sonarlint.org/) -SonarLint是Visual Studio 2015和2017的扩展，可为开发人员提供实时反馈，以反馈有关.NET代码中注入的新错误和质量问题.
@@ -282,7 +282,7 @@
 * [Hopper](https://github.com/cuplv/hopper) -用scala编写的针对JVM上运行的语言的静态分析工具
 * [HuntBugs](https://github.com/amaembo/huntbugs) :warning: - Bytecode static analyzer tool based on Procyon Compiler Tools aimed to supersede FindBugs.
 * [JArchitect](https://www.jarchitect.com) ：copyright：-测量，查询和可视化您的代码，避免意外的问题，技术负担和复杂性.
-* [JBMC](http://www.cprover.org/jbmc/) -Java的有限模型检查器（字节码），验证用户定义的断言，标准断言，几种覆盖率度量分析
+* [JBMC](http://www.cprover.org/jbmc/) -Java的有限模型检查器（字节码），验证用户定义的断言，标准断言，若干覆盖率度量分析
 * [NullAway](https://github.com/uber/NullAway)  -基于类型的空指针检查器，具有较低的构建时间开销；  一个 [Error Prone](http://errorprone.info/) 插入
 * [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/) -检查依赖项是否存在已知的，公开披露的漏洞.
 * [qulice](https://www.qulice.com/) -结合了一些（预配置）静态分析工具（checkstyle，PMD，Findbugs等）.
@@ -307,7 +307,6 @@
 * [jshint](https://github.com/jshint/jshint) ：警告：-检测JavaScript代码中的错误和潜在问题，并执行团队的编码约定
 * [JSLint](https://github.com/douglascrockford/JSLint) ：警告：-JavaScript代码质量工具
 * [JSPrime](https://github.com/dpnishant/jsprime) -静态安全分析工具
-* [NodeJSScan](https://github.com/ajinabraham/NodeJsScan) -NodeJsScan是用于Node.js应用程序的静态安全代码扫描程序.
 * [plato](https://github.com/es-analysis/plato) -可视化JavaScript源复杂度
 * [Prettier](https://github.com/prettier/prettier) -固执己见的代码格式化程序.
 * [quality](https://github.com/jden/quality) -零配置代码和模块棉绒
@@ -337,7 +336,7 @@
 * [deptrac](https://github.com/sensiolabs-de/deptrac) -强制执行有关软件层之间依赖性的规则.
 * [DesignPatternDetector](https://github.com/Halleck45/DesignPatternDetector) -检测PHP代码中的设计模式
 * [EasyCodingSt和ard](https://github.com/Symplify/EasyCodingSt和ard) -结合 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 和 [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-* [exakat](https://github.com/exakat/exakat) - An automated code reviewing engine for PHP
+* [exakat](https://github.com/exakat/exakat) -用于PHP的自动代码审查引擎
 * [GrumPHP](https://github.com/phpro/grumphp) -每次提交时检查代码
 * [Mondrian](https://github.com/Trismegiste/Mondrian) -使用图论的一组静态分析和重构工具
 * [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) -该工具检查PHP文件的语法的速度比串行检查的速度更快，输出结果也更出色.
@@ -507,7 +506,7 @@
 
 <h2 id="vbscript"> VB脚本</h2>
 
-* [Test Design Studio](http://patterson-consulting.net/tds) ：copyright：-具有静态代码分析功能的完整IDE，用于Micro Focus统一功能测试基于VBScript的自动化测试.
+* [Test Design Studio](http://patterson-consulting.net/tds) ：copyright：-具有静态代码分析功能的完整IDE，用于Micro Focus统一功能测试，基于VBScript的自动化测试.
 
 
 ## Multiple languages
@@ -544,6 +543,7 @@
 * [InsiderSec](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 * [Kiuwan](https://www.kiuwan.com/code-security-sast/) :copyright: - Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more
 * [Klocwork](http://www.klocwork.com/products-services/klocwork) ：copyright：-针对C / C ++，Java和C的质量和安全性静态分析#
+* [NodeJSScan](https://github.com/ajinabraham/NodeJsScan) - NodeJsScan is a static security code scanner for Node.js applications.
 * [oclint](https://github.com/oclint/oclint) -静态源代码分析工具，可提高C，C ++和Objective-C的质量并减少缺陷
 * [pfff](https://github.com/facebook/pfff) -Facebook用于多种语言的代码分析，可视化或保留样式源转换的工具
 * [PMD](https://pmd.github.io/) -Java，Javascript，PLSQL，XML，XSL等的源代码分析器
@@ -576,7 +576,7 @@
 
 * [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
 * [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
-* [Jakstab](https://github.com/jkinder/jakstab) -Jakstab是一个基于抽象解释的集成反汇编和静态分析框架，用于设计可执行文件的分析并恢复可靠的控制流程图.
+* [Jakstab](https://github.com/jkinder/jakstab) -Jakstab是基于抽象解释的集成反汇编和静态分析框架，用于设计可执行文件的分析并恢复可靠的控制流程图.
 * [Twiggy](https://github.com/rustwasm/twiggy)  -分析二进制文件的调用图以分析代码大小.  目标是减少二进制文件.
 
 <h2 id="buildtool">Build tools</h2>
@@ -624,6 +624,10 @@
 * [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) -整理和验证Dockerfile标签
 * [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) -更智能的Dockerfile Linter，可帮助您构建最佳实践Docker映像
 * [kube-score](https://github.com/zegl/kube-score) -Kubernetes对象定义的静态代码分析.
+
+<h2 id="deno">天野</h2>
+
+* [deno_lint](https://github.com/denoland/deno_lint) -迪诺的官方短绒
 
 <h2 id="gherkin">小黄瓜</h2>
 

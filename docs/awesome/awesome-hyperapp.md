@@ -5,7 +5,7 @@
  &gt;在准备发布V2时，我正在准备一个新的“超赞列表”.  请待命！  ：波：
 
 
-精选清单 [Hyperapp](https://hyperapp.dev) 资源. 
+精选清单 [Hyperapp](https://hyperapp.dev) 资源.
 
  要做出贡献，请分叉该存储库，添加惊人的条目并发送给我们PR.  看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 欲获得更多信息.
 
@@ -70,7 +70,7 @@
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) -与Hyperapp的简单CRUD待办事项应用程序.
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) -响应式应用程序，具有简单的登录名和GraphQL.
 * [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) -最小化的Hyperapp，TypeScript和Parcel启动器.
-* [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) -使用LESS和hyperapp-forms最小化webpack Hyperapp设置. 
+* [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) -使用LESS和hyperapp-forms最小化webpack Hyperapp设置.
 * [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) 专注于开发人员经验的Clean PWA Starter-包裹，CSS模块，可靠的配置
 
 ## Examples V1
@@ -114,3 +114,13 @@
 
 * [Deployable](https://github.com/lukejacksonn/deployable) -使用Hyperapp构建的随时可部署的静态Web应用程序模板.
 * [Linkcast](https://github.com/ajaxtown/linkcast) -使用Hyperapp构建的chrome扩展程序，可以共享组中的链接并使用离线功能进行社交.
+
+---
+
+## V2
+
+以下这些资源仅适用于Hyperapp的V2.
+
+## Boilerplates V2
+
+* [bonniss/hyparcel](https://github.com/bonniss/hyparcel) -Hyperapp v2 + TailwindCSS + Parcel样板，在生产中集成了PurgeCSS.

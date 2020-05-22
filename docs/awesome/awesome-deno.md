@@ -49,7 +49,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) -SHA1 / MD5算法.
 - [deno-context](https://github.com/code-hex/deno-context)  -将期限，取消和其他要求范围的值传播给多个承诺.  行为就像Go的上下文.
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) -使Deno程序在后台运行.
--deno-dotenv
+- deno-dotenv
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) -Dotenv行动为deno.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) -从.env加载Deno项目的环境变量.
 - [deno-express](https://github.com/NMathar/deno-express) -将Node Express移植到Deno.
@@ -70,7 +70,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-using](https://github.com/hayd/deno-using) -带有deno语句的python样式.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) -deno的UUID模块.
 - [deno-ws](https://github.com/keroxp/deno-ws) -用于deno.ts的websocket服务器的实验性实现.
-- [deno-websocket](https://github.com/ryo-ma/deno-websocket) -一个简单的WebScoket库，例如node.js库的ws.
+- [deno-websocket](https://github.com/ryo-ma/deno-websocket) -一个简单的WebSocket库，例如node.js库的ws.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) -从segmentio / xml-parser移植的Deno XML解析器.
 - [denotrain](https://github.com/Caesar2011/denotrain) -带有中间件支持的多合一Web框架，如Express或Fastify forNode.js.
 - [dinatra](https://github.com/syumai/dinatra) -Sinatra像deno的轻量级Web应用程序框架.
@@ -110,6 +110,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [watch](https://github.com/jinjor/deno-watch) -文件查看器.
 - [webview](https://github.com/eliassjogreen/deno_webview) -Webview的Deno绑定，这是一个用于创建基于Web的桌面GUI的小型库.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) -差异库，使用wu（O（NP））算法计算两个切片之间的差异.
+- [youtube-deno](https://github.com/akshgpt7/youtube-deno) -YouTube数据API的Deno客户端库，用于与YouTube进行任何交互.
 
 ## Tools
 
@@ -125,7 +126,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [denoversion](https://github.com/lucascaro/denoversion) -Deno的SemVer和git版本管理.
 - [denox](https://github.com/BentoumiTech/denox) -与packages.json脚本类似，但对于具有权限支持的Deno.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) -用于安装和运行Deno的跨平台Makefile.
--maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) A docker image.
+-maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗映像.
 -海德 [deno-docker](https://github.com/hayd/deno-docker) 几个docker映像.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) -使用此扩展程序利用vscode中内置的typedef和intellisense.
 - [dev_server](https://github.com/zhmushan/dev_server) -让TypeScript文件直接在script标签中使用.
@@ -202,6 +203,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 ### Indonesian
 
 - [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
+- [Perkenalan Deno dan Instalasi](https://youtu.be/V_kpUTJSd9c)
 
 ### Japanese
 

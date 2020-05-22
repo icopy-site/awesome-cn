@@ -45,7 +45,7 @@
 - [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) -具有电子流可视化功能的免费，开放源代码在线模拟器（由Paul Falstad重写了原始Java applet）.
 - [EveryCircuit](https://everycircuit.com) -免费试用在线，可视，交互式电路模拟器，以简化电路.
 - [Qucs](http://qucs.sourceforge.net/) -开源，跨平台，非基于SPICE的电路模拟器，具有S参数和谐波平衡功能.
-- [Qucs Studio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) -Qucs的免费，封闭源代码，仅限Windows的fork，具有相似的界面，新引擎和更多功能.
+- [QucsStudio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) -Qucs的免费，封闭源代码，仅限Windows的fork，具有相似的界面，新引擎和更多功能.
 - [Open Circuit Design Software](http://opencircuitdesign.com) -开源，完整的EDA套件芯片设计套件，专注于跟上商业工具的发展.
 - [TINA-TI](http://www.ti.com/tool/TINA-TI) -独家 [DesignSoft-TINA](https://www.tina.com) 与德州仪器模型捆绑在一起的德州仪器（TI）版本.
 - [CppSim](https://www.cppsim.com/) -免费的开源电路模拟器，利用C ++语言实现非常快速的仿真时间.
@@ -64,7 +64,7 @@
 - [Tracespace Viewer](https://tracespace.io/) -Gerber查看器，可让您检查各个图层以及板预览.
 - [Gerblook](https://www.gerblook.org/) -由Gerbv支持的在线Gerber查看器.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) -3D Gerber查看器.
-- [CircuitPeople](https://circuitpeople.com) -Gerbers的2D图层查看器没有多余的装饰，无需过多处理.
+- [CircuitPeople](https://circuitpeople.com) -Gerbers的2D图层查看器没有多余的装饰，没有过多的处理.
 - [Stackrate Viewer](https://stackrate.de/viewer/) -易于使用的在线gerber查看器以及跟踪悬停和测量工具.
 
 ### Installable
@@ -103,7 +103,7 @@
 - [Language PCB](https://github.com/Alhadis/language-pcb) -各种PCB格式的语法突出显示.
 
 ## PCB Batching Services
-- [PCB Shopper](https://pcbshopper.com/) -比较服务，可用于许多不同的PCB批处理和组装服务.
+- [PCBShopper](https://pcbshopper.com/) -比较服务，可用于许多不同的PCB批处理和组装服务.
 - [OSH Park](https://oshpark.com) -低成本PCB批处理服务，带有带有签名紫色丝印的高质量板.
 - [Aisler](https://aisler.net) -在欧洲（德国）制造和运输的价格合理的优质电路板.
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) -低成本PCB批处理服务，以其“脏”质量而自豪.
@@ -116,22 +116,22 @@
 
 
 ## Project Sharing Platforms
-- [Kitspace.org](https://kitspace.org)  -项目共享网站，可帮助您购买零件和重建项目.  开源，真正由您开发.
+- [Kitspace](https://kitspace.org)  -项目共享网站，可帮助您购买零件和重建项目.  开源，真正由您开发.
 - [Hackaday.io](https://hackaday.io) -共享流行博客项目的社交网站.
 - [Hackster.io](https://www.hackster.io/)  -另一个用于共享项目的社交网站.  按平台，主题和产品井井有条.
 - [InventHub](https://inventhub.io/) -基于Git的项目托管和协作平台，用于硬件开发.
-- [CADLab](https://cadlab.io/) -另一个基于Git的项目托管和协作平台，用于硬件开发.
+- [CADLAB](https://cadlab.io/) -另一个基于Git的项目托管和协作平台，用于硬件开发.
 
 
 ## Inventory Management and Purchasing
 - [1-click BOM](https://kitspace.org/1-click-bom/) -自动执行购买和零件搜索的浏览器扩展.
-- [Partsbox.io](https://partsbox.io) -通过良好的用户界面和Octopart集成来管理零件库存的Web服务.
-- [Partkeepr](https://partkeepr.org) -开源Web服务，用于通过参数搜索和自动数据表导入来管理零件库存.
+- [PartsBox](https://partsbox.io) -通过良好的用户界面和Octopart集成来管理零件库存的Web服务.
+- [PartKeepr](https://partkeepr.org) -开源Web服务，用于通过参数搜索和自动数据表导入来管理零件库存.
 - [Part-DB](https://github.com/Part-DB/Part-DB) -另一个开源Web服务，用于使用许可系统和良好的条形码生成器来管理零件库存.
 
 ## Miscellaneous Web Services
-- [Eyrie.io](https://eyrie.io) -用于在线查看Eagle和KiCad设计.
-- [SnapEDA.com](https://www.snapeda.com)  -具有免费符号和封装的零件库.  （与Eagle，KiCad，Altium，OrCad，Allegro等兼容）
+- [Eyrie](https://eyrie.io) -用于在线查看Eagle和KiCad设计.
+- [SnapEDA](https://www.snapeda.com)  -具有免费符号和封装的零件库.  （与Eagle，KiCad，Altium，OrCad，Allegro等兼容）
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) -开源电子开发板以及其他设备和材料的零售商和设计师，并附有出色的教程.
@@ -161,8 +161,8 @@
 
 ## Podcasts
 - [The Amp Hour](https://theamphour.com/) -与Chris Gammel和Dave Jones（EEVBlog）经常进行电子交流，经常与来宾进行交流
-- [Embedded FM](https://embedded.fm/) -Christopher和Elecia White经常与来宾一起讨论嵌入式系统的开发等等.
-- [Sparkgap Podcast](http://thesparkgap.net) -每集都有一个特定的EE主题，有时还会有嘉宾.
+- [Embedded.fm](https://embedded.fm/) -Christopher和Elecia White经常与来宾一起讨论嵌入式系统的开发等等.
+- [The Spark Gap Podcast](http://thesparkgap.net) -每集都有一个特定的EE主题，有时还会有嘉宾.
 - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) -每周播客，来自MacroFab的Parker和Stephen讨论EE主题和行业新闻.
 - [The Engineering Commons Podcast](http://theengineeringcommons.com/) -涵盖从机械到电气的一般工程主题.
 

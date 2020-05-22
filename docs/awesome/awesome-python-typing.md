@@ -38,6 +38,7 @@
 - [pyspark-stubs](https://github.com/zero323/pyspark-stubs) -存根 [PySpark](https://spark.apache.org/docs/latest/api/python/index.html).
 - [pythonista-stubs](https://github.com/hbmartin/pythonista-stubs) -存根 [Pythonista](http://omz-software.com/pythonista/docs/ios/).
 - [wsgitypes](https://github.com/shabbyrobe/wsgitypes)  -输入WSGI应用程序实现者.  这些不是存根文件，它们是您标记为支持的接口，以帮助您进行WSGI一致性检查.
+- [data-science-types](https://github.com/predictive-analytics-lab/data-science-types) -存根 [NumPy](http://github.com/numpy/numpy), [pandas](https://github.com/pandas-dev/pandas)和 [Matplotlib](https://github.com/matplotlib/matplotlib).
 
 ## Backports and improvements
 
@@ -63,7 +64,7 @@
 
 ### Working with types
 
-- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数的运行时类型和返回值，并可以基于运行时收集的类型自动生成存根文件，甚至将草稿类型注释直接添加到您的Python代码中.
+- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数的运行时类型和返回值，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到Python代码中.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) -pytype工具链的一部分，将存根文件应用于源代码.
 - [pyannotate](https://github.com/dropbox/pyannotate) -根据调用参数和运行时观察到的返回类型，将注释插入源代码中.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) -pytest的Pyannotate插件.
