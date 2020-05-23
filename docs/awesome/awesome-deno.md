@@ -49,7 +49,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) -SHA1 / MD5算法.
 - [deno-context](https://github.com/code-hex/deno-context)  -将期限，取消和其他要求范围的值传播给多个承诺.  行为就像Go的上下文.
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) -使Deno程序在后台运行.
-- deno-dotenv
+-deno-dotenv
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) -Dotenv行动为deno.
   - [cardosomarcos/deno-dotenv](https://github.com/cardosomarcos/deno-dotenv) -从.env加载Deno项目的环境变量.
 - [deno-express](https://github.com/NMathar/deno-express) -将Node Express移植到Deno.
@@ -93,12 +93,13 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [normalize_diacritics](https://github.com/motss/deno_mod/tree/master/normalize_diacritics) -删除字符串中的重音符号/变音符号.
 - [oak](https://github.com/oakserver/oak) -用于Deno网络服务器的中间件框架.
 - [online](https://github.com/denorg/online) -检查您当前是否在Deno在线.
+- [opine](https://github.com/asos-craigmorten/opine) -从ExpressJS移植的快速，简约的Web框架.
 - [path](https://github.com/denoland/deno_std/tree/master/fs/path) -Deno Path操作库.
 - [pogo](https://github.com/sholladay/pogo) -Deno的服务器框架.
 - [postgres](https://github.com/buildondata/deno-postgres) -PostgreSQL数据库驱动程序.
 - [qrcode](https://github.com/denorg/qrcode) -用于Deno的QR码图像生成器.
 - [qs](https://github.com/denolib/qs) -具有嵌套支持的查询字符串解析器.
-- [recursive-readdir](https://github.com/denorg/recursive-readdir) -在Deno中递归读取目录.
+- [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) -从移植的SAX样式的XML解析器 [sax-js](https://github.com/isaacs/sax-js).
 - [servest](https://github.com/keroxp/servest) -渐进式HTTP服务器/路由器.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) -sql查询生成器.
@@ -137,6 +138,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) -用Deno编写的Elm Live Reloader.
 - [nessie](https://github.com/halvardssm/deno-nessie) -为PostgreSQL，MySQL和SQLite创建，迁移和回滚迁移.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) -一个Packer插件，可轻松使用Deno脚本构建虚拟机映像.
+- [pagic](https://github.com/xcatliu/pagic) -使用Mark Deno构建的Markdown生成静态html页面的最简单方法.
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 - [starter](https://github.com/denorg/starter) -带有GitHub Actions CI的Deno模块入门模板
 - [task-runner](https://github.com/jinjor/deno-task-runner) -像npm脚本一样编写任务.
@@ -156,6 +158,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [Deno on Cloud Run](https://medium.com/google-cloud/deno-on-cloud-run-89ae64d1664d)
 - [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
 - [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
+- [Create a simple Note-taking app with Deno](https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g)
 
 ## Presentations
 

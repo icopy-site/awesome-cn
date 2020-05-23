@@ -138,7 +138,7 @@
 - [Elixir](https://github.com/h4cc/awesome-elixir#readme)
 - [Elm](https://github.com/sporto/awesome-elm#readme)
 - [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
-- [Julia](https://github.com/svaksha/Julia.jl#readme)
+- [Julia](https://github.com/svaksha/Julia.jl#readme) -旨在满足高性能数值分析和计算科学需求的高级动态编程语言.
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) -倾向于系统编程和嵌入式，资源受限的软件的通用语言.
@@ -249,7 +249,7 @@
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) -实用程序优先的CSS框架，用于快速的UI开发.
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) -用于创建在WebAssembly中运行的Web应用程序的Rust框架.
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) -确保网站某些性能指标的技术.
-- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) -使用JavaScript，CSS，SVG等的浏览器中的动画.
+- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) -浏览器中具有JavaScript，CSS，SVG等的动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) -受Elm和React启发的Rust框架，用于使用WebAssembly创建多线程前端Web应用程序.
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，可以更快，更轻松地进行Web开发.
 
@@ -608,7 +608,7 @@
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
-- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) -对于数字设计师.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) -编写具有表现力的东西，而不是编写功能性的东西.
@@ -665,6 +665,6 @@
 ## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
-- [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
+- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) -使用浏览器扩展程序从Awesome数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) -一个简单的命令行工具，可以深入研究真棒列表.

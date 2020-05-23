@@ -49,7 +49,7 @@
 
 *用于实施身份验证方案的库.*
 
-* [authboss](https://github.com/volatiletech/authboss)  -用于网络的模块化身份验证系统.  它会尝试删除尽可能多的样板文件和“硬东西”，以便每次在Go中启动新的Web项目时，都可以将其插入，配置并开始构建应用程序，而不必每次都构建身份验证系统.
+* [authboss](https://github.com/volatiletech/authboss)  -用于网络的模块化身份验证系统.  它尝试删除尽可能多的样板文件和“硬东西”，以便每次在Go中启动新的Web项目时，都可以将其插入，配置并开始构建应用程序，而不必每次都构建身份验证系统.
 * [branca](https://github.com/hako/branca) -Branca令牌的实施.
 * [casbin](https://github.com/hsluoyz/casbin) -支持访问控制模型（如ACL，RBAC，ABAC）的授权库.
 * [cookiestxt](https://github.com/mengzhuo/cookiestxt) -提供cookies.txt文件格式的解析器.
@@ -238,12 +238,12 @@
 * [duci](https://github.com/duck8823/duci) -简单的CI服务器无需域特定语言.
 * [gomason](https://github.com/nikogura/gomason) -在干净的工作区中测试，构建，签名和发布go二进制文件.
 * [goveralls](https://github.com/mattn/goveralls) -整合Coverovers.io连续代码覆盖率跟踪系统.
-* [overalls](https://github.com/go-playground/overalls) -多包goover项目Coverprofile，用于管理工具.
+* [overalls](https://github.com/go-playground/overalls) -多套件goover项目Coverprofile，用于管理工具.
 * [roveralls](https://github.com/LawrenceWoodman/roveralls) -递归覆盖率测试工具.
 
 ## CSS Preprocessors
 
-*用于预处理CSS文件的库.*
+*Libraries for preprocessing CSS files.*
 
 * [gcss](https://github.com/yosssi/gcss) -Pure Go CSS预处理器.
 * [go-libsass](https://github.com/wellington/go-libsass) -包装到100％Sass兼容的libsass项目.
@@ -623,7 +623,7 @@
 * [flop](https://github.com/homedepot/flop) -文件操作库，旨在与功能镜像相同 [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
 * [go-csv-tag](https://github.com/artonge/go-csv-tag) -使用标签加载csv文件.
 * [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) -复制人类文件.
-* [go-exiftool](https://github.com/barasher/go-exiftool) -ExifTool的绑定，该库是著名的库，用于从文件（图片，PDF，office等）中提取尽可能多的元数据（EXIF，IPTC等）.
+* [go-exiftool](https://github.com/barasher/go-exiftool) -对ExifTool进行绑定，该库是著名的库，用于从文件（图片，PDF，Office等）中提取尽可能多的元数据（EXIF，IPTC等）.
 * [go-gtfs](https://github.com/artonge/go-gtfs) -在go中加载gtfs文件.
 * [gut/yos](https://github.com/1set/gut) -简单可靠的文件操作包，例如文件，目录和符号链接上的复制/移动/差异/列表.
 * [notify](https://github.com/rjeczalik/notify) -具有简单API的文件系统事件通知库，类似于os / signal.
@@ -633,7 +633,7 @@
 * [skywalker](https://github.com/dixonwille/skywalker) -允许一个人同时轻松地通过文件系统的软件包.
 * [stl](https://gitlab.com/russoj88/stl)  -读取和写入STL（立体光刻）文件的模块.  并发读取算法.
 * [tarfs](https://github.com/posener/tarfs) -实施 [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) 用于tar文件.
-* [vfs](https://github.com/C2FO/vfs) -跨多种文件系统类型（例如os，S3和GCS）的Go的一组可插拔，可扩展且自以为是的文件系统功能.
+* [vfs](https://github.com/C2FO/vfs) -跨多种文件系统类型（例如os，S3和GCS）的Go的一组可插拔，可扩展且自觉的文件系统功能.
 
 ## Financial
 
@@ -929,7 +929,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [gomol](https://github.com/aphistic/gomol) -具有可扩展日志输出的Go的多输出，结构化日志.
 * [gone/log](https://github.com/One-com/gone/tree/master/log) -快速，可扩展，全功能，std-lib源兼容的日志库.
 * [journald](https://github.com/ssgreg/journald) -实施systemd Journal的本机API进行日志记录.
-* [log](https://github.com/aerogo/log) -O（1）日志记录系统，使您可以将一个日志连接到多个写入器（例如，stdout，文件和TCP连接）.
+* [log](https://github.com/aerogo/log) -O（1）日志记录系统，使您可以将一个日志连接到多个编写器（例如stdout，文件和TCP连接）.
 * [log](https://github.com/apex/log) -Go的结构化日志包.
 * [log](https://github.com/go-playground/log) -简单，可配置和可扩展的Go结构化日志记录.
 * [log](https://github.com/teris-io/log) -Go的结构化日志界面将日志记录外观与其实现完全分开.
@@ -1009,7 +1009,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [APNs2](https://github.com/sideshow/apns2) -Go的HTTP / 2 Apple Push Notification提供程序—将推送通知发送到iOS，tvOS，Safari和OSX应用程序.
 * [Asynq](https://github.com/hibiken/asynq) -在Redis之上构建的Go的简单，可靠和高效的分布式任务队列.
 * [Beaver](https://github.com/Clivern/Beaver) -实时消息传递服务器，用于构建可扩展的应用程序内通知，多人游戏，Web和移动应用程序中的聊天应用程序.
-* [Benthos](https://github.com/Jeffail/benthos) - A message streaming bridge between a range of protocols.
+* [Benthos](https://github.com/Jeffail/benthos) -一系列协议之间的消息流桥.
 * [Bus](https://github.com/mustafaturan/bus) -用于内部通信的极简消息总线实现.
 * [Centrifugo](https://github.com/centrifugal/centrifugo) -Go中的实时消息传递（Websockets或SockJS）服务器.
 * [Commander](https://github.com/jeroenrinzema/commander) -由事件驱动的高级消费者/生产者，支持各种“方言”，例如Apache Kafka.
@@ -1078,7 +1078,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [fx](https://github.com/uber-go/fx) -用于Go的基于依赖项注入的应用程序框架（建立在dig之上）.
 * [gocontainer](https://github.com/vardius/gocontainer) -简单的依赖注入容器.
 * [linker](https://github.com/logrange/linker) -基于反射的依赖项注入和具有组件生命周期支持的控制库反转.
-* [wire](https://github.com/Fs02/wire) -严格的Golang运行时依赖注入.
+* [wire](https://github.com/Fs02/wire) -Golang的严格运行时依赖注入.
 
 ### Project Layout
 
@@ -1288,6 +1288,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go-firestorm](https://github.com/jschoedt/go-firestorm) -适用于Google / Firebase Cloud Firestore的简单ORM.
 * [go-pg](https://github.com/go-pg/pg) -专注于PostgreSQL特定功能和性能的PostgreSQL ORM.
 * [go-queryset](https://github.com/jirfag/go-queryset) -100％类型安全的ORM，具有代码生成功能以及基于GORM的MySQL，PostgreSQL，Sqlite3和SQL Server支持.
+* [go-sql](https://github.com/rushteam/gosql) -适用于mysql的简单ORM.
 * [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) -灵活而强大的SQL字符串构建器库以及零配置ORM.
 * [go-store](https://github.com/gosuri/go-store) -用于Go的简单快速的Redis支持的键值存储库.
 * [GORM](https://github.com/jinzhu/gorm) -出色的Golang ORM库，旨在对开发人员友好.
@@ -1631,7 +1632,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [inject](https://github.com/facebookgo/inject) -包装注入提供基于反射的注入器.
     * [ltsv](https://github.com/Wing924/ltsv) -高性能 [LTSV (Labeled Tab Separeted Value)](http://ltsv.org/) Go的阅读器.
     * [mxj](https://github.com/clbanning/mxj)  -将XML编码/解码为JSON或map [string] interface {};  提取带点符号路径和通配符的值.  替换x2j和j2x软件包.
-    * [pagser](https://github.com/foolin/pagser) -Pagser是一个简单，可扩展，可配置的解析和反序列化html页面，以基于golang搜寻器的goquery和struct标签的结构.
+    * [pagser](https://github.com/foolin/pagser) -Pagser是一个简单，可扩展，可配置的解析和反序列化html页面，用于基于golang爬虫的goquery和struct标签的结构.
     * [podcast](https://github.com/eduncan911/podcast) -Golang中的iTunes兼容和RSS 2.0播客生成器
     * [sdp](https://github.com/gortc/sdp) -SDP：会话描述协议 [[RFC 4566](https://tools.ietf.org/html/rfc4566)].
     * [sh](https://github.com/mvdan/sh) -Shell解析器和格式化程序.
@@ -1835,7 +1836,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [olaf](https://github.com/btnguyen2k/olaf) -Go中实现了Twitter Snowflake.
 * [onecache](https://github.com/adelowo/onecache) -缓存库，支持多个后端存储（Redis，Memcached，文件系统等）.
 * [panicparse](https://github.com/maruel/panicparse) -将类似的goroutine分组并为堆栈转储着色.
-* [pattern-match](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matching libray.
+* [pattern-match](https://github.com/alexpantyukhin/go-pattern-match) -模式匹配libray。
 * [peco](https://github.com/peco/peco) -简化的交互式过滤工具.
 * [pgo](https://github.com/arthurkushman/pgo) -PHP社区的便捷功能.
 * [pm](https://github.com/VividCortex/pm) -具有HTTP API的进程（即goroutine）管理器.
@@ -1900,7 +1901,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [govalidator](https://github.com/asaskevich/govalidator) -用于字符串，数字，切片和结构的验证器和消毒器.
 * [govalidator](https://github.com/thedevsaddam/govalidator)  -使用简单的规则验证Golang请求数据.  受到Laravel请求验证的极大启发.
 * [jio](https://github.com/faceair/jio) -jio是类似于json模式验证器 [joi](https://github.com/hapijs/joi).
-* [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) -支持使用在常规代码结构中指定的可配置和可扩展的验证规则（而不是struct标记）来验证各种数据类型（结构，字符串，映射，切片等）.
+* [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) -支持使用在常规代码结构中指定的可配置和可扩展验证规则（而不是struct标签）验证各种数据类型（结构，字符串，映射，切片等）.
 * [terraform-validator](https://github.com/thazelart/terraform-validator) -Terraform的规范和约定验证器.
 * [validate](https://github.com/gookit/validate)  -进行数据验证和过滤的软件包.  支持验证Map，Struct，Request（Form，JSON，url.Values，Uploaded Files）数据和更多功能.
 * [validate](https://github.com/gobuffalo/validate) -该软件包提供了用于编写Go应用程序验证的框架.
@@ -2022,7 +2023,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [gocraft/web](https://github.com/gocraft/web) -Go中的Mux和中间件软件包.
 * [Goji](https://github.com/goji/goji) -Goji是一种简约灵活的HTTP请求多路复用器，支持`net / context`.
 * [goroute](https://github.com/goroute/route) -简单但功能强大的HTTP请求多路复用器.
-* [GoRouter](https://github.com/vardius/gorouter) -GoRouter是一个服务器/ API微型框架，HTTP请求路由器，多路复用器，多路复用器，为请求路由器提供支持“ net / context”的中间件.
+* [GoRouter](https://github.com/vardius/gorouter) -GoRouter是一种服务器/ API微型框架，HTTP请求路由器，多路复用器，多路复用器，为请求路由器提供支持“ net / context”的中间件.
 * [gowww/router](https://github.com/gowww/router) -快速的HTTP路由器与net / http.Handler接口完全兼容.
 * [httprouter](https://github.com/julienschmidt/httprouter)  -高性能路由器.  使用它和标准的http处理程序可以形成一个非常高性能的Web框架.
 * [httptreemux](https://github.com/dimfeld/httptreemux)  -用于Go的高速，灵活的基于树的HTTP路由器.  来自httprouter的启发.
@@ -2199,7 +2200,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [s5cmd](https://github.com/peak/s5cmd) -快速的S3和本地文件系统执行工具.
 * [Scaleway-cli](https://github.com/scaleway/scaleway-cli) -从命令行管理BareMetal服务器（与Docker一样容易）.
 * [script](https://github.com/bitfield/script) -轻松在Go中为DevOps和系统管理任务编写类似shell的脚本.
-* [sg](https://github.com/ChristopherRabotin/sg) -对一组HTTP端点（例如ab）进行基准测试，并可以根据其先前的响应在每次调用之间将响应代码和数据用于特定的服务器压力.
+* [sg](https://github.com/ChristopherRabotin/sg) -对一组HTTP端点（例如ab）进行基准测试，并可以根据其先前的响应在每次调用之间使用响应代码和数据来满足特定的服务器压力.
 * [skm](https://github.com/TimothyYe/skm) -SKM是一个简单而强大的SSH密钥管理器，它可以帮助您轻松管理多个SSH密钥！
 * [StatusOK](https://github.com/sanathp/statusok) -监视您的网站和REST API.当服务器关闭或响应时间超出预期时，通过Slack，电子邮件获得通知.
 * [terraform-provider-openapi](https://github.com/dikhan/terraform-provider-openapi) -Terraform provider插件，该插件根据包含公开API定义的OpenAPI文档（以前称为swagger文件）在运行时动态进行自我配置.
@@ -2424,7 +2425,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [godoc.org](https://godoc.org/) -开源Go软件包的文档.
 * [Golang Developer Jobs](https://golangjob.xyz) - Developer Jobs exclusivly for Golang related Roles.
 * [Golang Flow](https://golangflow.io) -发布更新，新闻，软件包等.
-* [Golang News](https://golangnews.com) -有关Go编程的链接和新闻.
+* [Golang News](https://golangnews.com) - Links and news about Go programming.
 * [golang-graphics](https://github.com/mholt/golang-graphics) -收集Go图片，图形和艺术品.
 * [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) -转到邮件列表.
 * [Google Plus Community](https://plus.google.com/communities/114112804251407510571) - The Google+ community for #golang enthusiasts.

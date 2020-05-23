@@ -243,6 +243,8 @@
 ### Deserialization
 
 - [What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.](https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/) -由 [@breenmachine](https://twitter.com/breenmachine).
+- [Attacking .NET deserialization](https://www.youtube.com/watch?v=eDfGpu3iE4Q) -由 [@pwntester](https://twitter.com/pwntester).
+- [.NET Roulette: Exploiting Insecure Deserialization in Telerik UI](https://www.youtube.com/watch?v=--6PiuvBGAU) -由 [@noperator](https://twitter.com/noperator).
 
 <a name="oauth"></a>
 ### OAuth
@@ -614,7 +616,7 @@
 - [sqlchop](https://sqlchop.chaitin.cn/) -SQL注入检测引擎 [chaitin](http://chaitin.com).
 - [xsschop](https://xsschop.chaitin.cn/) -XSS检测引擎 [chaitin](http://chaitin.com).
 - [retire.js](https://github.com/RetireJS/retire.js) -扫描程序通过以下方式检测对已知漏洞的JavaScript库的使用： [@RetireJS](https://github.com/RetireJS).
-- [malware-jail](https://github.com/HynekPetrak/malware-jail) -沙箱，用于通过以下方式进行半自动的Javascript恶意软件分析，去混淆和有效载荷提取 [@HynekPetrak](https://github.com/HynekPetrak).
+- [malware-jail](https://github.com/HynekPetrak/malware-jail) -沙箱，用于半自动Java恶意软件分析，去混淆和有效载荷提取， [@HynekPetrak](https://github.com/HynekPetrak).
 - [repo-supervisor](https://github.com/auth0/repo-supervisor) -扫描您的代码以检查安全性配置错误，搜索密码和机密.
 - [bXSS](https://github.com/LewisArdern/bXSS) -bXSS是一个简单的Blind XSS应用程序，适用于 [cure53.de/m](https://cure53.de/m) 通过 [@LewisArdern](https://github.com/LewisArdern).
 - [OpenRASP](https://github.com/baidu/openrasp)  -百度公司积极维护的开源RASP解决方案.借助上下文感知检测算法，该项目几乎没有出现误报.  在高服务器负载下，性能下降不到3％.

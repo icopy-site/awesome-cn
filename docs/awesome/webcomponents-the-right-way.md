@@ -95,8 +95,10 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
 - [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
+- [Hiding internal framework methods and properties from web component APIs](https://component.kitchen/blog/posts/hiding-internal-framework-methods-and-properties-from-web-component-apis)
 - [How to deliver Custom Elements](https://medium.com/@WebReflection/how-to-deliver-custom-elements-702fae32d25c)
 - [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
+- [Supporting both automatic and manual registration of custom elements](https://component.kitchen/blog/posts/supporting-both-automatic-and-manual-registration-of-custom-elements)
 - [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
 
 ### Best Practices
@@ -125,8 +127,9 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### Styling
 
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
-- [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
 - [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
+- [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
+- [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
 
 ### Interoperability
 
@@ -160,19 +163,37 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Web Components at Scale at Salesforce: Challenges Encountered, Lessons Learnt](https://www.infoq.com/news/2020/03/web-components-salesforce-lwc/)
 - [web.dev engineering blog #1: How we build the site and use Web Components](https://web.dev/how-we-build-webdev-and-use-web-components/)
 
-### Presentations
+### Component Libraries
 
-- [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) 通过 [@lostinbrittany](https://twitter.com/lostinbrittany)
-- [Designing St和ard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) 通过 [@stefsull](https://twitter.com/stefsull) 和 [@bferrua](https://twitter.com/bferrua)
-- [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) 通过 [@salem_cobalt](https://twitter.com/salem_cobalt)
-- [lit-apollo: Data-Driven Components that Use the Platform](https://apolloelements.dev/using-lit-apollo/) 通过 [@PowersBenny](https://twitter.com/PowersBenny)
-- [Mastering Shadow DOM](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom) 通过 [@Martine_Dowden](https://twitter.com/Martine_Dowden)
-- [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) 通过 [@samjulien](https://twitter.com/samjulien)
-- [Using Web Components to Build a Framework-agnostic UI Library](https://gotochgo.com/2019/sessions/866/using-web-components-to-build-a-framework-agnostic-ui-library) 通过 [@brianbouril](https://twitter.com/brianbouril) 和 [@danciupuliga](https://twitter.com/danciupuliga)
-- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) 通过 [@LeonieWatson](https://twitter.com/LeonieWatson)
-- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-通过-bashmish-FrontMania-2018.pdf) 通过 [@bashmish](https://twitter.com/bashmish)
-- [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) 通过 [@vogloblinsky](https://twitter.com/vogloblinsky)
-- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides-mar2020/) 通过 [@webcomp_dev](https://twitter.com/webcomp_dev)
+- [AMP](https://github.com/ampproject/amphtml) -Web组件框架，可轻松创建用户优先的网站，故事，广告，电子邮件等.
+- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) -使用Web组件构建的AXA CH UI组件库.
+- [Brightspace UI core](https://github.com/BrightspaceUI/core) -收集用于构建Brightspace应用程序的Web组件.
+- [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
+- [DataFormsJS](https://github.com/dataformsjs/dataformsjs) -用于SPA路由，显示来自Web服务的数据等的独立组件.
+- [Elix](https://github.com/elix/elix) -用于通用用户界面模式的高质量，可定制的Web组件.
+- [Lion Web Components](https://github.com/ing-bank/lion) -一组高性能，可访问且灵活的Web组件.
+- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
+- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
+- [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) -用于使用Web组件通过Nuxeo构建Web应用程序的组件.
+- [Tradeshift Elements](https://github.com/Tradeshift/elements) -可重用的Tradeshift UI组件作为Web组件.
+- [Vaadin components](https://github.com/vaadin/vaadin) -用于构建业务Web应用程序的不断发展的高质量Web组件集.
+- [Wired Elements](https://github.com/wiredjs/wired-elements) -手绘，粗略外观的一组通用UI元素.
+- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) -Arduino和各种电子零件的Web组件.
+
+### Design Systems
+
+- [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
+- [Calcite Components](https://github.com/Esri/calcite-components) -用于Esri的Calcite设计框架的共享Web组件.
+- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
+- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统收集与框架无关的元素.
+- [Helix UI](https://github.com/HelixDesignSystem/helix-ui) -Helix设计系统的Web组件库.
+- [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
+- [NuML | NUDE Elements](https://github.com/tenphi/numl) -基于Web组件和运行时CSS生成的HTML框架和设计系统.
+- [PatternFly Elements](https://github.com/patternfly/patternfly-elements) -基于统一设计套件的灵活轻量级Web组件集合.
+- [Pearson Web Components](https://github.com/pearson-ux/web-components) -Pearson的共享组件库实现了Gravity设计系统.
+- [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用Web组件构建的Adobe Spectrum设计语言实现.
+- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -实施SAP Fiori设计准则的可重用UI元素集.
+- [Zooplus web components](https://github.com/zooplus/zoo-web-components) -实现Z +商店样式指南的一组Web组件.
 
 ### Use Cases
 
@@ -227,35 +248,6 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component-april2020/)
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) -带有各种示例的基准Web组件技术.
 - [web-components-todo](https://wc-todo.firebaseapp.com/) -出于不同基准目的，在不同的Web组件库中构建了相同的todo应用程序.
-
-## Component Libraries
-
-- [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
-- [AMP HTML](https://github.com/ampproject/amphtml) -Web组件库，用于构建以可靠，快速的性能呈现的网页.
-- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) -使用Web组件构建的AXA CH UI组件库.
-- [Brightspace UI core](https://github.com/BrightspaceUI/core) -收集用于构建Brightspace应用程序的Web组件.
-- [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
-- [Calcite Components](https://github.com/Esri/calcite-components) -用于Esri的Calcite设计框架的共享Web组件.
-- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
-- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统收集与框架无关的元素.
-- [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
-- [Elix](https://github.com/elix/elix) -用于通用用户界面模式的高质量，可定制的Web组件.
-- [Helix UI](https://github.com/HelixDesignSystem/helix-ui) -Helix设计系统的Web组件库.
-- [Lion Web Components](https://github.com/ing-bank/lion) -一组高性能，可访问且灵活的Web组件.
-- [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
-- [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
-- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
-- [NuML | NUDE Elements](https://github.com/tenphi/numl) -基于Web组件和运行时CSS生成的HTML框架和设计系统.
-- [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) -用于使用Web组件通过Nuxeo构建Web应用程序的组件.
-- [PatternFly Elements](https://github.com/patternfly/patternfly-elements) -灵活，轻量级的Web组件以及构建它们的工具的集合.
-- [Pearson Web Components](https://github.com/pearson-ux/web-components) -Pearson的可共享组件库可帮助开发人员构建一致的UI.
-- [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用Web组件构建的Adobe Spectrum设计语言实现.
-- [Tradeshift Elements](https://github.com/Tradeshift/elements) -可重用的Tradeshift UI组件作为Web组件.
-- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -组件库在本地API的基础上提供了企业风味的糖.
-- [Vaadin components](https://github.com/vaadin/vaadin) -用于构建业务Web应用程序的不断发展的高质量Web组件集.
-- [Wired Elements](https://github.com/wiredjs/wired-elements) -手绘，粗略外观的一组通用UI元素.
-- [Wokwi Elements](https://github.com/wokwi/wokwi-elements) -Arduino和各种电子零件的Web组件.
-- [Zooplus web components](https://github.com/zooplus/zoo-web-components) -实现Z +商店样式指南的一组Web组件.
 
 ## Frameworks
 
@@ -339,10 +331,26 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
   - [Part IV: Content Projection with Slots in Angular Elements (>=7)](https://www.angulararchitects.io/aktuelles/content-projection-with-slots-in-angular-elements-7/)
   - [Part V: Your Options for Building Angular Elements with the CLI](https://www.angulararchitects.io/aktuelles/your-options-for-building-angular-elements/)
 
-## Podcasts
+## Insights
+
+### Podcasts
 
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
 - [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
+
+### Presentations
+
+- [Are Web Components the Betamax of web development?](https://noti.st/lostinbrittany/EjUZyd/are-web-components-the-betamax-of-web-development) 通过 [@lostinbrittany](https://twitter.com/lostinbrittany)
+- [Designing St和ard Systems](https://drive.google.com/file/d/1ALFiWOFU0UAGUpaZPMIVnoADs9_REtL5/view) 通过 [@stefsull](https://twitter.com/stefsull) 和 [@bferrua](https://twitter.com/bferrua)
+- [Frontend Architecture for Scalable Design Systems](https://events.drupal.org/seattle2019/sessions/design-system-architecture-pattern-lab-twig-and-web-components) 通过 [@salem_cobalt](https://twitter.com/salem_cobalt)
+- [lit-apollo: Data-Driven Components that Use the Platform](https://apolloelements.dev/using-lit-apollo/) 通过 [@PowersBenny](https://twitter.com/PowersBenny)
+- [Mastering Shadow DOM](https://martine-dowden.github.io/portfolio/presentation/mastering-shadow-dom) 通过 [@Martine_Dowden](https://twitter.com/Martine_Dowden)
+- [Modernizing Large Frontends with Web Components](https://speakerdeck.com/samjulien/modernizing-large-frontends-with-web-components) 通过 [@samjulien](https://twitter.com/samjulien)
+- [Using Web Components to Build a Framework-agnostic UI Library](https://gotochgo.com/2019/sessions/866/using-web-components-to-build-a-framework-agnostic-ui-library) 通过 [@brianbouril](https://twitter.com/brianbouril) 和 [@danciupuliga](https://twitter.com/danciupuliga)
+- [Web Components and the AOM](https://decks.tink.uk/2019/jsconf/index.html) 通过 [@LeonieWatson](https://twitter.com/LeonieWatson)
+- [Web Components and Styles Scoping](https://www.dropbox.com/s/wdh9uufjui5htll/Web-Components-and-Styles-Scoping-通过-bashmish-FrontMania-2018.pdf) 通过 [@bashmish](https://twitter.com/bashmish)
+- [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) 通过 [@vogloblinsky](https://twitter.com/vogloblinsky)
+- [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides-mar2020/) 通过 [@webcomp_dev](https://twitter.com/webcomp_dev)
 
 ## Usage Metrics
 

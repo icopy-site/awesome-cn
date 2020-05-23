@@ -4,12 +4,9 @@
 
 精选的优秀公司列表，这些公司免费向开源和公共项目提供其工具和服务.
 
-**注意：虽然有许多公司拥有出色的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源码社区做出公开承诺的组织.**
+**注意：尽管有许多公司拥有出色的免费套餐（例如Slack），但此列表特别关注那些通过其他产品对开放源代码社区做出公开承诺的组织.**
 
 
-
-## Chat
-- [Zulip](https://zulip.com) `requires-approval`-为分布式团队聊天.
 
 ## Code Coverage
 
@@ -51,9 +48,9 @@
 
 ## Dependency Management
 
-- [Dependabot](https://dependabot.com/) -自动化的Ruby，Python，JavaScript和PHP依赖更新.
+- [Dependabot](https://dependabot.com/) -自动化的Ruby，Python，JavaScript和PHP依赖关系更新.
 - [gemnasium](https://gemnasium.com/) -自动化的依赖管理.
-- [Greenkeeper](https://greenkeeper.io/) -NPM软件包的自动化依赖关系管理（在GitHub上）.
+- [Greenkeeper](https://greenkeeper.io/) -NPM软件包的自动化依赖管理（在GitHub上）.
 - [pyup.io](https://pyup.io/) -Python依赖管理.
 - [Snyk](https://snyk.io/) -持续的依赖项漏洞评估.
 - [Tachikoma.io](http://tachikoma.io/) -依赖关系更新即服务.
@@ -83,7 +80,7 @@
 
 ## Monitoring
 
-- [Check my Website](https://checkmy.ws/) `requires-approval`-自动化的网站监控.
+- [Check my Website](https://checkmy.ws/) `requires-approval`-自动化网站监控.
 - [DNS Spy](https://dnsspy.io/) `requires-approval`-DNS监视.
 - [Healthchecks.io](https://healthchecks.io/) `requires-approval`-Cron作业监控.
 
@@ -114,7 +111,7 @@
 - [Cloud9](https://c9.io/) -基于云的开发环境.
 - [Codota](https://www.codota.com/) -AI对编程助手.
 - [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval`-开源项目的SSL证书.
-- [Helpmonks](https://helpmonks.com/) `requires-approval`-协作团队的电子邮件收件箱.
+- [Helpmonks](https://helpmonks.com/) `requires-approval`-协作小组电子邮件收件箱.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval``non-commercial`-专门创建智能开发工具的软件供应商.
 - [Libraries.io](https://libraries.io/) -开源发现服务.
 - [Mailtrap](https://mailtrap.io/) `requires-approval`-伪造的SMTP测试服务器.
@@ -123,6 +120,7 @@
 - [Siteleaf](https://www.siteleaf.com/) -静态网站的CMS.
 - [testmail.app](https://testmail.app/) `requires-approval`-使用无限的邮箱和GraphQL API自动进行端到端电子邮件测试.
 - [Transloadit](https://transloadit.com/) `requires-approval`-用于文件上传和编码的API.
+- [Zulip](https://zulip.com) `requires-approval`-为分布式团队聊天.
 
 ## Contributing
 
@@ -132,7 +130,7 @@
 
 ### `requires-approval`
 
- 尽管许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但仍有其他公司需要更多验证.  这些公司都标有“需要批准”标签，表明需要利用其开源优势的申请流程.
+ 尽管许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但仍有其他公司需要更多验证.  这些公司都标有“ requires-approval”标签，表明需要利用其开源优势的申请流程.
 
 ### `non-commercial`
 

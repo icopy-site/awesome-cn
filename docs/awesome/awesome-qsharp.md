@@ -44,6 +44,8 @@ A list of Q# code and resources.
 - [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/contest/1116)
 - [Microsoft Q# Coding Contest (Winter 2019) Warmup Round](https://codeforces.com/contest/1115)
 -的解决方案说明 [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/blog/entry/65702) 而对于 [Warmup Round](https://assets.codeforces.com/rounds/1115/warmup-editorial.pdf)
+- [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/contest/1357)
+- [Microsoft Q# Coding Contest (Summer 2020) Warmup Round](https://codeforces.com/contest/1356)
 
 ### Participants' solutions
 - [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)

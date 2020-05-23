@@ -61,8 +61,8 @@
 
 ### Automation
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer/) -Node.js提供了高级API，可通过DevTools协议控制无头Chrome.
-  -Python端口： [pyppeteer](https://github.com/miyakogi/pyppeteer)
-  -防锈端口： [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
+  -Python端口： [pyppeteer](https://github.com/pyppeteer/pyppeteer)
+  -休息端口： [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
   -.NET端口： [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
   - [headless-devtools](https://github.com/cowchimp/headless-devtools) -Puppeteer插件可获取CSS Coverage或JS Heap快照.
 - [Taiko](https://github.com/getgauge/taiko/) -一个Node.js模块，可使用DevTools协议自动执行chrome / chromium.
@@ -116,7 +116,7 @@
 #### Node.js
 - [ndb](https://github.com/GoogleChromeLabs/ndb) -使用DevTools前端改善了Node.js调试体验.
 - [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) -有关在Node v6.3 +中使用完整调试和性能分析支持的指南.
-- [thetool](https://github.com/sfninja/thetool) -CPU，内存，覆盖率，使用Node进行类型分析.
+- [thetool](https://github.com/sfninja/thetool) -CPU，内存，覆盖率，节点类型分析.
 - [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) -Chrome随附的前端镜像.
 
 ---
@@ -152,7 +152,7 @@
 ### Performance
 - [Chrome React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm) -react-addons-perf软件包的操作接口.
 - [sloth](https://github.com/denar90/sloth) -Chrome扩展程序可以启用和保存选定标签的CPU和网络限制.
-- [TracerBench](https://github.com/TracerBench/tracerbench) -TracerBench是用于Web应用程序的受控性能基准测试工具，可提供对性能增量的清晰，可操作和有用的见解.
+- [TracerBench](https://github.com/TracerBench/tracerbench) -TracerBench是用于Web应用程序的受控性能基准测试工具，可提供对性能增量的清晰，可操作和可用的见解.
 
 ---
 

@@ -79,9 +79,9 @@
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
 - [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统收集与框架无关的元素.
-- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
+- [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs的Web组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
-- [Ink Components](https://github.com/ink-components/ink-components) -用于交互式科学写作的Web组件.
+- [Iooxa](https://github.com/iooxa/article) -用于交互式科学写作，反应性文档和可解释性说明的Web组件.
 - [Kor](https://github.com/eduferfer/kor) -基于LitElement的用户界面组件库.
 - [Lithium UI](https://github.com/coryrylan/lithium) -轻巧的UI组件，可在任何地方使用.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) -ELMS：LN为任何项目生产了Web组件.
@@ -100,7 +100,7 @@
 - [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) -Web组件的API文档和实时游乐场.
 - [`<app-datepicker>`](https://github.com/motss/app-datepicker) -使用LitElement和Material Design 2构建的Datepicker元素.
 - [`<burgton-button>`](https://github.com/boguz/burgton-button) -简单易用，可自定义和可访问的汉堡按钮元素.
-- [`<code-block>`](https://github.com/justinribeiro/code-block) -使用Prism.js和LitElement显示彩色格式代码的Web组件.
+- [`<code-block>`](https://github.com/justinribeiro/code-block) - Web component that displays colorfully formatted code with Prism.js and LitElement.
 - [`<codesandbox-button>`](https://github.com/bennypowers/codesandbox-button) -单击时显示CodeSandbox演示的自定义元素.
 - [`<dile-modal>`](https://github.com/Polydile/dile-modal) -基于LitElement的Web组件，用于实现模式框.
 - [`<erd-editor>`](https://github.com/vuerd/vuerd) -使用LitElement构建的ERD编辑器元素数据库建模工具
@@ -113,9 +113,9 @@
 
 ## Starter Templates
 
-- [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) -由Polymer团队提供的入门模板.
 - [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) -基于Open Web Components建议的Starter应用.
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) -生成器，用于使用TypeScript中的最新LitElement开发下一个自定义元素.
+- [pwa-starter](https://github.com/pwa-builder/pwa-starter) -PWABuilder pwa-starter的LitElement版本.
 - [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) -使用`@ rxdi`，lit-html，GraphQL，依赖项注入构建客户端应用程序.
 
 ## IDE Plugins
@@ -181,7 +181,7 @@
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-点亮html的创作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
+点亮html的作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -贾斯汀·法格纳尼（Justin Fagnani）作为来宾的另一集.
 
 ## Blogs

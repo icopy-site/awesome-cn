@@ -23,9 +23,9 @@ Awesome-Kubernetes
 没有这些的帮助 [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
  建立这个很棒的仓库是不可能的.  非常感谢你们 ！！
 
- **感谢Gitbook.此真棒列表现在可以下载并以书的形式阅读.  看看-&gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/.继续学习保持共享!! **
+ **感谢Gitbook.此真棒列表现在可以下载并以书的形式阅读.  检查一下-&gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/.继续学习保持共享!! **
 
- **如果您在此处看到不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢！**
+**If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 
 ## What is Kubernetes? :ship:
 
@@ -85,7 +85,6 @@ Menu
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) 通过 [Arun Gupta](https://twitter.com/arungupta)
 * [Application Containers: Kubernetes and Docker from Scratch](http://keithtenzer.com/2015/06/01/application-containers-kubernetes-and-docker-from-scratch/) 通过 [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) 通过 [Omer Dawelbeit](https://twitter.com/omerio)
-* [Top Reasons Businesses Should Move to Kubernetes Now](http://supergiant.io/blog/top-reasons-businesses-should-move-to-kubernetes-now) 通过 [Mike Johnston](https://github.com/gopherstein)
 * [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) 通过 [Deis](https://github.com/deis)
 * [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) 通过 [Michael Hausenblas](https://twitter.com/mhausenblas)
 * [Docker Kubernetes Lab Handbook](https://github.com/xiaopeng163/docker-k8s-lab) 通过 [Peng Xiao](https://twitter.com/xiaopeng163)
@@ -110,7 +109,7 @@ Installers
 * [eksctl](https://eksctl.io/) -Amazon EKS的官方CLI
 * [Juju](https://jujucharms.com/canonical-kubernetes) -Ubuntu-云不可知
 * [KubeSphere](https://github.com/kubesphere/kubesphere) -轻松地在多个实例中安装Kubernetes和KubeSphere，包括全栈云原生软件，例如istio，ES，Prometheus，Fluent Bit，SonarQube，Jenkins.
-* [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
+* [k3s](https://github.com/rancher/k3s)  -轻量级的Kubernetes.  易于安装，一半内存，所有二进制文件不到40mb
 * [k3d](https://github.com/rancher/k3d) -在容器节点中运行k3s集群的工具
 * [kind](https://kind.sigs.k8s.io) -使用Docker容器“节点”运行本地Kubernetes集群的工具
 * [Kops](https://github.com/kubernetes/kops) -与操作系统无关-AWS
@@ -131,7 +130,6 @@ Installers
 * [RKE](https://github.com/rancher/rke) -与操作系统无关-与云无关
 * [sealos](https://github.com/fanux/sealos) -简单的kubernetes HA安装程序
 * [Simplekube](https://github.com/valentin2105/Simplekube) -`systemd` OS-不可知云
-* [Supergiant](http://supergiant.io/) -CoreOS-不可知云
 * [Terraform](https://github.com/kz8s/tack) -CoreOS-AWS
 * [Typhoon](https://typhoon.psdn.io/) -容器Linux-不可知云
 * [aks-engine](https://github.com/Azure/aks-engine) -AKS Engine是在Azure上配置自管理Kubernetes群集的最简单方法.
@@ -256,7 +254,6 @@ Installers
 * [Containerizing Docker on Kubernetes !!](http://www.linkedin.com/pulse/containerizing-docker-kubernetes-ramit-surana) 通过 [Ramit Surana](https://twitter.com/ramitsurana)
 * [Quay: Introducing an Application Registry for Kubernetes](http://coreos.com/blog/quay-application-registry-for-kubernetes.html) 通过安托万·罗格朗
 * [Play With Kubernetes Quickly Using Docker](http://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
-* [1 command to Kubernetes with Docker compose](http://sebgoa.blogspot.in/2015/04/1-command-to-kubernetes-with-docker.html) 通过 [Sebastien Goasguen](https://twitter.com/sebgoa)
 * [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [CoreOS + Kubernetes Step By Step](http://coreos.com/tectonic/docs/latest/tutorials/kubernetes/getting-started.html) 通过 [Coreos](https://twitter.com/coreoslinux)
@@ -307,6 +304,7 @@ Installers
   - [Draft](http://draft.sh) -开发人员使用Kubernetes创建云原生应用程序的工具
   - [Eclipse Che](https://github.com/eclipse/che) -具有SSH和多用户支持的云开发工作区
   - [Garden](https://garden.io) -编排您的开发工作流程，以使开发和开发微服务更快，更轻松
+  - [Humanitec](https://humanitec.com) -持续交付API
   - [Knative](https://github.com/knative/) -建立，部署和管理现代无服务器工作负载的平台
   - [Okteto](https://github.com/okteto/okteto)  -直接在任何Kubernetes集群中进行开发  无需提交，构建或推送
   - [Mantl](https://github.com/mantl/mantl) -用于快速部署全球分布式服务的现代平台
@@ -328,7 +326,7 @@ Installers
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -阿里云Kubernetes云容器服务
    - [AWS EKS](https://aws.amazon.com/eks/) -亚马逊弹性容器服务
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -Azure Kubernetes服务
-   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean州长
+   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) -Google Kubernetes引擎
    - [IKS](https://www.ibm.com/cloud/container-service) -IBM Cloud Kubernetes服务
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -Oracle Kubernetes引擎
@@ -373,6 +371,7 @@ MOOC课程/教程
   - [Scalable Microservices with Kubernetes at Udacity](http://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
   - [Introduction to Kubernetes at edX](http://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x)
   - [Just Enough Kubernetes to be Dangerous](https://www.schoolofdevops.net/p/just-enough-kubernetes)
+  - [(Classpert) A list of free and paid Kubernetes courses from popular e-learning platforms](https://classpert.com/kubernetes)
 
 
   - [Kubernetes Tutorials by Kubernetes Team](http://kubernetes.io/docs/tutorials/)
@@ -420,7 +419,7 @@ MOOC课程/教程
 * [StorageOS](http://storageos.com)
 * [Stork](https://github.com/libopenstorage/stork)
 
-Container Storage Interface Plugins
+容器存储接口插件
 =======================================================================
 
 *部分清单 [Container Storage Interface](https://kubernetes-csi.github.io/docs/)  Kubernetes的插件.  查看 [Kubernetes-CSI Drivers](https://kubernetes-csi.github.io/docs/drivers.html) 以获得完整列表*
@@ -539,7 +538,7 @@ Projects
 * [kail](https://github.com/boz/kail)  -Kubernetes日志查看器.  从所有匹配的容器的所有容器中流式传输日志.
 * [Kubebox](https://github.com/astefanutti/kubebox) -Kubernetes的终端控制台
 * [Kubecost](https://kubecost.com/) -根据资源的财务成本监控资源
-* [Kubedash](https://github.com/kubernetes/kubedash) - **Deprecated** repository is archived and read-only
+* [Kubedash](https://github.com/kubernetes/kubedash) -**不推荐使用**信息库已归档且为只读
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) -多个K8s集群的只读系统仪表板
 * [K8Dash](https://github.com/herbrandson/k8dash) -实时K8S替代仪表板
 * [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) -在纯HTML前端中列出并查看具有永久链接友好URL的所有Kubernetes资源（包括CRD）
@@ -590,7 +589,6 @@ Projects
    * [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) 通过 [Carlos Sanchez](https://www.twitter.com/csanchez)
    * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
    * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](http://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
-   * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
 * [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
@@ -659,7 +657,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和PostgreSQL管理PostgreSQL集群 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
+* [Shell-operator](https://github.com/flant/shell-operator) - a tool for running event-driven scripts in a Kubernetes cluster.
 * [TiDB Operator](https://github.com/pingcap/tidb-operator) -TiDB Operator在Kubernetes上管理TiDB集群，并自动执行与操作TiDB集群相关的任务.
 * [Vitess Operator](https://github.com/planetscale/vitess-operator)
 
@@ -677,9 +675,6 @@ Projects
 * Kubernetes支持的Linux容器列表.*
 
 * [Docker](http://docker.com)
-* [Rkt](http://coreos.com/rkt)
-  * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-  * [rktlet](https://github.com/kubernetes-incubator/rktlet) -Rkt实现Kubernetes
 * [containerd](https://github.com/containerd/containerd)
 * [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) -Kubernetes容器运行时接口的基于容器的实现
 * [CRI-O](https://github.com/kubernetes-incubator/cri-o)

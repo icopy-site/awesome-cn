@@ -13,7 +13,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Official resources
 
 - [Website](https://prometheus.io/) -Prometheus官方项目网站.
-- [GitHub repository](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
+- [GitHub repository](https://github.com/prometheus/prometheus) -Prometheus的源代码，问题讨论和协作.
 - [Documentation](https://prometheus.io/docs/introduction/overview/) -官方Prometheus文档.
 - [Blog](https://prometheus.io/blog/) -Prometheus官方博客.
 
@@ -44,7 +44,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) -PromCon慕尼黑-2017年8月17-18日-PromCon 2017在柏林的谈话录音.
 - [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) -PromCon Berlin-2016年8月25日至26日-柏林PromCon 2016谈话录音.
 - [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) -比利时Devoxx-2016年11月8日-FabianStäber.
-- [Prometheus: A Next Generation Monitoring System](https://www.youtube.com/watch?v=cwRmXqXKGtk) -FOSDEM 2016-2016年1月31日-Brian Brazil.
+- [Prometheus: A Next Generation Monitoring System](https://www.youtube.com/watch?v=cwRmXqXKGtk) - FOSDEM 2016 - January 31, 2016 - Brian Brazil.
 - [PromCon 2016: So You Want to Write an Exporter](https://www.youtube.com/watch?v=KXq5ibSj2qA) -PromCon 2016-所以你想写出口商-Brian Brazil
 - [Infrastructure and application monitoring using Prometheus](https://www.youtube.com/watch?v=5GYe_-qqP30) -Devoxx-2017年5月17日在英国Devoxx-Marco Pas.
 - [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) -比利时Devoxx-2017年11月7日-FabianStäber.
@@ -89,6 +89,13 @@ Prometheus是一个开源系统监视和警报工具包.
 - [PromQL tutorial for beginners](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085) -Aliaksandr Valialkin面向初学者的PromQL教程.
 - [Prometheus storage: technical terms explained](https://medium.com/@valyala/prometheus-storage-technical-terms-for-humans-4ab4de6c3d48) -普罗米修斯储存：Aliaksandr Valialkin所著的人类技术术语.
 
+## Deployment tools
+
+- [Ansitheus](https://github.com/ntk148v/ansitheus) -Ansible剧本，由ntk148v_来容器化，配置和部署Prometheus生态系统.
+- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -用于安装Prometheus监控系统的Ansible剧本，出口商如：node，snmp，blackbox，从而由Ernestas Poskus_发出警报管理器和推送网关.
+- [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) -Google的来源单击以部署由GoogleCloudPlatform_在Google Cloud Marketplace上列出的Prometheus解决方案.
+- [Prometheus Operator](https://github.com/coreos/prometheus-operator) -Prometheus Operator通过CoreOS_在Kubernetes顶部创建/配置/管理Prometheus集群.
+
 ## Dashboards
 
 - [Grafana](https://prometheus.io/docs/visualization/grafana/) -Grafana是Prometheus_提供的开源指标分析和可视化套件_tutorial.
@@ -126,7 +133,7 @@ Prometheus是一个开源系统监视和警报工具包.
 
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) -Subreddit收集Internet上所有与Prometheus相关的资源.
 - [PromCon](https://promcon.io/) -普罗米修斯会议.
-- [Prometheus demo site](http://demo.cloudalchemy.org:9090) -普罗米修斯（Prometheus）网站每天使用来自 [cloudalchemy repository](https://github.com/cloudalchemy/demo-site).
+- [Official Prometheus demo site](https://demo.do.prometheus.io) -Prometheus站点使用Cloud Alchemy Ansible角色进行管理，每天使用来自 [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## License
 

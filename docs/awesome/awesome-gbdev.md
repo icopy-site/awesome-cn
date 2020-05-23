@@ -64,14 +64,14 @@
 >
 > #### Game Boy Color and Super Game Boy
 > 
-&gt;此列表集中于原始的（1989）Game Boy（DMG），* Game Boy Color-（GBC）和* Super Game Boy-（SGB）是非常相似的系统，但有一些重要区别，例如：
+&gt;此列表集中于原始（1989）Game Boy（DMG），* Game Boy Color-（GBC）和* Super Game Boy-（SGB）是非常相似的系统，但有一些重要区别，例如：
 >
 &gt;-不同的硬件规格
 &gt;-特定的硬件和软件功能
 &gt;-特定寄存器
 &gt;-特定的错误，怪癖和可利用的行为
 >
-&gt;如果您打算为SGB或GBC开发软件，或者想了解其在其他系统上的运行方式，则可以利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
+&gt;如果您打算为SGB或GBC开发软件，或者想知道其在其他系统上的运行方式，则可以利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
 
 
 ## Community
@@ -97,7 +97,6 @@
 - [Bootstrap ROM](https://tcrf.net/Game_Boy_Color_Bootstrap_ROM)
 - [Unused Palettes](https://tcrf.net/Notes:Game_Boy_Color_Bootstrap_ROM)
 - [Colorization palettes in the BIOS](https://forums.nesdev.com/viewtopic.php?p=114388&sid=c3d4ce08cfd9d9c834958d4f148750c3#p114388)
-- [High resolution schematics](https://drive.google.com/file/d/1a0HTmBiRxoZw4XgLEDzwGCugfTfdIQwT/view?usp=sharing)
 - [ROM Disassembly](https://gist.github.com/drhelius/6063265)
 
 ### Hardware

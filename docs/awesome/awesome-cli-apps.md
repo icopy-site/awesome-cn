@@ -198,7 +198,7 @@
 
 ### Note Taking and Lists
 
-- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您将想法安全快捷地保存在安全的地方.
+- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您轻松，快速地将想法保存在安全的地方.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) -Evernote客户.
 - [Taskwarrior](http://taskwarrior.org) -从命令行管理TODO列表.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) -终端的快速笔记应用程序.
@@ -349,7 +349,7 @@
 - [ranger](https://github.com/ranger/ranger) -具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) -功能丰富的可视文件管理器.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载内容.
-- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt中借鉴了一些有用的想法.
+- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt那里借鉴了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) -快速，可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) -快速，简单的文件管理器.
@@ -471,6 +471,7 @@
 - [lolcat](https://github.com/busyloop/lolcat) -以彩虹色输出文本.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) -生成文字模因.
 - [dankcli](https://github.com/sggts04/dankcli) -将文字添加到模因图像模板.
+- [ricksay](https://github.com/roma-guru/ricksay) -引用瑞克和莫蒂的话.
 
 ## Other
 

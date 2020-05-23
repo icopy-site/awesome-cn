@@ -194,7 +194,7 @@
 * [Disco](https://github.com/bitExpert/disco) -与PSR-11兼容的基于注释的依赖项注入容器.
 * [PHP-DI](http://php-di.org/) -支持自动装配的依赖项注入容器.
 * [Pimple](https://pimple.symfony.com/) -一个很小的依赖项注入容器.
-* [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
+* [Symfony DI](https://github.com/symfony/dependency-injection) -依赖项注入容器组件.
 
 ### Imagery
 *用于处理图像的库.*
@@ -251,7 +251,6 @@
 * [daux.io](https://github.com/dauxio/daux.io) -使用Markdown文件的文档生成器.
 * [PHP Documentor 2](https://github.com/phpDocumentor/phpDocumentor) -文档生成器.
 * [phpDox](http://phpdox.de/) -PHP项目的文档生成器（不限于API文档）.
-* [Sami](https://github.com/FriendsOfPHP/Sami) -API文档生成器.
 
 ### Security
 *用于生成安全随机数，加密数据以及扫描和测试漏洞的库.*
@@ -277,7 +276,7 @@
 
 * [GenPhrase](https://github.com/timoh6/GenPhrase) -用于生成安全随机密码短语的库.
 * [Password Compat](https://github.com/ircmaxell/password_compat) -新的PHP 5.5密码功能的兼容性库.
-* [Password Policy](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
+* [Password Policy](https://github.com/ircmaxell/password-policy) -用于PHP和JavaScript的密码策略库.
 * [Password Validator](https://github.com/jeremykendall/password-validator) -用于验证和升级密码哈希的库.
 * [Password-Generator](https://github.com/hackzilla/password-generator) -PHP库可生成随机密码.
 * [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) -用于生成和验证密码的库.
@@ -478,7 +477,7 @@
 ### NoSQL
 *用于“ NoSQL”后端的库.*
 
-* [PHPMongo](https://github.com/sokil/php-mongo) -MongoDB ORM.
+* [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 * [Predis](https://github.com/nrk/predis) -功能齐全的Redis库.
 
 ### Queue
@@ -524,7 +523,7 @@
 * [Aura.Auth](https://github.com/auraphp/Aura.Auth) -使用各种适配器提供身份验证功能和会话跟踪.
 * [SocialConnect Auth](https://github.com/socialConnect/auth) -开源社交符号（OAuth1 \ OAuth2 \ OpenID \ OpenIDConnect）.
 * [Json Web Token](https://github.com/lcobucci/jwt) -Json令牌，用于认证和传输信息.
-* [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) -OAuth 1.0客户端库.
+* [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) -OAuth 2.0客户端库.
 * [OAuth2 Server](https://bshaffer.github.io/oauth2-server-php-docs/) -另一个OAuth2服务器实现.
 * [OAuth2 Server](https://oauth2.thephpleague.com/) -OAuth2身份验证服务器，资源服务器和客户端库.
@@ -585,7 +584,7 @@
 * [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) -支持YAML，JSON和XML的架构验证库.
 * [Respect Validation](https://github.com/Respect/Validation) -一个简单的验证库.
-* [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
+* [Upload](https://github.com/brandonsavage/Upload) -用于处理文件上传和验证的库.
 * [Valitron](https://github.com/vlucas/valitron) -另一个验证库.
 * [Volan](https://github.com/serkin/Volan) -另一个简化的验证库.
 
@@ -655,7 +654,7 @@
 * [Bref](https://bref.sh/) -AWS Lambda上的无服务器PHP.
 * [OpenWhisk](http://openwhisk.apache.org/) -开源的无服务器云平台.
 * [Serverless Framework](https://serverless.com/cli/) -用于构建无服务器应用程序的开源框架.
-* [Laravel Vapor](https://vapor.laravel.com/) - A serverless deployment platform for Laravel, powered by AWS.
+* [Laravel Vapor](https://vapor.laravel.com/) -由AWS支持的Laravel无服务器部署平台.
 
 ## Configuration
 *用于配置的库和工具.*
@@ -669,7 +668,7 @@
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) -官方的PHP AWS开发工具包库.
 * [AsyncAWS](https://async-aws.com/) -一个非官方的异步PHP AWS SDK.
-* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) -正式的Campaign Monitor PHP库.
+* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) -官方的PHP Dropbox SDK库.
 * [Github](https://github.com/KnpLabs/php-github-api) -与Github API交互的库.
 * [Mailgun](https://github.com/mailgun/mailgun-php) 官方Mailgun PHP API.
@@ -752,7 +751,6 @@
 ### Text Editors and IDEs
 *支持PHP的文本编辑器和集成开发环境（IDE）.*
 
-* [Atom IDE](https://ide.atom.io/) -Atom的IDE扩展.
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) -基于Eclipse平台的PHP IDE.
 * [Netbeans](https://netbeans.org) -支持PHP和HTML5的IDE.
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) -商业PHP IDE.
@@ -819,7 +817,7 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·康努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了XML文档的解析和验证，XPath表达式的使用以及名称空间的使用，以及如何以编程方式创建和修改XML文件.
@@ -836,7 +834,7 @@
 ### PHP Videos
 *与PHP相关的精彩视频.*
 
-* [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) -PHP社区成员进行的10到15分钟的闪电讲座.
+* [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) -来自PHP UK Conference的视频集.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) -安东尼·费拉拉（Anthony Ferrara）的视频系列.
 * [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) -Facebook的Keith Adams的演讲概述了PHP的优势.

@@ -285,6 +285,7 @@
 - [Understanding Filters in Vue JS](https://blog.bitsrc.io/understanding-filters-in-vue-js-7a53b1521dce) 通过 [Viclotana](https://twitter.com/viclotana) （2019年6月）
 - [Form Validation In VueJS Using Yup](https://vijitail.dev/blog/form-validation-in-vue-using-yup) 通过 [Vijit Ail](https://vijitail.dev/) （2020年5月）
 - [Use Vue.js to Rewrite React's Official Tutorial Tic Tac Toe](https://chanvinxiao.com/blog/vuejs-tic-tac-toe/) 通过 [Chanvin Xiao](https://github.com/vinzid)
+- [Can we use Python with Vue.js or Vue and Django or Flask?](https://vue-view.com/can-we-use-python-with-vue-js-or-vue-and-django-or-flask/)
 
 ### Examples
 
@@ -1272,6 +1273,7 @@ _叠加/模态/警报/对话框/灯箱/弹出窗口_
 - [ZingChart-Vue](https://github.com/zingchart/zingchart-vue) -ZingChart制作的Vue组件具有35种以上的图表类型.
 - [jscharting-vue](https://github.com/jscharting/jscharting-vue) -Vue图表组件提供了完整的图表类型集，并通过 [JSCharting](https://jscharting.com/).
 - [flowchart-vue](https://github.com/joyceworks/flowchart-vue) -Vue.js的流程图和流程图设计器组件.
+- [vue-d3-barchart](https://github.com/emiliorizzo/vue-d3-barchart) -使用d3绘制图表的小组件.
 
 #### Time
 

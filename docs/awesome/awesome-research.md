@@ -17,10 +17,10 @@
 
 ### Version Control System
 
- &gt;首先，每个人都应该了解版本控制系统，也就是VCS.  VCS可帮助我们跟踪文档中的更改以及文档上的协作.  毋庸置疑，版本控制是科学家最有用的工具之一.
+ &gt;首先，每个人都应该知道版本控制系统，也就是VCS.  VCS帮助我们跟踪文档中的更改以及文档上的协作.  毋庸置疑，版本控制是科学家最有用的工具之一.
 
-* **去**
-* svn
+* **走**
+* SVN
 *汞
 
 
@@ -29,7 +29,7 @@
 * [GitHub](https://github.com/)：内置社交和协作的git最受欢迎的平台.
    * GitHub还提供了GitHub Actions.  使用动作，可以使流程自动化.
    * GitHub提供了GitHub Pages.  使用GitHub Pages，可以托管静态文件以及 [Jekyll](https://jekyllrb.com) 建网站.
-* [GitLab](https://about.gitlab.com/) ：与GitHub类似，gitlab提供git托管，协作，社交，自动化等功能.  使用其开源代码，GitLab既可以基于云，也可以自我托管.
+* [GitLab](https://about.gitlab.com/) ：与GitHub类似，gitlab提供git托管，协作，社交，自动化等功能.  使用它的开源代码，GitLab既可以基于云，也可以自我托管.
   * GitLab包含无限的免费私人存储库.
   * GitLab附带了一个持续集成工具，它比GitHub Actions更强大.
 * [BitBucket](https://bitbucket.org)：使用免费的私有存储库替代GitHub和GitLab.
@@ -49,21 +49,21 @@
 
 ### Pomodoro
 
-> [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)  可用于提高生产力并可能改善健康状况.  这些工具几乎有无限的选择.
+> [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)  可以用来提高您的生产力并可能改善您的健康.  这些工具几乎有无限的选择.
 
 * [Pomotodo](https://pomotodo.com/) （“云”，“ Mac”，“ Win”，“ Android”，“ iOS”，“ Chrome”）：待办事项列表和番茄钟计时器的混合，跨设备同步和每周报告[免费].
-* [Tadam](https://tadamapp.com/) （`Mac`）：简单而优雅的番茄计时器[USD $ 4.99].
+* [Tadam](https://tadamapp.com/) （`Mac`）：简洁典雅的番茄钟[USD $ 4.99].
 * [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) （`Android`）：具有出色游戏功能的Pomodoro计时器[免费].
 
 
 ### GTD-Task Manager
 
- &gt; GTD（Getting Things Done）方法通过使用外部工具记录待办事项清单，将其从头脑中卸载.  它使人们可以专注于一项活动任务，而不是全部任务（[Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)).
-&gt;可以根据上下文（@ home，@ computer，@ office等），行动时间（现在，下一次行动，计划或某天）和项目对任务进行分类. [Here](https://hamberg.no/gtd/) 我们为GTD提供了一个很好的实用指南， [here](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) 是流程图.
+ &gt; GTD（完成工作）方法通过使用外部工具记录待办事项清单，从而将其卸载.  它使人们可以专注于一项活动任务，而不是全部任务（[Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)).
+&gt;可以按上下文（@ home，@ computer，@ office等），行动时间（现在，下一次行动，计划或某天）和项目对任务进行分类. [Here](https://hamberg.no/gtd/) 我们有一个很好的GTD实用指南 [here](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) 是流程图.
 
 * [Microsoft To Do](https://todo.microsoft.com/tasks) （“云”，“ Mac”，“ Win”，“ Android”，“ iOS”，“ Win Store”，“ Chrome OS”）：与合作和共享几乎完美的待办事项列表.
-* [Google Keep](https://keep.google.com/)（`Cloud`，`Android`，`iOS`，`Chrome OS`）
-* [Evernote](https://evernote.com/) （`Cloud`，`Mac`，`Win`，`Android`，`iOS`，`Win Store`）：虽然不是那么轻便，但是对于管理生活仍然非常有用，特别是因为它已经从许多方面进行了很多集成其他服务.
+* [Google Keep](https://keep.google.com/)（“云”，“ Android”，“ iOS”，“ Chrome OS”）
+* [Evernote](https://evernote.com/) （`Cloud`，`Mac`，`Win`，`Android`，`iOS`，`Win Store`）：虽然不是很轻巧，但是对于管理生活仍然非常有用，特别是因为它已经得到了很多集成.其他服务.
 * [Anydo](https://www.any.do/) （`Cloud`，`Mac`，`Android`，`iOS`）：很好，因为它具有非常好的每日评论，可以帮助用户记住要做的事情.
 * [Todoist](https://todoist.com/) （`Cloud`，`Mac`，`Win`，`Android`，`iOS`）：Todoist发明了因果报应系统，可以跟踪完成的任务.
 * [Taskade](https://taskade.com/) （“云”，“ Mac”，“ Win”，“ Chrome OS”，“ Firefox”，“ Android”和“ iOS”）：Taskade是团队项目的协作任务列表和大纲.
@@ -77,7 +77,7 @@
 
 ### Math and Programming Online
 
-&gt;有许多工具可以使用代码，在线执行数值计算或分析推导.
+&gt;有许多工具允许使用代码，在线执行数值计算或分析推导.
 
 * [Google Colab](https://colab.research.google.com/) ：免费在线jupyter笔记本.  Google Colab还提供免费的GPU小时.
   *自由和强大.
@@ -91,7 +91,7 @@
 * [Azure Notebooks](https://notebooks.azure.com/)：在线Jupyter笔记本.
 * [Datalore](https://datalore.io/)：由JetBrains开发的在线Jupyter笔记本.
 * [CoCalc (SageMathCloud)](https://cocalc.com/)：LaTeX，R，iPython Notebook等.
-* [SageMaker](https://aws.amazon.com/sagemaker/) ：集成了许多工具的AWS服务.  Sagemaker附带了Sagemake Studio，该Studio为程序员和其他制图和数据管理工具提供了jupyter笔记本.
+* [SageMaker](https://aws.amazon.com/sagemaker/) ：集成了许多工具的AWS服务.  Sagemaker附带了Sagemake Studio，该Studio为程序员和其他图表和数据管理工具提供了jupyter笔记本.
 * [WolframAlpha](https://www.wolframalpha.com/)：出色的引擎，可以在线进行数学推导和搜索.
 * [Mathematica Online](https://www.wolfram.com/mathematica/online/)：将Mathematica带入云端.
 
@@ -110,7 +110,7 @@
 
 ### Datasets
 
-&gt; Nature托管推荐数据存储库列表 [here](https://www.nature.com/sdata/policies/repositories).
+&gt; Nature托管推荐数据存储库的列表 [here](https://www.nature.com/sdata/policies/repositories).
 
 #### General and Interdisciplinary
 
@@ -157,7 +157,7 @@
 
 
 &gt;利用 [GitHub](http://github.com) 与他人合作. [GitHub pages](https://pages.github.com/) 也适合托管静态内容.
-&gt; GitHub提供了教育福利，因此学生可以获得免费的专业版，其中包含私人存储库.
+&gt; GitHub提供了教育津贴，因此学生可以获得免费的专业版，其中包含私人存储库.
 
 
 ### Writing
@@ -167,7 +167,7 @@
 **利用这些程序进行发布：**
 
 * [Sphinx](http://sphinx-doc.org)：RestructuredText作为源文件，功能强大，灵活且模块化.
-* [Gitbook](https://www.gitbook.com/) ：在线，本地编辑都可以使用的，针对HTML，pdf和epub的新的但很有前途的工具.  测验和数学之类的插件对编写科学很有帮助.
+* [Gitbook](https://www.gitbook.com/) ：在线，本地编辑都可以使用的，针对HTML，pdf和epub的新工具，但前景看好.  测验和数学之类的插件对撰写科学很有帮助.
 * [Git-scribe](https://github.com/schacon/git-scribe)：非常适合写电子书.
 * [Static Site Generator](#static-site-generator)：有关更多信息，请参阅 [Static Site Generator](#static-site-generator).
 
@@ -182,7 +182,7 @@
 
 **使用Sphinx的科学书籍**
 
-&gt;以下是狮身人面像如何用于研究的一些示例.
+&gt;以下是一些狮身人面像如何用于研究的示例.
 
 * [Theoretical Physics](https://github.com/certik/theoretical-physics)
 * [Statistical Physics](https://github.com/emptymalei/statisticalphysics)
@@ -199,7 +199,7 @@
 * [artbollocks-mode](https://github.com/sachac/artbollocks-mode)：Emacs次要模式，用于在撰写艺术（或其他主题）时避免陈词滥调和语法错误.
 * [`cut_the_crap.py`](https://jugad2.blogspot.com/2015/07/cut-crap-absolutely-essential-tool-for.html)：简单的Python脚本来标记多余的单词并提供替代建议.
 * [Rousseau](https://github.com/GitbookIO/rousseau)：使用JavaScript编写的轻量级校对员.
-* [textlint-rule-rousseau](https://github.com/azu/textlint-rule-rousseau)：一种使用Rousseau检查英语句子的textlint规则.
+* [textlint-rule-rousseau](https://github.com/azu/textlint-rule-rousseau)：一条textlint规则，用于使用卢梭检查英语句子.
 * [De-Jargonizer](http://scienceandpublic.com/)：粘贴您的文章或上传文件以分析您的文章中的行话数量.
 
 
@@ -231,7 +231,7 @@
 
 * [Ghost](https://github.com/tryghost/Ghost)  （`Node.js`）：开放，简单，非盈利；  用降价促销和实时预览.
 * [Pico](https://github.com/picocms/Pico) （`PHP`）：轻量级cms，开源，无数据库.
-* [Dropplets](https://github.com/circa75/dropplets)  （`PHP`）：开源，简单，优雅的博客系统；  用Markdown写.
+* [Dropplets](https://github.com/circa75/dropplets)  （`PHP`）：开源，简单而优雅的博客系统；  用Markdown写.
 * [Wordpress](https://wordpress.org/) （`PHP`）：非常流行，但需要大量维护.
 
 
@@ -243,11 +243,11 @@
 > [Here is a nice website](https://staticsitegenerators.net/)  告诉您所有静态网站生成器.  尽管如此，这里还是最受欢迎的清单.
 
 * [Jekyll](http://jekyllrb.com/)  （写在Ruby中）（Markdown）：Jekyll是使用最广泛的一种.  关于Jekyll最好的部分是，只需将源推送到GitHub即可将其部署到GitHub Pages.
-* [Octopress](http://octopress.org/) （写在Ruby中）（Markdown）：与Jekyll相比，Octopress更易于使用，同时与Jekyll兼容.
+* [Octopress](http://octopress.org/) （写在“ Ruby”中）（“ Markdown”）：与Jekyll相比，Octopress更易于使用，同时与Jekyll兼容.
 * [Hexo](https://hexo.io/)  （写在`Node.js`）（`Markdown`）中：“一个快速，简单且功能强大的博客框架”，正如他们在其网站上所说.  它支持GFM.
-* [Pelican](http://getpelican.com) （写在Python中）（reStructuredText`，Markdown，AsciiDoc`）：Pelican是一个模块化的框架，非常适合写博客.
+* [Pelican](http://getpelican.com) （写在Python中）（reStructuredText`，Markdown，AsciiDoc`）：Pelican是一个模块化框架，非常适合写博客.
   * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle)
-* [Nikola](https://getnikola.com/) （用Python写）（reStructuredText，Markdown，IPython Notebook / Jupyter，PHP等）：它采用多种输入格式，包括reStructuredText和许多其他格式.
+* [Nikola](https://getnikola.com/) （用Python编写）（reStructuredText，Markdown，IPython Notebook / Jupyter，PHP等）：它采用多种输入格式，包括reStructuredText和许多其他格式.
 * [Hugo](http://gohugo.io/) （写在“ Go”中）（`Markdown`）：易于使用且非常快.  它还通过插件支持更多输入格式.
 
 
@@ -268,7 +268,7 @@
 
 #### Markdown
 
-* [Hackmd.io](https://hackmd.io) （`Cloud`）：基本上提供了最完整的在线Markdown编辑器所期望的一切.
+* [Hackmd.io](https://hackmd.io) （`Cloud`）：基本上随附最完整的在线Markdown编辑器提供的所有功能.
 * [StackEdit](https://stackedit.io/)（`Cloud`）：StackEdit是Markdown编辑器，具有许多集成服务，例如数学（MathJax），Google Drive，Dropbox和GitHub.
 * [CMD markdown](https://www.zybuluo.com/mdeditor) （`Cloud`）：CMD是具有数学（MathJax）支持的Markdown编辑器.  特殊之处在于它保留编辑历史记录.  （中文界面.）
 * [Penflip](https://www.penflip.com/) （`Cloud`）：Penflip被设计为作家的GitHub.  它是基于Markdown的，并且像git一样，没有数学支持.
@@ -279,9 +279,9 @@
 * [Marxico](http://marxi.co/)（“云”，“ Mac”，“ Win”，“ Chrome”）：与Evernote集成在一起的Markdown编辑器，可生成pdf并离线运行. [马克飞象](https://maxiang.io/)（Cloud，Mac，Win，Chrome）是中文版本.
 * [Madoko](https://www.madoko.net/) （`Cloud`，`Chrome`）：具有数学支持的Markdown编辑器，只需单击一下即可轻松插入图像，而文件则保存在Dropbox，GitHub，OneDrive或本地磁盘上.  它生成pdf和HTML页面，并使用浏览器的本地存储脱机工作.  甚至可以导入LaTeX文件.
 * [Markx](http://markx.herokuapp.com/) （`Cloud`）：Markdown编辑器，用于科学写作.  包括电池.
-* [typora](https://www.typora.io/)（`Mac`，`Win`）：漂亮的用户界面和现场实时预览.
+* [typora](https://www.typora.io/)（`Mac`，`Win`）：精美的用户界面和现场实时预览.
 * [Haroopad](http://pad.haroopress.com/) （`Mac`，`Win`，`Linux`）：一个功能强大的github风格的markdown编辑器，具有有用的扩展名.  支持数学（mathjax）.
-* [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)（`Cloud`）：只是另一个在线Markdown编辑器，没有数学支持.
+* [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)（`Cloud`）：只是另一个没有数学支持的在线Markdown编辑器.
 * [Mou](http://25.io/mou/) （`Mac`）：Mou曾经是Mac上最好的Markdown编辑器.  不错，但不要预购Mou 1.0.  这个项目已经死了，非正式地. [了解为什么死掉，请阅读此文。](http://matrix.sspai.com/p/c7a3c9c0)
 * [MarkdownPad](http://markdownpad.com/) （`Win`）：如果您对.NET没有不好的感觉，那就太好了.
 * [ReText](https://github.com/retext-project/retext)  （`Mac`，`Win`，`Linux`）：即使在Linux上，也可以重新编写最好的文本之一.  它还支持reStructuredText输入.
@@ -293,8 +293,8 @@
 
 * [boostnote](https://boostnote.io/) （“ Win”，“ Mac”，“ Linux”）：Math + Markdown，具有摘要注释支持.
 * [Quiver](http://happenapps.com/) （`Mac`，`iOS`）：程序员的笔记本，数学+ Markdown，代码段.
-* [Findings](http://findingsapp.com/) （`Mac`）：实验者的笔记本，整理好的研究材料和笔记.
-* [Notion](https://www.notion.so/) （“ Win”，“ Mac”，“ iOS”和“ Android”）：使用看板，数学，日历，表格等记录笔记.
+* [Findings](http://findingsapp.com/) （`Mac`）：实验者的笔记本，有组织的研究材料和笔记.
+* [Notion](https://www.notion.so/) （“ Win”，“ Mac”，“ iOS”，“ Android”）：使用看板，数学，日历，表格等记录笔记.
 * [Agenda](https://agenda.com/) （`Mac`，`iOS`）：Notes和GTD.
 
 
@@ -304,18 +304,18 @@
 * [ShareLaTeX](https://www.sharelatex.com/) （`Cloud`）：Dropbox和GitHub集成，预览，合作，简单的UI.  它还提供了很多模板.
 * [Overleaf](https://www.overleaf.com/)（`Cloud`）：内置版本控制.
 * [Authorea](https://www.authorea.com/) （`Cloud`）：易于使用的UI.  同时支持Markdown和LaTeX.
-* [Papeeria](https://www.papeeria.com)（`Cloud`）：只是另一个带有情节编译器和协作功能的在线LaTeX和Markdown.
+* [Papeeria](https://www.papeeria.com)（`Cloud`）：只是另一个带有情节编译器和协作的在线LaTeX和Markdown.
 * [JaxEdit](http://jaxedit.com/)（`Cloud`）：JaxEdit不提供完整的LaTeX支持，但足以用于简单的LaTeX文档和幻灯片.
 
 
-**您也可以使用自己的计算机托管一个.**
+**您也可以使用自己的计算机托管一个主机.**
 
-* [FlyLaTeX](https://github.com/alabid/flylatex)：sharelatex的免费开放源代码版本
-* [ShareLaTeX Source Code](https://github.com/sharelatex/sharelatex) ：ShareLaTeX开放源代码.  我会说这是一个重大举措.
+* [FlyLaTeX](https://github.com/alabid/flylatex)：sharelatex的免费开源版本
+* [ShareLaTeX Source Code](https://github.com/sharelatex/sharelatex) ：ShareLaTeX开源了他们的代码.  我会说这是一个重大举措.
 * [TeXStudio](http://www.texstudio.org) -源自TeXMaker的跨平台LaTeX编辑器.
 * [WinEdt](http://www.winedt.com) -许多人发誓的LaTeX编辑器.
 * [TeXnicCenter](http://www.texniccenter.org) -LaTeX的老字号，但又免费又不错.
-* [LyX](https://www.lyx.org) -跨平台的所见即所得编辑器，该编辑器在后台使用LaTeX渲染文档.
+* [LyX](https://www.lyx.org) -跨平台的WYSIWYM编辑器，该编辑器在后台使用LaTeX渲染文档.
 * [TeXshop](http://pages.uoregon.edu/koch/texshop/) -MacTeX中包含的LaTeX文档的精简编辑器.
 * [TeXWorks](https://www.tug.org/texworks/) -以TeXShop为蓝本的LaTeX代码编辑器，但它是跨平台的.
 
@@ -327,7 +327,7 @@
 
 * [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
 * [Reproduced Papers](http://reproduced-papers.github.io/)
-* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)：有关GitHub上的更多IPython笔记本，请阅读此巨大列表.
+* [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)：有关GitHub上更多的IPython笔记本，请阅读此巨大列表.
 
 
 
@@ -337,7 +337,7 @@
 
 *心灵经理
 * XMind
-*教
+* 教
 
 **Online**
 
@@ -373,7 +373,7 @@
 
 &gt; **某些程序允许您将降价注释保留在服务器上.**
 
-* [Raneto](http://raneto.com/) ：Raneto是一个开源知识库平台，使用静态Markdown文件为您的知识库提供支持.  这个看起来不错.
+* [Raneto](http://raneto.com/) ：Raneto是一个开源知识库平台，它使用静态Markdown文件为您的知识库提供动力.  这个看起来不错.
 * [Realms](http://realms.io/) ：由Gollum，Ghost和Dillinger启发的Python编写的基于Git的Wiki.  包括基本身份验证和注册.
 * [Tiddlywiki](http://tiddlywiki.com/)：用于捕获，组织和共享复杂信息的独特的非线性笔记本.
 * 其他 [static site generators](#static-generator).
@@ -432,7 +432,7 @@
 
 ### IPython/Jupyter Notebook
 
-&gt; Python，Julia，R，Scala和其他语言受支持 [IPython/Jupyter Notebook](https://jupyter.org/) 也可以用来做演示.
+&gt;支持Python，Julia，R，Scala和其他语言 [IPython/Jupyter Notebook](https://jupyter.org/) 也可以用来做演示.
 >
 &gt;参考 [math and programming online](#math-and-programming-online) 适用于基于云的Jupyter笔记本.
 
@@ -473,18 +473,18 @@
 
 * [Visual Studio Code, aka VS Code](https://code.visualstudio.com/)（`Free`，`Cross-platform`，`Plugins`）：与atom相同的技术，但比atom更快，微软制造了.
 * [Atom](https://atom.io/) （`Free`，`Cross-platform`，`Plugins`）：基于电子的编辑器，具有众多插件和易于修改的功能.  跨平台的设置和插件通过 [sync-settings](https://atom.io/packages/sync-settings) 插入.
-* [Sublime Text](https://www.sublimetext.com/) （“免费评估”，“跨平台”，“插件”）：跨平台，快速且具有插件.  不是免费的，但是可以永远免费使用.
+* [Sublime Text](https://www.sublimetext.com/) （“免费评估”，“跨平台”，“插件”）：跨平台，快速且具有插件.  不是免费的，但可以永远永久使用.
 * [JetBrains](https://www.jetbrains.com/)（“学生免费”，“跨平台”，“插件”）：漂亮的IDE，集成了许多调试和编辑模式.
 * [vim](https://github.com/vim/vim)（`Free`，`Cross-platform`，`Plugins`）：没有任何语言可以描述全能的vim.
   * [Vundle](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
-  * [vimrc from amix](https://github.com/amix/vimrc)：“最终的Vim配置：vimrc”
+  * [vimrc from amix](https://github.com/amix/vimrc)：“ Vim的最终配置：vimrc”
 
 
 ### Softwares
 
 * [Mathematica](http://www.wolfram.com/mathematica/)：一款可以全部统治的软件
 * [iPython Notebook](http://ipython.org/notebook.html) （`Python`）：一个有用的工具，用于内联计算，制作图形和书写笔记.
-  * [wakari.io](https://wakari.io/) 是主要用于数据分析的商业类.
+  * [wakari.io](https://wakari.io/) 是一款主要用于数据分析的商业类.
   * [jiffylab](https://github.com/ptone/jiffylab) 是开源的，但做得不好.
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) 是使用Django / Pinax的笔记本的多用户版本.
 * [Matlab](http://www.mathworks.com/products/matlab/)
@@ -511,7 +511,7 @@
 
 ### Self-plagiarism
 
- &gt;这可能不是那么简单，但请记住这一点.  重用自己的作品并不能保护您免受窃！  继续阅读
+ &gt;这可能不是那么简单，但请记住这一点.  重用自己的作品并不能保护您免受窃！  阅读更多
 
 * [wikipedia:Plagiarism#Self-plagiarism](https://en.wikipedia.org/wiki/Plagiarism#Self-plagiarism).
 
@@ -531,7 +531,7 @@
 
 ### Get Yourself A Unique and Persistent Digital Identifier
 
-* [orcid](http://orcid.org/)：在任何研究工作流程中使用您的ORCID标识符，以确保您的工作获得认可.
+* [orcid](http://orcid.org/)：在任何研究工作流程中都使用ORCID标识符，以确保您的工作获得认可.
 
 
 ### Add Citations to Your Code
@@ -555,7 +555,7 @@
 
 ### Tips for Researchers
 
-* [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules) ：一系列快速的“十个简单规则”文章，供研究科学家应对职业生涯中的挑战.  文章的数量是特定于生命科学的，但是其余文章对于任何研究人员来说都足够通用.
+* [Ten Simple Rules by PLoS One](http://collections.plos.org/ten-simple-rules) ：一系列快速的“十个简单规则”文章，供研究科学家应对职业生涯中的挑战.  文章的数量是特定于生命科学的，但其余文章对于任何研究人员来说都是足够通用的.
 * 检查 [Academic Resources and Grey Literature List](https://github.com/jivoi/awesome-osint#-academic-resources-and-grey-literature)  [Awesome Open-Source Intelligence List](https://github.com/jivoi/awesome-osint) 用于搜索引擎搜索论文.
 
 ## Pacifier
@@ -566,17 +566,17 @@
 * [Coffitivity](http://coffitivity.com/) （iOS，Android，Web，Mac）：一个相当简单但有用的咖啡店噪音库；  premium有3条以上的配乐；  优雅的用户界面；  科研动力
 * [Brain.fm](https://www.brain.fm/) （`Web`）：通过音频脑电波训练改善注意力，放松和睡眠.  不是免费的，但值得每一分钱.
 * [Noizio](http://noiz.io/)（`iOS`，`Mac`）：方便的白噪声工具，位于Mac状态栏中.
-* [Noisli](http://www.noisli.com/)  （iOS，Android，Web，Chrome）：免费混合多个音轨（类似于Soundrown，但UI更好）.  用户可以保存自定义设置以供以后使用.  我个人认为，这种声音的音质要比声音大.
+* [Noisli](http://www.noisli.com/)  （iOS，Android，Web，Chrome）：免费混合多个音轨（类似于Soundrown，但UI更好）.  用户可以保存自定义设置以供以后使用.  我个人认为，这种声音的音轨比声音响的要好.
 * [Soundrown](http://soundrown.com/)（`Web`）：自由混合多首曲目
 * [Muji Sleep](http://sleep.muji.net/)（`iOS`，`Android`）
 * [A Soft Murmur](http://asoftmurmur.com/) （`Web`）：自由混合多个音轨；  简单的用户界面；  提供计时器；  可用曲折
 * [mynoise](https://mynoise.net/noiseMachines.php) （`iOS`，`Web`）：噪声发生器；  选择很多（实际上太多）；  详细均衡器
 * [Rainy Cafe](http://rainycafe.com/)（`Web`）：不多说只是多雨的心情和联想
-* [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep) （`iOS`，`Mac`）：单击并播放样式预加载的场景；  易于使用;  漂亮的设计
+* [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep) （“ iOS”，“ Mac”）：单击并播放样式预加载的场景；  易于使用;  漂亮的设计
 * [A youtube audio track of coffee shop (really long)](https://www.youtube.com/watch?v=KZV9FmHOsRg)
 * [A youtube audio track of 10 hours rain fall](https://www.youtube.com/watch?v=s_2FDRtFOAw)
 * [TaoMix](https://play.google.com/store/apps/details?id=air.com.demute.TaoMix) （`Android`）：混音集中
-* [Calm](http://www.calm.com/)（“ iOS”，“ Android”，“ Web”）：帮助您冷静下来
+* [Calm](http://www.calm.com/)（`iOS`，`Android`，`Web`）：帮助您冷静下来
 * [Raining](http://raining.fm)（`iOS`，`Android`，`Web`）：下着雨，打雷
 * [focus@will](https://www.focusatwill.com) （“ iOS”，“ Android”，“ Web”）：音乐可以增强您的大脑；  现在付费服务
 
@@ -699,7 +699,7 @@
 
 **数学排版**
 
-* [Math into Type](https://github.com/emptymalei/awesome-research/blob/master/ftp://ftp.ams.org/pub/author-info/documentation/howto/mit-2.pdf) ：这是一本与数学有关的排版的好书.  这是版权材料.  请不要重新分发.
+* [Math into Type](https://github.com/emptymalei/awesome-research/blob/master/ftp://ftp.ams.org/pub/author-info/documentation/howto/mit-2.pdf) ：这是一本关于数学相关排版的好书.  这是版权材料.  请不要重新分发.
 
 
 ## MISC
@@ -725,11 +725,11 @@
 
 * [QR Code Generator](https://www.unitag.io/qrcode)：在海报上添加QR码可以帮助您吸引更多观众.
 * [SHIELDS.io](http://shields.io/)：自己制作漂亮的徽章.
-* [TitleCap](http://titlecapitalization.com/)：不确定标题中的大写字母是哪个？ [TitleCap](http://titlecapitalization.com/) 适合您
+* [TitleCap](http://titlecapitalization.com/)：不确定标题中的哪个单词大写？ [TitleCap](http://titlecapitalization.com/) 适合您
 * [On Being a Scientist](https://www.nap.edu/read/12192/)：负责任的研究行为指南.
 * [DiRT Directory](http://dirtdirectory.org/)：用于学术用途的数字研究工具注册处.
 * [Online Whiteboard](https://awwapp.com) ：用户可以协作的简单在线白板；  非常适合在线会议.
-* [MapInSeconds.com](http://www.mapinseconds.com/)：通过从电子表格中复制粘贴快速创建具有相应数据的地图.
+* [MapInSeconds.com](http://www.mapinseconds.com/)：通过从电子表格中复制粘贴，快速创建具有相应数据的地图.
 * [Unpay Wall](http://unpaywall.org/)：免费合法下载研究论文.
 
 -----

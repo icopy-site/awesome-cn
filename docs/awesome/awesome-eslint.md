@@ -12,7 +12,7 @@
 
 ## Configs
 
-- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -最好的鲜为人知的eslint插件的集合，可与您的主要配置一起使用.
+- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -与主要esLint配置一起使用的合理的插件集合.
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -共享配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) -为您的React / Vue / TypeScript项目进行渐进式ESLint配置.
 - [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) -一个配置来统治所有人！
@@ -49,7 +49,7 @@
 - [Ember](https://github.com/netguru/eslint-plugin-ember) -灰烬的绒毛规则.
 - [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) -根据模式检查您的GraphQL查询字符串.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) -棉纱规则.
-- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -JSDoc注释的规则（包括@example中的JavaScript）.
+- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
 - [Lodash](https://github.com/wix/eslint-plugin-lodash) -Lodash特定的起绒规则.
 - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) -Lodash / fp特定的起毛规则.
 - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -Lodash模板/下划线模板的插件.
@@ -162,7 +162,7 @@
 - [Standard](https://github.com/feross/standard) -JavaScript标准样式.
 - [Superlint](https://github.com/supermind/superlint) -JavaScript Supermind样式.
 - [XO](https://github.com/sindresorhus/xo) -JavaScript幸福风格的短毛猫❤️.
-- [Zoe](https://github.com/jorgegonzalez/zoe) - Universal JavaScript linter and formatter.
+- [Zoe](https://github.com/jorgegonzalez/zoe) -通用JavaScript小工具和格式化程序.
 - [Healthier](https://github.com/KidkArolis/healthier) -标准的代码风格不可知版本，是Prettier的完美伴侣.
 
 ## Tools
