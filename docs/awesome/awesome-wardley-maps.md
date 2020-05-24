@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Wardley Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map)  是一项可帮助您检查环境，识别即将发生的变化并正确选择操作的技术.  通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建自己的世界的可视化表示，玩假设游戏，并选择支持的最佳方向和最佳措施.
+> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map)  是一项可帮助您检查环境，识别即将发生的变化并正确选择操作的技术.  通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建世界的视觉表示，玩假设游戏，并选择支持的最佳方向和最佳措施.
 
  这是有用的Wardley映射资源的列表.  短网址：**[list.wardleymaps.com](http://list.wardleymaps.com) **.  欢迎捐款！ [Contribution guidelines](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/contributing.md) 用于将某些东西添加到列表中. 
 
@@ -11,7 +11,7 @@
 ## Quick Start
 
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) -情境意识如何将您的业务推向市场（5:51）.
-- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
+- [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) -在11个图表中 [Simon Wardley](https://twitter.com/swardley).
 - [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) -引人入胜的动画 [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
 
 ## Community
@@ -67,7 +67,7 @@
 - [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/)  -绘制路易斯·格斯特纳（Louis Gerstner）的“谁说大象不能跳舞”.  2019年6月18日.
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  -应对推出新型支付解决方案的挑战.  2019年6月14日.
 - [Mapping Crypto: A Primer](https://blog.agostbiro.com/2019/06/mapping-crypto-a-primer/)  -通过沃德利地图了解加密货币生态系统.  2019年6月2日.
-- [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.
+- [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/) - The Green Web Foundation. Mar 20, 2019.
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种策略最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发.  下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps)  用于创建《 IT战略手册》.  2019年3月13日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源；  并跨多个NSO启用大数据协作.  下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019年3月12日.
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所开创的制图形式相结合.  2019年1月2日.
@@ -89,9 +89,11 @@
 - [Amazon is eating the software (which is eating the world)](https://medium.com/hackernoon/amazon-is-eating-the-software-which-is-eating-the-world-738888fb9e82) -2016年11月30日.
 - [The map is not the territory](https://medium.com/@swardley/the-map-is-not-the-territory-257a3c258a83) -2016年11月24日.
 - [Why the fuss about serverless?](https://medium.com/hackernoon/why-the-fuss-about-serverless-4370b1596da0)  -建筑实践和基于价值的开发的演变和共同发展.  2016年11月23日.
+- [On user needs and listening to customers](https://blog.gardeviance.org/2016/04/on-user-needs-and-listening-to-customers.html)  -西蒙·沃德利（Simon Wardley）专注于地图绘制的最重要部分之一-锚点.  2016年4月11日.
 - [Evolving Enterprise Collaboration To Digital Ecosystems](https://www.forbes.com/sites/rawnshah/2015/10/17/evolving-enterprise-collaboration-to-digital-ecosystems/#7091b8557bda) -2015年10月17日.
 - [The power of situational awareness for digital government](https://www.computerweekly.com/opinion/The-power-of-situational-awareness-for-digital-government)  -第2部分Mark Thompson概述了使政府成为一个更具凝聚力，更完整的组织的数字愿景.  2015年10月9日.
 - [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight)  -第1部分马克·汤普森（Mark Thompson）概述了数字愿景，以使政府成为一个更具凝聚力的集成组织.  2015年10月9日.
+- [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html)  -对于新任命的执行官，帮助您进入一个可以开始学习和讨论策略的职位.  2015年8月21日.
 - [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html)  -Simon Wardley讨论了他在映射中使用的其他一些工具.  2015年3月6日.
 
 ## Research Papers
@@ -110,7 +112,7 @@
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的方法指南.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -用于OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了LaTeX中绘制沃德利地图的过程.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -沃德利（Yard）映射调色板.
 
 ### Doctrine Assessement

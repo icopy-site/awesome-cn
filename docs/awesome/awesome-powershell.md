@@ -6,7 +6,7 @@
 
 精选的令人愉快的清单 [PowerShell](https://en.wikipedia.org/wiki/PowerShell) 包和资源.
 
-PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具，针对处理结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
+PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，已针对处理结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
 它包括命令行外壳程序和关联的脚本语言.
 
 
@@ -84,7 +84,7 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 
 ## Communities
 
-* [PowerShell.org](http://powershell.org/) -论坛，峰会，社区博客文章等.
+* [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
 * [/r/PowerShell](http://www.reddit.com/r/powershell) -Reddit PowerShell社区.
 * [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
 
@@ -150,6 +150,7 @@ PowerShell是跨平台的（Windows，Linux和macOS）自动化和配置工具�
 
 * [Pester](https://github.com/pester/Pester) -PowerShell BDD样式测试框架.
 * [Format-Pester](https://github.com/equelin/format-pester) -用于记录Pester结果的PowerShell模块-使用以下命令将Pester结果导出到HTML，Word，文本文件 [PScribo](https://github.com/iainbrighton/PScribo).
+* [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)  -用于模块和脚本的静态代码检查器.  它通过根据PowerShell团队和社区确定的最佳实践运行一组规则来检查代码的质量.
 
 ## Themes
 

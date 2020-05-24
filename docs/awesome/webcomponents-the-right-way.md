@@ -87,7 +87,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### HTML Templates polyfills
 
 - [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template)  -最小的polyfill用于` <template>  `.
-- [@ungap/import-node](https://github.com/ungap/import-node) -由IE11提供的`importNode` polyfill [ungap project](https://ungap.github.io).
+- [@ungap/import-node](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
 
 ## Articles
 
@@ -136,6 +136,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
 - [Custom Elements That Work Anywhere](https://robdodson.me/interoperable-custom-elements/)
 - [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
+- [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
 - [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
 
 ### Accessibility
@@ -171,6 +172,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) -用于SPA路由，显示来自Web服务的数据等的独立组件.
 - [Elix](https://github.com/elix/elix) -用于通用用户界面模式的高质量，可定制的Web组件.
+- [Iooxa](https://github.com/iooxa/article) -用于交互式科学写作，反应性文档和可解释性说明的Web组件.
 - [Lion Web Components](https://github.com/ing-bank/lion) -一组高性能，可访问且灵活的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
@@ -221,7 +223,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [Corpuscule](https://github.com/corpusculejs/corpuscule) -基于装饰器的小型Web组件框架.
 - [DNA](https://github.com/chialab/dna) -渐进式Web组件库.
-- [LitElement](https://lit-element.polymer-project.org) - Simple base class for creating fast, lightweight web components. Part of the Polymer Project.
+- [LitElement](https://lit-element.polymer-project.org)  -用于创建快速，轻量级Web组件的简单基类.  聚合物项目的一部分.
 - [Lightning Web Components](https://github.com/salesforce/lwc) -快速的企业级Web组件基础.
 - [Omi](https://github.com/Tencent/omi) -4kb JavaScript的下一代Web框架（Web组件+ JSX +代理+存储+路径更新）.
 - [Polymer](https://polymer-library.polymer-project.org) -Polymer Project作者提供的原始Web组件库.

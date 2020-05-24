@@ -117,6 +117,7 @@
 * [JSLint](https://github.com/douglascrockford/JSLint) -高标准，严格和自以为是的代码质量工具，旨在仅保留部分语言.
 * [JavaScript Standard Style](https://github.com/feross/standard) -固执己见的，无配置的样式指南，样式检查器和格式化程序
 * [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) -在构建时预先评估您的前端javascript代码
+* [JS-Beautifier](https://github.com/beautify-web/js-beautify) -Npm cli和库来格式化JS代码.
 
 ## MVC Frameworks and Libraries
 
@@ -278,7 +279,7 @@
 * [docco](http://jashkenas.github.io/docco/) 是一个快速且肮脏的，长达一百行的，具有文化编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn)  建立手册.  它将简单的人类可读文本文件转换为roff以进行终端显示，还转换为HTML以进行网络显示.
-* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成自以为是的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
+* [dox](https://github.com/tj/dox)  是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成有目的的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
@@ -520,7 +521,7 @@
 * [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) -旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) -为页面上的每个对象创建和管理进度栏.
-* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且响应迅速的进度栏.
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且反应灵敏的进度条.
 * [pace](https://github.com/HubSpot/pace) -自动将进度条添加到您的网站.
 * [topbar](https://github.com/buunguyen/topbar) -微小而美观的站点范围进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)  -非常轻量级的进度条.  没有jQuery.
@@ -764,7 +765,7 @@
 
 ## Video/Audio
 
- * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于您的YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
+ * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media) - Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>
  * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
@@ -778,7 +779,7 @@
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) -允许用户在您的网站上拍摄头像图片的小部件.
  * [clappr](https://github.com/clappr/clappr) -Web http://clappr.io的可扩展媒体播放器
  * [exifr](https://github.com/MikeKovarik/exifr)  -最快，最通用的EXIF阅读库.  https://mutiny.cz/exifr/
- * [ts-audio](https://github.com/EvandroLG/ts-audio) -一个不可知且易于使用的库，可与AudioContext API配合使用
+ * [ts-audio](https://github.com/EvandroLG/ts-audio) -一个不可知且易于使用的库，可与AudioContext API一起使用
 
 ## Typography
 

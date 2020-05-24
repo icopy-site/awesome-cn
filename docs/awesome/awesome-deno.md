@@ -44,7 +44,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) -一个简单的CSV解析器.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) -Deno Cache Clean，在下次运行时重新加载dep.
 - [dejs](https://github.com/syumai/dejs) -用于Edeno的Ejs模板引擎.
-- [denon](https://github.com/eliassjogreen/denon/blob/master/watcher.ts) -具有等待生成器的文件监视程序.
+- [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) -具有等待生成器的文件监视程序.
 - [deno_case_style](https://github.com/zekth/deno_case_style)  -用于不同大小写样式的字符串验证器和格式化程序.  例如：camelCase等.
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) -SHA1 / MD5算法.
 - [deno-context](https://github.com/code-hex/deno-context)  -将期限，取消和其他要求范围的值传播给多个承诺.  行为就像Go的上下文.
@@ -122,7 +122,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) -Denoinit为Deno项目生成有用的文件.
 - [denoliver](https://github.com/joakimunge/denoliver) -具有实时重新加载功能的简单，无依赖的文件服务器.
 - [denomander](https://github.com/siokas/denomander) -Deno命令行界面灵感来自commander.js.
-- [denon](https://github.com/eliassjogreen/denon) -和Nodemon一样，但对于Deno.
+- [denon](https://github.com/denosaurs/denon)  -守护程序脚本运行程序，例如nodemon.  内置于Deno.
 - [denopkg](https://github.com/denopkg/denopkg.com) -在您的Deno项目中使用GitHub中代码的简便方法.
 - [denoversion](https://github.com/lucascaro/denoversion) -Deno的SemVer和git版本管理.
 - [denox](https://github.com/BentoumiTech/denox) -与packages.json脚本类似，但对于具有权限支持的Deno.
@@ -198,6 +198,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note/)
 - [Deno中文社区](https://denocn.org)
 - [Deno 手册](https://github.com/Nugine/deno-manual-cn/)
+- [Deno 中文开发者社区](https://deno.js.cn)
 
 ### Hebrew
 
@@ -226,6 +227,8 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 
 ### Spanish
 - [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
+- [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
+- [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
 
 ### Uzbek
 
