@@ -25,7 +25,7 @@ Awesome-Kubernetes
 
  **感谢Gitbook.此真棒列表现在可以下载并以书的形式阅读.  检查一下-&gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/.继续学习保持共享!! **
 
-**If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
+ **如果您在此处看到已不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢！**
 
 ## What is Kubernetes? :ship:
 
@@ -109,7 +109,7 @@ Installers
 * [eksctl](https://eksctl.io/) -Amazon EKS的官方CLI
 * [Juju](https://jujucharms.com/canonical-kubernetes) -Ubuntu-云不可知
 * [KubeSphere](https://github.com/kubesphere/kubesphere) -轻松地在多个实例中安装Kubernetes和KubeSphere，包括全栈云原生软件，例如istio，ES，Prometheus，Fluent Bit，SonarQube，Jenkins.
-* [k3s](https://github.com/rancher/k3s)  -轻量级的Kubernetes.  易于安装，一半内存，所有二进制文件不到40mb
+* [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
 * [k3d](https://github.com/rancher/k3d) -在容器节点中运行k3s集群的工具
 * [kind](https://kind.sigs.k8s.io) -使用Docker容器“节点”运行本地Kubernetes集群的工具
 * [Kops](https://github.com/kubernetes/kops) -与操作系统无关-AWS
@@ -203,7 +203,7 @@ Installers
 
 
 
-- [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/) -RBAC，TLS，安全策略，网络策略等
+- [Kubernetes Security Guide](https://sysdig.com/wp-content/uploads/2019/01/kubernetes-security-guide.pdf) -RBAC，TLS，安全策略，网络策略等
 - [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](http://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets) 通过 [John Kariuki ](https://twitter.com/_kar_is)
 - [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) 通过 [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
 - [Kubernetes Security Best Practices](https://dev.to/petermbenjamin/kubernetes-security-best-practices-hlk)
@@ -326,7 +326,7 @@ Installers
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -阿里云Kubernetes云容器服务
    - [AWS EKS](https://aws.amazon.com/eks/) -亚马逊弹性容器服务
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -Azure Kubernetes服务
-   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
+   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) -Google Kubernetes引擎
    - [IKS](https://www.ibm.com/cloud/container-service) -IBM Cloud Kubernetes服务
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -Oracle Kubernetes引擎
@@ -419,7 +419,7 @@ MOOC课程/教程
 * [StorageOS](http://storageos.com)
 * [Stork](https://github.com/libopenstorage/stork)
 
-容器存储接口插件
+Container Storage Interface Plugins
 =======================================================================
 
 *部分清单 [Container Storage Interface](https://kubernetes-csi.github.io/docs/)  Kubernetes的插件.  查看 [Kubernetes-CSI Drivers](https://kubernetes-csi.github.io/docs/drivers.html) 以获得完整列表*
@@ -841,6 +841,7 @@ Projects
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)  -一种数据约束语言，旨在简化涉及定义​​和使用数据的任务.  Cue是JSON的超集
 * [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，使您可以专注于数据，而不是如何正确地对其进行转义.
 * [kosko](https://github.com/tommy351/kosko) -用JavaScript编写Kubernetes清单，并根据Kubernetes OpenAPI定义进行验证.
+* [MicroConfig](https://microconfig.io)  -出色的微服务配置管理工具.  可与应用程序配置，头盔值，kubernetes资源等配合使用.
 
 ## Security
 * [kubiscan](https://github.com/cyberark/KubiScan) -扫描Kubernetes集群中有风险的Pod和RBAC权限的工具

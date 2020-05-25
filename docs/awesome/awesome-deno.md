@@ -99,7 +99,8 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [postgres](https://github.com/buildondata/deno-postgres) -PostgreSQL数据库驱动程序.
 - [qrcode](https://github.com/denorg/qrcode) -用于Deno的QR码图像生成器.
 - [qs](https://github.com/denolib/qs) -具有嵌套支持的查询字符串解析器.
-- [recursive-readdir](https://github.com/denorg/recursive-readdir) - Recursively read directories in Deno.
+- [recursive-readdir](https://github.com/denorg/recursive-readdir) -在Deno中递归读取目录.
+- [router](https://github.com/zhmushan/router) -高性能基本路由器可在任何地方使用.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) -从移植的SAX样式的XML解析器 [sax-js](https://github.com/isaacs/sax-js).
 - [servest](https://github.com/keroxp/servest) -渐进式HTTP服务器/路由器.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) -sql查询生成器.
@@ -130,7 +131,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 -maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗映像.
 -海德 [deno-docker](https://github.com/hayd/deno-docker) 几个docker映像.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) -使用此扩展程序利用vscode中内置的typedef和intellisense.
-- [dev_server](https://github.com/zhmushan/dev_server) -让TypeScript文件直接在script标签中使用.
+- [dev_server](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 - [dpm](https://github.com/BoltDoggy/deno#dpm)  -Deno软件包管理器，为deno安装全局命令.  像denoget.
 -DVM
   - [justjavac/dvm](https://github.com/justjavac/dvm) -Deno版本管理器：管理多个活动的Deno版本.
@@ -234,3 +235,4 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 
 - [Telegram Channel](https://t.me/denoland_uz)
 - [Telegram Group](https://t.me/chisel_deno)
+- [Deno Translated Website](https://deno.uz)

@@ -14,7 +14,6 @@ A list of Q# code and resources.
 - [Q# samples](https://github.com/Microsoft/Quantum)
 - [Q# libraries](https://github.com/Microsoft/QuantumLibraries)
 - [Quantum Development Kit documentation](https://docs.microsoft.com/quantum/) -特别是“量子计算概念”总体上很好地介绍了量子计算.
-- [Feedback forums](https://quantum.uservoice.com/)
 - [Quantum Computing Libraries for noncommercial use](https://github.com/Microsoft/Quantum-NC)
 - [Q# libraries for the Quantum Development Kit](https://github.com/microsoft/QuantumLibraries)
 
@@ -33,7 +32,7 @@ A list of Q# code and resources.
 - [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) -Bettina Heim，Microsoft Ignite 2018会议（[here](https://www.youtube.com/watch?v=AjBLsrGgEkY) 与VS Code而不是Visual Studio保持同一会话）.
 - [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) -John Azariah，Microsoft Build 2018会议.
 - [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) -Rolf Huisman.
-- [Quantum computing sessions at //Build 2019](https://mybuild.techcommunity.microsoft.com/sessions?q=quantum)
+- [Quantum computing sessions at //Build](https://mybuild.microsoft.com/sessions?q=quantum)
 
 ## Coding Contests and Solutions
 
