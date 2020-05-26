@@ -48,6 +48,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno_case_style](https://github.com/zekth/deno_case_style)  -用于不同大小写样式的字符串验证器和格式化程序.  例如：camelCase等.
 - [deno-checksum](https://github.com/manyuanrong/deno-checksum) -SHA1 / MD5算法.
 - [deno-context](https://github.com/code-hex/deno-context)  -将期限，取消和其他要求范围的值传播给多个承诺.  行为就像Go的上下文.
+- [deno_cron](https://github.com/rbrahul/deno_cron) -cron Job调度程序，使您可以编写具有大量灵活性的可读cron语法
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) -使Deno程序在后台运行.
 -deno-dotenv
   - [pietvanzoen/deno-dotenv](https://github.com/pietvanzoen/deno-dotenv) -Dotenv行动为deno.
@@ -83,7 +84,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [gardens](https://github.com/partheseas/gardens) -一个无处不在的JavaScript记录实用程序.
 - [gentleRpc](https://github.com/timonson/gentleRpc) -用于Deno和浏览器的JSON-RPC 2.0 TypeScript库.
 - [http](https://github.com/denoland/deno_std/tree/master/http) -包括文件服务器的HTTP模块.
-- [http-libs](https://github.com/denoserverless/http-libs) -HTTP模块和类型.
+- [http-libs](https://github.com/denoserverless/http-libs) - HTTP modules and typings.
 - [invert-kv](https://github.com/denorg/invert-kv) -在Deno中反转键值对.
 - [jwt](https://github.com/denoserverless/jwt) -auth0 / jsonwebtoken的端口.
 - [lazy](https://github.com/luvies/lazy) -类似于linq的惰性求值迭代模块.
@@ -101,6 +102,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [qs](https://github.com/denolib/qs) -具有嵌套支持的查询字符串解析器.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) -在Deno中递归读取目录.
 - [router](https://github.com/zhmushan/router) -高性能基本路由器可在任何地方使用.
+- [rubico](https://github.com/richytong/rubico)  -[a]同步功能组成；  它只是工作.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) -从移植的SAX样式的XML解析器 [sax-js](https://github.com/isaacs/sax-js).
 - [servest](https://github.com/keroxp/servest) -渐进式HTTP服务器/路由器.
 - [sql-builder](https://github.com/manyuanrong/sql-builder) -sql查询生成器.
@@ -131,7 +133,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 -maxmcd [deno-docker](https://github.com/maxmcd/deno-docker) 泊坞窗映像.
 -海德 [deno-docker](https://github.com/hayd/deno-docker) 几个docker映像.
 - [deno-vscode](https://github.com/ameerthehacker/deno-vscode) -使用此扩展程序利用vscode中内置的typedef和intellisense.
-- [dev_server](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
+- [dev_server](https://github.com/zhmushan/dev_server) -让TypeScript文件直接在script标签中使用.
 - [dpm](https://github.com/BoltDoggy/deno#dpm)  -Deno软件包管理器，为deno安装全局命令.  像denoget.
 -DVM
   - [justjavac/dvm](https://github.com/justjavac/dvm) -Deno版本管理器：管理多个活动的Deno版本.

@@ -6,7 +6,7 @@
 
 &gt;精选的超赞清单 [PostgreSQL](https://www.postgresql.org/) 受启发的软件，库，工具和资源 [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
 
-[PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)，通常只是Postgres，是 [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database)  （ORDBMS）.  PostgreSQL是 [ACID-compliant](https://en.wikipedia.org/wiki/ACID) 和 [transactional](https://en.wikipedia.org/wiki/Transaction_processing) .  （查看更多： [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
+[PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)，通常只是Postgres， [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database)  （ORDBMS）.  PostgreSQL是 [ACID-compliant](https://en.wikipedia.org/wiki/ACID) 和 [transactional](https://en.wikipedia.org/wiki/Transaction_processing) .  （查看更多： [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
 
   ：elephant：欢迎捐助.  通过添加链接 [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) 或创建一个 [issue](https://github.com/dhamaniasad/awesome-postgres/issues)  开始讨论.  请看看 [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md).
 
@@ -14,11 +14,11 @@
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) -双向复制-PostgreSQL的多主复制系统
-* [Patroni](https://github.com/zalando/patroni) -带有ZooKeeper或etcd的PostgreSQL HA的模板.
+* [Patroni](https://github.com/zalando/patroni) -带ZooKeeper或etcd的PostgreSQL HA的模板.
 * [Stolon](https://github.com/sorintlab/stolon) -基于Consul或etcd的PostgreSQL HA，具有Kubernetes集成.
 * [pglookout](https://github.com/aiven/pglookout) -复制监视和故障转移守护程序.
 * [repmgr](https://github.com/2ndQuadrant/repmgr) -开源工具套件，用于管理PostgreSQL服务器群集中的复制和故障转移.
-* [Slony-I](http://slony.info) -具有级联和故障转移的“主从多个从”复制系统.
+* [Slony-I](https://slony.info/) -具有级联和故障转移的“主从多个从”复制系统.
 * [PAF](https://github.com/ClusterLabs/PAF) -PostgreSQL自动故障转移：基于Pacemaker和Corosync的Postgres的高可用性.
 * [SkyTools](https://github.com/pgq/skytools-legacy) -复制工具，包括PgQ（排队系统）和Londiste（复制系统），其管理比Slony更为简单.
 
@@ -29,7 +29,7 @@
 * [pgBackRest](https://pgbackrest.org/)  -可靠的PostgreSQL备份和还原.
 * [pg\_back](https://github.com/orgrim/pg_back/) -pg \ _back是一个简单的备份脚本
 * [pghoard](https://github.com/aiven/pghoard) -用于云对象存储（AWS S3，Azure，Google Cloud，OpenStack Swift）的备份和还原工具.
-* [wal-e](https://github.com/wal-e/wal-e) -Heroku的PostgreSQL至S3，Azure或Swift的简单连续归档.
+* [wal-e](https://github.com/wal-e/wal-e) -Heroku的PostgreSQL到S3，Azure或Swift的简单连续归档.
 * [wal-g](https://github.com/wal-g/wal-g)  -在Go中重写了WAL-E的后继者.  当前支持AWS（S3），Google Cloud（GCS），Azure以及OpenStack Swift，MinIO和文件系统存储的云对象存储服务.  支持块级增量备份，将备份任务卸载到备用服务器，提供并行化和限制选项.  除了Postgres，WAL-G还可用于MySQL和MongoDB数据库.
 * [pitrery](https://dalibo.github.io/pitrery/) -pitrery是一组Bash脚本，用于管理PostgreSQL的时间点恢复（PITR）备份.
 
@@ -45,23 +45,23 @@
 * [JackDB](https://www.jackdb.com/) -基于Web的SQL查询界面（商业软件）.
 * [Metabase](https://www.metabase.com/) -PostgreSQL的简单仪表板，图表和查询工具.
 * [Numeracy](https://numeracy.co/) -带有PostgreSQL（商业软件）图表和仪表板的快速SQL编辑器.
-* [pgAdmin](https://www.pgadmin.org/) -PostgreSQL管理和GUI.
+* [pgAdmin](https://www.pgadmin.org/) -PostgreSQL管理和管理GUI.
 * [pgModeler](https://pgmodeler.io/) -pgModeler是开源的PostgreSQL数据库建模器.
 * [pgweb](https://github.com/sosedoff/pgweb) -用Go编写的基于Web的PostgreSQL数据库浏览器.
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) -PostgreSQL的首要基于Web的管理工具.
 * [Postbird](https://github.com/Paxa/postbird) -适用于macOS的PostgreSQL客户端.
 * [Postico](https://eggerapps.at/postico/) -适用于macOS（商业软件）的现代PostgreSQL客户端.
-* [PSequel](http://www.psequel.com/) -简洁易用的界面，可快速执行常见的PostgreSQL任务（商业软件）.
+* [PSequel](http://www.psequel.com/) -简洁的界面，可以快速执行常见的PostgreSQL任务（商业软件）.
 * [SQL Tabs](http://www.sqltabs.com/) -用JS编写的PostgreSQL跨平台桌面客户端.
 * [SQLPro for Postgres](http://macpostgresclient.com/) -适用于macOS（商业软件）的简单，功能强大的PostgreSQL管理器.
 * [temBoard](https://github.com/dalibo/temboard) -基于Web的PostgreSQL GUI和监视.
 * [TablePlus](https://tableplus.com/)  -本机应用程序，可让您编辑数据库和结构.  确保高端安全性（商业软件）.
-* [DataRow](https://datarow.com/) -适用于Amazon Redshift的跨平台SQL客户端：简单，轻松，可扩展.
+* [DataRow](https://www.datarow.com/) -适用于Amazon Redshift的跨平台SQL客户端：简单，轻松，可扩展.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) -跨平台的数据库管理工具（免费/商业）
 * [PostgresCompare](https://www.postgrescompare.com) -跨平台的数据库比较和部署工具（商业软件）.
 
 ### Distributions
-* [Postgres.app](https://postgresapp.com/) -在macOS上使用PostgreSQL的最简单的入门方法.
+* [Postgres.app](https://postgresapp.com/) -在macOS上使用PostgreSQL的最简单方法.
 * [PostgreSql.Binaries.Lite](https://github.com/mihasic/PostgreSql.Binaries.Lite)  -PostgreSQL数据库的Windows二进制文件的最小集.  也可以通过NuGet使用.
 
 ### CLI
@@ -89,7 +89,7 @@
 * [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) -灵活且易于上手的PostgreSQL指标监控器，专注于Grafana仪表板.
 * [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) -在PostgreSQL上进行基准测试.
 * [opm.io](http://opm.io)  -Open PostgreSQL Monitoring是一个免费软件套件，旨在帮助您管理PostgreSQL服务器.  它可以收集统计信息，显示仪表板并在出现问题时发送警告.
-* [okmeter.io](https://okmeter.io/pg)  -基于商业SaaS代理的监视，带有非常详细的PostgreSQL插件.  它会自动收集100项统计信息，在各个方面显示仪表板，并在出现问题时发送警报（商业软件）.
+* [okmeter.io](https://okmeter.io/pg)  -具有非常详细的PostgreSQL插件的基于商业SaaS代理的监视.  它会自动收集100项统计信息，在各个方面显示仪表板，并在出现问题时发送警报（商业软件）.
 
 ### Extensions
 * [Citus](https://github.com/citusdata/citus) -可扩展的PostgreSQL集群，用于实时工作负载.
@@ -97,7 +97,7 @@
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) -Cyan Audit逐列提供所有DML活动的数据库内日志记录.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) -提供逻辑流复制的扩展.
 * [pg\_partman](https://github.com/pgpartman/pg_partman) -PostgreSQL的分区管理扩展.
-* [pg\_paxos](https://github.com/citusdata/pg_paxos/) -对PostgreSQL节点集群的Paxos和基于Paxos的表复制的基本实现.
+* [pg\_paxos](https://github.com/citusdata/pg_paxos/) -PostgreSQL节点集群的Paxos和基于Paxos的表复制的基本实现.
 * [pg\_shard](https://github.com/citusdata/pg_shard) -扩展以扩展实时读取和写入.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) -扩展以将CPU密集型工作负载卸载到GPU.
 * [pgxn](https://pgxn.org/) PostgreSQL扩展网络-许多开源PostgreSQL扩展的集中分发点
@@ -120,14 +120,14 @@
 * [pgtune](https://github.com/gregs1104/pgtune/) -PostgreSQL配置向导.
 * [pgtune](https://github.com/le0pard/pgtune) -PostgreSQL配置向导的在线版本.
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) -PostgreSQL在线配置工具（也基于pgtune）.
-* [PoWA](https://powa.readthedocs.io/en/latest/) -PostgreSQL Workload Analyzer收集性能统计数据，并提供实时图表，以帮助监视和调整PostgreSQL服务器.
+* [PoWA](https://powa.readthedocs.io/en/latest/) -PostgreSQL Workload Analyzer收集性能统计数据并提供实时图表，以帮助监视和调整PostgreSQL服务器.
 * [pg_web_stats](https://github.com/kirs/pg_web_stats) -用于查看pg_stat_statements的Web UI.
 * [TimescaleDB Tune](https://github.com/timescale/timescaledb-tune) -一种程序，用于根据主机的资源（例如内存和CPU数量）调整TimescaleDB数据库以使其发挥最佳性能.
 
 ### Utilities
-* [apgdiff](https://www.apgdiff.com/) -比较两个数据库转储文件，并使用DDL语句创建输出，这些语句可用于将旧数据库模式更新为新的数据库模式.
+* [apgdiff](https://www.apgdiff.com/) -比较两个数据库转储文件，并使用DDL语句创建输出，这些语句可用于将旧数据库架构更新为新的数据库架构.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) -ERAlchemy从数据库生成实体关系（ER）图.
-* [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) -具有细粒度访问控制的Postgres上的快速，实时实时GraphQL API，还触发了数据库事件上的webhooks.
+* [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) -具有细粒度访问控制的Postgres上快速，即时的实时GraphQL API刷新数据库事件.
 * [ldap2pg](https://github.com/dalibo/ldap2pg) -从YML和LDAP同步角色和特权.
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) -Lanyrd的MySQL到PostgreSQL的转换脚本.
 * [ora2pg](http://ora2pg.darold.net) -Perl模块，用于将Oracle数据库模式导出到PostgreSQL兼容模式.
@@ -139,8 +139,9 @@
 * [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends.
 * [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) -从MySQL到PostgreSQL的实时副本，具有可选的类型，可覆盖迁移和迁移功能.
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) -将数据从PostgreSQL导出为不同的数据格式.
+* [pg_docs_bot](https://github.com/mchristofides/pg_docs_bot/) -用于将PostgreSQL文档链接重定向到当前版本的浏览器扩展.
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) -将CSV和JSON导入PostgreSQL的简单方法.
-* [PGInsight](http://pginsight.io/) -CLI工具，可轻松地深入PostgreSQL数据库.
+* [PGInsight](http://pginsight.io/) -CLI工具，可轻松深入PostgreSQL数据库.
 * [pg_insights](https://github.com/lob/pg_insights) -方便的SQL监视Postgres数据库运行状况.
 * [pgloader](https://github.com/dimitri/pgloader) -使用COPY流协议将数据加载到PostgreSQL中，并使用单独的线程进行读写数据.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) -中间件，提供连接池，复制，负载平衡和限制超连接.
@@ -153,14 +154,14 @@
 * [yoke](https://github.com/nanopack/yoke) -具有自动故障转移和自动群集恢复功能的PostgreSQL高可用性群集.
 * [pglistend](https://github.com/kabirbaidhya/pglistend) -一个轻量级的PostgresSQL`LISTEN` /`NOTIFY`守护进程，它建立在`node-postgres`之上.
 * [ZSON](https://github.com/postgrespro/zson) -用于透明JSONB压缩的PostgreSQL扩展
-* [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) -这是用于PostgreSQL的高速数据加载实用程序.
+* [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) -这是PostgreSQL的高速数据加载实用程序.
 * [pg_migrate](https://github.com/jwdeitch/pg_migrate) -管理PostgreSQL代码库并简化VCS.
 * [sqitch](https://github.com/sqitchers/sqitch) -用于管理版本化架构部署的工具
-* [pgmigrate](https://github.com/yandex/pgmigrate) -Yandex开发的CLI工具，用于发展模式迁移.
-* [pgcmp](https://github.com/cbbrowne/pgcmp) -比较数据库架构的工具，具有接受某些持久性差异的能力
-* [pg-differ](https://github.com/av-dev/postgres-differ) -易于初始化/更新PostgreSQL表结构的工具，可替代迁移（Node.js）.
+* [pgmigrate](https://github.com/yandex/pgmigrate) -Yandex开发的用于发展模式迁移的CLI工具.
+* [pgcmp](https://github.com/cbbrowne/pgcmp) -比较数据库模式的工具，具有接受某些持久性差异的能力
+* [pg-differ](https://github.com/multum/pg-differ) -易于初始化/更新PostgreSQL表结构的工具，可替代迁移（Node.js）.
 * [sqlcheck](https://github.com/jarulraj/sqlcheck)  -自动检测常见的SQL反模式.  这种反模式通常会使查询变慢.  因此，解决这些问题将有助于加快查询速度.
-* [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) -新一代诊断工具，可让用户收集对Postgres数据库运行状况的深入分析.
+* [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) -新一代的诊断工具，可让用户收集对Postgres数据库运行状况的深入分析.
 * [ScaffoldHub.io](https://scaffoldhub.io) -使用Angular，Vue或React（商业软件）生成全栈PostgreSQL应用. 
 
 ### Language bindings
@@ -180,14 +181,14 @@
 *月球： [luapgsql](https://github.com/arcapos/luapgsql)
 
 ### PaaS *(PostgreSQL as a Service)*
-* [Aiven PostgreSQL](https://aiven.io/postgresql)  -PostgreSQL作为AWS，Azure，DigitalOcean，Google Cloud和UpCloud中的服务；  计划的范围从每月$ 19的单节点实例到大型的高可用设置，免费试用两周.
+* [Aiven PostgreSQL](https://aiven.io/postgresql)  -PostgreSQL作为AWS，Azure，DigitalOcean，Google Cloud和UpCloud中的服务；  计划范围从$ 19 /月的单节点实例到大型的高可用设置，免费试用两周.
 * [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) -适用于PostgreSQL的Amazon Relational Database Service（RDS）
 * [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/)  -PostgreSQL的Azure数据库提供了完全托管的企业就绪社区PostgreSQL数据库即服务.  它提供内置的HA，弹性扩展和与Azure生态系统的本机集成.
 * [Citus Cloud](https://www.citusdata.com/product/cloud) -生产级扩展了PostgreSQL即服务，从而支持实时工作负载并分片多租户应用程序.
-* [Compose](https://www.compose.com/databases/postgresql)  -PostgreSQL作为AWS，Google Cloud Platform和IBM Cloud中的服务；  计划价格从每月17.5美元/月到1GB存储/扩展到12美元/ GB不等.  免费试用30天.
-* [Database Labs](https://www.databaselabs.io) -数分钟之内即可获得可立即投入生产的云PostgreSQL服务器，每月20美元起，包括备份，监控，补丁程序和24/7全天候技术支持.
+* [Compose](https://www.compose.com/databases/postgresql)  -PostgreSQL作为AWS，Google Cloud Platform和IBM Cloud中的服务；  计划的价格从每月17.5美元/月的1GB存储空间扩展到12美元/ GB.  免费试用30天.
+* [Database Labs](https://www.databaselabs.io) -数分钟内即可获得可立即投入生产的云PostgreSQL服务器，每月20美元起，包括备份，监控，补丁程序和24/7全天候技术支持.
 * [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)  -完全托管的PostgreSQL数据库.  没有免费计划.  最低$ 15 /月.  具有时间点恢复功能的每日备份.  具有自动故障转移功能的备用节点.
-* [ElephantSQL](https://www.elephantsql.com/)  -提供的数据库范围从小型项目的共享服务器到概念验证，再到企业级的多服务器设置.  有免费计划，最多可容纳5个DB，每个DB 20 MB.
+* [ElephantSQL](https://www.elephantsql.com/)  -提供的数据库范围从小型项目的共享服务器和概念验证到企业级的多服务器设置.  有免费计划，最多可容纳5个DB，每个DB 20 MB.
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/)  -完全托管的数据库服务，可轻松在Google Cloud Platform上设置，维护，管理和管理PostgreSQL关系数据库.  （测试版）
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql)  -由PostgreSQL专家操作的从免费到庞大的计划.  不需要在Heroku上运行您的应用程序.  免费计划包括10,000行，20个连接，最多两个备份，并具有PostGIS支持.
 
@@ -200,10 +201,10 @@
 
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) -有关使用wal-e在PostgreSQL中设置连续归档的教程.
-* [PG Casts](https://www.pgcasts.com) -Hashrocket免费提供每周一次的PostgreSQL屏幕录像.
+* [PG Casts](https://www.pgcasts.com) -Hashrocket每周提供免费的PostgreSQL屏幕录像.
 * [Postgres Guide](http://postgresguide.com/) -该指南旨在帮助初学者和有经验的用户找到特定的技巧并探索PostgreSQL中可用的工具.
 * [PostgreSQL Exercises](https://pgexercises.com/) -通过练习使学习PostgreSQL变得容易的站点.
-* [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) -PostgreSQL上的教程非常广泛的集合
+* [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) -PostgreSQL上的教程非常丰富
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) -示例postgres模式的集合
 * [PostgreSQL Primer for Busy People](https://zaiste.net/postgresql_primer_for_busy_people/) -PostgreSQL中最常用的命令的集合
 * [pg-utils](https://github.com/dataegret/pg-utils) -Data Egret有用的DBA工具
@@ -211,8 +212,8 @@
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) -PostgreSQL的博客聚合服务.
 * [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.com/search/label/PostgreSQL/)
-* [Bruce Momjian's PostgreSQL blog](http://momjian.us/main/blogs/pgblog.html)
-* [Craig Kerstiens PostgreSQL posts](http://www.craigkerstiens.com/categories/postgres/) -PostgreSQL酷功能，技巧和窍门上的一组帖子.
+* [Bruce Momjian's PostgreSQL blog](https://momjian.us/main/blogs/pgblog.html)
+* [Craig Kerstiens PostgreSQL posts](http://www.craigkerstiens.com/categories/postgres/) -有关PostgreSQL酷功能，技巧和窍门的一组帖子.
 * [Database Soup](http://www.databasesoup.com/search/label/postgresql/) -Josh Berkus的博客.
 * [Michael Paquier's blog](https://paquier.xyz/)
 * [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
@@ -232,7 +233,7 @@
 
 ### Newsletters
 
-* [Postgres Weekly](https://postgresweekly.com/) -每周通讯，其中包含与PostgreSQL有关的文章，新闻和回购.
+* [Postgres Weekly](https://postgresweekly.com/) -每周新闻通讯，其中包含与PostgreSQL有关的文章，新闻和回购.
 
 ### Videos
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) -其他相关视频
@@ -241,7 +242,7 @@
 * [Scaling Postgres](https://www.scalingpostgres.com/) -Cregre Jamison撰写的Postgres视频博客系列
 
 ### Community
-* [Mailing lists](https://www.postgresql.org/list/)  -Postgres的官方邮件清单，以获取支持，扩展等信息.  Postgres社区中的主要沟通渠道之一.
+* [Mailing lists](https://www.postgresql.org/list/)  -Postgres的官方邮件列表，以获取支持，扩展等信息.  Postgres社区中的主要沟通渠道之一.
 * [Reddit](https://www.reddit.com/r/PostgreSQL/) -PostgreSQL用户超过12000的reddit社区
 * [Slack](https://postgres-slack.herokuapp.com/) -拥有7000多个用户的Postgres的松弛渠道
 *电报-PostgreSQL的几个组，使用不同的语言： [Russian](https://t.me/pgsql) &gt; 4200人， [Brazilian Portuguese](https://t.me/postgresqlbr) &gt; 2300人， [Indonesian](https://t.me/postgresql_id) 约1000人 [English](https://t.me/postgreschat) &gt; 750人

@@ -123,6 +123,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [PowerShellGet](https://github.com/powershell/powershellget)  -PowerShellGet是PowerShell的软件包管理器.  包可在 [PowerShellGallery](https://www.PowerShellGallery.com).
 * [Chocolatey](https://chocolatey.org/)  -Windows的软件包管理器.  在Windows上管理软件的明智方法.
 * [GitLab](https://github.com/akamac/GitLabProvider) -使用GitLab服务器作为Package Provider.
+* [Scoop](https://scoop.sh) -Windows的命令行安装程序.
 
 ## Parallel Processing
 

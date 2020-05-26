@@ -190,7 +190,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [glove](https://github.com/ddfreyne/glove) -游戏开发库
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
 
 ## HTML/XML Parsing
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser)，由Google制作的HTML5解析库
@@ -414,6 +414,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [grip](https://github.com/grip-framework/grip) -用于轻松轻松构建RESTful Web应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  -快速，超级简单的Web框架.  受Sinatra启发
  * [lucky](https://github.com/luckyframework/lucky) -尽早发现错误，忘记大多数性能问题，并花更多时间在代码上，而不是调试和编写测试
+ * [runcobo](https://github.com/runcobo/runcobo) -具有简单，直观和一致的DSL的api框架，使用jbuilder呈现json
  * [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) -基于组件的MVC Web框架，可针对具有良好代码结构，模块化和性能的晶体
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) -注重速度和可扩展性的Rails式Web框架
 

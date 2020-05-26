@@ -34,7 +34,7 @@
 
 ### Shadow DOM
 
-Shadow DOM描述了一种将多个DOM树组合到一个层次结构中的方法，以及这些树如何在文档中彼此交互，从而实现DOM更好的组合.
+Shadow DOM描述了一种将多个DOM树组合到一个层次结构中的方法，以及这些树如何在文档中彼此交互，从而使DOM更好地构成的方法.
 
 - [DOM Living Standard: Interface `ShadowRoot`](https://dom.spec.whatwg.org/#interface-shadowroot)
 - [DOM Living Standard: Shadow tree](https://dom.spec.whatwg.org/#shadow-trees)
@@ -87,7 +87,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### HTML Templates polyfills
 
 - [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template)  -最小的polyfill用于` <template>  `.
-- [@ungap/import-node](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
+- [@ungap/import-node](https://github.com/ungap/import-node) -由IE11提供的`importNode` polyfill [ungap project](https://ungap.github.io).
 
 ## Articles
 
@@ -167,7 +167,9 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### Component Libraries
 
 - [AMP](https://github.com/ampproject/amphtml) -Web组件框架，可轻松创建用户优先的网站，故事，广告，电子邮件等.
+- [Apollo Elements](https://github.com/apollo-elements/apollo-elements) -用于将Apollo GraphQL与各种Web组件库一起使用的自定义元素.
 - [AXA Pattern Library](https://github.com/axa-ch/patterns-library) -使用Web组件构建的AXA CH UI组件库.
+- [Blackstone UI](https://github.com/kjantzer/bui) -用于通过Blackstone Publishing创建界面的Web组件.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) -收集用于构建Brightspace应用程序的Web组件.
 - [Clever components](https://github.com/CleverCloud/clever-components) -由Clever Cloud制作的Web组件集合.
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) -用于SPA路由，显示来自Web服务的数据等的独立组件.
@@ -277,7 +279,15 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [How to Create a Web Component in Svelte](https://dev.to/silvio/how-to-create-a-web-components-in-svelte-2g4j)
 - [Svelte Web Component — 5.4KB](https://itnext.io/svelte-web-component-5-4kb-4afe46590d99)
 
-## Tools
+## Ecosystem
+
+### Starter Kits
+
+- [Create Open Web Components](https://open-wc.org/init/) -Web组件项目支架.
+- [custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) -用于创建自定义元素的样板.
+- [hello-web-components](https://github.com/fernandopasik/hello-web-components) -用TypeScript编写的简单的入门hello世界Web组件.
+
+### Tools
 
 - [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) -赛普拉斯的Web组件和Shadow DOM支持.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) -可以刺入Shadow DOM根的querySelector，对于自动测试很有用.
@@ -390,7 +400,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ## History
 
 以下文章代表了Web组件规范在实现标准化方面的悠久历史.
-其中一些参考了早期的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
+其中一些参考了较早的所谓的“ v0” Shadow DOM和“自定义元素”规范，而放弃了“ HTML导入”规范.
 这些材料仅出于历史原因在这里，它们按年份分组并按时间顺序列出.
 
 ### 2019

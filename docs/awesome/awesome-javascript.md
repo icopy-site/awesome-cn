@@ -96,7 +96,7 @@
 * [phantomjs](https://github.com/ariya/phantomjs) -可编写脚本的无头WebKit.
 * [slimerjs](https://github.com/laurentj/slimerjs) -运行Gecko的类似PhantomJS的工具.
 * [casperjs](https://github.com/casperjs/casperjs) -用于PhantomJS和SlimerJS的导航脚本和测试实用程序.
-* [zombie](https://github.com/assaf/zombie) -使用node.js进行疯狂，快速，全栈式，无头的浏览器测试.
+* [zombie](https://github.com/assaf/zombie) -使用node.js进行快速，全栈式，无头的浏览器测试.
 * [totoro](https://github.com/totorojs/totoro) -一个简单稳定的跨浏览器测试工具.
 * [karma](https://github.com/karma-runner/karma) -JavaScript的壮观测试运行器.
 * [nightwatch](https://github.com/nightwatchjs/nightwatch) -基于node.js和Selenium Webdriver的UI自动化测试框架.
@@ -111,7 +111,7 @@
 * [JSHint](https://github.com/jshint/jshint/) -JSHint是一种有助于检测JavaScript代码中的错误和潜在问题的工具.
 * [jscs](https://github.com/jscs-dev/node-jscs) -JavaScript代码样式检查器.
 * [jsfmt](https://github.com/rdio/jsfmt) -用于格式化，搜索和重写JavaScript.
-* [jsinspect](https://github.com/danielstjules/jsinspect) -检测复制粘贴的和结构相似的代码.
+* [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 * [buddy.js](https://github.com/danielstjules/buddy.js) -JavaScript的幻数检测.
 * [ESLint](https://github.com/eslint/eslint) -完全可插拔的工具，用于识别和报告JavaScript模式.
 * [JSLint](https://github.com/douglascrockford/JSLint) -高标准，严格和自以为是的代码质量工具，旨在仅保留部分语言.
@@ -143,7 +143,7 @@
 * [chaplin](https://github.com/chaplinjs/chaplin) -使用Backbone.js库的JavaScript应用程序体系结构.
 * [marionette](https://github.com/marionettejs/backbone.marionette) -Backbone.js的复合应用程序库，旨在简化大规模JavaScript应用程序的构建.
 * [ripple](https://github.com/ripplejs/ripple) -建立反应式视图的微小基础.
-* [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
+* [rivets](https://github.com/mikeric/rivets) -轻巧而强大的数据绑定+模板解决方案.
 * [derby](https://github.com/derbyjs/derby) -MVC框架使编写可在Node.js和浏览器中运行的实时协作应用程序变得容易.
     * [derby-awesome](https://github.com/russll/awesome-derby) -很棒的德比组件的集合
 * [way.js](https://github.com/gwendall/way.js) -简单，轻便，持久的双向数据绑定.
@@ -318,7 +318,7 @@
 ## Reactive Programming
 *反应性编程库可扩展JavaScript的功能.*
 
-* [RxJS](https://github.com/ReactiveX/rxjs) -JavaScript的反应式编程库.
+* [RxJS](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
 * [Bacon](https://github.com/baconjs/bacon.js) -JavaScript的FRP（功能性反应式编程）库.
 * [Kefir](https://github.com/pozadi/kefir) -受Bacon.js和RxJS启发的JavaScript FRP库，着重于高性能和低内存消耗.
 * [Highland](http://highlandjs.org/) -重新思考JavaScript实用程序带，Highland仅使用标准JavaScript和类似Node的流就可以轻松地管理同步和异步代码.
@@ -327,7 +327,7 @@
 * [Cycle.js](https://cycle.js.org) -具有功能性和反应性的JavaScript库，用于编写更清晰的代码.
 
 ## Data Structure
-*Data structure libraries to build a more sophisticated application.*
+*数据结构库，用于构建更复杂的应用程序.*
 
 * [immutable-js](https://github.com/facebook/immutable-js) -不可变的数据集合，包括序列，范围，重复，图，OrderedMap，集合和稀疏向量.
 * [mori](https://github.com/swannodette/mori) -一个库，用于使用ClojureScript的持久数据结构并从原始JavaScript的舒适性中支持API.
@@ -475,6 +475,7 @@
 * [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
 * [wretch](https://github.com/elbywan/wretch) -使用直观的语法围绕获取构建的小型包装器.
 * [Bearer.sh](https://github.com/Bearer/bearer-js) -支持OAuth / API密钥/基本等的通用API客户端.
+* [FarFetch](https://github.com/WebsiteBeaver/far-fetch) -简洁的现代Fetch API包装器，文件上传简洁.
 
 ## Streaming
 
@@ -574,7 +575,7 @@
 * [messenger](https://github.com/HubSpot/messenger) -为您的应用发出怒吼式的警报和消息.
 * [noty](https://github.com/needim/noty) -jQuery通知插件.
 * [pnotify](https://github.com/sciactive/pnotify) -用于Bootstrap，jQuery UI和Web通知草稿的JavaScript通知.
-* [toastr](https://github.com/CodeSeven/toastr) - Simple JavaScript toast notifications.
+* [toastr](https://github.com/CodeSeven/toastr) -简单的JavaScript敬酒通知.
 * [humane-js](https://github.com/wavded/humane-js) -一个简单，现代的浏览器通知系统.
 * [smoke.js](https://github.com/hxgf/smoke.js) -与JavaScript框架无关的样式警报系统.
 * [notie](https://github.com/jaredreich/notie) -简单的通知和输入，没有依赖关系.
@@ -819,7 +820,7 @@
 ## Image Processing
 
 * [lena.js](https://github.com/davidsonfellipe/lena.js) -使用过滤器和util函数进行图像处理的库.
-* [pica](https://github.com/nodeca/pica) -高质量的图像调整大小（带有快速Lanczos滤镜，以纯JS实现）.
+* [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) -一个简单的jQuery图像裁剪插件.
 
 

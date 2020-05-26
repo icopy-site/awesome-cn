@@ -38,6 +38,7 @@
 - [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) -使用PlayCanvas建立基本的演示.
 - [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) -大量的官方PlayCanvas教程.
 - [Playing in Canvas](http://pirron.one/playingincanvas/) -Pirron One的PlayCanvas主题博客.
+- [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) -简短的PlayCanvas教程的YouTube播放列表.
 
 ## Extensions and Utilities
 
@@ -99,7 +100,7 @@
 - [Kaburin! Dodge](https://www.facebook.com/KaburinDodge/) -避免物体从天而降.
 - [Let's Craft](https://www.facebook.com/instantgames/play/351725822100289/) -沙盒体素构建游戏.
 - [Shuffle Cats Mini](https://www.facebook.com/ShuffleCatsMini/) -轻弹卡片击中目标.
-- [Wonder Woman](https://www.facebook.com/wonderwomanfilm/posts/670093776494156/) -在2D无尽的跑步者中奔跑和跳跃.
+- [Wonder Woman](https://www.facebook.com/wonderwomanfilm/posts/670093776494156/) -在2D无尽的奔跑者中奔跑和跳跃.
 
 ## Automotive
 
