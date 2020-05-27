@@ -76,7 +76,7 @@
 - [actions/toolkit](https://github.com/actions/toolkit) -用于开发GitHub动作的GitHub工具包.
 - [actions/hello-world-javascript-action](https://github.com/actions/hello-world-javascript-action) -演示如何构建JavaScript操作的模板.
 - [actions/javascript-action](https://github.com/actions/javascript-action) -创建一个JavaScript操作.
-- [actions/typescript-action](https://github.com/actions/typescript-action) -创建TypeScript操作.
+- [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action.
 - [actions/http-client](https://github.com/actions/http-client) -经过优化的轻量级HTTP客户端，可用于操作，具有泛型的TypeScript和异步等待.
 
 #### Docker Container Actions
@@ -156,7 +156,7 @@
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) -等待所有状态和检查成功或其中任何一个失败，然后相应地设置其状态输出.
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) -从git获取上一个标签.
 - [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) -根据标题和说明创建一个新的开放里程碑.
-- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) -关闭给定的里程碑.
+- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) -关闭给定的里程碑。
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)
@@ -260,6 +260,7 @@
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) -动作可跨多个存储库同步机密.
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
+- [SecretHub](https://github.com/secrethub/actions) -为您的秘密提供一个真实的来源，并根据需要将其加载到GitHub Actions中.
 
 #### Code Coverage
 

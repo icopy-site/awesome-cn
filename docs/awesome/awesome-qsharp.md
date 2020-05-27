@@ -34,6 +34,10 @@ A list of Q# code and resources.
 - [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) -Rolf Huisman.
 - [Quantum computing sessions at //Build](https://mybuild.microsoft.com/sessions?q=quantum)
 
+## Q/A
+- [Q# tag on Stack Overflow](https://stackoverflow.com/questions/tagged/q%23)
+- [Q# tag on Quantum Computing StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/q%23)
+
 ## Coding Contests and Solutions
 
 ### Official resources

@@ -66,7 +66,7 @@
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) -允许改善ipfs事件可视化的应用程序.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) -一个使用windows.ipfs的演示应用程序，向您显示IPNS链接和公共密钥的QR码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  -IPFS图像上传器和查看器.  Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来. [Source](https://github.com/TalaikisInc/ipfs-uploader)
-- [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) -带TiddyWiki的IPFS是一个TiddlyWiki插件，旨在帮助开发人员，编辑者或用户通过IPFS保存其Wiki和附件.
+- [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) -带有TiddyWiki的IPFS是一个TiddlyWiki插件，旨在帮助开发人员，编辑者或用户通过IPFS保存其Wiki和附件.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) -基于ipfs和markdown构建您的Wiki系统.
 - [ipfs-search](https://ipfs-search.com) -自2016年起搜寻宇宙.
  嗅探DHT闲话并索引文件和目录哈希.  元数据和搜索API可用. [Source](https://github.com/ipfs-search/ipfs-search)
@@ -77,7 +77,7 @@
 - [IpJot](https://ipjot.herokuapp.com/) -在IPFS上创建简短的笔记，故事，书籍，诗歌，对话.
 - [IPSE](https://www.ipse.io/) -IPFS网络的搜索引擎.
 - [Kauri](https://kauri.io)  -基于社区的Web3技术知识平台，建立在IPFS和以太坊之上.  学习，分享和策划最新和高质量的技术文章和系列.
-- [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -Dolphin File Manager的服务菜单，用于将文件上传到IPFS用于交易请求的开放网络.
+- [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) - Service Menu for Dolphin File Manager to upload files to IPFS The open network for transaction requests.
 - [killcord](https://killcord.io/) -防审查的死人开关 [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) -基于Pandoc的标记编辑器/预览器/转换器，已移植到IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [Minerva](https://github.com/bdchain/Minerva) -Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来.
@@ -170,9 +170,10 @@
 
 ## Tools
 
-- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监控以太坊区块链的当前区块号，并设置警报（通过特定区块高度时，使用PouchDB在本地存储在浏览器中）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监控以太坊区块链的当前区块号，并设置警报（通过特定的区块高度）（通过浏览器中的PouchDB在本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) -捐赠ipfs网关以缓存其他人的内容
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) -Dillo Web浏览器的IPFS集成.
+- [galacteek](https://galacteek.github.io) -用于分布式Web的基于Qt5的多平台浏览器 [Source](https://github.com/pinnaculum/galacteek)
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) -通过确保资产是相对的，增加了将Gatsby网站部署到IPFS的支持.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) -从/到IPFS推/拉存储库
 - [go-orbit-db](https://github.com/berty/go-orbit-db)  -这是OrbitDB的Golang端口，旨在与原始JavaScript版本完全兼容.  OrbitDB是一个无服务器的分布式对等数据库.
@@ -195,7 +196,7 @@
 - [ipfs-publish](https://ipfs-publish.uhlir.dev) -持续交付工具，用于将静态网站从Git提供者交付到IPFS. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) -捕获屏幕截图，将其发布到IPFS，然后将链接复制到剪贴板.
 - [ipfs-video-gateway](https://ipfs.video) -通过云提供商在云提供商上初始化自己的IPFS网关，并通过简单的Web界面轻松固定内容. [Source](https://github.com/bneijt/ipfs-video-gateway)
-- [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
+- [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) -清除所有资产的网页并将其放入IPFS
 - [ipfsecret](https://github.com/shlemph/ipfsecret) -使用秘密密码加密和解密IPFS文件
 - [ipget](https://github.com/ipfs/ipget) -：satellite：用于IPFS的wget：通过IPFS检索文件并将其保存在本地.
 - [IPLD Explorer](https://explore.ipld.io) -在舒适的浏览器中探索默克尔森林 [Source](https://github.com/ipfs-shipyard/ipld-explorer)

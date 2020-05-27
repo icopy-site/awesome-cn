@@ -512,7 +512,7 @@
 - [vue-music163](https://github.com/pluto1114/vue-music163) -一个Vue.js音乐项目.
 - [Tomato5](https://github.com/zhangxin840/tomato5) -实时协作工具，它将Pomodoro技术与团队状态共享板结合在一起.
 - [Web Learn](https://github.com/freearhey/web-learn) -一项服务，可轻松访问有关Web开发和编程的数千个视频教程.
-- [ExcelJSON](https://github.com/palerdot/exceljson) - A tool to convert CSV, TSV to/from JSON.
+- [ExcelJSON](https://github.com/palerdot/exceljson) -一种将CSV，TSV与JSON相互转换的工具.
 - [Materialize-blog](https://github.com/forehalo/materialize-blog) -使用Laravel5.3和Vue2.x构建的材料博客.
 - [VueComponentGenerator](https://github.com/ChangJoo-Park/vue-component-generator) -在浏览器上生成vue单个文件组件.
 - [SDR News](https://github.com/super-dev/SDR-News) -来自多个来源（Reddit，Hacker News和Prominent Blogs）的Web设计人员和开发人员的新闻.
@@ -590,7 +590,7 @@
 - [Tamiat CMS](https://github.com/tamiat/tamiat) -Tamiat是面向前端的CMS，使用Vue.JS作为前端，并与Firebase集成了后端功能.
 - [vuegg](https://github.com/vuegg/vuegg)  -vue GUI生成器：一次性创建模型和代码！  它通过其可视化编辑器利用页面，组件和样式的创建.  为您的下一个vuejs项目生成所有脚手架代码.
 - [Podlove Web Player](https://github.com/podlove/podlove-web-player) -经过播客优化的，基于HTML5的音频播放器，具有章节，字幕和嵌入功能.
-- [Leo Vue](https://github.com/kaleguy/leovue) -使用开源Leo概述编辑器/ IDE创建具有嵌套菜单的Web应用程序，并支持内容中的Vue组件.
+- [Leo Vue](https://github.com/kaleguy/leovue) - Use the open source Leo outlining editor/IDE to create webapps with nested menus, with support for Vue components in content.
 - [Deezer-Vue](https://sh0cked.github.io/deezer-vue/) -使用Vue \ Vuex构建的Deezer客户端
 - [Vuep.run](https://vuep.run) -Vue的在线SFC编辑器
 - [V·oogle](https://github.com/VeryWow/v-oogle) -Google.com，已修订
@@ -1558,6 +1558,7 @@ _在日历中显示不可编辑的事件_
 - [v-emoji-picker](https://github.com/joaoeudes7/v-emoji-picker) -：star2：使用emojis原生语言（unicode）在Vue中提供一个轻量级且可自定义的Emoji Picker软件包.
 - [learnawesome-flashcard](https://github.com/learn-awesome/flashcard) -通过localStorage：bulb具有间隔重复的抽认卡套：
 - [vue-portfolio-viewer](https://github.com/MelihAltintas/vue-portfolio-viewer.git) -滚动Vue JS动画组合查看器组件：bulb：
+- [vue-text-middle-ellipsis](https://github.com/Tardigrada777/vue-text-middle-ellipsis) -一个简单的vue-directive（2+），如果内部内容太长，则会将其内容限制在元素的中间.
 
 #### Tabs
 
@@ -1742,7 +1743,7 @@ _开关/开/关切换/复选框
 - [vue-rocker-switch](https://github.com/DannyFeliz/vue-rocker-switch) -Vue.js的可定制翘板开关组件.
 - [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) -高度可定制，易于使用的优雅切换/切换按钮组件
 - [vue-tristate-checkbox](https://github.com/hartwork/vue-tristate-checkbox) -支持表单提交的循环三态复选框
-- [vue-toggles](https://github.com/jllagerberg/vue-toggles) -一个非常可定制且美观的拨动组件
+- [vue-toggles](https://github.com/juliandreas/vue-toggles) -高度可定制和可访问的切换组件
 
 ##### Masked Input
 

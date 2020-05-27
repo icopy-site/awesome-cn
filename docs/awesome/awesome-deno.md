@@ -111,6 +111,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [type-fest](https://github.com/denoserverless/type-fest) -基本TypeScript类型的集合（sindresorhus端口/ type-fest）.
 - [unexpected](https://github.com/unexpectedjs/unexpected) -可扩展的BDD断言工具包.
 - [up](https://github.com/denorg/up) -检查是否在Deno建立了网站.
+- [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) -为Deno加密和解密gzip.
 - [watch](https://github.com/jinjor/deno-watch) -文件查看器.
 - [webview](https://github.com/eliassjogreen/deno_webview) -Webview的Deno绑定，这是一个用于创建基于Web的桌面GUI的小型库.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) -差异库，使用wu（O（NP））算法计算两个切片之间的差异.
@@ -141,7 +142,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) -用Deno编写的Elm Live Reloader.
 - [nessie](https://github.com/halvardssm/deno-nessie) -为PostgreSQL，MySQL和SQLite创建，迁移和回滚迁移.
 - [packer-provisioner-deno](https://github.com/dontlaugh/packer-provisioner-deno) -一个Packer插件，可轻松使用Deno脚本构建虚拟机映像.
-- [pagic](https://github.com/xcatliu/pagic) -使用Mark Deno构建的Markdown生成静态html页面的最简单方法.
+- [pagic](https://github.com/xcatliu/pagic) -使用Mark Deno构建的最简单的从markdown生成静态html页面的方法.
 - [pika Deno plugin](https://github.com/pikapkg/builders/tree/master/packages/plugin-build-deno/)
 - [starter](https://github.com/denorg/starter) -带有GitHub Actions CI的Deno模块入门模板
 - [task-runner](https://github.com/jinjor/deno-task-runner) -像npm脚本一样编写任务.
@@ -162,6 +163,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
 - [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
 - [Create a simple Note-taking app with Deno](https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g)
+- [Making APIs in Deno](https://medium.com/swlh/making-apis-in-deno-83dedda9dd1f?source=friends_link&sk=396c0dee437989ba3d2c2cc46d7d5933)
 
 ## Presentations
 

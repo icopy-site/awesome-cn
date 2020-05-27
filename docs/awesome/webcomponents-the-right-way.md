@@ -89,17 +89,16 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template)  -最小的polyfill用于` <template>  `.
 - [@ungap/import-node](https://github.com/ungap/import-node) -由IE11提供的`importNode` polyfill [ungap project](https://ungap.github.io).
 
-## Articles
+## Guides
 
-### Architecture
+### Accessibility
 
-- [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
-- [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
-- [Hiding internal framework methods and properties from web component APIs](https://component.kitchen/blog/posts/hiding-internal-framework-methods-and-properties-from-web-component-apis)
-- [How to deliver Custom Elements](https://medium.com/@WebReflection/how-to-deliver-custom-elements-702fae32d25c)
-- [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
-- [Supporting both automatic and manual registration of custom elements](https://component.kitchen/blog/posts/supporting-both-automatic-and-manual-registration-of-custom-elements)
-- [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
+- [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
+- [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
+- [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
+- [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
+- [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
+- [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
 ### Best Practices
 
@@ -124,6 +123,26 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Storybook for web components on steroids](https://dev.to/open-wc/storybook-for-web-components-on-steroids-4h29)
 - [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73)
 
+### Examples
+
+- [generic-components](https://github.com/thepassle/generic-components) -收集通用Web组件，重点放在可访问性和易用性上.
+- [howto-components](https://github.com/GoogleChromeLabs/howto-components) -实施通用Web UI模式的Web组件的集合.
+- [open-wc code examples](https://open-wc.org/developing/code-examples.html) -收集用于开发Web组件的最佳实践和设计模式.
+- [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) -已弃用HTML标签的Vanilla JS UI组件库.
+- [web-components-examples](https://github.com/mdn/web-components-examples) -与MDN Web组件文档相关的一系列Web组件示例.
+
+## Articles
+
+### Architecture
+
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 1)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-1/)
+- [Frankenstein Migration: Framework-Agnostic Approach (Part 2)](https://www.smashingmagazine.com/2019/09/frankenstein-migration-framework-agnostic-approach-part-2/)
+- [Hiding internal framework methods and properties from web component APIs](https://component.kitchen/blog/posts/hiding-internal-framework-methods-and-properties-from-web-component-apis)
+- [How to deliver Custom Elements](https://medium.com/@WebReflection/how-to-deliver-custom-elements-702fae32d25c)
+- [Making Web Components for Different Contexts](https://css-tricks.com/making-web-components-for-different-contexts/)
+- [Supporting both automatic and manual registration of custom elements](https://component.kitchen/blog/posts/supporting-both-automatic-and-manual-registration-of-custom-elements)
+- [Web Components — the right way](https://equinusocio.dev/blog/web-components-the-right-way/)
+
 ### Styling
 
 - [Styling a Web Component](https://css-tricks.com/styling-a-web-component/)
@@ -138,15 +157,6 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [JavaScript frameworks, meet Web Components](https://www.voorhoede.nl/nl/blog/javascript-frameworks-meet-web-components/)
 - [Web Components aren't a framework replacement - they're better than that](https://lamplightdev.com/blog/2020/01/18/web-components-arent-a-framework-replacement-theyre-better-than-that/)
 - [Web Components: Seamlessly interoperable](https://medium.com/@sergicontre/web-components-seamlessly-interoperable-82efd6989ca4)
-
-### Accessibility
-
-- [Accessibility for Web Components](https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html)
-- [How to Make Accessible Web Components — a Brief Guide](https://www.sitepoint.com/accessible-web-components/)
-- [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
-- [The Guide to Accessible Web Components](https://www.erikkroes.nl/blog/accessibility/the-guide-to-accessible-web-components-draft/)
-- [Web Components and the Accessibility Object model (AOM)](https://www.24a11y.com/2019/web-components-and-the-aom/)
-- [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
 ## Real World
 
@@ -194,7 +204,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
 - [NuML | NUDE Elements](https://github.com/tenphi/numl) -基于Web组件和运行时CSS生成的HTML框架和设计系统.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) -基于统一设计套件的灵活轻量级Web组件集合.
-- [Pearson Web Components](https://github.com/pearson-ux/web-components) -Pearson的共享组件库实现了Gravity设计系统.
+- [Pearson Web Components](https://github.com/pearson-ux/web-components) -实施Gravity设计系统的Pearson可共享组件库.
 - [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) -使用Web组件构建的Adobe Spectrum设计语言实现.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -实施SAP Fiori设计准则的可重用UI元素集.
 - [Zooplus web components](https://github.com/zooplus/zoo-web-components) -实现Z +商店样式指南的一组Web组件.
@@ -210,14 +220,6 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Why I use Web Components - My use cases](https://dev.to/shihn/why-i-use-web-components-my-use-cases-1nip)
 - [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) 通过 [@viljamis](https://twitter.com/viljamis)
 - [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) 通过 [@maxlynch](https://twitter.com/maxlynch)
-
-## Examples
-
-- [howto-components](https://github.com/GoogleChromeLabs/howto-components) -实施通用Web UI模式的Web组件的集合.
-- [generic-components](https://github.com/thepassle/generic-components) -收集通用Web组件，重点放在可访问性和易用性上.
-- [open-wc code examples](https://open-wc.org/developing/code-examples.html) -收集用于开发Web组件的最佳实践和设计模式.
-- [vanilla-retro-js](https://github.com/martine-dowden/vanilla-retro-js) -已弃用HTML标签的Vanilla JS UI组件库.
-- [web-components-examples](https://github.com/mdn/web-components-examples) -与MDN Web组件文档相关的一系列Web组件示例.
 
 ## Libraries
 
@@ -286,6 +288,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Create Open Web Components](https://open-wc.org/init/) -Web组件项目支架.
 - [custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) -用于创建自定义元素的样板.
 - [hello-web-components](https://github.com/fernandopasik/hello-web-components) -用TypeScript编写的简单的入门hello世界Web组件.
+- [nutmeg](https://github.com/abraham/nutmeg) -用少许香料构建，测试和发布香草Web组件.
 
 ### Tools
 
@@ -364,6 +367,12 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Web Components can do that?!](https://slides.com/vogloblinsky/web-components-can-do-that) 通过 [@vogloblinsky](https://twitter.com/vogloblinsky)
 - [Web Components: Introduction and State of the Art](https://webcomponents.dev/blog/web-components-slides-mar2020/) 通过 [@webcomp_dev](https://twitter.com/webcomp_dev)
 
+### Talks
+
+- [Better Apps: Delivering Universal UI Patterns as Web Components](https://youtu.be/mtHf7crZZIQ) 通过 [@janmiksovsky](https://twitter.com/janmiksovsky)
+- [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) 通过 [@justinfagnani](https://twitter.com/justinfagnani)
+- [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) 通过 [@diervo](https://twitter.com/diervo)
+
 ## Usage Metrics
 
 - [Chrome Platform Status: `CustomElementRegistryDefine`](https://chromestatus.com/metrics/feature/timeline/popularity/1689)
@@ -392,7 +401,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ## Miscellaneous
 
-- [bruck](https://github.com/Heydon/bruck) -使用Web组件和Houdini Paint API构建的原型系统.
+- [bruck](https://github.com/Heydon/bruck) - Prototyping system built with web components and the Houdini Paint API.
 - [Vaadin Directory](https://vaadin.com/directory) -发布，讨论和评估Web组件
 - [webcomponents.dev](https://webcomponents.dev) -您的Web组件工作室.
 - [webcomponents.org](http://webcomponents.org/) -讨论和共享Web组件.

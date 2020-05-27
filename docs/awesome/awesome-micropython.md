@@ -100,13 +100,14 @@
 #### MQTT
 
 * [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt)  -“弹性”异步MQTT驱动程序.  加上使用ESP8266将MQTT带到非联网目标的方法.
-* [sonoff-mqtt](https://github.com/davea/sonoff-mqtt) -使用MQTT来控制Sonoff / ESP8266的MicroPython脚本.
-* [pysmartnode](https://github.com/kevinkk525/pysmartnode) -MicroPython Smarthome框架.
-* [micropython-thingspeak-mqtt-esp8266](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) -使用MQTT和在ESP8266 / ESP32平台上运行的MicroPython来发布和订阅Thingspeak.
-* [umqtt_aws_iot](https://github.com/juwul/umqtt_aws_iot) -使用MicroPython将UMQTT消息发布到AWS IoT.
-* [micropython-sonoff-switch](https://github.com/kfricke/micropython-sonoff-switch) -使用MicroPython为iTead Sonoff开关实现了MQTT可控开关.
-* [uMQTT](https://github.com/andrewmk/uMQTT) -MQTT在WiPy板上为MicroPython发布.
+* [MQBoard](https://github.com/tve/mqboard) -在MicroPython板上（主要在ESP32上）使用MQTT和asyncio的微框架.
 * [micropython-mqtt](https://github.com/tve/micropython-mqtt) -适用于MicroPython的MQTT库和工具.
+* [pysmartnode](https://github.com/kevinkk525/pysmartnode) -MicroPython Smarthome框架.
+* [umqtt_aws_iot](https://github.com/juwul/umqtt_aws_iot) -使用MicroPython将UMQTT消息发布到AWS IoT.
+* [sonoff-mqtt by davea](https://github.com/davea/sonoff-mqtt) -使用MQTT来控制Sonoff / ESP8266的MicroPython脚本.
+* [micropython-sonoff-switch](https://github.com/kfricke/micropython-sonoff-switch) -使用MicroPython为iTead Sonoff开关实现了MQTT可控开关.
+* [micropython-thingspeak-mqtt-esp8266](https://github.com/miketeachman/micropython-thingspeak-mqtt-esp8266) -使用MQTT和在ESP8266 / ESP32平台上运行的MicroPython来发布和订阅Thingspeak.
+* [uMQTT](https://github.com/andrewmk/uMQTT) -MQTT在WiPy板上为MicroPython发布.
 
 #### NTP
 
@@ -130,7 +131,7 @@
 #### REPL
 
 * [webrepl](https://micropython.org/webrepl) -MicroPython WebREPL.
-* [zepl](https://gitlab.com/zepl1/zepl) -使用ZeroMQ的MicroPython WebREPL控制台应用程序.
+* [zepl](https://gitlab.com/zepl1/zepl) - MicroPython WebREPL Console Application using ZeroMQ.
 * [jupyter_micropython_remote](https://gitlab.com/alelec/jupyter_micropython_remote) -Jupyter内核，可通过串行/网络REPL在MicroPython板上直接执行代码.
 
 #### RFID
@@ -203,11 +204,11 @@
 
 #### LCD Graphic
 
-* [micropython-lcd-AQM1248A](https://github.com/forester3/micropython-lcd-AQM1248A) - ESP8266 driver for AQM1248A graphic LCD.
+* [micropython-lcd-AQM1248A](https://github.com/forester3/micropython-lcd-AQM1248A) -适用于AQM1248A图形LCD的ESP8266驱动程序.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) -用于Pyboard和LCD160CR彩色显示器的基于事件的简单触摸驱动GUI.
 * [micropython-pcd8544](https://github.com/mcauser/micropython-pcd8544) -诺基亚5110 PCD8544 84x48 LCD模块的驱动程序.
 * [micropython-st7565](https://github.com/nquest/micropython-st7565) -ST7565 128x64 LCD的驱动程序.
-* [micropython-st7920](https://github.com/ShrimpingIt/micropython-st7920) - Library for simple graphic primitives on ST7920 128x64 monochrome LCD panel using ESP8266 and SPI.
+* [micropython-st7920](https://github.com/ShrimpingIt/micropython-st7920) -使用ESP8266和SPI的ST7920 128x64单色LCD面板上的简单图形图元的库.
 * [MicroPython_PCD8544](https://github.com/AnthonyKNorman/MicroPython_PCD8544) -ESP8266驱动程序用于Nokia 5110 PCD8544.
 * [Official LCD160CR](https://github.com/micropython/micropython/tree/master/drivers/display) -具有电阻式触摸传感器的官方MicroPython LCD160CR显示器的驱动程序.
 * [micropython-hx1230](https://github.com/mcauser/micropython-hx1230) -用于HX1230 96x68 LCD模块的MicroPython库.
@@ -412,7 +413,7 @@
 * [micropython-mpu9x50](https://github.com/micropython-IMU/micropython-mpu9x50) -InvenSense MPU9250惯性测量单元的驱动程序.
 * [MPU6050-ESP8266-MicroPython](https://github.com/adamjezek98/MPU6050-ESP8266-MicroPython) -用于MPU6050加速度计/陀螺仪的ESP8266驱动程序.
 * [py-mpu6050](https://github.com/larsks/py-mpu6050) -用于MPU6050加速度计/陀螺仪的ESP8266驱动程序.
-* [micropython-mpu6886](https://github.com/tuupola/micropython-mpu6886) - MicroPython I2C driver for MPU6886 6-axis motion tracking device.
+* [micropython-mpu6886](https://github.com/tuupola/micropython-mpu6886) -用于MPU6886 6轴运动跟踪设备的MicroPython I2C驱动程序.
 * [micropython-fusion](https://gitlab.com/nnayo/micropython-fusion) -传感器融合从运动跟踪设备的输出计算航向，俯仰和横滚.
 
 #### Soil Moisture
@@ -422,7 +423,7 @@
 #### Temperature Analog
 
 * [micropython-max31855](https://bitbucket.org/thesheep/micropython-max31855) -热电偶放大器，SPI接口.
-* [max31856](https://github.com/alinbaltaru/max31856) -具有线性化，SPI接口的精密热电偶数字转换器.
+* [max31856](https://github.com/alinbaltaru/max31856) - Precision thermocouple to digital converter with linearization, SPI interface.
 
 #### Temperature Digital
 
@@ -482,7 +483,7 @@
 
 ## Community
 
-* [MicroPython Forum](https://forum.micropython.org/) -超过6400个用户的在线社区，讨论与MicroPython相关的所有事情.
+* [MicroPython Forum](https://forum.micropython.org/) - Online community of over 6400 users discussing all things related to MicroPython.
 * [MicroPython on Twitter](https://twitter.com/micropython?lang=en) -在Twitter上关注MicroPython，获取最新新闻和更新.
 * [MicroPython on Facebook](https://www.facebook.com/micropython) -就像Facebook上的MicroPython一样，用于竞赛，新闻和更新.
 * [Melbourne MicroPython Meetup](https://www.meetup.com/en-AU/MicroPython-Meetup) -在澳大利亚墨尔本举行的CCHS定期聚会.
@@ -491,7 +492,7 @@
 
 ## Books
 
-* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -尼古拉斯·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -作者：尼古拉斯·H·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
 * [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227)  -查尔斯·贝尔（Charles Bell）.  ISBN 9781484231227.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  -Marwan Alsabbagh.  ISBN 9781838649951.
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)  -唐纳德​​·诺里斯（Donald Norris）.  ISBN 9781259644535.
@@ -528,7 +529,7 @@
 #### On Device
 
 * [upy-shell](https://github.com/dhylands/upy-shell) -用于MicroPython的基于命令行的简单外壳.
-* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) -小型板载编辑器，用于用Python编写的PyBoard，WiPy，ESP8266，ESP32，PyCom和Adafruit设备.
+* [Micropython-Editor](https://github.com/robert-hh/Micropython-Editor) -适用于以Python编写的PyBoard，WiPy，ESP8266，ESP32，PyCom和Adafruit设备的小型机载编辑器.
 
 #### On Host
 

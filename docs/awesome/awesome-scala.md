@@ -23,22 +23,22 @@
 
 * [akka-persistence-gcp-datastore ★ 12 ⧗ 2](https://github.com/innFactory/akka-persistence-gcp-datastore) -akka-persistence-gcp-datastore是日记和快照存储插件，用于使用Google Cloud Datastore的akka​​-persistence.
 * [Anorm ★ 199 ⧗ 3](https://github.com/playframework/anorm) -简单的SQL数据访问.
-* **[Casbah ★ 526 ⧗ 8](https://github.com/mongodb/casbah)**-官方支持的MongoDB Scala驱动程序
+* **[Casbah ★ 526 ⧗ 8](https://github.com/mongodb/casbah)** - Officially supported Scala driver for MongoDB
 * [Clickhouse-scala-client ★ 67 ⧗ 13](https://github.com/crobox/clickhouse-scala-client) -Clickhouse的反应式客户端
 * [Couchbase ★ 18 ⧗ 4](https://github.com/couchbase/couchbase-jvm-clients) -Scala的官方Couchbase客户.
 * [CouchDB-Scala ★ 63 ⧗ 291](https://github.com/beloglazov/couchdb-scala) -用于CouchDB的纯功能Scala客户端
-* [d4s ★ 20 ⧗ 0](https://github.com/PlayQ/d4s) - "Dynamo DB Database done Scala way". A library that allows accessing the DynamoDB in a purely functional way.
+* [d4s ★ 20 ⧗ 0](https://github.com/PlayQ/d4s)  -《 Dynamo DB数据库做Scala方式》.  一个允许以纯功能方式访问DynamoDB的库.
 * **[doobie ★ 1641 ⧗ 1](https://github.com/tpolecat/doobie)**-用于Scala的纯功能JDBC层.
 * **[Elastic4s ★ 1469 ⧗ 0](https://github.com/sksamuel/elastic4s)**-用于Elasticsearch的Scala DSL /反应式客户端
 * [etcd4s ★ 25 ⧗ 39](https://github.com/mingchuno/etcd4s) -实现V3 API的Scala etcd客户端
 * [Finagle ★ 67 ⧗ 2](https://github.com/finagle/finagle-postgres) -Finagle的PostgreSQL协议支持
 * [laserdisc ★ 47 ⧗ 6](https://github.com/laserdisc-io/laserdisc) -无未来，fs2本机纯FP Redis客户端
-* [longevity ★ 101 ⧗ 45](https://github.com/longevityframework/longevity) - A Persistence Framework for Scala and NoSQL with a Domain Driven Design Orientation
+* [longevity ★ 101 ⧗ 45](https://github.com/longevityframework/longevity) -具有域驱动设计方向的Scala和NoSQL持久性框架
 * [lucene4s ★ 39 ⧗ 59](https://github.com/outr/lucene4s) -Lucene周围的轻巧便利包装，可简化复杂的任务并添加Scala糖.
 * [MapperDao ★ 10 ⧗ 708](https://github.com/kostaskougios/mapperdao) -适用于oracle，mysql，mssql和postgresql的ORM库
 * [Memcontinuationed ★ 52 ⧗ 33](https://github.com/Atry/memcontinuationed) -Scala的Memcached客户端.
 * [Morpheus ★ 102 ⧗ 33](https://github.com/outworkers/morpheus) -适用于MySQL / Postgres的反应型安全Scala驱动程序.
-* [neo4akka ★ 16 ⧗ 326](https://github.com/outr/neo4akka) -Neo4j Scala客户端使用Akka HTTP和编译时查询插值，案例类支持，真正的非阻塞IO等.
+* [neo4akka ★ 16 ⧗ 326](https://github.com/outr/neo4akka) -Neo4j Scala客户端使用Akka HTTP和编译时查询插值，支持案例类，真正的非阻塞IO等.
 * [neotypes ★ 85 ⧗ 0](https://github.com/neotypes/neotypes) -neo4j的纯功能驱动程序.
 * **[Phantom ★ 1041 ⧗ 10](https://github.com/outworkers/phantom)**-适用于Apache Cassandra的反应型Scala驱动程序.
 * **[PostgreSQL and MySQL async ★ 1427 ⧗ 3](https://github.com/mauricio/postgresql-async)**-异步数据库驱动程序，可在Scala中与PostgreSQL和MySQL通讯.
@@ -150,7 +150,7 @@
 *密码学和加密库.
 
 * [Scrypto ★ 165 ⧗ 18](https://github.com/ScorexProject/scrypto) -通用加密框架.
-* [TSec ★ 312 ⧗ 7](https://github.com/jmcardon/tsec) -类型安全，功能齐全的通用密码库
+* [TSec ★ 312 ⧗ 7](https://github.com/jmcardon/tsec) - Type-safe, functional, general-cryptography library
 
 ### Testing
 
@@ -250,7 +250,7 @@
 * **[Smile ★ 4710 ⧗ 0](https://github.com/haifengl/smile) **-统计机器智能和学习引擎.  Smile是一个快速而全面的机器学习系统.
 * **[Spark Notebook ★ 2919 ⧗ 0](https://github.com/andypetrella/spark-notebook)**-可扩展且稳定的Scala和Spark专注于笔记本，弥合了JVM和数据科学家之间的鸿沟（包括可扩展，类型安全和反应性图表）.
 * **[Spire ★ 1573 ⧗ 3](https://github.com/non/spire)**-强大的Scala新数字类型和数字抽象.
-* **[Squants ★ 702 ⧗ 0](https://github.com/garyKeorkunian/squants)**-用于数量，度量单位和维度分析的Scala API.
+* **[Squants ★ 702 ⧗ 0](https://github.com/garyKeorkunian/squants)** - The Scala API for Quantities, Units of Measure and Dimensional Analysis.
 * [SwiftLearner ★ 35 ⧗ 93](https://github.com/valdanylchuk/swiftlearner) -简单编写的算法可帮助学习机器学习或编写自己的实现.
 * [Synapses ★ 33 ⧗ 9](https://github.com/mrdimosthenis/Synapses) -轻量级神经网络库，用于js，jvm和.net.
 * **[Tensorflow_scala ★ 762 ⧗ 3](https://github.com/eaplatanios/tensorflow_scala)**-用于Scala编程语言的TensorFlow API
@@ -278,7 +278,7 @@
 
 ### Command Line Interfaces
 
-*用于创建命令行界面的库*
+*Libraries for creation of command line interfaces*
 
 * [CLIST ★ 97 ⧗ 32](https://github.com/backuity/clist) -命令行界面Scala工具包
 * [decline ★ 367 ⧗ 1](https://github.com/bkirwi/decline) -基于Cats构建的Scala的可组合命令行解析器
@@ -289,7 +289,7 @@
 
 * 2D和3D图像处理和图像分析*
 
-* [scala-phash ★ 14 ⧗ 34](https://github.com/poslegm/scala-phash) -通过哈希码进行图像比较
+* [scala-phash ★ 14 ⧗ 34](https://github.com/poslegm/scala-phash) - Image comparison by hash codes
 * [scalismo ★ 167 ⧗ 9](https://github.com/unibas-gravis/scalismo) -形状建模和基于模型的图像分析.
 * **[scrimage ★ 733 ⧗ 0](https://github.com/sksamuel/scrimage)**-图片io，调整大小，操作和缩略图.
 
@@ -312,7 +312,7 @@
 * [scala.frp ★ 23 ⧗ 35](https://github.com/dylemma/scala.frp) -Scala的功能性反应式编程（事件流）.
 * **[Scala.Rx ★ 943 ⧗ 1](https://github.com/lihaoyi/scala.rx) **-用于Scala中的功能性反应式编程的实验性库（反应性变量）.  与Scala.js兼容.
 * **[Scalaz ZIO ★ 2166 ⧗ 0](https://github.com/scalaz/scalaz-zio)**-一种类型安全的可组合库，用于Scala中的异步和并发编程
-* [SynapseGrid ★ 123 ⧗ 19](https://github.com/Primetalk/SynapseGrid) - an FRP framework for constructing reactive real-time immutable data flow systems. It implements an original way of running and organizing event-driven systems based on Petri nets. The topology can be viewed as a .dot graph. The library is compatible with Akka and can seamlessly communicate with other actors.
+* [SynapseGrid ★ 123 ⧗ 19](https://github.com/Primetalk/SynapseGrid)  -用于构建反应式实时不变数据流系统的FRP框架.  它实现了基于Petri网络运行和组织事件驱动系统的原始方式.  拓扑可以视为.dot图.  该库与Akka兼容，可以与其他参与者无缝通信.
 * [Vert.x ★ 86 ⧗ 24](https://github.com/vert-x3/vertx-lang-scala)  -用于JVM的多语言反应性应用程序平台，旨在替代node.js.  它的并发模型类似于参与者.  它支持 [Scala](http://vertx.io/docs/vertx-core/scala/)，Clojure，Java，Javascript，Ruby，Groovy和Python.
 
 ### Modularization and Dependency Injection
@@ -447,7 +447,7 @@
 * [requests-scala ★ 484 ⧗ 1](https://github.com/lihaoyi/requests-scala) -流行的Python Requests HTTP客户端的Scala端口：灵活，直观和易于使用.
 * [RösHTTP ★ 124 ⧗ 7](https://github.com/hmil/RosHTTP)  -考虑到Scala.js的轻量级异步HTTP API.  支持JVM和Node.js运行时以及大多数浏览器.
 * **[scalaj-http ★ 930 ⧗ 4](https://github.com/scalaj/scalaj-http)**-HttpURLConnection的简单scala包装器（包括OAuth支持）.
-* [Scalaxb ★ 287 ⧗ 23](https://github.com/eed3si9n/scalaxb) -Scala的XML数据绑定工具，支持W3C XML Schema（xsd）和Web服务描述语言（wsdl）作为输入文件.
+* [Scalaxb ★ 287 ⧗ 23](https://github.com/eed3si9n/scalaxb) -Scala的XML数据绑定工具，支持W3C XML架构（xsd）和Web服务描述语言（wsdl）作为输入文件.
 * **[Spray ★ 2545 ⧗ 14](https://github.com/spray/spray)**-用于HTTP交互的基于Actor的库.
 * **[sttp ★ 902 ⧗ 0](https://github.com/softwaremill/sttp)**-您一直想要的Scala HTTP客户端！
 * [Tubesocks ★ 12 ⧗ 795](https://github.com/softprops/tubesocks) -支持与Websocket服务器双向通信的库.
@@ -501,7 +501,7 @@
 * [sbt-hepek ★ 16 ⧗ 33](https://github.com/sake92/sbt-hepek) -使用Scala代码制作静态网站（将“ object”渲染为文件！）.
 * [sbt-ide-settings ★ 42 ⧗ 16](https://github.com/Jetbrains/sbt-ide-settings) -用于调整各种IDE设置的SBT插件
 * **[sbt-jmh ★ 652 ⧗ 5](https://github.com/ktoso/sbt-jmh) **-“不要相信任何人，请放好一切.”  -JMH（Java Microbenchmark Harness）的sbt插件
-* [sbt-microsites ★ 256 ⧗ 0](https://github.com/47deg/sbt-microsites) - An sbt plugin to create awesome microsites for your project [https://47deg.github.io/sbt-microsites/](https://47deg.github.io/sbt-microsites/)
+* [sbt-microsites ★ 256 ⧗ 0](https://github.com/47deg/sbt-microsites) -一个sbt插件，可为您的项目创建很棒的微型网站 [https://47deg.github.io/sbt-microsites/](https://47deg.github.io/sbt-microsites/)
 * [sbt-mima-plugin ★ 280 ⧗ 0](https://github.com/lightbend/mima) -在Scala中捕获二进制不兼容的工具
 * **[sbt-native-packager ★ 1352 ⧗ 1](https://github.com/sbt/sbt-native-packager)**-捆绑适用于本地包装系统的Scala软件，例如deb，rpm，homebrew，msi.
 * [sbt-pack ★ 416 ⧗ 3](https://github.com/xerial/sbt-pack) -一个用于创建可分发Scala软件包的sbt插件.
@@ -522,7 +522,7 @@
 * [sbt-view ★ 7 ⧗ 1115](https://github.com/nestorpersist/sbt-view) -在浏览器窗口中查看ScalaDoc / JavaDoc.
 * **[sbteclipse ★ 727 ⧗ 3](https://github.com/typesafehub/sbteclipse)**-从sbt构建创建Eclipse项目定义.
 * [scala-clippy ★ 306 ⧗ 33](https://github.com/softwaremill/scala-clippy) -Scala编译器错误的良好建议和着色
-* [ScalaKata2 ★ 94 ⧗ 81](https://github.com/MasseGuillaume/ScalaKata2) - Scala playground & Documentation tool.
+* [ScalaKata2 ★ 94 ⧗ 81](https://github.com/MasseGuillaume/ScalaKata2) -Scala游乐场和文档工具.
 * [splain ★ 316 ⧗ 4](https://github.com/tek/splain) -更好的Scala隐式错误.
 * **[tut ★ 598 ⧗ 20](https://github.com/tpolecat/tut)**-用于编写带有类型检查示例的文档的工具.
 * [xsbt-web-plugin ★ 373 ⧗ 22](https://github.com/earldouglas/xsbt-web-plugin) -在Scala中构建企业J2EE Web应用程序.
@@ -668,6 +668,8 @@
 ## Podcasts
 
 * [CoRecursive Interviews](https://corecursive.com/) -与软件开发人员的深入访谈，通常涉及scala库和函数式编程.
+* [The Scala Logs](https://twitter.com/thescalalogs) -采访开发人员，开源贡献者，主题专家等，以谈论FP，Scala，开源及其兴趣.
+* [Scala Love](https://scala.love/) -关于Scala编程语言及其社区的播客
 
 ## Contributing
 

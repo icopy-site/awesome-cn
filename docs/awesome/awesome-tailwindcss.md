@@ -172,7 +172,7 @@
 -  [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) -使用Tailwind CSS的Hugo主题入门.
 -  [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) -使用Eleventy，Tailwind CSS，Webpack和PostCSS的入门套件.
 -  [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) -使用Tailwind CSS的Nanoc启动器.
-+  [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) -样板包括带有PostCSS的Tailwind CSS，Autoprefixer，PurgeCSS和CSSNano.
+-  [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) -样板包括带有PostCSS的Tailwind CSS，Autoprefixer，PurgeCSS和CSSNano.
 -  [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) -使用Tailwind CSS，ParcelJS捆绑程序和TypeScript的样板.
 -  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) - Gatsby's serif theme using Tailwind CSS.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -具有Tailwind CSS的管理面板模板.
@@ -198,7 +198,7 @@
 
 ### Learning
 
-**图例**：样本·设置教程·视频教程·组件或页面教程·演员表
+**传奇**：示例·设置教程·视频教程·组件或页面教程·演员表
 
 -  [Tailwind Dark Mode Theme Switcher](https://github.com/huphtur/tailwind-theme-switcher) -使用CSS自定义属性和Tailwind CSS切换主题.
 -  [Plugin Examples (Official)](https://github.com/tailwindcss/plugin-examples) -官方插件示例.
