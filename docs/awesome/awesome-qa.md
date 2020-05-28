@@ -14,7 +14,7 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Recent Trend
+## Recent Trends
 ### Recent QA Models
 -UnifiedQA：使用单个QA系统跨越格式边界（2020）
   -演示：https：//unifiedqa.apps.allenai.org/
@@ -222,13 +222,13 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   
 ### The DeepQA Research Team in IBM Watson's publication within 5 years
 - 2015
-  -“通过IBM Watson中的电子病历自动生成问题列表”，Murthy Devarakonda，邹清慧，IAAI，2015年.
+  -“通过IBM Watson中的电子病历自动生成问题清单”，Murthy Devarakonda，邹静慧，IAAI，2015年.
   -“ IBM Watson问题解答中的决策制定”，J.William Murdock，本体论峰会，2015年.
   - ["Unsupervised Entity-Relation Analysis in IBM Watson"](http://www.cogsys.org/papers/ACS2015/article12.pdf)，阿迪亚·卡良布尔（Aditya Kalyanpur），威廉姆多克（J William Murdock），ACS，2015年.
   -“常识推理：基于事件演算的方法”，ET Mueller，摩根·考夫曼/爱思唯尔，2015年.
 - 2014
   -“问题导向的患者记录摘要：关于Watson应用程序的早期报告”，M.Devarakonda，张东阳，Tsing-Huei Tsou，M.Bornea，Healthcom，2014年.
-  - ["WatsonPaths: Scenario-based Question Answering and Inference over Unstructured Information"](http://domino.watson.ibm.com/library/Cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/088f74984a07645485257d5f006ace96!OpenDocument&Highlight=0,RC25489)，亚当·拉利（Adam Lally），苏加托·巴基（Sugato Bachi），迈克尔·巴博拉克（Michael A.Barborak），大卫·W·布坎南（David W.Buchanan），珍妮弗·楚·卡洛尔（David W. M.Prager，Christopher A.Welty，IBM研究报告RC25489,2014年.
+  - ["WatsonPaths: Scenario-based Question Answering and Inference over Unstructured Information"](http://domino.watson.ibm.com/library/Cyberdig.nsf/1e4115aea78b6e7c85256b360066f0d4/088f74984a07645485257d5f006ace96!OpenDocument&Highlight=0,RC25489)，亚当·拉利（Adam Lally），苏加托·巴基（Sugato Bachi），迈克尔·巴博拉克（Michael A.Barborak），大卫·W·布坎南（David W. M.Prager，Christopher A.Welty，IBM研究报告RC25489,2014年.
   - ["Medical Relation Extraction with Manifold Models"](http://acl2014.org/acl2014/P14-1/pdf/P14-1078.pdf)，王Chang和范范（ACL），2014年.
 
 ### MS Research's publication within 5 years

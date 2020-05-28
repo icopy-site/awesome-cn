@@ -434,7 +434,7 @@ AWS存储库：
 
 AWS存储库：
 
-* [aws-device-farm-appium-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) -  APPI TestNG的的android测试.
+* [aws-device-farm-appium-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) -APPI android TestNG测试.
 * [aws-device-farm-calabash-tests-for-sample-app](https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app) -葫芦Android测试.
 * [aws-device-farm-gradle-plugin](https://github.com/awslabs/aws-device-farm-gradle-plugin) -Gradle插件.
 * [aws-device-farm-jenkins-plugin](https://github.com/awslabs/aws-device-farm-jenkins-plugin) -Jenkins插件.
@@ -727,7 +727,7 @@ AWS存储库：
 社区回购：
 
 * [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
-* [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) -S3命令行工具，对于大型文件，它比S3cmd更快.
+* [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) -S3命令行工具，对于大型文件，它的速度比S3cmd好.
 * [CulturalMe/meteor-slingshot :fire::fire::fire:](https://github.com/CulturalMe/meteor-slingshot) -在流星中上传文件.
 * [danilop/yas3fs :fire::fire::fire:](https://github.com/danilop/yas3fs) -另一个受S3FS启发的S3支持的文件系统.
 * [grippy/node-s3](https://github.com/grippy/node-s3) -Node.js应用程序来管理存储桶.
@@ -816,7 +816,7 @@ AWS存储库：
 * [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) -用于管理的规则引擎，用于查询，过滤和对资源的操作的yaml中的DSL.
 * [chef-cookbooks/aws :fire::fire:](https://github.com/chef-cookbooks/aws) -AWS Chef Cookbook的开发资料库.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) -用于管理资源的工具，包括EC2，EBS，RDS和Route53.
-* [k1LoW/awspec :fire::fire::fire:](https://github.com/k1LoW/awspec) -RSpec测试您的资源.
+* [k1LoW/awspec :fire::fire::fire::fire:](https://github.com/k1LoW/awspec) -RSpec测试您的资源.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) -使用Vagrant管理您的EC2和VPC实例.
 * [NixOS/nixops :fire::fire::fire:](https://github.com/NixOS/nixops) -使用NixOS设置EC2实例，S3存储桶和其他资源.
 
@@ -1257,7 +1257,7 @@ AWS会议：
 
 * [Certificate Manager](https://aws.amazon.com/certificate-manager/) -使您轻松配置，管理和部署SSL / TLS证书以与AWS服务一起使用.
 * [CloudHSM](https://aws.amazon.com/cloudhsm/) -通过使用AWS云中的专用硬件安全模块（HSM）设备，帮助满足公司，合同和法规对数据安全的合规性要求.
-* [Directory Service](https://aws.amazon.com/directoryservice/) -一种托管服务，可让您将资源与现有的本地Microsoft Active Directory连接或在AWS Cloud中建立新的独立目录.
+* [Directory Service](https://aws.amazon.com/directoryservice/) -一项托管服务，可让您将资源与现有的本地Microsoft Active Directory连接或在AWS Cloud中建立新的独立目录.
 * [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) -隐式服务，用于对各种服务的访问进行身份验证的身份验证基础结构.
 * [Inspector](https://aws.amazon.com/inspector/) -自动化安全评估服务，可帮助改善AWS上部署的应用程序的安全性和合规性.
 * [Key Management Service (KMS)](https://aws.amazon.com/kms/) -一项托管服务，可让您轻松创建和控制用于加密数据的加密密钥.

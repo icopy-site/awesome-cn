@@ -187,10 +187,6 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
   - [Slides](https://docs.google.com/presentation/d/1LYNGpyjx9PemL-P__7hVC8mSqkX-jL8VQLMhCRehy00/edit?usp=sharing)
 - [Ryan Dahl & Kitson Kelly: Deno is a New Way to JavaScript - TSConf 2019](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 
-## Newsletters
-
-- [Deno Newsletter](https://deno.news)
-
 ## Resources in Other Languages
 
 ### Chinese

@@ -9,7 +9,7 @@
 
 <a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
- &gt;标记有！[开源软件] [oss图标]的项目是开源软件.  标有！[免费软件] [免费软件图标]的项目是免费的.
+ &gt;带有！[开源软件] [oss图标]标记的项目是开源软件.  标有！[免费软件] [免费软件图标]的项目是免费的.
 
 
 <!-- vim-markdown-toc GFM -->
@@ -24,20 +24,19 @@
 - [AIMP](http://www.aimp.ru/)  -32位音频处理和多格式播放.  ！[免费软件] [免费软件图标]
 - [Audacity](http://audacityteam.org/)  -用于录制和编辑声音的免费，开源，跨平台软件.  [！[开源软件] [oss图标]]（https://github.com/audacity/audacity）！[免费软件] [免费软件图标]
 - [AudioNodes](https://audionodes.com/)  -模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等.  ！[免费软件] [免费软件图标]
-- [CDex](http://www.cdex.fr/)  -CD开膛手（法语站点，英语程序）.  ！[免费软件] [免费软件图标]
+- [CDex](http://www.cdex.fr/)  -CD Ripper（法语站点，英语程序）.  ！[免费软件] [免费软件图标]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/)  -音频播放器，它试图使组织和聆听音乐尽可能简单美观.  ！[免费软件] [免费软件图标]
-- [Exact Audio Copy](http://www.exactaudiocopy.de/) -几乎以每种格式将文件从CD传输到PC.还具有一些漂亮的功能.
+- [Exact Audio Copy](http://www.exactaudiocopy.de/) -几乎以每种格式将文件从CD传输到PC.还具有一些非常漂亮的功能.
 - [Foobar2000](http://www.foobar2000.org/)  -适用于Windows的免费音频播放器，支持多种音频格式，并具有许多很酷的功能.  ！[免费软件] [免费软件图标]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm)  -收集DirectShow过滤器，VFW / ACM编解码器和工具.  ！[免费软件] [免费软件图标]
 - [Kodi](https://kodi.tv/)  -免费和开源的家庭影院软件.  [！[开源软件] [oss图标]]（https://github.com/xbmc）！[免费软件] [免费软件图标]
-- [Mixxx](http://mixxx.org/)  -免费的DJ软件，可为您提供进行现场混音所需的一切，是Traktor的真正替代产品.  [！[开源软件] [oss图标]]（https://github.com/mixxxdj/mixxx）！[免费软件] [免费软件图标]
+- [Mixxx](http://mixxx.org/)  -免费的DJ软件，可为您提供现场混音所需的一切，是Traktor的真正替代品.  [！[开源软件] [oss图标]]（https://github.com/mixxxdj/mixxx）！[免费软件] [免费软件图标]
 - [Musicbee](http://getmusicbee.com/) -与iTunes类似，但比iTunes更好.
 - [MusicBrainz Picard](https://picard.musicbrainz.org/)  -Picard是一种跨平台的音乐标记器，用于查找和重写元数据标记.  [！[开源软件] [oss图标]]（https://github.com/metabrainz/picard）！[免费软件] [免费软件图标]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][freeware icon]
 - [Reaper](http://www.reaper.fm/download.php) -具有深度功能集的轻型应用程序，个人，非盈利性或小型企业使用\ 60美元.
 - [Resonic](https://resonic.at/) -快速和免费的音频播放器.
-- [VLC](http://www.videolan.org/vlc/index.html)  -免费的媒体播放器，效果很好.  [！[开源软件] [OSS图标]]（https://www.videolan.org/vlc/download-sources.html）！[免费软件] [免费软件图标]
-- [WACUP](https://getwacup.com/preview)  -Winamp的扩展/改进，提供错误修正和更多功能，例如更好的MOD播放器和YouTube支持.  ！[免费软件] [免费软件图标]
+- [WACUP](https://getwacup.com/preview)  -Winamp的扩展/改进，提供错误修复和更多功能，例如更好的MOD播放器和YouTube支持.  ！[免费软件] [免费软件图标]
 - [Winamp](http://www.winamp.com/)  -能够播放MP3，MP2，WAV，VOC和MIDI文件的音乐播放器.  ！[免费软件] [免费软件图标]
 
 ### Chat Clients
@@ -47,9 +46,14 @@
 - [Hexchat](https://hexchat.github.io/) -基于XChat的IRC客户端[！[开源软件] [oss图标]]（https://hexchat.github.io/）！[免费软件] [免费软件图标]
 - [LimeChat](http://limechat.net)  -即时通讯应用程序.  ！[免费软件] [免费软件图标]
 - [mIRC](http://www.mirc.com/) -Internet中继聊天（IRC）客户端.
+- [Quassel](http://quassel-irc.org/)  -Quassel IRC是一个现代的，跨平台的分布式IRC客户.  [！[开源软件] [OSS图标]]（http://quassel-irc.org/）！[免费软件] [免费软件图标]
+- [Riot](https://about.riot.im/)  -适用于Matrix.org生态系统的分散式加密通讯应用程序.  [！[开源软件] [OSS图标]]（https://github.com/vector-im/riot-web）！[免费软件] [免费软件图标]
+- [Telegram](https://desktop.telegram.org/)  -专注于速度和安全性的消息传递应用程序，它超级快速，简单且免费.  [！[开源软件] [OSS图标]]（https://telegram.org/apps）！[免费软件] [免费软件图标]
+- [Waow](http://dedg3.com/wao/)  -出色的WhatsApp Web客户端，可为您提供最佳的WhatsApp体验.  ！[免费软件] [免费软件图标]
+- [Franz](https://meetfranz.com/)  -适用于WhatsApp，Facebook Messenger，Slack，Telegram等的消息传递应用程序.  [！[开源软件] [OSS图标]]（https://github.com/meetfranz/franz）！[免费软件] [免费软件图标]
 - [Quassel](http://quassel-irc.org/)  -Quassel IRC是一个现代的，跨平台的分布式IRC客户.  [！[开源软件] [oss图标]]（http://quassel-irc.org/）！[免费软件] [免费软件图标]
-- [Riot](https://about.riot.im/)  -Matrix.org生态系统的分散式加密通讯应用程序.  [！[开源软件] [oss图标]]（https://github.com/vector-im/riot-web）！[免费软件] [免费软件图标]
-- [Telegram](https://desktop.telegram.org/)  -专注于速度和安全性的消息传递应用程序，它超级快速，简单，免费.  [！[开源软件] [oss图标]]（https://telegram.org/apps）！[免费软件] [免费软件图标]
+- [Riot](https://about.riot.im/)  -适用于Matrix.org生态系统的分散式加密通讯应用程序.  [！[开源软件] [oss图标]]（https://github.com/vector-im/riot-web）！[免费软件] [免费软件图标]
+- [Telegram](https://desktop.telegram.org/)  -专注于速度和安全性的消息传递应用程序，它超级快速，简单且免费.  [！[开源软件] [oss图标]]（https://telegram.org/apps）！[免费软件] [免费软件图标]
 - [Waow](http://dedg3.com/wao/)  -出色的WhatsApp Web客户端，可为您提供最佳的WhatsApp体验.  ！[免费软件] [免费软件图标]
 
 ### Compression
@@ -64,31 +68,30 @@
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)  -允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能.  ！[免费软件] [免费软件图标]
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000一样.[！[开源软件] [oss图标]]（https://github.com/passionate-coder/Classic-Start）！[免费] [免费软件]
-- [Clover](http://en.ejie.me/)  -将多标签功能添加到Windows资源管理器.  ！[免费软件] [免费软件图标]
+- [Clover](http://en.ejie.me/)  -将多选项卡功能添加到Windows资源管理器.  ！[免费软件] [免费软件图标]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  -通过系统托盘进行每个应用程序的音量控制.  [！[开源软件] [oss图标]]（https://github.com/File-New-Project/EarTrumpet）！[免费软件] [免费软件图标]
 - [QTTabBar](http://qttabbar.wikidot.com/)  -通过标签和额外的文件夹视图扩展资源管理器.  ！[免费软件] [免费软件图标]
-- [Rainmeter](https://www.rainmeter.net/)  -Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器.  [！[开源软件] [oss图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
+- [Rainmeter](https://www.rainmeter.net/)  -Rainmeter使您可以在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器.  [！[开源软件] [oss图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
 - [Search Deflector](https://github.com/spikespaz/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  [！[开源软件] [oss图标]]（https://github.com/spikespaz/search-deflector）！[免费软件] [免费软件图标]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)  -使Windows任务栏透明.  [！[开源软件] [oss图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)  -可让您更改Windows 10登录屏幕的背景.  [！[开源软件] [oss图标]]（https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer）！[免费软件] [免费软件图标]
-- [ZBar](http://www.zhornsoftware.co.uk/zbar/) -如果使用多个监视器，则可以在每个监视器上显示单独的任务栏.
+- [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) -如果使用多个监视器，则可以在每个监视器上显示单独的任务栏.
 
 ### Data Recovery
 
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) -全面而专业的硬盘恢复软件，可以恢复您的照片，视频，文档.
-- [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) -具有过滤工具，可帮助对软件可以恢复的大量数据进行分类.
+- [Ontrach EasyRecovery](http://www.krollontrack.com/data-recovery/recovery-software/) -具有过滤工具，可帮助分类软件可以恢复的大量数据.
 - [PartitionGuru ｜ Eassos Recovery](http://www.eassos.com/)  -通过分区恢复进行数据恢复.  ！[免费软件] [免费软件图标]
 - [Recuva](https://www.piriform.com/recuva) -快速，轻松地恢复已删除的文件.
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) -远程恢复选项，可通过网络从另一台计算机恢复数据.
-- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -功能强大的免费数据恢复软件，主要用于帮助恢复丢失的分区和/或使非启动磁盘再次可启动.
+- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -功能强大的免费数据恢复软件，主要用于帮助恢复丢失的分区和/或使非引导磁盘再次可引导.
 
 ### Developer Tools
 
-- [Addict](https://github.com/dthree/addict) -用于Active Directory的嵌入式REST API.
 - [Cacher](https://www.cacher.io/) -具有Gist同步，VSCode / Atom / Sublime软件包和功能齐全的Web客户端的基于云的，团队启用的代码段管理器.
 - [DB Browser for SQLite](http://sqlitebrowser.org/) -用于创建，设计和编辑与SQLite兼容的数据库文件的高质量，可视，开放源代码工具[！[开源软件] [oss图标]]（http://sqlitebrowser.org/）
 - [ExtendsClass](https://extendsclass.com/) -开发人员的在线工具（REST / SOAP客户端，SQLite浏览器，Regex测试器，XPath测试器）！[免费软件] [免费软件图标]
-- [Fiddler](http://www.telerik.com/fiddler) -Web调试代理.
+- [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/)  -FTP，FTPS和SFTP客户端.  [！[开源软件] [oss图标]]（https://download.filezilla-project.org/client/）！[免费软件] [免费软件图标]
 - [Fork](https://git-fork.com/)  -适用于Windows（和Mac）的快速友好的Git客户端.  ！[免费软件] [免费软件图标]
 - [Git Extensions](https://gitextensions.github.io/)  -强大且易于使用的Git UI.  [！[开源软件] [oss图标]]（https://github.com/gitextensions/gitextensions）！[免费软件] [免费软件图标]
@@ -96,21 +99,21 @@
 - [GitKraken](https://www.gitkraken.com/)  -一个漂亮的，跨平台的Git客户端.  ！[免费软件] [免费软件图标]
 - [HeidiSQL](http://www.heidisql.com/) -适用于MySQL，MariaDB，Microsoft SQL Server和PostgreSQL的强大易用的客户端.
 - [HTTP Toolkit](https://httptoolkit.tech)  -HTTP调试和模拟工具.  [！[开源软件] [oss图标]]（https://github.com/httptoolkit）！[免费软件] [免费软件图标]
-- [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) -一个功能丰富的基于WinForms的HTTP客户端[！[开源软件] [oss图标]]（https://github.com/swensensoftware/im-only-resting）！[免费软件] [免费软件图标]
+- [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) -一个基于WinForms的功能丰富的HTTP客户端[！[开源软件] [oss图标]]（https://github.com/swensensoftware/im-only-resting）！[免费软件] [免费软件图标]
 - [Insomnia](http://insomnia.rest)  -具有漂亮界面的现代REST客户端.  ！[开源软件] [oss图标]！[免费软件] [免费软件图标]
 - [Keylord](https://protonail.com/products/keylord) 用于Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端.
 - [Mamp](https://www.mamp.info/en/)  -本地服务器环境.  ！[免费软件] [免费软件图标]
 - [Meld](http://meldmerge.org/)  -视觉差异和合并工具.  [！[开源软件] [oss图标]]（https://gitlab.gnome.org/GNOME/meld/）！[免费软件] [免费软件图标]
 - [NSudo](https://github.com/M2Team/NSudo/)  -强大的系统管理工具.  [！[开源软件] [oss图标]]（https://github.com/M2Team/NSudo/）
 - [Open Server](https://ospanel.io/)  -便携式服务器平台和软件环境（例如MAMP，XAMPP，WAMP，非常用户友好）.  ！[免费软件] [免费软件图标]
-- [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
+- [Pixie](http://www.nattyware.com/pixie.php) -针对开发人员的简单颜色选择器.
 - [pngquant](https://pngquant.org/) -使用或wi对PNG文件应用有损压缩
 - [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) -全面的工具清单.
-- [Postman](https://www.getpostman.com/postman) -带有直观用户界面的REST客户端，用于发送请求，保存响应，添加测试和创建工作流.
+- [Postman](https://www.getpostman.com/postman) -具有直观用户界面的REST客户端，用于发送请求，保存响应，添加测试和创建工作流程.
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx)  -强大的任务管理器.  ！[免费软件] [免费软件图标]
 - [Process Hacker](http://processhacker.sourceforge.net/) -出色的任务经理.
 - [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) -sysinternal工具显示实时文件系统，注册表，网络和进程/线程活动.  ！[免费软件] [免费软件图标]
-- [RazorSQL](http://www.razorsql.com/) -用于管理SQLite数据库的GUI，需要进行大量工作.
+- [RazorSQL](http://www.razorsql.com/) -用于管理SQLite数据库的GUI，需要大量工作.
 - [Redis Desktop Manager](http://redisdesktop.com/) 跨平台开源Redis DB管理工具.
 - [Robo 3T](https://robomongo.org/) -适用于MongoDB爱好者的轻量级GUI.
 - [SourceTree](https://www.sourcetreeapp.com/) -免费的Git和Mercurial客户.
@@ -118,7 +121,7 @@
 - [SSLyog](https://www.webyog.com/) -强大的MySQL管理工具
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) -用于浏览日志的小型快速工具[！[开源软件] [oss图标]]（https://github.com/RolandPheasant/TailBlazer）！[免费软件] [免费软件图标]
 - [TortoiseGit](https://tortoisegit.org/)  -具有完整Shell集成的Git客户端.  [！[开源软件] [oss图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
-- [Tower](https://www.git-tower.com/windows) -塔-Mac和Windows上最强大的Git客户端.
+- [Tower](https://www.git-tower.com/windows) -塔-Mac和Windows上功能最强大的Git客户端.
 - [Vagrant](https://www.vagrantup.com/)  -用于构建和管理虚拟机的工具.  [！[开源软件] [oss图标]]（https://github.com/mitchellh/vagrant）
 - [Velocity](http://velocity.silverlakesoftware.com/)  -离线API文档工具.  （喜欢 [Dash](https://kapeli.com/dash) 对于macOS）
 - [Visual Studio Code](https://code.visualstudio.com/)  -轻量级源代码编辑器.  [！[开源软件] [oss图标]]（https://github.com/Microsoft/vscode）！[免费软件] [免费软件图标]
@@ -126,7 +129,7 @@
 - [Wamp](http://www.wampserver.com/en/) -Web开发环境.
 - [WinSCP](https://winscp.net/)  -免费的开源SFTP，FTP，WebDAV和SCP客户端.  ！[免费软件] [免费软件图标]
 - [Wireshark](https://www.wireshark.org/)  -网络协议分析器.  [！[开源软件] [oss图标]]（https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html）！[免费软件] [免费软件图标]
-- [WMI Explorer](https://github.com/vinaypamnani/wmie2/)  -提供在单个视图窗格中浏览和查看WMI名称空间/类/实例/属性的功能.  [！[开源软件] [oss图标]]（https://github.com/vinaypamnani/wmie2/）
+- [WMI Explorer](https://github.com/vinaypamnani/wmie2/)  -提供在单个视图窗格中浏览和查看WMI命名空间/类/实例/属性的功能.  [！[开源软件] [oss图标]]（https://github.com/vinaypamnani/wmie2/）
 - [Xampp](https://www.apachefriends.org/index.html)  -Apache驱动的Web开发环境.  ！[免费软件] [免费软件图标]
 - [Xftp 5](https://www.netsarang.com/products/xfp_overview.html)  -灵活轻便的SFTP / FTP客户端.  ！[免费软件] [免费软件图标]
 - [Zsh](http://www.zsh.org/)  -强大的命令行外壳.  [！[开源软件] [oss图标]]（http://sourceforge.net/p/zsh/code/ci/master/tree/）！[免费软件] [免费软件图标]
@@ -144,24 +147,24 @@
 
 ### E-Book Utilities
 
-- [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f)  -出色的Windows 8设备应用程序，可通过简单的方式阅读电子书.  ！[免费软件] [免费软件图标]
+- [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) - Awesome application for Windows 8 devices to read eBooks in a simple way. ![Freeware][freeware icon]
 - [Calibre](http://calibre-ebook.com/)  -强大的电子书管理和转换软件.  [！[开源软件] [oss图标]]（http://calibre-ebook.com/get-involved）！[免费软件] [免费软件图标]
 - [kobo](https://www.kobo.com/desktop)  -用于电子书管理和转换的极其丑陋但功能强大的软件.  ！[免费软件] [免费软件图标]
 
 ### Email
 
-- [Mailbird](https://www.mailbird.com/) -IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多种语言支持.
-- [Mailspring](https://getmailspring.com/)  -基于现代网络技术的Nylas Mail快速维护叉.  [！[开源软件] [oss图标]]（https://github.com/Foundry376/Mailspring）！[免费软件] [免费软件图标]
+- [Mailbird](https://www.mailbird.com/) -IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多语言支持的功能.
+- [Mailspring](https://getmailspring.com/) - A fast and maintained fork of Nylas Mail, built on modern web technologies. [![Open-Source Software][oss icon]](https://github.com/Foundry376/Mailspring) ![Freeware][freeware icon]
 - [Nylas Mail](https://www.nylas.com/download/)  -建立在现代网络上的可扩展桌面邮件应用程序.  [！[开源软件] [oss图标]]（https://github.com/nylas/N1）！[免费软件] [免费软件图标]
 - [Postbox](https://postbox-inc.com/) -强大的电子邮件应用程序
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)  -具有简约设计的电子邮件客户端.  [！[开源软件] [oss图标]]（https://developer.mozilla.org/zh-CN/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build）！[免费软件] [免费软件图标]
-- [BlueMail](https://www.bluemail.me/desktop/) -设计精美，功能强大且易于使用的电子邮件应用程序，如果您正在寻找跨平台功能.
+- [BlueMail](https://www.bluemail.me/desktop/) -如果您正在寻找跨平台功能，则设计精美，功能强大且易于使用的电子邮件应用程序.
 
 ### Games
 
 - [0 A.D.](https://play0ad.com/)  -古代战争的免费开放源实时战略游戏.  [！[开源软件] [oss图标]]（https://github.com/0ad/0ad）！[免费软件] [免费软件图标]
 - [Awesome Games](https://github.com/leereilly/games)  -Github上托管的游戏列表.  ！[免费软件] [免费软件图标]
-- [Freeciv](http://www.freeciv.org/)  -受人类文明历史启发的免费开源帝国建设策略游戏.  [！[开源软件] [oss图标]]（https://github.com/freeciv/）！[免费软件] [免费软件图标]
+- [Freeciv](http://www.freeciv.org/)  -受人类文明历史启发的免费开源帝国建立战略游戏.  [！[开源软件] [oss图标]]（https://github.com/freeciv/）！[免费软件] [免费软件图标]
 - [Godot Engine](https://godotengine.org/)  -免费和开源的游戏引擎.  易于入门，对中级用户非常灵活.  [！[开源软件] [oss图标]]（https://github.com/godotengine/godot）！[免费软件] [免费软件图标]
 - [GOG](https://www.gog.com/) -无DRM的游戏商店，既有很多旧游戏，又有很多新游戏.
 - [Itch.io](https://itch.io/app/)  -安装，更新和玩独立游戏.  [！[开源软件] [oss图标]]（https://github.com/itchio/itch）！[免费软件] [免费软件图标]
@@ -169,7 +172,7 @@
 - [Origin](https://www.origin.com/en-in/store/) -与Steam类似，但适用于EA.
 - [Steam](http://store.steampowered.com/)  -最大的在线视频游戏零售商.  桌面应用程序可让您整理游戏库并随时播放.  但是你已经知道了.
 - [Unity](https://unity3d.com/)  -免费游戏引擎.  易于使用，并带有许多教程.
-- [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)  -另一个免费游戏引擎.  大量的文档资料而且更容易获取，但是当您从基于UE的游戏中赚钱时，您需要向Unreal支付5％的专利使用费.
+- [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)  -另一个免费游戏引擎.  大量的文档资料并且更容易获取，但是当您从基于UE的游戏中赚钱时，您需要向Unreal支付5％的版税.
 - [Warsow](https://www.warsow.net/)  -适用于Windows的免费和快节奏的FPS游戏.  ！[免费软件] [免费软件图标]
 
 ### Graphics
@@ -186,11 +189,11 @@
 - [Atom](https://atom.io/)  -21世纪可入侵的文本编辑器.  [！[开源软件] [oss图标]]（https://github.com/atom/atom）！[免费软件] [免费软件图标]
 - [Brackets](http://brackets.io/)  -能够理解网页设计的现代开放源代码文本编辑器.  [！[开源软件] [oss图标]]（https://github.com/adobe/brackets）！[免费软件] [免费软件图标]
 - [GVim](http://www.vim.org/download.php#pc)  -（G）Vim是一种高度可配置的文本编辑器，旨在实现高效的文本编辑.  [！[开源软件] [oss图标]]（https://github.com/vim/vim）！[免费软件] [免费软件图标]
-- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable) ![Freeware][freeware icon]
+- [Light Table](http://lighttable.com/)  -具有即时反馈并显示数据值的可自定义编辑器，贯穿您的代码.  [！[开源软件] [oss图标]]（https://github.com/LightTable/LightTable）！[免费软件] [免费软件图标]
 - [Neovim](https://neovim.io/) -实际上是vim的未来[！[开源软件] [oss图标]]（https://github.com/neovim/neovim）！[免费软件] [免费软件图标]
-- [Notepad++](https://notepad-plus-plus.org/)  -支持多种编程语言的源代码编辑器.  [！[开源软件] [oss图标]]（https://github.com/notepad-plus-plus/notepad-plus-plus）！[免费软件] [免费软件图标]
+- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][freeware icon]
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html)  -具有许多有用功能的微型记事本，可快速更换.  ！[开源软件] [oss图标]！[免费软件] [免费软件图标]
-- [Oni](http://onivim.io/) -现代模式编辑-由Neovim提供支持[！[开源软件] [oss图标]]（https://github.com/onivim/oni）！[免费软件] [免费软件图标]
+- [Oni](http://onivim.io/) -现代模式编辑-由Neovim提供支持[！[开源软件] [oss图标]]（https://github.com/onivim/oni）！[免费软件] [免费软件]
 - [SpaceVim](https://spacevim.org) -社区驱动的vim发行版[！[开源软件] [oss图标]]（https://github.com/onivim/oni）！[免费软件] [免费软件图标]
 - [Sublime Text 3](http://www.sublimetext.com/3) -复杂的文本编辑器.
 - [Visual Studio Code](https://code.visualstudio.com/)  -构建和调试现代的Web和云应用程序.  [！[开源软件] [oss图标]]（https://github.com/Microsoft/vscode）！[免费软件] [免费软件图标]
@@ -203,7 +206,7 @@
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)  -具有免费社区版的现代Java IDE.  [！[开源软件] [oss图标]]（https://github.com/JetBrains/intellij-community）！[免费软件] [免费软件图标]
 - [NetBeans IDE](https://netbeans.org/)  -一个免费的开源IDE.  [！[开源软件] [oss图标]]（https://netbeans.org/community/sources/）！[免费软件] [免费软件图标]
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) -具有主要框架支持的闪电智能PHP IDE.
-- [PyCharm](https://www.jetbrains.com/pycharm)  -具有免费社区版的专业开发人员的Python IDE.  [！[开源软件] [oss图标]]（https://github.com/JetBrains/intellij-community/tree/master/python）！[免费软件] [免费软件图标]
+- [PyCharm](https://www.jetbrains.com/pycharm)  -适用于具有免费社区版的专业开发人员的Python IDE.  [！[开源软件] [oss图标]]（https://github.com/JetBrains/intellij-community/tree/master/python）！[免费软件] [免费软件图标]
 - [Rider](https://www.jetbrains.com/rider/) -跨平台的.NET / Mono IDE.
 - [RubyMine](https://www.jetbrains.com/ruby/) -支持许多现代框架的智能Ruby IDE.
 - [Visual Studio](https://www.visualstudio.com/vs/)  -Microsoft的官方IDE.  通过插件支持多种语言.
@@ -214,7 +217,7 @@
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) -能够同步超过100,000个文件，并支持文件名中的特殊字符和长度超过256个字符的文件路径.
 - [Dropbox](https://www.dropbox.com/install) -简单，优雅，通用的（PC，Mac，Android ...）云存储解决方案.
 - [Google Drive](https://www.google.com/drive/download/) -深度集成在Google生态系统中的云存储解决方案.
-- [pCloud](https://www.pcloud.com)  -基于瑞士的隐私优先的云提供商.  还提供一次性付款终身计划.
+- [pCloud](https://www.pcloud.com)  -基于瑞士的隐私第一云提供商.  还提供一次性付款终身计划.
 - [Sync](https://www.sync.com/) -将所有文件存储在加拿大数据中心中的加密文件存储
 - [Mega](https://mega.nz/) -加密的文件存储.
 - [Mozy](https://mozy.com/product/download)
@@ -231,13 +234,13 @@
 - [Aperture Control](https://github.com/Lieturd/aperture-control) -Windows环境自动化工具，具有许多 [premade recipes](https://github.com/Lieturd/aperture-control-recipes) 和 [examples](https://github.com/Lieturd/aperture-control-example)  可用.  [！[开源软件] [oss图标]]（https://github.com/Lieturd/aperture-control）！[免费软件] [免费软件图标]
 - [AutoHotkey](https://autohotkey.com/)  -Windows的终极自动化脚本语言.  [！[开源软件] [oss图标]]（https://autohotkey.com/）！[免费软件] [免费软件图标]
 - [Chocolatey](https://chocolatey.org/) -Windows的软件包管理器.
-- [Cold Turkey](https://getcoldturkey.com)  -唯一分散注意力的网站阻止者.  （即使启用了阻止功能，您也无法卸载它）.
-- [CommandTrayHost](https://github.com/rexdf/CommandTrayHost)  -Windows的命令行程序监视系统.  [！[开源软件] [oss图标]]（https://github.com/rexdf/CommandTrayHost）！[免费软件] [免费软件图标]
+- [Cold Turkey](https://getcoldturkey.com)  -唯一分散注意力的网站阻止者.  （即使阻止处于活动状态，也不允许您将其卸载）.
+- [CommandTrayHost](https://github.com/rexdf/CommandTrayHost)  -Windows的命令行程序监视器系统.  [！[开源软件] [oss图标]]（https://github.com/rexdf/CommandTrayHost）！[免费软件] [免费软件图标]
 - [CopyQ](https://hluk.github.io/CopyQ/)  -具有高级功能的剪贴板管理器.  [！[开源软件] [oss图标]]（https://github.com/hluk/CopyQ）！[免费软件] [免费软件图标]
 - [Ditto](http://ditto-cp.sourceforge.net/) -剪贴板经理.
 - [Easy Window Switcher](https://neosmart.net/EasySwitch/) -在应用程序实例之间快速切换.
 - [Everything](http://www.voidtools.com/) -按名称最快的文件/文件夹搜索工具.
-- [Executor.dk](http://executor.dk/)  -免费的多用途可定制且轻便的发射器.  ！[免费软件] [免费软件图标]
+- [Executor.dk](http://executor.dk/)  -免费的多用途可定制轻量级发射器.  ！[免费软件] [免费软件图标]
 - [f.lux](http://stereopsis.com/flux/)  -自动调整计算机屏幕以匹配照明.  ！[免费软件] [免费软件图标]
 - [File Juggler](https://www.filejuggler.com/)  -自动整理文件.  监视文件夹并执行诸如重命名，删除，解压缩等操作.  查找PDF中的日期等.
 - [Inkdrop](https://www.inkdrop.info/) -Markdown爱好者的笔记应用程序.
@@ -245,23 +248,24 @@
 - [Keypirinha](http://keypirinha.com/)  -Windows键盘忍者的快速启动器.  您可以将Keypirinha视为_Launchy_的替代品和_Alfred_的表亲.  ！[免费软件] [免费软件图标]
 - [Launchy](http://www.launchy.net/)  -开源按键启动器.  [！[开源软件] [oss图标]]（https://github.com/OpenNingia/Launchy）！[免费软件] [免费软件图标]
 - [Listary](http://www.listary.com/)  -使文件触手可及.  独特的搜索实用程序.
+- [Luna](https://github.com/adrianmteo/Luna) -Windows 10的自动暗模式.
 - [MultiCommander](http://multicommander.com/)  -专业的文件管理器.  ！[免费软件] [免费软件图标]
 - [Ninite](https://ninite.com/)  -更新或安装软件的最简单，最快的方法.  ！[免费软件] [免费软件图标]
 - [One Commander](http://onecommander.com/)  -具有Miller列和双窗格视图的文件管理器.  ！[免费软件] [免费软件图标]
-- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop) ![Freeware][freeware icon]
+- [Scoop](https://github.com/lukesampson/scoop)  -Windows的命令行安装程序.  [！[开源软件] [oss图标]]（https://github.com/lukesampson/scoop）！[免费软件] [免费软件图标]
 - [Simplenote](https://simplenote.com/)  -具有基于云的同步功能的简单跨平台笔记应用程序.  ！[免费软件] [免费软件图标]
 - [Taskade](https://taskade.com/)  -具有实时跨平台同步和团队协作的智能任务列表.  ！[免费软件] [免费软件图标]
 - [Total Commander](https://www.ghisler.com/) -Windows的最佳文件管理器.
-- [WordWeb](http://wordweb.info/)  -一本非常好的Windows英文字典.  ！[免费软件] [免费软件图标]
+- [WordWeb](http://wordweb.info/)  -一个非常好的Windows英文字典.  ！[免费软件] [免费软件图标]
 - [Wox](http://www.wox.one/)  -Windows的有效启动器.  [！[开源软件] [oss图标]]（https://github.com/Wox-launcher/Wox/）！[免费软件] [免费软件图标]
 
 ### Terminal
 
-- [Alacritty](https://github.com/jwilm/alacritty) -跨平台，GPU加速的终端仿真器[！[开源软件] [oss图标]]（https://github.com/jwilm/alacritty）！[免费软件] [免费软件图标]
+- [Alacritty](https://github.com/jwilm/alacritty) -一种跨平台，GPU加速的终端仿真器[！[开源软件] [oss图标]]（https://github.com/jwilm/alacritty）！[免费软件] [免费软件图标]
 - [Babun](http://babun.github.io)  -基于Cygwin的替代Windows Shell.  [！[开源软件] [oss图标]]（https://github.com/babun/babun）！[免费软件] [免费软件图标]
 - [Cmder](https://cmder.net)  -带有clink外壳的控制台仿真器程序包.  [！[开源软件] [oss图标]]（https://github.com/cmderdev/cmder）！[免费软件] [免费软件图标]
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) -为Windows控制台设置自定义配色方案，并支持iTerm配色方案.
-- [ConEmu](https://github.com/Maximus5/ConEmu) -具有选项卡，拆分，地震样式等的可定制终端.
+- [ConEmu](https://github.com/Maximus5/ConEmu) -具有标签，拆分，地震样式等的可定制终端.
 - [ConsoleZ](https://github.com/cbucher/console) -控制台2的修改版本，以获得更好的体验和更好的视觉效果.
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) -基于UWP和Web技术的终端仿真器.
 - [Hyper](https://hyper.is)  -基于网络技术的终端.  [！[开源软件] [oss图标]]（https://github.com/zeit/hyper）！[免费软件] [免费软件图标]
@@ -276,21 +280,22 @@
 ### Utilities
 
 - [A-Z of Windows Terminal Commands](http://ss64.com/nt/)
-- [Acrosync](https://acrosync.com/windows.html)  -Windows的唯一本机rsync客户端（无需cygwin）.  它支持文件更改自动上传和每小时增量备份.
+- [Acrosync](https://acrosync.com/windows.html)  -Windows的唯一本机rsync客户端（无需cygwin）.  它支持文件更改的自动上传和每小时的增量备份.
 - [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)  -右键单击该脚本，可以将喜欢的文件夹添加到“发送到”选项.  [！[开源软件] [oss图标]]（https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/）
 - [Advanced Renamer](https://www.advancedrenamer.com/)  -先进的批量重命名程序，支持基于图像中的GPS数据，音乐文件中的ID3标签，电视节目数据和正则表达式进行重命名.  ！[免费软件] [免费软件图标]
 - [Bandicam](https://www.bandicam.com) -录制软件，可以轻松地同时录制桌面和3D应用的视频.
 - [Carnac](http://code52.org/carnac/) -在任何屏幕录制期间录制击键的最简单方法.
 - [CleanMyPC](http://macpaw.com/cleanmypc) -立即清洁计算机.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html)  -免费的多合一CPU监控工具.  ！[免费软件] [免费软件图标]
+- [Econap](https://econap.de)  -在系统忙时防止进入睡眠模式.  ！[免费软件] [免费软件图标]
 - [Ext2Fsd](http://www.ext2fsd.com/)  -Windows的开源ext3 / 4文件系统驱动程序.  [！[开源软件] [oss图标]]（https://github.com/matt-wu/Ext3Fsd）！[免费软件] [免费软件图标]
-- [ExifCleaner](https://exifcleaner.com)  -通过拖放操作从图像和视频中删除exif元数据.  [！[开源软件] [oss图标]]（https://github.com/szTheory/exifcleaner）！[免费软件] [免费软件图标]
+- [ExifCleaner](https://exifcleaner.com)  -通过拖放从图像和视频中删除exif元数据.  [！[开源软件] [oss图标]]（https://github.com/szTheory/exifcleaner）！[免费软件] [免费软件图标]
 - [Far](http://www.farmanager.com/index.php?l=en)  -文件和存档管理器.  诺顿指挥官的克隆.  [！[开源软件] [oss图标]]（http://sourceforge.net/projects/farmanager/）
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) -支持多种格式的无损文件大小优化器.
 - [Fraps](http://www.fraps.com/)-视频游戏捕获屏幕录像机，可与所有使用DirectX或OpenGL技术的游戏一起使用.
-- [FreeFileSync](http://www.freefilesync.org/) -一种用于文件和文件夹的简便备份解决方案，它支持源/目标之间的镜像/双向同步/更新.
-- [fselect](https://github.com/jhspetersson/fselect) -使用类似SQL的查询搜索文件的命令行工具.
-- [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
+- [FreeFileSync](http://www.freefilesync.org/) -一种用于文件和文件夹的简单备份解决方案，它支持源/目标之间的镜像/双向同步/更新.
+- [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL-like queries.
+- [Glary Utilities](http://www.glarysoft.com/) -提供ccleaner中不存在的许多更高级的功能.
 - [GPU-Z](http://www.techpowerup.com/gpuz/)  -免费的多合一GPU监控工具.  ！[免费软件] [免费软件图标]
 - [Greenshot](https://github.com/greenshot/greenshot)  -直接在屏幕上拍摄和裁剪屏幕截图.  [！[开源软件] [oss图标]]（https://github.com/greenshot/greenshot）
 - [HTTrack](https://www.httrack.com/page/2/en/index.html) -脱机浏览器实用程序，使您可以从Internet将网站下载到本地目录.  [！[开源软件] [oss图标]]（https://github.com/xroche/httrack/tree/master）
@@ -306,26 +311,32 @@
 - [rimraf](https://www.npmjs.com/package/rimraf)  -节点的深度删除模块.  帮助删除路径很长的文件和文件夹
 - [Rufus](https://rufus.akeo.ie/) -创建可启动USB驱动器的简便方法.
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -命令行实用程序，可以安全地删除文件或清理松弛空间.
+- [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)  -此脚本将帮助您将喜爱的程序或自制脚本/文件夹添加到启动中.  [！[开源软件] [OSS图标]]（https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/）
+- [ShareX](https://getsharex.com/) -使您可以通过一个键来拍摄任何选定区域的屏幕截图或截屏视频.  [！[开源软件] [OSS图标]]（https://github.com/ShareX/ShareX）！[免费软件] [免费软件图标]
+- [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) / [Snip & Sketch](https://support.microsoft.com/en-us/help/4488540/windows-10-how-to-take-and-annotate-screenshots) -Windows 10实用程序，可轻松捕获和编辑屏幕中的选定区域.
+- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -命令行实用程序，可以安全地删除文件或清理松弛空间.
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)  -此脚本将帮助您将喜爱的程序或自制脚本/文件夹添加到启动中.  [！[开源软件] [oss图标]]（https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/）
-- [ShareX](https://getsharex.com/) -使用一个键，您可以选择任何区域的屏幕截图或截屏视频.  [！[开源软件] [oss图标]]（https://github.com/ShareX/ShareX）！[免费软件] [免费软件图标]
-- [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Windows 10 utility to easily capture and edit selected area in screen.
+- [ShareX](https://getsharex.com/) -使您可以通过一个键来拍摄任何选定区域的屏幕截图或截屏视频.  [！[开源软件] [oss图标]]（https://github.com/ShareX/ShareX）！[免费软件] [免费软件图标]
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) -图形实用程序，以相对于磁盘使用情况的块形式显示文件夹和文件.
 - [Speccy](https://www.piriform.com/speccy) -有关计算机中每个硬件的详细统计信息.
+- [SpeedCrunch](http://speedcrunch.org/)  -您将需要的最好，唯一的计算器，完全消除了不必要的UI混乱.  [！[开源软件] [OSS图标]]（https://bitbucket.org/heldercorreia/speedcrunch/）！[免费软件] [免费软件图标]
+- [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) -Mark Russinovich提供的工具套件，可访问Windows内部进行故障排除：进程，物理端口，磁盘活动等.
+- [ueli](https://ueli.app/#/) -Windows的强大按键启动器. 
 - [SpeedCrunch](http://speedcrunch.org/)  -您将需要的最好，唯一的计算器，完全消除了不必要的UI混乱.  [！[开源软件] [oss图标]]（https://bitbucket.org/heldercorreia/speedcrunch/）！[免费软件] [免费软件图标]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) -Mark Russinovich提供的工具套件，可访问Windows内部进行故障排除：进程，物理端口，磁盘活动等.-[ueli](https://ueli.app/#/) -Windows的强大按键启动器.
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) -解锁文件Windows不允许您删除
-- [Waltr](http://softorino.com/waltr/) -将没有电影的任何电影或音乐文件传输到iPhone.
+- [Waltr](http://softorino.com/waltr/) -将没有iTunes的任何电影或音乐文件传输到iPhone.
 - [WinDirStat](https://windirstat.info/) -它也是磁盘使用情况统计信息查看器和清理程序.
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/)  -更改Windows 10登录屏幕背景.  [！[开源软件] [oss图标]]（https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer）
 - [`winreg-cli`](https://github.com/notlmn/winreg-cli)  -带有流畅API的命令行工具，用于修改Windows注册表.  ！[[开源软件] [OSS图标]]（https://github.com/notlmn/winreg-cli）！[免费软件] [免费软件图标]
 - [WizTree](https://wiztree.en.lo4d.com/)  -出色的小型实用程序，使用户可以快速找到硬盘上的大文件.  ！[免费软件] [免费软件图标]
-- [Yacy](https://github.com/yacy/yacy_search_server) -由公司组成的通用搜索引擎，包括搜索网页，通用爬网程序，索引和排名功能.[！[开源软件] [oss图标]]（https://github.com/yacy/yacy_search_server ）
+- [Yacy](https://github.com/yacy/yacy_search_server) -由人员组成的通用搜索引擎，包括搜索网页，通用爬网程序，索引和排名功能.[！[开源软件] [oss图标]]（https://github.com/yacy/yacy_search_server ）
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)  -分散的网站.  [！[开源软件] [oss图标]]（https://github.com/HelloZeroNet/ZeroNet）
-- [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx)  -它是用于技术演示的屏幕缩放和注释工具.  它在纸盘中的显示效果不显眼，并通过可自定义的热键激活，以放大屏幕区域，在缩放时四处移动并绘制缩放后的图像.
+- [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx)  -它是用于技术演示的屏幕缩放和注释工具.  它在进纸匣中运行顺畅，并通过可自定义的热键激活，以放大屏幕区域，在缩放时四处移动并绘制缩放后的图像.
 
 ### Proxy and VPN Tools
 
-- [Algo](https://github.com/trailofbits/algo) -云中的个人IPSEC VPN.
+- [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
 
 ### Video
 
@@ -357,8 +368,8 @@
 ## Security
 
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome)  -本地DNS代理，可缓存来自DNS服务器的响应，并通过自定义的HOSTS文件帮助您抵制不需要的广告.  ！[免费软件] [免费软件图标]
-- [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/)  -免费的广告软件，PUP / LPI，工具栏和劫机者清除工具.  ！[免费软件] [免费软件图标]
-- [Bitdefender](http://www.bitdefender.com/) -最佳的彻底防御恶意软件.
+- [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/)  -免费的广告软件，PUP / LPI，工具栏和劫持者清除工具.  ！[免费软件] [免费软件图标]
+- [Bitdefender](http://www.bitdefender.com/) -最佳的恶意软件全面防护.
 - [Cryptomator](https://cryptomator.org/)  -云文件的免费客户端加密.  [！[开源软件] [oss图标]]（https://github.com/cryptomator/cryptomator）！[免费软件] [免费软件图标]
 - [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10)  -使Windows 10更加私有和安全.  ！[免费软件] [免费软件图标]
 - [ENCRYPTO](http://macpaw.com/encrypto)  -以优雅的方式加密文件.  ！[免费软件] [免费软件图标]
@@ -412,7 +423,7 @@
 
 ## Backers
 
-Thank you to all our supporters! 🙏
+感谢所有支持者！ 
 
  &gt; \ *请考虑支持我的工作，因为要花费大量精力来生成此列表！  非常感谢.
 

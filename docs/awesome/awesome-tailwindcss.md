@@ -157,6 +157,7 @@
 -  [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) -使用Tailwind CSS的盖茨比初学者.
 -  [Gatsby Starter + TypeScript](https://github.com/impulse/gatsby-typescript-tailwind) -使用Tailwind CSS和TypeScript的Gatsby启动程序.
 -  [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的盖茨比初学者.
+-  [Gatsby Starter Opinionated](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) -使用Tailwind CSS和自以为是的东西的盖茨比初学者.
 -  [Create React App Boilerplate with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的CRA样板.
 -  [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) -使用Tailwind CSS的CRA样板.
 -  [Create React App script with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) -添加了Tailwind CSS和PurgeCSS的CRA脚本.

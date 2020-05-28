@@ -17,7 +17,6 @@
 ## Official Resources
 
 - [Official Site](https://github.com/features/actions)
-- [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
 - [Official Documentation](https://help.github.com/en/actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) -GitHub Actions虚拟环境.
@@ -76,7 +75,7 @@
 - [actions/toolkit](https://github.com/actions/toolkit) -用于开发GitHub动作的GitHub工具包.
 - [actions/hello-world-javascript-action](https://github.com/actions/hello-world-javascript-action) -演示如何构建JavaScript操作的模板.
 - [actions/javascript-action](https://github.com/actions/javascript-action) -创建一个JavaScript操作.
-- [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action.
+- [actions/typescript-action](https://github.com/actions/typescript-action) -创建TypeScript操作.
 - [actions/http-client](https://github.com/actions/http-client) -经过优化的轻量级HTTP客户端，可用于操作，具有泛型的TypeScript和异步等待.
 
 #### Docker Container Actions
@@ -114,6 +113,7 @@
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
 - [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
+- [Update Configured GitHub Actions to the Latest Versions](https://github.com/fabasoad/ghacu)
 
 ### Collection of Actions
 
@@ -140,6 +140,7 @@
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) -使用其他SSH密钥运行`ssh-agent`以访问私有存储库.
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
+- [GitHub Actions for Python project with pyenv](https://github.com/gabrielfalcao/pyenv-action)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
 - [Update Maxmind Databases](https://github.com/meetup/maxmind-updater)
 - [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) -通过提供SSH连接直接调试操作.
@@ -156,7 +157,7 @@
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) -等待所有状态和检查成功或其中任何一个失败，然后相应地设置其状态输出.
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) -从git获取上一个标签.
 - [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) -根据标题和说明创建一个新的开放里程碑.
-- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) -关闭给定的里程碑。
+- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) -关闭给定的里程碑.
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)
@@ -164,7 +165,7 @@
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Read Properties](https://github.com/christian-draeger/read-properties) -从`.properties`文件中读取值.
 - [Write Properties](https://github.com/christian-draeger/write-properties) -将值写入.properties文件.
-- [Autotag](https://github.com/butlerlogic/action-autotag) -当清单文件（即“ package.json”）的版本更改时，自动生成一个新标签.
+- [Autotag](https://github.com/butlerlogic/action-autotag) - Automatically generate a new tag when the manifest file (i.e. `package.json`) version changes.
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) -使用Jinja2模板引擎从模板生成文件.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) -检查之前的步骤是否有代码更改.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) -检测问题中的令人反感的评论并提出请求，并警告发件人.
@@ -173,12 +174,13 @@
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) -根据更改的路径有条件地执行操作.
 - [Linguist](https://github.com/fabasoad/linguist-action) -检查存储库并在输出中生成有关使用的语言的信息.
 - [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) -使用定义的文本进行Twilio语音通话.
+- [Setup Xcode](https://github.com/maxim-lobanov/setup-xcode) -在用于MacOS映像的Xcode的预安装版本之间切换.
 - [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) -在用于MacOS映像的Xamarin和Mono的预安装版本之间切换.
 - [Memer Action](https://github.com/Bhupesh-V/memer-action) -程序员Memes xD的GitHub操作.
 - [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) -设置特定版本的Cocoapods.
 - [Public IP](https://github.com/haythem/public-ip) -查询GitHub动作执行者的公共IP地址.
 - [GitHub Actions for Lazarus/FPC](https://github.com/gcarreno/setup-lazarus)
-
+- [Twilio Fax](https://github.com/fabasoad/twilio-fax-action/) -使用您的Twilio帐户通过传真发送文档.
 
 #### Environments
 
@@ -221,13 +223,13 @@
 
 #### Linting
 
-- [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
+- [PHP Coding Standards Fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
 - [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
 - [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
-- [Run `localheinz/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/localheinz/composer-normalize-action)
+- [Run `ergebnis/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/ergebnis/composer-normalize-action)
 - [Run Go lint checks on PR event](https://github.com/ArangoGutierrez/GoLinty-Action)
 - [Node.js - Automatically run the `format` and/or `lint` script used by the package](https://github.com/MarvinJWendt/run-node-formatter)
 - [Stylelinter - GitHub Action that runs stylelint](https://github.com/exelban/stylelint)
@@ -276,6 +278,7 @@
 - [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Size Limit Action](https://github.com/andresz1/size-limit-action) -评论PR中您的JS的费用比较，如果超出限制则拒绝它们.
+- [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) -根据bundlephobia.io网站评论新的和修改的包装尺寸，并拒绝超过阈值的PR.
 
 ### Pull Requests
 
@@ -438,8 +441,9 @@
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
 - [Run Pascal Script](https://github.com/fabasoad/pascal-action)
-- [Setup Brainfuck](https://github.com/fabasoad/brainfuck-install-action/) -设置Brainfuck解释器.
+- [Setup Brainfuck](https://github.com/fabasoad/setup-brainfuck-action) -设置Brainfuck解释器.
 - [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
+- [Setup COBOL](https://github.com/fabasoad/setup-cobol-action)
 
 ### Database
 

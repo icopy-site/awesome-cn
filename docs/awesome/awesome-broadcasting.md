@@ -8,11 +8,11 @@
 ## Codecs
 
 * [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
-* [Lame](http://lame.sourceforge.net/) -高品质的MPEG音频第三层（MP3）编码器.
+* [Lame](https://lame.sourceforge.io/) -高品质的MPEG音频第三层（MP3）编码器.
 * [opencore-amr](https://sourceforge.net/projects/opencore-amr/) -从Android开源项目（包括AAC）中提取的音频编解码器.
-* [Opus](http://www.opus-codec.org) -完全开放，免版税，功能广泛的音频编解码器.
+* [Opus](https://www.opus-codec.org/) -完全开放，免版税，功能广泛的音频编解码器.
 * [Turing Codec](http://turingcodec.org/) -H.265 / HEVC开源软件编码器，设计用于快速有效的视频压缩.
-* [TwoLame](http://www.twolame.org/) -MPEG音频第2层（MP2）编码器.
+* [TwoLame](https://www.twolame.org/) -MPEG音频第2层（MP2）编码器.
 
 ## Companion Screens
 
@@ -53,7 +53,7 @@
 * [Blender](https://developer.blender.org/diffusion/) -3D创建套件，支持3D建模，动画，运动跟踪，视频编辑等.
 * [CasparCG](http://www.casparcg.com/) -专业的图形和视频播放软件，自2006年以来已在24/7广播中得到证明.
 * [ffplayout](https://github.com/ffplayout/ffplayout-engine) -来自文件夹或播放列表的基于Python和FFmpeg的播放.
-* [Macadam](https://github.com/Streampunk/macadam) -支持HTML / CSS的Blackmagic Node.js绑定（通过 [Electron](https://electronjs.org/)）和SVG（通过 [Sevruga](https://github.com/Streampunk/sevruga)）图形.
+* [Macadam](https://github.com/Streampunk/macadam) -支持HTML / CSS的Blackmagic Node.js绑定（通过 [Electron](https://www.electronjs.org/)）和SVG（通过 [Sevruga](https://github.com/Streampunk/sevruga)）图形.
 * [Nebula](https://github.com/nebulabroadcast) -媒体资产管理和广播自动化系统.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) -基于CasparCG的MCR播放系统.
 * [ossia](https://ossia.io/) -一个免费的开源中介定序器.
@@ -74,7 +74,7 @@
 * [butt](https://danielnoethen.de/)  -使用此工具（对接）广播是一种易于使用的多操作系统流媒体工具.  它支持SHOUTcast和Icecast.
 * [Cool Mic](https://coolmic.net/) -Android音频直播Icecast源客户端应用程序.
 * [DarkIce](http://www.darkice.org/) -实时音频流媒体，可从音频接口进行记录和编码，然后发送到流媒体服务器.
-* [Icecast](http://icecast.org/) -支持Ogg（Vorbis和Theora），Opus，WebM和MP3的流媒体（音频/视频）服务器.
+* [Icecast](https://icecast.org/) -支持Ogg（Vorbis和Theora），Opus，WebM和MP3的流媒体（音频/视频）服务器.
 * [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) -在瑞典成立的一个项目，用于发布用于专业广播的开源软件.
 * [Kamailio](http://www.kamailio.org/) -开放式SIP服务器，通常用于使用SIP（EBU ACIP）通过IP进行音频贡献.
 * [OpenOB](https://jamesharrison.github.io/openob/) -开放外部广播项目，用于基于Opus的无线电广播链接和演播室/发射机链接.
@@ -172,7 +172,7 @@
 * [Ardour](https://ardour.org/) -数字音频工作站.
 * [Audacity](https://www.audacityteam.org/) -用于录制和编辑声音的跨平台软件.
 * [AzuraCast](https://github.com/AzuraCast/AzuraCast) -一个自托管的网络广播管理套件.
-* [LibreTime](http://libretime.org/) -广播和自动化平台（通话时间叉）.
+* [LibreTime](https://libretime.org/) -广播和自动化平台（通话时间叉）.
 * [Liquidsoap](https://github.com/savonet/liquidsoap) -用于多媒体流传输的瑞士军刀（[documentation](https://www.liquidsoap.info/doc.html)).
 * [OpenBroadcaster](https://openbroadcaster.com/) 开源LPFM IPTV广播自动化. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR](https://github.com/radiorabe/raar) -红宝石应用程序，用于管理和浏览音频档案.
@@ -181,7 +181,7 @@
 ## Software-defined radio
 
 * [GNU Radio](https://www.gnuradio.org/) -软件开发工具包，提供信号处理模块以实现软件无线电.
-* [Gqrx SDR](http://gqrx.dk/) -开源软件定义的无线电接收器（SDR）.
+* [Gqrx SDR](https://gqrx.dk/) -开源软件定义的无线电接收器（SDR）.
 * [ODR-mmbTools](https://www.opendigitalradio.org)  -CRC-mmbTools的前叉.  添加实时，DAB +，关联数据，分布式基础结构，SFN.
 * [rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki/rtl-sdr) -将基于Realtek RTL2832的DVB加密狗变成SDR接收器.
 * [welle.io](https://www.welle.io/) -开源的DAB和DAB +软件定义的无线电（SDR），支持airspy和rtlsdr.
@@ -206,7 +206,7 @@
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) -照明行业旅行适配器，用于互连DMX-512，IP和USB.
 * [PiClock](https://github.com/simonhyde/PiClock) -可定制的基于网络的时钟，广播，麦克风现场直播和其他录音室指示器显示.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) -DMX或模拟照明系统（云台，调光器等）的跨平台控制.
-* [Teleprompter](https://github.com/ImaginarySense/Teleprompter-Core) -Web浏览器和独立的Electron应用程序提示.
+* [Teleprompter](https://github.com/ImaginarySense/Imaginary-Teleprompter) -Web浏览器和独立的Electron应用程序提示.
 
 ## Resources
 各种资源，例如书籍，网站和文章，用于提高您的技能和知识.

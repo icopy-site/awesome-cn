@@ -6,20 +6,19 @@
 
 &gt;精选的资源清单：书籍，视频，有关使用Next.js的文章.
 
-[Next.js](https://github.com/zeit/next.js) 是服务器渲染的React应用程序的简约框架.
+[Next.js](https://github.com/zeit/next.js)：React框架.
 
 *清单的灵感来自 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  您可能还喜欢 [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
 
 ## Community
-* [Slack](https://zeit.chat)
 * [GitHub](https://github.com/zeit/next.js)
-* [Spectrum](https://spectrum.chat/next-js)
+* [GitHub discussions for Next.js](https://github.com/zeit/next.js/discussions)
 
 ## Essentials
-* [Blog](https://zeit.co/blog/next)
-* [Learn](https://learnnextjs.com/)
-* [Zeit TV](https://zeit.co/tv)
+* [Blog](https://nextjs.org/blog)
+* [Learn](https://nextjs.org/learn)
+* [Vercel TV](https://vercel.com/tv)
 
 ## Articles
  * [Build a Universal JavaScript App with Next.js](https://auth0.com/blog/building-universal-apps-with-nextjs)
@@ -31,8 +30,8 @@
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
  * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
- * [使用Next.js和Redux _ [俄语] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
- * [5 (of the Many Reasons) to love Zeit's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
+ * [使用Next.js和Redux _ [Russian] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
+ * [5 (of the Many Reasons) to love Vercel's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
  * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://zeit.co/blog/next5)
  * [Realtime data visualization using Next.js and Chart.js](https://pusher.com/tutorials/realtime-data-visualization-nextjs)
  * [Build a chat app with sentiment analysis using Next.js](https://pusher.com/tutorials/chat-sentiment-analysis-nextjs)
@@ -47,9 +46,9 @@
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 
 ## Boilerplates
-* [Next Right Now](https://github.com/UnlyEd/next-right-now) -带有Next.js 9和Zeit Now的灵活**生产级样板**，具有预配置的Sentry，cookie，Amplitude，Emotion，FontAwesome，GraphQL / GraphCMS（Apollo），Bootstrap（Reactstrap），i18next（Locize）， Jest，Cypress（E2E测试）和CI / CD（GH Actions），具有完整的TypeScript支持和**支持B2B多租户Web应用程序（monorepo）**
+* [Next Right Now](https://github.com/UnlyEd/next-right-now) -带有Next.js 9和Vercel的灵活的**生产级样板**，具有预配置的Sentry，Cookie，振幅，情感，FontAwesome，GraphQL / GraphCMS（Apollo），Bootstrap（Reactstrap），i18next（Locize），Jest ，赛普拉斯（E2E测试）和CI / CD（GH操作），具有完整的TypeScript支持和**支持B2B多租户Web应用程序（monorepo）**
 * [Next Graphql Apollo Typescript_Boostrap - Pobocha](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) -React + GraphQL + Next.js + Apollo + Scss +打字稿+ Prettier和EsLint样板
-* [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) -无服务器，Typescript，Jest，Github CI，SCSS，更漂亮的样板
+* [Next & Vercel Typescript template](https://github.com/alepacheco/landing-template) -无服务器，Typescript，Jest，Github CI，SCSS，更漂亮的样板
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) -使用Cloud Functions在Firebase中使用Bootstrap托管NextJS应用.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) -带有Next.js和Redux的简单PWA样板.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) -带有电子邮件和oAuth身份验证的Next.js入门项目.
@@ -74,7 +73,7 @@
 * [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) -：rocket：使用nextJS，最佳开发实践和开发人员社区中流行的库来减少项目配置的基础.
 * [Apollo Next.js GraphQL starter](https://github.com/tomanagle/Apollo-Next.js-GraphQL-starter) -使用Next.js的GraphQL入门包，并通过Apollo Client配置
 * [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) -打字稿+ redux +样式化的组件+ react-testing-library + eslint + fontawesome
-* [The Knests Stack](https://github.com/tudorconstantin/knests/) -具有以下特性的完整堆栈样板/黑客马拉松启动器：PostgreSQL，Knex.js，NestJS，Next.js（很明显），GraphQL，React（带有钩子和打字稿），Material-UI，用于Docker的Docker多级映像，Docker组成和Gitlab CI / CD管道已完全配置.
+* [The Knests Stack](https://github.com/tudorconstantin/knests/) -具有以下条件的完整堆栈样板/黑客马拉松启动器：PostgreSQL，Knex.js，NestJS，Next.js（显然），GraphQL，React（带有钩子和打字稿），Material-UI，用于Docker的Docker多级映像，Docker组合和一个Gitlab CI / CD管道已完全配置.
 
 ## Extensions
 * [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) -通用的语言检测器（浏览器+服务器）-旨在与通用框架（例如Next.js）一起使用 [DEMO](https://universal-language-detector.now.sh/)
@@ -136,7 +135,7 @@
 
 ## Videos
 
-* [使用NextJS _ [西班牙语] _]创建您的第一个ReactJS应用程序（https://www.youtube.com/watch?v=-7Ft5LxPeWs）
+* [使用NextJS _ [Spanish] _]创建第一个ReactJS应用程序（https://www.youtube.com/watch?v=-7Ft5LxPeWs）
 * [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
 * [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
 * [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
