@@ -26,7 +26,7 @@
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts) -使用D3和打字稿实现的可重用图表.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) -IBM Carbon Design System的Angular实施.
 * [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) -精简实施碳设计系统.
-* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) - Vue implementation of the Carbon Design System.
+* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) -碳设计系统的Vue实施.
 * [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本全面的工具包.
 * [carbon-icons](https://github.com/carbon-design-system/carbon-icons) -碳设计系统的SVG图标库.
 * [carbon-icons-angular](https://github.com/carbon-design-system/carbon-icons-angular) -碳图标，在Angular中！
@@ -72,7 +72,7 @@
     * [ruby-buildpack](https://github.com/cloudfoundry/ruby-buildpack) -适用于Ruby，Sinatra和Rails的Cloud Foundry buildpack.
     * [staticfile-buildpack](https://github.com/cloudfoundry/staticfile-buildpack) -将静态HTML / JS / CSS应用程序部署到Cloud Foundry.
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) -Kitura REST Web服务服务器的生成器.
-* [go-cloud](https://github.com/victorshinya/go-cloud) -Golang样板代码，用于基准测试托管Go应用程序的云平台.
+* [go-cloud](https://github.com/victorshinya/go-cloud) -Golang样板代码，用于对托管Go应用程序的云平台进行基准测试.
 * [go-website](https://github.com/victorshinya/go-website) -使用Golang服务器部署您的网站.
 * [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) -用于访问IBM Cloud API的Go库.
 * [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) -基于消息的保险经验.
@@ -98,7 +98,7 @@
 *使用基于IBM Cloud的Apache OpenWhisk IBM Cloud Functions部署和管理您的操作/功能.
 
 * [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) -使用IBM Watson和IBM Cloud Functions发现视频中的暗数据.
-* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) -使用IBM Cloud Functions构建的用于图像标记和面部检测的示例iOS应用程序.
+* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
 * [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) -使用无服务器服务（无服务器架构/功能即服务）构建自己的聊天机器人.
 
 ## Data & AI
@@ -139,7 +139,7 @@
 * [max-weather-forecaster](https://github.com/IBM/MAX-Weather-Forecaster) -根据特定位置的历史数据，预测每小时的天气特征.
 * [max-word-embedding-generator](https://github.com/IBM/MAX-Word-Embedding-Generator) -从文本文件生成嵌入向量.
 * [natural-language-classifier-nodejs](https://github.com/watson-developer-cloud/natural-language-classifier-nodejs) -了解分类服务如何使用自然语言来确定问题的意图.
-* [natural-language-understanding-nodejs](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) -自然语言理解服务的演示代码.
+* [natural-language-understanding-nodejs](https://github.com/watson-developer-cloud/natural-language-understanding-nodejs) - 🆕 Demo code for the Natural Language Understanding Service.
 * [node-red-labs](https://github.com/watson-developer-cloud/node-red-labs) -Node-RED实验室使用Watson Developer Cloud服务.
 * [node-red-node-watson](https://github.com/watson-developer-cloud/node-red-node-watson) -IBM Watson服务的节点集合.
 * [personality-insights-nodejs](https://github.com/watson-developer-cloud/personality-insights-nodejs) -IBM Watson Personality Insights Service的示例Node.js应用程序.
@@ -177,12 +177,13 @@
 * [IBM Cloud Architecture Center](https://www.ibm.com/cloud/architecture/architectures)  -IBM的体系结构提供了在云上构建应用程序的实践.  参考架构定义了基本模式，而实现则提供了特定的技术，实践和工具选择来构建和部署该模式.
 * [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) -IBM Cloud的操作方法，新闻和公告.
 * [IBM Cloud Favorites](https://ibm.biz/ibmcloudhelp) -有关IBM Cloud Platform的链接和资源的列表.
-* [IBM Cloud Stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) -用于使用流行的图表工具创建IBM Cloud图表的IBM Cloud模具.
+* [IBM Cloud Stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils) -用于通过流行的图表工具创建IBM Cloud图表的IBM Cloud模具.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) -了解最新的IBM Cloud产品和服务.
 * [IBM Demos](https://www.ibm.com/demos/) -IBM Demos是探索，学习和尝试各种IBM产品和解决方案的首选目的地.
-* [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
+* [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) -使用巴西葡萄牙语的IBM Cloud平台及其服务的操作方法和学习.
 * [IBM Garage Methodology](https://www.ibm.com/garage/method)  -IBM Garage的基础是一种独特的方法，该方法可以策划行业最佳实践，并提供只有IBM才能带来的丰富经验.  IBM Garage与IBM Garage方法论的结合可以推动前所未有的变革.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) -IBM Watson在Medium上的操作方法，新闻和公告.
+* [My Catalog](http://mycatalog.mybluemix.net/) -IBM Cloud目录的另一种非官方视图，对希望获得基于过滤器的强大视图的架构师特别有用.
 
 ## YouTube Channels
 
@@ -253,7 +254,7 @@
 * [Gurgaon, India - IBM cloud developer's ecosystem Delhi NCR](https://www.meetup.com/IBM-cloud-developers-ecosystem-Delhi-NCR/)  -社区学习共同感兴趣领域的尖端技术.  该小组是为喜欢探索云平台上运行的IaaS / PaaS，容器，Kubernetes，DevOps，人工智能和其他微服务等技术领域的技术爱好者创建的.
 * [Hong Kong, Hong Kong - AI/Blockchain/Cloud/BigData Meetup by IBM HK](https://www.meetup.com/Hong-Kong-Artificial-Intelligence-Meetup-Group/) -该小组适合任何想学习ABCD，AI，区块链，云和大数据最新趋势的人.
 * [Hong Kong, Hong Kong - IBM Cloud - Hong Kong](https://www.meetup.com/IBM-Cloud-Hong-Kong/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
-* [Hyderabad, India - Hyderabad CodeWeekend](https://www.meetup.com/codeweekend/)  -您好，朋友们，这个群组是由开发人员针对的.  对于那些热衷于学习新技术（例如AI，DL，ML，Blockchain，IoT，微服务，Docker，Function等）的人来说，这是一个理想的地方.  我们每个月就上述任何一种技术进行聚会.
+* [Hyderabad, India - Hyderabad CodeWeekend](https://www.meetup.com/codeweekend/)  -您好，朋友们，这个群组是由开发人员为开发人员准备的.  对于那些热衷于学习新技术（例如AI，DL，ML，Blockchain，IoT，微服务，Docker，Function等）的人来说，这是一个理想的地方.  我们每个月就上述任何一种技术进行聚会.
 * [Islamabad, Pakistan - IBM Developer Islamabad](https://www.meetup.com/IBM-Developer-Islamabad-Meetup/)  -这是面向开发人员，架构师和云爱好者的聚会小组.  我们了解有关IBM Cloud，Watson，IoT，数据科学和区块链的所有信息.  我们的聚会是免费的.
 * [Istanbul, Turkey - IBM Developer Turkey](https://www.meetup.com/IBMDeveloperTR/) -欢迎来到IBM Developer Turkey事件公告页面！
 * [Johannesburg, South Africa - IBM Cloud - South Africa](https://www.meetup.com/ZA-IBMCloud/) -针对开发人员，架构师，PaaS和Cloud Foundry爱好者，我们通过动手演示和讨论了解了IBM Cloud.
@@ -276,17 +277,17 @@
 * [Nice, France - IBM Cloud Côte d'Azur Meetup](https://www.meetup.com/IBM-Cloud-Cote-d-Azur-Meetup/) -该小组面向所有对在IBM®Cloud上学习和开发应用程序感到兴奋和热心的初学者，开发人员，主题专家，IT顾问和研究人员.
 * [Oslo, Norway - IBM TenkTorsdag](https://www.meetup.com/IBM-TenkTorsdag/)  -数字化的发展比以往更快，而忽视市场趋势可能是致命的.  考虑到这一点，在这个小组中，我们将讨论趋势及其对您的特定业务的影响.
 * [Paris, France - IBM Cloud Paris Meetup](https://www.meetup.com/IBM-Cloud-Paris-Meetup/) -该小组面向所有对在IBM®Cloud上学习和开发应用程序感到兴奋和热心的初学者，开发人员，主题专家，IT顾问和研究人员.
-* [Perth, Australia - IBM Cloud - Perth](https://www.meetup.com/IBM-Cloud-Perth/)  -Perth️☁️meetup是开发人员，工程师，建筑师，设计师以及所有介于两者之间的人进行技术讨论和讨论的地方.  涵盖诸如云，应用程序现代化，物联网，区块链，人工智能，机器学习，数据分析，开源等主题.
+* [Perth, Australia - IBM Cloud - Perth](https://www.meetup.com/IBM-Cloud-Perth/)  -珀斯☁etmeetup是开发人员，工程师，建筑师，设计师以及所有介于两者之间的人进行技术讨论和讨论的地方.  涵盖诸如云，应用程序现代化，物联网，区块链，人工智能，机器学习，数据分析，开源等主题.
 * [Pune, India - Cloud Pune Meetup](https://www.meetup.com/Cloud-Pune-Meetup/)  -这是一个有兴趣了解云解决方案-平台即服务（PaaS）的人员的小组.  我之所以成立这个小组是因为遇到了初创公司，学术界，开发人员和Cloud Enthusiasts.  很期待见到你.
 * [Riyadh, Saudi Arabia - IBM Developer KSA](https://www.meetup.com/IBM-Developer-KSA/)  -好奇吗？  喜欢学习吗？  一直在寻找做得更好的方法？  那么这个聚会小组只适合您.
 * [San Francisco, CA - IBM Cloud - San Francisco](https://www.meetup.com/IBM-Cloud-San-Francisco/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
 * [San Francisco, CA - IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/) -召集所有有兴趣聚在一起的开发人员和企业家来交流思想并学习新技术，例如认知计算，物联网，区块链，人工智能，机器学习，数据分析和云.
 * [Santiago, Chile - IBM Cloud](https://www.meetup.com/meetup-group-fFKMjMnd/) -该小组的目标是以非常实用的方式向学生，开发人员，IT专业人员和所有云爱好者或想要了解这些有趣主题（云，DevOps，虚拟化，沃森，物联网，数据科学和区块链）.
-* [São Paulo, Brazil - Bluetalks](https://www.meetup.com/bluetalks/)  -Bluetalks是聚会，对技术，创新，企业家精神和多样性进行了广泛的讨论.  开放您的心态，以应对当前问题的破坏和新观点，并敞开心heart与我们一起潜水.
+* [São Paulo, Brazil - Bluetalks](https://www.meetup.com/bluetalks/)  -Bluetalks是聚会，对技术，创新，企业家精神和多样性进行了广泛的讨论.  开放您的心态以应对当前问题的破坏和新观点，并以开放的心态与我们一起潜水.
 * [São Paulo, Brazil - Comunidade IBM Cloud Brasil](https://www.meetup.com/Comunidade-IBM-Cloud-Brasil/) - Software developers, IT Architects, Cloud administrators, Full-stack developer, IT Manager, IT Leaders, Cloud Leadership, Business Development.
 * [São Paulo, Brazil - Iniciativa Z](https://www.meetup.com/iniciativaz/)  -我们的目标是在巴西创建最大的大型机社区.  通过这个小组，我们希望传播与大型机有关的所有信息，生成内容，宣传机会，举办活动并鼓励经验丰富的专业人员与我们正在开发的新一代大型机之间建立联系.
 * [Seoul, Korea (South) - IBM Cloud - Korea](https://www.meetup.com/IBM-Cloud-Korea/) -该会议适用于所有想要学习如何使用IBM Cloud for business的人.
-* [Seoul, Korea (South) - IBM Developer Meetup](https://www.meetup.com/IBM-developerWorks-Meetup/)  -IBM Developer Meetup是一次会议，开发人员使用每月可一次在IBM Cloud上运行的主题技术收集和执行动手/实践培训.  主题和日程表将在此聚会页面上更新.
+* [Seoul, Korea (South) - IBM Developer Meetup](https://www.meetup.com/IBM-developerWorks-Meetup/)  -IBM开发人员聚会是一次会议，开发人员使用每月可一次在IBM Cloud上运行的主题技术收集和执行动手/实践培训.  主题和日程表将在此聚会页面上更新.
 * [Shenzhen, China - IBM Developer (ShenZhen)](https://www.meetup.com/IBM-Developer-shenzhen/) -这是为了满足正在编码的深圳开发人员，他们对AI，区块链，云，数据科学等技术感兴趣...我们定期举行聚会以共享代码，帮助开发人员加速构建应用程序.
 * [Singapore, Singapore - IBM Cloud Singapore](https://www.meetup.com/IBM-Cloud-Singapore/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
 * [Stockholm, Sweden - IBM Cloud & Cognitive - Stockholm](https://www.meetup.com/IBM-Cloud-Stockholm/) - This is a group for anyone interested in learning about #IBMCloud, the cloud built for business. You can be an existing #IBMCloud user, or someone who has never touched the #IBMCloud before. Meetup topics will vary and could be of interest to developers, administrators, or business leaders.
@@ -303,7 +304,7 @@
 
 ## Contributing
 
- 如果您想做出贡献，请随时提交您的请求请求或创建新的问题.  但首先，请花一点时间阅读 [contribution guidelines](https://github.com/victorshinya/awesome-ibmcloud/blob/master/CONTRIBUTING.md). Thanks to all [contributors](https://github.com/victorshinya/awesome-ibmcloud/graphs/contributors)! **#YouROCK**!
+ 如果您想做出贡献，请随时提交您的请求请求或创建新的问题.  但首先，请花一点时间阅读 [contribution guidelines](https://github.com/victorshinya/awesome-ibmcloud/blob/master/CONTRIBUTING.md) .  谢谢大家 [contributors](https://github.com/victorshinya/awesome-ibmcloud/graphs/contributors)! **#YouROCK**!
 
  ***如果您在此处看到不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢！***
 

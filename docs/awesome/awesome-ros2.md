@@ -56,7 +56,7 @@
 
 - [Apex.Autonomy](https://www.apex.ai/products) -Apex.Autonomy提供自治算法作为单独的构建基块，并且与Autoware.Auto兼容.
 - [Autoware.Auto](https://www.autoware.auto/) Autoware.Auto为自动驾驶技术提供了基于ROS 2的开源软件堆栈.
-- [ros2_control](https://github.com/ros-controls/ros2_control) -`ros2_control`是关于如何在机器人控制（ros2_controllers）的上下文中阐述和使用ROS 2中新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
+- [ros2_control](https://github.com/ros-controls/ros2_control) -“ ros2_control”是关于如何在机器人控制（“ ros2_controllers”）的上下文中阐述和使用ROS 2中新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) -ros_controllers的说明. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) -一组ROS软件包，用于跟踪坐标变换. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [cartographer](https://github.com/ros2/cartographer) -跨多个平台和传感器配置的2D和3D实时同时定位和映射（SLAM）. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
@@ -75,7 +75,7 @@
 - [ros2_grasp_library](https://github.com/intel/ros2_grasp_library) -可能是一个抓取库:). ![ros2_grasp_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
 - [apriltag_ros](https://github.com/christianrauch/apriltag_ros) -用于AprilTag检测的ROS2节点. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 - [ros2-web-bridge](https://github.com/RobotWebTools/ros2-web-bridge) -将浏览器桥接到ROS 2.0. ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg)
-- [ros2_message_filters](https://github.com/intel/ros2_message_filters) -ros2_message_filters根据过滤器需要满足的条件来混合各种消息，并从ROS message_filters的ROS2移植获得. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
+- [ros2_message_filters](https://github.com/intel/ros2_message_filters) -ros2_message_filters根据过滤器需要满足的条件混合各种消息，并从ROS message_filters的ROS2移植获得. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) -Tensorflow中用于计算机视觉任务的ROS2节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) -PyTorch中用于计算机视觉任务的ROS2节点 ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) -ROS2的PID控制器. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
@@ -96,7 +96,7 @@
 
 ### Driver layer
 
-- [Autoware.IO](https://www.autoware.io/) -Autoware.IO提供了一个异构的硬件参考平台，并使成员公司的解决方案能够集成到支持Autoware.Auto和Autoware.AI软件堆栈的平台上.
+- [Autoware.IO](https://www.autoware.io/) -Autoware.IO提供了一个异构的硬件参考平台，并使会员公司的解决方案能够集成到支持Autoware.Auto和Autoware.AI软件堆栈的平台上.
 - [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) -带有xmlrpc的ros2接口软件包，用于使用Sesto API与Sesto服务器进行通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) -ROS2的非官方Anki Cozmo节点. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) -ROS2 Sphero驱动程序. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
@@ -134,7 +134,7 @@
 - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) -Node.js的ROS客户端库. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [rclobjc](https://github.com/esteve/ros2_objc) -用于目标C的ROS客户端库（适用于iOS）. ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
 - [rclc](https://github.com/ros2/rclc) -C的ROS客户端库. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
-- [ros2_rust](https://github.com/esteve/ros2_rust) -ROS2的防锈绑定. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
+- [ros2_rust](https://github.com/ros2-rust/ros2_rust) -ROS2的防锈绑定. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 - [ros2_dotnet](https://github.com/esteve/ros2_dotnet) -ROS2的.NET绑定. ![ros2_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
 
 ### Client libraries common
@@ -190,7 +190,7 @@
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) -官方的NuttX前叉，可用于micro-ROS.
-- [RIOT](https://github.com/RIOT-OS/RIOT) -RIOT是一种实时多线程操作系统（...）实时功能，较小的内存占用量（...）API提供了部分POSIX兼容性.
+- [RIOT](https://github.com/RIOT-OS/RIOT) -RIOT是一种实时多线程操作系统（...）实时功能，较小的内存占用（...）API提供了部分POSIX兼容性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) -适用于多核处理器的POSIX兼容实时操作系统有望在未来支持AUTOSAR.
 - [Zephyr](https://www.zephyrproject.org/) -Linux Foundation Projects RTOS旨在提高安全性.
 - [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) -用于关键基础架构的安全，安全，可靠和可认证的实时操作系统

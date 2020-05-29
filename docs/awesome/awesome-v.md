@@ -49,6 +49,7 @@
 
 - [HN-top](https://github.com/BafS/hn-top) -一个简单的命令，用于列出来自hacker-news的最新新闻.
 - [vast](https://github.com/lydiandy/vast) -一个简单的vlang工具，可将v源文件生成为AST json文件.
+
 ### Project Management
 
 - [vset](https://github.com/mulh8377/vset) -V项目的项目设置和配置工具.
@@ -137,10 +138,16 @@
 - [vsl](https://github.com/vlang/vsl) -具有多种功能的纯V型科学图书馆.
 - [vnum](https://github.com/vlang-num/vnum) -由LAPACK和BLAS支持的支持n维数据的数值计算库.
 
+### Utility
+
+- [range](https://github.com/Delta456/range) -V中Python的range（）的功能.
+
+
 ## Other
 
 - [lsp.v](https://github.com/nedpals/lsp.v) -在V上实现语言服务器协议规范.
 - [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) -GitHub动作自动化，可在您的工作流程中使用V.
+
 ### Videos
 
 - [V Programming Language](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)

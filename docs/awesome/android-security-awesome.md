@@ -65,7 +65,7 @@ android安全相关资源的集合.
 
 ### App Vulnerability Scanners
 
-1. [QARK](https://github.com/linkedin/qark/) -LinkedIn的QARK供应用程序开发人员扫描应用程序是否存在安全问题
+1. [QARK](https://github.com/linkedin/qark/) -LinkedIn的QARK是供应用程序开发人员扫描应用程序中的安全问题
 2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail](https://github.com/google/nogotofail)
 4. ~~[Devknox](https://devknox.io/)  -IDE插件，用于构建安全的Android应用.  不再维护了~~
@@ -76,8 +76,7 @@ android安全相关资源的集合.
 2. [Androl4b](https://github.com/sh4hin/Androl4b)-用于评估Android应用程序，逆向工程和恶意软件分析的虚拟机
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) -移动安全框架是一种智能的，多合一的开源移动应用程序（Android / iOS）自动笔测试框架，能够执行静态，动态分析和Web API测试.
 5. [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
-6. [Cobradroid](https://thecobraden.com/projects/cobradroid/) –用于恶意软件分析的自定义图像
-7. [Droidbox](https://github.com/pjlantz/droidbox)
+6. [Droidbox](https://github.com/pjlantz/droidbox)
 10. [Drozer](https://github.com/mwrlabs/drozer)
 11. [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) -等效于执行基于存根的代码注入，但不对二进制文件进行任何修改
 12. [Inspeckage](https://github.com/ac-pm/Inspeckage)  -Android Package Inspector-具有api挂钩的动态分析，启动未导出的活动等.  （放置模块）
@@ -104,6 +103,7 @@ android安全相关资源的集合.
 31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（Android逆向工程）不再处于主动开发状态~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 32. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
+33. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) –用于恶意软件分析的自定义图像~~
 
 ### Reverse Engineering
 
@@ -199,7 +199,7 @@ android安全相关资源的集合.
 2. [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 3. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 4. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
-5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) -一个阅览室，其中包含有关移动渗透测试，移动恶意软件，移动取证和所有与移动安全相关的主题的分类准确的技术阅读材料~~
+5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) -包含有关移动渗透测试，移动恶意软件，移动取证和各种与移动安全相关的主题的分类良好的技术阅读材料的阅览室~~
 6. ~~[Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)~~
 
 ## <a name="exploits"/></a>Exploits/Vulnerabilities/Bugs

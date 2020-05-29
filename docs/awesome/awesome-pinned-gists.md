@@ -22,16 +22,21 @@
 - [rescue-box](https://github.com/joshghent/rescue-box) -更新固定要点，以包含RescueTime的每日生产率统计信息.
 - [neko-box](https://github.com/RangerDigital/neko-box) -更新固定要点，以包含来自AniList的最新活动.
 - [douban-box](https://github.com/CodeDaraW/douban-box) -更新固定要点，以包含有关豆瓣网有关书籍/电影/音乐的最新用户状态.
-- [todoist-box](https://github.com/yohix/todoist-box) -更新固定的要点，以包含您的Todoist统计信息.
+- [todoist-box](https://github.com/yg/todoist-box) -更新固定的要点，以包含您的Todoist统计信息.
 - [movie-box](https://github.com/LuisAlejandro/movie-box) -更新固定的要点，以包含Trakt.tv的媒体中心统计信息.
 - [productive-box](https://github.com/maxam2017/productive-box) -更新固定的要点，以包含您白天最忙碌的时间.
+- [covid-box](https://github.com/puf17640/covid-box) -更新要点，以包含全球或特定国家的冠状病毒统计信息.
+- [shortcut-box](https://github.com/artemnovichkov/shortcut-box) -更新固定要点以包含随机的IDE快捷方式
+- [youtube-box](https://github.com/SinaKhalili/youtube-box) -更新固定要领以显示您的最新YouTube视频
+- [book-box](https://github.com/amorriscode/book-box) -更新固定要点，以包含您的最新读物
+
 
 ## GitHub
 
 以固定的方式显示更详细的GitHub用户数据.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) -更新固定要点，以包含GitHub用户的最新活动.
-- [gh-box](https://github.com/yohix/gh-box) -更新固定要点以包含您的GitHub个人资料数据.
+- [gh-box](https://github.com/yg/gh-box) -更新固定要点以包含您的GitHub个人资料数据.
 
 ## Resources
 

@@ -17,15 +17,18 @@
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) -为您的React / Vue / TypeScript项目进行渐进式ESLint配置.
 - [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) -一个配置来统治所有人！
 - [Canonical](https://github.com/gajus/eslint-config-canonical) -共享配置 [Canonical style guide](https://github.com/gajus/canonical).
+- [Cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) -出色项目的ESLint配置.
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) -包含用于ESLint团队维护的项目的ESLint配置.
 - [ES](https://github.com/thenativeweb/eslint-config-es) -可共享的配置，用于非常严格的代码.
 - [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) -用于Facebook风格指南的可共享配置.
 - [Google](https://github.com/google/eslint-config-google) -的共享配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
+- [Hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) -最严格（但实用）的ESLint配置.
 - [Problems](https://github.com/RyanZim/eslint-config-problems) -可共享的配置，仅捕获实际问题，并且不强制使用样式偏好.
 - [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) -可共享的配置 [React](https://reactjs.org) 项目.
 - [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -共享配置 [Shopify's style guide](https://github.com/Shopify/javascript).
 - [Standard](https://github.com/feross/eslint-config-standard) -JavaScript的共享配置 [Standard Style](https://github.com/feross/standard).
 - [Supermind](https://github.com/supermind/eslint-config-supermind) -Supermind风格的共享配置.
+- [Wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) -共享配置 [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript)，由 [MediaWiki](https://www.mediawiki.org/).
 - [XO](https://github.com/sindresorhus/eslint-config-xo) -共享配置 [XO](https://github.com/sindresorhus/xo).
 
 ## Globals
@@ -49,7 +52,8 @@
 - [Ember](https://github.com/netguru/eslint-plugin-ember) -灰烬的绒毛规则.
 - [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) -根据模式检查您的GraphQL查询字符串.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) -棉纱规则.
-- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments (including the JavaScript within `@example`).
+- [jQuery](https://github.com/wikimedia/eslint-plugin-no-jquery) -jQuery的Linting规则，包括不赞成使用的功能的版本化配置.
+- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -JSDoc注释的规则（包括@example中的JavaScript）.
 - [Lodash](https://github.com/wix/eslint-plugin-lodash) -Lodash特定的起绒规则.
 - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) -Lodash / fp特定的起毛规则.
 - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -Lodash模板/下划线模板的插件.
@@ -131,7 +135,7 @@
 
 ### Testing Tools
 
-- [AVA](https://github.com/sindresorhus/eslint-plugin-ava) -整理AVA的规则.
+- [AVA](https://github.com/avajs/eslint-plugin-ava) -整理AVA的规则.
 - Chai
   - [expect practices](https://github.com/turbo87/eslint-plugin-chai-expect)
   - [with unused expressions](https://github.com/ihordiachenko/eslint-plugin-chai-friendly)
@@ -162,7 +166,7 @@
 - [Standard](https://github.com/feross/standard) -JavaScript标准样式.
 - [Superlint](https://github.com/supermind/superlint) -JavaScript Supermind样式.
 - [XO](https://github.com/sindresorhus/xo) -JavaScript幸福风格的短毛猫❤️.
-- [Zoe](https://github.com/jorgegonzalez/zoe) -通用JavaScript小工具和格式化程序.
+- [Zoe](https://github.com/jorgegonzalez/zoe) - Universal JavaScript linter and formatter.
 - [Healthier](https://github.com/KidkArolis/healthier) -标准的代码风格不可知版本，是Prettier的完美伴侣.
 
 ## Tools

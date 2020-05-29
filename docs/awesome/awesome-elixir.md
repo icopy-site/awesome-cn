@@ -278,7 +278,7 @@
 * [alice](https://github.com/alice-bot/alice) -Elixir的Slack机器人框架.
 * [chatty](https://github.com/alco/chatty) -一个基本的IRC客户端，对于编写机器人最有用.
 * [cog](https://github.com/operable/cog) -Cog是一个开放的chatops平台，可在您的聊天窗口中为您提供安全的协作命令行.
-* [ExGram](https://github.com/rockneurotiko/ex_gram)  -用于构建Telegram Bots的库，您可以使用低级方法和模型，也可以使用包含在内的真正自以为是的框架.  （[Docs](https://hexdocs.pm/ex_gram/readme.html)).
+* [ExGram](https://github.com/rockneurotiko/ex_gram)  -一个用于构建Telegram Bots的库，您可以使用低级方法和模型，也可以使用包含在内的真正自以为是的框架.  （[Docs](https://hexdocs.pm/ex_gram/readme.html)).
 * [ExIrc](https://github.com/bitwalker/exirc) -用于Elixir项目的IRC客户端适配器.
 * [ExMustang](https://github.com/techgaun/ex_mustang) -简单，无知的slackbot和响应者集合.
 * [Guri](https://github.com/elvio/guri) -使用聊天消息自动执行任务.
@@ -297,7 +297,7 @@
 * [discovery](https://github.com/undeadlabs/discovery) -使用Consul自动发现服务的OTP应用程序.
 * [erlcloud](https://github.com/erlcloud/erlcloud)  -用于Erlang的云计算库（Amazon EC2，S3，SQS，SimpleDB，Mechanical Turk，ELB）.  （[Docs](https://hexdocs.pm/erlcloud/)).
 * [ex_aws](https://github.com/CargoSense/ex_aws) -AWS客户端，支持Dynamo，Kinesis，Lambda，SQS和S3.
-* [ex_riak_cs](https://github.com/ayrat555/ex_riak_cs) -清洁CS API客户端.
+* [ex_riak_cs](https://github.com/ayrat555/ex_riak_cs) -根CS API客户端.
 * [fleet_api](https://github.com/jordan0day/fleet-api)  -Fleet（CoreOS）API的简单包装.  可以与etcd令牌或直接节点URL一起使用.
 * [Gandi](https://github.com/Ahamtech/elixir-Gandi) -用于Leaseweb基础架构的Gandi包装器.
 * [IElixir](https://github.com/pprzetacznik/IElixir) -Jupyter的Elixir编程语言内核.
@@ -613,7 +613,7 @@
 * [phoenix_haml](https://github.com/chrismccord/phoenix_haml) -Haml的Phoenix模板引擎.
 * [phoenix_html](https://github.com/phoenixframework/phoenix_html) -Phoenix.HTML函数，用于处理HTML字符串和模板.
 * [phoenix_html_sanitizer](https://github.com/elixirstatus/phoenix_html_sanitizer) -用于Phoenix的HTML Sanitizer集成.
-* [phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) -凤凰html的一些帮助程序（截断，time_ago_in_words，number_with_delimiter）.
+* [phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) -phoenix html的一些帮助程序（截断，time_ago_in_words，number_with_delimiter）.
 * [phoenix_linguist](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
 * [phoenix_live_reload](https://github.com/phoenixframework/phoenix_live_reload) -为Phoenix提供实时重新加载功能.
 * [phoenix_meta_tags](https://github.com/hlongvu/phoenix_meta_tags) -生成网站的元标记.
@@ -643,7 +643,7 @@
 * [plug_ribbon](https://github.com/stnly/plug_ribbon) -在开发环境中向您的Web应用程序注入功能区.
 * [plug_secex](https://github.com/techgaun/plug_secex) -插件添加了各种HTTP标头，以使Phoenix / Elixir应用程序更安全.
 * [plug_session_memcached](https://github.com/gutschilla/plug-session-memcached) -用于Elixir插件的非常简单的memcached会话存储.
-* [plug_sigaws](https://github.com/handnot2/plug_sigaws) -针对Phoenix /插入路由的AWS Signature V4身份验证保护（[Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
+* [plug_sigaws](https://github.com/handnot2/plug_sigaws) -针对Phoenix / Plug路由的AWS Signature V4身份验证保护（[Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html)).
 * [plug_statsd](https://github.com/jeffweiss/plug_statsd) -用于自动将计时和计数指标发送到statsd的插件.
 * [plugs](https://github.com/sugar-framework/plugs) -用于Web应用程序的插件中间件集合.
 * [plugsnag](https://github.com/jarednorman/plugsnag) -Elixir插件的Bugsnag通知程序.
@@ -659,6 +659,7 @@
 * [scrivener_headers](https://github.com/doomspork/scrivener_headers) - Helpers for paginating API responses with Scrivener and HTTP headers.
 * [scrivener_html](https://github.com/mgwidmann/scrivener_html) -与Scrivener的页面结构配合使用的帮助程序，可以轻松为各种CSS框架构建HTML输出.
 * [sentinel](https://github.com/britton-jb/sentinel) -Phoenix的身份验证框架，通过路由和其他基本功能扩展了监护人.
+* [surface](https://github.com/msaraiva/surface) -Phoenix的服务器端渲染组件库.
 * [torch](https://github.com/infinitered/torch)  -火炬是Phoenix应用程序的快速管理员生成器.  它使用生成器而不是DSL来确保代码可维护.
 * [trailing_format_plug](https://github.com/mschae/trailing_format_plug) -Elixir插件，支持使用类似rails的尾随格式的旧版API.
 * [turn_the_page](https://hex.pm/packages/turn_the_page) -适用于Elixir应用程序的快速，简单，轻巧的分页系统.
@@ -806,7 +807,7 @@
 * [prometheus-phoenix](https://github.com/deadtrickster/prometheus-phoenix) -凤凰乐器prometheus.ex.
 * [prometheus-plugs](https://github.com/deadtrickster/prometheus-plugs) -用于prometheus.ex的插件工具/出口商.
 * [prometheus.ex](https://github.com/deadtrickster/prometheus.ex) -灵丹妙药 [Prometheus.io](https://prometheus.io) 监视系统和时间序列数据库客户端.
-* [prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector) -Prometheus收集器，可导出过程度量标准的当前状态，包括cpu，内存，文件描述符使用情况和本机线程计数以及过程启动和启动时间.
+* [prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector) -Prometheus收集器，可导出过程度量标准的当前状态，包括CPU，内存，文件描述符使用情况和本机线程计数以及过程启动和启动时间.
 * [spandex](https://github.com/spandex-project/spandex) -最初为Datadog APM开发的平台不可知跟踪库.
 * [telemetry](https://github.com/beam-telemetry/telemetry) -用于指标和工具的动态调度库.
 * [wobserver](https://github.com/shinyscorpion/wobserver) -基于Web的指标，监视和观察者.
@@ -906,7 +907,7 @@
 * [discount](https://github.com/asaaki/discount.ex) -折扣Elixir NIF，Markdown解析器.
 * [earmark](https://github.com/pragdave/earmark) -Elixir的Markdown解析器.
 * [Markdown](https://github.com/devinus/markdown) -完全实现为与Hoedown库的NIF绑定.
-* [Pandex](https://github.com/filterkaapi/pandex)  -Pandoc的轻质长生不老药包装纸.  将Markdown，CommonMark，HTML，Latex，HTML，HTML5，opendocument，rtf，texttile和asciidoc相互转换.
+* [Pandex](https://github.com/filterkaapi/pandex)  -Pandoc的轻质长生不老药包装纸.  将Markdown，CommonMark，HTML，Latex，HTML，HTML5，opendocument，rtf，texttile，asciidoc相互转换.
 
 ## Miscellaneous
 *不属于上述类别的有用的库或工具.*
@@ -953,7 +954,7 @@
 * [netrc](https://github.com/ma2gedev/netrcex) -读取Elixir中实现的netrc文件.
 * [notifier](https://hex.pm/packages/notifier) -用于桌面通知的可插拔体系结构.
 * [onetime](https://github.com/ryo33/onetime-elixir) -Elixir的一次性键值存储.
-* [pact](https://github.com/BlakeWilliams/pact) -在Elixir中进行更好的依赖注入，以实现更干净的代码和测试.
+* [pact](https://github.com/BlakeWilliams/pact) -在Elixir中更好的依赖注入，以实现更干净的代码和测试.
 * [phone](https://github.com/fcevado/phone) -解析器，可从电话号码中获取有用的信息.
 * [porcelain](https://github.com/alco/porcelain) -瓷器采用了更明智的方法来启动Elixir的外部OS进程并与之进行通信.
 * [presentex](https://github.com/Cobenian/Presentex) -基于HTML / JavaScript的Elixir演示框架.
@@ -994,7 +995,7 @@
 * [mac](https://github.com/ephe-meral/mac) -可用于查找以十六进制字符串给出的MAC的供应商（根据IEEE）.
 * [pool](https://github.com/slogsdon/pool) -Elixir的套接字接受器池.
 * [reagent](https://github.com/meh/reagent) -试剂是Elixir的套接字受体池.
-* [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) -Sockerl是用于TCP协议的高级Erlang / Elixir套接字库，并提供用于实现服务器，客户端和客户端连接池的快速，有用且易于使用的API.
+* [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) -Sockerl是用于TCP协议的高级Erlang / Elixir套接字库，并提供用于实现服务器，客户端和客户端连接池的快速，有用和易于使用的API.
 * [socket](https://github.com/meh/elixir-socket) -Elixir的套筒包装.
 * [sshex](https://github.com/rubencaro/sshex) -Elixir的简单SSH帮助程序.
 * [sshkit](https://github.com/bitcrowd/sshkit.ex) -基于Erlang的SSH应用程序构建的Elixir工具箱，用于在一个或多个服务器上执行任务.
@@ -1104,7 +1105,7 @@
 * [tirexs](https://github.com/Zatvobor/tirexs) -Elixir风格的DSL，用于构建对Elasticsearch引擎的基于JSON的请求.
 * [triplex](https://github.com/ateliware/triplex) -使用Elixir应用程序的postgres模式进行数据库多租户！
 * [triton](https://github.com/blitzstudios/triton) -建立在Xandra之上的Pure Elixir Cassandra ORM.
-* [udpflux](https://github.com/timbuchwaldt/udpflux) -一个自以为是的InfluxDB UDP客户端.
+* [udpflux](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 * [xandra](https://github.com/lexhide/xandra) -Cassandra驱动程序内置于Elixir中，专注于速度，简单性和鲁棒性.
 * [yar](https://github.com/dantswain/yar) -Elixir的另一个Redis客户.
 
@@ -1151,6 +1152,7 @@
 
 * [adap](https://github.com/awetzel/adap) -在整个信息系统中创建数据流，以根据Elixir匹配规则查询，扩充和转换数据.
 * [amqp](https://github.com/pma/amqp) -基于Langohr的Erlang RabbitMQ客户端的简单Elixir包装器.
+* [broadway](https://github.com/dashbitco/broadway) -使用Elixir进行并发和多阶段数据提取和数据处理.
 * [conduit](https://github.com/conduitframework/conduit) -使用消息队列的框架，带有用于SQS和AMQP的适配器，以及用于可重用消息传递模式的插件.
 * [cspex](https://github.com/costaraphael/cspex) -CTP通道的简单，符合OTP的Elixir实现.
 * [dbus](https://github.com/aforward/sadbus) -哑消息总线，用于在使用Redis解耦的微服务之间共享数据.
@@ -1586,7 +1588,7 @@
 ## XML
 *使用XML的库和实现（有关html工具，请转到 [HTML](#html) 部分）.*
 
-* [erlsom](https://github.com/willemdj/erlsom) - Erlsom is an Erlang library to parse (and generate) XML documents.
+* [erlsom](https://github.com/willemdj/erlsom) -Erlsom是一个Erlang库，用于解析（和生成）XML文档.
 * [exmerl](https://github.com/pwoolcoc/exmerl) -Xmerl的长生不老药包装纸.
 * [exml](https://github.com/expelledboy/exml) -用于xmerl xpath的最简单的Elixir包装器.
 * [exoml](https://github.com/Overbryd/exoml) -将xml解码/编码为树结构的模块.
@@ -1616,7 +1618,7 @@
 * [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) -将您的Web API升级到GraphQL，利用其灵活的查询为您的用户提供支持，并利用其声明性结构简化您的代码（2017）.
 * [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook) -这是Paulo A Pereira（2015）按主题分组的一组食谱.
 * [Elixir do zero à concorrência](https://www.casadocodigo.com.br/products/livro-elixir) -（葡萄牙语）这本书由Tiago Davi（2014年）提供了使用Elixir进行功能和并发编程的介绍.
-* [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) -语言的简要介绍，然后由SašaJurić（2015）详细介绍了Elixir中的生产就绪系统.
+* [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition) -语言简介，随后由SašaJurić（2015）详细介绍了Elixir中的生产就绪系统.
 * [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) -Wolfgang Loder（2016）在功能概念的上下文中介绍了Erlang和Elixir.
 * [Erlang in Anger](http://www.erlang-in-anger.com/) -本书旨在为弗雷德·赫伯特（Fred Hebert）（2014）在战时如何成为Erlang军医提供一些指导.
 * [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) -开启强大的新技术之门，这将使您以全新的方式思考Web开发（2017年）.

@@ -58,6 +58,7 @@
 - [NISQAI](https://github.com/quantumai-lib/nisqai) -用于在近期量子计算机上执行量子人工智能的库.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) -D-Wave的SDK，可使用Python在其量子计算机上进行开发.
 - [Orquestra](https://www.zapatacomputing.com/orquestra/) -Zapata Computing的统一量子操作环境，支持启用量子的工作流程.
+- [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) -百度用于量子机器学习的python工具包.
 - [PennyLane](http://github.com/XanaduAI/pennylane) -用于量子计算和量子机器学习的开源框架，该框架集成了其他各种平台.
 - [Project Q](http://projectq.ch/) -在Python中实现量子计算的框架.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) -使用Rigetti的Quil进行量子编程的Python库.
