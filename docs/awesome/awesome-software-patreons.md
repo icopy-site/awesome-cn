@@ -31,6 +31,7 @@ _使用开源许可证发布的项目.
 - [DIGImend](https://www.patreon.com/spbnick) -改进了对（非Wacom）图形输入板的Linux支持.
 - [DokuWiki](https://www.patreon.com/dokuwiki) -Wiki应用程序.
 - [Duplicati](https://opencollective.com/duplicati) -备份客户端.
+- [F-Droid](https://opencollective.com/f-droid), [#2](https://liberapay.com/F-Droid-Data/) -适用于Android平台的FOSS应用程序的可安装目录.
 - [Flarum](https://opencollective.com/flarum/) -论坛平台.
 - [FreeCAD](https://freecadweb.org/wiki/Donate) -参数3D建模器主要用于设计任何大小的现实对象.
 - [Funkwhale](https://opencollective.com/funkwhale) -免费的联合社交音乐服务器.
@@ -45,13 +46,14 @@ _使用开源许可证发布的项目.
 - [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) -Kismet无线工具.
 - [Laigter](https://www.patreon.com/azagaya) -自动的法线/镜面/遮挡/视差图生成器，用于2D游戏精灵.
 - [Latte Dock](https://liberapay.com/latte-dock) -等离子台式机的替换底座.
-- [LibrePCB](https://www.patreon.com/librepcb) -开发印刷电路板的软件. 
+- [LibrePCB](https://www.patreon.com/librepcb) - Software to develop printed circuit boards. 
 - [Lollipop Cloud](https://opencollective.com/lollipop-cloud-team) -适合所有人的廉价，便捷，自托管的云.
 - [Machine Labs](https://www.patreon.com/machinelabs) -机器学习平台.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) -联合社交网络服务器.  
-- [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - An open network for secure, decentralized communication.
+- [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) -用于安全，分散通信的开放网络.
 - [MissKey](https://www.patreon.com/syuilo) -联合微博平台.
 - [MuseScore](https://www.patreon.com/musescore) -音乐符号软件.
+- [MyPaint](https://opencollective.com/mypaint) -绘画和绘图程序，可与压敏平板电脑及其动态画笔引擎库很好地配合使用.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) -带有NativeScript和Vue的本地移动应用程序.
 - [Neovim](https://salt.bountysource.com/teams/neovim) -Vim-fork专注于可扩展性和可用性.
 - [OctoPrint](https://www.patreon.com/foosel) -3D打印机的Web界面.
@@ -78,6 +80,7 @@ _使用开源许可证发布的项目.
 - [Project Lombok](https://www.patreon.com/lombok) -Java编辑器插件.
 - [Reddit Enhancement Suite](https://www.patreon.com/honestbleeps) -Reddit浏览器扩展.
 - [Remmina](https://remmina.org/donations/) -远程桌面客户端.
+- [Secure Scuttlebutt](https://opencollective.com/secure-scuttlebutt-consortium) -分布式且安全的对等协议和社交网络.
 - [ShareX Team](https://www.patreon.com/ShareX) -屏幕捕获和屏幕共享工具.
 - [Synfig](https://www.patreon.com/synfig) -2D动画软件.
 - [SysV init](https://www.patreon.com/sysvinit) -系统V初始化实施.
@@ -149,7 +152,7 @@ _游戏和与游戏相关的项目._
 _为要求支持其工作的多个项目做出贡献的开发人员.
 
 - [Adam King](https://github.com/sponsors/notadamking) -RLTrader，Tensortrade和其他tradin相关项目.
-- [Alexandre Prokoudine](https://www.patreon.com/prokoudine), [#2](https://liberapay.com/prokoudine) -GIMP撰稿人，《 Libre Graphics World》在线杂志的编辑.
+- [Alexandre Prokoudine](https://www.patreon.com/prokoudine), [#2](https://liberapay.com/prokoudine) -GIMP撰稿人，《 Libre Graphics World》在线杂志编辑.
 - [Alyssa Rosenzweig](https://liberapay.com/alyssa/) -FOSS图形驱动程序的工作（Panfrost）以及对其他几个项目的贡献.
 - [Amit Merchant](https://www.patreon.com/amitmerchant) -开源软件爱好者.
 - [Andrea Ferrero](https://www.patreon.com/andreaferrero) -PhotoFlow图像编辑器的开发人员，维护各种Appimage软件包.
@@ -211,7 +214,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Philip Guo](https://www.patreon.com/pgbovine) -Python Tutor和pgbovine.net（文章/播客/ vlogs）.
 - [Pierre Krieger](https://www.patreon.com/tomaka) -各种Rust库.
 - [Raph Levien](https://www.patreon.com/raphlinus) -Xi编辑器和其他Rust项目.
-- [Reini Urban](https://www.patreon.com/rurban) -维护和开发软件，例如cperl，parrot，许多perl5模块，safeclib和libredwg.
+- [Reini Urban](https://www.patreon.com/rurban) -维护和开发软件，例如cperl，鹦鹉，许多perl5模块，safeclib和libredwg.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) -开源工具和游戏.
 - [Rob Landley](https://www.patreon.com/landley) -从事Toybox，mkroot和其他各种项目.
 - [Ryan C. Gordon](https://www.patreon.com/icculus), [#2](https://liberapay.com/icculus/) -游戏的Linux端口，与游戏相关的实用程序.

@@ -22,7 +22,7 @@
 * [Composer Installers](https://github.com/composer/installers) -多框架Composer库安装程序.
 * [Composer](https://getcomposer.org/) -包和依赖项管理器.
 * [Melody](https://melody.sensiolabs.org/) -一种构建一个文件Composer脚本的工具.
-* [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
+* [Pickle](https://github.com/FriendsOfPHP/pickle) -一个PHP扩展安装程序.
 
 ### Dependency Management Extras
 *与依赖项管理有关的其他内容.
@@ -55,7 +55,7 @@
 
 * [Backdrop](https://backdropcms.org) -针对中小型企业和非营利组织的CMS（Drupal的分支）.
 * [Concrete5](https://www.concrete5.org/) -以最低的技术水平为目标的CMS.
-* [Drupal](https://www.drupal.org) -企业级CMS.
+* [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) -现代的平面文件CMS.
 * [Joomla](https://www.joomla.org/) -另一个领先的CMS.
 * [Magento](https://magento.com/) -最受欢迎的电子商务平台.
@@ -377,9 +377,9 @@
 *用于管理，压缩和最小化网站资产的工具.*
 
 * [JShrink](https://github.com/tedious/JShrink) -一个JavaScript缩小程序库.
-* [Munee](https://github.com/meenie/munee) -资产优化程序库.
-* [Puli](https://github.com/puli/repository) -用于确定资产绝对路径的库.
-* [BowerPHP](https://github.com/Bee-Lab/bowerphp)  -Bower的PHP实现.  Web的软件包管理器
+* [Laravel Mix](https://github.com/JeffreyWay/laravel-mix) -80％用例围绕Webpack的优雅包装.
+* [Symfony Asset](https://github.com/symfony/asset) -管理网址的生成和网络资产的版本控制.
+* [Symfony Encore](https://github.com/symfony/webpack-encore) -一个简单但功能强大的API，用于处理和编译围绕Webpack构建的资产.
 
 ### Geolocation
 *用于对地址进行地理编码以及使用纬度和经度的库.
@@ -457,7 +457,7 @@
 * [Baum](https://github.com/etrepat/baum) -Eloquent的嵌套集实现.
 * [CakePHP ORM](https://github.com/cakephp/orm) -使用DataMapper模式实现的对象关系映射器.
 * [Cycle ORM](https://github.com/cycle/orm) -PHP DataMapper，ORM.
-* [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) -主义行为扩展的集合.
+* [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 * [Doctrine](https://www.doctrine-project.org/) -全面的DBAL和ORM.
 * [Laravel Eloquent](https://github.com/illuminate/database) -一个简单的ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) -PostgreSQL的对象模型管理器.
@@ -477,7 +477,7 @@
 ### NoSQL
 *用于“ NoSQL”后端的库.*
 
-* [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
+* [PHPMongo](https://github.com/sokil/php-mongo) -MongoDB ORM.
 * [Predis](https://github.com/nrk/predis) -功能齐全的Redis库.
 
 ### Queue
@@ -487,7 +487,7 @@
 * [BunnyPHP](https://github.com/jakubkulhan/bunny) -高性能的纯PHP AMQP（RabbitMQ）同步和异步（ReactPHP）库.
 * [Pheanstalk](https://github.com/pheanstalk/pheanstalk) -Beanstalkd客户端库.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) -一个纯PHP AMQP库.
-* [Tarantool Queue](https://github.com/tarantool-php/queue) -Tarantool Queue的PHP绑定.
+* [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 * [Thumper](https://github.com/php-amqplib/Thumper) -RabbitMQ模式库.
 * [Enqueue](https://github.com/php-enqueue/enqueue-dev) -用于PHP的消息队列软件包，支持RabbitMQ，AMQP，STOMP，Amazon SQS，Redis和Doctrine传输. 
 
@@ -523,7 +523,7 @@
 * [Aura.Auth](https://github.com/auraphp/Aura.Auth) -使用各种适配器提供身份验证功能和会话跟踪.
 * [SocialConnect Auth](https://github.com/socialConnect/auth) -开源社交符号（OAuth1 \ OAuth2 \ OpenID \ OpenIDConnect）.
 * [Json Web Token](https://github.com/lcobucci/jwt) -Json令牌，用于认证和传输信息.
-* [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+* [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) -OAuth 1.0客户端库.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) -OAuth 2.0客户端库.
 * [OAuth2 Server](https://bshaffer.github.io/oauth2-server-php-docs/) -另一个OAuth2服务器实现.
 * [OAuth2 Server](https://oauth2.thephpleague.com/) -OAuth2身份验证服务器，资源服务器和客户端库.

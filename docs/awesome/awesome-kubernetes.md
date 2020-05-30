@@ -23,9 +23,9 @@ Awesome-Kubernetes
 没有这些的帮助 [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
  建立这个很棒的仓库是不可能的.  非常感谢你们 ！！
 
- **感谢Gitbook.此真棒列表现在可以下载并以书的形式阅读.  检查一下-&gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/.继续学习保持共享!! **
+ **感谢Gitbook.此真棒列表现在可以下载并以书的形式阅读.  看看-&gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/.继续学习保持共享!! **
 
- **如果您在此处看到已不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢！**
+ **如果您在此处看到不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢！**
 
 ## What is Kubernetes? :ship:
 
@@ -108,14 +108,15 @@ Installers
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) -在Windows PC（Edge Channel）上本地运行Kubernetes和Docker
 * [eksctl](https://eksctl.io/) -Amazon EKS的官方CLI
 * [Juju](https://jujucharms.com/canonical-kubernetes) -Ubuntu-云不可知
+* [Krucible](https://usekrucible.com/) -创建临时的Kubernetes集群以进行测试和开发（无需帐户）
 * [KubeSphere](https://github.com/kubesphere/kubesphere) -轻松地在多个实例中安装Kubernetes和KubeSphere，包括全栈云原生软件，例如istio，ES，Prometheus，Fluent Bit，SonarQube，Jenkins.
-* [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
+* [k3s](https://github.com/rancher/k3s)  -轻量级的Kubernetes.  易于安装，一半内存，所有二进制文件不到40mb
 * [k3d](https://github.com/rancher/k3d) -在容器节点中运行k3s集群的工具
 * [kind](https://kind.sigs.k8s.io) -使用Docker容器“节点”运行本地Kubernetes集群的工具
 * [Kops](https://github.com/kubernetes/kops) -与操作系统无关-AWS
 * [Konvoy](https://d2iq.com/solutions/ksphere/konvoy) -轻松部署可立即投入生产的Kubernetes集群以及所有相关的运营服务
 * [Kube-ansible](https://github.com/kairen/kube-ansible) -与操作系统无关-与云无关
-* [Kube-aws](https://github.com/coreos/kube-aws) -CoreOS-AWS
+* [Kube-aws](https://github.com/kubernetes-incubator/kube-aws) - Kubernetes on AWS
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
 * [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) -与操作系统无关-与云无关
 * [KubeNow](https://github.com/kubenow/KubeNow) -Ubuntu-云不可知
@@ -123,7 +124,7 @@ Installers
 * [Kubicorn](https://github.com/kubicorn/kubicorn) -与操作系统无关-与云无关
 * [Kublr](https://docs.kublr.com/quickstart/) -不可知操作系统-本地-不可知云
 * [Linode](https://developers.linode.com/kubernetes/) -CoreOS-Linode
-* [matchbox](https://github.com/coreos/matchbox) -CoreOS-网络启动和配置Container Linux集群（例如etcd3，Kubernetes等）.
+* [matchbox](https://github.com/poseidon/matchbox) -网络启动和配置Container Linux集群（例如etcd3，Kubernetes等）.
 * [MetalK8s](https://github.com/scality/metalk8s) -CentOS-本地-云不可知- [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [MicroK8s](https://github.com/ubuntu/microk8s) -单个k8软件包，可在42种Linux上安装
 * [Minikube](https://github.com/kubernetes/minikube) -在本地运行Kubernetes
@@ -326,7 +327,7 @@ Installers
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -阿里云Kubernetes云容器服务
    - [AWS EKS](https://aws.amazon.com/eks/) -亚马逊弹性容器服务
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -Azure Kubernetes服务
-   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean Kubernetes
+   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -DigitalOcean州长
    - [GKE](https://cloud.google.com/container-engine/) -Google Kubernetes引擎
    - [IKS](https://www.ibm.com/cloud/container-service) -IBM Cloud Kubernetes服务
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -Oracle Kubernetes引擎
@@ -419,7 +420,7 @@ MOOC课程/教程
 * [StorageOS](http://storageos.com)
 * [Stork](https://github.com/libopenstorage/stork)
 
-Container Storage Interface Plugins
+容器存储接口插件
 =======================================================================
 
 *部分清单 [Container Storage Interface](https://kubernetes-csi.github.io/docs/)  Kubernetes的插件.  查看 [Kubernetes-CSI Drivers](https://kubernetes-csi.github.io/docs/drivers.html) 以获得完整列表*
@@ -570,6 +571,7 @@ Projects
 * [chaoskube](https://github.com/linki/chaoskube) -定期杀死Kubernetes集群中的随机Pod
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) -用于Kubernetes集群的网络和负载测试的Helm图表
 * [kboom](https://github.com/mhausenblas/kboom) -Kubernetes规模和均质负载测试仪
+* [Krucible](https://usekrucible.com/) -快速创建临时Kubernetes集群进行测试 
 * [kind](https://github.com/bsycorp/kind) -一个单节点群集，可在30秒内针对您准备好的CI运行测试
 * [k3d](https://github.com/rancher/k3d) -在容器化节点中快速创建单节点或多节点k3s集群
 * [kube-monkey](https://github.com/asobti/kube-monkey) -Kubernetes集群的混沌猴子
@@ -625,7 +627,7 @@ Projects
 * [Nuclio](https://github.com/nuclio/nuclio)
 * [OpenFaaS](https://github.com/alexellis/faas)
 * [OpenWhisk](https://github.com/openwhisk)
-* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) -允许节点由其他服务和提供程序支持.
+* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Allows nodes to be backed by other services and providers.
 
 ## Operators
 
@@ -803,6 +805,7 @@ Projects
 * [tubectl](https://github.com/reconquest/tubekit) -具有模式匹配的类固醇的Kubernetes CLI
 * [webkubectl](https://github.com/webkubectl/webkubectl) -基于Web的工具可帮助您管理kubernetes凭据并在Web浏览器中运行kubectl命令.
 * [kubectl-neat](https://github.com/itaysk/kubectl-neat) -清理Kuberntes yaml和json输出
+* [Kubie](https://github.com/sbstp/kubie) -即时修改脚本中的kubectx，kubens和k的替代
 
 ## Application deployment orchestration
 
@@ -851,7 +854,7 @@ Projects
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) -广泛采用的开源实现，统一了Kubernetes网络策略和Istio应用程序策略.
 * [Deepfence Enterprise](https://deepfence.io) -用于kubernetes，虚拟机和无服务器的完整生命周期Cloud Native Workload Protection平台.
 * [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) -强大的运行时漏洞扫描程序，适用于kubernetes，虚拟机和无服务器.
-* [Dex](https://github.com/coreos/dex) -Kubernetes的OpenID和OAuth
+* [Dex](https://github.com/dexidp/dex) -Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持作为身份提供者的Github，Gitlab，Google，Azure和LDAP（AD）.
 * [kiam](https://github.com/uswitch/kiam) -允许群集用户将AWS IAM角色与Pod相关联.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) -Kubernetes Security Bench for Go是一个Go应用程序，可根据安全最佳实践检查是否已部署Kubernetes.
@@ -912,7 +915,8 @@ Projects
 
 ## Operating System
 
-* [CoreOS](http://coreos.com)
+* [Fedora CoreOS](https://getfedora.org/en/coreos/)
+* [Flatcar Container Linux](https://www.flatcar-linux.org/)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 * [k3OS](https://github.com/rancher/k3os)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
@@ -1080,10 +1084,9 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，并且是充分利用品牌或企业潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且是充分利用品牌或企业的潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
-* [CoreOS](https://twitter.com/coreoslinux)
 * [DevOps Summit](https://twitter.com/DevOpsSummit)
 * [Engine Yard](https://twitter.com/engineyard)
 * [Google Cloud Platform](https://twitter.com/googlecloud)

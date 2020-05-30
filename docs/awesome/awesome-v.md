@@ -50,22 +50,13 @@
 - [HN-top](https://github.com/BafS/hn-top) -一个简单的命令，用于列出来自hacker-news的最新新闻.
 - [vast](https://github.com/lydiandy/vast) -一个简单的vlang工具，可将v源文件生成为AST json文件.
 
-### Project Management
+### Project management
 
 - [vset](https://github.com/mulh8377/vset) -V项目的项目设置和配置工具.
 
 ## Libraries
 
-### Syntax highlighting
-
-- [v-vim](https://github.com/ollykel/v-vim) -在Vim中支持V语法突出显示.
-- [vim-v](https://github.com/cheap-glitch/vim-v) -V编程语言的高质量语法突出显示.
-- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) -Visual Studio Code的V语言扩展.
-- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) -V语法高亮显示 [Kate](https://kate-editor.org/).
-- [scite-v-support](https://github.com/sunnylcw/scite-v-support) -V语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
-- [language-v](https://github.com/Cutlery-Drawer/language-v) -对Atom的V语言支持（vscode-vlang端口）.
-
-### Command Line Interface
+### Command line interface
 
 - [vargs](https://github.com/nedpals/vargs) -V库，用于解析类似argv的数组的参数.
 - [progressbar](https://github.com/Waqar144/progressbar) -易于使用的V库，可在cli中创建进度条.
@@ -101,7 +92,7 @@
 - [vspeech](https://github.com/thecodrr/vspeech) -基于Mozilla的DeepSpeech TensorFlow的语音到文本库的完整V绑定. 
 - [v-miniaudio](https://github.com/Larpon/v-miniaudio) -出色的miniaudio C音频库的绑定.
 
-### Operating System
+### Operating system
 
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard)  -用于与OS剪贴板交互的V模块.  完全跨平台.
 - [vlipboard](https://github.com/asvvvad/vlipboard) -具有Wayland和Termux支持的易于使用的剪贴板包装器.
@@ -118,7 +109,7 @@
 
 - [v-mime](https://github.com/nedpals/v-mime) -V的MIME检测库.
 
-### Game Development
+### Game development
 
 - [vraylib](https://github.com/MajorHard/vraylib) -V包装器（绑定） [raylib](https://www.raylib.com)，C游戏开发框架.
 
@@ -126,14 +117,14 @@
 
 - [eventbus](https://github.com/vlang/v/tree/master/vlib/eventbus) -用于V的简单事件总线系统.
 
-### User Interface Toolkits
+### User Interface toolkits
 
 - [V UI](https://github.com/vlang/ui) -适用于Windows，macOS，Linux，Android，iOS和Web的集成的跨平台UI工具包.
 - [vgtk3](https://github.com/vgtk/vgtk3) -V中GTK3的包装.
 - [vig](https://github.com/nsauzede/vig) -的绑定 [Dear ImGui](https://github.com/ocornut/imgui) GUI工具箱.
 - [vnk](https://github.com/nsauzede/vnk) -的绑定 [Nuklear](https://github.com/vurtun/nuklear) GUI工具箱.
 
-### Scientific Computing
+### Scientific computing
 
 - [vsl](https://github.com/vlang/vsl) -具有多种功能的纯V型科学图书馆.
 - [vnum](https://github.com/vlang-num/vnum) -由LAPACK和BLAS支持的支持n维数据的数值计算库.
@@ -142,20 +133,28 @@
 
 - [range](https://github.com/Delta456/range) -V中Python的range（）的功能.
 
-
 ## Other
 
-- [lsp.v](https://github.com/nedpals/lsp.v) -在V上实现语言服务器协议规范.
+### Syntax highlighting
+
+- [v-vim](https://github.com/ollykel/v-vim) -在Vim中支持V语法突出显示.
+- [vim-v](https://github.com/cheap-glitch/vim-v) -V编程语言的高质量语法突出显示.
+- [vscode-vlang](https://github.com/0x9ef/vscode-vlang) -Visual Studio Code的V语言扩展.
+- [kate-syntax-highlight-v](https://github.com/Larpon/kate-syntax-highlight-v) -V语法高亮显示 [Kate](https://kate-editor.org/).
+- [scite-v-support](https://github.com/sunnylcw/scite-v-support) -V语法高亮显示 [SciTE](https://www.scintilla.org/SciTE.html).
+- [language-v](https://github.com/Cutlery-Drawer/language-v) -对Atom的V语言支持（vscode-vlang端口）.
+
+### GitHub actions
+
 - [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) -GitHub动作自动化，可在您的工作流程中使用V.
 
 ### Videos
 
 - [V Programming Language](https://www.youtube.com/watch?v=BVCuZ7z7GMY&list=PLEPMhdsq-gNpFr40A-ZnX-Hu9l-Sp5Oc_)
 
-### Programming Contests
+### Programming contests
 
 - [Rosetta Code V](https://github.com/RustemB/rosetta-code-v) -V中的Rosetta代码解决方案.
-
 - [Advent of Code 2019](https://github.com/mvlootman/aoc2019) -V中的代码2019年问世解决方案.
 
 ### Tutorials

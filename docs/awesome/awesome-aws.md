@@ -727,7 +727,7 @@ AWS存储库：
 社区回购：
 
 * [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
-* [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) -S3命令行工具，对于大型文件，它的速度比S3cmd好.
+* [bloomreach/s4cmd :fire::fire::fire::fire:](https://github.com/bloomreach/s4cmd) -S3命令行工具，对于大型文件，它的速度比S3cmd好.
 * [CulturalMe/meteor-slingshot :fire::fire::fire:](https://github.com/CulturalMe/meteor-slingshot) -在流星中上传文件.
 * [danilop/yas3fs :fire::fire::fire:](https://github.com/danilop/yas3fs) -另一个受S3FS启发的S3支持的文件系统.
 * [grippy/node-s3](https://github.com/grippy/node-s3) -Node.js应用程序来管理存储桶.

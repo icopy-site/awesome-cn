@@ -19,7 +19,7 @@
 
 - [OpenVAS](http://www.openvas.org/) -OpenVAS是包含多种服务和工具的框架，可提供全面而强大的漏洞扫描和漏洞管理解决方案.
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework)  -用于针对远程目标计算机开发和执行漏洞利用代码的工具.  其他重要的子项目包括操作码数据库，shellcode存档和相关研究.
-- [Kali](https://www.kali.org/)  -Kali Linux是Debian衍生的Linux发行版，专门用于数字取证和渗透测试.  Kali Linux预先安装了许多渗透测试程序，包括nmap（端口扫描程序），Wireshark（数据包分析器），John Ripper（密码破解程序）和Aircrack-ng（用于渗透测试无线LAN的软件套件）. .
+- [Kali](https://www.kali.org/)  -Kali Linux是Debian衍生的Linux发行版，专门用于数字取证和渗透测试.  Kali Linux预先安装了许多渗透测试程序，包括nmap（端口扫描程序），Wireshark（数据包分析器），John Ripper（密码破解程序）和Aircrack-ng（用于渗透测试无线LAN的软件套件） .
 - [pig](https://github.com/rafael-santiago/pig) -Linux数据包制作工具.
 - [scapy](https://github.com/gpotter2/awesome-scapy) -Scapy：基于python的交互式数据包处理程序和库.
 - [Pompem](https://github.com/rfunix/Pompem)  -Pompem是一种开源工具，旨在自动搜索主要数据库中的漏洞利用程序.  用Python开发的系统具有高级搜索系统，因此可以促进渗透测试人员和道德黑客的工作.  在当前版本中，在数据库中执行搜索：Exploit-db，1337day，Packetstorm Security ...
@@ -44,9 +44,9 @@
 
 ### IDS / IPS / Host IDS / Host IPS
 
-- [Snort](https://www.snort.org/)  -Snort是Martin Roesch于1998年创建的免费开放源代码网络入侵防御系统（NIPS）和网络入侵检测系统（NIDS）.Snort现在由Sourcefire开发，其中Roesch是其创始人兼CTO.  2009年，Snort作为“有史以来最伟大的开源软件之一”进入InfoWorld的开源名人堂.
+- [Snort](https://www.snort.org/) - Snort is a free and open source network intrusion prevention system (NIPS) and network intrusion detection system (NIDS)created by Martin Roesch in 1998. Snort is now developed by Sourcefire, of which Roesch is the founder and CTO. In 2009, Snort entered InfoWorld's Open Source Hall of Fame as one of the "greatest [pieces of] open source software of all time".
 - [Bro](https://www.bro.org/) -Bro是功能强大的网络分析框架，与您可能知道的典型IDS有很大不同.
-- [OSSEC](https://ossec.github.io/) - Comprehensive Open Source HIDS. Not for the faint of heart. Takes a bit to get your head around how it works. Performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. It runs on most operating systems, including Linux, MacOS, Solaris, HP-UX, AIX and Windows. Plenty of reasonable documentation. Sweet spot is medium to large deployments.
+- [OSSEC](https://ossec.github.io/)  -全面的开源HIDS.  不是为了胆小的人.  需要花点时间了解它的工作原理.  执行日志分析，文件完整性检查，策略监视，rootkit检测，实时警报和主动响应.  它可以在大多数操作系统上运行，包括Linux，MacOS，Solaris，HP-UX，AIX和Windows.  大量合理的文档.  最佳位置是大中型部署.
 - [Suricata](http://suricata-ids.org/)  -Suricata是高性能的网络IDS，IPS和网络安全监视引擎.  开源，由社区运营的非营利基金会开放信息安全基金会（OISF）拥有.  Suricata由OISF及其支持供应商开发.
 - [Security Onion](http://blog.securityonion.net/)  -Security Onion是一个Linux发行版，用于入侵检测，网络安全监视和日志管理.  它基于Ubuntu，包含Snort，Suricata，Bro，OSSEC，Sguil，Squit，Snorby，ELSA，Xplico，NetworkMiner和许多其他安全工具.  易于使用的设置向导使您可以在几分钟内为企业构建一支由分布式传感器组成的队伍！
 - [sshwatch](https://github.com/marshyski/sshwatch)  -SSH的IPS，类似于用Python编写的DenyHosts.  它还可以在攻击过程中在日志中收集有关攻击者的信息.
@@ -156,7 +156,7 @@
 
 - [android-security-awesome](https://github.com/ashishb/android-security-awesome)  -android安全相关资源的集合.  学术界和工业界正在开展许多工作，以执行对Android应用程序进行动态分析，静态分析和反向工程的工具.
 - [SecMobi Wiki](http://wiki.secmobi.com/)  -移动安全资源的集合，包括文章，博客，书籍，小组，项目，工具和会议.  *
-- [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg) -有关移动应用程序安全性测试和反向工程的综合手册.
+- [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg) -有关移动应用程序安全性测试和逆向工程的综合手册.
 - [OSX Security Awesome](https://github.com/kai5263499/osx-security-awesome) -OSX和iOS安全资源的集合
 - [Themis](https://github.com/cossacklabs/themis) -用于保护敏感数据的高级多平台加密框架：具有前向保密性和安全数据存储（AES256GCM）的安全消息传递，适合构建端到端加密应用程序.
 - [Mobile Security Wiki](https://mobilesecuritywiki.com/) -移动安全资源的集合.
@@ -170,7 +170,7 @@
 ### Forensics
 
 - [grr](https://github.com/google/grr) -GRR快速响应是一个针对远程实时取证的事件响应框架.
-- [Volatility](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
+- [Volatility](https://github.com/volatilityfoundation/volatility) -基于Python的内存提取和分析框架.
 - [mig](http://mig.mozilla.org/)  -MIG是在远程端点上进行调查性手术的平台.  它使调查人员可以并行地从大量系统中获取信息，从而加快事件调查和日常操作安全性.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -* ir-rescue *是Windows Batch脚本和Unix Bash脚本，用于在事件响应期间全面收集主机取证数据.
 - [Logdissect](https://github.com/dogoncouch/logdissect) -CLI工具和Python API，用于分析日志文件和其他数据.
@@ -215,13 +215,13 @@
 
 - [Spyse](https://spyse.com/)  -Spyse是OSINT搜索引擎，可提供有关整个Web的最新数据.  所有数据都存储在其自己的数据库中以进行即时访问，并相互互连以进行灵活的搜索.
 提供的数据：IPv4主机，子/域/ whois，端口/横幅/协议，技术，操作系统，AS，广泛的SSL / TLS DB等.
-- [sqlmap](http://sqlmap.org/)  -sqlmap是一个开放源代码渗透测试工具，可自动检测和利用SQL注入漏洞并接管数据库服务器的过程.  它配备了强大的检测引擎，针对最终渗透测试仪的众多细分功能以及从数据库指纹识别，从数据库获取数据到访问基础文件系统以及通过外出在操作系统上执行命令的各种开关.带内连接.
+- [sqlmap](http://sqlmap.org/)  -sqlmap是一个开放源代码渗透测试工具，可自动检测和利用SQL注入漏洞并接管数据库服务器的过程.  它具有强大的检测引擎，针对最终渗透测试仪的众多细分功能以及从数据库指纹识别，从数据库获取数据到访问基础文件系统以及通过外出在操作系统上执行命令的广泛开关.带内连接.
 - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)  -Zed攻击代理（ZAP）是易于使用的集成渗透测试工具，用于发现Web应用程序中的漏洞.  它被设计为具有广泛的安全经验的人使用，因此，它是渗透测试新手的开发人员和功能测试人员的理想选择.  ZAP提供了自动扫描程序以及一系列工具，可让您手动查找安全漏洞.
 - [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist)  -在网络漏洞评估期间要测试的一些控件的列表.  可以找到Markdown版本 [here](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 - [w3af](http://w3af.org/)  -w3af是一个Web应用程序攻击和审核框架.  该项目的目标是创建一个框架，以通过查找和利用所有Web应用程序漏洞来帮助您保护Web应用程序.
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)  -Recon-ng是用Python编写的功能齐全的Web侦察框架.  侦查的外观与Metasploit框架相似.
 - [PTF](https://github.com/trustedsec/ptf) -渗透测试器框架（PTF）是一种模块化支持最新工具的方法.
-- [Infection Monkey](https://github.com/guardicore/monkey)  -用于地图/笔测试网络的半自动笔测试工具.  模拟人类攻击者.
+- [Infection Monkey](https://github.com/guardicore/monkey) - A semi automatic pen testing tool for mapping/pen-testing networks. Simulates a human attacker.
 - [ACSTIS](https://github.com/tijme/angularjs-csti-scanner)  -ACSTIS可帮助您扫描某些Web应用程序以进行AngularJS客户端模板注入（有时称为CSTI，沙箱转义或沙箱绕过）.  它支持扫描单个请求，还支持爬网整个Web应用程序以查找AngularJS CSTI漏洞.
 - [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) -padding-oracle-attacker是一个CLI工具和库，可轻松执行padding oracle攻击（解密以CBC模式加密的数据），并支持并发网络请求和优雅的UI.
 
@@ -240,6 +240,7 @@
 - [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs) -使用此官方API在NodeJS应用程序中利用OWASP Zed攻击代理（ZAP）.
 - [GuardRails](https://github.com/apps/guardrails) -GitHub应用程序，可在请求请求中提供安全性反馈.
 - [Checkov](https://github.com/bridgecrewio/checkov/) -用于将基础设施作为代码的静态分析工具（Terraform）.
+- [Insider CLI](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 
 ## Usability
 
@@ -276,17 +277,17 @@
 - [dotgpg](https://github.com/ConradIrwin/dotgpg) -一种用于安全轻松地备份和版本化生产机密或共享密码的工具.
 - [redoctober](https://github.com/cloudflare/redoctober) -两人规则样式文件加密和解密的服务器.
 - [aws-vault](https://github.com/99designs/aws-vault) -将AWS凭证存储在OSX钥匙串或加密文件中
-- [credstash](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
+- [credstash](https://github.com/fugue/credstash) -使用AWS KMS和DynamoDB存储机密
 - [chamber](https://github.com/segmentio/chamber) -使用AWS KMS和SSM参数存储存储机密
 - [Safe](https://github.com/starkandwayne/safe) -Vault CLI，使对Vault的读写更加容易.
-- [Sops](https://github.com/mozilla/sops) -支持YAML，JSON和BINARY格式并使用AWS KMS和PGP加密的加密文件的编辑器.
+- [Sops](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
 - [passbolt](https://www.passbolt.com/)  -您的团队正在等待的密码管理器.  免费，开源，可扩展，基于OpenPGP.
 - [passpie](https://github.com/marcwebbie/passpie) -多平台命令行密码管理器
 - [Vault](https://www.vaultproject.io/) -足以保护环境和应用程序机密的加密数据存储区.
 
 ## EBooks
 
-- [Holistic Info-Sec for Web Developers](https://holisticinfosecforwebdevelopers.com/) -免费和可下载的书籍系列，涵盖了Web开发人员和DevOps工程师需要广泛了解的内容，以创建健壮，可靠，可维护和安全的软件，网络等，这些内容可以按时连续交付，不会带来麻烦惊喜
+- [Holistic Info-Sec for Web Developers](https://holisticinfosecforwebdevelopers.com/) -免费和可下载的书籍系列，涵盖了Web开发人员和DevOps工程师需要广泛了解的内容，以创建健壮，可靠，可维护和安全的软件，网络等，这些内容可以按时连续交付，并且不会令人讨厌惊喜
 - [Docker Security - Quick Reference: For DevOps Engineers](https://binarymist.io/publication/docker-security/) -一本关于理解Docker安全默认设置，如何改进它们（理论和实践）以及许多工具和技术的书.  
 - [How to Hack Like a Pornstar](https://books2read.com/u/bWzdBx) -分步进入BANK的流程，Sparc Flow，2017年  
 - [How to Hack Like a Legend](https://amzn.to/2uWh1Up) -骇客闯入一家秘密离岸公司的故事，Sparc Flow，2018年  
@@ -319,7 +320,7 @@
 - [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) -与容器构建和运行时安全性相关的精选资源精选列表
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) -精选的密码学论文，文章，教程和howtos清单.
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) -有趣，有趣且令人沮丧的搜索查询集合，可插入Shodan.io.
-- [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) -用来对付取证活动的真棒工具的集合.
+- [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) -用来对付取证活动的强大工具的集合.
 - [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) -精选的很棒的安全性讲座清单，按年份组织，然后按会议进行. 
 
 

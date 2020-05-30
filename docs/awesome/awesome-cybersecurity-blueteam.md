@@ -30,6 +30,7 @@
 也可以看看 [asecure.cloud/tools](https://asecure.cloud/tools/).
 
 - [Checkov](https://www.checkov.io/) -Terraform的静态分析（以基础结构作为代码），有助于检测CIS策略违规并防止云安全配置错误.
+- [Falco](https://falco.org/) -行为活动监视器，旨在通过审核Linux内核并通过运行时数据（例如Kubernetes指标）进行充实，以检测容器化应用程序，主机和网络数据包流中的异常活动.
 - [Prowler](https://github.com/toniblyx/prowler) -基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和强化.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) -开源的多云安全审核工具，可对云环境进行安全状态评估.
 
@@ -61,7 +62,7 @@
 
 也可以看看 [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
-* [FuzzBench](https://google.github.io/fuzzbench/) -免费服务，可在Google规模的各种现实世界基准上评估模糊器.
+* [FuzzBench](https://google.github.io/fuzzbench/) - Free service that evaluates fuzzers on a wide variety of real-world benchmarks, at Google scale.
 
 ### Policy enforcement
 
@@ -110,7 +111,7 @@
 
 ### Evidence collection
 
-- [AutoMacTC](https://github.com/CrowdStrike/automactc) -模块化的自动取证分类收集框架，旨在访问macOS上的各种取证工件，进行解析，并以可行的格式进行分析.
+- [AutoMacTC](https://github.com/CrowdStrike/automactc) - Modular, automated forensic triage collection framework designed to access various forensic artifacts on macOS, parse them, and present them in formats viable for analysis.
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) -免费的macOS计算机取证工具.
 - [OSXCollector](https://github.com/Yelp/osxcollector) -适用于macOS的取证证据和分析工具包.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -Windows Batch脚本和Unix Bash脚本，可在事件响应期间全面收集主机取证数据.
@@ -135,7 +136,7 @@
 
 也可以看看 [awesome-pentest § Social Engineering Tools](https://github.com/fabacab/awesome-pentest#social-engineering-tools).
 
-- [CertSpotter](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
+- [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可轻松测试组织对网络钓鱼的危害.
 - [King Phisher](https://github.com/securestate/king-phisher) -通过模拟真实的网络钓鱼攻击来测试和增强用户意识的工具.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
@@ -173,7 +174,7 @@
 - [Snort](https://snort.org/) -广泛部署的免费软件IPS，能够进行实时数据包分析，流量记录和基于规则的自定义触发器.
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) -捕获欺骗的NetBIOS名称服务（NBNS）响应并提醒电子邮件或日志文件.
 - [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及深度数据包检查功能的免费，跨平台IDS / IPS，Lua也可以编写脚本.
-- [VAST](https://github.com/tenzir/vast) - Free and open-source network telemetry engine for data-driven security investigations.
+- [VAST](https://github.com/tenzir/vast) -免费的开源网络遥测引擎，用于数据驱动的安全调查.
 - [Wireshark](https://www.wireshark.org) -免费的开源数据包分析器，可用于网络故障排除或法医网络流分析.
 - [Zeek](https://zeek.org/) -专注于安全监控的强大网络分析框架，以前称为Bro.
 - [netsniff-ng](http://netsniff-ng.org/) -具有众多实用程序的免费，快速的GNU / Linux网络工具包，例如连接跟踪工具（`flowtop`），流量生成器（`trafgen`）和自治系统（AS）跟踪路由实用程序（`astraceroute`）.

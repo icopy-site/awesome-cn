@@ -12,24 +12,33 @@
 
 ## Configs
 
-- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -与主要esLint配置一起使用的合理的插件集合.
+### Configs by Well-Known Companies/Organizations
+
 - [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) -共享配置 [Airbnb's style guide](https://github.com/airbnb/javascript).
+- [Airbnb-typescript](https://github.com/iamturns/eslint-config-airbnb-typescript) -具有TypeScript支持的Airbnb的ESLint配置.
 - [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) -为您的React / Vue / TypeScript项目进行渐进式ESLint配置.
-- [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) -一个配置来统治所有人！
-- [Canonical](https://github.com/gajus/eslint-config-canonical) -共享配置 [Canonical style guide](https://github.com/gajus/canonical).
-- [Cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) -出色项目的ESLint配置.
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) -包含用于ESLint团队维护的项目的ESLint配置.
-- [ES](https://github.com/thenativeweb/eslint-config-es) -可共享的配置，用于非常严格的代码.
 - [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) -用于Facebook风格指南的可共享配置.
 - [Google](https://github.com/google/eslint-config-google) -的共享配置 [Google style](http://google.github.io/styleguide/javascriptguide.xml).
+- [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) -可共享的配置 [React](https://reactjs.org) 项目.
+- [Shopify](https://github.com/Shopify/web-foundation/blob/master/packages/eslint-plugin/README.md) -共享配置 [Shopify's style guide](https://github.com/Shopify/javascript).
+- [Wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) -共享配置 [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript)，由 [MediaWiki](https://www.mediawiki.org/).
+
+### Prominent Configs by Developers (100 stars or so)
+
+- [Canonical](https://github.com/gajus/eslint-config-canonical) -共享配置 [Canonical style guide](https://github.com/gajus/canonical).
+- [Standard](https://github.com/feross/eslint-config-standard) -JavaScript的共享配置 [Standard Style](https://github.com/feross/standard).
+- [XO](https://github.com/xojs/eslint-config-xo) -共享配置 [XO](https://github.com/xojs/xo).
+
+### Other Configs by Developers
+
+- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -与主要esLint配置一起使用的合理的插件集合.
+- [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) -一个配置来统治所有人！
+- [Cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) -出色项目的ESLint配置.
+- [ES](https://github.com/thenativeweb/eslint-config-es) -可共享的配置，用于非常严格的代码.
 - [Hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) -最严格（但实用）的ESLint配置.
 - [Problems](https://github.com/RyanZim/eslint-config-problems) -可共享的配置，仅捕获实际问题，并且不强制使用样式偏好.
-- [React App](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) -可共享的配置 [React](https://reactjs.org) 项目.
-- [Shopify](https://github.com/Shopify/eslint-plugin-shopify) -共享配置 [Shopify's style guide](https://github.com/Shopify/javascript).
-- [Standard](https://github.com/feross/eslint-config-standard) -JavaScript的共享配置 [Standard Style](https://github.com/feross/standard).
 - [Supermind](https://github.com/supermind/eslint-config-supermind) -Supermind风格的共享配置.
-- [Wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) -共享配置 [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript)，由 [MediaWiki](https://www.mediawiki.org/).
-- [XO](https://github.com/sindresorhus/eslint-config-xo) -共享配置 [XO](https://github.com/sindresorhus/xo).
 
 ## Globals
 
@@ -112,7 +121,7 @@
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -是2019年，您仍然使用循环吗？
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询语法的内容.
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
-- [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
+- [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
 -表现
   - [DOM](https://github.com/amilajack/eslint-plugin-dom)
   - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) （也有一个 [config](https://github.com/Raynos/eslint-config-perf-standard))
@@ -166,7 +175,7 @@
 - [Standard](https://github.com/feross/standard) -JavaScript标准样式.
 - [Superlint](https://github.com/supermind/superlint) -JavaScript Supermind样式.
 - [XO](https://github.com/sindresorhus/xo) -JavaScript幸福风格的短毛猫❤️.
-- [Zoe](https://github.com/jorgegonzalez/zoe) - Universal JavaScript linter and formatter.
+- [Zoe](https://github.com/jorgegonzalez/zoe) -通用JavaScript小工具和格式化程序.
 - [Healthier](https://github.com/KidkArolis/healthier) -标准的代码风格不可知版本，是Prettier的完美伴侣.
 
 ## Tools

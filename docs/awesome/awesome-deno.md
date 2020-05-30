@@ -75,7 +75,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) -从segmentio / xml-parser移植的Deno XML解析器.
 - [denotrain](https://github.com/Caesar2011/denotrain) -带有中间件支持的多合一Web框架，如Express或Fastify forNode.js.
 - [dinatra](https://github.com/syumai/dinatra) -Sinatra像deno的轻量级Web应用程序框架.
-- [djwt](https://github.com/timonson/djwt) -根据JWT和JWS规范在Deno上制作JSON Web令牌（JWT）.
+- [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
 - [dso](https://github.com/manyuanrong/dso) -一个基于mysql的简单ORM库.
 - [ensure](https://github.com/eankeen/ensure) -确保您运行的是Deno，Typescript或V8的最低版本.
 - [evt](https://github.com/garronej/evt) -输入EventEmitter的安全替代品.
@@ -84,7 +84,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [gardens](https://github.com/partheseas/gardens) -一个无处不在的JavaScript记录实用程序.
 - [gentleRpc](https://github.com/timonson/gentleRpc) -用于Deno和浏览器的JSON-RPC 2.0 TypeScript库.
 - [http](https://github.com/denoland/deno_std/tree/master/http) -包括文件服务器的HTTP模块.
-- [http-libs](https://github.com/denoserverless/http-libs) - HTTP modules and typings.
+- [http-libs](https://github.com/denoserverless/http-libs) -HTTP模块和类型.
 - [invert-kv](https://github.com/denorg/invert-kv) -在Deno中反转键值对.
 - [jwt](https://github.com/denoserverless/jwt) -auth0 / jsonwebtoken的端口.
 - [lazy](https://github.com/luvies/lazy) -类似于linq的惰性求值迭代模块.
@@ -113,6 +113,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [up](https://github.com/denorg/up) -检查是否在Deno建立了网站.
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) -为Deno加密和解密gzip.
 - [watch](https://github.com/jinjor/deno-watch) -文件查看器.
+- [websocket_server](https://github.com/JohanWinther/websocket_server) -WebSocket服务器库. 
 - [webview](https://github.com/eliassjogreen/deno_webview) -Webview的Deno绑定，这是一个用于创建基于Web的桌面GUI的小型库.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) -差异库，使用wu（O（NP））算法计算两个切片之间的差异.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) -YouTube数据API的Deno客户端库，用于与YouTube进行任何交互.

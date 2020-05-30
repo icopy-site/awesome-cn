@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="mcauser/awesome-micropython"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
-  <a href="http://awesome-micropython.com/" style="display:block"><img src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/docs/img/logo.svg"></a>
+  <a href="https://awesome-micropython.com/" style="display:block"><img src="https://raw.githubusercontent.com/mcauser/awesome-micropython/master/docs/img/logo.svg"></a>
 </p>
 <p align="center">
   <a href="https://awesome.re">
@@ -131,7 +131,7 @@
 #### REPL
 
 * [webrepl](https://micropython.org/webrepl) -MicroPython WebREPL.
-* [zepl](https://gitlab.com/zepl1/zepl) - MicroPython WebREPL Console Application using ZeroMQ.
+* [zepl](https://gitlab.com/zepl1/zepl) -使用ZeroMQ的MicroPython WebREPL控制台应用程序.
 * [jupyter_micropython_remote](https://gitlab.com/alelec/jupyter_micropython_remote) -Jupyter内核，可通过串行/网络REPL在MicroPython板上直接执行代码.
 
 #### RFID
@@ -291,6 +291,7 @@
 
 * [micropython-inputs](https://github.com/alanmitchell/micropython-inputs) -用于对脉冲进行计数，对数字输入进行去抖动以及为MicroPython板计算模拟输入的移动平均值的类.
 * [ubutton](https://gitlab.com/WiLED-Project/ubutton) -一个MicroPython库，用于控制按钮输入的读取和去抖，包括“短”和“长”按下回调.
+* [micropython-debounce-switch](https://github.com/selfhostedhome/micropython-debounce-switch) -用于反跳开关的MicroPython类.
 
 #### IO-Expander
 
@@ -492,7 +493,7 @@
 
 ## Books
 
-* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -作者：尼古拉斯·H·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -尼古拉斯·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
 * [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227)  -查尔斯·贝尔（Charles Bell）.  ISBN 9781484231227.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  -Marwan Alsabbagh.  ISBN 9781838649951.
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)  -唐纳德​​·诺里斯（Donald Norris）.  ISBN 9781259644535.
@@ -515,10 +516,14 @@
 * [micropy-cli](https://github.com/BradenM/micropy-cli) -Micropy Cli是一个项目管理/生成工具，用于在VSCode等现代IDE中编写MicroPython代码.
 * [micropython-stubber](https://github.com/Josverl/micropython-stubber) -为不同的MicroPython固件生成并使用存根，以便与vscode和/或pylint一起使用.
 
+### Debugging
+
+* [esp32-backtrace](https://github.com/tve/esp32-backtrace) -ESP32异常堆栈回溯分析器.
+
 ### IDEs
 
 * [JetBrains MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) -在IntelliJ IDEA和PyCharm中支持MicroPython设备.
-* [Micropython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) -用于VSCode自述文件的MicroPython IDE.
+* [Micropython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - MicroPython IDE for VSCode README.
 * [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) -与MicroPython REPL终端进行交互的便捷快捷方式.
 * [Mu Editor](https://codewith.mu/) -带Mu的代码：面向初学者的简单Python \ MicroPythonb \ CircuitPython编辑器.
 * [Thonny IDE](https://thonny.org/) -Thonny：适用于初学者的Python IDE.
