@@ -203,7 +203,7 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) -用于Visual Studio 2017的Ada语言集成.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT之类的全面开发工具
+- [lea](https://github.com/zertovitch/lea) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT的全面开发工具
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) -Gnu Emacs主模式，用于编辑Ada源.
@@ -212,7 +212,7 @@
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) -BBEdit对Ada的支持.
 
 #### VSCode Extensions
-- [entomy-ada-vscode](https://github.com/Entomy/Ada-vscode) -Ada语言对VS Code的支持.
+- [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada)  -Ada的语言支持.  这包括 [Language Server for Ada](https://github.com/AdaCore/ada_language_server).
 - [lucretia-ada-vscode](https://github.com/Lucretia/ada-vscode) -Ada和GPR的基本语法突出显示.
 - [ada-utilities](https://github.com/Lucretia/ada-utilities) -VSCode扩展Ada程序员，提供了一些实用程序功能.
 
@@ -325,7 +325,7 @@
 - [adacontrol](http://www.adalog.fr/en/adacontrol.html) -Ada构造了皮棉工具.
 - [spark-2014](https://github.com/AdaCore/spark2014/) -SPARK正式验证工具集.
 - [acats](https://github.com/simonjwright/ACATS) -针对GCC定制的Ada合格评定测试套件.
-- [acats-grading](https://github.com/simonjwright/ACATS-grading) -用于对ACATS结果进行评分的工具，已针对类Unix系统进行了修改.
+- [acats-grading](https://github.com/simonjwright/ACATS-grading) -用于对ACATS结果进行评分的工具，已针对类似Unix的系统进行了修改.
 
 #### Generation
 - [asn1scc](https://github.com/ttsiodras/asn1scc) -ASN1SCC：Ada类型声明和编码器/解码器的开源ASN.1生成器.
@@ -356,7 +356,7 @@
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) -Ada的语言服务器协议.
 - [ada-lsp-client](https://github.com/Alex-Gamper/Ada-LanguageServer) -LSP客户端的原型实现-Visual Studio 2017
 - [ada-traits-containers](https://github.com/AdaCore/ada-traits-containers) -用于算法和容器的通用Ada库.
-- [dequesterity](https://sourceforge.net/projects/dequesterity/) -由构造块组成的双端队列/缓冲区泛型，可以通过各种方式组合以创建更高的抽象缓冲区.
+- [dequesterity](https://sourceforge.net/projects/dequesterity/) -由构建块组成的双端队列/缓冲区泛型，可以通过各种方式组合以创建更高的抽象缓冲区.
 - [pragmarc](https://github.com/jrcarter/PragmARC) -来自PragmAda S / W Engineering的PragmAda可重用组件（PragmARC）.
 - [booch95](https://sourceforge.net/projects/booch95/) -Ada 95 Booch组件是Grady Booch的C ++组件的一部分.
 - [ada-id](https://github.com/anthony-arnold/AdaID) -用于生成UUID的简单Ada库.
@@ -427,7 +427,7 @@
 - [zip-ada](https://github.com/zertovitch/zip-ada) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
 - [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维条形码，如QR码）.
+- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维二维码，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理，最常见）的访问例程库.
 
@@ -444,6 +444,7 @@
 - [engine-3d](https://github.com/zertovitch/engine-3d) -用于DOS-talgics的3D引擎.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
 - [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，可以进行音乐调律的实验，例如音准音阶，均等和历史气质，微音阶和大音阶音阶以及非西方音阶.
+- [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound)  -适用于Ada应用程序的linux声音播放程序包，该程序包可以异步启动和停止音乐循环以及启动瞬态声音.  适用于游戏.
 
 #### Localization
 - [translator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Translator.html) -Ada包，用于编写独立于语言的消息.

@@ -3,22 +3,15 @@
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
-	<br>
-	<!-- <hr> -->
 	<p>
-		<!-- <p>
+		<p>
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">我的开源工作得到了社区的支持</a>
 			</sup>
-		</p> -->
+		</p>
 		<br>
-		<br>
-		<h3 align="center"> <a href="https://www.producthunt.com/posts/jiffy-2">我的用于发现和共享GIF的新macOS应用已在Product Hunt中</a> </h3></h3>
 		<br>
 	</p>
-	<hr>
-	<br>
-	<br>
 	<br>
 	<br>
 </div>
@@ -88,7 +81,7 @@
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) -虚拟家庭助理.
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) -专为开发人员设计的云计算平台.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) -Google的移动SDK，可通过Dart编写的单个代码库构建本机iOS和Android应用.
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) -开源的家庭自动化，将本地控制和隐私放在首位.
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) -开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) -建立在Google Cloud Platform上的应用程式开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) -一组软件库和工具，可帮助您构建机器人应用程序.
@@ -138,7 +131,7 @@
 - [Elixir](https://github.com/h4cc/awesome-elixir#readme)
 - [Elm](https://github.com/sporto/awesome-elm#readme)
 - [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
-- [Julia](https://github.com/svaksha/Julia.jl#readme) -旨在满足高性能数值分析和计算科学需求的高级动态编程语言.
+- [Julia](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) -倾向于系统编程和嵌入式，资源受限的软件的通用语言.
@@ -419,7 +412,7 @@
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) -对象关系数据库.
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) -面向文档的NoSQL数据库.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) -分布式，可扩展的大数据存储.
-- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) -帮助使用非关系型，分布式，开源和水平可伸缩的数据库.
 - [Contexture](https://github.com/ltchris/awesome-contexture#readme) -从诸如ElasticSearch和MongoDB的不同后备数据存储中提取查询/过滤器和结果/聚合.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) -使数据库处理变得更加容易的一切.
 
@@ -514,11 +507,12 @@
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
+- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) -用于几乎同时交换媒体和数据的网络协议.
 
 ## Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) -面向软件开发人员的比特币服务和工具.
-- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
+- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) -开源分布式结算网络.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) -非金融区块链应用.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) -开源分散式微博网络.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) -用于智能合约开发的分布式计算平台.
@@ -547,6 +541,7 @@
 - [TAP](https://github.com/sindresorhus/awesome-tap#readme) -测试任何协议.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) -负载测试和性能评估工具.
 - [k6](https://github.com/k6io/awesome-k6#readme) -开源，以开发人员为中心的性能监控和负载测试解决方案.
+- [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) -Node.js库，可通过单个API自动执行Chromium，Firefox和WebKit.
 
 ## Miscellaneous
 
@@ -606,7 +601,7 @@
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) -动态跟踪框架.
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) -增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
@@ -665,6 +660,6 @@
 ## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
+- [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) -使用浏览器扩展程序从Awesome数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) -一个简单的命令行工具，可以深入研究真棒列表.

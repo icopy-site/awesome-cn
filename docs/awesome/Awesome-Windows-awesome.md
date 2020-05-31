@@ -26,7 +26,7 @@
 - [AudioNodes](https://audionodes.com/)  -模块化音频制作套件，具有多轨音频混合，音频效果，参数自动化，MIDI编辑，合成，云制作等.  ！[免费软件] [免费软件图标]
 - [CDex](http://www.cdex.fr/)  -CD Ripper（法语站点，英语程序）.  ！[免费软件] [免费软件图标]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/)  -音频播放器，它试图使组织和聆听音乐尽可能简单美观.  ！[免费软件] [免费软件图标]
-- [Exact Audio Copy](http://www.exactaudiocopy.de/) -几乎以每种格式将文件从CD传输到PC.还具有一些非常漂亮的功能.
+- [Exact Audio Copy](http://www.exactaudiocopy.de/) -几乎以每种格式将文件从CD传输到PC.还具有一些漂亮的功能.
 - [Foobar2000](http://www.foobar2000.org/)  -适用于Windows的免费音频播放器，支持多种音频格式，并具有许多很酷的功能.  ！[免费软件] [免费软件图标]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm)  -收集DirectShow过滤器，VFW / ACM编解码器和工具.  ！[免费软件] [免费软件图标]
 - [Kodi](https://kodi.tv/)  -免费和开源的家庭影院软件.  [！[开源软件] [oss图标]]（https://github.com/xbmc）！[免费软件] [免费软件图标]
@@ -51,10 +51,6 @@
 - [Telegram](https://desktop.telegram.org/)  -专注于速度和安全性的消息传递应用程序，它超级快速，简单且免费.  [！[开源软件] [OSS图标]]（https://telegram.org/apps）！[免费软件] [免费软件图标]
 - [Waow](http://dedg3.com/wao/)  -出色的WhatsApp Web客户端，可为您提供最佳的WhatsApp体验.  ！[免费软件] [免费软件图标]
 - [Franz](https://meetfranz.com/)  -适用于WhatsApp，Facebook Messenger，Slack，Telegram等的消息传递应用程序.  [！[开源软件] [OSS图标]]（https://github.com/meetfranz/franz）！[免费软件] [免费软件图标]
-- [Quassel](http://quassel-irc.org/)  -Quassel IRC是一个现代的，跨平台的分布式IRC客户.  [！[开源软件] [oss图标]]（http://quassel-irc.org/）！[免费软件] [免费软件图标]
-- [Riot](https://about.riot.im/)  -适用于Matrix.org生态系统的分散式加密通讯应用程序.  [！[开源软件] [oss图标]]（https://github.com/vector-im/riot-web）！[免费软件] [免费软件图标]
-- [Telegram](https://desktop.telegram.org/)  -专注于速度和安全性的消息传递应用程序，它超级快速，简单且免费.  [！[开源软件] [oss图标]]（https://telegram.org/apps）！[免费软件] [免费软件图标]
-- [Waow](http://dedg3.com/wao/)  -出色的WhatsApp Web客户端，可为您提供最佳的WhatsApp体验.  ！[免费软件] [免费软件图标]
 
 ### Compression
 
@@ -67,13 +63,13 @@
 ### Customization
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)  -允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能.  ！[免费软件] [免费软件图标]
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000一样.[！[开源软件] [oss图标]]（https://github.com/passionate-coder/Classic-Start）！[免费] [免费软件]
+- [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000一样.[！[开源软件] [oss图标]]（https://github.com/passionate-coder/Classic-Start）！[免费软件] [免费软件]
 - [Clover](http://en.ejie.me/)  -将多选项卡功能添加到Windows资源管理器.  ！[免费软件] [免费软件图标]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  -通过系统托盘进行每个应用程序的音量控制.  [！[开源软件] [oss图标]]（https://github.com/File-New-Project/EarTrumpet）！[免费软件] [免费软件图标]
 - [QTTabBar](http://qttabbar.wikidot.com/)  -通过标签和额外的文件夹视图扩展资源管理器.  ！[免费软件] [免费软件图标]
 - [Rainmeter](https://www.rainmeter.net/)  -Rainmeter使您可以在桌面上显示可自定义的皮肤，从硬件使用情况表到功能齐全的音频可视化器.  [！[开源软件] [oss图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
 - [Search Deflector](https://github.com/spikespaz/search-deflector)  -一个小型程序，它将从Windows“开始”菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  [！[开源软件] [oss图标]]（https://github.com/spikespaz/search-deflector）！[免费软件] [免费软件图标]
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)  -使Windows任务栏透明.  [！[开源软件] [oss图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)  -可让您更改Windows 10登录屏幕的背景.  [！[开源软件] [oss图标]]（https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer）！[免费软件] [免费软件图标]
 - [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) -如果使用多个监视器，则可以在每个监视器上显示单独的任务栏.
 
@@ -89,12 +85,12 @@
 ### Developer Tools
 
 - [Cacher](https://www.cacher.io/) -具有Gist同步，VSCode / Atom / Sublime软件包和功能齐全的Web客户端的基于云的，团队启用的代码段管理器.
-- [DB Browser for SQLite](http://sqlitebrowser.org/) -用于创建，设计和编辑与SQLite兼容的数据库文件的高质量，可视，开放源代码工具[！[开源软件] [oss图标]]（http://sqlitebrowser.org/）
+- [DB Browser for SQLite](http://sqlitebrowser.org/) -用于创建，设计和编辑与SQLite兼容的数据库文件的高质量，直观，开放源代码的工具[！[开源软件] [oss图标]]（http://sqlitebrowser.org/）
 - [ExtendsClass](https://extendsclass.com/) -开发人员的在线工具（REST / SOAP客户端，SQLite浏览器，Regex测试器，XPath测试器）！[免费软件] [免费软件图标]
-- [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
+- [Fiddler](http://www.telerik.com/fiddler) -Web调试代理.
 - [FileZilla](https://filezilla-project.org/)  -FTP，FTPS和SFTP客户端.  [！[开源软件] [oss图标]]（https://download.filezilla-project.org/client/）！[免费软件] [免费软件图标]
 - [Fork](https://git-fork.com/)  -适用于Windows（和Mac）的快速友好的Git客户端.  ！[免费软件] [免费软件图标]
-- [Git Extensions](https://gitextensions.github.io/)  -强大且易于使用的Git UI.  [！[开源软件] [oss图标]]（https://github.com/gitextensions/gitextensions）！[免费软件] [免费软件图标]
+- [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][oss icon]](https://github.com/gitextensions/gitextensions) ![Freeware][freeware icon]
 - [GitHub Desktop](https://desktop.github.com/)  -GitHub Desktop是一个基于Electron的开源GitHub应用.  [！[开源软件] [oss图标]]（https://github.com/desktop/desktop）！[免费软件] [免费软件图标]
 - [GitKraken](https://www.gitkraken.com/)  -一个漂亮的，跨平台的Git客户端.  ！[免费软件] [免费软件图标]
 - [HeidiSQL](http://www.heidisql.com/) -适用于MySQL，MariaDB，Microsoft SQL Server和PostgreSQL的强大易用的客户端.
@@ -154,7 +150,7 @@
 ### Email
 
 - [Mailbird](https://www.mailbird.com/) -IMAP和POP3电子邮件客户端，具有自定义，完整的触摸支持和多语言支持的功能.
-- [Mailspring](https://getmailspring.com/) - A fast and maintained fork of Nylas Mail, built on modern web technologies. [![Open-Source Software][oss icon]](https://github.com/Foundry376/Mailspring) ![Freeware][freeware icon]
+- [Mailspring](https://getmailspring.com/)  -基于现代网络技术的Nylas Mail快速维护叉.  [！[开源软件] [oss图标]]（https://github.com/Foundry376/Mailspring）！[免费软件] [免费软件图标]
 - [Nylas Mail](https://www.nylas.com/download/)  -建立在现代网络上的可扩展桌面邮件应用程序.  [！[开源软件] [oss图标]]（https://github.com/nylas/N1）！[免费软件] [免费软件图标]
 - [Postbox](https://postbox-inc.com/) -强大的电子邮件应用程序
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)  -具有简约设计的电子邮件客户端.  [！[开源软件] [oss图标]]（https://developer.mozilla.org/zh-CN/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build）！[免费软件] [免费软件图标]
@@ -289,7 +285,7 @@
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html)  -免费的多合一CPU监控工具.  ！[免费软件] [免费软件图标]
 - [Econap](https://econap.de)  -在系统忙时防止进入睡眠模式.  ！[免费软件] [免费软件图标]
 - [Ext2Fsd](http://www.ext2fsd.com/)  -Windows的开源ext3 / 4文件系统驱动程序.  [！[开源软件] [oss图标]]（https://github.com/matt-wu/Ext3Fsd）！[免费软件] [免费软件图标]
-- [ExifCleaner](https://exifcleaner.com)  -通过拖放从图像和视频中删除exif元数据.  [！[开源软件] [oss图标]]（https://github.com/szTheory/exifcleaner）！[免费软件] [免费软件图标]
+- [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ![Freeware][freeware icon]
 - [Far](http://www.farmanager.com/index.php?l=en)  -文件和存档管理器.  诺顿指挥官的克隆.  [！[开源软件] [oss图标]]（http://sourceforge.net/projects/farmanager/）
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) -支持多种格式的无损文件大小优化器.
 - [Fraps](http://www.fraps.com/)-视频游戏捕获屏幕录像机，可与所有使用DirectX或OpenGL技术的游戏一起使用.
@@ -336,7 +332,7 @@
 
 ### Proxy and VPN Tools
 
-- [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
+- [Algo](https://github.com/trailofbits/algo) -云中的个人IPSEC VPN.
 
 ### Video
 

@@ -36,6 +36,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [abc](https://github.com/zhmushan/abc) -更好的Deno框架来创建Web应用程序.
 - [alosaur](https://github.com/alosaur/alosaur) -Alosaur-具有许多装饰器的Deno Web框架.
 - [aqua](https://github.com/l2ig/aqua) -用于Deno的最小和快速的Web框架.
+- [autopilot](https://github.com/divy-work/autopilot-deno) -自动驾驶-使用Deno进行跨平台的Web自动化.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) -格式化字节（Uint8Array，ArrayBufferView等）输出，在调试IO功能时很有用.
 - [cac](https://github.com/cacjs/cac) -用于构建命令行应用程序的简单而强大的框架.
 - [camelcase](https://github.com/denolib/camelcase) -将破折号/点号/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.

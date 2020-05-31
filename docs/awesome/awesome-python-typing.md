@@ -15,6 +15,7 @@
 - [pytype](https://github.com/google/pytype) -用于检查和推断Python代码类型的工具-无需类型注释.
 - [PyCharm](https://www.jetbrains.com/pycharm/) -专业开发人员的IDE.
 - [pyright](https://github.com/Microsoft/pyright)  -快速类型检查器，适用于大型Python源库.  它可以在“监视”模式下运行，并在修改文件后执行快速的增量更新.
+- [pyanalyze](https://github.com/quora/pyanalyze) -适用于Python的可扩展静态分析器和类型检查器.
 
 ## Dynamic type checkers
 
@@ -64,7 +65,7 @@
 
 ### Working with types
 
-- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数的运行时类型和返回值，并可以基于运行时收集的类型自动生成存根文件，甚至可以将草稿类型注释直接添加到Python代码中.
+- [MonkeyType](https://github.com/instagram/MonkeyType) -收集函数参数的运行时类型和返回值，并可以基于运行时收集的类型自动生成存根文件，甚至将草稿类型注释直接添加到您的Python代码中.
 - [merge_pyi](https://github.com/google/pytype/tree/master/pytype/tools/merge_pyi) -pytype工具链的一部分，将存根文件应用于源代码.
 - [pyannotate](https://github.com/dropbox/pyannotate) -根据调用参数和运行时观察到的返回类型，将注释插入源代码中.
 - [pytest-annotate](https://github.com/kensho-technologies/pytest-annotate) -pytest的Pyannotate插件.

@@ -42,7 +42,7 @@
     * Amazon SQS-一百万个消息队列请求
     * Amazon CodeBuild-每月100分钟的构建时间
     * Amazon Code Commit-每月5位活跃用户
-    * Amazon Code Pipeline-每月1条活动管道
+    * Amazon Code Pipeline - 1 active pipeline per month
     *完整的详细列表-https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
 
   * [Microsoft Azure](https://azure.microsoft.com)
@@ -440,6 +440,7 @@
   * [algolia.com](https://www.algolia.com/)  —托管的按需输入（即时）.  免费的黑客计划最多10,000个文档和100,000个操作.  可为社区/开源项目提供更大的免费计划
   * [bonsai.io](https://bonsai.io/) —释放1 GB内存和1 GB存储空间
   * [searchly.com](http://www.searchly.com/) —免费2个索引和20 MB存储空间
+  * [pagedart.com](https://pagedart.com/)  -AI搜索即服务的免费层包括1000个文档，50000个搜索.  对于有价值的项目，可以使用更大的免费套餐.
 
 ## Email
 
@@ -632,7 +633,7 @@
   * [noip](https://www.noip.com/) —动态dns服务，每30天最多可免费提供3个主机名并进行确认
   * [ns1.com](https://ns1.com/) —数据驱动DNS，自动流量管理，500k免费查询
   * [pointhq.com](https://pointhq.com/developer) —在Heroku上免费托管DNS.
-  * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting, anycast, 10 geo zones
+  * [selectel.com](https://selectel.com/services/dns/) —免费DNS托管，任意播，10个地理区域
   * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) —免费的DNS托管.
   * [Yandex.Connect](https://connect.yandex.com/pdd/) —最多可容纳1,000位用户的免费电子邮件和DNS托管
   * [zilore.com](https://zilore.com/en/dns) —免费的DNS托管.

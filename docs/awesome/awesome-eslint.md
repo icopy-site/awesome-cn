@@ -73,7 +73,7 @@
 - [React](https://github.com/yannickcr/eslint-plugin-react) -整理React和JSX的规则.
 - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) -整理React Hooks的规则.
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) -响应本机特定的掉毛规则.
-- [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) -RequireJS的Linting规则.
+- [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 - [VueJS](https://github.com/vuejs/eslint-plugin-vue) -VueJS插件.
 - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) -VueJS中的范围CSS插件.
 
@@ -94,6 +94,7 @@
 - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) -将Flow作为ESLint插件运行.
 - [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) -在HTML`中添加JavaScript <script>` tags.
 - [import](https://github.com/benmosher/eslint-plugin-import) -整理ES2015 +导入/导出语法，并防止文件路径和导入名称拼写错误.
+- [ie11](https://github.com/Volox/eslint-plugin-ie11) -在IE11中检测不受支持的ES6功能.
 - [JSON](https://github.com/azeemba/eslint-plugin-json) -整理您的JSON文件.
 - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format)  -整理，格式化和自动修复JSON文件.  对您的“ package.json”进行排序.
 - [Markdown](https://github.com/eslint/eslint-plugin-markdown) -在Markdown中整理JavaScript.
@@ -107,6 +108,7 @@
 - [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) -各种很棒的ESLint规则.
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) -有关ESLint指令注释的最佳做法（`/ * eslint-disable * /`等）.
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) -用于整理ESLint插件的ESLint插件.
+- [eslint-plugin-putout](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) -集成了ESLint插件 [putout](https://github.com/coderaiser/putout) 轻而易举地进入ESLint.
 
 ### Practices
 
@@ -121,7 +123,7 @@
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -是2019年，您仍然使用循环吗？
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询语法的内容.
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
-- [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects.
+- [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
 -表现
   - [DOM](https://github.com/amilajack/eslint-plugin-dom)
   - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) （也有一个 [config](https://github.com/Raynos/eslint-config-perf-standard))
@@ -151,6 +153,7 @@
   - [permitted keywords](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords)
   - [with chai-as-promised plugin](https://github.com/fintechstudios/eslint-plugin-chai-as-promised)
   - [globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
+- [Cucumber](https://github.com/darrinholst/eslint-plugin-cucumber) -黄瓜的整理规则.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) -茉莉花的整理规则.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) -嘲笑的规则.
 - Mocha
