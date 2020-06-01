@@ -29,7 +29,7 @@
 - [shortcut-box](https://github.com/artemnovichkov/shortcut-box) -更新固定要点以包含随机的IDE快捷方式
 - [youtube-box](https://github.com/SinaKhalili/youtube-box) -更新固定要领以显示您的最新YouTube视频
 - [book-box](https://github.com/amorriscode/book-box) -更新固定要点，以包含您的最新读物
-
+- [toggl-box](https://github.com/tobimori/toggl-box) -更新固定的要点以包含您的每周Toggl时间跟踪统计信息
 
 ## GitHub
 

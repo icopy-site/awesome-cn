@@ -595,7 +595,7 @@ AWS存储库：
 * [amazon-kinesis-client-nodejs :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-nodejs) -Node.js的客户端库.
 * [amazon-kinesis-client-python :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-python) -Python客户端库.
 * [amazon-kinesis-client-ruby :fire:](https://github.com/awslabs/amazon-kinesis-client-ruby) -Ruby的客户端库.
-* [amazon-kinesis-client :fire::fire:](https://github.com/awslabs/amazon-kinesis-client) Amazon Kinesis的客户端库.
+* [amazon-kinesis-client :fire::fire::fire:](https://github.com/awslabs/amazon-kinesis-client) Amazon Kinesis的客户端库.
 * [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) -与其他AWS和非AWS服务集成的库.
 * [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) -样本数据可视化应用程序.
 * [amazon-kinesis-learning](https://github.com/awslabs/amazon-kinesis-learning) -学习运动学发展.
@@ -1182,7 +1182,7 @@ AWS会议：
 * 102Tbps的数据中心网络容量.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 *自2014年以来推出了500多种主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *所有其他14个云提供商的总和是AWS总容量的1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*当AWS成为年收入达7B美元的企业（2004年）时，每天都会增加足够的新服务器容量来支持Amazon的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+*每天，AWS成为年收入7B的企业（2004年）时，都会添加足够的新服务器容量来支持Amazon的所有全球基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 

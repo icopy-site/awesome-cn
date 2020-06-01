@@ -915,6 +915,7 @@ Projects
 
 ## Operating System
 
+* [Bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
 * [Fedora CoreOS](https://getfedora.org/en/coreos/)
 * [Flatcar Container Linux](https://www.flatcar-linux.org/)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
@@ -994,6 +995,7 @@ Books
 向我们提供信息*
 
 * [Cloud Native DevOps with Kubernetes](http://shop.oreilly.com/product/0636920175131.do) 通过 [John Arundel](https://twitter.com/bitfield), [Justin Domingus](https://justindomingus.com/) ([blog](https://cloudnativedevopsblog.com))
+* [Cloud Native Infrastructure](http://cnibook.info) 通过 [Justin Garrison](https://justingarrison.com) 和 [Kris Nòva](https://www.nivenly.com/)
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
 * [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer)，孙建波和ZJU SEL实验室
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) 杰夫·尼克洛夫（Jeff Nickoloff）和斯蒂芬·库恩兹利（Stephen Kuenzli）
