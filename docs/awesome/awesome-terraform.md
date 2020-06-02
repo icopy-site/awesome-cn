@@ -68,7 +68,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ### Azure
 
-* [Learning HashiCorp Terraform](https://www.g10s.io/hashicorp-terraform/) -Azure指南.
+* [Learning HashiCorp Terraform](https://www.g10s.io/hashicorp-terraform/) - Guide for Azure.
 * [New Terraform Azure Automation Resources](https://bgelens.nl/terraform-automation-resources/) -Azure自动化.
 * [Terraforming Azure PaaS](https://devkimchi.com/2019/01/21/terraforming-azure-paas/) -在Azure上部署PaaS资源.
 
@@ -77,7 +77,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) -说明如何使用远程状态在Terraform配置之间共享数据.
 * [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) -显示由Terraform支持的基础架构的幕后解决方案 [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) 在 [Segment](https://segment.com/).
 * [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
-* [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) -在野外使用Terraform有一些来之不易的经验，以及一些操作上的智慧.
+* [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
 * [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) -有关使用Terraform来提供示例AWS架构的演示的说明.
 * [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimation) -基于Terraform计划（0.12+）或Terraform状态（任何版本）的匿名，安全和免费的Terraform成本估算.
 
@@ -128,7 +128,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Providers
 
-* [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) -  Plugin for Alibaba Cloud.
+* [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) -阿里云插件.
 * [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) -Amazon Web Services插件.
 * [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) -Microsoft Azure插件.
 * [terraform-provider-datadog](https://github.com/terraform-providers/terraform-provider-datadog) -Datadog插件.
@@ -159,7 +159,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Testing
 
-* [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) -提供了一组Test Kitchen插件，使系统可以使用Test Kitchen聚合Terraform配置并通过InSpec控件验证生成的Terraform状态.
+* [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) -提供了一组Test Kitchen插件，使系统可以使用Test Kitchen融合Terraform配置并通过InSpec控件验证生成的Terraform状态.
 * [rspec-terraform](https://github.com/bsnape/rspec-terraform) -针对您的Terraform模块的RSpec测试.
 * [terraform-compliance](https://github.com/eerkunt/terraform-compliance) -Terraform文件的BDD测试.
 * [terraform_validate](https://github.com/elmundio87/terraform_validate) -协助在Terraform中实施用户定义的标准.
@@ -199,13 +199,13 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform.py](https://github.com/ciscocloud/terraform.py) -Ansible动态清单脚本，用于解析Terraform状态文件.
 * [terraformer](https://github.com/GoogleCloudPlatform/terraformer)  -CLI工具，用于从现有基础结构生成terraform文件.  代码基础架构.  支持的提供商很少.
 * [terraforming](https://github.com/dtan4/terraforming)  -将现有的AWS资源导出为Terraform样式（tf，tfstate）.  类似于`terraformer`.
-* [terragrunt](https://github.com/gruntwork-io/terragrunt) -Terragrunt是Terraform的薄包装，它支持锁定Terraform状态并执行最佳实践.
+* [terragrunt](https://github.com/gruntwork-io/terragrunt) -Terragrunt是Terraform的薄包装，它提供了额外的工具来使您的Terraform配置保持干燥，与多个Terraform模块一起使用以及管理远程状态.
 * [terrahelp](https://github.com/opencredo/terrahelp) -旨在提供补充功能的命令行实用程序，在使用Terraform时有时会证明是有用的.
 * [terrahub](https://github.com/TerraHubCorp/terrahub)  -TerraHub是Terraform自动化和编排工具.  与企业友好的GUI无缝集成到console.terrahub.io中，以显示实时Terraform执行以及历史Terraform运行的审核和报告功能.
 * [terrascan](https://github.com/cesar-rodriguez/terrascan) -收集用于Terraform模板的静态代码分析的安全性和最佳实践测试
 * [Checkov](https://github.com/bridgecrewio/checkov/) -用于Terraform&gt; = 0.12的Terraform静态分析工具
 * [tfenv](https://github.com/tfutils/tfenv) -受rbenv启发的Terraform版本管理器.
-* [tfjson](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON.
+* [tfjson](https://github.com/palantir/tfjson) -读取Terraform计划文件并将其转储为JSON的实用程序.
 * [tflint](https://github.com/wata727/tflint) -Terraform linter，用于检测“ terraform plan”无法检测到的错误
 * [tfmask](https://github.com/cloudposse/tfmask) -Terraform实用程序，可屏蔽“ terraform plan”和“ terraform apply”中的选择输出
 * [tfscaffold](https://github.com/tfutils/tfscaffold) -用于控制多环境多组件地形管理的AWS基础架构的框架.
@@ -237,7 +237,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) -通过本演练了解如何为Terraform提供商做出贡献或创建自己的提供商.
 * [Evolving Your Infrastructure with Terraform](https://www.youtube.com/watch?v=wgzgVm7Sqlk) -OpenCredo的CTO借助一些有趣的用例，全面了解了在现实世界中使用Terraform的情况.
 * [Going Multi-Cloud with Terraform and Nomad](https://www.youtube.com/watch?v=e42A4aBZUkQ).
-* [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  -Yevgeniy Brikman讨论了如何编写Terraform代码以使其可重用，可组合和可测试.  该演讲重点介绍了Terraform模块，还简要介绍了Terraform创建的要解决的问题，并简要介绍了Terraform基础知识（2017年10月约39分钟）.
+* [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  -Yevgeniy Brikman讨论了如何编写Terraform代码以使其可重用，可组合和可测试.  该演讲重点介绍了Terraform模块，还简要说明了Terraform所要解决的问题，并简要介绍了Terraform基础知识（2017年10月约39分钟）.
 * [How to Extend the Terraform Provider List](https://www.youtube.com/watch?v=2BvpqmFpchI) -在此演讲中，Paul将逐步介绍如何创建Terraform提供程序.
 * [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul) -Mitchell Hashimoto展示了如何使用Terraform来部署和扩展容器化工作负载.
 * [Production ChaosMonkey with Terraform](https://www.youtube.com/watch?v=CPI6W3LK0-g) -DigitalOcean如何使用Terraform进行生产集成测试.

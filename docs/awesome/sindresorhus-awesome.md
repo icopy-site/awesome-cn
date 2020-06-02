@@ -471,6 +471,7 @@
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) -基于PHP的轻量级CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) -基于PHP的可扩展CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) -内容优先的CMS.
+- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) -.NET数字营销平台，它将CMS与用于管理多个网站的工具结合在一起.
 
 ## Hardware
 
@@ -601,7 +602,7 @@
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) -动态跟踪框架.
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) -增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) -神奇宝贝和神奇宝贝GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) -通过聊天管理技术和业务运营.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) -虚假的程序员相信.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) -通过将实现与不断发展的模型联系起来，针对复杂需求的软件开发方法.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) -通过技术进行自我跟踪.
@@ -660,6 +661,6 @@
 ## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
-- [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
+- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) -使用浏览器扩展程序从Awesome数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) -一个简单的命令行工具，可以深入研究真棒列表.

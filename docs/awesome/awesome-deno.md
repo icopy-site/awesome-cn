@@ -9,6 +9,7 @@ Deno是使用V8并内置于Rust的JavaScript和TypeScript的简单，现代且�
 该列表是最佳Deno模块和资源的集合.
 
 
+
 ## Docs
 
 ### Official Docs
@@ -47,7 +48,6 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [dejs](https://github.com/syumai/dejs) -用于Edeno的Ejs模板引擎.
 - [denon](https://github.com/denosaurs/denon/blob/master/mod.ts) -具有等待生成器的文件监视程序.
 - [deno_case_style](https://github.com/zekth/deno_case_style)  -用于不同大小写样式的字符串验证器和格式化程序.  例如：camelCase等.
-- [deno-checksum](https://github.com/manyuanrong/deno-checksum) -SHA1 / MD5算法.
 - [deno-context](https://github.com/code-hex/deno-context)  -将期限，取消和其他要求范围的值传播给多个承诺.  行为就像Go的上下文.
 - [deno_cron](https://github.com/rbrahul/deno_cron) -cron Job调度程序，使您可以编写具有大量灵活性的可读cron语法
 - [deno-deamon](https://github.com/manyuanrong/deno-deamon) -使Deno程序在后台运行.
@@ -59,6 +59,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-globrex](https://github.com/hayd/deno-globrex) -globrex的端口为deno，globex的端口为正则表达式.
 - [deno-mysql](https://github.com/manyuanrong/deno_mysql) -MySQL数据库驱动程序.
 - [deno_mongo](https://github.com/manyuanrong/deno_mongo) -MongoDB数据库驱动程序.
+- [deno_notify](https://github.com/PandawanFr/deno_notify) -在所有平台上发送桌面通知.
 - [deno-opn](https://github.com/hashrock/deno-opn)  -打开网站，文件，可执行文件之类的东西.  跨平台.
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) -用于管理Deno本机插件依赖项的库.
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) -色彩鲜艳的assertE等于deno.
@@ -151,7 +152,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [typescript-deno-plugin](https://github.com/justjavac/typescript-deno-plugin) -Deno语言服务插件，在编辑器内的TypeScript文件中提供智能感知.
 - [udd](https://github.com/hayd/deno-udd) -更新Deno依赖性：将导入语句更新为最新发布的版本.
 - [velociraptor](https://github.com/umbopepato/velociraptor) -Deno的npm风格脚本执行器.
-- [vscode-deno](https://github.com/justjavac/vscode-deno) -VS Code扩展，使用typescript-deno-plugin提供Deno支持.
+- [vscode-deno](https://github.com/denoland/vscode_deno) -使用TypeScript Deno语言服务插件提供VS支持的VS Code扩展.
 
 ## Articles
 
@@ -229,6 +230,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [Telegram chat](https://t.me/denoland)
 
 ### Spanish
+
 - [Hola Deno! . 🦕](https://medium.com/javascript-espa%C3%B1ol/hola-deno-f31f9f6f2c84)
 - [Así puedes crear tu primera API REST con Deno](https://medium.com/@mpampols/as%C3%AD-puedes-crear-tu-primera-api-rest-con-deno-a9094ee5c0b2)
 - [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)

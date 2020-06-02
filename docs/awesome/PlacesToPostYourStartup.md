@@ -40,21 +40,22 @@
 * Appoid-http://appiod.com/submit-app-for-review/
 * appPicker-http://www.apppicker.com/
 * Apps 400-http://apps400.com/submit-your-application-for-review
-*应用程式清单-http://appslisto.com/submit-your-app/
+*应用列表-http://appslisto.com/submit-your-app/
 * Apps Mommy-http://appsmamma.com/submit-your-app/
 *应用程序镜像-http://www.appsmirror.com/submit-your-app-for-review
 * AppsNow-http://appsnow.us/submit-app-for-review/
 * AppsThunder-http://appsthunder.com/submit-your-app/
 * AppStorm-http://appstorm.net/
-* Appvita  -  http://www.appvita.com/
+* Appvita-http://www.appvita.com/
 * AppZapp-http://www.appzapp.net/en/app-review-request/
 *北极启动-http://arcticstartup.com/
 * Beta绑定-http://www.betabound.com/announce/
 * Beta页-https://betapage.co/
 * Betafy-https://www.betafy.co/easysignup/startup
-* BetaList - https://betalist.com/submit
+* BetaList-https://betalist.com/submit
 *更好的测试-https://beterest.com/submit-startup/
 * Boing Boing-http://boingboing.net/sub/
+* Broadwise.org - https://broadwise.org/
 * BuiltInChicago-http://www.builtinchicago.org/send-us-tip
 * Capterra-http://www.capterra.com/vendors/sign-up
 * CloudShowPlace-http://www.cloudshowplace.com/add-your-company/
@@ -63,9 +64,7 @@
 *关于创业公司的疯狂-http://www.crazyaboutstartups.com/index.php/share-your-startup-form
 * CrozDesk-https://vendor.crozdesk.com/user/signup
 * Crunch Base - https://www.crunchbase.com/#/home/index
-* CSS Mania-http://www.cssmania.com/submit/
 *设计师新闻-https://www.designernews.co/
-* Digg-http://digg.com/submit
 * Discova-http://www.discova.co/
 *发现云-https://www.discovercloud.com/become-a-vendor
 * Erlibird-https://erlibird.com/beta-testing
@@ -122,7 +121,8 @@
 *启动集合-http://startupcollections.com/
 *启动涂料-http://startupdope.com/submit-news/
 * Startup Inspire-https://www.startupinspire.com/submit
-*启动电梯-http://www.startuplift.com/
+*启动约翰-https://www.startupjohn.com/
+*启动升降机-http://www.startuplift.com/
 *创业排名-http://www.startupranking.com/
 *启动注册-http://startupregister.net/register-your-startup/
 *启动资源-https://startupresources.io
@@ -153,4 +153,4 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Matt McCaffrey](http://www.mattmccaffrey.com/) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Matt McCaffrey](http://www.mattmccaffrey.com/) 放弃了此作品的所有版权以及相关或邻近的权利.

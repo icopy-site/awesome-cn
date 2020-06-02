@@ -22,6 +22,7 @@
 - [Mono](https://github.com/fishpkg/fish-prompt-mono) -没有钟声或口哨声，最小的外壳提示.
 - [Metro](https://github.com/fishpkg/fish-prompt-metro) -具Git意识，空间意识，电力线提示.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) -健壮，可识别git的电力线提示.
+- [Sashimi](https://github.com/isacikgoz/sashimi) -用生鱼制成的极简鱼提示.
 
 ### Commands, utilities, functions
 

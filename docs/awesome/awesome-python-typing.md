@@ -62,6 +62,7 @@
 
 - [pytest-mypy](https://github.com/dbader/pytest-mypy) -Pytest的Mypy静态类型检查器插件.
 - [pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins) -Pytest插件，用于测试mypy类型，存根和插件.
+- [pytest-mypy-testing](https://github.com/davidfritzsche/pytest-mypy-testing) -Pytest插件来测试mypy静态类型分析.
 
 ### Working with types
 

@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Wardley Maps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map)  是一项可帮助您检查环境，识别即将发生的变化并正确选择操作的技术.  通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建世界的视觉表示，玩假设游戏，并选择支持的最佳方向和最佳措施.
+> [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map)  是一项可帮助您检查环境，识别即将发生的变化并正确选择操作的技术.  通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建自己的世界的可视化表示，玩假设游戏，并选择支持的最佳方向和最佳措施.
 
  这是有用的Wardley映射资源的列表.  短网址：**[list.wardleymaps.com](http://list.wardleymaps.com) **.  欢迎捐款！ [Contribution guidelines](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/contributing.md) 用于将某些东西添加到列表中. 
 
@@ -30,7 +30,7 @@
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) -专门介绍西蒙·沃德利（Simon Wardley）开创的策略映射技术的Wiki百科全书.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) -维基百科条目.
 - [Bits or pieces?](https://blog.gardeviance.org/) -Simon Wardley的博客.
-- [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) -通过以下方式创建和使用Wardley Map的分步指南 [E. Alex Hudson](https://twitter.com/ealexhudson) .  PDF / iPad / Kindle.
+- [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - A step-by-step guide to creating and using Wardley Maps by [E. Alex Hudson](https://twitter.com/ealexhudson) .  PDF / iPad / Kindle.
 
 ## Videos
 
@@ -63,6 +63,7 @@
 - [From values to rituals](https://medium.com/@swardley/from-values-to-rituals-b6f6ae7787bd) -2019年9月9日
 - [Exploring Brexit](https://medium.com/@swardley/exploring-brexit-2ea2f3f283c8)  -英国脱欧的第一个规则是“你错了”.  2019年9月5日.
 - [Exploring Culture](https://medium.com/@swardley/mapping-culture-ac164c0e17f0)  -映射文化.  2019年9月4日.
+- [Building a working map of Ethereum 1.0](https://chainstrat.substack.com/p/building-a-working-map-of-ethereum)  -10,000英尺的以太坊用户需求和功能视图.  2019年8月13日.
 - [What culture is right for you?](https://medium.com/@swardley/what-culture-is-right-for-you-ba892f1f3bc5) -2019年7月31日
 - [An illustration from Gerstner's book - Part 2](https://juliusgamanyi.com/2019/06/18/wardley-maps-an-illustration-from-gerstners-book-part-2/)  -绘制路易斯·格斯特纳（Louis Gerstner）的“谁说大象不能跳舞”.  2019年6月18日.
 - [Mapping Crypto: Common Pitfalls](https://blog.agostbiro.com/2019/06/mapping-crypto-common-pitfalls/)  -应对推出新型支付解决方案的挑战.  2019年6月14日.
@@ -113,7 +114,7 @@
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的方法指南.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -用于OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了LaTeX中绘制沃德利地图的过程.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -沃德利（Yard）映射调色板.
 
 ### Doctrine Assessement
@@ -124,7 +125,7 @@
 
 ### Mapping
 
-- [Atlas2](https://github.com/LeadingEdgeForum/atlas2) - Open source mapping tool. Hosted version available [here](https://atlas2.wardleymaps.com/).
+- [Atlas2](https://github.com/LeadingEdgeForum/atlas2)  -开源映射工具.  提供托管版本 [here](https://atlas2.wardleymaps.com/).
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具.  有关更新，请遵循 [@owardleymaps](https://twitter.com/owardleymaps)  在Twitter上.  提供托管版本 [here](https://onlinewardleymaps.com/).
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript)  -注意MapScript建立在Observable之上.  阅读他们 [Terms of Service](https://observablehq.com/terms-of-service) .  MapScript [feature requests](https://mapscript.canny.io/feature-requests) .  提供托管版本 [here](https://mapscript.org).
 

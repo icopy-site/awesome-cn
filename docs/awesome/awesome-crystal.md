@@ -43,8 +43,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [clang.cr](https://github.com/crystal-lang/clang.cr) -Libclang绑定
  * [crt.cr](https://github.com/maiha/crt.cr) -libncursesw和crt的绑定
  * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) -GNU科学图书馆绑定
- * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - Bindings for [Hunspell](https://hunspell.github.io/)
- * [curl-crystal](https://github.com/blocknotes/curl-crystal) - Bindings for [libcurl](https://curl.haxx.se/libcurl/)
+ * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) -的绑定 [Hunspell](https://hunspell.github.io/)
+ * [curl-crystal](https://github.com/blocknotes/curl-crystal) -的绑定 [libcurl](https://curl.haxx.se/libcurl/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) -的绑定 [Duktape](https://github.com/svaarala/duktape) JavaScript引擎
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) -的绑定 [libgphoto2](http://www.gphoto.org/) 图书馆
  * [icu.cr](https://github.com/olbat/icu.cr) -的绑定 [ICU](http://site.icu-project.org/) 图书馆
@@ -79,6 +79,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/crystal-ameba/ameba) -静态代码分析工具
+ * [linguist.cr](https://github.com/microgit-com/linguist.cr) -根据Github的Linguist使用多种方式查找文件中使用的编程语言
 
 ## Compression
  * [Crystar](https://github.com/naqvis/crystar) -Tar存档格式的读者和作家
@@ -86,7 +87,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [snappy](https://github.com/naqvis/snappy) -用于Crystal的Snappy压缩格式读取器/写入器
  * [Zip](https://crystal-lang.org/api/Zip.html) -zip格式的读者（Crystal stdlib）
  * [Zlib](https://crystal-lang.org/api/Zlib.html) -zlib格式的读者（Crystal stdlib）
- * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) - Bindings for [Zstandard](https://github.com/facebook/zstd) 压缩库
+ * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) -的绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
 
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) -加载.env文件
@@ -185,15 +186,15 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Game Development
  * [CrSFML](https://github.com/oprypin/crsfml) -绑定到 [SFML](https://www.sfml-dev.org/) 多媒体/游戏库
- * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) - Bindings for [Chipmunk](http://chipmunk-physics.net/)，一个快速，轻量的2D游戏物理库
+ * [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk) -的绑定 [Chipmunk](http://chipmunk-physics.net/)，一个快速，轻量的2D游戏物理库
  * [entitas.cr](https://github.com/spoved/entitas.cr) -Crystal的实体组件系统框架
  * [glove](https://github.com/ddfreyne/glove) -游戏开发库
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
 
 ## HTML/XML Parsing
- * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - Bindings for [Gumbo](https://github.com/google/gumbo-parser)，由Google制作的HTML5解析库
+ * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) -的绑定 [Gumbo](https://github.com/google/gumbo-parser)，由Google制作的HTML5解析库
  * [myhtml](https://github.com/kostya/myhtml) -包含CSS选择器的快速HTML5解析器
 
 ## HTTP
@@ -215,7 +216,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Image processing
  * [libpixel.cr](https://github.com/libpixel/libpixel.cr)
- * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - Bindings for [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口
+ * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) -的绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) -读取和写入PNG图像
 
 ## Implementations/Compilers
@@ -236,7 +237,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [ai4cr](https://github.com/drhuffman12/ai4cr) -人工智能（基于https://github.com/SergioFierens/ai4r）
  * [Cadmium](https://github.com/cadmiumcr/cadmium) -NLP库主要基于 [natural](https://github.com/NaturalNode/natural)
  * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
- * [mxnet.cr](https://github.com/toddsundsted/mxnet.cr) - Bindings for [MXNet](https://mxnet.incubator.apache.org/)
+ * [mxnet.cr](https://github.com/toddsundsted/mxnet.cr) -的绑定 [MXNet](https://mxnet.incubator.apache.org/)
  * [shainet](https://github.com/NeuraLegion/shainet) -SHAInet（纯水晶神经网络）
 
 ## Markdown/Text Processors
@@ -266,6 +267,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [pinger](https://github.com/spider-gazelle/pinger) -在不需要sudo的情况下Ping IP地址和DNS条目
  * [port_midi](https://github.com/jimm/crystal_port_midi) -PortMIDI跨平台MIDI I / O库的Crystal C绑定
  * [retriable.cr](https://github.com/Sija/retriable.cr) -简单的DSL重试失败的代码块
+ * [simple_retry](https://github.com/spider-gazelle/simple_retry) -重试失败代码块的简单工具
  * [ulid](https://github.com/SuperPaintman/ulid) -通用唯一词典分类标识符（ULID）
  * [zaru_crystal](https://github.com/szTheory/zaru_crystal) -文件名清理
 
@@ -368,7 +370,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crytic](https://github.com/hanneskaeufler/crytic) -变异测试框架
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) -与Capybara类似的自动浏览器测试
  * [mass-spec](https://github.com/c910335/mass-spec) -Web API测试库
- * [microtest](https://github.com/Ragmaanir/microtest) -专注于功率断言的小型自以为是的测试库
+ * [microtest](https://github.com/Ragmaanir/microtest) -专注于权力主张的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
@@ -398,6 +400,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [office365](https://github.com/PlaceOS/office365) -Microsoft Graph API包装器
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) 火
  * [raven.cr](https://github.com/sija/raven.cr) -Raven是的客户 [Sentry](https://github.com/getsentry/sentry)
+ * [stripe.cr](https://github.com/confact/stripe.cr) - Stripe api wrapper
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) -访问Twitter API的库
  * [web_finger](https://github.com/toddsundsted/web_finger) -WebFinger（https://tools.ietf.org/html/rfc7033）客户端
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) -与您的YNAB数据进行交互的库
@@ -487,7 +490,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * TextMate
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) -Crystal语法高亮显示，编译，格式化命令，摘要
  * 我来了
-   * [vim-crystal](https://github.com/rhysd/vim-crystal) -对Crystal的Vim文件类型支持
+   * [vim-crystal](https://github.com/vim-crystal/vim-crystal) -对Crystal的Vim文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) -对Slang模板引擎的Vim文件类型支持
  * Visual Studio代码
    * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) -VSCode中的Crystal语言支持

@@ -54,6 +54,10 @@
 
 - [vset](https://github.com/mulh8377/vset) -V项目的项目设置和配置工具.
 
+### Serialization
+
+- [protoc-v](https://github.com/emily33901/protoc-v) -Protobuf编译器和V插件.
+
 ## Libraries
 
 ### Command line interface

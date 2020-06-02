@@ -18,6 +18,14 @@
 
 ## Libraries
 
+您可以在其他地方找到MicroPython库：
+
+* [PyPi](https://pypi.org/search/?c=Programming+Language+%3A%3A+Python+%3A%3A+Implementation+%3A%3A+MicroPython)  -此过滤器仅显示PyPi上的MicroPython库.  注意：您不能通过pip安装micropython库.  看到 [MicroPython docs](https://docs.micropython.org/en/latest/reference/packages.html?highlight=upip) 有关upip的更多信息.
+* [GitHub Search](https://github.com/search?q=micropython) -在GitHub上搜索包含MicroPython的存储库.
+* [GitHub Topic - MicroPython](https://github.com/topics/micropython) -浏览GitHub主题以查找带有MicroPython标签的项目.
+* [Libraries.io](https://libraries.io/search?q=micropython) -Libraries.io查询MicroPython.
+* [GitLab Explore](https://gitlab.com/explore?sort=latest_activity_desc&utf8=%E2%9C%93&name=micropython&sort=latest_activity_desc) -在GitLab上浏览存储库.
+
 ### AI
 
 * [MicroMLP](https://github.com/jczic/MicroMLP) -用于MicroPython的微神经网络多层感知器（用于ESP32和Pycom模块）.
@@ -227,7 +235,7 @@
 * [st7789_mpy](https://github.com/devbis/st7789_mpy) -用于MicroPython的快速纯C驱动程序，可以处理ST7789芯片上的显示模块.
 * [st7789py_mpy](https://github.com/devbis/st7789py_mpy) -速度慢的MicroPython驱动程序，用于以240x240 ST7789显示，而无需使用AliPython编写的Ali Express的CS引脚.
 * [micropython-ili9341](https://github.com/jeffmer/micropython-ili9341) -用于ILI9341显示的MicroPython驱动程序.
-* [micropython-ili9341](https://github.com/tkurbad/micropython-ili9341) -ESP32上用于MicroPython的ILI9341 TFT驱动程序.
+* [micropython-ili9341](https://github.com/tkurbad/micropython-ili9341) - ILI9341 TFT driver for MicroPython on ESP32.
 
 #### LED Matrix
 
@@ -256,7 +264,7 @@
 * [micropython-ws2812-7seg](https://github.com/HubertD/micropython-ws2812-7seg) -使用WS2812 RGB LED的7段显示器.
 * [micropython-ws2812](https://github.com/JanBednarik/micropython-ws2812) -WS2812 RGB LED的驱动器.
 * [Official APA102](http://docs.micropython.org/en/latest/esp8266/quickref.html#apa102-driver) -ESP8266 APA102 / DotStar RGB LED驱动器.
-* [Official WS2811](http://docs.micropython.org/en/latest/esp8266/quickref.html#neopixel-driver) -ESP8266 WS2811 / NeoPixel RGB LED驱动器.
+* [Official WS2811](http://docs.micropython.org/en/latest/esp8266/quickref.html#neopixel-driver) - ESP8266 WS2811/NeoPixel RGB LED driver.
 * [tlc5940-micropython](https://github.com/oysols/tlc5940-micropython) -TLC5940 16通道LED驱动器的驱动器.
 * [ws2812-SPI](https://github.com/nickovs/ws2812-SPI) -高效的micropython WS2812（NeoPixel）驱动程序.
 * [micropython-ws2801](https://github.com/HeMan/micropython-ws2801) -一个MicroPython库，用于与WS2801 RGB LED串连接.
@@ -380,8 +388,12 @@
 #### Distance IR
 
 * [micropython-gp2y0e03](https://bitbucket.org/thesheep/micropython-gp2y0e03) -使用Sharp GP2Y0E03的IR-LED测距传感器.
-* [micropython-vl53l0x](https://bitbucket.org/thesheep/micropython-vl53l0x) -飞行时间激光测距传感器.
 * [micropython-vl6180](https://bitbucket.org/thesheep/micropython-vl6180) -飞行时间传感器，环境光传感器和红外发射器.
+
+#### Distance Laser
+
+* [micropython-vl53l0x](https://bitbucket.org/thesheep/micropython-vl53l0x) -飞行时间激光测距传感器.
+* [Qwiic_TOF_Module_RFD77402](https://github.com/ZIOCC/Qwiic_TOF_Module_RFD77402) -Qwiic TOF模块（RFD77402）飞行时间测距模块.
 
 #### Distance Ultrasonic
 
@@ -419,12 +431,12 @@
 
 #### Soil Moisture
 
-* [micropython-chirp](https://github.com/robberwick/micropython-chirp) -Chirp土壤湿度传感器的驱动程序.
+* [micropython-chirp](https://github.com/robberwick/micropython-chirp) - Driver for the Chirp Soil Moisture Sensor.
 
 #### Temperature Analog
 
 * [micropython-max31855](https://bitbucket.org/thesheep/micropython-max31855) -热电偶放大器，SPI接口.
-* [max31856](https://github.com/alinbaltaru/max31856) - Precision thermocouple to digital converter with linearization, SPI interface.
+* [max31856](https://github.com/alinbaltaru/max31856) -具有线性化，SPI接口的精密热电偶数字转换器.
 
 #### Temperature Digital
 
@@ -484,7 +496,7 @@
 
 ## Community
 
-* [MicroPython Forum](https://forum.micropython.org/) - Online community of over 6400 users discussing all things related to MicroPython.
+* [MicroPython Forum](https://forum.micropython.org/) -超过6400个用户的在线社区，讨论与MicroPython相关的所有事情.
 * [MicroPython on Twitter](https://twitter.com/micropython?lang=en) -在Twitter上关注MicroPython，获取最新新闻和更新.
 * [MicroPython on Facebook](https://www.facebook.com/micropython) -就像Facebook上的MicroPython一样，用于竞赛，新闻和更新.
 * [Melbourne MicroPython Meetup](https://www.meetup.com/en-AU/MicroPython-Meetup) -在澳大利亚墨尔本举行的CCHS定期聚会.
@@ -523,7 +535,7 @@
 ### IDEs
 
 * [JetBrains MicroPython Plugin](https://plugins.jetbrains.com/plugin/9777-micropython) -在IntelliJ IDEA和PyCharm中支持MicroPython设备.
-* [Micropython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) - MicroPython IDE for VSCode README.
+* [Micropython IDE for VSCode](https://marketplace.visualstudio.com/items?itemName=dphans.micropython-ide-vscode) -用于VSCode自述文件的MicroPython IDE.
 * [Micropython-REPLink for VSCode](https://marketplace.visualstudio.com/items?itemName=SWC-Fablab.micropython-replink) -与MicroPython REPL终端进行交互的便捷快捷方式.
 * [Mu Editor](https://codewith.mu/) -带Mu的代码：面向初学者的简单Python \ MicroPythonb \ CircuitPython编辑器.
 * [Thonny IDE](https://thonny.org/) -Thonny：适用于初学者的Python IDE.
