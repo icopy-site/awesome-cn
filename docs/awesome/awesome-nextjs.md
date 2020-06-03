@@ -30,7 +30,7 @@
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
  * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
- * [使用Next.js和Redux _ [Russian] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
+ * [使用Next.js和Redux _ [俄语] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
  * [5 (of the Many Reasons) to love Vercel's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
  * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://zeit.co/blog/next5)
  * [Realtime data visualization using Next.js and Chart.js](https://pusher.com/tutorials/realtime-data-visualization-nextjs)
@@ -49,7 +49,7 @@
 ## Boilerplates
 * [Nitro 🚀](https://github.com/williamluke4/nitro) -使用Nextjs，Material-UI，Typescript和Auth0的PWA的示例 
 * [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) -无服务器，Typescript，Jest，Github CI，SCSS，更漂亮的样板
-* [Next Right Now](https://github.com/UnlyEd/next-right-now) -带有Next.js 9和Vercel的灵活的**生产级样板**，具有预配置的Sentry，Cookie，振幅，情感，FontAwesome，GraphQL / GraphCMS（Apollo），Bootstrap（Reactstrap），i18next（Locize），Jest ，赛普拉斯（E2E测试）和CI / CD（GH操作），具有完整的TypeScript支持和**支持B2B多租户Web应用程序（monorepo）**
+* [Next Right Now](https://github.com/UnlyEd/next-right-now) -带有Next.js 9和Vercel的灵活的**生产级样板**，具有预配置的Sentry，cookie，Amplitude，Emotion，FontAwesome，GraphQL / GraphCMS（Apollo），Bootstrap（Reactstrap），i18next（Locize），Jest ，赛普拉斯（E2E测试）和CI / CD（GH操作），具有完整的TypeScript支持和**支持B2B多租户Web应用程序（monorepo）**
 * [Next Graphql Apollo Typescript_Boostrap - Pobocha](https://github.com/Sebastp/Next-react-graphql-apollo_Boostrap) -React + GraphQL + Next.js + Apollo + Scss +打字稿+ Prettier和EsLint样板
 * [Next & Vercel Typescript template](https://github.com/alepacheco/landing-template) -无服务器，Typescript，Jest，Github CI，SCSS，更漂亮的样板
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) -使用Cloud Functions在Firebase中使用Bootstrap托管NextJS应用.
@@ -58,7 +58,7 @@
 * [RAN!](https://github.com/sly777/ran) -生产就绪样板，支持GraphQL，SSR，热重载，JS-in-JS，缓存等.
 * [Next Simple Blog](https://github.com/tscanlin/next-blog) -使用Next.js构建的基于Markdown的简单博客，具有静态导出功能.
 * [Create-Next-App](https://open.segment.com/create-next-app) -Facebook的create-react-app的分支，用于创建下一个应用程序.
-* [phox](https://github.com/herschel666/phox) - Create a static photo blog.
+* [phox](https://github.com/herschel666/phox) -创建静态照片博客.
 * [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) -使用Next，Express，react-bootstrap，SCSS和SSR和eslint构建的全栈应用程序样板.
 * [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) -博客，其中包含使用Next.js，Firebase Firestore，样式化组件和mobx-state-tree构建的简单CMS.
 * [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) -具有Express，Redux和PostCSS的Next.js入门.
@@ -67,9 +67,9 @@
 * [NextJS TypeScript Starter Kit](https://github.com/deptno/next.js-typescript-starter-kit) -：tada：TypeScript + NextJS，Styled-jsx，Redux，PostCSS，可配置的SEO
 * [Next Boilerplate](https://arefaslani.github.io/next-boilerplate) -外部CSS和Sass +从任何位置导入图像+漂亮和Eslint +环境变量以及更多功能.
 * [next-starter](https://github.com/YuriBrunetto/next-starter) -具有内置的“ sass（.scss）”和“ postcss”的完整而简单的样板.
-* [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) -简约的next.js +打字稿monorepo.
+* [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) - A minimalistic next.js + typescript monorepo.
 * [tomimick/tm-nextjs-starter](https://github.com/tomimick/tm-nextjs-starter) -基本的CRUD，axios / localstorage，MobX，SASS，静态站点导出，实时演示的最小入门/演示
-* [csprance/next-smrt](https://github.com/csprance/next-smrt) -具有redux，样式化组件，material-ui和Typescript以及自定义Express服务器的最小样板.
+* [csprance/next-smrt](https://github.com/csprance/next-smrt) -带有redux，样式化组件，material-ui和Typescript以及自定义Express服务器的最小样板.
 * [Nextron](https://github.com/saltyshiomix/nextron) -使用Next.js应用生成器的Electron⚡
 * [next-boilerplate](https://github.com/pankod/next-boilerplate) -具有Typescript，Redux，Express.js，Sass，Css，EnvConfig，Reverse Proxy，Bundle的结构良好的生产就绪Next.js样板 
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) -全栈Web应用程序框架（Next.js，Redux，RxJS，Immutable，Express）
@@ -77,7 +77,7 @@
 * [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) -：rocket：使用nextJS，最佳开发实践和开发人员社区中流行的库来减少项目配置的基础.
 * [Apollo Next.js GraphQL starter](https://github.com/tomanagle/Apollo-Next.js-GraphQL-starter) -使用Next.js的GraphQL入门包，并通过Apollo Client配置
 * [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) -打字稿+ redux +样式化的组件+ react-testing-library + eslint + fontawesome
-* [The Knests Stack](https://github.com/tudorconstantin/knests/) -具有以下条件的完整堆栈样板/黑客马拉松启动器：PostgreSQL，Knex.js，NestJS，Next.js（显然），GraphQL，React（带有钩子和打字稿），Material-UI，用于Docker的Docker多级映像，Docker组合和一个Gitlab CI / CD管道已完全配置.
+* [The Knests Stack](https://github.com/tudorconstantin/knests/) -具有以下特性的完整堆栈样板/黑客马拉松启动器：PostgreSQL，Knex.js，NestJS，Next.js（很明显），GraphQL，React（带有钩子和打字稿），Material-UI，用于Docker的Docker多级映像，Docker组成和Gitlab CI / CD管道已完全配置.
 
 ## Extensions
 * [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) -通用的语言检测器（浏览器+服务器）-旨在与通用框架（例如Next.js）一起使用 [DEMO](https://universal-language-detector.now.sh/)
@@ -101,6 +101,7 @@
 * [flow-middleware](https://github.com/piglovesyou/flow-middleware) -在Next.js上运行任何Express中间件，而不会污染本机对象.
 
 ## Apps
+* [CourseLit](https://github.com/codelit/courselit) -Thinkific，Teachable等的开源替代品
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) -展示权力游戏角色的简单Next.js应用程序.
 * [Next Episode](https://github.com/timneutkens/next-episode) -示例Next.js应用程序，用于显示电影片段.
 * [Relate](https://github.com/RelateNow/relate) -正念社区-React，GraphQL，Next.js.

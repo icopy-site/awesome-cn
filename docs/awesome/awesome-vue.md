@@ -500,7 +500,7 @@
 - [CoPilot](https://github.com/misterGF/CoPilot) -基于AdminLTE和vue.js集成的管理门户.
 - [Retrospectify](https://github.com/pepf/retrospectify) -在敏捷团队中进行协作回顾的简单工具.
 - [jade-press](https://github.com/jade-press/jade-press) -基于mongodb，nodejs，koa，vue等的Cms.
-- [astralapp](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease.
+- [astralapp](https://github.com/astralapp/astral) -轻松组织GitHub Stars.
 - [EME](https://github.com/egoist/eme) -优雅的Markdown编辑器.
 - [Github-explorer](https://github.com/SidKwok/github-explorer) -可以帮助您更好地检查github的水疗中心.
 - [Hotel](https://github.com/typicode/hotel) -从浏览器启动开发服务器，并在几秒钟内获得本地域.
@@ -1694,6 +1694,7 @@ _日期/日期时间/时间选择器_
 - [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) -Vuejs2的功能强大的可自定义可拖动树状视图组件 [@phphe](https://github.com/phphe)
 - [vue-card-swipe](https://github.com/eshengsky/vue-card-swipe) -用于vue.js的触摸滑块，支持向任意方向滑动以切换卡，与PC和移动设备兼容.
 - [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) -一个简单的看板，可以将项目从列表中拖放到板上.
+- [vue-card-stack](https://github.com/rodleviton/vue-card-stack) -可堆叠，可滑动，可调整的Vue卡组件.
 
 ##### Autocomplete
 
@@ -2245,6 +2246,7 @@ _无缝滚动_
 - [vue-router-lite](https://github.com/ccqgithub/vue-router-lite) -Vue.js 2的基于组件的声明式路由器.
 - [vue-route-props](https://github.com/iendeavor/vue-route-props) -自动将vue-router查询绑定到vm，API与Vue道具基本相同.
 - [vue-pilot](https://github.com/jiangfengming/vue-pilot) -基于Trie的vue路由器，具有管理history.state的能力.
+- [vue-lang-router](https://github.com/adbrosaci/vue-lang-router) -具有（可选）URL本地化的Vue.js语言路由.
 
 #### Lazy Load
 
@@ -2265,7 +2267,7 @@ _无缝滚动_
 
 #### Pagination
 
-- [vue-paginate](https://github.com/TahaSh/vue-paginate) -一个简单的vue.js插件可对数据进行分页.
+- [vue-paginate](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
 - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) -Vue.js 2分页组件.
 - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination)  -适用于Vue.js的最佳，完整的分页插件.  受角引导分页启发.
 - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) -用于创建分页的Vue.js（v2.x +）组件.
@@ -2363,7 +2365,7 @@ _将DOM节点移至目标DOM节点_
 - [vue-spatialnavigation](https://github.com/twcapps/vue-spatialnavigation) -用于空间导航（键盘导航）的Vue指令（Vue.js 2.x）
 - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) -Vue.js生命周期指令.
 - [vue-aspect-ratio](https://github.com/3vilArthas/v-aspect-ratio) -vue的长宽比指令.
-- [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) -为避免自动更改通过用户设备的相机拍摄的照片方向.
+- [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which taken via camera of user's device.
 - [v-ripple-directive](https://github.com/andrewvasilchuk/v-ripple-directive) -Vue.js指令可产生涟漪效应.
 - [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple)  -向任何元素添加材料设计的波纹.  使用任何想要的波纹颜色.  没有性能问题.  移动友好.  没有依赖关系.  它只是工作.
 
@@ -2415,7 +2417,7 @@ _与UI没有直接关系的实用工具_
 - [vue-local-storage-decorator](https://github.com/vip30/vue-local-storage-decorator) -通过使用装饰器格式的本地存储来持久化数据
 - [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) -Typescript / ES7装饰器使Vuex模块轻而易举
 - [vuex-class-modules](https://github.com/gertqin/vuex-class-modules) -在vue-class-component的启发下，为vuex模块引入一种简单的类型安全的类样式语法.
-- [vue-corator](https://github.com/joon610/vue-corator) - Vue typescript decorator utils
+- [vue-corator](https://github.com/joon610/vue-corator) -Vue打字稿装饰器工具
 - [vuedts](https://github.com/kahirokunn/vuedts) -为.vue文件生成TypeScript声明文件.
 
 #### HTTP Requests

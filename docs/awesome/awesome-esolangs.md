@@ -18,10 +18,11 @@
 * [1+](https://esolangs.org/wiki/1%2B) -具有高度限制的指令集的令人惊讶的用户友好语言.
 * [78](https://github.com/oatmealine/78) -围绕数字7和8的单字符命令语言.
 * [ajsone](https://www.quaxio.com/ajsone) -完全在JSON中定义的语言.
+* [AlmostBinary](https://github.com/wsdt/AlmostBinary) -二进制代码，可以在任何平台上运行.
 * [ArnoldC](http://lhartikk.github.io/ArnoldC) -基于Arnold Schwarzenegger最好的单人阵容.
 * [Befunge](https://esolangs.org/wiki/Befunge) -二维语言.
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) -仅使用8个单字符命令的极简语言.
-* [Charcoal](https://github.com/somebody1234/Charcoal) -速写ASCII艺术的简洁语言。
+* [Charcoal](https://github.com/somebody1234/Charcoal) -速写ASCII艺术的简洁语言.
 * [Chef](http://www.dangermouse.net/esoteric/chef.html) -看起来像烹饪食谱的程序.
 * [Chicken](https://esolangs.org/wiki/Chicken) -仅1个有效符号：“鸡”.
 * [ChuckScript](https://github.com/angrykoala/chuckscript) -基于一元语言，其中代码是一个数字.
@@ -62,7 +63,7 @@
 * [文言 (Wenyan)](http://wenyan-lang.lingdong.works) -紧跟中国古典文学的语法和语气.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) -随时随地执行操作的语言.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) -仅使用白色字符（空格，制表符和换行符）.
-* [WordLang](https://github.com/WilliamRagstad/WordLang) -一种基于类似含义的语法的语言，可产生输出.
+* [WordLang](https://github.com/WilliamRagstad/WordLang) - A language based on meaning-like grammar that produces output.
 * [Z](https://esolangs.org/wiki/Z) -仅使用字母z.
 * [ZOMBIE](https://www.dangermouse.net/esoteric/zombie.html) -专为死灵法师设计的固有邪恶多线程语言.
 
@@ -94,12 +95,12 @@
 
 * [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) -系列文章，解释了编译器和解释器的基础知识以及如何构建它们.
 * [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) -Yevgeniy Brikman的帖子描述了不常用的不同编程范例.
-* [The Fun (and Madness) of Esoteric Programming Languages](https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages) -简单易懂地介绍了深奥的语言，并附有示例.
+* [The Fun (and Madness) of Esoteric Programming Languages](https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages) -简单直观地介绍了深奥的语言，并附有示例.
 * [On the Turing Completeness Of MS PowerPoint](http://www.andrew.cmu.edu/user/twildenh/PowerPointTM/Paper.pdf) -PowerPoint上的图灵机.
 
 ## Community
 
-* [Anarchy Golf](http://golf.shinh.org) - Informal [golfing](https://en.wikipedia.org/wiki/Code_golf) 问题服务器.
+* [Anarchy Golf](http://golf.shinh.org) -非正式 [golfing](https://en.wikipedia.org/wiki/Code_golf) 问题服务器.
 * [Code Golf Stack Exchange](https://codegolf.stackexchange.com) -打高尔夫球的问题和答案.
 * [Freenode IRC Channel](http://webchat.freenode.net/?channels=esoteric&uio=d4) - The #esoteric IRC channel on freenode.
 * [Reddit Esolangs](https://www.reddit.com/r/esolangs) -esolangs上的Reddit社区.

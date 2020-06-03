@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
-精选的令人愉快的清单 [PowerShell](https://en.wikipedia.org/wiki/PowerShell) 包和资源.
+A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) 包和资源.
 
 PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，已针对处理结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
 它包括命令行外壳程序和关联的脚本语言.
@@ -29,7 +29,6 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 ## Blogs
 
 * [Windows PowerShell Blog](https://blogs.msdn.microsoft.com/powershell/) -官方PowerShell团队博客.
-* [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) -流行的Microsoft博客.
 * [Learn PowerShell | Achieve More](http://learn-powershell.net/) -Boe Prox的个人博客，他为脚本专家主持.
 * [PowerShellMagazine](http://www.powershellmagazine.com/) -很棒的杂志.
 * [PowerShellExplained](https://powershellexplained.com) -Kevin Marquette的个人博客
@@ -66,7 +65,6 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 * [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories)  -寻找开放源代码PowerShell项目？  可能在这里.
 * [PowerShell Gallery](https://www.powershellgallery.com/) -官方的PowerShell软件包存储库，由PowerShellGet使用.
-* [TechNet Gallery](https://gallery.technet.microsoft.com/) -从片段到模块的各种PowerShell代码.
 
 ## Commandline Productivity
 
@@ -76,7 +74,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [Jump-Location](https://github.com/tkellogg/Jump-Location) -可以读懂您想法的PowerShell`cd`. [Autojump](https://github.com/wting/autojump) PowerShell的实施.
 * [Zlocation](https://github.com/vors/ZLocation) * [z.sh](https://github.com/rupa/z)  PowerShell的实施.  类似于跳转位置.
 * [thefuck](https://github.com/nvbn/thefuck) -宏伟的应用程序，可纠正您以前的控制台命令（通过输入“ fuck”）.
-* [pslinq](https://github.com/manojlds/pslinq) -用于PowerShell的LINQ（LINQ2Objects）.
+* [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for PowerShell.
 * [posh-with](https://github.com/JanJoris/posh-with) -使用单个工具进行连续工作流的命令前缀.
 * [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)* [peco](https://github.com/peco/peco)  实施.  交互式过滤工具.
 * [PSDirTag](https://github.com/wtjones/PSDirTag)  -DirTag是相对路径，在PowerShell提示中显示为变量，并在您浏览时进行更新.  浏览文件夹结构时，保存击键.
@@ -84,7 +82,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 ## Communities
 
-* [PowerShell.org](http://powershell.org/) - Forums, summits, community blog posts, and more.
+* [PowerShell.org](http://powershell.org/) -论坛，峰会，社区博客文章等.
 * [/r/PowerShell](http://www.reddit.com/r/powershell) -Reddit PowerShell社区.
 * [Slack PowerShell team](http://slack.poshcode.org/) - Large chat room dedicated to PowerShell. Bridged with `#PowerShell` on irc.freenode.net.
 
@@ -98,18 +96,12 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 * [PowerShell Studio](https://www.sapien.com/software/powershell_studio) -强大的PowerShell IDE，具有模块，帮助和用户界面开发工具，高DPI支持和定期更新.
 * [PowerShell for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) -提供IntelliSense，代码导航，脚本分析，脚本调试等功能， [Visual Studio Code](https://code.visualstudio.com) 编辑.
-* [PoshTools for Visual Studio](https://github.com/adamdriscoll/PoshTools) -为PowerShell to Visual Studio提供IntelliSense，脚本调试和Pester测试支持.
+* [PoshTools for Visual Studio](https://ironmansoftware.com/powershell-tools-for-visual-studio/) -为PowerShell to Visual Studio提供IntelliSense，脚本调试和Pester测试支持.
 * [PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise) -Microsoft Windows附带的官方PowerShell开发环境.
 * [ISE Steroids](http://www.powertheshell.com/isesteroids/) -PowerShell ISE的附件，它提供了一组丰富的附加功能来完善ISE开发体验.
 * [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) -多合一的IDE.
 * [SublimeText package](https://github.com/SublimeText/PowerShell) -对Sublime Text的PowerShell语言支持.
 * [Atom package](https://github.com/jugglingnutcase/language-powershell) -对Atom的PowerShell语言支持.
-
-## Module Development Templates
-
-* [Plaster](https://github.com/PowerShell/Plaster) -石膏是用PowerShell编写的基于模板的文件和项目生成器.
-* [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) -通过该模块的低入门门槛和随便的便利，可在2分钟内开始使用模块模板.
-* [Catesta](https://github.com/techthoughts2/Catesta)  -Catesta是PowerShell模块项目生成器.  它使用模板为各种CI / CD平台快速进行支架测试并建立集成.
 
 ## Frameworks
 
@@ -118,12 +110,23 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [PSCX](https://github.com/Pscx/Pscx) -PowerShell社区扩展-有用的其他cmdlet集.
 * [PSFramework](https://github.com/PowershellFrameworkCollective/psframework) -轻松将配置，日志记录等添加到您自己的PowerShell模块中.
 
+## Interactive Learning
+
+* [PSKoans](https://github.com/vexx32/PSKoans) -通过Pester单元测试来学习PowerShell语言的一种简单，有趣且交互式的方式.
+
+## Module Development Templates
+
+* [Plaster](https://github.com/PowerShell/Plaster) -石膏是用PowerShell编写的基于模板的文件和项目生成器.
+* [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) -通过该模块的低入门门槛和随便的便利，可在2分钟内开始使用模块模板.
+* [Catesta](https://github.com/techthoughts2/Catesta)  -Catesta是PowerShell模块项目生成器.  它使用模板为各种CI / CD平台快速进行支架测试并建立集成.
+
 ## Package Managers
 
 * [PowerShellGet](https://github.com/powershell/powershellget)  -PowerShellGet是PowerShell的软件包管理器.  包可在 [PowerShellGallery](https://www.PowerShellGallery.com).
 * [Chocolatey](https://chocolatey.org/)  -Windows的软件包管理器.  在Windows上管理软件的明智方法.
 * [GitLab](https://github.com/akamac/GitLabProvider) -使用GitLab服务器作为Package Provider.
 * [Scoop](https://scoop.sh) -Windows的命令行安装程序.
+* [PowerShell App Deployment Toolkit](https://psappdeploytoolkit.com/) -提供一组功能来执行常见的应用程序部署任务，并在部署过程中与用户进行交互.
 
 ## Parallel Processing
 
@@ -147,11 +150,20 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound) -轻松识别高度复杂的攻击路径，否则将无法快速识别.
 * [Nishang](https://github.com/samratashok/nishang) -为红队，渗透测试和进攻安全启用脚本.
 
+## SharePoint
+
+* [AutoSPInstaller](https://autospinstaller.com/) -自动化的SharePoint 2010-2019安装脚本.
+* [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) -SharePoint 2010、2013和Online的API.
+* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) -SPReplicator可以帮助将SharePoint列表数据复制到CSV，SQL Server，SharePoint本身以及其他内容中.
+
+## SQL Server
+
+* [dbatools](https://dbachecks.io) -帮助SQL Server专业人士在实例迁移等方面提高生产力.
+
 ## Testing
 
 * [Pester](https://github.com/pester/Pester) -PowerShell BDD样式测试框架.
 * [Format-Pester](https://github.com/equelin/format-pester) -用于记录Pester结果的PowerShell模块-使用以下命令将Pester结果导出到HTML，Word，文本文件 [PScribo](https://github.com/iainbrighton/PScribo).
-* [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)  -用于模块和脚本的静态代码检查器.  它通过根据PowerShell团队和社区确定的最佳实践运行一组规则来检查代码的质量.
 
 ## Themes
 
@@ -185,16 +197,6 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [Pode](https://github.com/Badgerati/Pode) -Pode是一个跨平台PowerShell框架，用于创建Web服务器以托管REST API，网站和TCP / SMTP服务器.
 * [Polaris](https://github.com/PowerShell/Polaris) -适用于PowerShell的跨平台，简约的Web框架.
 * [WebCommander](https://github.com/vmware/webcommander) -在友好的Web GUI或通过Web服务运行脚本并查看结果.
-
-## SharePoint
-
-* [AutoSPInstaller](https://autospinstaller.com/) -自动化的SharePoint 2010-2019安装脚本.
-* [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) -SharePoint 2010、2013和Online的API.
-* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
-
-## SQL Server
-
-* [dbatools](https://dbachecks.io) -帮助SQL Server专业人士在实例迁移等方面提高生产力.
 
 ## Misc
 

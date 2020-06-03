@@ -203,7 +203,7 @@
 - [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) -用于Visual Studio 2017的Ada语言集成.
 
 #### Editors
-- [lea](https://github.com/zertovitch/lea) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT的全面开发工具
+- [lea](https://github.com/zertovitch/lea) -LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供一种类似于脚本世界的“外观”，同时允许访问诸如GNAT之类的全面开发工具
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) -Gnu Emacs主模式，用于编辑Ada源.
@@ -238,7 +238,7 @@
 - [marte-os](https://marte.unican.es/)  -MaRTE OS是遵循最小实时POSIX.13子集的嵌入式应用程序的硬实时操作系统.  它提供了易于使用和受控的环境来开发多线程实时应用程序.
 - [muen](https://muen.codelabs.ch/) -高度保证的x86 / 64分离内核.
 - [ewok](https://github.com/wookey-project/ewok-kernel) -EwoK是针对微控制器和嵌入式系统的微内核.
-- [bare-bones](https://github.com/Lucretia/bare_bones) -阿达（Ada）港口 [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小的32位x86内核.
+- [bare-bones](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) 最小的32位x86内核.
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) -Lovelace致力于使用Ada 2012语言编写类似Unix的操作系统.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) -Ada_KALINDA是一种Mac Plus，类似于以Ada95编写的OS.
 - [cxos](https://github.com/ajxs/cxos) -Ada操作系统开发示例.
@@ -249,7 +249,7 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) -Ada中的Tetris，用于Unity游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) -用SPARK / Ada编写并验证的单轮游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) -AdaGate是适用于Windows，OS-X和Linux的Stargate / Portal幻想设置中的第一人称3D推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏...它看起来像是一个魔方，但它是一个滑块，而不是扭曲器.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏……它看起来像是一个魔方，但它是一个滑块，而不是扭曲器.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) -AdaVenture是一款儿童友好型复古点击游戏，带有迷宫，龙，蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) -有趣的益智游戏，可在任何操作系统的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) -在任何平台上的终端上运行的复古游戏.
@@ -280,7 +280,7 @@
 - [claw](http://www.rrsoftware.com/html/prodinf/claw/claw.htm) -CLAW，Microsoft Windows的高级，可移植的Ada 95绑定.
 - [gtkada](https://github.com/AdaCore/gtkada) -基于Gtk3组件的Ada图形工具包.
 - [qt-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/qtada/qt5ada.html) -Ada-2012移植到QT 5框架.
-- [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) - Ada-2012 port to VTK 8.1 (Visualization Toolkit).
+- [vtk-ada](https://r3fowwcolhrzycn2yzlzzw-on.drv.tw/AdaStudio/vtkada/vtkada.html) -Ada-2012移植到VTK 8.1（可视化工具包）.
 
 #### 3D
 - [globe-3d](https://github.com/zertovitch/globe-3d) -用于3D的GL基于对象的引擎.
@@ -301,7 +301,7 @@
     - [ada-el](https://github.com/stcarrez/ada-el) -该库提供了对一种类似于Java统一表达语言（EL）的简单表达语言的支持.
     - [ada-asf](https://github.com/stcarrez/ada-asf) -Ada Server Faces允许使用与Java Server Faces相同的模式创建Web应用程序（请参阅JSR 252，JSR 314和JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) -Ada Servlet允许使用与Java Servlet相同的模式创建Web应用程序（请参阅JSR 154，JSR 315）.
-- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Swagger代码源的Ada支持：OpenAPI Generator是一种代码生成器，它支持在生成OpenAPI规范后自动生成API客户端库，服务器存根和文档.
+- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Ada对Swagger代码源的支持：OpenAPI Generator是一种代码生成器，它支持在给定OpenAPI规范的情况下自动生成API客户端库，服务器存根和文档.
 - [matreshka](http://forge.ada-ru.org/matreshka)  -Matreshka是开发信息系统的Ada框架.  它由五个主要组件组成：League，XML处理器，Web框架，SQL访问和Modeling框架.
 
 #### Unit Test, Testing
@@ -333,6 +333,7 @@
 - [fmt](http://www.inspirel.com/fmt/)  -正式方法工具包是Mathematica的一组扩展软件包，支持软件.  与建模，验证和Ada代码生成有关的工程活动.
 - [automate](https://github.com/Blady-Com/Automate) -有限状态机发电机.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) -Ada中与JUnit兼容的XML报告的生成器.
+- [recordflux](https://github.com/Componolit/RecordFlux) -RecordFlux：用于消息的正式规范以及在SPARK中生成可验证的二进制解析器和消息生成器的工具集.
 
 #### UML
 - [ada-ml](https://github.com/rocher/AdaML) -有一种UML量身定制的建模语言.
@@ -443,7 +444,7 @@
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) -在Ada中实现的声音合成器库.
 - [engine-3d](https://github.com/zertovitch/engine-3d) -用于DOS-talgics的3D引擎.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
-- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，可以进行音乐调律的实验，例如音准音阶，均等和历史气质，微音阶和大音阶音阶以及非西方音阶.
+- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微音阶和大音阶音阶以及非西方音阶.
 - [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound)  -适用于Ada应用程序的linux声音播放程序包，该程序包可以异步启动和停止音乐循环以及启动瞬态声音.  适用于游戏.
 
 #### Localization
