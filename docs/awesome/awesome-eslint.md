@@ -122,20 +122,23 @@
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -ESLint的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -是2019年，您仍然使用循环吗？
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询语法的内容.
-- [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
 -表现
   - [DOM](https://github.com/amilajack/eslint-plugin-dom)
   - [perf-standard](https://github.com/Raynos/eslint-plugin-perf-standard) （也有一个 [config](https://github.com/Raynos/eslint-config-perf-standard))
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) -兑现承诺时的最佳做法.
--ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) 和 [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) -与安全性相关的规则.
-- [Security](https://github.com/nodesecurity/eslint-plugin-security) -节点安全性的ESLint规则.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) -为ESLint`sort-keys`规则添加了修复程序.
 - [this](https://github.com/matijs/eslint-plugin-this) -写纯函数，不允许`this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) -eslint插件，可防止在模块顶层产生副作用.
--XSS
-  - [DOM APIs](https://github.com/mozilla/eslint-plugin-no-unsanitized) -检查`innerHTML`，`outerHTML`等.
-  - [jQuery, etc.](https://github.com/Rantanen/eslint-plugin-xss) -尝试在代码库中的XSS问题最终投入生产之前进行检测.
+
+
+### Security
+
+- [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) -eslint插件，用于检测潜在的秘密/凭据.
+- [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) -检查`innerHTML`，`outerHTML`等.
+-ScanJS [config](https://github.com/mozfreddyb/eslint-config-scanjs) 和 [plugin](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) -与安全性相关的规则.
+- [Security](https://github.com/nodesecurity/eslint-plugin-security) -节点安全性的ESLint规则.
+- [xss](https://github.com/Rantanen/eslint-plugin-xss) -尝试在代码库中的XSS问题最终投入生产之前进行检测.
 
 ### Style
 

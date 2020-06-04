@@ -150,6 +150,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Styling in the Shadow DOM With CSS Shadow Parts](https://css-tricks.com/styling-in-the-shadow-dom-with-css-shadow-parts/)
 - [Styling is critical to web component reuse, but may prove difficult in practice](https://component.kitchen/blog/posts/styling-is-critical-to-web-component-reuse-but-may-prove-difficult-in-practice)
 - [Thinking Through Styling Options for Web Components](https://css-tricks.com/thinking-through-styling-options-for-web-components/)
+- [Web Standards Meet User-Land: Using CSS-in-JS to Style Custom Elements](https://css-tricks.com/web-standards-meet-user-land-using-css-in-js-to-style-custom-elements/)
 
 ### Interoperability
 
@@ -192,6 +193,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -ELMS：LN为任何项目生产了Web组件.
 - [Lume](https://github.com/lume/lume) -用于定义使用CSS3D或WebGL渲染的2D或3D场景的自定义元素.
 - [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
+- [Nightingale](https://github.com/ebi-webcomponents/nightingale) -生命科学的数据可视化Web组件.
 - [Nuxeo Elements](https://github.com/nuxeo/nuxeo-elements) -用于使用Web组件通过Nuxeo构建Web应用程序的组件.
 - [TEI Publisher Components](https://github.com/eeditiones/tei-publisher-components) -TEI Publisher使用的Web组件及其生成的应用程序的集合.
 - [Tradeshift Elements](https://github.com/Tradeshift/elements) -可重用的Tradeshift UI组件作为Web组件.
@@ -382,6 +384,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 ### Talks
 
 - [Better Apps: Delivering Universal UI Patterns as Web Components](https://youtu.be/mtHf7crZZIQ) 通过 [@janmiksovsky](https://twitter.com/janmiksovsky)
+- [Custom Web Shadow Elements, or Whatever…](https://vimeo.com/364370506) 通过 [@aerotwist](https://twitter.com/aerotwist)
 - [Styling and Theming Web Components](https://youtu.be/FM7ROEVPA4k) 通过 [@justinfagnani](https://twitter.com/justinfagnani)
 - [Web Components at Enterprise Scale](https://youtu.be/iFp-P2UJT_Y) 通过 [@diervo](https://twitter.com/diervo)
 

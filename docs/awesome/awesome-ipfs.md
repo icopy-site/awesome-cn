@@ -14,7 +14,7 @@
 
 ## Contribute to this list!
 
-欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，该项目才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
+欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
 
  自述文件和网站是自动生成的.  为了将元素添加到该列表中，您需要修改/ data中的文件，然后在发布请求之前运行make build.  读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
 
@@ -66,7 +66,7 @@
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) -允许改善ipfs事件可视化的应用程序.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) -一个使用windows.ipfs的演示应用程序，向您显示IPNS链接和公共密钥的QR码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  -IPFS图像上传器和查看器.  Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来. [Source](https://github.com/TalaikisInc/ipfs-uploader)
-- [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) -带有TiddyWiki的IPFS是一个TiddlyWiki插件，旨在帮助开发人员，编辑者或用户通过IPFS保存其Wiki和附件.
+- [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) -带TiddyWiki的IPFS是一个TiddlyWiki插件，旨在帮助开发人员，编辑者或用户通过IPFS保存其Wiki和附件.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) -基于ipfs和markdown构建您的Wiki系统.
 - [ipfs-search](https://ipfs-search.com) -自2016年起搜寻宇宙.
  嗅探DHT闲话并索引文件和目录哈希.  元数据和搜索API可用. [Source](https://github.com/ipfs-search/ipfs-search)
@@ -77,7 +77,7 @@
 - [IpJot](https://ipjot.herokuapp.com/) -在IPFS上创建简短的笔记，故事，书籍，诗歌，对话.
 - [IPSE](https://www.ipse.io/) -IPFS网络的搜索引擎.
 - [Kauri](https://kauri.io)  -基于社区的Web3技术知识平台，建立在IPFS和以太坊之上.  学习，分享和策划最新和高质量的技术文章和系列.
-- [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) - Service Menu for Dolphin File Manager to upload files to IPFS The open network for transaction requests.
+- [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -Dolphin File Manager的服务菜单，用于将文件上传到IPFS用于交易请求的开放网络.
 - [killcord](https://killcord.io/) -防审查的死人开关 [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) -基于Pandoc的标记编辑器/预览器/转换器，已移植到IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [Minerva](https://github.com/bdchain/Minerva) -Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来.
@@ -170,7 +170,7 @@
 
 ## Tools
 
-- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监控以太坊区块链的当前区块号，并设置警报（通过特定的区块高度）（通过浏览器中的PouchDB在本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监控以太坊区块链的当前区块号，并设置警报（通过特定区块高度时，使用PouchDB在本地存储在浏览器中）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) -捐赠ipfs网关以缓存其他人的内容
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) -Dillo Web浏览器的IPFS集成.
 - [galacteek](https://galacteek.github.io) -用于分布式Web的基于Qt5的多平台浏览器 [Source](https://github.com/pinnaculum/galacteek)
@@ -183,12 +183,12 @@
 - [IPDR](https://github.com/miguelmota/ipdr) -IPFS支持的Docker注册表
 - [ipfs-action](https://github.com/aquiladev/ipfs-action) -用于交付静态网站的GitHub Action.
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) -使用AES256加密文件或目录，然后添加到IPFS
-- [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) -从URL而不是文件路径将文件添加到IPFS
+- [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - Add a file to IPFS from a URL instead of a file path
 - [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) -Chrome扩展程序可将ipfs.io通信重定向到本地网关
 - [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) -Chrome扩展程序可将ipfs.io通信重定向到本地网关
 - [ipfs-common](https://github.com/arsyun) -一些常用的工具，1.CID到人类可读的cid，2.cid和块名的转换，3.阅读leveldb工具. [Source](https://github.com/arsyun/ipfs-common)
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) -浏览器扩展，简化了对IPFS资源的访问.
-- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) -零配置CLI来部署静态网站：cd my-static-website &amp;&amp; npx @ agentofuser / ipfs-deploy
+- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
 - [ipfs-gui](https://github.com/marcin212/ipfs-gui) -Windows UI集成和IPFS安装程序
 - [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) -IPFS Linux初始化守护程序
 - [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) -在Windows上将IPFS挂载为映射驱动器
@@ -207,6 +207,7 @@
 - [orbit-db](https://github.com/orbitdb/orbit-db) -OrbitDB是一个无服务器的分布式对等数据库，使用IPFS作为其数据存储，并使用IPFS Pubsub来自动将数据库与对等同步.
 - [pinbot](https://github.com/whyrusleeping/pinbot) -通过IRC的引脚内容
 - [Public gateway status checker](https://ipfs.fooock.com/) -Web应用程序，用于检查IPFS网关的公共状态，包括等待时间和网关可写状态. [Source](https://github.com/fooock/ipfs-gateway-checker)
+- [ShareX integration](https://github.com/ShareX/CustomUploaders/blob/master/ipfs.io.sxcu) -ShareX是文件上传和处理工具，具有与IPFS的自定义集成
 - [Siderus Orion](https://orion.siderus.io) -易于使用的适用于macOS，Windows和Linux的IPFS桌面客户端 [Source](https://github.com/Siderus/Orion)
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) -适用于Android的完整节点
 - [Tellit](https://gitlab.com/terceranexus6/tellit) -在使用密钥对或密码上传文件之前，先对其进行加密

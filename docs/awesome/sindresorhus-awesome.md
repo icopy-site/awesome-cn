@@ -244,7 +244,7 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) -确保网站某些性能指标的技术.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) -浏览器中具有JavaScript，CSS，SVG等的动画.
 - [Yew](https://github.com/jetli/awesome-yew#readme) -受Elm和React启发的Rust框架，用于使用WebAssembly创建多线程前端Web应用程序.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，可以更快，更轻松地进行Web开发.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，用于更快，更轻松的Web开发.
 
 ## Back-End Development
 
@@ -294,6 +294,7 @@
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) -机器智能库.
+	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) -WebGL加速的机器学习JavaScript库，用于训练和部署模型.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) -引用最多的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)

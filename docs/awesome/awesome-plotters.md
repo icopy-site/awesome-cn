@@ -118,6 +118,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Maker.js](https://maker.js.org) -用于为CNC和激光切割机创建2D矢量绘图的库.
 - [Turtletoy](https://turtletoy.net) -具有SVG导出功能的基于浏览器的JavaScript turtle图形API.
 - [cozyvec](https://github.com/brubsby/cozyvec) -Web / Standalone终端环境，用于绘图员艺术作品和推文图.
+- [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) -一个 [Observable](https://observablehq.com/) 笔记本收集器中充满了针对绘图仪的工作.
 
 ### Vector Utilities
 

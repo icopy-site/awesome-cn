@@ -51,7 +51,7 @@
 ### Apps
 
 - [BassoonTracker](https://github.com/steffest/BassoonTracker) -JavaScript中的MOD / XM跟踪器.
-- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+- [LoopDrop App](https://github.com/mmckegg/loop-drop-app) -使用Web Audio和Web MIDI API构建的MIDI循环器，模块化合成器和采样器应用程序.
 - [X Sound](https://korilakkuma.github.io/X-Sound/) -使用XSound.js的多声音应用程序.
 - [Molgav](https://github.com/surikov/molgav) -音乐步音序器用于旋律交换.
 - [mod-synth.io](https://github.com/andrevenancio/mod-synth.io) -创建自己的模块化合成器，或模拟不同的合成器.
@@ -62,12 +62,14 @@
 - [waveform-playlist](https://github.com/naomiaro/waveform-playlist)  -具有画布波形预览的多轨Web音频编辑器和播放器.  设置提示，淡入淡出并及时移动多个音轨.  录制音轨或提供音频注释.  将您的混音导出到AudioBuffer或WAV！  受Audacity启发的项目.
 - [SoundCycle](https://github.com/scriptify/soundcycle) -基于Web音频的Loopstation，适用于具有效果和不同循环模式的音乐家.
 - [DSP.audio Worklet Editor](https://dsp.audio/editor/)  -在线音频Worklet编辑器，可与采样器，MIDI和分析器进行素描和协作.  类似于JSFiddle，但用于DSP.
+- [AudioMass](https://audiomass.co/) -免费，开源，基于Web的音频和波形编辑器.
+- [Csound IDE](https://ide.csound.com/) -用于的Web IDE [CSound programming language](https://en.wikipedia.org/wiki/Csound).
 
 ## Resources
 
 ### Tutorials
 
-- [WebAudio School](https://github.com/mmckegg/web-audio-school) -一系列自学式的学习WebAudio的研讨会.
+- [WebAudio School](https://github.com/mmckegg/web-audio-school) -一系列学习WebAudio的自营研讨会.
 - [Web Audio API Understandable Reference](https://web-audio-api.firebaseapp.com/) -旨在使那些了解一些JavaScript和基本音频原理的人易于理解的参考.
 - [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) -WebAudio简介.
 - [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) -越来越多的带有CodePen链接的轻型代码示例.
@@ -76,7 +78,7 @@
 
 ### Books
 
-- [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) -所有示例均使用Web Audio自下而上的JavaScript / DOM课程.
+- [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.
 - [Web Audio API](https://webaudioapi.com/book/)  -旨在成为几乎没有数字音频专业知识的Web开发人员的跳板.  面向游戏音频和交互式应用程序.
 
 ### Newsletters
@@ -118,6 +120,7 @@
 - [midi-ports](https://github.com/AndrejHronco/midi-ports) -方便的资料库，使连接附带的MIDI设备的工作更加轻松.
 - [Midi Logger](http://outputchannel.com/midi-logger/) -此Midi Logger将所有Midi输入输出到浏览器以进行调试.
 - [Code Player](https://github.com/jcppman/code-player) -一个实验性应用，可让您的代码为您歌唱.
+- [Web Audio Modules](https://www.webaudiomodules.org/) -用于Web浏览器的合成器和音频效果处理器（包括API和实现）.
 
 ## License
 

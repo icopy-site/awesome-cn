@@ -95,10 +95,11 @@
 - [Tailwind Templates](https://www.tailwindtemplates.io) -Tailwind CSS组件.
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) -使用jQuery和Tailwind CSS进行切换.
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) -Tailwind Starter Kit是Tailwind CSS，免费和开源的扩展.
-- [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
+- [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
 - [tailblocks](https://mertjf.github.io/tailblocks) -60多种不同的随时可以使用Tailwind CSS块.
 - [Meraki UI Components](https://merakiui.com) -支持RTL语言的精美Tailwind CSS组件.
 - [Treact](https://treact.owaiskhan.me) -使用Tailwind CSS构建的React UI模板和组件.
+- [VueTailwindPicker](https://vue-tailwind-picker.netlify.app) -使用Tailwind CSS的Vue.js的Datepicker组件.
 
 ## Resources
 
@@ -113,7 +114,7 @@
 - [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) -Tailwind CSS类名称，变体和指令备忘单.
 - [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) -Tailwind CSS类名称备忘单.
 - [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) -尾风CSS类名称在一个文件中.
-- [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
+- [tailwind.run](https://tailwind.run) -带有内置功能的Tailwind CSS提琴（在线）.
 - [Maizzle](https://maizzle.com/) -使用Tailwind CSS快速进行电子邮件原型制作的框架.
 
 ### Tools
@@ -129,7 +130,7 @@
 -  [Tailwindo](https://github.com/awssat/tailwindo) -引导到Tailwind CSS转换器.
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) -转换工具，用于将HTML文件从Tailwind CSS v0.x升级到v1.0.
 -  [Tailwind Shift](https://github.com/awssat/tailwind-shift) -用于从Tailwind CSS v0.7升级到v1.0的升级工具.
--  [tailwind.run](https://tailwind.run) - Tailwind CSS fiddle with built-time features (online).
+-  [tailwind.run](https://tailwind.run) -带有内置功能的Tailwind CSS提琴（在线）.
 -  [typed-tailwind](https://github.com/dvkndn/typed-tailwind) -Tailwind CSS的TypeScript类型.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) -生成Tailwind配置的Zeplin扩展.
 -  [Gatsby Plugin Tailwind CSS](https://github.com/muhajirframe/gatsby-plugin-tailwindcss) -Gastby插件，可将Tailwind CSS与CSS-in-JS结合使用.

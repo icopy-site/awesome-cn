@@ -17,7 +17,7 @@
 * [ballista](https://github.com/ballista-compute/ballista) -使用Rust，Apache Arrow和Kubernetes的分布式计算平台的PoC！
 * [denoland/deno](https://github.com/denoland/deno) —使用V8，Rust和Tokio构建的安全JavaScript / TypeScript运行时 [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) — Kubernetes的超轻服务网格.
-* [darrint/device-blocker](https://github.com/darrint/device-blocker) —通过阻止家庭Wifi路由器上的互联网访问，将屏幕显示时间限制在儿童的各种移动设备上.
+* [darrint/device-blocker](https://github.com/darrint/device-blocker) —通过阻止家庭Wifi路由器上的互联网访问，将屏幕时间限制在儿童的各种移动设备上.
 * [Fractalide](https://github.com/fractalide/fractalide) —简单的Rust微服务
 * [habitat](https://www.habitat.sh) —由创建的工具 [Chef](https://www.chef.io/) 来构建，部署和管理应用程序.
 * [Herd](https://github.com/imjacobclark/Herd) —一个实验性的HTTP负载测试应用程序
@@ -150,7 +150,7 @@
 * [tock/tock](https://github.com/tock/tock) —用于基于Cortex-M的微控制器的安全嵌入式操作系统
 
 ### Productivity
-* [espanso](https://github.com/federico-terzi/espanso) —用Rust编写的跨平台文本扩展器 [![Build Status](https://dev.azure.com/freddy6896/espanso/_apis/build/status/federico-terzi.espanso?branchName=master)](https://dev.azure.com/freddy6896/espanso/_build/latest?definitionId=1&branchName=master)
+* [espanso](https://github.com/federico-terzi/espanso) —用Rust编写的跨平台文本扩展器 [![Build Status](https://dev.azure.com/freddy6896/espanso/_apis/build/status/federico-terzi.espanso?branchName=master)](https://dev.azure.com/freddy6896/espanso/_build)
 * [eureka](https://crates.io/crates/eureka) -一个CLI工具，无需离开终端即可输入和存储您的想法
 
 ### Security tools
@@ -209,7 +209,7 @@
 * [raftario/licensor](https://github.com/raftario/licensor) —将许可证写入标准输出 [![GitHub Actions](https://github.com/raftario/licensor/workflows/Build/badge.svg?branch=master)](https://github.com/raftario/licensor/actions?workflowID=Build)
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) —一个命令行工具，用于使用灵活模式远程连接Amazon S3文件.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) —一个命令行工具，用于收集有关您的Amazon S3存储桶的元数据.
-* [whitfin/s3-utils](https://github.com/whitfin/s3-utils) —包含一个基于Amazon S3的实用程序的小工具，用于提供其他便利API.
+* [whitfin/s3-utils](https://github.com/whitfin/s3-utils) —包含一个基于Amazon S3的实用程序的小工具，用于提供其他便利性API.
 * [gorros/s3-edit-rs](https://github.com/gorros/s3-edit-rs) —一个命令行工具，可直接在Amazon S3上编辑文件.
 * [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) —用Rust编写的tmux手指的闪电般快速版本，像vimium / vimperator一样复制/粘贴tmux.
 * [amar-laksh/workstation](https://github.com/amar-laksh/workstation) —一个命令行工具，可通过使您与屏幕保持一定距离来帮助您管理工作站，并通过OPENCV在您不在时锁定屏幕！
@@ -304,7 +304,7 @@
 ### Deployment
 
 *码头工人
-  * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) —用于使用musl-libc和musl-gcc编译静态Rust二进制文件的Docker映像，以及有用的C库的静态版本
+  * [emk/rust-musl-builder](https://github.com/emk/rust-musl-builder) — Docker映像，用于使用musl-libc和musl-gcc以及可用的C库的静态版本来编译静态Rust二进制文件
   * [kpcyrd/mini-docker-rust](https://raw.githubusercontent.com/kpcyrd/mini-docker-rust) —一个非常小的rust docker映像的示例项目 [<img src="https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master">](https://travis-ci.org/kpcyrd/mini-docker-rust)
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) —多个版本（使用Musl工具）Rust Docker映像
   * [messense/rust-musl-cross](https://raw.githubusercontent.com/messense/rust-musl-cross) —用于使用musl-cross编译静态Rust二进制文件的Docker映像 [<img src="https://api.travis-ci.org/messense/rust-musl-cross.svg?branch=master">](https://travis-ci.org/messense/rust-musl-cross)
@@ -328,7 +328,7 @@
 
 ### FFI
 
-也可以看看 [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html),  [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) （使用其他语言使用Rust编写的代码的示例集合）和 [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples).
+也可以看看 [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html),  [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) （使用其他语言以Rust编写的代码的示例集合）和 [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples).
 
 * C
   * [rlhunt/cbindgen](https://raw.githubusercontent.com/eqrion/cbindgen)  —从Rust源文件生成C头文件.  在Gecko中用于WebRender [<img src="https://api.travis-ci.org/eqrion/cbindgen.svg?branch=master">](https://travis-ci.org/eqrion/cbindgen)
@@ -643,7 +643,7 @@
 ### Configuration
 
 * [Kixunil/configure_me](https://github.com/Kixunil/configure_me) [[configure_me](https://crates.io/crates/configure_me)] —用于轻松处理应用程序配置的库
-* [andoriyu/uclicious](https://github.com/andoriyu/uclicious) [[uclicious](https://crates.io/crates/uclicious)] — [libUCL](https://github.com/vstakhov/libucl) 基于功能丰富的配置库. [![Build Status](https://dev.azure.com/andoriyu/personal/_apis/build/status/andoriyu.uclicious?branchName=master)](https://dev.azure.com/andoriyu/personal/_build/latest?definitionId=7&branchName=master)
+* [andoriyu/uclicious](https://github.com/andoriyu/uclicious) [[uclicious](https://crates.io/crates/uclicious)] — [libUCL](https://github.com/vstakhov/libucl) 基于功能丰富的配置库. [![CircleCI](https://circleci.com/gh/vstakhov/libucl.svg?style=svg)](https://circleci.com/gh/vstakhov/libucl)
 
 ### Cryptography
 
@@ -894,7 +894,7 @@
 [[geo](https://crates.io/keywords/geo), [gis](https://crates.io/keywords/gis)]
 
 * [Georust](https://github.com/georust) —用Rust编写的地理空间工具和库
-* [rust-reverse-geocoder](https://github.com/llambda/rrgeo) —受https://github.com/thampiman/reverse-geocoder的启发，Rust中的一种离线离线反向地理编码器
+* [rust-reverse-geocoder](https://github.com/llambda/rrgeo) —受https://github.com/thampiman/reverse-geocoder的启发，Rust中的一种快速，离线的反向地理编码器
 
 ### Graphics
 
@@ -1184,7 +1184,7 @@
   * [Rocket](https://raw.githubusercontent.com/SergioBenitez/Rocket) —火箭是Rust的Web框架（每晚），重点是易用性，可表达性和速度 [<img src="https://api.travis-ci.org/SergioBenitez/Rocket.svg?branch=master">](https://travis-ci.org/SergioBenitez/Rocket)
   * [Rustless](https://raw.githubusercontent.com/rustless/rustless) —受REST启发的类似REST的API微框架 [Grape](https://raw.githubusercontent.com/ruby-grape/grape) 和 [Hyper](https://raw.githubusercontent.com/hyperium/hyper) [<img src="https://api.travis-ci.org/rustless/rustless.svg?branch=master">](https://travis-ci.org/rustless/rustless)
   * [Saphir](https://github.com/richerarc/saphir) —具有低级控制权的渐进式Web框架，轻松自如.
-  * [daogangtang/sapper](https://raw.githubusercontent.com/daogangtang/sapper) —一种轻量级的Web框架，该框架建立在异步超链接上，并以Rust语言实现. [<img src="https://api.travis-ci.org/daogangtang/sapper.svg?branch=master">](https://travis-ci.org/daogangtang/sapper)
+  * [daogangtang/sapper](https://raw.githubusercontent.com/daogangtang/sapper) —一种轻量级的Web框架，该框架基于Rust语言实现的异步超同步. [<img src="https://api.travis-ci.org/daogangtang/sapper.svg?branch=master">](https://travis-ci.org/daogangtang/sapper)
   * [tiny-http](https://raw.githubusercontent.com/tiny-http/tiny-http) —低级HTTP服务器库 [<img src="https://api.travis-ci.org/tiny-http/tiny-http.svg?branch=master">](https://travis-ci.org/tiny-http/tiny-http)
   * [tomaka/rouille](https://raw.githubusercontent.com/tomaka/rouille) — Rust中的Web框架 [<img src="https://api.travis-ci.org/tomaka/rouille.svg?branch=master">](https://travis-ci.org/tomaka/rouille)
   * [carllerche/tower-web](https://raw.githubusercontent.com/carllerche/tower-web) [[tower-web](https://crates.io/crates/tower-web)] —用于Rust的快速，免费的Web框架 [<img src="https://api.travis-ci.org/carllerche/tower-web.svg?branch=master">](https://travis-ci.org/carllerche/tower-web)
@@ -1209,8 +1209,8 @@
 *反向代理
   * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) [[sozu](https://crates.io/crates/sozu)] — HTTP反向代理. [![Build Status](https://api.travis-ci.org/sozu-proxy/sozu.svg?branch=master)](https://travis-ci.org/sozu-proxy/sozu)
 *静态网站生成器
-  * [getzola/zola](https://github.com/getzola/zola) [[zola](https://www.getzola.org/)]-具有内置功能的自觉静态站点生成器. [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build/latest?definitionId=1&branchName=master)
-  * [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) —用Rust编写的静态站点生成器 [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build/latest?definitionId=2&branchName=master)
+  * [getzola/zola](https://github.com/getzola/zola) [[zola](https://www.getzola.org/)]-具有内置功能的自觉静态站点生成器. [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build)
+  * [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) —用Rust编写的静态站点生成器 [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build?definitionId=2)
   * [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) — Markdown文件中的静态站点生成器.
   * [leven-the-blog/leven](https://raw.githubusercontent.com/leven-the-blog/leven) [[leven](https://crates.io/crates/leven)] —一个简单的并行化博客生成器. [<img src="https://api.travis-ci.org/quadrupleslap/leven.svg?branch=master">](https://travis-ci.org/quadrupleslap/leven)
 

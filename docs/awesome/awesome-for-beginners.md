@@ -36,6 +36,7 @@ A list of awesome beginner-friendly projects.
 - [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用OpenGL和GLSL的音乐可视化程序库.  具有使用Qt5，SDL，emscripten，iTunes，Kodi的应用程序.
 - [Roc](https://github.com/roc-project/roc/labels/help%20wanted)  _（标签：需要帮助）_ <br>  用于通过网络进行实时音频流传输的工具包.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome)  _（标签：stat：欢迎捐款）_ <br>  使用数据流图进行计算以进行可扩展的机器学习
+- [Yugabyte DB](https://github.com/yugabyte/yugabyte-db/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  分布式SQL数据库. 
 
 ## Clojure
 
@@ -229,7 +230,7 @@ A list of awesome beginner-friendly projects.
 - [Hanami](https://github.com/hanami/hanami/labels/easy)  _（标签：简单）_ <br>  Ruby的现代框架.
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In)  _（标签：类型：跳入）_ <br>  系统集成框架，旨在为您的整个基础架构带来配置管理的好处
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In)  _（标签：类型：跳入）_ <br>  Ohai对您的系统进行了配置并发出JSON
-- [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  一个用于环境项目的开源发布平台.  查看 [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
+- [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
 - [Discourse](https://meta.discourse.org/tags/starter-task) _(tag: #starter-task)_ <br>Civilized discussion platform. See ["How to contribute to Discourse"](https://meta.discourse.org/t/how-to-contribute-to-discourse/53797).
 - [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源事件管理器.  针对免费和开源软件会议量身定制的事件管理工具 </br>  看到 ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A)  _（标签：第一期好）_ <br>  一种通用系统，用于以自动，一致且可复制的方式从源构建和分发软件包. </br>  看到 ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
