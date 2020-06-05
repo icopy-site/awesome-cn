@@ -5,7 +5,7 @@
 
 &gt;精选的出色神经科学库，软件和与该领域相关的任何内容的列表.
 
-[Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)  研究神经系统如何发展，其结构及其功能.  神经科学家专注于大脑及其对行为和认知功能的影响.  传统上，神经科学被视为生物学的一个分支，但是它已经涵盖了广泛的跨学科领域，这些领域共同致力于在多个研究水平上阐明大脑功能.
+[Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)  研究神经系统如何发展，其结构及其功能.  神经科学家专注于大脑及其对行为和认知功能的影响.  传统上，神经科学被视为生物学的一个分支，但是它已经发展为涵盖了广泛的跨学科领域，这些领域共同致力于在多个研究水平上阐明大脑功能.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -28,7 +28,8 @@
 - [NuPic](https://github.com/numenta/nupic) -Numenta智能计算平台是分层时间记忆（HTM）的实现，HTM是一种严格基于新皮层神经科学的智能理论.
 - [Brian2](https://github.com/brian-team/brian2) -免费的开放源代码模拟器，用于突刺神经网络.
 - [expyriment](https://github.com/expyriment/expyriment) -独立于平台的轻量级Python库，用于设计和执行对时间要求严格的行为和神经影像实验.
-
+ - [BindsNET](https://github.com/Hananel-Hazan/bindsnet) -用于增强和机器学习的模拟尖峰神经网络的软件包.
+ 
 ### Matlab
 
 - [FieldTrip](https://github.com/fieldtrip/fieldtrip) -用于MEG和EEG分析的工具箱.
@@ -36,7 +37,7 @@
 
 ### C++
 
-- [Brayns](https://github.com/BlueBrain/Brayns)  -可以执行射线追踪神经元渲染的简约可视化工具.  射线追踪可以帮助突出显示神经回路中细胞相互接触以及正在形成突触的区域，从而可以更好地了解单个细胞以及随后的大脑功能.
+- [Brayns](https://github.com/BlueBrain/Brayns)  -可以执行射线跟踪神经元渲染的简约可视化工具.  射线追踪可以帮助突出显示神经回路中细胞彼此接触以及正在形成突触的区域，从而使人们更好地了解单个细胞以及随后的大脑功能.
 
 ### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) -图书馆展示了一套主要针对神经影像的基于Web的3D可视化工具集.
@@ -65,7 +66,7 @@
 [Massive Open Online Courses (MOOCs)](https://en.wikipedia.org/wiki/Massive_open_online_course) 是基于Web的免费远程学习计划，旨在让大量地理位置分散的学生参与.
 MOOC可以在学院或大学的课程中使用，也可以使用较少的结构.
 
-- [The Fundamentals of Neuroscience | Harvard & edX](https://www.mcb80x.org/) -提供有关神经科学主题的介绍性概述，并且没有特定的先决条件，尽管事先接触生物学和/或化学可能会有所帮助.
+- [The Fundamentals of Neuroscience | Harvard & edX](https://www.mcb80x.org/) -提供有关神经科学主题的简介，并且没有特定的先决条件，尽管事先接触生物学和/或化学可能会有所帮助.
 - [Introduction to Neuroscience | MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) -介绍哺乳动物神经系统，重点是人脑的结构和功能.
 - [Computational Neuroscience | Coursera](https://www.coursera.org/learn/computational-neuroscience) -介绍基本的计算方法，以了解神经系统的功能并确定其功能.
 - [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) -探索人类中枢神经系统的功能组织和神经生理学，同时提供了解人类行为的神经生物学框架.
@@ -84,7 +85,7 @@ MOOC可以在学院或大学的课程中使用，也可以使用较少的结构.
 - [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) -用于基于神经元的历史计算模型的模拟器.
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) -用于计算神经科学模型的可搜索数据库.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) -三种类型的神经元特性的可搜索数据库：电压门控电导，神经递质受体和神经递质.
-- [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) -交互式思维导图，包含对学习神经科学感兴趣的人的精选资源.
+- [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) -交互式思维导图，包含对学习神经科学感兴趣的任何人的精选资源.
 - [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) -神经科学和相关领域的夏季（和季节性）夏季学校列表.
 - [Brain Matters](https://brainpodcast.com/) -神经科学播客，真正的神经科学家坐在那里谈论大脑.
 

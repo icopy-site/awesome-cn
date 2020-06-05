@@ -46,6 +46,7 @@
 - [ros2cli](https://github.com/ros2/ros2cli) -ROS 2命令行工具. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) -Orocos运动学和动力学C ++库. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) -用于Vortex Lite和OpenSplice的简单DDS Python API. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
+- [Webots](https://cyberbotics.com) -ROS 2的机器人模拟器. ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
 
 ### Penetration testing
 
@@ -190,7 +191,7 @@
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) -官方的NuttX前叉，可用于micro-ROS.
-- [RIOT](https://github.com/RIOT-OS/RIOT) -RIOT是一种实时多线程操作系统（...）实时功能，较小的内存占用（...）API提供了部分POSIX兼容性.
+- [RIOT](https://github.com/RIOT-OS/RIOT) -RIOT是一种实时多线程操作系统（...）实时功能，较小的内存占用量（...）API提供了部分POSIX兼容性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) -适用于多核处理器的POSIX兼容实时操作系统有望在未来支持AUTOSAR.
 - [Zephyr](https://www.zephyrproject.org/) -Linux Foundation Projects RTOS旨在提高安全性.
 - [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) -用于关键基础架构的安全，安全，可靠和可认证的实时操作系统

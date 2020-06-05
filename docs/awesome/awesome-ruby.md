@@ -190,7 +190,7 @@
 * [Brakeman](https://github.com/presidentbeef/brakeman) -用于Ruby on Rails应用程序的静态分析安全漏洞扫描程序.
 * [Coverband](https://github.com/danmayer/coverband) -机架中间件，以帮助评估生产代码覆盖率.
 * [Fasterer](https://github.com/DamirSvrtan/fasterer) -受快速红宝石和Sferik在Baruco Conf上的演讲启发，此命令行工具使您的红宝石运行得更快.
-* [Flay](https://github.com/seattlerb/flay)  -Flay分析代码的结构相似性.  文字值，变量，类，方法名称，空格，编程样式，花括号与do / end等的差异都将被忽略.  使这完全rad.
+* [Flay](https://github.com/seattlerb/flay)  -Flay分析代码的结构相似性.  文字值，变量，类，方法名称，空格，编程样式，花括号与执行/结束等之间的差异都将被忽略.  使这完全rad.
 * [Flog](https://github.com/seattlerb/flog)  -Flog在易于阅读的疼痛报告中报告了遭受最多折磨的代码.  分数越高，代码所处的痛苦就越大.
 * [fukuzatsu](https://gitlab.com/coraline/fukuzatsu#fukuzatsu) -具有丰富的Web前端的复杂度分析工具.
 * [MetricFu](https://github.com/metricfu/metric_fu) -充满代码度量的拳头.
@@ -243,7 +243,7 @@
 
 ## Configuration
 
-* [Chamber](https://github.com/thekompanee/chamber) -令人惊讶的可自定义的基于约定的方法来管理您的应用程序的配置.
+* [Chamber](https://github.com/thekompanee/chamber) -令人惊讶的可自定义的基于约定的方法来管理应用程序的配置.
 * [Configatron](https://github.com/markbates/configatron) -简单且功能丰富的Ruby应用配置系统.
 * [Configus](https://github.com/kaize/configus) -帮助您轻松管理特定于环境的设置.
 * [dotenv](https://github.com/bkeepers/dotenv) -从.env加载环境变量.
@@ -298,7 +298,7 @@
 
 ## Data Processing and ETL
 
-* [CSV Reader](https://github.com/csvreader/csvreader) -现代的表格数据（逐行记录）阅读器不仅支持“经典​​” CSV，而且还支持CSV数字，CSV &lt;3 JSON，CSV &lt;3 YAML，制表符，空格或固定宽度字段（FWF）等更多口味和方言.
+* [CSV Reader](https://github.com/csvreader/csvreader) -现代的表格数据（逐行记录）阅读器支持“经典​​” CSV，但也支持CSV数字，`CSV &lt;3 JSON`，`CSV &lt;3 YAML`，制表符，空格或固定宽度字段（FWF）以及许多更多口味和方言.
 * [Kiba](http://www.kiba-etl.org) -Ruby的轻量级数据处理/ ETL框架.
 * [ruby-stemmer](https://github.com/aurelian/ruby-stemmer) -它提供了Snowball算法以用于阻止目的.
 
@@ -465,7 +465,7 @@
 * [RbNaCl](https://github.com/cryptosphere/rbnacl) -Ruby绑定到网络和密码学（NaCl）库.
 * [Sym](https://github.com/kigster/sym)  -基于OpenSSL的省时对称加密gem，使用256位（密码加密）密钥.  从STDIN，文件，ENV或在Mac：OS-X钥匙串上读取密钥.
 * [Symmetric Encryption](http://rocketjob.github.io/symmetric-encryption/)  -透明加密ActiveRecord，Mongoid和MongoMapper属性.  加密配置文件中的密码.  加密整个静态文件.
-* [Themis](https://github.com/cossacklabs/themis) -加密库可实现无痛数据安全性，为移动和服务器平台提供对称和非对称加密，具有前向保密性的安全套接字.
+* [Themis](https://github.com/cossacklabs/themis) -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有前向保密性的安全套接字.
 
 ## Environment Management
 
@@ -477,7 +477,7 @@
 * [ruby-install](https://github.com/postmodern/ruby-install) -安装Ruby，JRuby，Rubinius，MagLev或MRuby.
 * [RVM](https://rvm.io) -RVM是一种命令行工具，可让您轻松安装，管理和使用从解释程序到宝石组的多个红宝石环境.
 * [Tokaido](https://github.com/tokaido/tokaidoapp/releases) -Ruby，Rails，SQLite和Redis封装在一个拖放式OS X应用程序中，旨在使初学者轻松安装有效的RoR环境.
-* [Uru](https://bitbucket.org/jonforums/uru) -Uru是一种轻量级的多平台命令行工具，可帮助您在32/64位Linux，OS X或Windows系统上使用多个红宝石.
+* [Uru](https://bitbucket.org/jonforums/uru) -Uru是轻量级的多平台命令行工具，可帮助您在32/64位Linux，OS X或Windows系统上使用多个红宝石.
 
 ## Error Handling
 
@@ -539,7 +539,7 @@
 ## Geolocation
 
 * [Geocoder](https://github.com/alexreisner/geocoder)  -完整的Ruby地理编码解决方案.  使用Rails，它可以添加地理编码（按街道或IP地址），反向地理编码（根据给定的坐标查找街道地址）和距离查询.
-* [geoip](https://github.com/cjheath/geoip) -在GeoIP数据库中搜索给定的主机或IP地址，并返回有关IP地址分配国家/地区以及城市，ISP和其他信息的信息.
+* [geoip](https://github.com/cjheath/geoip) -在GeoIP数据库中搜索给定的主机或IP地址，并返回有关IP地址分配国家，城市，ISP和其他信息的信息.
 * [Geokit](https://github.com/geokit/geokit) -Geokit gem提供地理编码和距离/航向计算.
 * [Google Maps for Rails](https://github.com/apneadiving/Google-Maps-for-Rails) -在Ruby应用程序中轻松创建Google Map +叠加层.
 * [rgeo](https://github.com/rgeo/rgeo)  -地理空间数据库.  空间数据类型，几何和球形计算以及WKT / WKB序列化.
@@ -709,7 +709,7 @@
 * [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) -一个简单的Ruby on Rails插件，用于创建和管理Rails项目的面包屑导航.
 * [Gretel](https://github.com/lassebunk/gretel) -Ruby on Rails插件，可以轻松而灵活地创建面包屑.
 * [loaf](https://github.com/peter-murach/loaf) -在Rails应用程序中管理和显示面包屑跟踪-精简和卑鄙.
-* [Simple Navigation](https://github.com/codeplant/simple-navigation) -红宝石，可为Rails 2、3和4，Sinatra或Padrino创建导航（HTML列表，链接列表或具有多个级别的面包屑）.
+* [Simple Navigation](https://github.com/codeplant/simple-navigation) -红宝石，可为Rails 2、3和4，Sinatra或Padrino创建导航（HTML列表，链接列表或多级面包屑）.
 
 ## Networking
 
@@ -798,7 +798,7 @@
 
 * [Kaminari](https://github.com/amatsuda/kaminari) -适用于现代Web应用程序框架和ORM的基于范围和引擎的，干净，功能强大，可自定义和复杂的分页器.
 * [order_query](https://github.com/glebm/order_query) -键集分页库，用于高效查找相对于当前记录的下一个或上一个记录，例如无限滚动.
-* [Pagy](https://github.com/ddnexus/pagy)  -Pagy是最终的分页宝石，在每个基准和比较中均胜过其他分页.  有关更多详细信息，请参见 [Pagy Wiki](https://ddnexus.github.io/pagy/index).
+* [Pagy](https://github.com/ddnexus/pagy)  -Pagy是终极的分页宝石，在每个基准和比较中均胜过其他分页.  有关更多详细信息，请参见 [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 * [will_paginate](https://github.com/mislav/will_paginate) -一个分页库，与Ruby on Rails，Sinatra，Merb，DataMapper和Sequel集成.
 
 ## PDF
@@ -1039,7 +1039,7 @@
   * [Mocha](https://github.com/freerange/mocha) -Mocha是Ruby的模拟和存根库.
   * [RR](https://github.com/rr/rr) -测试双重框架，具有丰富的双重技术选择和简洁的语法.
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)  -提供与Test :: Unit和RSpec兼容的单线，以测试常见的Rails功能.  否则，这些测试将更长，更复杂且容易出错.
-  * [Spinach](https://github.com/codegram/spinach) -Spinach是高级BDD框架，它利用表达性的Gherkin语言（由Cucumber使用）来帮助您定义应用程序或库接受标准的可执行规范.
+  * [Spinach](https://github.com/codegram/spinach) -Spinach是一个高级BDD框架，它利用表达性的Gherkin语言（由Cucumber使用）来帮助您定义应用程序或库接受标准的可执行规范.
   * [Test::Unit](http://test-unit.github.io) -Test :: Unit是Ruby的xUnit系列单元测试框架.
 * Fake Data
   * [Fabrication](http://fabricationgem.org/) -一个简单而强大的对象生成库.
@@ -1112,7 +1112,7 @@
 
 * [auto_html](https://github.com/dejan/auto_html) -Rails扩展，用于将URL转换为适当的资源（图像，链接，YouTube，Vimeo视频...）.
 * [Bh](https://github.com/fullscreen/bh) -Ruby的Bootstrap助手.
-* [gon](https://github.com/gazay/gon) -如果您需要将一些数据发送到js文件，而又不想通过视图和解析进行漫长的工作，请使用gon.
+* [gon](https://github.com/gazay/gon) -如果您需要将一些数据发送到js文件，并且不想通过视图和解析进行漫长的工作，请使用gon.
 * [Komponent](https://github.com/komposable/komponent) -基于组件在Rails中组织前端代码的一种自以为是的方式.
 * [PluggableJs](https://github.com/peresleguine/pluggable_js) -Rails应用程序的页面特定javascript，具有从控制器传递数据的能力.
 * [render_async](https://github.com/renderedtext/render_async) -将局部视图异步呈现给您的视图，并提高页面的加载性能.
@@ -1134,7 +1134,7 @@
 * [Hanami](http://hanamirb.org) -它旨在利用稳定的API，最小的DSL和普通对象，将面向对象的编程重新带回Web开发.
 * [Hyperstack](https://hyperstack.org/) -使用React和Opal的完整同构Ruby框架.
 * [Padrino](http://www.padrinorb.com) -建立在Sinatra上的全栈红宝石框架.
-* [Pakyow](https://www.pakyow.org/)  -在Ruby中构建现代Web应用程序的框架.  它通过对设计师和开发人员都友好的开发过程，帮助您更快地构建工作软件.
+* [Pakyow](https://pakyow.com/)  -在Ruby中构建现代Web应用程序的框架.  它通过对设计师和开发人员都友好的开发过程，帮助您更快地构建工作软件.
 * [Rack::App](https://github.com/rack-app/rack-app) -用于构建机架应用程序的裸骨简约框架.
 * [Ramaze](http://ramaze.net/) -用Ruby编写的简单，轻便和模块化的开源Web应用程序框架.
 * [Roda](http://roda.jeremyevans.net/) -路由树Web框架.
