@@ -147,9 +147,9 @@ html {
 }
 ```
 
-感谢Adam Argyle分享此技巧和演示 
+感谢Adam Argyle分享此建议和 [demo](https://codepen.io/argyleink/pen/VwYJpgR).
 
-### [Demo](https://codepen.io/argyleink/pen/VwYJpgR)
+<sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Add `line-height` to `body`
@@ -288,7 +288,7 @@ li：not（：nth-​​child（-n + 3））{
 
 SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [back to IE9](http://caniuse.com/#search=svg) .  抛弃您的.png，.jpg或.gif-jif-whatev文件.
 
-**注意：**如果您为有视力的用户提供仅SVG图标的按钮，而SVG无法加载，则有助于维护可访问性：
+**注意：**如果您为有视力的用户提供仅SVG图标的按钮，而SVG无法加载，这将有助于维持可访问性：
 
 ```css
 .no-svg .icon-only ::之后{
@@ -301,7 +301,7 @@ SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [bac
 
 ### Use the "Lobotomized Owl" Selector
 
-它可能有一个奇怪的名称，但是将通用选择器（`*`）与相邻的兄弟选择器（`+`）结合使用可以提供强大的CSS功能：
+它可能有一个奇怪的名字，但是将通用选择器（`*`）与相邻的兄弟选择器（`+`）结合使用可以提供强大的CSS功能：
 
 ```css
 * + * {

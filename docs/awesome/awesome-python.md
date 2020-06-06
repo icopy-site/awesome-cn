@@ -25,20 +25,24 @@
 
 ## Algorithms and Design Patterns
 
-*算法和设计模式的Python实现.*
+*数据结构，算法和设计模式的Python实现.*
 
-* [algorithms](https://github.com/keon/algorithms) -Python中数据结构和算法的最小示例.
-* [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) -一个简单而有效的库，用于实现常见的设计模式.
-* [python-ds](https://github.com/prabhupant/python-ds) -干净，简单的Python数据结构和算法收集，用于编写采访.
-* [python-patterns](https://github.com/faif/python-patterns) -Python中的设计模式集合.
-* [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) -SortedList，SortedDict和SortedSet类型的快速，纯Python实现.
-* [transitions](https://github.com/pytransitions/transitions) -Python中的轻量级，面向对象的有限状态机实现.
+*算法
+    * [TheAlgorithms](https://github.com/TheAlgorithms/Python) -用Python实现的所有算法.
+    * [algorithms](https://github.com/keon/algorithms) -数据结构和算法的最少示例.
+    * [python-ds](https://github.com/prabhupant/python-ds) -用于采访采访的数据结构和算法的集合.
+    * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) -排序集合的快速和纯Python实现.
+*设计模式
+    * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) -一个简单而有效的库，用于实现常见的设计模式.
+    * [python-patterns](https://github.com/faif/python-patterns) -Python中的设计模式集合.
+    * [transitions](https://github.com/pytransitions/transitions) -轻量级的，面向对象的有限状态机实现.
 
 ## ASGI Servers
 
-*与ASGI兼容的Web服务器.
+*[ASGI](https://asgi.readthedocs.io/en/latest/)兼容的Web服务器.*
 
-* [uvicorn](https://github.com/encode/uvicorn) -Uvicorn是使用uvloop和httptools的闪电般快速的ASGI服务器实现.
+* [uvicorn](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+* [daphne](https://github.com/django/daphne) -用于ASGI和ASGI-HTTP的HTTP，HTTP2和WebSocket协议服务器.
 
 ## Asynchronous Programming
 
@@ -78,7 +82,7 @@
     * [python-social-auth](https://github.com/omab/python-social-auth) -易于设置的社交身份验证机制.
 *智威汤逊
     * [pyjwt](https://github.com/jpadilla/pyjwt) -Python中的JSON Web令牌实现.
-    * [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
+    * [python-jose](https://github.com/mpdavis/python-jose/) -用Python实现的JOSE实现.
     * [python-jwt](https://github.com/davedoesdev/python-jwt) -用于生成和验证JSON Web令牌的模块.
 
 ## Build Tools
@@ -141,7 +145,7 @@
 *代码短毛
     * [flake8](https://pypi.org/project/flake8/) -围绕着pycodestyle，pyflakes和McCabe的包装器.
         * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
-    * [pylint](https://www.pylint.org/) - A fully customizable source code analyzer.
+    * [pylint](https://www.pylint.org/) -完全可定制的源代码分析器.
     * [pylama](https://github.com/klen/pylama) -用于Python和JavaScript的代码审核工具.
     * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -有史以来最严格，最自以为是的python linter.
 *代码格式化程序
@@ -307,7 +311,7 @@
     * [happybase](https://github.com/wbolster/happybase) -Apache HBase的开发人员友好型库.
     * [kafka-python](https://github.com/dpkp/kafka-python) -Apache Kafka的Python客户端.
     * [py2neo](https://py2neo.org/) -用于Neo4j的客户端库和工具包.
-    * [pymongo](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
+    * [pymongo](https://github.com/mongodb/mongo-python-driver) -MongoDB的官方Python客户端.
     * [redis-py](https://github.com/andymccurdy/redis-py) -Redis的Python客户端.
 *异步客户端
     * [motor](https://github.com/mongodb/motor) -MongoDB的异步Python驱动程序.
@@ -316,7 +320,7 @@
 
 *用于处理日期和时间的库.
 
-* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，它提供了一种明智且人性化的方法来创建，操作，格式化和转换日期，时间和时间戳.
+* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，提供了一种明智且人性化的方法来创建，处理，格式化和转换日期，时间和时间戳.
 * [Chronyk](https://github.com/KoffeinFlummi/Chronyk) -一个Python 3库，用于解析人类编写的时间和日期.
 * [dateutil](https://github.com/dateutil/dateutil) -对标准Python的扩展 [datetime](https://docs.python.org/3/library/datetime.html) 模块.
 * [delorean](https://github.com/myusuf3/delorean/) -一个库，用于清除与日期时间有关的不便事实.
@@ -391,10 +395,10 @@
     * [PySpark](https://pypi.org/project/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
     * [dask](https://github.com/dask/dask) -用于分析计算的灵活并行计算库.
     * [luigi](https://github.com/spotify/luigi) -一个模块，可帮助您构建批处理作业的复杂管道.
-    * [mrjob](https://github.com/Yelp/mrjob) -在Hadoop或Amazon Web Services上运行MapReduce作业.
-    * [Ray](https://github.com/ray-project/ray/) -用于统一和分布式Python的系统，统一了机器学习生态系统.
+    * [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
+    * [Ray](https://github.com/ray-project/ray/) -一个用于并行和分布式Python的系统，该系统统一了机器学习生态系统.
 *流处理
-    * [faust](https://github.com/robinhood/faust) -流处理库，可移植来自 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 到Python.
+    * [faust](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) 到Python.
     * [streamparse](https://github.com/Parsely/streamparse) -通过实时数据流运行Python代码 [Apache Storm](http://storm.apache.org/).
 
 ## Distribution
@@ -470,7 +474,7 @@
 *邮件服务器
     * [modoboa](https://github.com/modoboa/modoboa) -包含现代Web UI的邮件托管和管理平台.
     * [salmon](https://github.com/moggers87/salmon) -Python邮件服务器.
-* Clients
+*客户
     * [imbox](https://github.com/martinrusev/imbox) -适用于人类的Python IMAP.
     * [yagmail](https://github.com/kootenpv/yagmail) -另一个Gmail / SMTP客户端.
 * 其他
@@ -523,7 +527,7 @@
 * [Coconut](https://github.com/evhub/coconut) -为简单，优雅，Pythonic函数式编程而构建的Python变体.
 * [fn.py](https://github.com/kachayev/fn.py) -Python中的函数式编程：实现缺少功能以享受FP.
 * [funcy](https://github.com/Suor/funcy) -精美实用的功能工具.
-* [more-itertools](https://github.com/erikrose/more-itertools) -除了`itertools`之外，还有更多的可迭代操作例程.
+* [more-itertools](https://github.com/erikrose/more-itertools) -除了`itertools`之外，还有更多用于操作可迭代程序的例程.
 * [returns](https://github.com/dry-python/returns) -一组类型安全的monad，变形金刚和合成工具.
 * [Toolz](https://github.com/pytoolz/toolz) -迭代器，函数和字典的函数实用程序集合.
 * [CyToolz](https://github.com/pytoolz/cytoolz/) -“工具”的Cython实现：高性能功能实用程序.
@@ -643,10 +647,10 @@
 * [CPython](https://github.com/python/cpython) -**默认的，使用C语言编写的Python编程语言的最广泛使用的实现.**
 * [Cython](http://cython.org/) -针对Python优化静态编译器.
 * [CLPython](https://github.com/metawilm/cl-python) -以Common Lisp编写的Python编程语言的实现.
-* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，因为它是更强大的CPython2.7替代（alpha）.
+* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，是更强大的CPython2.7替代（alpha）.
 * [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 * [Jython](https://hg.python.org/jython) -为JVM用Java编写的Python编程语言的实现.
-* [MicroPython](https://github.com/micropython/micropython) -精简高效的Python编程语言实现.
+* [MicroPython](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
 * [Numba](http://numba.pydata.org/) -针对科学Python的LLVM的Python JIT编译器.
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) -嵌入在Python中的x86-64汇编器.
 * [Pyjion](https://github.com/Microsoft/Pyjion) -基于CoreCLR的Python JIT.
@@ -778,7 +782,7 @@
 * NoSQL数据库
     * [hot-redis](https://github.com/stephenmcd/hot-redis) -Redis的丰富Python数据类型.
     * [mongoengine](https://github.com/MongoEngine/mongoengine) -用于MongoDB的Python对象文档映射器.
-    * [PynamoDB](https://github.com/pynamodb/PynamoDB) -用于的Pythonic界面 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
+    * [PynamoDB](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
     * [redisco](https://github.com/kiddouk/redisco) -用于Redis的简单模型和容器的Python库.
 
 ## Package Management
@@ -856,7 +860,7 @@
     * [hug](https://github.com/hugapi/hug) -一个用于彻底公开API的Python 3框架.
     * [sandman2](https://github.com/jeffknupp/sandman2) -用于现有数据库驱动系统的自动化REST API.
     * [sanic](https://github.com/huge-success/sanic) -Python 3.6以上版本的Web服务器和Web框架，可以快速运行.
-    * [vibora](https://vibora.io/) - Fast, efficient and asynchronous Web framework inspired by Flask.
+    * [vibora](https://vibora.io/) -受Flask启发的快速，高效和异步的Web框架.
 
 ## Robotics
 
@@ -889,7 +893,7 @@
 * [Open Babel](http://openbabel.org/wiki/Main_Page) -一种化学工具箱，旨在说多种化学数据语言.
 * [ObsPy](https://github.com/obspy/obspy/wiki/) -地震学的Python工具箱.
 * [PyDy](http://www.pydy.org/) -Python Dynamics的缩写，用于协助动态运动建模的工作流程.
-* [PyMC](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
+* [PyMC](https://github.com/pymc-devs/pymc3) -马尔可夫链蒙特卡洛采样工具包.
 * [QuTiP](http://qutip.org/) -Python中的Quantum Toolbox.
 * [RDKit](http://www.rdkit.org/) -化学信息学和机器学习软件.
 * [SciPy](https://www.scipy.org/) -用于数学，科学和工程的基于Python的开源软件生态系统.
@@ -1024,7 +1028,7 @@
     * [mimesis](https://github.com/lk-geimfari/mimesis) -是一个Python库，可帮助您生成虚假数据.
     * [fake2db](https://github.com/emirozer/fake2db) -伪数据库生成器.
     * [faker](https://github.com/joke2k/faker) -生成伪造数据的Python包.
-    * [radar](https://pypi.org/project/radar/) -生成随机的日期时间/时间.
+    * [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
 
 ## Text Processing
 
@@ -1038,13 +1042,13 @@
     * [Levenshtein](https://github.com/ztane/python-Levenshtein/) -快速计算Levenshtein距离和字符串相似度.
     * [pangu.py](https://github.com/vinta/pangu.py) -偏执的文字间距.
     * [pyfiglet](https://github.com/pwaller/pyfiglet) -用Python编写的figlet的实现.
-    * [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
+    * [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (汉字) to pinyin (拼音).
     * [textdistance](https://github.com/orsinium/textdistance) -使用30多种算法计算序列之间的距离.
-    * [unidecode](https://pypi.org/project/Unidecode/) -Unicode文本的ASCII音译.
+    * [unidecode](https://pypi.org/project/Unidecode/) - ASCII transliterations of Unicode text.
 * Sl
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) -可以保留unicode的Python slugify库.
     * [python-slugify](https://github.com/un33k/python-slugify) -Python slugify库，可将unicode转换为ASCII.
-    * [unicode-slugify](https://github.com/mozilla/unicode-slugify) -一个slugifier，它以Django为依赖关系生成unicode slug.
+    * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency.
 *唯一标识符
     * [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
     * [shortuuid](https://github.com/skorokithakis/shortuuid) -生成器库，用于生成简洁，明确和URL安全的UUID.
@@ -1075,7 +1079,7 @@
 
 * [furl](https://github.com/gruns/furl) -一个小的Python库，可轻松解析和处理URL.
 * [purl](https://github.com/codeinthehole/purl) -简单，不可变的URL类，带有用于查询和操作的干净API.
-* [pyshorteners](https://github.com/ellisonleao/pyshorteners) - A pure Python URL shortening lib.
+* [pyshorteners](https://github.com/ellisonleao/pyshorteners) -纯Python URL缩短库.
 * [webargs](https://github.com/marshmallow-code/webargs) -友好的库，用于解析HTTP请求参数，并内置对流行的Web框架的支持.
 
 ## Video

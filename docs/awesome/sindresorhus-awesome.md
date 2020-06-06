@@ -109,6 +109,7 @@
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) -任务执行器.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) -您可以在30秒内理解的代码段.
+	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) -与polyfill相似，但不覆盖原生API.
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme) -安全，现代，对程序员友好且快速的Apple编译语言.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)

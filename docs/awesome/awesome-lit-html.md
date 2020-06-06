@@ -39,6 +39,8 @@
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) -轻量级的i18n库，提供lit-html指令.
 - [haunted](https://www.npmjs.com/package/haunted) -React的Hooks API，但适用于标准Web组件和hyperHTML或lit-html.
 - [fuco](https://www.npmjs.com/package/fuco) -功能组件，如React，但用于Web组件.
+- [lit-up](https://github.com/klaudhaus/lit-up) -具有lit-html模板的反应式Web应用程序的最小但可扩展的状态模式
+- [lit-app](https://github.com/klaudhaus/lit-app) -用于前端应用程序，服务器端渲染和静态站点的基于等构lit-html的上下文
 
 ### Renderers
 
@@ -182,7 +184,7 @@
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-点亮html的作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
+点亮html的创作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -贾斯汀·法格纳尼（Justin Fagnani）作为来宾的另一集.
 
 ## Blogs

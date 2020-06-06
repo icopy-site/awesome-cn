@@ -6,7 +6,7 @@
 
 - [What is Audio Visualization?](https://en.wikipedia.org/wiki/Music_visualization)
 
- &gt;音乐可视化功能是电子音乐可视化程序和媒体播放器软件中的一项功能，可根据一段音乐生成动画图像.  图像通常是实时生成和渲染的，并与音乐播放时同步.
+> Music visualization, a feature found in electronic music visualizers and media player software, generates animated imagery based on a piece of music. The imagery is usually generated and rendered in real time and in a way synchronized with the music as it is played.
 
 - [Check the logo in action](http://www.shiz.co/aav/)
 - [Contributing Guide](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md)
@@ -75,12 +75,12 @@
 - [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) -克拉拉·洛克摩尔（Clara Rockmore）生日的涂鸦.
 - [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) -OndřejŽára的声控烟花.
 - [Tonalhub](https://alemangui.github.io/Tonalhub/?user=webaudio&repository=web-audio-api) -通过Alejandro Mantecon Guillen在github存储库中创建音乐.
-- [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) -用鼠标，Qwerty键键盘或MIDI键盘播放，然后观察灯光随着音乐而舞动.
+- [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) -使用鼠标，Qwerty键键盘或MIDI键盘进行播放，然后观察灯光随着音乐而舞动.
 - [Mmorph](http://mmorph.massivemusic.com/) -冒险探索在浏览器内外传递交互式音乐的新方式.
-- [Play a cornet to Donald Trump](http://trumpdonald.org/) -一个有趣的网站，可以播放动物机构对唐纳德·特朗普的短号.
+- [Play a cornet to Donald Trump](http://trumpdonald.org/) -一个有趣的网站，可让动物署向唐纳德·特朗普播放短号.
 - [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) -Beytah的用于螺丝底座的WebGL可视化工具.
-- [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) -一个网络应用程序，将波西米亚狂想曲变成保罗·拉米尔（Paul Lamere）的乐器.
-- [Scrollsound](http://zya.github.io/scrollsound/) -滚动是Ehsan Ziya与网络上的音频交互的一种方法.
+- [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) -一个网络应用程序，可以将保罗·拉米尔（Paul Lamere）的歌曲《波希米亚狂想曲》变成一种乐器.
+- [Scrollsound](http://zya.github.io/scrollsound/) -滚动是Ehsan Ziya在网络上与音频进行交互的一种方法.
 - [Floraldrift](http://whitevinyldesign.com/floradrift/) -程序生成的音乐和视觉效果.
 - [Experiment #8](http://brunoimbrizi.com/experiments/#/08) -Bruno Imbrizi的音乐实验.
 - [Music Cube](http://www.808cube.com/) -结合了Roland TR-808鼓机和魔方的Chrome实验.
@@ -90,7 +90,7 @@
 - [Simon Says - Game](http://labs.uxmonk.com/simon-says/) -浏览器中的免费记忆游戏.
 - [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires) -画布和网络音频实验.
 - [CSS Visualizer](http://likethemammal.github.io/css-visualizer/) -完全使用DOM元素和CSS3制作的音乐展示台.
-- [Kandinski Experiment](http://jasonsigal.cc/kandinskify/) - Music Visualizations inspired in Kandinsky.
+- [Kandinski Experiment](http://jasonsigal.cc/kandinskify/) -康定斯基启发的音乐视觉化.
 - [Visual Music Trailer](https://vimeo.com/160470393) -现场视听表演创意.
 - [Draw and Music](http://rugs.grindselect.com/) -萨姆·格林斯（Sam Greens）的地毯运动新专辑.
 - [Moogfest Substrate](http://www.moogfest.com/_substrate) -Moogfest的实验站点.
@@ -125,8 +125,8 @@
 - [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Suraya Shivji使用Three.js和p5.js构建的每周音乐可视化实验.
 - [Audio Visualizer](https://github.com/Teoxoy/audio-visualizer) -使用Pixi.js构建的有趣的Web音频可视化工具.
 - [CPPN-based Visualizer](https://tkv.io/posts/visualizing-audio-with-cppns) -应用合成模式产生网络从音频数据中产生有趣的视觉效果.
-- [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) -一个Chrome扩展程序，可在您的YouTube页面上提供带有可视音符的音频可视化.
-- [Just Dance](http://hiteshsahu.com/AudioAnalysis) -使用3D音频可视化 [BabylonJS](http://babylonjs.com/) ＆2D Perlin噪声.
+- [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) -一个浏览器扩展程序，可在您的YouTube页面上提供音频可视化效果并带有精美的音符.
+- [Just Dance](http://hiteshsahu.com/AudioAnalysis) - A 3D Audio Visualization made with [BabylonJS](http://babylonjs.com/) ＆2D Perlin噪声.
 - [audioMotion](https://audiomotion.me)  -使用JavaScript编写的高分辨率实时音频频谱分析仪和功能齐全的音乐播放器.  包括适用于Windows，Linux和macOS的二进制文件.
 
 
@@ -182,7 +182,7 @@
 - [BabylonJS](http://babylonjs.com/) -使用HTML5，WebGL和Web Audio构建3D游戏的完整JavaScript框架.
 - [Web Audio Extension](https://github.com/spite/WebAudioExtension) -一个Chrome扩展程序，可与网络音频一起播放.
 - [Cinder](https://libcinder.org/) -社区开发的免费开放源代码库，用于使用C ++进行专业质量的创意编码.
-- [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
+- [Processing](https://www.processing.org/) -为电子艺术，新媒体艺术和视觉设计社区构建的开源编程语言和集成开发环境.
 - [HYPE_processing](http://www.hypeframework.org/) -处理类的集合，这些处理类在使用最少的代码编写量的同时执行繁重的任务.
 - [The Force](https://github.com/shawnlawson/The_Force) -带有音频输入的实时编码着色器编辑.
 - [Hylogen](https://github.com/sleexyz/hylogen) -嵌入在Haskell中的纯功能语言，用于片段着色器（带有音频输入）的实时表达.

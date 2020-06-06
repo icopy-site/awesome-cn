@@ -13,6 +13,7 @@ Waves是一个针对Web 3.0应用程序和分散式解决方案的开源区块�
 ## Official
 
 - [Official website](https://wavesprotocol.org/)
+- [Blog on Medium](https://medium.com/wavesprotocol)
 - [Waves on GitHub](https://github.com/wavesplatform/)
 - [Documentation](https://docs.wavesprotocol.org/)
 
@@ -34,6 +35,15 @@ Waves是一个针对Web 3.0应用程序和分散式解决方案的开源区块�
 - [How to: Waves dApps — DAO. Example using Ride-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8)  -如何创建简单的DAO dApp用于项目的投票和集体投资.  （[ru](https://habr.com/ru/post/447808/))
 - [How to: Waves dApps — Prediction Markets example with Ride-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) -如何创建简单的Prediction Market dApp（如Augur或Gnosis）以创建新市场，交易份额并在预测成真时获胜.
 - [Simple voting on the Waves blockchain](https://docs.wavesprotocol.org/en/smart-contracts/simple-voting-on-the-waves-blockchain.html)  -HOA（房主协会）负责人问建筑物的房客：“亲爱的居民，您是否同意在建筑物院子里建造儿童游乐场？”.  目标：在Waves区块链上在租户之间实施此类投票.
+- [How to use Waves Signer](https://medium.com/@izhur27/getting-started-with-waves-signer-893017c9b7ae) -如何在您的网站上授权和签署交易.
+- [Understanding Waves Signer — Nuxt.js integration step-by-step](https://medium.com/auctionlance/understanding-waves-signer-nuxt-js-integration-step-by-step-fe33e19c2eb8) -如何创建演示应用以通过Waves Signer和Nuxt.js进行SSR（服务器端渲染）进行身份验证.
+- [Certificado, Part 1. How to build your first blockchain-based app in 15 minutes](https://medium.com/wavesprotocol/how-to-build-your-first-blockchain-based-app-in-15-minutes-83de36826143) -有关如何创建基于区块链的证书存储的教程（[ru](https://vk.com/@wavesplatform-kak-sozdat-pervoe-prilozhenie-na-blokcheine-za-15-minut)).
+- [Certificado, Part 2. What are Smart Contracts and how to use them in your app](https://medium.com/wavesprotocol/what-are-smart-contracts-and-how-to-use-them-in-your-app-a1c0d62d1a5) -有关如何创建基于区块链的证书存储的教程（[ru](https://vk.com/@wavesplatform-chto-takoe-smart-kontrakty-i-kak-ih-ispolzovat-v-prilozhenii)).
+- [How to: offer a free trial for your dApp](https://medium.com/wavesprotocol/make-your-dapp-free-for-a-user-d560b38ec598) -降低dApp用户障碍的详细指南（[ru](https://vk.com/@wavesplatform-how-to-besplatnye-dlya-polzovatelya-decentralizovannye-prilo)).
+- [Blockchain Trigger: a tool for automatic smart contract invocation](https://medium.com/wavesprotocol/blockchain-trigger-a-tool-for-automatic-smart-contract-invocation-1cb2748c53be)  -称为智能合约，用户会遇到一些问题，这会阻碍区块链的大规模采用.  名为Blockchain Trigger的工具可以帮助解决这些问题（[ru](https://vk.com/@wavesprotocol-instrument-dlya-dlya-avtomaticheskogo-vyzova-smart-kontrakto)).
+- [How to avoid common mistakes in dApp development](https://medium.com/wavesprotocol/how-to-avoid-common-mistakes-in-dapp-development-61015e700459) -在为Web 3.0开发dApp时，如何避免最常见的错误（[ru](https://vk.com/@wavesprotocol-kak-izbezhat-oshibok-pri-razrabotke-dapp)).
+- [How to write decentralized oracles in Ride](https://medium.com/wavesprotocol/how-to-write-decentralized-oracles-in-ride-f2c096812b18)  -我们如何解决向区块链提供真实数据的问题？  介绍Oraculus-创建去中心化Oracle的智能合约（[ru](https://vk.com/@wavesprotocol-kak-napisat-decentralizovannyi-orakul-na-ride)).
+- [Billy — motivation bot for Slack and Microsoft Teams](https://medium.com/@ikardanov/billy-motivation-and-recognition-bot-for-slack-and-microsoft-teams-d05167e4a7f9) -建立在Waves区块链上的工具，用于以非财务方式奖励团队成员（[ru](https://vc.ru/tribuna/128472-billy-bot-dlya-motivacii-personala)).
 
 ## Products
 
@@ -53,7 +63,7 @@ Waves是一个针对Web 3.0应用程序和分散式解决方案的开源区块�
 
 ### Other
 
-- [WavesLabs](https://waveslabs.com/) -支持有才华的开发人员和有前途的初创公司的一项计划，重点是构建将构成Web 3.0骨干的分散式技术.
+- [WavesLabs](https://waveslabs.com/) -支持有才华的开发人员和有前途的初创公司的一项计划，重点是构建将构成Web 3.0骨干的分散技术.
 - [Node](https://github.com/wavesplatform/Waves) -GitHub上的Waves Node存储库.
 - [Go Node](https://github.com/wavesplatform/gowaves) -用于Waves区块链的Go库和工具，Node的替代实现（正在进行中）.
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/)  -官方数据服务.  从Waves区块链获取数据的简单便捷方法.
@@ -66,7 +76,7 @@ Waves是一个针对Web 3.0应用程序和分散式解决方案的开源区块�
 
 ### Testnet
 
-Testnet is stable network and has fully copied configurations and nodes version from mainnet, but allows to earn free Waves tokens to test something what you need.
+Testnet是稳定的网络，具有从Mainnet完全复制的配置和节点版本，但是允许获得免费的Waves令牌来测试您需要的东西.
 
 - [Explorer](https://wavesexplorer.com/testnet)  -官方测试网浏览器.  它有一个 [faucet](https://wavesexplorer.com/testnet/faucet) 获取一些免费的Waves令牌.
 - [Node API](https://nodes-testnet.wavesnodes.com/) -testnet节点的API.
@@ -83,6 +93,7 @@ Testnet is stable network and has fully copied configurations and nodes version 
 ### Docker images
 
 - [WavesNode](https://hub.docker.com/r/wavesplatform/wavesnode)  -Waves Platform节点的Docker映像.  支持任何官方或自定义网络.
+- [K8s by loxal](https://hub.docker.com/r/loxal/waves-node) -容器的构建是为了在Kubernetes集群中作为即兴忘却的“ StatefulSet”运行.
 - [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node)  -私有本地Wave节点.  运行自己的隔离节点以开发智能合约和任何实验的最简单方法.
 - [explorer](https://hub.docker.com/r/wavesplatform/explorer) -您节点的Waves Explorer.
 
@@ -105,10 +116,14 @@ Testnet is stable network and has fully copied configurations and nodes version 
 #### C#
 - [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library to interact with the Waves blockchain.
 #### Java/Kotlin
-- [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) -Android上用于移动应用程序的Kotlin SDK.
+- [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - Kotlin SDK for Mobile Apps on Android.
 - [WavesJ](https://github.com/wavesplatform/WavesJ) -与Waves区块链和DEX进行交互的Java库.
 - [waves-crypto-java](https://github.com/msmolyakov/waves-crypto-java) -与Waves区块链中使用的加密原语一起使用的库.
 #### JavaScript/TypeScript
+- [Waves Signer](https://github.com/wavesplatform/signer) -从您的Web应用程序与Waves区块链进行交互的库（[example provider](https://github.com/waves-exchange/provider-web)).
+- [vue-waves-signer](https://github.com/opensolutionsweb3/vue-waves-signer) -Vue.js的Waves Signer实现.
+- [pay-crypto-widget](https://github.com/vlzhr/pay-crypto-widget) -JS小部件，用于在您的网站上接受加密支付.
+- [crypto-donate](https://github.com/vlzhr/crypto-donate) -HTML小部件，可将Waves令牌捐赠给内容作者.
 - [waves-transactions](https://github.com/wavesplatform/waves-transactions) -JS库，用于建立和签署交易.
 - [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) -Wavescript协议中使用的打字稿实现，例如签名验证和协议条目.
 #### Go
@@ -117,6 +132,8 @@ Testnet is stable network and has fully copied configurations and nodes version 
 - [WavesKit](https://github.com/deemru/WavesKit) -适用于PHP语言的多合一Waves平台开发套件.
 #### Python
 - [PyWaves](https://github.com/PyWaves/PyWaves) -Waves区块链平台的面向对象的库.
+- [ERC20 Gateway Framework](https://github.com/PyWaves/Waves-ERC20-Gateway) -允许轻松地在任何ERC-20令牌和Waves区块链之间建立网关（[example](https://github.com/iammortimer/TN-WAVES-Gateway)).
+- [Waves-Gateway-Framework](https://github.com/jansenmarc/WavesGatewayFramework) -将其他加密货币连接到Waves区块链的框架（[LTC example](https://github.com/jansenmarc/WavesGatewayLTCExample)).
 #### Rust
 - [WavesRS](https://github.com/petermz/WavesRs) -Waves区块链的Rust接口.
 #### Swift
@@ -148,10 +165,11 @@ Testnet is stable network and has fully copied configurations and nodes version 
 ### Projects
 
 - [Neutrino](https://github.com/ventuary-lab/neutrino-contract) -由WAVES令牌担保的算法价格稳定的加密货币协议.
+- [Billy](https://iambilly.app)  -团队的激励工具.  Billy提供了一种产品来营造合作氛围，使公司专注于核心价值，并通过创造团队经济来激励共享.
 - [Ventuary-DAO](https://alpha.ventuary.space/) -沙箱致力于过滤dApp想法并激发Waves社区参与Web 3.0的采用.
 - [Tokenomica](https://tokenomica.com/)  -安全令牌发行平台.  轻松而自信地创建和交易数字资产.
 - [LIGA](https://ligatokens.io/) -带有标记化体育赛事的平台，使您能够处理实时汇率并与他人交易您的个人预测.
-- [WaveFlow](https://waveflow.xyz/)  -允许您创建新的或使用现有的交换器，为某些交易对提供恒定的供需.  算法定价用于确保供需的一致性-令牌越受欢迎，其价格设置就越高.  每个交换器都是用Ride编写的dApp.
+- [WaveFlow](https://waveflow.xyz/)  -允许您创建新的或使用现有的交换器，为某些交易对提供恒定的供需.  算法定价用于确保供需的一致性-令牌越受欢迎，其价格设置就越高.  每个交换器都是用Ride（[example of trading bot](https://github.com/vlzhr/waveflow-trading-bot)).
 - [Lombardini](https://lombardini.io/) -立即借用WBTC for WAVES.
 - [Blockchain Cars](http://blockchaincars.io/) -运输即服务.
 - [WavesAffi](https://github.com/bettexproject/WavesAffi) -Waves区块链上的分散会员计划.
@@ -172,7 +190,7 @@ Testnet is stable network and has fully copied configurations and nodes version 
 
 ### Africa
 
-- [Telegram](https://t.me/wavesafrica) -遍布非洲的热情的开发人员和Web 3.0爱好者的Waves社区.
+- [Telegram](https://t.me/wavesafrica) -在非洲各地由热情的开发人员和Web 3.0爱好者组成的Waves社区.
 
 ### Dutch
 
@@ -181,6 +199,9 @@ Testnet is stable network and has fully copied configurations and nodes version 
 ### French
 
 - [Telegram](https://t.me/wavesdappsFR) -dApp开发人员的电报聊天.
+- [Dev France on Youtube](https://www.youtube.com/channel/UC2DS9ktTKWGW3NHHV2Ja3_A) -专门用于学习区块链浪潮中的去中心化应用程序（dApp）开发的渠道.
+- [Dev France on Facebook](https://www.facebook.com/wavesfr)
+- [Dev France on Twitter](https://twitter.com/WavesDevFr)
 
 ### Greek
 

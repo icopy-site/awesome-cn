@@ -37,7 +37,7 @@ Graphics
 * ：自由： [Games-Icons Set](http://game-icons.net/) -游戏的免费图标.
 * ：自由： [Google Poly](https://poly.google.com/)  -具有可旋转预览的3D模型的可搜索数据库.  （仅可重新混合的模型可供下载.）
 * ：自由： [Iconmonstr](http://iconmonstr.com/) -您游戏的另一个免费图标资源.
-*：money_with_wings： [Kenney Assets](http://kenney.nl/assets) - Royalty free assets
+*：money_with_wings： [Kenney Assets](http://kenney.nl/assets) -免税资产
 * ：自由： [Liberated Pixel Cup assets](http://lpc.opengameart.org) -OpenGameArt论坛举办的解放像素杯（LPC）的免费图形资产
 * ：自由： [Matcaps](https://github.com/nidorx/matcaps#matcaps) -巨大的PNG和ZMT matcap纹理库，按颜色组织.
 * ：自由： [OpenClipart](https://openclipart.org/) -免费剪贴画的集合.
@@ -47,7 +47,7 @@ Graphics
 * ：自由： [Reiner's Tilesets](http://www.reinerstilesets.de/) -带有免费2D和3D图形的博客.
 * ：自由： [Sketchfab](https://sketchfab.com/) -发布和嵌入交互式3D模型.
 * ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) -静态和动画图形对象（也称为精灵）的集合.
-* ：自由： [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images.
+* ：自由： [StickyPNG](http://www.stickpng.com/) -免费的透明PNG图像.
 * ：自由： [TextureHaven](https://texturehaven.com/)  -具有其他贴图（例如位移和凹凸贴图）的免费纹理.  还有HDRI. 
 * ：自由： [TextureKing](http://www.textureking.com/) -免费的材料库存纹理
 * ：自由： [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) -在线树生成器.
@@ -197,7 +197,7 @@ Code
 *： 然后： [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 *： 然后： [ENGi](https://github.com/ajhager/engi) -用于Go的多平台2D游戏库.
 *： 然后： [engo](https://engoengine.github.io/) -Engo是用Go语言编写的开源2D游戏引擎.
-*： 然后： [Ebiten](https://ebiten.org/) -Go中已死的简单2D游戏库.
+*： 然后： [Ebiten](https://ebiten.org/) - A dead simple 2D game library in Go.
 *： 然后： [ecs-lib](https://github.com/nidorx/ecs-lib#readme)  -** ecs-lib **是一个小巧易用的ECS（实体组件系统）库，用于游戏编程.  它是用Typescript编写的，但是您也可以在node.js和Web浏览器上使用.
 *： 然后： [Ejecta](http://impactjs.com/ejecta) -适用于iOS的快速，开源JavaScript，画布和音频实现.
 *： 然后： [EnchantJS](http://enchantjs.com/) -用于创建游戏和应用程序的简单JavaScript框架.
@@ -215,7 +215,7 @@ Code
 *： 然后： [Gideros](http://giderosmobile.com/) -跨平台框架，可使用Lua编程语言为iOS，Android创建移动应用和游戏.
 *： 然后： [Glide Engine](https://github.com/cocoatoucher/Glide) -使用Swift编程语言在iOS，macOS和tvOS上制作2d游戏的引擎，并附有实际示例和教程.
 *： 然后： [Godot](http://www.godotengine.org/) -先进的，功能丰富的多平台2D和3D开源游戏引擎.
-* [Grid](http://www.planimeter.org/grid-sdk/) -Lua游戏引擎.
+*： 然后： [Grid](http://www.planimeter.org/grid-sdk/) -Lua的多人优先游戏引擎.
 * [Havok Vision](http://www.havok.com/vision-engine/) -跨平台游戏引擎，可提供功能强大且用途广泛的多平台运行时技术.
 *： 然后： [HaxeFlixel](http://haxeflixel.com/) -轻松，免费创建跨平台游戏.
 *： 然后： [Heaps](https://heaps.io/) -用于高性能游戏的跨平台图形.
@@ -299,7 +299,7 @@ Code
 *： 然后： [voxel.js](http://voxeljs.com/) -voxel.js是一个项目集合，可让您比以往更轻松地在浏览器中创建3D体素游戏（如Minecraft）.
 *： 然后： [Wave](http://waveengine.net/) -用C语言编写的跨平台引擎#
 *： 然后： [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) -用于构建应用和游戏的3D Javacript框架
-*： 然后： [XNA](http://mxa.codeplex.com/) -微软的游戏开发框架.
+*： 然后： [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 *： 然后： [Xenko](http://xenko.com/) - Open Source C# Game Engine.
 
 ### AI
@@ -377,7 +377,7 @@ Audio
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“热门排行榜”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门图表”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)

@@ -847,7 +847,7 @@
 * [Peek](https://github.com/peek/peek) -视觉状态栏显示Rails的性能.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) -用于您的开发和生产Ruby机架应用程序的Profiler.
 * [Rbkit](https://github.com/code-mancers/rbkit)  -Ruby的探查器.  带有GUI.
-* [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
+* [rbspy](https://github.com/rbspy/rbspy) -用于任何Ruby进程的采样探查器.
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) -MRI红宝石的代码分析器.
 * [stackprof](https://github.com/tmm1/stackprof) -用于ruby 2.1+的采样调用堆栈分析器.
 * [test-prof](https://github.com/palkan/test-prof) -Ruby测试分析工具箱
@@ -1136,7 +1136,7 @@
 * [Padrino](http://www.padrinorb.com) -建立在Sinatra上的全栈红宝石框架.
 * [Pakyow](https://pakyow.com/)  -在Ruby中构建现代Web应用程序的框架.  它通过对设计师和开发人员都友好的开发过程，帮助您更快地构建工作软件.
 * [Rack::App](https://github.com/rack-app/rack-app) -用于构建机架应用程序的裸骨简约框架.
-* [Ramaze](http://ramaze.net/) -用Ruby编写的简单，轻便和模块化的开源Web应用程序框架.
+* [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
 * [Roda](http://roda.jeremyevans.net/) -路由树Web框架.
 * [Ruby on Rails](http://rubyonrails.org) -一个Web应用程序框架，其中包括根据模型-视图-控制器（MVC）模式创建数据库支持的Web应用程序所需的所有内容.
 * [Scorched](http://scorchedrb.com) -受Sinatra启发的轻量级，可继承和可组合的Web框架.
@@ -1146,6 +1146,7 @@
 ## Web Servers
 
 * [Agoo](https://github.com/ohler55/agoo) -用于Ruby的高性能HTTP服务器，其中包括GraphQL和WebSocket支持.
+* [Falcon](https://github.com/socketry/falcon) -用于Ruby的高性能Web服务器，支持HTTP / 1，HTTP / 2和TLS.
 * [Iodine](https://github.com/boazsegev/iodine) -针对Linux / BDS / macOS和Ruby MRI优化的无阻塞HTTP和Websocket Web服务器.
 * [Phusion Passenger](https://www.phusionpassenger.com) -快速，强大的Web服务器和应用程序服务器.
 * [Puma](https://github.com/puma/puma) -适用于Ruby的现代并发Web服务器.
