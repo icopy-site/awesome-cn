@@ -48,6 +48,8 @@
 - [Tanoshi](https://github.com/fadhlika/tanoshi-web) -类似Tachiyomi的网络漫画阅读器.
 - [Minesweeper](https://github.com/jgpaiva/minesweeper) -使用Rust，Yew和WebAssembly构建的扫雷器.
 - [Freecell](https://github.com/Stigjb/freecell) -用Rust和Yew编写的耐心游戏.
+- [Daydream](https://github.com/MTRNord/Daydream) -用Rust编写的小型Matrix网络客户端.
+- [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) -与Yew进行的简单WebRTC聊天.
 
 ## Templates
 

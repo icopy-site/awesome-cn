@@ -41,7 +41,7 @@
 
 *[ASGI](https://asgi.readthedocs.io/en/latest/)兼容的Web服务器.*
 
-* [uvicorn](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+* [uvicorn](https://github.com/encode/uvicorn) -使用uvloop和httptools的闪电般快速的ASGI服务器实现.
 * [daphne](https://github.com/django/daphne) -用于ASGI和ASGI-HTTP的HTTP，HTTP2和WebSocket协议服务器.
 
 ## Asynchronous Programming
@@ -175,6 +175,7 @@
     * [colorama](https://pypi.org/project/colorama/) -跨平台的彩色终端文本.
     * [rich](https://github.com/willmcgugan/rich)  -用于在终端中提供富文本格式和精美格式的Python库.  还提供了一个很棒的`RichHandler`日志处理程序.
     * [tqdm](https://github.com/tqdm/tqdm) -快速，可扩展的进度条，用于循环和CLI.
+    * [alive-progress](https://github.com/rsalmei/alive-progress) -一种新型进度栏，具有实时吞吐量，eta和非常酷的动画.
 
 ## Command-line Tools
 
@@ -236,6 +237,7 @@
 * [configparser](https://docs.python.org/3/library/configparser.html) -（Python标准库）此解析器文件.
 * [profig](https://profig.readthedocs.io/en/latest/) -通过值转换从多种格式进行配置.
 * [python-decouple](https://github.com/henriquebastos/python-decouple) -严格将设置与代码分开.
+* [hydra](https://github.com/facebookresearch/hydra) -Hydra是用于优雅配置复杂应用程序的框架.
 
 ## Cryptography
 
@@ -344,7 +346,7 @@
     * [lptrace](https://github.com/khamidou/lptrace) - [strace](http://man7.org/linux/man-pages/man1/strace.1.html) 适用于Python程序.
     * [manhole](https://github.com/ionelmc/python-manhole) -调试UNIX套接字连接，并显示所有线程的堆栈跟踪和交互式提示.
     * [pyringe](https://github.com/google/pyringe) -能够附加到Python进程并将代码注入Python进程的调试器.
-    * [python-hunter](https://github.com/ionelmc/python-hunter) -灵活的代码跟踪工具包.
+    * [python-hunter](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit.
 *个人资料
     * [line_profiler](https://github.com/rkern/line_profiler) -逐行分析.
     * [memory_profiler](https://github.com/fabianp/memory_profiler) -监视Python代码的内存使用情况.
@@ -398,7 +400,7 @@
     * [mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
     * [Ray](https://github.com/ray-project/ray/) -一个用于并行和分布式Python的系统，该系统统一了机器学习生态系统.
 *流处理
-    * [faust](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) 到Python.
+    * [faust](https://github.com/robinhood/faust) -流处理库，可移植来自 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 到Python.
     * [streamparse](https://github.com/Parsely/streamparse) -通过实时数据流运行Python代码 [Apache Storm](http://storm.apache.org/).
 
 ## Distribution
@@ -549,7 +551,7 @@
 * [pywebview](https://github.com/r0x0r/pywebview/) -围绕Webview组件的轻型跨平台本机包装.
 * [Tkinter](https://wiki.python.org/moin/TkInter) -Tkinter是Python的事实上的标准GUI软件包.
 * [Toga](https://github.com/pybee/toga) -Python本机，OS本机GUI工具包.
-* [urwid](http://urwid.org/) -用于创建终端GUI应用程序的库，该库对窗口小部件，事件，丰富的颜色等具有强大的支持.
+* [urwid](http://urwid.org/) -一个用于创建终端GUI应用程序的库，该应用程序对小部件，事件，丰富的颜色等具有强大的支持.
 * [wxPython](https://wxpython.org/) -wxWidgets C ++类库与Python的混合.
 
 ## GraphQL
@@ -650,7 +652,7 @@
 * [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，是更强大的CPython2.7替代（alpha）.
 * [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 * [Jython](https://hg.python.org/jython) -为JVM用Java编写的Python编程语言的实现.
-* [MicroPython](https://github.com/micropython/micropython) - A lean and efficient Python programming language implementation.
+* [MicroPython](https://github.com/micropython/micropython) -精简高效的Python编程语言实现.
 * [Numba](http://numba.pydata.org/) -针对科学Python的LLVM的Python JIT编译器.
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) -嵌入在Python中的x86-64汇编器.
 * [Pyjion](https://github.com/Microsoft/Pyjion) -基于CoreCLR的Python JIT.
@@ -685,7 +687,7 @@
 * [Joblib](https://joblib.readthedocs.io/) -一组用于在Python中提供轻量级流水线的工具.
 * [Plan](https://github.com/fengsp/plan) -像用魅惑一样用Python编写crontab文件.
 * [schedule](https://github.com/dbader/schedule) -针对人类的Python作业计划.
-* [Spiff](https://github.com/knipknap/SpiffWorkflow) -用纯Python实现的功能强大的工作流引擎.
+* [Spiff](https://github.com/knipknap/SpiffWorkflow) - A powerful workflow engine implemented in pure Python.
 * [TaskFlow](https://docs.openstack.org/developer/taskflow/) -一个Python库，可帮助您轻松，一致且可靠地执行任务.
 * [Airflow](https://airflow.apache.org/) -Airflow是一个以编程方式编写，安排和监视工作流的平台.
 
@@ -747,7 +749,7 @@
 -中文
     * [jieba](https://github.com/fxsjy/jieba) -最受欢迎的中文文本分割库.
     * [pkuseg-python](https://github.com/lancopku/pkuseg-python) -用于各个领域的中文分词的工具包.
-    * [snownlp](https://github.com/isnowfy/snownlp) -用于处理中文文本的库.
+    * [snownlp](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
     * [funNLP](https://github.com/fighting41love/funNLP) -中文NLP的工具和数据集的集合.
 
 ## Network Virtualization
@@ -782,7 +784,7 @@
 * NoSQL数据库
     * [hot-redis](https://github.com/stephenmcd/hot-redis) -Redis的丰富Python数据类型.
     * [mongoengine](https://github.com/MongoEngine/mongoengine) -用于MongoDB的Python对象文档映射器.
-    * [PynamoDB](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
+    * [PynamoDB](https://github.com/pynamodb/PynamoDB) -用于的Pythonic界面 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
     * [redisco](https://github.com/kiddouk/redisco) -用于Redis的简单模型和容器的Python库.
 
 ## Package Management
@@ -878,7 +880,7 @@
 
 ## Science
 
- *科学计算图书馆.  另见 [Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists)*
+ *科学计算图书馆.  另见 [Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists).*
 
 * [astropy](http://www.astropy.org/) -天文学的社区Python库.
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) -为全自动高通量测序分析提供最佳实践管道.
@@ -919,7 +921,7 @@
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) -用于将复杂对象与简单Python数据类型之间来回转换的轻量级库.
 * [pysimdjson](https://github.com/TkTech/pysimdjson) -的Python绑定 [simdjson](https://github.com/lemire/simdjson).
 * [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) -周围的Python包装器 [RapidJSON](https://github.com/Tencent/rapidjson).
-* [ultrajson](https://github.com/esnme/ultrajson) -使用Python绑定用C编写的快速JSON解码器和编码器.
+* [ultrajson](https://github.com/esnme/ultrajson) - A fast JSON decoder and encoder written in C with Python bindings.
 
 ## Serverless Frameworks
 
@@ -934,7 +936,7 @@
 
 * 一般
     * [tablib](https://github.com/jazzband/tablib) -XLS，CSV，JSON，YAML中的表格数据集模块.
-*办公室
+* Office
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) -用于读取和写入Excel 2010 xlsx / xlsm / xltx / xltm文件的库.
     * [pyexcel](https://github.com/pyexcel/pyexcel) -提供一个用于读取，操作和写入csv，ods，xls，xlsx和xlsm文件的API.
     * [python-docx](https://github.com/python-openxml/python-docx) -读取，查询和修改Microsoft Word 2007/2008 docx文件.
@@ -1022,13 +1024,13 @@
     * [factory_boy](https://github.com/FactoryBoy/factory_boy) -Python的测试装置替代品.
     * [mixer](https://github.com/klen/mixer)  -更换其他灯具.  支持的Django，Flask，SQLAlchemy，Peewee等
     * [model_mommy](https://github.com/vandersonmota/model_mommy) -创建用于在Django中测试的随机装置.
-*代码覆盖率
+* Code Coverage
     * [coverage](https://pypi.org/project/coverage/) -代码覆盖率测量.
 *假数据
     * [mimesis](https://github.com/lk-geimfari/mimesis) -是一个Python库，可帮助您生成虚假数据.
     * [fake2db](https://github.com/emirozer/fake2db) -伪数据库生成器.
     * [faker](https://github.com/joke2k/faker) -生成伪造数据的Python包.
-    * [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
+    * [radar](https://pypi.org/project/radar/) -生成随机的日期时间/时间.
 
 ## Text Processing
 
@@ -1048,7 +1050,7 @@
 * Sl
     * [awesome-slugify](https://github.com/dimka665/awesome-slugify) -可以保留unicode的Python slugify库.
     * [python-slugify](https://github.com/un33k/python-slugify) -Python slugify库，可将unicode转换为ASCII.
-    * [unicode-slugify](https://github.com/mozilla/unicode-slugify) - A slugifier that generates unicode slugs with Django as a dependency.
+    * [unicode-slugify](https://github.com/mozilla/unicode-slugify) -一个slugifier，它以Django为依赖关系生成unicode slug.
 *唯一标识符
     * [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
     * [shortuuid](https://github.com/skorokithakis/shortuuid) -生成器库，用于生成简洁，明确和URL安全的UUID.
@@ -1126,7 +1128,7 @@
 
 ## Web Frameworks
 
- *传统的全栈Web框架.  另见 [RESTful API](https://github.com/vinta/awesome-python#restful-api)*
+ *传统的全栈Web框架.  另见 [RESTful API](https://github.com/vinta/awesome-python#restful-api).*
 
 *同步
     * [Django](https://www.djangoproject.com/) -Python中最流行的Web框架.
@@ -1160,54 +1162,41 @@
 
 ## Resources
 
-在哪里发现新的Python库.
+在哪里发现学习资源或新的Python库.
 
-## Podcasts
+## Books
 
-* [From Python Import Podcast](http://frompythonimportpodcast.com/)
-* [Podcast.init](https://podcastinit.com/)
-* [Python Bytes](https://pythonbytes.fm)
-* [Python Testing](http://pythontesting.net)
-* [Radio Free Python](http://radiofreepython.com/)
-* [Talk Python To Me](https://talkpython.fm/)
-* [Test and Code](https://testandcode.com/)
-* [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
-
-## Twitter
-
-* [@codetengu](https://twitter.com/codetengu)
-* [@getpy](https://twitter.com/getpy)
-* [@importpython](https://twitter.com/importpython)
-* [@planetpython](https://twitter.com/planetpython)
-* [@pycoders](https://twitter.com/pycoders)
-* [@pypi](https://twitter.com/pypi)
-* [@pythontrending](https://twitter.com/pythontrending)
-* [@PythonWeekly](https://twitter.com/PythonWeekly)
-* [@TalkPython](https://twitter.com/talkpython)
-* [@realpython](https://twitter.com/realpython)
+- [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
 
 ## Websites
 
-* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects/)
-* [/r/Python](https://www.reddit.com/r/python)
-* [Awesome Python @LibHunt](https://python.libhunt.com/)
-* [Django Packages](https://djangopackages.org/)
-* [Full Stack Python](https://www.fullstackpython.com/)
-* [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-* [Python ZEEF](https://python.zeef.com/alan.richmond)
-* [Python 开发社区](https://www.ctolib.com/python/)
-* [Real Python](https://realpython.com)
-* [Trending Python repositories on GitHub today](https://github.com/trending?l=python)
-* [Сообщество Python Программистов](https://python-scripts.com/)
-* [Pythonic News](https://news.python.sc/)
+*教程
+    * [Full Stack Python](https://www.fullstackpython.com/)
+    * [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+    * [Real Python](https://realpython.com)
+    * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+*图书馆
+    * [Awesome Python @LibHunt](https://python.libhunt.com/)
+* 其他
+    * [Python ZEEF](https://python.zeef.com/alan.richmond)
+    * [Pythonic News](https://news.python.sc/)
 
-## Weekly
+## Newsletters
 
-* [CodeTengu Weekly 碼天狗週刊](https://weekly.codetengu.com/)
-* [Import Python Newsletter](http://importpython.com/newsletter/)
+* [Awesome Python Newsletter](http://python.libhunt.com/newsletter)
 * [Pycoder's Weekly](http://pycoders.com/)
 * [Python Weekly](http://www.pythonweekly.com/)
 * [Python Tricks](https://realpython.com/python-tricks/)
+
+## Podcasts
+
+* [Django Chat](https://djangochat.com/)
+* [Podcast.\_\_init__](https://podcastinit.com/)
+* [Python Bytes](https://pythonbytes.fm)
+* [Running in Production](https://runninginproduction.com/)
+* [Talk Python To Me](https://talkpython.fm/)
+* [Test and Code](https://testandcode.com/)
+* [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
 ## Contributing
 
@@ -1217,4 +1206,4 @@
 
 - - -
 
-如果您对此清单有任何疑问，请随时与我联系 [@vinta](https://twitter.com/vinta) 在Twitter上或在GitHub上发布问题.
+如果您对此清单有任何疑问，请随时与我联系 [@VintaChen](https://twitter.com/VintaChen) 在Twitter上或在GitHub上发布问题.

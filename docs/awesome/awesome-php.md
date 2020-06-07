@@ -43,6 +43,7 @@
 * [Laravel](https://laravel.com/) -具有表达力，优雅语法的Web应用程序框架.
 * [Nette](https://nette.org) -由成熟组件组成的Web框架.
 * [Phalcon](https://phalcon.io/en-us) -实现为C扩展的框架.
+* [Spiral](https://spiral.dev/) -高性能的PHP / Go框架.
 * [Symfony](https://symfony.com/) -一组可重用的组件和一个Web框架.
 * [Yii2](https://github.com/yiisoft/yii2/) -快速，安全，高效的Web框架.
 
@@ -55,7 +56,7 @@
 
 * [Backdrop](https://backdropcms.org) -针对中小型企业和非营利组织的CMS（Drupal的分支）.
 * [Concrete5](https://www.concrete5.org/) -以最低的技术水平为目标的CMS.
-* [Drupal](https://www.drupal.org) - An enterprise level CMS.
+* [Drupal](https://www.drupal.org) -企业级CMS.
 * [Grav](https://github.com/getgrav/grav) -现代的平面文件CMS.
 * [Joomla](https://www.joomla.org/) -另一个领先的CMS.
 * [Magento](https://magento.com/) -最受欢迎的电子商务平台.
@@ -175,7 +176,7 @@
 * [Flysystem](https://github.com/thephpleague/Flysystem) -本地和远程文件系统的抽象.
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) -文件系统抽象层.
 * [Hoa Mime](https://github.com/hoaproject/Mime) -另一个MIME检测库.
-* [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) -的包装 [FFmpeg](https://www.ffmpeg.org/) 视频库.
+* [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) -的包装 [FFmpeg](https://www.ffmpeg.org/) video library.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) -压缩档案的统一读写器.
 
 ### Streams
@@ -308,7 +309,7 @@
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) -检测复制和粘贴代码的库.
 
 ### Static Analysis
-*用于对PHP代码进行静态分析的库.
+*Libraries for performing static analysis of PHP code.*
 
 * [Exakat](https://github.com/exakat/exakat) -用于PHP的静态分析引擎.
 * [Deptrac](https://github.com/sensiolabs-de/deptrac) -静态代码分析工具，可帮助强制实施有关软件层之间依赖性的规则.
@@ -363,7 +364,7 @@
 *用于自动化和运行任务的库.
 
 * [Bldr](https://bldr.io/) -基于Symfony组件的PHP TaskRunner.
-* [Jobby](https://github.com/jobbyphp/jobby) -一个无需修改crontab的PHP cron作业管理器.
+* [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
 * [Robo](https://github.com/consolidation/Robo) -具有面向对象配置的PHP TaskRunner.
 * [Task](https://taskphp.github.io/) -受Grunt和Gulp启发的纯PHP任务执行器.
 
@@ -425,7 +426,7 @@
 *用于付款和建立在线电子商务商店的图书馆和应用程序.
 
 * [Money](https://github.com/moneyphp/money) -Fowler的money模式的PHP实现.
-* [Brick\Money](https://github.com/brick/money) -用于PHP的货币库，支持上下文，现金舍入和货币换算.
+* [Brick\Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 * [OmniPay](https://github.com/thephpleague/omnipay) -与框架无关的多网关支付处理库.
 * [Payum](https://github.com/payum/payum) -付款抽象库.
 * [Shopware](https://github.com/shopware/shopware) -高度可定制的电子商务软件
@@ -457,8 +458,8 @@
 * [Baum](https://github.com/etrepat/baum) -Eloquent的嵌套集实现.
 * [CakePHP ORM](https://github.com/cakephp/orm) -使用DataMapper模式实现的对象关系映射器.
 * [Cycle ORM](https://github.com/cycle/orm) -PHP DataMapper，ORM.
-* [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
-* [Doctrine](https://www.doctrine-project.org/) -全面的DBAL和ORM.
+* [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) -主义行为扩展的集合.
+* [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 * [Laravel Eloquent](https://github.com/illuminate/database) -一个简单的ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) -PostgreSQL的对象模型管理器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) -一组实用程序，用于为数据映射器生成代理对象.
@@ -487,7 +488,7 @@
 * [BunnyPHP](https://github.com/jakubkulhan/bunny) -高性能的纯PHP AMQP（RabbitMQ）同步和异步（ReactPHP）库.
 * [Pheanstalk](https://github.com/pheanstalk/pheanstalk) -Beanstalkd客户端库.
 * [PHP AMQP](https://github.com/php-amqplib/php-amqplib) -一个纯PHP AMQP库.
-* [Tarantool Queue](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
+* [Tarantool Queue](https://github.com/tarantool-php/queue) -Tarantool Queue的PHP绑定.
 * [Thumper](https://github.com/php-amqplib/Thumper) -RabbitMQ模式库.
 * [Enqueue](https://github.com/php-enqueue/enqueue-dev) -用于PHP的消息队列软件包，支持RabbitMQ，AMQP，STOMP，Amazon SQS，Redis和Doctrine传输. 
 
@@ -577,7 +578,7 @@
 *用于过滤和验证数据的库.
 
 * [Assert](https://github.com/beberlei/assert)  -具有丰富的断言集的验证库.  支持断言链接和惰性断言.
-* [Aura.Filter](https://github.com/auraphp/Aura.Filter) -提供用于验证和清除对象和数组的工具.
+* [Aura.Filter](https://github.com/auraphp/Aura.Filter) -提供验证和清理对象和数组的工具.
 * [CakePHP Validation](https://github.com/cakephp/validation) -另一个验证库.
 * [Filterus](https://github.com/ircmaxell/filterus) -一个简单的PHP过滤库.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -一个用于根据许多国家/地区的ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的库.
@@ -668,7 +669,7 @@
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) -官方的PHP AWS开发工具包库.
 * [AsyncAWS](https://async-aws.com/) -一个非官方的异步PHP AWS SDK.
-* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
+* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) -正式的Campaign Monitor PHP库.
 * [Dropbox SDK](https://github.com/dropbox/dropbox-sdk-php) -官方的PHP Dropbox SDK库.
 * [Github](https://github.com/KnpLabs/php-github-api) -与Github API交互的库.
 * [Mailgun](https://github.com/mailgun/mailgun-php) 官方Mailgun PHP API.
@@ -740,6 +741,7 @@
 * [Laradock](http://laradock.io/) -基于Docker的完整PHP开发环境.
 * [Puppet](https://puppet.com/) -服务器自动化框架和应用程序.
 * [Vagrant](https://www.vagrantup.com/) -可移植的开发环境实用程序.
+* [Vessel](https://vessel.shippingdocker.com/) -用于Laravel的简单Docker开发环境.
 
 ### Virtual Machines
 *备用PHP虚拟机.*
@@ -817,7 +819,7 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·康努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书介绍了XML文档的解析和验证，XPath表达式的使用以及名称空间的使用，以及如何以编程方式创建和修改XML文件.
@@ -834,7 +836,7 @@
 ### PHP Videos
 *与PHP相关的精彩视频.*
 
-* [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
+* [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) -PHP社区成员进行的10到15分钟的闪电讲座.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) -来自PHP UK Conference的视频集.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) -安东尼·费拉拉（Anthony Ferrara）的视频系列.
 * [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) -Facebook的Keith Adams的演讲概述了PHP的优势.
@@ -844,7 +846,7 @@
 *有关PHP主题的播客.
 
 * [Laravel Podcast](https://laravelpodcast.com/) -Laravel和PHP开发新闻和讨论.
-* [PHP Internals New](https://phpinternals.news) -关于PHP内部原理的播客.
+* [PHP Internals News](https://phpinternals.news) -关于PHP内部原理的播客.
 * [PHP Roundtable](https://www.phproundtable.com/) -PHP圆桌会议是开发人员的临时聚会，讨论PHP书呆子关心的主题.
 * [PHP Town Hall](https://phptownhall.com/) -Ben Edmunds和Phil Sturgeon的休闲PHP播客.
 * [Voices of the ElePHPant](https://voicesoftheelephpant.com/) 与使PHP社区特别的人们的访谈.
@@ -869,6 +871,8 @@
 ### PHP Internals Reading
 *阅读有关PHP内部或性能的材料.*
 
+* [Externals](https://externals.io/) -PHP内部讨论. 
+* [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) -观看最新的PHP [RFCs](https://wiki.php.net/rfc).
 * [Disproving the Single Quotes Myth](https://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) -有关单引号和双引号字符串的性能的文章.
 * [How Big Are PHP Arrays (And Values) Really?](https://nikic.github.io/2011/12/12/How-big-are-PHP-arrays-really-Hint-BIG.html) -有关数组内部的文章.
 * [How Foreach Works](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work/14854568#14854568) -有关foreach的详细StackOverflow答案.

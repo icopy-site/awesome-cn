@@ -7,7 +7,7 @@
 [HitCounter-link]：http://hits.dwyl.io/awesome-css-group/awesome-css
 [HitCounter-徽章]：http://hits.dwyl.io/awesome-css-group/awesome-css.svg
 
-## Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link] {
+## Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link]
 
  &gt; / *精选的很棒的框架，样式指南和其他很棒的块的清单，用于编写出色的CSS.  * /
 
@@ -159,7 +159,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Style Guide
 
-* [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
+* [AUI](http://docs.atlassian.com/aui/latest/docs) 由Atlassian Design设计
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) 由孤独的星球
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) 通过Dropbox
 * [Fluent UI](https://github.com/microsoft/fluentui) 由Microsoft
@@ -283,7 +283,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Ben Briggs](https://twitter.com/ben_eb)  -最后一年的网络技术专业学生.  node.js，javascript，开源模块，客户端优化，网络性能.
 * [Paul Lewis](https://twitter.com/aerotwist) -熟悉代码和设计的Googler.
 * [Nicolas Gallagher](https://twitter.com/necolas) -@twitter的软件工程师.
-* [Harry Roberts](https://twitter.com/csswizardry)-顾问前端架构师：@ google，@ Etsy，@ kickstarter，@ BBC，@ Deloitte，@ FT等.
+* [Harry Roberts](https://twitter.com/csswizardry)-前端顾问顾问：@ google，@ Etsy，@ kickstarter，@ BBC，@ Deloitte，@ FT等.
 * [Phil Walton](https://twitter.com/philwalton) -Google的工程师•开源倡导者•开发人员•设计人员•作家.
 * [Lea Verou](https://twitter.com/LeaVerou) -研究助理@ MIT_CSAIL，@ CSSWG IE，@ OReillyMedia作者，例如@ W3C员工.
 * [Manoela Ilic](https://twitter.com/crnacura) -... aka Mary Lou @codrops ༶ CSS和HTML是我的蜡笔༶对认知科学，人工智能，人机交互，UI设计和天体物理学感兴趣༶数字游牧.
@@ -296,7 +296,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [L. David Baron](https://twitter.com/davidbaron) -Mozilla开发人员，CSS和W3C标准外交官.
 * [Daniel Glazman](https://twitter.com/glazou)  -W3C CSS工作组联合主席，企业家，软件工程师，极客，两个孩子的父亲，通晓多国语言的人，爱鸭子的人.  没事  推文严格是我的.
 * [The Chris Eppstein](https://twitter.com/chriseppstein)  -爱.  讨厌恨.  有一个踢屁股的家庭.  编写代码.  领导样式表技术@LinkedIn.
-* [앗킨스 탭](https://twitter.com/tabatkins) -从字面上看，珍妮·希弗（Jenn Schiffer）的妈妈
+* [앗킨스 탭](https://twitter.com/tabatkins) -从字面上看，詹恩·希弗（Jenn Schiffer）的妈妈.
 * [Natalie Weizenbaum](https://twitter.com/nex3)  -转码器小姐.  @SassCSS的首席设计师/开发人员，在@dart_lang上为@google工作.
 * [Brad Frost](https://twitter.com/brad_frost) -网页设计师，演讲者，作家，顾问，音乐家.
 * [Maxime Thirouin](https://twitter.com/MoOx) -自由职业者前端警戒，UI / UX开发人员.
@@ -315,6 +315,10 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
  *来自CSS Must Watch视频的优质学习视频.  某些项目引用自 [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css).
 
 [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360) .  我感谢他的宝贵努力.*
+
+### 2019
+
+1. [Next-Generation Web Styling](https://www.youtube.com/watch?v=-oyeaIirVC0) -Una Kravets和Adam Argyle @ Chrome开发者峰会2019.
 
 ### 2016
 
@@ -361,7 +365,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Contribute
 
-[contributor-covenant]：https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
+[contributor-covenant]: https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
 
  随时潜入！  打开一个问题或提交PR.
 

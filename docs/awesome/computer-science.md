@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
 
-<h3 align="center">开源社会大学</h3>
+<h3 align="center">Open Source Society University</h3>
 <p align="center">
   通往计算机科学免费自学教育之路！
 </p>
@@ -61,7 +61,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 -要分组，请使用 [cohorts repository](https://github.com/ossu/cohorts) 查找或创建适合您的同类群组.
 -我们建议您在Core CS中完成所有课程，仅在确定您以前已经学习过这些材料后才跳过课程.
 -为简单起见，我们建议您按从上到下的顺序学习课程（尤其是核心CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) 根据他们的先决条件.
-- Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
+ -高级CS课程为选修课.  选择一个您想成为专家的科目（例如高级编程），并选择该标题下的所有课程.  您也可以创建自己的自定义主题，但是我们建议您从社区中获得对所选主题的验证.
 
 *不要无视您在每门课程开始时签署的行为准则*！
 
@@ -94,7 +94,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ### Introduction to Programming
 
- 如果您从未编写过for循环，或者不知道编程中的字符串是什么，请从这里开始.  选择以下两个课程系列之一.  任一种都会给您介绍编程的入门知识，而无需任何先验知识.
+ 如果您从未编写过for循环，或者不知道编程中的字符串是什么，请从这里开始.  选择以下两个课程系列之一.  任一种都会给您介绍编程的入门知识，而无需任何先验知识.  您可以免费审核_，为此，请单击以浏览专业化课程中的各个课程.
 
 试图在他们之间做出决定？
 
@@ -166,7 +166,7 @@ Lisp家庭语言（通过球拍）
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)  |  7周  每周8-10小时|  没有
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  |  6周  每周8-10小时|  如何编码：简单数据
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5周  每周4-8小时|  推荐：Java，C
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  |  5周  每周4-8小时|  如何编码（[Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh))
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  |  3周  每周4-8小时|  编程语言，A部分
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  |  3周  每周4-8小时|  编程语言，B部分
 
@@ -194,7 +194,7 @@ Lisp家庭语言（通过球拍）
 #### Probability
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
-[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)  |  18周|  每周12小时| [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
 ### Core Math
 除了选修数学外，学生还必须完成以下有关离散数学的课程.
@@ -204,7 +204,7 @@ Lisp家庭语言（通过球拍）
 数学证明
 基本统计
 `O-notation`
-`discrete probability`
+离散概率
 还有更多
 
  课程  持续时间|  努力  注意事项  先决条件
@@ -269,7 +269,7 @@ Lisp家庭语言（通过球拍）
 `Cryptography`
 还有更多
 
- 注意：** _这些课程是临时推荐的_ **.  有一个开放 [Request For Comment](https://github.com/ossu/computer-science/issues/639) on security course selection. Contributors are encouraged to compare the various courses in the RFC and offer feedback.
+ 注意：** _这些课程是临时推荐的_ **.  有一个开放 [Request For Comment](https://github.com/ossu/computer-science/issues/639)  关于安全课程的选择.  鼓励贡献者比较RFC中的各种课程并提供反馈.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
@@ -350,7 +350,7 @@ GPU编程
 CMOS技术
 顺序逻辑
 有限状态机
-处理器指令集
+`processor instruction sets`
 `caches`
 `pipelining`
 `virtualization`
@@ -405,7 +405,7 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得专业化课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
@@ -466,7 +466,7 @@ or
 我的朋友，这是自由的最好部分！
 您可以使用要完成最终项目的任何语言.
 
-重要的是“内部化”核心概念，并能够将其与所需的任何工具（编程语言）一起使用.
+重要的是要“内化”核心概念，并使其能够与所需的任何工具（编程语言）一起使用.
 
 ## Congratulations
 

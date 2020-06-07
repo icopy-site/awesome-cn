@@ -64,6 +64,7 @@
 - [DSP.audio Worklet Editor](https://dsp.audio/editor/)  -在线音频Worklet编辑器，可与采样器，MIDI和分析器进行素描和协作.  类似于JSFiddle，但用于DSP.
 - [AudioMass](https://audiomass.co/) -免费，开源，基于Web的音频和波形编辑器.
 - [Csound IDE](https://ide.csound.com/) -用于的Web IDE [CSound programming language](https://en.wikipedia.org/wiki/Csound).
+- [jamhub](https://github.com/fletcherist/jamhub) -低延迟的远程音乐协作和卡纸.
 
 ## Resources
 
@@ -71,14 +72,14 @@
 
 - [WebAudio School](https://github.com/mmckegg/web-audio-school) -一系列学习WebAudio的自营研讨会.
 - [Web Audio API Understandable Reference](https://web-audio-api.firebaseapp.com/) -旨在使那些了解一些JavaScript和基本音频原理的人易于理解的参考.
-- [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) -WebAudio简介.
+- [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
 - [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) -越来越多的带有CodePen链接的轻型代码示例.
 - [Web Audio Perf](https://padenot.github.io/web-audio-perf/) -各种AudioNode的性能和有效利用资源的策略（自WAC2016起）.
 - [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) -本教程将通过编写代码来合成简单的打击乐声音（来自WAC2016），介绍Web音频编程的基础.
 
 ### Books
 
-- [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.
+- [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) -所有示例均使用Web Audio自下而上的JavaScript / DOM课程.
 - [Web Audio API](https://webaudioapi.com/book/)  -旨在成为几乎没有数字音频专业知识的Web开发人员的跳板.  面向游戏音频和交互式应用程序.
 
 ### Newsletters

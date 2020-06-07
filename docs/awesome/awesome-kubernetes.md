@@ -116,7 +116,7 @@ Installers
 * [Kops](https://github.com/kubernetes/kops) -与操作系统无关-AWS
 * [Konvoy](https://d2iq.com/solutions/ksphere/konvoy) -轻松部署可立即投入生产的Kubernetes集群以及所有相关的运营服务
 * [Kube-ansible](https://github.com/kairen/kube-ansible) -与操作系统无关-与云无关
-* [Kube-aws](https://github.com/kubernetes-incubator/kube-aws) - Kubernetes on AWS
+* [Kube-aws](https://github.com/kubernetes-incubator/kube-aws) -州长拥有AWS
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
 * [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) -与操作系统无关-与云无关
 * [KubeNow](https://github.com/kubenow/KubeNow) -Ubuntu-云不可知
@@ -137,7 +137,7 @@ Installers
 
 
 
-主要资源
+Main Resources
 =======================================================================
 
 *来自Kubernetes团队的官方资源*
@@ -321,7 +321,9 @@ Installers
   - [NetApp Kubernetes Service](https://cloud.netapp.com/kubernetes-service)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
+  - [VMware Tanzu Kubernetes Grid (TKG)](https://tanzu.vmware.com/kubernetes-grid) -企业就绪的多云Kubernetes运行时
   - [WorldSibu-Forma](https://worldsibu.tech/forma/) -带有Kubernetes的多云远程区块链基础架构协调器
+  
 
 
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -阿里云Kubernetes云容器服务
@@ -516,6 +518,7 @@ Projects
 * [ktunnel](https://github.com/omrikiei/ktunnel) -一个命令行工具，可在Kubernetes和您的集群之间建立反向隧道，将其用于本地开发/调试服务或与本地资源集成.
 * [k8s-platform-lcm](https://github.com/arminc/k8s-platform-lcm) -一种更快，更轻松的方法来管理应用程序和工具的生命周期，在Kubernetes平台上运行和生活
 * [Pixie](https://github.com/pixie-labs/pixie) -实时调试多集群K8s环境，而无需更改代码和将数据移出集群.
+* [pluto](https://github.com/FairwindsOps/pluto) -帮助发现Kubernetes中不推荐使用的apiVersions的cli工具
 
 ## Package Managers
 
@@ -563,6 +566,7 @@ Projects
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
 * [loki](https://github.com/grafana/loki) -Loki是受Prometheus启发的水平可扩展，高度可用的多租户日志聚合系统.
 * [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
+* [kube-eventer](https://github.com/AliyunContainerService/kube-eventer) -kube-eventer将kubernetes事件发送到接收器（kafka，slack，webhook等）
 
 ## Testing
 
@@ -589,7 +593,7 @@ Projects
 
 * [Jenkins](https://jenkins.io)
    * [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) 通过 [Carlos Sanchez](https://www.twitter.com/csanchez)
-   * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
+   * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloudplatform.googleblog.com/2015/05/Automated-Compute-Engine-and-Docker-Image-Builds-with-Jenkins-Packer-and-Kubernetes.html)
    * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](http://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
@@ -627,11 +631,11 @@ Projects
 * [Nuclio](https://github.com/nuclio/nuclio)
 * [OpenFaaS](https://github.com/alexellis/faas)
 * [OpenWhisk](https://github.com/openwhisk)
-* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Allows nodes to be backed by other services and providers.
+* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) -允许节点由其他服务和提供程序支持.
 
 ## Operators
 
-* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将舵转换为可自我配置并响应集群变化的智能模块.
+* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将图转换为可自我配置并响应集群更改的智能模块.
 * [Cert manager](https://github.com/kelseyhightower/kube-cert-manager)
 * [Cert Operator](https://github.com/giantswarm/cert-operator)
 * [cert-manager](https://github.com/jetstack/cert-manager)
@@ -703,6 +707,7 @@ Projects
 
 ## Networking
 
+* [Antrea](https://github.com/vmware-tanzu/antrea/) -基于Open vSwitch的Kubernetes网络解决方案
 * [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) -使用弹性网络接口的网络插件
 * [Calico](http://www.projectcalico.org/)
 * [Canal](https://github.com/tigera/canal) 通过 [Tigera](https://github.com/tigera)
@@ -788,7 +793,7 @@ Projects
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) -用于Kubernetes CLI的集成外壳
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) -Kubernetes tmux插件显示当前上下文和名称空间
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) -Kubectl的别名
-* [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)  -一组kubectl插件，处理从简单的上下文切换到以任何用户（包括root用户）通过exec连接到容器的所有操作.  针对GKE用户量身定制.
+* [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)  -一个kubectl插件集合，处理从简单的上下文切换到以任何用户（包括root）通过exec连接到容器的所有操作.  针对GKE用户量身定制.
 * [kubectl-trace](https://github.com/iovisor/kubectl-trace) -使用此kubectl插件在您的kubernetes集群上调度bpftrace程序
 * [kubectld](https://github.com/rancher/kubectld)
 * [kubectx](https://github.com/ahmetb/kubectx) -在kubectl上的集群之间切换
@@ -797,7 +802,7 @@ Projects
 * [kubensx](https://github.com/shyiko/kubensx) -Kubernetes的更简单的集群/用户/命名空间切换（具有交互模式和通配符/模糊匹配）.
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) -解决kubectl
-* [Kui](https://github.com/IBM/kui) -混合CLI / GUI替代kubectl
+* [Kui](https://github.com/IBM/kui) - Hybrid CLI/GUI alternative to kubectl
 * [StackStorm](https://github.com/StackStorm/st2)
 * [stern](https://github.com/wercker/stern) -多荚和集装箱原木尾矿
 * [Vikube](https://github.com/c9s/vikube.vim) -Vim中来自Vim的Kubernetes操作
@@ -1086,7 +1091,7 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，并且是充分利用品牌或企业的潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且是充分利用品牌或企业的宝贵社交渠道，如果您充分利用它，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [DevOps Summit](https://twitter.com/DevOpsSummit)
