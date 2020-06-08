@@ -62,7 +62,7 @@
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater)  -一个macOS应用程序，可帮助您管理Podfile中的依赖项版本.  [！[开源软件] [OSS图标]]（https://github.com/kizitonwose/PodsUpdater）！[免费软件] [免费软件图标]
 - [Postico](https://eggerapps.at/postico/) -现代PostgreSQL客户端.
 - [Postgres.app](http://postgresapp.com/)  -PostgreSQL入门的最简单方法.  [！[开源软件] [OSS图标]]（https://github.com/PostgresApp/PostgresApp）！[免费软件] [免费软件图标]
-- [Pusher](https://github.com/noodlewerk/NWPusher)  -做沙盒推送通知的免费工具.  [！[开源软件] [OSS图标]]（https://github.com/PostgresApp/PostgresApp）！[免费软件] [免费软件图标]
+- [Pusher](https://github.com/noodlewerk/NWPusher) - A free tool to do sandbox push notifications. [![Open-Source Software][OSS Icon]](https://github.com/PostgresApp/PostgresApp) ![Freeware][Freeware Icon]
 - [PSequel](http://www.psequel.com/)  -PostgreSQL GUI工具.  ！[免费软件] [免费软件图标]
 - [QorumLogs](https://github.com/goktugyil/QorumLogs)  -用于Xcode和Google文档的Swift日志记录实用程序.  [！[开源软件] [OSS图标]]（https://github.com/goktugyil/QorumLogs）！[免费软件] [免费软件图标]
 - [Quiver](http://happenapps.com/#quiver) -给程序员的一个令人愉悦的笔记本，它允许混合使用富文本，代码，降价，LaTeX和图形.
@@ -152,7 +152,7 @@
 - [BetterTouchTool](https://www.boastr.net/) -配置鼠标手势和键盘快捷键动作.
 - [ClipMenu](http://www.clipmenu.com/)  -ClipBoard历史记录管理器.  [！[开源软件] [OSS图标]]（https://github.com/naotaka/ClipMenu）！[免费软件] [免费软件图标]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/)  -在Mac和iOS设备之间同步剪贴板.  ！[免费软件] [免费软件图标]
-- [Dropzone](https://aptonic.com/) - Create a popup grid of customizable actions that enhance productivity on your Mac.
+- [Dropzone](https://aptonic.com/) -创建可自定义操作的弹出网格，以提高Mac的工作效率.
 - [f.lux](https://justgetflux.com/)  -自动调整计算机屏幕以匹配照明.  ！[免费软件] [免费软件图标]
 - [Fantastical 2](https://flexibits.com/fantastical) -使用自然语言创建事件的完整日历应用替换.
 - [Hazel](https://www.noodlesoft.com/hazel.php) -创建规则以自动保持文件井井有条.
@@ -169,6 +169,7 @@
 - [Paste](http://pasteapp.me) -Mac复制和粘贴的新方法.
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver)  -用于标记和存档任务的好工具.  [！[开源软件] [OSS图标]]（https://github.com/JulianKahnert/PDF-Archiver）
 - [PopClip](http://pilotmoon.com/popclip/) -即时复制和粘贴，访问搜索，拼写，字典等操作.
+- [Presentify](https://presentify.compzets.com) -注释屏幕上的所有内容，包括图像，pdf，视频，代码等.
 - [Qbserve](https://qotoqot.com/qbserve/) -自动时间和项目跟踪，时间表，发票和实时生产力反馈.
 - [Quicksilver](https://qsapp.com/)  -快速，优雅地控制Mac.  [！[开源软件] [OSS图标]]（https://github.com/quicksilver/Quicksilver）！[免费软件] [免费软件图标]
 - [Rocket](http://matthewpalmer.net/rocket/)  -使用Slack样式的快捷方式可以更快，更轻松地输入表情符号.  ！[免费软件] [免费软件图标]
@@ -184,10 +185,10 @@
 ### Sharing Files
 
 - [CloudApp](https://www.getcloudapp.com/) -立即捕获并共享文件和屏幕截图.
-- [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906)  -实时文件共享应用程序，支持即时共享代码/ Markdown，注释屏幕截图，屏幕录制和语音录制.  ！[免费软件] [免费软件图标]
+- [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording. ![Freeware][Freeware Icon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur)  -将图像和屏幕截图上传到Imgur.  [！[开源软件] [OSS图标]]（https://github.com/mileswd/mac2imgur）！[免费软件] [免费软件图标]
-- [Monosnap](https://monosnap.com) - Annotate and upload images and screenshots, supports many backends like S3, SFTP, WebDAV, Dropbox, etc. ![Freeware][Freeware Icon]
-- [Transmission](https://www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+- [Monosnap](https://monosnap.com) -注释并上传图像和屏幕截图，支持许多后端，例如S3，SFTP，WebDAV，Dropbox等.[免费软件] [免费软件图标]
+- [Transmission](https://www.transmissionbt.com/)  -简单，轻巧，多平台的torrent客户端.  [！[开源软件] [OSS图标]]（https://github.com/transmission/transmission）！[免费软件] [免费软件图标]
 
 
 ### Terminal
@@ -223,10 +224,11 @@
 - [Flotato](https://flotato.com/) -使用任何网站作为精美的Mac应用程序.
 - [Fluid](http://fluidapp.com/) -将Web应用程序转换为Mac应用程序.
 - [gfxCardStatus](https://gfx.io/)  -菜单栏应用程序，用于监控MacBook Pro上集成的和离散的GPU并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
-- [Gray](https://github.com/zenangst/Gray)  -只需按一下按钮，就可以根据应用在浅色和深色之间进行选择.  [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）！[免费软件] [免费软件图标]
+- [Gray](https://github.com/zenangst/Gray)  -只需按一下按钮，就可以在每个应用程序的亮色和暗色之间进行选择.  [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）！[免费软件] [免费软件图标]
 - [Helium](http://heliumfloats.com/)  -浮动的浏览器窗口，可让您在工作时观看媒体.  [！[开源软件] [OSS图标]]（https://github.com/JadenGeller/Helium）！[免费软件] [免费软件图标]
 - [Irvue](http://irvue.tumblr.com)  -Mac上成千上万的Unsplash精美照片和壁纸.  [！[开源软件] [OSS图标]]（https://github.com/leonspok/Irvue-Screensaver）！[免费软件] [免费软件图标]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) -菜单栏的高级系统监视器.
+- [Jiffy](https://sindresorhus.com/jiffy)  -在GIPHY上发现并共享最好的GIF.  ！[免费软件] [免费软件图标]
 - [Kawa](https://github.com/noraesae/kawa)  -具有快捷方式的更好的输入源切换器.  [！[开源软件] [OSS图标]]（https://github.com/noraesae/kawa）！[免费软件] [免费软件图标]
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)  -菜单栏实用程序，可防止Mac进入睡眠状态.  [！[开源软件] [OSS图标]]（https://github.com/newmarcel/KeepingYouAwake）！[免费软件] [免费软件图标]
 - [Keka](http://www.kekaosx.com/en/)  -压缩并提取多种存档文件格式.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/keka/files/）！[免费软件] [免费软件图标]
@@ -239,7 +241,7 @@
 - [MacPass](https://macpass.github.io/)  -密码管理器.  [！[开源软件] [OSS图标]]（https://github.com/MacPass/MacPass）！[免费软件] [免费软件图标]
 - [Media Converter](http://media-converter.sourceforge.net/)  -简单（拖放）但高级媒体转换.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/media-converter/code/ci/master/tree/）！[免费软件] [免费软件图标]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)  -方便地访问系统颜色面板.  [！[开源软件] [OSS图标]]（https://github.com/nvzqz/Menubar-Colors）！[免费软件] [免费软件图标]
-- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
+- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)  -用于macOS的一组CPU，内存，磁盘和网络监视工具.  [！[开源软件] [OSS图标]]（https://github.com/yujitach/MenuMeters）
 - [Monodraw](http://monodraw.helftone.com/) -强大的ASCII艺术编辑器.
 - [Mounty](http://enjoygineering.com/mounty/) -一个微型工具，可在读写模式下在macOS 10.9+下重新装载受写保护的NTFS卷.
 - [Noizio](http://noiz.io/) -环境声音均衡器，可放松或提高生产率.
@@ -254,7 +256,7 @@
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) -从Internet自动下载网站.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt)  -管理窗口的大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)  -防止意外的Cmd-Q.  [！[开源软件] [OSS图标]]（https://github.com/dteoh/SlowQuitApps）！[免费软件] [免费软件图标]
-- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，这样，当意外激活键时，即使您不想启动，您也可以开始大喊，您只需选择大喊大叫的文本，然后再次按该键即可立即修复其大小写，而不用键入一切都重新开始.
+- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，这样，当意外激活该键时，即使您不想启动，也可以开始大喊，您只需选择大喊大叫的文本，然后再次按下该键即可立即修复其大小写，而不用键入一切都重新开始.
 - [Soulver](http://www.acqualia.com/soulver/) -美丽的表现力计算器.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) -管理您的SSH隧道，与macOS钥匙串紧密集成，安全且直观.
 - [TeamViewer](https://www.teamviewer.com/en-us/index.aspx) -远程控制另一台计算机.
@@ -280,7 +282,7 @@
 - [Amethyst](http://ianyh.com/amethyst/)  -窗口管理器（自动将窗口调整为网格大小）.  [！[开源软件] [OSS图标]]（https://github.com/ianyh/Amethyst）！[免费软件] [免费软件图标]
 - [Divvy Window Manager](http://mizage.com/divvy/) -用于平铺窗口的窗口管理.
 - [Hammerspoon](http://www.hammerspoon.org/)  -适用于macOS的极其强大的脚本引擎.  [！[开源软件] [OSS图标]]（https://github.com/Hammerspoon/hammerspoon）！[免费软件] [免费软件图标]
-- [Hummingbird](https://hummingbirdapp.site/) -从窗口内的任何位置轻松移动和调整窗口大小，而无需单击鼠标.
+- [Hummingbird](https://hummingbirdapp.site/) -在窗口内的任何位置，无需单击鼠标即可轻松移动和调整窗口大小.
 - [Moom](https://manytricks.com/moom/) -移动和缩放窗口，超轻量且可定制.
 - [Phoenix](https://github.com/kasper/phoenix)  -可使用JavaScript编写脚本的轻量级窗口和应用程序管理器.  [！[开源软件] [OSS图标]]（https://github.com/Hammerspoon/hammerspoon）！[免费软件] [免费软件图标]
 - [Rectangle](https://rectangleapp.com/)  -无需使用鼠标即可轻松组织窗口.  [！[开源软件] [OSS图标]]（https://github.com/rxhanson/Rectangle）！[免费软件] [免费软件图标]
@@ -430,5 +432,5 @@ Ansible剧本，用于从全新的macOS安装中配置开发和桌面环境.
 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [chitchat]：https：//github.com/stonesam92/ChitChat
-[OSS图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [免费软件图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg

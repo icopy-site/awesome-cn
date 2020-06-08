@@ -14,7 +14,7 @@
 
 ## Contribute to this list!
 
-欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
+欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，该项目才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
 
  自述文件和网站是自动生成的.  为了将元素添加到该列表中，您需要修改/ data中的文件，然后在发布请求之前运行make build.  读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
 
@@ -178,6 +178,7 @@
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) -从/到IPFS推/拉存储库
 - [go-orbit-db](https://github.com/berty/go-orbit-db)  -这是OrbitDB的Golang端口，旨在与原始JavaScript版本完全兼容.  OrbitDB是一个无服务器的分布式对等数据库.
 - [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) -go-stellar-ipfs是一个库，是Stellar和IPFS之间的桥梁.
+- [gomobile-ipfs](https://github.com/ipfs-shipyard/gomobile-ipfs) -带有Gomobile的Mobile上的IPFS和libp2p
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) -这是将URL添加到IPFS节点的简单网络工具.
 - [ipcat](https://github.com/noffle/ipcat) -：cat2：检索IPFS对象数据并将其发送到stdout.
 - [IPDR](https://github.com/miguelmota/ipdr) -IPFS支持的Docker注册表

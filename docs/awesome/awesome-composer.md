@@ -46,7 +46,7 @@
 - [Composer-Versions-Check](https://github.com/Soullivaneuh/composer-versions-check) -使用更新命令后，显示最近主要版本中已过期的软件包（显示“最新是vX.YZ”）.
 - [Composer-Changelogs](https://github.com/pyrech/composer-changelogs)  -提供更新摘要，并带有指向changelog / releasenote / tag的链接.  更新composer.lock文件时，准备将输出粘贴到提交消息中.
 - [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin) -在Composer运行时合并多个`composer.json`文件.
-- [Composer-Bin-Plugin](https://github.com/bamarni/composer-bin-plugin) -增加了对管理单个存储库中多个程序包的依赖性的支持，或隔离了bin依赖性.
+- [Composer-Bin-Plugin](https://github.com/bamarni/composer-bin-plugin) -增加了对在单个存储库中管理多个软件包的依存关系或隔离bin依存关系的支持.
 - [Composer-Inheritance-Plugin](https://github.com/theofidry/composer-inheritance-plugin) -Wikimedia composer-merge-plugin的官方版本可与Bamarni composer-bin-plugin配合使用.
 - [Composer-MonoRepo-Plugin](https://github.com/beberlei/composer-monorepo-plugin) -该插件有助于管理单个存储库中多个软件包的依赖关系.
 - [Composer-Patches-Plugin](https://github.com/netresearch/composer-patches-plugin)  -使您能够为任何软件包中的任何软件包提供补丁.  提取依赖项后，将在顶部应用补丁.
@@ -63,13 +63,13 @@
 - [Composer-Symlinker](https://github.com/dg/composer-symlinker) -使您能够从不同目录加载软件包（而不是从/ vendor加载软件包）.
 - [Prestissimo](https://github.com/hirak/prestissimo) -使用`phpext_curl`的并行下载器.
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) -该插件使用phpext_curl下载软件包.
-- [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
-- [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
+- [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) -composer插件，用于在默认composer安装路径（供应商文件夹）之外的自定义目录中安装不同类型的composer软件包.
+- [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) -允许您为已安装的composer项目构建依赖关系图.
 - [Graph-Composer](https://github.com/clue/graph-composer) -为项目的`composer.json`及其依赖项提供图形可视化.
 - [PackageVersions](https://github.com/Ocramius/PackageVersions) -提供对已安装的作曲家依赖关系版本的快速便捷访问.
 - [Composer Locator](https://github.com/mindplay-dk/composer-locator) -提供一种查找给定Composer软件包名称的安装路径的方法.
-- [PackageInfo](https://github.com/ThaDafinser/PackageInfo) -使您能够检索所有软件包信息（如版本，标签，发布日期，说明）.
-- [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) -一个库，可轻松管理作曲家配置中的git挂钩.
+- [PackageInfo](https://github.com/ThaDafinser/PackageInfo) -使您能够检索所有软件包信息（如版本，标签，发布日期，描述）.
+- [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 - [Symfony-Flex](https://github.com/symfony/flex) -提供 [recipe-based](https://github.com/symfony/recipes) Symfony软件包的安装和配置管理.
 - [Narrowspark-Automatic](https://github.com/narrowspark/automatic) -自动执行应用程序中最常见的任务，提高软件包下载量，添加作曲家安全审核等.
 - [PHPCodeSniffer-Composer-Installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) -该插件可让您安装 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 编码标准（规则）.
@@ -82,7 +82,7 @@
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) -使您可以在不同的作曲者存储库之间切换.
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) -防止将开发包添加到需求中并进入生产环境.
 - [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) -一次阻止多个安装或更新操作.
-- [Composer-Downloads-Plugin](https://github.com/civicrm/composer-downloads-plugin) -轻量级的机制，用于仅通过“ url”和“ path”下载外部资源（ZI​​P / TAR文件）.
+- [Composer-Downloads-Plugin](https://github.com/civicrm/composer-downloads-plugin) -轻量级的机制，仅通过“ url”和“ path”下载外部资源（ZI​​P / TAR文件）.
 - [Private-Composer-Installer](https://github.com/ffraenz/private-composer-installer) -安装帮助程序，将包密钥中的敏感密钥外包到环境变量中.
 
 ## Tools
@@ -92,27 +92,28 @@
 - [Studio](https://github.com/franzliedke/studio)  -用于开发Composer软件包的工作台.  它是编辑供应商文件夹中的依赖项或使用 [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) 将依赖项的本地克隆加载到项目中.
 - [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) -使您能够浏览Github上的Composer / NPM依赖项.
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) -一个CLI工具，用于分析依赖关系并验证软件包的来源中没有使用未知的导入符号.
-- [Composer-Normalize](https://github.com/ergebnis/composer-normalize) -该插件可通过重组和排序条目（规范化）来帮助保持您的`composer.json`文件一致.
+- [Composer-Unused](https://github.com/composer-unused/composer-unused) -一个CLI工具，可扫描您的代码并显示未使用的Composer依赖项.
+- [Composer-Normalize](https://github.com/ergebnis/composer-normalize) -该插件通过重组和排序条目（规范化）来帮助保持您的`composer.json`文件一致.
 - [Composer-Service](https://github.com/pborreli/composer-service) -使您可以在远程服务器上将Composer作为服务运行.
 - [Composer PreferLowest Checker](https://github.com/dereuromark/composer-prefer-lowest) -严格比较composer.json的指定最低版本与preferred-lowest composer update命令选项实际使用的最低版本.
-- [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) -针对Composer的Bash / Shell自动完成脚本.
-- [Composer/Xdebug-Handler](https://github.com/composer/xdebug-handler) -帮助您重新启动CLI进程而无需加载xdebug扩展名.
+- [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) -适用于Composer的Bash / Shell自动完成脚本.
+- [Composer/Xdebug-Handler](https://github.com/composer/xdebug-handler) -帮助您在不加载xdebug扩展名的情况下重新启动CLI进程.
 
 ## Scripts
 
 - [ParameterHandler](https://github.com/Incenteev/ParameterHandler) -允许您在运行作曲家安装或更新时管理忽略的参数.
-- [Tooly](https://github.com/tommy-muehle/tooly-composer-script)  -在项目`composer.json`中管理所需的PHAR文件.  每个PHAR文件都将保存在作曲家的二进制目录中.  每个PHAR的GPG验证均可选.
+- [Tooly](https://github.com/tommy-muehle/tooly-composer-script)  -在项目`composer.json`中管理所需的PHAR文件.  每个PHAR文件将保存在作曲家的二进制目录中.  每个PHAR的GPG验证均可选.
 - [Melody](https://github.com/sensiolabs/melody) -一文件式作曲家脚本.
 - [Composer-Travis-Lint](https://github.com/raphaelstolt/composer-travis-lint) -允许您填充Travis CI配置文件（.travis.yml`）.
 - [Composer-Multitest](https://github.com/raphaelstolt/composer-multitest) -使您可以针对多个本地安装的PHP版本（由PHPBrew或phpenv管理）运行Composer脚本.
 - [ScriptsDev](https://github.com/neronmoon/scriptsdev) -使您可以使用`scripts-dev`部分，该部分仅在开发模式下触发脚本.
 - [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer) -一个Composer软件包，可将PhantomJS二进制文件（Linux，Windows，Mac）安装到项目的/ bin中.
-- [Composer-Vendor-Cleanup](https://github.com/0xch/composer-vendor-cleanup) -从供应商目录中删除列入白名单的不必要文件（例​​如测试/文档等）的脚本.
+- [Composer-Vendor-Cleanup](https://github.com/0xch/composer-vendor-cleanup) -从供应商目录中删除列入白名单的不必要文件（如测试/文档等）的脚本.
 - [Composer Substitution Plugin](https://github.com/villfa/composer-substitution-plugin) -一个Composer插件，用动态值替换“脚本”部分中的占位符.
 
 ## Services
 
-- [Dependabot](https://dependabot.com/)  -Dependabot是依赖项更新服务.  它通过发送请求请求来监视和更新您的依赖项.  该服务免费提供公共回购和个人帐户回购.
+- [Dependabot](https://dependabot.com/)  -Dependabot是依赖项更新服务.  它通过发送请求请求来监视和更新您的依赖项.  该服务对于公共回购和个人帐户回购是免费的.
 
 ---------------------------------------------------------
 
@@ -199,12 +200,15 @@
 -非洲
   -南非- [https://github.com/jakoch/awesome-composer/blob/master/packagist.co.za](https://github.com/jakoch/awesome-composer/blob/master/packagist.co.za)
 -亚洲
-  -中国- [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/), [https://mirrors.aliyun.com/composer/](https://mirrors.aliyun.com/composer/)
+  - China - [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/), [https://mirrors.aliyun.com/composer/](https://mirrors.aliyun.com/composer/)
   -印度- [https://packagist.in/](https://packagist.in/)
   -印尼- [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
   - 日本 - [packagist.jp](https://packagist.jp)
 
 ## Composer Repositories
+
+### Private repositories
+- [tug.dev](https://tug.dev/) & [fxpio/tug](https://github.com/fxpio/tug) -使您能够在AWS Serverless上托管私有Composer注册表，为您的私有PHP程序包提供服务，这些PHP程序包托管在Github或Gitlab服务上.
 
 ### Private Packagist
 - [Private Packagist Cloud](https://packagist.com) -Composer存储库即服务，用于私有软件包并镜像其他存储库中的软件包.
@@ -214,7 +218,7 @@
 ### Repman
 
 - [repman.io](https://repman.io) & [repman-io/repman](https://github.com/repman-io/repman) -私有PHP软件包存储库管理器和Packagist代理.
-- [repman-io/composer-plugin](https://github.com/repman-io/composer-plugin) -该插件可以通过添加所有依赖项的分发镜像URL来通过Repman下载（无需更新`composer.lock`文件）. 
+- [repman-io/composer-plugin](https://github.com/repman-io/composer-plugin) -此插件可通过为所有依赖项添加分发镜像URL来通过Repman下载（无需更新`composer.lock`文件）. 
 
 ## Packagist-compatible repositories
 
@@ -222,7 +226,7 @@
 - [Asset Packagist](https://asset-packagist.org/) -允许将Bower和NPM软件包安装为本地Composer软件包.
 - [Firegento](https://packages.firegento.com/) -提供Magento模块的Composer存储库.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) -用于Drupal 7和8核心，模块和主题的Composer存储库.
-- [Satis Server](https://github.com/lukaszlach/satis-server) -该docker容器提供了一个Satis Server，使您能够运行私有，自托管的Composer存储库，并支持Git，Mercurial和Subversion，HTTP API，HTTPs，webhook处理程序和计划的构建.
+- [Satis Server](https://github.com/lukaszlach/satis-server) -该docker容器提供了Satis Server，使您能够运行私有，自托管的Composer存储库，并支持Git，Mercurial和Subversion，HTTP API，HTTPs，webhook处理程序和计划的构建.
 - [Cloudsmith](https://cloudsmith.io) -具有PHP / Composer支持（以及许多其他功能）的完全托管的软件包管理SaaS.
 - [Release Belt](https://github.com/Rarst/release-belt) -自托管的Composer存储库实施，可快速集成第三方非Composer版本的ZIP文件.
 - [Packeton](https://github.com/vtsykun/packeton)  -供供应商使用的私人自托管Composer存储库.  包装专家的分叉，增加了对授权，客户用户，组，webhooks的支持.
@@ -232,11 +236,11 @@
 - [Gitlab-Composer](https://github.com/wemakecustom/gitlab-composer) -这是Gitlab存储库的分支/标签索引器.
 - [Satisfy](https://github.com/ludofleury/satisfy) -具有Web UI的Satis作曲者存储库管理器.
 - [Satis Control Panel](https://github.com/realshadow/satis-control-panel) -一个简单的Web UI，用于通过可选的CI集成管理您的Satis存储库.
-- [Satis Go](https://github.com/benschw/satis-go) -用于管理Satis配置和托管生成的Composer存储库的Web服务器.
+- [Satis Go](https://github.com/benschw/satis-go) -用于管理Satis配置并托管生成的Composer存储库的Web服务器.
 
 ### Toran Proxy
 
-- [ToranProxy](https://toranproxy.com/) （已弃用）-除了提供作曲者存储库外，ToranProxy还充当Packagist和GitHub的代理服务器.
+- [ToranProxy](https://toranproxy.com/) （已弃用）-除了提供作曲家存储库外，ToranProxy还充当Packagist和GitHub的代理服务器.
 
 ---------------------------------------------------------
 
@@ -244,4 +248,4 @@
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Jens A. Koch](https://github.com/jakoch) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Jens A. Koch](https://github.com/jakoch) 放弃了此作品的所有版权以及相关或邻近的权利.

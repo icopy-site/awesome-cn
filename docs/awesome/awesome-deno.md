@@ -36,12 +36,14 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 
 - [abc](https://github.com/zhmushan/abc) -更好的Deno框架来创建Web应用程序.
 - [alosaur](https://github.com/alosaur/alosaur) -Alosaur-具有许多装饰器的Deno Web框架.
+- [attain](https://github.com/aaronwlee/Attain)  -Deno的中间件Web框架，该框架使用受Express和Oak启发的http标准库.  快速稳定地使用适当的内存.
 - [aqua](https://github.com/l2ig/aqua) -用于Deno的最小和快速的Web框架.
 - [autopilot](https://github.com/divy-work/autopilot-deno) -自动驾驶-使用Deno进行跨平台的Web自动化.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) -格式化字节（Uint8Array，ArrayBufferView等）输出，在调试IO功能时很有用.
 - [cac](https://github.com/cacjs/cac) -用于构建命令行应用程序的简单而强大的框架.
 - [camelcase](https://github.com/denolib/camelcase) -将破折号/点号/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
 - [colors](https://deno.land/std/fmt/colors.ts) -用于Deno的基本控制台颜色库.
+- [computed_types](https://github.com/neuledge/computed-types) -Joi喜欢Typescript和Deno的验证器.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) -在执行长任务时，在终端中显示微调框.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) -一个简单的CSV解析器.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) -Deno Cache Clean，在下次运行时重新加载dep.
@@ -77,7 +79,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) -从segmentio / xml-parser移植的Deno XML解析器.
 - [denotrain](https://github.com/Caesar2011/denotrain) -带有中间件支持的多合一Web框架，如Express或Fastify forNode.js.
 - [dinatra](https://github.com/syumai/dinatra) -Sinatra像deno的轻量级Web应用程序框架.
-- [djwt](https://github.com/timonson/djwt) - Make JSON Web Tokens (JWT) on Deno based on JWT and JWS specifications.
+- [djwt](https://github.com/timonson/djwt) -根据JWT和JWS规范在Deno上制作JSON Web令牌（JWT）.
 - [dso](https://github.com/manyuanrong/dso) -一个基于mysql的简单ORM库.
 - [ensure](https://github.com/eankeen/ensure) -确保您运行的是Deno，Typescript或V8的最低版本.
 - [evt](https://github.com/garronej/evt) -输入EventEmitter的安全替代品.
@@ -110,7 +112,8 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [sql-builder](https://github.com/manyuanrong/sql-builder) -sql查询生成器.
 - [status](https://github.com/denosaurs/status) -用于Deno的HTTP代码和状态实用程序.
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
-- [type-fest](https://github.com/denoserverless/type-fest) -基本TypeScript类型的集合（sindresorhus端口/ type-fest）.
+- [time.ts](https://github.com/burhanahmeed/time.ts) -Time.ts-简便的Deno时区操作
+- [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 - [unexpected](https://github.com/unexpectedjs/unexpected) -可扩展的BDD断言工具包.
 - [up](https://github.com/denorg/up) -检查是否在Deno建立了网站.
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) -为Deno加密和解密gzip.
@@ -212,6 +215,8 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 
 - [Berkenalan dengan Deno](https://medium.com/@redhajuanda/berkenalan-dengan-dengan-deno-c48cdf3aa31e)
 - [Perkenalan Deno dan Instalasi](https://youtu.be/V_kpUTJSd9c)
+- [Deno Land Indonesia website](https://denoland.id/)
+- [Deno Land Indonesia Telegram group](https://t.me/deno_id)
 
 ### Japanese
 

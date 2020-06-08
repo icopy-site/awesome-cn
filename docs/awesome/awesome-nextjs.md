@@ -30,7 +30,7 @@
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
  * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
- * [使用Next.js和Redux _ [俄语] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
+ * [使用Next.js和Redux _ [Russian] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
  * [5 (of the Many Reasons) to love Vercel's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
  * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://zeit.co/blog/next5)
  * [Realtime data visualization using Next.js and Chart.js](https://pusher.com/tutorials/realtime-data-visualization-nextjs)
@@ -102,6 +102,7 @@
 
 ## Apps
 * [CourseLit](https://github.com/codelit/courselit) -Thinkific，Teachable等的开源替代品
+* [Feednext](https://github.com/feednext/feednext) -开源社交媒体应用程序.
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) -展示权力游戏角色的简单Next.js应用程序.
 * [Next Episode](https://github.com/timneutkens/next-episode) -示例Next.js应用程序，用于显示电影片段.
 * [Relate](https://github.com/RelateNow/relate) -正念社区-React，GraphQL，Next.js.
@@ -144,7 +145,7 @@
 
 ## Videos
 
-* [使用NextJS _ [Spanish] _]创建第一个ReactJS应用程序（https://www.youtube.com/watch?v=-7Ft5LxPeWs）
+* [使用NextJS _ [西班牙语] _创建您的第一个ReactJS应用程序（https://www.youtube.com/watch?v=-7Ft5LxPeWs）
 * [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
 * [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
 * [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
