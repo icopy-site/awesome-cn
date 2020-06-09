@@ -47,11 +47,12 @@
 
  博客文章和Wardley地图的其他有趣示例.  按日期排序，最新的优先.
 
-- [Wenn Customizing zur Legacy wird](https://www.innoq.com/de/blog/customizing-zu-legacy/)  -使用Wardley Maps和战略领域驱动的设计对ERP系统进行分析.  2020年6月2日.
+- [Estratégia com Wardley Maps](https://targetteal.com/pt/blog/estrategia-wardley-maps/)  -R. Bastos.  2020年6月7日.
+- [Wenn Customizing zur Legacy wird](https://www.innoq.com/de/blog/customizing-zu-legacy/)  -使用Wardley Maps和战略领域驱动的设计来分析ERP系统.  2020年6月2日.
 - [Your story never had a chance](https://medium.com/@azmolek/your-story-never-had-a-chance-d118e0ace8f8)  -游戏玩法，分形模式，反馈循环，学说.  2020年5月9日.
 - [Mapping the blog](https://www.onyszko.com/mapping-the-blog/)  -将Wardley地图应用于个人博客用户需求.  2020年4月20日.
 - [Research Skills Framework](https://www.researchskills.net/) -RSF [Map](https://www.researchskills.net/framework/map)  和Mapping Kit建立在Simon Wardley的地图上.  于2020年3月30日检索.
-- [Me versus We](https://medium.com/@swardley/me-versus-we-975f518b8219) - Off the beaten track — pivot. Mar 27, 2020.
+- [Me versus We](https://medium.com/@swardley/me-versus-we-975f518b8219)  -远离人迹罕至的地方-转动.  2020年3月27日.
 - [On the diversity of values](https://medium.com/@swardley/on-the-diversity-of-values-af1f91217be5)  -关于价值观的包容性和排他性.  2020年2月24日.
 - [From HS2 to China and … back again](https://medium.com/@swardley/from-hs2-to-china-and-back-again-6bce5764ea14)  -在不断变化的地缘政治世界中.  2020年2月23日.
 - [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) -2020年2月9日，查看组织中的团队和层级以及用于满足组织需求的做法，例如结盟，报告等.
@@ -96,7 +97,7 @@
 - [Time to get mapping - how a blind government can develop sight](https://www.computerweekly.com/opinion/Time-to-get-mapping-how-a-blind-government-can-develop-sight)  -第1部分马克·汤普森（Mark Thompson）概述了数字愿景，以使政府成为一个更具凝聚力的集成组织.  2015年10月9日.
 - [Simon Wardley's 100-day Corporate get fit plan](https://www.cio.com/article/3526767/simon-wardley-s-100-day-corporate-get-fit-plan.html)  -对于新任命的执行官，帮助您进入一个可以开始学习和讨论策略的职位.  2015年8月21日.
 - [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html)  -Simon Wardley讨论了他在映射中使用的其他一些工具.  2015年3月6日.
-- [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html)  -tl；卡维特博士的吸血鬼.  2014年2月4日.
+- [Context, Situation, Components, PaaS, Dead or Alive … it's all semantics isn't it?](https://blog.gardeviance.org/2014/02/context-situation-components-paas-dead.html)  -tl；卡维特博士免责声明.  2014年2月4日.
 
 ## Research Papers
 
@@ -114,7 +115,7 @@
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) -使用此模板进行映射的方法指南.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) -Figma的映射模板.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) -用于OmniGraffle的Wardley映射模具.
-- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了LaTeX中绘制沃德利地图的过程.
+- [Wardley Maps in LaTeX](https://github.com/latticecut/Wardley_Chapter2_Finding_a_path) -西蒙·沃德利（Simon Wardley）的书中的图8和图11，展示了在LaTeX中绘制沃德利地图的过程.
 - [yEd Palette](https://github.com/colugo/yed-wardley) -沃德利（Yard）映射调色板.
 
 ### Doctrine Assessement
@@ -171,7 +172,7 @@
 - 北美
   -加拿大
     -魁北克
-       -蒙特利尔.  通过伸出手 [mapcamp.slack.com](https://mapcamp.slack.com/) in the #canada channel, we don't have an official meetup group yet.
+      - Montreal. Reach out via [mapcamp.slack.com](https://mapcamp.slack.com/) in the #canada channel, we don't have an official meetup group yet.
   - 美国
     -加利福尼亚
       - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)

@@ -38,6 +38,7 @@
 - [@prisma-tools/admin](https://prisma-tools.ahmedelywa.com/admin/generator)
 - [Prisma plugin for the IntelliJ Platform](https://github.com/gabrielcolson/intellij-prisma)
 - [Gatsby with prisma-client](https://github.com/LekoArts/gatsby-with-prisma-client)
+- [Testing Prisma with PostgreSQL and Jest](https://github.com/ctrlplusb/prisma-pg-jest)
 
 ## :thinking: How Tos
 
@@ -55,6 +56,7 @@
 - [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
 - [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
 - [Using Prisma with GraphQL Codegen](https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749)
+- [Building a sane Docker image for Typescript, Yarn Workspaces and Prisma 2](https://medium.com/@emilefugulin/building-a-sane-docker-image-for-typescript-lerna-and-prisma-2-76d8ff9926e4)
 
 教程与 [Nexus](https://www.nexusjs.org/#/)
 

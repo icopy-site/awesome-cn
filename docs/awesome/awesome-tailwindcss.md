@@ -313,7 +313,7 @@
 - [Rasul Kireev](https://rasulkireev.com)
 - [Built with Django](https://builtwithdjango.com)
 - [Log1x](https://log1x.com)
-
+- [Frontendfun](https://www.frontendfun.com)
 ## Contribute
 
  欢迎捐款！  阅读 [contribution guidelines](https://github.com/aniftyco/awesome-tailwindcss/blob/master/contributing.md) 第一.

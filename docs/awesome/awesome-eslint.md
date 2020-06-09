@@ -43,7 +43,7 @@
 ## Globals
 
 - [Restricted Globals](https://github.com/sidoshi/eslint-restricted-globals) -在全局变量上期望有“ window”限定符，否则可能会混淆为局部变量.
-- [ES and browser globals](https://github.com/sindresorhus/globals) （最初来自ESLint）
+- [ES and browser globals](https://github.com/sindresorhus/globals) (originally from ESLint)
 - [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd)
 
 ## Parsers
@@ -73,7 +73,8 @@
 - [React](https://github.com/yannickcr/eslint-plugin-react) -整理React和JSX的规则.
 - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) -整理React Hooks的规则.
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) -响应本机特定的掉毛规则.
-- [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
+- [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) -React-Redux特定的掉毛规则.
+- [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) -RequireJS的Linting规则.
 - [VueJS](https://github.com/vuejs/eslint-plugin-vue) -VueJS插件.
 - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) -VueJS中的范围CSS插件.
 
@@ -102,6 +103,8 @@
 - [Node](https://github.com/mysticatea/eslint-plugin-node) -有关Node.js的其他ESLint规则.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) -检查文件顶部并修复文件的eslint规则！
 - [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) -优化正则表达式文字.
+- [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) -将所有规则转换为错误.
+- [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) -将所有规则转换为警告.
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) -检测错误和可疑模式的规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) -ESLint的SQL插入规则.
 - [TypeLint](https://github.com/yarax/typelint) -根据现有模式（Swagger，Redux）引入类型，并减少对对象属性的访问，以防止出现“未定义”错误.
@@ -159,11 +162,14 @@
 - [Cucumber](https://github.com/darrinholst/eslint-plugin-cucumber) -黄瓜的整理规则.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) -茉莉花的整理规则.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) -嘲笑的规则.
+- [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) -开玩笑的异步整理规则.
+- [Jest-DOM](https://github.com/testing-library/eslint-plugin-jest-dom) -为Jest-DOM整理规则.
 - Mocha
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) -抹茶规则.
   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 - [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) -QUnit的Linting规则.
 - [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) -Testcafe的整理规则.
+- [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) -测试库的整理规则.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) -赛普拉斯的绒毛规则.
 
 ### Formatters

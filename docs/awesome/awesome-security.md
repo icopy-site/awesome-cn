@@ -19,7 +19,7 @@
 
 - [OpenVAS](http://www.openvas.org/) -OpenVAS是包含多种服务和工具的框架，可提供全面而强大的漏洞扫描和漏洞管理解决方案.
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework)  -用于针对远程目标计算机开发和执行漏洞利用代码的工具.  其他重要的子项目包括操作码数据库，shellcode存档和相关研究.
-- [Kali](https://www.kali.org/)  -Kali Linux是Debian衍生的Linux发行版，专门用于数字取证和渗透测试.  Kali Linux预先安装了许多渗透测试程序，包括nmap（端口扫描程序），Wireshark（数据包分析器），John Ripper（密码破解程序）和Aircrack-ng（用于渗透测试无线LAN的软件套件） .
+- [Kali](https://www.kali.org/)  -Kali Linux是Debian衍生的Linux发行版，专门用于数字取证和渗透测试.  Kali Linux预先安装了许多渗透测试程序，包括nmap（端口扫描程序），Wireshark（数据包分析器），John Ripper（密码破解程序）和Aircrack-ng（用于渗透测试无线LAN的软件套件）. .
 - [pig](https://github.com/rafael-santiago/pig) -Linux数据包制作工具.
 - [scapy](https://github.com/gpotter2/awesome-scapy) -Scapy：基于python的交互式数据包处理程序和库.
 - [Pompem](https://github.com/rfunix/Pompem)  -Pompem是一种开源工具，旨在自动搜索主要数据库中的漏洞利用程序.  用Python开发的系统具有高级搜索系统，因此可以促进渗透测试人员和道德黑客的工作.  在当前版本中，在数据库中执行搜索：Exploit-db，1337day，Packetstorm Security ...
@@ -68,14 +68,14 @@
 - [Kojoney](http://kojoney.sourceforge.net/)  -Kojoney是模拟SSH服务器的低级交互蜜罐.  该守护程序是使用Twisted Conch库以Python编写的.
 - [HonSSH](https://github.com/tnich/honssh)  -HonSSH是一种高交互性的Honey Pot解决方案.  HonSSH将位于攻击者和蜜罐之间，从而在它们之间创建两个单独的SSH连接.
 - [Bifrozt](http://sourceforge.net/projects/bifrozt/)  -Bifrozt是带有DHCP服务器的NAT设备，通常将其部署为将一个NIC直接连接到Internet，将一个NIC连接到内部网络.  Bifrozt与其他标准NAT设备的不同之处在于，它可以充当攻击者和蜜罐之间的透明SSHv2代理.  如果您在Bifrozt的内部网络上部署了SSH服务器，它将以纯文本格式将所有交互记录到TTY文件中，以便以后查看并捕获所有已下载文件的副本.  您无需在内部SSH服务器上安装任何其他软件，编译任何内核模块或使用特定版本或类型的操作系统，即可正常工作.  它将出站流量限制为一定数量的端口，并且在超出某些限制时将开始丢弃这些端口上的出站数据包.
-- [HoneyDrive](http://bruteforce.gr/honeydrive)  -HoneyDrive是主要的蜜罐Linux发行版.  它是安装了Xubuntu Desktop 12.04.4 LTS版的虚拟设备（OVA）.  它包含10多个预安装和预配置的蜜罐软件包，例如Kippo SSH蜜罐，Dionaea和Amun恶意软件蜜罐，Honeyd低交互蜜罐，Glastopf Web蜜罐和Wordpot，Conpot SCADA / ICS蜜罐，Thug和PhoneyC honeyclients等. .  此外，它包括许多有用的预配置脚本和实用程序，以分析，可视化和处理它可以捕获的数据，例如Kippo-Graph，Honeyd-Viz，DionaeaFR，ELK堆栈等等.  最后，分发中还提供了将近90种知名的恶意软件分析，取证和网络监控相关工具.
+- [HoneyDrive](http://bruteforce.gr/honeydrive)  -HoneyDrive是主要的蜜罐Linux发行版.  它是安装了Xubuntu Desktop 12.04.4 LTS版的虚拟设备（OVA）.  它包含10多个预安装和预配置的蜜罐软件包，例如Kippo SSH蜜罐，Dionaea和Amun恶意软件蜜罐，Honeyd低交互蜜罐，Glastopf Web蜜罐和Wordpot，Conpot SCADA / ICS蜜罐，Thug和PhoneyC honeyclients等. .  此外，它包括许多有用的预配置脚本和实用程序，以分析，可视化和处理其可以捕获的数据，例如Kippo-Graph，Honeyd-Viz，DionaeaFR，ELK堆栈等等.  最后，分发中还提供了将近90种知名的恶意软件分析，取证和网络监控相关工具.
 - [Cuckoo Sandbox](http://www.cuckoosandbox.org/)  -Cuckoo Sandbox是用于自动分析可疑文件的开源软件.  为此，它利用自定义组件监视在隔离环境中运行时恶意进程的行为.
 - [T-Pot Honeypot Distro](http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html)  -T-Pot基于Ubuntu Server 16 / 17.x LTS的网络安装程序.  蜜罐守护程序以及正在使用的其他支持组件已使用docker进行了容器化.  这使我们可以在同一网络接口上运行多个honeypot守护程序，同时保持较小的占用空间，并将每个honeypot限制在其自己的环境中.  通过香草Ubuntu进行安装- [T-Pot Autoinstall](https://github.com/dtag-dev-sec/t-pot-autoinstall)  -该脚本将在新的Ubuntu 16.04.x LTS（64位）上安装T-Pot 16.04 / 17.10.  它打算在托管服务器上使用，在托管服务器上会提供Ubuntu基本映像，并且无法安装自定义ISO映像.  已在VMware的原始Ubuntu 16.04.3上成功测试.
 
 ### Full Packet Capture / Forensic
 
 - [tcpflow](https://github.com/simsong/tcpflow)  -tcpflow是一个程序，可捕获作为TCP连接（流）一部分传输的数据，并以便于协议分析和调试的方式存储数据.  每个TCP流都存储在其自己的文件中.  因此，典型的TCP流将存储在两个文件中，每个方向一个.  tcpflow还可以处理存储的“ tcpdump”数据包流.
-- [Xplico](http://www.xplico.org/)  -Xplico的目标是从互联网流量中提取捕获的应用程序数据.  例如，Xplico从一个pcap文件中提取每个电子邮件（POP，IMAP和SMTP协议），所有HTTP内容，每个VoIP呼叫（SIP），FTP，TFTP等.  Xplico不是网络协议分析器.  Xplico是一个开源的网络取证分析工具（NFAT）.
+- [Xplico](http://www.xplico.org/)  -Xplico的目标是从互联网流量中提取捕获的应用程序数据.  例如，Xplico从pcap文件中提取每个电子邮件（POP，IMAP和SMTP协议），所有HTTP内容，每个VoIP呼叫（SIP），FTP，TFTP等.  Xplico不是网络协议分析器.  Xplico是一个开源的网络取证分析工具（NFAT）.
 - [Moloch](https://github.com/aol/moloch)  -Moloch是一个开源的大规模IPv4数据包捕获（PCAP），索引和数据库系统.  提供了一个简单的Web界面，用于PCAP浏览，搜索和导出.  公开的API允许直接下载PCAP数据和JSON格式的会话数据.  通过使用HTTPS和HTTP摘要密码支持或在前面使用apache，可以实现简单的安全性.  Moloch并不是要取代IDS引擎，而是与它们一起工作，以标准PCAP格式存储和索引所有网络流量，从而提供快速访问.  Moloch构建为可跨许多系统部署，并且可以扩展以处理每秒数千兆位的流量.
 - [OpenFPC](http://www.openfpc.org)  -OpenFPC是一组工具，可以组合提供轻量级的完整数据包网络流量记录器和缓冲系统.  它的设计目标是允许非专家用户在集成到现有警报和日志管理工具的同时，在COTS硬件上部署分布式网络流量记录器.
 - [Dshell](https://github.com/USArmyResearchLab/Dshell)  -Dshell是网络取证分析框架.  支持快速开发插件，以支持剖析网络数据包捕获.
@@ -113,6 +113,8 @@
 - [fwknop](https://www.cipherdyne.org/fwknop/) -通过防火墙中的“单包授权”保护端口.
 
 ### Anti-Spam
+- [Spam Scanner](https://github.com/spamscanner) -反垃圾邮件扫描服务和反垃圾邮件API [@niftylettuce](https://github.com/niftylettuce).
+- [rspamd](https://github.com/rspamd/rspamd) -快速，免费和开源的垃圾邮件过滤系统.
 - [SpamAssassin](https://spamassassin.apache.org/) -使用各种检测技术的强大而流行的电子邮件垃圾邮件过滤器.
 
 
@@ -195,7 +197,7 @@
 - [IntelMQ](https://github.com/certtools/intelmq/)  -IntelMQ是针对CERT的解决方案，用于使用消息队列协议收集和处理安全性提要，pastebins，tweet.  这是一个由社区推动的举措，称为IHAP（突发事件处理自动化项目），由欧洲CERT在几次InfoSec活动期间进行概念设计.  其主要目标是为事件响应者提供一种简便的方法来收集和处理威胁情报，从而改善CERT的事件处理流程. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 - [CIFv2](https://github.com/csirtgadgets/massive-octo-spice)  -CIF是网络威胁情报管理系统.  CIF允许您组合来自许多来源的已知恶意威胁信息，并将该信息用于标识（事件响应），检测（IDS）和缓解（无效路由）.
 - [CriticalStack](https://intel.criticalstack.com/) -用于Bro网络安全监控平台的免费汇总威胁情报.
-- [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/)  -MISP威胁共享平台是一个免费的开源软件，可帮助共享威胁情报（包括网络安全指标）的信息.  一个威胁情报平台，用于收集，共享，存储和关联目标攻击的危害指标，威胁情报，财务欺诈信息，漏洞信息甚至反恐信息.  MISP项目包括软件，通用库（[taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)），一个广泛的数据模型，可使用 [objects](https://www.misp-project.org/objects.html) 和默认 [feeds](https://www.misp-project.org/feeds/).
+- [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/)  -MISP威胁共享平台是一个免费的开源软件，可帮助共享威胁情报（包括网络安全指标）的信息.  一个威胁情报平台，用于收集，共享，存储和关联目标攻击的危害指标，威胁情报，财务欺诈信息，漏洞信息，甚至是反恐信息.  MISP项目包括软件，通用库（[taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)），一个广泛的数据模型，可使用 [objects](https://www.misp-project.org/objects.html) 和默认 [feeds](https://www.misp-project.org/feeds/).
 - [PhishStats](https://phishstats.info/) -网络钓鱼统计信息，用于搜索IP，域名和网站标题.
 
 ## Web
@@ -215,7 +217,7 @@
 
 - [Spyse](https://spyse.com/)  -Spyse是OSINT搜索引擎，可提供有关整个Web的最新数据.  所有数据都存储在其自己的数据库中以进行即时访问，并相互互连以进行灵活的搜索.
 提供的数据：IPv4主机，子/域/ whois，端口/横幅/协议，技术，操作系统，AS，广泛的SSL / TLS DB等.
-- [sqlmap](http://sqlmap.org/)  -sqlmap是一个开放源代码渗透测试工具，可自动检测和利用SQL注入漏洞并接管数据库服务器的过程.  它具有强大的检测引擎，针对最终渗透测试仪的众多细分功能以及从数据库指纹识别，从数据库获取数据到访问基础文件系统以及通过外出在操作系统上执行命令的广泛开关.带内连接.
+- [sqlmap](http://sqlmap.org/)  -sqlmap是一个开放源代码渗透测试工具，可自动检测和利用SQL注入漏洞并接管数据库服务器的过程.  它配备了强大的检测引擎，针对最终渗透测试仪的众多细分功能以及从数据库指纹识别，从数据库获取数据到访问基础文件系统以及通过外出在操作系统上执行命令的广泛开关.带内连接.
 - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)  -Zed攻击代理（ZAP）是易于使用的集成渗透测试工具，用于发现Web应用程序中的漏洞.  它被设计为具有广泛的安全经验的人使用，因此，它是渗透测试新手的开发人员和功能测试人员的理想选择.  ZAP提供了自动扫描程序以及一系列工具，可让您手动查找安全漏洞.
 - [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist)  -在网络漏洞评估期间要测试的一些控件的列表.  可以找到Markdown版本 [here](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 - [w3af](http://w3af.org/)  -w3af是一个Web应用程序攻击和审核框架.  该项目的目标是创建一个框架，以通过查找和利用所有Web应用程序漏洞来帮助您保护Web应用程序.
@@ -287,7 +289,7 @@
 
 ## EBooks
 
-- [Holistic Info-Sec for Web Developers](https://holisticinfosecforwebdevelopers.com/) -免费和可下载的书籍系列，涵盖了Web开发人员和DevOps工程师需要广泛了解的内容，以创建健壮，可靠，可维护和安全的软件，网络等，这些内容可以按时连续交付，并且不会令人讨厌惊喜
+- [Holistic Info-Sec for Web Developers](https://holisticinfosecforwebdevelopers.com/) -免费和可下载的丛书，涵盖了Web开发人员和DevOps工程师需要广泛了解的内容，以创建健壮，可靠，可维护和安全的软件，网络等，这些内容可以按时连续交付，不会带来麻烦.惊喜
 - [Docker Security - Quick Reference: For DevOps Engineers](https://binarymist.io/publication/docker-security/) -一本关于理解Docker安全默认设置，如何改进它们（理论和实践）以及许多工具和技术的书.  
 - [How to Hack Like a Pornstar](https://books2read.com/u/bWzdBx) -分步进入BANK的流程，Sparc Flow，2017年  
 - [How to Hack Like a Legend](https://amzn.to/2uWh1Up) -骇客闯入一家秘密离岸公司的故事，Sparc Flow，2018年  

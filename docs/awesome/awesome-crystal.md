@@ -17,7 +17,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Algorithms and Data structures
  * [bisect](https://github.com/spider-gazelle/bisect) -将值插入已排序的数组
  * [blurhash.cr](https://github.com/Sija/blurhash.cr) - [BlurHash](https://github.com/woltapp/blurhash) 实作
- * [crie](https://github.com/c910335/crie) - Compile-time Trie
+ * [crie](https://github.com/c910335/crie) -编译时特里
  * [CrOTP](https://github.com/philnash/crotp) -两因素验证的HOTP和TOTP实施
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) -执行链表
  * [crystaledge](https://github.com/unn4m3d/crystaledge) -一个纯向量数学库
@@ -370,7 +370,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crytic](https://github.com/hanneskaeufler/crytic) -变异测试框架
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) -与Capybara类似的自动浏览器测试
  * [mass-spec](https://github.com/c910335/mass-spec) -Web API测试库
- * [microtest](https://github.com/Ragmaanir/microtest) -专注于权力主张的小型自以为是的测试库
+ * [microtest](https://github.com/Ragmaanir/microtest) -专注于功率断言的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
@@ -416,7 +416,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [athena](https://github.com/blacksmoke16/athena) -具有内置参数转换功能的模块化，基于注释，面向API的框架
  * [grip](https://github.com/grip-framework/grip) -用于轻松轻松构建RESTful Web应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  -快速，超级简单的Web框架.  受Sinatra启发
- * [lucky](https://github.com/luckyframework/lucky) -尽早发现错误，忘记大多数性能问题，并花更多时间在代码上，而不是调试和编写测试
+ * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests
  * [runcobo](https://github.com/runcobo/runcobo) -具有简单，直观和一致的DSL的api框架，使用jbuilder呈现json
  * [Shivneri](https://github.com/ujjwalguptaofficial/shivneri) -基于组件的MVC Web框架，可针对具有良好代码结构，模块化和性能的晶体
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) -注重速度和可扩展性的Rails式Web框架
@@ -454,6 +454,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Services and Apps
  * [carc.in](https://carc.in/) -运行您的代码并显示结果的Web服务
+ * [Crank](https://github.com/arktisklada/crank) -基于Procfile的应用程序管理器（如Foreman）
  * [cry](https://github.com/elorest/cry) -能够以类似于Ruby撬式编辑的方式执行水晶代码
  * [Crystal [ANN]]（https://crystal-ann.com）-宣布新项目，博客文章，版本更新或任何其他Crystal作品
  * [crystalshards.herokuapp.com](https://crystalshards.herokuapp.com/), [crystalshards.xyz](http://crystalshards.xyz/) -列出所有可用Crystal碎片的Web服务

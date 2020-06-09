@@ -19,7 +19,7 @@
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
   - [meins](https://github.com/matthiasn/meins)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
-  - [Braid](https://github.com/braidchat/braid)：具有新颖UI的团队聊天应用，可以带来更好的对话
+  - [Braid](https://github.com/braidchat/braid)：具有新颖UI的团队聊天应用程序，可以带来更好的对话
   - [Atea](https://github.com/pkamenarsky/atea)：用于MacOS的简约菜单栏时间跟踪器
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text)：自然语言生成环境（后端：Clojure，前端：JS）
   - [jank](https://github.com/jeaye/jank)
@@ -43,7 +43,7 @@
   
 ## Web Framework
 
-*实际上，不要在此处搜索rails / django，而是自己编写它们*
+*实际上，请不要在此处搜索rails / django，而是自己编写它们*
   * [Compojure](https://github.com/weavejester/compojure)
   * [Compojure-api](https://github.com/metosin/compojure-api)
   * [Web Non-Framework](https://github.com/webnf/webnf)
@@ -58,6 +58,7 @@
   * [Fulcro](https://github.com/fulcrologic/fulcro)
   * [Coast](http://coastonclojure.com/)
   * [Reitit](https://github.com/metosin/reitit)
+  * [Tadam](https://www.tadam-framework.dev/)
 
 ## Dependency injection
 
@@ -81,13 +82,13 @@
 
 ## Version Control Management
 
-*用于与VCS软件交互的代码实用工具*
+*用于与VCS软件交互的代码实用程序*
 
   * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
 
 ## Date and Time
 
-*用于处理日期和时间的库.*
+*用于处理日期和时间的库.
 
   * [clj-time](https://github.com/clj-time/clj-time)
   * [clojure.java-time](https://github.com/dm3/clojure.java-time) -Java 8日期时间API
@@ -451,7 +452,7 @@
 
 ### YouTube
 
-  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure进行的Light Table，Datomic和Game开发的介绍
+  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure的Light Table，Datomic和Game开发的介绍
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure进行函数式编程和TDD的介绍
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一项功能
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)

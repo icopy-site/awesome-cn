@@ -29,6 +29,7 @@
 - [Pony Foo Weekly](https://ponyfoo.com/weekly) .  每周新闻通讯，讨论围绕Web平台的有趣话题和热门话题. [Archive](https://ponyfoo.com/weekly/history).
 - [Dev Awesome](https://devawesome.io/) .  每两周在收件箱中获取最新的编程新闻，出色的库和生产率提示.
 - [Insnippets](https://insnippets.com) .  包含TL; DR的每日新闻通讯，有关Web开发，Devops和分布式系统等有趣主题的信息.
+- [JAMstacked](https://jamstack.email/) .  关于不断发展的JAMstack生态系统的电子邮件更新.
 
 ### JavaScript
 
@@ -174,7 +175,7 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) .  精选的PHP库和资源的精选列表.
 - [Freek.dev](https://freek.dev/newsletter/) .  有关现代PHP和Laravel的双周刊.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Laravel社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) .  每周以西班牙语发布有关PHP及其生态系统的新闻，教程和信息：Laravel，Symfony，WordPress，Drupal等...由JesúsAmieiro手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) .  每周用西班牙语发布有关PHP及其生态系统的新闻，教程和信息：Laravel，Symfony，WordPress，Drupal等...由JesúsAmieiro手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) .  一个免费的两周一期的新闻通讯，用于整理精彩的文章，视频和新闻.
 
 ### Python
@@ -186,7 +187,7 @@
 
 ### Groovy
 
-- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) .  最新版本，有趣的文章，访谈，演示，相关推文或Google+帖子，播客或截屏链接，代码段，书籍，即将举行的活动等.
+- [Groovy Weekly Newsletter](http://www.groovy-lang.org/groovy-weekly.html) .  最新版本，有趣的文章，访谈，演示，相关的推文或Google+帖子，播客或截屏链接，代码段，书籍，即将举行的活动等.
 
 ### Perl
 
@@ -304,7 +305,7 @@
 
 - [kubelist](https://kubelist.com) .  您策划的每周kubernetes信息对帐循环.
 - [KubeWeekly](https://kube.news) .  以时事通讯的形式提供有关Kubernetes的有趣的每周新闻.
-- [LWKD](http://lwkd.info) .  LWKD是每周新闻简讯，概述了Kubernetes项目中的代码活动：合并，PR，弃用，版本更新，发布时间表和每周社区会议.
+- [LWKD](http://lwkd.info) .  LWKD是每周新闻简讯，总结了Kubernetes项目中的代码活动：合并，PR，弃用，版本更新，发布时间表和每周社区会议.
 
 ## Mobile
 
@@ -391,7 +392,7 @@
 - [Code Cartoons](https://tinyletter.com/codecartoons) .  通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) .  可以在本地托管的免费软件解决方案和Web应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) .  每周一次的Linux Kernel Mailing List线程综述，但讽刺得多.
-- [The ListServe](http://thelistserve.com/) .  一个免费的，独特的“彩票”通讯，每天选出一个订阅者，并将其电子邮件提交发送给所有其他订阅者.  主题在主题和质量上都不同.
+- [The ListServe](http://thelistserve.com/) .  一个免费的，独特的“彩票”通讯，每天选择一个订阅者，并将其电子邮件提交发送给所有其他订阅者.  主题在主题和质量上都不同.
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) .  工程团队经理的每周新闻，涵盖领导力，文化，扩展和软件开发生产力.
 - [tl;dr Marketing](https://tldrmarketing.com/) .  面向数字营销者的每周新闻，涵盖有关SEO，PPC和社交媒体的新闻.
 - [Startup Watching](https://startupwatching.com/) .  为初创企业策划知识，灵感和背景故事.  每个星期一和星期四都发送到您的收件箱.

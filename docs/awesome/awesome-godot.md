@@ -25,13 +25,14 @@
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) -在幻想宇宙中的炸弹人克隆（Godot 2.1）.
 - [Haldric](https://github.com/wesnoth/haldric) -韦诺之战（Godot 3.1）的正式进行中重新实现.
 - [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
+- [Librerama](https://codeberg.org/Yeldham/librerama) -免费/免费的快节奏迷你游戏街机收藏（Godot 3.2）.
 - [Memory Game](https://github.com/Tzoop/MemoryGame) -简单记忆游戏（Godot 3.0）.
 - [Minehunter](https://github.com/genete/Minehunter) -扫雷副本（Godot 2.1）.
 - [Minilens](http://kobuge-games.github.io/minilens/) -免费的益智平台游戏（Godot 2.1）.
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) -使用Theater Game Jam（PGA 2015）（Godot 2.1）制作的游戏.
 - [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) -完成1小时挑战（Godot 2.1）的小型跑步游戏.
 - [No hope](https://github.com/sergicollado/no_hope_LD33) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
-- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment (Godot 2.1).
+- [Planet Rider](https://github.com/FEDE0D/Planet-Rider) -外星环境中的2D物理跑酷游戏（Godot 2.1）.
 - [Platshoot](https://github.com/Calinou/platshoot) -2D射击游戏（Godot 2.1）.
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) -自上而下的射击游戏，广泛使用光效（Godot 2.1）.
 - [SealedBite](https://github.com/securas/SealedBite) -2D平台游戏，2019年GitHub Game Jam（Godot 3.1）赢家.
@@ -60,7 +61,7 @@
 
 *用作您自己游戏基础的项目.*
 
-- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate)  -包含所有必要材料的模板.  专为像素艺术游戏（Godot 3.1）设计.
+- [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games (Godot 3.1).
 - [Multiplayer First Person Shooter](https://github.com/blockspacer/Godot-3.2-Multiplayer-FPS) -多人第一人称射击游戏示例项目（Godot 3.2）.
 - [Multiplayer Third Person Shooter](https://github.com/jasonswearingen/TPS-MP) -多人第三人称射击游戏示例项目（Godot 3.2）.
 

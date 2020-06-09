@@ -6,7 +6,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
 
-来自维基百科
+来自维基百科-
 &gt; A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) 是一种数字资产，旨在用作使用加密的交换媒介，以保护交易并控制货币其他单位的创建.
 
  许多算法用于不同的加密货币中.  本文档引用了加密货币中使用的算法，并提供了一系列有用的服务和实用程序来管理硬币.
@@ -73,7 +73,7 @@
 
 这是一个清单 [WhatToMine](https://whattomine.com).
 
-- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) —开采任何算法（针对您的GPU优化）并以** BTC **形式收取.
+- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) —开采任何算法（针对您的GPU进行了优化）并通过** BTC **获得付款.
 -** BTC **：https://pool.bitcoin.com/
 -** ETH **：https://eth.nanopool.org/
 -** SC **：https://sia.nanopool.org/
@@ -95,7 +95,7 @@
 
 ### Hosted Coin Wallets
 
-**注意：**代币社区对使用这些服务感到不满，因为您无法直接控制代币-实际上，您根本不拥有代币-该服务确实像标准银行一样运作.
+**注意：**代币社区对使用这些服务不满意，因为您无法直接控制代币-实际上，您根本不拥有代币-该服务确实像标准银行一样运作.
 
 - [Coinbase **BTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [Coinbase **ETH**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
@@ -117,7 +117,7 @@
 
 - [**Sia** Paper Wallet](https://siapaperwallet.co)
 - [WalletGenerator.net](https://walletgenerator.net)
-- [Cryptosteel](https://cryptosteel.com) —由钢制成！
+- [Cryptosteel](https://cryptosteel.com) —钢制！
 
 ## ☤ Coin Exchanges
 
@@ -125,7 +125,7 @@
 - [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) —适用于所有货币的钱包，可以与所有货币进行交易.
 - [Shapeshift](https://shapeshift.io/#/coins) —地球上最快的交换.
 - [Bittrex](https://bittrex.com) —适用于所有货币的钱包，可以与所有货币进行交易.
-- [Qvolta](https://qvolta.com) —在全球范围内使用本地付款方式买卖加密资产.
+- [Qvolta](https://qvolta.com) —在全球范围内使用本地支付方式买卖加密资产.
 - [InstaEx](https://instaex.io) -即时加密货币交换.
 - [ExchangeRates.Pro](https://exchangerates.pro) —包括P2P市场在内的全球交易所的价格比较.
 
@@ -134,6 +134,7 @@
 
 - [**Sia** UI](http://sia.tech/apps/) -SC钱包，文件托管，存储.
 - [**LBRY**](https://lbry.io) — LBRY钱包，媒体消费和出版平台.
+- [**DeBank**](https://debank.com/) -DeFi钱包，查看以太坊DeFi项目中的资产和债务.
 
 ## ☤ Windows GUI Apps
 
@@ -155,7 +156,7 @@
 
 ## ☤ Recommended Hardware
 
-- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) —世界上功能最强大的消费类图形卡.
+- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) —世界上最强大的消费类图形卡.
 - [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk) —显然可以托管12个PCI-E GPU.
 
 ## ☤ Cool Coin/Blockchain Stuff
@@ -165,11 +166,11 @@
 - [bcoin](http://bcoin.io) —完全用Node.js编写的比特币全节点实现，您甚至可以在浏览器中运行，包括钱包，内存池，链和挖掘. 
 - [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
 - [Tezos](https://www.tezos.com) —自修复区块链.
-- [Tendermint](https://tendermint.com) —使用任何编程语言的拜占庭式容错复制状态机.
-- [Cosmos](https://cosmos.network) —网络和区块链之间的互操作性框架.
+- [Tendermint](https://tendermint.com) —任何编程语言中的拜占庭式容错复制状态机.
+- [Cosmos](https://cosmos.network) —网络和区块链之间互操作性的框架.
 - [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
-- [Blockply](https://blockply.com/) -最有趣和最杰出的区块链项目的集合
-- [Blockchain demo](https://github.com/anders94/blockchain-demo) —基于网络的区块链概念演示.
+- [Blockply](https://blockply.com/) -收集最有趣和最杰出的区块链项目
+- [Blockchain demo](https://github.com/anders94/blockchain-demo) -基于网络的区块链概念演示.
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
@@ -191,8 +192,8 @@
 -`ScryptJaneNf16`（钻石/ ** DMD **）
 -`Blake256r8`（Blake Coin / ** BLC **）
 -`Blake256r14`（Blake硬币/ ** BLC **）
--`Blake256r8vnl`（Blake Coin / ** BLC **）
--`Hodl`（HodlCoin / **观看**）
+-`Blake256r8vnl`（Blake硬币/ ** BLC **）
+-`Hodl`（HodlCoin / ** HODL **）
 -`DaggerHashimoto`（以太坊/ ** ETH **）
 -`Decred`（** DCR **）
 -`CryptoNight`（** XCN **，仅CPU）
@@ -201,8 +202,8 @@
 -`Pascal`（** PASC **）
 -`X11Gost`（SIBCoin / ** SIB **）
 -`Let`（** SC **）
--`Blake2`s（NevaCoin，Someone Coin，Verge，TajCoin）
-- `Skunk`（签署投币/ ** sigtes）
+-`Blake2`s（NevaCoin，Netko Coin，Verge，TajCoin）
+-臭鼬（签名硬币/ ** sigtes）
 
 [(others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)
 
@@ -405,7 +406,7 @@
 
 ## Find this useful?
 
-如果您想为我在开源世界中的努力捐款，可以使用以下钱包地址，任何贡献（无论多小）都将受到赞赏.
+如果您想为我在开源世界中的努力捐款，您可以使用以下钱包地址，任何贡献（无论多小）都将受到深深的感谢.
 
 - **[BTC](http://coinbin.org/btc)**：`1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
 - **[ETH](http://coinbin.org/eth)**：`0x1321Ec9c7550a7c44ef3e583930556556c6557411d1`

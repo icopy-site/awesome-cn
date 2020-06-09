@@ -87,7 +87,7 @@
 * [Slim](https://www.slimframework.com/) -另一个简单的微框架.
 
 ### Micro Framework Extras
-*与微框架和路由器有关的其他内容.
+*Extras related to micro frameworks and routers.*
 
 * [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) -Slim的骨架.
 * [Slim Twig View](https://github.com/slimphp/Slim-Views) -将Twig整合到Slim中.
@@ -218,6 +218,7 @@
 * [Codeception](https://github.com/Codeception/Codeception) -完整的堆栈测试框架.
 * [Faker](https://github.com/fzaninotto/Faker) -伪造的数据生成器库.
 * [HTTP Mock](https://github.com/InterNations/http-mock) -一个用于在单元测试中模拟HTTP请求的库.
+* [Infection](https://github.com/infection/infection) -基于AST的PHP变异测试框架.
 * [Kahlan](https://github.com/kahlan/kahlan) -具有内置存根，模拟和代码覆盖支持的完整堆栈单元/ BDD测试框架.
 * [Mink](http://mink.behat.org/en/latest/) -网络验收测试.
 * [Mockery](https://github.com/mockery/mockery) -用于测试的模拟对象库.
@@ -459,7 +460,7 @@
 * [CakePHP ORM](https://github.com/cakephp/orm) -使用DataMapper模式实现的对象关系映射器.
 * [Cycle ORM](https://github.com/cycle/orm) -PHP DataMapper，ORM.
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) -主义行为扩展的集合.
-* [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
+* [Doctrine](https://www.doctrine-project.org/) -全面的DBAL和ORM.
 * [Laravel Eloquent](https://github.com/illuminate/database) -一个简单的ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) -PostgreSQL的对象模型管理器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) -一组实用程序，用于为数据映射器生成代理对象.
@@ -814,7 +815,7 @@
 * [Functional Programming in PHP](https://www.functionalphp.com/) -本书将向您展示如何通过理解函数式编程原理来利用这些PHP5.3 +新功能
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) -Chris Hartjes撰写的有关使用PHPUnit进行单元测试的书.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) -Brandon Savage撰写的有关面向对象的PHP的书.
-* [Modern PHP New Features and Good Practices](http://shop.oreilly.com/product/0636920033868.do) -Josh Lockhart撰写的有关PHP新功能和最佳做法的书.
+* [Modern PHP New Features and Good Practices](https://shop.oreilly.com/product/0636920033868.do) -Josh Lockhart撰写的有关PHP新功能和最佳做法的书.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) -Paul M. Jones撰写的有关更新旧版PHP应用程序的书.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
@@ -871,6 +872,7 @@
 ### PHP Internals Reading
 *阅读有关PHP内部或性能的材料.*
 
+* [PHP RFCs](https://wiki.php.net/rfc) -PHP RFC（要求发表评论）的所在地.
 * [Externals](https://externals.io/) -PHP内部讨论. 
 * [PHP RFC Watch](https://php-rfc-watch.beberlei.de/) -观看最新的PHP [RFCs](https://wiki.php.net/rfc).
 * [Disproving the Single Quotes Myth](https://nikic.github.io/2012/01/09/Disproving-the-Single-Quotes-Performance-Myth.html) -有关单引号和双引号字符串的性能的文章.
@@ -879,7 +881,6 @@
 * [How Long is a Piece of String](http://blog.golemon.com/2006/06/how-long-is-piece-of-string.html) -有关字符串内部的文章.
 * [PHP Evaluation Order](https://gist.github.com/nikic/6699370) -有关PHP中评估顺序的文章.
 * [PHP Internals Book](http://www.phpinternalsbook.com) -由三位核心开发人员撰写的有关PHP内部原理的在线书籍.
-* [PHP RFCs](https://wiki.php.net/rfc) -PHP RFC（要求发表评论）的所在地.
 * [Print vs Echo, Which One is Faster?](http://fabien.potencier.org/print-vs-echo-which-one-is-faster.html) -有关打印和回显性能的文章.
 * [The PHP Ternary Operator. Fast or Not?](http://fabien.potencier.org/the-php-ternary-operator-fast-or-not.html) -文章三元表演.
 * [Understanding OpCodes](http://blog.golemon.com/2008/01/understanding-opcodes.html) -有关操作码的文章.

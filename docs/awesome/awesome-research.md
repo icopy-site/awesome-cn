@@ -4,9 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-研究工具清单.
-
-
+ 研究工具清单.  也可以在http://tools.kausalflow.com/tools/上获得.
 
 ## TOC
 
@@ -51,7 +49,7 @@
 
 > [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)  可以用来提高您的生产力并可能改善您的健康.  这些工具几乎有无限的选择.
 
-* [Pomotodo](https://pomotodo.com/) （“云”，“ Mac”，“ Win”，“ Android”，“ iOS”，“ Chrome”）：待办事项列表和番茄钟计时器的混合，跨设备同步和每周报告[免费].
+* [Pomotodo](https://pomotodo.com/) （“云”，“ Mac”，“ Win”，“ Android”，“ iOS”，“ Chrome”）：待办事项列表和番茄定时器的混合，跨设备同步和每周报告[免费].
 * [Tadam](https://tadamapp.com/) （`Mac`）：简洁典雅的番茄钟[USD $ 4.99].
 * [Productivity Challenge Timer](https://play.google.com/store/apps/details?id=com.wlxd.pomochallenge&hl=en) （`Android`）：具有出色游戏功能的Pomodoro计时器[免费].
 
@@ -63,7 +61,7 @@
 
 * [Microsoft To Do](https://todo.microsoft.com/tasks) （“云”，“ Mac”，“ Win”，“ Android”，“ iOS”，“ Win Store”，“ Chrome OS”）：与合作和共享几乎完美的待办事项列表.
 * [Google Keep](https://keep.google.com/)（“云”，“ Android”，“ iOS”，“ Chrome OS”）
-* [Evernote](https://evernote.com/) （`Cloud`，`Mac`，`Win`，`Android`，`iOS`，`Win Store`）：虽然不是很轻巧，但是对于管理生活仍然非常有用，特别是因为它已经得到了很多集成.其他服务.
+* [Evernote](https://evernote.com/) （`Cloud`，`Mac`，`Win`，`Android`，`iOS`，`Win Store`）：虽然不是那么轻巧，但是对于管理生活仍然非常有用，特别是因为它已经从很多方面进行了很多集成其他服务.
 * [Anydo](https://www.any.do/) （`Cloud`，`Mac`，`Android`，`iOS`）：很好，因为它具有非常好的每日评论，可以帮助用户记住要做的事情.
 * [Todoist](https://todoist.com/) （`Cloud`，`Mac`，`Win`，`Android`，`iOS`）：Todoist发明了因果报应系统，可以跟踪完成的任务.
 * [Taskade](https://taskade.com/) （“云”，“ Mac”，“ Win”，“ Chrome OS”，“ Firefox”，“ Android”和“ iOS”）：Taskade是团队项目的协作任务列表和大纲.
@@ -126,13 +124,13 @@
 
 #### Physical Sciences
 
-* [US Virtual Astronomical Observatory](http://www.usvao.org/) （`查找`）
-* [MAST: Barbara A. Mikulski Archive for Space Telescopes](https://mast.stsci.edu/portal/Mashup/Clients/Mast/portal.html) （`查找`）
-* [Mikulski Archive for Space Telescopes](http://archive.stsci.edu/) （`查找`）
+* [US Virtual Astronomical Observatory](http://www.usvao.org/) (`Lookup`)
+* [MAST: Barbara A. Mikulski Archive for Space Telescopes](https://mast.stsci.edu/portal/Mashup/Clients/Mast/portal.html) (`Lookup`)
+* [Mikulski Archive for Space Telescopes](http://archive.stsci.edu/) (`Lookup`)
 
 #### Arts and Humanities
 
-* [Archaeology Data Service](http://archaeologydataservice.ac.uk/) （`Lookup`）：认证的存储库
+* [Archaeology Data Service](http://archaeologydataservice.ac.uk/) （`Lookup`）：认证存储库
 
 #### Engineering
 
@@ -140,8 +138,8 @@
 
 #### Social Sciences
 
-* [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/landing.jsp) （`查找`）
-* [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) （`查找`）
+* [Inter-university Consortium for Political and Social Research (ICPSR)](https://www.icpsr.umich.edu/icpsrweb/landing.jsp) (`Lookup`)
+* [Institute for Quantitative Social Science (IQSS)](http://library.harvard.edu/gdc) (`Lookup`)
 
 
 ### Colors
@@ -157,7 +155,7 @@
 
 
 &gt;利用 [GitHub](http://github.com) 与他人合作. [GitHub pages](https://pages.github.com/) 也适合托管静态内容.
-&gt; GitHub提供了教育津贴，因此学生可以获得免费的专业版，其中包含私人存储库.
+&gt; GitHub提供了教育津贴，因此学生可以获得免费的专业版，该版本带有私人存储库.
 
 
 ### Writing
@@ -245,9 +243,9 @@
 * [Jekyll](http://jekyllrb.com/)  （写在Ruby中）（Markdown）：Jekyll是使用最广泛的一种.  关于Jekyll最好的部分是，只需将源推送到GitHub即可将其部署到GitHub Pages.
 * [Octopress](http://octopress.org/) （写在“ Ruby”中）（“ Markdown”）：与Jekyll相比，Octopress更易于使用，同时与Jekyll兼容.
 * [Hexo](https://hexo.io/)  （写在`Node.js`）（`Markdown`）中：“一个快速，简单且功能强大的博客框架”，正如他们在其网站上所说.  它支持GFM.
-* [Pelican](http://getpelican.com) （写在Python中）（reStructuredText`，Markdown，AsciiDoc`）：Pelican是一个模块化框架，非常适合写博客.
+* [Pelican](http://getpelican.com) （用Python编写）（reStructuredText`，Markdown，AsciiDoc`）：Pelican是一个模块化框架，非常适合写博客.
   * [Pelican Svbtle Theme](https://github.com/wting/pelican-svbtle)
-* [Nikola](https://getnikola.com/) （用Python编写）（reStructuredText，Markdown，IPython Notebook / Jupyter，PHP等）：它采用多种输入格式，包括reStructuredText和许多其他格式.
+* [Nikola](https://getnikola.com/) （用Python写）（reStructuredText`，&#39;Markdown&#39;，&#39;IPython Notebook / Jupyter`，PHP&#39;等）：它采用多种输入格式，包括reStructuredText和许多其他格式.
 * [Hugo](http://gohugo.io/) （写在“ Go”中）（`Markdown`）：易于使用且非常快.  它还通过插件支持更多输入格式.
 
 
@@ -276,8 +274,8 @@
 * [Dillinger](http://dillinger.io/)（`Cloud`）：Markdown编辑器，但没有数学模式.
 * [Online Kramdown Editor](http://kramdown.herokuapp.com/)（`Cloud`）：只是另一个Markdown编辑器，没有数学支持.
 * [Pandoc Markdown](http://pandoc.herokuapp.com/)（`Cloud`）：只是另一个具有数学（MathJax）支持的Markdown编辑器.
-* [Marxico](http://marxi.co/)（“云”，“ Mac”，“ Win”，“ Chrome”）：与Evernote集成在一起的Markdown编辑器，可生成pdf并离线运行. [马克飞象](https://maxiang.io/)（Cloud，Mac，Win，Chrome）是中文版本.
-* [Madoko](https://www.madoko.net/) （`Cloud`，`Chrome`）：具有数学支持的Markdown编辑器，只需单击一下即可轻松插入图像，而文件则保存在Dropbox，GitHub，OneDrive或本地磁盘上.  它生成pdf和HTML页面，并使用浏览器的本地存储脱机工作.  甚至可以导入LaTeX文件.
+* [Marxico](http://marxi.co/)（“云”，“ Mac”，“ Win”，“ Chrome”）：与Evernote集成，生成pdf并离线工作的Markdown编辑器. [马克飞象](https://maxiang.io/)（Cloud，Mac，Win，Chrome）是中文版本.
+* [Madoko](https://www.madoko.net/) （`Cloud`，`Chrome`）：具有数学支持的Markdown编辑器，单击即可轻松插入图像，而文件则保存在Dropbox，GitHub，OneDrive或本地磁盘上.  它生成pdf和HTML页面，并使用浏览器的本地存储脱机工作.  甚至可以导入LaTeX文件.
 * [Markx](http://markx.herokuapp.com/) （`Cloud`）：Markdown编辑器，用于科学写作.  包括电池.
 * [typora](https://www.typora.io/)（`Mac`，`Win`）：精美的用户界面和现场实时预览.
 * [Haroopad](http://pad.haroopress.com/) （`Mac`，`Win`，`Linux`）：一个功能强大的github风格的markdown编辑器，具有有用的扩展名.  支持数学（mathjax）.
@@ -476,7 +474,7 @@
 * [Sublime Text](https://www.sublimetext.com/) （“免费评估”，“跨平台”，“插件”）：跨平台，快速且具有插件.  不是免费的，但可以永远永久使用.
 * [JetBrains](https://www.jetbrains.com/)（“学生免费”，“跨平台”，“插件”）：漂亮的IDE，集成了许多调试和编辑模式.
 * [vim](https://github.com/vim/vim)（`Free`，`Cross-platform`，`Plugins`）：没有任何语言可以描述全能的vim.
-  * [Vundle](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
+  * [Vundle](https://github.com/VundleVim/Vundle.vim)：vim插件管理器
   * [vimrc from amix](https://github.com/amix/vimrc)：“ Vim的最终配置：vimrc”
 
 
@@ -495,7 +493,7 @@
 ### Scientific Computing
 
 * [Python](https://www.python.org/)
-  * [scipy](https://www.scipy.org/): scientific computing made easy
+  * [scipy](https://www.scipy.org/)：简化科学计算
   * [SnakeViz](https://jiffyclub.github.io/snakeviz/)：用于python调试和性能改进的好工具.
 * [Julia](http://julialang.org/)
 * [R](http://www.r-project.org/)
@@ -723,7 +721,7 @@
 
 ### More
 
-* [QR Code Generator](https://www.unitag.io/qrcode)：在海报上添加QR码可以帮助您吸引更多观众.
+* [QR Code Generator](https://www.unitag.io/qrcode): Adding a QR code to your poster can help you get more audience.
 * [SHIELDS.io](http://shields.io/)：自己制作漂亮的徽章.
 * [TitleCap](http://titlecapitalization.com/)：不确定标题中的哪个单词大写？ [TitleCap](http://titlecapitalization.com/) 适合您
 * [On Being a Scientist](https://www.nap.edu/read/12192/)：负责任的研究行为指南.

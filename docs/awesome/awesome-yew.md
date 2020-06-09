@@ -50,6 +50,7 @@
 - [Freecell](https://github.com/Stigjb/freecell) -用Rust和Yew编写的耐心游戏.
 - [Daydream](https://github.com/MTRNord/Daydream) -用Rust编写的小型Matrix网络客户端.
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) -与Yew进行的简单WebRTC聊天.
+- [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) -备受赞誉的样板，可用于使用Rust创建全堆栈应用程序.
 
 ## Templates
 

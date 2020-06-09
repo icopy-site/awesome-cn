@@ -17,6 +17,7 @@
 
 - [bird-box](https://github.com/matchai/bird-box) -更新固定要点，以包含Twitter用户的最新推文.
 - [waka-box](https://github.com/matchai/waka-box) -更新固定的要点，以包含您的每周WakaTime统计信息.
+- [waka-box-go](https://github.com/YouEclipse/waka-box-go)  -waka-box的Golang实现.  更新固定的要点，以包含您的每周WakaTime统计信息.
 - [strava-box](https://github.com/JohnPhamous/strava-box) -更新固定要点，以包含Strava的YTD锻炼指标.
 - [music-box](https://github.com/jacc/music-box) -更新固定要点，以包含您在Last.fm上的每周收听报告.
 - [rescue-box](https://github.com/joshghent/rescue-box) -更新固定要点，以包含RescueTime的每日生产率统计信息.
@@ -30,6 +31,7 @@
 - [youtube-box](https://github.com/SinaKhalili/youtube-box) -更新固定要领以显示您的最新YouTube视频
 - [book-box](https://github.com/amorriscode/book-box) -更新固定要点，以包含您的最新读物
 - [toggl-box](https://github.com/tobimori/toggl-box) -更新固定的要点以包含您的每周Toggl时间跟踪统计信息
+- [steam-box](https://github.com/YouEclipse/steam-box) -更新固定的要点，以包含您的Steam播放时间排行榜.
 
 ## GitHub
 
