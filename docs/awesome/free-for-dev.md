@@ -110,7 +110,7 @@
 
   * [algorithmia.com](https://algorithmia.com/)  —免费的主机算法.  包括每月免费的运行算法津贴.  现在具有CLI支持
   * [Apify](https://www.apify.com/)  — Web抓取和自动化平台，可让您创建提取网站数据的API.  免费套餐，每月抓取1万次，数据保留7天.
-  * [Beeceptor](https://beeceptor.com)  -在几秒钟内模拟其余的API，伪造的API响应等等.  每天免费50个请求，公共仪表板，开放的端点（任何链接到仪表板的人都可以查看请求和响应）.
+  * [Beeceptor](https://beeceptor.com)  -在几秒钟内模拟其余的API，假API响应等等.  每天免费50个请求，公共仪表板，开放的端点（任何链接到仪表板的人都可以查看请求和响应）.
   * [bigml.com](https://bigml.com/)  —托管的机器学习算法.  无限的免费开发任务，每个任务限制16 MB数据
   * [Calendarific](https://calendarific.com)  -适用于200多个国家/地区的企业级公共假日API服务.  免费计划包括每月1000次通话.
   * [Clarifai](https://www.clarifai.com)  —用于自定义面部识别和检测的图像API.  能够训练AI模型.  免费计划每月有5000个通话.
@@ -211,7 +211,7 @@
   * [typetalk.com](https://www.typetalk.com/) -通过网络或手机上的即时消息与团队共享和讨论想法
   * [Tugboat](https://tugboat.qa)  -预览每个拉动请求，自动和按需.  全部免费，非营利组织免费提供Nano层.
   * [whereby.com](https://whereby.com/) —免费的一键式视频对话（以前称为“ appear.in”）
-  * [wistia.com](https://wistia.com/) —使用查看器分析，高清视频交付和营销工具来托管视频，以帮助您了解访客，25个视频和Wistia品牌播放器
+  * [wistia.com](https://wistia.com/) —使用查看器分析，高清视频交付和营销工具来托管视频，以帮助了解您的访客，25个视频和Wistia品牌播放器
   * [yammer.com](https://www.yammer.com/) —独立的私人社交网络或适用于MS Office 365的社交网络.免费提供的管理工具和用户管理功能要少一些
   * [zoom.us](https://zoom.us/)  —安全的视频和Web会议，可以使用附加组件.  免费限时40分钟
 
@@ -233,12 +233,12 @@
   * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev)  -用于DevOps的作为代码审查工具的自动化基础架构与GitHub，Bitbucket和GitLab（甚至是自托管）集成.  除了标准语言外，它还分析Ansible，Terraform，CloudFormation，Kubernetes等.  （免费开源）
   * [codeclimate.com](https://codeclimate.com/)  —自动化代码审查，免费提供给开源和不受组织限制的私人私有存储库（最多4个协作者）.  对学生和机构也免费.
   * [codecov.io](https://codecov.io/) —代码覆盖率工具（SaaS），免费提供给开源和1个免费的私有仓库
-  * [codescene.io](https://codescene.io/)  -CodeScene根据开发人员如何使用代码来优先考虑技术债务，并可视化团队耦合和系统精通等组织因素.  免费开源.
+  * [codescene.io](https://codescene.io/)  -CodeScene根据开发人员如何使用代码来优先考虑技术债务，并可视化组织因素，例如团队耦合和系统精通.  免费开源.
   * [coveralls.io](https://coveralls.io/) —显示测试覆盖率报告，免费提供给开源
   * [dareboost](https://dareboost.com) -每月提供5份关于网络性能，可访问性和安全性的免费分析报告
   * [deepcode.ai](https://www.deepcode.ai)  — DeepCode基于AI查找错误，安全漏洞，性能和API问题.  DeepCode的分析速度使我们可以实时分析您的代码，并在您单击IDE中的“保存”按钮时提供结果.  支持的语言是Java，C / C ++，JavaScript，Python和TypeScript.  与GitHub，BitBucket和Gitlab的集成.  免费提供开源和私有存储库，最多释放30位开发人员.
   * [deepscan.io](https://deepscan.io) —先进的静态分析，可自动发现JavaScript代码中的运行时错误，免费提供给开源
-  * [DeepSource](https://deepsource.io/)  -DeepSource不断分析源代码更改，并发现在安全性，性能，反模式，错误风险，文档和样式下分类的问题.  对于Python和Go.  免费开源.
+  * [DeepSource](https://deepsource.io/)  -DeepSource持续分析源代码更改，并发现在安全性，性能，反模式，错误风险，文档和样式下分类的问题.  对于Python和Go.  免费开源.
   * [gerrithub.io](https://review.gerrithub.io/) — GitHub存储库的Gerrit代码审查是免费
   * [gocover.io](https://gocover.io/) —任何代码覆盖率 [Go](https://golang.org/) 包
   * [golangci.com](https://golangci.com) —针对GitHub拉取请求的自动化Go（golang）代码检查服务.
@@ -272,7 +272,7 @@
 
   * [AccessLint](https://github.com/marketplace/accesslint)  — AccessLint将自动化的Web可访问性测试引入您的开发工作流程.  它是免费的，用于开源和教育目的.
   * [appveyor.com](https://www.appveyor.com/) — Windows的CD服务，开源免费
-  * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) —针对Linux，macOS和Windows的开源软件，提供10个无限制的免费并行作业，几分钟即可
+  * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) —针对Linux，macOS和Windows的开源软件，提供10个无限制的免费并行作业，几分钟即可完成
   * [bitrise.io](https://www.bitrise.io/)  —用于移动应用程序（本机或混合）的CI / CD.  每月有200次免费构建，构建时间为10分钟，有两名团队成员.  OSS项目的构建时间为45分钟，并发+1，团队规模无限制.
   * [buddy.works](https://buddy.works/) —具有5个免费项目和1个并发运行的CI / CD（每月执行120次）
   * [buddybuild.com](https://www.buddybuild.com/) —在一个无缝的迭代系统中为您的iOS和Android应用程序构建，部署和收集反馈
@@ -541,7 +541,7 @@
   * [configure.it](https://www.configure.it/) —移动应用开发平台，可免费使用2个项目，功能有限，但没有资源限制
   * [codenameone.com](https://www.codenameone.com/)  —适用于Java / Kotlin开发人员的开源，跨平台，移动应用程序开发工具链.  免费用于商业用途，项目数量不受限制
   * [engineyard.com](https://www.engineyard.com/) —发动机场提供500小时免费
-  * [firebase.google.com](https://firebase.google.com) —构建实时应用程序，免费计划具有最大100个连接，10 GB数据传输，1 GB数据存储，1 GB主机存储和10 GB主机传输
+  * [firebase.google.com](https://firebase.google.com) —构建实时应用程序，免费计划具有100个最大连接，10 GB数据传输，1 GB数据存储，1 GB主机存储和10 GB主机传输
   * [gearhost.com](https://www.gearhost.com/pricing)  — .NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
   * [gigalixir.com](https://gigalixir.com/) -Gigalixir为Elixir / Phoenix应用程序提供了1个永不休眠的免费实例，以及免费的PostgreSQL数据库限制为2个连接，10、000行且没有备份.
   * [glitch.com](https://glitch.com/) —具有代码共享和实时协作等功能的免费无限制公共/私人托管
@@ -572,7 +572,7 @@
   * [getstream.io](https://getstream.io/) —在数小时而不是数周内构建可扩展的新闻提要和活动流，每月免费更新300万个提要
   * [hasura.io](https://hasura.io/) —快速构建和部署应用程序后端的平台，单节点集群免费.
   * [iron.io](https://www.iron.io/) —具有免费套餐和1个月免费试用的异步任务处理（如AWS Lambda）
-  * [netlicensing.io](https://netlicensing.io)  -在从台式机到物联网和SaaS的任何平台上，为您的软件提供经济高效且集成的许可即服务（LaaS）解决方案.  当您是学生时，*免费*的基本计划.
+  * [netlicensing.io](https://netlicensing.io)  -从台式机到物联网和SaaS的任何平台上针对您的软件的经济高效且集成的许可即服务（LaaS）解决方案.  当您是学生时，*免费*的基本计划.
   * [onesignal.com](https://onesignal.com/) -无限的免费推送通知
   * [paraio.com](https://paraio.com)  —具有灵活身份验证，全文搜索和缓存的后端服务API.  免费提供1个应用，1GB应用数据.
   * [posthook.io](https://posthook.io/)  —作业计划服务.  允许您安排特定时间的请求.  每月免费提供500个预定请求.
@@ -642,6 +642,7 @@
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) —具有动态DNS支持的免费DNS托管.
   * [zonewatcher.com](https://zonewatcher.com)  —自动备份和DNS更改监视.  1个域名免费
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) –华为免费DNS托管
+  * [dns.as207960.net](https://docs.as207960.net/hexdns/) —免费DNS托管
 
 ## IaaS
 
@@ -670,7 +671,7 @@
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
    * [conveyor.cloud](https://conveyor.cloud/) — Visual Studio扩展，用于将IIS Express公开到本地网络，或通过隧道公开到公共URL.
-   * [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi是一项托管VPN服务，可让您通过免费计划将类似于LAN的网络安全地扩展到分布式团队，并允许最多5人的无限网络
+   * [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi是一项托管的VPN服务，可让您通过免费计划将类似于LAN的网络安全地扩展到分布式团队，并允许最多5人的无限网络
    * [Radmin VPN](https://www.radmin-vpn.com/)  -通过支持LAN状网络的VPN将多台计算机连接在一起.  无限的同行.  （Hamachi替代）
    * [localhost.run](https://localhost.run/)  —立即共享您的本地主机环境！  无需下载.  在端口8080上运行您的应用程序，然后运行此命令并共享URL.
    * [ngrok.com](https://ngrok.com/) —通过隧道将本地运行的服务器公开到公共URL.
@@ -870,7 +871,7 @@
    * [livesession.io](https://livesession.io/) — 1,000个会话/月（1个网站免费）
    * [mouseflow.com](https://mouseflow.com/) — 1个网站每月免费提供100次会话
    * [mousestats.com](https://www.mousestats.com/) — 1个网站每月免费提供100次会话
-   * [smartlook.com](https://www.smartlook.com/) —适用于Web和移动应用程序的免费软件包（每月1500个会话），3个热图，1个渠道，1个月的数据历史记录
+   * [smartlook.com](https://www.smartlook.com/) —针对Web和移动应用程序的免费软件包（每月1500个会话），3个热图，1个渠道，1个月的数据历史记录
    * [usersurge.com](https://www.usersurge.com/) —每月个人250K次.
 
 ## International Mobile Number Verification API and SDK
@@ -934,7 +935,7 @@
   * [FOSSA](https://fossa.com/) -可扩展的端到端管理，用于第三方代码，许可证合规性和漏洞.
   * [fullcontact.com](https://www.fullcontact.com/developer/pricing/)  —通过将社交资料添加到您的应用中，帮助您的用户更多地了解他们的联系人.  每月500次免费的Person API匹配
   * [http2.pro](https://http2.pro) — HTTP / 2协议准备测试和客户端HTTP / 2支持检测API.
-  * [newreleases.io](https://newreleases.io/) -从GitHub，GitLab，Bitbucket，Python PyPI，Java Maven，Node.js NPM，Node.js纱线，Ruby Gems，PHP Packagist，.NET NuGet，新版本发布的电子邮件，Slack，Telegram，Discord和自定义Webhooks接收通知Rust Cargo和Docker Hub.
+  * [newreleases.io](https://newreleases.io/) -从GitHub，GitLab，Bitbucket，Python PyPI，Java Maven，Node.js NPM，Node.js纱线，Ruby Gems，PHP Packagist，.NET NuGet，新版本发布的电子邮件，Slack，Telegram，Discord和自定义Webhooks接收有关电子邮件的通知Rust Cargo和Docker Hub.
   * [PDFMonkey](https://www.pdfmonkey.io/)  —在仪表板中管理PDF模板，使用动态数据调用API，然后下载PDF.  每月提供1000个免费文档.
   * [readme.com](https://readme.com/) —易于使用的精美文档，对于开源免费提供：请参阅 [here](https://readme.readme.io/docs/open-source).
   * [ReqBin](https://www.reqbin.com/)  —在线发布HTTP请求.  流行的请求方法包括GET，POST，PUT，DELETE和HEAD.  支持标题和令牌认证.  包括用于保存您的请求的基本登录系统.

@@ -36,6 +36,7 @@
 - [Platshoot](https://github.com/Calinou/platshoot) -2D射击游戏（Godot 2.1）.
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) -自上而下的射击游戏，广泛使用光效（Godot 2.1）.
 - [SealedBite](https://github.com/securas/SealedBite) -2D平台游戏，2019年GitHub Game Jam（Godot 3.1）赢家.
+- [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) -带有可自定义条目的猜字游戏（Godot 3.2）.
 - [SuperStarfighter](https://github.com/notapixelstudio/superstarfighter) -快节奏的本地派对游戏，带有在自上而下的竞技场中战斗的飞船（Godot 3.1）.
 - [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) -免费的回合制等距策略游戏（Godot 2.1）.
 - [Three Hungry Mice](https://github.com/delstuff/threeHungryMice) -为2016年3月的Godot Engine Jam（Godot 2.1）制造的老鼠突围游戏.

@@ -96,7 +96,7 @@
 *实现依赖项注入设计模式的插件.*
 
 - [PimpleDi plugin](https://github.com/rochamarcelo/cake-pimple-di) 允许基于Pimple库的依赖项注入.
-- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
+- [PipingBag plugin](https://github.com/lorenzo/piping-bag) -依赖项注入容器插件，增加了在使用对象实例及其依赖项之前对其进行配置的功能，并将其存储到容器类中以便于访问.
 
 ## E-commerce
 *用于付款和建立在线电子商务商店的插件和应用程序.*
@@ -305,7 +305,7 @@
 - [BryanCrowe/EncryptedType](https://github.com/bcrowe/cakephp-encrypted-type) -简单的解决方案，使加密的数据类型可以存储在数据库中.
 - ：草莓： [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) -简单，通俗易懂且可扩展的验证码解决方案，默认情况下提供基于图像的数学验证码.
 - [CipherBehavior plugin](https://github.com/adayth/cakephp-cipher-behavior)  -使用这种行为来加密您的实体数据.  使用CakePHP Security类在PHP级别完成加密.
-- ：草莓： [Expose plugin](https://github.com/dereuromark/cakephp-expose) -通过其他UUID而不是AIID主键公开实体，以模糊那些与这些数字顺序值关联的ID和数据.
+- ：草莓： [Expose plugin](https://github.com/dereuromark/cakephp-expose) -通过其他UUID而不是AIID主键公开实体，以使那些ID和与这些数字顺序值关联的数据变得模糊.
 - ：草莓： [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) -使用UUID，HashId，Optimus，Tiny和/或自定义混淆策略进行主密钥混淆/缩短.
 - ：草莓： [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) -限速（API）请求的插件.
 - [Recaptcha plugin](https://github.com/agiletechvn/Recaptcha) -简单，轻巧的Google Recaptcha v2.
@@ -361,6 +361,7 @@
 
 - [CakePHP Codeception module](https://github.com/cakephp/codeception) -与CakePHP的官方集成 [Codeception](https://codeception.com).
 - [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) -官方CakePHP CS规则.
+- ：草莓： [CakephpFixtureFactories plugin](https://github.com/pakacuda/cakephp-fixture-factories) -在测试的基础上动态创建夹具，加快测试的编写和维护.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) 支持CakePHP固定装置.
 - [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) -灯具插件可读取现有灯具并创建表/插入数据，以快速启动应用程序.
 - [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) -在运行测试套件时，通过减少插入量来提高插入夹具的效率（仅限mysql）.

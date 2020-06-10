@@ -115,6 +115,7 @@
 * [baton](https://github.com/tesselode/baton) -LÖVE的输入库可弥合键盘和游戏手柄之间的距离
 * [boipushy](https://github.com/adnzzzzZ/boipushy) -简单易用的输入处理程序
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) -对LÖVE的简单麦克风支持
+* [LoveKeys](https://github.com/SpaceCat-Chan/LoveKeys) -一个简单的输入处理库，可为您跟踪事物
 * [tactile](https://github.com/tesselode/tactile) -简单易用的输入库
 
 ## Lighting
@@ -152,7 +153,7 @@
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) -旨在简化恋人（TCP，UDP，Enet）[IPv6]联网的联网库
 * [LoverNet](https://github.com/josefnpat/LoverNet) -利用biter和enet [IPv4]的网络库
 * [NoobHub](https://github.com/Overtorment/NoobHub) -开源多人游戏和网络消息传递[IPv6]
-* [Sock.lua](https://github.com/camchenry/sock.lua) -用于LÖVE游戏的Lua网络库[IPv4]
+* [Sock.lua](https://github.com/camchenry/sock.lua) -用于LÖVE游戏[IPv4]的Lua网络库
 * [löve-ws](https://github.com/holywyvern/love-ws) -Websocket客户端和服务器库
 
 ## <a name="object"></a>Object Orientation
@@ -187,7 +188,7 @@
 * Windows，Mac和Linux以外的平台的端口*
 
 * [LoveDos](https://github.com/rxi/lovedos) -用于2D DOS游戏的Lua框架，实现了LÖVEAPI的子集
-* [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) -Windows Phone 8.1的进行中端口
+* [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1
 * [LovePotion](https://github.com/TurtleP/LovePotion) -用于Nintendo 3DS和Nintendo Switch Homebrew的LÖVEAPI的非官方正在进行中的实现
 * [Love.js](https://github.com/TannerRogalsky/love.js) -使用Emscripten将LÖVE移植到网络上
 * [LÖVR](https://github.com/bjornbytes/lovr) -喜欢虚拟现实设备
@@ -196,7 +197,7 @@
 *在第三方商店中分发LÖVE游戏的指南*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) -用于包装LÖVE游戏以在Snappy商店中分发的模板
-* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可在基于Linux的常见操作系统（例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上运行的AppImages；  一局=一档
+* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可运行在基于Linux的常见操作系统（例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上的AppImages；  一局=一档
 
 ## Serialization
 *保存游戏和存储库*
@@ -243,7 +244,7 @@
 
 * [CatUI](https://github.com/wilhantian/catui) -LÖVE的非常轻量级的GUI库
 * [GOOi](https://github.com/tavuntu/gooi) -面向Android的GUI库
-* [Gspöt](https://notabug.org/pgimeno/Gspot) - A stateful GUI lib for LÖVE
+* [Gspöt](https://notabug.org/pgimeno/Gspot) -LÖVE的有状态GUI库
 * [Hanker](https://gitlab.com/Alloyed/hanker)  -极简主义即时模式式UI元素；  游戏手柄友好
 * [LoveFrames Fork](https://github.com/linux-man/LoveFrames) -11.2 GUI库的前叉
 * [Love Imgui](https://github.com/slages/love-imgui) -LÖVE游戏引擎的imgui模块

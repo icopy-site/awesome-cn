@@ -115,11 +115,6 @@ VSCode团队提供了受欢迎的编辑人员提供的按键图，从而几乎�
 ### [AutoHotkey Plus](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
 &gt;语法突出显示，摘要，转到定义，签名帮助器和代码格式化程序
 
-### [AutoHotkey Manager](https://marketplace.visualstudio.com/items?itemName=Denis-net.vscode-ahk-manager)
- &gt;开发ahk脚本所需的全部.  与AHK可执行文件交互的扩展
-
-![AutoHotkey Manager](https://raw.githubusercontent.com/Denis-net/vscode-ahk-manager/master/media/vs-ahk-manager.gif)
-
 ## Bash
 
 ### [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
@@ -231,7 +226,7 @@ Framework-specific:
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-&gt; VS Code扩展程序，用于在Chrome浏览器或支持Chrome调试协议的其他目标中调试JavaScript代码.
+&gt; VS Code扩展程序，用于在Chrome浏览器或其他支持Chrome调试协议的目标中调试JavaScript代码.
 
 ### Facebook Flow
 
@@ -245,7 +240,7 @@ Framework-specific:
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-&gt; VS Code扩展程序，用于在Chrome浏览器或支持Chrome调试协议的其他目标中调试JavaScript代码.
+&gt; VS Code扩展程序，用于在Chrome浏览器或其他支持Chrome调试协议的目标中调试JavaScript代码.
 
 ## Markdown
 
@@ -410,7 +405,7 @@ Framework-specific:
 
 ## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 
- &gt;允许您完全在编辑器中管理GitHub Gists.  您可以打开，创建，删除，分叉，加星标和克隆要点，然后无缝地开始编辑文件，就好像它们是本地文件一样.  就像您自己的开发人员库一样，它用于构建和引用代码段，常用配置/脚本，与编程相关的注释/文档以及交互式示例. 
+ &gt;允许您完全在编辑器中管理GitHub Gists.  您可以打开，创建，删除，分叉，加星标和克隆要点，然后无缝地开始编辑文件，就像它们是本地文件一样.  就像您自己的开发人员库一样，它用于构建和引用代码段，常用配置/脚本，与编程相关的注释/文档以及交互式示例. 
 
 ![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
 
@@ -453,7 +448,7 @@ Framework-specific:
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow)
- &gt;添加一个GitLab侧栏图标以查看问题，合并请求和其他GitLab资源.  您还可以查看GitLab CI / CD管道的结果，并检查`.gitlab-ci.yml`的语法.
+ &gt;添加一个GitLab侧栏图标以查看问题，合并请求和其他GitLab资源.  您还可以查看GitLab CI / CD管道的结果，并检查.gitlab-ci.yml的语法.
 
 ![GitLab Workflow](https://gitlab.com/fatihacet/gitlab-vscode-extension/raw/master/src/assets/_issues-in-vscode.png)
 
@@ -647,7 +642,7 @@ Framework-specific:
 
 ## [beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
-> Beautify code in place for VS Code
+&gt;美化VS Code的代码
 
 ### [html2pug](https://marketplace.visualstudio.com/items?itemName=dbalas.vscode-html2pug)
 
@@ -704,7 +699,7 @@ Framework-specific:
 ![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
 
 ## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
-&gt;在您的代码中快速翻译所选文本
+> Quickly translate selected text right in your code
 
 ![Vscode Google Translate](https://raw.githubusercontent.com/funkyremi/vscode-google-translate/master/demo.gif)
 
@@ -1116,11 +1111,6 @@ Visual Studio Code的深色语法/工作台主题-针对SCSS，HTML，JS，TS，
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/niketa-theme.png" width="600" />
 </a>
 
-
-### [Tinacious design syntax by Tinacious](https://github.com/tinacious/vscode-tinacious-design-syntax)
-
-Tinacious设计语法是一种语法主题，它使用明亮的调色板进行显示，包括粉红色，蓝色，绿松石，绿色，紫色和橙色.
-
 #### Dark 
   
 <a href="https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign">
@@ -1183,7 +1173,7 @@ VS Code社区中各种人的Twitter帐户列表
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
-- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一个扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写器等.MarkdownPreview的灵感源自Markdown Preview Plus和RStudio Markdown.
+- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -Markdown Preview增强版是一个扩展，可为您提供许多有用的功能，例如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写者等. Plus和RStudio Markdown.
 
 ## Online Courses
 

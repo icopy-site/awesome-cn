@@ -92,15 +92,11 @@
 ## Messenger Games
 
 - [Snap Games Support](https://support.snapchat.com/en-GB/a/games) -由PlayCanvas提供支持的Snapchat游戏平台.
-- [Archery 3D](https://www.facebook.com/instantgames/2236502786367605/) -射箭模拟器.
-- [Box Squad: Paper Golf](https://www.facebook.com/boxsquadpapergolf/) -迷你高尔夫游戏.
-- [Golden Boot](https://www.facebook.com/PlayGoldenBoot/) -点球大战.
-- [Master Archer](https://www.facebook.com/instantgames/1315812941823883/) -从鲍勃头顶射出水果.
-- [Kaburin! Ball](https://www.facebook.com/KaburinBall/) -滚动球以收集硬币.
-- [Kaburin! Dodge](https://www.facebook.com/KaburinDodge/) -避免物体从天而降.
+- [Archery 3D](https://www.facebook.com/instantgames/play/2236502786367605/) -射箭模拟器.
+- [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) -点球大战.
+- [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) -头对头篮球比赛.
+- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) -从鲍勃头顶射出水果.
 - [Let's Craft](https://www.facebook.com/instantgames/play/351725822100289/) -沙盒体素构建游戏.
-- [Shuffle Cats Mini](https://www.facebook.com/ShuffleCatsMini/) -轻弹卡片击中目标.
-- [Wonder Woman](https://www.facebook.com/wonderwomanfilm/posts/670093776494156/) -在2D无尽的奔跑者中奔跑和跳跃.
 
 ## Automotive
 

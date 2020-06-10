@@ -209,7 +209,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [Bolt Design System](https://github.com/boltdesignsystem/bolt) -由Twig和Web组件支持的UI组件，可重复使用的视觉样式和工具.
 - [Calcite Components](https://github.com/Esri/calcite-components) -用于Esri的Calcite设计框架的共享Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -Web组件顶部的Carbon Design System变体.
-- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) -基于Chameleon设计系统收集与框架无关的元素.
+- [Chameleon Web Components](https://github.com/MaritzSTL/chameleon) - Collection of framework-agnostic elements based on the Chameleon Design System.
 - [Crayons](https://github.com/freshdesk/crayons) -遵循Freshworks设计系统的Web组件集合.
 - [Helix UI](https://github.com/HelixDesignSystem/helix-ui) -Helix设计系统的Web组件库.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
@@ -264,7 +264,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ### Benchmarks
 
-- [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component-april2020/)
+- [All the Ways to Make a Web Component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 - [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) -带有各种示例的基准Web组件技术.
 - [web-components-todo](https://wc-todo.firebaseapp.com/) -出于不同基准目的，在不同的Web组件库中构建了相同的todo应用程序.
 
@@ -309,6 +309,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 - [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) -赛普拉斯的Web组件和Shadow DOM支持.
 - [query-selector-shadow-dom](https://github.com/Georgegriff/query-selector-shadow-dom) -可以刺入Shadow DOM根的querySelector，对于自动测试很有用.
+- [shadow-automation-selenium](https://github.com/sukgu/shadow-automation-selenium) -使用Selenium的Shadow DOM自动化.
 - [web-component-analyzer](https://github.com/runem/web-component-analyzer) -用于分析Web组件并发出文档/诊断信息的CLI.
 
 ## Books
@@ -422,7 +423,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 - [bruck](https://github.com/Heydon/bruck) -使用Web组件和Houdini Paint API构建的原型系统.
 - [Vaadin Directory](https://vaadin.com/directory) -发布，讨论和评估Web组件
 - [webcomponents.dev](https://webcomponents.dev) -您的Web组件工作室.
-- [webcomponents.org](http://webcomponents.org/) - Discuss &amp; share web components.
+- [webcomponents.org](http://webcomponents.org/) -讨论和共享Web组件.
 
 ## History
 

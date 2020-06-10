@@ -51,6 +51,7 @@
 - [Daydream](https://github.com/MTRNord/Daydream) -用Rust编写的小型Matrix网络客户端.
 - [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) -与Yew进行的简单WebRTC聊天.
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) -备受赞誉的样板，可用于使用Rust创建全堆栈应用程序.
+- [Chord Quiz](https://github.com/Stigjb/chord-quiz) -在这个Rust / Yew / WebAssembly应用中练习识别和弦.
 
 ## Templates
 
@@ -69,7 +70,7 @@
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) -您最喜欢的Rust-&gt; WebAssembly工作流程工具.
 - [wasm-pack-action](https://github.com/jetli/wasm-pack-action) -Github动作，通过下载可执行文件以加快CI / CD来安装“ wasm-pack”.
 - [cargo-web](https://github.com/koute/cargo-web) -客户端Web的Cargo子命令.
-- [wabt](https://github.com/WebAssembly/wabt) -WebAssembly Binary Toolkit，用于`wasm-strip`和`wasm-objdump`工具，以减少.wasm文件的大小.
+- [wabt](https://github.com/WebAssembly/wabt) -WebAssembly Binary Toolkit，用于`wasm-strip`和`wasm-objdump`工具，以减小.wasm文件的大小.
 - [binaryen](https://github.com/WebAssembly/binaryen) -WebAssembly的编译器基础结构和工具链库，用于减小.wasm文件大小的`wasm-opt`工具.
 
 ## Articles
@@ -97,9 +98,9 @@
 
 ## Alternatives
 
-紫杉团队喜欢与其他项目分享想法，并相信我们都可以互相帮助，充分发挥这项令人兴奋的新技术的潜力.
+紫杉团队喜欢与其他项目分享想法，并相信我们都可以互相帮助，充分发挥这项令人兴奋的新技术的全部潜力.
 
-- [Draco](https://github.com/utkarshkukreti/draco) -用于通过WebAssembly构建客户端Web应用程序的Rust库.
+- [Draco](https://github.com/utkarshkukreti/draco) -用于使用WebAssembly构建客户端Web应用程序的Rust库.
 - [Percy](https://github.com/chinedufn/percy) -用于使用Rust + WebAssembly构建同构Web应用程序的模块化工具包.
 - [Sauron](https://github.com/ivanceras/sauron) -Sauron是用于构建Web应用程序的HTML Web框架.
 - [Seed](https://github.com/seed-rs/seed) -用于创建Web应用程序的Rust框架.

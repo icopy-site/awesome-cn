@@ -36,7 +36,7 @@
 - [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) -添加了“写入模式”实用程序.
 - [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) -添加了“响应嵌入”组件.
 - [Aspect Ratio](https://github.com/webdna/tailwindcss-aspect-ratio) -添加`aspect-ratio`实用程序.
-- [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) - Adds `hyphens` utilities.
+- [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) -添加了“连字符”实用程序.
 - [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) -添加了“边界图像”渐变实用程序.
 - [RFS](https://github.com/aerni/tailwindcss-rfs) -添加 [`RFS`](https://github.com/twbs/rfs) 实用程序.
 - [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) -添加`font-variant-numeric`实用程序.
@@ -56,7 +56,7 @@
 - [Colors to CSS Variables](https://github.com/n1kk/tailwind-color-vars) -将颜色配置导出到CSS自定义属性.
 - [CSS Variables](https://github.com/omarkhatibco/tailwind-css-variables) -将配置导出到CSS自定义属性.
 - [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) -添加间隔组件，为除最后一个容器之外的所有容器项添加固定边距.
-- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) -添加 [Hero Patterns](https://www.heropatterns.com) 组件.
+- [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) -添加 [Hero Patterns](https://www.heropatterns.com) components.
 - [Localized](https://github.com/hdodov/tailwindcss-localized) -添加基于HTML`lang`属性的变体，以仅对某些语言使用实用程序.
 - [Skip link](https://github.com/opdavies/tailwindcss-skip-link) -向主要content_可访问组件添加_Skip.
 - [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
@@ -95,7 +95,7 @@
 - [Tailwind Templates](https://www.tailwindtemplates.io) -Tailwind CSS组件.
 - [jQuery + Tailwind Checkbox Toggle](https://craigerskine.github.io/jquery-tailwind-checkbox-toggle) -使用jQuery和Tailwind CSS进行切换.
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation?ref=awesome-tailwindcss) -Tailwind Starter Kit是Tailwind CSS，免费和开源的扩展.
-- [a17t](https://a17t.miles.land) - Atomic design toolkit built to extend Tailwind CSS.
+- [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
 - [tailblocks](https://mertjf.github.io/tailblocks) -60多种不同的随时可以使用Tailwind CSS块.
 - [Meraki UI Components](https://merakiui.com) -支持RTL语言的精美Tailwind CSS组件.
 - [Treact](https://treact.owaiskhan.me) -使用Tailwind CSS构建的React UI模板和组件.
@@ -177,6 +177,7 @@
 -  [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) -使用Tailwind CSS的Nanoc启动器.
 -  [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) -样板包括带有PostCSS的Tailwind CSS，Autoprefixer，PurgeCSS和CSSNano.
 -  [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) -使用Tailwind CSS，ParcelJS捆绑程序和TypeScript的样板.
+-  [Create Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) -由Parcel提供服务并在生产版本中使用PurgeCSS的准骨头Tailwind CSS样板.
 -  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -具有Tailwind CSS的管理面板模板.
 -  [Wordpress Tailwind CSS + Google PWA](https://github.com/ri7nz/Mesjid) -使用Tailwind CSS的Wordpress主题和PWA.
@@ -208,6 +209,7 @@
 -  [Acquia](https://github.com/opdavies/rebuilding-acquia) -使用Vue.js和Tailwind CSS重建了Acquia的托管仪表板.
 -  [Navbar](https://codepen.io/joshmanders/pen/PQQBoR) -使用Vue.js和Tailwind CSS制作的Navbar.
 -  [Toggle switch](https://github.com/TowelSoftware/tailwindcss-toggle) -使用Tailwind CSS进行切换.
+-  [“Open” landing page](https://github.com/michelegera/tailwindcss-open-template/) -Cruip使用Tailwind CSS Boilerplate构建的“打开”着陆页模板.
 -  [Testing Tailwind CSS plugins with Jest](https://www.oliverdavies.uk/articles/testing-tailwindcss-plugins-with-jest) -如何使用Jest测试Tailwind CSS插件.
 -  [Tailwind CSS with Webpack 4 and PostCSS](https://paramagicdev.github.io/my-blog/javascript/tailwindWebpackPostCSS) -如何使用PostCSS和Webpack设置Tailwind CSS.
 -  [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) -如何在CSS-in-JS中使用Tailwind CSS.
@@ -222,7 +224,7 @@
   - [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)
 -  [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) -使用Tailwind CSS重建Twitter.
   - [CodePen](https://codepen.io/drehimself/full/vpeVMx)
--  [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) -使用Tailwind CSS重建YouTube.
+-  [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) - Rebuilding YouTube with Tailwind CSS.
 -  [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) -使用Tailwind CSS重建Netlify.
 -  [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) -使用Tailwind CSS重建Resolute.
 -  [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) -使用Tailwind CSS构建电影制作登录页面.
@@ -314,6 +316,7 @@
 - [Built with Django](https://builtwithdjango.com)
 - [Log1x](https://log1x.com)
 - [Frontendfun](https://www.frontendfun.com)
+
 ## Contribute
 
  欢迎捐款！  阅读 [contribution guidelines](https://github.com/aniftyco/awesome-tailwindcss/blob/master/contributing.md) 第一.

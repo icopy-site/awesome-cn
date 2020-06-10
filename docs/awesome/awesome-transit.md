@@ -58,7 +58,7 @@
 - [NextBus API](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) -REST API，用于购买了NextBus硬件和/或软件的代理商的实时车辆，路线，停车和到达数据.
 - [Navitia.io](http://www.navitia.io/) -REST API，可用于行程计划，停车时间表，等速航行以及美国和欧盟的更多服务. [Navitia](https://github.com/CanalTP/navitia) 是实时API背后的开源引擎.
 - [CityBikes](http://api.citybik.es)  -REST API，用于汇总来自世界各地的Bikeshare数据.  供电 [pyBikes](https://github.com/eskerda/pybikes).
-- [HAFAS](https://de.wikipedia.org/wiki/HAFAS) – Propriety public transport management software by [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
+- [HAFAS](https://de.wikipedia.org/wiki/HAFAS) –专有的公共交通管理软件 [HaCon](https://www.hacon.de) ([list of endpoints](https://gist.github.com/derhuerst/2b7ed83bfa5f115125a5))
 
 ### Software for Creating APIs
 
@@ -81,12 +81,12 @@
 - [Remix](http://getremix.com/) -一个网络应用程序，可让运输公司轻松规划路线.
 - [AC Transit RestroomFinder](https://github.com/actransitorg/ACTransit.RestroomFinder) -使用GPS和屏幕上的地图，为公交运营商和现场工作人员确定最近的授权洗手间.
 - [AC Transit Training and Education Department (TED) application](https://github.com/actransitorg/ACTransit.Training) -尽管该系统支持新课程和学徒计划，但该应用程序支持学区对运输和维护员工的培训操作，主要是在公共汽车操作员和重型教练机修工（学徒和旅程）方面.
-- [AC Transit Customer Relations application (CusRel)](https://github.com/actransitorg/ACTransit.CusRel) -用于客户问题和反馈的公交票务系统：部门间路由与通知，部门/人员分配，简单的工作流，票务搜索，预先罐装报告，每日提醒等.
+- [AC Transit Customer Relations application (CusRel)](https://github.com/actransitorg/ACTransit.CusRel) -用于客户问题和反馈的公共票务系统：部门间路由与通知，部门/人员分配，简单的工作流程，票务搜索，预先罐装报告，每日提醒等.
 - [TransAM](http://camsys.software/products/transam)  -公共交通机构的开源资产管理平台.  开源 [on Github](https://github.com/camsys/transam_core).
 - [RidePilot](https://github.com/camsys/ridepilot) -开源的计算机辅助调度和调度（CASD）软件系统，可满足小型人力运输机构的需求（有关更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 - [TNExT](https://github.com/ODOT-PTS/TNExT) -公交网络浏览器工具（TNExT）是基于网络的软件工具，旨在对俄勒冈州的区域和州范围的公交网络进行可视化，分析和报告.
 -路线趋势（[webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)）-一个R Shiny应用程序，用于提取乘车时间序列，并根据以下信息返回季节，趋势和残差分量 [STL methodology](https://otexts.com/fpp2/stl.html)  以及包括这些成分的不确定性在内的预测.  由...赞助 [Metro Transit](https://www.metrotransit.org/) （明尼阿波利斯-圣保罗）.
-- [TBEST](https://tbest.org/)  -TBEST（过境登机估算和模拟工具）致力于开发基于GIS的多方面建模，规划和分析工具，该工具将社会经济，土地使用和过境网络数据集成到一个基于情景的过境旅客平台中估计和分析.  由佛罗里达州交通运输部资助.  免费使用，但不开源.
+- [TBEST](https://tbest.org/)  -TBEST（过境登机估算和模拟工具）致力于开发基于GIS的多方面建模，规划和分析工具，该工具将社会经济，土地使用和过境网络数据集成到一个基于情景的过境乘客的平台中估计和分析.  由佛罗里达州交通运输部资助.  免费使用，但不开源.
 
 ### Hardware
 
@@ -113,7 +113,7 @@
 - [Bongo](http://ebongo.org)  -爱荷华市，Coralville和爱荷华大学的实时公交跟踪.  很棒，因为它将三个不同的运输系统组合到一个UI中.
 - [Transitive.js](https://github.com/conveyal/transitive.js) -使用Leaflet或D3创建公交路线的可自定义网络地图图层.
 - [Brand New Subway](http://jpwright.net/subway/) -互动交通规划游戏，玩家可以根据自己的意愿改变NYC地铁系统.
-- [CityMapper Webapp](https://citymapper.com/nyc) -真正完善的webapp，带有30多个城市的旅行计划和路线状态.
+- [CityMapper Webapp](https://citymapper.com/nyc) -真正完善的webapp，带有旅行计划器和路线状态，适用于30多个城市.
 - [Google I/O Transport Tracker](https://github.com/googlemaps/transport-tracker) -根据开放源代码显示Google I / O会议的班车到达时间 [transport-tracker project](https://github.com/googlemaps/transport-tracker) .  注意：要自己实施此操作，您需要 [Google Maps APIs Premium Plan license](https://developers.google.com/maps/pricing-and-plans/).
 - [YourStop](http://yourstop.info)  -移动友好的Web应用程序，使用GTFS提要并显示实时和计划的停靠行程.  与MBTA，YRT / Viva和马里兰MTA一起推出.
 - [1-Click](http://camsys.software/products/1-click)  -一个虚拟的“旅行聚合器”，可在各种可用模式下收集信息：公共交通，私人，铁路，乘车共享，拼车，志愿者，辅助公交以及步行和骑自行车.  开源 [on Github](https://github.com/camsys/oneclick).
@@ -127,7 +127,7 @@
 -OneBusAway应用- [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-iphone), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Windows 8](https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219), [Alexa skill](https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/) [*(source code)*](https://github.com/OneBusAway/onebusaway-alexa)
 - [OpenTripPlanner Android](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) -适用于 [OpenTripPlanner](http://www.opentripplanner.org/)
 - [OpenTripPlanner iOS](https://github.com/opentripplanner/OpenTripPlanner-iOS) -适用于的iOS应用 [OpenTripPlanner](http://www.opentripplanner.org/)
-- [Transportr](https://github.com/grote/Transportr) 使用以下内容的Android应用 [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) 为了连接到世界各地许多不同的运输网络.
+- [Transportr](https://github.com/grote/Transportr) 使用以下内容的Android应用 [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
 - [Offi Directions](https://gitlab.com/oeffi/oeffi) -一个Android应用程序，可为欧洲及其他地区的运输当局提供行程计划，时间表，实时出发时间和交通中断信息.
 - [Trufi App](https://github.com/trufi-association/trufi-app) 使用以下内容的跨平台Flutter应用 [OpenTripPlanner](http://www.opentripplanner.org/)
 
@@ -145,7 +145,7 @@
 
 - [Visualizing MBTA Data](http://mbtaviz.github.io/) -互动图表，显示人们如何使用波士顿的地铁系统.
 - [MIT COAXS](http://mittransportanalyst.github.io/) -使用基于可访问性的利益相关方参与共同设计运输走廊（显示使用 [OpenTripPlanner Analyst](http://www.opentripplanner.org/analyst/)).
-- [TRAVIC Transit Visualization Client](http://tracker.geops.ch/) - Visualizes vehicles moving based on static GTFS data (and sometimes realtime data). Supports over 260 cities.  Github account for geOps organization is [here](https://github.com/geops).
+- [TRAVIC Transit Visualization Client](http://tracker.geops.ch/)  -根据静态GTFS数据（有时是实时数据）可视化正在行驶的车辆.  支持260多个城市.  geOps组织的Github帐户是 [here](https://github.com/geops).
 - [MTA Frequency](http://www.tyleragreen.com/maps/new_york/) -使用以下工具构建的纽约市地铁和公共汽车的频率可视化 [Transitland](https://transit.land/).
 - [Traze](https://traze.app/) 通过 [Veridict](https://www.veridict.com)  -可视化来自世界各地的公共交通工具.  即使代理商无法提供实时更新，也可以与其他用户合作以获取实时更新.  基于许多来源，包括GTFS和GTFS-RT.  （以前称为 [Livemap24](https://www.livemap24.com)). 
 - [SEPTA Rail OTP Report](https://apps.phor.net/septa/) -使用GTFS的在线实时绩效报告和深入分析工具.
@@ -185,7 +185,7 @@
 
 #### Java Script
 - [gtfs-sequelize](https://github.com/evansiroky/gtfs-sequelize) -Node.js库使用静态模型建模静态GTFS [sequelize.js](http://sequelizejs.com/).
-- [gtfs-utils](https://github.com/public-transport/gtfs-utils) –处理GTFS数据集的实用程序（例如，“展平”“ calendar.txt”和“ calendar_dates.txt”，计算行程的到达/离开时间）.
+- [gtfs-utils](https://github.com/public-transport/gtfs-utils) –处理GTFS数据集的实用程序（例如，“展平”“ calendar.txt”和“ calendar_dates.txt”，计算旅行的到达/离开时间）.
 - [gtfs-via-postgres](https://github.com/derhuerst/gtfs-via-postgres) –另一个使用PostgreSQL处理GTFS的工具.
 - [Node-GTFS](https://github.com/brendannee/node-gtfs) -从加载运输数据 [GTFS Data Exchange](http://www.gtfs-data-exchange.com/)，将其解压缩并存储到MongoDB数据库中，并提供一些方法来查询代理商，路线，站点和时间.
 
@@ -194,11 +194,12 @@
 
 #### Python
 - [ESRI public-transit-tools](https://github.com/Esri/public-transit-tools) -在ArcGIS中使用公共交通数据的工具（需要ArcGIS许可）.
-- [gtfsdb](https://github.com/OpenTransitTools/gtfsdb) - Python library for converting GTFS files into a relational database.
+- [gtfsdb](https://github.com/OpenTransitTools/gtfsdb) -用于将GTFS文件转换为关系数据库的Python库.
 - [gtfslib-python](https://github.com/afimb/gtfslib-python) -python中的开源库，用于读取GTFS文件并计算有关公共交通网络的各种统计信息和指标.
 - [gtfsman](https://github.com/geops/gtfsman) -Python中类似于存储库的工具，用于管理和更新大量的GTFS提要.
 - [gtfspy](https://github.com/CxAalto/gtfspy)  -使用Python3的公共交通网络分析和旅行时间计算.  与Postgres / PostGIS，Oracle，MySQL和SQLite兼容.  使用者 [gtfspy-webviz](https://github.com/CxAalto/gtfspy-webviz).
-- [GTFSTK](https://github.com/araichev/gtfstk)  -一个Python 3工具包，用于分析内存中的GTFS数据.  使用Pandas和Shapely来提高速度.
+- [GTFS Kit](https://github.com/mrcagney/gtfs_kit)  -用于分析通用运输提要规范（GTFS）数据的Python 3.6+工具套件.  取代 [GTFSTK](https://github.com/araichev/gtfstk).
+- [GTFSTK](https://github.com/araichev/gtfstk)  -一个Python 3工具包，用于分析内存中的GTFS数据.  使用Pandas和Shapely来提高速度.  被取代 [GTFS Kit](https://github.com/mrcagney/gtfs_kit).
 - [Make GTFS](https://github.com/mrcagney/make_gtfs) - A Python library to make GTFS feeds from basic route information.
 - [Mapzen GTFS](https://github.com/transitland/mapzen-gtfs) -一个Python GTFS库，它支持读取单个GTFS表或构造一个图表来表示Feed中的每个代理商.
 - [multigtfs](https://github.com/tulsawebdevs/django-multi-gtfs) -导入和导出GTFS的Django应用程序.
@@ -221,7 +222,7 @@
 - [GTFS-OSM-Sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) -Java工具，用于与GTFS格式的数据同步 [OpenStreetMap.org](http://www.openstreetmap.org/).
 - [onebusaway-gtfs-to-barefoot](https://github.com/OneBusAway/onebusaway-gtfs-to-barefoot) -使用Java工具创建 [Barefoot](https://github.com/bmwcarit/barefoot) GTFS文件中的mapfile.
 - [o2g](https://github.com/hiposfer/o2g) -从OpenStreetMap提取GTFS提要的简单工具.
-- [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) -尝试将GTFS stop_id分配给的Python应用程序 [TransLoc](http://transloc.com/) ID使用 [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) 在其API中未提供GTFS`stop_ids`）.
+- [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) -尝试将GTFS stop_id分配给的Python应用程序 [TransLoc](http://transloc.com/) IDs using [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) 在其API中未提供GTFS`stop_ids`）.
 - [Hafas2GTFS](https://github.com/geops/hafas2gtfs) -用Python编写的Hafas2GTFS转换器，已针对SBB HAFAS提要进行了优化.
 - [hafas-generate-gtfs](https://github.com/derhuerst/hafas-generate-gtfs) *（正在执行）*] –一种从HAFAS端点生成GTFS转储的Javascript工具.
 - [gtsf](https://github.com/r-gtfs/gtsf) -R中的常规运输（GTFS）简单（地理）功能（sf）可用于通过GDAL将GTFS转换为Shapefile，GeoJSON和其他格式.
@@ -233,7 +234,7 @@
 - [bus-router](https://github.com/atlregional/bus-router) -使用以下命令为GTFS生成缺少的shapes.txt的Python脚本 [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) 要么 [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor)  基于Web的GTFS编辑框架（自托管）.  （注意：不建议使用此项目， [IBI Data Tools](https://github.com/ibi-group/datatools-ui).)
 - [GTFS Editor for Vagrant](https://github.com/laidig/vagrant-gtfs-editor) 使用以下命令快速设置GTFS编辑器（上述） [Vagrant](https://www.vagrantup.com/)
-- [static-GTFS-manager](https://github.com/WRI-Cities/static-GTFS-manager) -基于（自托管）浏览器的用户界面，用于创建，编辑和导出静态GTFS（请参见 [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I) ）.  现场演示 [here](https://static-gtfs-manager.herokuapp.com/).
+- [static-GTFS-manager](https://github.com/WRI-Cities/static-GTFS-manager) -基于（自托管）基于浏览器的用户界面，用于创建，编辑和导出静态GTFS（请参见 [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I) ）.  现场演示 [here](https://static-gtfs-manager.herokuapp.com/).
 - [TransitWand](http://transitwand.com/)  -用于收集运输数据的开源Web和移动应用程序.  使用它来创建GTFS提要，捕获乘客数量或生成GIS数据集.
 - [IBI Data Tools](https://github.com/ibi-group/datatools-ui)  -处理GTFS编辑，验证，质量检查以及部署到OpenTripPlanner的Web应用程序.  （结合并基于已弃用的功能 [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) 和 [GTFS Editor](https://github.com/conveyal/gtfs-editor).)
 - [GTFS.html](https://gtfs.pleasantprogrammer.com)  -完全基于浏览器的工具来查看GTFS提要.  用它来查看路线，站点，时间表等.
@@ -247,6 +248,7 @@
 - [gtfsr](https://github.com/ropensci/gtfsr) -一个R包，可轻松导入，验证和映射遵循通用运输提要规范（GTFS）格式的运输数据.
 - [tidytransit](https://github.com/r-transit/tidytransit) （以前 [bustt](https://github.com/r-transit/bustt) ）-将GTFS数据读入tidyverse和简单要素数据框，以绘制公交站点和路线图，计算公交频率并验证公交信息.  tidytransit是一个 [fork](https://en.wikipedia.org/wiki/Fork_\(software_development\)的） [gtfsr](https://github.com/ropensci/gtfsr)，发布到 [CRAN](https://cran.r-project.org/)，具有频率/车距计算功能. 
 - [transitr](https://github.com/tmelliott/transitr) -R包，用于实时构建和建模公交网络以获得车辆ETA
+- [Busbuzzard](https://github.com/bmander/busbuzzard) -从有关过境车辆的经验数据中推断出概率计划.
 
 #### GTFS Timetable Publishing Tools
 
@@ -260,7 +262,7 @@
 - [gtfs-lib](https://github.com/conveyal/gtfs-lib/) -传送的gtfs-validator的后继者，该库用于通过磁盘支持的存储来加载和保存任意大小的GTFS提要.
 - [GTFS Data Package Specification](https://github.com/Stephen-Gates/GTFS) - 一个 [Data Package specification](http://specs.frictionlessdata.io/data-packages/) 验证完成 [Good Tables](http://goodtables.okfnlabs.org/) .  包括数据包，模式，测试，并以东南昆士兰州GTFS数据为例.
 - [Web GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) -基于网络的GTFS验证器，可同时运行 [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) 和 [gtfs-validator](https://github.com/conveyal/gtfs-validator) 在上传的GTFS文件上.
-- [gtfs-validator](https://github.com/MobilityData/gtfs-validator) -以Java实作的开放原始码GTFS验证器，由Apache v2.0授权，并由 [MobilityData](https://mobilitydata.org/).
+- [gtfs-validator](https://github.com/MobilityData/gtfs-validator) -以Java实作的开放原始码GTFS验证器，由Apache v2.0授权，由Apache维护 [MobilityData](https://mobilitydata.org/).
 - [GTFSVTOR](https://github.com/mecatran/gtfsvtor) -以Java实作的开放原始码GTFS验证器，并由GPLv3授权 [Mecatran](https://www.mecatran.com/).
 
 #### GTFS Realtime
@@ -298,12 +300,12 @@
 - [SEPTA API 到GTFS实时](https://github.com/kurtraschke/septa-gtfsrealtime) -基于Java的工具进行转换 [SEPTA's](http://www.septa.org/) [real-time bus and rail data](http://www3.septa.org/hackathon/) 到GTFS实时
 - [CTA API to GTFS-realtime](https://github.com/kurtraschke/ctatt-gtfsrealtime) -基于Java的工具进行转换 [CTA's](http://www.transitchicago.com/) [Train Tracker data](http://www.transitchicago.com/developers/traintracker.aspx) 到GTFS实时.
 - [Detroit DOT to GTFS-realtime](https://github.com/prashtx/ddot-avl) -从中提取实时信息 [DDOT's](http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules) TransitMaster安装（数据库）并实时转换为GTFS
-- [Live Transit Event Trigger](https://github.com/ipublic/live_transit_event_trigger) -从中提取数据 [Ride On's](http://www.montgomerycountymd.gov/dot-transit/) OrbCAD数据库并实时导出为GTFS.
+- [Live Transit Event Trigger](https://github.com/ipublic/live_transit_event_trigger) -从中提取数据 [Ride On's](http://www.montgomerycountymd.gov/dot-transit/) OrbCAD database and export as GTFS-realtime.
 - [SoundTransit 到GTFS实时](https://github.com/bdferris/onebusaway-sound-transit-realtime) -转换来自的文本文件提要 [Sound Transit](http://www.soundtransit.org/) 到GTFS实时
 - [Civic Transit](https://github.com/jestin/CivicTransit) -屏幕刮 [KCATA’s](http://www.kcata.org/) 安装TransitMaster WebWatch即可生成GTFS实时供稿.
 - [GTFS-realtime VehiclePositions to GTFS-realtime TripUpdates (TransitClock)](http://thetransitclock.org)  -可以消耗原始车辆位置并以GTFS-realtime之类的格式生成预测时间的Java应用程序.  前身为“运输时间”.
 - [gtfs-realtime-translators](https://github.com/Intersection/gtfs-realtime-translators)  -基于Python的工具，可将自定义到达API格式转换为GTFS-实时.  自2019年7月起，它支持LA Metro和SEPTA.
-- [Transloc API to GTFS-realtime](https://github.com/jonathonwpowell/transloc-to-gtfs-real-time) -基于Node.js的工具，可将Transloc API实时转换为GTFS.
+- [Transloc API to GTFS-realtime](https://github.com/jonathonwpowell/transloc-to-gtfs-real-time) - A Node.js based tool to convert the Transloc API to GTFS-realtime.
 - [hafas-gtfs-rt-feed](https://github.com/derhuerst/hafas-gtfs-rt-feed) –一种从HAFAS端点生成GTFS实时提要的Javascript工具.
 
 #### GTFS Realtime Utilities
@@ -315,6 +317,7 @@
 - [GTFS-realtime Nagio Plugin](https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin) -提供一个 [Nagios](https://www.nagios.org/) 用于监控GTFS实时供稿的插件
 - [GTFS-realtime-test-service](https://github.com/CUTR-at-USF/gtfs-realtime-test-service) -模拟GTFS实时供稿内容的工具（例如，用于测试GTFS实时使用的应用程序）
 - [gtfs-rt-differential-to-full-dataset](https://github.com/derhuerst/gtfs-rt-differential-to-full-dataset) –使用Javascript工具将“ DIFFERENTIAL”增量数据的连续GTFS实时流转换为“ FULL_DATASET”转储.
+- [gtfs-rt-admin](https://github.com/conveyal/gtfs-rt-admin) -用于管理GTFS-RT服务警报（JavaScript和Java）的管理工具.
 
 ### SIRI
 
@@ -348,7 +351,7 @@
 - [Mobility as a Service API](http://maas-api.org/) -一组定义了MaaS兼容API的开放文档和测试套件（例如， [MaaS Transport Service Provider Booking API](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
 - [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120)  -这项研究的目的是为参与需求响应运输的实体制定交易数据的技术规范.  预计完成日期为2018年末.
 - [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) -这项研究的目的是制定标准和/或指南，以供运输界在收集，管理和共享静态和实时数据以进行运输规划和运营时使用和采用.
-- [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - A planned data specification for sharing travel demand model networks.
+- [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) -用于共享旅行需求模型网络的计划数据规范.
 
 ### Resources
 

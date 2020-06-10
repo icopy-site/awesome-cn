@@ -40,10 +40,11 @@ Waves是一个针对Web 3.0应用程序和分散式解决方案的开源区块�
 - [Certificado, Part 1. How to build your first blockchain-based app in 15 minutes](https://medium.com/wavesprotocol/how-to-build-your-first-blockchain-based-app-in-15-minutes-83de36826143) -有关如何创建基于区块链的证书存储的教程（[ru](https://vk.com/@wavesplatform-kak-sozdat-pervoe-prilozhenie-na-blokcheine-za-15-minut)).
 - [Certificado, Part 2. What are Smart Contracts and how to use them in your app](https://medium.com/wavesprotocol/what-are-smart-contracts-and-how-to-use-them-in-your-app-a1c0d62d1a5) -有关如何创建基于区块链的证书存储的教程（[ru](https://vk.com/@wavesplatform-chto-takoe-smart-kontrakty-i-kak-ih-ispolzovat-v-prilozhenii)).
 - [How to: offer a free trial for your dApp](https://medium.com/wavesprotocol/make-your-dapp-free-for-a-user-d560b38ec598) -降低dApp用户障碍的详细指南（[ru](https://vk.com/@wavesplatform-how-to-besplatnye-dlya-polzovatelya-decentralizovannye-prilo)).
-- [Blockchain Trigger: a tool for automatic smart contract invocation](https://medium.com/wavesprotocol/blockchain-trigger-a-tool-for-automatic-smart-contract-invocation-1cb2748c53be)  -称为智能合约，用户会遇到一些问题，这会阻碍区块链的大规模采用.  名为Blockchain Trigger的工具可以帮助解决这些问题（[ru](https://vk.com/@wavesprotocol-instrument-dlya-dlya-avtomaticheskogo-vyzova-smart-kontrakto)).
+- [Blockchain Trigger: a tool for automatic smart contract invocation](https://medium.com/wavesprotocol/blockchain-trigger-a-tool-for-automatic-smart-contract-invocation-1cb2748c53be) - Calling a smart contract, users experience some issues, which hampers mass adoption of blockchain. An instrument called Blockchain Trigger could help resolve these issues ([ru](https://vk.com/@wavesprotocol-instrument-dlya-dlya-avtomaticheskogo-vyzova-smart-kontrakto)).
 - [How to avoid common mistakes in dApp development](https://medium.com/wavesprotocol/how-to-avoid-common-mistakes-in-dapp-development-61015e700459) -在为Web 3.0开发dApp时，如何避免最常见的错误（[ru](https://vk.com/@wavesprotocol-kak-izbezhat-oshibok-pri-razrabotke-dapp)).
 - [How to write decentralized oracles in Ride](https://medium.com/wavesprotocol/how-to-write-decentralized-oracles-in-ride-f2c096812b18)  -我们如何解决向区块链提供真实数据的问题？  介绍Oraculus-创建去中心化Oracle的智能合约（[ru](https://vk.com/@wavesprotocol-kak-napisat-decentralizovannyi-orakul-na-ride)).
 - [Billy — motivation bot for Slack and Microsoft Teams](https://medium.com/@ikardanov/billy-motivation-and-recognition-bot-for-slack-and-microsoft-teams-d05167e4a7f9) -建立在Waves区块链上的工具，用于以非财务方式奖励团队成员（[ru](https://vc.ru/tribuna/128472-billy-bot-dlya-motivacii-personala)).
+- [How to build a dApp for team motivation](https://medium.com/wavesprotocol/how-to-build-a-dapp-for-team-motivation-8943504e3feb) -Billy是以机器人程序形式出现的DApp，它可以建立激励和奖励系统，旨在通过业务沟通平台Slack（[ru](https://vk.com/@wavesprotocol-kak-sozdat-dapp-dlya-motivacii-sotrudnikov)).
 
 ## Products
 
@@ -63,7 +64,7 @@ Waves是一个针对Web 3.0应用程序和分散式解决方案的开源区块�
 
 ### Other
 
-- [WavesLabs](https://waveslabs.com/) -支持有才华的开发人员和有前途的初创公司的一项计划，重点是构建将构成Web 3.0骨干的分散技术.
+- [WavesLabs](https://waveslabs.com/) -支持有才华的开发人员和有前途的初创公司的一项计划，重点是构建将构成Web 3.0骨干的分散式技术.
 - [Node](https://github.com/wavesplatform/Waves) -GitHub上的Waves Node存储库.
 - [Go Node](https://github.com/wavesplatform/gowaves) -用于Waves区块链的Go库和工具，Node的替代实现（正在进行中）.
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/)  -官方数据服务.  从Waves区块链获取数据的简单便捷方法.
@@ -116,7 +117,7 @@ Testnet是稳定的网络，具有从Mainnet完全复制的配置和节点版本
 #### C#
 - [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library to interact with the Waves blockchain.
 #### Java/Kotlin
-- [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - Kotlin SDK for Mobile Apps on Android.
+- [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) -Android上用于移动应用程序的Kotlin SDK.
 - [WavesJ](https://github.com/wavesplatform/WavesJ) -与Waves区块链和DEX进行交互的Java库.
 - [waves-crypto-java](https://github.com/msmolyakov/waves-crypto-java) -与Waves区块链中使用的加密原语一起使用的库.
 #### JavaScript/TypeScript
@@ -165,10 +166,10 @@ Testnet是稳定的网络，具有从Mainnet完全复制的配置和节点版本
 ### Projects
 
 - [Neutrino](https://github.com/ventuary-lab/neutrino-contract) -由WAVES令牌担保的算法价格稳定的加密货币协议.
-- [Billy](https://iambilly.app)  -团队的激励工具.  Billy提供了一种产品来营造合作氛围，使公司专注于核心价值，并通过创造团队经济来激励共享.
+- [Billy](https://iambilly.app)  -团队的激励工具.  Billy提供的产品可营造合作气氛，使公司专注于核心价值，并通过建立团队经济来激励共享.
 - [Ventuary-DAO](https://alpha.ventuary.space/) -沙箱致力于过滤dApp想法并激发Waves社区参与Web 3.0的采用.
 - [Tokenomica](https://tokenomica.com/)  -安全令牌发行平台.  轻松而自信地创建和交易数字资产.
-- [LIGA](https://ligatokens.io/) -带有标记化体育赛事的平台，使您能够处理实时汇率并与他人交易您的个人预测.
+- [LIGA](https://ligatokens.io/) -具有标记化体育赛事的平台，使您能够处理实时汇率并与他人交易您的个人预测.
 - [WaveFlow](https://waveflow.xyz/)  -允许您创建新的或使用现有的交换器，为某些交易对提供恒定的供需.  算法定价用于确保供需的一致性-令牌越受欢迎，其价格设置就越高.  每个交换器都是用Ride（[example of trading bot](https://github.com/vlzhr/waveflow-trading-bot)).
 - [Lombardini](https://lombardini.io/) -立即借用WBTC for WAVES.
 - [Blockchain Cars](http://blockchaincars.io/) -运输即服务.
