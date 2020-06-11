@@ -170,7 +170,8 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [Learn Deno: Chat app](https://aralroca.com/blog/learn-deno-chat-app)
 - [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
 - [Create a simple Note-taking app with Deno](https://dev.to/jeferson_sb/create-a-simple-note-taking-app-with-deno-3k7g)
-- [Making APIs in Deno](https://medium.com/swlh/making-apis-in-deno-83dedda9dd1f?source=friends_link&sk=396c0dee437989ba3d2c2cc46d7d5933)
+- [Develop and Dockerize a Blogging API With Deno, Oak, and MySQL](https://dev.to/fhsinchy/develop-and-dockerize-a-blogging-api-with-deno-oak-and-mysql-170e)
+- [Building API's using Deno, Oak and MYSQL](https://codeforgeek.com/building-api-server-using-deno-and-mysql/)
 
 ## Presentations
 

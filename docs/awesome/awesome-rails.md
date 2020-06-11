@@ -31,6 +31,7 @@
 - [GoRails](https://gorails.com)
 - [Drifting Ruby](https://www.driftingruby.com/)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
+- [Ruby on Rails Online Courses at Classpert](https://classpert.com/ruby-on-rails)
 
 
 ### Jobs
@@ -270,7 +271,7 @@
 
  |  发电机|  准备运行|  复杂应用|  设置git |  Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
-| [Rails Composer](https://github.com/RailsApps/rails-composer) |  是的，但是需要配置Stripe |  使用Stripe达到SaaS的示例应用程序.  |  是的  是
+| [Rails Composer](https://github.com/RailsApps/rails-composer) |  是的，但是需要配置Stripe |  带有条带化的SaaS的示例应用程序.  |  是的  是
 | [Hix on Rails](https://hixonrails.com) |  是的  监控，Redis前哨，Sidekiq.  |  是的  没有
 
 

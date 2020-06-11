@@ -147,6 +147,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [debug.cr](https://github.com/Sija/debug.cr) -`pp！-style调试的`debug！（…）`宏
 
 ## Dependency Injection
+ * [Athena Dependency Injection](https://github.com/athena-framework/dependency-injection) -强大的依赖项注入服务容器框架
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) -轻巧的DI容器
  * [HardWire](https://github.com/jerometwell/hardwire) -编译时非侵入式依赖项注入系统.
  * [syringe](https://github.com/Bonemind/syringe) -用于晶体的简单且基本的依赖注入碎片
@@ -160,7 +161,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Environment Management
  * [asdf-crystal](https://github.com/marciogm/asdf-crystal) -用于asdf版本管理器的插件
  * [crenv](https://github.com/crenv/crenv) -水晶版本管理器
- * [rcm.cr](https://github.com/maiha/rcm.cr) -Redis集群管理器
+ * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
 
 ## Examples and funny stuff
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) -控制台二十一点
@@ -173,6 +174,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [can_use](https://github.com/rodrigopinto/can_use) -这是基于Yaml的水晶的极简功能切换/标志
 
 ## Framework Components
+ * [Athena Event Dispatcher](https://github.com/athena-framework/event-dispatcher) -调解员和观察员模式事件库
  * [device_detector](https://github.com/creadone/device_detector) -通过用户代理字符串检测设备的分片
  * [Exception Page](https://github.com/crystal-loot/exception_page) -Crystal Web库和框架的特殊例外页面
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) 实作
@@ -222,7 +224,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) -查理编程语言
  * [cltk](https://github.com/ziprandom/cltk) -Ruby语言工具包的水晶端口
- * [crisp](https://github.com/rhysd/Crisp) -用Crystal实现的Lisp方言
+ * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [LinCAS-lang](https://github.com/LinCAS-lang) -用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) -用于前端Web的令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) -一种实用，动态的语言，旨在尽可能轻松高效地进行书写和理解
@@ -236,7 +238,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Machine Learning
  * [ai4cr](https://github.com/drhuffman12/ai4cr) -人工智能（基于https://github.com/SergioFierens/ai4r）
  * [Cadmium](https://github.com/cadmiumcr/cadmium) -NLP库主要基于 [natural](https://github.com/NaturalNode/natural)
- * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+ * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) -FANN（快速人工神经网络）绑定
  * [mxnet.cr](https://github.com/toddsundsted/mxnet.cr) -的绑定 [MXNet](https://mxnet.incubator.apache.org/)
  * [shainet](https://github.com/NeuraLegion/shainet) -SHAInet（纯水晶神经网络）
 
@@ -251,7 +253,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [callbacks](https://github.com/vladfaust/callbacks.cr) -富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) -断路器模式的实现
  * [containerregistry.cr](https://github.com/naqvis/containerregistry.cr) -与集装箱登记处合作的图书馆
- * [CrSerializer](https://github.com/blacksmoke16/CrSerializer) -基于可扩展注释的序列化/反序列化库
  * [CrSignals](https://github.com/firejox/CrSignals) -信号/插槽通知库
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) -二进制解析器
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -Crystal的Web框架，在Github上最受欢迎
@@ -400,7 +401,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [office365](https://github.com/PlaceOS/office365) -Microsoft Graph API包装器
  * [pinboard.cr](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) 火
  * [raven.cr](https://github.com/sija/raven.cr) -Raven是的客户 [Sentry](https://github.com/getsentry/sentry)
- * [stripe.cr](https://github.com/confact/stripe.cr) - Stripe api wrapper
+ * [stripe.cr](https://github.com/confact/stripe.cr) -条纹api包装器
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) -访问Twitter API的库
  * [web_finger](https://github.com/toddsundsted/web_finger) -WebFinger（https://tools.ietf.org/html/rfc7033）客户端
  * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) -与您的YNAB数据进行交互的库
@@ -413,7 +414,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) -开源高效，凝聚力的Web应用程序框架
- * [athena](https://github.com/blacksmoke16/athena) -具有内置参数转换功能的模块化，基于注释，面向API的框架
+ * [Athena](https://github.com/athena-framework/athena) -由可重用的独立组件组成的网络框架
  * [grip](https://github.com/grip-framework/grip) -用于轻松轻松构建RESTful Web应用程序的微框架
  * [kemal](https://github.com/kemalcr/kemal)  -快速，超级简单的Web框架.  受Sinatra启发
  * [lucky](https://github.com/luckyframework/lucky) - Catch bugs early, forget about most performance issues, and spend more time on code instead of debugging and writing tests

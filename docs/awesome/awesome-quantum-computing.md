@@ -78,7 +78,7 @@
 
 ## Blogs
 
-- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google Quantum Computing Team的成员.
+- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉尼（Craig Gidney）-Google量子计算团队的成员.
 - [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享研究成果和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.
@@ -101,6 +101,7 @@
 - [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#) -易于解决的高级量子计算和信息问题.
 - [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) -量子计算的动手入门，重点介绍概念和编程示例（多种语言）.
 - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) -全面的教科书，适用于那些具有数学，计算机科学和物理学先验知识的人.
+- [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213) -量子计算入门，向量子系统背后的数学解释了量子计算的基础.
 - [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf) -仅需基本的大学数学知识即可说明量子计算.
 - [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) -用对话方法解释有效解决方案的量子计算.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) -使用大学计算机科学专业的学生可以使用的方法解释量子计算.

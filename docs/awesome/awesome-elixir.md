@@ -71,7 +71,7 @@
 * [mason](https://github.com/spacepilots/mason)  -强制映射为结构.  这很有用，例如，当您连接REST API并想从响应中创建结构时.
 * [matrex](https://github.com/versilov/matrex) -使用CBLAS的C实现的Elixir / Erlang的快速矩阵库.
 * [merkle_tree](https://github.com/yosriady/merkle_tree) -Elixir中的Merkle哈希树实现.
-* [minmaxlist](https://github.com/seantanly/elixir-minmaxlist) -Elixir库扩展了“ Enum.min_by / 2”，“ Enum.max_by / 2”和“ Enum.min_max_by / 2”，以返回结果列表，而不只是一个结果列表.
+* [minmaxlist](https://github.com/seantanly/elixir-minmaxlist) -Elixir库扩展了`Enum.min_by / 2`，`Enum.max_by / 2`和`Enum.min_max_by / 2`以返回结果列表，而不只是一个结果列表.
 * [mmath](https://github.com/dalmatinerdb/mmath) -在二进制文件中对数字“数组”执行数学运算的库.
 * [monad](https://github.com/rmies/monad) -Haskell以Elixir时尚的语法启发了Monad.
 * [monadex](https://github.com/rob-brown/MonadEx) -使用Monad升级Elixir管道.
@@ -337,7 +337,7 @@
 * [ratatouille](https://github.com/ndreynolds/ratatouille) -用于Elixir的TUI（终端UI）套件.
 * [scribe](https://github.com/codedge-llc/scribe)  -Elixir结构和地图的漂亮印刷表格.  受hirb启发.
 * [table_rex](https://github.com/djm/table_rex) -生成用于显示的可配置ASCII样式表.
-* [tabula](https://github.com/aerosol/tabula) -ASCII表中的Ecto查询结果/地图的漂亮打印列表（GitHub Markdown / OrgMode）.
+* [tabula](https://github.com/aerosol/tabula) -漂亮的Ecto查询结果/ ascii表中的地图打印列表（GitHub Markdown / OrgMode）.
 
 ## Configuration
 *使用配置的库和工具*
@@ -597,7 +597,7 @@
 * [cors_plug](https://github.com/mschae/cors_plug) -一个Elixir插件，它将CORS标头添加到请求并响应预检请求（OPTIONS）.
 * [corsica](https://github.com/whatyouhide/corsica) -Elixir库，用于处理CORS请求.
 * [crudex](https://github.com/bitgamma/crudex) -Phoenix和Ecto的CRUD实用程序.
-* [dayron](https://github.com/inaka/Dayron) -与`Ecto.Repo`的存储库_like_，可用于REST API请求而不是数据库.
+* [dayron](https://github.com/inaka/Dayron) -与`Ecto.Repo`相似的存储库，与REST API请求一起使用，而不是与数据库一起使用.
 * [ex_admin](https://github.com/smpallen99/ex_admin) -ExAdmin是Elixir和Phoenix框架的自动管理软件包.
 * [exdjango](https://github.com/nicksanders/exdjango) -一些用于django的elixir库.
 * [exrecaptcha](https://github.com/adanselm/exrecaptcha) -针对Elixir应用程序的简单reCaptcha显示/验证代码.
@@ -613,7 +613,7 @@
 * [phoenix_haml](https://github.com/chrismccord/phoenix_haml) -Haml的Phoenix模板引擎.
 * [phoenix_html](https://github.com/phoenixframework/phoenix_html) -Phoenix.HTML函数，用于处理HTML字符串和模板.
 * [phoenix_html_sanitizer](https://github.com/elixirstatus/phoenix_html_sanitizer) -用于Phoenix的HTML Sanitizer集成.
-* [phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) -phoenix html的一些帮助程序（截断，time_ago_in_words，number_with_delimiter）.
+* [phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) -凤凰html的一些帮助程序（截断，time_ago_in_words，number_with_delimiter）.
 * [phoenix_linguist](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
 * [phoenix_live_reload](https://github.com/phoenixframework/phoenix_live_reload) -为Phoenix提供实时重新加载功能.
 * [phoenix_meta_tags](https://github.com/hlongvu/phoenix_meta_tags) -生成网站的元标记.
@@ -650,7 +650,7 @@
 * [raygun](https://github.com/cobenian/raygun) -捕获错误并将其发送给Raygun.
 * [react_phoenix](https://github.com/geolessel/react-phoenix) -在Phoenix视图中渲染React.js组件，重点是易于安装和与Brunch兼容.
 * [recaptcha](https://github.com/samueljseay/recaptcha) -用于Elixir应用程序的简单reCaptcha 2库.
-* [resin](https://github.com/Frost/resin) -树脂是一种插件，除非正在生产中运行，否则它将为通过它的每个请求增加可配置的延迟.
+* [resin](https://github.com/Frost/resin) -树脂是一种插件，除非在生产环境中运行，否则它将为通过它的每个请求增加可配置的延迟.
 * [revision_plate_ex](https://github.com/KazuCocoa/revision_plate_ex) -为端点提供服务的插件应用程序和中间件将返回应用程序的REVISION.
 * [rummage_ecto](https://github.com/Excipients/rummage_ecto) -用于搜索，排序和分页Ecto查询的可配置框架.
 * [rummage_phoenix](https://github.com/Excipients/rummage_phoenix) -在Phoenix中使用HTML支持的用于搜索，排序和分页模型的支持框架.
@@ -876,7 +876,7 @@
 ## Macros
  *宏，可以更快，更轻松地进行开发.  糖为您的代码.*
 
-* [anaphora](https://github.com/sviridov/anaphora-elixir)  -照应是Elixir的照应宏集合.  照应宏是从提供给宏的形式中故意捕获变量（通常是变量）的宏.
+* [anaphora](https://github.com/sviridov/anaphora-elixir)  -照应是Elixir的照应宏集合.  照应宏是一种故意从提供给宏的形式中捕获变量（通常是变量）的宏.
 * [apix](https://github.com/liveforeverx/apix) -简单的约定和DSL，用于将e剂功能转换为API，以用于以后的文档和/或验证.
 * [backports](https://github.com/leifg/backports) -在Elixir 1.1和1.2中使用新功能.
 * [crudry](https://github.com/gabrielpra1/crudry) -Crudry是Elixir库，用于Phoenix Contexts和Absinthe Resolvers的CRYING CRUD.
@@ -907,7 +907,7 @@
 * [discount](https://github.com/asaaki/discount.ex) -折扣Elixir NIF，Markdown解析器.
 * [earmark](https://github.com/pragdave/earmark) -Elixir的Markdown解析器.
 * [Markdown](https://github.com/devinus/markdown) -完全实现为与Hoedown库的NIF绑定.
-* [Pandex](https://github.com/filterkaapi/pandex)  -Pandoc的轻质长生不老药包装纸.  将Markdown，CommonMark，HTML，Latex，HTML，HTML5，opendocument，rtf，texttile，asciidoc相互转换.
+* [Pandex](https://github.com/filterkaapi/pandex)  -Pandoc的轻质长生不老药包装纸.  将Markdown，CommonMark，HTML，Latex，HTML，HTML5，opendocument，rtf，texttile和asciidoc相互转换.
 
 ## Miscellaneous
 *不属于上述类别的有用的库或工具.*
@@ -954,7 +954,7 @@
 * [netrc](https://github.com/ma2gedev/netrcex) -读取Elixir中实现的netrc文件.
 * [notifier](https://hex.pm/packages/notifier) -用于桌面通知的可插拔体系结构.
 * [onetime](https://github.com/ryo33/onetime-elixir) -Elixir的一次性键值存储.
-* [pact](https://github.com/BlakeWilliams/pact) -在Elixir中更好的依赖注入，以实现更干净的代码和测试.
+* [pact](https://github.com/BlakeWilliams/pact) -在Elixir中进行更好的依赖注入，以实现更干净的代码和测试.
 * [phone](https://github.com/fcevado/phone) -解析器，可从电话号码中获取有用的信息.
 * [porcelain](https://github.com/alco/porcelain) -瓷器采用了更明智的方法来启动Elixir的外部OS进程并与之进行通信.
 * [presentex](https://github.com/Cobenian/Presentex) -基于HTML / JavaScript的Elixir演示框架.
@@ -1369,7 +1369,7 @@
 * [monetized](https://github.com/theocodes/monetized) -用于处理和存储资金的轻型解决方案.
 * [money](https://github.com/liuggio/money) -使用Money可以更安全，更轻松，更有趣地解释Fowler&#39;s Money模式.
 * [mt940](https://github.com/my-flow/mt940) -Elixir的MT940（标准结构化SWIFT客户声明消息）解析器.
-* [nanoid](https://github.com/railsmechanic/nanoid) -NanoID的Elixir端口，NanoID是一种安全且对URL友好的唯一ID生成器.
+* [nanoid](https://github.com/railsmechanic/nanoid) -NanoID的Elixir端口，这是一个安全且易于访问URL的唯一ID生成器.
 * [neotomex](https://github.com/jtmoulia/neotomex) - 一个 [PEG](http://bford.info/packrat/) 令人愉快的Elixir DSL实现.
 * [number](https://github.com/danielberkompas/number) -Number是一个自命不凡的Elixir库，它提供了将数字转换为各种不同格式的功能.
 * [numero](https://github.com/alisinabh/numero) -用于在e剂中转换非英语utf-8数字的微型库.
@@ -1551,7 +1551,7 @@
 * [mandrake](https://github.com/mbasso/mandrake) -Mandrake是一个功能编程库，可为长生不老药带来其他魔力.
 * [mnemonix](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.
 * [plasm](https://github.com/facto/plasm) -Plasm是Ecto的可组合查询多功能工具，包含更高级别的函数，例如.count，.random，.first，.last，.find，.inserted_before，.inserted_after等.
-* [pubsub](https://github.com/simonewebdesign/elixir_pubsub) -发布-订阅实用程序库，它实现了发布-订阅机制以减轻业务逻辑流程上的通信负担.
+* [pubsub](https://github.com/simonewebdesign/elixir_pubsub) -发布-订阅实用程序库，它实现了发布-订阅机制，以减轻业务逻辑流程上的通信负担.
 * [quark](https://github.com/robot-overlord/quark) -一个用于常见函数式编程习惯的库：组合器，currying和部分应用程序.
 * [retry](https://github.com/safwank/ElixirRetry) -简单的Elixir宏，可进行线性重试，指数退避并等待可组合的延迟.
 * [sips_downloader](https://github.com/DavsX/SipsDownloader) -Elixir模块，用于下载ElixirSips情节和所有其他文件.
@@ -1629,11 +1629,11 @@
 * [Phoenix for Rails Developers](http://www.phoenixforrailsdevelopers.com)  -本书展示了Rails开发人员如何从他们现有的知识中受益以学习Phoenix.  艾尔维奥·维科萨（Elvio Vicosa）（2017）.
 * [Phoenix in Action](https://manning.com/books/phoenix-in-action)  -利用您现有的Web开发技能，教您Phoenix的独特优势以及足够的Elixir来完成工作.  杰弗里·莱瑟尔（Geoffrey Lessel）（2017）.
 * [Phoenix Inside Out](https://shankardevy.com/phoenix-book/)  -本系列的目标是使您成为有信心的Phoenix开发人员.  有3种不同的版本，可以满足进入Phoenix的开发人员的各种需求.
-* [Programming Elixir](https://pragprog.com/book/elixir/programming-elixir) -本书由Dave Thomas（2014）提供了使用Elixir进行功能和并发编程的介绍.
-* [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix) -由Chris McCord，JoséValim和Bruce Tate撰写的使用Phoenix框架构建Web应用程序的权威指南（2015）.
+* [Programming Elixir 1.6](https://pragprog.com/titles/elixir16/) -本书由Dave Thomas（2014）提供了使用Elixir进行功能和并发编程的介绍.
+* [Programming Phoenix 1.4](https://pragprog.com/titles/phoenix14/) -由Chris McCord，JoséValim和Bruce Tate撰写的使用Phoenix框架构建Web应用程序的权威指南（2015）.
 * [The Beam Book](https://happi.github.io/theBeamBook/) -对Erlang运行时系统ERTS和虚拟机BEAM的描述.
 * [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) -Benjamin Tan Wei Hao（2014）通过中小型项目学习Elixir和OTP的书.
-* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) -J. David Eisenberg（2013）编写的在Elixir中进行编程的练习集（[Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
+* [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) -J. David Eisenberg（2013）编写的在Elixir中进行编程的练习集（[Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 
 ## Cheat Sheets
 *与Elixir有关的备忘单.

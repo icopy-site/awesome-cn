@@ -289,7 +289,7 @@
 - [userdialogs ★510](https://github.com/aritchie/userdialogs) -来自共享/便携式库的标准用户对话框.
 - [Version ★1](https://github.com/mtrinder/Xamarin.Plugins/tree/master/Version) -从捆绑包中获取应用版本.
 - [Xamarin.Badge ★33](https://github.com/B1naryStudio/Xamarin.Badge) -简单的跨平台插件，可与应用程序徽章一起使用.
-- [Xamarin.Essentials ★560](https://github.com/xamarin/Essentials)  -Xamarin团队针对iOS和Android的基本跨平台API.  提供以下方面的轻松访问或使用：加速度计，应用程序信息，电池，剪贴板，指南针，连接性，数据传输（共享），设备显示信息，设备信息，电子邮件，文件系统助手，手电筒，地理编码，地理位置，陀螺仪，磁力计，打开浏览器，方向传感器，电源，电话拨号器，首选项，屏幕锁定，安全存储，SMS，文本语音转换，版本跟踪，振动.
+- [Xamarin.Essentials ★560](https://github.com/xamarin/Essentials)  -Xamarin团队针对iOS和Android的基本跨平台API.  提供以下方面的便捷访问或使用：加速度计，应用程序信息，电池，剪贴板，指南针，连接性，数据传输（共享），设备显示信息，设备信息，电子邮件，文件系统助手，手电筒，地理编码，地理位置，陀螺仪，磁力计，打开浏览器，方向传感器，电源，电话拨号器，首选项，屏幕锁定，安全存储，SMS，文本语音转换，版本跟踪，振动.
 - [Xamarin.LocalNotifications ★40](https://github.com/B1naryStudio/Xamarin.LocalNotifications) -简单的跨平台插件，可用于移动本地通知.
 - [Xamarin.Mobile ★237](https://github.com/xamarin/Xamarin.Mobile) -阅读用户的通讯录并使用相机.
 - [Xamarin-plugins ★39](https://github.com/domaven/xamarin-plugins) -设备运动，地理围栏，推送通知（测试版）.
@@ -309,6 +309,7 @@
 - [Planet Xamarin](https://www.planetxamarin.com)  -Xamarin社区成员的内容汇总者.  当您可以订阅一个便捷的RSS feed时，为什么还要单独订阅？  如果您不喜欢RSS，请按照 [Twitter](https://twitter.com/PlanetXamarin) 要么 [Facebook](https://www.facebook.com/planetxamarin/) accounts which are automatically updated with the latest content from the community.
 - [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) -用于学习Xamarin的精选资源列表.
 - [Weekly Xamarin](http://weeklyxamarin.com)  -每周精选最佳Xamarin开发链接.  由杰弗里·亨特利（Geoffrey Huntley）策划，每个星期五出版.  自由.
+- [Xamarin Online Courses](https://classpert.com/xamarin) -Classpert在线课程搜索中60多种在线课程（免费和付费）的列表.
 
 
 ## License

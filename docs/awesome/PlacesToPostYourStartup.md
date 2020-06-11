@@ -43,7 +43,6 @@
 *应用列表-http://appslisto.com/submit-your-app/
 * Apps Mommy-http://appsmamma.com/submit-your-app/
 *应用程序镜像-http://www.appsmirror.com/submit-your-app-for-review
-* AppsNow-http://appsnow.us/submit-app-for-review/
 * AppsThunder-http://appsthunder.com/submit-your-app/
 * AppStorm-http://appstorm.net/
 * Appvita-http://www.appvita.com/
@@ -52,7 +51,7 @@
 * Beta绑定-http://www.betabound.com/announce/
 * Beta页-https://betapage.co/
 * Betafy-https://www.betafy.co/easysignup/startup
-* BetaList-https://betalist.com/submit
+* BetaList - https://betalist.com/submit
 *更好的测试-https://beterest.com/submit-startup/
 * Boing Boing-http://boingboing.net/sub/
 * Broadwise.org - https://broadwise.org/
@@ -87,7 +86,6 @@
 *下一步启动-http://www.launchingnext.com/submit/
 *循环-https://app.loopinput.com/ 
 * MakeUseOf-http://www.makeuseof.com/about/
-* Maqtoob-https://maqtoob.com/submit-a-tool
 *动员-https://www.moblized.com/vendors/register
 *网状-https://www.netted.net/contact-us/
 *下一大产品-http://nextbigproduct.net/product-submission/
@@ -103,6 +101,7 @@
 * Robingood-http：//tools.robingood.com/
 *订阅-https://www.saashub.com/
 *萨斯化-https://saasified.co
+* Saijo的工具列表-https://saijogeorge.com/best-marketing-tools/
 *显示HN-https://news.ycombinator.com/showhn.html
 *侧面投影仪-https://www.sideprojectors.com
 * SideProjects-https://sideprojects.net

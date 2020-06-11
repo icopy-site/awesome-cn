@@ -74,7 +74,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
  -我们有一个聊天室！  这应该是您与其他OSSU学生交谈的第一站.  您为什么现在不自我介绍？ [Join the chat in Gitter](https://gitter.im/open-source-society/computer-science) [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
 -您也可以通过 [GitHub issues](https://github.com/ossu/computer-science/issues) .  如果课程有问题，或者需要对课程进行更改，这是开始对话的地方.  阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
 -将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 轮廓！
- -注意：在搜索OSSU时，可能会找到一个未维护且已弃用的Firebase应用程序.  您可以放心地忽略它.  阅读更多 [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
+ -注意：在搜索OSSU时，您可能会找到一个未维护且已弃用的Firebase应用程序.  您可以放心地忽略它.  阅读更多 [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
 ## Curriculum
 
@@ -113,7 +113,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ### Introduction to Computer Science
 
- 本课程将向您介绍计算机科学领域.  从以上课程或其他地方学习过编程的学生，都应选修本课程，以期掌握各种材料.  如果您想要完成更多的课程，计算机科学很可能适合您！
+ 本课程将向您介绍计算机科学领域.  从以上课程或其他地方学习过编程的学生，都应选修本课程，以获取丰富的材料.  如果您想要完成更多的课程，计算机科学很可能适合您！
 
 **涵盖的主题**：
 `computation`
@@ -405,7 +405,7 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得专业化课程，但并非所有人都允许这样做.
 
  课程  持续时间|  努力  先决条件
 :-- | :--: | :--: | :--:
@@ -466,7 +466,7 @@ or
 我的朋友，这是自由的最好部分！
 您可以使用要完成最终项目的任何语言.
 
-重要的是要“内化”核心概念，并使其能够与所需的任何工具（编程语言）一起使用.
+重要的是“内部化”核心概念，并能够将其与所需的任何工具（编程语言）一起使用.
 
 ## Congratulations
 
@@ -490,7 +490,7 @@ or
 ## How to show your progress
 
 1.在中创建一个帐户 [Trello](https://trello.com/).
-1.复制 [this](https://trello.com/b/7NIfi40X) 登上您的个人帐户.
+1.复制 [this](https://trello.com/b/IScNSzsI/ossu-compsci) 登上您的个人帐户.
 了解如何复制木板 [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 现在您已经有了我们的官方董事会的副本，您只需在学习过程中将卡片传递到“正在做”或“完成”栏中即可.
@@ -500,7 +500,7 @@ or
 
 -“主课程”：带有该标签的卡片代表了我们课程中列出的课程.
 -“额外资源”：带有该标签的卡片代表该学生添加的课程.
--“正在做”：带有该标签的卡片代表该学生当前正在做的课程.
+-正在执行：带有该标签的卡片代表该学生当前正在从事的课程.
 -“完成”：带有该标签的卡片代表该学生完成的课程.
 这些卡片还应具有至少一个项目/文章的链接，该项目/文章应使用在该课程中获得的知识来构建.
 -`Section`：带有标签的卡片代表了我们课程中的部分.

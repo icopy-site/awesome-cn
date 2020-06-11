@@ -14,7 +14,7 @@
 
 ## Books
 - [The Art, Science, and Engineering of Fuzzing: A Survey](https://ieeexplore.ieee.org/document/8863940) (2019) - 
-实际上，该文档是论文，但它包含的内容比任何其他书籍都重要和重要.
+实际上，该文档是一篇论文，但它包含的内容比任何其他书籍都重要和重要.
 - [Fuzzing for Software Security Testing and Quality Assurance, 2nd Edition](https://www.amazon.com/Fuzzing-Software-Security-Testing-Assurance/dp/1608078507/) (2018)
 - [Fuzzing: Brute Force Vulnerability Discovery, 1st Edition](https://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119/) (2007)
 - [Open Source Fuzzing Tools, 1st Edition](https://www.amazon.com/Open-Source-Fuzzing-Tools-Rathaus/dp/1597491950/) (2007)
@@ -27,7 +27,7 @@
 
 ## Papers
 为了达到明确的范围，我选择将有关绒毛的出版物纳入最后的4篇论文集.
-从2008年1月到2019年7月举行的主要安全会议等.
+从2008年1月到2019年7月的主要安全会议和其他会议.
 它包括（i）网络和分布式系统安全研讨会（NDSS），（ii）IEEE研讨会
 安全和隐私（S＆P），（iii）USENIX安全研讨会（USEC），以及（iv）ACM计算机和通信安全（CCS）会议.
 
@@ -53,6 +53,11 @@
 
 
 ### IEEE Symposium on Security and Privacy (IEEE S&P)
+- [Fuzzing JavaScript Engines with Aspect-preserving Mutation, 2020](https://jakkdu.github.io/pubs/2020/park:die.pdf)
+- [IJON: Exploring Deep State Spaces via Fuzzing, 2020](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/27/IJON-Oakland20.pdf)
+- [Krace: Data Race Fuzzing for Kernel File Systems, 2020](https://www.cc.gatech.edu/~mxu80/pubs/xu:krace.pdf)
+- [Pangolin:Incremental Hybrid Fuzzing with Polyhedral Path Abstraction, 2020](https://qingkaishi.github.io/public_pdfs/SP2020.pdf)
+- [RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization, 2020](https://www.semanticscholar.org/paper/RetroWrite%3A-Statically-Instrumenting-COTS-Binaries-Dinesh-Burow/845cafb153b0e4b9943c6d9b6a7e42c14845a0d6)
 - [Full-speed Fuzzing: Reducing Fuzzing Overhead through Coverage-guided Tracing, 2019](https://www.computer.org/csdl/proceedings-article/sp/2019/666000b122/19skgbGVFEQ)
 - [Fuzzing File Systems via Two-Dimensional Input Space Exploration, 2019](https://www.computer.org/csdl/proceedings-article/sp/2019/666000a594/19skfLYOpaw)
 - [NEUZZ: Efficient Fuzzing with Neural Program Smoothing, 2019](https://www.computer.org/csdl/proceedings-article/sp/2019/666000a900/19skg5XghG0)
@@ -134,7 +139,7 @@
 - [radamsa](https://gitlab.com/akihe/radamsa) -通用模糊器.
 - [zzuf](https://github.com/samhocevar/zzuf) -透明的应用程序输入模糊器.
 ### Binary
-- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) -面向安全的模糊器，采用新型的编译时工具和遗传算法自动发现干净有趣的测试用例，这些用例会触发目标二进制文件中的新内部状态. 
+- [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) -面向安全的模糊器，采用新型的编译时检测和遗传算法自动发现干净有趣的测试用例，这些用例会触发目标二进制文件中的新内部状态. 
 - [WinAFL](https://github.com/googleprojectzero/winafl) -AFL的一个分支，用于模糊Windows二进制文件.
 - [libFuzzer](http://llvm.org/docs/LibFuzzer.html) -用于覆盖率指导的模糊测试的库. [Tutorial from Google.](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md)
 - [Driller](https://github.com/shellphish/driller) -实现 [driller paper](https://www.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf) .  此实现基于AFL构建，其中angr用作符号跟踪器.
@@ -144,7 +149,7 @@
 - [jsfunfuzz](https://github.com/MozillaSecurity/funfuzz) -JavaScript引擎模糊器.
 - [IFuzzer](https://github.com/vspandan/IFuzzer) -使用遗传编程的进化解释器模糊器.
 - [domato](https://github.com/googleprojectzero/domato) -来自的DOM模糊器 [Google Project Zero](https://github.com/googleprojectzero). [Blog Post.](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)
-- [fuzzilli](https://github.com/googleprojectzero/fuzzilli) -由SamuelGroß编写的（覆盖率）导向的Javascript引擎模糊器.
+- [fuzzilli](https://github.com/googleprojectzero/fuzzilli) -由SamuelGroß编写的（覆盖）向导Javascript引擎模糊器.
 - [CodeAlchemist](https://github.com/SoftSec-KAIST/CodeAlchemist) -由KAIST SoftSec Lab编写的JavaScript引擎模糊器.
 - [test-each](https://github.com/ehmicky/test-each) -使用不同的输入重复测试.
 - [gremlins.js](https://github.com/marmelab/gremlins.js) -gremlins.js是用JavaScript编写的猴子测试库.

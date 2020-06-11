@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
-A curated list of delightful [PowerShell](https://en.wikipedia.org/wiki/PowerShell) 包和资源.
+精选的令人愉快的清单 [PowerShell](https://en.wikipedia.org/wiki/PowerShell) 包和资源.
 
 PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，已针对处理结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
 它包括命令行外壳程序和关联的脚本语言.
@@ -24,7 +24,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [JiraPS](https://atlassianps.org/module/JiraPS/) -在Powershell中与Atlassian的Jira进行交互的模块（通过使用API​​）.
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) -电报API模块
 * [PSTeams](https://github.com/EvotecIT/PSTeams) -用于将格式化的消息发送到Microsoft Teams Channel的模块.
-* [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) -用于 [urlscan.io](https://urlscan.io/) 这是一项扫描和分析网站的服务.
+* [PSURLScanio](https://github.com/sysgoblin/PSURLScanio) - A module for [urlscan.io](https://urlscan.io/) 这是一项扫描和分析网站的服务.
 
 ## Blogs
 
@@ -41,7 +41,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [Exploring PowerShell Automation](https://www.manning.com/books/exploring-powershell-automation) -一个免费的电子书采样器，概述了如何管理您的环境.
 * [PowerShell in Depth](https://www.manning.com/books/powershell-in-depth)  -管理员参考.  解释和演示了每种主要的Shell技术，技术和策略，为管理员在Shell中所做的几乎所有工作提供了全面的参考.
 * [Windows PowerShell in Action, Third Edition](https://www.manning.com/books/windows-powershell-in-action-third-edition) -综合参考指南的最新版本.
-* [Learn Windows PowerShell in a Month of Lunches, Third Edition](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition)  -专为繁忙的IT专业人员设计的创新教程.  每天只需留出一个小时-午餐时间将是一个完美的选择-一个月，您将以前所未有的速度自动化Windows任务.
+* [Learn Windows PowerShell in a Month of Lunches, Third Edition](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition)  -专为繁忙的IT专业人员设计的创新教程.  每天只需留出一个小时-午餐时间将是一个完美的-一个月，您将以前所未有的速度自动化Windows任务.
 * [Learn PowerShell in a Month of Lunches, Linux and macOS Edition](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches-linux-and-macos-edition) -以任务为中心的教程，用于使用Microsoft PowerShell管理Linux和macOS系统.
 * [Learn PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches) -有关开发，测试和部署脚本的过程以及工具制作技巧的指南.
 * [The Monad Manifesto, Annotated - Jeffrey Snover](https://leanpub.com/s/4W-ob-YDw2LE2aSMyosCtA.pdf) -语言创建者背后的设计和理论.
@@ -65,6 +65,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 * [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories)  -寻找开放源代码PowerShell项目？  可能在这里.
 * [PowerShell Gallery](https://www.powershellgallery.com/) -官方的PowerShell软件包存储库，由PowerShellGet使用.
+* [PowerShell Test Gallery](https://poshtestgallery.com/)  -PowerShell Gallery的测试版本.  在开发新模块时很有用.
 
 ## Commandline Productivity
 
@@ -74,7 +75,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [Jump-Location](https://github.com/tkellogg/Jump-Location) -可以读懂您想法的PowerShell`cd`. [Autojump](https://github.com/wting/autojump) PowerShell的实施.
 * [Zlocation](https://github.com/vors/ZLocation) * [z.sh](https://github.com/rupa/z)  PowerShell的实施.  类似于跳转位置.
 * [thefuck](https://github.com/nvbn/thefuck) -宏伟的应用程序，可纠正您以前的控制台命令（通过输入“ fuck”）.
-* [pslinq](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for PowerShell.
+* [pslinq](https://github.com/manojlds/pslinq) -用于PowerShell的LINQ（LINQ2Objects）.
 * [posh-with](https://github.com/JanJoris/posh-with) -使用单个工具进行连续工作流的命令前缀.
 * [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)* [peco](https://github.com/peco/peco)  实施.  交互式过滤工具.
 * [PSDirTag](https://github.com/wtjones/PSDirTag)  -DirTag是相对路径，在PowerShell提示中显示为变量，并在您浏览时进行更新.  浏览文件夹结构时，保存击键.
@@ -175,7 +176,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 * [PowerShell Unplugged with Jeffrey Snover and Don Jones Ignite 2017](https://www.youtube.com/watch?v=D15vh-ryJGk)  -PowerShell的发明者谈论“可帮助您自动化和管理混合云的最新，最酷的PowerShell功能”.  专注于PowerShell社区.
 * [Getting Started With PowerShell 3.0 Jump Start](https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-30-jump-start-8276) -快速入门系列适用于以前没有使用PowerShell的IT专业人员，并且希望快速学习它.
-* [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) -IT专业人员，请学习高级PowerShell课程，以了解如何将实时管理和自动化脚本转换为有用的可重用工具和cmdlet.
+* [Advanced Tools & Scripting with PowerShell 3.0](https://channel9.msdn.com/Series/advpowershell3) -IT专业人员，请参加此高级PowerShell课程，以了解如何将实时管理和自动化脚本转换为有用的可重用工具和cmdlet.
 * [What's New in PowerShell v5](https://mva.microsoft.com/en-US/training-courses/whats-new-in-powershell-v5-16434) -通过描述PowerShell版本5.0中一些令人兴奋的新功能.
 * [PowerShell Open Source Project](https://channel9.msdn.com/series/PowerShell-Open-Source-Project) -视频集全面演示了PowerShell开源项目如何在Linux上运行.
 * [PowerShell on Linux and Open Source](https://channel9.msdn.com/Blogs/hybrid-it-management/PowerShell-on-Linux-and-Open-Source) -PowerShell开源项目及其在Linux上的运行方式的简要介绍.
@@ -193,7 +194,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 
 ## Webserver
 
-* [Flancy](https://github.com/toenuff/flancy) -Windows PowerShell的Web微框架.
+* [Flancy](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell.
 * [Pode](https://github.com/Badgerati/Pode) -Pode是一个跨平台PowerShell框架，用于创建Web服务器以托管REST API，网站和TCP / SMTP服务器.
 * [Polaris](https://github.com/PowerShell/Polaris) -适用于PowerShell的跨平台，简约的Web框架.
 * [WebCommander](https://github.com/vmware/webcommander) -在友好的Web GUI或通过Web服务运行脚本并查看结果.

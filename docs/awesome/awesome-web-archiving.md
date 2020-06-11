@@ -13,15 +13,13 @@
   * [What is a web archive?](https://youtu.be/ubDHY-ynWi0) -来自的视频 [the UK Web Archive YouTube Channel](https://www.youtube.com/channel/UCJukhTSw8VRj-VNTpBcqWkw)
   * [Wikipedia's List of Web Archiving Initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
   * [Glossary of Archive-It and Web Archiving Terms](https://support.archive-it.org/hc/en-us/articles/208111686-Glossary-of-Archive-It-and-Web-Archiving-Terms)
-  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  -Web归档生命周期模型是试图将Web归档的技术和程序臂纳入一个框架，该框架与任何寻求从Web归档内容的组织都有关.  来自Internet Archive的Web归档服务Archive-It根据其与世界各地存储机构的合作开发了该模型.
+  * [The Web Archiving Lifecycle Model](https://archive-it.org/blog/post/announcing-the-web-archiving-life-cycle-model/)  -Web归档生命周期模型是一种尝试，它将Web归档的技术和程序臂纳入了一个框架，该框架与任何寻求从Web归档内容的组织都有关.  来自Internet Archive的Web归档服务Archive-It根据其与世界各地存储机构的合作开发了该模型.
 * WARC标准：
   * [warc-specifications](https://iipc.github.io/warc-specifications/) 官方规范的社区HTML版本和新提案的中心.
   * [offical ISO 28500 WARC specification homepage](http://bibnum.bnf.fr/WARC/).
 *对于使用网络档案的研究人员：
   * [GLAM Workbench: Web Archives](https://glam-workbench.github.io/web-archives/) - 也可以看看 [this related blog post on 'Asking questions with web archives'](https://netpreserveblog.wordpress.com/2020/05/28/asking-questions-with-web-archives/).
-  * [Archives Unleashed Toolkit documentation](https://github.com/archivesunleashed/aut-docs)
-  * [warcbase workshop](https://github.com/web-archive-group/warcbase_workshop_vagrant)
-
+  * [Archives Unleashed Toolkit documentation](https://aut.docs.archivesunleashed.org/)
 
 ## Resources for Web Publishers
 
@@ -40,7 +38,7 @@
 
 ### Acquisition
 
-* [ArchiveBox](https://github.com/pirate/ArchiveBox)  -使用wget，chrome无头浏览器和其他方法（以前称为“书签存档器”）维护RSS提要，书签和链接的附加存档的工具.  *（开发中）*
+* [ArchiveBox](https://github.com/pirate/ArchiveBox)  -使用wget，chrome无头浏览器和其他方法（以前称为“书签存档器”）从RSS feed，书签和链接维护附加存档的工具.  *（开发中）*
 * [archivenow](https://github.com/oduwsdl/archivenow) - 一个 [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html)  将网络资源推送到按需网络存档中.  *（稳定）*
 * [Brozzler](https://github.com/internetarchive/brozzler)  -使用实际浏览器（Chrome或Chrome）的分布式Web爬虫（爬虫），以获取页面和嵌入的URL并提取链接.  *（稳定）*
 * [Chronicler](https://github.com/CGamesPlay/chronicler)  -具有记录和重放功能的Web浏览器.  *（开发中）*

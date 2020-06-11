@@ -325,7 +325,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/) -VS Code是一种新型工具，结合了代码编辑器的简单性和开发人员对其核心edit-build-debug周期的需求
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) -用于Visual Studio Code的LöveLauncher扩展
 	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) -在VSCode中为Lua提供Intellisense和Linting
-
+    * [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode)  -没有依赖性的简单Lua调试器.  提供了特定的launch.json示例.
 * [Sublime Text](https://www.sublimetext.com)  -Sublime Text是用于代码，标记和散文的高级文本编辑器.  您会喜欢光滑的用户界面，非凡的功能和出色的性能.
 	* [Package Manager](https://packagecontrol.io/) -Sublime Text软件包管理器，使查找，安装和保持软件包最新非常容易.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) -支持语法突出显示，自动完成和构建系统.

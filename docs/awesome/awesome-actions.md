@@ -117,7 +117,7 @@
 
 ### Collection of Actions
 
-- [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
+- [Use HashiCorp's Terraform](https://github.com/hashicorp/setup-terraform)
 - [GitHub Actions for Yarn 1](https://github.com/Borales/actions-yarn)
 - [GitHub Actions for Yarn 2](https://github.com/sergioramos/yarn-actions)
 - [GitHub Actions for Golang](https://github.com/cedrickring/golang-action)

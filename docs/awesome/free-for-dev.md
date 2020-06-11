@@ -81,7 +81,7 @@
     *完整的详细列表-https://www.ibm.com/cloud/free/
 
   * [Alibaba Cloud](https://www.alibabacloud.com/campaign/free-trial)
-    * Compute - 1 ecs.t5-lc1m1.small for 12 months with 40 GB ultra cloud disk or SSD disk and 1 MB internet bandwidth.
+    *计算-1个ecs.t5-lc1m1.small，使用40 GB的超级云磁盘或SSD磁盘和1 MB的互联网带宽，持续12个月.
     *函数计算-每月免费通话100万次，每月免费通话40万GB-秒
     * API网关-激活API网关的第一年，每月可获得100万次免费呼叫.
     * .tech域名-一年免费使用
@@ -172,6 +172,7 @@
  * [cloudsmith.io](https://cloudsmith.io)  —适用于Java / Maven，RedHat，Debian，Python，Ruby，Vagrant +的简单，安全和集中的存储库服务.  免费套餐+免费开源.
  * [jitpack.io](https://jitpack.io/) — GitHub上的JVM和Android项目的Maven存储库，公共项目免费.
  * [packagecloud.io](https://packagecloud.io) —易于使用的存储库托管，用于：Maven，RPM，DEB，PyPi和RubyGem软件包（具有免费层）.
+ * [repsy.io](https://repsy.io) — 1 GB的免费私有/公共Maven存储库.
 
 ## Tools for Teams and Collaboration
 
@@ -391,7 +392,7 @@
 ## Monitoring
 
   * [apimetrics.io](https://apimetrics.io/)  —自动化的API性能监控，测试和分析.  免费计划，手动进行API调用并从其西海岸服务器运行
-  * [appdynamics.com](https://www.appdynamics.com/) — Free for 24 hours metrics, application performance management agents limited to one Java, one .NET, one PHP and one Node.js
+  * [appdynamics.com](https://www.appdynamics.com/) —免费提供24小时指标，应用程序性能管理代理限于一种Java，一种.NET，一种PHP和一种Node.js
   * [appneta.com](https://www.appneta.com/) — 1小时数据保留免费
   * [assertible.com](https://assertible.com)  —自动化的API测试和监视.  为团队和个人提供免费计划.
   * [bearer.sh](https://www.bearer.sh)  -自动监视API请求，跟踪性能，检测异常并解决关键API使用情况方面的问题.  使用1行代码免费安装Bearer Agent.
@@ -487,7 +488,7 @@
   * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
   * [Yandex.Connect](https://connect.yandex.com/pdd/) —最多可容纳1,000位用户的免费电子邮件和DNS托管
   * [yopmail.fr](http://www.yopmail.fr/en/) —一次性电子邮件地址
-  * [zoho.com](https://www.zoho.com/mail/) —最多5个用户的免费Webmail和协作
+  * [zoho.com](https://www.zoho.com/mail/) — Free Webmail and collaboration for up to 5 users
   * [SimpleLogin](https://simplelogin.io/)  –开源，可自行托管的电子邮件别名/转发解决方案.  免费提供5种别名，无限带宽，无限答复/发送.  教育人员（学生，研究人员等）免费.
 
 ## Font
@@ -581,7 +582,7 @@
   * [pushbots.com](https://pushbots.com/)  —推送通知服务.  每月免费进行150万次推送
   * [pushcrew.com](https://pushcrew.com/)  —推送通知服务.  无限通知，最多2000个订户
   * [pusher.com](https://pusher.com/beams)  -2000个月活跃用户的免费，无限制推送通知.  适用于iOS和Android设备的单个API.
-  * [pushtechnology.com](https://www.pushtechnology.com/) — Real-time Messaging for browsers, smartphones and everyone. 100 concurrent connections. Free 10 GB data/month
+  * [pushtechnology.com](https://www.pushtechnology.com/)  —用于浏览器，智能手机和所有人的实时消息传递.  100个并发连接.  每月免费10 GB数据
   * [quickblox.com](https://quickblox.com/) —用于即时消息传递，视频和语音呼叫以及推送通知的通信后端
   * [simperium.com](https://simperium.com/)  —即时，自动，多平台，无限制地发送和存储结构化数据，最大程度地移动数据.  2500个用户/月
   * [stackstorm.com](https://stackstorm.com/) —由事件驱动的应用程序，服务和工作流自动化，无流量，访问控制，LDAP，无...
@@ -826,7 +827,7 @@
    * [codesandbox.io](https://codesandbox.io/) —用于React，Vue，Angular，Preact等的在线游乐场.
    * [Eclipse Che](https://www.eclipse.org/che/)  -基于Web和Kubernetes-Native IDE的开发人员团队，具有多语言支持.  开源和社区驱动.  托管版本位于： [che.openshift.io](https://che.openshift.io/)
    * [fakejson.com](https://fakejson.com/)  — FakeJSON可帮助您使用其API快速生成伪造数据.  发出一个API请求，描述您想要的东西和想要的方式.  API以JSON返回所有内容.  加快进入市场的过程，寻找创意，并进行伪造，直到实现为止.
-   * [gitpod.io](https://www.gitpod.io)  —用于GitHub项目的即时，可编写代码的开发环境.  免费开源.
+   * [gitpod.io](https://www.gitpod.io) — Instant, ready-to-code dev environments for GitHub projects. Free for open source.
    * [ide.goorm.io](https://ide.goorm.io)  goormIDE是云上的完整IDE.  多语言支持，通过功能齐全的基于Web的终端，基于Linux的容器，端口转发，自定义URL，实时协作和聊天，共享链接，Git / Subversion支持.  还有更多功能（免费套餐包括每个容器1GB RAM和10GB存储空间，5个容器插槽）.
    * [JDoodle](https://www.jdoodle.com) —用于60多种编程语言的在线编译器和编辑器，并提供免费的REST API代码计划，每天最多可编译200学分.
    * [jetbrains.com](https://jetbrains.com/products.html) -生产力工具，IDE和部署工具（aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/) 等）.  为学生，教师，开源和用户组提供免费许可证.
@@ -901,7 +902,7 @@
 
 ## Vagrant Related
 
-  * [app.vagrantup.com](https://app.vagrantup.com)  -HashiCorp无业游民云.  无家可归的盒子托管.
+  * [app.vagrantup.com](https://app.vagrantup.com) - HashiCorp Vagrant Cloud. Vagrant box hosting.
   * [vagrantbox.es](https://www.vagrantbox.es/) —替代的公共信箱索引
 
 ## Dev Blogging Sites
