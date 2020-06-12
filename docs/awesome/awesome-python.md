@@ -74,7 +74,7 @@
 *用于实施身份验证方案的库.*
 
 * OAuth
-    * [authlib](https://github.com/lepture/authlib) -JavaScript对象签名和加密草案实施.
+    * [authlib](https://github.com/lepture/authlib) - JavaScript Object Signing and Encryption draft implementation.
     * [django-allauth](https://github.com/pennersr/django-allauth) -适用于Django的身份验证应用程序，“可正常使用”.
     * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) -适用于Django的OAuth 2好东西.
     * [oauthlib](https://github.com/idan/oauthlib) -OAuth请求签名逻辑的通用且全面的实现.
@@ -322,7 +322,7 @@
 
 *用于处理日期和时间的库.
 
-* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，提供了一种明智且人性化的方法来创建，处理，格式化和转换日期，时间和时间戳.
+* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，它提供了一种明智且人性化的方法来创建，操作，格式化和转换日期，时间和时间戳.
 * [Chronyk](https://github.com/KoffeinFlummi/Chronyk) -一个Python 3库，用于解析人类编写的时间和日期.
 * [dateutil](https://github.com/dateutil/dateutil) -对标准Python的扩展 [datetime](https://docs.python.org/3/library/datetime.html) 模块.
 * [delorean](https://github.com/myusuf3/delorean/) -一个库，用于清除与日期时间有关的不便事实.
@@ -377,17 +377,23 @@
 
 * DevOps的软件和库.
 
-* [ansible](https://github.com/ansible/ansible) -完全简单的IT自动化平台.
-* [cloudinit](https://cloudinit.readthedocs.io/en/latest/) -多分发包，用于处理云实例的早期初始化.
-* [cuisine](https://github.com/sebastien/cuisine) -织物的类似厨师的功能.
-* [docker-compose](https://docs.docker.com/compose/) -快速，隔离的开发环境，使用 [Docker](https://www.docker.com/).
-* [fabric](https://github.com/fabric/fabric) -用于远程执行和部署的简单Pythonic工具.
-* [fabtools](https://github.com/fabtools/fabtools) -编写很棒的Fabric文件的工具.
-* [honcho](https://github.com/nickstenning/honcho) -的Python克隆 [Foreman](https://github.com/ddollar/foreman)，用于管理基于Procfile的应用程序.
-* [OpenStack](https://www.openstack.org/) -用于构建私有和公共云的开源软件.
-* [pexpect](https://github.com/pexpect/pexpect) -在类似GNU的伪终端中控制交互式程序.
-* [psutil](https://github.com/giampaolo/psutil) -跨平台的流程和系统实用程序模块.
-* [supervisor](https://github.com/Supervisor/supervisor) -UNIX的主管过程控制系统.
+* 配置管理
+    * [ansible](https://github.com/ansible/ansible) -完全简单的IT自动化平台.
+    * [cloudinit](https://cloudinit.readthedocs.io/en/latest/) -多分发包，用于处理云实例的早期初始化.
+    * [OpenStack](https://www.openstack.org/) -用于构建私有和公共云的开源软件.
+* SSH样式的部署
+    * [fabric](https://github.com/fabric/fabric) -用于远程执行和部署的简单Pythonic工具.
+    * [fabtools](https://github.com/fabtools/fabtools) -编写很棒的Fabric文件的工具.
+    * [cuisine](https://github.com/sebastien/cuisine) -织物的类似厨师的功能.
+* 流程管理
+    * [supervisor](https://github.com/Supervisor/supervisor) -UNIX的主管过程控制系统.
+    * [honcho](https://github.com/nickstenning/honcho) -的Python克隆 [Foreman](https://github.com/ddollar/foreman)，用于管理基于Procfile的应用程序.
+*监控
+    * [psutil](https://github.com/giampaolo/psutil) -跨平台的流程和系统实用程序模块.
+*备份
+    * [BorgBackup](https://www.borgbackup.org/) -具有压缩和加密功能的重复数据删除存档器.
+* 其他
+    * [docker-compose](https://docs.docker.com/compose/) -快速，隔离的开发环境，使用 [Docker](https://www.docker.com/).
 
 ## Distributed Computing
 
@@ -551,7 +557,7 @@
 * [pywebview](https://github.com/r0x0r/pywebview/) -围绕Webview组件的轻型跨平台本机包装.
 * [Tkinter](https://wiki.python.org/moin/TkInter) -Tkinter是Python的事实上的标准GUI软件包.
 * [Toga](https://github.com/pybee/toga) -Python本机，OS本机GUI工具包.
-* [urwid](http://urwid.org/) -一个用于创建终端GUI应用程序的库，该应用程序对小部件，事件，丰富的颜色等具有强大的支持.
+* [urwid](http://urwid.org/) -用于创建终端GUI应用程序的库，该库对窗口小部件，事件，丰富的颜色等具有强大的支持.
 * [wxPython](https://wxpython.org/) -wxWidgets C ++类库与Python的混合.
 
 ## GraphQL
@@ -649,7 +655,7 @@
 * [CPython](https://github.com/python/cpython) -**默认的，使用C语言编写的Python编程语言的最广泛使用的实现.**
 * [Cython](http://cython.org/) -针对Python优化静态编译器.
 * [CLPython](https://github.com/metawilm/cl-python) -以Common Lisp编写的Python编程语言的实现.
-* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，是更强大的CPython2.7替代（alpha）.
+* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，因为它是更强大的CPython2.7替代（alpha）.
 * [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 * [Jython](https://hg.python.org/jython) -为JVM用Java编写的Python编程语言的实现.
 * [MicroPython](https://github.com/micropython/micropython) -精简高效的Python编程语言实现.
@@ -728,7 +734,7 @@
 
 * [blinker](https://github.com/jek/blinker) -快速的Python处理中信号/事件分配系统.
 * [boltons](https://github.com/mahmoud/boltons) -一组纯Python实用程序.
-* [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将受信任的数据传递到不受信任的环境.
+* [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将可信数据传递到不可信环境.
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) -一个简单但灵活的Python插件系统.
 * [tryton](http://www.tryton.org/) -通用业务框架.
 
@@ -936,7 +942,7 @@
 
 * 一般
     * [tablib](https://github.com/jazzband/tablib) -XLS，CSV，JSON，YAML中的表格数据集模块.
-* Office
+*办公室
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) -用于读取和写入Excel 2010 xlsx / xlsm / xltx / xltm文件的库.
     * [pyexcel](https://github.com/pyexcel/pyexcel) -提供一个用于读取，操作和写入csv，ods，xls，xlsx和xlsm文件的API.
     * [python-docx](https://github.com/python-openxml/python-docx) -读取，查询和修改Microsoft Word 2007/2008 docx文件.

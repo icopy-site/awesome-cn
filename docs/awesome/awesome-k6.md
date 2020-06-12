@@ -17,16 +17,19 @@
  想要帮助改善此列表？  是的，太棒了！  在开始之前，请先看一下我们 [code of conduct](https://github.com/k6io/awesome-k6/blob/master/code_of_conduct.md) 和 [contribution guidelines](https://github.com/k6io/awesome-k6/blob/master/contributing.md).
 
 
+- [Awesome k6 ![Awesome](https://awesome.re)](#awesome-k6-awesomehttpsawesomere)
 
 ## Articles
 
-- [Beginner's guide to load testing with k6](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d) -分几部分的入门指南，可帮助您开始使用k6.
+- [Beginner's guide to load testing with k6](https://mostafa.dev/blog/beginner-s-guide-to-load-testing-with-k6-part-1) -分几部分的入门指南，可帮助您开始使用k6.
 - [Running multiple load test scripts with k6](https://medium.com/@trannguyenhung011086/run-multi-load-test-scripts-with-k6-3dc57e8e26e2) -将测试分为多个脚本，然后一起运行.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) -k6的特性和功能的简要概述.
-- [Integrating k6 with Apache Kafka](https://medium.com/@mostafamoradian/integrating-k6-with-apache-kafka-eda96ea7c749) -将输出从k6发送到Apache Kafka.
+- [Integrating k6 with Apache Kafka](https://mostafa.dev/blog/integrating-k6-with-apache-kafka) -将输出从k6发送到Apache Kafka.
 - [Test and visualize with InfluxDB, Grafana and K6](https://medium.com/@naoko.reeves/load-test-with-k6-and-visualize-with-influxdb-and-grafana-c6097a6f6d0a) -设置负载测试并使用grafana仪表板对其进行可视化.
 - [Using k6 with TypeScript](https://medium.com/better-programming/performance-testing-in-typescript-5b5444510b83) -为什么在TypeScript中编写k6脚本是一个好主意，以及如何设置框架.
 - [Open source load testing tool review 2020](https://k6.io/blog/comparing-best-open-source-load-testing-tools) -最流行的开源负载测试工具的详细比较.
+- [Load Testing Your API with Swagger/OpenAPI and k6](https://mostafa.dev/blog/load-testing-your-api-with-swagger-openapi-and-k6) -根据OpenAPI规范生成k6负载测试脚本.
+- [Load Testing Your API with Postman](https://mostafa.dev/blog/load-testing-your-api-with-postman) -如何使用邮递员集合对您的API进行负载测试.
 
 ## Videos
 
@@ -43,6 +46,7 @@
 - [k6-typescript-framework](https://github.com/go-automate/k6-typescript-framework) -用TypeScript编写的k6负载测试框架的示例.
 - [k6-es6](https://github.com/MStoykov/k6-es6) -使用Webpack，Babel和Browserify使大多数ES6代码在k6中工作的示例项目.
 - [example-data-generation](https://github.com/k6io/example-data-generation) -使用fakerr为k6生成真实数据.
+- [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances)  -.NET混沌工程研讨会.  使用Simmy和k6.
 
 ## Tools
 

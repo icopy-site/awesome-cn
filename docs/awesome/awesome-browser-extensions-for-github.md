@@ -29,7 +29,7 @@ CodeWyng在GitHub上提供了闪电般的快速代码导航：悬停文档，定
 
 <details><summary>Screenshots</summary>
 
- ![CodeWyng](https://raw.githubusercontent.com/CodeWyng/codewyng/master/demo.gif)
+ ![CodeWyng](https://github.com/CodeWyng/codewyng/raw/master/readme/demo.gif)
 </details>
 
 
@@ -126,7 +126,7 @@ Octohint adds IntelliSense hint feature to GitHub.
 </details>
 
 
-OctoDraft是一个浏览器扩展，在GitHub的问题部分添加了保存草稿按钮，用于那些没有时间编写整个问题的时间.
+OctoDraft是一个浏览器扩展，在GitHub的问题部分中添加了一个保存草稿按钮，用于那些没有时间编写整个问题的时间.
 
 <details><summary>Screenshots</summary>
 
@@ -323,7 +323,7 @@ Chrome扩展程序，可帮助您避免错过与回购相关的新闻线程中�
 </details>
 
 
-super超小型chrome扩展程序，使您的GitHub新闻源更加井井有条
+super超小型chrome扩展程序，使您的GitHub新闻源更加有条理
 
 <details><summary>Screenshots</summary>
 
@@ -383,7 +383,7 @@ A Chrome and Firefox extension to quickly see your notifications in a popup with
 </details>
 
 
- 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并提供仅显示您正在参与的问题的未读计数的选项.您可以单击图标以快速查看未读通知.
+ 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并支持仅显示您正在参与的问题的未读计数的选项.您可以单击图标以快速查看未读通知.
 
 <details><summary>Screenshots</summary>
 
@@ -625,7 +625,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在资源库�
 </details>
 
 
-这是一个轻量级的Chrome扩展程序，可以自动检测 [asciinema](https://asciinema.org)  链接到GitHub上的README文件，并将播放器嵌入其位置.  与其直接进入asciinema网站观看“ asciicast”，不如直接在自述文件（或任何`.md`，.rst`，.textile， [etc.](https://github.com/github/markup/blob/master/README.md#markups) 文件），这要感谢 [embedded player widget](https://asciinema.org/docs/embedding). 
+这是一个轻量级的Chrome扩展程序，可以自动检测以下实例 [asciinema](https://asciinema.org)  链接到GitHub上的README文件，并将播放器嵌入其位置.  与其直接进入asciinema网站观看“ asciicast”，不如直接在README（或任何`.md`，.rst`，.textile， [etc.](https://github.com/github/markup/blob/master/README.md#markups) 文件），这要感谢 [embedded player widget](https://asciinema.org/docs/embedding). 
 
 <details><summary>Screenshots</summary>
 

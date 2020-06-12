@@ -249,7 +249,7 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) -Ada中的Tetris，用于Unity游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) -用SPARK / Ada编写并验证的单轮游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) -AdaGate是适用于Windows，OS-X和Linux的Stargate / Portal幻想设置中的第一人称3D推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏……它看起来像是一个魔方，但它是一个滑块，而不是扭曲器.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏...它看起来像是一个魔方，但它是一个滑块，而不是扭曲器.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) -AdaVenture是一款儿童友好型复古点击游戏，带有迷宫，龙，蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) -有趣的益智游戏，可在任何操作系统的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) -在任何平台上的终端上运行的复古游戏.
@@ -294,14 +294,14 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) -AWS是在Ada中开发基于Web的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa)  -Ada Web应用程序是在Ada 2012中构建Web应用程序的框架.该框架提供了许多Web应用程序通用的几个现成的可使用和可扩展模块.  这包括登录名，身份验证，用户，权限，管理注释，标签，投票，文档，图像.
+- [awa](https://github.com/stcarrez/ada-awa)  -Ada Web应用程序是在Ada 2012中构建Web应用程序的框架.该框架提供了许多Web应用程序共有的几个即用型和可扩展模块.  这包括登录名，身份验证，用户，权限，管理注释，标签，投票，文档，图像.
     - [dynamo](https://github.com/stcarrez/dynamo) -代码生成器，用于从类似休眠的XML描述，YAML理论模型或UML模型生成Ada Web应用程序或数据库映射. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) -Ada Wiki是提供Wiki引擎的小型图书馆.
     - [ada-security](https://github.com/stcarrez/ada-security) -OAuth 2.0客户端和服务器框架，可保护Web应用程序的安全.
     - [ada-el](https://github.com/stcarrez/ada-el) -该库提供了对一种类似于Java统一表达语言（EL）的简单表达语言的支持.
     - [ada-asf](https://github.com/stcarrez/ada-asf) -Ada Server Faces允许使用与Java Server Faces相同的模式创建Web应用程序（请参阅JSR 252，JSR 314和JSR 344）.
     - [ada-servlet](https://github.com/stcarrez/ada-servlet) -Ada Servlet允许使用与Java Servlet相同的模式创建Web应用程序（请参阅JSR 154，JSR 315）.
-- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Ada对Swagger代码源的支持：OpenAPI Generator是一种代码生成器，它支持在给定OpenAPI规范的情况下自动生成API客户端库，服务器存根和文档.
+- [swagger-ada](https://github.com/stcarrez/swagger-ada) -Swagger代码源的Ada支持：OpenAPI Generator是一种代码生成器，它支持在生成OpenAPI规范后自动生成API客户端库，服务器存根和文档.
 - [matreshka](http://forge.ada-ru.org/matreshka)  -Matreshka是开发信息系统的Ada框架.  它由五个主要组件组成：League，XML处理器，Web框架，SQL访问和Modeling框架.
 
 #### Unit Test, Testing
@@ -428,7 +428,7 @@
 - [zip-ada](https://github.com/zertovitch/zip-ada) -Zip-Ada是用于处理Zip压缩存档文件格式的编程库.
 - [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
 - [ada-midi](https://github.com/frett27/Ada-Midi) -实现Midi / MidiFile的读写.
-- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一个软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（一维或二维二维码，如QR码）.
+- [ada-bar-codes](https://github.com/zertovitch/ada-bar-codes) -Ada条形码提供了一种软件包，用于在不同的输出格式（例如PDF或SVG）上生成各种类型的条形码（1D或2D，如QR码）.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) -各种二进制到ASCII编解码器，例如Base64.
 - [abf-io](https://github.com/gerr135/abf_io) -Ada中Axon的ABF文件格式（电生理，最常见）的访问例程库.
 
@@ -444,7 +444,7 @@
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) -在Ada中实现的声音合成器库.
 - [engine-3d](https://github.com/zertovitch/engine-3d) -用于DOS-talgics的3D引擎.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
-- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微音阶和大音阶音阶以及非西方音阶.
+- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，可以进行音乐调律的实验，例如音准音阶，均等和历史气质，微音阶和大音阶音阶以及非西方音阶.
 - [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound)  -适用于Ada应用程序的linux声音播放程序包，该程序包可以异步启动和停止音乐循环以及启动瞬态声音.  适用于游戏.
 
 #### Localization
@@ -491,7 +491,7 @@
 #### Libraries
 - [giza](https://github.com/Fabien-Chouteau/Giza) -吉萨（Giza）试图成为嵌入式平台的简单窗口小部件工具套件.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
-- [geste](https://github.com/Fabien-Chouteau/GESTE) -GESTE是Sprite和Tile 2D渲染引擎，旨在在微控制器上运行.
+- [geste](https://github.com/Fabien-Chouteau/GESTE) - GESTE is a sprite and tile 2D render engine designed to run on micro-controllers.
 - [sancta](https://github.com/mosteo/sancta) -SANCTA多机器人任务分配库.
 
 #### Applications
@@ -527,7 +527,7 @@
 - [yass](https://github.com/yet-another-static-site-generator/yass) -另一个静态网站生成器（例如Jekyll或Hugo）.
 
 #### Multimedia
-- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - Apollo 11 lunar lander simulator (Ada/Gtk/Cairo).
+- [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) -阿波罗11号登月模拟器（Ada / Gtk /开罗）.
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) -一个简单的3DS Max模型渲染器.
 
 #### Automation
@@ -536,6 +536,7 @@
 #### Simulation
 - [ghdl](https://github.com/ghdl/ghdl) -VHDL 2008/93/87模拟器.
 - [parallel-sim](https://github.com/JulianSchutsch/ParallelSim) -传输网络的分布式仿真.
+- [covidsim](https://github.com/ohenley/covidsim)  -Qt5 COVID-19模拟器.  引擎盖下的Ada代码.
 
 #### Generators and Translators
 - [adabrowse](http://home.datacomm.ch/t_wolf/tw/ada95/adabrowse) -Ada95库单元规格的HTML生成器.

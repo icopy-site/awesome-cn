@@ -21,17 +21,16 @@
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)  -详细世界中的探索性平台游戏.  面向年轻玩家（Godot 2.1）.
 - [Circle Jump](https://github.com/kidscancode/circle_jump)  -移动街机游戏，令人上瘾并且令人愉快.  提供了制作方法教程，因此您可以自己重新创建它并学习Godot（Godot 3.1）.
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) -为A Game By It&#39;s Cover 2015 Game Jam（Godot 2.1）制作的平台游戏.
-- [Drone Commander](https://github.com/securas/Drone_Commander)  -指挥无数无人机对付外星人.  专为CGA JAM（Godot 2.1）设计.
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) -在幻想宇宙中的炸弹人克隆（Godot 2.1）.
 - [Haldric](https://github.com/wesnoth/haldric) -韦诺之战（Godot 3.1）的正式进行中重新实现.
-- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
+- [Kraken-Rampage](https://github.com/randyyaj/Kraken-Rampage) -48小时内完成了Ludum Dare 33参赛作品（Godot 2.1）.
 - [Librerama](https://codeberg.org/Yeldham/librerama) -免费/免费的快节奏迷你游戏街机收藏（Godot 3.2）.
 - [Memory Game](https://github.com/Tzoop/MemoryGame) -简单记忆游戏（Godot 3.0）.
 - [Minehunter](https://github.com/genete/Minehunter) -扫雷副本（Godot 2.1）.
 - [Minilens](http://kobuge-games.github.io/minilens/) -免费的益智平台游戏（Godot 2.1）.
 - [Mountain of Hope](https://github.com/w84death/mountain-of-hope) -使用Theater Game Jam（PGA 2015）（Godot 2.1）制作的游戏.
 - [Ninja-Training](https://github.com/KOBUGE-Games/Ninja-Training) -完成1小时挑战（Godot 2.1）的小型跑步游戏.
-- [No hope](https://github.com/sergicollado/no_hope_LD33) -48小时内完成了Ludum Dare 33的参赛作品（Godot 2.1）.
+- [No hope](https://github.com/sergicollado/no_hope_LD33) -48小时内完成了Ludum Dare 33参赛作品（Godot 2.1）.
 - [Planet Rider](https://github.com/FEDE0D/Planet-Rider) -外星环境中的2D物理跑酷游戏（Godot 2.1）.
 - [Platshoot](https://github.com/Calinou/platshoot) -2D射击游戏（Godot 2.1）.
 - [Ringed](https://github.com/KOBUGE-Incubator/ringed) -自上而下的射击游戏，广泛使用光效（Godot 2.1）.
@@ -190,7 +189,7 @@
 
 ## Unofficial Godot builds
 
-*这些版本可以让您使用最新版本的Godot Git，但它们可能不如官方版本稳定-使用后果自负.
+*这些版本可让您使用Godot Git的最新版本，但它们可能不如官方版本稳定-使用后果自负.*
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/)
 

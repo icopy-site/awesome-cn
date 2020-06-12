@@ -34,7 +34,7 @@
 
 ### BioJulia
 
-* __[BioJulia](http://biojulia.net/Bio.jl/)__-Julia编程语言的生物信息学和计算生物学基础设施.
+* __[BioJulia](https://biojulia.net/)__-Julia编程语言的生物信息学和计算生物学基础设施.
 
 ## Data Tools
 
@@ -235,9 +235,9 @@ __结构变量调用者__
 * [Review papers on RNA-seq (Biostars)](https://www.biostars.org/p/52152/) -包括许多有关RNA序列和分析方法的开创性论文.
 * [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/griffithlab/rnaseq_tutorial)  -有关使用Amazon AWS云服务在云中执行RNA序列分析的教育资源.  主题包括准备数据，预处理，差异表达，异构体发现，数据可视化和解释.
 * [RNA-seqlopedia](http://rnaseq.uoregon.edu/) -RNA-seqlopedia概述了RNA-seq以及进行成功的RNA-seq实验所需的选择.
-* [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) -为RNA序列计算分析提供了绝佳的路线图，包括挑战/障碍和需要注意的事项，以及如何将RNA序列数据与其他数据类型集成在一起.
+* [A survey of best practices for RNA-seq data analysis](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0881-8) -为RNA序列计算分析提供了绝佳的路线图，包括挑战/障碍和需要注意的事情，以及如何将RNA序列数据与其他数据类型集成在一起.
 * [Stories from the Supplement](https://www.youtube.com/watch?v=5NiFibnbE8o) [46:39]-Lior Pachter博士分享了著名RNA序列分析软件CuffDiff和 [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) 并解释了他们的一些方法.
-* [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) -分析所需的RNA-seq生物信息学工具在Wikipedia上的广泛列表，涵盖质量，控制，比对，剪接分析和可视化等分析流程的所有部分.
+* [List of RNA-seq Bioinformatics Tools](https://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools) -分析所需的RNA-seq生物信息学工具在Wikipedia上的详尽列表，涵盖了质量控制，比对，剪接分析和可视化等分析流程的所有部分.
 * [RNA-seq Analysis](https://github.com/crazyhottommy/RNA-seq-analysis) - [@crazyhottommy](https://github.com/crazyhottommy)进行RNA序列分析时有关各种步骤和注意事项的说明.
 
 ### ChIP-Seq
@@ -255,7 +255,7 @@ __结构变量调用者__
 
 ### Blogs
 
-* [ACGT](http://www.acgt.me/) -基思·布拉德南（Keith Bradnam）博士写道：“有关生物学，基因组学以及伪造生物信息素的丙烯醛对人类的持续威胁的思想.”
+* [ACGT](http://www.acgt.me/) -基思·布拉德南（Keith Bradnam）博士写道：“有关生物学，基因组学以及假生物使用丙烯醛的假冒对人类的持续威胁的思想”.
 * [Opiniomics](http://www.opiniomics.org/) -Mick Watson博士写有关生物信息学，基因组和生物学的文章.
 * [Bits of DNA](https://liorpachter.wordpress.com/) -Lior Pachter博士撰写了有关计算生物学的评论和评论.
 * [it is NOT junk](http://www.michaeleisen.org/blog/) -迈克尔·艾森（Michael Eisen）博士撰写了“关于基因组，DNA，进化，开放科学，棒球和其他重要事物的博客”

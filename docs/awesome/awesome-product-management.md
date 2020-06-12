@@ -6,7 +6,7 @@
 
 ## Who's a product manager?
 
- 根据定义，产品经理是一个驱动产品愿景并深刻理解客户需求的人.  PM通常被认为是业务，技术和设计领域的交集-他们是问题领域的专家，并且能够学习和快速迭代以为消费者提供有价值的体验.
+ 根据定义，产品经理是一个驱动产品愿景并深刻理解客户需求的人.  PM通常被认为是业务，技术和设计领域的交集-他们是问题领域的专家，能够学习和快速迭代以为消费者提供宝贵的经验.
 
 
 
@@ -174,6 +174,7 @@ productboard是产品管理系统，可帮助您了解用户的需求，确定�
 - [The dark side of expertise](https://lwn.net/Articles/809556/) -杰克·埃奇（Jake Edge）.
 - [Remote teams](https://www.notion.so/Remote-teams-5ca3f257580040718fde6eb25c47e134) -由概念团队.
 - [On narratives](https://ceklog.kindel.com/?s=narratives) -由 [Charlie Kindel](https://twitter.com/ckindel).
+- [Is your company product-led, sales-led, or marketing-led?](https://philippcannons.com/is-your-company-product-led-sales-led-or-marketing-led/) -由 [Philipp Cannons](https://twitter.com/pcannons).
 
 ## Books
 
@@ -203,7 +204,7 @@ productboard是产品管理系统，可帮助您了解用户的需求，确定�
 | <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpeg" width="100px" />  |  里德霍夫曼|  https://mastersofscale.com/ |  公司如何从零增长到万亿美元？  传奇的硅谷投资者/企业家里德霍夫曼（Reid Hoffman）与著名创始人一起测试了他的理论.  嘉宾包括Facebook的Mark Zuckerberg和Sheryl Sandberg，Netflix的Reed Hastings，谷歌的Eric Sc​​hmidt，Spanx的Sara Blakely.  凭借原始的音乐和荒诞的诚实故事，该演出听起来像是您从未听过的.  |
 | <img alt="The Product Podcast" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-product.jpg" width="100px" />         |  多个|  https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 |  这是您的产品管理播客，其中包含来自Google，Facebook，LinkedIn，Spotify，Twitter和其他科技公司/初创公司的PM.  如果您是想要学习最新最佳实践的经理，设计师，工程师，企业家或市场营销商，请收听.  |
 | <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                    |  多个|  https://www.gimletmedia.com/startup |  您从未听说过的企业起源故事.  |
-| <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />        |  盖伊·拉兹|  https://www.npr.org/podcasts/510313/how-i-built-this |  盖伊·拉兹（Guy Raz）深入探讨了一些世界知名公司的故事.  我的建造方式编织了有关创新者，企业家和理想主义者及其创造方式的叙述性旅程.  |
+| <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />        |  盖伊·拉兹|  https://www.npr.org/podcasts/510313/how-i-built-this |  盖伊·拉兹（Guy Raz）深入探讨了一些世界知名公司的故事.  我的建造方式编织了关于创新者，企业家和理想主义者及其创造方式的叙述性旅程.  |
 | <img alt="The Pitch" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-pitch.webp" width="100px" />                    |  多个|  https://www.gimletmedia.com/the-pitch |  真正的企业家向真正的投资者推销资金的地方.  |
 | <img alt="ReWork" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-rework.png" width="100px" />                       |  多个|  https://rework.fm/ |  Basecamp的播客，介绍了更好的工作和经营方式.  我们为您带来Basecamp联合创始人和其他企业主的故事和非常规的智慧.  |
 

@@ -20,7 +20,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
-|   2 - 8 |        8 |  20m |
+ |  2-8 |  8 |  20m |
 
 
 ### [Ticket to Ride](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
@@ -31,7 +31,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
- |  2-5 |  8 |  30-60m |
+|   2 - 5 |        8 | 30-60m |
 
 ### [Pandemic](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Pandemic_(board_game)>)
 
@@ -83,7 +83,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
-|   3 - 8 |        8 |  30m |
+ |  3-8 |  8 |  30m |
 
 ### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
 
@@ -109,7 +109,7 @@
 
 &gt; Ravenloft的主人正在邀请客人共进晚餐–邀请您！\
 &gt;恶魔潜伏在Ravenloft城堡的塔楼和地牢中，只有非凡勇敢的英雄才能幸免于难.
-&gt;专为1-5位玩家设计，这款桌游具有多种场景，具有挑战性的任务和协作性的游戏玩法.
+> Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
 
 ![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
 
@@ -149,7 +149,7 @@
 
 ### [Klask](https://boardgamegeek.com/boardgame/165722/klask)
 
-> Klask is a board game that has a ball field shape with two deep holes functioning as goals in each end of the field. The purpose of the game is to push the small ball around on the field with your magnet/gaming piece, shoot the ball past the obstacles and your opponent and into the goal hole.
+ &gt;克拉斯克（Klask）是一种棋盘游戏，具有球形的形状，在该区域的每个末端都有两个深孔作为目标.  游戏的目的是用您的磁铁/游戏块将小球推向场地，将球射过障碍物和对手并进入球门洞.
 
 ![Klask image](https://cf.geekdo-images.com/itemrep/img/tVtNzNug3e8QiLREwiEJOZMF0UY=/fit-in/246x300/pic2627442.jpg)
 
@@ -234,7 +234,7 @@
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
- &gt;《权力的游戏》允许玩家扮演几家争夺七国王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，马拉松家族，格雷乔伊家族，泰瑞尔家族，以及扩展《冲突》之后的角色国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
+ &gt;《权力的游戏》允许玩家扮演几家争夺七大王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，巴拉松家族，格雷乔伊家族，泰瑞尔家族，以及扩展《冲突》之后的角色国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
@@ -264,7 +264,7 @@
 
 ### [Anachrony](http://anachronyboardgame.com/)
 
- &gt;时代性是一种竞争性的欧洲风格战略游戏，其背景是世界末日，它沿着四种不同的意识形态路径重建.  游戏通过一系列称为“时代”的回合来进行，过去的回合可以通过游戏后期的时间旅行达到.  玩家扮演着四个路径的标志性领导者的角色，不仅为人民的至高无上和幸福而努力，而且为他们的生存而努力.  在第四个时代之后，一颗小行星撞击地球，威胁要摧毁地球的最后一个独立城市世界首都.  路径应为即将来临的大灾难做好准备，并在时机成熟时参与撤离崩溃的首都.  最后，其中一条道路将是改革后的世界理事会的新家园，并将人类带入一个新的未来.
+> Anachrony is a competitive Euro-style strategy game set in a post-apocalyptic world rebuilt along four different ideological Paths. The game is played through a series of turns called Eras, with past ones reachable through time travel later in the game. Players assume the roles of iconic leaders of the four Paths, striving not only for the supremacy and well-being of their people, but also their survival. After the fourth Era, an asteroid impact shakes Earth, threatening to destroy the World Capital, Earth’s last independent city. The Paths should prepare for the coming cataclysm, and when the time comes, take their part in evacuating the collapsing Capital. In the end, one of the Paths will be the new home to the reformed World Council, and lead humanity into a new future.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -385,7 +385,7 @@
 
 ### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
 
-&gt;波斯战争是一款由纸牌驱动的战争游戏，描述了从494年到466年的希腊波斯冲突.雅典人Xanthippus，Miltiades和Themistocles和Spartans，Leonidas和Pausanias.
+&gt;波斯战争是一张纸牌驱动的战争游戏，描述了从494年到466年的希腊波斯冲突.雅典人Xanthippus，Miltiades和Themistocles和Spartans，Leonidas和Pausanias.
 
 ![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
 
@@ -527,7 +527,7 @@
 
 ### [Sushi Go](https://gamewright.com/product/Sushi-Go)
 
- &gt;在超快速的寿司纸牌游戏Sushi Go！中，您正在一家寿司餐厅用餐，并试图抓住寿司的最佳组合.  收集最多寿司卷或制作全套生鱼片的得分.  将您最喜欢的握寿司浸入芥末中，使其价值增加三倍！  一旦吃饱了，就用所有的布丁吃完饭！  但是要小心，您允许您的朋友吃哪种寿司；  可能正是他们要打败您！
+> In the super-fast sushi card game Sushi Go!, you are eating at a sushi restaurant and trying to grab the best combination of sushi dishes as they whiz by. Score points for collecting the most sushi rolls or making a full set of sashimi. Dip your favorite nigiri in wasabi to triple its value! And once you've eaten it all, finish your meal with all the pudding you've got! But be careful which sushi you allow your friends to take; it might be just what they need to beat you!
 
 ![Sushi Go Image](https://gamewright.com/images/two/GAMEWRIGHT-249.jpg)
 
@@ -537,7 +537,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
- &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍然保留着烈酒的地方宣称拥有主权，而当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
+ &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍保留着烈酒的地方宣称自己的权利-当他们这样做时，土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
@@ -568,7 +568,7 @@
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
- &gt;创作者说：“互联网上曾有人告诉我们制作简笔漫画很容易，而且我们丑陋而愚蠢.从各个方面来说都是正确的.所以，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们带来了娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+ &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人娱乐.在与Random Comic Generator玩了几周之后，我们开始怀疑它的数百个随机面板是否可用于纸牌游戏，您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
@@ -624,7 +624,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2-4 |  12 |  45m |
+|   2 - 4 |       12 |  45m |
 
 ### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
 
@@ -682,7 +682,7 @@
 
 ### [Love Letter](https://en.wikipedia.org/wiki/Love_Letter_(card_game))
 
-> Love Letter is a game of risk, deduction, and luck. Each player attempts to have their love letter delivered to Annette, the princess of Tempest, before anyone else does. From a deck with sixteen cards and eight roles, each player starts with one card. As the game progresses, each player must choose between their current role and those remaining in the deck. Will your letter reach the princess first?
+ &gt;情书是一种冒险，演绎和运气的游戏.  每个玩家都试图先将自己的情书传递给暴风雨公主安妮特，然后再送给其他人.  在拥有16张卡和8个角色的卡组中，每个玩家都从一张卡开始.  随着游戏的进行，每个玩家都必须在当前角色和待留在甲板上的角色之间进行选择.  你的信会先送给公主吗？
 
 ![Love Letter Image](https://cf.geekdo-images.com/itemrep/img/x7Xa_F99E1UJXXKp2_NQi-sgwEM=/fit-in/246x300/pic1401448.jpg)
 
@@ -720,6 +720,17 @@
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  4-16 |  13 |  60m |
+
+### [Mind the Gap](https://boardgamegeek.com/boardgame/229537/mind-gap)
+
+ &gt; Mind the Gap是一款纸牌游戏，可复制伦敦地铁地图的标志性设计，并且该游戏已获得伦敦交通局的许可.  玩家有一张纸牌，每张纸牌代表伦敦地铁上的车站.  每个玩家将一张牌面朝上放置，然后玩家依次打出与前一张牌相匹配的线上的牌.  如果他们不能下牌，他们会下牌.  获胜者是第一个精疲力尽的球员. 
+
+
+![Mind the Gap image](https://cf.geekdo-images.com/itemrep/img/-tBdBfB3GDsePPK0kNT4K4-EH5E=/fit-in/246x300/pic3604392.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-8 |  6 |  20m |
 
 ## Contribute
 

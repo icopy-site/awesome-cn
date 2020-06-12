@@ -485,6 +485,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
 
 ### 2012
 
+- [The Basics of the Shadow DOM](https://www.sitepoint.com/the-basics-of-the-shadow-dom/)
 - [Notes on Web Components + ARIA](https://developer.paciellogroup.com/blog/2012/07/notes-on-web-components-aria/)
 - [Introduction to Web Components](https://www.w3.org/TR/2012/WD-components-intro-20120522/)
 
@@ -545,7 +546,7 @@ CSS Shadow Parts允许开发人员在Shadow DOM中公开某些元素以用于样
       <td align="center">
         <a href="https://twitter.com/serhiikulykov">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/1028197887329685504/cM6nOHlp_80x80.jpg">
-          <div>谢里·库里科夫（Serhii Kulykov） </div>
+          <div>谢里·库里科夫</div>
         </a>
       </td>
     </tr>

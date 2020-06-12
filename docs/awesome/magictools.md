@@ -442,7 +442,7 @@ Audio
 ### Project Management
 
 * ：钱袋子： [Casual](https://casual.pm/) -视觉项目管理
-* ：钱袋子： [Codecks](https://www.codecks.io) -受收藏卡游戏启发的项目管理工具
+*：money_with_wings： [Codecks](https://www.codecks.io) -受收藏卡游戏启发的项目管理工具
 *：money_with_wings： [HacknPlan](http://hacknplan.com/) -游戏开发商的项目管理
 *：money_with_wings： [Taiga](https://taiga.io/) -敏捷开发人员和设计师的项目管理平台
 *：money_with_wings： [Trello](https://trello.com/) -组织项目并确定其优先级
