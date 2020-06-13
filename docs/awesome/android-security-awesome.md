@@ -17,6 +17,8 @@ android安全相关资源的集合.
 12. [AppCritique](https://appcritique.boozallen.com) -上传您的Android APK，并获得全面的免费安全评估.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/)  -用于移动应用程序安全性测试的Android和iOS移动应用程序的企业工具.  实验室自动功能可对云中的真实设备进行动态和静态分析，以在几分钟内返回结果.  不免费
 14. [AMAaaS](https://amaaas.com)  -免费的Android恶意软件分析服务.  裸机服务具有针对Android应用程序的静态和动态分析的功能.  的产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS).
+15. [App Detonator](https://appdetonator.run/)  -引爆APK二进制文件以提供源代码级详细信息，包括应用程序作者，签名，构建和清单信息.  3分析/天免费配额.
+16. [BitBaan](https://malab.bitbaan.com/)
 15. ~~[NVISO ApkScan](https://apkscan.nviso.be/) -2019年10月31日日落〜
 4. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
 6. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) -不免费~~
@@ -50,7 +52,7 @@ android安全相关资源的集合.
 10. [PSCout](http://pscout.csl.toronto.edu/) -使用静态分析从Android OS源代码中提取权限规范的工具
 11. [Amandroid](http://amandroid.sireum.org/)
 12. [SmaliSCA](https://github.com/dorneanu/smalisca) -Smali静态代码分析
-13. [CFGScanDroid](https://github.com/douggard/CFGScanDroid) -扫描和比较CFG与恶意应用程序的CFG
+13. [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
 14. [Madrolyzer](https://github.com/maldroid/maldrolyzer) -提取可操作的数据，例如C＆C，电话号码等.
 15. [SPARTA](https://www.cs.washington.edu/sparta)  -验证（证明）应用满足信息流安全政策；  建立在 [Checker Framework](https://types.cs.washington.edu/checker-framework/)
 16. [ConDroid](https://github.com/JulianSchuette/ConDroid) -执行应用程序的符号+具体执行的组合
@@ -75,7 +77,7 @@ android安全相关资源的集合.
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)-用于评估Android应用程序，逆向工程和恶意软件分析的虚拟机
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) -移动安全框架是一种智能的，多合一的开源移动应用程序（Android / iOS）自动笔测试框架，能够执行静态，动态分析和Web API测试.
-5. [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
+5. [AppUse](https://appsec-labs.com/AppUse/) –为渗透测试定制
 6. [Droidbox](https://github.com/pjlantz/droidbox)
 10. [Drozer](https://github.com/mwrlabs/drozer)
 11. [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) -等效于执行基于存根的代码注入，但不对二进制文件进行任何修改
@@ -99,6 +101,8 @@ android安全相关资源的集合.
 30. [Taintdroid](http://appanalysis.org) -需要AOSP编译
 31. [ARTist](https://artist.cispa.saarland)  -适用于Android应用程序和Android的Java中间件的灵活的开源工具和混合分析框架.  它基于Android运行时（ART）编译器，并在设备上编译期间修改代码.
 32. [Android Malware Sandbox](https://github.com/Areizen/Android-Malware-Sandbox)
+33. [AndroPyTool](https://github.com/alexMyG/AndroPyTool)  -从Android APK提取静态和动态功能的工具.  它结合了各种著名的Android应用程序分析工具，例如DroidBox，FlowDroid，Strace，AndroGuard或VirusTotal分析.
+34. [RMS - Runtime Mobile Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) -（Linux发行版）以前它曾经是 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（Android逆向工程）不再处于主动开发状态~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
@@ -199,8 +203,8 @@ android安全相关资源的集合.
 2. [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 3. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 4. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
-5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) -包含有关移动渗透测试，移动恶意软件，移动取证和各种与移动安全相关的主题的分类良好的技术阅读材料的阅览室~~
-6. ~~[Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)~~
+5. [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
+5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) -一个阅览室，其中包含有关移动渗透测试，移动恶意软件，移动取证和所有与移动安全相关的主题的分类准确的技术阅读材料~~
 
 ## <a name="exploits"/></a>Exploits/Vulnerabilities/Bugs
 
@@ -223,6 +227,10 @@ android安全相关资源的集合.
 4. [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 5. [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) -由VirusTotal提供支持，并非免费
 6. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
+8. [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) -7种经过反向工程和记录的恶意软件
+9. [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
+10. [Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) -该数据集包含10479个样本，这些样本是通过使用七种不同的混淆技术对MalGenome和Contagio Minidump数据集进行混淆而获得的.
+11. [AndroZoo](https://androzoo.uni.lu/) -AndroZoo是从包括官方Google Play应用市场在内的多个来源收集来的Android应用程序的集合.
 7. ~~[Admire](http://admire.necst.it/)~~
 
 ### Bounty Programs

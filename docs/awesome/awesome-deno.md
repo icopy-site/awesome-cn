@@ -220,6 +220,10 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [Deno Land Indonesia website](https://denoland.id/)
 - [Deno Land Indonesia Telegram group](https://t.me/deno_id)
 
+### Italian
+
+- [Deno - L'anagramma di Node](https://www.slideshare.net/FrancescoSciuti/deno-lanagramma-di-node)
+
 ### Japanese
 
 - [Node.js における設計ミス By Ryan Dahl](https://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335)

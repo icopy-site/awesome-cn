@@ -226,13 +226,14 @@
 
 - [Correlation Recorder plugin](https://github.com/Blazemeter/CorrelationRecorder) -JMeter插件，可通过在记录时提供变量的自动关联来简化具有动态变量的应用程序的记录过程.
 - [Siebel CRM plugin](https://github.com/Blazemeter/SiebelPlugin) -JMeter插件通过在记录时*（不推荐使用）*提供变量的自动关联来简化Siebel CRM应用程序的脚本.
+- [ULP Auto-correlator plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) -适用于Oracle和基于Vaadin的应用程序的商业插件 [Ubik Load Pack](#plugins).
 
 ## APM Integration
 
 与应用程序性能监视（APM）工具集成，以分析应用程序服务器，数据库服务器和Web服务的性能.
 
 - [Servers Performance Monitoring Plugin](https://jmeter-plugins.org/wiki/PerfMon/) -来自的服务器监控插件 [JMeter Plugins](https://jmeter-plugins.org/) 项目.
-- [CA App Synthetic Monitor](https://asm.ca.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
+- [CA App Synthetic Monitor](https://asm.ca.com/en/feature/transaction-monitoring-web-application-testing.html) -带有JMeter支持的事务监视和测试解决方案.
 -动态痕迹
   - [Dynatrace and JMeter integration](https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/test-automation-frameworks/dynatrace-and-jmeter-integration/)
   - [Integrate web API performance monitoring in JMeter](https://www.dynatrace.com/support/doc/appmon/continuous-delivery-test-automation/test-automation-tutorials/integrate-web-api-performance-monitoring-in-jmeter/)
@@ -243,7 +244,7 @@
 
 - [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) -可用插件和扩展列表.
 - [JMeter Plugins](https://jmeter-plugins.org/) -Apache JMeter的独立插件集，其中的插件管理器引用了许多插件并简化了安装.
-- [UBIK Load Pack](https://ubikloadpack.com/) -Apache JMeter的生产力扩展.
+- [Ubik Load Pack](https://ubikloadpack.com/) -Apache JMeter的生产力扩展.
 
 ## Extending JMeter
 
@@ -272,7 +273,7 @@
 ## JMeter Performance
 
 - [JMeter Performance](https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance) -JMeter跨版本的性能演变.
-- [JMeter Performance and Tuning Tips](https://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) -由UBIK Ingenierie提供.
+- [JMeter Performance and Tuning Tips](https://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) -由Ubik Ingenierie提供.
 - [JMeter Performance and Tuning Tips](https://www.blazemeter.com/blog/jmeter-performance-and-tuning-tips) -BlazeMeter.
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
 
@@ -355,7 +356,7 @@
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) -惊人的超赞的精选列表.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) -免费软件测试和验证资源列表.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) -精选的测试资源列表.
-- [Awesome Page Speed Metrics](https://github.com/palfi-ltd/awesome-pagespeed-metrics) -有助于了解页面速度和用户体验的指标.
+- [Awesome Page Speed Metrics](https://github.com/palfi-ltd/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
 - [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) -Web性能优化的精选列表.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) -可扩展，可靠和高性能的大型系统的模式.
 - [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) -网站可靠性和生产工程资源的精选列表.

@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/manuzhang/awesome-streaming.svg?branch=master)](https://travis-ci.org/manuzhang/awesome-streaming)
 
-精选清单 [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html)  框架，应用程序，阅读材料和其他资源.  受启发 [other awesome projects](https://github.com/sindresorhus/awesome). 
+精选的超赞清单 [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html)  框架，应用程序，阅读材料和其他资源.  受启发 [other awesome projects](https://github.com/sindresorhus/awesome). 
 
 ## Website
 
@@ -13,7 +13,7 @@
 ### Streaming Engine
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java]-大数据流和批处理的统一平台.
-- [Apache Flink](https://github.com/apache/flink) [Java]-用于高吞吐量，低延迟的数据流处理的系统，支持状态计算，数据驱动的窗口语义和迭代流处理.
+- [Apache Flink](https://github.com/apache/flink) [Java]-用于高吞吐量，低延迟数据流处理的系统，支持状态计算，数据驱动的窗口语义和迭代流处理.
 - [Apache Heron (incubating)](https://github.com/apache/incubator-heron) [Java]-来自Twitter的实时，分布式，容错流处理引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala / Java]-基于Kafka（消息，存储）和YARN（容错，处理器隔离，安全性和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala]-使构建可扩展的容错流应用程序变得容易.
@@ -97,7 +97,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 
 ### Streaming SQL
 
-- [pipelinedb](https://github.com/pipelinedb/pipelinedb) [C]-一个开源关系数据库，它在流上连续运行SQL查询，并将结果增量存储在表中.
+- [pipelinedb](https://github.com/pipelinedb/pipelinedb) [C]-一种开源关系数据库，它在流上连续运行SQL查询，并将结果增量存储在表中.
 - [squall](https://github.com/epfldata/squall) [Java]-Squall在Storm之上执行SQL查询以进行在线处理.
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java]-实时计算系统上的连续查询语言.
 - [KSQL](https://github.com/confluentinc/ksql) [Java]-用于Apache Kafka的流SQL引擎.
@@ -135,6 +135,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 1. [In-Stream Big Data Processing](https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/)
 2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 由泰勒·阿基道（Tyler Akidau）设计. 
 3. [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
+4. [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) 乔什·菲舍尔（Josh Fischer）和王宁（Ning Wang）
 
 ## License
 
