@@ -82,6 +82,7 @@
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) -3D教育中心.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) -恐龙，乐高玩具和车辆特技.
 - [Mini Royale 2](https://miniroyale2.io/) -大逃杀第一人称射击游戏.
+- [Venge](https://venge.io/) -3D多人FPS射击游戏.
 - [Monopoly](http://benbean.openode.io/monopoly-io/?play=true) -在3D视频游戏中重新创建了经典的桌游.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) -在一个微小的世界中消灭一波又一波的敌人.
 - [Robostorm](https://robostorm.io/) -Frenetic在线多人机甲对战游戏.

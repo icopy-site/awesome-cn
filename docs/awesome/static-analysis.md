@@ -295,7 +295,7 @@
 - ![stars](https://img.shields.io/github/stars/google/google-java-format?style=flat-square&color=ccc) [google-java-format](https://github.com/google/google-java-format) -Google样式重新格式化
 - ![stars](https://img.shields.io/github/stars/amaembo/huntbugs?style=flat-square&color=ccc) [HuntBugs](https://github.com/amaembo/huntbugs) ：warning：-基于Procyon编译器工具的字节码静态分析器工具，旨在取代FindBugs.
 - [JArchitect](https://www.jarchitect.com) ：copyright：-测量，查询和可视化您的代码，避免意外的问题，技术负担和复杂性.
-- [JBMC](https://www.cprover.org/jbmc/) -Java的有限模型检查器（字节码），验证用户定义的断言，标准断言，几种覆盖率度量分析
+- [JBMC](https://www.cprover.org/jbmc/) -Java的有限模型检查器（字节码），验证用户定义的断言，标准断言，若干覆盖率度量分析
 - ![stars](https://img.shields.io/github/stars/uber/NullAway?style=flat-square&color=ccc) [NullAway](https://github.com/uber/NullAway)  -基于类型的空指针检查器，具有较低的构建时间开销；  一个 [Error Prone](http://errorprone.info/) 插入
 - ![stars](https://img.shields.io/github/stars/jeremylong/DependencyCheck?style=flat-square&color=ccc) [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/) -检查依赖项是否存在已知的，公开披露的漏洞.
 - ![stars](https://img.shields.io/github/stars/teamed/qulice?style=flat-square&color=ccc) [qulice](https://www.qulice.com/) -结合了一些（预先配置的）静态分析工具（checkstyle，PMD，Findbugs等）.
@@ -316,7 +316,7 @@
 - ![stars](https://img.shields.io/github/stars/jquery/esprima?style=flat-square&color=ccc) [Esprima](https://esprima.org/) -ECMAScript解析基础架构，可进行多用途分析
 - ![stars](https://img.shields.io/github/stars/facebook/flow?style=flat-square&color=ccc) [flow](https://flow.org/) -JavaScript的静态类型检查器.
 - ![stars](https://img.shields.io/github/stars/JSMonk/hegel?style=flat-square&color=ccc) [hegel](https://hegel.js.org/) -JavaScript的静态类型检查器，带有类型推断偏向和强类型系统.
-- ![stars](https://img.shields.io/github/stars/jshint/jshint?style=flat-square&color=ccc) [jshint](https://jedi.readthedocs.io/en/latest/) ：警告：-检测JavaScript代码中的错误和潜在问题，并执行团队的编码约定
+- ![stars](https://img.shields.io/github/stars/jshint/jshint?style=flat-square&color=ccc) [jshint](https://jshint.com/about/) ：警告：-检测JavaScript代码中的错误和潜在问题，并执行团队的编码约定
 - ![stars](https://img.shields.io/github/stars/douglascrockford/JSLint?style=flat-square&color=ccc) [JSLint](https://github.com/douglascrockford/JSLint) ：警告：-JavaScript代码质量工具
 - ![stars](https://img.shields.io/github/stars/dpnishant/jsprime?style=flat-square&color=ccc) [JSPrime](http://dpnishant.github.io/jsprime/) -静态安全分析工具
 - ![stars](https://img.shields.io/github/stars/es-analysis/plato?style=flat-square&color=ccc) [plato](https://github.com/es-analysis/plato) -可视化JavaScript源复杂度
@@ -329,7 +329,7 @@
 
 <h2 id="kotlin">科特林</h2>
 
-- ![stars](https://img.shields.io/github/stars/arturbosch/detekt?style=flat-square&color=ccc) [detekt](https://detekt.github.io/detekt/) -Kotlin代码的静态代码分析.
+- ![stars](https://img.shields.io/github/stars/detekt/detekt?style=flat-square&color=ccc) [detekt](https://detekt.github.io/detekt/) -Kotlin代码的静态代码分析.
 
 
 <h2 id="lua">采取</h2>
@@ -491,7 +491,7 @@
 
 <h2 id="solidity">坚固性</h2>
 
-- ![stars](https://img.shields.io/github/stars/trailofbits/slither?style=flat-square&color=ccc) [slither](https://github.com/trailofbits/slither) -静态分析框架，该框架运行一套漏洞检测器，可打印有关合同详细信息的可视信息，并提供可轻松编写自定义分析的API
+- ![stars](https://img.shields.io/github/stars/trailofbits/slither?style=flat-square&color=ccc) [slither](https://github.com/trailofbits/slither) -静态分析框架，该框架运行一套漏洞检测器，可打印有关合同明细的可视信息，并提供可轻松编写自定义分析的API
 - ![stars](https://img.shields.io/github/stars/duaraghav8/Solium?style=flat-square&color=ccc) [solium](https://ethlint.readthedocs.io/en/latest/) -Solium是一台可以识别和修复Solidity智能合约中的样式和安全问题的工具
 
 
@@ -586,7 +586,7 @@
 - [prospector](https://github.com/PyCQA/prospector) -在`pylint`，`pep8`，`mccabe`等周围包装 
 - [PT.PM](https://github.com/PositiveTechnologies/PT.PM) :warning: - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL. 
 - [PullRequest](https://www.pullrequest.com) ：copyright：-将代码审查作为具有内置静态分析的服务 
-- [Puma Scan](https://pumasecurity.io/) -开发团队在Visual Studio中编写代码时，Puma Scan为常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）提供了实时安全的代码分析. 
+- [Puma Scan](https://pumasecurity.io/) -开发团队在Visual Studio中编写代码时，Puma Scan提供了针对常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）的实时安全代码分析. 
 - [PVS-Studio](https://www.viva64.com/en/pvs-studio/) ：版权：-a（[conditionally free](https://www.viva64.com/en/b/0614/) for FOSS and individual developers) static analysis of C, C++, C# and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list) .  支持CWE映射，MISRA和CERT编码标准. 
 - [quality](https://github.com/apiology/quality) -使用社区工具对代码进行质量检查，并确保您的代码不会随着时间的推移而恶化. 
 - [Qualys Container Security](https://www.qualys.com/apps/container-security/) ：copyright：-容器本机应用程序保护，以提供对容器化应用程序的可见性和控制. 
@@ -760,7 +760,7 @@
 
 <h2 id="template">范本语言</h2>
 
-- [ember-template-lint](https://github.com/rwjblue/ember-template-lint) -灰烬的Ember或Handlebars模板.
+- [ember-template-lint](https://github.com/rwjblue/ember-template-lint) -灰烬的灰烬或车把模板.
 - [haml-lint](https://github.com/sds/haml-lint) -用于编写干净且一致的HAML的工具
 - [slim-lint](https://github.com/sds/slim-lint) -用于分析Slim模板的可配置工具
 - [yamllint](https://yamllint.readthedocs.io/) -检查YAML文件的语法有效性，键重复和外观问题，例如行长，尾随空格和缩进.

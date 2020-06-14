@@ -64,18 +64,20 @@
 ## Drawing
 *绘制特定的库，简化了绘制过程*
 
-* [cindy](https://github.com/megagrump/cindy) -在LÖVE11+中使用字节颜色值
-* [draft](https://github.com/pelevesque/draft) -用于绘制复杂形状的模块
 * [Artal](https://github.com/unXedDani/Artal) -LÖVE的.PSD解析库
 * [Autobatch](https://github.com/rxi/autobatch) -小型LÖVE模块可自动使用SpriteBatches
+* [cindy](https://github.com/megagrump/cindy) -在LÖVE11+中使用字节颜色值
+* [deep](https://github.com/Nikaoto/deep)  -增加Z轴；  允许您将动作排队并进行通话
+* [draft](https://github.com/pelevesque/draft) -用于绘制复杂形状的模块
 * [HSLUV](https://github.com/hsluv/hsluv-lua) -Lua实施HSLuv（HSLuv的人类友好替代品）
 * [Maid64](https://github.com/adekto/maid64) -LÖVE低分辨率洁牙机
 * [Push](https://github.com/Ulydev/push) -用于LÖVE的简单分辨率处理库
 * [renderplanet](https://github.com/meric/renderplanet/) -逼真的正射行星渲染
-* [Sölar](https://github.com/JanWerder/soelar) -一个相当简单的太阳系模拟器
 * [svglover](https://github.com/globalcitizen/svglover) -在LÖVE中导入和显示简单SVG的库
+* [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) -专注于像素艺术的缩放器，用于图形，位置，屏幕捕获和着色器
+* [Sölar](https://github.com/JanWerder/soelar) -一个相当简单的太阳系模拟器
 * [Tove2d](https://github.com/poke1024/tove2d) -LÖVE的动画矢量图形
-* [deep](https://github.com/Nikaoto/deep)  -增加Z轴；  允许您将动作排队并进行通话
+
 
 ## Entity
 *实体和游戏对象管理库*
@@ -135,7 +137,7 @@
 * [delaunay](https://github.com/Yonaba/delaunay) -凸多边形的Delaunay三角剖分
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) -强大的2D矢量类
 * [MLib](https://github.com/davisdude/mlib)  -用Lua编写的数学和形状相交检测库.  目的是要健壮且易于使用
-* [nvec](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) -hump.vector兼容的LuaJIT FFI加速2D矢量库
+* [nvec](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) - hump.vector-compatible LuaJIT FFI-accelerated 2D vector library
 * [shash](https://github.com/rxi/shash) -Lua的简单，轻量级空间哈希
 * [vector.lua](https://github.com/themousery/vector.lua) -基于处理的PVector类的简单向量库
 
@@ -188,7 +190,7 @@
 * Windows，Mac和Linux以外的平台的端口*
 
 * [LoveDos](https://github.com/rxi/lovedos) -用于2D DOS游戏的Lua框架，实现了LÖVEAPI的子集
-* [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1
+* [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) -Windows Phone 8.1的进行中端口
 * [LovePotion](https://github.com/TurtleP/LovePotion) -用于Nintendo 3DS和Nintendo Switch Homebrew的LÖVEAPI的非官方正在进行中的实现
 * [Love.js](https://github.com/TannerRogalsky/love.js) -使用Emscripten将LÖVE移植到网络上
 * [LÖVR](https://github.com/bjornbytes/lovr) -喜欢虚拟现实设备
@@ -277,6 +279,7 @@
 * [Luvent](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) -在Windows / Mac / Linux上打开文件选择器 
 * [nativefs](https://github.com/megagrump/nativefs) -在LÖVE允许的路径之外读写文件
+* [Optikon](https://optikon.co.uk/) -所见即所得的视觉水平设计师
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) -LÖVE的粒子编辑
 * [particle-system-playground](https://github.com/santoslove/particle-system-playground) -基本的LOW粒子系统编辑器
 * [splashy](https://github.com/videah/splashy) -启动画面库

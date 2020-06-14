@@ -50,7 +50,8 @@
 - [Masquerade](https://github.com/elgentos/masquerade) -Faker驱动，基于配置，与平台无关，与语言环境兼容的数据伪造工具
 - [Magento 2 Composer patches helper](https://chrome.google.com/webstore/detail/magento-2-composer-patche/gfndadbceejgfjahpfaijcacnmdloiad) -Chrome扩展程序，可为vaimo / composer-patches创建可复制复制的作曲家补丁定义.
 - [extdn/installer-m2](https://github.com/extdn/installer-m2) -Magento 2的通用扩展安装程序，由 [Magento Extension Developers Network](https://extdn.org/)
-- [mage2click/m2c](https://github.com/mage2click/m2c) -具有mutagen.io同步的Magento Docker开发环境，适用于macOS上的文件和Linux上的本机文件系统挂载 [mage2.click](https://mage2.click/) 
+- [mage2click/m2c](https://github.com/mage2click/m2c) -具有mutagen.io同步的Magento Docker开发环境，适用于macOS上的文件和Linux上的本机文件系统挂载 [mage2.click](https://mage2.click/)
+- [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce)
 
 ## Open Source Extensions
 
@@ -167,7 +168,7 @@
 - [Admin Auto Login](https://github.com/rogyar/magento2-autologin) -自动登录Magento 2管理员，对于演示非常有用
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) -快速轻松地将现有来宾结帐客户转换为注册客户.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) -重置UI书签允许管理员用户重置自己的UI书签，例如过滤器的状态，列位置和应用的排序（例如Sales&gt; Orders）.
-- [CLean Admin Menu](https://github.com/redchamps/clean-admin-menu) -将第三方扩展合并到单个菜单.
+- [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) -将第三方扩展合并到单个菜单.
 - [auroraextensions/simplereturns](https://github.com/auroraextensions/simplereturns) -Magento2的自助RMA.
 - [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors)  -Magento 2网格颜色模块，用于为管理网格着色.  支持借助网格书签保存状态.  通过 [Dmitry Shkoliar](https://shkoliar.com/)
 - [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2)  -Magento 2仪表板，用于显示已安装的扩展.  通过 [Magento Extension Developers Network](https://extdn.org/)
@@ -300,10 +301,10 @@
 - [Magento 2 Code Samples](https://github.com/magento/magento2-samples) -在Magento 2中介绍和演示新技术的示例.
 - [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) -由Magento构建的Dockerbox.
 -Magento大师2017
-  - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - 首席技术官 [elgentos](https://www.elgentos.nl/)
+  - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) -首席技术官 [elgentos](https://www.elgentos.nl/)
   - [Carmen Bremen](https://commercehero.io/neoshops) -的自由职业者 [neoshops](http://neoshops.de/)
   - [Tony Brown](https://commercehero.io/tonegolf71) -技术总监 [space48](http://www.space48.com/)
-  -[Hirokazu Nishi]（）
+  -[西洋博一]（）
   - [Brent Peterson](https://commercehero.io/brentwpeterson)
   - [Sonja Riesterer](https://commercehero.io/sonja)
   - [Kristof Ringleff](https://commercehero.io/fooman)

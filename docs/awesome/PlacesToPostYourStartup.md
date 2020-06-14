@@ -32,6 +32,7 @@
 *所有初创公司-http://www.allstartups.info/Startups/Submit
 *所有热门创业公司-http://alltopstartups.com/submit-startup/
 *替代-http://alternativeto.net/
+* AngelList-https://angel.co/
 * App 400-http://apps400.com/
 *应用建议-http://appadvice.com/page/about-us
 * App Appeal-http://www.appappeal.com/contact/suggest

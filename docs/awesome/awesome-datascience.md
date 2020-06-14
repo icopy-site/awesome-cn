@@ -173,7 +173,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Vamshi Ambati](https://allthingsds.wordpress.com/) -万物数据场景
 - [Prash Chan](http://www.mdmgeek.com/) -关于主数据管理及其周围所有嗡嗡声的技术博客
 - [Clare Corthell](http://datasciencemasters.org/) -开源数据科学大师
-- [Paul Miller](http://cloudofdata.com/) Cloud of Data的咨询服务总部位于英国，在全球范围内工作，可帮助客户了解将数据及更多内容带到Cloud的含义.
+- [Paul Miller](http://cloudofdata.com/) Cloud of Data的咨询服务总部位于英国，业务遍及全球，可帮助客户了解将数据及更多内容带到Cloud的含义.
 - [Data Science London](http://datasciencelondon.org/) 伦敦数据科学公司是一个非营利性组织，致力于数据科学的免费，开放，传播.
 我们是欧洲最大的数据科学社区.
 我们社区中有3190多名数据科学家和数据极客.
@@ -409,7 +409,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [neptune.ml](https://neptune.ml)  -&gt;社区友好型平台，支持数据科学家创建和共享机器学习模型.  Neptune促进了团队合作，基础架构管理，模型比较和可重复性.
  * [steppy](https://github.com/neptune-ml/steppy)  -&gt;轻量级的Python库，用于快速且可重复的机器学习实验.  引入了非常简单的界面，可以进行干净的机器学习管道设计.
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -&gt;精心挑选的神经网络，变换器和模型集合，可让您的机器学习更快，更有效地工作.
- * [Datalab from Google](https://cloud.google.com/datalab/docs/) 使用熟悉的语言（例如Python和SQL）以交互方式轻松地探索，可视化，分析和转换数据.
+ * [Datalab from Google](https://cloud.google.com/datalab/docs/) 使用熟悉的语言（例如Python和SQL）以交互方式轻松浏览，可视化，分析和转换数据.
  * [Hortonworks Sandbox](http://hortonworks.com/products/sandbox/) 是一个个人的，可移植的Hadoop环境，其中包含许多交互式Hadoop教程.
  * [R](http://www.r-project.org/) 是用于统计计算和图形的免费软件环境.
  * [RStudio](https://www.rstudio.com) IDE – R的强大用户界面.它是免费和开源的，可在Windows，Mac和Linux上运行.
@@ -419,7 +419,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均由基于革命性知识的Wolfram语言提供支持.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数字，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
@@ -450,7 +450,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Optimus](https://github.com/ironmussa/Optimus) -使用PySpark后端进行清理，预处理，功能工程，探索性数据分析和简单的ML. 
 * [Albumentations](https://github.com/albu/albumentations)  -快速且与框架无关的图像增强库，可实现多种增强技术.  支持分类，分割，开箱即用的检测.  曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.
 * [DVC](https://github.com/iterative/dvc)  -开源数据科学版本控制系统.  它有助于跟踪，组织数据科学项目并使之可重现.  在其最基本的方案中，它有助于版本控制以及共享大数据和模型文件.
-* [Lambdo](https://github.com/asavinov/lambdo) 是一种工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
+* [Lambdo](https://github.com/asavinov/lambdo) 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.
 * [Feast](https://github.com/feast-dev/feast)  -用于管理，发现和访问机器学习功能的功能存储.  Feast为模型训练和模型提供了一致的特征数据视图.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) -用于可重现和可扩展的机器学习和深度学习的平台.
 * [LightTag](https://lighttag.io) -团队文字注释工具
@@ -458,7 +458,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Hopsworks](https://github.com/logicalclocks/hopsworks)  -具有功能存储的开源数据密集型机器学习平台.  摄取和管理用于在线（MySQL群集）和离线（Apache Hive）访问的功能，大规模培训和提供模型.
 * [MindsDB](https://github.com/mindsdb/mindsdb)  -MindsDB是面向开发人员的可解释AutoML框架.  借助MindsDB，您可以像编写一行代码一样简单地构建，训练和使用最新的ML模型.
 * [Lightwood](https://github.com/mindsdb/lightwood) -一个基于Pytorch的框架，它将机器学习问题分解为较小的块，可以将这些块无缝地粘在一起，目的是用一行代码构建预测模型.
-* [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -一个开放源代码的Python程序包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.
+* [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) -一个开源Python软件包，它将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.
 
 ## Visualization Tools - Environments
  
@@ -547,7 +547,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) 
 * [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-
+* [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/data-science)
 
 ### Free Courses
 

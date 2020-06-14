@@ -33,7 +33,7 @@ CodeWyng在GitHub上提供了闪电般的快速代码导航：悬停文档，定
 </details>
 
 
-Octohint adds IntelliSense hint feature to GitHub.
+Octohint向GitHub添加了IntelliSense提示功能.
 
 <details><summary>Screenshots</summary>
 
@@ -280,7 +280,7 @@ OctoPermalinker使用要点创建日期添加仍然有效的永久链接.
 </details>
 
 
-GitHub的Omnibar就像 [bitbucket's](https://developer.atlassian.com/blog/2016/02/6-secret-bitbucket-features/?categories=git#omnibar)
+Omnibar for GitHub just like [bitbucket's](https://developer.atlassian.com/blog/2016/02/6-secret-bitbucket-features/?categories=git#omnibar)
 
 <details><summary>Screenshots</summary>
 
@@ -323,7 +323,7 @@ Chrome扩展程序，可帮助您避免错过与回购相关的新闻线程中�
 </details>
 
 
-super超小型chrome扩展程序，使您的GitHub新闻源更加有条理
+super超小型chrome扩展程序，使您的GitHub新闻源更加井井有条
 
 <details><summary>Screenshots</summary>
 
@@ -375,7 +375,7 @@ Chrome和Firefox扩展程序，可在GitHub新闻源中发生任何事件时显�
 
 
 
-A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
+Chrome和Firefox扩展程序，可在弹出窗口中快速查看您的通知，而无需离开当前页面.
 
 <details><summary>Screenshots</summary>
 
@@ -383,7 +383,7 @@ A Chrome and Firefox extension to quickly see your notifications in a popup with
 </details>
 
 
- 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并支持仅显示您正在参与的问题的未读计数的选项.您可以单击图标以快速查看未读通知.
+ 显示您的GitHub通知未读计数.  支持GitHub Enterprise，并提供仅显示您正在参与的问题的未读计数的选项.您可以单击图标以快速查看未读通知.
 
 <details><summary>Screenshots</summary>
 
@@ -454,6 +454,14 @@ GitHub的整洁悬浮卡.
 ## PullRequest
 
 
+在拉取请求界面中引入“浏览”选项卡，您可以在其中查看按重要性排序的更改，并查看每个更改周围的语义上下文.
+
+<details><summary>Screenshots</summary>
+
+ ![Semantic Code Reviews](https://github.com/explore-dev/semantic-code-reviews-community/blob/master/resources/teaser.gif)
+</details>
+
+
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
 
 <details><summary>Screenshots</summary>
@@ -472,7 +480,7 @@ Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be hel
 
 
 
-在GitHub源代码视图中突出显示选定的单词，例如Sublime Text.
+Highlight selected word in GitHub source view like Sublime Text.
 
 <details><summary>Screenshots</summary>
 
@@ -625,7 +633,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在资源库�
 </details>
 
 
-这是一个轻量级的Chrome扩展程序，可以自动检测以下实例 [asciinema](https://asciinema.org)  链接到GitHub上的README文件，并将播放器嵌入其位置.  与其直接进入asciinema网站观看“ asciicast”，不如直接在README（或任何`.md`，.rst`，.textile， [etc.](https://github.com/github/markup/blob/master/README.md#markups) 文件），这要感谢 [embedded player widget](https://asciinema.org/docs/embedding). 
+这是一个轻量级的Chrome扩展程序，可以自动检测以下实例 [asciinema](https://asciinema.org)  链接到GitHub上的README文件，并将播放器嵌入其位置.  与其直接进入asciinema网站观看“ asciicast”，不如直接在自述文件（或任何`.md`，.rst`，.textile， [etc.](https://github.com/github/markup/blob/master/README.md#markups) 文件），这要感谢 [embedded player widget](https://asciinema.org/docs/embedding). 
 
 <details><summary>Screenshots</summary>
 

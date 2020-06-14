@@ -8,7 +8,7 @@
 
 [GNOME](https://www.gnome.org/)  是Linux和Unixes的桌面环境，旨在让用户掌控一切.  它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
 
-&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是作为Classic模式维护和分发的扩展名.
+&gt;带有！[GNOME Core] [GNOME Core]标记的项目是GNOME项目正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为经典模式的一部分维护和分发的扩展.
 
 
   - [Developpement and Design](#developpement-and-design) 
@@ -172,7 +172,7 @@
 
 ### Themes
 
- &gt; **注意：** GNOME并不正式支持主题，并且自定义gtk样式表无法在所有应用程序中进行测试.  这意味着某些应用程序可能对此处的某些主题有疑问.  您可以通过命令行，dconf或Tweaks来更改GTK主题，但这也意味着如果有任何问题，这些片段将保留下来：
+ &gt; **注意：** GNOME并不正式支持主题，并且自定义gtk样式表无法在所有应用程序中进行测试.  这意味着某些应用程序可能对此处的某些主题有疑问.  您可以使用命令行，dconf或Tweaks来更改GTK主题，但这也意味着如果有任何问题，这些片段将保留给您:)
 
 - [Oomox](https://github.com/themix-project/oomox) -生成Numix和Materia主题的不同颜色.
 
@@ -200,7 +200,7 @@
 
 #### Flat
 
-- [Arc](https://github.com/NicoHood/arc-theme)  -具有透明元素的平面主题.  （GTK，壳牌）
+- [Arc](https://github.com/jnsh/arc-theme)  -具有透明元素的平面主题.  （GTK，壳牌）
 - [Pop](https://github.com/pop-os/gtk-theme/)  -System76的Pop！\ _ OS官方主题.  （GTK，壳牌）
 - [Numix](https://github.com/numixproject/numix-gtk-theme)  -流行的扁平半暗主题，带有橙色触感.  （GTK）
 - [Zukitre](https://github.com/lassekongo83/zuki-themes)  -浅灰色主题，是zuki-theme套件的一部分.  （GTK，与Zuki-Shell一起用于shell主题）
@@ -281,7 +281,7 @@
 - [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) -完美的起点，开始为GNOME做贡献.
 - [GNOME Developer Center](https://developer.gnome.org/) -包含所有官方GNOME文档.
 - [Valadoc](https://valadoc.org/) -有关Vala的文档.
-- [GJS Documentation](http://devdocs.baznga.org/) -JavaScript GTK绑定的文档.
+- [GJS Documentation](https://gjs-docs.gnome.org/) -JavaScript GTK绑定的文档.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) -用Python编写GTK + 3应用程序的简介.
 
 [GNOME核心]：https://cdn.rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-icon-symbolic.svg
