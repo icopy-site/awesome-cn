@@ -22,6 +22,7 @@ Deno是使用V8并内置于Rust的JavaScript和TypeScript的简单，现代且�
 ### External Docs
 
 - [V8 Docs for Deno](https://denolib.github.io/v8-docs/)
+- [DenoBeginner.com](https://DenoBeginner.com) -面向初学者的deno完全免费的速成课程.
 
 ### Online Playgrounds
 
@@ -76,7 +77,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-using](https://github.com/hayd/deno-using) -带有deno语句的python样式.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) -deno的UUID模块.
 - [deno-ws](https://github.com/keroxp/deno-ws) -用于deno.ts的websocket服务器的实验性实现.
-- [deno-websocket](https://github.com/ryo-ma/deno-websocket) -一个简单的WebSocket库，例如node.js库的ws.
+- [deno-websocket](https://github.com/ryo-ma/deno-websocket) - 🦕A simple WebSocket library like ws of node.js library.
 - [deno-xml-parser](https://github.com/nekobato/deno-xml-parser) -从segmentio / xml-parser移植的Deno XML解析器.
 - [denotrain](https://github.com/Caesar2011/denotrain) -带有中间件支持的多合一Web框架，如Express或Fastify forNode.js.
 - [dinatra](https://github.com/syumai/dinatra) -Sinatra像deno的轻量级Web应用程序框架.
@@ -114,7 +115,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [status](https://github.com/denosaurs/status) -用于Deno的HTTP代码和状态实用程序.
 - [textproto](https://github.com/denoland/deno_std/tree/master/textproto)
 - [time.ts](https://github.com/burhanahmeed/time.ts) -Time.ts-简便的Deno时区操作
-- [type-fest](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
+- [type-fest](https://github.com/denoserverless/type-fest) -基本TypeScript类型的集合（sindresorhus端口/ type-fest）.
 - [unexpected](https://github.com/unexpectedjs/unexpected) -可扩展的BDD断言工具包.
 - [up](https://github.com/denorg/up) -检查是否在Deno建立了网站.
 - [wasm-gzip](https://github.com/manyuanrong/wasm_gzip) -为Deno加密和解密gzip.

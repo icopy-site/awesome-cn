@@ -51,6 +51,7 @@
 ## Libraries
 
 - [Savory](https://gitlab.com/MAlrusayni/savory) -用于基于Seed构建用户界面的库.
+- [seed-icons](https://crates.io/crates/seed-icons) -具有图标集合的库，可包含在基于种子的应用程序中.
 
 ## Contribute
 

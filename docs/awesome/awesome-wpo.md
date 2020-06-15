@@ -21,7 +21,7 @@
 
 ## Articles
 
-&gt;前往 [https://github.com/davidsonfellipe/awesome-wpo/blob/master/ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/ARTICLES.md).
+&gt;前往 [ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/ARTICLES.md).
 
 ## Blogs
 
@@ -63,7 +63,7 @@
 
 ## People
 
-&gt;前往 [https://github.com/davidsonfellipe/awesome-wpo/blob/master/PEOPLE.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/PEOPLE.md).
+&gt;前往 [https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/PEOPLE.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/PEOPLE.md).
 
 ## Events
 
@@ -75,11 +75,11 @@
 
 ### Meetups
 
-&gt;它们分为 [https://github.com/davidsonfellipe/awesome-wpo/blob/master/MEETUPS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/MEETUPS.md).
+&gt;它们分为 [https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/MEETUPS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/MEETUPS.md).
 
 ## Talks
 
-&gt;它们分为 [https://github.com/davidsonfellipe/awesome-wpo/blob/master/TALKS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/TALKS.md).
+&gt;它们分为 [https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/TALKS.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/TALKS.md).
 
 ## Tools
 
@@ -96,7 +96,7 @@
 - [Grunt-yslow](https://github.com/andyshora/grunt-yslow) -使用PhantomJS（无头WebKit浏览器）测试页面性能的艰巨任务.
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) -用于执行性能预算的Grunt.js任务（[more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
 - [Web Tracing Framework](https://github.com/google/tracing-framework) -Web跟踪框架是一组库，工具和可视化工具，用于跟踪和研究复杂的Web应用程序
-- [Yandex.Tank](https://github.com/yandex/yandex-tank) -针对高级linux用户的可扩展的开源负载测试工具，特别适合作为自动负载测试套件的一部分.
+- [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extensible open source load testing tool for advanced linux users which is especially good as a part of an automated load testing suite.
 - [Yellow Lab Tools](http://yellowlab.tools) -在线快速简便的工具，可审计前端不良做法，揭示性能问题并配置JavaScript.
 - [Pagelocity](http://pagelocity.com/) -网络性能优化和分析工具.
 - [Varvy](https://varvy.com/pagespeed/) -测试您的网站，看看它是否符合Google的速度指南.
@@ -132,7 +132,7 @@
 - [Benchmark.js](http://benchmarkjs.com/) -健壮的基准测试库，可在几乎所有JavaScript平台上运行，支持高分辨率计时器，并返回具有统计意义的结果.
 - [JSlitmus](https://github.com/broofa/jslitmus) -JSLitmus是用于创建临时JavaScript基准测试的轻量级工具.
 - [Matcha](https://github.com/logicalparadox/matcha)  -Matcha可让您设计实验来衡量代码的性能.  建议每个工作台重点关注应用程序中的特定影响点.
-- [Timing.js](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
+- [Timing.js](https://github.com/addyosmani/timing.js)  -Timing.js是一小组帮助程序，可与Navigation Timing API一起使用，以识别您的应用程序在哪里花费时间.  可用作独立脚本，DevTools代码段或书签.
 - [Stats.js](https://github.com/mrdoob/stats.js) -此类提供了一个简单的信息框，可帮助您监视代码性能.
 - [PerfTests](https://github.com/kogarashisan/PerfTests) -JavaScript继承模型的性能测试.
 - [Memory-stats.js](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
@@ -180,7 +180,6 @@
 - [Browser Calories](https://github.com/zenorocha/browser-calories-chrome) -衡量绩效预算的最简单方法.
 
 ## Image Optimizers
-
 &gt;如何删除所有不必要的数据并为您提供文件而又不降低质量.
 
 - [Grunt-smushit](https://github.com/heldr/grunt-smushit) -Grunt插件，使用Yahoo Smushit删除不必要的PNG和JPG字节.
@@ -202,7 +201,7 @@
 - [Tinypng](https://tinypng.com/) -用于PNG图像的高级有损压缩，可保留完整的Alpha透明度.
 - [Kraken Web-interface](https://kraken.io/web-interface) -优化图像，可以下载12个小时.
 - [Compressor](https://compressor.io/) -JPG，PNG，SVG和GIF的在线图像压缩器.
-- [Shrinkray](https://shrinkray.io) - One-click optimization for images in your GitHub repos
+- [Shrinkray](https://shrinkray.io) -一键式优化GitHub存储库中的图像
 - [mozjpeg](https://github.com/mozilla/mozjpeg) -改进的JPEG编码器.
 - [Jpegoptim](https://github.com/tjko/jpegoptim) -用于优化/压缩JPEG文件的实用程序.
 - [ZopfliPNG](https://github.com/google/zopfli) -用于优化PNG图像的命令行程序.
@@ -210,6 +209,7 @@
 - [Leanify](https://github.com/JayXon/Leanify) -轻量无损的文件压缩/优化工具.
 - [Trimage](http://trimage.org/) -用于无损优化PNG和JPG文件的跨平台工具.
 - [ImageEngine](https://imageengine.io) -云服务，可通过强大的移动支持即时优化，调整大小和缓存图像.
+- [ImageKit.io](https://imagekit.io) -智能实时图像优化，具有全球交付网络和存储的图像转换.
 
 ## Lazyloaders
 
@@ -298,7 +298,7 @@
 ## Generators
 
 - [Glue](https://github.com/jorgebastida/glue) -胶水是生成精灵的简单命令行工具：
-- [Pitomba-spriter](https://github.com/pitomba/spriter)  -Spriter是使用Python的CSS的简单灵活的动态精灵生成器.  它可以提供同步处理和异步处理CSS的功能，因为它提供了要在python代码中使用的类，并且还提供了一个监视程序，该监视程序侦听您的文件系统，并在更改静态值后立即更改CSS和Sprite.
+- [Pitomba-spriter](https://github.com/pitomba/spriter)  -Spriter是使用Python的CSS的简单灵活的动态精灵生成器.  它可以提供同步处理和异步处理CSS的功能，因为它提供了要在python代码中使用的类，并且还提供了一个监听程序，该监听程序侦听您的文件系统，并在更改静态值后立即更改CSS和Sprite.
 - [Grunt-spritesmith](https://github.com/Ensighten/grunt-spritesmith) -Grunt任务，用于将一组图像转换为Spritesheet和相应的CSS变量.
 - [Grunt-sprite-css-replace](https://www.npmjs.com/package/grunt-sprite-css-replace) -Grunt任务，该任务从样式表中引用的图像生成一个Sprite，然后使用新的Sprite图像和位置更新引用.
 - [Grunt-svg-sprite](https://www.npmjs.com/package/grunt-svg-sprite) -SVG精灵和丰富的堆栈-Grunt插件环绕svg-sprite，可读取一堆SVG文件，对其进行优化，并创建各种样式的SVG精灵和CSS资源.
@@ -316,11 +316,11 @@
 ## SVG
 
 - [SVGO](https://github.com/svg/svgo) -SVGO是用于优化SVG矢量图形文件的基于Node.js的工具.
-- [SVG OMG](https://jakearchibald.github.io/svgomg/) -SVGOMG是SVGO的Missing GUI，旨在公开SVGO的大多数（如果不是全部）配置选项.
+- [SVG OMG](https://jakearchibald.github.io/svgomg/) - SVGOMG is SVGO's Missing GUI, aiming to expose the majority, if not all the configuration options of SVGO.
 - [Grunt-svgmin](https://github.com/sindresorhus/grunt-svgmin) -使用SVGO for Grunt缩小SVG.
 - [Gulp-svgmin](https://www.npmjs.com/package/gulp-svgmin) -使用SVGO为Gulp缩小SVG.
-- [Scour](http://www.codedread.com/scour/) -Scour是一个开放源代码的Python脚本，可以主动清除SVG文件，从而消除了某些工具或作者嵌入到其文档中的大量“内容”.
-- [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner)  -SVG Cleaner可以帮助您从不必要的数据中清除SVG文件.  它具有许多清理和优化选项，以批处理模式工作，并在多核处理器上提供线程处理.
+- [Scour](http://www.codedread.com/scour/) -Scour是一个开放源代码的Python脚本，可主动清除SVG文件，从而消除了某些工具或作者嵌入到其文档中的大量“内容”.
+- [SVG Cleaner](https://github.com/RazrFalcon/SVGCleaner) - SVG Cleaner could help you to clean up your SVG files from unnecessary data. It has a lot of options for cleanup and optimization, works in batch mode, provides threaded processing on the multicore processors.
 
 ## Web Components
 
@@ -345,7 +345,7 @@
 
 ## Web server Modules
 
-- [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download)  -PageSpeed可以加速您的网站并减少页面加载时间.  此开源Web服务器模块自动将Web性能最佳实践应用于页面和相关资产（CSS，JavaScript，图像），而无需您修改现有内容或工作流.  PageSpeed可用作Apache 2.x和Nginx 1.x的模块.
+- [PageSpeed Module](https://developers.google.com/speed/pagespeed/module/download)  -PageSpeed可以加速您的网站并减少页面加载时间.  此开源Web服务器模块自动将Web性能最佳实践应用于页面和相关资产（CSS，JavaScript，图像），而无需您修改现有内容或工作流程.  PageSpeed可用作Apache 2.x和Nginx 1.x的模块.
 - [WebP-detect](https://github.com/igrigorik/webp-detect) -具有接受协商功能的WebP.
 
 ## Specs
@@ -354,14 +354,14 @@
 - [Page Visibility](http://www.w3.org/TR/page-visibility/) -本规范定义了一种方法，站点开发人员可以以编程方式确定页面的当前可见性状态，以开发功能强大且CPU效率高的Web应用程序.
 - [Navigation Timing](https://w3c.github.io/navigation-timing/) -本规范定义了一个统一的接口，用于存储和检索与文档导航有关的高分辨率性能指标数据.
 - [Resource Timing](http://www.w3.org/TR/resource-timing/) -该规范定义了一个接口，供Web应用程序访问文档中资源的完整定时信息.
-- [User Timing](http://www.w3.org/TR/user-timing/) -该规范定义了一个接口，以帮助Web开发人员通过访问高精度时间戳来评估其应用程序的性能.
+- [User Timing](http://www.w3.org/TR/user-timing/) -该规范定义了一个接口，可帮助Web开发人员通过访问高精度时间戳来评估其应用程序的性能.
 - [Performance Timeline](http://www.w3.org/TR/performance-timeline/)  -该规范定义了一个统一的接口来存储和检索性能指标数据.  本规范不涵盖各个性能指标接口.
 - [CSS will-change](https://drafts.csswg.org/css-will-change/)  -此规范定义了“ will-change” CSS属性，该属性使作者可以提前声明将来可能会更改的属性，因此UA可以在需要它们之前进行适当的优化.  这样，当实际更改发生时，页面会迅速更新.
 - [Resource Hints](http://www.w3.org/TR/resource-hints/)  -此规范定义了HTML链接元素（&lt;link&gt;）的dns-prefetch，预连接，预取和预渲染关系.  这些原语使开发人员和服务器能够生成或交付资源，从而帮助用户代理确定应连接到哪个原始源以及应该获取和预处理哪些资源以提高页面性能的决策过程.
 
 ## Stats
 
-- [HTTP Archive](http://httparchive.org/index.php)  -这是Web性能信息的永久存储库，例如页面大小，失败的请求和所使用的技术.  这些性能信息使我们能够了解Web的构建趋势，并提供用于进行Web性能研究的通用数据集.
+- [HTTP Archive](http://httparchive.org/index.php)  -这是Web性能信息的永久性存储库，例如页面大小，失败的请求和使用的技术.  此性能信息使我们能够了解Web的构建趋势，并提供用于进行Web性能研究的通用数据集.
 
 ## Other Awesome Lists
 

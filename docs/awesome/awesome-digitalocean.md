@@ -6,7 +6,7 @@
 
 &gt;精选的超赞清单 [DigitalOcean](https://www.digitalocean.com) 指南，博客和其他资源.
 
- DigitalOcean的口号是它是为开发人员设计的简单而强大的云计算平台.  借助DigitalOcean，您可以轻松地单独或与团队一起启动云计算和存储资源. 
+ DigitalOcean的口号是它是为开发人员设计的简单而强大的云计算平台.  借助DigitalOcean，您可以轻松地单独或与团队一起使用云计算和存储资源. 
 
  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论.
 
@@ -36,7 +36,7 @@
 - [Spaces API](https://developers.digitalocean.com/documentation/spaces/)
 - [OAuth](https://developers.digitalocean.com/documentation/oauth/)
 - [Droplet Metadata](https://developers.digitalocean.com/documentation/metadata/)
-- [Official DO Release Notes](https://www.digitalocean.com/docs/release-notes/) -注意跟踪DigitalOcean云平台的增量改进和主要版本.
+- [Official DO Release Notes](https://www.digitalocean.com/docs/release-notes/) -注释跟踪DigitalOcean云平台的增量改进和主要版本.
 - [DigitalOcean API Slugs](https://slugs.do-api.dev/)
 
 ## Open source projects
@@ -49,8 +49,9 @@
 
 ## Commercial integrations
 
-- [SnapShooter DigitalOcean Backups](https://snapshooter.io/daily-hourly-digital-ocean-backups/) -用于每日备份和每小时备份小滴和卷的工具
-- [Hourly to Daily DigitalOcean Backups - Weap.io](https://weap.io) -用于安排更频繁的DigitalOcean备份的工具
+- [SimpleBackups](https://simplebackups.io) -用于在自动驾驶仪上计划DigitalOcean备份（文件和数据库）的工具.
+- [SnapShooter](https://snapshooter.io/daily-hourly-digital-ocean-backups/) -用于每日备份和每小时备份小滴和卷的工具
+- [Weap.io](https://weap.io)  -每小时到每天DigitalOcean备份.  安排更频繁的DigitalOcean备份的工具
 
 ## Community OSS projects
 
@@ -60,10 +61,10 @@
 - [foreman-digitalocean](https://github.com/theforeman/foreman-digitalocean) -插件，用于在Foreman中管理DigitalOcean小滴.
 - [lita-digitalocean](https://github.com/jimmycuadra/lita-digitalocean) -用于管理DigitalOcean服务的Lita处理程序.
 - [hostpool](https://github.com/progrium/hostpool) -DigitalOcean主机的工作池管理器.
-- [DDNS](https://github.com/skibish/ddns) -使用DigitalOcean Networking DNS作为后端的个人DDNS客户端.
+- [DDNS](https://github.com/skibish/ddns) -带有DigitalOcean Networking DNS作为后端的个人DDNS客户端.
 - [Less Confusing Menus](https://github.com/addpipe/Less-Confusing-Digital-Ocean-Menus) -Chrome扩展程序，可简化帐户菜单.
 - [DigitalOcean Droplet creator](https://github.com/NicholasPCole/dodc) -基于对话框的Shell脚本，可快速创建一个DigitalOcean Droplet.
-- [do-upgrade-plans](https://github.com/bjornjohansen/do-upgrade-plans) -以相同的费用将DigitalOcean Droplet升级到更好计划的脚本.
+- [do-upgrade-plans](https://github.com/bjornjohansen/do-upgrade-plans) -以相同的费用将DigitalOcean Droplet升级到更好的计划的脚本.
 
 ## Clients
 
@@ -82,11 +83,11 @@
 - [Reddit community](https://www.reddit.com/r/digital_ocean/)
 - [`##digitalocean` on freenode](https://webchat.freenode.net/)
 - [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct)
-- [User Scripts](https://github.com/digitalocean/do_user_scripts) -用户数据脚本，可帮助在Droplet上预配应用程序.
+- [User Scripts](https://github.com/digitalocean/do_user_scripts) -用户数据脚本，可帮助在Droplet上配置应用程序.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) -与GitHub合作，为期一个月的开源软件庆祝活动.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Jon Leibowitz](https://github.com/jonleibowitz) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Jon Leibowitz](https://github.com/jonleibowitz) 放弃了此作品的所有版权以及相关或邻近的权利.

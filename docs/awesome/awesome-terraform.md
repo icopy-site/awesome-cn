@@ -6,7 +6,7 @@
 [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) 受欢迎的！
 
- Terraform使您能够安全，可预测地创建，更改和改善生产基础架构.  它是一个开放源代码工具，将API编码为声明性配置文件，这些文件可以在团队成员之间共享，视为代码，进行编辑，审阅和版本控制.
+ Terraform使您能够安全，可预测地创建，更改和改善生产基础架构.  它是一个开放源代码工具，将API编码为声明性配置文件，这些文件可以在团队成员之间共享，视为代码，进行编辑，查看和版本控制.
 
 
 
@@ -30,6 +30,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf)
 * [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices)
 * [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
+* [serverless.tf - Doing serverless with Terraform](https://serverless.tf/) -serverless.tf是一个坚定的开源框架，用于使用Terraform在AWS上开发，构建，部署和保护无服务器应用程序和基础架构. [Read more](https://github.com/antonbabenko/serverless.tf).
 
 ## Books
 
@@ -68,7 +69,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ### Azure
 
-* [Learning HashiCorp Terraform](https://www.g10s.io/hashicorp-terraform/) - Guide for Azure.
+* [Learning HashiCorp Terraform](https://www.g10s.io/hashicorp-terraform/) -Azure指南.
 * [New Terraform Azure Automation Resources](https://bgelens.nl/terraform-automation-resources/) -Azure自动化.
 * [Terraforming Azure PaaS](https://devkimchi.com/2019/01/21/terraforming-azure-paas/) -在Azure上部署PaaS资源.
 
@@ -77,7 +78,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) -说明如何使用远程状态在Terraform配置之间共享数据.
 * [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) -显示由Terraform支持的基础架构的幕后解决方案 [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) 在 [Segment](https://segment.com/).
 * [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
-* [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - Some hard-earned experience from using Terraform in the wild, and some operational wisdom.
+* [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) -在野外使用Terraform有一些来之不易的经验，以及一些操作上的智慧.
 * [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) -有关使用Terraform来提供示例AWS架构的演示的说明.
 * [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimation) -基于Terraform计划（0.12+）或Terraform状态（任何版本）的匿名，安全和免费的Terraform成本估算.
 
@@ -101,9 +102,10 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-aws-modules](https://github.com/terraform-aws-modules) -社区支持的Terraform AWS模块集合（包括官方AWS模块）.
 * [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) -在RDS上创建PostgreSQL.
 * [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) -在AWS（已验证模块）上创建RDS资源.
-* [terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) -使用基于CIS Amazon Web Services Foundations的安全基准配置来设置您的AWS账户.
+* [terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - Set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations.
 * [terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) -在AWS（已验证模块）上创建EC2-VPC安全组.
 * [terraform-aws-ssh-bastion-service](https://github.com/joshuamkite/terraform-aws-ssh-bastion-service) -Terraform计划将ssh堡垒部署为AWS上的无状态服务.
+* [terraform-aws-lambda](https://github.com/terraform-aws-modules/terraform-aws-lambda) -Terraform模块，该模块构建依赖关系和程序包，并以无数组合创建AWS Lambda资源.
 * [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) -在AWS（已验证且非常流行的模块）上创建VPC资源.
 * [terraform-azurerm-aks](https://github.com/kjanshair/terraform-azurerm-aks) -在Azure上创建AKS资源.
 * [terraform-azurerm-iis](https://github.com/ghostinthewires/terraform-azurerm-iis-install) -在Azure VM实例上安装IIS服务器.
@@ -166,7 +168,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terratest](https://github.com/gruntwork-io/terratest) -Terratest是一个Go库，可以更轻松地为基础结构代码编写自动化测试.
 
 ## Tools
-* [astro](https://github.com/uber/astro/) -Astro是用于将多个Terraform执行作为单个命令进行管理的工具.
+* [astro](https://github.com/uber/astro/) - Astro is a tool for managing multiple Terraform executions as a single command.
 * [atlantis](https://github.com/runatlantis/atlantis) -通过GitHub在Terraform上进行协作的统一工作流程.
 * [blast radius](https://github.com/28mm/blast-radius) -Terraform依赖图的交互式可视化.
 * [fogg](https://github.com/chanzuckerberg/fogg) -消除管理Terraform资料库中的工作的工具.
@@ -237,7 +239,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) -通过本演练了解如何为Terraform提供商做出贡献或创建自己的提供商.
 * [Evolving Your Infrastructure with Terraform](https://www.youtube.com/watch?v=wgzgVm7Sqlk) -OpenCredo的CTO借助一些有趣的用例，全面了解了在现实世界中使用Terraform的情况.
 * [Going Multi-Cloud with Terraform and Nomad](https://www.youtube.com/watch?v=e42A4aBZUkQ).
-* [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  -Yevgeniy Brikman讨论了如何编写Terraform代码以使其可重用，可组合和可测试.  该演讲重点介绍了Terraform模块，还简要说明了Terraform所要解决的问题，并简要介绍了Terraform基础知识（2017年10月约39分钟）.
+* [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)  -Yevgeniy Brikman讨论了如何编写Terraform代码以使其可重用，可组合和可测试.  该演讲重点介绍了Terraform模块，还简要介绍了Terraform创建的要解决的问题，并简要介绍了Terraform基础知识（2017年10月约39分钟）.
 * [How to Extend the Terraform Provider List](https://www.youtube.com/watch?v=2BvpqmFpchI) -在此演讲中，Paul将逐步介绍如何创建Terraform提供程序.
 * [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul) -Mitchell Hashimoto展示了如何使用Terraform来部署和扩展容器化工作负载.
 * [Production ChaosMonkey with Terraform](https://www.youtube.com/watch?v=CPI6W3LK0-g) -DigitalOcean如何使用Terraform进行生产集成测试.

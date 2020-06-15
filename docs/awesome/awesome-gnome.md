@@ -65,6 +65,7 @@
 - [Curlew](https://curlew.sourceforge.io/) -多媒体转换器.
 - [Cozy](https://github.com/geigi/cozy) -有声读物播放器.
 - [Pitivi](http://www.pitivi.org/) -美丽而强大的视频编辑器.
+- [Podcasts](https://wiki.gnome.org/Apps/Podcasts) -听您喜欢的播客.
 
 ### Graphics
 
@@ -76,7 +77,7 @@
 ### Gaming
 
 - [Lutris](https://github.com/lutris/lutris) -开源游戏平台.
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) -游戏启动器和libretro的仿真前端.
+- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 
 ### System and Customization
 
@@ -96,6 +97,7 @@
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) -Keepass兼容的密码管理器.
 - [Passbook](https://gitlab.gnome.org/gnumdk/passbook) -与freedesktop机密兼容的密码管理器.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) -烹饪应用.
+- [RecApp](https://github.com/amikha1lov/RecApp) -用户友好的开源截屏程序.
 
 ### Developpement and Design
 
@@ -113,6 +115,7 @@
 ### Others
 
 - [razerCommander](https://github.com/GabMus/razerCommander) -控制中心，用于管理Razer外围设备.
+- [Boxes](https://wiki.gnome.org/Apps/Boxes) -查看，访问和管理远程和虚拟系统.
 
 ## Third-party Apps Plugins
 
@@ -146,7 +149,7 @@
 - [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) -先进的MPRIS小程序.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) -todo.txt的界面.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) -一个todo.txt管理器，时间跟踪器，计时器，秒表，番茄和闹钟.
-- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation.
+- [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) -KDE Con​​nect实施.
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) -用于管理Docker容器的扩展
 - [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) -传统系统.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) -Appindicator系统.

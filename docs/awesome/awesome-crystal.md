@@ -114,7 +114,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) -将文件开头的内容与其内容分开
  * [geoip2.cr](https://github.com/delef/geoip2.cr) -GeoIP2阅读器
  * [HAR](https://github.com/NeuraLegion/har) -HAR（HTTP存档）解析器
- * [INI](https://crystal-lang.org/api/INI.html) -此解析器文件（Crystal stdlib）
+ * [INI](https://crystal-lang.org/api/INI.html) -此文件解析器（Crystal stdlib）
  * [JSON](https://crystal-lang.org/api/JSON.html) -解析和生成JSON文档（Crystal stdlib）
  * [JSON tools](https://github.com/impatienttraveller/json-tools) -JSON补丁和指针RFC的实现
  * [JSON::OnSteroids](https://github.com/anykeyh/json_on_steroids) -轻松处理和变异JSON文档
@@ -193,7 +193,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [glove](https://github.com/ddfreyne/glove) -游戏开发库
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，内置对许多流行的UI库（如Bootstrap）的支持
 
 ## HTML/XML Parsing
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) -的绑定 [Gumbo](https://github.com/google/gumbo-parser)，由Google制作的HTML5解析库
@@ -279,6 +279,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [Crirc](https://github.com/Meoowww/Crirc) -IRC协议实施（客户端，服务器，机器人）
  * [crystal-dns](https://gitlab.com/jgillich/crystal-dns) -DNS协议实施和解析器
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  -JSON套接字客户端和服务器实现.  受到启发并与之兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt) -MQTT客户端
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) -具有版本1、2c和3的SNMP实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) -快速IRC解析器/生成器
  * [jwt](https://github.com/crystal-community/jwt) -JWT（JSON Web令牌）的实现

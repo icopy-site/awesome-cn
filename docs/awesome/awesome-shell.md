@@ -90,7 +90,7 @@
 * [hss](https://github.com/six-ddc/hss) -具有自动完成和异步执行功能的交互式并行ssh客户端
 * [hstr](https://github.com/dvorka/hstr) -Bash历史记录建议框
 * [jump](https://github.com/gsamokovarov/jump) -Jump通过学习习惯来帮助您更快地浏览文件系统.
-* [k](https://github.com/supercrabtree/k) -k是Zsh脚本，可以使目录列表更加可读，并添加Git状态，文件重量颜色和腐烂日期
+* [k](https://github.com/supercrabtree/k) -k是Zsh脚本，可以使目录列表更具可读性，并添加Git状态，文件重量颜色和腐烂日期
 * [k alias](https://github.com/lingtalfi/k) -使用简单的单线获取kool别名（以及更多）
 * [lazy-cd](https://github.com/pedramamini/lazy-cd) -简单的bash命令，用于书签导航文件系统，并带有bash-completion.
 * [lf.sh](https://github.com/suewonjp/lf.sh) -快速搜索键入更少的文件，然后执行更多操作（抓取，复制路径到剪贴板等）
@@ -126,7 +126,7 @@
 * [task-manager](https://github.com/lingtalfi/task-manager) -仅需执行两次或三个击键即可执行所有脚本.
 * [td-cli](https://github.com/darrikonn/td-cli) -一个待办事项命令行管理器，可以跨多个项目组织和管理您的待办事项.
 * [thefuck](https://github.com/nvbn/thefuck) -使用易于记忆的命令修复常见的Shell错误
-* [tldr](https://github.com/raylee/tldr) -用于tldr，简化和社区驱动的手册页的全功能bash客户端
+* [tldr](https://github.com/raylee/tldr-sh-client) -用于tldr，简化和社区驱动的手册页的全功能bash客户端
 * [tmux](https://tmux.github.io/) -惊人的终端多路复用器
 * [undollar](https://github.com/ImFeelingDucky/undollar) -美元刚从您刚粘贴到终端的命令提示中咬掉美元符号
 * [up](https://github.com/shannonmoeller/up)  -按名称或计数升序目录；  用于bash，zsh和鱼.
@@ -135,7 +135,7 @@
 * [xsv](https://github.com/BurntSushi/xsv) -用Rust编写的快速CSV命令行工具包
 * [xxh](https://github.com/xxh/xxh) -无论您通过SSH到哪里，都可以带上自己喜欢的外壳.
 * [z](https://github.com/rupa/z) -z是新的j，哟
-* [z.lua](https://github.com/skywind3000/z.lua) - A new cd command that helps you navigate faster by learning your habits
+* [z.lua](https://github.com/skywind3000/z.lua) -新的cd命令，可帮助您通过学习习惯来更快地导航
 
 ## Customization
 
@@ -191,7 +191,7 @@
 * [slap](https://github.com/slap-editor/slap) -在Node.js上运行的类似Sublime的基于终端的文本编辑器
 * [shipit](https://github.com/sapegin/shipit) -简约的SSH部署
 * [starring](https://github.com/ritz078/starring) -自动为您在GitHub上使用的npm-package加上星号.
-* [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
+* [tag](https://github.com/aykamko/tag) -立即跳转到您的AG比赛.
 * [wipe-modules](https://github.com/bntzio/wipe-modules) -删除非活动项目的node_modules文件夹的小代理
 
 ## System Utilities
@@ -215,7 +215,7 @@
 * [ls++](https://github.com/trapd00r/ls--) -在类固醇上的彩色ls
 * [lsp](https://github.com/dborzov/lsp) -改进的`ls`，具有简单语言的文件描述和智能文件分组功能
 * [maza](https://github.com/tanrax/maza-ad-blocking)  -本地广告拦截器.  像Pi-hole，但在本地使用操作系统.
-* [mtr](https://github.com/traviscross/mtr) -单个网络诊断工具中“ traceroute”和“ ping”程序的功能.
+* [mtr](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [ncdu](https://dev.yorhel.nl/ncdu) -NCurses磁盘使用情况
 * [nmtui](https://github.com/NetworkManager/NetworkManager) -用于控制NetworkManager的文本用户界面
 * [powertop](https://github.com/fenrus75/powertop) -电池/电源使用情况和设备状态监视命令行工具，带有调优选项.
@@ -281,7 +281,7 @@
 * [geeknote](https://github.com/VitaliyRodnenko/geeknote) -命令行Evernote客户端
 * [haxor-news](https://github.com/donnemartin/haxor-news) -像黑客一样浏览黑客新闻
 * [hn-cli](https://github.com/rafaelrinaldi/hn-cli) -在舒适的终端上浏览黑客新闻
-* [iponmap](https://github.com/nogizhopaboroda/iponmap) -使用IP地址在世界地图上绘制点
+* [iponmap](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup](https://github.com/lord63/isitup) -检查网站是否正常
 * [jrnl](https://github.com/jrnl-org/jrnl) -一个简单的命令行日志应用程序，将您的日志存储在纯文本文件中
 * [ledger](https://github.com/ledger/ledger) -命令行会计
@@ -313,7 +313,7 @@
 * [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) -Bash实施扫雷
 * [nudoku](https://github.com/jubalh/nudoku) -用C语言编写的基于ncurses的数独游戏
 * [piu-piu](https://github.com/vaniacer/piu-piu-SH) -具有多人游戏模式的bash水平滚动游戏！
-* [sedtris](https://github.com/uuner/sedtris) -但在世界上
+* [sedtris](https://github.com/uuner/sedtris) -但是世界
 * [sed-scripts](https://github.com/aureliojargas/sed-scripts) -使用sed编写的打砖块和推箱子
 * [SHTAP](https://notimetoplay.org/engines/shtap/) -适用于Bash 4的可重用文本冒险引擎
 * [tty-solitaire](https://github.com/mpereira/tty-solitaire) -在您的终端上玩单人纸牌！
@@ -358,7 +358,7 @@
 * [mo](https://github.com/tests-always-included/mo) -纯bash的胡须模板
 * [optparse](https://github.com/nk412/optparse) -用于getopts的BASH包装器，用于简单的命令行参数.
 * [rerun](https://github.com/rerun/rerun) -模块化的shell自动化框架，用于组织您的keeper脚本
-* [revolver](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
+* [revolver](https://github.com/molovo/revolver) -Shell脚本的可重用进度微调器
 * [phases](https://github.com/sorokine/phases) -微创bash预处理器，选择要运行的脚本部分
 * [semver_bash](https://github.com/cloudflare/semver_bash) -Bash中的语义版本控制
 * [sh-semver](https://github.com/qzb/sh-semver) -用于bash的Semver工具-查找与指定规则匹配的版本
@@ -398,7 +398,7 @@
 * [awesome-zsh] [awesome-zsh]
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
-[awesome-badge]：https：//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-badge]：https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-fish]：https://github.com/jorgebucaran/awesome-fish
 [awesome-link]：https：//github.com/sindresorhus/awesome
 [awesome-zsh]：https://github.com/unixorn/awesome-zsh-plugins

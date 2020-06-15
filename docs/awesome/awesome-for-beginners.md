@@ -86,7 +86,7 @@ A list of awesome beginner-friendly projects.
 
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  OpenStreetMap的规范通用品牌名称
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JavaScript中易于使用的OpenStreetMap编辑器.
-- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  任务控制是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
+- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only) _(label: first-timers-only)_ <br> Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动Web应用程序，可将希望运送包裹的DAV用户与可在开放和自由市场中寻找工作的自动无人机连接起来.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  流行的语音识别库用于与从网站到智能镜像再到无人机的各种通信.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only)  _（标签：仅限首次）_ <br>  PouchDB是一个袖珍数据库.
@@ -144,7 +144,7 @@ A list of awesome beginner-friendly projects.
 - [Babel](https://github.com/babel/babel/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用于编写下一代JavaScript的编译器.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  轻松创建自己的react-content-loader的工具.
 - [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  git工作流程的开源内容管理.
-- [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于所有平台的功能丰富的GraphQL精美客户端
+- [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于所有平台的功能丰富的精美GraphQL客户端.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Angular＆Electron应用程序，用于在PC上浏览和搜索视频.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy)  _（标签：简单）_ <br>  回合制策略游戏，您可以3D打印具有独特能力的生物小队，以击败敌人.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct/labels/help%20wanted)  _（标签：需要帮助）_ <br>  Ramda Adjunct是与Ramda一起使用的最流行和最全面的功能实用程序集，它提供各种有用的，经过测试的功能以及出色的文档.
@@ -221,6 +221,7 @@ A list of awesome beginner-friendly projects.
 - [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  它是科学计算的核心库，其中包含强大的n维数组对象.
 - [matplotlib](https://github.com/matplotlib/matplotlib/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Matplotlib是一个综合库，用于在Python中创建静态，动画和交互式可视化.
 - [datascience](https://github.com/data-8/datascience/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一个用于介绍数据科学的Jupyter笔记本Python库.
+- [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner)  _（标签：初学者）_ <br>  贝叶斯模型的探索性分析
 
 ## Ruby
 
@@ -246,7 +247,7 @@ A list of awesome beginner-friendly projects.
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一堆棉绒来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：优先事项）_ <br>  根据样式准则格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  用于Rust的可扩展的并发Web框架
-- [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy) _(label: D: Easy)_ <br> A distributed transactional key-value database
+- [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy)  _（标签：D：简单）_ <br>  分布式交易关键值数据库
 - [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用Rust编写的GitHub时代的现代shell.
 - [Hyper](https://github.com/hyperium/hyper/labels/E-easy)  _（标签：E-easy）_ <br>  一个用于Rust的快速，安全和正确的低级HTTP库.
 
