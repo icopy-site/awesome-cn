@@ -10,9 +10,9 @@
 
 ## :tipping_hand_woman: About this List
 
-这是关于**很棒的资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') ：heart_eyes：
+这是关于**很棒资源**的集合 [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') ：heart_eyes：
 
- ** Prisma是一个开源数据库工具包**.  它取代了传统的ORM，并使用针对TypeScript和Node.js的自动生成的查询生成器使数据库访问变得容易.
+ ** Prisma是开源ORM **. 它具有类型安全性，并为TypeScript和Node.js自动生成了查询生成器，从而使数据库访问变得容易.
 
 ## :books: Docs
 
@@ -56,7 +56,9 @@
 - [An Introduction to Prisma 2](https://blog.logrocket.com/an-introduction-to-prisma-2/)
 - [Static Sites with Next.js 9.3 and Prisma](https://leerob.io/blog/next-prisma)
 - [Using Prisma with GraphQL Codegen](https://medium.com/tomorrowapp/using-prisma-with-graphql-codegen-eed022c13749)
+- [Using Prisma in Azure Functions](https://swacblooms.com/using-prisma-in-azure-functions/)
 - [Building a sane Docker image for Typescript, Yarn Workspaces and Prisma 2](https://medium.com/@emilefugulin/building-a-sane-docker-image-for-typescript-lerna-and-prisma-2-76d8ff9926e4)
+- [Building a Backend for React with Next.js, Prisma 2, and PostgreSQL](https://www.youtube.com/watch?v=Bqacj0iOL68)
 
 ### Tutorials with [Nexus](https://www.nexusjs.org/#/)
 - [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)
@@ -88,7 +90,7 @@
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/catalinmiron/awesome-prisma/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/catalinmiron/awesome-prisma/blob/master/contributing.md) 第一.
 
 ## License
 

@@ -4,6 +4,8 @@
 
 积极维护的开源游戏翻拍.
 
+如果您也对克隆和类似游戏（0 AD等）感兴趣，请关注 [Open Source Game Clones](https://osgameclones.com/).
+
 ---
 
 
@@ -24,14 +26,14 @@
 - [engge](https://github.com/scemino/engge) -顶针公园的实验性游戏引擎.
 - [raw(gl)](https://github.com/cyxx/rawgl) -重新实现另一个世界.
 - [ResidualVM](https://github.com/residualvm/residualvm) -重新实现游戏引擎，使您可以玩3D冒险游戏，例如Grim Fandango和Monkey Island中的Escape.
-- [ScummVM](https://github.com/scummvm/scummvm) -允许您运行某些经典的图形化点击式冒险游戏，例如Maniac Mansion和Monkey Island.
+- [ScummVM](https://github.com/scummvm/scummvm) -允许您运行某些经典的图形点击式冒险游戏，例如Maniac Mansion和Monkey Island.
 
 ## Arcade
 - [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) -野蛮人：终极战士的开源克隆.
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) -经典的头顶枪战游戏.
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) -RetroArch / Libretro的8个炸弹人克隆人.
 - [OpenClonk](https://github.com/openclonk/openclonk) -多人动作游戏，您可以控制小而灵活的类人动物.
-- [Open Kick-Off](https://github.com/ssenegas/kickoff) -改写邪教足球比赛的尝试2.
+- [Open Kick-Off](https://github.com/ssenegas/kickoff) -重写邪教足球比赛的尝试2.
 - [OpenTyrian](https://bitbucket.org/opentyrian/opentyrian/wiki/Home) -Tyrian的开源端口，从Turbo Pascal到C.
 - [Taisei](https://github.com/taisei-project/taisei) -东方系列的粉丝制作的开放源代码克隆.
 - [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) -经典的ZX Spectrum游戏，采用便携式C语言进行的《大逃亡》.
@@ -47,9 +49,9 @@
 - [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine) -id Software的DOOM I / II和Raven Software的Heretic和Hexen的源端口.
 - [DukeGDX](https://gitlab.com/m210/DukeGDX) -Duke Nukem 3D端口.
 - [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) -基于Wolf4SDL的Wolfenstein 3D端口.
-- [ezQuake](https://github.com/ezQuake/ezquake-source) -结合了所有现代QuakeWorld客户的功能，ezQuake使QuakeWorld的启动和播放变得更加容易.
+- [ezQuake](https://github.com/ezQuake/ezquake-source) -结合所有现代QuakeWorld客户的功能，ezQuake使QuakeWorld的启动和播放变得更加容易.
 - [Freedoom](https://github.com/freedoom/freedoom) -基于经典DOOM引擎的免费软件FPS.
-- [GZDoom](https://github.com/coelckers/gzdoom) -基于DOOM引擎的对Modder友好的OpenGL和Vulkan源端口.
+- [GZDoom](https://github.com/coelckers/gzdoom) -基于DOOM引擎的易于修改的OpenGL和Vulkan源端口.
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) -Hexen II游戏的跨平台端口.
 - [ioquake3](https://github.com/ioquake/ioq3) -免费软件FPS引擎，可用于玩Quake 3或制作自己的游戏.
 - [NBlood](https://github.com/nukeykt/NBlood) -经典FPS鲜血之港.
@@ -60,7 +62,7 @@
 - [RedneckGDX](https://gitlab.com/m210/RedneckGDX) -乡下人狂暴的港口.
 - [The Eternity Engine](https://github.com/team-eternity/eternity) -高级DOOM源端口.
 - [The Force Engine](https://github.com/luciusDXL/TheForceEngine) -适用于现代系统的Jedi Engine和使用该引擎的游戏-Dark Forces and Outlaws.
-- [Tyrquake](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
+- [Tyrquake](https://github.com/libretro/tyrquake) -Tyrquake的Libretro港口.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) -id Software Quake II的增强客户端，专注于离线和合作游戏.
 - [vkQuake](https://github.com/Novum/vkQuake) -使用Vulkan而不是OpenGL进行渲染的Quake端口.
 
@@ -68,7 +70,7 @@
 - [2006rebotted](https://github.com/dginovker/2006rebotted) -2006 Runescape仿真服务器.
 - [FreeSO](https://github.com/riperiperi/FreeSO) -重新实现《模拟人生在线》，主要针对移动设备.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) -第一个3D MMORPG，于1996年发布，于2012年开源.Meridian59的原始代码库.
-- [Opengate](https://sourceforge.net/projects/opengate/) -重做Jumpgate.
+- [Opengate](https://sourceforge.net/projects/opengate/) -重制Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) -开源旧式RuneScape客户端.
 - [Ryzom Core](https://bitbucket.org/ryzom/ryzomcore/src/develop/) -Ryzom Core包含用于制作商业MMORPG Ryzom的全部代码（客户端，服务器，工具）.
 - [Space Station 14](https://github.com/space-wizards/space-station-14) -空间站14是重制空间站13的尝试.
@@ -76,20 +78,20 @@
 ## RPG
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) -第一人称角色扮演游戏Arx Fatalis的跨平台端口.
 - [Barony](https://github.com/TurningWheel/Barony) -Barony的开源版本.
-- [BtBuilder](https://github.com/dulsi/btbuilder) -Bard&#39;s Tale建设集的开源实现.
+- [BtBuilder](https://github.com/dulsi/btbuilder) -Bard&#39;s Tale Construction Set的开源实现.
 - [Daggerfall Unity](https://github.com/Interkarma/daggerfall-unity) -在Unity引擎中创建Daggerfall.
 - [Devilution](https://github.com/diasurgical/devilution) -暗黑破坏神原始源代码的重构形式.
 - [DevilutionX](https://github.com/diasurgical/devilutionX) -暗黑破坏神构建现代操作系统.
 - [DGEngine](https://github.com/dgengin/DGEngine) -暗黑破坏神游戏引擎的实现.
 - [Exult](https://github.com/exult/exult) -为现代操作系统重新创建Ultima 7的项目.
-- [Falltergeist](https://github.com/falltergeist/falltergeist) -使用C ++和SDL编写的Crossplatform Fallout 2游戏引擎.
+- [Falltergeist](https://github.com/falltergeist/falltergeist) -用C ++和SDL编写的Crossplatform Fallout 2游戏引擎.
 - [Freeablo](https://github.com/wheybags/freeablo) -Diablo引擎的开源实现.
 - [FreeFT](https://github.com/nadult/FreeFT) -受辐射策略启发的实时等距动作游戏引擎.
 - [GemRB](https://github.com/gemrb/gemrb) -无限引擎的便携式开源重新实现（由Baldur&#39;s Gate，Icewind Dale等使用）.
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) -暗黑破坏神2的开源重新实现.
 - [OpenGothic](https://github.com/Try/OpenGothic) -重新实现哥特式2：乌鸦之夜.
 - [OpenMW](https://github.com/OpenMW/openmw) -晨风游戏引擎的重新实现.
-- [OpenTESArena](https://github.com/afritz1/OpenTESArena) -Bethesda Softworks对《上古卷轴：竞技场》的现代引擎重新实现.
+- [OpenTESArena](https://github.com/afritz1/OpenTESArena) -Bethesda Softworks重新制作了《上古卷轴：竞技场》的现代引擎.
 - [OpenVIII](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
 - [REGoth](https://github.com/REGoth-project/REGoth-bs) -哥特式和哥特式II背后的引擎zEngine的开源重新实现.
 - [Riiablo](https://github.com/collinsmith/riiablo) -使用Java和LibGDX重新制作了《暗黑破坏神II》.
@@ -115,22 +117,22 @@
 ## Racing
 - [DreeRally](https://github.com/enriquesomolinos/DreeRally) -死亡拉力赛引擎的重新实现.
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) -尝试重新创建经典的极品飞车游戏（1-6）.
-- [Vangers](https://github.com/KranX/Vangers) -Racing / RPG混合动力由其创建者以C ++开源.
+- [Vangers](https://github.com/KranX/Vangers) -Racing / RPG混合动力由其创建者开源，并用C ++编写.
 
 ## Simulator
-- [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) -用于Windows，macOS，Linux的Descent和Descent 2引擎的源端口.
+- [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) -Windows，macOS，Linux的Descent和Descent 2引擎的源端口.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) -FreeSpace2源代码项目.
 - [Librelancer](https://github.com/Librelancer/Librelancer) -重新实现了2003年的太空游戏Freelancer.
-- [Open Horizon](https://github.com/undefined-darkness/open-horizon) -Ace Combat：Assault Horizo​​n的渲染和物理的开源实现.
+- [Open Horizon](https://github.com/undefined-darkness/open-horizon) -Ace Combat的开源实现：《攻击地平线》的渲染和物理.
 
 ## Strategy
-- [Antares](https://github.com/arescentral/antares) -重制战神，战术太空战斗游戏.
+- [Antares](https://github.com/arescentral/antares) -重制战神战术空间战斗游戏.
 - [CivOne](https://github.com/SWY1985/CivOne) -实施Sid Meier文明.
-- [CorsixTH](https://github.com/CorsixTH/CorsixTH) -主题医院的克隆，支持现代操作系统，高分辨率等.
+- [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
 - [Cortex Command Community Project Source](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) -由社区推动的努力，以继续开发Cortex Command.
-- [FreeCol](https://sourceforge.net/projects/freecol/) -基于回合制策略游戏，基于旧版游戏《殖民》.
+- [FreeCol](https://sourceforge.net/projects/freecol/) -基于旧游戏《殖民化》的回合制策略游戏.
 - [Jagged Alliance Stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) -使《铁血联盟2》可在多种平台上使用.
-- [Julius](https://github.com/bvschaik/julius) -重新实现凯撒三世.
+- [Julius](https://github.com/bvschaik/julius) -重新实施凯撒三世.
 - [KaM Remake](https://github.com/Kromster80/kam_remake) -从零开始用Delphi编写的骑士和商人的RTS游戏重制.
 - [KeeperRL](https://github.com/miki151/keeperrl) -受矮人要塞启发的Roguelike地牢建造者.
 - [openage](https://github.com/SFTtech/openage) -帝国时代II引擎克隆.
@@ -138,10 +140,10 @@
 - [openblack](https://github.com/openblack/openblack) -重新实现黑白.
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) -流行游戏Dune II的娱乐.
 - [Open Fodder](https://github.com/OpenFodder/openfodder) -Cannon Fodder的开源实现.
-- [OpenHoW](https://github.com/TalonBraveInfo/OpenHoW) -重新制作Gremlin的《战猪》.
+- [OpenHoW](https://github.com/TalonBraveInfo/OpenHoW) -格雷姆林的战争猪的娱乐.
 - [OpenLoco](https://github.com/OpenLoco/OpenLoco) -重新实现克里斯·索耶（Chris Sawyer）的运动.
 - [Open Panzer](https://github.com/nicupavel/openpanzer) -HTML5 Panzer General 2.
-- [OpenRA](https://github.com/OpenRA/OpenRA)  -使用.NET / mono和OpenGL实现Red Alert引擎.  在Windows，Linux和macOS上运行.
+- [OpenRA](https://github.com/OpenRA/OpenRA)  -使用.NET / mono和OpenGL实现Red Alert引擎. 在Windows，Linux和macOS上运行.
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) -过山车大亨的娱乐2.
 - [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
 - [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) -由Maxis重新制作SimCity 2000.

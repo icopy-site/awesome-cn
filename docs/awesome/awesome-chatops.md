@@ -16,16 +16,18 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 * [So, What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/) – ChatOps概念和工具.
 * [What is ChatOps? A guide to its evolution, adoption, and significance](http://blogs.atlassian.com/2016/01/what-is-chatops-adoption-guide/) – ChatOps及其被HipChat传播者采用.
 * [How ChatOps can revolutionize your business](http://www.infoworld.com/article/3062703/devops/how-chatops-can-revolutionize-your-business.html) –使用ChatOps，工具，当前趋势和未来的好处.
-* [8 Reasons Why ChatOps Isn't Working At Your Company](https://www.vividcortex.com/blog/8-reasons-why-chatops-isnt-working-at-your-company) –关于为何无法在您的公司中优化ChatOps的见解，以及有关如何使其正常工作的一些建议.
+* [8 Reasons Why ChatOps Isn't Working At Your Company](https://www.vividcortex.com/blog/8-reasons-why-chatops-isnt-working-at-your-company) –关于为何无法在您的公司中优化ChatOps的见解，以及有关如何使其正常运行的一些建议.
 * [When ChatOps Goes From Cool to Critical](http://blog.librato.com/posts/chatops-critical) – Librato的ChatOps的一些注意事项.
+* [Better Living Through ChatOps](https://medium.com/ibm-garage/better-living-through-chatops-df66872893e7) -ChatOps提供的在管理虚拟作战室方面的优势.
+* [Making a Virtual War Room — the Journey to ChatOps](https://medium.com/ibm-garage/making-a-virtual-war-room-the-journey-to-chatops-eaaecd83873c) -逐步创建虚拟作战室.
 
 ## Videos
 
 * [ChatOps at GitHub](https://www.youtube.com/watch?v=NST3u-GjjFw) + [slides](https://speakerdeck.com/jnewland/chatops-at-github) –杰西·纽兰德（Jesse Newland）首次就此主题进行公开演讲.
 * [ChatOps: Technology and Philosophy](https://www.youtube.com/watch?v=IhzxnY7FIvg) – Stackstorm的James Fryman，介绍了实现和维护ChatOps的理念，最佳实践.
-* [The Rise of ChatOps](https://www.youtube.com/watch?v=6D5HgI4IH10) + [slides](https://speakerdeck.com/jimmycuadra/the-rise-of-chatops) – Jimmy Cuadra在旧金山举行的首次ChatOps聚会中.
+* [The Rise of ChatOps](https://www.youtube.com/watch?v=6D5HgI4IH10) + [slides](https://speakerdeck.com/jimmycuadra/the-rise-of-chatops) –在Jimmy Cuadra的首次ChatOps旧金山聚会上.
 * [ChatOps: Augmented Reality for Ops](https://www.youtube.com/watch?v=pCVvYCjvoZI) – Github如何使用聊天功能来提高事件发生时的态势感知，共享知识，协调活动等等.
-* [Living in the Future with ChatOps](https://www.youtube.com/watch?v=Heo5YtRikds) + [slides](https://speakerdeck.com/esigler/living-in-the-future-with-chatops) – Eric Sigler对PagerDuty的ChatOps旅程的快速总结.
+* [Living in the Future with ChatOps](https://www.youtube.com/watch?v=Heo5YtRikds) + [slides](https://speakerdeck.com/esigler/living-in-the-future-with-chatops) – Eric Sigler对PagerDuty的ChatOps旅程的简要概述.
 * [Incident Management from the Future](https://www.youtube.com/watch?v=vFkfMn2P8ysA) + [slides](https://cloud.app.box.com/s/xm8ni5b61iyuk0nclq7jcvtkhkzcepdx) – Michael Ansel如何通过Box上的聊天管理事件.
 * [ChatOps San Francisco YouTube Channel](https://www.youtube.com/channel/UCAvvR4g9fodNAS61Ep_XnMg) –每次聚会都有更多视频.
 * [Installing Hubot on Windows with PowerShell DSC](https://www.youtube.com/watch?v=Gh-vYprIo7c) -使用Hubot PowerShell所需状态配置（DSC）资源在Windows上安装Hubot.
@@ -35,9 +37,9 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ## Books
 
-* [ChatOps For Dummies](https://victorops.com/chatops-for-dummies/) –理解实践起源，入门所需的好处和工具的高级指南.
+* [ChatOps For Dummies](https://victorops.com/chatops-for-dummies/) –理解实践的起源，入门所需的好处和工具的高级指南.
 * [ChatOps – Managing Operations in Group Chat](https://victorops.com/knowledge-drop/devops-docs/chatops-managing-operations-group-chat/) – Jason Hand撰写的关键ChatOps概念和技术.
-* [Automation and Monitoring with Hubot](https://leanpub.com/automation-and-monitoring-with-hubot) -一本电子书，可指导您构建由Hubot驱动的ChatOps实现.
+* [Automation and Monitoring with Hubot](https://leanpub.com/automation-and-monitoring-with-hubot) -一本电子书，可引导您构建由Hubot驱动的ChatOps实现.
 
 ## Events
 
@@ -45,7 +47,7 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ## Podcasts
 
-* [ChatOps Extravaganza With Jason Hand, Sasha Rosenbaum, And Peter Burkholder](https://www.arresteddevops.com/chatops/) –关于ChatOps最佳做法的一集.
+* [ChatOps Extravaganza With Jason Hand, Sasha Rosenbaum, And Peter Burkholder](https://www.arresteddevops.com/chatops/) –有关ChatOps最佳做法的一集.
 * [ChatOps with Jason Hand](http://softwareengineeringdaily.com/2016/11/02/chatops-with-jason-hand/) -有关ChatOps的一集.
 
 ## Resources
@@ -54,8 +56,8 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ## Services
 
-* [WorkflowCI](https://www.workflowci.com)  –针对开发人员的IFTTT（免费）.  与Slack，GitHub，CircleCI，Google Cloud Build集成.
-* [AWS ChatBot](https://aws.amazon.com/chatbot/) -交互式代理，用于监视Slack中的AWS资源并与之交互.
+* [WorkflowCI](https://www.workflowci.com)  –针对开发人员的IFTTT（免费）. 与Slack，GitHub，CircleCI，Google Cloud Build集成.
+* [AWS ChatBot](https://aws.amazon.com/chatbot/) -用于监视Slack中的AWS资源并与之交互的交互式代理.
 
 ## Frameworks and libraries
 

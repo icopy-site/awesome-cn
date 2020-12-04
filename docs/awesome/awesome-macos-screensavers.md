@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;精选的macOS屏幕保护程序列表.
+&gt; macOS屏保的精选列表.
 
 受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
@@ -14,19 +14,19 @@
 
 ### fliqlo
 
-&gt;翻转时钟屏保.
+&gt;时钟翻转屏保.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/fliqlo.png)](http://fliqlo.com/)
 
 ### Today
 
-&gt;以类似于On Kawara的“今日系列”绘画的方式显示时间或日期.
+&gt;以类似于On Kawara的“今天系列”绘画的方式显示时间或日期.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/today.png)](http://www.gingerbeardman.com/today/)
 
 ### Word Clock
 
- &gt;用字做成的钟.  它在圆形和段落布局之间切换.
+ &gt;用字做成的钟. 它在圆形和段落布局之间切换.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/wordClock.png)](https://www.simonheys.com/wordclock/)
 
@@ -50,7 +50,7 @@
 
 ### Word Clock
 
-&gt;超级简单的字时钟，就像您的计算机在为您输入时间.
+&gt;超级简单的字时钟，就像您的计算机在为您输入时间一样.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
@@ -70,7 +70,7 @@ Free
 
 ### ScreenMazer
 
-&gt;在显示当前时间的同时连续构建然后解决迷宫问题.
+&gt;在显示当前时间的同时，不断构建然后解决迷宫问题.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
@@ -86,7 +86,21 @@ Free
 
 &gt;捕食者启发的时钟屏幕保护程序.
 
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/predator.png)](https://predatorsaver.space/)
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/predator.png)](https://github.com/vpeschenkov/Predator)
+
+### Death Counter
+
+&gt;一个简单的计数器屏幕保护程序，它可以算作您的死亡. 
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
+
+### MinimalClock
+
+&gt;用于MacOS的简单优雅的屏幕保护程序，用于显示时间.
+
+Free
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
 ## Apple Inspired
 
@@ -126,7 +140,7 @@ Free
 
 ### October 30
 
-&gt;在其2018年iPad活动中的371个Apple徽标之间平滑切换.
+&gt;在2018年iPad活动中的371个Apple徽标之间平滑切换.
 
 Free
 
@@ -144,7 +158,7 @@ Free
 
 ### PongSaver
 
- &gt; PongSaver是一个macOS屏幕保护程序/时钟，它通过使用Pong游戏的得分来保持时间.  左侧每小时赢得一次，右侧每小时赢得一次.
+ &gt; PongSaver是一个macOS屏幕保护程序/时钟，它通过使用Pong游戏的得分来保持时间. 左侧每小时赢得一次，右侧每小时赢得一次.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
 
@@ -160,7 +174,7 @@ $0.99
 
 ### The Github Matrix Screensaver
 
-&gt; GitHub的最新提交以矩阵样式的动画形式可视化.
+&gt;来自GitHub的最新提交以矩阵样式的动画形式可视化.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/githubMatrix.png)](https://github.com/winterbe/github-matrix-screensaver)
 
@@ -236,7 +250,7 @@ Donationware
 
 ### Emoji Saver
 
-&gt;通过7种不同的效果为Apple，EmojiOne和Twitter Emojis设置动画，并具有许多可自定义的设置.
+&gt;用7种不同的效果为Apple，EmojiOne和Twitter Emojis设置动画，并具有许多可自定义的设置.
 
 精简版（免费）和完整版（3美元）
 
@@ -259,6 +273,14 @@ Donationware
 Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
+
+### Last Statement
+
+&gt;就像macOS的“每日一词”屏幕保护程序一样，它不是单词和定义，而是德克萨斯州执行人员的姓名和最后声明.
+
+免费（开源）
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/last-statement.png)](https://www.github.com/amiantos/last-statement)
 
 ## Collections
 

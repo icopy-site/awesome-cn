@@ -9,6 +9,9 @@
 
 
 ## Utilities
+* [Nigiri](https://github.com/vulpemventures/nigiri/)  -CLI与Electrs和Esplora一起快速启动一个比特币regtest框. 包括水龙头和推动命令.
+* [Nigiri in Travis](https://github.com/vulpemventures/nigiri-travis) -Travis模板，用于将Nigiri添加到您的Travis（或Github Action）管道中.
+* [hal](https://github.com/stevenroose/hal) -比特币CLI瑞士军刀（基于rust-bitcoin）.
 * [BitKey](https://bitkey.io) -实时USB，可进行隔空交易和比特币瑞士军刀.
 * [Pycoin](https://github.com/richardkiss/pycoin) -基于Python的比特币和替代硬币实用程序库.
 * [bx](https://github.com/libbitcoin/libbitcoin-explorer) -比特币命令行工具.
@@ -16,10 +19,12 @@
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) -一组简单的程序，可以生成比特币钱包，创建和签名交易以及通过比特币网络发送交易.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) -绕过缺口限制，在您的比特币高清钱包中查找所有使用的地址.
+* [LibreSelery](https://github.com/protontypes/libreselery) -自动将比特币分配给您的项目贡献者，并将其依赖项集成到GitHub Actions中. 
 
 ## Blockchain API and Web services
 * [block.io](https://block.io)
 * [BlockCypher](https://www.blockcypher.com)
+* [Esplora](https://github.com/Blockstream/esplora) -自托管的区块链资源管理器.
 * [Gem.co](https://gem.co)
 * [Insight](https://insight.is)
 * [Chain.com](https://chain.com)
@@ -28,6 +33,10 @@
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) -自托管的支付网关.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) -Chainradar的Blockchain Explorer API.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) 共享您的比特币地址的更好方法.
+
+## Market Data API
+* [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) 可以访问市场数据的JSON REST API（免费和付费）. 也可以下载CSV数据文件.
+* [Messari.io](https://messari.io/api) JSON REST API（免费和付费），可访问市场数据，新闻，指标，个人资料等. 
 
 ## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)
@@ -43,6 +52,7 @@
 ## Blockchain Explorers
 * [Chain.so](http://chain.so)
 * [Blockchain.com](https://blockchain.com)
+* [Blockstream.info](https://blockstream.info) -带有API的区块链资源管理器（主网，测试网和Liquid）.
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
@@ -72,9 +82,10 @@
 ## Python Libraries
 * [BlockTrail SDK Python](https://github.com/blocktrail/blocktrail-sdk-python)
 * [btctxstore](https://github.com/F483/btctxstore) -使用OP_RETURN在比特币交易中存储/检索信息的简单库.
-* [pybitcointools](https://github.com/vbuterin/pybitcointools)  -来自Vitalik Buterin的Python库，用于比特币签名和交易.  项目已终止.
-* [pycoin](https://github.com/richardkiss/pycoin)  -用于比特币密钥，签名，交易的Python库.  包括完整的VM实现和用于操纵键（ku）和事务（tx）的工具.
-* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)  -用于构建和分析事务和脚本（标准和自定义）的Python库.  带有UTXO集分析工具.  包括几个示例和详尽的文档. 
+* [pybitcointools](https://github.com/vbuterin/pybitcointools)  -用于Vitalik Buterin的比特币签名和交易的Python库. 项目已终止.
+* [pycoin](https://github.com/richardkiss/pycoin)  -用于比特币密钥，签名，交易的Python库. 包括完整的VM实现和用于操纵键（ku）和事务（tx）的工具.
+* [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)  -用于构建和分析事务和脚本（标准和自定义）的Python库. 带有UTXO集分析工具. 包括几个示例和详尽的文档.
+* [oogway](https://github.com/merwane/oogway) -适用于Python的安全比特币实用程序库.
 
 ## Java Libraries
 &gt;请注意，您也可以使用 [Scala libraries](#scala-libraries) 在Java中.
@@ -92,8 +103,7 @@
 
 ## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
-* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) -傻瓜的比特币脚本.
-* [Debug Script Execution](https://webbtc.com/script)
+* [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) -虚拟人的比特币脚本.
 * [Script Debugger](https://github.com/kallewoof/btcdeb)
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://iancoleman.io/bip39/)
@@ -109,6 +119,7 @@
 * [Blockchain2Graph](https://github.com/straumat/blockchain2graph) -图形数据库生成器.
 
 ## Full nodes
+* [btcd](https://github.com/btcsuite/btcd/) -自2013年以来，基于Go的完整节点.
 * [Bitcoin-ruby-node](https://github.com/mhanne/bitcoin-ruby-node) -基于bitcoin-ruby-blockchain的比特币节点.
 * [Fullnode](https://github.com/ryanxcharles/yours-bitcoin) -比特币的Javascript实现.
 * [Bitcore Node](https://github.com/bitpay/bitcore-node) -通过BitPay链接到node.js的bitcoind.
@@ -133,10 +144,12 @@
 * [@lopp / Lightning Developers](https://twitter.com/lopp/lists/lightning-developers) -具有在LN实施/应用程序上工作的经验的软件开发人员.
 * [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
 * [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
-
+* [bitcoin-resources.com](https://bitcoin-resources.com/) 比特币资源的元列表，从书籍，文章到播客.
+* [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) J. Lopp精心策划的非常详细的比特币资源列表和元列表
+* [River Learn](https://river.com/learn) 一系列教育资源，用于了解比特币的基础知识，投资，技术等.
 ---
 
-受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 由BlockchainU研究员创建.
 
 ---

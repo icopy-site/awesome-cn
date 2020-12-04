@@ -5,7 +5,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 这是有关机器人技术的各种书籍，课程和其他资源的列表.  这是一种尝试，它希望将有用的资料集中在一个地方，供希望了解该领域的每个人使用.
+这是有关机器人技术的各种书籍，课程和其他资源的列表. 这是一种尝试，它希望将有用的资料集中在一个地方，供希望了解该领域的每个人使用.
 
 
 ### Courses ###
@@ -22,7 +22,7 @@
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **库尔塞拉**
 * [QUT Robot Academy](https://robotacademy.net.au/) ** QUT **
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) ** QUT **
-* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **与**
+* [Introduction to robotics](http://ocw.mit.edu/courses/mechanical-engineering/2-12-introduction-to-robotics-fall-2005/) **有**
 * [Robotics: Vision Intelligence and Machine Learning](https://www.edx.org/course/robotics-vision-intelligence-machine-pennx-robo2x) ** edX **
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **斯坦福大学**
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **斯坦福大学**
@@ -31,7 +31,7 @@
 * [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) ** edx ** 
 * [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **库尔塞拉**
 * [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) ** edx **
-* [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) ** ucberkeley
+* [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **加州大学伯克利分校**
 
 
 ### Books ###
@@ -59,19 +59,19 @@
 机器人模拟器
 
 [**ROS**](http://www.ros.org/)
- 机器人操作系统（ROS）是用于编写机器人软件的灵活框架.  它是工具，库和约定的集合，旨在简化跨各种机器人平台创建复杂且健壮的机器人行为的任务.
+机器人操作系统（ROS）是用于编写机器人软件的灵活框架. 它是工具，库和约定的集合，旨在简化跨各种机器人平台创建复杂而强大的机器人行为的任务.
 
 [**ROS2**](https://index.ros.org/doc/ros2/)
 ROS2是ROS的新版本，它对设计进行了根本性的更改，并对旧版ROS进行了改进.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
- RobWork是用于仿真和控制机器人系统的C ++库的集合.  RobWork用于研究和教育以及实际的机器人应用.
+ RobWork是C ++库的集合，用于仿真和控制机器人系统.  RobWork用于研究和教育以及实际的机器人应用.
 
 [**MRPT**](http://www.mrpt.org/)
 移动机器人编程工具包为开发人员提供了可移植且经过测试的应用程序和库，涵盖了常见机器人研究领域中采用的数据结构和算法.
 
 [**Robotics Library**](http://www.roboticslibrary.org/)
- 机器人库（RL）是一个独立的C ++库，用于机器人运动学，运动计划和控制.  它涵盖了数学，运动学和动力学，硬件抽象，运动计划，碰撞检测和可视化.
+机器人库（RL）是一个独立的C ++库，用于机器人运动学，运动计划和控制. 它涵盖了数学，运动学和动力学，硬件抽象，运动计划，碰撞检测和可视化.
 
 [**Simbad**](http://simbad.sourceforge.net/)
 Java和Jython中的2D / 3D模拟器.
@@ -80,10 +80,10 @@ Java和Jython中的2D / 3D模拟器.
 通用室内/室外3D模拟器.
 
 [**Carmen**](http://carmen.sourceforge.net/)
- CARMEN是用于移动机器人控制的开源软件集合.  CARMEN是一款模块化软件，旨在提供基本的导航原语，包括：基座和传感器控制，日志记录，避障，定位，路径规划和地图绘制.
+ CARMEN是用于移动机器人控制的开源软件集合.  CARMEN是一款模块化软件，旨在提供基本的导航原语，包括：基座和传感器控制，记录，避障，定位，路径规划和地图绘制.
 
 [**Peekabot**](http://www.peekabot.org/)
- Peekabot是用C ++编写的用于机器人技术的实时网络3D可视化工具.  其目的是简化机器人专家每天面临的可视化需求.
+ Peekabot是用C ++编写的用于机器人技术的实时网络3D可视化工具. 其目的是简化机器人专家每天所面临的可视化需求.
 
 [**YARP**](http://www.yarp.it/)
 另一个机器人平台.
@@ -92,7 +92,7 @@ Java和Jython中的2D / 3D模拟器.
 机器人模拟器，3D，可用的源代码，Lua脚本，C / C ++，Python，Java，Matlab，URBI的API，2个物理引擎，完整的运动学求解器.
 
 [**Webots**](https://www.cyberbotics.com/overview)
-Webots是一个用于对移动机器人进行建模，编程和仿真的开发环境.
+Webots是用于对移动机器人进行建模，编程和仿真的开发环境.
 
 [**Drake**](http://drake.mit.edu/)
 非线性动力学系统的计划，控制和分析工具箱.
@@ -104,13 +104,13 @@ Webots是一个用于对移动机器人进行建模，编程和仿真的开发�
 适用于机器人和传感器应用程序的免费软件工具
 
 [**Open AI's Roboschool**](https://github.com/openai/roboschool)
-用于机器人仿真的开源软件，与OpenAI Gym集成.
+与OpenAI Gym集成的用于机器人仿真的开源软件.
 
 [**ViSP**](http://visp.inria.fr/)
 开源视觉伺服平台库能够计算可应用于机器人系统的控制律.
 
 [**ROS Behavior Trees**](https://github.com/miccol/ROS-Behavior-Tree)
-开源库，以在ROS（机器人操作系统）中运行的行为树的形式创建机器人的行为.
+开源库，用于以ROS（机器人操作系统）中运行的行为树的形式创建机器人的行为.
 
 [**g2core**](https://github.com/synthetos/g2)
 用于CNC和机器人技术的开源运动控制软件，旨在在Arduino Due类微控制器上运行.
@@ -119,10 +119,10 @@ Webots是一个用于对移动机器人进行建模，编程和仿真的开发�
 用于与ROS集成的UR5机器人的开源OpenRAVE控制器.
 
 [**RBDL**](https://github.com/rbdl/rbdl)
- 开源（zlib）C ++ libray用于正向和反向动力学和运动学.  还支持触点和循环.
+开源（zlib）C ++ libray用于正向和反向动力学和运动学. 还支持触点和循环.
 
 ### Papers ###
-* [基于优化的控制器设计和实现
+* [基于优化的控制器的设计和实现
 DARPA机器人挑战赛决赛中的Atlas机器人]（https://www.cs.cmu.edu/~cga/drc/ICHR15_0025_MS.pdf）
 
 
@@ -166,11 +166,13 @@ DARPA机器人挑战赛决赛中的Atlas机器人]（https://www.cs.cmu.edu/~cga
 * [First Robotics Competition](http://www.firstinspires.org/robotics/frc)
 * [VEX Robotics Competition](https://www.vexrobotics.com/)
 * [RoboCup](http://www.robocup.org/)
+* [RoboCupJunior](https://junior.robocup.org/)
 * [Eurobot](http://www.eurobot.org/) 国际学生机器人大赛
-* [RoboMasters](http://www.robomasters.com/en/)
+* [RoboMasters](https://www.robomaster.com/en-US)
 * [RoboSoft, Grand Challenge](http://www.robosoftca.eu/)
 * [Intelligent Ground Vehicle Competition](http://www.igvc.org/)
 * [Robotex](https://robotex.ee/en/) 欧洲最大的机器人节
+* [First Lego League](https://www.firstlegoleague.org/)
 
 ### Companies ###
 * [Boston Dynamics](http://www.bostondynamics.com/) 机器人研发公司，最先进的创造者 [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) 和 [Spot](https://www.youtube.com/watch?v=M8YjvHYbZ9w) 机器人
@@ -183,7 +185,7 @@ DARPA机器人挑战赛决赛中的Atlas机器人]（https://www.cs.cmu.edu/~cga
 * [Rethink Robotics](http://www.rethinkrobotics.com/) 协作机器人的创造者 [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
 * [DJI](http://www.dji.com/) 满足商业和工业需求的无人机行业领导者.
 * [The construct sim](http://www.theconstructsim.com/)  一个基于云的工具，用于构建现代的，面向未来的机器人仿真.
-* [Fetch Robotics](http://www.fetchrobotics.com/) 加利福尼亚州圣何塞市的一家机器人初创公司，为电子商务实现和研发机器人的发展创造了未来.
+* [Fetch Robotics](http://www.fetchrobotics.com/) 一家位于加利福尼亚州圣何塞的机器人初创公司，为电子商务实现和研发机器人的发展创造了未来.
 * [Festo Robotics](https://www.festo.com/) Festo以制造像动物一样运动的移动机器人而闻名，例如SmartBird，海j，蝴蝶和袋鼠等海鸥.
 
 
@@ -211,3 +213,4 @@ DARPA机器人挑战赛决赛中的Atlas机器人]（https://www.cs.cmu.edu/~cga
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
 * [Awesome ROS2](https://github.com/fkromer/awesome-ros2)
+* [Awesome RoboCupJunior Soccer](https://github.com/RoboCupJuniorTC/awesome-rcj-soccer)

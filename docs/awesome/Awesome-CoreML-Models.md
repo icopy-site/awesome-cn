@@ -4,7 +4,7 @@
 
 <!--
 标题：令人敬畏的核心ML模型
-描述：精选的Core ML格式的机器学习模型列表.
+描述：精选的Core ML格式的机器学习模型.
 作者：李克丹
 -->
 <p align="center">
@@ -12,13 +12,13 @@
 </p>
 
 
-从iOS 11开始，苹果发布了Core ML框架，以帮助开发人员将机器学习模型集成到应用程序中. [The official documentation](https://developer.apple.com/documentation/coreml)
+自iOS 11起，苹果发布了Core ML框架，以帮助开发人员将机器学习模型集成到应用程序中. [The official documentation](https://developer.apple.com/documentation/coreml)
 
 我们以Core ML格式收集了最大数量的机器学习模型，以帮助iOS，macOS，tvOS和watchOS开发人员尝试机器学习技术.
 
 如果您已转换Core ML模型，请随时提交 [pull request](https://github.com/likedan/Awesome-CoreML-Models/compare).
 
- 最近，我们提供了可视化工具.  这是一个 [Netron](https://lutzroeder.github.io/Netron).
+最近，我们提供了可视化工具. 这是一个 [Netron](https://lutzroeder.github.io/Netron).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -26,7 +26,7 @@
 ## Models
 
 ## Image - Metadata/Text
-*以图像数据作为输入并输出有关图像的有用信息的模型.
+*将图像数据作为输入并输出有关图像的有用信息的模型.
  * ** TextDetection **-使用Vision内置模型实时检测文本.  [下载]（）| [Demo](https://github.com/tucan9389/TextDetection-CoreML) | [Reference](https://developer.apple.com/documentation/vision)
 * **照片评估**-使用Core ML和Metal进行照片评估. [Download](https://github.com/yulingtianxia/PhotoAssessment/blob/master/PhotoAssessment-Sample/Sources/NIMANasnet.mlmodel) | [Demo](https://github.com/yulingtianxia/PhotoAssessment) | [Reference](https://arxiv.org/abs/1709.05424)
 * ** PoseEstimation **-从手机图片估计人体姿势. [Download](https://github.com/edvardHua/PoseEstimationForMobile/tree/master/release) | [Demo](https://github.com/tucan9389/PoseEstimation-CoreML) | [Reference](https://github.com/edvardHua/PoseEstimationForMobile)
@@ -38,7 +38,7 @@
 * **汽车识别**-预测汽车的品牌和型号. [Download](https://github.com/likedan/Core-ML-Car-Recognition/blob/master/Convert/CarRecognition.mlmodel) | [Demo](https://github.com/ytakzk/CoreML-samples) | [Reference](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html)
 * ** YOLO **-识别给定图像中的对象是什么以及它们在图像中的位置. [Download](https://github.com/hollance/YOLO-CoreML-MPSNNGraph/blob/master/TinyYOLO-CoreML/TinyYOLO-CoreML/TinyYOLO.mlmodel) | [Demo](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) | [Reference](http://machinethink.net/blog/object-detection-with-yolo)
 * ** AgeNet **-根据肖像预测一个人的年龄. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
-* ** GenderNet **-根据自己的画像预测一个人的性别. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+* ** GenderNet **-根据人像预测一个人的性别. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 * ** MNIST **-从图像中预测手写（绘制）数字. [Download](https://github.com/ph1ps/MNIST-CoreML/raw/master/MNISTPrediction/MNIST.mlmodel) | [Demo](https://github.com/ph1ps/MNIST-CoreML) | [Reference](http://yann.lecun.com/exdb/mnist/)
 * ** EmotionNet **-根据人像预测人的情绪. [Download](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing) | [Demo](https://github.com/cocoa-ai/FacesVisionDemo) | [Reference](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
 * ** SentimentVision **-从图像中预测正面或负面情绪. [Download](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg) | [Demo](https://github.com/cocoa-ai/SentimentVisionDemo) | [Reference](http://www.sciencedirect.com/science/article/pii/S0262885617300355?via%3Dihub)
@@ -55,11 +55,11 @@
 ## Image - Image
 *转换图像的模型.*
 * ** HED **-从彩色图像中检测嵌套的边缘. [Download](https://github.com/s1ddok/HED-CoreML/blob/master/HED-CoreML/Models/HED_so.mlmodel) | [Demo](https://github.com/s1ddok/HED-CoreML) | [Reference](http://dl.acm.org/citation.cfm?id=2654889)
-* ** AnimeScale2x **-处理双立方缩放的动漫风格的艺术品 [Download](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) | [Demo](https://github.com/imxieyi/waifu2x-ios) | [Reference](https://arxiv.org/abs/1501.00092)
+* ** AnimeScale2x **-处理立方尺寸的动漫风格的艺术品 [Download](https://github.com/imxieyi/waifu2x-ios/blob/master/waifu2x/models/anime_noise0_model.mlmodel) | [Demo](https://github.com/imxieyi/waifu2x-ios) | [Reference](https://arxiv.org/abs/1501.00092)
 
 ## Text - Metadata/Text
 *处理文本数据的模型*
-* **情感极性**-从句子中预测正面或负面情绪. [Download](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) | [Demo](https://github.com/cocoa-ai/SentimentCoreMLDemo) | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
+* **情绪极性**-从句子中预测正面或负面情绪. [Download](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel) | [Demo](https://github.com/cocoa-ai/SentimentCoreMLDemo) | [Reference](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 * ** DocumentClassification **-将新闻文章分为5个类别中的1个类别. [Download](https://github.com/toddkramer/DocumentClassifier/blob/master/Sources/DocumentClassification.mlmodel) | [Demo](https://github.com/toddkramer/DocumentClassifier) | [Reference](https://github.com/toddkramer/DocumentClassifier/)
 * ** iMessage垃圾邮件检测**-检测邮件是否为垃圾邮件. [Download](https://github.com/gkswamy98/imessage-spam-detection/blob/master/MessageClassifier.mlmodel) | [Demo](https://github.com/gkswamy98/imessage-spam-detection/tree/master) | [Reference](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 * ** NamesDT **-使用DecisionTreeClassifier进行性别分类 [Download](https://github.com/cocoa-ai/NamesCoreMLDemo/blob/master/Names/Resources/NamesDT.mlmodel) | [Demo](https://github.com/cocoa-ai/NamesCoreMLDemo) | [Reference](http://nlpforhackers.io/)
@@ -67,10 +67,9 @@
 * **用于问题解答的BERT **-BERT用于问题解答的Swift Core ML 3实现 [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/BERTSQUADFP16.mlmodel) | [Demo](https://github.com/huggingface/swift-coreml-transformers#-bert) | [Reference](https://github.com/huggingface/pytorch-transformers#run_squadpy-fine-tuning-on-squad-for-question-answering)
 * ** GPT-2 **-OpenAI GPT-2文本生成（Core ML 3） [Download](https://github.com/huggingface/swift-coreml-transformers/blob/master/Resources/gpt2-512.mlmodel) | [Demo](https://github.com/huggingface/swift-coreml-transformers#-gpt-2) | [Reference](https://github.com/huggingface/pytorch-transformers)
 ## Miscellaneous
-* **运动**-预测在右上臂佩戴iPhone时的运动. [Download](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Demo](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Reference](http://lausbert.com/2017/08/03/exermote/)
+* **运动**-预测将iPhone戴在右上臂上时的运动. [Download](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Demo](https://github.com/Lausbert/Exermote/tree/master/ExermoteInference) | [Reference](http://lausbert.com/2017/08/03/exermote/)
 * ** GestureAI **-根据给定的位置和类型推荐一位艺术家. [Download](https://goo.gl/avdMjD) | [Demo](https://github.com/akimach/GestureAI-CoreML-iOS) | [Reference](https://github.com/akimach/GestureAI-iOS/tree/master/GestureAI)
 * **艺术家推荐**-根据给定的位置和类型推荐艺术家. [Download](https://github.com/agnosticdev/Blog-Examples/blob/master/UsingCoreMLtoCreateASongRecommendationEngine/Artist.mlmodel)  |  [演示]（）| [Reference](https://www.agnosticdev.com/blog-entry/python/using-scikit-learn-and-coreml-create-music-recommendation-engine)
-* ** ESC-10 **-识别来自ESC-10声音数据集的声音. [Download](https://github.com/narner/ESC10-CoreML/blob/master/CreateML%20Project%20And%20Dataset/ESC-10%20Sound%20Classifier.mlproj/Models/ESC-10%20Sound%20Classifier.mlmodel) | [Demo](https://github.com/narner/ESC10-CoreML/tree/master/ECS10-CoreML-Demo) | [Reference](https://nicholas-arner.squarespace.com/blog/2019/10/29/classification-of-sound-files-on-ios-with-the-soundanalysis-framework)
 
 ## Visualization Tools
 *有助于可视化CoreML模型的工具*
@@ -94,7 +93,7 @@
 * [TensorFlow Slim Models](https://github.com/tensorflow/models/tree/master/research/slim/README.md) -TensorFlow模型的另一个集合.
 * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) -MXNet模型的集合.
 
- *可以转换为Core ML的个体机器学习模型.  转换后，我们将继续调整列表.*
+ *可以转换为Core ML的个体机器学习模型. 当它们转换后，我们将继续调整列表.*
 * [LaMem](https://github.com/MiyainNYC/Visual-Memorability-through-Caffe) 评分图片的记忆力.
 * [ILGnet](https://github.com/BestiVictory/ILGnet) 图像的美学评估.
 * [Colorization](https://github.com/richzhang/colorization) 使用深度神经网络自动着色.
@@ -110,4 +109,4 @@
 
 ## Contributing and License
 * [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)
- *根据MIT许可证分发.  有关更多信息，请参见许可.
+ *根据MIT许可证分发. 有关更多信息，请参见许可.

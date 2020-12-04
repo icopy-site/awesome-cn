@@ -25,13 +25,13 @@
 - [Firefox KDE](https://build.opensuse.org/package/show/mozilla:Factory/MozillaFirefox) -来自mozilla.org的具有OpenSUSE补丁的独立Web浏览器，可以更好地与KDE集成.
 - [KGet](https://www.kde.org/applications/internet/kget/) -多功能且用户友好的下载管理器.
 - [KTorrent](https://www.kde.org/applications/internet/ktorrent/) -一个BitTorrent应用程序，可让您使用BitTorrent协议下载文件.
-- [qBittorrent](https://www.qbittorrent.org/) -基于Qt工具包和libtorrent-rasterbar的C ++编程高级BitTorrent客户端.
+- [qBittorrent](https://www.qbittorrent.org/) -基于Qt工具箱和libtorrent-rasterbar的高级C ++客户端程序.
 - [KMail](https://www.kde.org/applications/internet/kmail/) -KMail是Kontact（KDE的集成个人信息管理器）的电子邮件组件.
-- [KDE Connect](https://community.kde.org/KDEConnect) -一个用于在所有设备上进行通信的项目：在台式计算机上接收电话通知，通过电话控制桌面等.
+- [KDE Connect](https://community.kde.org/KDEConnect) -在所有设备上进行通信的项目：在台式计算机上接收电话通知，通过电话控制桌面等.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) -KDE Con​​nect的完整实现，特别是与Nautilus，Chrome和Firefox集成的GNOME Shell.
 - [Plasma-browser-integration](https://userbase.kde.org/Plasma-browser-integration) -一系列新功能 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/), [Chrome](https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai) 和基于Chromium的浏览器可在您的桌面上使用.
-- [KRDC](https://www.kde.org/applications/internet/krdc/) -客户端应用程序，可让您查看或控制另一台运行兼容服务器（VNC＆RDP）的计算机上的桌面会话.
-- [Konversation](https://konversation.kde.org/) -基于KDE平台的用户友好型Internet中继聊天（IRC）客户端.
+- [KRDC](https://www.kde.org/applications/internet/krdc/) -客户端应用程序，允许您查看或控制另一台运行兼容服务器（VNC＆RDP）的计算机上的桌面会话.
+- [Konversation](https://konversation.kde.org/) -建立在KDE平台上的用户友好型Internet中继聊天（IRC）客户端.
 - [Akregator](https://www.kde.org/applications/internet/akregator/) -使您能够关注新闻站点，博客和其他启用RSS / Atom的网站.
 - [KNetworkManager](https://userbase.kde.org/KNetworkManager) -后端NetworkManager软件的KDE客户端.
 - [Smb4K](https://sourceforge.net/projects/smb4k/) -高级网络邻居浏览器和Samba共享安装实用程序.
@@ -41,8 +41,8 @@
 - [Gwenview](https://www.kde.org/applications/graphics/gwenview/) -KDE提供的一种快速且易于使用的图像查看器.
 - [Okular](https://www.kde.org/applications/graphics/okular/) -通用文档查看器.
 - [Spectacle](https://www.kde.org/applications/graphics/spectacle/) -用于捕获桌面屏幕截图的应用程序.
-- [KolourPaint](https://www.kde.org/applications/graphics/kolourpaint/) - A simple painting program to quickly create raster images. It is useful as a touch-up tool and simple image editing tasks 📌.
-- [Krita](https://www.kde.org/applications/graphics/krita/) -专为概念艺术家，插画家，遮罩和纹理艺术家以及VFX行业设计的绘画工具.
+- [KolourPaint](https://www.kde.org/applications/graphics/kolourpaint/)  -一个简单的绘画程序，可以快速创建光栅图像. 它可用作修饰工具和简单的图像编辑任务.
+- [Krita](https://www.kde.org/applications/graphics/krita/) -为概念艺术家，插画家，遮罩和纹理艺术家以及VFX行业设计的绘画工具.
 - [digiKam](https://www.digikam.org/) -具有开源功能的专业照片管理.
 - [KColorChooser](https://www.kde.org/applications/graphics/kcolorchooser/) -一个简单的应用程序，可以从屏幕或调色板中选择颜色.
 
@@ -59,14 +59,14 @@
 
 - [Calligra](https://www.calligra.org/) -包括高效且功能强大的办公组件.
 - [Kate](https://www.kde.org/applications/utilities/kate/) -KDE提供的多文档，多视图的文本编辑器.
-- [KWrite](https://www.kde.org/applications/utilities/kwrite) -基于KDE Frameworks编辑器组件的KDE文本编辑器.
+- [KWrite](https://www.kde.org/applications/utilities/kwrite) -KDE的文本编辑器，基于KDE Frameworks编辑器组件.
 - [Kronometer](https://userbase.kde.org/Kronometer) KDE的秒表应用程序.
 - [RSIBreak](https://userbase.kde.org/RSIBreak) -RSIBreak可用于提醒您不时休息.
 
 ### System Administration
 
 - [Dolphin](https://userbase.kde.org/Dolphin) -KDE桌面中包含的文件管理器.
-- [Discover](https://userbase.kde.org/Discover) -适用于终端不是用于安装应用程序和附加组件或更新的最佳解决方案的用户和发行版.
+- [Discover](https://userbase.kde.org/Discover) -适用于终端不是用于安装应用程序和附件或更新的最佳解决方案的用户和发行版.
 - [Konsole](https://www.kde.org/applications/system/konsole/) -KDE桌面中包含的终端仿真器.
 - [Yakuake](https://userbase.kde.org/Yakuake) -基于KDE的Konsole技术的下拉终端仿真器.
 - [KDiskFree](https://www.kde.org/applications/system/kdiskfree/) -显示可用的文件设备（硬盘驱动器分区，驱动器等），以及有关它们的容量，可用空间，类型和安装点的信息.
@@ -79,17 +79,17 @@
 ### Utilities & Tools
 
 - [Ark](https://www.kde.org/applications/utilities/ark/) -存档工具.
-- [KFind](https://www.kde.org/applications/utilities/kfind/)  -由KRunner或从菜单中启动的独立搜索工具.  它还作为“工具”菜单中的“查找文件”集成到Konqueror中.
+- [KFind](https://www.kde.org/applications/utilities/kfind/)  -由KRunner或您的菜单启动的独立搜索工具. 它还作为“工具”菜单中的“查找文件”集成到Konqueror中.
 - [KFontview](https://docs.kde.org/trunk5/en/kde-workspace/kfontview/index.html) -用于查看和安装不同类型字体的应用程序.
 - [KDE Wallet Manager](https://utils.kde.org/projects/kwalletmanager/)  -管理KDE系统上的密码.  KDE钱包子系统允许对与KDE钱包集成的每个应用程序进行访问和密码管理.
 - [KeePassXC](https://keepassxc.org/) -跨平台社区驱动的Keepass密码管理器端口.
-- [QtPass](https://qtpass.org/) -用于的多平台GUI [pass](https://www.passwordstore.org/).
+- [QtPass](https://qtpass.org/) -的多平台GUI [pass](https://www.passwordstore.org/).
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) -具有简约UI的可靠MTP客户端.
 - [KRename](https://userbase.kde.org/KRename) -重命名多个文件的实用程序.
-- [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) -尝试减少KDE中流行的KWin合成器中的延迟和卡顿现象.
+- [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) -尝试减少在KDE中使用的流行KWin合成器中的延迟和卡顿现象.
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) -Linux的自动夜间模式.
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) -风扇控制的GUI，它是lm_sensors的一部分.
-- [Wacom GUI](https://github.com/tb2097/wacom-gui) -适用于KDE的Python / PyQt Wacom GUI.
+- [Wacom GUI](https://github.com/tb2097/wacom-gui) -KDE的Python / PyQt Wacom GUI.
 
 ### Development & Programming
 
@@ -101,7 +101,7 @@
 
 ### Education
 
-- [KTurtle](https://www.kde.org/applications/education/kturtle/) -一种教育性编程环境，旨在使学习如何编程尽可能容易.
+- [KTurtle](https://www.kde.org/applications/education/kturtle/) -一种教育性编程环境，旨在使学习编程变得尽可能容易.
 - [LabPlot](https://labplot.kde.org/) -交互式图形和科学数据分析.
 
 ## Customization
@@ -114,14 +114,15 @@
 - [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) -用于Qt4 / Qt5，KDE和LXQt的基于SVG的主题引擎，重点是优雅，可用性和实用性.
 - [Window Title Applet](https://github.com/psifidotos/applet-window-title/) -Plasma 5小程序，可在面板中显示当前窗口标题和图标.
 - [Hoppla](https://github.com/Fuchs/hoppla-sa) -KDE Plasma桌面小部件，用于控制Philips Hue灯.
-- [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) -Plasma 5小部件，可访问用户场所.
+- [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) -Plasma 5小部件，可访问用户位置.
 - [Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu) -等离子5小程序，以显示窗口菜单.
+- [Dynamic Wallpaper Engine](https://github.com/zzag/plasma5-wallpapers-dynamic) -一个墙纸插件，可根据您所在位置的当前时间不断更新桌面背景.
 
 #### KCM Modules and Systems
 
 - [kde-gtk-config](https://cgit.kde.org/kde-gtk-config.git) -用于KDE的GTK2和GTK3配置器.
 - [kcm-wacomtablet](https://cgit.kde.org/wacomtablet.git) -Wacom Linux驱动程序的KDE GUI.
-- [kded_rotation](https://github.com/dos1/kded_rotation) -一个小巧的KDED模块，用于处理平板电脑和混合笔记本电脑上的自动屏幕旋转.
+- [kded_rotation](https://github.com/dos1/kded_rotation) -小巧的KDED模块，用于处理平板电脑和混合笔记本电脑上的自动屏幕旋转.
 
 #### Themes
 
@@ -130,7 +131,7 @@
 - [Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde) -流行的GTK主题Plasma 5桌面材料的端口，其中包含一些附加功能.
 - [Helium](https://store.kde.org/p/998869/) -等离子5的半透明主题.
 - [Breath](https://gitlab.manjaro.org/artwork/themes/breath) -Manjaro Linux的呼吸主题（等离子5）.
-- [Hello](https://github.com/n4n0GH/hello)  -KDE Plasma桌面的各种颜色方案，主题，图标及更多内容的汇编.  它不受限制，让您负责.
+- [Hello](https://github.com/n4n0GH/hello)  -KDE Plasma桌面的各种颜色方案，主题，图标及更多内容的汇编. 它不受限制，让您负责.
 - [McMojave](https://github.com/vinceliuice/McMojave-kde) -适用于KDE Plasma桌面的MacOSX Mojave主题.
 - [Canta](https://github.com/vinceliuice/Canta-kde) -KDE Plasma桌面的平面设计主题.
 - [Darkine KDE](https://github.com/Rokin05/darkine-kde) -适用于KDE Plasma 5桌面，SDDM等的主题.
@@ -143,7 +144,7 @@
 - [breeze-gtk](https://github.com/KDE/breeze-gtk) -为配合KDE的微风而打造的GTK主题.
 - [Breeze10](https://github.com/fauzie811/Breeze10) -KDE Plasma的Windows 10风格窗户装饰.
 - [SierraBreeze](https://github.com/ishovkun/SierraBreeze) -用C ++编写的类似OSX的KDE Plasma窗口装饰.
-- [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) -面向用户的KDE Kvantum主题.
+- [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) -面向用户的KDE主题Kvantum.
 - [BreezeBlurred](https://github.com/alex47/BreezeBlurred) -用Qt C ++编写的KDE Breeze窗口装饰的分支.
 - [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) -KDE Breeze装饰叉，带有其他选件.
 - [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) -
@@ -156,9 +157,9 @@
 
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) -材质图标主题，最初基于Paper.
 - [Antu](https://gitlab.com/froodo_alexis/Antu-icons) -专为Plasma Desktop设计的平滑图标主题.
-- [Zafiro](https://github.com/zayronxio/Zafiro-icons)  -采用扁平设计技术制作的简约图标，使用褪色并始终伴有白色.  首要任务是简单.
+- [Zafiro](https://github.com/zayronxio/Zafiro-icons)  -采用扁平设计技术制作的简约图标，使用褪色并始终伴有白色. 首要任务是简单.
 - [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) -图标包，灵感来自macOS和Google的Material Design的最新版本.
-- [Tela](https://github.com/vinceliuice/Tela-icon-theme) -扁平的彩色设计图标主题.
+- [Tela](https://github.com/vinceliuice/Tela-icon-theme) -一个扁平的彩色设计图标主题.
 - [Flatery](https://github.com/cbrnix/Flatery) -平面样式的Linux图标主题.
 - [Candy](https://github.com/EliverLara/candy-icons) -甜蜜的渐变图标.
 
@@ -169,8 +170,8 @@
 
 #### Scripts
 
-- [kwin-tiling](https://github.com/faho/kwin-tiling) -kwin的平铺脚本.
-- [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) -可以自动平铺窗口的kwin脚本.
+- [kwin-tiling](https://github.com/faho/kwin-tiling) -Kwin的平铺脚本.
+- [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) -一个自动平铺窗口的kwin脚本.
 - [Kröhnkite](https://github.com/esjeon/krohnkite) -KWin的动态平铺扩展.
 
 #### Display Manager
@@ -182,12 +183,13 @@
 ## Documentation
 
 - [KDE Wikis](https://wiki.kde.org/) -KDE Wiki是有关KDE桌面，应用程序，团队，事件等的信息和文档的来源.
-- [ArchWiki](https://wiki.archlinux.org/index.php/KDE) -Arch Linux KDE Wiki
-- [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) -Gentoo KDE Wiki
+- [ArchWiki](https://wiki.archlinux.org/index.php/KDE) -Arch Linux KDE Wiki.
+- [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) -Gentoo KDE Wiki.
+- [KDE Configs](https://github.com/shalva97/kde-configuration-files) -KDE配置文件列表以及更多.
 
 ## Articles
 
-- [KDE.news](https://dot.kde.org/) -官方的KDE新闻网站.
+- [KDE.news](https://dot.kde.org/) - The official KDE news website 📌.
 - [Planet KDE](https://planet.kde.org/) -KDE贡献者的博客.
 - [Phoronix](https://www.phoronix.com/scan.php?page=news_topic&q=KDE) -Phoronix KDE新闻档案.
 - [Nate Graham's Blog](https://pointieststick.wordpress.com/) -Linux和KDE历险记.
@@ -196,7 +198,7 @@
 
 ## Communities
 
-- [Kreddit](https://www.reddit.com/r/kde/) Reddit上的KDE社区
+- [Kreddit](https://www.reddit.com/r/kde/) -Reddit上的KDE社区.
 - [KDE Store](https://store.kde.org/) -官方的KDE商店，供开发人员共享Plasma定制.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) -用`kde`标记的问题.
 

@@ -21,7 +21,7 @@
 
 ### Use a CSS Reset
 
- CSS重置使用干净的样式元素来帮助在不同浏览器之间实现样式一致性.  您可以使用CSS重置库，例如 [Normalize](http://necolas.github.io/normalize.css/)，_等_，或者您可以使用更简化的重置方法：
+ CSS重置使用干净的样式元素来帮助在不同浏览器之间实现样式一致性. 您可以使用CSS重置库，例如 [Normalize](http://necolas.github.io/normalize.css/)，_等_，或者您可以使用更简化的重置方法：
 
 ```css
 *,
@@ -60,6 +60,8 @@ html {
 
 这使得在利用其他行为的插件或其他组件中更改“ box-sizing”更加容易.
 
+#### [Demo](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
@@ -70,7 +72,7 @@ html {
 ```css
 按钮{
   背景：无；
-  边界：无；
+  边框：无；
   颜色：继承；
   font：继承;
   大纲：无；
@@ -78,7 +80,7 @@ html {
 }
 ```
 
- 您可以使用`all`速记来指定元素的所有属性.  将值设置为`unset`会将元素的属性更改为其初始值：
+您可以使用`all`速记来指定元素的所有属性. 将值设置为`unset`会将元素的属性更改为其初始值：
 
 ```css
 按钮{
@@ -86,7 +88,7 @@ html {
 }
 ```
 
- **注意：** IE11不支持`all`速记，并且Edge正在考虑支持该速记.  IE11不支持`unset`.
+ **注意：** IE11不支持`all`速记，目前正在考虑Edge中的支持.  IE11不支持`unset`.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -154,7 +156,7 @@ html {
 
 ### Add `line-height` to `body`
 
- 您不需要在每个`中添加`line-height` <p>  `，` <h*>  `，等.  分别.  而是将其添加到`body`中：
+您不需要在每个`中添加`line-height`<p>  `，`<h*>  `，等. 分别. 相反，将其添加到`body`中：
 
 ```css
 身体 {
@@ -171,7 +173,7 @@ html {
 
 ### Set `:focus` for Form Elements
 
- 视觉键盘用户依靠焦点来确定键盘事件在页面中的位置.  将表单元素的焦点突出并与浏览器的默认实现保持一致：
+视觉键盘用户依靠焦点来确定键盘事件在页面中的位置. 将焦点放在表单元素上并与浏览器的默认实现保持一致：
 
 ```css
 a:focus,
@@ -192,7 +194,7 @@ textarea：focus {
 
 ### Vertically-Center Anything
 
- 不，这不是黑魔法，您实际上可以使元素垂直居中.  您可以使用flexbox做到这一点...
+不，这不是黑魔法，您确实可以使元素垂直居中. 您可以使用flexbox做到这一点...
 
 ```css
 html,
@@ -222,7 +224,7 @@ html,
 ```
 
 
- 想以其他为中心吗？  垂直，水平...什么都可以，随时随地？  CSS技巧有 [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) 在做所有这些.
+想要以其他为中心吗？ 垂直，水平...什么都可以，随时随地？  CSS技巧有 [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) 在做所有这些.
 
 **注意：**注意一些 [buggy behavior](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) 在IE11中使用flexbox.
 
@@ -249,7 +251,7 @@ ul&gt; li：not（：last-child）:: after {
 
 ### Select Items Using Negative `nth-child`
 
-在CSS中使用否定的nth-child来选择项1到n.
+在CSS中使用负数nth-child来选择项1到n.
 
 ```css
 li {
@@ -262,7 +264,7 @@ li：nth-​​child（-n + 3）{
 }
 ```
 
-或者，因为您已经学到了一些 [using `:not()`](#use-not-to-applyunapply-borders-on-navigation)，请尝试：
+或者，因为您已经学到了一些 [using `:not()`](#use-not-to-applyunapply-borders-on-navigation)，尝试：
 
 ```css
 / *选择前三个项目以外的所有项目并显示它们* /
@@ -286,9 +288,9 @@ li：not（：nth-​​child（-n + 3））{
 }
 ```
 
-SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [back to IE9](http://caniuse.com/#search=svg) .  抛弃您的.png，.jpg或.gif-jif-whatev文件.
+SVG可以很好地适应所有分辨率类型，并且在所有浏览器中均受支持 [back to IE9](http://caniuse.com/#search=svg) . 抛弃您的.png，.jpg或.gif-jif-whatev文件.
 
-**注意：**如果您为有视力的用户提供仅SVG图标的按钮，而SVG无法加载，这将有助于维持可访问性：
+**注意：**如果您为有视力的用户提供仅SVG图标的按钮，而SVG无法加载，则有助于维护可访问性：
 
 ```css
 .no-svg .icon-only ::之后{
@@ -301,7 +303,7 @@ SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [bac
 
 ### Use the "Lobotomized Owl" Selector
 
-它可能有一个奇怪的名字，但是将通用选择器（`*`）与相邻的兄弟选择器（`+`）结合使用可以提供强大的CSS功能：
+它的名称可能很奇怪，但是将通用选择器（*）与相邻的兄弟选择器（+）结合使用可以提供强大的CSS功能：
 
 ```css
 * + * {
@@ -320,12 +322,12 @@ SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [bac
 
 ### Use `max-height` for Pure CSS Sliders
 
-使用`max-height`实现仅CSS滑块，隐藏溢出：
+使用`max-height`实现仅CSS滑块，并隐藏溢出：
 
 ```css
 .slider {
   max-height：200像素；
-  溢出-y：隐藏;
+  溢出y：隐藏；
   宽度：300像素；
 }
 
@@ -342,7 +344,7 @@ SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [bac
 
 ### Equal-Width Table Cells
 
- 使用表格可能会很痛苦.  尝试使用“ table-layout：fixed”将单元保持相等的宽度：
+使用表格可能会很痛苦. 尝试使用“ table-layout：fixed”将单元保持相等的宽度：
 
 ```css
 .calendar {
@@ -359,7 +361,7 @@ SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [bac
 
 ### Get Rid of Margin Hacks With Flexbox
 
-使用列装订线时，可以通过使用flexbox的`space-between`属性来摆脱nth，first和last-child黑客：
+使用列装订线时，可以通过使用flexbox的`space-between`属性来摆脱`nth-`，`first-`和`last-child`的黑客：
 
 ```css
 .list {
@@ -382,7 +384,7 @@ SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [bac
 当` <a>`元素没有文本值，但`href`属性具有</a>链接时，显示链接<a>：</a>
 
 ```css
-a [href ^ =“ http”]：empty :: before {
+a [href ^ =“ http”]：空::之前{
   内容：attr（href）;
 }
 ```
@@ -412,11 +414,11 @@ a [href]：not（[class]）{
 
 ### Consistent Vertical Rhythm
 
-在元素中使用通用选择器（`*`）创建一致的垂直节奏：
+在元素内使用通用选择器（`*`）创建一致的垂直节奏：
 
 ```css
 .intro&gt; * {
-  底边：1.25rem;
+  底边距：1.25rem;
 }
 ```
 
@@ -446,7 +448,7 @@ a [href]：not（[class]）{
 }
 ```
 
- 使用20％的填充使框的高度等于其宽度的20％.  无论视口的宽度如何，子div都将保持其宽高比（100％/ 20％= 5：1）.
+使用20％的填充使框的高度等于其宽度的20％. 无论视口的宽度如何，子div都将保持其宽高比（100％/ 20％= 5：1）.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/jALZvE)
 
@@ -455,7 +457,7 @@ a [href]：not（[class]）{
 
 ### Style Broken Images
 
-一点点CSS就能使破碎的图像更加美观.
+只需一点CSS，就可以使破碎的图像更加美观.
 
 ```css
 img {
@@ -474,7 +476,7 @@ img {
 
 ```css
 img ::之前{
-  内容：“很抱歉，下面的图像已损坏:(”;
+  内容：“很抱歉，以下图片已损坏:(”;
   显示：块；
   底边距：10px;
 }
@@ -493,7 +495,7 @@ img ::之后{
 
 ### Use `rem` for Global Sizing; Use `em` for Local Sizing
 
-在根目录上设置基本字体大小（“ html {font-size：100％;}”）后，将文本元素的字体大小设置为“ em”：
+在根处设置基本字体大小（`html {font-size：100％;}`）之后，将文本元素的字体大小设置为`em`：
 
 ```css
 h2 {
@@ -501,7 +503,7 @@ h2 {
 }
 
 p {
-  字体大小：1em；
+  字号：1em；
 }
 ```
 
@@ -524,7 +526,7 @@ p {
 
 ### Hide Autoplay Videos That Aren't Muted
 
- 对于自定义用户样式表而言，这是一个绝妙的技巧.  避免使用户在加载页面时从视频中自动播放的视频中过载.  如果声音没有被静音，请不要显示视频：
+对于自定义用户样式表而言，这是一个绝妙的技巧. 避免使用户在加载页面时从视频中自动播放的视频中过载. 如果声音没有被静音，请不要显示视频：
 
 ```css
 video [autoplay]：not（[muted]）{
@@ -539,7 +541,7 @@ video [autoplay]：not（[muted]）{
 
 ### Use `:root` for Flexible Type
 
- 响应式布局中的字体大小应能够随每个视口调整.  您可以使用`：root`根据视口的高度和宽度来计算字体大小：
+响应式布局中的字体大小应能够随每个视口调整. 您可以使用`：root`根据视口的高度和宽度来计算字体大小：
 
 ```css
 ：根 {
@@ -547,7 +549,7 @@ video [autoplay]：not（[muted]）{
 }
 ```
 
-现在您可以根据`：root`计算出的值来利用`root em`单位：
+现在，您可以根据：root所计算出的值来利用root em单位：
 
 ```css
 身体 {
@@ -562,7 +564,7 @@ video [autoplay]：not（[muted]）{
 
 ### Set `font-size` on Form Elements for a Better Mobile Experience
 
- 为了避免移动浏览器（iOS Safari等）在出现“ <select>点击`下拉菜单，在选择器规则中添加`font-size`：
+为了避免移动浏览器（iOS Safari等）在出现“<select>点击下拉菜单，在选择器规则中添加font-size：
 
 ```css
 input[type="text"],
@@ -580,7 +582,7 @@ textarea {
 
 ### Use Pointer Events to Control Mouse Events
 
-[Pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events)  允许您指定鼠标如何与它所触摸的元素进行交互.  例如，要禁用按钮上的默认指针事件：
+[Pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) 允许您指定鼠标如何与它所触摸的元素交互. 例如，要禁用按钮上的默认指针事件：
 
 ```css
 .button-disabled {
@@ -622,6 +624,7 @@ Chrome，Firefox，Safari，Opera，Edge和IE11的当前版本.
 * [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
 * [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
 * [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
+* [हिन्दी](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/hi-IND)
 * [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
 * [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
 * [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
@@ -629,5 +632,6 @@ Chrome，Firefox，Safari，Opera，Edge和IE11的当前版本.
 * [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
 * [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
 * [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+* [Tiếng Việt](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
 
 <sup>[back to table of contents](#table-of-contents)</sup>

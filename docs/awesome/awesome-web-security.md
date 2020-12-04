@@ -4,31 +4,32 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" align="right" width="70">](https://www.w3.org/TR/html5/)
 
-&gt;网络安全材料和资源的精选列表.
+&gt;精选的Web安全性材料和资源列表.
 
- 不用说，大多数网站都遭受各种错误，最终可能导致漏洞.  为什么这种情况经常发生？  可能涉及许多因素，包括配置错误，工程师的安全技能不足等.为解决此问题，这里有一份精选的Web安全材料和资源列表，用于学习尖端的渗透技术，我强烈建议您阅读本文“[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)“首先.
+不用说，大多数网站都遭受各种错误，最终可能导致漏洞. 为什么这种情况经常发生？ 可能会涉及许多因素，包括配置错误，工程师的安全技能不足等.为解决此问题，这里有一份精选的Web安全材料和资源列表，用于学习最先进的渗透技术，我强烈建议您阅读本文“[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)首先.
 
 *请阅读 [contribution guidelines](https://github.com/qazbnm456/awesome-web-security/blob/master/CONTRIBUTING.md) 在捐款之前.*
 
 ---
 
-<p align="center">  想增强您的渗透能力吗？ <br>  我建议玩一些<a href="https://github.com/apsdehal/awesome-ctf" target="_blank">awesome-ctf</a> . </p>
+<p align="center">想增强您的渗透能力吗？<br> 我建议玩一些<a href="https://github.com/apsdehal/awesome-ctf" target="_blank">awesome-ctf</a> .</p>
 
 ---
 
-如果您喜欢这个很棒的清单并想支持它，请查看我 [Patreon](https://www.patreon.com/boik)  页面:) <br>  另外，别忘了检查我 [repos](https://github.com/qazbnm456)  或对我说“嗨” [Twitter](https://twitter.com/qazbnm456)!
+如果您喜欢这个很棒的清单并想支持它，请查看我 [Patreon](https://www.patreon.com/boik) 页面:)<br> 另外，别忘了检查我 [repos](https://github.com/qazbnm456)  或对我说“嗨” [Twitter](https://twitter.com/qazbnm456)!
 
 
 
 ## Digests
 
-- [Hacker101](https://www.hacker101.com/) -由 [hackerone](https://www.hackerone.com/start-hacking).
-- [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) -由 [PortSwigger](https://portswigger.net/).
-- [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/) -由 [Netsparker](https://www.netsparker.com/).
-- [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) -由 [Mark Robinson](https://www.sneakymonkey.net/).
-- [The Magic of Learning](https://bitvijays.github.io/) -由 [@bitvijays](https://bitvijays.github.io/aboutme.html).
-- [CTF Field Guide](https://trailofbits.github.io/ctf/) -由 [Trail of Bits](https://www.trailofbits.com/).
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [Hacker101](https://www.hacker101.com/) -撰写者 [hackerone](https://www.hackerone.com/start-hacking).
+- [The Daily Swig - Web security digest](https://portswigger.net/daily-swig) -撰写者 [PortSwigger](https://portswigger.net/).
+- [Web Application Security Zone by Netsparker](https://www.netsparker.com/blog/web-security/) -撰写者 [Netsparker](https://www.netsparker.com/).
+- [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) -撰写者 [Mark Robinson](https://www.sneakymonkey.net/).
+- [The Magic of Learning](https://bitvijays.github.io/) -撰写者 [@bitvijays](https://bitvijays.github.io/aboutme.html).
+- [CTF Field Guide](https://trailofbits.github.io/ctf/) -撰写者 [Trail of Bits](https://www.trailofbits.com/).
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
+- [tl;dr sec](https://tldrsec.com/) -顶级安全工具，博客文章和安全研究的每周摘要.
 
 ## Forums
 
@@ -45,165 +46,167 @@
 <a name="xss"></a>
 ### XSS - Cross-Site Scripting
 
-- [Cross-Site Scripting – Application Security – Google](https://www.google.com/intl/sw/about/appsecurity/learning/xss/) -由 [Google](https://www.google.com/).
-- [H5SC](https://github.com/cure53/H5SC) -由 [@cure53](https://github.com/cure53).
-- [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) -由 [@s0md3v](https://github.com/s0md3v).
+- [Cross-Site Scripting – Application Security – Google](https://www.google.com/intl/sw/about/appsecurity/learning/xss/) -撰写者 [Google](https://www.google.com/).
+- [H5SC](https://github.com/cure53/H5SC) -撰写者 [@cure53](https://github.com/cure53).
+- [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) -撰写者 [@s0md3v](https://github.com/s0md3v).
 - [XSS.png](https://github.com/LucaBongiorni/XSS.png) -由@jackmasa撰写.
-- [C.XSS Guide](https://excess-xss.com/) -由 [@JakobKallin](https://github.com/JakobKallin) 和 [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
-- [THE BIG BAD WOLF - XSS AND MAINTAINING ACCESS](http://www.paulosyibelo.com/2018/06/the-big-bad-wolf-xss-and-maintaining.html) -由 [Paulos Yibelo](http://www.paulosyibelo.com/).
-- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) -由 [@payloadbox](https://github.com/payloadbox).
-- [PayloadsAllTheThings - XSS Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [C.XSS Guide](https://excess-xss.com/) -撰写者 [@JakobKallin](https://github.com/JakobKallin) 和 [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
+- [THE BIG BAD WOLF - XSS AND MAINTAINING ACCESS](http://www.paulosyibelo.com/2018/06/the-big-bad-wolf-xss-and-maintaining.html) -撰写者 [Paulos Yibelo](http://www.paulosyibelo.com/).
+- [payloadbox/xss-payload-list](https://github.com/payloadbox/xss-payload-list) -撰写者 [@payloadbox](https://github.com/payloadbox).
+- [PayloadsAllTheThings - XSS Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="prototype-pollution"></a>
 ### Prototype Pollution
 
-- [Prototype pollution attack in NodeJS application](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf) -由 [@HoLyVieR](https://github.com/HoLyVieR).
+- [Prototype pollution attack in NodeJS application](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf) -撰写者 [@HoLyVieR](https://github.com/HoLyVieR).
+- [Exploiting prototype pollution – RCE in Kibana (CVE-2019-7609)](https://research.securitum.com/prototype-pollution-rce-kibana-cve-2019-7609/) -撰写者 [@securitymb](https://twitter.com/securitymb).
+- [Real-world JS - 1](https://blog.p6.is/Real-World-JS-1/) -撰写者 [@po6ix](https://twitter.com/po6ix).
 
 <a name="csv-injection"></a>
 ### CSV Injection
 
-- [CSV Injection -> Meterpreter on Pornhub](https://news.webamooz.com/wp-content/uploads/bot/offsecmag/147.pdf) -由 [Andy](https://blog.zsec.uk/).
-- [The Absurdly Underestimated Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html) -由 [George Mauer](http://georgemauer.net/).
-- [PayloadsAllTheThings - CSV Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [CSV Injection -> Meterpreter on Pornhub](https://news.webamooz.com/wp-content/uploads/bot/offsecmag/147.pdf) -撰写者 [Andy](https://blog.zsec.uk/).
+- [The Absurdly Underestimated Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html) -撰写者 [George Mauer](http://georgemauer.net/).
+- [PayloadsAllTheThings - CSV Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="sql-injection"></a>
 ### SQL Injection
 
-- [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) -由 [@netsparker](https://twitter.com/netsparker).
-- [SQL Injection Wiki](https://sqlwiki.netspi.com/) -由 [NETSPI](https://www.netspi.com/).
-- [SQL Injection Pocket Reference](https://websec.ca/kb/sql_injection) -由 [@LightOS](https://twitter.com/LightOS).
-- [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) -由 [@payloadbox](https://github.com/payloadbox).
-- [PayloadsAllTheThings - SQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) -撰写者 [@netsparker](https://twitter.com/netsparker).
+- [SQL Injection Wiki](https://sqlwiki.netspi.com/) -撰写者 [NETSPI](https://www.netspi.com/).
+- [SQL Injection Pocket Reference](https://websec.ca/kb/sql_injection) -撰写者 [@LightOS](https://twitter.com/LightOS).
+- [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) -撰写者 [@payloadbox](https://github.com/payloadbox).
+- [PayloadsAllTheThings - SQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="command-injection"></a>
 ### Command Injection
 
-- [Potential command injection in resolv.rb](https://github.com/ruby/ruby/pull/1777) -由 [@drigg3r](https://github.com/drigg3r).
-- [payloadbox/command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list) -由 [@payloadbox](https://github.com/payloadbox).
-- [PayloadsAllTheThings - Command Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [Potential command injection in resolv.rb](https://github.com/ruby/ruby/pull/1777) -撰写者 [@drigg3r](https://github.com/drigg3r).
+- [payloadbox/command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list) -撰写者 [@payloadbox](https://github.com/payloadbox).
+- [PayloadsAllTheThings - Command Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="orm-injection"></a>
 ### ORM Injection
 
-- [HQL for pentesters](http://blog.h3xstream.com/2014/02/hql-for-pentesters.html) -由 [@h3xstream](https://twitter.com/h3xstream/).
-- [HQL : Hyperinsane Query Language (or how to access the whole SQL API within a HQL injection ?)](https://www.synacktiv.com/ressources/hql2sql_sstic_2015_en.pdf) -由 [@_m0bius](https://twitter.com/_m0bius).
-- [ORM2Pwn: Exploiting injections in Hibernate ORM](https://www.slideshare.net/0ang3el/orm2pwn-exploiting-injections-in-hibernate-orm) -由 [Mikhail Egorov](https://0ang3el.blogspot.tw/).
-- [ORM Injection](https://www.slideshare.net/simone.onofri/orm-injection) -由 [Simone Onofri](https://onofri.org/).
+- [HQL for pentesters](http://blog.h3xstream.com/2014/02/hql-for-pentesters.html) -撰写者 [@h3xstream](https://twitter.com/h3xstream/).
+- [HQL : Hyperinsane Query Language (or how to access the whole SQL API within a HQL injection ?)](https://www.synacktiv.com/ressources/hql2sql_sstic_2015_en.pdf) -撰写者 [@_m0bius](https://twitter.com/_m0bius).
+- [ORM2Pwn: Exploiting injections in Hibernate ORM](https://www.slideshare.net/0ang3el/orm2pwn-exploiting-injections-in-hibernate-orm) -撰写者 [Mikhail Egorov](https://0ang3el.blogspot.tw/).
+- [ORM Injection](https://www.slideshare.net/simone.onofri/orm-injection) -撰写者 [Simone Onofri](https://onofri.org/).
 
 <a name="ftp-injection"></a>
 ### FTP Injection
 
-- [Advisory: Java/Python FTP Injections Allow for Firewall Bypass](http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html) -由 [Timothy Morgan](https://plus.google.com/105917618099766831589).
-- [SMTP over XXE − how to send emails using Java's XML parser](https://shiftordie.de/blog/2017/02/18/smtp-over-xxe/) -由 [Alexander Klink](https://shiftordie.de/).
+- [Advisory: Java/Python FTP Injections Allow for Firewall Bypass](http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html) -撰写者 [Timothy Morgan](https://plus.google.com/105917618099766831589).
+- [SMTP over XXE − how to send emails using Java's XML parser](https://shiftordie.de/blog/2017/02/18/smtp-over-xxe/) -撰写者 [Alexander Klink](https://shiftordie.de/).
 
 <a name="xxe"></a>
 ### XXE - XML eXternal Entity
 
-- [XXE](https://phonexicum.github.io/infosec/xxe.html) -由 [@phonexicum](https://twitter.com/phonexicum).
-- [XML external entity (XXE) injection](https://portswigger.net/web-security/xxe) -由 [portswigger](https://portswigger.net/).
-- [XML Schema, DTD, and Entity Attacks](https://www.vsecurity.com/download/publications/XMLDTDEntityAttacks.pdf) -由 [Timothy D. Morgan](https://twitter.com/ecbftw) 和奥马尔·易卜拉欣.
-- [payloadbox/xxe-injection-payload-list](https://github.com/payloadbox/xxe-injection-payload-list) -由 [@payloadbox](https://github.com/payloadbox)
+- [XXE](https://phonexicum.github.io/infosec/xxe.html) -撰写者 [@phonexicum](https://twitter.com/phonexicum).
+- [XML external entity (XXE) injection](https://portswigger.net/web-security/xxe) -撰写者 [portswigger](https://portswigger.net/).
+- [XML Schema, DTD, and Entity Attacks](https://www.vsecurity.com/download/publications/XMLDTDEntityAttacks.pdf) -撰写者 [Timothy D. Morgan](https://twitter.com/ecbftw) 和奥马尔·易卜拉欣.
+- [payloadbox/xxe-injection-payload-list](https://github.com/payloadbox/xxe-injection-payload-list) -撰写者 [@payloadbox](https://github.com/payloadbox)
 - [PayloadsAllTheThings - XXE Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection) -由各种贡献者撰写.
 
 <a name="csrf"></a>
 ### CSRF - Cross-Site Request Forgery
 
-- [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f) -由 [@jrozner](https://medium.com/@jrozner).
-- [PayloadsAllTheThings - CSRF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f) -撰写者 [@jrozner](https://medium.com/@jrozner).
+- [PayloadsAllTheThings - CSRF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="clickjacking"></a>
 ### Clickjacking
 
-- [Clickjacking](https://www.imperva.com/learn/application-security/clickjacking/) -由 [Imperva](https://www.imperva.com/).
-- [X-Frame-Options: All about Clickjacking?](https://github.com/cure53/Publications/blob/master/xfo-clickjacking.pdf?raw=true) -由 [Mario Heiderich](http://www.slideshare.net/x00mario).
+- [Clickjacking](https://www.imperva.com/learn/application-security/clickjacking/) -撰写者 [Imperva](https://www.imperva.com/).
+- [X-Frame-Options: All about Clickjacking?](https://github.com/cure53/Publications/blob/master/xfo-clickjacking.pdf?raw=true) -撰写者 [Mario Heiderich](http://www.slideshare.net/x00mario).
 
 <a name="ssrf"></a>
 ### SSRF - Server-Side Request Forgery
 
-- [SSRF bible. Cheatsheet](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit) -由 [Wallarm](https://wallarm.com/).
-- [PayloadsAllTheThings - Server-Side Request Forgery](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [SSRF bible. Cheatsheet](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit) -撰写者 [Wallarm](https://wallarm.com/).
+- [PayloadsAllTheThings - Server-Side Request Forgery](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="web-cache-poisoning"></a>
 ### Web Cache Poisoning
 
-- [Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning) -由 [@albinowax](https://twitter.com/albinowax).
-- [PayloadsAllTheThings - Web Cache Deception](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Cache%20Deception) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning) -撰写者 [@albinowax](https://twitter.com/albinowax).
+- [PayloadsAllTheThings - Web Cache Deception](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Cache%20Deception) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="relative-path-overwrite"></a>
 ### Relative Path Overwrite
 
-- [Large-scale analysis of style injection by relative path overwrite](https://blog.acolyer.org/2018/05/28/large-scale-analysis-of-style-injection-by-relative-path-overwrite/) -由 [The Morning Paper](https://blog.acolyer.org/).
-- [MBSD Technical Whitepaper - A few RPO exploitation techniques](https://www.mbsd.jp/Whitepaper/rpo.pdf) -由 [Mitsui Bussan Secure Directions, Inc.](https://www.mbsd.jp/).
+- [Large-scale analysis of style injection by relative path overwrite](https://blog.acolyer.org/2018/05/28/large-scale-analysis-of-style-injection-by-relative-path-overwrite/) -撰写者 [The Morning Paper](https://blog.acolyer.org/).
+- [MBSD Technical Whitepaper - A few RPO exploitation techniques](https://www.mbsd.jp/Whitepaper/rpo.pdf) -撰写者 [Mitsui Bussan Secure Directions, Inc.](https://www.mbsd.jp/).
 
 <a name="open-redirect"></a>
 ### Open Redirect
 
-- [Open Redirect Vulnerability](https://s0cket7.com/open-redirect-vulnerability/) -由 [s0cket7](https://s0cket7.com/).
-- [payloadbox/open-redirect-payload-list](https://github.com/payloadbox/open-redirect-payload-list) -由 [@payloadbox](https://github.com/payloadbox).
-- [PayloadsAllTheThings - Open Redirect](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [Open Redirect Vulnerability](https://s0cket7.com/open-redirect-vulnerability/) -撰写者 [s0cket7](https://s0cket7.com/).
+- [payloadbox/open-redirect-payload-list](https://github.com/payloadbox/open-redirect-payload-list) -撰写者 [@payloadbox](https://github.com/payloadbox).
+- [PayloadsAllTheThings - Open Redirect](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="saml"></a>
 ### Security Assertion Markup Language (SAML)
 
-- [How to Hunt Bugs in SAML; a Methodology - Part I](https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/) -由 [epi](https://epi052.gitlab.io/notes-to-self/).
-- [How to Hunt Bugs in SAML; a Methodology - Part II](https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/) -由 [epi](https://epi052.gitlab.io/notes-to-self/).
-- [How to Hunt Bugs in SAML; a Methodology - Part III](https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/) -由 [epi](https://epi052.gitlab.io/notes-to-self/).
-- [PayloadsAllTheThings - SAML Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SAML%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [How to Hunt Bugs in SAML; a Methodology - Part I](https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/) -撰写者 [epi](https://epi052.gitlab.io/notes-to-self/).
+- [How to Hunt Bugs in SAML; a Methodology - Part II](https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/) -撰写者 [epi](https://epi052.gitlab.io/notes-to-self/).
+- [How to Hunt Bugs in SAML; a Methodology - Part III](https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/) -撰写者 [epi](https://epi052.gitlab.io/notes-to-self/).
+- [PayloadsAllTheThings - SAML Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SAML%20Injection) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="upload"></a>
 ### Upload
 
-- [File Upload Restrictions Bypass](https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf) -由 [Haboob Team](https://www.exploit-db.com/author/?a=9381).
-- [PayloadsAllTheThings - Upload Insecure Files](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files) -由 [@swisskyrepo](https://github.com/swisskyrepo).
+- [File Upload Restrictions Bypass](https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf) -撰写者 [Haboob Team](https://www.exploit-db.com/author/?a=9381).
+- [PayloadsAllTheThings - Upload Insecure Files](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files) -撰写者 [@swisskyrepo](https://github.com/swisskyrepo).
 
 <a name="rails"></a>
 ### Rails
 
-- [Rails Security - First part](https://hackmd.io/s/SkuTVw5O-) -由 [@qazbnm456](https://github.com/qazbnm456).
-- [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist) -由 [@brunofacca](https://github.com/brunofacca).
-- [Rails SQL Injection](https://rails-sqli.org) -由 [@presidentbeef](https://github.com/presidentbeef).
-- [Official Rails Security Guide](http://guides.rubyonrails.org/security.html) -由 [Rails team](https://rubyonrails.org/).
+- [Rails Security - First part](https://hackmd.io/s/SkuTVw5O-) -撰写者 [@qazbnm456](https://github.com/qazbnm456).
+- [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist) -撰写者 [@brunofacca](https://github.com/brunofacca).
+- [Rails SQL Injection](https://rails-sqli.org) -撰写者 [@presidentbeef](https://github.com/presidentbeef).
+- [Official Rails Security Guide](http://guides.rubyonrails.org/security.html) -撰写者 [Rails team](https://rubyonrails.org/).
 
 <a name="angularjs"></a>
 ### AngularJS
 
-- [XSS without HTML: Client-Side Template Injection with AngularJS](http://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html) -由 [Gareth Heyes](https://www.blogger.com/profile/10856178524811553475).
-- [DOM based Angular sandbox escapes](http://blog.portswigger.net/2017/05/dom-based-angularjs-sandbox-escapes.html) -由 [@garethheyes](https://twitter.com/garethheyes)
+- [XSS without HTML: Client-Side Template Injection with AngularJS](http://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html) -撰写者 [Gareth Heyes](https://www.blogger.com/profile/10856178524811553475).
+- [DOM based Angular sandbox escapes](http://blog.portswigger.net/2017/05/dom-based-angularjs-sandbox-escapes.html) -撰写者 [@garethheyes](https://twitter.com/garethheyes)
 
 <a name="reactjs"></a>
 ### ReactJS
 
-- [XSS via a spoofed React element](http://danlec.com/blog/xss-via-a-spoofed-react-element) -由 [Daniel LeCheminant](http://danlec.com/).
+- [XSS via a spoofed React element](http://danlec.com/blog/xss-via-a-spoofed-react-element) -撰写者 [Daniel LeCheminant](http://danlec.com/).
 
 <a name="ssl-tls"></a>
 ### SSL/TLS
 
-- [SSL & TLS Penetration Testing](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) -由 [APTIVE](https://www.aptive.co.uk/).
-- [Practical introduction to SSL/TLS](https://github.com/Hakky54/mutual-tls-ssl) -由 [@Hakky54](https://github.com/Hakky54).
+- [SSL & TLS Penetration Testing](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) -撰写者 [APTIVE](https://www.aptive.co.uk/).
+- [Practical introduction to SSL/TLS](https://github.com/Hakky54/mutual-tls-ssl) -撰写者 [@Hakky54](https://github.com/Hakky54).
 
 <a name="webmail"></a>
 ### Webmail
 
-- [Why mail() is dangerous in PHP](https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php/) -由 [Robin Peraglie](https://www.ripstech.com/).
+- [Why mail() is dangerous in PHP](https://blog.ripstech.com/2017/why-mail-is-dangerous-in-php/) -撰写者 [Robin Peraglie](https://www.ripstech.com/).
 
 <a name="nfs"></a>
 ### NFS
 
-- [NFS | PENETRATION TESTING ACADEMY](https://pentestacademy.wordpress.com/2017/09/20/nfs/?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=b34422ce15164e99a193fea0ccc7a02f&uid=1959680352&nid=244+289476616) -由 [PENETRATION ACADEMY](https://pentestacademy.wordpress.com/).
+- [NFS | PENETRATION TESTING ACADEMY](https://pentestacademy.wordpress.com/2017/09/20/nfs/?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=b34422ce15164e99a193fea0ccc7a02f&uid=1959680352&nid=244+289476616) -撰写者 [PENETRATION ACADEMY](https://pentestacademy.wordpress.com/).
 
 <a name="aws"></a>
 ### AWS
 
 - [PENETRATION TESTING AWS STORAGE: KICKING THE S3 BUCKET](https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/) -由Dwight Hohnstein撰写，来自 [Rhino Security Labs](https://rhinosecuritylabs.com/).
-- [AWS PENETRATION TESTING PART 1. S3 BUCKETS](https://www.virtuesecurity.com/aws-penetration-testing-part-1-s3-buckets/) -由 [VirtueSecurity](https://www.virtuesecurity.com/).
-- [AWS PENETRATION TESTING PART 2. S3, IAM, EC2](https://www.virtuesecurity.com/aws-penetration-testing-part-2-s3-iam-ec2/) -由 [VirtueSecurity](https://www.virtuesecurity.com/).
+- [AWS PENETRATION TESTING PART 1. S3 BUCKETS](https://www.virtuesecurity.com/aws-penetration-testing-part-1-s3-buckets/) -撰写者 [VirtueSecurity](https://www.virtuesecurity.com/).
+- [AWS PENETRATION TESTING PART 2. S3, IAM, EC2](https://www.virtuesecurity.com/aws-penetration-testing-part-2-s3-iam-ec2/) -撰写者 [VirtueSecurity](https://www.virtuesecurity.com/).
 - [Misadventures in AWS](https://labs.f-secure.com/blog/misadventures-in-aws) -由克里斯蒂安·德姆科（Christian Demko）撰写
 
 <a name="azure"></a>
 ### Azure
 
-- [Common Azure Security Vulnerabilities and Misconfigurations](https://rhinosecuritylabs.com/cloud-security/common-azure-security-vulnerabilities/) -由 [@rhinobenjamin](https://twitter.com/rhinobenjamin).
-- [Cloud Security Risks (Part 1): Azure CSV Injection Vulnerability](https://rhinosecuritylabs.com/azure/cloud-security-risks-part-1-azure-csv-injection-vulnerability/) -由 [@spengietz](https://twitter.com/spengietz).
+- [Common Azure Security Vulnerabilities and Misconfigurations](https://rhinosecuritylabs.com/cloud-security/common-azure-security-vulnerabilities/) -撰写者 [@rhinobenjamin](https://twitter.com/rhinobenjamin).
+- [Cloud Security Risks (Part 1): Azure CSV Injection Vulnerability](https://rhinosecuritylabs.com/azure/cloud-security-risks-part-1-azure-csv-injection-vulnerability/) -撰写者 [@spengietz](https://twitter.com/spengietz).
 
 <a name="fingerprint"></a>
 ### Fingerprint
@@ -211,250 +214,259 @@
 <a name="sub-domain-enumeration"></a>
 ### Sub Domain Enumeration
 
-- [A penetration tester’s guide to sub-domain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6) -由 [Bharath](https://blog.appsecco.com/@yamakira_).
-- [The Art of Subdomain Enumeration](https://blog.sweepatic.com/art-of-subdomain-enumeration/) -由 [Patrik Hudak](https://blog.sweepatic.com/author/patrik/).
+- [A penetration tester’s guide to sub-domain enumeration](https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6) -撰写者 [Bharath](https://blog.appsecco.com/@yamakira_).
+- [The Art of Subdomain Enumeration](https://blog.sweepatic.com/art-of-subdomain-enumeration/) -撰写者 [Patrik Hudak](https://blog.sweepatic.com/author/patrik/).
 
 <a name="crypto"></a>
 ### Crypto
 
-- [Applied Crypto Hardening](https://bettercrypto.org/) -由 [The bettercrypto.org Team](https://bettercrypto.org/).
+- [Applied Crypto Hardening](https://bettercrypto.org/) -撰写者 [The bettercrypto.org Team](https://bettercrypto.org/).
+- [What is a Side-Channel Attack ?](https://www.csoonline.com/article/3388647/what-is-a-side-channel-attack-how-these-end-runs-around-encryption-put-everyone-at-risk.html) -撰写者 [J.M Porup](https://www.csoonline.com/author/J.M.-Porup/).
 
 <a name="web-shell"></a>
 ### Web Shell
 
-- [Hunting for Web Shells](https://www.tenable.com/blog/hunting-for-web-shells) -由 [Jacob Baines](https://www.tenable.com/profile/jacob-baines).
-- [Hacking with JSP Shells](https://blog.netspi.com/hacking-with-jsp-shells/) -由 [@_nullbind](https://twitter.com/_nullbind).
+- [Hunting for Web Shells](https://www.tenable.com/blog/hunting-for-web-shells) -撰写者 [Jacob Baines](https://www.tenable.com/profile/jacob-baines).
+- [Hacking with JSP Shells](https://blog.netspi.com/hacking-with-jsp-shells/) -撰写者 [@_nullbind](https://twitter.com/_nullbind).
 
 <a name="osint"></a>
 ### OSINT
 
-- [Hacking Cryptocurrency Miners with OSINT Techniques](https://medium.com/@s3yfullah/hacking-cryptocurrency-miners-with-osint-techniques-677bbb3e0157) -由 [@s3yfullah](https://medium.com/@s3yfullah).
-- [OSINT x UCCU Workshop on Open Source Intelligence](https://www.slideshare.net/miaoski/osint-x-uccu-workshop-on-open-source-intelligence) -由 [Philippe Lin](https://www.slideshare.net/miaoski).
+- [Hacking Cryptocurrency Miners with OSINT Techniques](https://medium.com/@s3yfullah/hacking-cryptocurrency-miners-with-osint-techniques-677bbb3e0157) -撰写者 [@s3yfullah](https://medium.com/@s3yfullah).
+- [OSINT x UCCU Workshop on Open Source Intelligence](https://www.slideshare.net/miaoski/osint-x-uccu-workshop-on-open-source-intelligence) -撰写者 [Philippe Lin](https://www.slideshare.net/miaoski).
 - [102 Deep Dive in the Dark Web OSINT Style Kirby Plessas](https://www.youtube.com/watch?v=fzd3zkAI_o4) -由 [@kirbstr](https://twitter.com/kirbstr).
-- [The most complete guide to finding anyone’s email](https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email) -由 [Timur Daudpota](https://www.blurbiz.io/).
+- [The most complete guide to finding anyone’s email](https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email) -撰写者 [Timur Daudpota](https://www.blurbiz.io/).
 
 <a name="dns-rebinding"></a>
 ### DNS Rebinding
 
-- [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325) -由 [@brannondorsey](https://medium.com/@brannondorsey)
-- [Hacking home routers from the Internet](https://medium.com/@radekk/hackers-can-get-access-to-your-home-router-1ddadd12a7a7) -由 [@radekk](https://medium.com/@radekk)
+- [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325) -撰写者 [@brannondorsey](https://medium.com/@brannondorsey)
+- [Hacking home routers from the Internet](https://medium.com/@radekk/hackers-can-get-access-to-your-home-router-1ddadd12a7a7) -撰写者 [@radekk](https://medium.com/@radekk)
 
 <a name="deserialization"></a>
 ### Deserialization
 
-- [What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.](https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/) -由 [@breenmachine](https://twitter.com/breenmachine).
-- [Attacking .NET deserialization](https://www.youtube.com/watch?v=eDfGpu3iE4Q) -由 [@pwntester](https://twitter.com/pwntester).
-- [.NET Roulette: Exploiting Insecure Deserialization in Telerik UI](https://www.youtube.com/watch?v=--6PiuvBGAU) -由 [@noperator](https://twitter.com/noperator).
+- [What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.](https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/) -撰写者 [@breenmachine](https://twitter.com/breenmachine).
+- [Attacking .NET deserialization](https://www.youtube.com/watch?v=eDfGpu3iE4Q) -撰写者 [@pwntester](https://twitter.com/pwntester).
+- [.NET Roulette: Exploiting Insecure Deserialization in Telerik UI](https://www.youtube.com/watch?v=--6PiuvBGAU) -撰写者 [@noperator](https://twitter.com/noperator).
+- [How to exploit the DotNetNuke Cookie Deserialization](https://pentest-tools.com/blog/exploit-dotnetnuke-cookie-deserialization/) -撰写者 [CRISTIAN CORNEA](https://pentest-tools.com/blog/author/pentest-cristian/).
+- [HOW TO EXPLOIT LIFERAY CVE-2020-7961 : QUICK JOURNEY TO POC](https://www.synacktiv.com/en/publications/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html) -撰写者 [@synacktiv](https://twitter.com/synacktiv).
 
 <a name="oauth"></a>
 ### OAuth
 
-- [Introduction to OAuth 2.0 and OpenID Connect](https://pragmaticwebsecurity.com/courses/introduction-oauth-oidc.html) -由 [@PhilippeDeRyck](https://twitter.com/PhilippeDeRyck).
-- [What is going on with OAuth 2.0? And why you should not use it for authentication.](https://medium.com/securing/what-is-going-on-with-oauth-2-0-and-why-you-should-not-use-it-for-authentication-5f47597b2611) -由 [@damianrusinek](https://medium.com/@damianrusinek).
+- [Introduction to OAuth 2.0 and OpenID Connect](https://pragmaticwebsecurity.com/courses/introduction-oauth-oidc.html) -撰写者 [@PhilippeDeRyck](https://twitter.com/PhilippeDeRyck).
+- [What is going on with OAuth 2.0? And why you should not use it for authentication.](https://medium.com/securing/what-is-going-on-with-oauth-2-0-and-why-you-should-not-use-it-for-authentication-5f47597b2611) -撰写者 [@damianrusinek](https://medium.com/@damianrusinek).
+
+<a name="jwt"></a>
+### JWT
+
+- [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/) -撰写者 [@ermil0v](https://twitter.com/ermil0v).
 
 ## Evasions
 
 <a name="evasions-xxe"></a>
 ### XXE
 
-- [Bypass Fix of OOB XXE Using Different encoding](https://twitter.com/SpiderSec/status/1191375472690528256) -由 [@SpiderSec](https://twitter.com/SpiderSec).
+- [Bypass Fix of OOB XXE Using Different encoding](https://twitter.com/SpiderSec/status/1191375472690528256) -撰写者 [@SpiderSec](https://twitter.com/SpiderSec).
 
 <a name="evasions-csp"></a>
 ### CSP
 
-- [Any protection against dynamic module import?](https://github.com/w3c/webappsec-csp/issues/243) -由 [@shhnjk](https://twitter.com/@shhnjk).
-- [CSP: bypassing form-action with reflected XSS](https://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss/) -由 [Detectify Labs](https://labs.detectify.com/).
-- [TWITTER XSS + CSP BYPASS](http://www.paulosyibelo.com/2017/05/twitter-xss-csp-bypass.html) -由 [Paulos Yibelo](http://www.paulosyibelo.com/).
-- [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa) -由 [Wallarm](https://wallarm.com/).
-- [Evading CSP with DOM-based dangling markup](https://portswigger.net/blog/evading-csp-with-dom-based-dangling-markup) -由 [portswigger](https://portswigger.net/).
-- [GitHub's CSP journey](https://githubengineering.com/githubs-csp-journey/) -由 [@ptoomey3](https://github.com/ptoomey3).
-- [GitHub's post-CSP journey](https://githubengineering.com/githubs-post-csp-journey/) -由 [@ptoomey3](https://github.com/ptoomey3).
+- [Any protection against dynamic module import?](https://github.com/w3c/webappsec-csp/issues/243) -撰写者 [@shhnjk](https://twitter.com/@shhnjk).
+- [CSP: bypassing form-action with reflected XSS](https://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss/) -撰写者 [Detectify Labs](https://labs.detectify.com/).
+- [TWITTER XSS + CSP BYPASS](http://www.paulosyibelo.com/2017/05/twitter-xss-csp-bypass.html) -撰写者 [Paulos Yibelo](http://www.paulosyibelo.com/).
+- [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa) -撰写者 [Wallarm](https://wallarm.com/).
+- [Evading CSP with DOM-based dangling markup](https://portswigger.net/blog/evading-csp-with-dom-based-dangling-markup) -撰写者 [portswigger](https://portswigger.net/).
+- [GitHub's CSP journey](https://githubengineering.com/githubs-csp-journey/) -撰写者 [@ptoomey3](https://github.com/ptoomey3).
+- [GitHub's post-CSP journey](https://githubengineering.com/githubs-post-csp-journey/) -撰写者 [@ptoomey3](https://github.com/ptoomey3).
 
 <a name="evasions-waf"></a>
 ### WAF
 
-- [Web Application Firewall (WAF) Evasion Techniques](https://medium.com/secjuice/waf-evasion-techniques-718026d693d8) -由 [@secjuice](https://twitter.com/secjuice).
-- [Web Application Firewall (WAF) Evasion Techniques #2](https://medium.com/secjuice/web-application-firewall-waf-evasion-techniques-2-125995f3e7b0) -由 [@secjuice](https://twitter.com/secjuice).
-- [Airbnb – When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into Eight Vulnerabilities](https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/) -由 [@Brett Buerhaus](https://twitter.com/bbuerhaus).
-- [How to bypass libinjection in many WAF/NGWAF](https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f) -由 [@d0znpp](https://medium.com/@d0znpp).
+- [Web Application Firewall (WAF) Evasion Techniques](https://medium.com/secjuice/waf-evasion-techniques-718026d693d8) -撰写者 [@secjuice](https://twitter.com/secjuice).
+- [Web Application Firewall (WAF) Evasion Techniques #2](https://medium.com/secjuice/web-application-firewall-waf-evasion-techniques-2-125995f3e7b0) -撰写者 [@secjuice](https://twitter.com/secjuice).
+- [Airbnb – When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into Eight Vulnerabilities](https://buer.haus/2017/03/08/airbnb-when-bypassing-json-encoding-xss-filter-waf-csp-and-auditor-turns-into-eight-vulnerabilities/) -撰写者 [@Brett Buerhaus](https://twitter.com/bbuerhaus).
+- [How to bypass libinjection in many WAF/NGWAF](https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f) -撰写者 [@d0znpp](https://medium.com/@d0znpp).
 
 <a name="evasions-jsmvc"></a>
 ### JSMVC
 
-- [JavaScript MVC and Templating Frameworks](http://www.slideshare.net/x00mario/jsmvcomfg-to-sternly-look-at-javascript-mvc-and-templating-frameworks) -由 [Mario Heiderich](http://www.slideshare.net/x00mario).
+- [JavaScript MVC and Templating Frameworks](http://www.slideshare.net/x00mario/jsmvcomfg-to-sternly-look-at-javascript-mvc-and-templating-frameworks) -撰写者 [Mario Heiderich](http://www.slideshare.net/x00mario).
 
 <a name="evasions-authentication"></a>
 ### Authentication
 
-- [Trend Micro Threat Discovery Appliance - Session Generation Authentication Bypass (CVE-2016-8584)](http://blog.malerisch.net/2017/04/trend-micro-threat-discovery-appliance-session-generation-authentication-bypass-cve-2016-8584.html) -由 [@malerisch](https://twitter.com/malerisch) 和 [@steventseeley](https://twitter.com/steventseeley).
+- [Trend Micro Threat Discovery Appliance - Session Generation Authentication Bypass (CVE-2016-8584)](http://blog.malerisch.net/2017/04/trend-micro-threat-discovery-appliance-session-generation-authentication-bypass-cve-2016-8584.html) -撰写者 [@malerisch](https://twitter.com/malerisch) 和 [@steventseeley](https://twitter.com/steventseeley).
 
 ## Tricks
 
 <a name="tricks-csrf"></a>
 ### CSRF
 
-- [Neat tricks to bypass CSRF-protection](https://zhuanlan.zhihu.com/p/32716181) -由 [Twosecurity](https://twosecurity.io/).
-- [Exploiting CSRF on JSON endpoints with Flash and redirects](https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b) -由 [@riyazwalikar](https://blog.appsecco.com/@riyazwalikar).
-- [Stealing CSRF tokens with CSS injection (without iFrames)](https://github.com/dxa4481/cssInjection) -由 [@dxa4481](https://github.com/dxa4481).
-- [Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters](https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2) -由 [@rramgattie](https://blog.securityevaluators.com/@rramgattie).
-- [If HttpOnly You Could Still CSRF… Of CORS you can!](https://medium.com/@_graphx/if-httponly-you-could-still-csrf-of-cors-you-can-5d7ee2c7443) -由 [@GraphX](https://twitter.com/GraphX).
+- [Neat tricks to bypass CSRF-protection](https://zhuanlan.zhihu.com/p/32716181) -撰写者 [Twosecurity](https://twosecurity.io/).
+- [Exploiting CSRF on JSON endpoints with Flash and redirects](https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b) -撰写者 [@riyazwalikar](https://blog.appsecco.com/@riyazwalikar).
+- [Stealing CSRF tokens with CSS injection (without iFrames)](https://github.com/dxa4481/cssInjection) -撰写者 [@dxa4481](https://github.com/dxa4481).
+- [Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters](https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2) -撰写者 [@rramgattie](https://blog.securityevaluators.com/@rramgattie).
+- [If HttpOnly You Could Still CSRF… Of CORS you can!](https://medium.com/@_graphx/if-httponly-you-could-still-csrf-of-cors-you-can-5d7ee2c7443) -撰写者 [@GraphX](https://twitter.com/GraphX).
 
 <a name="tricks-clickjacking"></a>
 ### Clickjacking
 
-- [Clickjackings in Google worth 14981.7$](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a) -由 [@raushanraj_65039](https://medium.com/@raushanraj_65039).
+- [Clickjackings in Google worth 14981.7$](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a) -撰写者 [@raushanraj_65039](https://medium.com/@raushanraj_65039).
 
 <a name="tricks-rce"></a>
 ### Remote Code Execution
 
-- [CVE-2019-1306: ARE YOU MY INDEX?](https://www.thezdi.com/blog/2019/10/23/cve-2019-1306-are-you-my-index) -由 [@yu5k3](https://twitter.com/yu5k3).
+- [CVE-2019-1306: ARE YOU MY INDEX?](https://www.thezdi.com/blog/2019/10/23/cve-2019-1306-are-you-my-index) -撰写者 [@yu5k3](https://twitter.com/yu5k3).
 - [WebLogic RCE (CVE-2019-2725) Debug Diary](https://paper.seebug.org/910/) -由Badcode @ Knownsec 404团队撰写.
-- [What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.](https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/) -由 [@breenmachine](https://twitter.com/@breenmachine).
-- [Exploiting Node.js deserialization bug for Remote Code Execution](https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/) -由 [OpSecX](https://opsecx.com/index.php/author/ajinabraham/).
-- [DRUPAL 7.X SERVICES MODULE UNSERIALIZE() TO RCE](https://www.ambionics.io/blog/drupal-services-module-rce) -由 [Ambionics Security](https://www.ambionics.io/).
-- [How we exploited a remote code execution vulnerability in math.js](https://capacitorset.github.io/mathjs/) -由 [@capacitorset](https://github.com/capacitorset).
-- [GitHub Enterprise Remote Code Execution](http://exablue.de/blog/2017-03-15-github-enterprise-remote-code-execution.html) -由 [@iblue](https://github.com/iblue).
-- [Evil Teacher: Code Injection in Moodle](https://blog.ripstech.com/2018/moodle-remote-code-execution/) -由 [RIPS Technologies](https://www.ripstech.com/).
-- [How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html) -由 [Orange](http://blog.orange.tw/).
-- [$36k Google App Engine RCE](https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce) -由 [Ezequiel Pereira](https://sites.google.com/site/testsitehacking/).
-- [Poor RichFaces](https://codewhitesec.blogspot.com/2018/05/poor-richfaces.html) -由 [CODE WHITE](https://www.code-white.com/).
-- [Remote Code Execution on a Facebook server](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/) -由 [@blaklis_](https://twitter.com/blaklis_).
+- [What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.](https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/) -撰写者 [@breenmachine](https://twitter.com/@breenmachine).
+- [Exploiting Node.js deserialization bug for Remote Code Execution](https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/) -撰写者 [OpSecX](https://opsecx.com/index.php/author/ajinabraham/).
+- [DRUPAL 7.X SERVICES MODULE UNSERIALIZE() TO RCE](https://www.ambionics.io/blog/drupal-services-module-rce) -撰写者 [Ambionics Security](https://www.ambionics.io/).
+- [How we exploited a remote code execution vulnerability in math.js](https://capacitorset.github.io/mathjs/) -撰写者 [@capacitorset](https://github.com/capacitorset).
+- [GitHub Enterprise Remote Code Execution](http://exablue.de/blog/2017-03-15-github-enterprise-remote-code-execution.html) -撰写者 [@iblue](https://github.com/iblue).
+- [Evil Teacher: Code Injection in Moodle](https://blog.ripstech.com/2018/moodle-remote-code-execution/) -撰写者 [RIPS Technologies](https://www.ripstech.com/).
+- [How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html) -撰写者 [Orange](http://blog.orange.tw/).
+- [$36k Google App Engine RCE](https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce) -撰写者 [Ezequiel Pereira](https://sites.google.com/site/testsitehacking/).
+- [Poor RichFaces](https://codewhitesec.blogspot.com/2018/05/poor-richfaces.html) -撰写者 [CODE WHITE](https://www.code-white.com/).
+- [Remote Code Execution on a Facebook server](https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/) -撰写者 [@blaklis_](https://twitter.com/blaklis_).
 
 <a name="tricks-xss"></a>
 ### XSS
 
-- [Exploiting XSS with 20 characters limitation](https://jlajara.gitlab.io/posts/2019/11/30/XSS_20_characters.html) -由 [Jorge Lajara](https://jlajara.gitlab.io/).
-- [Upgrade self XSS to Exploitable XSS an 3 Ways Technic](https://www.hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html) -由 [HAHWUL](https://www.hahwul.com/).
-- [XSS without parentheses and semi-colons](https://portswigger.net/blog/xss-without-parentheses-and-semi-colons) -由 [@garethheyes](https://twitter.com/garethheyes).
-- [XSS-Auditor — the protector of unprotected and the deceiver of protected.](https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b) -由 [@terjanq](https://medium.com/@terjanq).
-- [Query parameter reordering causes redirect page to render unsafe URL](https://hackerone.com/reports/293689) -由 [kenziy](https://hackerone.com/kenziy).
-- [ECMAScript 6 from an Attacker's Perspective - Breaking Frameworks, Sandboxes, and everything else](http://www.slideshare.net/x00mario/es6-en) -由 [Mario Heiderich](http://www.slideshare.net/x00mario).
-- [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff#.u50nrzhas) -由 [@marin_m](https://medium.com/@marin_m).
-- [DON'T TRUST THE DOM: BYPASSING XSS MITIGATIONS VIA SCRIPT GADGETS](https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf) -由 [Sebastian Lekies](https://twitter.com/slekies), [Krzysztof Kotowicz](https://twitter.com/kkotowicz)和 [Eduardo Vela](https://twitter.com/sirdarckcat).
-- [Uber XSS via Cookie](http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/) -由 [zhchbin](http://zhchbin.github.io/).
-- [DOM XSS – auth.uber.com](http://stamone-bug-bounty.blogspot.tw/2017/10/dom-xss-auth14.html) -由 [StamOne_](http://stamone-bug-bounty.blogspot.tw/).
-- [Stored XSS on Facebook](https://opnsec.com/2018/03/stored-xss-on-facebook/) -由 [Enguerran Gillier](https://opnsec.com/).
-- [XSS in Google Colaboratory + CSP bypass](https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html) -由 [Michał Bentkowski](https://blog.bentkowski.info/).
-- [Another XSS in Google Colaboratory](https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html) -由 [Michał Bentkowski](https://blog.bentkowski.info/).
-- [</script> is filtered ?](https://twitter.com/strukt93/status/931586377665331200) -由 [@strukt93](https://twitter.com/strukt93).
-- [$20000 Facebook DOM XSS](https://vinothkumar.me/20000-facebook-dom-xss/) -由 [@vinodsparrow](https://twitter.com/vinodsparrow).
+- [Exploiting XSS with 20 characters limitation](https://jlajara.gitlab.io/posts/2019/11/30/XSS_20_characters.html) -撰写者 [Jorge Lajara](https://jlajara.gitlab.io/).
+- [Upgrade self XSS to Exploitable XSS an 3 Ways Technic](https://www.hahwul.com/2019/11/upgrade-self-xss-to-exploitable-xss.html) -撰写者 [HAHWUL](https://www.hahwul.com/).
+- [XSS without parentheses and semi-colons](https://portswigger.net/blog/xss-without-parentheses-and-semi-colons) -撰写者 [@garethheyes](https://twitter.com/garethheyes).
+- [XSS-Auditor — the protector of unprotected and the deceiver of protected.](https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b) -撰写者 [@terjanq](https://medium.com/@terjanq).
+- [Query parameter reordering causes redirect page to render unsafe URL](https://hackerone.com/reports/293689) -撰写者 [kenziy](https://hackerone.com/kenziy).
+- [ECMAScript 6 from an Attacker's Perspective - Breaking Frameworks, Sandboxes, and everything else](http://www.slideshare.net/x00mario/es6-en) -撰写者 [Mario Heiderich](http://www.slideshare.net/x00mario).
+- [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff#.u50nrzhas) -撰写者 [@marin_m](https://medium.com/@marin_m).
+- [DON'T TRUST THE DOM: BYPASSING XSS MITIGATIONS VIA SCRIPT GADGETS](https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf) -撰写者 [Sebastian Lekies](https://twitter.com/slekies), [Krzysztof Kotowicz](https://twitter.com/kkotowicz)和 [Eduardo Vela](https://twitter.com/sirdarckcat).
+- [Uber XSS via Cookie](http://zhchbin.github.io/2017/08/30/Uber-XSS-via-Cookie/) -撰写者 [zhchbin](http://zhchbin.github.io/).
+- [DOM XSS – auth.uber.com](http://stamone-bug-bounty.blogspot.tw/2017/10/dom-xss-auth14.html) -撰写者 [StamOne_](http://stamone-bug-bounty.blogspot.tw/).
+- [Stored XSS on Facebook](https://opnsec.com/2018/03/stored-xss-on-facebook/) -撰写者 [Enguerran Gillier](https://opnsec.com/).
+- [XSS in Google Colaboratory + CSP bypass](https://blog.bentkowski.info/2018/06/xss-in-google-colaboratory-csp-bypass.html) -撰写者 [Michał Bentkowski](https://blog.bentkowski.info/).
+- [Another XSS in Google Colaboratory](https://blog.bentkowski.info/2018/09/another-xss-in-google-colaboratory.html) -撰写者 [Michał Bentkowski](https://blog.bentkowski.info/).
+- [</script> is filtered ?](https://twitter.com/strukt93/status/931586377665331200) -撰写者 [@strukt93](https://twitter.com/strukt93).
+- [$20000 Facebook DOM XSS](https://vinothkumar.me/20000-facebook-dom-xss/) -撰写者 [@vinodsparrow](https://twitter.com/vinodsparrow).
 
 <a name="tricks-sql-injection"></a>
 ### SQL Injection
 
-- [MySQL Error Based SQL Injection Using EXP](https://www.exploit-db.com/docs/english/37953-mysql-error-based-sql-injection-using-exp.pdf) -由 [@osandamalith](https://twitter.com/osandamalith).
-- [SQL injection in an UPDATE query - a bug bounty story!](http://zombiehelp54.blogspot.jp/2017/02/sql-injection-in-update-query-bug.html) -由 [Zombiehelp54](http://zombiehelp54.blogspot.jp/).
-- [GitHub Enterprise SQL Injection](http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html) -由 [Orange](http://blog.orange.tw/).
-- [Making a Blind SQL Injection a little less blind](https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8) -由 [TomNomNom](https://twitter.com/TomNomNom).
-- [Red Team Tales 0x01: From MSSQL to RCE](https://www.tarlogic.com/en/blog/red-team-tales-0x01/) -由 [Tarlogic](https://www.tarlogic.com/en/cybersecurity-blog/).
-- [SQL INJECTION AND POSTGRES - AN ADVENTURE TO EVENTUAL RCE](https://pulsesecurity.co.nz/articles/postgres-sqli) -由 [@denandz](https://github.com/denandz).
+- [MySQL Error Based SQL Injection Using EXP](https://www.exploit-db.com/docs/english/37953-mysql-error-based-sql-injection-using-exp.pdf) -撰写者 [@osandamalith](https://twitter.com/osandamalith).
+- [SQL injection in an UPDATE query - a bug bounty story!](http://zombiehelp54.blogspot.jp/2017/02/sql-injection-in-update-query-bug.html) -撰写者 [Zombiehelp54](http://zombiehelp54.blogspot.jp/).
+- [GitHub Enterprise SQL Injection](http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html) -撰写者 [Orange](http://blog.orange.tw/).
+- [Making a Blind SQL Injection a little less blind](https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8) -撰写者 [TomNomNom](https://twitter.com/TomNomNom).
+- [Red Team Tales 0x01: From MSSQL to RCE](https://www.tarlogic.com/en/blog/red-team-tales-0x01/) -撰写者 [Tarlogic](https://www.tarlogic.com/en/cybersecurity-blog/).
+- [SQL INJECTION AND POSTGRES - AN ADVENTURE TO EVENTUAL RCE](https://pulsesecurity.co.nz/articles/postgres-sqli) -撰写者 [@denandz](https://github.com/denandz).
 
 <a name="tricks-nosql-injection"></a>
 ### NoSQL Injection
 
-- [GraphQL NoSQL Injection Through JSON Types](http://www.petecorey.com/blog/2017/06/12/graphql-nosql-injection-through-json-types/) -由 [Pete](http://www.petecorey.com/work/).
+- [GraphQL NoSQL Injection Through JSON Types](http://www.petecorey.com/blog/2017/06/12/graphql-nosql-injection-through-json-types/) -撰写者 [Pete](http://www.petecorey.com/work/).
 
 <a name="tricks-ftp-injection"></a>
 ### FTP Injection
 
-- [XML Out-Of-Band Data Retrieval](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf) -由 [@a66at](https://twitter.com/a66at) 和阿列克谢·奥西波夫（Alexey Osipov）.
-- [XXE OOB exploitation at Java 1.7+](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html) -由 [Ivan Novikov](http://lab.onsec.ru/).
+- [XML Out-Of-Band Data Retrieval](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf) -撰写者 [@a66at](https://twitter.com/a66at) 和阿列克谢·奥西波夫（Alexey Osipov）.
+- [XXE OOB exploitation at Java 1.7+](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html) -撰写者 [Ivan Novikov](http://lab.onsec.ru/).
 
 <a name="tricks-xxe"></a>
 ### XXE
 
-- [Evil XML with two encodings](https://mohemiv.com/all/evil-xml/) -由 [Arseniy Sharoglazov](https://mohemiv.com/).
-- [XXE in WeChat Pay Sdk ( WeChat leave a backdoor on merchant websites)](http://seclists.org/fulldisclosure/2018/Jul/3) -由 [Rose Jackcode](https://twitter.com/codeshtool).
+- [Evil XML with two encodings](https://mohemiv.com/all/evil-xml/) -撰写者 [Arseniy Sharoglazov](https://mohemiv.com/).
+- [XXE in WeChat Pay Sdk ( WeChat leave a backdoor on merchant websites)](http://seclists.org/fulldisclosure/2018/Jul/3) -撰写者 [Rose Jackcode](https://twitter.com/codeshtool).
 - [XML Out-Of-Band Data Retrieval](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf) -由Timur Yunusov和Alexey Osipov撰写.
-- [XXE OOB exploitation at Java 1.7+ (2014)](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html)：使用FTP协议进行渗透-作者： [Ivan Novikov](https://twitter.com/d0znpp/).
-- [XXE OOB extracting via HTTP+FTP using single opened port](https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/) -由 [skavans](https://skavans.ru/).
-- [What You Didn't Know About XML External Entities Attacks](https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf) -由 [Timothy D. Morgan](https://twitter.com/ecbftw).
-- [Pre-authentication XXE vulnerability in the Services Drupal module](https://www.synacktiv.com/ressources/synacktiv_drupal_xxe_services.pdf) -由 [Renaud Dubourguais](https://twitter.com/_m0bius).
-- [Forcing XXE Reflection through Server Error Messages](https://blog.netspi.com/forcing-xxe-reflection-server-error-messages/) -由 [Antti Rantasaari](https://blog.netspi.com/author/antti-rantasaari/).
-- [Exploiting XXE with local DTD files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/) -由 [Arseniy Sharoglazov](https://twitter.com/_mohemiv).
-- [Automating local DTD discovery for XXE exploitation](https://www.gosecure.net/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation) -由 [Philippe Arteau](https://twitter.com/h3xstream).
+- [XXE OOB exploitation at Java 1.7+ (2014)](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html)：使用FTP协议进行渗透-撰写者 [Ivan Novikov](https://twitter.com/d0znpp/).
+- [XXE OOB extracting via HTTP+FTP using single opened port](https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/) -撰写者 [skavans](https://skavans.ru/).
+- [What You Didn't Know About XML External Entities Attacks](https://2013.appsecusa.org/2013/wp-content/uploads/2013/12/WhatYouDidntKnowAboutXXEAttacks.pdf) -撰写者 [Timothy D. Morgan](https://twitter.com/ecbftw).
+- [Pre-authentication XXE vulnerability in the Services Drupal module](https://www.synacktiv.com/ressources/synacktiv_drupal_xxe_services.pdf) -撰写者 [Renaud Dubourguais](https://twitter.com/_m0bius).
+- [Forcing XXE Reflection through Server Error Messages](https://blog.netspi.com/forcing-xxe-reflection-server-error-messages/) -撰写者 [Antti Rantasaari](https://blog.netspi.com/author/antti-rantasaari/).
+- [Exploiting XXE with local DTD files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/) -撰写者 [Arseniy Sharoglazov](https://twitter.com/_mohemiv).
+- [Automating local DTD discovery for XXE exploitation](https://www.gosecure.net/blog/2019/07/16/automating-local-dtd-discovery-for-xxe-exploitation) -撰写者 [Philippe Arteau](https://twitter.com/h3xstream).
 
 <a name="tricks-ssrf"></a>
 ### SSRF
 
-- [AWS takeover through SSRF in JavaScript](http://10degres.net/aws-takeover-through-ssrf-in-javascript/) -由 [Gwen](http://10degres.net/).
-- [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) -由 [@0xacb](https://twitter.com/0xacb).
+- [AWS takeover through SSRF in JavaScript](http://10degres.net/aws-takeover-through-ssrf-in-javascript/) -撰写者 [Gwen](http://10degres.net/).
+- [SSRF in Exchange leads to ROOT access in all instances](https://hackerone.com/reports/341876) -撰写者 [@0xacb](https://twitter.com/0xacb).
 - [SSRF to ROOT Access](https://hackerone.com/reports/341876) -$ 25,000的SSRF悬赏金可在所有情况下导致ROOT访问 [0xacb](https://hackerone.com/0xacb).
-- [PHP SSRF Techniques](https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51) -由 [@themiddleblue](https://medium.com/@themiddleblue).
-- [SSRF in https://imgur.com/vidgif/url](https://hackerone.com/reports/115748) -由 [aesteral](https://hackerone.com/aesteral).
-- [All you need to know about SSRF and how may we write tools to do auto-detect](https://www.auxy.xyz/web%20security/2017/07/06/all-ssrf-knowledge.html) -由 [@Auxy233](https://twitter.com/Auxy233).
-- [A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf) -由 [Orange](http://blog.orange.tw/).
-- [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/) -由 [xl7dev](http://blog.safebuff.com/).
-- [Into the Borg – SSRF inside Google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/) -由 [opnsec](https://opnsec.com/).
-- [Piercing the Veil: Server Side Request Forgery to NIPRNet access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a) -由 [Alyssa Herrera](https://medium.com/@alyssa.o.herrera).
+- [PHP SSRF Techniques](https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51) -撰写者 [@themiddleblue](https://medium.com/@themiddleblue).
+- [SSRF in https://imgur.com/vidgif/url](https://hackerone.com/reports/115748) -撰写者 [aesteral](https://hackerone.com/aesteral).
+- [All you need to know about SSRF and how may we write tools to do auto-detect](https://www.auxy.xyz/web%20security/2017/07/06/all-ssrf-knowledge.html) -撰写者 [@Auxy233](https://twitter.com/Auxy233).
+- [A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf) -撰写者 [Orange](http://blog.orange.tw/).
+- [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/) -撰写者 [xl7dev](http://blog.safebuff.com/).
+- [Into the Borg – SSRF inside Google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/) -撰写者 [opnsec](https://opnsec.com/).
+- [Piercing the Veil: Server Side Request Forgery to NIPRNet access](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a) -撰写者 [Alyssa Herrera](https://medium.com/@alyssa.o.herrera).
 
 <a name="tricks-web-cache-poisoning"></a>
 ### Web Cache Poisoning
 
-- [Bypassing Web Cache Poisoning Countermeasures](https://portswigger.net/blog/bypassing-web-cache-poisoning-countermeasures) -由 [@albinowax](https://twitter.com/albinowax).
-- [Cache poisoning and other dirty tricks](https://lab.wallarm.com/cache-poisoning-and-other-dirty-tricks-120468f1053f) -由 [Wallarm](https://wallarm.com/).
+- [Bypassing Web Cache Poisoning Countermeasures](https://portswigger.net/blog/bypassing-web-cache-poisoning-countermeasures) -撰写者 [@albinowax](https://twitter.com/albinowax).
+- [Cache poisoning and other dirty tricks](https://lab.wallarm.com/cache-poisoning-and-other-dirty-tricks-120468f1053f) -撰写者 [Wallarm](https://wallarm.com/).
 
 <a name="tricks-header-injection"></a>
 ### Header Injection
 
-- [Java/Python FTP Injections Allow for Firewall Bypass](http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html) -由 [Timothy Morgan](https://plus.google.com/105917618099766831589).
+- [Java/Python FTP Injections Allow for Firewall Bypass](http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html) -撰写者 [Timothy Morgan](https://plus.google.com/105917618099766831589).
 
 <a name="tricks-url"></a>
 ### URL
 
-- [Some Problems Of URLs](https://noncombatant.org/2017/11/07/problems-of-urls/) -由 [Chris Palmer](https://noncombatant.org/about/).
-- [Phishing with Unicode Domains](https://www.xudongz.com/blog/2017/idn-phishing/) -由 [Xudong Zheng](https://www.xudongz.com/).
-- [Unicode Domains are bad and you should feel bad for supporting them](https://www.vgrsec.com/post20170219.html) -由 [VRGSEC](https://www.vgrsec.com/).
+- [Some Problems Of URLs](https://noncombatant.org/2017/11/07/problems-of-urls/) -撰写者 [Chris Palmer](https://noncombatant.org/about/).
+- [Phishing with Unicode Domains](https://www.xudongz.com/blog/2017/idn-phishing/) -撰写者 [Xudong Zheng](https://www.xudongz.com/).
+- [Unicode Domains are bad and you should feel bad for supporting them](https://www.vgrsec.com/post20170219.html) -撰写者 [VRGSEC](https://www.vgrsec.com/).
 -[[dev.twitter.com] XSS]（http://blog.blackfan.ru/2017/09/devtwittercom-xss.html）-撰写者 [Sergey Bobrov](http://blog.blackfan.ru/).
 
 <a name="tricks-deserialization"></a>
 ### Deserialization
 
-- [ASP.NET resource files (.RESX) and deserialisation issues](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/august/aspnet-resource-files-resx-and-deserialisation-issues/) -由 [@irsdl](https://twitter.com/irsdl).
+- [ASP.NET resource files (.RESX) and deserialisation issues](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/august/aspnet-resource-files-resx-and-deserialisation-issues/) -撰写者 [@irsdl](https://twitter.com/irsdl).
 
 <a name="tricks-oauth"></a>
 ### OAuth
 
-- [Facebook OAuth Framework Vulnerability](https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/) -由 [@AmolBaikar](https://twitter.com/AmolBaikar).
+- [Facebook OAuth Framework Vulnerability](https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/) -撰写者 [@AmolBaikar](https://twitter.com/AmolBaikar).
 
 <a name="tricks-others"></a>
 ### Others
 
-- [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.com/free-code-camp/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) -由 [@alex.birsan](https://medium.com/@alex.birsan).
-- [Some Tricks From My Secret Group](https://www.leavesongs.com/SHARE/some-tricks-from-my-secret-group.html) -由 [phithon](https://www.leavesongs.com/).
-- [Inducing DNS Leaks in Onion Web Services](https://github.com/epidemics-scepticism/writing/blob/master/onion-dns-leaks.md) -由 [@epidemics-scepticism](https://github.com/epidemics-scepticism).
-- [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) -由 [@signalchaos](https://twitter.com/signalchaos).
+- [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.com/free-code-camp/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) -撰写者 [@alex.birsan](https://medium.com/@alex.birsan).
+- [Some Tricks From My Secret Group](https://www.leavesongs.com/SHARE/some-tricks-from-my-secret-group.html) -撰写者 [phithon](https://www.leavesongs.com/).
+- [Inducing DNS Leaks in Onion Web Services](https://github.com/epidemics-scepticism/writing/blob/master/onion-dns-leaks.md) -撰写者 [@epidemics-scepticism](https://github.com/epidemics-scepticism).
+- [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) -撰写者 [@signalchaos](https://twitter.com/signalchaos).
 
 ## Browser Exploitation
 
 ### Frontend (like SOP bypass, URL spoofing, and something like that)
 
-- [The world of Site Isolation and compromised renderer](https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer) -由 [@shhnjk](https://twitter.com/shhnjk).
-- [The Cookie Monster in Your Browsers](https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers) -由 [@filedescriptor](https://twitter.com/filedescriptor).
-- [Bypassing Mobile Browser Security For Fun And Profit](https://www.blackhat.com/docs/asia-16/materials/asia-16-Baloch-Bypassing-Browser-Security-Policies-For-Fun-And-Profit-wp.pdf) -由 [@rafaybaloch](https://twitter.com/@rafaybaloch).
-- [The inception bar: a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/) -由 [jameshfisher](https://jameshfisher.com/).
-- [JSON hijacking for the modern web](http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html) -由 [portswigger](https://portswigger.net/).
+- [The world of Site Isolation and compromised renderer](https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer) -撰写者 [@shhnjk](https://twitter.com/shhnjk).
+- [The Cookie Monster in Your Browsers](https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers) -撰写者 [@filedescriptor](https://twitter.com/filedescriptor).
+- [Bypassing Mobile Browser Security For Fun And Profit](https://www.blackhat.com/docs/asia-16/materials/asia-16-Baloch-Bypassing-Browser-Security-Policies-For-Fun-And-Profit-wp.pdf) -撰写者 [@rafaybaloch](https://twitter.com/@rafaybaloch).
+- [The inception bar: a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/) -撰写者 [jameshfisher](https://jameshfisher.com/).
+- [JSON hijacking for the modern web](http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html) -撰写者 [portswigger](https://portswigger.net/).
 - [IE11 Information disclosure - local file detection](https://www.facebook.com/ExploitWareLabs/photos/a.361854183878462.84544.338832389513975/1378579648872572/?type=3&theater) -由James Lee撰写.
-- [SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge)](https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/) -由 [Manuel](https://twitter.com/magicmac2000).
-- [Особенности Safari в client-side атаках](https://bo0om.ru/safari-client-side) -由 [Bo0oM](https://bo0om.ru/author/admin).
-- [How do we Stop Spilling the Beans Across Origins?](https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/) -由 [aaj at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/aaj@google.com) 和 [mkwst at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/mkwst@google.com).
-- [Setting arbitrary request headers in Chromium via CRLF injection](https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html) -由 [Michał Bentkowski](https://blog.bentkowski.info/).
-- [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) -由 [David Gilbertson](https://hackernoon.com/@david.gilbertson).
-- [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) -由 [@kinugawamasato](https://twitter.com/kinugawamasato).
-- [Take Advantage of Out-of-Scope Domains in Bug Bounty Programs](https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty/) -由 [@Abdulahhusam](https://twitter.com/Abdulahhusam).
+- [SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge)](https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/) -撰写者 [Manuel](https://twitter.com/magicmac2000).
+- [Особенности Safari в client-side атаках](https://bo0om.ru/safari-client-side) -撰写者 [Bo0oM](https://bo0om.ru/author/admin).
+- [How do we Stop Spilling the Beans Across Origins?](https://docs.google.com/document/d/1cbL-X0kV_tQ5rL8XJ3lXkV-j0pt_CfTu5ZSzYrncPDc/) -撰写者 [aaj at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/aaj@google.com) 和 [mkwst at google.com](https://github.com/qazbnm456/awesome-web-security/blob/master/mkwst@google.com).
+- [Setting arbitrary request headers in Chromium via CRLF injection](https://blog.bentkowski.info/2018/06/setting-arbitrary-request-headers-in.html) -撰写者 [Michał Bentkowski](https://blog.bentkowski.info/).
+- [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) -撰写者 [David Gilbertson](https://hackernoon.com/@david.gilbertson).
+- [Sending arbitrary IPC messages via overriding Function.prototype.apply](https://hackerone.com/reports/188086) -撰写者 [@kinugawamasato](https://twitter.com/kinugawamasato).
+- [Take Advantage of Out-of-Scope Domains in Bug Bounty Programs](https://ahussam.me/Take-Advantage-of-Out-of-Scope-Domains-in-Bug-Bounty/) -撰写者 [@Abdulahhusam](https://twitter.com/Abdulahhusam).
 
 ### Backend (core of Browser implementation, and often refers to C or C++ part)
 
-- [Breaking UC Browser](https://habr.com/en/company/drweb/blog/452076/) -由 [Доктор Веб](https://www.drweb.ru/).
-- [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/papers/attacking_javascript_engines.html) -由 [https://github.com/qazbnm456/awesome-web-security/blob/master/phrack@saelo.net](https://github.com/qazbnm456/awesome-web-security/blob/master/phrack@saelo.net).
-- [Three roads lead to Rome](http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/) -由 [@holynop](https://twitter.com/holynop).
-- [Exploiting a V8 OOB write.](https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/) -由 [@halbecaf](https://twitter.com/halbecaf).
-- [SSD Advisory – Chrome Turbofan Remote Code Execution](https://blogs.securiteam.com/index.php/archives/3379) -由 [SecuriTeam Secure Disclosure (SSD)](https://blogs.securiteam.com/).
-- [Look Mom, I don't use Shellcode - Browser Exploitation Case Study for Internet Explorer 11](https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf) -由 [@moritzj](http://twitter.com/moritzj).
-- [PUSHING WEBKIT'S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT](https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit) -由 [@wanderingglitch](https://twitter.com/wanderingglitch).
-- [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/) -由 [RET2 SYSTEMS, INC](https://blog.ret2.io/).
-- [CVE-2017-2446 or JSC::JSGlobalObject::isHavingABadTime.](https://doar-e.github.io/blog/2018/07/14/cve-2017-2446-or-jscjsglobalobjectishavingabadtime/) -由 [Diary of a reverse-engineer](https://doar-e.github.io/).
-- [CLEANLY ESCAPING THE CHROME SANDBOX](https://theori.io/research/escaping-chrome-sandbox) -由 [@tjbecker_](https://twitter.com/tjbecker_).
+- [Breaking UC Browser](https://habr.com/en/company/drweb/blog/452076/) -撰写者 [Доктор Веб](https://www.drweb.ru/).
+- [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/papers/attacking_javascript_engines.html) -撰写者 [https://github.com/qazbnm456/awesome-web-security/blob/master/phrack@saelo.net](https://github.com/qazbnm456/awesome-web-security/blob/master/phrack@saelo.net).
+- [Three roads lead to Rome](http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/) -撰写者 [@holynop](https://twitter.com/holynop).
+- [Exploiting a V8 OOB write.](https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/) -撰写者 [@halbecaf](https://twitter.com/halbecaf).
+- [SSD Advisory – Chrome Turbofan Remote Code Execution](https://blogs.securiteam.com/index.php/archives/3379) -撰写者 [SecuriTeam Secure Disclosure (SSD)](https://blogs.securiteam.com/).
+- [Look Mom, I don't use Shellcode - Browser Exploitation Case Study for Internet Explorer 11](https://labs.bluefrostsecurity.de/files/Look_Mom_I_Dont_Use_Shellcode-WP.pdf) -撰写者 [@moritzj](http://twitter.com/moritzj).
+- [PUSHING WEBKIT'S BUTTONS WITH A MOBILE PWN2OWN EXPLOIT](https://www.zerodayinitiative.com/blog/2018/2/12/pushing-webkits-buttons-with-a-mobile-pwn2own-exploit) -撰写者 [@wanderingglitch](https://twitter.com/wanderingglitch).
+- [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/) -撰写者 [RET2 SYSTEMS, INC](https://blog.ret2.io/).
+- [CVE-2017-2446 or JSC::JSGlobalObject::isHavingABadTime.](https://doar-e.github.io/blog/2018/07/14/cve-2017-2446-or-jscjsglobalobjectishavingabadtime/) -撰写者 [Diary of a reverse-engineer](https://doar-e.github.io/).
+- [CLEANLY ESCAPING THE CHROME SANDBOX](https://theori.io/research/escaping-chrome-sandbox) -撰写者 [@tjbecker_](https://twitter.com/tjbecker_).
+- [A Methodical Approach to Browser Exploitation](https://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/) -撰写者 [@PatrickBiernat](https://twitter.com/PatrickBiernat), [@gaasedelen](https://twitter.com/gaasedelen) 和 [@itszn13](https://twitter.com/itszn13).
 
 ## PoCs
 
@@ -465,13 +477,13 @@
 - [awesome-cve-poc](https://github.com/qazbnm456/awesome-cve-poc) -整理的CVE PoC列表 [@qazbnm456](https://github.com/qazbnm456).
 - [Some-PoC-oR-ExP](https://github.com/coffeehb/Some-PoC-oR-ExP) - 各种漏洞poc、Exp的收集或编写 by [@coffeehb](https://github.com/coffeehb).
 - [uxss-db](https://github.com/Metnew/uxss-db) -通过PoC收集UXSS CVE [@Metnew](https://github.com/Metnew).
-- [SPLOITUS](https://sploitus.com/) -利用漏洞和工具的搜索引擎 [@i_bo0om](https://twitter.com/i_bo0om).
+- [SPLOITUS](https://sploitus.com/) -漏洞利用和工具搜索引擎 [@i_bo0om](https://twitter.com/i_bo0om).
 - [Exploit Database](https://www.exploit-db.com/) -漏洞，Shellcode和安全文件的最终存档，作者： [Offensive Security](https://www.offensive-security.com/).
 
 ## Cheetsheets
 
-- [XSS Cheat Sheet - 2018 Edition](https://leanpub.com/xss) -由 [@brutelogic](https://twitter.com/brutelogic).
-- [Capture the Flag CheatSheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet) -由 [@uppusaikiran](https://github.com/uppusaikiran).
+- [XSS Cheat Sheet - 2018 Edition](https://leanpub.com/xss) -撰写者 [@brutelogic](https://twitter.com/brutelogic).
+- [Capture the Flag CheatSheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet) -撰写者 [@uppusaikiran](https://github.com/uppusaikiran).
 
 ## Tools
 
@@ -493,11 +505,11 @@
 <a name="tools-osint"></a>
 #### OSINT - Open-Source Intelligence
 
-- [Shodan](https://www.shodan.io/) -Shodan是世界上第一个搜索互联网连接设备的引擎 [@shodanhq](https://twitter.com/shodanhq).
+- [Shodan](https://www.shodan.io/) -Shodan是世界上第一个通过互联网连接设备的搜索引擎 [@shodanhq](https://twitter.com/shodanhq).
 - [Censys](https://censys.io/) -Censys是一个搜索引擎，计算机科学家可以通过它搜索有关构成Internet的设备和网络的问题 [University of Michigan](https://umich.edu/).
 - [urlscan.io](https://urlscan.io/) -分析网站及其请求资源的服务 [@heipei](https://twitter.com/heipei).
-- [ZoomEye](https://www.zoomeye.org/) -网络空间搜索引擎，由 [@zoomeye_team](https://twitter.com/zoomeye_team).
-- [FOFA](https://fofa.so/?locale=en) -网络空间搜索引擎，由 [BAIMAOHUI](http://baimaohui.net/).
+- [ZoomEye](https://www.zoomeye.org/) -网络空间搜索引擎 [@zoomeye_team](https://twitter.com/zoomeye_team).
+- [FOFA](https://fofa.so/?locale=en) -网络空间搜索引擎 [BAIMAOHUI](http://baimaohui.net/).
 - [NSFOCUS](https://nti.nsfocus.com/) -绿盟科技全球威胁智能门户网站.
 - [Photon](https://github.com/s0md3v/Photon) -由OSINT设计的令人难以置信的快速搜寻器 [@s0md3v](https://github.com/s0md3v).
 - [FOCA](https://github.com/ElevenPaths/FOCA) -FOCA（具有收集档案的指纹组织）是一种工具，主要用于在其扫描所依据的文档中查找元数据和隐藏信息 [ElevenPaths](https://www.elevenpaths.com/index.html).
@@ -519,7 +531,7 @@
 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) -Sublist3r是用于渗透测试人员的多线程子域枚举工具， [@aboul3la](https://github.com/aboul3la).
 - [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) -EyeWitness旨在获取网站的屏幕截图，提供一些服务器标头信息，并在可能的情况下通过以下方式识别默认凭据： [@ChrisTruncer](https://github.com/ChrisTruncer).
-- [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) -面向渗透测试者的简单快速子域暴力破解工具， [@lijiejie](https://github.com/lijiejie).
+- [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) -一种针对渗透测试者的简单快速的子域暴力破解工具 [@lijiejie](https://github.com/lijiejie).
 - [AQUATONE](https://github.com/michenriksen/aquatone) -的网域天桥工具 [@michenriksen](https://github.com/michenriksen).
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) -通过查找所有可能的信息来分析任何域的安全性 [@eldraco](https://github.com/eldraco).
 - [VirusTotal domain information](https://www.virustotal.com/en/documentation/searching/#getting-domain-information) -通过搜索域名信息 [VirusTotal](https://www.virustotal.com/).
@@ -541,20 +553,21 @@
 - [domato](https://github.com/google/domato) -DOM模糊测试者 [@google](https://github.com/google).
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) -用于黑盒应用程序故障注入和资源发现的攻击模式和原语字典.
 - [dirhunt](https://github.com/Nekmo/dirhunt) -优化的网络爬虫，用于通过以下方式搜索和分析站点的目录结构 [@nekmo](https://github.com/Nekmo).
-- [ssltest](https://www.ssllabs.com/ssltest/)  -在线服务，对公共Internet上任何SSL Web服务器的配置进行深入分析.  由...提供 [Qualys SSL Labs](https://www.ssllabs.com).
+- [ssltest](https://www.ssllabs.com/ssltest/)  -在线服务，对公共Internet上任何SSL Web服务器的配置进行深入分析. 由...提供 [Qualys SSL Labs](https://www.ssllabs.com).
 - [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) -潜在的危险文件 [@Bo0oM](https://github.com/Bo0oM).
 
 <a name="tools-scanning"></a>
 ### Scanning
 
 - [wpscan](https://github.com/wpscanteam/wpscan) -WPScan是黑匣子WordPress漏洞扫描程序，由 [@wpscanteam](https://github.com/wpscanteam).
-- [JoomlaScan](https://github.com/drego85/JoomlaScan) -免费软件，用于查找Joomla CMS中安装的组件，这些组件由Joomscan的灰烬构建而成， [@drego85](https://github.com/drego85).
+- [JoomlaScan](https://github.com/drego85/JoomlaScan) -免费软件，用于查找Joomla CMS的安装组件，这些组件是通过以下方式在Joomscan的基础上构建的： [@drego85](https://github.com/drego85).
 - [WAScan](https://github.com/m4ll0k/WAScan) -是使用“黑匣子”方法创建的开源Web应用程序安全扫描程序，由 [@m4ll0k](https://github.com/m4ll0k).
+- [Nuclei](https://github.com/projectdiscovery/nuclei) -Nuclei是基于模板的可配置目标扫描的快速工具，具有广泛的可扩展性和易用性，易于使用 [@projectdiscovery](https://github.com/projectdiscovery).
 
 <a name="tools-penetration-testing"></a>
 ### Penetration Testing
 
-- [Burp Suite](https://portswigger.net/burp/) -Burp Suite是一个集成平台，用于通过以下方式对Web应用程序执行安全性测试： [portswigger](https://portswigger.net/).
+- [Burp Suite](https://portswigger.net/burp/) -Burp Suite是一个集成平台，用于通过以下方式执行Web应用程序的安全性测试 [portswigger](https://portswigger.net/).
 - [TIDoS-Framework](https://github.com/theInfectedDrake/TIDoS-Framework) -全面的Web应用程序审核框架，涵盖了从侦察和OSINT到漏洞分析的所有内容， [@_tID](https://github.com/theInfectedDrake).
 - [Astra](https://github.com/flipkart-incubator/astra) -REST API的自动化安全测试 [@flipkart-incubator](https://github.com/flipkart-incubator).
 - [aws_pwn](https://github.com/dagrz/aws_pwn) -由以下人员收集的AWS渗透测试垃圾 [@dagrz](https://github.com/dagrz).
@@ -568,7 +581,7 @@
 
 - [beef](https://github.com/beefproject/beef) -通过的浏览器开发框架项目 [beefproject](https://beefproject.com).
 - [JShell](https://github.com/s0md3v/JShell) -通过XSS获得JavaScript shell [@s0md3v](https://github.com/s0md3v).
-- [XSStrike](https://github.com/s0md3v/XSStrike)  -XSStrike是一个程序，可以模糊和暴力破解XSS的参数.  它还可以通过以下方式检测和绕过WAF： [@s0md3v](https://github.com/s0md3v).
+- [XSStrike](https://github.com/s0md3v/XSStrike)  -XSStrike是一个程序，可以模糊和暴力破解XSS的参数. 它还可以通过以下方式检测和绕过WAF： [@s0md3v](https://github.com/s0md3v).
 - [xssor2](https://github.com/evilcos/xssor2) -XSS&#39;OR-使用JavaScript入侵 [@evilcos](https://github.com/evilcos).
 - [csp evaluator](https://csper.io/evaluator) -评估内容安全政策的工具 [Csper](http://csper.io).
 
@@ -600,13 +613,13 @@
 <a name="tools-leaking"></a>
 ### Leaking
 
-- [HTTPLeaks](https://github.com/cure53/HTTPLeaks) -通过所有可能的方式，网站可以通过以下方式泄漏HTTP请求： [@cure53](https://github.com/cure53).
+- [HTTPLeaks](https://github.com/cure53/HTTPLeaks) -所有可能的方式，网站可能通过以下方式泄漏HTTP请求 [@cure53](https://github.com/cure53).
 - [dvcs-ripper](https://github.com/kost/dvcs-ripper) -Rip Web可访问（分布式）版本控制系统：SVN / GIT / HG ... [@kost](https://github.com/kost).
 - [DVCS-Pillage](https://github.com/evilpacket/DVCS-Pillage) -通过以下方式访问Pillage网站的GIT，HG和BZR存储库 [@evilpacket](https://github.com/evilpacket).
 - [GitMiner](https://github.com/UnkL4b/GitMiner) -由Github上的内容高级挖掘工具 [@UnkL4b](https://github.com/UnkL4b).
 - [gitleaks](https://github.com/zricethezav/gitleaks) -搜索完整的回购历史记录，以查找秘密和密钥 [@zricethezav](https://github.com/zricethezav).
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) -Chrome扩展程序和Express服务器，可利用CSS的按键记录功能 [@maxchehab](https://github.com/maxchehab).
-- [pwngitmanager](https://github.com/allyshka/pwngitmanager) -彭特市的Git经理 [@allyshka](https://github.com/allyshka).
+- [pwngitmanager](https://github.com/allyshka/pwngitmanager) -面向渗透测试者的Git经理 [@allyshka](https://github.com/allyshka).
 - [snallygaster](https://github.com/hannob/snallygaster) -通过以下工具扫描HTTP服务器上的秘密文件的工具 [@hannob](https://github.com/hannob).
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) -通过以下方式在JavaScript文件中查找端点的Python脚本 [@GerbenJavado](https://github.com/GerbenJavado).
 
@@ -616,16 +629,16 @@
 - [sqlchop](https://sqlchop.chaitin.cn/) -SQL注入检测引擎 [chaitin](http://chaitin.com).
 - [xsschop](https://xsschop.chaitin.cn/) -XSS检测引擎 [chaitin](http://chaitin.com).
 - [retire.js](https://github.com/RetireJS/retire.js) -扫描程序通过以下方式检测对已知漏洞的JavaScript库的使用： [@RetireJS](https://github.com/RetireJS).
-- [malware-jail](https://github.com/HynekPetrak/malware-jail) -沙箱，用于半自动Java恶意软件分析，去混淆和有效载荷提取， [@HynekPetrak](https://github.com/HynekPetrak).
-- [repo-supervisor](https://github.com/auth0/repo-supervisor) -扫描您的代码以检查安全性配置错误，搜索密码和机密.
+- [malware-jail](https://github.com/HynekPetrak/malware-jail) -沙箱，用于通过以下方式进行半自动的Javascript恶意软件分析，去混淆和有效载荷提取 [@HynekPetrak](https://github.com/HynekPetrak).
+- [repo-supervisor](https://github.com/auth0/repo-supervisor) -扫描代码以检查安全性配置错误，搜索密码和机密.
 - [bXSS](https://github.com/LewisArdern/bXSS) -bXSS是一个简单的Blind XSS应用程序，适用于 [cure53.de/m](https://cure53.de/m) 通过 [@LewisArdern](https://github.com/LewisArdern).
-- [OpenRASP](https://github.com/baidu/openrasp)  -百度公司积极维护的开源RASP解决方案.借助上下文感知检测算法，该项目几乎没有出现误报.  在高服务器负载下，性能下降不到3％.
+- [OpenRASP](https://github.com/baidu/openrasp)  -百度公司积极维护的开源RASP解决方案.借助上下文感知检测算法，该项目几乎没有出现误报. 在高服务器负载下，性能下降不到3％.
 - [GuardRails](https://github.com/apps/guardrails) -GitHub应用程序，可在请求请求中提供安全性反馈.
 
 <a name="tools-preventing"></a>
 ### Preventing
 
-- [DOMPurify](https://github.com/cure53/DOMPurify) -HTML，MathML和SVG的仅DOM，超快速，超耐性XSS消毒剂，由 [Cure53](https://cure53.de/).
+- [DOMPurify](https://github.com/cure53/DOMPurify) -HTML，MathML和SVG的仅DOM，超快速，超容忍XSS消毒剂，由 [Cure53](https://cure53.de/).
 - [js-xss](https://github.com/leizongmin/js-xss) -使用白名单指定的配置对不受信任的HTML进行清理（以防止XSS） [@leizongmin](https://github.com/leizongmin).
 - [Acra](https://github.com/cossacklabs/acra) -用于SQL数据库的客户端加密引擎，具有强大的选择性加密，防止SQL注入和入侵检测功能 [@cossacklabs](https://www.cossacklabs.com/).
 - [Csper](https://csper.io) -一套用于构建/评估/监控内容安全策略的工具，以防止/检测跨站点脚本 [Csper](https://csper.io).
@@ -644,7 +657,8 @@
 - [Weevely](https://github.com/epinna/weevely3) -武器化的网页壳 [@epinna](https://github.com/epinna).
 - [Webshell-Sniper](https://github.com/WangYihang/Webshell-Sniper) -通过终端管理您的网站 [@WangYihang](https://github.com/WangYihang).
 - [Reverse-Shell-Manager](https://github.com/WangYihang/Reverse-Shell-Manager) -通过终端反向Shell Manager[@WangYihang](https://github.com/WangYihang).
-- [reverse-shell](https://github.com/lukechilds/reverse-shell) -反向Shell即服务 [@lukechilds](https://github.com/lukechilds).
+- [reverse-shell](https://github.com/lukechilds/reverse-shell) -通过将反向Shell即服务 [@lukechilds](https://github.com/lukechilds).
+- [PhpSploit](https://github.com/nil0x42/phpsploit) -功能齐全的C2框架，通过邪恶的PHP oneliner静默地存在于Web服务器上 [@nil0x42](https://github.com/nil0x42).
 
 <a name="tools-disassembler"></a>
 ### Disassembler
@@ -688,10 +702,10 @@
 - [Scrutiny](https://datarift.blogspot.tw/) -Dhiraj Mishra通过Web浏览器进行的Internet安全性.
 - [BRETT BUERHAUS](https://buer.haus/) -漏洞披露和有关应用程序安全性的漫步.
 - [n0tr00t](https://www.n0tr00t.com/) - ~# n0tr00t Security Team.
-- [OpnSec](https://opnsec.com/) -开放思想安全！
+- [OpnSec](https://opnsec.com/) -放心安全！
 - [RIPS Technologies](https://blog.ripstech.com/tags/security/) -有关PHP漏洞的内容.
 - [0Day Labs](http://blog.0daylabs.com/) -出色的错误赏金并挑战撰写内容.
-- [Blog of Osanda](https://osandamalith.com/) -安全研究与逆向工程.
+- [Blog of Osanda](https://osandamalith.com/) -安全研究和逆向工程.
 
 ## Twitter Users
 
@@ -713,7 +727,7 @@
 - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) -可能是最现代，最复杂的不安全Web应用程序-作者： [@bkimminich](https://github.com/bkimminich) 和 [@owasp_juiceshop](https://twitter.com/owasp_juiceshop) 球队.
 - [BadLibrary](https://github.com/SecureSkyTechnology/BadLibrary) -易受攻击的网络应用程序-撰写者 [@SecureSkyTechnology](https://github.com/SecureSkyTechnology).
 - [Hackxor](http://hackxor.net/) -现实的Web应用程序黑客游戏-撰写者 [@albinowax](https://twitter.com/albinowax).
-- [SELinux Game](http://selinuxgame.org/)  -通过实践学习SELinux.  解决难题，显示技能-撰写者 [@selinuxgame](https://twitter.com/selinuxgame).
+- [SELinux Game](http://selinuxgame.org/)  -通过实践学习SELinux. 解决难题，显示技能-撰写者 [@selinuxgame](https://twitter.com/selinuxgame).
 - [Portswigger Web Security Academy](https://portswigger.net/web-security) -免费培训和实验室-撰写者 [PortSwigger](https://portswigger.net/).
 
 <a name="practices-aws"></a>
@@ -742,43 +756,45 @@
 
 ## Miscellaneous
 
-- [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) -可用的漏洞赏金与披露程序和撰写的全面精选清单 [@djadmin](https://github.com/djadmin).
+- [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) -可用的漏洞赏金和披露计划以及撰写的全面精选清单 [@djadmin](https://github.com/djadmin).
 - [bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) -按漏洞性质分类的漏洞赏金记录清单 [@ngalongc](https://github.com/ngalongc).
-- [Google VRP and Unicorns](https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns) -由 [Daniel Stelter-Gliese](https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/).
-- [Brute Forcing Your Facebook Email and Phone Number](http://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html) -由 [PwnDizzle](http://pwndizzle.blogspot.jp/).
+- [Google VRP and Unicorns](https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns) -撰写者 [Daniel Stelter-Gliese](https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/).
+- [Brute Forcing Your Facebook Email and Phone Number](http://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html) -撰写者 [PwnDizzle](http://pwndizzle.blogspot.jp/).
 - [Pentest + Exploit dev Cheatsheet wallpaper](http://i.imgur.com/Mr9pvq9.jpg) -渗透测试和开发Dev CheatSheet.
 - [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/) -由JASON TROS撰写.
 - [EQGRP](https://github.com/x0rz/EQGRP) -解密eqgrp-auction-file.tar.xz的内容 [@x0rz](https://github.com/x0rz).
 - [notes](https://github.com/ChALkeR/notes) -一些公共注释 [@ChALkeR](https://github.com/ChALkeR).
-- [A glimpse into GitHub's Bug Bounty workflow](https://githubengineering.com/githubs-bug-bounty-workflow/) -由 [@gregose](https://github.com/gregose).
-- [Cybersecurity Campaign Playbook](https://www.belfercenter.org/CyberPlaybook) -由 [Belfer Center for Science and International Affairs](https://www.belfercenter.org/).
-- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) -不会吸引的信息安全参考 [@rmusser01](https://github.com/rmusser01).
+- [A glimpse into GitHub's Bug Bounty workflow](https://githubengineering.com/githubs-bug-bounty-workflow/) -撰写者 [@gregose](https://github.com/gregose).
+- [Cybersecurity Campaign Playbook](https://www.belfercenter.org/CyberPlaybook) -撰写者 [Belfer Center for Science and International Affairs](https://www.belfercenter.org/).
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - Information Security Reference That Doesn't Suck by [@rmusser01](https://github.com/rmusser01).
 - [Internet of Things Scanner](http://iotscanner.bullguard.com/) -检查您的家用互联网连接设备是否在Shodan上公开 [BullGuard](https://www.bullguard.com/).
-- [The Bug Hunters Methodology v2.1](https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing) -由 [@jhaddix](https://twitter.com/jhaddix).
-- [$7.5k Google services mix-up](https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up) -由 [Ezequiel Pereira](https://sites.google.com/site/testsitehacking/).
-- [How I exploited ACME TLS-SNI-01 issuing Let's Encrypt SSL-certs for any domain using shared hosting](https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/) -由 [@fransrosen](https://twitter.com/fransrosen).
-- [TL:DR: VPN leaks users’ IPs via WebRTC. I’ve tested seventy VPN providers and 16 of them leaks users’ IPs via WebRTC (23%)](https://voidsec.com/vpn-leak/) -由 [voidsec](https://voidsec.com/).
-- [Escape and Evasion Egressing Restricted Networks](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks) -由 [Chris Patten, Tom Steele](https://github.com/qazbnm456/awesome-web-security/blob/master/info@optiv.com).
-- [Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66) -由 [@umpox](https://medium.com/@umpox).
-- [Domato Fuzzer's Generation Engine Internals](https://www.sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals) -由 [sigpwn](https://www.sigpwn.io/).
-- [CSS Is So Overpowered It Can Deanonymize Facebook Users](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/) -由 [Ruslan Habalov](https://www.evonide.com/).
-- [Introduction to Web Application Security](https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018) -由 [@itsC0rg1](https://twitter.com/itsC0rg1), [@jmkeads](https://twitter.com/jmkeads) 和 [@matir](https://twitter.com/matir).
-- [Finding The Real Origin IPs Hiding Behind CloudFlare or TOR](https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/) -由 [Paul Dannewitz](https://www.secjuice.com/author/paul-dannewitz/).
-- [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob) -由 [@AntoGarand](https://twitter.com/AntoGarand).
-- [How I could have stolen your photos from Google - my first 3 bug bounty writeups](https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/) -由 [@gergoturcsanyi](https://twitter.com/gergoturcsanyi).
-- [An example why NAT is NOT security](https://0day.work/an-example-why-nat-is-not-security/) -由 [@0daywork](https://twitter.com/@0daywork).
-- [WEB APPLICATION PENETRATION TESTING NOTES](https://techvomit.net/web-application-penetration-testing-notes/) -由 [Jayson](https://techvomit.net/).
-- [Hacking with a Heads Up Display](https://segment.com/blog/hacking-with-a-heads-up-display/) -由 [David Scrobonia](https://segment.com/blog/authors/david-scrobonia/).
-- [Alexa Top 1 Million Security - Hacking the Big Ones](https://slashcrypto.org/data/itsecx2018.pdf) -由 [@slashcrypto](https://twitter.com/slashcrypto).
-- [The bug bounty program that changed my life](http://10degres.net/the-bug-bounty-program-that-changed-my-life/) -由 [Gwen](http://10degres.net/).
-- [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) -由 [Mariem](https://pentester.land/).
-- [Implications of Loading .NET Assemblies](https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html) -由 [Brian Wallace](https://threatvector.cylance.com/en_us/contributors/brian-wallace.html).
-- [WCTF2019: Gyotaku The Flag](https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf) -由 [@t0nk42](https://twitter.com/t0nk42).
-- [How we abused Slack's TURN servers to gain access to internal services](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/) -由 [@sandrogauci](https://twitter.com/sandrogauci).
+- [The Bug Hunters Methodology v2.1](https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing) -撰写者 [@jhaddix](https://twitter.com/jhaddix).
+- [$7.5k Google services mix-up](https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up) -撰写者 [Ezequiel Pereira](https://sites.google.com/site/testsitehacking/).
+- [How I exploited ACME TLS-SNI-01 issuing Let's Encrypt SSL-certs for any domain using shared hosting](https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/) -撰写者 [@fransrosen](https://twitter.com/fransrosen).
+- [TL:DR: VPN leaks users’ IPs via WebRTC. I’ve tested seventy VPN providers and 16 of them leaks users’ IPs via WebRTC (23%)](https://voidsec.com/vpn-leak/) -撰写者 [voidsec](https://voidsec.com/).
+- [Escape and Evasion Egressing Restricted Networks](https://www.optiv.com/blog/escape-and-evasion-egressing-restricted-networks) -撰写者 [Chris Patten, Tom Steele](https://github.com/qazbnm456/awesome-web-security/blob/master/info@optiv.com).
+- [Be careful what you copy: Invisibly inserting usernames into text with Zero-Width Characters](https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66) -撰写者 [@umpox](https://medium.com/@umpox).
+- [Domato Fuzzer's Generation Engine Internals](https://www.sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals) -撰写者 [sigpwn](https://www.sigpwn.io/).
+- [CSS Is So Overpowered It Can Deanonymize Facebook Users](https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/) -撰写者 [Ruslan Habalov](https://www.evonide.com/).
+- [Introduction to Web Application Security](https://www.slideshare.net/nragupathy/introduction-to-web-application-security-blackhoodie-us-2018) -撰写者 [@itsC0rg1](https://twitter.com/itsC0rg1), [@jmkeads](https://twitter.com/jmkeads) 和 [@matir](https://twitter.com/matir).
+- [Finding The Real Origin IPs Hiding Behind CloudFlare or TOR](https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/) -撰写者 [Paul Dannewitz](https://www.secjuice.com/author/paul-dannewitz/).
+- [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob) -撰写者 [@AntoGarand](https://twitter.com/AntoGarand).
+- [How I could have stolen your photos from Google - my first 3 bug bounty writeups](https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/) -撰写者 [@gergoturcsanyi](https://twitter.com/gergoturcsanyi).
+- [An example why NAT is NOT security](https://0day.work/an-example-why-nat-is-not-security/) -撰写者 [@0daywork](https://twitter.com/@0daywork).
+- [WEB APPLICATION PENETRATION TESTING NOTES](https://techvomit.net/web-application-penetration-testing-notes/) -撰写者 [Jayson](https://techvomit.net/).
+- [Hacking with a Heads Up Display](https://segment.com/blog/hacking-with-a-heads-up-display/) -撰写者 [David Scrobonia](https://segment.com/blog/authors/david-scrobonia/).
+- [Alexa Top 1 Million Security - Hacking the Big Ones](https://slashcrypto.org/data/itsecx2018.pdf) -撰写者 [@slashcrypto](https://twitter.com/slashcrypto).
+- [The bug bounty program that changed my life](http://10degres.net/the-bug-bounty-program-that-changed-my-life/) -撰写者 [Gwen](http://10degres.net/).
+- [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) -撰写者 [Mariem](https://pentester.land/).
+- [Implications of Loading .NET Assemblies](https://threatvector.cylance.com/en_us/home/implications-of-loading-net-assemblies.html) -撰写者 [Brian Wallace](https://threatvector.cylance.com/en_us/contributors/brian-wallace.html).
+- [WCTF2019: Gyotaku The Flag](https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf) -撰写者 [@t0nk42](https://twitter.com/t0nk42).
+- [How we abused Slack's TURN servers to gain access to internal services](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/) -撰写者 [@sandrogauci](https://twitter.com/sandrogauci).
+- [DOS File Path Magic Tricks](https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa) -撰写者 [@clr2of8](https://medium.com/@clr2of8).
+- [How I got my first big bounty payout with Tesla](https://medium.com/heck-the-packet/how-i-got-my-first-big-bounty-payout-with-tesla-8d28b520162d) -撰写者 [@cj.fairhead](https://medium.com/@cj.fairhead).
 
 ## Code of Conduct
 
-请注意，此项目发布时带有 [Contributor Code of Conduct](https://github.com/qazbnm456/awesome-web-security/blob/master/code-of-conduct.md) .  通过参与该项目，您同意遵守其条款.
+请注意，此项目发布时带有 [Contributor Code of Conduct](https://github.com/qazbnm456/awesome-web-security/blob/master/code-of-conduct.md) . 通过参与该项目，您同意遵守其条款.
 
 ## License
 

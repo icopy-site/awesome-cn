@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 关于RESTful API架构，开发，测试和性能的重要资源的协作列表.  随时为这个持续不断的清单做出贡献.
+关于RESTful API架构，开发，测试和性能的重要资源的协作列表. 随时为这个持续不断的清单做出贡献.
 
 
 
@@ -10,7 +10,7 @@
 ## Design
 
 * [建筑风格和
-基于网络的软件体系结构设计]（https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm）-Roy Fielding的论文定义了REST
+基于网络的软件体系结构的设计]（https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm）-Roy Fielding的论文定义了REST
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) -解决安全性，分页，过滤，版本控制，部分答案，CORS等的完整指南.
@@ -19,7 +19,7 @@
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) -明确说明HATEOAS是什么，以及为什么要使用它.
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
 * [REST API Tutorial](http://www.restapitutorial.com/) -RestApiTutorial.com致力于跟踪REST API最佳实践，并提供资源来为开发人员提供快速参考和自我教育.
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) -作为设计原则，Microsoft REST API准则鼓励应用程序开发人员通过RESTful HTTP接口访问资源.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) -Microsoft REST API指南作为一种设计原则，鼓励应用程序开发人员通过RESTful HTTP接口访问资源.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) -有关REST API安全性的最佳做法
 
 ## Standards
@@ -27,12 +27,12 @@
 * [JSON API](http://jsonapi.org/) -在JSON中构建API的标准.
 * [RAML](http://raml.org/) -描述RESTful API的简单方法.
 * [JSend](http://labs.omniti.com/labs/jsend) -简单的规范，它规定了应如何格式化来自Web服务器的JSON响应的一些规则.
-* [OData](http://www.odata.org/)  -开放协议，允许创建和使用可查询和可互操作的RESTful API.  非常复杂.
-* [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) -简单的格式，提供了一种一致且简单的方法来在API中的资源之间建立超链接（请参阅： [HATEOAS](#hateoas)).
+* [OData](http://www.odata.org/)  -开放协议，允许创建和使用可查询和可互操作的RESTful API. 非常复杂.
+* [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-06) -简单的格式，提供了一种一致且简便的方法来在API中的资源之间建立超链接（请参阅： [HATEOAS](#hateoas)).
 * [JSON-LD](http://json-ld.org/) -描述JSON（W3C）中的链接数据和超媒体关系的标准.
 * [Hydra](http://www.hydra-cg.com/) -超媒体驱动的Web API（W3C）的词汇表.
 * [Schema.org](http://schema.org) -描述通用数据模型的模式集合.
-* [OpenAPI](https://openapis.org/) -OpenAPI规范（以前称为Swagger规范）是世界上最流行的用于定义Restful API的描述格式.
+* [OpenAPI](https://openapis.org/) -OpenAPI规范（以前称为Swagger规范）是世界上最受欢迎的用于定义Restful API的描述格式.
 
 ## Clients
 
@@ -58,14 +58,14 @@
 
 * [RESTClient](https://github.com/rest-client/rest-client) -Ruby的简单HTTP和REST客户端，受用于指定操作的微框架语法的启发.
 * [Spyke](https://github.com/balvig/spyke) -以类似ActiveRecord的方式与REST服务进行交互.
-* [excon](https://github.com/excon/excon)  -可用，快速，简单的Ruby HTTP 1.1.  它可以作为一般的HTTP客户端使用，特别适合在API客户端中使用.
+* [excon](https://github.com/excon/excon)  -可用，快速，简单的Ruby HTTP 1.1. 它可以作为一般的HTTP客户端使用，特别适合在API客户端中使用.
 * [httparty](https://github.com/jnunemaker/httparty) -使HTTP再次有趣！
 * [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) -Net :: HTTP提供了一个丰富的库，可用于构建HTTP用户代理.
 * [raml-ruby-client-generator](https://github.com/zlx/raml-ruby-client-generator) -从RAML文件自动生成API客户端.
 
 ### Go Clients
 
-* [gopencils](https://github.com/bndr/gopencils) -小型且简单的程序包，可轻松使用REST API.
+* [gopencils](https://github.com/bndr/gopencils) -小而简单的程序包，可以轻松使用REST API.
 * [resty](https://github.com/go-resty/resty) -受Ruby rest-client启发的Go的简单HTTP和REST客户端.
 
 ## Servers
@@ -73,13 +73,13 @@
 ### Directly On Top Of A RMDB
 
 * [postgrest](https://github.com/begriffs/postgrest) -直接从现有PostgreSQL数据库提供完全RESTful API.
-* [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) -适用于任何MySQL数据库的简单的类似REST的/ CRUD服务器.
+* [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
 * [pREST](https://github.com/prest/prest) -使用Go编写的任何现有PostgreSQL数据库中的完全RESTful API.
 
 ### Node.js
 
 * [node-restify](https://github.com/restify/node-restify) -专门用于REST API的框架.
-* [Sails.js](http://sailsjs.org/) -Node.js Web框架嵌入命令以自动生成REST API.
+* [Sails.js](http://sailsjs.org/) -嵌入命令以自动生成REST API的Node.js Web框架.
 * [mers](https://github.com/jspears/mers) -将Mongoose查找器公开为RESTful API的快速服务.
 * [Baucis](https://github.com/wprl/baucis) -根据您的Mongoose实体构建可扩展的REST API.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) -JavaScript的同构资源引擎.
@@ -93,7 +93,7 @@
 
 * [Microrest](https://github.com/marmelab/microrest.php) -在任何关系数据库之上提供REST API的微型Web应用程序.
 * [Drest](https://github.com/leedavis81/drest) -用于将Doctrine实体公开为REST资源端点的库.
-* [Restler](https://github.com/Luracast/Restler) -轻量级框架，可将PHP方法公开为RESTful Web API.
+* [Restler](https://github.com/Luracast/Restler) -轻量级框架，将PHP方法公开为RESTful Web API.
 * [HAL](https://github.com/blongden/hal) -超文本应用程序语言（HAL）构建器库.
 * [Apigility](https://github.com/zfcampus/zf-apigility-skeleton) -使用Zend Framework 2构建的API构建器.
 * [phprest](https://github.com/phprest/phprest) -适用于PHP的专用REST微框架.
@@ -102,10 +102,10 @@
 
 #### Symfony2
 
-* [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) -使用Symfony2框架构建最新的REST API的完整指南.
+* [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) -使用Symfony2框架构建最新REST API的完整指南.
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) -REST API的捆绑包处理视图，路由，错误处理等.
 * [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle) -使用约定优于配置，基于Doctrine实体构建REST API.
-* [lakion/Lionframe](http://lakion.com/lionframe) -在多个社区库之间使用Glu简化API开发.
+* [lakion/Lionframe](http://lakion.com/lionframe) -在多个社区库之间建立Glu，以简化API开发.
 * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) -整合 [Hateoas](https://github.com/willdurand/Hateoas) 库导入Symfony2应用程序.
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) -从Symfony2应用程序开始，该应用程序已预先配置了所有REST友好的捆绑软件.
 * [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle) -基于`stanlemon / rest-bundle`的Boostrap ng-admin配置.
@@ -123,11 +123,12 @@
 * [sandman](https://github.com/jeffknupp/sandman) -用于现有数据库驱动系统的自动化REST API.
 * [restless](http://restless.readthedocs.org/en/latest/) -与框架无关的REST框架，基于从DeliciousPie汲取的经验教训.
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) -REST API构建库（Django等）.
-* [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
-* [Ramses](https://ramses.readthedocs.org/en/stable/) -通过在运行时从文件中生成可用于生产的API，使RAML文件可执行.
-* [Flask-Potion](https://github.com/biosustain/potion)  -Flask-Potion是功能强大的Flask扩展，用于构建RESTful JSON API.  它还提供了多个客户端，可以更轻松地访问API.
+* [Python Eve](http://python-eve.org/)  -Eve是一个为人类设计的开源Python REST API框架. 它允许轻松构建和部署高度可定制的，功能齐全的RESTful Web服务.
+* [Ramses](https://ramses.readthedocs.org/en/stable/) -通过在运行时从它们生成可用于生产的API，使RAML文件可执行.
+* [Flask-Potion](https://github.com/biosustain/potion)  -Flask-Potion是功能强大的Flask扩展，用于构建RESTful JSON API. 它还提供了多个客户端，可以更轻松地访问API.
 * [apistar](https://github.com/encode/apistar) -为Python 3设计的智能Web API框架. 
 * [Falcon](https://github.com/falconry/falcon) -Falcon是一个裸机Python Web API框架，用于构建高性能微服务，应用程序后端和更高级别的框架.
+* [FastAPI](https://github.com/tiangolo/fastapi)  -FastAPI是一种现代，快速（高性能）的Web框架，用于基于标准Python类型提示使用Python 3.6+构建API. 使用基于OpenAPI和JSON Schema的Swagger UI和ReDoc的自动API文档.
 
 ### Ruby
 
@@ -137,7 +138,7 @@
 ### Go
 
 * [gocrud](https://github.com/manishrjain/gocrud)：转到库以简化创建，更新和删除任意深度结构化数据的过程—使构建REST服务变得快速，容易.
-* [go-json-rest](https://github.com/ant0ine/go-json-rest) -在“ net / http”之上的薄层，可帮助轻松构建RESTful API.
+* [go-json-rest](https://github.com/ant0ine/go-json-rest) -位于“ net / http”之上的薄层，可帮助轻松构建RESTful API.
 * [sleepy](https://github.com/dougblack/sleepy) -用Go编写的RESTful微框架.
 * [restit](https://github.com/yookoala/restit) -使用微型框架来帮助编写RESTful API集成测试.
 * [go-relax](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
@@ -159,7 +160,7 @@
 
 
 ### Haskell
-* [Rest for Haskell](https://github.com/silkapp/rest)  -该软件包允许您在Haskell中创建REST API.  这些API可以在不同的Web框架中运行.  它们还可以用于自动生成文档以及客户端库.
+* [Rest for Haskell](https://github.com/silkapp/rest)  -该软件包允许您在Haskell中创建REST API. 这些API可以在不同的Web框架中运行. 它们还可以用于自动生成文档以及客户端库.
 
 ## Testing
 
@@ -169,7 +170,7 @@
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) -Chrome扩展对于手动测试REST API是必不可少的.
 * [resty](https://github.com/micha/resty) -可以在管道（bash或zsh）中使用的小命令行REST客户端.
 * [jq](https://github.com/stedolan/jq) -命令行JSON处理器，与cURL等命令行HTTP客户端结合使用.
-* [HttpMaster](http://www.httpmaster.net)  -用于测试REST API和服务的GUI工具.  仅Windows操作系统.
+* [HttpMaster](http://www.httpmaster.net)  -用于测试REST API和服务的GUI工具. 仅Windows操作系统.
 * [Http-console](https://github.com/cloudhead/http-console) -HTTP的命令行界面，可让您*像本地人一样讲HTTP *
 * [HTTP Prompt](https://github.com/eliangcs/http-prompt) -HTTP提示是一个交互式命令行HTTP客户端，具有自动完成功能和语法突出显示功能，基于HTTPie和hint_toolkit构建.
 * [rest-assured](https://github.com/rest-assured/rest-assured) -Java DSL，可轻松测试REST服务.
@@ -182,11 +183,12 @@
 * [RequestBin](https://requestbin.com/) -检查和调试您的客户端或第三方API发送的Webhook请求.
 * [httpbin](http://httpbin.org) -HTTP请求和响应服务-用于HTTP的a / k / a瑞士军刀.
 * [FakeRest](https://github.com/marmelab/FakeRest) -修补XMLHttpRequest以伪造REST API客户端.
-* [json-server](https://github.com/typicode/json-server) -使用快速原型制作来自夹具文件的REST API.
+* [json-server](https://github.com/typicode/json-server) -使用快速原型设计从夹具文件提供REST API.
 * [Mocky.io](http://www.mocky.io/) -免费的在线服务，以创建伪造的HTTP响应.
 * [Swagger API Mock](https://github.com/bulkismaslom/swagger-api-mock) -基于swagger模式的RESTful API模拟
 * [Request Baskets](https://github.com/darklynx/request-baskets) -收集HTTP请求并通过RESTful API或Web UI检查它们的服务.
 * [DuckRails](https://github.com/iridakos/duckrails) -快速，动态地模拟API端点.
+* [Mockoon](https://mockoon.com)  -在本地轻松创建模拟API. 无需远程部署，无需帐户，即可开源.
 
 ### Public REST APIs To Use In Tests
 * [Deck of Cards API](http://deckofcardsapi.com) -用于模拟一副纸牌的开放API.
@@ -209,9 +211,9 @@
 * [Kong](https://github.com/Kong/kong) -由Nginx支持的可扩展，分布式和面向插件的API网关.
 * [Tyk API Gateway](https://github.com/TykTechnologies/tyk) -使用Go编写的具有分析日志记录的轻量级API网关.
 * [API Umbrella](https://github.com/NREL/api-umbrella) -用Lua编写的API管理平台，用于通过Web界面和分析公开Web服务.
-* [WSO2 API Management](https://github.com/wso2/product-apim) -具有Java编写的具有轻量级网关和API生命周期管理功能的API管理工具.
+* [WSO2 API Management](https://github.com/wso2/product-apim) -具有Java编写的轻量级网关和API生命周期管理的API管理工具.
 * [Express Gateway](https://github.com/ExpressGateway/express-gateway) -建立在ExpressJS（Node.js）之上的微服务API网关.
-* [KrakenD](https://github.com/devopsfaith/krakend)  带有中间件的超高性能API网关.  用Go语言编写.
+* [KrakenD](https://github.com/devopsfaith/krakend) 具有中间件的超高性能API网关. 用Go编写.
 
 ## SaaS Tools
 
@@ -222,9 +224,9 @@
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/) -Amazon API Gateway是一项完全托管的服务，使开发人员可以轻松地创建，发布，维护，监控和保护各种规模的API.
 * [Apigee](https://apigee.com) -Apigee是为企业和开发人员提供API技术和服务的领先提供商.
 * [3scale](https://www.3scale.net/) -基于Nginx的API网关，可将内部和外部API服务与3scale的API管理平台集成在一起.
-* [Assertible](https://assertible.com) -部署后以及跨环境持续测试和监视您的API.
+* [Assertible](https://assertible.com) -部署后和跨环境连续测试和监视您的API.
 * [Moesif](https://www.moesif.com) -用于RESTful和GraphQL的调试，监视和使用情况跟踪的API分析.
-* [Beeceptor](https://beeceptor.com/)  -HTTP检查，模拟和代理服务.  提供命名端点以创建模拟API端点并模拟响应.
+* [Beeceptor](https://beeceptor.com/)  -HTTP检查，模拟和代理服务. 提供命名端点，用于创建模拟API端点和模拟响应.
 
 ## Miscellaneous
 

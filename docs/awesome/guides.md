@@ -79,6 +79,7 @@
 + [JavaScript: The Right Way](http://jstherightway.org/)
 + [ES6 Coding Style](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 + [JavaScript SDK Design Guide](https://github.com/hueitan/javascript-sdk-design#readme)
++ [Project Guidelines](https://github.com/elsewhencode/project-guidelines#readme)
 
 ### Java
 

@@ -20,17 +20,17 @@
 - [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) -强大的IDE，用于Oracle管理，管理和开发.
 - [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) -用于管理和开发数据库和对象的GUI工具.
 - [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) -强大的集成开发环境，用于SQL Server开发，管理，管理，数据分析和报告.
-- [dbKoda](https://github.com/SouthbankSoftware/dbkoda)  -现代的（JavaScript / Electron框架），适用于MongoDB的开源IDE.  它具有支持MongoDB数据库上的开发，管理和性能调整的功能.
-- [IBExpert](http://www.ibexpert.net/ibe) -适用于Firebird和InterBase的综合GUI工具.
+- [dbKoda](https://github.com/SouthbankSoftware/dbkoda)  -现代的（JavaScript / Electron框架），适用于MongoDB的开源IDE. 它具有支持MongoDB数据库上的开发，管理和性能调整的功能.
+- [IBExpert](http://www.ibexpert.net/ibe) -用于Firebird和InterBase的综合GUI工具.
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) -用Delphi编写的用于管理MySQL，MSSQL和PostgreSQL的轻量级客户端.
-- [MySQL Workbench](https://www.mysql.com/products/workbench) -MySQL Workbench是面向数据库架构师，开发人员和DBA的统一可视工具.
-- [Navicat](https://www.navicat.com/en/products#navicat) -一种数据库开发工具，可让您从单个应用程序同时连接到MySQL，MariaDB，SQL Server，Oracle，PostgreSQL和SQLite数据库.
+- [MySQL Workbench](https://www.mysql.com/products/workbench) -MySQL Workbench是用于数据库架构师，开发人员和DBA的统一可视工具.
+- [Navicat](https://www.navicat.com/en/products#navicat) -数据库开发工具，可让您从单个应用程序同时连接到MySQL，MariaDB，SQL Server，Oracle，PostgreSQL和SQLite数据库.
 - [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) -Oracle SQL Developer是一个免费的集成开发环境，可简化传统和云部署中Oracle数据库的开发和管理.
-- [pgAdmin](https://www.pgadmin.org) -PostgreSQL（世界上最先进的开源数据库）最受欢迎和功能最丰富的开源管理和开发平台.
+- [pgAdmin](https://www.pgadmin.org) -PostgreSQL（世界上最先进的开源数据库）中最受欢迎，功能最丰富的开源管理和开发平台.
 - [pgAdmin3](https://www.bigsql.org/pgadmin3) -pgAdmin3的长期支持.
 - [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) -专门针对Oracle数据库存储程序单元开发的IDE.
-- [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) -PostgreSQL的功能强大的完整数据库管理，管理和开发工具.
-- [Toad](https://www.quest.com/toad/)  -Toad是面向开发人员，管理员和数据分析师的首要数据库解决方案.  使用单个数据库管理工具管理复杂的数据库更改.
+- [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) -PostgreSQL的完整而强大的数据库管理，管理和开发工具.
+- [Toad](https://www.quest.com/toad/)  -Toad是面向开发人员，管理员和数据分析师的首要数据库解决方案. 使用单个数据库管理工具管理复杂的数据库更改.
 - [Toad Edge](https://www.toadworld.com/products/toad-edge) -简化的MySQL和Postgres数据库开发工具.
 - [TOra](https://github.com/tora-tool/tora) -TOra是针对Oracle，MySQL和PostgreSQL数据库的开源SQL IDE.
 - [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) -免费创建，管理，查询和浏览Valentina DB，MySQL，MariaDB，PostgreSQL和SQLite数据库.
@@ -39,8 +39,8 @@
 ## GUI Managers/Clients
 - [Adminer](https://github.com/vrana/adminer) -在单个PHP文件中进行数据库管理.
 - [DbVisualizer](https://www.dbvis.com) -适用于开发人员，DBA和分析师的通用数据库工具.
-- [HouseOps](https://github.com/HouseOps/HouseOps) -用于您的企业ClickHouse Ops UI，可以运行查询，监视ClickHouse的运行状况并让其他人思考.
-- [JackDB](https://www.jackdb.com) -直接SQL访问您所有数据，无论它们位于何处.
+- [HouseOps](https://github.com/HouseOps/HouseOps) -用于您的企业ClickHouse Ops UI，可以运行查询，监视ClickHouse的运行状况并引起其他许多人的思考.
+- [JackDB](https://www.jackdb.com) -直接SQL访问所有数据，无论它们位于何处.
 - [OmniDB](https://github.com/OmniDB/OmniDB) -用于数据库管理的Web工具.
 - [Pgweb](https://github.com/sosedoff/pgweb) -用于PostgreSQL的基于Web的数据库浏览器，用Go编写，可在macOS，Linux和Windows计算机上使用.
 - [phpLiteAdmin](https://www.phpliteadmin.org) -用PHP编写的基于Web的SQLite数据库管理工具，支持SQLite3和SQLite2.
@@ -49,11 +49,11 @@
 - [PopSQL](https://popsql.com) -适用于您团队的现代化协作SQL编辑器.
 - [Postico](https://eggerapps.at/postico) -Mac的现代PostgreSQL客户端.
 - [Robo 3T](https://github.com/Studio3T/robomongo) -Robo 3T（以前称为Robomongo）是一个以外壳为中心的跨平台MongoDB管理工具.
-- [Sequel Pro](https://github.com/sequelpro/sequelpro) -Sequel Pro是一个快速，易于使用的Mac数据库管理应用程序，用于处理MySQL和MariaDB数据库.
+- [Sequel Pro](https://github.com/sequelpro/sequelpro) -Sequel Pro是一个快速，易于使用的Mac数据库管理应用程序，可用于MySQL和MariaDB数据库.
 - [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) -一种数据管理工具，可从Windows，macOS和Linux使用SQL Server，Azure SQL DB和SQL DW.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) -图形界面支持所有SQLite功能.
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) -基于Web的SQL编辑器在您自己的私有云中运行.
-- [SQLPro](https://www.macpostgresclient.com) -适用于macOS的简单，强大的Postgres管理器.
+- [SQLPro](https://www.macpostgresclient.com) -适用于macOS的简单，功能强大的Postgres管理器.
 - [SQuirreL](https://sourceforge.net/projects/squirrel-sql) -用Java编写的图形化SQL客户端，它允许您查看JDBC兼容数据库的结构，浏览表中的数据，发出SQL命令等.
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) -VSCode的数据库管理.
 - [SQLyog](https://www.webyog.com/product/sqlyog) -最完整，最易用的MySQL GUI.
@@ -67,13 +67,13 @@
 - [iredis](https://github.com/laixintao/iredis) -具有自动完成功能和语法突出显示功能的Redis Cli.
 - [pgcenter](https://github.com/lesovsky/pgcenter) -PostgreSQL的顶级管理工具.
 - [pg_activity](https://github.com/julmon/pg_activity) -用于PostgreSQL服务器活动监视的顶级应用程序.
-- [pg_top](https://github.com/markwkm/pg_top) -PostgreSQL的“ top”.
+- [pg_top](https://github.com/markwkm/pg_top) -PostgreSQL的“顶部”.
 - [pspg](https://github.com/okbob/pspg) -Postgres传呼机.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) -Oracle SQL Developer命令行（SQLcl）是Oracle数据库的免费命令行界面.
 - [usql](https://github.com/xo/usql) -PostgreSQL，MySQL，Oracle数据库，SQLite3，Microsoft SQL Server的通用命令行界面， [and many other databases](https://github.com/xo/usql#database-support) 包括NoSQL和非关系数据库！
 
 ### dbcli
-- [athenacli](https://github.com/dbcli/athenacli) -AthenaCLI是用于AWS Athena服务的CLI工具，可以执行自动完成和语法突出显示.
+- [athenacli](https://github.com/dbcli/athenacli) -AthenaCLI是适用于AWS Athena服务的CLI工具，可以执行自动完成和语法突出显示.
 - [litecli](https://github.com/dbcli/litecli) -具有自动完成功能和语法突出显示功能的SQLite数据库CLI.
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
 - [mycli](https://github.com/dbcli/mycli) -具有自动完成功能和语法突出显示功能的MySQL终端客户端.
@@ -90,7 +90,7 @@
 
 
 ## Modelers
-- [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) -功能强大且具有成本效益的数据库设计工具，可帮助您构建高质量的概念，逻辑和物理数据模型.
+- [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) -一个功能强大且具有成本效益的数据库设计工具，可帮助您构建高质量的概念，逻辑和物理数据模型.
 - [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) -Oracle SQL Developer数据建模器是一个免费的图形工具，可提高生产率并简化数据建模任务.
 - [pgmodeler](https://github.com/pgmodeler/pgmodeler) -专为PostgreSQL设计的数据建模工具.
 
@@ -102,10 +102,11 @@
 - [liquibase](https://github.com/liquibase/liquibase) -独立于数据库的库，用于跟踪，管理和应用数据库架构更改.
 - [migra](https://github.com/djrobstep/migra) -与diff类似，但适用于PostgreSQL模式.
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate)  -专为postgres构建的Node.js数据库迁移管理.  （但也可以用于其他符合SQL标准的DB，例如CockroachDB.）
+- [Prisma Migrate](https://github.com/prisma/migrate) -声明性数据库架构迁移工具，该工具使用声明性数据建模语法来描述数据库架构.
 - [Pyrseas](https://github.com/perseas/Pyrseas) -提供实用程序将PostgreSQL数据库模式描述为YAML.
-- [SchemaHero](https://github.com/schemahero/schemahero) -Kubernetes运算符，用于声明式数据库架构管理（数据库架构的gitop）.
+- [SchemaHero](https://github.com/schemahero/schemahero) -Kubernetes运算符，用于声明式数据库架构管理（用于数据库架构的gitop）.
 - [Sqitch](https://github.com/sqitchers/sqitch) -敏感的数据库本地变更管理，用于无框架开发和可靠部署.
-- [yuniql](https://github.com/rdagumampan/yuniql) -另一个仅使用本机.NET Core 3.0+制作并有望更好的架构版本控制和迁移工具.
+- [yuniql](https://github.com/rdagumampan/yuniql) -另一个仅使用本机.NET Core 3.0+制作的架构版本控制和迁移工具，希望更好.
 
 ## Code generation tools
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) -从表数据推断SQL DDL（数据定义语言）.
@@ -114,15 +115,16 @@
 
 ## Wrappers
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) -用于移动，Web和IoT应用程序的开源REST API后端.
+- [FBSQL Frontend Backend SQL](https://github.com/fbsql/fbsql) -在HTML中处理（安全）您的后端数据库.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) -具有细粒度访问控制的Postgres上快速，即时的实时GraphQL API刷新数据库事件.
 - [jl-sql](https://github.com/avz/jl-sql) -JSON和CSV流的SQL.
 - [mysql_fdw](https://github.com/EnterpriseDB/mysql_fdw) -MySQL的PostgreSQL外部数据包装器.
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) -ORDS是一个中间层Java应用程序，它将HTTP（S）动词（GET，POST，PUT，DELETE等）映射到数据库事务，并返回使用JSON格式化的任何结果.
 - [Prisma](https://github.com/prismagraphql/prisma) -Prisma将您的数据库转换为实时GraphQL API.
-- [PostgREST](https://github.com/PostgREST/postgrest) -适用于任何Postgres数据库的REST API.
+- [PostgREST](https://github.com/PostgREST/postgrest) -任何Postgres数据库的REST API.
 - [prest](https://github.com/prest/prest) -一种从Go编写的任何数据库中提供RESTful API的方法.
 - [restSQL](https://github.com/restsql/restsql) -具有Java和HTTP API的SQL生成器，使用具有XML或JSON序列化的简单RESTful HTTP API.
-- [resquel](https://github.com/formio/resquel) -轻松地将您的SQL数据库转换为REST API.
+- [resquel](https://github.com/formio/resquel) -轻松将您的SQL数据库转换为REST API.
 - [sandman2](https://github.com/jeffknupp/sandman2) -自动为您的旧数据库生成RESTful API服务.
 - [sql-boot](https://github.com/CrocInc/sql-boot) -用于SQL查询的高级REST和UI包装器.
 
@@ -136,17 +138,17 @@
 - [Datasette](https://github.com/simonw/datasette) -用于探索和发布数据的工具.
 - [dtle](https://github.com/actiontech/dtle) -适用于MySQL的分布式数据传输服务.
 - [pgsync](https://github.com/ankane/pgsync) -在数据库之间同步Postgres数据.
-- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) -用Python 3编写的MySQL到PostgreSQL副本系统.系统使用mysql-replication库从MySQL中提取行图像，这些图像以JSONB的形式存储在PostgreSQL中.
+- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) -用Python 3编写的MySQL到PostgreSQL复制系统.系统使用mysql-replication库从MySQL中提取行图像，这些图像以JSONB的形式存储在PostgreSQL中.
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) -使用Postgres逻辑解码功能，至少一次通过Websocket流式传输Postgres更改的Golang Web服务器.
 - [repmgr](https://github.com/2ndQuadrant/repmgr) -PostgreSQL最流行的复制管理器.
 
 
 ## Scripts
-- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) -我们的PostgreSQL专家团队创建了一些有用的小脚本，用于数据库分析和管理.
-- [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) -确保PostgreSQL索引和表中统计膨胀的查询.
-- [pgWikiDont](https://gitlab.com/depesz/pgWikiDont)  -SQL测试，检查您的数据库是否遵循以下规则 <https://wiki.postgresql.org/wiki/Don't_Do_This>  .
+- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) -我们的PostgreSQL专家小组创建了一些有用的小脚本，用于数据库分析和管理.
+- [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) -查询以确保PostgreSQL的索引和表中的统计膨胀.
+- [pgWikiDont](https://gitlab.com/depesz/pgWikiDont)  -SQL测试，检查您的数据库是否遵循以下规则<https://wiki.postgresql.org/wiki/Don't_Do_This> .
 - [pg-utils](https://github.com/dataegret/pg-utils) -有用的PostgreSQL实用程序.
-- [Postgres cheat sheet](https://postgrescheatsheet.com)  -有用的SQL脚本和命令 <timescale.com>  .
+- [Postgres cheat sheet](https://postgrescheatsheet.com)  -有用的SQL脚本和命令<timescale.com> .
 - [postgres_dba](https://github.com/NikolayS/postgres_dba) -缺少适用于Postgres DBA和所有工程师的有用工具集.
 - [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) -有用的PostgreSQL查询和命令.
 - [TPT](https://github.com/tanelpoder/tpt-oracle) -这些sqlplus脚本用于Oracle数据库性能优化和故障排除.
@@ -156,10 +158,10 @@
 - [ASH Viewer](https://github.com/akardapolov/ASH-Viewer) -提供Oracle和PostgreSQL DB中活动会话历史记录数据的图形视图.
 - [Monyog](https://www.webyog.com/product/monyog) -无代理且经济高效的MySQL监控工具.
 - [mssql-monitoring](https://github.com/microsoft/mssql-monitoring) -使用收集的InfluxDB和Grafana监视Linux上的SQL Server性能.
-- [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) -安全，简单，无代理的远程服务器监视工具，其中包含强大的功能，可以使您的监视尽可能有效.
+- [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) -安全，简单且无代理的远程服务器监视工具，其中包含强大的功能，可以使您的监视尽可能有效.
 - [Percona Monitoring and Management](https://github.com/percona/pmm) -用于管理和监视MySQL和MongoDB性能的开源平台.
 - [pganalyze collector](https://github.com/pganalyze/collector) -Pganalyze统计信息收集器，用于收集PostgreSQL指标和日志数据.
-- [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) -新一代诊断工具，可让用户对Postgres数据库的运行状况进行深入分析.
+- [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) -新一代诊断工具，允许用户对Postgres数据库的运行状况进行深入分析.
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) -用于PostgreSQL服务器指标的Prometheus导出器.
 - [pgDash](https://pgdash.io) -测量和跟踪PostgreSQL数据库的各个方面.
 - [PgHero](https://github.com/ankane/pghero) -Postgres的性能仪表板-运行状况检查，建议的索引等.
@@ -171,7 +173,7 @@
 
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) -PostgreSQL的监视代理.
-- [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) -Orabbix是一个插件，旨在与Zabbix Enterprise Monitor配合使用，以提供针对Oracle数据库的多层监视，性能和可用性报告以及度量，以及服务器性能指标.
+- [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) -Orabbix是一个旨在与Zabbix Enterprise Monitor配合使用的插件，可提供针对Oracle数据库的多层监视，性能和可用性报告以及度量以及服务器性能指标.
 - [pg_monz](https://github.com/pg-monz/pg_monz) -这是PostgreSQL数据库的Zabbix监视模板.
 - [Pyora](https://github.com/bicofino/Pyora) -用于监视Oracle数据库的Python脚本.
 - [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) -ZabbixDBA是快速，灵活且不断开发的插件，用于监视您的RDBMS.
@@ -183,7 +185,7 @@
 
 
 ### Data generator
-- [Databene Benerator](https://sourceforge.net/projects/benerator) -它是一个框架，用于为被测系统生成现实，有效的大容量测试数据（避免使用Datalite反模式）.
+- [Databene Benerator](https://sourceforge.net/projects/benerator) -这是一个框架，用于为被测系统生成现实，有效的大容量测试数据（避免使用Datalite反模式）.
 - [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) -强大的GUI工具，可创建大量真实的测试数据.
 - [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) -小型但功能强大的GUI工具，用于使用大量实际测试数据填充Oracle模式.
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) -强大的GUI工具，可为数据库快速生成有意义的测试数据.
@@ -202,14 +204,14 @@
 - [stolon](https://github.com/sorintlab/stolon) -用于PostgreSQL高可用性的云原生PostgreSQL管理器.
 - [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) -Postgres扩展和服务，用于自动故障转移和高可用性.
 - [pglookout](https://github.com/aiven/pglookout) -PostgreSQL复制监视和故障转移守护程序.
-- [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) -基于行业参考Pacemaker和Corosync的Postgres的高可用性.
-- [postgresql_cluster](https://github.com/vitabaks/postgresql_cluster)  -PostgreSQL高可用性群集（基于“ Patroni”和“ DCS（etcd）”）.  使用Ansible自动化部署.
+- [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) -Postgres的高可用性，基于行业参考Pacemaker和Corosync.
+- [postgresql_cluster](https://github.com/vitabaks/postgresql_cluster)  -PostgreSQL高可用性群集（基于“ Patroni”和“ DCS（etcd）”）. 使用Ansible自动化部署.
 - [Vitess](https://github.com/vitessio/vitess) -用于通过通用分片水平扩展MySQL的数据库集群系统.
 
 
 ## Kubernetes
 - [KubeDB](https://kubedb.com) -使在Kubernetes上轻松运行生产级数据库成为可能.
-- [Postgres operator](https://github.com/zalando/postgres-operator) -Postgres Operator可在Patroni支持的Kubernetes（K8s）上启用高可用性PostgreSQL集群.
+- [Postgres operator](https://github.com/zalando/postgres-operator) -Postgres Operator在Patroni支持的Kubernetes（K8s）上启用高可用性PostgreSQL集群.
 - [Spilo](https://github.com/zalando/spilo) -具有Docker的HA PostgreSQL集群.
 - [StackGres](https://gitlab.com/ongresinc/stackgres) -Kubernetes上的企业级全栈PostgreSQL.
 
@@ -243,7 +245,7 @@
 
 
 ## Security
-- [Acra](https://github.com/cossacklabs/acra)  -数据库安全套件.  具有字段级加密的数据库代理，搜索加密数据，防止SQL注入，入侵检测，蜜罐.  支持客户端和代理（“透明”）加密.  SQL，NoSQL.
+- [Acra](https://github.com/cossacklabs/acra)  -数据库安全套件. 具有字段级加密的数据库代理，搜索加密数据，防止SQL注入，入侵检测，蜜罐. 支持客户端和代理（“透明”）加密.  SQL，NoSQL.
 
 
 ## Code formatters
@@ -251,4 +253,4 @@
 
 
 ## Contributing
- -我们欢迎您的贡献！  请阅读 [contribution guidelines](https://github.com/mgramin/awesome-db-tools/blob/master/contributing.md) 第一.
+ -我们欢迎您的贡献！ 请阅读 [contribution guidelines](https://github.com/mgramin/awesome-db-tools/blob/master/contributing.md) 第一.

@@ -4,7 +4,7 @@
 
 精选的优秀公司列表，这些公司免费向开源和公共项目提供其工具和服务.
 
-**注意：尽管有许多公司拥有出色的免费套餐（例如Slack），但此列表特别关注那些通过其他产品对开放源代码社区做出公开承诺的组织.**
+**注意：尽管有许多公司拥有免费的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源码社区做出公开承诺的组织.**
 
 
 
@@ -34,10 +34,10 @@
 
 ## Continuous Integration
 
-- [AppVeyor](https://www.appveyor.com/) -适用于Windows开发人员的CI / CD.
-- [Bitrise](https://www.bitrise.io/) -托管的CI / CD，适用于Android和iOS，公共项目免费.
+- [AppVeyor](https://www.appveyor.com/) - CI/CD for Windows developers.
+- [Bitrise](https://www.bitrise.io/) -托管的CI / CD（适用于Android和iOS），公共项目免费.
 - [CircleCI](https://circleci.com/) -基于Docker的构建，支持自定义工作流.
-- [Codefresh](https://codefresh.io/) -Docker原生CI / CD.
+- [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
 - [Codeship](https://codeship.com/) -持续集成，交付和部署.
 - [continuousphp](https://continuousphp.com/) -适用于PHP应用程序的CI / CD.
 - [DeployHQ](https://www.deployhq.com/) `requires-approval`-部署自动化.
@@ -48,8 +48,7 @@
 
 ## Dependency Management
 
-- [Dependabot](https://dependabot.com/) -自动化的Ruby，Python，JavaScript和PHP依赖关系更新.
-- [gemnasium](https://gemnasium.com/) -自动化的依赖管理.
+- [Dependabot](https://dependabot.com/) -Ruby，Python，JavaScript和PHP的依赖关系更新.
 - [Greenkeeper](https://greenkeeper.io/) -NPM软件包的自动化依赖管理（在GitHub上）.
 - [pyup.io](https://pyup.io/) -Python依赖管理.
 - [Snyk](https://snyk.io/) -持续的依赖项漏洞评估.
@@ -80,7 +79,7 @@
 
 ## Monitoring
 
-- [Check my Website](https://checkmy.ws/) `requires-approval`-自动化网站监控.
+- [Check my Website](https://checkmy.ws/) `requires-approval`-自动化的网站监控.
 - [DNS Spy](https://dnsspy.io/) `requires-approval`-DNS监视.
 - [Healthchecks.io](https://healthchecks.io/) `requires-approval`-Cron作业监控.
 
@@ -104,14 +103,14 @@
 
 - [Algolia](https://www.algolia.com) -`requires-approval`搜索为服务API.
 - [Apiary](https://apiary.io/) `requires-approval`-API设计，开发和文档平台.
-- [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval`-团队（Jira，Confluence，Bamboo，HipChat）的生产力工具.
+- [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) “需要批准”-团队（Jira，Confluence，Bamboo，HipChat）的生产力工具.
 - [Auth0](https://auth0.com/) `requires-approval`-基于SSO和基于令牌的身份验证.
 - [BackHub](https://backhub.co/) -自动化的GitHub存储库备份.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval`-跨浏览器测试工具.
 - [Cloud9](https://c9.io/) -基于云的开发环境.
 - [Codota](https://www.codota.com/) -AI对编程助手.
 - [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval`-开源项目的SSL证书.
-- [Helpmonks](https://helpmonks.com/) `requires-approval`-协作小组电子邮件收件箱.
+- [Helpmonks](https://helpmonks.com/) `requires-approval`-协作团队的电子邮件收件箱.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval``non-commercial`-专门创建智能开发工具的软件供应商.
 - [Libraries.io](https://libraries.io/) -开源发现服务.
 - [Mailtrap](https://mailtrap.io/) `requires-approval`-伪造的SMTP测试服务器.
@@ -130,8 +129,8 @@
 
 ### `requires-approval`
 
- 尽管许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但仍有其他公司需要更多验证.  这些公司都标有“ requires-approval”标签，表明需要利用其开源优势的申请流程.
+尽管许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但还有一些公司需要更多验证. 这些公司都标有“需要批准”标签，表明需要申请程序才能充分利用其开源利益.
 
 ### `non-commercial`
 
- 一些公司将其产品提供给开源，但仅提供给非商业项目.  这些公司都标有“非商业”标签.
+一些公司将其产品提供给开源，但仅提供给非商业项目. 这些公司都标有“非商业”标签.

@@ -24,7 +24,7 @@
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text)：自然语言生成环境（后端：Clojure，前端：JS）
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
-  - [mal](https://github.com/kanaka/mal/tree/master/clojure)
+  - [mal](https://github.com/kanaka/mal/tree/master/impls/clojure)
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
 
@@ -71,7 +71,7 @@
 
 ## Build Automation and Package management
 
-*用于项目构建自动化和包/依赖性管理的库.*
+*用于项目构建自动化和包/依赖管理的库.*
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
@@ -82,13 +82,13 @@
 
 ## Version Control Management
 
-*用于与VCS软件交互的代码实用程序*
+*用于与VCS软件交互的代码实用工具*
 
   * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
 
 ## Date and Time
 
-*用于处理日期和时间的库.
+*用于处理日期和时间的库.*
 
   * [clj-time](https://github.com/clj-time/clj-time)
   * [clojure.java-time](https://github.com/dm3/clojure.java-time) -Java 8日期时间API
@@ -122,6 +122,7 @@
   * [Datomic](http://www.datomic.com/)
   * [Datahike](https://github.com/replikativ/datahike)
   * [Datascript](https://github.com/tonsky/datascript)
+  * [Datalevin](https://github.com/juji-io/datalevin)
   * [Cassandra](https://github.com/mpenet/alia)
   * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
@@ -183,6 +184,7 @@
   * [caesium](https://github.com/lvh/caesium) （libsodium绑定）
   * [Friend](https://github.com/cemerick/friend)
   * [bolt](https://github.com/juxt/bolt)
+  * [secrets.clj](https://github.com/lk-geimfari/secrets.clj)
 
 ## RESTful API
 
@@ -335,7 +337,7 @@
   * [Instaparse](https://github.com/Engelberg/instaparse)
   * [kern](https://github.com/blancas/kern)
   * [duckling](https://github.com/wit-ai/duckling)
-  * [buran](https://github.com/alekseysotnikov/buran) -RSS / Atom提要的消费者和生产者
+  * [buran](https://github.com/alekseysotnikov/buran) -RSS / Atom feed的消费者和生产者
   
 ## Exceptions and Error Handling
   * [Ex](https://github.com/mpenet/ex)
@@ -369,7 +371,8 @@
   * [vim-iced (Vim)](https://github.com/liquidz/vim-iced)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
-  * [Bracket Pair Colorizer (VSCode)](https://github.com/kristoft/awesome-clojure.git)
+  * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+  * [clojureVSCode (VSCode)](https://github.com/avli/clojureVSCode)
 
 ## Documentation
 
@@ -452,7 +455,7 @@
 
 ### YouTube
 
-  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure的Light Table，Datomic和Game开发的介绍
+  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure进行的Light Table，Datomic和Game开发的介绍
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure进行函数式编程和TDD的介绍
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一项功能
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)

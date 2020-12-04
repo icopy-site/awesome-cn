@@ -8,7 +8,7 @@
 
  XML兴衰.  JSON只是泛滥成灾.  YAML是一个中毒的圣杯.  ** CSV的优势将胜过所有人.**
 
-当最后的蟑螂呼吸到最后一口气时，她的垂死之举将是在CSV文件中刮擦其死亡日期以供后代使用.
+当最后的蟑螂呼出最后一口气时，她的垂死之举将是在CSV文件中刮擦其去世日期以备后代之用.
 
 
 
@@ -19,7 +19,7 @@
 
 ## Tools
 
-- [NimbleText/Live](https://NimbleText.com/Live)  -使用模式来操作CSV；  世界上最简单的代码生成器*.
+- [NimbleText/Live](https://NimbleText.com/Live)  -使用模式来操作CSV； 世界上最简单的代码生成器*.
 - [PapaParse](https://www.papaparse.com) -强大的浏览器内CSV解析器.
 - [d3-dsv](https://github.com/d3/d3-dsv) -d3.js解析器和格式化程序模块，用于分隔符分隔的值.
 - [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) -包含csvsql / csvgrep / csvstat等的CSV实用程序.
@@ -40,8 +40,8 @@
 - [C#: kbCSV](https://github.com/kentcb/KBCsv/blob/master/README.md) -高效，易于使用的.NET CSV解析和编写库.
 - [csvprintf](https://github.com/archiecobbs/csvprintf) -UNIX命令行实用程序，用于基于CSV文件解析和格式化输出.
 - [Mockaroo](https://www.mockaroo.com/) -CSV / JSON / SQL / Excel的随机数据生成器.
-- [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor)  -处理大文件，做一些神奇的事情.  用于永恒格式的永恒编辑器.
-- [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors)  -收集用于CSV / TSV语法突出显示的文本编辑器插件.  可以用来 [Vim](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) 和其他编辑.
+- [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor)  -处理大文件，做一些神奇的事情. 用于永恒格式的永恒编辑器.
+- [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors)  -收集用于CSV / TSV语法突出显示的文本编辑器插件. 可以用来 [Vim](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) 和其他编辑.
 - [Mighty Merge](https://mightymerge.io/) -加入/联合csv文件.
 
 ### Repair or Validate CSV
@@ -72,7 +72,7 @@
 ### CSV <-> JSON
 
 - [Agnes](http://www.secretgeek.net/agnes/twoWay.html) -两种方式将Csv转换为Json **.
-- [csv2json](https://www.csvjson.com/csv2json) -在线工具，可将CSV或TSV格式的数据转换为JSON和 [vice versa](https://www.csvjson.com/json2csv).
+- [csv2json](https://www.csvjson.com/csv2json) -在线工具，可将CSV或TSV格式的数据转换为JSON， [vice versa](https://www.csvjson.com/json2csv).
 - [csv-to-json](https://mango-is.com/tools/csv-to-json/) -简单，隐私友好且离线优先的在线csv至json转换器.
 
 
@@ -93,7 +93,7 @@
 ## Data
 
 - [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) -18789+ CSV数据集.
-- [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) -2715个以上CSV数据集.
+- [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) -2715个CSV数据集.
 - [Reference data in csv](https://datahub.io/collections/reference-data) -CSV和JSON格式的易于使用的参考数据.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) -以主题为中心的公共领域中高质量开放数据集的列表.
 
@@ -104,14 +104,14 @@
 
 ## Standards
 
- &gt;关于标准的妙处在于，有太多可供选择的标准. <br />  —（可能）格蕾丝·霍珀（Grace Hopper）.
+ &gt;关于标准的妙处在于，有太多可供选择的标准.<br />  —（可能）格蕾丝·霍珀（Grace Hopper）.
 
-- [RFC 4180](https://tools.ietf.org/html/rfc4180) -“ *逗号分隔值（CSV）文件的通用格式和MIME类型*”.
+- [RFC 4180](https://tools.ietf.org/html/rfc4180) ([html version](http://www.faqs.org/rfcs/rfc4180.html)）-“ *逗号分隔值（CSV）文件的通用格式和MIME类型*”.
   - [Definition of the CSV Format](https://tools.ietf.org/html/rfc4180#section-2)
   - [MIME Type Registration of text/csv](https://tools.ietf.org/html/rfc4180#section-3)
 - [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
 - [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html) -用于定义和验证CSV数据的语言.
-- [csv,specs](https://github.com/csvspecs)  -逗号分隔值（CSV）格式规范（和测试），包括  CSV v1.0，CSV v1.1，CSV严格，CSV &lt;3个数字，CSV &lt;3 JSON，CSV &lt;3 YAML.
+- [csv,specs](https://github.com/csvspecs)  -逗号分隔值（CSV）格式规范（和测试），包括 CSV v1.0，CSV v1.1，CSV严格，CSV &lt;3个数字，CSV &lt;3 JSON，CSV &lt;3 YAML.
 - [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - 一种 [Data Resource](http://frictionlessdata.io/specs/data-resource/) 专门用于描述表格数据，例如CSV文件或电子表格
 - [CSVY](https://csvy.org/) -向CSV文件添加YAML标头以描述其格式的标准
 
@@ -134,11 +134,11 @@ See [Code of Conduct](https://github.com/secretGeek/awesomeCSV/blob/master/code-
 
 ## Footnotes
 
- `*` <span id='footnote1' ></span>  我是的作者 [NimbleText](https://NimbleText.com/Live) .  当然，我把它放在第一位.  如果我不亲自对其进行评分，我将不会花费太多时间进行改进.
+ `*`<span id='footnote1' ></span> 我是的作者 [NimbleText](https://NimbleText.com/Live) . 当然，我把它放在第一位. 如果我个人不评价它，我将不会花费太多时间来进行改进.
 
- `**` <span id='footnote2' ></span>  我写了`agnes`，但并没有真正认可它供其他人使用（因此尚未将源代码迁移到GitHub）.  它很慢且没有流媒体.  我会去`papa-parse`.  从好的方面来说，“ agnes”拥有比大多数工具更全面的测试套件和更简单的api.
+ `**`<span id='footnote2' ></span> 我写了`agnes`，但并不真正认可它供其他人使用（因此尚未将源代码迁移到GitHub）. 它很慢且没有流媒体. 我会去`papa-parse`. 从好的方面来说，“ agnes”拥有比大多数工具更全面的测试套件和更简单的api.
 
- *** <span id='footnote3' ></span>  我也是.
+ ***<span id='footnote3' ></span> 我也是.
 
 ## License
 

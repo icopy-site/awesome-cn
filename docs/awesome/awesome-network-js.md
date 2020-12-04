@@ -8,7 +8,7 @@
 
 &gt;至少基于CLI界面.
 
-* [airpaste](https://github.com/mafintosh/airpaste) – 1-1网络管道，可使用Mdn自动发现其他对等节点.
+* [airpaste](https://github.com/mafintosh/airpaste) – 1-1网络管道，该网络管道使用mdns自动发现其他对等方.
 * [blecat](https://github.com/mafintosh/blecat) – 1-1蓝牙低功耗管道.
 * [deejay](https://github.com/mafintosh/deejay) –向同一网络上的所有人广播的音乐播放器.
 * [dhtkv](https://github.com/maxogden/dhtkv) – CLI，用于在bittorrent主线DHT中存储任意键/值数据.
@@ -24,9 +24,9 @@
 * [signalhub](https://github.com/mafintosh/signalhub) –简单的信令服务器，可用于与webrtc或其他有趣的东西协调握手.
 * [torrent-mount](https://github.com/mafintosh/torrent-mount) –使用torrent-stream和fuse实时地将torrent（或磁力链接）安装为文件系统.
 * [webcat](https://github.com/mafintosh/webcat) –使用WebRTC在网络上进行管道传输.
-* [websocketd](https://github.com/joewalnes/websocketd) –将使用stdin / stdout的所有程序转换为WebSocket服务器.
+* [websocketd](https://github.com/joewalnes/websocketd) –将使用stdin / stdout的任何程序转换为WebSocket服务器.
 * [webtorrent](https://github.com/webtorrent/webtorrent) –通过WebRTC的BitTorrent.
-* [wifi-triangulate](https://github.com/watson/wifi-triangulate) –使用wifi接入点查找您在地球上的当前位置.
+* [wifi-triangulate](https://github.com/watson/wifi-triangulate) –使用wifi接入点查找您当前在地球上的位置.
 
 ## Modules
 
@@ -34,14 +34,15 @@
 
 * [airplay-server](https://github.com/watson/airplay-server) –低级别的AirPlay服务器.
 * [castnow](https://github.com/xat/chromecast-player) –简单的chromecast播放器.
-* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) –使用的网络群 [discovery-channel](https://github.com/maxogden/discovery-channel)  寻找同行.  还要检查 [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm).
-* [dns-packet](https://github.com/mafintosh/dns-packet)  –兼容抽象编码的模块，用于对DNS数据包进行编码/解码.  另见 [dns-socket](https://github.com/mafintosh/dns-socket).
+* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) –使用的网络群 [discovery-channel](https://github.com/maxogden/discovery-channel) 寻找同行. 还要检查 [webrtc-swarm](https://github.com/mafintosh/webrtc-swarm).
+* [dns-packet](https://github.com/mafintosh/dns-packet)  –兼容抽象编码的模块，用于对DNS数据包进行编码/解码. 另见 [dns-socket](https://github.com/mafintosh/dns-socket).
 * [etcdjs](https://github.com/mafintosh/etcdjs) –使用Javascript编写的低级etcd v2客户端，具有故障转移支持.
 * [geocode-wifi](https://github.com/watson/geocode-wifi) –根据您的wifi接入点获取您的纬度/经度.
 * [hash-to-port](https://github.com/mafintosh/hash-to-port) –将值散列到有效端口.
 * [hyperdb](https://github.com/mafintosh/hyperdb) –分布式可伸缩数据库.
 * [ip-packet](https://github.com/mafintosh/ip-packet) –编码/解码原始IP数据包.
 * [magnet-uri](https://github.com/webtorrent/magnet-uri) –解析磁性URI并返回键/值的对象.
+* [mutex-server](https://github.com/samchon/mutex-server) -网络级别中的关键部分控制器，例如互斥锁和信号灯.
 * [network-address](https://github.com/mafintosh/network-address) –获取计算机的本地网络地址.
 * [network-simulator](https://github.com/substack/network-simulator) –模拟低级计算机网络.
 * [rtsp-stream](https://github.com/watson/rtsp-stream) -用于节点的与传输无关的RTSP串行多路复用器模块.
@@ -50,13 +51,13 @@
 * [torrent-discovery](https://github.com/webtorrent/torrent-discovery) –发现BitTorrent和WebTorrent同行.
 * [torrent-stream](https://github.com/mafintosh/torrent-stream) – peerflix使用的低级流洪流引擎.
 * [udp-packet](https://github.com/substack/udp-packet) –编码/解码原始udp数据包.
-* [rpc-websockets](https://github.com/elpheria/rpc-websockets) 通过Node.js和JavaScript的WebSockets实现JSON-RPC 2.0.
+* [rpc-websockets](https://github.com/elpheria/rpc-websockets) -通过WebSockets用于Node.js和JavaScript的JSON-RPC 2.0实现.
 
 ## Protocols
 
-&gt;使用纯JavaScript实施协议规范.
+&gt;使用纯JavaScript实现协议规范.
 
-* [airswarm](https://github.com/mafintosh/airswarm) –使用多播dns自动发现网络上其他对等节点的网络群.
+* [airswarm](https://github.com/mafintosh/airswarm) –使用多播dns自动发现网络上其他对等点的网络群.
 * [bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) – BitTorrent DHT协议实施.
 * [bittorrent-protocol](https://github.com/webtorrent/bittorrent-protocol) – BitTorrent对等有线协议实现.
 * [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) – BitTorrent跟踪器（客户端和服务器）实施
@@ -67,7 +68,7 @@
 * [hypercore](https://github.com/mafintosh/hypercore) –一个p2p网络，用于分发和复制二进制数据的静态提要.
 * [ipfs](https://github.com/ipfs/js-ipfs-api) –星际文件系统，一种新的对等超媒体协议.
 * [k-bucket](https://github.com/tristanls/k-bucket) – Kademlia DHT K-bucket实现为二叉树.
-* [k-rpc](https://github.com/mafintosh/k-rpc)  –使用BitTorrent DHT实施k-rpc协议.  另见 [k-rpc-socket](https://github.com/mafintosh/k-rpc-socket).
+* [k-rpc](https://github.com/mafintosh/k-rpc)  –使用BitTorrent DHT实施k-rpc协议. 另见 [k-rpc-socket](https://github.com/mafintosh/k-rpc-socket).
 * [mdns](https://github.com/agnat/node_mdns) – mdns / zeroconf / bonjour服务发现.
 * [multicast-dns](https://github.com/mafintosh/multicast-dns) –低级多播dns实现.
 * [peervision](https://github.com/mafintosh/peervision) –实时p2p流协议.

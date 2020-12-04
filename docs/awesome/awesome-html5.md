@@ -1,14 +1,14 @@
 <div class="github-widget" data-repo="diegocard/awesome-html5"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-非常棒的HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
+很棒的HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
 =============
 
- 精选HTML5资源的精选列表.  灵感来自 [awesome-php](https://github.com/ziadoz/awesome-php) 和 [awesome-python](https://github.com/vinta/awesome-python)
+精选的HTML5资源精选列表. 受启发 [awesome-php](https://github.com/ziadoz/awesome-php) 和 [awesome-python](https://github.com/vinta/awesome-python)
 
 
 ## Articles and standards
 
-* [HTML 5.3](https://w3c.github.io/html/) - 当前的HTML5规范
+* [HTML 5.3](https://w3c.github.io/html/) -当前的HTML5规范
 * [Progressive enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
 * [The extensible web manifesto](https://extensiblewebmanifesto.org/)
 * [Differences between HTML5 and HTML4 from W3C](https://www.w3.org/TR/html5-diff/)
@@ -86,6 +86,7 @@
 ### Forms
 
 * [Changes to forms in HTML5 from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+* [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
 ### Details
 
@@ -245,7 +246,7 @@
 * [Apache Cordova tutorial](http://ccoenraets.github.io/cordova-tutorial/)
 * [PhoneGap from Scratch](https://code.tutsplus.com/tutorials/phonegap-from-scratch-introduction--mobile-9171)
 * [Best practices for mobile web apps](https://www.html5rocks.com/en/tutorials/speed/quick/)
-* [使用Kendo UI构建移动应用程序] https://docs.telerik.com/kendo-ui/controls/hybrid/introduction）
+* [Build mobile apps with Kendo UI](https://docs.telerik.com/kendo-ui/controls/hybrid/introduction)
 * [HTML5 Vibration API](https://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585)
 * [HTML5 Battery Status API](https://code.tutsplus.com/tutorials/html5-battery-status-api--mobile-22795)
 * [Privacy analysis of the HTML5 Battery Status API](https://eprint.iacr.org/2015/616.pdf)
@@ -257,6 +258,8 @@
 ### Web Sockets
 
 * [Introducing Websockets](https://www.html5rocks.com/en/tutorials/websockets/basics/)
+* [About HTML5 WebSocket](https://www.websocket.org/aboutwebsocket.html)
+* [HTML5 Web Sockets API](http://www.tutorialspark.com/html5/HTML5_WebSockets.php)
 
 ### WebRTC
 
@@ -300,13 +303,17 @@
 * [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 *开源JavaScript游戏引擎
   - [Pixi.js](https://github.com/pixijs/pixi.js)
-  - [phaser](https://github.com/photonstorm/phaser)
+  - [Phaser](https://github.com/photonstorm/phaser)
   - [MelonJS](https://github.com/melonjs/melonJS)
-  - [kiwi.js](https://github.com/gamelab/kiwi.js)
+  - [Kiwi.js](https://github.com/gamelab/kiwi.js)
   - [Crafty](https://github.com/craftyjs/Crafty)
   - [PhysicsJS](https://github.com/wellcaffeinated/PhysicsJS)
   - [Stage.js](https://github.com/shakiba/stage.js)
-  - [cocos2d](https://github.com/cocos2d/cocos2d-html5)
+  - [Cocos2d](https://github.com/cocos2d/cocos2d-html5)
+
+## Bootcamp
+*[Learn coding for free online](https://www.freecodecamp.org/)
+*[Free online cources](https://www.khanacademy.org/)
 
 ## Videos and Keynotes
 
@@ -320,11 +327,12 @@
 ### Websites
 
 * [HTML5 Rocks](https://www.html5rocks.com/en/) （新闻，教程和更新）
-* [HTML5 Gallery](http://html5gallery.com/) （展示使用HTML5标记和API的网站）
+* [HTML5 Gallery](http://html5gallery.com/) （使用HTML5标记和API的网站展示）
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [W3C Highlights form June 2014](http://www.w3.org/2014/06/w3c-highlights/)
-* [HTML5 Please](https://html5please.com/) （知道HTML5功能何时可以使用）
-* [Keen HTML](https://keenhtml.com) （学习HTML的免费互动课程）
+* [HTML5 Please](https://html5please.com/) （知道何时可以使用HTML5功能）
+* [Keen HTML](https://keenhtml.com) （免费的互动课程，学习HTML）
+* [A Complete Guide to the Table Element ](https://css-tricks.com/complete-guide-table-element/) 
 
 ### Weekly news
 
@@ -350,4 +358,4 @@
 
 ## Contributing
 
-欢迎您的贡献！
+永远欢迎您的贡献！

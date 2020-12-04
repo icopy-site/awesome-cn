@@ -4,22 +4,21 @@
  
  [![Gitter](https://badges.gitter.im/papers-we-love/community.svg)](https://gitter.im/papers-we-love/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
- **我们喜欢的纸张**（* PWL *）是一个围绕阅读，讨论和学习更多有关计算机科学论文的社区.  该存储库充当社区可以找到的一些最佳论文的目录，将散布在网络上的文档汇集在一起​​.  您也可以访问 [Papers We Love site](http://paperswelove.org/) 有关更多信息.
+ **我们喜欢的论文**（* PWL *）是一个围绕阅读，讨论和学习更多有关计算机科学论文的社区. 该存储库充当社区可以找到的一些最佳论文的目录，将散布在网络上的文档汇总在一起. 您也可以访问 [Papers We Love site](http://paperswelove.org/) 有关更多信息.
 
 由于 [licenses](https://github.com/papers-we-love/papers-we-love/blob/master/.github/CONTRIBUTING.md#respect-content-licenses) 我们不能总是自己托管文件（这样做时，您会在自述目录中的标题旁边看到一个：scroll：表情符号），但是我们可以提供指向其位置的链接.
 
- 如果您喜欢这些论文，也许可以停下来参加当地的分会，然后参加围绕它们的热烈讨论.  您还可以在我们的网站上讨论* PWL *事件，此存储库中的内容和/或与* PWL *相关的​​任何内容 [Slack](https://paperswelove.slack.com/messages/general/)，之后 [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
+如果您喜欢这些论文，也许可以停下来参加当地分会，然后参加围绕它们的热烈讨论. 您还可以在我们的网站上讨论* PWL *事件，此存储库中的内容和/或与* PWL *相关的​​任何内容 [Slack](https://paperswelove.slack.com/messages/general/)，之后 [signing-up](http://papersweloveslack.herokuapp.com/) to join it, or on our *#paperswelove* IRC channel on freenode. 
 
 ### Chapters
 
- 这是我们的官方章节.  让我们知道您是否有兴趣 [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 在你的城市！
+这是我们的官方章节. 让我们知道您是否有兴趣 [starting one](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 在你的城市！
 
 * [Amsterdam](http://www.meetup.com/papers-we-love-amsterdam/)
 * [Athens](https://www.meetup.com/Papers-We-Love-Athens)
 * [Atlanta](https://www.meetup.com/Papers-We-Love-Atlanta)
 * [Bangalore](http://www.meetup.com/Papers-we-love-Bangalore/)
 * [Barcelona](https://www.meetup.com/papers-we-love-bcn/)
-* [Beijing](https://www.meetup.com/Beijing-Technology-Meetup-Group/)
 * [Belfast](http://www.meetup.com/Papers-We-Love-Belfast/)
 * [Berlin](http://www.meetup.com/Papers-We-Love-Berlin/)
 * [Bhubaneswar](https://www.facebook.com/groups/pwlbbsr/)
@@ -68,12 +67,12 @@
 
 ## Info
 
-我们正在寻找与我们应添加的论文相关的请求请求，我们所拥有的论文的更好的组织结构和/或指向我们应指向的其他论文库的链接.
+我们正在寻找与我们应添加的论文相关的请求请求，可以更好地组织我们拥有的论文，和/或指向我们应指向的其他论文库的链接.
 
 ### Other Good Places to Find Papers
 
 * [2 Minute Papers](https://www.youtube.com/user/keeroyz)
-* [Bell System Technical Journal, 1922-1983](https://www.alcatel-lucent.com/bell-labs-journals)
+* [Bell System Technical Journal, 1922-1983](https://www.bell-labs.com/our-research/technical-journal/)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
 * [Facebook](https://research.fb.com/publications/)
 * [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) （选择一个子类别）
@@ -98,7 +97,7 @@
 
 ### How To Read a Paper
 
- 阅读论文与阅读博客或小说并不相同.  这里有一些方便的资源可以帮助您入门.
+阅读论文与阅读博客或小说并不相同. 这里有一些方便的资源可以帮助您入门.
 
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
@@ -118,7 +117,7 @@
 $ ./scripts/download.sh
 ```
 
-这将抓取markdown文件以获取指向PDF的链接，并将论文下载到其各自的目录中.
+这将抓取markdown文件以获取PDF链接，并将论文下载到其相应目录.
 
 See [README.md](https://github.com/papers-we-love/papers-we-love/blob/master/./scripts/README.md) 有关更多选项.
 
@@ -128,4 +127,4 @@ See [README.md](https://github.com/papers-we-love/papers-we-love/blob/master/./s
 
 ## Copyright
 
- “ Papers We Love”的名称和该组织的徽标均受版权保护，并由Papers We Love Ltd.拥有所有权，保留所有权利.  开始一章时，请复习 [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 并询问我们有关徽标的使用.
+ “ Papers We Love”的名称和该组织的徽标均受版权保护，并由Papers We Love Ltd.拥有所有权，保留所有权利. 开始一章时，请复习 [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) 并询问我们有关徽标的使用.

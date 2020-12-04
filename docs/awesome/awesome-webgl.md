@@ -9,8 +9,8 @@
 ## What is WebGL
 
 WebGL（Web图形库）是一个JavaScript API，用于在其中渲染交互式3D计算机图形和2D图形
- 任何不使用插件的兼容Web浏览器.  WebGL已完全集成到所有Web标准中
-的浏览器，使GPU可以加速使用物理，图像处理和效果作为网页画布的一部分.
+任何不使用插件的兼容Web浏览器.  WebGL已完全集成到所有Web标准中
+的浏览器，允许GPU加速使用物理，图像处理和效果作为网页画布的一部分.
 
 WebGL元素可以与其他HTML元素混合，也可以与页面或页面背景的其他部分混合.
 WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执行的着色器代码组成
@@ -30,12 +30,13 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 * [Context Loss & Preloading](https://medium.com/@mattdesl/non-intrusive-webgl-cebd176c281d#.gyc6h9mr5) -遇到可怕的上下文丢失时如何管理WebGL.
 * [WebGL Off the Main Thread](https://hacks.mozilla.org/2016/01/webgl-off-the-main-thread/) -如何在WebGL中使用Web Worker.
 * [Optimizing Scenes for Better WebGL Performance](https://www.soft8soft.com/docs/manual/en/introduction/Optimizing-WebGL-performance.html) -被证明可以很好地创建基于WebGL的交互的优化技术.
+* [First steps in WebGL](https://dev.to/aralroca/first-steps-in-webgl-385c) -通过绘制三角形了解WebGL是什么以及如何工作. 
 
 ### Blog Series
 
 &gt; WebGL主题博客系列
 
-* [Codeflow](http://codeflow.org/tags/webgl.html) -许多关于不同技巧和技术的博客.
+* [Codeflow](http://codeflow.org/tags/webgl.html) -有关不同技巧和技术的许多博客.
 * [Real-Time Rendering](http://www.realtimerendering.com/blog/tag/webgl/) -这是_Real-Time Rendering_的博客.
 * [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) -Mozilla的官方最佳做法集.
 * [WebGL Insights](http://webglinsights.blogspot.com/) -这是_WebGL Insights_的博客.
@@ -45,18 +46,18 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 
 &gt;关于WebGL的热门书籍
 
-* [Interactive Computer Graphics: A Top-Down Approach with WebGL](https://www.amazon.com/Interactive-Computer-Graphics-Top-Down-Approach/dp/0133574849) 由** Edward Angel **和** Dave Shreiner **编写-适用于计算机科学与工程专业的本科生，具有良好编程技能的其他学科的学生，以及对使用最新版本的计算机动画和图形感兴趣的专业人员WebGL.
+* [Interactive Computer Graphics: A Top-Down Approach with WebGL](https://www.amazon.com/Interactive-Computer-Graphics-Top-Down-Approach/dp/0133574849) 由** Edward Angel **和** Dave Shreiner **编写-适用于计算机科学和工程专业的本科生，具有良好编程技能的其他学科的学生，以及对使用最新版本的计算机动画和图形感兴趣的专业人员WebGL.
 * [Professional WebGL Programming](https://www.amazon.com/Professional-WebGL-Programming-Developing-Graphics/dp/1119968860) Andreas Anyuru着-关于使用WebGL开发硬件加速的3D图形所需的一切.
-* [Programming 3D Applications with HTML5 and WebGL](https://www.amazon.com/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966) 由** Tony Parisi **编写-使用HTML5和新兴的Web图形标准CSS3和WebGL等相关技术，为Web创建高性能，视觉上令人惊叹的3D应用程序.
+* [Programming 3D Applications with HTML5 and WebGL](https://www.amazon.com/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966) 作者：** Tony Parisi **-使用HTML5和新兴的Web图形标准CSS3和WebGL等相关技术，为Web创建高性能，视觉上令人惊叹的3D应用程序.
 * [WebGL Beginner's guide](https://www.amazon.com/WebGL-Beginners-Guide-Diego-Cantor/dp/184969172X) ** Diego Cantor **和** Brandon Jones **-对于希望通过WebGL投入3D Web开发的JavaScript开发人员.
 * [WebGL Hotshot](https://www.amazon.com/WebGL-Hotshot-Mitch-Williams-ebook/dp/B00KLAJ65Y) 由** Mitch Williams **撰写-适用于希望扩展您对3D图形概念的了解并扩展您现有技能的网页设计师.
-* [WebGL Insights](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) 由** Patrick Cozzi **撰写-通过汇集经验丰富的WebGL引擎和应用程序开发人员，GPU供应商，浏览器开发人员，研究人员和教育工作者的文稿，为中级和高级WebGL开发人员展示实际技术.
+* [WebGL Insights](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) 作者：** Patrick Cozzi **-通过汇集经验丰富的WebGL引擎和应用程序开发人员，GPU供应商，浏览器开发人员，研究人员和教育工作者的文稿，为中级和高级WebGL开发人员展示了实际技术.
   * [Book's Personal Site](http://www.webglinsights.com/)
 * [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920) 《 WebGL编程指南》将帮助您快速开始使用交互式WebGL 3D编程，即使您不具备HTML5，JavaScript，3D图形，数学或OpenGL的知识，也可以通过“ WebGL编程指南”快速入门.
 
 ### Bug Reporting
 
-&gt;报告错误可以长期帮助所有人
+> Reporting bugs helps everyone in long run
 
 * [Chrome Bug Report](https://bugs.chromium.org/p/chromium/issues/list) -Chrome相关的错误
 * [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) -与规格或一致性相关的错误
@@ -66,7 +67,7 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 
 &gt;在线GLSL编辑器
 >
-> NOTE: [WebGL must conform to The OpenGL ES Shading Language, Version 1.00](https://www.khronos.org/registry/webgl/specs/1.0.3/#4.3)
+&gt;注意： [WebGL must conform to The OpenGL ES Shading Language, Version 1.00](https://www.khronos.org/registry/webgl/specs/1.0.3/#4.3)
 > 
 > [Official Specs for GLSL Version 1.00](https://www.khronos.org/registry/OpenGL/specs/es/2.0/GLSL_ES_Specification_1.00.pdf)
 >
@@ -78,7 +79,7 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 * [Shader Toy](https://www.shadertoy.com) -最流行的片段着色器实时编辑器.
 * [ShaderFrog](https://shaderfrog.com/) -WebGL Shader编辑器和作曲家.
 * [SHDR Editor](http://shdr.bkcore.com) -实时GLSL着色器编辑器，查看器和验证器.
-* [ShaderExpo](https://anuraghazra.github.io/ShaderExpo/) -无依赖着色器编辑器，具有内联错误日志，自动完成，模型和纹理加载功能. 
+* [ShaderExpo](https://anuraghazra.github.io/ShaderExpo/) -无依赖着色器编辑器，具有内联错误日志，自动完成功能，模型和纹理加载功能. 
 
 ### References
 
@@ -99,25 +100,25 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 &gt; WebGL相关讲座
 
 * [List of Presentations](https://www.khronos.org/webgl/wiki/Presentations) -Khronos提出的与WebGL有关的各种演示文稿的列表.
-* [Next-Generation 3D Graphics on the Web](https://www.youtube.com/watch?v=K2JzIUIHIhc) -在里卡多·卡贝洛（MrDoob）的Google I / O 19上进行演讲.
+* [Next-Generation 3D Graphics on the Web](https://www.youtube.com/watch?v=K2JzIUIHIhc) -在Ricardo Cabello（MrDoob）的Google I / O 19上进行演讲.
 
 ### Tools/Debugging
 
 &gt;开发和调试WebGL的工具
 
 * [Khronos Dev Tools](https://github.com/KhronosGroup/WebGLDeveloperTools) -有用的WebGL开发人员工具，旨在用作ES6模块.
-* [Spector.js](https://spector.babylonjs.com/) -用于浏览和排除WebGL场景并对其进行故障排除的JavaScript框架.
+* [Spector.js](https://spector.babylonjs.com/) -用于浏览WebGL场景并对其进行故障排除的JavaScript框架.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) -受gDEBugger和PIX启发的工具，目的是简化高级WebGL应用程序的开发.
-* [WebGl Playground](http://jessevdk.github.io/webgl-play/)  -编辑器使您可以方便地同时处理JavaScript代码和GLSL顶点/片段着色器（如果有）.  一切都按照您的意愿正确组织，格式化和突出显示.
+* [WebGl Playground](http://jessevdk.github.io/webgl-play/)  -编辑器使您可以方便地同时处理JavaScript代码和GLSL顶点/片段着色器（如果有）. 一切都按照您的意愿正确组织，格式化和突出显示.
 * [WebGL Report](http://webglreport.com/?v=1) -查看浏览器支持WebGL的详细信息的方法.
 * [WebGL Support Stats](http://webglstats.com/) -交互式仪表板，显示了在不同浏览器和设备中对WebGL功能的支持.
 * [WebGL Texture Tester](http://toji.github.io/texture-tester/) -尝试加载WebGL支持的每种纹理格式之一，旨在快速显示您的浏览器/设备支持的格式.
-* [Web Tracing Framework](http://google.github.io/tracing-framework/index.html) -一组用于跟踪和研究复杂Web应用程序的库，工具和可视化工具.
+* [Web Tracing Framework](http://google.github.io/tracing-framework/index.html) -用于跟踪和调查复杂Web应用程序的一组库，工具和可视化工具.
 
 #### Chrome Specific Tools/Debugger
 
 * [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) -Chrome DevTools扩展程序可帮助您实时在浏览器中编辑着色器.
-* [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) -轻松浏览和解决WebGL和WebGL2场景.
+* [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) -轻松浏览WebGL和WebGL2场景并对其进行故障排除.
 * [Webgl Insight](https://github.com/3Dparallax/insight) -Chrome扩展WebGL调试工具包，提供多种功能.
 
 #### Firefox Specific Tools/Debugger
@@ -134,13 +135,13 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 * [Get Started Tutorial](https://www.khronos.org/webgl/wiki/Tutorial) -Khronos的教程如何启动和运行WebGL.
 * [Getting Started with WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL) -Mozilla Foundation WebGL入门指南.
 * [Learn WebGL](https://www.tutorialspoint.com/webgl/index.htm) -教程重点文章集，以使您熟悉WebGL术语.
-* [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) -_WebGL Up and Running_作者的教程.
+* [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) -_WebGL Up and Running_的作者提供的教程.
 * [Multitexturing using a Blendmap](http://chinedufn.com/webgl-multitexture-blend-map-tutorial/) -如何使用混合图对地形进行多重纹理化.
-* [Particle Effects via Billboards](http://chinedufn.com/webgl-particle-effect-billboard-tutorial/) -应用称为广告牌的技术来创建粒子效果.
+* [Particle Effects via Billboards](http://chinedufn.com/webgl-particle-effect-billboard-tutorial/) -通过应用称为广告牌的技术来创建粒子效果.
 * [The Book of Shaders](https://thebookofshaders.com/) -通过片段着色器的抽象和复杂领域的温柔逐步指南.
-* [WebGL Academy](http://www.webglacademy.com/)  -简化的在线IDE，具有自动缩进，针对HTML，Javascript，GLSL和Python的语法高亮显示.  您可以运行代码并下载项目.
-* [WebGL Fundamentals](https://webglfundamentals.org/) -系列在线教程，其中包含代码示例和现场演示.
-* [WebGL Workshop](http://webgl-workshop.com/) -互动研讨会，帮助您使用WebGL并开始运行.
+* [WebGL Academy](http://www.webglacademy.com/)  -简化的在线IDE，具有自动缩进功能，针对HTML，Javascript，GLSL和Python的语法高亮显示. 您可以运行代码并下载项目.
+* [WebGL Fundamentals](https://webglfundamentals.org/) -一系列在线教程，其中包含代码示例和现场演示.
+* [WebGL Workshop](http://webgl-workshop.com/) -交互式研讨会，使您可以使用WebGL并开始运行.
 
 ### Videos
 
@@ -166,7 +167,7 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 * [WebGL 2 SIGGRAPH Asia 2015](https://docs.google.com/presentation/d/1Orx0GB0cQcYhHkYsaEcoo5js3c5-pv7ahPniIRIzzfg/edit#slide=id.p) -由Google的Ken Russell莫振耀在SIGGRAPH Asia 2015上的演讲.
 * [WebGL 2 Lands in Firefox](https://hacks.mozilla.org/2017/01/webgl-2-lands-in-firefox/) -了解从Firefox 51开始对WebGL 2的支持.
 * [WebGL 2 Basics](http://www.realtimerendering.com/blog/webgl-2-basics/) -有关WebGL 2入门的博客文章.
-* [WebGL 2 New Features](http://www.realtimerendering.com/blog/webgl-2-new-features/) -有关WebGl 2的新功能和新功能的博客文章.
+* [WebGL 2 New Features](http://www.realtimerendering.com/blog/webgl-2-new-features/) -有关WebGl 2新增功能和新功能的博客文章.
 
 ### References
 
@@ -177,8 +178,8 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 * [WebGL 2 Compatible Chart](https://caniuse.com/#feat=webgl2) -图表显示了当前支持WebGL 2的浏览器
 
 ### Tutorials
-* [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)-系列在线教程，其中包含代码示例和现场演示.
-* [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) -许多WebGL 2作品的重要来源，而且注释很好.
+* [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)-一系列在线教程，其中包含代码示例和现场演示.
+* [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) -许多WebGL 2作品的重要来源，并且评论很好.
 * [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) -在原始WebGL 2中实现的渲染算法.
 
 ### Videos
@@ -191,7 +192,7 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 
 ## WebVR
 
-&gt;有关新的和即将推出的WebVR生态系统不同部分的信息
+&gt;有关新的和即将推出的WebVR生态系统各部分的信息
 >
 &gt;与更多开发人员有关的所有项目，而与在何处找到WebVR内容作为娱乐活动的问题较少
 
@@ -250,8 +251,8 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 * [xeogl](http://xeogl.org/) -WebGL上的数据驱动3D可视化引擎.
 
 ### Math
-* [glMatrix](http://glmatrix.net/) -高性能WebGL应用程序的Javascript矩阵和向量库.
-* [Sylvester](http://sylvester.jcoglan.com/) -Sylvester是JavaScript的向量，矩阵和几何库.
+* [glMatrix](http://glmatrix.net/) -高性能WebGL应用程序的Javascript矩阵和矢量库.
+* [Sylvester](http://sylvester.jcoglan.com/) -Sylvester是JavaScript的矢量，矩阵和几何库.
 * [TWGL](http://twgljs.org/) -唯一的目的是减少使用WebGL API的繁琐时间.
 
 ### Rendering
@@ -261,7 +262,7 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 
 ### Physics
 * [Ammo.js](https://github.com/kripken/ammo.js/) -使用Emscripten将Bullet物理引擎直接移植到JavaScript.
-* [Cannon.js](http://schteppe.github.io/cannon.js/) -用于网络的轻巧简单的3D物理引擎.
+* [Cannon.js](http://schteppe.github.io/cannon.js/) -轻巧，简单的网络3D物理引擎.
 
 ### WebGL 2
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) -最小的仅WebGL 2渲染库.
@@ -272,7 +273,7 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 * [Hologram](https://hologram.cool/) -桌面应用程序，可让您以交互方式创建WebVR并原型化，而无需先前的编码知识.
 * [LÖVR](https://lovr.org/) -使用Lua创建VR的简单框架.
 * [React 360](https://facebook.github.io/react-360/) -使用React构建VR网站和交互式360体验.
-* [Primrose](https://github.com/capnmidnight/Primrose/) -在浏览器中快速制作VR应用程序原型.
+* [Primrose](https://github.com/capnmidnight/Primrose/) -在浏览器中快速原型制作VR应用程序.
 
 ### Others
 * [Babylon.js](https://www.babylonjs.com/) -使用HTML5，WebGL和Web Audio构建3D游戏的完整JavaScript框架.
@@ -284,13 +285,13 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 * [OSG.js](http://osgjs.org/) -基于OpenSceneGraph概念的WebGL框架，可与WebGL进行交互.
 * [Pex-gl](http://vorg.github.io/pex/) -用于Plask / Node.js和WebGL中的计算思维的JavaScript库.
 * [PlayCanvas](https://playcanvas.com/) -游戏引擎平台，以建立互动体验.
-* [Pocket.gl](https://github.com/gportelli/pocket.gl) -完全可定制的webgl着色器沙盒，可嵌入您的页面.
+* [Pocket.gl](https://github.com/gportelli/pocket.gl) -完全可自定义的webgl着色器沙盒，可嵌入您的页面.
 * [Regl](http://regl.party/) -轻声明性和无状态的库，WebGL的功能抽象.
 * [Scene.js](http://scenejs.org/) -基于WebGL的可扩展引擎，可实现高细节3D可视化.
 * [Three.js](https://threejs.org/) -旨在创建易于使用的轻量级3D库.
 * [Turbulenz](https://github.com/turbulenz/turbulenz_engine) -模块化3D和2D游戏框架，用于为浏览器，台式机和移动设备制作HTML5驱动的游戏.
 * [Verge3D](https://www.soft8soft.com/verge3d/) -用于创建3D网络体验的艺术家友好型工具包.
-* [Whitestorm.js](https://whs.io/) -用物理学开发3D Web应用程序的框架.
+* [Whitestorm.js](https://whs.io/) -使用物理学开发3D Web应用程序的框架.
 
 ## Community
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/webgl)
@@ -315,7 +316,7 @@ WebGL程序由用JavaScript编写的控制代码和在计算机图形卡上执�
 &gt;类似的很棒的清单
 
 * [awesome](https://github.com/sindresorhus/awesome) -超赞列表的精选列表.
-* [awesome-opengl](https://github.com/eug/awesome-opengl)  -精选的很棒的OpenGL库，调试器和资源列表.  受到令人敬畏的东西的启发.
+* [awesome-opengl](https://github.com/eug/awesome-opengl)  -精选的很棒的OpenGL库，调试器和资源列表. 受到令人敬畏的东西的启发.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) -精选的Vulkan专案和生态系统清单.
 * [gamedev](https://github.com/ellisonleao/magictools) -有关游戏开发的真棒列表.
 * [glTF](https://github.com/KhronosGroup/glTF) -专为网络设计的Runtime 3D Asset Delivery.

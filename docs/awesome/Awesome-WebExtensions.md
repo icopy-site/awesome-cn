@@ -4,7 +4,7 @@
 
 &gt;精选的精选资源列表 [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) 发展.
 
- WebExtensions是用于开发浏览器附加组件的跨浏览器系统.  该系统在很大程度上与 [extension API](https://developer.chrome.com/extensions)  受Google Chrome和Opera支持.  在大多数情况下，为这些浏览器编写的扩展程序将在Firefox或 [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/) 只是 [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
+ WebExtensions是用于开发浏览器附加组件的跨浏览器系统. 该系统在很大程度上与 [extension API](https://developer.chrome.com/extensions) 受Google Chrome和Opera支持. 在大多数情况下，为这些浏览器编写的扩展程序将在Firefox或 [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/) 只是 [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
 
 
 
@@ -15,7 +15,7 @@
 - [Mozilla's WebExtensions documentation](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) -WebExtensions API的MDN Wiki.
 - [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) -适用于Chrome，Edge，Firefox和Opera的兼容性表.
 - [Microsoft Edge API support](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) -对Edge的详细WebExtensions支持.
-- [Safari Extensions documentation](https://developer.apple.com/safari/extensions/)  -有关构建Safari扩展的开发人员文档.  从技术上讲，不是WebExtensions，而是完全不同的API.
+- [Safari Extensions documentation](https://developer.apple.com/safari/extensions/)  -有关构建Safari扩展的开发人员文档. 从技术上讲，不是WebExtensions，而是完全不同的API.
 - [Opera API support](https://dev.opera.com/extensions/apis/) -对Opera的详细WebExtensions支持.
 - [Porting Chrome Extensions to Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/) -准备，安装和调试要在Firefox中移植的Chrome扩展程序的指南.
 - [Browser Extension Standard](https://browserext.github.io/browserext/) -API的标准，由Mozilla，Opera和Microsoft支持.
@@ -34,9 +34,10 @@
 代码意味着成为扩展的一部分.
 
 - [webext-options-sync](https://github.com/fregante/webext-options-sync) -帮助您管理和自动保存扩展程序的选项.
-- [webext-storage-cache](https://github.com/fregante/webext-storage-cache) -类似于地图的承诺缓存存储，具有到期时间.
+- [webext-storage-cache](https://github.com/fregante/webext-storage-cache) -类似于地图的承诺缓存存储，带有到期时间.
 - [webext-dynamic-content-scripts](https://github.com/fregante/webext-dynamic-content-scripts) -自动将您的`content_scripts`注入自定义域.
-- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) -Polyfill支持`browser`命名空间中基于标准化Promise的API.
+- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) -Polyfill支持`browser`名称空间中基于标准化promise的API.
+- [@types/firefox-webext-browser](https://www.npmjs.com/package/@types/firefox-webext-browser) -为“浏览器”名称空间提供TypeScript类型.
 - [redux-webext](https://github.com/ivantsov/redux-webext) -用途 [redux](https://github.com/reactjs/redux) 用于管理WebExtension的状态.
 
 ## Tools
@@ -51,10 +52,11 @@
 - [Chrome extension source viewer](https://github.com/Rob--W/crxviewer) -WebExtension，可直接在商店上查看扩展的源代码.
 - [@wext/shipit](https://github.com/LinusU/wext-shipit) -自动发布到Chrome网上应用店，Mozilla插件和Opera插件的工具.
 - [wext-manifest-loader](https://github.com/abhijithvijayan/wext-manifest-loader) -Webpack加载器，可让您指定“ manifest.json”属性以仅在特定浏览器中显示.
+- [webextension-manifest-loader](https://github.com/jsmnbom/webextension-manifest-loader)  -Webpack加载器，用于加载浏览器定制的manifest.json. 它还导入所有可导入的属性，使您可以将“ manifest.json”作为唯一的webpack入口点.
 
 ## Testing
 
-- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) -修改Chrome扩展程序API进行测试.
+- [sinon-chrome](https://github.com/acvetkov/sinon-chrome) -模拟Chrome扩展程序API进行测试.
 - [addons-validator](https://github.com/mozilla/addons-validator) -根据Mozilla的指南验证扩展.
 - [webextensions-jsdom](https://github.com/stoically/webextensions-jsdom) -根据manifest.json使用JSDOM加载弹出窗口，侧边栏和背景.
 - [webextensions-api-fake](https://github.com/stoically/webextensions-api-fake) -内存中的WebExtensions API伪实现（包括TypeScript类型）.
@@ -70,7 +72,7 @@
 
 ## Sample Extensions
 
-这些是简单而现代的WebExtensions存储库，可以帮助您确定组件的运行方向，包括通过Travis CI自动部署.
+这些是简单而现代的WebExtensions存储库，可以帮助您确定组件的运行位置，包括通过Travis CI自动部署.
 
 - [npmhub](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
@@ -80,4 +82,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Federico Brigante](https://bfred.it) 已放弃此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Federico Brigante](https://bfred.it) 放弃了此作品的所有版权以及相关或邻近的权利.

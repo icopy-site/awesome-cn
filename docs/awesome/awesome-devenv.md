@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精选的工具，资源和工作流程技巧精选清单，构成了很棒的开发环境.
+精选的工具，资源和工作流程提示的精选列表，构成了很棒的开发环境.
 
 受启发 [awesome-go](https://github.com/avelino/awesome-go)，这又受到了启发 [awesome-python](https://github.com/vinta/awesome-python).
 
@@ -20,7 +20,7 @@
 
 
 
-_注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NIX / LIN`_进行标记
+_注意：对于特定于操作系统的工具，请尽力用OSX / WIN / * NIX / LIN标记_
 
 
 
@@ -29,7 +29,7 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 ## Admins
 *用于管理数据库，权限等的工具*
 
-* [hss](https://github.com/six-ddc/hss) -不要再输入烦人的ssh命令.
+* [hss](https://github.com/six-ddc/hss) -永远不要再键入烦人的ssh命令.
 * [MongoHub](https://github.com/fotonauts/MongoHub-Mac/releases) -mongo的本机OSx客户端
 * [Robomongo](http://robomongo.org/) -MongoDB的跨平台管理员
 
@@ -73,9 +73,9 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 
 ## Dotfiles
 
-* [dotfiles.github.io](https://dotfiles.github.io/)  -收集的点文件资源.  包含带有dotfile引导程序的部分以及用于各种shell和编辑器的框架列表.
+* [dotfiles.github.io](https://dotfiles.github.io/)  -收集的点文件资源. 包含带有dotfile引导程序的部分以及用于各种shell和编辑器的框架列表.
 * [Zach Holman's](https://github.com/holman/dotfiles) -oh-my-zsh，osx，Zsh，vi，Ruby，Git等
-* [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) -.files，包括〜/ .osx-OS X的明智黑客默认设置
+* [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
 * [Thoughtbot's](https://github.com/thoughtbot/dotfiles) -一组vim，zsh，git和tmux配置文件
 * [Paul Miller's](https://github.com/paulmillr/dotfiles) -色彩丰富且功能强大的OS X配置文件和实用程序
 
@@ -87,20 +87,20 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 
 * [atom-beautify](https://github.com/Glavin001/atom-beautify) -在Atom中美化HTML（包括手把），CSS（包括Sass和Less），JavaScript等.
 * [file-icons](https://github.com/DanBrooker/file-icons) -将文件特定的图标添加到atom，以改善视觉效果.
-* [highlight-selected](https://github.com/richrace/highlight-selected) -双击一个单词以突出显示整个打开的文件.
-* [minimap](https://github.com/atom-minimap/minimap) -完整源代码的图形化地图（预览）.
+* [highlight-selected](https://github.com/richrace/highlight-selected) -双击单词以在打开的文件中突出显示该单词.
+* [minimap](https://github.com/atom-minimap/minimap) -完整源代码的图形映射（预览）.
 * [minimap-git-diff](https://github.com/atom-minimap/minimap-git-diff) -Atom git-diff软件包的小地图绑定.
 * [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) -突出显示所选包的小地图绑定.
 * [atom-project-manager](https://github.com/danielbrodin/atom-project-manager) -轻松访问所有项目，并使用项目特定的设置和选项进行管理.
-* [atom-tree-view-git-status](https://github.com/subesokun/atom-tree-view-git-status) -在Atom树形视图中显示Git存储库状态.
-* [atom-pigments](https://github.com/abe33/atom-pigments) -Atom包，用于在项目和文件中显示颜色.
+* [atom-tree-view-git-status](https://github.com/subesokun/atom-tree-view-git-status) -在Atom树视图中显示Git存储库状态.
+* [atom-pigments](https://github.com/abe33/atom-pigments) -一个Atom包，用于在项目和文件中显示颜色.
 
 ### Vim
 
 * [Completor](https://github.com/maralla/completor.vim) -异步自动完成功能，支持全向和语义完成.
 * [Powerline](https://github.com/Lokaltog/powerline) -改进了缓冲区的状态栏.
 * [snipmate](https://github.com/garbas/vim-snipmate) -与Textmate片段兼容的文本片段.
-* [The Ultimate Vim Distribution](http://vim.spf13.com/) -spf13-vim是vim插件和Vim，GVim和MacVim资源的发行版.
+* [The Ultimate Vim Distribution](http://vim.spf13.com/) -spf13-vim是vim插件和Vim，GVim和MacVim资源的分发版.
 
 ### Sublime Text 3
 
@@ -112,7 +112,7 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 * [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) -Markdown语法理解和良好的配色方案.
 * [Package Control](https://sublime.wbond.net/installation) -Sublime Text软件包管理器.
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests) -用于运行Ruby测试的插件.
-* [Side Bar Enhancments](https://github.com/titoBouzout/SideBarEnhancements)  -增强了Sublime Text边栏.  文件和文件夹.
+* [Side Bar Enhancments](https://github.com/titoBouzout/SideBarEnhancements)  -增强了Sublime Text边栏. 文件和文件夹.
 * [Sublime Git](https://github.com/kemayo/sublime-text-git) -出色的Git集成.
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter3/) -交互式代码整理.
 * [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces) -突出显示尾随空格，并立即删除它们.
@@ -123,28 +123,28 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 
 ### Visual Studio Code
 
-* [Dev Git Repo](https://github.com/Microsoft/vscode) -VS Code的Github代码存储库 
+* [Dev Git Repo](https://github.com/Microsoft/vscode) -Github代码存储库，用于VS Code 
 * [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) -Github代码存储库，用于基于浏览器的基础编辑器
 
 #### Extensions
 * [VS Code Extension Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories) -扩展官方网站
 * [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) -官方Python扩展
-* [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Excellent extension for settings and extension sync of your VS code setup
+* [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) -出色的扩展设置和VS代码设置的扩展同步
 
 ## Git
-*提供令人敬畏的Git体验的工具和插件*
+*工具和插件，以提供令人敬畏的Git体验*
 
 * [awesome-github](https://github.com/fffaraz/awesome-github) -Faraz Fallahi维护着GitHub和Git资源的精选列表.
 * [gh](https://github.com/jingweno/gh) -快速的GitHub命令行客户端（hub port to Go）
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) -收集了git helper脚本
-* [git-extras](https://github.com/visionmedia/git-extras) -GIT实用程序-回购摘要，副本，变更日志填充，作者提交百分比等
+* [git-extras](https://github.com/visionmedia/git-extras) -GIT实用程序-回购摘要，REPL，变更日志填充，作者提交百分比等
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) -ZSH插件，添加了一个gitit命令，可在当前分支的github上打开当前目录
 * [git-secret](https://github.com/sobolevn/git-secret) -一个bash工具，可将您的私人数据存储在git存储库中.
 * [git-semver](https://github.com/markchalloner/git-semver) -一个git插件，可简化语义版本2.0.0和更改日志管理.
 * [git-sweep](https://github.com/arc90/git-sweep) -安全地删除已合并到主服务器中的分支
 * [git-up](https://github.com/aanand/git-up) -更好的“ git pull”
 * [hub](https://hub.github.com/) -git CLI包装器，使使用GitHub更容易
-* [scm_breeze](https://github.com/ndbroadbent/scm_breeze) 简化您的git工作流程
+* [scm_breeze](https://github.com/ndbroadbent/scm_breeze) 简化git工作流程
 * [tig](http://jonas.nitro.dk/tig/) -git的基于ncurses的文本模式界面
 
 ## Misc
@@ -158,12 +158,12 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 ## Notifications
 *通知开发人员工作环境变化的工具*
 
-* [CatLight](https://catlight.io)  -开发人员的状态通知程序.  检查连续交付版本的状态并显示桌面通知.
+* [CatLight](https://catlight.io)  -开发人员的状态通知程序. 检查连续交付版本的状态并显示桌面通知.
 
 ## Orchestration
 *用于编排出色开发环境的工具*
 
-* [azk](https://github.com/azukiapp/azk) -用于协调开发环境的轻量级开源引擎
+* [azk](https://github.com/azukiapp/azk) -协调开发环境的轻量级开源引擎
 * [Nanobox](https://github.com/nanobox-io/nanobox) -微型PaaS（μPaaS），用于创建可部署在https://nanobox.io的任何位置的一致，隔离的开发环境.
 
 ## Presentation
@@ -172,10 +172,10 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) -DIY演示微框架
 * [hacker-slides](https://github.com/msoedov/hacker-slides) -基于Reveal.js的演示工具
 * [impress.js](https://github.com/impress/impress.js) -基于CSS3转换和过渡功能的表示框架
-* [mithril-slides](https://github.com/wulab/mithril-slides) -由Mithril编写的主题演讲应用程序
-* [remark](https://github.com/gnab/remark) -在浏览器中基于降价的演示
-* [reveal.js](https://github.com/hakimel/reveal.js/) -在浏览器中基于降价的演示
-* [deck.js](https://github.com/imakewebthings/deck.js) -在浏览器中基于降价的演示
+* [mithril-slides](https://github.com/wulab/mithril-slides) -由Mithril编写的主题演讲演示应用程序
+* [remark](https://github.com/gnab/remark) -基于降价的演示文稿在您的浏览器上
+* [reveal.js](https://github.com/hakimel/reveal.js/) -基于降价的演示文稿在您的浏览器上
+* [deck.js](https://github.com/imakewebthings/deck.js) -基于降价的演示文稿在您的浏览器上
 * [vimdeck](https://github.com/tybenz/vimdeck) -存在于Vim中
 * [WebSlides](https://github.com/jlantunez/webslides) -使HTML演示变得容易
 
@@ -184,12 +184,12 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) -可用于的zsh插件列表 [zgen](https://github.com/tarjoilija/zgen) 和别 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) 兼容的zsh框架
 * [fish-shell](https://github.com/fish-shell/fish-shell) -用户友好的命令行外壳
-* [hss](https://github.com/six-ddc/hss) -不要再输入烦人的ssh命令.
+* [hss](https://github.com/six-ddc/hss) -永远不要再键入烦人的ssh命令.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) -受oh-my-zsh启发的用于管理鱼壳配置的框架.
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) -社区驱动的框架，用于管理zsh配置.
-* [zgen](https://github.com/tarjoilija/zgen) -用于管理zsh配置的更快的框架，与oh-my-zsh插件向后兼容
+* [zgen](https://github.com/tarjoilija/zgen) -更快的管理zsh配置的框架，向后兼容oh-my-zsh插件
 * [zsh](http://www.zsh.org/) -设计用于交互式使用的外壳程序，尽管它也是一种功能强大的脚本语言.
-* [shellcheck](https://github.com/koalaman/shellcheck)  -皮绒外壳.  将在Shell脚本中找到已弃用和/或危险的用法
+* [shellcheck](https://github.com/koalaman/shellcheck)  -皮绒外壳. 将在Shell脚本中找到已弃用和/或危险的用法
 * [zsh quickstart kit](https://github.com/unixorn/zsh-quickstart-kit) -快速入门介绍如何使用zsh和zgen进行设置
 
 ## Text
@@ -210,28 +210,30 @@ _注意：对于特定于操作系统的工具，请尽量使用OSX / WIN / * NI
 到/ home / Users / yourself / projects.
 * [fasd](https://github.com/clvv/fasd) 命令行生产力增强器，可以快速访问文件和目录.
 * [homebrew](http://brew.sh) -使用一个命令可以很容易地在OS X系统上安装开源软件包.
-* [hss](https://github.com/six-ddc/hss) -不要再输入烦人的ssh命令.
+* [hss](https://github.com/six-ddc/hss) -永远不要再键入烦人的ssh命令.
 * [httpie](http://httpie.org/) 命令行HTTP客户端，方便用户的cURL替换.
-* [iTerm2](http://www.iterm2.com/) -出色的终端替代品/ OSX /
+* [iTerm2](http://www.iterm2.com/) -绝佳的终端替代品/ OSX /
 * [jq](https://stedolan.github.io/jq/) -轻巧灵活的命令行JSON处理器
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) -
   令人难以置信的ZSH插件.
-* [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) -用于监视通过管道的数据进度的工具
+* [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml) -通过管道监视数据进度的工具
 * [tmux](https://tmux.github.io/) 很棒的终端多路复用器.
+* [zoxide](https://github.com/ajeetdsouza/zoxide)  -浏览文件系统的更好方法. 使用Rust，跨外壳编写，并且比其他自动跳转器快得多.
 
 
 ## Workflow
 *通过代码改善日常工作流程的工具和插件*
 
 * [fswatch](https://github.com/alandipert/fswatch) -手表工具
-   将发出FS事件，您可以按需运行命令.  注意 -
+  将发出FS事件，您可以按需运行命令. 注意 -
 还有fswatch-run.
-* [guard](https://github.com/guard/guard) -具有庞大插件生态系统的FS监视工具
-* [LiveReload](http://livereload.com/) -FS手表和预处理器，作为带有/ OSX /和/ WIN /的桌面应用程序，具有互补的浏览器扩展
+* [guard](https://github.com/guard/guard) -具有庞大插件生态系统的FS Watch工具
+* [LiveReload](http://livereload.com/) -FS监视程序和预处理器，作为带有/ OSX /和/ WIN /的桌面应用程序，具有互补的浏览器扩展
   * [guard-livereload](https://github.com/guard/guard-livereload) -与LiveReload的浏览器扩展兼容的Guard插件
   * [simplehttp](https://github.com/snwfdhmp/simplehttp) 开始通过http提供本地目录的最快，最简单的方法.
 * [watchman](https://github.com/facebook/watchman) -Facebook更好
   `watch`-注意它可以作为服务.
 * [Zappr](https://github.com/zalando/zappr) -GitHub集成旨在通过启用/禁用拉取请求批准检查来增强您的项目工作流程.
-* [ergo](https://github.com/cristianoliveira/ergo) -管理通过不同端口运行的多个本地服务变得容易.
+* [ergo](https://github.com/cristianoliveira/ergo) -简化了在不同端口上运行的多个本地服务的管理.
 * [Prodmodel](https://github.com/prodmodel/prodmodel) -用于数据科学管道的构建工具.
+* [Gebug](https://github.com/moshebe/gebug) -通过无缝启用Debugger和Hot-Reload功能，使对Dockerized Go应用程序的调试非常容易的工具.

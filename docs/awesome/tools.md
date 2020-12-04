@@ -20,6 +20,7 @@
 * [lorempixel](http://lorempixel.com/)
 * [dummyimage](http://dummyimage.com/)
 * [placekitten](http://placekitten.com/)
+* [unsplash](https://source.unsplash.com/)
 
 ### Favicon
 
@@ -45,6 +46,7 @@
 * [jquery cdn](http://code.jquery.com/)
 * [lib.sinaapp](http://lib.sinaapp.com/)
 * [jsDelivr](http://www.jsdelivr.com/)
+* [pagecdn](https://pagecdn.com/lib)
 
 ### CSS
 
@@ -74,6 +76,7 @@
 * [Compressor.io](https://compressor.io/)
 * [Shrinkray](https://shrinkray.io)
 * [Trimage](https://trimage.org)
+* [Compress-Or-Die](https://compress-or-die.com/)
 
 ### JavaScript
 
@@ -100,7 +103,6 @@
 * [color-hex](http://www.color-hex.com/)
 * [colors](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
-* [randomColor](https://randomcolor.llllll.li/)
 * [colourco.de](http://colourco.de)
 * [flatuicolorpicker](http://www.flatuicolorpicker.com/)
 * [krmp.cc](https://github.com/dadleyy/krmp.cc)
@@ -119,10 +121,11 @@
 * [iconpark](https://github.com/lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
+* [Easy Fonts](https://pagecdn.com/lib/easyfonts)
 
 ### API Debugging
 
-* [Hurl.it](https://www.hurl.it/)
+* [ExtendsClass.com](https://extendsclass.com/rest-client-online.html)
 * [RequestBin.com](https://requestbin.com/)
 * [Beeceptor.com](https://beeceptor.com/)
 
@@ -145,3 +148,18 @@
 ### webpack
 
 * [Visual webpack config tool](https://webpack.jakoblind.no/)
+
+### Code Playgrounds
+
+* [CodePen](https://codepen.io/)
+* [CodeSandbox](https://codesandbox.io/)
+* [Glitch](https://glitch.com/)
+* [JSFiddle](https://jsfiddle.net/)
+* [JS BIN](http://jsbin.com/)
+* [Dabblet](http://dabblet.com/)
+* [CSSDeck](http://cssdeck.com/)
+* [Plunker](http://plnkr.co/)
+* [Liveweave](https://liveweave.com/)
+* [StackBlitz](https://stackblitz.com/)
+* [FastSitePHP](https://www.fastsitephp.com/en/playground)
+* [DataFormsJS](https://www.dataformsjs.com/en/playground)

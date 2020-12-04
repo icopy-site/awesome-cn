@@ -17,14 +17,14 @@
   模式函子，不动点，变形，变态的介绍，
   同质和同质，只需要很少的先验知识即可.
 - [An Introduction to Recursion Schemes](http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/) -
-  由三部分组成的系列，您可以从头开始发现递归方案，
+  由三部分组成的系列，您可以从头开始探索递归方案，
   实现Edward Kmett库的一小部分.
 - [Understanding Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras) -
   Bartosz Milewski解释了F代数并展示了如何在F代数的上下文中使用它们
-  catamorphisms.
+  变态.
 - [Recursion Schemes in JavaScript and Flow](https://medium.com/@JosephJnk/recursion-schemes-in-javascript-and-flow-with-static-land-recursision-schemes-97cf10599fb7) -
   系列介绍JavaScript中的递归方案和相关概念，
-  针对具有最低功能编程背景的开发人员.
+  针对具有最小功能编程背景的开发人员.
 
 ## Articles
 
@@ -35,12 +35,13 @@
   Edward Kmett编写的Haskell学校代码的简短定义.
 - [Rotating Squares](https://jtobin.io/rotating-squares) -使用亚同性旋转Jared Tobin的四叉树.
 - [Recursion Schemes, Part V: Hello, Hylomorphisms](http://blog.sumtypeofway.com/recursion-schemes-part-v/)
-- [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post) -贾里德·托宾（Jared Tobin）的前和后预言的实用示例.
+- [Promorphisms, Pre and Post](https://jtobin.io/promorphisms-pre-post) -贾里德·托宾（Jared Tobin）的前和后预言的实例.
 - [Time Traveling Recursion Schemes](https://jtobin.io/time-traveling-recursion) -以Jared Tobin为例研究历史和未来.
 - [Recursion Schemes, Part IV: Time is of the Essence](http://blog.sumtypeofway.com/recursion-schemes-part-iv-time-is-of-the-essence/) -有关组织形态和未来形态的实用文章.
 - [Cheat Sheet](https://github.com/sellout/recursion-scheme-talk/blob/master/cheat%20sheet.pdf) -各种递归方案及其对偶的映射.
-- [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) -显示Visitor模式实现了f代数，用于同构（在Java中）.
-- [Recursion Schemes in Scala](https://free.cofree.io/2017/11/13/recursion/) -介绍定点组合器，变形，变态，同质，同质，无性，组织形态，动态和未来形态.
+- [Correcting the Visitor pattern](http://logji.blogspot.co.uk/2012/02/correcting-visitor-pattern.html) -证明Visitor模式实现了f代数，用于同构（在Java中）.
+- [Recursion Schemes in Scala](https://free.cofree.io/2017/11/13/recursion/) -介绍了定点组合器，变形，变形，同质，同质，变质，组织形态，动态和未来形态.
+- [What's in a Fold: The Basic Catamorphism in recursion-schemes](https://duplode.github.io/posts/whats-in-a-fold.html) -引入了折叠形态的概括.
 
 ### Hylomorphisms in the Wild
 
@@ -57,7 +58,7 @@ Bartosz Milewski撰写的文章，涉及通过应用同胚来解决小的实际�
   显示许多基本排序算法成对存在，并且这些对
   自然产生于折叠和展开之间的对偶.
 - [Sorting with Bialgebras and Distributive Laws, 2012, Hinze et al.](http://www.cs.ox.ac.uk/people/daniel.james/sorting/sorting.pdf) -
-  展示了如何利用同态和无定形来提高效率
+  展示如何利用同态和无定形来提高效率
   排序算法的实现.
 - [Scrap your boilerplate: a practical design pattern for generic programming, 2003, SPJ et al.](http://research.microsoft.com/en-us/um/people/simonpj/Papers/hmap/hmap.ps) -
   用于编写程序的设计模式，该程序遍历由丰富的相互递归数据类型构建的数据结构.
@@ -101,9 +102,9 @@ Bartosz Milewski撰写的文章，涉及通过应用同胚来解决小的实际�
 - [recursion-schemes](https://github.com/ekmett/recursion-schemes/) 对于
   Haskell-Edward Kmett的规范实现.
 - [Matryoshka](https://github.com/slamdata/matryoshka) 使用Scalaz的Scala-
-  定点数据结构的广义折叠，展开和遍历.
+  定点数据结构的通用折叠，展开和遍历.
 - [andyscott/droste](https://github.com/andyscott/droste) 使用Cats的Scala-
-  定点数据结构的广义折叠，展开和遍历.
+  定点数据结构的通用折叠，展开和遍历.
 - [recursion\_schemes](https://github.com/vmchale/recursion_schemes/) 对于
   Idris基于Edward Kmett的Haskell库.
 - [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) 用于PureScript-
@@ -115,7 +116,6 @@ Bartosz Milewski撰写的文章，涉及通过应用同胚来解决小的实际�
 - [static-land-recursion-schemes](https://github.com/JosephJNK/static-land-recursion-schemes) 对于JavaScript / Flow-
   以以下格式编写的数据结构方案 [flow-static-land](https://github.com/gcanti/flow-static-land).
 - [Katalyst](https://github.com/aedans/Katalyst) for Kotlin-基于Matryoshka的重新构想，使用轻量级更高种类的多态性.
-- [Groupoid Infinity](http://groupoid.space/mltt/inductive/) [recursion schemes](https://github.com/groupoid/infinity/blob/master/priv/recursion.ctt) 对于 [cubicaltt](https://github.com/mortberg/cubicaltt) -递归方案的立方版本.
 
 ## License
 

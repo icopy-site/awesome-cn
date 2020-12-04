@@ -6,11 +6,11 @@
  
 随时发送PR :)
 ## Brothers
-[free for dev](https://github.com/ripienaar/free-for-dev) -对开发人员和基础设施具有免费兴趣的SaaS，PaaS和IaaS产品列表
+[free for dev](https://github.com/ripienaar/free-for-dev) -具有对开发人员和基础设施免费感兴趣的SaaS，PaaS和IaaS产品的列表
 
-[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) -对中国开发者和基础设施开发者有免费兴趣的SaaS，PaaS和IaaS产品列表
+[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) -对中国开发者和基础设施有免费兴趣的SaaS，PaaS和IaaS产品列表
 
-[awesome](https://github.com/sindresorhus/awesome) -对开发人员和基础设施具有免费兴趣的SaaS，PaaS和IaaS产品列表
+[awesome](https://github.com/sindresorhus/awesome) -具有对开发人员和基础设施免费感兴趣的SaaS，PaaS和IaaS产品的列表
 
 
 
@@ -24,17 +24,18 @@
 
 ## IDE 
 
- * [Coding WebIDE](https://github.com/Coding/WebIDE) -编码WebIDE社区版项目
+ * [Visual Studio Code](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+ * [Coding WebIDE](https://github.com/Coding/WebIDE) -Coding WebIDE社区版项目
  * [CodeBox](https://github.com/CodeboxIDE/codebox) -开源云和桌面IDE
 
 
 ## Collaboration Tools
 
- * [Filestash](http://www.filestash.app) -类似Dropbox的网络客户端，用户可以在其中携带自己的后端（FTP，SFTP，Webdav，S3，Minio等）.
+ * [Filestash](http://www.filestash.app) -类似于Dropbox的Web客户端，用户可以在其中携带自己的后端（FTP，SFTP，Webdav，S3，Minio等）.
  * [SparkleShare](https://github.com/hbons/SparkleShare) -开源协作和共享工具
  * [ssh chat](https://github.com/shazow/ssh-chat) -通过SSH聊天 
  * [lets chat](https://github.com/sdelements/lets-chat) -适用于小型团队的自托管聊天应用
- * [ownCloud](https://owncloud.org) -带有日历，联系人和更多应用程序的开源文件同步和共享
+ * [ownCloud](https://owncloud.org) -开源文件同步和共享，带有日历，联系人和更多应用
 
 ## Code Quality
 
@@ -46,9 +47,11 @@
 ## CI / CD
 
  * [Jenkins](https://github.com/jenkinsci/jenkins) -开源持续集成服务器
- * [Travis CI](https://github.com/travis-ci/travis-ci) -用于GitHub项目的免费持续集成平台
+ * [Travis CI](https://github.com/travis-ci/travis-ci) -适用于GitHub项目的免费持续集成平台
  * [cucumber](https://github.com/cucumber/cucumber) -简单的人为协作 
-
+ 
+## Feature management
+ * [Unleash](https://github.com/Unleash/unleash)  -免费的开源功能标记和切换服务. 适用于所有主要语言的SDK.
 
 ## Security and PKI
 
@@ -58,9 +61,9 @@
 
 ## Bug trackers
 
-* [Bugzilla](https://github.com/bugzilla/bugzilla) -基于Web的错误跟踪软件
-* [Mantis](https://github.com/mantisbt/mantisbt) -问题跟踪器，可在简单性和功能之间实现微妙的平衡
-
+* [Bugzilla](https://github.com/bugzilla/bugzilla) -基于网络的错误跟踪软件
+* [Mantis](https://github.com/mantisbt/mantisbt) -问题追踪器，可在简单性和功能之间实现微妙的平衡
+* [Trac](https://github.com/edgewall/trac) -IT项目管理解决方案，使软件开发人员可以跟踪和解决错误，任务，文件，维基页面等.
 
 ## Project management
 * [Redmine](https://github.com/redmine/redmine) -使用Ruby on Rails编写的灵活的项目管理Web应用程序

@@ -2,10 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome TAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
-&gt;有用的资源 [Test Anything Protocol](https://testanything.org)\
-&gt;测试工具中测试模块之间的基于文本的简单界面
+&gt;有用的资源 [Test Anything Protocol](https://testanything.org)
 
- *此列表目前非常关注JavaScript.  那只是因为我只对JS世界中的TAP东西很熟悉.  欢迎任何语言的贡献.*
+TAP是测试工具中测试模块之间的基于文本的简单接口.
+
+ *此列表目前非常关注JavaScript. 那只是因为我只对JS世界中的TAP东西很熟悉. 欢迎任何语言的贡献.*
 
 
 
@@ -17,14 +18,14 @@
 - [tap-spec](https://github.com/scottcorgan/tap-spec) -摩卡风格的规范记者.
 - [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - 喵喵猫.
 - [tap-min](https://github.com/derhuerst/tap-min) -最小的输出.
-- [tap-difflet](https://github.com/namuol/tap-difflet) -最小输出与差异.
+- [tap-difflet](https://github.com/namuol/tap-difflet) -差异最小的输出.
 - [tap-diff](https://github.com/axross/tap-diff) -差异化的人性化输出.
 - [tap-simple](https://github.com/joeybaker/tap-simple) -简单的输出.
 - [faucet](https://github.com/substack/faucet) -可读的摘要器.
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) -使用任何 [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
 - [tap-summary](https://github.com/zoubin/tap-summary) -汇总输出.
 - [tap-pessimist](https://github.com/clux/tap-pessimist) -仅显示失败的测试.
-- [tap-prettify](https://github.com/toolness/tap-prettify) -具有差异性的可读性好输出.
+- [tap-prettify](https://github.com/toolness/tap-prettify) -带有差异的漂亮可读输出.
 - [tap-colorize](https://github.com/substack/tap-colorize) -在保持机器可读性的同时为输出着色.
 - [tap-bail](https://github.com/juliangruber/tap-bail) -当第一个测试失败时，请保释.
 - [tap-notify](https://github.com/axross/tap-notify) -适用于macOS，Linux和Windows的通知程序.
@@ -42,7 +43,7 @@
 - [AVA](https://github.com/sindresorhus/ava) -未来派测试跑步者（`$ ava --tap`）.
 - [tap](https://github.com/isaacs/node-tap) -Node.js的TAP测试框架.
 - [tape](https://github.com/substack/tape) -用于Node.js和浏览器的TAP生产测试工具.
-- [ESLint](https://eslint.org/docs/user-guide/formatters/#tap) -可插入的JavaScript linter（`$ eslint --format = tap`）.
+- [ESLint](https://eslint.org/docs/user-guide/formatters/#tap) -可插入的JavaScript linter（$ eslint --format = tap`）.
 - [Mocha](https://mochajs.org) -适用于Node.js和浏览器的功能丰富的测试框架（`$ mocha reporter = tap`）.
 - [qunit-tap](https://github.com/twada/qunit-tap) -QUnit的TAP输出.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) -茉莉的TAP输出.
@@ -56,11 +57,12 @@
 
 ### Fish
 
-- [Fishtape](https://github.com/fisherman/fishtape) -TAP生产商和鱼的测试装置.
+- [Fishtape](https://github.com/fisherman/fishtape) -TAP生产商和鱼用测试装置.
 
 ### Bash
 
 - [bats](https://github.com/sstephenson/bats) -Bash自动化测试系统.
+- [ShellSpec](https://github.com/shellspec/shellspec) -用于POSIX Shell的功能齐全的BDD单元测试框架.
 
 [More…](https://testanything.org/producers.html)
 
@@ -83,7 +85,7 @@
 - [tap-dev-tool](https://github.com/Jam3/tap-dev-tool) -在浏览器控制台中美化TAP.
 - [tap-merge](https://github.com/anko/tap-merge) -合并多个TAP流.
 - [smokestack](https://github.com/hughsk/smokestack) -在浏览器中运行TAP测试，并将输出写入`stdout`.
-- [chutney](https://github.com/derhuerst/chutney)  -在Sauce Labs进行TAP测试.  轻巧 [smokestack](https://github.com/hughsk/smokestack) 替代.
+- [chutney](https://github.com/derhuerst/chutney)  -在Sauce Labs中运行TAP测试. 轻巧 [smokestack](https://github.com/hughsk/smokestack) 替代.
 
 ### Python
 

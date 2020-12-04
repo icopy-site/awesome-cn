@@ -4,9 +4,16 @@
   <img src="https://raw.githubusercontent.com/hackerkid/bots/master/bots3d.png" />
 </p>
 <br>
+
+<p align="center"><a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667" alt="Awesome" data-canonical-src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" style="max-width:100%;"></a> <a href="http://makeapullrequest.com" rel="nofollow"><img src="https://camo.githubusercontent.com/a34cfbf37ba6848362bf2bee0f3915c2e38b1cc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265" alt="PRs Welcome" data-canonical-src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" style="max-width:100%;"></a> <a href="https://gitter.im/hackerkid/bots?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge" rel="nofollow"><img src="https://camo.githubusercontent.com/fe6988d65fff4cc1047f3dad8af636bb523c6ef1/68747470733a2f2f6261646765732e6769747465722e696d2f6861636b65726b69642f626f74732e737667" alt="Join the chat at https://gitter.im/hackerkid/bots" data-canonical-src="https://badges.gitter.im/hackerkid/bots.svg" style="max-width:100%;"></a></p>
+
+<br>
+<h1  align="center">
+  
+  查看我最新的项目<a href="http://bit.ly/diff-bots">-diff.blog</a>
+</h1>
 <br>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 目录
 -----------------
@@ -33,24 +40,24 @@
 * [Botkit](https://howdy.ai/botkit/) -Botkit简化了生活在Slack中的机器人的设计和运行过程.
 * [Dialogflow](https://dialogflow.com/) -建立自然而丰富的对话经验.
 * [Text It](https://textit.in/) -可视化地构建SMS和语音应用程序以吸引您的客户.
-* [Chatfuel](https://chatfuel.com/)  -带有AI导航的直观机器人生成器.  无需编码.
+* [Chatfuel](https://chatfuel.com/)  -带有AI导航的直观机器人生成器. 无需编码.
 * [Watson](http://www.ibm.com/cloud-computing/bluemix/watson/) -将认知计算的功能引入您的应用程序.
 * [Beep Boop](https://beepboophq.com/) -Beep Boop是您的Slack和Messenger机器人的简单托管平台.
 * [Dexter](https://rundexter.com/app/spreadsheet-bot) -获取一个Slack机器人，该机器人用您自己的Google表格中的答案进行响应.
 * [Converse AI](http://www.converse.ai/) -通过智能聊天机器人技术即时响应客户的问题.
 * [Gupshup](https://www.gupshup.io/developer/home) -在任何渠道上构建和部署机器人的最简单，最快的方法.
-* [Haven OnDemand](https://dev.havenondemand.com/apis) -它们与watson的API类似，但文档记载充分，并具有免费版本.
+* [Haven OnDemand](https://dev.havenondemand.com/apis) -它们与watson的API类似，但文件记载充分，并具有免费版本.
 * [Recast.AI](https://recast.ai) -针对开发人员的协作Bot平台：轻松构建对话型机器人.
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) -使用Python构建基于机器学习的对话对话框引擎
-* [Google Cloud Platform](https://cloud.google.com/natural-language) -在一块文本上使用情感分析，以添加对话机器人的决策树逻辑.
-* [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) -演示FB Messenger机器人，但不显示个人聊天记录
+* [Google Cloud Platform](https://cloud.google.com/natural-language) -在文本块上使用情感分析，以添加对话机器人的决策树逻辑.
+* [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) -演示FB Messenger机器人但未显示个人聊天记录
 * [BotStar](https://www.botstar.com/) -强大的平台，可通过智能培训直观地设计和开发聊天机器人.
 
 ## Tools For Bot Analytics
 * [ChatMetrics](https://chatmetrics.io/)  -机器人参与平台.  ChatMetrics允许通过向用户发送“智能”通知来重新激活不活动的用户并提高保留率.
-* [Dialog](https://dialoganalytics.com/) -面向市场营销人员的Chatbot分析平台，可促进用户的参与，保留，转换和了解行为.
+* [Dialog](https://dialoganalytics.com/) -面向市场营销人员的聊天机器人分析平台，可推动用户参与，保留，转换并了解行为.
 * [Dashbot](https://www.dashbot.io/) -可行的Bot Analytics：提高用户参与度，获取量和获利能力.
-* [Botmetrics](https://www.getbotmetrics.com/)  -成长并留住您的聊天机器人客户.  企业级开源对话分析，营销自动化和CRM集成到一个代码段中.
+* [Botmetrics](https://www.getbotmetrics.com/)  -成长并留住您的聊天机器人客户. 企业级开源对话分析，营销自动化和CRM集成到一个代码片段中.
 
 ## Tools For Bot Conversation Mockups
 * [Bot Society](https://www.botsociety.io) -Bot对话样机，用于演示和演示.
@@ -68,7 +75,7 @@
 * [Claudia Bot Builder](https://github.com/claudiajs/claudia-bot-builder) -为FB，Slack，Skype和Telegram创建聊天机器人，并在几分钟内部署到AWS Lambda.
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) -用一种逻辑为FB Messenger，Kik，Telegram和Skype创建跨平台聊天机器人.
 * [Pandorabots](http://www.pandorabots.com/) -用于构建和部署聊天机器人的Web服务.
-* [Microsoft Bot Framework](http://docs.botframework.com) -Node.js / .NET库，用于构建，连接，测试和部署强大而智能的机器人. 
+* [Microsoft Bot Framework](http://docs.botframework.com) -Node.js / .NET库，用于构建，连接，测试和部署功能强大且智能的机器人. 
 * [Bottender](https://github.com/Yoctol/bottender) -快速灵活地按自己的方式制作机器人.
 * [BotMan](https://github.com/botman/botman) -支持超过12个平台（FB，Instagram，MS Bot Framework等）的PHP Bot Framework
 
@@ -133,7 +140,7 @@
 * [Product Hunt](https://www.producthunt.com/topics/bots) -产品搜索机器人列表.
 * [Dashbot](http://www.dashbot.io/bots) -Dashbot机器人目录.
 * [Skype Bot Directory](https://bots.botframework.com/) -Microsoft Bot Framework的Skype机器人正式列表
-* [Teamchat](http://www.teamchat.com/en/bot-store/) -通过团队聊天的机器人商店.
+* [Teamchat](http://www.teamchat.com/en/bot-store/) -团队聊天机器人商店.
 * [Discord Bots](https://bots.discord.pw/) -非官方僵尸程序的非正式列表.
 * [Discord Bot List](https://discordbots.org/) -非官方僵尸程序的非正式列表.
 * [Telegram Botlist](https://t.me/botlist) -电报的漫游器列表.
@@ -172,11 +179,11 @@
 * [Botgig](http://www.botgig.com/) -从经过审查的人才库中聘请顶级聊天机器人开发人员.
 
 ## Testing
-* [ChatbotTest](http://chatbottest.com/) -Chatbottest是一个开源指南，可帮助您确定7个不同类别下的chatbot设计问题.
-* [BotTesting](http://bottesting.co/)  -测试您的机器人！  将您的电子邮件和漫游器链接发送给我们，我们将检查您的漫游器的性能和可用性
+* [ChatbotTest](http://chatbottest.com/) -Chatbottest是一个开源指南，可帮助您识别7个不同类别下的chatbot设计问题.
+* [BotTesting](http://bottesting.co/)  -测试您的机器人！ 发送您的电子邮件和漫游器链接给我们，我们将检查您的漫游器的性能和可用性
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Vishnu Ks](http://www.vishnuks.com) 已放弃所有版权及相关或邻接权这项工作.
+在法律允许的范围内， [Vishnu Ks](http://www.vishnuks.com) 放弃了此作品的所有版权以及相关或邻近的权利.

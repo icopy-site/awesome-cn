@@ -21,7 +21,7 @@
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
   * [Files of Google Fonts](https://github.com/google/fonts) ([sources](https://github.com/googlefonts))
   * [Noto Fonts](https://github.com/googlei18n/noto-fonts) -所有语言的国际化字体，对CJK和表情符号的丰富支持
-  * [Roboto](https://github.com/google/roboto) -Android和Chrome操作系统上的默认字体，以及Material Design推荐的字体
+  * [Roboto](https://github.com/google/roboto) -Android和ChromeOS上的默认字体，以及Material Design推荐的字体
 * [Indestructible Type](https://github.com/indestructible-type) -开源字体铸造厂
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) -开源类型运动
   * [Chunk](https://www.theleagueofmoveabletype.com/chunk)
@@ -37,7 +37,7 @@
 
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) -参数可变字体
-* [AtF Spark](https://aftertheflood.co/projects/sparks/) -旨在产生迷你图的字体
+* [AtF Spark](https://github.com/aftertheflood/sparks) -旨在产生迷你图的字体
 * [Barlow](https://github.com/jpt/barlow) -grotesk可变字体超家族
 * [Inter](https://github.com/rsms/inter) -专为用户界面设计的字体
 * [Libre Franklin](https://github.com/impallari/Libre-Franklin) -基于莫里斯·富勒·本顿（Morris Fuller Benton）1912年经典作品的诠释和扩展.
@@ -50,15 +50,15 @@
 
 ## Emojis
 * [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) -Alfred 2搜索表情符号代码的工作流程
-* [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) -Campfire和GitHub上的表情符号的一个传呼器
+* [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) -在Campfire和GitHub上的表情符号的一个传呼器
 * [emoji-data-js](https://github.com/mroth/emoji-data-js) -用于NodeJS的Emoji编码瑞士军刀
 * [emoji-minesweeper](https://github.com/muan/emoji-minesweeper) -用表情符号制作的扫雷游戏
 * [emoji-regex](https://github.com/mathiasbynens/emoji-regex) -根据Unicode标准与所有仅表情符号符号匹配的正则表达式
 * [emoji-rspec](https://github.com/cupakromer/emoji-rspec) -RSpec的自定义表情符号格式化程序
 * [emoji-translate](https://github.com/notwaldorf/emoji-translate) -将文字翻译成表情符号
-* [emoji](https://github.com/leereilly/emoji) -GitHub支持的所有表情符号请求请求，问题，注释，提交消息，降价文件等
-* [emoji](https://github.com/muan/emoji) -找到与您相呼应的表情符号
-* [emoji](https://github.com/wpeterson/emoji)  -宝石  对于表情符号.  为了每一个.
+* [emoji](https://github.com/leereilly/emoji) -GitHub支持的所有表情符号提取请求，问题，注释，提交消息，降价文件等
+* [emoji](https://github.com/muan/emoji) -找到与您的想法相呼应的表情符号
+* [emoji](https://github.com/wpeterson/emoji)  -宝石对于表情符号. 给大家.
 * [emojidex](https://github.com/emojidex/emojidex) -Emoji即服务提供商以及一系列工具和资产
 * [emojify.js](https://github.com/emojione/emojify.js) -将表情符号关键字转换为图像的Javascript模块
 * [emojify](https://github.com/mrowa44/emojify) -命令行上的表情符号
@@ -81,11 +81,11 @@
 ## Iconic fonts
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) -147个8位复古风格的webfont图标可用于网络和移动
 * [Country Icons](https://github.com/lipis/flag-icon-css) -SVG和CSS中所有国家标志的集合
-* [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN
+* [Evil Icons](http://evil-icons.io/) 简单干净的SVG图标包，带有支持Rails，Sprockets，Node.js，Gulp，Grunt和CDN的代码
 * [Font Custom](https://github.com/FontCustom/fontcustom) -图标字体生成器
 * [Font-Awesome](https://fontawesome.com) -标志性字体和CSS工具包
 * [font-mfizz](https://github.com/fizzed/font-mfizz) -技术和软件极客的矢量图标
-* [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit)  -iOS的图标字体库.  目前支持Font-Awesome，Foundation图标，Zocial和ionicons.
+* [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit)  -iOS的图标字体库. 目前支持Font-Awesome，Foundation图标，Zocial和ionicons.
 * [fontello](http://fontello.com) -标志字体剪刀
   * [brandico.font](http://fontello.github.io/brandico.font/demo.html) -带有社会服务和信息传递者徽标的字体
   * [fontelico.font](http://fontello.github.io/fontelico.font/demo.html) -Fontello项目中的开源标志性字体
@@ -103,7 +103,7 @@
 * [PaymentFont](https://paymentfont.com/) -光滑的网络字体，包含所有主要付款运营商和方法的94个图标
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) -一组图标，用于显示时间戳的视觉（“模拟”）表示
 * [Picon](https://yne.fr/picon) 约666个Pico大小且基于连字的图标+在线字体生成器.
-* [stackicons](https://github.com/parkerbennett/stackicons) -用于Stackicons-Social的图标字体和基于Sass的构造套件，该套件支持60多个社交品牌的CSS中的多个按钮形状和独特的“多色”选项
+* [stackicons](https://github.com/parkerbennett/stackicons) -Stackicons-Social的图标字体和基于Sass的构造工具包，它支持CSS中的多个按钮形状和独特的“多色”选项，可用于60多个社交品牌
 * [svg-icon](https://leungwensen.github.io/svg-icon/) -正确完成了最终的SVG图标集合
 * [typicons.font](http://s-ings.com/typicons/) -Web字体工具包中的336像素完美，通用矢量图标
 * [weather-icons](http://erikflowers.github.io/weather-icons/) -189个以Font Awesome为灵感的天气主题图标，可供Bootstrap使用
@@ -128,7 +128,7 @@
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) -Apple的Menlo字体的定制版本
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) -为Powerline，Font Awesome，Octicons，Devicons和Vim Devicons收集了20多种修补字体
-* [Operator Mono](https://www.typography.com/fonts/operator/styles/) — 200美元的高级编程字体，其灵感来自于打字传统
+* [Operator Mono](https://www.typography.com/fonts/operator/styles/) — 200美元的高级编程字体，灵感来自打字传统
 * [Recursive Sans & Mono](https://github.com/arrowtype/recursive/) -用于代码和UI的可变字体系列
 
 
@@ -137,17 +137,19 @@
 * [FiraCode](https://github.com/tonsky/FiraCode) -具有编程连字的等宽字体
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 * [Hasklig](https://github.com/i-tu/Hasklig)
-* [Iosevka](https://github.com/be5invis/Iosevka)  -用于编程的空间有效的等宽字体系列.  从代码构建.
+* [Iosevka](https://github.com/be5invis/Iosevka)  -用于编程的空间有效的等宽字体系列. 从代码构建.
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 * [Monoid](https://github.com/larsenwork/monoid)
-* [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) -具有Haskell，Agda，APL等的特殊连字的专有字体
+* [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) -Haskell，Agda，APL等带有特殊连字的专有字体
 * [Dank Mono](https://dank.sh/) —具有令人愉悦的连字和斜体变体的高级编程字体
-* [Victor Mono](https://rubjo.github.io/victor-mono/) -具有半连接草书斜体，符号连字和拉丁，西里尔和希腊字符的免费编程字体
+* [Victor Mono](https://rubjo.github.io/victor-mono/) -一种具有半连接草书斜体，符号连字以及拉丁，西里尔和希腊字符的免费编程字体
 
 ## JavaScript libs
+* [Beatrix](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [fontkit](https://github.com/devongovett/fontkit) -适用于Node和浏览器的高级字体引擎（[demo](https://fontkit-demo.now.sh/))
 * [fontmin](https://github.com/ecomfe/fontmin) -字体缩小器
+* [Fontsource](https://github.com/fontsource/fontsource) -整齐打包的NPM软件包中的自托管开源字体
 * [Lettering.js](https://github.com/davatron5000/Lettering.js)
 * [localFont](https://github.com/jaicab/localFont) -将字体保存在localStorage中
 * [opentype.js](https://github.com/nodebox/opentype.js) -TrueType和OpenType字体的解析器和编写器

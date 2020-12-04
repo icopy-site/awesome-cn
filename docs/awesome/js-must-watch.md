@@ -22,11 +22,15 @@
 ## 2017
 1. [Lin Clark: **A Cartoon Intro to Fiber**](https://www.youtube.com/watch?v=ZCuYPiUIONs) [31:47]
 1. [Yoav Weiss: **Caches All the Way Down!**](https://www.youtube.com/watch?v=WFI-Yi9Fb7Y) [30:58]
+1. [Franziska Hinkelmann: **JavaScript engines - how do they even?**](https://www.youtube.com/watch?v=p-iiEDtpy6I) [25:13]
+1. [Anjana Vakil: **Immutable data structures for functional JS**](https://www.youtube.com/watch?v=Wo0qiGPSV-s) [26:32]
 
 ## 2016
 1. [Brendan Eich: **JavaScript in 2016: Beyond Harmony**](https://www.oreilly.com/ideas/brendan-eich-javascript-fluent-2016) [15:31]
 1. [André Staltz: **Brains as building blocks**](https://www.youtube.com/watch?v=1ToJ7cxb1R8) [21:26]
 1. [Cheng Lou: **On the Spectrum of Abstraction**](https://www.youtube.com/watch?v=mVVNJKv9esE) [35:31]
+1. [Anjana Vakil: **Learning Functional Programming with JavaScript**](https://www.youtube.com/watch?v=e-5obm1G_FY) [29:56]
+1. [Kyle Simpson: **Advanced Async and Concurrency Patterns in JavaScript**](https://www.youtube.com/watch?v=Qg1SvpIau6U) [39:42]
 
 ## 2015 
 1. Axel Rauschmayer博士：**今天使用ECMAScript 6 ** 

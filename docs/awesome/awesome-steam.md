@@ -6,14 +6,14 @@
 
 *请阅读 [contribution guidelines](https://github.com/scholtzm/awesome-steam/blob/master/CONTRIBUTING.md) 在捐款之前.*
 
- 本文档的目的是提供有关Steam客户端自动化和WebAPI使用的现有软件包（库，模块等）和可用资源的快速概述.  每当您需要开始一个新项目时，请查看软件包列表，看看是否有对您的用例有用的东西.  如果您需要技术细节或教程，请查看参考资料部分.
+本文档的目的是提供有关Steam客户端自动化和WebAPI使用的现有软件包（库，模块等）和可用资源的快速概述. 每当您需要开始一个新项目时，请查看软件包列表，看看是否有任何对您的用例有用的东西. 如果您需要技术细节或教程，请查看参考资料部分.
 
 
 
 
 ## Packages
 
- &gt;这些软件包存储库中的许多存储库都提供了有用的自述文件和Wiki页面，这些页面解释了用法和/或提供了示例.  使用特定包装时，请不要忘记签出它们.
+ &gt;这些软件包存储库中的许多存储库都提供了有用的自述文件和Wiki页面，这些页面解释了用法和/或提供了示例. 使用特定包装时，请不要忘记签出它们.
 
 ### Node.js
 
@@ -34,8 +34,9 @@
 
 - [steam-trade](https://github.com/seishun/node-steam-trade) -围绕Steam实时交易的Node.js包装器.
 - [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) -Node.js的Steam交易优惠.
-- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
+- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) -简单而理智的Steam交易报价管理.
 - [steam-inventory-stream](https://github.com/timvandam/steam-inventory-stream) -以可读流的形式获取清单.
+- [steam-inventory-api-ng](https://github.com/itsjfx/node-steam-inventory-api-ng) -具有高级功能（例如重试和代理支持）的Steam库存API包装器.
 
 #### Game Interaction
 
@@ -46,7 +47,7 @@
 
 #### Community & Store Automation
 
-- [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity)  -与steamcommunity.com进行交互.  还可以确认交易报价.
+- [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity)  -与steamcommunity.com进行交互. 还可以确认交易报价.
 - [steamstore](https://github.com/DoctorMcKay/node-steamstore) -与store.steampowered.com互动.
 - [steam-weblogon](https://github.com/Alex7Kom/node-steam-weblogon) -如果您正在运行Steam网络客户端，请获取SteamCommunity cookie.
 - [steam-web-api-key](https://github.com/Alex7Kom/node-steam-web-api-key) -自动注册并检索Steam API密钥.
@@ -55,7 +56,7 @@
 #### Authentication
 
 - [steam-login](https://github.com/cpancake/steam-login) -简单的连接/ Express Steam身份验证库.
-- [passport-steam](https://github.com/liamcurry/passport-steam) -Passport和Node.js的Steam（OpenID）身份验证策略.
+- [passport-steam](https://github.com/liamcurry/passport-steam) -用于Passport和Node.js的Steam（OpenID）身份验证策略.
 - [meteor-accounts-steam](https://github.com/scholtzm/meteor-accounts-steam) -流星帐户的Steam OpenID集成.
 
 #### Misc
@@ -69,12 +70,13 @@
 - [vdf](https://github.com/RJacksonm1/node-vdf) -以vdf为对象，反之亦然.
 - [steamrep](https://github.com/scholtzm/node-steamrep) -检查用户的SteamRep信誉.
 - [reptf](https://github.com/scholtzm/node-reptf) -检查用户的rep.tf信誉.
+- [steamapis](https://github.com/itsjfx/node-steamapis) -使用API​​的模块 [steamapis.com](https://steamapis.com).
 
 ### C&#35;
 
 #### General
 
-- [SteamKit2](https://github.com/SteamRE/SteamKit) -旨在与Valve的Steam网络进行互操作的.NET库.
+- [SteamKit2](https://github.com/SteamRE/SteamKit) .NET库旨在与Valve的Steam网络进行互操作.
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality.
 - [SteamBot](https://github.com/Jessecar96/SteamBot) -用于与蒸汽交易进行交互的自动化机器人软件.
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) -专注于贸易报价的SteamBot前叉.
@@ -94,7 +96,7 @@
 - [steam-api](https://github.com/DaMitchell/steam-api-php) -Steam API的PHP包装器.
 - [steamid](https://github.com/DoctorMcKay/php-steamid) -PHP的SteamID类.
 - [steam-totp](https://github.com/DoctorMcKay/php-steam-totp) -PHP库，用于处理Steam专有的TOTP算法.
-- [steam-auth](https://github.com/vikas5914/steam-auth) -具有Composer支持的替代Steam身份验证库。
+- [steam-auth](https://github.com/vikas5914/steam-auth) -具有Composer支持的备用Steam身份验证库.
 
 ### Go
 
@@ -108,13 +110,13 @@
 - [steam](https://github.com/ValvePython/steam) -与Steam进行各种互动的模块.
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) -SteamKit的Python端口.
 - [steamodd](https://github.com/Lagg/steamodd) -Steam工具库.
-- [steampy](https://github.com/bukson/steampy) -全自动的Steam交易为带有SteamGuard支持的库提供了支持.
-- [SteamAPI](https://github.com/smiley/steamapi) -面向对象的Python 2.7+库，用于访问Steam Web API.
+- [steampy](https://github.com/bukson/steampy) -全自动Steam交易为带有SteamGuard支持的库提供了支持.
+- [SteamAPI](https://github.com/smiley/steamapi) -用于访问Steam Web API的面向对象的Python 2.7+库.
 - [Steam-Trade](https://github.com/Zwork101/steam-trade) -基于事件的异步交易库.
 
 #### Game Interaction
 
-- [csgo](https://github.com/ValvePython/csgo) -用于与CSGO游戏协调器进行交互的Python模块.
+- [csgo](https://github.com/ValvePython/csgo) -用于与CSGO的游戏协调器进行交互的Python模块.
 - [dota2](https://github.com/ValvePython/dota2) -与Dota 2的游戏协调器进行交互的Python模块.
 
 #### Misc
@@ -124,7 +126,7 @@
 
 ### C++
 
-- [SteamPP](https://github.com/seishun/SteamPP) -用于与Steam服务器进行互操作的C ++库.
+- [SteamPP](https://github.com/seishun/SteamPP) -C ++库可与Steam服务器互操作.
 
 ### Java
 
@@ -169,6 +171,7 @@
 - [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) -检查NetHook2转储的邮件.
 - [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) -直接在网络浏览器中生成2FA代码.
 - [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) -Steam的移动身份验证器应用程序的桌面实现.
+- [protonenv](https://github.com/rizkiarm/protonenv) -简单的Proton版本和前缀管理.
 
 ### Discussion Boards
 
@@ -184,12 +187,12 @@
 
 - [backpack.tf](https://backpack.tf/developer) -提供TF2价格和Steam市场/库存相关服务.
 - [steamanalyst.com](https://steamanalyst.com/) -提供CS：GO价格.
-- [steamapi.io](https://steamapi.io/) -提供几种游戏以及Steam市场/库存相关服务的价格.
-- [steamapis.com](https://steamapis.com/) -提供几种游戏以及Steam市场/库存相关服务的价格.
+- [steamapi.io](https://steamapi.io/) -提供几种游戏的价格以及Steam市场/库存相关服务的价格.
+- [steamapis.com](https://steamapis.com/) -提供几种游戏的价格以及Steam市场/库存相关服务的价格.
 - [steamlytics.xyz](https://steamlytics.xyz/) -提供CS：GO价格和Steam市场/库存相关服务.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，本文的作者和贡献者放弃了本作品的所有版权以及相关或邻近的权利.
+To the extent possible under law, the author and contributors of this text have waived all copyright and related or neighboring rights to this work.

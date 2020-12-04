@@ -11,7 +11,7 @@
   EOSIO软件使企业能够快速构建和部署高性能和高安全性的基于区块链的应用程序.
 </p>
 
-<p>  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论. </p>
+<p>欢迎捐款. 通过拉取请求添加链接或创建问题以开始讨论.</p>
 
 
 
@@ -54,7 +54,7 @@ EOSIO学习资源.
 
 ### Courses, workshops, webinars and books
 
-- [EOSIO Webinars](https://eos.io/webinars/) -官方EOSIO网络研讨会.
+- [EOSIO Webinars](https://eos.io/webinars/) -EOSIO官方网络研讨会.
 - [Learning Blockchain Development with EOS and C++](https://www.udemy.com/learning-blockchain-development-with-eos-and-cpp/) -Udemy课程.
 - [Starting with EOS Blockchain for Developers](https://www.udemy.com/starting-with-eos/) -Udemy课程.
 - [Learn EOS - Crypto Course](http://www.learneosforbeginners.com/) -当然.
@@ -119,14 +119,14 @@ EOSIO学习资源.
 
 ### Block explorers, Voting portals
 
-- [EOS Portal](https://eosportal.io/chain/12/producers)  -第一个EOSIO社区投票门户.  分散友好.
-- [EOS Network Monitor](http://eosnetworkmonitor.io/)  -通过“ CryptoLions”的EOSIO网络监视器.  对开发人员有用.  分散友好.
+- [EOS Portal](https://eosportal.io/chain/12/producers)  -第一个EOSIO社区投票门户. 分散友好.
+- [EOS Network Monitor](http://eosnetworkmonitor.io/)  -通过“ CryptoLions”的EOSIO网络监视器. 对开发人员有用. 分散友好.
 - [eosflare](https://eosflare.io/) -热门的区块浏览器包括资源统计信息，最新的个人资料操作以及有关“最高出价”和“最高投票人”的统计信息.
-- [EOS Tracker](https://eostracker.io/) -开源区块浏览器包括生产者信息和帐户信息.
+- [EOS Tracker](https://eostracker.io/) -开源块浏览器包括生产者信息和帐户信息.
   - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) -官方GitHub.
 - [EOSpark](https://eospark.com/) -最早的区块浏览器之一包括各种统计数据和浏览Jungle Testnet的功能，这对开发人员很有用.
-- [Bloks](https://bloks.io/)  -快速块浏览器，可用于投票.  包括有关块生产者和令牌的信息.
-- [EOSX](https://www.eosx.io/)  -区块浏览器.  支持各种侧链.
+- [Bloks](https://bloks.io/)  -快速块浏览器，可用于投票. 包括有关块生产者和令牌的信息.
+- [EOSX](https://www.eosx.io/)  -区块浏览器. 支持各种侧链.
 - [EOSweb](https://eosweb.net/) -简单的区块浏览器包含前200个帐户信息.
 - [EOS Vote Proxy Research Portal](https://www.alohaeos.com/vote/proxy) -投票代理浏览器.
 - [EOS Explorer](http://explorer.eosvibes.io/) -具有各种统计信息的区块浏览器，尤其有助于查看哪些区块生产者被选为BP，哪些区块生产者为备用BP.
@@ -168,7 +168,7 @@ EOSIO学习资源.
 - [eosnet](https://github.com/SNIKO/eosnet) -.NET库.
 - [EOSRPC API Wrapper for Elixir](https://github.com/BeSpiral/eosrpc-elixir-wrapper) -Elixir库.
 - [React Native EOS](https://github.com/EvaCoop/react-native-eos) -客户端到EOS区块链通信的本地实现.
-- [Transit API for EOS](https://www.eostransit.com/) -通过基于EOSIO的区块链的开源，模块化，简单标准连接签名提供者和dApp.
+- [Transit API for EOS](https://www.eostransit.com/) -通过基于EOSIO的区块链的开源，模块化和简单标准连接签名提供者和dApp.
   - [eosnewyork/eos-transit](https://github.com/eosnewyork/eos-transit) -官方GitHub.
   - [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
 
@@ -191,14 +191,15 @@ EOSIO学习资源.
 - [EOS Factory](http://eosfactory.io/) -基于Python的EOSIO智能合约开发和单元测试框架.
   - [tokenika/eosfactory](https://github.com/tokenika/eosfactory) -官方GitHub.
 - [SwiftyEOS](https://github.com/ProChain/SwiftyEOS) -与Swift交互的EOS框架.
-- [infeos](https://github.com/infiniteXLabs/infeos) -用于开发，构建，部署和单元测试EOSIO dApp的基于JavaScript的框架.
+- [infeos](https://github.com/infiniteXLabs/infeos) -基于JavaScript的EOSIO dApp的开发，构建，部署和单元测试框架.
 - [EOSLIME](https://github.com/LimeChain/eoslime) -类似松露的框架，用于在EOS区块链上进行开发，部署和测试.
 
 
 ### Developer Tools
 
-- [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) -EOSIO.CDT（合同开发工具包）是用于构建EOSIO合同的一套工具.
+- [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) -EOSIO.CDT（合同开发工具包）是用于构建EOSIO合同的一组工具.
 - [EOSIO/ricardian-template-toolkit](https://github.com/EOSIO/ricardian-template-toolkit) -Ricardian合同规范的渲染器.
+- [EOSIO Ethereum Virtual Machine (EVM)](https://github.com/jafri/eosio.evm) -EOSIO上的以太坊虚拟机.
 - [EOS Studio](https://www.eosstudio.io/) -用于EOSIO开发的图形IDE.
 - [EOS Node Tools](https://eosnode.tools/) -该微型站点是想要为EOSIO区块链设置，维护或恢复自己的节点的任何EOS爱好者，dApp开发人员或区块生产商的资源和工具的集合.
 - [eos-helm](https://github.com/activeeos/eos-helm) -EOS智能合约平台的Kubernetes Helm图表.
@@ -223,7 +224,7 @@ EOSIO学习资源.
 ### Code examples
 
 - [eosio.contracts](https://github.com/EOSIO/eosio.contracts) -提供EOSIO区块链的一些基本功能的智能合约.
-- [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) -演示了使用Java EOSIO SDK与基于EOSIO的区块链集成的应用程序.
+- [EOSIO/eosio-java-android-example-app](https://github.com/EOSIO/eosio-java-android-example-app) -演示了使用Java的EOSIO SDK与基于EOSIO的区块链集成的应用程序.
 - [poorman.token](https://github.com/generEOS/poorman.token) -具有刻录和注册功能的EOSIO令牌（用于使令牌RAM便宜）.
 - [EOSEssentials/Scatter-Demos](https://github.com/EOSEssentials/Scatter-Demos) -使用eosjs和Scatter的一组集成演示.
 - [ping-eos](https://github.com/eosasia/ping-eos) -在EOSIO / React.js之间实现ping.
@@ -252,27 +253,27 @@ EOSIO学习资源.
 ### Blogs
 
 - [Daniel Larimer](https://medium.com/@bytemaster) -EOSIO创始人Daniel Larimer的博客.
-- [EOS Go](https://steemit.com/@eosgo)  -EOS Go团队博客.  新闻和学习资源.
-- [Blockgenic](https://medium.com/@blockgenic)  -Blockgenic博客，该公司专注于企业采用区块链技术.  学习资源.
+- [EOS Go](https://steemit.com/@eosgo)  -EOS Go团队博客. 新闻和学习资源.
+- [Blockgenic](https://medium.com/@blockgenic)  -Blockgenic博客，该公司专注于企业采用区块链技术. 学习资源.
 - [cc32d9](https://medium.com/@cc32d9) -cc32d9博客，EOSIO开发人员相关出版物.
 - [Dallas Rushing](https://steemit.com/@dallasrushing) -EOSIO用户相关内容Dallas Rushing的博客.
 - [Iang](https://steemit.com/@iang) -Iang的博客，EOSIO用户和开发人员相关的内容.
 - [EOS Canada](https://steemit.com/@eos-canada) -EOS Canada博客，与用户相关的内容和视频.
-- [Cypherglass](https://steemit.com/@cypherglass)  -Cypherglass博客，与用户相关的内容和视频.  新闻.
+- [Cypherglass](https://steemit.com/@cypherglass)  -Cypherglass博客，与用户相关的内容和视频. 新闻.
 - [EOS New York](https://medium.com/@eosnewyork) -EOS纽约博客，用户和开发人员相关的内容.
-- [greymass](https://busy.org/@greymass)  -Cypherglass博客，与用户相关的内容和文章.  新闻.
-- [EOSFinex product](https://medium.com/eosfinexproject)  -EOSFinex交流博客.  与EOSFinex产品相关的开发人员和新闻内容.
+- [greymass](https://busy.org/@greymass)  -Cypherglass博客，与用户相关的内容和文章. 新闻.
+- [EOSFinex product](https://medium.com/eosfinexproject)  -EOSFinex交流博客. 与EOSFinex产品相关的开发人员和新闻内容.
 
 
 ### YouTube Channels
 
-- [EOS Go](https://www.youtube.com/c/EOSGo)  -ESO Go社区会议，播客，直播.  新闻和讨论.
+- [EOS Go](https://www.youtube.com/c/EOSGo)  -ESO Go社区会议，播客，直播. 新闻和讨论.
 - [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag) -唤醒频道，有关EOSIO平台功能和新闻的讨论.
 - [Investing with a difference](https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w) -EOSIO生态系统概述，新闻和市场讨论.
-- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)  -达拉斯冲刺频道.  与用户相关的内容和新闻.
+- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)  -达拉斯冲刺频道. 与用户相关的内容和新闻.
 - [nsjames](https://www.youtube.com/user/grandmoren1) -分散相关的内容.
 - [Crypto Dunker](https://www.youtube.com/user/clamantfever)  -加密货币Dunker频道.  EOSIO DApps相关的内容和新闻.
-- [EOS Authority](https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw)  -EOS授权.  有用的教程，与开发人员相关.
+- [EOS Authority](https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw)  -EOS授权. 有用的教程，与开发人员相关.
 - [Jackson Kelley](https://www.youtube.com/user/jackodwhacko) -开发人员相关的内容.
 - [CodingWithCrypto](https://www.youtube.com/user/magicmanxpress) -开发人员相关的内容.
 - [Filip Martinsson](https://www.youtube.com/channel/UCyZyNVYEN-54HPYkVVHnRTA) -开发人员相关的内容.
@@ -332,7 +333,7 @@ DApp资源.
 EOSIO专注于交流.
 
 
-- [BancorX](https://eos.bancor.network/)  -分散，空投友好.  第一个跨区块链去中心化流动性网络.  直接从您的钱包转换EOS令牌.
+- [BancorX](https://eos.bancor.network/)  -分散，空投友好. 第一个跨区块链去中心化流动性网络. 直接从您的钱包转换EOS令牌.
 - [Newdex](https://newdex.io/) -分散，空投友好.
 - [DEXEOS](https://dexeos.io/) -分散，测试版，空投友好.
 - [EOSfinex](https://www.eosfinex.com/) -分散，开发中.
@@ -359,7 +360,7 @@ EOSIO前叉.
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/DanailMinchev/awesome-eosio/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/DanailMinchev/awesome-eosio/blob/master/contributing.md) 第一.
 
 
 ## License

@@ -3,7 +3,7 @@
 ## Awesome Vagrant
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
 
-精选的Vagrant资源，插件，教程和其他好东西的精选列表.
+精选的Vagrant资源，插件，教程和其他精彩内容的精选列表.
 
 
 ## Official resources
@@ -25,7 +25,7 @@
 
 ## Provisioning
 
-* [All available build in provisioning providers](https://www.vagrantup.com/docs/provisioning/index.html) -官方文件
+* [All available build in provisioning providers](https://www.vagrantup.com/docs/provisioning) -官方文件
 * [Vaprobash](http://fideloper.github.io/Vaprobash/index.html) -Vagrant Provisioning Bash脚本.
 
 
@@ -40,14 +40,14 @@
 * [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) -一个无用的供应商，可在VM启动时在主机上运行命令.
 * [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  允许直接从来宾VM为VM配置Ansible剧本.
 * [sahara](https://github.com/jedi4ever/sahara) -轻松管理虚拟机状态（在尝试软件堆栈时提交/回退）.
-* [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) -向Vagrant来宾添加“注册”和“取消注册”功能，以便在具有订阅模型（如Red Hat Enterprise Linux）的系统上进行更新.
-* [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) -使您可以更轻松地访问由 [Atomic Developer Bundle (ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle).
+* [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) -向Vagrant来宾添加“注册”和“取消注册”功能，以便在具有订阅模型（例如Red Hat Enterprise Linux）的系统上进行更新.
+* [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) -使您能够更轻松地访问Google提供的功能和服务 [Atomic Developer Bundle (ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle).
 * [vagrant-scp](https://github.com/invernizzi/vagrant-scp) -通过SCP将文件复制到Vagrant VM.
 
 ## Helpers / Tools
 
-* [Packer](https://www.packer.io/)  -用于从单一源配置为多个平台创建相同机器映像的工具.  具有多提供商可移植性的快速基础架构部署.
-* [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) -使用Vagrant在本地复制生产环境的样板文件，用于创建，开发和部署Docker Swarm环境.
+* [Packer](https://www.packer.io/)  -用于从单一源配置为多个平台创建相同机器映像的工具. 具有多提供商可移植性的快速基础架构部署.
+* [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) -使用Vagrant在本地复制生产环境的样板创建，开发和部署Docker Swarm环境.
 * [Veewee](https://github.com/jedi4ever/veewee) -用于轻松（并反复）构建自定义Vagrant基本框，KVM和虚拟机映像的工具.
 * [Vagrant plugin for ZSH shell](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#vagrant) -自动完成命令，任务名称，框名称和内置文档.
 * [CLI Vagrant Manager](https://github.com/MunGell/vgm) -简单的命令行工具来管理多个无用的盒子
@@ -85,12 +85,13 @@
 * [Working with Advanced Vagrant features in PhpStorm.](http://confluence.jetbrains.com/display/PhpStorm/Working+with+Advanced+Vagrant+features+in+PhpStorm)
 * [Sharing Your Virtual Machine on the Web with Vagrant Share](https://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share).
 * [Programming Community Curated Resources for Learning Vagrant](https://hackr.io/tutorials/learn-vagrant)
+* [Vagrant Online Courses at Classpert](https://classpert.com/vagrant) 无业游民在线课程清单（免费和付费）
 
 ## Books
 
-* [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837) 由桥本（Mitchell Hashimoto）设计.
-* [Vagrant CookBook](https://leanpub.com/vagrantcookbook) 埃里卡·海蒂（Erika Heidi）撰写.
-* [Pro Vagrant](https://www.amazon.com/Pro-Vagrant-Wlodzimierz-Gajda/dp/1484200748/) 给Wlodzimierz Gajda.
+* [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837) 由桥本（Mitchell Hashimoto）提供.
+* [Vagrant CookBook](https://leanpub.com/vagrantcookbook) 埃里卡·海蒂（Erika Heidi）.
+* [Pro Vagrant](https://www.amazon.com/Pro-Vagrant-Wlodzimierz-Gajda/dp/1484200748/) 由Wlodzimierz Gajda.
 * [Creating Development Environments with Vagrant](http://shop.oreilly.com/product/9781849519182.do) / [2nd Edition](http://shop.oreilly.com/product/9781784397029.do) 迈克尔·孔雀（Michael Peacock）
 * [Vagrant Virtual Development Environment Cookbook](http://shop.oreilly.com/product/9781784393748.do) 乍得汤普森（Chad Thompson）
 
@@ -99,7 +100,7 @@
 * [Vagrantpress](https://github.com/vagrantpress/vagrantpress) -用于创建和修改WordPress网站的开发环境.
 * [Varying Vagrant Vagrants](https://github.com/Varying-Vagrant-Vagrants/VVV) -专注于WordPress开发的开源Vagrant配置.
 * [Joomla-Vagrant](https://github.com/joomlatools/joomlatools-vagrant).
-* [VDD](https://www.drupal.org/project/vdd) -无家可归的Drupal开发.
+* [VDD](https://www.drupal.org/project/vdd) -无所事事的Drupal开发.
 * [Drupal VM](https://www.drupalvm.com/) -使用Vagrant + Ansible构建的用于本地Drupal开发的VM
 * [Try Yii2](https://github.com/iJackUA/try-yii2) -尝试使用带有Vagrant VM的Yii2 + Ansible置备=完整的现成虚拟服务器游乐场.
 * [Laravel4-Vagrant](https://github.com/bryannielsen/Laravel4-Vagrant) -在带有PHP 5.5的Ubuntu 12.04 Vagrant虚拟机中运行Laravel 4.

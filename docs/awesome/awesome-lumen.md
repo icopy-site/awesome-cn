@@ -4,11 +4,11 @@
 
 &gt;精选的资源清单：有关使用Lumen的书籍，视频，文章（Laravel的PHP Microframework）
 
-*灵感来自 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  您可能还喜欢 [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
+*灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 您可能还喜欢 [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
 *请阅读 [contribution guidelines](#guidelines) 在捐款之前.*
 
-**检查我 [blog](https://goodheads.io) 或说“嗨” [Twitter](https://twitter.com/unicodeveloper).**
+**检查我 [blog](https://goodheads.io) 或者说“嗨” [Twitter](https://twitter.com/unicodeveloper).**
 
 
 
@@ -31,7 +31,6 @@
 * [Build an API with Lumen and Fractal](http://laravelista.com/build-an-api-with-lumen-and-fractal/)
 * [Developing a microservice with Lumen](http://goodheads.io/2015/06/19/developing-a-micro-service-with-lumen/)
 * [Json Web token authentication for Lumen](https://laravelista.com/posts/json-web-token-authentication-for-lumen)
-* [How to use Lumen](http://codelution.com/resource/framework/how-to-use-lumen-by-laravel/)
 * [Creating Your First Artisan Command in Lumen 5.5](https://www.codementor.io/seyiadeleke42/creating-your-first-artisan-command-in-lumen-5-5-cvi59gmgl)
 
 ### Videos
@@ -50,7 +49,7 @@
 * [Understand Lumen](https://github.com/understand/understand-lumen) -Understand.io的Laravel Lumen服务提供商
 * [Badge Poser](https://github.com/vluzrmos/laravel-badge-poser) -流明徽章生成器
 * [Cors Illuminate](https://github.com/neomerx/cors-illuminate) -对Laravel和Lumen的CORS（跨源资源共享）支持
-* [Jwt Artisan](https://github.com/generationtux/jwt-artisan) -Laravel和Lumen的JWT身份验证
+* [Jwt Artisan](https://github.com/generationtux/jwt-artisan) -Laravel和Lumen的JWT认证
 * [Facebook SDK](https://github.com/SammyK/LaravelFacebookSdk) -适用于Laravel和Lumen的Facebook SDK
 * [Lumen Generators](https://github.com/webNeat/lumen-generators) -Lumen和Laravel 5发电机组.
 * [Dingo API](https://github.com/dingo/api) -用于Laravel和Lumen框架的RESTful API软件包.
@@ -84,7 +83,7 @@
 
 
 ## Contributing
- 找到了很棒的包裹，文章，博客，视频等？  给我发送请求！  只要遵循准则
+找到了很棒的包裹，文章，博客，视频等？ 给我发送请求！ 只要遵循准则
 
 #### Guidelines
 

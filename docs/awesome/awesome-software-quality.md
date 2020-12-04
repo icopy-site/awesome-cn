@@ -11,22 +11,16 @@
 
 <img src="https://raw.githubusercontent.com/ligurio/awesome-software-quality/master/sqaunderhood-logo.svg?sanitize=true" align="left" alt="sqaunderhood logo" width="100" style="padding: 10px;"/>
 
--电报：https：//t.me/sqaunderhood
--Twitter：https：//twitter.com/sqaunderhood
--Facebook：https：//www.facebook.com/sqaunderhood/
--VK：https：//vk.com/sqaunderhood
+- [Telegram](https://t.me/sqaunderhood)/sqaunderhood
+- [Twitter](https://twitter.com/sqaunderhood)/sqaunderhood
+- [Facebook](https://www.facebook.com/sqaunderhood)/sqaunderhood
+- [VK](https://vk.com/sqaunderhood)/sqaunderhood
 
-### Introduction
-
-This [wiki](https://github.com/ligurio/awesome-software-quality/wiki) 为考虑使用软件测试和正式方法的任何人收集资源. 
-    
-如果您想添加一些内容，只需将您希望显示的文本发送到estetus@gmail.com，最好已将其设置为markdown格式.
-
-克隆Wiki：`git clone https：// github.com / ligurio / awesome-software-quality.wiki.git`
+## Explore [Wiki](https://github.com/ligurio/awesome-software-quality/wiki)
 
 ### License
 
 [![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Sergey Bronnikov](https://bronevichok.ru) 已
+在法律允许的范围内， [Sergey Bronnikov](https://bronevichok.ru) 具有
 放弃了此作品的所有版权以及相关或邻近的权利.

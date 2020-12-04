@@ -10,12 +10,17 @@
 
 ---
 
+### Support
+<a href="https://www.buymeacoffee.com/maksimabramchuk"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"  target="_blank"></a>
+
+---
+
 <div align="center">
 	<p>
 		<a href="https://triplebyte.com/a/TfjWb6Y/d">
 			<b>找工作？</b>
 			<br>
-			 无需简历.  只要证明您可以编码即可.
+			无需简历. 只要证明您可以编码即可.
 			<br>
 			<div>
 				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
@@ -31,7 +36,7 @@
     <p>
         <a href="https://www.fullstack.cafe/?utm_source=github&utm_medium=awint">
             <b>有技术面试吗？</b>
-            <br>  3600技术面试问题.  回答 .
+            <br> 3600技术面试问题. 回答.
             <br>
             <div>
                 <img src="https://user-images.githubusercontent.com/13550565/76382460-cc784d80-6393-11ea-8837-2b89265ac853.png" width="260" alt="FullStack.Cafe">
@@ -78,7 +83,7 @@
 * [A list of helpful Angular related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/Yonet/Angular-Interview-Questions)
 * [Angular 2 Interview Questions](https://www.onlineinterviewquestions.com/angular2-interview-questions/)
 * [List of 300 Angular Interview Questions and Answers](https://github.com/sudheerj/angular-interview-questions)
-
+* [Angular Interview Questions (2020)](https://www.interviewbit.com/angular-interview-questions/)
 
 ### BackboneJS
 
@@ -96,7 +101,7 @@
 * [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
 * [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
 * [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
-* [25 Fundamental C++ Interview Questions](https://pangara.com/blog/cplusplus-interview-questions)
+* [25 Fundamental C++ Interview Questions](https://pangara.com/blog/blogcplusplus-interview-questions/)
 
 ### C
 
@@ -258,6 +263,7 @@
 * [Front end interview handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/)
 * [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide)
+* [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/)
 
 ### jQuery
 

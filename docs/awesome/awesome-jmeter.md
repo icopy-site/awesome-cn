@@ -2,13 +2,13 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选的资源涵盖 [Apache JMeter](https://jmeter.apache.org/) 以及相关的东西和闪亮的东西：插件，集成，测试技术，开发实践等.
+精选的资源涵盖 [Apache JMeter](https://jmeter.apache.org/) 以及相关的东西和闪亮的东西：插件，集成，测试技术，devops实践等.
 
 [<img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/assets/images/jmeter-logo.svg?sanitize=true" align="right" width="260" alt="Apache JMeter">](https://jmeter.apache.org/)
 
-&gt; [Apache JMeter](https://jmeter.apache.org/) 是开放源代码的纯Java应用程序，旨在加载测试功能行为并衡量性能.
+&gt; [Apache JMeter](https://jmeter.apache.org/) 是开源的纯Java应用程序，旨在加载测试功能行为并衡量性能.
 
-这个名单是从 [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) 从Stack Exchange和与JMeter相关的个人链接收集中获得了更多灵感 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTORS.md).
+这个名单是从 [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) 从Stack Exchange和与JMeter相关的个人链接收集中获得了进一步的启发 [awesome](https://awesome.re) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTORS.md).
 
 
 
@@ -46,7 +46,7 @@
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
 - [How to Hit Your RESTful Web Service Using JMeter](https://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
-- [JMeter: Load Development LifeCycle](https://gerardnico.com/jmeter/lifecycle)
+- [JMeter: Load Development LifeCycle](https://datacadamia.com/jmeter/lifecycle)
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter)
 - [JMeter Tutorial](https://www.guru99.com/jmeter-tutorials.html) -作者：Guru99.
 - [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
@@ -68,21 +68,23 @@
 
 ### DSL
 
-- [RubyJMeter](https://github.com/flood-io/ruby-jmeter) -用于构建JMeter测试计划的基于Ruby的DSL.
+- [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) -用于构建JMeter测试计划的基于Ruby的DSL.
+- [jmeter-java-dsl](https://github.com/abstracta/jmeter-java-dsl) -简单的API，以VCS和程序员友好的方式运行JMeter性能测试.
+- [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) -Groovy-JMeter项目是用于编写JMeter测试计划的简单DSL.
 
 ### Packages
 
-- [loadtest](https://github.com/tmobile/loadtest) -使用JMeter进行负载测试的R包.
+- [loadtest](https://github.com/tmobile/loadtest) -用于使用JMeter进行负载测试的R软件包.
 
 ### Frameworks
 
-- [Lightning](https://automatictester.github.io/lightning/) -将JMeter非功能测试与CI / CD服务器集成的框架.
 - [Taurus](https://gettaurus.org/) -自动化友好的连续测试框架.
-
-### Other
-
+- [Performance testing framework](https://github.com/serputko/performance-testing-framework) -使用Apache JMeter进行后端负载测试和使用sitespeed.io + webpagetest私有实例进行前端负载测试的框架.
 - [JMeter Load Testing Center](https://github.com/innogames/JMeter-Control-Center) -在线Web应用程序/仪表板，用于使用JMeter运行，监视和分析负载测试的结果.
-- [Performance testing framework](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
+
+### Conversion
+
+- [swaggerjmx](https://github.com/Pactortester/swaggerjmx) -将Swagger UI规范转换为JMeter测试计划的工具.
 
 ## CI
 
@@ -90,12 +92,13 @@
 
 - [JMeter Ant Task](https://github.com/jfifield/ant-jmeter) -Ant任务可自动运行JMeter测试计划.
 - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) -Maven插件，可以在构建过程中运行JMeter测试.
-- [Jenkins Performance Plugin](https://plugins.jenkins.io/performance/) -Jenkins插件可捕获来自JMeter的报告，并生成具有性能和鲁棒性趋势报告的图形图表.
+- [Jenkins Performance Plugin](https://plugins.jenkins.io/performance/) -Jenkins插件可捕获JMeter的报告并生成具有性能和鲁棒性趋势报告的图形图表.
 - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) -TeamCity插件可以在CI中组织最简单的性能测试*（没有更多更新）*.
 - [Bamboo JMeter Aggregator Plugin](https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo) -Bamboo插件，用于收集，声明和绘制JMeter测试结果.
-- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) -收集JMeter性能测试结果并显示在Sonar仪表板*（已弃用）*中的插件.
+- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) -收集JMeter性能测试结果并显示在Sonar仪表板中的插件*（已弃用）*.
 - [Lightning](https://automatictester.github.io/lightning/) -将JMeter非功能测试与CI / CD服务器集成的框架.
-- [Taurus](https://gettaurus.org/docs/JMeter/) -Taurus自动化框架中的JMeter执行器.
+- [Taurus JMeter Executor](https://gettaurus.org/docs/JMeter/) -Taurus自动化框架中的JMeter执行器.
+- [PerfAction for JMeter](https://github.com/marketplace/actions/perfaction-for-jmeter) -GitHub Action，使用Apache JMeter及其插件运行性能测试.
 
 ### Tutorials & Demo
 
@@ -118,7 +121,7 @@
   - [How to Run JMeter Tests with TeamCity for Continuous Integration](https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
 -CircleCI
   - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/how-to-integrate-jmeter-into-circleci/)
--SonarQube
+- SonarQube
   - [JMeter with Sonar](http://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
 
 ## Distributed Testing
@@ -143,7 +146,7 @@
   -DigitalOcean
     - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) -使用DigitalOcean，JMeter和Docker构建自己的JMeter Cloud.
   -Microsoft Azure
-    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) -可扩展的云负载/压力测试管道解决方案，使用Apache JMeter和Terraform来动态配置和销毁Azure上所需的基础结构.
+    - [Load Testing Pipeline with JMeter, ACI and Terraform](https://github.com/Azure-Samples/jmeter-aci-terraform) -可扩展的云负载/压力测试管道解决方案，使用Apache JMeter和Terraform在Azure上动态配置和销毁所需的基础架构.
 
 ## Cloud Services / SaaS
 
@@ -151,7 +154,7 @@
 
 - [CA BlazeMeter](https://www.blazemeter.com/) -具有JMeter和Selenium支持的性能工程平台.
 - [OctoPerf](https://octoperf.com/) -具有JMeter和Selenium支持的Saas和本地负载测试工具.
-- [Tricentis Flood](https://flood.io/) -带有JMeter，Gatling和Selenium方案支持的负载测试服务.
+- [Tricentis Flood](https://www.flood.io/) -带有JMeter，Gatling和Selenium方案支持的负载测试服务.
 - [RedLine13](https://redline13.com/) -基于AWS的负载测试服务，支持JMeter，Gatling和Selenium方案.
 - [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) -基于Micro Focus的基于云的解决方案，用于Web和移动性能测试，具有JMeter和Gatling支持（以前称为HP StormRunner Load）.
 - [Loadster](https://loadster.app/) -用于分发Web应用程序和服务的负载测试的解决方案.
@@ -167,18 +170,20 @@
 - [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
 - [BlazeMeter Sense](https://sense.blazemeter.com/) -用于存储和分析性能测试结果的服务.
+- [JtlReporter](https://github.com/ludeknovy/jtl-reporter) -在线报告应用程序，通过上传JTL文件来生成报告.
 - [JAnalyser](http://janalyser.com/) -基于浏览器的结果分析工具.
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) -解析JMeter测试结果并生成带有图表的详细报告的Maven插件.
 - [JMeter Results Analyser](https://sourceforge.net/projects/jmstats/) -基于Web的应用程序，用于整理，分析和报告JMeter测试结果.
 -数据库结果收集器
   - [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) -插件可将结果记录到数据库中，以实现更有效的报告.
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) -修补程序，以配置侦听器以登录到MySQL数据库.
+- [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) -基于JAMon的JMeter HTML报告生成器.
 
 ### Results Visualisation
 
 -石墨-* TBD *.
 -InfluxDB和Grafana
-  - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) -使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
+  - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) -收集使用InfluxDB和Grafana收集和可视化实时测试结果和服务器监视统计信息的指南.
   - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
   -Grafana仪表板
     - [JMeter Load Test Dashboard](https://grafana.com/grafana/dashboards/1152) -Grafana仪表板显示JMeter（由NovaTec-APM提供）提供的实时负载测试指标.
@@ -212,7 +217,7 @@
 
 - [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 - [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
-- [Load testing HLS with Ruby JMeter](https://flood.io/blog/load-testing-hls-with-ruby-jmeter)
+- [Load testing HLS with Ruby JMeter](https://www.flood.io/blog/load-testing-hls-with-ruby-jmeter)
 - [Media Live Streaming Load Testing with JMeter](https://www.blazemeter.com/live-streaming/) -BlazeMeter的文章集（[HLS](https://www.blazemeter.com/hls/), [RTMP](https://www.blazemeter.com/rtmp/)，WS，播客等）.
 - [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin)
 
@@ -222,17 +227,21 @@
 - [Load Testing Mobile Apps Made Easy](https://www.blazemeter.com/blog/load-testing-mobile-apps-made-easy/)
 - [Performance Testing for Native Mobile Apps](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps/)
 
+### Mainframe Environments
+
+- [JMeter RTE Plugin](https://github.com/Blazemeter/RTEPlugin) -JMeter RTE（远程终端仿真器协议）插件，用于测试大型机应用程序.
+
 ### Correlation
 
-- [Correlation Recorder plugin](https://github.com/Blazemeter/CorrelationRecorder) -JMeter插件，可通过在记录时提供变量的自动关联来简化具有动态变量的应用程序的记录过程.
-- [Siebel CRM plugin](https://github.com/Blazemeter/SiebelPlugin) -JMeter插件通过在记录时*（不推荐使用）*提供变量的自动关联来简化Siebel CRM应用程序的脚本.
-- [ULP Auto-correlator plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) -适用于Oracle和基于Vaadin的应用程序的商业插件 [Ubik Load Pack](#plugins).
+- [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) -JMeter插件，可通过在记录时提供变量的自动关联来简化具有动态变量的应用程序的记录过程.
+- [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) -JMeter插件通过在记录时*（不推荐使用）*提供变量的自动关联来简化Siebel CRM应用程序的脚本.
+- [ULP Auto-correlator Plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) -适用于Oracle和基于Vaadin的应用程序的商业插件 [Ubik Load Pack](#plugins).
 
 ## APM Integration
 
 与应用程序性能监视（APM）工具集成，以分析应用程序服务器，数据库服务器和Web服务的性能.
 
-- [Servers Performance Monitoring Plugin](https://jmeter-plugins.org/wiki/PerfMon/) -来自的服务器监控插件 [JMeter Plugins](https://jmeter-plugins.org/) 项目.
+- [Servers Performance Monitoring Plugin](https://jmeter-plugins.org/wiki/PerfMon/) -来自的服务器监控插件 [JMeter Plugins](#plugins) 项目.
 - [CA App Synthetic Monitor](https://asm.ca.com/en/feature/transaction-monitoring-web-application-testing.html) -带有JMeter支持的事务监视和测试解决方案.
 -动态痕迹
   - [Dynatrace and JMeter integration](https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/test-automation-frameworks/dynatrace-and-jmeter-integration/)
@@ -243,7 +252,7 @@
 ## Plugins
 
 - [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) -可用插件和扩展列表.
-- [JMeter Plugins](https://jmeter-plugins.org/) -Apache JMeter的独立插件集，其中的插件管理器引用了许多插件并简化了安装.
+- [JMeter Plugins](https://jmeter-plugins.org/) -Apache JMeter的独立插件集，其中插件管理器引用了许多插件并简化了安装.
 - [Ubik Load Pack](https://ubikloadpack.com/) -Apache JMeter的生产力扩展.
 
 ## Extending JMeter
@@ -266,7 +275,7 @@
 
 *除标准JMeter GUI和XML编辑器外，还提供JMX文件的替代编辑器.
 
-- [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) -用于JMeter测试计划文件的基于Web的查看器和编辑器（ [JMeter Plugins](https://jmeter-plugins.org/) 项目）.
+- [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) -基于Web的JMeter测试计划文件查看器和编辑器（ [JMeter Plugins](#plugins) 项目）.
 - [JMX Enhancer](https://www.jmxenhancer.com/) -加快JMeter测试计划准备的解决方案.
 - [jmx.js](http://www.vinodkd.org/jmx.js/) -JMeter JMX文件的基于Web的编辑器*（没有更多更新）*.
 
@@ -275,24 +284,23 @@
 - [JMeter Performance](https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance) -JMeter跨版本的性能演变.
 - [JMeter Performance and Tuning Tips](https://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) -由Ubik Ingenierie提供.
 - [JMeter Performance and Tuning Tips](https://www.blazemeter.com/blog/jmeter-performance-and-tuning-tips) -BlazeMeter.
-- [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) -最流行的脚本机制性能比较.
 
 ## Tips & Tricks
 
 - [JMeter tips](http://www.webwob.com/html/jmeter_tips.html) -JMeter便笺簿技巧.
 
 ## Books
-
-- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) -艾米丽·H·哈利利（[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)).
-- [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29) ）;  如何使用Apache JMeter来测试Web应用程序的指南，以及实际的示例.
-- [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition)).
-- [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition)).
-- [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook) ）;  70个有见地和实用的食谱，可帮助成功使用Apache JMeter.
-- [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) -通过Sai Matam和Jagdeep Jain（[Leanpub](https://leanpub.com/jmeterbyexample) ）;  一个简单，实用的分步教程来衡量网站的性能.
-- [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) -通过Sai Matam和Jagdeep Jain（[Apress](https://www.apress.com/gp/book/9781484229606)).
-- [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) -作者：安东尼奥·戈麦斯·罗德里格斯，布鲁诺·德米翁（Milamber）和菲利普·莫瓦（Philippe Mouawad）（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/programming/master-apache-jmeter-from-load-testing-to-devops)).
+<!--lint ignore double-link-->
+- [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) -艾米丽·H·哈利利（[Packt Publishing](https://www.packtpub.com/product/apache-jmeter/9781847192950)).
+- [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-2-9/9781782165842) ）; 如何使用Apache JMeter测试Web应用程序的指南，以及一些实际的示例.
+- [Performance Testing with JMeter, 2nd Edition](https://books.google.com/books?id=6ditCAAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-second-edition/9781784394813)).
+- [Performance Testing with JMeter 3, 3rd Edition](https://books.google.com/books?id=BedDDwAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-3-third-edition/9781787285774)).
+- [JMeter Cookbook](https://books.google.com/books?id=gJUeBQAAQBAJ) -巴约·艾琳（[Packt Publishing](https://www.packtpub.com/product/jmeter-cookbook/9781783988280) ）;  70个有见地和实用的食谱，可帮助成功使用Apache JMeter.
+- [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) -赛马塔姆（Sai Matam）和贾格迪普（Jagdeep Jain）（[Leanpub](https://leanpub.com/jmeterbyexample) ）; 一个简单，实用的分步教程来衡量网站的性能.
+- [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) -赛马塔姆（Sai Matam）和贾格迪普（Jagdeep Jain）（[Apress](https://www.apress.com/gp/book/9781484229606)).
+- [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) -作者：安东尼奥·戈麦斯·罗德里格斯，布鲁诺·德米翁（Milamber）和菲利普·莫瓦（Philippe Mouawad）（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/product/master-apache-jmeter-from-load-testing-to-devops/9781839217647)).
 - [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) -作者：安东尼奥·戈麦斯·罗德里格斯，布鲁诺·德米翁（Milamber）和菲利普·莫瓦（Philippe Mouawad）（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)）*（法语）*.
-- [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) -潘妮·库里奇（Penny Curich（[Leanpub](https://leanpub.com/advanced_jmeter_testing)），指导编写针对Apache JMeter 5.0的自定义组件.
+- [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) -由Penny Curich（[Leanpub](https://leanpub.com/advanced_jmeter_testing)），指导编写针对Apache JMeter 5.0的自定义组件.
 
 ## Trainings & Courses
 
@@ -303,7 +311,7 @@
 - [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) -由ABSoft培训.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) -由实用测试实验室提供.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) -由Ubik Ingenierie提供.
-- [Apache JMeter Testing Courses](https://qainsights.com/services/) -由QAInsights提供.
+- [Apache JMeter Testing Courses](https://qainsights.com/services/) -通过QAInsights.
 - [JMeter Getting Started Course](https://www.pluralsight.com/courses/jmeter-getting-started) -通过Pluralsight.
 
 ## Community
@@ -314,7 +322,7 @@
 - [Ubik Load Pack Blog](https://www.ubik-ingenierie.com/blog/category/jmeter/) -Ubik Ingenierie博客.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) -有关测试自动化的技术博客.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) -RedLine13博客中的JMeter文章.
-- [Flood.io Blog](https://flood.io/blog) -从Flood IO加载测试思想，故事和想法.
+- [Flood.io Blog](https://www.flood.io/blog) -从Flood IO加载测试思想，故事和想法.
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) -另一个使用JMeter进行性能和自动化测试的博客.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) -关于JMeter和负载测试的OctoPerf博客.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) -关于JMeter的Abstracta博客.
@@ -322,7 +330,7 @@
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) -JMeterExpert博客*（没有更多更新）*.
 
 ### Forums
-
+<!--lint ignore double-link-->
 - [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 - [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
 - [JMeter Nabble Forum](http://www.jmeter-archive.org/)
@@ -345,18 +353,17 @@
 
 - [JMeter @ Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
 - [JMeter Slack workspace](https://jmeterusers.slack.com/)
-- [JMeter Spectrum community](https://spectrum.chat/jmeter)
 - [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
 
 ## Related
 
 ### Awesome Lists
 
-- [Awesome](https://github.com/sindresorhus/awesome) -真棒列表的原始真棒列表.
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) -惊人的超赞的精选列表.
+- [Awesome](https://github.com/sindresorhus/awesome) -原始列表的原始列表.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) -惊人的超赞的精选清单.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) -免费软件测试和验证资源列表.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) -精选的测试资源列表.
-- [Awesome Page Speed Metrics](https://github.com/palfi-ltd/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
+- [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) -有助于了解页面速度和用户体验的指标.
 - [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) -Web性能优化的精选列表.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) -可扩展，可靠和高性能的大型系统的模式.
 - [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) -网站可靠性和生产工程资源的精选列表.
@@ -367,9 +374,7 @@
 
 ## Contributing
 
-欢迎捐款！ <br>
+欢迎捐款！<br>
 请看看 [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTING.md) 第一.
-
-## License
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>

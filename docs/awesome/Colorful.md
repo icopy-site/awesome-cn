@@ -6,13 +6,14 @@
 
 ## Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 __精选的精选资源清单，供您选择下一个配色方案.
-受启发 __[awesome](https://github.com/sindresorhus/awesome)_ _清单.  请阅读 __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__贡献之前.
+受启发 __[awesome](https://github.com/sindresorhus/awesome)_ _清单. 请阅读 __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__贡献之前.
 
 
 ## Tools
 
 #### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) -用于处理颜色的JavaScript库.
+- [pigment](https://github.com/satya164/pigment) -颜色信息，转换和操作库
 - [GradStop.js](https://github.com/Siddharth11/gradStop.js) -生成渐变色停止.
 - [Colorable](http://jxnblk.com/colorable/) -调色板组合对比度测试仪.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) -从图像中提取主色并应用于其父级（jQuery插件）.
@@ -21,7 +22,7 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [Colorify.js](https://github.com/LukyVj/Colorify.js) -简单，可自定义的小型JavaScript颜色提取器.
 - [Colofilter.css](https://github.com/LukyVj/colofilter.css) -用CSS制成的双色调过滤器.
 - [Polychrome](https://github.com/cdonohue/polychrome) -一个用于解析和处理颜色的小型库.
-- [Palettable](https://github.com/jiffyclub/palettable) -Palettable（以前是brewer2mpl）是Python调色板的库
+- [Palettable](https://github.com/jiffyclub/palettable) -Palettable（以前称为brewer2mpl）是Python调色板的库
 - [picocli](http://picocli.info/) -用于创建具有ANSI颜色和样式的Java命令行应用程序的小型库.
 - [granim.js](https://github.com/sarcadass/granim.js) -创建流体和交互式渐变动画.
 - [tinygradient](https://github.com/mistic100/tinygradient) -快速和小的渐变操作.
@@ -54,7 +55,7 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [Shutterstock Spectrum](http://www.shutterstock.com/labs/spectrum/) -通过光谱按颜色搜索图像.
 - [ColRD](http://colrd.com/) -创建并与世界分享色彩灵感.
 - [CheckMyColours](http://www.checkmycolours.com/) -检查所有DOM元素的颜色组合以获得足够的对比度.
-- [Contrast-A](http://www.dasplankton.de/ContrastA/) -检查颜色组合以获得可接受的对比度和显示.
+- [Contrast-A](http://www.dasplankton.de/ContrastA/) -检查颜色组合是否可以接受对比度和显示.
 - [Palettable](http://www.palettable.io/) -在没有事先设计知识的情况下生成漂亮的调色板.
 - [Colorgorical](http://vrl.cs.brown.edu/color) -生成n种颜色的调色板.
 - [Color Library](http://colorlibrary.ch/) -自动分色.
@@ -65,6 +66,7 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [geenes](https://geenes.app/) -在几秒钟内创建一个色标，然后将其导出到草图或代码中.
 - [Tints and Shades](https://maketintsandshades.com/) -以10％的增量显示给定十六进制颜色的色调和阴影.
 - [Sorted colors](https://enes.in/sorted-colors/) -对命名的CSS颜色进行排序，使其一起显示相关颜色.
+- [Croma](https://croma.app) -从图像和颜色生成调色板
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) -具有快速预览功能的调色板.
@@ -81,7 +83,8 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [Color Lisa](http://www.colorlisa.com/) -世界上最伟大的艺术家的调色板杰作.
 - [Cohesive Colors](http://javier.xyz/cohesive-colors/) -创建具有凝聚力的配色方案的工具.
 - [Colordrop](https://colordrop.io/) -外观精美的调色板的集合.
-- [Open Color](https://yeun.github.io/open-color/) -颜色经过十色和近视测试.
+- [ColorsWall](https://colorswall.com/) -存放调色板和生成工具的地方.
+- [Open Color](https://yeun.github.io/open-color/) -颜色经过了十度和近视的测试.
 - [ColorClaim](http://www.vanschneider.com/colors) -微妙的色彩组合.
 - [Color Farm](http://color.farm/) -从流行的Dribbble镜头中精选的颜色.
 - [WebGradients](https://webgradients.com/) -免费收集180个线性渐变.
@@ -123,7 +126,8 @@ __精选的精选资源清单，供您选择下一个配色方案.
 - [Cubehelix, or How I Learned to Love Black & White Printers](http://www.ifweassume.com/2013/05/cubehelix-or-how-i-learned-to-love.html)
 - [A colour scheme for the display of astronomical intensity images](http://adsabs.harvard.edu/abs/2011BASI...39..289G)
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-图片积分- [Aleks和ar Savić](https://dribbble.com/almigor) 和 [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
+<br>
+<br>
+
+### Image credits
+[Aleks和ar Savić](https://dribbble.com/almigor) 和 [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).

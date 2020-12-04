@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="avajs/awesome-ava"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
-> [AVA](https://ava.li) 是极简主义和未来派的JavaScript测试人员
+> [AVA](https://avajs.dev) 是一个最小化和未来派的JavaScript测试运行程序
 
 
 
@@ -15,15 +15,14 @@
 ## Videos
 
 - [JavaScript Air episode with the AVA team](http://jsair.io/ava)
-- [AVA Casts](http://avacasts.com) -关于AVA的简短屏幕录像.
 - [Testing React components with AVA](https://www.youtube.com/watch?v=RxLW6-3dk5A)
 
 ## Packages
 
 - [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) -ESLint规则.
-- [ava-codemods](https://github.com/jamestalmage/ava-codemods) -简化升级到较新版本的Codemod.
+- [ava-codemods](https://github.com/jamestalmage/ava-codemods) -Codemods，简化了升级到较新版本的过程.
 - [sublime-ava](https://github.com/avajs/sublime-ava) -崇高的片段.
-- [atom-ava](https://github.com/avajs/atom-ava) -Atom片段.
+- [atom-ava](https://github.com/avajs/atom-ava) -Atom的摘要.
 - [vscode-ava](https://github.com/samverschueren/vscode-ava) -Visual Studio Code的代码段.
 - [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) -Vim片段.
 - [redux-ava](https://github.com/sotojuan/redux-ava) -测试Redux的帮助程序.
@@ -33,7 +32,6 @@
 - [fly-ava](https://github.com/pine/fly-ava) -使用Fly运行测试.
 - [start-ava](https://github.com/start-runner/ava) -使用“开始”运行测试.
 - [sigh-ava](https://github.com/unlight/sigh-ava) -叹气进行测试.
-- [ava-rethinkdb](https://github.com/rrdelaney/ava-rethinkdb) -RethinkDB的测试助手.
 - [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) -测试 [ESLint](https://github.com/eslint/eslint) AVA的插件.
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) -测试 [jscodeshift](https://github.com/facebook/jscodeshift) 带AVA的codemods.
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) -设置AVA for Preact.
@@ -49,7 +47,7 @@
 - [Spectron](https://github.com/electron/spectron#with-ava) -使用AVA和ChromeDriver测试Electron应用程序.
 - [Chūhai](https://github.com/Hypercubed/chuhai) -使用AVA和Benchmark.js运行并验证基准.
 - [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) -内存泄漏测试.
-- [pify](https://github.com/sindresorhus/pify) -承诺回调样式的函数以进行更好的测试. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
+- [pify](https://github.com/sindresorhus/pify) -承诺回调样式的函数，以进行更好的测试. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6)
 - [p-event](https://github.com/sindresorhus/p-event) -承诺一个事件. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44)
 - [execa](https://github.com/sindresorhus/execa) -测试您的CLI工具. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6)
 - [delay](https://github.com/sindresorhus/delay) -增加测试延迟. [(Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39)

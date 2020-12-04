@@ -2,15 +2,15 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- 在计算机科学中，人工智能（AI）是机器演示的智能.  AI的定义是将AI研究视为“智能代理”的研究：能感知其环境并采取行动以实现其目标的任何设备.  al（2016）_.   
+在计算机科学中，人工智能（AI）是机器演示的智能. 定义为AI研究是对“智能代理”的研究：任何感知其环境并采取行动以实现其目标的设备.  al（2016）_.   
 
- 通常，数据挖掘（DM）是在数据集（或数据集）中发现模式的过程，其中涉及机器学习，统计和数据库系统的方法；  DM专注于提取数据集的信息_Han（2011）_.  
+通常，数据挖掘（DM）是在数据集（或数据集）中发现模式的过程，其中涉及机器学习，统计和数据库系统的方法；  DM专注于提取数据集的信息_Han（2011）_.  
 
- 该存储库为想要使用数字游戏中应用的“人工智能”或“数据挖掘”的任何人提供指南！  在这里，您将找到一系列可用于构建_application_或_dataset_的数据集，工具和材料.  
+该存储库可为任何想要使用数字游戏中应用的“人工智能”或“数据挖掘”的人提供指导！ 在这里，您会发现一系列可用于构建_application_或_dataset_的数据集，工具和材料.  
 
 **Contributing**  
 
- 任何建议或疑问，请打开“问题”.  如果您想贡献，请阅读 [this](https://github.com/leomaurodesenv/game-datasets/blob/master/CONTRIBUTING.md) 并提出“拉取请求”.  
+任何建议或疑问，请打开“问题”. 如果您想贡献，请阅读 [this](https://github.com/leomaurodesenv/game-datasets/blob/master/CONTRIBUTING.md) 并提出“拉取请求”.  
    
 ---
 
@@ -18,9 +18,9 @@
 ---
 ## API
 
-API是_“一组允许创建访问操作系统，应用程序或其他服务的功能或数据的应用程序的功能和过程” _（Google）.  
+API是_“一组功能和过程，允许创建访问操作系统，应用程序或其他服务的功能或数据的应用程序” _（Google）.  
 
-- [Battle.net](https://develop.battle.net/) -由开发的游戏集合 [Blizzard](https://www.blizzard.com).
+- [Battle.net](https://develop.battle.net/) -由开发的游戏合集 [Blizzard](https://www.blizzard.com).
 - [Battlefield 4 Stats](http://bf4stats.com/) -玩家的统计资料，排名和进度.
 - [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) -棋盘游戏数据.
 - [EVE Online](https://www.programmableweb.com/api/eve-online-crest-carbon-restful) -科幻小说大型多人在线游戏.
@@ -42,7 +42,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) -来自任何平台的游戏常规信息. [Website](https://thegamesdb.net/).
 - [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) -来自的爬虫 [VGChartz](http://www.vgchartz.com).
 - [Xbox LIVE API](https://github.com/xboxapi) -游戏，应用程序，用户统计信息和消息. [Website](https://xboxapi.com/), [paper](https://doi.org/10.1145/1943552.1943569).
-- [WhatoPlay](https://whatoplay.com) -游戏评论和分级聚合器，以及发现游戏的推荐器.
+- [WhatoPlay](https://whatoplay.com) -游戏评论和评分聚合器，以及发现游戏的推荐器.
 
 ---
 ## Artificial Intelligence
@@ -56,7 +56,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) -格斗游戏的控制器.
 - [FlightGear Flight Simulator](http://home.flightgear.org/) - 飞行模拟器.
 - [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) -预测玩家行为的竞赛. [Paper](https://arxiv.org/abs/1802.02301).
-- [General Video Game AI](http://www.gvgai.net/) -通用视频游戏的控制器. [Paper](https://arxiv.org/abs/1802.10363).
+- [General Video Game AI](http://www.gvgai.net/) -用于一般视频游戏的控制器. [Paper](https://arxiv.org/abs/1802.10363).
 - [Hanabi Competition](http://hanabi.aiclash.com/) -棋盘游戏比赛.
 - [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) -纸牌游戏比赛.
 - [Infinite Mario Bros](http://www.marioai.org/)  -超级马里奥比赛.  Platformer AI的前身. [Website](http://julian.togelius.com/mariocompetition2009/).
@@ -86,7 +86,8 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 
 ### Mobile
 
-- [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) -流氓类游戏.
+- [Habitica](https://github.com/HabitRPG/habitica-android) -游戏化你的生活.
+- [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) -Roguelike游戏.
 - [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) -改进的像素地牢.
 
 ### Web
@@ -101,31 +102,33 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 
 ---
 ## Books
- -Drachen，A.Mirza-Babaei，P.Nacke，L.（2018年）.  _游戏用户研究_.  牛津
+ -Drachen，A.Mirza-Babaei，P.Nacke，L.（2018年）.  _游戏用户研究_. 牛津.
  -El-Nasr，S.Drachen，A.Canossa，A.（2013）.  _游戏分析：最大化玩家数据的价值_.  Sprigner.
- -Han，J.，Pei，J.，Kamber，M.（2011）.  _数据挖掘：概念和技术_.  爱思唯尔.
- -Hennig-Thurau，T.休斯敦，M.（2018）.  _娱乐科学：电影，游戏，音乐和书籍的数据分析和实用理论_.  施普林格.
- -Loh，A. Sheng，Y.Ifenthaler，D.（2015）.  _严肃的游戏分析：绩效评估，评估和改进的方法_.  施普林格.
- -罗素（Russell，SJ），诺维格（Norvig，P.）（2016）.  _人工智能：现代方法.  马来西亚;  培生教育有限公司.
- -Yannakakis，GN，Togelius，J.（2018年）.  _人工智能和游戏_.  施普林格.
+ -Han，J.，Pei，J.，Kamber，M.（2011）.  _数据挖掘：概念和技术_. 爱思唯尔.
+ -Hennig-Thurau，T.休斯敦，M.（2018）.  _娱乐科学：电影，游戏，音乐和书籍的数据分析和实用理论_. 施普林格.
+ -Loh，A. Sheng，Y.Ifenthaler，D.（2015）.  _严重的游戏分析：性能评估，评估和改进的方法_. 施普林格.
+ -Russell，SJ，Norvig，P.（2016年）.  _人工智能：现代方法. 马来西亚; 培生教育有限公司.
+ -Yannakakis，GN，Togelius，J.（2018年）.  _人工智能和游戏_. 施普林格.
 
 ---
 ## Dataset
 
 - [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) -匹配排名游戏的详细信息.
 - [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) -Apple App Store中的策略游戏.
-- [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) -参加世界杯的球队的详细信息.
+- [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) -参加世界杯的球队的队详情.
 - [380,000 Guesses Dataset - Higher or Lower?](https://www.kaggle.com/sdobson46/higher-or-lower-game) -猜数字的真实游戏数据.
+- [Animal Crossing New Horizons NookPlaza Catalog](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - Comprehensive inventory of items, villagers, clothing, fish/bugs etc.
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) -来自棋盘游戏的数据.
 - [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) -桌游中的属性和等级 [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) -棋盘游戏的玩法.
 - [bravefrontier_data](https://github.com/cheahjs/bravefrontier_data) -手机游戏数据，物品和任务信息.
+- [CartolaFC](https://www.kaggle.com/schiller/cartolafc) -热门的巴西幻想足球（2014年至2017年）.
 - [Clash of Clans app store user comments](https://www.kaggle.com/moradnejad/clash-of-clans-50000-user-comments) -来自Google Play和iTunes App Store的用户评论.
 - [Clash royale Dataset](https://www.kaggle.com/swappyk/clash-royale-dataset) -卡数据.
 - [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global) -玩家数据.
 - [Condensing Steam: Distilling the Diversity of Gamer Behavior](http://academictorrents.com/details/eba3b48fcdaa9e69a927051f1678251a86a546f3) -时间游戏数据.
 - [Connect-4 Data Set](https://archive.ics.uci.edu/ml/datasets/Connect-4) -Connect-4游戏比赛.
-- [CS:GO Competitive Matchmaking Data](https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage) -打出的回合中的伤害条目.
+- [CS:GO Competitive Matchmaking Data](https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage) -在回合中进行伤害输入.
 - [Data Game ClashRoyale](https://www.kaggle.com/lucianomartins/data-game-clashroyale) -Clash Royale游戏的玩家数据.
 - [Defense of the Ancients](https://www.kaggle.com/raxnamosa/defense-of-the-ancients) -魔兽争霸III游戏中的怪物数据.
 - [dnddata](https://github.com/oganm/dnddata) -龙与地下城人物数据集.
@@ -137,7 +140,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [GTA-3D Dataset](https://github.com/oscarmcnulty/gta-3d-dataset) -侠盗猎车手5（Grand Theft Auto 5）游戏中的2D和3D图像.
 - [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) -收集卡.
 - [Heroes of Might and Magic 3 Units](https://www.kaggle.com/daynearthur/heroes-of-might-and-magic-3-units) -游戏单位.
-- [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - Collection of decks.
+- [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) -甲板的集合.
 - [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) -球员和球队数据.
 - [League of Legends Diamond Ranked Games (10 min)](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min) -分类排名的游戏.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) -游戏数据.
@@ -156,15 +159,15 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) -宠物小精灵和战斗数据.
 - [Predict'em All](https://www.kaggle.com/semioniy/predictemall) -随着时间的推移，口袋妖怪会出现在PokemonGo中.
 - [PUBG Match Deaths and Statistics](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) -匹配数据.
-- [Scrabble](https://github.com/onzie9/Quackle_Self_Play) -数据抢断游戏比赛.
+- [Scrabble](https://github.com/onzie9/Quackle_Self_Play) -数据夸克游戏比赛.
 - [SkillCraft-StarCraft](https://www.kaggle.com/danofer/skillcraft) -星际争霸2联赛级别的表现.
 - [SMMnet](https://www.kaggle.com/leomauro/smmnet) -来自Super Mario Maker的网络数据.
 - [Starcraft: Scouting The Enemy](https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy) -专业水平的球员侦察.
-- [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) -比赛的数据流. [Paper](https://doi.org/10.1371/journal.pone.0075129).
+- [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) -比赛数据流. [Paper](https://doi.org/10.1371/journal.pone.0075129).
 - [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) -比赛结果.
 - [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) -重放的汇总.
 - [StarData](https://github.com/TorchCraft/StarData) -比赛，视频等 [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
-- [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) -游戏的纸牌.
+- [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) -这场比赛的纸牌.
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) -游戏日志和统计信息.
 - [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) -来自各代的口袋妖怪数据.
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) -收集345个类别的5000万张图纸.
@@ -195,7 +198,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 ## Market Research
 - [Euro-Monitor, Video Games](https://www.euromonitor.com/) -战略市场研究员.
 - [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) -联合市场研究.
-- [Newzoo](https://newzoo.com/)  -在游戏市场上查看.  无与伦比的见解和价值.
+- [Newzoo](https://newzoo.com/)  -在游戏市场上查看. 无与伦比的见解和价值.
 - [Statista, Video Games](https://www.statista.com/topics/868/video-games/) -市场和舆论研究机构以及来自经济部门的数据.
 
 ---
@@ -208,7 +211,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [data.world](https://data.world) -数据集.
 - [datasets-games](https://github.com/cncplyr/datasets-games) -来自各种游戏的数据集.
 - [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) -教授编程语言的游戏.
-- [Games on GitHub](https://github.com/leereilly/games) -在GitHub上托管的热门视频游戏.
+- [Games on GitHub](https://github.com/leereilly/games) -托管在GitHub上的热门视频游戏.
 - [GitHub Activity Data](https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset&id=46ee22ab-2ca4-4750-81a7-3ee0f0150dcb) -来自开源GitHub存储库的活动.
 - [Kaggle](http://kaggle.com/) -数据科学竞赛，数据集和项目.
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) -免费游戏百科全书.

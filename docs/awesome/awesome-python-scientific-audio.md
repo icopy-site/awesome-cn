@@ -29,7 +29,7 @@
 * [acoustics](http://python-acoustics.github.io/python-acoustics/) [:octocat:](https://github.com/python-acoustics/python-acoustics/) [:package:](https://pypi.python.org/pypi/acoustics) -声学师的有用工具.
 * [AudioTK](https://github.com/mbrucher/AudioTK) [:octocat:](https://github.com/mbrucher/AudioTK) -DSP过滤器工具箱（许多过滤器）.
 * [AudioTSM](https://audiotsm.readthedocs.io/) [:octocat:](https://github.com/Muges/audiotsm) [:package:](https://pypi.python.org/pypi/audiotsm/) -实时音频时标修改程序.
-* [Gammatone](https://github.com/detly/gammatone) [:octocat:](https://github.com/detly/gammatone) -Gammatone滤波器组的实现.
+* [Gammatone](https://github.com/detly/gammatone) [:octocat:](https://github.com/detly/gammatone) -Gammatone滤镜库实现.
 * [pyFFTW](http://pyfftw.github.io/pyFFTW/) [:octocat:](https://github.com/pyFFTW/pyFFTW) [:package:](https://pypi.python.org/pypi/pyFFTW/) -FFTW（3）的包装器.
 * [NSGT](https://grrrr.org/research/software/nsgt/) [:octocat:](https://github.com/grrrr/nsgt) [:package:](https://pypi.python.org/pypi/nsgt) -非平稳gabor变换，常数q.
 * [MDCT](https://github.com/nils-werner/mdct) [:octocat:](https://github.com/nils-werner/mdct) [:package:](https://pypi.python.org/pypi/mdct) -MDCT转换.
@@ -39,19 +39,23 @@
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) [:octocat:](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) -包装 [rubberband](http://breakfastquay.com/rubberband/) 进行音调转换和时间拉伸.
 * [PyWavelets](http://pywavelets.readthedocs.io) [:octocat:](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) -Python中的离散小波变换.
 * [Resampy](http://resampy.readthedocs.io) [:octocat:](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) -采样率转换.
-* [SFS-Python](http://www.sfstoolbox.org) [:octocat:](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
-* [STFT](http://stft.readthedocs.io) [:octocat:](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) -用于短时傅立叶变换的独立程序包.
+* [SFS-Python](http://www.sfstoolbox.org) [:octocat:](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) -声场综合工具箱.
+* [STFT](http://stft.readthedocs.io) [:octocat:](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) -短时傅立叶变换的独立软件包.
 
 #### Feature extraction
 
 * [aubio](http://aubio.org/) [:octocat:](https://github.com/aubio/aubio) [:package:](https://pypi.python.org/pypi/aubio) -特征提取器，用C，Python接口编写.
 * [audiolazy](https://github.com/danilobellini/audiolazy) [:octocat:](https://github.com/danilobellini/audiolazy) [:package:](https://pypi.python.org/pypi/audiolazy/) -实时音频处理库，通用.
-* [essentia](http://essentia.upf.edu) [:octocat:](https://github.com/MTG/essentia) -与音乐相关的低级和高级功能提取器，基于C ++，包括Python绑定.
-* [muda](https://muda.readthedocs.io/en/latest/) [:octocat:](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -音乐数据增强.
-* [pydiogment](https://pydiogment.readthedocs.io) [:octocat:](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -音频数据增强.
+* [essentia](http://essentia.upf.edu) [:octocat:](https://github.com/MTG/essentia) -与音乐相关的低级和高级功能提取器（基于C ++）包括Python绑定.
 * [python_speech_features](https://github.com/jameslyons/python_speech_features) [:octocat:](https://github.com/jameslyons/python_speech_features) [:package:](https://pypi.python.org/pypi/python_speech_features) -ASR的通用语音功能.
 * [pyYAAFE](https://github.com/Yaafe/Yaafe) [:octocat:](https://github.com/Yaafe/Yaafe) -YAAFE功能提取器的Python绑定.
 * [speechpy](https://github.com/astorfi/speechpy) [:octocat:](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) -语音处理和识别库，目前主要是特征提取.
+
+#### Data augmentation
+
+* [audiomentations](https://github.com/iver56/audiomentations) [:octocat:](https://github.com/iver56/audiomentations) [:package:](https://pypi.org/project/audiomentations/) -音频数据增强.
+* [muda](https://muda.readthedocs.io/en/latest/) [:octocat:](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -音乐数据增强.
+* [pydiogment](https://pydiogment.readthedocs.io) [:octocat:](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -音频数据增强.
 
 #### Speech Processing
 
@@ -63,12 +67,12 @@
 * [pyannote.audio](https://github.com/pyannote/pyannote-audio) [:octocat:](https://github.com/pyannote/pyannote-audio) [:package:](https://pypi.org/project/pyannote-audio/) -用于说话人区分的神经构建块.
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)² [:octocat:](https://github.com/tyiannak/pyAudioAnalysis) [:package:](https://pypi.python.org/pypi/pyAudioAnalysis/) -特征提取，分类，数字化.
 * [py-webrtcvad](https://github.com/wiseman/py-webrtcvad) [:octocat:](https://github.com/wiseman/py-webrtcvad) [:package:](https://pypi.python.org/pypi/webrtcvad/) -与WebRTC语音活动检测器的接口.
-* [pypesq](https://github.com/vBaiCai/python-pesq) [:octocat:](https://github.com/vBaiCai/python-pesq) -用于PESQ分数计算的包装器.
+* [pypesq](https://github.com/vBaiCai/python-pesq) [:octocat:](https://github.com/vBaiCai/python-pesq) -用于PESQ得分计算的包装器.
 * [pystoi](https://github.com/mpariente/pystoi) [:octocat:](https://github.com/mpariente/pystoi) [:package:](https://pypi.org/project/pystoi) -短期目标可理解性度量（STOI）.
 * [PyWorldVocoder](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) [:octocat:](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) -Morise的World Vocoder包装.
-* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat:](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) -基于Kaldi（HMM），英语的强制对准器（可以训练其他对准器）.
+* [Montreal Forced Aligner](https://montrealcorpustools.github.io/Montreal-Forced-Aligner/) [:octocat:](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) -强制对准器，基于Kaldi（HMM），英语（可以培训其他人）.
 * [SIDEKIT](http://lium.univ-lemans.fr/sidekit/) [:package:](https://pypi.python.org/pypi/SIDEKIT/) -说话者和语言识别.
-* [SpeechRecognition](https://github.com/Uberi/speech_recognition) [:octocat:](https://github.com/Uberi/speech_recognition) [:package:](https://pypi.python.org/pypi/SpeechRecognition/) -用于多个在线和离线ASR引擎和API的包装器.
+* [SpeechRecognition](https://github.com/Uberi/speech_recognition) [:octocat:](https://github.com/Uberi/speech_recognition) [:package:](https://pypi.python.org/pypi/SpeechRecognition/) -在线和离线的多个ASR引擎和API的包装器.
 
 #### Environmental Sounds
 
@@ -80,21 +84,21 @@
 * [Brian2](http://briansimulator.org/) [:octocat:](https://github.com/brian-team/brian2) [:package:](https://pypi.python.org/pypi/Brian2) -刺神经网络模拟器，包括耳蜗模型.
 * [Loudness](https://github.com/deeuu/loudness) [:octocat:](https://github.com/deeuu/loudness) -感知的响度，包括Zwicker，摩尔/格拉斯伯格模型.
 * [pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm) [:octocat:](https://github.com/csteinmetz1/pyloudnorm) -音频响度计和归一化，实现ITU-R BS.1770-4.
-* [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat:](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) - Sound Field Synthesis Toolbox.
+* [Sound Field Synthesis Toolbox](http://www.sfstoolbox.org) [:octocat:](https://github.com/sfstoolbox/sfs-python) [:package:](https://pypi.python.org/pypi/sfs/) -声场综合工具箱.
 
 #### Source Separation
 
 * [commonfate](https://github.com/aliutkus/commonfate) [:octocat:](https://github.com/aliutkus/commonfate) [:package:](https://pypi.python.org/pypi/commonfate) -共同的命运模型和转变.
 * [NTFLib](https://github.com/stitchfix/NTFLib) [:octocat:](https://github.com/stitchfix/NTFLib) -稀疏的Beta散度张量分解.
 * [NUSSL](https://interactiveaudiolab.github.io/nussl/) [:octocat:](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) -整体源分离框架，包括DSP方法和深度学习方法.
-* [NIMFA](http://nimfa.biolab.si) [:octocat:](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) -非负矩阵分解的几种形式.
+* [NIMFA](http://nimfa.biolab.si) [:octocat:](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) -几种非负矩阵分解.
 
 #### Music Information Retrieval
 
 * [Catchy](https://github.com/jvbalen/catchy) [:octocat:](https://github.com/jvbalen/catchy) -用于计算挂钩的语料库分析工具.
-* [Madmom](https://madmom.readthedocs.io/en/latest/) [:octocat:](https://github.com/CPJKU/madmom) [:package:](https://pypi.python.org/pypi/madmom) -MIR软件包非常注重节拍检测，起音检测和和弦识别.
-* [mir_eval](http://craffel.github.io/mir_eval/) [:octocat:](https://github.com/craffel/mir_eval) [:package:](https://pypi.python.org/pypi/mir_eval)  -各种MIR任务的共同分数.  还包括bss_eval实现.
-* [msaf](http://pythonhosted.org/msaf/) [:octocat:](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) -音乐结构分析框架.
+* [Madmom](https://madmom.readthedocs.io/en/latest/) [:octocat:](https://github.com/CPJKU/madmom) [:package:](https://pypi.python.org/pypi/madmom) -MIR软件包特别注重节拍检测，起音检测和和弦识别.
+* [mir_eval](http://craffel.github.io/mir_eval/) [:octocat:](https://github.com/craffel/mir_eval) [:package:](https://pypi.python.org/pypi/mir_eval)  -各种MIR任务的共同分数. 还包括bss_eval实现.
+* [msaf](http://pythonhosted.org/msaf/) [:octocat:](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
 * [librosa](http://librosa.github.io/librosa/) [:octocat:](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) -常规音频和音乐分析.
 
 #### Deep Learning
@@ -111,12 +115,13 @@
 
 #### Realtime applications
 
+* [Jupylet](https://github.com/nir/jupylet) [:octocat:](https://github.com/nir/jupylet) -减法，加法，FM和基于样本的声音合成.
 * [PYO](http://ajaxsoundstudio.com/software/pyo/) [:octocat:](https://github.com/belangeo/pyo) -实时音频dsp引擎.
 * [python-sounddevice](https://github.com/spatialaudio/python-sounddevice) [:octocat:](http://python-sounddevice.readthedocs.io) [:package:](https://pypi.python.org/pypi/sounddevice) -PortAudio包装器通过NumPy提供实时音频I / O.
 
 #### Web Audio
 
-* [TimeSide (Beta)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat:](https://github.com/Parisson/TimeSide/tree/dev) -高级音频分析，成像，代码转换，流传输和标记.
+* [TimeSide (Beta)](https://github.com/Parisson/TimeSide/tree/dev) [:octocat:](https://github.com/Parisson/TimeSide/tree/dev) -高级音频分析，成像，代码转换，流和标记.
 
 #### Audio related APIs and Datasets
 
@@ -134,9 +139,9 @@
 
 * [Whirlwind Tour Of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) [：octocat：]（https://github.com/jakevdp/WhirlwindTourOfPython
 ）-针对研究人员和开发人员的Python基本要素的快速介绍.
-* [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat:](https://github.com/scipy-lectures/scipy-lecture-notes) -高度推荐的教程，涵盖了科学的Python生态系统的大部分内容.
-* [Numpy for MATLAB® Users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html) -等效的python功能的简短概述.
-* [MIR Notebooks](http://musicinformationretrieval.com/) [:octocat:](https://github.com/stevetjoa/stanford-mir) -收集用于音乐信息检索（MIR）的教学iPython笔记本.
+* [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat:](https://github.com/scipy-lectures/scipy-lecture-notes) -高度推荐的教程，涵盖了科学Python生态系统的大部分内容.
+* [Numpy for MATLAB® Users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html) -交换机的等效python功能的简短概述.
+* [MIR Notebooks](http://musicinformationretrieval.com/) [:octocat:](https://github.com/stevetjoa/stanford-mir) -用于音乐信息检索（MIR）的教学iPython笔记本的集合.
 * [Selected Topics in Audio Signal Processing](https://github.com/faroit/awesome-python-scientific-audio/blob/master/ https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) -作为iPython笔记本进行练习.
 
 ## Books
@@ -146,7 +151,7 @@
 
 ## Scientific Papers
 
-* [Python for audio signal processing](http://eprints.maynoothuniversity.ie/4115/1/40.pdf) -John C.Glover，Victor Lazzarini和Joseph Timoney，2011年Linux音频会议.
+* [Python for audio signal processing](http://eprints.maynoothuniversity.ie/4115/1/40.pdf) -John C. Glover，Victor Lazzarini和Joseph Timoney，2011年Linux音频会议.
 * [librosa: Audio and Music Signal Analysis in Python](http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf), [Video](https://www.youtube.com/watch?v=MhOdbtPhbLU) -Brian McFee，Colin Raffel，Dawen Liang，Daniel PW Ellis，Matt McVicar，Eric Battenberg，Oriol Nieto，Scipy 2015.
 * [pyannote.audio: neural building blocks for speaker diarization](https://arxiv.org/abs/1911.01255), [Video](https://www.youtube.com/watch?v=37R_R82lfwA) -HervéBredin，Yinqing Qing，Juan Manuel Coria，Gregory Gelly，Pavel Korshunov，Marvin Lavechin，Diego Fustes，Hadien Titeux，Wassim Bouaziz，Marie-Philippe Gill，ICASSP 2020.
 
@@ -158,11 +163,11 @@
 
 ## Related lists
 
-已经有 [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) 但是它不是最新的，并且包含了很多特别感兴趣的软件包，这些软件包大多数与科学应用无关. [Awesome-Python](https://github.com/vinta/awesome-python)  是大型精选的python软件包列表.  但是，音频部分很小.
+已经有 [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) 但是它不是最新的，并且包含了很多特别感兴趣的软件包，这些软件包大多数与科学应用无关. [Awesome-Python](https://github.com/vinta/awesome-python) 是大型精选的python软件包列表. 但是，音频部分很小.
 
 ## Contributing
 
- 永远欢迎您的贡献！  请看看 [contribution guidelines](https://github.com/faroit/awesome-python-scientific-audio/blob/master/CONTRIBUTING.md) 第一.
+永远欢迎您的贡献！ 请看看 [contribution guidelines](https://github.com/faroit/awesome-python-scientific-audio/blob/master/CONTRIBUTING.md) 第一.
 
 如果不确定这些库是否很棒，我将打开一些拉取请求，您可以通过添加它们来投票支持它们.
 

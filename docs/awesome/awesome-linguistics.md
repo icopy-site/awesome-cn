@@ -13,9 +13,9 @@
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) -Haxe的早期语言分析和自然语言处理库.
 * [Natural](https://github.com/NaturalNode/natural) -Node.js的通用自然语言工具.
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) -用于构建Python程序以使用人类语言数据的最完整平台.
-* [Snowball](http://snowball.tartarus.org/) -Snowball是一种语言，可以轻松表示词干算法.
-* [Spacy](https://spacy.io/) -Python中具有行业优势的国家语言处理.
-* [UralicNLP](https://github.com/mikahama/uralicNLP)  -一个开放源代码的Python库，用于处理形态丰富且绝大部分濒临灭绝的Uralic语言.  它可以对许多乌拉尔语进行形态分析，生成，词形化，歧义消除和词汇查找.
+* [Snowball](http://snowball.tartarus.org/) -Snowball是一种可以轻松表示词干算法的语言.
+* [Spacy](https://spacy.io/) -Python中具有行业实力的国家语言处理.
+* [UralicNLP](https://github.com/mikahama/uralicNLP)  -一个开放源代码的Python库，用于处理形态丰富且绝大部分濒临灭绝的Uralic语言. 它可以对许多乌拉尔语进行形态分析，生成，词形化，歧义消除和词汇查找.
 
 ### Algorithms
 * [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) -来自雪球的各种阻止算法.
@@ -26,7 +26,7 @@
 
 ### Resources
 * [How To Label Data](https://www.lighttag.io/how-to-label-data/) -大型语言注释项目管理指南.
-* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) -用于低资源（人类）语言的保护，开发和记录的资源清单.
+* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) -用于保护，开发和记录低资源（人类）语言的资源列表.
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -45,12 +45,11 @@
 * [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) -CC许可的教育视频与Marburg University的同名电子学习平台互连.
 
 ### Books
-*一些更有趣和更完整的书.
+*一些更有趣和更完整的书.*
 
 #### Free
 * [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) -一本入门书.
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
-* [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) -使用haskell编程语言的未维护资源.
 * [Natural Language Processing with Python](http://www.nltk.org/book/) -NLTK套件中的书籍.
 * [Text Mining with R](https://www.tidytextmining.com)
 

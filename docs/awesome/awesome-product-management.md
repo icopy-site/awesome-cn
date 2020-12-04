@@ -2,11 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Product Management [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-精选的优秀资源清单，供产品/计划经理学习和成长. 
+精选的优秀资源清单，供产品/计划经理学习和发展. 
 
 ## Who's a product manager?
 
- 根据定义，产品经理是一个驱动产品愿景并深刻理解客户需求的人.  PM通常被认为是业务，技术和设计领域的交集-他们是问题领域的专家，能够学习和快速迭代以为消费者提供宝贵的经验.
+根据定义，产品经理是一个驱动产品愿景并深刻理解客户需求的人.  PM通常被认为是业务，技术和设计领域的交集-它们是问题领域的专家，并且能够学习和快速迭代以为消费者提供有价值的体验.
 
 
 
@@ -14,16 +14,16 @@
 
 ### OneNote
 
- 具有出色的组织能力的高效笔记.  可轻松地与基于团队的工作流程集成，同一个人笔记本中的笔记可与许多人共享.
+具有出色的组织能力的高效笔记. 可轻松地与基于团队的工作流程集成，同一个人笔记本中的笔记可与许多人共享.
 
 ![OneNote](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-onenote.gif)
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|------------------------------------|
- |  开发人员 [Microsoft](https://microsoft.com) |
- |  费用|  免费|
- |  平台|  macOS，Windows，iOS，Android，网络|
- |  网址|  https://onenote.com |
+ | 开发人员 [Microsoft](https://microsoft.com) |
+ | 费用| 免费|
+ | 平台|  macOS，Windows，iOS，Android，网络|
+ | 网址|  https://onenote.com |
 
 ### Bear
 
@@ -31,34 +31,34 @@ Markdown格式的笔记，具有基于标签的组织功能.
 
 ![Bear](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-bear.gif)
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|--------------------------------------------|
- |  开发人员 [Shiny Frog](http://www.shinyfrog.net/)    |
- |  费用|  免费增值（_ $ 16 /年的可用订阅_）|
- |  平台|  macOS，iOS |
- |  网址|  https://bear.app/ |
+ | 开发人员 [Shiny Frog](http://www.shinyfrog.net/)    |
+ | 费用| 免费增值（_ $ 16 /年的可用订阅_）|
+ | 平台|  macOS，iOS |
+ | 网址|  https://bear.app/ |
 
 ### Trello
 
- 看板式板，用于管理工作项.  与团队和其他服务很好地集成.  具有丰富的可扩展性平台.
+看板式板，用于管理工作项. 与团队和其他服务很好地集成. 具有丰富的可扩展性平台.
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|------------------------------------------------|
- |  开发人员 [Atlassian](https://www.atlassian.com/)        |
- |  费用|  免费增值服务（_ $ 9.99 / mo +可用订阅_）|
- |  平台|  macOS，Windows，iOS，Android，网络|
- |  网址|  https://trello.com/ |
+ | 开发人员 [Atlassian](https://www.atlassian.com/)        |
+ | 费用| 免费增值（_ $ 9.99 / mo +可用订阅_）|
+ | 平台|  macOS，Windows，iOS，Android，网络|
+ | 网址|  https://trello.com/ |
 
 ### To-Do
 
 快速管理“待办事项”的工具.
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|-----------------------------------------|
- |  开发人员 [Microsoft](https://www.microsoft.com/) |
- |  费用|  免费|
- |  平台|  macOS，Windows，iOS，Android，网络|
- |  网址|  https://to-do.microsoft.com/ |
+ | 开发人员 [Microsoft](https://www.microsoft.com/) |
+ | 费用| 免费|
+ | 平台|  macOS，Windows，iOS，Android，网络|
+ | 网址|  https://to-do.microsoft.com/ |
 
 ### Notion
 
@@ -66,73 +66,73 @@ Markdown格式的笔记，具有基于标签的组织功能.
 
 ![Notion](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-notion.gif)
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|------------------------------------------------------|
- |  开发人员 [Notion Labs](https://notion.so/)                    |
- |  费用|  免费增值（_ $ 4 / mo /用户个人，$ 8 / mo /用户团队_）|
- |  平台|  macOS，Windows，iOS，Android，网络|
- |  网址|  https://notion.so/ |
+ | 开发人员 [Notion Labs](https://notion.so/)                    |
+ | 费用| 免费增值（_ $ 4 / mo /用户个人，$ 8 / mo /用户团队_）|
+ | 平台|  macOS，Windows，iOS，Android，网络|
+ | 网址|  https://notion.so/ |
 
 ### Balsamiq
 
- 线框图工具，可用于构建模拟而无需过多关注细节.  在您不希望其他人过度索引像素而只关注内容的情况下非常有用.
+线框图工具，可用于构建模拟而无需过多关注细节. 在您不希望其他人过度索引像素而只关注内容的情况下非常有用.
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|------------------------------------------------|
- |  开发人员 [Balsamiq Studios, LLC](https://balsamiq.com/) |
- |  费用|  付费（_ $ 89 /人-永久许可证_）|
- |  平台|  macOS，Windows，网络|
- |  网址|  https://balsamiq.com/ |
+ | 开发人员 [Balsamiq Studios, LLC](https://balsamiq.com/) |
+ | 费用| 付费（_ $ 89 /人-永久许可证_）|
+ | 平台|  macOS，Windows，网络|
+ | 网址|  https://balsamiq.com/ |
 
 ### Sketch
 
- 模拟和原型制作变得高效.  提供许多可下载的组件，可以帮助人们为网站，应用程序和其他体验创建高保真设计.
+模拟和原型制作变得高效. 提供许多可下载的组件，可以帮助人们为网站，应用程序和其他体验创建高保真设计.
 
 ![Sketch](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-sketch.gif)
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|------------------------------------------------------|
- |  开发人员 [Bohemian B.V.](https://www.sketchapp.com/about-us/) |
- |  费用|  付费（_ $ 99 /年_）|
- |  平台|  macOS |
- |  网址|  https://www.sketchapp.com/ |
+ | 开发人员 [Bohemian B.V.](https://www.sketchapp.com/about-us/) |
+ | 费用| 付费（_ $ 99 / year_）|
+ | 平台|  macOS |
+ | 网址|  https://www.sketchapp.com/ |
 
 ### Figma
 
- 一种更好的设计方式.  使用Figma在浏览器中进行设计，原型设计和协作.
+一种更好的设计方式. 使用Figma在浏览器中进行设计，原型设计和协作.
 
 ![Figma](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-figma.gif)
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|--------------------------------------|
- |  开发人员 [Figma](https://www.figma.com/blog/) |
- |  费用|  免费增值（_ $ 0-45 /月_）|
- |  平台|  macOS，Windows，网络|
- |  网址|  https://www.figma.com |
+ | 开发人员 [Figma](https://www.figma.com/blog/) |
+ | 费用| 免费增值（_ $ 0-45 /月_）|
+ | 平台|  macOS，Windows，网络|
+ | 网址|  https://www.figma.com |
 
 ### Taskade
 
- 通过协作任务列表，笔记和视频聊天来完成工作.  Taskade专为远程团队设计.
+通过协作任务列表，笔记和视频聊天来完成工作.  Taskade专为远程团队设计.
 
 ![Taskade](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-taskade.gif)
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|--------------------------------------------------------------------|
- |  开发人员 [Taskade Inc.](https://taskade.com/about)                          |
- |  费用|  免费增值（_ $ 0-10 /月_）|
- |  平台|  macOS，Windows，iOS，Android，Chrome扩展程序，Firefox插件，网络|
- |  网址|  https://www.taskade.com |
+ | 开发人员 [Taskade Inc.](https://taskade.com/about)                          |
+ | 费用| 免费增值（_ $ 0-10 /月_）|
+ | 平台|  macOS，Windows，iOS，Android，Chrome扩展程序，Firefox插件，网络|
+ | 网址|  https://www.taskade.com |
 
 ### Notejoy
 
 一个协作的笔记记录应用程序，简单，直观，使您可以专注于笔记，而不是围绕笔记的过程.
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|--------------------------------------------------------------------|
- |  开发人员 [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
+ | 开发人员 [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
 | Cost      | Freemium (_$0-12/month_)                                           |
- |  平台|  macOS，Windows，iOS，Android，网络|
- |  网址|  https://notejoy.com |
+ | 平台|  macOS，Windows，iOS，Android，网络|
+ | 网址|  https://notejoy.com |
 
 ### productboard
 
@@ -140,12 +140,12 @@ productboard是产品管理系统，可帮助您了解用户的需求，确定�
 
 ![productboard](https://raw.githubusercontent.com/dend/awesome-product-management/master//media/tool-productboard.png)
 
- |  物业|  价值|
+ | 物业| 价值|
 |-----------|--------------------------------------------------------------------|
- |  开发人员 [productboard](https://www.productboard.com/)                      |
- |  费用|  付费（起价为_ $ 49 /月_）|
- |  平台|  网页|
- |  网址|  https://productboard.com |
+ | 开发人员 [productboard](https://www.productboard.com/)                      |
+ | 费用| 付费（起价为_ $ 49 /月_）|
+ | 平台| 网页|
+ | 网址|  https://productboard.com |
 
 ## Articles
 
@@ -181,8 +181,8 @@ productboard是产品管理系统，可帮助您了解用户的需求，确定�
 - [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) -由Chip Heath和Dan Heath撰写.
 - [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) -由Chip Heath和Dan Heath撰写.
 - [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) -史蒂夫·布兰克（Steve Blank）和鲍勃·多夫（Bob Dorf）.
-- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) -作者：亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
-- [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) -作者：亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
+- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) -亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
+- [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) -亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
 - [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) -埃里克·里斯（Eric Ries）.
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) -Ben Horowitz.
 - [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) -史蒂夫·布兰克（Steve Blank）.
@@ -199,14 +199,14 @@ productboard是产品管理系统，可帮助您了解用户的需求，确定�
 
 ## Podcasts
 
- |  播客|  主持人|  网址|  描述
+ | 播客| 主持人| 网址| 描述
 |-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
-| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpeg" width="100px" />  |  里德霍夫曼|  https://mastersofscale.com/ |  公司如何从零增长到万亿美元？  传奇的硅谷投资者/企业家里德霍夫曼（Reid Hoffman）与著名创始人一起测试了他的理论.  嘉宾包括Facebook的Mark Zuckerberg和Sheryl Sandberg，Netflix的Reed Hastings，谷歌的Eric Sc​​hmidt，Spanx的Sara Blakely.  凭借原始的音乐和荒诞的诚实故事，该演出听起来像是您从未听过的.  |
-| <img alt="The Product Podcast" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-product.jpg" width="100px" />         |  多个|  https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 |  这是您的产品管理播客，其中包含来自Google，Facebook，LinkedIn，Spotify，Twitter和其他科技公司/初创公司的PM.  如果您是想要学习最新最佳实践的经理，设计师，工程师，企业家或市场营销商，请收听.  |
-| <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                    |  多个|  https://www.gimletmedia.com/startup |  您从未听说过的企业起源故事.  |
-| <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />        |  盖伊·拉兹|  https://www.npr.org/podcasts/510313/how-i-built-this |  盖伊·拉兹（Guy Raz）深入探讨了一些世界知名公司的故事.  我的建造方式编织了关于创新者，企业家和理想主义者及其创造方式的叙述性旅程.  |
-| <img alt="The Pitch" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-pitch.webp" width="100px" />                    |  多个|  https://www.gimletmedia.com/the-pitch |  真正的企业家向真正的投资者推销资金的地方.  |
-| <img alt="ReWork" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-rework.png" width="100px" />                       |  多个|  https://rework.fm/ |  Basecamp的播客，介绍了更好的工作和经营方式.  我们为您带来Basecamp联合创始人和其他企业主的故事和非常规的智慧.  |
+| <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpeg" width="100px" />  | 里德霍夫曼|  https://mastersofscale.com/ | 公司如何从零增长到万亿美元？ 传奇的硅谷投资者/企业家里德霍夫曼（Reid Hoffman）与著名创始人一起测试了他的理论. 嘉宾包括Facebook的Mark Zuckerberg和Sheryl Sandberg，Netflix的Reed Hastings，谷歌的Eric Sc​​hmidt，Spanx的Sara Blakely. 凭借原始的音乐和荒诞的诚实故事，该演出听起来像是您从未听过的.  |
+| <img alt="The Product Podcast" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-product.jpg" width="100px" />         | 多个|  https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 | 这是您的产品管理播客，其中包含来自Google，Facebook，LinkedIn，Spotify，Twitter和其他科技公司/初创公司的PM. 如果您是想要学习最新最佳实践的经理，设计师，工程师，企业家或营销人员，请收听.  |
+| <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                    | 多个|  https://www.gimletmedia.com/startup | 您从未听说过的企业起源故事.  |
+| <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />        | 盖伊·拉兹|  https://www.npr.org/podcasts/510313/how-i-built-this | 盖伊·拉兹（Guy Raz）深入探讨了一些世界知名公司的故事. 我的建造方式编织了关于创新者，企业家和理想主义者及其创造方式的叙述性旅程.  |
+| <img alt="The Pitch" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-pitch.webp" width="100px" />                    | 多个|  https://www.gimletmedia.com/the-pitch | 真正的企业家向真正的投资者推销资金的地方.  |
+| <img alt="ReWork" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-rework.png" width="100px" />                       | 多个|  https://rework.fm/ |  Basecamp的播客，介绍了更好的工作和经营方式. 我们为您带来Basecamp联合创始人和其他企业主的故事和非常规的智慧.  |
 
 ## Communities
 
@@ -218,12 +218,13 @@ productboard是产品管理系统，可帮助您了解用户的需求，确定�
 
 ## Conferences
 
-- [Industry](https://industryconference.com/)  -在三天的时间里，与会者将向著名的产品负责人学习，并分享他们用于构建，发布和扩展世界一流软件产品的最新方法，工具和框架.  打造世界一流的软件产品非常困难.  在INDUSTRY中，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
-- [ProductCon](https://www.productschool.com/productcon/)  -由产品学院组织的ProductCon每年举行五次，在旧金山，洛杉矶，纽约，西雅图和伦敦举行.  演讲者阵容包括来自Google，Slack，亚马逊，Airbnb，Netflix，Facebook等的产品领导者.  您将学习最成功产品背后的最佳实践，以及AI，VR，IoT和区块链的新趋势.  您还将有机会与我们所有对招募PM感兴趣的赞助商公司进行互动.
+- [Industry](https://industryconference.com/)  -在三天的时间里，与会人员将从著名的产品负责人那里学习，并分享他们用于构建，发布和扩展世界一流软件产品的最新方法，工具和框架. 打造世界一流的软件产品非常困难. 在INDUSTRY中，您将看到其他人如何在不同环境中管理产品，从快节奏的初创公司到复杂的大型企业.
+- [ProductCon](https://www.productschool.com/productcon/)  -ProductCon由产品学院主办，每年举行五次，在旧金山，洛杉矶，纽约，西雅图和伦敦举行. 演讲者阵容包括来自Google，Slack，亚马逊，Airbnb，Netflix，Facebook等的产品领导者. 您将学习最成功产品背后的最佳实践，以及AI，VR，IoT和区块链的新趋势. 您还将有机会与我们所有对招募PM感兴趣的赞助商公司进行互动.
 
 ## Additional resources
 
 - [Stratechery by Ben Thompson](https://stratechery.com/) -来自行业的产品和策略见解.
+- [Mobbin](https://mobbin.design/) -精选的移动应用程序设计模式集合.
 
 ## License
 

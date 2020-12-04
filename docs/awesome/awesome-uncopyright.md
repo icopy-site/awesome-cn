@@ -6,7 +6,7 @@
 
 精选的公共领域作品清单.
 
- 公共领域的作品没有版权限制.  这可能是知识产权过期或被没收的结果.  在后者的情况下，作者使用了“非版权”一词来描述他们放弃版权的行为.
+公共领域的作品没有版权限制. 这可能是知识产权过期或被没收的结果. 在后者的情况下，作者使用了“非版权”一词来描述他们放弃版权的行为.
 
 
 
@@ -17,17 +17,17 @@
 - [David Reed Smith](http://www.davidreedsmith.com/UncopyrightNotice.htm) -制作梭子和梭梭，偶尔写一些有趣的文章.
 - [DesignerCandies](http://designercandies.net/uncopyright/) -用于设计项目的高质量图形设计资源.
 - [dotcolon](http://dotcolon.net/) -CC0字体.
-- [Every Shirt Is Political](https://everyshirtispolitical.com/) -符合道德规范，手工印刷并支付您可以支付的价格的衬衫.
+- [Every Shirt Is Political](https://everyshirtispolitical.com/) -符合道德规范，手工印花并支付您可以支付的价格的衬衫.
 - [FreeMusicArchive: CC0 search](http://freemusicarchive.org/search/?adv=1&quicksearch=&search-genre=Genres&duration_from=&duration_to=&music-filter-public-domain=1) -许多CC0歌曲.
 - [Freesound: CC0 search](https://freesound.org/search/?g=1&q=&f=%20license:%22Creative+Commons+0%22) -数以千计的CC0音效和录音.
 - [Gwenn Seemel](http://www.gwennseemel.com/index.php/copyright/) -法裔美国画家，画家，肖像画家.
 - [HDRI Haven](https://hdrihaven.com/) -CC0下的高分辨率HDR全景图.
 - [Kenney](https://www.kenney.nl/assets) -CC0下的高质量游戏美术.
-- [Michael Beil](http://michaelbeil.com/uncopyright)  -支持网络.  发展.  玩音乐.
+- [Michael Beil](http://michaelbeil.com/uncopyright)  -支持网络. 发展. 玩音乐.
 - [Martin Vorel](https://libreshot.com/) -摄影师在CC0下发布他的高质量照片.
 - [Opengameart: CC0 search](https://opengameart.org/art-search-advanced?keys=&title=&field_art_tags_tid_op=or&field_art_tags_tid=&name=&field_art_type_tid%5B%5D=9&field_art_type_tid%5B%5D=10&field_art_type_tid%5B%5D=7273&field_art_type_tid%5B%5D=14&field_art_type_tid%5B%5D=12&field_art_type_tid%5B%5D=13&field_art_type_tid%5B%5D=11&field_art_licenses_tid%5B%5D=4&sort_by=count&sort_order=DESC&items_per_page=24&Collection=) -大量的CC0游戏美术.
 - [PublicDomainFlix](http://publicdomainflix.com/index.html) -在线观看公共领域的电影.
-- [RKHive](http://rkhive.com/legal.html) -CC0声音字体，用于音乐合成和MIDI播放.
+- [RKHive](http://rkhive.com/legal.html) - CC0 sound fonts for music synthesis and MIDI playback.
 - [Samuel Killermann](https://www.samuelkillermann.com/) -多学科的艺术家，他致力于发挥自己的才能来实现全球正义.
 
 ## Articles
@@ -41,7 +41,7 @@
 
 - [ARIHERZOG](http://ariherzog.com/) -有关数字和政治主题以及极简主义的帖子.
 - [Awesci](http://awesci.com/uncopyright/) -带有科学信息的娱乐文章.
-- [Billy Shih](http://www.billyshih.com/uncopyright/) - Blog of a web developer at Full Circle.
+- [Billy Shih](http://www.billyshih.com/uncopyright/) -Full Circle网站开发人员的博客.
 - [Char Bit](http://charb.it/uncopyright/) -具有20年经验的全栈开发人员撰写的有关JavaScript的文章.
 - [Eclipsophile](http://eclipsophile.com/) -所有关于日食的信息.
 - [ExpandBeyondYourself](http://www.expandbeyondyourself.com/uncopyright/) -如何通过个人成长和进步改变生活.
@@ -74,7 +74,7 @@
 
 ## Essays
 
-- [Abandoning Copyright: A Blessing for Artists, Art, and Society](http://www.culturelink.org/news/members/2005/members2005-011.html) -讨论功率集中在每个行业中如何是不理想的，但在文化领域尤其有害.
+- [Abandoning Copyright: A Blessing for Artists, Art, and Society](http://www.culturelink.org/news/members/2005/members2005-011.html) -讨论功率集中在每个行业中如何都是不希望的，但在文化领域尤其有害.
 - [The Surprising History of Copyright and The Promise of a Post-Copyright World](https://questioncopyright.org/promise)
 - [Who's Afraid of the Public Domain?](https://stpeter.im/writings/essays/publicdomain.html) -分解关于创意人的五个常见假设.
 
@@ -84,34 +84,34 @@
 - [Foodiesfeed](https://www.foodiesfeed.com/license/) -一个上传和查找食物图像的地方，没有任何版权限制.
 - [Internet Archive: PD search](https://archive.org/search.php?query=possible-copyright-status%3A%28NOT_IN_COPYRIGHT%29%20OR%20licenseurl%3A%28%22http%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2F1.0%2F%22%29%20OR%20licenseurl%3A%28%22https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F%22%29) -大量的PD工作.
 - [LibreStock](http://librestock.com/) -一次搜索所有公共领域的图片网站.
-- [MyStockPhotos](https://mystock.themeisle.com/license/) -专用于公共领域CC0的图像集合.
+- [MyStockPhotos](https://mystock.themeisle.com/license/) -通过CC0专用于公共领域的图像集合.
 - [NegativeSpace](https://negativespace.co/license/) -CC0图片库.
 - [Openclipart](https://openclipart.org/share) -高品质，易于使用的剪贴画.
--上的旧图片 [Pixabay](https://web.archive.org/web/20190108204845/https://pixabay.com/en/service/terms/) -** Pixabay上的新图像是 [not in the public domain](https://opengameart.org/forumtopic/warning-pixabay-has-changed-the-license-not-compatible-with-cc-or-gpl-anymore)**，因为它们是根据 [Pixabay License](https://pixabay.com/service/license/) （除其他事项外， [incompatible with the GPL](https://make.wordpress.org/themes/2019/01/13/pixabay-images-are-not-allowed/) ）.  更改为新许可证 [in 2019](https://pixabay.com/forum/official-pixabay-news-2/the-pixabay-license-7823/) .  在进行更改之前，Pixabay使用了 [CC0 waiver](https://web.archive.org/web/20190108204845/https://pixabay.com/en/service/terms/) .  因此，旧图像是 [still in the public domain](https://pixabay.com/it/forum/official-pixabay-news-2/the-pixabay-license-7823/?pagi=4)， 尽管是 [misleadingly tagged](https://pixabay.com/it/forum/official-pixabay-news-2/the-pixabay-license-7823/?pagi=4)  带有Pixel许可.  使用图像之前，请检查图像的状态. [terms of service](https://pixabay.com/service/) 在那个时间点.
+-上的旧图片 [Pixabay](https://web.archive.org/web/20190108204845/https://pixabay.com/en/service/terms/) -** Pixabay上的新图像是 [not in the public domain](https://opengameart.org/forumtopic/warning-pixabay-has-changed-the-license-not-compatible-with-cc-or-gpl-anymore)**，因为它们是根据 [Pixabay License](https://pixabay.com/service/license/) （除其他事项外， [incompatible with the GPL](https://make.wordpress.org/themes/2019/01/13/pixabay-images-are-not-allowed/) ）. 更改为新许可证 [in 2019](https://pixabay.com/forum/official-pixabay-news-2/the-pixabay-license-7823/) . 在进行更改之前，Pixabay使用了 [CC0 waiver](https://web.archive.org/web/20190108204845/https://pixabay.com/en/service/terms/) . 因此，旧图像是 [still in the public domain](https://pixabay.com/it/forum/official-pixabay-news-2/the-pixabay-license-7823/?pagi=4)， 尽管是 [misleadingly tagged](https://pixabay.com/it/forum/official-pixabay-news-2/the-pixabay-license-7823/?pagi=4) 带有Pixel许可. 使用图像之前，请检查图像的状态 [terms of service](https://pixabay.com/service/) 在那个时间点.
 - [Public Icons](https://publicicons.lllllllllllllllll.com/) -免费图标的集合.
 - [PxHere](https://pxhere.com/it/license) -查找和上传CC0图像.
-- [Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) -国立博物馆进行数字化处理，并提供伦勃朗，威米尔（Vermeer）等几位艺术家的公共领域作品.
+- [Rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio) -国立博物馆进行数字化处理，并提供伦勃朗，威猛（Vermeer）等几位艺术家的公共领域作品.
 - [Skitterphoto](https://skitterphoto.com/license) -上传和查找CC0图像的地方.
-- [SpaceX media](https://www.spacex.com/media)  -SpaceX媒体**不再**列出其图像属于公共领域.  即使在 [Flickr](https://web.archive.org/web/20170412063800/https://www.flickr.com/pho至s/spacex/16787988882/) ，它使用CC-BY-NC许可证.  但是，旧图片（来自 [here](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) 至 [here](http://web.archive.org/web/20191122175115/https://www.spacex.com/media)) had indeed been placed in至 the public domain and have no copyright restriction (including some images on [Flickr](https://web.archive.org/web/20170412063800/https://www.flickr.com/pho至s/spacex/16787988882/)).
+- [SpaceX media](https://www.spacex.com/media)  -SpaceX媒体**不再**将其图像列为公共领域. 即使在 [Flickr](https://web.archive.org/web/20170412063800/https://www.flickr.com/pho至s/spacex/16787988882/) ，它使用CC-BY-NC许可证. 但是，旧图片（来自 [here](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) 至 [here](http://web.archive.org/web/20191122175115/https://www.spacex.com/media)) had indeed been placed in至 the public domain and have no copyright restriction (including some images on [Flickr](https://web.archive.org/web/20170412063800/https://www.flickr.com/pho至s/spacex/16787988882/)).
 - [StockSnap](https://stocksnap.io/license) -没有任何版权限制的摄影.
 -上的旧图片 [Unsplash](https://unsplash.com/) .  Unsplash **不再**使用CC0，因此新映像不在公共域中（但许可证更改之前发布的所有映像仍然存在）.
-- [Wikimedia Commons: PD search](https://commons.wikimedia.org/w/index.php?search=filetype%3Aimage+incategory%3A%22cc-zero%7CPD-user%7CCC-PD-Mark%7CPD-Art+%28PD-old%29%7CPD-Art+%28PD-old-100%29%7CPD-Art+%28PD-old+default%29%7CPD-Art+%28PD-old-100-1923%29%7CPD-Art+%28PD-old-70-1923%29%7CLibrary+of+Congress-no+known+copyright+restrictions%7Cpublic+domain%22&title=Special%3ASearch&go=Go) -数以百万计的PD媒体（图像，视频，声音等）.
+- [Wikimedia Commons: PD search](https://commons.wikimedia.org/w/index.php?search=filetype%3Aimage+incategory%3A%22cc-zero%7CPD-user%7CCC-PD-Mark%7CPD-Art+%28PD-old%29%7CPD-Art+%28PD-old-100%29%7CPD-Art+%28PD-old+default%29%7CPD-Art+%28PD-old-100-1923%29%7CPD-Art+%28PD-old-70-1923%29%7CLibrary+of+Congress-no+known+copyright+restrictions%7Cpublic+domain%22&title=Special%3ASearch&go=Go) -数百万个PD媒体（图像，视频，声音等）.
 
 ## Licenses
 
 - [CC0 1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/) -“选择许可证”中CC0的全文和说明.
 - [Unlicense](http://unlicense.org/) -用于免除您所编写软件的版权垄断权益的模板.
-- [WTFPL](http://www.wtfpl.net/) -等效于PD的许可证（实际上不是公共领域）.
+- [WTFPL](http://www.wtfpl.net/) -PD等效许可证（实际上不是公共领域）.
 
 ## Organizations
 
-- [IndieWeb](https://indieweb.org/IndieWebCamp:Copyrights) -以人为本的替代方法，可为域名所有者提供宣传和教育.
-- [QuestionCopyright.org](http://questioncopyright.org/) -非营利组织，提供宣传和教育，以帮助文化生产者接受开放发行.
-- [Communia](https://www.communia-association.org/) -非营利组织，倡导扩大公共领域并增加对文化和知识的获取和再利用的政策.
+- [IndieWeb](https://indieweb.org/IndieWebCamp:Copyrights) -以人为本的“企业网”替代方案，该运动向域名所有者提供宣传和教育.
+- [QuestionCopyright.org](http://questioncopyright.org/) -提供宣传和教育以帮助文化生产者接受开放发行的非营利组织.
+- [Communia](https://www.communia-association.org/) -倡导扩大公共领域并增加对文化和知识的获取和再利用的政策的非营利组织.
 
 ## Related
 
-- [Creative Commons](https://creativecommons.org/) -致力于扩大创作范围的组织，可供他人合法使用和共享.
+- [Creative Commons](https://creativecommons.org/) -致力于扩大创作范围的组织，供他人合法使用和分享.
 - [Open Knowledge International](https://okfn.org/) -其使命是使每个人都可以访问关键信息并能够自由使用它的组织.
 
 ## Resources
@@ -127,7 +127,7 @@
 ## Software
 
 - [CanvasPaint](http://sigilmaster.com/) -以HTML，CSS和JavaScript克隆Microsoft Paint.
-- [Kakoune](https://github.com/mawww/kakoune/blob/master/UNLICENSE) -受Vim启发的文本编辑器，具有多种选择，客户端-服务器窗口架构以及用于文本操作的原语.
+- [Kakoune](https://github.com/mawww/kakoune/blob/master/UNLICENSE) -受Vim启发的文本编辑器，具有多种选择，客户端-服务器窗口体系结构以及用于文本操作的原语.
 - [Libregamewiki: PD Games](https://archive.org/search.php?query=possible-copyright-status%3A%28NOT_IN_COPYRIGHT%29%20OR%20licenseurl%3A%28%22http%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fmark%2F1.0%2F%22%29%20OR%20licenseurl%3A%28%22https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F%22%29) -完全PD游戏.
 - [Luapower](https://luapower.com/) -以独特的理念部署和共享Lua模块.
 - [single_file_libs](https://github.com/nothings/single_file_libs) -许多小型PD库供程序员使用.

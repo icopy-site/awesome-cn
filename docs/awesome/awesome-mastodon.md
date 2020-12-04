@@ -4,9 +4,9 @@
 
 [<img src="https://rawgit.com/tleb/awesome-mastodon/master/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org)
 
-&gt;与乳齿象有关的东西的精选清单！
+&gt;与Mastodon相关的内容精选清单！
 
- ** Mastodon是世界上最大的免费，开源，分散的微博网络**.  见 [Official](#official) 和 [Documentation](#documentation) 类别以了解有关网络的更多信息.
+ ** Mastodon是世界上最大的免费，开源，分散式微博网络**. 见 [Official](#official) 类别以了解有关网络的更多信息.
 
 
 
@@ -14,130 +14,120 @@
 
 * [Website](https://joinmastodon.org)
 * [GitHub repository](https://github.com/tootsuite/mastodon)
-* [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
-
-## Documentation
-
-* [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - 乳齿象简介.
-* [Wiki](https://en.mstdn.wiki/Main_Page) - 乳齿象社区维基.
-* [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
+* [Documentation & official explaination](https://docs.joinmastodon.org/)
+* [API documentation](https://docs.joinmastodon.org/client/intro/)
 
 ## Clients
 
-* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) -  Android客户端.
-* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - 适用于Twitter，GNU Social和Mastodon的Android应用.
-* [Tooty](https://github.com/n1k0/tooty) - 实验性多帐户Mastodon Web客户端（Elm）.
-* [toot](https://github.com/ihabunek/toot) -  Mastodon CLI客户端（Python）.
-* [madonctl](https://github.com/McKael/madonctl) -  Mastodon CLI客户端（Go）.
-* [naumanni](https://github.com/naumanni/naumanni) - 专为Mastodon设计的Web用户界面.
-* [Tooter](https://github.com/dysk0/harbour-tooter) -  SailfishOS的原生客户端.
-* [Tootdon](http://tootdon.club) - 适用于iOS和Android的全功能客户端.
-* [Mastalab](https://github.com/stom79/mastalab) -  Android客户端.
-* [Pinafore](https://github.com/nolanlawson/pinafore) -  Mastodon的替代Web客户端，专注于速度和简单性.
-* [Brutaldon](https://github.com/jfmcbrayer/brutaldon) -  Brutaldon是Mastodon的野兽派Web 1.0界面.
-* [Halcyon](https://notabug.org/halcyon-suite/halcyon) -  Mastodon和Pleroma的替代网络客户端，具有类似Twitter的界面.
-* [Planiverse](https://github.com/FuzzJunket/planiverse) -  Mastodon的极简主义，无JS Web客户端.
-* [Toot!](https://itunes.apple.com/app/toot/id1229021451?ls=1&mt=8) - 适用于iOS的Mastodon客户端.
+* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) -Android客户端.
+* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) -适用于Twitter，GNU Social和Mastodon的Android应用.
+* [Tooty](https://github.com/n1k0/tooty) -实验性多帐户Mastodon网络客户端（Elm）.
+* [toot](https://github.com/ihabunek/toot) -Mastodon CLI客户端（Python）.
+* [madonctl](https://github.com/McKael/madonctl) -Mastodon CLI客户端（运行）.
+* [naumanni](https://github.com/naumanni/naumanni) -专为Mastodon设计的Web用户界面.
+* [Tooter](https://github.com/dysk0/harbour-tooter) -SailfishOS的本地客户端.
+* [Fedilab](https://framagit.org/tom79/fedilab) -Android客户端.
+* [Pinafore](https://github.com/nolanlawson/pinafore) -Mastodon的替代Web客户端，专注于速度和简便性.
+* [Tootle](https://github.com/bleakgrey/tootle) -专为基本OS设计的简单Mastodon客户端.
+* [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) -Brutaldon是Mastodon的Brutalist Web 1.0 Web界面.
+* [Halcyon](https://notabug.org/halcyon-suite/halcyon) -Mastodon和Pleroma的替代Web客户端，具有类似Twitter的界面.
+* [Planiverse](https://git.mulligrubs.me/planiverse/) -Mastodon的极简主义，无JS Web客户端.
+* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) -适用于iOS的Mastodon客户端.
 
 ## Federated servers
 
-* [Mastodon](https://joinmastodon.org/) - 最知名的微博平台.
-* [Pleroma](https://pleroma.social/) - 轻量级微博平台.
-* [GnuSocial](https://gnu.io/social/) - 最古老的微博平台.
-* [Misskey](https://joinmisskey.github.io/) - 精密的微博平台.
-* [Microblog.pub](https://microblog.pub/) - 单用户轻量级微博平台.
-* [Osada](https://zotlabs.com/osada/) - 具有文件，联系人和事件共享的备用博客/社交网络平台.
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - 具有文件，联系人和事件共享的博客/社交网络平台.
-* [Friendica](https://friendi.ca/) - 社交网络平台.
-* [Peertube](https://joinpeertube.org/) - 视频分享平台.
-* [FunkWhale](https://funkwhale.audio/) - 音频分享平台.
-* [Plume](https://joinplu.me/) - 博客平台.
-* [WriteFreely](https://writefreely.org/) - 博客平台.
-* [Prismo](https://gitlab.com/prismosuite/prismo) - 链路聚合平台.
-* [PixelFed](https://pixelfed.org/) - 照片分享平台.
-* [NextCloud Social](https://apps.nextcloud.com/apps/social) - 云平台内的微博.
+* [Mastodon](https://joinmastodon.org/) -最知名的微博平台.
+* [Pleroma](https://pleroma.social/) -轻量级微博平台.
+* [GnuSocial](https://gnu.io/social/) -最早的微博平台.
+* [Microblog.pub](https://microblog.pub/) -单用户轻量级微博平台.
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) -具有文件，联系人和事件共享的博客/社交网络平台.
+* [Friendica](https://friendi.ca/) -社交网络平台.
+* [Peertube](https://joinpeertube.org/) -视频共享平台.
+* [FunkWhale](https://funkwhale.audio/) -音频共享平台.
+* [Plume](https://joinplu.me/) -博客平台.
+* [WriteFreely](https://writefreely.org/) -博客平台.
+* [Prismo](https://gitlab.com/prismosuite/prismo) -链接聚合平台.
+* [PixelFed](https://pixelfed.org/) -照片共享平台.
+* [NextCloud Social](https://apps.nextcloud.com/apps/social) -云平台内部的微博.
 
 ## Tools
 
-* [Mastodon instances](https://instances.social/list) -  Mastodon实例列表.
-* [Mastodon bridge](https://bridge.joinmastodon.org/) - 在联合Mastodon网络中找到您的Twitter好友.
-* [unmung.com/mastoview](http://www.unmung.com/mastoview) - 预览任何实例的本地或联合时间轴.
-* [Toot scheduler](https://scheduler.mastodon.tools/) - 现在安排，稍后嘟..
-* [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - 跟踪和显示有关Mastodon网络的可浏览统计数据.
-* [Last](https://framagit.org/luc/last) - 在提供Atom订阅源和epub（Perl）的网页上聚合toots.
-* [Forget](https://forget.codl.fr/about/) - 在用户定义的时间段后删除toots（Python [source code](https://github.com/codl/forget/)).
-* [Mastodon Toot Bookmarklet](https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) -  Bookmarklet to toot当前页面（[source code](https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
-* [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/?src=external-github-awesomelist) - 将远程跟踪/交互按钮的点击重定向到您自己的实例（[source code](https://github.com/rugk/mastodon-simplified-federation)).
-* [Mastodon Explorer](https://mastodon-explorer.netlify.com/) - 趋势标签和流行的toots，每小时重新生成.
+* [Mastodon instances](https://instances.social/list) -Mastodon实例列表.
+* [unmung.com/mastoview](http://www.unmung.com/mastoview) -预览任何实例的本地或联合时间表.
+* [Toot scheduler](https://scheduler.mastodon.tools/) -现在安排，稍后再嘟嘟.
+* [Last](https://framagit.org/luc/last) -在提供Atom提要和epub（Perl）的网页上汇总嘟嘟声.
+* [Forget](https://forget.codl.fr/about/) -在用户定义的时间段后删除嘟嘟声（Python [source code](https://github.com/codl/forget/)).
+* [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) -书签以标记当前页面（[source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
+* [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) -将远程关注/互动按钮上的点击重定向到您自己的实例（[source code](https://github.com/rugk/mastodon-simplified-federation)).
+* [Fediverse Explorer](https://fediverse.0qz.fun/) -每小时更新一次热门话题标签和流行嘟嘟声.
+
 
 ## User styles
 
-* [Variable width](https://userstyles.org/styles/139721/mastodon-glitch-soc-variable-width) - 使用浏览器的宽度调整Mastodon比例.
-* [Narrow drawer](https://userstyles.org/styles/141457/mastodon-dynamic-wide-columns-narrow-drawer) - 使用可变宽度样式，使抽屉更窄，其他列相应缩放.
+* [Variable width](https://userstyles.org/styles/139721/mastodon-glitch-soc-variable-width) -使Mastodon随浏览器的宽度缩放.
+* [Narrow drawer](https://userstyles.org/styles/141457/mastodon-dynamic-wide-columns-narrow-drawer) -使用可变宽度样式时，可使抽屉变窄，其他列也相应缩放.
 
 ## User scripts
 
-* [NSFW Remover](https://greasyfork.org/fr/scripts/29228-mastodon-nsfw-remover) - 自动显示NSFW图像.
-* [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) - 在网格上移动和调整列的大小.
-* [BirdSite](https://gitlab.com/pmorinerie/birdsite) - 浏览器扩展，用于将Mastodon toots交叉发布到Twitter.
+* [NSFW Remover](https://greasyfork.org/fr/scripts/29228-mastodon-nsfw-remover) -自动显示NSFW图像.
+* [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) -在网格上移动和调整列的大小.
+* [BirdSite](https://gitlab.com/pmorinerie/birdsite) -用于将Mastodon嘟嘟交叉发布到Twitter的浏览器扩展.
 
 ## Bots
 
-* [feed2toot](https://gitlab.com/chaica/feed2toot) - 自动解析RSS提要，识别新帖子并在Mastodon（Python）上发布.
-* [usercount](https://github.com/josefkenny/usercount) - 将用户统计信息发布到Mastodon（Python）的Bot.
-* [autofollow](https://github.com/gled-rs/mastodon-autofollow) - 用于Mastodon（Python）的Autofollow bot.
-* [hnbot](https://github.com/raymestalez/mastodon-hnbot) - 用100多点（Python）发布黑客新闻故事.
-* [translator](https://christopher.su/projects/translator/) - 使用`@ translator @ toot.works [langcode]`将任何toot翻译成所需的语言.
-* [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - 向您展示Mastodon的趋势.
-* [Remindr](https://gitlab.com/chaica/remindr) - 从资源列表（Python）自动向Mastodon和Twitter发送提醒.
-* [News Bot](https://botsin.space/@newsbot) - 镜像Mastodon（ClojureScript）上的Twitter帐户，源代码可用 [GitHub](https://github.com/yogthos/mastodon-bot).
-* [Welcome Bot](https://github.com/indyhall/mastodon-welcome-bot) - 自动向新用户发送欢迎DM（Python）.
+* [feed2toot](https://gitlab.com/chaica/feed2toot) -自动解析RSS提要，识别新帖子并将其发布在Mastodon（Python）上.
+* [usercount](https://github.com/josefkenny/usercount) -将用户统计信息发布到Mastodon（Python）的Bot.
+* [autofollow](https://github.com/gled-rs/mastodon-autofollow) -Mastodon（Python）的Autofollow机器人.
+* [hnbot](https://github.com/raymestalez/mastodon-hnbot) -发布100分以上的Hacker News故事（Python）.
+* [translator](https://christopher.su/projects/translator/) -使用`@ translator @ toot.works [langcode]`将任何嘟嘟声翻译成所需的语言.
+* [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) -向您展示Mastodon的趋势.
+* [Remindr](https://gitlab.com/chaica/remindr) -从资源列表中自动向Mastodon和Twitter发送提醒（Python）.
+* [News Bot](https://botsin.space/@newsbot) -在Mastodon（ClojureScript）上镜像Twitter帐户，其来源可在 [GitHub](https://github.com/yogthos/mastodon-bot).
+* [Welcome Bot](https://github.com/indyhall/mastodon-welcome-bot) -自动将欢迎DM发送给新用户（Python）.
 
 ## News & magazines bots
 
- 请注意：大多数都是非官方的.  此外，我们不*推荐* any，它们仅在此列出以供参考.
+请注意：其中大多数是非官方的. 另外，我们不“推荐”任何内容，仅在此处列出这些内容供您参考.
 
 ### English
 
-* [@fsf@status.fsf.org](https://status.fsf.org/fsf) -  FSF自由软件基金会.
-* [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - 黑客新闻.
-* [@newsstream@quitter.im](https://quitter.im/newsstream) -  NewsStream.
-* [@btc@framapiaf.org](https://framapiaf.org/@btc) - 有关比特币加密货币的新闻（市场，社区，上升/下降警报）.
-* [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - 有关以太坊加密货币（市场，社区，上升/下降警报）的新闻.
-* [@monero@framapiaf.org](https://framapiaf.org/@monero) - 有关Monero Cryptocurrency的新闻（市场，社区，上升/下降警报）.
-* [@launchradar@mastodon.cloud](https://mastodon.cloud/@launchradar) - 有关太空飞行，天文学和天体物理学的新闻.
+* [@fsf@status.fsf.org](https://status.fsf.org/fsf) -FSF自由软件基金会.
+* [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) -黑客新闻.
+* [@btc@framapiaf.org](https://framapiaf.org/@btc) -有关比特币加密货币的新闻（市值，社区，上升/下降警报）.
+* [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) -有关以太坊加密货币的新闻（市值，社区，上升/下降警报）.
+* [@monero@framapiaf.org](https://framapiaf.org/@monero) -有关Monero加密货币的新闻（市值，社区，上升/下降警报）.
+* [@launchradar@mastodon.cloud](https://mastodon.cloud/@launchradar) -有关太空飞行，天文学和天体物理学的新闻.
 
 ### Français
 
-* [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) -  BFMTV.
-* [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) - 国际快递.
-* [@artefr@mamot.fr](https://mamot.fr/@artefr) - 艺术
-* [@datagueule@framapiaf.org](https://framapiaf.org/@datagueule) -  DATA Maw.
+* [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) -BFMTV.
+* [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) -国际邮件.
+* [@artefr@mamot.fr](https://mamot.fr/@artefr) - 艺术.
+* [@datagueule@framapiaf.org](https://framapiaf.org/@datagueule) -DATA Gueule.
 * [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - 世界.
-* [@libe@mamot.fr](https://mamot.fr/@libe) - 发布.
-* [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) - 链式鸭.
-* [@lefigaro@mastodon.xyz](https://mastodon.xyz/@lefigaro) - 费加罗报.
+* [@libe@mamot.fr](https://mamot.fr/@libe) - 释放.
+* [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) -链鸭.
+* [@lefigaro@mastodon.xyz](https://mastodon.xyz/@lefigaro) -费加罗报
 * [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - 天.
-* [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - 外交世界.
-* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - 官方媒体部分（未激活）.
-* [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapartbot) -  Mediapart active bot.
-* [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) -  NextInpact.
+* [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) -外交世界.
+* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) -官方Mediapart（无效）.
+* [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapartbot) -Mediapart bot处于活动状态.
+* [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) -NextInpact.
 * [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info.
-* [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) -  TV5世界.
 
 ## Associations
 
 ### English
 
-* [@torproject@mastodon.social](https://mastodon.social/@torproject) -  Tor项目.
+* [@torproject@mastodon.social](https://mastodon.social/@torproject) -Tor项目.
 
 ### Français
 
-* [@aprilorg@pouet.april.org](https://pouet.april.org/@aprilorg) - 四月
-* [@Attac@mamot.fr](https://mamot.fr/@Attac) -  Attac France.
-* [@acrimed@mamot.fr](https://mamot.fr/@acrimed) -  Acrimed.
-* [@framasoft@framapiaf.org](https://framapiaf.org/@Framasoft) -  Framasoft.
-* [@LaQuadrature@mamot.fr](https://mamot.fr/@LaQuadrature) - 网络的正交.
+* [@aprilorg@pouet.april.org](https://pouet.april.org/@aprilorg) -四月
+* [@Attac@mamot.fr](https://mamot.fr/@Attac) -法国Attac.
+* [@acrimed@mamot.fr](https://mamot.fr/@acrimed) -好.
+* [@framasoft@framapiaf.org](https://framapiaf.org/@Framasoft) -Framasoft.
+* [@LaQuadrature@mamot.fr](https://mamot.fr/@LaQuadrature) -La Quadrature du Net.
 
 ## Blogs
 
@@ -145,17 +135,15 @@
 
 ### Français
 
-* [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - 电影掘墓人.
-* [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - 心理卫生.
-* [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - 黑客杂志.
-* [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) -  Korben（机器人）.
-* [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) -  Kriss / Minute Butterfly.
+* [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) -心理卫生.
+* [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) -黑客日记.
+* [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) -Korben（机器人）.
 
 ## Libraries
 
-* [Mastodon.py](https://github.com/halcy/Mastodon.py) -  Mastodon API的Python包装器.
-* [Megalodon](https://github.com/h3poteto/megalodon) -  node.js的Mastodon API客户端库.
+* [Mastodon.py](https://github.com/halcy/Mastodon.py) -Mastodon API的Python包装器.
+* [Megalodon](https://github.com/h3poteto/megalodon) -适用于node.js的Mastodon API客户端库.
 
 ## Hosting
 
-* [Masto.host](https://masto.host) - 完全托管的Mastodon托管.
+* [Masto.host](https://masto.host) -完全托管的Mastodon托管.

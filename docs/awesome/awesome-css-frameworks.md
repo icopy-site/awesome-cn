@@ -2,9 +2,15 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CSS Frameworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-很棒的CSS框架列表.
-
+很棒的CSS框架列表.  
 随意地 [contribute](https://github.com/troxler/awesome-css-frameworks/blob/master/.github/CONTRIBUTING.md).
+
+**支持 [FrontAid CMS](https://frontaid.io/?pk_campaign=cssfw)**:
+
+<a href="https://frontaid.io/?pk_campaign=cssfw"><img
+  src =“ https://raw.githubusercontent.com/troxler/awesome-css-frameworks/master/media/frontaid.png”
+  宽度=“ 600”
+  alt =“ FrontAid CMS-使用Git进行敏捷内容管理.”&gt;
 
 
 
@@ -25,7 +31,7 @@
   [Repo](https://github.com/jgthms/minireset.css)
   | #Sass
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) -可扩展，可扩展，基于Sass的OOCSS框架，用于大型且持久的UI项目.  
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) -可扩展，可扩展，基于Sass的OOCSS框架，适用于大型且持久的UI项目.  
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
@@ -35,7 +41,7 @@
   [Repo](https://github.com/filipelinhares/ress)
   | #CSS
 
-- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) - Normalize for Chrome, Firefox, and Safari only (no support for Edge or Internet Explorer).  
+- [**modern-normalize**](https://github.com/sindresorhus/modern-normalize) -仅对Chrome，Firefox和Safari进行标准化（不支持Edge或Internet Explorer）.  
   ![](https://img.shields.io/github/stars/sindresorhus/modern-normalize.svg?style=social&label=Star)
   [Repo](https://github.com/sindresorhus/modern-normalize)
   | #CSS
@@ -136,7 +142,6 @@
 
 - [**Foundation**](http://foundation.zurb.com) -世界上最先进的响应式前端框架.  
   ![](https://img.shields.io/github/stars/zurb/foundation-sites.svg?style=social&label=Star)
-  [Demo](http://zurb.com/responsive),
   [Docs](http://foundation.zurb.com/sites/docs/),
   [Repo](https://github.com/zurb/foundation-sites)
   | #SCSS
@@ -255,6 +260,11 @@
   [Docs](https://github.com/nostalgic-css/NES.css#installation),
   [Repo](https://github.com/nostalgic-css/NES.css)
   | #SCSS
+  
+- [**98.css**](https://jdan.github.io/98.css/) -CSS库，用于构建类似于Windows 98的界面.  
+  ![](https://img.shields.io/github/stars/jdan/98.css.svg?style=social&label=Star)
+  [Repo](https://github.com/jdan/98.css)
+  | #CSS
 
 - [**Gutenberg**](https://github.com/BafS/Gutenberg) -可以正确打印网络的现代框架.  
   ![](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=social&label=Star)
@@ -262,7 +272,7 @@
   [Repo](https://github.com/BafS/Gutenberg)
   | #SCSS
 
-- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) -像Edward Tufte的讲义一样为您的网页设置样式.  
+- [**Tufte CSS**](https://edwardtufte.github.io/tufte-css/) -按照Edward Tufte的讲义对网页进行样式设置.  
   ![](https://img.shields.io/github/stars/edwardtufte/tufte-css.svg?style=social&label=Star)
   [Repo](https://github.com/edwardtufte/tufte-css)
   | #CSS
@@ -277,7 +287,7 @@
 ## Toolkits
 
 工具箱更接近于库而不是框架.
-它们没有提供实际的样式，而是提供了可在CSS预处理器中使用的实用程序（例如mixins）.
+它们没有提供实际的样式，但是提供了可在CSS预处理器中使用的实用程序（例如mixins）.
 
 - [**Bourbon**](https://www.bourbon.io/) -轻量级Sass工具集.  
   ![](https://img.shields.io/github/stars/thoughtbot/bourbon.svg?style=social&label=Star)
@@ -293,7 +303,7 @@
 我们将其保留在这里以供参考/启发，并希望能有所复兴.
 
 <details>
-  <summary> <strong>显示部分</strong> </summary>
+  <summary><strong>显示部分</strong></summary>
 
 - [**Material Design Lite**](https://getmdl.io) -HTML / CSS / JS中的Material Design组件.  
   ![](https://img.shields.io/github/stars/google/material-design-lite.svg?style=social&label=Star)
@@ -359,7 +369,7 @@
   [Repo](https://github.com/imperavi/kube)
   | #SCSS
 
-- [**Concise CSS**](http://concisecss.com)  -放弃膨胀.  别再上课了.  简明扼要.  
+- [**Concise CSS**](http://concisecss.com)  -放弃膨胀. 停止绊倒您的课程. 简明扼要.  
   ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social&label=Star)
   [Docs](http://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)
@@ -375,7 +385,7 @@
   [Repo](https://github.com/responsivebp/responsive)
   | #SCSS
 
-- [**Centurion**](https://www.centurionframework.com) -基于Web的框架，用于快速制作原型和构建较大的Web项目.  
+- [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
   [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),
   [Repo](https://github.com/justinhough/Centurion)

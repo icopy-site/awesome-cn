@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 精选的Perl5框架，库和软件的精选列表.  受启发 [awesome-go](https://github.com/avelino/awesome-go).
+精选的Perl5框架，库和软件的精选列表. 受启发 [awesome-go](https://github.com/avelino/awesome-go).
 
-不是Perl6模块;-P
+不是Perl6模块；-P
 
 ### Another module list
 
@@ -14,7 +14,7 @@
 * [Perlres - A list of resources about Perl](https://github.com/thibaultduponchelle/perlres)
 * [PerlMaven.com list of Perl Software](http://perlmaven.com/perl-based-open-source-products)
 * [Slaven's CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod)
- *许多任务：: **模块.  （例如Task :: Plack，Task :: BeLike :: <AuthorName>  ...）
+ *许多任务：: **模块.  （例如Task :: Plack，Task :: BeLike ::<AuthorName>  ...）
 
 
 
@@ -38,7 +38,7 @@
 
 * [Benchmark](https://metacpan.org/pod/Benchmark)
 * [Dumbbench](https://metacpan.org/pod/Dumbbench)
-* [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) - Benchmark in multiprocesses
+* [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) -多进程基准
 
 ## Caches
 
@@ -62,8 +62,8 @@
 * [Class::Accessor::Lite](https://metacpan.org/pod/Class::Accessor::Lite) -简单的访问生成器.
 * [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy) -生成惰性访问器.
 * [Homer](https://metacpan.org/pod/Homer) -基于简单原型的对象系统.
-* [Mo](https://metacpan.org/pod/Mo)  -微型对象.  钼少.
-* [Moo](https://metacpan.org/pod/Moo) -支持元编程的类生成器.
+* [Mo](https://metacpan.org/pod/Mo)  -微型对象. 钼少.
+* [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
 * [Moose](https://metacpan.org/pod/Moose) -唯一的，驼鹿.
 * [Mouse](https://metacpan.org/pod/Mouse) -另一个类构建器，例如Moo / Moose.
 * [Object::Tiny](https://metacpan.org/pod/Object::Tiny) -简洁，快速且小巧的类生成器.
@@ -87,6 +87,7 @@
 ## Commercial WebServices
 
 * [Net::Xero](https://metacpan.org/pod/Net::Xero) -Xero会计介面
+* [PagerDuty::Agent](https://metacpan.org/pod/PagerDuty::Agent) -一个Perl PagerDuty客户端
 * [WebService::Spotify](https://metacpan.org/pod/WebService::Spotify) -Spotify Web API的简单界面
 * [WebService::Xero](https://metacpan.org/pod/WebService::Xero) -访问Xero Accounting Package公共和私有应用程序API
 * [WWW::Shopify](https://metacpan.org/pod/WWW::Shopify) -代表特定Shopify商店访问权限的对象
@@ -140,11 +141,11 @@
 * [DBD::CSV](https://metacpan.org/pod/DBD::CSV)
 * [DBD::Firebird](https://metacpan.org/pod/DBD::Firebird)
 * [DBD::mysql](https://metacpan.org/pod/DBD::mysql)
-* [DBD::ODBC](https://metacpan.org/pod/DBD::ODBC)  -任何ODBC驱动程序.  带占位符的MS-SQL
+* [DBD::ODBC](https://metacpan.org/pod/DBD::ODBC)  -任何ODBC驱动程序. 带占位符的MS-SQL
 * [DBD::Oracle](https://metacpan.org/pod/DBD::Oracle) -DBI模块的Oracle数据库驱动程序
 * [DBD::Pg](https://metacpan.org/pod/DBD::Pg) -DBI的PostgreSQL驱动程序.
 * [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
-* [DBD::Sybase](https://metacpan.org/pod/DBD::Sybase)  -Sybase和MS-SQL.  虽然没有带MS-SQL的占位符
+* [DBD::Sybase](https://metacpan.org/pod/DBD::Sybase)  -Sybase和MS-SQL. 虽然没有带MS-SQL的占位符
 
 ### NoSQL Databases
 
@@ -173,7 +174,7 @@
 
 ## DevOps Tools
 
-*在跨计算机网络和多台主机上部署软件时提供帮助的库跨计算机网络工作*
+*当您要跨多个主机的网络上部署软件/跨计算机网络运行时提供帮助的库*
 
 * [Rex](https://metacpan.org/pod/Rex) -远程执行
 
@@ -185,24 +186,24 @@
 
 ## Event Loops
 
- *用于各种事件循环的库.  如果您愿意，可以进行异步编程*
+ *用于各种事件循环的库. 如果您愿意，可以进行异步编程*
 
 * [AE](https://metacpan.org/pod/AE) -更简单，更快，更新的AnyEvent API
 * [AnyEvent](https://metacpan.org/pod/AnyEvent) -事件循环编程的DBI
-* [EV](https://metacpan.org/pod/EV)  -使用libev，非常快速且受欢迎.  如果存在的话，默认为AnyEvent
+* [EV](https://metacpan.org/pod/EV)  -使用libev，非常快速且受欢迎. 如果存在的话，默认为AnyEvent
 * [Event](https://metacpan.org/pod/Event) -效果不错，但是比较老
 * [IO::Async](https://metacpan.org/pod/IO::Async) -异步事件驱动的编程
 * [POE](https://metacpan.org/pod/POE) -多个事件循环的通用接口
 
 ## Exception Handling
 
-*协助和/或提供eval {die（）}替代品的图书馆*
+*协助和/或提供eval {die（）}替代方法的图书馆*
 
 * [autodie](https://metacpan.org/pod/autodie) -用在词法范围内成功或死亡的函数替换函数
 * [Exception::Class](https://metacpan.org/pod/Exception::Class) -一个允许您在Perl中声明真正的异常类的模块
 * [Syntax::Keyword::Try](https://metacpan.org/pod/Syntax::Keyword::Try) -perl的try / catch / finally语法
 * [Throwable](https://metacpan.org/pod/Throwable) -可以抛出的类的角色
-* [Try::Tiny](https://metacpan.org/pod/Try::Tiny) -尽量减少尝试/捕获，并适当保留$ @
+* [Try::Tiny](https://metacpan.org/pod/Try::Tiny) -尽量减少尝试/抓取，并适当保留$ @
 * [TryCatch](https://metacpan.org/pod/TryCatch) -一流的尝试捕获Perl的语义，没有源过滤器
 
 ## File Manipulation
@@ -212,7 +213,7 @@
 
 ## Form Frameworks
 
-*消除（网络和用户界面）形式的无聊和重复的图书馆*
+*图书馆（Web和UI）消除了厌烦和重复的形式*
 
 * [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst::Controller::HTML::FormFu) -在Catalyst中使用HTML :: FormFu.
 * [CGI::FormBuilder](https://metacpan.org/pod/CGI::FormBuilder) -轻松生成和处理有状态的表格.
@@ -221,7 +222,7 @@
 * [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) -HTML表单创建，呈现和验证框架.
 * [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) -从HTML :: FormFu配置文件生成ExtJS表单.
 * [HTML::FormHandler](https://metacpan.org/pod/HTML::FormHandler) -使用Moose的HTML表单.
-* [Mojolicious::Plugin::FormFields](https://metacpan.org/pod/Mojolicious::Plugin::FormFields) -具有验证和过滤功能的轻巧，灵活的表单生成器.
+* [Mojolicious::Plugin::FormFields](https://metacpan.org/pod/Mojolicious::Plugin::FormFields) -轻巧，灵活的表单生成器，带有验证和过滤功能.
 * [WWW::Form](https://metacpan.org/pod/WWW::Form) -简单且可扩展的模块，允许开发人员处理HTML表单输入验证并灵活一致地显示.
 
 ## Images
@@ -266,7 +267,7 @@
 * [DOCSIS::ConfigFile](https://metacpan.org/pod/DOCSIS::ConfigFile) -解码和编码DOCSIS配置文件
 * [NetAddr::MAC](https://metacpan.org/pod/NetAddr::MAC) -处理MAC地址
 
-*在跨计算机网络工作时提供帮助的图书馆*
+*在跨计算机网络工作时提供帮助的库*
 
 * [Net::SSH::Perl](https://metacpan.org/pod/Net::SSH::Perl) -在Perl中实现的SSH客户端.
 * [Net::SSH2](https://metacpan.org/pod/Net::SSH2) -包装 [libssh2](https://libssh2.org/).
@@ -314,7 +315,7 @@
 *协议客户端和库*
 
 * [Furl](https://metacpan.org/pod/Furl) -更快的HTTP（S）客户端
-* [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny)  -最小和快速的客户.  包含在标准包装中.
+* [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny)  -最小和快速的客户. 包含在标准包装中.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) -流行的HTTP（S）客户端
 * [Net::DHCP](https://metacpan.org/pod/Net::DHCP) -发送和接收DHCP数据包
 * [Net::DNS](https://metacpan.org/pod/Net::DNS) -解析DNS主机名
@@ -331,7 +332,7 @@
 * [TheSchwartz](https://metacpan.org/pod/TheSchwartz)
 
 ## Science/Numerics
-*用于研究，科学，数值和超级计算的精选模块*
+*用于研究，科学，数字和超级计算的精选模块*
 
 * [BioPerl](https://metacpan.org/pod/BioPerl)
 * [Chart::Clicker](https://metacpan.org/pod/Chart::Clicker) -功能强大，可扩展的图表
@@ -351,7 +352,7 @@
 * [Dancer2::Plugin::REST](https://metacpan.org/pod/Dancer2::Plugin::REST) -使用Dancer2编写RESTful应用程序的插件
 * [Dancer::Plugin::REST](https://metacpan.org/pod/Dancer::Plugin::REST) -使用Dancer编写RESTful应用程序的插件
 * [Raisin](https://metacpan.org/pod/Raisin) -用于Perl的REST API微型框架
-* [Squatting](https://metacpan.org/pod/Squatting) -适用于Perl的以露营为灵感的Web微框架
+* [Squatting](https://metacpan.org/pod/Squatting) -适用于Perl的基于露营的Web微框架
 
 ## Template Engines
 
@@ -363,8 +364,8 @@
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) -用纯Perl和核心模块编写的快速，简单和安全的模板引擎.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) -扩展文本:: MicroTemplate.
 * [Text::Template](https://metacpan.org/pod/Text::Template) -带有嵌入式Perl的模板
-* [Text::Xslate](https://metacpan.org/pod/Text::Xslate)  -XS更快的模板引擎.  支持多种语法.
-* [Tiffany](https://metacpan.org/pod/Tiffany)  -模板引擎的通用接口.  它使使用多个模板引擎变得容易.
+* [Text::Xslate](https://metacpan.org/pod/Text::Xslate)  -XS更快的模板引擎. 支持多种语法.
+* [Tiffany](https://metacpan.org/pod/Tiffany)  -模板引擎的通用接口. 它使使用多个模板引擎变得容易.
 * [Template::Magic](https://metacpan.org/pod/Template::Magic) -运行时值与模板的神奇结合.
 
 ## Testing
@@ -376,7 +377,7 @@
 * [Test::Base](https://metacpan.org/pod/Test::Base) -数据驱动的测试框架
 * [Test::Base::Less](https://metacpan.org/pod/Test::Base::Less) -Test :: Base的受限版本
 * [Test::BDD::Cucumber](https://metacpan.org/pod/Test::BDD::Cucumber) -在Perl中实施流行的Cucumber框架
-* [Test::Class](https://metacpan.org/pod/Test::Class)  -基于类的测试.  支持“设置”和“拆卸”.
+* [Test::Class](https://metacpan.org/pod/Test::Class)  -基于类的测试. 支持“设置”和“拆卸”.
 * [Test::Deep](https://metacpan.org/pod/Test::Deep) -高度灵活地测试深层和复杂的数据结构.
 * [Test::Deep::Matcher](https://metacpan.org/pod/Test::Deep::Matcher)
 * [Test::Harness](https://metacpan.org/pod/Test::Harness) -使用统计信息运行Perl标准测试脚本
@@ -402,18 +403,19 @@
 
 *一些有用的工具*
 
-* [App::Ack](https://metacpan.org/pod/App::Ack) -ack是grep之类的工具，已针对程序员进行了优化.
+* [App::Ack](https://metacpan.org/pod/App::Ack) -ack是grep之类的工具，针对程序员进行了优化.
 * [App::Nopaste](https://metacpan.org/pod/App::Nopaste) -从CLI发布到各种pastebins
-* [Daiku](https://metacpan.org/pod/Daiku) -为Perl做准备.
+* [Daiku](https://metacpan.org/pod/Daiku) -为Perl做.
 * [Data::Printer](https://metacpan.org/pod/Data::Printer) -Perl数据结构和对象的彩色漂亮打印.
 * [Reply](https://metacpan.org/pod/Reply) -Read-eval-print-loop（REPL）命令行工具.
 * [Riji](https://metacpan.org/pod/Riji) -使用markdown和git的静态网站生成器主要用于博客.
+* [Smart::Comments](https://metacpan.org/pod/Smart::Comments) -评论不只是坐在那里.
 
 *用于开发命令行应用程序的库*
 
 * [Toolbox::Simple](https://metacpan.org/pod/Toolbox::Simple) -简化Perl中的一些常见任务.
 * [Script::Toolbox](https://metacpan.org/pod/Script::Toolbox) -日常业务脚本的框架.
-* [Devel::Kit](https://metacpan.org/pod/Devel::Kit)-便于开发/调试的便捷工具箱.
+* [Devel::Kit](https://metacpan.org/pod/Devel::Kit)-方便使用的工具箱，可简化开发/调试过程.
 
 *用于处理配置文件的库*
 
@@ -421,7 +423,7 @@
 
 ## Video
 
-* [FFmpeg](https://metacpan.org/pod/FFmpeg) -FFmpeg的接口，FFmpeg是用C编写的视频转换器
+* [FFmpeg](https://metacpan.org/pod/FFmpeg) -FFmpeg（用C语言编写的视频转换器）的接口
 * [Video::Info](https://metacpan.org/pod/Video::Info) -检索视频属性，例如：高度宽度编解码器fps
 
 ## Web Frameworks
@@ -429,7 +431,7 @@
 *用于开发Web应用程序的库*
 
 * [Amon2](https://metacpan.org/pod/Amon2)
-* [Catalyst](https://metacpan.org/pod/Catalyst)  -功能丰富.  非常受欢迎.
+* [Catalyst](https://metacpan.org/pod/Catalyst)  -功能丰富. 很受欢迎.
 * [Dancer](https://metacpan.org/pod/Dancer) ([Official site](http://perldancer.org/))
 * [Dancer2](https://metacpan.org/pod/Dancer2)
 * [Gantry](https://metacpan.org/pod/Gantry) -用于mod \ _perl，cgi等的Web应用程序框架
@@ -442,7 +444,7 @@
 *用于创建HTTP中间件的库*
 
 * [Gazelle](https://metacpan.org/pod/Gazelle) -预分叉的Plack处理程序可提高性能
-* [Plack](https://metacpan.org/pod/Plack) -PSGI服务器实现和Web应用程序实用程序.
+* [Plack](https://metacpan.org/pod/Plack) -用于Web应用程序的PSGI服务器实现和实用程序.
 * [Server::Starter](https://metacpan.org/pod/Server::Starter) -具有“正常重启”功能的流程管理器.
 * [Starlet](https://metacpan.org/pod/Starlet) -高性能PSGI服务器
 * [Starman](https://metacpan.org/pod/Starman) -高性能的预分叉PSGI / Plack Web服务器

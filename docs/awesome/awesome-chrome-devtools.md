@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Chrome DevTools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; Chrome DevTools生态系统中的强大工具和资源
+&gt; Chrome DevTools生态系统中的出色工具和资源
 
 
 
@@ -10,7 +10,7 @@
 
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) -大量的提示作为GIF动画.
-- [DevTools Snippets](https://github.com/bahmutov/code-snippets) -片段的集合.
+- [DevTools Snippets](https://github.com/bahmutov/code-snippets) -片段摘要.
 
 ### Multiuser DevTools
 - [DevTools Remote](https://github.com/auchenberg/devtools-remote) -远程调试其他人的浏览器.
@@ -27,7 +27,7 @@
 - [Weer](https://weerdbg.com/) -HTTP协议调试器**（关闭源）**
 
 ### CPU profile
-- [call-trace](https://github.com/brendankenny/call-trace)  -可以使用钩子检测JS，然后生成完整（非采样）执行的`.cpuprofile`.  查看时间或通话计数.
+- [call-trace](https://github.com/brendankenny/call-trace)  -可以使用钩子检测JS，然后生成完整（非采样）执行的`.cpuprofile`. 查看时间或通话计数.
 - [cpuprofilify](https://github.com/thlorenz/cpuprofilify) -将各种性能分析/采样工具的输出转换为`.cpuprofile`格式.
 - [Wishbone python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) -分析数据可以导出为`.cpuprofile`.
 
@@ -42,12 +42,12 @@
 - [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) -VS Code中的Elements面板.
 - [ChromeREPL](https://github.com/acarabott/ChromeREPL) -在Sublime Text中，使用Chrome控制台.
 - [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) -Sublime Text中的JavaScript Breakpoint调试功能.
-- [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) -WebStorm IDE可以调试JavaScript，查看DOM树以及实时编辑HTML，CSS和JS.
+- [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) -WebStorm IDE可以调试JavaScript，查看DOM树并实时编辑HTML，CSS和JS.
 
 ---
 
 ## Chrome DevTools Protocol
-- [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol)  -**协议JSON的规范位置**.  协议错误的问题跟踪器.  TypeScript类型.
+- [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol)  -**协议JSON的规范位置**. 协议错误的问题跟踪器.  TypeScript类型.
 - [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) -易于浏览的UI，用于浏览协议的域，方法和事件.
 
 ### Developing with the protocol
@@ -57,7 +57,7 @@
 - [DevTools Backend](https://github.com/christian-bromann/devtools-backend) -Chrome DevTools后端的独立实现，可调试任意网络环境.
 - [RemoteDebug](https://github.com/RemoteDebug) -主动在当今的浏览器中标准化调试协议.
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) -Chrome的官方Selenium / WebDriver实现是在DevTools协议之上实现的.
-- [BrowserGap Community Edition](https://github.com/dosycorp/browsergap.ce)  -远程浏览器产品，开源.  大量使用原始的树梢式Chrome DevTools协议.
+- [BrowserGap Community Edition](https://github.com/dosycorp/browsergap.ce)  -远程浏览器产品，开源. 大量使用原始的，树梢的Chrome DevTools协议.
 
 ### Automation
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer/) -Node.js提供了高级API，可通过DevTools协议控制无头Chrome.
@@ -65,7 +65,8 @@
   -休息端口： [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
   -.NET端口： [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
   - [headless-devtools](https://github.com/cowchimp/headless-devtools) -Puppeteer插件可获取CSS Coverage或JS Heap快照.
-- [Taiko](https://github.com/getgauge/taiko/) -一个Node.js模块，可使用DevTools协议自动执行chrome / chromium.
+  - [PuPHPeteer](https://github.com/rialto-php/puphpeteer) -使用PHP控制Puppeteer的PHP桥.
+- [Taiko](https://github.com/getgauge/taiko/) -一个Node.js模块，可使用DevTools协议自动执行Chrome / Chromium.
 -还有下面的所有“协议驱动程序库”
 
 ### Protocol Driver Libraries
@@ -73,7 +74,7 @@
 -TypeScript / Node.js： [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client)
 -Java： [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
 -Java： [karate](https://intuit.github.io/karate/karate-core/) -带有Java API的Web服务测试框架，可自动执行Chrome浏览器
--Python： [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol)  -纯Python，无IO包装器.  另请参阅 [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
+-Python： [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol)  -纯Python，无IO包装器. 另请参阅 [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
 -Python： [chromewhip](https://github.com/chuckus/chromewhip) -直接替换`splash`服务
 -Python： [pychrome](https://github.com/fate0/pychrome) -低级CDP传输处理程序
 -Python： [ChromeController](https://github.com/fake-name/ChromeController) -高级浏览器mgmt
@@ -81,7 +82,7 @@
 - 走： [cdp](https://github.com/mafredri/cdp)
 - 走： [gcd](https://github.com/wirepair/gcd)
 - 走： [godet](https://github.com/raff/godet)
-- C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools)  -协议包装生成器，可以通过编辑车把模板进行自定义.  包括.Net Core模板.
+- C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools)  -协议包装生成器，可以通过编辑车把模板进行自定义. 包括.Net Core模板.
 -红宝石： [Cuprite](https://github.com/machinio/cuprite) -水豚司机
 -红宝石： [ChromeRemote](https://github.com/cavalle/chrome_remote/)
 -Kotlin： [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) -Kotlin中的反应式（rxjava 2.x）低级客户端库
@@ -99,7 +100,7 @@
 
 #### Android
 - [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
-- [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) -调试在其中运行的JavaScript [J2V8](https://github.com/eclipsesource/J2V8) 使用Chrome DevTools.
+- [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) -调试运行在其中的JavaScript [J2V8](https://github.com/eclipsesource/J2V8) 使用Chrome DevTools.
 
 #### ClojureScript
 - [Dirac](https://github.com/binaryage/dirac) -ClojsureScript的调试.
@@ -115,8 +116,8 @@
 
 #### Node.js
 - [ndb](https://github.com/GoogleChromeLabs/ndb) -使用DevTools前端改善了Node.js调试体验.
-- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) -有关在Node v6.3 +中使用完整调试和性能分析支持的指南.
-- [thetool](https://github.com/sfninja/thetool) -CPU，内存，覆盖率，节点类型分析.
+- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) -关于在Node v6.3 +中使用完整调试和性能分析支持的指南.
+- [thetool](https://github.com/sfninja/thetool) -CPU，内存，覆盖率，Node类型分析.
 - [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) -Chrome随附的前端镜像.
 
 ---
@@ -124,7 +125,7 @@
 ## DevTools Extensions
 
 ### Accessibility (A11y)
-- [Chromelens](http://chromelens.xyz) -查看具有不同类型视力的人的Web应用外观，以及用户在浏览页面时浏览的路径.
+- [Chromelens](http://chromelens.xyz) -查看具有不同类型视力的人的Web应用外观，以及用户在浏览页面时的行进路径.
 
 ### Workflow
 - [Clockwork](https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) -查看PHP应用程序分析数据.
@@ -136,7 +137,7 @@
 - [Angular Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) -检查Angular应用程序的范围并分析其数据.
 - [Augury](https://augury.angular.io) -Angular 2应用程序的调试和性能分析.
 - [Marionette Inspector](https://chrome.google.com/webstore/detail/marionette-inspector/fbgfjlockdhidoaempmjcddibjklhpka) -检查木偶应用程序的视图，事件和实时数据.
-- [Backbone Debugger](https://chrome.google.com/webstore/detail/backbone-debugger/bhljhndlimiafopmmhjlgfpnnchjjbhd) -检查骨干应用程序的视图，模型，事件和路由.
+- [Backbone Debugger](https://chrome.google.com/webstore/detail/backbone-debugger/bhljhndlimiafopmmhjlgfpnnchjjbhd) -检查Backbone应用程序的视图，模型，事件和路由.
 - [App Inspector for Sencha](https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae) -检查Sencha ExtJS / Touch应用程序的组件树，数据存储，事件和布局.
 - [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) -检查Redux的动作历史记录，撤消和重播.
 - [Three.js](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea/) -编辑任何three.js项目.
@@ -145,12 +146,11 @@
 - [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) -检查金属组件层次结构.
 
 ### Themes
-- [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) -选择了一些主题来修改与创作Web应用程序有关的DevTools部分.
+- [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) -选择了一些主题来修改与编写Web应用程序有关的DevTools部分.
 - [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) -Chrome开发者工具的深色主题.
-- [Material UI Theme](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) -提供各种受材料设计启发的主题.
+- [Material UI Theme](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) -提供各种材料设计灵感主题.
 
 ### Performance
-- [Chrome React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm) -react-addons-perf软件包的操作接口.
 - [sloth](https://github.com/denar90/sloth) -Chrome扩展程序可以启用和保存选定标签的CPU和网络限制.
 - [TracerBench](https://github.com/TracerBench/tracerbench) -TracerBench是用于Web应用程序的受控性能基准测试工具，可提供对性能增量的清晰，可操作和可用的见解.
 

@@ -18,15 +18,15 @@
 ### Utilities
 
 - [Gifgen](https://github.com/lukechilds/gifgen) -简单的高质量GIF编码
-- [Gifify](https://github.com/vvo/gifify) -将任何视频文件转换为优化的动画GIF
+- [Gifify](https://github.com/vvo/gifify) -将任何视频文件转换为优化的GIF动画
 - [Gifify (not the same)](https://github.com/jclem/gifify) -将屏幕录制转换为GIF
 - [Gifsicle](https://github.com/kornelski/giflossy) -有损GIF压缩器
 - [Gifs](https://github.com/jglovier/gifs) -GIF的存储位置
 - [Gifshot](https://github.com/yahoo/gifshot)  -通过Yahoo从媒体创建动画GIF.  （[demo](http://yahoo.github.io/gifshot/))
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) -使用动画GIF作为传输的实时通信库
-- [X-gif](https://github.com/geelen/x-gif) -用于灵活GIF播放的Web组件
+- [X-gif](https://github.com/geelen/x-gif) -用于灵活播放GIF的网络组件
 - [GifW00t](https://github.com/yaronn/GifW00t) -JavaScript网络录像机
-- [gif-machine](https://github.com/lelandbatey/gif-machine) -从YouTube视频创建GIF
+- [gif-machine](https://github.com/lelandbatey/gif-machine) -从Youtube视频创建GIF
 - [gifstreaming](https://github.com/jbochi/gifstreaming) -实时视频流服务器
 - [Screengif](https://github.com/dergachev/screengif) -创建动画GIF截屏
 - [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) -通过HTTP将屏幕更新作为GIF动画形式提供
@@ -41,7 +41,7 @@
 - [Gifit](https://github.com/Fauntleroy/GIFit) -Chrome扩展程序可通过YouTube视频制作GIF
 - [Ccapture.js](https://github.com/spite/ccapture.js) -捕获使用HTML5画布创建的动画
 - [Kap](https://getkap.co/) -美丽的开源应用程序，可捕获您的屏幕并导出到GIF.
-- [Gifit (the other one)](https://github.com/rotblauer/gifit) -在stdout，$$ gifit小猫的markdown中获得搜索结果giphy GIF.
+- [Gifit (the other one)](https://github.com/rotblauer/gifit) -在stdout，$`gifit小猫`的markdown中获得搜索结果giphy GIF.
 - [gifski](https://github.com/ImageOptim/gifski) -基于libimagequant的高质量GIF编码器.
 - [Gifcurry](https://github.com/lettier/gifcurry) -Haskell为GIF制作者构建的开源编辑器.
 
@@ -54,7 +54,7 @@
 #### C++
 
 - [Node-gif](https://github.com/pkrumins/node-gif) -C ++库制作GIF
-- [Gif-h](https://github.com/charlietangora/gif-h) -C ++单头库，用于创建动画GIF
+- [Gif-h](https://github.com/charlietangora/gif-h) -用于创建动画GIF的C ++单头库
 - [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) -C ++ openframeworks插件可导出动画GIF
 
 <h3 id="c-sharp">C#</h2>
@@ -74,7 +74,7 @@
 - [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) -使用动画GIF作为Android Drawable
 - [GifView](https://github.com/RoiSoleil/GifView) -处理GIF的android库
 - [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) -用于显示GIF动画的Android View小部件
-- [GifImageView](https://github.com/felipecsl/GifImageView) -处理动画GIF图像的Android ImageView
+- [GifImageView](https://github.com/felipecsl/GifImageView) -处理动态GIF图像的Android ImageView
 - [Gif-animation](https://github.com/extrapixel/gif-animation) -处理库以播放和导出GIF
 - [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) -Android动画GIF编码器
 - [GIFDroid](https://github.com/quackware/GIFDroid) -Android视频到GIF转换器
@@ -86,7 +86,7 @@
 - [Omggif](https://github.com/deanm/omggif) -Javascript-GIF 89a编码器和解码器
 - [Animated_GIF](https://github.com/sole/Animated_GIF) -用于创建动画GIF的Javascript库
 - [Gifffer](https://github.com/krasimir/gifffer) 防止自动播放动画GIF的JavaScript库
-- [Gifplayer](https://github.com/rubentd/gifplayer) -jQuery插件可播放和停止GIF动画
+- [Gifplayer](https://github.com/rubentd/gifplayer) -jQuery插件以播放和停止动画GIF
 - [Jsgif](https://github.com/shachaf/jsgif) -JavaScript GIF解析器和播放器
 - [node-gify](https://github.com/tj/node-gify) -Javascript使用ffmpeg和gifsicle将视频转换为GIF
 - [Gifencoder](https://github.com/eugeneware/gifencoder) -用于node.js的服务器端动画GIF生成
@@ -99,17 +99,17 @@
 
 - [GifCreator](https://github.com/Sybio/GifCreator) -从多个图像创建动画GIF的PHP类
 - [Spacer.gif](https://github.com/msng/spacer.gif) -PHP脚本提供spacer.gif 1x1
-- [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) -分隔动画GIF的所有帧的PHP类
+- [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) -分隔动画GIF所有帧的PHP类
 
 #### Objective-C
 
 - [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) -从GIF动画图像数据解码UIImage
 - [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) -加载动画GIF的UIImage类别
-- [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) -“推特音乐”和“ Yahoo! Weather”，如“按需刷新”
+- [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) -“推特音乐”和“ Yahoo! Weather”，如“按需刷新”控制
 - [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) -用于播放GIF的UIImageView类别/子类
-- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard
+- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) -FlipBoard的iOS Gif引擎
 - [Animated-GIF-iPhone](https://github.com/arturogutierrez/Animated-GIF-iPhone) -在iOS上支持动画GIF
-- [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) -使用动画GIF将PullToRefresh应用于任何scrollView
+- [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) -使用动画GIF对任何scrollView进行PullToRefresh
 - [SvGifView](https://github.com/smileEvday/SvGifView) -iOS加载并显示GIF
 - [GifHUD](https://github.com/cemolcay/GiFHUD) -iOS进度显示框仅显示动画GIF图像
 - [Video-Background GIF](https://github.com/ElvinJin/Video-Background-GIF) -iOS视频背景GIF
@@ -118,7 +118,7 @@
 
 #### Swift
 
--[SwiftyGif]（https://github.com/kirualex/SwiftyGif）-高性能且易于使用的Gif引擎
+- [SwiftyGif](https://github.com/kirualex/SwiftyGif) -高性能且易于使用的Gif引擎
 - [Gifu](https://github.com/kaishin/gifu) -Swift中对iOS的GIF动画支持
 - [SwiftGif](https://github.com/swiftgif/SwiftGif) -具有GIF支持的UIImage扩展
 
@@ -133,15 +133,15 @@
 
 ### Hosting
 
-- [Gfycat](https://gfycat.com)  -最大GIF /视频长度：15秒.  档案上传上限为300Mb
+- [Gfycat](https://gfycat.com)  -最大GIF /视频长度：15秒. 档案上传上限为300Mb
 - [Imgur](https://imgur.com) -档案上传上限为50MB
 
 ### Online Tools
 
 - [Vid2gif](https://imgur.com/vidgif) -视频由imgur转换为GIF
-- [EzGif](https://ezgif.com/) -在线GIF制作器和图片编辑器
-- [Giflr](https://giflr.com/) -用于制作或重新混合GIF动画的网络应用
-- [Gif.gf](http://www.gif.gf/labs/face) -为您的脸提供匹配的GIF
+- [EzGif](https://ezgif.com/) -在线GIF制作者和图片编辑器
+- [Giflr](https://giflr.com/) -用于制作或重新混合动画GIF的网络应用
+- [Gif.gf](http://www.gif.gf/labs/face) - Provide a matching GIF for your face
 
 ### Community
 
@@ -175,7 +175,7 @@ if [ $# -ne 5 ]; then
     回声“ ./frames2gif.sh [目录] [movie.mp4] [文件名.gif] [gm | im | ffmpeg] [png | jpg]”
     1号出口
 fi
-     如果[“ png” ==“ $ 5”];  然后
+    如果[“ png” ==“ $ 5”]; 然后
         suffix =“ png”
     其他
         suffix =“ jpg”
@@ -183,7 +183,7 @@ fi
 
     CONVERT = $（转换）
     GM = $（哪个gm）
-    FFMPEG = $（其中ffmpeg）
+    FFMPEG = $（ffmpeg）
     FFPROBE = $（其中ffprobe）
     FPS = $（$ FFPROBE -show_streams -select_streams v -i“ $ 2” 2&gt; / dev / null | grep“ r_frame_rate” | cut -d&#39;=&#39;-f2 | cut -d&#39;/&#39;-f1）
     回声“ FPS：$ {FPS}”
@@ -362,7 +362,7 @@ page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',
 
 使用此列表的最佳方法是：
 
--通过使用<kbd>命令</kbd> + <kbd>F</kbd>搜索内容
+-通过使用<kbd>命令</kbd>+ <kbd>F</kbd>搜索内容
 
 ## Credits
 
@@ -378,7 +378,7 @@ page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',
 
 除非另有说明：
 
--版权所有©2017+ [Craig Davison](https://davison.io) .  根据许可 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+-版权所有©2017+ [Craig Davison](https://davison.io) . 根据许可 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 基于 [recovered list](https://github.com/sindresorhus/awesome/issues/872):
 

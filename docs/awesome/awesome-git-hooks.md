@@ -14,15 +14,15 @@
 
 &gt;：anchor：易于使用的git挂钩，可在git工作流程期间自动执行任务.
 
- Git钩子是自定义脚本，可用于自动执行在执行git命令之前或之后触发的任务.  这些挂钩有两组：客户端和服务器端.  客户端挂钩由诸如提交和合并之类的操作触发，而服务器挂钩由网络操作（如接收推送的提交）运行.  此仓库包含有用的资源以及各种git hook脚本，可以轻松自定义这些git hook脚本以用于不同目的.
+ Git钩子是自定义脚本，可用于自动执行在执行git命令之前或之后触发的任务. 这些挂钩有两组：客户端和服务器端. 客户端挂钩由诸如提交和合并之类的操作触发，而服务器挂钩由网络操作（如接收推送的提交）运行. 此仓库包含有用的资源以及各种git hook脚本，可以轻松对其进行自定义以满足不同目的.
 
 ：heavy_check_mark：无需安装/下载
 
 ：heavy_check_mark：代码有据可查
 
- ：heavy_check_mark：抢走！  复制您要使用的代码并将其粘贴到.git / hooks文件夹中
+ ：heavy_check_mark：抢走！ 复制您要使用的代码，然后粘贴到.git / hooks文件夹中
 
- 总是欢迎捐款！  请看我们 [Contribution Guidelines](https://github.com/compscilauren/awesome-git-hooks/blob/master/CONTRIBUTING.md) .  另外，如果您在下面找不到想要的脚本，则可以 [create a new issue](https://github.com/CompSciLauren/awesome-git-hooks/issues/new?assignees=&labels=enhancement&template=new-git-hook-script-request.md&title=) 要求它.
+总是欢迎捐款！ 请看我们 [Contribution Guidelines](https://github.com/compscilauren/awesome-git-hooks/blob/master/CONTRIBUTING.md) . 另外，如果在下面找不到所需的脚本，则可以 [create a new issue](https://github.com/CompSciLauren/awesome-git-hooks/issues/new?assignees=&labels=enhancement&template=new-git-hook-script-request.md&title=) 要求它.
 
 
 
@@ -30,7 +30,7 @@
 
 注意：每个脚本旁边的图标表示该脚本使用的语言.
 
- |  图标|  语言|
+ | 图标| 语言|
 | -------------------------------------------------------- | -------- |
 | <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">      |  bash |
 | <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">  |  `python` |
@@ -47,7 +47,7 @@
 
 ### post-update
 
-- [update-server-info](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/post-update-hooks/update-server-info.hook) -准备一个打包的存储库以用于哑传输（例如，http）. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [update-server-info](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/post-update-hooks/update-server-info.hook) -准备一个打包的存储库以用于哑传输（例如http）. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
 
 ### pre-commit
 
@@ -67,7 +67,7 @@
 
 ### pre-rebase
 
-- [prevent-rebase](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-rebase-hooks/prevent-rebase.hook) -防止重新合并已经合并到“下一个”分支的主题分支，因为允许分支将导致重新编制已经发布的历史记录. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [prevent-rebase](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/pre-rebase-hooks/prevent-rebase.hook) -防止重新合并已经合并到“下一个”分支的主题分支，因为允许它会导致对已经发布的历史记录进行重新设置. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
 
 ### query-watchman
 
@@ -79,14 +79,14 @@
 
 ## Quick Start
 
- 1.选择一个挂钩，任何挂钩！  如果不确定从哪里开始，请尝试“验证名称和电子邮件”.
+ 1.选择一个挂钩，任何挂钩！ 如果不确定从哪里开始，请尝试“验证名称和电子邮件”.
 2.导航到项目的hooks文件夹（.git / hooks）.
- 3.您应该会在其中看到文件列表.  创建一个名为您要使用的确切提交类型的新文件（例如：“ commit-msg”，“ pre-rebase”，“ pre-commit”等）.  不要给它扩展名.
+ 3.您应该会在其中看到文件列表. 创建一个名为您要使用的确切提交类型的新文件（例如：“ commit-msg”，“ pre-rebase”，“ pre-commit”等）. 不要给它扩展名.
 
 ![create new file](https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/create-new-file.gif)
 
 4.打开新文件，然后从您从该存储库中选择的挂钩中粘贴代码（例如： [verify-name-and-email.hook](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
- 5.保存文件.  做完了！  现在，git钩子将自动触发.
+ 5.保存文件. 做完了！ 现在，git hook将自动触发.
 
 ## Tools
 
@@ -94,7 +94,7 @@
 
 - [Overcommit](https://github.com/sds/overcommit) -完全可配置和可扩展的git hook管理器.
 
-- [Git Hooks](https://github.com/icefox/git-hooks) -更轻松地管理项目，用户和全局git挂钩.
+- [Git Build Hook Maven Plugin](https://github.com/rudikershaw/git-build-hook) -在Maven构建过程中安装Git钩子和配置.
 
 - [CaptainHook](https://github.com/CaptainHookPhp/captainhook) -适用于PHP开发人员的Git挂钩管理器.
 
@@ -124,6 +124,8 @@
 
 - [Git hooks and practical uses. Yes, even on Windows.](https://www.tygertec.com/git-hooks-practical-uses-windows/)
 
+- [Automatically Manage Git Hooks with Direnv](https://knpw.rs/blog/direnv-git-hooks)
+
 ## Video Guides
 
 - [Git Hooks Part 1 - Getting Started](https://www.youtube.com/watch?v=aB3eq52sZSU)
@@ -132,4 +134,4 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg) ]（https://creativecommons.org/publicdomain/zero/1.0/） <br />  这项工作是根据<a rel="license" href="http://creativecommons.org/licenses/by/1.0/">知识共享署名1.0国际许可授权的</a> .
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg) ]（https://creativecommons.org/publicdomain/zero/1.0/）<br /> 这项工作是根据<a rel="license" href="http://creativecommons.org/licenses/by/1.0/">知识共享署名1.0国际许可授权的</a>.

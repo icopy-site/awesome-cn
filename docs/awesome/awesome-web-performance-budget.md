@@ -1,16 +1,13 @@
 <div class="github-widget" data-repo="pajaydev/awesome-web-performance-budget"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
- &gt; Web性能预算是对影响网站性能的某些值的一组限制，在任何Web项目的设计和开发中都不应超过这些限制.  通过设置效果预算，我们可以将更多精力放在性能上，从而可以提高网站的速度和整体用户体验.  此列表可帮助我们提供各种文章，项目，工具和技术的链接，以维护绩效预算.
+ &gt; Web性能预算是对影响网站性能的某些值的一组限制，在任何Web项目的设计和开发中都不应超过这些限制. 通过设置效果预算，我们可以将更多精力放在性能上，从而可以提高网站的速度和整体用户体验. 此列表可帮助我们提供指向各种文章，项目，工具和技术的链接，以维护绩效预算.
 
 
 
-
-## Why We need Performance Budget
-
-- [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) -Addyosmani的绩效预算.
 
 ## Articles
+- [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) -Addyosmani的绩效预算.
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) -Addyosmani的绩效预算.
 - [Your first performance budget](https://web.dev/your-first-performance-budget/) -说明了如何通过几个简单的步骤定义您的首个效果预算.
 - [Designing for Performance](http://designingforperformance.com/index.html#table-of-contents) -性能对设计师而言多么重要.
@@ -21,26 +18,28 @@
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) -在Angular项目中实施绩效预算.
 - [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) -在您的构建过程中设置性能预算.
 - [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) -制定绩效预算的说明.
+- [Impact of Page Weight on Load Time](https://paulcalvano.com/2018-07-02-impact-of-page-weight-on-load-time/) - 
 
 ## Tools to measure Performance Budget
 
-- [Performance Budget Calculator](http://www.performancebudget.io/) -计算您网站的性能预算.
+- [Performance Budget Calculator](http://www.performancebudget.io/) -计算您网站的效果预算.
 - [Web Page Test](https://www.webpagetest.org/easy) -测试您的表现.
 - [Speed Curve](https://speedcurve.com) -测量网络性能，获取当今的性能指标.
 - [Yellow Lab Tools](https://yellowlab.tools/) -在线测试可帮助加快繁重的网页.
 - [Sitespeed.io](https://www.sitespeed.io/) -易于监视和衡量您网站的性能.
+- [Perf Track](https://perf-track.web.app/) -大规模跟踪框架性能.
 
 ## Build Tools to set up performance budget
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) -检查包的大小.
 - [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) -如果您在项目中使用Webpack，则可以选择此选项.
-- [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) -用于性能预算的艰巨任务.
-- [Size Limit](https://github.com/ai/size-limit)  -计算运行JS应用或lib来保持良好性能的实际成本.  如果费用超出限制，则在拉取请求中显示错误.
-- [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) -随时间跟踪压缩的Webpack资产大小.
-- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) -布置您的模板类型，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小.
-- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) -布置您的模板类型，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小. 
+- [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) -用于绩效预算的艰巨任务.
+- [Size Limit](https://github.com/ai/size-limit)  -计算运行JS应用或lib来保持良好性能的实际成本. 如果费用超出限制，则在拉取请求中显示错误.
+- [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) -跟踪压缩后的Webpack资产大小.
+- [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小.
+- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) -对模板类型进行布局，为每种模板类型设置大小预算，然后为将在模板中加载的每种资产类别插入大小. 
 - [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) -CLI工具和lib以通过Lighthouse收集性能指标.
-- [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) -扩展，以在VS代码编辑器中内联显示导入包的大小.
+- [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) -扩展以在VS代码编辑器中内联显示导入包的大小.
 
 ## Bundle Analyzers
 
@@ -50,19 +49,33 @@
 - [Disc](http://hughsk.io/disc/) -可视化浏览器项目捆绑包的模块树并追踪膨胀. 
 - [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) -分析和可视化由Lasso创建的项目包.
 - [Rollup Visualizer](https://github.com/btd/rollup-plugin-visualizer) -可视化并分析汇总套件，以查看哪些模块占用了空间.
-- [Parcel plugin Visualizer](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) -用于包裹捆扎机的插件，用于可视化捆扎内容.
+- [Parcel plugin Visualizer](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) -包裹捆扎机的插件，用于可视化捆扎内容.
 - [CSS Analyzer](https://github.com/macbre/analyze-css) -CSS选择器的复杂性和性能分析器.
+
+## Website Analyzers
+- [Lighthouse Metrics](https://lighthouse-metrics.com/)  -Lighthouse Metrics可轻松了解您网站的性能. 通过在多个位置运行测试来节省您的时间，以获得所需的宝贵见解.
+- [UITest.com Site Check](https://uitest.com/check/) -使用80多种工具（基于Web的和免费的）测试您的网站.
+
+## Podcasts
+- [Chasing Waterfalls](https://chasingwaterfalls.io/) -与人交谈，以提高网络速度 [Tim kadlec](https://timkadlec.com/)
+- [Shoptalk Show](https://shoptalkshow.com/) -关于建立网站的播客.
 
 ## Videos
 
-- [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) -与蒂姆·卡德莱克（Tim Kadlec）共同制定的绩效预算.
+- [Concept of Performance Budget](https://www.youtube.com/watch?list=PLYo5nh8xQFpkwsu9QNlCpPGkmCCuTTWDJ&v=yqejmZrtmNg) -与Tim Kadlec共同制定的绩效预算.
 - [Implementing Performance Budgets](https://youtu.be/vVlpCmK1l5k) -如何实施效果预算以避免回退-Google Chrome开发者.
 - [Design Decisions Through The Lens Of A Performance Budget](https://vimeo.com/108328247) -从项目开始就如何做出更明智的设计决策，以确保我们的网站表现良好.
 
+## Books
+
+- [Web Performance Warrior](https://www.oreilly.com/library/view/web-performance-warrior/9781492048114/)
+- [Designing for Performance](http://designingforperformance.com/)
+
 ## Case Studies
 
+- [Web Performance Optimization case studies](https://wpostats.com/) -案例研究和实验证明了Web性能优化（WPO）对用户体验和业务指标的影响.
 - [BBC - Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) -在构建响应式网站时进行了优化.
-- [Casper.com Self-hosting Optimization](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec) -我们如何通过自托管Optimizely将casper.com缩短1.7秒.
+- [Casper.com Self-hosting Optimization](https://medium.com/caspertechteam/we-shaved-1-7-seconds-off-casper-com-by-self-hosting-optimizely-2704bcbff8ec) -如何通过自托管Optimizely将casper.com节省1.7秒.
 - [Netflix Performance Improvement by shipping less JS](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) -Netflix网络性能案例研究.
 - [Pinterest Web App Optimization](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154/) -Pinterest渐进式Web应用性能案例研究.
 - [Smashing Magazine's Web Performance](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study/) -改进《 Smashing Magazine》的Web性能案例研究.

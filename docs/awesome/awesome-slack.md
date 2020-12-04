@@ -6,7 +6,7 @@
 由** Slack **支持的有关Web开发和设计的社区列表.
 
 ## What's Slack
- &gt; Slack是团队沟通的平台：任何地方都可以在一个地方，即时搜索，无论身在何处都可以使用.  *-slack.com *
+ &gt; Slack是团队沟通的平台：任何地方都可以在同一地方进行即时搜索，无论您身在何处都可以使用.  *-slack.com *
 
 
 ## Development
@@ -46,7 +46,6 @@
 
 ## Misc
 - [WordPress](https://make.wordpress.org/chat/)
-- [👋 Remote - Remote workers community](https://slack-helloremote.now.sh)
 - [Chit Chats](http://www.chitchats.co/)
 - [The Evangelist Collective](https://github.com/evangelistcollective/)
 - [Psychedelic Chat](http://psychedelicchat.com/)
@@ -65,7 +64,7 @@
 - [Awesome Community](https://github.com/phpearth/awesome-community)
 
 ## Contribute
- 您的贡献和建议是：心：欢迎.  确保阅读 [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) 第一.
+您的贡献和建议是：心：欢迎. 确保阅读 [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) 第一.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -24,21 +24,25 @@
 - [Laravel Developer Roadmap](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap) -2020年成为Laravel开发人员的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/Hasnayeen/laravel-developer-roadmap).
 
 ## Mobile Development
-- [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) -在2018年成为iOS开发人员的路线图.
+- [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) -成为2018年成为iOS开发人员的路线图.
 - [Android Developer Roadmap](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap) -帮助新开发者开始构建漂亮的android应用程序 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/anacoimbrag/android-developer-roadmap).
+- [Flutter Developer Roadmap](https://github.com/olexale/flutter_roadmap) -使用Google Flutter SDK创建混合应用的路线图
 
 ## Game Development
 - [Game Developer Roadmap](https://raw.githubusercontent.com/utilForever/game-developer-roadmap) -2020年成为游戏开发商的路线图 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://raw.githubusercontent.com/utilForever/game-developer-roadmap).
 - [Game Programmer](https://github.com/miloyip/game-programmer) -游戏程序员的学习途径.
 
-## Miscellaneous
-- [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) -2017年成为UI / UX设计师的路线图.
-- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) -渴望学习这项惊人技术的任何人的深度学习论文阅读路线图.
+## AI / Machine Learning / Data Science
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) -成为人工智能专家的路线图
+- [NLP Roadmap](https://raw.githubusercontent.com/graykode/nlp-roadmap) -面向有兴趣学习NLP的学生的ROADMAP和KEYWORD [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/graykode/nlp-roadmap).
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) -渴望学习这项惊人技术的任何人的《深度学习》论文阅读路线图.
 - [Deep Learning Roadmap](https://github.com/machinelearningmindset/deep-learning-roadmap) -您需要了解的有关深度学习的所有知识-启动器.
 - [Data Scientist Roadmap](https://github.com/hasbrain/data-science-roadmap) -概述数据科学所需的核心技能.
+
+## Miscellaneous
+- [UI/UX Designer Roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) -2017年成为UI / UX设计师的路线图.
 - [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap) -业余笔测试人员指南，以及一系列黑客工具，资源和参考资料.
-- [NLP Roadmap](https://raw.githubusercontent.com/graykode/nlp-roadmap) -面向有兴趣学习NLP的学生的ROADMAP和KEYWORD [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://raw.githubusercontent.com/graykode/nlp-roadmap).
-- [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) -适用于所有开发人员的软件设计和体系结构路线图.
+- [The Full-Stack Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) -适用于任何开发人员的软件设计和体系结构路线图.
 
 ## Articles
 - [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) -提供适当路线图以成为更好的Android开发人员的文章集.

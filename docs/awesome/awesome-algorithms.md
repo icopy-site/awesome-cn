@@ -3,7 +3,7 @@
 ## Awesome Algorithms
 
 精选的学习和/或练习算法的地方列表.
-受启发 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 以及所有其他很棒的Awesome库.
+受启发 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 以及所有其他出色的Awesome库.
 
 如果您想贡献，请阅读 [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
@@ -12,19 +12,20 @@
 
 *您应该用来学习经典算法的网站*
 
-* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) -用于了解图形遍历算法如何工作的交互式可视化
+* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) -交互式可视化，用于学习图形遍历算法的工作方式
 * [Algomation](http://www.algomation.com/) -生动活泼的算法说明.
-* [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) -数十种动画算法（带有代码），您也可以创建自己的算法.
+* [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) -数十种动画算法（带有代码），您也可以创建自己的动画算法.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) -关于算法可视化的密集文章.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) -计算机科学中常用算法的Big-O复杂性.
 * [Code-Drills](https://code-drills.com/tools/comparator) -练习问题推荐者（包括Codeforce，Codechef和Spoj）.
+* [CP-Algorithms](https://cp-algorithms.com/) -在竞争性编程领域特别流行的算法和数据结构.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) -可视化数据结构的行为并进行操作.
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) -很多很好解释和实现的算法.
-* [Path Finding](https://qiao.github.io/PathFinding.js/visual/) -视觉表示法，例如A \ *，IDA \ *，广度优先搜索，最佳优先搜索等算法如何描述两点A和B之间的路径.
+* [Path Finding](https://qiao.github.io/PathFinding.js/visual/) -关于算法（例如A \ *，IDA \ *，广度优先搜索，最佳优先搜索等）如何描述两点A和B之间的路径的直观表示.
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) -一个编程主题网站，旨在以不同的编程语言介绍许多算法和数据结构的实现.
-* [Sorting Algorithms](http://www.sorting-algorithms.com/)  -精美而简单的排序算法动画.  带有短代码和讨论.
+* [Sorting Algorithms](http://www.sorting-algorithms.com/)  -精美而简单的排序算法动画. 带有短代码和讨论.
 * [Stoimen's web log](http://www.stoimen.com/) -一些算法很好地解释了.
-* [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) -排序的声音-排序算法的“听觉化”和可视化
+* [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) -分类的声音-分类算法的“听觉化”和可视化
 * [VisuAlgo](http://visualgo.net) -通过动画可视化数据结构和算法.
 * [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - 当然！！
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - 那么为何不 ？！！
@@ -36,7 +37,7 @@
 * [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) -主要主题是：渐近（“ Big-oh”）表示法，排序和搜索，分治法和随机算法.
 * [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) -主要主题是：数据结构，图基元及其应用.
 * [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) -主要主题是：贪婪算法和动态编程.
-* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) -主要主题是：最短路径，NP完整性及其对算法设计者的意义以及应对计算上难以解决的问题的策略.
+* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) -主要主题是：最短路径，NP完整性及其对算法设计者的意义以及应对计算上棘手的问题的策略.
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) -本课程涵盖了每个认真的程序员都需要了解的有关算法和数据结构的基本信息.第一部分介绍了基本数据结构，排序和搜索算法. 
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) -第二部分着重于图形和字符串处理算法.
 * [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) -由Tomas Cormen和Devin Balkcom主持的算法课程.
@@ -45,7 +46,7 @@
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) -简单易懂的算法介绍.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) -基于Python的算法课程.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) -根据《 Grokking Algorithms》一书，提供有趣插图的初学者算法课程
-* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) -关于各种计算机科学主题的解释得很清楚的视频.〜_ _由于违反了YouTube政策，帐户被终止了._
+* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) -关于各种计算机科学主题的解释得很清楚的视频.〜_ _由于违反了YouTube策略，帐户被终止了._
 
 ## Books
 
@@ -54,7 +55,7 @@
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) -非常简单.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) -使用JavaScript实现和解释的经典算法和数据结构.
-* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -这本很棒的书提出了许多编码挑战，从简单的任务到使用k-means进行数据聚类不等.
+* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -这本很棒的书提出了许多编码挑战，从简单的任务到使用k-means进行数据聚类.
 * [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) -一种实现具有特定可编程任务的算法的好方法.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) -数据结构的基本概念和用法.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) -一本关于算法和数据结构的很棒的书.
@@ -148,15 +149,15 @@
 * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) -日本在线法官.
 * [Algo Muse](http://www.algomuse.appspot.com) -基于研究的算法问题. 
 * [AtCoder](https://atcoder.jp/) -日本编程比赛网站.
-* [Baekjoon Online Judge](https://www.acmicpc.net/)  -韩国在线法官.  超过10000个问题.  支持60多种语言.
+* [Baekjoon Online Judge](https://www.acmicpc.net/)  -韩国在线法官. 超过10000个问题. 支持60多种语言.
 * [CS Academy](https://csacademy.com/) -举办在线竞赛和IOI实践竞赛
 * [CodeChef](https://www.codechef.com/) -更多问题和每月在线竞赛.
 * [Codeforces ](http://codeforces.com/) -唯一的编程竞赛Web 2.0平台
 * [Codefights](https://codefights.com/) -主动编程并解决您的下一次技术面试
 * [CodeMarshal](https://algo.codemarshal.org/) -现实世界在线竞赛！
 * [CodeWars](http://www.codewars.com/) -提供支持以多种难度解决多种语言算法的网站.
-* [CoderByte](http://www.coderbyte.com/)  -一个体面的网站，从初学者到高级都面临算法挑战.  支持大多数流行的语言，例如C ++，python，javascript，ruby.
-* [Firecode](https://www.firecode.io/) -Firecode.io使用机器学习算法以及精心策划的真实世界面试问题，解决方案和活跃的学习者社交社区，为您的下一次编码面试做好准备.
+* [CoderByte](http://www.coderbyte.com/)  -一个不错的网站，从初学者到高级都面临算法挑战. 支持大多数流行的语言，例如C ++，python，javascript，ruby.
+* [Firecode](https://www.firecode.io/) -Firecode.io使用机器学习算法以及精选的真实世界面试问题，解决方案和充满活力的学习者社交社区，为您的下一次编码面试做好准备.
 * [Coding Blocks](https://hack.codingblocks.com/app/) -基于数学，数据结构，各种算法存在问题的网站，并且进行编码竞赛.
 * [HackerEarth ](https://www.hackerearth.com/) -练习算法问题和挑战，并参与招聘挑战.
 * [HackerRank](https://www.hackerrank.com/) -特色算法和功能编程在线评委
@@ -171,10 +172,10 @@
 * [ProjectEuler](https://projecteuler.net/) -可以使用算法解决的数学问题（或者只是一支铅笔，取决于您已经知道的多少）.
 * [Rosalind](http://rosalind.info/problems/locations/) -通过解决问题学习生物信息学和程序设计的平台.
 * [ShareCode.io ](https://sharecode.io/) -在线裁判和竞赛主持人要解决存档中很多算法问题.
-* [Snakify](https://snakify.org/) -具有100多种算法问题和逐步调试器的入门Python课程（来自俄罗斯）.
+* [Snakify](https://snakify.org/) -具有100多种算法问题和逐步调试器的Python入门课程（来自俄罗斯）.
 * [SPOJ](http://www.spoj.com/) -更多问题.
-* [TopCoder](https://www.topcoder.com/) -图形设计，数据科学和开发中的许多问题和现实世界/物有所值的问题.
-* [URI](https://www.urionlinejudge.com.br/judge/login)  -巴西在线法官.  问题不多，但是它正在增长，并且有在线竞赛.
+* [TopCoder](https://www.topcoder.com/) -平面设计，数据科学和开发中的许多问题和现实/物有所值的问题.
+* [URI](https://www.urionlinejudge.com.br/judge/login)  -巴西在线法官. 问题不多，但是它正在增长，并且有在线竞赛.
 * [UVA](https://uva.onlinejudge.org/) -数百个问题（来自以前的ACM-ICPC地区，世界总决赛等）.
 
 ## Blogs
@@ -183,7 +184,7 @@
 
 * [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) -很棒的博客，提供所有资源以及书籍和算法列表.
 * [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) -Petr Mitrichev撰写的优秀博客，主要涉及Java.
-* [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) -从编程运动入手的真正有用的博客.
+* [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) -内容丰富的博客，介绍编程运动.
 * [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) -为了更深入地了解算法以及如何正确地思考.
 ## Tools
 
@@ -193,7 +194,7 @@
 
 ## License
 
-为了版权左起，这是我们的许可证：
+为了版权左起，以下是我们的许可：
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
