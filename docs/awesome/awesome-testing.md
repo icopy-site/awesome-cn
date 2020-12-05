@@ -23,7 +23,7 @@
 - [BareTail](https://www.baremetalsoft.com/baretail/) -将tail linux命令带到Windows，彩色线条和REGEX搜索以及其他功能的加载.
 - [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) -我们都必须弄乱代理，这使得使用Test / Prod / localhost代理时变得容易得多.
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) -当PrintScreen不够大时.
-- [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) -每次填写大表格都会很烦人，使用虚拟数据可以加快填写速度.
+- [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) -根据字段类型建议值.
 - [Check All](https://chrispederick.com/work/web-developer/)  -“全选”通常不可用. 为什么不带自己的呢？
 - [MyWords](https://addons.mozilla.org/en-US/firefox/addon/mywords/) -方便的扩展名，可用于保存经常使用的常见代码段（Jira表，测试数据等），以便于键入.
@@ -48,7 +48,7 @@
 - [The Domain Testing Workbook](https://amzn.to/2Az4l90) -深入研究当今使用的最常见的测试技术，即域测试（也称为边界分析和对等类划分），并通过许多示例使其变得更好.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) -关于可用性测试的非常有用的书.
 - [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) -关于软件测试的最好的书之一，分成几小节课，这些课现在与出版时一样适用.
-- [UI is Communication](https://amzn.to/2vbiALY) - How to make intuitive User Interfaces (UI and Usability Testing).
+- [UI is Communication](https://amzn.to/2vbiALY) -如何制作直观的用户界面（UI和可用性测试）.
 - [Thinking, Fast and Slow](https://amzn.to/2vcjasX) -关于我们如何制定决策以及如何进行实验（实验==测试）.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) -有关面向开发人员的JavaScript测试工具和技术的书.
 
@@ -65,6 +65,9 @@
 - [Michael Bolton](http://www.developsense.com/blog/)
 - [Janet Gregory](http://janetgregory.ca/blog/)
 - [Softwaretester Blog](https://www.softwaretester.blog/)
+
+## Newsletters
+- [Software Testing Weekly](https://softwaretestingweekly.com/) -精选每个星期五发布的最佳软件测试新闻和工具的摘要.
 
 ## Suggested Awesome Lists
 

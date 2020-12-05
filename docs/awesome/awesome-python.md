@@ -13,7 +13,7 @@
 
 *用于管理界面的库.*
 
-* [ajenti](https://github.com/ajenti/ajenti) -您的服务器应有的管理面板.
+* [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
 * [django-grappelli](https://grappelliproject.com/) -Django Admin-Interface的爵士外观.
 * [django-jet](https://github.com/geex-arts/django-jet) -具有改进功能的Django管理界面的现代响应模板.
 * [django-suit](https://djangosuit.com/) -可选的Django Admin界面（仅用于非商业用途免费）.
@@ -64,7 +64,7 @@
     * [matchering](https://github.com/sergree/matchering) -用于自动参考音频制作的库.
     * [mingus](http://bspaans.github.io/python-mingus/) -带有MIDI文件和播放支持的高级音乐理论和乐谱包.
     * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) -音频特征提取，分类，分段和应用.
-    * [pydub](https://github.com/jiaaro/pydub) -通过简单易用的高级界面处理音频.
+    * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
     * [TimeSide](https://github.com/Parisson/TimeSide) -开放的Web音频处理框架.
 *元数据
     * [beets](https://github.com/beetbox/beets) -音乐库管理员和 [MusicBrainz](https://musicbrainz.org/) 标签.
@@ -105,7 +105,7 @@
 * [attrs](https://github.com/python-attrs/attrs) -替换类定义中的__init __，__ eq __，__ repr__等样板.
 * [bidict](https://github.com/jab/bidict) -高效的Pythonic双向地图数据结构和相关功能.
 * [Box](https://github.com/cdgriffith/Box) -具有高级点符号访问功能的Python词典.
-* [dataclasses](https://docs.python.org/3/library/dataclasses.html) - (Python standard library) Data classes.
+* [dataclasses](https://docs.python.org/3/library/dataclasses.html) -（Python标准库）数据类.
 * [DottedDict](https://github.com/carlosescri/DottedDict) -一个库，提供一种使用点路径符号访问列表和字典的方法.
 
 ## CMS
@@ -152,7 +152,7 @@
     * [pylint](https://www.pylint.org/) -完全可定制的源代码分析器.
     * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -有史以来最严格，最自以为是的python linter.
 *代码格式化程序
-    * [black](https://github.com/python/black) -毫不妥协的Python代码格式化程序.
+    * [black](https://github.com/python/black) - The uncompromising Python code formatter.
     * [isort](https://github.com/timothycrosley/isort) -用于对导入进行排序的Python实用程序/库.
     * [yapf](https://github.com/google/yapf) -另一个来自Google的Python代码格式化程序.
 *静态类型检查器，另请参见 [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
@@ -217,7 +217,7 @@
 
 ## Computer Vision
 
-*Libraries for Computer Vision.*
+*计算机视觉图书馆.
 
 * [EasyOCR](https://github.com/JaidedAI/EasyOCR) -支持40多种语言的即用型OCR.
 * [Face Recognition](https://github.com/ageitgey/face_recognition) -简单的面部识别库.
@@ -340,7 +340,7 @@
 * [moment](https://github.com/zachwill/moment)  -用于处理日期/时间的Python库. 受启发 [Moment.js](http://momentjs.com/).
 * [Pendulum](https://github.com/sdispater/pendulum) -Python日期时间变得容易.
 * [PyTime](https://github.com/shinux/PyTime) -一个易于使用的Python模块，旨在按字符串操作日期/时间/日期时间.
-* [pytz](https://launchpad.net/pytz)  -世界时区定义，现代和历史. 带来 [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
+* [pytz](https://launchpad.net/pytz)  -世界时区定义，现代和历史. 带来 [tz database](https://en.wikipedia.org/wiki/Tz_database) 进入Python.
 * [when.py](https://github.com/dirn/When.py) -提供用户友好的功能，以帮助执行常见的日期和时间操作.
 
 ## Debugging Tools
@@ -358,7 +358,7 @@
     * [pyringe](https://github.com/google/pyringe) -能够附加到Python进程并将代码注入到Python进程中的调试器.
     * [python-hunter](https://github.com/ionelmc/python-hunter) -灵活的代码跟踪工具包.
 *个人资料
-    * [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
+    * [line_profiler](https://github.com/rkern/line_profiler) -逐行分析.
     * [memory_profiler](https://github.com/fabianp/memory_profiler) -监视Python代码的内存使用情况.
     * [profiling](https://github.com/what-studio/profiling) -交互式Python分析器.
     * [py-spy](https://github.com/benfred/py-spy)  -用于Python程序的采样分析器. 写在锈.
@@ -561,7 +561,7 @@
 
 *用于处理图形用户界面应用程序的库.
 
-* [curses](https://docs.python.org/3/library/curses.html) 内置包装 [ncurses](http://www.gnu.org/software/ncurses/) 用于创建终端GUI应用程序.
+* [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) 用于创建终端GUI应用程序.
 * [Eel](https://github.com/ChrisKnott/Eel) -用于制作简单的类似电子的脱机HTML / JS GUI应用程序的库.
 * [enaml](https://github.com/nucleic/enaml) -使用声明性语法（如QML）创建漂亮的用户界面.
 * [Flexx](https://github.com/zoofIO/flexx) -Flexx是用于创建GUI的纯Python工具箱，它使用Web技术进行呈现.
@@ -739,7 +739,7 @@
 * [H2O](https://github.com/h2oai/h2o-3) -开源快速可扩展机器学习平台.
 * [Metrics](https://github.com/benhamner/Metrics) -机器学习评估指标.
 * [NuPIC](https://github.com/numenta/nupic) -Numenta智能计算平台.
-* [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
+* [scikit-learn](http://scikit-learn.org/) -最受欢迎的机器学习Python库.
 * [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)的可扩展机器学习库.
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) -用于的轻量级Python包装器 [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/).
 * [xgboost](https://github.com/dmlc/xgboost) -可扩展，可移植和分布式的梯度增强库.
@@ -760,7 +760,7 @@
 *不属于上述类别的有用的库或工具.*
 
 * [blinker](https://github.com/jek/blinker) -快速的Python处理中信号/事件分配系统.
-* [boltons](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
+* [boltons](https://github.com/mahmoud/boltons) -一组纯Python实用程序.
 * [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将可信数据传递到不可信环境.
 * [magenta](https://github.com/magenta/magenta) -使用人工智能产生音乐和艺术的工具.
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) -一个简单但灵活的Python插件系统.
@@ -783,7 +783,7 @@
 -中文
     * [funNLP](https://github.com/fighting41love/funNLP) -中文NLP的工具和数据集的集合.
     * [jieba](https://github.com/fxsjy/jieba) -最受欢迎的中文文本分割库.
-    * [pkuseg-python](https://github.com/lancopku/pkuseg-python) -用于各个领域的中文分词的工具包.
+    * [pkuseg-python](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
     * [snownlp](https://github.com/isnowfy/snownlp) -用于处理中文文本的库.
 
 ## Network Virtualization
@@ -874,7 +874,7 @@
 * [lightfm](https://github.com/lyst/lightfm) -许多流行的推荐算法的Python实现.
 * [spotlight](https://github.com/maciejkula/spotlight) -使用PyTorch的深度推荐器模型.
 * [Surprise](https://github.com/NicolasHug/Surprise) -用于构建和分析推荐系统的scikit.
-* [tensorrec](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
+* [tensorrec](https://github.com/jfkirk/tensorrec) -TensorFlow中的推荐引擎框架.
 
 ## Refactoring
 
@@ -898,7 +898,7 @@
 *金字塔
     * [cornice](https://github.com/Cornices/cornice) -金字塔的RESTful框架.
 *与框架无关
-    * [apistar](https://github.com/encode/apistar) -为Python 3设计的智能Web API框架.
+    * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
     * [falcon](https://github.com/falconry/falcon) -用于构建云API和Web应用程序后端的高性能框架.
     * [fastapi](https://github.com/tiangolo/fastapi) -一种现代，快速的Web框架，用于基于标准Python类型提示使用Python 3.6+构建API.
     * [hug](https://github.com/hugapi/hug) -一个用于彻底公开API的Python 3框架.
@@ -958,7 +958,7 @@
 
 ## Serialization
 
-*用于序列化复杂数据类型的库*
+*Libraries for serializing complex data types*
 
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) -用于将复杂对象与简单Python数据类型之间来回转换的轻量级库.
 * [pysimdjson](https://github.com/TkTech/pysimdjson) -的Python绑定 [simdjson](https://github.com/lemire/simdjson).
@@ -1074,7 +1074,7 @@
     * [VCR.py](https://github.com/kevin1024/vcrpy) -在测试中记录并重放HTTP交互.
 *对象工厂
     * [factory_boy](https://github.com/FactoryBoy/factory_boy) -Python的测试装置替代品.
-    * [mixer](https://github.com/klen/mixer)  -更换其他灯具. 支持的Django，Flask，SQLAlchemy，Peewee等
+    * [mixer](https://github.com/klen/mixer)  -更换其他灯具. 支持Django，Flask，SQLAlchemy，Peewee等
     * [model_mommy](https://github.com/vandersonmota/model_mommy) -创建用于在Django中测试的随机装置.
 *代码覆盖率
     * [coverage](https://pypi.org/project/coverage/) -代码覆盖率测量.
@@ -1161,7 +1161,7 @@
 * [html2text](https://github.com/Alir3z4/html2text) -将HTML转换为Markdown格式的文本.
 * [python-readability](https://github.com/buriy/python-readability) -arc90的可读性工具的快速Python端口.
 * [requests-html](https://github.com/psf/requests-html) -人类的Pythonic HTML解析.
-* [sumy](https://github.com/miso-belica/sumy) - A module for automatic summarization of text documents and HTML pages.
+* [sumy](https://github.com/miso-belica/sumy) -自动汇总文本文档和HTML页面的模块.
 * [textract](https://github.com/deanmalmgren/textract) -从任何文档，Word，PowerPoint，PDF等中提取文本.
 * [toapi](https://github.com/gaojiuli/toapi) -每个网站都提供API.
 

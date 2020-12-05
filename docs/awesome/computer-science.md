@@ -42,14 +42,11 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
  **组织**. 课程设计如下：
 -*简介CS *：让学生尝试CS，看看是否适合他们
-- *Core CS*: corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take
+-*核心CS *：大致对应于计算机科学课程的前三年，所有专业都必须参加的课程
 -*高级CS *：大致对应于计算机科学课程的最后一年，根据学生的兴趣选择选修课
 -*最终项目*：供学生验证，巩固和展示其知识的项目，供世界各地的同行评估
 
- **持续时间**. 如果您仔细计划并每周花大约18-22个小时学习，则大约2年内即可完成Core CS.
-如果可能，Core CS的课程应采用线性课程，但由于极不可能实现完全线性的课程，
-指定每个班级的前提条件，以便您可以设计逻辑但非线性的进度
-根据课程表和您自己的生活计划.
+ **持续时间**. 如果您仔细计划并每周花大约20个小时学习，大约2年内即可完成学习. 学习者可以使用 [this spreadsheet](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/edit#gid=1428855662) 估计他们的结束日期. 如果您制作个人副本，则可以在“课程数据”表中输入您的实际课程结业日期，并获取更新的结业估算.
 
  **成本**. 所有或几乎所有课程资料都是免费提供的. 但是，有些课程可能会为要评分的作业/测试/项目收取费用.
 请注意，Coursera提供 [financial aid](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid).
@@ -112,7 +109,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 `computation`
 命令式编程
 基本数据结构和算法
-还有更多
+`and more`
 
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
@@ -136,7 +133,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 ML系列语言（通过标准ML）
 Lisp家庭语言（通过球拍）
 `Ruby`
-还有更多
+`and more`
 
 《如何编写代码》课程基于教科书 [How to Design Programs](https://htdp.org/2003-09-26/) . 第一版可在线免费获得，其中包括问题集和解决方案. 鼓励学生做这些作业.
 
@@ -184,11 +181,11 @@ Lisp家庭语言（通过球拍）
 基本统计
 `O-notation`
 离散概率
-还有更多
+`and more`
 
 课程持续时间| 努力注意事项前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--: | :--:
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)  |  13周| 每周5小时| 带有问题集解决方案的备用版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). Students struggling can consider the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一. 它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)  |  13周| 每周5小时| 带有问题集解决方案的备用版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) . 挣扎的学生可以考虑 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一. 它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
 
 
 ### CS Tools
@@ -199,7 +196,7 @@ Lisp家庭语言（通过球拍）
 `vim`
 命令行环境
 版本控制
-还有更多
+`and more`
 
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
@@ -221,7 +218,7 @@ Lisp家庭语言（通过球拍）
 `compilers`
 操作系统
 网络协议
-还有更多
+`and more`
 
 课程持续时间| 努力其他文字/作业| 前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -244,7 +241,7 @@ Lisp家庭语言（通过球拍）
 `最小的生成树`
 动态编程
 `NP-completeness`
-还有更多
+`and more`
 
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
@@ -261,7 +258,7 @@ Lisp家庭语言（通过球拍）
 `威胁和攻击`
 网络安全
 `Cryptography`
-还有更多
+`and more`
 
 注意：** _这些课程是临时推荐的_ **. 有一个开放 [Request For Comment](https://github.com/ossu/computer-science/issues/639) 关于安全课程的选择. 鼓励贡献者比较RFC中的各种课程并提供反馈.
 
@@ -292,7 +289,7 @@ Lisp家庭语言（通过球拍）
 `无监督学习`
 `OpenGL`
 `raytracing`
-还有更多
+`and more`
 
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
@@ -318,14 +315,14 @@ Lisp家庭语言（通过球拍）
 
 **涵盖的主题**：
 调试理论与实践
-`goal-oriented programming`
+面向目标的编程
 GPU编程
 `CUDA`
-并行计算
+`parallel computing`
 面向对象的分析与设计
 `UML`
 大型软件架构与设计
-还有更多
+`and more`
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
@@ -353,7 +350,7 @@ CMOS技术
 虚拟记忆
 同步原语
 系统调用界面
-还有更多
+`and more`
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
@@ -378,12 +375,12 @@ CMOS技术
 “品牌逻辑”
 `概念格`
 游戏树
-还有更多
+`and more`
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
 [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) ([Lectures](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN) ）|  8周每周10个小时| 离散数学，逻辑，算法
-[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x)  |  16周| 每周8小时| 算法，C ++
+[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis)  |  6周每周4-6个小时| 逻辑，概率
 [Game Theory](https://www.coursera.org/learn/game-theory-1)  |  8周每周3个小时| 数学思考概率概率
 

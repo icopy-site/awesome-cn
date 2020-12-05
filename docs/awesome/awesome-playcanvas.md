@@ -99,6 +99,7 @@
 
 - [Snap Games Support](https://support.snapchat.com/en-GB/a/games) -由PlayCanvas提供支持的Snapchat游戏平台.
 - [Archery 3D](https://www.facebook.com/instantgames/play/2236502786367605/) -射箭模拟器.
+- [GameBytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690) -iMessage的多人游戏.
 - [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) -点球大战.
 - [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) -头对头篮球比赛.
 - [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) -从鲍勃头顶射出水果.

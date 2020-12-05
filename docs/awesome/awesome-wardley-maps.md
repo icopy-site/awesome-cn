@@ -123,7 +123,7 @@
 
 ### Mapping
 
-- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具. 有关更新 [@owardleymaps](https://twitter.com/owardleymaps) 在Twitter上. 提供托管版本 [here](https://onlinewardleymaps.com/) . 在线文件 [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+- [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps)  -在线开源映射工具. 有关更新 [@MapsAsCode](https://twitter.com/MapsAsCode) 在Twitter上. 提供托管版本 [here](https://onlinewardleymaps.com/) . 在线文件 [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 - [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps)  -在Visual Studio Code中渲染和编辑Wardley映射.  VSCode扩展利用了OnlineWardleyMaps.com的引擎. 在线文件 [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 - [Wardley Maps for Jupyter Notebooks (ipywardley)](https://github.com/anjackson/ipywardley) -在Jupyter Notebook中生成Wardley地图的插件.
 - [Atlas2](https://github.com/LeadingEdgeForum/atlas2)  -开源映射工具. 提供托管版本 [here](https://atlas2.wardleymaps.com/).

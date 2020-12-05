@@ -17,7 +17,7 @@
 * C ++通用框架和库.
 
 * [abseil-cpp](https://github.com/abseil/abseil-cpp)  -Abseil C ++通用库.  [Apache2]
-* [Apache C++ Standard Library](http://stdcxx.apache.org/)  -STDCXX，算法，容器，迭代器和其他基本组件的集合.  [已退休] [Apache2]
+* [Apache C++ Standard Library](http://stdcxx.apache.org/) - STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. [retired] [Apache2]
 * [APR](http://apr.apache.org/)  -Apache可移植运行时. 另一个跨平台实用程序函数库.  [Apache2]
 * [ASL](http://stlab.adobe.com/)  -Adobe Source Libraries提供了经过同行评审的可移植C ++源库.  [麻省理工学院]
 * [Boost](https://github.com/boostorg)  ：zap：-大量的通用C ++库.  [促进] [website](http://www.boost.org/)
@@ -212,6 +212,8 @@
 * [Thrust](http://thrust.github.io/)  -类似于C ++标准模板库（STL）的并行算法库.  [Apache2]
 * [transwarp](https://github.com/bloomen/transwarp)  -用于任务并发的仅标头C ++库.  [麻省理工学院]
 * [VexCL](https://github.com/ddemidov/vexcl)  -用于OpenCL / CUDA的C ++向量表达模板库.  [麻省理工学院]
+* [Quantum](https://github.com/bloomberg/quantum) -建立在之上的强大的C ++协程分派器框架 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
+* [STAPL](http://parasol-lab.gitlab.io/stapl-home/)  -C ++并行编程框架，旨在在共享和分布式内存并行计算机上工作.  [BSD]
 
 ## Configuration
 *配置文件，INI文件*
@@ -444,7 +446,7 @@
 * [Magick++](http://www.imagemagick.org/script/api.php)  -用于C ++的ImageMagick程序接口.  [Apache2]
 * [MagickWnd](http://www.imagemagick.org/script/api.php) -C的ImageMagick程序接口.[Apache2]
 * [OpenCV](http://opencv.org/)  ：zap：-开源计算机视觉.  [BSD]
-* [OpenEXR](http://www.openexr.com/)  -用于高动态范围成像的跨平台库.  [修改后的BSDF]
+* [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. [Modified BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
 * [Simd](https://github.com/ermig1979/Simd)  -使用SIMD的C ++图像处理库：SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON for ARM.  [麻省理工学院]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)  -STB单头图像加载库.  [公共区域]
@@ -650,7 +652,7 @@
 * [Silicon](http://siliconframework.org)  -面向中间件的高性能C ++ 14 http Web框架.  [麻省理工学院]
 * [tlse](https://github.com/eduardsui/tlse) -单个C文件TLS 1.2 / 1.3实现，使用tomcrypt作为加密库[BSD-2-Clause]
 * [Tufão](https://github.com/vinipsmaker/tufao)  -基于Qt构建的C ++异步Web框架.  [LGPL2]
-* [uriparser](https://github.com/uriparser/uriparser) - Strictly RFC 3986 compliant URI parsing and handling library. [BSD-3-Clause]
+* [uriparser](https://github.com/uriparser/uriparser)  -严格符合RFC 3986的URI解析和处理库.  [BSD-3-Clause]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)  -µWS是最轻便，高效和可扩展的WebSocket和HTTP服务器实现之一.  [Zlib]
 * [WAFer](https://github.com/riolet/WAFer)  -基于AC语言的超轻型软件平台，用于可扩展的服务器端和网络应用程序. 为C程序员考虑一下node.js.  [GPL2]
 * [Wangle](https://github.com/facebook/wangle)  -客户端/服务器应用程序框架，用于构建异步的，事件驱动的现代C ++服务.  [Apache-2.0]
@@ -724,7 +726,7 @@
 
 * [AMGCL](https://github.com/ddemidov/amgcl)  -仅标头的C ++库，用于解决带代数多重网格的大型稀疏线性系统.  [麻省理工学院]
 * [FFTW](http://www.fftw.org/)  -用于一维或多维计算DFT的AC库.  [GPL]
-* [GSL](http://www.gnu.org/software/gsl/) - GNU scientific library. [GPL]
+* [GSL](http://www.gnu.org/software/gsl/)  -GNU科学图书馆.  [GPL]
 * [TileDB](https://github.com/TileDB-Inc/TileDB)  -快速密集和稀疏多维阵列DBMS.  [麻省理工学院] [website](https://tiledb.io/)
 * [Trilinos](https://github.com/trilinos/Trilinos)  -高性能PDE求解器.  [BSD]
 * [Torch](https://github.com/torch/torch7)  -具有广泛支持机器学习算法的科学计算框架，该技术将GPU放在首位.  [BSD-3-Clause] [website](http://torch.ch/)

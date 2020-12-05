@@ -32,10 +32,10 @@
 
 ## Humane design
 
-人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中单独跟踪，该策展列表是 [delightful project](https://codeberg.org/teaserbot-labs/delightful) on Codeberg.
+人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中单独跟踪，该策展列表是 [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) on Codeberg.
 
-- [delightful-humane-design](https://codeberg.org/teaserbot-labs/delightful-humane-design) -为UX设计人员和开发人员精心设计的人性化设计资源列表.
-- [delightful-small-ai](https://codeberg.org/teaserbot-labs/delightful-small-ai) -精选的开放式人性化人工智能资源列表.
+- [delightful-humane-design <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-humane-design) -为UX设计人员和开发人员精心设计的人性化设计资源列表.
+- [delightful-small-ai <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-small-ai) -精选的开放式人性化人工智能资源列表.
 
 ## Ethics
 
@@ -94,7 +94,7 @@
 - [FreedomBox](https://freedombox.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://salsa.debian.org/freedombox-team/plinth) -易于管理，面向隐私的家庭服务器.
 - [EteSync](https://www.etesync.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/etesync) -为您的联系人，日历和任务提供安全，端到端加密和尊重隐私的同步.
 - [Image Scrubber](https://github.com/everestpipkin/image-scrubber) -基于浏览器的工具，用于匿名化照片和清理EXIF元数据.
-- [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) -一种浏览器扩展，可模拟内容交付网络以改善您的在线隐私.
+- [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) -一种浏览器扩展，可模拟内容交付网络以改善您的在线隐私.
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) -去除非根目录的智能手机，以改善隐私，安全性和电池寿命.
 
 ## Tracking
@@ -194,7 +194,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Invidious](https://invidio.us) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/iv-org/invidious) -不带广告的YouTube替代前端.
 - [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/deltachat) -通过电子邮件进行类似于Whatsapp的分散聊天，无需跟踪和中央控制.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zedeus/nitter) -另一个关注隐私的Twitter前端.
-- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) -Firefox扩展程序，可将YouTube和Twitter请求重定向到其他选项.
+- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) -Firefox扩展程序，可将YouTube和Twitter请求重定向到其他选项.
 - [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://sr.ht/~cadence/bibliogram/) -Instagram的替代前端.
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) -将Twitter，YouTube，Instagram和Google Maps请求重定向到隐私友好的替代方案.
 - [UnTrackMe](https://framagit.org/tom79/nitterizeme) -可将Twitter，YouTube链接到Nitter，Invidious并委托给另一个应用程序的应用程序.
@@ -213,7 +213,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/EdgeDeflector) -强制Windows 10使用首选的Web浏览器而不是Microsoft Edge.
 - [Wayback Everywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox)-将所有页面重定向到Wayback Machine中的快照并自动保存页面.
 - [996.ICU](https://github.com/996icu/996.ICU) -收集资源以倡导996个工作时间表（上午6点至晚上9点，每周6天）.
-- [DeGoogle-FOSS](https://codeberg.org/ReverseEagle/DeGoogle-FOSS) -包含专有Google二进制文件的免费和开源软件列表.
+- [DeGoogle-FOSS <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/ReverseEagle/DeGoogle-FOSS) -包含专有Google二进制文件的免费和开源软件列表.
 
 ## Geolocation
 
@@ -234,7 +234,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 ## Internet of Things
 
 - [Home Assistant](https://www.home-assistant.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/home-assistant/home-assistant) -家庭自动化，将本地控制和隐私放在首位.
-- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://codeberg.org/Freeyourgadget/Gadgetbridge) -替换小工具供应商的封闭源Android应用程序（Pebble，Mi Band，Liveview，HPlus等）.
+- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/Freeyourgadget/Gadgetbridge) -替换小工具供应商的封闭源Android应用程序（Pebble，Mi Band，Liveview，HPlus等）.
 - [Gladys Assistant](https://gladysassistant.com/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/gladysassistant/gladys) -隐私优先的开源家庭助理.
 
 ## Gamification
@@ -255,7 +255,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Red Moon](https://github.com/LibreShift/red-moon) -夜间电话使用的Android屏幕过滤器应用程序.
 - [Workrave](https://workrave.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rcaelers/workrave) -有助于恢复和预防重复性劳损（RSI）的计划.
 - [Grayscale Mode](https://grayscalemode.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rkbhochalya/grayscale-mode) -一个macOS菜单栏应用程序，可让您更好地控制灰度模式.
-- [FitoTrack](https://codeberg.org/jannis/FitoTrack) -面向隐私的Android健身追踪器，用于记录和查看您的锻炼情况.
+- [FitoTrack <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/jannis/FitoTrack) -面向隐私的Android健身追踪器，用于记录和查看您的锻炼情况.
 - [OpenTracks](https://opentracksapp.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/OpenTracksApp/OpenTracks) -完全尊重您的隐私的运动跟踪应用程序.
 - [Winddown](https://github.com/schneefux/vscode-winddown)  -编写代码并保持健康. 鼓励您休息的VS代码扩展.
 - [dijo](https://github.com/NerdyPepper/dijo) -在终端中运行的可编写脚本的习惯跟踪器.
@@ -342,10 +342,10 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 另外，请查看这些站点，以找到您现在可能正在使用的垄断性，侵犯隐私的软件的绝佳替代品：
 
 - [degoogle](https://degoogle.jmoore.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tycrek/degoogle)  -大量的Google产品替代品. 隐私权提示，技巧和链接.
-- [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitea.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) -道德，易于使用和注重隐私的替代著名软件的工具.
+- [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) -道德，易于使用和注重隐私的替代著名软件的工具.
 - [ReverseEagle-Developers](https://developers.reverseeagle.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://forge.tedomum.net/ReverseEagle/developers) -针对开发人员的注重隐私，道德和安全的软件替代方案.
 - [ethical.net](https://ethical.net/resources/) -道德选择和资源.
-- [delightful project](https://codeberg.org/teaserbot-labs/delightful) -与出色的项目相似，但仅适用于FOSS，开放数据和开放科学.
+- [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) -与出色的项目相似，但仅适用于FOSS，开放数据和开放科学.
 
 ## Contributing
 

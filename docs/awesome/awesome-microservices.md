@@ -8,8 +8,6 @@
 
 ## Platforms
 
-- [Ballerina](https://ballerina.io) -云原生编程语言.
-- [Dapr](https://dapr.io) -开源运行时，可使用任何编程语言编写高性能的微服务.
 - [Express Serverless](https://www.express-serverless.io/) -一个开源的Kubernetes原生微服务和无服务器平台.
 - [Hook.io](https://hook.io) -微服务和Webhook托管的开源提供商.
 - [Jolie](https://jolie-lang.org) -面向微服务的开源编程语言.
@@ -20,12 +18,15 @@
 - [OpenWhisk](http://openwhisk.org/) -无服务器的开源云平台，可以执行各种规模的事件响应功能.
 - [Pulumi](https://pulumi.io/)  -用于云原生基础架构的SDK作为代码. 使用您喜欢的语言预览和管理对应用程序和基础结构的更新，并持续部署到任何云（无需YAML）.
 - [STUPS](https://stups.io/) -Zalando的一组工具和组件，可为AWS之上的多个自治团队提供方便且符合审计要求的PaaS.
+- [Triton](https://github.com/joyent/triton) -开源云管理平台，可跨一个或多个数据中心提供下一代，基于容器的，面向服务的基础架构.
 -[VAMP！[c]]（http://vamp.io/）-轻松构建，部署和管理微服务.
 
 ## Frameworks / Runtimes
 
 - [Akka](http://akka.io/) -用于在JVM上构建高度并发，分布式和弹性消息驱动的应用程序的工具包和运行时.
 -[Axon！[c]]（https://axoniq.io/）-一个端到端的开发和基础架构平台，用于在JVM上轻松开发和运行任何DDD，CQRS和事件源应用程序.
+- [Ballerina](https://ballerina.io) -云原生编程语言.
+- [Dapr](https://dapr.io) -开源运行时，可使用任何编程语言编写高性能的微服务.
 - [Eclipse Microprofile](https://microprofile.io/) -一个开放的论坛，通过跨多个实现进行创新并以标准化为目标在感兴趣的公共领域进行协作，从而为微服务架构优化Enterprise Java.
 - [Erlang/OTP](https://github.com/erlang/otp) -用于构建对高可用性有要求的大规模可扩展软实时系统的编程语言.
 - [Finagle](http://twitter.github.io/finagle) -用于JVM的可扩展RPC系统，用于构建高并发服务器.
@@ -124,7 +125,6 @@
 - [Kite](https://github.com/koding/kite) -Go中的微服务框架.
 - [KrakenD](https://github.com/devopsfaith/krakend) -使用中间件构建超高性能API网关的框架.
 - [Libchan](https://github.com/docker/libchan) -超轻量级的网络库，该网络库使网络服务的通信方式与goroutine使用通道进行通信的方式相同.
-- [Martini](https://github.com/go-martini/martini) -Martini是一个功能强大的软件包，用于在Golang中快速编写模块化的Web应用程序/服务.
 - [Micro](https://github.com/micro/micro) -适用于云及其他环境的分布式系统运行时.
 - [Nano](https://github.com/pasztorpisti/nano) -简约，与运输无关且易于测试的微服务框架.
 - [Negroni](https://github.com/codegangsta/negroni) -Golang的惯用HTTP中间件.
@@ -293,7 +293,7 @@
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
 - [Træfɪk](http://traefik.io/) -现代HTTP反向代理和负载均衡器，可轻松部署微服务.
 - [Traffic Server](https://github.com/apache/trafficserver) -云服务的高性能构建块.
-- [Tyk](https://tyk.io/) -开源，快速且可扩展的API网关，门户和API管理平台.
+- [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
 - [Vulcand](https://github.com/vulcand/vulcand) -由Etcd支持的程序化负载均衡器.
 - [Zuul](https://github.com/Netflix/zuul) -提供动态路由，监视，弹性，安全性等的边缘服务.
 
@@ -326,7 +326,6 @@
 
 ### Elasticity
 
-- [Galaxy](https://github.com/puniverse/galaxy) -开源高性能内存数据网格.
 - [Hazelcast](http://hazelcast.org/)  -开源内存数据网格. 允许您在服务器，群集和地理位置之间分布数据和计算，并管理非常大的数据集或很高的数据摄取率. 技术成熟.
 - [Helix](http://helix.apache.org/) -通用群集管理框架，用于自动管理节点群集上托管的分区，复制和分布式资源.
 - [Ignite](http://ignite.apache.org/) -高性能，集成的分布式内存平台，用于实时处理和处理大规模数据集，比传统的基于磁盘或闪存的技术快几个数量级.
@@ -351,7 +350,7 @@
 
 ### Logging
 
-- [Bunyan](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
+- [Bunyan](https://github.com/trentm/node-bunyan) -用于Node.js服务的简单快速的JSON日志记录库.
 - [Fluentd](http://www.fluentd.org/) -用于统一日志记录层的开源数据收集器.
 - [Graylog](https://www.graylog.org/) -完全集成的开源日志管理平台.
 - [Kibana](https://www.elastic.co/products/kibana) -灵活的分析和可视化平台.
@@ -365,7 +364,7 @@
 - [ActiveMQ](http://activemq.apache.org/) -强大的开源消息传递和集成模式服务器.
 - [Aeron](https://github.com/real-logic/Aeron) -高效可靠的UDP单播，UDP组播和IPC消息传输.
 - [Apollo](http://activemq.apache.org/apollo/) -更快，更可靠，更易于维护的消息代理，该消息代理是基于原始ActiveMQ的基础构建的.
-- [Ascoltatori](https://github.com/mcollina/ascoltatori) -Node的发布/订阅库.
+- [Ascoltatori](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 - [Beanstalk](https://beanstalkd.github.io/) -简单，快速的工作队列.
 - [Bull](https://github.com/OptimalBits/bull) -快速可靠的基于Redis的Node队列.
 - [Crossbar](https://github.com/crossbario/crossbar)  -用于分布式和微服务应用程序的开源网络平台. 它实现了开放的Web应用程序消息协议（WAMP）.
@@ -474,11 +473,9 @@
 - [Datomic](http://www.datomic.com/) -完全可交易的，可用于云的分布式数据库.
 - [Druid](http://druid.io/) -快速的面向列的分布式数据存储.
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) -开源的分布式，可扩展且高度可用的搜索服务器.
-- [Elliptics](http://reverbrain.com/elliptics/) -容错分布式键/值存储.
 - [Geode](http://geode.incubator.apache.org/) -用于横向扩展应用程序的开源，分布式内存数据库.
 - [Infinispan](http://infinispan.org/) -用于缓存的高度并发的键/值数据存储.
 - [InfluxDB](https://github.com/influxdata/influxdb) -可扩展的数据存储，用于度量标准，事件和实时分析.
-- [Manta](https://www.joyent.com/manta) -具有集成计算功能的高度可扩展的分布式对象存储服务.
 -[MemSQL！[c]]（http://www.memsql.com/）-高性能的内存数据库，将分布式系统的水平可伸缩性与SQL的熟悉性结合在一起.
 - [OpenTSDB](http://opentsdb.net) -在Apache HBase之上编写的可扩展和分布式时间序列数据库.
 - [Parquet](https://parquet.apache.org/) -列型存储格式可用于Hadoop生态系统中的任何项目，无论选择数据处理框架，数据模型还是编程语言.
@@ -497,7 +494,7 @@
 - [Mountebank](http://www.mbtest.org/) -跨平台的多协议测试使导线加倍.
 - [Pact](https://docs.pact.io) -用于HTTP API和非HTTP异步消息传递系统的合同测试框架.
 - [Spring Cloud Contract](https://cloud.spring.io/spring-cloud-contract/) -TDD达到软件体系结构级别.
-- [VCR](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
+- [VCR](https://github.com/vcr/vcr)  -记录测试套件的HTTP交互，并在以后的测试运行期间重播它们，以进行快速，确定性和准确的测试. 请参阅端口列表以了解其他语言的实现.
 - [Wilma](https://github.com/epam/Wilma) -结合了HTTP / HTTPS服务存根和透明代理解决方案.
 - [WireMock](http://wiremock.org/)  -用于存根和模拟Web服务的灵活库. 与通用模拟工具不同，它通过创建一个实际的HTTP服务器来工作，您的被测试代码可以像真实的Web服务一样连接到该服务器.
 - [Hoverfly](https://github.com/spectolabs/hoverfly) -面向开发人员和测试人员的轻量级服务虚拟化/ API模拟工具.
@@ -541,7 +538,7 @@
 - [RFC7230](https://tools.ietf.org/html/rfc7230) -消息语法和路由.
 - [RFC7231](https://tools.ietf.org/html/rfc7231) -语义和内容.
 - [RFC7232](https://tools.ietf.org/html/rfc7232) -条件请求.
-- [RFC7233](https://tools.ietf.org/html/rfc7233) - Range Requests.
+- [RFC7233](https://tools.ietf.org/html/rfc7233) -范围请求.
 - [RFC7234](https://tools.ietf.org/html/rfc7234) -缓存.
 - [RFC7235](https://tools.ietf.org/html/rfc7235) -身份验证.
 - [RFC7807](https://tools.ietf.org/html/rfc7807) -HTTP API的问题详细信息.
@@ -582,7 +579,7 @@
 - [RFC7519](https://tools.ietf.org/html/rfc7519) -JSON Web令牌（JWT）是一种紧凑的，URL安全的方法，用于表示要在两方之间转移的声明.
 - [RFC7642](https://tools.ietf.org/html/rfc7642) -SCIM：定义，概述，概念和要求.
 - [RFC7643](https://tools.ietf.org/html/rfc7643) -SCIM：核心架构，提供与平台无关的架构和扩展模型，用于表示用户和组.
-- [RFC7644](https://tools.ietf.org/html/rfc7644) - SCIM: Protocol, an application-level, REST protocol for provisioning and managing identity data on the web.
+- [RFC7644](https://tools.ietf.org/html/rfc7644) -SCIM：协议，一种应用程序级别的REST协议，用于在网络上配置和管理身份数据.
 
 ### Service Discovery
 
@@ -597,9 +594,9 @@
 - [RFC4627](https://tools.ietf.org/html/rfc4627) -JavaScript对象符号（JSON）.
 - [RFC7049](http://tools.ietf.org/search/rfc7049) -简洁的二进制对象表示（CBOR）.
 - [BSON](http://bsonspec.org/) -二进制JSON（BSON）.
-- [JSON-LD](http://json-ld.org/) - JSON for Linking Data.
-- [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) -简单二进制编码（SBE）.
-- [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) -MessagePack规范.
+- [JSON-LD](http://json-ld.org/) -用于链接数据的JSON.
+- [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
+- [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Vocabularies
 
@@ -621,9 +618,9 @@
 ## Enterprise & Verticals
 
 -[Commercetools！[c]]（https://commercetools.com/）-无头贸易平台.
+-[Elasticpath！[c]]（https://www.elasticpath.com/）-电子商务微服务.
 - [Flamingo](https://www.flamingo.me/) -构建灵活和现代的电子商务应用程序的框架.
 -[Interact！[c]]（https://interact.io/）-CRM微服务，用于快速交付量身定制的解决方案.
--[Moltin！[c]]（https://moltin.com/）-开发人员的电子商务API.
 -[预测！[C]]（https://predix.io/）-工业微服务平台.
 -[Skava！[c]]（https://www.skava.com/）-为商店的所有功能提供微服务，以及将它们结合在一起的胶水.
 
@@ -668,7 +665,7 @@
 - [Holochain](https://holochain.org/)  -分布式应用程序的框架，允许您构建不受网络限制的应用程序. 这意味着每个用户都可以控制自己的数据，并且不能将其出售或暴露给第三方.
 - [Ops](https://ops.city/) -免费的开源工具，可将现有的Linux应用程序作为unikernels构建，运行和部署.
 - [SAFE Network](https://safenetwork.tech/)  -在日常计算机的闲置容量的支持下，SAFE用分散的自治网络取代了现有Web的脆弱结构. 一种安全的方法，每个人都可以使用.
-- [Solid](https://solid.inrupt.com/)  -使用户和组织能够将其数据与使用该数据的应用程序分开. 它使人们可以同时使用不同的应用查看相同的数据. 它为创造力，解决问题和商业活动开辟了崭新的途径.
+- [Solid](https://solid.inrupt.com/) - Empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
 
 ## License
 
