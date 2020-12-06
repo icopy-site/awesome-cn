@@ -11,11 +11,14 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 <!--lint ignore double-link-->
 您的贡献对于保持此列表的有效性，提高质量和扩大范围至关重要. 您可以详细了解其起源以及如何参与 [contribution guide](https://github.com/protontypes/awesome-sustainable-technology/blob/master/CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) 和相关 [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/) . 请 [contact us](https://protontypes.eu/contact/) 提供反馈，提示和想法 [OpenSustain.tech](https://opensustain.tech/) 或在GitHub上创建问题.
 
-[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes) [![GitHub stars](https://img.shields.io/github/stars/protontypes/awesome-sustainable-technology.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/protontypes/awesome-sustainable-technology/stargazers/)
+[![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
 ---
+<!--toc-->
 
 
+
+<!--toc_end-->
 
 ## Renewable Energy
 

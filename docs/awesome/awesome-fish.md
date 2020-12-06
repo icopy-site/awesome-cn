@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome.fish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## awsm.fish [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  &gt;友好的交互式外壳程序（fish）是适用于Linux，macOS和其他产品家族的智能且用户友好的命令行外壳程序. 与以前的Shell（默认情况下会禁用某些功能以节省系统资源）不同，fish默认情况下会启用所有功能-最后是90年代的命令行外壳！
 
@@ -35,7 +35,7 @@
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) -电力线式，可识别Git的外壳提示.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) -使您的提示异步！
 
-## Utilities
+## Plugins
 
 - [Z](https://github.com/jethrokuan/z) -纯鱼 [rupa/z](https://github.com/rupa/z)类似的目录跳转.
 - [Fzf](https://github.com/PatrickF1/fzf.fish) -增强您的鱼类命令行 [fzf](https://github.com/junegunn/fzf) 按键绑定.  （[Alternative](https://github.com/jethrokuan/fzf)).
@@ -43,7 +43,7 @@
 - [Nvm](https://github.com/jorgebucaran/nvm.fish)  -100％纯鱼Node.js版本管理器.  （[Alternative](https://github.com/FabioAntunes/fish-nvm)).
 - [Done](https://github.com/franciscolourenco/done) -漫长的过程完成后自动接收通知.
 - [Spark](https://github.com/jorgebucaran/spark.fish) -纯鱼火花线发生器：▂▃▅▂▇装在外壳中.
-- [Pisces](https://github.com/laughedelic/pisces) -在命令行中自动关闭括号，大括号，引号和其他成对的符号.
+- [Autopair](https://github.com/jorgebucaran/autopair.fish)  -在命令行中自动插入，删除和跳过匹配对.  （[Alternative](https://github.com/laughedelic/pisces)).
 - [Gitio](https://github.com/jorgebucaran/gitio.fish) -创建一个微小的GitHub URL.
 - [GitNow](https://github.com/joseluisq/gitnow) -一组实用程序功能，可加快git工作流程.
 - [Getopts](https://github.com/jorgebucaran/getopts.fish)  -CLI选项解析器； 替代 [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) 内置的.

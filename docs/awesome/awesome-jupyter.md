@@ -62,10 +62,10 @@
 - [jp_doodle](https://github.com/AaronWatters/jp_doodle) -用于在2D和3D中构建特殊目的交互式图表的基础结构.
 - [jupyter-manim](https://github.com/krassowski/jupyter-manim) -显示 [manim](https://github.com/3b1b/manim) （数学动画引擎）Jupyter笔记本中的视频或GIF.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) -Jupyter笔记本中的Google Maps交互式可视化库.
-- [mpld3](http://mpld3.github.io) -结合Matplotlib和D3js vor交互式数据可视化.
+- [mpld3](http://mpld3.github.io) -结合Matplotlib和D3js进行交互式数据可视化.
 - [pd-replicator](https://github.com/scwilkinson/pd-replicator) -一键将pandas DataFrame复制到剪贴板.
 - [pyecharts](https://github.com/pyecharts/pyecharts) -的Python界面 [ECharts](https://github.com/apache/incubator-echarts) 可视化库.
-- [pythreejs](https://github.com/jovyan/pythreejs) -利用Jupyter小部件基础结构的Python / ThreeJS桥.
+- [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Qgrid](https://github.com/quantopian/qgrid) -用于在Jupyter笔记本中对DataFrame进行排序，过滤和编辑的交互式网格.
 - [tributary](https://github.com/timkpaine/tributary) -具有Jupyter支持的Python数据流.
 - [tqdm](https://github.com/tqdm/tqdm) -快速，可扩展的进度条，用于循环和可迭代.
@@ -202,7 +202,7 @@
 - [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 - [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
 - [The Littlest JupyterHub](https://the-littlest-jupyterhub.readthedocs.io/en/latest/)  -在单个服务器上为1-50个用户分发JupyterHub； 比“零到JupyterHub”设置更轻便.
-- [pytudes](https://github.com/norvig/pytudes) - List of Jupyter Notebooks by Peter Norvig.
+- [pytudes](https://github.com/norvig/pytudes) -Peter Norvig撰写的Jupyter笔记本清单.
 - [ResGuides: research with Jupyter](https://www.gitbook.com/book/dansand/resguides-research-with-jupyter/details)
 - [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/en/latest/) -帮助安装和管理JupyterHub的教程.
 

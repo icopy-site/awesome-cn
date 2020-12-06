@@ -21,6 +21,7 @@
 
 ## Dynamic type checkers
 
+- [beartype](https://github.com/beartype/beartype) -纯Python中难以置信的`O（1）`运行时类型检查. 
 - [pytypes](https://github.com/Stewori/pytypes) -提供了丰富的实用程序，用于运行时类型检查.
 - [pydantic](https://github.com/samuelcolvin/pydantic)  -使用Python类型提示进行数据解析. 支持数据类.
 - [typeguard](https://github.com/agronholm/typeguard) -另一个运行时类型检查器.
