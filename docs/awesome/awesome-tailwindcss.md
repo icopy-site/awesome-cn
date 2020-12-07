@@ -59,7 +59,7 @@
 
 -  [Typography](https://github.com/tailwindlabs/tailwindcss-typography) -为美丽的印刷默认设置添加一个`prose`类.
 -  [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) -添加了可组合的宽高比实用程序.
--  [Forms](https://github.com/tailwindlabs/tailwindcss-forms) -向表单元素添加更好的默认样式.
+-  [Forms](https://github.com/tailwindlabs/tailwindcss-forms) - Adds better default styles to form elements.
 -  [Theming](https://github.com/innocenzi/tailwindcss-theming) -使用CSS变量进行主题设置，并支持暗模式.
 -  [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) -根据媒体查询和/或CSS选择器添加它们的变体.
 -  [Multi Theme](https://github.com/estevanmaito/tailwindcss-multi-theme) -根据单个“ theme”属性添加主题变体.
@@ -133,7 +133,7 @@
 -  [CSS Alpha Colors](https://github.com/soueuls/tailwind-color-alpha) -将不透明度变体添加到现有颜色.
 -  [Spinner](https://github.com/aniftyco/tailwindcss-spinner) -添加微调器组件.
 -  [Spaced Items](https://github.com/n1kk/tailwindcss-spaced-items) -添加`spaced`组件，为所有容器项目添加固定边距.
--  [Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) -向表单元素添加更好的默认样式.
+-  [Custom Forms](https://github.com/tailwindlabs/tailwindcss-custom-forms) - Adds better default styles to form elements.
 
 ## Tools
 
@@ -227,7 +227,6 @@
 
 -  [Create React App with PurgeCSS](https://github.com/DemianD/create-react-app-tailwindcss) -添加了Tailwind CSS和PurgeCSS的CRA脚本.
 -  [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) -将Tailwind CSS添加到Laravel框架.
--  [Vite Preset](https://github.com/use-preset/tailwindcss) -将Tailwind CSS添加到Vite应用程序.
 -  [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) -使用Laravel的Tailwind CSS进行前端预设.
 -  [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) -使用Laravel的Tailwind CSS的黑暗主题前端预设.
 -  [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的CRA样板.
@@ -257,6 +256,7 @@
 -  [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
 -  [Eleventy Starter](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) -使用Tailwind CSS的可用于生产环境且SEO友好的博客启动器.
 -  [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) -使用Vite，React和Tailwind CSS的样板.
+-  [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) -使用Vite，Vue，Vue Router和Tailwind CSS的入门模板.
 
 ## Open-Source Projects
 
@@ -282,7 +282,7 @@
 -  [Tailwind CSS with CSS-in-JS](https://medium.com/@AndrewDelPrete/using-tailwindcss-with-css-in-js-32ae6796f95c) -如何在CSS-in-JS中使用Tailwind CSS.
 -  [Tailwind CSS in a Laravel Project](https://nick-basile.com/blog/post/setting-up-tailwind-in-a-laravel-project) -如何在Laravel项目中设置Tailwind CSS.
 -  [Tailwind CSS with Ember](https://eaf4.com/how-to-add-tailwindcss-to-an-ember-app) -如何将Tailwind CSS添加到Ember应用程序.
--  [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) - How to setup Tailwind CSS in Sage.
+-  [Sage WordPress theme and Tailwind CSS](https://roots.io/guides/how-to-setup-tailwind-css-in-sage) -如何在Sage中设置Tailwind CSS.
 -  [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) -如何在Gatsby中使用Tailwind CSS.
 -  [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) -如何在Phoenix 1.4中设置Tailwind CSS.
 -  [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) -如何扩展Tailwind CSS.
@@ -292,15 +292,15 @@
 -  [Rebuilding YouTube](https://www.youtube.com/watch?v=qxQKnqmNKv0) -使用Tailwind CSS重建YouTube.
 -  [Rebuilding Netlify](https://www.youtube.com/watch?v=_JhTaENzfZQ&t=1263s) -使用Tailwind CSS重建Netlify.
 -  [Rebuilding Resolute](https://www.youtube.com/watch?v=banq3TfAPYk) -使用Tailwind CSS重建Resolute.
--  [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) -使用Tailwind CSS构建电影制作登录页面.
+-  [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) - Building a movie production landing page with Tailwind CSS.
 -  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) -使用Tailwind CSS构建响应式导航栏.
 -  [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) -用Tailwind CSS拍摄的运球.
 -  [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) -使用Tailwind CSS构建Tweet组件.
 -  [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) -使用Tailwind CSS创建模式对话框.
 -  [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) -构建Shopify，Spotify，Netlify和Atlassian的UI.
 -  [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) -使用Tailwind CSS重建FreshBooks.
--  [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) - Creating a login page with Tailwind CSS.
--  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) - Creating a login page with Tailwind CSS.
+-  [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) -使用Tailwind CSS创建登录页面.
+-  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
 -  [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中构建Vue.js组件.
 -  [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
 -  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.

@@ -24,9 +24,9 @@
 ### Cloud
 
 * [Amazon EMR](https://aws.amazon.com/emr/) -AWS上的Amazon Hadoop / HBase产品.
-* [Azure HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) -Microsoft在Azure上提供的Hadoop / HBase产品.
+* [Azure HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) -Azure上的Microsoft Hadoop / HBase产品.
 * [Cloudera Director](https://www.cloudera.com/products/product-components/cloudera-director.html) -在AWS，Azure或Google Cloud上运行Hadoop / HBase集群.
-* [Google Cloud Bigtable](https://cloud.google.com/bigtable/) -可通过HBase客户端API访问的高性能NoSQL数据库服务.
+* [Google Cloud Bigtable](https://cloud.google.com/bigtable/) -通过HBase客户端API可访问的高性能NoSQL数据库服务.
 * [Hortonworks Cloudbreak](https://hortonworks.com/open-source/cloudbreak/) -在AWS，Azure，Google Cloud或OpenStack上配置Hadoop / HBase群集.
 
 ### Frameworks
@@ -51,7 +51,7 @@
 * [GeoMesa](http://www.geomesa.org/) -时空数据库，支持Accumulo，HBase，Cassandra和Kafka.
 
 #### Graph
-* [Gradoop](https://github.com/dbs-leipzig/gradoop) -基于Flink和HBase构建的可伸缩图形分析的研究框架.
+* [Gradoop](https://github.com/dbs-leipzig/gradoop) -基于Flink和HBase构建的可伸缩图形分析研究框架.
 * [HGraphDB](https://github.com/rayokota/hgraphdb) -HBase作为TinkerPop图形数据库.
 * [JanusGraph](http://janusgraph.org/) -可扩展的图形数据库，支持Cassandra，HBase，Google Cloud Bigtable和BerkeleyDB.
 * [NebulaGraph](https://github.com/vesoft-inc/nebula) -高性能的分布式图形数据库.
@@ -60,12 +60,12 @@
 #### SQL/OLAP
 
 * [AntsDB](http://antsdb.com/) -AntsDB是HBase的低延迟，高并发，MySQL兼容SQL层.
-* [EsgynDB](https://esgyn.com/) -基于Trafodian的商业SQL引擎在Hadoop之上提供ACID事务和BI分析.
+* [EsgynDB](https://esgyn.com/) -基于Trafodian的商业SQL引擎，在Hadoop之上提供ACID事务和BI分析.
 * [Kylin](http://kylin.apache.org) -用于将数据存储在HBase中的大数据的极限OLAP引擎.
 * [LeanXScale](http://www.leanxcale.com) -基于Hadoop / HBase的商业完整ACID完整SQL产品.
 * [Phoenix](https://phoenix.apache.org) -HBase之上的SQL层.
 * [Splice Machine](https://www.splicemachine.com) -建立在HBase之上的商业RDBMS.
-* [Trafodian](http://trafodion.apache.org) -事务型SQL-on-Hadoop / HBase.
+* [Trafodian](http://trafodion.apache.org) -事务性SQL-on-Hadoop / HBase.
 
 #### Time Series
 
@@ -82,7 +82,7 @@
 #### Transactions
 
 * [Haeinsa](https://github.com/VCNC/haeinsa) -用于HBase的多行/多表事务库.
-* [HBase-QoD](https://github.com/algarecu/hbase-0.94.8-qod) -HBase细粒度事务间DC复制的矢量字段一致性.
+* [HBase-QoD](https://github.com/algarecu/hbase-0.94.8-qod) -HBase细粒度事务间DC复制的向量字段一致性.
 * [Omid](https://github.com/apache/incubator-omid) -对HBase的事务性支持.
 * [Tephra](http://tephra.incubator.apache.org) -HBase之上的全球一致事务.
 * [Themis](https://github.com/XiaoMi/themis) -基于Google Percolator的HBase上的跨行/跨表事务.
@@ -97,8 +97,8 @@
 * [Crunch](https://github.com/apache/crunch/tree/master/crunch-hbase) -适用于Crunch的HBase适配器.
 * [Drill](https://drill.apache.org/docs/querying-hbase/) -Drill的HBase存储插件.
 * [Elasticsearch](https://github.com/mallocator/Elasticsearch-HBase-River) -Elasticsearch为HBase导入河.
-* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-hbase) -Flink-HBase连接器.
-* [Gearpump](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) -HBase的Gearpump集成.
+* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-connector-hbase-2.2) -Flink-HBase连接器.
+* [Gearpump](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) -用于HBase的Gearpump集成.
 * [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) -HBase的Giraph输入和输出格式.
 * [HAWQ](https://hawq.apache.org/docs/userguide/2.3.0.0-incubating/pxf/HBasePXF.html) -HBase上的HAWQ PXF外部表.
 * [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) -Hive HBase集成.

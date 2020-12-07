@@ -90,6 +90,7 @@ Graphics
 
 * ：自由： [ArrayPainter](http://arraypainter.com/) -Array Painter是使2D阵列准备好可复制粘贴到您自己的程序中的最简单，最快的方法.
 * ：钱袋子： [AutoTileGen](http://pixelatto.com) -AutoTileGen是2D游戏地形的自动切片集生成器.
+*： 然后： [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) -LDtk是独立开发人员的开源2D级别编辑器，非常注重用户友好性.
 *： 然后： [OGMO Editor](http://www.ogmoeditor.com/) -通用级编辑器.
 *： 然后： [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) -具有引擎不可知原理的2D级别和UI编辑器.
 *： 然后： [Tiled](http://www.mapeditor.org/) -免费，易于使用且灵活的瓷砖地图编辑器.
@@ -171,13 +172,13 @@ Code
 *： 然后： [Astera](https://github.com/tek256/astera) -2D C99跨平台游戏库/框架
 *： 然后： [Azul3D](http://azul3d.org/) -用Go语言编写的3D引擎.
 *： 然后： [Babylon.js](https://www.babylonjs.com/) -Javascript 3D库.
-*： 然后： [Bacon2D](http://bacon2d.com/) -简化2D游戏开发的框架，提供了代表大多数游戏所需的基本游戏实体的即用型QML元素.
+*： 然后： [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 *： 然后： [Bevy](https://bevyengine.org/) -Rust内置的令人耳目一新的数据驱动游戏引擎
 *： 然后： [bgfx](https://github.com/bkaradzic/bgfx) -与跨平台，图形API无关的“自带引擎/框架”样式渲染库.
 *： 然后： [bitsy](https://ledoux.itch.io/bitsy)  -小游戏或世界的小编辑器. 目的是使制作游戏变得容易，使您可以四处走动并与人交谈并在某个地方.
 *： 然后： [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) -经典的点击式冒险游戏引擎和编辑器.
 *：money_with_wings： [Blend4Web](http://www.blend4web.com/) -用于在网络浏览器中创建和显示交互式3D计算机图形的Javascript框架.
-* [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 类似3D基本语言的编程语言，用于快速3D桌面游戏.
+*： 然后： [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 类似3D基本语言的编程语言，用于快速3D桌面游戏.
 *： 然后： [Box2D](http://box2d.org/) -游戏的2D物理引擎.
 *： 然后： [Bullet](http://bulletphysics.org/wordpress/) -实时物理模拟.
 *： 然后： [Cerberus X](https://www.cerberus-x.com/wordpress/) -多平台编程语言和交叉编译器，旨在进行快速的游戏编程.
@@ -249,7 +250,7 @@ Code
 *： 然后： [Lums](https://github.com/lums-proj/Lums)  -用C ++ 11编写的2D / 3D框架. 非常高效和现代. 仍在大力发展中.
 *： 然后： [LÖVE](http://love2d.org) -Lua 2D游戏引擎.
 *： 然后： [MINX](https://github.com/GearChicken/MINX) -用C ++编写的开源2D游戏框架（具有XNA风格）
-*： 然后： [MOAI](http://getmoai.com/) -跨平台框架，旨在为专业游戏开发人员使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
+*： 然后： [MOAI](http://getmoai.com/) -跨平台框架，专为专业游戏开发人员使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
 *： 然后： [Magnum](http://magnum.graphics/) -用C ++ 11编写的轻量级模块化2D / 3D图形/游戏引擎
 *： 然后： [Matter.js](http://brm.io/matter-js/) -Web的2D物理引擎.
 *： 然后： [MelonJS](http://melonjs.org) -开源轻量级HTML5游戏引擎.
@@ -351,7 +352,7 @@ Audio
 -----------
 *制作棋盘游戏的工具*
 
-* ：自由： [Boardgamizer](http://www.boardgamizer.com/) - Board Game Design Idea Generator.
+* ：自由： [Boardgamizer](http://www.boardgamizer.com/) -棋盘游戏设计理念生成器.
 *： 然后： [RPTools](http://www.rptools.net/) -旨在增强传统纸笔角色扮演游戏的开源程序品牌.
 
 必看
@@ -383,7 +384,7 @@ Audio
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“热门排行榜”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门排行榜”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)

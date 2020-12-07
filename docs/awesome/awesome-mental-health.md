@@ -15,7 +15,7 @@
 
  **精神健康**是**心理健康**或**没有精神疾病**的水平. 这是某人以令人满意的情绪和行为调节水平运作的心理状态.
 
-它包括主观幸福感，感知到的自我效能感，自主权，能力，世代相依以及对一个人的智力和情感潜能的自我实现等.
+它包括主观幸福感，感知的自我效能感，自主权，能力，世代相依以及对一个人的智力和情感潜能的自我实现等.
 
  &gt;此列表汇总了一些我们个人认为对解决一系列精神健康问题有用的自助资源，但这些资源绝不能替代专业帮助，心理治疗或药物治疗.  **我们不是专家**，即使我们曾经是，这些工具中的大多数也意味着对治疗的帮助，而不是替代.
 >
@@ -43,6 +43,7 @@
 * [A Programmers Guide To Stress](http://codingmindfully.com/a-programmers-guide-to-stress/) -达拉·伯恩（Daragh Byrne）.
 * [Are You More Than Okay: The State Of Mental Health In Tech In 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) -朱莉娅·阮（Julia Nguyen）.
 * [Coding, Fast And Slow: Developers And The Psychology Of Overconfidence](https://medium.com/better-programming/coding-fast-and-slow-developers-and-the-psychology-of-overconfidence-433388e7aec0) -丹·米尔斯坦（Dan Milstein）.
+* [Depression At Work Is Skyrocketing, But It Doesn't Have To Be Your New Normal](https://www.fingerprintforsuccess.com/blog/depression-at-work) -Bev Campling.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) -劳伦·马菲（Lauren Maffeo）.
 * [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) -Abhishek Pillai.
 * [Do Not Disturb](https://joebell.co.uk/blog/do-not-disturb/) -乔·贝尔（Joe Bell）.
@@ -107,7 +108,7 @@
 
 * [Black Minds Matter](http://blackmindsmatter.co.uk/) -一个非营利组织，旨在增强13-25岁黑人社区的能力，并希望为所有人建立更平等和公正的社会.
 * [Black Therapists Rock](https://www.blacktherapistsrock.com/) -Black Therapists Rock（BTR）是一个致力于提高人们对影响弱势社区的社会和心理挑战的认识的组织.
-* [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) -英国最大的独立组织，专门从事心理工作，了解彼此之间的相处性，这些人被称为黑人，非洲，南亚和加勒比海地区.
+* [The Black, African, and Asian Therapy Network](https://www.baatn.org.uk/) -英国最大的独立组织，专门研究与黑人，非洲，南亚和加勒比海地区的人们之间的相处性，从而在心理方面开展工作.
 * [Brown Sisters Speak](https://twitter.com/BrownSistersSpk) -为有色女性提供心理健康同伴支持和宣传.
 * [Compassionate Coding](https://compassionatecoding.com) -富有同情心的编码结合了敏捷软件开发的有效实践，侧重于同理心和最新的积极组织心理.
 * [Everybody Has A Brain](http://everybodyhasabrain.com/) -每个人都有一个头脑，就是围绕个人心理健康创造对话机会.
@@ -166,6 +167,7 @@
 * [Why We Need Innovation In Mental Health Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=whYGza42F5U) -通过Solome Tibebu.
 
 ## Contributing
+
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CODE_OF_CONDUCT.md)
 
 请参阅 [CONTRIBUTING](https://github.com/dreamingechoes/awesome-mental-health/blob/master/.github/CONTRIBUTING.md) 有关如何为列表推荐很棒的资源或其他修改的更多详细信息. 您还可以找到按字母顺序排列的此存储库的参与者列表 [here](https://github.com/dreamingechoes/awesome-mental-health/blob/master/CONTRIBUTORS.md).

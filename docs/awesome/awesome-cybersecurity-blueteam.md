@@ -4,11 +4,11 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一组个人，可以识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保所实施的防御措施在将来仍然有效. 尽管不是排他性的，但此清单在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效. 尽管不是排他性的，但此清单在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-许多网络安全专业人员通过向地方，州和联邦警务机构提供服务或与这样做的类似机构合作，有意或无意地助长了种族主义国家暴力. 这种邪恶通常是通过强制性的就业机制而发生的，面临着无法获得食物，住房或医疗保健的威胁. 尽管该列表可以公开获得，但维护者的意图是并希望该列表支持那些致力于对抗如此大规模的平庸邪恶的人们和组织.
+许多网络安全专业人员通过向地方，州和联邦警务机构提供服务或与这样做的类似机构合作，有意或无意地助长了种族主义国家暴力. 这种邪恶通常是通过强制性的就业机制而发生的，面临着无法获得食物，住房或医疗保健的威胁. 尽管该列表可以公开获得，但维护者的意图是并希望该列表支持那些致力于反击这种大规模的平庸邪恶的人们和组织.
 
 ![Image of a raised fist composed of the names of Black people murdered by taxpayer-funded racist police violence.](https://web.archive.org/web/20201028021653if_/https://lauerrealtygroup.com/wp-content/uploads/2020/06/BLM-FIST-scaled.jpg)
 
@@ -24,7 +24,7 @@
 - [Clevis](https://github.com/latchset/clevis) -用于自动解密的可插入框架，通常用作Tang客户端.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) -用Python编写的可扩展网络取证分析框架，可快速开发插件以支持剖析网络数据包捕获.
 - [Dev-Sec.io](https://dev-sec.io/) -服务器强化框架，提供各种基线安全配置的Ansible，Chef和Puppet实现.
-- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) -可编写脚本的PDF文件分析器.
+- [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - Scriptable PDF file analyzer.
 - [PyREBox](https://talosintelligence.com/pyrebox) -基于QEMU的Python可编写脚本的反向工程沙箱.
 - [Watchtower](https://containrrr.dev/watchtower/) -基于容器的解决方案，用于自动化Docker容器基础映像更新，提供无人值守的升级体验.
 
@@ -48,8 +48,8 @@
 
 也可以看看 [asecure.cloud/tools](https://asecure.cloud/tools/).
 
-- [Checkov](https://www.checkov.io/) -Terraform的静态分析（以基础结构作为代码），有助于检测CIS策略违规并防止云安全配置错误.
-- [Falco](https://falco.org/) -行为活动监视器，旨在通过审核Linux内核并通过运行时数据（例如Kubernetes指标）进行充实，以检测容器化应用程序，主机和网络数据包流中的异常活动.
+- [Checkov](https://www.checkov.io/) - Static analysis for Terraform (infrastructure as code) to help detect CIS policy violations and prevent cloud security misconfiguration.
+- [Falco](https://falco.org/) - Behavioral activity monitor designed to detect anomalous activity in containerized applications, hosts, and network packet flows by auditing the Linux kernel and enriched by runtime data such as Kubernetes metrics.
 - [Istio](https://istio.io/) -开放平台，用于提供统一的方式来集成微服务，管理跨微服务的流量，执行策略和汇总遥测数据.
 - [Kata Containers](https://katacontainers.io/) -使用感觉和性能类似容器的轻型虚拟机来保护容器运行时，但是使用硬件虚拟化技术作为第二层防御，可以提供更强的工作负载隔离.
 - [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) -查询和验证托管Kubernetes集群对象以及集群内部运行的工作负载/资源的几种与安全性相关的常见配置设置.
@@ -70,13 +70,13 @@
 
 - [Bane](https://github.com/genuinetools/bane) -用于Docker容器的自定义更好的AppArmor配置文件生成器.
 - [BlackBox](https://github.com/StackExchange/blackbox) -通过使用GnuPG对其进行“静态”加密，将秘密安全地存储在Git / Mercurial / Subversion中.
-- [Cilium](https://cilium.io/) - Open source software for transparently securing the network connectivity between application services deployed using Linux container management platforms like Docker and Kubernetes.
+- [Cilium](https://cilium.io/) -开源软件，用于透明保护使用Linux容器管理平台（如Docker和Kubernetes）部署的应用程序服务之间的网络连接.
 - [Clair](https://github.com/coreos/clair) -静态分析工具，用于探测通过应用程序容器（例如Docker）映像引入的漏洞.
 - [CodeQL](https://securitylab.github.com/tools/codeql) -通过对代码进行查询，就像发现数据一样，从而发现整个代码库中的漏洞.
 - [DefectDojo](https://www.defectdojo.org/) -为DevOps和持续安全集成而构建的应用程序漏洞管理工具.
 - [Gauntlt](http://gauntlt.org/) -在常规持续集成过程中的Pentest应用程序会构建管道.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -防止您将密码和其他敏感信息提交到git存储库.
-- [SOPS](https://github.com/mozilla/sops) -支持YAML，JSON，ENV，INI和二进制格式并使用AWS KMS，GCP KMS，Azure Key Vault和PGP加密的加密文件的编辑器.
+- [SOPS](https://github.com/mozilla/sops) -支持YAML，JSON，ENV，INI和二进制格式的加密文件的编辑器，并使用AWS KMS，GCP KMS，Azure Key Vault和PGP进行加密.
 - [Snyk](https://snyk.io/) -查找并修复开源依赖项和容器映像中的漏洞和许可证违规.
 - [SonarQube](https://sonarqube.org) -连续检查工具，可在自动测试期间提供详细的报告，并就新引入的安全漏洞发出警报.
 - [Trivy](https://github.com/aquasecurity/trivy) -适用于容器和其他工件的简单而全面的漏洞扫描程序，适用于连续集成管道.
@@ -122,7 +122,7 @@
 ## Host-based tools
 
 - [Artillery](https://github.com/BinaryDefense/artillery) -组合蜜罐，文件系统监视器和警报系统，旨在保护Linux和Windows操作系统.
-- [chkrootkit](http://chkrootkit.org/) - Locally checks for signs of a rootkit on GNU/Linux systems.
+- [chkrootkit](http://chkrootkit.org/) -在GNU / Linux系统上本地检查rootkit的迹象.
 - [Crowd Inspect](https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/) -适用于Windows系统的免费工具，旨在提醒您存在可能通过网络进行通信的恶意软件.
 - [Fail2ban](https://www.fail2ban.org/) -入侵防御软件框架，可保护计算机服务器免受暴力攻击.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) -完全开源和免费的，功能丰富的基于主机的入侵检测系统（HIDS）.
@@ -166,7 +166,7 @@
 
 ### Firewall appliances or distributions
 
-- [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
+- [OPNsense](https://opnsense.org/) -基于FreeBSD的防火墙和路由平台.
 - [pfSense](https://www.pfsense.org/) -防火墙和路由器FreeBSD分发.
 
 ## Operating System distributions
@@ -184,7 +184,7 @@
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
 - [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) -有助于检测和响应网络钓鱼攻击的框架.
 - [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) -允许创建和管理（伪造）网络钓鱼活动的平台，旨在训练人们识别可疑邮件. 
-- [mailspoof](https://github.com/serain/mailspoof) -扫描SPF和DMARC记录以查找可能允许电子邮件欺骗的问题.
+- [mailspoof](https://github.com/serain/mailspoof) - Scans SPF and DMARC records for issues that could allow email spoofing.
 - [phishing_catcher](https://github.com/x0rz/phishing_catcher) -可配置脚本，可使用以下命令在证书透明性日志（CTL）中按域名监视可疑TLS证书的颁发 [CertStream](https://certstream.calidog.io/) 服务.
 
 ## Preparedness training and wargaming
@@ -193,10 +193,11 @@
 
 - [APTSimulator](https://github.com/NextronSystems/APTSimulator) -使系统看起来好像是APT攻击的受害者的工具集.
 - [Atomic Red Team](https://atomicredteam.io/) -简单，可自动执行的测试库，以执行以测试安全性控制.
+- [BadBlood](https://www.secframe.com/badblood/) -用数据填充测试（非生产）Windows域，使安全分析人员和工程师可以练习使用工具来了解并指定如何保​​护Active Directory.
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) -模块化，菜单驱动的跨平台工具，用于为Blue Team演练和传感器/警报映射构建可重复的，延迟的，分布式的安全事件.
 - [Metta](https://github.com/uber-common/metta) -自动化的信息安全准备工具进行对抗性仿真.
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) -生成恶意网络流量并帮助安全团队评估安全控制并审核其网络可见性的实用程序.
-- [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) -基于Ubuntu的Open Virtual Appliance（`.ova`）已预先配置了多个威胁仿真工具以及防御者的工具包.
+- [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) -基于Ubuntu的开放式虚拟设备（`.ova`）已预先配置了多个威胁仿真工具以及防御者的工具包.
 
 ## Security monitoring
 
@@ -227,7 +228,7 @@
 ### Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) -由AlienVault开放威胁交换（OTX）驱动的具有资产发现，资产清单，行为监控和事件关联的单服务器开源SIEM平台.
-- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报.
+- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报功能.
 
 ### Service and performance monitoring
 
@@ -268,9 +269,11 @@
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) -通过被动地映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）以及监督控制和数据采集（SCADA）的态势感知.
 - [MLSec Combine](https://github.com/mlsecproject/combine) -收集多种威胁情报源并将其组合成一种可定制的，基于CSV的标准化格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) -用于收集，存储，分发和共享网络安全指标的开源软件解决方案.
+- [Sigma](https://github.com/Neo23x0/sigma) -SIEM系统的通用签名格式，提供一种开放签名格式，使您可以直接描述相关的日志事件.
 - [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) -可扩展工具，可从威胁源（包括Twitter，RSS源或其他来源）提取和汇总IOC.
 - [Unfetter](https://nsacyber.github.io/unfetter/) -利用Mitre的ATT＆CK框架识别安全态势中的防御性漏洞.
 - [Viper](https://github.com/viper-framework/viper) -二进制分析和管理框架，可轻松组织恶意软件和利用样本.
+- [YARA](https://github.com/VirusTotal/yara) -旨在（但不限于）帮助恶意软件研究人员识别和分类恶意软件样本的工具，称为文件样式和签名的“样式匹配瑞士军刀”.
 
 ## Tor Onion service defenses
 
@@ -302,11 +305,12 @@
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) -实用程序，可禁用许多危险的Windows功能.
 - [NotRuler](https://github.com/sensepost/notruler) -检测客户端规则和由VBScript启用的表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时使用的攻击工具.
+- [PlumHound](https://plumhound.defensiveorigins.com/) 通过利用其寻路引擎来识别Active Directory安全漏洞，可以在连续的安全生命周期中更有效地使用BloodHoundAD.
 - [Sandboxie](https://www.sandboxie.com/) -免费和开放源代码的通用Windows应用程序沙箱工具.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) -根据Microsoft的审核Windows主机的根证书存储 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) -从主机名列表建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.
 - [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) -组策略对象，合规性检查和配置工具，它们提供了一种自动化且灵活的方法来安全地部署和维护Windows 10的最新版本.
-- [WMI Monitor](https://github.com/realparisi/WMI_Monitor) -将新创建的WMI使用者和进程记录到Windows应用程序事件日志中.
+- [WMI Monitor](https://github.com/realparisi/WMI_Monitor) -将新创建的WMI使用者和进程记录到Windows应用程序事件日志中。
 
 ## License
 
