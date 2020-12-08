@@ -178,7 +178,7 @@ Code
 *： 然后： [bitsy](https://ledoux.itch.io/bitsy)  -小游戏或世界的小编辑器. 目的是使制作游戏变得容易，使您可以四处走动并与人交谈并在某个地方.
 *： 然后： [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) -经典的点击式冒险游戏引擎和编辑器.
 *：money_with_wings： [Blend4Web](http://www.blend4web.com/) -用于在网络浏览器中创建和显示交互式3D计算机图形的Javascript框架.
-*： 然后： [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 类似3D基本语言的编程语言，用于快速3D桌面游戏.
+*： 然后： [Blitz3D](https://github.com/blitz-research/blitz3d) 类似3D基本语言的编程语言，用于快速3D桌面游戏.
 *： 然后： [Box2D](http://box2d.org/) -游戏的2D物理引擎.
 *： 然后： [Bullet](http://bulletphysics.org/wordpress/) -实时物理模拟.
 *： 然后： [Cerberus X](https://www.cerberus-x.com/wordpress/) -多平台编程语言和交叉编译器，旨在进行快速的游戏编程.

@@ -17,7 +17,7 @@
 * [What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/) -发布MVI体系结构.
 * [Cycle.js: a reactive framework](https://lucamezzalira.com/2016/05/23/cycle-js-a-reactive-framework/) -带有实时数据示例的Cycle.js简介.
 * [Building realtime applications with CycleJS and RxJS](https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/) -了解如何使用CycleJS和RxJS构建实时应用程序
-* [Working with HTTP Streams with Cycle.js](http://ivanjov.com/working-with-http-streams-with-cycle-js/) - Learn how to use Cycle.js to handle HTTP requests and responses
+* [Working with HTTP Streams with Cycle.js](http://ivanjov.com/working-with-http-streams-with-cycle-js/) -了解如何使用Cycle.js处理HTTP请求和响应
 
 ### Videos
 
@@ -46,7 +46,7 @@
 
 ### Example Applications
 
-* [**cyclejs/cycle-examples**](https://github.com/cyclejs/cyclejs/tree/master/examples) -小Cycle.js示例的官方集合
+* [**cyclejs/cycle-examples**](https://github.com/cyclejs/cyclejs/tree/master/examples) - Official collection of small Cycle.js examples
 * [Widdershin/tricycle ★23](https://github.com/Widdershin/tricycle) -Scratchpad试用Cycle.js，依靠带有Cycle的Ace编辑器
 * [cgeorg/todomvp ★21](https://github.com/cgeorg/todomvp) -Minimum Viable Pizza，用Cycle.js编写的示例网络应用
 * [erykpiast/cyclejs-examples ★9](https://github.com/erykpiast/cyclejs-examples) -使用Cycle.js构建的示例Web应用程序.
@@ -159,6 +159,7 @@ http://oleg.fi/graafi/
 * [cycle-community/typescript-starter-cycle ★22](https://github.com/cyclejs-community/typescript-starter-cycle)  -一个简单的项目，用于使用Webpack在cycle.js中开始使用TypeScript. 具有将Visual Studio Code设置为Candy的设置.
 * [wyqydsyq/unicycle ★6](https://github.com/wyqydsyq/unicycle) -通过Webpack在带有HMR和ServiceWorkers的Koa.js服务器上运行的样板通用Cycle应用程序
 * [syarul/cycle-iso ★4](https://github.com/syarul/cycle-iso) -一个基于promise并使用Falcor.js获取数据流的准系统样板Cycle应用程序
+* [snowpack-cycle](https://github.com/rajasegar/snowpack-cycle) -Snowpack应用程序模板，用于使用create-snowpack-app创建Cycle.js项目
 
 ### Testing
 

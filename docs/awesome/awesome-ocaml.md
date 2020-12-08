@@ -71,8 +71,8 @@
 
 ## Books
 
-- [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)  –在More OCaml中，约翰·惠灵顿（John Whitington）曲折地浏览了OCaml的函数式编程，介绍了各种语言功能并描述了一些经典算法. 本书以一个处理PDF文件生成的大型示例作为结尾. 每章都有问题，以及有效的答案和提示.
-- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html) 艾伦·唐尼（Allen Downey）和尼古拉斯·蒙耶（Nicholas Monje）撰写的-《如何像计算机科学家一样思考》是一本基于OCaml语言的入门编程教科书. 它是Allen Downey编写的Think Python的修改版本. 它适用于编程的新手，以及那些了解一些编程但想在面向功能的范式中学习编程的人，或者只是想学习OCaml的人.
+- [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)  –在More OCaml中，约翰·惠灵顿（John Whitington）进行了OCaml函数编程的曲折之旅，介绍了各种语言功能并描述了一些经典算法. 本书以一个处理PDF文件生成的大型示例作为结尾. 每章都有问题，以及有效的答案和提示.
+- [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html) 艾伦·唐尼（Allen Downey）和尼古拉斯·蒙耶（Nicholas Monje）撰写的《如何像计算机科学家一样思考》是一本基于OCaml语言的入门编程教材. 它是Allen Downey编写的Think Python的修改版本. 它适用于编程的新手，以及那些了解一些编程但想在面向功能的范式中学习编程的人，或者只是想学习OCaml的人.
 - [OCaml from the Very Beginning](http://ocaml-book.com/) 由J. Whitington撰写-OCaml从一开始就将吸引新的程序员，以及经验丰富的渴望探索功能语言（例如OCaml）的程序员.
 - [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) 由理查德·伯德（Richard Bird）撰写-总结了函数编程世界中的30个难题. 尽管是针对Haskell的，但算法问题却非常有趣，尝试在OCaml中解决它们也有助于功能编程的思考.  OCaml中的部分解决方案是 [here](https://github.com/MassD/pearls).
 - [Real World OCaml](https://realworldocaml.org/) 由Y. Minsky，A.Madhavapeddy和J. Hickey编写-面向大众的函数式编程.
@@ -121,7 +121,7 @@
   - [RaML](http://raml.co/index.html) -资源感知ML（RaML）是一种工具，可以自动和静态地计算OCaml程序的资源使用范围.
 
 -**解析器和词法生成器**：
-  - [Opal](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
+  - [Opal](https://github.com/pyrocat101/opal) –用于OCaml的独立式Monadic解析器组合器.
   - [Sedlex](https://github.com/ocaml-community/sedlex) 是现代的，与编码无关的（阅读：支持Unicode的）词法分析器生成器（基于ppx的后继生成器） [ulex](http://www.cduce.org/download.html#side).)
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir是OCaml的LR（1）解析器生成器.
     -看 [ocaml-parsing](https://github.com/smolkaj/ocaml-parsing) 有关使用Menhir和Sedlex生成有用的解析器的更清晰示例，
@@ -168,7 +168,7 @@
 -**叠加**
   - [Sequoia](https://github.com/andrenth/sequoia) -Sequoia是MySQL / MariaDB和PostgreSQL的类型安全查询构建器
   - [Macaque](https://github.com/ocsigen/macaque) —猕猴是使用PG&#39;OCaml之上的理解功能进行安全灵活的数据库查询的库.
-  - [ORM](https://github.com/mirage/orm) — SQLite的ORM.
+  - [ORM](https://github.com/mirage/orm) — ORM for SQLite.
   - [Caqti](https://github.com/paurkedal/ocaml-caqti) -合作关系数据访问
 -**文章**：
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
@@ -191,7 +191,7 @@
 - [utop](https://github.com/ocaml-community/utop) – OCaml的通用顶层，支持多行版本，历史记录，实时和上下文相关的补全，颜色等.
 - [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) -格式化OCaml代码的命令行工具.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html)  –使用LablTk编写的源代码和编译界面浏览器. 包含在ocaml &lt;= 4.01的标准发行版中，以及包含在labml&gt; = 4.02的labltk中.
-- [ghim](https://github.com/samoht/ghim) –用于管理Github问题的命令行工具.
+- [ghim](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
 - [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) –支架式OCaml模块的Yeoman发电机.
 
 -**外部功能接口**：
@@ -217,18 +217,18 @@
   - [Bisect_ppx](https://github.com/aantron/bisect_ppx)
 
 
-## Exercises
+## Exercises and Short Examples
 
 - [99 problems](https://ocaml.org/learn/tutorials/99problems.html) .  99％的解决方案是 [here](https://github.com/MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
 - [OCaml at Exercism](http://exercism.io/languages/ocaml)  –执行力是您进行有关代码的深思熟虑的场所. 探索简单性，惯用语言功能和富有表现力的可读代码. [Solutions](https://github.com/exercism/xocaml).
-
+- [Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/pleac_ocaml/index.html) -本书的OCaml部分是免费的参考书，用于解决使用OCaml的常见编程问题.
 
 ## Formal Software Verification
 
-- [Coq](https://coq.inria.fr/)  – Coq是正式的证明管理系统. 它提供了一种正式的语言来编写数学定义，可执行算法和定理，以及用于半交互式开发机器检查的证明的环境.
+- [Coq](https://coq.inria.fr/)  – Coq是正式的证明管理系统. 它提供了一种正式的语言来编写数学定义，可执行的算法和定理，以及用于半交互式开发机器检查的证明的环境.
 - [Why3](http://why3.lri.fr/)  – Why3是演绎程序验证的平台. 它为规范和编程提供了一种丰富的语言，称为WhyML，并依靠自动和交互的外部定理证明者来满足验证条件.
-- [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo is an open-source SMT solver dedicated to the proof of mathematical formulas generated in the context of program verification.
+- [Alt-Ergo](http://alt-ergo.lri.fr/) – Alt-Ergo是一个开源SMT求解器，致力于证明在程序验证的情况下生成的数学公式.
 
 
 ## General
@@ -257,7 +257,7 @@
 -** 3D **
   - [glMLite](https://github.com/fccm/glMLite)  — OCaml的OpenGL绑定. 提供（实验）功能性API.  （[homepage](http://decapode314.free.fr/ocaml/GL/))
   - [lablgl](https://forge.ocamlcore.org/projects/lablgl/)  — OpenGL的接口. 与lablgtk很好地集成.
-  - [tgls](http://erratique.ch/software/tgls) —精简绑定OpenGL 3. {2,3}，4.{0,1,2,3,4}和OpenGL ES {2,3}.
+  - [tgls](http://erratique.ch/software/tgls) —瘦绑定OpenGL 3. {2,3}，4.{0,1,2,3,4}和OpenGL ES {2,3}.
 
 
 ## Internationalization
@@ -398,7 +398,7 @@
 
 -**构建工具**：
   - [Oasis](http://oasis.forge.ocamlcore.org/)  -在OCaml项目中集成配置，构建和安装系统的工具. 它有助于在构建系统中创建标准入口点，并允许外部工具轻松分析项目.
-    - [oasis2opam](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
+    - [oasis2opam](https://github.com/ocaml/oasis2opam) —用于将OASIS元数据转换为OPAM软件包描述的工具.
   - [obuild](https://github.com/ocaml-obuild/obuild) –简单的ocaml软件包构建系统.
   - [dune](https://github.com/ocaml/dune) –用于OCaml的可组合且自以为是的构建系统（以前的jbuilder）
   - [jenga](https://github.com/janestreet/jenga) – Jane Street的Monadic构建系统.
@@ -421,7 +421,7 @@
   - [Nproc](https://github.com/MyLifeLabs/nproc) – OCaml的过程池实现.
   - [Parany](https://github.com/UnixJunkie/parany) –对独立项目进行并行计算，即使它们数目无限大也是如此.
   - [Sklml](http://sklml.inria.fr) –用于OCaml程序的功能性并行骨架编译器和编程系统.
-  - [SPOC](https://github.com/mathiasbourgoin/SPOC) -库和语法扩展，可将大量计算任务卸载到并行加速器（多核CPU，GPU和与GPGPU框架兼容的其他加速器）中.
+  - [SPOC](https://github.com/mathiasbourgoin/SPOC) -库和语法扩展，可将大量计算任务卸载到并行加速器（多核CPU，GPU和其他与GPGPU框架兼容的加速器）中.
 
 -**文章**：
   - [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
@@ -464,11 +464,11 @@
 
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) –纯OCaml中的T​​LS.
 - [Digestif](https://github.com/mirage/digestif) -OCaml和C中的哈希算法（例如SHA *或BLAKE2 *）.
-- [cryptokit](https://github.com/xavierleroy/cryptokit) –用于OCaml的Cryptokit库提供了多种加密原语，可用于在对安全敏感的应用程序中实现加密协议.
+- [cryptokit](https://github.com/xavierleroy/cryptokit) –用于OCaml的Cryptokit库提供了各种加密原语，可用于在对安全敏感的应用程序中实现加密协议.
 - [nocoiner](https://github.com/marcoonroad/nocoiner) -用于多方计算（例如在线拍卖和赌博）的承诺计划库.
 - [nocrypto](https://github.com/mirleft/ocaml-nocrypto)  – ocaml-tls项目背后的小型密码库. 它被构建为易于使用，遵循功能性编程原则并且能够在基于Xen的unikernel中运行.
 
-&gt;注意：以下博客文章中描述了`nocrypto`和`cryptokit`加密库之间的区别： [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
+&gt;注意：以下博客文章描述了`nocrypto`和`cryptokit`加密库之间的区别： [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
 
 
 ## Semantic Technology
@@ -489,7 +489,7 @@
 
 ## System Programming
 
-- [Mirage OS](https://github.com/mirage/mirage) – Mirage是一个编程框架，用于跨各种云计算和移动平台构建安全的高性能网络应用程序.
+- [Mirage OS](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
 - [ocaml-fat](https://github.com/mirage/ocaml-fat) –从OCaml读取和写入FAT格式的文件系统.
 - [ocaml-git](https://github.com/mirage/ocaml-git) –纯OCaml低级git绑定.
 - [ocaml-vchan](https://github.com/mirage/ocaml-vchan) –“ vchan”共享内存通信协议的纯OCaml实现.

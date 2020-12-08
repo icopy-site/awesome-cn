@@ -5,7 +5,7 @@
 [<img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-logo.svg?sanitize=true" align="right" width="250">](http://vertx.io)
 
 * Awesome Vert.x *是一系列令人敬畏的框架，库或其他组件，它们可以一起使用或
-[Vert.x](https://github.com/eclipse/vert.x) 版本3.
+[Vert.x](https://github.com/eclipse/vert.x) 版.
 
 如果要在此处显示组件，请向该存储库发送拉取请求以添加它.
 
@@ -44,7 +44,7 @@
 * [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) -用于JVM的实时客户端服务器框架，支持WebSocket和具有跨浏览器后备功能的服务器发送事件.
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) -在Vert.x上运行View应用程序.
 * [Serverx](https://github.com/lukehutch/serverx) -使您仅使用路由处理程序注释即可快速轻松地设置支持Vert.x的服务器.
-* [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) -Cloudopt Next是一个非常轻量级的，现代的，基于JVM的全栈kotlin框架，旨在构建具有Java，Kotlin语言支持的模块化，易于测试的JVM应用程序，该应用程序是根据最佳的Java库和标准精制而成的.
+* [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) -Cloudopt Next是一个非常轻量级的，现代的，基于JVM的全栈kotlin框架，旨在构建具有Java，Kotlin语言支持的模块化，易于测试的JVM应用程序，该应用程序是根据最佳的Java库和标准精制而成.
 
 ## Authentication Authorisation
 
@@ -74,7 +74,7 @@
   * [SirixDB](https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api) -非阻塞SirixDB HTTP服务器.
   * [DGraph](https://github.com/aesteve/vertx-dgraph-client)  -有关如何构建Vert.x gRPC兼容客户端的示例. 此处定位 [dgraph](https://dgraph.io)
   * [RxFirestore](https://github.com/pjgg/rxfirestore) -以反应方式编写的非阻塞Firestore SDK.
-  * [MongoDB](https://github.com/imrafaelmerino/vertx-mongodb-effect) -顶级的纯功能和反应式MongoDB客户端 [Vert.x Effect](https://github.com/imrafaelmerino/vertx-mongodb-effect) . 全面支持重试，后备和恢复操作.
+  * [MongoDB](https://github.com/imrafaelmerino/vertx-mongodb-effect) -在之上具有纯功能性和反应性的MongoDB客户端 [Vert.x Effect](https://github.com/imrafaelmerino/vertx-mongodb-effect) . 全面支持重试，后备和恢复操作.
 
 * [vertx-pojo-mapper](https://github.com/BraintagsGmbH/vertx-pojo-mapper) -MySQL和MongoDB的非阻塞POJO映射.
 * [vertx-mysql-binlog-client](https://github.com/guoyu511/vertx-mysql-binlog-client) -一个Vert.x客户端，用于接入MySQL复制流.
@@ -241,7 +241,7 @@
 * [QBit](https://github.com/advantageous/qbit)  -QBit可用于Spring DI和Spring Boot（当然还有Vert.x）. 允许您在同一应用程序中使用QBit，Vert.x，Spring DI和Spring Boot.
 * [Vert.x Eclipse SISU](https://github.com/cstamas/vertx-sisu) -与Vert.x集成 [Eclipse SISU](https://www.eclipse.org/sisu/) DI container.
 * [Vert.x Spring Verticle Factory](https://github.com/juanavelez/vertx-spring-verticle-factory) -Vert.x Verticle工厂，该工厂利用Spring获取和配置Verticles.
-* [Glue](https://github.com/vinscom/glue)  -久经考验的编程和基于Java和Vert.x的应用程序的配置模型. 受到ATG Nucleus的启发，它使用简单的属性文件提供了强大的基于层的配置管理.
+* [Glue](https://github.com/vinscom/glue)  -久经考验的编程和基于Java和Vert.x的应用程序的配置模型. 受ATG Nucleus的启发，它使用简单的属性文件提供了强大的基于层的配置管理.
 
 ## Testing
 
@@ -285,7 +285,7 @@
 * [Vert.x PostgreSQL Starter](https://github.com/BillyYccc/vertx-postgresql-starter) -使用Vert.x堆栈和PostgreSQL构建整体CRUD RESTful Web服务的入门者.
 * [Cloud Foundry](https://github.com/amdelamar/vertx-cloudfoundry) -示例Vert.x，用于部署到 [Cloud Foundry](https://www.cloudfoundry.org/) 服务提供者.
 * [Knative](https://github.com/knative/docs/tree/master/serving/samples/helloworld-vertx) -有关如何使用的示例应用程序 [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) 与 [Knative](https://github.com/knative).
-* [Starter Single Verticle API](https://github.com/jgarciasm/ssv-api) -REST API Starter和Project模板准备就绪，可以使用大量管道代码，示例和文档进行部署，从而几乎无需vert.x即可快速开发API，并且不会浪费任何时间.
+* [Starter Single Verticle API](https://github.com/jgarciasm/ssv-api) -REST API Starter和Project模板准备就绪，可以使用大量管道代码，示例和文档进行部署，从而在几乎不了解vert.x的情况下快速开发API，并且不会浪费任何时间.
 ## Deployment
 
 * [Vert.x Deploy Application](https://github.com/msoute/vertx-deploy-tools) -（无缝）部署到基于AWS的Vert.x应用程序集群.
@@ -305,6 +305,10 @@
 * [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) -路由处理程序和Vert.x兼容的接口，用于处理Vert.x和Vert.x Web中的GraphQL查询.
 * [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) -Nannoq-Tools是用于利用Vert.x构建健壮，可扩展和分布式应用程序的工具包，其中包括用于身份验证，集群管理，Firebase Cloud Messaging，DynamoDB，完全通用查询，REST等的模块.
 
+## Presentations
+
+- [Vert.x Youtube channel](https://www.youtube.com/channel/UCGN6L3tRhs92Uer3c6VxOSA)
+
 ## Community
 
 - [User Group](https://groups.google.com/forum/?fromgroups#!forum/vertx) -讨论与*使用* Vert.x相关的所有用户问题.
@@ -312,9 +316,26 @@
 - [Gitter chat](https://gitter.im/eclipse-vertx/vertx-users) Vert.x相关聊天的常规聊天.
 - [Issues](https://github.com/vert-x3/issues/issues) -Vert.x核心问题跟踪器.
 - [Wiki](https://github.com/vert-x3/wiki/wiki) -包含有关Vert.x的有用信息.
-- [Learning Materials](http://vertx.io/materials/) -Vert.x上的文章和演示列表.
 - [Blog](http://vertx.io/blog/) -官方的Vert.x博客，其中包含许多教程和其他信息.
 - [2017 Events](https://github.com/vert-x3/wiki/wiki/Vert.x-2017-Events) -2017 Vert.x演讲和演示的列表.
+
+## Articles
+
+- [Going reactive with Eclipse Vert.x and RX Java ](http://www.javamagazine.mozaicreader.com/JanFeb2018#&pageSet=32&page=0)
+- [First Steps With Vert.x and Infinispan - Part 2: PUSH API ](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-push-api-par)
+- [First Steps With Vert.x and Infinispan - Part 1: REST API ](https://dzone.com/articles/first-steps-with-vertx-and-infinispan-rest-api)
+- [Location Transparency With Vert.x ](https://dzone.com/articles/location-transparency-with-vertx)
+- [Reactive Microservices and Service Discovery with Vert.x ](https://dzone.com/articles/reactive-microservices-and-service-discovery-with)
+- [https://dzone.com/articles/vertx-330-development-automation](https://dzone.com/articles/vertx-330-development-automation)
+- [Vert.x 3.3.0 Features Enhanced Networking Microservices, Testing and More ](https://www.infoq.com/news/2016/06/Vert.x-3.3.0-release-features)
+- [Launching Vert.x Dynamically](https://dzone.com/articles/vertx-launcher)
+- [Secure Your Vertx 3 App With Pac4j](https://dzone.com/articles/secure-your-vertx)
+- [Interview with Tim Fox About Vert.x 3, the Original Reactive, Microservice Toolkit for the JVM ](http://www.infoq.com/articles/vertx-3-tim-fox)
+
+## Tutorials
+
+- [Vert.x - From zero to (micro-) hero](http://escoffier.me/vertx-hol)
+- [Introduction to Vert.x](https://vertx.io/blog/posts/introduction-to-vertx.html)
 
 ## Social events / Meetups
 

@@ -2,9 +2,9 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-资源集合，包括Nginx，Nginx + Lua，OpenResty和Tengine.
+资源集合，涵盖Nginx，Nginx + Lua，OpenResty和Tengine.
 
-该列表由维护 [Frederic Cambus](https://www.cambus.net) .  有关更新，请在Twitter上关注我： [@fcambus](https://twitter.com/fcambus)
+该列表由维护 [Frederic Cambus](https://www.cambus.net) . 有关更新，请在Twitter上关注我： [@fcambus](https://twitter.com/fcambus)
 
 ## Understanding Nginx
 
@@ -96,6 +96,7 @@
 - [Scaling TextRazor in the Cloud with Nginx and Lua](https://www.textrazor.com/blog/2013/03/scaling-textrazor-in-the-cloud-with-nginx-and-lua.html)
 - [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/pirogoeth/lsso)
 - [Measuring Nginx Cache Performance using Lua and Redis](https://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis/)
+- [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua)
 
 ## OpenResty
 

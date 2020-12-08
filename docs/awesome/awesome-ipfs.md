@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 
-> Useful resources for using [IPFS](https://ipfs.io) 并在其之上构建事物
+&gt;有用的资源 [IPFS](https://ipfs.io) 并在其之上构建事物
 
  _此列表适用于项目，工具或几乎与IPFS相关的所有事物，它们都很棒**. 这是针对已经很棒的产品的-如果您计划使用IPFS做一些很棒的事情，则应该构建它，然后在此处链接它. 如果您有一个与IPFS有关的很棒的主意，可以在这里问一下它的好地方 [our IPFS Discuss Forums](https://discuss.ipfs.io)._
 
@@ -56,7 +56,7 @@
 - [gogo.tattoo](http://gogo.tattoo)  -Gogo纹身项目使用IPFS，DLT和其他现代技术，为纹身艺术家和佩戴者提供了其作品集的坚不可摧的终生记录.  gogo.tattoo应用程序已经具有直接将作品共享到IPFS的功能.
 - [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) -大猩猩是笔记本风格的Clojure的丰富REPL.
 - [Hardbin](https://github.com/jes/hardbin) -Hardbin是一种加密的pastebin，其解密密钥在URL片段中传递
-- [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
+- [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) -具有多种功能的booru风格的媒体标记应用程序，最近添加了对ipfs的基本支持.
 - [InfiniteBooru](https://infinitebooru.com) -具有IPFS支持的所有媒体的booru风格的媒体标记应用程序和内容聚合器.
 - [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具提供对以太坊和IPFS的安全，可靠和可扩展的访问，以帮助简化分散式应用程序的构建.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) -使用IPFS进行Web存档（WARC）索引和重放.
@@ -82,7 +82,7 @@
 - [IPSE](https://www.ipse.io/) -IPFS网络的搜索引擎.
 - [Kauri](https://kauri.io)  -基于社区的Web3技术知识平台，建立在IPFS和以太坊之上. 学习，分享和策划最新和高质量的技术文章和系列.
 - [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -Dolphin File Manager的服务菜单，用于将文件上传到IPFS用于交易请求的开放网络.
-- [killcord](https://killcord.io/) -防审查的死人开关 [Source](https://github.com/nomasters/killcord)
+- [killcord](https://killcord.io/) - A censorship resistant deadman's switch [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) -基于Pandoc的标记编辑器/预览器/转换器，已移植到IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [Minerva](https://github.com/bdchain/Minerva) -Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来.
 - [OpenBazaar](https://www.openbazaar.org/) -这个新版本（v2.0）建立在IPFS之上，即使买家离线，现在也可以访问Openbazaar商店.
@@ -169,6 +169,7 @@
 - [DWS](https://dws.datochain.com/) -使用DWS部署现代静态网站，并在IPFS上享受安全和分散的存储.
 - [Eternum](https://www.eternum.io/) -使用易于使用的API的付费固定服务.
 - [Fission](https://fission.codes) -由IPFS支持的应用和网站托管，包括DNS自动化，身份和端到端加密.
+- [Monaparty](https://www.monaparty.me/)  -基于Monacoin和Counterparty的代币资产平台. 绑定到用户资产的内容由IPFS托管.
 - [Peergos](https://peergos.org)  -您的私人社交空间. 存储和编辑文档和媒体. 与朋友共享文件或文件夹. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) -通过Pinata的REST API和IPFS工具包构建和管理dapp.
 - [Robonomics Network](https://robonomics.network/) -以太坊网络基础设施，用于将网络物理系统集成到智能城市和工业4.0中
@@ -203,6 +204,7 @@
 - [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) -IPFS Linux初始化守护程序
 - [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) -在Windows上将IPFS挂载为映射驱动器
 - [ipfs-paste](https://github.com/jbenet/ipfs-paste) -将标准输入和剪贴板粘贴到IPFS
+- [ipfs-pinner](https://github.com/wabarc/ipfs-pinner) -一个工具包帮助将文件上传到IPFS固定服务.
 - [ipfs-publish](https://ipfs-publish.uhlir.dev) -持续交付工具，用于将静态网站从Git提供商交付到IPFS. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) -捕获屏幕截图，将其发布到IPFS，然后将链接复制到剪贴板.
 - [ipfs-video-gateway](https://ipfs.video) -在云提供商上通过云启动您自己的IPFS网关，并通过简单的Web界面轻松固定内容. [Source](https://github.com/bneijt/ipfs-video-gateway)
@@ -222,13 +224,14 @@
 - [Siderus Orion](https://orion.siderus.io) -易于使用的适用于macOS，Windows和Linux的IPFS桌面客户端 [Source](https://github.com/Siderus/Orion)
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) -适用于Android的完整节点
 - [Tellit](https://gitlab.com/terceranexus6/tellit) -在使用密钥对或密码上传文件之前先对其进行加密
+- [wbipfs](https://github.com/wabarc/wbipfs) -命令行工具和Go软件包界面，用于将网页回溯到IPFS.
 
 ## Videos
 
 - [Distributed Apps with IPFS - Juan Benet at Fullstack Fest 2016](https://www.youtube.com/watch?v=jONZtXMu03w)  -本演讲将探讨如何使用CRDT，发布/订阅和光滑的UI在IPFS之上构建动态应用. 它还研究了用于分布式计算的新模型，以及分布网络的伦理重要性.
 - [IPFS Alpha - Why we must redistribute the web](https://www.youtube.com/watch?v=skMTdSEaCtA) 
 - [IPFS Simply Explained](https://www.youtube.com/watch?v=5Uj6uR3fp-U) -让我们看一下IPFS的工作方式，如何解决诸如审查制度之类的问题，以及它是否真的可以在多个星球上运作！
-- [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) -演讲包括对IPFS项目的广泛了解，以及有关通过开源协议R＆D演进网络堆栈的讨论.
+- [Juan Benet at Stanford 2015](https://www.youtube.com/watch?v=HUVmypx9HGI) - The talk includes a broad look at The IPFS Project, and a discussion on evolving the network stack through open source protocols R & D.
 - [Textile Build Series - A Free Online Workshop](https://www.youtube.com/playlist?list=PLC8CEtJ9shDznO1tpvGe--BVEWmCKY9_Z)  -完整的培训计划，可教开发人员如何构建分散式Web. 该系列涵盖了大量内容，涉及IPFS堆栈的多个部分，并指导开发人员构建一个简单的DApp.
 
 ## Discussions

@@ -226,7 +226,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) 客户
 
 ## Image processing
- * [celestine](https://github.com/redcodefinal/celestine) -使用DSL创建SVG图像
+ * [celestine](https://github.com/celestinecr/celestine) -使用DSL创建SVG图像
  * [stumpy_png](https://github.com/stumpycr/stumpy_png) -读写PNG图像
 
 ## Implementations/Compilers
