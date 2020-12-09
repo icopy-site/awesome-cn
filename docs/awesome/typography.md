@@ -3,7 +3,7 @@
 ## Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Build Status](https://api.travis-ci.org/deanhume/typography.svg?branch=master)](https://travis-ci.org/deanhume/typography)
 
 
-精选网页排版文章的精选集合.
+精选的网络排版文章精选.
 
 ## Articles
 
@@ -90,12 +90,11 @@
 - [Google Font Pairing Tool](http://www.ourownthing.co.uk/fontpairing/)
 
 ## Talks
-- [Golden Rules of Typography on the Web](https://noti.st/rar/mz1rIY/golden-rules-of-typography-on-the-web)
 - [Web Fonts are Rocket Science](https://www.filamentgroup.com/lab/rocket-science.html)
 - [Video Screencast - Font Loading with Zach Leatherman](https://css-tricks.com/video-screencasts/152-font-loading-zach-leatherman/)
 
 ## Featured
-- 这个 [site](https://deanhume.github.io/typography/) 是特色 [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) 在Google I / O 2015上.
+- 这个 [site](https://deanhume.github.io/typography/) 出现在 [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) 在Google I / O 2015上.
 
 ![Google I/O Device Wall](https://raw.githubusercontent.com/deanhume/typography/master/images/device-wall-small.jpg)
 

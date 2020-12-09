@@ -51,7 +51,7 @@
 * [CHI::Driver::MongoDB](https://metacpan.org/pod/CHI::Driver::MongoDB) -CHI的MongoDB驱动程序
 * [CHI::Driver::Redis](https://metacpan.org/pod/CHI::Driver::Redis) -CHI的Redis驱动程序
 * [Catalyst::Plugin::Session::Store::CHI](https://metacpan.org/pod/Catalyst::Plugin::Session::Store::CHI) -使用CHI模块处理会话数据的存储后端
-* [CGI::Application::Plugin::CHI](https://metacpan.org/pod/CGI::Application::Plugin::CHI) -用于CHI缓存界面的CGI-App插件
+* [CGI::Application::Plugin::CHI](https://metacpan.org/pod/CGI::Application::Plugin::CHI) - CGI-App plugin for CHI caching interface
 * [Mojolicious::Plugin::CHI](https://metacpan.org/pod/Mojolicious::Plugin::CHI) -与CHI缓存交互
 
 
@@ -66,6 +66,7 @@
 * [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
 * [Moose](https://metacpan.org/pod/Moose) -唯一的，驼鹿.
 * [Mouse](https://metacpan.org/pod/Mouse) -另一个类构建器，例如Moo / Moose.
+* [Object::Pad](https://metacpan.org/pod/Object::Pad)  -`class Example {有$ x; 方法阅读器{return $ x}}`，用于 [Cor](https://gist.github.com/Ovid/68b33259cb81c01f9a51612c7a294ede)
 * [Object::Tiny](https://metacpan.org/pod/Object::Tiny) -简洁，快速且小巧的类生成器.
 
 ## CLI
@@ -222,7 +223,7 @@
 * [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) -HTML表单创建，呈现和验证框架.
 * [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) -从HTML :: FormFu配置文件生成ExtJS表单.
 * [HTML::FormHandler](https://metacpan.org/pod/HTML::FormHandler) -使用Moose的HTML表单.
-* [Mojolicious::Plugin::FormFields](https://metacpan.org/pod/Mojolicious::Plugin::FormFields) -轻巧，灵活的表单生成器，带有验证和过滤功能.
+* [Mojolicious::Plugin::FormFields](https://metacpan.org/pod/Mojolicious::Plugin::FormFields) -具有验证和过滤功能的轻巧，灵活的表单生成器.
 * [WWW::Form](https://metacpan.org/pod/WWW::Form) -简单且可扩展的模块，允许开发人员处理HTML表单输入验证并灵活一致地显示.
 
 ## Images

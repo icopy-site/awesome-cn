@@ -168,6 +168,10 @@
 + [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
 + [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
 
+### CLI
+
++ [Command Line Interface Guidelines](https://clig.dev/#guidelines)
+
 ### Deployment
 
 + [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)

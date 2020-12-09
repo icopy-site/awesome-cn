@@ -31,6 +31,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [ksuid.cr](https://github.com/Sija/ksuid.cr) -K稳定的全球唯一ID
  * [markov](https://github.com/mccallofthewild/markov) -建立马尔可夫链并运行马尔可夫过程
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) -实现多集
+ * [qr-code](https://github.com/spider-gazelle/qr-code) -QR码生成器
  * [radix](https://github.com/luislavena/radix) -基数树实施
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) -三元搜索树
 

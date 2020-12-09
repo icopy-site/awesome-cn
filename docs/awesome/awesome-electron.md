@@ -98,7 +98,7 @@
 - [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) -基于加密货币技术的分散文件存储系统.
 - [MarkRight](https://github.com/dvcrn/markright) -具有实时预览功能的GitHub风格的Markdown编辑器.
 - [Mongotron](https://github.com/officert/mongotron) -MongoDB管理工具.
-- [Colonizers](https://github.com/colonizers/colonizers-desktop) -《卡坦》的棋盘游戏.
+- [Colonizers](https://github.com/colonizers/colonizers-desktop) -《卡坦》启发的棋盘游戏.
 - [Eintopf](https://github.com/mazehall/eintopf) -使用Docker管理开发项目.
 - [WhatsDesktop](https://github.com/mawie81/whatsdesktop) -非官方的WhatsApp应用.
 - [Sqlectron](https://github.com/sqlectron/sqlectron-gui) -SQL客户端.
@@ -117,7 +117,7 @@
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat) -非官方的微信应用程序.
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单).
 - [FromScratch](https://github.com/kilian/fromscratch) -自动保存暂存器.
-- [Hawkpass](https://github.com/kalpetros/hawkpass-desktop) -密码生成器.
+- [Hawkpass](https://github.com/kalpetros/hawkpass) -密码生成器.
 - [Gokotta](https://github.com/Zhangdroid/Gokotta) - 音乐播放器.
 - [Shake](https://github.com/lumios/shake) -日本地震预警通知者.
 - [Fog](https://github.com/vitorgalvao/fog) -非官方的播客播客应用.

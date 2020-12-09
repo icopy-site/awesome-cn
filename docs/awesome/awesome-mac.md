@@ -200,7 +200,7 @@
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/)  -免费和开源的应用程序，用于主机管理和切换.  [！[开源软件] [OSS图标]]（https://github.com/oldj/SwitchHosts）！[免费软件] [免费软件图标]
 * [SYM](https://github.com/zqqf16/SYM)  -用于象征iOS崩溃日志的GUI应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/zqqf16/SYM）
 * [TeXstudio](http://www.texstudio.org)  -用于创建LaTeX文档的集成书写环境.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/texstudio/）！[免费软件] [免费软件图标]
-* [Timelane](http://www.timelane.tools)  -直观地分析您的异步代码.  [！[开源软件] [OSS图标]]（https://github.com/icanzilb/Timelane）！[免费软件] [免费软件图标]
+* [Timelane](http://timelane.tools)  -直观地分析您的异步代码.  [！[开源软件] [OSS图标]]（https://github.com/icanzilb/Timelane）！[免费软件] [免费软件图标]
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)  -在任何Mac上使用触控栏.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [Visual Paradigm](https://www.visual-paradigm.com/) -用于敏捷，EA TOGAF ADM流程管理的多合一UML，SysML，BPMN建模平台.
 * [Woodpecker](http://www.woodpeck.cn)  -在Mac上查看iOS应用的沙盒文件，UserDefaults和钥匙串项目.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/woodpecker/id1333548463）
@@ -218,7 +218,7 @@
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/)  -免费的开源本机Apple OS X应用程序，用于测试HTTP / REST端点.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 * [Insomnia](https://insomnia.rest/)  -最直观的跨平台REST API客户端.  [！[开源软件] [OSS图标]]（https://github.com/getinsomnia/insomnia）！[免费软件] [免费软件图标]
 * [Paw](https://paw.cloud/) -高级HTTP客户端.
-* [Postman](https://www.getpostman.com) -强大的GUI平台，从构建API请求到测试，文档编制和共享，使您的API开发更快，更轻松.！[免费软件] [免费软件图标]
+* [Postman](https://www.getpostman.com) -强大的GUI平台，从构建API请求到测试，文档编制和共享，使您的API开发更快，更轻松.
 * [Katalon Studio](https://www.katalon.com)  -简化API，Web，移动自动化免费测试. 强大的. 跨平台. 来自160个国家/地区的自动化测试人员，带有YouTube频道和GitHub存储库.！[免费软件] [免费软件图标]
 
 #### Network Analysis
@@ -373,7 +373,7 @@
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) -适用于Mac的专业图像编辑软件.
 * [Alchemy](http://al.chemy.org/)  -实验性的开放源代码绘图应用程序，重点在于创建概念艺术.  [！[开源软件] [OSS图标]]（http://svn.al.chemy.org/）
 * [Amadine](https://amadine.com) -矢量绘图应用程序，图形设计师需要的所有内容都包装在整洁而直观的界面中.
-* [Art Text 3](https://www.belightsoft.com/art-text/) -这是图形设计软件，专门针对字体，版式，文本模型和各种艺术文本效果进行了调整.
+* [Art Text 3](https://www.belightsoft.com/art-text/) -这是图形设计软件，专门针对刻字，版式，文本模型和各种艺术文本效果进行了调整.
 * [Blender](https://www.blender.org/)  -免费和开放的3D创建软件.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://developer.blender.org/）
 * [Colorpicker](https://colorpicker.crea-th.at)  -Colorpicker是一个完整的开放源代码色彩处理工具，具有精选功能！  [！[开源软件] [OSS图标]]（https://github.com/toinane/colorpicker）！[免费软件] [免费软件图标]
 * [Figma](https://www.figma.com/)  -协作界面设计工具，用于矢量图形和UI原型设计.  ！[免费软件] [免费软件图标]
@@ -435,7 +435,7 @@
 
 * [CleanShot](https://getcleanshot.com/) -探索捕获Mac屏幕的绝佳方法.
 * [CloudApp](https://www.getcloudapp.com/)  -以视线速度工作.  ！[免费软件] [免费软件图标]
-* [Gifox](https://gifox.io/)  -Gif记录和共享.  [！[App Store] [app-store图标]]（https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744）
+* [Gifox](https://gifox.io/)  -Gif记录和共享.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744）
 * [Kap](https://getkap.co/)  -使用网络技术构建的开源屏幕录像机.  [！[开源软件] [OSS图标]]（https://github.com/wulkano/kap）！[免费软件] [免费软件图标]
 * [KeyCastr](https://github.com/keycastr/keycastr)  -KeyCastr，一个开源的击键可视化工具.  [！[开源软件] [OSS图标]]（https://github.com/keycastr/keycastr）！[免费软件] [免费软件图标]
 * [Kyapchar](https://github.com/vishaltelangre/Kyapchar)  -适用于Mac的简单屏幕和麦克风音频记录器.  [！[开源软件] [OSS图标]]（https://github.com/vishaltelangre/Kyapchar）！[免费软件] [免费软件图标]
@@ -588,7 +588,7 @@
 * [Deluge](https://deluge-torrent.org/)  -Deluge是一个轻量级的免费软件跨平台BitTorrent客户端.  [！[开源软件] [OSS图标]]（https://dev.deluge-torrent.org/wiki/Development）！[免费软件] [免费软件图标]
 * [FOLX](http://mac.eltima.com/download-manager.html)  -具有真正Mac风格界面的Mac OS X免费下载管理器.  ！[免费软件] [免费软件图标]
 * [Free Download Manager](http://www.freedownloadmanager.org/) - Powerful, modern download accelerator and organizer for Windows and Mac. (FREE) ![Freeware][Freeware Icon]
-* [JDownloader](http://jdownloader.org/)  -具有庞大开发人员社区的免费开放源代码下载管理工具，使下载尽可能轻松便捷.  ！[免费软件] [免费软件图标]！[开源软件] [OSS图标]
+* [JDownloader](http://jdownloader.org/)  -具有庞大开发人员社区的免费开放源代码下载管理工具，可让下载尽可能轻松便捷.  ！[免费软件] [免费软件图标]！[开源软件] [OSS图标]
 * [Motrix](https://motrix.app/) -Motrix是功能齐全的下载管理器，支持下载HTTP，FTP，BitTorrent，Magnet，百度网盘等.[！[开源软件] [OSS图标]]（https://github.com/agalwood/ Motrix）！[免费软件] [免费软件图标]
 * [qBittorrent](https://www.qbittorrent.org/)  -一个项目旨在提供替代µTorrent的开源软件.  [！[开源软件] [OSS图标]]（https://github.com/qbittorrent/qBittorrent）！[免费软件] [免费软件图标]
 * [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) -任何链接的简易下载管理器.
@@ -647,7 +647,7 @@
 * [LockDown](https://objective-see.com/products/lockdown.html)  -El Capitan的开源工具，用于审核和修复安全配置设置.  [！[开源软件] [OSS图标]]（https://bitbucket.org/objective-see/lockdown）！[免费软件] [免费软件图标]
 * [LuLu](https://objective-see.com/products/lulu.html)  -是免费的macOS防火墙，旨在阻止未经授权的（传出）网络流量.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
 * [MalwareBytes](https://www.malwarebytes.com/mac-download/)  -Malwarebytes消除了Mac恶意软件不断增长的威胁，因此您受到了保护，计算机保持运行顺畅. 对于Mac而言，网络安全足够智能.  ！[免费软件] [免费软件图标]
-* [OverSight](https://objective-see.com/products/oversight.html) -监视麦克风和网络摄像头，何时激活内部麦克风或进程访问网络摄像头时提醒您.
+* [OverSight](https://objective-see.com/products/oversight.html) -监视麦克风和网络摄像头，何时激活内部麦克风或进程访问网络摄像头时向您发出警报.
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) -通用勒索软件检测.
 * [stronghold](https://github.com/alichtman/stronghold)  -从终端轻松配置MacOS安全设置.  [！[开源软件] [OSS图标]]（https://github.com/alichtman/stronghold）！[免费软件] [免费软件图标]
 * [TaskExplorer](https://objective-see.com/products/taskexplorer.html) -使用TaskExplorer探索Mac上运行的所有进程.
@@ -693,7 +693,7 @@
 * [Dozer](https://github.com/Mortennn/Dozer)  -隐藏MacOS菜单栏项目.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/Mortennn/Dozer）
 * [Eye Timer](https://adelmaer.com/eyetimer)  -休息一下以防止Mac的眼睛疲劳计时器.  [！[App Store] [app-store Icon]]（https://apps.apple.com/us/app/eye-timer/id1485856873）
 * [Hidden](https://github.com/dwarvesf/hidden)  -超轻的MacOS实用程序，可帮助隐藏菜单栏图标.  [！[开源软件] [OSS图标]]（https://github.com/dwarvesf/hidden）！[免费软件] [免费软件图标]
-* [iGlance](https://github.com/Moneypulation/iGlance)  -状态栏的macOS系统监视器.  [！[开源软件] [OSS图标]]（https://github.com/Moneypulation/iGlance）[！[免费软件] [免费软件]]（https://github.com/Moneypulation/iGlance）
+* [iGlance](https://github.com/Moneypulation/iGlance)  -状态栏的macOS系统监视器.  [！[开源软件] [OSS图标]]（https://github.com/Moneypulation/iGlance）[！[免费软件] [免费软件图标]]（https://github.com/Moneypulation/iGlance）
 * [Itsycal](https://www.mowglii.com/itsycal/)  -Mac菜单栏的小日历.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/sfsam/itsycal）
 * [MeetingBar](https://meetingbar.onrender.com) -日历会议的菜单栏应用[！[开源软件] [OSS图标]！[免费软件] [免费软件]]（https://github.com/leits/MeetingBar）
 * [Streaker](https://github.com/jamieweavis/streaker)  -GitHub贡献条纹跟踪菜单栏应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/jamieweavis/streaker）
@@ -718,7 +718,7 @@
 * [HTTrack](http://www.httrack.com)  -用于下载整个网站和脱机浏览的有用工具.  ！[免费软件] [免费软件图标]
 * [Lungo](https://sindresorhus.com/lungo)  -防止Mac进入睡眠状态.  [！[App Store] [app-store Icon]]（https://apps.apple.com/us/app/lungo/id1263070803）
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) -Mac [... [开源软件] [OSS图标]]（https://github.com/kaunteya/MacCacheCleaner）的缓存清理器！[免费] [免费软件]
-* [MacAssistant](https://github.com/vanshg/MacAssistant/releases) -macOS的Google助手[！[开源软件] [OSS图标]]（https://github.com/vanshg/MacAssistant）！[免费软件] [免费软件]
+* [MacAssistant](https://github.com/vanshg/MacAssistant/releases) -适用于macOS [！[开源软件] [OSS图标]]（https://github.com/vanshg/MacAssistant）的Google助手！[免费] [免费软件]
 * [Manta](https://getmanta.app/) - Flexible invoicing desktop app with beautiful & customizable templates. [![Open-Source Software][OSS Icon]](https://github.com/hql287/Manta) ![Freeware][Freeware Icon]
 * [Memo](http://memo-app.net/)  -简单而优雅的应用程序. 使用Touch ID更快地解锁备忘录.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/id1212409035）
 * [Numi](http://numi.io/)  -Mac的美丽计算器应用程序.  ！[免费软件] [免费软件图标]
@@ -745,7 +745,7 @@
 
 #### Productivity
 
-* [1440 Minutes Left Today](https://1440app.com/)  -在选单列中，追踪直到一天结束还剩多少分钟.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/us/app/1440/id1483764819）
+* [1440 Minutes Left Today](https://1440app.com/)  -在选单列中，追踪到一天结束还剩多少分钟.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/us/app/1440/id1483764819）
 * [Alfred](https://www.alfredapp.com/) - Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
 * [BetterTouchTool](https://boastr.net)  -强大的功能强大的应用程序，可让您为Magic Mouse，Macbook Trackpad，Magic Trackpad以及普通鼠标的Mouse Gestures配置许多手势.  ！[免费软件] [免费软件图标]
 * [Choosy](https://www.choosyosx.com) -UI，URL API和浏览器扩展集，用于管理在何处以及如何打开链接的规则.
@@ -754,7 +754,7 @@
 * [HazeOver](https://hazeover.com) 该应用可使您的后台应用窗口变暗，这样您就可以将更多精力放在主要任务上！  [！[App Store] [app-store Icon]]（https://apps.apple.com/ph/app/hazeover-distraction-dimmer/id430798174?mt=12）
 * [Hungrymark](https://zhengying.github.io/hungrymark) -有用的应用程序，可为您的文件，文件夹和网站添加书签，可通过菜单栏[！[App Store] [app-store图标]]快速访问您的书签（https://apps.apple.com/us/app/hungrymark/ id1482778901？l = zh-TW＆mt = 12）
 * [iCMD](https://icmd.app) -模糊菜单栏搜索和vim / easymotion仿真，可在每个本地MacOS应用程序中全局使用.
-* [Karabiner](https://pqrs.org/osx/karabiner/) -适用于OS X的强大而稳定的键盘定制程序.[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/tekezo/Karabiner）
+* [Karabiner](https://pqrs.org/osx/karabiner/) -OS X强大而稳定的键盘定制程序.[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/tekezo/Karabiner）
 * [Keyboard Maestro](http://www.keyboardmaestro.com) -根据来自键盘，菜单，位置，添加的设备等的触发器自动执行常规操作.
 * [Keytty](http://keytty.com)  -保持双手在键盘上的应用程序. 轻击几下即可移动，单击，滚动，拖动等等.
 * [Lazy](https://www.lazy-app.com/) -键盘驱动命令可直接从Mac管理周围环境.
@@ -819,7 +819,7 @@
 * [f.lux](https://justgetflux.com/)  -使计算机显示屏的颜色适应一天中的时间.  ！[免费软件] [免费软件图标]
 * [Grayscale Mode](https://grayscalemode.com/)  -开源macOS应用程序，可让您从菜单栏或使用键盘快捷键（⌥⌘G）快速切换灰度滤镜.  [！[开源软件] [OSS图标]]（https://github.com/rkbhochalya/grayscale-mode）！[免费软件] [免费软件图标]
 * [KeyCastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
-* [NightOwl](https://nightowl.kramser.xyz/)  -通过一天中的时间或使用菜单栏或键盘快捷键自动在macOS Mojave的亮和暗主题之间切换.  ！[免费软件] [免费软件图标]
+* [NightOwl](https://nightowl.kramser.xyz/)  -通过一天中的时间或使用菜单栏或键盘快捷键自动在macOS Mojave的浅色和深色主题之间切换.  ！[免费软件] [免费软件图标]
 * [One Switch](https://fireball.studio/oneswitch) -Mac菜单栏应用程序，可向Mac的菜单栏添加各种开关.
 * [Shifty](http://shifty.natethompson.io)  -macOS菜单栏应用程序，可让您更好地控制Night Shift.  [！[开源软件] [OSS图标]]（https://github.com/thompsonate/Shifty）
 * [Snap](http://indragie.com/snap)  -快速启动应用程序. 轻松快捷的管理.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/id418073146）

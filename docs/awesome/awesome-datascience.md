@@ -134,6 +134,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Codecademy's Data Science](https://www.codecademy.com/learn/paths/data-science)
 - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) -Gilbert Strang的线性代数课程
 - [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+- [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
 
 ## Tutorials
 
@@ -208,7 +209,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Optimus](https://github.com/ironmussa/Optimus)  | 带有PySpark后端的清理，预处理，功能工程，探索性数据分析和简易ML.  |
 | [Albumentations](https://github.com/albu/albumentations)  | 快速且与框架无关的图像增强库，可实现多种增强技术. 支持分类，细分，开箱即用的检测. 曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.  |
 | [DVC](https://github.com/iterative/dvc)  | 开源数据科学版本控制系统. 它有助于跟踪，组织和使数据科学项目可重复. 在最基本的情况下，它有助于版本控制以及共享大数据和模型文件.  |
-| [Lambdo](https://github.com/asavinov/lambdo)  | 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.  |
+| [Lambdo](https://github.com/asavinov/lambdo)  | 是一种工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.  |
 | [Feast](https://github.com/feast-dev/feast)  | 用于管理，发现和访问机器学习功能的功能存储.  Feast可为模型训练和模型服务提供一致的特征数据视图.  |
 | [Polyaxon](https://github.com/polyaxon/polyaxon)  | 可重现和可扩展的机器学习和深度学习的平台.  |
 | [LightTag](https://lighttag.io)  | 团队文字注释工具|

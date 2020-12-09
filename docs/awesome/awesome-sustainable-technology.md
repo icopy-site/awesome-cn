@@ -10,6 +10,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 
 <!--lint ignore double-link-->
 您的贡献对于保持此列表的有效性，提高质量和扩大范围至关重要. 您可以详细了解其起源以及如何参与 [contribution guide](https://github.com/protontypes/awesome-sustainable-technology/blob/master/CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) 和相关 [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/) . 请 [contact us](https://protontypes.eu/contact/) 提供反馈，提示和想法 [OpenSustain.tech](https://opensustain.tech/) 或在GitHub上创建问题.
+要探索开放式可持续技术社区，请查看我们的清单 [here](https://github.com/protontypes/awesome-sustainable-technology/blob/master/docs/COMMUNITIES.md).
 
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/protontypes)
 
@@ -31,11 +32,11 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [rdtools](https://github.com/NREL/rdtools) -是一个开放源代码库，用于支持对光伏能源系统中的时间序列数据进行可重复的技术分析.
 - [Machine-Learning-for-Solar-Energy-Prediction](https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction) -使用机器学习根据天气测量结果预测太阳能电池板农场的发电量.
 - [elpv-dataset](https://github.com/zae-bayern/elpv-dataset) -从太阳能模块的EL图像中提取的功能和有缺陷的太阳能电池的数据集.
-- [feedinlib](https://github.com/oemof/feedinlib) - Contains implementations of photovoltaic models to calculate electricity generation from a pv installation based on given solar radiation. Furthermore it contains all necessary pre-calculations.
+- [feedinlib](https://github.com/oemof/feedinlib)  -包含光伏模型的实现，以基于给定的太阳辐射来计算光伏设备的发电量. 此外，它包含所有必要的预先计算.
 - [photovoltaic](https://github.com/pvedu/photovoltaic) -光伏中使用的python函数库.
 - [pvcaptest](https://github.com/pvcaptest/pvcaptest) -收集功能和jupyter笔记本，以部分自动化根据ASTM E2848进行的容量测试.
 - [pvtrace](https://github.com/danieljfarrell/pvtrace) -用于发光材料和光谱转换器光伏设备的光线追踪.
-- [SolarPILOT](https://github.com/NREL/SolarPILOT) -太阳能塔的布局和优化工具.
+- [SolarPILOT](https://github.com/NREL/SolarPILOT) - Solar power tower layout and optimization tool.
 - [solar-data-tools](https://github.com/slacgismo/solar-data-tools) -一些用于处理历史光伏太阳能时间序列数据集的数据分析工具.
 - [SolarPV-DER-simulation-utility](https://github.com/sibyjackgrove/SolarPV-DER-simulation-utility) -允许用户对连接到刚性电压源或外部程序的太阳能光伏分布式能源进行动力学仿真.
 - [bifacial_radiance](https://github.com/NREL/bifacial_radiance) -与RADIANCE一起进行双面光伏射线迹线建模的工具包.
@@ -54,11 +55,12 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [solariot](https://github.com/meltaxa/solariot) -利用支持IoT的Solar PV Inverter将您的太阳能使用数据流式传输到实时仪表板.
 - [pvanalytics](https://github.com/pvlib/pvanalytics) -质量控制，过滤，特征标记和其他工具，可用于处理来自光伏能源系统的数据.
 - [IonMonger](https://github.com/PerovskiteSCModelling/IonMonger) -一种自由，快速的钙钛矿太阳能电池模拟器，在一维中具有耦合的离子空位和载流子动力学.
-- [rayflare](https://github.com/qpv-research-group/rayflare) -提供灵活，易于使用的Python环境，以复杂的光学堆栈为模型，重点放在太阳能电池上.
-- [pv-terms](https://github.com/DuraMAT/pv-terms) - Contains nomenclature for PV-relevant terms that are used in modeling and data analysis for PV systems.
+- [rayflare](https://github.com/qpv-research-group/rayflare) - Provide a flexible, user-friendly Python environment to model complex optical stacks, with a focus on solar cells.
+- [pv-terms](https://github.com/DuraMAT/pv-terms) -包含与PV相关的术语的命名法，这些术语在PV系统的建模和数据分析中使用.
 - [StatisticalClearSky](https://github.com/slacgismo/StatisticalClearSky) -根据光伏系统功率数据对晴朗天空信号进行统计估计.
 - [Photovoltaic_Fault_Detector](https://github.com/RentadroneCL/Photovoltaic_Fault_Detector) -模型定义是用于光伏电站故障检测的深度学习应用程序.
 - [nasapower](https://github.com/ropensci/nasapower) -旨在使R会话中的NASA-POWER全球气象，地表太阳能和气候数据的下载自动化，成为一个整洁的数据框小对象，以供分析和用于建模或其他目的.
+- [pvcompare](https://github.com/greco-project/pvcompare) -pvcompare是一个模型，用于比较不同能源供应场景中指定本地能源系统中不同光伏技术的优势.
 
 
 ### Wind Turbines
@@ -87,8 +89,10 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [AirfoilPreppy](https://github.com/WISDEM/AirfoilPreppy) -一个Python模块，用于预处理和评估气动翼型数据，主要用于风力涡轮机应用.
 - [GreenGuard](https://github.com/signals-dev/GreenGuard) -收集了在监控风能生产系统中常见的机器学习问题的端到端解决方案.
 - [pyconturb](https://gitlab.windenergy.dtu.dk/pyconturb/pyconturb) -用于风能应用的受限随机湍流.
-- [ORBIT](https://github.com/WISDEM/ORBIT) - Offshore Renewable Balance-of-system Installation Tool computes capital costs and activity times for offshore wind plant balance-of-system (everything besides the turbine) costs.
+- [ORBIT](https://github.com/WISDEM/ORBIT) -海上可再生能源系统平衡安装工具可计算出海上风电厂系统平衡成本（除涡轮机以外的所有成本）的资本成本和活动时间.
 - [WindTurbineClassification](https://github.com/nmstreethran/WindTurbineClassification) -用于快速异常检测的“正常”风力涡轮机运行行为规范.
+- [ANYstructure](https://github.com/audunarn/ANYstructure) -具有自动优化和报告生成功能的海上钢结构计算工具.
+
 
 ### Hydro Energy
 
@@ -116,7 +120,6 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [biogas](https://github.com/sashahafner/biogas) -R中沼气研究工具：处理沼气数据并预测沼气产量.
 - [biosteam](https://github.com/BioSTEAMDevelopmentGroup/biosteam) -生物精炼厂模拟和技术经济分析模块.
 - [Multiscale_Ulva](https://github.com/alexliberzonlab/Multiscale_Ulva) -是一个多反应器，藻类场，模拟基础功能，将及时解决.
-- [BioSTEAM_LCA](https://github.com/scyjth/biosteam_lca) -敏捷的生命周期评估（LCA）平台，可以快速，灵活地评估不确定条件下生物炼油厂的生命周期对环境的影响.
 
 
 ## Energy Storage
@@ -129,7 +132,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [ENNOID-BMS](https://github.com/EnnoidMe/ENNOID-BMS) -开源：基于LTC68XX和STM32 MCU的模块化BMS，适用于最高400V EV电池组.
 - [cellpy](https://github.com/jepegit/cellpy) -从电池的电化学测试中提取和调整数据.
 - [prediction-of-battery-cycle](https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation) -容量降低之前，数据驱动的电池循环寿命预测.
-- [BatterySense](https://github.com/rlogiacco/BatterySense) -这是一个简单的Arduino库，用于监视电池供电项目（LiPo，LiIon，NiCd或任何其他电池类型，单个或多个电池）的电池消耗：如果可以为Arduino供电，则可以对其进行监控.
+- [BatterySense](https://github.com/rlogiacco/BatterySense) - This is a simple Arduino library to monitor battery consumption of your battery powered projects, being LiPo, LiIon, NiCd or any other battery type, single or multiple cells: if it can power your Arduino you can monitor it.
 - [beep](https://github.com/TRI-AMDD/beep) -一组工具，用于支持d3batt计划和丰田研究院的研究，以支持电池评估和循环寿命的早期预测.
 - [snl-quest](https://github.com/snl-quest/snl-quest) -Sandia国家实验室开发的基于Python的开源软件应用程序套件，用于能量存储模拟和分析.
 - [simses](https://gitlab.lrz.de/open-ees-ses/simses) -用于固定式储能系统的技术经济模拟的软件.
@@ -170,7 +173,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [pypownet](https://github.com/MarvinLer/pypownet) -具有以强化学习为重点的用法的电力网络模拟器.
 - [Grid2Op](https://github.com/rte-france/Grid2Op) -一个用于模拟电力系统中顺序决策的测试平台.
 - [eDisGo](https://github.com/openego/eDisGo/) -优化基于PyPSA的配电网的灵活性选项和电网扩展.
-- [offgridders](https://github.com/rl-institut/offgridders) - Models and optimizes capacity & dispatch of electricity supply systems, off-grid or connected to a (weak) central grid.
+- [offgridders](https://github.com/rl-institut/offgridders) -对离网或连接到（弱）中央电网的供电系统的容量和调度进行建模和优化.
 - [RTS-GMLC](https://github.com/GridMod/RTS-GMLC) -电网现代化实验室联盟的可靠性测试系统.
 - [openmodelica-microgrid-gym](https://github.com/upb-lea/openmodelica-microgrid-gym) -适用于微电网的OpenAI体育馆环境.
 - [OpenDSS](https://sourceforge.net/projects/electricdss/) -配电系统仿真器，用于支持分布式资源集成和电网现代化.
@@ -187,7 +190,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 
 ### Buildings and Cities
 
-- [hpxml](https://github.com/hpxmlwg/hpxml) - Home Performance XML is a data transfer standard for the home performance industry.
+- [hpxml](https://github.com/hpxmlwg/hpxml) -家庭绩效XML是家庭绩效行业的数据传输标准.
 - [HPXML to Home Energy Score Translator](https://github.com/NREL/hescore-hpxml) -此翻译器脚本将HPXML文件或文件目录作为输入，并从中生成HEScore输入.
 - [LoadProfileGenerator](https://github.com/FZJ-IEK3-VSA/LoadProfileGenerator)  -用于为居民用户生成负载曲线的程序. 基于Agent且极其详细.
 - [The-building-data-genome-project](https://github.com/buds-lab/the-building-data-genome-project) -用于性能分析和算法基准测试的非住宅建筑物的集合.
@@ -226,12 +229,13 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [BESOS](https://gitlab.com/energyincities/besos) -用于建筑物和城市能源系统的仿真和优化的模块集合.
 - [pythermalcomfort](https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort) -用于计算多个热舒适指数（例如PMV，PPD，SET，自适应）并转换物理变量的软件包.
 - [comfort_tool](https://github.com/CenterForTheBuiltEnvironment/comfort_tool) -根据ASHRAE Standard-55，EN Standard 16798和ISO Standard 7730进行舒适性模型计算和可视化的Web界面.
+- [resstock](https://github.com/NREL/resstock) - Helping states, municipalities, utilities, and manufacturers identify which building stock improvements save the most energy and money.
 
 
 ### Mobility and Transportation
 
 - [stplanr](https://github.com/ropensci/stplanr) -使用R进行可持续交通规划的软件包.
-- [CO2MPAS-TA](https://github.com/JRCSTU/CO2MPAS-TA) - CO2MPAS is backward-looking longitudinal-dynamics CO2 and fuel-consumption simulator for light-duty vehicles.
+- [CO2MPAS-TA](https://github.com/JRCSTU/CO2MPAS-TA) -CO2MPAS是用于轻型车辆的前瞻性纵向动力学CO2和燃油消耗模拟器.
 - [wltp](https://github.com/JRCSTU/wltp) -根据车辆特性生成WLTC换档.
 - [The Open Charge Point Protocol](https://github.com/NewMotion/ocpp) -用于电动汽车充电器与中央后台系统之间通信的网络协议.
 - [ocpp](https://github.com/mobilityhouse/ocpp) -开放收费点协议的Python实现.
@@ -239,7 +243,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [MaaS Global](https://github.com/maasglobal/maas-schemas) -移动即服务API-数据模型，测试和验证.
 - [CoopCycle](https://github.com/coopcycle/coopcycle-web) -一个自助平台，可在您附近订购餐点，并由自行车快递员送餐.
 - [EVNotify](https://github.com/EVNotify/EVNotify) -允许您监视电动车辆，并在达到指定的预设充电状态时通知您.
-- [icare](https://github.com/diowa/icare) -一个开源拼车平台，用作我们商业产品公司拼车的基础.
+- [icare](https://github.com/diowa/icare) - An open source carpooling platform used as a basis for our commercial product Company Carpool.
 - [Carpoolear](https://github.com/STS-Rosario/carpoolear) -是第一个允许该社交网络用户与其他用户共享汽车旅行的阿根廷Facebook应用.
 - [UTD19](https://utd19.ethz.ch/) -公开提供最大的多城市交通数据集.
 - [OpenEVSE](https://github.com/lincomatic/open_evse) -OpenEVSE的固件：开源硬件J1772电动汽车供应设备.
@@ -285,7 +289,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [PCT](https://github.com/ITSLeeds/pct/) -目标是增加“自行车寿命倾向工具”（PCT）生成的数据的可访问性和可重复性.
 - [goat](https://github.com/goat-community/goat) -能够模拟步行和骑自行车的辅助功能.
 - [gtfs-router](https://github.com/ATFutures/gtfs-router) -R包，用于通过GTFS（通用运输提要规范）数据进行路由.
-- [CityFlow](https://github.com/cityflow-project/CityFlow/) - A Multi-Agent Reinforcement Learning Environment for Large Scale City Traffic Scenario.
+- [CityFlow](https://github.com/cityflow-project/CityFlow/) -大型城市交通场景的多智能体强化学习环境.
 - [Complete_Street_Rule](https://github.com/d-wasserman/Complete_Street_Rule) -面向ArcGIS CityEngine场景的设计工具，旨在使用户能够快速创建程序生成的多峰街道.
 
 
@@ -305,13 +309,13 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [GCAM](https://github.com/JGCRI/gcam-core) -是一种动态递归模型，具有与经济，能源部门，土地使用和水相关的技术含量高的表示形式，与气候模型相关联，可用于探索缓解气候变化的政策，包括碳税，碳交易，法规和加速部署能源技术.
 - [System Advisor Model](https://github.com/NREL/SAM)  -发电项目的模拟程序. 它具有用于各种可再生能源系统的模型以及用于住宅，商业和公用事业规模项目的财务模型.
 - [openTEPES](https://github.com/IIT-EnergySystemModels/openTEPES) -确定新设施（发电机，ESS和生产线）的投资计划，以最低的成本满足预测的需求.
-- [PowerGenome](https://github.com/gschivley/PowerGenome) - A tool to quickly and easily create inputs for power systems models.
+- [PowerGenome](https://github.com/gschivley/PowerGenome) -一种快速轻松地为电力系统模型创建输入的工具.
 - [load_forecasting](https://github.com/pyaf/load_forecasting) -使用ARIMA，RNN，LSTM和GRU模型对德里地区的电力负荷进行负荷预测.
 - [REopt_Lite_API](https://github.com/NREL/REopt_Lite_API)  -提供了NREL更全面的REopt模型的功能子集. 两种模型均提供并发的多种技术集成和优化功能，以帮助组织实现节省成本和实现能源绩效的目标.
 - [pandapower](http://www.pandapower.org/) -易于使用的开源工具，可高度自动化地用于电力系统建模，分析和优化.
 - [urbs](https://github.com/tum-ens/urbs) -分布式能源系统的线性优化模型.
 - [Dispa-SET](https://github.com/energy-modelling-toolkit/Dispa-SET) -可以在任何详细级别（例如微电网，区域，国家/地区，大陆）对电力系统进行建模.
-- [Calliope](https://github.com/calliope-project/calliope) -开发能源系统模型的框架，重点是灵活性，高空间和时间分辨率，基于同一基本模型执行多次运行的能力以及框架和模型的明确分离.
+- [Calliope](https://github.com/calliope-project/calliope) - A framework to develop energy system models, with a focus on flexibility, high spatial and temporal resolution, the ability to execute many runs based on the same base model, and a clear separation of framework  and model.
 - [Euro-Calliope](https://github.com/calliope-project/euro-calliope) -使用Calliope建立的欧洲电力系统模型.
 - [OSeMOSYS](https://github.com/OSeMOSYS/OSeMOSYS)  -用于长期综合评估和能源计划的开源建模系统. 它已被用来开发从大洲（非洲电力池，南美，EU28 + 2）到国家，地区和村庄的规模的能源系统模型.
 - [REVUB](https://github.com/VUB-HYDR/REVUB) -主要目标是模拟水力发电厂的灵活运营如何帮助将可再生电力与可变太阳能和风能混合使用，以提供可靠的电力供应和负荷跟踪服务.
@@ -321,11 +325,11 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [PowerSystems.jl](https://github.com/NREL-SIIP/PowerSystems.jl) -使用Julia结构提供严格的数据模型，以进行电力系统分析和建模.
 - [Balmorel](https://github.com/balmorelcommunity/Balmorel) -从国际角度分析电力，热电联产的局部均衡模型.
 - [DistAIX](https://git.rwth-aachen.de/acs/public/simulation/DistAIXFramework/distaix) -用于网络物理电力系统的模拟器，该模拟器利用高性能计算技术来扩大仿真规模.
-- [The Open Energy Ontology](https://github.com/OpenEnergyPlatform/ontology) -能源系统建模上下文的领域本体.
+- [The Open Energy Ontology](https://github.com/OpenEnergyPlatform/ontology) - A domain ontology of the energy-system modelling context.
 - [nempy](https://github.com/UNSW-CEEM/nempy) -旨在增强澳大利亚电力行业的建模和分析能力.
 - [NEMO](https://github.com/bje-/NEMO) -国家电力市场优化器是一种按时间顺序调度的模型，用于测试和优化常规和可再生发电技术的不同组合.
 - [GlobalEnergyGIS](https://github.com/niclasmattsson/GlobalEnergyGIS) -使用公共​​数据集为任意世界区域中可再生能源的能源模型生成输入数据.
-- [IDEAS](https://github.com/open-ideas/IDEAS) - Modelica library allowing simultaneous transient simulation of thermal and electrical systems at both building and feeder level.
+- [IDEAS](https://github.com/open-ideas/IDEAS) -Modelica库允许在建筑物和支线级同时对热和电气系统进行瞬态仿真.
 - [Antares Simulator](https://github.com/AntaresSimulatorTeam/Antares_Simulator) -是一个开源的电力系统模拟器，用于在短时间或远程时间范围内量化互连能源系统的充分性或经济性能.
 - [Hierarchical Engine for Large-scale Infrastructure Co-Simulation](https://github.com/GMLC-TDC/HELICS) -如今，核心用途是在能源领域，在该领域中，对广泛的电力系统，天然气，通信和控制方案，运输，建筑物以及相关领域工具的支持日益广泛.
 - [oemof-solph](https://github.com/oemof/oemof-solph) -用于能源系统建模和优化的模型生成器.
@@ -334,7 +338,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [VILLASnode](https://git.rwth-aachen.de/acs/public/villas/node) -连接实时电网仿真设备.
 - [openENTRANCE](https://github.com/openENTRANCE/nomenclature) -Horizo​​n 2020 openENTRANCE项目旨在开发，使用和传播一个开放，透明和集成的建模平台，以评估欧洲的低碳转型路径.
 - [Joulia.jl](https://github.com/JuliaEnergy/Joulia.jl) -朱莉娅的大型空间动力系统模型.
-- [The IDAES Toolkit](https://github.com/IDAES/idaes-pse) -旨在提供基于仿真的多尺度开源计算工具和模型，以支持创新高级能源系统的设计，分析，优化，放大，操作和故障排除.
+- [The IDAES Toolkit](https://github.com/IDAES/idaes-pse) -旨在提供基于仿真的多尺度开源计算工具和模型，以支持创新，先进的能源系统的设计，分析，优化，放大，操作和故障排除.
 - [Temoa](https://github.com/TemoaProject/temoa) -能源模型优化和分析工具（Temoa）是用于进行能源系统分析的开源建模框架.
 - [PowerSystemDataModel](https://github.com/ie3-institute/PowerSystemDataModel) -提供了广泛的数据模型，能够以高粒度对能源系统进行建模，例如用于自下而上的模拟.
 - [PyPSA-Eur-Sec](https://github.com/PyPSA/pypsa-eur-sec) -欧洲能源系统的部门耦合开放优化模型.
@@ -349,7 +353,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 
 - [Open Energy Platform](https://github.com/OpenEnergyPlatform/oeplatform)  -旨在确保能源系统研究的质量，透明度和可重复性. 它是各种工具和信息的集合，有助于处理与能源相关的数据.
 - [PyPSA](https://github.com/PyPSA/PyPSA) -一个免费的软件工具箱，用于模拟和优化现代电力系统，其中包括一些功能，例如具有机组承诺的常规发电机，风力和太阳能发电量可变，存储单元，与其他能源部门的耦合以及交流和直流混合网络.
-- [oemof](https://github.com/oemof/oemof)  -开放式能源建模框架-用于能源系统建模和优化的python工具箱. 一个社区驱动的，模块化，灵活且通用的软件项目.
+- [oemof](https://github.com/oemof/oemof)  -开放式能源建模框架-用于能源系统建模和优化的python工具箱. 社区驱动，模块化，灵活和通用的软件项目.
 - [pyGRETA](https://github.com/tum-ens/pyGRETA) -可再生时间序列和mAps的Python生成器：一种工具，可为全球用户定义的区域生成高分辨率的潜在地图和时间序列.
 - [RESKit](https://github.com/FZJ-IEK3-VSA/RESKit) -用于帮助生成可再生能源发电时间序列以进行能源系统分析的工具包.
 - [PowSyBl](https://github.com/powsybl/powsybl-core) -用Java编写的开放源代码框架，可以轻松编写用于电力系统仿真和分析的复杂软件.
@@ -372,7 +376,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [onsset](https://github.com/OnSSET/onsset) -已开发出基于GIS的优化工具，以支持电气化规划和决策，以实现当前未服务位置的能源获取目标.
 - [whobs-server](https://github.com/PyPSA/whobs-server) -这是用于通过风能，太阳能和储能（使用电池和电解氢气）对零直接排放电力系统进行在线优化的代码，可根据您选择的成本和其他假设提供基本负荷的电力需求.
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) -用于需求响应和负载整形的官方强化学习环境.
-- [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) - Reinforcement Learning Testbed for Power Consumption Optimization using EnergyPlus.
+- [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) -使用EnergyPlus进行功耗优化的强化学习测试平台.
 - [tsam](https://github.com/FZJ-IEK3-VSA/tsam) -一个python包，它使用不同的机器学习算法来汇总时间序列.
 
 ### Monitoring and Control
@@ -403,12 +407,13 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [EIA](https://github.com/ropensci/eia) -包装美国能源信息管理局开放数据API的R软件包.
 - [atlite](https://github.com/PyPSA/atlite) -轻巧的Aarhus RE Atlas版本，用于将天气数据转换为电力系统数据.
 - [NYISOToolkit](https://github.com/m4rz910/NYISOToolkit) -来自纽约独立系统运营商的一组模块，用于访问电力系统数据，生成统计信息并创建可视化.
-- [Photovoltaic time series for European countries](https://zenodo.org/record/2613651#.XRtJRP7Rapo) -包含38年的小时时间序列，代表每个欧洲国家（EU-28加上塞尔维亚，波斯尼亚和黑塞哥维那，挪威和瑞士）的光伏容量因子.
-- [SolarData](https://github.com/dazhiyang/SolarData) - Download and manipulate some publicly available solar datasets.
+- [Photovoltaic time series for European countries](https://zenodo.org/record/2613651#.XRtJRP7Rapo) -包含代表每个欧洲国家（EU-28加上塞尔维亚，波斯尼亚和黑塞哥维那，挪威和瑞士）的光伏容量因子的长达38年的每小时时间序列.
+- [SolarData](https://github.com/dazhiyang/SolarData) -下载并处理一些公开可用的太阳能数据集.
 - [UKgrid](https://github.com/RamiKrispin/UKgrid) -R数据包，其中包含2005年4月至2019年10月之间英国国家电网的电力历史需求.
 - [USgrid](https://github.com/RamiKrispin/USgrid) -美国每小时的电力需求和供应.
 - [ESIOS](https://github.com/SanPen/ESIOS) -全面的库，可使用Python访问西班牙电力市场实体.
 - [energy-data](https://github.com/owid/energy-data) -有关全球能源消耗（一次能源，人均和增长率），能源结构，电力结构和其他相关指标的数据.
+- [OpenEI](https://openei.org) -一个知识共享的在线社区，致力于将人们与世界各地能源资源的最新信息和数据联系起来.
 
 
 ## Emissions and Footprint of Resources
@@ -418,7 +423,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [impact](https://github.com/mlco2/impact/) -使用我们的计算器计算ML模型的排放量，并使用我们生成的乳胶模板将结果添加到您的论文中.
 - [carbon footprint](https://github.com/protea-earth/carbon_footprint) -使用命令行界面轻松计算您的碳足迹.
 - [CarbonFootprintEGU](https://github.com/milankl/CarbonFootprintEGU) -2019年欧洲地球科学联盟大会的旅行碳足迹.
-- [Bloom](https://github.com/tmrowco/northapp-contrib)  -一种SaaS，可让公司成为气候领导者，从计算其对气候的影响到就其气候工作进行交流. 它可以连接到尽可能多的数据源，以评估您的碳足迹并找到缓解的机会.
+- [Bloom](https://github.com/tmrowco/northapp-contrib)  -一种SaaS，可让公司成为气候领导者，从计算其对气候的影响到传达有关其气候努力的信息. 它可以连接到尽可能多的数据源，以评估您的碳足迹并找到缓解的机会.
 - [NMF.earth app](https://github.com/NMF-earth/nmf-app) -了解并减少iOS和Android的碳足迹.
 - [EnergyPATHWAYS](https://github.com/energyPATHWAYS/EnergyPATHWAYS) -Model是一种专业的开源能源和碳计划工具，可用于评估长期的，经济范围内的温室气体减排方案.
 - [CarbonFootprint](https://gitlab.com/aossie/CarbonFootprint) -浏览器扩展程序，可在多个地图服务中显示碳足迹信息.
@@ -462,11 +467,18 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 
 ### Life Cycle Assessment
 
+- [exiobase](https://www.exiobase.eu/) -全球详细的多区域环境扩展供应使用表（MR-SUT）和投入产出表（MR-IOT）.
 - [bonsai](https://github.com/BONSAMURAIS/bonsai) -BONSAI的目标是随时随地免费提供可靠的，公正的产品“产品足迹”可持续性信息，以支持产品比较和决策.
 - [brightway2](https://github.com/brightway-lca/brightway2) -生命周期评估的开源框架.
 - [carculator](https://github.com/romainsacchi/carculator) -对车辆进行快速的前瞻性环境和经济生命周期评估.
 - [Electricity Life Cycle Inventory](https://github.com/USEPA/ElectricityLCI) -一个python软件包，使用标准化的设施发布和发电数据来创建区域化的生命周期清单（LCI）模型，以用于美国的发电，混合发电，消耗混合以及向最终用户分配电能，并具有嵌入式系统进程上游燃料生产和基础设施.
 - [uslci-content](https://github.com/uslci-admin/uslci-content) -美国生命周期清单数据库的补充内容.
+- [OpenLCA](https://github.com/GreenDelta/olca-app) -可持续性和生命周期评估的开源和免费软件.
+- [openlca-python-tutorial](https://github.com/GreenDelta/openlca-python-tutorial) -解释了Python中openLCA API的用法.
+- [Global LCA Data Access Network](https://www.globallcadataaccess.org/) -收集生命周期数据集提供者和其他利益相关者，他们的共同目标是通过增强，可互操作的全球访问LCA数据集来改善与可持续性相关的决策.
+- [BioSTEAM_LCA](https://github.com/scyjth/biosteam_lca) -敏捷的生命周期评估（LCA）平台，可以快速，灵活地评估不确定条件下生物炼油厂的生命周期对环境的影响.
+- [lca_algebraic](https://github.com/oie-mines-paristech/lca_algebraic) -Brightway2上方的一小层，旨在通过快速计算LCA影响来定义参数清单，适用于蒙特卡洛分析.
+- [Federal LCA Commons](https://www.lcacommons.gov/) -访问用于生命周期评估的数据存储库集合的中心点.
 
 
 ## Observation and Models of Ecosystems
@@ -479,7 +491,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [fgeo.biomass](https://github.com/forestgeo/fgeo.biomass) -从allodb软件包和ForestGEO数据中使用异速方程来计算生物量.
 - [BIOMASS](https://github.com/umr-amap/BIOMASS) -R包，用于估计热带森林中地上生物量及其不确定性.
 - [forest](https://github.com/MetOffice/forest) -预测观察研究和评估调查工具.
-- [SEPAL](https://github.com/openforis/sepal) -用于土地监测的地球观测数据访问，处理和分析系统.
+- [SEPAL](https://github.com/openforis/sepal) - System for Earth Observation Data Access, Processing and Analysis for Land Monitoring.
 - [Forest Carbon database](https://github.com/forc-db/ForC) -全球森林碳数据库.
 - [TreeLS](https://github.com/tiagodc/TreeLS) -高性能R函数，用于基于陆地激光扫描（但不仅限于）点云的森林数据处理.
 - [TreeQSM](https://github.com/InverseTampere/TreeQSM) -来自激光扫描仪数据的单棵树的定量结构模型.
@@ -492,7 +504,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [rgbif](https://github.com/ropensci/rgbif) -与全球生物多样性信息设施API的接口.
 - [Global Biotic Interactions](https://github.com/globalbioticinteractions/globalbioticinteractions) -全球生物相互作用提供对现有物种相互作用数据集的访问.
 - [lidR](https://github.com/Jean-Romain/lidR) -用于林业应用的机载LiDAR数据操纵和可视化的R包.
-- [Digital Forestry Toolbox](https://github.com/mparkan/Digital-Forestry-Toolbox) -Matlab / Octave的数字林业工具集合.
+- [Digital Forestry Toolbox](https://github.com/mparkan/Digital-Forestry-Toolbox) - A collection of digital forestry tools for Matlab/Octave.
 - [pyfor](https://github.com/brycefrank/pyfor) -用于分析森林数据的空中点云的工具.
 - [DeepForest](https://github.com/weecology/DeepForest) -用于机载RGB图像中树冠检测的Python软件包.
 - [pyMETRIC](https://github.com/WSWUP/pymetric) -利用Landsat影像档案库开发的一套基于Python的工具，用于估算和映射大面积的蒸散量.
@@ -512,7 +524,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [forestmangr](https://github.com/sollano/forestmangr) -用于森林测量和管理的R软件包.
 - [CART](https://github.com/jneme910/CART) -保护评估排名工具（CART）设计用于保护规划过程中，以评估资源问题，计划的实践和站点脆弱性.
 - [forest-prediction](https://github.com/DS3Lab/forest-prediction) -深度学习，用于卫星图像中的森林砍伐分类和预测.
-- [BIRDS](https://github.com/Greensway/BIRDS) -已开发出这套工具，用于将生物多样性数据审查系统化，以便评估一套物种观测是否适合使用，并有助于在进一步分析时决定使用哪种物种.
+- [BIRDS](https://github.com/Greensway/BIRDS) -已开发出这套工具，用于系统化生物多样性数据审查，以便评估一套物种观测是否适合使用，并有助于在进一步分析时决定使用哪种物种.
 - [PlantCV](https://github.com/danforthcenter/plantcv) -使用计算机视觉进行植物表型分析.
 - [FATES](https://github.com/NGEET/fates) -植被竞争和共存的队列模型，可以代表生物圈，代表将陆地表面划分为连续的阶段.
 - [forestatrisk](https://github.com/ghislainv/forestatrisk) -Python软件包，用于建模和预测森林砍伐的风险.
@@ -522,7 +534,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [spocc](https://github.com/ropensci/spocc) -一个R包，用于从许多来源查询和收集物种发生数据.
 - [VIAME](https://github.com/VIAME/VIAME) -专为自己动手的人工智能而设计的计算机视觉应用程序，包括对象检测，对象跟踪，图像/视频注释，图像/视频搜索，图像镶嵌，立体测量，快速模型生成以及用于评估不同算法的工具.
 - [ecodata](https://github.com/NOAA-EDAB/ecodata) -用于报告东北大陆架生态系统状况和趋势的数据包.
-- [CODED](https://github.com/bullocke/coded) -开发了一种算法，可使用Landsat数据监视低强度森林干扰.
+- [CODED](https://github.com/bullocke/coded) - An algorithm developed to monitor for low-magnitude forest disturbances using Landsat data.
 - [OpenPlantPathology](https://github.com/openplantpathology/OpenPlantPathology) -开放植物病理学是一项倡议，旨在支持和促进植物病理学领域所有开放，透明和可复制的实践的传播.
 - [palmerpenguins](https://github.com/allisonhorst/palmerpenguins/) -Palmerpenguins数据包含在南极洲Palmer群岛的三个岛上观察到的三个企鹅物种的尺寸测量值.
 - [robis](https://github.com/iobis/robis/) -建立并维持一个与科学界合作的全球联盟，以促进自由和开放地获取和应用生物多样性和生物地理数据以及海洋生物信息.
@@ -536,6 +548,9 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [plant](https://github.com/traitecoevo/plant) -用于对森林性状生态和演化进行建模的软件包.
 - [python-ecology-lesson](https://github.com/datacarpentry/python-ecology-lesson) -适用于生态学家的Python数据分析和可视化.
 - [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson) -R中的面向生态学家的数据分析和可视化.
+- [PNVmaps](https://github.com/Envirometrix/PNVmaps) -基于机器学习的潜在自然植被全球地图.
+- [monitoring-ecosystem-resilience](https://github.com/alan-turing-institute/monitoring-ecosystem-resilience) -重点是了解半干旱环境中的植被格局.
+- [UVic-updates-opem](https://git.geomar.de/markus-pahlow/UVic-updates-opem) -将基于最佳性的浮游植物和浮游动物引入具有可变化学计量比的C：N：P（：Chl）的UVic-ESCM（2.9版）中，用于浮游植物，重氮营养菌和碎屑.
 
 
 ### Ice and Poles
@@ -568,7 +583,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [GOLD](https://code.google.com/archive/p/gold-omod/) -代表“广义海洋层动力学”，是由NOAA资助并由NOAA-GFDL和普林斯顿大学的海洋小组开发的混合坐标有限体积海洋模型代码.
 - [rrricanes](https://github.com/ropensci/rrricanes) -AR库，可从大西洋和东太平洋飓风和热带风暴中提取信息.
 - [hydroscoper](https://github.com/ropensci/hydroscoper) -与希腊国家水文气象信息数据库的R接口.
-- [GLOCOFFS](https://github.com/WPringle/GLOCOFFS) -基于ADCIRC的全球风暴潮建模系统，可提供沿海洪水的实时预测.
+- [GLOCOFFS](https://github.com/WPringle/GLOCOFFS) - An ADCIRC-based global storm tide modeling system providing real-time forecasts of coastal flooding.
 - [OpenDrift](https://github.com/OpenDrift/opendrift) -用于对在海洋甚至在大气中漂移的物体或物质的轨迹和命运进行建模的软件.
 - [OceanSpy](https://github.com/hainegroup/oceanspy) -一个开源且用户友好的Python程序包，使科学家和感兴趣的业余爱好者能够分析和可视化海洋模型数据集.
 - [Iris](https://github.com/SciTools/iris) -一个功能强大，与格式无关的，社区驱动的Python软件包，用于分析和可视化地球科学数据.
@@ -576,7 +591,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [oce](https://github.com/dankelley/oce) -用于海洋学处理的R包.
 - [podaacpy](https://github.com/nasa/podaacpy) -用于与NASA JPL的物理海洋学分布式活动存档中心进行交互的python实用程序库.
 - [Ocean-Data-Map-Project](https://github.com/DFO-Ocean-Navigator/Ocean-Data-Map-Project) -一种数据可视化工具，使用户能够快速轻松地发现和查看3D海洋模型输出.
-- [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) -用于python的模块，该模块实现了Hobday等人的海洋热波（MHW）定义.
+- [marineHeatWaves](https://github.com/ecjoliver/marineHeatWaves) -用于python的模块，用于实现Hobday等人的海洋热波（MHW）定义.
 - [heatwaveR](https://github.com/robwschlegel/heatwaveR)  -包含RmarineHeatWaves软件包中的原始函数，该函数根据Hobday等人的定义计算和显示海洋热波.  （2016）.
 - [MITgcm](https://github.com/MITgcm/MITgcm) -灵活的非静液压配方使其能够有效模拟各种规模的流体现象.
 - [VAPOR](https://github.com/NCAR/VAPOR) -海洋，大气和太阳研究人员的可视化和分析平台.
@@ -595,12 +610,12 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 
 ### Atmosphere
 
-- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) -一组用于计算行星大气中辐射通量的代码.
+- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) - A set of codes for computing radiative fluxes in planetary atmospheres.
 - [pyglow](https://github.com/timduly4/pyglow) -一个Python模块，其中包装了几个用FORTRAN编写的高层大气气候模型.
 - [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) -PiWind是英国一小部分地区的风暴模型.
 - [Massive-Parallel Trajectory Calculations](https://github.com/slcs-jsc/mptrac) -拉格朗日粒子扩散模型，用于分析自由对流层和平流层中的大气传输过程.
 - [ICAR](https://github.com/NCAR/icar) -简化的大气模型，主要用于气候缩减，大气敏感性测试以及希望的教育用途.
-- [LBLRTM](https://github.com/AER-RC/LBLRTM) -逐行辐射传递模型是从快速大气签名代码中得出的准确有效的逐行辐射传递模型.
+- [LBLRTM](https://github.com/AER-RC/LBLRTM) - Line-By-Line Radiative Transfer Model is an accurate and efficient line-by-line radiative transfer model derived from the Fast Atmospheric Signature Code.
 - [splitr](https://github.com/rich-iannone/splitr) -我们可以从一个或多个接收器位置确定到达的空气质量的来源.
 - [PyCHAM](https://github.com/simonom/PyCHAM) -用于Windows，Linux和Mac的Python框模型中的Aerosol Microphysics化学.
 - [maja](https://github.com/CNES/MAJA) -大气校正和云筛查软件.
@@ -648,7 +663,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [CliMT](https://github.com/CliMT/climt) -使用Python构建Earth系统模型的工具包.
 - [climlab](https://github.com/brian-rose/climlab) -用于面向过程的气候建模的Python软件包.
 - [FAIR](https://github.com/OMS-NetZero/FAIR) -有限幅度冲激响应简单的气候-碳循环模型.
-- [CLIMADA](https://github.com/CLIMADA-project/climada_python) - Stands for CLIMate ADAptation and is a probabilistic natural catastrophe impact model, that also calculates averted damage (benefit) thanks to adaptation measures of any kind (from grey to green infrastructure, behavioural, etc.).
+- [CLIMADA](https://github.com/CLIMADA-project/climada_python) -表示CLIMate适应，是一种概率性自然灾害影响模型，由于采用了各种适应措施（从灰色到绿色的基础设施，行为等），它也可以计算避免的损失（收益）.
 - [ClimateMARGO.jl](https://github.com/ClimateMARGO/ClimateMARGO.jl) -MARGO的Julia实现，这是优化气候变化控制策略的理想框架.
 - [ClimateTools.jl](https://github.com/JuliaClimate/ClimateTools.jl)  -气候科学中常用工具的集合. 涵盖了气候场分析的基础知识，并尝试了与气候情景设计相关的探索技术.
 - [MetSim](https://github.com/UW-Hydro/MetSim) -用于水文模拟和气候应用的气象模拟器和强迫分解器.
@@ -662,18 +677,19 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [RegESM](https://github.com/uturuncoglu/RegESM) -区域地球系统模型被设计为最先进的耦合建模系统，该模型系统允许使用各种不同的地球系统模型组件以及它们与协同处理工具的集成.
 - [gospl](https://github.com/Geodels/gospl) -提供可扩展的基于Python的并行化数值模型，以模拟全球范围内的景观和盆地重建.
 - [gis4wrf](https://github.com/GIS4WRF/gis4wrf) -一个免费的开源QGIS插件，可帮助研究人员和从业人员进行高级研究天气研究和预报建模工作流程.
-- [MPAS](https://github.com/MPAS-Dev/MPAS-Model) -跨尺度预测模型是一个合作项目，旨在开发用于气候，区域气候和天气研究的大气，海洋和其他地球系统模拟组件.
+- [MPAS](https://github.com/MPAS-Dev/MPAS-Model) -跨尺度预测模型是一个合作项目，用于开发用于气候，区域气候和天气研究的大气，海洋和其他地球系统模拟组件.
 - [esmtools](https://github.com/bradyrx/esmtools) -用于地球系统模型分析的工具箱.
 - [Badlands](https://github.com/badlands-model/badlands) -盆地和景观动力学是一个长期的表面演化模型，旨在模拟从上游地区一直到海洋环境的景观发育，沉积物迁移和沉积盆地形成.
 
 
 ## Earth Climate Datasets and Tools
 
+- [cf-conventions](https://github.com/cf-convention/cf-conventions) -CF（气候和预报）元数据的约定旨在促进使用NetCDF API创建的文件的处理和共享.
 - [GHCN](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn)  -来自全球气象站的观测数据库. 提供每日和每月分辨率数据，最长记录可达175年.
 - [CRU TS](https://crudata.uea.ac.uk/cru/data/hrg/)  -气候研究部门（东英吉利大学）和NCAS的网格化档案. 该数据集是通过对来自广泛气象站网络的每月气候观测值进行插值而得出的.
 - [E-OBS](https://www.ecad.eu/download/ensembles/download.php) -整个欧洲的详细网格观测数据存档.
 - [ECMWF Reanalyses](https://www.ecmwf.int/en/forecasts/datasets/browse-reanalysis-datasets) -重新分析数据集的集合产生了欧洲中距离天气预报中心（ERA系列）.
-- [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html) - A public reanalysis collection of the NOAA Physical Sciences Laboratory (NCEP, NARR, 20th Century Reanalysis).
+- [NOAA PSL Reanalyses](https://psl.noaa.gov/data/gridded/reanalysis/index.html) -NOAA物理科学实验室的公共再分析资料库（NCEP，NARR，20世纪再分析资料）.
 - [MERRA- 2 Reanalysis](https://disc.sci.gsfc.nasa.gov/datasets?keywords=%22MERRA-2%22)  -由NASA全球建模和同化办公室（GMAO）制作. 除地面观测外，还有一些与天基观测同化.
 - [CMIP6 Datasets](https://pcmdi.github.io/CMIP6/)  -提供对耦合模型比较项目（CMIP）当前第6阶段输出的访问.  CMIP6全球气候模型为（几乎）我们可能了解的未来气候奠定了基础.
 - [Climate Watch](https://github.com/Vizzuality/climate-watch) -提供开放数据，可视化和分析，以帮助政策制定者，研究人员和其他利益相关者收集有关国家气候变化的见解.
@@ -686,7 +702,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [ForestGEO](https://github.com/forestgeo/Climate) -该公共资源库是ForestGEO网站的气候数据和信息门户.
 - [hn2016_falwa](https://github.com/csyhuang/hn2016_falwa) -Python库，用于根据气候数据计算有限振幅局部波活动.
 - [Climate Data Store Toolbox](https://cds.climate.copernicus.eu/toolbox/doc/index.html) -深入了解有关地球过去，现在和未来气候的大量信息.
-- [ATLAS](https://github.com/SantanderMetGroup/ATLAS) -气候变化ATLAS的数据集，代码和虚拟工作区.
+- [ATLAS](https://github.com/SantanderMetGroup/ATLAS) - Datasets, code and virtual workspace for the Climate Change ATLAS.
 - [xclim](https://github.com/Ouranosinc/xclim) -基于xarray的衍生气候变量（即气候指标）库.
 - [climpact2](https://github.com/ARCCSS-extremes/climpact2/) -一个R软件包，可从存储在文本或netCDF文件中的数据计算ET-SCI指数以及其他极端气候指数.
 - [PRISM](https://github.com/ropensci/prism) -从俄勒冈PRISM气候数据项目下载数据.
@@ -694,7 +710,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [Climate-Change-Datasets](https://github.com/adventuroussrv/Climate-Change-Datasets) -这是气候变化公共数据集的列表.
 - [climpred](https://github.com/pangeo-data/climpred) -旨在成为用于分析初始化动态预报模型输出的主要软件包，范围从短期天气预报到十年气候预报.
 - [metR](https://github.com/eliocamp/metR) -使R在整洁的数据范式中更好地处理气象数据的几种功能和实用程序.
-- [downscaleR](https://github.com/SantanderMetGroup/downscaleR) -R包，用于经验统计量的按比例缩小，着重于每日数据，并涵盖最流行的方法（偏差校正，模型输出统计量，完美预测）和技术（例如分位数映射，回归，类似物，神经网络）.
+- [downscaleR](https://github.com/SantanderMetGroup/downscaleR) -R包，用于经验统计量的按比例缩小，重点放在每日数据上，涵盖最流行的方法（偏差校正，模型输出统计量，完美预测）和技术（例如分位数映射，回归，类似物，神经网络）.
 - [CliFlo](https://github.com/ropensci/clifro) -从新西兰国家气候数据库轻松下载和可视化气候数据.
 - [hyfo](https://github.com/Yuanchao-Xu/hyfo) -主要侧重于水文和气候预报的数据处理和可视化.
 - [climate](https://github.com/bczernecki/climate) -气候R软件包的目标是自动化从公开资源库中下载气象和水文数据.
@@ -706,9 +722,13 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [xgcm](https://github.com/xgcm/xgcm) -用于分析常规循环模型输出数据的Python包.
 - [MPAS-Analysis](https://github.com/MPAS-Dev/MPAS-Analysis) -提供ACME的MPAS组件的分析.
 - [MIT-PraCTES](https://github.com/PraCTES/MIT-PraCTES) -麻省理工学院讲习班“地球科学家实用计算教程”的材料.
-
-
-
+- [NASAaccess](https://github.com/nasa/NASAaccess) -R软件包，可以生成驱动各种水文模型（例如，SWAT，VIC，RHESSys）所需的网格化气候（CIMP5）和天气数据（GPM，TRMM，GLDAS）的ascii表.
+- [Climate Data Dashboard of the ESA Climate Change Initiative](https://climate.esa.int/en/odp/#/dashboard) -获取通过欧空局气候变化倡议产生的全球气候数据.
+- [Cate](https://github.com/CCI-Tools/cate) -用于提取，运行和可视化所有ESA气候变化倡议数据的软件.
+- [esa-climate-from-space](https://github.com/ubilabs/esa-climate-from-space) -太空气候应用的作用是提高气候变化倡议计划的知名度，以及ESA卫星数据在气候科学中的作用.
+- [climetlab](https://github.com/ecmwf/climetlab) -一个Python软件包，旨在简化对气候和气象数据集的访问，使用户可以专注于科学而不是诸如数据访问和数据格式之类的技术问题.
+- [cdsapi](https://github.com/ecmwf/cdsapi) -用于访问哥白尼气候数据存储区的Python API.
+- [ODM2](https://github.com/ODM2/ODM2) -用于基于特征的地球观测的信息模型和支持软件生态系统，旨在实现学科之间的互操作性.
 
 
 ## Access and Monitoring of Resources
@@ -752,8 +772,8 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [modflow6](https://github.com/MODFLOW-USGS/modflow6) -已被学者，私人顾问和政府科学家广泛使用，以准确，可靠和有效地模拟地下水流量.
 - [iMOD](https://oss.deltares.nl/web/imod/home) -易于使用的图形用户界面+带有快速，灵活和一致的子域建模技术的MODFLOW的Deltares加速版本.
 - [Imod-Python](https://gitlab.com/deltares/imod/imod-python) -旨在帮助您进行MODFLOW地下水建模工作.
-- [HydroShare](https://github.com/hydroshare/hydroshare) -HydroShare是一个网站和水文信息系统，用于共享水文数据和模型，旨在为用户提供创新和合作解决水问题所需的网络基础设施.
-- [pysheds](https://github.com/mdbartos/pysheds) - Simple and fast watershed delineation in python.
+- [HydroShare](https://github.com/hydroshare/hydroshare) -HydroShare是一个网站和水文信息系统，用于共享水文数据和模型，旨在为用户提供创新和合作研究以解决水问题所需的网络基础设施.
+- [pysheds](https://github.com/mdbartos/pysheds) -在python中进行简单，快速的分水岭划界.
 - [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) -WhiteboxTools是先进的地理空间数据分析平台.
 - [CRITERIA3D](https://github.com/ARPA-SIMC/CRITERIA3D) -包括土壤中三维水和热流，地表和地下流耦合，气象数据插值，辐射预算，作物发育和作物水分吸收的数值解.
 - [Water Network Tool for Resilience](https://github.com/USEPA/WNTR) -旨在模拟和分析供水网络弹性的Python软件包.
@@ -761,7 +781,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [KnowFlow](https://github.com/KnowFlow/KnowFlow_AWM) -KnowFlow自动水监控设备是一种开源工具，使每个人都可以低成本获得第一手水质数据.
 - [gwells](https://github.com/bcgov/gwells) -不列颠哥伦比亚省环境部的地下水井和含水层申请.
 - [waterquality](https://github.com/RAJohansen/waterquality) -旨在从遥感影像中检测和量化水质和有害蓝藻藻（CHAB）的包装.
-- [LISFLOOD](https://github.com/ec-jrc/lisflood-code) -自1997年以来由欧洲委员会联合研究中心开发的空间分布的水资源模型.
+- [LISFLOOD](https://github.com/ec-jrc/lisflood-code) - A spatially distributed water resources model, developed by the Joint Research Centre of the European Commission since 1997.
 - [FloodMapping](https://github.com/mikejohnson51/FloodMapping) -通过国家水模型进行洪水预报的R软件包.
 - [QGEP](https://github.com/qgep/QGEP) -符合SIA-405的基于QGIS的废水处理应用.
 - [PooPyLab_Project](https://github.com/toogad/PooPyLab_Project) -生物废水处理软件.
@@ -779,9 +799,10 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [AED2](https://github.com/AquaticEcoDynamics/libaed2) -由社区驱动的模块和算法库，用于模拟“水生生态动力学”：水质，水生生物地球化学，生物栖息地和水生生态系统动力学.
 - [DORiE](https://ts-gitlab.iup.uni-heidelberg.de/dorie/dorie) -基于DUNE的不连续Galerkin解算器，用于土壤水流和被动溶质运移.
 - [wqbc](https://github.com/bcgov/wqbc) -用于不列颠哥伦比亚省水质阈值和指数计算的R软件包.
+- [Model My Watershed](https://github.com/WikiWatershed/model-my-watershed) -A是一个面向市民，保护从业人员，市政决策者，教育者和学生的分水岭建模网络应用程序.
 
 
-### Soil
+### Soil and Land
 
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250mGlobal) -250 m分辨率的土壤性质和类别的空间预测.
 - [Hyperspectral Soilmoisture Dataset](https://github.com/felixriese/hyperspectral-soilmoisture-dataset) -土壤水分的高光谱基准数据集.
@@ -791,7 +812,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [soilDB](https://github.com/ncss-tech/soilDB) -简化对NCSS土壤数据库的访问.
 - [Landslides Detection](https://github.com/mhscience/landslides_detection) -机器学习工具，可从光学卫星图像中检测滑坡.
 - [pyTSEB](https://github.com/hectornieto/pyTSEB) -包含用于两个源能量平衡模型（Priestley-Taylor TSEB-PT，双时差DTD和TSEB以及土壤和冠层温度TSEB-2T的Python代码）的功能，用于基于辐射表面温度的测量来估算感热通量和潜热通量.
-- [slga](https://github.com/obrl-soil/slga) -提供从澳大利亚土壤和景观网格下载栅格数据的地理子集的功能.
+- [slga](https://github.com/obrl-soil/slga) - Offers the ability to download geographic subsets of raster data from the Soil and Landscape Grid of Australia.
 - [smapr](https://github.com/ropensci/smapr) -用于获取和处理NASA（土壤水分主动-被动）SMAP数据的R包.
 - [DRIP-SLIP](https://github.com/NASA-DEVELOP/DRIP-SLIP) -检测实时增加的降水/突然的滑坡识别产品.
 - [esa_cci_sm](https://github.com/TUW-GEO/esa_cci_sm) -ESA CCI土壤湿度图像和时间序列数据的读取器和转换器.
@@ -808,6 +829,8 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [PredictiveSoilMapping](https://github.com/Envirometrix/PredictiveSoilMapping) -应用统计和/或机器学习技术来拟合模型，以产生土壤变量的空间和/或时空预测，即不同分辨率下的土壤特性和类别图.
 - [OpenFLUID](https://github.com/OpenFLUID/openfluid) -用于复杂景观系统建模和仿真的软件环境.
 - [Trends.Earth](https://github.com/ConservationInternational/trends.earth) -一个QGIS插件，支持监视土地变化，包括生产力，土地覆盖率和土壤有机碳的变化.
+- [pycoal](https://github.com/capstone-coal/pycoal) -用于描述煤炭和露天开采对美国土地的影响的Python工具包.
+- [stats_for_soil_survey](https://ncss-tech.github.io/stats_for_soil_survey/) -关于“针对儿科医生的统计资料”的讲座材料.
 
 
 ## Agriculture, Fishery and Nutrition
@@ -832,13 +855,14 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [Karrot](https://github.com/yunity/karrot-frontend) -用于组织全球粮食节省组织的Web应用程序.
 - [AquaCropR](https://bitbucket.org/anyelacamargo/aquacropr/) -实施粮农组织为解决粮食安全并评估环境和管理对作物生产的影响而开发的AquaCrop作物生长模型.
 - [openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork)  -当地食品在线市场. 它启用了独立的在线食品商店网络，该网络将农民和食品中心与个人和本地企业联系起来.
-- [powerplant](https://github.com/Ecohackerfarm/powerplant) -提供智能的种植建议，以最大程度地促进作物互动，实现所有作物的互利.
+- [powerplant](https://github.com/Ecohackerfarm/powerplant) - Provides intelligent planting suggestions which maximize positive crop interaction for the mutual benefit of all your crops.
 - [Mycodo](https://github.com/kizniche/Mycodo) -Raspberry Pi的开源软件，它以有趣的方式耦合输入和输出以感知和操纵环境.
-- [Trefle](https://github.com/treflehq/trefle-api) -用于植物物种的植物性JSON REST API，允许您搜索和查询所有已注册物种，并构建下一个园艺应用程序和农业机器人.
+- [Trefle](https://github.com/treflehq/trefle-api) -用于植物物种的植物性JSON REST API，使您可以搜索和查询所有已注册物种，并构建下一个园艺应用程序和农业机器人.
 - [HappyPlants](https://github.com/morkro/happy-plants) -以可视方式创建自己的工厂数据库.
-- [dormancyR](https://github.com/EduardoFernandezC/dormancyR) -提供园艺中常用的寒冷模型的替代方案，以计算落叶果树果园的寒冷指标以及处理天气数据的功能.
+- [dormancyR](https://github.com/EduardoFernandezC/dormancyR) -提供园艺中常用的寒冷模型的替代方案，以计算落叶果树园中的寒冷指标以及处理天气数据的功能.
 - [seedr](https://github.com/efernandezpascual/seedr) -R包，提供适合水力和热力时间萌发模型的功能.
 - [plantFEM](https://github.com/kazulagi/plantFEM)  -基于有限元方法的植物模拟器，其目标是田间作物. 该软件为农民，育种者和农艺师的冠层，植物和器官提供了农业的多物理场模拟.
+- [openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) -Open Food Facts是一个来自世界各地的协作，免费和开放的食品数据库.
 
 
 ## Circular Economy and Waste
@@ -868,7 +892,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) -令人敬畏的开放式大气，海洋和气候科学.
 - [Awesome Earth](https://github.com/philsturgeon/awesome-earth)  -“我该如何应对气候危机？” 您可以做326件事.
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) -从存储库中精心挑选，这些存储库使我们作为地球科学家，黑客和数据争吵者的生活更加轻松或更加出色.
-- [Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data) - A curated list of APIs, open data and ML/AI projects on climate change.
+- [Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data) -关于气候变化的API，开放数据和ML / AI项目的精选清单.
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) -为沿海工程师和科学家精心整理的精选资源清单.
 - [Open Energy System Databases](https://en.wikipedia.org/wiki/Open_energy_system_databases) -采用开放数据方法来收集，清理和重新发布与能源有关的数据集以供开放使用.
 - [Open Models](https://wiki.openmod-initiative.org/wiki/Open_Models) -此页面列出了根据开源许可证发布的能源模型.
@@ -880,7 +904,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [ProjectDrawdown](https://github.com/ProjectDrawdown/solutions) -缩编项目的任务是帮助世界实现“缩编”，即未来大气中温室气体的水平停止上升并开始稳定下降，从而尽快，安全，公平地制止灾难性的气候变化.尽可能.
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) -精选的应对气候变化的技术项目清单-希望激发破坏性的技术气候行动.
 - [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) -地球与环境数据科学导论.
-- [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team.
+- [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) -地球实验室团队开发的专门针对教程，课程和其他学习资料和资源的网站.
 - [ESM-lectures](https://github.com/nworbmot/esm-lectures) -KIT能源系统建模课程的讲义幻灯片.
 - [Quantitative Plant](https://www.quantitative-plant.org/) -提供用于植物的图像分析软件工具和模型的网站.
 - [GreenCity](https://github.com/ita-social-projects/GreenCity) -以有趣和富有挑战性的方式教给人们一种环保的生活方式.
@@ -896,39 +920,10 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [OpenClimate](https://github.com/YaleOpenLab/openclimate-demo) -一项开源计划，探索分布式账本技术（DLT）和其他新兴技术（例如IoT（物联网），大数据和机器学习）的应用，以帮助世界保持对气候变化透明的气候核算系统这一挑战气候目标.
 - [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) -Jupyter笔记本格式的交互式讲义和作业的集合.
 - [Climate Change Impact Assessment](https://claut.gitlab.io/man_ccia/) -实用的演练.
+- [sweet](https://github.com/ESIPFed/sweet) -地球和环境术语（SWEET）本体语义网的官方存储库.
+- [ModularSensors](https://github.com/EnviroDIY/ModularSensors) -该Arduino库为环境传感器提供了与Arduino兼容数据记录器一起使用的通用功能接口.
+- [netcdf-fortran](https://github.com/Unidata/netcdf-fortran) -Unidata网络通用数据表单（netCDF）是用于科学数据访问的接口，并且是一组自由分发的软件库，它们提供了该接口的实现.
 
-## Sustainable Technology Communities
-
-- [openmod-initiative](https://forum.openmod-initiative.org/) -我们相信，能源建模的更大开放性可以提高透明度和可信度，减少浪费的双重工作并提高整体质量.
-- [SustainOSS](https://sustainoss.org/)  -可持续发展不仅意味着代码. 我们也如何使我们的工作在环境上可持续发展？ 我们如何与世界上其他团体分享我们对开源的知识？
-- [LFEnergy](https://www.lfenergy.org/) -Linux基金会内部托管的专注于电源系统领域的开源基金会.
-- [protontypes](https://discourse.protontypes.eu/) -开放式加速器，实现自由和可持续的创新.
-- [Open Energy Family](https://github.com/OpenEnergyPlatform) -开放能源家族旨在确保能源系统研究的质量，透明度和可重复性.
-- [Open Climate Fix](https://openclimatefix.org/) -使用计算机解决气候变化.
-- [os-climate](https://www.os-climate.org/) -开源以加速气候综合投资.
-- [Reiner Lemoine Institut](https://reiner-lemoine-institut.de/) -独立的非营利研究机构，致力于在我们三个研究部门“能源系统转型”，“可再生能源的交通性”和“离网系统”中为100％可再生能源的未来而努力.
-- [CliMA](https://clima.caltech.edu/) -由科学家，工程师和应用数学家组成的联盟，致力于开创一种新的以数据为依据的气候建模方法.
-- [National Renewable Energy Laboratory](https://github.com/NREL) -正在通过可再生能源和能源效率技术的研究，开发，商业化和部署来改变能源.
-- [U.S. Environmental Protection Agency](https://github.com/USEPA) -我们的使命是保护人类健康和环境.
-- [Earth System Community Modeling Portal](https://github.com/ESCOMP) -是一个大型的，面向社区的地球系统建模项目，受到广泛关注.
-- [RECO](https://www.greco-project.eu/)  -由欧洲委员会资助的跨国研究项目. 它的主要目标是将开放科学和其他负责任的研究与创新方法付诸实践，用于光伏行业的实际研究项目中.
-- [ECMWF Summer of Weather Code](https://github.com/esowc) -一项协作计划，每年夏天，几个开发团队将开发与天气和气候相关的创新软件.
-- [Vizzuality](https://www.vizzuality.com/) -一家致力于数据可视化，Web-GIS和工具开发的科技公司，致力于从事与保护，环境和可持续发展有关的项目.
-- [CarbonPlan](https://carbonplan.org/) -通过开放数据和工具提高除碳和气候解决方案的透明度和科学完整性.
-- [OpenEnergyMonitor](https://openenergymonitor.org/) -一个开源社区，可以帮助我们与能源使用，能源系统以及可持续能源的挑战相关.
-- [DTU Wind Energy](https://gitlab.windenergy.dtu.dk/explore) - Technical University of Denmark Wind Energy.
-- [ROpenSci](https://ropensci.org/) -我们通过社区驱动的学习，审查和维护R生态系统中的贡献软件来帮助开发用于科学的R软件包.
-- [rosi](http://rosi.science/) -开发计算和实验工具，以更好地了解植物（尤其是根系）与环境的相互作用.
-- [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home) -推进综合研究的前沿，以实现全球可持续性以及实现安全和公正的气候未来.
-- [Environmental Modeling Center](https://www.emc.ncep.noaa.gov/) -负责20多个数值预测系统的开发和实施.
-- [openforis](http://www.openforis.org/) -用于环境监测的免费开源解决方案.
-- [WeEcology](https://www.weecology.org/) -包括Morgan Ernest的实验室和Ethan White的实验室，该实验室研究生态系统如何随着时间变化并具有很强的现场工作重点，而Ethan White的实验室则使用计算和统计方法来使用大量的生态和环境数据集来理解生态系统.
-- [Open Water Foundation](http://openwaterfoundation.org/) -开放水基金会（Open Water Foundation）是一家非营利性社会企业，致力于提供一个开放源代码软件平台，以帮助组织更好地做出有关水的决策.
-- [JuliaClimate](https://github.com/JuliaClimate) -朱莉娅的开放气候科学社区.
-- [Pangeo Community](https://discourse.pangeo.io/) -致力于大数据地球科学的社区工作.
-- [Impact Makers](https://techimpactmakers.com/) -希望帮助解决气候问题的全球技术人员社区.
-- [climateaction](https://climateaction.tech/) -使用技能，专业知识和平台来支持气候危机解决方案的全球技术专业人员社区.
- 
 
 ### Footnotes
 _Animation与 [An Animated Map of the Earth](https://github.com/eleanorlutz/earth_atlas_of_space) 通过 [Eleanor Lutz](https://twitter.com/eleanor_lutz)_

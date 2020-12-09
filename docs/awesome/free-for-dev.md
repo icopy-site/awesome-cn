@@ -187,7 +187,7 @@
   * [ip-api](https://ip-api.com) — IP Geolocation API，免费用于非商业用途，不需要API密钥，从免费计划的同一IP地址开始，限制为每分钟45 req /分钟.
   * [WebScraping.AI](https://webscraping.ai)  -具有内置解析，Chrome渲染和代理的简单Web爬网API. 每月5000次免费API调用.
   * [Zipcodebase](https://zipcodebase.com)  -免费的邮政编码API，可访问全球邮政编码数据. 每月10000个免费请求.
-  * [EVA](http://eva.pingutil.com/) -免费的电子邮件验证器API，可帮助您确定电子邮件是否是一次性的以及是否具有有效的MX记录.
+  * [EVA](http://eva.pingutil.com/) - Free email validator API, which helps to identify whether an email is disposable and having valid MX records.
   * [happi.dev](https://happi.dev)  -免费增值api服务集合（音乐，汇率，键值存储，语言检测，密码生成器，QRCode生成器，歌词）. 每月8000次免费API调用.
 
 ## Artifact Repos
@@ -208,14 +208,13 @@
   * [Discord](https://discordapp.com/)  —与公共/私人房间和VoIP服务聊天. 无限用户免费.
   * [evernote.com](https://evernote.com/)  —用于组织信息的工具. 分享您的笔记并与他人一起工作
   * [featurepeek.com](https://featurepeek.com)  -内置团队协作工具的与云提供商无关的前端功能环境. 与静态和Dockerized前端一起使用. 免费提供公共存储库.
-  * [Filestash](https://www.filestash.app) —类似于Dropbox的文件管理器，可连接到各种协议和平台：S3，FTP，SFTP，Minio，Git，WebDAV，Backblaze，LDAP等.
+  * [Filestash](https://www.filestash.app) —类似于Dropbox的文件管理器，可连接到一系列协议和平台：S3，FTP，SFTP，Minio，Git，WebDAV，Backblaze，LDAP等.
   * [flock.com](https://flock.com)  —您的团队进行交流的更快方式. 免费的无限制消息，频道，用户，应用程序和集成
   * [flowdock.com](https://www.flowdock.com/) —聊天和收件箱，最多5个团队免费
   * [GitDuck](https://gitduck.com/)  —面向分布式团队的专用实时编码和远程配对编程. 开源工具
   * [gitter.im](https://gitter.im/)  —聊天，适用于GitHub. 无限的公共和私人房间，最多25人的团队免费
   * [hangouts.google.com](https://hangouts.google.com/) -一个免费聊天场所，需要一个Google帐户
   * [helplightning.com](https://www.helplightning.com/)  —通过增强现实技术帮助解决视频问题. 免费，无需分析，加密和支持
-  * [helpmonks.com](https://helpmonks.com/) —团队的共享收件箱，开源和非营利组织免费
   * [ideascale.com](https://ideascale.com/) —允许客户提交想法和投票，一个社区中的25名成员免费
   * [Igloo](https://www.igloosoftware.com/) —用于共享文档，博客和日历等的内部门户.最多10个用户免费.
   * [Keybase](https://keybase.io/) — Keybase是Slack的一个很酷的FOSS替代品，它可以确保从家庭到社区再到公司的每个人的聊天和文件安全.
@@ -233,12 +232,11 @@
   * [slack.com](https://slack.com/) —具有某些功能限制的无限用户免费
   * [Spectrum](https://spectrum.chat/) -免费创建公共或私人社区.
   * [StatusPile](https://www.statuspile.com/)  -状态页的状态页. 跟踪上游提供商的状态页.
-  * [Tadum](https://tadum.app) -专为定期会议而设计的会议议程和会议记录应用，免费供10人以下的团队使用
   * [talky.io](https://talky.io/)  —免费的小组视频聊天. 匿名. 点对点. 无需插件，注册或付款
   * [Tefter](https://tefter.io) - Bookmarking app with a powerful Slack integration. Free for open-source teams.
   * [TeleType](https://teletype.oorja.io/)  —共享终端，语音，代码，白板等. 无需登录，面向开发人员的端到端加密协作.
   * [Tree Schema](https://treeschema.com/)  —使用API​​的数据目录和元数据管理，以代码形式管理数据沿袭. 最多容纳5位用户的团队免费.
-  * [twist.com](https://twist.com)  —异步友好的团队交流应用程序，其中的对话保持井井有条，并保持在主题上. 提供免费和无限计划. 为符合条件的团队提供折扣.
+  * [twist.com](https://twist.com)  —异步友好的团队交流应用程序，其中的对话保持井井有条，并保持主题一致. 提供免费和无限计划. 为符合条件的团队提供折扣.
   * [typetalk.com](https://www.typetalk.com/) -通过网络或手机上的即时消息与团队共享和讨论想法
   * [Tugboat](https://tugboat.qa)  -预览每个自动请求和请求请求. 所有人免费，非营利组织免费提供Nano层.
   * [whereby.com](https://whereby.com/) —免费的一键式视频对话（以前称为“ appear.in”）
@@ -354,10 +352,10 @@
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) —发现您网络中的受感染系统
   * [auth0.com](https://auth0.com/)  —免费托管用于开发SSO. 最多2个社交身份提供者用于封闭源项目.
   * [Authress](https://authress.io/)  —身份验证登录和访问控制，任何项目的身份提供者不受限制.  Facebook，Google，Twitter等. 前1000个API调用是免费的.
-  * [bitninja.io](https://bitninja.io/) —通过黑名单的免费计划进行的僵尸网络保护仅报告有关每次攻击的有限信息
+  * [bitninja.io](https://bitninja.io/) — Botnet protection through a blacklist, free plan only reports limited information on each attack
   * [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services（AWS）安全和合规性审核和监控
   * [CodeNotary.io](https://www.codenotary.io/) —带有不可磨灭的证明的公证平台，用于公证代码，文件，目录或容器
-  * [crypteron.com](https://www.crypteron.com/) —面向开发人员的云优先，对开发人员友好的安全平台可防止.NET和Java应用程序中的数据泄露
+  * [crypteron.com](https://www.crypteron.com/) —面向开发人员的云优先，安全友好的安全平台可防止.NET和Java应用程序中的数据泄露
   * [Dependabot](https://dependabot.com/) 自动化的依赖项更新，适用于Ruby，JavaScript，Python，PHP，Elixir，Rust，Java（Maven和Gradle）、. NET，Go，Elm，Docker，Terraform，Git子模块和GitHub Actions.
   * [DJ Checkup](https://djcheckup.com)  —使用此免费，自动化的检查工具扫描Django站点中的安全漏洞. 从Pony Checkup网站派生.
   * [duo.com](https://duo.com/)  —网站或应用程序的两因素身份验证（2FA）.  10位用户免费，所有身份验证方法，无限制，集成，硬件令牌
@@ -421,7 +419,7 @@
 ## Translation Management
 
   * [crowdin.com](https://crowdin.com/) —开源的无限项目，无限字符串和合作者
-  * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
+  * [lingohub.com](https://lingohub.com/) —最多释放3个用户，对于开源始终免费
   * [localazy.com](https://localazy.com) -无限字符串，无限贡献者免费
   * [localizely.com](https://localizely.com/) —开源免费
   * [Loco](https://localise.biz/) —免费提供多达2000种翻译，无限制的翻译者，10种语言/项目，1000种可翻译资产/项目
@@ -448,7 +446,7 @@
   * [elastic.co](https://www.elastic.co/solutions/apm)  — JS开发人员的即时性能见解. 免费提供24小时数据保留
   * [freeboard.io](https://freeboard.io/)  —对公共项目免费. 物联网（IoT）项目的仪表板
   * [freshworks.com](https://www.freshworks.com/website-monitoring/) —每隔1分钟监控50个URL，并免费提供10个全局位置和5个公共状态页面
-  * [ghostinspector.com](https://ghostinspector.com/)  —免费的网站和Web应用程序监视. 单用户，每月100次测试运行
+  * [ghostinspector.com](https://ghostinspector.com/) — Free website and web application monitoring. Single user, 100 test runs/month
   * [gitential.com](https://gitential.com)  —软件开发分析平台. 免费：无限的公共存储库，无限的用户，私人存储库的免费试用. 适用于企业的本地版本.
   * [healthchecks.io](https://healthchecks.io)  —监视您的cron作业和后台任务. 免费，最多20张支票.
   * [inspector.dev](https://www.inspector.dev) -不到一分钟的时间，一个完整的实时监控仪表板，并且永久免费.
@@ -638,7 +636,7 @@
   * [onesignal.com](https://onesignal.com/) -无限的免费推送通知
   * [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for 1 app, 1GB app data.
   * [posthook.io](https://posthook.io/)  —作业计划服务. 允许您安排特定时间的请求. 每月免费提供500个预定请求.
-  * [progress.com](https://www.progress.com/kinvey) — Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support
+  * [progress.com](https://www.progress.com/kinvey)  —移动后端入门计划每秒具有无限请求，具有1 GB的数据存储. 企业应用程序支持
   * [pubnub.com](https://www.pubnub.com/) —免费推送通知，每月最多可发送一百万条消息，每天可使用100台设备
   * [pushbots.com](https://pushbots.com/)  —推送通知服务. 每月免费进行150万次推送
   * [pushcrew.com](https://pushcrew.com/)  —推送通知服务. 无限通知，最多2000个订户
@@ -730,7 +728,7 @@
    * [graphenedb.com](https://www.graphenedb.com/) — Neo4j即服务，最多可支持1,000个节点和10,000个关系
    * [heroku.com](https://www.heroku.com/) — PostgreSQL即服务，最多10,000行和20个免费连接（作为“附件”提供，但可以附加到原本为空的应用程序中并从外部访问）
    * [lambda.store](https://lambda.store/) —无服务器Redis，具有每天多达5000个请求的免费层，最大数据库大小为256MB
-   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
+   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) —免费套餐提供512 MB
    * [redsmin.com](https://www.redsmin.com/) — Redis的在线实时监视和管理服务，可免费监视1个Redis实例
    * [redislabs](https://redislabs.com/try-free/) -免费的30Mb Redis实例
    * [MemCachier](https://www.memcachier.com/)  —托管的Memcache服务. 免费，最多25MB，1个代理服务器和基本分析
@@ -1055,3 +1053,4 @@
   * [smsreceivefree.com](https://smsreceivefree.com/) —提供免费的临时和一次性电话号码.
   * [simplebackups.io](https://simplebackups.io/)  —用于直接存储到云存储提供程序（AWS，DigitalOcean，Backblaze ...）中的服务器和数据库（MySQL，PostgreSQL，MongoDB）的备份自动化服务. 提供1个备份的免费计划.
   * [SnapShooter](https://snapshooter.io/)  —用于DigitalOcean，AWS，LightSail，Hetzner和Exoscale的备份解决方案，支持将数据库，文件系统和应用程序直接备份到基于s3的存储. 提供免费计划，其中包含一项资源的每日备份.
+  * [Web.Dev](https://https://web.dev/measure/) —这是一个免费工具，可让您查看网站的性能并改善SEO，以在搜索引擎中获得更高的排名.

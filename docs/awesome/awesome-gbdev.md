@@ -65,7 +65,7 @@
 >
 > #### Game Boy Color and Super Game Boy
 > 
-&gt;此列表主要针对原始的* Game Boy *（GB或DMG，1989），* Game Boy Color *（GBC或CGB）和* Super Game Boy *（SGB）是非常相似的系统，其中一些重要区别，例如：
+&gt;此列表重点关注原始的* Game Boy *（GB或DMG，1989），* Game Boy Color *（GBC或CGB）和* Super Game Boy *（SGB）是非常相似的系统，其中一些重要区别，例如：
 >
 &gt;-不同的硬件规格；
 &gt;-特定的硬件和软件功能；
@@ -253,7 +253,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) -扩展gbdk的C库.
 - [bmp2cgb](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
 - [png2gb](https://github.com/LuckyLights/png2gb) -CLI工具可将图像文件转换为游戏男孩.c数组.
-- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy开发套件的一小部分资源和工具.
+- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy Development Kit的一小部分资源和工具.
 - [GB-convert](https://github.com/exezin/gb-convert) -游戏男孩图块转换和地图编辑器工具（转换为装配体）.
 - [cart-dumper](https://github.com/Palmr/cart-dumper) -游戏男孩墨盒翻斗ROM.
 - [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) -使用逻辑分析仪嗅探游戏男孩的LCD.
@@ -332,7 +332,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [gbz80-highlight](https://github.com/ISSOtm/gbz80-highlight) -RGBDS汇编的Notepad +-和gedit语法突出显示文件.
 - [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) -RGBDS汇编的Vim语法突出显示.
 - [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) -另一个用于RGBDS汇编的Vim语法突出显示文件.
-- [rgbds_textmate](https://github.com/Bananattack/rgbds_textmate)  -一些语法突出显示规则，用于在Z80程序集中编码为Textmate语言插件. 适用于Sublime Text 2和3 \. 该语法是为RGBDS和Game Boy特定的Z80指令专门设计的.
+- [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) -用于RGBDS的Sublime Text 3软件包，包括语法突出显示和一些完成摘要.
 - [Z80 Assembly support for Visual Studio Code](https://github.com/Imanolea/z80asm-vscode)
 - [rgbds-vscode](https://github.com/DonaldHays/rgbds-vscode) -用于RGBDS GBZ80组件的Visual Studio Code语言扩展.
 - [rgbds-mode](https://github.com/japanoise/rgbds-mode) -用于RGBDS组装的Emacs主要模式.
@@ -356,7 +356,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线播放（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
+- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线玩（也可以通过移动/触摸）：社区领导试图收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
 - [Infinity](https://github.com/infinity-gbc/infinity)  -由Affinix Software开发的RPG，主要在1999年至2001年之间开发.该游戏从未找到发行商，并最终被取消了. 最近发布了完整的源代码，开发工具和工作流程.
 
 ### ASM
