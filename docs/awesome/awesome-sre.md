@@ -127,7 +127,7 @@
 * [What is the role of a Site Reliability Engineer?](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
 * [Lynda.com: DevOps Foundations: Site Reliability Engineering](https://www.lynda.com/Software-Development-tutorials/DevOps-Foundations-Site-Reliability-Engineering/669542-2.html)
 * [Incident Management Training: Wheel of Misfortune](https://dastergon.gr/wheel-of-misfortune/)
-* [站点不可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
+* [站点非可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
 * [The Ultimate Guide to Structuring a 90-Day Onboarding Plan](https://medium.com/swlh/the-ultimate-guide-to-structuring-a-90-day-onboarding-plan-c91af947376)
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
@@ -139,6 +139,7 @@
 * [Designing distributed systems using NALSD flashcards](https://cloud.google.com/blog/products/management-tools/sre-principles-and-flashcards-to-design-nalsd)
 * [Training Site Reliability Engineers: What Your Organization Needs to Create a Learning Program](https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers)
 * [SRE Classroom: Distributed PubSub workshop](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
+* [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://linkedin.github.io/school-of-sre/)
 
 ## Books
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)

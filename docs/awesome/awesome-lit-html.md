@@ -64,6 +64,7 @@
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -LitElement扩展，提供开箱即用的轻松10n.
 - [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) -之间缺少连接 [Haunted](https://www.npmjs.com/package/haunted) 和LitElement.
 - [lit-robot](https://www.npmjs.com/package/lit-robot) -与LitElement集成 [Robot](https://thisrobot.life/).
+- [lit-element-state](https://www.npmjs.com/package/lit-element-state) -LitElement的简单共享应用程序状态管理.
 - [nextbone](https://www.npmjs.com/package/nextbone) -使用ES类和装饰器重新构想的主干，可与LitElement一起使用.
 - [wc-context](https://www.npmjs.com/package/wc-context) -具有LitElement集成的Web组件的上下文实现.
 - [lit-element-state-decoupler](https://www.npmjs.com/package/lit-element-state-decoupler) -用于在LitElement组件外部进行状态处理的实用程序.
@@ -77,7 +78,7 @@
 ### Component Libraries
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
-- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) -使用LitElement构建的AXA CH UI组件库.
+- [AXA Pattern Library](https://github.com/axa-ch/patterns-library) - AXA CH UI components library built with LitElement.
 - [Belle UI](https://github.com/belleui/belleui) -基于LitElement的高质量UI库.
 - [Blackstone UI](https://github.com/kjantzer/bui) -用于创建使用lit-html和LitElement构建的界面的Web组件.
 - [Brightspace UI core](https://github.com/BrightspaceUI/core) -收集用于构建Brightspace应用程序的Web组件.
@@ -189,7 +190,7 @@
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-点亮html的创作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
+点亮html的作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -贾斯汀·法格纳尼（Justin Fagnani）作为来宾的另一集.
 
 ## Blogs
@@ -218,7 +219,7 @@
 <table>
   <tr>
     <td>Name</td>
-    <td>URL</td>
+    <td>网址</td>
     <td>资源</td>
   </tr>
   <tr>

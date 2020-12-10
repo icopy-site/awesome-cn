@@ -89,6 +89,7 @@
 - [wagtail-opengraph-image-generator](https://github.com/candylabshq/wagtail-opengraph-image-generator) -协助您为Wagtail页面自动创建Open Graph图像.
 - [wagtail-redirect-importer](https://github.com/Frojd/wagtail-redirect-importer) -您友好的邻居导入器，可让您从不同的表格数据格式（例如.csv和.xls）导入重定向 
 - [wagtail-meta-preview](https://github.com/rinti/wagtail-meta-preview) -增加了在Wagtail管理员中获取Facebook，Twitter和Google共享预览的功能.
+- [Wagtail Yoast](https://github.com/Aleksi44/wagtailyoast) -借助SEO建议提高文本可读性的工具.
 
 ### Analytics
 
@@ -113,6 +114,7 @@
 - [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) -使Wagtail搜索文档内容（PDF，Excel和Word等）.
 - [Wagtail-Lazyimages](https://github.com/ptrck/wagtail-lazyimages) -一个插件，可生成微小的模糊占位符图像以延迟加载Wagtail图像medium.com样式.
 - [Wagtail Image Import](https://github.com/jacobtoppm/wagtail-image-import) -一个用于从Google云端硬盘导入图像的插件. 
+- [Wagtail SVG](https://github.com/Aleksi44/wagtailsvg) -Wagtail模块，用于在管理员中管理SVG文件.
 
 ### Translations
 
@@ -137,7 +139,7 @@
 
 ### Modeladmin
 
-- [wagtail-admin-list-controls](https://github.com/ixc/wagtail-admin-list-controls) -在Wagtail的modeladmin列表视图中添加了高级搜索，排序和布局控件.
+- [wagtail-admin-list-controls](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
 ### Misc
 
@@ -150,11 +152,11 @@
 - [Joyous](https://github.com/linuxsoftware/ls.joyous) -Wa的日历应用程序.
 - [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) -使用实际的URL配置和django视图扩展Wagtail页面.
 - [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) -Wa实例之间的导入/导出页面.
-- [Wagtail Import/Export Tool](https://github.com/berkalpyakici/wagtail-import-export-tool) -重构 [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) . 该工具支持导入/导出在导入/导出页面上使用的图像，文档和摘要.
+- [Wagtail Import/Export Tool](https://github.com/berkalpyakici/wagtail-import-export-tool) -重构 [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export). This tool supports importing/exporting images, documents, and snippets that are used on imported/exported pages.
 - [Wagtail Tag Manager](https://github.com/jberghoef/wagtail-tag-manager) -Wagtail附加组件，使脚本和标签的管理更加简便且符合GDPR要求.
 - [Wagtail Cache](https://github.com/coderedcorp/wagtail-cache) -使用Django缓存中间件的Wagtail的简单页面缓存.
 - [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) -该应用程序可将GraphQL支持自动添加到Wagtail网站.
-- [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
+- [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) -Mixin支持在管理面板中进行拖放排序.
 - [Wagtail Live Preview](https://github.com/KalobTaulien/wagtail-livepreview) -内容旁边的实时页面预览.
 - [Wagtail Resume](https://github.com/adinhodovic/wagtail-resume) –一个Wagtail项目，旨在简化开发人员的简历创建过程.
 - [Wagtail Content Import](https://github.com/torchbox/wagtail-content-import) -使用可自定义的映射系统，将内容从Google Docs或Docx导入StreamFields.
@@ -211,7 +213,7 @@
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) Mikalai Radchuk撰写的-这篇演讲是对俄罗斯Wa的介绍.
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) 由Edd Baldry撰写.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=38m13s) 由Daniele Procida.
-- [All about Wagtail – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho) 罗宾·范·德·赖斯特（Robin van der Rijst）.
+- [All about Wagtail – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho) 罗宾·范德·里斯特（Robin van der Rijst）
 - [Presenting Wagtail Clear StreamField, a modular StreamField app – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=19m1s) 由Edd Baldry撰写.
 - [Wagtail Experiments, easy A/B testing for your Wagtail sites – Wagtail Space 2017](https://youtu.be/OedQi5W3Zho?t=34m37s) 汤姆·戴森（Tom Dyson）撰写.
 - [Wagtail's preview, a new hope – Wagtail Space 2017](https://www.youtube.com/watch?v=ObM2pUgY-bs) 由Bertrand Bordage撰写.
@@ -236,7 +238,7 @@
 - [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 汤姆·戴森（Tom Dyson）撰写.
 - [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由莱西·威廉姆斯·亨舍尔.
 - [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) 由Ryan Sullivan撰写.
-- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）
+- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 由丽莎·亚当斯（Lisa Adams）和科迪·罗尔夫（Codie Roelf）创作.
 - [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) 哈里斯·拉皮罗夫（Harris Lapiroff）撰写.
 - [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) 由Zarina Mustapha提供.
 - [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) 由Ryan Verner撰写.
@@ -275,7 +277,7 @@
 
 ### Podcasts
 
-- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) -在这一集中，汤姆·戴森（Tom Dyson）解释了Wagtail的创建方式，将其与其他选项区分开的地方以及何时为项目实现它.
+- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) -在这一集中，汤姆·戴森（Tom Dyson）解释了Wa的创建方法，将Wa与其他选项区分开的原因以及何时为项目实施它.
 - [Django Chat: Wagtail CMS - Tom Dyson](https://django-chat.simplecast.com/episodes/wagtail-cms-tom-dyson) -在Wagtail上接受Tom Dyson的采访，Wagtail是基于Django的领先CMS，被包括Google，NASA和英国NHS在内的数以万计的组织使用.
 
 ### Videos
@@ -325,7 +327,7 @@
 - [Jordi Joan’s blog](https://github.com/jordij/jordijoan.me) –使用Wagtail CMS的个人博客网站.
 - [Localore: Finding America](https://github.com/ghostwords/localore) –基于Wagtail的CMS和适用于Localore：Finding America的Ansible剧本.
 - [Adventure Capitalists](https://github.com/AdventureCapitalists/website) – Wagtail支持的网站，适用于全球唯一的投资乐队.
-- [NHS.UK Content Store](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK content store and editing app.
+- [NHS.UK Content Store](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK内容存储和编辑应用程序.
 - [dev.hel.fi](https://github.com/City-of-Helsinki/devheldev) –带有Wa的赫尔辛基市开发场地.
 - [Digital Helsinki](https://github.com/City-of-Helsinki/digihel) –赫尔辛基市数字赫尔辛基Wagtail CMS.
 - [Secure the News](https://github.com/freedomofpress/securethenews) –自动化的扫描仪和Web仪表板，用于跟踪新闻组织中的TLS部署.

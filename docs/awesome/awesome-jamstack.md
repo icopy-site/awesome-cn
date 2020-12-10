@@ -127,10 +127,10 @@
 
 - [Formcarry](https://formcarry.com) -适用于表单的无障碍HTML表单端点，功能强大的仪表板，可靠的垃圾邮件阻止功能，附件上传功能和Zapier集成.
 - [Formcake](https://formcake.com) -为开发人员构建的表单后端：Zapier集成，零依赖关系，简单的API和无限的表单.
-- [Getform](https://getform.io) - Form backend platform for designers and developers. Setup your form endpoints for your static site within minutes and expand your data with Zapier integration and Webhooks support.
+- [Getform](https://getform.io)  -面向设计人员和开发人员的表单后端平台. 在几分钟之内为您的静态站点设置表单端点，并通过Zapier集成和Webhooks支持扩展数据.
 - [Netlify Forms](https://www.netlify.com/docs/form-handling/) -通过在部署时直接解析HTML文件，在构建时进行内置表单处理.
 - [StaticKit](https://statickit.com) -静态网站的现代形式，以及用于React和HTML的客户端库.
-- [Arengu](https://www.arengu.com) -使用Arengu构建注册和登录表单，启用社交登录，添加2FA或使用无密码流程通过您的API或身份提供者对用户进行身份验证.
+- [Arengu](https://www.arengu.com) -使用Arengu构建注册和登录表单，启用社交登录，添加2FA或使用无密码流来通过您的API或身份提供者对用户进行身份验证.
 
 ### E-commerce
 
@@ -141,6 +141,7 @@
 - [Trolley](https://trolley.link) -专为Jamstack设计的购物车.
 - [Shopify](https://www.shopify.co.uk/plus/solutions/headless-commerce) -Shopify无头电子商务解决方案.
 - [Commerce.js](https://commercejs.com/) -针对开发人员的API优先电子商务平台.
+- [CartQL](https://cartql.com/) -为Jamstack构建的GraphQL购物车和Checkout API，可与任何框架和库存一起使用.
 
 ### Search
 
@@ -182,10 +183,10 @@
   - [BigQuery](https://cloud.google.com/bigquery/) -无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) -无服务器的机器学习服务，可在自定义Google硬件（张量处理单元）上自动缩放.
 - [Serverless](https://serverless.com/) -用于部署和操作无服务器架构的工具包.
-- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台. 为Jamstack提供各种流行语言和媒体窗口小部件的SDK，使您可以轻松管理媒体，CDN，存储，转换等.
+- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台. 为Jamstack提供每种流行语言和媒体窗口小部件的SDK，从而轻松管理媒体，CDN，存储，转换等.
 - [imgix](https://www.imgix.com/)  -无服务器图像传送和管理服务.  imgix连接到图像的存储位置（例如S3，GCS，Web文件夹），并使用简单而强大的URL参数来转换，优化和智能地传递图像.
 - [Elastictable](https://www.elastictable.com) -建立在AWS之上的后端即服务解决方案已缺失，无法提高在线业务的成功率. 
-- [Stormkit](https://stormkit.io)  -适用于由AWS提供支持的现代javascript应用程序的强大的无服务器基础架构. 它与您的git flow集成，并无缝构建，部署和扩展您的应用程序.
+- [Stormkit](https://stormkit.io)  -适用于由AWS提供支持的现代javascript应用程序的强大无服务器基础架构. 它与您的git flow集成，并无缝构建，部署和扩展您的应用程序.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
@@ -193,7 +194,7 @@
 
 - [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) -Matt Biilmann.
 - [Rise of the Jamstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -Mathias Biillman.
-- [Jamstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) -菲尔·霍克斯沃思（Phil Hawksworth）.
+- [Jamstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) - Phil Hawksworth.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) -克里斯·麦克雷（Chris Macrae）.
 - [Jamstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -遍历媒体.

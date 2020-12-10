@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精选的Perl5框架，库和软件的精选列表. 受启发 [awesome-go](https://github.com/avelino/awesome-go).
+精选的Perl5资源精选清单，包括框架，库和软件. 受启发 [awesome-go](https://github.com/avelino/awesome-go).
 
 不是Perl6模块；-P
 
@@ -24,7 +24,7 @@
 
 * [Data::Validator](https://metacpan.org/pod/Data::Validator) -基于规则的类型约束系统验证器.
 * [Params::Util](https://metacpan.org/pod/Params::Util) -简单，紧凑和正确的参数检查功能.
-* [Params::Validate](https://metacpan.org/pod/Params::Validate) -验证方法/功能参数.
+* [Params::ValidationCompiler](https://metacpan.org/pod/Params::ValidationCompiler) -验证方法/功能参数.
 * [Smart::Args](https://metacpan.org/pod/Smart::Args)
 
 ## Audio
@@ -38,7 +38,7 @@
 
 * [Benchmark](https://metacpan.org/pod/Benchmark)
 * [Dumbbench](https://metacpan.org/pod/Dumbbench)
-* [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) -多进程基准
+* [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) - Benchmark in multiprocesses
 
 ## Caches
 
@@ -51,7 +51,7 @@
 * [CHI::Driver::MongoDB](https://metacpan.org/pod/CHI::Driver::MongoDB) -CHI的MongoDB驱动程序
 * [CHI::Driver::Redis](https://metacpan.org/pod/CHI::Driver::Redis) -CHI的Redis驱动程序
 * [Catalyst::Plugin::Session::Store::CHI](https://metacpan.org/pod/Catalyst::Plugin::Session::Store::CHI) -使用CHI模块处理会话数据的存储后端
-* [CGI::Application::Plugin::CHI](https://metacpan.org/pod/CGI::Application::Plugin::CHI) - CGI-App plugin for CHI caching interface
+* [CGI::Application::Plugin::CHI](https://metacpan.org/pod/CGI::Application::Plugin::CHI) -用于CHI缓存界面的CGI-App插件
 * [Mojolicious::Plugin::CHI](https://metacpan.org/pod/Mojolicious::Plugin::CHI) -与CHI缓存交互
 
 
@@ -63,7 +63,7 @@
 * [Class::Accessor::Lite::Lazy](https://metacpan.org/pod/Class::Accessor::Lite::Lazy) -生成惰性访问器.
 * [Homer](https://metacpan.org/pod/Homer) -基于简单原型的对象系统.
 * [Mo](https://metacpan.org/pod/Mo)  -微型对象. 钼少.
-* [Moo](https://metacpan.org/pod/Moo) - Class builder supporting meta programming.
+* [Moo](https://metacpan.org/pod/Moo) -支持元编程的类生成器.
 * [Moose](https://metacpan.org/pod/Moose) -唯一的，驼鹿.
 * [Mouse](https://metacpan.org/pod/Mouse) -另一个类构建器，例如Moo / Moose.
 * [Object::Pad](https://metacpan.org/pod/Object::Pad)  -`class Example {有$ x; 方法阅读器{return $ x}}`，用于 [Cor](https://gist.github.com/Ovid/68b33259cb81c01f9a51612c7a294ede)
@@ -126,7 +126,7 @@
 *用于处理关系数据库的库*
 
 * [DBI](https://metacpan.org/pod/DBI)
-* [DBIx::Connector](https://metacpan.org/pod/DBIx::Connector) -快速，安全的DBI连接和事务管理
+* [DBIx::Connector](https://metacpan.org/pod/DBIx::Connector) - Fast, safe DBI connection and transaction management
 * [DBIx::Handler](https://metacpan.org/pod/DBIx::Handler) -叉子安全的DBI处理程序
 * [DBIx::Inspector](https://metacpan.org/pod/DBIx::Inspector)
 * [DBIx::QueryLog](https://metacpan.org/pod/DBIx::QueryLog)
@@ -326,6 +326,7 @@
 *消息队列，作业队列系统.. *
 
 * [Gearman](https://metacpan.org/pod/Gearman)
+* [Minion](https://docs.mojolicious.org/Minion) -Pure-Perl作业队列
 * [Net::RabbitMQ](https://metacpan.org/pod/Net::RabbitMQ)
 * [Net::Stomp](https://metacpan.org/pod/Net::Stomp)
 * [Qudo](https://metacpan.org/pod/Qudo)

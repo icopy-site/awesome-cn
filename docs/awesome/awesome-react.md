@@ -57,6 +57,7 @@
 - [TypeScript, React and Webpack](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html)
 - [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
+- [React by Example](https://reactbyexample.github.io/)
 
 ##### React Performance
 
@@ -772,6 +773,6 @@
 
 ### Contribution
 
-该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情. 请不要将此列表用作广告板或公开推广实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+该列表最初是关于React有趣的事情的个人收藏. 在React刚开始处于Beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情. 请不要将此列表用作广告板或公开推广实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

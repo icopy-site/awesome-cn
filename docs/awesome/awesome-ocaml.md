@@ -165,10 +165,13 @@
   - [Irmin](https://github.com/mirage/irmin) —遵循与Git相同的设计原则的分布式数据库.
   - [Obigstore](http://obigstore.forge.ocamlcore.org/) —在LevelDB上具有类似BigTable数据模型的数据库.
   - [RunOrg](https://github.com/RunOrg/RunOrg) -这是用OCaml编写的WIP数据库服务器.
+  - [dokeysto](https://github.com/UnixJunkie/dokeysto) -哑OCaml键值存储，字符串键和字符串
+  价值观. 可选的即时LZ4压缩值或tokyocabinet后端.
+
 -**叠加**
   - [Sequoia](https://github.com/andrenth/sequoia) -Sequoia是MySQL / MariaDB和PostgreSQL的类型安全查询构建器
   - [Macaque](https://github.com/ocsigen/macaque) —猕猴是使用PG&#39;OCaml之上的理解功能进行安全灵活的数据库查询的库.
-  - [ORM](https://github.com/mirage/orm) — ORM for SQLite.
+  - [ORM](https://github.com/mirage/orm) — SQLite的ORM.
   - [Caqti](https://github.com/paurkedal/ocaml-caqti) -合作关系数据访问
 -**文章**：
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
@@ -191,7 +194,7 @@
 - [utop](https://github.com/ocaml-community/utop) – OCaml的通用顶层，支持多行版本，历史记录，实时和上下文相关的补全，颜色等.
 - [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) -格式化OCaml代码的命令行工具.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html)  –使用LablTk编写的源代码和编译界面浏览器. 包含在ocaml &lt;= 4.01的标准发行版中，以及包含在labml&gt; = 4.02的labltk中.
-- [ghim](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
+- [ghim](https://github.com/samoht/ghim) –用于管理Github问题的命令行工具.
 - [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) –支架式OCaml模块的Yeoman发电机.
 
 -**外部功能接口**：
@@ -273,7 +276,7 @@
 
 ## User Interface
 
-- [lablgtk](http://lablgtk.forge.ocamlcore.org/) — OCaml的GTK2绑定，具有各种高级功能来定义GUI.
+- [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.
 - [lablqml](https://github.com/Kakadu/lablqml) – OCaml的QML Qt5绑定.
 - [labltk](https://forge.ocamlcore.org/projects/labltk/)  — Tcl / Tk GUI框架的接口. 在ocaml &lt;= 4.01的标准发行版中.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl是OCaml模块，提供对跨平台SDL库的精简绑定.
@@ -505,7 +508,7 @@
 - [Alcotest](https://github.com/mirage/alcotest) –轻巧而丰富多彩的测试框架.
 - [OUnit](http://ounit.forge.ocamlcore.org/)  – OUnit是OCaml的单元测试框架. 它使人们可以轻松地为OCaml代码创建单元测试. 它基于HUnit，这是Haskell的单元测试框架.
 - [QCheck](https://github.com/c-cube/qcheck) — QCheck是一个受Haskell QuickCheck启发的属性测试库
-- [iTeML](https://github.com/vincent-hugot/iTeML) （原名 [qtest](http://batteries.vhugot.com/qtest/)）-支持内联编译指示生成测试.
+- [iTeML](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/)）-支持内联编译指示生成测试.
 - [Kaputt](http://kaputt.x9c.fr/) —全面的测试框架.
 - [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —常规的内联测试宏.
 - [TestSimple](https://github.com/hcarty/ocaml-testsimple) -与 [Test Anything Protocol](https://testanything.org/).

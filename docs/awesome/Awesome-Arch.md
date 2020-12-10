@@ -23,7 +23,7 @@
 
 &gt;基于Arch Linux的非Linux项目.
 
-- [PacBSD](https://pacbsd.org/) -轻巧灵活的BSD发行版，为使用pacman软件包管理器提供了基础系统.
+- [PacBSD](https://github.com/pacbsd) -轻巧灵活的BSD发行版，为使用pacman软件包管理器提供了基础系统.
 - [Arch Hurd](https://archhurd.org/) -Arch Linux的衍生作品，通过针对i686架构进行了优化的软件包将其移植到GNU Hurd系统.
 - [ArchWSL](https://git.io/archwsl) -ArchLinux作为WSL实例.
 
@@ -35,7 +35,7 @@
 
 - [Manjaro](https://manjaro.org/) -专业制作的基于Linux的操作系统，可以替代Windows或macOS.
 - [ArcoLinux](https://arcolinux.com/) -功能齐全的发行版.
-- [ArchBang Linux](http://archbang.org/) - A lightweight distribution based on Arch Linux.
+- [ArchBang Linux](http://archbang.org/) -基于Arch Linux的轻量级发行版.
 - [Archcraft OS](https://archcraft-os.github.io/) -简约的Linux发行版，专注于美学并且基于Arch Linux.
 - [Archman](http://archman.org/) -基于Arch Linux的发行版，具有Calamares系统安装程序和预配置的桌面环境.
 - [Bluestar Linux](https://sourceforge.net/projects/bluestarlinux/) -基于Arch Linux的GNU / Linux发行版.
@@ -45,7 +45,7 @@
 - [ArchEX](http://archex.exton.net/)  -基于Arch Linux的新的（190612）Linux live DVD. 座右铭是KISS（保持简单愚蠢.
 - [Arch XFerience](https://www.xferience.org/) -基于Arch Linux的现代OS，具有大量软件包和功能，可用于日常操作.
 - [Ctlos Linux](https://ctlos.github.io/) -基于Arch Linux的发行版.
-- [MagpieOS](https://www.magpieos.net/) -获得Arch的全新体验.
+- [MagpieOS](https://github.com/magpie-linux) -获得Arch的全新体验.
 - [Netrunner Rolling](https://www.netrunner.com/netrunner-rolling-release/) -基于Manjaro / Arch Linux的发行版.
 - [PuppyRus-A](https://sourceforge.net/projects/puppyrusa/) -基于Arch，Puppy，Porteus的轻便，便携式和灵活的Linux.
 - [TeLiSc OS](https://sourceforge.net/projects/telisc-os/) -基于Arch Linux的简单GNU / Linux发行版，可为您提供带有i3窗口管理器的稳定Arch Linux.
@@ -89,6 +89,7 @@
 &gt;专门为促进Linux Arch的安装而创建的安装程序.
 
 - [Anarchy](https://anarchyinstaller.org/) -简单直观的Arch Linux安装程序.
+- [Archfi](https://github.com/MatMoul/archfi) -在正式的Arch Linux安装介质上启动后，只需一个简单的bash脚本向导即可安装Arch Linux.
 
 ## AUR Helpers
 
@@ -138,7 +139,7 @@
 
 - [aur-talk](https://github.com/GermainZ/aur-talk) -提取和显示AUR软件包注释的脚本.
 - [aurvote-utils](https://github.com/jadenPete/aurvote-utils) -一组用于管理AUR投票的实用程序.
-- [haskell-aur](https://hackage.haskell.org/package/aur) -Haskell库，用于访问Aurweb RPC接口.
+- [haskell-aur](https://hackage.haskell.org/package/aur) - Haskell library for accessing Aurweb RPC interface.
 - [package-query](https://github.com/archlinuxfr/package-query) -查询`libalpm`和AUR的工具.
 - [python3-aur](https://xyne.archlinux.ca/projects/python3-aur) -与AUR相关的模块和帮助程序实用程序（aurploader，aurquery，aurtomatic）.
 - [raur](https://gitlab.com/davidbittner/raur) -用于访问Aurweb RPC接口的Rust库.

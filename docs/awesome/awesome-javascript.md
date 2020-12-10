@@ -295,7 +295,7 @@
 * [docco](http://jashkenas.github.io/docco/) 是一个快速而肮脏的，长达一百行的，具有文化编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从您的样式表生成文档和样式指南文档.
 * [Ronn](https://github.com/rtomayko/ronn) 建立手册. 它将简单的，人类可读的文本文件转换为roff以进行终端显示，还转换为HTML以进行网络显示.
-* [dox](https://github.com/tj/dox) 是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成自以为是的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
+* [dox](https://github.com/tj/dox) 是用node编写的JavaScript文档生成器.  Dox不再为您的文档生成确定的结构或样式，它只是为您提供JSON表示形式，使您可以使用markdown和JSDoc样式的标签.
 * [jsdox](https://github.com/sutoiku/jsdox) 是Markdown的JSDoc3文档生成器.
 * [ESDoc](https://github.com/esdoc/esdoc) 是JavaScript的很好的文档生成器.
 * [YUIDoc](http://yui.github.io/yuidoc/) 是一个Node.js应用程序，它使用类似于Javadoc和Doxygen之类的语法从源注释中生成API文档.
@@ -672,7 +672,7 @@
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) -具有进度条，拖放，直接到S3上传的多个文件上传插件.
 * [FileAPI](https://github.com/mailru/FileAPI)  -一组用于处理文件的JavaScript工具. 多重上传，拖放和分块文件上传. 图片：通过EXIF裁剪，调整大小和自动定向.
 * [plupload](https://github.com/moxiecode/plupload) -用于处理文件上传的JavaScript API，它支持多个文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并且使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
-* [filepond](https://github.com/pqina/filepond) -一个JavaScript库，可以上传您扔给它的任何内容，优化图像以加快上传速度，并提供出色的，可访问的，柔滑的用户体验.
+* [filepond](https://github.com/pqina/filepond) -一个JavaScript库，可以上传您扔给它的所有内容，优化图像以加快上传速度，并提供出色的，可访问的，柔滑的用户体验.
 
 ### Other
 
@@ -794,7 +794,7 @@
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media)  -启用<video>和<audio>所有主要浏览器中的标签.<https://html5media.info/>
- * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，可通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频曲目队列并播放一系列歌曲.
+ * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) -用于网络的HTML5视频播放器
  <https://flowplayer.org/>
@@ -897,6 +897,7 @@ http://www.listjs.com
 * [emoji-button](https://github.com/joeattardi/emoji-button) -香草JavaScript表情符号选择器组件
 * [iooxa](https://github.com/iooxa/article) -交互式科学写作，反应性文档和可解释性说明的组成部分.
 * [Idyll](https://github.com/idyll-lang/idyll)  -创建可解释的解释和交互式讲故事的文章. 可 [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) -用JavaScript实现的算法和数据结构，并带有解释和进一步阅读的链接.
 
 
 ## Podcasts
