@@ -32,7 +32,7 @@
 
 ## Humane design
 
-人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中单独跟踪，该策展列表是 [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) on Codeberg.
+人性化设计是人性化技术的一个子集，也是信息技术的一个新兴领域. 此空间中的资源在策展列表中单独跟踪，该策展列表是 [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) 在Codeberg上.
 
 - [delightful-humane-design <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-humane-design) -为UX设计人员和开发人员精心设计的人性化设计资源列表.
 - [delightful-small-ai <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful-small-ai) -精选的开放式人性化人工智能资源列表.
@@ -76,7 +76,7 @@
 - [ghacks user.js](https://github.com/ghacksuserjs/ghacks-user.js) -用于配置和强化Firefox隐私，安全性和防指纹功能的user.js模板.
 - [user.js](https://github.com/pyllyukko/user.js) -Firefox的配置，可强化浏览器设置并使其更加安全.
 - [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) -模拟内容交付网络的浏览器扩展，可改善您的在线隐私.
-- [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) -浏览器扩展允许通过更改User-Agent标头伪装成另一个浏览器.
+- [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - Browser extension allows posing as another browser by changing User-Agent header.
 - [Random User-Agent](https://github.com/tarampampam/random-user-agent) -在指定的时间间隔后自动替换User-Agent的浏览器扩展.
 - [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smart-referer/smart-referer/) -浏览器扩展，可在更改域时自动隐藏引用.
 - [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) -浏览器扩展程序，可防止通过Javascript Canvas API进行指纹识别.
@@ -140,7 +140,7 @@
 - [Ackee](https://ackee.electerious.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/electerious/Ackee) -基于Node.js的自托管分析工具，适合那些关心隐私的人.
 - [Koko Analytics](https://www.kokoanalytics.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ibericode/koko-analytics) -不使用外部服务且尊重访问者隐私的WordPress插件.
 - [freshlytics](https://freshlytics.gitbook.io/docs/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/sheshbabu/freshlytics) -自我托管的隐私友好型，可靠且易于部署的分析服务.
-- [Plausible Analytics](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/plausible/analytics)  -简单，轻量级（&lt;1 KB）和易于使用的Web分析. 托管在欧盟.
+- [Plausible Analytics](https://plausible.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/plausible/analytics)  -简单，轻量级（&lt;1 KB）和对隐私友好的Web分析. 托管在欧盟.
 - [Goatcounter](https://www.goatcounter.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zgoat/goatcounter)  -简单的网络统计. 不追踪个人数据.
 - [Open Web Analytics](http://www.openwebanalytics.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/padams/Open-Web-Analytics) -掌握如何衡量和分析网站和应用程序使用情况的控制权.
 - [Shynet](https://github.com/milesmcc/shynet) -无需使用Cookie或JS即可进行隐私保护的详细网络分析.
@@ -204,6 +204,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Barinsta](https://barinsta.austinhuang.me) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/austinhuang0131/barinsta) -适用于Android的自由，替代和轻量级的Instagram客户端.
 - [SocialAmnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) -电子应用程序，以确保您的社交媒体帐户仅显示您最近的历史记录中的帖子.
 - [YouTubeSearchFixer](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/phoennix/youtubesearchfix) -Firefox插件，用于修复搜索，使主页整洁并减少UI的干扰.
+- [Teddit](https://teddit.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teddit/teddit) -替代Reddit前端专注于隐私.
 
 ## Freedom
 

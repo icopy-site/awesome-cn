@@ -8,8 +8,7 @@
 
  Electron是一个开放源代码框架，用于使用Web技术创建桌面应用程序. 它结合了Chromium渲染引擎和Node.js运行时.
 
-- [Who is hiring?](https://github.com/sindresorhus/awesome-electron/issues/612)
-- [Who wants to be hired?](https://github.com/sindresorhus/awesome-electron/issues/613)
+**您现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.** 
 
 <br>
 

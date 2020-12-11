@@ -34,6 +34,8 @@
 	<br>
 </div>
 
+**您现在可以 [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) 就在此仓库中.**
+
 
 
 ## Packages
@@ -132,7 +134,7 @@
 - [lodash](https://github.com/lodash/lodash)  -实用程序库，可提供一致性，自定义，性能和其他功能. 更好更快的Underscore.js.
 - [immutable](https://github.com/facebook/immutable-js) -不可变的数据收集.
 - [Ramda](https://github.com/ramda/ramda)  -实用程序库，侧重于通过自动计算和相反的参数顺序实现的灵活功能组合. 避免变异数据.
-- [Folktale](https://github.com/origamitower/folktale) -使用JavaScript进行通用功能编程的库套件，使您可以编写优雅的模块化应用程序，并减少错误并增加重用.
+- [Folktale](https://github.com/origamitower/folktale) -使用JavaScript进行通用功能编程的库套件，使您可以编写优雅的模块化应用程序，减少错误并增加重用.
 - [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
 - [Bacon.js](https://github.com/baconjs/bacon.js) -功能反应式编程.
 - [RxJS](https://github.com/reactivex/rxjs) -功能性反应式库，用于转换，合成和查询各种数据.
@@ -284,6 +286,7 @@
 - [Zeronode](https://github.com/sfast/zeronode) -可靠和容错的微服务的最小构建块.
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) -用于使用TypeScript使用类和装饰器创建GraphQL API的现代框架.
 - [Tinyhttp](https://github.com/talentlessguy/tinyhttp) -现代化，快速的类似Express的Web框架.
+- [Marble.js](https://github.com/marblejs/marble) -基于TypeScript和RxJS的用于构建服务器端应用程序的功能性响应框架.
 
 ### Documentation
 
@@ -301,7 +304,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除“ rm -rf”之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机的fsevents.
+- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机fsevents的事件.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -342,7 +345,7 @@
 
 ### Streams
 
-- [through2](https://github.com/rvagg/through2) -围绕streams2的微小包装器进行转换以避免显式的子类化噪声.
+- [through2](https://github.com/rvagg/through2) -围绕streams2的微小包装器.
 - [from2](https://github.com/hughsk/from2) -ReadableStream的便利包装，灵感来自`through2`.
 - [get-stream](https://github.com/sindresorhus/get-stream) -获取流作为字符串或缓冲区.
 - [into-stream](https://github.com/sindresorhus/into-stream) -将缓冲区/字符串/数组/对象转换为流.
@@ -378,14 +381,14 @@
 - [gm](https://github.com/aheckmann/gm) -GraphicsMagick和ImageMagick包装器.
 - [lwip](https://github.com/EyalAr/lwip) -不需要ImageMagick的轻型图像处理器.
 - [pica](https://github.com/nodeca/pica)  -纯JS中的高质量和快速调整大小（lanczos3）. 当不允许像素化时，替代canvas drawImage（）.
-- [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
+- [jimp](https://github.com/oliver-moran/jimp) -使用纯JavaScript进行图像处理.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) -无需完全下载即可获取大多数图像格式的大小.
 - [qrcode](https://github.com/soldair/node-qrcode) -QR码和条形码生成器.
 
 ### Text
 
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) -转换字符编码.
-- [string-length](https://github.com/sindresorhus/string-length) -通过正确计算星号并忽略ansi转义码来获取字符串的真实长度.
+- [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 - [camelcase](https://github.com/sindresorhus/camelcase) -将破折号/点号/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) -转义RegExp特殊字符.
 - [execall](https://github.com/sindresorhus/execall) -在一个字符串中找到多个RegExp匹配项.
@@ -422,7 +425,7 @@
 - [Luxon](https://github.com/moment/luxon) -用于处理日期和时间的库.
 - [date-fns](https://github.com/date-fns/date-fns) -现代日期实用程序.
 - [Moment.js](http://momentjs.com) -解析，验证，操作和显示日期.
-- [Day.js](https://github.com/iamkun/dayjs) -不可变的日期库替代Moment.js.
+- [Day.js](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) -日期格式.
 - [tz-format](https://github.com/samverschueren/tz-format) -格式化带时区的日期：`2015-11-30T10：40：35 + 01：00`.
 - [cctz](https://github.com/floatdrop/node-cctz) -快速的日期解析，格式化和时区对话.
@@ -457,7 +460,7 @@
 - [URI.js](https://github.com/medialize/URI.js) -URL突变.
 - [PostCSS](https://github.com/postcss/postcss) -CSS解析器/字符串化器.
 - [JSONStream](https://github.com/dominictarr/JSONStream) -流JSON.parse和stringify.
-- [neat-csv](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
+- [neat-csv](https://github.com/sindresorhus/neat-csv)  -快速CSV解析器. 以上的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) -旨在比其他所有人更快的流式CSV解析器.
 - [PEG.js](https://github.com/pegjs/pegjs) -简单的解析器生成器，可生成具有出色错误报告的快速解析器.
 - [x-ray](https://github.com/lapwinglabs/x-ray) -网络抓取工具.

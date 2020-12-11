@@ -87,6 +87,9 @@
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) -有关Apache JMeter的精选资源.
 - [How They Test](https://github.com/abhivaikar/howtheytest) -精选的高科技公司公共资源，用于他们如何测试软件和建立优质文化
 
+## QA and Testing Road Map
+- [How to start QA and Testing career](https://github.com/fityanos/Quality-Assurance-Road-Map) -从事软件测试和自动化职业所需的大量策略，主题和技能.
+
 ## Others
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) -测试人员的协作播放列表，用于确定红色雾气何时下降.
 - [Software Testing Conferences](http://testingconferences.org/) -软件测试会议和研讨会的列表.

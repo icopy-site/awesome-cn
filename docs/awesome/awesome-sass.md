@@ -35,6 +35,7 @@
 - [Bootstrap 4](https://github.com/twbs/bootstrap) -Bootstrap版本4，最流行的HTML，CSS和JS框架，用于在网络上开发响应式，移动优先项目.
 - [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) -Bootstrap 2和3.的官方Sass端口
 - [Bulma](https://github.com/jgthms/bulma) -基于Flexbox的现代CSS框架.
+- [Cirrus](https://github.com/Spiderpig86/Cirrus) -以组件和实用程序为中心的SCSS框架，旨在实现快速原型制作.
 - [Foundation for Sites](https://github.com/zurb/foundation-sites)  -世界上最先进的响应式前端框架. 为可在任何设备上运行的网站快速创建原型和生产代码.
 - [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) -通用且轻便的样式表入门套件，重点关注基本html元素和版式.
 - [iotaCSS](https://www.iotacss.com) -基于Sass的开源OOCSS框架，可实现规模化.
@@ -70,7 +71,7 @@
 - [brand-colors](http://brand-colors.com/) -Sass，Less，Stylus和CSS提供1100多种流行品牌颜色.
 - [Open color](https://github.com/yeun/open-color)  -开放颜色是用于UI设计的配色方案. 在CSS，SCSS，LESS，Stylus，Adobe库，Photoshop / Illustrator色板和Sketch调色板中可用.
 - [sass-planifolia](https://github.com/xi/sass-planifolia) -高级香草色中的颜色处理和对比度计算.
-- [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) -在Sass中使用标准的色彩混合功能.
+- [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
 
 ### Typography
 - [Sassline](https://sassline.com/) -使用响应式模块化比例尺，使用Sass＆rems将网络上的文本设置为基线网格.
@@ -92,7 +93,7 @@
 - [Buttons](https://github.com/alexwolfe/Buttons) -使用Sass和Compass构建的CSS按钮库.
 - [csstyle](https://csstyle.io) -一个SCSS库，可帮助您构建模块化CSS，该CSS为您生成选择器并自动处理特定性.
 - [Family.scss](http://lukyvj.github.io/family.scss/) -一组26个智能Sass mixins，将帮助您以简单而优雅的方式管理：nth-​​child&#39;ified元素的样式.
-- [Gerillass](https://gerillass.com/) - A Sass mixin library to help you create modern web sites.
+- [Gerillass](https://gerillass.com/) -一个Sass mixin库，可帮助您创建现代网站.
 - [Juice](http://kylebrumm.com/juice/) -Sass mixins和功能的集合.
 - [Modular Scale](https://github.com/modularscale/modularscale-sass) -内置于Sass中的模块化比例计算器.
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -Sass / Compass版本的Normalize.css，它是HTML元素和属性规则集的集合，用于在所有浏览器中规范样式.
