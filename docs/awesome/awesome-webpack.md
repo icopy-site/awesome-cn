@@ -62,7 +62,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 #### File Type
 
 - [File Loader](https://github.com/webpack/file-loader) ：Webpack的文件加载器模块.  -* Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
-- [URL Loader](https://github.com/webpack/url-loader): URL loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [URL Loader](https://github.com/webpack/url-loader) ：Webpack的URL加载器模块.  -* Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [HTML Loader](https://github.com/webpack/html-loader) ：用于Webpack的HTML加载程序模块.  -* Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Raw Loader](https://github.com/webpack/raw-loader) ：Webpack的原始文件加载器模块.  -* Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Image Loader](https://github.com/thetalecrafter/img-loader) ：用于webpack的图像加载器最小化.  -* Maintainer *：`Andy VanWagoner` [！[Github] [githubicon]]（https://github.com/thetalecrafter）[！[Twitter] [twittericon]]（https://twitter.com/thetalecrafter）
@@ -134,7 +134,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [ngRouter Loader](https://github.com/shlomiassaf/ng-router-loader) -使用角度路由器的支持AOT的NgModule延迟加载-* Maintainer *：`Shlomi Assaf` [！[Github] [githubicon]]（https://github.com/shlomiassaf）[！[Twitter] [twittericon]]（https ：//twitter.com/shlomiassaf）
 - [Lingui Loader](https://github.com/lingui/js-lingui/tree/master/packages/loader) -为jsLingui，i18n库即时编译消息目录-* Maintainer *：`TomášEhrlich` [！[Github] [githubicon]]（https://github.com/tricoder42）[！[Twitter] [twittericon] ]（https://twitter.com/tomas_ehrlich）
 - [Shell Loader](https://github.com/localjo/shell-loader)  -在源文件上运行任意的Shell脚本.  -* Maintainer *：`Jo Sprague` [！[Github] [githubicon]]（https://github.com/localjo）
-- [EXIF Loader](https://github.com/herschel666/exif-loader)  -在构建期间从JPG提取EXIF和IPTC数据.  -* Maintainer *：`Emanuel Kluge` [！[Github] [githubicon]]（https://github.com/herschel666/exif-loader）[！[Twitter] [twittericon]]（https：// twitter. com / herschel_r）
+- [EXIF Loader](https://github.com/herschel666/exif-loader) - Extract EXIF- & IPTC-data from your JPGs during build-time. -- *Maintainer*: `Emanuel Kluge` [![Github][githubicon]](https://github.com/herschel666/exif-loader) [![Twitter][twittericon]](https://twitter.com/herschel_r)
 
 #### Testing
 
@@ -169,7 +169,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [CoreJS Plugin](https://github.com/gdi2290/core-js-webpack-plugin)  -Core-JS作为webpack插件.  -* Maintainer *：`PatrickJS` [！[Github] [githubicon]]（https://github.com/gdi2290）
 - [Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer)  -将包表示为交互式树图的实用程序.  -* Maintainer *：`Yuriy Grunin` [！[Github] [githubicon]]（https://github.com/th0r）
 - [Module Mapping](https://github.com/spartez/module-mapping-webpack-plugin)  -将模块映射到不同的文件.  -* Maintainer *：`Spartez Team` [！[Github] [githubicon]]（https://github.com/spartez）[！[Twitter] [twittericon]]（https://twitter.com/thisisspartez）
-- [Serverless Webpack](https://github.com/elastic-coders/serverless-webpack)  -无服务器插件可捆绑您的lambda.  -* Maintainer *：`Elastic Coders` [！[Github] [githubicon]]（https://github.com/elastic-coders）[！[Twitter] [twittericon]]（https://twitter.com/ ElasticCoders）
+- [Serverless Webpack](https://github.com/elastic-coders/serverless-webpack) - Serverless plugin to bundle your lambdas. -- *Maintainer*: `Elastic Coders` [![Github][githubicon]](https://github.com/elastic-coders) [![Twitter][twittericon]](https://twitter.com/ElasticCoders)
 - [Prerender SPA](https://github.com/chrisvfritz/prerender-spa-plugin)  -SPA的与框架无关的静态站点生成.  -* Maintainer *：`Chris Fritz` [！[Github] [githubicon]]（https://github.com/chrisvfritz）[！[Twitter] [twittericon]]（https://twitter.com/chrisvfritz）
 - [Static Site Generator Plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin)  -最小的，不受限制的静态站点生成器.  -* Maintainer *：`Mark Dalgleish` [！[Github] [githubicon]]（https://github.com/markdalgleish）
 - [SVG Sprite Plugin](https://github.com/TodayTix/svg-sprite-webpack-plugin)  -SVG精灵和图标的插件.  -*维护者*：`Jeremy Tice`（[`TodayTix`](https://github.com/TodayTix)）[！[Github] [githubicon]]（https://github.com/jetpacmonkey）[！[Twitter] [twittericon]]（https://twitter.com/jetpacmonkey）
@@ -200,7 +200,8 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Stylelint Webpack Plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin) ：用于Webpack的Stylelint插件.  -* Maintainer *：`Ricardo Gobbo de Souza` [！[Github] [githubicon]]（https://github.com/ricardogobbosouza）
 - [ESLint Webpack Plugin](https://github.com/webpack-contrib/eslint-webpack-plugin)：适用于webpack的ESLint插件
  .  -* Maintainer *：`Ricardo Gobbo de Souza` [！[Github] [githubicon]]（https://github.com/ricardogobbosouza）
- [Webpack Shell Plugin Next](https://github.com/s00d/webpack-shell-plugin-next) ：插件允许您在Webpack构建之前或之后运行任何Shell命令.  -* Maintainer *：`Kuzmin Pavel` [！[Github] [githubicon]]（https://github.com/s00d）
+- [Webpack Shell Plugin Next](https://github.com/s00d/webpack-shell-plugin-next) ：插件允许您在Webpack构建之前或之后运行任何Shell命令.  -* Maintainer *：`Kuzmin Pavel` [！[Github] [githubicon]]（https://github.com/s00d）
+- [Gettext Webpack Plugin](https://github.com/juanluispaz/gettext-webpack-plugin) ：使用gettext将本地化嵌入包中.  -* Maintainer *：`Juan Luis Paz` [！[Github] [githubicon]]（https://github.com/juanluispaz）
 
 
 ### Webpack Tools
@@ -263,7 +264,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
  -AngularAir上的肖恩·拉金|  16年8月3日- [ngAir 75 - Webpack 2 with Sean Larkin.](https://plus.google.com/events/c76mih8qcjj0ffocpdlcbegvejs)
  -Eric Clemmons与Kent C. Dodds聊天|  2016年7月1日- [Webpack HMR.](https://www.youtube.com/watch?v=PthDwpgrhmQ)
  -Mirko Nasato（5部分系列）|  2016年6月7日- [Angular2 with Webpack Project Setup.](https://www.youtube.com/playlist?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p)
- -Nodevember的乔纳森·克里默|  15年12月5日- [Advanced WebPack.](https://www.youtube.com/watch?v=MzVFrIAwwS8)
+- Jonathan Creamer at Nodevember | 05-Dec-15 - [Advanced WebPack.](https://www.youtube.com/watch?v=MzVFrIAwwS8)
  -Kyle Robinson Young |  2015年7月8日- [Getting Started with Webpack.](https://www.youtube.com/watch?v=TaWKUpahFZM)
  -Tasveer Singh在TorontoJS技术讲座上|  2015年4月9日- [Webpack.](https://www.youtube.com/watch?v=TaWKUpahFZM)
  -JS西部山区的杰里米·隆德|  2015年3月28日- [Gift Wrap Your Code with Webpack.](https://www.youtube.com/watch?v=ANMN9M9LhNQ)
@@ -293,7 +294,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 #### Angular
 
-- [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter) - A Webpack driven Angular 2 Starter kit from [AngularClass](https://github.com/AngularClass).
+- [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter) -来自Webpack的Angular 2入门套件 [AngularClass](https://github.com/AngularClass).
 - [Angular2 Webpack](https://github.com/preboot/angular2-webpack) -使用来自以下版本的Webpack的完整而简单的Angular 2入门程序 [Preboot](https://github.com/preboot).
 - [Angular2 Webpack Visual Studio](https://github.com/damienbod/Angular2WebpackVisualStudio) -ASP.NET Core，带有Webpack的Angular2和来自的Visual Studio [Damien Bod](https://github.com/damienbod).
 - [Angular2 Starter](https://github.com/schempy/angular2-typescript-webpack) -来自Typescript和Webpack的Angular2入门套件 [Brian Schemp](https://github.com/schempy).
@@ -317,7 +318,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [React Universally](https://github.com/ctrlplusb/react-universally) -入门套件为您提供了最低的生产就绪通用反应应用程序.
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) -针对开发和生产进行了优化的全功能样板应用程序，包括来自PRPR [Modus Create](https://github.com/ModusCreateOrg).
 - [Razzle Material-UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) -使用带有Express的样式化组件并压缩 [Erik Engi](https://github.com/kireerik).
-- [React Typescript Starter](https://github.com/shortgiraffe4/react-typescript-starter) - A React + TypeScript + Webpack 4 + React-Router 4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4 boilerplate.
+- [React Typescript Starter](https://github.com/shortgiraffe4/react-typescript-starter) -一个React + TypeScript + Webpack 4 + React-Router 4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4样板.
 
 ### Other
 

@@ -105,6 +105,7 @@
 *用于序列化，格式化和解析的库*
 
 * [BSON](https://metacpan.org/pod/BSON) -二进制JSON格式
+* [CBOR::Free](https://metacpan.org/pod/CBOR::Free) -支持（CBOR）[https://tools.ietf.org/html/rfc7049]，IETF的“二进制JSON”
 * [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) -减少和加快Data :: Dumper和eval（）的等效性
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)
@@ -126,7 +127,7 @@
 *用于处理关系数据库的库*
 
 * [DBI](https://metacpan.org/pod/DBI)
-* [DBIx::Connector](https://metacpan.org/pod/DBIx::Connector) - Fast, safe DBI connection and transaction management
+* [DBIx::Connector](https://metacpan.org/pod/DBIx::Connector) -快速，安全的DBI连接和事务管理
 * [DBIx::Handler](https://metacpan.org/pod/DBIx::Handler) -叉子安全的DBI处理程序
 * [DBIx::Inspector](https://metacpan.org/pod/DBIx::Inspector)
 * [DBIx::QueryLog](https://metacpan.org/pod/DBIx::QueryLog)
@@ -195,6 +196,7 @@
 * [Event](https://metacpan.org/pod/Event) -效果不错，但是比较老
 * [IO::Async](https://metacpan.org/pod/IO::Async) -异步事件驱动的编程
 * [POE](https://metacpan.org/pod/POE) -多个事件循环的通用接口
+* [Promise::XS](https://metacpan.org/pod/Promise::XS) -Perl中的承诺
 
 ## Exception Handling
 
@@ -223,7 +225,7 @@
 * [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) -HTML表单创建，呈现和验证框架.
 * [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) -从HTML :: FormFu配置文件生成ExtJS表单.
 * [HTML::FormHandler](https://metacpan.org/pod/HTML::FormHandler) -使用Moose的HTML表单.
-* [Mojolicious::Plugin::FormFields](https://metacpan.org/pod/Mojolicious::Plugin::FormFields) -具有验证和过滤功能的轻巧，灵活的表单生成器.
+* [Mojolicious::Plugin::FormFields](https://metacpan.org/pod/Mojolicious::Plugin::FormFields) -轻巧，灵活的表单生成器，带有验证和过滤功能.
 * [WWW::Form](https://metacpan.org/pod/WWW::Form) -简单且可扩展的模块，允许开发人员处理HTML表单输入验证并灵活一致地显示.
 
 ## Images
@@ -318,8 +320,10 @@
 * [Furl](https://metacpan.org/pod/Furl) -更快的HTTP（S）客户端
 * [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny)  -最小和快速的客户. 包含在标准包装中.
 * [LWP::UserAgent](https://metacpan.org/pod/LWP::UserAgent) -流行的HTTP（S）客户端
+* [Net::Curl](https://metacpan.org/pod/Net::Curl) -（libcurl）[https://curl.se/libcurl/]集成
 * [Net::DHCP](https://metacpan.org/pod/Net::DHCP) -发送和接收DHCP数据包
 * [Net::DNS](https://metacpan.org/pod/Net::DNS) -解析DNS主机名
+* [Protocol::DBus](https://metacpan.org/pod/Protocol::DBus) -Perl中的D-Bus
 
 ## Queueing
 
@@ -362,7 +366,7 @@
 
 * [HTML::Template](https://metacpan.org/pod/HTML::Template) -网页模板
 * [Template::Alloy](https://metacpan.org/pod/Template::Alloy) -TT2 / 3，HT，HTE，Tmpl和Velocity Engine
-* [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) -非常流行的模板处理系统
+* [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) - Very Popular Template Processing System
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) -用纯Perl和核心模块编写的快速，简单和安全的模板引擎.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) -扩展文本:: MicroTemplate.
 * [Text::Template](https://metacpan.org/pod/Text::Template) -带有嵌入式Perl的模板

@@ -4,7 +4,7 @@
 
 > [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) 是一种可帮助您检查环境，识别即将发生的变化并正确选择操作的技术. 通过检查需要什么，将使用哪些组件，它们的依存关系和特征是什么，您可以构建世界的视觉表示，玩假设游戏，并选择支持的最佳方向和最佳措施.
 
-这是有用的Wardley映射资源和示例的列表. 简短网址： [list.wardleymaps.com](http://list.wardleymaps.com) . 欢迎捐款！ [Contribution guidelines](https://wardley-maps-community.github.io/awesome-wardley-maps/contributing) 用于将某些东西添加到列表中. 
+这是有用的Wardley映射资源和示例的列表. 简短网址： [list.wardleymaps.com](https://list.wardleymaps.com) . 欢迎捐款！ [Contribution guidelines](https://list.wardleymaps.com/contributing) 用于将某些东西添加到列表中. 
 
 
 

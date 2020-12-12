@@ -307,6 +307,8 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 
 ### Modeling
 
+- [Open Energy System Models](https://en.wikipedia.org/wiki/Open_energy_system_models) -用于探索未来的能源系统，通常用于涉及能源和气候政策的问题.
+- [Open Models](https://wiki.openmod-initiative.org/wiki/Open_Models) -此页面列出了根据开源许可证发布的能源模型.
 - [GCAM](https://github.com/JGCRI/gcam-core) -是一种动态递归模型，具有与经济，能源部门，土地使用和水相关的技术含量高的表示形式，与气候模型相关联，可用于探索缓解气候变化的政策，包括碳税，碳交易，法规和加速部署能源技术.
 - [System Advisor Model](https://github.com/NREL/SAM)  -发电项目的模拟程序. 它具有用于各种可再生能源系统的模型以及用于住宅，商业和公用事业规模项目的财务模型.
 - [openTEPES](https://github.com/IIT-EnergySystemModels/openTEPES) -确定新设施（发电机，ESS和生产线）的投资计划，以最低的成本满足预测的需求.
@@ -326,7 +328,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [PowerSystems.jl](https://github.com/NREL-SIIP/PowerSystems.jl) -使用Julia结构提供严格的数据模型，以进行电力系统分析和建模.
 - [Balmorel](https://github.com/balmorelcommunity/Balmorel) -从国际角度分析电力，热电联产的局部均衡模型.
 - [DistAIX](https://git.rwth-aachen.de/acs/public/simulation/DistAIXFramework/distaix) -用于网络物理电力系统的模拟器，该模拟器利用高性能计算技术来扩大仿真规模.
-- [The Open Energy Ontology](https://github.com/OpenEnergyPlatform/ontology) - A domain ontology of the energy-system modelling context.
+- [The Open Energy Ontology](https://github.com/OpenEnergyPlatform/ontology) -能源系统建模上下文的领域本体.
 - [nempy](https://github.com/UNSW-CEEM/nempy) -旨在增强澳大利亚电力行业的建模和分析能力.
 - [NEMO](https://github.com/bje-/NEMO) -国家电力市场优化器是一种按时间顺序调度的模型，用于测试和优化常规和可再生发电技术的不同组合.
 - [GlobalEnergyGIS](https://github.com/niclasmattsson/GlobalEnergyGIS) -使用公共​​数据集为任意世界区域中可再生能源的能源模型生成输入数据.
@@ -552,6 +554,8 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [PNVmaps](https://github.com/Envirometrix/PNVmaps) -基于机器学习的潜在自然植被全球地图.
 - [monitoring-ecosystem-resilience](https://github.com/alan-turing-institute/monitoring-ecosystem-resilience) -重点是了解半干旱环境中的植被格局.
 - [UVic-updates-opem](https://git.geomar.de/markus-pahlow/UVic-updates-opem) -将基于最佳性的浮游植物和浮游动物引入具有可变化学计量比的C：N：P（：Chl）的UVic-ESCM（2.9版）中，用于浮游植物，重氮营养菌和碎屑.
+- [Quantitative Plant](https://www.quantitative-plant.org/) -提供用于植物的图像分析软件工具和模型的网站.
+
 
 
 ### Ice and Poles
@@ -611,7 +615,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 
 ### Atmosphere
 
-- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) - A set of codes for computing radiative fluxes in planetary atmospheres.
+- [RTE+RRTMGP](https://github.com/earth-system-radiation/rte-rrtmgp) -一组用于计算行星大气中辐射通量的代码.
 - [pyglow](https://github.com/timduly4/pyglow) -一个Python模块，其中包装了几个用FORTRAN编写的高层大气气候模型.
 - [OasisPiWind](https://github.com/OasisLMF/OasisPiWind) -PiWind是英国一小部分地区的风暴模型.
 - [Massive-Parallel Trajectory Calculations](https://github.com/slcs-jsc/mptrac) -拉格朗日粒子扩散模型，用于分析自由对流层和平流层中的大气传输过程.
@@ -630,7 +634,7 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [eeweather](https://github.com/openeemeter/eeweather) -获取对应于邮政编码列表区域或纬度/经度的NCDC ISD，TMY3或CZ2010天气数据.
 - [GRAL](https://github.com/GralDispersionModel/GRAL) -提供CFD模型，用于建筑物或微囊地形结构周围的流量计算.
 - [Chemical Lagrangian Model of the Stratosphere](https://jugit.fz-juelich.de/clams/CLaMS) -在模拟跨平流层-对流层交换等运输障碍的大气中交换过程的世界领导者.
-- [GEOS-Chem](https://github.com/geoschem/geos-chem) -通过全面的，科学的，易于获取的全球大气成分模型，加深对人类和自然对环境影响的了解.
+- [GEOS-Chem](https://github.com/geoschem/geos-chem) - Advance understanding of human and natural influences on the environment through a comprehensive, state-of-the-science, readily accessible global model of atmospheric composition.
 
 
 ## Modeling of Climate and Earth 
@@ -732,6 +736,8 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [ODM2](https://github.com/ODM2/ODM2) -用于基于特征的地球观测的信息模型和支持软件生态系统，旨在实现学科之间的互操作性.
 - [atmospheric_satellite](https://github.com/gusgordon/atmospheric_satellite) -该项目的目标是确定可以无限维持飞行的最小太阳平面.
 - [pygac](https://github.com/pytroll/pygac) -一个Python包，用于读取和校准NOAA和Metop AVHRR GAC和LAC数据.
+- [netcdf-fortran](https://github.com/Unidata/netcdf-fortran) -Unidata网络通用数据表单（netCDF）是用于科学数据访问的接口，并且是一组自由分发的软件库，它们提供了该接口的实现.
+- [sweet](https://github.com/ESIPFed/sweet) -地球和环境术语（SWEET）本体语义网的官方存储库.
 
 
 ## Access and Monitoring of Resources
@@ -898,18 +904,15 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data) -关于气候变化的API，开放数据和ML / AI项目的精选清单.
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) -为沿海工程师和科学家精心整理的精选资源清单.
 - [Open Energy System Databases](https://en.wikipedia.org/wiki/Open_energy_system_databases) -采用开放数据方法来收集，清理和重新发布与能源有关的数据集以供开放使用.
-- [Open Models](https://wiki.openmod-initiative.org/wiki/Open_Models) -此页面列出了根据开源许可证发布的能源模型.
-- [Open Energy System Models](https://en.wikipedia.org/wiki/Open_energy_system_models) -用于探索未来的能源系统，通常用于涉及能源和气候政策的问题.
 - [GlobalWindAtlas](https://globalwindatlas.info/) -立即开始探索多风地区.
 - [GlobalSolarAtlas](https://globalsolaratlas.info/) -开始探索太阳能的潜力.
 - [Open Hardware Observatory](https://en.oho.wiki/wiki/Home) -可持续开放硬件的搜索引擎和评估平台.
 - [Open Source Ecology](https://www.opensourceecology.org/) -开发可以以很少的商业成本制造的开源工业机器，并免费共享设计.
-- [ProjectDrawdown](https://github.com/ProjectDrawdown/solutions) -缩编项目的任务是帮助世界实现“缩编”，即未来大气中温室气体的水平停止上升并开始稳定下降，从而尽快，安全，公平地制止灾难性的气候变化.尽可能.
+- [ProjectDrawdown](https://github.com/ProjectDrawdown/solutions) - The mission of Project Drawdown is to help the world reach “Drawdown”— the point in the future when levels of greenhouse gases in the atmosphere stop climbing and start to steadily decline, thereby stopping catastrophic climate change — as quickly, safely, and equitably as possible.
 - [Code against Climate Change](https://github.com/daviddao/code-against-climate-change) -精选的应对气候变化的技术项目清单-希望激发破坏性的技术气候行动.
 - [Earth and Environmental Data Science Book](https://github.com/earth-env-data-science/earth-env-data-science-book) -地球与环境数据科学导论.
 - [Free Earth Data Science Courses & Textbooks](https://github.com/earthlab/earthlab.github.io) -地球实验室团队开发的专门针对教程，课程和其他学习资料和资源的网站.
 - [ESM-lectures](https://github.com/nworbmot/esm-lectures) -KIT能源系统建模课程的讲义幻灯片.
-- [Quantitative Plant](https://www.quantitative-plant.org/) -提供用于植物的图像分析软件工具和模型的网站.
 - [GreenCity](https://github.com/ita-social-projects/GreenCity) -以有趣和富有挑战性的方式教给人们一种环保的生活方式.
 - [GEOG0133](https://github.com/profLewis/GEOG0133) -公开陆地碳建模和监测讲座.
 - [NOAA-Affiliated-Projects](https://github.com/NOAAGov/NOAA-Affiliated-Projects) -GitHub帐户和存储库的列表，这些列表和存储库是由国家海洋与大气管理局工作人员从整个组织的直属办公室和/或工作人员办公室提供的.
@@ -923,9 +926,8 @@ __[Open technology projects](https://opensustain.tech/) sustaining stable climat
 - [OpenClimate](https://github.com/YaleOpenLab/openclimate-demo) -一项开源计划，探索分布式账本技术（DLT）和其他新兴技术（例如IoT（物联网），大数据和机器学习）的应用，以帮助世界保持对气候变化透明的气候核算系统这一挑战气候目标.
 - [ClimateModeling_courseware](https://github.com/brian-rose/ClimateModeling_courseware) -Jupyter笔记本格式的交互式讲义和作业的集合.
 - [Climate Change Impact Assessment](https://claut.gitlab.io/man_ccia/) -实用的演练.
-- [sweet](https://github.com/ESIPFed/sweet) -地球和环境术语（SWEET）本体语义网的官方存储库.
 - [ModularSensors](https://github.com/EnviroDIY/ModularSensors) -该Arduino库为环境传感器提供了与Arduino兼容数据记录器一起使用的通用功能接口.
-- [netcdf-fortran](https://github.com/Unidata/netcdf-fortran) -Unidata网络通用数据表单（netCDF）是用于科学数据访问的接口，并且是一组自由分发的软件库，它们提供了该接口的实现.
+- [OpenSourceSeeds](https://www.opensourceseeds.org/en) -致力于重新树立种子，作为所有人的共同利益.
 
 
 ### Footnotes

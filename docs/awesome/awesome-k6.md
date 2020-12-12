@@ -48,6 +48,7 @@
 - [k6-es6](https://github.com/MStoykov/k6-es6) -使用Webpack，Babel和Browserify使大多数ES6代码在k6中工作的示例项目.
 - [example-data-generation](https://github.com/k6io/example-data-generation) -使用fakerr为k6生成真实数据.
 - [bounded-disturbances](https://github.com/bjartwolf/bounded-disturbances)  -.NET混沌工程研讨会. 使用Simmy和k6.
+- [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) -使用cronjobs在Kubernetes中连续运行k6测试.
 
 ## Tools
 

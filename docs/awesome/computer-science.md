@@ -316,8 +316,6 @@ Lisp家庭语言（通过球拍）
 **涵盖的主题**：
 调试理论与实践
 面向目标的编程
-GPU编程
-`CUDA`
 `parallel computing`
 面向对象的分析与设计
 `UML`
@@ -373,7 +371,6 @@ CMOS技术
 命题逻辑
 关系逻辑
 “品牌逻辑”
-`概念格`
 游戏树
 `and more`
 
@@ -381,7 +378,6 @@ CMOS技术
 :-- | :--: | :--: | :--:
 [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) ([Lectures](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN) ）|  8周每周10个小时| 离散数学，逻辑，算法
 [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++
-[Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis)  |  6周每周4-6个小时| 逻辑，概率
 [Game Theory](https://www.coursera.org/learn/game-theory-1)  |  8周每周3个小时| 数学思考概率概率
 
 ### Advanced applications
@@ -491,7 +487,7 @@ or
 带有“ Section”标签的卡片仅用于组织“完成”列.
 您应将*课程卡*放在其各自的*部门卡*下方.
 
-该委员会的目的是为我们的学生提供一种跟踪其进度的方法，并且还可以通过公开页面向朋友，家人，雇主等展示其进度.
+该委员会的目的是为我们的学生提供一种跟踪他们的进度的方法，并能够通过公开页面向朋友，家人，雇主等展示其进度.
 您可以将董事会的状态更改为*公开*或*私有*.
 
 ## Team
