@@ -42,6 +42,7 @@
 ## DevOps
 
 * [Jobs For DevOps](https://jobsfordevops.com)
+* [Kube Jobs](https://kubejobs.io) -精心挑选和策划的Kubernetes工作.
 
 ## Gaming
 

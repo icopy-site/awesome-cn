@@ -38,7 +38,7 @@
 
 * [Benchmark](https://metacpan.org/pod/Benchmark)
 * [Dumbbench](https://metacpan.org/pod/Dumbbench)
-* [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) - Benchmark in multiprocesses
+* [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) -多进程基准
 
 ## Caches
 
@@ -66,7 +66,7 @@
 * [Moo](https://metacpan.org/pod/Moo) -支持元编程的类生成器.
 * [Moose](https://metacpan.org/pod/Moose) -唯一的，驼鹿.
 * [Mouse](https://metacpan.org/pod/Mouse) -另一个类构建器，例如Moo / Moose.
-* [Object::Pad](https://metacpan.org/pod/Object::Pad)  -`class Example {有$ x; 方法阅读器{return $ x}}`，用于 [Cor](https://gist.github.com/Ovid/68b33259cb81c01f9a51612c7a294ede)
+* [Object::Pad](https://metacpan.org/pod/Object::Pad) - `class Example { has $x; method reader { return $x } }`, experimental proving-ground for [Cor](https://gist.github.com/Ovid/68b33259cb81c01f9a51612c7a294ede)
 * [Object::Tiny](https://metacpan.org/pod/Object::Tiny) -简洁，快速且小巧的类生成器.
 
 ## CLI
@@ -279,7 +279,7 @@
 * [Net::SSH::Any](https://metacpan.org/pod/Net::SSH::Any) -使用任何可用的模块或二进制客户端运行远程命令.
 * [Net::SFTP::Foreign](https://metacpan.org/pod/Net::SFTP::Foreign) -用于远程文件访问的SFTP客户端.
 * [Object::Remote](https://metacpan.org/pod/Object::Remote) -在远程计算机上运行Perl代码.
-* [Net::CLI::Interact](https://metacpan.org/pod/Net::CLI::Interact) -自动化交互式程序.
+* [Net::CLI::Interact](https://metacpan.org/pod/Net::CLI::Interact) - Automates interactive programs.
 * [Net::Appliance::Session](https://metacpan.org/pod/Net::Appliance::Session) -自动与设备交互.
 
 ## ORM
@@ -350,6 +350,12 @@
 * [PDL::Stats](https://metacpan.org/pod/PDL::Stats)
 * [Physics::*](https://metacpan.org/search?q=physics%3A%3A&size=20)
 
+## Stream Manipulation
+
+*用于处理事件流的库*
+
+* [RxPerl](https://metacpan.org/pod/RxPerl) -Perl的实现 [Reactive Extensions](http://reactivex.io) / rxjs
+
 ## REST Frameworks
 
 *用于开发REST应用程序的库*
@@ -366,7 +372,7 @@
 
 * [HTML::Template](https://metacpan.org/pod/HTML::Template) -网页模板
 * [Template::Alloy](https://metacpan.org/pod/Template::Alloy) -TT2 / 3，HT，HTE，Tmpl和Velocity Engine
-* [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) - Very Popular Template Processing System
+* [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) -非常流行的模板处理系统
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) -用纯Perl和核心模块编写的快速，简单和安全的模板引擎.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) -扩展文本:: MicroTemplate.
 * [Text::Template](https://metacpan.org/pod/Text::Template) -带有嵌入式Perl的模板

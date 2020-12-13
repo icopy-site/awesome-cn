@@ -70,12 +70,17 @@ _注意：对于特定于操作系统的工具，请尽力用OSX / WIN / * NIX /
 * [Keycastr](https://github.com/sdeken/keycastr) -同时显示您的钥匙
   呈现/广播`/ OSX /`
 
+## Documentation
+*用于记录您的项目的工具*
+
+* [Log4brains](https://github.com/thomvaill/log4brains) -作为文档的文档知识库，用于管理项目的体系结构决策记录（ADR）并自动将其发布为静态网站.
+
 
 ## Dotfiles
 
 * [dotfiles.github.io](https://dotfiles.github.io/)  -收集的点文件资源. 包含带有dotfile引导程序的部分以及用于各种shell和编辑器的框架列表.
 * [Zach Holman's](https://github.com/holman/dotfiles) -oh-my-zsh，osx，Zsh，vi，Ruby，Git等
-* [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
+* [Mathias Bynens's](https://github.com/mathiasbynens/dotfiles) -.files，包括〜/ .osx-OS X的明智黑客默认设置
 * [Thoughtbot's](https://github.com/thoughtbot/dotfiles) -一组vim，zsh，git和tmux配置文件
 * [Paul Miller's](https://github.com/paulmillr/dotfiles) -色彩丰富且功能强大的OS X配置文件和实用程序
 
@@ -148,7 +153,7 @@ _注意：对于特定于操作系统的工具，请尽力用OSX / WIN / * NIX /
 * [tig](http://jonas.nitro.dk/tig/) -git的基于ncurses的文本模式界面
 
 ## Misc
-*无法在其他类别中找到房屋的有用工具*
+*Useful tools that cannot find a home in other categories*
 
 * [Fenix Web Server](https://fenixwebserver.com) -具有按钮共享功能的多主机本地静态Web服务器（桌面应用程序）.
 * [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) -用于机器学习和数据科学的基于Web的多合一开发环境.

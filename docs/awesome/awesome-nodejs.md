@@ -156,6 +156,7 @@
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) -使用RFC兼容的缓存支持包装本机HTTP请求.
 - [gotql](https://github.com/khaosdoctor/gotql) -建立于GraphQL请求库 [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) -使用环境变量可配置的全局HTTP / HTTPS代理.
+- [smoke](https://github.com/sinedied/smoke) -具有记录功能的基于文件的HTTP模拟服务器.
 
 ### Debugging / Profiling
 
@@ -348,7 +349,7 @@
 - [through2](https://github.com/rvagg/through2) -围绕streams2的微小包装器.
 - [from2](https://github.com/hughsk/from2) -ReadableStream的便利包装，灵感来自`through2`.
 - [get-stream](https://github.com/sindresorhus/get-stream) -获取流作为字符串或缓冲区.
-- [into-stream](https://github.com/sindresorhus/into-stream) -将缓冲区/字符串/数组/对象转换为流.
+- [into-stream](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
 - [duplexify](https://github.com/mafintosh/duplexify) -将可写和可读流转换为单个stream2双工流.
 - [pumpify](https://github.com/mafintosh/pumpify) -将一系列流合并为单个双工流.
 - [peek-stream](https://github.com/mafintosh/peek-stream) -转换流，可让您在决定如何解析前先窥视第一行.
@@ -388,7 +389,7 @@
 ### Text
 
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) -转换字符编码.
-- [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
+- [string-length](https://github.com/sindresorhus/string-length) -通过正确计算星号并忽略ansi转义码来获取字符串的真实长度.
 - [camelcase](https://github.com/sindresorhus/camelcase) -将破折号/点号/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) -转义RegExp特殊字符.
 - [execall](https://github.com/sindresorhus/execall) -在一个字符串中找到多个RegExp匹配项.
@@ -564,6 +565,7 @@
 - [Playwright](https://github.com/microsoft/playwright) -无头的Chromium，W​​ebKit和Firefox具有单个API.
 - [nve](https://github.com/ehmicky/nve) -在本地的多个版本的Node.js上运行任何命令.
 - [axe-core](https://github.com/dequelabs/axe-core) -用于自动Web UI测试的可访问性引擎.
+- [testcontainers-node](https://github.com/testcontainers/testcontainers-node) -提供常见数据库，Selenium Web浏览器或可以在Docker容器中运行的任何其他东西的轻巧，一次性的实例.
 
 ### Security
 
@@ -645,6 +647,7 @@
 ### Automation
 
 - [robotjs](https://github.com/octalmage/robotjs) -桌面自动化：控制鼠标，键盘和阅读屏幕.
+- [nut.js](https://github.com/nut-tree/nut.js) -具有与Jest集成的图像匹配功能的跨平台本机GUI自动化/测试框架.
 
 ### AST
 
@@ -655,7 +658,7 @@
 ### Static site generators
 
 - [Wintersmith](https://github.com/jnordberg/wintersmith) -灵活，简约，多平台的静态站点生成器.
-- [Assemble](https://github.com/assemble/assemble/) - Static site generator for Node.js, Grunt.js, and Yeoman.
+- [Assemble](https://github.com/assemble/assemble/) -用于Node.js，Grunt.js和Yeoman的静态站点生成器.
 - [DocPad](https://github.com/docpad/docpad) -具有动态功能和巨大插件生态系统的静态站点生成器.
 - [Phenomic](https://github.com/phenomic/phenomic) -基于React和Webpack生态系统的现代静态网站生成器.
 - [docsify](https://github.com/QingWei-Li/docsify) -Markdown文档网站生成器，没有静态生成的HTML文件.
@@ -703,7 +706,7 @@
 - [Electron](https://github.com/atom/electron)  -使用网络技术构建跨平台的桌面应用.  *（你可能会喜欢 [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
 - [open](https://github.com/sindresorhus/open) -打开网站，文件，可执行文件之类的东西.
 - [hasha](https://github.com/sindresorhus/hasha)  -哈希变得简单. 获取缓冲区/字符串/流/文件的哈希.
-- [dot-prop](https://github.com/sindresorhus/dot-prop) -使用点路径从嵌套对象获取属性.
+- [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime](https://github.com/sindresorhus/onetime) -仅运行一次功能.
 - [mem](https://github.com/sindresorhus/mem) -记忆功能-一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续的函数调用.
 - [import-fresh](https://github.com/sindresorhus/import-fresh) -在绕过缓存的同时导入模块.

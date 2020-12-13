@@ -4,7 +4,7 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一组个人，可以识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保所实施的防御措施在将来仍然有效. 尽管不是排他性的，但此清单在很大程度上偏向 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一组个人，可以识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保所实施的防御措施在将来仍然有效. 尽管不是排他性的，但此清单在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -42,7 +42,7 @@
 
 也可以看看 [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)和 [IR management consoles](#ir-management-consoles).
 
-- [Shuffle](https://shuffler.io/) -针对IT专业人员和蓝色团队的图形化通用工作流（自动化）构建器.
+- [Shuffle](https://shuffler.io/) -适用于IT专业人员和蓝色团队的图形化通用工作流（自动化）构建器.
 
 ## Cloud platform security
 
@@ -76,7 +76,7 @@
 - [DefectDojo](https://www.defectdojo.org/) -为DevOps和持续安全集成而构建的应用程序漏洞管理工具.
 - [Gauntlt](http://gauntlt.org/) -在常规持续集成过程中的Pentest应用程序会构建管道.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -防止您将密码和其他敏感信息提交到git存储库.
-- [SOPS](https://github.com/mozilla/sops) -支持YAML，JSON，ENV，INI和二进制格式的加密文件的编辑器，并使用AWS KMS，GCP KMS，Azure Key Vault和PGP进行加密.
+- [SOPS](https://github.com/mozilla/sops) -支持YAML，JSON，ENV，INI和二进制格式并使用AWS KMS，GCP KMS，Azure Key Vault和PGP加密的加密文件的编辑器.
 - [Snyk](https://snyk.io/) -查找并修复开源依赖项和容器映像中的漏洞和许可证违规.
 - [SonarQube](https://sonarqube.org) -连续检查工具，可在自动测试期间提供详细的报告，并就新引入的安全漏洞发出警报.
 - [Trivy](https://github.com/aquasecurity/trivy) -适用于容器和其他工件的简单而全面的漏洞扫描程序，适用于连续集成管道.
@@ -99,6 +99,7 @@
 
 也可以看看 [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
+* [Atheris](https://pypi.org/project/atheris/) - Coverage-guided Python fuzzing engine based off of libFuzzer that supports fuzzing of Python code but also native extensions written for CPython.
 * [FuzzBench](https://google.github.io/fuzzbench/) -免费服务，可在Google规模的各种实际基准上评估模糊器.
 * [OneFuzz](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-as-a-Service (FaaS) platform.
 
@@ -156,7 +157,7 @@
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) -免费的macOS计算机取证工具.
 - [OSXCollector](https://github.com/Yelp/osxcollector) -适用于macOS的取证证据和分析工具包.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -Windows Batch脚本和Unix Bash脚本，可在事件响应期间全面收集主机取证数据.
-- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) -命令行实用程序（可与或不与Amazon EC2实例一起使用）并行化远程内存获取.
+- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 
 ## Network perimeter defenses
 
@@ -196,7 +197,7 @@
 - [BadBlood](https://www.secframe.com/badblood/) -用数据填充测试（非生产）Windows域，使安全分析人员和工程师可以练习使用工具来了解并指定如何保​​护Active Directory.
 - [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) -模块化，菜单驱动的跨平台工具，用于为Blue Team演练和传感器/警报映射构建可重复的，延迟的，分布式的安全事件.
 - [Metta](https://github.com/uber-common/metta) -自动化的信息安全准备工具进行对抗性仿真.
-- [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) - Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.
+- [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) -生成恶意网络流量并帮助安全团队评估安全控制并审核其网络可见性的实用程序.
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) -基于Ubuntu的Open Virtual Appliance（`.ova`）已预先配置了多个威胁仿真工具以及防御者的工具包.
 
 ## Security monitoring
@@ -228,7 +229,7 @@
 ### Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) -由AlienVault开放威胁交换（OTX）驱动的具有资产发现，资产清单，行为监控和事件关联的单服务器开源SIEM平台.
-- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报功能.
+- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报.
 
 ### Service and performance monitoring
 
@@ -284,7 +285,7 @@
 
 也可以看看 [awesome-tor](https://github.com/ajvb/awesome-tor).
 
-- [OnionBalance](https://onionbalance.readthedocs.io/) - Provides load-balancing while also making Onion services more resilient and reliable by eliminating single points-of-failure.
+- [OnionBalance](https://onionbalance.readthedocs.io/) -提供负载平衡，同时通过消除单个故障点使Onion服务更具弹性和可靠性.
 - [Vanguards](https://github.com/mikeperry-tor/vanguards) -第3版Onion Service Guard发现缓解攻击脚本（旨在最终包含在Tor核心中）.
 
 ## Transport-layer defenses

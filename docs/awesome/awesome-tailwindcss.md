@@ -46,7 +46,7 @@
 
 **传奇**：官方资源
 
--  [IntelliSense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) -Visual Studio Code的IntelliSense扩展.
+-  [IntelliSense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - IntelliSense extension for Visual Studio Code.
 - [Styled Snippets for Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) -Visual Studio Code的代码段扩展.
 - [Headwind for Code](https://github.com/heybourn/headwind) -Visual Studio Code的类排序器扩展.
 - [Shades for Code](https://github.com/bourhaouta/vscode-tailwindshades) -Visual Studio Code的调色板生成器扩展.
@@ -150,6 +150,7 @@
 -  [Hypercolor](https://hypercolor.dev/) -带有方向选项的预配置Tailwind CSS渐变集合.
 -  [Palettolithic](https://palettolithic.com) -根据一种颜色生成和声调色板.
 -  [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) -具有Tailwind CSS v2颜色的Figma库.
+-  [Colorkraken](https://github.com/Bouhoum/colorkraken) -Tailwind CSS的颜色阴影生成器.
 -  [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) -由OpenAI GPT-3驱动的Tailwind CSS代码生成器.
 -  [Stitches](https://stitches.hyperyolo.com/) -带有Tailwind的模板生成器（在线）.
 -  [tail-animista](https://tail-animista.vercel.app) -Tailwind CSS的可配置自定义动画实用程序生成器.
@@ -211,6 +212,7 @@
 -  [Tailwind Kit](https://creative-tim.com/learning-lab/tailwind-starter-kit) -与框架无关，Vue.js，React和Angular组件.
 -  [lofi ui](https://lofiui.co/) -低保真Tailwind CSS组件.
 -  [Gust UI](https://www.gustui.com/) -用于React和HTML中Web应用程序的流畅Tailwind CSS组件.
+-  [Windstrap](https://windstrap.netlify.app) -带Bootstrap JS的Tailwind CSS.
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) -多主题，完全可访问的仪表板模板.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -带有Tailwind CSS的管理面板模板.
 -  [Landing Gradients](https://landing-gradients.netlify.app/) -使用渐变（1.7+）的目标网页模板.
@@ -309,11 +311,11 @@
 -  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
 -  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
 -  [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
-- 🎥 [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
-- 🎥 [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
-- 🎥 [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
-- 🎥 [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
-- 🎥 [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
+-  [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
+-  [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
+-  [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
+-  [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
+-  [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
 
 ## Apps & Websites
 

@@ -41,7 +41,7 @@
 - [Parametric 3d-Printable Plotter Pen Adapter](https://openjscad.org/#https://gist.githubusercontent.com/beardicus/d668c0f6b96be53d16dc/raw/plotter-pen-adapter.jscad) -可调型号，可打印各种笔的适配器.
 - [Plotter Pen STL Models](https://www.thingiverse.com/thing:227985) -短和长标准绘图笔的精确STL模型.
 - [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) -适用于一般绘图仪滥用的笔清单.
-- [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) -以鸡蛋和玻璃杯为重点的钢笔建议，但仍普遍适用.
+- [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) -着重于鸡蛋和玻璃杯的钢笔建议，但仍普遍适用.
 - [JetPens – The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) -对许多白色墨水笔进行全面审查，并附上其覆盖范围的图片.
 
 ## Software
@@ -51,6 +51,7 @@
 HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使用的基于串行/文本的协议.
 
 - [Chiplotle](https://github.com/drepetto/chiplotle) -用于生成HPGL并与串行绘图仪接口的Python库.
+- [Chiplotle on Parallel Port](https://gitlab.com/mononym/chiplotle-on-parallel-port) -Chiplotle的调整可与并行端口连接一起使用.
 - [HPGL Reference Guide](https://www.isoplotec.co.jp/HPGL/eHPGL.htm) -基于HTML的HPGL参考.
 - [HP 7475A Interfacing and Programming Manual](https://archive.org/details/HP7475AInterfacingandProgrammingManual) -已扫描的PDF手册，其中包含完整的HPGL参考.
 - [djipco/hpgl](https://github.com/djipco/hpgl) -一个Node.js库，可与HPGL兼容的绘图仪和打印机进行通信.
