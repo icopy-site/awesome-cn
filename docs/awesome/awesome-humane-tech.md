@@ -15,7 +15,7 @@
 
 此列表汇总了与人文科技主题直接相关的开源项目. 请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的PR之前.
 
- &gt; **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望对您有用. 但是根据 [License](#license) 我们不能保证所引用软件的质量或适用性. 因此，在安装任何东西之前，请先正确告知自己，如果遇到不适当或错误的事情，请在我们的网站上提出问题 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) 因此我们可以采取适当的措施. 谢谢！
+ &gt; **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望对您有用. 但是根据 [License](#license) 我们不能保证所引用软件的质量或适用性. 因此，在安装任何东西之前，请先正确告知自己，如果遇到不适当或错误的事情，请在我们的系统中提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) 因此我们可以采取适当的措施. 谢谢！
 
 
 如果您的项目在此列表中，则您有权自豪地佩戴我们的人文技术徽章. 看到 [instructions](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md#after-you-were-added).
@@ -62,7 +62,7 @@
 
 安全是人性化技术的重要方面. 这也是我们留给专家的广阔领域. 有关良好的顶级入口点，请参阅：
 
-- [awesome security](https://github.com/sbilly/awesome-security) -软件，库，文档，书籍，资源以及有关安全性的一些很酷的东西.
+- [awesome security](https://github.com/sbilly/awesome-security) -软件，库，文档，书籍，资源以及有关安全性的一些实用知识.
 
 ## Privacy
 
@@ -346,6 +346,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [switching.software](https://switching.software/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/swiso-en/website?lang=en-US) -道德，易于使用和注重隐私的替代著名软件的工具.
 - [ReverseEagle-Developers](https://developers.reverseeagle.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://forge.tedomum.net/ReverseEagle/developers) -针对开发人员的注重隐私，道德和安全的软件替代方案.
 - [ethical.net](https://ethical.net/resources/) -道德选择和资源.
+- [JustPrivacy](https://justprivacy.org/google-alternatives/) -有关Google及其产品的替代产品的详细列表.
 - [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) -与出色的项目相似，但仅适用于FOSS，开放数据和开放科学.
 
 ## Contributing

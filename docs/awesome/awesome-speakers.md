@@ -625,7 +625,7 @@ https://twitter.com/PalmaSwell
 <img src="https://unavatar.now.sh/twitter/TimPietrusky" height="70px" width="70px" align="left" alt="" />
 
 ** Tim Pietrusky ** \
-Topics: JS Art, JS Music, JavaScript\
+主题：JS艺术，JS音乐，JavaScript \
 https://twitter.com/TimPietrusky
 
 ### Karlsruhe
@@ -1822,11 +1822,11 @@ https://twitter.com/linclark
 
 ### Portland
 
-<img src="https://unavatar.now.sh/twitter/shanselman" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/joeseifi" height="70px" width="70px" align="left" alt="" />
 
-**斯科特·汉瑟曼** \
-主题：.NET，Azure \
-https://twitter.com/shanselman
+**Joe Seifi**\
+主题：CSS-in-JS，JavaScript，React \
+https://twitter.com/joeseifi
 
 <img src="https://unavatar.now.sh/twitter/kyleshevlin" height="70px" width="70px" align="left" alt="" />
 
@@ -1840,17 +1840,17 @@ https://twitter.com/kyleshevlin
 主题：前端架构，CSS，设计系统\
 https://twitter.com/micahgodbolt
 
+<img src="https://unavatar.now.sh/twitter/shanselman" height="70px" width="70px" align="left" alt="" />
+
+**斯科特·汉瑟曼** \
+主题：.NET，Azure \
+https://twitter.com/shanselman
+
 <img src="https://avatars1.githubusercontent.com/u/1166226?s=460&v=4" height="70px" width="70px" align="left" alt="" />
 
-**紫罗兰色佩纳** \
+**Violet Peña**\
 主题：React，Socket.IO，故事书，可访问性\
 [github.com/vgpena](https://github.com/vgpena)
-
-<img src="https://avatars3.githubusercontent.com/u/764006?s=460&v=4" height="70px" width="70px" align="left" alt="" />
-
-** Joe Safe ** \
-主题：CSSinJS，JavaScript，React \
-[github.com/joeshub](https://github.com/joeshub)
 
 ### Redwood City
 
@@ -1993,7 +1993,7 @@ https://twitter.com/sarah_edo
 <img src="https://unavatar.now.sh/twitter/sgrove" height="70px" width="70px" align="left" alt="" />
 
 **塞恩·格罗夫** \
-Topics: GraphQL, ReasonML, OCaml\
+主题：GraphQL，ReasonML，OCaml \
 https://twitter.com/sgrove
 
 <img src="https://unavatar.now.sh/twitter/stefsull" height="70px" width="70px" align="left" alt="" />

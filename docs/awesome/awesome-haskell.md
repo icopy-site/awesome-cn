@@ -384,6 +384,7 @@
 * [LazyCasts](http://www.youtube.com/user/LazyCasts)
 * [Haskell Development Workflow Demo](http://www.youtube.com/watch?v=Li6oaO8x2VY)
 * [Learn You a Haskell](https://www.youtube.com/watch?v=NBKnY7Z_w3I&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh) -附有视频讲座，并附有“学习Haskell，造福大国！”这本书.
+* [Awesome Haskell Videos](https://github.com/andys8/awesome-haskell-videos) -Haskell演讲和教程的精选清单
 
 ## Courses
 

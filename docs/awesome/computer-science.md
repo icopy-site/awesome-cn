@@ -99,7 +99,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/)  |  10周每周10个小时| 无| [chat](https://discord.gg/syA242Z)
+[Python for Everybody](https://www.py4e.com/lessons)  |  10周每周10个小时| 无| [chat](https://discord.gg/syA242Z)
 
 ### Introduction to Computer Science
 

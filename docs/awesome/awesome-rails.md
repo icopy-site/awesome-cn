@@ -111,9 +111,9 @@
 - [calagator](https://github.com/calagator/calagator) -社区日历应用程序-**使用Rails 4.2 **
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) -电子邮件，日历，共享文档和班级协作空间管理应用程序-**使用Rails 4.2 **- [:earth_africa:](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) -论坛应用-**使用Rails 4.2 **- [:earth_africa:](http://codecampo.com)
-- [canvas-lms](https://github.com/instructure/canvas-lms) -一个学习管理应用程序-**使用Rails 5.2 **
+- [canvas-lms](https://github.com/instructure/canvas-lms) - A learning management app - **using Rails 5.2**
 - [catarse](https://github.com/catarse/catarse) -创意项目的众筹平台-**使用Rails 4.2 **- [:earth_africa:](https://catarse.me/)
-- [chatwoot](https://github.com/chatwoot/chatwoot) -一个简单而优雅的实时聊天软件-**使用Rails 6.0 **
+- [chatwoot](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software - **using Rails 6.0**
 - [ciao](https://github.com/brotandgames/ciao) -URL状态检查应用-**使用Rails 6.0 **
 - [coRM](https://github.com/SIGIRE/CoRM) -客户关系管理应用程序-**使用Rails 3.2 **- [:earth_africa:](http://www.corm.fr)
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) -面向软件工程师的社交网络应用-**使用Rails 3.2 **
@@ -126,6 +126,7 @@
 - [crabgrass-core](https://0xacab.org/riseuplabs/crabgrass) -维权团体的协作平台-**使用Rails 4.2 **
 - [crowdAI](https://github.com/crowdAI/crowdai) -应对数据科学挑战的应用程序-**使用Rails 5.2 **- [:earth_africa:](https://www.crowdai.org/)
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) -一个众筹平台-**使用Rails 3.2 **
+- [cw-ovp](https://github.com/x1wins/CW-OVP) -在网站上将视频打包到带有FFMPEG的* .m3u8进行HLS（HTTP实时流）包装-**使用Rails 6.0 **
 - [danbooru](https://github.com/danbooru/danbooru) -可标记的图像板应用程序-**使用Rails 6.0 **
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) -案例管理应用-**使用Rails 5.2 **
 - [dev.to](https://github.com/thepracticaldev/dev.to) -专门用于Web开发的社交平台应用-**使用Rails 5.2 **- [:earth_africa:](https://dev.to)
@@ -136,7 +137,7 @@
 - [ekylibre](https://github.com/ekylibre/ekylibre) -农场管理应用程序-**使用Rails 4.2 **
 - [postal](https://github.com/postalhq/postal) -邮件传递平台-**使用Rails 5.2 **
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) -具有加密支持的消息传递应用程序-**使用Rails 4.2 **
-- [eol](https://github.com/EOL/eol) - An encyclopedia app - **using Rails 3.2** - [:earth_africa:](http://eol.org)
+- [eol](https://github.com/EOL/eol) -百科全书应用-**使用Rails 3.2 **- [:earth_africa:](http://eol.org)
 - [expertiza](https://github.com/expertiza/expertiza) -学习资料共享应用-**使用Rails 4.2 **
 - [fairmondo](https://github.com/fairmondo/fairmondo) -一个市场应用程序-**使用Rails 4.2 **- [:earth_africa:](https://www.fairmondo.de)
 - [feedbin](https://github.com/feedbin/feedbin) -一个RSS阅读器应用程序-**使用Rails 6.0 **- [:earth_africa:](https://feedbin.com)
@@ -174,7 +175,7 @@
 - [popHealth](https://github.com/pophealth/popHealth) -人口健康报告应用程序-**使用Rails 4.1 **
 - [publify](https://github.com/publify/publify) -博客应用-**使用Rails 5.2 **
 - [quant](https://github.com/jdjkelly/quant) -个人健康追踪器-**使用Rails 4.1 **
-- [racing_on_rails](https://github.com/scottwillson/racing_on_rails) -自行车比赛组织应用程序-**使用Rails 5.2 **- [:earth_africa:](http://racingonrails.rocketsurgeryllc.com)
+- [racing_on_rails](https://github.com/scottwillson/racing_on_rails) -自行车比赛组织应用程序-**使用Rails 5.2 **
 - [rapidFTR](https://github.com/rapidftr/RapidFTR) -援助人员的信息提供商应用程序-**使用Rails 4.0 **
 - [redmine](https://github.com/edavis10/redmine) -一个项目管理应用程序-**使用Rails 5.2 **- [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) -一个市场应用程序--**使用Rails 4.0 **
@@ -267,7 +268,7 @@
 -**汇总**-在Rails中处理时间序列数据的工具- [rubygems](https://rubygems.org/gems/rollups) - [source code](https://github.com/ankane/rollup)
 -** route_translator **-处理路线转换的工具- [rubygems](https://rubygems.org/gems/route_translator) - [source code](https://github.com/enriclluelles/route_translator)
 -** rspec-rails **-测试框架- [rubygems](https://rubygems.org/gems/rspec-rails) - [source code](https://github.com/rspec/rspec-rails)
-- **rubocop-rails** - A code style checking tool - [rubygems](https://rubygems.org/gems/rubocop-rails) - [source code](https://github.com/rubocop-hq/rubocop-rails)
+-** rubocop-rails **-代码样式检查工具- [rubygems](https://rubygems.org/gems/rubocop-rails) - [source code](https://github.com/rubocop-hq/rubocop-rails)
 -**场景**-管理数据库视图的瑰宝- [rubygems](https://rubygems.org/gems/scenic) - [source code](https://github.com/scenic-views/scenic)
 -** searchkick **-可提供搜索功能的宝石- [rubygems](https://rubygems.org/gems/searchkick) - [source code](https://github.com/ankane/searchkick)
 -** simple_form **-处理表格的瑰宝- [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)

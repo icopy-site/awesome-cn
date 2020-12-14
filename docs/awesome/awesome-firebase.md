@@ -35,11 +35,11 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
+-  [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) -使用Firebase Firestore进行基于位置的查询和过滤.
 -  [Firebase Summit 2020](https://goo.gle/firebasesummit2020) -所有Firebase讲座@ 2020 Firebase峰会.
 -  [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) -这是我们深入研究Firebase产品并学习新技巧的地方.
 -  [Pyrebase](https://github.com/thisbejim/Pyrebase) -Firebase API的简单python包装器.
--  [Firestore Lite](https://github.com/samuelgozi/firebase-firestore-lite) -用于浏览器的轻量级Cloud Firestore库.
--  [asdf-firebase](https://github.com/jthegedus/asdf-firebase) -一个 [asdf-vm](https://asdf-vm.com/)  firebase-tools的插件. 无需Node.js或`npm`即可管理Firebase CLI！ 非常适合python，golang，c ++和java Firebase项目.
+-  [asdf-firebase](https://github.com/jthegedus/asdf-firebase) -一个 [asdf-vm](https://asdf-vm.com/)  firebase-tools的插件. 在没有Node.js或`npm`的情况下管理您的Firebase CLI！ 非常适合python，golang，c ++和java Firebase项目.
 
 ## Official Docs & Quickstarts
 
@@ -56,6 +56,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Web
 
+-  [Firestore Lite](https://github.com/samuelgozi/firebase-firestore-lite) -用于浏览器的轻量级Cloud Firestore库.
 -  [SvelteFire](https://github.com/codediodeio/sveltefire) -控制论增强的Firebase应用程序.
 -  [React Fire](https://github.com/FirebaseExtended/reactfire) -带有钩子，上下文提供程序和组件的官方Firebase React库，可轻松与Firebase进行交互.
 -  [Remote Styles with Remote Config](https://github.com/firebaseextended/remote-styles/)  -动态/有条件地加载远程配置中存储的CSS.  （[Launch post](https://medium.com/firebase-developers/introducing-remote-styles-conditional-css-loading-made-easy-daddbbcce050)).
@@ -78,8 +79,8 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [FireSQL](https://github.com/jsayol/FireSQL)  -使用SQL语法查询Firestore. 发出获取所需数据所需的最少查询量.
 -  [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) -自动删除旧版本的网站部署.
 -  [Firestorter](https://github.com/IjzerenHein/firestorter) -使用MobX（也适用于react-native），以零的努力在React中使用Firestore.
--  [Nextbase](https://github.com/martyan/nextbase) -适用于想要快速启动项目的开发人员的Next.js，Redux和Firebase样板.
--  [Typesaurus](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
+-  [Nextbase](https://github.com/martyan/nextbase) - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
+-  [Typesaurus](https://github.com/kossnocorp/typesaurus) -用于Firestore的类型安全的TypeScript优先ODM.
 -  [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) -Kotlin第一个用于Firebase的SDK，支持多平台项目（“ ios”，“ android”和“ js”）.
 
 ## Mobile

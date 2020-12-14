@@ -17,36 +17,36 @@
 - [r/fishshell](https://www.reddit.com/r/fishshell)
 - [Gitter Channel](https://gitter.im/fish-shell/fish-shell)
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
-- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish)
+- [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 
 
 ## Plugin Managers
 
-- [Fisher](https://github.com/jorgebucaran/fisher) -通过CLI管理功能，补全，绑定和摘要. 
-- [Fundle](https://github.com/danhper/fundle) -受Vundle启发的基于<samp>config.fish</samp>的插件管理器. 
-- [Tacklebox](https://github.com/justinmayer/tacklebox) -用于组织和共享实用程序的配置框架.
+- [Fisher](https://github.com/jorgebucaran/fisher) -通过CLI管理功能，补全，绑定和摘要.
+- [Fundle](https://github.com/danhper/fundle) -基于config.fish的插件管理器，灵感来自Vundle.
 - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) -灵感来自OMZ的外壳配置框架.
+- [Tacklebox](https://github.com/justinmayer/tacklebox) -用于组织和共享实用程序的配置框架.
 
 ## Prompts
 
 - [Tide](https://github.com/IlanCosman/tide) -Fish的现代提示经理.
 - [Pure](https://github.com/rafaelrinaldi/pure) -的港口 [original pure](https://github.com/sindresorhus/pure) 提示.
-- [Mono](https://github.com/fishpkg/mono) -没有钟声或口哨声，最小的外壳提示.
+- [Fly](https://github.com/jorgebucaran/fly.fish) -毫不客气的，最小的命令行提示符，会飞〜％！
 - [Lucid](https://github.com/mattgreen/lucid.fish) -极简主义的高性能提示，带有异步Git脏检查.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) -电力线式，可识别Git的外壳提示.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) -使您的提示异步！
 
 ## Plugins
 
-- [Z](https://github.com/jethrokuan/z) -纯鱼 [rupa/z](https://github.com/rupa/z)类似的目录跳转.
-- [Fzf](https://github.com/PatrickF1/fzf.fish) -增强您的鱼类命令行 [fzf](https://github.com/junegunn/fzf) 按键绑定.  （[Alternative](https://github.com/jethrokuan/fzf)).
-- [Replay](https://github.com/jorgebucaran/replay.fish) -运行Bash命令以重播Fish中的更改.
-- [Nvm](https://github.com/jorgebucaran/nvm.fish)  -100％纯鱼Node.js版本管理器.  （[Alternative](https://github.com/FabioAntunes/fish-nvm)).
+- [z](https://github.com/jethrokuan/z) -纯鱼 [`rupa/z`](https://github.com/rupa/z)类似的目录跳转.
+- [fzf](https://github.com/PatrickF1/fzf.fish) -面向Ef的键绑定 [`junegunn/fzf`](https://github.com/junegunn/fzf). ([Alternative](https://github.com/jethrokuan/fzf)).
+- [nvm](https://github.com/jorgebucaran/nvm.fish) -专门为Fish设计的Node.js版本管理器.
 - [Done](https://github.com/franciscolourenco/done) -漫长的过程完成后自动接收通知.
-- [Spark](https://github.com/jorgebucaran/spark.fish) -纯鱼火花线发生器：▂▃▅▂▇装在外壳中.
-- [Autopair](https://github.com/jorgebucaran/autopair.fish)  -在命令行中自动插入，删除和跳过匹配对.  （[Alternative](https://github.com/laughedelic/pisces)).
-- [Gitio](https://github.com/jorgebucaran/gitio.fish) -创建一个微小的GitHub URL.
-- [GitNow](https://github.com/joseluisq/gitnow) -一组实用程序功能，可加快git工作流程.
-- [Getopts](https://github.com/jorgebucaran/getopts.fish)  -CLI选项解析器； 替代 [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) 内置的.
+- [Replay](https://github.com/jorgebucaran/replay.fish)  -运行Bash命令以重播Fish中的更改.  （[Alternative](https://github.com/edc/bass))
+- [Spark](https://github.com/jorgebucaran/spark.fish) -纯鱼火花线发生器.
+- [Gitio](https://github.com/jorgebucaran/gitio.fish) -创建自定义git.io URL.
+- [GitNow](https://github.com/joseluisq/gitnow) -一系列实用程序功能，可加快您的git工作流程.
+- [Autopair](https://github.com/jorgebucaran/autopair.fish)  -在Fish命令行中自动完成匹配对.  （[Alternative](https://github.com/laughedelic/pisces)).
+- [Getopts](https://github.com/jorgebucaran/getopts.fish) -CLI选项解析器（替代 [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) 内置）.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) -Fish的基于TAP的测试运行程序.
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) -Virtualenv包装器.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) -自定义您 [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) 在iTerm2中.

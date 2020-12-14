@@ -106,7 +106,7 @@
 * [MacTerm](https://www.macterm.net/) -强大的macOS终端替代品.
 * [Mosh](https://github.com/mobile-shell/mosh) -允许漫游并支持间歇性连接的远程终端应用程序.
 * [PuTTY](https://www.putty.org/) -SSH和telnet客户端，最初由Simon Tatham为Windows平台开发.
-* [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) -终端机器人的未来.
+* [Terminator](https://github.com/gnome-terminator/terminator) -在一个窗口中有多个GNOME终端.
 * [Terminology](https://github.com/billiob/terminology) -基于Enlightenment Foundation库的最佳终端仿真器.
 * [Terminus](https://github.com/Eugeny/terminus) -基于网络技术的更现代的跨平台终端.
 * [Termite](https://github.com/thestinger/termite/) -以键盘为中心的终端，旨在在平铺窗口管理器中使用.
