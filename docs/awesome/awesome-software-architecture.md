@@ -45,6 +45,7 @@
 
 ## Documentation
 
+- [arc42](https://arc42.org/) -用于软件和系统架构的文档记录和通信的模板.
 - [Architectural Decision Records](https://adr.github.io/) -版本和文档架构决策与使用代码的方式相同.
 - [Documenting architecture](https://dzone.com/articles/documenting-architecture-1) -关于如何有效记录软件体系结构的实用技巧.
 
@@ -77,7 +78,7 @@
 
 ### Agile
 
-- [Scrum](https://www.scrumguides.org/) -开发和维护复杂产品的框架.
+- [Scrum](https://www.scrumguides.org/) - Framework for developing and maintaining complex products.
 - [SAFe](https://www.scaledagileframework.com/) -可扩展的敏捷框架.
 - [Nexus](https://www.scrum.org/resources/scaling-scrum) -Scrum联合创始人Ken Schwaber表示，可扩展Scrum. 
 - [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) -“敏捷”如何摆脱了敏捷性的基本原理，以及我们需要做些什么来解决问题.
@@ -97,7 +98,7 @@
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) -结合软件开发和运营实践，以缩短上市时间，同时保持高质量.
 - [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) -IT，Devops并帮助您赢得业务：orange_book ：.
 - [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41) -开发人员，数据时代的数字颠覆与繁荣：橙色图书：.
-- [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) - How BPDTS use the CALMS model as a reference for their devops adaptations. 
+- [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) -BPDTS如何使用CALMS模型作为其devop适应的参考。 
 - [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) -混沌工程学是软件工程学中的一门新学科，使人们对大规模分布式系统的行为充满信心. 
 - [Adidas DevOps Maturity Framework](https://github.com/adidas/adidas-devops-maturity-framework) -根据CALMS对DevOps的定义，该框架定义了一组功能和指南，这些功能和指南在被采用时可提高团队的效率，效力和幸福感.
 ## Bonus

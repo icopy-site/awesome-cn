@@ -33,7 +33,7 @@
     * GoLand-Go IDE
     * PhpStorm-PHP IDE
     * PyCharm-Python IDE
-    * Rider - .NET IDE
+    *骑士-.NET IDE
     * WebStorm-JavaScript IDE
     * RubyMine-Ruby IDE
   
@@ -113,11 +113,11 @@
 
 * [SiteGround](https://www.siteground.com/students-plan.htm) [折扣]-每月$ 1.99，而不是每月$ 3.95 [StartUp plan](https://www.siteground.com/shared-hosting-features.htm).
 
-* [Bip](https://bip.sh/students)  [折扣]-静态虚拟主机.  Bip为学生提供30％的经常性折扣 [on all plans](https://bip.sh/students).
+* [Bip](https://bip.sh/students)  [折扣]-静态虚拟主机.  Bip为学生提供30％的经常性折扣 [on all plans](https://bip.sh/pricing).
 
 * [Education Host](https://education.github.com/pack/redeem/educationhost) [免费]-可免费使用Designer软件包为学生提供1年的虚拟主机托管服务，并提供升级优惠.可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
-* [NodeHost](https://www.nodehost.ca/teachers) [FREE] - PHP hosting. Free container plan comes with 350MB Storage, 35GB Bandwidth, 1 MySQL Database, and 2 email accounts.
+* [NodeHost](https://www.nodehost.ca/teachers)  [免费]-PHP托管. 免费容器计划随附350MB存储空间，35GB带宽，1个MySQL数据库和2个电子邮件帐户.
 
 * [Pageclip](https://pageclip.co/github-students) [免费]-用于您的静态网站和HTML表单的服务器.学生期间可免费获得基本计划.
 
@@ -198,9 +198,9 @@
 
 ## Management Systems
 
-  * [Bitnami](https://bitnami.com)  [免费]-单击即可安装云应用程序. 可通过以下方式获得一年的Business 3计划（通常为49美元/月），为期一年 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Bitnami](https://bitnami.com)  [免费]-单击即可安装云应用程序. 可以通过以下方式获得一年的Business 3计划（通常为每月49美元） [Github Student Developer Pack](https://education.github.com/pack).
 
-* [Yellow Circle](http://www.yellowcircle.net) [免费]-通过创建和配置虚拟路由器，虚拟机，虚拟防火墙，负载均衡器和存储设备，为各级学生和教师提供免费的在线沙箱，以学习和实践IT，网络和编程技能.
+* [Yellow Circle](https://yellowcircle.net) [免费]-通过创建和配置虚拟路由器，虚拟机，虚拟防火墙，负载均衡器和存储设备，为各级学生和教师提供免费的在线沙箱，以学习和实践IT，网络和编程技能.
 
 * [Vertabelo](http://www.vertabelo.com/)  [免费]-功能齐全的数据库设计在线工具. 免费用于教育目的.
 
@@ -265,9 +265,9 @@
 
 * [Termius](https://termius.com/education)  [免费]-适用于台式机和移动设备的SSH客户端.  Termius安全地在所有设备上同步数据. 当您是学生时，可以免费使用高级计划.
 
-* [Astra](https://www.getastra.com/github-student-developer-pack) [免费]-您网站的安全套件-防火墙，恶意软件扫描程序和受管理的漏洞赏金平台.可六个月访问网站防火墙和恶意软件扫描程序.
+* [Astra](https://www.getastra.com/github-student-developer-pack) [FREE] - Security suite for your website - firewall, malware scanner & managed bug bounty platform.6 month access to website firewall & malware scanner.
 
-* [BrowserStack](https://www.browserstack.com/github-students) [免费]-使用BrowserStack的Real Device Cloud测试您的Web应用程序，使您可以即时访问2000多种浏览器以及真实的iOS和Android设备.免费并行1位用户和1位用户的自动移动计划，为期1年.
+* [BrowserStack](https://www.browserstack.com/github-students) [免费]-使用BrowserStack的Real Device Cloud测试您的Web应用程序，使您可以即时访问2000多种浏览器以及真实的iOS和Android设备.免费并行1位用户和1位用户的自动移动计划，为期一年.
 
 * [LambdaTest](https://education.github.com/pack/redeem/lambdatest) [免费]-在线对2000多种真实的浏览器和操作系统进行自动化和实时交互的跨浏览器测试.免费LambdaTest Live Plan一年.
 
@@ -291,7 +291,7 @@
 
 ## Visual Analytics
 
-  * [CartoDB](https://cartodb.com/solutions/education-and-research/) [免费/折扣]-免费帐户的其他空间和功能，或付费帐户可享受20％的折扣.
+  * [CARTO](https://carto.com/help/getting-started/student-accounts/) [免费/折扣]-免费帐户升级，包括增加的数据库存储，实时数据，位置数据服务信用和2年的高级功能.
 
 * [Tableau Desktop](https://www.tableau.com/academic/students) [免费]-一年的学生专业执照.
 
@@ -334,7 +334,7 @@
 
 * [Dashlane](https://www.dashlane.com/students) [免费]-一年免费为学生提供Dashlane Premium，为新老用户提供符合条件的学生电子邮件（此后每月$ 3.33）
 
-* [LastPass](https://lastpass.com/edupromo.php) [免费]-享受6个月的LastPass Premium，以帮助您管理学校的在线生活！
+* [LastPass](https://lastpass.com/edupromo.php) [FREE] - Enjoy 6 months of LastPass Premium to help you manage your online life at school!
 
 * [RoboForm](https://www.roboform.com/promotions/college) [免费]-免费提供第一年有效大学或学院电子邮件地址的学生和教授（此后每年12美元）
 

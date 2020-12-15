@@ -36,7 +36,7 @@
 - [FEZ](http://www.fezgame.com/)  -通过三维旋转来探索2D未来主义世界. 简约的风格，明亮的鲜艳色彩和动态照明将16位时代带入了未来.
 - [Superbrothers: Sword & Sworcery EP](http://www.swordandsworcery.com/)  -在青铜时代的山野中悠闲地冒险. 在受月相影响的生活世界中，梦幻般的柔和色彩.
 - [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/) -具有8位复古美感的经典动作冒险，具有现代NES游戏的外观.
-- [Hyper Light Drifter](http://www.heart-machine.com/)  -在科幻世界中自上而下的动作会散发出光和温暖. 使用色彩缤纷的调色板和千变万化的霓虹灯，营造出冷酷的氛围.
+- [Hyper Light Drifter](https://heartmachine.com/hyper-light)  -在科幻世界中自上而下的动作会散发出光和温暖. 使用色彩缤纷的调色板和千变万化的霓虹灯，营造出冷酷的氛围.
 - [Owlboy](http://www.owlboygame.com/)  -在云端探索一个详细的蒸汽朋克世界. 凭借其一系列引人入胜的动画和表情，世界和角色都栩栩如生.
 - [Stardew Valley](https://stardewvalley.net/) -从上到下的角度管理农场，并以16位元与迷人而开朗的世界互动.
 - [Starbound](https://playstarbound.com/) -穿越充满活力，色彩丰富且广阔的星系，包括富有创意的动态动画.

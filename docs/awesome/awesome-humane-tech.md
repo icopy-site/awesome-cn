@@ -144,7 +144,7 @@
 - [Goatcounter](https://www.goatcounter.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zgoat/goatcounter)  -简单的网络统计. 不追踪个人数据.
 - [Open Web Analytics](http://www.openwebanalytics.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/padams/Open-Web-Analytics) -掌握如何衡量和分析网站和应用程序使用情况的控制权.
 - [Shynet](https://github.com/milesmcc/shynet) -无需使用Cookie或JS即可进行隐私保护的详细网络分析.
-- [PostHog](https://posthog.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/PostHog/posthog) - Developer-friendly, open-source product analytics.
+- [PostHog](https://posthog.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/PostHog/posthog) -开发人员友好的开源产品分析.
 - [umami](https://umami.is/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mikecao/umami) -一种简单，快速的网站分析替代Google Analytics（分析）.
 - [AWStats](https://www.awstats.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/eldy/awstats) -免费的实时日志文件分析器，以获取高级统计信息.
 - [Offen](https://www.offen.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/offen/offen)  -公平的网络分析. 在您的用户完全控制其数据时获得见解.
@@ -266,7 +266,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 ## Mindfulness
 
 - [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mindfulness-at-the-computer/mindfulness-at-the-computer) -帮助您在使用计算机时注意呼吸.
-- [Chomper](https://addictedto.tech/chomper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/aniketpanjwani/chomper) -带有allowLists / blockLists和计时器的Linux互联网阻止程序，在工作中更具生产力.
+- [Chomper](https://addictedto.tech/chomper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/aniketpanjwani/chomper) - Internet blocker for Linux with allowLists/blockLists and timer to be more productive at work.
 - [Jobs Done](https://jobs-done.now.sh/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/skidding/jobs-done) -一款受深度工作启发而结束工作日的礼仪应用程序.
 - [Break Timer](https://github.com/tom-james-watson/breaktimer-app) -定期休息并防止RSI，眼睛疲劳和疲劳的应用程序.
 - [MindBell](https://www.dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/udamken/mindbell) -Android的正念铃和冥想计时器.
@@ -347,6 +347,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [ReverseEagle-Developers](https://developers.reverseeagle.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://forge.tedomum.net/ReverseEagle/developers) -针对开发人员的注重隐私，道德和安全的软件替代方案.
 - [ethical.net](https://ethical.net/resources/) -道德选择和资源.
 - [JustPrivacy](https://justprivacy.org/google-alternatives/) -有关Google及其产品的替代产品的详细列表.
+- [Tromjaro Apps](https://www.tromjaro.com/apps/) -精选的非贸易应用程序集合. 
 - [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) -与出色的项目相似，但仅适用于FOSS，开放数据和开放科学.
 
 ## Contributing

@@ -157,7 +157,7 @@
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) -免费的macOS计算机取证工具.
 - [OSXCollector](https://github.com/Yelp/osxcollector) -适用于macOS的取证证据和分析工具包.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -Windows Batch脚本和Unix Bash脚本，可在事件响应期间全面收集主机取证数据.
-- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+- [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) -命令行实用程序（可与或不与Amazon EC2实例一起使用）并行化远程内存获取.
 
 ## Network perimeter defenses
 
@@ -267,7 +267,7 @@
 - [AttackerKB](https://attackerkb.com/) -免费的公共众包漏洞评估平台，可帮助确定高风险补丁应用程序的优先级并消除漏洞疲劳.
 - [DATA](https://github.com/hadojae/DATA) -凭据网络钓鱼分析和自动化工具，可以直接接受可疑的网络钓鱼URL，也可以在观察到的包含此类URL的网络流量上触发.
 - [Forager](https://github.com/opensourcesec/Forager) -使用Python3构建的多线程威胁情报收集功能，基于简单的文本配置和数据存储，易于使用和数据可移植性.
-- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) -通过被动地映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）以及监督控制和数据采集（SCADA）的态势感知.
+- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 - [MLSec Combine](https://github.com/mlsecproject/combine) -收集多种威胁情报源并将其组合成一种可定制的，基于CSV的标准化格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) -用于收集，存储，分发和共享网络安全指标的开源软件解决方案.
 - [Sigma](https://github.com/Neo23x0/sigma) -SIEM系统的通用签名格式，提供一种开放签名格式，使您可以直接描述相关的日志事件.
@@ -279,6 +279,7 @@
 ### Threat signature packages and collections
 
 - [FireEye's Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) -收集Snort和YARA规则以检测使用FireEye自己的Red Team工具进行的攻击，该方法在FireEye在2020年12月披露漏洞后首次发布.
+- [FireEye's Sunburst Countermeasures](https://github.com/fireeye/sunburst_countermeasures) -收集各种语言的IoC，以检测后门SolarWinds Orion NMS活动和相关漏洞.
 - [YARA Rules](https://github.com/Yara-Rules/rules) -满足IT安全研究人员需要拥有一个存储库的项目，在该存储库中，将对不同的Yara签名进行编译，分类和保持最新.
 
 ## Tor Onion service defenses

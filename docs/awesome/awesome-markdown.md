@@ -40,10 +40,10 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 &gt;默认情况下支持Markdown的CMS或博客.
 
 - [Ghost](https://blog.ghost.org/markdown/) -专业博客作者的发布平台.
-- [Grav](https://getgrav.org/) -现代平面文件CMS.
+- [Grav](https://getgrav.org/) - Modern Flat-File CMS.
 - [Hexo](https://hexo.io/) -快速，简单且功能强大的博客框架
 - [Hugo](https://gohugo.io/) -快速和现代的静态网站引擎.
-- [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
+- [Jekyll](https://jekyllrb.com/) -将纯文本转换为静态网站和博客.
 - [Pelican](https://blog.getpelican.com/) -静态站点生成器，不需要数据库或服务器端逻辑.
 - [Svbtle](https://svbtle.com/) -旨在帮助您思考的博客平台.
 - [Vuepress](https://vuepress.vuejs.org/) -简约的Vue供电的静态网站生成器.
@@ -80,6 +80,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 
 ### PHP
 
+- [commonmark](https://github.com/thephpleague/commonmark) -高度可扩展的PHP Markdown解析器，完全支持CommonMark和GFM规范.
 - [parsedown](https://github.com/erusev/parsedown) -PHP中更好的Markdown解析器.
 - [php-markdown](https://github.com/michelf/php-markdown) -由John Gruber原始Markdown.pl派生的Markdown和Markdown Extra解析器.
 
@@ -103,7 +104,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 &gt;将Markdown转换为其他格式，反之亦然.
 
 - [csvtomd](https://github.com/mplewis/csvtomd)  -将您的CSV文件转换为Markdown表.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
-- [Dimer Markdown](https://github.com/dimerapp/markdown) -将Markdown转换为HTML或JSON！[Globe] [globe]！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Dimer Markdown](https://github.com/dimerapp/markdown) -将Markdown转换为HTML或JSON！[Globe] [globe]！[Mac OS X] [macosx]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) -使用PHP将HTML转换为Markdown.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) -Markdown转PDF转换器.
 - [Markdown to PDF](https://www.markdowntopdf.com/)  -简单实用的网站，可将Markdown转换为PDF.  ！[地球] [地球]

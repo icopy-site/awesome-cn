@@ -14,7 +14,6 @@
 
 ## Blockchain
 
-* [Blocktribe](https://blocktribe.com/) -从事“区块链，DLT，以太坊，Hyperledger，R3，加密货币和相关分布式技术”工作人员的工作板.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
 * [Crypto Job](https://crypto-job.com/)  -加密工作是人才与机会相遇的地方. 我们的目标是将充满激情的区块链和加密货币开发商与重视其才能和专业知识的公司联系起来.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) -区块链和加密货币工作的主要工作委员会
@@ -58,10 +57,6 @@
 * [infosec-jobs.com](https://infosec-jobs.com/) -一个新鲜而精益的InfoSec工作委员会
 
 ## Programming
-
-### Elixir
-
-* [Elixir Jobs](https://elixir.career/)
 
 ### Full-Stack
 
@@ -124,12 +119,15 @@
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
 * [EqualOpportunity.Work](https://equalopportunity.work/)
+* [Just Remote](https://justremote.co/remote-jobs)
 
 ### Aggregator
 
+* [Career Vault](https://careervault.io/) 每隔几个小时从900多家公司中刮除数千个远程工作
 * [remote | OK](https://remoteok.io/)
 * [whoishiring.io](https://whoishiring.io/)
 * [remote4me.com](https://remote4me.com/)
+* [remotebond](https://remotebond.com/)
 
 ## Startups
 

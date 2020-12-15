@@ -29,9 +29,9 @@
 ## Prompts
 
 - [Tide](https://github.com/IlanCosman/tide) -Fish的现代提示经理.
-- [Pure](https://github.com/rafaelrinaldi/pure) -的港口 [original pure](https://github.com/sindresorhus/pure) 提示.
+- [Pure](https://github.com/rafaelrinaldi/pure) -从 [zsh original](https://github.com/sindresorhus/pure).
 - [Fly](https://github.com/jorgebucaran/fly.fish) -毫不客气的，最小的命令行提示符，会飞〜％！
-- [Lucid](https://github.com/mattgreen/lucid.fish) -极简主义的高性能提示，带有异步Git脏检查.
+- [Lucid](https://github.com/mattgreen/lucid.fish) -带有异步Git脏检查的最小，高性能提示.
 - [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) -电力线式，可识别Git的外壳提示.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) -使您的提示异步！
 

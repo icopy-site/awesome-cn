@@ -122,6 +122,7 @@
 - [Node](https://github.com/mysticatea/eslint-plugin-node) -针对Node.js的其他ESLint规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) -ESLint的SQL插入规则.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) -TypeScript的Linting规则.
+- [YAML](https://github.com/ota-meshi/eslint-plugin-yml) -YAML的ESLint插件.
 
 ### Libraries
 

@@ -9,7 +9,7 @@
   <br />
 </p>
 
-<h2 align="center">很棒的Tailwind CSS</h2>
+<h2 align="center">Awesome Tailwind CSS</h2>
 
 <p align="center">
   <a href="https://tailwindcss.com">Tailwind CSS</a>是实用程序优先的CSS框架，用于快速构建自定义用户界面.
@@ -46,7 +46,7 @@
 
 **传奇**：官方资源
 
--  [IntelliSense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - IntelliSense extension for Visual Studio Code.
+-  [IntelliSense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) -Visual Studio Code的IntelliSense扩展.
 - [Styled Snippets for Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) -Visual Studio Code的代码段扩展.
 - [Headwind for Code](https://github.com/heybourn/headwind) -Visual Studio Code的类排序器扩展.
 - [Shades for Code](https://github.com/bourhaouta/vscode-tailwindshades) -Visual Studio Code的调色板生成器扩展.
@@ -219,9 +219,11 @@
 -  [Resume](https://github.com/mohusman360/mohusman360.github.io) -使用Tailwind CSS的简单简历.
 -  [Simple Light](https://github.com/cruip/tailwind-landing-page-template) -使用React＆Tailwind CSS构建的免费登陆页面模板.
 -  [V-Dashboard](https://github.com/wobsoriano/v-dashboard) -使用Vue 3和Tailwind CSS构建的仪表板入门模板.
+-  [Petra](https://github.com/Smuice-com/Free-Nuxtjs-Tailwindcss-landing-page-template) -使用Nuxt.js和Tailwind CSS构建的免费目标网页模板.
 -  [a17t](https://a17t.miles.land) -用于扩展Tailwind CSS的原子设计工具包.
 -  [tails-ui](https://github.com/knipferrc/tails-ui) -使用Tailwind CSS的React UI库.
 -  [tails](https://github.com/thedevdojo/tails) -使用Tailwind CSS手工制作的模板和组件.
+
 
 ## Starters & Themes
 

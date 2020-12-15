@@ -118,6 +118,8 @@
 * [ASP.NET Core in Action](https://www.manning.com/books/asp-net-core-in-action)  -教授如何使用ASP.NET Core编写Web应用程序.  ** [$] **
 * [Entity Framework Core in Action](https://www.manning.com/books/entity-framework-core-in-action)  -教授如何使用Entity Framework Core，包括重量更轻的数据访问替代方案，例如Dapper.  ** [$] **
 * [The Little ASP.NET Core Book](https://recaffeinate.co/book/) -一本免费的，开放源代码的，基于教程的书，旨在提供对ASP.NET Core的简单介绍.
+* [Blazor in Action](https://www.manning.com/books/blazor-in-action) - A guide to building  UIs and client-side applications using C# and .NET. **[$]**
+
 
 ## Build Automation
 
@@ -146,7 +148,7 @@
 
 ## Calendar
 
-* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET是用于.NET的iCalendar（RFC 5545）类库，旨在提供RFC 5545兼容性，同时提供与流行的日历应用程序和库的完全兼容性.
+* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET是用于.NET的iCalendar（RFC 5545）类库，旨在提供RFC 5545合规性，同时提供与流行的日历应用程序和库的完全兼容性.
 
 ## CLI
 
@@ -217,7 +219,7 @@
 * [Nemerle](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 * [Netjs](https://github.com/praeclarum/Netjs)  -.NET到TypeScript和JavaScript编译器. 便携式类库对此非常有用. 您甚至可以传递EXE.
 * [P](https://github.com/p-org/P) -P是用于异步事件驱动的编程的语言.
-* [PeachPie](https://github.com/peachpiecompiler/peachpie) -PeachPie是.NET和.NET Core的PHP编译器和运行时，它允许整个PHP应用程序在现代，安全和高性能的.NET和.NET Core平台上运行.
+* [PeachPie](https://github.com/peachpiecompiler/peachpie) -PeachPie是.NET和.NET Core的PHP编译器和运行时，它允许整个PHP应用程序在现代，安全和高效的.NET和.NET Core平台上运行.
 * [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
 * [Testura.Code](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 * [VisualFSharp](https://github.com/dotnet/fsharp) - The Visual F# compiler and tools
@@ -867,7 +869,7 @@
 
 ## Static Site Generators
 
-* [FsBlog](https://github.com/fsprojects/FsBlog/) -博客意识，使用F生成静态网站#
+* [FsBlog](https://github.com/fsprojects/FsBlog/) -博客意识，使用F生成静态站点#
 * [Pretzel](https://github.com/Code52/pretzel) -用于.NET平台的网站生成工具（然后是某些工具）
 * [Sandra.Snow](https://github.com/Sandra/Sandra.Snow) -受Jekyll启发的.NET静态站点生成
 
@@ -996,7 +998,7 @@
 
 * [Kestrel](https://github.com/aspnet/KestrelHttpServer) -基于libuv的ASP.NET Core Web服务器
 * [EmbedIO](https://github.com/unosquare/embedio) -基于Mono和跨平台构建的Web服务器
-* [XSP](https://github.com/mono/xsp)  -Mono的ASP.NET托管服务器. 该模块包括Apache模块，可挂接到其他Web服务器的FastCGI模块以及用于测试的独立服务器（类似于Microsoft的Cassini）
+* [XSP](https://github.com/mono/xsp)  -Mono的ASP.NET托管服务器. 该模块包括一个Apache模块，一个可挂接到其他Web服务器的FastCGI模块以及一个用于测试的独立服务器（类似于Microsoft的Cassini）
 
 ## WebSocket
 
@@ -1038,7 +1040,7 @@
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) -很棒的.NET核心库，工具，框架和软件的集合
 * [ASP.NET Core Library and Framework Support](https://github.com/jpsingleton/ANCLAFS) -ASP.NET Core和.NET Core当前支持哪些.NET库和框架.
 * [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) -精选的.NET Performance优秀书籍，课程，培训，会议演讲，博客和最具启发性的开源贡献者的清单.
-* [awesome-ddd](https://github.com/heynickc/awesome-ddd) -精选的域驱动设计（DDD），命令查询责任隔离（CQRS），事件源和事件风暴资源的列表
+* [awesome-ddd](https://github.com/heynickc/awesome-ddd) -精选的域驱动设计（DDD），命令查询责任隔离（CQRS），事件源和事件风暴资源列表
 * [Awesome Unity](https://github.com/RyanNielson/awesome-unity) -由社区驱动的高质量Unity资产，项目和资源的分类收集.
 * [Awesome Xamarin](https://github.com/XamSome/awesome-xamarin) -Xamarin移动项目的有趣库/工具的集合.
 * [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) -精选的罗斯林书籍，教程，开源项目，分析器，代码修复和重构的精选清单.

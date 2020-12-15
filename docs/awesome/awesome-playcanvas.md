@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是用于构建交互式Web内容的开源平台. 它是用JavaScript，HTML5，CSS3和WebGL编写的.
 >
-&gt;此列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
+&gt;该列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
 >
 &gt;捐款_非常欢迎_但先见 [Contributing](#contributing).
 
@@ -38,6 +38,7 @@
 - [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) -使用PlayCanvas建立基本的演示.
 - [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) -大量的官方PlayCanvas教程.
 - [Playing in Canvas](http://pirron.one/playingincanvas/) -Pirron One的PlayCanvas主题博客.
+- [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) -制作简单的基于物理的游戏的教程.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) -简短的PlayCanvas教程的YouTube播放列表.
 
 ## Extensions and Utilities
@@ -67,6 +68,7 @@
 
 - [Ally Racing](https://www.allyracer.com/) -复古NASCAR赛车广告游戏.
 - [Billie Eilish](https://site.billieeilish.com/) -在WebGL中重新创建了Billie的卧室.
+- [Cyber City](https://vz777.com/cybercity/index.html) -Visionaries777促销网站.
 - [eBay Report](https://www.ebay-report.de/) -来自eBay德国的统计数据和事实.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) -适用于流行手机游戏的交互式3D广告.
 - [DOOH Invaders](https://vimeo.com/136313614) -世界上最大的太空侵略者克隆在戛纳电影节上亮相.
@@ -114,7 +116,7 @@
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) -摩托车配置器.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) -越野车配置器.
 
-## Product Configurators and Visualizers
+## Product Configurators
 
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) -电梯配置器.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) -以使命召唤为主题的促销3D体验.
@@ -124,6 +126,11 @@
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) -壁橱配置器.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) -窗口配置器.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) -温室配置器.
+
+## AR/VR/XR
+
+- [Neon Bubblegum](https://www.rtz23.de/) -Karsten Weil的演示场景样式基于WebXR的主页.
+- [WebXR VR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) -用于VR交互实验的沙盒.
 
 ## Contributing
 

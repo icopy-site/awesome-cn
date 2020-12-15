@@ -117,7 +117,7 @@
 *  [vkQuake2](https://github.com/kondrak/vkQuake2)  -id Software的Quake 2 v3.21，具有Vulkan支持（Windows和Linux）.  [GPL]
 *  [q2vkpt](https://github.com/cschied/q2vkpt/)  -实时路径跟踪器VKPT集成到q2pro Quake 2客户端中.  [gpl]
 *  [Linux port of SteamVR](https://github.com/ValveSoftware/SteamVR-for-Linux) -SteamVR建立在Vulkan API之上.
-*  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) - 3DMark API Overhead test.
+*  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) -3DMark API开销测试.
 *  [Q2RTX](https://github.com/NVIDIA/Q2RTX) -NVIDIA在Quake II中实现了RTX射线跟踪. [[LICENSE](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt)]
 
 ## Samples
@@ -165,7 +165,7 @@ drm/kms.
 *  [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-released/23109)  -在SDL_vulkan.h中添加了跨平台Vulkan图形支持.  [zlib]
 *  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) -NXP GTEC C ++ 11跨平台演示框架，包括用于Vulkan，OpenGL ES，OpenVX，OpenCL，OpenVG和OpenCV的大量示例. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
 *  [openFrameworks](https://github.com/openframeworks-vk/openFrameworks)  -最著名的C ++创新编码框架.  [麻省理工学院]
-*  [PowerVR SDK](https://github.com/powervr-graphics/Native_SDK) -C ++跨平台3D图形SDK，可加快Vulkan和GLES的开发. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
+*  [PowerVR SDK](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
 *  [glfw](https://github.com/glfw/glfw) 和 [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/LICENSE.md)]
 *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/)  -在iOS和macOS上运行Vulkan.  [Apache-2.0]
 *  [imgui](https://github.com/ocornut/imgui)  -立即模式图形用户界面.  [麻省理工学院]
@@ -210,6 +210,7 @@ drm/kms.
 *  [vkt/vkh](https://github.com/world8th/vkt) ，是Vulkan API（1.1）的帮助程序，基于C ++ 20.  [麻省理工学院]
 *  [Vulkan Kompute](https://github.com/axsaucedo/vulkan-kompute)  -快速，轻巧的Vulkan Compute Framework，针对高级GPU处理用例进行了优化.  [Apache许可2.0]
 *  [VKVG](https://github.com/jpbruyere/vkvg) -Vulkan 2D图形库，API遵循与Cairo图形库相同的模式，但具有新功能.
+*  [Logi](https://github.com/UL-FRI-LGM/Logi)  -轻量级的面向对象的Vulkan抽象框架.  [BSD 2句]
 
 ## Bindings
 *  [ash](https://github.com/MaikKlein/ash) 生锈的火山绑定.  [我的]
@@ -261,6 +262,9 @@ drm/kms.
     *  [Vulkan 1.1 Specification](https://www.khronos.org/registry/vulkan/specs/1.1/pdf/)
     *  [Vulkan 1.1 Specification with Extensions ](https://www.khronos.org/registry/vulkan/specs/1.1-extensions/pdf/vkspec.pdf)
     *  [Vulkan 1.1 Specification with KHR Extensions](https://www.khronos.org/registry/vulkan/specs/1.1-khr-extensions/pdf/)
+    *  [Vulkan 1.2 Specification](https://www.khronos.org/registry/vulkan/specs/1.2/pdf/vkspec.pdf)
+    *  [Vulkan 1.2 Specification with Extensions ](https://www.khronos.org/registry/vulkan/specs/1.2-extensions/pdf/vkspec.pdf)
+    *  [Vulkan 1.2 Specification with KHR Extensions](https://www.khronos.org/registry/vulkan/specs/1.2-khr-extensions/pdf/vkspec.pdf)
 *快速参考表
     *  [Vulkan 1.0 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.0/refguide/Vulkan-1.0-web.pdf)
     *  [Vulkan 1.1 Quick Reference Sheets](https://www.khronos.org/registry/vulkan/specs/1.1/refguide/Vulkan-1.1-web.pdf)
