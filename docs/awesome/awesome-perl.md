@@ -31,6 +31,13 @@
 
 * [Audio::CD](https://metacpan.org/pod/Audio::CD) -libcdaudio（cd + cddb）的接口
 * [Audio::Wav](https://metacpan.org/pod/Audio::Wav) -用于读取和写入Microsoft WAV文件的模块.
+* [Audio::SndFile](https://metacpan.org/pod/Audio::SndFile) -用于读取和写入声音文件的Perl库
+* [Audio::Ao](https://metacpan.org/pod/Audio::Ao) -Ao音频库的Perl包装器
+* [MIDI::ALSA](https://metacpan.org/pod/MIDI::ALSA) -perl ALSA库，以及一些接口功能
+
+### DSP
+* [Audio::Analyzer](https://metacpan.org/pod/Audio::Analyzer) -通过FFT和perl解调音频！
+* [Audio::Analyzer::ToneDetect](https://metacpan.org/pod/Audio::Analyzer::ToneDetect) -检测音频文件或流中的音频频率
 
 ## Benchmarks
 
@@ -66,7 +73,7 @@
 * [Moo](https://metacpan.org/pod/Moo) -支持元编程的类生成器.
 * [Moose](https://metacpan.org/pod/Moose) -唯一的，驼鹿.
 * [Mouse](https://metacpan.org/pod/Mouse) -另一个类构建器，例如Moo / Moose.
-* [Object::Pad](https://metacpan.org/pod/Object::Pad) - `class Example { has $x; method reader { return $x } }`, experimental proving-ground for [Cor](https://gist.github.com/Ovid/68b33259cb81c01f9a51612c7a294ede)
+* [Object::Pad](https://metacpan.org/pod/Object::Pad)  -`class Example {有$ x; 方法阅读器{return $ x}}`，用于 [Cor](https://gist.github.com/Ovid/68b33259cb81c01f9a51612c7a294ede)
 * [Object::Tiny](https://metacpan.org/pod/Object::Tiny) -简洁，快速且小巧的类生成器.
 
 ## CLI
@@ -124,7 +131,7 @@
 
 ## Database
 
-*用于处理关系数据库的库*
+*Libraries for dealing with relational databases*
 
 * [DBI](https://metacpan.org/pod/DBI)
 * [DBIx::Connector](https://metacpan.org/pod/DBIx::Connector) -快速，安全的DBI连接和事务管理
@@ -170,9 +177,12 @@
 
 *与物理设备对话的图书馆*
 
+* [Device::SerialPort](https://metacpan.org/pod/Device::SerialPort) -用于串行线路通信的通用串行端口库
 * [Device::Modem](https://metacpan.org/pod/Device::Modem) -与通过串口联网的调制解调器设备通话
 * [Device::Onkyo](https://metacpan.org/pod/Device::Onkyo) -通过局域网或串行控制Onkyo / Integra AV设备
-
+* [Chipcard::PCSC::Card](https://metacpan.org/pod/distribution/pcsc-perl/Card/Card.pod) -使用perl和PCSC控制智能卡
+* [Device::XBee::API](https://metacpan.org/pod/Device::XBee::API) -使用纯Perl代码控制XBee设备
+* [Device::Firmata](https://metacpan.org/pod/Device::Firmata) -用于控制Firmata设备（如Arduino）的模块
 
 ## DevOps Tools
 
@@ -185,6 +195,8 @@
 *实现电子邮件创建和发送的库*
 
 * [Email::Sender](https://metacpan.org/pod/Email::Sender)
+* [Email::Reply](https://metacpan.org/pod/Email::Reply)
+* [Email::Stuffer](https://metacpan.org/pod/Email::Stuffer)
 
 ## Event Loops
 
@@ -208,6 +220,10 @@
 * [Throwable](https://metacpan.org/pod/Throwable) -可以抛出的类的角色
 * [Try::Tiny](https://metacpan.org/pod/Try::Tiny) -尽量减少尝试/抓取，并适当保留$ @
 * [TryCatch](https://metacpan.org/pod/TryCatch) -一流的尝试捕获Perl的语义，没有源过滤器
+
+## DOM Manipulation
+
+* [HTML5::DOM](https://metacpan.org/pod/HTML5::DOM) -具有CSS选择器的超快速html5 DOM库（基于Modest / MyHTML）.
 
 ## File Manipulation
 
@@ -234,6 +250,11 @@
 
 * [Image::Magick](https://metacpan.org/pod/Image::Magick) -ImageMagick图像合成库的面向对象的界面.
 * [Imager](https://metacpan.org/pod/Imager)
+* [GD](https://metacpan.org/pod/GD) -与Gd图形库的接口
+* [Image::Info](https://metacpan.org/pod/Image::Info) -获取图像信息
+* [Image::PNG::Libpng](https://metacpan.org/pod/release/BKB/Image-PNG-Libpng-0.52_03/lib/Image/PNG/Libpng.pm) -libpng的Perl接口
+* [Graphics::TIFF](https://metacpan.org/pod/Graphics::TIFF) -libtiff的Perl包装器
+* [Image::BMP](https://metacpan.org/pod/Image::BMP) -Perl位图图像解析器和查看器
 
 ## List Manipulation
 
@@ -241,7 +262,7 @@
 
 * [Array::Unique](https://metacpan.org/pod/Array::Unique) -可绑定数组，仅允许唯一值
 * [List::AllUtils](https://metacpan.org/pod/List::AllUtils) -将List :: Util，List :: SomeUtils和List :: Utils组合在一口大小的程序包中
-* [List::Compare](https://metacpan.org/pod/List::Compare) -比较两个或多个列表的元素
+* [List::Compare](https://metacpan.org/pod/List::Compare) - Compare elements of two or more lists
 * [List::Gen](https://metacpan.org/pod/List::Gen) -提供生成列表的功能
 * [List::MoreUtils](https://metacpan.org/pod/List::MoreUtils) -提供List :: Util中缺少的内容
 * [List::SomeUtils](https://metacpan.org/pod/List::SomeUtils) -提供List :: Util中缺少的内容
@@ -279,7 +300,7 @@
 * [Net::SSH::Any](https://metacpan.org/pod/Net::SSH::Any) -使用任何可用的模块或二进制客户端运行远程命令.
 * [Net::SFTP::Foreign](https://metacpan.org/pod/Net::SFTP::Foreign) -用于远程文件访问的SFTP客户端.
 * [Object::Remote](https://metacpan.org/pod/Object::Remote) -在远程计算机上运行Perl代码.
-* [Net::CLI::Interact](https://metacpan.org/pod/Net::CLI::Interact) - Automates interactive programs.
+* [Net::CLI::Interact](https://metacpan.org/pod/Net::CLI::Interact) -自动化交互式程序.
 * [Net::Appliance::Session](https://metacpan.org/pod/Net::Appliance::Session) -自动与设备交互.
 
 ## ORM
@@ -437,6 +458,9 @@
 
 * [FFmpeg](https://metacpan.org/pod/FFmpeg) -FFmpeg（用C语言编写的视频转换器）的接口
 * [Video::Info](https://metacpan.org/pod/Video::Info) -检索视频属性，例如：高度宽度编解码器fps
+* [Vlc::Engine](https://metacpan.org/pod/Vlc::Engine) -在Perl中使用Vlc媒体播放器
+* [VideoLAN::LibVLC](https://metacpan.org/pod/VideoLAN::LibVLC) -libvlc.so的Perl绑定
+* [Video::Generator](https://metacpan.org/pod/Video::Generator) -用于视频生成的Perl类
 
 ## Web Frameworks
 
@@ -474,6 +498,61 @@
 *用于从网站提取某些信息的图书馆*
 
 * [Web::Scraper](https://metacpan.org/pod/Web::Scraper)
+* [WWW::Mechanize](https://metacpan.org/pod/WWW::Mechanize)
+* [WWW::Mechanize::PhantomJS](https://metacpan.org/pod/WWW::Mechanize::PhantomJS) -自动化PhantomJS浏览器
+* [WWW::Scripter](https://metacpan.org/pod/distribution/WWW-Scripter/lib/WWW/Scripter.pod) -用于对具有脚本的网站进行脚本编写
+* [WWW::Selenium](https://metacpan.org/pod/WWW::Selenium) 
+
+
+## Network Security
+
+*一些很棒的库，可以用Perl开创网络安全的世界*
+
+
+* [Net::Pcap](https://metacpan.org/pod/Net::Pcap) -pcap LBL数据包捕获库的接口
+* [Net::Ncap](https://metacpan.org/pod/Net::Ncap) -Perl绑定到ncap网络数据捕获库
+* [Net::Frame](https://metacpan.org/pod/Net::Frame) -用于框架制作的Perl框架
+* [NetPacket](https://metacpan.org/pod/NetPacket) -在协议级别组装/分解网络数据包
+* [Net::Write](https://metacpan.org/pod/Net::Write) -便携式接口，用于打开原始数据并将其发送到网络
+* [Net::Analysis](https://metacpan.org/pod/Net::Analysis) -用于分析网络流量的Perl库
+* [Net::Silk](https://metacpan.org/pod/Net::Silk) -Perl与SiLK网络流库的接口
+* [Net::Inspect](https://metacpan.org/pod/Net::Inspect) -Perl库，用于检查各个网络层上的数据
+* [Net::Tshark](https://metacpan.org/pod/Net::Tshark) -Tshark网络捕获实用程序的Perl接口 
+* [Net::Sharktools](https://metacpan.org/pod/Net::Sharktools) -Perl中Wireshark的数据包检查功能
+* [File::PCAP](https://metacpan.org/pod/File::PCAP) -通过Perl读取，写入和操作PCAP文件格式
+* [Net::P0f](https://metacpan.org/pod/Net::P0f) -Perl接口到p0f实用程序，对指纹OS有用
+* [Net::Pcap::Reassemble](https://metacpan.org/pod/Net::Pcap::Reassemble) -Net :: Pcap的Perl IP片段重组
+* [Nagios::NRPE](https://metacpan.org/pod/Nagios::NRPE) -纯Perl Nagios NRPE实施
+* [Monitoring::Plugin](https://metacpan.org/pod/Monitoring::Plugin) -一系列Perl模块，可简化Naemon，Nagios，Icinga或Shinken（和兼容）插件的编写
+* [Net::Connection::Sniffer](https://metacpan.org/pod/Net::Connection::Sniffer) -适用于MiTM连接的实用Perl库
+* [Net::ARP](https://metacpan.org/pod/Net::ARP) -用于制作ARP数据包的库
+* [SNMPMonitor](https://metacpan.org/pod/SNMPMonitor) -用于编写SNMP监视器的Perl扩展
+* [Net::LibNIDS](https://metacpan.org/pod/Net::LibNIDS) -网络入侵检测系统库的Perl接口
+* [Parse::Snort](https://metacpan.org/pod/Parse::Snort) -Perl Snort规则解析器
+* [Net::Wireless::802_11::WPA::CLI](https://metacpan.org/pod/Net::Wireless::802_11::WPA::CLI) -Perl WPA_CLI界面
+* [IO::Socket::SSL::Intercept](https://metacpan.org/IO::Socket::SSL::Intercept) -用于通过Perl拦截SSL连接的库
+
+## Metadata Forensics
+
+*常规元数据文件解析器，在法医调查中非常有用*
+
+* [Image::ExifTool](https://metacpan.org/pod/distribution/Image-ExifTool/exiftool) -通用元数据解析器和查看器框架
+
+## Reverse Engineering
+
+*用于反汇编程序，ELF文件和字节码的库*
+
+* [Disassembly](https://metacpan.org/pod/distribution/B-C/script/disassemble) -将二进制字节码反编译为可读且可重新编译的字节码汇编器
+* [Python::Bytecode](https://metacpan.org/pod/Python::Bytecode) -解析Python字节码
+* [B::Bytecode](https://metacpan.org/pod/B::Bytecode) -将Perl脚本编译为字节码格式，以后可以加载
+* [Perf::ARM](https://metacpan.org/pod/Perf::ARM) -在Perl中使用ARM指令
+* [Asm::Z80::Table](https://metacpan.org/pod/Asm::Z80::Table) -使用Perl组装/拆卸所有Z80 CPU组装说明
+* [X86::Disasm](https://metacpan.org/pod/X86::Disasm) -使用Perl拆卸Intel x86指令
+* [Disassemble::X86](https://metacpan.org/pod/Disassemble::X86) -另一个用于取消X86指令的库
+* [X86::Udis86](https://metacpan.org/pod/X86::Udis86) -C Udis反汇编程序的接口
+* [Asm::X86](https://metacpan.org/pod/Asm::X86) -x86兼容处理器的指令和寄存器列表，验证和转换指令和内存引用
+* [ELF::Writer](https://metacpan.org/pod/ELF::Writer) -写入和读取可执行的ELF文件 
+
 
 ## Other Awesome Lists
 

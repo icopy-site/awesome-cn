@@ -50,6 +50,8 @@
 
 ## Emojis
 * [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) -Alfred 2搜索表情符号代码的工作流程
+* [Crypto Puzzles](https://github.com/2d4d/crypto_puzzles) -包括和
+moji字体：️️️Mo Mo Mo Mo Mo Mo Mo（在线演示：http://rupp.de/crypto_puzzles/crypto_puzzles_web.py）
 * [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) -在Campfire和GitHub上的表情符号的一个传呼器
 * [emoji-data-js](https://github.com/mroth/emoji-data-js) -用于NodeJS的Emoji编码瑞士军刀
 * [emoji-minesweeper](https://github.com/muan/emoji-minesweeper) -用表情符号制作的扫雷游戏
@@ -81,6 +83,7 @@
 ## Iconic fonts
 * [Appa Sariicon](https://github.com/sariina/appa-sariicon) -147个8位复古风格的webfont图标可用于网络和移动
 * [Country Icons](https://github.com/lipis/flag-icon-css) -SVG和CSS中所有国家标志的集合
+* [Crypto animal font](https://github.com/ariassd/crypto-animal-font)  -此字体将字母字符转换为符号. 英文订购版本使用与名称首字母匹配的动物.
 * [Evil Icons](http://evil-icons.io/) 简单干净的SVG图标包，带有支持Rails，Sprockets，Node.js，Gulp，Grunt和CDN的代码
 * [Font Custom](https://github.com/FontCustom/fontcustom) -图标字体生成器
 * [Font-Awesome](https://fontawesome.com) -标志性字体和CSS工具包
@@ -103,7 +106,7 @@
 * [PaymentFont](https://paymentfont.com/) -光滑的网络字体，包含所有主要付款运营商和方法的94个图标
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) -一组图标，用于显示时间戳的视觉（“模拟”）表示
 * [Picon](https://yne.fr/picon) 约666个Pico大小且基于连字的图标+在线字体生成器.
-* [stackicons](https://github.com/parkerbennett/stackicons) -Stackicons-Social的图标字体和基于Sass的构造工具包，它支持CSS中的多个按钮形状和独特的“多色”选项，可用于60多个社交品牌
+* [stackicons](https://github.com/parkerbennett/stackicons) -用于Stackicons-Social的图标字体和基于Sass的构造套件，该套件支持60多个社交品牌的CSS中的多个按钮形状和独特的“多色”选项
 * [svg-icon](https://leungwensen.github.io/svg-icon/) -正确完成了最终的SVG图标集合
 * [typicons.font](http://s-ings.com/typicons/) -Web字体工具包中的336像素完美，通用矢量图标
 * [weather-icons](http://erikflowers.github.io/weather-icons/) -189个以Font Awesome为灵感的天气主题图标，可供Bootstrap使用
@@ -145,7 +148,7 @@
 * [Victor Mono](https://rubjo.github.io/victor-mono/) -一种具有半连接草书斜体，符号连字以及拉丁，西里尔和希腊字符的免费编程字体
 
 ## JavaScript libs
-* [Beatrix](https://github.com/funbox/beatrix) - A tool to chop off useless fonts glyphs and convert TTF/OTF into WOFF & WOFF2
+* [Beatrix](https://github.com/funbox/beatrix) -截去无用字体字形并将TTF / OTF转换为WOFF和WOFF2的工具
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [fontkit](https://github.com/devongovett/fontkit) -适用于Node和浏览器的高级字体引擎（[demo](https://fontkit-demo.now.sh/))
 * [fontmin](https://github.com/ecomfe/fontmin) -字体缩小器
@@ -174,7 +177,7 @@
 * [Command line font-manager](https://github.com/alyssais/font)
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts) -使开发人员易于使用webfonts
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) -上传OTF或TTF字体，接收网络字体
-* [FontForge](https://github.com/fontforge/fontforge) -跨平台字体编辑器
+* [FontForge](https://github.com/fontforge/fontforge) - Cross-platform font editor
 * [Powerline Fonts](https://github.com/powerline/fonts) -电力线用户的修补字体
 * [TruFont](https://github.com/trufont/trufont) -精简且易于破解的字体编辑器
 

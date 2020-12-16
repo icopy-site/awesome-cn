@@ -414,7 +414,7 @@
 - [Large scale Vue.js application boilerplate + Vuex](https://github.com/arunredhu/vuejs_boilerplate) -通过使用Vuex作为状态管理来启动大规模，灵活的Vue.js应用程序的样板- [Arun Redhu](https://arunredhu.in)
 - [Snake game on Vue.js without Canvas](https://github.com/Seokky/vue-snake-game)
 - [A one-on-one chat app in Vue with CometChat](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
-- [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript) 带有萨斯/ ts / sfc短绒的样板. 完整的类型安全性，包括vuex和带有vuex-module-decorators，vue-property-decorator的漂亮vue组件
+- [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with `vuex-module-decorators`, `vue-property-decorator`
 - [Laravel + Nuxt.js boilerplate](https://github.com/acidjazz/laranuxt) -由 [@acidjazz](https://github.com/acidjazz)
 - [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
 - [TO](https://github.com/snturk/to) -社交媒体应用程序，允许您仅发布文本.
@@ -1730,6 +1730,7 @@ _日期/日期时间/时间选择器_
 - [vue-gridmultiselect](https://github.com/ProticM/vue-gridmultiselect) -简单的多选组件，其中的项目显示在UI等表格中
 - [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) -Vue.js的组件，用于选择双面数据（两面）.
 - [vue-selectize](https://github.com/isneezy/vue-selectize) -围绕Selectize.js（香草js选择组件）的Vue.js组件包装
+- [@vueform/multiselect](https://github.com/vueform/multiselect) -具有单选，多选和标记选项的Vue 3多选组件.
 
 ##### Slider
 
@@ -2188,7 +2189,7 @@ _管理模板集_
 
 _处理用户事件（滚动，单击，击键等）_
 
-- [vue-shortkey](https://github.com/iFgR/vue-shortkey) - Vue-ShortKey - plugin for Vue.js.
+- [vue-shortkey](https://github.com/iFgR/vue-shortkey) -Vue-ShortKey-Vue.js的插件.
 - [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event) -基于requestAnimationFrame的油门事件.
 - [vue-waypoint](https://github.com/scaccogatto/vue-waypoint) -Vue的Waypoint组件，这是滚动时触发功能的最简单方法.
 - [vue-clickaway](https://github.com/simplesmiler/vue-clickaway) -可重用的Vue.js组件的可重用clickaway指令.

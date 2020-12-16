@@ -183,9 +183,11 @@ android安全相关资源的集合.
 9. [AppMon](https://github.com/dpnishant/appmon) -AppMon是用于监视和篡改本地macOS，iOS和android应用程序的系统API调用的自动化框架. 它基于Frida.
 10. [Internal Blue](https://github.com/seemoo-lab/internalblue) -基于Broadcom蓝牙控制器逆向工程的蓝牙实验框架
 11. [Android Device Security Database](https://www.android-device-security.org/client/datatable) -Android设备的安全功能数据库
-12. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
-13. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~-现在好像死了
-14. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
+12. [Android Mobile Device Hardening](https://github.com/SecTheTech/AMDH) -AMDH扫描并强化设备设置，并根据权限列出有害的已安装应用程序.
+13. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
+14. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~-现在好像死了
+15. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
+
 
 ### Vulnerable Applications for practice
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)

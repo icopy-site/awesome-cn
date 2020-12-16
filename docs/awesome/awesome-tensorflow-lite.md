@@ -53,6 +53,7 @@
  |  GAN | [White-box CartoonGAN](https://github.com/SystemErrorWang/White-box-Cartoonization) ([download](https://tfhub.dev/sayakpaul/lite-model/cartoongan/dr/1))          | [Project repo](https://github.com/margaretmz/Cartoonizer-with-TFLite) \| [Android](https://github.com/margaretmz/Cartoonizer-with-TFLite/tree/master/android) \| [Tutorial](https://blog.tensorflow.org/2020/09/how-to-create-cartoonizer-with-tf-lite.html)                                                                                                                                                            | 社区|
  | 视频样式转换| 下载：<br> [Dynamic range models](https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3-dynamic-shapes/dr/transfer/1))               | [Android](https://github.com/farmaker47/video_style_transfer) \| [Tutorial](https://medium.com/@farmaker47/android-implementation-of-video-style-transfer-with-tensorflow-lite-models-9338a6d2a3ea)                                                                                                                                                                                                                     | 社区|
  | 细分和样式转换|  DeepLabV3和样式转换 [models](https://github.com/margaretmz/segmentation-style-transfer/tree/master/ml)                                                     | [Project repo](https://github.com/margaretmz/segmentation-style-transfer)  \| [Android](https://github.com/margaretmz/segmentation-style-transfer/tree/master/android) \| [Tutorial](https://medium.com/google-developer-experts/image-background-stylizer-part-1-project-intro-d68c4547e7e3)                                                                                                                           | 社区|
+ | 弱光图像增强| [Models on TF Hub](https://tfhub.dev/sayakpaul/mirnet-fixed/1)                                                     | [Project repo](https://github.com/sayakpaul/MIRNet-TFLite)  \| [Original Paper](https://arxiv.org/pdf/2003.06792v2.pdf)  \ |  | 社区|
  | 文字检测| 文字检测器（[Paper](https://arxiv.org/pdf/1904.01941))                          |[Download](https://github.com/tulasiram58827/craft_tflite/blob/main/models/craft_float_800.tflite?raw=true) \| [Project Repository](https://github.com/tulasiram58827/craft_tflite/)  \| [Blog1-Conversion to TFLite](https://tulasi.dev/craft-in-tflite) \| [Blog2-EAST vs CRAFT](https://sayak.dev/optimizing-text-detectors/) \| [Models on TF Hub](https://tfhub.dev/tulasiram58827/lite-model/craft-text-detector/dr/1)    \ |  Android（即将推出）| 社区|
  | 文字检测| 东文字检测器（[Paper](https://arxiv.org/abs/1704.03155))                          |[Models on TF Hub](https://tfhub.dev/sayakpaul/lite-model/east-text-detector/dr/1) \| [Conversion and Inference Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/EAST_TFLite.ipynb)   | 社区|
 
@@ -67,7 +68,7 @@
 ### Speech
  | 任务| 型号| 应用\ | 参考| 来源|
 | ------------------ |------------------------------------| ------------------------------------------------------------------------------------- | ------------ |
-| Speech Recognition | DeepSpeech                         | [Reference](https://github.com/mozilla/DeepSpeech/tree/master/native_client/java)      |  Mozilla |
+ | 语音识别|  DeepSpeech | [Reference](https://github.com/mozilla/DeepSpeech/tree/master/native_client/java)      |  Mozilla |
  | 语音合成|  Tacotron-2，FastSpeech2，MB-Melgan | [Android](https://github.com/TensorSpeech/TensorflowTTS/tree/master/examples/android)  |  TensorSpeech |
 
 
@@ -90,7 +91,7 @@
 * [E2E TFLite Tutorials](https://github.com/ml-gde/e2e-tflite-tutorials)  -签出此仓库以获取示例应用程序构想，并为您的教程项目寻求帮助. 一旦项目完成，TensorFlow Lite模型，示例代码和教程的链接将被添加到这个很棒的列表中.
 
 ## ML Kit examples
-[ML Kit](https://developers.google.com/ml-kit) is a mobile SDK that brings Google's ML expertise to mobile developers.
+[ML Kit](https://developers.google.com/ml-kit) 是一种移动SDK，可将Google的ML专业知识带给移动开发人员.
 * 2019-10-01 [ML Kit Translate demo](https://codelabs.developers.google.com/codelabs/mlkit-android-translate/#0) -材料设计教程 [Android](https://github.com/googlecodelabs/mlkit-android/tree/master/translate) （Kotlin）示例-使用ML Kit for Firebase从实时摄像机识别，识别语言并翻译文本.
 * 2019-03-13 [Computer Vision with ML Kit - Flutter In Focus](https://youtu.be/ymyYUCrJnxU).
 * 2019-02-09 [Flutter + MLKit: Business Card Mail Extractor](https://medium.com/flutter-community/flutter-mlkit-8039ec66b6a)  -带有 [Flutter](https://github.com/DaemonLoki/Business-Card-Mail-Extractor) 示例代码.

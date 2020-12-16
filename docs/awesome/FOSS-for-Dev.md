@@ -27,6 +27,7 @@
  * [Visual Studio Code](https://github.com/Microsoft/vscode) - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
  * [Coding WebIDE](https://github.com/Coding/WebIDE) -Coding WebIDE社区版项目
  * [CodeBox](https://github.com/CodeboxIDE/codebox) -开源云和桌面IDE
+ * [Brackets](https://github.com/adobe/brackets) -用于HTML，CSS和JavaScript的现代开源代码编辑器.
 
 
 ## Collaboration Tools

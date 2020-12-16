@@ -67,7 +67,6 @@
 ## Advertising
 
 - [Ally Racing](https://www.allyracer.com/) -复古NASCAR赛车广告游戏.
-- [Billie Eilish](https://site.billieeilish.com/) -在WebGL中重新创建了Billie的卧室.
 - [Cyber City](https://vz777.com/cybercity/index.html) -Visionaries777促销网站.
 - [eBay Report](https://www.ebay-report.de/) -来自eBay德国的统计数据和事实.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) -适用于流行手机游戏的交互式3D广告.

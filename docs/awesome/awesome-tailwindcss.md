@@ -9,7 +9,7 @@
   <br />
 </p>
 
-<h2 align="center">Awesome Tailwind CSS</h2>
+<h2 align="center">很棒的Tailwind CSS</h2>
 
 <p align="center">
   <a href="https://tailwindcss.com">Tailwind CSS</a>是实用程序优先的CSS框架，用于快速构建自定义用户界面.
@@ -143,9 +143,9 @@
 -  [Palette generator](https://adevade.github.io/color-scheme-generator) -输出Tailwind CSS配置文件的调色板生成器.
 -  [Tailwindow's Color Shades](https://color.tailwindow.com) -Tailwind CSS的颜色阴影生成器.
 -  [Tailwind Colors](https://tailwind-colors.meidev.co) -Tailwind CSS的颜色配置生成器.
--  [Tailwind Gradient Designer](https://tailwind-gradient-designer.csspost.com/) -为Tailwind 1.7+生成渐变.
 -  [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) -Tailwind CSS的颜色浏览器.
 -  [TailwindInk](https://tailwind.ink/) -AI调色板生成器，受Tailwind CSS调色板训练.
+-  [Gradient Designer](https://gradient-designer.csspost.com/) -为Tailwind 2.0+生成渐变.
 -  [Grayscale Design](https://grayscale.design/) -基于亮度的调色板生成器.
 -  [Hypercolor](https://hypercolor.dev/) -带有方向选项的预配置Tailwind CSS渐变集合.
 -  [Palettolithic](https://palettolithic.com) -根据一种颜色生成和声调色板.
@@ -196,7 +196,7 @@
 -  [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
 -  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
--  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的，对开发人员友好的付费模板.
+-  [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
 -  [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) -模板，组件和资源.
@@ -262,6 +262,7 @@
 - 🚀 [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) -使用Vite，React和Tailwind CSS的样板.
 - 🚀 [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) -使用Vite，Vue，Vue Router和Tailwind CSS的入门模板.
 - 🚀 [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) -使用Vue和Tailwind CSS的Shopify主题开发入门.
+- 🚀 [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) -使用Tailwind CSS和Alpine JS的仪表板布局.
 
 ## Open-Source Projects
 

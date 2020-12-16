@@ -107,7 +107,7 @@ Cryptocurrencies
 
 * [cl-monero-tools](https://github.com/glv2/cl-monero-tools)  -Common Lisp工具箱，可与Monero加密货币一起使用.  [GPL3] [2]. 不在Quicklisp中.
 * [emotiq](https://github.com/emotiq/emotiq)  -下一代区块链，采用创新的自然语言方法处理智能合约.  [MIT] [200].
-* [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)  -解析文件中包含的区块链并将其某些数据导出到文本文件，SQL脚本或数据库. 它还可以使用Peercoin守护程序的RPC作为数据源而不是区块链文件来创建数据库.  LGPL3. 不在Quicklisp中.
+* [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser) - parse the blockchain contained in a file and export some of its data to a text file, a SQL script or a database. It can also create a database using the RPC of a Peercoin daemon as source of data instead of a blockchain file. LGPL3. Not in Quicklisp.
 * [peercoin-calculator](https://github.com/glv2/peercoin-calculator)  -该程序使您有可能在10分钟，24小时，31天，90天和1年内生成POS或POW块，并可以获得预期的奖励.  Qt中的GUI.  [GPL3] [2]. 不在Quicklisp中.
 * [peercoin-vote](https://github.com/glv2/peercoin-vote)  -基于区块链数据（地址和余额）的投票系统.  [GPL3] [2]. 不在Quicklisp中.
 
@@ -125,7 +125,7 @@ ORMs
 *  [mito](https://github.com/fukamachi/mito) -带有迁移，关系和PostgreSQL支持[LLGPL] [8]的Common Lisp的ORM. [mitho-auth](https://github.com/fukamachi/mito-auth)，一个用于使用授权的mixin类； [mito-attachment](https://github.com/fukamachi/mito-attachment)，RDBMS外部用于文件管理的混合类.
 * [cl-dbi](https://github.com/fukamachi/cl-dbi)  -Common Lisp的数据库独立接口.  [LLGPL] [8].
   * [dbd-oracle](https://github.com/sergadin/dbd-oracle)  -CL-DBI的Oracle数据库驱动程序.  [LLGPL] [8].
-* [crane](https://github.com/eudoxia0/crane)  -另一个ORM.  [Expat] [14].
+* [crane](https://github.com/eudoxia0/crane) - Another ORM. [Expat][14].
 * [datafly](https://github.com/fukamachi/datafly)  -轻量级的数据库库.  [3子BSD] [15].
 * [sxql](https://github.com/fukamachi/sxql)  -用于生成SQL的DSL.  [3子BSD] [15].
 
@@ -155,7 +155,7 @@ Wrappers
 * [cl-redis](https://github.com/vseloved/cl-redis)  -Redis客户端.  [外籍人士] [14].
 * [cl-disque](https://github.com/CodyReichert/cl-disque)  -客户端磁盘.  [3-BSD条款] [15].
 * [cl-rethinkdb](https://github.com/orthecreedence/cl-rethinkdb)  -RethinkDB客户端.  [Expat] [14].
-* [cl-mango](https://github.com/cmoore/cl-mango/)  -极简的CouchDB 2.x数据库客户端.  BSD_3条款. 也可以看看 [clouchdb](https://common-lisp.net/project/clouchdb/)  -用于与CouchDB进行交互的库.  [FreeBSD] [39].
+* [cl-mango](https://github.com/cmoore/cl-mango/) -  A minimalist CouchDB 2.x database client. BSD_3Clause. See also [clouchdb](https://common-lisp.net/project/clouchdb/)  -用于与CouchDB进行交互的库.  [FreeBSD] [39].
 
 迁移工具
 ---------------
@@ -188,7 +188,7 @@ Tools
 * [genhash](https://github.com/pnathan/genhash)  –使用通用方法中的API实现哈希表. 公共区域.
 * [cl-ctrie](https://github.com/danlentz/cl-ctrie) -
 无锁，并发，键/值索引，具有高效的内存映射持久性和快速的瞬态存储模型.  [MIT] [200].
-* [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures) - a portable collection of data structures and algorithms (mainly dicts and sequences, with some statistical functions). [BSD][15].
+* [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  -数据结构和算法（主要是字典和序列，具有一些统计功能）的可移植集合.  [BSD] [15].
 * [listopia](https://github.com/Dimercel/listopia)  -受Haskell的Data.List启发的列表处理库.  [LLGPL] [8].
 * [hash-set](https://github.com/samebchase/hash-set/) -在CL哈希表顶部实现哈希集的便捷库[The Unlicense] [5]
 * [cl-containers](https://common-lisp.net/project/cl-containers/) -广泛的数据结构和实用程序库-队列，树，堆，双链表，集，包，... [MIT] [200]
@@ -377,7 +377,7 @@ YAML
 * [anaphora](https://common-lisp.net/project/anaphora/)  -照应宏的集合. 公共区域.
 *：星级： [trivia](https://github.com/guicho271828/trivia/)  -优化的模式匹配库.  [LLGPL] [8].
 * [arrow-macros](https://github.com/hipeta/arrow-macros)  -类Clojure的线程宏.  [MIT] [200].
-* [dissect](https://shinmera.github.io/dissect) -当很多
+* [dissect](https://shinmera.github.io/dissect) - when a lot of
   项目使用“平凡的回溯”系统
   带回溯的字符串，Dissect允许您捕获，步进和
   完全检查各种Lisp上的堆栈跟踪
@@ -621,7 +621,7 @@ Credit: [borretti.me' state of CL ecosystem 2015](http://borretti.me/article/com
 自然语言处理
 ===========================
 
-* [cl-nlp](https://github.com/vseloved/cl-nlp)  -自然语言处理工具集.  [Apache2.0] [89].
+* [cl-nlp](https://github.com/vseloved/cl-nlp) - Natural language processing toolset. [Apache2.0][89].
 * [babel2](https://github.com/lucas8/Babel2/) -流体构造语法的实现，计算框架和基于统一的语法形式化[Apache2.0] [89].
 * [sparser](https://github.com/ddmcdonald/sparser)  -英语自然语言理解系统.  [Eclipse] [209].
 
@@ -683,7 +683,7 @@ Web框架
 
 以REST为重点的框架：
 
-* [cl-rest-server](https://github.com/mmontone/cl-rest-server) - a library for writing REST web APIs. Features validation with schemas, annotations for logging, caching, permissions or authentication, documentation via Swagger, etc. [MIT][200].
+* [cl-rest-server](https://github.com/mmontone/cl-rest-server)  -用于编写REST Web API的库. 具有模式验证，用于日志记录，缓存，权限或身份验证的注释，通过Swagger的文档等.[MIT] [200].
 * [cl-odata-client](https://github.com/copyleft/cl-odata-client) -用于访问的通用Lisp客户端库 [OData services](https://www.odata.org) .  [MIT] [200].
 
 
@@ -695,7 +695,7 @@ Web框架
 
 * [Rock](https://github.com/eudoxia0/rock) -的资产经理
   普通Lisp. 它基本上是Bower和
-  webassets. [MIT][200].
+  网络资产.  [MIT] [200].
 
 
 解析HTML
@@ -840,7 +840,7 @@ Others
   通用矩阵计算，重点是2x2、3x3和4x4
   图形中常用的矩阵. 它提供了一些数值
   功能也可以，但这些不是重点. 图书馆是
-  heavily optimised, so it is not made of pretty
+  大量优化，所以它不是由漂亮
   码.  [Artistic License 2.0] [51].
 * [Xecto](https://github.com/pkhuong/Xecto)  -用于常规数组并行性的库.  [3子BSD] [15].
 * [Petalisp](https://github.com/marcoheisig/Petalisp) -试图
@@ -879,7 +879,7 @@ Others
 --------------
 
 * [erlangen](https://github.com/eugeneia/erlangen)  -Clozure Common Lisp的分布式异步消息传递系统.  [GNU GPL3] [2].
-* [Actors](https://github.com/aarvid/Actors) package for LispWorks ([announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)）[有] [200].
+* [Actors](https://github.com/aarvid/Actors) LispWorks的软​​件包（[announce](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)）[有] [200].
 * [common-lisp-actors](https://github.com/naveensundarg/Common-Lisp-Actors)  -一个简单易用的Actor系统.  [BSD_2Clause] [17].
 * [memento-mori](https://github.com/zkat/memento-mori) -用于编写基于角色的健壮系统的库. 它从Erlang / OTP中汲取了灵感，特别是它对高可用性系统以及Akka的崩溃优先方法.  [MIT] [200].
 * [cl-gserver](https://github.com/mdbergmann/cl-gserver)  -受Erlang启发的GenServer. 它既可以封装状态，也可以执行异步操作. 也有演员. 关于状态的功能与Clojure的Agent或cl-actor并不相同.  [MIT] [200].
@@ -928,7 +928,7 @@ Scripting
 * [clawk](https://github.com/sharplispers/clawk)  -嵌入到Common Lisp中的AWK实现，用于在文件中搜索行并在其字段上执行指定的操作.  BSD风格.
 * [ScriptL](https://github.com/rpav/ScriptL)  -Shell脚本变得像Lisp一样！ 或者，实时编码远程功能需要外壳程序. 在REPL中编写命令，然后在Shell中立即运行它.  [LLGPL] [8].
 
-Command-line options parsers
+命令行选项解析器
 ----------------------------
 
 *  [Unix-opts](https://github.com/mrkkrp/unix-opts) -命令行
@@ -942,7 +942,7 @@ Readline，ncurses和其他图形助手
 * [cl-readline](https://github.com/vindarel/cl-readline) - 一套
   键入时编辑行的功能，以维护行列表
   先前输入的命令行，以对其进行重新调用和重新编辑，以及
-  执行类似csh的历史记录扩展.  Emacs和vi编辑
+  perform csh-like history expansion.  Emacs and vi editing
   模式.  [GPL3] [2].
 * [Linedit](https://common-lisp.net/project/linedit) -Readline风格
   提供可定制的行编辑的库
@@ -998,7 +998,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 
 *：星级： [Slime](https://github.com/slime/slime)  -Emacs的高级Lisp交互模式；  Emacs内部Common Lisp的成熟环境. 公共区域.
 *  [Sly](https://github.com/joaotavora/sly) -SLY是SLIME的分支，并在其上进行了多项改进.
-*  [Portacle](https://shinmera.github.io/portacle/) -便携式多平台Common Lisp环境：SBCL，Quicklisp，Emacs，Slime，Git.
+*  [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
 * [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/)  -用于Common Lisp开发环境的Docker容器. 随Slime一起装运SBCL，CCL，Roswell和Emacs25.
 
 ## Vim & Neovim ##
@@ -1015,7 +1015,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 
 ## Lem ##
 
-* [Lem](https://github.com/cxxxr/lem) - a ready to use, Emacs-like, Slime-based
+* [Lem](https://github.com/cxxxr/lem) -即用型，类似Emacs的，基于Slime
   专为Common Lisp开发量身定制的编辑器. 具有ncurses和Electron接口.  [MIT] [200]. 另请参阅： [opengl frontend](https://github.com/pupcraft/lem-opengl), [Lem in Docker](https://github.com/40ants/lem-docker), [lem-pareto](https://github.com/40ants/lem-pareto).
 
 ## Atom ##
@@ -1035,7 +1035,8 @@ Lisp版本的“ Hello World！”的可执行文件！
 
 ## VSCode ##
 
-* [VSCode-lisp](https://marketplace.visualstudio.com/items?itemName=mattn.Lisp)  -支持Lisp语法的扩展. 它是 [on GitHub](https://github.com/mattn/vscode-lisp).
+* [commonlisp-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.commonlisp-vscode)  -扩展，支持语法突出显示，自动完成，悬停文档，转到定义，编译和加载文件，REPL. 它是 [On GitHub](https://github.com/ailisp/commonlisp-vscode/).
+* [strict-paredit-vscode](https://marketplace.visualstudio.com/items?itemName=ailisp.strict-paredit) -结构编辑和导航，例如Emacs.
 
 ## Geany (experimental) ##
 
@@ -1050,7 +1051,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 
 ## REPLs ##
 
-* [cl-repl](https://github.com/koji-kojiro/cl-repl)  -类似于ipython的REPL. 完成后，将执行shell命令，魔术命令，调试器等.[MIT] [200]. 用 [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+* [cl-repl](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT][200]. With [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes).
 * [sbcli](https://github.com/hellerve/sbcli)  -SBCL的readline REPL. 具有完成功能，快速命令，可选的语法高亮显示（带有pygments），并且没有交互式调试器.  [GPL3] [2].
 
 ## Online editors ##
@@ -1099,7 +1100,7 @@ Tools
 
 *：星级： [FiveAM](https://github.com/sionescu/fiveam)  -简单的回归测试框架.  [FreeBSD] [39].
 * [CLUnit](https://github.com/tgutu/clunit)  -单元测试库.  [Expat] [14].
-* [Rove](https://github.com/fukamachi/rove)  -Rove是Common Lisp应用程序的单元测试框架. 它旨在成为 [Prove](https://github.com/fukamachi/prove). [3-clause BSD][15].
+* [Rove](https://github.com/fukamachi/rove)  -Rove是Common Lisp应用程序的单元测试框架. 它旨在成为 [Prove](https://github.com/fukamachi/prove) .  [3子BSD] [15].
 * [Parachute](https://github.com/Shinmera/parachute) -可扩展
   和交叉兼容的测试框架. 有了测试依赖性
   条件，装置和重启.  [Artistic License 2.0] [51].
@@ -1330,13 +1331,13 @@ XML
 Contributing
 ============
 永远欢迎您的贡献！ 请提交拉取请求或创建
-an issue to add a new framework, library or software to the list.
+在列表中添加新框架，库或软件的问题.
 
 我们（尝试）遵守的规则如下：
 
 -默认情况下，将库添加到其部分的末尾.
 -绝对的事实库，例如BordeauxThreads或Quicklisp，
-  应该用：star：（在markdown中用`：star：`）表示.
+  should be denoted with a :star: (`:star:` in markdown).
 -范围非常相似的两个库应并排放置，或放在一个
   自己的部分.
 -根据我们的经验和状态进行一些策划

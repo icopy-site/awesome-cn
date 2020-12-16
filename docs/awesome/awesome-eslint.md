@@ -192,6 +192,7 @@
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) -确保JavaScript文件的文件名一致.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) -易于自动修复的导入排序.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) -针对ESLint的开关案例特定的插入规则.
+- [padding](https://github.com/mu-io/eslint-plugin-padding) -允许/禁止语句之间的填充.
 
 ### Testing Tools
 

@@ -36,7 +36,7 @@
 - [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/) -（2017）基于三大支柱的综合指数：ICT接入，ICT使用和ICT技能.
 - [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
 - [UN E-Government Knowledge Database](https://publicadministration.un.org/egovkb/en-us/Data-Center) - (2016).
-- [BCG e-Intensity Index](https://www.bcg.com/publications/interactives/bcg-e-intensity-index.aspx) -（2015）波士顿咨询集团开发的指数，它基于三个矢量：赋能，参与度和支出来考察85个互联网经济体的成熟度.
+- [BCG e-Intensity Index](https://www.bcg.com/publications/interactives/bcg-e-intensity-index.aspx) -（2015）波士顿咨询集团开发的指数，它基于三个向量来考察85个互联网经济体的成熟度：赋能，参与度和支出.
 - [Speedtest Global Index](http://www.speedtest.net/global-index) -（2018）每月来自全球的移动和固定宽带速度指数.
 -cable.co.uk的全球宽带价格比较-（[2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/)）基于固定线路/无线访问的全球宽带成本指数.
 
@@ -63,7 +63,7 @@
 -来自GSMA的移动性别差距报告-（[2020](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/02/GSMA-The-Mobile-Gender-Gap-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/03/GSMA-Connected-Women-The-Mobile-Gender-Gap-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/04/GSMA_The_Mobile_Gender_Gap_Report_2018_32pp_WEBv7.pdf))
 -Mozilla Internet运行状况报告-（[2019](https://internethealthreport.org/2019/)) ([2018](https://internethealthreport.org/2018/)).
 - [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - [2019 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf) [2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf).
--宽带委员会：宽带状况（[2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
+-宽带委员会：宽带状况-（[2020](https://www.itu.int/dms_pub/itu-s/opb/pol/S-POL-BROADBAND.21-2020-PDF-E.pdf)) ([2019](https://www.broadbandcommission.org/Documents/StateofBroadband19.pdf))([2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 -国际电联衡量信息社会-（[2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 -GSMA-移动互联网连接状态（[2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
 -国际电联事实和数据-（[2019](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf)) ([2017](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf)).
