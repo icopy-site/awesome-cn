@@ -46,10 +46,12 @@
 * [jquery cdn](http://code.jquery.com/)
 * [lib.sinaapp](http://lib.sinaapp.com/)
 * [jsDelivr](http://www.jsdelivr.com/)
+* [statically](https://statically.io/)
 * [pagecdn](https://pagecdn.com/lib)
 
 ### CSS
 
+* [neumorphism css generator](https://neumorphism.io/)
 * [css-triangle-generator](http://apps.eky.hk/css-triangle-generator/zh-hant)
 * [css3lib](http://css3lib.alloyteam.com/)
 * [csszengarden](http://www.csszengarden.com/)

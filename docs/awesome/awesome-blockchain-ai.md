@@ -26,7 +26,7 @@
 
 ## Foundations
 
-- [Decentralized AI Alliance (DAIA).](https://daia.foundation/) DAIA是AI和区块链相关生态系统中的重要参与者组成的联盟，它们齐心协力共同解决共同的挑战并创造美好的未来.
+- [Decentralized AI Alliance (DAIA).](https://daia.foundation/) DAIA是AI和区块链相关生态系统中的重要参与者组成的联盟，它们共同致力于共同解决共同的挑战并创造美好的未来.
 
 ## Blockchains for AI algorithms
 
@@ -58,6 +58,7 @@
 
 - [Neureal](https://neureal.net/) -由区块链支持的开源，对等AI超级计算.
 - [TrueBit](https://truebit.io/) -TrueBit为以太坊智能合约提供了计算上的提升.
+- [DeepBrain Chain](https://www.deepbrainchain.org/) -分散式AI计算平台，为希望开发AI技术的公司提供处理能力.
 - [AI Crypto](https://aicrypto.ai/) -AI Crypto是基于区块链的生态系统，其中分布了诸如GPU，模型和数据之类的AI资源，以降低AI开发的成本.
 
 ## Blockchains for AI in finance
@@ -82,7 +83,6 @@
 - [Dopamine](https://dopamine.ai/) -分散的AI劳动力和服务市场.
 - [Trane AI](http://www.trane.ai/) -用于标记，存储和建模用于AI培训的数据的去中心化经济.
 - [starmine AI](http://starmine.ai/) -Starmine是一个健壮且高度可扩展的平台，用于构建，交易和交换先进的算法生成的按需数据集，以进行机器学习和人工智能工作.
-- [DeepBrain Chain](https://www.deepbrainchain.org/) -分散式AI计算平台，为希望开发AI技术的公司提供处理能力.
 - [Cerebrum](https://cerebrum.world/)  -Cerebrum是用于众包机器学习的去中心化平台.  Cerebrum使任何人都可以加密其数据并主持机器学习竞赛，以利用众包的机器学习模型. 
 - [Fitchain](https://fitchain.io/) -Fitchain是一个基于区块链的机器学习工厂，它使数据科学家可以训练模型，从开始就一直跟踪模型.
 - [Namahe](https://namahe.io/) -Namahe是旨在通过合并AI层为供应链行业带来效率的平台.

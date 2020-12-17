@@ -164,7 +164,7 @@
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) -React的选择组件
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) -使用React轻松美观地拖放列表
-- [react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [react-dnd](https://github.com/react-dnd/react-dnd) -拖放进行React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) -具有可响应的断点的可拖动和可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) -使用React构建的类似于Excel的网格组件
@@ -179,7 +179,7 @@
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
-- [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
+- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
 - [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
@@ -198,6 +198,7 @@
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) -一个可以轻松将粒子动画添加到您的React应用程序的组件
 - [react-spring](https://www.react-spring.io/) -用于React应用程序的基于春季物理学的动画库.
 - [framer-motion](https://www.framer.com/motion/) -一个React库，可为生产就绪的动画提供动力.
+- [react-truncate-markup](https://github.com/parsable/react-truncate-markup) -用于截断JSX标记的React组件.
 
 ##### React for Command Line
 

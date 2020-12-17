@@ -7,7 +7,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
- A curated list of PICO-8 resources, tutorials, tools 和 more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 您可能还喜欢 [awesome-lua](https://github.com/LewisJEllis/awesome-lua) 和 [awesome-love2d](https://github.com/JanWerder/awesome-love2d).
+ A curated list of PICO-8 resources, tutorials, tools 和 more. Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 你可能还喜欢 [awesome-lua](https://github.com/LewisJEllis/awesome-lua) 和 [awesome-love2d](https://github.com/JanWerder/awesome-love2d).
 
   PICO-8是一款幻想游戏机，用于制作，共享和玩小游戏和其他计算机程序. 当您打开它时，机器会向您打个招呼的外壳，您可以输入 [Lua](https://www.lua.org/) 命令并提供简单的内置工具来创建自己的墨盒.
 
@@ -23,7 +23,7 @@
   - [Facebook](https://www.facebook.com/lexaloffle/)
   - [Youtube](https://www.youtube.com/user/lexaloffletv)
 - [Subreddit](https://www.reddit.com/r/pico8/)
-- [#pico8 on Twitter](https://www.twitter.com/#pico8)
+- [#pico8 on Twitter](https://twitter.com/hashtag/pico8)
 - [#pico8 on Freenode](https://webchat.freenode.net/?randomnick=1&channels=#pico8&prompt=1)
 - [Pico-8 Console News](https://twitter.com/pico8console)
 - [Pico-8 Wiki](http://pico-8.wikia.com/wiki/Pico-8_Wikia)
@@ -144,4 +144,4 @@
 
 在法律允许的范围内， [Felipe Bueno](https://twitter.com/felipebueno) 放弃了此作品的所有版权以及相关或邻近的权利.
 
-See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 想要查询更多的信息.
+See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 欲获得更多信息.
