@@ -78,8 +78,8 @@
     国家（地区）|  ISO代码| 代码点| 表情符号（如果支持）
     --------|----------|-------------------|---------------------
     USA     | US       | U+1F1FA + U+1F1F8 | &#x1F1FA;&#x1F1F8;
-    Germany | DE       | U+1F1E9 + U+0F1EA | &#x1F1E9;&#x1F1EA;
-    China   | CN       | U+1F1E8 + U+0F1F3 | &#x1F1E8;&#x1F1F3;
+    Germany | DE       | U+1F1E9 + U+1F1EA | &#x1F1E9;&#x1F1EA;
+    China   | CN       | U+1F1E8 + U+1F1F3 | &#x1F1E8;&#x1F1F3;
 *表情符号的肤色：共有五个代码点，用于控制肤色
     表情符号 [U+1F3FB to U+1F3FF](https://codepoints.net/U+1F3FB..U+1F3FF).
     它们被称为“表情符号Fitzpatrick类型” 1到6，其中1代表最浅
@@ -158,6 +158,22 @@ table:
     升级到ISO
     2022]（http://unicode.org/mail-arch/unicode-ml/y2015-m10/0050.html），
     从来没有成为.
+*在这方面排名第二的是中日韩统一表意文字
+    [妛](https://codepoints.net/U+599B),
+    [挧](https://codepoints.net/U+6327),
+    [暃](https://codepoints.net/U+6683),
+    [椦](https://codepoints.net/U+6926),
+    [槞](https://codepoints.net/U+69DE),
+    [蟐](https://codepoints.net/U+87D0),
+    [袮](https://codepoints.net/U+88AE),
+    [閠](https://codepoints.net/U+95A0),
+    [駲](https://codepoints.net/U+99F2),
+    [墸](https://codepoints.net/U+58B8),
+    [壥](https://codepoints.net/U+58E5)和
+    [彁](https://codepoints.net/U+5F41) . 这些所谓 [“ghost characters”](https://www.dampfkraft.com/ghost-characters.html)
+    通过添加了日语JIS标准的Unicode来到Unicode，因为
+    在编制JIS时被误读或从其他符号中误解了它们
+    来自原始的印刷文本来源.
 * [U+006F](https://codepoints.net/U+006F) 拉丁文小写字母O-领先
     形状混乱的字符集. 在所有可能的映射中
     [易混淆的清单

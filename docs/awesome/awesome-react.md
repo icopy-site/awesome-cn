@@ -100,7 +100,7 @@
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) -用于创建可重复使用的React组件的开发工具
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) -对ESLint的特定掉毛规则做出反应
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) -JSX元素上的a11y规则的静态AST检查器
-- [react-axe](https://github.com/dequelabs/react-axe) -React应用程序的可访问性审核
+- [@axe-core/react](https://github.com/dequelabs/axe-core-npm) -React应用程序的可访问性审核
 - [codesandbox](https://codesandbox.io/s/new) -使用集成的React DevTools进行快速React开发的在线IDE.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) -小型JavaScript编译器，可直接在网页上快速将JSX转换为JS
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) -猴子补丁反应可通知您有关可避免的重新渲染.
@@ -773,6 +773,6 @@
 
 ### Contribution
 
-该列表最初是关于React有趣的事情的个人收藏. 在React刚开始处于Beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情. 请不要将此列表用作广告板或公开推广实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情. 请不要将此列表用作广告板或公开推广实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

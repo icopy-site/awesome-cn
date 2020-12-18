@@ -133,7 +133,7 @@
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html)  -通过常规方法（如命令行和配置文件）获取程序选项的库.  [促进]
  * [Clara](https://github.com/catchorg/Clara)  -简单易用，可组合的C ++ 11及更高版本的命令行解析器.  [BSL-1.0]
  * [cli](https://github.com/daniele77/cli)  -交互式命令行界面（Cisco风格）的仅跨平台标头的C ++ 14库.  [促进]
- * [CLI11](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. [BSD]
+ * [CLI11](https://github.com/CLIUtils/CLI11)  -仅标头的单文件或多文件C ++ 11库，用于简单和高级的CLI解析.  [BSD]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)  -轻量级C ++命令行选项解析器.  [麻省理工学院]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp)  -一个从docstring生成选项解析器的库.  [麻省理工学院/助推器]
  * [gflags](https://gflags.github.io/gflags/)  -C ++的命令行标志模块.  [BSD]
@@ -229,7 +229,7 @@
 ## Containers
 
 * [C++ B-tree](https://code.google.com/p/cpp-btree/)  -模板库，可基于B树数据结构实现有序的内存容器.  [Apache2]
-* [Colony](https://github.com/mattreecebentley/plf_colony)  -无序的“袋”型容器，在高修改情况下，其性能优于标准容器，同时无论插入/擦除如何，始终保持指向未擦除元素的永久指针.  [zLib] [website](http://www.plflib.org/colony.htm)
+* [Colony](https://github.com/mattreecebentley/plf_colony)  -无序的“袋”型容器，在高修改情况下，其性能优于标准容器，同时无论插入/擦除如何，都始终保持指向未擦除元素的永久指针.  [zLib] [website](http://www.plflib.org/colony.htm)
 * [dynamic_bitset](https://github.com/pinam45/dynamic_bitset)  -C ++ 17仅限标头的动态位集.  [麻省理工学院]
 * [Forest](https://github.com/xorz57/forest)  -实现AVL，二进制搜索，KD和四叉树的模板库.  [麻省理工学院]
 * [Hashmaps](https://github.com/goossaert/hashmap)  -在C ++中实现开放式地址哈希表算法.  [麻省理工学院]
@@ -244,7 +244,7 @@
 * [sparsepp](https://github.com/greg7mdp/sparsepp)  -用于C ++的快速，内存高效的哈希映射.  [BSD 3句]
 
 ## Cryptography
-*密码学和加密库*
+*Cryptography and Encryption Libraries*
 
 * [Bcrypt](http://bcrypt.sourceforge.net/)  -跨平台文件加密实用程序. 加密文件可在所有受支持的操作系统和处理器之间移植.  [BSD]
 * [BeeCrypt](http://beecrypt.sourceforge.net/)  -便携式快速密码库.  [LGPLv2.1 +]
@@ -361,7 +361,7 @@
 * [KlayGE](https://github.com/gongminmin/KlayGE)  -具有基于插件架构的跨平台开源游戏引擎.  [GPLv2] [website](http://www.klayge.org/)
 * [nCine](https://github.com/nCine/nCine)  -跨平台的2D游戏引擎，着重于性能，用C ++ 11编写，可以选择用Lua编写脚本.  [麻省理工学院] [website](https://ncine.github.io/)
 * [OpenXRay](https://github.com/OpenXRay/xray-16)  -STALKER游戏系列中使用的社区修改X射线引擎.  [修改的BSD /仅限非商业用途]
-* [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. [MIT]
+* [Oxygine](http://oxygine.org/)  -跨平台的2D C ++游戏引擎.  [麻省理工学院]
 * [Panda3D](https://github.com/panda3d/panda3d)  -游戏引擎，用于Python和C ++程序的3D渲染和游戏开发的框架.  [修改后的BSD] [website](https://www.panda3d.org/)
 * [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)  -olcPixelGameEngine的官方发行版，这是javidx9的YouTube视频和项目中使用的工具.  [OLC3]
 * [Polycode](https://github.com/ivansafrin/Polycode)  -C ++中具有创意代码的跨平台框架（带有Lua绑定）.  [麻省理工学院] [website](http://polycode.org/)
@@ -494,7 +494,7 @@
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons)  -用于JSON和类似JSON的二进制格式的C ++仅标头库，带有JSONPointer，JSONPatch，JSONPath和JMESPath.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间很低的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间极低的JSON解析器.
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库. 支持C ++ 11. 无依赖关系，快速且对开发人员友好.  [Apache2]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
@@ -508,7 +508,7 @@
 * [RapidJSON](https://github.com/miloyip/rapidjson) :zap: - A fast JSON parser/generator for C++ with both SAX/DOM style API. [MIT]
 * [sajson](https://github.com/chadaustin/sajson)  -用于C ++ 11的轻量级，高性能的JSON解析器.  [麻省理工学院]
 * [simdjson](https://github.com/lemire/simdjson)  -极快的JSON库，每秒可解析千兆字节的JSON.  [Apache-2.0]
-* [taoJSON](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. [MIT]
+* [taoJSON](https://github.com/taocpp/json)  -零依赖性C ++仅标头JSON库.  [麻省理工学院]
 * [ujson](https://bitbucket.org/awangk/ujson)  -µjson是一个小型C ++ 11，UTF-8，JSON库.  [麻省理工学院]
 * [YAJL](https://github.com/lloyd/yajl) -C中的快速流式JSON解析库.[ISC]
 
@@ -636,7 +636,7 @@
 * [librdkafka](https://github.com/edenhill/librdkafka)  -适用于C和C ++的Apache Kafka客户端库.  [BSD-2-Clause]
 * [libwebsockets](https://github.com/warmcat/libwebsockets)  -提供客户端和服务器库的轻量级纯C WebSocket实现.  [LGPL2.1 +静态链接异常] [website](https://libwebsockets.org/)
 * [lwIP](http://savannah.nongnu.org/projects/lwip/)  -轻量级的TCP / IP堆栈.  [修改后的BSD]
-* [Mongoose](https://github.com/cesanta/mongoose)  -非常轻巧的Web服务器.  [GPL2]
+* [Mongoose](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. [GPL2]
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C)  -适用于嵌入式系统和PC的便携式MQTT C客户端.  [麻省理工学院] [website](https://liambindle.ca/MQTT-C)
 * [mTCP](https://github.com/mtcp-stack/mtcp)  -用于多核系统的高度可扩展的用户级TCP堆栈.  [修改后的BSD]
 * [Muduo](https://github.com/chenshuo/muduo)  -Linux中用于多线程服务器的C ++非阻塞网络库.  [BSD]
@@ -684,7 +684,7 @@
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)  -Nvidia作为Nvidia GameWorks软件套件的一部分开发的开源实时物理引擎中间件SDK.  [BSD-3-Clause] 
 * [Project Chrono](https://github.com/projectchrono/chrono)  -开源的多物理场仿真引擎.  [BSD-3-Clause] [website](https://projectchrono.org/)
 * [Quantum++](https://github.com/vsoftco/qpp)  -现代的C ++ 11量子计算库.  [麻省理工学院]
-* [Simbody](https://github.com/simbody/simbody)  -高性能的C ++多体动力学/物理库，用于模拟关节运动的生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
+* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 * [SOFA](https://github.com/sofa-framework/sofa)  -SOFA是一个针对实时模拟的开源框架，重点是医学模拟.  [LGPL] [website](https://www.sofa-framework.org)
 
 ## Reflection
@@ -783,7 +783,7 @@
 ## Video
 
 * [libvpx](http://www.webmproject.org/code/)  -VP8 / VP9编解码器SDK.  [BSD]
-* [FFmpeg](https://www.ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [LGPL2/GPL2]
+* [FFmpeg](https://www.ffmpeg.org/)  -完整的跨平台解决方案，用于记录，转换和流式传输音频和视频.  [LGPL2 / GPL2]
 * [libde265](https://github.com/strukturag/libde265)  -打开h.265视频编解码器实现.  [LGPL] [website](http://www.libde265.org/)
 * [x265](https://bitbucket.org/multicoreware/x265/wiki/Home)  -打开h.265视频编解码器实现.  [GPL2] [website](https://x265.readthedocs.io/en/default/)
 * [OpenH264](https://github.com/cisco/openh264)  -开源H.264编解码器.  [BSD] [website](http://www.openh264.org/)
@@ -889,7 +889,7 @@
 * [LLVM](http://llvm.org/) -模块化和可重复使用的编译器和工具链技术的集合.
 * [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) -MSVC，由Microsoft开发.
 * [Open WatCom](https://github.com/open-watcom)  -Watcom C，C ++和Fortran交叉编译器和工具.  [Sybase Open Watcom公共许可证]
-* [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
+* [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html)  -用于SPARC和x86的C，C ++和Fortran编译器. 支持C ++ 11 在Linux和Solaris上可用.  [OTN开发人员许可证]
 * [TCC](http://bellard.org/tcc/)  -Tiny C编译器.  [LGPL]
 
 ## Online Compiler
@@ -904,19 +904,20 @@
 * [Rextester](http://rextester.com/runcode) -在线编译器，提供多个编译器（Clang，GCC，MSVC）和多个编辑器.
 * [Try It Online](https://tio.run/) -TIO是一系列在线口译员，他们提供越来越多的实用和休闲编程语言.
 * [Wandbox](http://melpon.org/wandbox/) -带有Boost的在线Clang / GCC编译器.
+* [paiza.io](https://paiza.io/en) -具有多个文件支持功能，Github（gist）集成和协作编辑的在线C / C ++编译器.  
 
 ## Debugger
-*List of C or C++ debuggers*
+* C或C ++调试器列表*
 
 * [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers) -维基百科中的调试器列表.
 * [GDB](https://www.gnu.org/software/gdb/) -GNU调试器.
 * [LLDB](http://lldb.llvm.org/) -LLDB调试器.
 * [Metashell](https://metashell.readthedocs.org) -交互式模板元编程外壳，其中包括MDB元调试器.
-* [Valgrind](http://valgrind.org/) - A tool for memory debugging, memory leak detection, and profiling.
+* [Valgrind](http://valgrind.org/) -用于内存调试，内存泄漏检测和性能分析的工具.
 * [x64dbg](http://x64dbg.com/) -Windows的开源x64 / x32调试器.
 
 ## Integrated Development Environment
-* C或C ++标称IDE的列表.*
+*List of C or C++ nominal IDEs.*
 
 * [Anjuta DevStudio](http://anjuta.org/)  -GNOME IDE.  [GPL3]
 * [AppCode](http://www.jetbrains.com/objc/) -在JetBrains的IntelliJ IDEA平台上构建的，用于Objective-C，C，C ++和JavaScript开发的IDE.
@@ -936,7 +937,7 @@
 * [Microsoft Visual Studio Code](https://code.visualstudio.com/)  ：zap：-来自Microsoft的开源IDE.  [麻省理工学院]
 * [NetBeans](https://netbeans.org/) -一个IDE，主要使用Java开发，也可以使用其他语言（特别是PHP，C / C ++和HTML5）进行开发.
 * [Qt Creator](http://www.qt.io/developers/) ：zap：-跨平台的C ++，JavaScript和QML IDE，它是Qt SDK的一部分.
-* [rtags](https://github.com/Andersbakken/rtags) -用于与基于clang的emacs集成的c / c ++客户端/服务器索引器.
+* [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
 * [Xcode](https://developer.apple.com/xcode/) -由Apple开发.
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) -YouCompleteMe是用于Vim的快速，按需输入，模糊搜索代码完成引擎.
 * [cquery](https://github.com/cquery-project/cquery/) -用于vscode，emacs，vim等的C ++代码完成引擎.
@@ -945,7 +946,7 @@
 
 * [Bazel](https://bazel.build)  -Google提供的多语言，快速且可扩展的构建系统.  [Apache]
 * [Bear](https://github.com/rizsotto/Bear)  -生成用于clang工具的编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck)  -快速构建系统，鼓励通过各种平台和语言（包括在Facebook开发和使用的C ++）创建小的可重用模块. 用Java编写.  [Apache]
+* [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. [Apache]
 * [clib](https://github.com/clibs/clib)  -C编程语言的程序包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  -跨平台的免费开源软件，用于使用与编译器无关的方法来管理软件的构建过程.  [BSD]
 * [Cget](https://github.com/pfultz2/cget)  -Cmake软件包检索.  [促进] [website](http://cget.readthedocs.io)
@@ -1006,7 +1007,7 @@
 * [CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018) -CppCon 2018演示材料.
 * [CppCon 2017 Presentation Materials](https://github.com/CppCon/CppCon2017) -CppCon 2017演示材料.
 * [CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016) -CppCon 2016演示材料.
-* [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015) -CppCon 2015演示材料.
+* [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 * [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) -CppCon 2014演示材料.
 * [C++Now 2019 Presentations](https://github.com/boostcon/cppnow_presentations_2019) -在C ++ Now 2019上展示的演示材料.
 * [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) -在C ++ Now 2018上展示的演示材料.
@@ -1051,7 +1052,7 @@
 *很棒的C或C ++相关视频.*
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
-* [Hi Def [HD]中很棒的C编程教程]（https://www.youtube.com/playlist?list=PLCB9F975ECF01953C）-针对初学者和新程序员的详细C编程语言教程的集合.
+* [Hi Def [HD]中很棒的C编程教程]（https://www.youtube.com/playlist?list=PLCB9F975ECF01953C）-适用于初学者和新程序员的详细C编程语言教程的集合.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) -由VoidRealms提供.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) -由VoidRealms提供.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) -TheNewBoston官方Buckys C ++编程教程播放列表.

@@ -2,8 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Quick Look plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt;有用的清单 [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) 开发人员插件
-
+&gt;有用的清单 [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) 开发人员插件
 
 ## Install
 
@@ -14,7 +13,7 @@
 #### Install all
 
 ```
-酿造安装qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize可疑软件包quicklookase qlvideo
+酿造安装qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize可疑程序包外观quicklookase qlvideo
 ```
 
 ##### Catalina notes
@@ -33,16 +32,13 @@ xattr -r〜/库/ QuickLook
 xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 ```
 
-
 ### Manually
 
 -点击“手动下载”
 -将下载的.qlgenerator文件移动到`〜/ Library / QuickLook`
 -运行`qlmanage -r`
 
-
 ## Plugins
-
 
 ### [QLColorCode](https://github.com/anthonygelibert/QLColorCode)
 
@@ -52,7 +48,6 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLColorCode.png)](https://github.com/anthonygelibert/QLColorCode)
 
-
 ### [QLStephen](https://github.com/whomwah/qlstephen)
 
  &gt;预览没有或带有未知文件扩展名的纯文本文件. 示例：README，CHANGELOG，index.styl等.
@@ -60,7 +55,6 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 运行`brew install qlstephen`或 [download manually](https://github.com/whomwah/qlstephen/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLStephen.png)](https://github.com/whomwah/qlstephen)
-
 
 ### [QLMarkdown](https://github.com/toland/qlmarkdown)
 
@@ -70,7 +64,6 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLMarkdown.png)](https://github.com/toland/qlmarkdown)
 
-
 ### [QuickLookJSON](http://www.sagtau.com/quicklookjson.html)
 
 &gt;预览JSON文件
@@ -78,7 +71,6 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 运行`brew install quicklook-json`或 [download manually](http://www.sagtau.com/media/QuickLookJSON.qlgenerator.zip)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
-
 
 ### [BetterZipQL](https://macitbetter.com/downloads/)
 
@@ -90,8 +82,7 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 
 旧版的BetterZipQL插件可以是 [downloaded here](https://macitbetter.com/dl/BetterZipQL-1.5.zip).
 
-[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
-
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/BetterZipQL.png)](https://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 ### [qlImageSize](https://github.com/Nyx0uf/qlImageSize)
 
@@ -101,24 +92,29 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
-
-### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
+### [Suspicious Package](https://www.mothersruin.com/software/SuspiciousPackage/)
 
 &gt;预览标准Apple安装程序包的内容
 
-运行`brew install suspicious-package`或 [download manually](http://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
+运行`brew install suspicious-package`或 [download manually](https://www.mothersruin.com/software/downloads/SuspiciousPackage.xip)
 
-[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/SuspiciousPackage.png)](http://www.mothersruin.com/software/SuspiciousPackage/)
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/SuspiciousPackage.png)](https://www.mothersruin.com/software/SuspiciousPackage/)
 
+### [Apparency](https://www.mothersruin.com/software/Apparency/)
+
+&gt;预览macOS应用程序的内容
+
+运行`brew install apparency`或 [download manually](https://mothersruin.com/software/downloads/Apparency.dmg)
+
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/Apparency.png)](https://mothersruin.com/software/Apparency/)
 
 ### [QuickLookASE](https://github.com/rsodre/QuickLookASE)
 
-&gt;预览使用Adobe Photoshop，Adobe Illustrator， [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](http://www.colourlovers.com), [Prisma](http://www.codeadventure.com)等等.
+&gt;预览使用Adobe Photoshop，Adobe Illustrator， [Adobe Color CC](https://color.adobe.com), [Spectrum](http://www.eigenlogik.com/spectrum/mac), [COLOURlovers](https://www.colourlovers.com), [Prisma](http://www.codeadventure.com)等等.
 
 运行`brew install quicklookase`或 [download manually](https://github.com/rsodre/QuickLookASE/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookASE.png)](https://github.com/rsodre/QuickLookASE)
-
 
 ### [QLVideo](https://github.com/Marginal/QLVideo)
 
@@ -127,7 +123,6 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 运行`brew install qlvideo`或 [download manually](https://github.com/Marginal/QLVideo/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
-
 
 ## More
 
@@ -141,7 +136,6 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/ProvisionQL.png)](https://github.com/ealeksandrov/ProvisionQL)
 
-
 ### [QuickLookAPK](https://github.com/hezi/QuickLookAPK)
 
 &gt;预览Android APK文件
@@ -149,7 +143,6 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 运行`brew install quicklookapk`或 [download manually](https://github.com/hezi/QuickLookAPK/blob/master/QuickLookAPK.qlgenerator.zip)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/QuickLookAPK.png)](https://github.com/hezi/QuickLookAPK)
-
 
 ### [quicklook-pat](https://github.com/pixelrowdies/quicklook-pat)
 
@@ -159,20 +152,18 @@ xattr -d -r com.apple.quarantine〜/ Library / QuickLook
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
 
-
 ### [WebP](https://github.com/dchest/webp-quicklook)
 
 &gt;预览WebP图像
 
-&gt;注意：`qlImageSize`已经覆盖了它，因此仅当您不喜欢`qlImageSize`时在此列出此插件. 
+&gt;注意：`qlImageSize`已经覆盖了它，因此仅在您不喜欢`qlImageSize`的情况下在此列出此插件.
 
 运行`brew install webpquicklook`或 [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
-
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Sindre Sorhus](http://sindresorhus.com) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [Sindre Sorhus](https://sindresorhus.com) 放弃了此作品的所有版权以及相关或邻近的权利.

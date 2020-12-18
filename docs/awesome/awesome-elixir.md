@@ -422,6 +422,7 @@
 * [ether](https://github.com/maarek/ether) -以太网提供了将Elixir挂接到Erlang调试器中的功能.
 * [ex_debug_toolbar](https://github.com/kagux/ex_debug_toolbar) -Phoenix项目的工具栏，用于交互式调试代码并显示有关请求的有用信息：日志，时间轴，数据库查询等.
 * [exrun](https://github.com/liveforeverx/exrun) -具有速率限制和简单的基于宏的接口的Elixir分布式跟踪.
+* [extrace](https://github.com/redink/extrace) -Recon Trace的长生不老药包装.
 * [git_hooks](https://github.com/qgadrian/elixir_git_hooks) -将git钩子添加到Elixir项目.
 * [observer_cli](https://github.com/zhongwencool/observer_cli) -在命令行上可视化Elixir＆Erlang节点，旨在帮助开发人员调试生产系统.
 * [quaff](https://github.com/qhool/quaff) -调试模块提供了一个简单的帮助程序界面，用于在erlang图形调试器中运行Elixir代码.
@@ -563,7 +564,7 @@
 ## Feeds
 *使用RSS或ATOM等供稿的图书馆.*
 
-* [atomex](https://github.com/Betree/atomex) -ATOM feed生成器，重点关注标准合规性，安全性和可扩展性.
+* [atomex](https://github.com/Betree/atomex) -ATOM提要构建器，专注于标准合规性，安全性和可扩展性.
 * [feeder](https://github.com/michaelnisi/feeder) -解析RSS和Atom提要.
 * [feeder_ex](https://github.com/manukall/feeder_ex)  -RSS feed解析器. 进纸器的简单包装.
 * [feedme](https://github.com/umurgdk/elixir-feedme) -建立在erlang的xmerl xml解析器上的RSS / Atom解析器.
@@ -602,7 +603,7 @@
 * [addict](https://github.com/trenpixster/addict) -Phoenix Framework的用户身份验证.
 * [airbrake_plug](https://github.com/romul/airbrake_plug) -报告您的插头堆栈或Airbrake发生的错误.
 * [ashes](https://github.com/nickgartmann/ashes) -Phoenix网络框架的代码生成工具.
-* [better_params](https://github.com/sheharyarn/better_params) -Elixir插件，用于Web应用程序中更干净的请求参数.
+* [better_params](https://github.com/sheharyarn/better_params) -Elixir插件，用于Web应用程序中的更清洁的请求参数.
 * [blaguth](https://github.com/lexmag/blaguth) -插件应用程序中的基本访问身份验证.
 * [commanded](https://github.com/slashdotdash/commanded) -用于命令查询责任隔离（CQRS）应用程序的命令处理中间件.
 * [cors_plug](https://github.com/mschae/cors_plug) -一个Elixir插件，将CORS标头添加到请求并响应预检请求（OPTIONS）.

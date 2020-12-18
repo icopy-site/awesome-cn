@@ -167,7 +167,7 @@
 
 - [DelphiEncryptionCompendium](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) -Delphi的密码库.
 - [LockBox](https://sourceforge.net/projects/tplockbox/) -LockBox 3是用于加密的Delphi库.
-- [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) -快速的加密例程（散列和密码），实现AES，XOR，RC4，ADLER32，MD5，SHA1，SHA256算法，并针对速度进行了优化.
+- [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) -快速加密例程（哈希和密码），实现AES，XOR，RC4，ADLER32，MD5，SHA1，SHA256算法，并针对速度进行了优化.
 - [TForge](https://bitbucket.org/sergworks/tforge) -TForge是用Delphi编写的开源加密货币库，与FPC兼容.
 
 ### Elixir
@@ -322,6 +322,7 @@ algorithm.
 ### Rust
 
 - [dalek cryptography](https://github.com/dalek-cryptography/) -用于ECC，Bulletproofs等的快速而安全的中级API.
+- [mundane](https://github.com/google/mundane) -是由BoringSSL支持的Rust密码库，该库难以滥用，符合人体工程学且性能优异.
 - [octavo](https://github.com/libOctavo/octavo) -高度模块化和可配置的哈希和加密库.
 - [proteus](https://github.com/wireapp/proteus) -Rust中没有标题键的Axolotl协议实现.
 - [recrypt](https://github.com/IronCoreLabs/recrypt-rs) -一个纯铁锈库，该库实现用于构建多跳代理重新加密方案（称为“转换加密”）的加密原语.
@@ -379,7 +380,7 @@ algorithm.
 - [Applied Crypto Hardening](https://bettercrypto.org/) -准备使用最佳实践示例来保护Web服务器等的安全.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) -密码学Stack Exchange是软件开发人员，数学家和其他对密码学感兴趣的人的问答网站.
 - [Cryptohack](https://cryptohack.org/) -与Cryptopals类似的具有许多交互式密码学挑战的平台.
-- [Cryptopals Crypto Challenges](http://cryptopals.com/) -一系列应用密码学挑战，从非常基本的挑战（例如十六进制到基础64个挑战）开始，并逐渐增加难度，直至抽象代数.
+- [Cryptopals Crypto Challenges](http://cryptopals.com/) -一系列应用密码学挑战，从非常基本的挑战（例如十六进制到基础64个挑战）开始，逐渐将难度提高到抽象代数.
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) -密码学概述.
 - [IACR](https://www.iacr.org/) -国际密码学研究协会是一个非营利性的科学组织，其目的是进一步研究密码学及相关领域.
 - [Learn Cryptography](https://learncryptography.com/) -致力于帮助人们了解他们日常使用的密码系统的方式和原因，而无需实现保护和保护其隐私的工作.

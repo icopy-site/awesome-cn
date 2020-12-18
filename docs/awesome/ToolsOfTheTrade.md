@@ -22,7 +22,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 >
  &gt;从那时起已经三年了. 我们今天有什么？
 
-非常感谢对以前的线程所做的重大贡献，包括garrettdimon，espeed，netshade和cmadan，还有许多我没有命名的线程.
+非常感谢对以前的线程所做的重大贡献，包括garrettdimon，espeed，netshade和cmadan，还有许多我没有提到的.
 
 ##### Now
 
@@ -119,7 +119,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
  | 服务| 推特| 定价| 描述
 |:--------|:--------|:--------|:------------|
 | [App Annie](https://www.appannie.com) | [@appannie](https://twitter.com/appannie/)  | 免费| 使用我们的应用商店数据做出更好的决策. 我们是应用商店分析，应用排名和市场情报的领导者.  |
-| [App Figures](https://appfigures.com) | [@appfigures](https://twitter.com/appfigures)  |  $ 9 / mo | 适用于应用程序开发商和发行商的漂亮的应用程序跟踪平台.  |
+| [App Figures](https://appfigures.com) | [@appfigures](https://twitter.com/appfigures)  |  $ 9 / mo | 适用于应用程序开发人员和发布者的漂亮的应用程序跟踪平台.  |
 
 ### Localization & Internationalization
 
@@ -144,7 +144,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Google Analytics](https://marketingplatform.google.com/about/analytics/) | [@GMktgPlatform](https://twitter.com/GMktgPlatform)  |  -| 利用Google Analytics（分析），您可以衡量广告的投资回报率，并跟踪Flash，视频以及社交网站和应用程序.  |
 | [Heap Analytics](https://heapanalytics.com) | [@heap](https://twitter.com/heap)  |  0-599美元以上| 针对Web和iOS的即时，追溯分析. 无需代码.  |
 | [Improvely](https://www.improvely.com) | [@improvelycom](https://twitter.com/improvelycom)  |  $ 29-$ 899 / mo | 转化跟踪和点击欺诈监控平台. 跟踪营销活动效果并监视其是否存在点击欺诈的最简单方法.  |
-| [KISSmetrics](https://www.kissmetricshq.com/) | [@kissmetrics](https://twitter.com/kissmetrics/)  |  $ 150 / mo-$ 500 / mo |  KISSmetrics会告诉您谁在做. 最后的每一块都与真实的人联系在一起. 所有的. 人们在不同的浏览器和设备之间跳动无关紧要. 甚至需要6个月才能回来. 您将看到真正的人在做什么.  |
+| [KISSmetrics](https://www.kissmetricshq.com/) | [@kissmetrics](https://twitter.com/kissmetrics/)  |  $ 150 / mo-$ 500 / mo |  KISSmetrics会告诉您谁在做. 最后的每一块都与一个真实的人联系在一起. 所有的. 人们在不同的浏览器和设备之间跳动无关紧要. 甚至需要6个月才能回来. 您将看到真正的人在做什么.  |
 | [Keen IO](https://keen.io) | [@keen_io](https://twitter.com/keen_io)  |  $ 0-$ 2000 + / mo | 自定义分析在后端不应该感到痛苦.  Keen IO强大的API为您完成了繁重的工作，因此您可以收集所需的所有数据并开始获得所需的答案.  |
 | [Localytics](https://www.localytics.com) | [@localytics](https://twitter.com/localytics/) | Free up to 10k MAUs, $200/mo - $2700/mo above that | Find out what works in your mobile or web app. Do more of it. All in one place. Advanced analytics provide data and insight to help you build more successful apps. Integrated Marketing helps you easily engage and acquire more customers. |
 | [Matomo](https://matomo.org) | [@matomo_org](https://twitter.com/matomo_org)  |  -| 无论您是个人博客作者，小型企业还是大型公司，Matemo都能帮助您获得宝贵的见解，以帮助您的企业或读者群增长.  |
@@ -216,7 +216,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 | [Semaphore](https://semaphoreci.com) | [@semaphoreci](https://twitter.com/semaphoreci)  |  $ 14 / mo-$ 899 / mo | 创建一个惊人的工作流.  Semaphore假定您的私有或开源项目在GitHub上. 没有要管理的新依赖项，挂钩或SSH密钥. 它的工作原理没有对源代码进行任何更改.  |
 | [Solano CI](https://www.solanolabs.com) | [@SolanoLabs](https://twitter.com/solanolabs)  |  $ 15 / mo-$ 100 / mo | 通过获得专利的自动并行化功能，可以更快地进行持续集成和部署.  Solano CI可以在数分钟内完成持续集成，使您无需管理构建服务器，并可以安全，自动地并行运行测试，从而使软件部署速度提高了10倍至80倍. 它也使您甚至可以在使用CI之前使用我们的大规模可扩展环境. 无缝集成到现有工作流程中. 免费试用14天，无需信用卡. 以前曾被人称为tddium.  |
 | [Jenkins](https://jenkins.io) | [@jenkinsci](https://twitter.com/jenkinsci)  | 免费|  Jenkins为软件开发提供持续集成服务. 它是一个基于服务器的系统，支持SCM工具，包括AccuRev，CVS，Subversion，Git，Mercurial，Perforce，Clearcase和RTC，并且可以执行基于Apache Ant和Apache Maven的项目以及任意shell脚本和Windows批处理命令.  Jenkins是根据MIT许可发布的免费软件.  |
-| [Bamboo](https://www.atlassian.com/software/bamboo) | [@atlassian](https://twitter.com/atlassian)  |  $ 10 / mo-$ 1000 / mo |  Bamboo不仅仅运行构建和测试. 它连接问题，提交，测试结果和部署，因此整个产品团队都可以使用整个图景-从项目经理，开发人员和测试人员，再到系统管理员.  |
+| [Bamboo](https://www.atlassian.com/software/bamboo) | [@atlassian](https://twitter.com/atlassian)  |  $ 10 / mo-$ 1000 / mo |  Bamboo不仅仅运行构建和测试. 它可以连接问题，提交，测试结果和部署，从而使整个产品团队都可以使用整个图景-从项目经理，开发人员和测试人员到系统管理员.  |
 | [Buildkite (Buildbox)](https://buildkite.com) | [@buildkite](https://twitter.com/buildkite)  |  $ 15 / dev / mo | 半主机式持续集成和部署.  Buildkite使用您自己的基础结构来运行构建，因此您可以测试任何语言或运行任何部署脚本. 您可以根据需要运行任意数量的并行代理（和构建）.  |
 | [Crucible](https://www.atlassian.com/software/crucible) | [@atlassian](https://twitter.com/atlassian)  |  $ 10 / mo-$ 8000 / mo | 代码审查系统. 使用Crucible灵活的审阅工作流程，审阅代码，讨论更改，共享知识并识别缺陷. 它的代码审查使Git，Subversion，CVS，Perforce等的工作变得容易.  |
 | [Coveralls](https://coveralls.io) | [@coverallsapp](https://twitter.com/coverallsapp)  |  $ 0 /月-$ 50 /月|  Coveralls与您的持续集成服务器配合使用，可以为您提供测试覆盖率历史记录和统计信息. 它可以与任何语言集成，并且对于开源是免费的.  |
@@ -425,7 +425,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 |:--------|:--------|:--------|:------------|
 | [Buffer](https://buffer.com) | [@buffer](https://twitter.com/buffer)  |  $ 15 / mo-$ 99 / mo | 缓冲是在社交媒体上发布的最简单方法.  Buffer帮助您共享到Twitter，Facebook等.  |
 | [HootSuite](https://hootsuite.com) | [@HootSuite](https://twitter.com/HootSuite)  |  $ 8.99 / mo | 为您的社交媒体策略增加速度和敏捷性. 您可以在一个仪表板上安排推文和Facebook帖子，监控对话等等. 当您需要证明自己的社会投资回报率时，快速创建和定制现成的分析报告.  |
-| [Claim.io](https://claim.io/) | [@claimio](https://twitter.com/claimio)  |  $ 189 /月-$ 499 /月| 在300个社交媒体网站上拥有自己的名字，不仅使人们可以更轻松地在网上找到您或您的公司，而且还可以作为“社交媒体身份保险”，保护您免受域名抢注和身份欺诈的侵害，最大程度地降低品牌风险.  |
+| [Claim.io](https://claim.io/) | [@claimio](https://twitter.com/claimio)  |  $ 189 /月-$ 499 /月| 在300个社交媒体网站上拥有自己的名字，不仅使人们可以更轻松地在网上找到您或您的公司，而且还可以作为“社交媒体身份保险”，保护您免受域名抢注和身份欺诈的影响，最大程度地降低品牌风险.  |
 | [Exacttarget Marketing Cloud/Buddy Media](https://www.salesforce.com/products/marketing-cloud/overview/) | [@marketingcloud](https://twitter.com/marketingcloud)  |  -| 集成的社交内容解决方案使您与社交客户更近. 在Facebook，Twitter，YouTube和您的网站上运行整合的广告系列，增加粉丝，关注者和拥护者. 发布引人入胜的交互式社交应用程序. 轻松创建登录页面和微型网站，并将社交网络扩展到您的网站. 借助强大的分析功能，了解参与趋势，人口统计，转化和业务指标.  |
 | [Sprout Social](https://sproutsocial.com) | [@sproutsocial](https://twitter.com/sproutsocial)  |  $ 99 /月-$ 249 /月| 强大的社交媒体软件.  Sprout使您可以通过一种易于使用的消息撰写工具在Facebook，Twitter，Google +和LinkedIn上同时发布消息. 缩短链接，附加照片，在Facebook上定位目标受众，自定义帖子等等.  |
 | [F5Bot](https://f5bot.com)  |  -| 免费|  F5Bot是免费的社交媒体关键字监视. 当Hacker News或Reddit上提及您的创业公司，产品或竞争对手时，F5Bot会向您发送电子邮件.  |
@@ -782,7 +782,6 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 |:--------|:--------|:--------|:------------|
 | [Heroku](https://www.heroku.com) | [@heroku](https://twitter.com/heroku)  | 经验证的帐户，每月1000小时的免费小时|  -|
 | [Cloud Foundry](https://www.cloudfoundry.org) | [@cloudfoundry](https://twitter.com/cloudfoundry)  |  -| 自己托管，或使用多种托管服务之一|
-| [Pagodabox](https://pagodabox.io ) | - | - | - |
 | [Clever Cloud](https://www.clever-cloud.com ) | [@clever_cloud](https://twitter.com/clever_cloud) | - | - |
 | [Google App Engine](https://cloud.google.com/appengine/docs/ ) | - | - | - |
 | [OpenShift](https://www.openshift.com) | [@openshift](https://twitter.com/openshift)  |  -|  OpenShift为您提供了在公共或私有云中开发，托管和扩展应用程序所需的所有工具. 立即开始.  |
@@ -1020,7 +1019,7 @@ Delicious在2010年创立了Joshua Schachter， [posted the following](https://n
 ### Fundraising / Investor Relations
  | 服务| 推特| 定价| 描述
 |:--------|:--------|:--------|:------------|
-| [Captable.io](https://captable.io) | [@captable_io](https://twitter.com/captable_io)  | 免费|  Captable.io是一款免费的功能齐全的帽子桌管理工具，可进行逐步创建，轻松的协作和共享，可转换票据和期权计算器以及强大的回合建模.  |
+| [Captable.io](https://captable.io) | [@captable_io](https://twitter.com/captable_io)  | 免费|  Captable.io是一款免费的功能齐全的帽子桌管理工具，可逐步进行创建，轻松的协作和共享，可转换票据和期权计算器以及强大的回合建模.  |
 | [Disclosure](https://startupdisclosure.io) | [@ltse](https://twitter.com/ltse)  | 免费| 帮助初创企业满足投资者更新要求，以便投资者可以管理和汇总投资组合信息. 它取代了当今繁琐的基于电子邮件的流程.  |
 | [NoteGenie](https://notegenie.io) / [SAFEGenie](https://safegenie.io) | [@ltse](https://twitter.com/ltse)  | 免费| 用于探索可转换债券和SAFE对创始人所有权的影响的计算器.  |
 | [IPO Ready](https://ipo-ready.com) | [@ltse](https://twitter.com/ltse)  | 免费| 快速评估您的创业公司的IPO准备情况. 了解准备首次公开募股所需的条件.  |
