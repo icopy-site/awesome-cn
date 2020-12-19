@@ -53,6 +53,8 @@
 
 * [VSCode](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R语言支持
 * [gt](https://github.com/rstudio/gt) -从R轻松生成信息丰富的，具有出版物质量的表格
+* [lightgbm <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/lightgbm/index.html) -轻梯度助推器.
+* [torch](https://cran.r-project.org/web/packages/torch/index.html) -具有“ GPU”加速功能的张量和神经网络.
 
 ## 2019
 
@@ -107,7 +109,7 @@
 ## Graphic Displays
 *用于显示数据的软件包.
 
-* [ggfortify](https://github.com/sinhrks/ggfortify) -使用一行代码到ggplot2流行统计软件包的统一接口.
+* [ggfortify](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code.
 * [ggrepel](https://github.com/slowkow/ggrepel) -排斥彼此重叠的文本标签.
 * [ggalt](https://github.com/hrbrmstr/ggalt) -ggplot2的额外坐标系，几何和统计转换.
 * [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) -具有统计详细信息的基于ggplot2的图
@@ -144,10 +146,10 @@
 * [Leaflet](http://rstudio.github.io/leaflet/) -最受欢迎的JavaScript库交互式地图之一.
 * [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) -轻松创建D3散点图，折线图和直方图.
 * [networkD3](http://christophergandrud.github.io/networkD3/) -R的D3 JavaScript网络图.
-* [scatterD3](https://github.com/juba/scatterD3) -与D3的交互式散点图。
+* [scatterD3](https://github.com/juba/scatterD3) -与D3的交互式散点图.
 * [rbokeh](http://hafen.github.io/rbokeh/) -R接口 [Bokeh](http://bokeh.pydata.org/en/latest/).
 * [threejs](https://github.com/bwlewis/rthreejs) -交互式3D散点图和地球仪.
-* [timevis](https://github.com/daattali/timevis) -创建完全交互式的时间轴可视化.
+* [timevis](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
 * [visNetwork](https://github.com/datastorm-open/visNetwork) -使用vis.js库进行网络可视化.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) -到wordcloud2.js的R接口.
 * [highcharter](https://github.com/jbkunst/highcharter) -基于htmlwidgets的highcharts的R包装器
@@ -157,7 +159,7 @@
 *用于识字编程和可复制工作流程的软件包.
 
 * [redoc](https://github.com/noamross/redoc) -可逆可复制文件
-* [tinytex](https://github.com/yihui/tinytex) - A lightweight and easy-to-maintain LaTeX distribution
+* [tinytex](https://github.com/yihui/tinytex) -轻便且易于维护的LaTeX发行版
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html) -将表格导出到LaTeX或HTML.
 * [rapport](http://rapport-package.info/#intro) -R模板系统.
 * [rmarkdown <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://rmarkdown.rstudio.com/) -R的动态文档.
@@ -213,6 +215,7 @@
 
 * [rJava](http://cran.r-project.org/web/packages/rJava/) -低级R到Java接口.
 * [jvmr](https://github.com/cran/jvmr) -R，Java和Scala的集成.
+* [reticulate <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/reticulate/index.html) -与“ Python”的接口.
 * [rJython](http://cran.r-project.org/web/packages/rJython/index.html) -通过Jython与Python的R接口.
 * [rPython](http://cran.r-project.org/web/packages/rPython/index.html) -允许R调用Python的软件包.
 * [runr](https://github.com/yihui/runr) -从R运行Julia和Bash.
@@ -284,8 +287,8 @@ Friedman
 boosting
 * [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) -GAMLSS的提升方法
 * [gbm](http://cran.r-project.org/web/packages/gbm/index.html) -广义Boosted回归模型
-* [glmnet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/glmnet/index.html) -套索和弹性网正则化广义线性模型
-* [glmpath](http://cran.r-project.org/web/packages/glmpath/index.html) - L1 Regularization Path for Generalized Linear Models and Cox
+* [glmnet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/glmnet/index.html) - Lasso and elastic-net regularized generalized linear models
+* [glmpath](http://cran.r-project.org/web/packages/glmpath/index.html) -广义线性模型和Cox的L1正则化路径
 比例危害模型
 * [GMMBoost](http://cran.r-project.org/web/packages/GMMBoost/index.html) -广义混合模型的基于似然性的Boosting
 * [grplasso](http://cran.r-project.org/web/packages/grplasso/index.html) -用组套索惩罚拟合用户指定的模型
@@ -301,8 +304,9 @@ covariates
 * [lars](http://cran.r-project.org/web/packages/lars/index.html) -最小角度回归，套索和前进阶段
 * [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) -L1约束估计又名“套索”
 * [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) -基于Liblinear C / C ++库的线性预测模型
-* [nlme <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/nlme/index.html) -混合效应模型，处理用户指定的残余协方差矩阵，与纵向试验中重复观测的分析有关
-* [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) -广义混合效应模型，处理用户指定的残余协方差矩阵，与纵向试验中重复观测的分析有关
+* [lightgbm <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/lightgbm/index.html) -轻梯度助推器.
+* [nlme <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/nlme/index.html) -混合效应模型，处理用户指定的残余协方差矩阵，与纵向试验中的重复观测结果分析相关
+* [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) -广义混合效应模型，处理用户指定的残余协方差矩阵，与纵向试验中的重复观测结果分析相关
 * [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) -逻辑回归
 * [maptree](http://cran.r-project.org/web/packages/maptree/index.html) -映射，修剪和绘制树模型
 * [mboost](http://cran.r-project.org/web/packages/mboost/index.html) -基于模型的提升
@@ -337,7 +341,7 @@ R中的搜索链（MA-LS链）
 分类和回归
 * [ROCR](http://cran.r-project.org/web/packages/ROCR/index.html) -可视化评分器的表现
 * [RoughSets](http://cran.r-project.org/web/packages/RoughSets/index.html) -使用粗糙集和模糊粗糙集理论进行数据分析
-* [rpart](http://cran.r-project.org/web/packages/rpart/index.html) - Recursive Partitioning and Regression Trees
+* [rpart](http://cran.r-project.org/web/packages/rpart/index.html) -递归分区和回归树
 * [RPMM](http://cran.r-project.org/web/packages/RPMM/index.html) -递归分区混合模型
 * [RSNNS](http://cran.r-project.org/web/packages/RSNNS/index.html) -使用斯图加特神经网络的R中的神经网络
 模拟器（SNNS）
@@ -352,6 +356,8 @@ R中的搜索链（MA-LS链）
 * [survival](https://cran.r-project.org/web/packages/survival/index.html) -生存分析
 * [svmpath](http://cran.r-project.org/web/packages/svmpath/index.html) -svmpath：SVM路径算法
 * [tgp](http://cran.r-project.org/web/packages/tgp/index.html) -贝叶斯树状高斯过程模型
+* [tidymodels](https://cran.r-project.org/web/packages/tidymodels/index.html) -用于建模和统计分析的软件包的集合，这些软件包共享tidyverse的基本设计理念，语法和数据结构.
+* [torch](https://cran.r-project.org/web/packages/torch/index.html) -具有“ GPU”加速功能的张量和神经网络.
 * [tree](http://cran.r-project.org/web/packages/tree/index.html) -分类和回归树
 * [varSelRF](http://cran.r-project.org/web/packages/varSelRF/index.html) -使用随机森林进行变量选择
 
@@ -439,14 +445,14 @@ R中的搜索链（MA-LS链）
 * [tidygraph](https://github.com/thomasp85/tidygraph) -用于图形操作的整洁API
 
 ## Spatial
-*Packages to explore the earth.*
+*探索地球的包裹.*
 
 * [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)-空间分析相关资源.
 * [Leaflet](http://rstudio.github.io/leaflet/) -最受欢迎的JavaScript库交互式地图之一.
 * [ggmap](https://github.com/dkahle/ggmap) -用ggplot2在R中绘制地图.
 * [REmap](https://github.com/Lchiffon/REmap) -JavaScript库ECharts的R接口，用于交互式地图数据可视化.
 * [sf](https://cran.r-project.org/web/packages/sf/index.html) -改进的空间数据类和方法.
-* [sp](https://edzer.github.io/sp/) -空间数据的类和方法.
+* [sp](https://edzer.github.io/sp/) - Classes and Methods for Spatial Data.
 * [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) -几何引擎接口-开源
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) -地理空间数据抽象库的绑定
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html) -读取和处理空间对象的工具
@@ -535,7 +541,7 @@ R中的搜索链（MA-LS链）
 * [RDocumentation](https://www.rdocumentation.org/) -使用RDocumentation搜索所有CRAN，Bioconductor，Github软件包及其档案.
 * [rdrr.io](https://rdrr.io/)  -查找R软件包文档. 在浏览器中尝试R软件包.
 * [CRAN Task Views](http://cran.r-project.org/web/views/) -CRAN程序包的任务视图.
-* [rnotebook.io](https://rnotebook.io/) - Create online R Jupyter Notebooks for free.
+* [rnotebook.io](https://rnotebook.io/) -免费创建在线R Jupyter笔记本.
 
 ### News and Info
 
@@ -629,7 +635,7 @@ R社区和软件包集合（按字母顺序）：
 * [r2d3](https://rstudio.github.io/r2d3/) -D3可视化的R接口 ![r2d3](https://cranlogs.r-pkg.org/badges/r2d3)
 * [rstats-ed](https://github.com/rstudio-education/rstats-ed) -R教学课程清单
 * [promises](https://cran.r-project.org/web/packages/promises/index.html) -基于承诺的异步编程的抽象 ![promises](https://cranlogs.r-pkg.org/badges/promises)
-* [tinytex](https://yihui.name/tinytex/) - A lightweight and easy-to-maintain LaTeX distribution ![tinytex](https://cranlogs.r-pkg.org/badges/tinytex)
+* [tinytex](https://yihui.name/tinytex/) -轻便且易于维护的LaTeX发行版 ![tinytex](https://cranlogs.r-pkg.org/badges/tinytex)
 * [Readings in Applied Data Science](https://github.com/hadley/stats337) -这些读物反映了哈德利对应用数据科学的个人想法.
 
 
@@ -637,7 +643,7 @@ R社区和软件包集合（按字母顺序）：
 
 * [prophet](https://github.com/facebookincubator/prophet) -用于为具有多个季节性且线性或非线性增长的时间序列数据生成高质量预测的工具.
 * [tidyverse](https://github.com/tidyverse/tidyverse) -从tidyverse轻松安装和加载软件包
-* [purrr](https://github.com/tidyverse/purrr) -用于R的功能性编程工具包
+* [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -以印刷为中心的固执己见的ggplot2主题和主题组件
 * [xaringan](https://github.com/yihui/xaringan) -使用R Markdown和JavaScript库创建HTML5幻灯片
 * [blogdown](https://github.com/rstudio/blogdown) -使用R Markdown创建博客和网站

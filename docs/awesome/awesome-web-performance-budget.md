@@ -16,9 +16,10 @@
 - [Inside Design - Setting a web performance budget](https://www.invisionapp.com/inside-design/setting-a-web-performance-budget/) -通过Invision设置绩效预算.
 - [Real-world Web Performance Budgets By Alex Russel](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/) -您负担得起吗？：实际的Web性能预算.
 - [Performance Budget using Angular CLI](https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a) -在Angular项目中实施绩效预算.
+- [Performance budgets 101](https://web.dev/performance-budgets-101/) -如何通过设置效果预算来开始旅程.
 - [Incorporate performance budgets into your build process](https://web.dev/incorporate-performance-budgets-into-your-build-tools) -在您的构建过程中设置性能预算.
 - [How to make Performance Budget](http://v3.danielmall.com/articles/how-to-make-a-performance-budget/) -制定绩效预算的说明.
-- [Impact of Page Weight on Load Time](https://paulcalvano.com/2018-07-02-impact-of-page-weight-on-load-time/) - 
+- [Impact of Page Weight on Load Time](https://paulcalvano.com/2018-07-02-impact-of-page-weight-on-load-time/) -页面权重对加载时间的影响.
 
 ## Tools to measure Performance Budget
 
@@ -55,6 +56,9 @@
 ## Website Analyzers
 - [Lighthouse Metrics](https://lighthouse-metrics.com/)  -Lighthouse Metrics可轻松了解您网站的性能. 通过在多个位置运行测试来节省您的时间，以获得所需的宝贵见解.
 - [UITest.com Site Check](https://uitest.com/check/) -使用80多种工具（基于Web的和免费的）测试您的网站.
+
+## Blogs
+- [Web Performance Calender](https://calendar.perfplanet.com/2020/) -加速极客一年中最喜欢的时间.
 
 ## Podcasts
 - [Chasing Waterfalls](https://chasingwaterfalls.io/) -与人交谈，以提高网络速度 [Tim kadlec](https://timkadlec.com/)

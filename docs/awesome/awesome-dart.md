@@ -3,11 +3,11 @@
 很棒的飞镖 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ============
 
- 精选的Dart框架，库和软件的精选列表.  列表中的项目会得到积极维护，有据可查，并且在Dart社区中很受欢迎.  受启发 [awesome](https://github.com/sindresorhus/awesome) 列表.
+精选的Dart框架，库和软件的精选列表. 列表中的项目会得到积极维护，有据可查，并且在Dart社区中很受欢迎. 受启发 [awesome](https://github.com/sindresorhus/awesome) 列表.
 
 ### Contributing
 
-请快速浏览一下 [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不合适的软件包或项目，请提交请求请求以改进此文件.  谢谢你们 [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ;  你摇滚！
+请快速浏览一下 [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md) 第一. 如果您在此处看到不再维护或不合适的软件包或项目，请提交请求请求以改进此文件. 谢谢你们 [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ; 你摇滚！
 
 
 *图书馆
@@ -26,11 +26,11 @@
 ## Server Frameworks
 
 * [Jaguar](https://github.com/Jaguar-dart/jaguar) -为提高速度，简化性和可扩展性而构建的服务器框架.
-* [Angel](https://github.com/angel-dart/angel) -Angel是为全栈开发而设计的服务器端框架，重点在于代码共享，可伸缩性和较低的学习曲线.
+* [Angel](https://github.com/angel-dart/angel) -Angel是为全栈开发而设计的服务器端框架，着重于代码共享，可伸缩性和较低的学习曲线.
 * [Aqueduct](https://github.com/stablekernel/aqueduct) -Aqueduct是功能齐全的服务器端框架，具有ORM，数据库迁移工具，OAuth 2.0实现，自动OpenAPI规范生成和多线程支持.
-* [Start](https://github.com/lvivski/start) -Sinatra启发性的Web框架可提供静态文件，处理动态请求，WebSocket和创建JSON响应.
+* [Start](https://github.com/lvivski/start) -Sinatra启发了Web框架，该框架可提供静态文件，处理动态请求，WebSocket和创建JSON响应.
 * [Shelf](https://pub.dartlang.org/packages/shelf) -架子使创建和组成Web服务器以及Web服务器的各个部分变得容易.
-     *有许多为书架写的软件包.  按照惯例，它们以 [shelf_](https://pub.dartlang.org/search?q=shelf_).
+     *有许多为书架写的软件包. 按照惯例，它们以 [shelf_](https://pub.dartlang.org/search?q=shelf_).
 * [Vane](https://github.com/Scorpiion/Vane) -具有内置服务器运行时环境和中间件系统的框架.
 * [Rikulo Stream](https://github.com/rikulo/stream) -具有请求路由，过滤，模板引擎，WebSocket，MVC设计模式和基于文件的静态资源的轻量级Web服务器.
 
@@ -44,11 +44,11 @@
 ## Animation
 
 * [Universal Tween Engine](https://github.com/xaguzman/tween-engine-dart) -Aurelien Ribbon创建的原始Java Universal Tween引擎的端口.
-* [Spine Dart](https://github.com/FedeOmoto/spine) -Esoteric软件Spine运行时的实现.
+* [Spine Dart](https://github.com/FedeOmoto/spine) -Esoteric Software Spine运行时的实现.
 
 ## Template
 
-* [mustache4dart](https://github.com/valotas/mustache4dart) -小胡子的简单实现.
+* [mustache4dart](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache.
 * [jaded](https://github.com/dartist/jaded) -出色的Jade视图引擎的端口.
 
 ## Database
@@ -69,18 +69,18 @@
 * [built_collection](https://github.com/google/built_collection.dart) -通过生成器模式的不可变集合. 
 * [built_value](https://github.com/google/built_value.dart) -不可变的值类型，枚举类和序列化.
 * [Frappe](https://pub.dartlang.org/packages/frappe)  -Dart的功能性反应式编程库.  Frappé扩展了Dart流的功能，并引入了诸如属性/信号之类的新概念.
-* [Quiver](https://github.com/google/quiver-dart) -一组实用程序库，这些实用程序库使使用许多库变得更容易，更方便，或者添加了其他功能.
+* [Quiver](https://github.com/google/quiver-dart) -一组实用程序库，这些实用程序库使使用许多库更容易，更方便，或添加了附加功能.
 * [route_hierarchical](https://github.com/angular/route.dart) -Route是Dart的客户端路由库，可帮助构建单页Web应用程序.
 
 ## Dependency Injection
 
 * [Angular DI](https://webdev.dartlang.org/angular/guide/dependency-injection) -Angular的依赖注入框架.
-* [Dependencies](https://github.com/marcguilera/dependencies.dart) -一个不使用镜像的简单模块化依赖注入系统.
+* [Dependencies](https://github.com/marcguilera/dependencies.dart) -一个不使用镜像的简单的模块化依赖项注入系统.
 * [package: inject](https://github.com/google/inject.dart) -Dart和Flutter的编译时依赖注入
 
 ## Parsers
 
-* [html](https://pub.dartlang.org/packages/html)  -用于处理HTML文档的库.  以前称为html5lib.
+* [html](https://pub.dartlang.org/packages/html)  -用于处理HTML文档的库. 以前称为html5lib.
 * [markdown](https://github.com/dart-lang/markdown) -在客户端和服务器上将markdown解析为HTML.
 * [PetitParser](https://github.com/petitparser/dart-petitparser) -PetitParser结合了无扫描程序解析，解析器组合器，解析表达式语法和packrat解析器的思想，将语法和解析器建模为可以动态重新配置的对象.
 * [XML](https://pub.dartlang.org/packages/xml) -用于解析，遍历，查询和构建XML文档的轻量级库.
@@ -91,7 +91,7 @@
 
 ## Validation
 
-* [Constrain](https://pub.dartlang.org/packages/constrain) -提供基于约束的验证库，该库受Java Bean验证的启发，但利用Dart的高级语言功能.
+* [Constrain](https://pub.dartlang.org/packages/constrain) -提供受Java Bean验证启发但利用Dart的高级语言功能的基于约束的验证库.
 * [validator.dart](https://github.com/karan/validator.dart) -Dart的字符串验证和清理.
 
 ## ORM
@@ -111,18 +111,22 @@
 
 * [Freezed](https://github.com/rrousselGit/freezed) -为不可变类提供代码生成，该类具有简单的语法/ API，而不会影响功能.
 
+## Crash monitoring
+
+* [Sentry](https://github.com/getsentry/sentry-dart) -Sentry提供自托管和基于云的错误监控，可帮助所有软件团队实时发现，分类和确定错误的优先级.
+
 ## Tools
 
 * [Observatory](https://www.dartlang.org/tools/observatory/) -天文台是用于分析和调试Dart应用程序的工具.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) -将Dart代码编译为JavaScript.
 * [js2dart](https://github.com/vojtajina/js2dart) -将Javascript代码编译为Dart.
 * [Stagehand](https://github.com/dart-lang/stagehand) -受Web Starter Kit和Yeoman等工具启发的项目脚手架生成器.
-* [Crossdart](https://crossdart.info) -来自Pub的软件包的交叉引用源代码.
-* [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
+* [Crossdart](https://crossdart.info) -来自Pub的程序包的交叉引用源代码.
+* [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) -在Github上的Dart项目中添加了“转到声明”和“查找用法”功能（在树形视图和拉取请求中）.
 * [gulp-dart](https://github.com/agudulin/gulp-dart) -一个gulp插件，用于使用dart2js将Dart代码编译为JavaScript.
-* [dev_compiler](https://github.com/dart-lang/dev_compiler) -Dart JavaScript编译器，旨在创建惯用的，可读的JavaScript输出.
+* [dev_compiler](https://github.com/dart-lang/dev_compiler) -Dart到JavaScript编译器，旨在创建惯用的，可读的JavaScript输出.
 * [json2dart](https://javiercbk.github.io/json_to_dart) -给定一个json，它将生成要分析的dart类，并生成具有给定结构的json.
-* [webdev_proxy](https://github.com/Workiva/webdev_proxy) -周围的代理包装 [webdev](https://github.com/dart-lang/webdev) 这增加了对将404重新路由到索引的支持，从而允许在本地运行时基于HTML推式的路由.
+* [webdev_proxy](https://github.com/Workiva/webdev_proxy) -代理包装 [webdev](https://github.com/dart-lang/webdev) 这增加了对将404重新路由到索引的支持，从而允许在本地运行时基于HTML推送的路由.
 
 ## Tutorials
 
@@ -158,7 +162,7 @@
 
 ## Everything Else
 
-有很多很棒的库被添加到 [Pub](https://pub.dartlang.org/)  每时每刻.  如果在此列表中找不到可以满足您需求的图书馆，请继续在Pub上进行搜索.  而且，如果您最终找到了一个很棒的库，我们将很乐意提供带有信息的请求请求，以便其他所有人也可以找到它.  只要确保阅读 [contributing guidelines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) 第一.
+有很多很棒的库被添加到 [Pub](https://pub.dartlang.org/) 每时每刻. 如果在此列表中找不到可以满足您需求的图书馆，请继续在Pub上进行搜索. 而且，如果您最终找到了一个很棒的库，我们将很乐意提供带有信息的请求请求，以便其他所有人也可以找到它. 只要确保阅读 [contributing guidelines](https://github.com/yissachar/awesome-dart/blob/master/CONTRIBUTING.md) 第一.
 
 ## License
 

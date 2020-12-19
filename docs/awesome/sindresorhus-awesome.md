@@ -261,7 +261,7 @@
 
 ## Back-End Development
 
-- [Flask](https://github.com/humiaozuzu/awesome-flask#readme) -Python框架.
+- [Flask](https://github.com/mjhea0/awesome-flask#readme) -Python框架.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) -自动化虚拟机环境.
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) -Python框架.

@@ -22,7 +22,7 @@
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _当今的数据科学家类似于1980年代和1990年代的华尔街“数量”. 那时，具有物理学和数学背景的人们涌向投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 然后，各式各样的大学开发了金融工程硕士学位课程，从而培养出了第二代人才，主流企业更容易获得这些人才. 在1990年代后期，搜索工程师重复了这种模式，搜索工程师的稀有技能很快就被计算机科学程序所教授.
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，负责收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学，统计学和数学. 他们分析，处理和建模数据，然后解释结果以为公司和其他组织创建可行的计划.
-| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的一门学科-计算机科学结合起来的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家和其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
+| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的计算机科学相结合的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家和其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
 
 
 ## Learn Data Science
@@ -192,6 +192,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Octave](https://www.gnu.org/software/octave/)  |  GNU Octave是一种高级解释语言，主要用于数值计算.
 | [Apache Spark](https://spark.apache.org/)  | 迅捷的集群计算|
 | [Hydrosphere Mist](https://github.com/Hydrospheredata/mist)  | 一种将Apache Spark分析作业和机器学习模型公开为实时，批处理或反应式Web服务的服务.  |
+| [Data Mechanics](https://www.datamechanics.co)  | 数据科学和工程平台使Apache Spark对开发人员更友好且更具成本效益.  |
 | [Caffe](http://caffe.berkeleyvision.org/)  | 深度学习框架|
 | [Torch](http://torch.ch/)  |  LuaJit的科学计算框架|
 | [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) | .  |
@@ -452,7 +453,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Science London](http://datasciencelondon.org/) 伦敦数据科学公司是一个非营利性组织，致力于数据科学的免费，开放，传播.
   我们是欧洲最大的数据科学社区.
   我们社区中有3190多名数据科学家和数据极客.
-- [Datawrangling](http://datawrangling.com/) 彼得·斯科莫罗奇（Peter Skomoroch）. 机器学习，数据挖掘及更多
+- [Datawrangling](http://datawrangling.com/) 彼得·斯科莫洛克（Peter Skomoroch）. 机器学习，数据挖掘及更多
 - [Quora Data Science](https://www.quora.com/Data-Science) -来自专家的数据科学问答
 - [Siah](https://openresearch.wordpress.com/) 伯克利大学博士研究生
 - [Data Science Report](http://datasciencereport.com/) MDS，Inc.帮助建立数据科学，高级分析，大数据架构和高性能软件工程领域的职业
@@ -738,7 +739,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [data.gov](https://catalog.data.gov/dataset) -美国政府公开数据的所在地
 - [United States Census Bureau](http://www.census.gov/)
 - [usgovxml.com](http://usgovxml.com/)
-- [enigma.com](http://enigma.com/) -浏览公共数据的世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
+- [enigma.com](http://enigma.com/) -浏览公共数据世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
 - [datahub.io](https://datahub.io/)
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://www.datacite.org)

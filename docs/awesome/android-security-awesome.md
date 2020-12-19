@@ -62,9 +62,9 @@ android安全相关资源的集合.
 20. [ClassyShark](https://github.com/google/android-classyshark) -独立的二进制检查工具，可以浏览任何Android可执行文件并显示重要信息.
 21. [StaCoAn](https://github.com/vincentcox/StaCoAn)  -跨平台工具，可帮助开发人员，漏洞赏金猎人和道德黑客在移动应用程序上执行静态代码分析. 创建此工具时，重点放在用户界面中的可用性和图形指导上.
 22. [JAADAS](https://github.com/flankerhqd/JAADAS) -基于Soot和Scala的过程内和过程间联合程序分析工具可查找Android应用程序中的漏洞
-23. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
-24. [Quark-Engine](https://github.com/quark-engine/quark-engine) -忽略不清的Android恶意软件计分系统
-25. [One Step Decompiler](https://github.com/b-mueller/apkx) -懒惰的Android APK反编译
+23. [Quark-Engine](https://github.com/quark-engine/quark-engine) -忽略不清的Android恶意软件计分系统
+24. [One Step Decompiler](https://github.com/b-mueller/apkx) -懒惰的Android APK反编译
+25. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 
 ### App Vulnerability Scanners
 

@@ -32,9 +32,10 @@
 - [Codebar](https://codebar.io/) -Codebar是一项非盈利计划，通过举办定期的编程研讨会来促进多元化的技术社区的发展.
 - [Code Liberation](http://codeliberation.org/) -代码解放促进了女性，非二元，女性和识别女孩的人们创建数字游戏和创造技术，从而使STEAM领域多样化.
 - [Consensual Software](http://consensualsoftware.com/) -一个开源项目，提倡在软件设计中更好地使用许可.
-- [Computational Biology in Sweden, RSG-Sweden](http://rsg-sweden.iscbsc.org/) -由学生和研究人员组成的团队共同努力，使更多的人对计算生物学产生兴趣，并使人们建立起遍布瑞典的多元化包容性社区.
+- [Computational Biology in Sweden, RSG-Sweden](http://rsg-sweden.iscbsc.org/) -由学生和研究人员组成的团队共同努力，使更多的人对计算生物学产生兴趣，并与人们建立联系，从而在瑞典建立一个多元化且包容的社区.
 - [Dear Tech People](http://www.deartechpeople.com) -种族和性别多样性排名100强高科技公司.
 - [Dev Color](https://www.devcolor.org/) -一个非营利性组织，旨在促进Black软件工程师的职业发展.
+- [Disability Visibility Project](https://disabilityvisibilityproject.com/) -一个致力于创建，共享和扩大残疾媒体和文化的在线社区.
 - [Diversify Tech](https://www.diversifytech.co/) -供技术人员不足的人士使用的资源集合.
 - [Diversity Charter](http://diversitycharter.org/) -约章表明您在乎多样性.
 - [Django Girls](https://djangogirls.org/) -非营利组织和赋予妇女权力和帮助其组织编程研讨会的社区.
@@ -57,11 +58,11 @@
 - [Out In Tech](https://outintech.com) -团结LGBTQ +技术社区的非营利组织.
 - [OpenCIDER](https://selgebali.gitbook.io/opencider/) -社区建设工作，以促进计算包容性并充当数字资产资源.
 - [ParadigmIQ](https://www.paradigmiq.com/) -范式提供一系列的研讨会，培训和评估，以帮助实现多样性，包容性，归属感，保留性等等.
-- [People Of Creativity](http://www.peopleofcreativity.xyz/) -致力于建立共享机会，经验和思想的社区的组织，最终改善了整个创意产业中少数民族的代表权.
+- [People Of Creativity](http://www.peopleofcreativity.xyz/) -致力于创建共享机会，经验和思想的社区的组织，最终改善了整个创意产业中少数民族的代表权.
 - [PHP Women](http://phpwomen.org) -一个包容性的全球网络，在PHP社区内提供支持.
 - [Ping A Programadoras](https://pingprogramadoras.org/) -一群妇女和非双性人，其目的是反映和增强技术领域的能力.
 - [Pink Programming](https://www.pinkprogramming.se) -一个非营利组织，为妇女，跨性别者和非二进制社区组织代码活动.
-- [Project Alloy](https://www.projectalloy.org/) -合金计划通过向职业生涯初期但技术代表不足的人们提供财政补助和其他资源，来一次建立一个更具包容性的技术社区，一次会议.
+- [Project Alloy](https://www.projectalloy.org/) -Alloy计划通过向职业生涯初期但技术代表不足的人提供财政补助和其他资源，来一次建立一个更具包容性的技术社区，一次会议.
 - [Project Include](http://projectinclude.org/) -使用数据和倡导来加速技术行业的多样性和包容性解决方案的非营利组织.
 - [PyLadies](http://www.pyladies.com/) -国际指导小组，致力于帮助更多女性成为Python开源社区的积极参与者和领导者.
 - [Q-Space](http://qhumanity.org/index.php/our-projects/q-space/) -位于中国北京的酷儿和女权主义制造者空间，提供了学习空间和社区为变革而采取的行动.
@@ -86,8 +87,8 @@
 - [Wonder Women Tech](https://wonderwomentech.com/) -举办全年计划以及在STEAM（科学，技术，工程，艺术，数学），创新和企业家精神中强调，教育和庆祝妇女与多样性的国家和国际会议的组织.
 - [Write/Speak/Code](https://www.writespeakcode.com/) -501c3免税非营利组织，每年举办一次会议和聚会活动，旨在帮助您通过写作，演讲和开源完全拥有自己的专业知识.
 - [YesWeTech](http://yeswetech.org/) -女权主义社区致力于为对技术感兴趣的女性建立平等而自豪的文化.
-- [Natives in Tech](https://nativesintech.org) -Techs中的Natives是本机和非本机软件开发人员的联盟，其目标是支持增强本机信念，知识和身份的软件应用程序开发. 
-- [Brazilians in Tech](https://braziliansintech.com/)-科技领域的巴西人是第一个为从事数字技术工作或有兴趣的女性提供科学技术领域最相关机会的巴西平台.
+- [Natives in Tech](https://nativesintech.org) -Tech in Natives是由本机和非本机软件开发人员组成的联盟，其目标是支持增强本机信念，知识和身份的软件应用程序开发. 
+- [Brazilians in Tech](https://braziliansintech.com/)-科技领域的巴西人是第一个巴西平台，为从事数字技术工作或感兴趣的女性汇集了科学技术领域最相关的机会.
 - [Latinas in computing](https://latinasincomputing.org/) -一个由拉丁裔在拉丁计算领域创建的社区，其宗旨是促进拉丁裔在计算相关领域的代表性和成功.
 - [Latinas in tech](https://www.latinasintech.org/)  -一个非营利组织，旨在联系，支持和增强从事技术工作的拉丁裔女性. 我们与顶尖技术公司携手合作，为学习，指导和招聘创造安全的空间.
 
@@ -99,7 +100,7 @@
 - [AlterConf](https://alterconf.com/) -AlterConf是一个旅行会议系列，为处于边缘地位的人们以及在技术和游戏行业中为他们提供支持的人们提供安全的机会.
 - [DDD Europe](https://dddeurope.com)  -欧洲域驱动设计专注于软件设计和建模. 他们为多样性和改善活动做出了惊人的承诺.
 - [Lambda World](http://www.lambda.world/)  -Lambda World是一个功能性编程会议，其思想是授权技术不足的少数群体. 在这种思维方式下，我们将采取一些行动，例如创建用于支付门票和住宿的补助金，举办包容性研讨会，以及通过提供旅游活动使个人更难以离开家人，从而使会议更容易进行，婴儿床和婴儿推车.
-- [PyMCon](https://pymc-devs.github.io/pymcon//) -PyMCon是由PyMC社区组织的，针对贝叶斯社区的异步优先虚拟会议，特别强调从组委会到与会者的多样性和包容性.
+- [PyMCon](https://pymc-devs.github.io/pymcon//) -PyMCon是由PyMC社区组织的，针对贝叶斯社区的异步优先虚拟会议，特别强调从组委会到参与者的多样性和包容性.
 - [REFACTR.TECH](https://www.refactr.tech) -REFACTR.TECH专注于技术，同时为围绕技术的多样性，包容性和交叉性的思想细腻而微妙的对话提供了安全的空间.
 
 ## Ally Resources
@@ -175,7 +176,7 @@
 - [Getting Free Of Toxic Tech Culture](https://blog.valerieaurora.org/2018/01/17/getting-free-of-toxic-tech-culture/) -Valerie Aurora和Susan Wu.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) -由
 Will Evans和Sinduja Rangarajan.
-- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) -玛丽亚·阿里亚斯·德·雷纳·多明格斯（MaríaArias de ReynaDomínguez）
+- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) -玛丽亚·阿里亚斯·德·雷纳·多明格斯（MaríaArias de ReynaDomínguez）.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) -Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) -温迪·李
 - [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) -AndréArko.
