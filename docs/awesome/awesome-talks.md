@@ -122,7 +122,7 @@
 * [TDD, where did it all go wrong](http://vimeo.com/68375232) 由** Ian Cooper ** [1:00:37]
 * [Holistic testing](http://vimeo.com/68390508) 由** Jimmy Bogard ** [1:00:33]
 * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) 由**加里·伯恩哈特** [33:44]
-* [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/) 马丁·福勒（Martin Fowler），肯特·贝克（Kent Beck）和大卫·海涅迈尔·汉森（David Heinemeier Hansson）（DHH）**
+* [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/) **马丁·福勒（Martin Fowler），肯特·贝克（Kent Beck）和大卫·海尼迈尔·汉森（David Heinemeier Hansson）（DHH）**
 * [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) 作者：罗伯特·马丁（Robert C. Martin）[53:43]
 * [TDD in Tatters](https://vimeo.com/97537026) 由** Scott Bellware ** [01:07:53]
 * [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) 由**埃文·多恩** [30:54]
@@ -146,6 +146,7 @@
 * [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) 通过** Alistair Cockburn ** [53:03]
 * [Implementing Programmer Anarchy](https://vimeo.com/79866978) **弗雷德·乔治** [54:55]
 * [Moving Past the Scaling Myth](https://www.infoq.com/presentations/scalability-variant-structuring#) 由** Michael Feathers ** [52:02]
+* [It Is Not About Software Anymore](https://www.youtube.com/watch?v=X8iIRG9LA54) 由** Mary Poppendieck ** [01:06:38]
 
 #### Computer History
 * [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) 由** Stuart Brown ** [46:00]

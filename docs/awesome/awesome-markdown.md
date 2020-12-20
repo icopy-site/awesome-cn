@@ -40,7 +40,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 &gt;默认情况下支持Markdown的CMS或博客.
 
 - [Ghost](https://blog.ghost.org/markdown/) -专业博客作者的发布平台.
-- [Grav](https://getgrav.org/) - Modern Flat-File CMS.
+- [Grav](https://getgrav.org/) -现代平面文件CMS.
 - [Hexo](https://hexo.io/) -快速，简单且功能强大的博客框架
 - [Hugo](https://gohugo.io/) -快速和现代的静态网站引擎.
 - [Jekyll](https://jekyllrb.com/) -将纯文本转换为静态网站和博客.
@@ -90,7 +90,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [markdown2](https://github.com/trentm/python-markdown2) -在Python中快速，完整地实现Markdown.
 - [Mistune](https://github.com/lepture/mistune) -具有渲染器功能的纯Python中最快的Markdown解析器.
 - [PyMdown Extensions](https://facelessuser.github.io/pymdown-extensions/) -Python Markdown扩展集.
-- [Python-Markdown](https://github.com/Python-Markdown/markdown) -John Gruber的Markdown的Python实现.
+- [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
 
 ### Ruby
 
@@ -104,7 +104,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 &gt;将Markdown转换为其他格式，反之亦然.
 
 - [csvtomd](https://github.com/mplewis/csvtomd)  -将您的CSV文件转换为Markdown表.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
-- [Dimer Markdown](https://github.com/dimerapp/markdown) -将Markdown转换为HTML或JSON！[Globe] [globe]！[Mac OS X] [macosx]
+- [Dimer Markdown](https://github.com/dimerapp/markdown) -将Markdown转换为HTML或JSON！[Globe] [globe]！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) -使用PHP将HTML转换为Markdown.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) -Markdown转PDF转换器.
 - [Markdown to PDF](https://www.markdowntopdf.com/)  -简单实用的网站，可将Markdown转换为PDF.  ！[地球] [地球]
@@ -125,7 +125,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [Mark Text](https://github.com/marktext/marktext/)  -下一代Markdown编辑器（由Electron构建）.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [PileMd](https://pilemd.com/)  -降价笔记应用程序.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [StackEdit](https://stackedit.io/)  -浏览器内降价编辑器.  ！[地球] [地球]
-- [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
+- [TOAST UI Editor](https://ui.toast.com/tui-editor/) -可扩展的GFM Markdown所见即所得编辑器！[地球] [地球]
 - [Typora](https://typora.io/)  -最小的Markdown编辑器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Notable](https://notable.md/)  -基于Markdown的笔记应用程序，不会产生麻烦.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Boostnote](https://boostnote.io/)  -针对开发人员的降价编辑器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
@@ -154,12 +154,13 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [HackMD](https://hackmd.io)  -HackMD可让您在所有平台上创建实时协作式Markdown注释.  ！[地球] [地球]
 - [Laverna](https://laverna.cc/)  -Laverna是具有Markdown编辑器和加密支持的JavaScript笔记应用程序.  ：gem：_Markdown加密笔记！_！[Globe] [globe]！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Markable.in](https://markable.in/)  -卓越的Markdown编辑器.  ！[地球] [地球]
-- [markcat](https://github.com/BubuAnabelas/markcat)  -Markdown文件终端查看器.  ：gem：_`cat`，带有Markdown突出显示._！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) -自动设置降价文件的格式并同步外部docs / src代码
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  -具有CSV导入支持的Visual Markdown表构建器.  ！[地球] [地球]
 - [mdformat](https://github.com/executablebooks/mdformat) -符合CommonMark的Markdown格式化程序！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [remark](https://remark.js.org/) -由插件支持的Markdown处理器
 - [Socrates](https://socrates.io/)  -无服务的实时Markdown编辑器和查看器，类似于etherpad.  ！[地球] [地球]
+- [termd](https://github.com/dephraiim/termd)  -带有语法高亮显示的终端Markdown渲染器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 
 
 ### Presentations
@@ -225,4 +226,4 @@ _[Icon pack by Icons8](https://icons8.com)_
 [ios-徽标]：https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png&#39;iOS徽标&#39;
 [macosx]：https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png&#39;Mac OS X&#39;
 [Linux]：https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png&#39;Linux&#39;
-[windows]：https：//maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png&#39;Windows&#39;
+[windows]：https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png&#39;Windows&#39;

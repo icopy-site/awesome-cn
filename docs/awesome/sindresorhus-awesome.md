@@ -89,7 +89,7 @@
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) -虚拟家庭助理.
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) -专为开发人员设计的云计算平台.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) -Google的移动SDK，可通过Dart编写的单个代码库构建本地iOS和Android应用.
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) -开源的家庭自动化，将本地控制和隐私放在首位.
@@ -197,7 +197,7 @@
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) -用于开发Web组件的JavaScript库.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) -应用框架.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) -应用框架.
-- [HTML5](https://github.com/diegocard/awesome-html5#readme) -用于网站和Web应用程序的标记语言.
+- [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) -基于XML的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) -JavaScript库.
@@ -258,6 +258,7 @@
 - [Yew](https://github.com/jetli/awesome-yew#readme) -受Elm和React启发的Rust框架，用于使用WebAssembly创建多线程前端Web应用程序.
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，可以更快，更轻松地进行Web开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) -独立功能可集成到网络应用中.
+- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) -应用框架.
 
 ## Back-End Development
 
@@ -304,7 +305,7 @@
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
 	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) -用机器以自然语言提问和回答的科学.
-	- [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
+	- [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme) -将数据中使用的文本生成到文本，会话代理和叙述生成应用程序.
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) -非密码学家使用密码术的理论基础.
@@ -465,7 +466,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
 - [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) -边玩边学.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
-- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) -主要关于CSS –语言和模块.
+- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) -了解如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) -为您提供一条清晰的途径来提高您的知识和技能.
 
@@ -650,6 +651,7 @@
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) -智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) -在命令行上两次输入记帐.
+- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) -免费的开放式网络标准服务，可让您直接在浏览器中汇款. 
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) -公共领域的作品.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) -数字货币，其中使用加密来调节单位的生成和验证转移.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) -建立一个更具包容性和多元化的技术社区.

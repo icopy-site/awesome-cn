@@ -60,7 +60,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) -Memcached客户端的实现
 
 ## CLI Builders
- * [admiral](https://github.com/jwaldrip/admiral.cr) -用于编写命令行界面的强大DSL
+ * [admiral](https://github.com/jwaldrip/admiral.cr) - A robust DSL for writing command line interfaces
  * [clicr](https://github.com/j8r/clicr) -一个简单的声明性命令行界面生成器
  * [clim](https://github.com/at-grandpa/clim) -苗条的命令行界面构建器
  * [commander](https://github.com/mrrooijen/commander) -命令行界面构建器
@@ -137,7 +137,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-ldap](https://github.com/spider-gazelle/crystal-ldap) -LDAP客户端
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) -用于水晶的MySQL连接器
  * [crystal-pg](https://github.com/will/crystal-pg) -Postgres司机
- * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+ * [crystal-redis](https://github.com/stefanwille/crystal-redis) -功能齐全的Redis客户端
  * [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb) -RethinkDB / RebirthDB的驱动程序
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) -SQLite3绑定
  * [leveldb](https://github.com/crystal-community/leveldb) -LevelDB的水晶绑定
@@ -383,7 +383,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [microtest](https://github.com/Ragmaanir/microtest) -专注于断言的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
- * [Spec](https://crystal-lang.org/api/Spec.html) - spec framework (Crystal stdlib)
+ * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）
  * [spectator](https://gitlab.com/arctic-fox/spectator) -使用现代的Expect语法的功能丰富的规范框架
  * [timecop.cr](https://github.com/crystal-community/timecop.cr)  -用`Time.now`嘲笑的库. 受启发 [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [vcr](https://github.com/spoved/vcr.cr) -Crystal的HTTP捕获和重放实现
@@ -492,7 +492,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) -Atom中的Crystal语言支持
  *埃马克斯
    * [emacs-crystal-mode](https://github.com/dotmilk/emacs-crystal-mode) -对Emacs的Crystal语言支持
- * [scry](https://github.com/crystal-lang-tools/scry) -用于Crystal实现代码分析的代码分析服务器 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+ *盖尼
+   * [geany-crystal](https://github.com/crystal-lang-tools/geany-crystal) -水晶支持 [Geany editor](https://www.geany.org/).
  * Spacemacs
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) -Crystal的Spacemacs贡献层
  *崇高
@@ -500,12 +501,14 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * TextMate
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) -Crystal语法高亮显示，编译，格式化命令，摘要
  * 我来了
-   * [vim-crystal](https://github.com/vim-crystal/vim-crystal) -对Crystal的Vim文件类型支持
+   * [vim-crystal](https://github.com/vim-crystal/vim-crystal) - Vim filetype support for Crystal
    * [vim-slang](https://github.com/elorest/vim-slang) -对Slang模板引擎的Vim文件类型支持
  * Visual Studio代码
-   * [vscode-crystal](https://github.com/g3ortega/vscode-crystal) -VSCode中的Crystal语言支持
-   * [vscode-crystal-ide](https://github.com/crystal-lang-tools/crystal-ide) -搭载的Crystal IDE [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
    * [vscode-crystal-lang](https://github.com/crystal-lang-tools/vscode-crystal-lang) -`cr`和`ecr`文件的格式化程序，linter和语法突出显示
+
+## LSP Language Server Protocol Implementations
+ * [crystalline](https://github.com/elbywan/crystalline) -Crystalline是用Crystal语言编写的语言服务器协议的实现.
+ * [scry](https://github.com/crystal-lang-tools/scry) -用于Crystal实现代码分析的代码分析服务器 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Shell plugins
  * [crun](https://github.com/Val/crun) -Crystal Run：shebang水晶包装纸
