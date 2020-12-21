@@ -197,7 +197,7 @@
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) -用于开发Web组件的JavaScript库.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) -应用框架.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) -应用框架.
-- [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
+- [HTML5](https://github.com/diegocard/awesome-html5#readme) -用于网站和Web应用程序的标记语言.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) -基于XML的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) -JavaScript库.
@@ -466,7 +466,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
 - [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) -边玩边学.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
-- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) -主要关于CSS –语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) -了解如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) -为您提供一条清晰的途径来提高您的知识和技能.
 
@@ -529,6 +529,8 @@
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) -审核代码.
+- [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) -专门结合计算，设计，艺术和用户体验的企业和小组.
+
 
 ## Networking
 
@@ -658,7 +660,7 @@
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) -免费提供开源项目的工具和服务的公司.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) -创建更好，更一致的设计和体验.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) -上座部佛教传统的教Teaching.
-- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) -开源Java应用性能管理工具.
+- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) -成为开源维护者的经验.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) -每个平台的计算器.
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) -用于计算以确定用户是否为人类的一种挑战-响应测试.
@@ -684,7 +686,7 @@
 - [IRC](https://github.com/davisonio/awesome-irc#readme) -开源消息传递协议.
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) -网站的广告和程序媒体.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) -寻找解决气候危机的方法.
-- [Naming](https://github.com/gruhn/awesome-naming#readme) -正确命名计算机科学中的事物.
+- [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) -如何从非结构化生物医学数据和文本中提取信息.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) -努力为后代保留Web.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) -WordPress的命令行界面.

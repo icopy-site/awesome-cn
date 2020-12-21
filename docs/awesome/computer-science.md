@@ -185,7 +185,7 @@ Lisp家庭语言（通过球拍）
 
 课程持续时间| 努力注意事项前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--: | :--:
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)  |  13周| 每周5小时| 带有问题集解决方案的备用版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) . 挣扎的学生可以考虑 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一. 它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) ）|  13周| 每周5小时| 带有问题集解决方案的备用版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) . 挣扎的学生可以考虑 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一. 它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
 
 
 ### CS Tools
@@ -352,7 +352,7 @@ CMOS技术
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
-[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-circuits)  |  10周每周6个小时| [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)
+[Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-circuits) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2)
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-architecture-2)  |  10周每周6个小时| 计算结构1
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-organization-2)  |  10周每周6个小时| 计算结构2
 
@@ -377,7 +377,7 @@ CMOS技术
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
 [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) ([Lectures](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN) ）|  8周每周10个小时| 离散数学，逻辑，算法
-[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | 16 weeks | 8 hours/week | algorithms, C++
+[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x)  |  16周| 每周8小时| 算法，C ++
 [Game Theory](https://www.coursera.org/learn/game-theory-1)  |  8周每周3个小时| 数学思考概率概率
 
 ### Advanced applications
@@ -385,7 +385,7 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或不想将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
@@ -487,7 +487,7 @@ or
 带有“ Section”标签的卡片仅用于组织“完成”列.
 您应将*课程卡*放在其各自的*部门卡*下方.
 
-该委员会的目的是为我们的学生提供一种跟踪他们的进度的方法，并能够通过公开页面向朋友，家人，雇主等展示其进度.
+该委员会的目的是为我们的学生提供一种跟踪其进度的方法，并且还可以通过公开页面向朋友，家人，雇主等展示其进度.
 您可以将董事会的状态更改为*公开*或*私有*.
 
 ## Team

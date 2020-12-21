@@ -40,7 +40,7 @@ R是用于统计计算和图形的编程语言和环境.
 
 ### Math
 
-- [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html)  -描述性统计信息教程，用于汇总数据，以提供对数据中包含的信息的洞察力. 作者：Salvatore S. Mangiafico.
+- [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) - A tutorial of descriptive statistics which are used to summarize data in a way that provides insight into the information contained in the data. Author: Salvatore S. Mangiafico.
 - [Essential Math for Data Science](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd)  -一篇文章，讨论了关键的数学主题，以掌握如何成为一名更好的数据科学家. 作者：Tirthajyoti Sarkar.
 - [Gallery of Statistical Distributions](https://www.itl.nist.gov/div898/handbook/eda/section3/eda366.htm) -作者：NIST / SEMATECH.
 - [Plotting distributions (ggplot2)](http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2) /）-用于绘制数据分布的教程. 作者：Winston Chang.
@@ -92,7 +92,7 @@ R是用于统计计算和图形的编程语言和环境.
 
 - [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)  -R包data.table和dplyr的详细比较. 作者：Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) -作者：Colin Fay.
-- [R - discoRd server](https://discord.gg/88uG5UVyE2) -具有以下基于主题的渠道的专用discoRd服务器：“ R-Main”（用于更一般性的讨论），“ R-Share”（用于炫耀您的数据视觉效果），“ General R Help”（用于询问问题和共享学习资源）以及“ Topical”帮助/讨论`，涉及统计，dbi，tidymodels，闪亮，自然科学，社会科学，贝叶斯，gis和金融等问题. 
+- [R - discoRd server](https://discord.gg/88uG5UVyE2) -具有以下基于主题的渠道的专用discoRd服务器：“ R-Main”（用于更一般性的讨论），“ R-Share”（用于炫耀您的数据视觉效果），“ General R Help”（用于询问问题和共享学习资源）以及“ Topical”帮助/讨论有关统计，dbi，tidymodels，闪亮，自然科学，社会科学，贝叶斯，gis和金融的问题. 
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) -Reddit subreddit专注于实现用于统计和数据科学的R编程语言.
 - [Subreddit - r/programming - The R Project for Statistical Computing](https://www.reddit.com/r/rprogramming/) -Reddit subreddit专注于使用R进行统计计算.
 - [Syntax equivalents: base R vs Tidyverse](https://tavareshugo.github.io/data_carpentry_extras/base-r_tidyverse_equivalents/base-r_tidyverse_equivalents.html)  -基本R和tidyverse的详细比较. 作者：雨果·塔瓦雷斯（Hugo Tavares）.
@@ -109,6 +109,7 @@ R是用于统计计算和图形的编程语言和环境.
 - [Data meets Narrative](http://www.rebeccabarter.com/blog/)  -丽贝卡·易货（Rebecca Barter）喜欢理解复杂，凌乱且有时是无意义的数据集，例如电子健康记录和保险索赔. 她的双重热情是用通俗易懂的英语向其他人解释“看似复杂”的概念，并探索和发现构成复杂数据集的故事.
 - [HighlandR](https://johnmackintosh.net/) -约翰·麦金托什（John Mackintosh）的博客是一个展示演示或研讨会的地方，他在工作中学到的知识，图表改造以及他目前不使用的技术和技巧.
 - [Julia Silge](https://juliasilge.com/blog/)  -朱莉娅·席尔格（Julia Silge）是RStudio的数据科学家和软件工程师，她在研究开源建模工具. 她热衷于制作精美的图表，统计编程语言R，简·奥斯丁，黑咖啡和红酒.
+- [Musings on R](https://martinctc.github.io/blog/)  -Martin Chan发表的有关R和数据科学的博客. 涵盖的主题包括比较dplyr和data.table，Shiny应用程序，ggplot，数据清理，使用RStudio，与其他R用户/数据科学家的访谈以及网络抓取.
 - [rweekly](https://rweekly.org/about) -整个R社区的每周更新，包括Bruce Zhao，Colin Fay，Eric Nantz，Hao Zhu，Jon Calder，Jonathan Carroll，MaëlleSalmon，Ryo Nakagawara和Wolfram Qin.
 - [r-bloggers](https://www.r-bloggers.com/)  -R-Bloggers.com由Tal Galili创建，是博客撰写者的博客内容，这些博客作者撰写了有关R（英文）的文章. 该站点可帮助R博客作者和用户联系并关注R博客圈.
 - [Ryo Nakagawara](https://ryo-n7.github.io/) -Ryo Nakagawara是一名数据科学家，并且一直作为报告分析师以及R和SQL的软件开发人员来改善ACDI和VOCA数据管道，创建R包，可再现的报告，仪表板和Shiny应用程序以交流他的项目的方式全球范围内都在进步.
@@ -120,33 +121,33 @@ R是用于统计计算和图形的编程语言和环境.
 - [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) -本书旨在指导那些完全不熟悉R的人员使用R.作者：Derek L. Sonderegger.
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)  -本书介绍了统计学习方法. 作者：Gareth James，Daniela Witten，Trevor Hastie和Robert Tibshirani.
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) -本书专为希望加深对R语言的理解的R程序员以及其他语言的经验丰富的程序员而想了解R的不同之处和特殊之处. [Exercise Solutions](https://advanced-r-solutions.rbind.io/) 作者：Hadley Wickham.
-- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) -对R的介绍源于一组原始的笔记，这些笔记描述了1990年2月由阿德莱德大学的Bill Venables和David M. Smith撰写的S和S-Plus环境.
+- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) -对R的介绍源于一组原始的笔记，这些笔记描述了1990年2月由Bill Venables和David M. Smith在阿德莱德大学任教的S和S-Plus环境.
 - [Answering Questions with Data](https://crumplab.github.io/statistics/)  -这是一本免费的教科书，供心理学专业的本科生入门. 该教科书的编写考虑了数学恐惧症，并试图减少与算术计算相关的恐惧症. 作者：Matthew JC Crump.
 - [Data Science in Education Using R](https://datascienceineducation.com/)  -本书主要是关于学习将R用作教育中数据科学的工具. 作者：Ryan A. Estrellado，Emily A. Bovee，Jesse Mostipak，Joshua M. Rosenberg和Isabella C.Velásquez.
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)  -高效的R编程是要在给定的时间内增加R可以完成的工作量. 它与计算效率和程序员效率有关. 作者：Colin Gillespie，Robin Lovelace.
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)  -本书涵盖了构建Shiny应用程序的过程，该应用程序随后将被发送到生产环境. 作者：Colin Fay，SébastienRochette，Vincent Guyader，Cervan Girard.
-- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)  -本书介绍了使用R汇总数据的基本探索性技术.这些技术通常在正式建模开始之前应用，并且可以帮助开发更复杂的统计模型. 作者：Roger D. Peng.
+- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)  -本书介绍了使用R汇总数据的基本探索技术.这些技术通常在正式建模开始之前应用，并且可以帮助开发更复杂的统计模型. 作者：Roger D. Peng.
 - [Geocomputation with R](https://geocompr.robinlovelace.net/)  -本书是关于利用计算机的功能来处理地理数据. 它教授一系列的空间技能，包括阅读，书写和处理地理数据； 制作静态和交互式地图； 应用地理计算来解决现实世界中的问题； 并模拟地理现象. 作者：罗宾·洛夫莱斯（Robin Lovelace），雅库布·诺沃萨德（Jakub Nowosad），珍妮丝·穆恩谢（Jannes Muenchow）.
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)  -本书提供了ggplot2的动手入门，其中包含许多示例代码和图形. 它还说明了ggplot2所基于的语法. 作者：Hadley Wickham.
 - [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) -这本电子书旨在帮助您开始使用R中的字符串进行操作.作者：Gaston Sanchez.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)  -Happy Git就如何安装Git以及如何使其在GitHub和RStudio IDE中与GitHub顺利运行提供了可靠的指导，开发了一些涵盖您最常见任务的关键工作流程，并将Git和GitHub集成到您的日常工作中R和R Markdown. 作者：珍妮·布赖恩（Jenny Bryan），STAT 545 TA，吉姆·海斯特（Jim Hester）.
-- [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)  -本书最初是哈佛数据科学丛书中使用的课堂笔记. 它介绍了可以帮助您应对现实数据分析挑战的概念和技能. 它涵盖了概率，统计推断，线性回归和机器学习等概念. 它还可以帮助您开发技能，例如R编程，使用dplyr进行数据整理，使用ggplot2进行数据可视化，使用插入符号进行算法构建，使用UNIX / Linux shell进行文件组织，使用Git和GitHub进行版本控制以及使用knitr和R markdown进行可重现的文档准备. . 作者：Rafael A. Irizarry教授.
+- [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)  -本书最初是哈佛数据科学丛书中使用的课堂笔记. 它介绍了可以帮助您应对现实数据分析挑战的概念和技能. 它涵盖了概率，统计推断，线性回归和机器学习等概念. 它还可以帮助您开发技能，例如R编程，使用dplyr进行数据整理，使用ggplot2进行数据可视化，使用插入符构建算法，使用UNIX / Linux shell进行文件组织，使用Git和GitHub进行版本控制以及使用knitr和R markdown进行可重现的文档准备. . 作者：Rafael A. Irizarry教授.
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html)  -本文档简要介绍了R.它强调了您需要了解的才能在任何上下文中使用该语言. 作者：罗伯特·希曼斯教授.
 - [JavaScript for R](https://book.javascript-for-r.com/)  -这项工作的最终目的是向读者展示邀请JavaScript进入其数据科学工作流程可以带来的许多巨大好处. 作者：约翰·科恩（John Coene）.
-- [Learning Statistics with R](https://learningstatisticswithr.com/) - Learning Statistics with R covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software. Author: Danielle Navarro.
+- [Learning Statistics with R](https://learningstatisticswithr.com/)  -使用R学习统计涵盖了入门统计课的内容，通常是针对本科心理学学生而讲授的，重点是R统计软件的使用. 作者：Danielle Navarro.
 - [Mastering Shiny](https://mastering-shiny.org/)  -这是Mastering Shiny的在线版本，目前正在早期开发中，计划于2020年下半年发布. 这本书是对 [Shiny online documentation](https://shiny.rstudio.com/) 旨在帮助应用程序作者更深入地了解Shiny. 作者：Hadley Wickham.
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/)  -第1至第7章的想法是使您尽快使用R，特别是如果您已经具有编程知识的话. 从第8章开始，您将学习更多高级主题，尤其是使用R进行编程.作者：Bruno Rodrigues.
 - [Practical Data Science with R](https://github.com/louisville-rstats/ebooks/blob/master/Practical%20Data%20Science%20with%20R%20-%20Nina%20Zumel%20John%20Mount.pdf)  -本书的目的是从务实，面向实践的角度介绍数据科学. 本书着重于数据科学的过程，从项目的计划阶段到数据收集和探索，再到建模，最后到部署和结果共享. 作者：Nina Zumel和John Mount.
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf)  -本文的重点是回归和方差分析的实践. 目的是了解可用的方法，更重要的是何时应使用这些方法. 作者：朱利安·法拉威（Julian Faraway）.
-- [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) -这一系列练习回顾了作者演讲期间讨论的一些内容，并介绍了有关在R中处理数据的其他一些基本概念.作者：Charles DiMaggio，PhD.
+- [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) -该系列练习回顾了作者演讲中讨论的一些内容，并介绍了有关在R中处理数据的其他一些基本概念.作者：Charles DiMaggio，PhD.
 - [Quantitative Politics with R](http://qpolr.com/qpolr.pdf) -本书的目的是为R提供易于访问的R简介.
 收集，研究和展示不同类型的政治数据. 作者：Erik Gahner Larsen和ZoltánFazekas.
 - [R Cookbook, 2nd Edition](https://rc2e.com/index.html)  -本书包含如何使用的食谱，每种食谱都可以解决特定的问题. 该食谱包括对该解决方案的快速介绍，然后进行讨论，旨在对解决方案进行解压缩，并为您提供有关其工作原理的一些见解. 作者：James（JD）Long和Paul Teetor.
-- [R for Data Science](https://r4ds.had.co.nz/) -本书将教您如何使用R进行数据科学.您将学习如何将数据导入R，如何将其转化为最有用的结构，对其进行转换，对其进行可视化和建模. [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) 作者：Garrett Grolemund和Hadley Wickham.
+- [R for Data Science](https://r4ds.had.co.nz/) -本书将教您如何使用R进行数据科学.您将学习如何将数据导入R，如何将其转换为最有用的结构，对其进行转换，对其进行可视化和建模. [Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/) 作者：Garrett Grolemund和Hadley Wickham.
 - [R Packages](http://r-pkgs.had.co.nz/)  -在本书中，您将学习如何将代码转换成其他人可以轻松下载和使用的程序包. 作者：Hadley Wickham.
 - [R Programming for Data Science](https://leanpub.com/rprogramming)  -本书使用与业界领先的约翰霍普金斯大学数据科学专业知识相同的材料，为您带来R编程的基础知识. 作者：彭杰.
 - [R Tutorial – Be a Data Science rock star with R](https://data-flair.training/blogs/r-tutorial/)  -R编程语言之旅，探讨其不同和基本概念. 该R DataFlair教程系列旨在帮助初学者入门R，并有丰富的R编程技能和丰富的语言经验.
-- [Statistical Inference via Data Science](https://moderndive.com/)  -旨在以温和的方式介绍数据分析，使用数据来回答问题的方法，方法与数据科学家，统计学家，数据记者和其他研究人员一样. 作者：Chester Ismay和Albert Y. Kim.
+- [Statistical Inference via Data Science](https://moderndive.com/)  -旨在以温和的方式介绍如何使用数据科学家，统计学家，数据记者和其他研究人员的方式来分析数据和使用数据回答问题. 作者：Chester Ismay和Albert Y. Kim.
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)  -本书着重于文本的监督或预测建模，使用文本数据对我们周围的世界进行预测. 作者：Emil Hvitfeldt和Julia Silge.
 - [Text Mining with R](https://www.tidytextmining.com/) -本书介绍了使用tidytext包和R中的其他整洁工具进行文本挖掘的方法.作者：Julia Silge和David Robinson.
 - [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) -本书适合那些希望学习R语言开发软件的人.作者：Norman Matloff.
@@ -186,7 +187,7 @@ R是用于统计计算和图形的编程语言和环境.
 - [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG) -R Programming for Beginners播放列表包括有关数据科学，图表，数据可视化，算法，业务分析，回归，随机森林，SVM，聚类，时间序列，建模和分析技术的视频.
 - [Statistics Globe](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w) -有关如何解决使用R时将遇到的常见问题的简短而详细的教程的集合.主题包括数据格式设置，数据重新排序，字符串和ggplot2.
 - [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUJJpBNfk8_YadPwDTO2SCbx) -R播放列表中的“统计和机器学习”处理主成分分析，随机森林，回归，ROC和AUC以及岭，套索和弹性网.
-- [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)  -TidyX是一个屏幕截图，主持人可以在其中从TidyTuesday项目中选择代码，然后逐行查看其代码，以说明它们的工作方式以及所使用的功能如何工作. 他们还分解了他们创建的可视化，并讨论了如何将类似的方法应用于其他数据集. 目的是帮助更多的人学习R，并参与TidyTuesday社区.
+- [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)  -TidyX是一个屏幕广播，主持人可以在其中从TidyTuesday项目中选择代码，并逐行浏览其代码，以说明它们的工作方式以及所使用的功能如何工作. 他们还分解了他们创建的可视化，并讨论了如何将类似的方法应用于其他数据集. 目的是帮助更多的人学习R，并参与TidyTuesday社区.
 
 ## Contributing
  -我们欢迎您的贡献！ 请访问我们 [contributing.md](https://github.com/iamericfletcher/r-learning-resources/blob/main/contributing.md) 了解如何为该列表做出贡献.

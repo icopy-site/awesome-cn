@@ -4,7 +4,7 @@
 
 精选的优秀公司列表，这些公司免费向开源和公共项目提供其工具和服务.
 
-**注意：尽管有许多公司拥有免费的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源码社区做出公开承诺的组织.**
+**注意：尽管有许多公司拥有出色的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源代码社区做出公开承诺的组织.**
 
 
 
@@ -22,7 +22,6 @@
 - [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
 - [Ebert](https://ebertapp.io/) -连续静态分析.
 - [Hound](https://houndci.com/) -源代码样式审查.
-- [Landscape](https://landscape.io/) -连续的Python代码指标.
 - [lgtm](https://lgtm.com/) -针对开发人员的自动代码审查.
 - [PullApprove](https://about.pullapprove.com/) -通过代码审查批准GitHub拉取请求.
 - [QuantifiedCode](https://www.quantifiedcode.com/) -自动化的Python代码审查和修复.
@@ -129,7 +128,7 @@
 
 ### `requires-approval`
 
-尽管许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但还有一些公司需要更多验证. 这些公司都标有“需要批准”标签，表明需要申请程序才能充分利用其开源利益.
+虽然许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但还有其他公司需要更多验证. 这些公司都标有“需要批准”标签，表明需要申请程序才能充分利用其开源利益.
 
 ### `non-commercial`
 

@@ -65,7 +65,7 @@
 >
 > #### Game Boy Color and Super Game Boy
 > 
-&gt;此列表重点关注原始的* Game Boy *（GB或DMG，1989），* Game Boy Color *（GBC或CGB）和* Super Game Boy *（SGB）是非常相似的系统，其中一些重要区别，例如：
+&gt;此列表主要针对原始的* Game Boy *（GB或DMG，1989），* Game Boy Color *（GBC或CGB）和* Super Game Boy *（SGB）是非常相似的系统，其中一些重要区别，例如：
 >
 &gt;-不同的硬件规格；
 &gt;-特定的硬件和软件功能；
@@ -158,7 +158,7 @@
 - [Wolf](http://www.happydaze.se/wolf/) -带有协处理器的Game Boy墨盒.
 - [Homebrew-Gameboy-Cartridge](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) -使用Atmel AT49F040作为ROM的墨盒PCB的Eagle库，原理图和电路板文件.
 - [Homebrew Gameboy Color Cartridge](https://github.com/Xyl2k/Gameboy-Color-Cartridge) -EEPROM供电墨盒的电路板布局.
-- [Nekocart](https://github.com/zephray/NekoCart-GB) - Open-source flash cartridge using an Xilinx CPLD as MBC5 ([Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+- [Nekocart](https://github.com/zephray/NekoCart-GB) -使用Xilinx CPLD作为MBC5的开源闪存盒（[Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
 - [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/)  -商业和自制的可编程盒带和编程系统. 提供了教程，接线和原理图.
 - [Gameboy-MBC5-MBC1-Hybrid](https://github.com/insidegadgets/Gameboy-MBC5-MBC1-Hybrid) -MBC5 / MBC1混合磁带的CPLD实现.
 
@@ -200,6 +200,7 @@
 - [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
 - [144p Test Suite](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) -Artemio Urbina的240p测试套件移植到Game Boy.
 - [MBC3 RTC test ROM](https://github.com/aaaaaa123456789/rtc3test)
+- [dmg-acid2](https://github.com/mattcurrie/dmg-acid2) 和 [cgb-acid2](https://github.com/mattcurrie/cgb-acid2) -基本的PPU渲染测试.
 
 ## Software Development
 
@@ -253,7 +254,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) -扩展gbdk的C库.
 - [bmp2cgb](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
 - [png2gb](https://github.com/LuckyLights/png2gb) -CLI工具可将图像文件转换为游戏男孩.c数组.
-- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy Development Kit的一小部分资源和工具.
+- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy开发套件的一小部分资源和工具.
 - [GB-convert](https://github.com/exezin/gb-convert) -游戏男孩图块转换和地图编辑器工具（转换为装配体）.
 - [cart-dumper](https://github.com/Palmr/cart-dumper) -游戏男孩墨盒翻斗ROM.
 - [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) -使用逻辑分析仪嗅探游戏男孩的LCD.
@@ -356,7 +357,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线玩（也可以通过移动/触摸）：社区领导试图收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
+- [Homebrew Hub](https://gbhh.avivace.com) - Every unofficial homebrew ever produced for Game Boy playable online (mobile/touch too): a community-lead attempt to collect, archive and save every unofficial game, homebrew, demo, patch, hackrom for Game Boy (Color) produced by the community through years of passionate work.
 - [Infinity](https://github.com/infinity-gbc/infinity)  -由Affinix Software开发的RPG，主要在1999年至2001年之间开发.该游戏从未找到发行商，并最终被取消了. 最近发布了完整的源代码，开发工具和工作流程.
 
 ### ASM
@@ -514,7 +515,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 ### License
 
 根据** GPLv3 **许可.
-See [LICENSE](LICENSE) 想要查询更多的信息.
+See [LICENSE](LICENSE) 欲获得更多信息.
 
 ### Acknowledgements
 

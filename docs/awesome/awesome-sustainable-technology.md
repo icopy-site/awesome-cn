@@ -5,7 +5,7 @@
 __[Open technology projects](https://opensustain.tech/) sustaining stable climate, energy supply and vital natural resources__
 <!--lint ignore double-link-->
 [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[<img src="https://raw.githubusercontent.com/protontypes/awesome-sustainable-technology/master/earth.gif" align="right" width="330"> <br>](https://tabletopwhale.com/)
+[<img src="https://raw.githubusercontent.com/protontypes/awesome-sustainable-technology/master/earth.gif" align="right" width="350"> <br>](https://tabletopwhale.com/)
 _“要使技术真正真正具有可持续性，就必须在全球范围内提供和独立使用.可持续技术，知识和数据的开放分发为生态和经济的全球经济奠定了基础.这确保了获得重要资源（如稳定的气候，从长远来看，为每个人提供土壤或水.” [protontypes](https://protontypes.eu/) _<br><br> 您的贡献对于保持此列表的有效性，提高质量和扩大范围至关重要. 您可以详细了解其起源以及如何参与 [contribution guide](https://github.com/protontypes/awesome-sustainable-technology/blob/master/CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) 和相关 [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/) . 请 [contact us](https://protontypes.eu/contact/) 提供反馈，提示和想法 [OpenSustain.tech](https://opensustain.tech/) 或在GitHub上创建问题.
 
 
@@ -378,7 +378,7 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [openCEM](https://github.com/openCEMorg/openCEM) -澳大利亚国家能源市场的容量扩展模型和优化器.
 - [energy-py](https://github.com/ADGEfficiency/energy-py) -能源系统的强化学习.
 - [glaes](https://github.com/FZJ-IEK3-VSA/glaes) -能源系统的地理空间土地可用性.
-- [onsset](https://github.com/OnSSET/onsset) -已开发出基于GIS的优化工具，以支持电气化规划和决策，以实现当前未服务位置的能源获取目标.
+- [onsset](https://github.com/OnSSET/onsset) - A GIS based optimization tool that has been developed to support electrification planning and decision making for the achievement of energy access goals in currently unserved locations.
 - [whobs-server](https://github.com/PyPSA/whobs-server) -这是用于通过风能，太阳能和储能（使用电池和电解氢气）对零直接排放电力系统进行在线优化的代码，可根据您选择的成本和其他假设提供基本负荷的电力需求.
 - [CityLearn](https://github.com/intelligent-environments-lab/CityLearn) -用于需求响应和负载整形的官方强化学习环境.
 - [rl-testbed-for-energyplus](https://github.com/IBM/rl-testbed-for-energyplus) -使用EnergyPlus进行功耗优化的强化学习测试平台.
@@ -421,7 +421,7 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [OpenEI](https://openei.org) -一个知识共享的在线社区，致力于将人们与世界各地能源资源的最新信息和数据联系起来.
 
 
-## Emissions and Footprint of Resources
+## Emissions and Ecological Footprint
 
 ### Carbon Footprint
 
@@ -443,24 +443,6 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [co2.js](https://github.com/thegreenwebfoundation/co2.js) -一个npm模块，用于访问绿色的Web API，并估算使用数字服务产生的碳排放量.
 - [blockchain-carbon-accounting](https://github.com/opentaps/blockchain-carbon-accounting) -碳会计和认证工作组守则.
 - [nvidia-co2](https://github.com/kylemcdonald/nvidia-co2) -为nvidia-smi增加了gCO2eq排放量.
-
-### Emissions Observation and Modeling
-
-- [ghg emissions indicator](https://github.com/bcgov/ghg-emissions-indicator) -在不列颠哥伦比亚省的环境报告中发布了温室气体排放指标的R脚本.
-- [DuMux](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux) -基于DUNE框架，旨在为复杂的非线性现象提供大量数值模型以及灵活的离散化方法，例如CO2隔离，土壤修复，癌症治疗中的药物输送等.
-- [batch7 satellite ges](https://github.com/dataforgoodfr/batch7_satellite_ges/) -我们的项目目标是根据NASA的OCO-2卫星测得的碳浓度数据，确定地球上的二氧化碳排放量.
-- [CO2 Emission Datasets](https://www.che-project.eu/data-portal) -CHE数据门户为输入的数据集或结果数据集提供了一个接口，可用于通过项目使用和通过项目获得的分布式数据.
-- [Global Carbon Budget](https://github.com/openclimatedata/global-carbon-budget) -碳循环源和汇的年度生活数据出版物，由多个数据源以及多个组织和研究小组生成.
-- [emissions-api](https://github.com/emissions-api/emissions-api) -一种解决方案，可轻松访问与气候相关的气体的排放数据.
-- [eixport](https://github.com/atmoschem/eixport) -排放物是指以复杂的方式影响大气的物质，不仅在物理方面，而且还在人类健康，生态系统，经济等方面影响大气.
-- [EmissV](https://github.com/atmoschem/EmissV) -该软件包提供了一些方法来创建排放（重点是车辆排放），以用于数字空气质量模型，例如WRF-Chem.
-- [vein](https://gitlab.com/ibarraespinosa/vein) -R包，用于估算车辆排放清单.
-- [The Community Emissions Data System](https://github.com/JGCRI/CEDS) -对工业时代（1750年至今）的全球空气排放物产生一致的估计.
-- [national-climate-plans](https://github.com/openclimatedata/national-climate-plans) -《联合国气候变化框架公约》登记册中规定的国家自主决定捐款，仅包含主要文件，如果有多个文件，则使用英文版本.
-- [PyChEmiss](https://github.com/quishqa/PyChEmiss) -PyChEmiss是一个Python脚本，用于从运行WRF-Chem模型所需的局部排放中创建wrfchemi文件.
-- [co2-data](https://github.com/owid/co2-data) -《我们的世界》中有关二氧化碳和温室气体排放的数据.
-- [X-STILT](https://github.com/uataq/X-STILT) -处理垂直整合的色谱柱CO2和潜在其他痕量气体的大气传输模型.
-- [stilt](https://github.com/uataq/stilt) -开源拉格朗日粒子扩散模型，广泛用于模拟污染和温室气体在大气中的传输.
 
 ### Carbon Capture
 
@@ -485,6 +467,15 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [lca_algebraic](https://github.com/oie-mines-paristech/lca_algebraic) -Brightway2上方的一小层，旨在通过快速计算LCA影响来定义参数清单，适用于蒙特卡洛分析.
 - [Federal LCA Commons](https://www.lcacommons.gov/) -访问用于生命周期评估的数据存储库集合的中心点.
 
+## Circular Economy and Waste
+
+- [ONEARMY](https://github.com/ONEARMY/community-platform) -贵重塑料社区的一系列工具，可以在全球范围内合作并处理塑料废物.
+- [Trash-ICRA19](https://conservancy.umn.edu/handle/11299/214366) -边界框标记的水下垃圾数据集.
+- [TACO](https://github.com/pedropro/TACO) -上下文数据集工具包中的垃圾注释.
+- [circularity.ID Open Data Standard](https://github.com/protontypes/awesome-sustainable-technology/blob/master/ https://github.com/circularfashion/cf-circularity-id-standard) -该标准代表了为期六年的广泛研究的结果和结果，这些研究针对时装业的利益相关者实现循环经济的需求.
+- [RecycleNet](https://github.com/sangminwoo/RecycleNet) -仅使用少量带注释的图像的有效垃圾分类模型.
+- [trashnet](https://github.com/garythung/trashnet)  -垃圾图像数据集； 基于Torch的CNN用于垃圾图像分类.
+- [OpenLitterMap](https://github.com/OpenLitterMap/openlittermap-web) -一个开放的，交互式的，可访问的世界垃圾和塑料污染数据库.
 
 ## Observation and Models of Ecosystems
 
@@ -558,6 +549,7 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [UVic-updates-opem](https://git.geomar.de/markus-pahlow/UVic-updates-opem) -将基于最佳性的浮游植物和浮游动物引入具有可变化学计量比的C：N：P（：Chl）的UVic-ESCM（2.9版）中，用于浮游植物，重氮营养菌和碎屑.
 - [Quantitative Plant](https://www.quantitative-plant.org/) -提供用于植物的图像分析软件工具和模型的网站.
 - [phenocamr](https://github.com/bluegreen-labs/phenocamr) - Facilitates the retrieval and post-processing of PhenoCam time series.
+- [Global Reforestation Opportunity Assessment](https://github.com/forc-db/GROA) -量化世界各地自然再生森林中的碳固存.
 
 
 
@@ -574,7 +566,7 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [DeepBedMap](https://github.com/weiji14/deepbedmap) -使用深度神经网络更好地解析南极洲的地貌.
 - [OSSP](https://github.com/wrightni/OSSP) -用于在高分辨率光学图像中检测海冰表面特征的开源算法.
 - [captoolkit](https://github.com/fspaolo/captoolkit) -NASA的低温层测高仪处理工具包.
-- [sea-ice](https://github.com/vannizhang/sea-ice) - Displays the monthly mean sea ice extent for the Arctic and Antarctic along with the historical median extent.
+- [sea-ice](https://github.com/vannizhang/sea-ice) -显示北极和南极的每月平均海冰范围以及历史中值范围.
 - [SIS2](https://github.com/NOAA-GFDL/SIS2) -计算任意数量的冰厚度类别（包括开阔水域）的浓度，厚度，温度，盐水含量和积雪，以及整个包装的运动.
 - [FSM2](https://github.com/RichardEssery/FSM2) -灵活积雪模型是积雪和融雪的多物理场能量平衡模型，它扩展了阶乘积雪模型（Essery，2015年），并提供了附加的物理，驱动和输出选项.
 - [freshwater](https://github.com/mankoff/freshwater) -1958年至2019年的格陵兰液态水径流.
@@ -641,6 +633,23 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [GEOS-Chem](https://github.com/geoschem/geos-chem) -通过全面的，科学的，易于获取的全球大气成分模型，加深对人类和自然对环境影响的了解.
 - [mHM](https://git.ufz.de/mhm/mhm) -中尺度水文模型.
 
+### Emission Observation and Modeling
+
+- [ghg emissions indicator](https://github.com/bcgov/ghg-emissions-indicator) -在不列颠哥伦比亚省的环境报告中发布了温室气体排放指标的R脚本.
+- [DuMux](https://git.iws.uni-stuttgart.de/dumux-repositories/dumux) -基于DUNE框架，旨在为复杂的非线性现象提供大量数值模型以及灵活的离散化方法，例如CO2隔离，土壤修复，癌症治疗中的药物输送等.
+- [batch7 satellite ges](https://github.com/dataforgoodfr/batch7_satellite_ges/) -我们的项目目标是根据NASA的OCO-2卫星测得的碳浓度数据，确定地球上的二氧化碳排放量.
+- [CO2 Emission Datasets](https://www.che-project.eu/data-portal) -CHE数据门户为输入的数据集或结果数据集提供了一个接口，可用于通过项目使用和通过项目获得的分布式数据.
+- [Global Carbon Budget](https://github.com/openclimatedata/global-carbon-budget) -碳循环源和汇的年度生活数据出版物，由多个数据源以及多个组织和研究小组生成.
+- [emissions-api](https://github.com/emissions-api/emissions-api) -一种解决方案，可轻松访问与气候相关的气体的排放数据.
+- [eixport](https://github.com/atmoschem/eixport) -排放物是指以复杂的方式影响大气的物质，不仅在物理方面，而且还在人类健康，生态系统，经济等方面影响大气.
+- [EmissV](https://github.com/atmoschem/EmissV) -该软件包提供了一些方法来创建排放（重点是车辆排放），以用于数字空气质量模型，例如WRF-Chem.
+- [vein](https://gitlab.com/ibarraespinosa/vein) -R包，用于估算车辆排放清单.
+- [The Community Emissions Data System](https://github.com/JGCRI/CEDS) -对工业时代（1750年至今）的全球空气排放物产生一致的估计.
+- [national-climate-plans](https://github.com/openclimatedata/national-climate-plans) -《联合国气候变化框架公约》登记册中规定的国家自主决定捐款，仅包含主要文件，如果有多个文件，则使用英文版本.
+- [PyChEmiss](https://github.com/quishqa/PyChEmiss) -PyChEmiss是一个Python脚本，用于从运行WRF-Chem模型所需的局部排放中创建wrfchemi文件.
+- [co2-data](https://github.com/owid/co2-data) -《我们的世界》中有关二氧化碳和温室气体排放的数据.
+- [X-STILT](https://github.com/uataq/X-STILT) -处理垂直整合的色谱柱CO2和潜在其他痕量气体的大气传输模型.
+- [stilt](https://github.com/uataq/stilt) -开源拉格朗日粒子扩散模型，广泛用于模拟污染和温室气体在大气中的传输.
 
 ## Modeling of Climate and Earth 
 
@@ -882,18 +891,6 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [seedr](https://github.com/efernandezpascual/seedr) -R包，提供适合水力和热力时间萌发模型的功能.
 - [plantFEM](https://github.com/kazulagi/plantFEM)  -基于有限元方法的植物模拟器，其目标是田间作物. 该软件为农民，育种者和农艺师的冠层，植物和器官提供了农业的多物理场模拟.
 - [openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) -Open Food Facts是一个来自世界各地的协作，免费和开放的食品数据库.
-
-
-## Circular Economy and Waste
-
-- [ONEARMY](https://github.com/ONEARMY/community-platform) -贵重塑料社区的一系列工具，可以在全球范围内合作并处理塑料废物.
-- [Trash-ICRA19](https://conservancy.umn.edu/handle/11299/214366) -边界框标记的水下垃圾数据集.
-- [TACO](https://github.com/pedropro/TACO) -上下文数据集工具包中的垃圾注释.
-- [circularity.ID Open Data Standard](https://github.com/protontypes/awesome-sustainable-technology/blob/master/ https://github.com/circularfashion/cf-circularity-id-standard) -该标准代表了为期六年的广泛研究的结果和结果，这些研究针对时装业的利益相关者实现循环经济的需求.
-- [RecycleNet](https://github.com/sangminwoo/RecycleNet) -仅使用少量带注释的图像的有效垃圾分类模型.
-- [trashnet](https://github.com/garythung/trashnet)  -垃圾图像数据集； 基于Torch的CNN用于垃圾图像分类.
-- [OpenLitterMap](https://github.com/OpenLitterMap/openlittermap-web) -一个开放的，交互式的，可访问的世界垃圾和塑料污染数据库.
-
 
 ## Sustainable Investment
 
