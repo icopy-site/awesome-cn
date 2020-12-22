@@ -6,7 +6,7 @@
 
 > <a href="https://libgdx.badlogicgames.com/"><img src="https://libgdx.badlogicgames.com/img/logo.png" alt="libGDX Logo" align="right" style="margin-right: 25px" height=40></a>
 >
-> [libGDX](https://libgdx.badlogicgames.com/) 是一个用Java编写的相对较低级别的，免费的，开源的跨平台游戏开发框架.
+> [libGDX](https://libgdx.badlogicgames.com/) 是一个相对较低级别的，免费的，开源的，用Java编写的跨平台游戏开发框架.
 >
 &gt;此列表是精选资源的精选集合，这些资源，工具，教程和项目均使用 [libGDX](https://libgdx.badlogicgames.com/) 游戏框架，可帮助开发人员制作_awesome_游戏，并符合 [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 >
@@ -78,6 +78,7 @@ _可在libGDX代码中使用以增强框架功能的资源._
 - [Shape Drawer](https://github.com/earlygrey/shapedrawer) -ShapeRenderer的高性能替代方案，可避免批量冲洗.
 - [Spine](http://esotericsoftware.com/) -基于骨骼的动画工具，专门针对游戏的2D动画.
 - [gdx-gltf](https://github.com/mgsx-dev/gdx-gltf) -GLTF 3D文件格式支持（导入/导出），PBR着色器和其他高级渲染.
+- [libgdx-graph](https://github.com/marcinsc/libgdx-graph) -提供用于设计渲染管线和着色器的GUI，以及可轻松将其合并到游戏中的库. [Guide here](https://www.youtube.com/channel/UCzbGLy819RyOkKb_kmV2kCA) 
 
 ### Others
 - [gdx-dbgagent](https://github.com/PokeMMO/gdx-dbgagent) -用于调试常见问题的Java代理，例如未放置对象以及修改了诸如Color.WHITE之类的常量. 
@@ -105,7 +106,7 @@ _针对新手和经验丰富的开发人员的教程.
 
 ### Advanced
 
-- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) -有关为libGDX项目启用代码热交换以提高生产力的视频教程.
+- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) -详细介绍了如何使用Pixmaps创建蒙版.
 - [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) -使用RoboVM在2019年部署到iOS.
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) -像素完美的平滑滚动.
@@ -117,7 +118,7 @@ _收集免费的优质资产，使您的游戏更上一层楼.
 
 - [Kenney Assets](https://kenney.nl/) -从2D和3D艺术作品到音效，为您的游戏提供优质资产.
 - [OpenGameArt.org](https://opengameart.org/) -提供各种开放内容资产的存储库.
-- [Game-Icons.net](http://game-icons.net/) - Repository containing heaps of cool game related graphics.
+- [Game-Icons.net](http://game-icons.net/) -包含大量酷炫游戏相关图形的存储库.
 - [bfxr.net](https://www.bfxr.net/) -只需按几个按钮即可快速创建独特的音效，非常适合制作原型.
 - [freesound.org](https://freesound.org/) -巨大的音频片段，样本，录音，哔哔声协作数据库.
 

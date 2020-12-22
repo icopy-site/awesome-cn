@@ -19,21 +19,11 @@
 - [StackOverflow `#fish`](https://stackoverflow.com/questions/tagged/fish)
 - [The Fish Cookbook](https://github.com/jorgebucaran/cookbook.fish) 
 
-## Plugin Managers
-
-- [Fisher](https://github.com/jorgebucaran/fisher) -通过CLI管理功能，补全，绑定和摘要.
-- [Fundle](https://github.com/danhper/fundle) -基于config.fish的插件管理器，灵感来自Vundle.
-- [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) -灵感来自OMZ的外壳配置框架.
-- [Tacklebox](https://github.com/justinmayer/tacklebox) -用于组织和共享实用程序的配置框架.
-
 ## Prompts
 
 - [Tide](https://github.com/IlanCosman/tide) -Fish的现代提示经理.
-- [Pure](https://github.com/rafaelrinaldi/pure) -从 [zsh original](https://github.com/sindresorhus/pure).
-- [Fly](https://github.com/jorgebucaran/fly.fish) -不引人注意的鱼提示与异步Git状态.
-- [Lucid](https://github.com/mattgreen/lucid.fish) -带有异步Git脏检查的最小，高性能提示.
-- [Bobthefish](https://github.com/oh-my-fish/theme-bobthefish) -电力线式，可识别Git的外壳提示.
-- [Async Prompt](https://github.com/acomagu/fish-async-prompt) -使您的提示异步！
+- [Pure](https://github.com/rafaelrinaldi/pure) -一对一的端口 [_that_](https://github.com/sindresorhus/pure) ZSH提示鱼.
+- [Hydro](https://github.com/jorgebucaran/hydro) -带有Git异步状态的最小，无延迟提示.
 
 ## Plugins
 
@@ -44,13 +34,16 @@
 - [Replay](https://github.com/jorgebucaran/replay.fish)  -运行Bash命令以重播Fish中的更改.  （[Alternative](https://github.com/edc/bass))
 - [Spark](https://github.com/jorgebucaran/spark.fish) -纯鱼火花线发生器.
 - [Gitio](https://github.com/jorgebucaran/gitio.fish) -创建自定义git.io URL.
+- [Fisher](https://github.com/jorgebucaran/fisher) -通过CLI管理功能，补全，绑定和摘要.
+- [Fundle](https://github.com/danhper/fundle) -基于`config.fish`的插件管理器.
 - [GitNow](https://github.com/joseluisq/gitnow) -一系列实用程序功能，可加快您的git工作流程.
 - [Autopair](https://github.com/jorgebucaran/autopair.fish)  -在Fish命令行中自动完成匹配对.  （[Alternative](https://github.com/laughedelic/pisces)).
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) -CLI选项解析器（替代 [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) 内置）.
 - [Fishtape](https://github.com/jorgebucaran/fishtape) -Fish的基于TAP的测试运行程序.
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) -Virtualenv包装器.
+- [Async Prompt](https://github.com/acomagu/fish-async-prompt) -使您的提示异步.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) -自定义您 [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) 在iTerm2中.
-- [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) -通过在使用提示时提示提示来帮助您记住缩写.
+- [Abbreviation Tips](https://github.com/Gazorby/fish-abbreviation-tips) -通过在使用提示时提示提示来记住缩写.
 
 ## Docker
 

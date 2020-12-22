@@ -14,7 +14,7 @@
 
 Material-UI设计的官方项目和资源.
 
-- [Material-UI](https://material-ui.com/)  -React组件，用于更快，更轻松的Web开发. 建立自己的设计系统，或从材料设计开始.
+- [Material-UI](https://material-ui.com/)  -React组件，可以更快，更轻松地进行Web开发. 建立自己的设计系统，或从材料设计开始.
 
 ## Articles
 
@@ -72,6 +72,8 @@ Material-UI设计项目系列.
 - [Dx-react-chart-Material-UI](https://devexpress.github.io/devextreme-reactive/react/chart/) -Material-UI的图表，使用各种系列类型（包括条形，线条，面积，散点图，饼图等）可视化数据.
 - [Material-UI Medium Blog](https://github.com/sabesansathananthan/material-ui-medium-blog) -扩展的Material-UI卡组件，以显示Medium博客.
 - [React Github Repo Cards](https://github.com/sabesansathananthan/react-github-repo-cards) -扩展的Material-UI卡组件，以显示GitHub存储库.
+- [React molecule-components](https://github.com/alexandre-lelain/components-extra) -根据Material-UI反应分子成分.
+- [Material-UI NestedMenuItem](https://github.com/azmenak/material-ui-nested-menu-item) -使用无限嵌套的菜单直接替换MUI的MenuItem，并在悬停时打开.
 
 ## Applications
 

@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是用于构建交互式Web内容的开源平台. 它是用JavaScript，HTML5，CSS3和WebGL编写的.
 >
-&gt;该列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
+&gt;此列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
 >
 &gt;捐款_非常欢迎_但先见 [Contributing](#contributing).
 
@@ -113,6 +113,7 @@
 - [BMW i8](http://car.playcanvas.com) -汽车可视化仪.
 - [DAB Motors](https://dabmotors.com/configurator/) -摩托车配置器.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) -摩托车配置器.
+- [Kia Virtual Experience](https://www.kiavirtualexperience.com/) -探索起亚最新的汽车产品线.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) -越野车配置器.
 
 ## Product Configurators
