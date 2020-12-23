@@ -81,7 +81,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 - [Angular2 Template Loader](https://github.com/TheLarkInn/angular2-template-loader) ：在Angular2组件中内嵌html和样式.  -* Maintainer *：`Sean Larkin` [！[Github] [githubicon]]（https://github.com/TheLarkInn）[！[Twitter] [twittericon]]（https://twitter.com/TheLarkInn）
 - [Handlebars Loader](https://github.com/pcardune/handlebars-loader) ：Webpack的车把模板加载器.  -* Maintainer *：`Paul Carduner` [！[Github] [githubicon]]（https://github.com/pcardune）[！[Twitter] [twittericon]]（https://twitter.com/pcardune）
-- [Vue Loader](https://github.com/vuejs/vue-loader) ：用于Vue.js组件的Webpack加载器.  -* Maintainer *：`Vuejs Team` [！[Github] [githubicon]]（https://github.com/vuejs）[！[Twitter] [twittericon]]（https://twitter.com/vuejs）
+- [Vue Loader](https://github.com/vuejs/vue-loader) ：用于Vue.js组件的Webpack加载程序.  -* Maintainer *：`Vuejs Team` [！[Github] [githubicon]]（https://github.com/vuejs）[！[Twitter] [twittericon]]（https://twitter.com/vuejs）
 - [SVG React Loader](https://github.com/jhamlet/svg-react-loader)  -Webpack SVG到React Component Loader.  -* Maintainer *：`Jerry Hamlet` [！[Github] [githubicon]]（https://github.com/jhamlet）[！[Twitter] [twittericon]]（https://twitter.com/jerryhamlet）
 - [Underscore Loader](https://github.com/emaphp/underscore-template-loader)  -下划线和Lodash模板加载器.  -* Maintainer *：`Emmanuel Antico` [！[Github] [githubicon]]（https://github.com/emaphp）[！[Twitter] [twittericon]]（https://twitter.com/emaphp）
 - [ngTemplate Loader](https://github.com/WearyMonkey/ngtemplate-loader)  -Angular1模板加载器.  -* Maintainer *：`Toby Rahilly` [！[Github] [githubicon]]（https://github.com/WearyMonkey）
@@ -318,7 +318,11 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [React Universally](https://github.com/ctrlplusb/react-universally) -入门套件为您提供了最低的生产就绪通用反应应用程序.
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) -针对开发和生产进行了优化的全功能样板应用程序，包括来自PRPR [Modus Create](https://github.com/ModusCreateOrg).
 - [Razzle Material-UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) -使用带有Express的样式化组件并压缩 [Erik Engi](https://github.com/kireerik).
-- [React Typescript Starter](https://github.com/shortgiraffe4/react-typescript-starter) -一个React + TypeScript + Webpack 4 + React-Router 4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4样板.
+- [React Typescript Starter](https://github.com/shortgiraffe4/react-typescript-starter) -一个React + TypeScript + Webpack 4 + React-Router 4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4样板
+- [Read](https://github.com/logustra/read) -来自 [logustra](https://github.com/logustra)
+
+#### Vue
+- [Vuad](https://github.com/logustra/vuad) -来自的高度可扩展的Vue样板 [logustra](https://github.com/logustra)
 
 ### Other
 
@@ -327,5 +331,5 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Visual config tool for webpack](https://webpack.jakoblind.no) -用于在浏览器中创建Webpack配置的可视化工具
 
 
-[twittericon]：https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
+[twittericon]：https：//rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
 [githubicon]：https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg

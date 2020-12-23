@@ -62,7 +62,7 @@
 
 安全是人性化技术的重要方面. 这也是我们留给专家的广阔领域. 有关良好的顶级入口点，请参阅：
 
-- [awesome security](https://github.com/sbilly/awesome-security) -软件，库，文档，书籍，资源以及有关安全性的一些实用知识.
+- [awesome security](https://github.com/sbilly/awesome-security) -软件，库，文档，书籍，资源以及有关安全性的一些很酷的东西.
 
 ## Privacy
 
@@ -77,7 +77,7 @@
 - [user.js](https://github.com/pyllyukko/user.js) -Firefox的配置，可强化浏览器设置并使其更加安全.
 - [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) -模拟内容交付网络的浏览器扩展，可改善您的在线隐私.
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - Browser extension allows posing as another browser by changing User-Agent header.
-- [Random User-Agent](https://github.com/tarampampam/random-user-agent) -在指定的时间间隔后自动替换User-Agent的浏览器扩展.
+- [Random User-Agent](https://github.com/tarampampam/random-user-agent) - Browser extension that automatically replaces User-Agent after a specified time interval.
 - [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smart-referer/smart-referer/) -浏览器扩展，可在更改域时自动隐藏引用.
 - [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) -浏览器扩展程序，可防止通过Javascript Canvas API进行指纹识别.
 - [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ChrisAntaki/disable-webrtc-firefox) -浏览器扩展程序，禁用WebRTC，以避免从VPN后面泄漏IP地址.
@@ -205,6 +205,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [SocialAmnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) -电子应用程序，以确保您的社交媒体帐户仅显示您最近的历史记录中的帖子.
 - [YouTubeSearchFixer](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/phoennix/youtubesearchfix) -Firefox插件，用于修复搜索，使主页整洁并减少UI的干扰.
 - [Teddit](https://teddit.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teddit/teddit) -替代Reddit前端专注于隐私.
+- [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/spikecodes/libreddit) -用Rust编写的私有Reddit前端.
 
 ## Freedom
 
@@ -240,7 +241,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 
 ## Gamification
 
-- [Security Belt](https://github.com/otto-de/security-belt) - A framework for improving the IT-Security of your teams through gamification.
+- [Security Belt](https://github.com/otto-de/security-belt) -通过游戏化改善团队的IT安全性的框架.
 - [Habitica](https://habitica.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/HabitRPG/habitica)  -游戏化你的生活. 激励自己实现目标.
 
 ## Health

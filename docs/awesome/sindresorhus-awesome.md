@@ -506,6 +506,7 @@
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) -建立自己的电吉他的清单.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) -计算机控制的绘图机和其他视觉艺术机器人.
+- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) -通过用激光照射目标来测量距离的传感器.
 
 ## Business
 

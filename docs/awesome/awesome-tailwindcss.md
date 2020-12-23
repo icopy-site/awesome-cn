@@ -196,7 +196,7 @@
 -  [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
 -  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
--  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的，对开发人员友好的付费模板.
+-  [Tailwind Made](https://tailwindmade.com/) - Paid, developer-friendly templates made with Tailwind CSS.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
 -  [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) -模板，组件和资源.
@@ -213,7 +213,6 @@
 -  [lofi ui](https://lofiui.co/) -低保真Tailwind CSS组件.
 -  [Gust UI](https://www.gustui.com/) -用于React和HTML中Web应用程序的流畅Tailwind CSS组件.
 -  [Windstrap](https://windstrap.netlify.app) -带Bootstrap JS的Tailwind CSS.
--  [Daisy UI](https://github.com/saadeghi/daisyui) -可主题化的UI组件库.
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) -多主题，完全可访问的仪表板模板.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -带有Tailwind CSS的管理面板模板.
 -  [Landing Gradients](https://landing-gradients.netlify.app/) -使用渐变（1.7+）的目标网页模板.
@@ -258,7 +257,7 @@
 - 🚀 [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) -使用Tailwind CSS，ParcelJS捆绑程序和TypeScript的样板.
 - 🚀 [VuePress Tailwind CSS Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) -使用Tailwind CSS的VuePress启动器.
 - 🚀 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
-- 🚀 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
+- 🚀 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
 - 🚀 [Eleventy Starter](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) -使用Tailwind CSS的可用于生产环境且SEO友好的博客启动器.
 - 🚀 [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) -使用Vite，React和Tailwind CSS的样板.
 - 🚀 [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) -使用Vite，Vue，Vue Router和Tailwind CSS的入门模板.

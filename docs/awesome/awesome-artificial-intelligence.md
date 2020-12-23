@@ -45,13 +45,14 @@
 * [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)  -PyTorch将这些超级功能交到您手中，提供舒适的Python体验，可让您快速入门，然后随着您（以及您的深度学习技能）变得更加复杂而与您一起成长. 使用PyTorch进行深度学习将使旅程充满乐趣.
 * [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) -行动中的深度强化学习将教您深度强化学习的基本概念和术语，以及将其实施到自己的项目中所需的实用技能.
 * [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) -Grokking深度强化学习通过示例，插图，练习和清晰的教学引入了这种强大的机器学习方法. 
-* [Fusion in Action](https://www.manning.com/books/fusion-in-action) -“行动中的融合”教您建立功能全面的数据分析管道，包括文档和数据搜索以及分布式数据集群.
+* [Fusion in Action](https://www.manning.com/books/fusion-in-action) -“行动中的融合”教您建立功能齐全的数据分析管道，包括文档和数据搜索以及分布式数据集群.
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) -关于如何使用Python创建实用的NLP应用程序的早期访问书籍. 
-* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) -抢先体验书，介绍最有价值的机器学习技术.
+* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
 * [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai) -介绍如何管理成功的AI项目以及如何将AI应用于现实生活中.
 * [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) -《人工智能入门》是一门免费的在线课程，适合所有有兴趣学习什么是人工智能，人工智能有可能（不可能）以及它如何影响我们生活的人们，而无需复杂的数学或编程.
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) -有关NLP的实用指南，实用技术，大量基于Python的示例和实际案例研究.
 * [Kaggle's micro courses](https://www.kaggle.com/learn/overview) -通过提供从Python到深度学习的实用知识和实践知识的一系列微课程.
+* [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=github&utm_medium=organic&utm_campaign=book_azunre_transfer_3_10_20) -一本书，可帮助您快速掌握相关的ML概念，然后深入学习NLP的迁移学习.
 
 ## Books
 
@@ -121,7 +122,7 @@
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) -深度学习的学习资源清单
 * [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) -免费的专业和深度机器学习和数据科学视频教程和课程的集合
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) -免费的专业和深度人工智能视频教程和课程的集合
-* [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in depth Deep Learning video tutorials and courses
+* [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) -一系列免费的专业和深度学习视频教程和课程
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) -入门级机器学习速成课程
 * [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) -从图结构化数据中学习
 * [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) -集群图结构化数据

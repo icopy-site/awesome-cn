@@ -127,7 +127,7 @@
 * [What is the role of a Site Reliability Engineer?](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
 * [Lynda.com: DevOps Foundations: Site Reliability Engineering](https://www.lynda.com/Software-Development-tutorials/DevOps-Foundations-Site-Reliability-Engineering/669542-2.html)
 * [Incident Management Training: Wheel of Misfortune](https://dastergon.gr/wheel-of-misfortune/)
-* [站点非可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
+* [站点不可靠性工程[视频系列]]（https://blog.newrelic.com/2018/07/05/site-reliability-engineering-sre/）
 * [The Ultimate Guide to Structuring a 90-Day Onboarding Plan](https://medium.com/swlh/the-ultimate-guide-to-structuring-a-90-day-onboarding-plan-c91af947376)
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
@@ -463,6 +463,7 @@
 * [Blameless Blog](https://www.blameless.com/blog/) -有关SRE文化和实践的博客文章.
 * [Resilience Roundup](https://ResilienceRoundup.com) -为软件系统设计的每周抗灾工程和人为因素研究分析
 * [Squadcast Blog](https://www.squadcast.com/blog) -有关SRE最佳做法，可靠性，通话和事件管理的博客文章.
+* [FireHydrant Blog](https://www.firehydrant.io/blog) -有关复杂系统，事件响应和SRE最佳实践的帖子.
 
 ## Newsletters
 * [DevOpsLinks](https://faun.dev) -有关SRE，SysAdmin和DevOps新闻，工具，教程和观点的每周新闻.

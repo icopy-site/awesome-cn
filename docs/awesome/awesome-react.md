@@ -179,7 +179,7 @@
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
-- [react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps
+- [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
 - [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
 - [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
@@ -198,7 +198,10 @@
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) -一个可以轻松将粒子动画添加到您的React应用程序的组件
 - [react-spring](https://www.react-spring.io/) -用于React应用程序的基于春季物理学的动画库.
 - [framer-motion](https://www.framer.com/motion/) -一个React库，可为生产就绪的动画提供动力.
+- [react-accessible-accordion](https://github.com/springload/react-accessible-accordion) -用于创建“手风琴”的React组件，该手风琴符合WAI ARIA规范的可访问性.
 - [react-truncate-markup](https://github.com/parsable/react-truncate-markup) -用于截断JSX标记的React组件.
+- [react-cookie](https://github.com/reactivestack/cookies) -用于React的通用cookie.
+- [react-slick](https://github.com/akiran/react-slick) -使用React构建的Carousel组件.
 
 ##### React for Command Line
 
@@ -767,7 +770,7 @@
 - [mattermost](https://github.com/mattermost/mattermost-webapp) -开源Slack替代
 - [overreacted](https://github.com/gaearon/overreacted.io) -Dan Abramov的个人博客
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) -为浏览器重新实现了Winamp 2
-- [dnote](https://github.com/dnote/dnote) -具有多设备同步和Web界面的命令行笔记本
+- [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
 
 ---
 

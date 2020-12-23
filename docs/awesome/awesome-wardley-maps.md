@@ -164,6 +164,7 @@
 ## Workshops
 
 - [Wardley Maps Battle Camp](https://github.com/simalexan/battlecamp) -工作坊规则，卡片和材料.
+- [Workshop Building Block - New Year's Eve Party](https://github.com/LeadingEdgeForum/faciliator-pack/blob/main/WorkshopBuildingBlock-NewYearsEveParty.md) -帮助研讨会参与者在与业务无关的环境中进行映射时获得信心.
 
 ## Meetups
 
