@@ -1485,6 +1485,7 @@ ztheme是ZSH的小型快速主题引擎.
 * [rho](https://github.com/andrejreznik/rho-zsh-theme) -极简主义主题.
 * [river](https://github.com/revir/river-zsh-config) -带有`git`信息的深色主题.
 * [robbyolivier](https://github.com/YuyeQingshan/robbyolivier) -基于 [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) 主题与项目 [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt).
+* [robbyrussell-fullpath](https://github.com/toytag/robbyrussell-fullpath.zsh-theme) - 原本 [robbyrussell](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme) 在提示中使用全路径.
 * [robbyrussell-WIP](https://github.com/ecbrodie/robbyrussell-WIP-theme) -用输出装饰`robbyrussell`主题以指示** WIP **提交.
 * [rougarou](https://github.com/RougarouTheme/rougarou-zsh) -黑暗的主题.
 * [roundy](https://github.com/nullxception/roundy)  -快速，可爱和圆润的主题. 包括git装饰. 需要书呆子字体和具有unicode功能的终端应用程序.

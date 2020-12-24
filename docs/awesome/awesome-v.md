@@ -46,6 +46,7 @@
 - [Vlang the Game](https://github.com/alula/vlang-the-game) -一个用vSDL2用V编写的小平台游戏，纯粹是为了模因和乐趣而制作.
 - [Boundstone](https://github.com/organization/boundstone) -高性能/快速编译/轻量级Minecraft：Bedrock Edition Server.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) -经典的桨游戏通过V的力量重生.
+- [flappylearning-v](https://github.com/uxnow/flappylearning-v) -v中的一个简单易用的学习演示.
 
 ### Command-line
 
@@ -94,6 +95,7 @@
 
 ### Web
 
+- [validate](https://github.com/endeveit/v-validate) -一个简单的库来验证V中的字符串.
 - [valval](https://github.com/taojy123/valval) -用V编写的Web框架，由vweb改进.
 - [vex](https://github.com/nedpals/vex) -受Express和Sinatra启发，用V编写的Web框架.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  -V的内置Web框架. 由Vorum使用.
@@ -166,6 +168,11 @@
 - [language-v](https://github.com/Cutlery-Drawer/language-v) -对Atom的V语言支持（vscode-vlang端口）.
 - [vlang-mode.el](https://github.com/Naheel-Azawy/vlang-mode.el) -V编程语言的Emacs主模式.
 - [v-mode](https://github.com/damon-kwok/v-mode) -V编程语言的Emacs主模式.
+- [vlang-sublime](https://github.com/oversoul/vlang-sublime) -Sublime text 3支持Vlang编程语言.
+
+### Editor plugins
+
+- [vim-vtools](https://github.com/zakuro9715/vim-vtools) -用于Vim的V工具，包括自动格式化.
 
 ### GitHub actions
 

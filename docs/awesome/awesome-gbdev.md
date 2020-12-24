@@ -27,6 +27,10 @@
     - [Experimental/Proof of Concepts](#experimentalproof-of-concepts)
   - [Emulators](#emulators)
   - [Tools](#tools)
+    - [Engines](#engines)
+    - [Development tools](#development-tools)
+    - [Graphics utilities](#graphics-utilities)
+    - [Hardware and ROM utilities](#hardware-and-rom-utilities)
     - [Music drivers and trackers](#music-drivers-and-trackers)
 - [Programming](#programming)
   - [ASM](#asm)
@@ -72,7 +76,7 @@
 &gt;-特定寄存器；
 &gt;-特定的错误，怪癖和可利用的行为.
 >
-&gt;如果您打算为SGB或GBC开发软件，或者想知道其在其他系统上的运行方式，则可以利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
+>If you aim to develop your software for SGB or GBC, or you want to know how it runs on the other systems, you may want to take advantage and adapt to these differences, check the [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
 
 
 ## Community
@@ -186,7 +190,7 @@
 - [binjgb rewind](https://binji.github.io/2017/12/31/binjgb-rewind.html) -实施*倒带功能.
 - [binjgb on the web](https://binji.github.io/2017/02/26/binjgb-on-the-web-part-1.html) -将binjgb仿真器移植到Web Assembly. [(Part 2)](https://binji.github.io/2017/02/27/binjgb-on-the-web-part-2.html)
 - [binjgb debugging hangs](https://binji.github.io/2017/05/03/debugging-hangs.html) -对仿真怪癖的调查.
-- [Decoding Gameboy Z80 opcodes](https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html) -如何对Game Boy指令进行算法解码（与编写一条巨大的switch-case语句相对）.
+- [Decoding Gameboy Z80 opcodes](https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html) - How to algorithmically decode Game Boy instructions (as opposed to writing one huge switch-case statement).
 - [Porting a GO Game Boy emulator to WebAssembly](https://djhworld.github.io/post/2018/09/21/i-ported-my-gameboy-color-emulator-to-webassembly/)
 - [About swotGB](https://mitxela.com/projects/swotgb/about) -有关使用JavaScript开发Game Boy模拟器的说明.
 - [List of open source emulators](EMULATORS.md)
@@ -214,11 +218,11 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 ### Compilers
 
-- [GBDK](http://gbdk.sourceforge.net/)  -一套可以在** C **中进行开发的工具. 包括一组最常见要求的库，并生成就绪的ROM文件. [Documentation](http://gbdk.sourceforge.net/doc/gbdk-doc.pdf).
++ [GBDK](http://gbdk.sourceforge.net/)  -一套可以在** C **中进行开发的工具. 包括一组最常见要求的库，并生成就绪的ROM文件. 最近更新于2001年. [Documentation](http://gbdk.sourceforge.net/doc/gbdk-doc.pdf).
+  - [GBDK-2020](https://github.com/Zal0/gbdk-2020/)  -带有更新的SDCC工具链（支持ROM库），错误修复，文档和其他改进的现代化GBDK. 支持Windows，Linux和MacOS.
   - [gbdk-osx](https://github.com/x43x61x69/gbdk-osx) -为macOS上的最新编译器修补了GBDK 2.96a.
   - [gbdk-n](https://github.com/rotmoset/gbdk-n)  -旨在更新gbdk库以使其与新版本的SDCC兼容，并为构建rom提供帮助. 不支持ROM库，因此将ROM大小限制为32K.
-  - [gbdk-2020](https://github.com/Zal0/gbdk-2020) -GBDK，C编译器，汇编器，链接器和库集的更新版本.
-
+  
 #### Experimental/Proof of Concepts
 
 - [Wiz](https://github.com/wiz-lang/wiz) -一种高级汇编语言，用于在复古控制台平台（Game Boy，NES，Atari 2600等）上编写自制程序.
@@ -240,37 +244,51 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Gambatte](https://github.com/sinamas/gambatte) -跨平台和准确的模拟器.
 - [MetroBoy](https://github.com/aappleby/MetroBoy) -整个Game Boy的可播放电路级仿真.
 - [gbe-plus](https://github.com/shonumi/gbe-plus) -最近重写的仿真器，它在保留晦涩的附件（例如IR链接，移动网络GB，条形码男孩，GB打印机，本地和在线GB串行链接电缆等）上付出了巨大的努力.
+- [Emulicious](https://emulicious.net/) -提供准确的仿真，并包括强大的工具，例如通过ASM和C对ASM和C进行探查器和源代码级调试 [VS Code debug adapter](https://marketplace.visualstudio.com/items?itemName=emulicious.emulicious-debugger).
 
 [Complete list of open source emulators](EMULATORS.md)
 
 ### Tools
 
+#### Engines
+
 - [ZGB](https://github.com/Zal0/ZGB) -一个用于为原始Game Boy创建游戏的小引擎（扩展了gbdk，更多信息 [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
-- [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) -HTML5 / JS Web应用程序，它将位图图像转换为适合在基于图块的图形应用程序（特别是GB）中使用的十六进制数据.
-- [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) -Game Boy Tile Designer和Game Boy Map Builder工具的一些来源和主页.
-- [GBTiles](https://github.com/bashaus/gbtiles) -将使用Harry Mulder的Tile Designer（GBTD）创建的.GBR文件和使用Harry Mulder的Map Builder（GBMB）创建的.GBM文件转换为与Game Boy和GBDK一起使用的不同格式.
-- [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) -用于检查和修改ROM​​标头数据（包括徽标）的在线工具.
-- [gbcamextract](https://github.com/jkbenaim/gbcamextract) -从“游戏男孩相机”保存中提取照片.
-- [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) -扩展gbdk的C库.
-- [bmp2cgb](https://github.com/gitendo/bmp2cgb) - Graphics converter for Game Boy Color development providing real time palette adjustments.
-- [png2gb](https://github.com/LuckyLights/png2gb) -CLI工具可将图像文件转换为游戏男孩.c数组.
-- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy开发套件的一小部分资源和工具.
-- [GB-convert](https://github.com/exezin/gb-convert) -游戏男孩图块转换和地图编辑器工具（转换为装配体）.
-- [cart-dumper](https://github.com/Palmr/cart-dumper) -游戏男孩墨盒翻斗ROM.
-- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) -使用逻辑分析仪嗅探游戏男孩的LCD.
-- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) -用于Game Boy编程的IDE，使用一种类似于C的语言称为GBL，具有许多其他功能，如图块和地图提取，WLA-DX组装等.
-- [brewtool](http://make.vg/brewtool/) -原始编辑器/转换器工具的集合，用于使资产与自制ROM开发一起使用.
-- [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) -用Node.js编写的用于文本操作和Game Boy ROM的翻译工具集.
-- [mgbdis](https://github.com/mattcurrie/mgbdis) -具有RGBDS兼容输出的Game Boy ROM反汇编程序.
 - [Retr0 GB](https://bitbucket.org/HellSuffering/retr0-gb/) -用于创建游戏的引擎（扩展了GBDK）.
+
+#### Development tools
+
+- [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) -扩展gbdk的C库.
+- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy Development Kit的一小部分资源和工具.
+- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) -用于Game Boy编程的IDE，使用一种类似于C的语言称为GBL，具有许多其他功能，如图块和地图提取，WLA-DX组装等.
+- [mgbdis](https://github.com/mattcurrie/mgbdis) -具有RGBDS兼容输出的Game Boy ROM反汇编程序.
+- [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) -用于检查和修改ROM​​标头数据（包括徽标）的在线工具.
+- [romusage](https://github.com/bbbbbr/romusage)  -命令行工具，用于从.map，.noi或ihx文件估计Game Boy ROM的使用（可用空间）. 与GBDK-2020和RGBDS一起使用.
 - [awake](https://github.com/devdri/awake) -Game Boy反编译器.
-- [swapdump](https://github.com/sanqui/swapdump) -Game Boy Flashcarts的诊断实用程序.
-- [Gameboy-LinkUp](https://github.com/JustinLloyd/Gameboy-LinkUp) -Game Boy LinkUp串行电缆网络项目.
+- [Game Boy Text Tools](https://github.com/raphaklaus/gameboy-text-tools) -用Node.js编写的用于文本操作和Game Boy ROM的翻译工具集.
+
+#### Graphics utilities
+
+- [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) -HTML5 / JS Web应用程序，它将位图图像转换为适合在基于图块的图形应用程序（特别是GB）中使用的十六进制数据.
+- [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) -Game Boy Tile Designer（GBTD）和Game Boy Map Builder（GBMB）工具的一些来源和主页.
+- [GBTiles](https://github.com/bashaus/gbtiles) -将使用Harry Mulder的Tile Designer（GBTD）创建的.GBR文件和使用Harry Mulder的Map Builder（GBMB）创建的.GBM文件转换为与Game Boy和GBDK一起使用的不同格式.
+- [bmp2cgb](https://github.com/gitendo/bmp2cgb) -用于Game Boy Color开发的图形转换器，提供实时调色板调整.
+- [png2gb](https://github.com/LuckyLights/png2gb) -CLI工具可将图像文件转换为游戏男孩.c数组.
+- [GB-convert](https://github.com/exezin/gb-convert) -游戏男孩图块转换和地图编辑器工具（转换为装配体）.
+- [brewtool](http://make.vg/brewtool/) -原始编辑器/转换器工具的集合，用于使资产与自制ROM开发一起使用.
 - [vtGBte](https://github.com/paul-arutyunov/vtGBte) -简约的ncurses磁贴编辑器.
 - [tpp1](https://github.com/TwitchPlaysPokemon/tpp1) -自定义GB / GBC内存/硬件映射器的定义和规范，作为MBC的功能超集.
 - [libstdgb](https://github.com/delwink/libstdgb) -有用的Game Boy操作（SDCC）的AC库.
-- [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) -GIMP图像编辑器插件，用于导入和导出GBMB和GBTD tilemap和tileset（作为位图图像或.GBM / .GBR文件）.
+- [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) -GIMP图像编辑器插件，用于导入和导出GBMB和GBTD磁贴图和磁贴集（作为位图图像或.GBM / .GBR文件）.
 - [Tilemap Helper](https://github.com/bbbbbr/gimp-tilemap-helper) -GIMP图像编辑器插件，用于优化图块地图和图块集.
+- [Tilemap Studio](https://github.com/Rangi42/tilemap-studio)  -适用于Game Boy，Color，Advance和SNES项目的图块编辑器. 用C ++和FLTK编写. 
+
+#### Hardware and ROM utilities
+
+- [cart-dumper](https://github.com/Palmr/cart-dumper) -游戏男孩墨盒翻斗ROM.
+- [gbcamextract](https://github.com/jkbenaim/gbcamextract) -从“游戏男孩相机”保存中提取照片.
+- [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) -使用逻辑分析仪嗅探游戏男孩的LCD.
+- [swapdump](https://github.com/sanqui/swapdump) -Game Boy Flashcarts的诊断实用程序.
+- [Gameboy-LinkUp](https://github.com/JustinLloyd/Gameboy-LinkUp) -Game Boy LinkUp串行电缆网络项目.
 
 #### Music drivers and trackers
 
@@ -331,7 +349,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 - [Atom language package for RGBASM](https://atom.io/packages/language-rgbasm) -RGBDS汇编的Atom语法突出显示.
 - [gbz80-highlight](https://github.com/ISSOtm/gbz80-highlight) -RGBDS汇编的Notepad +-和gedit语法突出显示文件.
-- [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) -RGBDS汇编的Vim语法突出显示.
+- [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
 - [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) -另一个用于RGBDS汇编的Vim语法突出显示文件.
 - [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) -用于RGBDS的Sublime Text 3软件包，包括语法突出显示和一些完成摘要.
 - [Z80 Assembly support for Visual Studio Code](https://github.com/Imanolea/z80asm-vscode)
@@ -345,7 +363,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [How to Write a Simple Side Scrolling Game](http://pastebin.com/F3tHLj68) -旧的（但仍然有用）教程.
 - [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
 - [GBDK Tutorial](https://refreshgames.co.uk/2016/04/18/gameboy-tutorial-rom/) -入门GBDK的游戏演示相当少.
-- [GBDK Sprite](http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial) - Presents a workflow for getting multiple sprites to display and animate.
+- [GBDK Sprite](http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial) -提出了用于显示和设置多个精灵的工作流.
 - [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) -通过向精灵，背景和窗口图层添加颜色，扩展了您对Game Boy基本拼写的知识.
 - [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) -详细说明了将手柄与GBDK配合使用的方法.
 - [Game Boy home of Flavor](http://www.personal.triticom.com/~erm/GameBoy/) -一些完整的游戏和资源.
@@ -357,7 +375,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) - Every unofficial homebrew ever produced for Game Boy playable online (mobile/touch too): a community-lead attempt to collect, archive and save every unofficial game, homebrew, demo, patch, hackrom for Game Boy (Color) produced by the community through years of passionate work.
+- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线播放（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
 - [Infinity](https://github.com/infinity-gbc/infinity)  -由Affinix Software开发的RPG，主要在1999年至2001年之间开发.该游戏从未找到发行商，并最终被取消了. 最近发布了完整的源代码，开发工具和工作流程.
 
 ### ASM
@@ -379,7 +397,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [exeman](https://github.com/exezin/exeman/)
 - [Aevilia](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides](https://github.com/Kartones/gameboy) -一个简单的类似Game Boy Powerpoint的幻灯片查看器.
-- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全通过GBC支持对PokémonRed进行了重新制作.
+- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -神奇宝贝Red经过完全GBC支持后进行了翻新.
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) -Fourway Breakout克隆.
 - [Galaxia](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)
@@ -416,6 +434,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Dino's Offline Adventure](https://github.com/gingemonster/DinosOfflineAdventure) -Google Chrome离线游戏的克隆版本.
 - [dino-gb](https://github.com/rnegron/dino-gb) -Chrome游戏的另一个副本.
 - [Evoland.gb](https://github.com/flozz/evoland.gb) -Evoland一级港口.
+- [Petris](https://github.com/bbbbbr/Petris) -益智游戏，身材匀称的宠物，适合Game Boy Color（[itch.io](https://bbbbbr.itch.io/petris)).
 
 ### Demos
 

@@ -22,7 +22,7 @@
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _当今的数据科学家类似于1980年代和1990年代的华尔街“数量”. 那时，具有物理学和数学背景的人们涌向投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 然后，各式各样的大学开发了金融工程硕士学位课程，从而培养出了第二代人才，主流企业更容易获得这些人才. 在1990年代后期，搜索工程师重复了这种模式，搜索工程师的稀有技能很快就被计算机科学程序所教授.
 | [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，负责收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学，统计学和数学. 他们分析，处理和建模数据，然后解释结果以为公司和其他组织创建可行的计划.
-| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的计算机科学相结合的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家和其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
+| [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的一门学科-计算机科学结合起来的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家和其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
 
 
 ## Learn Data Science
@@ -76,7 +76,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 ### Data Mining Algorithms
 
--C4.5
+- C4.5
 -k-均值
 -支持向量机
 -Apriori
@@ -179,7 +179,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Scikit-Learn](http://scikit-learn.org/stable/)  |  Python中的机器学习
 | [NumPy](http://www.numpy.org/)  |  NumPy是使用Python进行科学计算的基础. 它支持大型的多维数组和矩阵，并包括各种在这些数组上运行的高级数学函数.  |
 | [SciPy](https://www.scipy.org/)  |  SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
-| [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) | Coursera Course |
+| [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools)  |  Coursera课程|
 | [Data Science Toolbox](http://datasciencetoolbox.org/)  | 博客|
 | [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/)  | 采集数字，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.  |
 | [Datadog](https://www.datadoghq.com/)  | 大规模数据科学的解决方案，代码和开发人员.  |
@@ -221,7 +221,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)  | 一个开源Python软件包，将Pandas库的功能扩展到连接DataFrame和AWS数据相关服务（Amazon Redshift，AWS Glue，Amazon Athena，Amazon EMR等）的AWS.  |
 | [CML](https://github.com/iterative/cml)  | 一个开放源代码工具包，用于在数据科学项目中使用持续集成. 使用GitHub Actions＆GitLab CI在类似于生产的环境中自动训练和测试模型，并自动生成关于拉/合并请求的可视报告.  |
 | [Dask](https://dask.org/)  | 一个开源Python库，可以轻松地将您的分析代码过渡到分布式计算系统（大数据）|
-| [Statsmodels](https://www.statsmodels.org/stable/index.html) | A Python-based inferential statistics, hypothesis testing and regression framework |
+| [Statsmodels](https://www.statsmodels.org/stable/index.html)  | 基于Python的推论统计，假设检验和回归框架|
 | [Gensim](https://radimrehurek.com/gensim/)  | 一个用于自然语言文本主题建模的开源库|
 | [spaCy](https://spacy.io/)  | 高性能自然语言处理工具箱|
 | [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid studio是基于Web的电子表格应用程序，与Python编程语言完全集成.  |
@@ -375,10 +375,8 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [What Does a Data Scientist Do?](http://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
 - [Building Data Start-Ups: Fast, Big, and Focused](http://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 - [How to win data science competitions with Deep Learning](http://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
+- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
 
-## Newsletters
-
-- [AI Digest](https://aidigest.net/) . 每周新闻通讯，以了解人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
 
 ## Podcasts
 
@@ -393,6 +391,9 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Superdatascience](https://www.superdatascience.com/podcast/)
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
+- [DataTalks.Club](https://anchor.fm/datatalksclub)
+
 
 ## Books
 
@@ -404,7 +405,6 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
-- [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
 - [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) -免费的电子书采样器
@@ -429,6 +429,10 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) -免费下载
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) -斯蒂芬·博伊德的凸优化书-免费下载
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) -抢先体验
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
+- [Machine Learning Bookcamp](https://mlbookcamp.com/) -抢先体验
+
 
 ## Socialize
 
@@ -470,7 +474,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [KD Nuggets](http://www.kdnuggets.com/) 数据挖掘，分析，大数据，数据，科学而不是博客门户
 - [Meta Brown](http://www.metabrown.com/blog/) -个人博客
 - [Data Scientist](https://www.datascientists.net/) 正在建立数据科学家文化.
-- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业世界，政府机构以及我们生活的影响.
+- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业世界，政府机构和我们生活的影响.
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) -大告示
 - [New Data Scientist](http://newdatascientist.blogspot.com/) 社会科学家如何跳入大数据世界
 - [Harvard Data Science](http://harvarddatascience.com/) -关于统计计算和可视化的思考
@@ -518,59 +522,6 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) -进化算法博客
 - [Jingles](https://jinglescode.github.io/) -审查并从学术论文中提取关键概念
 
-## Newsletters
-
-- [AI Digest](https://aidigest.net/) . 每周新闻通讯，以了解人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
-
-## Podcasts
-
-- [Adversarial Learning](http://adversariallearning.com/)
-- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-- [Data Crunch](http://vaultanalytics.com/datacrunch/)
-- [Data Skeptic](https://dataskeptic.com/)
-- [Data Stories](http://datastori.es/)
-- [Learning Machines 101](http://www.learningmachines101.com/)
-- [Linear Digressions](http://lineardigressions.com/)
-- [Not So Standard Deviations](https://soundcloud.com/nssd-podcast)
-- [Partially Derivative](http://partiallyderivative.com/)
-- [Superdatascience](https://www.superdatascience.com/podcast/)
-- [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-- [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-
-## Books
-
-- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
-- [Become a Leader in Data Science](https://www.manning.com/books/become-a-leader-in-data-science) -抢先体验
-- [Fighting Churn With Data](https://www.manning.com/books/fighting-churn-with-data)
-- [Data Science at Scale with Python and Dask](https://www.manning.com/books/data-science-at-scale-with-python-and-dask)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](http://www.thedatasciencehandbook.com/)
-- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
-- [R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition)
-- [R for Data Science](https://r4ds.had.co.nz/)
-- [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
-- [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
-- [Exploring Data Science](https://www.manning.com/books/exploring-data-science) -免费的电子书采样器
-- [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) -免费的电子书采样器
-- [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
-- [Math for Programmers](https://www.manning.com/books/math-for-programmers) 抢先体验
-- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) 抢先体验
-- [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp) 抢先体验
-- [Data Science Thinking: The Next Scientific, Technological and Economic Revolution](https://www.springer.com/gp/book/9783319950914)
-- [Applied Data Science: Lessons Learned for the Data-Driven Business](https://www.springer.com/gp/book/9783030118204)
-- [The Data Science Handbook](https://www.amazon.com/Data-Science-Handbook-Field-Cady/dp/1119092949)
-- [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) -抢先体验
-- [Mining Massive Datasets](http://www.mmds.org/) -在线课程包含的免费电子书
-- [Pandas in Action](https://www.manning.com/books/pandas-in-action) -抢先体验
-- [Genetic Algorithms and Genetic Programming](https://www.taylorfrancis.com/books/9780429141973)
-- [Genetic algorithms in search, optimization, and machine learning](http://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf) -免费下载
-- [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) -免费下载
-- [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) -免费下载
-- [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) -免费下载 
-- [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) -免费下载 
-- [Global Optimization Algorithms: Theory and Application](http://www.it-weise.de/projects/book.pdf) -免费下载 
-- [Genetic Algorithms and Evolutionary Computation](http://www.talkorigins.org/faqs/genalg/genalg.html) -免费下载
-- [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) -抢先体验
 
 
 ## Facebook Accounts
@@ -598,6 +549,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 - [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
+
 ## Twitter Accounts
 
  | 推特| 描述
@@ -623,7 +575,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Emilio Ferrara](https://twitter.com/jabawack) | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   |  @ _GrubHub_关于数据和熊猫的工作|
-| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets总裁，分析/大数据/数据挖掘/数据科学专家，KDD和SIGKDD共同创始人，曾是两家初创公司的首席科学家，兼职哲学家.  |
+| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets总裁，分析/大数据/数据挖掘/数据科学专家，KDD和SIGKDD的共同创始人，曾是两家初创公司的首席科学家，兼职哲学家.  |
 | [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio的首席科学家，奥克兰大学，斯坦福大学和莱斯大学的统计学兼职教授.  |
 | [Hakan Kardas](https://twitter.com/hakan_kardes)  | 数据科学家|
 | [Hilary Mason](https://twitter.com/hmason)  |  @accel的居住数据科学家.  |
@@ -641,17 +593,17 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Mark Stevenson](https://twitter.com/Agent_Analytics)  |  Salt（@SaltJobs）Analytics（分析）的数据分析招聘专员-洞察力-大数据-数据科学|
 | [Matt Harrison](https://twitter.com/__mharrison__)  | 目前正在玩数据科学家的全栈Python专家，作家，讲师的观点. 偶尔育儿，饲养，有机园艺.  |
 | [Matthew Russell](https://twitter.com/ptwobrussell)  | 挖掘社交网络.  |
-| [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)  | Data Scientist at BizQualify, Developer |
+| [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)   |  BizQualify的数据科学家，开发人员|
 | [Monica Rogati](https://twitter.com/mrogati)  | 数据@ Jawbone. 在LinkedIn上将数据转换为故事和产品. 文本挖掘，应用机器学习，推荐系统. 前游戏者，前机器编码器； 命名者.  |
 | [Noah Iliinsky](https://twitter.com/noahi)  | 可视化和交互设计师. 实用的自行车手. 视觉书籍的作者：http：//www.oreilly.com/pub/au/4419 |
-| [Paul Miller](https://twitter.com/PaulMiller)  | 云计算/大数据/开放数据分析师和顾问. 作家，演讲者和主持人.  Gigaom研究分析师.  |
+| [Paul Miller](https://twitter.com/PaulMiller) | Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. |
 | [Peter Skomoroch](https://twitter.com/peteskomoroch)  | 创建智能系统以自动化任务并改善决策. 企业家，前首席数据科学家@LinkedIn. 机器学习，ProductRei，网络|
 | [Prash Chan](https://twitter.com/MDMGeek)  |  @ IBM解决方案架构师，主数据管理，数据质量和数据治理Blogger. 数据科学，Hadoop，大数据与云.  |
 | [Quora Data Science](https://twitter.com/q_datascience)   |  Quora的数据科学主题|
 | [R-Bloggers](https://twitter.com/Rbloggers)  | 来自R博客圈，数据科学会议和（！）数据科学家的推特博客文章.  |
 | [Rand Hindi](https://twitter.com/randhindi) |  |
 | [Randy Olson](https://twitter.com/randal_olson) | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
-| [Recep Erol](https://twitter.com/EROLRecep)  | 数据科学专家@ UALR |
+| [Recep Erol](https://twitter.com/EROLRecep) | Data Science geek @ UALR |
 | [Ryan Orban](https://twitter.com/ryanorban)  | 数据科学家，遗传学家，硬件爱好者|
 | [Sean J. Taylor](https://twitter.com/seanjtaylor)  | 社会科学家. 黑客.  Facebook数据科学团队. 关键字：实验，因果推理，统计，机器学习，经济学.  |
 | [Silvia K. Spiva](https://twitter.com/silviakspiva) | #DataScience at Cisco |
@@ -666,8 +618,13 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Wes McKinney](https://twitter.com/wesmckinn)  | 熊猫（Python数据分析库）.  |
 | [WileyEd](https://twitter.com/WileyEd) | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
 | [WNYC Data News Team](https://twitter.com/datanews)  |  @WNYC的数据新闻工作人员. 练习数据驱动的新闻业，使其形象化并展示我们的工作.  |
+| [Alexey Grigorev](https://twitter.com/Al_Grigor)  | 数据科学作者|
 
 
+## Newsletters
+
+- [AI Digest](https://aidigest.net/) . 每周新闻通讯，以了解人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
+- [DataTalks.Club](https://datatalks.club) . 关于数据相关内容的每周新闻. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 
 
 ## Youtube Videos & Channels
@@ -685,6 +642,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
 - [Data Science with Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
 - [Data Science for Beginners](https://www.youtube.com/playlist?list=PL2zq7klxX5ATMsmyRazei7ZXkP1GHt-vs)
+- [DataTalks.Club](https://www.youtube.com/channel/UCDvErgK0j5ur3aLgn6U-LqQ)
 
 
 ## Telegram Channels
@@ -692,6 +650,12 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Open Data Science](https://t.me/opendatascience)  –第一个电报数据科学频道. 涵盖所有与数据科学相关的技术和热门人员：人工智能，大数据，机器学习，统计，通用数学以及前者的应用.
 - [Loss function porn](https://t.me/loss_function_porn) —关于DS / ML主题的漂亮帖子，带有视频或图形可视化.
 - [Machinelearning](https://t.me/ai_machinelearning_big_data) –每日ML新闻.
+
+
+## Slack Communities 
+
+- [DataTalks.Club](https://datatalks.club)
+
 
 ## Github Groups
 - [Berkeley Institute for Data Science](https://github.com/BIDS)
@@ -786,6 +750,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Covid-19](https://github.com/datasets/covid-19)
 - [Covid-19 Google](https://github.com/google-research/open-covid-19-data)
 - [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
+- [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 
 ## Awesome Data Science
 
@@ -819,6 +784,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 - [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme)
+- [Data Science Interviews Questions](https://github.com/alexeygrigorev/data-science-interviews)
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

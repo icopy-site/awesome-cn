@@ -50,35 +50,12 @@
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) -斯维尔特学校.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) -网络忍者（YouTube）.
 
-### Scaffold
+### Studies
 
-_模板/样板/种子/入门工具包/堆栈合奏/ Yeoman generator._
+_关于Svelte框架的研究和研究.
 
-#### Client
-
-_仅在浏览器中渲染Svelte应用程序.
-
-- [sveltejs/template](https://github.com/sveltejs/template) -用于使用汇总构建基本应用程序的模板.
-- [component-template](https://github.com/sveltejs/component-template) -建立可共享组件的基础.
-- [svelte-component-template](https://github.com/YogliB/svelte-component-template) -建立可共享组件的基础.
-- [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) -基于官方模板的PWA入门模板.
-- [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) -集成Redux-Toolkit的入门模板.
-- [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) -用于将ESLint，Jest和Tailwind CSS添加到官方TypeScript模板的入门模板和教程.
-- [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) -启动了TS的入门模板，并且ESLint和Prettier一起工作.
-
-#### Universal
-
-_SSR框架.
-
-- [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) -默认的Sapper模板，可用于汇总.
-- [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) -默认的Sapper模板，可用于Webpack.
-- [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template) -模板，包括Sapper，Firebase函数和托管，TypeScript和TypeGraphQL，Tailwind CSS，ESLint，以及使用GitHub Actions自动构建和部署.
-- [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) -带有mdsvex的默认Sapper模板.
-- [sapper-postcss-template](https://github.com/babichjacob/sapper-postcss-template) -包含Sapper和PostCSS预处理以及Tailwind CSS的模板.
-- [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) -带有Tailwind CSS的默认Sapper模板.
-- [sapper-template-firebase](https://github.com/nhristov/sapper-template-firebase) -具有Firebase功能，PostCSS，PurgeCSS，CSSNano，Tailwind CSS和苗条预处理的Sapper应用程序的Starter Rollup模板.
-- [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) -包含Sapper，TypeScript预处理和通过TypeGraphQL的GraphQL服务器的模板.
-- [SENT-template](https://github.com/Zimtir/SENT-template) -SENT（Sapper Express节点模板）和其他工具.
+- [SvelteScaling](https://svelte-scaling.acmion.com/) -苗条的规模吗？
+- [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale) -找到斯维尔特的拐点.
 
 ## Integrations
 
@@ -163,7 +140,7 @@ _切换/打开/关闭切换/复选框.
 
 #### Mobile
 
-_移动版UI框架.
+_UI frameworks for mobile._
 
 - [Svelte Native](https://svelte-native.technology/) -通过Nativescript控制本地组件.
 - [Framework7](https://framework7.io/svelte/) -用于构建iOS和Android应用的全功能HTML框架.
@@ -175,12 +152,43 @@ _对于单页应用程序（SPA）以及更多.
 - [svelte-router-spa](https://github.com/jorgegorka/svelte-router)  -路由器将路由添加到您的单页应用程序（SPA）. 包括本地化，防护和嵌套布局.
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) -具有SSR支持的声明性Svelte路由库.
 - [tinro](https://github.com/AlexxNB/tinro) -小型，无依赖和高度声明性的路由器.
+- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) -针对单页应用程序（SPA）进行了优化，具有基于哈希的路由并支持参数.
 
 ### UI Utilities
 
 #### WebGL
 
 - [svelthree](https://github.com/vatro/svelthree) -组件库，用于以声明方式构造反应式和可重复使用的three.js场景图.
+
+### Scaffold
+
+_模板/样板/种子/入门工具包/堆栈合奏/ Yeoman generator._
+
+#### Client
+
+_仅在浏览器中渲染Svelte应用程序.
+
+- [sveltejs/template](https://github.com/sveltejs/template) -用于使用汇总构建基本应用程序的模板.
+- [component-template](https://github.com/sveltejs/component-template) -建立可共享组件的基础.
+- [svelte-component-template](https://github.com/YogliB/svelte-component-template) -建立可共享组件的基础.
+- [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) -基于官方模板的PWA入门模板.
+- [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) -集成Redux-Toolkit的入门模板.
+- [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) -用于将ESLint，Jest和Tailwind CSS添加到官方TypeScript模板的入门模板和教程.
+- [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) -启动了TS的入门模板，并且ESLint和Prettier一起工作.
+
+#### Universal
+
+_SSR框架.
+
+- [sapper-template#rollup](https://github.com/sveltejs/sapper-template/tree/rollup) -默认的Sapper模板，可用于汇总.
+- [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) -默认的Sapper模板，可用于Webpack.
+- [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template) -模板，包括Sapper，Firebase函数和托管，TypeScript和TypeGraphQL，Tailwind CSS，ESLint，以及使用GitHub Actions自动构建和部署.
+- [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) -带有mdsvex的默认Sapper模板.
+- [sapper-postcss-template](https://github.com/babichjacob/sapper-postcss-template) -包含Sapper和PostCSS预处理以及Tailwind CSS的模板.
+- [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) -带有Tailwind CSS的默认Sapper模板.
+- [sapper-template-firebase](https://github.com/nhristov/sapper-template-firebase) -具有Firebase功能，PostCSS，PurgeCSS，CSSNano，Tailwind CSS和苗条预处理的Sapper应用程序的Starter Rollup模板.
+- [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) -包含Sapper，TypeScript预处理和通过TypeGraphQL的GraphQL服务器的模板.
+- [SENT-template](https://github.com/Zimtir/SENT-template) -SENT（Sapper Express节点模板）和其他工具.
 
 ## Dev Tools
 
