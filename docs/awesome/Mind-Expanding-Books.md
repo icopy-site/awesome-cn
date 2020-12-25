@@ -13,7 +13,7 @@
 
 &gt;每个人都应该读的书！
 
- 您可能对Beta版网站感兴趣，网址为 [https://books.vishnuks.com](https://books.vishnuks.com) . 源代码位于“ app /”目录中.
+🌱 You might be interested in the beta website at [https://books.vishnuks.com](https://books.vishnuks.com) . 源代码位于“ app /”目录中.
 
 
 ## Books
@@ -51,7 +51,7 @@
  | 好主意从何而来？ 史蒂文·约翰逊| [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |  
  | 传递幸福：获取利润，激情和目标的途径谢东| [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
  | 创新者的困境| 克莱顿山克里斯滕森| [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
- | 影响者：领导变革的新科学| 约瑟夫·格兰尼（Joseph Grenny），凯里·帕特森（Kerry Patterson）| [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
+ | 影响者：领导变革的新科学| 约瑟夫·格兰尼（Joseph Grenny），克里·帕特森（Kerry Patterson）| [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
  | 重新审视电子神话：为什么大多数小型企业不起作用以及如何处理| 迈克尔·格伯| [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |  
  | 完成事情：无压力的生产力艺术大卫·艾伦| [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |  
  | 失去童贞：我如何生存，玩乐并发家致富理查德·布兰森| [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |  
@@ -191,7 +191,7 @@
  | 一个年轻女孩的日记| 安妮·弗兰克| [4.10](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) | 1993 |  
  | 创新者：一群黑客，​​天才和怪胎如何引发数字革命沃尔特·艾萨克森| [4.10](https://www.goodreads.com/book/show/21856367-the-innovators) | 2014 |
  | 爱因斯坦：他的生活和宇宙沃尔特·艾萨克森| [4.09](https://www.goodreads.com/book/show/10884.Einstein) | 2007 |
- | 史蒂夫·乔布斯| 沃尔特·伊萨克森| [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |  
+| Steve Jobs | Walter Issacson | [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |  
  | 我的真理实验| 圣雄甘地| [4.07](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) | 1993 |  
  | 我的人生故事| 海伦·凯勒| [4.07](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) | 1990 |  
  | 亨利埃塔（Henrietta）的不朽生命丽贝卡·斯考特（Rebecca Skloot） [4.05](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks?ac=1&from_search=true) | 2010 |
@@ -314,7 +314,7 @@
  | 二十一世纪的首都| 托马斯·皮凯蒂| [4.01](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) | 2014 |  
  | 怪诞经济学：一名流氓经济学家探索一切的隐藏面史蒂文·莱维特（Steven D. Levitt），斯蒂芬·J·杜布纳（Stephen J. Dubner）| [3.98](https://www.goodreads.com/book/show/1202.Freakonomics) | 2006 |
  | 他们没有告诉你关于资本主义的23件事张河俊| [3.97](http://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism) | 2010 |  
-| The Signal and the Noise: Why So Many Predictions Fail--but Some Don't | Nate Silver | [3.96](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) | 2012 |  
+ | 信号与噪声：为什么这么多的预测失败了，但有一些却没有呢？  Nate Silver | [3.96](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) | 2012 |  
  | 货币战争：下一次全球危机的形成詹姆斯·里卡兹| [3.96](https://www.goodreads.com/book/show/11515298-currency-wars) | 2011 |  
  | 金钱上升：世界金融史|世界银行尼尔·弗格森| [3.88](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) |2008  |  
  | 最底层的十亿人：最贫穷的国家为什么会失败以及对此有何应对措施？ 保罗·科利尔| [3.85](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) | 2007 |  
@@ -347,7 +347,7 @@
 ## Education
  | 姓名| 作者|  Goodreads评分| 出版年份|  
 |------|--------|------------------|----------------|
- | 受过教育的回忆录|  Tara Westover |  [4.47]，（https://www.goodreads.com/book/show/35133922-educated）|  2018 |
+ | 受过教育的回忆录|  Tara Westover | [4.47](https://www.goodreads.com/book/show/35133922-educated) | 2018 |
  | 头脑风暴：儿童，计算机和强大的创意 Seymour A. Papert | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms) | 1993 |  
  | 小王子| 安托万·德·圣艾修伯里| [4,31](https://www.goodreads.com/book/show/71091.Il_piccolo_principe) | 1943 |
  | 儿童如何失败约翰·霍尔特| [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
@@ -383,7 +383,7 @@
 ## Shakespeare
  | 姓名| 作者|  Goodreads评分| 出版年份|  
 |------|--------|------------------|----------------|  
- | 莎士比亚思考：学生演员，导演和其他想让吟游诗人自在的人的入门指南| 巴里·爱德斯坦.  | [4.62](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) |  |  
+ | 莎士比亚思考：学生演员，导演和其他想让吟游诗人感到自在的人的入门指南| 巴里·爱德斯坦.  | [4.62](https://www.goodreads.com/book/show/1334872.Thinking_Shakespeare) |  |  
  | 哈姆雷特与复仇 Eleanor Prosser | [4.50](https://www.goodreads.com/book/show/625956.Hamlet_Revenge_) | 1971 |  
  | 莎士比亚的格律艺术| 乔治·赖特| [4.39](https://www.goodreads.com/book/show/428615.Shakespeare_s_Metrical_Art) | 1991 |  
  | 炼狱中的哈姆雷特| 斯蒂芬·格林布拉特| [3.98](https://www.goodreads.com/book/show/33179.Hamlet_in_Purgatory) | 2002 |  
@@ -539,7 +539,7 @@
  | 如何不死：发现科学证明可以预防和逆转疾病的食物医学博士Michael Greger | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die) | 2015 |
  | 克服重力：一种系统的方法来锻炼体操和体重（第二版）| 史蒂文·洛| [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 |
  | 有罪的条件| 保罗·韦德| [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
- | 饮食与跑步：我不可能参加的超马拉松大赛| 史考特·尤里克（Scott Jurek），史蒂夫·弗里德曼（Steve Friedman）| [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
+ | 饮食与跑步：我不可能参加的超马拉松大赛| 斯科特·尤雷克（Steve Friedman）| [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
  |  8周达到最佳健康状态| 安德鲁·威尔| [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
 
 ## Design

@@ -211,7 +211,7 @@
 * [stockastic](https://github.com/shanewilton/stockastic) -用于Stockfighter API的简单Elixir包装器.
 
 ## Benchmarking
-*Running code to see how long it takes, which is faster and/or if improvements have been made.*
+*运行代码以查看所需的时间，更快的速度和/或是否进行了改进.
 
 * [benchee](https://github.com/PragTob/benchee) -在Elixir中轻松且可扩展的基准测试！
 * [benchfella](https://github.com/alco/benchfella) -Elixir的基准化工具.
@@ -509,7 +509,7 @@
 
 * [exceptional](https://github.com/expede/exceptional) -快乐路径编程和异常处理的助手.
 * [happy](https://github.com/vic/happy) -快乐的路径编程，可以替代长生不老药.
-* [OK](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+* [OK](https://github.com/CrowdHailer/OK) -使用结果单子进行优雅的错误处理，具有简单而强大的`with`构造和快乐的路径管道运算符.
 * [sentry-elixir](https://github.com/getsentry/sentry-elixir) -的Elixir官方客户 [Sentry](https://sentry.io/).
 
 ## Eventhandling
@@ -996,6 +996,7 @@
 * [gibran](https://github.com/abitdodgy/gibran) -Gibran是Elixir的港口 [WordsCounted](https://github.com/abitdodgy/words_counted)，一种自然语言处理器，可从文本中提取有用的统计信息.
 * [Paasaa](https://github.com/minibikini/paasaa) -Elixir的自然语言检测.
 * [Petrovich](https://github.com/petrovich/petrovich_elixir) -Elixir库可使用俄语的名字，姓氏和中间名进行变形.
+* [Tongue](https://github.com/dannote/tongue) -中谷秀阳自然语言检测器的长生不老药港口.
 * [Woolly](https://github.com/pjhampton/woolly) -Woolly是Elixir的一个雄心勃勃的文本挖掘和自然语言处理API.
 
 ## Networking
@@ -1064,7 +1065,7 @@
 * [ecto_rut](https://github.com/sheharyarn/ecto_rut) -简单而强大的Ecto快捷方式可简化并加速开发.
 * [ecto_shortcuts](https://github.com/MishaConway/ecto_shortcuts) -ecto中常用操作的快捷方式.
 * [ecto_shortuuid](https://github.com/gpedic/ecto_shortuuid) -ecto类型增加了对 [ShortUUIDs](https://github.com/gpedic/ex_shortuuid).
-* [ecto_validation_case](https://github.com/danielberkompas/ecto_validation_case)  -简化您的Ecto模型验证测试. 受到斗牛匹配者的启发，但更简单.
+* [ecto_validation_case](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
 * [ectophile](https://github.com/gjaldon/ectophile) -Ecto扩展可立即支持模型中的文件上传.
 * [elastic](https://github.com/radar/elastic) -通过HTTPotion的瘦手来帮助您与Elastic Search对话.
 * [elastix](https://github.com/werbitzky/elastix) -用Elixir编写的简单Elastic REST客户端.
@@ -1338,7 +1339,7 @@
 * [setup_tag](https://github.com/vic/setup_tag) -轻松混合和标记标记的功能，以设置您的测试环境.
 * [shouldi](https://github.com/batate/shouldi) -具有嵌套上下文，卓越的可读性和易用性的Elixir测试库.
 * [test_selector](https://github.com/DefactoSoftware/test_selector) -一组测试助手，可确保您始终在Phoenix应用程序中选择正确的元素.
-* [test_that_json](https://github.com/facto/test_that_json) -满足您的Elixir测试需求的JSON断言和帮助程序.
+* [test_that_json](https://github.com/facto/test_that_json) - JSON assertions and helpers for your Elixir testing needs.
 * [tuco_tuco](https://github.com/stuart/tuco_tuco) -TucoTuco通过运行Web浏览器并模拟用户与应用程序的交互来帮助您测试Web应用程序.
 * [Walkman](https://github.com/derekkraan/walkman) -从Ruby的VCR中汲取灵感，从现实世界中隔离测试.
 * [wallaby](https://github.com/keathley/wallaby) -Wallaby通过同时模拟用户交互并管理浏览器来帮助测试您的Web应用程序.
@@ -1620,7 +1621,7 @@
 * [elixir-map-to-xml](https://github.com/gunnar2k/elixir-map-to-xml) -将Elixir映射转换为XML文档.
 * [elixir-xml-to-map](https://github.com/homanchou/elixir-xml-to-map) -从XML字符串创建Elixir Map数据结构.
 * [erlsom](https://github.com/willemdj/erlsom) -Erlsom是一个Erlang库，用于解析（和生成）XML文档.
-* [exmerl](https://github.com/pwoolcoc/exmerl) -Xmerl的长生不老药包装纸.
+* [exmerl](https://github.com/pwoolcoc/exmerl) -Xmerl的万能药包装纸.
 * [exml](https://github.com/expelledboy/exml) -用于xmerl xpath的最简单的Elixir包装器.
 * [exoml](https://github.com/Overbryd/exoml) -将xml解码/编码为树结构的模块.
 * [fast_xml](https://github.com/processone/fast_xml) -基于快速扩展的Erlang XML解析库.

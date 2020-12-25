@@ -66,10 +66,10 @@
 - [Pixel Joint](http://pixeljoint.com/)
 
 ## Editors
-- [Aseprite](http://aseprite.org/)  -付费且可用源代码，可在Linux，macOS和Windows上使用. 令人敬畏的用户界面，其中包含许多漂亮的工具，可简化像素艺术创作.
+- [Aseprite](http://aseprite.org/)  -付费且可用源代码，可在Linux，macOS和Windows上使用. 令人敬畏的用户界面，带有许多漂亮的工具，可简化像素艺术创作.
 - [Pixen](https://pixenapp.com/)  -付费，适用于macOS和iOS. 出色的OS集成，可使用压敏绘图在平板电脑上创建像素图.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software)  -付费试用，可在Windows上使用. 专为创建游戏像素艺术而设计的高级功能.
 - [GIMP](https://www.gimp.org/)  -开源且免费，可在Linux，macOS和Windows上运行. 并非专门用于创建像素图，但能够做到的更多.
-- [Piskel](http://www.piskelapp.com/)  -开源且免费，可在Linux，macOS和Windows的浏览器中使用. 易于尝试在浏览器中在线保存精灵.
+- [PixelCraft](https://rgab1508.github.io/PixelCraft/)  -开源且免费，可在浏览器中使用. 可以在浏览器中轻松试用，也可以离线PWA试用.
 - [rx](https://rx.cloudhead.io/)  -开源且免费，可在Linux，macOS和Windows上运行. 极简主义和键盘驱动的动画支持.
-- [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) -Pico8编辑器，通过一点点摆动就可以使像素艺术栩栩如生.
+- [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) -Pico8编辑器，通过一点点摆动就能使像素艺术栩栩如生.

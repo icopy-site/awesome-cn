@@ -142,7 +142,7 @@
 
 * [KIcon](http://www.tkweb.eu/en/delphicomp/kicon.html) .  `[Delphi]``[FPC]`如果需要对图标（或更好的图标文件* .ico）进行比仅查看更复杂的操作，则此组件有意义. 完整的PNG图标图像支持，正确的渲染，带有Alpha通道的图标.
 
-* [Delphi Twain](http://www.kluug.net/delphitwain.php) .  `[Delphi]``[FPC]`该库使您可以轻松访问Delphi和Lazarus的扫描功能.
+* [Delphi Twain](http://www.kluug.net/delphitwain.php). `[Delphi]` `[FPC]` The library allows you to easily access scanning functions from Delphi and Lazarus.
 
 * [Synopse PDF](https://github.com/synopse/SynPDF) .  `[Delphi]``[FPC]`用于Delphi的功能齐全的开源PDF文档创建库，嵌入在一个单元中. 纯粹的Delphi代码，适用于Win32和Win64平台的Delphi 5直至Delphi 10.3 Rio（以及FPC的最新版本）.
 
@@ -300,7 +300,7 @@
 
 * [ToroKernel](https://github.com/torokernel/torokernel) .  `[FPC]`这是一个库内核，它允许特别移植的freepascal应用程序在系统中单独运行.  Toro在用户的应用程序中进行编译，因此生成了一个可以在裸机上启动或作为现代管理程序（例如hyperv，kvm，qemu，firecraker）中的访客启动的二进制文件.  ToroKernel通过提供专用的API来解决微服务的开发.
 
-* [Horse](https://github.com/HashLoad/horse). `[Delphi]` `[FPC]` Fast and minimalist web framework. Horse allows to create powerful RESTful servers without effort. Focused on microservices.
+* [Horse](https://github.com/HashLoad/horse) .  `[Delphi]``[FPC]`快速而简约的Web框架.  Horse允许轻松创建强大的RESTful服务器. 专注于微服务.
 
 * [Bauglir WebSocket](https://github.com/MFernstrom/Bauglir-WebSocket-2) .  `[Delphi]``[FPC]`基于Ararat Synapse的WebSocket服务器/客户端实现.
 
@@ -601,10 +601,6 @@
 
 * [HashLib4Pascal](https://github.com/Xor-el/HashLib4Pascal) .  Delphi / FreePascal兼容库，提供了一个易于使用的接口，用于计算字符串（具有指定编码），文件，流，字节数组和无类型数据的哈希和校验和. . 它还支持增量哈希.
 
-* [CRC/Hash](http://www.wolfgang-ehrhardt.de/crchash_en.html) .  Pascal / Delphi源文件和与CRC，哈希和HMAC计算有关的二进制文件.  CRC，Adler，BJ查找，MD5，SHA，Whirlpool，Blake
-
-* [Crypto](http://www.wolfgang-ehrhardt.de/crypt_en.html) .  `[Delphi]`[FPC]`几种密码算法：128位分组密码AES和Twofish，64位分组密码Blowfish以及流密码Salsa20 / XSalsa20 / ChaCha和Sosemanuk.
-
 * [bcrypt](https://github.com/viniciussanchez/bcrypt) .  `[Delphi]`一个可以帮助您哈希密码的库.
 
 * [MurMur-Delphi](https://github.com/thibmo/murmur-delphi) .  “ Delphi” MurMur1 / 2/3快速种子哈希算法以纯Pascal形式移植.
@@ -708,6 +704,8 @@
 // *高级内存分配功能，可实现更快的对齐操作.*
 
 * [FastMM4-AVX](https://github.com/maximmasiutin/FastMM4-AVX) . 带有AVX支持和多线程增强功能的FastMM4 fork（Delphi）FPC（更快的锁定）
+
+* [FastMM5](https://github.com/pleriche/FastMM5) .  [Delphi]用于Embarcadero Delphi应用程序的快速替换内存管理器，可以在多个线程和CPU内核之间很好地扩展，不容易出现内存碎片，并且无需使用外部.DLL文件即可支持共享内存. 版本5是FastMM的完整重写.
 
 
 ## System
@@ -867,6 +865,10 @@
 * [Keras4Delphi](https://github.com/Pigrecos/Keras4Delphi) .  `[Delphi]`高级神经网络API，使用Python绑定以Pascal编写
 
 * [TZDB](https://github.com/pavkam/tzdb) .  `[Delphi]``[FPC]`适用于Delphi / FreePascal的IANA时区数据库
+
+* [PascalUtils](https://github.com/isemenkov/pascalutils) .  Delphi和utils数据结构的对象Pascal库
+
+* [libPasC-Algorithms](https://github.com/isemenkov/libpasc-algorithms) .  Delphi和常见数据结构和算法的对象Pascal库. 从c算法存储库和其他来源重写的库.
 
 
 ## OS ##
