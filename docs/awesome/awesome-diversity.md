@@ -28,11 +28,12 @@
 - [Blacks In Technology](https://www.blacksintechnology.net/) -通过建立世界一流的技术卓越和创新蓝图，企业化专注于“跨越鸿沟”.
 - [Black Women in Computational Biology](https://www.blackwomencompbio.org/) -一个黑人妇女的交叉社区，他们致力于（或对）将计算科学和定量科学与生物学相结合的职业.
 - [Bridge Troll](https://www.bridgetroll.org/) -由志愿者组织的活动，以增强人们的技术能力.
+- [Brown Girl, Tech World](https://www.browngirltech.world/) -为在科技行业中发展的棕色女性提供数字安全空间和非营利组织.
 - [Code 2040](http://www.code2040.org/) -通过各种计划和研究金，Code2040是一项伟大的计划，为黑人和拉丁裔人才创造了技术机会.
 - [Codebar](https://codebar.io/) -Codebar是一项非盈利计划，通过举办定期的编程研讨会来促进多元化的技术社区的发展.
 - [Code Liberation](http://codeliberation.org/) -代码解放促进了女性，非二元，女性和识别女孩的人们创建数字游戏和创造技术，从而使STEAM领域多样化.
 - [Consensual Software](http://consensualsoftware.com/) -一个开源项目，提倡在软件设计中更好地使用许可.
-- [Computational Biology in Sweden, RSG-Sweden](http://rsg-sweden.iscbsc.org/) -由学生和研究人员组成的团队共同努力，使更多的人对计算生物学产生兴趣，并与人们建立联系，从而在瑞典建立一个多元化且包容的社区.
+- [Computational Biology in Sweden, RSG-Sweden](http://rsg-sweden.iscbsc.org/) -由学生和研究人员组成的团队共同努力，使更多的人对计算生物学产生兴趣，并使人们建立起遍布瑞典的多元化包容性社区.
 - [Dear Tech People](http://www.deartechpeople.com) -种族和性别多样性排名100强高科技公司.
 - [Dev Color](https://www.devcolor.org/) -一个非营利性组织，旨在促进Black软件工程师的职业发展.
 - [Disability Visibility Project](https://disabilityvisibilityproject.com/) -一个致力于创建，共享和扩大残疾媒体和文化的在线社区.
@@ -50,15 +51,15 @@
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) -高科技有色人种的包容性公司列表.
 - [Hack The Hood](http://www.hackthehood.org/) -非营利组织，将有色人种的低收入青年介绍给技术职业.
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) -计划将年轻的黑人男性与成为高级企业家和技术人员所需的一切联系起来.
-- [Kapor Center](http://www.kaporcenter.org/) -Kapor家族组织致力于消除有代表性的有色人种对科学，技术，工程与数学（STEM）教育和科技职业的障碍.
+- [Kapor Center](http://www.kaporcenter.org/) -Kapor家族组织致力于消除有代表性的有色人种对科学，技术，工程和数学（STEM）教育和科技职业的障碍.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) -科技界的女同志社区是科技界内（或热爱她们的人）中的酷儿女性社区.
 - [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目受欢迎，包容且欣赏其贡献者的多样性.
 - [Open Source Diversity](https://opensourcediversity.org/) -开源多样性是一个社区，旨在收集资源，建立网络并进行协作，以实现更多的多样性并融入自由和开源软件社区.
-- [Open Sourcing Mental Illness](https://osmihelp.org/) -开源精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
+- [Open Sourcing Mental Illness](https://osmihelp.org/) -采购精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
 - [Out In Tech](https://outintech.com) -团结LGBTQ +技术社区的非营利组织.
 - [OpenCIDER](https://selgebali.gitbook.io/opencider/) -社区建设工作，以促进计算包容性并充当数字资产资源.
 - [ParadigmIQ](https://www.paradigmiq.com/) -范式提供一系列的研讨会，培训和评估，以帮助实现多样性，包容性，归属感，保留性等等.
-- [People Of Creativity](http://www.peopleofcreativity.xyz/) -致力于创建共享机会，经验和思想的社区的组织，最终改善了整个创意产业中少数民族的代表权.
+- [People Of Creativity](http://www.peopleofcreativity.xyz/) -致力于建立共享机会，经验和思想的社区的组织，最终改善了整个创意产业中少数民族的代表权.
 - [PHP Women](http://phpwomen.org) -一个包容性的全球网络，在PHP社区内提供支持.
 - [Ping A Programadoras](https://pingprogramadoras.org/) -一群妇女和非双性人，其目的是反映和增强技术领域的能力.
 - [Pink Programming](https://www.pinkprogramming.se) -一个非营利组织，为妇女，跨性别者和非二进制社区组织代码活动.
@@ -85,10 +86,10 @@
 - [Women Who Go](https://www.womenwhogo.org/) -致力于建立一个更加多元化和包容性的Golang社区的网络.
 - [Women Who Tech](https://www.womenwhotech.com/) -非营利组织，将才华横溢且享誉盛名的女性召集在一起，在技术领域开创新局面，以改变世界并激发变革.
 - [Wonder Women Tech](https://wonderwomentech.com/) -举办全年计划以及在STEAM（科学，技术，工程，艺术，数学），创新和企业家精神中强调，教育和庆祝妇女与多样性的国家和国际会议的组织.
-- [Write/Speak/Code](https://www.writespeakcode.com/) -501c3免税非营利组织，每年举办一次会议和聚会活动，旨在帮助您通过写作，演讲和开源完全拥有自己的专业知识.
+- [Write/Speak/Code](https://www.writespeakcode.com/) -501c3免税非营利组织，举办年度会议和聚会活动，旨在帮助您通过写作，演讲和开源完全拥有自己的专业知识.
 - [YesWeTech](http://yeswetech.org/) -女权主义社区致力于为对技术感兴趣的女性建立平等而自豪的文化.
 - [Natives in Tech](https://nativesintech.org) -Tech in Natives是由本机和非本机软件开发人员组成的联盟，其目标是支持增强本机信念，知识和身份的软件应用程序开发. 
-- [Brazilians in Tech](https://braziliansintech.com/)-科技领域的巴西人是第一个巴西平台，为从事数字技术工作或感兴趣的女性汇集了科学技术领域最相关的机会.
+- [Brazilians in Tech](https://braziliansintech.com/)-科技领域的巴西人是第一个为从事数字技术工作或有兴趣的女性提供科学技术领域最相关机会的巴西平台.
 - [Latinas in computing](https://latinasincomputing.org/) -一个由拉丁裔在拉丁计算领域创建的社区，其宗旨是促进拉丁裔在计算相关领域的代表性和成功.
 - [Latinas in tech](https://www.latinasintech.org/)  -一个非营利组织，旨在联系，支持和增强从事技术工作的拉丁裔女性. 我们与顶尖技术公司携手合作，为学习，指导和招聘创造安全的空间.
 

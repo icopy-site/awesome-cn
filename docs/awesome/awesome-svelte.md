@@ -30,6 +30,7 @@
 
 - [Twitter](https://twitter.com/sveltejs)
 - [Discord](https://svelte.dev/chat)
+- [Reddit](https://www.reddit.com/r/sveltejs/)
 
 ### Conferences
 
@@ -49,6 +50,7 @@
 - [Building My First Svelte App](https://scotch.io/tutorials/building-my-first-svelte-app-thoughts-and-impressions) - Scotch.io.
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) -斯维尔特学校.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) -网络忍者（YouTube）.
+- [SvelteJS Series - tutorials and talks](https://www.youtube.com/playlist?list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd) -SpinSpire（YouTube）.
 
 ### Studies
 
@@ -140,7 +142,7 @@ _切换/打开/关闭切换/复选框.
 
 #### Mobile
 
-_UI frameworks for mobile._
+_移动版UI框架.
 
 - [Svelte Native](https://svelte-native.technology/) -通过Nativescript控制本地组件.
 - [Framework7](https://framework7.io/svelte/) -用于构建iOS和Android应用的全功能HTML框架.
@@ -166,7 +168,7 @@ _模板/样板/种子/入门工具包/堆栈合奏/ Yeoman generator._
 
 #### Client
 
-_仅在浏览器中渲染Svelte应用程序.
+_Render Svelte application in the browser only._
 
 - [sveltejs/template](https://github.com/sveltejs/template) -用于使用汇总构建基本应用程序的模板.
 - [component-template](https://github.com/sveltejs/component-template) -建立可共享组件的基础.

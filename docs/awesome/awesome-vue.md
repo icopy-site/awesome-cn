@@ -84,6 +84,7 @@
 - [VueJS CZ/SK - Discord group](https://discord.gg/mDr2z8V)
 - [VueJS DOM - WhatsApp group](https://chat.whatsapp.com/L5rFQpme22IHmmyOMI1MWA)
 - [VueJS DOM - Facebook group](https://www.facebook.com/groups/2022974857757366/)
+-[VueJS乌兹别克斯坦-电报组[乌兹别克]]（https://t.me/vuejsuzbekcommunity）
 
 ### Conferences
 
@@ -297,7 +298,7 @@
 ### Examples
 
 - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) 通过@brandonjpierce
-- [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
+- [Vue Samples](https://github.com/superlloyd/VueSamples) 通过@superlloyd
 - [HackerNews clone with vue.js + vue-router](https://github.com/kazupon/vue-router-hackernews) 通过@kazupon
 - [**Electron + Vue example**](https://github.com/bradstewart/electron-boilerplate-vue) 通过@bradstewart
 - [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) 通过 [Boris Okunskiy](https://github.com/inca)
@@ -579,7 +580,7 @@
 - [peregrine-cms](https://github.com/headwirecom/peregrine-cms) -基于Vue.js和Apache Sling的头部可选CMS
 - [concept-to-clinic](https://github.com/concept-to-clinic/concept-to-clinic) -带有Vue.js界面的肺癌预测项目
 - [grid-awesome](https://github.com/louisbourque/grid-awesome)  -使用css显示器生成样板css用于网格布局. 属性.
-- [Light Bootstrap Dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) -为Vue制作的创意Tim Light Bootstrap仪表板
+- [Light Bootstrap Dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
 - [Hubaga](https://github.com/picocodes/hubaga) -适用于开发人员和其他数字商店的免费轻量级WordPress电子商务插件.
 - [vue-webpack-buefy](https://github.com/ndro/vue-webpack-buefy) -具有全功能Webpack和Buefy的Vue.js入门
 - [Coypu](https://github.com/bkzl/coypu) -像文本编辑器一样的每周计划者
@@ -1083,7 +1084,7 @@ _加载器/微调器/进度条—让用户知道正在加载的内容_
 - [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) -Vue.js的简单灵活的微调器
 - [vue-wait](https://github.com/f/vue-wait) -适用于Vue / Vuex和Nuxt应用程序的复杂加载程序管理.
 - [vue-progress-path](https://github.com/Akryum/vue-progress-path) -支持任何自定义SVG路径的可自定义进度指示器和微调框.
-- [vue-blockui](https://github.com/realdah/vue-blockui) - BlockUI for vue 2, similar to jquery blockUI, can be used for loading screen.
+- [vue-blockui](https://github.com/realdah/vue-blockui) -vue 2的Bl​​ockUI，类似于jquery blockUI，可用于加载屏幕.
 - [epic-spinners](https://github.com/epicmaxco/epic-spinners) -通过vue.js集成，易于使用的css spinners集合.
 - [svg-progress-bar](https://github.com/chenxuan0000/svg-progress-bar) -Vue.js的简单进度栏.
 - [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) -微小的全屏加载指示器
@@ -1092,7 +1093,7 @@ _加载器/微调器/进度条—让用户知道正在加载的内容_
 - [vue-spinkit](https://github.com/TonPC64/vue-spinkit) -VueJS的CSS动画加载指标集合
 - [vue2-form-loading](https://github.com/hussam-m/vue2-form-loading) -VueJS指令可与表单一起使用，以便在加载下一页时禁用提交按钮
 - [vue-element-loading](https://github.com/biigpongsatorn/vue-element-loading) -⏳在容器中加载或全屏显示Vue.js
-- [tb-skeleton](https://github.com/anthinkingcoder/tb-skeleton) - A skeleton screen loading for Vue.js
+- [tb-skeleton](https://github.com/anthinkingcoder/tb-skeleton) -Vue.js的骨架屏幕加载
 - [vue-spinners](https://github.com/Saeris/vue-spinners) -Vuejs的加载微调组件的集合
 - [vue-progress-bar](https://github.com/Yangfan2016/vue-yan-progress) -这是基于vue的级联进度条插件
 - [vue-loading-button](https://github.com/shwilliam/vue-loading-button) -带有滑入式装载指示器的直接按钮
@@ -1462,7 +1463,7 @@ _在日历中显示不可编辑的事件_
 #### Tree
 
 - [Vue.D3.tree](https://github.com/David-Desmaisons/Vue.D3.tree) -基于 [D3.js](https://d3js.org/)
-- [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view) -Vue.js的JSON树视图组件.
+- [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view) - A JSON Tree View Component for Vue.js.
 - [vue-tree](https://github.com/halower/vue2-tree) -Vue.js 2.X的树组件.
 - [liquor-tree](https://github.com/amsik/liquor-tree) -惊人的Vue树组件
 - [vue-trees-ui](https://github.com/wyr1227/vue-trees) -基于Vue的Tree Ui.
@@ -1538,7 +1539,7 @@ _在日历中显示不可编辑的事件_
 - [v-offline](https://github.com/vinayakkulkarni/v-offline) -为您的Vue应用提供简单，微小且易于使用的离线和在线事件检测功能（最小压缩量小于390b）
 - [vue-word-cloud](https://github.com/SeregPie/VueWordCloud) -词云生成器.
 - [vue-flat-surface-shader](https://github.com/grzhan/vue-flat-surface-shader) -用于的Vue组件 [flat surface shader](https://github.com/wagerfield/flat-surface-shader)
-- [vue-easteregg](https://github.com/ddgll/vue-easteregg) - Easey add an easteregg to your vue app (default with konami code)
+- [vue-easteregg](https://github.com/ddgll/vue-easteregg) -轻松为您的Vue应用添加一个Easteregg（默认使用konami代码）
 - [vue-barcode-scanner](https://github.com/noomerzx/vue-barcode-scanner)
 - [vue-heatmapjs](https://github.com/BrockReece/vue-heatmapjs) -用于跟踪和可视化鼠标活动的Vue指令
 - [vue-maze](https://github.com/meganetaaan/vue-maze) -作为Vue.js组件制作的迷宫游戏
@@ -1682,7 +1683,7 @@ _让用户创建和编辑数据_
 
 ###### Date Picker
 
-_日期/日期时间/时间选择器_
+_Date / datetime / time Picker_
 
 - [vue-datepicker](https://github.com/hilongjw/vue-datepicker) -** [未维护] **带有Vue.js材质设计的日历和日期选择器组件.
 - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker)  -Vue 2.x的下拉时间选择器（小时|分钟|秒），具有灵活的时间格式支持.  ：clock7：（返回并在2019充电：电池:)
@@ -2051,7 +2052,7 @@ _整体/主视图的布局_
 
 _组件集+响应式布局系统_
 
-- [quasar-framework](https://github.com/quasarframework/quasar)  -类星体框架. 使用VueJs使用相同的代码构建响应式网站，混合移动应用程序和Electron应用程序.
+- [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.
 - [vue-material](https://github.com/vuematerial/vue-material) -Vue.js的材料设计.
 - [vuetify](https://github.com/vuetifyjs/vuetify) -Vue.js的材料组件框架2.
 - [muse-ui](https://github.com/museui/muse-ui) -Vue.js的材料组件库2.
@@ -2076,7 +2077,7 @@ _组件集+响应式布局系统_
 - [Shards Vue](https://github.com/designrevision/shards-vue) -✨基于Bootstrap 4框架的时尚和UI组件库.
 - [Fundamental Vue](https://github.com/SAP/fundamental-vue) -基于SAP Fiori基础的组件.
 - [Framevuerk](https://github.com/framevuerk/framevuerk) -快速，响应迅速，无依赖性，基于Vue.js的方向支持和可配置UI框架.
-- [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
+- [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) -@carbon团队的Carbon Design System组件.
 - [Inkline](https://github.com/inkline/inkline/) -Inkline是Vue.js的现代UI / UX框架，旨在创建完美的响应式Web应用程序.
 - [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) -用于Web的Vue.js 2.0 MUI组件
 - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) -基于最新的Bootstrap 4和Vue 2.6.10的强大UI工具包，提供了一组流畅的，响应式页面模板，布局，组件和小部件，可快速构建响应式，移动优先的网站和应用程序.
@@ -2087,7 +2088,7 @@ _组件集+响应式布局系统_
 - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) -⚡轻巧且可自定义的组件库，可帮助您快速构建可访问的Vue应用程序和站点.
 - [vue-canvas](https://github.com/loo41/vuc) -Vue画布组件 [vuc-identify](http://vuc.tianchenyong.top)
 - [oruga](https://github.com/oruga-ui/oruga) -没有CSS框架依赖性的Vue.js的UI组件.
-- [Wave UI](https://github.com/antoniandre/wave-ui)  -面向Vue.js的新兴UI框架，但只有一面.  ☀️
+- [Wave UI](https://github.com/antoniandre/wave-ui)  -面向Vue.js的新兴UI框架，但只有光明的一面.  ☀️
 - [vectre](https://github.com/vectrejs/vectre) -基于以下内容的轻量级，简单且响应迅速的组件框架 [Spectre CSS](https://picturepan2.github.io/spectre/)
 - [element3](https://github.com/kkbjs/element3) -用于Web的Vue.js 3.0 UI工具包基于element-ui
 - [superBVue](https://github.com/superbvue/SuperBVue) -Web的Vue 3 UI组件基于boostrap v5

@@ -64,7 +64,7 @@
 >
 > #### Game Boy Advance
 > 
-&gt; Game Boy Advance开发由另一个项目涵盖 [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) 清单.
+&gt; Game Boy Advance开发由另一个项目涵盖 [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) list.
  &gt; GBA，但是，*可以运行* GB / GBC游戏. 与本地硬件相比，这样做的方式略有不同：此列表的“模拟器开发”部分对此进行了介绍.
 >
 > #### Game Boy Color and Super Game Boy
@@ -170,7 +170,7 @@
 
 - [Introduction to Game Boy Hacking](http://pepijndevos.nl/sha2017/workshop.pdf) -讲习班，介绍基本的组装，调试和逆向工程.
 - [GBSOUND.txt](https://github.com/bwhitman/pushpin/blob/master/src/gbsound.txt) -详细说明Game Boy声音引擎的文档.
-- [gbdev FAQs](http://www.devrs.com/gb/files/faqs.html) -必须由Jeff Frohwein阅读.
+- [gbdev FAQs](http://www.devrs.com/gb/files/faqs.html) - Must read by Jeff Frohwein.
 - [Game Boy Bootrom](http://www.neviksti.com/DMG/DMG_ROM.asm) -评论了DMG bootrom的转储.
 - [Differences between the Z80 and the gameboy's processor](http://www.z80.info/z80gboy.txt)
 - [Gameboy 2BPP Graphics Format](http://www.huderlem.com/demos/gameboy2bpp.html) -有关Game Boy如何将VRAM切片数据解释为彩色像素的信息.
@@ -190,7 +190,7 @@
 - [binjgb rewind](https://binji.github.io/2017/12/31/binjgb-rewind.html) -实施*倒带功能.
 - [binjgb on the web](https://binji.github.io/2017/02/26/binjgb-on-the-web-part-1.html) -将binjgb仿真器移植到Web Assembly. [(Part 2)](https://binji.github.io/2017/02/27/binjgb-on-the-web-part-2.html)
 - [binjgb debugging hangs](https://binji.github.io/2017/05/03/debugging-hangs.html) -对仿真怪癖的调查.
-- [Decoding Gameboy Z80 opcodes](https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html) - How to algorithmically decode Game Boy instructions (as opposed to writing one huge switch-case statement).
+- [Decoding Gameboy Z80 opcodes](https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html) -如何对Game Boy指令进行算法解码（与编写一条巨大的switch-case语句相对）.
 - [Porting a GO Game Boy emulator to WebAssembly](https://djhworld.github.io/post/2018/09/21/i-ported-my-gameboy-color-emulator-to-webassembly/)
 - [About swotGB](https://mitxela.com/projects/swotgb/about) -有关使用JavaScript开发Game Boy模拟器的说明.
 - [List of open source emulators](EMULATORS.md)
@@ -344,12 +344,14 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [bootstrap.gb](https://github.com/yenatch/bootstrap.gb) -一个示例Game Boy项目.
 - [Gameboy Boilerplate](https://github.com/junebug12851/GameboyBoilerplateProj) -Boilerplate项目，可以更快地进入游戏的实际汇编代码.
 - [GingerBread](https://github.com/ahrnbom/gingerbread)  -用于制作自己的Game Boy游戏的软件库. 它可以与书一起使用 [Game Boy Assembly Programming for the Modern Game Developer](https://github.com/ahrnbom/gbapfomgd) 它也可以作为文档使用.
+- [gb-boilerplate](https://github.com/ISSOtm/gb-boilerplate) -用于启动Game Boy项目的模板，为基础结构提供Makefile.
+- [gb-starter-kit](https://github.com/ISSOtm/gb-starter-kit) -对上述内容的扩展，包括基本库代码，也可以更快上手.
 
 #### Syntax highlighting packages
 
 - [Atom language package for RGBASM](https://atom.io/packages/language-rgbasm) -RGBDS汇编的Atom语法突出显示.
 - [gbz80-highlight](https://github.com/ISSOtm/gbz80-highlight) -RGBDS汇编的Notepad +-和gedit语法突出显示文件.
-- [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
+- [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) -RGBDS汇编的Vim语法突出显示.
 - [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) -另一个用于RGBDS汇编的Vim语法突出显示文件.
 - [sublime-rgbds](https://packagecontrol.io/packages/RGBDS) -用于RGBDS的Sublime Text 3软件包，包括语法突出显示和一些完成摘要.
 - [Z80 Assembly support for Visual Studio Code](https://github.com/Imanolea/z80asm-vscode)
