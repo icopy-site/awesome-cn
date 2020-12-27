@@ -8,7 +8,7 @@
 
  Electron是一个开放源代码框架，用于使用Web技术创建桌面应用程序. 它结合了Chromium渲染引擎和Node.js运行时.
 
-**您现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.** 
+**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.** 
 
 <br>
 
@@ -212,7 +212,7 @@
 - [MockingBot](https://mockingbot.com) -用于设计应用程序的原型工具.
 - [Caret](http://caret.io) -Markdown编辑器.
 - [Wantedly Chat](https://www.wantedly.com/chat)  -业务团队聊天.  *（日本）*
-- [Remember](https://rememberapp.co.kr)  -名片管理.  *（韩文）*
+- [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) -官方的MongoDB应用程序.
 - [Freeter](https://freeter.io) -自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) -官方WhatsApp应用.
@@ -237,6 +237,7 @@
 - [Notion](https://notion.so) -便笺，任务，Wiki和数据库的多合一工作区.
 - [FATpick](https://www.fatpick.com) -吉他弹奏器查看器，可在演奏时为您的演奏评分.
 - [Taskade](https://www.taskade.com) -用于具有任务，注释和聊天功能的分布式团队的实时组织和协作工具.
+- [Coloban](https://www.coloban.com) -具有聊天，看板，甘特图，通话，屏幕共享等功能的多合一项目管理工具.
 
 ### Samples
 
@@ -279,7 +280,7 @@
 - [nuts](https://github.com/GitbookIO/nuts) -发布带有自动更新程序和GitHub作为后端的服务器.
 - [electron-dl](https://github.com/sindresorhus/electron-dl) -简化的文件下载.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) -具有前端和自动更新程序支持的自托管发布服务器.
-- [electron-rebuild](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+- [electron-rebuild](https://github.com/electron/electron-rebuild) -根据当前安装的Electron版本重建本机Node.js模块.
 - [electron-compile](https://github.com/electron/electron-compile) -在您的应用中使用ES2015，CoffeeScript，Less，手写笔，而无需预编译步骤.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) -将窗户放在公共位置.
 - [electron-window-state](https://github.com/mawie81/electron-window-state) -保持窗口大小和位置.

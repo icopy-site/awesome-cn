@@ -20,7 +20,7 @@
 
 ### Definition
 
- “ HTML &lt;canvas&gt;元素添加到HTML5中，可用于通过JavaScript脚本绘制图形.例如，它可用于绘制图形，制作照片构图，创建动画，甚至进行实时视频处理或渲染. ” 通过 [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+ “添加到HTML5中的HTML &lt;canvas&gt;元素可用于通过JavaScript脚本绘制图形.例如，它可用于绘制图形，制作照片构图，创建动画，甚至进行实时视频处理或渲染. ” 通过 [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 
 ### Examples
 
@@ -51,6 +51,7 @@
 * [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)]•使用画布创建的美丽粒子.
 * [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) [[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)]•除了是一个很好的例子，它还是有关使用画布制作的游戏的教程.
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) •使用画布创建的整个游戏
+* [PixelCraft](https://github.com/rgab1508/PixelCraft) •使用画布制作的像素艺术编辑器
 * [Raining Day](http://raphamorim.io/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments) ]•使用帆布的雨滴. 是Neatnait帆布雨叉.
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) •关于线条移动和动画的惊人示例.
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)]•有关使用画布创建星星延时天空的示例.

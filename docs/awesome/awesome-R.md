@@ -92,24 +92,37 @@
 ## Data Manipulation
 *烹饪数据包*
 
-* [haven](https://github.com/hadley/haven) -改进了在R中导入SPSS，Stata和SAS文件的方法.
 * [tidyr](https://github.com/hadley/tidyr) -通过传播和收集功能轻松整理数据.
 * [rlist](https://github.com/renkun-ken/rlist) -使用列表进行非表格数据处理的工具箱.
-* [jsonlite](https://github.com/jeroenooms/jsonlite) -在R中解析JSON文件的强大而快速的方法.
 * [ff](http://ff.r-forge.r-project.org/) -旨在存储大型数据集的数据结构.
 * [lubridate](https://github.com/tidyverse/lubridate) -与日期和时间一起使用的一组功能.
 * [bigmemory](https://github.com/kaneplusplus/bigmemory)  -共享内存和内存映射矩阵.  big \ *软件包提供了其他工具，包括线性模型（[biglm](http://cran.r-project.org/web/packages/biglm/index.html)）和随机森林（[bigrf](https://github.com/aloysius-lim/bigrf)).
 * [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) -在不完全匹配的情况下将表连接在一起.
 * [tidyverse](https://github.com/hadley/tidyverse) -从tidyverse轻松安装和加载软件包.
 * [snakecase](https://github.com/Tazinho/snakecase) -自动解析字符串并将其转换为类似蛇或骆驼的情况.
-* [vroom](https://github.com/r-lib/vroom) -快速读取分隔的文件
 * [DataExplorer](https://github.com/boxuancui/DataExplorer) -以最少的代码进行快速的探索性数据分析.
+
+## Data Formats
+*用于读取和写入不同格式数据的软件包.
+
+* [arrow <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://arrow.apache.org/docs/r/) -Arrow C ++库的接口.
+* [fst <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](www.fstpackage.org/fst/) -R的数据帧的快速闪电序列化.
+* [haven](https://github.com/hadley/haven) -改进了在R中导入SPSS，Stata和SAS文件的方法.
+* [jsonlite](https://github.com/jeroenooms/jsonlite) -在R中解析JSON文件的强大而快速的方法.
+* [qs](https://github.com/traversc/qs) -R对象的快速序列化.
+* [readxl <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://readxl.tidyverse.org/) -将Excel文件（.xls和.xlsx）读入R.
+* [rio](https://github.com/leeper/rio) -用于数据I / O的瑞士军刀.
+* [readODS](https://github.com/chainsawriot/readODS/) -将OpenDocument电子表格作为data.frames读入R.
+* [RcppTOML](https://github.com/eddelbuettel/rcpptoml) -Rcpp绑定到TOML文件的C ++解析器.
+* [vroom](https://github.com/r-lib/vroom) -快速读取分隔的文件.
+* [writexl](https://docs.ropensci.org/writexl/) -便携式，轻量级的数据帧，用于R的xlsx导出器.
+* [yaml](https://github.com/viking/r-yaml) - R package for converting objects to and from YAML.
 
 
 ## Graphic Displays
 *用于显示数据的软件包.
 
-* [ggfortify](https://github.com/sinhrks/ggfortify) - A unified interface to ggplot2 popular statistical packages using one line of code.
+* [ggfortify](https://github.com/sinhrks/ggfortify) -使用一行代码到ggplot2流行统计软件包的统一接口.
 * [ggrepel](https://github.com/slowkow/ggrepel) -排斥彼此重叠的文本标签.
 * [ggalt](https://github.com/hrbrmstr/ggalt) -ggplot2的额外坐标系，几何和统计转换.
 * [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) -具有统计详细信息的基于ggplot2的图
@@ -149,7 +162,7 @@
 * [scatterD3](https://github.com/juba/scatterD3) -与D3的交互式散点图.
 * [rbokeh](http://hafen.github.io/rbokeh/) -R接口 [Bokeh](http://bokeh.pydata.org/en/latest/).
 * [threejs](https://github.com/bwlewis/rthreejs) -交互式3D散点图和地球仪.
-* [timevis](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
+* [timevis](https://github.com/daattali/timevis) -创建完全交互式的时间轴可视化.
 * [visNetwork](https://github.com/datastorm-open/visNetwork) -使用vis.js库进行网络可视化.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) -到wordcloud2.js的R接口.
 * [highcharter](https://github.com/jbkunst/highcharter) -基于htmlwidgets的highcharts的R包装器
@@ -287,7 +300,7 @@ Friedman
 boosting
 * [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) -GAMLSS的提升方法
 * [gbm](http://cran.r-project.org/web/packages/gbm/index.html) -广义Boosted回归模型
-* [glmnet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/glmnet/index.html) - Lasso and elastic-net regularized generalized linear models
+* [glmnet <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/glmnet/index.html) -套索和弹性网正则化广义线性模型
 * [glmpath](http://cran.r-project.org/web/packages/glmpath/index.html) -广义线性模型和Cox的L1正则化路径
 比例危害模型
 * [GMMBoost](http://cran.r-project.org/web/packages/GMMBoost/index.html) -广义混合模型的基于似然性的Boosting
@@ -370,7 +383,7 @@ R中的搜索链（MA-LS链）
 * [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) -用于文本分析的R包.
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) -单词频率分布的统计模型.
 * [NLP](http://cran.r-project.org/web/packages/NLP/index.html) -自然语言处理的基本功能.
-* [LDAvis](https://github.com/cpsievert/LDAvis) -主题模型的交互式可视化.
+* [LDAvis](https://github.com/cpsievert/LDAvis) - Interactive visualization of topic models.
 * [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) -由David M. Blei为主题建模（潜在狄利克雷分配（LDA）和相关主题模型（CTM））开发的C代码的主题建模接口.
 * [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) -使用三种不同的情感词典从文本中提取情感.
 * [SnowballC](https://cran.rstudio.com/web/packages/SnowballC/index.html) -基于C libstemmer UTF-8库的Snowball stemmers.
@@ -447,12 +460,12 @@ R中的搜索链（MA-LS链）
 ## Spatial
 *探索地球的包裹.*
 
-* [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)-空间分析相关资源.
+* [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)- Spatial Analysis related resources.
 * [Leaflet](http://rstudio.github.io/leaflet/) -最受欢迎的JavaScript库交互式地图之一.
 * [ggmap](https://github.com/dkahle/ggmap) -用ggplot2在R中绘制地图.
 * [REmap](https://github.com/Lchiffon/REmap) -JavaScript库ECharts的R接口，用于交互式地图数据可视化.
 * [sf](https://cran.r-project.org/web/packages/sf/index.html) -改进的空间数据类和方法.
-* [sp](https://edzer.github.io/sp/) - Classes and Methods for Spatial Data.
+* [sp](https://edzer.github.io/sp/) -空间数据的类和方法.
 * [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) -几何引擎接口-开源
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) -地理空间数据抽象库的绑定
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html) -读取和处理空间对象的工具
@@ -558,7 +571,7 @@ R中的搜索链（MA-LS链）
 * [_Advanced R_, 2nd ed. by Hadley Wickham (2019) <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://adv-r.hadley.nz/) -Advanced R图书的在线版本.
 * [_R Packages_, 2nd ed. by Hadley Wickham & Jennifer Bryan](https://r-pkgs.org/) -编写R包的书（纸质和网站格式）.
 *作为约翰霍普金斯大学数据科学专业知识的一部分撰写的书籍：
-  * [_Exploratory Data Analysis with R_ by Roger D. Peng (2016)](https://leanpub.com/exdata) -R中各种数据的基本分析技能.
+  * [_Exploratory Data Analysis with R_ by Roger D. Peng (2016)](https://leanpub.com/exdata) - Basic analytical skills for all sorts of data in R.
   * [_R Programming for Data Science_ by Roger D. Peng (2019)](https://leanpub.com/rprogramming) -依赖R编程的更高级的数据分析.
   * [_Report Writing for Data Science in R_ by Roger D. Peng (2019)](https://leanpub.com/reportwriting) -基于R的可重现研究和报告生成方法.
 * [_R for SAS and SPSS users_ by Bob Muenchen (2012)](http://r4stats.com/books/free-version/) -对于已经熟悉SAS或SPSS的用户而言，这是一个极好的资源.
@@ -571,7 +584,7 @@ R中的搜索链（MA-LS链）
 
 * [The Art of R Programming](http://shop.oreilly.com/product/9781593273842.do) -这是用于系统学习基础知识（例如对象类型，控制语句，变量作用域，类和R中的调试）的良好资源.
 * [_R Cookbook_, 2nd ed. by JD Long & Paul Teetor (2019)](http://shop.oreilly.com/product/0636920174851.do) -快速简单地介绍如何使用R进行许多常见的统计任务.
-* [R in Action](http://www.manning.com/kabacoff2/) -本书针对所有级别的用户，包括从“探索R数据结构”到运行回归和进行因子分析的入门，中级和高级R的部分.
+* [R in Action](http://www.manning.com/kabacoff2/) -本书面向所有级别的用户，其初级，中级和高级R部分从“探索R数据结构”到运行回归和进行因子分析不等.
 * [_Use R!_ Series by Springer](http://www.springer.com/series/6991?detailsPage=titles)  -斯普林格（Springer）的这一系列廉价且专注的书籍出版了针对从业者的较短书籍. 书籍可以讨论R在特定主题领域的使用，例如贝叶斯网络，ggplot2和Rcpp.
 * [Learning R Programming](https://www.packtpub.com/big-data-and-business-intelligence/learning-r-programming) -从基础到高级主题学习R作为一种编程语言.
 
@@ -626,7 +639,7 @@ R中的搜索链（MA-LS链）
 R社区和软件包集合（按字母顺序）：
 
  * [rOpenGov](http://ropengov.github.io/) 开放政府数据，计算社会科学，数字人文科学
- * [rOpenHealth](https://github.com/rOpenHealth) 公共卫生数据
+ * [rOpenHealth](https://github.com/rOpenHealth) Public health data
  * [rOpenSci](https://ropensci.org) 开放科学
 
 ## 2018
@@ -643,7 +656,7 @@ R社区和软件包集合（按字母顺序）：
 
 * [prophet](https://github.com/facebookincubator/prophet) -用于为具有多个季节性且线性或非线性增长的时间序列数据生成高质量预测的工具.
 * [tidyverse](https://github.com/tidyverse/tidyverse) -从tidyverse轻松安装和加载软件包
-* [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+* [purrr](https://github.com/tidyverse/purrr) -用于R的功能性编程工具包
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) -以印刷为中心的固执己见的ggplot2主题和主题组件
 * [xaringan](https://github.com/yihui/xaringan) -使用R Markdown和JavaScript库创建HTML5幻灯片
 * [blogdown](https://github.com/rstudio/blogdown) -使用R Markdown创建博客和网站

@@ -202,7 +202,8 @@
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) -简单的CLI工具可启动
   本地Polkadot测试网络.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) -一组有用
-  使用Polkadot.js API的Substrate Java实用程序.
+  用于使用Polkadot {JS} API的Substrate的JavaScript实用程序. 也
+  [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) -图
   FRAME托盘的基准输出.
 - [`substrate-balance-calculator`](https://github.com/shawntabrizi/substrate-balance-calculator) - 分解
@@ -211,7 +212,7 @@
   基板地址的令牌余额随时间变化的图表.
 - [`polkadot-js-bundle`](https://github.com/shawntabrizi/polkadot-js-bundle) -独立的JS
   包含Polkadot {JS}库的软件包.
-- [`substrate-staking`](https://github.com/shawntabrizi/substrate-society) -的基本前端
+- [`substrate-society`](https://github.com/shawntabrizi/substrate-society) -的基本前端
   FRAME协会托盘.
 - [Aleph.im](https://aleph.im) -可扩展，去中心化的数据库，文件存储和计算
   为底物链等提供服务.

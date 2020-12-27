@@ -19,7 +19,7 @@
 
 精选的优秀命令行框架，工具包，指南和小玩意的列表. 受到awesome-php的启发. 这个很棒的收藏也可以在 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 -[** Awesome Zsh **] [awesome-zsh] [！[Awesome] [awesome-badge]] [awesome-zsh]
-- [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
+-[** Awesome Fish **] [awesome-fish] [！[Awesome] [awesome-badge]] [[awesome-fish]
 
 ## Shells
 
@@ -27,6 +27,7 @@
 
 * [bash](https://www.gnu.org/software/bash/) -GNU工程的外壳（Bourne Again SHell）
 * [elvish](https://elv.sh/) -友好，富有表现力的外壳功能，例如匿名函数和数据结构
+* [es](https://wryun.github.io/es-贝壳/) -基于计划9的可扩展外壳 [rc](https://github.com/rakitzis/rc) 贝壳
 * [fish](https://fishshell.com) -智能和用户友好的命令行外壳
 * [ion](https://github.com/redox-os/ion)  -具有简单但功能强大的语法的现代系统外壳. 它完全用Rust编写.
 * [ksh93](https://github.com/att/ast) -康恩·壳
@@ -56,7 +57,7 @@
 * [borg](https://github.com/ok-borg/borg) -基于终端的bash命令搜索引擎
 * [browsh](https://github.com/browsh-org/browsh) -现代的基于文本的浏览器
 * [Buku](https://github.com/jarun/Buku) -强大的命令行书签管理器
-* [byobu](https://www.byobu.org) - Text-based window manager and terminal multiplexer
+* [byobu](https://www.byobu.org) -基于文本的窗口管理器和终端多路复用器
 * [cod](https://github.com/dim-an/cod) — Shell的完成守护程序，可在调用`--help`命令时学习
 * [CloudClip](https://github.com/skywind3000/CloudClip) -您在云端的剪贴板，在不同系统之间根据要点复制和粘贴文本
 * [ddgr](https://github.com/jarun/ddgr) -来自终端的DuckDuckGo
@@ -71,7 +72,7 @@
 * [funky](https://github.com/bbugyi200/funky) -扩展外壳函数的功能，使其更强大，更灵活.
 * [fz](https://github.com/changyuheng/fz) -z的无缝模糊制表符完成
 * [fzf](https://github.com/junegunn/fzf) -命令行模糊查找器
-* [gitmux](https://github.com/arl/gitmux) -在Tmux状态栏中显示Git状态
+* [gitmux](https://github.com/arl/gitmux) - Show Git status in Tmux status bar
 * [googler](https://github.com/jarun/googler) -终端机上的Google搜索，Google站点搜索，Google新闻
 * [googlr](https://github.com/Astranno/googlr) -命令行工具，可让您从终端上搜索Google.
 * [has](https://github.com/kdabir/has) -`has&#39;可帮助您检查路径中是否存在各种命令行工具及其版本
@@ -123,7 +124,7 @@
 * [wemux](https://github.com/zolrath/wemux) -简化多用户Tmux
 * [xiki](https://xiki.org) -使Shell控制台更加友好和强大
 * [xsv](https://github.com/BurntSushi/xsv) -用Rust编写的快速CSV命令行工具包
-* [xxh](https://github.com/xxh/xxh) -无论您通过SSH到哪里，都可以带上自己喜欢的外壳.
+* [xxh](https://github.com/xxh/xxh) -无论您通过SSH到哪里，都可以携带自己喜欢的外壳.
 
 ### Directory Navigation
 
@@ -186,7 +187,7 @@
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) -Git快速统计信息是一种访问git存储库中各种统计信息的简单有效的方法.
 * [git-semver](https://github.com/markchalloner/git-semver) -Git插件，用于简化语义版本控制和变更日志验证
 * [git-sh](https://github.com/rtomayko/git-sh) -适合Git工作的自定义Bash环境
-* [hub](https://github.com/github/hub) -集线器可帮助您在git上获胜.
+* [hub](https://github.com/github/hub) - hub helps you win at git.
 * [licins](https://github.com/dogoncouch/licins) -将注释的软件许可证插入源代码.
 * [mkdkr](https://github.com/rosineygp/mkdkr) - Makefile + Docker = CI Pipeline
 * [mr](https://myrepos.branchable.com) -多个存储库管理工具
@@ -195,9 +196,9 @@
 * [rebound](https://github.com/shobrook/rebound) -遇到编译器错误时，立即在终端中浏览Stack Overflow结果
 * [repren](https://github.com/jlevy/repren) -命令行搜索和替换文件重命名的瑞士军刀
 * [slap](https://github.com/slap-editor/slap) -在Node.js上运行的类似Sublime的基于终端的文本编辑器
-* [shipit](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
+* [shipit](https://github.com/sapegin/shipit) -简约的SSH部署
 * [starring](https://github.com/ritz078/starring) -自动为您在GitHub上使用的npm-package加上星号.
-* [tag](https://github.com/aykamko/tag) -立即跳转到您的AG比赛.
+* [tag](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
 * [wipe-modules](https://github.com/bntzio/wipe-modules) -删除非活动项目的node_modules文件夹的小代理
 
 ## System Utilities
@@ -263,7 +264,7 @@
 * [jo](https://github.com/jpmens/jo) -一个小实用程序，可从命令行参数创建JSON对象.
 * [jq](https://github.com/stedolan/jq)  -读取json数据. 您可以使用它来切片和过滤以及映射和转换结构化数据
 * [korkut](https://github.com/oguzhaninan/korkut) -在命令行中进行快速简单的图像处理.
-* [mpv](https://mpv.io/) -使您可以在外壳程序和GUI中播放大多数音频和视频格式（使用ASCII字符）.
+* [mpv](https://mpv.io/) -使您可以在外壳和GUI中播放大多数音频和视频格式（使用ASCII字符）.
 * [nehm](https://github.com/bogem/nehm) -控制台工具，可以方便地下载，设置IDv3标签并将其添加到iTunes（如果使用的话），从而使您的SoundCloud喜欢
 * [PiCAST](https://github.com/lanceseidman/PiCAST) -PiCAST可将您$ 35的Raspberry Pi转换成类似设备的Chromecast
 * [sejda](https://github.com/torakiki/sejda/) -PDF文档的命令行操作（拆分，合并，旋转，转换为jpg，提取文本等）
@@ -281,6 +282,7 @@
 * [carbon-now-cli](https://github.com/mixn/carbon-now-cli) -代码的精美图片-从终端内部直接显示.
 * [choosealicense-cli](https://github.com/lord63/choosealicense-cli) -在舒适的终端上选择OSS许可证
 * [cointop](https://github.com/miguelmota/cointop) -最快，最互动的基于终端的UI应用程序，用于跟踪加密货币
+* [dstask](https://github.com/naggie/dstask) -单个基于二进制终端的TODO管理器，每个任务具有基于git的同步+降价注释
 * [facebook-cli](https://github.com/specious/facebook-cli) -Facebook命令行工具
 * [fanyi](https://github.com/afc163/fanyi) -在终端中将英语翻译成中文
 * [gcalcli](https://github.com/insanum/gcalcli) -Google日历命令行界面
@@ -365,7 +367,7 @@
 * [mo](https://github.com/tests-always-included/mo) -纯bash的胡须模板
 * [optparse](https://github.com/nk412/optparse) -用于getopts的BASH包装器，用于简单的命令行参数.
 * [rerun](https://github.com/rerun/rerun) -模块化的shell自动化框架，用于组织您的keeper脚本
-* [revolver](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
+* [revolver](https://github.com/molovo/revolver) -Shell脚本的可重用进度微调器
 * [phases](https://github.com/sorokine/phases) -微创bash预处理器，选择要运行的脚本部分
 * [powscript](https://github.com/coderofsalvation/powscript) -用bash编写的bash编译器（bash的咖啡脚本）
 * [semver_bash](https://github.com/cloudflare/semver_bash) -Bash中的语义版本控制
@@ -409,6 +411,6 @@
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]：https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-fish]：https://github.com/jorgebucaran/awesome.fish
+[真棒鱼]：https://github.com/jorgebucaran/awsm.fish
 [awesome-link]：https://github.com/sindresorhus/awesome
 [awesome-zsh]：https://github.com/unixorn/awesome-zsh-plugins

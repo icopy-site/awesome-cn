@@ -47,7 +47,7 @@
 
 * [RDKit](http://www.rdkit.org/) -用C ++和Python编写的化学信息学和机器学习软件的集合.
 * [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
-* [CDK (Chemistry Development Kit)](https://sourceforge.net/projects/cdk/) - Algorithms for structural chemo- and bioinformatics, implemented in Java.
+* [CDK (Chemistry Development Kit)](https://sourceforge.net/projects/cdk/) -用Java实现的结构化学信息和生物信息学算法.
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) -Cheminformatics软件包，用于分析R中类似药物的小分子数据.
 * [ChemPy](https://github.com/bjodah/chempy) -对化学有用的Python软件包（主要是物理/无机/分析化学）
 * [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) -在Julia中完全实现的基于图的分子建模和化学信息学分析工具包
@@ -55,7 +55,7 @@
 <a id="lib-format"></a>
 ### Format Checking
 
-* [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) -设计用于提供标准化分子的简单方法的工具，例如作为分子建模练习的序幕.
+* [ChEMBL_Structure_Pipeline (formerly standardiser)](https://github.com/chembl/ChEMBL_Structure_Pipeline) -设计用于提供标准化分子的简单方法的工具，例如作为分子建模练习的序幕.
 * [MolVS](https://github.com/mcs07/MolVS) -基于分子的验证和标准化 [RDKit](http://www.rdkit.org/).
 * [rd_filters](https://github.com/PatWalters/rd_filters) -使用RDKit和ChEMBL运行结构警报的脚本
 
@@ -81,9 +81,11 @@
 ### Machine Learning
 
 * [DeepChem](https://github.com/deepchem/deepchem) -基于Tensorflow的化学深度学习库
+* [ChemML](https://github.com/hachmannlab/chemml)  -ChemML是一种机器学习和信息学程序套件，用于化学，材料数据的分析，挖掘和建模.  （基于Tensorflow）
 * [OpenChem](https://github.com/Mariewelt/OpenChem) -OpenChem是具有PyTorch后端的用于计算化学的深度学习工具包.
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) -生物学和化学深度学习图书馆.
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) -PyTorch库提供了许多图卷积算法的实现.
+* [chemmodlab](https://github.com/jrash/ChemModLab) -在R中装配和评估机器学习模型的化学信息学建模实验室.
 
 <a id="lib-web"></a>
 ### Web APIs
@@ -108,7 +110,7 @@
 ### Molecular Dynamics
 
 * [Gromacs](http://www.gromacs.org/) -分子动力学软件包，主要用于模拟蛋白质，脂质和核酸.
-* [OpenMM](http://openmm.org/) -用于分子模拟的高性能工具包，包括适用于Python，C，C ++甚至Fortran的广泛语言绑定.
+* [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [NAMD](https://www.ks.uiuc.edu/Research/namd/) -为大型生物分子系统的高性能仿真而设计的并行分子动力学代码.
 * [MDTraj](https://github.com/mdtraj/mdtraj) -分子动力学轨迹分析.
 * [cclib](https://github.com/cclib/cclib) -用于计算化学日志文件的解析器和算法.
@@ -117,7 +119,7 @@
 ### Others
 
 * [eiR](https://github.com/girke-lab/eiR) -加快小分子的相似性搜索
-* [OPSIN](https://bitbucket.org/dan2097/opsin/downloads/) -用于系统IUPAC命名法的开放解析器
+* [OPSIN](https://github.com/dan2097/opsin) -用于系统IUPAC命名法的开放解析器
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) -以Python为中心的Cookiecutter，用于分子计算化学软件包，作者： [MolSSL](https://molssi.org/)
 
 ## Journals
@@ -132,7 +134,7 @@
 * [Learncheminformatics.com](http://learncheminformatics.com/) -印第安那大学的“化学信息学：在化学数据世界中导航”.
 * [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) -使用开源软件包和数据进行计算机辅助药物设计（CADD）的教学平台.
-* [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)％3A_Chem_4399％2F％2F5399）-罗伯特·贝尔福德（Robert Belford）的阿肯色大学小石城分校化学信息学课程（2017年春季）
+* [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)）-罗伯特·贝尔福德（Robert Belford）的阿肯色大学小石城分校在线协作大学化学在线课程（OLCC）的化学信息学课程
 * [BigChem](http://bigchem.eu/alllectures) -的所有讲座 [BigChem](http://bigchem.eu/) （Horizo​​n 2020 MSC ITN EID项目提供了有关大型化学数据分析的创新教育.）
 * [Molecular modeling course](https://dasher.wustl.edu/chem478/) -由Dr. [Jay Ponder](https://dasher.wustl.edu/)是华盛顿大学圣路易斯分校的教授.
 * [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) -由Dr. [Jay Ponder](https://dasher.wustl.edu/)是华盛顿大学圣路易斯分校的教授.
@@ -149,12 +151,14 @@
  *一些旧博客 [1](https://rguha.wordpress.com/) [2](http://www.rguha.net/index.html).
 * [Noel O'Blog](http://baoilleach.blogspot.tw/) -的博客 [Noel O'Boyle](https://www.redbrick.dcu.ie/~noel/)，他是NextMove Software的高级软件工程师.
 * [chem-bla-ics](http://chem-bla-ics.blogspot.tw/) -的博客 [Egon Willighagen](http://egonw.github.io/)是马斯特里赫特大学的助理教授.
+<!---
 * [Asad's Blog](https://chembioinfo.com/) -Syed Asad Rahman的Bolg，他是 [Thornton group](http://www.ebi.ac.uk/research/thornton) 在EMBL-EBI.
+-->
 * [steeveslab-blog](http://asteeves.github.io/) -一些使用示例 [RDKit](http://www.rdkit.org/).
 * [Macs in Chemistry](http://www.macinchem.org/) -为使用Apple Macintosh计算机的化学家提供资源.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) -的博客 [Andreas Bender](http://www.andreasbender.de/)，是剑桥大学分子信息学的读者.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) -化学信息学库的一些示例.
-* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，协作药物发现公司（Collaborative Drug Discovery）的研究科学家.
+* [Cheminformatics 2.0](https://cheminf20.org/) -的博客 [Alex M. Clark](https://twitter.com/aclarkxyz)，协作药物发现研究科学家.
 * [Depth-First](https://depth-first.com/) -的博客 [Richard L. Apodaca](https://depth-first.com/about/)是居住在加利福尼亚州拉荷亚的化学家.
 
 ### Books
@@ -167,7 +171,7 @@
 ## See Also
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) -深度学习生物学库中的化学信息学和药物发现部分.
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个列表重点关注与化学相关的Python内容.
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) -另一个清单着重于与化学有关的Python内容.
 * [MolSSI Molecular Software Database](https://molssi.org/software-search/)
 ＊[Pages created by Tobias Kind, PhD](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)
 
