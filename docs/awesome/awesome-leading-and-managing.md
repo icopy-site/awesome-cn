@@ -3,17 +3,17 @@
 ## Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## What This Is, and Where It Comes From
-自2013年以来， [Joe Goldberg](https://twitter.com/tenaciousjoe) ，他创建了启发该列表的原始文档，阅读了很多有关“领导力”和“管理”的书籍和文章，并在整个过程中做了笔记.  他与正在转为管理职位的朋友分享了该文档，并最终决定将其开源. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut)，其中提供了您可以在此处找到的文章的摘要，以及许多补充说明.
+自2013年以来， [Joe Goldberg](https://twitter.com/tenaciousjoe) ，他创建了启发该列表的原始文档，阅读了很多有关“领导力”和“管理”的书籍和文章，并在整个过程中做了笔记. 他与正在过渡到管理职位的朋友分享了该文档，并最终决定将其开源. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut)，其中提供了您可以在此处找到的文章的摘要，以及许多补充说明.
 
-2017年夏季 [Lauri Apple](https://twitter.com/lauri_apple) 通过以下方式找到有关乔的文档的信息 [Software Lead Weekly](http://softwareleadweekly.com/)  问乔关于将内容发布到GitHub的问题.  他给了绿灯.  劳里（Lauri）修改了格式（非常简短的内容），将文档变成了 [Awesome List](https://github.com/sindresorhus/awesome) ，并且自此以后继续添加新条目.  Lauri的前同事团队帮助完成了最初的上传 [Zalando](https://jobs.zalando.com/tech/) .  这些天列表收到 [contributions](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) 来自世界各地的人们.
+2017年夏季 [Lauri Apple](https://twitter.com/lauri_apple) 通过以下方式找到有关乔的文档的信息 [Software Lead Weekly](http://softwareleadweekly.com/) 问乔关于将内容发布到GitHub的问题. 他给了绿灯. 劳里（Lauri）修改了格式（非常简短的内容），将文档变成了 [Awesome List](https://github.com/sindresorhus/awesome) ，并从那时起继续添加新条目.  Lauri的前同事团队帮助完成了最初的上传 [Zalando](https://jobs.zalando.com/tech/) . 这些天列表收到 [contributions](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) 来自世界各地的人们.
 
  -“资源真棒！”  —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178)， 推特
 -“再次感谢您整合了这一巨大资源！”[Dave Golden](https://twitter.com/xdg)，MongoDB和贡献者
--“在过去的几个月中，我已经反复狩猎并使用了这种材料，并将许多其他材料推荐给该材料.谢谢您-它以比您想象的更多的方式产生了真正的改变！:)”-戴夫·伊戈伊
+-“在过去的几个月中，我已经反复狩猎并使用了这种材料，并将许多其他材料推荐给该材料.谢谢您-它以比您想象的更多的方式产生了真正的改变！:)”
 
  -“如果我进一步了解的话，那就是站在巨人的肩膀上.”  —艾萨克·牛顿爵士
  -“如果我还没有看到，那是因为巨人站在我的肩膀上.”  -很多人，包括Leigh Caplan
- -“人们需要停止使用“天生的领导者”一词.  没有人是天生的领导者.”  — [Kate Heddleston](https://twitter.com/heddle317) 
+ -“人们需要停止使用“天生的领导者”一词. 没有人是天生的领导者.”  — [Kate Heddleston](https://twitter.com/heddle317) 
 
 - [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
@@ -21,7 +21,7 @@
 - [Conflict Prevention and Conflict Resolution](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
 - [The CTO Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/The-CTO-role.md)
 - [Culture](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Culture.md)
-- [Decision-Making](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Decision-Making.md)
+- [Decision-Making and Prioritization](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Decision-Making-and-Prioritization.md)
 - [Delegation](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Delegation.md)
 - [Diversity and Inclusion](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Diversity-and-Inclusion.md)
 - [Empathy and Listening](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Empathy-and-Listening.md)
@@ -59,13 +59,13 @@
 -过渡到元管理的经理（管理经理）
 
 ### How can I submit a link or ask a question?
- 很高兴你问！  通过查看以下内容来分享和推广您喜欢的管理和领先资源/入门指南（书籍，文章，Twitter提要，视频等）. [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) ，然后提出拉取请求（每个项目/条目一个）.  如有疑问，请继续并在问题跟踪器中发布问题. 
+很高兴你问！ 通过查看以下内容来共享和推广您喜欢的管理和领先资源/入门指南（书籍，文章，Twitter提要，视频等）. [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) ，然后提出拉取请求（每项/每项一次）. 如有问题，请继续并在问题跟踪器中发布问题. 
 
 ### How can I get more info on [missing topic]?
 如果您想要此列表包含一个主题，请通过问题跟踪器发出请求.
 
 ### Did you write all this yourself? (Credit/Attribution)
- 此列表中共享的内容几乎都不是作者提供的.  在有链接的地方，其下面的内容通常是链接网页的摘要.  没有链接时，它要么是原始内容，要么是信誉/归属.  一些书摘来自 [Personal MBA](https://personalmba.com/)，乔对此进行了试点并进行了咨询，但是并没有达到他愿意为其内容归功的程度.
+此列表中共享的内容几乎都不是作者提供的. 在有链接的地方，其下面的内容通常是链接网页的摘要. 没有链接时，它要么是原始内容，要么是功劳/归属. 一些书摘来自 [Personal MBA](https://personalmba.com/)，乔对此进行了试点和咨询，但并没有达到他愿意为其中的内容所称赞的程度.
 
 ### License
 

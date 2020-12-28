@@ -57,7 +57,7 @@
 
 ## Dart
 
-- [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
+- [dart.dev](https://github.com/dart-lang/site-www/labels/beginner)  _（标签：初学者）_<br> 一个涵盖Dart语言和公共库的网站，面向Dart库，Web应用程序，服务器端代码和移动（Flutter）应用程序的开发人员.
 
 ## Elixir
 
@@ -106,7 +106,7 @@
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue)  _（标签：好第一期）_<br> 适用于移动设备的交互式地图的JavaScript库.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only)  _（标签：仅限初学者）_<br> 拖放是如此简单，很痛苦.
 - [history](https://github.com/rackt/history/labels/good-for-beginner)  _（标签：初学者）_<br>  JavaScript的最小功能历史记录库.
-- [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor)  _（标签：初次贡献者）_<br> 通过在许多JavaScript应用程序中实现Todo来帮助您选择MV \ *框架.
+- [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV\* framework by implementing Todo in lots of JavaScript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22)  _（标签：入门错误）_<br>  Web的开放源代码编辑器，用JavaScript，HTML和CSS编写.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner)  _（标签：适合初学者）_<br> 未来派的测试跑步者.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick)  _（标签：轻松选择）_<br> 离线优先JavaScript客户端，利用 [Kinto API](http://kinto.readthedocs.org/) 用于远程数据同步.
@@ -129,7 +129,7 @@
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：好第一期）_<br> 快速，可靠和安全的依赖关系管理.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy)  _（标签：难度：容易）_<br>  2D JavaScript渲染器
 - [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue)  _（标签：好第一期）_<br> 通用服务器渲染的React应用程序的简约框架
-- [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
+- [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20issue)  _（标签：好第一期）_<br> 用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架. 基于Express和MongoDB构建.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：好第一期）_<br> 语义UI的官方React集成.
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：好第一期）_<br> 使用JavaScript，HTML和CSS构建跨平台的桌面应用程序
 - [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue)  _（标签：好第一期）_<br> 打造出色机器人的唯一明智的方法.
@@ -140,7 +140,7 @@
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：好第一期）_<br> 使用Web技术构建的开源屏幕录像机
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted)  _（标签：需要帮助）_<br> 浏览器扩展，可增强Reddit浏览体验.
 - [Brave Browser](https://github.com/brave/brave-browser/labels/good%20first%20bug)  _（标签：良好的第一个错误）_<br> 适用于macOS，Windows和Linux的桌面浏览器.
-- [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue)  _（标签：好第一期）_<br> 用于Node.js的快速，低开销的Web框架.
+- [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue) _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：好第一期）_<br> 基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：好第一期）_<br> 完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：抢钱，难度：1 /简单，技术/ JavaScript）_<br>  Golang和React中的开源Slack替代方案
@@ -182,11 +182,11 @@ Habitica是一个游戏化的任务管理器，webapp和android / ios app，真�
 - [Letra Extension](https://github.com/jayehernandez/letra-extension/labels/good%20first%20issue)  _（标签：好第一期）_<br> 每次打开新标签时，都会被动地学习新语言.
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev/labels/good%20first%20issue)  _（标签：好第一期）_<br> 为开发者带来机遇.
 - [webdriver.io](https://github.com/webdriverio/webdriverio/labels/first-timers-only)  _（标签：仅限初学者）_<br> 适用于Node.js的下一代浏览器和移动自动化测试框架 
-- [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue)  _（标签：好第一期）_<br> 免费的在线队列管理器，可轻松，即时地控制人群. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
+- [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue) _(label: good first issue)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
 
 ## Julia
 
-- [Julia Language: Help wanted](https://github.com/JuliaLang/julia/labels/help%20wanted)  _（标签：需要帮助）_<br>  “像Python一样移动，像C一样运行”-一种新的技术计算方法！
+- [Julia Language: Help wanted](https://github.com/JuliaLang/julia/labels/help%20wanted) _(label: help wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Good first issue](https://github.com/JuliaLang/julia/labels/good%20first%20issue)  _（标签：第一期好）_<br>  “像Python一样移动，像C一样运行”-一种新的技术计算方法！
 
 ## Kotlin
@@ -214,7 +214,7 @@ Habitica是一个游戏化的任务管理器，webapp和android / ios app，真�
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：初学者）_<br> 用于PHP项目的开源自托管持续集成服务器.
 - [Drupal](https://www.drupal.org/getting-involved-guide)  _（标签：N / A，链接到外部网站）_<br> 领先的开源CMS提供雄心勃勃的数字体验，可通过多种渠道吸引您的受众.
 - [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue)  _（标签：好第一期）_<br>  Symfony是用于Web应用程序的PHP框架和一组可重用的PHP组件.
-- [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue) _(label: good first issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
+- [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue)  _（标签：好第一期）_<br> 一个软件包，提供了将MailChimp与Laravel 5集成的简便方法.
 - [Appwrite](https://github.com/appwrite/appwrite/labels/good%20first%20issue)  _（标签：好第一期）_<br> 面向前端和移动开发人员的端到端后端服务器. 
 - [NextCloud Server](https://github.com/nextcloud/server/labels/good%20first%20issue)  _（标签：好第一期）_<br>  Nextcloud服务器，所有数据的安全之家.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue)  _（标签：好第一期）_<br> 开源电子商务解决方案，可开始您的在线业务并开始在线销售.
@@ -303,11 +303,12 @@ Habitica是一个游戏化的任务管理器，webapp和android / ios app，真�
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue)  _（标签：好第一期）_<br>  JavaScript的超集，可编译为干净的JavaScript输出.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue)  _（标签：好第一期）_<br> 一种新型工具，结合了代码编辑器的简单性和开发人员对其核心edit-build-debug周期的需求.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution)  _（标签：不错的第一笔捐款）_<br>  TSLint的ESLint规则.
-- [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
+- [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue)  _（标签：好第一期）_<br>  Reatom是声明式和反应式状态管理器，设计用于简单和复杂的应用程序.
 - [game-of-life](https://github.com/TroyTae/game-of-life/labels/good%20first%20issue)  _（标签：好第一期）_<br> 康威的《人生游戏》网络版！
 - [Graphback](https://github.com/aerogear/graphback/labels/good%20first%20issue)  _（标签：好第一期）_<br> 一个CLI和运行时框架，可在几秒钟内生成GraphQL API.
 - [LitmusChaos](https://github.com/litmuschaos/litmus/labels/good%20first%20issue)  _（标签：好第一期）_<br>  Litmus是进行云原生混沌工程的工具集.
 - [Booster](https://github.com/boostercloud/booster/labels/good%20first%20issue)  _（标签：好第一期）_<br> 一个真正的无服务器框架，无需任何服务器配置文件，即可编写代码并在几秒钟内部署它.
+- [tinyhttp](https://github.com/talentlessguy/tinyhttp/labels/good%20first%20issue)  _（标签：好第一期）_<br>  0旧式，小巧，快速的Web框架，用于替代Express.
 
 ## Contribute
 

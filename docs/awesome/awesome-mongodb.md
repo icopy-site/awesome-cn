@@ -177,9 +177,8 @@ Services:
  - [mongo-connector](https://github.com/yougov/mongo-connector) -流复制到Elasticsearch，Solr或MongoDB
  - [mongo_fdw](https://github.com/EnterpriseDB/mongo_fdw) -PostgreSQL外部数据包装器
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) -Hadoop连接器
- - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
+ - [Mongolastic](https://github.com/ozlerhakan/mongolastic) -从MongoDB到Elasticsearch的迁移工具（反之亦然）
  - [MongoMultiMaster](https://github.com/rick446/mmm) -多原版复制
- - [MoSQL](https://github.com/stripe/mosql) -流复制到PostgreSQL
 
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) -角色扮演

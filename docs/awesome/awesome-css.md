@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="awesome-css-group/awesome-css"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [awesome-link]：https://github.com/sindresorhus/awesome
-[awesome-badge]：https：//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome-badge]：https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis链接]：https://travis-ci.org/awesome-css-group/awesome-css
 [travis-徽章]：https://travis-ci.org/awesome-css-group/awesome-css.svg?branch=master
 [HitCounter-link]：http://hits.dwyl.io/awesome-css-group/awesome-css
@@ -79,6 +79,7 @@
 * [Bootstrap](https://getbootstrap.com/) -最受欢迎的HTML，CSS和JS框架.
 * [Bulma](http://bulma.io/)  -基于Flexbox的现代CSS框架. 还具有Sass导入以进行修改.
 * [Butter Cake](http://getbuttercake.com/) -现代轻量级前端CSS框架，可更快，更轻松地进行Web开发.
+* [Charts.css](https://chartscss.org/) -CSS数据可视化框架.
 * [Chota](https://jenil.github.io/chota/) -具有有用的实用程序和网格系统的响应式，可自定义的微框架（3kb）.
 * [Cirrus](https://spiderpig86.github.io/Cirrus/) -完全响应的，全面的CSS框架，具有精美的控件和简单的结构.
 * [eFrolic](https://efraa.github.io/eFrolic/) -不使用JavaScript的CSS框架是交互式的且具有动画效果.
@@ -162,7 +163,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Style Guide
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) 由Atlassian Design设计
-* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
+* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) 由孤独的星球
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) 通过Dropbox
 * [Fluent UI](https://github.com/microsoft/fluentui) 由Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) 通过Github
@@ -256,11 +257,11 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 *编程时要听的东西.*
 
-* [CSS Podcast](https://thecsspodcast.libsyn.com/) -Google的开发者倡导者Una Kravets和Adam Argyle轻松地将CSS的复杂方面分解为易于消化的情节，涵盖了从可访问性到z-index的所有内容.
+* [CSS Podcast](https://thecsspodcast.libsyn.com/) -来自Google的开发者倡导者Una Kravets和Adam Argyle轻松地将CSS的复杂方面分解为易于理解的章节，涵盖了从可访问性到z-index的所有内容.
 * [Shop Talk Show](http://shoptalkshow.com/) -与Chris Coyier和Dave Rupert进行的有关前端Web设计，开发和UX的实时播客.
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) -由Anna Debenham和Brad Frost主持的关于风格指南的一小批访谈.
 * [The Web Ahead](http://5by5.tv/webahead/) -与世界专家就不断变化的技术和网络的未来进行对话.
-* [Non Breaking Space Show](http://goodstuff.fm/nbsp) -在数字艺术，设计和开发中寻找最优秀，最聪明，最聪明的创造力人士.
+* [Non Breaking Space Show](http://goodstuff.fm/nbsp) -在数字艺术，设计和开发方面寻找最优秀，最聪明，最聪明的创造力人士.
 * [The Changelog](https://changelog.com/)  -Changelog的标语说明了一切：“开源快速发展. 赶上.” 该播客以及随附的博客都是关于使您保持最新的开源技术的最新信息.
 * [Syntax](https://syntax.fm/) -Web开发人员的“美味佳肴”播客.
 
@@ -273,10 +274,10 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS Animation](https://twitter.com/cssanimation)
 * [Andrey Sitnik](https://twitter.com/andreysitnik) -@ Autoprefixer，http：//easings.net和@PostCSS的作者.
-* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网页设计师.  @multimedial_utn HTML5和CSS Freak教授. 临时翻译.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92)  - 网站设计者.  @multimedial_utn HTML5和CSS Freak教授. 临时翻译.
 * [Sara Soueidan](https://twitter.com/SaraSoueidan) - Author of the @Codrops CSS Reference & Co-author of the Smashing Book #5.
-* [Hugo Giraudel](https://twitter.com/HugoGiraudel) -@edenspiekermann的CSS妖精和Sass黑客.
-* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，房地产势利者，Foodie.
+* [Hugo Giraudel](https://twitter.com/HugoGiraudel) - CSS goblin & Sass hacker at @edenspiekermann.
+* [Guy Routledge](https://twitter.com/guyroutledge) -前端开发人员，@ GA_London老师，http：//www.atozcss.com上的Screencaster，财产势利者，Foodie.
 * [Heydon Pickering](https://twitter.com/heydonworks)  -适度食用大米. 还是UX设计师，作者，@ smashingmag编辑器和程序员.
 * [Adam Morse](https://twitter.com/mrmrs_) -倡导用户和开源.
 * [Donovan Hutchinson](https://twitter.com/donovanh)  -设计师，开发人员，作家. 偶尔在http://Hop.ie上发布博客，目前正在构建@cssanimation.

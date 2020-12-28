@@ -72,7 +72,7 @@
 * [Boost.Asio](http://think-async.com/)  -用于网络和底层I / O编程的跨平台C ++库.  [促进]
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework)  -C ++中Actor模型的开源实现.  [BSD-3-Clause] [website](http://actor-framework.org/)
 * [libev](http://libev.schmorp.de/)  -功能齐全的高性能事件循环，在libevent之后进行松散建模，但没有限制和错误.  [BSD和GPL]
-* [libevent](http://libevent.org/)  -事件通知库.  [BSD]
+* [libevent](http://libevent.org/) - An event notification library. [BSD]
 * [libhv](https://github.com/ithewei/libhv)  -跨平台事件循环库.  [BSD]
 * [libuv](https://github.com/libuv/libuv)  -跨平台异步I / O.  [BSD]
 * [promise-cpp](https://github.com/xhawk18/promise-cpp)  -实现Promise / A +标准的仅标头库.  [Anti-996]
@@ -147,6 +147,9 @@
  * [tabulate](https://github.com/p-ranav/tabulate) -现代C ++的表格制作工具[MIT]
  * [TCLAP](http://tclap.sourceforge.net)  -一个成熟，稳定且功能丰富的库，用于在ANSI C ++中定义和访问命令行参数.  [麻省理工学院]
  * [termbox](https://github.com/nsf/termbox)  -用于编写基于文本的用户界面的AC库.  [麻省理工学院]
+ * [cpp-terminal](https://github.com/jupyter-xeus/cpp-terminal)  -仅限小型标头的C ++库，用于编写多平台终端应用程序.  [麻省理工学院]
+ * [FTXUI](https://github.com/ArthurSonzogni/FTXUI)  -C ++功能终端用户界面.  [麻省理工学院]
+ * [imtui](https://github.com/ggerganov/imtui) -即时模式基于文本的用户界面[MIT]
 
 ## Compression
 *压缩和存档库*
@@ -201,7 +204,7 @@
 * [libmill](https://github.com/sustrik/libmill/) -在C中引入Go风格的并发.
 * [marl](https://github.com/google/marl) -Marl是用C ++ 11编写的混合线程/光纤任务调度程序.[Apache-2.0]
 * [moderngpu](https://github.com/moderngpu/moderngpu)  -moderngpu是用于GPU上通用计算的生产力库. 它是为CUDA编写的仅标头C ++库. 该库的独特价值在于其用于解决不规则并行问题的加速原语.  [FreeBSD和版权，Sean Baxter]
-* [NCCL](https://github.com/NVIDIA/nccl)  -用于集体多GPU通信的优化原语.  [BSD]
+* [NCCL](https://github.com/NVIDIA/nccl)  -针对集体多GPU通信的优化原语.  [BSD]
 * [OpenCL](https://www.khronos.org/opencl/) -异构系统并行编程的开放标准.
 * [OpenMP](http://openmp.org/) -OpenMP API.
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer)  -在一个相当小的C ++框架中实现Actor，Publish-Subscribe和CSP模型.  [BSD-3-Clause]
@@ -235,7 +238,7 @@
 * [Hashmaps](https://github.com/goossaert/hashmap)  -在C ++中实现开放式地址哈希表算法.  [麻省理工学院]
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map)  -快速的仅标头哈希映射，它使用跳房子哈希来解决冲突.  [麻省理工学院]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX)  -局部敏感哈希（LSH）的c ++工具箱，提供了几种流行的LSH算法，还支持Python和MATLAB.  [GPL]
-* [PGM-index](https://github.com/gvinciguerra/PGM-index)  -一种数据结构，可使用数十亿个项目（比传统索引少的空间）来对数十亿个项目进行快速查找，前身，范围搜索和更新.  [Apache2] [website](https://pgm.di.unipi.it)
+* [PGM-index](https://github.com/gvinciguerra/PGM-index)  -一种数据结构，可以使用数十亿个项目（比传统索引少的空间）来对数十亿个项目进行快速查找，前身，范围搜索和更新.  [Apache2] [website](https://pgm.di.unipi.it)
 * [plf::list](https://github.com/mattreecebentley/plf_list)  -一种std :: list实现，它删除范围拼接以启用缓存友好的结构，从而显着提高性能.  [zLib] [website](http://www.plflib.org/list.htm)
 * [plf::stack](https://github.com/mattreecebentley/plf_stack)  -std :: stack容器适配器的替换容器，在堆栈上下文中比任何std容器都有更好的性能.  [zLib] [website](http://www.plflib.org/stack.htm)
 * [ring_span lite](https://github.com/martinmoene/ring-span-lite)  -Arthur O&#39;Dwyer的ring_span实现的简化实现. 循环缓冲区视图.  [麻省理工学院]
@@ -405,7 +408,7 @@
 * [Blend2D](https://github.com/blend2d/blend2d)  -由JIT编译器提供支持的2D矢量图形引擎.  [Zlib] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf)  -用于实时图形应用程序开发的现代C ++ 14库.  [麻省理工学院]
 * [Cairo](http://www.cairographics.org/)  -支持多个输出设备的2D图形库.  [LGPL2或Mozilla MPL]
-* [C-Turtle](https://github.com/walkerje/C-Turtle)  -用作CImg包装器的C ++ 11纯标题龟图形库.  [麻省理工学院] 
+* [C-Turtle](https://github.com/walkerje/C-Turtle)  -用作CImg包装器的C ++ 11纯标题龟图形库.  [麻省理工学院]
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)  -现代的跨平台低级3D图形库.  [Apache2]
 * [DirectXTK](https://github.com/Microsoft/DirectXTK)  -一组用于使用C ++编写DirectX 11.x代码的帮助程序类.  [麻省理工学院]
 * [GLFW](https://github.com/glfw/glfw)  -一个简单的跨平台OpenGL争用库.  [zlib / libpng]
@@ -445,7 +448,7 @@
 * [libvips](https://github.com/jcupitt/libvips)  -具有低内存需求的快速图像处理库.  [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 * [Magick++](http://www.imagemagick.org/script/api.php)  -用于C ++的ImageMagick程序接口.  [Apache2]
 * [MagickWnd](http://www.imagemagick.org/script/api.php) -C的ImageMagick程序接口.[Apache2]
-* [OpenCV](http://opencv.org/)  ：zap：-开源计算机视觉.  [BSD]
+* [OpenCV](http://opencv.org/) :zap: - Open source computer vision. [BSD]
 * [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. [Modified BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
 * [Simd](https://github.com/ermig1979/Simd)  -使用SIMD的C ++图像处理库：SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON for ARM.  [麻省理工学院]
@@ -494,7 +497,7 @@
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons)  -用于JSON和类似JSON的二进制格式的C ++仅标头库，带有JSONPointer，JSONPatch，JSONPath和JMESPath.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间极低的JSON解析器.
+* [json-parser](https://github.com/udp/json-parser) - Very low footprint JSON parser written in portable ANSI C. [BSD]
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库. 支持C ++ 11. 无依赖关系，快速且对开发人员友好.  [Apache2]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
@@ -597,7 +600,7 @@
 ## Multimedia
 
 * [GStreamer](http://gstreamer.freedesktop.org/)  -用于构造媒体处理组件图的库.  [LGPL]
-* [libass](https://github.com/libass/libass)  -用于ASS / SSA字幕格式的便携式字幕渲染器.  [ISC] 
+* [libass](https://github.com/libass/libass)  -用于ASS / SSA字幕格式的便携式字幕渲染器.  [ISC]
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/)  -使用开放标准协议（RTP / RTCP，RTSP，SIP）的多媒体流媒体库.  [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC)  -libVLC（VLC SDK）媒体框架.  [GPL]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib)  -方便统一显示视频和音频文件中最相关的技术和标签数据.  [BSD]
@@ -614,11 +617,12 @@
 * [Breep](https://github.com/Organic-Code/Breep)  -基于事件的高级C ++ 14对等库.  [EUPL-1.1（OSI批准）]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)  -C ++ REST SDK（以前称为Casablanca）.  [Apache2]
 * [Restbed](https://github.com/corvusoft/restbed)  -C ++ 11异步RESTful框架.  [AGPL]
-* [Restinio](https://github.com/Stiffstream/restinio)  -仅标头的C ++ 14库，为您提供嵌入式HTTP / Websocket服务器.  [BSD]
+* [Restinio](https://github.com/Stiffstream/restinio) - A header-only C++14 library that gives you an embedded HTTP/Websocket server. [BSD]
 * [c-ares](https://github.com/c-ares/c-ares)  -用于异步DNS请求的AC库.  [麻省理工学院]
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  -单个文件C ++ 11-only-Header HTTP / HTTPS服务器库.  [麻省理工学院]
 * [cpp-netlib](http://cpp-netlib.org/)  -一组用于高级网络编程的开源库.  [促进]
 * [cpp-netlib/uri](https://github.com/cpp-netlib/uri) -C ++的URI解析器/生成器库，与RFC 3986和RFC 3987兼容.[BSL-1.0]
+* [CppServer](https://github.com/chronoxor/CppServer)  -超快速和低延迟的异步套接字服务器和客户端C ++库，支持TCP，SSL，UDP，HTTP，HTTPS，WebSocket协议和10K连接问题解决方案.  [麻省理工学院]
 * [cpr](https://github.com/whoshuu/cpr)  -具有简单但功能强大的界面的现代C ++ HTTP请求库. 模仿Python Requests模块.  [麻省理工学院] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)  -CURL（libcurl）的面向对象的C ++包装器.  [麻省理工学院]
 * [DPDK](https://github.com/DPDK/dpdk)  -用于快速数据包处理的数据平面开发套件，库和驱动程序.  [BSD-3-条款和GPL-2.0] [website](https://www.dpdk.org/)
@@ -681,10 +685,10 @@
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics)  -用于物理环境实时仿真的集成解决方案.  [zlib]
 * [ODE](http://www.ode.org/)  -Open Dynamics Engine-一个开源的高性能库，用于模拟刚体动力学.  [BSD＆LGPL]
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d)  -Box2D的openFrameworks包装器.  [类似BSD]
-* [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)  -Nvidia作为Nvidia GameWorks软件套件的一部分开发的开源实时物理引擎中间件SDK.  [BSD-3-Clause] 
+* [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)  -Nvidia作为Nvidia GameWorks软件套件的一部分开发的开源实时物理引擎中间件SDK.  [BSD-3-Clause]
 * [Project Chrono](https://github.com/projectchrono/chrono)  -开源的多物理场仿真引擎.  [BSD-3-Clause] [website](https://projectchrono.org/)
 * [Quantum++](https://github.com/vsoftco/qpp)  -现代的C ++ 11量子计算库.  [麻省理工学院]
-* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+* [Simbody](https://github.com/simbody/simbody)  -高性能的C ++多体动力学/物理库，用于模拟关节运动的生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
 * [SOFA](https://github.com/sofa-framework/sofa)  -SOFA是一个针对实时模拟的开源框架，重点是医学模拟.  [LGPL] [website](https://www.sofa-framework.org)
 
 ## Reflection
@@ -759,12 +763,13 @@
 
 ## Serialization
 
-* [Bitsery](https://github.com/fraillt/bitsery)  -仅标头的C ++二进制序列化库.  [麻省理工学院] 
+* [Bitsery](https://github.com/fraillt/bitsery)  -仅标头的C ++二进制序列化库.  [麻省理工学院]
 * [Bond](https://github.com/Microsoft/bond)  -用于处理模式化数据的开源，跨平台框架.  [麻省理工学院]
 * [Boost.Serialization](https://www.boost.org/doc/libs/master/libs/serialization/doc/index.html)  -Boost序列化库.  [促进]
 * [Cap'n Proto](https://github.com/capnproto/capnproto)  -快速的数据交换格式和基于功能的RPC系统.  [麻省理工学院] [website](https://capnproto.org/)
 * [cereal](https://github.com/USCiLab/cereal)  -用于序列化的C ++ 11库.  [BSD]
 * [cppcodec](https://github.com/tplgy/cppcodec)  -仅标头的C ++ 11库，以一致，灵活的API编码/解码base64，base32和hex.  [麻省理工学院]
+* [FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift. [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers)  -高效的内存序列化库.  [Apache2]
 * [MessagePack](https://github.com/msgpack/msgpack-c)  -适用于C和C ++的高效二进制序列化格式“如JSON”.  [Apache2] [website](http://msgpack.org/)
 * [mrpt-serialization](https://github.com/mrpt/mrpt/)  -版本化序列化为二进制或文本格式.  [BSD] [website](https://docs.mrpt.org/reference/latest/group_mrpt_serialization_grp.html)
@@ -808,7 +813,7 @@
 * [Kore](https://kore.io/) -用C开发的用于Web应用程序的超快速和灵活的Web服务器/框架.[ISC]
 * [libOnion](http://www.coralbits.com/libonion/)  -轻量级的库，可帮助您使用C编程语言创建Web服务器.  [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan)  -实验性，可扩展的高性能HTTP服务器.  [GPL2]
-* [oat++](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. [Apache-2.0] [website](https://oatpp.io/) 
+* [oat++](https://github.com/oatpp/oatpp) - Light, zero-dependency framework to create high-performance web-services. [Apache-2.0] [website](https://oatpp.io/)
 * [Pistache](http://pistache.io/)  -Pistache是​​用纯C ++ 11编写的C ++ REST框架，没有外部依赖关系.  [Apache2]
 * [QDjango](https://github.com/jlaine/qdjango/)  -用C ++编写并在Qt库之上构建的Web框架. 在可能的情况下，它会尝试遵循django的API，因此取其名称.  [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework)  -基于C ++和Qt的高速，全栈Web应用程序框架，支持HTTP和WebSocket协议（带有O / R映射）.  [BSD] [website](http://www.treefrogframework.org/)
@@ -904,7 +909,7 @@
 * [Rextester](http://rextester.com/runcode) -在线编译器，提供多个编译器（Clang，GCC，MSVC）和多个编辑器.
 * [Try It Online](https://tio.run/) -TIO是一系列在线口译员，他们提供越来越多的实用和休闲编程语言.
 * [Wandbox](http://melpon.org/wandbox/) -带有Boost的在线Clang / GCC编译器.
-* [paiza.io](https://paiza.io/en) -具有多个文件支持功能，Github（gist）集成和协作编辑的在线C / C ++编译器.  
+* [paiza.io](https://paiza.io/en) -具有多个文件支持功能，Github（gist）集成和协作编辑的在线C / C ++编译器.
 
 ## Debugger
 * C或C ++调试器列表*
@@ -917,7 +922,7 @@
 * [x64dbg](http://x64dbg.com/) -Windows的开源x64 / x32调试器.
 
 ## Integrated Development Environment
-*List of C or C++ nominal IDEs.*
+* C或C ++标称IDE的列表.*
 
 * [Anjuta DevStudio](http://anjuta.org/)  -GNOME IDE.  [GPL3]
 * [AppCode](http://www.jetbrains.com/objc/) -在JetBrains的IntelliJ IDEA平台上构建的，用于Objective-C，C，C ++和JavaScript开发的IDE.
@@ -937,7 +942,7 @@
 * [Microsoft Visual Studio Code](https://code.visualstudio.com/)  ：zap：-来自Microsoft的开源IDE.  [麻省理工学院]
 * [NetBeans](https://netbeans.org/) -一个IDE，主要使用Java开发，也可以使用其他语言（特别是PHP，C / C ++和HTML5）进行开发.
 * [Qt Creator](http://www.qt.io/developers/) ：zap：-跨平台的C ++，JavaScript和QML IDE，它是Qt SDK的一部分.
-* [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
+* [rtags](https://github.com/Andersbakken/rtags) -用于与基于clang的emacs集成的c / c ++客户端/服务器索引器.
 * [Xcode](https://developer.apple.com/xcode/) -由Apple开发.
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) -YouCompleteMe是用于Vim的快速，按需输入，模糊搜索代码完成引擎.
 * [cquery](https://github.com/cquery-project/cquery/) -用于vscode，emacs，vim等的C ++代码完成引擎.
@@ -946,7 +951,7 @@
 
 * [Bazel](https://bazel.build)  -Google提供的多语言，快速且可扩展的构建系统.  [Apache]
 * [Bear](https://github.com/rizsotto/Bear)  -生成用于clang工具的编译数据库的工具.  [GPLv3]
-* [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. [Apache]
+* [Buck](https://github.com/facebook/buck)  -快速构建系统，鼓励通过各种平台和语言（包括在Facebook开发和使用的C ++）创建小的可重用模块. 用Java编写.  [Apache]
 * [clib](https://github.com/clibs/clib)  -C编程语言的程序包管理器.  [麻省理工学院]
 * [CMake](https://cmake.org/)  -跨平台的免费开源软件，用于使用与编译器无关的方法来管理软件的构建过程.  [BSD]
 * [Cget](https://github.com/pfultz2/cget)  -Cmake软件包检索.  [促进] [website](http://cget.readthedocs.io)
@@ -1006,8 +1011,8 @@
 * [CppCon 2019 Presentation Materials](https://github.com/CppCon/CppCon2019) -CppCon 2019演示材料.
 * [CppCon 2018 Presentation Materials](https://github.com/CppCon/CppCon2018) -CppCon 2018演示材料.
 * [CppCon 2017 Presentation Materials](https://github.com/CppCon/CppCon2017) -CppCon 2017演示材料.
-* [CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016) -CppCon 2016演示材料.
-* [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
+* [CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016) - CppCon 2016 Presentation Materials.
+* [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015) -CppCon 2015演示材料.
 * [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) -CppCon 2014演示材料.
 * [C++Now 2019 Presentations](https://github.com/boostcon/cppnow_presentations_2019) -在C ++ Now 2019上展示的演示材料.
 * [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) -在C ++ Now 2018上展示的演示材料.
@@ -1052,7 +1057,7 @@
 *很棒的C或C ++相关视频.*
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
-* [Hi Def [HD]中很棒的C编程教程]（https://www.youtube.com/playlist?list=PLCB9F975ECF01953C）-适用于初学者和新程序员的详细C编程语言教程的集合.
+* [Hi Def [HD]中很棒的C编程教程]（https://www.youtube.com/playlist?list=PLCB9F975ECF01953C）-针对初学者和新程序员的详细C编程语言教程的集合.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) -由VoidRealms提供.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) -由VoidRealms提供.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) -TheNewBoston官方Buckys C ++编程教程播放列表.
@@ -1088,7 +1093,7 @@
 * [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) -会优化吗？
 * [Embedded in Academia](http://blog.regehr.org/)
 * [Simplify C++](https://arne-mertz.de/)
-* [Fluent C++](https://www.fluentcpp.com/) 
+* [Fluent C++](https://www.fluentcpp.com/)
 * [Bartek's Coding Blog](https://www.bfilipek.com/?m=1)
 * [Kenny Kerr](https://kennykerr.ca/articles/)
 * [Sutter’s Mill](https://herbsutter.com/gotw/)
