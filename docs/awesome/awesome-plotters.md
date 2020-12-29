@@ -121,6 +121,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Turtletoy](https://turtletoy.net) -具有SVG导出功能的基于浏览器的JavaScript turtle图形API.
 - [cozyvec](https://github.com/brubsby/cozyvec) -Web / Standalone终端环境，用于绘图员艺术作品和推文图.
 - [makio135/plotter](https://observablehq.com/collection/@makio135/plotter) -一个 [Observable](https://observablehq.com/) 笔记本收集器中充满了针对绘图仪的工作.
+- [PlotterFun](https://mitxela.com/plotterfun/) -基于浏览器的图像到SVG转换器，类似于SquiggleDraw.
 
 ### Vector Utilities
 
@@ -142,13 +143,14 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) -C库和好时字体的原始字体数据.
 - [OneLineFonts.com](https://www.onelinefonts.com) -具有一些单行字体的商业站点可供购买.
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) -SVG格式的单行字体，主要用于 [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape插件.
+- [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) -基于浏览器的Hershey Text工具，可导出到SVG.
 
 ## Inspiration and Instruction
 
 博客文章，文章，教程，画廊，视频等.
 
 - [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) -有关旧HPGL绘图仪入门的良好信息.
-- [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future) -老式笔式绘图仪的另一个介绍.
+- [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future) - Another intro to vintage pen plotters.
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) -编程矢量路径的一些基础知识，包括排序，联接和简化.
 - [On Generative Algorithms](https://inconvergent.net/generative) -有趣的算法的漂亮的13部分演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) -罗兰平板绘图仪的快速入门指南.
@@ -160,7 +162,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) -用于创建基于线的分形图形的技术.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) -绘图仪简介，AxiDraw，`penplot`库的演练.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) -用于旅行业务员问题（单路径）艺术的资源.
-- [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
+- [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) -讨论和指向线框的STL文件删除代码的链接.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) -很多不错的技巧，并非都是Axidraw特有的，还有一些笔评论和方便的3D打印工具.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) -很好地概述了AxiDraw及其克隆，以及一些DIY选项.
 
@@ -173,6 +175,8 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Plotter People](https://plotterpeople.github.io/) -举行个人见面会（到目前为止，SF和NYC），进行讲座和绘图员艺术画廊.
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) -活跃社区的Discord论坛. 
+- [PlotterFiles](https://plotterfiles.com/) -为绘图仪共享SVG文件的社区.
 
 ## Plotter Art For Sale
 
@@ -201,6 +205,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 
 - [awesome-generative-art](https://github.com/kosmos/awesome-generative-art)
 - [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+- [awesome-3d-engines-for-plotters](https://github.com/msurguy/awesome-3d-engines-for-plotters)
 
 ## License
 

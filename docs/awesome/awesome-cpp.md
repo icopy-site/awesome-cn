@@ -1027,8 +1027,8 @@
 *很棒的C或C ++相关书籍.
 
 * [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
-* [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) -vhf /免费编程书籍/ C.
-* [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) -vhf / free-programming-books / C ++.
+* [Free C Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c) -vhf /免费编程书籍/ C.
+* [Free C++ Books](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#c-1) -vhf / free-programming-books / C ++.
 * [cppbestpractices](https://github.com/lefticus/cppbestpractices) -C ++最佳实践的协作集合.
 
 ## Coding Style

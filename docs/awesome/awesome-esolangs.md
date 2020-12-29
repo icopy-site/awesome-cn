@@ -7,7 +7,7 @@
 精选的深奥编程语言，资源和相关项目的清单.
 
 
-&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以被编程或作为玩笑，而不是用于实际用途.”  
+&gt;“一种深奥的编程语言，或esolang，是一种计算机编程语言，旨在尝试怪异的想法，难以被编程或作为玩笑，而不是实际使用.”  
 &gt; *** esolang.org ***
 
 
@@ -23,6 +23,7 @@
 * [Befunge](https://esolangs.org/wiki/Befunge) -二维语言.
 * [Brackets](https://github.com/kvbc/brackets) -语言由方括号组成，很多方括号.
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) -仅使用8个单字符命令的极简语言.
+* [C Flat](https://github.com/NicksterSand/Cflat) -音乐语言的重点是声音，而不是记着创作自由的记号.
 * [Charcoal](https://github.com/somebody1234/Charcoal) -速写ASCII艺术的简洁语言.
 * [Chef](http://www.dangermouse.net/esoteric/chef.html) -看起来像烹饪食谱的程序.
 * [Chicken](https://esolangs.org/wiki/Chicken) -仅1个有效符号：“鸡”.
@@ -34,7 +35,7 @@
 * [False](http://strlen.com/false-language) -极少使用的语言，实现量很少.
 * [Fetlang](https://github.com/Property404/fetlang) -旨在使源代码看起来像写得不好的恋物癖情色.
 * [Folders](https://github.com/rottytooth/Folders) -用文件夹编写的代码.
-* [Fugue](https://esolangs.org/wiki/Fugue) - Music as source code.
+* [Fugue](https://esolangs.org/wiki/Fugue) -音乐作为源代码.
 * [Golfscript](http://www.golfscript.com/golfscript) -面向堆栈，旨在解决尽可能少的按键问题.
 * [Haifu](http://www.dangermouse.net/esoteric/haifu.html) -设计时考虑了复活节哲学的核心价值观.
 * [INTERCAL](http://www.catb.org/~esr/intercal) -拟与其他语言完全不同的模仿语言.
@@ -45,7 +46,7 @@
 * [LolCode](http://lolcode.org) -带有基于lolcat meme表达式的关键字的语言.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) -以地狱的第8级命名，旨在尽可能地难以编程.
 * [Monicelli](https://github.com/esseks/monicelli) -使用类似意大利文的乱码进行编程.
-* [Ni](https://github.com/DeybisMelendez/ni) -基于Brainfuck，提供更多有用的说明.
+* [Ni](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) -类似于Internet lang语的语法.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) -基于Brainfuck的语言，其中的命令是猩猩单词.
 * [Orca](https://hundredrabbits.itch.io/orca) -Livecoding环境，可快速创建程序音频定序器.

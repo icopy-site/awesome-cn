@@ -128,7 +128,7 @@
 *  [vkQuake2](https://github.com/kondrak/vkQuake2)  -id Software的Quake 2 v3.21，具有Vulkan支持（Windows和Linux）.  [GPL]
 *  [q2vkpt](https://github.com/cschied/q2vkpt/)  -实时路径跟踪器VKPT集成到q2pro Quake 2客户端中.  [gpl]
 *  [Linux port of SteamVR](https://github.com/ValveSoftware/SteamVR-for-Linux) -SteamVR建立在Vulkan API之上.
-*  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) -3DMark API开销测试.
+*  [3DMark](https://www.futuremark.com/pressreleases/compare-vulkan-and-directx-12-performance-with-3dmark) - 3DMark API Overhead test.
 *  [Q2RTX](https://github.com/NVIDIA/Q2RTX) -NVIDIA在Quake II中实现了RTX射线跟踪. [[LICENSE](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt)]
 
 ## Samples
@@ -176,7 +176,7 @@ drm/kms.
 *  [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-released/23109)  -在SDL_vulkan.h中添加了跨平台Vulkan图形支持.  [zlib]
 *  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) -NXP GTEC C ++ 11跨平台演示框架，包括用于Vulkan，OpenGL ES，OpenVX，OpenCL，OpenVG和OpenCV的大量示例. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
 *  [openFrameworks](https://github.com/openframeworks-vk/openFrameworks)  -最著名的C ++创新编码框架.  [麻省理工学院]
-*  [PowerVR SDK](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
+*  [PowerVR SDK](https://github.com/powervr-graphics/Native_SDK) -C ++跨平台3D图形SDK，可加快Vulkan和GLES的开发. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
 *  [glfw](https://github.com/glfw/glfw) 和 [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/LICENSE.md)]
 *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/)  -在iOS和macOS上运行Vulkan.  [Apache-2.0]
 *  [imgui](https://github.com/ocornut/imgui)  -立即模式图形用户界面.  [麻省理工学院]
@@ -218,7 +218,7 @@ drm/kms.
 *  [Quartz](https://github.com/Nadrin/Quartz)  -基于物理的Vulkan RTX路径跟踪器，具有类似于ES7的声明性场景描述语言.  [LGPL-3.0]	
 *  [VK²](https://github.com/kotlin-graphics/vkk)，Vulkan的Kotlin包装器：代码的表达性和安全性满足图形功能[Apache License 2.0]
 *  [small3d](https://www.gamedev.net/projects/515-small3d/)，基于Tiny Vulkan的C ++跨平台游戏开发框架[BSD 3-clause]
-*  [vkt/vkh](https://github.com/world8th/vkt) ，是Vulkan API（1.1）的帮助程序，基于C ++ 20.  [麻省理工学院]
+*  [VKt/VKh](https://github.com/helixd2s/vkt) ，Vulkan API的工具和帮助程序，基于，并使用C ++ 20.  [麻省理工学院]
 *  [Vulkan Kompute](https://github.com/axsaucedo/vulkan-kompute)  -快速，轻巧的Vulkan Compute Framework，针对高级GPU处理用例进行了优化.  [Apache许可2.0]
 *  [VKVG](https://github.com/jpbruyere/vkvg) -Vulkan 2D图形库，API遵循与Cairo图形库相同的模式，但具有新功能.
 *  [Logi](https://github.com/UL-FRI-LGM/Logi)  -轻量级的面向对象的Vulkan抽象框架.  [BSD 2句]
@@ -304,7 +304,7 @@ drm/kms.
 
 ## Related lists
 *  [awesome](https://github.com/sindresorhus/awesome) -超赞列表的精选列表.
-*  [awesome-opengl](https://github.com/eug/awesome-opengl) -精选的很棒的OpenGL库，调试器和资源列表.
+*  [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *  [gamedev](https://github.com/ellisonleao/magictools) -有关游戏开发的真棒列表.
 *  [graphics-resources](https://github.com/mattdesl/graphics-resources) -图形编程资源列表.
 *  [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) -精选的D3D12库，调试器和资源的清单.
@@ -316,4 +316,4 @@ drm/kms.
 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Contributing
-Please see [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) 有关详细信息.
+请参阅 [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) 有关详细信息.

@@ -181,7 +181,7 @@
 * [Automatic Window Manager](https://autohotkey.com/boards/viewtopic.php?f=6&t=17907)  -保存并恢复每个进程的最后一个窗口位置. 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=17907)
 * [bug.n](https://github.com/fuhsjr00/bug.n)  -平铺窗口管理器. 论坛主题： [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
 * [Min2Tray](http://junyx.breadfan.de/Min2Tray/)  -最小化窗口到托盘等. 论坛主题： [link](https://autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/)
-* [NiftyWindows](http://www.enovatic.org/products/niftywindows/introduction/) -控制所有基本的窗口交互，例如拖动，调整大小，最大化，最小化，关闭，对齐网格，“保持窗口纵横比”，将窗口上滚至其标题栏，透明控件.
+* [NiftyWindows](http://www.enovatic.org/products/niftywindows/introduction/) -控制所有基本的窗口交互，例如拖动，调整大小，最大化，最小化，关闭，对齐到网格，“保持窗口纵横比”，将窗口上滚至其标题栏，透明控件.
 * [Open-Show-Apps](https://github.com/JuanmaMenendez/AutoHotkey-script-Open-Show-Apps)  -打开，还原或最小化所需的Window或Chrome应用. 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=63579&p=272220#p272220)
 * [SnapX](https://github.com/benallred/SnapX/releases)  -通过接管热键（Win +向左/向右等）增强Windows / Aero Snap，并提供对快照位置和大小的更细粒度控制. 适用于多个监视器，分辨率和DPI级别.
 * [WindowPadX](https://github.com/hoppfrosch/WindowPadX)  -在多监视器环境中提供一些有用功能的工具.  _WindowPadX是Lexikos最初发布的WindowPad的增强功能，请参见原始论坛主题： [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
@@ -300,7 +300,7 @@
 * AHK的叉子为核心语言添加了新功能*
 
 ### AutoHotkey_H
-* [AutoHotkey_H](https://hotkeyit.github.io/v2/) -AHK_H为原始AutoHotkey添加了功能，并使用NewThread（）函数或AutoHotkey.dll提供了真正的多线程. [Full list of changes](https://hotkeyit.github.io/v2/docs/AHKH_Features.htm)
+* [AutoHotkey_H](https://hotkeyit.github.io/v2/) -AHK_H为原始AutoHotkey添加了功能，并使用NewThread（）函数或AutoHotkey.dll提供了真正的多线程. [Full list of v1 changes](https://hotkeyit.github.io/v1/docs/AutoHotkey.htm) + [Full list of v2 changes](https://hotkeyit.github.io/v2/docs/AutoHotkey.htm)
 
 ## License
 
