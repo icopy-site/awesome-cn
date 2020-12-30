@@ -12,7 +12,7 @@
 
  |  iOS应用| 太棒了 Linux | 项目| 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1045 |  2020年11月25日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1045 |  2020年12月29日
 
 
 
@@ -36,7 +36,7 @@
 ### Style Guides
 [back to top](#readme) 
 
-* [Airbnb](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+* [Airbnb](https://github.com/airbnb/swift) -Airbnb的官方风格指南.
 * [Google](https://google.github.io/swift/) -此样式指南基于Apple出色的Swift标准库样式，并且还结合了Google中多个Swift项目使用情况的反馈.
 * [LinkedIn](https://github.com/linkedin/swift-style-guide) -LinkedIn的官方风格指南.
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) -Raywenderlich指南，必须阅读.
@@ -269,7 +269,7 @@
 ### Cache
 [back to top](#readme) 
 
-* [AwesomeCache](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
+* [AwesomeCache](https://github.com/aschuch/AwesomeCache) -轻松管理缓存.
 * [Cache](https://github.com/hyperoslo/Cache) -除了缓存.
 * [CachyKit](https://github.com/Sadmansamee/CachyKit) -缓存库，可以缓存JSON，图像，Zip或AnyObject（到期日期/ TTYL）并强制刷新.
 * [Cachyr](https://github.com/nrkno/yr-cachyr) -适用于iOS，macOS和tvOS的小型键值数据缓存.
@@ -468,7 +468,7 @@
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) -SQLite包装器.
 
 #### TOML
-*汤姆的通俗易懂的语言.* [back to top](#readme) 
+*Tom's Obvious, Minimal Language.* [back to top](#readme) 
 
 * [TOMLDecoder](https://github.com/dduan/TOMLDecoder) -最新的TOML标准，已解码.
 
@@ -498,7 +498,7 @@
 *轻松处理数据格式.* [back to top](#readme) 
 
 * [AnyDate](https://github.com/Kawoou/AnyDate) -日期和时间API受Java 8 DateTime API的启发.
-* [Chronology](https://github.com/davedelong/time) -建立更好的日期/时间库.
+* [Chronology](https://github.com/davedelong/time) - Building a better date/time library.
 * [DateHelper](https://github.com/melvitax/DateHelper) -简单的约会助手.
 * [Datez](https://github.com/SwiftKitz/Datez) -用于处理NSDate，NSCalendar，NSDateComponents和NSTimeInterval的库.
 * [Datify](https://github.com/hemangshah/Datify) -Easypeasy日期功能.
@@ -560,7 +560,7 @@
 * [Bond](https://github.com/DeclarativeHub/Bond) -绑定框架.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) -承诺和未来的解放.
 * [Combinative](https://github.com/noppefoxwolf/Combinative) -使用Apple的Combine框架进行UI事件处理.
-* [EasyFutures](https://github.com/DimaMishchenko/EasyFutures)  -期货和承诺. 使用方便. 高度可组合.
+* [EasyFutures](https://github.com/DimaMishchenko/EasyFutures)  -期货和承诺. 易于使用. 高度可组合.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) -实现事件发射器和侦听器.
 * [FutureKit](https://github.com/FutureKit/FutureKit) -未来/承诺图书馆.
 * [Katana](https://github.com/BendingSpoons/katana-swift) -编写应用程序，如React和Redux.
@@ -879,14 +879,14 @@
 * [SolarNetwork](https://github.com/ThreeGayHub/SolarNetwork) -优雅的网络抽象层.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) -NSURLSession包装器.
 * [SwiftyOAuth](https://github.com/delba/SwiftyOAuth) -带有内置提供程序集的小型OAuth库.
-* [TermiNetwork](https://github.com/billp/TermiNetwork) -Swift中的网络抽象层，旨在与Codables配合使用.
+* [TermiNetwork](https://github.com/billp/TermiNetwork) -零依赖性网络解决方案，用于构建现代且安全的iOS，watchOS，macOS和tvOS应用程序.
 * [TRON](https://github.com/MLSDev/TRON) -轻量级的网络抽象层，写在Alamofire之上.
 * [Wormholy](https://github.com/pmusolino/Wormholy) -iOS网络调试，就像向导‍.
 
 #### HTML
 
 * [Fuzi](https://github.com/cezheng/Fuzi) -具有XPath和CSS支持的快速轻量级XML / HTML解析器.
-* [Ji](https://github.com/honghaoz/Ji) - XML/HTML parser.
+* [Ji](https://github.com/honghaoz/Ji) -XML / HTML解析器.
 * [Kanna](https://github.com/tid-kijyun/Kanna) - Another XML/HTML parser.
 * [SwiftSoup](https://github.com/scinfu/SwiftSoup) ：penguin：-HTML解析器，具有DOM，CSS和jquery的优点.
 * [WKZombie](https://github.com/mkoehnke/WKZombie) -无头浏览器.
@@ -947,7 +947,7 @@
 
 * [AnyLint](https://github.com/Flinesoft/AnyLint) ：penguin：-通过组合Swift和正则表达式的功能来减少任何内容.
 * [IBLinter](https://github.com/IBDecodable/IBLinter) -用于Interface Builder的linter工具.
-* [swift-mod](https://github.com/ra1028/swift-mod) -一种在代码生成和格式化之间进行中介的Swift代码修改工具.
+* [swift-mod](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
 * [SwiftCop](https://github.com/andresinaka/SwiftCop) -一个验证库，其灵感来自Ruby On Rails Active Record验证的清晰性.
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) -用于重新格式化Swift代码的代码库和命令行格式化工具.
 * [SwiftLint](https://github.com/realm/SwiftLint) -强制执行编码约定的工具.
@@ -1000,7 +1000,7 @@
 ### Styling
 [back to top](#readme) 
 
-* [Ambience](https://github.com/tmergulhao/Ambience) -无需编码即可进行亮度感知的辅助功能主题切换.
+* [Ambience](https://github.com/tmergulhao/Ambience) -无需编码即可进行亮度感知的可访问性主题切换.
 * [Stylist](https://github.com/yonaskolb/Stylist) -在可热加载的外部Yaml或json文件中定义UI样式.
 * [SwiftTheme](https://github.com/wxxsw/SwiftTheme) -适用于iOS 8+的强大主题/皮肤管理器.
 * [Themes](https://github.com/onmyway133/EasyTheme) -主题管理.
@@ -1076,7 +1076,7 @@
 * [AwaitKit](https://github.com/yannickl/AwaitKit) -ES7异步/等待控制流.
 * [Each](https://github.com/dalu93/Each) -每个都是NSTimer桥库.
 * [GCDTimer](https://github.com/hemantasapkota/GCDTimer) -经过测试的GCD计时器.
-* [Schedule](https://github.com/luoxiu/Schedule) ：penguin：-缺少一种轻量级的任务调度程序，具有令人难以置信的人性化语法.
+* [Schedule](https://github.com/luoxiu/Schedule) ：penguin：-具有令人难以置信的人性化语法的轻量级任务计划程序丢失.
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer) -NSTimer的API.
 
 ### UI
@@ -1190,7 +1190,7 @@
 * [Alerts Pickers](https://github.com/dillidon/alerts-and-pickers) -UIAlertController与TextField，DatePicker，PickerView，TableView和CollectionView的高级用法.
 * [ALRT](https://github.com/mshrwtnb/alrt)  -UIAlertController的简单构造函数. 随时随地发出警报.
 * [AwaitToast](https://github.com/k-lpmg/AwaitToast)  -带有基本吐司的异步等待吐司. 受Facebook发布烤面包的启发.
-* [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) -高度可定制的警报/通知/成功/错误/警报弹出窗口.
+* [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
 * [CFNotify](https://github.com/JT501/CFNotify) -可定制的框架，用于创建可拖动的警报视图.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) -简单的UIAlertController.
 * [GSMessage](https://github.com/wxxsw/GSMessages) -适用于iOS 7+的简单样式消息/通知.
@@ -1258,7 +1258,7 @@
 [back to top](#readme) 
 
 * [Carbon](https://github.com/ra1028/Carbon) -用于在UITableView和UICollectionView中构建基于组件的用户界面的声明性库.
-* [Eureka](https://github.com/xmartlabs/Eureka) -优雅的iOS表单生成器.
+* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder.
 * [FDBarGauge](https://github.com/fulldecent/FDBarGauge) -模拟音频混合板上的电平指示器
 * [Former](https://github.com/ra1028/Former) -完全可自定义的库，可轻松创建基于UITableView的表单.
 * [ObjectForm](https://github.com/haojianzong/ObjectForm) -一个简单但功能强大的库，用于为您的类模型构建表单.
@@ -1293,7 +1293,7 @@
 [back to top](#readme) 
 
 * [AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu) -滑动菜单（抽屉）.
-* [CircleMenu](https://github.com/Ramotion/circle-menu) -CircleMenu是一个简单，优雅的UI菜单，具有圆形布局和材质设计动画.
+* [CircleMenu](https://github.com/Ramotion/circle-menu) -CircleMenu是具有圆形布局和材质设计动画的简单，优雅的UI菜单.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) -滑动侧边菜单.
 * [FanMenu](https://github.com/exyte/fan-menu) -具有基于金刚鹦鹉的圆形布局的菜单.
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) -交互式视图过渡，以显示具有流动和弹跳效果的菜单.
@@ -1453,7 +1453,7 @@
 * [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) -将视差标头添加到UIScrollView / UITableView的简单方法.
 * [Persei](https://github.com/Yalantis/Persei) -UITableView / UICollectionView / UIScrollView的动画顶部菜单.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) -PullToRefresh库.
-* [QuickTableViewController](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
+* [QuickTableViewController](https://github.com/bcylin/QuickTableViewController) -创建用于设置的UITableView的简单方法.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) -UITableView扩展，可从表格视图的底部插入单元格.
 * [SectionScrubber](https://github.com/3lvis/SectionScrubber) -在集合视图部分之间快速滚动的组件.
 * [SelectionList](https://github.com/yonat/SelectionList) -基于UITableView的简单单选或多选清单.
@@ -1501,7 +1501,7 @@
 * [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) ：penguin：-功能强大且易于使用的查询生成器.
 * [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) -FluxCapacitor使使用协议和类型别名轻松实现Flux设计模式成为可能.
 * [Focus](https://github.com/typelift/Focus) -受Haskell镜头库启发的光学库（包括镜头，棱镜和Isos）.
-* [Highlighter](https://github.com/younatics/Highlighter)  -突出显示您想要的任何内容！ 荧光笔会神奇地在UITableViewCell或其他类中找到UI对象，例如UILabel，UITextView，UITexTfield，UIButton.
+* [Highlighter](https://github.com/younatics/Highlighter)  -突出显示您想要的任何内容！ 荧光笔将神奇地在UITableViewCell或其他类中找到UI对象，例如UILabel，UITextView，UITexTfield，UIButton.
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Surface retain cycle / memory issues right as you develop your application.
 * [Lumos](https://github.com/sushinoya/Lumos) -用于Objective-C运行时功能的易于使用的API.
 * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) -用于Objective C运行时功能的API.
@@ -1538,7 +1538,7 @@
 * [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) -一个微框架，用于将[弱自我]和保护语句封装在闭包中.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) -在应用更新后展示类似于页面，数字和主题演讲的新功能.
 * [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) -展示您很棒的新应用功能.
-* [XestiMonitors](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework.
+* [XestiMonitors](https://github.com/eBardX/XestiMonitors) -可扩展的监视框架.
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) -微型实用程序和标准库，基础和UIKit扩展的集合.
 
 ### Validation

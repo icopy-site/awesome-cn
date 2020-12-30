@@ -66,14 +66,15 @@
   -.NET端口： [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
   - [headless-devtools](https://github.com/cowchimp/headless-devtools) -Puppeteer插件可获取CSS Coverage或JS Heap快照.
   - [PuPHPeteer](https://github.com/rialto-php/puphpeteer) -使用PHP控制Puppeteer的PHP桥.
+- [Playwright](https://github.com/microsoft/playwright) -Node.js库，可通过单个API自动执行Chromium，Firefox和WebKit.
 - [Taiko](https://github.com/getgauge/taiko/) -一个Node.js模块，可使用DevTools协议自动执行Chrome / Chromium.
 -还有下面的所有“协议驱动程序库”
 
 ### Protocol Driver Libraries
 -JavaScript / Node.js： [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) -该协议最常用的JavaScript API
 -TypeScript / Node.js： [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client)
--Java： [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
--Java： [karate](https://intuit.github.io/karate/karate-core/) -带有Java API的Web服务测试框架，可自动执行Chrome浏览器
+- Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
+- Java: [karate](https://intuit.github.io/karate/karate-core/) -带有Java API的Web服务测试框架，可自动执行Chrome浏览器
 -Python： [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol)  -纯Python，无IO包装器. 另请参阅 [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
 -Python： [chromewhip](https://github.com/chuckus/chromewhip) -直接替换`splash`服务
 -Python： [pychrome](https://github.com/fate0/pychrome) -低级CDP传输处理程序
@@ -99,7 +100,7 @@
 ## Using DevTools frontend with other platforms
 
 #### Android
-- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
+- [Facebook Stetho](https://github.com/facebook/stetho) -使用Chrome DevTools进行本机Android调试.
 - [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) -调试运行在其中的JavaScript [J2V8](https://github.com/eclipsesource/J2V8) 使用Chrome DevTools.
 
 #### ClojureScript

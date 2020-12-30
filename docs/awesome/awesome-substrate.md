@@ -66,7 +66,7 @@
   底物
 - [Reddit](https://www.reddit.com/r/substrate/) -官方subreddit.
 - [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) -另一个
-  由我们的朋友维护的很棒的清单 [Web3 Foundation](https://web3.foundation/).
+  awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/).
 - [Subsocial](https://subsocial.network/) -Polkadot / Kusama的去中心化社交网络
   生态系统. 建立在底物+ IPFS上.
 - [DOTspot](https://www.dotspot.io/) -底物生态系统项目共享其开放空间
@@ -109,6 +109,8 @@
   基于Cumulus的Substrate节点，可以进行黑客攻击（有关更多信息，请参见Frameworks下的&#39;Cumulus&#39;）.
 - [Front-End](https://github.com/substrate-developer-hub/substrate-front-end-template) - 使用
   Polkadot-JS API和 [React](https://reactjs.org/) 为基于基板的链构建前端.
+- [`substrate-stencil`](https://github.com/kaichaosun/substrate-stencil) -的模板
+  包括放样和治理功能的基板节点.
 
 ## Pallets
 
@@ -198,7 +200,7 @@
   FRAME合同托盘.
 - [Staking Rewards Collector](https://github.com/w3f/staking-rewards-collector) -要解析的脚本
   并输出给定​​Kusama或Polkadot地址的赌注奖励并交叉引用
-  with daily price data.
+  每日价格数据
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) -简单的CLI工具可启动
   本地Polkadot测试网络.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) -一组有用

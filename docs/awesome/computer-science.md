@@ -68,7 +68,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 ## Community
 
 -我们有一个不和谐的服务器！ [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2) ]（https://discord.gg/5pUhfpX）这应该是您与其他OSSU学生交谈的第一站. 您为什么现在不自我介绍？ [Join the CS channel in OSSU Discord](https://discord.gg/5pUhfpX)
--您也可以通过 [GitHub issues](https://github.com/ossu/computer-science/issues) . 如果课程有问题，或者需要对课程进行更改，这是开始对话的地方. 阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
+ -您还可以通过GitHub问题进行互动. 如果课程有问题，或者需要对课程进行更改，这是开始对话的地方. 阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
 -订阅我们 [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 -将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 个人资料！
  -注意：在搜索OSSU时，可能会找到一个未维护且已弃用的Firebase应用程序. 您可以放心地忽略它. 阅读更多 [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
@@ -103,13 +103,13 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ### Introduction to Computer Science
 
-本课程将向您介绍计算机科学领域. 从以上课程或其他地方学习过编程的学生，都应选修本课程，以期掌握各种材料. 如果您想要完成更多的课程，计算机科学很可能适合您！
+本课程将向您介绍计算机科学领域. 通过以上课程或其他地方学习过编程的学生，都应选修本课程，以获取丰富的材料. 如果您想要完成更多的课程，计算机科学很可能适合您！
 
 **涵盖的主题**：
 `computation`
 命令式编程
 基本数据结构和算法
-`and more`
+还有更多
 
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
@@ -133,7 +133,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 ML系列语言（通过标准ML）
 Lisp家庭语言（通过球拍）
 `Ruby`
-`and more`
+还有更多
 
 《如何编写代码》课程基于教科书 [How to Design Programs](https://htdp.org/2003-09-26/) . 第一版可在线免费获得，其中包括问题集和解决方案. 鼓励学生做这些作业.
 
@@ -181,7 +181,7 @@ Lisp家庭语言（通过球拍）
 基本统计
 `O-notation`
 离散概率
-`and more`
+还有更多
 
 课程持续时间| 努力注意事项前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -196,7 +196,7 @@ Lisp家庭语言（通过球拍）
 `vim`
 命令行环境
 版本控制
-`and more`
+还有更多
 
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
@@ -218,7 +218,7 @@ Lisp家庭语言（通过球拍）
 `compilers`
 操作系统
 网络协议
-`and more`
+还有更多
 
 课程持续时间| 努力其他文字/作业| 前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -241,7 +241,7 @@ Lisp家庭语言（通过球拍）
 `最小的生成树`
 动态编程
 `NP-completeness`
-`and more`
+还有更多
 
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
@@ -258,7 +258,7 @@ Lisp家庭语言（通过球拍）
 `威胁和攻击`
 网络安全
 `Cryptography`
-`and more`
+还有更多
 
 注意：** _这些课程是临时推荐的_ **. 有一个开放 [Request For Comment](https://github.com/ossu/computer-science/issues/639) 关于安全课程的选择. 鼓励贡献者比较RFC中的各种课程并提供反馈.
 
@@ -289,7 +289,7 @@ Lisp家庭语言（通过球拍）
 `无监督学习`
 `OpenGL`
 `raytracing`
-`and more`
+还有更多
 
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
@@ -315,12 +315,12 @@ Lisp家庭语言（通过球拍）
 
 **涵盖的主题**：
 调试理论与实践
-面向目标的编程
+`goal-oriented programming`
 `parallel computing`
 面向对象的分析与设计
 `UML`
 大型软件架构与设计
-`and more`
+还有更多
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
@@ -348,7 +348,7 @@ CMOS技术
 虚拟记忆
 同步原语
 系统调用界面
-`and more`
+还有更多
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
@@ -372,7 +372,7 @@ CMOS技术
 关系逻辑
 “品牌逻辑”
 游戏树
-`and more`
+还有更多
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
@@ -385,7 +385,7 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或不想将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
@@ -482,7 +482,7 @@ or
 -“额外资源”：带有该标签的卡片代表该学生添加的课程.
 -“正在做”：带有该标签的卡片代表该学生当前正在做的课程.
 -“完成”：带有该标签的卡片代表该学生完成的课程.
-这些卡片还应具有至少一个项目/文章的链接，该项目/文章应使用在该课程中获得的知识来构建.
+这些卡片还应具有至少一个项目/文章的链接，该项目/文章应使用在该课程中获得的知识构建.
 -`Section`：带有该标签的卡片代表我们课程中的部分.
 带有“ Section”标签的卡片仅用于组织“完成”列.
 您应将*课程卡*放在其各自的*部门卡*下方.

@@ -98,7 +98,7 @@
 * [Catchy](https://github.com/jvbalen/catchy) [:octocat:](https://github.com/jvbalen/catchy) -用于计算挂钩的语料库分析工具.
 * [Madmom](https://madmom.readthedocs.io/en/latest/) [:octocat:](https://github.com/CPJKU/madmom) [:package:](https://pypi.python.org/pypi/madmom) -MIR软件包特别注重节拍检测，起音检测和和弦识别.
 * [mir_eval](http://craffel.github.io/mir_eval/) [:octocat:](https://github.com/craffel/mir_eval) [:package:](https://pypi.python.org/pypi/mir_eval)  -各种MIR任务的共同分数. 还包括bss_eval实现.
-* [msaf](http://pythonhosted.org/msaf/) [:octocat:](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) - Music Structure Analysis Framework.
+* [msaf](http://pythonhosted.org/msaf/) [:octocat:](https://github.com/urinieto/msaf) [:package:](https://pypi.python.org/pypi/msaf) -音乐结构分析框架.
 * [librosa](http://librosa.github.io/librosa/) [:octocat:](https://github.com/librosa/librosa) [:package:](https://pypi.python.org/pypi/librosa) -常规音频和音乐分析.
 
 #### Deep Learning
@@ -142,7 +142,8 @@
 * [Introduction to Numpy and Scipy](http://www.scipy-lectures.org/index.html) [:octocat:](https://github.com/scipy-lectures/scipy-lecture-notes) -高度推荐的教程，涵盖了科学Python生态系统的大部分内容.
 * [Numpy for MATLAB® Users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html) -交换机的等效python功能的简短概述.
 * [MIR Notebooks](http://musicinformationretrieval.com/) [:octocat:](https://github.com/stevetjoa/stanford-mir) -用于音乐信息检索（MIR）的教学iPython笔记本的集合.
-* [Selected Topics in Audio Signal Processing](https://github.com/faroit/awesome-python-scientific-audio/blob/master/ https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) -作为iPython笔记本进行练习.
+* [Selected Topics in Audio Signal Processing](https://github.com/faroit/awesome-python-scientific-audio/blob/master/ https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-exercises) - Exercises as iPython notebooks.
+* [Live-coding a music synthesizer](https://www.youtube.com/watch?v=SSyQ0kRHzis) 实时编码视频，显示如何使用SoundDevice库再现逼真的声音. [Code](https://github.com/cool-RR/python_synthesizer).
 
 ## Books
 

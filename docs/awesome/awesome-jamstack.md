@@ -153,7 +153,7 @@
 
 - [GraphQL](https://graphql.org) -API的查询语言和用于使用现有数据完成这些查询的运行时.
 - [Graphcool](https://graph.cool) -开源和自托管后端即服务，用于开发无服务器的GraphQL后端.
-- [FaunaDB](https://fauna.com) -在云或本地具有连接，索引和多区域ACID事务的关系NoSQL数据库.
+- [FaunaDB](https://fauna.com) - Relational NoSQL database with joins, indexes, and multi-region ACID transactions in the cloud or on-premise.
 - [Jexia DataSet](https://jexia.com) -带有内置验证器，关系，聚合功能的REST API架构和Shemaless云数据存储.
 
 ### File management
@@ -186,7 +186,7 @@
 - [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台. 为Jamstack提供每种流行语言和媒体窗口小部件的SDK，从而轻松管理媒体，CDN，存储，转换等.
 - [imgix](https://www.imgix.com/)  -无服务器图像传送和管理服务.  imgix连接到图像的存储位置（例如S3，GCS，Web文件夹），并使用简单而强大的URL参数来转换，优化和智能地传递图像.
 - [Elastictable](https://www.elastictable.com) -建立在AWS之上的后端即服务解决方案已缺失，无法提高在线业务的成功率. 
-- [Stormkit](https://stormkit.io)  -适用于由AWS提供支持的现代javascript应用程序的强大无服务器基础架构. 它与您的git flow集成，并无缝构建，部署和扩展您的应用程序.
+- [Stormkit](https://stormkit.io)  -适用于由AWS提供支持的现代javascript应用程序的强大的无服务器基础架构. 它与您的git flow集成，并无缝构建，部署和扩展您的应用程序.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
@@ -194,7 +194,7 @@
 
 - [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) -Matt Biilmann.
 - [Rise of the Jamstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -Mathias Biillman.
-- [Jamstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) - Phil Hawksworth.
+- [Jamstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) -菲尔·霍克斯沃思（Phil Hawksworth）.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) -克里斯·麦克雷（Chris Macrae）.
 - [Jamstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -遍历媒体.
@@ -244,6 +244,7 @@
 - [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) -Mathias Biilmann和Phil Hawksworth（由O&#39;Reilly出版）.
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 - [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) -Christopher Pecoraro和Vincenzo Gambino
+- [The Jamstack Book](https://www.manning.com/books/the-jamstack-book) -雷蒙德·卡姆登（Raymond Camden）和布莱恩·里纳尔迪（Brian Rinaldi）
 
 ## License
 

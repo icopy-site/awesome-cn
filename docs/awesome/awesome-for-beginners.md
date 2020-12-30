@@ -182,7 +182,7 @@ Habitica是一个游戏化的任务管理器，webapp和android / ios app，真�
 - [Letra Extension](https://github.com/jayehernandez/letra-extension/labels/good%20first%20issue)  _（标签：好第一期）_<br> 每次打开新标签时，都会被动地学习新语言.
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev/labels/good%20first%20issue)  _（标签：好第一期）_<br> 为开发者带来机遇.
 - [webdriver.io](https://github.com/webdriverio/webdriverio/labels/first-timers-only)  _（标签：仅限初学者）_<br> 适用于Node.js的下一代浏览器和移动自动化测试框架 
-- [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue) _(label: good first issue)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
+- [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue)  _（标签：好第一期）_<br> 免费的在线队列管理器，可轻松，即时地控制人群. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
 
 ## Julia
 
@@ -211,7 +211,7 @@ Habitica是一个游戏化的任务管理器，webapp和android / ios app，真�
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner)  _（标签：适合初学者）_<br> 用PHP编写的部署工具，支持开箱即用的流行框架.
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted)  _（标签：需要帮助）_<br>  Matomo是领先的Free / Libre开放分析平台.
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only)  _（标签：仅限初学者）_<br> 增强您的GitHub组织！
-- [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：初学者）_<br> 用于PHP项目的开源自托管持续集成服务器.
+- [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 - [Drupal](https://www.drupal.org/getting-involved-guide)  _（标签：N / A，链接到外部网站）_<br> 领先的开源CMS提供雄心勃勃的数字体验，可通过多种渠道吸引您的受众.
 - [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue)  _（标签：好第一期）_<br>  Symfony是用于Web应用程序的PHP框架和一组可重用的PHP组件.
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue)  _（标签：好第一期）_<br> 一个软件包，提供了将MailChimp与Laravel 5集成的简便方法.
@@ -219,6 +219,7 @@ Habitica是一个游戏化的任务管理器，webapp和android / ios app，真�
 - [NextCloud Server](https://github.com/nextcloud/server/labels/good%20first%20issue)  _（标签：好第一期）_<br>  Nextcloud服务器，所有数据的安全之家.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue)  _（标签：好第一期）_<br> 开源电子商务解决方案，可开始您的在线业务并开始在线销售.
 - [Flarum](https://github.com/flarum/core/labels/Good%20first%20issue)  _（标签：好第一期）_<br> 简单的论坛软件，可用于建立社区.
+- [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R)  _（标签：好第一项任务）_<br> 支持Wikipedia的免费和开源Wiki软件包.
 
 ## Python
 
