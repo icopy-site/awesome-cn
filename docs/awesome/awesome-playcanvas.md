@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是用于构建交互式Web内容的开源平台. 它是用JavaScript，HTML5，CSS3和WebGL编写的.
 >
-&gt;此列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
+&gt;该列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
 >
 &gt;捐款_非常欢迎_但先见 [Contributing](#contributing).
 
@@ -118,6 +118,7 @@
 
 ## Product Configurators
 
+- [3D Plans](https://3dplans.com) -房地产市场的虚拟旅游和互动地图.
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) -电梯配置器.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) -以使命召唤为主题的促销3D体验.
 - [Elfa Closets](http://elfa.com/sv-se/planner) -壁橱配置器.

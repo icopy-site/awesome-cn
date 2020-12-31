@@ -39,7 +39,7 @@
 
 ### Graphics
 
-- [raytracer](https://github.com/ali-raheem/vraytracer)
+- [vRayTracer](https://github.com/ali-raheem/vraytracer) -用V编写的简单光线跟踪器.
 
 ### Games
 
@@ -177,6 +177,7 @@
 ### GitHub actions
 
 - [setup-v-action](https://github.com/marketplace/actions/setup-v-environment) -GitHub动作自动化，可在您的工作流程中使用V.
+- [action-create-v-docs](https://github.com/marketplace/actions/create-documentation-for-v-modules) -GitHub动作，为V模块创建文档.
 
 ### Videos
 

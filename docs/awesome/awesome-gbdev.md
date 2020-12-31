@@ -63,12 +63,12 @@
 > ### Disambiguation
 >
 > #### Game Boy Advance
-> 
+>
 &gt; Game Boy Advance开发由另一个项目涵盖 [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) list.
  &gt; GBA，但是，*可以运行* GB / GBC游戏. 与本地硬件相比，这样做的方式略有不同：此列表的“模拟器开发”部分对此进行了介绍.
 >
 > #### Game Boy Color and Super Game Boy
-> 
+>
 &gt;此列表主要针对原始的* Game Boy *（GB或DMG，1989），* Game Boy Color *（GBC或CGB）和* Super Game Boy *（SGB）是非常相似的系统，其中一些重要区别，例如：
 >
 &gt;-不同的硬件规格；
@@ -208,7 +208,7 @@
 
 ## Software Development
 
-The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d615409fd) 本文概述了Game Boy的功能，讨论了可用开发工具的优缺点，并提供了编写更高效代码的技巧.
+The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d615409fd) 文章概述了Game Boy的功能，讨论了可用开发工具的优缺点，并提供了编写更高效代码的技巧.
 
 ### Assemblers
 
@@ -278,7 +278,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [vtGBte](https://github.com/paul-arutyunov/vtGBte) -简约的ncurses磁贴编辑器.
 - [tpp1](https://github.com/TwitchPlaysPokemon/tpp1) -自定义GB / GBC内存/硬件映射器的定义和规范，作为MBC的功能超集.
 - [libstdgb](https://github.com/delwink/libstdgb) -有用的Game Boy操作（SDCC）的AC库.
-- [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) -GIMP图像编辑器插件，用于导入和导出GBMB和GBTD磁贴图和磁贴集（作为位图图像或.GBM / .GBR文件）.
+- [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) -GIMP图像编辑器插件，用于导入和导出GBMB和GBTD tilemap和tileset（作为位图图像或.GBM / .GBR文件）.
 - [Tilemap Helper](https://github.com/bbbbbr/gimp-tilemap-helper) -GIMP图像编辑器插件，用于优化图块地图和图块集.
 - [Tilemap Studio](https://github.com/Rangi42/tilemap-studio)  -适用于Game Boy，Color，Advance和SNES项目的图块编辑器. 用C ++和FLTK编写. 
 
@@ -298,7 +298,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [mmlgb](https://github.com/SimonLarsen/mmlgb) -Nintendo Game Boy的MML解析器和GBDK声音驱动程序.
 - [XPMCK](https://github.com/bazzinotti/XPMCK) -基于MML的音乐编译器，支持Game Boy和Game Boy Color.
 - [SoundSystem](https://github.com/BlitterObjectBob/GBSoundSystem) -GameBoy Tracker（又名Paragon 5音乐播放器）的现代化音频驱动程序.
-- [hUGETracker](https://github.com/SuperDisk/hUGETracker) -基于OpenMPT的音乐跟踪器，专注于易用性，紧凑的输出以及在自制游戏中的可嵌入性. 
+- [hUGETracker](https://github.com/SuperDisk/hUGETracker) -基于OpenMPT的音乐跟踪器，专注于易用性，紧凑的输出以及在自制游戏中的可嵌入性.
 
 ## Programming
 
@@ -344,6 +344,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [bootstrap.gb](https://github.com/yenatch/bootstrap.gb) -一个示例Game Boy项目.
 - [Gameboy Boilerplate](https://github.com/junebug12851/GameboyBoilerplateProj) -Boilerplate项目，可以更快地进入游戏的实际汇编代码.
 - [GingerBread](https://github.com/ahrnbom/gingerbread)  -用于制作自己的Game Boy游戏的软件库. 它可以与书一起使用 [Game Boy Assembly Programming for the Modern Game Developer](https://github.com/ahrnbom/gbapfomgd) 它也可以作为文档使用.
+- [gb-vwf](https://github.com/ISSOtm/gb-vwf) -用于打印可变宽度文本的库，带有一个演示.
 - [gb-boilerplate](https://github.com/ISSOtm/gb-boilerplate) -用于启动Game Boy项目的模板，为基础结构提供Makefile.
 - [gb-starter-kit](https://github.com/ISSOtm/gb-starter-kit) -对上述内容的扩展，包括基本库代码，也可以更快上手.
 
@@ -399,7 +400,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [exeman](https://github.com/exezin/exeman/)
 - [Aevilia](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides](https://github.com/Kartones/gameboy) -一个简单的类似Game Boy Powerpoint的幻灯片查看器.
-- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -神奇宝贝Red经过完全GBC支持后进行了翻新.
+- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全通过GBC支持对PokémonRed进行了重新制作.
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) -Fourway Breakout克隆.
 - [Galaxia](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)

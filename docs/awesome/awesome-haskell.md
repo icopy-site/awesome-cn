@@ -241,7 +241,7 @@
 * [框架接口]（）-官方网站资源.
 * [Database and Persistence](https://wiki.haskell.org/Web/Databases_and_Persistence) -官方网站资源.
 * [Testing and Verification](https://wiki.haskell.org/Web/Testing_and_Verification) -官方网站资源.
-
+* [IHP: Integrated Haskell Platform](https://ihp.digitallyinduced.com/) -Haskell Web开发人员的最佳入门方法.
     ---
 * [Web](http://hackage.haskell.org/packages/#cat:Web) -框架，库等的协作式Hackage列表...
 
@@ -385,6 +385,7 @@
 * [Haskell Development Workflow Demo](http://www.youtube.com/watch?v=Li6oaO8x2VY)
 * [Learn You a Haskell](https://www.youtube.com/watch?v=NBKnY7Z_w3I&list=PLPqPwGvHPSZB-urE6QFjKYt6AGXcZqJUh) -附有视频讲座，并附有“学习Haskell，造福大国！”这本书.
 * [Awesome Haskell Videos](https://github.com/andys8/awesome-haskell-videos) -Haskell演讲和教程的精选清单
+* [IHP Casts](https://ihpcasts.com/ShowEpisode?episodeId=ab384647-3665-4a36-b5e5-e05fea6c2288) 学习使用Haskell和IHP构建类型安全的Web应用程序
 
 ## Courses
 

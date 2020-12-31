@@ -7,7 +7,7 @@
 有关列出了他们的学术谱系的计算机视觉人士的列表，请访问 [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
 ## Contributing
-请随时发给我 [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) 或通过电子邮件（jbhuang1@illinois.edu）添加链接.
+请随时发给我 [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) 或通过电子邮件（jbhuang@vt.edu）添加链接.
 
 
 
@@ -25,17 +25,18 @@
 * [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) -Reinhard，E.，Heidrich，W.，Debevec，P.，Pattanaik，S.，Ward，G.，Myszkowski，K 2010.
 * [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) -贾斯汀·所罗门（Justin Solomon）2015
 * [Image Processing and Analysis](https://www.amazon.com/Processing-Analysis-Activate-Learning-Engineering/dp/1285179528) -斯坦·伯奇菲尔德（Stan Birchfield）2018
+* [Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/) -西尔维奥·萨瓦雷斯（Silvio Savarese）2018
 
 #### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) -加里·布拉德斯基和阿德里安·凯勒
 * [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/) -阿德里安·罗斯布鲁克（Adrian Rosebrock）
-* [OpenCV Essentials](http://www.amazon.com/OpenCV-Essentials-Oscar-Deniz-Suarez/dp/1783984244/ref=sr_1_1?s=books&ie=UTF8&qid=1424594237&sr=1-1&keywords=opencv+essentials#) -奥斯卡·丹尼兹·苏亚雷斯（Oscar Deniz Suarez），米德尔·米拉格罗·费尔南德斯·卡洛布莱斯（Mel del Milagro Fernandez Carrobles），诺伊莉亚·瓦莱兹·埃诺（Noelia Vallez Enano），格洛里亚·布埃诺·加诺（Gloria Bueno Garcia），伊斯梅尔·塞拉诺·格拉西亚（Ismael Serrano Gracia）
+* [OpenCV Essentials](http://www.amazon.com/OpenCV-Essentials-Oscar-Deniz-Suarez/dp/1783984244/ref=sr_1_1?s=books&ie=UTF8&qid=1424594237&sr=1-1&keywords=opencv+essentials#) -奥斯卡·德尼兹·苏亚雷斯（Oscar Deniz Suarez），米德尔·米拉格罗·费尔南德斯·卡洛布莱斯（Mel del Milagro Fernandez Carrobles），诺伊莉亚·瓦莱兹·埃诺（Noelia Vallez Enano），格洛里亚·布埃诺·加诺（Gloria Bueno Garcia），伊斯梅尔·塞拉诺·格拉西亚（Ismael Serrano Gracia）
 
 #### Machine Learning
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) -2007年Christopher M.Bishop
 * [Neural Networks for Pattern Recognition](http://www.engineering.upm.ro/master-ie/sacpi/mat_did/info068/docum/Neural%20Networks%20for%20Pattern%20Recognition.pdf) -克里斯托弗·M·毕晓普1995
 * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) -Daphne Koller和Nir Friedman 2009
-* [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) -彼得·E·哈特（Peter E.Hart），大卫·史托克（David G.Stork）和理查德·O·杜达（Richard O.Duda）2000
+* [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) -彼得·哈特（Peter E.
 * [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) 汤姆·米切尔1997
 * [Gaussian processes for machine learning](http://www.gaussianprocess.org/gpml/) -卡尔·爱德华·拉斯穆森和克里斯托弗·基·威廉姆斯2005
 * [Learning From Data](https://work.caltech.edu/telecourse.html)-Yaser S.Abu-Mostafa，Malik Magdon-Ismail和Hsuan-Tien Lin 2012
@@ -74,7 +75,7 @@
 * [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) -Alexei A.Efros（CMU）
 * [Computational Photography](https://courses.engr.illinois.edu/cs498dh3/) -Derek Hoiem（UIUC）
 * [Computational Photography](http://cs.brown.edu/courses/csci1290/) -詹姆斯·海斯（布朗大学）
-* [Digital & Computational Photography](http://stellar.mit.edu/S/course/6/sp12/6.815/) -弗雷多·杜兰德（MIT）
+* [Digital & Computational Photography](http://stellar.mit.edu/S/course/6/sp12/6.815/) - Fredo Durand (MIT)
 * [Computational Camera and Photography](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/) -Ramesh Raskar（麻省理工学院媒体实验室）
 * [Computational Photography](https://www.udacity.com/course/computational-photography--ud955) -Irfan Essa（乔治亚理工学院）
 * [Courses in Graphics](http://graphics.stanford.edu/courses/) - 斯坦福大学
@@ -165,7 +166,7 @@
 
 #### Learning and Vision
  * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) -威廉·弗里曼（MIT）2011
- * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) - Simon Lucey (CMU) 2008
+ * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) -西蒙·露西（CMU）2008
  * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) -Yair Weiss（耶路撒冷希伯来大学）2009
 
 #### Object Recognition
@@ -294,13 +295,13 @@ BM3D，KSVD，
  * [Multi-frame image super-resolution](http://www.robots.ox.ac.uk/~vgg/software/SR/)
     *皮卡，多帧图像超分辨率的LC机器学习，博士学位论文2008
  * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
-     * W. T. Freeman和C. Liu. 马尔可夫随机场用于超分辨率和纹理合成. 参见A. Blake，P.Kohli和C. Rother编，《视觉和图像处理的马尔可夫随机场的进展》，第10章，麻省理工学院出版社，2011年
+     * W. T. Freeman和C. Liu. 马尔可夫随机场用于超分辨率和纹理合成. 摘自A. Blake，P.Kohli和C. Rother编，《视觉和图像处理的马尔可夫随机场的进展》，第10章，麻省理工学院出版社，2011年
  * [Sparse regression and natural image prior](https://people.mpi-inf.mpg.de/~kkim/supres/supres.htm)
      * KI Kim和Y. Kwon，“使用稀疏回归和自然图像先验的单图像超分辨率”，IEEE Trans. 模式分析和机器智能，第一卷.  32号 6，第1127-1133页，2010年.
  * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
      * T. Peleg和M. Elad，基于稀疏表示的单图像超分辨率统计预测模型，《 IEEE Transactions on Image Processing，Vol.  23，No.6，Pages 2569-2582，2014年6月
  * [Sparse Coding for Super-Resolution](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
-    * R.Zeyde，M.Elad和M.Protter，使用稀疏表示法，曲线和曲面进行单幅图像放大，法国阿维尼翁，2010年6月24日至30日（也出现在计算机上的演讲笔记中，科学-LNCS）.
+    * R.Zeyde，M.Elad和M.Protter，使用稀疏表示法，曲线和曲面进行单幅图像放大，法国阿维尼翁，2010年6月24日至30日（也出现在计算机上的讲义中，科学-LNCS）.
  * [Patch-wise Sparse Recovery](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
      *杨建超，约翰·赖特，托马斯·黄和马一. 通过稀疏表示实现图像超分辨率.  IEEE Transactions on Image Processing（TIP），第一卷 19，第11期，2010年.
  * [Neighbor embedding](http://www.jdl.ac.cn/user/hchang/doc/code.rar)

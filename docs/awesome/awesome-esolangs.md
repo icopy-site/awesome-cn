@@ -22,7 +22,7 @@
 * [ArnoldC](http://lhartikk.github.io/ArnoldC) -基于Arnold Schwarzenegger最好的单人阵容.
 * [Befunge](https://esolangs.org/wiki/Befunge) -二维语言.
 * [Brackets](https://github.com/kvbc/brackets) -语言由方括号组成，很多方括号.
-* [Brainfuck](https://esolangs.org/wiki/Brainfuck) -仅使用8个单字符命令的极简语言.
+* [Brainfuck](https://esolangs.org/wiki/Brainfuck) - Minimalist language using only 8 single-character commands.
 * [C Flat](https://github.com/NicksterSand/Cflat) -音乐语言的重点是声音，而不是记着创作自由的记号.
 * [Charcoal](https://github.com/somebody1234/Charcoal) -速写ASCII艺术的简洁语言.
 * [Chef](http://www.dangermouse.net/esoteric/chef.html) -看起来像烹饪食谱的程序.
@@ -46,7 +46,7 @@
 * [LolCode](http://lolcode.org) -带有基于lolcat meme表达式的关键字的语言.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) -以地狱的第8级命名，旨在尽可能地难以编程.
 * [Monicelli](https://github.com/esseks/monicelli) -使用类似意大利文的乱码进行编程.
-* [Ni](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
+* [Ni](https://github.com/DeybisMelendez/ni) -基于Brainfuck，提供更多有用的说明.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) -类似于Internet lang语的语法.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) -基于Brainfuck的语言，其中的命令是猩猩单词.
 * [Orca](https://hundredrabbits.itch.io/orca) -Livecoding环境，可快速创建程序音频定序器.
@@ -65,6 +65,7 @@
 * [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.
 * [Velato](http://velato.net) -使用MIDI文件作为源的语言，程序由音高和音高顺序定义.
 * [Vigil](https://github.com/munificent/vigil) -只有Vigil真正警惕不允许未通过编程规范的代码.
+* [Watson](https://github.com/genkami/watson) -基于堆栈的图灵不完整的配置文件.
 * [文言 (Wenyan)](http://wenyan-lang.lingdong.works) -紧跟中国古典文学的语法和语气.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) -随时随地执行操作的语言.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) -仅使用白色字符（空格，制表符和换行符）.
