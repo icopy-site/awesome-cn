@@ -96,6 +96,7 @@
 * [Citus](https://github.com/citusdata/citus) -可扩展的PostgreSQL集群，用于实时工作负载.
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) -用于PostgreSQL分析的柱状存储.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) -Cyan Audit逐列提供所有DML活动的数据库内日志记录.
+* [pg_cron](https://github.com/citusdata/pg_cron) -在PostgreSQL中运行定期作业.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) -提供逻辑流复制的扩展.
 * [pg\_partman](https://github.com/pgpartman/pg_partman) -PostgreSQL的分区管理扩展.
 * [pg\_paxos](https://github.com/citusdata/pg_paxos/) -PostgreSQL节点集群的Paxos和基于Paxos的表复制的基本实现.
@@ -121,7 +122,7 @@
 * [pgtune](https://github.com/gregs1104/pgtune/) -PostgreSQL配置向导.
 * [pgtune](https://github.com/le0pard/pgtune) -PostgreSQL配置向导的在线版本.
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) -PostgreSQL在线配置工具（也基于pgtune）.
-* [PoWA](https://powa.readthedocs.io/en/latest/) -PostgreSQL Workload Analyzer收集性能统计信息并提供实时图表，以帮助监视和调整PostgreSQL服务器.
+* [PoWA](https://powa.readthedocs.io/en/latest/) -PostgreSQL Workload Analyzer收集性能统计数据，并提供实时图表，以帮助监视和调整PostgreSQL服务器.
 * [pg_web_stats](https://github.com/kirs/pg_web_stats) -用于查看pg_stat_statements的Web UI.
 * [TimescaleDB Tune](https://github.com/timescale/timescaledb-tune) -一种程序，用于根据主机的资源（例如内存和CPU数量）调整TimescaleDB数据库以使其发挥最佳性能.
 
@@ -169,8 +170,8 @@
 *普通Lisp： [Postmodern](https://github.com/marijnh/Postmodern)
 * Clojure： [clj-postgresql](https://github.com/remodoy/clj-postgresql)
 *药剂： [postgrex](https://github.com/elixir-ecto/postgrex)
-* Go: [pq](https://github.com/lib/pq), [pgx](https://github.com/jackc/pgx)
-* Haskell： [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
+* 走： [pq](https://github.com/lib/pq), [pgx](https://github.com/jackc/pgx)
+* Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java： [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net / .Net核心： [Npgsql](https://github.com/npgsql/npgsql)
 *节点： [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise), [pogi](https://github.com/holdfenytolvaj/pogi), [slonik](https://github.com/gajus/slonik), [postgres](https://github.com/porsager/postgres)
@@ -207,7 +208,7 @@
 * [PostgreSQL Exercises](https://pgexercises.com/) -通过练习使学习PostgreSQL变得容易的站点.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) -PostgreSQL上的教程非常丰富
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) -示例postgres模式的集合
-* [PostgreSQL Primer for Busy People](https://zaiste.net/postgresql_primer_for_busy_people/) -PostgreSQL中使用的最常用命令的集合
+* [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/) -PostgreSQL中使用的最常用命令的集合
 * [pg-utils](https://github.com/dataegret/pg-utils) -Data Egret有用的DBA工具
 
 ### Blogs

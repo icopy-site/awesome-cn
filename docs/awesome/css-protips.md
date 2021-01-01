@@ -29,7 +29,7 @@
 * :: {之后
   框大小：border-box；
   边距：0;
-  padding: 0;
+  填充：0;
 }
 ```
 
@@ -76,7 +76,7 @@ html {
   颜色：继承；
   font：继承;
   大纲：无；
-  padding: 0;
+  填充：0;
 }
 ```
 
@@ -243,7 +243,7 @@ ul&gt; li：not（：last-child）:: after {
 }
 ```
 
-使用`：not（）`伪类，不会在最后一项添加逗号.
+Use the `:not()` pseudo-class and no comma will be added to the last item.
 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -408,21 +408,6 @@ a [href]：not（[class]）{
 ```
 
 现在，通过CMS插入的链接通常不具有“ class”属性，它们之间将具有区别，而不会普遍影响级联.
-
-<sup>[back to table of contents](#table-of-contents)</sup>
-
-
-### Consistent Vertical Rhythm
-
-在元素内使用通用选择器（`*`）创建一致的垂直节奏：
-
-```css
-.intro&gt; * {
-  底边距：1.25rem;
-}
-```
-
-一致的垂直节奏可提供视觉美感，使内容更具可读性.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 

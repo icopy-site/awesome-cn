@@ -188,7 +188,7 @@ Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/mas
 
 ### Rust SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/rusoto/rusoto)
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/rusoto/rusoto)
 * [Install](https://github.com/rusoto/rusoto#installation)
 * [Docs](https://docs.rs/rusoto_core/)
 
@@ -1193,7 +1193,7 @@ AWS会议：
 *将102Tbps的网络容量连接到数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 *自2014年以来推出了500多种主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *所有其他14个云提供商的总和是AWS总容量的1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*每天，AWS成为年收入7B的企业（2004年）时，都会增加足够的新服务器容量来支持亚马逊的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+*每天，AWS成为年收入7B的企业（2004年）时，都会增加足够的新服务器容量来支持整个Amazon的全球基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 
@@ -1267,8 +1267,8 @@ AWS会议：
 ### Security and Identity Services
 
 * [Certificate Manager](https://aws.amazon.com/certificate-manager/) -使您轻松配置，管理和部署SSL / TLS证书以与AWS服务一起使用.
-* [CloudHSM](https://aws.amazon.com/cloudhsm/) -通过使用AWS云中的专用硬件安全模块（HSM）设备，帮助满足公司，合同和法规对数据安全性的要求.
-* [Directory Service](https://aws.amazon.com/directoryservice/) -一种托管服务，可让您将资源与现有的本地Microsoft Active Directory连接或在AWS Cloud中建立新的独立目录.
+* [CloudHSM](https://aws.amazon.com/cloudhsm/) -通过使用AWS云中的专用硬件安全模块（HSM）设备，帮助满足公司，合同和法规对数据安全的合规性要求.
+* [Directory Service](https://aws.amazon.com/directoryservice/) -一种托管服务，可让您将资源与现有的本地Microsoft Active Directory连接或在AWS Cloud中设置新的独立目录.
 * [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) -隐式服务，用于对各种服务的访问进行身份验证的身份验证基础结构.
 * [Inspector](https://aws.amazon.com/inspector/) -自动化安全评估服务，可帮助改善AWS上部署的应用程序的安全性和合规性.
 * [Key Management Service (KMS)](https://aws.amazon.com/kms/) -一项托管服务，使您可以轻松创建和控制用于加密数据的加密密钥.

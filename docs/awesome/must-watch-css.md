@@ -6,7 +6,7 @@
 
 ## Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-这是关于CSS的一些受欢迎的演讲的集合，涵盖了CSS框架，Sass，SVG，动画，可伸缩性，CSS性能，工具，移动技巧等主题.
+这是关于CSS的一些受欢迎的演讲的集合，涵盖诸如CSS Grid，flexbox，框架，变量，Sass，SVG，性能，工具等主题.
 
  &gt; **像JavaScript？ 查看 [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)！**有关其他很棒的清单，请查看 [@sindresorhus](https://github.com/sindresorhus/)的精选清单 [awesome lists](https://github.com/sindresorhus/awesome/).
 

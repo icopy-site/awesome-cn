@@ -267,6 +267,7 @@
 
 - [Sitecore PowerShell](https://github.com/SitecorePowerShell) -Sitecore PowerShell Initiative官方GitHub.
 - [Sitecore.Utilities](https://github.com/alan-null/Sitecore.Utilities) -Sitecore PowerShell扩展的一组小模块.
+- [SPE Content Migrator](https://github.com/michaellwest/Spe-Content-Migrator) -使用SPE在Sitecore实例之间迁移内容的脚本.
 
 ## SPEAK
 

@@ -32,7 +32,7 @@
 - [nvm](https://github.com/jorgebucaran/nvm.fish) -专门为Fish设计的Node.js版本管理器.
 - [Done](https://github.com/franciscolourenco/done) -漫长的过程完成后自动接收通知.
 - [Replay](https://github.com/jorgebucaran/replay.fish)  -运行Bash命令以重播Fish中的更改.  （[Alternative](https://github.com/edc/bass))
-- [Spark](https://github.com/jorgebucaran/spark.fish) -纯鱼火花线发生器.
+- [Spark](https://github.com/jorgebucaran/spark.fish) -鱼的迷你线.
 - [Gitio](https://github.com/jorgebucaran/gitio.fish) -创建自定义git.io URL.
 - [Fisher](https://github.com/jorgebucaran/fisher) -通过CLI管理功能，补全，绑定和摘要.
 - [Fundle](https://github.com/danhper/fundle) -基于`config.fish`的插件管理器.
