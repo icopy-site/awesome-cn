@@ -157,6 +157,7 @@
 ## Helix
 
 - [Sitecore Helix Documentation](https://github.com/Sitecore/Helix.Docs) -在Sitecore中开发Sitecore Helix的官方指南和推荐做法.
+- [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples)  -在各种工具和业务场景中演示Sitecore Helix的实践； 旨在展示比现有示例更广泛的实现类型/要求.
 - [Helixbase](https://github.com/muso31/Helixbase) -用于Greenfield项目的基于Sitecore Helix的解决方案.
 - [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) -遵循Helix模块化体系结构设计原则的Sitecore框架，包括大量功能和基础层模块以及可重复使用的Project层Common.
 - [Helix example Module & Solution templates](https://github.com/LaubPlusCo/Helix-Templates) -Sitecore Helix Visual Studio模板扩展的模板.

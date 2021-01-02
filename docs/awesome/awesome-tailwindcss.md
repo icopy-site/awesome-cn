@@ -151,9 +151,10 @@
 -  [Palettolithic](https://palettolithic.com) -根据一种颜色生成和声调色板.
 -  [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) -具有Tailwind CSS v2颜色的Figma库.
 -  [Colorkraken](https://github.com/Bouhoum/colorkraken) -Tailwind CSS的颜色阴影生成器.
--  [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) -由OpenAI GPT-3驱动的Tailwind CSS代码生成器.
--  [Stitches](https://stitches.hyperyolo.com/) -带有Tailwind的模板生成器（在线）.
--  [tail-animista](https://tail-animista.vercel.app) -Tailwind CSS的可配置自定义动画实用程序生成器.
+-  [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) -一个Babel插件，可在使用Babel编译代码时添加自定义深色类.
+- 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) -由OpenAI GPT-3驱动的Tailwind CSS代码生成器.
+- 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) -带有Tailwind的模板生成器（在线）.
+- 🌍🔧 [tail-animista](https://tail-animista.vercel.app) -Tailwind CSS的可配置自定义动画实用程序生成器.
 -  [Typography Playground](https://tailwind-typography-playground.vercel.app/) -使用Tailwind CSS Typography插件尝试不同Google字体组合的工具.
 -  [Play](https://play.tailwindcss.com/) -先进的Tailwind CSS在线游乐场.
 -  [tailwind.run](https://tailwind.run) -带有内置功能的Tailwind CSS提琴（在线）.
@@ -184,7 +185,7 @@
 -  [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) -使用Tailwind CSS自定义表单的刀片表单组件.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) -生成Tailwind类的ReasonML实用程序.
 -  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
-- 🚀 [Maizzle](https://maizzle.com/) -使用Tailwind CSS快速进行电子邮件原型制作的框架.
+-  [Maizzle](https://maizzle.com/) -使用Tailwind CSS快速进行电子邮件原型制作的框架.
 -  [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) -Tailwind CSS类名称备忘单.
 -  [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) -尾风CSS类名称在一个文件中.
 -  [Tailwind Cheat Sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet) -Tailwind CSS类名称，变体和指令速查表.
@@ -214,6 +215,7 @@
 -  [Gust UI](https://www.gustui.com/) -用于React和HTML中Web应用程序的流畅Tailwind CSS组件.
 -  [Windstrap](https://windstrap.netlify.app) -带Bootstrap JS的Tailwind CSS.
 -  [WickedBlocks](https://blocks.wickedtemplates.com/) -收集了超过120个使用Tailwind CSS构建的布局块和组件.
+-  [Daisy UI](https://github.com/saadeghi/daisyui) -Tailwind CSS的UI组件.  
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) -多主题，完全可访问的仪表板模板.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -带有Tailwind CSS的管理面板模板.
 -  [Landing Gradients](https://landing-gradients.netlify.app/) -使用渐变（1.7+）的目标网页模板.
@@ -234,36 +236,36 @@
 -  [Laravel Preset](https://github.com/use-preset/laravel-tailwindcss) -将Tailwind CSS添加到Laravel框架.
 -  [Laravel Front-end Preset](https://github.com/laravel-frontend-presets/tailwindcss) -使用Laravel的Tailwind CSS进行前端预设.
 -  [Laravel Dark Front-end Preset](https://github.com/Naoray/dark-tailwind-preset) -使用Laravel的Tailwind CSS的黑暗主题前端预设.
-- 🚀 [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的CRA样板.
+-  [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的CRA样板.
 -  [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) -支持Tailwind CSS和TypeScript的CRA模板.
-- 🚀 [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) -使用Parcel的Tailwind CSS样板.
-- 🚀 [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) -使用Tailwind CSS的Jekyll启动器.
-- 🚀 [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) -使用Tailwind CSS的Jekyll启动器.
-- 🚀 [Gulp Starter](https://github.com/simonswiss/tailwind-starter) -使用Tailwind CSS的Gulp启动器.
-- 🚀 [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) -使用Tailwind CSS的盖茨比初学者.
-- 🚀 [Gatsby Starter Simplicity](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) -使用Tailwind CSS的盖茨比初学者.
-- 🚀 [Gatsby Starter + TypeScript](https://github.com/impulse/gatsby-typescript-tailwind) -使用Tailwind CSS和TypeScript的Gatsby启动程序.
-- 🚀 [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的盖茨比初学者.
-- 🚀 [Gatsby Starter Opinionated](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) -使用Tailwind CSS和自以为是的东西的盖茨比初学者.
-- 🚀 [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) -使用Tailwind CSS的CRA样板.
-- 🚀 [Create React App with PurgeCSS + Autoprefixer + CSSNano](https://github.com/saadeghi/create-react-app-tailwindcss) -使用CSS Nano的CRA样板.
-- 🚀 [Dogpatch](https://github.com/jack-pallot/dogpatch) -使用Webpack，Vue，Babel和Tailwind CSS的WordPress入门工具.
-- 🚀 [Next.js Starter](https://github.com/oddstronaut/tailwind-next) -使用Tailwind CSS的Next.js样板.
-- 🚀 [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) -使用Sapper，Tailwind CSS，Purge CSS，Prettier和ESLint来制作样板.
-- 🚀 [Netlify Lambda Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) -使用Tailwind CSS的Netlify Lambda样板.
-- 🚀 [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) -使用Tailwind CSS的Hugo主题入门.
-- 🚀 [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) -使用Eleventy，Tailwind CSS，Webpack和PostCSS的入门套件.
-- 🚀 [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) -使用Tailwind CSS的Nanoc启动器.
-- 🚀 [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) -使用CSS Nano的样板.
-- 🚀 [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) -使用Tailwind CSS，ParcelJS捆绑程序和TypeScript的样板.
-- 🚀 [VuePress Tailwind CSS Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) -使用Tailwind CSS的VuePress启动器.
-- 🚀 [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
-- 🚀 [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) - Hugo theme using Tailwind CSS.
-- 🚀 [Eleventy Starter](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) -使用Tailwind CSS的可用于生产环境且SEO友好的博客启动器.
-- 🚀 [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) -使用Vite，React和Tailwind CSS的样板.
-- 🚀 [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) -使用Vite，Vue，Vue Router和Tailwind CSS的入门模板.
-- 🚀 [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) -使用Vue和Tailwind CSS的Shopify主题开发入门.
-- 🚀 [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) -使用Tailwind CSS和Alpine JS的仪表板布局.
+-  [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) -使用Parcel的Tailwind CSS样板.
+-  [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) -使用Tailwind CSS的Jekyll启动器.
+-  [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) -使用Tailwind CSS的Jekyll启动器.
+-  [Gulp Starter](https://github.com/simonswiss/tailwind-starter) -使用Tailwind CSS的Gulp启动器.
+-  [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) -使用Tailwind CSS的盖茨比初学者.
+-  [Gatsby Starter Simplicity](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) -使用Tailwind CSS的盖茨比初学者.
+-  [Gatsby Starter + TypeScript](https://github.com/impulse/gatsby-typescript-tailwind) -使用Tailwind CSS和TypeScript的Gatsby启动程序.
+-  [Gatsby Starter + Emotion JS](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的盖茨比初学者.
+-  [Gatsby Starter Opinionated](https://github.com/mjsarfatti/gatsby-starter-tailwind-opinionated) -使用Tailwind CSS和自以为是的东西的盖茨比初学者.
+-  [Create React App Boilerplate](https://github.com/kriswep/cra-tailwindcss) -使用Tailwind CSS的CRA样板.
+-  [Create React App with PurgeCSS + Autoprefixer + CSSNano](https://github.com/saadeghi/create-react-app-tailwindcss) -使用CSS Nano的CRA样板.
+-  [Dogpatch](https://github.com/jack-pallot/dogpatch) -使用Webpack，Vue，Babel和Tailwind CSS的WordPress入门工具.
+-  [Next.js Starter](https://github.com/oddstronaut/tailwind-next) -使用Tailwind CSS的Next.js样板.
+-  [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) -使用Sapper，Tailwind CSS，Purge CSS，Prettier和ESLint来制作样板.
+-  [Netlify Lambda Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) -使用Tailwind CSS的Netlify Lambda样板.
+-  [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) -使用Tailwind CSS的Hugo主题入门.
+-  [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) -使用Eleventy，Tailwind CSS，Webpack和PostCSS的入门套件.
+-  [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) -使用Tailwind CSS的Nanoc启动器.
+-  [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) -使用CSS Nano的样板.
+-  [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) -使用Tailwind CSS，ParcelJS捆绑程序和TypeScript的样板.
+-  [VuePress Tailwind CSS Starter](https://github.com/xiaoluoboding/vuepress-tailwind-theme-starter) -使用Tailwind CSS的VuePress启动器.
+-  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
+-  [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
+-  [Eleventy Starter](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) -使用Tailwind CSS的可用于生产环境且SEO友好的博客启动器.
+-  [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) -使用Vite，React和Tailwind CSS的样板.
+-  [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) -使用Vite，Vue，Vue Router和Tailwind CSS的入门模板.
+-  [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) -使用Vue和Tailwind CSS的Shopify主题开发入门.
+-  [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) -使用Tailwind CSS和Alpine JS的仪表板布局.
 
 ## Open-Source Projects
 
@@ -303,18 +305,18 @@
 -  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) -使用Tailwind CSS构建响应式导航栏.
 -  [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) -用Tailwind CSS拍摄的运球.
 -  [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) -使用Tailwind CSS构建Tweet组件.
--  [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) -使用Tailwind CSS创建模式对话框.
--  [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) -构建Shopify，Spotify，Netlify和Atlassian的UI.
--  [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) -使用Tailwind CSS重建FreshBooks.
--  [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) -使用Tailwind CSS创建登录页面.
--  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
--  [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中构建Vue.js组件.
--  [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
--  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.
--  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
--  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
--  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
--  [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
+- 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) -使用Tailwind CSS创建模式对话框.
+- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) -构建Shopify，Spotify，Netlify和Atlassian的UI.
+- 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) -使用Tailwind CSS重建FreshBooks.
+- 🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) -使用Tailwind CSS创建登录页面.
+- 🎓 [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
+- 🎓 [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中构建Vue.js组件.
+- 🎓 [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
+- 🎓 [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.
+- 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
+- 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
+- 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
+- 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
 -  [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 -  [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 -  [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)

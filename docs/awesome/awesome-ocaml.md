@@ -194,7 +194,7 @@
 - [utop](https://github.com/ocaml-community/utop) – OCaml的通用顶层，支持多行版本，历史记录，实时和上下文相关的补全，颜色等.
 - [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) -格式化OCaml代码的命令行工具.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html)  –使用LablTk编写的源代码和编译界面浏览器. 包含在ocaml &lt;= 4.01的标准发行版中，以及包含在labml&gt; = 4.02的labltk中.
-- [ghim](https://github.com/samoht/ghim) –用于管理Github问题的命令行工具.
+- [ghim](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
 - [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) –支架式OCaml模块的Yeoman发电机.
 
 -**外部功能接口**：
@@ -276,7 +276,7 @@
 
 ## User Interface
 
-- [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.
+- [lablgtk](https://garrigue.github.io/lablgtk/) — OCaml的GTK2和GTK3绑定，具有各种高级功能来定义GUI.
 - [lablqml](https://github.com/Kakadu/lablqml) – OCaml的QML Qt5绑定.
 - [labltk](https://forge.ocamlcore.org/projects/labltk/)  — Tcl / Tk GUI框架的接口. 在ocaml &lt;= 4.01的标准发行版中.
 - [TSDL](http://erratique.ch/software/tsdl) – Tsdl是OCaml模块，提供对跨平台SDL库的精简绑定.

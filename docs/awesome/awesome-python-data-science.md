@@ -132,7 +132,7 @@
 * [SweetViz](https://github.com/fbdesignpro/sweetviz)：使用一行代码即可可视化和比较数据集，目标值和关联.
 
 ### NLP
-* [pyLDAvis](https://github.com/bmabey/pyLDAvis): Visualize interactive topic model
+* [pyLDAvis](https://github.com/bmabey/pyLDAvis)：可视化交互式主题模型
 
 
 ## Deployment
@@ -143,6 +143,7 @@
 
 
 ## Model Explanation
+* [Shapley](https://github.com/benedekrozemberczki/shapley) -数据驱动的框架，用于量化机器学习集合中分类器的价值. 
 * [Alibi](https://github.com/SeldonIO/alibi) -用于监视和解释机器学习模型的算法.
 * [anchor](https://github.com/marcotcr/anchor) -“高精度模型不可知的解释”代码.
 * [aequitas](https://github.com/dssg/aequitas) -偏差和公平审计工具包.
@@ -231,7 +232,7 @@
 
 ## Statistics
 * [statsmodels](https://github.com/statsmodels/statsmodels) -Python中的统计建模和计量经济学.
-* [stockstats](https://github.com/jealous/stockstats) -提供基于pandas.DataFrame的包装器StockDataFrame，并提供内联库存统计数据/指标支持.
+* [stockstats](https://github.com/jealous/stockstats) -提供基于pandas.DataFrame的包装器StockDataFrame，并支持内联库存统计数据/指标.
 * [weightedcalcs](https://github.com/jsvine/weightedcalcs) -基于熊猫的实用程序，用于计算加权平均值，中位数，分布，标准差等.
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) -成对多重比较事后测试.
 * [Alphalens](https://github.com/quantopian/alphalens) -预测（alpha）库存因子的性能分析.
@@ -255,7 +256,7 @@
 * [AI Fairness 360](https://github.com/IBM/AIF360) -数据集和ML模型的公平性指标，解释和算法，以减轻数据集和模型中的偏差.
 
 ## Computations
-* [numpy](http://www.numpy.org/) -使用Python进行科学计算所需的基本软件包.
+* [numpy](http://www.numpy.org/) - The fundamental package needed for scientific computing with Python.
 * [bottleneck](https://github.com/kwgoodman/bottleneck) -用C编写的快速NumPy数组函数.
 * [CuPy](https://github.com/cupy/cupy) -CUDA加速了类似NumPy的API.
 * [scikit-tensor](https://github.com/mnick/scikit-tensor) -用于多线性代数和张量分解的Python库.

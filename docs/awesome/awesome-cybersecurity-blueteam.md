@@ -4,7 +4,7 @@
 
 &gt;为网络安全蓝队提供了很棒的资源，工具和其他令人眼前一亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一组个人，可以识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保所实施的防御措施在将来仍然有效. 尽管不是排他性的，但此清单在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是一群人，他们识别信息技术系统中的安全漏洞，验证安全措施的有效性并监视系统，以确保已实施的防御措施在将来仍然有效. 尽管不是排他性的，但此清单在很大程度上偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html) 项目，并反对专有产品或公司服务. 有关攻击性TTP，请参阅 [awesome-pentest](https://github.com/fabacab/awesome-pentest).
 
 衷心地欢迎您的贡献和建议♥.  （✿◕‿◕）. 请检查 [Contributing Guidelines](https://github.com/fabacab/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md) 更多细节. 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -42,7 +42,7 @@
 
 也可以看看 [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)和 [IR management consoles](#ir-management-consoles).
 
-- [Shuffle](https://shuffler.io/) -适用于IT专业人员和蓝色团队的图形化通用工作流（自动化）构建器.
+- [Shuffle](https://shuffler.io/) - Graphical generalized workflow (automation) builder for IT professionals and blue teamers.
 
 ## Cloud platform security
 
@@ -51,7 +51,7 @@
 - [Checkov](https://www.checkov.io/) -Terraform的静态分析（以基础结构作为代码），有助于检测CIS策略违规并防止云安全配置错误.
 - [Falco](https://falco.org/) -行为活动监视器，旨在通过审核Linux内核并通过运行时数据（例如Kubernetes指标）进行充实，以检测容器化应用程序，主机和网络数据包流中的异常活动.
 - [Istio](https://istio.io/) -开放平台，用于提供统一的方式来集成微服务，管理跨微服务的流量，执行策略和汇总遥测数据.
-- [Kata Containers](https://katacontainers.io/) -使用感觉和性能类似容器的轻型虚拟机来保护容器运行时，但是使用硬件虚拟化技术作为第二层防御，可以提供更强的工作负载隔离.
+- [Kata Containers](https://katacontainers.io/) -使用感觉和性能类似容器的轻型虚拟机来保护容器运行时，但是使用硬件虚拟化技术作为第二防御层，可以提供更强的工作负载隔离.
 - [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) -查询和验证托管Kubernetes集群对象以及集群内部运行的工作负载/资源的几种与安全性相关的常见配置设置.
 - [Prowler](https://github.com/toniblyx/prowler) -基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和强化.
 - [Scout Suite](https://github.com/nccgroup/ScoutSuite) -开源的多云安全审核工具，可对云环境进行安全状态评估.
@@ -75,7 +75,7 @@
 - [CodeQL](https://securitylab.github.com/tools/codeql) -通过对代码进行查询，就像发现数据一样，从而发现整个代码库中的漏洞.
 - [DefectDojo](https://www.defectdojo.org/) -为DevOps和持续安全集成而构建的应用程序漏洞管理工具.
 - [Gauntlt](http://gauntlt.org/) -在常规持续集成过程中的Pentest应用程序会构建管道.
-- [Git Secrets](https://github.com/awslabs/git-secrets) -防止您将密码和其他敏感信息提交到git存储库.
+- [Git Secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing passwords and other sensitive information to a git repository.
 - [SOPS](https://github.com/mozilla/sops) -支持YAML，JSON，ENV，INI和二进制格式并使用AWS KMS，GCP KMS，Azure Key Vault和PGP加密的加密文件的编辑器.
 - [Snyk](https://snyk.io/) -查找并修复开源依赖项和容器映像中的漏洞和许可证违规.
 - [SonarQube](https://sonarqube.org) -连续检查工具，可在自动测试期间提供详细的报告，并就新引入的安全漏洞发出警报.
@@ -99,9 +99,9 @@
 
 也可以看看 [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
-* [Atheris](https://pypi.org/project/atheris/) - Coverage-guided Python fuzzing engine based off of libFuzzer that supports fuzzing of Python code but also native extensions written for CPython.
+* [Atheris](https://pypi.org/project/atheris/) -基于libFuzzer的覆盖率指导的Python模糊测试引擎，该引擎支持Python代码的模糊测试，也支持为CPython编写的本机扩展.
 * [FuzzBench](https://google.github.io/fuzzbench/) -免费服务，可在Google规模的各种实际基准上评估模糊器.
-* [OneFuzz](https://github.com/microsoft/onefuzz) - Self-hosted Fuzzing-as-a-Service (FaaS) platform.
+* [OneFuzz](https://github.com/microsoft/onefuzz) -自托管的Fuzzing即服务（FaaS）平台.
 
 ### Policy enforcement
 
@@ -118,7 +118,7 @@
 ### Tarpits
 
 - [Endlessh](https://github.com/skeeto/endlessh) -缓慢地发送无尽横幅的SSH tarpit.
-- [LaBrea](http://labrea.sourceforge.net/labrea-info.html) -响应ARP请求以获取未使用IP空间的程序，从而形成伪造的计算机，这些伪造的计算机非常缓慢地响应其他请求，从而减慢扫描仪，蠕虫等的速度.
+- [LaBrea](http://labrea.sourceforge.net/labrea-info.html) -回答ARP请求中未使用的IP空间的程序，从而形成伪造的计算机的外观，这些伪造的计算机非常缓慢地响应其他请求，从而减慢扫描程序，蠕虫等的速度.
 
 ## Host-based tools
 
@@ -149,7 +149,7 @@
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) -网络安全事件管理平台，可轻松创建，跟踪和报告网络安全事件.
 - [Rekall](http://www.rekall-forensic.com/) -先进的取证和事件响应框架.
 - [TheHive](https://thehive-project.org/) -可扩展的免费安全事件响应平台，旨在简化SOC，CSIRT和CERT的工作，并与MISP紧密集成.
-- [threat_note](https://github.com/defpoint/threat_note) -Defence Point Security构建的Web应用程序，使安全研究人员能够添加和检索与他们的研究相关的指标.
+- [threat_note](https://github.com/defpoint/threat_note) -Defence Point Security构建的Web应用程序，使安全研究人员能够添加和检索与其研究相关的指标.
 
 ### Evidence collection
 
@@ -179,7 +179,7 @@
 
 也可以看看 [awesome-pentest § Social Engineering Tools](https://github.com/fabacab/awesome-pentest#social-engineering-tools).
 
-- [CertSpotter](https://github.com/SSLMate/certspotter) -SSLMate的证书透明性日志监视器，当为您的一个域颁发SSL / TLS证书时提醒您.
+- [CertSpotter](https://github.com/SSLMate/certspotter) - Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.
 - [Gophish](https://getgophish.com/) -强大的开源网络钓鱼框架，可以轻松测试组织对网络钓鱼的危害.
 - [King Phisher](https://github.com/securestate/king-phisher) -通过模拟真实的网络钓鱼攻击来测试和增强用户意识的工具.
 - [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件.
@@ -200,6 +200,12 @@
 - [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) -生成恶意网络流量并帮助安全团队评估安全控制并审核其网络可见性的实用程序.
 - [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) -基于Ubuntu的Open Virtual Appliance（`.ova`）已预先配置了多个威胁仿真工具以及防御者的工具包.
 
+## Security configurations
+
+（也称为“默认安全基准”和“实施的最佳做法”.）
+
+- [Bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) -NginX配置和脚本的Docker映像，该脚本为网站实施了许多防御技术.
+
 ## Security monitoring
 
 ### Endpoint Detection and Response (EDR)
@@ -219,7 +225,7 @@
 - [Snort](https://snort.org/) -广泛部署的免费软件IPS，能够进行实时数据包分析，流量记录和基于规则的自定义触发器.
 - [SpoofSpotter](https://github.com/NetSPI/SpoofSpotter) -捕获欺骗的NetBIOS名称服务（NBNS）响应并提醒电子邮件或日志文件.
 - [Stenographer](https://github.com/google/stenographer) -全包捕获实用程序，用于将数据包缓冲到磁盘以进行入侵检测和事件响应.
-- [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及可通过Lua编写脚本的深度数据包检查功能的免费，跨平台IDS / IPS.
+- [Suricata](https://suricata-ids.org/) -具有在线和离线分析模式以及深度数据包检查功能的免费，跨平台IDS / IPS，Lua也可以编写脚本.
 - [Tsunami](https://github.com/google/tsunami-security-scanner) -具有可扩展插件系统的通用网络安全扫描程序，可高度自信地检测高严重性漏洞. 
 - [VAST](https://github.com/tenzir/vast) -免费的开源网络遥测引擎，用于数据驱动的安全调查.
 - [Wireshark](https://www.wireshark.org) -免费和开源的数据包分析器，可用于网络故障排除或法医网络流分析.
@@ -229,7 +235,7 @@
 ### Security Information and Event Management (SIEM)
 
 - [AlienVault OSSIM](https://www.alienvault.com/open-threat-exchange/projects) -由AlienVault开放威胁交换（OTX）驱动的具有资产发现，资产清单，行为监控和事件关联的单服务器开源SIEM平台.
-- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报.
+- [Prelude SIEM OSS](https://www.prelude-siem.org/) -开源，无代理SIEM，历史悠久，具有多种商业变体，具有安全事件收集，规范化和来自任意日志输入和大量流行的监视工具的警报功能.
 
 ### Service and performance monitoring
 
@@ -250,10 +256,10 @@
 
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep) -基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和搜寻操作.
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) -用于通过Windows事件日志进行寻线分组的PowerShell模块.
-- [GRR Rapid Response](https://github.com/google/grr) -事件响应框架专注于远程实时取证，该远程响应取证由安装在资产上的Python代理和基于Python的服务器基础结构组成，使分析人员能够快速分类攻击并进行远程分析.
+- [GRR Rapid Response](https://github.com/google/grr) -事件响应框架专注于远程实时取证，该远程响应取证由安装在资产上的Python代理和基于Python的服务器基础结构组成，使分析师能够快速分类攻击并进行远程分析.
 - [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) -基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁搜寻堆栈，并具有包括Jupyter Notebook在内的各种内置集成分析功能.
 - [MozDef](https://github.com/mozilla/MozDef) -自动执行安全事件处理流程，并促进事件处理程序的实时活动.
-- [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标，或对其进行调查以获取与那些系统状态相关的更全面的信息.
+- [PSHunt](https://github.com/Infocyte/PSHunt) -PowerShell模块设计用于扫描远程端点以发现危害指标，或调查它们以获取与那些系统状态相关的更全面的信息.
 - [PSRecon](https://github.com/gfoss/PSRecon) -类似PSHunt的工具，用于分析远程Windows系统，该工具还会生成其发现的独立HTML报告.
 - [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -所有基于PowerShell的平台均可以执行实时硬盘取证分析.
 - [rastrea2r](https://github.com/rastrea2r/rastrea2r) -用于在多个端点上同时对可疑IOC进行分类的多平台工具，并与防病毒控制台集成.
@@ -265,9 +271,9 @@
 
 - [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)  -将Active Directory权限配置（“控制关系”）可视化并绘制图形，以审核诸如“谁可以阅读CEO的电子邮件？”之类的问题. 和类似的.
 - [AttackerKB](https://attackerkb.com/) -免费的公共众包漏洞评估平台，可帮助确定高风险补丁应用程序的优先级并消除漏洞疲劳.
-- [DATA](https://github.com/hadojae/DATA) -凭据网络钓鱼分析和自动化工具，可以直接接受可疑的网络钓鱼URL，也可以在观察到的包含此类URL的网络流量上触发.
+- [DATA](https://github.com/hadojae/DATA) -凭据网络钓鱼分析和自动化工具，该工具可以直接接受可疑的网络钓鱼URL，也可以在观察到的包含此类URL的网络流量上触发.
 - [Forager](https://github.com/opensourcesec/Forager) -使用Python3构建的多线程威胁情报收集功能，基于简单的文本配置和数据存储，易于使用和数据可移植性.
-- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
+- [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) -通过被动地映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）以及监督控制和数据采集（SCADA）的态势感知.
 - [MLSec Combine](https://github.com/mlsecproject/combine) -收集多种威胁情报源并将其组合成一种可定制的，基于CSV的标准化格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) -用于收集，存储，分发和共享网络安全指标的开源软件解决方案.
 - [Sigma](https://github.com/Neo23x0/sigma) -SIEM系统的通用签名格式，提供一种开放签名格式，使您可以直接描述相关的日志事件.
@@ -312,7 +318,7 @@
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) -实用程序，可禁用许多危险的Windows功能.
 - [NotRuler](https://github.com/sensepost/notruler) -检测客户端规则和由VBScript启用的表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时使用的攻击工具.
-- [PlumHound](https://plumhound.defensiveorigins.com/) 通过利用其寻路引擎来识别Active Directory安全漏洞，可以在连续的安全生命周期中更有效地使用BloodHoundAD.
+- [PlumHound](https://github.com/PlumHound/PlumHound) 通过利用其寻路引擎来识别Active Directory安全漏洞，可以在连续的安全生命周期中更有效地使用BloodHoundAD.
 - [Sandboxie](https://www.sandboxie.com/) -免费和开放源代码的通用Windows应用程序沙箱工具.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) -根据Microsoft的审核Windows主机的根证书存储 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) -从主机名列表建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.

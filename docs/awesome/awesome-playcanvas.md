@@ -77,24 +77,26 @@
 ## Browser Games
 
 - [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) -来自BBC的户外冒险游戏.
-- [Bomb Town](http://bomb.town/) -MMO Bomberman游戏.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) -通过迪士尼的Moana学习编程基础知识.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) -引导鸟类穿过尽可能多的管道.
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) -仔细选择大功率UPS，以击败敌对船只.
 - [Geometry Run](https://www.gamee.com/game/geometryrun) -从几何形状建造的程式化无尽流道.
-- [Ink Wars](https://inkwars.io/) -实时多人游戏，您可以在附近绘画以赢得胜利.
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) -3D教育中心.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) -恐龙，乐高玩具和车辆特技.
-- [Mini Royale 2](https://miniroyale2.io/) -大逃杀第一人称射击游戏.
 - [Monopoly](http://benbean.openode.io/monopoly-io/?play=true) -在3D视频游戏中重新创建了经典的桌游.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) -在一个微小的世界中消灭一波又一波的敌人.
-- [Robostorm](https://robostorm.io/) -Frenetic在线多人机甲对战游戏.
 - [Star Stable](https://www.starstable.com/en/register) -流行的马游戏角色注册门户.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) -在魔法岛上的双翼飞机上捡拾宝石.
-- [TANX](https://tanx.io) -在线多人坦克战游戏.
 - [Town Star](https://gala.games) -由Farmville 2的创意总监制作的在线农业游戏.
-- [Venge](https://poki.com/en/g/venge-io) -3D多人FPS射击游戏.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) -巫毒娃娃模拟器.
+
+## IO Games
+
+- [Ink Wars](https://inkwars.io/) -实时多人游戏，您可以在附近绘画以赢得胜利.
+- [Mini Royale 2](https://miniroyale2.io/) -大逃杀第一人称射击游戏.
+- [Robostorm](https://robostorm.io/) -Frenetic在线多人机甲对战游戏.
+- [TANX](https://tanx.io) -在线多人坦克战游戏.
+- [Venge](https://poki.com/en/g/venge-io) -3D多人FPS射击游戏.
 
 ## Messenger Games
 

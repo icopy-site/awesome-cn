@@ -70,7 +70,7 @@
 * [Create-Next-App](https://open.segment.com/create-next-app) -Facebook的create-react-app分支，用于创建下一个应用程序.
 * [phox](https://github.com/herschel666/phox) -创建静态照片博客.
 * [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) -使用Next，Express，react-bootstrap，SCSS和SSR和eslint构建的全栈应用程序样板.
-* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) -博客，其中包含使用Next.js，Firebase Firestore，样式组件和mobx-state-tree构建的简单CMS.
+* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) -博客，其中包含使用Next.js，Firebase Firestore，样式组件和mobx状态树构建的简单CMS.
 * [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) -具有Express，Redux和PostCSS的Next.js入门.
 * [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) -具有Redux和Material UI的样板NextJS.
 * [Staart](https://github.com/nmaro/staart) -主动维护的Next.js组件库*和*最少的样板，可通过基于Ooth的具有有效用户帐户的应用程序迅速获得支持.
@@ -90,7 +90,7 @@
 * [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) -：rocket：使用nextJS，最佳开发实践和开发人员社区中流行的库来减少项目配置的基础.
 * [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) -打字稿+ redux +样式化的组件+ react-testing-library + eslint + fontawesome
 * [The Knests Stack](https://github.com/tudorconstantin/knests/) -具有以下功能的完整堆栈样板/黑客马拉松启动器：PostgreSQL，Knex.js，NestJS，Next.js（显然），GraphQL，React（带有钩子和打字稿），Material-UI，用于Docker的Docker多级映像，Docker组成和Gitlab CI / CD管道已完全配置.
-* [Devii](https://github.com/vriad/devii) -使用Next.js，React和TypeScript构建的具有中等启发性的开发博客入门程序，具有Markdown渲染，语法突出显示，SEO / meta标签和RSS feed生成功能.
+* [Devii](https://github.com/vriad/devii) -使用Next.js，React和TypeScript构建的具有中等启发性的开发博客入门程序，具有Markdown渲染，语法突出显示，SEO / meta标签和RSS feed生成的功能.
 * [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)  -基于Next.js框架的博客的理想入门代码.  ⚡️用Next.js，TypeScript，ESLint，Prettier，PostCSS，Tailwind CSS制作.
 * [Next.js and Netlify Blogging Template](https://github.com/wutali/nextjs-netlify-blog-template) -在Netlify堆栈上构建具有标准功能（如标记，CMS和短代码）的博客网站的完美样板.
 * [Nextjs Apollo Nexus](https://github.com/inblack67/GraphQL-Next-Setup) -带有Nexus Schema的Next.js中的GraphQL Apollo客户端-服务器集成（代码优先方法）.
@@ -99,7 +99,7 @@
 
 
 ## Extensions
-* [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) -通用的语言检测器（浏览器+服务器）-打算与通用框架一起使用，例如Next.js [DEMO](https://universal-language-detector.now.sh/)
+* [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) -通用的语言检测器（浏览器+服务器）-打算与通用框架（例如Next.js）一起使用 [DEMO](https://universal-language-detector.now.sh/)
 * [Next Routes](https://github.com/fridays/next-routes) -Next.js的通用命名路由.
 * [Next-Pkg](https://github.com/onready/next-pkg) -具有以下功能的扩展Next.js服务器 [pkg](https://github.com/vercel/pkg) 支持.
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) -使用graphql-tag的.graphql和.gql文件的Next.js插件
@@ -123,6 +123,7 @@
 * [next-auth](https://github.com/iaincollins/next-auth) -轻松验证Next.js和无服务器
 * [next-deploy](https://github.com/lone-cloud/next-deploy) -轻松部署到AWS和GitHub Pages.
 * [next-joi](https://github.com/codecoolture/next-joi) -使用_joi_验证Next.js API路由.
+* [next-transpile-modules](https://github.com/martpie/next-transpile-modules)  -Next.js插件，可从node_modules转换代码. 对于monorepos很有用.
 
 ## Apps
 * [CourseLit](https://github.com/codelit/courselit) -Thinkific，Teachable等的开源替代品

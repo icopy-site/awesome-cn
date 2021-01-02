@@ -76,7 +76,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 ### Data Mining Algorithms
 
-- C4.5
+-C4.5
 -k-均值
 -支持向量机
 -Apriori
@@ -210,7 +210,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Optimus](https://github.com/ironmussa/Optimus)  | 带有PySpark后端的清理，预处理，功能工程，探索性数据分析和简易ML.  |
 | [Albumentations](https://github.com/albu/albumentations)  | 快速且与框架无关的图像增强库，可实现多种增强技术. 支持分类，细分，开箱即用的检测. 曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.  |
 | [DVC](https://github.com/iterative/dvc)  | 开源数据科学版本控制系统. 它有助于跟踪，组织和使数据科学项目可重复. 在最基本的情况下，它有助于版本控制以及共享大数据和模型文件.  |
-| [Lambdo](https://github.com/asavinov/lambdo)  | 是一种工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.  |
+| [Lambdo](https://github.com/asavinov/lambdo)  | 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.  |
 | [Feast](https://github.com/feast-dev/feast)  | 用于管理，发现和访问机器学习功能的功能存储.  Feast可为模型训练和模型服务提供一致的特征数据视图.  |
 | [Polyaxon](https://github.com/polyaxon/polyaxon)  | 可重现和可扩展的机器学习和深度学习的平台.  |
 | [LightTag](https://lighttag.io)  | 团队文字注释工具|
@@ -226,6 +226,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [spaCy](https://spacy.io/)  | 高性能自然语言处理工具箱|
 | [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid studio是基于Web的电子表格应用程序，与Python编程语言完全集成.  |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)| Python数据科学手册：Jupyter Notebooks中的全文|
+| [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
 
 
 ## Machine Learning in General Purpose
@@ -439,7 +440,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 ## Bloggers
 
-- [Wes McKinney](http://wesmckinney.com/archives.html) -韦斯·麦金尼档案馆.
+- [Wes McKinney](http://wesmckinney.com/archives.html) - Wes McKinney Archives.
 - [Matthew Russell](https://miningthesocialweb.com/) -挖掘社交网站.
 - [Greg Reda](http://www.gregreda.com/) -Greg Reda个人博客
 - [Kevin Davenport](http://kldavenport.com/) -凯文·达文波特个人博客
@@ -457,7 +458,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Data Science London](http://datasciencelondon.org/) 伦敦数据科学公司是一个非营利性组织，致力于数据科学的免费，开放，传播.
   我们是欧洲最大的数据科学社区.
   我们社区中有3190多名数据科学家和数据极客.
-- [Datawrangling](http://datawrangling.com/) 彼得·斯科莫洛克（Peter Skomoroch）. 机器学习，数据挖掘及更多
+- [Datawrangling](http://datawrangling.com/) 彼得·斯科莫罗奇（Peter Skomoroch）. 机器学习，数据挖掘及更多
 - [Quora Data Science](https://www.quora.com/Data-Science) -来自专家的数据科学问答
 - [Siah](https://openresearch.wordpress.com/) 伯克利大学博士研究生
 - [Data Science Report](http://datasciencereport.com/) MDS，Inc.帮助建立数据科学，高级分析，大数据架构和高性能软件工程领域的职业
@@ -474,7 +475,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [KD Nuggets](http://www.kdnuggets.com/) 数据挖掘，分析，大数据，数据，科学而不是博客门户
 - [Meta Brown](http://www.metabrown.com/blog/) -个人博客
 - [Data Scientist](https://www.datascientists.net/) 正在建立数据科学家文化.
-- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业世界，政府机构和我们生活的影响.
+- [WhatSTheBigData](https://whatsthebigdata.com/) 是上述内容的一部分，全部或更多，并且此博客探讨了它对信息技术，商业世界，政府机构以及我们生活的影响.
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) -大告示
 - [New Data Scientist](http://newdatascientist.blogspot.com/) 社会科学家如何跳入大数据世界
 - [Harvard Data Science](http://harvarddatascience.com/) -关于统计计算和可视化的思考
@@ -575,7 +576,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Emilio Ferrara](https://twitter.com/jabawack) | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
 | [Erin Bartolo](https://twitter.com/erinbartolo) | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
 | [Greg Reda](https://twitter.com/gjreda)   |  @ _GrubHub_关于数据和熊猫的工作|
-| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets总裁，分析/大数据/数据挖掘/数据科学专家，KDD和SIGKDD的共同创始人，曾是两家初创公司的首席科学家，兼职哲学家.  |
+| [Gregory Piatetsky](https://twitter.com/kdnuggets)  |  KDnuggets总裁，分析/大数据/数据挖掘/数据科学专家，KDD和SIGKDD共同创始人，曾是两家初创公司的首席科学家，兼职哲学家.  |
 | [Hadley Wickham](https://twitter.com/hadleywickham)  |  RStudio的首席科学家，奥克兰大学，斯坦福大学和莱斯大学的统计学兼职教授.  |
 | [Hakan Kardas](https://twitter.com/hakan_kardes)  | 数据科学家|
 | [Hilary Mason](https://twitter.com/hmason)  |  @accel的居住数据科学家.  |
@@ -596,7 +597,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)   |  BizQualify的数据科学家，开发人员|
 | [Monica Rogati](https://twitter.com/mrogati)  | 数据@ Jawbone. 在LinkedIn上将数据转换为故事和产品. 文本挖掘，应用机器学习，推荐系统. 前游戏者，前机器编码器； 命名者.  |
 | [Noah Iliinsky](https://twitter.com/noahi)  | 可视化和交互设计师. 实用的自行车手. 视觉书籍的作者：http：//www.oreilly.com/pub/au/4419 |
-| [Paul Miller](https://twitter.com/PaulMiller) | Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. |
+| [Paul Miller](https://twitter.com/PaulMiller)  | 云计算/大数据/开放数据分析师和顾问. 作家，演讲者和主持人.  Gigaom研究分析师.  |
 | [Peter Skomoroch](https://twitter.com/peteskomoroch)  | 创建智能系统以自动化任务并改善决策. 企业家，前首席数据科学家@LinkedIn. 机器学习，ProductRei，网络|
 | [Prash Chan](https://twitter.com/MDMGeek)  |  @ IBM解决方案架构师，主数据管理，数据质量和数据治理Blogger. 数据科学，Hadoop，大数据与云.  |
 | [Quora Data Science](https://twitter.com/q_datascience)   |  Quora的数据科学主题|
@@ -703,7 +704,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [data.gov](https://catalog.data.gov/dataset) -美国政府公开数据的所在地
 - [United States Census Bureau](http://www.census.gov/)
 - [usgovxml.com](http://usgovxml.com/)
-- [enigma.com](http://enigma.com/) -浏览公共数据世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
+- [enigma.com](http://enigma.com/) -浏览公共数据的世界-快速搜索和分析由政府，公司和组织发布的数十亿条公共记录.
 - [datahub.io](https://datahub.io/)
 - [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 - [datacite.org](https://www.datacite.org)
@@ -720,7 +721,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [NYC Taxi data](http://chriswhong.github.io/nyctaxi/)
 - [Open Data Philly](https://www.opendataphilly.org/) 将人们与费城的数据联系起来
 - [grouplens.org](https://grouplens.org/datasets/) 电影样本（带有评级），书籍和Wiki数据集
-- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) -包含有利于机器学习的数据集
+- [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/) - contains data sets good for machine learning
 - [research-quality data sets](http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1) 通过 [Hilary Mason](http://web.archive.org/web/20150501033715/https://bitly.com/u/hmason/bundles)
 - [National Climatic Data Center - NOAA](https://www.ncdc.noaa.gov/)
 - [ClimateData.us](http://www.climatedata.us/) （有关： [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))

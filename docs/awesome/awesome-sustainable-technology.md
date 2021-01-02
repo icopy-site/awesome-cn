@@ -460,7 +460,7 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [FOQUS](https://github.com/CCSI-Toolset/FOQUS) -不确定性和替代物的优化和量化框架.
 - [Carbon Capture and Storage](https://github.com/yohanesnuwara/carbon-capture-and-storage) -这是一个完整的建模工作流程，集成了储层模拟数据，岩石物理学，延时地震和碳酸盐岩中二氧化碳注入的地质力学.<!--lint ignore awesome-spell-check-->
 - [GEOSX](https://github.com/GEOSX/GEOSX) -用于模拟地下流动，运输和地质力学耦合的模拟框架.
-- [OpenIAM](https://gitlab.com/NRAP/OpenIAM) -由国家风险评估合作伙伴计划第二阶段开发的开源综合评估模型，以促进地质碳封存项目的风险评估，管理和密闭保证.
+- [OpenIAM](https://gitlab.com/NRAP/OpenIAM) -由国家风险评估合作伙伴计划第二阶段开发的开源综合评估模型，以促进地质碳封存项目的风险评估，管理和围堵保证.
 
 ### Emission Observation and Modeling
 
@@ -961,6 +961,7 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内提�
 - [Transition Project](https://www.transitionproject.org/) -开放数据计划，旨在帮助实现全球城市的快速碳减排.
 - [protect.earth](https://github.com/protect-earth/protect.earth) -人类，企业和其他任何人的国际气候行动名录.
 - [The POWER Project](https://power.larc.nasa.gov/) -提供来自NASA研究的太阳和气象数据集，以支持可再生能源，建筑能效和农业需求.
+- [awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) -公交API，应用程序，数据集，研究和软件的社区列表.
 
 
 ### Footnotes
