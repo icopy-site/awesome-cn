@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是用于构建交互式Web内容的开源平台. 它是用JavaScript，HTML5，CSS3和WebGL编写的.
 >
-&gt;该列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
+&gt;此列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
 >
 &gt;捐款_非常欢迎_但先见 [Contributing](#contributing).
 
@@ -95,6 +95,7 @@
 - [Ink Wars](https://inkwars.io/) -实时多人游戏，您可以在附近绘画以赢得胜利.
 - [Mini Royale 2](https://miniroyale2.io/) -大逃杀第一人称射击游戏.
 - [Robostorm](https://robostorm.io/) -Frenetic在线多人机甲对战游戏.
+- [Tank Royale](https://tankroyale.io/) -卡通快节奏的自上而下的多人射击游戏.
 - [TANX](https://tanx.io) -在线多人坦克战游戏.
 - [Venge](https://poki.com/en/g/venge-io) -3D多人FPS射击游戏.
 

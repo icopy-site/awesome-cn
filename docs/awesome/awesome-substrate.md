@@ -39,7 +39,8 @@
 
 ## Recordings
 
-- [Introduction to Substrate](https://www.crowdcast.io/e/ocimgwg2)
+- [Substrate: A Rustic Vision for Polkadot by Gavin Wood at Web3 Summit 2018](https://www.youtube.com/watch?v=0IoUZdDi5Is)
+- [Introduction to Substrate](https://www.crowdcast.io/e/xzdm2hyq)
 - [Parachains, Cumulus & the Rococo Test Network](https://www.crowdcast.io/e/zpnjlj0r)
 - [Enterprise Demo](https://www.crowdcast.io/e/substrate-seminar/6)
 - [Bridges & Cross-Chain Interoperability](https://www.crowdcast.io/e/substrate-seminar/12)
@@ -49,6 +50,9 @@
 - [Sub0 Developer Conference](https://www.crowdcast.io/e/axvfinsv)
 - [Weights & Benchmarking](https://www.crowdcast.io/e/substrate-seminar/19)
 - [Runtime Upgrades & Storage Migrations](https://www.crowdcast.io/e/substrate-seminar/20)
+- [FRAME's Origin Primitive](https://www.crowdcast.io/e/substrate-seminar/24)
+- [Governance with FRAME](https://www.crowdcast.io/e/substrate-seminar/25)
+- [Polkadot Decoded Community Conference](https://www.crowdcast.io/e/polkadot-decoded)
 
 ## Workshops & Demos
 

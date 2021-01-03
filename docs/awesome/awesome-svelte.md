@@ -31,6 +31,7 @@
 - [Twitter](https://twitter.com/sveltejs)
 - [Discord](https://svelte.dev/chat)
 - [Reddit](https://www.reddit.com/r/sveltejs/)
+- [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte日本.
 
 ### Conferences
 
