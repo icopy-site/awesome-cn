@@ -103,7 +103,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ### Introduction to Computer Science
 
-本课程将向您介绍计算机科学领域. 通过以上课程或其他地方学习过编程的学生，都应选修本课程，以获取丰富的材料. 如果您想要完成更多的课程，计算机科学很可能适合您！
+本课程将向您介绍计算机科学领域. 从以上课程或其他地方学习过编程的学生，都应选修本课程，以期掌握各种材料. 如果您想要完成更多的课程，计算机科学很可能适合您！
 
 **涵盖的主题**：
 `computation`
@@ -222,11 +222,10 @@ Lisp家庭语言（通过球拍）
 
 课程持续时间| 努力其他文字/作业| 前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/) ）|  12周| 每周10-20个小时| 在有关C的各节之后，跳到下一门课程. [Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50)  | 入门编程| [chat](https://discord.gg/NruSj5Q)
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/) ）|  6周每周7到13个小时|  -| 类似于C的编程语言| [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6周每周12-18个小时|  -| 之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png)，从南德到俄罗斯方块第一部分| [chat](https://discord.gg/AsUXcPu)
+[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  |  10-12周| 每周6个小时|  -| 算法， [familiarity with C](https://hackr.io/tutorials/learn-c?sort=upvotes&type_tags%5B%5D=1) 有用| [chat](https://discord.gg/wZNgpep)
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) |  8周每周4–12小时| [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)<br>[Interactive Problems](https://gaia.cs.umass.edu/kurose_ross/interactive/index.php)  | 代数，概率，基本CS | [chat](https://discord.gg/MJ9YXyV)
-[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)  |  10-12周| 每周6个小时|  -| 算法| [chat](https://discord.gg/wZNgpep)
 
 ### Core theory
 
@@ -385,7 +384,7 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或不想将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:

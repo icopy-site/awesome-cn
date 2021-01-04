@@ -4,7 +4,7 @@
 
 精选的优秀公司列表，这些公司免费向开源和公共项目提供其工具和服务.
 
-**注意：尽管有许多公司拥有出色的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源代码社区做出公开承诺的组织.**
+**注意：尽管有许多公司拥有免费的免费套餐（例如，Slack），但此列表专门针对那些通过其他产品对开放源码社区做出公开承诺的组织.**
 
 
 
@@ -87,6 +87,7 @@
 - [Crowdin](https://crowdin.com/) `requires-approval`-本地化管理平台.
 - [LingoHub](https://lingohub.com/) `requires-approval`-翻译管理.
 - [Locale](https://www.localeapp.com/) -本地化和翻译.
+- [Lokalise](https://lokalise.com/) `requires-approval`-本地化和翻译软件工具.
 - [POEditor](https://poeditor.com/) `requires-approval`-本地化管理平台.
 - [Transifex](https://www.transifex.com/) `requires-approval`-用于翻译数字内容的本地化平台.
 - [Weblate](https://weblate.org/) `requires-approval`-基于Web的连续本地化.
@@ -112,6 +113,7 @@
 - [Helpmonks](https://helpmonks.com/) `requires-approval`-协作团队的电子邮件收件箱.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval``non-commercial`-专门创建智能开发工具的软件供应商.
 - [Libraries.io](https://libraries.io/) -开源发现服务.
+- [Mailman 3](https://mailman3.com/) `requires-approval`-分布式团队的邮件列表.
 - [Mailtrap](https://mailtrap.io/) `requires-approval`-伪造的SMTP测试服务器.
 - [Netlify](https://www.netlify.com) `requires-approval`-托管静态网站.
 - [Sourcegraph](https://sourcegraph.com/) -智能源代码透明性.
@@ -128,7 +130,7 @@
 
 ### `requires-approval`
 
-虽然许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但还有其他公司需要更多验证. 这些公司都标有“需要批准”标签，表明需要申请程序才能充分利用其开源利益.
+尽管许多公司使用GitHub，Bitbucket和GitLab的公共存储库功能来确定项目的开源状态，但还有一些公司需要更多验证. 这些公司都标有“需要批准”标签，表明需要申请程序才能充分利用其开源利益.
 
 ### `non-commercial`
 

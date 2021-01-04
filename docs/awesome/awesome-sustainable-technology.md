@@ -4,7 +4,7 @@
 ## Open Sustainable Technology 
 [<img src="https://raw.githubusercontent.com/protontypes/awesome-sustainable-technology/master/earth.gif" align="right" width="350"> <br>](https://tabletopwhale.com/)
 __维护稳定的气候，能源供应和重要自然资源的全球开放技术项目清单__<br><br>
-_“要使技术真正真正具有可持续性，就必须在全球范围内公开，开放和独立.可持续技术，知识和数据的开放分发为生态和经济的全球经济奠定了基础.它确保了获取稳定等重要资源的机会.从长远来看，气候，土壤还是水.” [protontypes](https://protontypes.eu/) _<br><br> 您的贡献对于保持此列表的有效性，提高质量和扩大范围至关重要. 详细了解其起源以及如何参与 [contribution guide](https://github.com/protontypes/awesome-sustainable-technology/blob/master/CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/) . 请 [contact us](https://protontypes.eu/contact/) 提供反馈，提示和想法 [OpenSustain.tech](https://opensustain.tech/) 或在GitHub上创建问题.<br><br> [![](https://badgen.net/badge/icon/Join%20our%20Community/green?icon=gitter&label&scale=1.3)](https://gitter.im/protontypes/community)
+_“要使技术真正真正具有可持续性，就必须在全球范围内公开，开放和独立.可持续技术，知识和数据的开放分发为生态和经济的全球经济奠定了基础.它确保了获取稳定等重要资源的机会.从长远来看，气候，土壤还是水.” [protontypes](https://protontypes.eu/) _<br><br> 您的贡献对于保持此列表的有效性，提高质量和扩大范围至关重要. 详细了解其起源以及如何参与 [contribution guide](https://github.com/protontypes/awesome-sustainable-technology/blob/master/CONTRIBUTING.md), [presentation slides](https://protontypes.eu/protontypes_open_sustainable_technology.pdf) and related [blog post](https://protontypes.eu/blog/2020/10/05/gathering-open-sustainable-technology/) . 请 [contact us](https://protontypes.eu/contact/) 提供反馈，提示和想法 [OpenSustain.tech](https://opensustain.tech/) 或在GitHub上创建问题.<br><br> [![](https://badgen.net/badge/icon/Find%20Support/green?icon=gitter&label&scale=1.3)](https://gitter.im/protontypes/community)
 
 <!--toc-->
 
@@ -385,7 +385,7 @@ _“要使技术真正真正具有可持续性，就必须在全球范围内公�
 - [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/src/master/) -一个Python软件包，用于对具有可变能源和存储系统的互连电力系统进行逐时最佳功率分析.
 - [POMATO](https://github.com/richard-weinhold/pomato) - An easy to use tool for the comprehensive analysis of the modern electricity market.
 - [PowerGAMA](https://bitbucket.org/harald_g_svendsen/powergama/) -用于大型电力系统中可再生能源集成的高级分析的轻型仿真工具.
-- [Power System Analysis Toolbox](http://faraday1.ucd.ie/psat.html) -用于电力系统分析和仿真的Matlab工具箱. 
+- [Power System Analysis Toolbox](http://faraday1.ucd.ie/psat.html) -用于电力系统分析和仿真的Matlab工具箱.
 
 ### Optimization
 

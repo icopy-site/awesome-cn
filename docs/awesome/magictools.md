@@ -48,7 +48,7 @@ Graphics
 * ：自由： [Sketchfab](https://sketchfab.com/) -发布和嵌入交互式3D模型.
 * ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) -静态和动画图形对象（也称为精灵）的集合.
 * ：自由： [StickyPNG](http://www.stickpng.com/) -免费的透明PNG图像.
-* ：自由： [TextureHaven](https://texturehaven.com/)  -具有其他贴图（例如位移和凹凸贴图）的免费纹理. 还有HDRI. 
+* ：自由： [TextureHaven](https://texturehaven.com/)  -具有其他贴图（例如位移和凹凸贴图）的免费纹理. 还有HDRI.
 * ：自由： [TextureKing](http://www.textureking.com/) -免费的材料库存纹理
 * ：自由： [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) -在线树生成器.
 *：money_with_wings： [Vecteezy](http://www.vecteezy.com/) -免费矢量艺术.
@@ -139,6 +139,7 @@ Graphics
 * ：钱袋子： [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
 * ：钱袋子： [modo](https://www.foundry.com/products/modo)
 * ：自由： [Clara.io](https://clara.io/)
+* ：钱袋子： [ZBrush](http://pixologic.com/)
 
 #### Terrain Generators
 

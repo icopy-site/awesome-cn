@@ -37,7 +37,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Books
 
 - [Monitoring with Prometheus](https://www.prometheusbook.com/) -詹姆斯·特恩布尔（James Turnbull）.
-- [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) - by Brian Brazil.
+- [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) -布莱恩·巴西（Brian Brazil）.
 - [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) -由Joel Bastos和PedroAraújo撰写，Brian Brazil评论.
 
 ## Videos
@@ -61,7 +61,7 @@ Prometheus是一个开源系统监视和警报工具包.
 
 ## Podcasts and interviews
 
-- [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -朱利斯·沃尔兹（Julius Volz）在FLOSS每周TWiT.tv节目中
+- [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -  Julius Volz on the FLOSS Weekly TWiT.tv show.
 - [Prometheus and Service Monitoring](https://changelog.com/podcast/168) -Changelog播客中的Julius Volz.
 - [Prometheus Monitoring with Brian Brazil](https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/) -Brian Brazil在《软件工程日报》播客中.
 
@@ -96,7 +96,7 @@ Prometheus是一个开源系统监视和警报工具包.
 
 - [Ansitheus](https://github.com/ntk148v/ansitheus) -Ansible剧本，由ntk148v_来容器化，配置和部署Prometheus生态系统.
 - [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) -负责管理Prometheus，Alertmanager，Grafana和CommonPrometheus出口商的角色.
-- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -用于安装Prometheus监控系统，出口商（例如：节点，snmp，黑盒）的Ansible手册，因此由Ernestas Poskus_发出警报管理器和推送网关.
+- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -用于安装Prometheus监控系统的Ansible剧本，出口商如：node，snmp，blackbox，因此由Ernestas Poskus_警报管理器和推送网关.
 - [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) -Google的来源单击以部署GoogleCloud Marketplace上列出的Prometheus解决方案_by GoogleCloudPlatform_.
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator) -Prometheus Operator通过CoreOS_在Kubernetes上创建/配置/管理Prometheus集群.
 
@@ -107,6 +107,7 @@ Prometheus是一个开源系统监视和警报工具包.
 
 ## Exporters
 
+- [ExporterHub.io](https://exporterhub.io) -精选的普罗米修斯出口商清单.
 - [Blackbox exporter](https://github.com/prometheus/blackbox_exporter) -黑盒导出器允许通过HTTP，HTTPS，DNS，TCP和ICMP **（官方导出器）**对端点进行黑盒探测.
 - [HAProxy exporter](https://github.com/prometheus/haproxy_exporter) -HAProxy出口商会定期抓取HAProxy统计信息**（官方出口商）**.
 - [Memcached exporter](https://github.com/prometheus/memcached_exporter) -Memcached出口商会定期抓取Memcached统计信息**（官方出口商）**.

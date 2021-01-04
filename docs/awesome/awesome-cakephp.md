@@ -44,7 +44,7 @@
 ## Auditing / Logging
 *用于审核和日志记录的插件.*
 
-- [AuditStash plugin](https://github.com/lorenzo/audit-stash) -灵活可靠的审核日志跟踪.
+- ：草莓： [AuditStash plugin](https://github.com/lorenzo/audit-stash) -灵活可靠的审核日志跟踪.
 - ：草莓： [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) -简单而独立的日志记录到数据库而不是文件.
 - ：草莓： [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) -插件以允许将当前登录的用户传递到模型层.
 - [Version plugin](https://github.com/josegonzalez/cakephp-version) -有助于版本化数据库实体的插件.
@@ -84,13 +84,13 @@
 *用于调试的插件.*
 
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) 一个将Airbrake与CakePHP无缝集成以解决错误和异常的插件.
+- ：草莓： [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) -酷孩子的PHP错误和例外 [filp/whoops](https://github.com/filp/whoops).
 - ：草莓： [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
 - ：草莓： [Execution order](https://github.com/dereuromark/executionorder) -一个演示应用程序，用于显示文件，方法和回调的执行顺序.
 - [Psa/FixtureCheck plugin](https://github.com/World-Architects/cakephp-fixture-check) -一个插件，可帮助检测实时数据库和夹具中的不匹配情况，从而使基于夹具的测试更加可靠，并且部署更安全.
 - ：草莓： [Sentry plugin](https://github.com/Connehito/cake-sentry) 一个将Sentry与CakePHP无缝集成以解决错误和异常的插件.
 - ：草莓： [Setup plugin](https://github.com/dereuromark/cakephp-setup) -包含调试和维护工具的轻量级安装插件.
-- [Whoops plugin](https://github.com/dereuromark/cakephp-whoops) -酷孩子的PHP错误和例外 [filp/whoops](https://github.com/filp/whoops).
 
 ## Dependency Injection
 *实现依赖项注入设计模式的插件.*
@@ -189,7 +189,7 @@
 *围绕迁移和升级的插件和资源.
 
 - ：草莓： [Migrations plugin](https://github.com/cakephp/migrations) -（DB）迁移插件.
-- ：草莓： [Upgrade app](https://github.com/cakephp/upgrade) -适用于2.x =&gt; 3.x和3.x =&gt; 4.x的官方升级应用.
+- ：草莓： [Upgrade app](https://github.com/cakephp/upgrade) -适用于2.x =&gt; 3.x和3.x =&gt; 4.x的官方升级应用程序.
 - ：草莓： [Upgrade app (extended)](https://github.com/dereuromark/upgrade) -适用于2.x =&gt; 3.x的扩展升级应用程序，介于3.x和一些4.x代码段之间.
 - [Upgrade/Migration Guide](https://book.cakephp.org/3.0/en/appendices.html) -官方迁移指南.
 
@@ -200,7 +200,7 @@
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -带有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个向您的应用添加枚举列表支持的插件.
-- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件. 用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历. 包括用于ICS日历文件生成的IcalView.
@@ -316,7 +316,7 @@
 ## SEO
 *搜索引擎优化.*
 
-- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -一个用于生成弹头并按弹头查找记录的插件. 使用可插拔的体系结构，该体系结构允许使用您自己的slug generator类.
+- ：草莓： [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)  -一个用于生成弹头并按弹头查找记录的插件. 使用可插拔的体系结构，该体系结构允许使用您自己的Slug生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) -自动创建和管理您的SEO标签.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) -一个简单的Cake3插件，用于处理字段和按内容查找记录.
 - ：草莓： [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) -包含Sl废行为，可从标题中自动生成与URL兼容的.
