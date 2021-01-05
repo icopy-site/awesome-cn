@@ -35,8 +35,8 @@
 - [Skillcore.Stats](https://github.com/marek-musielak/Skillcore.Stats) -收集所有Sitecore MVC渲染和API调用的详细时间信息.
 - [Sitecore.Boost](https://github.com/cardinal252/Sitecore.Boost) -该存储库包含大量潜在的补丁程序，可用于改善Sitecore平台的性能，以提高性能，其中大部分在Sitecore的生产实例中运行.
 - [Sitecore.Cleanup](https://github.com/martinrayenglish/Sitecore.Cleanup) -该模块由3个代理组成，它们将分别监视“事件队列”，“发布队列”和“历史记录”表，以确保它们不超过设置的阈值.
-- [SitecoreDXG: The Documentation Experience Generator](https://github.com/zkniebel/SitecoreDXG)  -SitecoreUML系列的Sitecore模板架构可视化和文档工具. 利用与StarUML相关联的开源API（SitecoreUML也基于该API），SitecoreDXG提供支持，以从具有SitecoreUML的任何现有Sitecore实例（均支持PaaS和非PaaS）生成模板数据模型架构图和HTML文档. Sitecore服务.
-- [sitecore-assembly-lists](https://github.com/richardszalay/sitecore-assembly-lists) -Sitecore从8.2 Update 5开始提供Sitecore版本的程序集列表信息.该项目提供了用于在安装过程和开发过程中验证Sitecore程序集列表的工具.
+- [SitecoreDXG: The Documentation Experience Generator](https://github.com/zkniebel/SitecoreDXG)  -SitecoreUML系列的Sitecore模板架构可视化和文档工具. 利用与StarUML相关联的开源API（SitecoreUML也基于该API），SitecoreDXG提供支持，以从任何具有SitecoreUML的现有Sitecore实例（均支持PaaS和非PaaS）生成模板数据模型架构图和HTML文档. Sitecore服务.
+- [sitecore-assembly-lists](https://github.com/richardszalay/sitecore-assembly-lists) -Sitecore从8.2 Update 5开始为Sitecore版本提供程序集列表信息.该项目提供了用于在安装过程和开发过程中验证Sitecore程序集列表的工具.
 
 ## Azure
 
@@ -67,7 +67,7 @@
 - [HabitatHome Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) -遵循Helix体系结构原理在XP和XC上使用SXA构建的示例.
 - [sitecore-commerce-configuration](https://github.com/richardszalay/sitecore-commerce-configuration) -用于配置和增强Sitecore Commerce Engine配置的工具.
 - [Plumber for Sitecore Commerce](https://github.com/richardszalay/plumber-sc) -查看Sitecore Commerce Engine配置的工具.
-- [Short Confirmation Codes](https://github.com/dsolovay/ShortConfirmationCodes) -提供六个字符确认代码（可配置），这些代码是随机生成的，并在商务数据库中进行跟踪以避免冲突，因为较短的代码更易于通过支持电话进行交流，并且对于某些客户而言，比提供的25个字符确认更为方便的盒子.
+- [Short Confirmation Codes](https://github.com/dsolovay/ShortConfirmationCodes) -提供六个字符确认代码（可配置），可随机生成并在商务数据库中进行跟踪以避免冲突，因为较短的代码更易于通过支持电话进行交流，并且对于某些客户而言，比提供的25个字符确认更为方便的盒子.
 
 ## Configuration
 
@@ -88,7 +88,7 @@
 - [Sitecore.SharedSource.CMP.Connector.Extensions](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) -扩展了适用于Sitecore CMP 2.0.0的Sitecore Connect，因此可以使用Sitecore Connect™用于Sitecore DAM 2.0.0的xml格式同步在CMP实体上设置的图像，因此此模块是必需的.
 
 
-- [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons)  -实现Linq扩展，以便能够查询在solr索引中拦截GeoJson多边形的点. 该演示提供了一个具有空间字段的模板，以及一些示例项目以及来自opentreetmap的多边形（覆盖了一些城市）. 一个控制器渲染，该渲染从查询字符串中读取lat和lng并返回找到的项的多边形（例如，大本钟的坐标返回伦敦）.
+- [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons)  -实现Linq扩展，以便能够查询在solr索引中拦截GeoJson多边形的点. 该演示提供了一个具有空间字段的模板，以及一些示例项目以及来自opentreetmap的多边形（覆盖了一些城市）. 以及控制器渲染，该渲染从查询字符串中读取lat和lng并返回找到的项目的多边形（例如，大本钟的坐标返回伦敦）.
 - [Search Index Builder](https://github.com/jermdavis/SearchIndexBuilder) -一种从Sitecore网络应用程序外部重建搜索索引的工具，特别适合于运行时间较长的构建.
 - [SolrCloud Install Scripts](https://github.com/jermdavis/SolrCloud-Helpers) -PowerShell脚本库可帮助在Windows上安装SolrCloud群集. 
 - [Common Sitecore ContentSearch extensions](https://github.com/LaubPlusCo/LaubPlusCo.Common.ContentSearch)  -Sitecore contentSearch的常见扩展； 下面的PopulateSolrSchema管道处理器，以确保将Sitecore中所有已安装的语言都添加到solr托管模式中. 
@@ -108,7 +108,7 @@
 - [Sitecore.HabitatHome.Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) -与外部贡献者和合作伙伴一起演示资产.
 - [Sitecore.HabitatHome.Omni](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) -共享Sitecore JSS PWA演示资产和将来与“ Sitecore Omni”相关的演示资产.
 - [Sitecore.Demo.Group](https://github.com/Sitecore/Sitecore.Demo.Group) -人居小组演示站点-基于人居演示的开发人员示例.
-- [Sitecore User Group UK](https://github.com/steviemcg/scuguk) -通过使用Git作为单一事实来源以及Netlify进行连续部署以及CDN分发（使用Gatsby v2构建）的JAMstack体系结构演示.
+- [Sitecore User Group UK](https://github.com/steviemcg/scuguk) -通过使用Git作为单一事实来源以及Netlify进行连续部署以及使用Gatsby v2构建的CDN分发的JAMstack体系结构演示.
 
 ## Deployment
 
@@ -125,14 +125,14 @@
 - [DeviceEditorShortcuts](https://github.com/MartinMiles/DeviceEditorShortcuts) -提高了设备​​编辑器的生产率，显示了设置为特定组件的数据源，并通过弹出的单击预览了该数据源.
 - [DmsGutters](https://github.com/markvanaalst/Sitecore.SharedSource.DmsGutters) -内容编辑器可显示已测试和个性化的项目.
 - [Move Validator](https://github.com/Velir/Sitecore-MoveValidator) -验证是否可以基于插入选项将项目移动到新位置.
-- [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite)  -为Sitecore用户提供了一种更简化的信息发布方法来进行内容创作. 这是通过改进5种字段类型，引入“图像”字段，启用引用项目的自动发布以及添加新功能（例如“编辑表单”，“转到项目”按钮和“字段装订线”）来实现的.
+- [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite)  -为Sitecore用户提供了一种更简化的信息发布方法来进行内容创作. 这可以通过修改5种字段类型，引入“图像”字段，启用引用项目的自动发布以及添加新功能（例如“编辑表单”，“转到项目”按钮和“字段装订线”）来实现.
 
 ## Fields
 
 - [Sitecore.Foundation.Fields](https://github.com/MartinMiles/Sitecore.Foundation.Fields) -可供您与Sitecore解决方案一起使用的自定义字段的集合.
 - [LinkList](https://github.com/josedbaez/Monoco.CMS.FieldTypes) -Sitecore LinkList字段类型.
 - [CrossDatabaseTreeListField](https://github.com/ivansharamok/CrossDatabaseTreeListField) -扩展的Treelist字段，以支持跨数据库引用.
-- [LimitedText Field](https://github.com/ParTech/LimitedText-Field-Controls)  -将两种新的字段类型添加到Sitecore内容编辑器中，“单行文字限制”和“多行文字限制”. 两者都继承了现有文本字段控件的所有功能，并添加了配置字段最大允许值的可能性，还向用户通知了在编辑时剩余字符的数量.
+- [LimitedText Field](https://github.com/ParTech/LimitedText-Field-Controls)  -将两种新的字段类型添加到Sitecore内容编辑器中，“单行文字限制”和“多行文字限制”. 两者都继承了现有文本字段控件的所有功能，并添加了配置该字段的最大允许值的可能性，还向用户通知了在编辑时剩余字符的数量.
 - [CustomFields](https://github.com/AlexanderDavyduk/CustomFields) -选择NameValueDropLists，NameValueDropListsField，NameValueDroplist，NameValueDroplistField，SortableMultilist，SortableMultilistField，TimeZonesDropList字段.
 - [YouTube Video Picker Field](https://github.com/pveller/BrainJocks.YouTubeVideoField) -适用于Sitecore的YouTube视频选择器字段的完全可行的解决方案.
 - [Hide Dependent Fields Controls](https://github.com/jammykam/Hide-Dependent-Fields)  -将新的Checkbox，Droplist和Droplink字段类型添加到Sitecore内容编辑器，这取决于所选值将隐藏后续的同级字段. 所有控件均从其等效的Sitecore对应控件继承并添加所需的UI增强功能.
@@ -141,7 +141,7 @@
 
 ## Forms
 
-- [Sitecore-Forms-Extensions](https://github.com/bartverdonck/Sitecore-Forms-Extensions) -向此表单创建者添加了一些功能.
+- [Sitecore-Forms-Extensions](https://github.com/bartverdonck/Sitecore-Forms-Extensions) -向表单创建者添加了一些功能，例如发送邮件，时间跨度验证，订阅列表，条件，Azure Blob存储提供程序等等.
 
 ## JSS
 
@@ -159,7 +159,7 @@
 - [Sitecore Helix Documentation](https://github.com/Sitecore/Helix.Docs) -在Sitecore中开发Sitecore Helix的官方指南和推荐做法.
 - [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples)  -在各种工具和业务场景中演示Sitecore Helix的实践； 旨在展示比现有示例更广泛的实现类型/要求.
 - [Helixbase](https://github.com/muso31/Helixbase) -用于Greenfield项目的基于Sitecore Helix的解决方案.
-- [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) -遵循Helix模块化体系结构设计原则的Sitecore框架，包括大量功能和基础层模块以及可重复使用的Project层Common.
+- [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) -遵循Helix模块化架构设计原则的Sitecore框架，包括大量功能和基础层模块以及可重复使用的Project层Common.
 - [Helix example Module & Solution templates](https://github.com/LaubPlusCo/Helix-Templates) -Sitecore Helix Visual Studio模板扩展的模板.
 - [Helix frontend development example](https://github.com/LaubPlusCo/helix-frontend-example) -Sitecore Helix解决方案的简单前端开发设置.
 - [Helix Publishing Pipeline](https://github.com/richardszalay/helix-publishing-pipeline)  -允许Helix解决方案作为一个单元发布，并自动包含模块中的内容（例如视图和配置补丁）. 它还包含有关本地开发部署的优化和指南. 由于它扩展了标准的Web发布管道，因此可以通过Visual Studio或命令行与任何受支持的目标（程序包，文件系统，Azure，Docker）一起使用.
@@ -174,7 +174,7 @@
 ## Languages
 
 - [Sitecore Item Translator](https://github.com/adoprog/Sitecore-Item-Translator) -项翻译器模块无缝集成了Google翻译，因此只需单击一个按钮，您就可以将文本翻译成Google翻译支持的任何语言.
-- [Sitecore Item Versioner](https://github.com/aquasonic/SitecoreItemVersioner) -此模块将新功能区添加到“内容编辑器”的版本块中.使用新功能区，可以初始创建所有已配置语言的项目版本.
+- [Sitecore Item Versioner](https://github.com/aquasonic/SitecoreItemVersioner) -此模块在内容编辑器的版本块中添加了一个新功能区.使用新功能区，可以最初以所有配置的语言创建项目版本.
 
 ## Logging
 
@@ -193,7 +193,7 @@
 - [Media-Framework-Brightcove-Edition](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) -适用于Sitecore Media Framework的Brightcove连接器.
 - [YouTube Integration module](https://github.com/ivansharamok/YouTube-Integration)  -在您的网站上以简单的方式显示来自YouTube频道的视频，YouTube集成模块可能正是您所需要的. 在媒体库中，您有一个YouTube文件夹，并且通过键入频道名称，该频道中的所有视频现在都由一个项目表示，当您在频道中创建新视频时，它会自动更新媒体库中的频道.
 - [Shrink](https://github.com/robhabraken/shrink) -类似于硬盘驱动器的磁盘使用情况统计信息查看器，可让您更深入地了解媒体库的使用情况，还可以显示实际正在使用和发布的项目，因此您可以轻松地找到不必要地占用数据库空间的媒体项目，为您提供清理媒体库的多种方式！
-- [Dianoga](https://github.com/kamsar/Dianoga)  -Sitecore媒体库的自动图像优化器，完全自动将Sitecore提供的图像尺寸减少了8-70％. 当请求媒体图像时，Dianoga将图像数据放入Sitecore媒体缓存后，会立即对其图像数据自动运行mozjpeg，PNGOptimizer，SVGO或WebP.
+- [Dianoga](https://github.com/kamsar/Dianoga)  -Sitecore媒体库的自动图像优化器，完全自动将Sitecore提供的图像尺寸减少了8-70％. 当请求媒体图像时，Dianoga将图像数据放入Sitecore媒体缓存后，它会立即在图像数据上自动运行mozjpeg，PNGOptimizer，SVGO或WebP.
 
 ## ORM
 
@@ -255,7 +255,7 @@
 ## Serialization
 
 - [Rainbow](https://github.com/SitecoreUnicorn/Rainbow) -Sitecore的高级序列化库，旨在完全替代Sitecore序列化格式和文件系统组织，并支持跨源项目比较.
-- [Unicorn](https://github.com/SitecoreUnicorn/Unicorn) -Sitecore实用程序，通过将Sitecore项目的序列化副本与代码一起写入磁盘，解决了Sitecore实例之间移动模板，渲染和其他数据库项目的问题-这样，就可以复制给定代码库的必要数据库项目的副本随附于源代码管理中.
+- [Unicorn](https://github.com/SitecoreUnicorn/Unicorn) -Sitecore实用程序，通过将Sitecore项目的序列化副本与代码一起写入磁盘，解决了在Sitecore实例之间移动模板，渲染和其他数据库项目的问题-这样，就可以复制给定代码库的必要数据库项目的副本随附于源代码管理中.
 - [Sidekick](https://github.com/JeffDarchuk/SitecoreSidekick) -用于基于angularjs的微服务架构操作的框架.
 - [Rhino](https://github.com/kamsar/Rhino) -Sitecore的实验性序列化数据提供程序.
 
@@ -286,6 +286,7 @@
 - [Scriban syntax coloring and auto completion](https://github.com/AdamNaj/SitecoreScriban-vscode) -对Visual Studio Code的已知对象扩展程序进行Scriban语法着色和智能感知.
 - [Westco SXA Extensions](https://github.com/michaellwest/westco-sxa-extensions) -Sitecore Experience Accelerator（SXA）扩展.
 - [docker-sxa-node](https://github.com/michaellwest/docker-sxa-node) -演示从安装了Node的Docker容器中使用SXA CLI.
+- [SXA Securty Headers](https://github.com/GuitarRich/SXA.SecurityHeaders) -显示了如何在SXA实例上实现响应安全标头，但它们确实是Helix通用的.
 
 ## Testing
 

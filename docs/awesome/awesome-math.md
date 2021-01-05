@@ -97,8 +97,9 @@
 ## Lecture Notes
 
 ## Foundations of Mathematics
-
+### Transition To Pure Rigour Math
 * [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) -埃里亚斯法
+* [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) -理查德·哈马克（弗吉尼亚联邦大学）
 
 ### Set Theory
 
@@ -342,7 +343,7 @@
 * [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) -乔治·伯格曼
 * [Calculus Made Easy](http://calculusmadeeasy.org/) -西尔瓦努斯·汤普森（Silvanus P.Thompson）（1910）
 * [Elements of Differential and Integral Calculus](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) -威廉·安东尼·格兰维尔（1911）
-* [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) -卡尔·斯蒂茨（Jeff Carager）
+* [Precalculus](https://stitz-zeager.com/szprecalculus07042013.pdf) -卡尔·斯蒂兹（Carl Stitz），杰夫·泽格（Jeff Zeager）
 
 ### Harmonic Analysis
 

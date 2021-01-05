@@ -65,12 +65,13 @@
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) -使用Cloud Functions在Firebase中使用Bootstrap托管NextJS应用.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) -使用Next.js和Redux的简单PWA样板.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) -具有电子邮件和oAuth身份验证的Next.js入门项目.
+* [nextjs-starter](https://github.com/pbteja1998/nextjs-starter)  -SEO优化的Next.js 10入门套件模板，其中包含React 17 + Typescript + Tailwind CSS 2 + React Query 3 +（GitHub Auth +无密码Auth），使用（NextAuth.js和Fauna DB），ESLint，Prettier，Pre-commit挂钩与赫斯基. 不同的页面可以有不同的布局.
 * [RAN!](https://github.com/sly777/ran) -生产就绪样板，支持GraphQL，SSR，热重载，CSS-in-JS，缓存等.
 * [Next Simple Blog](https://github.com/tscanlin/next-blog) -使用Next.js构建的基于Markdown的简单博客，具有静态导出功能.
 * [Create-Next-App](https://open.segment.com/create-next-app) -Facebook的create-react-app分支，用于创建下一个应用程序.
 * [phox](https://github.com/herschel666/phox) -创建静态照片博客.
 * [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) -使用Next，Express，react-bootstrap，SCSS和SSR和eslint构建的全栈应用程序样板.
-* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) -博客，其中包含使用Next.js，Firebase Firestore，样式组件和mobx状态树构建的简单CMS.
+* [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) -博客，其中包含使用Next.js，Firebase Firestore，样式组件和mobx-state-tree构建的简单CMS.
 * [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) -具有Express，Redux和PostCSS的Next.js入门.
 * [NextJS Redux-Wrapper Material-UI](https://github.com/joaopaulomoraes/nextjs-with-redux-and-material-ui) -具有Redux和Material UI的样板NextJS.
 * [Staart](https://github.com/nmaro/staart) -主动维护的Next.js组件库*和*最少的样板，可通过基于Ooth的具有有效用户帐户的应用程序迅速获得支持.
@@ -79,7 +80,7 @@
 * [next-starter](https://github.com/YuriBrunetto/next-starter) -具有内置的“ sass（.scss）”和“ postcss”的完整而简单的样板.
 * [Typescript Monorepo Next Example](https://github.com/deptno/typescript-monorepo-next-example) -简约的next.js +打字稿monorepo.
 * [tomimick/tm-nextjs-starter](https://github.com/tomimick/tm-nextjs-starter) -基本的CRUD，axios / localstorage，MobX，SASS，静态站点导出，实时演示的最小启动器/演示
-* [csprance/next-smrt](https://github.com/csprance/next-smrt) - A minimal boilerplate with redux, styled-components, material-ui and typescript with a custom express server.
+* [csprance/next-smrt](https://github.com/csprance/next-smrt) -具有Redux，样式化组件，material-ui和Typescript以及自定义Express服务器的最小样板.
 * [Nextron](https://github.com/saltyshiomix/nextron) -使用Next.js应用生成器的Electron⚡
 * [next-boilerplate](https://github.com/pankod/next-boilerplate) -具有Typescript，Redux，Express.js，Sass，Css，EnvConfig，Reverse Proxy，Bundle的结构良好的生产就绪Next.js样板
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) -全栈Web应用程序框架（Next.js，Redux，RxJS，Immutable，Express）
@@ -99,7 +100,7 @@
 
 
 ## Extensions
-* [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) -通用的语言检测器（浏览器+服务器）-打算与通用框架（例如Next.js）一起使用 [DEMO](https://universal-language-detector.now.sh/)
+* [Next universal language detector](https://github.com/UnlyEd/universal-language-detector) -通用的语言检测器（浏览器+服务器）-打算与通用框架一起使用，例如Next.js [DEMO](https://universal-language-detector.now.sh/)
 * [Next Routes](https://github.com/fridays/next-routes) -Next.js的通用命名路由.
 * [Next-Pkg](https://github.com/onready/next-pkg) -具有以下功能的扩展Next.js服务器 [pkg](https://github.com/vercel/pkg) 支持.
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) -使用graphql-tag的.graphql和.gql文件的Next.js插件
@@ -154,7 +155,7 @@
 * [Elton John's website](https://www.eltonjohn.com) -艾尔顿·约翰（Elton John）的网站
 * [IOTA's Data Market Place](https://data.iota.org/) -IOTA市场
 * [magicleap.com](https://www.magicleap.com/) -魔法飞跃
-* [NPM.js Search Page](https://www.npmjs.com/search) -NPM的搜索页面
+* [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 * [Docker Success Center](https://success.docker.com) -Docker成功中心
 * [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) -根据GPLv3许可的德国法律信息系统.
 * [TikTok's HomePage](https://www.tiktok.com/) -TikTok的主页
@@ -171,7 +172,7 @@
 
 ## Videos
 
-* [使用NextJS _ [西班牙语] _创建您的第一个ReactJS应用程序（https://www.youtube.com/watch?v=-7Ft5LxPeWs）
+* [使用NextJS _ [Spanish] _]创建您的第一个ReactJS应用程序（https://www.youtube.com/watch?v=-7Ft5LxPeWs）
 * [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
 * [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
 * [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)

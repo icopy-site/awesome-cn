@@ -122,6 +122,7 @@
 ## Product Configurators
 
 - [3D Plans](https://3dplans.com) -房地产市场的虚拟旅游和互动地图.
+- [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) -交互式3D家具配置器.
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) -电梯配置器.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) -以使命召唤为主题的促销3D体验.
 - [Elfa Closets](http://elfa.com/sv-se/planner) -壁橱配置器.

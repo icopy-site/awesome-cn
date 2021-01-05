@@ -20,7 +20,7 @@
 
 ## Books
 
-* [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) 朱利安·蓬吉（Julien Ponge），托马斯·塞吉斯蒙特（Thomas Segismont）和朱利安·越（Julien Viet）
+* [A gentle guide to asynchronous programming with Eclipse Vert.x for Java developers](http://vertx.io/docs/guide-for-java-devs/) 朱利安·蓬吉，托马斯·塞吉斯蒙特和朱利安·越
 * [Building Reactive Microservices in Java](https://developers.redhat.com/promotions/building-reactive-microservices-in-java/) 由克莱门特·埃斯科菲耶（ClémentEscoffier）
 * [Vert.x in Action](https://www.manning.com/books/vertx-in-action) 通过朱利安蓬吉
 
@@ -45,6 +45,7 @@
 * [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) -在Vert.x上运行View应用程序.
 * [Serverx](https://github.com/lukehutch/serverx) -使您仅使用路由处理程序注释即可快速轻松地设置支持Vert.x的服务器.
 * [Cloudopt Next](https://github.com/cloudoptlab/cloudopt-next) -Cloudopt Next是一个非常轻量级的，现代的，基于JVM的全栈kotlin框架，旨在构建具有Java，Kotlin语言支持的模块化，易于测试的JVM应用程序，该应用程序是根据最佳的Java库和标准精制而成的.
+* [Donkey](https://github.com/AppsFlyer/donkey) -为简化易用性和性能而构建的现代Clojure HTTP服务器和客户端.
 
 ## Authentication Authorisation
 
@@ -216,7 +217,7 @@
 ## Search Engines
 
 * [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) -绿色x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理的服务.
-* [Vert.x Elasticsearch Service (redesign)](https://github.com/hubrick/vertx-elasticsearch-service) -绿色x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理的服务. 重新设计 [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service). Heavy usage of DTOs over eventbus and no more JsonObjects. Added support for ES plugins.
+* [Vert.x Elasticsearch Service (redesign)](https://github.com/hubrick/vertx-elasticsearch-service) -绿色x 3 [Elasticsearch](https://www.elastic.co/) 事件总线代理的服务. 重新设计 [Vert.x Elasticsearch Service](https://github.com/englishtown/vertx-elasticsearch-service) . 通过事件总线大量使用DTO，而不再使用JsonObjects. 添加了对ES插件的支持.
 * [Vert.x Solr Service](https://github.com/englishtown/vertx-solr-service) -具有事件总线代理的Vert.x 3 Solr服务.
 
 ## Template Engines
@@ -255,7 +256,7 @@
 * [slush-vertx](https://www.npmjs.com/package/slush-vertx) -模板驱动的Vert.x项目生成器，用于不同的语言和构建工具.
 * [Vert.x for Visual Studio Code](https://github.com/pmlopes/VertxSnippet)  -用于Vert.x的Visual Studio代码（多语言）插件. 也可以从 [Marketplace](https://marketplace.visualstudio.com/items?itemName=pmlopes.vertxsnippet).
 * [Vert.x Starter](http://www.jetdrone.xyz/vertx-starter/) -基于浏览器的Vert.x应用程序的项目启动器和项目模板.
-* [Vert.x LiveReload](https://github.com/ybonnel/vertx-livereload) -用于Vert.x应用程序的简单livereload服务器.
+* [Vert.x LiveReload](https://github.com/ybonnel/vertx-livereload) - A simple livereload server for Vert.x applications.
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator) -OpenAPI Generator可以根据给定的OpenAPI规范（v2，v3）自动生成API客户端库（SDK生成），服务器存根，文档和配置.
 
 ## Miscellaneous
@@ -282,7 +283,7 @@
 * [Vert.x Gentics Mesh Example](https://github.com/gentics/mesh-vertx-example) -有关如何使用Gentics Mesh和车把构建基于模板的Web服务器的示例.
 * [HTTP/2 showcase](https://github.com/aesteve/http2-showcase) -一个简单的演示，展示了当涉及大量延迟时HTTP / 2如何极大地改善用户体验.
 * [Vert.x Music Store](https://github.com/tsegismont/vertx-musicstore) -有关如何使用RxJava构建Vert.x应用程序的示例应用程序.
-* [Crabzilla](https://github.com/crabzilla/crabzilla)  -另一个事件来源实验. 一个探索Vert.x的项目，以开发事件源/ CQRS应用程序.
+* [Crabzilla](https://github.com/crabzilla/crabzilla)  -另一个事件来源实验. 一个探索Vert.x的项目，以开发Event Sourcing / CQRS应用程序.
 * [Vert.x PostgreSQL Starter](https://github.com/BillyYccc/vertx-postgresql-starter) -使用Vert.x堆栈和PostgreSQL构建整体CRUD RESTful Web服务的入门者.
 * [Cloud Foundry](https://github.com/amdelamar/vertx-cloudfoundry) -示例Vert.x，用于部署到 [Cloud Foundry](https://www.cloudfoundry.org/) 服务提供者.
 * [Knative](https://github.com/knative/docs/tree/master/serving/samples/helloworld-vertx) -有关如何使用的示例应用程序 [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) 与 [Knative](https://github.com/knative).

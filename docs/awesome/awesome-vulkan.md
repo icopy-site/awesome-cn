@@ -87,7 +87,7 @@
 *史诗
     * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/6_2D00_mmg_2D00_siggraph2016_2D00_vulkan_2D00_smedis.pdf)
 * Khronos
-   * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)    
+   * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
 * [LunarG](https://lunarg.com)
     * [Vulkan SDK](https://vulkan.lunarg.com/)
     * [Vulkan SDK Version Compatibility](https://www.lunarg.com/wp-content/uploads/2020/03/Vulkan-SDK-Version-Compatibility_4_20.pdf)
@@ -174,7 +174,7 @@ drm/kms.
 *  [Cinder](https://github.com/cinder/Cinder) 和 [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007) .  [BSD]
 *  [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)  -支持OpenGL / GLES，Direct3D11 / 12和Vulkan的现代跨平台底层图形库.  [Apache许可2.0]
 *  [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-released/23109)  -在SDL_vulkan.h中添加了跨平台Vulkan图形支持.  [zlib]
-*  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) -NXP GTEC C ++ 11跨平台演示框架，包括用于Vulkan，OpenGL ES，OpenVX，OpenCL，OpenVG和OpenCV的大量示例. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
+*  [DemoFramework](https://github.com/NXPmicro/gtec-demo-framework) -NXP GTEC C ++ 11跨平台演示框架，包括用于Vulkan，OpenGL ES，OpenVX，OpenCL，OpenVG和OpenCV的许多示例. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
 *  [openFrameworks](https://github.com/openframeworks-vk/openFrameworks)  -最著名的C ++创新编码框架.  [麻省理工学院]
 *  [PowerVR SDK](https://github.com/powervr-graphics/Native_SDK) -C ++跨平台3D图形SDK，可加快Vulkan和GLES的开发. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
 *  [glfw](https://github.com/glfw/glfw) 和 [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/LICENSE.md)]
@@ -193,7 +193,7 @@ drm/kms.
 *  [vpp](https://github.com/nyorain/vpp)  -现代C ++ Vulkan抽象关注于性能和简单的界面.  [麻省理工学院]
 *  [Intrinsic Engine](https://github.com/begla/Intrinsic)  -Intrinsic是基于Vulkan的跨平台图形和游戏引擎.  [Apache许可2.0]
 *  [glo / OpenGL Overload](https://github.com/g-truc/glo) -在Vulkan之上的OpenGL实现.
-*  [Skia](https://skia.googlesource.com/skia) -Google的2D图形库有一个 [Vulkan](https://skia.org/user/special/vulkan) [backend](https://github.com/google/skia/tree/master/src/gpu/vk)，以跨平台演示 [sample application](https://skia.org/user/sample/viewer) 有自己 [window library](https://github.com/google/skia/tree/master/tools/viewer) .  [BSD 3句] [website](https://skia.org)
+*  [Skia](https://skia.googlesource.com/skia) -Google的2D图形库有一个 [Vulkan](https://skia.org/user/special/vulkan) [backend](https://github.com/google/skia/tree/master/src/gpu/vk)，以跨平台演示 [sample application](https://skia.org/user/sample/viewer) 有自己 [window library](https://github.com/google/skia/tree/master/tools/viewer). [BSD 3-clause] [website](https://skia.org)
 *  [Spectrum](https://github.com/mwalczyk/spectrum_core) -围绕Vulkan的在制品框架和抽象层.
 *  [VkHLF](https://github.com/nvpro-pipeline/VkHLF)  -Vulkan高级框架.  [[许可证]]（https://github.com/nvpro-pipeline/VkHLF/blob/master/LICENSE.txt）
 *  [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12)  -D3D12的Vulkan API.  [Apache许可2.0]
@@ -215,7 +215,7 @@ drm/kms.
 *  [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink)  -在Mesa项目的一部分Vulkan之上的OpenGL实现.  [麻省理工学院]
 *  [ncnn](https://github.com/Tencent/ncnn)  -带有基于Vulkan的GPU推理的高性能神经网络推理框架.  [BSD 3句]
 *  [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK)  -用于使用Vulkan和VTK后端构建手术模拟的C ++工具包.  [Apache许可2.0]
-*  [Quartz](https://github.com/Nadrin/Quartz)  -基于物理的Vulkan RTX路径跟踪器，具有类似于ES7的声明性场景描述语言.  [LGPL-3.0]	
+*  [Quartz](https://github.com/Nadrin/Quartz)  -基于物理的Vulkan RTX路径跟踪器，具有类似于ES7的声明性场景描述语言.  [LGPL-3.0]
 *  [VK²](https://github.com/kotlin-graphics/vkk)，Vulkan的Kotlin包装器：代码的表达性和安全性满足图形功能[Apache License 2.0]
 *  [small3d](https://www.gamedev.net/projects/515-small3d/)，基于Tiny Vulkan的C ++跨平台游戏开发框架[BSD 3-clause]
 *  [VKt/VKh](https://github.com/helixd2s/vkt) ，Vulkan API的工具和帮助程序，基于，并使用C ++ 20.  [麻省理工学院]
@@ -240,6 +240,7 @@ drm/kms.
 *  [vulkan](https://github.com/realitix/vulkan)  -使用CFFI生成的Vulkan的最终Python绑定.  [Apache许可2.0]
 *  [vulkan-go](https://github.com/vulkan-go/vulkan)  -去装订Vulkan.  [我的]
 *  [PasVulkan](https://github.com/BeRo1985/pasvulkan) -Vulkan绑定以及对象Pascal的高级包装器库[Zlib]
+*  [vulkan-zig](https://github.com/Snektron/vulkan-zig) -Zig的火山粘结发生器[MIT]
 
 ## Tools
 *  [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
@@ -304,7 +305,7 @@ drm/kms.
 
 ## Related lists
 *  [awesome](https://github.com/sindresorhus/awesome) -超赞列表的精选列表.
-*  [awesome-opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*  [awesome-opengl](https://github.com/eug/awesome-opengl) -精选的很棒的OpenGL库，调试器和资源列表.
 *  [gamedev](https://github.com/ellisonleao/magictools) -有关游戏开发的真棒列表.
 *  [graphics-resources](https://github.com/mattdesl/graphics-resources) -图形编程资源列表.
 *  [awesome-d3d12](https://github.com/vinjn/awesome-d3d12) -精选的D3D12库，调试器和资源的清单.

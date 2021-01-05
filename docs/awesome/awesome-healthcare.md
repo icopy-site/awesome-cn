@@ -11,13 +11,14 @@
   * [Cottage Med](https://cottagemed.org/p/26/Download-Cottage-Med) -由医生设计的电子病历软件.
   * [GNU Health](https://www.gnuhealth.org) -电子病历，医院管理和健康信息系统.
   * [GNUmed](https://www.gnumed.de/documentation/) -电子病历软件.
-  * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) -CaboLabs EHRServer
+  * [EHRBase](https://ehrbase.org) OpenEHR临床数据存储库 
+  * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - CaboLabs EHRServer
   * [ERPNext](https://erpnext.com/open-source-healthcare) -ERPNext Healthcare模块可帮助您管理患者，约会，咨询和实验室测试以及账单
   * [EtherCIS](http://ethercis.org) -企业临床数据存储库
   * [FreeHealth EHR](https://freehealth.io) -电子病历软件.
   * [FreeMedForms EMR](https://freemedforms.com/fr/start) -电子病历软件.
   * [HospitalRun](https://hospitalrun.io) -HospitalRun旨在为资源最少的环境提供最新的医院信息系统.
-  * [Hospital OS](http://www.hospital-os.com) - Thai Hospital Information System.
+  * [Hospital OS](http://www.hospital-os.com) -泰国医院信息系统.
   * [HOSxP](https://hosxp.net/joomla25/) -泰国医院信息系统，旨在简化健康中心和中央医院的医疗工作流程.
   * [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) -以临床为重点的电子健康记录系统.
   * [MedinTux](https://medintux.org/) -法国医疗实践管理系统.
@@ -42,6 +43,7 @@
   * [HL7 Version 2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) -HL7v2所有版本的规范（需要免费帐户）.
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/the-common-data-model/) -用于许多医疗保健概念的标准化数据模型，很棒的Github存在，包括许多主要关系数据库的脚本 
   * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) -标准健康记录（SHR）通过建立健康数据标准化的单一目标，提供了高质量，可计算的患者信息来源.
+  * [DICOM Standards Browser](https://dicom.innolitics.com/ciods) -Innolitics DICOM标准浏览器提供了一种学习DICOM标准和检查DICOM属性的有效方法.
   
 ### Prescribing
   * [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) -药品管理应用程序套件，可提高处方和药品管理的安全性和效率.
@@ -59,7 +61,7 @@
   * [Fiji](https://imagej.net/Fiji) -Fiji Is Just ImageJ：用于生物图像分析的开源平台.
   * [GIMIAS](http://www.gimias.org/) -可扩展的图像计算和模拟软件，重点在于特定的工作流程.
   * [Horos](https://horosproject.org) -医学图像查看器.
-  * [InVesalius](https://www.cti.gov.br/pt-br/invesalius) -来自2维样本的3维图像重建器.
+  * [InVesalius](https://invesalius.github.io) -用于重建计算机断层扫描和磁共振图像的开源软件.
   * [ITK](https://itk.org/) -用于开发具有2维和3维前沿算法的图像分割和图像配准程序的工具包.
   * [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) -交互式软件，用于3D图像导航，注释和自动分段，并强调用户友好性.
   * [LibreHealth Radiology](https://librehealth.io/projects/lh-radiology/) -LibreHealth Toolkit的定制版本，带有针对放射学和影像专业人士的其他工具.
@@ -79,7 +81,7 @@
 
 ### Frameworks
   * [API Server](https://github.com/smart-on-fhir/api-server) -FHIR Server，支持面向患者和临床医生的应用程序.
-  * [CareKit](https://github.com/carekit-apple/CareKit/) -CareKit是一个开放源代码软件框架，用于创建可帮助人们更好地理解和管理其健康的应用程序.
+  * [CareKit](https://github.com/carekit-apple/CareKit/) -CareKit是一个开放源代码软件框架，用于创建可帮助人们更好地了解和管理其健康状况的应用程序.
   * [Clinical Meteor project](https://github.com/clinical-meteor) -适用于FDA，HIPPA和HL7兼容应用程序的流星.
   * [FHIRBase](https://fhirbase.github.io) -基于FHIR标准的存储.
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) -FHIR标准的.NET Core实现.
@@ -97,10 +99,10 @@
   * [dicom](https://github.com/suyashkumar/dicom) -Go中的高性能DICOM医学图像解析器
   * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - A C# DICOM Library
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) -适用于.NET，.NET Core，通用Windows，Android，iOS，Mono和Unity的DICOM
-  * [FHIR .NET API](https://github.com/FirelyTeam/fhir-net-api) -HL7 FHIR的官方.NET API.
+  * [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) -HL7 FHIR的官方.NET API.
   * [fhir.js](https://github.com/FHIR/fhir.js) -FHIR的JavaScript客户端.
   * [FHIR protocol buffers](https://github.com/google/fhir) -FHIR协议缓冲区的Google实现.
-  * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) -用于HL7 FHIR客户端和服务器的Java API.
+  * [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) -用于HL7 FHIR客户端和服务器的Java API.
   * [Hearth](https://github.com/jembi/hearth) -专注于纵向数据存储的快速FHIR兼容服务器.
   * [Health data standards](https://github.com/projectcypress/health-data-standards)  -用于生成和使用各种医疗保健相关格式的Ruby库. 这些包括HITSP C32，QRDA I类和QRDA III类.
   * [MITK](https://www.mitk.org/wiki/The_Medical_Imaging_Interaction_Toolkit_(MITK)）-医学影像交互工具包.
@@ -149,6 +151,7 @@
   * [DHIS](https://dhiskp.gov.pk/) -地区卫生管理信息系统和数据仓库.
   * [IHRIS](https://www.ihris.org/toolkit-new/) -用于管理卫生人力资源的卫生信息系统.
   * [Inferno](https://github.com/onc-healthit/inferno) -开源工具，用于测试患者是否可以通过标准界面访问其健康数据
+  * [OpenSAFELY](https://opensafely.org) -用于NHS中电子健康记录的新安全分析平台
   * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) -具有版本控制功能和协作创作平台功能的高度可扩展的开源术语服务器. 
   * [Synthea Patient Generator](https://github.com/synthetichealth/synthea) -模拟综合病人病史的综合病人发生器.
 
@@ -159,15 +162,14 @@
   * [MEDIC Client Registry RI](https://github.com/MohawkMEDIC/client-registry) -莫霍克学院MARC-HI / MEDIC客户注册表EMPI实施.
   
 ### Machine learning
-  * [Computational Healthcare Library](https://www.computationalhealthcare.com/library) -使用大型未识别的医疗数据集分析和开发机器学习模型的平台. 
   * [Healthcare.ai](https://healthcare.ai) -用于医疗保健机器学习的Python和R工具 
 
 ### Compliance
-* [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) -使使用受保护的健康信息的公司的合规性尽可能容易.
+  * [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) -使使用受保护的健康信息的公司的合规性尽可能容易.
 
 ### Asset Management
-* [Tapirx](https://github.com/virtalabs/tapirx) -网络医疗设备发现和识别.
+  * [Tapirx](https://github.com/virtalabs/tapirx) -网络医疗设备发现和识别.
 
 ### Logistics
-* [ID3C](https://github.com/seattleflu/id3c) -实现实时基因组流行病学的数据物流系统.
-* [OpenLMIS](https://openlmis.org) -专为管理健康商品供应链而构建的开源，基于Web的电子物流管理信息系统（LMIS）软件
+  * [ID3C](https://github.com/seattleflu/id3c) -实现实时基因组流行病学的数据物流系统.
+  * [OpenLMIS](https://openlmis.org) -专为管理健康商品供应链而构建的开源，基于Web的电子物流管理信息系统（LMIS）软件

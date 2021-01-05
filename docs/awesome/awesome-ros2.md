@@ -61,7 +61,7 @@
 
 - [Apex.Autonomy](https://www.apex.ai/apex-autonomy) -Apex.Autonomy提供自治算法作为单独的构建基块，并且与Autoware.Auto兼容.
 - [Autoware.Auto](https://www.autoware.auto/) Autoware.Auto为自动驾驶技术提供了基于ROS 2的开源软件堆栈.
-- [ros2_control](https://github.com/ros-controls/ros2_control) -`ros2_control`是关于如何在机器人控制（ros2_controllers）的上下文中阐述和使用ROS 2中新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
+- [ros2_control](https://github.com/ros-controls/ros2_control) -“ ros2_control”是关于如何在机器人控制（ros2_controllers）的上下文中阐述和使用ROS 2中新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) -ros_controllers的说明. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) -一组ROS软件包，用于跟踪坐标变换. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [ros2-ORB_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) -ROS2节点包装了ORB_SLAM2库. ![ros2-ORB_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
@@ -80,7 +80,7 @@
 - [common_interfaces](https://github.com/ros2/common_interfaces) -一组包含通用接口文件（.msg和.srv）的软件包. ![common_interfaces](https://img.shields.io/github/stars/ros2/common_interfaces.svg)
 - [ros2_object_map](https://github.com/intel/ros2_object_map) -“ SLAM时在地图上标记对象的标签”. ![ros2_object_map](https://img.shields.io/github/stars/intel/ros2_object_map.svg)
 - [ros2_object_analytics](https://github.com/intel/ros2_object_analytics) -对象分析（OA）是用于实时对象检测，定位和跟踪的ROS2包装器. ![ros2_object_analytics](https://img.shields.io/github/stars/intel/ros2_object_analytics.svg)
-- [ros2_intel_movidius_ncs](https://github.com/intel/ros2_intel_movidius_ncs) - ROS2 wrapper for Movidius™ Neural Compute Stick (NCS) Neuronal Compute API. ![ros2_intel_movidius_ncs](https://img.shields.io/github/stars/intel/ros2_intel_movidius_ncs.svg)
+- [ros2_intel_movidius_ncs](https://github.com/intel/ros2_intel_movidius_ncs) -Movidius™神经计算棒（NCS）神经元计算API的ROS2包装器. ![ros2_intel_movidius_ncs](https://img.shields.io/github/stars/intel/ros2_intel_movidius_ncs.svg)
 - [ros2_moving_object](https://github.com/intel/ros2_moving_object) -根据对象分析“ ros2_object_analytics”生成的消息对移动对象进行寻址. ![ros2_moving_object](https://img.shields.io/github/stars/intel/ros2_moving_object.svg)
 - [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) -用于OpenVINO™（人类视觉仿真）的CV API的ROS2包装器. ![ros2_openvino_toolkit](https://img.shields.io/github/stars/intel/ros2_openvino_toolkit.svg)
 - [ros2_grasp_library](https://github.com/intel/ros2_grasp_library) -可能是一个抓取库:). ![ros2_grasp_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
@@ -189,7 +189,7 @@
 - [OpenSplice](https://github.com/ADLINK-IST/opensplice) -实施OMG DDS标准. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) ：heavy_dollar_sign：
 - [CoreDX DDS](http://www.twinoakscomputing.com/coredx) -Twin Oaks Computing，Inc.的实现：heavy_dollar_sign：
 - [freertps](https://github.com/ros2/freertps) -免费，可移植，极简，正在进行的RTPS实施. ![freertps](https://img.shields.io/github/stars/ros2/freertps.svg)
-- [cdds](https://github.com/atolab/cdds) -Cyclone DDS完全是公开开发的，正在接受验收过程，成为Eclipse IoT的一部分. ![cdds](https://img.shields.io/github/stars/atolab/cdds.svg)
+- [cdds](https://github.com/atolab/cdds) - Cyclone DDS is developed completely in the open and is undergoing the acceptance process to become part of Eclipse IoT. ![cdds](https://img.shields.io/github/stars/atolab/cdds.svg)
 - [Micro-XRCE-DDS)](https://github.com/eProsima/Micro-XRCE-DDS) -XRCE DDS实现（由microROS支持）. ![Micro-XRCE-DDS](https://img.shields.io/github/stars/eProsima/Micro-XRCE-DDS.svg)
 
 ### Build system (Linux)
@@ -391,6 +391,7 @@ DDS安全性.
 - [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) -智能自动化服务提供商.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) -ROS工具箱.
+- [Mission Robotics](https://missionrobotics.us/) -面向海洋智能新时代的硬件和软件.
 - [Roboception GmbH](https://roboception.com/en/) -您的机器人的实时感知.
 - [ROBOOX](https://roboox.co/) -用于消费机器人的开源软件生态系统.
 - [Rover Robotics](https://roverrobotics.com/) -坚固的工业级机器人.
