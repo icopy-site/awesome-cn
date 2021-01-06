@@ -88,7 +88,7 @@ html {
 }
 ```
 
- **注意：** IE11不支持`all`速记，目前正在考虑Edge中的支持.  IE11不支持`unset`.
+**注意：** IE11不支持`all`和`unset`的简写.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -243,7 +243,7 @@ ul&gt; li：not（：last-child）:: after {
 }
 ```
 
-Use the `:not()` pseudo-class and no comma will be added to the last item.
+使用`：not（）`伪类，不会在最后一项添加逗号.
 
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -290,7 +290,7 @@ li：not（：nth-​​child（-n + 3））{
 
 SVG可以很好地适应所有分辨率类型，并且在所有浏览器中均受支持 [back to IE9](http://caniuse.com/#search=svg) . 抛弃您的.png，.jpg或.gif-jif-whatev文件.
 
-**注意：**如果您为有视力的用户提供仅SVG图标的按钮，而SVG无法加载，则有助于维护可访问性：
+**注意：**如果您为有视力的用户提供仅SVG图标的按钮，而SVG无法加载，这将有助于维持可访问性：
 
 ```css
 .no-svg .icon-only ::之后{
@@ -303,7 +303,7 @@ SVG可以很好地适应所有分辨率类型，并且在所有浏览器中均�
 
 ### Use the "Lobotomized Owl" Selector
 
-它的名称可能很奇怪，但是将通用选择器（*）与相邻的兄弟选择器（+）结合使用可以提供强大的CSS功能：
+它可能有一个奇怪的名字，但是将通用选择器（`*`）与相邻的兄弟选择器（`+`）结合使用可以提供强大的CSS功能：
 
 ```css
 * + * {
@@ -333,7 +333,7 @@ SVG可以很好地适应所有分辨率类型，并且在所有浏览器中均�
 
 .slider：hover {
   最大高度：600px；
-  溢出y：滚动；
+  overflow-y: scroll;
 }
 ```
 
@@ -608,8 +608,8 @@ Chrome，Firefox，Safari，Opera，Edge和IE11的当前版本.
 * [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
 * [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
 * [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+* [λληνικά](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
 * [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
-* [हिन्दी](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/hi-IND)
 * [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
 * [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
 * [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)

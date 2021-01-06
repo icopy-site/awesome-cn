@@ -39,7 +39,7 @@
 * [Phalcon Composer](https://github.com/xxtime/phalcon) -带有Composer的Phalcon支持MySql MongoDb Redis，干净+美丽
 * [Vökuró](https://github.com/phalcon/vokuro) -Phalcon框架的示例应用程序（Acl，Auth，安全性）
 * [Webird](https://github.com/perchlabs/webird) -创建Webird是为了将最新的PHP和Node.js创新合并到单个应用程序堆栈中
-* [NovaMOOC](https://github.com/les-enovateurs/phalcon-nova-mooc) -带有API / BackEnd和FrontEnd的示例应用程序+带有JWT的身份验证+带有GitHub Actions + Docker组成的Cypress测试.
+* [NovaMOOC](https://github.com/les-enovateurs/phalcon-nova-mooc) -带有API / BackEnd和FrontEnd的示例应用程序+带有JWT的身份验证+带有GitHub Actions + Docker的Cypress测试+组成.
 * [Sakura Panel](https://github.com/yassinrais/sakura-panel) -创建Phalcon面板以安装插件而无需编辑面板源代码（Auth，ACL，Lite Bootstrap模板等）.
 
 
@@ -115,7 +115,7 @@
 
 *将这些库放在这里是因为其他类别似乎都不适合*
 
-* [Breadcrumbs](https://github.com/sergeyklay/breadcrumbs) -Phalcon 2+中用于构建站点面包屑的强大而灵活的组件.
+* [Breadcrumbs](https://github.com/sergeyklay/breadcrumbs) - Powerful and flexible component for building site breadcrumbs in Phalcon 2+.
 * [Feedback](https://quasipickle.github.io/feedback/) -旨在替代Phalcon的内置Flash和Message功能
 * [Incubator](https://github.com/phalcon/incubator) -用于发布/共享/使用新适配器，原型或功能的存储库，这些适配器，原型或功能可能会合并到Phalcon框架中
 * [yarak](https://github.com/zachleigh/yarak) -Laravel启发了Phalcon devtools
@@ -133,7 +133,7 @@
 
 ## ODM
 
-*Libraries that implement Object-Document Mapper techniques.*
+*实现对象文档映射器技术的库.*
 
 * [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - 一种 [pagination adapter](https://docs.phalcon.io/3.4/en/db-pagination#data-adapters) 用于扩展`Phalcon \ Mvc \ Collection`的类
 
@@ -156,7 +156,7 @@
 
 *各种路由库和扩展.
 
-* [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) -自动加载模块的简单方法，无需复杂的路由定义
+* [Phalcon-autorouter](https://github.com/kahur/Phalcon-autorouter) -自动加载模块的简单方法，无需复杂的路由定义
 * [Phalcon Routing for Yaml](https://github.com/ienaga/PhalconRouter) -可以使用yaml轻松配置路由
 
 
@@ -244,6 +244,7 @@
 
 * [French magazine - Programmez n°239](https://www.programmez.com/magazine/article/les-10-commandements-de-lecoconception) -生态设计的10条诫命（文章提到Phalcon是一个轻巧的生态框架）
 * [French magazine - Programmez n°241](https://www.programmez.com/magazine/article/phalcon-un-framework-performant-et-robuste-compile-en-c) -Phalcon：新的必备PHP框架
+* [German magazine - PHPMagazin n°1.21](https://kiosk.entwickler.de/php-magazin/php-magazin-1-2021/) -PHP框架中的Phalcon
 
 ## Websites
 
@@ -254,6 +255,6 @@
 
 ### Tutorials
 
-* [Phalcon Documentation](https://docs.phalcon.io/3.4/en/introduction) -Phalcon文件
+* [Phalcon Documentation](https://docs.phalcon.io/4.0/en/introduction) -Phalcon文件
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) -文章，教程等
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) -Tutsplus代码课程

@@ -183,6 +183,7 @@ ViewPager
 [RotatingText](https://github.com/sdsmdg/RotatingText) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/RotatingText.gif" width="100%">
 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master//art/MaterialEditText.png)
 [MaterialTextField](https://github.com/florent37/MaterialTextField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://raw.githubusercontent.com/wasabeef/awesome-android-ui/master/art/MaterialTextField.gif" width="49%">
+[CodeView](https://raw.githubusercontent.com/amrdeveloper/CodeView) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/AmrDeveloper/CodeView/master/screenshots/java_demo.gif" width="49%"> <img src="https://raw.githubusercontent.com/AmrDeveloper/CodeView/master/screenshots/python_demo.gif" width="49%">
 
 Image
 ======================

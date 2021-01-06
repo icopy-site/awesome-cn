@@ -6,7 +6,7 @@
 >
 > [PlayCanvas](https://playcanvas.com/) 是用于构建交互式Web内容的开源平台. 它是用JavaScript，HTML5，CSS3和WebGL编写的.
 >
-&gt;此列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
+&gt;该列表是精选的精选资源，工具，教程和项目，它们使用PlayCanvas引擎来帮助开发人员制作_awesome_游戏和可视化效果.
 >
 &gt;捐款_非常欢迎_但先见 [Contributing](#contributing).
 
@@ -67,6 +67,7 @@
 ## Advertising
 
 - [Ally Racing](https://www.allyracer.com/) -复古NASCAR赛车广告游戏.
+- [Call of Duty: Gunsmith](http://gun.playcanvas.com/) -以使命召唤为主题的促销3D体验.
 - [Cyber City](https://vz777.com/cybercity/index.html) -Visionaries777促销网站.
 - [eBay Report](https://www.ebay-report.de/) -来自eBay德国的统计数据和事实.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) -适用于流行手机游戏的交互式3D广告.
@@ -124,7 +125,6 @@
 - [3D Plans](https://3dplans.com) -房地产市场的虚拟旅游和互动地图.
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) -交互式3D家具配置器.
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) -电梯配置器.
-- [Call of Duty: Gunsmith](http://gun.playcanvas.com/) -以使命召唤为主题的促销3D体验.
 - [Elfa Closets](http://elfa.com/sv-se/planner) -壁橱配置器.
 - [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) -自动检重秤可视化仪.
 - [iPhone 6](http://phone.playcanvas.com) -iPhone可视化工具.

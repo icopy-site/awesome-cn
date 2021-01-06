@@ -12,7 +12,7 @@
 
 精选的很棒的MicroPython库，框架，软件和资源的列表.
 
-[MicroPython](http://micropython.org/) 是Python 3编程语言的一种精简而高效的实现，其中包括Python标准库的一小部分，并且经过优化可在微控制器和受限环境中运行.
+[MicroPython](http://micropython.org/) 是Python 3编程语言的一种精简而有效的实现，其中包括Python标准库的一小部分，并且经过优化可在微控制器和受限环境中运行.
 
 
 
@@ -46,7 +46,7 @@
 * [micropython-buzzer](https://github.com/fruch/micropython-buzzer) -在蜂鸣器上播放诺基亚文件和中档文件.
 * [micropython-dfplayer](https://github.com/ShrimpingIt/micropython-dfplayer) -使用UART的DFPlayer Mini驱动程序.
 * [micropython-longwave](https://github.com/MattMatic/micropython-longwave) -MicroPython开发板的WAV播放器.
-* [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) - Asynchronous driver for VS1053b MP3 player.
+* [micropython-vs1053](https://github.com/peterhinch/micropython-vs1053) -VS1053b MP3播放器的异步驱动程序.
 * [micropython-midi](https://github.com/cjbarnes18/micropython-midi) -MicroPython的Midi实现示例.
 * [upy-rtttl](https://github.com/dhylands/upy-rtttl) -铃声文本传输语言（RTTTL）的Python分析器.
 
@@ -63,7 +63,7 @@
 #### Cryptography
 
 * [mpyaes](https://github.com/iyassou/mpyaes) -用于AES加密的MicroPython模块.
-* [micropython-aes](https://github.com/piaca/micropython-aes) -带有纯python实现的AES算法.
+* [micropython-aes](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
 
 #### DNS
 
@@ -94,7 +94,7 @@
 
 * [microhomie](https://github.com/microhomie/microhomie) -用于物联网的Homie MQTT约定的MicroPython实现.
 * [uPyEcho](https://github.com/lemariva/uPyEcho) -在ESP32上使用MicroPython仿真的Belkin WeMo设备，可与Amazon Echo（Alexa）一起使用.
-* [SonosRemote](https://github.com/foosel/SonosRemote) - A remote for Sonos installations running on an ESP8266 and using Sonos HTTP API.
+* [SonosRemote](https://github.com/foosel/SonosRemote) -用于在ESP8266上运行并使用Sonos HTTP API的Sonos安装的遥控器.
 * [micropython-home-assistant](https://gitlab.com/aapjeisbaas/micropython-home-assistant) -基于MicroPython的脚本，可扩展您的家庭助理驱动的家庭自动化项目.
 
 #### IR
@@ -133,6 +133,10 @@
 #### OneWire
 
 * [Official OneWire](https://github.com/micropython/micropython/tree/master/drivers/onewire) - For devices using the OneWire bus, eg Dallas ds18x20.
+
+#### Onkyo EISCP
+
+* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) -先锋使用的Onkyo-EISCP协议的Micropython端口.
 
 #### Radio
 
@@ -180,7 +184,7 @@
 #### Web
 
 * [MicroWebSrv](https://github.com/jczic/MicroWebSrv) -微型HTTP Web服务器，支持用于MicroPython的WebSocket，html / python语言模板和路由处理程序（用于Pycom模块和ESP32）.
-* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) -最后一款用于IoT（MicroPython）或大型服务器（CPython）的微型Web服务器，支持WebSocket，路由，模板引擎，并具有真正优化的架构（内存分配，异步I / O）.
+* [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) -最新的用于物联网（MicroPython）或大型服务器（CPython）的微型Web服务器，支持WebSocket，路由，模板引擎，并具有真正优化的架构（内存分配，异步I / O）.
 * [tinyweb](https://github.com/belyalov/tinyweb) -适用于MicroPython的简单轻巧的HTTP异步服务器.
 * [upy-websocket-server](https://github.com/BetaRavener/upy-websocket-server) -MicroPython（ESP8266）Websocket服务器实现.
 * [micropython-captive-portal](https://github.com/amora-labs/micropython-captive-portal) -用于MicroPython的强制门户演示.
@@ -213,7 +217,7 @@
 * [lvgl](https://github.com/lvgl/lv_binding_micropython) -具有MicroPython绑定的基于对象的基于组件的高级GUI库.
 * [micropython-lcd160cr-gui](https://github.com/peterhinch/micropython-lcd160cr-gui) -用于Pyboard和LCD160CR彩色显示器的基于事件的简单触摸驱动GUI.
 * [micropython_ra8875](https://github.com/peterhinch/micropython_ra8875) -用于基于RA8875的显示器的MicroPython设备驱动程序和nano-GUI.
-* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  -Nano-Gui为显示器的驱动程序是从framebuf类子类化的显示器提供了一组有限的GUI对象（小部件）. 其中包括LCD和OLED显示器.
+* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui)  -Nano-Gui为显示器的驱动程序是从framebuf类子类化的显示器提供了一组有限的GUI对象（窗口小部件）. 其中包括LCD和OLED显示器.
 
 #### LCD Character
 
@@ -266,7 +270,7 @@
 * [max7219_8digit](https://github.com/pdwerryhouse/max7219_8digit) -MAX7219 8位7段LED模块驱动器.
 * [micropython-max7219](https://github.com/JulienBacquart/micropython-max7219) -MAX7219 8位7段LED模块驱动器.
 * [micropython-my9221](https://github.com/mcauser/micropython-my9221) -MY9221 10段LED条形图模块的驱动程序.
-* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) -用于TM1637四路7段LED模块的驱动器.
+* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
 * [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) -带开关的TM1638双四极7段LED模块的驱动器.
 * [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) -TM1740 8x8 LED矩阵模块的驱动程序.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) -MicroPython库，用于由TM1640控制的16位7段显示.
@@ -524,12 +528,12 @@
 
 ## Books
 
-* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -作者：尼古拉斯·H·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -作者：尼古拉斯·H·托勒维.  ISBN 9781491972731.
 * [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227)  -查尔斯·贝尔（Charles Bell）.  ISBN 9781484231227.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  -Marwan Alsabbagh.  ISBN 9781838649951.
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)  -唐纳德​​·诺里斯（Donald Norris）.  ISBN 9781259644535.
 * [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937)  -尤里·玛格达（Yury Magda）.  ISBN 9781090900937.
-* [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects)  -雅各布·贝宁戈（Jacob Beningo）  ISBN 9781789958034.
+* [MicroPython Projects](https://www.packtpub.com/au/iot-hardware/micropython-projects)  -作者：雅各布·贝宁戈 ISBN 9781789958034.
 
 ## Frameworks
 
@@ -578,6 +582,7 @@
 * [rshell](https://github.com/dhylands/rshell) -将文件复制或同步到板，然后从终端输入REPL.
 * [ampy](https://github.com/scientifichackers/ampy) -Adafruit MicroPython工具-用于通过串行连接与MicroPython开发板交互的实用程序.
 * [mpfshell](https://github.com/wendlers/mpfshell) -一个用于ESP8266和WiPy的基于外壳的简单文件浏览器.
+* [mpsync](https://github.com/Uhlo/mpsync) -一个小工具，只要它检测到更改，便会将文件夹同步到MicroPython开发板.
 
 ## Miscellaneous
 

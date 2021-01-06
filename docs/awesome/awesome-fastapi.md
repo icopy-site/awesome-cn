@@ -74,6 +74,7 @@
 
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) -一个简单的轻量级缓存系统.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) -一套实用的实用程序：分页，身份验证中间件，权限，自定义异常处理程序，MongoDB支持和Opentracing中间件.
+- [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) -FastAPI路由器，可以为您的模型自动创建并记录CRUD路由.
 - [FastAPI Plugins](https://github.com/madkote/fastapi-plugins) -Redis和Scheduler插件.
 - [FastAPI ServiceUtils](https://github.com/skallfass/fastapi_serviceutils) -用于创建API服务的生成器.
 - [FastAPI SocketIO](https://github.com/pyropy/fastapi-socketio) -轻松集成FastAPI和SocketIO.
@@ -90,7 +91,7 @@
 ### Official Resources
 
 - [Documentation](https://fastapi.tiangolo.com/) -全面的文档.
-- [Tutorial](https://fastapi.tiangolo.com/tutorial/) - Official tutorial showing you how to use FastAPI with most of its features, step by step.
+- [Tutorial](https://fastapi.tiangolo.com/tutorial/) -正式教程，逐步向您展示如何使用FastAPI及其大部分功能.
 - [Source Code](https://github.com/tiangolo/fastapi) -托管在GitHub上.
 - [Gitter Chat](https://gitter.im/tiangolo/fastapi) -与其他FastAPI用户聊天.
 
@@ -101,6 +102,7 @@
 
 ### Articles
 
+- [FastAPI has Ruined Flask Forever for Me](https://towardsdatascience.com/fastapi-has-ruined-flask-forever-for-me-73916127da)
 - [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679) -深入了解为什么您可能希望从Flask转到FastAPI.
 
 ### Tutorials
@@ -115,6 +117,7 @@
   - [Service discovery in Container Orchestration Platforms](https://florian-kromer.medium.com/fastapi-microservice-patterns-service-discovery-in-container-orchestration-platforms-290c00d1ad8) -说明了如何在Kubernetes中启用FastAPI服务通信.
   - [Asynchronous Communication](https://florian-kromer.medium.com/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8) -通过消息启用松散耦合的服务.
   - [Application monitoring](https://florian-kromer.medium.com/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) -使用Prometheus和Grafana进行应用程序指标监视.
+  - [Serverless deployment](https://florian-kromer.medium.com/fastapi-microservice-serverless-deployment-41a6d21e5cb3) -关于FastAPI和Kubernetes原生FaaS平台之间的兼容性的当前状态.
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) -通过基于Web的API部署机器学习模型.
 - [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) -说明如何使用OpenTelemetry和Datadog / Jaeger实施应用程序性能监视（APM）.
 - [Introducing FARM Stack - FastAPI, React, and MongoDB](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB/) -完整的FastAPI Web应用程序堆栈入门.
@@ -122,6 +125,7 @@
 - [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) -Flask与FastAPI的比较.
 - [Real-time data streaming using FastAPI and WebSockets](https://stribny.name/blog/2020/07/real-time-data-streaming-using-fastapi-and-websockets/) -了解如何将数据从FastAPI直接流式传输到实时图表中.
 - [Serving Machine Learning Models with FastAPI in Python](https://medium.com/@8B_EC/tutorial-serving-machine-learning-models-with-fastapi-in-python-c1a27319c459) -使用FastAPI作为RESTful API在Python中快速轻松地部署和提供机器学习模型.
+- [Using Hypothesis and Schemathesis to Test FastAPI](https://testdriven.io/blog/fastapi-hypothesis/) -将基于属性的测试应用于FastAPI.
 
 ### Talks
 
@@ -198,7 +202,7 @@ Compute:
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) -使用FastAPI的项目的组织清单.
 - [Bitcart](https://github.com/bitcartcc/bitcart) -为商人，用户和开发人员提供易于设置和使用的平台.
 - [Dispatch](https://github.com/Netflix/dispatch) -管理安全事件.
--FastAPI CRUD示例：
+- FastAPI CRUD Example:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
 - [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) -Websocket“广播”演示.

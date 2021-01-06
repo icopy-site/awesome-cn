@@ -38,6 +38,7 @@
 ### Analysis Tools
 
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) -在二进制文件中搜索“有趣”的东西，并提取任意文件.
+- [emba](https://github.com/e-m-b-a/emba) -分析嵌入式设备的基于Linux的固件.
 - [Firmadyne](https://github.com/firmadyne/firmadyne) -尝试模拟和渗透固件.
 - [Firmwalker](https://github.com/craigz28/firmwalker) -在提取的固件映像中搜索有趣的文件和信息.
 - [Firmware Slap](https://github.com/ChrisTheCoolHut/Firmware_Slap) -通过概念分析和功能集群发现固件中的漏洞.
@@ -139,7 +140,7 @@
 -2016年，Costin等人： [Automated Dynamic Firmware Analysis at Scale: A Case Study on Embedded Web Interfaces](http://s3.eurecom.fr/docs/asiaccs16_costin.pdf)
 -2015年，Shoshitaishvili等人：[Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware](https://www.ndss-symposium.org/wp-content/uploads/2017/09/11_1_2.pdf)
 -2015年，Papp等： [Embedded Systems Security: Threats, Vulnerabilities, and Attack Taxonomy](http://www.cse.psu.edu/~pdm12/cse597g-f15/readings/cse597g-embedded_systems.pdf)
-2014年，Zaddach等人： [Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares](http://www.eurecom.fr/en/publication/4158/download/rs-publi-4158.pdf)
+-2014年，Zaddach等人： [Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares](http://www.eurecom.fr/en/publication/4158/download/rs-publi-4158.pdf)
 2014年，Alimi等人： [Analysis of embedded applications by evolutionary fuzzing](http://ieeexplore.ieee.org/document/6903734/)
 -2014年，Costin等人： [A Large-Scale Analysis of the Security of Embedded Firmwares](http://www.s3.eurecom.fr/docs/usenixsec14_costin.pdf)
 -2013年，戴维森（Davidson）等人： [FIE on Firmware: Finding Vulnerabilities in Embedded Systems using Symbolic Execution](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_davidson.pdf)

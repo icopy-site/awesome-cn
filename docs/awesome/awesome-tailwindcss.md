@@ -97,6 +97,7 @@
 -  [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) -生成Bootstrap的样式flexbox网格系统.
 -  [CSS Filters](https://github.com/Larsklopstra/tailwindcss-css-filters) -添加带有默认值的`filter`和`backdrop-filter`实用程序.
 -  [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) -使用以下命令添加实用程序以修剪文本空白 [Capsize](https://github.com/seek-oss/capsize).
+-  [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) -添加`text-decoration-color`实用程序.
 -  [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
 -  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) -添加了“ RTL”和“ LTR”变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) -添加`touch`变体.
@@ -126,7 +127,7 @@
 -  [Grid](https://github.com/chrisrowe/tailwindcss-grid) -添加CSS网格实用程序.
 -  [Transforms](https://github.com/benface/tailwindcss-transforms) -添加`transform`实用程序.
 -  [benface's transitions](https://github.com/benface/tailwindcss-transitions) -添加带有或不带有CSS变量的可配置过渡实用程序.
--  [webdna's transitions](https://github.com/webdna/tailwindcss-transition) -添加了可配置的过渡实用程序.
+-  [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
 -  [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) -添加了基本的转换实用程序.
 -  [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) -扩展`cursor`工具.
 -  [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) -添加`font-variant-numeric`实用程序.
@@ -152,9 +153,9 @@
 -  [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) -具有Tailwind CSS v2颜色的Figma库.
 -  [Colorkraken](https://github.com/Bouhoum/colorkraken) -Tailwind CSS的颜色阴影生成器.
 -  [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) -一个Babel插件，可在使用Babel编译代码时添加自定义深色类.
-- 🌍🔧 [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) -由OpenAI GPT-3驱动的Tailwind CSS代码生成器.
-- 🌍🔧 [Stitches](https://stitches.hyperyolo.com/) -带有Tailwind的模板生成器（在线）.
-- 🌍🔧 [tail-animista](https://tail-animista.vercel.app) -Tailwind CSS的可配置自定义动画实用程序生成器.
+-  [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) -由OpenAI GPT-3驱动的Tailwind CSS代码生成器.
+-  [Stitches](https://stitches.hyperyolo.com/) -带有Tailwind的模板生成器（在线）.
+-  [tail-animista](https://tail-animista.vercel.app) -Tailwind CSS的可配置自定义动画实用程序生成器.
 -  [Typography Playground](https://tailwind-typography-playground.vercel.app/) -使用Tailwind CSS Typography插件尝试不同Google字体组合的工具.
 -  [Play](https://play.tailwindcss.com/) -先进的Tailwind CSS在线游乐场.
 -  [tailwind.run](https://tailwind.run) -带有内置功能的Tailwind CSS提琴（在线）.
