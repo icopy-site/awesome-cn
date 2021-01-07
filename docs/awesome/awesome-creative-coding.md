@@ -135,13 +135,14 @@
 - [Sonic Pi](http://sonic-pi.net/) -每个人的现场编码音乐合成器.
 - [Csound](https://csound.com/) -声音和音乐计算系统.
 - [Orca](https://100r.co/pages/orca.html) -实时编码环境，可快速创建过程定序器.
+- [handel](https://handel-pl.github.io/) -一种用于在浏览器中编写歌曲的小型程序编程语言. 
 
 ### Web Programming • Libraries
 
 - [three.js](https://github.com/mrdoob/three.js/) -JavaScript 3D库.
 - [regl](https://github.com/regl-project/regl) -功能性WebGL.
 - [Stackgl](http://stack.gl/) -用于WebGL的开放软件生态系统，建立在browserify和npm之上.
-- [Paper.js](http://paperjs.org/) -矢量图形脚本编写的瑞士军刀.
+- [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 - [Pixi.js](http://www.pixijs.com/) -HTML 5 2D渲染引擎，将webGL与画布后备结合使用.
 - [p5.js](https://p5js.org/) -以“处理”的原始目标开始的JavaScript库.
 - [Pts.js](https://ptsjs.org/) -用于可视化和广告素材编码的JavaScript库.
@@ -248,7 +249,7 @@
 ### Talks
 
 - [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) -使用three.js简介WebGL.
-- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) -收录ÍñigoQuílez提供的实时编码视频.
+- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Íñigo Quílez.
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -Bruno Imbrizi在WebExpo 2016上使用画布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) -滑过 [@williamapan](https://twitter.com/williamapan) 从他在Gobelins的创意开发者工作室获得.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
@@ -327,7 +328,7 @@
 - [COSMOS](http://www.c4ios.com/cosmos/) -有关使用C4设计，编程和启动应用程序的端到端教程.
 - [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) -解释了粒子物理学.
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) -着眼于利用可视化来理解，解释和调试算法.
-- [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game developement, but relevant to creative coding as well.
+- [Adventures in Game Development World](http://ruh.li/) -易于理解的有关游戏开发的文章集，但也与创意编码有关.
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) -引导随机数的小指南.
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) -收集诸如寻路，人工智能，数学等方面的资源.
 - [Tips to Improve Your Generative Artwork](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork) -技巧，使您的艺术品看起来更好.
@@ -481,7 +482,7 @@
 - [Resonate](http://resonate.io/) -在贝尔格莱德（Belgrade）从事有关前沿音乐，视觉艺术和数字文化的活动.
 - [Gray Area Festival](http://grayareafestival.io/) -创意编码，艺术和技术节.
 - [Signal Festival](http://www.signalfestival.com/) -在捷克共和国布拉格展示轻艺术和新兴技术.
-- [Eyeo Festival](http://eyeofestival.com/) - Bring together creative coders, data designers and creators working at the intersection of data, art and technology.
+- [Eyeo Festival](http://eyeofestival.com/) -将从事数据，艺术和技术交汇的创意编码人员，数据设计师和创作者召集在一起.
 - [Mutek](http://www.mutek.org/en) -致力于声音，音乐和视听艺术中的数字创意的组织.
 - [Node](https://nodeforum.org/) -一个开放的文化，艺术和技术交流平台.
 - [Digital Design Days - OFFF](http://www.ddd.it/en) -为期3天的活动，提供会议，研讨会，数字展示和安装.

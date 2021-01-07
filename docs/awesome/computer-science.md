@@ -293,7 +293,7 @@ Lisp家庭语言（通过球拍）
 课程持续时间| 努力前提条件| 讨论区
 :-- | :--: | :--: | :--: | :--:
 [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) |  2周每周10个小时| 核心编程| [chat](https://discord.gg/P8SPPyF)
-[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) |  2周每周10个小时| [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | [chat](https://discord.gg/pMFqNf4)
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) |  2周每周10个小时| 核心编程| [chat](https://discord.gg/pMFqNf4)
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) |  2周每周10个小时| 核心编程| [chat](https://discord.gg/duCJ3GN)
 [Machine Learning](https://www.coursera.org/learn/machine-learning) |  11周| 每周4-6个小时| 线性代数| [chat](https://discord.gg/NcXHDjy)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) |  6周每周12小时|  C ++或Java，线性代数| [chat](https://discord.gg/68WqMNV)
@@ -384,7 +384,7 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或不想将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:

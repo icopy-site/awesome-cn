@@ -6,7 +6,7 @@
 
 &gt;在线查找主要资源，并学习如何以数字方式研究历史.
 
-文字和多媒体辅助工具 [primary sources](https://en.wikipedia.org/wiki/Primary_source) 着重于西半球以及19和20世纪. 课程和学习工具，以数字方式探索历史.
+Finding aids for textual and multimedia [primary sources](https://en.wikipedia.org/wiki/Primary_source) 着重于西半球以及19和20世纪. 课程和学习工具，以数字方式探索历史.
 
 
 
@@ -22,6 +22,7 @@
 ### France
 
 - [Gallica](https://gallica.bnf.fr/) -法国国家图书馆的数字图书馆.
+- [Institut national de l'audiovisuel](https://www.ina.fr/) -INA是法国广播和电视视听档案的存储库.
 
 ### Germany
 
@@ -33,6 +34,7 @@
 
 ### Global
 
+- [Bitsavers.org](http://bitsavers.trailing-edge.com/) -计算机代码，参考手册和杂志.
 - [fxtop.com](https://fxtop.com/) -自1953年以来的汇率历史.
 - [Internet Archive](https://archive.org/) -包含数百万本免费书籍，电影，软件，音乐，网站等的非营利性图书馆.
 - [Marxist Internet Archive](https://www.marxists.org/) -您想知道的有关马克思（以及其他重要社会主义者）的一切.
@@ -55,6 +57,7 @@
 - [Eugenics Archive](https://eugenicsarchive.ca/) -挑战优生学的学者，幸存者，学生和社区伙伴.
 - [Perry-Castañeda Library Map Collection](https://legacy.lib.utexas.edu/maps/) -超过250,000张地图.
 - [Women Working 1800-1930](https://library.harvard.edu/collections/women-working-1800-1930) -探索妇女在1800年至大萧条之间对美国经济生活的影响.
+- [World Digital Library](https://www.wdl.org/) -WDL是由教科文组织和美国国会图书馆运营的国际数字图书馆.
 
 ### Switzerland
 
@@ -84,10 +87,10 @@
 
 - [AdFontes](https://www.adfontes.uzh.ch/) -关于在存档中使用源的简介.
 - [Clio Guide](https://guides.clio-online.de/) -有关历史科学的数字资源手册.
-- [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) -为历史学家（教师和学生，档案管理员和博物馆策展人，教授以及业余爱好者）提供的网络介绍，他们希望制作在线历史著作，或者在这种重要的新媒介上进一步发展和改进他们已经开始的项目.
+- [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) -为历史学家（教师和学生，档案管理员和博物馆策展人，教授以及业余爱好者）提供的网络简介，他们希望制作在线历史著作，或者在这种重要的新媒介上进一步发展和改进他们已经开始的项目.
 - [HIST3814o](http://workbook.craftingdigitalhistory.ca/) -Carleton大学的Shawn Graham撰写的《数字历史中的方法和读物》.
-- [HIST 7370](https://cblevins.github.io/f19-dig-hist/) -东北大学的卡梅隆·布列文（Cameron Blevins）在《数字历史》中的方法和读物.
-- [Local Linkages](https://locallinkages.org/) -如何组织关于过去的问题，如何找到答案来回答这些问题，将其置于上下文中以及如何以数字形式在线呈现历史解释.
+- [HIST 7370](https://cblevins.github.io/f19-dig-hist/) -东北大学的卡梅隆·布列文（Cameron Blevins）在数字历史中的方法和阅读.
+- [Local Linkages](https://locallinkages.org/) -如何对过去的问题进行框架化，确定答案的来源，将其置于上下文中以及以数字形式在线呈现历史解释.
 - [The CTP Book](https://comp-think.github.io/) -一本向人文背景的人教授计算思维和编程技能的书.
 - [The Programming Historian](https://programminghistorian.org/) -对新手友好且经过同行评审的教程，可帮助人文主义者学习广泛的数字工具，技术和工作流程，以促进研究和教学.
 - [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) -关于数字历史和数字人文学科的概述.
@@ -97,7 +100,7 @@
 
 - [Computer History](https://github.com/watson/awesome-computer-history) -很棒的计算机历史视频，纪录片和相关民俗清单.
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
-- [Digital History Wiki](https://github.com/maehr/awesome-digital-history/wiki)
+- [Digital History Wiki](https://github.com/maehr/awesome-digital-history/wiki) -所有未列入“超凡数字历史”列表的内容.
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme)
 

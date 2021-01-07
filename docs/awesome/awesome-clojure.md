@@ -68,6 +68,7 @@
   * [System](https://github.com/danielsz/system)
   * [mount](https://github.com/tolitius/mount)
   * [Integrant](https://github.com/weavejester/integrant)
+  * [clip](https://github.com/juxt/clip)
 
 ## Build Automation and Package management
 
@@ -93,6 +94,7 @@
   * [clj-time](https://github.com/clj-time/clj-time)
   * [clojure.java-time](https://github.com/dm3/clojure.java-time) -Java 8日期时间API
   * [timewords](https://github.com/tokenmill/timewords)
+  * [tick](https://github.com/juxt/tick)：Clojure（Script）库，用于替代clj-time
 
 ## GUI
 

@@ -1580,6 +1580,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [raymond](https://github.com/aymerick/raymond) -在Go中完整的车把实现.
 * [Razor](https://github.com/sipin/gorazor) -Golang的Razor视图引擎.
 * [Soy](https://github.com/robfig/soy) -按照以下步骤关闭Go的关闭模板（也称为Soy模板） [official spec](https://developers.google.com/closure/templates/).
+* [sprig](https://github.com/Masterminds/sprig) -Go模板的有用模板功能.
 * [velvet](https://github.com/gobuffalo/velvet) -在Go中完整的车把实现.
 
 ## Testing

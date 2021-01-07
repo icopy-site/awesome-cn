@@ -69,7 +69,7 @@
 
 - [Building and Motivating Engineering Teams](http://www.elidedbranches.com/2016/11/building-and-motivating-engineering.html)  -工程师想要什么？ 金钱，目的和尊重.
 
-- [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)  -“ Google的数据表明，心理安全对团队合作至关重要.  （…）创造心理安全感的行为-会话转向和同理心-是我们在需要建立联系时经常作为个人所遵循的同样成文规则的一部分.”
+- [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)  -“ Google的数据表明，心理安全对团队合作至关重要.  （…）创造心理安全感的行为-会话转向和同理心-是我们在需要建立联系时经常作为个人所遵循的不成文规则的一部分.”
 
 - [Paper we love: Software Engineering Organizations](https://github.com/papers-we-love/papers-we-love/tree/master/software_engineering_orgs) -“软件工程的实践及其历史本身就是对人文，协调和沟通的复杂研究.”
 
@@ -136,6 +136,8 @@
 - [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/) -这里有一些有趣的观点，还有一些需要挑战.
 
 - [Surprising Things About Working at Well-Known Tech Unicorns](https://blog.pragmaticengineer.com/surprising-things-about-working-at-tech-unicorns/) -从工程经理的角度回应我自己的经验，了解高增长和知名公司的期望与现实之间的差异.
+
+- [100+ Lessons Learned for Project Managers](https://llis.nasa.gov/lesson/1956)  -122种格言让您深入了解NASA项目管理的成功. 涵盖设计，决策，管理人员，与上级和承包商的合作.
 
 - [Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager) -庞大的清单，但需要一些策展.
 
@@ -223,7 +225,7 @@
 
 - [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) -的本质 [*Who*, a popular book](https://amzn.com/0345504194/?tag=kevideld-20) 关于招聘高管.
 
- -“的确，并非所有开发人员都做出了积极的贡献，但是，我认为归咎于“降低招聘标准”（…）是完全的red子.”  （[source](https://news.ycombinator.com/item?id=13209317)）-那些可能通过艰苦的工作面试的开发人员可以在以后带来负面价值的例子.
+ -“的确，并非所有开发人员都做出了积极的贡献，但是，我认为归咎于“降低招聘标准”（…）完全是一团糟.  （[source](https://news.ycombinator.com/item?id=13209317)）-那些可能通过艰苦的工作面试的开发人员可以在以后带来负面价值的例子.
 
 ### Coding Challenge
 
@@ -267,7 +269,7 @@
 
 - [Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc) -丹尼尔·平克（Daniel Pink）简洁地总结了这一点：人们受到自主，精通和目标的激励.
 
--反映上述假设， [Bryan Cantrill defines that the role of management](https://twitter.com/bcantrill/status/1216491615264489473?s=20)  “是在构建那种环境，而不是对其进行微观管理. 如果工程性能受到影响，那么（可能）是管理问题：错误的问题，错误的任务或错误的团队-或全部三个.”
+-反映上述假设， [Bryan Cantrill defines that the role of management](https://twitter.com/bcantrill/status/1216491615264489473?s=20)  “是在构建那种环境，而不是对其进行微观管理. 如果工程性能受损，那么（可能）是管理问题：错误的问题，错误的任务或错误的团队-或全部三个.”
 
 - [Some reasons why enterprise software is good and maybe even fun](https://news.ycombinator.com/item?id=21231455)  -我们大多数人都不会构建下一个独角兽：我们静态地有更好的机会来构建企业软件. 扭曲？ 它甚至可能比您预期的更有趣.
 
@@ -297,7 +299,7 @@
 
 - [Meaningful differences that makes Google offices more productive](https://news.ycombinator.com/item?id=20443133) -“人比较聪明，您的经理（和他们的经理）非常关心您，而且很容易搬家.”
 
-- [It's Not Enough to Be Right—You Also Have to Be Kind](https://forge.medium.com/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1)  -“要比一个聪明人更难做事”，或亚伯拉罕·约书亚·赫舍尔（Abraham Joshua Heschel）提出另一种说法：“年轻时，我曾经欣赏聪明的人； 随着年龄的增长，我敬佩善良的人.”
+- [It's Not Enough to Be Right—You Also Have to Be Kind](https://forge.medium.com/its-not-enough-to-be-right-you-also-have-to-be-kind-b8814111fe1)  -“要比一个聪明人更难做事”，或者由亚伯拉罕·约书亚·赫歇尔（Abraham Joshua Heschel）提出另一种说法：“我小时候曾经羡慕聪明人； 随着年龄的增长，我敬佩善良的人.”
 
  -“保护人员（尤其是高级管理人员）免受其决策后果的影响不是您的工作. 为了自己的最大利益做出决定； 由组织来确保您的兴趣与他们的兴趣保持一致.”  （[source](https://news.ycombinator.com/item?id=7179946)).
 
@@ -309,7 +311,7 @@
 
 - [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) -有关如何设计更好的组织的书籍，网页和视频的列表，分为3类：组织和动机，健康与保健以及特定于软件开发.
 
-- [A Conversation with Werner Vogels, Learning from the Amazon technology platform](https://queue.acm.org/detail.cfm?id=1142065)  -缩放系统不仅是一项技术挑战. 它也必须与团队和文化有关. 从AWS早期开始就吸取了一个教训：“从客户和技术的角度来看，赋予开发人员操作职责可以极大地提高服务质量.  （…）构建它，然后运行它.”
+- [A Conversation with Werner Vogels, Learning from the Amazon technology platform](https://queue.acm.org/detail.cfm?id=1142065)  -缩放系统不仅是一项技术挑战. 它也必须与团队和文化有关. 从AWS早期开始就吸取了一个教训：“从客户和技术的角度来看，赋予开发人员操作职责可以大大提高服务质量.  （…）构建它，然后运行它.”
 
 - [The principles of Amazon service-oriented collaboration](https://www.theregister.com/2019/05/14/amazons_away_teams/?page=2) -来自AWS的匿名来源的汇编，在上面的采访中颇受关注：“表面上看，团队是自治的，可以做出实现其目标所需的任何重要决定.”
 
@@ -379,7 +381,7 @@
 
 - [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/) -“一种获得对责任的共同理解的工具”.
 
-- [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) - Highlighting unseen work in public allows managers to recognize efforts their reports are doing. Still, there is some cases in which it might put your collegue in a tight spot. So always ask if it's ok first.
+- [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)  -在公共场合突出显示看不见的工作，可使管理人员认识到他们报告所做的努力. 不过，在某些情况下，可能会使您的同事陷入困境. 因此，请始终先询问是否可以.
 
 - [Eye Candy QA](https://techreflect.net/2020/01/05/eye-candy-qa-2005-2011/)  -重述苹果公司作者的工作：“约翰·鲁奇（John Louch）是我的老板.  （…）John始终与我们共享所有内容，即使*不与您的团队共享*. 我们是他信任的人，所以应该如此. 这让您感觉自己像是更大的一部分.” 或者为什么分享一些公开的秘密可以增进对您随行人员的信任.
 
@@ -389,7 +391,7 @@
 
 - [It's Not Sabotage, They're Drowning](https://shermanonsoftware.com/2019/11/15/its-not-sabotage-theyre-drowning/) -不应将某种推后推销行为视为故意破坏活动，而应将溺水者淹没在救生艇中以试图自救.
 
--“社区已经存在，您只需为其创建一个交流平台”（[source](https://news.ycombinator.com/item?id=21828666)）-或为什么尝试从头开始创建社区可能不是看待事物的正确方法：更好，更微妙的策略是授权现有渠道并使其可见.
+-“社区已经存在，您只需为其创建一个交流平台”（[source](https://news.ycombinator.com/item?id=21828666)）-或为什么尝试从头开始创建社区可能不是看待事物的正确方法：一种更好，更细微的策略是赋权现有渠道并使其可见.
 
 - [OpenTeams](https://openteam.info)  -“团队可以可视化其互动网络，并且可以将这些数据与有关团队的人口统计学，专业知识和心理特征的信息交叉使用.” 作为经理，请确保这些指标为团队带来积极的成果. 由于政治原因，很容易将它们工具化.
 
@@ -451,13 +453,13 @@
 
 - [Technical debt as a lack of understanding](https://daverupert.com/2020/11/technical-debt-as-a-lack-of-understanding/)  -“问题出在“不要重组\ [代码\]以反映您的理解”.  （…）在组织上，您需要支付速度和营业额； 几轮胡说八道后，才华横溢的人才将离开.”
 
-- [The Framing of the Developer](https://www.svese.de/impact-vs-backlog-frame-in-software-development)  -默认框架围绕积压，导致不对称，其中失败归咎于开发人员缺乏绩效，而成功则是PM愿景的充分实现而受到赞扬. 但是“技术是给予信贷的银行”，技术债务应称为“产品债务”，因为产品获得信贷可以更快地获得功能，并且必须通过花费时间进行清理来偿还. 替代方案？  “今天的公司需要一个影响框架. 在这种世界观中，成功取决于影响.”
+- [The Framing of the Developer](https://www.svese.de/impact-vs-backlog-frame-in-software-development) - Default framing is around the backlog, which leads to an asymmetry in which failure is blamed on lacks of developer performance, and success is celebrated as the full realization of the PM's vision. But “technology is the bank that gave credit”, and technical debt should be called product debt “because product took the credit to get a feature faster and must pay back by investing the time to clean up.” The alternative? “Companies today need a frame of impact. In this world-view success is defined by impact.”
 
 - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)  -“老板邀请我进行一对一聊天，他们礼貌地要求我还原我的更改. 我吓坏了. 旧代码一团糟，我的代码很干净！  （…）我现在看到我的“重构”从两个方面来说是一场灾难：我没有和写它的人说话； 我的代码交换了更改需求以减少重复的能力.”
 
 ## Remote Work
 
-- [The Surprising Traits of Good Remote Leaders](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones)  -“长期将雄心勃勃的工人推入高管的信心，智慧和外向性在网上还远远不够，因为它们根本无法转化为虚拟领导力.  （...）相反，有组织，可靠和富有生产力的工人可以控制虚拟团队.” 作为 [source paper](https://link.springer.com/article/10.1007/s10869-020-09698-0) 说得最好：“实际上，重点从说到做转变.”
+- [The Surprising Traits of Good Remote Leaders](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones)  -“长期将雄心勃勃的工人推入高管的信心，智慧和外向性在网上还远远不够，因为他们根本无法转化为虚拟领导力.  （...）相反，有组织，可靠和富有生产力的工人可以控制虚拟团队.” 作为 [source paper](https://link.springer.com/article/10.1007/s10869-020-09698-0) 说得最好：“实际上，重点从说到做转变.”
 
 - [Things to look for when hiring remote workers](https://news.ycombinator.com/item?id=17022563)  -“ 1. 您必须遵守所雇用国家/地区内的就业法；  2.要全职工作，许多国家/地区要求您在该国家/地区拥有法人实体；  3.优先考虑我们最感兴趣的国家；  4.在我们每个团队中保持健康的时区重叠.”
 
@@ -617,9 +619,9 @@
 
 - [We Cancelled Standups and Let The Team Build. Here's What Happened…](https://www.usehaystack.io/blog/we-cancelled-standups-and-let-the-team-build-heres-what-happened)  -团队长时间被伪装成站立状态的日常状态更新会议而感到筋疲力尽. 消除这些虚假的表态使团队回到正轨.
 
-- [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)  -因为短期集中的Scrum流程“似乎适合特定类型的开发，尤其是咨询或合同程序设计，客户在组织外部，因此运行展会是因为他们为开发付费，并且可以改变主意任何时间”. 不过，谷歌工程师已经在实践一种类似于10点敏捷宣言的文化. 就是这样.
+- [Why do some developers at Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)  -因为短期集中的Scrum流程“似乎适合特定类型的开发，尤其是咨询或合同程序设计，客户在组织外部，因此运行展会是因为他们为开发付费，并且可以改变主意任何时候”. 不过，谷歌工程师已经在实践一种类似于10点敏捷宣言的文化. 就是这样.
 
-- [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) -美国国防部指南，用于检测真正使用敏捷开发的软件项目，而不是那些仅在敏捷服装中进行瀑布式开发或螺旋式开发的软件项目（“敏捷-scrum-fall”）.
+- [Detecting Agile Bullshit](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF) -美国国防部指南，用于检测真正使用敏捷开发的软件项目，而不是那些仅是瀑布式或螺旋式开发的敏捷项目的软件项目（“ Agile-scrum-fall”）.
 
  -“导致大多数敏捷故障的根本问题不是团队的执行力，而是企业的期望. 一方面签署了增量交付协议，另一方面为固定范围和最后期限建立协议，结果很痛苦.”  （[source](https://news.ycombinator.com/item?id=20326074))
 
@@ -711,7 +713,7 @@ KPI是在团队或组织级别的一组定量度量，用于度量业务的成�
 
 - [Write an Excellent Programming Blog](https://speakerdeck.com/pycon2016/a-jesse-jiryu-davis-write-an-excellent-programming-blog) -有关产生出色博客文章的结构和样式的提示.
 
-- [Ten simple rules for getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513) -Twitter“可以以一种更加积极，协作的方式使用：寻求建议，结成新的纽带和开展科学合作，宣布职位和寻找员工，寻找新的导师和职位.”
+- [Ten simple rules for getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513) -Twitter“可以以一种更加积极，协作的方式使用：征求意见，结成新的纽带和开展科学合作，宣布职位和寻找员工，寻找新的导师和职位.”
 
 - [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/) -有关编写文档的有效和不可行清单.
 
@@ -765,7 +767,7 @@ KPI是在团队或组织级别的一组定量度量，用于度量业务的成�
 
 - [My questions for prospective employers (Director/VP roles)](https://jacobian.org/2019/apr/23/questions-for-employers-director-vp/) -准备向他们征聘他们，或者被问到他们担任高级管理职务.
 
-- [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/) -您可以建立自己的职业生涯引擎，从初创公司的技术创始人开始，组建一支强大的团队，然后与公司一起成长以学习并成为一名全面的CEO.
+- [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/) -您可以建立自己的职业引擎，从初创公司的技术创始人开始，组建一支强大的团队，然后与公司一起成长以学习并成为一名全面的CEO.
 
 - [How title, money and scope affect your fulfillment](https://twitter.com/shreyas/status/1268372416427786240) -“对于有才华的职业中期人士，当改变工作时，您如何排名：1.职位2.金钱3.范围”.
 
@@ -781,7 +783,7 @@ KPI是在团队或组织级别的一组定量度量，用于度量业务的成�
 
 - [The Evolution of Management: Transitioning up the ladder](https://queue.acm.org/detail.cfm?id=3350548) -描述每个管理级别的路径和期望.
 
-- [If management isn't a promotion, then engineering isn't a demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)  -这篇文章解构了为什么最终将管理视为一种晋升，新获得的特权和权力如何创建隐式层次结构，反过来由于损失厌恶而创建不良动机. 最后，前进的唯一方法是改变组织的文化.
+- [If management isn't a promotion, then engineering isn't a demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)  -这篇文章解构了为什么管理最终被视为晋升，其新获得的特权和权力如何创建隐式层次结构，反过来由于损失厌恶而创建了不良激励机制. 最后，前进的唯一方法是改变组织的文化.
 
 - [How to discipline overeager engineer](https://workplace.stackexchange.com/questions/145709/how-to-discipline-overeager-engineer)  -成就超卓的人才正在寻求管理提升. 管理层不承认努力. 工程师变得不满，管理层正设法对他进行纪律处分. 双方都显得笨拙的恶劣情况的案例研究.
 
@@ -789,13 +791,13 @@ KPI是在团队或组织级别的一组定量度量，用于度量业务的成�
 
 - [For all you future CTOs, consider your incentive schemes carefully](https://news.ycombinator.com/item?id=24463676) -促销计划如何标志着优步卓越工程的终结，以及使公司变成官僚机构的开始.
 
-- [How to get promoted](https://defmacro.substack.com/p/how-to-get-promoted) -愤世嫉俗的看法：“机会主义者的职业建议是：忽略OKR，在可以衡量您的决定的后果之前就好好切换项目，行动愉快而随和，打包坏消息作为对缓慢的系统调整的呼吁，不要让任何人看上去很糟糕，热情地进行仪式，比基线更快地增加员工人数，让自己进行发明，遵循管理方式，避免严重失败，真诚地相信这一点.”
+- [How to get promoted](https://defmacro.substack.com/p/how-to-get-promoted) -愤世嫉俗的看法：“机会主义者的职业建议是：忽略OKR，在可以衡量您的决定的后果之前就好好切换项目，行动愉快而随和，打包坏消息作为对缓慢的系统调整的呼吁，不要让任何人看上去很糟糕，热情地进行仪式，比基准线更快地增加员工人数，让自己进行发明，遵循管理方式，避免严重的失败，真诚地相信这一点.”
 
 ### Performance Reviews
 
 评论和绩效评估是交易中解锁促销的工具. 作为一名经理，您将为团队成员编写和测试工具，以获取应得的加薪. 和其他任何员工一样，通过他们来提升您的职业生涯.
 
-- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)  -这个想法是，如果您在工作中做得很好，人们会（或应该\！）自动识别该工作，并通过升职/加薪来奖励您. 实际上，它通常比这更复杂.
+- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/)  -有这样一个想法，如果您在工作中做得很好，人们会（或应该\！）自动识别该工作，并通过升职/加薪来奖励您. 实际上，它通常比这更复杂.
 
 - [Incentive Pay Considered Harmful](https://www.joelonsoftware.com/2000/04/03/incentive-pay-considered-harmful/)  -“激励措施（或贿赂）根本无法在工作场所工作.  （…）大多数软件经理别无选择，只能使用已经存在的性能评估系统. 如果您处于这个位置，那么防止团队合作的唯一方法就是简单地对团队中的每个人进行审查.”
 
@@ -847,6 +849,8 @@ KPI是在团队或组织级别的一组定量度量，用于度量业务的成�
 
 - [Selectorate theory](https://en.wikipedia.org/wiki/Selectorate_theory)  -“根据选择论，三人会影响领导者. 这些组是名义选择者，实际选择者和获胜联盟.  （……）要继续执政，领导人必须维持自己的制胜联盟.”
 
+- [Circulation of elite](https://en.wikipedia.org/wiki/Circulation_of_elite) -“政权，革命等的变化不是在统治者从下面推翻时发生的，而是在一个精英取代另一个精英时发生的.”
+
 - “Playing the game well is now front and center” ([source](https://news.ycombinator.com/item?id=21925738)），或为什么 [Key practices for achieving large professional goals](https://nodramadevops.com/2019/12/key-practices-for-achieving-large-professional-goals/) 缺少有关办公室政治的部分.
 
 - [“Company I've worked for had manager who tried to ship features over the weekend with a ragtag team of developers who don't understand why that's a bad idea.”](https://news.ycombinator.com/item?id=22285123) -忙于管理人员的策略，以及公司对这种管理人员的反应如何使一个好工作场所成败.
@@ -883,7 +887,7 @@ KPI是在团队或组织级别的一组定量度量，用于度量业务的成�
 
 - [I've Built Multiple Growth Teams. Here's Why I Won't Do It Again.](https://conversionxl.com/blog/dont-build-growth-teams/) -“很少有人会理解概率，而大多数高管并不关心数据，无论数据怎么说.”
 
-- [Speaking Truth to Power: Reflections on My Career at Microsoft](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36)  -在一家处于严重缺陷的公司中工作了三十年后，作者得出一个拙劣的结论：领导者应体现员工的价值. 并非相反.  “最顶部的变化（而不是演讲，培训或主题标签）产生了最大的文化影响. 如果您想要真正持久的文化变革，请扫除在前一种文化下成功的成才，并提拔那些看起来，行动和思想更像他们的员工而不是他们的经理的人.”
+- [Speaking Truth to Power: Reflections on My Career at Microsoft](https://onezero.medium.com/speaking-truth-to-power-reflections-on-a-career-at-microsoft-90f80a449e36)  -在一家处于严重缺陷的公司中工作了三十年后，作者得出一个拙劣的结论：领导者应体现员工的价值. 并非相反.  “最顶部的变化（而不是演讲，培训或主题标签）产生了最大的文化影响. 如果您想真正持久地改变文化，请扫除在前一种文化下成功的成才，并提拔那些看起来，行动和思维更像他们的员工而不是他们的经理的人.”
 
 - [How the Digg team was acquihired](https://lethain.com/digg-acquihire/)  -收购整个团队可以看作是一种重组. 经理们将不得不在一两天内就新的雇佣合同进行大量谈判：“由于收购者是“明星”导向的，如果您是一位高层领导，但不明确拒绝前进，压力将逐渐集中于您各个方面”.
 
@@ -921,7 +925,7 @@ KPI是在团队或组织级别的一组定量度量，用于度量业务的成�
 
 - [Psychology Today: How Programmers Can Avoid Burnout](https://www.psychologytoday.com/us/blog/dear-life-please-improve/202008/how-does-your-tech-job-burn-you-out)  -“资深软件开发人员经常建议：1.在可以成长的地方工作；  2.建立可转移的技能；  3.拥有创造性的渠道，并创造一个空间专注于自己，关闭和放松；  4.当然，总有核能选择：赚钱并脱身.”
 
-- [Average tenure of a CISO is just 26 months due to high stress and burnout](https://www.zdnet.com/article/average-tenure-of-a-ciso-is-just-26-months-due-to-high-stress-and-burnout/) -“如今，CISO的工作预算低，工作时间长，执行委员会权力不足，他们可以聘请的训练有素的专业人员不断减少，但也一直面临着压力，即他们没有做足够的工作来保护公司的基础架构免受网络攻击-攻击，由于新出现的威胁而造成的持续压力，以及所做的出色工作表示感谢，但如果一切出错，则应承担全部责任.”
+- [Average tenure of a CISO is just 26 months due to high stress and burnout](https://www.zdnet.com/article/average-tenure-of-a-ciso-is-just-26-months-due-to-high-stress-and-burnout/) -“如今，CISO的工作预算低，工作时间长，执行委员会权力不足，他们可以聘请的训练有素的专业人员不断减少，但也带来了持续的压力，即他们没有做足够的工作来保护公司的基础架构免受网络攻击-攻击，由于新出现的威胁而造成的持续压力，以及所做的出色工作表示感谢，但如果一切出错，则应承担全部责任.”
 
 ## Setbacks and Failures
 
@@ -963,7 +967,7 @@ KPI是在团队或组织级别的一组定量度量，用于度量业务的成�
 
  -“下次您最喜欢的经理和技术负责人退出公司时，请问他们为什么.”  （[source](https://news.ycombinator.com/item?id=21767843)).
 
-- “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) 当一群人都因其表现外在原因而不得不辞职时. 就贝宝而言，这是一次收购； 在Tiger Management，几年来表现不佳； 起诉书在德雷克塞尔·伯纳姆·兰伯特（Drexel Burnham Lambert）. 在Reliance的案例中，由于动乱和英国人的撤离，核心的早期雇员组逃离了亚丁港.”  （[source](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)）-为什么大规模外逃可能是伟大的新事业的机会.
+- “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) 当一群人都因其表现外在原因而不得不辞职时. 就贝宝而言，这是一次收购； 在Tiger Management，几年来表现不佳； 起诉书在德雷克塞尔·伯纳姆·兰伯特（Drexel Burnham Lambert） 在Reliance的案例中，由于动乱和英国人的撤离，核心的早期雇员组逃离了亚丁港.”  （[source](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)）-为什么大规模外逃可能是伟大的新事业的机会.
 
 - “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
 

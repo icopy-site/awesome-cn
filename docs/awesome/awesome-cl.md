@@ -42,12 +42,12 @@ Audio
 
 * [Open Music](https://github.com/openmusic-project/OM6)  -可视化程序，计算机辅助合成环境.  [GPL3] [2].
 * [OM7](https://github.com/openmusic-project/om7)  -OpenMusic可视化编程和计算机辅助合成环境的新实现，包括图形界面，计算模式以及与外部软件库的连接方面的许多改进.  [GPL3] [2].
-* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境. 从零开始设计软件合成器或声音插件很有用. 它也是一种合成工具，可在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
+* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境. 从零开始设计软件合成器或声音插件很有用. 它也是一种合成工具，可以在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
 * [cl-collider](https://github.com/byulparan/cl-collider) - 一种
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端. 用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) . 公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统. 包括用于Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包. 它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在以更健壮，更具表现力，连贯性，反射性和柔韧性的方式来实现大部分音乐. 通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在实现其中的大部分功能，但以一种更加健壮，富有表现力，一致，反射性和脆弱的方式实现. 通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  -用于OpenAL音频库的绑定. 公共区域.
 * [Common Music](https://github.com/ormf/cm) -一个的存储库
 古老版本的通用音乐（2.12.0版），大概是最后一个
@@ -185,7 +185,7 @@ Tools
 * [bst](https://github.com/glv2/bst)  -二进制搜索树.  [GPL3] [2].
 * [pileup](http://nikodemus.github.io/pileup/)  -Common Lisp的可移植，高性能和线程安全的二进制堆.  [MIT] [200].
 * [sycamore](https://github.com/ndantam/sycamore)  -快速，纯功能的数据结构库.  [BSD_3Clause] [15].
-* [genhash](https://github.com/pnathan/genhash) – hash table implementation with API from generic methods. Public domain.
+* [genhash](https://github.com/pnathan/genhash)  –使用通用方法中的API实现哈希表. 公共区域.
 * [cl-ctrie](https://github.com/danlentz/cl-ctrie) -
 无锁，并发，键/值索引，具有高效的内存映射持久性和快速的瞬态存储模型.  [MIT] [200].
 * [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)  -数据结构和算法（主要是字典和序列，具有一些统计功能）的可移植集合.  [BSD] [15].
@@ -342,7 +342,7 @@ Implementations
 * [ABCL](https://common-lisp.net/project/armedbear/)  -武装熊常见的Lisp； 针对JVM，编译为字节码.  [标准符合性] [4].  [GNU GPL3] [2]和[Classpath exception] [3].
 * [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/)  -卡内基梅隆大学实施. 公共区域.
 * [GNU CLISP](http://www.clisp.org/)  -GNU实现； 包含一个编译器和一个解释器.  [标准符合性] [6].  [GNU GPL3] [2].
-* [CLASP](https://github.com/drmeister/clasp)  -一种新的Common Lisp实现，可以使用LLVM与C ++库和程序无缝地互操作，以编译为本机代码. 这使Clasp可以利用大量预先存在的库和程序，例如科学计算生态系统之外的库和程序.  [LGPL2.1] [11]（及其他）.
+* [CLASP](https://github.com/drmeister/clasp)  -一种新的Common Lisp实现，可使用LLVM与C ++库和程序无缝地互操作，以编译为本机代码. 这使Clasp可以利用大量预先存在的库和程序，例如科学计算生态系统之外的库和程序.  [LGPL2.1] [11]（及其他）.
 * [Corman Lisp](https://github.com/sharplispers/cormanlisp)  -在Intel平台上运行的Microsoft Windows通用Lisp开发环境.  [MIT] [200].
 
 Proprietary:
@@ -378,7 +378,7 @@ YAML
 * [anaphora](https://common-lisp.net/project/anaphora/)  -照应宏的集合. 公共区域.
 *：星级： [trivia](https://github.com/guicho271828/trivia/)  -优化的模式匹配库.  [LLGPL] [8].
 * [arrow-macros](https://github.com/hipeta/arrow-macros)  -类Clojure的线程宏.  [MIT] [200].
-* [dissect](https://shinmera.github.io/dissect) - when a lot of
+* [dissect](https://shinmera.github.io/dissect) -当很多
   projects use the “trivial-backtrace” system that just gives them a
   带回溯的字符串，Dissect允许您捕获，步进和
   完全检查各种Lisp上的堆栈跟踪
@@ -528,9 +528,9 @@ Advanced
 Web开发
 --------
 
-* [Lisp for the Web](https://leanpub.com/lispweb) -一本书，引导您分三个层次构建投票网络应用程序. 
+* [Lisp for the Web](https://leanpub.com/lispweb) -一本书，引导您分三个层次构建投票网络应用程序.
 * [Lisp Web Tales](https://leanpub.com/lispwebtales) -使用简单的教程 [hunchentoot](http://edicl.github.io/hunchentoot/), [cl-redis](https://github.com/vseloved/cl-redis), [restas](https://github.com/archimag/restas), [SEXML](https://github.com/madnificent/SEXML), [Postmodern](https://github.com/marijnh/Postmodern)， 和更多.
-* [Section on Web Development in The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/web.html) -介绍性教程，内容涉及Web服务器设置，路由，微块，模板，错误处理，打包，热重装，数据库连接和部署，以及当前Lisp Web开发生态系统中的其他主题. 
+* [Section on Web Development in The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/web.html) -介绍性教程，内容涉及Web服务器设置，路由，微块，模板，错误处理，打包，热重装，数据库连接和部署，以及当前Lisp Web开发生态系统中的其他主题.
 
 Reference
 ---------
@@ -569,7 +569,7 @@ Advanced
 其他书
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)）由肯·福布斯（Ken Forbus）和约翰·德克莱尔（Johan de Kleer）提供，由麻省理工学院出版社（MIT Press）免费提供-这是一本独特的标准人工智能教科书，它结合了科学与工程，理论和工艺来描述AI推理系统的构造，并包括说明思想的代码.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)）由肯·福布斯（Ken Forbus）和约翰·德克莱尔（Johan de Kleer）提供，由麻省理工学院出版社（MIT Press）免费提供-这是一本独特的标准人工智能书籍，结合了科学与工程，理论和工艺来描述AI推理系统的构造，并包括说明思想的代码.
 
 Community
 ---------
@@ -677,7 +677,7 @@ Web框架
 * [Caveman](https://github.com/fukamachi/caveman)  -强大的网络框架.  [LLGPL] [8].
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web)  -用于构建现代Web应用程序的框架.  [Expat] [14].
-* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的ingle（通常更易于处理查询参数）.  [MIT] [200].
+* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的神经元（通常更易于处理查询参数）.  [MIT] [200].
 * [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
@@ -810,7 +810,7 @@ Monitoring
 * [avatar-api](https://github.com/eudoxia0/avatar-api)  -从Google +，Gravatar和其他人那里获取化身.  [Expat] [14].
 * [chirp](https://github.com/Shinmera/chirp)  -Twitter客户端库.  [Artistic License 2.0] [51].
 * [tooter](https://github.com/Shinmera/tooter)  -为Mastodon实现完整的v1 REST API协议的客户端库.  [ArtisticLicense2.0] [51].
-* [cl-irc](https://www.common-lisp.net/project/cl-irc/)  -IRC客户端库.  [Expat] [14].
+* [cl-irc](https://www.common-lisp.net/project/cl-irc/) - An IRC client library. [Expat][14].
 * [cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki)  -MediaWiki API的包装.  [MIT] [200].
 * [cl-openid](https://github.com/cl-openid/cl-openid)  -OpenID的实现.  [LLGPL] [8].
 * [cl-pushover](https://github.com/TeMPOraL/cl-pushover)  -通用Lisp绑定到Pushover.  [MIT] [200].
@@ -832,18 +832,8 @@ Others
 ========================
 
 * [numcl](https://github.com/numcl/numcl)  -Common Lisp中的Numpy克隆.  [LGPL3] [9].
-* [magicl](https://github.com/rigetticomputing/magicl)  -Rigetti Computing开发的基于BLAS / LAPACK和Expokit的Common Lisp中的矩阵代数程序.  [BSD_3Clause] [15].
-* [cl-spark](https://github.com/tkych/cl-spark)  -生成数字列表的迷你图字符串.  [Expat] [14].
 * [GSLL](https://common-lisp.net/project/gsll/)  -GNU Lisp科学图书馆； 允许使用Common Lisp提供的GSL.  [GNU LGPL2.1] [11].
-* [common-lisp-stat](https://github.com/blindglobe/common-lisp-stat/)  -通用Lisp统计资料库.  [FreeBSD] [39].
 * [maxima](http://maxima.sourceforge.net/)  -计算机代数系统. 在Quicklisp上不可用.  [GNU GPL3] [2].
-* [lisp-matrix](https://github.com/blindglobe/lisp-matrix)  -矩阵包.  [FreeBSD] [39].
-* [3-matrices](https://shinmera.github.io/3d-matrices) -实现库
-  通用矩阵计算，重点是2x2、3x3和4x4
-  图形中常用的矩阵. 它提供了一些数值
-  功能也可以，但这些不是重点. 图书馆是
-  大量优化，所以它不是由漂亮
-  码.  [Artistic License 2.0] [51].
 * [Xecto](https://github.com/pkhuong/Xecto)  -用于常规数组并行性的库.  [3子BSD] [15].
 * [Petalisp](https://github.com/marcoheisig/Petalisp) -试图
   通过以下方式为并行计算机生成高性能代码
@@ -851,14 +841,42 @@ Others
   通过提供更强大的功能，比NumPy具有更高的基本水平
   N维数组，但仅用于构建的几个构建基块
   他们.  [AGPL-3.0] [agpl3].
-* [cmu-infix](https://github.com/rigetti/cmu-infix)  -用于在Common Lisp中编写中缀数学符号的库. 也可以看看 [polisher](https://github.com/mrcdr/polisher).
 * [cl-ana](https://github.com/ghollisjr/cl-ana)  -通用Lisp数据分析库，着重于模块化和概念清晰性. 它旨在成为分析小型和大型数据集的通用框架，包括分箱数据分析和可视化.  [GNU GPL3] [2].
 * [linear-programming](https://neil-lindquist.github.io/linear-programming/)  –用于解决线性编程问题的库.  [MIT] [200].
 * [avm](https://github.com/takagi/avm)  -具有多线程和CUDA支持的高效且富有表现力的数组矢量数学库.  [MIT] [200].
 * [array-operations](https://github.com/bendudson/array-operations)  -一组函数和宏，用于处理Common Lisp数组并对其进行数值计算.  [MIT] [200].
 * [cl-geometry](https://github.com/Ramarren/cl-geometry/)  -Common Lisp的二维计算几何系统.  [MIT] [200].
+* [Vellum](https://github.com/sirherrbatka/vellum)  -Common Lisp的数据帧.  BSD_2条款.
+* [rtg-math](https://github.com/cbaggers/rtg-math/)  -选择以Lisp（2、3和4分量向量，3x3和4x4矩阵，四元数，球面和极坐标）实时图形最常用的数学例程的选择.  BSD_2条款.
+
+矩阵库
+----------------
+
+* [magicl](https://github.com/rigetticomputing/magicl)  -Rigetti Computing开发的基于BLAS / LAPACK和Expokit的Common Lisp中的矩阵代数程序.  [BSD_3Clause] [15].
+* [lisp-matrix](https://github.com/blindglobe/lisp-matrix)  -矩阵包.  [FreeBSD] [39].
+* [3-matrices](https://shinmera.github.io/3d-matrices) -实现库
+  通用矩阵计算，重点是2x2、3x3和4x4
+  图形中常用的矩阵. 它提供了一些数值
+  功能也可以，但这些不是重点. 图书馆是
+  大量优化，所以它不是由漂亮
+  码.  [Artistic License 2.0] [51].
 * [clem](https://github.com/slyrus/clem)  -矩阵库.  [BSD_2Clause] [17].
+
+Statistics
+---------
+
+* [common-lisp-stat](https://github.com/blindglobe/common-lisp-stat/)  -通用Lisp统计资料库.  [FreeBSD] [39].
+
+Units
+-----
+
 * [physical-quantities](https://github.com/mrossini-ethz/physical-quantities)  -为具有自动错误传播的计算提供具有可选单位和/或不确定性的数值类型的库.  GPL2
+
+Utils
+-----
+
+* [cmu-infix](https://github.com/rigetti/cmu-infix)  -用于在Common Lisp中编写中缀数学符号的库. 也可以看看 [polisher](https://github.com/mrcdr/polisher).
+
 
 并行与并发
 ===========================
@@ -909,7 +927,7 @@ Others
 * [SBCL's timers](http://www.sbcl.org/manual/#Timers)，系统范围内的事件调度程序.
 * [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理. 受Ruby的Sidekiq启发，并与其Web UI兼容.  [LLGPL] [8].
 * [cl-cron](https://github.com/ciel-lang/cl-cron)  -提供cron类设施的简单工具.  [GPL3] [2].
-* [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的类似cron的调度程序.  [MIT] [200].
+* [clerk](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT][200].
 
 
 Regex
@@ -1131,7 +1149,7 @@ Caching
 * [clache](https://github.com/html/clache)  -常规缓存设施.  [LLGPL] [8].
 
 
-压缩/解压
+压缩/解压缩
 ---------------------------
 
 * [chipz](https://github.com/froydnj/chipz)  -减压库.  [3子BSD] [15].
@@ -1207,7 +1225,7 @@ Lisp核心.
   使用HTML模板的文档页面. 使用现有
   自述文件，将文档字符串，交叉引用和链接添加到
    CLHS.  [ArtisticLicense2.0] [51].
-* [cl-bibtex](https://github.com/mkoeppe/cl-bibtex) - A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. [GNU LGPL2.1][11].
+* [cl-bibtex](https://github.com/mkoeppe/cl-bibtex)  -使用BST-to-CL编译器在Common Lisp中重新兼容BibTeX程序.  [GNU LGPL2.1] [11].
 * [mgl-pax](https://github.com/melisgl/mgl-pax) -探索性
 编程环境和文档生成器. 一个可能
 可以实现与Literate Programming相似的效果，但是

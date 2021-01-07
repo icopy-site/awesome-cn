@@ -65,7 +65,7 @@
 - [mpld3](http://mpld3.github.io) -结合Matplotlib和D3js进行交互式数据可视化.
 - [pd-replicator](https://github.com/scwilkinson/pd-replicator) -一键将pandas DataFrame复制到剪贴板.
 - [pyecharts](https://github.com/pyecharts/pyecharts) -的Python界面 [ECharts](https://github.com/apache/incubator-echarts) 可视化库.
-- [pythreejs](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
+- [pythreejs](https://github.com/jovyan/pythreejs) -利用Jupyter小部件基础结构的Python / ThreeJS桥.
 - [Qgrid](https://github.com/quantopian/qgrid) -用于在Jupyter笔记本中对DataFrame进行排序，过滤和编辑的交互式网格.
 - [tributary](https://github.com/timkpaine/tributary) -具有Jupyter支持的Python数据流.
 - [tqdm](https://github.com/tqdm/tqdm) -快速，可扩展的进度条，用于循环和可迭代.
@@ -107,6 +107,7 @@
 - [code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) -通用代码格式化程序.
 - [debugger](https://github.com/jupyterlab/debugger) -用于Jupyter笔记本，控制台和源文件的可视调试器.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) -显示drawio / mxgraph图的扩展.
+- [elyra](https://github.com/elyra-ai/elyra) -用于在本地或远程创建和运行笔记本（或Python脚本）管道的可视化编辑器.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) -用于在JupyterLab中导航到变量或函数的定义的扩展.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) -Google Drive集成扩展.
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) -在JupyterLab内部通过电子邮件发送笔记本及其内容.
@@ -172,7 +173,7 @@
 - [JupyterLab Documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
 - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) -可作为Jupyter内核使用的所有编程语言的列表.
 - [Making kernels for Jupyter](https://jupyter-client.readthedocs.io/en/latest/kernels.html)
-- [Try Jupyter](https://try.jupyter.org) -在浏览器中尝试Jupyter.
+- [Try Jupyter](https://try.jupyter.org) - Try Jupyter in your browser.
 
 ## Community Resources
 
