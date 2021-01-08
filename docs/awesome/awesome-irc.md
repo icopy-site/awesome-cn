@@ -104,6 +104,7 @@ IRC（Internet中继聊天）是一种开放源代码协议，可用于通过通
 - [slate-irc](https://github.com/slate/slate-irc)  -插件系统，简单的api，任意输入流，调试支持.  JavaScript
 - [PircBotX](https://github.com/pircbotx/pircbotx) -具有简单API的基于事件的IRC库（更新了 [PircBot](http://www.jibble.org/pircbot.php) ）.  Java
 - [IRC::Client](https://github.com/raku-community-modules/perl6-IRC-Client) -基于“ Perl6”的可扩展IRC客户端框架.
+- [irccd](http://projects.malikania.fr/irccd)  -可通过Java自定义的灵活IRC机器人.  C ++.
 
 #### Bridges
 

@@ -59,6 +59,7 @@
 
 -  [Typography](https://github.com/tailwindlabs/tailwindcss-typography) -为美丽的印刷默认设置添加一个`prose`类.
 -  [Aspect Ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio) -添加了可组合的宽高比实用程序.
+-  [Line Clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) -提供实用程序，用于在固定数量的行之后可视地截断文本.
 -  [Forms](https://github.com/tailwindlabs/tailwindcss-forms) -向表单元素添加更好的默认样式.
 -  [Theming](https://github.com/innocenzi/tailwindcss-theming) -使用CSS变量进行主题设置，并支持暗模式.
 -  [Theme Variants](https://github.com/JakeNavith/tailwindcss-theme-variants) -根据媒体查询和/或CSS选择器添加它们的变体.
@@ -79,7 +80,7 @@
 -  [Caret Color](https://github.com/naoray/tailwind-caret-color) -添加`caret`颜色实用程序.
 -  [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) -添加`blend-mode`工具.
 -  [Colorize](https://github.com/philippbosch/tailwindcss-colorize) -添加`filter`实用程序.
--  [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) -添加了“写入模式”实用程序.
+-  [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
 -  [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) -添加了“连字符”实用程序.
 -  [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) -添加了“边界图像”渐变实用程序.
 -  [RFS](https://github.com/aerni/tailwindcss-rfs) -添加 [`RFS`](https://github.com/twbs/rfs) 实用程序.
@@ -106,6 +107,7 @@
 -  [Important](https://github.com/chasegiunta/tailwindcss-important) -添加了一个“重要”变体.
 -  [Padded Radius](https://github.com/locksten/tailwindcss-padded-radius) -添加了匹配嵌套边界半径的变体.
 -  [Fluid](https://github.com/soberwp/tailwindcss-fl) -生成`fl：`变体.
+-  [Marker](https://github.com/RadishIO/tailwindcss-marker)  -提供实用的样式列表和`<summary>  `标记.
 -  [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
 -  [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) -添加 [Hero Patterns](https://www.heropatterns.com) 组件.
 -  [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) -添加了“响应嵌入”组件.
@@ -127,7 +129,7 @@
 -  [Grid](https://github.com/chrisrowe/tailwindcss-grid) -添加CSS网格实用程序.
 -  [Transforms](https://github.com/benface/tailwindcss-transforms) -添加`transform`实用程序.
 -  [benface's transitions](https://github.com/benface/tailwindcss-transitions) -添加带有或不带有CSS变量的可配置过渡实用程序.
--  [webdna's transitions](https://github.com/webdna/tailwindcss-transition) - Adds configurable transition utilities.
+-  [webdna's transitions](https://github.com/webdna/tailwindcss-transition) -添加了可配置的过渡实用程序.
 -  [glhd's transitions](https://github.com/glhd/tailwindcss-plugins) -添加了基本的转换实用程序.
 -  [Cursor Extended](https://github.com/hacknug/tailwindcss-cursor-extended) -扩展`cursor`工具.
 -  [Font Variant Numeric](https://github.com/philippbosch/tailwindcss-font-variant-numeric) -添加`font-variant-numeric`实用程序.
@@ -196,7 +198,7 @@
 **传奇**：官方资源·库·组件·模板
 
 -  [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
--  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
+- 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的，对开发人员友好的付费模板.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
@@ -306,18 +308,18 @@
 -  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) -使用Tailwind CSS构建响应式导航栏.
 -  [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) -用Tailwind CSS拍摄的运球.
 -  [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) -使用Tailwind CSS构建Tweet组件.
-- 🎓 [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) -使用Tailwind CSS创建模式对话框.
-- 🎓 [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) -构建Shopify，Spotify，Netlify和Atlassian的UI.
-- 🎓 [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) -使用Tailwind CSS重建FreshBooks.
-- 🎓 [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) -使用Tailwind CSS创建登录页面.
-- 🎓 [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
-- 🎓 [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中构建Vue.js组件.
-- 🎓 [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
-- 🎓 [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.
-- 🎓 [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
-- 🎓 [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
-- 🎓 [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
-- 🎓 [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
+-  [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) -使用Tailwind CSS创建模式对话框.
+-  [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) -构建Shopify，Spotify，Netlify和Atlassian的UI.
+-  [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) -使用Tailwind CSS重建FreshBooks.
+-  [Login Page (PingPing)](https://stefanbauer.me/building-pingping/we-build-a-login-using-tailwindcss) -使用Tailwind CSS创建登录页面.
+-  [Login Page](https://mustafaaloko.github.io/2017/tailwind-css-building-a-login-page) -使用Tailwind CSS创建登录页面.
+-  [Vue.js Component with Tailwind and Laravel](https://nick-basile.com/blog/post/how-to-build-a-vuejs-component-with-tailwind-in-a-laravel-project) -在Laravel项目中构建Vue.js组件.
+-  [Vue.js Modal](https://nick-basile.com/blog/post/build-a-customizable-vuejs-modal-with-tailwind-css) -使用Tailwind CSS和Vue.js构建可自定义的模式.
+-  [Navigation](https://nick-basile.com/blog/post/building-a-nav-with-tailwind-css) -使用Tailwind CSS构建导航.
+-  [Forms with Tailwind CSS](https://css-tricks.com/style-form-tailwind-css) -如何使用Tailwind CSS设置表单样式.
+-  [Photo gallery with CSS grids](https://nick-basile.com/blog/post/building-a-photo-gallery-with-css-grid-and-tailwind-css) -使用CSS网格和Tailwind CSS构建照片库.
+-  [Rebuilding Bartik](https://www.oliverdavies.uk/articles/rebuilding-bartik-with-vuejs-tailwind-css) -使用Vue.js和Tailwind CSS重建Bartik（Drupal的默认主题）.
+-  [Rebuilding Airbnb's Home Page](https://web-crunch.com/re-create-airbnbs-home-page-with-tailwind-css) -使用Tailwind CSS重建Airbnb的主页.
 -  [Laracasts Weekly Stream: Tailwind](https://www.youtube.com/watch?v=HIPgzWS-Bxg)
 -  [More experimentation with Tailwind CSS](https://www.youtube.com/watch?v=nBzfVK3QUzM)
 -  [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)

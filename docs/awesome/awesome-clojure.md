@@ -111,11 +111,11 @@
 
 *使用HTTP的库.*
 
-  * [clj-http](https://github.com/dakrone/clj-http)
-  * [http-kit](http://www.http-kit.org/)
-  * [ring](https://github.com/ring-clojure/ring)
-  * [kvlt](https://github.com/nervous-systems/kvlt)
-  * [aleph](https://github.com/ztellman/aleph)
+  * [clj-http](https://github.com/dakrone/clj-http) ：Apache HttpComponents客户端包装
+  * [http-kit](https://github.com/http-kit/http-kit) ：简单的高性能事件驱动的HTTP客户端和服务器
+  * [ring](https://github.com/ring-clojure/ring) ：HTTP服务器抽象
+  * [kvlt](https://github.com/nervous-systems/kvlt) ：跨JVM /节点/浏览器的HTTP的统一异步客户端接口
+  * [aleph](https://github.com/clj-commons/aleph) ：基于Netty的异步客户端/服务器，默认设置为HTTP，TCP和UDP
 
 ## Database
 

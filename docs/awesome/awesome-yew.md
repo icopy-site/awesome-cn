@@ -54,6 +54,7 @@
 - [ASCII-Hangman](https://github.com/getreu/ascii-hangman) -具有ASCII艺术奖励的儿童可配置的Hangman游戏.
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) 使用Yew，Rust为后端API提供支持.
 - [wasm-2048](https://github.com/dev-family/wasm-2048) -用Rust和Yew实现的2048游戏并编译为Wasm.
+- [website-wasm](https://github.com/kamiyaa/website-wasm) -我通过Yew / Wasm用Rust编写的个人网站.
 
 ## Templates
 
@@ -95,8 +96,8 @@
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) -您最喜欢的Rust-&gt; WebAssembly工作流程工具.
 - [wasm-pack-action](https://github.com/jetli/wasm-pack-action) -Github动作，通过下载可执行文件以加速CI / CD来安装“ wasm-pack”.
-- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) - Github action to install `wasm-bindgen` by downloading the executable to speed up CI/CD.
-- [cargo-web](https://github.com/koute/cargo-web) -客户端Web的Cargo子命令.
+- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) -Github动作，通过下载可执行文件来安装`wasm-bindgen`，以加速CI / CD.
+- [cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
 - [Trunk](https://github.com/thedodd/trunk) -构建，捆绑并将Rust Wasm应用程序发送到Web.
 - [wabt](https://github.com/WebAssembly/wabt) -WebAssembly Binary Toolkit，用于`wasm-strip`和`wasm-objdump`工具，以减少.wasm文件的大小.
 - [binaryen](https://github.com/WebAssembly/binaryen) -WebAssembly的编译器基础结构和工具链库，用于减小.wasm文件大小的`wasm-opt`工具.

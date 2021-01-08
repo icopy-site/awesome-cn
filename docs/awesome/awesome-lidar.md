@@ -69,14 +69,14 @@
 - [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) -牛津机器人汽车数据集包含100多次重复的，经过一年多的时间捕获的贯穿英国牛津的一致路线. 
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
-- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是在法国Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）中，使用我们的自动驾驶汽车收集的（当然是人为驾驶模式），配备了11个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
+- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是使用我们的自动驾驶汽车（当然是在人类驾驶模式下）收集的，该机器人在法国的Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）配备了十一个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
 - [NuScenes](https://www.nuscenes.org/) -用于自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) -由配备激光雷达和摄像头的福特Fusion车队收集的公共数据集.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) -广泛的公共数据集，主要侧重于计算机视觉应用，但还包含LIDAR点云.
 - [Semantic KITTI](http://semantic-kitti.org/) -用于语义和全景场景分割的数据集.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=3qNOXvkpK4I)
-- [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) -在恶劣天气条件（雪天）下自动驾驶的大型公共数据集.
+- [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - Public large-scale dataset for autonomous driving in adverse weather conditions (snowy weather).
   - [Paper :newspaper:](https://arxiv.org/pdf/2001.10117.pdf)
 - [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50)  -多伦多大学，autoronto的自动驾驶汽车数据集，其中包含GPS / IMU，3D LIDAR和单眼相机数据. 它可以用于3D行人检测.
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.08758.pdf)
@@ -142,6 +142,10 @@
 - [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -基于LiDAR的SLAM的循环关闭.
   - [GitHub repository :octocat:](https://github.com/PRBonn/OverlapNet)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
+- [LIO-SAM :newspaper:](https://arxiv.org/pdf/2007.00258.pdf) -通过平滑和映射紧密耦合激光雷达惯性里程表.
+  - [GitHub repository :octocat:](https://github.com/TixiaoShan/LIO-SAM)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=A0H8CoORZJU)
+
 
 ### Object detection and object tracking
 - [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976)  -卡内基·梅隆大学的胡佩云，戴维·霍尔德和德瓦·拉曼南.  IEEE机器人与自动化快报，2020年.
@@ -154,7 +158,7 @@
   - [GitHub repository :octocat:](https://github.com/peiyunh/WYSIWYG)
 
 ## Simulators
-- [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
+- [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) -跨平台通用机器人模拟器（以前称为V-REP）.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
 - [OSRF Gazebo](http://gazebosim.org/) -基于OGRE的通用机器人模拟器，兼容ROS / ROS2.
   - [GitHub repository :octocat:](https://github.com/osrf/gazebo)
@@ -168,4 +172,6 @@
 ## Others
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) -一种将航空激光雷达扫描中的点云数据转换为用于3D打印的实体网格的工具.
 - [Pcx :octocat:](https://github.com/keijiro/Pcx) -Unity的点云导入器/渲染器.
+- [Bpy :octocat:](https://github.com/uhlik/bpy) -用于Blender，Point Cloud可视化工具的Point cloud导入器/渲染器/编辑器.
 - [Semantic Segmentation Editor :octocat:](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) -日立汽车工业实验室的点云和图像语义分割编辑器.
+- [Photogrammetry importer :octocat:](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) -Blender插件可导入多个库的重建结果.

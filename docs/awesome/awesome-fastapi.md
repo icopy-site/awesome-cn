@@ -75,6 +75,7 @@
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) -一个简单的轻量级缓存系统.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) -一套实用的实用程序：分页，身份验证中间件，权限，自定义异常处理程序，MongoDB支持和Opentracing中间件.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) -FastAPI路由器，可以为您的模型自动创建并记录CRUD路由.
+- [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) -MQTT协议的扩展.
 - [FastAPI Plugins](https://github.com/madkote/fastapi-plugins) -Redis和Scheduler插件.
 - [FastAPI ServiceUtils](https://github.com/skallfass/fastapi_serviceutils) -用于创建API服务的生成器.
 - [FastAPI SocketIO](https://github.com/pyropy/fastapi-socketio) -轻松集成FastAPI和SocketIO.
@@ -82,9 +83,10 @@
 - [Prerender Python Starlette](https://github.com/BeeMyDesk/prerender-python-starlette) -用于Prerender的Starlette中间件.
 - [Prometheus FastAPI Instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) -适用于FastAPI应用程序的可配置模块化Prometheus Instrumentator.
 - [SlowApi](https://github.com/laurents/slowapi) -速率限制器（基于 [Flask-Limiter](https://flask-limiter.readthedocs.io)).
-- [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) -用于FastAPI和Starlette的Prometheus集成.
+- [Starlette Context](https://github.com/tomwojcik/starlette-context) -允许您在项目中的任何位置存储和访问请求数据，对记录很有用.
 - [Starlette Exporter](https://github.com/stephenhillier/starlette_exporter) -FastAPI和Starlette的另一种Prometheus集成.
-- [Starlette-OpenTracing](https://github.com/acidjunk/starlette-opentracing) -对Starlette和FastAPI的Opentracing支持.
+- [Starlette OpenTracing](https://github.com/acidjunk/starlette-opentracing) -对Starlette和FastAPI的Opentracing支持.
+- [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) -用于FastAPI和Starlette的Prometheus集成.
 
 ## Resources
 
@@ -134,7 +136,7 @@
 
 ### Videos
 
-- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) -使用FastAPI构建基于Web的股票筛选器后，将向您介绍FastAPI的许多功能，包括pydantic模型，依赖项注入，后台任务和SQLAlchemy集成.
+- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) -使用FastAPI构建基于Web的股票筛选器时，将向您介绍FastAPI的许多功能，包括pydantic模型，依赖项注入，后台任务和SQLAlchemy集成.
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) -使用FastAPI构建Web应用程序编程接口（RESTful API）.
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) -了解如何使用FastAPI进行数值验证.
 - [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs)  -哪种框架最适合2020年的Python？ 哪个使用异步/等待最好？ 哪个最快？ 
@@ -170,7 +172,7 @@
 Frameworks:
 
 - [Chalice](https://github.com/aws/chalice)
-- [Mangum](https://mangum.io/) -使用AWS Lambda和API Gateway运行ASGI应用程序的适配器.
+- [Mangum](https://mangum.io/) - Adapter for running ASGI applications with AWS Lambda and API Gateway.
 - [Vercel](https://vercel.com/) -（以前的时间）（[example](https://github.com/paul121/fastapi-zeit-now)).
 - [Zappa](https://github.com/Miserlou/Zappa)
 
@@ -202,7 +204,7 @@ Compute:
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) -使用FastAPI的项目的组织清单.
 - [Bitcart](https://github.com/bitcartcc/bitcart) -为商人，用户和开发人员提供易于设置和使用的平台.
 - [Dispatch](https://github.com/Netflix/dispatch) -管理安全事件.
-- FastAPI CRUD Example:
+-FastAPI CRUD示例：
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
 - [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) -Websocket“广播”演示.

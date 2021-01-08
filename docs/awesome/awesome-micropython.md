@@ -12,7 +12,7 @@
 
 精选的很棒的MicroPython库，框架，软件和资源的列表.
 
-[MicroPython](http://micropython.org/) 是Python 3编程语言的一种精简而有效的实现，其中包括Python标准库的一小部分，并且经过优化可在微控制器和受限环境中运行.
+[MicroPython](http://micropython.org/) 是Python 3编程语言的一种精简而高效的实现，其中包括Python标准库的一小部分，并且经过优化可在微控制器和受限环境中运行.
 
 
 
@@ -63,7 +63,7 @@
 #### Cryptography
 
 * [mpyaes](https://github.com/iyassou/mpyaes) -用于AES加密的MicroPython模块.
-* [micropython-aes](https://github.com/piaca/micropython-aes) - AES algorithm with pure python implementation.
+* [micropython-aes](https://github.com/piaca/micropython-aes) -带有纯python实现的AES算法.
 
 #### DNS
 
@@ -111,6 +111,10 @@
 * [uPyLoRaWAN](https://github.com/lemariva/uPyLoRaWAN) -使用MicroPython的ESP32符合LoRa和LoRaWAN.
 * [DeLoReAN](https://github.com/buehl/DeLoReAN) -DeLoReAN是（专用）（Lo）RaWAN节点（重新）编码（A）ny（N）FC标签.
 
+#### MDNS
+
+* [micropython-mdns](https://github.com/cbrand/micropython-mdns) -MDNS的纯python实现，支持服务发现.
+
 #### MQTT
 
 * [micropython-mqtt](https://github.com/peterhinch/micropython-mqtt)  -“弹性”异步MQTT驱动程序. 加上一种使用ESP8266将MQTT带到非联网目标的方法.
@@ -132,11 +136,11 @@
 
 #### OneWire
 
-* [Official OneWire](https://github.com/micropython/micropython/tree/master/drivers/onewire) - For devices using the OneWire bus, eg Dallas ds18x20.
+* [Official OneWire](https://github.com/micropython/micropython/tree/master/drivers/onewire) -对于使用OneWire总线的设备，例如Dallas ds18x20.
 
 #### Onkyo EISCP
 
-* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) -先锋使用的Onkyo-EISCP协议的Micropython端口.
+* [eiscp-micropython](https://github.com/cbrand/eiscp-micropython) -Pioneer使用的Onkyo-EISCP协议的Micropython端口.
 
 #### Radio
 
@@ -189,7 +193,7 @@
 * [upy-websocket-server](https://github.com/BetaRavener/upy-websocket-server) -MicroPython（ESP8266）Websocket服务器实现.
 * [micropython-captive-portal](https://github.com/amora-labs/micropython-captive-portal) -用于MicroPython的强制门户演示.
 * [uPyPortal](https://github.com/lemariva/uPyPortal) -使用ESP32（WeMos）的MicroPython专属门户.
-* [ESP8266WebServer](https://github.com/codemee/ESP8266WebServer) -适用于MicroPython的ESP8266 Web服务器.
+* [ESP8266WebServer](https://github.com/codemee/ESP8266WebServer) - ESP8266 web server for MicroPython.
 * [microCoAPy](https://github.com/insighio/microCoAPy) -CoAP（受约束的应用程序协议）在MicroPython中的微型客户端/服务器实现.
 * [micropyserver](https://github.com/troublegum/micropyserver) -MicroPyServer是用于MicroPython项目的简单HTTP服务器.
 * [MicroRESTCli](https://github.com/jczic/MicroRESTCli) -基于MicroWebCli for MicroPython的微型JSON REST Web客户端（用于Pycom模块和ESP32）.
@@ -270,7 +274,7 @@
 * [max7219_8digit](https://github.com/pdwerryhouse/max7219_8digit) -MAX7219 8位7段LED模块驱动器.
 * [micropython-max7219](https://github.com/JulienBacquart/micropython-max7219) -MAX7219 8位7段LED模块驱动器.
 * [micropython-my9221](https://github.com/mcauser/micropython-my9221) -MY9221 10段LED条形图模块的驱动程序.
-* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) - Driver for TM1637 quad 7-segment LED modules.
+* [micropython-tm1637](https://github.com/mcauser/micropython-tm1637) -用于TM1637四路7段LED模块的驱动器.
 * [micropython-tm1638](https://github.com/mcauser/micropython-tm1638) -带开关的TM1638双四极7段LED模块的驱动器.
 * [micropython-tm1640](https://github.com/mcauser/micropython-tm1640) -TM1740 8x8 LED矩阵模块的驱动程序.
 * [micropython-tm1640](https://gitlab.com/robhamerling/micropython-tm1640) -MicroPython库，用于由TM1640控制的16位7段显示.
@@ -303,7 +307,7 @@
 #### ADC
 
 * [ads1x15](https://github.com/robert-hh/ads1x15) -ADS1015 / ADS1115 ADC，I2C接口的驱动程序.
-* [micropython-ads1015](https://bitbucket.org/thesheep/micropython-ads1015) -ADS1015 12位和ADS1115 16位ADC，具有可编程增益的4通道I2C接口.
+* [micropython-ads1015](https://bitbucket.org/thesheep/micropython-ads1015) - ADS1015 12-Bit and ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 * [Micropython_ADS1115](https://github.com/AnthonyKNorman/Micropython_ADS1115) -ADS1115 16位ADC，具有可编程增益的4通道I2C接口.
 * [ADS7818](https://github.com/robert-hh/ADS7818) -与ADS7818 AD转换器接口的Python类.
 * [micropython-ads1219](https://github.com/miketeachman/micropython-ads1219) -用于Texas Instruments ADS1219 ADC的MicroPython模块.
@@ -528,7 +532,7 @@
 
 ## Books
 
-* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -作者：尼古拉斯·H·托勒维.  ISBN 9781491972731.
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do)  -作者：尼古拉斯·H·托勒维（Nicholas H. Tollervey）.  ISBN 9781491972731.
 * [MicroPython for the Internet of Things: A Beginner's Guide to Programming with Python on Microcontrollers](https://www.apress.com/gp/book/9781484231227)  -查尔斯·贝尔（Charles Bell）.  ISBN 9781484231227.
 * [MicroPython Cookbook](https://www.packtpub.com/au/application-development/micropython-cookbook)  -Marwan Alsabbagh.  ISBN 9781838649951.
 * [Python for Microcontrollers: Getting Started with MicroPython](https://www.amazon.com.au/Python-Microcontrollers-Getting-Started-MicroPython/dp/1259644537)  -唐纳德​​·诺里斯（Donald Norris）.  ISBN 9781259644535.
@@ -555,7 +559,7 @@
 ### Code Generation
 
 * [micropy-cli](https://github.com/BradenM/micropy-cli) -Micropy Cli是一个项目管理/生成工具，用于在VSCode等现代IDE中编写MicroPython代码.
-* [micropython-stubber](https://github.com/Josverl/micropython-stubber) -为不同的MicroPython固件生成并使用存根，以便与vscode和/或pylint一起使用.
+* [micropython-stubber](https://github.com/Josverl/micropython-stubber) - Generate and use stubs for different MicroPython firmwares to use with vscode and/or pylint.
 * [micropy-stubs](https://github.com/BradenM/micropy-stubs) -为Micropy-Cli和其他任何人自动生成的存根软件包.
 
 ### Debugging

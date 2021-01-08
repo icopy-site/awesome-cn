@@ -225,7 +225,7 @@
 
 ## Alternative Implementations
 
-- [Gossamer](https://gossamer.chainsafe.io/)  -在Go中实现的Polkadot客户端； 从
+- [Gossamer](https://github.com/ChainSafe/gossamer)  -在Go中实现的Polkadot客户端； 从
   [ChainSafe](https://chainsafe.io/).
 - [Kagome](https://kagome.readthedocs.io/en/latest/) -Polkadot客户端的C ++ 17实现；
   从 [Soramitsu](http://www.soramitsu.co.jp/).

@@ -288,6 +288,7 @@
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) -Swift中的服务器端开发.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) -Python Web应用程序框架.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) -Python Web应用程序框架.
+- [CDK](https://github.com/kolomied/awesome-cdk#readme) -用于在代码中定义云基础架构的开源软件开发框架.
 
 ## Computer Science
 
