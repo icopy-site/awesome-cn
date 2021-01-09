@@ -469,7 +469,7 @@
 * [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) -道格拉斯·阿诺德（明尼苏达大学）
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) -L.Ridgway Scott
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) -JM McDonough（肯塔基大学）
-* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) -阿森·纳里曼扬（Alsen Narimanyan），阿尔弗雷德·施密特（Alfred Schmidt）
+* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) -阿尔弗雷德·施密特（Arfr Nashmanyan）
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) -道格拉斯·威廉·哈德
 
 
@@ -499,6 +499,10 @@
 * [Introduction to Continuum Mechanics](http://oaktrust.library.tamu.edu/handle/1969.1/2501)  - 射线. 鲍恩
 * [Mathematical Tools for Physics](http://www.physics.miami.edu/nearing/mathmethods/) -詹姆斯·雷宁
 * [Mechanism of the Heavens (1831)](http://www.malaspina.com/etext/heavens.htm) -玛丽·萨默维尔
+
+## Students Lecture Notes
+* [Evan Chen](https://web.evanchen.cc/coursework.html)  -麻省理工学院.  2012〜2018.涵盖组合论，数论，荣誉代数，集合论，实数分析，图论等.
+* [Dexter Chua](https://dec41.user.srcf.net/notes/)  -哈佛.  2013〜2018.涵盖分析，概率论，线性代数，复杂分析，数值分析，统计，优化，代数拓扑，量子场论等.
 
 ## License
 

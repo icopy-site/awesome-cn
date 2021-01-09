@@ -66,6 +66,7 @@
 
 ## Advertising
 
+- [Adidas ZX Game](https://zx-game.de) -品牌节奏动作游戏（德语）.
 - [Ally Racing](https://www.allyracer.com/) -复古NASCAR赛车广告游戏.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) -以使命召唤为主题的促销3D体验.
 - [Cyber City](https://vz777.com/cybercity/index.html) -Visionaries777促销网站.

@@ -2,9 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精选的Perl5资源精选清单，包括框架，库和软件. 受启发 [awesome-go](https://github.com/avelino/awesome-go).
-
-不是Perl6模块；-P
+精选Perl资源的精选列表，包括框架，库和软件. 受启发 [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Another module list
 
@@ -92,6 +90,11 @@
 * [WebService::DigitalOcean](https://metacpan.org/pod/WebService::DigitalOcean) -访问DigitalOcean RESTful API（v2）
 * [WebService::Dropbox](https://metacpan.org/pod/WebService::Dropbox) -Dropbox API接口
 
+## Cryptography
+
+* [Bitcoin::Crypto](https://metacpan.org/pod/Bitcoin::Crypto) -Perl中的比特币加密
+* [CryptX](https://metacpan.org/pod/CryptX) -加密工具包
+
 ## Commercial WebServices
 
 * [Net::Xero](https://metacpan.org/pod/Net::Xero) -Xero会计介面
@@ -131,7 +134,7 @@
 
 ## Database
 
-*Libraries for dealing with relational databases*
+*用于处理关系数据库的库*
 
 * [DBI](https://metacpan.org/pod/DBI)
 * [DBIx::Connector](https://metacpan.org/pod/DBIx::Connector) -快速，安全的DBI连接和事务管理
@@ -237,6 +240,7 @@
 * [Catalyst::Controller::HTML::FormFu](https://metacpan.org/pod/Catalyst::Controller::HTML::FormFu) -在Catalyst中使用HTML :: FormFu.
 * [CGI::FormBuilder](https://metacpan.org/pod/CGI::FormBuilder) -轻松生成和处理有状态的表格.
 * [Form::Sensible](https://metacpan.org/pod/Form::Sensible) -处理基于表单的用户界面的明智方法.
+* [Form::Tiny](https://metacpan.org/pod/Form::Tiny) -表单重用Type :: Tiny类型约束.
 * [Form::Toolkit](https://metacpan.org/pod/Form::Toolkit) -建立以数据为中心的表单的工具包.
 * [HTML::FormFu](https://metacpan.org/pod/HTML::FormFu) -HTML表单创建，呈现和验证框架.
 * [HTML::FormFu::ExtJS](https://metacpan.org/pod/HTML::FormFu::ExtJS) -从HTML :: FormFu配置文件生成ExtJS表单.
@@ -453,6 +457,12 @@
 *用于处理配置文件的库*
 
 * [Config::Tiny](https://metacpan.org/pod/Config::Tiny) -使用尽可能少的代码读取/写入.ini样式文件
+
+
+## Type checking
+
+* [MooseX::Types](https://metacpan.org/pod/MooseX::Types) -驼鹿类型管理工具
+* [Type::Tiny](https://metacpan.org/pod/Type::Tiny) -小而全面的类型库
 
 ## Video
 
