@@ -201,6 +201,7 @@
 - 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的，对开发人员友好的付费模板.
+-  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值模板，可轻松自定义模板.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
 -  [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) -模板，组件和资源.

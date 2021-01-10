@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [<img src="https://raw.githubusercontent.com/playcanvas/awesome-playcanvas/master/playcanvas-logo.png" align="right" width="100">](https://playcanvas.com)
+> <img src="https://raw.githubusercontent.com/playcanvas/awesome-playcanvas/master/playcanvas-logo.png" align="right" width="100">
 >
 > [PlayCanvas](https://playcanvas.com/) 是用于构建交互式Web内容的开源平台. 它是用JavaScript，HTML5，CSS3和WebGL编写的.
 >
@@ -15,8 +15,10 @@
 ## PlayCanvas
 
 - [Editor](https://playcanvas.com/) -基于浏览器的实时协作WebGL编辑器.
-- [Engine Source](https://github.com/playcanvas/engine) -麻省理工学院许可的PlayCanvas运行时的完整源代码.
+- [Engine](https://github.com/playcanvas/engine) -麻省理工学院许可的PlayCanvas运行时的完整源代码.
+- [glTF Viewer](https://playcanvas.com/viewer) -符合glTF 2.0的模型查看器.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) -PlayCanvas引擎运行时的Node.js软件包.
+- [PCUI](http://playcanvas.github.io/pcui/) -PlayCanvas工具集使用的开源前端框架.
 - [Reference](https://developer.playcanvas.com/en/api/) -引擎运行时的API参考手册.
 - [User Manual](https://developer.playcanvas.com/en/user-manual/) -PlayCanvas用户指南.
 
@@ -67,7 +69,7 @@
 ## Advertising
 
 - [Adidas ZX Game](https://zx-game.de) -品牌节奏动作游戏（德语）.
-- [Ally Racing](https://www.allyracer.com/) -复古NASCAR赛车广告游戏.
+- [Ally Racing](https://www.allyracer.com/) -盟友银行（Ally Bank）复古NASCAR赛车广告游戏.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) -以使命召唤为主题的促销3D体验.
 - [Cyber City](https://vz777.com/cybercity/index.html) -Visionaries777促销网站.
 - [eBay Report](https://www.ebay-report.de/) -来自eBay德国的统计数据和事实.
@@ -118,6 +120,7 @@
 - [BMW i8](http://car.playcanvas.com) -汽车可视化仪.
 - [DAB Motors](https://dabmotors.com/configurator/) -摩托车配置器.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) -摩托车配置器.
+- [Infiniti Experience](https://beijing.infiniti-experience.com/) -探索2020英菲尼迪系列（中文）.
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) -探索起亚最新的汽车产品线.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) -越野车配置器.
 
@@ -141,7 +144,3 @@
 ## Contributing
 
 请参阅 [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) 有关详细信息.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

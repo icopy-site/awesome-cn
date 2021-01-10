@@ -15,7 +15,7 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
- *虚假*文章是对特定主题的一种评论形式，并且由于其有效性和简洁性而受到开发人员社区的广泛赞赏. 它们是一种方便的书面形式，可以通过消除神话，指出常见的陷阱，显示矛盾之处和微妙之处来接近陌生领域.
+ *虚假*文章是对特定主题的一种评论形式，并且由于其有效性和简洁性而受到开发人员社区的广泛赞赏. 它们是一种方便的书面形式，可以通过消除神话，指出常见的陷阱，显示不一致和微妙之处来接近陌生领域.
 
 从某种意义上讲，“虚假”文章是一整套冗长的单元测试，涵盖了实际使用情况下提供的大量极端情况.
 
@@ -48,7 +48,7 @@
 - [Falsehoods About Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) -经济学不是简单或理性的.
 - [Falsehoods About Cars](https://github.com/driveto/falsehoods-about-cars) -甚至定义汽车这样的常见问题也充满了陷阱.
 - [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) -类型在会计软件中的重要性：缺少小数点将导致100倍的超额收费.
-- [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) -因为 [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) ，黑客利用他们注册了\<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，也`; 删除表格“ COMPANIES”；-LTD，BETTS＆TWINE LTD和SAFDASD＆SFSAF SFDAASF LTD.
+- [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) -因为 [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made) ，黑客利用他们注册了\<SCRIPT SRC=MJT.XSS.HT></SCRIPT>  LTD`，也`; 删除表格“ COMPANIES”；-LTD`，“ BETTS＆TWINE LTD”和“ SAFDASD＆SFSAF \&#39;SFDAASF \” LTD`.
 - [CLDR currency definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -由于起义，入侵，新宪法和计划采用的缓慢，货币有效日期范围重叠.
 - [`tax`](https://github.com/commerceguys/tax) -一个PHP 5.4+税收管理库.
 
@@ -94,6 +94,7 @@
 
 - [Falsehoods About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -开始一切的文章.
 - [Falsehoods About Names – With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) -上面文章的修订版，这次有详细说明.
+- [Falsehoods About Biometrics](https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/) -指纹不是唯一的.
 -有关性别的谬论： [\#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) & [\#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) -性别是人类身份的一部分，具有自己的微妙之处.
 - [Gay Marriage: The Database Engineering Perspective](https://web.archive.org/web/20170914014648/https://qntm.org/gay) -如何解决数据库中的婚姻问题，同时解决有关性别，命名和人际关系的大多数谬论.
 - [Falsehoods Programmers Believe About Families](https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/) -您无法真正按照严格的规则定义家庭.
@@ -174,7 +175,7 @@
 - [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - Part of a post on why file's `mtime` comparison could be considered harmful.
 - [Falsehoods About Pagination](https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html) -为什么您的分页算法使某人（可能是您）头疼.
 - [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) -不是* se-se *虚假的*，但是仍然是实现自动完成的良好做法的好清单.
-- [Floating Point Math](https://0.30000000000000004.com) -“您的语言没有中断，它正在执行浮点数学运算.（...）这就是为什么通常情况下，`0.1 + 0.2！= 0.3`.”
+- [Floating Point Math](https://0.30000000000000004.com) - "Your language isn't broken, it's doing floating point math. (…) This is why, more often than not, `0.1 + 0.2 != 0.3`."
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) -为什么搜索（包括分析，标记化，突出显示）看似复杂.
 - [Hi\! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) -这次谈话可能被称为“关于用户名（和其他标识符）的虚假陈述”.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom)  -关于`/ dev / urandom`和`/ dev / random`的一些事情一遍又一遍地重复. 他们仍然是错误的.

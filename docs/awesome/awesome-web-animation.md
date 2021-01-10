@@ -19,7 +19,7 @@
 - [Vivus](https://github.com/maxwellito/vivus) -在SVG上制作绘图动画的库.
 - [Walkway](https://github.com/ConnorAtherton/walkway) -动画SVG元素的简单方法.
 - [Raphael](https://github.com/DmitryBaranovskiy/raphael) -JavaScript矢量库.
-- [Bonsai](https://github.com/uxebu/bonsai) - BonsaiJS is a graphics library and renderer.
+- [Bonsai](https://github.com/uxebu/bonsai) -BonsaiJS是图形库和渲染器.
 
 ## Common
 
@@ -56,7 +56,7 @@
 - [Paper.js](https://github.com/paperjs/paper.js) -矢量图形脚本的瑞士军刀–使用HTML5 Canvas将Scriptographer移植到JavaScript和浏览器.
 - [Konva](https://github.com/konvajs/konva) -Konva.js是一个HTML5 Canvas JavaScript框架，通过为桌面和移动应用程序启用画布交互性来扩展2d上下文.
 - [Two.js](https://github.com/jonobr1/two.js) -具有动画支持的Web渲染器不可知二维绘图api.
-- [Ocanvas](https://github.com/koggdal/ocanvas) -用于基于对象的画布绘制的JavaScript库.
+- [Ocanvas](https://github.com/koggdal/ocanvas) - JavaScript library for object-based canvas drawing.
 - [Curtainsjs](https://github.com/martinlaxenaire/curtainsjs) -轻量级的香草WebGL JavaScript库，可将HTML DOM元素转换为交互式纹理平面.
 - [Hover-effect](https://github.com/robin-dela/hover-effect) -JavaScript库，用于在悬停时绘制和设置图像动画.
 - [Pts.js](https://github.com/williamngan/pts) -Pts是用于可视化和广告素材编码的打字稿/ JavaScript库.
@@ -85,7 +85,7 @@
 - [Motion](https://github.com/framer/motion) -React的开源，可用于生产的动画和手势库.
 - [SVGR](https://github.com/gregberge/svgr) -将SVG转换为React组件.
 - [React tsParticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) -用于* tsParticles *的ReactJS包装器
-
+- [React spring](https://www.react-spring.io/)  -用于React的开源，基于弹簧物理学的动画库，支持插值. 快速和容易使用.
 
 ## GUI tools
 

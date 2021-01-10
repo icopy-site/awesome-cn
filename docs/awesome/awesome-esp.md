@@ -11,7 +11,7 @@
 <a href="http://espressif.com/en/products/hardware/esp32/overview"><img src="https://pbs.twimg.com/profile_images/863510403120222208/rjVOiTe3.jpg" alt="ESP32" align="left" style="margin-right: 25px" height=150></a>
 &gt;两者 [ESP8266](http://espressif.com/en/products/hardware/esp8266ex/overview) 和 [ESP32](http://espressif.com/en/products/hardware/esp32/overview) 是上海的制造商乐鑫系统有限公司生产的具有完整TCP / IP堆栈和微控制器功能的低成本Wi-Fi微芯片.  
 > <br/>
-&gt;看 [Contributing](https://github.com/agucova/awesome-esp/blob/master/contributing.md) 有关如何为该列表做出贡献的信息.
+&gt;看 [Contributing](https://github.com/agucova/awesome-esp/blob/master/contributing.md) for information on how to contribute to this list.
 > <br/><br/> 
 
 <!--lint disable no-repeat-punctuation-->
@@ -21,8 +21,7 @@
 - [Espressif AT](http://bbs.espressif.com/) -ESP8266的默认香草固件.
 - [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) -ESP8266基于eLua的固件.
 - [ESPBasic](http://www.esp8266basic.com/) -BASIC固件，可轻松进行无线编程，适用于8266.
-- [MicroPython](https://github.com/micropython/micropython/) -为ESP8266实现Python3.
-- [MicroPython/32](https://github.com/micropython/micropython-esp32) -用于ESP32的MicroPython端口.
+- [MicroPython](https://github.com/micropython/micropython/) -为ESP8266和32实现Python3的实现.
 - [ESP32](https://github.com/luc-github/ESP3D) -用于ESP32和8266的3D打印机的实验性固件.
 - [Frankenstein](https://github.com/nekromant/esp8266-frankenstein) -具有ESP8266强大功能的快速脏固件.
 - [MongooseOS](https://github.com/cesanta/mongoose-os)  -具有C和JS的特定于IoT的固件. 适用于ESP32 / 8266.

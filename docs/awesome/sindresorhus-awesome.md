@@ -55,7 +55,7 @@
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) -基于Chrome V8 JavaScript引擎的异步非阻塞事件驱动JavaScript运行时.
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) -在Node.js上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) -适用于Apple手机和平板电脑的移动操作系统.
+- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
 - [Android](https://github.com/JStumpp/awesome-android#readme) -由Google开发的移动操作系统.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) -使用JavaScript / HTML / CSS的跨平台本机桌面应用程序.
@@ -305,7 +305,7 @@
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
-	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) -用机器以自然语言提问和回答的科学.
+	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
 	- [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme) -将数据中使用的文本生成到文本，会话代理和叙述生成应用程序.
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
@@ -470,6 +470,7 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) -主要关于CSS –语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) -了解如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) -为您提供一条清晰的途径来提高您的知识和技能.
+- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) -观看YouTubers的视频教程，这些教程可以教给您有关技术的知识.
 
 ## Security
 
@@ -662,7 +663,7 @@
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) -免费提供开源项目的工具和服务的公司.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) -创建更好，更一致的设计和体验.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) -上座部佛教传统的教Teaching.
-- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
+- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) -开源Java应用性能管理工具.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) -成为开源维护者的经验.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) -每个平台的计算器.
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) -用于计算以确定用户是否为人类的一种挑战-响应测试.
@@ -688,7 +689,7 @@
 - [IRC](https://github.com/davisonio/awesome-irc#readme) -开源消息传递协议.
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) -网站的广告和程序媒体.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) -寻找解决气候危机的方法.
-- [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
+- [Naming](https://github.com/gruhn/awesome-naming#readme) -正确命名计算机科学中的事物.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) -如何从非结构化生物医学数据和文本中提取信息.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) -努力为后代保留Web.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) -WordPress的命令行界面.
