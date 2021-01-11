@@ -3,7 +3,7 @@
 ## Awesome talks
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-在线提供了大量的屏幕录像，用户组聚会记录和会议演讲. 我努力让自己每周至少观看两次新的演讲，并且我已经这样做了一段时间. 我创建了这个我非常喜欢看的在线谈话清单. 每当我看完另一个值得做的“很棒的”演讲时，我也会更新此列表. 建议总是通过请求请求得到赞赏. 因此，事不宜迟..
+在线提供了大量的屏幕录像，用户组聚会记录和会议演讲. 我试图让自己每周至少观看两次新的演讲，并且我已经这样做了一段时间. 我创建了这个我非常喜欢看的在线谈话清单. 每当我看完另一个值得做的“很棒的”演讲时，我也会更新此列表. 建议总是通过请求请求得到赞赏. 因此，事不宜迟..
 
 （无特定顺序）
 
@@ -38,7 +38,7 @@
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) 作者：**乔·阿姆斯特朗** [45:49]
 * [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) 通过**拉斯·奥尔森** [52:43]
 * [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) 作者：** Bradley Grzesiak ** [23:07]
-* [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=9IPn5Gk_OiM) 来自** Paolo Perrotta ** [36:35]
+* [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) 来自** Paolo Perrotta ** [36:35]
 * [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) 由** Linus Torvalds ** [1:10:14]
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) 由** Mark Rendle ** [43:46]
 * [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** [36:00]

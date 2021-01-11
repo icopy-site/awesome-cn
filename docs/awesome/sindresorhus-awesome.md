@@ -55,7 +55,7 @@
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) -基于Chrome V8 JavaScript引擎的异步非阻塞事件驱动JavaScript运行时.
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) -在Node.js上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
+- [iOS](https://github.com/vsouza/awesome-ios#readme) -适用于Apple手机和平板电脑的移动操作系统.
 - [Android](https://github.com/JStumpp/awesome-android#readme) -由Google开发的移动操作系统.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) -使用JavaScript / HTML / CSS的跨平台本机桌面应用程序.
@@ -106,7 +106,7 @@
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-	- [Standard Style](https://github.com/standard/awesome-standard#readme) -风格指南和短绒.
+	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
@@ -229,7 +229,7 @@
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
 - [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) -CSS工具.
-- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
+- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) -用于React的富文本编辑器框架.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [choo](https://github.com/choojs/awesome-choo#readme) -应用框架.
@@ -305,7 +305,7 @@
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
-	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
+	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) -用机器以自然语言提问和回答的科学.
 	- [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme) -将数据中使用的文本生成到文本，会话代理和叙述生成应用程序.
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
@@ -499,6 +499,7 @@
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) -基于PHP的可扩展CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) -内容优先的CMS.
 - [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) -.NET数字营销平台，它将CMS与用于管理多个网站的工具结合在一起.
+- [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) -可作为经典CMS或无头CMS的PHP MVC框架.
 
 ## Hardware
 
@@ -508,6 +509,7 @@
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) -建立自己的电吉他的清单.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) -计算机控制的绘图机和其他视觉艺术机器人.
+- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) -用于专业机器人开发的免费和开放工具.
 - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) -通过用激光照射目标来测量距离的传感器.
 
 ## Business
@@ -690,11 +692,12 @@
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) -网站的广告和程序媒体.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) -寻找解决气候危机的方法.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) -正确命名计算机科学中的事物.
-- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) -如何从非结构化生物医学数据和文本中提取信息.
+- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) -努力为后代保留Web.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) -WordPress的命令行界面.
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) -将信贷申请人分类为风险类别的方法.
 - [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) -基于Python的开源IT配置管理和自动化平台.
+- [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) -在网上对生物数据进行交互式可视化.
 
 ## Related
 

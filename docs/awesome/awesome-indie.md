@@ -97,7 +97,7 @@
   
 - **[Bootstrap Money](https://bootstrap.money)**
   
-  每周综述故事，指南和资源，以帮助您发展互联网业务. 每个星期五. 自由.
+  每周综述故事，指南和资源，以帮助您发展互联网业务. 每周五. 自由.
   策划人 [Nicolas de Thoré](https://twitter.com/ndethore)
 
 ### Podcasts
@@ -162,11 +162,11 @@
   
 - **[Bootstrapping Side Projects To Profit by Pieter Levels](https://www.youtube.com/watch?v=m3nb_Qj3mRA)**由 [Pieter Levels](https://twitter.com/levelsio)
 
-  过去几年中最知名的独立黑客之一可能谈论如何将我们的附带项目转变为可盈利的业务. 直截了当地，Pieter总是提供许多有见地的想法. 顺便说一句，不要被他的生活方式所骗，他的成功是500％的工作. 
+  Probably one of the most known indie hackers of the last couple of years talks about how to turn our side-projects into profitable businesses. Very straight to the point, Pieter always provides a lot of insightful thoughts. By the way, don't get fooled by his lifestyle, his success is 500% work. 
   
 - **[Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/)**由 [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
-  最受尊敬的独立开发人员之一进行的7分钟闪电演讲. 帕特里克（Patrick）试图提出的观点是，单身开发人员可以瞄准规模较小，利基市场，而这种市场可能竞争较弱并且从单身业务的角度来看非常有利可图.
+  最受尊敬的独立开发人员之一进行的7分钟闪电演讲. 帕特里克（Patrick）试图提出的观点是，单身开发人员可以瞄准规模较小且利基市场，而这种市场可能竞争较弱并且从单身业务的角度来看非常有利可图.
   
 - **[Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0)**由 [Vincent Woo](https://twitter.com/fulligin?lang=ca)
 
@@ -300,6 +300,10 @@
 - **[CandyJapan](https://www.candyjapan.com/behind-the-scenes)**
 
   通过运行日本糖果订阅盒获得的收入数字和经验教训.
+  
+- **[Awesome Self Funded](https://github.com/awesome-self-funded/awesome-self-funded)**
+
+  收入超过100万美元的成功自筹资金的科技企业的绝妙清单
 
 ### Events
 
@@ -351,7 +355,7 @@
 - **[The $100 Startup](http://100startup.com/)** [$]由 [Chris Guillebeau](https://chrisguillebeau.com/).
 - **[Technical Blogging (2nd Edition)](https://pragprog.com/book/actb2/technical-blogging-second-edition)** [$]由 [Antonio Cangiano](https://antoniocangiano.com/).
 - **[The Mom Test](http://momtestbook.com/)** [$]由 [Rob Fitzpatrick](https://robfitz.com/).
-- **[Zero to Sold](http://zerotosoldbook.com/)** [$]由 [Arvid Kahl](https://thebootstrappedfounder.com/about-me/) .  Arvid和他的合伙人Danielle是如何启动，运行和出售自举自足的EdTech SaaS FeedbackPanda的，所有有效的方法，应该有效的方法和无效方法.
+- **[Zero to Sold](http://zerotosoldbook.com/)** [$]由 [Arvid Kahl](https://thebootstrappedfounder.com/about-me/) .  Arvid和他的合伙人Danielle是如何启动，运行和出售自举自足的EdTech SaaS FeedbackPanda的，其中包括所有有效的，应该有效的和无效的一切.
 
 ##### Other
 

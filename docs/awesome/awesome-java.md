@@ -109,7 +109,7 @@ _为重复代码生成模式以减少冗长和容易出错的工具.
 - [FreeBuilder](https://github.com/inferred/FreeBuilder) -自动生成Builder模式.
 - [Immutables](https://immutables.github.io) -注释处理器生成简单，安全和一致的值对象.
 - [JavaPoet](https://github.com/square/javapoet) -生成源文件的API.
-- [JHipster](https://github.com/jhipster/generator-jhipster) -Spring Boot和AngularJS的Yeoman源代码生成器.
+- [JHipster](https://github.com/jhipster/generator-jhipster) - Yeoman source code generator for Spring Boot and AngularJS.
 - [Joda-Beans](https://www.joda.org/joda-beans/) -小型框架，可向Java添加可查询的属性，从而增强了JavaBeans.
 - [Lombok](https://projectlombok.org) -旨在减少冗长程度的代码生成器.
 - [Telosys](https://www.telosys.org/) -简单易用的代码生成器，可以作为Eclipse插件以及CLI来使用.
@@ -205,14 +205,14 @@ _简化与数据库交互的所有内容._
 - [MapDB](http://www.mapdb.org) -嵌入式数据库引擎，提供了并发收集到磁盘或堆外内存中的备份.
 - [MariaDB4j](https://github.com/vorburger/MariaDB4j) -无需安装或外部依赖项的MariaDB启动器.
 - [Modality](https://github.com/arkanovicz/modality) -具有数据库逆向工程功能的轻量级ORM.
-- [Presto](https://prestosql.io) -用于大数据的分布式SQL查询引擎.
+- [Trino](https://trino.io) -用于大数据的分布式SQL查询引擎.
 - [QueryStream](https://github.com/querystream/querystream) -使用类似Stream的API构建JPA Criteria查询.
 - [Querydsl](http://www.querydsl.com) -Typesafe统一查询.
 - [Realm](https://github.com/realm/realm-java) -移动数据库可直接在手机，平板电脑或可穿戴设备中运行.
 - [Redisson](https://github.com/redisson/redisson) -允许在Redis服务器之上提供分布式和可伸缩的数据结构.
 - [requery](https://github.com/requery/requery)  -现代，轻巧但功能强大的对象映射和SQL生成器. 轻松映射到数据库或创建数据库，或从任何使用Java的平台执行查询和更新.
 - [Speedment](https://github.com/speedment/speedment) -利用Java 8的Stream API进行查询的数据库访问库.
-- [sql2o](https://www.sql2o.org) -瘦JDBC包装器，可简化数据库访问并提供ResultSets到POJO的简单映射.
+- [sql2o](https://www.sql2o.org) - Thin JDBC wrapper that simplifies database access and provides simple mapping of ResultSets to POJOs.
 - [Vibur DBCP](https://www.vibur.org) -具有高级性能监视功能的JDBC连接池库.
 - [Xodus](https://github.com/JetBrains/xodus) -高度并发的无事务模式且符合ACID的嵌入式数据库.
 
@@ -287,7 +287,7 @@ _以本机格式处理应用程序分发的工具.
 - [Capsule](https://github.com/puniverse/capsule)  -简单而强大的打包和部署. 类固醇上的胖JAR，或支持JVM优化的容器的“ Java Docker”.
 - [Central Repository](https://search.maven.org)  -最大的二进制组件存储库，可作为开源社区的免费服务.  Apache Maven使用的默认值，并且在所有其他构建工具中可用.
 -[Cloudsmith！[c]]（https://cloudsmith.io）-完全托管的软件包管理SaaS，支持带有免费层的Maven / Gradle / SBT.
-- [Getdown](https://github.com/threerings/getdown)  -一种将Java应用程序部署到最终用户计算机并保持最新状态的系统. 作为Java Web Start的替代产品而开发.
+- [Getdown](https://github.com/threerings/getdown) - A system for deploying Java applications to end-user computers and keeping them up to date. Developed as an alternative to Java Web Start.
 - [IzPack](http://izpack.org) -用于跨平台部署的安装创作工具.
 - [JavaPackager](https://github.com/fvarrui/JavaPackager) -Maven和Gradle插件，提供了一种简便的方法来将Java应用程序打包在本机Windows，Mac OS X或GNU / Linux可执行文件中，并为它们生成安装程序.
 - [jlink.online](https://github.com/cilki/jlink.online) -通过HTTP构建优化的运行时.
@@ -344,8 +344,10 @@ _促进函数式编程的库.
 _支持游戏开发的框架._
 
 - [FXGL](https://almasb.github.io/FXGL/) -JavaFX游戏开发框架.
+- [JBox2D](http://www.jbox2d.org/) -著名的C ++ 2D物理引擎的端口.
 - [jMonkeyEngine](https://jmonkeyengine.org) -用于现代3D开发的游戏引擎.
-- [libGDX](https://libgdx.badlogicgames.com) -全方位的跨平台高级框架.
+- [libGDX](https://libgdx.com) -全方位的跨平台高级框架.
+- [Litiengine](https://litiengine.com/) -基于AWT的轻量级2D游戏引擎.
 - [LWJGL](https://www.lwjgl.org) -健壮的框架，可提取OpenGL / CL / AL等库.
 - [Mini2Dx](https://mini2dx.org) -适合初学者的，易于掌握的框架，用于快速制作原型和构建2D游戏.
 
@@ -463,7 +465,7 @@ _用于在Java对象之间进行JSON序列化和反序列化的库.
 - [JSON-io](https://github.com/jdereg/json-io)  -将Java转换为JSON. 将JSON转换为Java. 漂亮的打印JSON.  Java JSON序列化器.
 - [jsoniter](http://jsoniter.com) -具有迭代器和惰性分析API的快速灵活的库.
 - [LoganSquare](https://github.com/bluelinelabs/LoganSquare)  -基于Jackson的流API的JSON解析和序列化库. 优于GSON和Jackson的资料库.
-- [Moshi](https://github.com/square/moshi) -现代化的JSON库，不那么固执己见，并使用诸如List和Map之类的内置类型.
+- [Moshi](https://github.com/square/moshi) -现代化的JSON库，不那么固执己见，并使用内置类型（如List和Map）.
 - [Yasson](https://github.com/eclipse-ee4j/yasson) -类和JSON文档之间的绑定层类似于JAXB.
 - [fastjson](https://github.com/alibaba/fastjson) -非常快速的处理器，没有其他依赖项和完整的数据绑定.
 - [Jolt](https://github.com/bazaarvoice/jolt) -JSON到JSON转换工具.
@@ -480,7 +482,7 @@ _JVM / JDK的当前实现.
 - [Dragonwell8](https://github.com/alibaba/dragonwell8) -OpenJDK的下游版本，针对在线电子商务，金融，物流应用程序进行了优化.
 - [Graal](https://github.com/oracle/graal)  -Polyglot嵌入式JVM.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [Liberica JDK](https://bell-sw.com)  -由OpenJDK构建，经过全面测试并通过了JCK.  （仅限GPL-2.0，带Classpath-exception-2.0）
-- [OpenJ9](https://github.com/eclipse/openj9) -高性能，企业级，灵活许可，开放管理的跨平台JVM，扩展并增强了Eclipse OMR和OpenJDK项目中的运行时技术组件.
+- [OpenJ9](https://github.com/eclipse/openj9) -高性能，企业级，灵活许可，开放式跨平台JVM，可扩展和扩充Eclipse OMR和OpenJDK项目中的运行时技术组件.
 - [Open JDK](https://openjdk.java.net)  -打开JDK社区主页.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)  -具有无阻塞并发GC（适用于iOS）的VM.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [RedHat Open JDK](https://developers.redhat.com/products/openjdk/overview)  -RedHat的OpenJDK发行版.  （仅限GPL-2.0，带Classpath-exception-2.0）
@@ -517,7 +519,7 @@ _提供用于从数据中学习的特定统计算法的工具._
 - [Oryx 2](https://github.com/OryxProject/oryx)  -用于构建实时，大规模机器学习应用程序的框架. 包括用于协同过滤，分类，回归和集群化的端到端应用程序.
 - [Siddhi](https://github.com/siddhi-io/siddhi) -云原生流和复杂事件处理引擎.
 - [Smile](https://github.com/haifengl/smile) -统计机器智能和学习引擎提供了一组机器学习算法和可视化库.
-- [Tribuo](https://tribuo.org/) -提供用于分类，回归，聚类，模型开发的工具，并提供与scikit-learn，pytorch和TensorFlow等其他库的接口.
+- [Tribuo](https://tribuo.org/) -提供用于分类，回归，聚类，模型开发以及与其他库（例如scikit-learn，pytorch和TensorFlow）接口的工具.
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  -收集用于从预处理到可视化的数据挖掘任务的算法.  （仅限GPL-3.0）
 
 ### Messaging
@@ -754,7 +756,7 @@ _框架是包含多个类别的多个库的套件.
 - [Nabla](http://commons.apache.org/sandbox/commons-nabla/) -Nabla提供了自动区分类，可以生成以Java语言实现的任何功能的派生类.
 - [Net](http://commons.apache.org/proper/commons-net/) -收集网络实用程序和协议实现.
 - [OGNL](http://commons.apache.org/proper/commons-ognl/) -对象图导航语言.
-- [OpenPGP](http://commons.apache.org/sandbox/commons-openpgp/) -使用OpenPGP签名和验证数据的接口.
+- [OpenPGP](http://commons.apache.org/sandbox/commons-openpgp/) - Interface to signing and verifying data using OpenPGP.
 - [Performance](http://commons.apache.org/sandbox/commons-performance/) -微型基准客户端的小型框架，具有Commons DBCP和Pool的实现.
 - [Pipeline](http://commons.apache.org/sandbox/commons-pipeline/) -提供了一组围绕工作队列设计的管道实用程序，这些并行运行以顺序处理数据对象.
 - [Pool](http://commons.apache.org/proper/commons-pool/) -通用对象池组件.
@@ -771,7 +773,7 @@ _框架是包含多个类别的多个库的套件.
 - [CUBA Platform](https://www.cuba-platform.com/) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
 - [Light-4J](https://github.com/networknt/light-4j/) -内置的快速，轻量级和高效的微服务框架 [security](https://github.com/networknt/light-oauth2/).
 - [Orienteer](https://github.com/OrienteerBAP/Orienteer/) -开源业务应用程序平台，用于快速配置/开发CRM，ERP，LMS和其他应用程序.
-- [Spring](https://spring.io/projects/) - Provides many packages for dependency injection, aspect-oriented programming, security, etc.
+- [Spring](https://spring.io/projects/) -提供许多用于依赖项注入，面向方面的编程，安全性等的程序包.
 
 ### Processes
 
@@ -824,7 +826,7 @@ _用于科学计算，分析和可视化的库.
 - [LogicNG](https://github.com/logic-ng/LogicNG) -用于创建，操作和求解布尔和伪布尔公式的库.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) -用于地球物理科学计算，可视化和数字信号分析的库.
 - [Morpheus](https://github.com/zavtech/morpheus-core) -提供称为DataFrame的通用二维内存高效表格式数据结构，以实现针对JVM上的科学计算的高效内存中分析.
-- [Orson-Charts](https://github.com/jfree/orson-charts) - Generates a wide variety of 3D charts that can be displayed with Swing and JavaFX or exported to PDF, SVG, PNG and JPEG. (GPL-3.0-only)
+- [Orson-Charts](https://github.com/jfree/orson-charts)  -生成可以与Swing和JavaFX一起显示或导出为PDF，SVG，PNG和JPEG的各种3D图表.  （仅限GPL-3.0）
 - [Tablesaw](https://github.com/jtablesaw/tablesaw) -包括数据框，嵌入式列存储以及数百种转换，汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)  -用于绘制数据的轻型库. 有许多可定制的图表类型.
 
@@ -889,7 +891,7 @@ _在模板中替换表达式的工具._
 - [Jtwig](https://github.com/jtwig/jtwig) -模块化，可配置且经过全面测试的模板引擎.
 - [Pebble](https://pebbletemplates.io)  -受Twig启发，并以其继承功能和易于阅读的语法而与众不同. 它带有内置的自动转义功能以确保安全性，并且包括对国际化的集成支持.
 - [Rocker](https://github.com/fizzed/rocker) -优化，内存高效且快速的模板引擎，可生成静态类型的普通对象.
-- [Thymeleaf](https://www.thymeleaf.org) - Aims to be a substitute for JSP and works for XML files.
+- [Thymeleaf](https://www.thymeleaf.org) -旨在替代JSP并适用于XML文件.
 
 ### Testing
 
@@ -908,7 +910,7 @@ _简化异步服务测试的工具._
 
 #### BDD
 
-_Testing for the software development process that emerged from TDD and was heavily influenced by DDD and OOAD._
+_对TDD中出现的，受DDD和OOAD严重影响的软件开发过程进行测试.
 
 - [Cucumber](https://github.com/cucumber/cucumber-jvm) -提供一种以普通语言描述功能的方法，客户可以理解.
 - [Cukes-REST](https://github.com/ctco/cukes) -收集使用黄瓜进行REST服务测试的Gherkin步骤.
@@ -960,7 +962,7 @@ _与测试有关的其他内容._
 - [LogCaptor](https://github.com/Hakky54/log-captor) -捕获日志条目以用于单元测试.
 - [Mutability Detector](https://github.com/MutabilityDetector/MutabilityDetector) -报告给定类的实例是否不可变.
 - [raml-tester](https://github.com/nidi3/raml-tester) -测试请求/响应是否匹配给定的RAML定义.
-- [TestContainers](https://github.com/testcontainers/testcontainers-java) -提供普通数据库，Selenium Web浏览器或可在Docker容器中运行的其他任何东西的一次性实例.
+- [TestContainers](https://github.com/testcontainers/testcontainers-java) -提供普通数据库，Selenium Web浏览器或可以在Docker容器中运行的其他任何东西的一次性实例.
 - [pojo-tester](https://www.pojo.pl)  -自动对基本的POJO方法执行测试.  （仅限LGPL-3.0）
 
 #### Mocking
@@ -1025,7 +1027,7 @@ _处理Web应用程序各层之间通信的框架.
 - [Jooby](http://www.jooby.org) -可扩展，快速和模块化的微框架，提供多种编程模型.
 - [Ninja](http://www.ninjaframework.org) -全栈Web框架.
 - [Pippo](http://www.pippo.ro) -小型，高度模块化的，类似于Sinatra的框架.
-- [Play](https://www.playframework.com) -基于Akka构建，它为Java和Scala中的高度可扩展应用程序提供了可预测的最小资源消耗（CPU，内存，线程）.
+- [Play](https://www.playframework.com) -建立在Akka之上，它为Java和Scala中的高度可扩展的应用程序提供了可预测的最小资源消耗（CPU，内存，线程）.
 - [PrimeFaces](https://www.primefaces.org) -具有免费和商业/支持版本以及前端组件的JSF框架.
 - [Ratpack](https://ratpack.io) -促进快速，高效，可发展且经过良好测试的HTTP应用程序的库集.
 - [Takes](https://github.com/yegor256/takes) -固执己见的Web框架，它围绕真实的面向对象编程和不变性的概念构建.
@@ -1104,7 +1106,7 @@ _在编程时要看或听的东西.
 - [Java Magazine](https://twitter.com/Oraclejavamag) -官方Java杂志帐户.
 - [Java](https://twitter.com/java) -官方Java Twitter帐户.
 - [Javin Paul](https://twitter.com/javinpaul) -著名的Java博客.
-- [Josh Long](https://twitter.com/starbuxman) -Pivotal的Spring Advocate，是O&#39;Reilly的Cloud Native Java和使用Spring Boot构建微服务JavaOne Rock Star的作者.
+- [Josh Long](https://twitter.com/starbuxman) -Pivotal的Spring Advocate，O&#39;Reilly的Cloud Native Java-和使用Spring Boot构建微服务JavaOne Rock Star的作者.
 - [Lukas Eder](https://twitter.com/lukaseder) -Java冠军，演讲者，JUG.ch联合负责人，Data Geekery（jOOQ）的创始人兼首席执行官.
 - [Mani Sarkar](https://twitter.com/theNeomatrix369)  -Java冠军，Polyglot，参与@graalvm的Software Crafter，AI / ML / DL，数据科学，开发人员社区，发言人和博客作者. 像这样的几个很棒的列表的创建者.
 - [Mario Fusco](https://twitter.com/mariofusco) -RedHatter，JUG协调员，常任发言人和作家.

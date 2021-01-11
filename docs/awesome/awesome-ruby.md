@@ -59,12 +59,12 @@
 * [Acts_As_Api](https://github.com/fabrik42/acts_as_api) -轻松有趣，在Rails 3、4、5和6中创建XML / JSON响应.
 * [Blanket](https://github.com/inf0rmer/blanket) -无效的简单API包装器.
 * [Blueprinter](https://github.com/procore/blueprinter) -用于Ruby的简单，快速和声明性序列化库.
-* [Crepe](https://github.com/crepe/crepe) -瘦API堆栈.
-* [Fast JSON API](https://github.com/Netflix/fast_jsonapi) -用于Ruby对象的快速的JSON：API序列化程序.
-* [Grape](http://www.ruby-grape.org) -在Ruby中创建类似REST的API的自以为是的微框架.
+* [Crepe](https://github.com/crepe/crepe) - The thin API stack.
+* [Grape](http://www.ruby-grape.org) -一个自以为是的微框架，用于在Ruby中创建类似REST的API.
 * [Her](https://github.com/remiprev/her)  -将REST资源映射到Ruby对象的ORM. 设计用于构建由RESTful API（而非数据库）支持的应用程序.
 * [jbuilder](https://github.com/rails/jbuilder) -通过构建器风格的DSL创建JSON结构.
 * [jsonapi-rb](http://jsonapi-rb.org) –高效便捷的JSON API（反序列化）库.
+* [jsonapi-serializer](https://github.com/jsonapi-serializer/jsonapi-serializer) -用于Ruby对象的快速JSON：API序列化器.
 * [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) -JSONAPI :: Resources或“ JR”提供了一个框架，用于开发符合JSON API规范的服务器.
 * [JSONAPI::Utils](https://github.com/tiagopog/jsonapi-utils) -JSONAPI :: Utils建立在JSONAPI :: Resources的基础上，利用其资源驱动的样式，并提供了一种无需学习或很少学习就可以构建现代JSON API的简便方法.
 * [Jsonite](https://github.com/crepe/jsonite) -适用于您的API的微型，符合HAL的JSON演示程序.
@@ -92,7 +92,7 @@
 ## Authentication and OAuth
 
 * [Authlogic](https://github.com/binarylogic/authlogic) -Authlogic是一种干净，简单且通俗的ruby身份验证解决方案.
-* [Clearance](https://github.com/thoughtbot/clearance) - Small and simple email & password based authentication for Rails.
+* [Clearance](https://github.com/thoughtbot/clearance) -小巧，简单的基于电子邮件和密码的Rails身份验证.
 * [Devise](https://github.com/plataformatec/devise) -基于Warden的Rails灵活的身份验证解决方案.
 * [JWT](https://github.com/jwt/ruby-jwt) -Ruby中的JSON Web令牌实现.
 * [Knock](https://github.com/nsarno/knock) -Rails API的无缝JWT身份验证.
@@ -100,7 +100,7 @@
 * [OmniAuth](https://github.com/omniauth/omniauth) -使用Rack中间件标准化多提供商身份验证的库.
 * [Rodauth](https://github.com/jeremyevans/rodauth) -机架应用程序的身份验证和帐户管理框架.
 * [Shield](https://github.com/cyx/shield) -用于路由和模型上下文的身份验证协议.
-* [Sorcery](https://github.com/Sorcery/sorcery) -Rails 4和Rails 5的神奇身份验证.
+* [Sorcery](https://github.com/Sorcery/sorcery) - Magical Authentication for Rails 4, and Rails 5.
 * [warden](https://github.com/hassox/warden) -通用机架身份验证框架.
 * OAuth：
   * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) -Rails的OAuth2提供程序.
@@ -125,11 +125,11 @@
 
 * [Action caching for Action Pack](https://github.com/rails/actionpack-action_caching) -操作包的操作缓存.
 * [Dalli](https://github.com/mperham/dalli) -用于访问内存缓存服务器的高性能纯Ruby客户端.
-* [Garner](https://github.com/artsy/garner) - A set of Rack middleware and cache helpers that implement various caching strategies.
+* [Garner](https://github.com/artsy/garner) -一组实现各种缓存策略的Rack中间件和缓存助手.
 * [IdentityCache](https://github.com/Shopify/identity_cache) -插入ActiveRecord的Blob级缓存解决方案.
 * [Kashmir](https://github.com/IFTTT/kashmir) -Kashmir是一种Ruby DSL，可轻松实现序列化和缓存对象.
 * [Readthis](https://github.com/sorentwo/readthis) -使用Redis进行高性能，池化，ActiveSupport兼容的缓存.
-* [Record Cache](https://github.com/orslumen/record-cache) -在Rails 3中缓存活动模型记录.
+* [Record Cache](https://github.com/orslumen/record-cache) - Cache Active Model Records in Rails 3.
 * [redis-store](http://redis-store.org/)  -Redis Store为现代Ruby框架提供了全套存储（缓存，I18n，会话，HTTP缓存），例如：Ruby on Rails，Sinatra，Rack，Rack :: Cache和I18n. 它支持对象编组，超时，单个或多个节点以及名称空间.
 * [Second Level Cache](https://github.com/hooopo/second_level_cache) -ActiveRecord 4的直写和直读缓存库.
 
@@ -170,7 +170,7 @@
 * [Tabulo](https://github.com/matt-harvey/tabulo) -具有基于列的DRY API的纯文本表生成器.
 * [TablePrint](https://github.com/arches/table_print) -将来自多个数据库表的数据切片到单个CLI视图中.
 * [Terminal Table](https://github.com/tj/terminal-table) -Ruby ASCII表生成器，简单且功能丰富.
-* [Tmuxinator](https://github.com/tmuxinator/tmuxinator) -轻松创建和管理复杂的tmux会话.
+* [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
 * [Whirly](https://github.com/janlelis/whirly) -一个简单，丰富多彩且可定制的Ruby终端微调程序库.
 
 ## Cloud
@@ -190,8 +190,8 @@
 
 ## Code Analysis and Metrics
 
-* [Brakeman](https://github.com/presidentbeef/brakeman) -用于Ruby on Rails应用程序的静态分析安全漏洞扫描程序.
-* [Coverband](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
+* [Brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
+* [Coverband](https://github.com/danmayer/coverband) -机架中间件，以帮助评估生产代码覆盖率.
 * [Fasterer](https://github.com/DamirSvrtan/fasterer) -受快速红宝石和Sferik在Baruco Conf上的演讲启发，此命令行工具使您的红宝石运行得更快.
 * [Flay](https://github.com/seattlerb/flay)  -Flay分析代码的结构相似性. 文字值，变量，类，方法名称，空格，编程样式，花括号与do / end等的差异都将被忽略. 使这完全rad.
 * [Flog](https://github.com/seattlerb/flog)  -Flog在易于阅读的疼痛报告中报告了遭受最多折磨的代码. 分数越高，代码所处的痛苦就越大.
@@ -206,11 +206,11 @@
 * [SimpleCov](https://github.com/colszowka/simplecov) -Ruby 1.9+的代码覆盖率，具有功能强大的配置库和跨测试套件的覆盖率自动合并.
 * [Sorbet](https://github.com/sorbet/sorbet) -Ruby的静态类型检查器.
 * [Suture](https://github.com/testdouble/suture) -Ruby gem，可帮助您重构旧代码.
-* [Traceroute](https://github.com/amatsuda/traceroute) -Rake任务宝藏，可帮助您找到Rails 3+应用程序的死路和动作
+* [Traceroute](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
 
 ## Code Formatting
 
-* [prettier](https://github.com/prettier/plugin-ruby) - A prettier plugin for the Ruby language.
+* [prettier](https://github.com/prettier/plugin-ruby) -Ruby语言的漂亮插件.
 * [RuboCop](https://github.com/rubocop-hq/rubocop) -基于社区Ruby样式指南的静态代码分析器.
   * [Rubocop Rails](https://github.com/rubocop-hq/rubocop-rails) -RuboCop扩展专注于实施Rails最佳实践和编码约定.
   * [Rubocop Rspec](https://github.com/rubocop-hq/rubocop-rspec) -RSpec文件的代码样式检查
@@ -271,7 +271,7 @@
   * [FastAttributes](https://github.com/applift/fast_attributes) -FastAttributes将属性及其类型添加到类中.
   * [Virtus](https://github.com/solnic/virtus) -普通旧式Ruby对象的类固醇属性.
   * [AttrExtras](https://github.com/barsoom/attr_extras) -使用attr_initialize之类的方法从Ruby中提取一些样板.
-* Hash
+*哈希
   * [Hashie](https://github.com/intridea/hashie) -扩展哈希并使其更有用的工具的集合.
 
 ## Country Data
@@ -296,7 +296,7 @@
 ## Dashboards
 
 * [Blazer](https://github.com/ankane/blazer)  -仅使用SQL的简单数据查看器. 输出到表格，图表和地图.
-* [Smashing](https://smashing.github.io/) - Smashing is a Sinatra based framework that lets you build beautiful dashboards. This project is the maintained spiritual successor to the Dashing framework.
+* [Smashing](https://smashing.github.io/)  -粉碎是一个基于Sinatra的框架，可让您构建漂亮的仪表板. 该项目是Dashing框架的精神继任者.
 * [Dashing-Rails](https://github.com/gottfrois/dashing-rails) -Rails非常漂亮的仪表板框架.
 
 ## Data Processing and ETL
@@ -313,7 +313,7 @@
 * [ApexCharts.rb](https://github.com/styd/apexcharts.rb)  -红宝石应用程序的超赞图表. 适用于任何红宝石应用程序，包括Rails应用程序. 它甚至适用于纯HTML + ERB文件.
 * [RailRoady](https://github.com/preston/railroady) -Ruby on Rails 3/4模型和控制器UML类图生成器.
 * [Rails Erd](https://github.com/voormedia/rails-erd) -生成Rails应用程序的实体关系图.
-* [Ruby/GraphViz](https://github.com/glejeune/Ruby-Graphviz) -GraphViz图形工具的Ruby接口.
+* [Ruby/GraphViz](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
 
 ## Database Drivers
 
@@ -428,7 +428,7 @@
 * [Active Merchant](https://github.com/activemerchant/active_merchant) -从Shopify中提取的简单付款抽象库.
 * [Braintree](https://github.com/braintree/braintree_ruby) -Braintree Ruby绑定.
 * [Conekta](https://github.com/conekta/conekta-ruby) -Conekta Ruby绑定.
-* [credit_card_validations](https://github.com/didww/credit_card_validations) -红宝石，用于验证信用卡号，生成有效号，Luhn会检查.
+* [credit_card_validations](https://github.com/didww/credit_card_validations) - A ruby gem for validating credit card numbers, generating valid numbers, Luhn checks.
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) -Ruby的官方Paypal商家SDK.
 * [Piggybak](https://github.com/piggybak/piggybak) -Ruby on Rails的模块化，可扩展的开源电子商务解决方案.
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) -Rails电子商务平台.
@@ -482,7 +482,7 @@
 * [ruby-install](https://github.com/postmodern/ruby-install) -安装Ruby，JRuby，Rubinius，MagLev或MRuby.
 * [RVM](https://rvm.io) -RVM是一种命令行工具，可让您轻松安装，管理和使用从解释程序到宝石组的多个红宝石环境.
 * [Tokaido](https://github.com/tokaido/tokaidoapp/releases) -Ruby，Rails，SQLite和Redis封装在一个拖放式OS X应用程序中，旨在使初学者轻松安装有效的RoR环境.
-* [Uru](https://bitbucket.org/jonforums/uru) -Uru是一种轻量级的多平台命令行工具，可帮助您在32/64位Linux，OS X或Windows系统上使用多个红宝石.
+* [Uru](https://bitbucket.org/jonforums/uru) -Uru是轻量级的多平台命令行工具，可帮助您在32/64位Linux，OS X或Windows系统上使用多个红宝石.
 
 ## Error Handling
 
@@ -513,13 +513,13 @@
 * [PaperClip](https://github.com/thoughtbot/paperclip)  -方便的ActiveRecord文件附件管理. 自2018年5月14日起弃用.
 * [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) -安全上传文件.
 * [Refile](https://github.com/refile/refile) -Refile是一种用于Ruby应用程序的现代文件上传库，是CarrierWave的原始作者试图修复CarrierWave中的设计错误和过度设计的尝试.
-* [Shrine](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby.
+* [Shrine](https://github.com/janko-m/shrine) -用于在Ruby中处理文件上传的工具包.
 
 ## File System Listener
 
 * [Guard](https://github.com/guard/guard) -命令行工具，可轻松处理文件系统修改事件.
 * [Guard::LiveReload](https://github.com/guard/guard-livereload) -修改“查看”文件后自动重新加载浏览器.
-* [Listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
+* [Listen](https://github.com/guard/listen) -“监听” gem监听文件修改并通知您有关更改.
 * [Rerun](https://github.com/alexch/rerun)  -文件系统更改时重新启动应用程序. 如果在OS X上，则使用growl和FSEventStream.
 
 ## Form Builder
@@ -627,7 +627,7 @@
 * [i18n-tasks](https://github.com/glebm/i18n-tasks) -利用强大的静态分析功能管理丢失和未使用的翻译.
 * [i18n](https://github.com/svenfuchs/i18n) -Ruby国际化和本地化解决方案.
 * [rails-i18n](https://github.com/svenfuchs/rails-i18n) -用于收集Rails I18n以及其他有趣的与Rails相关的I18n内容的语言环境数据的存储库.
-* [r18n](https://github.com/ai/r18n) - Advanced i18n library for Rails, Sinatra, desktop apps, models, works well with complex languages like Russian.
+* [r18n](https://github.com/ai/r18n) -先进的i18n库，适用于Rails，Sinatra，桌面应用程序，模型，可与俄语等复杂语言很好地配合使用.
 * [Termit](https://github.com/pawurb/termit) -终端中带有语音合成功能的翻译.
 * [Tolk](https://github.com/tolk/tolk) -用于打包为Rails引擎的i18n转换的Web界面.
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) -ICU（Unicode的国际组件）的Ruby实现，它使用通用语言环境数据存储库来格式化日期，复数等.
@@ -715,7 +715,7 @@
 * [Breadcrumbs on Rails](https://github.com/weppos/breadcrumbs_on_rails) -一个简单的Ruby on Rails插件，用于创建和管理Rails项目的面包屑导航.
 * [Gretel](https://github.com/lassebunk/gretel) -Ruby on Rails插件，可以轻松而灵活地创建面包屑.
 * [loaf](https://github.com/peter-murach/loaf) -在Rails应用程序中管理和显示面包屑跟踪-精简和卑鄙.
-* [Simple Navigation](https://github.com/codeplant/simple-navigation) -红宝石，可为Rails 2、3和4，Sinatra或Padrino创建导航（HTML列表，链接列表或具有多个级别的面包屑）.
+* [Simple Navigation](https://github.com/codeplant/simple-navigation) -红宝石，可为Rails 2、3和4，Sintratra或Padrino创建导航（html列表，链接列表或具有多个级别的面包屑）.
 
 ## Networking
 
@@ -726,7 +726,7 @@
 
 * [Noticed](https://github.com/excid3/noticed) -适用于Ruby on Rails应用程序的类似ActionMailer的通知系统.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) -iOS，Android和Windows Phone Push通知变得容易.
-* [Rpush](https://github.com/rpush/rpush) -Ruby的推送通知服务，支持Apple推送通知服务，Google Cloud Messaging，Amazon Device Messaging和Windows Phone推送通知服务.
+* [Rpush](https://github.com/rpush/rpush) -Ruby的推送通知服务，它支持Apple推送通知服务，Google Cloud Messaging，Amazon Device Messaging和Windows Phone推送通知服务.
 * [webpush](https://github.com/zaru/webpush) -Web推送协议的加密实用程序.
 
 ## Optimizations
@@ -754,7 +754,7 @@
 *审核和版本控制
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) -ActiveRecord插件，可让您隐藏和还原记录，而无需实际删除它们.
   * [Audited](https://github.com/collectiveidea/audited) -已审核是ActiveRecord＆MongoMapper的ORM扩展，可将所有更改记录到模型中.
-  * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) -允许您“销毁”对象而不删除记录或相关记录.
+  * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
   * [Discard](https://github.com/jhawthorn/discard) -一个简单的ActiveRecord mixin，用于添加用于将记录标记为丢弃的约定.
   * [Logidze](https://github.com/palkan/logidze) -Rails的数据库更改日志.
   * [marginalia](https://github.com/basecamp/marginalia)  -将注释附加到您的ActiveRecord查询中. 默认情况下，它在每个查询的末尾添加应用程序，控制器和操作名称作为注释.
@@ -778,7 +778,7 @@
   * [Goldiloader](https://github.com/salsify/goldiloader) -自动ActiveRecord渴望加载.
 * 多租户
   * [Acts As Tennant](https://github.com/ErwinM/acts_as_tenant) -通过共享数据库策略向Rails应用添加多租户.
-  * [Apartment](https://github.com/influitive/apartment) - Multi-tenancy for Rails and ActiveRecord.
+  * [Apartment](https://github.com/influitive/apartment) -Rails和ActiveRecord的多租户.
   * [Milia](https://github.com/jekuno/milia) -Rails的非侵入式多租户，支持开箱即用的Devise身份验证.
 *社会
   * [Merit](https://github.com/merit-gem/merit) -以徽章，积分和ActiveRecord或Mongoid排名的形式向Rails应用添加信誉行为.
@@ -787,7 +787,7 @@
   * [Unread](https://github.com/ledermann/unread) -管理ActiveRecord对象的已读/未读状态-快速.
 *排序
   * [ActsAsList](https://github.com/swanandp/acts_as_list) -提供对列表中的多个对象进行排序和重新排序的功能.
-  * [ranked-model](https://github.com/mixonic/ranked-model) - A modern row sorting library for ActiveRecord. It uses ARel aggressively and is better optimized than most other libraries.
+  * [ranked-model](https://github.com/mixonic/ranked-model)  -ActiveRecord的现代行排序库. 它积极使用ARel，并且比大多数其他库更好地进行了优化.
 *树
   * [ActsAsTree](https://github.com/amerine/acts_as_tree) -扩展了ActiveRecord，以添加对将项目组织成父子关系的简单支持.
   * [Ancestry](https://github.com/stefankroes/ancestry) -使用物化路径模式的变体将ActiveRecord模型组织为树形结构.
@@ -844,7 +844,7 @@
 
 * [Bluepill](https://github.com/bluepill-rb/bluepill) -简单的过程监控工具.
 * [Eye](https://github.com/kostya/eye)  -过程监控工具. 受到Bluepill和God的启发.
-* [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
+* [Foreman](https://github.com/ddollar/foreman) -管理基于Procfile的应用程序.
 * [God](https://github.com/mojombo/god) -一个易于配置，易于扩展的用Ruby编写的监视框架.
 * [Health Monitor Rails](https://github.com/lbeder/health-monitor-rails) -可安装的Rails插件，用于检查Rails应用程序使用的服务（数据库，缓存，Sidekiq，Redis等）的运行状况.
 * [Procodile](https://github.com/adamcooke/procodile) -在Mac和Linux上，从Procfile在后台（和前台）运行进程.
@@ -923,6 +923,7 @@
 * [resque-scheduler](https://github.com/resque/resque-scheduler) -基于Resque的轻型作业计划系统.
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) -Ruby的作业调度程序（at，cron，in和每个作业）.
 * [Sidekiq-Cron](https://github.com/ondrejbartas/sidekiq-cron) -Sidekiq的调度附件.
+* [Simple Scheduler](https://github.com/simplymadeapps/simple_scheduler) -Heroku Scheduler + Sidekiq的增强功能，可以使用可读的YML文件在特定时间调度作业.
 * [Whenever](https://github.com/javan/whenever) -Ruby宝石，提供用于编写​​和部署cron作业的清晰语法.
 
 ## Scientific
@@ -932,9 +933,9 @@
   * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) -Ruby的OpenCV包装器.
 *分类器
   * [classifier-reborn](https://github.com/jekyll/classifier-reborn) -分类器的活动分支，以及允许贝叶斯分类和其他类型分类的通用模块.
-*数据分析/结构
+* Data analysis/structures
   * [daru](https://github.com/v0dro/daru) -用于在纯Ruby中存储，分析，处理和可视化数据的库.
-  * [Daru::View](https://github.com/SciRuby/daru-view) -一个库，可在Jupyter Notebook和Web应用程序上轻松进行交互式绘图.
+  * [Daru::View](https://github.com/SciRuby/daru-view) - A library for easy and interactive plotting on Jupyter Notebooks and web applications.
   * [Rgl](https://github.com/monora/rgl) -图形数据结构和算法的框架.
 *数值数组
   * [NMatrix](https://github.com/sciruby/nmatrix) -用于Ruby的快速数值线性代数库.
@@ -1052,7 +1053,7 @@
   * [Capybara](https://github.com/teamcapybara/capybara) -Web应用程序的验收测试框架.
   * [Cucumber](https://github.com/cucumber/cucumber) -BDD首先与领域专家交谈，然后与代码交谈.
   * [Cutest](https://github.com/djanowski/cutest) -Ruby中的隔离测试.
-  * [Howitzer](https://github.com/strongqa/howitzer) -基于Ruby的验收测试框架
+  * [Howitzer](https://github.com/strongqa/howitzer) - Ruby based framework for acceptance testing
   * [minitest](https://github.com/seattlerb/minitest) -minitest提供了一套完整的测试工具套件，支持TDD，BDD，模拟和基准测试.
   * [Mocha](https://github.com/freerange/mocha) -Mocha是Ruby的模拟和存根库.
   * [RR](https://github.com/rr/rr) -测试双重框架，具有多种双重技术和简洁语法的选择.

@@ -1,5 +1,7 @@
 <div class="github-widget" data-repo="love2d-community/awesome-love2d"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fmerge-chance.info%2Fbadge%3Frepo%3Dlove2d-community/awesome-love2d)
+
 社区驱动的高质量，超赞的分类收藏 [LÖVE](http://love2d.org) 库，项目和资源.
 
 
@@ -183,7 +185,7 @@
 ## Physics
 *碰撞检测和物理包装器*
 
-* [breezefield](https://github.com/HDictus/breezefield) -轻巧轻松的love.Physical包装器\ [windfield替代项]
+* [breezefield](https://github.com/HDictus/breezefield) -轻巧轻松的love.Physical包装器\ [windfield替代品\]
 * [Bump](https://github.com/kikito/bump.lua) -Lua的碰撞检测库
 * [HC](https://hc.readthedocs.io/en/latest/)  -任意多边形的碰撞检测； 允许物体旋转
 * [loveblobs](https://github.com/exezin/loveblobs) -支持动态和静态任意软件实体的软件库.
