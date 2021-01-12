@@ -19,8 +19,9 @@
 为技术带来多样性的组织.
 
 - [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) -该组织的任务是到2020年为100万妇女提供免费编码教育.提供免费（DIY）和付费（认证）课程.
-- [Algorithmic Justice League](https://www.ajlunited.org/) -旨在对抗算法偏差的集体.
+- [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
 - [AnyKey](https://www.anykey.org) -旨在帮助在游戏中为边缘化的游戏社区成员创造公平，包容的空间的组织.
+- [Black Compute HER](https://blackcomputeher.org/) -致力于支持黑人妇女和女孩的计算机技术教育和劳动力发展.
 - [Black Girls Code](http://www.blackgirlscode.com/) -致力于向世界展示黑人女孩可以编码的组织.
 - [Black Girl Gamers](http://blackgirlgamers.com)  -支持黑人女孩游戏玩家的安全空间. 也可在以下位置找到：
   - [Twitch](https://www.twitch.tv/blackgirlgamers)
@@ -51,11 +52,11 @@
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) -高科技有色人种的包容性公司列表.
 - [Hack The Hood](http://www.hackthehood.org/) -非营利组织，将有色人种的低收入青年介绍给技术职业.
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) -计划将年轻的黑人男性与成为高级企业家和技术人员所需的一切联系起来.
-- [Kapor Center](http://www.kaporcenter.org/) -Kapor家族组织致力于消除有代表性的有色人种对科学，技术，工程和数学（STEM）教育和科技职业的障碍.
+- [Kapor Center](http://www.kaporcenter.org/) -Kapor家族组织致力于消除有代表性的有色人种对科学，技术，工程与数学（STEM）教育和科技职业的障碍.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) -科技界的女同志社区是科技界内（或热爱她们的人）中的酷儿女性社区.
 - [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目受欢迎，包容且欣赏其贡献者的多样性.
 - [Open Source Diversity](https://opensourcediversity.org/) -开源多样性是一个社区，旨在收集资源，建立网络并进行协作，以实现更多的多样性并融入自由和开源软件社区.
-- [Open Sourcing Mental Illness](https://osmihelp.org/) -采购精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
+- [Open Sourcing Mental Illness](https://osmihelp.org/) -开源精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
 - [Out In Tech](https://outintech.com) -团结LGBTQ +技术社区的非营利组织.
 - [OpenCIDER](https://selgebali.gitbook.io/opencider/) -社区建设工作，以促进计算包容性并充当数字资产资源.
 - [ParadigmIQ](https://www.paradigmiq.com/) -范式提供一系列的研讨会，培训和评估，以帮助实现多样性，包容性，归属感，保留性等等.
@@ -63,7 +64,7 @@
 - [PHP Women](http://phpwomen.org) -一个包容性的全球网络，在PHP社区内提供支持.
 - [Ping A Programadoras](https://pingprogramadoras.org/) -一群妇女和非双性人，其目的是反映和增强技术领域的能力.
 - [Pink Programming](https://www.pinkprogramming.se) -一个非营利组织，为妇女，跨性别者和非二进制社区组织代码活动.
-- [Project Alloy](https://www.projectalloy.org/) -Alloy计划通过向职业生涯初期但技术代表不足的人提供财政补助和其他资源，来一次建立一个更具包容性的技术社区，一次会议.
+- [Project Alloy](https://www.projectalloy.org/) -合金计划通过向职业生涯初期但技术代表不足的人们提供财政补助和其他资源，来一次建立一个更具包容性的技术社区，一次会议.
 - [Project Include](http://projectinclude.org/) -使用数据和倡导来加速技术行业的多样性和包容性解决方案的非营利组织.
 - [PyLadies](http://www.pyladies.com/) -国际指导小组，致力于帮助更多女性成为Python开源社区的积极参与者和领导者.
 - [Q-Space](http://qhumanity.org/index.php/our-projects/q-space/) -位于中国北京的酷儿和女权主义制造者空间，提供了学习空间和社区为变革而采取的行动.
@@ -86,9 +87,9 @@
 - [Women Who Go](https://www.womenwhogo.org/) -致力于建立一个更加多元化和包容性的Golang社区的网络.
 - [Women Who Tech](https://www.womenwhotech.com/) -非营利组织，将才华横溢且享誉盛名的女性召集在一起，在技术领域开创新局面，以改变世界并激发变革.
 - [Wonder Women Tech](https://wonderwomentech.com/) -举办全年计划以及在STEAM（科学，技术，工程，艺术，数学），创新和企业家精神中强调，教育和庆祝妇女与多样性的国家和国际会议的组织.
-- [Write/Speak/Code](https://www.writespeakcode.com/) -501c3免税非营利组织，举办年度会议和聚会活动，旨在帮助您通过写作，演讲和开源完全拥有自己的专业知识.
+- [Write/Speak/Code](https://www.writespeakcode.com/) -501c3免税非营利组织，每年举办一次会议和聚会活动，旨在帮助您通过写作，演讲和开源完全拥有自己的专业知识.
 - [YesWeTech](http://yeswetech.org/) -女权主义社区致力于为对技术感兴趣的女性建立平等而自豪的文化.
-- [Natives in Tech](https://nativesintech.org) -Tech in Natives是由本机和非本机软件开发人员组成的联盟，其目标是支持增强本机信念，知识和身份的软件应用程序开发. 
+- [Natives in Tech](https://nativesintech.org) -Techs中的Natives是本机和非本机软件开发人员的联盟，其目标是支持增强本机信念，知识和身份的软件应用程序开发. 
 - [Brazilians in Tech](https://braziliansintech.com/)-科技领域的巴西人是第一个为从事数字技术工作或有兴趣的女性提供科学技术领域最相关机会的巴西平台.
 - [Latinas in computing](https://latinasincomputing.org/) -一个由拉丁裔在拉丁计算领域创建的社区，其宗旨是促进拉丁裔在计算相关领域的代表性和成功.
 - [Latinas in tech](https://www.latinasintech.org/)  -一个非营利组织，旨在联系，支持和增强从事技术工作的拉丁裔女性. 我们与顶尖技术公司携手合作，为学习，指导和招聘创造安全的空间.
@@ -101,7 +102,7 @@
 - [AlterConf](https://alterconf.com/) -AlterConf是一个旅行会议系列，为处于边缘地位的人们以及在技术和游戏行业中为他们提供支持的人们提供安全的机会.
 - [DDD Europe](https://dddeurope.com)  -欧洲域驱动设计专注于软件设计和建模. 他们为多样性和改善活动做出了惊人的承诺.
 - [Lambda World](http://www.lambda.world/)  -Lambda World是一个功能性编程会议，其思想是授权技术不足的少数群体. 在这种思维方式下，我们将采取一些行动，例如创建用于支付门票和住宿的补助金，举办包容性研讨会，以及通过提供旅游活动使个人更难以离开家人，从而使会议更容易进行，婴儿床和婴儿推车.
-- [PyMCon](https://pymc-devs.github.io/pymcon//) -PyMCon是由PyMC社区组织的，针对贝叶斯社区的异步优先虚拟会议，特别强调从组委会到参与者的多样性和包容性.
+- [PyMCon](https://pymc-devs.github.io/pymcon//) -PyMCon是由PyMC社区组织的，针对贝叶斯社区的异步优先虚拟会议，特别强调从组委会到与会者的多样性和包容性.
 - [REFACTR.TECH](https://www.refactr.tech) -REFACTR.TECH专注于技术，同时为围绕技术的多样性，包容性和交叉性的思想细腻而微妙的对话提供了安全的空间.
 
 ## Ally Resources
@@ -121,9 +122,9 @@
 - [10 Actionable Ways To Actually Increase Diversity In Tech](https://www.fastcompany.com/3041339/10-commitments-that-will-make-a-difference-in-increasing-diversity-in-tec) -凯瑟琳·阿什克拉夫特（Catherine Ashcraft）.
 - [Bias and Hiring: How We Hire UX Researchers](https://medium.com/firefox-ux/bias-and-hiring-how-we-hire-ux-researchers-6f9db9f8d670) -莎朗·包蒂斯塔（Sharon Bautista）.
 - [Bootstrapping Inclusion](http://www.attack-gecko.net/2017/10/22/bootstrapping-inclusion/) -杰森·王（Jason Wong）.
-- [Building Inclusive Communities](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba) - By Karolina Szczur.
+- [Building Inclusive Communities](https://medium.com/@fox/building-inclusive-communities-232dc01d1aba) -Karolina Szczur.
 - [Dev Team Diversity #Realtalk](https://www.devmynd.com/blog/2015-08-09-dev-team-diversity-realtalk/) - By Sarah Mei.
-- [Fundamentals of Effective Allyship](https://medium.com/@fox/fundamentals-of-effective-allyship-468bd0afe89b) - By Karolina Szczur.
+- [Fundamentals of Effective Allyship](https://medium.com/@fox/fundamentals-of-effective-allyship-468bd0afe89b) -Karolina Szczur.
 - [Gender Decoder For Job Ads](http://gender-decoder.katmatfield.com/) -Kat Matfield.
 - [How A Common Interview Question Fuels The Gender Pay Gap (And How To Stop It)](https://www.nytimes.com/2018/05/01/upshot/how-a-common-interview-question-fuels-the-gender-pay-gap-and-how-to-stop-it.html) -克莱尔·凯恩·米勒（Claire Cain Miller）.
 - [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) -迈克尔·舒尔茨（Michael Schultz）.
@@ -156,7 +157,7 @@
 关于技术多样性和包容性的文章和帖子.
 
 - [100 Women In Tech And Founders To Follow On Twitter](https://medium.com/athena-talks/100-women-in-tech-and-founders-to-follow-on-twitter-f98560b1a3c7) -艾莉森·卡平（Allyson Kapin）.
-- [30+ Diversity And Inclusion Activists And Organisations I Look Up To](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) - By Karolina Szczur.
+- [30+ Diversity And Inclusion Activists And Organisations I Look Up To](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) -Karolina Szczur.
 - [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) -法鲁克·阿泰斯（FarukAteş）.
 - [A Counterintuitive Way To Increase Diversity In Tech](https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50) -Rachel Nabors.
 - [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) -斯蒂芬·特尔班（Stephen Turban），劳拉·弗里曼（Laura Freeman）和本·瓦伯（Ben Waber）.
@@ -177,11 +178,11 @@
 - [Getting Free Of Toxic Tech Culture](https://blog.valerieaurora.org/2018/01/17/getting-free-of-toxic-tech-culture/) -Valerie Aurora和Susan Wu.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) -由
 Will Evans和Sinduja Rangarajan.
-- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) -玛丽亚·阿里亚斯·德·雷纳·多明格斯（MaríaArias de ReynaDomínguez）.
+- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) -作者：玛丽亚·阿里亚斯·德·雷纳·多明格斯（MaríaArias de ReynaDomínguez）.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) -Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) -温迪·李
 - [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) -AndréArko.
-- [How To Maintain A Predominantly White Workplace](https://qz.com/work/1334187/how-to-maintain-a-predominantly-white-workplace/) -Leniece Flowers Brissett.
+- [How To Maintain A Predominantly White Workplace](https://qz.com/work/1334187/how-to-maintain-a-predominantly-white-workplace/) - By Leniece Flowers Brissett.
 - [I'm Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) -Diane Rubino.
 - [If You Can't Find A Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) -Avivah Wittenberg-Cox.
 - [If You Think Women In Tech Is Just A Pipeline Problem, You Haven't Been Paying Attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) -Rachel Thomas.
@@ -261,7 +262,7 @@ Will Evans和Sinduja Rangarajan.
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/folkswhocode/awesome-diversity/blob/master/.github/CONTRIBUTING.md) 更多细节. 在这里，您可以按字母顺序 [list of contributors](https://github.com/folkswhocode/awesome-diversity/blob/master/CONTRIBUTORS.md) 该存储库.
+请参阅 [CONTRIBUTING](https://github.com/folkswhocode/awesome-diversity/blob/master/.github/CONTRIBUTING.md) 更多细节. 在这里，您可以按字母顺序 [list of contributors](https://github.com/folkswhocode/awesome-diversity/blob/master/CONTRIBUTORS.md) 该存储库.
 
 ----------------------------
 

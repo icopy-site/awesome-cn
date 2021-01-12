@@ -97,7 +97,7 @@
 * [Bitcoin-S](https://bitcoin-s.org) -用于比特币应用程序的Scala / JVM工具包，包括比特币数据结构，交易签名，强类型化的`bitcoind` / Eclair RPC客户端等.
 
 ## .Net Libraries
-* [NBitcoin](https://github.com/MetacoSA/NBitcoin).NET框架的综合比特币库.
+* [NBitcoin](https://github.com/MetacoSA/NBitcoin) -用于.NET框架的综合比特币库.
 * [BitcoinLib](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 * [QBitNinja](https://github.com/MetacoSA/QBitNinja) -开源且功能强大的区块链API.
 

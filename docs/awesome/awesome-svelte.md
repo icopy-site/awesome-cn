@@ -65,7 +65,7 @@ _关于Svelte框架的研究和研究.
 
 ### Preprocessing
 
-- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) -具有合理默认值的预处理器，并支持：PostCSS，SCSS，Less，Stylus，Coffeescript，TypeScript，Pug等.
+- [svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) -用于PostCSS，SCSS，Less，Stylus，Coffeescript，TypeScript，Pug等的预处理器.
 - [MDSveX](https://github.com/pngwn/MDsveX) -用于MDX降价的预处理器.
 - [svelte-preprocess-markdown](https://github.com/AlexxNB/svelte-preprocess-markdown) -用markdown语法编写Svelte组件.
 - [svelte-preprocess-less](https://github.com/ls-age/svelte-preprocess-less) -更少的预处理器.
@@ -90,7 +90,7 @@ _关于Svelte框架的研究和研究.
 
 _表和数据网格.
 
-- [svelte-table](https://github.com/dasDaniel/svelte-table) -允许排序和过滤的表实现.
+- [svelte-table](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
 - [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) -具有CRUD功能的对象数组的不可知Web组件.
 
 #### Notification
@@ -170,14 +170,13 @@ _模板/样板/种子/入门工具包/堆栈合奏/ Yeoman generator._
 
 #### Client
 
-_Render Svelte application in the browser only._
+_仅在浏览器中渲染Svelte应用程序.
 
 - [sveltejs/template](https://github.com/sveltejs/template) -用于使用汇总构建基本应用程序的模板.
 - [component-template](https://github.com/sveltejs/component-template) -建立可共享组件的基础.
 - [svelte-component-template](https://github.com/YogliB/svelte-component-template) -建立可共享组件的基础.
 - [svelte-pwa-template](https://github.com/tretapey/svelte-pwa) -基于官方模板的PWA入门模板.
 - [svelte-redux-toolkit](https://github.com/Ghosts/svelte-redux-toolkit) -集成Redux-Toolkit的入门模板.
-- [svelte-ts-eslint-tailwind](https://github.com/toerndev/svelte-ts-eslint-tailwind) -用于将ESLint，Jest和Tailwind CSS添加到官方TypeScript模板的入门模板和教程.
 - [svelte-ts-eslint-prettier-template](https://github.com/NicoCevallos/svelte-template) -启动了TS的入门模板，并且ESLint和Prettier一起工作.
 
 #### Universal
@@ -188,11 +187,8 @@ _SSR框架.
 - [sapper-template#webpack](https://github.com/sveltejs/sapper-template/tree/webpack) -默认的Sapper模板，可用于Webpack.
 - [sapper-firebase-typescript-graphql-tailwindcss-actions-template](https://github.com/babichjacob/sapper-firebase-typescript-graphql-tailwindcss-actions-template) -模板，包括Sapper，Firebase函数和托管，TypeScript和TypeGraphQL，Tailwind CSS，ESLint，以及使用GitHub Actions自动构建和部署.
 - [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) -带有mdsvex的默认Sapper模板.
-- [sapper-postcss-template](https://github.com/babichjacob/sapper-postcss-template) -包含Sapper和PostCSS预处理以及Tailwind CSS的模板.
 - [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) -带有Tailwind CSS的默认Sapper模板.
-- [sapper-template-firebase](https://github.com/nhristov/sapper-template-firebase) -具有Firebase功能，PostCSS，PurgeCSS，CSSNano，Tailwind CSS和苗条预处理的Sapper应用程序的Starter Rollup模板.
 - [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) -包含Sapper，TypeScript预处理和通过TypeGraphQL的GraphQL服务器的模板.
-- [SENT-template](https://github.com/Zimtir/SENT-template) -SENT（Sapper Express节点模板）和其他工具.
 
 ## Dev Tools
 

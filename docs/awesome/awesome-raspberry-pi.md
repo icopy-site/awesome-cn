@@ -7,7 +7,7 @@
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
-> The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Official Link: [Raspberry Pi Homepage](https://raspberrypi.org)
+ &gt; Raspberry Pi是Raspberry Pi基金会在英国开发的一系列信用卡大小的单板计算机，旨在促进学校和发展中国家的基础计算机科学教学. 官方链接： [Raspberry Pi Homepage](https://raspberrypi.org)
 
 此列表是符合以下要求的工具，项目，图像和资源的集合： [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
@@ -65,6 +65,7 @@
 - [OpenELEC](http://openelec.tv/) -打开嵌入式Linux娱乐中心，这是一种非常轻便的Kodi版本.
 - [OpenHABian](https://docs.openhab.org/installation/openhabian.html) -OpenHAB家庭自动化软件的预配置版本. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [OpenMediaVault](https://www.openmediavault.org/) -OpenMediaVault是基于Debian Linux的下一代网络附加存储（NAS）解决方案，其中包含SSH，（S）FTP，SMB / CIFS，DAAP媒体服务器，RSync，BitTorrent客户端等服务. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [openSUSE](https://en.opensuse.org/HCL:Raspberry_Pi)  -openSUSE是主要的Linux发行版本，其映像基于其稳定发行版Leap和滚动发行版Tumbleweed. 可以找到许多Pi的图片，包括 [Raspberry Pi 3](https://en.opensuse.org/HCL:Raspberry_Pi3) 和 [Raspberry Pi 4](https://en.opensuse.org/HCL:Raspberry_Pi4). 
 - [OpenWRT](https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi) -OpenWrt被描述为用于网络管理的嵌入式设备的Linux发行版.
 - [OSMC](https://osmc.tv/) -基于Kodi的开源媒体中心.
 - [PiDeck](http://pideck.com/) -小型DVS系统，可让您使用时间码乙烯基控制数字音乐文件.
@@ -154,11 +155,11 @@
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) -设置Pi Zero，以扫描WiFi网络上的设备，并使用它来确定谁是“家”.
 - [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) -由Raspberry Pi驱动的Nixie Tube Clock.
 - [Occu-Pi](https://github.com/bww/occu-pi) -用于Occu-pi的控制器软件，这是一款非常出色的浴室门传感器.
-- [P4wnP1](https://github.com/mame82/P4wnP1) -P4wnP1是一个高度可定制的USB攻击平台，基于低成本的Raspberry Pi Zero或Raspberry Pi Zero W（HID后门所需）. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [P4wnP1](https://github.com/mame82/P4wnP1) -P4wnP1是一个高度可定制的USB攻击平台，基于低成本的Raspberry Pi Zero或Raspberry Pi Zero W（HID后门需要）. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) -捕获与Google IOT Cloud Platform生态系统集成的图像.
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) -基于RFID的支付模块.
 - [Pi-hole](https://pi-hole.net/) -互联网广告的黑洞.
-- [Pi-KVM](https://github.com/pikvm/pikvm) DIY KVM over IP，可通过Web UI或VNC管理带有FullHD视频，鼠标，虚拟驱动器，IPMI，LAN唤醒和许多其他功能的远程计算机.
+- [Pi-KVM](https://github.com/pikvm/pikvm) 通过IP的DIY KVM，可通过Web UI或VNC管理带有FullHD视频，鼠标，虚拟驱动器，IPMI，LAN唤醒和许多其他功能的远程计算机.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) -Rclone远程存储服务等提供的远程无头多功能PiCamera操作.
 - [Pi4j Project](http://pi4j.com) -Raspberry Pi的Java I / O库.
 - [PiAware](https://uk.flightaware.com/adsb/piaware/install) -使用Raspberry Pi进行实时飞行跟踪.
@@ -168,7 +169,7 @@
 - [PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) -使用Raspberry Pi的FM-RDS发射机.
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) -使用Raspberry PI + EAN扫描器临时制作Amazon Dash订单.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) -Node.js Slackbot（午餐机器人），托管在Resin上.
-- [PoisonTap](https://github.com/samyk/poisontap) -通过USB利用锁定/受密码保护的计算机，使用基于Raspberry Pi Zero和Node.js的基于WebSocket的持久后门，暴露内部路由器并虹吸cookie. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [PoisonTap](https://github.com/samyk/poisontap) -使用Raspberry Pi Zero和Node.js通过USB利用锁定/受密码保护的计算机，丢弃基于WebSocket的持久后门，公开内部路由器，并虹吸cookie. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) -封闭在配电盘中，嗅探网络数据.
 - [Project MyHouse](https://maxoffsky.com/research-progress/project-myhouse-a-smart-dollhouse-with-gesture-recognition/) -使用Raspberry Pi 3或Pi Zero和PSMove运动控制器，具有手势识别功能的智能娃娃屋.
 - [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) -Raspberry Pi 2上的Erlang集群.
@@ -210,7 +211,7 @@
 -** TeamViewer **-在旅途中远程进入Raspberry Pi！ [Android](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile)
 -** Termius **-Pi最干净的SSH客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)
 -** Tubio **-将网络视频直接投射到Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)
--** Turbo FTP **-一个很好的FTP客户端应用程序，用于访问树莓派上的文件. [Android](https://play.google.com/store/apps/details?id=turbo.client)
+- **Turbo FTP** - A good FTP client app for accessing files on raspberry. [Android](https://play.google.com/store/apps/details?id=turbo.client)
 -** VNC Viewer **-远程控制Raspberry Pi桌面. [Android](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en)
 
 ### Articles
@@ -247,6 +248,7 @@
 - [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) -设置pi0，使其能够通过USB进行ssh和vnc. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) -有关在多个网络上使用Raspberry Pi的教程.
 - [Use a Raspberry Pi with Netflix](https://thepi.io/how-to-watch-netflix-on-the-raspberry-pi/) -在Raspberry Pi上观看Netflix的教程.
+- [Using openSUSE's YaST on the Raspberry Pi](https://www.raspberry-pi-geek.com/Archive/2017/22/Using-openSUSE-s-YaST-on-the-Raspberry-Pi).
 
 ### Swift programming
 
@@ -267,6 +269,7 @@
 - [Novaspirittech on YouTube](https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
 - [Official Blog](https://www.raspberrypi.org/blog/)
 - [Official Forum](https://www.raspberrypi.org/forums/)
+- [openSUSE arm Mailing list](https://lists.opensuse.org/archives/list/arm@lists.opensuse.org/)
 - [Raspberry Pi Jam — Official conferences](https://www.raspberrypi.org/jam/)
 - [Reddit Projects](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS)
 - [Reddit](https://www.reddit.com/r/raspberry_pi)

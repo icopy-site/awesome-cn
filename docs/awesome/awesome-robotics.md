@@ -32,7 +32,11 @@
 * [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) **库尔塞拉**
 * [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) ** edx **
 * [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) **加州大学伯克利分校**
-
+* [Building Arduino robots and devices](https://www.coursera.org/learn/arduino) **库尔塞拉**
+* [Introduction to The Robot Operating System (ROS2)](https://www.coursera.org/projects/ros2-intro) **库尔塞拉**
+* [Modern Robotics: Mechanics, Planning, and Control Specialization](https://www.coursera.org/specializations/modernrobotics) **库尔塞拉**
+* [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) ** Udacity **
+* [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **加州大学伯克利分校**
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  ：美元：
@@ -62,7 +66,7 @@
 机器人操作系统（ROS）是用于编写机器人软件的灵活框架. 它是工具，库和约定的集合，旨在简化跨各种机器人平台创建复杂而强大的机器人行为的任务.
 
 [**ROS2**](https://index.ros.org/doc/ros2/)
-ROS2是ROS的新版本，它对设计进行了根本性的更改，并对旧版ROS进行了改进.
+ROS2是ROS的新版本，它对设计进行了根本性的更改，并对旧ROS版本进行了改进.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
  RobWork是C ++库的集合，用于仿真和控制机器人系统.  RobWork用于研究和教育以及实际的机器人应用.
@@ -201,6 +205,8 @@ DARPA机器人挑战赛决赛中的Atlas机器人]（https://www.cs.cmu.edu/~cga
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 * [Linorobot](https://linorobot.org/) 一套兼容DIY ROS的机器人
+* [Hexapod Robot Simulator](https://github.com/mithi/hexapod) -解决和可视化网络中的六足机器人逆运动学和步态
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) -Python中各种机器人算法的实现
 
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)

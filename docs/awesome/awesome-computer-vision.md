@@ -11,6 +11,52 @@
 
 
 
+## Awesome Lists
+ - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+ - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+ - [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
+ - [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
+ - [Awesome 3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
+ - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+ - [Awesome Scene Understanding](https://github.com/bertjiazheng/awesome-scene-understanding)
+ - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+ - [Awesome Adversarial Deep Learning](https://github.com/chbrian/awesome-adversarial-examples-dl)
+ - [Awesome Face](https://github.com/polarisZhao/awesome-face)
+ - [Awesome Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+ - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
+ - [Awesome medical imaging](https://github.com/fepegar/awesome-medical-imaging)
+ - [Awesome Images](https://github.com/heyalexej/awesome-images)
+ - [Awesome Graphics](https://github.com/ericjang/awesome-graphics)
+ - [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)
+ - [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations)
+ - [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
+ - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+ - [Awesome Dataset Tools](https://github.com/jsbroks/awesome-dataset-tools)
+ - [Awesome Robotics Datasets](https://github.com/sunglok/awesome-robotics-datasets)
+ - [Awesome Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
+ - [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+ - [Awesome Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai)
+ - [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+ - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+ - [Awesome Video Text Retrieval](https://github.com/danieljf24/awesome-video-text-retrieval)
+ - [Awesome Image-to-Image Translation](https://github.com/weihaox/awesome-image-translation)
+ - [Awesome Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
+ - [Awesome Deep HDR](https://github.com/vinthony/awesome-deep-hdr)
+ - [Awesome Video Generation](https://github.com/matthewvowels1/Awesome-Video-Generation)
+ - [Awesome GAN applications](https://github.com/nashory/gans-awesome-applications)
+ - [Awesome Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)
+ - [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
+ - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+ - [Awesome Machine Learning in Biomedical(Healthcare) Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
+ - [Awesome Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+ - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
+ - [Awesome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
+ - [Awesome Vision + Language](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
+ - [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
+ - [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+ - [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
+ - [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
+
 ## Books
 
 #### Computer Vision
@@ -36,7 +82,7 @@
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) -2007年Christopher M.Bishop
 * [Neural Networks for Pattern Recognition](http://www.engineering.upm.ro/master-ie/sacpi/mat_did/info068/docum/Neural%20Networks%20for%20Pattern%20Recognition.pdf) -克里斯托弗·M·毕晓普1995
 * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) -Daphne Koller和Nir Friedman 2009
-* [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) -彼得·哈特（Peter E.
+* [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) -彼得·E·哈特（Peter E.Hart），大卫·史托克（David G.Stork）和理查德·奥·达（Richard O.Duda）2000
 * [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) 汤姆·米切尔1997
 * [Gaussian processes for machine learning](http://www.gaussianprocess.org/gpml/) -卡尔·爱德华·拉斯穆森和克里斯托弗·基·威廉姆斯2005
 * [Learning From Data](https://work.caltech.edu/telecourse.html)-Yaser S.Abu-Mostafa，Malik Magdon-Ismail和Hsuan-Tien Lin 2012
@@ -151,7 +197,7 @@
 
 #### Internet Vision
  * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) -Noah Snavely（康奈尔大学）2011
- * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) -2014年（康奈尔大学）诺亚·斯内维利（Noah Snavely）
+ * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) -2014年（康奈尔大学）诺亚·斯内维利
  * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) -史蒂夫·塞茨（华盛顿大学）2013
 
 #### Computational Photography
@@ -295,7 +341,7 @@ BM3D，KSVD，
  * [Multi-frame image super-resolution](http://www.robots.ox.ac.uk/~vgg/software/SR/)
     *皮卡，多帧图像超分辨率的LC机器学习，博士学位论文2008
  * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
-     * W. T. Freeman和C. Liu. 马尔可夫随机场用于超分辨率和纹理合成. 摘自A. Blake，P.Kohli和C. Rother编，《视觉和图像处理的马尔可夫随机场的进展》，第10章，麻省理工学院出版社，2011年
+     * W. T. Freeman和C. Liu. 马尔可夫随机场用于超分辨率和纹理合成. 参见A. Blake，P.Kohli和C. Rother编，《视觉和图像处理的马尔可夫随机场的进展》，第10章，麻省理工学院出版社，2011
  * [Sparse regression and natural image prior](https://people.mpi-inf.mpg.de/~kkim/supres/supres.htm)
      * KI Kim和Y. Kwon，“使用稀疏回归和自然图像先验的单图像超分辨率”，IEEE Trans. 模式分析和机器智能，第一卷.  32号 6，第1127-1133页，2010年.
  * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
