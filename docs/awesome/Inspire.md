@@ -13,6 +13,7 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 * [Dribbble](https://dribbble.com/) -来自一群才华横溢的人的图标，涂鸦，网站等等的快照.
 * [Siiimple](https://siiimple.com/) -另一个网站列表，但简单得多.
 * [Httpster](http://httpster.net/) -精选的Internet上最佳站点列表.
+* [SaaS Pages](https://saaspages.xyz) -对Netlify页面的检查特别是为您带来灵感.
 * [siteInspire](http://www.siteinspire.com/) - 获得灵感.
 * [Designer News](https://www.designernews.co/) -来自“网络”的最佳设计/开发链接.
 * [CSS Winner](http://www.csswinner.com/) -审查了很棒的网站列表.
@@ -26,6 +27,7 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 <h5>这些站点非常适合为该站点构建基本框架.</h5>
 
 *颜色
+  * [ColorsWall](https://colorswall.com/) -存放调色板的地方.
   * [Coolors](https://coolors.co/) -超级快速的配色方案生成器.
   * [Kuler](https://color.adobe.com/) -轻松为您的网站创建或查看自定义色样.
   * [uiGradients](https://uigradients.com/) -华丽的渐变发生器.
@@ -44,11 +46,12 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 * [Flat UI](http://designmodo.github.io/Flat-UI/)  -出色的HTML和CSS平面设计框架. 是果汁.
 * [CSS2Stylus](http://css2stylus.com) -将CSS转换为手写笔.
 * [YMNNJQ](http://youmightnotneedjquery.com)  -请参阅自然JS中的jQuery函数. 没有图书馆.
-* [User Inter Faces](http://uifaces.com) -获取用户图像的ipsum图像.
+* [User Inter Faces](http://uifaces.com) - Get ipsum images for user images.
 * 图片
   * [AllTheFreeStock](http://allthefreestock.com/) -所有免费库存图片，视频，声音和图标都集中在一个位置.
   * [TheStocks.im](http://thestocks.im) -很棒的图片网站的集合.
   * [Unsplash](https://unsplash.com) -免费的高品质库存图片.
+* [MinWiz](https://minwiz.com/) -用于最小，可行，美观，可投入生产的网站的入门套件.
 
 ## Tools
 <h5>每个画家都需要一支刷子. 好吧...大多数.</h5>
@@ -59,6 +62,7 @@ Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
     * [Predawn](https://github.com/jamiewilson/predawn) -华丽的深色界面和语法主题.
 * [Atom](https://atom.io) -21世纪可入侵的文本编辑器.
 * [Brackets](http://brackets.io/) -具有实时预览功能的现代开放源代码编辑器.
+* [VSCode](https://code.visualstudio.com/) -免费文本编辑器
 * [Hyper](https://hyper.is) -美观，可扩展的命令行界面
 * [FileZilla](https://filezilla-project.org) -对于那些在终端中担心FTP的人.
 * [WinSCP](http://winscp.net) -将文件上传到MEAN堆栈或VPS服务器.

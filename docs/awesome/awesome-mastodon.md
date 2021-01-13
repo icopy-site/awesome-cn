@@ -6,7 +6,7 @@
 
 &gt;与Mastodon相关的内容精选清单！
 
- ** Mastodon是世界上最大的免费，开源，分散式微博网络**. 见 [Official](#official) 类别以了解有关网络的更多信息.
+ ** Mastodon是世界上最大的免费，开源，去中心化微博网络**. 见 [Official](#official) 类别以了解有关网络的更多信息.
 
 
 
@@ -33,6 +33,7 @@
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) -Mastodon和Pleroma的替代Web客户端，具有类似Twitter的界面.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) -Mastodon的极简主义，无JS Web客户端.
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) -适用于iOS的Mastodon客户端.
+* [Sengi](https://nicolasconstant.github.io/sengi/) -适用于Mastodon和Pleroma的面向桌面的Webapp，专注于多帐户使用.
 
 ## Federated servers
 
@@ -60,6 +61,7 @@
 * [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) -书签以标记当前页面（[source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
 * [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) -将远程关注/互动按钮上的点击重定向到您自己的实例（[source code](https://github.com/rugk/mastodon-simplified-federation)).
 * [Fediverse Explorer](https://fediverse.0qz.fun/) -每小时更新一次热门话题标签和流行嘟嘟声.
+* [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net)  -书签以嘟嘟您当前正在听的音乐. 适用于YouTube.  （[source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
 
 
 ## User styles
@@ -105,7 +107,7 @@
 * [@artefr@mamot.fr](https://mamot.fr/@artefr) - 艺术.
 * [@datagueule@framapiaf.org](https://framapiaf.org/@datagueule) -DATA Gueule.
 * [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - 世界.
-* [@libe@mamot.fr](https://mamot.fr/@libe) - 释放.
+* [@libe@mamot.fr](https://mamot.fr/@libe) - 发布.
 * [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) -链鸭.
 * [@lefigaro@mastodon.xyz](https://mastodon.xyz/@lefigaro) -费加罗报
 * [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - 天.

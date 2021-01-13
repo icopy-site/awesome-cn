@@ -121,7 +121,6 @@
 - [jss](https://github.com/cssinjs/jss) -CSS创作工具
 - [aphrodite](https://github.com/Khan/aphrodite) -与框架无关的CSS-in-JS，支持服务器端渲染，浏览器前缀和最少的CSS生成
 
-
 ##### React Routing
 
 - [react-router](https://github.com/ReactTraining/react-router) -React的声明式路由
@@ -148,7 +147,7 @@
 - [rsuite](https://github.com/rsuite/rsuite) -一套React组件
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -Atlassian的官方UI库，根据Atlassian设计指南构建.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
-- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，包含50多个具有材质，自举和自定义主题的组件.
+- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，其中包含50多个具有材质，引导程序和自定义主题的组件.
 - [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
 - [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
 - [rbx](https://github.com/dfee/rbx) -React的综合Bulma UI框架
@@ -218,37 +217,37 @@
 
 ##### React Libraries
 
-- [react-border-wrapper - A wrapper for placing elements along div borders in React.](https://github.com/Metroxe/react-border-wrapper)
-- [react-magic - Automatically AJAXify plain HTML with the power of React](https://github.com/reactjs/react-magic)
-- [react-toolbox - A set of React components implementing Google's Material Design specification](https://github.com/react-toolbox/react-toolbox)
-- [tcomb-react - Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
-- [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
-- [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
-- [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](https://github.com/touchstonejs/touchstonejs)
-- [Elemental - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
-- [StateTrooper - Centrally manage state for React applications with CSP](https://github.com/swipely/state-trooper)
-- [Preact: Fast 3kb React alternative with the same ES6 API.](https://git.io/preact)
-- [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
-- [Maple.js - Bringing the concept of web-components to React](https://github.com/Wildhoney/Maple.js)
-- [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
-- [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
+- [react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) -一个包装，用于在React中沿div边界放置元素.
+- [react-magic](https://github.com/reactjs/react-magic) -利用React的功能自动AJAXify普通HTML
+- [react-toolbox](https://github.com/react-toolbox/react-toolbox) -一组实现Google的Material Design规范的React组件
+- [tcomb-react](https://github.com/gcanti/tcomb-react) -库允许您检查React组件的所有道具
+- [react-responsive](https://github.com/wearefractal/react-responsive) -响应媒体查询以进行响应式设计
+- [react-cursor](https://github.com/dustingetz/react-cursor) -与Facebook React一起使用的功能状态管理抽象
+- [Touchstonejs](https://github.com/touchstonejs/touchstonejs) -由React.js驱动的UI框架，用于开发漂亮的混合移动应用程序.
+- [Elemental](http://elemental-ui.com/) -用于React.js网站和应用程序的UI工具包
+- [StateTrooper](https://github.com/swipely/state-trooper) -使用CSP集中管理React应用程序的状态
+- [Preact](https://git.io/preact) -具有相同ES6 API的快速3kb React替代方案.
+- [riotjs](https://github.com/muut/riotjs) -一个类似React的3.5KB用户界面库
+- [Maple.js](https://github.com/Wildhoney/Maple.js) -将Web组件的概念引入React
+- [react-i13n](https://github.com/yahoo/react-i13n) -高性能，可扩展和可插拔的方法来检测您的React应用程序
+- [react-icons](https://github.com/gorangajic/react-icons) -svg反应常用图标包的图标
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) -很棒的免费插图作为反应成分.
-- [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
-- [Bit - A virtual repository for managing and using react and other web components across applications](https://github.com/teambit/bit)
-- [AtlasKit - Atlassian's React UI library](https://atlaskit.atlassian.com/)
-- [ReactiveSearch - UI components library for Elasticsearch](https://github.com/appbaseio/reactivesearch)
-- [Slate - A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate)
-- [react-json-schema - Construct React elements from JSON by mapping JSON definitions to React components that you expose.](https://github.com/TechniqueSoftware/react-json-schema)
-- [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
-- [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
-- [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
-- [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
-- [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibility in separation of concerns for your React applications](https://github.com/Autodesk/clearx)
+- [Keo](https://github.com/Wildhoney/Keo) -普通函数，用于创建React组件的更具功能性的Deku方法，并具有管道，备忘录等功能性功能.
+- [Bit](https://github.com/teambit/bit) -虚拟仓库，用于跨应用程序管理和使用React和其他Web组件
+- [AtlasKit](https://atlaskit.atlassian.com/) -Atlassian的React UI库
+- [ReactiveSearch](https://github.com/appbaseio/reactivesearch) -Elasticsearch的UI组件库
+- [Slate](https://github.com/ianstormtaylor/slate) -用于构建富文本编辑器的完全可自定义的框架.
+- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) -通过将JSON定义映射到您公开的React组件，从JSON构造React元素.
+- [compose-state](https://github.com/tvler/compose-state) -在React中编写多个setState或getDerivedStateFromProps更新器
+- [react-lodash](https://github.com/typicode/react-lodash) -Lodash作为React组件
+- [react-helmet](https://github.com/nfl/react-helmet) -React的文档主管
+- [Stator](https://github.com/cs01/stator) -简单，简单的JavaScript状态管理，内置对React的支持
+- [ClearX](https://github.com/Autodesk/clearx)  -零学习曲线的快速，轻松状态管理.  ClearX为React应用程序的关注点分离提供了极大的灵活性
 - [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态预呈现
 - [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
 - [refract](https://github.com/fanduel-oss/refract) -利用反应式编程的力量为您的组件增压
-- [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
-- [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
+- [react-desktop](https://github.com/gabrielbull/react-desktop) -使用React构建的OS X和Windows UI组件
+- [Reapop](https://github.com/LouisBarranqueiro/reapop) -一个React＆Redux通知系统
 - [react-extras](https://github.com/sindresorhus/react-extras) -使用React的有用组件和实用程序
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) -通过Algolia快速搜索React和React Native应用程序
 - [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
@@ -262,60 +261,60 @@
 - [ReasonReact](https://reasonml.github.io/reason-react/)
 - [React Rails](https://github.com/reactjs/react-rails)
 - [ReactJS.NET](https://github.com/reactjs/React.NET)
-- [om - ClojureScript interface](https://github.com/swannodette/om)
-- [Reagent - A minimalistic ClojureScript interface to React.js](https://github.com/reagent-project/reagent)
+- [om](https://github.com/swannodette/om) -ClojureScript界面
+- [Reagent](https://github.com/reagent-project/reagent) -React.js的简约ClojureScript接口
 - [Express React views](https://github.com/reactjs/express-react-views)
 - [React Page Middleware](https://github.com/reactjs/react-page-middleware)
-- [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
-- [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
-- [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
-- [react-kup - A simple, non-intrusive alternative to jsx for coffeescript](https://github.com/snd/react-kup)
-- [turbo-react - Combine Turbolinks and React to apply DOM diffs](https://github.com/ssorallen/turbo-react)
-- [react-bacon - A little module for using React with Bacon.js](https://github.com/jamesmacaulay/react-bacon)
-- [msx - React's JSX Transformer, tweaked to output calls to Mithril](https://github.com/insin/msx)
-- [React.withBackbone - React 16 ready backbone binding](https://github.com/beanworks/React.withBackbone)
+- [ngReact](https://github.com/davidchang/ngReact) -Angular中的React组件
+- [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) -为Coffeescript提供React JSX支持
+- [sprockets-coffee-react](https://github.com/jsdf/sprockets-coffee-react) -CJSX的链轮预处理器
+- [react-kup](https://github.com/snd/react-kup) -用于咖啡脚本的jsx的简单，非侵入式替代方法
+- [turbo-react](https://github.com/ssorallen/turbo-react) -结合Turbolinks和React来应用DOM差异
+- [react-bacon](https://github.com/jamesmacaulay/react-bacon) -一个用于在Bacon.js中使用React的小模块
+- [msx](https://github.com/insin/msx) -React的JSX变形金刚，已调整为输出对秘银的调用
+- [React.withBackbone](https://github.com/beanworks/React.withBackbone) -React 16准备好主干绑定
 - [Backbone React Component](https://github.com/magalhas/backbone-react-component)
-- [react-backbone - Backbone-aware mixins for react](https://github.com/jhudson8/react-backbone)
-- [NestedReact - transparent integration with Backbone Views and NestedTypes models](https://github.com/Volicon/NestedReact/)
-- [backbone-reaction - React, Backbone and then some](https://github.com/jhudson8/backbone-reaction)
-- [react.backbone - Plugin for React to make Backbone migration easier](https://github.com/usepropeller/react.backbone)
-- [reactbone - React extensions for Backbone](https://github.com/andrejewski/reactbone)
-- [backbone-react-ui - React components for use with backbone and backbone paginator](https://github.com/securingsincity/backbone-react-ui)
-- [react-events - Declarative managed event bindings for react components](https://github.com/jhudson8/react-events)
-- [react-mixin-manager - React mixin registration manager](https://github.com/jhudson8/react-mixin-manager)
-- [gsap-react-plugin - A GSAP plugin for tweening React.js component state](https://github.com/hzdg/gsap-react-plugin)
-- [react-topcoat by @plaxdan - Topcoat CSS components built with the React library](https://github.com/plaxdan/react-topcoat)
-- [react-topcoat by @arnemart - A collection of React components for Topcoat](https://github.com/arnemart/react-topcoat)
-- [reactdown - Write React components using markdown syntax](https://github.com/andreypopp/reactdown)
-- [react-jade - Compile Jade to React JavaScript](https://github.com/ForbesLindesay/react-jade)
-- [jade-react - Compile Jade templates to React.DOM expressions](https://github.com/duncanbeevers/jade-react)
-- [gulp-jade-react - Compile Jade templates into React de-sugared JSX with Gulp](https://github.com/duncanbeevers/gulp-jade-react)
-- [sbt-reactjs - React SBT Plugin using npm](https://github.com/ddispaltro/sbt-reactjs)
-- [scalajs-react - A guilty affair between Scala.js and Facebook's React](https://github.com/japgolly/scalajs-react)
-- [react-xtags - Using React to implement xtags](https://github.com/vjeux/react-xtags/)
-- [jreact - React on server-side Java (with Rhino or Nashorn)](https://github.com/KnisterPeter/jreact)
-- [React.hiccup - A complete replacement for JSX written in sweet.js](https://github.com/lantiga/react.hiccup)
-- [react-play - Rendering React components in the Play Framework with JDK8's Nashorn](https://github.com/ssorallen/react-play)
-- [rx-react - Utilities to works with React in a RxJS](https://github.com/fdecampredon/rx-react)
-- [react-with-di - A hacked prototype of React.js with DI](https://github.com/vojtajina/react-with-di)
-- [reactfire - ReactJS mixin for easy Firebase integration](https://github.com/firebase/reactfire)
-- [firedux - Firebase + Redux for ReactJS](https://github.com/AndersDJohnson/firedux)
-- [react-clickdrag-mixin - ClickDrag mixin for React component](https://github.com/tleunen/react-clickdrag-mixin)
+- [react-backbone](https://github.com/jhudson8/react-backbone) -骨干感知mixins做出反应
+- [NestedReact](https://github.com/Volicon/NestedReact/) -与Backbone Views和NestedTypes模型透明集成
+- [backbone-reaction](https://github.com/jhudson8/backbone-reaction) -反应，骨干，然后一些
+- [react.backbone](https://github.com/usepropeller/react.backbone) -用于React的插件使Backbone迁移更容易
+- [reactbone](https://github.com/andrejewski/reactbone) -React Backbone扩展
+- [backbone-react-ui](https://github.com/securingsincity/backbone-react-ui) -与主干和主干分页器一起使用的React组件
+- [react-events](https://github.com/jhudson8/react-events) -React组件的声明式托管事件绑定
+- [react-mixin-manager](https://github.com/jhudson8/react-mixin-manager) - React mixin registration manager
+- [gsap-react-plugin](https://github.com/hzdg/gsap-react-plugin) -用于补间React.js组件状态的GSAP插件
+- [react-topcoat by @plaxdan](https://github.com/plaxdan/react-topcoat) -使用React库构建的Topcoat CSS组件
+- [react-topcoat by @arnemart](https://github.com/arnemart/react-topcoat) -用于面漆的React组分的集合
+- [reactdown](https://github.com/andreypopp/reactdown) -使用markdown语法编写React组件
+- [react-jade](https://github.com/ForbesLindesay/react-jade) -将Jade编译为React JavaScript
+- [jade-react](https://github.com/duncanbeevers/jade-react) -将Jade模板编译为React.DOM表达式
+- [gulp-jade-react](https://github.com/duncanbeevers/gulp-jade-react) -使用Gulp将Jade模板编译为React已淘汰的JSX
+- [sbt-reactjs](https://github.com/ddispaltro/sbt-reactjs) -使用npm反应SBT插件
+- [scalajs-react](https://github.com/japgolly/scalajs-react) -Scala.js与Facebook的React之间有罪
+- [react-xtags](https://github.com/vjeux/react-xtags/) -使用React来实现xtags
+- [jreact](https://github.com/KnisterPeter/jreact) -在服务器端Java上进行反应（使用Rhino或Nashorn）
+- [React.hiccup](https://github.com/lantiga/react.hiccup) -完全替代sweet.js中编写的JSX
+- [react-play](https://github.com/ssorallen/react-play) -使用JDK8的Nashorn在Play框架中渲染React组件
+- [rx-react](https://github.com/fdecampredon/rx-react) -在RxJS中使用React的实用程序
+- [react-with-di](https://github.com/vojtajina/react-with-di) -带有DI的被入侵的React.js原型
+- [reactfire](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration
+- [firedux](https://github.com/AndersDJohnson/firedux) -用于ReactJS的Firebase + Redux
+- [react-clickdrag-mixin](https://github.com/tleunen/react-clickdrag-mixin) -用于React组件的ClickDrag mixin
 - [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)
-- [react-masonry-mixin - Standalone mixin for Masonry (@desandro)](https://github.com/eiriklv/react-masonry-mixin)
-- [react-packery-mixin - Standalone mixin for Packery (Metafizzy)](https://github.com/eiriklv/react-packery-mixin)
-- [react-dropzone - Simple HTML5 drag-drop zone with React.js.](https://github.com/paramaggarwal/react-dropzone)
-- [aframe-react - A-Frame VR + React](https://github.com/ngokevin/aframe)
-- [react-three-fiber - A react reconciler for threejs (web and react-native)](https://github.com/react-spring/react-three-fiber)
-- [react-three - React bindings to create and control a 3D scene using three.js](https://github.com/Izzimach/react-three)
-- [react-three-renderer - Render into a three.js canvas using React](https://github.com/toxicFork/react-three-renderer)
-- [react-threejs - Simplest bindings between React & Three.js](https://github.com/fritx/react-threejs)
-- [react-masonry-css - Fast Masonry layout powered by CSS, dependency free](https://github.com/paulcollett/react-masonry-css)
-- [react-captcha - A react.js reCAPTCHA for Google](https://github.com/appleboy/react-recaptcha)
-- [reaptcha - Clean, modern and simple React wrapper for Google reCAPTCHA](https://github.com/sarneeh/reaptcha)
-- [react-recaptcha-that-works - A reCAPTCHA bridge for React that works](https://github.com/douglasjunior/react-recaptcha-that-works)
-- [ckeditor4-react - An official CKEditor 4 rich text editor component for React](https://github.com/ckeditor/ckeditor4-react)
-- [ckeditor5-react - An official CKEditor 5 rich text editor component for React](https://github.com/ckeditor/ckeditor5-react)
+- [react-masonry-mixin](https://github.com/eiriklv/react-masonry-mixin) - Standalone mixin for Masonry (@desandro)
+- [react-packery-mixin](https://github.com/eiriklv/react-packery-mixin) - Standalone mixin for Packery (Metafizzy)
+- [react-dropzone](https://github.com/paramaggarwal/react-dropzone) -使用React.js的简单HTML5拖放区.
+- [aframe-react](https://github.com/ngokevin/aframe) -A-Frame VR + React
+- [react-three-fiber](https://github.com/react-spring/react-three-fiber) -用于threejs的React Reconciler（Web和react-native）
+- [react-three](https://github.com/Izzimach/react-three) -使用three.js反应绑定来创建和控制3D场景
+- [react-three-renderer](https://github.com/toxicFork/react-three-renderer) -使用React渲染成three.js画布
+- [react-threejs](https://github.com/fritx/react-threejs) -React和Three.js之间最简单的绑定
+- [react-masonry-css](https://github.com/paulcollett/react-masonry-css) -由CSS提供支持的快速砌体布局，无依赖
+- [react-captcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
+- [reaptcha](https://github.com/sarneeh/reaptcha) -干净，现代，简单的Google reCAPTCHA React包装器
+- [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) -适用于React的reCAPTCHA桥
+- [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) -用于React的官方CKEditor 4 RTF编辑器组件
+- [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) -用于React的官方CKEditor 5 RTF编辑器组件
 
 ##### React State Management
 
@@ -342,108 +341,109 @@
 ##### Forms
 
 - [React Forms](http://facebook.github.io/react/docs/forms.html)
-- [react-formal - Better form validation and value management for React, Provides minimal wiring](https://github.com/jquense/react-formal)
-- [react-forms - Forms library for React](https://github.com/prometheusresearch/react-forms)
-- [valuelink - full-featured two-way data binding with extended React links](https://github.com/Volicon/valuelink)
-- [wingspan-forms - A dynamic form library for Facebook React](https://github.com/wingspan/wingspan-forms)
-- [newforms - Isomorphic form-handling for React](https://github.com/insin/newforms)
-- [formjs - A form generator for Reactjs](https://github.com/zackify/formjs)
-- [react-form-builder - A Form Builder for React.js](https://github.com/quri/react-form-builder)
-- [plexus-form - A dynamic form component for react using JSON-Schema](https://github.com/AppliedMathematicsANU/plexus-form)
-- [tcomb-form - UI library for developing forms writing less code](https://github.com/gcanti/tcomb-form)
-- [formsy-react - A form input builder and validator for React JS](https://github.com/christianalfoni/formsy-react)
-- [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
-- [Winterfell - Generate complex, validated and extendable JSON-based forms in React](https://github.com/andrewhathaway/Winterfell)
-- [Redux-Autoform - Create Redux-Forms dynamically out of metadata](https://github.com/redux-autoform/redux-autoform)
-- [uniforms - Bunch of React components and helpers to easily generate and validate forms](https://github.com/vazco/uniforms)
-- [formik - Forms in React, without tears](https://github.com/jaredpalmer/formik)
-- [NeoForm – Modular HOCs for form state management and validation](https://github.com/zero-plus-x/neoform)
-- [react-jsonschema-form – A React component for building Web forms from JSON Schema](https://github.com/mozilla-services/react-jsonschema-form)
-- [List View Select - A Toggleable select box for React Native with native components](https://github.com/JamesWatling/react-native-list-view-select)
-- [Final Form 🏁](https://github.com/final-form/react-final-form)
-- [formland - A simple, super-flexible, extensible config based form generator](https://github.com/indix/formland)
-- [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
-- [unform - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!](https://github.com/Rocketseat/unform)
-- [react-hook-form - Performant, flexible and extensible forms with easy to use validation](https://github.com/react-hook-form/react-hook-form)
+- [react-formal](https://github.com/jquense/react-formal) -更好的React表单验证和价值管理，提供最少的接线
+- [react-forms](https://github.com/prometheusresearch/react-forms) -React的表单库
+- [valuelink](https://github.com/Volicon/valuelink) -具有扩展的React链接的全功能双向数据绑定
+- [wingspan-forms](https://github.com/wingspan/wingspan-forms) -Facebook React的动态表单库
+- [newforms](https://github.com/insin/newforms) -React的同构表单处理
+- [formjs](https://github.com/zackify/formjs) -Reactjs的表单生成器
+- [react-form-builder](https://github.com/quri/react-form-builder) -React.js的表单生成器
+- [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) -使用JSON-Schema进行响应的动态表单组件
+- [tcomb-form](https://github.com/gcanti/tcomb-form) -UI库，用于开发较少编写代码的表单
+- [formsy-react](https://github.com/christianalfoni/formsy-react) -React JS的表单输入生成器和验证器
+- [Learn Raw React](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/) -荒谬的简单形式
+- [Winterfell](https://github.com/andrewhathaway/Winterfell) -在React中生成复杂，经过验证和可扩展的基于JSON的表单
+- [Redux-Autoform](https://github.com/redux-autoform/redux-autoform) -利用元数据动态创建Redux-Forms
+- [uniforms](https://github.com/vazco/uniforms) -一堆React组件和帮助程序，可轻松生成和验证表单
+- [formik](https://github.com/jaredpalmer/formik) -React中的形式，无泪
+- [NeoForm](https://github.com/zero-plus-x/neoform) -用于表单状态管理和验证的模块化HOC
+- [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) -一个用于从JSON模式构建Web表单的React组件
+- [List View Select](https://github.com/JamesWatling/react-native-list-view-select) -具有本机组件的React Native的可切换选择框
+- [Final Form 🏁](https://github.com/final-form/react-final-form) -
+- [formland](https://github.com/indix/formland) -一个简单，超灵活，可扩展的基于配置的表单生成器
+- [react-reactive-form](https://github.com/bietkul/react-reactive-form) -React中的角状反应形式
+- [unform](https://github.com/Rocketseat/unform) -ReactJS表单库可创建带有嵌套字段，验证等的不受控制的表单结构！
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) -高效，灵活且可扩展的表格，易于使用的验证
 
 ##### Autocomplete
 
-- [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
-- [react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
-- [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
-- [react-autocomplete by @prometheusresearch - Autocomplete widget based on React](https://github.com/prometheusresearch/react-autocomplete)
-- [instatype by @gragland - Simple react autocomplete component](https://github.com/gragland/instatype)
-- [downshift - 🏎 Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components](https://github.com/paypal/downshift)
-- [React Bootstrap Typeahead - A React-based typeahead that relies on Bootstrap for styling and was originally inspired by Twitter's typeahead.js.](https://github.com/ericgio/react-bootstrap-typeahead)
+- [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete) -符合WAI-ARIA的React自动完成
+- [react-autosuggest by @moroshko](https://github.com/moroshko/react-autosuggest) -符合WAI-ARIA的React自动建议组件
+- [react-autocomplete by @eliseumds](https://github.com/eliseumds/react-autocomplete) -只是品尝一些ReactJS + RxJS
+- [react-autocomplete by @prometheusresearch](https://github.com/prometheusresearch/react-autocomplete) -基于React的自动完成小部件
+- [instatype by @gragland](https://github.com/gragland/instatype) -简单的反应自动完成组件
+- [downshift](https://github.com/paypal/downshift) -用于构建简单，灵活，符合WAI-ARIA的增强型输入React组件的基元
+- [React Bootstrap Typeahead](https://github.com/ericgio/react-bootstrap-typeahead) -基于React的typeahead，它依赖于Bootstrap进行样式设置，最初是受Twitter的typeahead.js启发.
 
 ##### Graphics
 
-- [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
-- [react-canvas - High performance <canvas> rendering for React components](https://github.com/Flipboard/react-canvas)
-- [react-famous - Complex 3D animations UI at 60 FPS with Famo.us](https://github.com/pilwon/react-famous)
-- [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
-- [react-svg-morph - morph your svg components one into another](https://github.com/gorangajic/react-svg-morph)
-- [react-hooks-svgdrawing - SVG Drawing with React hooks](https://github.com/kmkzt/react-hooks-svgdrawing)
+- [react-art](https://github.com/facebook/react-art) -React Bridge到ART图形库
+- [react-canvas](https://github.com/Flipboard/react-canvas)  -高性能`<canvas>  `React组件的渲染
+- [react-famous](https://github.com/pilwon/react-famous) -使用Famo.us以60 FPS进行复杂的3D动画UI
+- [react-kinetic](https://github.com/freiksenet/react-kinetic) -使用React通过KineticJS通过HTML5 Canvas
+- [react-svg-morph](https://github.com/gorangajic/react-svg-morph) -将svg组件彼此变形
+- [react-hooks-svgdrawing](https://github.com/kmkzt/react-hooks-svgdrawing) -带React钩子的SVG绘图
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) -一个React组件，为SVG添加了平移和缩放功能.
 
 ##### Data Managing
 
-- [Immutable.js - Immutable Data Collections for Javascript](https://github.com/immutable-js/immutable-js)
-- [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
-- [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
-- [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
-- [morearty.js - Better state management for React in pure JavaScript](https://github.com/moreartyjs/moreartyjs)
-- [valuable - An immutable data store for React](https://github.com/josephsavona/valuable)
-- [react-resolver - Isomorphic library to recursively lazy-load data for React components](https://github.com/ericclemmons/react-resolver)
-- [freezer-js - Lightweight and reactive immutable data structure for React](https://github.com/arqex/freezer)
-- [baobab - JavaScript persistent and optionally immutable data tree with cursors](https://github.com/Yomguithereal/baobab)
-- [baobab-react - React integration for Baobab](https://github.com/Yomguithereal/baobab-react)
-- [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React](https://github.com/omniscientjs/immstruct)
-- [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects](https://github.com/rtfeldman/seamless-immutable)
-- [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
-- [extendable-immutable - Extend any Immutable.js data structure](https://github.com/philpl/extendable-immutable)
-- [statty - A tiny and unobtrusive state management library for React and Preact apps](https://github.com/vesparny/statty)
-- [Hydux - An Elm-Like state manager for React with "batteries included"](https://github.com/hydux/hydux)
-- [ReSub - A library for writing better React components and data stores](https://github.com/Microsoft/ReSub)
-- [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
-- [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
-- [RxDB - A realtime Database for JavaScript Applications](https://github.com/pubkey/rxdb)
-- [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
-- [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
+- [Immutable.js](https://github.com/immutable-js/immutable-js) -JavaScript的不可变数据收集
+- [cortex](https://github.com/mquan/cortex) -使用React集中管理数据的JavaScript库
+- [avers](https://github.com/wereHamster/avers) -现代的客户端模型抽象库
+- [imvvm](https://github.com/entrendipity/imvvm) -React的不可变Model-View-ViewModel
+- [morearty.js](https://github.com/moreartyjs/moreartyjs) -在纯JavaScript中对React进行更好的状态管理
+- [valuable](https://github.com/josephsavona/valuable) -React的不可变数据存储
+- [react-resolver](https://github.com/ericclemmons/react-resolver) -同构库，用于递归延迟加载React组件的数据
+- [freezer-js](https://github.com/arqex/freezer) -React的轻量级和反应性不可变数据结构
+- [MobX](#mobx) -简单，可扩展的状态管理
+- [baobab](https://github.com/Yomguithereal/baobab) -具有游标的JavaScript持久且可选的不可变数据树
+- [baobab-react](https://github.com/Yomguithereal/baobab-react) -猴面包树的React集成
+- [immstruct](https://github.com/omniscientjs/immstruct) -在基于组件的库（如React）中具有从上到下属性的历史记录的不可变数据结构
+- [seamless-immutable](https://github.com/rtfeldman/seamless-immutable) -JavaScript的不可变数据结构，它与普通的JS数组和对象向后兼容
+- [tydel](http://tydel.js.org) -带React绑定的类型化模型和集合
+- [extendable-immutable](https://github.com/philpl/extendable-immutable) -扩展任何Immutable.js数据结构
+- [statty](https://github.com/vesparny/statty) -适用于React和Preact应用程序的纤巧且状态友好的状态管理库
+- [Hydux](https://github.com/hydux/hydux) -Elm-Like状态经理，负责“带有电池”的React
+- [ReSub](https://github.com/Microsoft/ReSub) -用于编写更好的React组件和数据存储的库
+- [ProppyJS](https://proppyjs.com) -一个小小的功能道具库
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) -用于强大的React和React Native应用程序的下一代数据库，可扩展至10,000条记录并保持快速
+- [RxDB](https://github.com/pubkey/rxdb) -JavaScript应用程序的实时数据库
+- [Effector](https://github.com/zerobias/effector)  -快速而强大的反应状态管理器. 使您可以编写简单，快速和安全的代码，并轻松管理响应状态.
+- [reactn](https://github.com/CharlesStover/reactn) -反应，但具有内置的全局状态管理
 - [immer](https://github.com/immerjs/immer) -通过更改当前状态来创建下一个不可变状态
 
 ##### Maps
 
-- [react-googlemaps - React interface to Google maps](https://github.com/pieterv/react-googlemaps)
-- [react-maps - A map component for React](https://github.com/matnel/react-maps)
-- [react-google-maps - React.js Google Maps integration component](https://github.com/tomchentw/react-google-maps)
-- [react-gmaps - A Google Maps component for React.js](https://github.com/MicheleBertoli/react-gmaps)
-- [react-map-gl - A React wrapper for MapboxGL-js plus overlay API](https://github.com/uber/react-map-gl)
-- [google-map-react - Isomorphic google map React component](https://github.com/istarkov/google-map-react)
-- [react-mapbox-gl - A mapbox-gl-js wrapper to make the API react friendly](https://github.com/alex3165/react-mapbox-gl)
-- [google-maps-react - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.](https://github.com/fullstackreact/google-maps-react)
-- [react-leaflet - React components for Leaflet maps](https://react-leaflet.js.org/)
-- [react-geo - A set of geo-related components using react, antd, and ol](https://github.com/terrestris/react-geo)
-- [pigeon-maps - ReactJS maps without external dependencies](https://github.com/mariusandra/pigeon-maps)
+- [react-googlemaps](https://github.com/pieterv/react-googlemaps) -到Google地图的React界面
+- [react-maps](https://github.com/matnel/react-maps) -React的地图组件
+- [react-google-maps](https://github.com/tomchentw/react-google-maps) -React.js Google Maps集成组件
+- [react-gmaps](https://github.com/MicheleBertoli/react-gmaps) -用于React.js的Google Maps组件
+- [react-map-gl](https://github.com/uber/react-map-gl) -适用于MapboxGL-js的React包装器以及叠加API
+- [google-map-react](https://github.com/istarkov/google-map-react) -同构的Google Map React组件
+- [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) -一个使API反应友好的mapbox-gl-js包装器
+- [google-maps-react](https://github.com/fullstackreact/ - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.google-maps-react)
+- [react-leaflet](https://react-leaflet.js.org/) -用于传单地图的React组件
+- [react-geo](https://github.com/terrestris/react-geo) -使用react，antd和ol的一组与地理相关的组件
+- [pigeon-maps](https://github.com/mariusandra/pigeon-maps) -无外部依赖的ReactJS映射
 
 ##### Charts
 
-- [DevExtreme React Chart - High-performance plugin-based React chart for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/chart/)
-- [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
-- [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
-- [Number Picture - Low-level building blocks for constructing animated visualizations with React & D3.](http://numberpicture.com/build)
-- [Victory - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
-- [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
-- [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
+- [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) -用于启动程序和材料设计的基于插件的高性能React图表
+- [react-chartjs](https://github.com/jhudson8/react-chartjs) -使用chart.js的常用React图表组件
+- [react-stockcharts](https://github.com/rrag/react-stockcharts) -使用ReactJS和d3的高度可定制的股票图表
+- [Number Picture](http://numberpicture.com/build) -使用React＆D3构建动画可视化的低级构建块.
+- [Victory](https://github.com/FormidableLabs/victory) -用于构建交互式数据可视化的可组合React组件的集合
+- [Recharts](https://github.com/recharts/recharts) -在D3上构建的图表库，具有令人敬畏的声明性API
+- [React-ApexCharts](https://github.com/apexcharts/react-apexcharts) -ApexCharts的React组件（交互式SVG图表库）
 - [reaviz](https://github.com/reaviz/reaviz) -基于D3.js的React数据可视化库
-- [react-vis - A React visualization library designed with the following principles in mind: React-friendly, high-level and customizable, expressive, and industry-strong.](https://github.com/uber/react-vis)
-- [nivo - It provides a rich set of data visualization components, built on top of the D3 and React libraries.](https://github.com/plouc/nivo)
-- [vx - A collection of reusable low-level visualization components. It combines the power of D3 to generate your visualization with the benefits of React for updating the DOM.](https://github.com/hshoff/vx)
-- [echarts-for-react - A very simple ECharts wrapper for React.](https://github.com/hustcc/echarts-for-react)
-- [Chartify - React plugin for building charts using CSS.](https://github.com/kis/chartify)
-- [Semiotic - A data visualization framework combining React and D3.](https://github.com/nteract/semiotic)
-- [react-muze - React wrapper for [muze](https://muzejs.org/) （免费的数据可视化库，用于使用WebAssembly在浏览器中创建探索性数据可视化）]（https://github.com/chartshq/react-muze）
-- [reaflow](https://github.com/reaviz/reaflow/) React的图编辑器
+- [react-vis](https://github.com/uber/react-vis) -一个React可视化库，设计时考虑了以下原则：React友好，高级且可自定义，富有表现力且具有行业优势.
+- [nivo](https://github.com/plouc/nivo) -它提供了丰富的数据可视化组件集，这些组件基于D3和React库构建.
+- [vx](https://github.com/hshoff/vx)  -可重用的底层可视化组件的集合. 它结合了D3的强大功能来生成可视化效果，并结合了React的优势来更新DOM.
+- [echarts-for-react](https://github.com/hustcc/echarts-for-react) -一个非常简单的ECharts包装器，用于React.
+- [Chartify](https://github.com/kis/chartify) -React插件，用于使用CSS构建图表.
+- [Semiotic](https://github.com/nteract/semiotic) -结合了React和D3的数据可视化框架.
+- [react-muze](https://github.com/chartshq/react-muze) -反应包装 [muze](https://muzejs.org/) （免费的数据可视化库，用于使用WebAssembly在浏览器中创建探索性数据可视化）
+- [reaflow](https://github.com/reaviz/reaflow/) -React的图编辑器
 
 ---
 
@@ -489,22 +489,22 @@
 
 #### React Native Boilerplates
 
-- [Create React Native App - Create a React Native app on any OS with no build config, with or without Expo](https://github.com/react-community/create-react-native-app)
-- [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage)](https://github.com/bartonhammond/snowflake)
-- [Ignite - The hottest CLI for React Native, boilerplates, plugins, generators, and more!](https://github.com/infinitered/ignite)
-- [React Native Starter Kit - A powerful starter project that bootstraps development of your mobile application](https://github.com/flatlogic/react-native-starter)
+- [Create React Native App](https://github.com/react-community/create-react-native-app) -在没有构建配置，有或没有Expo的任何操作系统上创建React Native应用
+- [Snowflake](https://github.com/bartonhammond/snowflake) -使用Redux，Parse.com，Jest响应本机iOS和Android（覆盖率88％）
+- [Ignite](https://github.com/infinitered/ignite) -适用于React Native，样板，插件，生成器等的最热门的CLI！
+- [React Native Starter Kit](https://github.com/flatlogic/react-native-starter) -一个强大的入门项目，可引导您开发移动应用程序
 
 #### React Native Awesome Components
 
 - [Expo](https://expo.io/) -制作跨平台移动应用的Expo平台
 - [react-navigation](https://reactnavigation.org/) -您的React Native应用的路由和导航
-- [react-native-social-share - Use the iOS and Android native Twitter and Facebook share popup with React Native](https://github.com/doefler/react-native-social-share)
-- [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
-- [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
-- [react-native-mapbox-gl - A Mapbox GL react native module](https://github.com/mapbox/react-native-mapbox-gl)
-- [react-native-icons - Quick and easy icons in React Native](https://github.com/corymsmith/react-native-icons)
-- [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar](https://github.com/oblador/react-native-vector-icons)
-- [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
+- [react-native-social-share](https://github.com/doefler/react-native-social-share) -使用iOS和Android本机Twitter和Facebook与React Native共享弹出窗口
+- [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) -围绕iOS Facebook SDK的包装
+- [react-native-side-menu](https://github.com/Kureev/react-native-side-menu) -简单的可自定义组件以创建侧面菜单
+- [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) -Mapbox GL react native模块
+- [react-native-icons](https://github.com/corymsmith/react-native-icons) -React Native中的快捷图标
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) -React Native的3000个可自定义图标，支持NavBar / TabBar
+- [react-native-google-signin](https://github.com/apptailor/react-native-google-signin) -Google Sign for React Native
 - [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view)
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) -React Native最完整的聊天界面
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) -FastImage，高性能React Native图像组件
@@ -514,6 +514,7 @@
 - [rn-placeholder](https://github.com/mfrachet/rn-placeholder) -在React Native中渲染文本或媒体内容之前显示一些占位符
 
 #### React Native Libraries
+
 - [sentry-react-native](https://github.com/getsentry/sentry-react-native) -针对您的Web应用程序，移动应用程序和游戏的实时崩溃报告.
 - [realm-js](https://github.com/realm/realm-js) -Realm是一个移动数据库：SQLite和键值存储的替代品
 - [react-native-device-info](https://github.com/react-native-community/react-native-device-info) -React Native iOS和Android的设备信息
@@ -530,27 +531,27 @@
 
 #### Redux Tools
 
-- [react-redux - Official React bindings for Redux](https://github.com/reactjs/react-redux)
-- [redux-devtools - DevTools for Redux with hot reloading, action replay, and customizable UI](https://github.com/reduxjs/redux-devtools)
-  - [react-router-redux - Bindings to keep react-router and redux in sync](https://github.com/reactjs/react-router-redux)
-- [redux-toolkit - The official, opinionated, batteries-included toolset for efficient Redux development](https://github.com/reduxjs/redux-toolkit)
-- [redux-form - A Higher Order Component using react-redux to keep form state](https://github.com/erikras/redux-form)
-- [redux-thunk - Thunk middleware for redux](https://github.com/gaearon/redux-thunk)
-- [redux-logger - Logger middleware for redux](https://github.com/theaqua/redux-logger)
-- [reselect - Selector library for Redux](https://github.com/reactjs/reselect)
-- [normalizr - Normalizes nested JSON according to a schema](https://github.com/paularmstrong/normalizr)
-- [redux-saga - An alternative side effect model for Redux apps](https://github.com/yelouafi/redux-saga)
-- [redux-data-fx - Declarative Side Effects for Redux](https://github.com/matthieu-beteille/redux-data-fx)
-- [redux-observable - RxJS middleware for Redux](https://github.com/redux-observable/redux-observable)
-- [redux-analytics - Analytics middleware for Redux](https://github.com/markdalgleish/redux-analytics)
-- [redux-undo - Higher order reducer to add undo/redo functionality to redux state containers](https://github.com/omnidan/redux-undo)
-- [redux-search - Redux bindings for client-side search](https://github.com/treasure-data/redux-search)
-- [redux-mock-store - A mock store for your testing your redux async action creators and middleware](https://github.com/arnaudbenard/redux-mock-store)
-- [redux-immutable - Create an equivalent function of Redux combineReducers that works with Immutable.js state](https://github.com/gajus/redux-immutable)
-- [redux-react-i18n - An i18n solution for redux/react](https://github.com/derzunov/redux-react-i18n)
-- [R16N - A redux/react I18n solution](https://github.com/razodeh/r16n/)
-- [redux-actiontyper - Helper to create less verbose action types for Redux](https://github.com/alnorris/redux-actiontyper)
-- [redux-state-validator - A simple redux middleware to validate redux state values and object types using JSON Schema](https://github.com/suyesh/redux-state-validator)
+- [react-redux](https://github.com/reactjs/react-redux) -Redux的官方React绑定
+- [redux-devtools](https://github.com/reduxjs/redux-devtools) -用于Redux的DevTools具有热重载，动作重播和可自定义的UI
+- [react-router-redux](https://github.com/reactjs/react-router-redux) -绑定以使React-Router和Redux保持同步
+- [redux-toolkit](https://github.com/reduxjs/redux-toolkit) -官方的，自以为是的，包含电池的工具集，用于高效的Redux开发
+- [redux-form](https://github.com/erikras/redux-form) -使用react-redux保持表单状态的高阶组件
+- [redux-thunk](https://github.com/gaearon/redux-thunk) -用于redux的Thunk中间件
+- [redux-logger](https://github.com/theaqua/redux-logger) -Redux的Logger中间件
+- [reselect](https://github.com/reactjs/reselect) -Redux选择器库
+- [normalizr](https://github.com/paularmstrong/normalizr) -根据架构规范嵌套的JSON
+- [redux-saga](https://github.com/yelouafi/redux-saga) -Redux应用程序的替代副作用模型
+- [redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) -Redux的声明性副作用
+- [redux-observable](https://github.com/redux-observable/redux-observable) -用于Redux的RxJS中间件
+- [redux-analytics](https://github.com/markdalgleish/redux-analytics) -Redux的分析中间件
+- [redux-undo](https://github.com/omnidan/redux-undo) -高阶reducer将撤销/重做功能添加到redux状态容器
+- [redux-search](https://github.com/treasure-data/redux-search) -用于客户端搜索的Redux绑定
+- [redux-mock-store](https://github.com/arnaudbenard/redux-mock-store) -模拟商店，供您测试Redux异步操作创建者和中间件
+- [redux-immutable](https://github.com/gajus/redux-immutable) -创建与Immutable.js状态一起使用的Redux CombineReducers的等效功能
+- [redux-react-i18n](https://github.com/derzunov/redux-react-i18n) -用于还原/反应的i18n解决方案
+- [R16N](https://github.com/razodeh/r16n/) -Redux / React I18n解决方案
+- [redux-actiontyper](https://github.com/alnorris/redux-actiontyper) -帮助程序为Redux创建较少详细的操作类型
+- [redux-state-validator](https://github.com/suyesh/redux-state-validator) -一个简单的redux中间件，可使用JSON Schema验证redux状态值和对象类型
 - [redux-persist](https://github.com/rt2zz/redux-persist) -持久化Redux商店并为其补水
 
 #### Redux Tutorials
@@ -586,7 +587,7 @@
 
 #### MobX Tools
 
-- [mobx-react - React component wrapper for combining React with MobX](https://github.com/mobxjs/mobx-react)
+- [mobx-react](https://github.com/mobxjs/mobx-react) -用于将React与MobX结合的React组件包装器
 
 #### MobX Tutorials
 
@@ -629,31 +630,31 @@
 
 #### GraphQL Implementations
 
-- [graphql-js - A reference implementation of GraphQL for **JavaScript**](https://github.com/graphql/graphql-js)
-- [react-transmit - Relay-inspired library based on **JavaScript Promises**](https://github.com/RickWong/react-transmit)
-- [graphql-ruby - **Ruby** implementation of Facebook's GraphQL](https://github.com/rmosolgo/graphql-ruby)
-- [graphql-java - GraphQL **Java** implementation](https://github.com/andimarek/graphql-java)
-- [sangria - **Scala** GraphQL client and server library](https://github.com/OlegIlyenko/sangria)
-- [graphql-php - A **PHP** port of GraphQL reference implementation](https://github.com/webonyx/graphql-php)
-- [graphene - GraphQL in **Python** made simple](http://graphene-python.org/)
-- [graphqllib - GraphQL implementation for **Python**](https://github.com/dittos/graphqllib)
-- [graphql-dotnet - GraphQL for **.NET**](https://github.com/graphql-dotnet/graphql-dotnet)
-- [graphql-go - GraphQL for Go/Golang](https://github.com/graphql-go/graphql)
+- [graphql-js](https://github.com/graphql/graphql-js) -GraphQL ** JavaScript **的参考实现
+- [react-transmit](https://github.com/RickWong/react-transmit) -基于``JavaScript Promises&#39;&#39;的基于中继的库
+- [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) -Facebook GraphQL的** Ruby **实现
+- [graphql-java](https://github.com/andimarek/graphql-java) -GraphQL ** Java **实现
+- [sangria](https://github.com/OlegIlyenko/sangria) -** Scala ** GraphQL客户端和服务器库
+- [graphql-php](https://github.com/webonyx/graphql-php) -GraphQL参考实现的** PHP **端口
+- [graphene](http://graphene-python.org/) -** Python **中的GraphQL变得简单
+- [graphqllib](https://github.com/dittos/graphqllib) -** Python **的GraphQL实现
+- [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) -适用于**.NET **的GraphQL
+- [graphql-go](https://github.com/graphql-go/graphql) -用于Go / Golang的GraphQL
 
 #### Server Integration
 
-- [express-graphql - Create a GraphQL HTTP server with **Express**](https://github.com/graphql/express-graphql)
-- [graphql-yoga - Easiest way to run a GraphQL server](https://github.com/graphcool/graphql-yoga)
+- [express-graphql](https://github.com/graphql/express-graphql) -使用** Express **创建GraphQL HTTP服务器
+- [graphql-yoga](https://github.com/graphcool/graphql-yoga) -运行GraphQL服务器的最简单方法
 
 #### Database Integration
 
 - [Hasura](https://hasura.io/) -Postgres上的即时实时GraphQL
-- [Prisma - a performant open-source GraphQL ORM-like \* layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
-- [graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models](https://github.com/brysgo/graphql-bookshelf)
-- [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
-- [graffiti - Node.js GraphQL ORM](https://github.com/RisingStack/graffiti)
-- [sql-to-graphql - Generate a GraphQL API based on your SQL database structure](https://github.com/vaffel/sql-to-graphql)
-- [graphql-sequelize - GraphQL & Relay for MySQL & Postgres via Sequelize](https://github.com/mickhansen/graphql-sequelize)
+- [Prisma](https://www.prisma.io/) -高性能的类似于GraphQL ORM的开源Graph \ *层，在GraphQL服务器中完成了繁重的工作.
+- [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) -有关在BookshelfJS模型周围定义GraphQL模式的一些帮助
+- [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) -适用于** PostgreSQL **的GraphQL
+- [graffiti](https://github.com/RisingStack/graffiti) -Node.js GraphQL ORM
+- [sql-to-graphql](https://github.com/vaffel/sql-to-graphql) -根据您的SQL数据库结构生成GraphQL API
+- [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) -通过Sequelize实现GraphQL和MySQL和Postgres的Relay
 
 ---
 
@@ -668,17 +669,17 @@
 
 #### Relay Tutorials
 
-- [official Relay Getting Started](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
+- [Official Relay Getting Started](https://facebook.github.io/relay/docs/en/introduction-to-relay.html)
 - [Relay for Visual Learners](http://sgwilym.github.io/relay-visual-learners/)
 - [Getting Started with Relay](https://auth0.com/blog/2015/10/06/getting-started-with-relay/)
 - [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9)
 
 #### Relay Tools
 
-- [graphql-relay-js - A library to help construct a graphql-js server supporting react-relay](https://github.com/graphql/graphql-relay-js)
-- [react-router-relay - Relay integration for React Router](https://github.com/relay-tools/react-router-relay)
-- [relay-local-schema - Use Relay without a GraphQL server](https://github.com/relay-tools/relay-local-schema)
-- [relay-codemod - Codemod scripts based for on jsodeshift to update Relay APIs](https://github.com/facebook/jscodeshift)
+- [graphql-relay-js](https://github.com/graphql/graphql-relay-js) -用于帮助构建支持react-relay的graphql-js服务器的库
+- [react-router-relay](https://github.com/relay-tools/react-router-relay) -React Router的中继集成
+- [relay-local-schema](https://github.com/relay-tools/relay-local-schema) -在没有GraphQL服务器的情况下使用中继
+- [relay-codemod](https://github.com/facebook/jscodeshift) -基于jsodeshift的Codemod脚本来更新中继API
 
 ---
 
@@ -722,7 +723,6 @@
 - [Citrusbyte Presents GraphQL: A Horizontal Platform with Nick Schrock](https://www.youtube.com/watch?v=LQFQl8EsV3k)
 - [Laney Kuenzel: Mutations and Subscriptions in Relay - JSConf 2015](https://www.youtube.com/watch?v=mmke4w4gc6c)
 - [React Today and Tomorrow and 90% Cleaner React With Hooks - React Conf 2018](https://www.youtube.com/watch?v=dpw9EHDh2bM)
-
 - [React Conferences](https://reactjs.org/community/conferences.html)
 - [React Videos](https://reactjs.org/community/videos.html)
 - [Awesome React Talks](https://github.com/tiaanduplessis/awesome-react-talks)
@@ -770,7 +770,7 @@
 - [mattermost](https://github.com/mattermost/mattermost-webapp) -开源Slack替代
 - [overreacted](https://github.com/gaearon/overreacted.io) -Dan Abramov的个人博客
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) -为浏览器重新实现了Winamp 2
-- [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
+- [dnote](https://github.com/dnote/dnote) -具有多设备同步和Web界面的命令行笔记本
 
 ---
 

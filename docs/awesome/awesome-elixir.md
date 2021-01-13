@@ -279,7 +279,7 @@
 * [alice](https://github.com/alice-bot/alice) -用于Elixir的Slack机器人框架.
 * [chatty](https://github.com/alco/chatty) -一个基本的IRC客户端，对于编写机器人最有用.
 * [cog](https://github.com/operable/cog) -Cog是一个开放的chatops平台，可在您的聊天窗口中为您提供安全的协作命令行.
-* [ExGram](https://github.com/rockneurotiko/ex_gram)  -一个用于构建Telegram Bots的库，您可以使用低级方法和模型，也可以使用包含在内的真正自以为是的框架.  （[Docs](https://hexdocs.pm/ex_gram/readme.html)).
+* [ExGram](https://github.com/rockneurotiko/ex_gram)  -用于构建Telegram Bots的库，您可以使用低级方法和模型，也可以使用包含在内的真正自以为是的框架.  （[Docs](https://hexdocs.pm/ex_gram/readme.html)).
 * [ExIrc](https://github.com/bitwalker/exirc) -用于Elixir项目的IRC客户端适配器.
 * [ExMustang](https://github.com/techgaun/ex_mustang) -简单，无知的slackbot和响应者集合.
 * [Guri](https://github.com/elvio/guri) -使用聊天消息自动执行任务.
@@ -603,10 +603,10 @@
 * [addict](https://github.com/trenpixster/addict) -Phoenix Framework的用户身份验证.
 * [airbrake_plug](https://github.com/romul/airbrake_plug) -报告您的插头堆栈或Airbrake发生的错误.
 * [ashes](https://github.com/nickgartmann/ashes) -Phoenix网络框架的代码生成工具.
-* [better_params](https://github.com/sheharyarn/better_params) -Elixir插件，用于Web应用程序中的更清洁的请求参数.
+* [better_params](https://github.com/sheharyarn/better_params) -Elixir插件，用于Web应用程序中更干净的请求参数.
 * [blaguth](https://github.com/lexmag/blaguth) -插件应用程序中的基本访问身份验证.
 * [commanded](https://github.com/slashdotdash/commanded) -用于命令查询责任隔离（CQRS）应用程序的命令处理中间件.
-* [cors_plug](https://github.com/mschae/cors_plug) -一个Elixir插件，可将CORS标头添加到请求并响应预检请求（OPTIONS）.
+* [cors_plug](https://github.com/mschae/cors_plug) -一个Elixir插件，将CORS标头添加到请求并响应预检请求（OPTIONS）.
 * [corsica](https://github.com/whatyouhide/corsica) -Elixir库，用于处理CORS请求.
 * [crudex](https://github.com/bitgamma/crudex) -Phoenix和Ecto的CRUD实用程序.
 * [dayron](https://github.com/inaka/Dayron) -与`Ecto.Repo`相似的存储库，与REST API请求一起使用，而不是与数据库一起使用.
@@ -640,7 +640,7 @@
 * [plug_and_play](https://github.com/henrik/plug_and_play) -用更少的样板设置一个Plug应用程序.
 * [plug_auth](https://github.com/bitgamma/plug_auth) -收集与认证有关的插头.
 * [plug_canonical_host](https://github.com/remiprev/plug_canonical_host) -插入以确保所有请求均来自单个规范主机.
-* [plug_checkup](https://github.com/ggpasqualino/plug_checkup) -用于向您的应用添加简单的健康检查的插件.
+* [plug_checkup](https://github.com/ggpasqualino/plug_checkup) -插件，用于向您的应用添加简单的健康检查.
 * [plug_cloudflare](https://github.com/c-rack/plug_cloudflare) -受mod_cloudflare的启发，此Elixir插件将Cloudflares CF-Connecting-IP HTTP请求标头解析为Plug.Conn的remote_ip字段.
 * [plug_forward_peer](https://github.com/awetzel/plug_forwarded_peer) -非常简单的插件，它根据RFC7239读取X-Forwarded-For或Forwarded标头，并用根客户端ip填充conn.remote_ip.
 * [plug_fprof](https://github.com/obmarg/plug_fprof) -一个为请求添加fprof跟踪的插件，以便于进行概要分析.
@@ -866,7 +866,7 @@
 * [lex_luthor](https://github.com/jamesotron/lex_luthor) -LexLuthor是Elixir中的Lexer，它使用宏生成可重用的lexer.
 
 ## Logging
-*Logging infos and messages.*
+*记录信息和消息.
 
 * [bunyan](https://github.com/bunyan-logger/bunyan) -Bunyan：Elixir记录仪.
 * [exlager](https://github.com/khia/exlager) -长生不老药装订.
@@ -1014,7 +1014,7 @@
 * [mac](https://github.com/ephe-meral/mac) -可用于查找以十六进制字符串（根据IEEE）指定的MAC的供应商.
 * [pool](https://github.com/slogsdon/pool) -Elixir的套接字接受器池.
 * [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
-* [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) -Sockerl是用于TCP协议的高级Erlang / Elixir套接字库，并提供用于实现服务器，客户端和客户端连接池的快速，有用和易于使用的API.
+* [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) -Sockerl是用于TCP协议的高级Erlang / Elixir套接字库，并提供了快速，有用和易于使用的API，用于实现服务器，客户端和客户端连接池.
 * [socket](https://github.com/meh/elixir-socket) -Elixir的套筒包装.
 * [sshex](https://github.com/rubencaro/sshex) -Elixir的简单SSH帮助程序.
 * [sshkit](https://github.com/bitcrowd/sshkit.ex) -基于Erlang的SSH应用程序构建的Elixir工具箱，用于在一个或多个服务器上执行任务.
@@ -1448,7 +1448,7 @@
 * [commerce_billing](https://github.com/joshnuss/commerce_billing) -Elixir的付款处理库，支持多个网关（例如Bogus＆Stripe）.
 * [conekta](https://github.com/echavezNS/conekta-elixir) -Conekta API的Elixir包装器.
 * [correios_cep](https://github.com/prodis/correios-cep-elixir)  -直接从Correios数据库中按邮政编码查找巴西地址. 没有HTML解析器.
-* [currently](https://github.com/chatgris/currently) -一种显示Trello当前分配的卡的工具.
+* [currently](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 * [darkskyx](https://github.com/techgaun/darkskyx) -适用于Elixir的Darksky.com（以前称为Forecast.io）API客户端.
 * [digitalocean](https://github.com/lukeed/elixir-digitalocean) -Digital Ocean API v2的Elixir包装器.
 * [digoc](https://github.com/kevinmontuori/digoc) -Digital Ocean API v2 Elixir客户端.
@@ -1619,6 +1619,12 @@
 * [ffmpex](https://github.com/talklittle/ffmpex) -FFmpeg命令行包装程序.
 * [silent_video](https://github.com/talklittle/silent_video) -将GIF和视频转换为针对移动播放进行了优化的无声视频.
 
+## WebAssembly
+*用于在Elixir中运行WebAssembly（WASM）或在WebAssembly上运行Elixir的库.
+
+* [lumen](https://github.com/lumen/lumen) -另一种BEAM实施，专为WebAssembly设计.
+* [wasmex](https://github.com/tessi/wasmex/) -从Elixir执行WebAssembly / WASM二进制文件.
+
 ## XML
 *使用XML的库和实现（有关html工具，请转到 [HTML](#html) 部分）.*
 
@@ -1663,7 +1669,7 @@
 * [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) -语言的简要介绍，Simon St. Laurent和J. David Eisenberg的大量代码示例和练习（2013）.
 * [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)  -不要以命令式的心态登上Elixir火车！ 为了充分利用功能性语言，您需要进行功能性思考（2017年）.
 * [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/book/cmelixir/metaprogramming-elixir) -克里斯·麦考德（Chris McCord）（2015）全面解释了如何利用Elixir的元编程功能来改善Elixir编码.
-* [Phoenix for Rails Developers](http://www.phoenixforrailsdevelopers.com)  -本书展示了Rails开发人员如何从现有知识中受益，以学习Phoenix.  Elvio Vicosa（2017年）.
+* [Phoenix for Rails Developers](http://www.phoenixforrailsdevelopers.com)  -本书展示了Rails开发人员如何从现有知识中受益，以学习Phoenix. 艾尔维奥·维科萨（Elvio Vicosa）（2017）.
 * [Phoenix in Action](https://manning.com/books/phoenix-in-action)  -利用您现有的Web开发技能，教您Phoenix的独特优势以及足够的Elixir来完成工作. 杰弗里·莱瑟尔（Geoffrey Lessel）（2017）.
 * [Phoenix Inside Out](https://shankardevy.com/phoenix-book/)  -本系列的目标是使您成为有信心的Phoenix开发人员. 共有3种不同版本，可满足进入Phoenix的开发人员的各种需求.
 * [Programming Elixir 1.6](https://pragprog.com/titles/elixir16/) -本书由Dave Thomas（2014）提供了使用Elixir进行功能和并发编程的介绍.
@@ -1732,7 +1738,7 @@
 * lix剂相关的阅读材料.*
 
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix/) -教授Elixir语言和Phoenix框架的在线课程.
-* [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) -安迪·亨特（Andy Hunt）和戴夫·托马斯（Dave Thomas）提供的万能药备忘单.
+* [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) -安迪·亨特（Andy Hunt）和戴夫·托马斯（Dave Thomas）制作的万能药备忘单.
 * [Elixir Functional Programming](https://github.com/kblake/functional-programming) -介绍使用Elixir语言进行功能编程的材料.
 * [Elixir School](https://elixirschool.com/) -有关Elixir编程语言的课程.
 * [Elixir Tab](https://github.com/efexen/elixir-tab) -Chrome扩展程序，可帮助您学习Elixir核心库.
@@ -1751,7 +1757,7 @@
 * [ExCasts](https://excasts.com) -各种技能水平的圣灵和凤凰卫视截屏.
 * [LearnElixir.tv](https://www.learnelixir.tv/) -初学者友好，深入，逐步的截屏视频.
 * [LearnPhoenix.tv](https://www.learnphoenix.tv/) -了解如何使用Phoenix构建快速，可靠的Web应用程序.
-* [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) -逐步了解JoséValim撰写的Elixir的一些功能和概念.
+* [Meet Elixir](https://www.pluralsight.com/courses/meet-elixir) -逐步了解JoséValim的Elixir的一些功能和概念.
 
 ## Styleguides
 *样式指南，可确保编码时的一致性.*

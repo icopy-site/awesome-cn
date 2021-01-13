@@ -44,7 +44,7 @@
 - [Specification by Example](https://www.manning.com/books/specification-by-example)  -本书摘录了世界各地领先团队的经验，以有效的方式指定，测试和交付了简短，迭代的交付周期的软件. 本书中的案例研究范围从小型Web初创公司到大型金融机构，涉及XP，Scrum和看板等许多流程.
 - [Versioning in an Event Sourced System](https://leanpub.com/esversioning)  -在对事件源系统进行版本控制时遇到麻烦吗？ 只是第一次进入新的事件源系统？ 这本书是有关如何长时间处理版本控制的权威指南.
 - [What is Domain-Driven Design?](https://learning.oreilly.com/library/view/what-is-domain-driven/9781492057802/) -快速阅读，了解领域驱动设计的核心模式和原理，以及在棕地项目中应用DDD的策略.
-- [Writing Great Specifications](https://www.manning.com/books/writing-great-specifications) -编写出色的规范是一个示例丰富的教程，该教程教您如何编写编写良好的Gherkin规范文档，从而充分利用“规范”的优势.
+- [Writing Great Specifications](https://www.manning.com/books/writing-great-specifications) -编写出色的规范是一个示例丰富的教程，该教程教您如何编写编写良好的Gherkin规范文档，以利用“规范得益于示例”的优势.
 
 ## Free eBooks
 
@@ -74,7 +74,7 @@
 - [Event Sourcery](https://eventsourcery.com/) -DDD，CQRS和事件源简介.
 - [Mixter](https://github.com/DevLyon/mixter) -CQRS和事件源Koans.
 - [Pluralsight](https://pluralsight.com)
-	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) -通过演示客户交互和复杂的演示应用程序以及Eric Evans的建议，学习域驱动设计（DDD）的基础知识.
+	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) -通过演示客户交互和复杂的演示应用程序以及Eric Evans的建议，来学习域驱动设计（DDD）的基础知识.
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) -在实践中应用域驱动设计原则的描述性深入演练.
 	 - [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing)  -本课程涵盖DDD分析模式，有助于发现业务领域的顶级体系结构. 架构师和开发人员将找到实现模式的详细信息，例如域模型，CQRS和事件源.
 - [Rails + Domain Driven Design Workshop](https://blog.arkency.com/ddd-training/) -DDD简介，Ruby / Rails开发人员的CQRS和事件源基础.
@@ -217,8 +217,8 @@
 ### .NET
 - [Aggregates.NET](https://github.com/volak/Aggregates.NET) -通过NServicebus和GetEventStore的.NET事件源域驱动的设计模型.
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) -轻量级基础架构，用于使用聚合进行事件外包.
-- [Akka.NET](http://getakka.net/) -Akka.NET是一个工具包和运行时，用于在.NET和Mono上构建高度并发，分布式和容错的事件驱动应用程序.
-- [ABP](https://abp.io) -ASP.NET Boilerplate的继任者-基于ASP.NET Core的应用程序框架，用于创建NLayered，域驱动设计的Web应用程序，具有以微服务为中心的模块化架构
+- [Akka.NET](http://getakka.net/) -Akka.NET是一个工具包和运行时，用于在.NET＆Mono上构建高度并发，分布式和容错的事件驱动应用程序.
+- [ABP](https://abp.io) -ASP.NET Boilerplate的继任者-基于ASP.NET Core的应用程序框架，用于创建NLayered，域驱动设计的Web应用程序，具有以微服务为中心的模块化体系结构
 - [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
 - [ByValue](https://github.com/sm-g/ByValue) -该库有助于创建具有正确实现的相等行为的ValueObjects（即使具有集合属性）.
 - [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling)  -通过HTTP处理命令的中间件； 通常在CQRS应用程序中使用.
@@ -306,6 +306,7 @@
 - [Map of user groups in Asia](https://datawrapper.dwcdn.net/oin66/)
 - [Map of user groups in Africa](https://datawrapper.dwcdn.net/yaEOa/)
 - [Virtual](https://virtualddd.com/)
+- [Worldwide](https://www.meetup.com/worldwide-eventstorming-meetup/) -特定于EventStorming
 - [Austria](https://www.meetup.com/ddd-vienna/)
 - [Barcelona](https://www.meetup.com/dddbcn/)
 - [Belfast](https://dddbelfast.com/)

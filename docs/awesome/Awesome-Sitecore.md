@@ -83,7 +83,7 @@
 
 
 - [Sitecore Content Hub Importer](https://github.com/vasiliyfomichev/content-hub-importer)  -Sitecore内容中心资产导入器； 允许将图像资产从各种数据源导入Sitecore内容中心.
-- [schguild](https://github.com/sitecoreguild/schguild) -提供工具和示例代码，以帮助您学习和使用Sitecore Content Hub.
+- [schguild](https://github.com/sitecoreguild/schguild) - Provides tools and sample code to help you in learning and working with Sitecore Content Hub.
 - [Sitecore.ContentHub.Twitter](https://github.com/josedbaez/Sitecore.ContentHub.Twitter) -演示如何从Sitecore Content Hub CMP进行鸣叫.
 - [Sitecore.SharedSource.CMP.Connector.Extensions](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) -扩展了适用于Sitecore CMP 2.0.0的Sitecore Connect，因此可以使用Sitecore Connect™用于Sitecore DAM 2.0.0的xml格式同步在CMP实体上设置的图像，因此此模块是必需的.
 
@@ -122,10 +122,10 @@
 - [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) -登录屏幕和Sitecore标头功能区上特定于环境的样式（和文本）.
 - [InsertOptionsLoophole](https://github.com/TwentyGotoTen/InsertOptionsLoophole) -防止Sitecore用户绕过插入选项.
 - [ScopeToThis](https://github.com/ianjohngraham/Coreblimey.ScopeToThis) -允许在Sitecore内容编辑器树上使用Visual Studio的“此功能”.
-- [DeviceEditorShortcuts](https://github.com/MartinMiles/DeviceEditorShortcuts) -提高了设备​​编辑器的生产率，显示了设置为特定组件的数据源，并通过弹出的单击预览了该数据源.
+- [DeviceEditorShortcuts](https://github.com/MartinMiles/DeviceEditorShortcuts) - A productivity improvement for Device Editor, showing datasource if set to that particular component and previewing that right from a pop-up click.
 - [DmsGutters](https://github.com/markvanaalst/Sitecore.SharedSource.DmsGutters) -内容编辑器可显示已测试和个性化的项目.
 - [Move Validator](https://github.com/Velir/Sitecore-MoveValidator) -验证是否可以基于插入选项将项目移动到新位置.
-- [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite)  -为Sitecore用户提供了一种更简化的信息发布方法来进行内容创作. 这可以通过修改5种字段类型，引入“图像”字段，启用引用项目的自动发布以及添加新功能（例如“编辑表单”，“转到项目”按钮和“字段装订线”）来实现.
+- [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite) - Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items and adding new functionality such as the Edit Form, Go to Item button and the Field Gutter.
 
 ## Fields
 
@@ -189,7 +189,7 @@
 
 ## Media
 
-- [Autocropper](https://github.com/zkniebel/Autocropper) - Automatically generates cropped versions of an image, based on pre-defined dimensions and a specified origin, for use on responsive sites.
+- [Autocropper](https://github.com/zkniebel/Autocropper) -根据预定义的尺寸和指定的原点自动生成图像的裁剪版本，以用于响应站点.
 - [Media-Framework-Brightcove-Edition](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) -适用于Sitecore Media Framework的Brightcove连接器.
 - [YouTube Integration module](https://github.com/ivansharamok/YouTube-Integration)  -在您的网站上以简单的方式显示来自YouTube频道的视频，YouTube集成模块可能正是您所需要的. 在媒体库中，您有一个YouTube文件夹，并且通过键入频道名称，该频道中的所有视频现在都由一个项目表示，当您在频道中创建新视频时，它会自动更新媒体库中的频道.
 - [Shrink](https://github.com/robhabraken/shrink) -类似于硬盘驱动器的磁盘使用情况统计信息查看器，可让您更深入地了解媒体库的使用情况，还可以显示实际正在使用和发布的项目，因此您可以轻松地找到不必要地占用数据库空间的媒体项目，为您提供清理媒体库的多种方式！
@@ -226,21 +226,22 @@
 ## Publishing
 
 - [AdvancedPublishDialog](https://github.com/Sitecore/AdvancedPublishDialog) -增强的标准发布对话框.
-- [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) -允许您监视Sitecore Publishing CM Server上的发布队列，查看其当前状态并根据需要取消发布作业（例如，排队时间，开始的发布时间，队列中的持续时间，发布的项目数，平均发布时间）一个项目，来自发布作业的所有消息）.
-- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  -“发布”按钮将强制发布项目，而不管“发布”限制中“项目”选项卡上“可发布”选项的状态如何.  1）此功能将不会在您的站点中发布未发布的链接页面，而只会发布诸如媒体库项目和项目字段中使用的数据源之类的资源，因为这些资源才可以正确显示要发布的项目. 如果尚未完成，此方法甚至可以发布当前项目使用的模板和布局.  2）“取消发布”按钮使您只需单击即可取消发布项目. 它将更改“发布限制”，因为它取消选中“项目”选项卡上的“可发布”选项，然后使用完整的“不带子项目的重新发布”来发布该项目.  3）发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但此后发生了更改，则会显示一个橙色的点（因此它已发布，但不是最新的）. 如果当前项目根本不在发布目标中，则会显示一个红点. 此功能使内容编辑器可以针对每个发布目标详细检查内容是否已发布.
+- [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) -允许您监视Sitecore Publishing CM Server上的发布队列，查看其当前状态，并根据需要取消发布作业（例如，排队时间，开始的发布时间，队列中的持续时间，发布的项目数，平均发布时间）一个项目，来自发布作业的所有消息）.
+- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  -“发布”按钮将强制发布项目，而不管“发布”限制中“项目”选项卡上“可发布”选项的状态如何.  1）此功能将不会在您的站点中发布未发布的链接页面，而只会发布诸如媒体库项目和项目字段中使用的数据源之类的资源，因为这些资源才可以正确显示要发布的项目. 如果尚未完成，此方法甚至可以发布当前项目使用的模板和布局.  2）“取消发布”按钮使您只需单击即可取消发布项目. 它将取消“发布限制”，因为它取消选中“项目”选项卡上的“可发布”选项，然后使用完整的“不带子项目的重新发布”在此之后发布该项目.  3）发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但此后发生了更改，则会显示一个橙色的点（因此它已发布，但不是最新的）. 如果当前项目根本不在发布目标中，则会显示一个红点. 此功能使内容编辑器可以针对每个发布目标详细检查内容是否已发布.
 
 ## Rules
 
 - [Page Rules](https://github.com/marek-musielak/Marek.Musielak.PageRules)  -为访问者浏览的每个页面创建任何自定义Sitecore规则. 用户尚未阅读“条款和条件”页面，想查看竞赛页面？ 页面应仅在特定日期后才能访问？ 您要使用GEO IP数据自动更改主页的语言吗？ 您尚未为页面准备翻译吗？ 使用Sitecore规则引擎，只有天空才是极限！
 - [ItemNamingRules](https://github.com/seankearney/Sitecore-ItemNamingRules)  -提供规则引擎自动执行项目名称约定的条件和操作. 您可以使用ItemNamingRules项目在内容树的不同分支中应用不同的项目命名规则.
 - [MenuItemRules](https://github.com/jammykam/Konabos.SharedSource.MenuItemRules) -基于规则的上下文项菜单可见性.
-- [Sitecore adaptive rules](https://github.com/boro2g/sitecore-adaptive-rules) - Adds support for adaptive rules for the Sitecore Rules Engine: they are useful when properties on conditions and actions have dependencies on one another.
+- [Sitecore adaptive rules](https://github.com/boro2g/sitecore-adaptive-rules) -新增了对Sitecore规则引擎的自适应规则的支持：当条件和操作的属性相互依赖时，它们很有用.
 - [Organize Insert Options Rules](https://github.com/coreyasmith/OrganizeInsertOptionsRules) -uiGetMasters管道的管道处理器，可让您根据需要在内容树中组织插入选项规则.
 
 ## Security
 
 - [Securty Headers](https://github.com/GuitarRich/SXA.SecurityHeaders) -显示了如何在SXA实例上实现响应安全标头，但它们确实是Helix通用的.
-- [MasterKey](https://github.com/islaytitans/MasterKey) -解锁Sitecore项目的模块.
+- [SI Snitch](https://github.com/KayeeNL/SI-Snitch)  -一种调试工具，用于从Sitecore Identity转换那些声明之后，读取从Sitecore Identity传递给Sitecore的声明. 这有助于确定Sitecore收到的声明（以及采用哪种格式），并确保Sitecore Identity中的组转换得到正确处理.
+- [MasterKey](https://github.com/islaytitans/MasterKey) - A module for Unlocking Sitecore Items.
 - [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights)  -启用“ item：removeVersion”访问权限，从而允许作者删除单个项目版本，而又不允许作者删除整个项目. 它还允许项目的初始创建者删除他/她自己的项目，除非对该项目应用了明确的拒绝删除访问权限.
 
 ## SEO
@@ -281,7 +282,7 @@
 - [SXA.Styleguide.Frontend](https://github.com/markvanaalst/SXA.Styleguide.Frontend)  -信息库包含运行该站点所需的所有前端代码. 它由两部分组成，即网站上使用的SXA主题和Scriban模板. 此存储库中使用的文件夹结构模仿了SXA Creative Exchange的输出，因此您可以找到主题的源和单独的抄写模板.
 - [SXA.Foundation.Variants](https://github.com/MartinMiles/SXA.Foundation.Variants) -一组自定义SXA渲染变体和一些其他有用的内容，这些内容可能会对您的解决方案有所帮助.
 - [SXA Reference](https://github.com/alan-null/XA.Reference) -在Sitecore Experience Accelerator之上构建的示例Sitecore项目.
-- [SXA.HealthCheck](https://github.com/alan-null/SXA.HealthCheck) - A Power Shell script used to determine health status of SXA site, consists of validation steps, each of them checks different thing in SXA solution and provides possible solution.
+- [SXA.HealthCheck](https://github.com/alan-null/SXA.HealthCheck) -一个Power Shell脚本，用于确定SXA站点的运行状况，包括验证步骤，每个步骤都会检查SXA解决方案中的不同内容并提供可能的解决方案.
 - [Global Field Validator](https://github.com/JeffDarchuk/SxaGlobalFieldValidator) -一个SXA模块，用于在站点级别而不是模板字段级别验证字段.
 - [Scriban syntax coloring and auto completion](https://github.com/AdamNaj/SitecoreScriban-vscode) -对Visual Studio Code的已知对象扩展程序进行Scriban语法着色和智能感知.
 - [Westco SXA Extensions](https://github.com/michaellwest/westco-sxa-extensions) -Sitecore Experience Accelerator（SXA）扩展.
@@ -294,11 +295,11 @@
 
 ## Templates
 
-- [Token Set](https://github.com/retohugi/SitecoreExtension-TokenSet) -为Sitecore数据模板提供其他标准值令牌，包括将来的日期并通过执行查询来获取值.
+- [Token Set](https://github.com/retohugi/SitecoreExtension-TokenSet) - Provides additional standard value tokens for Sitecore Data Templates, icludes future date and obtaining the value by executing a query.
 
 ## Universal Tracker
 
-- [UniversalTracker SDK](https://github.com/Sitecore/Sitecore.UniversalTracker.MobileSDK) - .Net Standard library that provides the interactions and events writing API for client .NET applications that serves as an interface that connects the Universal Tracker service and an application to let users work with native objects rather than with HTTP requests and JSON responses.
+- [UniversalTracker SDK](https://github.com/Sitecore/Sitecore.UniversalTracker.MobileSDK) -.Net标准库，为客户端.NET应用程序提供交互和事件编写API，该API充当连接Universal Tracker服务和应用程序的接口，使用户可以处理本机对象，而不是HTTP请求和JSON响应.
 
 ## WebApi
 

@@ -34,7 +34,7 @@
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) -RetroArch / Libretro的8个炸弹人克隆人.
 - [OpenClonk](https://github.com/openclonk/openclonk) -多人动作游戏，您可以控制小而灵活的类人动物.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) -重写邪教足球比赛的尝试2.
-- [OpenTyrian](https://bitbucket.org/opentyrian/opentyrian/wiki/Home) -Tyrian的开源端口，从Turbo Pascal到C.
+- [OpenTyrian](https://github.com/opentyrian/opentyrian) -Tyrian的开源端口，从Turbo Pascal到C.
 - [Taisei](https://github.com/taisei-project/taisei) -东方系列的粉丝制作的开放源代码克隆.
 - [The Great Escape in C](https://github.com/dpt/The-Great-Escape-in-C) -经典的ZX Spectrum游戏，采用便携式C语言进行的《大逃亡》.
 - [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) -一个游戏和编辑工具，可让您创建自定义的《塞尔达传说》任务.
@@ -72,7 +72,7 @@
 - [Meridian 59](https://github.com/Meridian59/Meridian59) -第一个3D MMORPG，于1996年发布，于2012年开源.Meridian59的原始代码库.
 - [Opengate](https://sourceforge.net/projects/opengate/) -重制Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) -开源旧式RuneScape客户端.
-- [Ryzom Core](https://bitbucket.org/ryzom/ryzomcore/src/develop/) -Ryzom Core包含用于制作商业MMORPG Ryzom的全部代码（客户端，服务器，工具）.
+- [Ryzom Core](https://github.com/ryzom/ryzomcore) -Ryzom Core包含用于制作商业MMORPG Ryzom的全部代码（客户端，服务器，工具）.
 - [Space Station 14](https://github.com/space-wizards/space-station-14) -空间站14是重制空间站13的尝试.
 
 ## RPG
@@ -123,7 +123,6 @@
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) -Windows，macOS，Linux的Descent和Descent 2引擎的源端口.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) -FreeSpace2源代码项目.
 - [Librelancer](https://github.com/Librelancer/Librelancer) -重新实现了2003年的太空游戏Freelancer.
-- [Open Horizon](https://github.com/undefined-darkness/open-horizon) -Ace Combat的开源实现：《攻击地平线》的渲染和物理.
 
 ## Strategy
 - [Antares](https://github.com/arescentral/antares) -重制战神战术空间战斗游戏.
