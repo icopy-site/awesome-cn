@@ -8,7 +8,7 @@
 
 
 ## Introduction
- kata或代码kata被定义为编程中的一种练习，可通过练习和重复来帮助磨练您的技能. 戴夫·托马斯（Dave Thomas） [@pragdave](https://twitter.com/pragdave) ，开始进行此编程运动. 该项目旨在为您提供一些我在Internet和Github社区中发现的kata练习. 这些练习从一般算法到更复杂的算法以及现实生活中的变化，您都可以尝试使用首选的编程语言. 请记住，代码选项卡不是测验或难题. 您不仅应尝试“解决”它，还应遵循所用编程语言的最佳做法找到一个很好的解决方案.
+ kata或代码kata被定义为编程中的一种练习，可通过练习和重复来帮助磨练您的技能. 戴夫·托马斯（Dave Thomas） [@pragdave](https://twitter.com/pragdave) ，开始进行此编程运动. 该项目旨在为您提供一些我在Internet和Github社区中发现的kata练习. 这些练习从一般算法到更复杂的算法以及现实生活中的变化，让您尝试使用首选的编程语言. 请记住，代码选项卡不是测验或难题. 您不仅应尝试“解决”它，还应遵循所用编程语言的最佳做法找到一个很好的解决方案.
 
 ## [CodeKata](http://codekata.com/)
   - [Kata01: Supermarket Pricing](http://codekata.com/kata/kata01-supermarket-pricing/)
@@ -100,6 +100,7 @@
   - [Gilded Rose Original - C#](https://github.com/NotMyself/GildedRose)
   - [Java by Comparison Kata](https://java.by-comparison.com/kata)
   - [DNA Transcription Kata](https://github.com/nickdelgrosso/dna-transcription-kata)
+  - [Refactoring Golf Kata](https://github.com/daviddenton/refactoring-golf)
   
 ## Contribution
   

@@ -87,6 +87,7 @@
 - [Geometry Run](https://www.gamee.com/game/geometryrun) -从几何形状建造的程式化无尽流道.
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) -3D教育中心.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) -恐龙，乐高玩具和车辆特技.
+- [Megopoly](https://playmegopoly.com/) -免费玩休闲策略棋盘游戏，您可以在其中投资虚拟财产.
 - [Monopoly](https://benbean.tech/monopoly-io/) -在3D视频游戏中重新创建了经典的桌游.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) -在一个微小的世界中消灭一波又一波的敌人.
 - [Star Stable](https://www.starstable.com/en/register) -流行的马游戏角色注册门户.

@@ -160,6 +160,10 @@ _对于单页应用程序（SPA）以及更多.
 
 ### UI Utilities
 
+#### Form
+
+- [svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) -用于管理表单的轻量级库.
+
 #### WebGL
 
 - [svelthree](https://github.com/vatro/svelthree) -组件库，用于以声明方式构造反应式和可重复使用的three.js场景图.

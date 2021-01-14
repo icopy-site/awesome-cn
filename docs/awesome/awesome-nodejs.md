@@ -21,6 +21,11 @@
 	<br>
 	<br>
 	<br>
+	<h3>
+		<a href="https://blog.sindresorhus.com/get-ready-for-esm-aa53530b3f77">Node.js软件包维护者→为ESM做准备！</a>
+	</h3>
+	<br>
+	<br>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
@@ -34,7 +39,7 @@
 	<br>
 </div>
 
-**您现在可以 [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) 就在此仓库中.**
+**你现在可以 [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) 就在此仓库中.**
 
 
 
@@ -305,7 +310,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除“ rm -rf”之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机fsevents的事件.
+- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机的fsevents.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -317,7 +322,7 @@
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) -完全重新设计的文件系统API，方便日常使用.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) -`fs`模块的额外方法.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) -找到npm软件包的根目录.
-- [filehound](https://github.com/nspragg/filehound) -灵活流畅的界面，用于搜索文件系统.
+- [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) -移动文件，甚至可以跨设备使用.
 - [tempy](https://github.com/sindresorhus/tempy) -获取随机的临时文件或目录路径.
 
@@ -346,10 +351,10 @@
 
 ### Streams
 
-- [through2](https://github.com/rvagg/through2) -围绕streams2的微小包装器.
+- [through2](https://github.com/rvagg/through2) -围绕streams2的微小包装器进行转换以避免显式的子类化噪声.
 - [from2](https://github.com/hughsk/from2) -ReadableStream的便利包装，灵感来自`through2`.
 - [get-stream](https://github.com/sindresorhus/get-stream) -获取流作为字符串或缓冲区.
-- [into-stream](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
+- [into-stream](https://github.com/sindresorhus/into-stream) -将缓冲区/字符串/数组/对象转换为流.
 - [duplexify](https://github.com/mafintosh/duplexify) -将可写和可读流转换为单个stream2双工流.
 - [pumpify](https://github.com/mafintosh/pumpify) -将一系列流合并为单个双工流.
 - [peek-stream](https://github.com/mafintosh/peek-stream) -转换流，可让您在决定如何解析前先窥视第一行.
@@ -398,7 +403,7 @@
 - [strip-indent](https://github.com/sindresorhus/strip-indent) -从字符串的每一行中去除前导空格.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) -检测代码的缩进.
 - [he](https://github.com/mathiasbynens/he) -HTML实体编码器/解码器.
-- [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
+- [i18n-node](https://github.com/mashpie/i18n-node) -具有动态JSON存储的简单翻译模块.
 - [babelfish](https://github.com/nodeca/babelfish) -i18n，复数非常简单的语法.
 - [matcher](https://github.com/sindresorhus/matcher) -简单的通配符匹配.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) -规范外观相似的unicode字符.
@@ -426,7 +431,7 @@
 - [Luxon](https://github.com/moment/luxon) -用于处理日期和时间的库.
 - [date-fns](https://github.com/date-fns/date-fns) -现代日期实用程序.
 - [Moment.js](http://momentjs.com) -解析，验证，操作和显示日期.
-- [Day.js](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
+- [Day.js](https://github.com/iamkun/dayjs) -不可变的日期库替代Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) -日期格式.
 - [tz-format](https://github.com/samverschueren/tz-format) -格式化带时区的日期：`2015-11-30T10：40：35 + 01：00`.
 - [cctz](https://github.com/floatdrop/node-cctz) -快速的日期解析，格式化和时区对话.
@@ -510,7 +515,7 @@
 	- [LevelUP](https://github.com/Level/levelup) -LevelDB.
 	- [MySQL](https://github.com/mysqljs/mysql) -MySQL客户端.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) -CouchDB客户端.
-	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) -Aerospike客户.
+	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) -Couchbase客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -MongoDB驱动程序.
 -ODM / ORM
@@ -518,7 +523,7 @@
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) -Backbone.js风格的PostgreSQL，MySQL和SQLite3的ORM.
 	- [Massive](https://github.com/robconery/massive-js) -PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
-	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
+	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -适用于PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM. 类似于ActiveRecord.
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
@@ -532,7 +537,7 @@
 	- [NeDB](https://github.com/louischatriot/nedb) -用JavaScript编写的嵌入式持久数据库.
 	- [Lowdb](https://github.com/typicode/lowdb) -由Lodash提供支持的小型JavaScript数据库.
 	- [Keyv](https://github.com/lukechilds/keyv) -简单的键值存储，支持多个后端.
-	- [Finale](https://github.com/tommybananas/finale) -用于Sequelize模型的RESTful端点生成器.
+	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
 	- [database-js](https://github.com/mlaanderson/database-js) -具有类似JDBC连接的多个数据库的包装器.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) -用JavaScript和JSON文件填充MongoDB数据库.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) -使用普通SQL查询PostgreSQL，MySQL和SQLite3，而不会冒着注入SQL的风险.
@@ -559,7 +564,7 @@
 - [WebdriverIO](https://github.com/webdriverio/webdriverio) -基于WebDriver协议的自动化测试.
 - [Jest](https://github.com/facebook/jest) -无痛的JavaScript测试.
 - [TestCafe](https://github.com/DevExpress/testcafe) -自动化的浏览器测试.
-- [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
+- [abstruse](https://github.com/bleenco/abstruse) -持续集成服务器.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) -端到端测试.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) -无头铬.
 - [Playwright](https://github.com/microsoft/playwright) -无头的Chromium，W​​ebKit和Firefox具有单个API.
@@ -621,14 +626,14 @@
 ### Node.js management
 
 - [n](https://github.com/tj/n) -Node.js版本管理.
-- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
+- [nave](https://github.com/isaacs/nave) -Node.js的虚拟环境.
 - [nodeenv](https://github.com/ekalinin/nodeenv) -与Python的virtualenv兼容的Node.js虚拟环境.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) -Windows版本管理.
 - [nodenv](https://github.com/nodenv/nodenv)  -版本管理器，类似于Ruby的rbenv. 它支持自动版本切换.
 
 ### Natural language processing
 
-- [retext](https://github.com/wooorm/retext) -可扩展的自然语言系统.
+- [retext](https://github.com/wooorm/retext) - An extensible natural language system.
 - [franc](https://github.com/wooorm/franc) -检测文字的语言.
 - [leven](https://github.com/sindresorhus/leven) -使用Levenshtein距离算法测量两个字符串之间的差异.
 - [natural](https://github.com/NaturalNode/natural) -自然语言设施.
@@ -647,7 +652,7 @@
 ### Automation
 
 - [robotjs](https://github.com/octalmage/robotjs) -桌面自动化：控制鼠标，键盘和阅读屏幕.
-- [nut.js](https://github.com/nut-tree/nut.js) -具有与Jest集成的图像匹配功能的跨平台本机GUI自动化/测试框架.
+- [nut.js](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
 
 ### AST
 
@@ -706,7 +711,7 @@
 - [Electron](https://github.com/atom/electron)  -使用网络技术构建跨平台的桌面应用.  *（你可能会喜欢 [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
 - [open](https://github.com/sindresorhus/open) -打开网站，文件，可执行文件之类的东西.
 - [hasha](https://github.com/sindresorhus/hasha)  -哈希变得简单. 获取缓冲区/字符串/流/文件的哈希.
-- [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
+- [dot-prop](https://github.com/sindresorhus/dot-prop) -使用点路径从嵌套对象获取属性.
 - [onetime](https://github.com/sindresorhus/onetime) -仅运行一次功能.
 - [mem](https://github.com/sindresorhus/mem) -记忆功能-一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续的函数调用.
 - [import-fresh](https://github.com/sindresorhus/import-fresh) -在绕过缓存的同时导入模块.

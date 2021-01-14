@@ -149,7 +149,7 @@
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) -检查文件顶部并修复文件的eslint规则！
 - [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) -将所有规则转换为错误.
 - [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) -将所有规则转换为警告.
-- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) -集成了ESLint插件 [putout](https://github.com/coderaiser/putout) 轻而易举地进入ESLint.
+- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) -集成了ESLint插件 [putout](https://github.com/coderaiser/putout) 将lint导入ESLint.
 - [TypeLint](https://github.com/yarax/typelint) -根据现有模式（Swagger，Redux）引入类型，并减少对对象属性的访问，以防止出现“未定义”错误.
 - [Woke](https://github.com/amwmedia/eslint-plugin-woke) -帮助捕获不敏感的单词，从而促进包容性代码库.
 
@@ -167,6 +167,7 @@
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询语法的内容.
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) -防止使用扩展的本机对象.
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) -兑现承诺时的最佳做法.
+- [pure](https://github.com/purely-functional/eslint-plugin-pure) -强制执行纯功能（无副作用）.
 - [RegExp](https://github.com/ota-meshi/eslint-plugin-regexp) -用于查找正则表达式错误和违反样式指南的ESLint插件.
 - [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) -为ESLint`sort-keys`规则添加了修复程序.
 - [this](https://github.com/matijs/eslint-plugin-this) -写纯函数，不允许`this`.

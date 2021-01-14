@@ -23,7 +23,7 @@
 * [Boost](https://github.com/boostorg)  ：zap：-大量的通用C ++库.  [促进] [website](http://www.boost.org/)
 * [BDE](https://github.com/bloomberg/bde)  -彭博实验室的BDE开发环境.  [Apache2]
 * [Cinder](https://libcinder.org/)  -社区开发的免费开放源代码库，用于提供专业质量的创意编码.  [BSD]
-* [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)  -一个小型的仅标头的库，它将各种功能从最新的C ++标准向后移植到C ++ 03及更高版本.  [麻省理工学院]
+* [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)  -一个小的仅标头的库，它将各种功能从最新的C ++标准向后移植到C ++ 03及更高版本.  [麻省理工学院]
 * [Dlib](https://github.com/davisking/dlib)  ：zap：-使用契约式编程和现代C ++技术设计的通用跨平台C ++库.  [促进] [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL)  -电子艺术标准模板库.  [BSD]
 * [ETL](https://github.com/ETLCPP/etl)  -嵌入式模板库.  [麻省理工学院]
@@ -52,7 +52,7 @@
 
 ## Artificial Intelligence
 
-* [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU)  -基于GPU（CUDA）的人工神经网络库.  [LGPL]
+* [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. [LGPL]
 * [btsk](https://github.com/aigamedev/btsk)  -游戏行为树入门套件.  [zlib]
 * [Evolving Objects](http://eodev.sourceforge.net/)  -基于模板的ANSI-C ++演化计算库，可帮助您快速疯狂地编写自己的随机优化算法.  [LGPL]
 * [frugally-deep](https://github.com/Dobiasd/frugally-deep)  -仅标题的库，用于在C ++中使用Keras模型.  [麻省理工学院]
@@ -90,7 +90,7 @@
 * [OpenAL](http://www.openal.org/)  -开放音频库-跨平台音频API.  [BSD / LGPL /商业]
 * [miniaudio](https://github.com/dr-soft/miniaudio)  -单文件音频播放和捕获库.  [无牌]
 * [Opus](http://opus-codec.org/)  -完全开放，免版税，功能广泛的音频编解码器.  [BSD]
-* [PortAudio](http://www.portaudio.com/)  -PortAudio是一个免费的，跨平台的开源音频I / O库.  [麻省理工学院]
+* [PortAudio](http://www.portaudio.com/) - PortAudio is a free, cross-platform, open-source, audio I/O library. [MIT]
 * [SELA](https://github.com/sahaRatul/sela)  -简单的无损音频.  [与]
 * [SoLoud](https://github.com/jarikomppa/soloud)  -简单，便携式的游戏音频引擎.  [zlib]
 * [Speex](http://www.speex.org/)  -用于言论自由的免费编解码器. 被Opus淘汰.  [BSD]
@@ -163,7 +163,7 @@
 * [libarchive](https://github.com/libarchive/libarchive)  -多格式存档和压缩库.  [新BSD] [website](http://www.libarchive.org/)
 * [LZ4](https://github.com/lz4/lz4)  -极快的压缩算法.  [BSD] [website](http://www.lz4.org/)
 * [LZFSE](https://github.com/lzfse/lzfse)  -LZFSE压缩库和命令行工具. 由Apple开发.
-* [LZHAM](https://code.google.com/p/lzham/)  -无损数据压缩库，压缩率类似于LZMA，但解压缩速度更快.  [BSD]
+* [LZHAM](https://code.google.com/p/lzham/)  -无损数据压缩库，压缩率与LZMA相似，但解压缩速度更快.  [BSD]
 * [LZMA](http://www.7-zip.org/sdk.html)  ：zap：-7z格式的默认和常规压缩方法.  [公共区域]
 * [LZMAT](http://www.matcode.com/lzmat.htm)  -极快的实时无损数据压缩库.  [GPL]
 * [miniz](https://github.com/richgel999/miniz)  -具有Zlib兼容API，ZIP存档读取/写入，PNG写入的单个C源文件Deflate / Inflate压缩库.  [麻省理工学院]
@@ -204,7 +204,7 @@
 * [libmill](https://github.com/sustrik/libmill/) -在C中引入Go风格的并发.
 * [marl](https://github.com/google/marl) -Marl是用C ++ 11编写的混合线程/光纤任务调度程序.[Apache-2.0]
 * [moderngpu](https://github.com/moderngpu/moderngpu)  -moderngpu是用于GPU上通用计算的生产力库. 它是为CUDA编写的仅标头C ++库. 该库的独特价值在于其用于解决不规则并行问题的加速原语.  [FreeBSD和版权，Sean Baxter]
-* [NCCL](https://github.com/NVIDIA/nccl)  -针对集体多GPU通信的优化原语.  [BSD]
+* [NCCL](https://github.com/NVIDIA/nccl)  -用于集体多GPU通信的优化原语.  [BSD]
 * [OpenCL](https://www.khronos.org/opencl/) -异构系统并行编程的开放标准.
 * [OpenMP](http://openmp.org/) -OpenMP API.
 * [SObjectizer](https://github.com/Stiffstream/sobjectizer)  -在一个相当小的C ++框架中实现Actor，Publish-Subscribe和CSP模型.  [BSD-3-Clause]
@@ -223,10 +223,10 @@
 
 * [inih](https://github.com/benhoyt/inih)  -简单的C语言.INI文件解析器，非常适合嵌入式系统.  [BSD-3-Clause]
 * [inih](https://github.com/jtilly/inih) -仅单头C ++版本 [inih](https://github.com/benhoyt/inih) .  [BSD-3-Clause]
-* [iniparser](https://github.com/ndevilla/iniparser) - INI file parser. [MIT]
+* [iniparser](https://github.com/ndevilla/iniparser)  -INI文件解析器.  [麻省理工学院]
 * [libconfig](https://github.com/hyperrealm/libconfig)  -C，C ++库，用于处理结构化配置文件.  [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) -C的小型配置文件解析器库.[ISC]
-* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
+* [simpleini](https://github.com/brofield/simpleini)  -跨平台的C ++库，提供了一个简单的API来读取和写入INI样式的配置文件.  [麻省理工学院]
 * [toml++](https://github.com/marzer/tomlplusplus)  -C ++ 17及更高版本的仅标头TOML解析器和序列化器.  [麻省理工学院] [website](https://marzer.github.io/tomlplusplus/)
 
 ## Containers
@@ -253,7 +253,7 @@
 * [BeeCrypt](http://beecrypt.sourceforge.net/)  -便携式快速密码库.  [LGPLv2.1 +]
 * [Botan](http://botan.randombit.net/)  -C ++的加密库.  [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp)  -加密方案的免费C ++类库.  [促进] [website](http://www.cryptopp.com/)
-* [digestpp](https://github.com/kerukuro/digestpp) - C++11 header-only message digest (hash) library. [PublicDomain]
+* [digestpp](https://github.com/kerukuro/digestpp)  -C ++ 11仅标头消息摘要（哈希）库.  [公共区域]
 * [GnuPG](https://www.gnupg.org/)  -完整且免费的OpenPGP标准实施.  [GPL]
 * [GnuTLS](http://www.gnutls.org/)  -实现SSL，TLS和DTLS协议的安全通信库.  [LGPL2.1]
 * [Libgcrypt](http://www.gnu.org/software/libgcrypt/)  -最初基于GnuPG的代码的通用密码库.  [LGPLv2.1 +]
@@ -284,7 +284,7 @@
 * [hiberlite](https://github.com/paulftw/hiberlite)  -sqlite3的C ++对象关系映射.  [BSD]
 * [Hiredis](https://github.com/redis/hiredis)  -用于Redis数据库的简约C客户端库.  [BSD]
 * [LevelDB](https://github.com/google/leveldb)  -由Google编写的快速键值存储库，提供了从字符串键到字符串值的有序映射.  [BSD]
-* [LMDB](http://symas.com/mdb/)  -具有完整ACID语义的非常快速的嵌入式键/值存储.  [OpenLDAP]
+* [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
 * [LMDB++](https://github.com/bendiken/lmdbxx)  -LMDB嵌入式数据库库的C ++ 11包装器.  [公共区域]
 * [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) -用于C的MongoDB客户端库.[Apache2]
 * [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver)  -MongoDB的C ++驱动程序.  [Apache2]
@@ -480,7 +480,7 @@
 * [rpclib](https://github.com/rpclib/rpclib)  -现代的C ++ msgpack-RPC服务器和客户端库.  [麻省理工学院]
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp)  -一个简单的C / C ++函数的RPC包装器生成器.  [BSD]
 * [WAMP](http://wamp.ws/)  -提供RPC和发布/订阅消息传递模式.  （各种实现，各种语言）
-* [xmlrpc-c](http://xmlrpc-c.sourceforge.net/) - A lightweight RPC library based on XML and HTTP. [BSD]
+* [xmlrpc-c](http://xmlrpc-c.sourceforge.net/)  -基于XML和HTTP的轻量级RPC库.  [BSD]
 
 ## JSON
 
@@ -525,7 +525,7 @@
 * [Log4cpp](http://log4cpp.sourceforge.net/)  -C ++类库，用于灵活地记录文件，系统日志，IDSA和其他目标.  [LGPL]
 * [log4cplus](https://github.com/log4cplus/log4cplus)  -简单易用的C ++日志记录API，提供对日志管理和配置的线程安全，灵活和任意粒度的控制.  [BSD和Apache2]
 * [loguru](https://github.com/emilk/loguru)  -轻量级的C ++日志记录库.  [公共区域]
-* [plog](https://github.com/SergiusTheBest/plog)  -少于1000行代码的C ++便携式和简单日志.  [MPL2]
+* [plog](https://github.com/SergiusTheBest/plog) - Portable and simple log for C++ in less than 1000 lines of code. [MPL2]
 * [reckless](https://github.com/mattiasflodin/reckless)  -用于C ++的低延迟，高吞吐量的异步日志记录库.  [麻省理工学院]
 * [spdlog](https://github.com/gabime/spdlog) -超快速，仅标头，C ++日志记录库.
 * [templog](http://www.templog.org/)  -一个非常轻巧的C ++库，可用于将日志记录添加到C ++应用程序.  [促进]
@@ -577,6 +577,7 @@
 * [linmath.h](https://github.com/datenwolf/linmath.h)  -精益线性数学库，主要用于图形编程.  [WTFPL]
 * [lp_solve](https://sourceforge.net/projects/lpsolve)  -用于制定和解决线性编程问题的库.  [LGPL] [website](http://lpsolve.sourceforge.net)
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS)  -基于GotoBLAS2 1.13 BSD版本的优化BLAS库.  [BSD 3句] [website](http://www.openblas.net/)
+* [PCG-rand](https://www.pcg-random.org/)  -PCG是用于随机数生成的一系列简单，快速，节省空间的统计上好的算法. 与许多通用RNG不同，它们也很难预测.  [Apache]
 * [QuantLib](https://github.com/lballabio/quantlib)  -一个免费/开源的数量金融库.  [修改后的BSD] [website](http://quantlib.org/)
 * [StatsLib](https://github.com/kthohr/stats)  -统计分布函数的C ++仅标头库.  [Apache2] [website](https://www.kthohr.com/statslib.html)
 * [SymEngine](https://github.com/symengine/symengine)  -快速的符号操作库，用C ++重写了SymPy的核心.  [麻省理工学院]
@@ -601,7 +602,7 @@
 
 * [GStreamer](http://gstreamer.freedesktop.org/)  -用于构造媒体处理组件图的库.  [LGPL]
 * [libass](https://github.com/libass/libass)  -用于ASS / SSA字幕格式的便携式字幕渲染器.  [ISC]
-* [LIVE555 Streaming Media](http://www.live555.com/liveMedia/)  -使用开放标准协议（RTP / RTCP，RTSP，SIP）的多媒体流媒体库.  [LGPL]
+* [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC)  -libVLC（VLC SDK）媒体框架.  [GPL]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib)  -方便统一显示视频和音频文件中最相关的技术和标签数据.  [BSD]
 * [QtAv](https://github.com/wang-bin/QtAV)  -基于Qt和FFmpeg的多媒体播放框架，可轻松编写播放器.  [LGPL] [website](http://wang-bin.github.io/QtAV/)
@@ -654,7 +655,7 @@
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp)  -适用于C ++的简单REST客户端. 它包装libcurl用于HTTP请求.  [麻省理工学院]
 * [Seasocks](https://github.com/mattgodbolt/seasocks)  -具有WebSockets支持的简单，小型，可C ++嵌入的Web服务器.  [BSD]
 * [Silicon](http://siliconframework.org)  -面向中间件的高性能C ++ 14 http Web框架.  [麻省理工学院]
-* [tlse](https://github.com/eduardsui/tlse) - Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library [BSD-2-Clause]
+* [tlse](https://github.com/eduardsui/tlse) -单个C文件TLS 1.2 / 1.3实现，使用tomcrypt作为加密库[BSD-2-Clause]
 * [Tufão](https://github.com/vinipsmaker/tufao)  -基于Qt构建的C ++异步Web框架.  [LGPL2]
 * [uriparser](https://github.com/uriparser/uriparser)  -严格符合RFC 3986的URI解析和处理库.  [BSD-3-Clause]
 * [uWebSockets](https://github.com/uNetworking/uWebSockets)  -µWS是最轻便，高效和可扩展的WebSocket和HTTP服务器实现之一.  [Zlib]
@@ -688,7 +689,7 @@
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)  -Nvidia作为Nvidia GameWorks软件套件的一部分开发的开源实时物理引擎中间件SDK.  [BSD-3-Clause]
 * [Project Chrono](https://github.com/projectchrono/chrono)  -开源的多物理场仿真引擎.  [BSD-3-Clause] [website](https://projectchrono.org/)
 * [Quantum++](https://github.com/vsoftco/qpp)  -现代的C ++ 11量子计算库.  [麻省理工学院]
-* [Simbody](https://github.com/simbody/simbody)  -高性能的C ++多体动力学/物理库，用于模拟铰接的生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
+* [Simbody](https://github.com/simbody/simbody)  -高性能的C ++多体动力学/物理库，用于模拟关节运动的生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
 * [SOFA](https://github.com/sofa-framework/sofa)  -SOFA是一个针对实时模拟的开源框架，重点是医学模拟.  [LGPL] [website](https://www.sofa-framework.org)
 
 ## Reflection
@@ -776,7 +777,7 @@
 * [nanopb](https://github.com/nanopb/nanopb) -ANSI C中小的代码大小的协议缓冲区实现.[Zlib]
 * [protobuf](https://github.com/protocolbuffers/protobuf)  -协议缓冲区-Google的数据交换格式.  [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) -在C中实现协议缓冲区.[BSD]
-* [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
+* [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)  -以二进制格式对低延迟应用程序的应用程序消息进行编码和解码.  [Apache2]
 * [upb](https://github.com/protocolbuffers/upb) -在C中的一个小型protobuf实现.[BSD]
 * [YAS](https://github.com/niXman/yas)  -非常快**还**另一个** S **序列化库支持二进制/文本/ json格式.  [促进]
 
@@ -784,12 +785,13 @@
 
 * [pdqsort](https://github.com/orlp/pdqsort)  -破坏模式的快速排序.  [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort)  -模板化的稳定排序功能，对于反向或半排序数据，其性能优于基于std :: sort的基于快速排序的算法.  [麻省理工学院]
+* [Indiesort](https://github.com/mattreecebentley/plf_indiesort)  -排序包装器，可将std :: sort（及其他随机访问排序函数）与非随机访问容器一起使用，并提高随机访问容器中大型/非平凡可复制类型的排序性能，并且数组.  [zLib] [website](https://plflib.org/indiesort.htm)
 
 ## Video
 
 * [libvpx](http://www.webmproject.org/code/)  -VP8 / VP9编解码器SDK.  [BSD]
 * [FFmpeg](https://www.ffmpeg.org/)  -完整的跨平台解决方案，用于记录，转换和流式传输音频和视频.  [LGPL2 / GPL2]
-* [libde265](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
+* [libde265](https://github.com/strukturag/libde265)  -打开h.265视频编解码器实现.  [LGPL] [website](http://www.libde265.org/)
 * [x265](https://bitbucket.org/multicoreware/x265/wiki/Home)  -打开h.265视频编解码器实现.  [GPL2] [website](https://x265.readthedocs.io/en/default/)
 * [OpenH264](https://github.com/cisco/openh264)  -开源H.264编解码器.  [BSD] [website](http://www.openh264.org/)
 * [Theora](http://www.theora.org/)  -免费开放的视频压缩格式.  [BSD]
@@ -803,13 +805,13 @@
 
 ## Web Application Framework
 
-* [Civetweb](https://github.com/civetweb/civetweb)  -提供易于使用，功能强大的C / C ++嵌入式Web服务器，并具有可选的CGI，SSL和Lua支持.  [麻省理工学院]
+* [Civetweb](https://github.com/civetweb/civetweb) - Provides easy to use, powerful, C/C++ embeddable web server with optional CGI, SSL and Lua support. [MIT]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)  -使用现代异步C ++ API设计以本机代码进行基于云的客户端-服务器通信的Microsoft项目.  [麻省理工学院]
 * [CppCMS](http://cppcms.com/)  -免费的高性能Web开发框架（不是CMS）.  [LGPLv3]
 * [Crow](https://github.com/ipkn/crow)  -Crow是C ++微型网络框架（受Python Flask启发）.  [BSD]
 * [Cutelyst](https://github.com/cutelyst/cutelyst)  -使用Catalyst（Perl）框架的简单方法，在Qt之上构建的C ++ Web框架.  [LGPLv2.1 +] [website](https://cutelyst.org/)
 * [Drogon](https://github.com/an-tao/drogon)  -基于C ++ 14/17的高性能HTTP应用程序框架.  [麻省理工学院]
-* [facil.io](https://github.com/boazsegev/facil.io)  -事件丰富的高性能C Web框架，支持HTTP，WebSocket，SSE等.  [麻省理工学院] [website](http://facil.io)
+* [facil.io](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. [MIT] [website](http://facil.io)
 * [Kore](https://kore.io/) -用C开发的用于Web应用程序的超快速和灵活的Web服务器/框架.[ISC]
 * [libOnion](http://www.coralbits.com/libonion/)  -轻量级的库，可帮助您使用C编程语言创建Web服务器.  [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan)  -实验性，可扩展的高性能HTTP服务器.  [GPL2]
@@ -876,14 +878,14 @@
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet) 用于左值，右值等的PDF备忘单.  [Jan copyleft]
 * [VarTypes](https://github.com/szi/vartypes)  -一个功能丰富的，面向对象的框架，用于管理C ++ / Qt4中的变量.  [LGPL]
 * [ZBar](http://zbar.sourceforge.net/)  -条形码扫描器库，该库允许扫描照片/图像/视频流中的条形码并返回其值.  [LGPL2]
-* [ZXing](https://github.com/zxing/zxing/)  -用Java实现的开源，多格式1D / 2D条码图像处理库，带有其他语言的端口.  [Apache]
+* [ZXing](https://github.com/zxing/zxing/)  -使用Java实现的开放源代码，多格式1D / 2D条码图像处理库，并带有其他语言的端口.  [Apache]
 * [pprint](https://github.com/p-ranav/pprint)  -适用于现代C ++的漂亮打印机.  [麻省理工学院]
 
 ## Software
 *用于创建开发环境的软件.*
 
 ## Compiler
-*List of C or C++ compilers*
+* C或C ++编译器列表*
 
 * [8cc](https://github.com/rui314/8cc) -小型C编译器.
 * [c](https://github.com/ryanmjacobs/c)  -一次性编译并执行C“脚本”！  [麻省理工学院]
@@ -1058,8 +1060,8 @@
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 * [Hi Def [HD]中很棒的C编程教程]（https://www.youtube.com/playlist?list=PLCB9F975ECF01953C）-针对初学者和新程序员的详细C编程语言教程的集合.
-* [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) -由VoidRealms提供.
-* [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) -由VoidRealms提供.
+* [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
+* [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) -TheNewBoston官方Buckys C ++编程教程播放列表.
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) -这些都是newboston的C ++编程教程.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) -带有Qt教程的newboston C ++ GUI的官方播放列表.
@@ -1072,7 +1074,7 @@
 * [Standard C++](https://isocpp.org/) ：zap：-有关标准C ++的新闻，状态和讨论.
 * [CppCon](http://cppcon.org/) -C ++会议.
 * [C++ reference](http://cppreference.com/) -C ++ 98，C ++ 03，C ++ 11，C ++ 14参考.
-* [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
+* [cplusplus.com](http://www.cplusplus.com/) -C ++资源网络.
 * [C FAQ](http://c-faq.com/) -C常见问题.
 * [C++ FAQ](http://www.parashift.com/c++-faq/) -C ++常见问题.
 * [C++ FQA Lite](http://yosefk.com/c++fqa/) -C ++常见问题解答.

@@ -19,7 +19,7 @@ _awesome_ Common Lisp库的精选列表.
 这样. 标有a的库是我们喜欢并想要
 在Awesome-cl列表中进行推广. 他们证明是可靠的，他们可能会解决
 一个比社区标准更好的问题，但事实并非如此
-普遍存在，或不被认为是稳定的. 例如，我们更喜欢
+普遍存在，或不被视为稳定. 例如，我们更喜欢
 Cl-Who上的喷丝板.
 
 添加新的东西！ 见 [contributing](#contributing) 部分添加到
@@ -42,12 +42,12 @@ Audio
 
 * [Open Music](https://github.com/openmusic-project/OM6)  -可视化程序，计算机辅助合成环境.  [GPL3] [2].
 * [OM7](https://github.com/openmusic-project/om7)  -OpenMusic可视化编程和计算机辅助合成环境的新实现，包括图形界面，计算模式以及与外部软件库的连接方面的许多改进.  [GPL3] [2].
-* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境. 从零开始设计软件合成器或声音插件很有用. 它也是一种合成工具，可以在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
+* [Incudine](http://incudine.sourceforge.net/)  -Common Lisp的音乐/ DSP编程环境. 从零开始设计软件合成器或声音插件很有用. 它也是一种合成工具，可在样本级别上产生可控制的高质量声音，实时定义和重新定义数字信号处理器和音乐结构.
 * [cl-collider](https://github.com/byulparan/cl-collider) - 一种
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端. 用 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) . 公共区域.
 * [csound](https://github.com/csound/csound)  -声音和音乐计算系统. 包括用于Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)  -Common Lisp Music是Music V系列中的音乐合成和信号处理软件包. 它提供与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic几乎相同的功能-一组创建和操纵声音的功能，主要针对作曲家（无论如何，对于CLM而言）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在实现其中的大部分功能，但以一种更加健壮，富有表现力，一致，反射性和脆弱的方式实现. 通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)  -一种通过Lisp代码进行音乐创作的系统，该系统受到SuperCollider的模式系统的极大启发，旨在以更健壮，更具表现力，连贯性，反射性和柔和的方式实现其中的大部分功能. 通过SuperCollider进行音频输出，初步支持Incudine，通过ALSA进行MIDI.
 * [cl-openal](https://github.com/zkat/cl-openal)  -用于OpenAL音频库的绑定. 公共区域.
 * [Common Music](https://github.com/ormf/cm) -一个的存储库
 古老版本的通用音乐（2.12.0版），大概是最后一个
@@ -569,7 +569,7 @@ Advanced
 其他书
 -----------
 
-* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)）由肯·福布斯（Ken Forbus）和约翰·德克莱尔（Johan de Kleer）提供，由麻省理工学院出版社（MIT Press）免费提供-这是一本独特的标准人工智能书籍，结合了科学与工程，理论和工艺来描述AI推理系统的构造，并包括说明思想的代码.
+* [Building Problem Solvers](https://www.qrg.northwestern.edu/bps/readme.html) ([PDF](http://www.qrg.northwestern.edu/bps/BPS-Searchable.pdf)）由肯·福布斯（Ken Forbus）和约翰·德克莱尔（Johan de Kleer）提供，由麻省理工学院出版社（MIT Press）免费提供-这是一本独特的标准人工智能教科书，结合了科学与工程，理论和工艺来描述AI推理系统的构造，并包括说明思想的代码.
 
 Community
 ---------
@@ -728,7 +728,7 @@ URI处理
 
 * [quri](https://github.com/fukamachi/quri) -另一个URI库
   普通Lisp. 支持用户信息，IPv6主机名，编码/解码
-  实用程序，…[BSD_3Clause] [15].
+  utilities,… [BSD_3Clause][15].
 * [cl-slug](https://github.com/EuAndreh/cl-slug)  -一个小型库，主要用于URI，在CamelCase中进行转换，删除重音和标点符号，用于英语和英语.  [LLGPL] [8].
 
 Javascript
@@ -771,7 +771,7 @@ Websockets
 ----------------------
 
 * [coleslaw](https://github.com/kingcons/coleslaw) 及其
-  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) -灵活
+  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - Flexible
    Lisp Blogware与Frog，Jekyll或Hakyll类似.  [BSD] [15].
 
 Deployment
@@ -927,7 +927,7 @@ Utils
 * [SBCL's timers](http://www.sbcl.org/manual/#Timers)，系统范围内的事件调度程序.
 * [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理. 受Ruby的Sidekiq启发，并与其Web UI兼容.  [LLGPL] [8].
 * [cl-cron](https://github.com/ciel-lang/cl-cron)  -提供cron类设施的简单工具.  [GPL3] [2].
-* [clerk](https://github.com/tsikov/clerk) - a cron-like scheduler with sane DSL. [MIT][200].
+* [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的类似cron的调度程序.  [MIT] [200].
 
 
 Regex
@@ -987,6 +987,8 @@ Readline，ncurses和其他图形助手
   功能类似于shell命令，而无需编写命令
   line arguments parser. And it also can be used as a Make-like
   构建工具.  [FreeBSD] [39].
+* [cmd](https://github.com/ruricolist/cmd)  -用于运行外部程序的实用程序. 防止外壳插值（考虑到多线程程序而构建，Windows支持）.  [MIT] [200].
+   *`uiop：run-program`（同步）和`uiop：launch-program`（异步）随ASDF一起提供，并且在所有现代实现中都可用. 见 [CL Cookbook: running external programs](https://lispcookbook.github.io/cl-cookbook/os.html#running-external-programs).
 * [Clesh](https://github.com/Neronus/Clesh)  -以类似于perl的反引号的方式扩展Common Lisp以嵌入Shell代码.  [FreeBSD] [39].
 
 系统管理
@@ -1231,7 +1233,7 @@ Lisp核心.
 可以实现与Literate Programming相似的效果，但是
 文档是从代码生成的，反之亦然. 代码是第一位
 代码必须看起来很漂亮，文档就是代码.  [MIT] [200].
-* [erudite](https://github.com/mmontone/erudite)  -精巧的编程系统，考虑了交互式开发.  [MIT] [200].
+* [erudite](https://github.com/mmontone/erudite) - Literate Programming System built with interactive development in mind. [MIT][200].
 
 
 文件和目录

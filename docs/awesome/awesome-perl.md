@@ -481,7 +481,8 @@
 * [Dancer](https://metacpan.org/pod/Dancer) ([Official site](http://perldancer.org/))
 * [Dancer2](https://metacpan.org/pod/Dancer2)
 * [Gantry](https://metacpan.org/pod/Gantry) -用于mod \ _perl，cgi等的Web应用程序框架
-* [Kossy](https://metacpan.org/pod/Kossy) -具有简单界面的Web框架.
+* [Kelp](https://metacpan.org/pod/Kelp) -专注于Plack的Perl Web框架
+* [Kossy](https://metacpan.org/pod/Kossy) - A Web framework with simple interface.
 * [Mojolicious](https://metacpan.org/pod/Mojolicious) -一体化框架.
 * [Poet](https://metacpan.org/pod/Poet) -面向Mason开发人员的现代Perl Web框架
 

@@ -11,7 +11,7 @@
 <a href="http://espressif.com/en/products/hardware/esp32/overview"><img src="https://pbs.twimg.com/profile_images/863510403120222208/rjVOiTe3.jpg" alt="ESP32" align="left" style="margin-right: 25px" height=150></a>
 &gt;两者 [ESP8266](http://espressif.com/en/products/hardware/esp8266ex/overview) 和 [ESP32](http://espressif.com/en/products/hardware/esp32/overview) 是上海的制造商乐鑫系统有限公司生产的具有完整TCP / IP堆栈和微控制器功能的低成本Wi-Fi微芯片.  
 > <br/>
-&gt;看 [Contributing](https://github.com/agucova/awesome-esp/blob/master/contributing.md) for information on how to contribute to this list.
+&gt;看 [Contributing](https://github.com/agucova/awesome-esp/blob/master/contributing.md) 有关如何为该列表做出贡献的信息.
 > <br/><br/> 
 
 <!--lint disable no-repeat-punctuation-->
@@ -63,7 +63,7 @@
 
 ### Biomedical
 - [HeartyPatch](https://heartypatch.protocentral.com/) -使用ESP32的可穿戴BLE和WiFi连接的ECG-HR补丁.
-- [HealthyPi v4](https://www.crowdsupply.com/protocentral/healthypi-v4-unplugged) -一款出色的开源生命体征监测器，可以监测ESP32所运行的ECG，呼吸，脉搏血氧饱和度和体温.
+- [HealthyPi v4](https://www.crowdsupply.com/protocentral/healthypi-v4-unplugged) -一款出色的开源生命体征监测仪，可以监测ECG，呼吸，脉搏血氧饱和度和体温，全部由ESP32运行.
 
 ### Others
 - [SoftRF](https://github.com/lyusupov/SoftRF) -可以在无人机项目中使用的DIY航空近距离感知系统.
@@ -89,7 +89,7 @@
 - [AsyncTCP](https://github.com/me-no-dev/ESPAsyncTCP) -8266和32的异步TCP库.
 - [ESP-HomeKit](https://github.com/maximkulkin/esp-homekit) -在RTOS上实现8266的Homekit实现.
 - [ESPHelper](https://github.com/ItKindaWorks/ESPHelper) -8266的面向MQTT和Wi-fi自动化的库.
-- [ESPHelper/32](https://github.com/ItKindaWorks/ESPHelper32) -32的ESPHelper库的端口.
+- [ESPHelper/32](https://github.com/ItKindaWorks/ESPHelper32) - Port of the ESPHelper library for the 32.
 - [ESP8266Wifi](https://github.com/ekstrand/ESP8266wifi) -8266的简单Arduino Wifi库.
 - [WiFiESP](https://github.com/bportaluri/WiFiEsp) -用于Wifi管理的Arduino库，用于8266开发板的客户端/服务器.
 - [TinyGSM](https://github.com/vshymanskyy/TinyGSM) -一个快速简单的Arduino库，用于与GSM模块进行交互，该模块还可以通过AT命令控制8266.
@@ -100,3 +100,4 @@
 - [Esp32SSHClient](https://github.com/J-Rios/Arduino-esp32sshclient) -在ESP32中实现SSH客户端的库.
 - [painlessMesh](https://github.com/gmag11/painlessMesh) -一个负责使用ESP8266和ESP32硬件创建简单网状网络的细节的库.
 - [WifiEspNow](https://github.com/yoursunny/WifiEspNow) -的Arduino库 [ESP-NOW](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html)，由定义的无连接WiFi通信协议 [Espressif](https://github.com/espressif).
+- [go-mcu](https://github.com/matiasinsaurralde/go-mcu) -Golang软件包，用于与基于NodeMCU的板进行交互.

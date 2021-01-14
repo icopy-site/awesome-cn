@@ -12,7 +12,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 
 更多资源：
 
-* For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+*有关可下载的免费机器学习书籍列表，请访问 [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
 
 *有关专业机器学习事件的列表，请转到 [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/events.md).
 
@@ -47,7 +47,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 <a name="c-general-purpose"></a>
 #### General-Purpose Machine Learning
 * [Darknet](https://github.com/pjreddie/darknet)  -Darknet是用C和CUDA编写的开源神经网络框架. 它快速，易于安装，并支持CPU和GPU计算.
-* [Recommender](https://github.com/GHamrouni/Recommender) -使用协作过滤（CF）的AC库，用于产品推荐/建议.
+* [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 * [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recommender system based upon scikit-learn algorithms. **[Deprecated]**
 * [neonrvm](https://github.com/siavashserver/neonrvm)  -neonrvm是基于RVM技术的开源机器学习库. 它是用C编程语言编写的，并带有Python编程语言绑定.
 * [cONNXr](https://github.com/alrevuelta/cONNXr)  -用纯C（99）编写的“ ONNX”运行时，零依赖关系集中在小型嵌入式设备上. 无论您使用哪种框架训练推理，都可以在机器学习模型上进行推理. 易于安装并在任何地方编译，即使在非常旧的设备中也是如此.
@@ -82,7 +82,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 * [DeepDetect](https://github.com/jolibrain/deepdetect)  -用C ++ 11编写的机器学习API和服务器. 它使最先进的机器学习易于使用并集成到现有应用程序中.
 * [Distributed Machine learning Tool Kit (DMTK)](http://www.dmtk.io/)  -Microsoft提供的分布式机器学习（参数服务器）框架. 在多台机器上的大型数据集上启用训练模型. 与它捆绑在一起的当前工具包括：LightLDA和分布式（多义）词嵌入.
 * [DLib](http://dlib.net/ml.html) -一套易于嵌入其他应用程序的ML工具.
-* [DSSTNE](https://github.com/amznlabs/amazon-dsstne) -亚马逊创建的一个软件库，用于使用GPU训练和部署深度神经网络，该软件库着重于速度和规模上的实验灵活性.
+* [DSSTNE](https://github.com/amznlabs/amazon-dsstne) -亚马逊创建的软件库，用于使用GPU训练和部署深度神经网络，该软件库着重于速度和规模上的实验灵活性.
 * [DyNet](https://github.com/clab/dynet)  -动态神经网络库可以很好地与具有随每个训练实例而变化的动态结构的网络一起使用. 用C ++编写，并带有Python绑定.
 * [Fido](https://github.com/FidoProject/Fido) -用于嵌入式电子和机器人技术的高度模块化的C ++机器学习库.
 * [igraph](http://igraph.org/) -通用图形库.
@@ -123,7 +123,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 * [CRFsuite](http://www.chokkan.org/software/crfsuite/)  -CRFsuite是用于标记顺序数据的条件随机字段（CRF）的实现.  ** [不推荐使用] **
 * [frog](https://github.com/LanguageMachines/frog) -为荷兰人开发的基于内存的NLP套件：PoS标记器，lemmatiser，依赖解析器，NER，浅解析器，形态分析器.
 * [libfolia](https://github.com/LanguageMachines/libfolia) -的C ++库 [FoLiA format](https://proycon.github.io/folia/)
-* [MeTA](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) is a C++ Data Sciences Toolkit that facilitates mining big text data.
+* [MeTA](https://github.com/meta-toolkit/meta) - [MeTA : ModErn Text Analysis](https://meta-toolkit.org/) 是一个C ++ Data Sciences Toolkit，可帮助挖掘大文本数据.
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) -用于命名实体识别和关系提取的C，C ++和Python工具
 * [ucto](https://github.com/LanguageMachines/ucto)  -用于各种语言的基于Unicode的正则表达式标记器. 工具和C ++库. 支持FoLiA格式.
 
@@ -197,7 +197,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 <a name="clojure-data-visualization"></a>
 #### Data Visualization
 * [Hanami](https://github.com/jsa-aerial/hanami)  ：Clojure（Script）库和框架，用于创建基于Vega-Lite（VGL）和/或Vega（VG）规范的交互式可视化应用程序. 自动取景和布局以及功能强大的模板系统，用于抽象化可视化规范
-* [Saite](https://github.com/jsa-aerial/saite) -Clojure（Script）客户端/服务器应用程序，用于动态交互式探索以及创建实时共享文档，使用Vega / Vega-Lite，CodeMirror，markdown和LaTeX捕获它们
+* [Saite](https://github.com/jsa-aerial/saite) -Clojure（Script）客户端/服务器应用程序，用于动态交互式探索以及使用Vega / Vega-Lite，CodeMirror，markdown和LaTeX创建实时共享文档以捕获它们
 * [Oz](https://github.com/metasoarous/oz) -使用Vega / Vega-Lite和Hiccup进行数据可视化，以及用于文盲编程的实时重载平台
 * [Envision](https://github.com/clojurewerkz/envision) -Clojure数据可视化库，基于Statistiker和D3.
 * [Pink Gorilla Notebook](https://github.com/pink-gorilla/gorilla-notebook) -基于Gorilla-REPL的Clojure / Clojurescript笔记本应用程序/库 
@@ -298,7 +298,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 * [gorgonia](https://github.com/gorgonia/gorgonia) -Go中的深度学习.
 * [goro](https://github.com/aunum/goro) -位于Keras脉络的高级机器学习库.
 * [gorse](https://github.com/zhenghaoz/gorse) -基于Go编写的协作过滤的离线推荐系统后端.
-* [therfoo](https://github.com/therfoo/therfoo) -用于Go的嵌入式深度学习库.
+* [therfoo](https://github.com/therfoo/therfoo) - An embedded deep learning library for Go.
 * [neat](https://github.com/jinyeom/neat)  -用于增强拓扑神经进化（NEAT）的即插即用，并行Go框架.  ** [不推荐使用] **
 * [go-pr](https://github.com/daviddengcn/go-pr)  -Go lang中的模式识别包.  ** [不推荐使用] **
 * [go-ml](https://github.com/alonsovidales/go_ml)  -线性/逻辑回归，神经网络，协作过滤和高斯多元分布.  ** [不推荐使用] **
@@ -321,7 +321,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 * [gota](https://github.com/go-gota/gota) -数据框.
 * [gonum/mat](https://godoc.org/gonum.org/v1/gonum/mat) -Go的线性代数包.
 * [gonum/optimize](https://godoc.org/gonum.org/v1/gonum/optimize) -优化算法的实现.
-* [gonum/plot](https://godoc.org/gonum.org/v1/plot) - A plotting library.
+* [gonum/plot](https://godoc.org/gonum.org/v1/plot) -绘图库.
 * [gonum/stat](https://godoc.org/gonum.org/v1/gonum/stat) -统计资料库.
 * [SVGo](https://github.com/ajstarks/svgo) -用于SVG生成的Go语言库.
 * [glot](https://github.com/arafatk/glot) -Glot是在gnuplot之上构建的Golang绘图库.
@@ -377,7 +377,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 * [ClearTK](https://github.com/ClearTK/cleartk)  -ClearTK提供了一个框架，用于在Java中开发统计自然语言处理（NLP）组件，并基于Apache UIMA构建.  ** [不推荐使用] **
 * [Apache cTAKES](https://ctakes.apache.org/) -Apache临床文本分析和知识提取系统（cTAKES）是一种开源自然语言处理系统，用于从电子病历临床自由文本中提取信息.
 * [NLP4J](https://github.com/emorynlp/nlp4j)  -NLP4J项目提供用于自然语言处理的软件和资源. 该项目始于计算语言和教育研究中心，目前由埃默里大学语言和信息研究中心开发.  ** [不推荐使用] **
-* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) -该项目收集了伊利诺伊大学认知计算小组开发的许多自然语言处理（NLP）核心库，例如“ illinois-core-utilities”，该库提供了一组对NLP友好的数据结构以及许多与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，“ illinois-edison”是一个库，用于从illinois-core-utilities数据结构和许多其他软件包中提取特征.
+* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) -该项目收集了伊利诺伊大学认知计算小组开发的大量自然语言处理（NLP）核心库，例如“ illinois-core-utilities”，该库提供了一组对NLP友好的数据结构以及许多与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，“ illinois-edison”是一个库，用于从illinois-core-utilities数据结构和许多其他软件包中提取特征.
 
 <a name="java-general-purpose"></a>
 #### General-Purpose Machine Learning
@@ -395,7 +395,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 * [Meka](http://meka.sourceforge.net/) -用于多标签分类和评估（扩展到Weka）的方法的开源实现.
 * [MLlib in Apache Spark](https://spark.apache.org/docs/latest/mllib-guide.html) -Spark中的分布式机器学习库
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) -用于将Apache Spark MLLib机器学习模型部署为实时，批处理或反应式Web服务的服务.
-* [Neuroph](http://neuroph.sourceforge.net/) - Neuroph is lightweight Java neural network framework
+* [Neuroph](http://neuroph.sourceforge.net/) -Neuroph是轻量级的Java神经网络框架
 * [ORYX](https://github.com/oryxproject/oryx) -使用Apache Spark和Apache Kafka的Lambda体系结构框架，专门用于实时大规模机器学习.
 * [Samoa](https://samoa.incubator.apache.org/) SAMOA是一个框架，其中包括针对数据流的分布式机器学习，并带有一个接口以插入不同的流处理平台.
 * [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/)  -RankLib是一个学习算法排名库.  ** [不推荐使用] **
@@ -405,7 +405,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 * [Smile](https://haifengl.github.io/) -统计机器智能和学习引擎.
 * [SystemML](https://github.com/apache/systemml) -灵活，可扩展的机器学习（ML）语言.
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/) -Weka是用于数据挖掘任务的机器学习算法的集合.
-* [LBJava](https://github.com/CogComp/lbjava) -基于学习的Java是一种用于快速开发软件系统的建模语言，直接针对程序员应用程序中的对象，为分类器和约束定义提供了方便的声明式语法.
+* [LBJava](https://github.com/CogComp/lbjava) -基于学习的Java是一种用于快速开发软件系统的建模语言，它直接针对程序员应用程序中的对象，为分类器和约束定义提供了一种方便的声明式语法.
 
 
 <a name="java-speech-recognition"></a>
@@ -540,7 +540,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 * [Local Regression](https://github.com/JuliaStats/Loess.jl) -局部回归，非常顺畅！
 * [Naive Bayes](https://github.com/nutsiepully/NaiveBayes.jl)  -朱莉娅的简单朴素贝叶斯实现.  ** [不推荐使用] **
 * [Mixed Models](https://github.com/dmbates/MixedModels.jl) -用于拟合（统计）混合效果模型的Julia软件包.
-* [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl) - basic mcmc sampler implemented in Julia. **[Deprecated]**
+* [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl)  -在Julia中实现的基本mcmc采样器.  ** [不推荐使用] **
 * [Distances](https://github.com/JuliaStats/Distances.jl) -用于距离评估的Julia模块.
 * [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) -决策树分类器和回归器.
 * [Neural](https://github.com/compressed/BackpropNeuralNet.jl) -朱莉娅的神经网络.
@@ -582,7 +582,7 @@ _如果您想对此列表做出贡献（请这样做），请向我发送请求�
 <a name="julia-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
-* [Graph Layout](https://github.com/IainNZ/GraphLayout.jl) -纯Julia中的图形布局算法.
+* [Graph Layout](https://github.com/IainNZ/GraphLayout.jl) - Graph layout algorithms in pure Julia.
 * [LightGraphs](https://github.com/JuliaGraphs/LightGraphs.jl) -图形建模和分析.
 * [Data Frames Meta](https://github.com/JuliaData/DataFramesMeta.jl) -用于DataFrames的元编程工具.
 * [Julia Data](https://github.com/nfoti/JuliaData)  -在Julia中使用表格数据的库.  ** [不推荐使用] **
@@ -886,7 +886,7 @@ be
 * [spammy](https://github.com/tasdikrahman/spammy) -建立在nltk之上的电子邮件垃圾邮件过滤库
 * [loso](https://github.com/fangpenlin/loso)  -另一个中文细分库.  ** [不推荐使用] **
 * [genius](https://github.com/duanhongyi/genius) -基于条件随机场的中文句段.
-* [KoNLPy](http://konlpy.org) -用于韩语自然语言处理的Python软件包.
+* [KoNLPy](http://konlpy.org) - A Python package for Korean natural language processing.
 * [nut](https://github.com/pprett/nut)  -自然语言理解工具包.  ** [不推荐使用] **
 * [Rosetta](https://github.com/columbia-applied-data-science/rosetta) -文本处理工具和包装器（例如Vowpal Wabbit）
 * [BLLIP Parser](https://pypi.org/project/bllipparser/)  -BLLIP自然语言解析器（也称为Charniak-Johnson解析器）的Python绑定.  ** [不推荐使用] **
@@ -933,7 +933,7 @@ be
 * [CNTK](https://github.com/Microsoft/CNTK)  -Microsoft认知工具包（CNTK），这是一个开源的深度学习工具包. 可以找到文件 [here](https://docs.microsoft.com/cognitive-toolkit/).
 * [Couler](https://github.com/couler-proj/couler) -用于在不同的工作流引擎（例如Argo工作流，Tekton Pipelines和Apache Airflow）上构建和管理机器学习工作流的统一界面.
 * [auto_ml](https://github.com/ClimbsRocks/auto_ml)  -用于生产和分析的自动化机器学习. 让您专注于ML的有趣部分，同时输出可用于生产环境的代码，以及对数据集和结果的详细分析. 包括对NLP，XGBoost，CatBoost，LightGBM以及不久的深度学习的支持.
-* [machine learning](https://github.com/jeff1evesque/machine-learning) -由 [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface)和 [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines. Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
+* [machine learning](https://github.com/jeff1evesque/machine-learning) -由 [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface)和 [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface)  API，用于支持向量机. 相应的数据集存储到SQL数据库中，然后将生成的用于预测的模型存储到NoSQL数据存储中.
 * [XGBoost](https://github.com/dmlc/xgboost) -eXtreme梯度增强（树）库的Python绑定.
 * [Apache SINGA](https://singa.apache.org) -一个Apache孵化项目，用于开发开源机器学习库.
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) -关于Python概率编程的Book / iPython笔记本.
@@ -969,7 +969,7 @@ be
 * [Bolt](https://github.com/pprett/bolt)  -螺栓在线学习工具箱.  ** [不推荐使用] **
 * [CoverTree](https://github.com/patvarilly/CoverTree) -覆盖树的Python实现，将scipy.spatial.kdtree替换为** [不推荐使用] **
 * [nilearn](https://github.com/nilearn/nilearn) -Python中NeuroImaging的机器学习.
-* [neuropredict](https://github.com/raamana/neuropredict)  -针对新手机器学习者和非专家程序员，此软件包提供了用于NeuroImaging和其他任何类型功能的Python简便（无需编码）和全面的机器学习（无需编写代码即可进行评估并提供预测性能的完整报告）. 旨在吸收大部分ML工作流，这与nilearn和pymvpa等其他程序包不同，后者需要您学习其API和代码以产生有用的东西.
+* [neuropredict](https://github.com/raamana/neuropredict)  -针对新手机器学习者和非专家程序员，此软件包提供了用于NeuroImaging和其他任何类型功能的Python简便（无需编码）和全面的机器学习（无需编写代码即可进行评估并提供预测性能的完整报告）. 旨在吸收大部分ML工作流，这与nilearn和pymvpa等其他软件包不同，后者需要您学习其API和代码以产生有用的东西.
 * [imbalanced-learn](https://imbalanced-learn.org/stable/) -使用各种技术在欠采样和过采样下执行的Python模块.
 * [Shogun](https://github.com/shogun-toolbox/shogun) -将军机器学习工具箱.
 * [Pyevolve](https://github.com/perone/Pyevolve)  -遗传算法框架.  ** [不推荐使用] **
@@ -979,7 +979,7 @@ be
 * [pyhsmm](https://github.com/mattjj/pyhsmm) -贝叶斯隐马尔可夫模型（HMM）和显性持续时间隐半马尔可夫模型（HSMM）中的近似无监督推理的库，重点关注贝叶斯非参数扩展，HDP-HMM和HDP-HSMM，大多数具有弱极限近似.
 * [SKLL](https://github.com/EducationalTestingService/skll) -围绕scikit-learn的包装器，使进行实验更加简单.
 * [neurolab](https://github.com/zueve/neurolab)
-* [Spearmint](https://github.com/HIPS/Spearmint)  -Spearmint是一个根据本文概述的算法执行贝叶斯优化的软件包：机器学习算法的实用贝叶斯优化.  Jasper Snoek，Hugo Larochelle和Ryan P.Adams. 神经信息处理系统的进展，2012年.** [已弃用] **
+* [Spearmint](https://github.com/HIPS/Spearmint)  -Spearmint是根据白皮书中概述的算法执行贝叶斯优化的软件包：机器学习算法的实用贝叶斯优化.  Jasper Snoek，Hugo Larochelle和Ryan P.Adams. 神经信息处理系统的进展，2012年.** [已弃用] **
 * [Pebl](https://github.com/abhik/pebl/)  -用于贝叶斯学习的Python环境.  ** [不推荐使用] **
 * [Theano](https://github.com/Theano/Theano/) -优化GPU元编程代码，在Python中生成面向数组的优化数学编译器.
 * [TensorFlow](https://github.com/tensorflow/tensorflow/) -用于使用数据流图进行数值计算的开源软件库.
@@ -1045,6 +1045,7 @@ be
 * [sktime](https://github.com/alan-turing-institute/sktime) -具有时间序列的机器学习的统一框架
 * [OPFython](https://github.com/gugarosa/opfython) -最佳路径森林分类器的Python启发式实现.
 * [Opytimizer](https://github.com/gugarosa/opytimizer) -基于Python的元启发式优化技术. 
+* [Gradio](https://github.com/gradio-app/gradio)  -一个Python库，用于快速创建和共享模型演示. 在浏览器中交互式调试模型，从协作者那里获得反馈，并生成公共链接而无需部署任何东西.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
@@ -1099,7 +1100,7 @@ be
 * [scikit-plot](https://github.com/reiinakano/scikit-plot) -可视化库，可快速轻松地生成数据分析和机器学习中的常见图.
 * [Bowtie](https://github.com/jwkvam/bowtie) -仪表板库，用于使用flask socketio和react进行交互式可视化.
 * [lime](https://github.com/marcotcr/lime)  -Lime即将解释机器学习分类器（或模型）的功能. 它能够用两个或多个类来解释任何黑盒分类器.
-* [PyCM](https://github.com/sepandhaghighi/pycm) -PyCM是用Python编写的多类混淆矩阵库，它同时支持输入数据向量和直接矩阵，并且是用于分类后模型评估的适当工具，其支持大多数类和总体统计参数
+* [PyCM](https://github.com/sepandhaghighi/pycm) -PyCM是用Python编写的多类混淆矩阵库，它支持输入数据矢量和直接矩阵，并且是用于分类后模型评估的适当工具，支持大多数类和总体统计参数
 * [Dash](https://github.com/plotly/dash) -用于在Plotly.js，React和Flask之上构建用于创建分析Web应用程序的框架
 * [Lambdo](https://github.com/asavinov/lambdo) -一种工作流引擎，通过在一个分析管道中组合（i）特征工程和机器学习（ii）模型训练和预测（iii）通过用户定义的（Python）函数进行表填充和列评估来解决机器学习问题.
 * [TensorWatch](https://github.com/microsoft/tensorwatch)  -用于机器学习和数据科学的调试和可视化工具. 它广泛利用Jupyter Notebook在运行过程中（例如机器学习培训）显示数据的实时可视化.
@@ -1110,6 +1111,7 @@ be
 * [MiniGrad](https://github.com/kennysong/minigrad) – autograd的最低程度的，教育性的Python语言实现（〜100 loc）.
 * [Map/Reduce implementations of common ML algorithms](https://github.com/Yannael/BigDataAnalytics_INFOH515)：Jupyter笔记本，介绍了如何使用Python NumPy从头开始实现不同的ML算法（普通最小二乘，梯度下降，k均值，交替最小二乘），以及如何使用Map / Reduce和Spark扩展这些实现的可扩展性.
 * [BioPy](https://github.com/jaredthecoder/BioPy)  -Python中的生物学启发和机器学习算法.  ** [不推荐使用] **
+* [CAEs for Data Assimilation](https://github.com/julianmack/Data_Assimilation) -用于3D图像/场压缩的卷积自动编码器以降低的顺序应用 [Data Assimilation](https://en.wikipedia.org/wiki/Data_assimilation).
 * [SVM Explorer](https://github.com/plotly/dash-svm) -交互式SVM Explorer，使用Dash和scikit-learn
 * [pattern_classification](https://github.com/rasbt/pattern_classification)
 * [thinking stats 2](https://github.com/Wavelets/ThinkStats2)
@@ -1141,7 +1143,7 @@ be
 * [Python Programming for the Humanities](https://www.karsdorp.io/python-course/)  -假定没有先验知识的人文科学Python编程课程. 侧重于文本处理/ NLP.
 * [GreatCircle](https://github.com/mwgg/GreatCircle) -用于计算大圆距离的库.
 * [Optunity examples](http://optunity.readthedocs.io/en/latest/notebooks/index.html) -演示如何与机器学习库协同使用Optunity的示例.
-* [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) -“我首先通过黑客学习了Python，后来变得更认真.我想通过机器学习来做到这一点.如果这是您的风格，请加入我的行列，以超越自己.”
+* [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) -“我是通过首先进行黑客学习来学习Python的，后来变得更认真.我想通过机器学习来做到这一点.如果这是您的风格，请加入我的行列，以超越自己.”
 * [TDB](https://github.com/ericjang/tdb)  -TensorDebugger（TDB）是用于深度学习的可视调试器. 它具有针对TensorFlow的交互式，逐节点调试和可视化功能.
 * [Suiron](https://github.com/kendricktan/suiron/) -遥控车的机器学习.
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) -Data School在scikit-learn上的视频教程中的IPython笔记本.
@@ -1166,6 +1168,7 @@ be
 * [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) -包含机器学习，Tensorflow，人工智能和神经网络的LiveVideo课程.
 * [TResNet: High Performance GPU-Dedicated Architecture](https://github.com/mrT23/TResNet) -TResNet模型经过设计和优化，可以在GPU上实现最佳的速度精度折衷. 
 * [TResNet: Simple and powerful neural network library for python](https://github.com/zueve/neurolab) -各种支持类型的人工神经网络和学习算法.
+* [Jina AI](https://jina.ai/) An easier way to build neural search in the cloud. Compatible with Jupyter Notebooks. 
 
 
 <a name="python-kaggle"></a>
@@ -1217,7 +1220,7 @@ be
 #### Natural Language Processing
 
 * [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby) -精选的链接列表，用于在Ruby中进行实际的自然语言处理.
-* [Treat](https://github.com/louismullie/treat) -Text Retrieval and Annotation Toolkit，这绝对是我到目前为止为Ruby所遇到的最全面的工具包.
+* [Treat](https://github.com/louismullie/treat) -Text Retrieval and Annotation Toolkit，绝对是我到目前为止所见过的最全面的Ruby工具包.
 * [Stemmer](https://github.com/aurelian/ruby-stemmer)  -将libstemmer_c暴露给Ruby.  ** [不推荐使用] **
 * [Raspell](https://sourceforge.net/projects/raspell/)  -raspell是红宝石的接口绑定.  ** [不推荐使用] **
 * [UEA Stemmer](https://github.com/ealdent/uea-stemmer) -UEALite Stemmer的Ruby端口-用于搜索和索引的保守词干.
@@ -1290,7 +1293,7 @@ be
 * [e1071](https://cran.r-project.org/web/packages/e1071/index.html) -e1071：维也纳工业大学统计部的其他职能（e1071）
 * [earth](https://cran.r-project.org/web/packages/earth/index.html) -Earth：多元自适应回归样条模型
 * [elasticnet](https://cran.r-project.org/web/packages/elasticnet/index.html) -elasticnet：用于稀疏估计和稀疏PCA的Elastic-Net.
-* [ElemStatLearn](https://cran.r-project.org/web/packages/ElemStatLearn/index.html) -ElemStatLearn：书中的数据集，功能和示例：Trevor Hastie，Robert Tibshirani和Jerome Friedman的书“ Trevor Hastie，Robert Tibshirani和Jerome Friedman Prediction的“统计学习，数据挖掘，推理和预测的要素”.
+* [ElemStatLearn](https://cran.r-project.org/web/packages/ElemStatLearn/index.html) -ElemStatLearn：Trevor Hastie，Robert Tibshirani和Jerome Friedman的书中的数据集，功能和示例：Trevor Hastie，Robert Tibshirani和Jerome Friedman Prediction撰写的“统计学习，数据挖掘，推理和预测的要素”.
 * [evtree](https://cran.r-project.org/web/packages/evtree/index.html) -evtree：全球最佳树木的进化学习.
 * [forecast](https://cran.r-project.org/web/packages/forecast/index.html) -预测：使用ARIMA，ETS，STLM，TBATS和神经网络模型进行时间序列预测.
 * [forecastHybrid](https://cran.r-project.org/web/packages/forecastHybrid/index.html) -ForecastHybrid：“预报”包中的ARIMA，ETS，STLM，TBATS和神经网络模型的自动集成和交叉验证.
@@ -1301,13 +1304,13 @@ be
 * [gbm](https://cran.r-project.org/web/packages/gbm/index.html) -gbm：广义Boosted回归模型.
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) -glmnet：套索和弹性网正则化广义线性模型.
 * [glmpath](https://cran.r-project.org/web/packages/glmpath/index.html) -glmpath：广义线性模型和Cox比例危害模型的L1正则化路径.
-* [GMMBoost](https://cran.r-project.org/web/packages/GMMBoost/index.html)  -GMMBoost：针对通用混合模型的基于似然性的Boosting.  ** [不推荐使用] **
+* [GMMBoost](https://cran.r-project.org/web/packages/GMMBoost/index.html) - GMMBoost: Likelihood-based Boosting for Generalized mixed models. **[Deprecated]**
 * [grplasso](https://cran.r-project.org/web/packages/grplasso/index.html) -grplasso：使用户指定的模型具有组套索惩罚.
 * [grpreg](https://cran.r-project.org/web/packages/grpreg/index.html) -grpreg：具有分组协变量的回归模型的正则化路径.
 * [h2o](https://cran.r-project.org/web/packages/h2o/index.html) -大规模，快速，并行和分布式机器学习算法的框架-深度学习，随机森林，GBM，KMeans，PCA，GLM.
 * [hda](https://cran.r-project.org/web/packages/hda/index.html)  -hda：异方差判别分析.  ** [不推荐使用] **
 * [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
-* [ipred](https://cran.r-project.org/web/packages/ipred/index.html) -ipred：改进的预测变量.
+* [ipred](https://cran.r-project.org/web/packages/ipred/index.html) - ipred: Improved Predictors.
 * [kernlab](https://cran.r-project.org/web/packages/kernlab/index.html) -kernlab：基于内核的机器学习实验室.
 * [klaR](https://cran.r-project.org/web/packages/klaR/index.html) -klaR：分类和可视化.
 * [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) -L0Learn：最佳子集选择的快速算法.
@@ -1344,7 +1347,7 @@ be
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html) -rpart：递归分区和回归树.
 * [RPMM](https://cran.r-project.org/web/packages/RPMM/index.html) -RPMM：递归分区混合物模型.
 * [RSNNS](https://cran.r-project.org/web/packages/RSNNS/index.html) -RSNNS：使用斯图加特神经网络模拟器（SNNS）的R中的神经网络.
-* [RWeka](https://cran.r-project.org/web/packages/RWeka/index.html) -设置：R /应用界面.
+* [RWeka](https://cran.r-project.org/web/packages/RWeka/index.html) -设置：R / Apply界面
 * [RXshrink](https://cran.r-project.org/web/packages/RXshrink/index.html) -RXshrink：通过广义岭或最小角度回归得到的最大似然收缩.
 * [sda](https://cran.r-project.org/web/packages/sda/index.html)  -sda：收缩判别分析和CAT分数变量选择.  ** [不推荐使用] **
 * [spectralGraphTopology](https://cran.r-project.org/web/packages/spectralGraphTopology/index.html) -SpectrumGraphTopology：通过光谱约束从数据中学习图.
@@ -1412,7 +1415,7 @@ be
 * [Chalk](https://github.com/scalanlp/chalk)  -Chalk是自然语言处理库.  ** [不推荐使用] **
 * [FACTORIE](https://github.com/factorie/factorie)  -FACTORIE是用于可部署概率建模的工具包，在Scala中作为软件库实现. 它为用户提供了简洁的语言来创建关系因子图，估计参数和进行推理.
 * [Montague](https://github.com/Workday/upshot-montague) -Montague是具有易于使用的DSL的Scala语义解析库.
-* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) -建立在Apache Spark ML之上的自然语言处理库，可为机器学习管道提供简单，高效且准确的NLP注释，该注释可在分布式环境中轻松扩展.
+* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) -建立在Apache Spark ML之上的自然语言处理库，可为机器学习管道提供简单，高性能和准确的NLP注释，这些注释可在分布式环境中轻松扩展.
 
 <a name="scala-data-analysis"></a>
 #### Data Analysis / Data Visualization

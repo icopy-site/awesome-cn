@@ -55,6 +55,7 @@
 * [Parcel](https://github.com/parcel-bundler/parcel) -快速，零配置的Web应用程序捆绑程序.
 * [Microbundle](https://github.com/developit/microbundle) -用于小型模块的零配置捆绑器.
 * [FuseBox](https://github.com/fuse-box/fuse-box) -正确做的捆扎机
+* [Snowpack](https://www.snowpack.dev/) -闪电般的前端构建工具，专为现代Web设计.
 
 
 ## Type Checkers
@@ -358,7 +359,7 @@
 
 * [moment](https://github.com/moment/moment) -使用JavaScript解析，验证，操作和显示日期.
 * [moment-timezone](https://github.com/moment/moment-timezone) -对moment.js的时区支持.
-* [jquery-timeago](https://github.com/rmm5t/jquery-timeago) - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
+* [jquery-timeago](https://github.com/rmm5t/jquery-timeago) -一个jQuery插件，可轻松支持自动更新模糊时间戳（例如“ 4分钟前”）.
 * [timezone-js](https://github.com/mde/timezone-js)  -启用了时区的JavaScript Date对象. 使用Olson zoneinfo文件获取时区数据.
 * [date](https://github.com/MatthewMueller/date) -对人类的Date（）.
 * [ms.js](https://github.com/rauchg/ms.js) -微小的毫秒转换工具.
@@ -379,7 +380,7 @@
 * [he](https://github.com/mathiasbynens/he) -用JavaScript编写的健壮的HTML实体编码器/解码器.
 * [multiline](https://github.com/sindresorhus/multiline) -JavaScript中的多行字符串.
 * [query-string](https://github.com/sindresorhus/query-string) -解析和字符串化URL查询字符串.
-* [URI.js](https://github.com/medialize/URI.js/) - JavaScript URL mutation library.
+* [URI.js](https://github.com/medialize/URI.js/) -JavaScript URL突变库.
 * [jsurl](https://github.com/Mikhus/domurl) -使用JavaScript进行轻量级URL操作.
 * [sprintf.js](https://github.com/alexei/sprintf.js) -sprintf实现.
 * [url-pattern](https://github.com/snd/url-pattern)  -相对于url和其他字符串的正则表达式字符串匹配模式更容易. 将字符串转换为数据或将数据转换为字符串.
@@ -395,7 +396,7 @@
 * [Fraction.js](https://github.com/infusion/Fraction.js) -JavaScript的合理数字库.
 * [Complex.js](https://github.com/infusion/Complex.js) -JavaScript的复杂数字库.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) -JavaScript的多项式库.
-* [Quaternion.js](https://github.com/infusion/Quaternion.js) -JavaScript的四元数库
+* [Quaternion.js](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
 
 
 ## Storage
@@ -548,7 +549,7 @@
 * [topbar](https://github.com/buunguyen/topbar) -微小而美观的站点范围进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)  -非常轻量级的进度条. 没有jQuery.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) -带有CSS动画的加载指示器的集合.
-* [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
+* [Ladda](https://github.com/hakimel/Ladda) -带有内置加载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) -用CSS动画制作的加载微调器集合
 
 除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)，以及类似的生成器 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
@@ -559,7 +560,7 @@
 * [Parsley.js](https://github.com/guillaumepotier/Parsley.js) -验证表单，前端，而无需编写任何JavaScript.
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation) -jQuery验证插件.
 * [validator.js](https://github.com/chriso/validator.js) -字符串验证和清理.
-* [validate.js](https://github.com/rickharrison/validate.js) -受CodeIgniter启发的轻量级JavaScript表单验证库.
+* [validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
 * [validatr](https://github.com/jaymorrow/validatr/) -跨浏览器HTML5表单验证.
 * [FormValidation](http://formvalidation.io/)  -验证表单字段的最佳jQuery插件. 以前是BootstrapValidator.
 * [is.js](https://github.com/arasatasaygin/is.js) -检查类型，正则表达式，状态，时间等.
@@ -640,7 +641,7 @@
 
 * [typeahead.js](https://github.com/twitter/typeahead.js) -快速且功能齐全的自动完成库.
 * [tag-it](https://github.com/aehlke/tag-it) -一个jQuery UI插件，用于处理多标签字段以及标签建议/自动填充.
-* [At.js](https://github.com/ichord/At.js) -将GitHub提及提及自动完成功能添加到您的应用程序.
+* [At.js](https://github.com/ichord/At.js) -向您的应用程序添加GitHub，例如提及自动完成功能.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) -用于HTML5占位符属性的JavaScript polyfill.
 * [fancyInput](https://github.com/yairEO/fancyInput) -通过CSS3效果使输入字段的输入变得有趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) -使用此jQuery插件将简单的文本输入神奇地转换为很酷的标签列表.
@@ -672,7 +673,7 @@
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) -具有进度条，拖放，直接到S3上传的多个文件上传插件.
 * [FileAPI](https://github.com/mailru/FileAPI)  -一组用于处理文件的JavaScript工具. 多重上传，拖放和分块文件上传. 图片：通过EXIF裁剪，调整大小和自动定向.
 * [plupload](https://github.com/moxiecode/plupload) -用于处理文件上传的JavaScript API，它支持多个文件选择，文件类型过滤，请求分块，客户端图像缩放等功能，并且使用不同的运行时来实现此功能，例如HTML 5，Silverlight和Flash.
-* [filepond](https://github.com/pqina/filepond) -一个JavaScript库，可以上传您扔给它的所有内容，优化图像以加快上传速度，并提供出色的，可访问的，柔滑的用户体验.
+* [filepond](https://github.com/pqina/filepond) -一个JavaScript库，可以上传您扔给它的任何内容，优化图像以加快上传速度，并提供出色的，可访问的，柔滑的用户体验.
 
 ### Other
 
@@ -692,7 +693,7 @@
 * [tooltipster](https://github.com/iamceege/tooltipster) -jQuery工具提示插件.
 * [simptip](https://github.com/arashmanteghi/simptip) -使用Sass制作的简单CSS工具提示.
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) -jQuery插件，用于响应式和可访问的模态窗口和工具提示.
-* [toolbar](https://github.com/paulkinzett/toolbar) -工具提示样式的工具栏jQuery插件
+* [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 * [hint.css](https://github.com/chinchang/hint.css) -CSS中的工具提示库，用于您可爱的网站.
 
 ## Modals and Popups
@@ -825,7 +826,7 @@
 ## Animations
 
 * [velocity](https://github.com/julianshapiro/velocity) -加速的JavaScript动画.
-* [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
+* [jquery.transit](https://github.com/rstacruz/jquery.transit) -jQuery的超平滑CSS3转换和过渡.
 * [impress.js](https://github.com/impress/impress.js) -在HTML文档中使用CSS3转换/转换进行类似Prezi的演示.
 * [bounce.js](https://github.com/tictail/bounce.js) -立即创建可口的CSS3动画.
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) -适用于所有主要浏览器的高性能HTML5动画.
@@ -894,7 +895,7 @@ http://www.listjs.com
 * [Clipboard.js](https://clipboardjs.com/) -不使用Flash或使用Framework的“复制到剪贴板”.
 * [ky](https://github.com/sindresorhus/ky) -基于浏览器Fetch API的小巧优雅的HTTP客户端.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
-* [emoji-button](https://github.com/joeattardi/emoji-button) -香草JavaScript表情符号选择器组件
+* [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component
 * [iooxa](https://github.com/iooxa/article) -交互式科学写作，反应性文档和可解释性说明的组成部分.
 * [Idyll](https://github.com/idyll-lang/idyll)  -创建可解释的解释和交互式讲故事的文章. 可 [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) -用JavaScript实现的算法和数据结构，并带有解释和进一步阅读的链接.
