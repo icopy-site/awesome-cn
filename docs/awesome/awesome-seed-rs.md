@@ -34,6 +34,12 @@
 - [Default quickstart](https://github.com/seed-rs/seed-quickstart) -仅包含Rust库.
 - [Quickstart with Webpack](https://github.com/seed-rs/seed-quickstart-webpack) -主要功能：自动重新加载，预渲染，缩小， [TailwindCSS](https://tailwindcss.com/)，打字稿.
 
+## Bundlers
+
+- [Trunk](https://github.com/thedodd/trunk) -用于Rust的WASM Web应用程序捆绑器.
+- [Web Bundler](https://github.com/panoptix-za/web-bundler) -捆绑Seed SPA进行发布.
+- [Seeder](https://github.com/MartinKavik/seeder) -设置种子应用并通过运行一个命令来启动开发服务器.
+
 ## Examples
 
 - [RealWorld example](https://github.com/seed-rs/seed-rs-realworld) -“所有演示应用程序之母” —示例性全栈 [Medium.com](https://medium.com/) 克隆.
@@ -49,7 +55,7 @@
 
 - [AdEx Explorer](https://github.com/adexnetwork/adex-explorer) -显示有关AdEx广告协议的付款渠道网络的精选信息.
 - [Kavik.cz](https://github.com/MartinKavik/kavik.cz) -开源个人网站.
-- [benxu.dev/blog](https://github.com/AlterionX/benxu-dev)  -一个相对简单的开源个人博客. 建造在 [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs)和 [`Diesel`](https://diesel.rs).
+- [benxu.dev/blog](https://github.com/AlterionX/benxu-dev)  -一个相对简单的开源个人博客. 建立在 [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs)和 [`Diesel`](https://diesel.rs).
 - [seed-rs.org](https://github.com/seed-rs/seed-rs.org) -种子的官方网站.
 - [WeightRS](https://gitlab.com/mkroehnert/weightrs) -简约和隐私友好的渐进式Web应用程序，用于跟踪您的体重.
 - [Music composer](https://github.com/ethanboxx/planters-rdconf-hackathon-project) -基本的音乐创作应用程序.
@@ -59,6 +65,7 @@
 
 - [Savory](https://gitlab.com/MAlrusayni/savory) -用于基于Seed构建用户界面的库.
 - [seed-icons](https://crates.io/crates/seed-icons) -具有图标集合的库，可包含在基于种子的应用程序中.
+- [Seed Bootstrap](https://github.com/panoptix-za/seed-bootstrap) -的集合 [Bootstrap](https://getbootstrap.com/) CSS组件.
 
 ## Contribute
 

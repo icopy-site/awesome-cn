@@ -101,6 +101,8 @@
   - [Java by Comparison Kata](https://java.by-comparison.com/kata)
   - [DNA Transcription Kata](https://github.com/nickdelgrosso/dna-transcription-kata)
   - [Refactoring Golf Kata](https://github.com/daviddenton/refactoring-golf)
+  - [Promotion Text Kata](https://github.com/nealhu/promotion-text-kata)
+  - [Args Kata](https://github.com/nealhu/args-kata)
   
 ## Contribution
   

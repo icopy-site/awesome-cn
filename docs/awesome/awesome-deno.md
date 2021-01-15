@@ -6,7 +6,7 @@
 
 Deno是使用V8并内置于Rust的JavaScript和TypeScript的简单，现代且安全的运行时.
 
-该列表是最佳Deno模块和资源的集合.
+This list is a collection of the best Deno modules and resources.
 
 
 
@@ -96,6 +96,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [dndb](https://github.com/denyncrawford/dndb) -为Deno编写的持久性和可嵌入的NoSQL数据库引擎. 
 - [doa](https://github.com/johannlai/doa)  -用于Deno的http服务的中间件框架. 用❤️从Koa移植
 - [drash](https://github.com/drashland/deno-drash) -零依赖性的Deno HTTP服务器的REST微框架.
+- [dragon](https://github.com/xanny-projects/dragon) -⚡强大的HTTP路由器和URL匹配器，用于使用Dragon构建Deno Web服务器.
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) -使用JSON格式的简单持久性键值数据库.
 - [dso](https://github.com/manyuanrong/dso) -一个基于mysql的简单ORM库.
 - [ensure](https://github.com/eankeen/ensure) -确保您运行的是Deno，Typescript或V8的最低版本.
@@ -152,7 +153,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [watch](https://github.com/jinjor/deno-watch) -文件查看器.
 - [websocket_server](https://github.com/JohanWinther/websocket_server) -WebSocket服务器库. 
 - [webview](https://github.com/eliassjogreen/deno_webview) -Webview的Deno绑定，这是一个用于创建基于Web的桌面GUI的小型库.
-- [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
+- [wu-diff-js](https://github.com/bokuweb/wu-diff-js) -差异库，使用wu（O（NP））算法计算两个切片之间的差异.
 - [youtube-deno](https://github.com/akshgpt7/youtube-deno) -用于与YouTube进行任何互动的YouTube数据API的Deno客户端库.
 
 ## Registries

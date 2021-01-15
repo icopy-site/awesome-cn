@@ -80,7 +80,7 @@
 -  [Caret Color](https://github.com/naoray/tailwind-caret-color) -添加`caret`颜色实用程序.
 -  [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) -添加`blend-mode`工具.
 -  [Colorize](https://github.com/philippbosch/tailwindcss-colorize) -添加`filter`实用程序.
--  [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
+-  [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) -添加了“写入模式”实用程序.
 -  [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) -添加了“连字符”实用程序.
 -  [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) -添加了“边界图像”渐变实用程序.
 -  [RFS](https://github.com/aerni/tailwindcss-rfs) -添加 [`RFS`](https://github.com/twbs/rfs) 实用程序.
@@ -181,6 +181,7 @@
 -  [preact-cli-tailwind](https://github.com/agneym/preact-cli-tailwind) -Preact的Tailwind CSS集成.
 -  [tailwind-classes-sorter](https://github.com/Acidic9/tailwind-classes-sorter) -NPM库，提供对Tailwind CSS类进行排序的实用程序.
 -  [prettier-plugin-tailwind](https://github.com/Acidic9/prettier-plugin-tailwind) -对类列表进行排序的漂亮插件.
+-  [tailwindcss-rails](https://github.com/rails/tailwindcss-rails) -Gem，用于在Rails的资产管道中使用Tailwind CSS.
 -  [Zeplin Config & Class generator](https://extensions.zeplin.io/5ae2d20017c57fd249c9876f) -生成Tailwind配置的Zeplin扩展.
 -  [@tailwindcssinjs/macro](https://github.com/Arthie/tailwindcssinjs) -Babel宏，可将Tailwind CSS类转换为CSS-in-JS库的对象.
 -  [twin.macro](https://github.com/ben-rogerson/twin.macro) -在任何CSS-in-JS库中使用Tailwind类.
@@ -258,7 +259,7 @@
 -  [Sapper & Svelte Starter](https://github.com/EricPKerr/sapper-tailwindcss-starter) -使用Sapper，Tailwind CSS，Purge CSS，Prettier和ESLint来制作样板.
 -  [Netlify Lambda Starter](https://github.com/HugoDF/netlify-lambda-tailwind-static-starter) -使用Tailwind CSS的Netlify Lambda样板.
 -  [Hugo Theme Starter with Tailwind CSS](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter) -使用Tailwind CSS的Hugo主题入门.
--  [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) -使用Eleventy，Tailwind CSS，Webpack和PostCSS的入门套件.
+-  [Eleventy Web Starter](https://github.com/scottishstoater/jamstack-web-starter) - Starter kit using Eleventy, Tailwind CSS, Webpack and PostCSS.
 -  [Nanoc Starter](https://github.com/arkency/nanoc-parcel-tailwind-starter) -使用Tailwind CSS的Nanoc启动器.
 -  [PostCSS and Browsersync Boilerplate](https://github.com/saadeghi/tailwindcss-postcss-browsersync-boilerplate) -使用CSS Nano的样板.
 -  [ParcelJS + TypeScript Boilerplate](https://github.com/saadeghi/tailwindcss-parceljs-typescript-boilerplate) -使用Tailwind CSS，ParcelJS捆绑程序和TypeScript的样板.

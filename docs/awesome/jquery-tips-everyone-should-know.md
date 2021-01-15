@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-一系列简单的技巧可以帮助您开发jQuery游戏.
+一系列简单的提示，可以帮助您改善jQuery游戏.
 
 &gt;有关其他很棒的清单，请查看 [@sindresorhus](https://github.com/sindresorhus/)的精选清单 [awesome lists](https://github.com/sindresorhus/awesome/).
 
@@ -17,13 +17,13 @@
 
 ### Use `noConflict()`
 
- jQuery使用的$别名也被其他JavaScript库使用.  为了确保jQuery不会与不同库的$对象冲突，请在文档开头使用noConflict（）方法：
+ jQuery使用的$别名也被其他JavaScript库使用. 为了确保jQuery不会与不同库的$对象冲突，请在文档开头使用noConflict（）方法：
 
 ```javascript
 jQuery.noConflict();
 ```
 
- 现在，您将使用jQuery变量名而不是$来引用jQuery对象（例如jQuery（&#39;div p&#39;）.hide（））.  如果同一页面上有多个版本的jQuery（不建议使用），则可以使用`noConflict（）`来为特定版本设置别名：
+现在，您将使用jQuery变量名而不是$来引用jQuery对象（例如jQuery（&#39;div p&#39;）.hide（））. 如果同一页面上有多个版本的jQuery（不建议使用），则可以使用`noConflict（）`来为特定版本设置别名：
 
 ```javascript
 让$ x = jQuery.noConflict（）;
@@ -37,14 +37,14 @@ jQuery.noConflict();
 在使用jQuery做任何事情之前，您首先需要确定它已经加载：
 
 ```javascript
-如果（jQuery的typeof ==&#39;undefined&#39;）{
+如果（typeof jQuery ==&#39;undefined&#39;）{
   console.log（&#39;jQuery尚未加载&#39;）;
 }其他{
   console.log（&#39;jQuery已加载&#39;）;
 }
 ```
 
-现在你走了...
+现在你离开...
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -64,7 +64,7 @@ if ($("#selector").length) {
 
 ### Use `.on()` Binding Instead of `.click()`
 
-与使用.click（）相比，使用.on（）具有多个优点，例如可以添加多个事件...
+与使用.click（）相比，使用.on（）具有多个优点，例如添加多个事件的能力...
 
 ```javascript
 .on（“单击点击悬停”）
@@ -78,7 +78,7 @@ if ($("#selector").length) {
 .on('click.menuOpening')
 ```
 
-命名空间使您可以解除绑定特定事件的能力（例如，.off（&#39;click.menuOpening&#39;）`）.
+命名空间使您可以取消绑定特定事件（例如，.off（&#39;click.menuOpening&#39;）`）.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -102,7 +102,7 @@ $（&#39;.container&#39;）.on（&#39;click&#39;，&#39;.back-to-top&#39;，func
 </div>
 ```
 
- 更改`scrollTop`值会更改您希望滚动条到达的位置.  您真正要做的就是在整个800毫秒的过程中对文档正文进行动画处理，直到滚动到文档顶部.
+更改`scrollTop`值会更改您希望滚动条到达的位置. 您真正要做的就是在整个800毫秒的过程中对文档正文进行动画处理，直到文档滚动到文档顶部为止.
 
 **注意：**注意一些 [buggy behavior](https://github.com/jquery/api.jquery.com/issues/417) 与`scrollTop`.
 
@@ -116,7 +116,7 @@ $（&#39;.container&#39;）.on（&#39;click&#39;，&#39;.back-to-top&#39;，func
 ```javascript
 $ .preloadImages = function（）{
   for（var i = 0; i &lt;arguments.length; i ++）{
-     $（&#39; <img>  &#39;）.attr（&#39;src&#39;，arguments [i]）;
+     $（&#39;<img>  &#39;）.attr（&#39;src&#39;，arguments [i]）;
   }
 };
 
@@ -136,14 +136,14 @@ $（&#39;img&#39;）.on（&#39;load&#39;，function（）{
 });
 ```
 
- 您也可以通过替换`检查特定图片是否已加载. <img>  具有ID或类的`标签.
+您也可以通过替换`<img> 具有ID或类的`标签.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Fix Broken Images Automatically
 
- 如果您发现网站上损坏的图像链接被一个接一个地替换，可能会很痛苦.  这个简单的代码可以省去很多麻烦：
+如果您发现网站上损坏的图像链接被一个接一个地替换，可能会很痛苦. 这段简单的代码可以省去很多麻烦：
 
 ```javascript
 $（&#39;img&#39;）.on（&#39;error&#39;，function（）{
@@ -166,7 +166,7 @@ $（&#39;img&#39;）.on（&#39;error&#39;，function（）{
 
 ### Post a Form with AJAX
 
- jQuery AJAX方法是请求文本，HTML，XML或JSON的常用方法.  如果您想通过AJAX发送表单，则可以通过val（）方法收集用户输入：
+ jQuery AJAX方法是请求文本，HTML，XML或JSON的常用方法. 如果您想通过AJAX发送表单，则可以通过val（）方法收集用户输入：
 
 ```javascript
 $ .post（&#39;sign_up.php&#39;，{
@@ -176,7 +176,7 @@ $ .post（&#39;sign_up.php&#39;，{
 });
 ```
 
- 但是所有这些`val（）`调用都很昂贵，并且在`上使用`.val（）` <textarea>  `元素将从浏览器报告的值中去除回车符.  收集用户输入的一种更好的方法是使用`serialize（）`函数，该函数将它们收集为字符串：
+但是所有这些`val（）`调用都很昂贵，并且在`上使用`.val（）`<textarea>  `元素将从浏览器报告的值中去除回车符. 收集用户输入的一种更好的方法是使用`serialize（）`函数，该函数将它们收集为字符串：
 
 ```javascript
 $.post('sign_up', $('#sign-up-form').serialize());
@@ -187,7 +187,7 @@ $.post('sign_up', $('#sign-up-form').serialize());
 
 ### Toggle Classes on Hover
 
- 假设您要在用户将鼠标悬停在页面上时更改页面上可点击元素的外观.  您可以在用户悬停时在您的元素中添加一个类；  当用户停止悬停时，将删除该类：
+假设您要在用户将鼠标悬停在页面上时更改页面上可点击元素的外观. 您可以在用户悬停时在您的元素中添加一个类； 当用户停止悬停时，将删除该类：
 
 ```javascript
 $（&#39;.btn&#39;）.on（&#39;hover&#39;，function（）{
@@ -197,7 +197,7 @@ $（&#39;.btn&#39;）.on（&#39;hover&#39;，function（）{
 });
 ```
 
- 您需要添加必要的CSS.  如果您想使用_simpler_甚至的方式，请使用`toggleClass`方法：
+您需要添加必要的CSS. 如果您想使用_simpler_甚至的方式，请使用`toggleClass`方法：
 
 ```javascript
 $（&#39;.btn&#39;）.on（&#39;hover&#39;，function（）{
@@ -212,13 +212,13 @@ $（&#39;.btn&#39;）.on（&#39;hover&#39;，function（）{
 
 ### Disabling Input Fields
 
- 有时，您可能希望禁用表单的提交按钮或其文本输入之一，直到用户执行了某些操作（例如，选中“我已经阅读条款”复选框）.  将`disabled`属性添加到您的输入中，以便您可以在需要时启用它：
+有时，您可能希望禁用表单的提交按钮或其文本输入之一，直到用户执行了某些操作（例如，选中“我已经阅读条款”复选框）. 将`disabled`属性添加到您的输入中，以便您可以在需要时启用它：
 
 ```javascript
 $（&#39;input [type =“ submit”]&#39;）.prop（&#39;disabled&#39;，true）;
 ```
 
-您需要做的就是再次在输入上运行`prop`方法，但是将`disabled&#39;的值设置为`false`：
+您需要做的就是在输入上再次运行`prop`方法，但是将`disabled&#39;的值设置为`false`：
 
 ```javascript
 $（&#39;input [type =“ submit”]&#39;）.prop（&#39;disabled&#39;，false）;
@@ -229,7 +229,7 @@ $（&#39;input [type =“ submit”]&#39;）.prop（&#39;disabled&#39;，false�
 
 ### Stop the Loading of Links
 
- 有时，您不希望链接转到某个网页，也不希望重新加载该网页；  您可能希望他们做其他事情，例如触发另一个脚本.  这样可以防止默认操作：
+有时，您不希望链接转到某个网页，也不希望重新加载该网页； 您可能希望他们做其他事情，例如触发另一个脚本. 这样可以防止默认操作：
 
 ```javascript
 $（&#39;a.no-link&#39;）.on（&#39;click&#39;，function（e）{
@@ -242,13 +242,13 @@ $（&#39;a.no-link&#39;）.on（&#39;click&#39;，function（e）{
 
 ### Cache jQuery Selectors
 
- 想想您在任何项目中一次又一次地编写同一选择器的次数.  每个`$（&#39;.element&#39;）`选择器每次都必须搜索整个DOM，无论该选择器以前是否运行过.  相反，您可以运行一次选择器并将结果存储在变量中：
+想想您在任何项目中一次又一次地编写同一选择器的次数. 每个`$（&#39;.element&#39;）`选择器每次都必须搜索整个DOM，无论该选择器以前是否运行过. 相反，您可以运行一次选择器并将结果存储在变量中：
 
 ```javascript
 var blocks = $('#blocks').find('li');
 ```
 
-现在，您可以在任何需要的地方使用`blocks`变量，而不必每次都搜索DOM：
+现在您可以在任何需要的地方使用`blocks`变量，而不必每次都搜索DOM：
 
 ```javascript
 $('#hideBlocks').on('click', function () {
@@ -267,7 +267,7 @@ $('#showBlocks').on('click', function () {
 
 ### Toggle Fade/Slide
 
- 滑动和衰落在jQuery动画中很常见.  您可能希望在用户单击某些内容时显示一个元素，这使“ fadeIn”和“ slideDown”方法变得完美，但是如果您希望该元素在第一次单击时出现，然后在第二次单击时消失，则可以正常工作：
+滑动和衰落在jQuery动画中很常见. 您可能希望在用户单击某些内容时显示一个元素，这使“ fadeIn”和“ slideDown”方法变得完美，但是如果您希望该元素在第一次单击时出现，然后在第二次单击时消失，则可以正常工作：
 
 ```javascript
 // 褪色
@@ -301,7 +301,7 @@ $('#accordion').find('.accordion-header').on('click', function () {
 });
 ```
 
-通过添加此脚本，您真正需要在网页上完成的工作就是实现此工作所需的HTML.
+通过添加此脚本，您真正需要在网页上完成的工作就是实现此功能所需的HTML.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -314,7 +314,7 @@ $('#accordion').find('.accordion-header').on('click', function () {
 $（&#39;.div&#39;）.css（&#39;min-height&#39;，$（&#39;.main-div&#39;）.height（））;
 ```
 
- 此示例设置了“最小高度”，这意味着它可以大于主div，但永远不能小于它.  但是，一种更灵活的方法是遍历一组元素并将“ height”设置为最高元素的高度：
+此示例设置了“最小高度”，这意味着它可以大于主div，但永远不能小于它. 但是，一种更灵活的方法是遍历一组元素并将“ height”设置为最高元素的高度：
 
 ```javascript
 var $ columns = $（&#39;.column&#39;）;
@@ -336,7 +336,7 @@ $ rows.each（function（）{
 });
 ```
 
-**注意：**这可以通过多种方式完成 [in CSS](http://codepen.io/AllThingsSmitty/pen/KMPqoO) 但是根据您的需求，知道如何在jQuery中做到这一点很方便.
+**注意：**这可以通过几种方法完成 [in CSS](http://codepen.io/AllThingsSmitty/pen/KMPqoO) 但是根据您的需求，知道如何在jQuery中做到这一点很方便.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -358,7 +358,7 @@ $（&#39;a [href ^ =“&#39;+ window.location.origin +&#39;”]&#39;）.attr（&
 
 ### Find Element By Text
 
- 通过在jQuery中使用“ contains（）”选择器，您可以找到元素内容中的文本.  如果文本不存在，则该元素将被隐藏：
+通过在jQuery中使用“ contains（）”选择器，您可以在元素的内容中找到文本. 如果文本不存在，则该元素将被隐藏：
 
 ```javascript
 var search = $('#search').val();
@@ -375,7 +375,7 @@ $（&#39;div：not（：contains（“&#39;+ search +&#39;”））&#39;）.hide
 ```javascript
 $（document）.on（&#39;visibilitychange&#39;，function（e）{
   如果（e.target.visibilityState ===&#39;visible&#39;）{
-    console.log（&#39;Tab现在可见了！&#39;）;
+    console.log（&#39;Tab现在可见！&#39;）;
   }否则，如果（e.target.visibilityState ===&#39;hidden&#39;）{
     console.log（&#39;标签现在被隐藏了！&#39;）;
   }
@@ -387,10 +387,10 @@ $（document）.on（&#39;visibilitychange&#39;，function（e）{
 
 ### AJAX Call Error Handling
 
- 当AJAX调用返回404或500错误时，将执行错误处理程序.  如果未定义处理程序，则其他jQuery代码可能无法按预期工作.  要定义全局AJAX错误处理程序：
+当AJAX调用返回404或500错误时，将执行错误处理程序. 如果未定义处理程序，则其他jQuery代码可能无法按预期工作. 要定义全局AJAX错误处理程序：
 
 ```javascript
-$（document）.on（&#39;ajaxError&#39;，函数（例如，xhr，设置，错误）{
+$（document）.on（&#39;ajaxError&#39;，函数（e，xhr，设置，错误）{
   console.log（错误）;
 });
 ```
@@ -400,7 +400,7 @@ $（document）.on（&#39;ajaxError&#39;，函数（例如，xhr，设置，错�
 
 ### Chain Plugin Calls
 
- jQuery允许插件方法调用的“链接”，以减轻重复查询DOM和创建多个jQuery对象的过程.  假设以下代码段表示您的插件方法调用：
+ jQuery允许插件方法调用的“链接”，以减轻重复查询DOM和创建多个jQuery对象的过程. 假设以下代码段表示您的插件方法调用：
 
 ```javascript
 $('#elem').show();
@@ -412,12 +412,12 @@ $('#elem').otherStuff();
 
 ```javascript
 $('#elem')
-  .显示（）
-  .html（&#39;bla&#39;）
+  .节目（）
+  .html（&#39;blah&#39;）
   .其他的东西（）;
 ```
 
-另一种方法是将元素缓存在变量中（以$开头）：
+另一种方法是将元素缓存在变量中（前缀为$）：
 
 ```javascript
 var $elem = $('#elem');
@@ -426,14 +426,14 @@ $elem.html('bla');
 $elem.otherStuff();
 ```
 
-链接和 [caching](#cache-jquery-selectors) jQuery中的方法是导致代码更短，更快的最佳实践.
+链接和 [caching](#cache-jquery-selectors) jQuery中的方法是导致代码更短和更快的最佳实践.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
 ### Sort List Items Alphabetically
 
- 假设您最终在列表中添加了太多项目.  内容可能是由CMS制作的，您想按字母顺序排序：
+假设您最终在列表中添加了太多项目. 内容可能是由CMS制作的，您想按字母顺序排序：
 
 ```javascript
 var ul = $('#list'),
@@ -493,6 +493,7 @@ Chrome，Firefox，Safari，Opera，Edge和IE11的当前版本.
 * [Español](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
 * [Français](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
 * [Magyar](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
+* [한국어](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ko-KR)
 * [Português do Europe](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
 * [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
 * [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)

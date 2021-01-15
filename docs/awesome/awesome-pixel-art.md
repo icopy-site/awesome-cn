@@ -1,6 +1,7 @@
 <div class="github-widget" data-repo="Siilwyn/awesome-pixel-art"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Pixel Art [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Pixel Art
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 [<img src="https://cdn.rawgit.com/Siilwyn/awesome-pixel-art/1d81c507/sheep-timelapse.gif" align="right" width="118">](https://twitter.com/mnrART)
 
@@ -56,7 +57,7 @@
 - [eBoy](http://hello.eboy.com/eboy/)  -德国像素艺术团体，由Kai Vermehr，Steffen Sauerteig和Svend Smital于1997年创立. 他们被认为是“像素艺术的教父”.
 - [Paul Robertson](http://probertson.tumblr.com/) -澳大利亚人，创作出可爱的，有时宇宙的和迷幻的，有时又怪异的噩梦般的像素艺术.
 - [Syosa](http://collet66.blog52.fc2.com/) -日本风格，少女风格，使用明亮的有机彩色调色板，创造出可爱的人类和动物.
-- [Thomas Feichtmeir](http://cyangmou.deviantart.com/) -澳大利亚人，黑暗而成熟：骑士，恐龙，海盗，史诗般的野兽，解剖学和历史以及所有扭曲和怪异的事物的迷.
+- [Thomas Feichtmeir](http://cyangmou.deviantart.com/) -澳大利亚人，黑暗而成熟：骑士，恐龙，海盗，史诗般的野兽，解剖学和历史以及一切扭曲和怪异的迷.
 - [Toyoi Yuuta](http://1041uuu.tumblr.com/) -澳大利亚人，以不饱和色彩捕获日常生活中的小型动画场景.
 - [Slynyrd](https://www.patreon.com/slynyrd) -美国人，游戏设计师，提供大量的材料，游戏特定的知识和微型教程.
 
@@ -66,10 +67,10 @@
 - [Pixel Joint](http://pixeljoint.com/)
 
 ## Editors
-- [Aseprite](http://aseprite.org/)  -付费且可用源代码，可在Linux，macOS和Windows上使用. 令人敬畏的用户界面，带有许多漂亮的工具，可简化像素艺术创作.
+- [Aseprite](http://aseprite.org/)  -付费且可用源代码，可在Linux，macOS和Windows上使用. 令人敬畏的用户界面，其中包含许多漂亮的工具，可简化像素艺术创作.
 - [Pixen](https://pixenapp.com/)  -付费，适用于macOS和iOS. 出色的OS集成，可使用压敏绘图在平板电脑上创建像素图.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software)  -付费试用，可在Windows上使用. 专为创建游戏像素艺术而设计的高级功能.
 - [GIMP](https://www.gimp.org/)  -开源且免费，可在Linux，macOS和Windows上运行. 并非专门用于创建像素图，但能够做到的更多.
 - [PixelCraft](https://rgab1508.github.io/PixelCraft/)  -开源且免费，可在浏览器中使用. 可以在浏览器中轻松试用，也可以离线PWA试用.
 - [rx](https://rx.cloudhead.io/)  -开源且免费，可在Linux，macOS和Windows上运行. 极简主义和键盘驱动的动画支持.
-- [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) -Pico8编辑器，通过一点点摆动就能使像素艺术栩栩如生.
+- [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) -Pico8编辑器，通过一点点摆动就可以使像素艺术栩栩如生.

@@ -90,7 +90,7 @@ _关于Svelte框架的研究和研究.
 
 _表和数据网格.
 
-- [svelte-table](https://github.com/dasDaniel/svelte-table) - A table implementation that allows sorting and filtering.
+- [svelte-table](https://github.com/dasDaniel/svelte-table) -允许排序和过滤的表实现.
 - [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) -具有CRUD功能的对象数组的不可知Web组件.
 
 #### Notification
@@ -170,7 +170,7 @@ _对于单页应用程序（SPA）以及更多.
 
 ### Scaffold
 
-_模板/样板/种子/入门工具包/堆栈合奏/ Yeoman generator._
+_Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
 
 #### Client
 
@@ -193,6 +193,7 @@ _SSR框架.
 - [sapper-mdsvex-template](https://github.com/pngwn/sapper-mdsvex-template) -带有mdsvex的默认Sapper模板.
 - [sapper-tailwindcss-template](https://github.com/sarioglu/sapper-tailwindcss-template) -带有Tailwind CSS的默认Sapper模板.
 - [sapper-typescript-graphql-template](https://github.com/babichjacob/sapper-typescript-graphql-template) -包含Sapper，TypeScript预处理和通过TypeGraphQL的GraphQL服务器的模板.
+- [sapper-start](https://github.com/matt3224/sapper-start) -Sapper汇总模板，带有默认值，例如SCSS支持，简写路径，更少样板文件等等.
 
 ## Dev Tools
 

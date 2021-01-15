@@ -58,7 +58,7 @@
 - [Open Source Diversity](https://opensourcediversity.org/) -开源多样性是一个社区，旨在收集资源，建立网络并进行协作，以实现更多的多样性并融入自由和开源软件社区.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) -开源精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
 - [Out In Tech](https://outintech.com) -团结LGBTQ +技术社区的非营利组织.
-- [OpenCIDER](https://selgebali.gitbook.io/opencider/) -社区建设工作，以促进计算包容性并充当数字资产资源.
+- [OpenCIDER](https://selgebali.gitbook.io/opencider/) - A community building effort to promote computational inclusion and serve as digital equity resource.
 - [ParadigmIQ](https://www.paradigmiq.com/) -范式提供一系列的研讨会，培训和评估，以帮助实现多样性，包容性，归属感，保留性等等.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) -致力于建立共享机会，经验和思想的社区的组织，最终改善了整个创意产业中少数民族的代表权.
 - [PHP Women](http://phpwomen.org) -一个包容性的全球网络，在PHP社区内提供支持.
@@ -73,6 +73,7 @@
 - [R-Ladies](https://rladies.org/) -在R社区中促进性别多样性的全球性组织.
 - [Scala Bridge](http://www.scalabridge.org/) -建立一个包容性的Scala社区，并为妇女提供入门编程讲习班.
 - [She++](https://sheplusplus.org) -非营利组织，致力于通过消除围绕技术职业的负面陈规定型观念来增强技术中代表性不足的群体的能力.
+- [She Can Code](https://shecancode.io/) -以赋予妇女权力进入和留在科技行业为使命的组织.
 - [Techqueria](https://techqueria.org/) -一个非营利组织，为最大的科技拉丁社区提供服务.
 - [Techtonica](https://techtonica.org/) -Techtonica与科技公司合作，为湾区妇女和非二元，与女性相邻的低收入成年人提供津贴和就业机会的技术学徒.
 - [Tech Ladies](https://www.hiretechladies.com/) -科技女士将女性与最佳工作和技术机会联系在一起.
@@ -182,7 +183,7 @@ Will Evans和Sinduja Rangarajan.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) -Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) -温迪·李
 - [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) -AndréArko.
-- [How To Maintain A Predominantly White Workplace](https://qz.com/work/1334187/how-to-maintain-a-predominantly-white-workplace/) - By Leniece Flowers Brissett.
+- [How To Maintain A Predominantly White Workplace](https://qz.com/work/1334187/how-to-maintain-a-predominantly-white-workplace/) -Leniece Flowers Brissett.
 - [I'm Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) -Diane Rubino.
 - [If You Can't Find A Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) -Avivah Wittenberg-Cox.
 - [If You Think Women In Tech Is Just A Pipeline Problem, You Haven't Been Paying Attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) -Rachel Thomas.
