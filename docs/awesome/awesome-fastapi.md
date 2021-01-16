@@ -97,6 +97,11 @@
 - [Source Code](https://github.com/tiangolo/fastapi) -托管在GitHub上.
 - [Gitter Chat](https://gitter.im/tiangolo/fastapi) -与其他FastAPI用户聊天.
 
+### External Resources
+
+- [Medium FastAPI](https://medium.com/fastapi) -与FastAPI相关的中级帖子的中心位置.
+- [TestDriven.io FastAPI](https://testdriven.io/blog/topics/fastapi/) -多个特定于FastAPI的文章，着重于开发和测试可用于生产环境的RESTful API，服务于机器学习模型等.
+
 ### Podcasts
 
 - [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) -在这集 [Podcast Init](https://www.pythonpodcast.com/)，创建FastAPI， [Sebastián Ramirez](https://tiangolo.com/)，分享了他构建FastAPI的动机以及它在幕后的工作方式.
@@ -114,12 +119,12 @@
 - [Deploying Iris Classifications with FastAPI and Docker](https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a) -Docker化FastAPI应用程序.
 - [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) -使用Test-Driven Development使用FastAPI，Postgres，Pytest和Docker开发和测试异步API.
 - [FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/) -通过与Flask的并行代码比较来学习FastAPI.
-- [FastAPI Microservice Patterns](https://florian-kromer.medium.com/fastapi-microservice-patterns-3052c1241019) -具有微服务模式的示例性实现的博客文章系列.
-  - [Local Development Environment](https://florian-kromer.medium.com/fastapi-microservice-patterns-local-development-environment-12182e786f1c) -简而言之，Skaffold，docker，kubectl和minikube.
-  - [Service discovery in Container Orchestration Platforms](https://florian-kromer.medium.com/fastapi-microservice-patterns-service-discovery-in-container-orchestration-platforms-290c00d1ad8) -说明了如何在Kubernetes中启用FastAPI服务通信.
-  - [Asynchronous Communication](https://florian-kromer.medium.com/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8) -通过消息启用松散耦合的服务.
-  - [Application monitoring](https://florian-kromer.medium.com/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) -使用Prometheus和Grafana进行应用程序指标监视.
-  - [Serverless deployment](https://florian-kromer.medium.com/fastapi-microservice-serverless-deployment-41a6d21e5cb3) -关于FastAPI和Kubernetes原生FaaS平台之间的兼容性的当前状态.
+- [FastAPI Microservice Patterns](https://medium.com/fastapi/fastapi-microservice-patterns-3052c1241019) -具有微服务模式的示例性实现的博客文章系列.
+  - [Local Development Environment](https://medium.com/fastapi/fastapi-microservice-patterns-local-development-environment-12182e786f1c) -简而言之，Skaffold，docker，kubectl和minikube.
+  - [Service discovery in Container Orchestration Platforms](https://medium.com/fastapi/fastapi-microservice-patterns-service-discovery-in-container-orchestration-platforms-290c00d1ad8) -说明了如何在Kubernetes中启用FastAPI服务通信.
+  - [Asynchronous Communication](https://medium.com/fastapi/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8) -通过消息启用松散耦合的服务.
+  - [Application Monitoring](https://medium.com/fastapi/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) -使用Prometheus和Grafana进行应用程序指标监视.
+  - [Serverless Deployment](https://medium.com/fastapi/fastapi-microservice-serverless-deployment-41a6d21e5cb3) -关于FastAPI和Kubernetes原生FaaS平台之间的兼容性的当前状态.
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) -通过基于Web的API部署机器学习模型.
 - [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) -说明如何使用OpenTelemetry和Datadog / Jaeger实施应用程序性能监视（APM）.
 - [Introducing FARM Stack - FastAPI, React, and MongoDB](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB/) -完整的FastAPI Web应用程序堆栈入门.
@@ -137,7 +142,7 @@
 ### Videos
 
 - [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) -使用FastAPI构建基于Web的股票筛选器时，将向您介绍FastAPI的许多功能，包括pydantic模型，依赖项注入，后台任务和SQLAlchemy集成.
-- [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) -使用FastAPI构建Web应用程序编程接口（RESTful API）.
+- [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) - Use FastAPI to build a web application programming interface (RESTful API).
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) -了解如何使用FastAPI进行数值验证.
 - [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs)  -哪种框架最适合2020年的Python？ 哪个使用异步/等待最好？ 哪个最快？ 
 - [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8) -使用FastAPI构建机器学习API.
@@ -172,7 +177,7 @@
 Frameworks:
 
 - [Chalice](https://github.com/aws/chalice)
-- [Mangum](https://mangum.io/) - Adapter for running ASGI applications with AWS Lambda and API Gateway.
+- [Mangum](https://mangum.io/) -使用AWS Lambda和API Gateway运行ASGI应用程序的适配器.
 - [Vercel](https://vercel.com/) -（以前的时间）（[example](https://github.com/paul121/fastapi-zeit-now)).
 - [Zappa](https://github.com/Miserlou/Zappa)
 

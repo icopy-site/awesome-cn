@@ -234,7 +234,7 @@
 * [sanitizer](https://github.com/google/sanitizers) -AddressSanitizer，ThreadSanitizer，MemorySanitizer.
 * [cppinsights](https://github.com/andreasfertig/cppinsights) -C ++见解-借助编译器查看源代码.
 * [inspect](https://pymotw.com/2/inspect/) -检查模块提供用于学习活动对象的功能，包括模块，类，实例，函数和方法.
-* [Roslaunch Nodes in Valgrind or GDB](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB) -在调试要使用roslaunch启动的roscpp节点时，您可能希望使用gdb或valgrind等调试程序来启动该节点.
+* [Roslaunch Nodes in Valgrind or GDB](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20Nodes%20in%20Valgrind%20or%20GDB) -在调试使用roslaunch启动的roscpp节点时，您可能希望以调试程序（如gdb或valgrind）启动该节点.
 * [pyperformance](https://github.com/python/pyperformance) -Python性能基准套件.
 * [qira](https://github.com/geohot/qira) -QIRA是strace和gdb的竞争对手.
 * [gdb-frontend](https://github.com/rohanrhu/gdb-frontend) -GDBFrontend是一个简单，灵活和可扩展的gui调试器.
@@ -416,7 +416,7 @@
 * [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) -精选的iOS，Android和边缘设备的出色移动机器学习资源列表.
 * [cnn-explainer](https://github.com/poloclub/cnn-explainer) -通过交互式可视化学习卷积神经网络.
 * [modelzoo](https://github.com/autowarefoundation/modelzoo) -在自动驾驶应用中使用的机器学习模型的集合.
-* [nnstreamer-ros](https://github.com/nnstreamer/nnstreamer-ros) -一组Gstreamer插件和ROS示例，使Gstreamer开发人员可以轻松有效地采用神经网络模型，而神经网络开发人员可以轻松有效地管理神经网络管道及其过滤器.
+* [nnstreamer-ros](https://github.com/nnstreamer/nnstreamer-ros) -一组Gstreamer插件和ROS示例，使Gstreamer开发人员可以轻松有效地采用神经网络模型，而神经网络开发人员可以轻松高效地管理神经网络管道及其过滤器.
 
 
 ### Parallel Processing
@@ -882,7 +882,7 @@
 * [jetson_easy](https://github.com/rbonghi/jetson_easy) -自动脚本来设置和配置NVIDIA Jetson.
 * [docker-jetpack-sdk](https://github.com/trn84/docker-jetpack-sdk) -允许在Docker容器中使用NVIDIA JetPack SDK进行下载，刷新和安装.
 * [Pressed](https://wiki.debian.org/DebianInstaller/Preseed) -提供了一种在debian安装过程中设置问题答案的方法，而无需在安装运行时手动输入答案.
-* [jetson_stats](https://github.com/rbonghi/jetson_stats) -用于监视和控制NVIDIA Jetson（Xavier NX，Nano，AGX Xavier，TX1，TX2）的软件包可与所有NVIDIA Jetson生态系统一起使用.
+* [jetson_stats](https://github.com/rbonghi/jetson_stats) -用于监视和控制NVIDIA Jetson（Xavier NX，Nano，AGX Xavier，TX1，TX2）的软件包可用于所有NVIDIA Jetson生态系统.
 * [ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats)  -ROS jetson-stats包装器. 诊断消息中NVIDIA Jetson的状态.
 * [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR) -ROS的开源控制模块.
 * [acrn-hypervisor](https://github.com/projectacrn/acrn-hypervisor) -定义了设备管理程序参考堆栈和体系结构，用于通过虚拟机管理器在统一系统上运行多个软件子系统，并对其进行安全管理.
@@ -897,7 +897,7 @@
 * [performance_test](https://github.com/ApexAI/performance_test) -测试基于发布/订阅的通信框架性能的工具.
 * [realtime_support](https://github.com/ros2/realtime_support) -用于测量抖动和延迟的最小实时测试工具.
 * [ros1_bridge](https://github.com/ros2/ros1_bridge) -ROS 2软件包，提供ROS 1和ROS 2之间的双向通信.
-* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -协议，由对象管理组（OMG）联盟定义和维护，它通过UDP等不可靠的传输方式提供发布者与订阅者的通信.
+* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -一种协议，它通过对象管理组（OMG）联盟定义和维护的不可靠传输（例如UDP）提供发布者与订阅者的通信.
 * [protobuf](https://github.com/protocolbuffers/protobuf) -Google的数据交换格式.
 * [opensplice](https://github.com/ADLINK-IST/opensplice) -Vortex OpenSplice社区版.
 * [cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) -Eclipse Cyclone DDS是一种高性能且健壮的开源DDS实现.
@@ -979,6 +979,7 @@
 * [ros_astra_camera](https://github.com/orbbec/ros_astra_camera) -Orbbec 3D相机的ROS驱动程序.
 * [spot_ros](https://github.com/clearpathrobotics/spot_ros) -现货专用ROS驱动程序.
 * [blickfeld-scanner-lib](https://github.com/Blickfeld/blickfeld-scanner-lib) -与Blickfeld GmbH的LiDAR设备通信的跨平台库.
+* [TauLidarCamera](https://github.com/OnionIoT/tau-LiDAR-camera) -使用Tau LiDAR相机构建应用程序的主机端API.
 
 
 ## Security

@@ -71,7 +71,7 @@
 ### CSS in JS
 
 - [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) -对CSS模块使用未定义或未使用的规则.
-- [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin-emotion) -ESLint情感准则.
+- [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin) -ESLint情感准则.
 -样式化的组件
   - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) -自动修复样式元素的ESlint规则.
   - [styled-components-a11y](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) -样式组件的A11y.
@@ -149,7 +149,7 @@
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) -检查文件顶部并修复文件的eslint规则！
 - [Only-Error](https://github.com/davidjbradshaw/eslint-plugin-only-error) -将所有规则转换为错误.
 - [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) -将所有规则转换为警告.
-- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) -集成了ESLint插件 [putout](https://github.com/coderaiser/putout) 将lint导入ESLint.
+- [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) -集成了ESLint插件 [putout](https://github.com/coderaiser/putout) 轻而易举地进入ESLint.
 - [TypeLint](https://github.com/yarax/typelint) -根据现有模式（Swagger，Redux）引入类型，并减少对对象属性的访问，以防止出现“未定义”错误.
 - [Woke](https://github.com/amwmedia/eslint-plugin-woke) -帮助捕获不敏感的单词，从而促进包容性代码库.
 
