@@ -127,6 +127,7 @@
   - [Serverless Deployment](https://medium.com/fastapi/fastapi-microservice-serverless-deployment-41a6d21e5cb3) -关于FastAPI和Kubernetes原生FaaS平台之间的兼容性的当前状态.
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) -通过基于Web的API部署机器学习模型.
 - [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) -说明如何使用OpenTelemetry和Datadog / Jaeger实施应用程序性能监视（APM）.
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) -FastAPI应用程序和服务结构，可维护性更高的代码库.
 - [Introducing FARM Stack - FastAPI, React, and MongoDB](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB/) -完整的FastAPI Web应用程序堆栈入门.
 - [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/) -快速介绍FastAPI.
 - [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) -Flask与FastAPI的比较.
@@ -142,7 +143,7 @@
 ### Videos
 
 - [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) -使用FastAPI构建基于Web的股票筛选器时，将向您介绍FastAPI的许多功能，包括pydantic模型，依赖项注入，后台任务和SQLAlchemy集成.
-- [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) - Use FastAPI to build a web application programming interface (RESTful API).
+- [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) -使用FastAPI构建Web应用程序编程接口（RESTful API）.
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) -了解如何使用FastAPI进行数值验证.
 - [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs)  -哪种框架最适合2020年的Python？ 哪个使用异步/等待最好？ 哪个最快？ 
 - [Serving Machine Learning Models As API with FastAPI](https://www.youtube.com/watch?v=mkDxuRvKUL8) -使用FastAPI构建机器学习API.
@@ -208,13 +209,14 @@ Compute:
 
 - [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) -使用FastAPI的项目的组织清单.
 - [Bitcart](https://github.com/bitcartcc/bitcart) -为商人，用户和开发人员提供易于设置和使用的平台.
+- [Coronavirus-tg-api](https://github.com/egbakou/coronavirus-tg-api) -用于跟踪全球冠状病毒（COVID-19，SARS-CoV-2）爆发的API.
 - [Dispatch](https://github.com/Netflix/dispatch) -管理安全事件.
 -FastAPI CRUD示例：
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
 - [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) -Websocket“广播”演示.
 - [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) -最小化示例，该示例将FastAPI和Celery与RabbitMQ一起用于任务队列，将Redis用于Celery后端，并使用Flower监视Celery任务.
-- [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) -基于FastAPI的JSON-RPC服务器.
+- [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
 - [Mailer](https://github.com/rclement/mailer) -用于静态网站的简单死信邮件微服务.
 - [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 - [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app)

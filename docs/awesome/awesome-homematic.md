@@ -88,7 +88,8 @@
 
 * [CCU-Jack](https://github.com/mdzio/ccu-jack) -CCU-Jack提供对CCU的基于REST的简单和安全的访问，也可以作为附件使用.
 * [homebridge-homematic](https://github.com/thkl/homebridge-homematic) - [Homebridge](https://github.com/nfarina/homebridge) 用于将Homematic设备集成到HomeKit的插件.
-* [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) -通过插件集成了第三方设备（例如，Hue，Harmony，Netatmo，Sonos），也可以作为插件使用.
+* [homebridge-homematicip](https://github.com/marcsowen/homebridge-homematicip) - [Homebridge](https://github.com/nfarina/homebridge) 用于通过云将Homematic IP与HmIP-HAP集成的插件.
+* [hvl - Homematic Virtual Interface](https://github.com/thkl/Homematic-Virtual-Interface) -通过插件集成了第三方设备（例如Hue，Harmony，Netatmo，Sonos），也可以作为插件使用.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Homematic CCU的节点.
 
 
@@ -112,7 +113,7 @@
 * [homematicip-rest-api](https://github.com/coreGreenberet/homematicip-rest-api) -用于homematicIP REST API（基于云/访问点）的Python包装器.
 * [homematic-gqls](https://github.com/martin-riedl/homematic-gqls) -GraphQL服务，用于查询基于以下内容的Homematic IP组件 [homematicip-rest-api](https://github.com/coreGreenberet/homematicip-rest-api).
 * [homematic-xmlrpc](https://github.com/hobbyquaker/homematic-xmlrpc) -Xmlrpc客户端和服务器Node.js模块.
-* [pmatic](https://github.com/LarsMichelsen/pmatic)  -Homematic的Python API. 使用方便.
+* [pmatic](https://github.com/LarsMichelsen/pmatic)  -Homematic的Python API. 易于使用.
 * [pyhomematic](https://github.com/danielperna84/pyhomematic) -与Homematic设备进行交互的Python 3接口.
 
 ## Smart Home Software supporting Homematic

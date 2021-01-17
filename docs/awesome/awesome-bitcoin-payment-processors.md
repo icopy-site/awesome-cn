@@ -6,10 +6,12 @@
 
 ## Awesome Bitcoin Payment Processors [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-一系列很棒的比特币支付处理器以及使用它们的商人的故事. 他们为什么很棒？
+精选的很棒的比特币支付处理器列表，使商家，企业和非营利组织可以接受比特币支付.
 
-1.他们要么受到财政审查保护，要么不实行审查制度.
-2.他们处理本地比特币交易，不需要钱包使用 [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
+他们为什么很棒？
+
+1.他们要么不受财政审查的影响，要么不实行财政审查.
+2.他们通过本地比特币地址接受比特币，不需要钱包使用 [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
 3.他们不 [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
 
 
@@ -66,8 +68,6 @@
 
 ## Backers 💝
 
-[[Become a backer](https://mynode.alexkaul.com/gh-donate)]
-
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/0/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/0/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/1/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/1/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/2/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/2/profile)
@@ -79,18 +79,4 @@
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/8/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/8/profile)
 [![Backer](https://mynode.alexkaul.com/gh-backer/top/9/avatar/60)](https://mynode.alexkaul.com/gh-backer/top/9/profile)
 
-## How to Contribute
-
-请阅读 [CONTRIBUTING](https://github.com/alexk111/awesome-bitcoin-payment-processors/blob/master/CONTRIBUTING.md).
-
-## How to Share
-
-- [Share on Twitter](https://twitter.com/home?status=List%20of%20awesome%20bitcoin%20payment%20processors.%20https%3A%2F%2Fgithub.com%2Falexk111%2Fawesome-bitcoin-payment-processors%20%23bitcoin)
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/alexk111/awesome-bitcoin-payment-processors)
-- [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/alexk111/awesome-bitcoin-payment-processors&title=List%20of%20awesome%20bitcoin%20payment%20processors&summary=&source=)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Alex Kaul](https://github.com/alexk111) 放弃了此作品的所有版权以及相关或邻近的权利.
+[[Donate](https://mynode.alexkaul.com/gh-donate)] 谢谢您的支持！ 
