@@ -61,6 +61,7 @@ _关于Svelte框架的研究和研究.
 
 - [SvelteScaling](https://svelte-scaling.acmion.com/) -苗条的规模吗？
 - [Will it Scale?](https://github.com/halfnelson/svelte-it-will-scale) -找到斯维尔特的拐点.
+- [JavaScript Frameworks Performance Comparison](https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce) -Svelte和其他顶级javascript框架的性能.
 
 ## Integrations
 
@@ -171,11 +172,11 @@ _对于单页应用程序（SPA）以及更多.
 
 ### Scaffold
 
-_Templates / boilerplate / seed / starter kits / stack ensemble / Yeoman generator._
+_模板/样板/种子/入门工具包/堆栈合奏/ Yeoman generator._
 
 #### Client
 
-_仅在浏览器中渲染Svelte应用程序.
+_Render Svelte application in the browser only._
 
 - [sveltejs/template](https://github.com/sveltejs/template) -用于使用汇总构建基本应用程序的模板.
 - [component-template](https://github.com/sveltejs/component-template) -建立可共享组件的基础.

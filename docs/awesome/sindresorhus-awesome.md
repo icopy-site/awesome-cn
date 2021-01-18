@@ -48,7 +48,7 @@
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) -基于Chrome的V8 JavaScript引擎的异步非阻塞事件驱动JavaScript运行时.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) -基于Chrome V8 JavaScript引擎的异步非阻塞事件驱动JavaScript运行时.
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) -在Node.js上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) -适用于Apple手机和平板电脑的移动操作系统.
@@ -255,6 +255,7 @@
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) -Material Design React组件，可以更快，更轻松地进行Web开发.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) -独立功能可集成到网络应用中.
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) -应用框架.
+- [Design systems](https://github.com/klaufel/awesome-design-systems#readme) -在确保一致性和速度的规则的指导下，收集可重复使用的组件.
 
 ## Back-End Development
 

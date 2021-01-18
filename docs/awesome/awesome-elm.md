@@ -24,7 +24,7 @@
 * [Official tutorial](http://elm-lang.org/docs) —常规信息和带有示例的深入指南.
 * [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c) —来自Manning Publications的针对Elm初学者的深入书籍.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) -如何创建可与您的应用很好地缩放的模块化Elm代码.
-* [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
+* [Exercism Elm Track](http://exercism.io/languages/elm) -榆木练习集.
 * [Learn you an Elm](http://learnyouanelm.github.io/) -Elm教程，提供详尽的示例和说明.
 * [Beginning Elm](http://elmprogramming.com/) -对Elm编程语言的简要介绍.
 * [Elm patterns](http://sporto.github.io/elm-patterns/index.html) -榆树的常见模式的集合.
@@ -34,19 +34,23 @@
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) -使用Maybe类型，并带有注释良好的代码示例.
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) -实用程序员的详尽书籍，涵盖了基础知识和高级概念.
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) -语法和功能概述.
-* [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) -关于使用Elm构建Web应用程序的两个教程.
+* [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
 * [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) -Elm作为一种编程语言的简要概述.
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) -榆木和数据初学者课程
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) -一本关于开发Elm应用程序的实际方面的入门书籍.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) -针对Elm与Haskell不同的地方收集了一些示例，针对的是来自Haskell背景的Elm初学者.
 * [A nice app on Elm street](https://madewithlove.be/using-elm-with-react-a-nice-app-on-elm-street) -榆树简介
 * [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book) 在中构建Web应用程序 [F#](https://dotnet.microsoft.com/languages/fsharp) 从第一原则遵循Elm Architecture. 
+* [Elm patterns](https://sporto.github.io/elm-patterns/) -编码模式的集合.
+* [Codings hints](https://github.com/elm/compiler/tree/master/hints) -Evan的自述文件列表.
+* [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) -艾莉（Ellie）小例子集.
+* [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) -有关榆木的电子书.
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) -了解如何使用Elm构建响应式Web应用程序.
 * [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) -了解如何为Elm创建本机JavaScript模块.
-* [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) -有关基础知识和高级主题的系列文章.
+* [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) -语言功能概述.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) -简短的屏幕录像可以教您Erik Person的Elm编程语言.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) -构建您的第一个Elm Web App.
@@ -243,7 +247,7 @@
 
 ### Sublime Text
 
-* [LSP-elm](https://github.com/sublimelsp/LSP-elm) - Elm Language Server for Sublime (Recommended).
+* [LSP-elm](https://github.com/sublimelsp/LSP-elm) -Elm Language Server for Sublime（推荐）.
 * [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) -Elm的语言服务器实现
 * [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) -Sublime Text中Elm的语法突出显示.
 * [Elm Format on Save](https://github.com/evancz/elm-format-on-save) -Sublime Text插件可在保存时运行elm格式.
@@ -423,7 +427,7 @@
 
 ## Who to follow
 
- *免费跟随新更新. 使用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *免费跟随新更新. 采用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---
