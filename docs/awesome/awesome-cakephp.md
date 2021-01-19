@@ -109,7 +109,7 @@
 - [Elastic Email plugin](https://github.com/sprintcube/cakephp-elastic-email) -电子邮件传输插件，用于通过Elastic Email API发送电子邮件.
 - ：草莓： [EmailQueue plugin](https://github.com/lorenzo/cakephp-email-queue) -具有预览和发件人外壳的电子邮件队列插件.
 - [Gourmet/Email plugin](https://github.com/gourmet/email) -电子邮件帮助程序，布局等.
-- ：草莓： [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) -电子邮件传输插件，用于通过Mailgun发送电子邮件.
+- ：草莓： [Mailgun plugin](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
 - [SendGrid plugin](https://github.com/sprintcube/cakephp-sendgrid) -电子邮件传输插件，用于通过SendGrid API发送电子邮件.
 
 ## Environment
@@ -200,7 +200,7 @@
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -带有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个向您的应用添加枚举列表支持的插件.
-- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件. 用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历. 包括用于ICS日历文件生成的IcalView.
@@ -220,7 +220,7 @@
 - [TokenVerify plugin](https://github.com/mosaxiv/cakephp-token-verify) -轻松发行可用于邮件身份验证的令牌.
 - ：草莓： [Tools plugin](https://github.com/dereuromark/cakephp-tools) -包含许多有用的库，助手，行为，组件，shell等.
 - [UserTools plugin](https://github.com/burzum/cakephp-user-tools)  -用于登录，注册，密码重置等的用户工具. 像CRUD一样开箱即用，并且高度可配置.
-- [Utils plugin](https://github.com/cakemanager/cakephp-utils) - Containing useful components (Authorizer, Menu) and behaviors (WhoDidIt, Uploadable, Metas, Stateable).
+- [Utils plugin](https://github.com/cakemanager/cakephp-utils) -包含有用的组件（授权者，菜单）和行为（WhoDidIt，Uploadable，Metas，Stateable）.
 - [Wrench plugin](https://github.com/HavokInspiration/wrench)  -维护模式插件. 易于扩展和定制.
 - [Yaml plugin](https://github.com/guemidiborhane/Cake-Yaml) -用于使用YAML配置文件而不是PHP数组.
 
@@ -458,7 +458,6 @@
 *文档和CakePHP相关的阅读和听力材料.*
 
 - [CakePHP Cookbook(!)](https://book.cakephp.org/) -官方CakePHP文档.
-- [CakePHP Reporter](https://www.scoop.it/topic/cakephp-reporter) -关于CakePHP的报纸和资料集.
 
 ## CakePHP Internals Reading
 *阅读与CakePHP内部和决策相关的材料.

@@ -158,7 +158,7 @@ _对于单页应用程序（SPA）以及更多.
 - [svelte-router-spa](https://github.com/jorgegorka/svelte-router)  -路由器将路由添加到您的单页应用程序（SPA）. 包括本地化，防护和嵌套布局.
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) -具有SSR支持的声明性Svelte路由库.
 - [tinro](https://github.com/AlexxNB/tinro) -小型，无依赖和高度声明性的路由器.
-- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) -针对单页应用程序（SPA）进行了优化，具有基于哈希的路由并支持参数.
+- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 
 ### UI Utilities
 
@@ -170,13 +170,18 @@ _对于单页应用程序（SPA）以及更多.
 
 - [svelthree](https://github.com/vatro/svelthree) -组件库，用于以声明方式构造反应式和可重复使用的three.js场景图.
 
+#### Portal
+
+- [svelte-portal](https://github.com/romkor/svelte-portal) -用于在父组件的DOM之外进行渲染的组件.
+- [svelte-teleport](https://github.com/nasso/svelte-teleport) -在DOM中传送元素的组件.
+
 ### Scaffold
 
 _模板/样板/种子/入门工具包/堆栈合奏/ Yeoman generator._
 
 #### Client
 
-_Render Svelte application in the browser only._
+_仅在浏览器中渲染Svelte应用程序.
 
 - [sveltejs/template](https://github.com/sveltejs/template) -用于使用汇总构建基本应用程序的模板.
 - [component-template](https://github.com/sveltejs/component-template) -建立可共享组件的基础.

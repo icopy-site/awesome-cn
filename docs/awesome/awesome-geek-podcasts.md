@@ -22,7 +22,8 @@
 ## In English
 
 * [.NET Rocks!](https://www.dotnetrocks.com/) -卡尔·富兰克林和理查德·坎贝尔为.NET开发人员提供的互联网音频脱口秀.
-* [/dev/hell](http://devhell.info/) 克里斯·哈特耶斯（Chris Hartjes）和埃德·芬克勒（Ed Finkler）被困在“发展地狱”中，他们主要谈论PHP，Web，他们的开发经验以及与特别来宾.
+* [/dev/hell](http://devhell.info/) 克里斯·哈特斯（Chris Hartjes）和埃德·芬克勒（Ed Finkler）被困在“发展地狱”中，他们主要谈论PHP，Web，他们的开发经验以及与特别来宾.
+* [a16z Podcast](https://a16z.com/podcasts/) -播客讨论技术和文化趋势，新闻和未来.
 * [Accidental Tech Podcast](http://atp.fm/) -三个书呆子讨论技术，苹果，编程和松散相关的问题.
 * [Ada Lovelace Day](https://findingada.com/) [iTunes](https://itunes.apple.com/gb/podcast/ada-lovelace-day-podcast/id1119310112) -妇女在科学，技术，工程和数学（STEM）方面的成就.
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
@@ -38,6 +39,7 @@
 * [BookBytes](https://www.orbit.fm/bookbytes/) -面向开发人员的读书俱乐部播客.
 * [Bootstrapped](http://bootstrapped.fm/)  -伊恩（Ian）和安德烈（Andrey）都是经验丰富的创业创始人，在职业生涯中都受到了重大的打击和成功. 您可以从中学到很多东西.
 * [Bootstrapped Web](http://bootstrappedweb.com/) -Bootstrapped Web适用于引导自己的创业公司的企业家，他们相信到达我们的目标的最佳方法是边做边学.
+* [Breach](https://www.carbonite.com/podcasts/breach/) -播客，探讨Carbonite的数据泄露和网络安全.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 * [BSDTalk](http://bsdtalk.blogspot.com/) -谈论BSD系列免费操作系统.
 * [Build Phase](http://buildphase.fm/) -构建阶段是每周一次的技术播客，讨论iOS开发和设计.
@@ -65,7 +67,7 @@
 * [Developing Perspective](https://github.com/ayr-ton/awesome-geek-podcasts/blob/master/	http://developingperspective.com/)  -从开发和设计到营销和支持，Under the Radar都是关于独立应用程序开发的. 永远不会超过30分钟.
 * [DevOps Cafe](http://devopscafe.org/) 在这次采访驱动的节目中，John Willis和Damon Edwards务实地研究了新兴DevOps运动背后的技术，工具和业务发展.
 * [Digital Human](https://www.bbc.co.uk/programmes/b01n7094) -BBC系列探索Aleks Krotoski提出的数字世界.
-* [Disruptive](https://soundcloud.com/wyssinstitute/sets/disruptive)  -威斯生物启发工程研究所的研究人员利用自然界的设计原理来开发生物启发的材料和设备，这些材料和设备将改变医学并创造一个更加可持续的世界. 在这个播客系列中，特伦斯·麦克纳利（Terrence McNally）直接与研究所的研究人员交谈，探讨了他们的动机以及他们如何展望我们的未来，因为这可能会受到其颠覆性技术的影响.
+* [Disruptive](https://soundcloud.com/wyssinstitute/sets/disruptive)  -Wyss生物启发工程研究所的研究人员使用自然界的设计原理来开发生物启发的材料和设备，这些材料和设备将改变医学并创造一个更加可持续的世界. 在这个播客系列中，特伦斯·麦克纳利（Terrence McNally）直接与研究所的研究人员交谈，探讨他们的动机以及他们如何展望我们的未来，因为这可能会受到其破坏性技术的影响.
 * [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) -在表演中，我们将与热情的人们讨论与开发人员相关的广泛主题.
 * [Elixir Foundation](http://feeds.soundcloud.com/users/soundcloud:users:24638646/sounds.rss) -您每周从Elixirlang社区周围进行新闻和采访的播客.
 * [Elixir Outlaws](https://elixiroutlaws.com) -关于Elixir开发及其周围主题的小组讨论.
@@ -97,6 +99,7 @@
 * [JavaScript Air](https://javascriptair.com/) -有关JavaScript的现场直播播客.
 * [JS Party](https://changelog.com/jsparty) – JavaScript和网络社区庆祝活动
 * [Ladybug Podcast](https://ladybug.dev/) –为所有开发人员主持的由女士主持的技术播客，围绕如何开始编码，当前的热门技术，如何获得第一份开发人员工作，冒名顶替综合症，如何编写CSS等进行了大量讨论.
+* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast)  -Facebook. 苹果. 亚马逊 Netflix. 谷歌. 该播客检查了它如何发挥作用，如何使用它以及将来会发生什么.
 * [Laravel News Podcast](https://laravel-news.com/podcast/) -Laravel新闻播客带给您与Laravel相关的所有最新新闻和事件.
 * [Linear Digressions](http://lineardigressions.com/) -通过真实的故事和示例以可访问的方式探索数据科学和机器学习的主题.
 * [Linux Action News](https://www.jupiterbroadcasting.com/show/linux-action-news/) -有关Linux和开源世界的每周新闻.
@@ -110,7 +113,7 @@
 * [Mind the Cloud Podcast](http://mindthecloud.com) -关于使用云创建未来的开发人员和公司的播客.
 * [MS Dev Show](https://msdevshow.com/)  -Microsoft开发人员的播客.  Jason Young和Carl Schweitzer讨论了开发人员新闻中的最新消息，这些新闻涉及诸如Azure云，Windows，Windows Phone，Visual Studio和使用Microsoft平台的跨平台开发等主题.
 * [New Rustacean](https://newrustacean.com/) -这是有关从头开始学习编程语言Rust的播客.
-* [Note To Self](https://www.wnycstudios.org/shows/notetoself) -主持人Manoush Zomorodi与大牌技术人员到小学老师的每个人都在讨论技术对我们生活的影响，以寻求有助于您思考和生活更好的明智选择.
+* [Note To Self](https://www.wnycstudios.org/shows/notetoself) -主持人Manoush Zomorodi与大牌技术员到小学老师的每个人都在讨论技术对我们生活的影响，以寻求有助于您思考和生活更好的明智选择.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) -唯一针对Office 365开发的展览，我们与来自全球的专家就Office 365平台的编码进行了交谈.
 * [On the Metal](https://oxide.computer/blog/categories/on-the-metal/) -硬件/软件界面的故事：“地球上最讨厌的播客”.
 * [Open Source Security Podcast](https://www.opensourcesecuritypodcast.com/) -面向希望更好地了解当今安全主题的人员的安全播客.
@@ -136,7 +139,7 @@
 * [Security Now!](https://www.grc.com/securitynow.htm)  -现在安全！ 由史蒂夫·吉布森（Steve Gibson）和里奥·拉波特（Leo Laporte）之间的有关计算机安全性以及不安全性的讨论组成.
 * [Security Weekly](https://securityweekly.com) -关于安全和信息安全的每周播客.
 * [Semaphore Uncut](https://semaphoreci.com/podcast) -软件行业的专家讨论他们正在使用的产品正在解决的问题.
-* [Self Hosted](https://selfhosted.show/)  -探索新的软件和硬件，以充分利用网络，控制智能设备并保护云服务上的数据安全.  “自我托管”是Chris和Alex两个长期的“自我托管者”之间的聊天节目，他们分享了他们的课程，并带领您踏上了新的旅程.  Linux Academy播客，展示了您可以托管的免费和开源技术.
+* [Self Hosted](https://selfhosted.show/)  -探索新的软件和硬件，以充分利用网络，控制智能设备并保护云服务上的数据安全. 自托管是克里斯和亚历克斯两个长期的“自托管者”之间的聊天节目，他们分享了他们的课程，并带领您踏上了新的旅程.  Linux Academy播客，展示了您可以托管的免费和开源技术.
 * [ShopTalk Show](https://shoptalkshow.com/) -关于前端网页设计，开发和UX的播客.
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) -播客，每天采访针对专业软件开发人员的技术软件主题.
 * [Software Engineering Radio](http://www.se-radio.net/) -专业软件开发人员的播客.
@@ -163,7 +166,7 @@
 * [The Amp Hour](https://theamphour.com/) -在一个小时（每周）的每周表演中讨论电子设计的世界.
 * [The Back to Front Show](https://backtofrontshow.com/)  -由网络行业资深人士Keir Whitaker和Kieran Masterton于2013年发起了Back to Front节目. 在前40集中，他们讨论了从网页设计和开发到初创公司和狗相关技术的所有内容.
 * [The Big Web Show](http://5by5.tv/bigwebshow) -重要的是网络.
-* [The Bike Shed](http://bikeshed.fm/) -在“自行车棚”上，主持人Derek Prior，Sean Griffin，Laila Winner和嘉宾讨论了他们在Ruby，Rails，JavaScript等方面的开发经验和挑战，以及本周引起人们注意，钦佩或不满的任何其他内容.
+* [The Bike Shed](http://bikeshed.fm/) -在“自行车棚”上，主持人Derek Prior，Sean Griffin，Laila Winner和来宾讨论了他们在Ruby，Rails，JavaScript等方面的开发经验和挑战，以及本周引起他们注意，钦佩或不满的任何其他内容.
 * [The Bug Bounty Podcast](https://anchor.fm/bugbountypodcast)  -有关错误，赏金及其研究人员的播客. 由Fisher托管.
 * [The Changelog](https://changelog.com/podcast) -与软件开发的黑客，领导者和创新者进行对话.
 * [The Cognicast](http://blog.cognitect.com/cognicast) -Cognicast以前是ThinkRelevance：Podcast是Cognitect家族的播客.
@@ -193,9 +196,6 @@
 * [Weird Trick Mafia](https://weirdtrickmafia.fm/) -关于技术，感觉，开源和/ dev / urandom的播客.
 * [Why Are Computers](https://whyarecomputers.com/) -关于计算机和计算机程序及其原因的播客.
 * [WIRED's Webmonkey Podcast](https://www.wired.com/series/webmonkey/) -与技术团队一起浏览WIRED.com的幕后故事.
-* [Breach](https://www.carbonite.com/podcasts/breach/) -播客，探讨Carbonite的数据泄露和网络安全.
-* [Land of Giants](https://www.vox.com/land-of-the-giants-podcast)  -Facebook. 苹果. 亚马逊 Netflix. 谷歌. 该播客检查了它如何发挥作用，如何使用它以及将来会发生什么.
-* [a16z Podcast](https://a16z.com/podcasts/) -播客讨论技术和文化趋势，新闻和未来.
 
 
 ## In Portuguese
@@ -270,7 +270,7 @@
 * [La Pingüina Increíblemente Curiosa](https://podcast.voidnull.es/) -关于LPIC的播客，认证内容以及要研究的章节的说明.
 * [Maratón Linuxero](https://maratonlinuxero.org) -由播客和GNU / Linux侦听器创建的项目，它们希望通过免费软件应用程序和服务来进行现场活动.
 * [Más Allá de la Innovación](https://masalladelainnovacion.com) -OpenExpo技术面试.
-* [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) -关于技术，计算机，chromebook，智能手机，平板电脑，软件，操作系统的思考：Linux，Windows等以及应用程序.
+* [Mosqueteroweb Tecnología](https://www.ivoox.com/podcast-mosqueteroweb-tecnologia_sq_f1248962_1.html) -对技术，计算机，Chromebook，智能手机，平板电脑，软件，操作系统的思考：Linux，Windows等.
 * [NeoSiteLinux Podcast](https://www.neositelinux.com/tags/#podcasts) -主要是自由软件，GNU / Linux和技术.
 * [NOlegaltech Radio](https://www.ivoox.com/podcast-nolegaltech-radio_sq_f1446265_1.html) -法律世界一点都不酷……10分钟内即可获得技术和法律服务.
 * [Podcast Linux](https://avpodcast.net/podcastlinux) -面向家庭桌面用户的GNU / Linux世界播客.
@@ -357,8 +357,8 @@
 * [Rebuild](http://rebuild.fm/)  -宫川达彦（Tatsuhiko Miyagawa）的播客. 谈论技术，软件开发和小工具.
 
 ## In Bahasa Indonesia
-* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  -启发性的开发人员故事，介绍他们如何以开发人员身份开始工作.
-* [Teh atau Kopi](https://tehataukopi.club/) -校外学习
+* [Ceritanya Developer Podcast](https://ceritanyadeveloper.com/)  -启发性的开发人员故事，介绍他们如何以开发人员身份开始.
+* [Teh atau Kopi](https://tehataukopi.club/) -在校外学习
 * [Developer Muslim](https://devmuslim.id/) -穆斯林开发者杂志
 * [Teman Macet](http://temanmacet.com/) -关于程序设计和信息学行业.
 
@@ -374,7 +374,7 @@
 * [Ask Developer](http://www.askdeveloper.com/) -埃及阿拉伯方言的在线音频播客讨论了埃及和中东的技术和软件开发前景.
 * [Null++](https://nullplus.plus)  -由开罗的Facebook开发者圈联合领导提供支持的埃及阿拉伯播客. 该播客旨在为MENA的软件专业人员提供宝贵的技术支持，并帮助他们进一步发展自己的职业.
 * [Tech and Coffee](https://anchor.fm/iahmadzain/episodes/S1E10-Tech-Chat-with-Ahmed-Essam--The-Pragmatic-Programmer-eie4eo) -关于技术及其先驱.
-* [Essam Cafe](https://essamcafe.com/) -每周与人聚会，也许我们同意或不同意，重要的是要从Twitter提名的随机主题中学习和受益于每周的一小部分.
+* [Essam Cafe](https://essamcafe.com/) -每周与人聚会，也许我们同意或不同意，重要的是从Twitter提名的随机主题中学习和受益于每周的一小部分.
 * [Tech Tracks](https://podu.me/shows/show/77/tech-tracks) An Egyptian Arabic podcast discussess technology news.
 * [Khedr W Business](https://castbox.fm/channel/id2453686?country=us) -主题分为两个轴：1-管理和企业家精神，以及与投资，运营，营销，合伙等相关的事物.2-生活，关系，成功和画法以及我们如何生活一种确保与自己和解的方式.
 * [State of E-commerce](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMTA1ODk1LnJzcw?sa=X&ved=2ahUKEwixm-6X7ITsAhUR_hoKHTmpBaMQjs4CKAB6BAgBEBA) -电子商务，企业和市场营销的阿拉伯语播客，可帮助企业所有者衡量，理解和发展其在线销售.

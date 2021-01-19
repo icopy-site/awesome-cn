@@ -44,7 +44,7 @@
 
 
 <details>
- <summary>显示语言</summary>
+ <summary>Show languages</summary>
   <!-- Please use HTML syntax here so that it works for Github and mkdocs -->
   <ul>
     <li><a href="#abap">ABAP</a></li>
@@ -128,7 +128,7 @@
 <h2 id="c">C</h2>
 
 - [Astrée](https://www.absint.com/astree/index.htm)  ：copyright：-Astrée自动证明C / C ++应用程序中没有运行时错误和无效的并发行为. 对于浮点计算而言，这是一种声音，非常快速且异常精确. 该分析仪还检查MISRA / CERT / CWE / Adaptive Autosar编码规则，并支持ISO 26262，DO-178C A级和其他安全标准的鉴定.  Jenkins和Eclipse插件可用.
-- [CBMC](http://www.cprover.org/cbmc) - Bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses.
+- [CBMC](http://www.cprover.org/cbmc) -用于C程序，用户定义的断言，标准断言，多个coverage度量分析的有界模型检查器.
 - [clang-tidy](http://clang.llvm.org/extra/clang-tidy) -lang静态分析.
 - [clazy](https://github.com/KDE/clazy)  -基于Clang框架的面向Qt的静态代码分析器.  clazy是一个编译器插件，允许clang理解Qt语义. 您会收到50多个与Qt相关的编译器警告，范围从不必要的内存分配到API的滥用，包括用于自动重构的修复程序.
 - [CMetrics](https://github.com/MetricsGrimoire/CMetrics) -测量C文件的大小和复杂性.
@@ -176,7 +176,7 @@
 <h2 id="cpp">C ++</h2>
 
 - [Astrée](https://www.absint.com/astree/index.htm)  ：copyright：-Astrée自动证明C / C ++应用程序中没有运行时错误和无效的并发行为. 对于浮点计算而言，这是一种声音，非常快速且异常精确. 该分析仪还检查MISRA / CERT / CWE / Adaptive Autosar编码规则，并支持ISO 26262，DO-178C A级和其他安全标准的鉴定.  Jenkins和Eclipse插件可用.
-- [CBMC](http://www.cprover.org/cbmc) - Bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses.
+- [CBMC](http://www.cprover.org/cbmc) -用于C程序，用户定义的断言，标准断言，多个coverage度量分析的有界模型检查器.
 - [clang-tidy](http://clang.llvm.org/extra/clang-tidy) -lang静态分析.
 - [clazy](https://github.com/KDE/clazy)  -基于Clang框架的面向Qt的静态代码分析器.  clazy是一个编译器插件，允许clang理解Qt语义. 您会收到50多个与Qt相关的编译器警告，范围从不必要的内存分配到API的滥用，包括用于自动重构的修复程序.
 - [CMetrics](https://github.com/MetricsGrimoire/CMetrics) -测量C文件的大小和复杂性.
@@ -222,7 +222,7 @@
 
 <h2 id="dart">镖</h2>
 
-- [effective_dart](https://pub.dev/packages/effective_dart) - Linter rules corresponding to the guidelines in Effective Dart
+- [effective_dart](https://pub.dev/packages/effective_dart) -与有效飞镖指南相对应的短绒规则
 - [lint](https://github.com/passsy/dart-lint)  -针对Dart和Flutter项目的一套由社区驱动的，有条理的皮棉规则. 像书呆子，但更严格
 - [Linter for dart](https://dart-lang.github.io/linter) -Dart风格的短绒.
 
@@ -311,7 +311,7 @@
 - [unconvert](https://github.com/mdempsky/unconvert) -检测冗余类型转换.
 - [unparam](https://github.com/mvdan/unparam) -查找未使用的功能参数.
 - [varcheck](https://gitlab.com/opennota/check) -查找未使用的全局变量和常量.
-- [wsl](https://github.com/bombsimon/wsl) - Enforces empty lines at the right places.
+- [wsl](https://github.com/bombsimon/wsl) -在正确的地方插入空行.
 
 
 <h2 id="groovy">Groovy</h2>
@@ -369,7 +369,7 @@
 - [Esprima](https://esprima.org) -ECMAScript解析基础结构，用于多用途分析.
 - [flow](https://flow.org) -JavaScript的静态类型检查器.
 - [hegel](https://hegel.js.org) -JavaScript的静态类型检查器，带有类型推断偏向和强类型系统.
-- [jshint](https://jshint.com/about) [:information_source:](https://github.com/analysis-tools-dev/static-analysis/blob/master/<https://github.com/analysis-tools-dev/static-analysis/issues/223>) - Detect errors and potential problems in JavaScript code and enforce your team's coding conventions.
+- [jshint](https://jshint.com/about) [:information_source:](https://github.com/analysis-tools-dev/static-analysis/blob/master/<https://github.com/analysis-tools-dev/static-analysis/issues/223>) -检测JavaScript代码中的错误和潜在问题，并执行团队的编码约定.
 - [JSLint](https://github.com/douglascrockford/JSLint) [:information_source:](https://github.com/analysis-tools-dev/static-analysis/blob/master/<https://github.com/analysis-tools-dev/static-analysis/issues/223>) -JavaScript代码质量工具.
 - [JSPrime](http://dpnishant.github.io/jsprime) ：警告：-静态安全分析工具.
 - [plato](https://github.com/es-analysis/plato) ：warning：-可视化JavaScript源复杂性.
@@ -412,8 +412,8 @@
 
 <h2 id="ocaml">迷彩</h2>
 
-- [Sys](https://github.com/PLSysSec/sys) -静态分析工具支持LLVM.
-- [VeriFast](https://github.com/verifast/verifast) -用于C和Java的源代码验证工具.
+- [Sys](https://github.com/PLSysSec/sys)  -用于在（浏览器）代码中查找错误的静态/符号工具. 它使用LLVM AST查找未初始化的内存访问之类的错误.
+- [VeriFast](https://github.com/verifast/verifast)  -一种用于对单线程和多线程C和Java程序的正确性进行模块化形式验证的工具，该工具带有以分隔逻辑编写的前置条件和后置条件. 为了表达丰富的规范，程序员可以定义归纳数据类型，这些数据类型上的原始递归纯函数以及抽象分隔逻辑谓词.
 
 
 <h2 id="php">的PHP</h2>
@@ -459,7 +459,7 @@
 - [phpqa - jmolivas](https://github.com/jmolivas/phpqa) -PHPQA多合一分析器CLI工具.
 - [phpsa](https://github.com/ovr/phpsa) -用于PHP的静态分析工具.
 - [PHPStan](https://phpstan.org) -PHP静态分析工具-无需运行即可发现代码中的错误！
-- [Progpilot](https://github.com/designsecurity/progpilot) -出于安全目的的静态分析工具.
+- [Progpilot](https://github.com/designsecurity/progpilot) - A static analysis tool for security purposes.
 - [Psalm](https://psalm.dev) -用于在PHP应用程序中查找类型错误的静态分析工具.
 - [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) -可视化指标和源代码.
 - [Tuli](https://github.com/ircmaxell/Tuli) -静态分析引擎.
@@ -527,7 +527,7 @@
 - [reek](https://github.com/troessner/reek) -用于Ruby的代码气味检测器.
 - [RuboCop](https://docs.rubocop.org/rubocop) -基于社区Ruby样式指南的Ruby静态代码分析器.
 - [Rubrowser](https://github.com/blazeeboy/rubrowser) -Ruby类交互式依赖图生成器.
-- [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) :warning: - Static code analysis for Ruby.
+- [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) ：warning：-Ruby的静态代码分析.
 - [rubycritic](https://github.com/whitesmith/rubycritic) -Ruby代码质量报告程序.
 - [rufo](https://github.com/ruby-formatter/rufo) -一种自以为是的ruby格式化程序，旨在通过命令行作为文本编辑器插件使用，以便在保存或按需自动格式化文件时使用.
 - [Saikuro](https://metricfu.github.io/Saikuro) -Ruby循环复杂度分析器.
@@ -629,7 +629,7 @@
 - [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: - Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95.
 - [Better Code Hub](https://bettercodehub.com) ：copyright：-Better Code Hub会根据软件质量部门Software Improvement Group制定的10条工程指南来检查GitHub代码库.
 - [brakeman](https://brakemanscanner.org) -用于Ruby on Rails应用程序的静态分析安全漏洞扫描程序.
-- [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)  -找出占用可执行文件大部分空间的内容. 支持ELF（Linux，BSD），Mach-O（macOS）和PE（Windows）二进制文件.
+- [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable. supports ELF (Linux, BSD), Mach-O (macOS) and PE (Windows) binaries.
 - [CAST Highlight](https://www.castsoftware.com/products/highlight) ：copyright：-在本地运行的商业静态代码分析，但是将结果上传到其云中进行演示.
 - [Checkmarx CxSAST](https://www.checkmarx.com/products/static-application-security-testing) ：copyright：-不需要预先编译的商业静态代码分析.
 - [ciocheck](https://github.com/ContinuumIO/ciocheck)  -Linter，格式化程序和测试套件帮助器. 作为短绒棉，它是包裹在“ pep8”，“ pydocstyle”，“ flake8”和“ pylint”周围的包装纸.
@@ -664,11 +664,11 @@
 - [ESLint](https://github.com/eslint/eslint) -遵循ECMAScript标准的JS可扩展短绒.
 - [exakat](https://www.exakat.io) -用于PHP的自动代码审查引擎.
 - [Find Security Bugs](https://find-sec-bugs.github.io)  -SpotBugs插件，用于Java Web应用程序和Android应用程序的安全审核.  （还与Kotlin，Groovy和Scala项目一起工作）
-- [flake8](https://github.com/PyCQA/flake8) - A wrapper around `pyflakes`, `pycodestyle` and `mccabe`.
+- [flake8](https://github.com/PyCQA/flake8) -围绕pyflakes，pycodestyle和mccabe的包装器.
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: - A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
 - [Go Meta Linter](https://github.com/alecthomas/gometalinter)  ：warning：-同时运行Go lint工具并标准化其输出. 将`golangci-lint`用于新项目.
 - [Goodcheck](https://sider.github.io/goodcheck) -基于Regexp的可定制短绒.
-- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) -同时运行许多linter，并将其输出标准化为报告.
+- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - Concurrently runs many linters and normalises their output to a report.
 - [graudit](http://www.justanotherhacker.com) -Grep粗略审核-源代码审核工具.
 - [Hopper](https://github.com/cuplv/hopper) ：warning：-用scala编写的针对JVM上运行的语言的静态分析工具.
 - [Hound CI](https://houndci.com)  -在GitHub拉取请求中评论样式违规. 支持Coffeescript，Go，HAML，JavaScript，Ruby，SCSS和Swift.
@@ -750,6 +750,7 @@
 
 <h2 id="binary">二进制文件</h2>
 
+- [angr](https://github.com/angr/angr) -二进制代码分析工具，也支持符号执行.
 - [binbloom](https://github.com/quarkslab/binbloom)  -该项目的目的是分析原始二进制固件并自动确定其某些功能. 该工具基本上与所有体系结构兼容，只是对其进行简单的统计.
 加载地址：binbloom可以解析原始二进制固件并确定其加载地址. 字节序：binbloom可以使用启发式方法来确定固件的字节序.  UDS数据库：binbloom可以解析原始二进制固件，并检查其是否包含包含UDS命令ID的数组.
 - [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
@@ -853,7 +854,7 @@
 
 <h2 id="json">JSON格式</h2>
 
-- [Spectral](https://stoplight.io/open-source/spectral) - A flexible JSON/YAML linter, without of the box support for OpenAPI v2/v3 and AsyncAPI v2.
+- [Spectral](https://stoplight.io/open-source/spectral) -灵活的JSON / YAML linter，不支持OpenAPI v2 / v3和AsyncAPI v2.
 
 
 <h2 id="latex">胶乳</h2>
@@ -885,7 +886,7 @@
 - [Oversecured](https://oversecured.com)  ：copyright：-一个移动应用程序漏洞扫描程序，专为安全研究人员和漏洞赏金黑客使用. 它还允许将集成到企业的DevOps流程中.
 - [paprika](https://github.com/GeoffreyHecht/paprika) -一个工具包，用于检测已分析的Android应用程序中的某些代码异味.
 - [qark](https://github.com/linkedin/qark) -查找多个与安全相关的Android应用程序漏洞的工具.
-- [redex](https://fbredex.com)  -Redex提供了一个用于读取，写入和分析.dex文件的框架，以及使用该框架来改进字节码的一组优化过程. 由Redex优化的APK应该更小，更快.
+- [redex](https://fbredex.com) - Redex provides a framework for reading, writing, and analyzing .dex files, and a set of optimization passes  that use this framework to improve the bytecode. An APK optimized by Redex should be smaller and faster.
 
 
 <h2 id="nodejs">Node.js</h2>
@@ -955,19 +956,19 @@
 <h2 id="writing">写作</h2>
 
 - [After the Deadline](https://afterthedeadline.com) ：warning：-拼写，样式和语法检查器.
-- [alex](https://alexjs.com) -捕捉不敏感，不体贴的文字
+- [alex](https://alexjs.com) - Catch insensitive, inconsiderate writing
 - [codespell](https://github.com/codespell-project/codespell) -检查代码中常见的拼写错误.
 - [languagetool](https://languagetool.org)  -25种以上语言的样式和语法检查器. 它会发现许多简单的拼写检查器无法检测到的错误.
 - [misspell-fixer](https://github.com/vlajos/misspell-fixer) -用于修复源代码中常见拼写错误，错别字的快速工具.
 - [Misspelled Words In Context](http://jwilk.net/software/mwic) -拼写检查器，对可能的拼写错误进行分组并在上下文中显示它们.
-- [proselint](http://proselint.com) -英文散文短篇小说，着重于写作风格而不是语法.
+- [proselint](http://proselint.com) - A linter for English prose with a focus on writing style instead of grammar.
 - [vale](https://errata-ai.gitbook.io/vale) -用于散文的可自定义的，具有语法意识的linter.
 - [write-good](https://github.com/btford/write-good) -重点消除“狡猾的单词”的短毛猫.
 
 
 <h2 id="yaml">YAML</h2>
 
-- [Spectral](https://stoplight.io/open-source/spectral) - A flexible JSON/YAML linter, without of the box support for OpenAPI v2/v3 and AsyncAPI v2.
+- [Spectral](https://stoplight.io/open-source/spectral) -灵活的JSON / YAML linter，不支持OpenAPI v2 / v3和AsyncAPI v2.
 - [yamllint](https://yamllint.readthedocs.io) -检查YAML文件的语法有效性，键重复和外观问题，例如行长，尾随空格和缩进.
 
 

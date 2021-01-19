@@ -386,6 +386,7 @@
 - [Flame](https://github.com/flame-engine/awesome-flame#readme) -Flutter的游戏引擎.
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) -与朋友和社区聊天.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) -70年代的虚拟计算机游戏机.
+- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) -通过制作游戏来学习编程语言.
 
 ## Development Environment
 

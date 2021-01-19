@@ -50,6 +50,7 @@
 
 ### Secure Development Lifecycle Framework
 
+- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) -_Synopsys）-通过观察和分析来自领先软件安全计划的数据而创建的软件安全框架.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) -_Microsoft_-用作安全开发生命周期框架的工具和实践的集合.
 - [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) -_NIST_-一个由实践，任务和实现示例组成的框架，用于安全的开发生命周期.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) -_OWASP_-衡量和提高安全开发生命周期成熟度的框架.

@@ -47,7 +47,7 @@
 - [Sitecore Media Azure Blob Storage provider](https://github.com/ivansharamok/Sitecore.Media.AzureBlobStorage) -允许将Sitecore媒体库资产存储在Azure Blob存储帐户中.
 - [CloudMediaLibrary](https://github.com/jammykam/Sitecore-CloudMediaLibrary) -允许Sitecore媒体库从Cloud Storage存储和提供服务.
 - [SitecoreCognitiveServices](https://github.com/smithc/SitecoreCognitiveServices) -将Microsoft的认知服务集成到Sitecore中的SDK.
-- [Sitecore Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) -Azure资源管理器（ARM）模板，用于在Sitecore Azure PaaS环境中安装Sitecore发布服务.
+- [Sitecore Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.
 - [SitecoreDiagnostics](https://github.com/BasLijten/SitecoreDiagnostics) -使用Application Insights进行Sitecore诊断.
 - [sitecore-application-insights-annotations](https://github.com/BasLijten/sitecore-application-insights-annotations) -创建App Insinghts注释.
 
@@ -104,6 +104,7 @@
 - [Sitecore Habitat](https://github.com/Sitecore/Habitat)  -人居是基于Helix体系结构原理构建的Sitecore解决方案示例. 不再进行更新或维护，而已被Sitecore Helix示例取代.
 - [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples)  -在各种工具和业务场景中演示Sitecore Helix的实践； 旨在展示比现有示例更广泛的实现类型/要求.
 - [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform)  -使用SXA 10.0的最新XP 10.0演示. 它只能部署在Docker容器中.
+- [Sitecore MVP](https://github.com/Sitecore/MVP-Site) -使用Sitecore 10在容器中构建的真实Sitecore MVP网站的源代码.
 - [Sitecore.HabitatHome.Utilities](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) -实用程序和脚本示例的集合，可帮助安装Sitecore Experience Platform，安装Sitecore Experience Commerce，安装Sitecore模块，预热Sitecore实例，安全性加固Sitecore实例等.
 - [Sitecore.HabitatHome.Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) -与外部贡献者和合作伙伴一起演示资产.
 - [Sitecore.HabitatHome.Omni](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) -共享Sitecore JSS PWA演示资产和将来与“ Sitecore Omni”相关的演示资产.
@@ -226,8 +227,8 @@
 ## Publishing
 
 - [AdvancedPublishDialog](https://github.com/Sitecore/AdvancedPublishDialog) -增强的标准发布对话框.
-- [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) -允许您监视Sitecore Publishing CM Server上的发布队列，查看其当前状态，并根据需要取消发布作业（例如，排队时间，开始的发布时间，队列中的持续时间，发布的项目数，平均发布时间）一个项目，来自发布作业的所有消息）.
-- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  -“发布”按钮将强制发布项目，而不管“发布”限制中“项目”选项卡上“可发布”选项的状态如何.  1）此功能将不会在您的站点中发布未发布的链接页面，而只会发布诸如媒体库项目和项目字段中使用的数据源之类的资源，因为这些资源才可以正确显示要发布的项目. 如果尚未完成，此方法甚至可以发布当前项目使用的模板和布局.  2）“取消发布”按钮使您只需单击即可取消发布项目. 它将取消“发布限制”，因为它取消选中“项目”选项卡上的“可发布”选项，然后使用完整的“不带子项目的重新发布”在此之后发布该项目.  3）发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但此后发生了更改，则会显示一个橙色的点（因此它已发布，但不是最新的）. 如果当前项目根本不在发布目标中，则会显示一个红点. 此功能使内容编辑器可以针对每个发布目标详细检查内容是否已发布.
+- [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) -允许您监视Sitecore Publishing CM Server上的发布队列，查看其当前状态并根据需要取消发布作业（例如，排队时间，开始的发布时间，队列中的持续时间，发布的项目数，平均发布时间）一个项目，来自发布作业的所有消息）.
+- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  -“发布”按钮将强制发布项目，而不管“发布”限制中“项目”选项卡上“可发布”选项的状态如何.  1）此功能将不会在您的站点中发布未发布的链接页面，而只会发布诸如媒体库项目和项目字段中使用的数据源之类的资源，因为这些资源才可以正确显示要发布的项目. 如果尚未完成，此方法甚至可以发布当前项目使用的模板和布局.  2）“取消发布”按钮使您只需单击即可取消发布项目. 它将更改“发布限制”，因为它取消选中“项目”选项卡上的“可发布”选项，然后使用完整的“不带子项目的重新发布”来发布该项目.  3）发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但此后发生了更改，则会显示一个橙色的点（因此它已发布，但不是最新的）. 如果当前项目根本不在发布目标中，则会显示一个红点. 此功能使内容编辑器可以针对每个发布目标详细检查内容是否已发布.
 
 ## Rules
 
@@ -241,7 +242,7 @@
 
 - [Securty Headers](https://github.com/GuitarRich/SXA.SecurityHeaders) -显示了如何在SXA实例上实现响应安全标头，但它们确实是Helix通用的.
 - [SI Snitch](https://github.com/KayeeNL/SI-Snitch)  -一种调试工具，用于从Sitecore Identity转换那些声明之后，读取从Sitecore Identity传递给Sitecore的声明. 这有助于确定Sitecore收到的声明（以及采用哪种格式），并确保Sitecore Identity中的组转换得到正确处理.
-- [MasterKey](https://github.com/islaytitans/MasterKey) - A module for Unlocking Sitecore Items.
+- [MasterKey](https://github.com/islaytitans/MasterKey) -解锁Sitecore项目的模块.
 - [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights)  -启用“ item：removeVersion”访问权限，从而允许作者删除单个项目版本，而又不允许作者删除整个项目. 它还允许项目的初始创建者删除他/她自己的项目，除非对该项目应用了明确的拒绝删除访问权限.
 
 ## SEO

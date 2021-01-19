@@ -61,6 +61,7 @@
 ### Developer Tools
 
 - [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) -根据OpenAPI规范生成mypy和IDE友好的API客户端.
+- [FastAPI Profiler](https://github.com/sunhailin-Leo/fastapi_profiler) -joerick / pyinstrument的FastAPI中间件，用于检查您的服务性能.
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) -API版本控制.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) -将Jupyter笔记本作为RESTful API端点运行.
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) -用于生成和管理FastAPI项目的CLI工具.
@@ -75,11 +76,13 @@
 - [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) -一个简单的轻量级缓存系统.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) -一套实用的实用程序：分页，身份验证中间件，权限，自定义异常处理程序，MongoDB支持和Opentracing中间件.
 - [FastAPI CRUDRouter](https://github.com/awtkns/fastapi-crudrouter) -FastAPI路由器，可以为您的模型自动创建并记录CRUD路由.
+- [FastAPI Limiter](https://github.com/long2ice/fastapi-limiter) -FastAPI的请求速率限制器.
 - [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) -MQTT协议的扩展.
+- [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) -FastAPI分页.
 - [FastAPI Plugins](https://github.com/madkote/fastapi-plugins) -Redis和Scheduler插件.
 - [FastAPI ServiceUtils](https://github.com/skallfass/fastapi_serviceutils) -用于创建API服务的生成器.
 - [FastAPI SocketIO](https://github.com/pyropy/fastapi-socketio) -轻松集成FastAPI和SocketIO.
-- [FastAPI Utilities](https://github.com/dmontagu/fastapi-utils) -可重用的实用程序：基于类的视图，推理路由器，周期性任务，定时中间件，SQLAlchemy会话，OpenAPI规范简化.
+- [FastAPI Utilities](https://github.com/dmontagu/fastapi-utils) -可重用的实用程序：基于类的视图，推断路由器，周期性任务，定时中间件，SQLAlchemy会话，OpenAPI规范简化.
 - [Prerender Python Starlette](https://github.com/BeeMyDesk/prerender-python-starlette) -用于Prerender的Starlette中间件.
 - [Prometheus FastAPI Instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) -适用于FastAPI应用程序的可配置模块化Prometheus Instrumentator.
 - [SlowApi](https://github.com/laurents/slowapi) -速率限制器（基于 [Flask-Limiter](https://flask-limiter.readthedocs.io)).
@@ -137,12 +140,12 @@
 
 ### Talks
 
-- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) -通过Sebastian Ramirez的演讲，您将学习如何使用FastAPI轻松为ML模型构建生产就绪的Web（JSON）API，包括默认的最佳实践.
+- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) - From the talk by Sebastian Ramirez you will learn how to easily build a production-ready web (JSON) API for your ML models with FastAPI, including best practices by default.
 - [PyCon UK 2019: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA) -此演讲显示了如何使用FastAPI从头开始为数据库构建简单的REST API.
 
 ### Videos
 
-- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) -使用FastAPI构建基于Web的股票筛选器时，将向您介绍FastAPI的许多功能，包括pydantic模型，依赖项注入，后台任务和SQLAlchemy集成.
+- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) -使用FastAPI构建基于Web的股票筛选器后，将向您介绍FastAPI的许多功能，包括pydantic模型，依赖项注入，后台任务和SQLAlchemy集成.
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) -使用FastAPI构建Web应用程序编程接口（RESTful API）.
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) -了解如何使用FastAPI进行数值验证.
 - [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs)  -哪种框架最适合2020年的Python？ 哪个使用异步/等待最好？ 哪个最快？ 
@@ -216,7 +219,7 @@ Compute:
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
 - [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) -Websocket“广播”演示.
 - [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) -最小化示例，该示例将FastAPI和Celery与RabbitMQ一起用于任务队列，将Redis用于Celery后端，并使用Flower监视Celery任务.
-- [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
+- [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) -基于FastAPI的JSON-RPC服务器.
 - [Mailer](https://github.com/rclement/mailer) -用于静态网站的简单死信邮件微服务.
 - [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 - [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app)

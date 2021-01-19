@@ -67,7 +67,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 ## Community
 
--我们有一个不和谐的服务器！ [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2) ]（https://discord.gg/5pUhfpX）这应该是您与其他OSSU学生交谈的第一站. 您为什么现在不自我介绍？ [Join the CS channel in OSSU Discord](https://discord.gg/5pUhfpX)
+-我们有一个不和谐的服务器！ [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2) ]（https://discord.gg/wuytwK5s9h）这应该是您与其他OSSU学生交谈的第一站. 您为什么现在不自我介绍？ [Join the OSSU Discord](https://discord.gg/wuytwK5s9h)
  -您还可以通过GitHub问题进行互动. 如果课程有问题，或者需要对课程进行更改，这是开始对话的地方. 阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
 -订阅我们 [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 -将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 个人资料！
@@ -127,7 +127,6 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 通用设计模式
 `单元测试`
 面向对象设计
-`Java`
 静态打字
 动态打字
 ML系列语言（通过标准ML）
@@ -232,9 +231,9 @@ Lisp家庭语言（通过球拍）
 **涵盖的主题**：
 分而治之
 `排序和搜索`
-随机算法
+`randomized algorithms`
 `图搜索`
-“最短路径”
+`shortest paths`
 数据结构
 贪婪算法
 `最小的生成树`
@@ -314,8 +313,8 @@ Lisp家庭语言（通过球拍）
 
 **涵盖的主题**：
 调试理论与实践
-`goal-oriented programming`
-`parallel computing`
+面向目标的编程
+并行计算
 面向对象的分析与设计
 `UML`
 大型软件架构与设计

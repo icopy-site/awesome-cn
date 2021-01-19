@@ -77,7 +77,7 @@
 -  [Image Rendering](https://github.com/hacknug/tailwindcss-image-rendering) -添加了“图像渲染”实用程序.
 -  [Filters](https://github.com/benface/tailwindcss-filters) -添加`filter`实用程序.
 -  [Elevation](https://github.com/jonaskay/tailwindcss-elevation) -添加 [Material UI `elevation`](https://material.io/design/environment/elevation.html) 实用程序.
--  [Caret Color](https://github.com/naoray/tailwind-caret-color) -添加`caret`颜色实用程序.
+-  [Caret Color](https://github.com/GraxMonzo/tailwind-caret-color) -添加`caret`颜色实用程序.
 -  [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) -添加`blend-mode`工具.
 -  [Colorize](https://github.com/philippbosch/tailwindcss-colorize) -添加`filter`实用程序.
 -  [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) -添加了“写入模式”实用程序.
@@ -119,6 +119,7 @@
 
 &gt;-_以下插件提供的功能现已在Tailwind CSS中完全或部分实现.
 
+-  [Caret Color](https://github.com/naoray/tailwind-caret-color) -添加`caret`颜色实用程序.
 -  [benface's gradients](https://github.com/benface/tailwindcss-gradients) -添加渐变实用程序.
 -  [lorisleiva's gradients](https://github.com/lorisleiva/tailwindcss-plugins/tree/master/gradients) -添加背景渐变实用程序.
 -  [Visually Hidden](https://github.com/webdna/tailwindcss-visuallyhidden) -添加了屏幕阅读器实用程序.
