@@ -747,7 +747,7 @@ AWS存储库：
 * [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) -通过Python并行上传/下载到S3.
 * [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) -用于各种云存储提供商（例如S3）的Rsync.
 * [owocki/s3_disk_util :fire:](https://github.com/owocki/s3_disk_util) -S3磁盘使用率（du）实用程序.
-* [peak/s5cmd :fire::fire:](https://github.com/peak/s5cmd) -具有通配符和批处理命令支持的快速S3和本地文件系统执行工具.
+* [peak/s5cmd :fire::fire::fire:](https://github.com/peak/s5cmd) -具有通配符和批处理命令支持的快速S3和本地文件系统执行工具.
 * [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) -Gulp插件.
 * [rlmcpherson/s3gof3r :fire::fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) -快速，并发的流访问，包括CLI.
 * [s3git/s3git :fire::fire::fire::fire:](https://github.com/s3git/s3git) -CLI工具，可用于创建分布式，分散式和版本化的存储库.
@@ -1267,7 +1267,7 @@ AWS会议：
 ### Security and Identity Services
 
 * [Certificate Manager](https://aws.amazon.com/certificate-manager/) -使您轻松配置，管理和部署SSL / TLS证书以与AWS服务一起使用.
-* [CloudHSM](https://aws.amazon.com/cloudhsm/) -通过使用AWS云中的专用硬件安全模块（HSM）设备，帮助满足公司，合同和法规对数据安全的合规性要求.
+* [CloudHSM](https://aws.amazon.com/cloudhsm/) -通过使用AWS云中的专用硬件安全模块（HSM）设备，帮助满足公司，合同和法规对数据安全性的要求.
 * [Directory Service](https://aws.amazon.com/directoryservice/) -一种托管服务，可让您将资源与现有的本地Microsoft Active Directory连接或在AWS Cloud中设置新的独立目录.
 * [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) -隐式服务，用于对各种服务的访问进行身份验证的身份验证基础结构.
 * [Inspector](https://aws.amazon.com/inspector/) -自动化安全评估服务，可帮助改善AWS上部署的应用程序的安全性和合规性.

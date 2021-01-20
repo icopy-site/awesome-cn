@@ -161,7 +161,7 @@
 * [Awesome Print](https://github.com/awesome-print/awesome_print) -用样式漂亮地打印您的Ruby对象-全彩和适当的缩进
 * [Betty](https://github.com/pickhardt/betty)  -命令行的友好英语式界面. 不记得命令了吗？ 问贝蒂.
 * [colorize](https://github.com/fazibear/colorize) -扩展String类或使用设置文本颜色，背景颜色和文本效果的方法添加ColorizedString.
-* [colorls](https://github.com/athityakumar/colorls) -用彩色和超棒字体图标美化`ls`命令.
+* [colorls](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 * [formatador](https://github.com/geemus/formatador) -STDOUT文本格式.
 * [Paint](https://github.com/janlelis/paint) -设置ANSI端子颜色的简便方法.
 * [Pastel](https://github.com/peter-murach/pastel) -具有直观，简洁的API的终端输出样式.
@@ -170,7 +170,7 @@
 * [Tabulo](https://github.com/matt-harvey/tabulo) -具有基于列的DRY API的纯文本表生成器.
 * [TablePrint](https://github.com/arches/table_print) -将来自多个数据库表的数据切片到单个CLI视图中.
 * [Terminal Table](https://github.com/tj/terminal-table) -Ruby ASCII表生成器，简单且功能丰富.
-* [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - Create and manage complex tmux sessions easily.
+* [Tmuxinator](https://github.com/tmuxinator/tmuxinator) -轻松创建和管理复杂的tmux会话.
 * [Whirly](https://github.com/janlelis/whirly) -一个简单，丰富多彩且可定制的Ruby终端微调程序库.
 
 ## Cloud
@@ -206,7 +206,7 @@
 * [SimpleCov](https://github.com/colszowka/simplecov) -Ruby 1.9+的代码覆盖率，具有功能强大的配置库和跨测试套件的覆盖率自动合并.
 * [Sorbet](https://github.com/sorbet/sorbet) -Ruby的静态类型检查器.
 * [Suture](https://github.com/testdouble/suture) -Ruby gem，可帮助您重构旧代码.
-* [Traceroute](https://github.com/amatsuda/traceroute) - A Rake task gem that helps you find the dead routes and actions for your Rails 3+ app
+* [Traceroute](https://github.com/amatsuda/traceroute) -Rake任务宝藏，可帮助您找到Rails 3+应用程序的死路和动作
 
 ## Code Formatting
 
@@ -287,6 +287,7 @@
 ## CRM
 
 * [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) -一个基于Ruby on Rails的开源客户关系管理平台.
+* [Hitobito](https://github.com/hitobito/hitobito) -一个基于Ruby on Rails的开源社区管理解决方案.
 
 ## Cryptocurrencies and Blockchains
 
@@ -462,7 +463,7 @@
 * [premailer-rails](https://github.com/fphilipe/premailer-rails) -CSS样式的电子邮件，无忧.
 * [Roadie](https://github.com/Mange/roadie) -Roadie通过内联样式表并在电子邮件中为您重写相对URL，尝试使发送HTML电子邮件的痛苦减轻一些.
 * [Sup](https://github.com/sup-heliotrope/sup) -curses带标签样式的电子邮件客户端.
-* [Truemail](https://truemail-rb.org/truemail-gem)  -可配置的框架不可知的普通Ruby电子邮件验证器/验证器. 通过Regex，DNS和SMTP验证电子邮件. 确保电子邮件地址有效并且存在.
+* [Truemail](https://truemail-rb.org/truemail-gem) - Configurable framework agnostic plain Ruby email validator/verifier. Verify email via Regex, DNS and SMTP. Be sure that email address valid and exists.
 
 ## Encryption
 
@@ -726,7 +727,7 @@
 
 * [Noticed](https://github.com/excid3/noticed) -适用于Ruby on Rails应用程序的类似ActionMailer的通知系统.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) -iOS，Android和Windows Phone Push通知变得容易.
-* [Rpush](https://github.com/rpush/rpush) -Ruby的推送通知服务，它支持Apple推送通知服务，Google Cloud Messaging，Amazon Device Messaging和Windows Phone推送通知服务.
+* [Rpush](https://github.com/rpush/rpush) -Ruby的推送通知服务，支持Apple推送通知服务，Google Cloud Messaging，Amazon Device Messaging和Windows Phone推送通知服务.
 * [webpush](https://github.com/zaru/webpush) -Web推送协议的加密实用程序.
 
 ## Optimizations
@@ -1079,6 +1080,7 @@
   * [Watir](https://github.com/watir/watir/) -Ruby中的Web应用程序测试.
 *额外
   * [Appraisal](https://github.com/thoughtbot/appraisal) -评估与捆绑程序和rake集成在一起，以针对不同版本的依赖项测试您的库.
+  * [CQL](https://github.com/enkessler/cql) -CQL是一个用于对Cucumber样式测试套件进行查询的库.
   * [gitarro](https://github.com/openSUSE/gitarro) -针对您的GitHub Pull Requests运行，重新触发，处理所有类型和与操作系统无关的测试.
   * [Knapsack](https://github.com/ArturT/knapsack) -跨CI节点的RSpec，Cucumber，Minitest，Spinach和Turnip的最佳测试套件并行化.
   * [mutant](https://github.com/mbj/mutant) -Mutant是Ruby的突变测试工具.

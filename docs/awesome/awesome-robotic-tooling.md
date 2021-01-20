@@ -389,7 +389,7 @@
 
 ### Perception Pipeline
 * [SARosPerceptionKitti](https://github.com/appinho/SARosPerceptionKitti) -用于KITTI视觉基准套件感知（传感器处理，检测，跟踪和评估）的ROS软件包.
-* [multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) - C++ implementation to Detect, track and classify multiple objects using LIDAR scans or point cloud.
+* [multiple-object-tracking-lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar) -C ++实施，使用LIDAR扫描或点云检测，跟踪和分类多个对象.
 * [cadrl_ros](https://github.com/mfe7/cadrl_ros) -ROS软件包，用于经过深度RL训练的地面机器人动态避障.
 * [AugmentedAutoencoder](https://github.com/DLR-RM/AugmentedAutoencoder) -用于对象检测和6D姿态估计的基于RGB的管线.
 * [jsk_recognition](https://github.com/jsk-ros-pkg/jsk_recognition) -JSK实验室中使用的感知包的堆栈.
@@ -760,6 +760,7 @@
 * [urdf-loaders](https://github.com/gkjohnson/urdf-loaders) -Unity和THREE.js的URDF加载器，带有示例ATHURE URDF文件.
 * [obs-studio](https://github.com/obsproject/obs-studio) -用于实时流媒体和屏幕录制的免费和开源软件.
 * [K3D-tools](https://github.com/K3D-tools) -Jupyter笔记本扩展程序，用于3D可视化.
+* [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) -用于科学/工程应用的快速数据可视化和GUI工具.
 
 
 ### Annotation
@@ -813,7 +814,7 @@
 * [gputil](https://github.com/anderskm/gputil) -一个Python模块，用于在Python中使用nvidia-smi从NVIDA GPU获取GPU状态.
 * [gpustat](https://github.com/wookayin/gpustat) -用于查询和监视GPU状态的简单命令行实用程序.
 * [nvtop](https://github.com/Syllo/nvtop) -NVIDIA GPU像监控工具一样处于停顿状态.
-* [spdlog](https://github.com/gabime/spdlog) -非常快速，仅标头/已编译的C ++日志记录库.
+* [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library.
 * [ctop](https://github.com/bcicen/ctop) -容器指标的类顶界面.
 * [ntop](https://github.com/ntop/ntopng) -基于Web的流量和安全网络流量监控.
 * [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) -一个JupyterLab扩展，用于显示GPU使用情况的仪表板.

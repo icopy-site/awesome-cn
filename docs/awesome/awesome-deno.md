@@ -97,6 +97,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [doa](https://github.com/johannlai/doa)  -用于Deno的http服务的中间件框架. 用❤️从Koa移植
 - [drash](https://github.com/drashland/deno-drash) -零依赖性的Deno HTTP服务器的REST微框架.
 - [dragon](https://github.com/xanny-projects/dragon) -⚡强大的HTTP路由器和URL匹配器，用于使用Dragon构建Deno Web服务器.
+- [dropper](https://github.com/denyncrawford/dropper-deno) -基于事件的自定义WebSockets框架，用于在Deno上构建实时应用 
 - [dsddb](https://github.com/MaximilianHeidenreich/DsDDB) -使用JSON格式的简单持久性键值数据库.
 - [dso](https://github.com/manyuanrong/dso) -一个基于mysql的简单ORM库.
 - [ensure](https://github.com/eankeen/ensure) -确保您运行的是Deno，Typescript或V8的最低版本.

@@ -194,11 +194,11 @@
   1. [Findwork](https://findwork.dev/) 通过Glassdoor（审阅）和Crunchbase（资金）来搜寻多个工作委员会并丰富工作职位.
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)   –来自多个董事会和雇主地点的汇总，对位置，职位类型等敏感. 了解如何使用它 [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [JS Remotely](https://jsremotely.com/) -一块板上的所有远程JavaScript作业
-  1. [Meerkad](https://meerkad.com/) -由来自最流行的远程工作委员会，公司网站，Facebook组，Twitter搜索，Reddit，StackOverflow，HackerNews，Dribbble，Behance等的社区工作精选和策划  
+  1. [Meerkad](https://meerkad.com/) -由来自最受欢迎的远程工作委员会，公司网站，Facebook组，Twitter搜索，Reddit，StackOverflow，HackerNews，Dribbble，Behance以及许多其他项目的社区工作精心挑选和策划  
   1. [Remote.io](https://www.remote.io/) -远程工作（主要是技术）的工作板和聚集器.
   1. [Remote 4 Me](https://remote4me.com/) -从事技术和非技术领域远程工作的聚合器.
-  1. [Remote Leaf](https://remoteleaf.com) -从40多个远程工作委员会，1500多个公司职业页面，Twitter提要，Linkedin，Reddit，Hacker News Hiring手工挑选的远程工作，仅发送适用于您的职位.
-  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供远程使用.
+  1. [Remote Leaf](https://remoteleaf.com) -从40多个远程工作委员会，1500多个公司职业页面，Twitter提要，Linkedin，Reddit，Hacker News Hiring手工挑选的远程工作，并仅发送适用于您的职位.
+  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供偏远职位使用.
   1. [Remote Python](https://www.remotepython.com/) -专门用于远程Python作业的作业板和聚合器.
   1. [Theo](https://theojobs.com/) -所有远程设计工作，一处.
   1. [UN Talent](https://untalent.org/jobs/home-based) -联合国及其机构的空缺.
@@ -266,7 +266,7 @@
   1. [Free People Move Podcast](https://teleport.org/podcast/) -多数采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
   1. [Remote Works](https://remote.works) -远程工作播客每两周发布一次，主持人乔纳森·夏普（Jonathan Sharp）讨论远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
-  1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，生产性和自由放养的工人.
+  1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，高效，自由放养的工人.
   1. [Wide Teams](https://www.wideteams.com/) -每集与远程工作者进行一对一的面谈，了解工作流程和做法
 
 
@@ -300,7 +300,7 @@
   1. [BRYTER](https://bryter.io/)  -决策自动化的无代码平台；  Kotlin，打字稿，Vue.js，k8s
   1. [Buffer](https://buffer.com/journey/)  -帮助管理社交媒体的工具.  PHP，CodeIgniter，MongoDB，Memcache，Backbone.js，React.js，Grunt.js，LESS和Python.
   1. [Bugfender](https://bugfender.com/)  -Bugfender是适用于多个平台（包括iOS和Android）的远程记录器. 它存储由您的应用程序创建的日志，并将它们发送到我们的服务器，从而创建一个远程控制台，您可以在其中实时查看日志. 远程公司设在巴塞罗那.
-  1. [ButterCloud](http://www.buttercloud.com/) - A small team of web & app developers. We help startups & small to medium-sized businesses build, maintain, and grow their products.
+  1. [ButterCloud](http://www.buttercloud.com/)  -一支由网络和应用开发人员组成的小组. 我们帮助初创公司和中小型企业构建，维护和发展他们的产品.
   1. [Cadasta](https://cadasta.org/about-us-3/careers-2/)  -用于绘制全球土地和资源权利的安全平台.  100％远程团队；  Python，Django，JavaScript，PostgreSQL.
   1. [Canonical](https://www.canonical.com/careers/all-vacancies) -Ubuntu.
   1. [Catalyze](https://catalyze.io/jobs)  -符合HIPAA的医疗保健云计算. 总部位于威斯康星州麦迪逊.  Docker，Go，Python.
@@ -368,7 +368,7 @@
   1. [Inpsyde GmbH](https://inpsyde.com/) -德国的WordPress代理商.
   1. [Institute for Nonprofit News](https://inn.org/about/jobs/) -非营利新闻机构.
   1. [Instructure](https://www.instructure.com/careers/) -我们开发的软件可以使人们变得更聪明.
-  1. [Intellum](https://www.intellum.com/)  -我们建立员工协作，绩效和学习工具.  Ruby，iOS，Android，AWS，GCS.
+  1. [Intellum](https://www.intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
   1. [Intevity](https://www.intevity.com/)
   1. [InVision](https://www.invisionapp.com/company#jobs) -原型，协作和工作流平台.
   1. [iRonin.IT](https://careers.ironin.it)  -软件公司. 波兰语.  Ruby on Rails，Node.js，JavaScript，React，Angular，Vue.js
@@ -559,7 +559,7 @@
 #### Others
   1. [Coffitivity](https://coffitivity.com/) -Coffitivity可再现咖啡馆的环境声音，以增强您的创造力并帮助您更好地工作.
   1. [Fiverr](https://www.fiverr.com/) -Fiverr是面向精益企业家的全球最大的自由职业服务市场，您可以在这里雇用远程工人为您做一些小工作.
-  1. [Funretro](https://funretro.github.io/distributed) -Funretro是分布式团队的回顾性在线董事会.
+  1. [EasyRetro](https://easyretro.io) -EasyRetro是分布式团队的回顾性在线委员会.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) -听听Wikipedia的最新更改提要.
   1. [Noisli](https://www.noisli.com/) -Noisli提供了一系列不同的环境声音，可以组合使用这些声音来增强创造力和注意力.
   1. [musicforprogramming.net](https://musicforprogramming.net/) -`return&#39;一系列旨在听的混音，而&#39;+ task +&#39;有助于集中注意力并提高生产力（也与其他活动兼容）.

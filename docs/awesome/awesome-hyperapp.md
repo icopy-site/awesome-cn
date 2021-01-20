@@ -7,7 +7,7 @@
 
 精选的超赞清单 [Hyperapp](https://hyperapp.dev) 资源.
 
-要做出贡献，请分叉该存储库，添加您惊人的条目并发送给我们PR. 看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 想要查询更多的信息.
+要做出贡献，请分叉该存储库，添加精彩的条目并发送给我们PR. 看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 欲获得更多信息.
 
 <!-- TOC -->
 
@@ -35,6 +35,7 @@
 * [hyperapp-form](https://github.com/zaceno/hyperapp-form) -减轻了验证和提交表格的痛苦
 * [hyperapp-styled-components](https://github.com/silentcicero/hyperapp-styled-components) -基于组件的面向组件的CSS-in-JS系统 [styled-components](https://styled-components.com)
 * [hyperlit](https://github.com/zaceno/hyperlit) -Hyperapp的类似JSX的标记模板文字
+* [hypermdx](https://github.com/talentlessguy/hypermdx) -Markdown通过Hyperapp增强
 
 ## Examples
 

@@ -244,13 +244,13 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) -Ada中的Tetris，用于Unity游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) -用SPARK / Ada编写并证明的单轮游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) -AdaGate是适用于Windows，OS-X和Linux的Stargate / Portal幻想设置中的第一人称3D推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏……它看起来像一个魔方，但它是一个滑块，而不是一个扭曲的对象.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏...它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲的东西.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) -AdaVenture是一款儿童友好型复古点击游戏，带有迷宫，龙，蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) -有趣的益智游戏，可在任何OS的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) -在任何平台上的终端上运行的复古游戏.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) -MiniPac是Pacman的儿童友好型ASCII字符版本，可在命令行终端中播放.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) -这是一款以足球为主题的3D推箱子益智游戏，可在Windows，Mac OS-X和GNU Linux上运行.
-- [pasta](http://pasta.phyrama.com/)  - 意大利面！ 是“ match-3”类型的游戏.
+- [pasta](http://pasta.phyrama.com/)  - 意大利面条！ 是“ match-3”类型的游戏.
 - [buttons](https://github.com/andreacervetti/buttons) -一个简单的Gtkada Button Mania游戏.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) -地雷探测器：一种无需猜测的寻雷游戏.
 
@@ -373,6 +373,7 @@
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) -Ada中的简单区块链.
 - [adagio](https://github.com/mosteo/adagio) -Gnutella2（G2）网络服务器叶.
 - [agpl](https://github.com/mosteo/agpl) -Ada通用库（杂项实用程序，具有机器人功能）.
+- [az3](https://github.com/Componolit/AZ3) -Z3具有约束力
 
 #### Cryptography
 - [threefish](https://github.com/jrcarter/Threefish) -Threefish-256加密算法的Ada实现.
@@ -529,7 +530,7 @@
 - [sensortile](https://github.com/morbos/STM32/tree/master/L/L476/sensortile) -该项目显示了如何初始化SensorTile，以及如何通过BLE将Sensor数据从SensorTile发送到合适的主机.
 
 #### Libraries
-- [giza](https://github.com/Fabien-Chouteau/Giza) -吉萨（Giza）试图成为嵌入式平台的简单窗口小部件工具套件.
+- [giza](https://github.com/Fabien-Chouteau/Giza) -吉萨（Giza）试图成为嵌入式平台的简单小部件工具套件.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
 - [geste](https://github.com/Fabien-Chouteau/GESTE) -GESTE是Sprite和Tile 2D渲染引擎，旨在在微控制器上运行.
 - [sancta](https://github.com/mosteo/sancta) -SANCTA多机器人任务分配库.
