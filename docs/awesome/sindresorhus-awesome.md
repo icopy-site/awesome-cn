@@ -14,7 +14,7 @@
 		<sup>特别感谢：</sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co">
+		<a href="https://standardresume.co/tech">
 			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
 		</a>
 	</p>
@@ -187,7 +187,7 @@
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
 	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
 - [React](https://github.com/enaqx/awesome-react#readme) -应用框架.
-	- [Relay](https://github.com/expede/awesome-relay#readme) -用于构建数据驱动的React应用程序的框架.
+	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) -一项新功能，无需编写类即可使用状态和其他React功能.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) -用于开发Web组件的JavaScript库.
@@ -408,7 +408,7 @@
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) -基于Web技术的跨平台终端应用程序.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) -跨平台的面向对象的外壳.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) -适用于macOS的生产力应用程序.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) -创建任务以自动化您的工作流程并在GitHub上与其他人共享.
@@ -492,7 +492,7 @@
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) -Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail#readme) -Django CMS专注于灵活性和用户体验.
+- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) -基于PHP的轻量级CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) -基于PHP的可扩展CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) -内容优先的CMS.
@@ -656,7 +656,7 @@
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) -智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) -在命令行上两次输入记帐.
-- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) -免费的开放式网络标准服务，可让您直接在浏览器中汇款. 
+- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) -免费的开放式网络标准服务，可让您直接在浏览器中汇款.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) -公共领域的作品.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) -数字货币，其中使用加密来调节单位的生成和验证转移.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) -建立一个更具包容性和多元化的技术社区.

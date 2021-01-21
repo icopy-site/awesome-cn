@@ -10,7 +10,7 @@
 
 * [AdminCrudBundle](https://github.com/MWSimple/AdminCrudBundle)  -AdminCrudBundle-使用SensioGeneratorBundle. 扩展控制器，添加分页器，过滤器等.
 * [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) -Symfony2的Admingenerator，解析generator.yml文件以构建类
-* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) - Simple admin generator for Symfony applications
+* [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) -Symfony应用程序的简单管理生成器
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) -AdminBundle-缺少的Symfony2管理员生成器
 
 ## Certification
@@ -120,6 +120,7 @@
 * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) -检查已安装但未在AppKernel捆绑包中激活的支票.
 * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) -能够备份您的数据库并将其上传到云中.
 * [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) -浏览器中的命令行界面.
+* [EightPointsGuzzleBundle](https://github.com/8p/EightPointsGuzzleBundle) -将PHP HTTP客户端Guzzle 6.x集成到Symfony 2-4中，并提供扩展基本功能的插件.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) -在Symfony中捆绑集成Guzzle&gt; = 4.0的软件包.
 * [CsvBundle](https://github.com/EGYG33K/CsvBundle) -将thephpleague / csv集成到Symfony中.
 * [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) -将域解析器集成到Symfony中.
@@ -206,6 +207,7 @@
 
 * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
+* [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
 
 ## Resources
 
@@ -237,7 +239,7 @@
 * [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) -集成了Gaufrette.
 * [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) -教义的MySQL函数：RAND（），ROUND（）DATE（），DATE_FORMAT（）.
 * [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) -集成Flysystem.
-* [RelationBundle](https://github.com/Ph3nol/RelationBundle)  -捆绑管理模型/实体之间的关系.  （不再维护）
+* [RelationBundle](https://github.com/Ph3nol/RelationBundle) - Bundle to manage relations between models/entities. (Not maintained anymore)
 * [SncRedisBundle](https://github.com/snc/SncRedisBundle) -捆绑将Redis集成到您的应用程序中.
 * [StofDoctrineExtensionsBundle](https://github.com/stof/StofDoctrineExtensionsBundle) -该捆绑包提供了DoctrineExtensions的集成.
 * [VichGeographicalBundle](https://github.com/dustin10/VichGeographicalBundle) -提供ORM和ODM实体的地理特征以及面向对象的javascript地图呈现的捆绑软件.

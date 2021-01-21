@@ -64,6 +64,7 @@
   -Python端口： [pyppeteer](https://github.com/pyppeteer/pyppeteer)
   -休息端口： [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
   -.NET端口： [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
+  -Ruby端口： [Ferrum](https://github.com/route/ferrum)
   - [headless-devtools](https://github.com/cowchimp/headless-devtools) -Puppeteer插件可获取CSS Coverage或JS Heap快照.
   - [PuPHPeteer](https://github.com/rialto-php/puphpeteer) -使用PHP控制Puppeteer的PHP桥.
 - [Playwright](https://github.com/microsoft/playwright) -Node.js库，可通过单个API自动执行Chromium，Firefox和WebKit.
@@ -73,8 +74,9 @@
 ### Protocol Driver Libraries
 -JavaScript / Node.js： [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) -该协议最常用的JavaScript API
 -TypeScript / Node.js： [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client)
-- Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
-- Java: [karate](https://intuit.github.io/karate/karate-core/) -带有Java API的Web服务测试框架，可自动执行Chrome浏览器
+-Java： [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
+-Java： [karate](https://intuit.github.io/karate/karate-core/) -带有Java API的Web服务测试框架，可自动执行Chrome浏览器
+-Java： [jvppeteer](https://github.com/fanyong920/jvppeteer)  -无头Chrome for Java 
 -Python： [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol)  -纯Python，无IO包装器. 另请参阅 [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
 -Python： [chromewhip](https://github.com/chuckus/chromewhip) -直接替换`splash`服务
 -Python： [pychrome](https://github.com/fate0/pychrome) -低级CDP传输处理程序
@@ -83,6 +85,7 @@
 - 走： [cdp](https://github.com/mafredri/cdp)
 - 走： [gcd](https://github.com/wirepair/gcd)
 - 走： [godet](https://github.com/raff/godet)
+- 走： [Rod](https://github.com/go-rod/rod)
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools)  -协议包装生成器，可以通过编辑车把模板进行自定义. 包括.Net Core模板.
 -红宝石： [Cuprite](https://github.com/machinio/cuprite) -水豚司机
 -红宝石： [ChromeRemote](https://github.com/cavalle/chrome_remote/)
@@ -100,7 +103,7 @@
 ## Using DevTools frontend with other platforms
 
 #### Android
-- [Facebook Stetho](https://github.com/facebook/stetho) -使用Chrome DevTools进行本机Android调试.
+- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
 - [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) -调试运行在其中的JavaScript [J2V8](https://github.com/eclipsesource/J2V8) 使用Chrome DevTools.
 
 #### ClojureScript
@@ -154,11 +157,3 @@
 ### Performance
 - [sloth](https://github.com/denar90/sloth) -Chrome扩展程序可以启用和保存选定标签的CPU和网络限制.
 - [TracerBench](https://github.com/TracerBench/tracerbench) -TracerBench是用于Web应用程序的受控性能基准测试工具，可提供对性能增量的清晰，可操作和可用的见解.
-
----
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-这个很棒的清单已在Creative Commons 0下获得了公共领域的许可.有关更多信息，请参见 [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) 文件.

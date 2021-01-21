@@ -1,14 +1,14 @@
 <div class="github-widget" data-repo="rafaskb/awesome-libgdx"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-[![Awesome libGDX Logo](https://raw.githubusercontent.com/rafaskb/awesome-libgdx/master/logo.png 'Awesome libGDX Logo')](https://libgdx.badlogicgames.com/)
+[![Awesome libGDX Logo](https://raw.githubusercontent.com/rafaskb/awesome-libgdx/master/logo.png 'Awesome libGDX Logo')](https://libgdx.com/)
 
 ## Awesome libGDX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/rafaskb/awesome-libgdx#contributing)
 
-> <a href="https://libgdx.badlogicgames.com/"><img src="https://libgdx.badlogicgames.com/img/logo.png" alt="libGDX Logo" align="right" style="margin-right: 25px" height=40></a>
+> <a href="https://libgdx.com/"><img src="https://libgdx.com/assets/images/logo.png" alt="libGDX Logo" align="right" style="margin-right: 25px" height=40></a>
 >
-> [libGDX](https://libgdx.badlogicgames.com/) 是一个相对较低级别的，免费的，开源的，用Java编写的跨平台游戏开发框架.
+> [libGDX](https://libgdx.com/) 是一个相对较低级别的，免费的，开源的，用Java编写的跨平台游戏开发框架.
 >
-&gt;此列表是精选资源的精选集合，这些资源，工具，教程和项目均使用 [libGDX](https://libgdx.badlogicgames.com/) 游戏框架，可帮助开发人员制作_awesome_游戏，并符合 [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+&gt;此列表是精选资源的精选集合，这些资源，工具，教程和项目均使用 [libGDX](https://libgdx.com/) 游戏框架，可帮助开发人员制作_awesome_游戏，并符合 [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 >
 &gt;捐款_非常欢迎_但先见 [Contributing](#contributing).
 
@@ -106,7 +106,7 @@ _针对新手和经验丰富的开发人员的教程.
 
 ### Advanced
 
-- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) - Video tutorial on enabling code hotswapping for libGDX projects to increase productivity.
+- [Code Hotswapping](https://youtu.be/zKfh6WuaikQ) -有关为libGDX项目启用代码热交换以提高生产力的视频教程.
 - [Dynamic Textures with Pixmap](https://javadocmd.com/blog/libgdx-dynamic-textures-with-pixmap/) -详细介绍了如何使用Pixmaps创建蒙版.
 - [iOS Deployment Tutorial](https://link.medium.com/vgYo0mSi3W) -使用RoboVM在2019年部署到iOS.
 - [Sub-pixel Perfect Smooth Scrolling](http://code-disaster.com/2016/02/subpixel-perfect-smooth-scrolling.html) -像素完美的平滑滚动.
@@ -120,7 +120,7 @@ _收集免费的优质资产，使您的游戏更上一层楼.
 - [OpenGameArt.org](https://opengameart.org/) -提供各种开放内容资产的存储库.
 - [Game-Icons.net](http://game-icons.net/) -包含大量酷炫游戏相关图形的存储库.
 - [bfxr.net](https://www.bfxr.net/) -只需按几个按钮即可快速创建独特的音效，非常适合制作原型.
-- [freesound.org](https://freesound.org/) -巨大的音频片段，样本，录音，哔哔声协作数据库.
+- [freesound.org](https://freesound.org/) - Huge collaborative database of audio snippets, samples, recordings, bleeps.
 
 
 ## Community

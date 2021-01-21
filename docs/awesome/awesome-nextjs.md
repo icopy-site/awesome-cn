@@ -91,12 +91,13 @@
 * [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) -：rocket：使用nextJS，最佳开发实践和开发人员社区中流行的库来减少项目配置的基础.
 * [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) -打字稿+ redux +样式化的组件+ react-testing-library + eslint + fontawesome
 * [The Knests Stack](https://github.com/tudorconstantin/knests/) -具有以下功能的完整堆栈样板/黑客马拉松启动器：PostgreSQL，Knex.js，NestJS，Next.js（显然），GraphQL，React（带有钩子和打字稿），Material-UI，用于Docker的Docker多级映像，Docker组成和Gitlab CI / CD管道已完全配置.
-* [Devii](https://github.com/vriad/devii) -使用Next.js，React和TypeScript构建的具有中等启发性的开发博客入门程序，具有Markdown渲染，语法突出显示，SEO / meta标签和RSS feed生成的功能.
+* [Devii](https://github.com/vriad/devii) -使用Next.js，React和TypeScript构建的具有中等启发性的开发博客入门程序，具有Markdown渲染，语法突出显示，SEO / meta标签和RSS feed生成功能.
 * [Nextjs Blog Starter](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)  -基于Next.js框架的博客的理想入门代码.  ⚡️用Next.js，TypeScript，ESLint，Prettier，PostCSS，Tailwind CSS制作.
 * [Next.js and Netlify Blogging Template](https://github.com/wutali/nextjs-netlify-blog-template) -在Netlify堆栈上构建具有标准功能（如标记，CMS和短代码）的博客网站的完美样板.
 * [Nextjs Apollo Nexus](https://github.com/inblack67/GraphQL-Next-Setup) -带有Nexus Schema的Next.js中的GraphQL Apollo客户端-服务器集成（代码优先方法）.
 * [Nextjs Starter Peacock](https://github.com/vickOnRails/next-starter-peacock) -美丽的Nextjs产品组合入门工具，适合软件工程师和设计师展示他们为之骄傲的工作.
 * [Nextatic](https://github.com/tancredi/nextatic) -静态网站多语言样板，带有用户可编辑的页面，并使用Netlify CMS + Next.js + SCSS + Typescript进行导航.
+* [Sitemap generator for NextJS & StrAPI](https://github.com/stovv/next-strapi-sitemap) -Express上的另一台服务器与nextjs一起运行，并根据STR API的要求重新生成站点地图（带有索引sitemap）和robots.txt文件.
 
 
 ## Extensions
@@ -155,7 +156,7 @@
 * [Elton John's website](https://www.eltonjohn.com) -艾尔顿·约翰（Elton John）的网站
 * [IOTA's Data Market Place](https://data.iota.org/) -IOTA市场
 * [magicleap.com](https://www.magicleap.com/) -魔法飞跃
-* [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
+* [NPM.js Search Page](https://www.npmjs.com/search) -NPM的搜索页面
 * [Docker Success Center](https://success.docker.com) -Docker成功中心
 * [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) -根据GPLv3许可的德国法律信息系统.
 * [TikTok's HomePage](https://www.tiktok.com/) -TikTok的主页
@@ -187,7 +188,7 @@
 * [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 * [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 * [Mastering Next.js](https://masteringnextjs.com/) -使用Next.js和React构建应用程序的50多个课程视频课程.
-* [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) -深入的Next.js教程.
+* [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
 * [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) -2020 Next.js会议的所有视频
 
 ## Newsletters

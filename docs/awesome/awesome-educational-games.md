@@ -86,9 +86,3 @@
 - [WarriorJS](https://github.com/olistic/warriorjs) -使用JavaScript，为战士编程以爬上一座高塔，与怪物战斗并营救俘虏.
 - [Web Audio School](https://mmckegg.github.io/web-audio-school/) -交互式WebAudio教程.
 - [XSS game](https://xss-game.appspot.com) -一个关于诱使人们在其浏览器中运行代码的游戏.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Yrgo](https://yrgo.se) 放弃了此作品的所有版权以及相关或邻近的权利.

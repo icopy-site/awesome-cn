@@ -846,7 +846,7 @@ AWS存储库：
 * [bridgecrewio/checkov :fire::fire::fire::fire:](https://github.com/bridgecrewio/checkov) -Terraform静态分析，验证安全性最佳做法.
 * [cloudsploit/scans :fire::fire::fire::fire:](https://github.com/cloudsploit/scans) -检测安全风险.
 * [iSECPartners/Scout2 :fire::fire::fire::fire:](https://github.com/iSECPartners/Scout2) -安全审核工具.
-* [jordanpotti/AWSBucketDump :fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) -在S3存储桶中查找有趣文件的安全工具.
+* [jordanpotti/AWSBucketDump :fire::fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) -在S3存储桶中查找有趣文件的安全工具.
 * [Netflix/bless :fire::fire::fire::fire::fire:](https://github.com/Netflix/bless) -作为Lambda函数运行的SSH证书颁发机构.
 * [Netflix/security_monkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) -监视策略更改并针对不安全的配置发出警报.
 * [RiotGames/cloud-inquisitor :fire::fire:](https://github.com/RiotGames/cloud-inquisitor) -实施所有权和数据安全性的工具.

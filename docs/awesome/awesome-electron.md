@@ -8,7 +8,7 @@
 
  Electron是一个开放源代码框架，用于使用Web技术创建桌面应用程序. 它结合了Chromium渲染引擎和Node.js运行时.
 
-**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.** 
+**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.**
 
 <br>
 
@@ -24,7 +24,7 @@
 		<sup>特别感谢：</sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co">
+		<a href="https://standardresume.co/tech">
 			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="200"/>
 		</a>
 	</p>

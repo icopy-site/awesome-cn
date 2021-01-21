@@ -14,7 +14,7 @@
 		<sup>特别感谢：</sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co">
+		<a href="https://standardresume.co/tech">
 			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
 		</a>
 	</p>
@@ -78,7 +78,7 @@
 - [gh-home](https://github.com/sindresorhus/gh-home) -在当前目录中打开仓库的GitHub页面.
 - [npm-home](https://github.com/sindresorhus/npm-home) -打开软件包的npm页面.
 - [trash](https://github.com/sindresorhus/trash) -更安全的替代“ rm”.
-- [speed-test](https://github.com/sindresorhus/speed-test) -测试您的互联网连接速度和ping.
+- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
 - [emoj](https://github.com/sindresorhus/emoj) -从命令行中的文本中找到相关的表情符号.
 - [pageres](https://github.com/sindresorhus/pageres) -捕获网站截图.
 - [cpy](https://github.com/sindresorhus/cpy) -复制文件.
@@ -88,7 +88,7 @@
 - [is-online](https://github.com/sindresorhus/is-online) -检查互联网连接是否正常.
 - [public-ip](https://github.com/sindresorhus/public-ip) -获取您的公共IP地址.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) -复制并粘贴到终端上.
-- [XO](https://github.com/xojs/xo) -使用JavaScript幸福样式强制执行严格的代码样式.
+- [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 - [Standard](https://github.com/feross/standard) -JavaScript标准样式-一种样式来统治所有样式.
 - [ESLint](https://github.com/eslint/eslint) -用于JavaScript的可插入的linting实用程序.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) -获取GitHub用户的当前本地时间.
@@ -245,7 +245,7 @@
 - [gulp](https://github.com/gulpjs/gulp) -流媒体和快速构建系统，其代码优先于配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) -快速，可靠的资产流水线，支持定期重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) -前端Web应用程序构建工具，具有简单的声明性配置，快速的增量编译和自以为是的工作流程.
-- [Start](https://github.com/deepsweet/start) -具有可共享预设的功能任务运行程序.
+- [Start](https://github.com/deepsweet/start) - Functional task runner with shareable presets.
 - [ygor](https://github.com/shannonmoeller/ygor) -对于&#39;npm run&#39;何时不足以及其他所有内容过多的有希望的任务运行程序.
 - [FuseBox](https://github.com/fuse-box/fuse-box) -快速构建的系统，结合了webpack，JSPM和SystemJS的强大功能，并具有一流的TypeScript支持.
 - [pkg](https://github.com/zeit/pkg) -将您的Node.js项目打包为可执行文件.
@@ -273,7 +273,7 @@
 
 - [Hapi](https://github.com/hapijs/hapi) -用于构建应用程序和服务的框架.
 - [Koa](https://github.com/koajs/koa) -由Express背后的团队设计的框架，旨在为Web应用程序和API提供更小，更富表现力和更强大的基础.
-- [Express](https://github.com/expressjs/express) -Web应用程序框架，为构建单页和多页以及混合Web应用程序提供了一组强大的功能.
+- [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 - [Feathers](https://github.com/feathersjs/feathers) -本着Express精神构建的微服务框架.
 - [LoopBack](https://github.com/strongloop/loopback) -用于创建REST API并轻松连接到后端数据源的强大框架.
 - [Meteor](https://github.com/meteor/meteor)  -超简单，无处不在的数据库，在线数据，纯Javascript Web框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
@@ -310,7 +310,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除“ rm -rf”之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机的fsevents.
+- [chokidar](https://github.com/paulmillr/chokidar) -稳定来自fs.watch和fs.watchFile的事件以及在macOS上使用本机fsevents的文件系统监视程序.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -515,7 +515,7 @@
 	- [LevelUP](https://github.com/Level/levelup) -LevelDB.
 	- [MySQL](https://github.com/mysqljs/mysql) -MySQL客户端.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) -CouchDB客户端.
-	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) -Aerospike客户.
 	- [Couchbase](https://github.com/couchbase/couchnode) -Couchbase客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -MongoDB驱动程序.
 -ODM / ORM
@@ -523,7 +523,7 @@
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) -Backbone.js风格的PostgreSQL，MySQL和SQLite3的ORM.
 	- [Massive](https://github.com/robconery/massive-js) -PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
-	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
+	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -适用于PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM. 类似于ActiveRecord.
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
@@ -537,7 +537,7 @@
 	- [NeDB](https://github.com/louischatriot/nedb) -用JavaScript编写的嵌入式持久数据库.
 	- [Lowdb](https://github.com/typicode/lowdb) -由Lodash提供支持的小型JavaScript数据库.
 	- [Keyv](https://github.com/lukechilds/keyv) -简单的键值存储，支持多个后端.
-	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
+	- [Finale](https://github.com/tommybananas/finale) -用于Sequelize模型的RESTful端点生成器.
 	- [database-js](https://github.com/mlaanderson/database-js) -具有类似JDBC连接的多个数据库的包装器.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) -用JavaScript和JSON文件填充MongoDB数据库.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) -使用普通SQL查询PostgreSQL，MySQL和SQLite3，而不会冒着注入SQL的风险.
@@ -633,7 +633,7 @@
 
 ### Natural language processing
 
-- [retext](https://github.com/wooorm/retext) - An extensible natural language system.
+- [retext](https://github.com/wooorm/retext) -可扩展的自然语言系统.
 - [franc](https://github.com/wooorm/franc) -检测文字的语言.
 - [leven](https://github.com/sindresorhus/leven) -使用Levenshtein距离算法测量两个字符串之间的差异.
 - [natural](https://github.com/NaturalNode/natural) -自然语言设施.
@@ -652,7 +652,7 @@
 ### Automation
 
 - [robotjs](https://github.com/octalmage/robotjs) -桌面自动化：控制鼠标，键盘和阅读屏幕.
-- [nut.js](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+- [nut.js](https://github.com/nut-tree/nut.js) -具有与Jest集成的图像匹配功能的跨平台本机GUI自动化/测试框架.
 
 ### AST
 
@@ -670,7 +670,7 @@
 - [Charge](https://github.com/brandonweiss/charge) -使用JSX和MDX的自带零配置静态站点生成器.
 
 
-- [KeystoneJS](https://github.com/keystonejs/keystone) -建立在Express和MongoDB上的CMS和Web应用程序平台.
+- [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) -基于Express和MongoDB的内容管理系统，重点在于直观的前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) -内容管理框架（headless-CMS），用于构建功能强大的API.
 - [Tipe](https://github.com/tipeio/tipe) -来自架构文件的具有GraphQL和REST API的开发人员优先的内容管理系统.

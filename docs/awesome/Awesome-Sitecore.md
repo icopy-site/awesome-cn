@@ -32,7 +32,7 @@
 
 ## Audit and performance
 
-- [Skillcore.Stats](https://github.com/marek-musielak/Skillcore.Stats) -收集所有Sitecore MVC渲染和API调用的详细时间信息.
+- [Skillcore.Stats](https://github.com/marek-musielak/Skillcore.Stats) - Collect detailed timing information for all your Sitecore MVC renderings and API calls.
 - [Sitecore.Boost](https://github.com/cardinal252/Sitecore.Boost) -该存储库包含大量潜在的补丁程序，可用于改善Sitecore平台的性能，以提高性能，其中大部分在Sitecore的生产实例中运行.
 - [Sitecore.Cleanup](https://github.com/martinrayenglish/Sitecore.Cleanup) -该模块由3个代理组成，它们将分别监视“事件队列”，“发布队列”和“历史记录”表，以确保它们不超过设置的阈值.
 - [SitecoreDXG: The Documentation Experience Generator](https://github.com/zkniebel/SitecoreDXG)  -SitecoreUML系列的Sitecore模板架构可视化和文档工具. 利用与StarUML相关联的开源API（SitecoreUML也基于该API），SitecoreDXG提供支持，以从任何具有SitecoreUML的现有Sitecore实例（均支持PaaS和非PaaS）生成模板数据模型架构图和HTML文档. Sitecore服务.
@@ -47,7 +47,7 @@
 - [Sitecore Media Azure Blob Storage provider](https://github.com/ivansharamok/Sitecore.Media.AzureBlobStorage) -允许将Sitecore媒体库资产存储在Azure Blob存储帐户中.
 - [CloudMediaLibrary](https://github.com/jammykam/Sitecore-CloudMediaLibrary) -允许Sitecore媒体库从Cloud Storage存储和提供服务.
 - [SitecoreCognitiveServices](https://github.com/smithc/SitecoreCognitiveServices) -将Microsoft的认知服务集成到Sitecore中的SDK.
-- [Sitecore Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) - Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.
+- [Sitecore Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) -Azure资源管理器（ARM）模板，用于在Sitecore Azure PaaS环境中安装Sitecore发布服务.
 - [SitecoreDiagnostics](https://github.com/BasLijten/SitecoreDiagnostics) -使用Application Insights进行Sitecore诊断.
 - [sitecore-application-insights-annotations](https://github.com/BasLijten/sitecore-application-insights-annotations) -创建App Insinghts注释.
 
@@ -80,12 +80,14 @@
 - [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) -为Sitecore的最新版本构建自己的Docker映像.
 - [Packer for Sitecore](https://github.com/asmagin/sitecore-packer) -存储库包含适用于Windows上的IIS和SQL Server的本地Sitecore托管环境的Packer模板，SOLR和Sitecore 9.0，用于为Chef设置的VirtualBox构建虚拟机映像和Vagrant框.
 - [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) -一个简单的设置，使用生成的证书在运行带有SSL的solr的主机上设置Linux容器.
+- [Sitecore Docker Tools](https://github.com/sitecore/docker-tools)  -一组实用程序，可改善在Docker环境中运行Sitecore时的开发人员体验. 此映像包含可在Sitecore容器构建期间使用的开发脚本和入口点，以及一个具有在Sitecore容器主机上使用的用于初始化Sitecore Docker环境的功能的PowerShell模块.
+
 
 
 - [Sitecore Content Hub Importer](https://github.com/vasiliyfomichev/content-hub-importer)  -Sitecore内容中心资产导入器； 允许将图像资产从各种数据源导入Sitecore内容中心.
 - [schguild](https://github.com/sitecoreguild/schguild) - Provides tools and sample code to help you in learning and working with Sitecore Content Hub.
 - [Sitecore.ContentHub.Twitter](https://github.com/josedbaez/Sitecore.ContentHub.Twitter) -演示如何从Sitecore Content Hub CMP进行鸣叫.
-- [Sitecore.SharedSource.CMP.Connector.Extensions](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) -扩展了适用于Sitecore CMP 2.0.0的Sitecore Connect，因此可以使用Sitecore Connect™用于Sitecore DAM 2.0.0的xml格式同步在CMP实体上设置的图像，因此此模块是必需的.
+- [Sitecore.SharedSource.CMP.Connector.Extensions](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) - Extends Sitecore Connect for Sitecore CMP 2.0.0 so images set on CMP entities can be synchronised using the xml format used by Sitecore Connect™ for Sitecore DAM 2.0.0, so this module is required.
 
 
 - [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons)  -实现Linq扩展，以便能够查询在solr索引中拦截GeoJson多边形的点. 该演示提供了一个具有空间字段的模板，以及一些示例项目以及来自opentreetmap的多边形（覆盖了一些城市）. 以及控制器渲染，该渲染从查询字符串中读取lat和lng并返回找到的项目的多边形（例如，大本钟的坐标返回伦敦）.
@@ -104,7 +106,7 @@
 - [Sitecore Habitat](https://github.com/Sitecore/Habitat)  -人居是基于Helix体系结构原理构建的Sitecore解决方案示例. 不再进行更新或维护，而已被Sitecore Helix示例取代.
 - [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples)  -在各种工具和业务场景中演示Sitecore Helix的实践； 旨在展示比现有示例更广泛的实现类型/要求.
 - [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform)  -使用SXA 10.0的最新XP 10.0演示. 它只能部署在Docker容器中.
-- [Sitecore MVP](https://github.com/Sitecore/MVP-Site) -使用Sitecore 10在容器中构建的真实Sitecore MVP网站的源代码.
+- [Sitecore MVP](https://github.com/Sitecore/MVP-Site) -使用Sitecore 10和SXAworking在容器中构建的真实Sitecore MVP网站的源代码.
 - [Sitecore.HabitatHome.Utilities](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) -实用程序和脚本示例的集合，可帮助安装Sitecore Experience Platform，安装Sitecore Experience Commerce，安装Sitecore模块，预热Sitecore实例，安全性加固Sitecore实例等.
 - [Sitecore.HabitatHome.Commerce](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) -与外部贡献者和合作伙伴一起演示资产.
 - [Sitecore.HabitatHome.Omni](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) -共享Sitecore JSS PWA演示资产和将来与“ Sitecore Omni”相关的演示资产.
@@ -123,10 +125,10 @@
 - [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) -登录屏幕和Sitecore标头功能区上特定于环境的样式（和文本）.
 - [InsertOptionsLoophole](https://github.com/TwentyGotoTen/InsertOptionsLoophole) -防止Sitecore用户绕过插入选项.
 - [ScopeToThis](https://github.com/ianjohngraham/Coreblimey.ScopeToThis) -允许在Sitecore内容编辑器树上使用Visual Studio的“此功能”.
-- [DeviceEditorShortcuts](https://github.com/MartinMiles/DeviceEditorShortcuts) - A productivity improvement for Device Editor, showing datasource if set to that particular component and previewing that right from a pop-up click.
+- [DeviceEditorShortcuts](https://github.com/MartinMiles/DeviceEditorShortcuts) -提高了设备​​编辑器的生产率，显示了设置为特定组件的数据源，并通过弹出的单击预览了该数据源.
 - [DmsGutters](https://github.com/markvanaalst/Sitecore.SharedSource.DmsGutters) -内容编辑器可显示已测试和个性化的项目.
 - [Move Validator](https://github.com/Velir/Sitecore-MoveValidator) -验证是否可以基于插入选项将项目移动到新位置.
-- [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite) - Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items and adding new functionality such as the Edit Form, Go to Item button and the Field Gutter.
+- [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite)  -为Sitecore用户提供了一种更简化的信息发布方法来进行内容创作. 通过改进5种字段类型，引入“图像”字段，启用引用项目的自动发布并添加新功能（例如“编辑表单”，“转到项目”按钮和字段装订线）来实现此目的.
 
 ## Fields
 
@@ -227,7 +229,7 @@
 ## Publishing
 
 - [AdvancedPublishDialog](https://github.com/Sitecore/AdvancedPublishDialog) -增强的标准发布对话框.
-- [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) -允许您监视Sitecore Publishing CM Server上的发布队列，查看其当前状态并根据需要取消发布作业（例如，排队时间，开始的发布时间，队列中的持续时间，发布的项目数，平均发布时间）一个项目，来自发布作业的所有消息）.
+- [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) -允许您监视Sitecore Publishing CM Server上的发布队列，查看其当前状态，并根据需要取消发布作业（例如，排队时间，开始的发布时间，队列中的持续时间，发布的项目数，平均发布时间）一个项目，来自发布作业的所有消息）.
 - [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  -“发布”按钮将强制发布项目，而不管“发布”限制中“项目”选项卡上“可发布”选项的状态如何.  1）此功能将不会在您的站点中发布未发布的链接页面，而只会发布诸如媒体库项目和项目字段中使用的数据源之类的资源，因为这些资源才可以正确显示要发布的项目. 如果尚未完成，此方法甚至可以发布当前项目使用的模板和布局.  2）“取消发布”按钮使您只需单击即可取消发布项目. 它将更改“发布限制”，因为它取消选中“项目”选项卡上的“可发布”选项，然后使用完整的“不带子项目的重新发布”来发布该项目.  3）发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但此后发生了更改，则会显示一个橙色的点（因此它已发布，但不是最新的）. 如果当前项目根本不在发布目标中，则会显示一个红点. 此功能使内容编辑器可以针对每个发布目标详细检查内容是否已发布.
 
 ## Rules
@@ -242,7 +244,7 @@
 
 - [Securty Headers](https://github.com/GuitarRich/SXA.SecurityHeaders) -显示了如何在SXA实例上实现响应安全标头，但它们确实是Helix通用的.
 - [SI Snitch](https://github.com/KayeeNL/SI-Snitch)  -一种调试工具，用于从Sitecore Identity转换那些声明之后，读取从Sitecore Identity传递给Sitecore的声明. 这有助于确定Sitecore收到的声明（以及采用哪种格式），并确保Sitecore Identity中的组转换得到正确处理.
-- [MasterKey](https://github.com/islaytitans/MasterKey) -解锁Sitecore项目的模块.
+- [MasterKey](https://github.com/islaytitans/MasterKey) - A module for Unlocking Sitecore Items.
 - [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights)  -启用“ item：removeVersion”访问权限，从而允许作者删除单个项目版本，而又不允许作者删除整个项目. 它还允许项目的初始创建者删除他/她自己的项目，除非对该项目应用了明确的拒绝删除访问权限.
 
 ## SEO

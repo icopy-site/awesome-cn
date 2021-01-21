@@ -122,7 +122,7 @@
 
 - [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) -基于Open Web Components建议的Starter应用.
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) -生成器，用于使用TypeScript中的最新LitElement开发下一个自定义元素.
-- [pwa-starter](https://github.com/pwa-builder/pwa-starter) -PWABuilder pwa-starter的LitElement版本.
+- [pwa-starter](https://github.com/pwa-builder/pwa-starter) -PWABuilder pwa-starter的LitElement版本.
 - [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) -使用`@ rxdi`，lit-html，GraphQL，依赖项注入构建客户端应用程序.
 
 ## IDE Plugins
