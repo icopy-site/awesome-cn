@@ -207,7 +207,7 @@ Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/mas
 
 ### Unity SDK
 
-* [Repo](https://github.com/aws/aws-sdk-unity)
+* [Repo :fire:](https://github.com/aws/aws-sdk-unity)
 * [Repo with Samples :fire:](https://github.com/awslabs/aws-sdk-unity-samples)
 * [Install](https://s3.amazonaws.com/aws-unity-sdk/latest/aws-unity-sdk.zip)
 * [Docs](http://docs.aws.amazon.com/mobile/sdkforunity/developerguide/)
@@ -1193,7 +1193,7 @@ AWS会议：
 *将102Tbps的网络容量连接到数据中心.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 *自2014年以来推出了500多种主要新功能和服务.[1](https://www.youtube.com/watch?v=D5-ifl7KJ00)</sup>
 *所有其他14个云提供商的总和是AWS总容量的1/5.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
-*每天，AWS成为年收入7B的企业（2004年）时，都会增加足够的新服务器容量来支持整个Amazon的全球基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
+*每天，AWS成为年收入7B的企业（2004年）时，都会增加足够的新服务器容量来支持亚马逊的全球所有基础架构.[2](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)</sup>
 
 ## Appendix of Core Services
 
@@ -1262,12 +1262,12 @@ AWS会议：
 * [Management Console (AWS Console)](https://aws.amazon.com/console/) -基于Web的界面，用于管理所有服务.
 * [OpsWorks](https://aws.amazon.com/opsworks/) -使用Chef提供EC2服务的配置.
 * [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) -您对服务健康状况的个性化看法.
-* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，最终用户可以在个性化门户中访问所需的产品.
+* [Service Catalog](https://aws.amazon.com/servicecatalog/) -服务目录使IT管理员可以创建，管理批准的产品组合并将其分发给最终用户，然后他们可以在个性化门户中访问所需的产品.
 
 ### Security and Identity Services
 
 * [Certificate Manager](https://aws.amazon.com/certificate-manager/) -使您轻松配置，管理和部署SSL / TLS证书以与AWS服务一起使用.
-* [CloudHSM](https://aws.amazon.com/cloudhsm/) -通过使用AWS云中的专用硬件安全模块（HSM）设备，帮助满足公司，合同和法规对数据安全性的要求.
+* [CloudHSM](https://aws.amazon.com/cloudhsm/) -通过使用AWS云中的专用硬件安全模块（HSM）设备，帮助满足公司，合同和法规对数据安全的合规性要求.
 * [Directory Service](https://aws.amazon.com/directoryservice/) -一种托管服务，可让您将资源与现有的本地Microsoft Active Directory连接或在AWS Cloud中设置新的独立目录.
 * [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) -隐式服务，用于对各种服务的访问进行身份验证的身份验证基础结构.
 * [Inspector](https://aws.amazon.com/inspector/) -自动化安全评估服务，可帮助改善AWS上部署的应用程序的安全性和合规性.

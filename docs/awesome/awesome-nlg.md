@@ -31,6 +31,7 @@
 
 ## Evaluation
 
+- [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt)
 - [compare-mt](https://github.com/neulab/compare-mt) -全面分析语言生成系统的工具.
 - [NLG-eval](https://github.com/Maluuba/nlg-eval) -用于自然语言生成的各种无监督自动度量的评估代码.
 - [VizSeq](https://github.com/facebookresearch/vizseq) -用于文本生成任务的可视化分析工具包.
@@ -68,6 +69,7 @@
 - [Summary Generation From Structured Data](https://github.com/akanimax/natural-language-summary-generation-from-structured-data) -用于将以结构化数据形式存在的信息转换为自然语言文本.
 
 ## Papers and Articles
+- [2020: The Curious Case of Neural Text Degeneration](https://openreview.net/forum?id=rygGQyrFvH)
 - [2020: A Gold Standard Methodology for Evaluating Accuracy in Data-To-Text Systems](https://arxiv.org/abs/2011.03992)
 - [2020: Evaluating the state-of-the-art of End-to-End Natural Language Generation: The E2E NLG challenge](https://www.sciencedirect.com/science/article/pii/S0885230819300919)
 - [2020: How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)

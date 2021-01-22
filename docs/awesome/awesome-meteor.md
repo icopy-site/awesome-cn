@@ -28,13 +28,14 @@ _收集的帮助和费用_
 - [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) -流星的模型层.
 - [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) -Grapher：Meteor Collection Joins +响应式GraphQL之类的查询.
 - [sakulstra:aggregate](https://github.com/sakulstra/meteor-aggregate) -为流星添加适当的聚合支持.
+- [quave:collections](https://github.com/quavedev/collections) -以标准方式创建收藏集.
 
 ## REST
 
 _REST支持Meteor_
 
-- [simple:rest](https://github.com/stubailo/meteor-rest) -自动使您的Meteor应用程序可通过HTTP和DDP进行访问.
-- [nimble:restivus](https://github.com/kahmali/meteor-restivus) -轻松实现Meteor应用的REST端点.
+- [maka:rest](https://atmospherejs.com/maka/rest) -自动使您的Meteor应用程序可通过HTTP和DDP进行访问.
+- [vatfree:restivus](https://github.com/vatfree/meteor-restivus) -轻松实现Meteor应用的REST端点.
 
 ## Forms and Templates
 
@@ -42,6 +43,7 @@ _模板的助手_
 
 - [uniforms](https://github.com/vazco/uniforms) -一堆React组件和帮助程序，可轻松生成和验证表单. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
 - [aldeed:autoform](https://github.com/aldeed/meteor-autoform) -UI组件和帮助程序，可通过自动插入和更新事件以及自动反应验证轻松创建基本表单.
+- [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) -Blaze模板的实用程序助手.
 - [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) -流星包：替换已定义的模板，从其他模板继承帮助程序和事件.
 - [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) -Blaze的布局管理器（与Meteor FlowRouter配合使用）
 
@@ -51,7 +53,7 @@ _用于处理用户和身份验证的工具_
 
 - [accounts-js](https://github.com/accounts-js/accounts) -一套软件包旨在为您的应用程序提供构建灵活的身份验证和帐户管理解决方案所需的所有工具.
 - [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) -内置帐户包的角色支持.
-- [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) -跟踪用户及其元数据.
+- [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) - Keeps track of users and their meta data.
 
 ## Administration
 
@@ -60,6 +62,7 @@ _用于管理Meteor应用的工具_
 - [Meteor Candy](https://www.meteorcandy.com/) -将管理面板添加到您的应用程序的最快，最简单的方法.
 - [yogiben:admin](https://github.com/yogiben/meteor-admin) -完整的管理仪表板解决方案.
 - [houston:admin](https://github.com/gterrono/houston) -流星的零配置，类似于Django Admin的管理员.
+- [zodern:pure-admin](https://github.com/zodern/meteor-pure-admin) -流星的隔离，可定制的管理面板.
 
 ## Monitoring
 
@@ -93,6 +96,7 @@ _用于部署和维护Meteor应用的工具_
 - [meteorhacks:cluster](https://github.com/lmachens/cluster) -具有负载平衡和服务发现功能的Meteor群集解决方案
 - [demeteorizer](https://github.com/onmodulus/demeteorizer) -将Meteor应用程序转换为“标准” Node.js应用程序
 - [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) -流星的简单迁移系统
+- [yamup](https://github.com/bordalix/yamup) -在没有docker的情况下将Meteor应用程序部署到您自己的Ubuntu服务器（EC2，...）
 
 ## Docker Images
 
@@ -107,6 +111,7 @@ _Blaze的路由器_
 - [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router)  -仔细扩展了`flow-router`软件包. 最新版本，支持最新的Meteor版本.
 - [msavin:parrot](https://github.com/msavin/Parrot) -专为使用Meteor构建SPA而设计的Web路由器
 - [meteorhacks:picker](https://github.com/meteorhacks/picker) -流星服务器端路由器.
+- [iron:router](https://github.com/iron-meteor/iron-router) -在服务器和浏览器上工作的路由器，专门为Meteor设计. 
 
 ## Offline
 
@@ -115,6 +120,7 @@ _流星离线支持工具_
 - [ground:db](https://github.com/GroundMeteor/db) -GroundDB是一个薄层，提供Meteor脱机数据库和方法.
 - [npdev:collections](https://github.com/CaptainN/npdev-collections) -使用SSR for Meteor创建离线收藏的简单方法
 - [meteor-service-worker](https://github.com/NitroBAY/meteor-service-worker) -流星特定的服务人员实施.
+- [quave:pwa](https://github.com/quavedev/pwa) -一个Meteor软件包，可让您配置PWA.
 
 ## Testing
 
@@ -136,6 +142,7 @@ _搜索引擎优化工具_
 _处理流星中的文件_
 
 - [ostrio:files](https://github.com/VeliovGroup/Meteor-Files)  -通过DDP，HTTP和WebRTC / DC上传文件. 到Meteor服务器FS，AWS，GridFS，DropBox或Google Drive. 快速，安全和强大.
+- [@reactioncommerce/file-collections](https://github.com/reactioncommerce/reaction-file-collections) -Response FileCollections是一组NPM软件包，这些软件包提供了在Node和Meteor应用程序以及浏览器JavaScript中支持文件上载，存储和下载的功能.
 - [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) -解析并生成Excel文件（xlsx，xls）.
 
 ## Search, sort and paginate
@@ -153,9 +160,10 @@ _搜索，排序和分页相关工具_
 
 _移动开发_
 
+- [meteor-push](https://github.com/activitree/meteor-push) -推送关于Cordova（iOS，Android）浏览器（Chrome，Safari，Firefox）的通知.
+- [quave:universal-links](https://github.com/quavedev/universal-links) -一个Meteor软件包，可让您公开本机iOS设置以启用通用链接. 
 - [meteoric:ionic](https://github.com/meteoric/meteor-ionic) -流星的离子组件.
 - [driftyco:ionic](https://github.com/driftyco/ionic) -对Meteor的官方Ionic支持.
-- [raix:push](https://github.com/raix/push) -推送关于Cordova（iOS，Android）浏览器（Chrome，Safari，Firefox）的通知.
 - [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) -通过DDP将本机iOS应用程序与Meteor平台集成.
 - [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) -适用于Android客户端的DDP.
 - [okland:accounts-phone](https://github.com/okland/accounts-phone) -基于手机号的流星登录服务.
@@ -166,7 +174,6 @@ _移动开发_
 
 _流星中的数据可视化：图表，地图，表格等_
 
-- [AnyChart-Meteor](https://github.com/AnyChart/AnyChart-Meteor) -该软件包提供了一种在Meteor中使用AnyChart JavaScript图表组件的简单方法.
 - [aldeed:tabular](https://github.com/aldeed/meteor-tabular) -适用于大型或小型数据集的反应性数据表.
 - [aslagle:reactive-table](https://github.com/aslagle/reactive-table/) -使用Blaze的流星反应表.
 - [luixal:blaze-paginated-custom-list](https://github.com/luixal/meteor-blaze-paginated-custom-list) -反应性和分页的项目列表.
@@ -177,6 +184,7 @@ _流星中的数据可视化：图表，地图，表格等_
 _Analytics_
 
 - [okgrow:analytics](https://github.com/okgrow/analytics/) -用于流星的Google Analytics（分析），Mixpanel，KISSmetrics（及更多）集成.
+- [quave:analytics](https://github.com/quavedev/analytics) -一个Meteor软件包，可让您将页面浏览量和更多信息发送到Google Analytics（分析）.
 
 ## Cron Jobs
 
@@ -206,6 +214,7 @@ _Scaffolding_
 
 - [Meteor Kitchen](http://www.meteorkitchen.com/) -流星的代码生成器.
 - [iron-cli](https://github.com/iron-meteor/iron-cli) -流星应用程序的脚手架命令行工具.
+- [maka-cli](https://github.com/maka-io/maka-cli) -Maka-CLI是一种命令行工具，可以组织Web应用程序的文件结构，并自动执行各种应用程序框架的日常软件包安装任务.
 
 ## Tooling
 
@@ -243,7 +252,7 @@ _Blaze的替代前端框架_
 
 ## Alternative Databases
 
-_Alternative Databases for MongoDB_
+_MongoDB的备用数据库_
 
 - [vlasky:mysql](https://github.com/vlasky/meteor-mysql) -反应式MySQL for Meteor
 - [meteor-pg](https://github.com/Richie765/meteor-pg) -新的和改进的PostgreSQL对Meteor的支持
@@ -278,10 +287,10 @@ _哪里可以找到新的流星事物_
   - [Level 2 Meteor + React Tutorials](https://www.leveluptutorials.com/tutorials/level-2-meteor-react-tutorials)
   - [User Accounts in Meteor](https://www.leveluptutorials.com/tutorials/user-accounts-in-meteor)
   - [Full-stack GraphQL with Apollo, Meteor & React](https://www.leveluptutorials.com/tutorials/full-stack-graphql-with-apollo-meteor-and-react)
+  - [EventedMind](https://learn-meteor.netlify.app/)
 
 - #### Paid
   - [leveluptutorials](https://www.leveluptutorials.com/) -包含一些免费教程.
-  - [EventedMind](https://www.eventedmind.com/) -包含一些免费教程.
   - [Udemy - Meteor and React for Realtime Apps](https://www.udemy.com/course/meteor-react-tutorial/)
   - [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
   - [BulletProof Meteor](https://bulletproofmeteor.com/) -包含一些免费教程.

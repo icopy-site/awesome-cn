@@ -91,12 +91,13 @@ Prometheus是一个开源系统监视和警报工具包.
 - [PromQL tutorial for beginners](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085) -Aliaksandr Valialkin面向初学者的PromQL教程.
 - [Prometheus storage: technical terms explained](https://medium.com/@valyala/prometheus-storage-technical-terms-for-humans-4ab4de6c3d48) -普罗米修斯储存：Aliaksandr Valialkin所著的人类技术术语.
 - [Alerting issues with Alertmanager](https://ali.sattari.me/posts/2020/alerting-issues-with-alertmanager/) -解决警报动荡和Alertmanager中的重复项 [Ali Sattari](https://github.com/ali-sattari).
+- [Contributing to Prometheus](https://atibhiagrawal.medium.com/contributing-to-prometheus-2bf35bd28256) -Atibhi Agrawal为Prometheus贡献.
 
 ## Deployment tools
 
 - [Ansitheus](https://github.com/ntk148v/ansitheus) -Ansible剧本，由ntk148v_来容器化，配置和部署Prometheus生态系统.
 - [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) -负责管理Prometheus，Alertmanager，Grafana和CommonPrometheus出口商的角色.
-- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -用于安装Prometheus监控系统的Ansible剧本，出口商如：node，snmp，blackbox，因此由Ernestas Poskus_警报管理器和推送网关.
+- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -用于安装Prometheus监控系统，出口商（例如：节点，snmp，黑匣子）的Ansible剧本，由Ernestas Poskus_制作警报管理器和推送网关.
 - [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) -Google的来源单击以部署GoogleCloud Marketplace上列出的Prometheus解决方案_by GoogleCloudPlatform_.
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator) -Prometheus Operator通过CoreOS_在Kubernetes上创建/配置/管理Prometheus集群.
 

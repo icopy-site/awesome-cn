@@ -16,7 +16,7 @@
 
 
 
-## Self-Hosted Payment Processors
+## Self-Hosted Bitcoin Payment Processors
 
 自托管支付处理器在您的服务器上运行，可为您提供对整个支付流程和资金的完全控制. 没有第三方的参与-极大地提高了您和您的客户的防审查性，隐私性和安全性. 
 
@@ -28,7 +28,7 @@
 | [BitcartCC](https://bitcartcc.com)  | 没有费用| 是的是的没有 1 GB RAM，10 GB存储，Docker |
 | [LnMe](https://github.com/bumi/lnme)  | 没有费用| 是的是的没有 LND节点|
 
-## Hosted Payment Processors
+## Hosted Bitcoin Payment Processors
 
 托管付款处理器在其他人的服务器上运行. 这简化了初始设置过程，但减少了您对付款过程的控制量.
 
@@ -55,16 +55,6 @@
 | [Coinremitter](https://coinremitter.com/)  |  0.23％| 没有没有没有没有
 | [Utrust](https://utrust.com/)  |  1％| 没有没有是的需要某些文件.  |
 | [NOWPayments](https://nowpayments.io/)  |  ≤0.5％| 没有没有没有 KYC / AML程序适用于某些客户，钱包地址和选定资产.  |
-
-## Merchant Stories
-
--[BTCPay服务器] [Blockstream: We're now accepting on-chain #Bitcoin payments](https://www.facebook.com/1052484058287964)
--[BTCPay服务器] [CheapAir: Update on Our Search for a New Bitcoin Payment Processor](https://www.cheapair.com/blog/update-on-our-search-for-a-new-bitcoin-payment-processor/)
--[BTCPay服务器] [Cryptoversity: ORIGINS, A Dramatic Story](https://youtu.be/S0difABxO3g)
--[BTCPay服务器] [Gab Says Bitcoin is The Clear Solution as ‘Free Speech Money’](https://bitcoinist.com/free-speech-money-gab-bitcoin/)
--[确认（ex-BitcoinPay）] [Trezor: Ever wondered how do we process your TREZOR order?](https://blog.trezor.io/trezor-shipping-process-delivery-dispatch-explained-order-logistics-58e45e25ee8)
--[Blockonomics] [How a Small Business in the Arctic Circle is Selling to the World](https://hackernoon.com/how-a-small-business-in-the-arctic-circle-is-selling-to-the-world-8dbe8d7f9fc4)
--[CryptoWoo] [Keys4Coins: Seamless integration of cryptocurrency payments in WooCommerce](https://www.keys4coins.com/cryptowoo-testimonial/)
 
 ## Backers 💝
 

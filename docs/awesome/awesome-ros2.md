@@ -61,7 +61,7 @@
 
 - [Apex.Autonomy](https://www.apex.ai/apex-autonomy) -Apex.Autonomy提供自治算法作为单独的构建基块，并且与Autoware.Auto兼容.
 - [Autoware.Auto](https://www.autoware.auto/) Autoware.Auto为自动驾驶技术提供了基于ROS 2的开源软件堆栈.
-- [ros2_control](https://github.com/ros-controls/ros2_control) -“ ros2_control”是关于如何在机器人控制（ros2_controllers）的上下文中阐述和使用ROS 2中新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
+- [ros2_control](https://github.com/ros-controls/ros2_control) -`ros2_control`是关于如何在机器人控制（ros2_controllers）的上下文中阐述和使用ROS 2中新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) -ros_controllers的说明. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) -一组ROS软件包，用于跟踪坐标变换. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [ros2-ORB_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) -ROS2节点包装了ORB_SLAM2库. ![ros2-ORB_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
@@ -389,6 +389,7 @@ DDS安全性.
 - [FARobot](https://www.farobottech.com/) -群机器人系统，基于ROS 2 / DDS的舰队管理系统.
 - [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) -机器人和辅助系统.
 - [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) -智能自动化服务提供商.
+- [iRobot](https://www.irobot.de/) -吸尘和拖把机器人制造商.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) -ROS工具箱.
 - [Mission Robotics](https://missionrobotics.us/) -面向海洋智能新时代的硬件和软件.

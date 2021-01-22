@@ -32,7 +32,7 @@
 
 ## Audit and performance
 
-- [Skillcore.Stats](https://github.com/marek-musielak/Skillcore.Stats) - Collect detailed timing information for all your Sitecore MVC renderings and API calls.
+- [Skillcore.Stats](https://github.com/marek-musielak/Skillcore.Stats) -收集所有Sitecore MVC渲染和API调用的详细时间信息.
 - [Sitecore.Boost](https://github.com/cardinal252/Sitecore.Boost) -该存储库包含大量潜在的补丁程序，可用于改善Sitecore平台的性能，以提高性能，其中大部分在Sitecore的生产实例中运行.
 - [Sitecore.Cleanup](https://github.com/martinrayenglish/Sitecore.Cleanup) -该模块由3个代理组成，它们将分别监视“事件队列”，“发布队列”和“历史记录”表，以确保它们不超过设置的阈值.
 - [SitecoreDXG: The Documentation Experience Generator](https://github.com/zkniebel/SitecoreDXG)  -SitecoreUML系列的Sitecore模板架构可视化和文档工具. 利用与StarUML相关联的开源API（SitecoreUML也基于该API），SitecoreDXG提供支持，以从任何具有SitecoreUML的现有Sitecore实例（均支持PaaS和非PaaS）生成模板数据模型架构图和HTML文档. Sitecore服务.
@@ -152,7 +152,7 @@
 - [sugcon-2019-jss-examples](https://github.com/chaturangar/sugcon-2019-jss-examples) -SugCon 2019 jss示例
 - [SitecoreQL](https://github.com/kmazzoni/SitecoreQL) -Sitecore的GraphQL实现，例如，您可以查询Sitecore的Content Search API.
 - [JSS React Starter Application](https://github.com/altola/sitecore-jss-react-basic) -请遵循https://jss.sitecore.net上的主要JSS文档，以获取有关JSS的最新文档.
-- ['Hello World' Starter for Sitecore JSS Tech Preview 4](https://github.com/altola/sitecore-jss-react-starter) -没有GraphQL位的Sitecore JSS的Hello World启动程序.
+- ['Hello World' Starter for Sitecore JSS Tech Preview 4](https://github.com/altola/sitecore-jss-react-starter) - A hello world starter for Sitecore JSS without GraphQL bits.
 - [Extensible JSON Renderings](https://github.com/coreyasmith/jss-extensible-json-renderings) -在Sitecore JavaScript Services中扩展JSON呈现.
 - [JavaScript Services Anti-Forgery Tokens](https://github.com/coreyasmith/jss-anti-forgery-tokens)  -一个示例存储库，用于演示如何使用现成的防伪令牌验证器将Sitecore JavaScript Services中的.NET防伪令牌与MVC和Web API控制器一起使用. 演示API在断开连接模式下也被完全模拟，以显示此功能在断开连接和连接模式下如何工作.
 - [How to GraphQL](https://github.com/kamsar/howtographql) -一个完整的教程网站，可全面了解GraphQL.
@@ -276,6 +276,8 @@
 
 ## SPEAK
 
+- [Speak 3 starter template](https://github.com/Mitya88/SitecoreSpeak3StarterProject) -说出使用Angular CLI版本1.2.7生成的3入门模板.
+- [Sitecore Speak UI Library](https://github.com/Mitya88/SitecoreSpeakUILibrary) -说出用Angular CLI 1.2.7版生成的3个组件.
 - [SitecoreDataImporter](https://github.com/komainu85/SitecoreDataImporter) -SPEAK应用程序，用于将CSV / JSON / XML导入Sitecore项目.
 
 ## SXA (Sitecore Experience Accelerator)

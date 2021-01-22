@@ -33,7 +33,7 @@
     * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) -分类集合的快速和纯Python实现.
     * [TheAlgorithms](https://github.com/TheAlgorithms/Python) -用Python实现的所有算法.
 *设计模式
-    * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) -一个简单而有效的库，用于实现常见的设计模式.
+    * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) -一个简单而有效的库，用于实现通用设计模式.
     * [python-patterns](https://github.com/faif/python-patterns) -Python中的设计模式集合.
     * [transitions](https://github.com/pytransitions/transitions) -轻量级的，面向对象的有限状态机实现.
 
@@ -318,6 +318,7 @@
 *其他关系数据库
     * [pymssql](https://pymssql.readthedocs.io/en/latest/) -Microsoft SQL Server的简单数据库接口.
     * [SuperSQLite](https://github.com/plasticityai/supersqlite) -建立在 [apsw](https://github.com/rogerbinns/apsw).
+    * [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) -具有ClickHouse本地接口的Python驱动程序.
 * NoSQL数据库
     * [cassandra-driver](https://github.com/datastax/python-driver) -Apache Cassandra的Python驱动程序.
     * [happybase](https://github.com/wbolster/happybase) -Apache HBase的开发人员友好型库.
@@ -332,7 +333,7 @@
 
 *用于处理日期和时间的库.*
 
-* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，提供了一种明智且人性化的方法来创建，处理，格式化和转换日期，时间和时间戳.
+* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，它提供了一种明智且人性化的方法来创建，处理，格式化和转换日期，时间和时间戳.
 * [Chronyk](https://github.com/KoffeinFlummi/Chronyk) -一个Python 3库，用于解析人类编写的时间和日期.
 * [dateutil](https://github.com/dateutil/dateutil) -对标准Python的扩展 [datetime](https://docs.python.org/3/library/datetime.html) 模块.
 * [delorean](https://github.com/myusuf3/delorean/) -一个库，用于清除与日期时间有关的不便事实.
@@ -561,7 +562,7 @@
 
 *用于处理图形用户界面应用程序的库.
 
-* [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) 用于创建终端GUI应用程序.
+* [curses](https://docs.python.org/3/library/curses.html) 内置包装 [ncurses](http://www.gnu.org/software/ncurses/) 用于创建终端GUI应用程序.
 * [Eel](https://github.com/ChrisKnott/Eel) -用于制作简单的类似电子的脱机HTML / JS GUI应用程序的库.
 * [enaml](https://github.com/nucleic/enaml) -使用声明性语法（如QML）创建漂亮的用户界面.
 * [Flexx](https://github.com/zoofIO/flexx) -Flexx是用于创建GUI的纯Python工具箱，它使用Web技术进行呈现.
@@ -574,7 +575,7 @@
 * [pywebview](https://github.com/r0x0r/pywebview/) -围绕Webview组件的轻型跨平台本机包装.
 * [Tkinter](https://wiki.python.org/moin/TkInter) -Tkinter是Python的事实上的标准GUI软件包.
 * [Toga](https://github.com/pybee/toga) -Python本机，OS本机GUI工具包.
-* [urwid](http://urwid.org/) -一个用于创建终端GUI应用程序的库，该应用程序对窗口小部件，事件，丰富的颜色等具有强大的支持
+* [urwid](http://urwid.org/) -一个用于创建终端GUI应用程序的库，该应用程序对窗口小部件，事件，丰富的颜色等具有强大的支持.
 * [wxPython](https://wxpython.org/) -wxWidgets C ++类库与Python的混合.
 * [DearPyGui](https://github.com/RaylockLLC/DearPyGui/) -一个简单的GPU加速的Python GUI框架
 
@@ -715,7 +716,7 @@
 * [doit](http://pydoit.org/) -任务运行器和构建工具.
 * [gunnery](https://github.com/gunnery/gunnery) -具有基于Web界面的分布式系统的多功能任务执行工具.
 * [Joblib](https://joblib.readthedocs.io/) -一组用于在Python中提供轻量级流水线的工具.
-* [Plan](https://github.com/fengsp/plan) -用Python编写crontab文件就像一个魅力.
+* [Plan](https://github.com/fengsp/plan) -像用魅惑一样用Python编写crontab文件.
 * [Prefect](https://github.com/PrefectHQ/prefect) -现代的工作流程编排框架，可轻松构建，调度和监视强大的数据管道.
 * [schedule](https://github.com/dbader/schedule) -针对人类的Python作业调度.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) -用纯Python实现的功能强大的工作流引擎.
@@ -760,7 +761,7 @@
 *不属于上述类别的有用的库或工具.*
 
 * [blinker](https://github.com/jek/blinker) -快速的Python处理中信号/事件分配系统.
-* [boltons](https://github.com/mahmoud/boltons) -一组纯Python实用程序.
+* [boltons](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
 * [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将可信数据传递到不可信环境.
 * [magenta](https://github.com/magenta/magenta) -使用人工智能产生音乐和艺术的工具.
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) -一个简单但灵活的Python插件系统.
@@ -853,7 +854,7 @@
 *允许或拒绝用户访问数据或功能的图书馆.*
 
 * [django-guardian](https://github.com/django-guardian/django-guardian) -为Django 1.2+实现每个对象的权限
-* [django-rules](https://github.com/dfunckt/django-rules) -一个微型但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
+* [django-rules](https://github.com/dfunckt/django-rules) -一个小巧但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
 
 ## Processes
 
@@ -1104,7 +1105,7 @@
     * [python-slugify](https://github.com/un33k/python-slugify) -Python slugify库，可将unicode转换为ASCII.
     * [unicode-slugify](https://github.com/mozilla/unicode-slugify) -一个slugifier，它以Django为依赖关系生成unicode slug.
 *唯一标识符
-    * [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
+    * [hashids](https://github.com/davidaurelio/hashids-python) -实施 [hashids](http://hashids.org) 在Python中.
     * [shortuuid](https://github.com/skorokithakis/shortuuid) -生成器库，用于生成简洁，明确和URL安全的UUID.
 *解析器
     * [ply](https://github.com/dabeaz/ply) -为Python实现lex和yacc解析工具.
@@ -1198,7 +1199,7 @@
 
 *用于WebSocket的库.*
 
-* [autobahn-python](https://github.com/crossbario/autobahn-python) -Twisted和 [asyncio](https://docs.python.org/3/library/asyncio.html).
+* [autobahn-python](https://github.com/crossbario/autobahn-python) -Twisted和Python上的WebSocket和WAMP for Python [asyncio](https://docs.python.org/3/library/asyncio.html).
 * [channels](https://github.com/django/channels) -适用于Django的开发人员友好型异步.
 * [websockets](https://github.com/aaugustin/websockets) -一个用于构建WebSocket服务器和客户端的库，重点是正确性和简单性.
 

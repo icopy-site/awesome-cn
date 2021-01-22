@@ -83,14 +83,14 @@
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) -_OWASP_-使用CLI或构建服务器插件扫描依赖项，以查找公开披露的漏洞.
 - [Dependency-Track](https://dependencytrack.org/) -_OWASP_-随时间监视多个项目中易受攻击的依赖项的数量和严重性.
 - [JFrog XRay](https://jfrog.com/xray/) -_JFrog_-对JFrog Artifactory中存储的工件的安全性和合规性分析.
-- [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
+- [NPM Audit](https://docs.npmjs.com/cli/audit) -_NPM_-npm CLI中内置的节点程序包的漏洞程序包审核.
 - [Renovate](https://renovate.whitesourcesoftware.com/) -_WhiteSource_-使用CLI或git仓库应用程序自动监视和更新多种框架和语言的软件依赖关系.
 - [Requires.io](https://requires.io/) -_Olivier Mansion和Alexis Tabary_-针对Python项目的自动化漏洞依赖项监视和升级.
 - [Snyk Open Source](https://snyk.io/) -_Snyk_-使用Snyk的专用漏洞数据库自动进行漏洞依赖项监视和升级.
 
 ### Dynamic Analysis
 
-动态分析安全测试（DAST）是黑盒安全测试的一种形式，其中安全扫描程序与正在运行的应用程序实例进行交互，以模拟恶意活动以查找常见漏洞.  DAST工具通常用于渗透测试的初始阶段，并且可以发现漏洞，例如跨站点脚本，SQL注入，跨站点请求伪造和信息泄露.
+Dynamic Analysis Security Testing (DAST) is a form of black-box security testing where a security scanner interacts with a running instance of an application, emulating malicious activity to find common vulnerabilities. DAST tools are commonly used in the initial phases of a penetration test, and can find vulnerabilities such as cross-site scripting, SQL injection, cross-site request forgery and information disclosure.
 
 - [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) -_Imperva_-根据API规范对API执行自动安全扫描.
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) -_PortSwigger_-BurpSuite的Web应用程序漏洞扫描程序已由渗透测试人员广泛使用，并通过CI / CD集成进行了修改，并可以持续监控多个Web应用程序.
@@ -112,13 +112,14 @@
 - [Anchore Engine](https://anchore.com/opensource/)  -_Anchore，Inc_-对CVE的Docker映像进行深度检查，并检查自定义策略. 他们的企业产品背后的引擎，这些产品与注册表，协调器和CI / CD产品集成在一起.
 - [Clair](https://github.com/quay/clair) -_Quay_-扫描App容器和Docker容器以查看公开的漏洞.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) -_ElíasGrande_-将Docker容器中安装的OS和软件依赖版本与公共漏洞数据库进行比较，并执行病毒扫描.
-- [Hadolint](https://github.com/hadolint/hadolint) -_Hadolint_-根据已知规则检查Dockerfile并验证RUN语句中的内联bash代码. 
+- [Hadolint](https://github.com/hadolint/hadolint) -_Hadolint_-根据已知规则检查Dockerfile并验证RUN语句中的内联bash代码.
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) -_Snyk_-在CI / CD期间或通过连续监视扫描Docker和Kubernetes应用程序的安全漏洞.
 - [Trivy](https://github.com/aquasecurity/trivy) -_Aqua Security_-容器的简单而全面的漏洞扫描程序.
 
 <!-- omit in toc -->
 #### Terraform
 - [Checkov](https://github.com/bridgecrewio/checkov) -_Bridgecrew_-扫描Terraform，AWS CloudFormation和Kubernetes模板以获取不安全的配置.
+- [Regula](https://github.com/fugue/regula) -_Fugue_-在部署之前评估Terraform基础架构代码是否存在潜在的安全性错误配置和合规性违规.
 - [Terrascan](https://github.com/cesar-rodriguez/terrascan) -_Cesar Rodriguez_-扫描Terraform模板以获得最佳实践安全配置.
 - [Tfsec](https://github.com/liamg/tfsec) -_Liam Galvin_-扫描Terraform模板以了解安全性配置错误以及是否违反AWS，Azure和GCP安全性最佳做法.
 
@@ -158,7 +159,7 @@
 - [CyberArk Application Access Manager](https://www.cyberark.com/products/privileged-account-security-solution/application-access-manager/) -_Cyber​​Ark_-应用程序的机密管理，包括机密轮换和审核.
 - [Docker Secrets](https://docs.docker.com/engine/swarm/secrets/) -_Docker_-存储和管理对Docker群中机密的访问.
 - [Git Secrets](https://github.com/awslabs/git-secrets) -_Amazon AWS_-扫描git存储库，以查找代码内或提交消息中提交的机密.
-- [Gopass](https://github.com/gopasspw/gopass)  -_Gopass_-依赖Git和gpg的团队的密码管理器. 管理加密文件和存储库中的机密.
+- [Gopass](https://github.com/gopasspw/gopass) - _Gopass_ - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
 - [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) -_Google云平台_-在GCP中安全存储机密.
 - [HashiCorp Vault](https://www.vaultproject.io/) -_HashiCorp_-通过UI，CLI或HTTP API安全存储机密.
 - [Pinterest Knox](https://github.com/pinterest/knox) -_Pinterest_-安全地存储，轮换和审核秘密.
@@ -239,7 +240,7 @@
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) -_Practical DevSecOps_-威胁建模资源的精选列表.
 - [SecuriCAD](https://www.foreseeti.com/) -_Forseeti_-处理IT基础架构的建模和攻击模拟.
 - [IriusRisk](https://iriusrisk.com/) -_IriusRisk_-绘制威胁模型并捕获威胁和对策并管理风险.
-- [Raindance Project](https://github.com/devsecops/raindance) - _DevSecOps_ - Use attack maps to identify attack surface and adversary strategies that may lead to compromise.
+- [Raindance Project](https://github.com/devsecops/raindance) -_DevSecOps_-使用攻击图来识别可能导致妥协的攻击面和对手策略.
 - [SD Elements](https://www.securitycompass.com/sdelements/threat-modeling/) -_安全指南针_-识别威胁并对其进行排名，生成可操作的任务并跟踪相关票证.
 - [Threat Dragon](https://owasp.org/www-project-threat-dragon/) -_OWASP_-威胁模型图表工具.
 - [Threat Modelling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling) -_Microsoft_-威胁模型图表工具.

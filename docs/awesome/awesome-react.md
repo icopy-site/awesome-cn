@@ -110,7 +110,7 @@
 - [next.js](https://github.com/vercel/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
 - [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
-- [remix](https://remix.run/) -最后，React Router的创建者提供了一个杀手React的React框架
+- [remix](https://remix.run/) -最后，React Router的创建者提供了一个致命的React框架
 - [aleph.js](https://github.com/alephjs/aleph.js) -Deno中的React框架
 
 ##### React Styling
@@ -162,7 +162,7 @@
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) -React的选择组件
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) -使用React轻松美观地拖放列表
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [react-dnd](https://github.com/react-dnd/react-dnd) -拖放进行React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) -具有可响应的断点的可拖动和可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
@@ -201,6 +201,7 @@
 - [react-truncate-markup](https://github.com/parsable/react-truncate-markup) -用于截断JSX标记的React组件.
 - [react-cookie](https://github.com/reactivestack/cookies) -用于React的通用cookie.
 - [react-slick](https://github.com/akiran/react-slick) -使用React构建的Carousel组件.
+- [react-gtm-module](https://github.com/alinemorelli/react-gtm) -适用于React的Google跟踪代码管理器模块.
 
 ##### React for Command Line
 
@@ -297,7 +298,7 @@
 - [react-play](https://github.com/ssorallen/react-play) -使用JDK8的Nashorn在Play框架中渲染React组件
 - [rx-react](https://github.com/fdecampredon/rx-react) -在RxJS中使用React的实用程序
 - [react-with-di](https://github.com/vojtajina/react-with-di) -带有DI的被入侵的React.js原型
-- [reactfire](https://github.com/firebase/reactfire) - ReactJS mixin for easy Firebase integration
+- [reactfire](https://github.com/firebase/reactfire) -ReactJS mixin可轻松实现Firebase集成
 - [firedux](https://github.com/AndersDJohnson/firedux) -用于ReactJS的Firebase + Redux
 - [react-clickdrag-mixin](https://github.com/tleunen/react-clickdrag-mixin) -用于React组件的ClickDrag mixin
 - [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)
