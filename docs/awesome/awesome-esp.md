@@ -39,7 +39,7 @@
 - [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) -NodeMCU操作系统的官方刷新工具.
 - [LuaNode](https://github.com/Nicholas3388/LuaNode) -适用于32/8266的仅lua的SDK.
 - [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) -在8266中用于文件系统上传的Arduino插件.
-- [PlatformIO](https://github.com/platformio/platformio-core) -同时支持ESP32和ESP8266的跨平台IDE和调试器.
+- [PlatformIO](https://github.com/platformio/platformio-core) - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
 
 ## Projects
 ### Smart Home and IoT
@@ -66,6 +66,12 @@
 - [HeartyPatch](https://heartypatch.protocentral.com/) -使用ESP32的可穿戴BLE和WiFi连接的ECG-HR补丁.
 - [HealthyPi v4](https://www.crowdsupply.com/protocentral/healthypi-v4-unplugged) -一款出色的开源生命体征监测器，可以监测ESP32所运行的ECG，呼吸，脉搏血氧饱和度和体温.
 
+### LoRa
+
+- [Meshtastic](https://www.meshtastic.org/) -ESP32 LoRA板作为安全的，较长的电池寿命，网状GPS通信器.
+- [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) Wifi和蓝牙驱动，启用LoRaWAN，电池供电的迷你Paxcounter，基于廉价的ESP32 LoRa IoT板构建
+- [Disaster Radio](https://disaster.radio/) -由太阳驱动的抗灾通讯网络
+
 ### Others
 - [SoftRF](https://github.com/lyusupov/SoftRF) -可以在无人机项目中使用的DIY航空近距离感知系统.
 - [Retro ESP32](https://github.com/retro-esp32/RetroESP32) -适用于Odroid Go（带有ESP32）的超酷启动器，它可以模拟多个复古控制台.
@@ -77,7 +83,7 @@
 - [Homie8266](https://github.com/marvinroger/homie-esp8266) -8266的Homie协议的框架实现.
 - [ESP-Dash](https://github.com/ayushsharma82/ESP-DASH)  -用于在8266/32中创建远程仪表盘的美观，快速的框架. 无需互联网.
 - [ESP_mqtt](https://github.com/tuanpmt/esp_mqtt) -用于ESP8266的MQTT帮助程序库.
-- [GUIslice](https://github.com/ImpulseAdventure/GUIslice) - A drag and drop GUI framework for several devices and screen controllers. Compatible with 8266 and 32.
+- [GUIslice](https://github.com/ImpulseAdventure/GUIslice)  -用于多个设备和屏幕控制器的拖放GUI框架. 兼容8266和32.
 - [MicroWebSrv2](https://github.com/jczic/MicroWebSrv2) -一个非常强大的MicroPython Web服务器，可以在ESP32中使用.
 - [IRremoteESP8266](https://github.com/markszabo/IRremoteESP8266) -在ESP8266中发射和接收IR信号.
 - [esphomelib](https://github.com/OttoWinter/esphomelib) -在8266中与HomeAssistant集成的框架.
@@ -102,4 +108,4 @@
 - [painlessMesh](https://github.com/gmag11/painlessMesh) -一个负责使用ESP8266和ESP32硬件创建简单网状网络的细节的库.
 - [WifiEspNow](https://github.com/yoursunny/WifiEspNow) -的Arduino库 [ESP-NOW](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html)，由定义的无连接WiFi通信协议 [Espressif](https://github.com/espressif).
 - [go-mcu](https://github.com/matiasinsaurralde/go-mcu) -Golang软件包，用于与基于NodeMCU的板进行交互.
-- [CanAirIO SensorLib](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) -具有自动配置多个PM2.5灰尘传感器的ESP32 / 8266库.
+- [CanAirIO SensorLib](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) -具有自动配置多个PM2.5，CO2和环境传感器的ESP32 / 8266库.

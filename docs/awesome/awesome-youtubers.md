@@ -85,7 +85,7 @@ Content about: C, C#, C++ \
 
 [**Ben Eater**](https://www.youtube.com/c/BenEater) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容关于：汇编语言，硬件，计算机科学\
-特色播放列表：“正在构建8位面包板计算机！”，“网络教程”，“数字电子教程”，“很多相关视频”.
+特色播放列表：“正在构建8位面包板计算机！”，“网络教程”，“数字电子设备教程”，“很多相关视频”.
 
 [<img align="left" height="94px" width="94px" alt="The Coding Train channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzsuBQEVwEvfj3ti2gZQCVWpFc4e38IfMsPgYGCxw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheCodingTrain)
 
@@ -204,7 +204,7 @@ Featured Playlists: `C# Mastery Course (2020)`, `C# Programming (Beginners)`, `.
 
 [**DataDaft**](https://www.youtube.com/c/DataDaft) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：数据科学，Python，R，实用和理论\
-精选播放列表：“ Python for Data Analysis”，“ R简介”，“ Python编程实践”，“ Pandas”，“更多播放列表！”.  \
+特色播放列表：“ Python for Data Analysis”，“ R简介”，“ Python编程实践”，“ Pandas”，“更多播放列表！”.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Fun Fun Function channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwgZqkGaQtvrnuPj7jVsKzM61YR_Do0zPHZchlUFQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
@@ -279,10 +279,17 @@ Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C
 Content about: C#, .NET, Azure, AWS, General Programming \
 特色播放列表：“ ASP.NET Core REST API教程”，“ ASP.NET Core通用教程”，“.NET中的基本Nuget程序包”，“讨论和建议”，“软件工程基础知识”.
 
+[<img align="left" height="94px" width="94px" alt="Python In 1 Minute's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhC7wVDRB7huyZLhXcRIPUF3MjHKdC-7ctvSbEK=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PythonIn1Minute)
+
+[**Python In 1 Minute**](https://www.youtube.com/c/PythonIn1Minute) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+内容关于：Python \
+精选播放列表：“一分钟教程”，`来自各种Python主题的许多Python视频.  \
+<br/>
+
 
 ## Web development
 
- Web开发包括前端开发：最基本的（HTML，CSS和JavaScript）以及最现代的框架（React.js，Vue.js，Angular）. 它还包括后端开发主题，例如Node.js，GraphQL，SQL和其他基本内容，例如DNS，URL，部署. 您还可以找到以网站开发人员的身份从事自由职业以及其他相关工作.
+ Web开发包括前端开发：最基础的（HTML，CSS和JavaScript）以及最现代的框架（React.js，Vue.js，Angular）. 它还包括后端开发主题，例如Node.js，GraphQL，SQL以及更基本的东西，例如DNS，URL，部署. 您还可以找到以网站开发人员的身份从事自由职业以及其他相关工作.
 
 [<img align="left" height="94px" width="94px" alt="Codevolution channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1mDLn8-L1yG8jIO2yGHvJzqnMZ03dsc3PbNqe=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
 
@@ -553,7 +560,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 
 [**stanfordonline**](https://www.youtube.com/user/stanfordonline) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容关于：理论课，讲座
-特色播放列表：“计算机科学与安全”，“工程”，“能源技术”，“领导与管理”，“具有深度学习的自然语言处理”.
+特色播放列表：“计算机科学与安全”，“工程学”，“能源技术”，“领导与管理”，“具有深度学习的自然语言处理”.
 
 [<img align="left" height="94px" width="94px" alt="FCIH OCW channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwKt_euPqSdYAa1aMzL7fhO-JibtfEaEXX8OuPt=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/FCIHOCW)
 
@@ -597,7 +604,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 
 ## Software in general
 
-此类别中列出的YouTuber可能不是编程教程或炫酷的设计卡，但每天都会为每个人使用一些其他有用的软件和应用程序. 掌握您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
+此类别中列出的YouTuber可能不是编程教程或炫酷的设计卡，但每天都会为每个人使用一些其他有用的软件和应用程序. 精通您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
 
 [<img align="left" height="94px" width="94px" alt="Learn Google Spreadsheets channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
 
@@ -617,7 +624,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 
 [**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：Excel，Office套件\
-精选播放列表：“ Excel 2020教程”，“高级Excel教程”，“ Microsoft Visio教程”，“ Windows 10教程”.  \
+特色播放列表：“ Excel 2020教程”，“高级Excel教程”，“ Microsoft Visio教程”，“ Windows 10教程”.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Simon Sez IT channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwY3ModHFJGHTdK25cpztQz8NPG8gFllfgWJEqvwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Simonsezit)
@@ -842,7 +849,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 [<img align="left" height="94px" width="94px" alt="NetworKing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3fRhADkbhwzuqg1IdgIxpJBsmTpwPwEJ5yH4Jg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NetworKingInc)
 
 [**NetworKing**](https://www.youtube.com/c/NetworKingInc) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
-内容关于：网络，CCNA \
+Content about: Networking, CCNA \
 特色播放列表：`全系列|  200-301 CCNA | 免费思科视频培训2020 |  Networking Inc.，其他网络视频.
 
 [<img align="left" height="94px" width="94px" alt="NetworKing channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz94lPJiSkw20P0-6TLSo4oz0Z_BQkhMiHBoZyF2w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PowerCertAnimatedVideos)
@@ -860,7 +867,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 [<img align="left" height="94px" width="94px" alt="GCFLearnFree.org channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwe6TjwIlLLS09rBm-AG81b6PslL87sIu8ULLAvpw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/GcflearnfreeOrgplus)
 
 [**GCFLearnFree.org**](https://www.youtube.com/c/GcflearnfreeOrgplus) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-Content about: Job searching, General skills, Life tips \
+内容：求职，一般技能，生活小贴士\
 特色播放列表：“正在搜索工作”，“经济思维播放列表”，“ Office Suite教程”，“决策”，“生活技能播放列表”以及更多！
 
 [<img align="left" height="94px" width="94px" alt="mayuko channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC_QqT1Fm-GExDj7psvvDxEK6k8G4zqJo6Q0SXwg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hellomayuko)
@@ -893,7 +900,7 @@ Content about: Job searching, General skills, Life tips \
 
 [**Professor Messer**](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容关于：安全性
-特色播放列表：“ CompTIA Security + SY0-501培训课程”，“ CompTIA N10-007 Network +学习组”，以及更多类似的清单！
+特色播放列表：“ CompTIA Security + SY0-501培训课程”，“ CompTIA N10-007 Network +学习组”，以及更多类似的内容！
 
 [<img align="left" height="94px" width="94px" alt="CodeCommand channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxwg_MKbgIY5qofCP_D9_7J1imehz-xhNBbtuA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/CodeCommand)
 
@@ -1070,7 +1077,7 @@ Content about: Job searching, General skills, Life tips \
 
 [**educ8s.tv**](https://www.youtube.com/c/Educ8s) \
 内容关于：Arduino \
-特色播放列表：“初学者的Arduino教程”，“初学者的Raspberry Pi教程”，“更多的Arduino教程/项目视频！”.
+特色播放列表：“面向初学者的Arduino教程”，“面向初学者的Raspberry Pi教程”，“更多Arduino教程/项目视频！”.
 
 [<img align="left" height="94px" width="94px" alt="GreatScott! channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz9XEhgD0AaVFVvsxDHzQBAZ84xTwIokpOzarR3fg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
 

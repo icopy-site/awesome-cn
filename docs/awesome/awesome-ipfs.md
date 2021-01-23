@@ -16,7 +16,7 @@
 
 欢迎每个人提交他们的新awesome-ipfs项目，但只有在符合我们的要求的情况下，该项目才会被接受 [content policy](https://github.com/ipfs/awesome-ipfs/blob/master/POLICY.md).
 
-自述文件和网站是自动生成的. 为了将元素添加到此列表中，您需要修改`/ data`中的文件，然后运行`make build`在发布您的拉取请求之前. 读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做.
+自述文件和网站是自动生成的. 为了将元素添加到此列表中，您需要修改`/ data`中的文件，然后运行`make build`在发布您的拉取请求之前. 读 [contributing guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) to learn how to do so.
 
 ## Collab-Cluster
 
@@ -60,15 +60,16 @@
 - [InfiniteBooru](https://infinitebooru.com) -具有IPFS支持的所有媒体的booru风格的媒体标记应用程序和内容聚合器.
 - [infura.io](https://infura.io) -基础架构：使用API​​和开发人员工具提供对以太坊和IPFS的安全，可靠和可扩展的访问，以帮助简化分散式应用程序的构建.
 - [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) -使用IPFS进行Web存档（WARC）索引和重放.
-- [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+- [Interplanetary Wiki](https://github.com/jamescarlyle/ipfs-wiki) -建立在IPFS之上的Wiki
 - [ipcoronafs](https://github.com/RTradeLtd/ipcoronafs) -实时服务，可刮擦COVID-19和SARS-CoV-2，存储在IPFS，DNSLink上，并通过LibP2P pubsub流式传输
 - [IPFessay](https://gitlab.com/stavros/IPFessay) -在IPFS上发布无法审查的论文的简单方法.
 - [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)  -在计算机上运行IPFS节点，而无需使用命令行工具. 管理您的节点，添加文件，轻松更改设置...只需一个界面即可完成所有操作.
-- [IPFS Drive](https://github.com/fazo96/ipfs-drive) -在用于IPFS的浏览器文件管理器中.
+- [IPFS Drive](https://github.com/fazo96/ipfs-drive) - In browser file manager for IPFS.
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) -允许改善ipfs事件可视化的应用程序.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) -使用Windows.ipfs的演示应用程序，向您显示IPNS链接和公共密钥的QR码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  -IPFS图像上传器和查看器.  Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) -带有TiddyWiki的IPFS是一个TiddlyWiki插件，旨在帮助开发人员，编辑者或用户通过IPFS保存其Wiki和附件.
+- [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) -一个web3论坛.您可以从该论坛中获得新的想法，报告，讨论，尽管您可能处于网络受限的区域，但是ipfs会快速更新所有内容. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
 - [IPFS-FPS](http://ipfs-fps.zil.sh/)  -完全分散的第一人称射击游戏. 使用Unity，Fleek，势不可挡的Domans和Pinata构建. [Source](https://github.com/IPFS-FPS)
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) -基于ipfs和markdown构建Wiki系统.
 - [ipfs-search](https://ipfs-search.com) -自2016年起搜寻宇宙.
@@ -173,7 +174,7 @@
 - [Peergos](https://peergos.org)  -您的私人社交空间. 存储和编辑文档和媒体. 与朋友共享文件或文件夹. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) -通过Pinata的REST API和IPFS工具包构建和管理dapp.
 - [Robonomics Network](https://robonomics.network/) -以太坊网络基础设施，用于将网络物理系统集成到智能城市和工业4.0中
-- [Temporal](https://temporal.cloud) - Scalable IPFS Infrastructure with free starter package featuring turnkey APIs, toolkits and storage.
+- [Temporal](https://temporal.cloud) -可扩展的IPFS基础结构，具有免费的入门包，具有交钥匙API，工具包和存储.
 - [Unstoppable Domains](https://unstoppabledomains.com) -区块链上的域名
 
 ## Tools

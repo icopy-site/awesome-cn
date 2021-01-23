@@ -18,11 +18,12 @@
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) -大卫·坎普（David Kemp）的量子门计算交互式学习.
 - [CNOT](https://cnot.io/) -易于理解，逐步介绍了量子计算概念.
-- [Chris Ferrie](https://csferrie.medium.com/) -澳大利亚悉尼的大学教授，《量子计算》（婴儿）（以及更多）的作者，以及关于介质的出色《量子计算》讲座.
+- [Chris Ferrie](https://csferrie.medium.com/) -澳大利亚悉尼大学教授，《量子计算婴儿》（以及更多）的作者，以及有关“中等”的出色量子计算讲座.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) -Rigetti Computing SDK的教程.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) -有关光子连续变量量子计算方法的背景信息，以及Xanadu SDK的教程.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) -演示和教育资源，以及对D-Wave量子计算机的访问.
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) -简短的教程简要介绍了量子计算和IBMQ.
+- [Introduction to Quantum Computing](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november) -欧洲核研究组织（CERN）关于量子计算的在线入门讲座.
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) -John Preskill撰写的Caltech量子计算课程物理219 /计算机科学219的注释.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) -有关量子算法问题的实例.
 - [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) -Jupyter笔记本仅演示了如何使用Qiskit.
@@ -36,7 +37,7 @@
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) -解释量子机器学习算法.
 - [Quirk](http://algassert.com/quirk) -基于浏览器的拖放式量子电路模拟器，可实时响应，模拟和设置动画.
-- [The Quantum Quest](https://www.quantum-quest.nl/) -针对高中生设计的有关量子计算原理的入门网络课程. 
+- [The Quantum Quest](https://www.quantum-quest.nl/) -针对高中生设计的有关量子计算原理的入门网络课程.
 
 ## MOOCs
 
@@ -54,13 +55,13 @@
 
 ## Development Tools
 
-- [Amazon Braket](https://aws.amazon.com/braket/) - Fully managed service providing a development environment to run quantum circuits on quantum simulators and computers.
+- [Amazon Braket](https://aws.amazon.com/braket/) -完全托管的服务，提供开发环境以在量子模拟器和计算机上运行量子电路.
 - [Blueqat](https://github.com/Blueqat/Blueqat) -Python中用于量子门计算的软件开发套件.
 - [Cirq](https://github.com/quantumlib/Cirq) -用于编写，操作和优化NISQ电路以在量子计算机上运行的Python库.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) -在线量子编辑器，可在真实的量子计算硬件上运行实验.
 - [Mitiq](https://mitiq.readthedocs.io/) -用于在量子计算机上实施错误缓解技术的Python工具包.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) -用于在近期量子计算机上执行量子人工智能的库.
-- [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) -D-Wave的SDK，可使用Python在其量子计算机上进行开发.
+- [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
 - [Orquestra](https://www.zapatacomputing.com/orquestra/) -Zapata Computing的统一量子操作环境，支持启用量子的工作流程.
 - [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) -百度用于量子机器学习的python工具包.
 - [PennyLane](http://github.com/XanaduAI/pennylane) -用于量子计算和量子机器学习的开源框架，该框架集成了其他各种平台.
@@ -83,7 +84,7 @@
 
 ## Blogs
 
-- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google量子计算团队的成员.
+- [Algorithmic Assertions](http://algassert.com/) -关于量子计算以及Google量子计算小组成员Craig Gidney的一般文章.
 - [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享他们的研究和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.

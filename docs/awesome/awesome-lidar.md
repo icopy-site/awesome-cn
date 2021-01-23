@@ -23,7 +23,7 @@
 - [Velodyne](https://velodynelidar.com/)  -Velodyne是一家机械和固态激光雷达制造商. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
-- [Ouster](https://ouster.com/)  -激光雷达制造商，专门从事数字旋转激光雷达.  Ouster的总部位于美国旧金山.
+- [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/Ouster-lidar)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [Livox](https://www.livoxtech.com/) -激光雷达制造商.
@@ -69,14 +69,14 @@
 - [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) -牛津机器人汽车数据集包含100多次重复的，经过一年多的时间捕获的贯穿英国牛津的一致路线. 
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
-- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是使用我们的自动驾驶汽车（当然是在人类驾驶模式下）收集的，该机器人在法国的Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）配备了十一个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
+- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是在法国Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）中，使用我们的自动驾驶汽车收集的（当然是人为驾驶模式），配备了11个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
 - [NuScenes](https://www.nuscenes.org/) -用于自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) -由配备激光雷达和摄像头的福特Fusion车队收集的公共数据集.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php) -广泛的公共数据集，主要侧重于计算机视觉应用，但还包含LIDAR点云.
 - [Semantic KITTI](http://semantic-kitti.org/) -用于语义和全景场景分割的数据集.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=3qNOXvkpK4I)
-- [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) - Public large-scale dataset for autonomous driving in adverse weather conditions (snowy weather).
+- [CADC - Canadian Adverse Driving Conditions Dataset](http://cadcd.uwaterloo.ca/) -在恶劣天气条件（雪天）下自动驾驶的大型公共数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/2001.10117.pdf)
 - [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50)  -多伦多大学，autoronto的自动驾驶汽车数据集，其中包含GPS / IMU，3D LIDAR和单眼相机数据. 它可以用于3D行人检测.
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.08758.pdf)
@@ -168,6 +168,23 @@
 - [LGSVL](https://www.lgsvlsimulator.com/)  -基于Unity Engine的汽车应用模拟器. 与Autoware，百度Apollo和ROS / ROS2兼容.
   - [GitHub repository :octocat:](https://github.com/lgsvl/simulator)
   - [YouTube channel :red_circle:](https://www.youtube.com/c/LGSVLSimulator)
+- [AirSim](https://microsoft.github.io/AirSim)  -基于虚幻引擎的无人机和汽车模拟器. 与ROS兼容.
+  - [GitHub repository :octocat:](https://github.com/microsoft/AirSim)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
+
+## Related awesome
+- [Awesome point cloud analysis :octocat:](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
+- [Awesome robotics :octocat:](https://github.com/Kiloreux/awesome-robotics#readme)
+- [Awesome robotics libraries :octocat:](https://github.com/jslee02/awesome-robotics-libraries#readme)
+- [Awesome ROS2 :octocat:](https://github.com/fkromer/awesome-ros2#readme)
+- [Awesome artificial intelligence :octocat:](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+- [Awesome computer vision :octocat:](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+- [Awesome machine learning :octocat:](https://github.com/josephmisiti/awesome-machine-learning#readme)
+- [Awesome deep learning :octocat:](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
+- [Awesome reinforcement learning :octocat:](https://github.com/aikorea/awesome-rl/#readme)
+- [Awesome SLAM datasets :octocat:](https://github.com/youngguncho/awesome-slam-datasets#readme)
+- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme) 
+- [Awesome vehicle security and car hacking :octocat:](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## Others
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) -一种将航空激光雷达扫描中的点云数据转换为用于3D打印的实体网格的工具.

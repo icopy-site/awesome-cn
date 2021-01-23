@@ -97,7 +97,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [ASP.NET Identity](https://github.com/aspnet/Identity/) -用于ASP.NET应用程序的新成员资格系统
 * [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) -对ASP.NET应用程序的SAML身份验证支持
 * [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth and InfoCard protocols
-* [Logibit Hawk](https://github.com/logibit/logibit.hawk/) -自动对焦# [Hawk](https://github.com/outmoded/hawk) 认证库
+* [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# [Hawk](https://github.com/outmoded/hawk) 认证库
 * [IdentityModel](https://github.com/IdentityModel) -用于.NET 4.5和MVC4 / Web API中的身份和访问控制的帮助程序库.
 * [IdentityServer](https://github.com/IdentityServer) -可扩展的OAuth2和OpenID Connect提供程序框架.
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) -一个非常轻量级的库，用于生成用C编写的OAuth 1.0a签名#
@@ -149,7 +149,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Calendar
 
-* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET是用于.NET的iCalendar（RFC 5545）类库，旨在提供RFC 5545兼容性，同时提供与流行的日历应用程序和库的完全兼容性.
+* [iCal.NET](https://github.com/rianjs/ical.net) iCal.NET是用于.NET的iCalendar（RFC 5545）类库，旨在提供RFC 5545合规性，同时提供与流行的日历应用程序和库的完全兼容性.
 
 ## CLI
 
@@ -228,7 +228,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
 * [LinqOptimizer](https://github.com/nessos/LinqOptimizer) -顺序和并行LINQ的自动查询优化器-编译器
 * [Roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
-* [Iron python](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
+* [Iron python](https://github.com/IronLanguages/ironpython2) -与点网框架集成的python 2实现.
 * [Amplifier.NET](https://github.com/tech-quantum/Amplifier.NET) - Write and compile your own kernel function using C# and Amplifier will take care of running it on your favorite hardware. Amplifier allows .NET developers to easily run complex applications with intensive mathematical computation on Intel CPU/GPU, NVIDIA, AMD without writing any additional C kernel code.
 
 ## Compression
@@ -379,7 +379,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [MonoGame](https://github.com/MonoGame/MonoGame) -一种用于创建功能强大的跨平台游戏的框架
 * [CocosSharp](https://github.com/mono/CocosSharp) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs
 * [Duality](https://github.com/AdamsLair/duality)  -对偶是2D游戏开发框架. 专注于模块化，带有可视化编辑器.
-* [Stride Game Engine](https://stride3d.net/ ) -Stride Game Engine是2D / 3D跨平台游戏引擎，具有场景编辑器，粒子，基于物理的渲染（PBR），脚本等
+* [Stride Game Engine](https://stride3d.net/ ) -Stride Game Engine是2D / 3D跨平台游戏引擎，具有场景编辑器，粒子，基于物理的渲染（PBR），脚本等功能
 * [Wave Engine](https://waveengine.net/Engine) - Wave engine is a free C# component-based modern game engine which allows you to create cross-platform games supporting Kinect, Oculus Rift, Vuforia, Cardboard, Leap Motion and much more. **[Free][Proprietary]**
 * [UrhoSharp](https://github.com/xamarin/urho) - UrhoSharp is a C# implementation of the Urho3D game engine that runs on iOS, Mac, Windows, Android and Linux systems
 * [Nez](https://github.com/prime31/Nez) -Nez是一个免费的2D框架，可与MonoGame和FNA一起使用
@@ -480,7 +480,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [RestLess](https://github.com/letsar/RestLess) -用于.Net Standard的自动类型安全无反射REST API客户端库.
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) -与`HttpClient`一起使用的实用程序
 * [CoreRPC](https://github.com/kekekeks/CoreRPC)  -面向netstandard1.3的类似WCF的RPC的可扩展库. 与.NET，Mono和.NET Core兼容.
-
+* [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 ## IDE
 
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
@@ -625,7 +625,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 ## Media
 
-* [CSCore](https://github.com/filoe/cscore) -先进的音频库，支持音频数据的实时回放/记录，解码/编码和处理（效果，可视化等）.
+* [CSCore](https://github.com/filoe/cscore) - An advanced audio library, supporting playback/recording, decoding/encoding and processing of audio data in realtime (effects, visualizations, ...).
 * [TagLib#](https://github.com/mono/taglib-sharp) - TagLib# (aka taglib-sharp) is a library for reading and writing
 媒体文件中的元数据，包括视频，音频和照片格式
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) -libvlc的Xamarin绑定，该多媒体框架为VideoLAN制作的VLC应用程序提供了动力.
@@ -680,6 +680,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [DeviceDetector.NET](https://github.com/totpero/DeviceDetector.NET) -通用设备检测库将解析任何用户代理，并检测浏览器，操作系统，使用的设备（台式机，平板电脑，移动设备，电视，汽车，控制台等），品牌和型号.
 * [NaturalSort.Extension](https://github.com/tompazourek/NaturalSort.Extension) -StringComparer的扩展方法，增加了对自然排序的支持（例如，“ abc1”，“ abc2”，“ abc10”而不是“ abc1”，“ abc10”，“ abc2”）.
 * [Coravel](https://github.com/jamesmh/coravel) 几乎为零的.NET Core库使任务调度，缓存，排队，邮件，事件广播（以及更多）变得轻而易举！
+* [Quickenshtein](https://github.com/Turnerj/Quickenshtein) -具有SIMD和线程支持的极其快速且高效存储的Levenshtein距离计算器
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) -用于.NET的简单但功能强大的Web爬网程序库
 
 ## MVVM
@@ -736,7 +737,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [NHibernate](https://github.com/nhibernate) -NHibernate对象关系映射器
 * [Fluent NHibernate](https://github.com/nhibernate/fluent-nhibernate) -NHibernate的流利，少XML，编译安全，基于约定的自动化映射.
 * [FluentMigrator](https://github.com/fluentmigrator/fluentmigrator) -.net的Fluent迁移框架
-* [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) -轻便，简单，快速的基于约定的POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
+* [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
 * [Massive](https://github.com/FransBouma/Massive) -一个小型，快乐的数据访问工具，它将永远爱您.
 * [LINQ to DB](https://github.com/linq2db/linq2db) -最快的LINQ数据库访问库，在POCO对象和数据库之间提供了一个简单，轻便，快速且类型安全的层.
 * [MicroLite ORM](https://github.com/MicroLite-ORM/MicroLite)  MicroLite ORM是.NET框架的微型对象关系映射器. 它的设计易于使用，可扩展和可测试.
@@ -875,7 +876,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Stateless](https://github.com/dotnet-state-machine/stateless) -直接在.NET代码中创建状态机和基于轻量级状态机的工作流
 * [Automatonymous](https://github.com/MassTransit/Automatonymous) -用于.NET的状态机库-允许您编写流畅的样式状态机
 * [Appccelerate - State Machine](https://www.appccelerate.com/statemachine.html) -强大的状态机库-配置有流畅的API以及同步和异步状态转换支持
-* [LiquidState](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+* [LiquidState](https://github.com/prasannavl/LiquidState) -用于.NET的高效异步和同步状态机
 
 ## Static Site Generators
 

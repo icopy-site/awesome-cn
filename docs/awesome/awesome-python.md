@@ -13,7 +13,7 @@
 
 *用于管理界面的库.*
 
-* [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
+* [ajenti](https://github.com/ajenti/ajenti) -您的服务器应有的管理面板.
 * [django-grappelli](https://grappelliproject.com/) -Django Admin-Interface的爵士外观.
 * [django-jet](https://github.com/geex-arts/django-jet) -具有改进功能的Django管理界面的现代响应模板.
 * [django-suit](https://djangosuit.com/) -可选的Django Admin界面（仅用于非商业用途免费）.
@@ -21,7 +21,7 @@
 * [flask-admin](https://github.com/flask-admin/flask-admin) -Flask的简单和可扩展的管理界面框架.
 * [flower](https://github.com/mher/flower) -Celery的实时监控器和Web管理员.
 * [jet-bridge](https://github.com/jet-admin/jet-bridge) -具有良好UI的任何应用程序的管理面板框架（例如Jet Django）
-* [wooey](https://github.com/wooey/wooey) -一个Django应用，可为Python脚本创建自动的Web UI.
+* [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 
 ## Algorithms and Design Patterns
 
@@ -64,7 +64,7 @@
     * [matchering](https://github.com/sergree/matchering) -用于自动参考音频制作的库.
     * [mingus](http://bspaans.github.io/python-mingus/) -带有MIDI文件和播放支持的高级音乐理论和乐谱包.
     * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) -音频特征提取，分类，分段和应用.
-    * [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
+    * [pydub](https://github.com/jiaaro/pydub) -通过简单易用的高级界面处理音频.
     * [TimeSide](https://github.com/Parisson/TimeSide) -开放的Web音频处理框架.
 *元数据
     * [beets](https://github.com/beetbox/beets) -音乐库管理员和 [MusicBrainz](https://musicbrainz.org/) 标签.
@@ -152,7 +152,7 @@
     * [pylint](https://www.pylint.org/) -完全可定制的源代码分析器.
     * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -有史以来最严格，最自以为是的python linter.
 *代码格式化程序
-    * [black](https://github.com/python/black) - The uncompromising Python code formatter.
+    * [black](https://github.com/python/black) -毫不妥协的Python代码格式化程序.
     * [isort](https://github.com/timothycrosley/isort) -用于对导入进行排序的Python实用程序/库.
     * [yapf](https://github.com/google/yapf) -另一个来自Google的Python代码格式化程序.
 *静态类型检查器，另请参见 [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
@@ -169,11 +169,11 @@
 *用于构建命令行应用程序的库.
 
 *命令行应用程序开发
-    * [cement](http://builtoncement.com/) -适用于Python的CLI应用程序框架.
+    * [cement](http://builtoncement.com/) - CLI Application Framework for Python.
     * [click](http://click.pocoo.org/dev/) -用于以可组合方式创建漂亮的命令行界面的软件包.
     * [cliff](https://docs.openstack.org/developer/cliff/) -用于使用多级命令创建命令行程序的框架.
     * [docopt](http://docopt.org/) -Pythonic命令行参数解析器.
-    * [python-fire](https://github.com/google/python-fire) -用于从几乎任何Python对象创建命令行界面的库.
+    * [python-fire](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
     * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) -用于构建功能强大的交互式命令行的库.
 *终端渲染
     * [alive-progress](https://github.com/rsalmei/alive-progress) -一种新型进度栏，具有实时吞吐量，eta和非常酷的动画.
@@ -315,9 +315,11 @@
 * PostgreSQL- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
     * [psycopg2](http://initd.org/psycopg/) -最受欢迎的Python PostgreSQL适配器.
     * [queries](https://github.com/gmr/queries) -psycopg2库的包装，用于与PostgreSQL交互.
+* SQlite- [awesome-sqlite](https://github.com/planetopendata/awesome-sqlite)
+    * [sqlite3](https://docs.python.org/3/library/sqlite3.html) -（Python标准库）符合DB-API 2.0的SQlite接口
+    * [SuperSQLite](https://github.com/plasticityai/supersqlite) -建立在 [apsw](https://github.com/rogerbinns/apsw).
 *其他关系数据库
     * [pymssql](https://pymssql.readthedocs.io/en/latest/) -Microsoft SQL Server的简单数据库接口.
-    * [SuperSQLite](https://github.com/plasticityai/supersqlite) -建立在 [apsw](https://github.com/rogerbinns/apsw).
     * [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) -具有ClickHouse本地接口的Python驱动程序.
 * NoSQL数据库
     * [cassandra-driver](https://github.com/datastax/python-driver) -Apache Cassandra的Python驱动程序.
@@ -361,7 +363,6 @@
 *个人资料
     * [line_profiler](https://github.com/rkern/line_profiler) -逐行分析.
     * [memory_profiler](https://github.com/fabianp/memory_profiler) -监视Python代码的内存使用情况.
-    * [profiling](https://github.com/what-studio/profiling) -交互式Python分析器.
     * [py-spy](https://github.com/benfred/py-spy)  -用于Python程序的采样分析器. 写在锈.
     * [pyflame](https://github.com/uber/pyflame) -用于Python的跟踪分析器.
     * [vprof](https://github.com/nvdv/vprof) -视觉Python分析器.
@@ -611,7 +612,6 @@
 * [GeoIP](https://github.com/maxmind/geoip-api-python) -用于MaxMind GeoIP旧版数据库的Python API.
 * [geojson](https://github.com/frewsxcv/python-geojson) -GeoJSON的Python绑定和实用程序.
 * [geopy](https://github.com/geopy/geopy) -Python地理编码工具箱.
-* [pygeoip](https://github.com/appliedsec/pygeoip) -纯Python GeoIP API.
 
 ## HTML Manipulation
 
@@ -760,8 +760,8 @@
 
 *不属于上述类别的有用的库或工具.*
 
-* [blinker](https://github.com/jek/blinker) -快速的Python处理中信号/事件分配系统.
-* [boltons](https://github.com/mahmoud/boltons) - A set of pure-Python utilities.
+* [blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
+* [boltons](https://github.com/mahmoud/boltons) -一组纯Python实用程序.
 * [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将可信数据传递到不可信环境.
 * [magenta](https://github.com/magenta/magenta) -使用人工智能产生音乐和艺术的工具.
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) -一个简单但灵活的Python插件系统.
@@ -779,12 +779,12 @@
     * [polyglot](https://github.com/aboSamoor/polyglot) -支持数百种语言的自然语言管道.
     * [pytext](https://github.com/facebookresearch/pytext) -基于PyTorch的自然语言建模框架.
     * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) -一个工具包，可用于研究的快速深度学习NLP原型.
-    * [spacy](https://spacy.io/) -使用Python和Cython进行工业强度自然语言处理的库.
+    * [spacy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
     * [Stanza](https://github.com/stanfordnlp/stanza) -Stanford NLP Group的官方Python库，支持60多种语言.
 -中文
     * [funNLP](https://github.com/fighting41love/funNLP) -中文NLP的工具和数据集的集合.
     * [jieba](https://github.com/fxsjy/jieba) -最受欢迎的中文文本分割库.
-    * [pkuseg-python](https://github.com/lancopku/pkuseg-python) - A toolkit for Chinese word segmentation in various domains.
+    * [pkuseg-python](https://github.com/lancopku/pkuseg-python) -用于各个领域的中文分词的工具包.
     * [snownlp](https://github.com/isnowfy/snownlp) -用于处理中文文本的库.
 
 ## Network Virtualization
@@ -811,7 +811,7 @@
     * [SQLAlchemy](https://www.sqlalchemy.org/) -Python SQL工具包和对象关系映射器.
         * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy)
     * [dataset](https://github.com/pudo/dataset) -将Python字典存储在数据库中-与SQLite，MySQL和PostgreSQL一起使用.
-    * [orator](https://github.com/sdispater/orator) -Orator ORM提供了一个简单而美观的ActiveRecord实现.
+    * [orator](https://github.com/sdispater/orator) -  The Orator ORM provides a simple yet beautiful ActiveRecord implementation.
     * [orm](https://github.com/encode/orm) -异步ORM.
     * [peewee](https://github.com/coleifer/peewee) -一个小的，富有表现力的ORM.
     * [pony](https://github.com/ponyorm/pony/) -ORM，提供面向生成器的SQL接口.
@@ -899,7 +899,7 @@
 *金字塔
     * [cornice](https://github.com/Cornices/cornice) -金字塔的RESTful框架.
 *与框架无关
-    * [apistar](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
+    * [apistar](https://github.com/encode/apistar) -为Python 3设计的智能Web API框架.
     * [falcon](https://github.com/falconry/falcon) -用于构建云API和Web应用程序后端的高性能框架.
     * [fastapi](https://github.com/tiangolo/fastapi) -一种现代，快速的Web框架，用于基于标准Python类型提示使用Python 3.6+构建API.
     * [hug](https://github.com/hugapi/hug) -一个用于彻底公开API的Python 3框架.
@@ -916,7 +916,7 @@
 
 ## RPC Servers
 
-*与RPC兼容的服务器.*
+*RPC-compatible servers.*
 
 * [RPyC](https://github.com/tomerfiliba/rpyc) （远程Python调用）-用于Python的透明且对称的RPC库
 * [zeroRPC](https://github.com/0rpc/zerorpc-python) -zerorpc是基于以下内容的灵活RPC实现： [ZeroMQ](http://zeromq.org/) 和 [MessagePack](http://msgpack.org/).
@@ -959,7 +959,7 @@
 
 ## Serialization
 
-*Libraries for serializing complex data types*
+*用于序列化复杂数据类型的库*
 
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) -用于将复杂对象与简单Python数据类型之间来回转换的轻量级库.
 * [pysimdjson](https://github.com/TkTech/pysimdjson) -的Python绑定 [simdjson](https://github.com/lemire/simdjson).
@@ -1105,7 +1105,7 @@
     * [python-slugify](https://github.com/un33k/python-slugify) -Python slugify库，可将unicode转换为ASCII.
     * [unicode-slugify](https://github.com/mozilla/unicode-slugify) -一个slugifier，它以Django为依赖关系生成unicode slug.
 *唯一标识符
-    * [hashids](https://github.com/davidaurelio/hashids-python) -实施 [hashids](http://hashids.org) 在Python中.
+    * [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
     * [shortuuid](https://github.com/skorokithakis/shortuuid) -生成器库，用于生成简洁，明确和URL安全的UUID.
 *解析器
     * [ply](https://github.com/dabeaz/ply) -为Python实现lex和yacc解析工具.
@@ -1211,7 +1211,7 @@
 * [gunicorn](https://github.com/benoitc/gunicorn) -预分叉，部分用C编写.
 * [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) -一个项目旨在使用C语言编写用于构建托管服务的完整堆栈.
 * [waitress](https://github.com/Pylons/waitress) -多线程，为金字塔供电.
-* [werkzeug](https://github.com/pallets/werkzeug) -适用于Python的WSGI实用程序库，可为Flask提供支持，并可轻松将其嵌入到您自己的项目中.
+* [werkzeug](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
 
 ## Resources
 

@@ -78,7 +78,7 @@
 - [gh-home](https://github.com/sindresorhus/gh-home) -在当前目录中打开仓库的GitHub页面.
 - [npm-home](https://github.com/sindresorhus/npm-home) -打开软件包的npm页面.
 - [trash](https://github.com/sindresorhus/trash) -更安全的替代“ rm”.
-- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
+- [speed-test](https://github.com/sindresorhus/speed-test) -测试您的互联网连接速度和ping.
 - [emoj](https://github.com/sindresorhus/emoj) -从命令行中的文本中找到相关的表情符号.
 - [pageres](https://github.com/sindresorhus/pageres) -捕获网站截图.
 - [cpy](https://github.com/sindresorhus/cpy) -复制文件.
@@ -90,7 +90,7 @@
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) -复制并粘贴到终端上.
 - [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 - [Standard](https://github.com/feross/standard) -JavaScript标准样式-一种样式来统治所有样式.
-- [ESLint](https://github.com/eslint/eslint) -用于JavaScript的可插入的linting实用程序.
+- [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) -获取GitHub用户的当前本地时间.
 - [David](https://github.com/alanshaw/david) -告诉您软件包npm依赖项何时过时.
 - [http-server](https://github.com/indexzero/http-server) -简单的零配置命令行HTTP服务器.
@@ -245,7 +245,7 @@
 - [gulp](https://github.com/gulpjs/gulp) -流媒体和快速构建系统，其代码优先于配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) -快速，可靠的资产流水线，支持定期重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) -前端Web应用程序构建工具，具有简单的声明性配置，快速的增量编译和自以为是的工作流程.
-- [Start](https://github.com/deepsweet/start) - Functional task runner with shareable presets.
+- [Start](https://github.com/deepsweet/start) -具有可共享预设的功能任务运行程序.
 - [ygor](https://github.com/shannonmoeller/ygor) -对于&#39;npm run&#39;何时不足以及其他所有内容过多的有希望的任务运行程序.
 - [FuseBox](https://github.com/fuse-box/fuse-box) -快速构建的系统，结合了webpack，JSPM和SystemJS的强大功能，并具有一流的TypeScript支持.
 - [pkg](https://github.com/zeit/pkg) -将您的Node.js项目打包为可执行文件.
@@ -310,7 +310,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除“ rm -rf”之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -稳定来自fs.watch和fs.watchFile的事件以及在macOS上使用本机fsevents的文件系统监视程序.
+- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机fsevents的事件.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -351,7 +351,7 @@
 
 ### Streams
 
-- [through2](https://github.com/rvagg/through2) -围绕streams2的微小包装器进行转换以避免显式的子类化噪声.
+- [through2](https://github.com/rvagg/through2) -围绕streams2的微小包装器.
 - [from2](https://github.com/hughsk/from2) -ReadableStream的便利包装，灵感来自`through2`.
 - [get-stream](https://github.com/sindresorhus/get-stream) -获取流作为字符串或缓冲区.
 - [into-stream](https://github.com/sindresorhus/into-stream) -将缓冲区/字符串/数组/对象转换为流.
@@ -630,6 +630,7 @@
 - [nodeenv](https://github.com/ekalinin/nodeenv) -与Python的virtualenv兼容的Node.js虚拟环境.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) -Windows版本管理.
 - [nodenv](https://github.com/nodenv/nodenv)  -版本管理器，类似于Ruby的rbenv. 它支持自动版本切换.
+- [fnm](https://github.com/Schniz/fnm) -Rust内置的跨平台Node.js版本管理器.
 
 ### Natural language processing
 
@@ -695,7 +696,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) -获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) -获取超级恶名.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) -得到一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄·͈·̑̑ෆ⃛（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ“`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄·͈·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”.
 - [nerds](https://github.com/SkyHacks/nerds) -从诸如哈利·波特，星球大战和神奇宝贝等讨厌的话题中获取数据.
 
 ### Serialization
@@ -791,7 +792,7 @@
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [Nodetuts](http://nodetuts.com) -一系列讲座，包括TCP和HTTP API服务器，异步编程等.
-- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) -谈论V8垃圾收集器.
+- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
 - [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) -Node.js的创建者关于其某些局限性的深刻见解.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) -有关如何使用Node.js制作REST API的视频课程.
 

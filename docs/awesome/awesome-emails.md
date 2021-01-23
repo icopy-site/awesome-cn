@@ -46,6 +46,7 @@
 - [htmlemail](https://htmlemail.io/) -适用于初创公司和开发人员的响应HTML电子邮件模板.
 - [Postmark Transactional Email Templates](https://github.com/wildbit/postmark-templates) -坚固的应用程序电子邮件模板.
 - [Stripo.email](https://stripo.email/templates/) -带有Stripo的丰富的响应式，交互式精美电子邮件模板集.
+- [Postcards](https://designmodo.com/postcards/) -在线设计响应式电子邮件模板，而无需编码知识.
 
 ## Tools
 
@@ -75,11 +76,12 @@
 - [Sendgrid](https://sendgrid.com/) -通过一个可靠的平台传递您的交易和营销电子邮件.
 - [Postal](https://github.com/atech/postal) -用于接收和发送电子邮件的功能齐全的开源邮件传递平台.
 - [SparkPost](https://www.sparkpost.com/) -您应用程序的电子邮件：准时发送至收件箱.
-- [Mautic](https://mautic.com/)  -Mautic营销自动化. 借助易于学习，易于使用且易于迭代的营销自动化，构建更智能的广告系列并更快地构建它们.
+- [Mautic](https://mautic.com/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Mailgun](https://www.mailgun.com/) -针对开发人员的交易电子邮件API服务.
 - [eSputnik](https://esputnik.com/en) -eSputnik是一种行销自动化系统，受到全球3万多忠实客户的信赖，每月发送超过10亿封电子邮件.
 - [Postmark](https://postmarkapp.com)  -闪电般快速地为您的应用程序电子邮件发送邮件. 邮戳每次都会按时将您的交易电子邮件发送给客户
 - [ImprovMX](https://improvmx.com/) -为您的域名创建免费的电子邮件别名.
+- [Reacher](https://reacher.email)  -检查是否存在电子邮件，而不发送任何电子邮件. 用Rust编写，100％开源.
 
 ## Self-Hosted Services
 
@@ -87,9 +89,9 @@
 - [Mail-in-a-box](https://mailinabox.email/) -通过几个简单的步骤，您就可以成为自己的邮件服务提供商.
 - [mailcow](https://mailcow.email/)  -带有“ moo”的邮件服务器套件. 一个易于使用的dockerized自托管电子邮件解决方案.
 - [Mailtrain](https://mailtrain.org/) -建立在Nodemailer之上的自托管新闻通讯应用程序.
-- [Mautic](https://mautic.org/)  -Mautic营销自动化. 借助易于学习，易于使用且易于迭代的营销自动化，构建更智能的广告系列并更快地构建它们.
+- [Mautic](https://mautic.org/) - Mautic Marketing Automation. Build smarter campaigns – and build them faster – with marketing automation that’s quick to learn, simple to use, and easy to iterate.
 - [Modoboa](https://modoboa.org/) -一种解决方案，用于快速部署和管理完整的电子邮件服务器，该服务器与最新标准兼容并且针对传递和声誉保护进行了优化.
-- [Poste.io](https://poste.io/) -内置在一个Docker容器中的完整邮件服务器.
+- [Poste.io](https://poste.io/) -在一个Docker容器中内置的完整邮件服务器.
 - [SimpleLogin](https://github.com/simple-login/app) -自托管的电子邮件别名解决方案.
 
 ## Workflows
@@ -121,6 +123,7 @@
 - [Stripo.email Blog](http://www.emailmonks.com/blog/) -电子邮件营销和电子邮件设计博客.
 - [HTML Email Blog](https://htmlemail.io/blog/)
 - [Build Better Blog](https://blocksedit.com/content-code/) -电子邮件营销中的设计和内容制作
+- [Email Design Blog](https://designmodo.com/design/email-design/) -所有电子邮件极客的文章，教程和灵感.
 
 ## Copy
 
@@ -142,7 +145,6 @@
 - [Really good emails](http://reallygoodemails.com/) -宇宙中最好的电子邮件设计.
 - [Milled](http://milled.com/)
 - [The Top Email Campaigns](https://www.campaignmonitor.com/best-email-marketing-campaigns/) -Campaign Monitor中最有效的电子邮件营销活动.
-- [Mailchimp Inspiration](http://inspiration.mailchimp.com/#all) -Mailchimp美丽的新闻通讯示例.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) -美丽的电子邮件可帮助激发您的下一个电子邮件设计.
 
 ## Statistics
@@ -171,7 +173,7 @@
 
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) -Justine Jordan和Jason Rodriguez的响应式电子邮件课程.
 - [HTML Email Design](http://teamtreehouse.com/library/html-email-design) -MailChimp UX设计师Fabio Carneiro演示了如何从头开始构建功能齐全，对移动设备友好的电子邮件.
-- [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - This series of tutorials will take you through the fundamentals, exploring development techniques, workflow and design approaches.
+- [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) -本系列教程将带您了解基础知识，探索开发技术，工作流程和设计方法.
 - [Building Responsive Email Templates with Ink](https://scotch.io/tutorials/building-responsive-email-templates-with-ink) -使用墨水构建响应式电子邮件模板.
 - [Litmus learning](https://litmus.com/community/learning) -石蕊学习资源.
 
