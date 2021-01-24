@@ -43,6 +43,7 @@
 - [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) -自动为创建为Jupyter笔记本的学生作业评分，并将分数写入Open edX成绩簿中.
 - [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) -通过Edx进行身份验证.
 - [nbautoeval](https://github.com/parmentelat/nbautoeval) -创建自动评估的练习.
+- [nbgitpuller](https://github.com/jupyterhub/nbgitpuller) -将git信息库单向同步到本地路径.
 - [nbgrader](https://github.com/jupyter/nbgrader) -分配和分级Jupyter笔记本.
 - [nbtutor](https://github.com/lgpage/nbtutor) -可视化Python代码执行（逐行）.
 

@@ -554,7 +554,7 @@
 * [grpc-go](https://github.com/grpc/grpc-go)  -gRPC的Go语言实现. 基于HTTP / 2的RPC.
 * [hprose](https://github.com/hprose/hprose-golang) -非常新颖的RPC库，现在支持25种以上的语言.
 * [jsonrpc](https://github.com/osamingo/jsonrpc) -jsonrpc软件包可帮助实现JSON-RPC 2.0.
-* [jsonrpc](https://github.com/ybbus/jsonrpc) - JSON-RPC 2.0 HTTP client implementation.
+* [jsonrpc](https://github.com/ybbus/jsonrpc) -JSON-RPC 2.0 HTTP客户端实现.
 * [KrakenD](https://github.com/devopsfaith/krakend) -具有中间件的超高性能API网关框架.
 * [liftbridge](https://github.com/liftbridge-io/liftbridge) -用于NATS的轻量级，容错消息流.
 * [micro](https://github.com/micro/micro) -适用于云及其他环境的分布式系统运行时.
@@ -589,7 +589,7 @@
 * [chasquid](https://blitiri.com.ar/p/chasquid) -用Go编写的SMTP服务器.
 * [douceur](https://github.com/aymerick/douceur) -用于HTML电子邮件的CSS内衬.
 * [email](https://github.com/jordan-wright/email) -强大而灵活的Go Go电子邮件库.
-* [email-verifier](https://github.com/AfterShip/email-verifier) -用于电子邮件验证的Go库，无需发送任何电子邮件.
+* [email-verifier](https://github.com/AfterShip/email-verifier) - A Go library for email verification without sending any emails.
 * [go-dkim](https://github.com/toorop/go-dkim) -DKIM库，用于签名和验证电子邮件.
 * [go-email-validator](https://github.com/go-email-validator/go-email-validator) -模块化电子邮件验证器，用于语法，一次性，SMTP等检查.
 * [go-imap](https://github.com/emersion/go-imap) -用于客户端和服务器的IMAP库.
@@ -676,7 +676,7 @@
 
 * [accounting](https://github.com/leekchan/accounting) -golang的货币和货币格式.
 * [currency](https://github.com/bojanz/currency) -处理货币金额，提供货币信息和格式.
-* [currency](https://github.com/bnkamalesh/currency) -高性能和准确的货币计算软件包.
+* [currency](https://github.com/bnkamalesh/currency) - High performant & accurate currency computation package.
 * [decimal](https://github.com/shopspring/decimal) -任意精度定点十进制数字.
 * [fastme](https://github.com/newity/fastme) -快速可扩展的匹配引擎Go实现.
 * [go-finance](https://github.com/FlashBoys/go-finance) -Go中的综合金融市场数据.
@@ -817,7 +817,7 @@
 * [routine](https://github.com/x-mod/routine) -具有上下文和支持的例行控制：Main，Go，Pool和一些有用的Executors.
 * [semaphore](https://github.com/kamilsk/semaphore) -基于通道和上下文的带有锁定/解锁操作超时的信号量模式实现.
 * [semaphore](https://github.com/marusama/semaphore) -基于CAS的快速可调整大小的信号量实现（比基于通道的信号量实现更快）.
-* [stl](https://github.com/ssgreg/stl) -基于软件交易内存（STM）并发控制机制的软件交易锁.
+* [stl](https://github.com/ssgreg/stl) - Software transactional locks based on Software Transactional Memory (STM) concurrency control mechanism.
 * [threadpool](https://github.com/shettyh/threadpool) -Golang线程池实现.
 * [tunny](https://github.com/Jeffail/tunny) -Golang的Goroutine池.
 * [worker-pool](https://github.com/vardius/worker-pool) -goworker是Go简单的异步工作程序池.
@@ -1072,10 +1072,10 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Benthos](https://github.com/Jeffail/benthos) -一系列协议之间的消息流桥.
 * [Bus](https://github.com/mustafaturan/bus) -用于内部通信的极简消息总线实现.
 * [Centrifugo](https://github.com/centrifugal/centrifugo) -Go中的实时消息传递（Websockets或SockJS）服务器.
-* [Commander](https://github.com/jeroenrinzema/commander) - A high-level event driven consumer/producer supporting various "dialects" such as Apache Kafka.
+* [Commander](https://github.com/jeroenrinzema/commander) -由事件驱动的高级消费者/生产者，支持各种“方言”，例如Apache Kafka.
 * [Confluent Kafka Golang Client](https://github.com/confluentinc/confluent-kafka-go) -confluent-kafka-go是Confluent的Apache Kafka和Confluent平台的Golang客户端.
 * [dbus](https://github.com/godbus/dbus) -用于D-Bus的Native Go绑定.
-* [drone-line](https://github.com/appleboy/drone-line) - Sending [Line](https://at.line.me/en) 使用二进制，泊坞窗或Drone CI的通知.
+* [drone-line](https://github.com/appleboy/drone-line) -正在发送 [Line](https://at.line.me/en) 使用二进制，泊坞窗或Drone CI的通知.
 * [emitter](https://github.com/olebedev/emitter) -使用Go方式发出事件，并使用通配符，谓词，取消可能性和许多其他好的胜利.
 * [event](https://github.com/agoalofalife/event) -模式观察器的实现.
 * [EventBus](https://github.com/asaskevich/EventBus) -具有异步兼容性的轻量级事件总线.
@@ -1152,6 +1152,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) -Go应用样板模板，用于遵循生产最佳实践的快速启动项目.
 * [go-sample](https://github.com/zitryss/go-sample) -具有实际代码的Go应用程序项目的示例布局.
 * [go-todo-backend](https://github.com/Fs02/go-todo-backend) -使用产品微服务的模块化项目布局的Go Todo Backend示例.
+* [gobase](https://github.com/wajox/gobase) -用于golang应用程序的简单框架，具有用于实际golang应用程序的基本设置.
 * [golang-standards/project-layout](https://github.com/golang-standards/project-layout) -Go生态系统中常见的历史和新兴项目布局模式集.
 * [golang-templates/seed](https://github.com/golang-templates/seed) -转到应用程序GitHub存储库模板.
 * [modern-go-application](https://github.com/sagikazarmark/modern-go-application) -进行应用样板和应用现代实践的示例.
@@ -1339,7 +1340,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [gentleman](https://github.com/h2non/gentleman) -功能齐全的插件驱动的HTTP客户端库.
 * [go-http-client](https://github.com/bozd4g/go-http-client) -轻松简单地拨打http.
 * [grequests](https://github.com/levigross/grequests) -著名的Requests库的Go“克隆”.
-* [heimdall](https://github.com/gojektech/heimdall) - An enchanced http client with retry and hystrix capabilities.
+* [heimdall](https://github.com/gojektech/heimdall) -具有重试和hystrix功能的增强型http客户端.
 * [httpretry](https://github.com/ybbus/httpretry) -通过重试功能丰富了默认的go HTTP客户端.
 * [pester](https://github.com/sethgrid/pester) -通过重试，退避和并发进行HTTP客户端调用.
 * [request](https://github.com/monaco-io/request)  -用于golang的HTTP客户端. 如果您有关于axios或请求的经验，则会喜欢的. 没有第三种依赖.
@@ -1844,7 +1845,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [TripAdvisor](https://github.com/mrbenosborne/tripadvisor-golang) -为TripAdvisor API进行包装.
 * [tumblr](https://github.com/mattcunningham/gumblr) -封装Tumblr v2 API.
 * [twitter-scraper](https://github.com/n0madic/twitter-scraper) -删除没有身份验证和限制的Twitter Frontend API.
-* [uptimerobot](https://github.com/bitfield/uptimerobot) -Uptime Robot v2 API的包装器和命令行客户端.
+* [uptimerobot](https://github.com/bitfield/uptimerobot) - Go wrapper and command-line client for the Uptime Robot v2 API.
 * [vl-go](https://github.com/verifid/vl-go) -围绕VerifID身份验证层API的客户端库.
 * [webhooks](https://github.com/go-playground/webhooks) -适用于GitHub和Bitbucket的Webhook接收器.
 * [wit-go](https://github.com/wit-ai/wit-go) -使用wit.ai HTTP API的客户端.
@@ -1856,7 +1857,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 *使您的生活更轻松的通用工具和工具.*
 
 * [apm](https://github.com/topfreegames/apm) -具有HTTP API的Golang应用程序的进程管理器.
-* [backscanner](https://github.com/icza/backscanner) - A scanner similar to bufio.Scanner, but it reads and returns lines in reverse order, starting at a given position and going backward.
+* [backscanner](https://github.com/icza/backscanner) -类似于bufio.Scanner的扫描仪，但是它以相反的顺序读取和返回行，从给定位置开始并向后移动.
 * [beyond](https://github.com/wesovilabs/beyond) -Go工具将带您进入AOP世界！
 * [blank](https://github.com/Henry-Sarabia/blank) -验证或删除字符串中的空格和空格.
 * [bleep](https://github.com/sinhashubham95/bleep) -在Go中对任意一组OS信号执行任意数量的操作.
@@ -2076,7 +2077,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go-json-rest](https://github.com/ant0ine/go-json-rest) -设置RESTful JSON API的快速简便方法.
 * [go-rest](https://github.com/ungerik/go-rest) -Go的小巧的REST框架.
 * [Goa](https://github.com/goadesign/goa) -Goa提供了用于在Go中开发远程API和微服务的整体方法.
-* [goa](https://github.com/goa-go/goa) - goa is just like koajs for golang, it is a flexible, light, high-performance and extensible web framework based on middleware.
+* [goa](https://github.com/goa-go/goa) -goa就像golang的koajs一样，它是一个基于中间件的灵活，轻便，高性能和可扩展的Web框架.
 * [Golax](https://github.com/fulldump/golax) -非Sinatra快速HTTP框架，支持Google自定义方法，深度拦截器，递归等.
 * [Golf](https://github.com/dinever/golf)  -Golf是Go的快速，简单和轻量级的微型Web框架. 它具有强大的功能，除了Go Standard Library外没有其他依赖项.
 * [Gondola](https://github.com/rainycape/gondola) -用于更快地编写网站的Web框架.
@@ -2121,7 +2122,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [alice](https://github.com/justinas/alice) -Go的无痛中间件链接.
 * [catena](https://github.com/codemodus/catena) -http.Handler包装器分类（与“链”相同的API）.
 * [chain](https://github.com/codemodus/chain) 处理程序包装器链与范围内的数据（基于网络/上下文的“中间件”）.
-* [go-wrap](https://github.com/go-on/wrap) -用于net / http的小型中间件软件包.
+* [go-wrap](https://github.com/go-on/wrap) - Small middlewares package for net/http.
 * [gores](https://github.com/alioygur/gores)  -处理HTML，JSON，XML等响应的Go包. 对于RESTful API很有用.
 * [interpose](https://github.com/carbocation/interpose) -用于golang的极简net / http中间件.
 * [mediary](https://github.com/HereMobilityDevelopers/mediary) -将拦截器添加到“ http.Client”中，以允许转储/整形/跟踪/ ...请求/响应.
@@ -2283,12 +2284,12 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [DepCharge](https://github.com/centerorbit/depcharge) -帮助协调跨大型项目中许多依赖项的命令执行.
 * [Dockerfile-Generator](https://github.com/ozankasikci/dockerfile-generator) -一个go库和一个可执行文件，可使用各种输入通道生成有效的Dockerfile.
 * [dogo](https://github.com/liudng/dogo) -监视源文件中的更改，并自动编译和运行（重新启动）.
-* [drone-jenkins](https://github.com/appleboy/drone-jenkins) -使用二进制文件，泊坞窗或Drone CI触发下游Jenkins作业.
+* [drone-jenkins](https://github.com/appleboy/drone-jenkins) - Trigger downstream Jenkins jobs using a binary, docker or Drone CI.
 * [drone-scp](https://github.com/appleboy/drone-scp) -使用二进制文件，docker或Drone CI通过SSH复制文件和工件.
 * [Dropship](https://github.com/chrismckenzie/dropship) -通过CDN部署代码的工具.
 * [easyssh-proxy](https://github.com/appleboy/easyssh-proxy) -Golang软件包，可通过SSH和SCP通过“ ProxyCommand”下载轻松实现远程执行.
 * [fac](https://github.com/mkchoi212/fac) -修复git合并冲突的命令行用户界面.
-* [gaia](https://github.com/gaia-pipeline/gaia) -以任何编程语言构建强大的管道.
+* [gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 * [Gitea](https://github.com/go-gitea/gitea) -Gogs的叉子，完全由社区驱动.
 * [gitea-github-migrator](https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator) -将所有GitHub存储库，问题，里程碑和标签迁移到Gitea实例.
 * [go-furnace](https://github.com/go-furnace/go-furnace)  -用Go编写的托管解决方案. 在AWS，GCP或DigitalOcean上轻松部署应用程序.
@@ -2303,8 +2304,9 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [grapes](https://github.com/yaronsumel/grapes) -轻巧的工具，旨在通过ssh轻松分发命令.
 * [GVM](https://github.com/moovweb/gvm) -GVM提供了管理Go版本的界面.
 * [Hey](https://github.com/rakyll/hey) -嘿，这是个很小的程序，它将一些负载发送到Web应用程序.
+* [httpref](https://github.com/dnnrly/httpref) -httpref是用于HTTP方法，状态代码，标头以及TCP和UDP端口的便捷CLI参考.
 * [jcli](https://github.com/jenkins-zh/jenkins-cli) -Jenkins CLI使您可以轻松管理Jenkins.
-* [kala](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
+* [kala](https://github.com/ajvb/kala) -简单，现代，高效的工作计划程序.
 * [kcli](https://github.com/cswank/kcli) -用于检查kafka主题/分区/消息的命令行工具.
 * [kubernetes](https://github.com/kubernetes/kubernetes) -来自Google的Container Cluster Manager.
 * [lstags](https://github.com/ivanilves/lstags) -跨不同注册表同步Docker映像的工具和API.

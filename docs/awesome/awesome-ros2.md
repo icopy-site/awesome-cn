@@ -52,6 +52,10 @@
 - [LGSVL](https://www.lgsvlsimulator.com/) -仿真软件，可加速安全无人驾驶汽车的开发.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) -这是用于Unity中机器人仿真的工具，教程，资源和文档的中央存储库.
 
+### Interactivity
+
+- [Jupyter ROS2](https://github.com/zmk5/jupyter-ros2) -Jupyter ROS2的小部件助手.
+
 ### Penetration testing
 
 - [aztarna](https://github.com/aliasrobotics/aztarna) -机器人的足迹工具.
@@ -61,7 +65,7 @@
 
 - [Apex.Autonomy](https://www.apex.ai/apex-autonomy) -Apex.Autonomy提供自治算法作为单独的构建基块，并且与Autoware.Auto兼容.
 - [Autoware.Auto](https://www.autoware.auto/) Autoware.Auto为自动驾驶技术提供了基于ROS 2的开源软件堆栈.
-- [ros2_control](https://github.com/ros-controls/ros2_control) -`ros2_control`是关于如何在机器人控制（ros2_controllers）的上下文中阐述和使用ROS 2中新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
+- [ros2_control](https://github.com/ros-controls/ros2_control) -“ ros2_control”是关于如何在机器人控制（ros2_controllers）的上下文中阐述和使用ROS 2中新功能的概念证明. ![ros2_control](https://img.shields.io/github/stars/ros-controls/ros2_control.svg)
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) -ros_controllers的说明. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) -一组ROS软件包，用于跟踪坐标变换. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [ros2-ORB_SLAM2](https://github.com/alsora/ros2-ORB_SLAM2) -ROS2节点包装了ORB_SLAM2库. ![ros2-ORB_SLAM2](https://img.shields.io/github/stars/alsora/ros2-ORB_SLAM2.svg)
@@ -156,7 +160,7 @@
 
 - [rcl](https://github.com/ros2/rcl) -支持特定语言的ROS客户端库的实现的库. ![rcl](https://img.shields.io/github/stars/ros2/rcl.svg)
 - [system_tests](https://github.com/ros2/system_tests) -测试rclcpp和rclpy. ![system_tests](https://img.shields.io/github/stars/ros2/system_tests.svg)
-- [rcl_interfaces](https://github.com/ros2/rcl_interfaces) - A repository for messages and services used by the ROS client libraries. ![rcl_interfaces](https://img.shields.io/github/stars/ros2/rcl_interfaces.svg)
+- [rcl_interfaces](https://github.com/ros2/rcl_interfaces) -ROS客户端库使用的消息和服务的存储库. ![rcl_interfaces](https://img.shields.io/github/stars/ros2/rcl_interfaces.svg)
 
 ### IDL generators
 
@@ -189,7 +193,7 @@
 - [OpenSplice](https://github.com/ADLINK-IST/opensplice) -实施OMG DDS标准. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) ：heavy_dollar_sign：
 - [CoreDX DDS](http://www.twinoakscomputing.com/coredx) -Twin Oaks Computing，Inc.的实现：heavy_dollar_sign：
 - [freertps](https://github.com/ros2/freertps) -免费，可移植，极简，正在进行的RTPS实施. ![freertps](https://img.shields.io/github/stars/ros2/freertps.svg)
-- [cdds](https://github.com/atolab/cdds) - Cyclone DDS is developed completely in the open and is undergoing the acceptance process to become part of Eclipse IoT. ![cdds](https://img.shields.io/github/stars/atolab/cdds.svg)
+- [cdds](https://github.com/atolab/cdds) -Cyclone DDS完全是公开开发的，正在接受验收过程，成为Eclipse IoT的一部分. ![cdds](https://img.shields.io/github/stars/atolab/cdds.svg)
 - [Micro-XRCE-DDS)](https://github.com/eProsima/Micro-XRCE-DDS) -XRCE DDS实现（由microROS支持）. ![Micro-XRCE-DDS](https://img.shields.io/github/stars/eProsima/Micro-XRCE-DDS.svg)
 
 ### Build system (Linux)
@@ -307,7 +311,7 @@
 -在基于嵌入式异构平台的混合关键机器人系统上集成ROS和ROS2
 -迈向ROS 2微控制器元交叉编译
 -支持ROS 2.0的Node.js客户端和Web Bridge
--RCLAda：ROS2的Ada客户端库
+- RCLAda: the Ada client library for ROS2
 
 ### Embedded World Conference 2018 
 
@@ -380,7 +384,7 @@ DDS安全性.
 - [ADLINK](https://www.adlinktech.com/en/index.aspx) -“前沿计算”.
 - [Alias Robotics](https://aliasrobotics.com/) -机器人网络安全范围内的产品和服务.
 - [Amazon](https://github.com/aws-robotics) -亚马逊Amazon Web Services（AWS）的机器人团队.
-- [Apex.AI](https://www.apex.ai/) -“用于自动出行的安全且经过认证的软件”.
+- [Apex.AI](https://www.apex.ai/) - "Safe and certified software for autonomous mobility".
 - [AutonomouStuff](https://autonomoustuff.com) -“自治系统和解决方案的世界领导者”.
 - [Bosch](https://github.com/boschresearch) -博世研究机器人团队.
 - [Canonical](https://canonical.com/) -Ubuntu背后的公司.

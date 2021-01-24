@@ -54,7 +54,6 @@
 - [vast](https://github.com/lydiandy/vast) -一个简单的vlang工具，可将v源文件生成为AST json文件.
 - [symlinker](https://github.com/serkonda7/symlinker) -用于管理符号链接的小型Linux工具.
 - [runner](https://github.com/Naheel-Azawy/runner) -一种工具，用于自动运行/编译以各种编程语言编写的代码.
-- [props](https://github.com/StunxFS/props) -属性支持，例如Java forV.
 
 ### Project management
 
@@ -80,6 +79,7 @@
 - [crayon](https://github.com/thecodrr/crayon)  -画出像毕加索一样的终端输出.  ️
 - [cjson](https://github.com/lydiandy/cjson) -将cJSON包装为vlang.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) -用V编写的ASCII机器人生成器.
+- [props](https://github.com/StunxFS/props) -属性支持，例如Java forV.
 
 ### Graphics
 
@@ -101,6 +101,7 @@
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  -V的内置Web框架. 由Vorum使用.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) -用V编写的基本JSON-RPC 2.0兼容服务器.
 - [pico.v](https://github.com/S-YOU/pico.v) -V中基于picoev和picohttpparser的Web服务器.
+- [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) -用于vweb的简约Xbox Live身份验证器.
 
 ### Database clients
 

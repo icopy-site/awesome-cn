@@ -190,6 +190,7 @@
 -  [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) -使用Tailwind CSS自定义表单的刀片表单组件.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) -生成Tailwind类的ReasonML实用程序.
 -  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
+-  [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) -Tailwind CSS的插件脚手架.
 -  [Maizzle](https://maizzle.com/) -使用Tailwind CSS快速进行电子邮件原型制作的框架.
 -  [Tailwind Cheat Sheet](http://nerdcave.com/tailwind-cheat-sheet) -Tailwind CSS类名称备忘单.
 -  [Tailwind Cheat Sheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/tailwind.css) -尾风CSS类名称在一个文件中.

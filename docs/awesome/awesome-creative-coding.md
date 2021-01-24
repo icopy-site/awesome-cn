@@ -5,7 +5,7 @@
 
 &gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要用于初学者/中级的资源.
 
-创意编码是与编程系统不同的学科. 我们的目标是创建具有表现力的东西，而不是功能性的东西.  **互动设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表达为编码的艺术品**.
+创意编码是与编程系统不同的学科. 我们的目标是创建具有表现力的东西，而不是功能性的东西.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表达为编码的艺术品.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在捐款之前.*
 
@@ -122,7 +122,7 @@
 - [Isadora](https://troikatronix.com) [跨平台]-具有集成投影映射器的基于场景的媒体控制软件.
 - [cables](https://cables.gl)  [跨平台/ Web]-用于创建漂亮的交互式内容的模型套件. 当前处于私人Beta版，可以请求邀请.
 - [eternal](https://github.com/kousun12/eternal) [Web]-程序作为图形，图形作为合成工具
-- [Notch Builder](https://www.notch.one)  [Win]-基于节点的创作工具，重点关注实时图形. 目前处于测试阶段.
+- [Notch Builder](https://www.notch.one) [Win] - Node-based authoring tool with a strong focus on real-time graphics. Currently in beta.
 - [Synopsis](https://synopsis.video/) -一套用于计算摄影的开源软件.
 - [JOY.JS](https://ncase.me/joy/) -实时视觉编码工具，易于理解，针对初学者.
 - [Pixel Nodes](https://pixelnodes.app/) [iPad]-由PixelKit支持的实时图形节点编辑器.
@@ -249,13 +249,13 @@
 ### Talks
 
 - [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) -使用three.js简介WebGL.
-- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Íñigo Quílez.
+- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) -收录ÍñigoQuílez提供的实时编码视频.
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -Bruno Imbrizi在WebExpo 2016上使用画布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) -滑过 [@williamapan](https://twitter.com/williamapan) 从他在Gobelins的创意开发者工作室获得.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
-- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
+- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -史蒂文·维滕斯（Steven Wittens）谈WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -Matt DesLauriers的FITC谈谈他对艺术创作的热情.
 
@@ -479,7 +479,6 @@
 ## Events
 
 - [OFFF Festival](http://offf.barcelona/) -数字设计节（*在线Flash电影节*）.
-- [Resonate](http://resonate.io/) -在贝尔格莱德（Belgrade）从事有关前沿音乐，视觉艺术和数字文化的活动.
 - [Gray Area Festival](http://grayareafestival.io/) -创意编码，艺术和技术节.
 - [Signal Festival](http://www.signalfestival.com/) -在捷克共和国布拉格展示轻艺术和新兴技术.
 - [Eyeo Festival](http://eyeofestival.com/) -将从事数据，艺术和技术交汇的创意编码人员，数据设计师和创作者召集在一起.

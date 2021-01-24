@@ -39,6 +39,9 @@
   - [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 - [ORM](https://github.com/encode/orm) -异步ORM.
 - [ormar](https://collerek.github.io/ormar/fastapi/) -适用于Python的异步迷你ORM.
+- [Piccolo](https://github.com/piccolo-orm/piccolo) -异步ORM和查询生成器，支持Postgres和SQLite，并带有电池（迁移，安全性等）.
+  - [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples) -在Piccolo中使用FastAPI.
+  - [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) -使用Piccolo ORM的功能强大且现代的管理GUI.
 
 
 #### Query Builders
@@ -82,7 +85,7 @@
 - [FastAPI Plugins](https://github.com/madkote/fastapi-plugins) -Redis和Scheduler插件.
 - [FastAPI ServiceUtils](https://github.com/skallfass/fastapi_serviceutils) -用于创建API服务的生成器.
 - [FastAPI SocketIO](https://github.com/pyropy/fastapi-socketio) -轻松集成FastAPI和SocketIO.
-- [FastAPI Utilities](https://github.com/dmontagu/fastapi-utils) -可重用的实用程序：基于类的视图，推断路由器，周期性任务，定时中间件，SQLAlchemy会话，OpenAPI规范简化.
+- [FastAPI Utilities](https://github.com/dmontagu/fastapi-utils) -可重用的实用程序：基于类的视图，推理路由器，周期性任务，定时中间件，SQLAlchemy会话，OpenAPI规范简化.
 - [Prerender Python Starlette](https://github.com/BeeMyDesk/prerender-python-starlette) -用于Prerender的Starlette中间件.
 - [Prometheus FastAPI Instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) -适用于FastAPI应用程序的可配置模块化Prometheus Instrumentator.
 - [SlowApi](https://github.com/laurents/slowapi) -速率限制器（基于 [Flask-Limiter](https://flask-limiter.readthedocs.io)).
@@ -102,7 +105,6 @@
 
 ### External Resources
 
-- [Medium FastAPI](https://medium.com/fastapi) -与FastAPI相关的中级帖子的中心位置.
 - [TestDriven.io FastAPI](https://testdriven.io/blog/topics/fastapi/) -多个特定于FastAPI的文章，着重于开发和测试可用于生产环境的RESTful API，服务于机器学习模型等.
 
 ### Podcasts
@@ -122,12 +124,12 @@
 - [Deploying Iris Classifications with FastAPI and Docker](https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a) -Docker化FastAPI应用程序.
 - [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) -使用Test-Driven Development使用FastAPI，Postgres，Pytest和Docker开发和测试异步API.
 - [FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/) -通过与Flask的并行代码比较来学习FastAPI.
-- [FastAPI Microservice Patterns](https://medium.com/fastapi/fastapi-microservice-patterns-3052c1241019) -具有微服务模式的示例性实现的博客文章系列.
-  - [Local Development Environment](https://medium.com/fastapi/fastapi-microservice-patterns-local-development-environment-12182e786f1c) -简而言之，Skaffold，docker，kubectl和minikube.
-  - [Service discovery in Container Orchestration Platforms](https://medium.com/fastapi/fastapi-microservice-patterns-service-discovery-in-container-orchestration-platforms-290c00d1ad8) -说明了如何在Kubernetes中启用FastAPI服务通信.
-  - [Asynchronous Communication](https://medium.com/fastapi/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8) -通过消息启用松散耦合的服务.
-  - [Application Monitoring](https://medium.com/fastapi/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) -使用Prometheus和Grafana进行应用程序指标监视.
-  - [Serverless Deployment](https://medium.com/fastapi/fastapi-microservice-serverless-deployment-41a6d21e5cb3) -关于FastAPI和Kubernetes原生FaaS平台之间的兼容性的当前状态.
+- [FastAPI Microservice Patterns](https://florian-kromer.medium.com//fastapi-microservice-patterns-3052c1241019) -具有微服务模式的示例性实现的博客文章系列.
+  - [Local Development Environment](https://florian-kromer.medium.com/fastapi-microservice-patterns-local-development-environment-12182e786f1c) -简而言之，Skaffold，docker，kubectl和minikube.
+  - [Service discovery in Container Orchestration Platforms](https://florian-kromer.medium.com/fastapi-microservice-patterns-service-discovery-in-container-orchestration-platforms-290c00d1ad8) -说明了如何在Kubernetes中启用FastAPI服务通信.
+  - [Asynchronous Communication](https://florian-kromer.medium.com/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8) -通过消息启用松散耦合的服务.
+  - [Application Monitoring](https://medium.com/swlh/fastapi-microservice-patterns-application-monitoring-49fcb7341d9a) -使用Prometheus和Grafana进行应用程序指标监视.
+  - [Serverless Deployment](https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3) -关于FastAPI和Kubernetes原生FaaS平台之间的兼容性的当前状态.
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) -通过基于Web的API部署机器学习模型.
 - [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) -说明如何使用OpenTelemetry和Datadog / Jaeger实施应用程序性能监视（APM）.
 - [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) -FastAPI应用程序和服务结构，可维护性更高的代码库.
@@ -145,7 +147,7 @@
 
 ### Videos
 
-- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) -使用FastAPI构建基于Web的股票筛选器后，将向您介绍FastAPI的许多功能，包括pydantic模型，依赖项注入，后台任务和SQLAlchemy集成.
+- [Building a Stock Screener with FastAPI](https://www.youtube.com/watch?v=5GorMC2lPpk) -使用FastAPI构建基于Web的股票筛选器时，将向您介绍FastAPI的许多功能，包括pydantic模型，依赖项注入，后台任务和SQLAlchemy集成.
 - [Building Web APIs Using FastAPI](https://www.youtube.com/watch?v=Pe66M8mn-wA) -使用FastAPI构建Web应用程序编程接口（RESTful API）.
 - [FastAPI - A Web Framework for Python](https://www.youtube.com/watch?v=PUhio8CprhI&list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) -了解如何使用FastAPI进行数值验证.
 - [FastAPI vs. Django vs. Flask](https://www.youtube.com/watch?v=9YBAOYQOzWs)  -哪种框架最适合2020年的Python？ 哪个使用异步/等待最好？ 哪个最快？ 

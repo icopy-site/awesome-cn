@@ -55,7 +55,7 @@
 
 - [CacheTuner](https://github.com/KayeeNL/CacheTuner) -该模块是Sitecore缓存指南中给出的规则的实现.
 - [Cache-Processing-Instance](https://github.com/ParTech/Cache-Processing-Instance) -专用HTML缓存处理实例的概念证明.
-- [ExperienceEditorCache](https://github.com/marek-musielak/Skillcore.ExperienceEditorCache) -缓存模块，使使用Sitecore Experience Editor的工作更加愉快.
+- [ExperienceEditorCache](https://github.com/marek-musielak/Skillcore.ExperienceEditorCache) - A caching module which makes working with Sitecore Experience Editor more pleasant.
 - [ManualHtmlCacheClearer](https://github.com/TwentyGotoTen/ManualHtmlCacheClearer) -从Sitecore客户端清除本地和远程实例上的特定HTML缓存.
 - [CacheCounters](https://github.com/matthewkenny/CacheCounters) -将Sitecore缓存大小信息报告给Windows性能计数器.
 - [Sitecore Rules-Based Output Caching](https://github.com/zkniebel/Sitecore-Advanced-Output-Caching) -提供基于规则的Sitecore输出缓存差异支持，从而实现个性化组件和其他需要更复杂的缓存差异逻辑的组件的缓存.
@@ -77,6 +77,7 @@
 
 - [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) -Sitecore 10 *最新版本的官方Docker Examples图像，包括“入门” XP0容器环境.
 - [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform)  -使用SXA 10.0的最新XP 10.0演示. 它只能部署在Docker容器中.
+- [Sitecore MVP](https://github.com/Sitecore/MVP-Site) -使用Sitecore 10和SXAworking在容器中构建的真实Sitecore MVP网站的源代码.
 - [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) -为Sitecore的最新版本构建自己的Docker映像.
 - [Packer for Sitecore](https://github.com/asmagin/sitecore-packer) -存储库包含适用于Windows上的IIS和SQL Server的本地Sitecore托管环境的Packer模板，SOLR和Sitecore 9.0，用于为Chef设置的VirtualBox构建虚拟机映像和Vagrant框.
 - [Docker SOLR with SSL](https://github.com/LaubPlusCo/docker-solr-ssl) -一个简单的设置，使用生成的证书在运行带有SSL的solr的主机上设置Linux容器.
@@ -87,7 +88,7 @@
 - [Sitecore Content Hub Importer](https://github.com/vasiliyfomichev/content-hub-importer)  -Sitecore内容中心资产导入器； 允许将图像资产从各种数据源导入Sitecore内容中心.
 - [schguild](https://github.com/sitecoreguild/schguild) - Provides tools and sample code to help you in learning and working with Sitecore Content Hub.
 - [Sitecore.ContentHub.Twitter](https://github.com/josedbaez/Sitecore.ContentHub.Twitter) -演示如何从Sitecore Content Hub CMP进行鸣叫.
-- [Sitecore.SharedSource.CMP.Connector.Extensions](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) - Extends Sitecore Connect for Sitecore CMP 2.0.0 so images set on CMP entities can be synchronised using the xml format used by Sitecore Connect™ for Sitecore DAM 2.0.0, so this module is required.
+- [Sitecore.SharedSource.CMP.Connector.Extensions](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) -扩展了适用于Sitecore CMP 2.0.0的Sitecore Connect，因此可以使用Sitecore Connect™用于Sitecore DAM 2.0.0的xml格式同步在CMP实体上设置的图像，因此此模块是必需的.
 
 
 - [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons)  -实现Linq扩展，以便能够查询在solr索引中拦截GeoJson多边形的点. 该演示提供了一个具有空间字段的模板，以及一些示例项目以及来自opentreetmap的多边形（覆盖了一些城市）. 以及控制器渲染，该渲染从查询字符串中读取lat和lng并返回找到的项目的多边形（例如，大本钟的坐标返回伦敦）.
@@ -135,7 +136,7 @@
 - [Sitecore.Foundation.Fields](https://github.com/MartinMiles/Sitecore.Foundation.Fields) -可供您与Sitecore解决方案一起使用的自定义字段的集合.
 - [LinkList](https://github.com/josedbaez/Monoco.CMS.FieldTypes) -Sitecore LinkList字段类型.
 - [CrossDatabaseTreeListField](https://github.com/ivansharamok/CrossDatabaseTreeListField) -扩展的Treelist字段，以支持跨数据库引用.
-- [LimitedText Field](https://github.com/ParTech/LimitedText-Field-Controls)  -将两种新的字段类型添加到Sitecore内容编辑器中，“单行文字限制”和“多行文字限制”. 两者都继承了现有文本字段控件的所有功能，并添加了配置该字段的最大允许值的可能性，还向用户通知了在编辑时剩余字符的数量.
+- [LimitedText Field](https://github.com/ParTech/LimitedText-Field-Controls)  -将两种新的字段类型添加到Sitecore内容编辑器中，“单行文字限制”和“多行文字限制”. 两者都继承了现有文本字段控件的所有功能，并添加了配置字段最大允许值的可能性，还向用户通知了在编辑时剩余字符的数量.
 - [CustomFields](https://github.com/AlexanderDavyduk/CustomFields) -选择NameValueDropLists，NameValueDropListsField，NameValueDroplist，NameValueDroplistField，SortableMultilist，SortableMultilistField，TimeZonesDropList字段.
 - [YouTube Video Picker Field](https://github.com/pveller/BrainJocks.YouTubeVideoField) -适用于Sitecore的YouTube视频选择器字段的完全可行的解决方案.
 - [Hide Dependent Fields Controls](https://github.com/jammykam/Hide-Dependent-Fields)  -将新的Checkbox，Droplist和Droplink字段类型添加到Sitecore内容编辑器，这取决于所选值将隐藏后续的同级字段. 所有控件均从其等效的Sitecore对应控件继承并添加所需的UI增强功能.
@@ -196,7 +197,7 @@
 - [Media-Framework-Brightcove-Edition](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) -适用于Sitecore Media Framework的Brightcove连接器.
 - [YouTube Integration module](https://github.com/ivansharamok/YouTube-Integration)  -在您的网站上以简单的方式显示来自YouTube频道的视频，YouTube集成模块可能正是您所需要的. 在媒体库中，您有一个YouTube文件夹，并且通过键入频道名称，该频道中的所有视频现在都由一个项目表示，当您在频道中创建新视频时，它会自动更新媒体库中的频道.
 - [Shrink](https://github.com/robhabraken/shrink) -类似于硬盘驱动器的磁盘使用情况统计信息查看器，可让您更深入地了解媒体库的使用情况，还可以显示实际正在使用和发布的项目，因此您可以轻松地找到不必要地占用数据库空间的媒体项目，为您提供清理媒体库的多种方式！
-- [Dianoga](https://github.com/kamsar/Dianoga)  -Sitecore媒体库的自动图像优化器，完全自动将Sitecore提供的图像尺寸减少了8-70％. 当请求媒体图像时，Dianoga将图像数据放入Sitecore媒体缓存后，它会立即在图像数据上自动运行mozjpeg，PNGOptimizer，SVGO或WebP.
+- [Dianoga](https://github.com/kamsar/Dianoga)  -Sitecore媒体库的自动图像优化器，完全自动将Sitecore提供的图像尺寸减少了8-70％. 当请求媒体图像时，Dianoga将图像数据放入Sitecore媒体缓存后，会立即对其图像数据自动运行mozjpeg，PNGOptimizer，SVGO或WebP.
 
 ## ORM
 
@@ -204,7 +205,7 @@
 - [TemplateModelHelper](https://github.com/lowedown/TemplateModelHelper) -用于生成的Sitecore模板模型（通过Glass.Mapper或其他框架进行映射）的辅助方法，其主要目标是使开发人员可以轻松地使用生成的模板模型查询Sitecore数据库.
 - [TDS-T4-Model-Generation](https://github.com/Sitecore/TDS-T4-Model-Generation) -TDS的T4模型生成.
 - [Sitecore.CodeGenerator](https://github.com/ParTech/sitecore.codegenerator) -使用不带TDS的T4模板生成Glass Mapper界面.
-- [Synthesis](https://github.com/blipson89/Synthesis)  -Sitecore的对象映射框架，与传统的Sitecore开发相比，它可以在更短的时间内开发出更可靠和可维护的网站. 它是一种强类型的模板对象生成器，对于具有Sitecore或传统.NET背景的开发人员而言，它很容易理解. 它与Sitecore MVC巧妙地集成在一起（通过Synthesis.Mvc程序包），作为View渲染模型提供程序和IoC控制器渲染的依赖项.
+- [Synthesis](https://github.com/blipson89/Synthesis)  -Sitecore的对象映射框架，与传统的Sitecore开发相比，可在更短的时间内开发出更可靠和可维护的网站. 它是一种强类型的模板对象生成器，对于具有Sitecore或传统.NET背景的开发人员而言，它很容易理解. 它与Sitecore MVC巧妙地集成在一起（通过Synthesis.Mvc程序包），作为View渲染模型提供程序和IoC控制器渲染的依赖项.
 
 ## Other
 
@@ -229,8 +230,9 @@
 ## Publishing
 
 - [AdvancedPublishDialog](https://github.com/Sitecore/AdvancedPublishDialog) -增强的标准发布对话框.
+- [Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) -用于在Sitecore Azure PaaS环境中安装Sitecore Publishing Service的ARM模板，以及用于创建必要的Web部署包的脚本.
 - [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) -允许您监视Sitecore Publishing CM Server上的发布队列，查看其当前状态，并根据需要取消发布作业（例如，排队时间，开始的发布时间，队列中的持续时间，发布的项目数，平均发布时间）一个项目，来自发布作业的所有消息）.
-- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  -“发布”按钮将强制发布项目，而不管“发布”限制中“项目”选项卡上“可发布”选项的状态如何.  1）此功能将不会在您的站点中发布未发布的链接页面，而只会发布诸如媒体库项目和项目字段中使用的数据源之类的资源，因为这些资源才可以正确显示要发布的项目. 如果尚未完成，此方法甚至可以发布当前项目使用的模板和布局.  2）“取消发布”按钮使您只需单击即可取消发布项目. 它将更改“发布限制”，因为它取消选中“项目”选项卡上的“可发布”选项，然后使用完整的“不带子项目的重新发布”来发布该项目.  3）发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但此后发生了更改，则会显示一个橙色的点（因此它已发布，但不是最新的）. 如果当前项目根本不在发布目标中，则会显示一个红点. 此功能使内容编辑器可以针对每个发布目标详细检查内容是否已发布.
+- [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish)  -“发布”按钮将强制发布项目，而不管“发布”限制中“项目”选项卡上“可发布”选项的状态如何.  1）此功能将不会在您的站点中发布未发布的链接页面，而只会发布诸如媒体库项目和项目字段中使用的数据源之类的资源，因为这些资源才可以正确显示要发布的项目. 如果尚未完成，此方法甚至可以发布当前项目使用的模板和布局.  2）“取消发布”按钮使您只需单击即可取消发布项目. 它将取消“发布限制”，因为它取消选中“项目”选项卡上的“可发布”选项，然后使用完整的“不带子项目的重新发布”在此之后发布该项目.  3）发布状态按钮显示所有发布目标的发布状态. 如果发布目标是最新的，则会显示一个绿点. 如果该项目已发布到发布目标，但此后发生了更改，则会显示一个橙色的点（因此它已发布，但不是最新的）. 如果当前项目根本不在发布目标中，则会显示一个红点. 此功能使内容编辑器可以针对每个发布目标详细检查内容是否已发布.
 
 ## Rules
 

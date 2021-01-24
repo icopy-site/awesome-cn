@@ -120,7 +120,8 @@ them.
   （C ++，MPL 2， [GitHub](https://github.com/wildmeshing/TriWild))
 - [fTetWild](https://arxiv.org/abs/1908.03581) -在野外快速四面体啮合.
   （C ++，MPL 2， [GitHub](https://github.com/wildmeshing/fTetWild))
-
+- [SeismicMesh](https://github.com/krober10nd/SeismicMesh) -平行的2D / 3D三角形/四面体网格生成，带子去除.
+   （Python和C ++，GPL 3，GitHub）
 ## Sparse linear solvers
 
 - [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) -大型，稀疏，非对称线性方程组的直接解.
@@ -175,13 +176,13 @@ them.
 - [pyMOR](https://pymor.org/) -使用Python减少模型订单.
   （Python，2句BSD， [GitHub](https://github.com/pymor/pymor/))
 - [cvxpy](https://www.cvxpy.org/) -凸优化问题的建模语言.
-  (Python, Apache 2.0, [GitHub](https://github.com/cvxgrp/cvxpy))
+  （Python，Apache 2.0， [GitHub](https://github.com/cvxgrp/cvxpy))
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) -Python中的小波变换.
   （Python，麻省理工学院， [GitHub](https://github.com/PyWavelets/pywt))
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) -非等距快速傅立叶变换.
   （C / MATLAB，GPL 2， [GitHub](https://github.com/NFFT/nfft))
 - [preCICE](https://www.precice.org/) -用于分区多物理场模拟（FSI，CHT等）的耦合库.
-  （C ++，LGPL 3， [GitHub](https://github.com/precice/))
+  (C++, LGPL 3, [GitHub](https://github.com/precice/))
 - [orthopy](https://github.com/nschloe/orthopy) -有效地计算正交多项式.
   （Python，GPL 3，GitHub）
 
