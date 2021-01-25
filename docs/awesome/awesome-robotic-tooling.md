@@ -37,7 +37,7 @@
 * [Helpy](https://github.com/helpyio/helpy) -一个现代的，开源的帮助台客户支持应用程序.
 * [ONLYOFFICE](https://github.com/ONLYOFFICE/CommunityServer) -开发了一个免费的开源协作系统，可以在一个地方管理文档，项目，客户关系和电子邮件通信.
 * [discourse](https://github.com/discourse/discourse)  -社区讨论的平台. 免费，开放，简单.
-* [Gerrit](https://gerrit.googlesource.com/gerrit/) -用于基于Git的项目的代码审查和项目管理工具.
+* [Gerrit](https://gerrit.googlesource.com/gerrit/) - A code review and project management tool for Git based projects.
 * [jitsi-meet](https://github.com/jitsi/jitsi-meet) -安全，简单和可扩展的视频会议，您可以将其用作独立应用程序或嵌入到Web应用程序中.
 * [mattermost](https://github.com/mattermost/mattermost-server) -开源的私有云，Slack替代.
 * [openproject](https://github.com/opf/openproject) -领先的开源项目管理软件.
@@ -167,7 +167,7 @@
 * [EasyClangComplete](https://github.com/niosus/EasyClangComplete) -Sublime Text 3的强大C / C ++代码完成功能.
 * [vscode-ros](https://github.com/ms-iot/vscode-ros) -用于机器人操作系统（ROS）开发的Visual Studio代码扩展.
 * [awesome-hpp](https://github.com/p-ranav/awesome-hpp) -精选的仅标头C ++库的精选列表.
-* [Gitpod](https://github.com/gitpod-io/gitpod) - An open source developer platform that automates the provisioning of ready-to-code development environments.
+* [Gitpod](https://github.com/gitpod-io/gitpod) -一个开放源代码的开发人员平台，可自动提供现成的代码开发环境.
 
 ### Template
 * [ROS](https://github.com/leggedrobotics/ros_best_practices/tree/master/ros_package_template) -C ++中ROS节点标准化的模板.
@@ -227,12 +227,12 @@
 
 
 ### Debugging and Tracing
-* [heaptrack](https://github.com/KDE/heaptrack) -跟踪所有内存分配，并使用堆栈跟踪注释这些事件.
+* [heaptrack](https://github.com/KDE/heaptrack) - Traces all memory allocations and annotates these events with stack traces.
 * [ros2_tracing](https://gitlab.com/ros-tracing/ros2_tracing) -ROS 2的跟踪工具.
 * [Linuxperf](http://www.brendangregg.com/linuxperf.html) -各种Linux性能资料.
 * [lptrace](https://github.com/khamidou/lptrace) -它使您可以实时查看Python程序正在运行的功能.
 * [pyre-check](https://github.com/facebook/pyre-check) -python的性能类型检查.
-* [FlameGraph](https://github.com/brendangregg/FlameGraph) - Visualize profiled code.
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) -可视化分析代码.
 * [gpuvis](https://github.com/mikesart/gpuvis) -GPU跟踪可视化器.
 * [sanitizer](https://github.com/google/sanitizers) -AddressSanitizer，ThreadSanitizer，MemorySanitizer.
 * [cppinsights](https://github.com/andreasfertig/cppinsights) -C ++见解-借助编译器查看源代码.
@@ -268,7 +268,7 @@
 * [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) -删除像git-filter-branch一样大或麻烦的斑点，但速度更快.
 * [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 * [semantic-release](https://github.com/semantic-release/semantic-release) -全自动版本管理和软件包发布.
-* [go-semrel-gitab](https://gitlab.com/juhani/go-semrel-gitlab) -自动进行Gitlab的版本管理.
+* [go-semrel-gitab](https://gitlab.com/juhani/go-semrel-gitlab) - Automate version management for Gitlab.
 * [Git-repo](https://gerrit.googlesource.com/git-repo/) -Git-Repo帮助管理许多Git存储库，将其上载到修订控制系统，并自动执行部分开发工作流程.
 * [dive](https://github.com/wagoodman/dive) -用于探索docker映像中每个图层的工具.
 * [dvc](https://github.com/iterative/dvc) -数据集和机器学习模型的管理和版本控制.
@@ -358,7 +358,7 @@
 * [opem](https://github.com/ECSIM/opem) -开源PEMFC仿真工具（OPEM）是用于评估质子交换膜燃料电池性能的建模工具.
 * [pvlib-python](https://github.com/pvlib/pvlib-python) -社区支持的工具，提供了一组功能和类来模拟光伏能源系统的性能.
 * [WireViz](https://github.com/formatc1702/WireViz) -用于轻松记录电缆，线束和连接器引脚分布的工具.
-* [Horizon](https://github.com/horizon-eda/horizon) -EDA是一种电子设计自动化程序包，支持用于印刷电路板设计的集成端到端工作流程，包括零件管理和原理图输入.
+* [Horizon](https://github.com/horizon-eda/horizon) -EDA是一种电子设计自动化软件包，支持用于印刷电路板设计的集成端到端工作流程，包括零件管理和原理图输入.
 * [tigl](https://github.com/DLR-SC/tigl) -TiGL几何图形库可用于计算和处理CPACS文件中存储的飞机几何图形.
 * [foxBMS](https://github.com/foxBMS/foxbms) -一个免费，开放和灵活的开发环境来设计电池管理系统.
 * [cadCAD](https://github.com/cadCAD-org/cadCAD) -一个Python软件包，可通过仿真协助设计，测试和验证复杂系统的过程，并支持Monte Carlo方法，A / B测试和参数扫描.
@@ -420,7 +420,7 @@
 * [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) -精选的iOS，Android和边缘设备的出色移动机器学习资源列表.
 * [cnn-explainer](https://github.com/poloclub/cnn-explainer) -通过交互式可视化学习卷积神经网络.
 * [modelzoo](https://github.com/autowarefoundation/modelzoo) -在自动驾驶应用中使用的机器学习模型的集合.
-* [nnstreamer-ros](https://github.com/nnstreamer/nnstreamer-ros) -一组Gstreamer插件和ROS示例，使Gstreamer开发人员可以轻松有效地采用神经网络模型，而神经网络开发人员可以轻松高效地管理神经网络管道及其过滤器.
+* [nnstreamer-ros](https://github.com/nnstreamer/nnstreamer-ros) -一组Gstreamer插件和ROS示例，使Gstreamer开发人员可以轻松高效地采用神经网络模型，而神经网络开发人员可以轻松高效地管理神经网络管道及其过滤器.
 
 
 ### Parallel Processing
@@ -554,7 +554,7 @@
 * [ntripbrowser](https://github.com/emlid/ntripbrowser) -用于浏览NTRIP（通过Internet协议的RTCM的网络传输）的Python API.
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) -与IMU相关的过滤器和可视化器.
 * [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) -RTKLIB版本针对单频和双频低成本GPS接收器（尤其是u-blox接收器）进行了优化.
-* [gLAB](https://gage.upc.edu/gLAB/) -在厘米级别对GNSS观测值（伪距和载波相位）进行精确建模，从而可以独立进行GPS定位，PPP，SBAS和DGNSS.
+* [gLAB](https://gage.upc.edu/gLAB/) -在厘米级别对GNSS可观测值（伪距和载波相位）进行精确建模，从而允许独立GPS定位，PPP，SBAS和DGNSS.
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) -包含仅基于IMU的轮式车辆航位推算的新颖精确方法的代码.
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) -使用Jupyter Notebook的Kalman筛选器书.
 * [mcl_3dl](https://github.com/at-wat/mcl_3dl) -ROS节点，用于为具有3-D LIDAR的移动机器人执行概率3-D / 6-DOF定位系统.
@@ -590,6 +590,7 @@
 * [DH3D](https://github.com/JuanDuGit/DH3D) -用于强大的大规模6DOF重新定位的深层次3D描述符.
 * [LaMa](https://github.com/iris-ua/iris_lama) -LaMa是用于机器人本地化和映射的C ++ 11软件库.
 * [Scan Context](https://github.com/irapkaist/scancontext) -用于位置识别和长期定位的全局LiDAR描述符.
+* [M-LOAM](https://github.com/gogojjh/M-LOAM) -具有在线外部校准功能的多LiDAR系统的稳健的里程表和制图.
 
 
 ### Visual
@@ -658,7 +659,7 @@
 * [mpcc](https://github.com/alexliniger/MPCC) -用于自动赛车的模型预测轮廓控制器.
 * [rrt](https://github.com/RoboJackets/rrt) -C ++ RRT（快速探索随机树）实现.
 * [HypridAStarTrailer](https://github.com/AtsushiSakai/HybridAStarTrailer) -基于混合A *的拖车的路径规划算法.
-* [path_planner](https://github.com/karlkurzer/path_planner) - Hybrid A* Path Planner for the KTH Research Concept Vehicle.
+* [path_planner](https://github.com/karlkurzer/path_planner) -KTH研究概念车的混合A *路径规划器.
 * [open_street_map](https://github.com/ros-geographic-info/open_street_map) -用于处理“开放街道地图”地理信息的ROS软件包.
 * [Open Source Car Control](https://github.com/PolySync/oscc) -使计算机能够控制现代汽车的软件和硬件设计组合，以促进自动驾驶汽车技术的发展.
 * [fastrack](https://github.com/HJReachability/fastrack) -快速和安全跟踪（FaSTrack）的ROS实现.
@@ -694,7 +695,7 @@
 
 ## User Interaction
 ### Graphical User Interface
-* [qtpy](https://github.com/spyder-ide/qtpy) - Provides an uniform layer to support PyQt5, PySide2, PyQt4 and PySide with a single codebase.
+* [qtpy](https://github.com/spyder-ide/qtpy) -提供统一的层以通过单个代码库支持PyQt5，PySide2，PyQt4和PySide.
 * [mir](https://github.com/MirServer/mir) -Mir是用于构建基于Wayland的shell的库集.
 * [rqt](https://wiki.ros.org/rqt)  -用于ROS的GUI开发的基于Qt的框架. 它由三个部分/元包组成.
 * [cage](https://github.com/Hjdskes/cage)  -这是凯奇（Wageland）售货亭. 信息亭可运行单个最大化的应用程序.
@@ -721,7 +722,7 @@
 * [dotfiles of cornerman](https://github.com/cornerman/dotfiles) -强大的zsh和vim点文件.
 * [dotbot](https://github.com/anishathalye/dotbot) -引导您的点文件的工具.
 * [prompt-hjem](https://github.com/cornerman/prompt-hjem) -一个漂亮的zsh提示.
-* [ag](https://github.com/ggreer/the_silver_searcher) -一种类似于ack的代码搜索工具，但速度更快.
+* [ag](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 * [fzf](https://github.com/junegunn/fzf) -命令行模糊查找器.
 * [pkgtop](https://github.com/orhun/pkgtop) -为GNU / Linux设计的交互式软件包管理器和资源监视器.
 * [asciimatics](https://github.com/peterbrittain/asciimatics) -一个跨平台的程序包，可进行类似curses的操作，以及更高级别的API和小部件，可创建文本UI和ASCII艺术动画.
@@ -814,7 +815,7 @@
 * [gputil](https://github.com/anderskm/gputil) -一个Python模块，用于在Python中使用nvidia-smi从NVIDA GPU获取GPU状态.
 * [gpustat](https://github.com/wookayin/gpustat) -用于查询和监视GPU状态的简单命令行实用程序.
 * [nvtop](https://github.com/Syllo/nvtop) -NVIDIA GPU像监控工具一样处于停顿状态.
-* [spdlog](https://github.com/gabime/spdlog) - Very fast, header-only/compiled, C++ logging library.
+* [spdlog](https://github.com/gabime/spdlog) -非常快速，仅标头/已编译的C ++日志记录库.
 * [ctop](https://github.com/bcicen/ctop) -容器指标的类顶界面.
 * [ntop](https://github.com/ntop/ntopng) -基于Web的流量和安全网络流量监控.
 * [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) -一个JupyterLab扩展，用于显示GPU使用情况的仪表板.
@@ -886,7 +887,7 @@
 * [jetson_easy](https://github.com/rbonghi/jetson_easy) -自动脚本来设置和配置NVIDIA Jetson.
 * [docker-jetpack-sdk](https://github.com/trn84/docker-jetpack-sdk) -允许在Docker容器中使用NVIDIA JetPack SDK进行下载，刷新和安装.
 * [Pressed](https://wiki.debian.org/DebianInstaller/Preseed) -提供了一种在debian安装过程中设置问题答案的方法，而无需在安装运行时手动输入答案.
-* [jetson_stats](https://github.com/rbonghi/jetson_stats) -用于监视和控制NVIDIA Jetson（Xavier NX，Nano，AGX Xavier，TX1，TX2）的软件包可用于所有NVIDIA Jetson生态系统.
+* [jetson_stats](https://github.com/rbonghi/jetson_stats) -用于监视和控制NVIDIA Jetson（Xavier NX，Nano，AGX Xavier，TX1，TX2）的软件包可与所有NVIDIA Jetson生态系统一起使用.
 * [ros_jetson_stats](https://github.com/rbonghi/ros_jetson_stats)  -ROS jetson-stats包装器. 诊断消息中NVIDIA Jetson的状态.
 * [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR) -ROS的开源控制模块.
 * [acrn-hypervisor](https://github.com/projectacrn/acrn-hypervisor) -定义了设备管理程序参考堆栈和体系结构，用于通过虚拟机管理器在统一系统上运行多个软件子系统，并对其进行安全管理.
@@ -987,7 +988,7 @@
 
 
 ## Security
-* [owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) -Threat Dragon是一款免费的开源跨平台威胁建模应用程序，包括系统图表和自动生成威胁/缓解措施的规则引擎.
+* [owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) -Threat Dragon是一个免费的，开源的，跨平台的威胁建模应用程序，包括系统图表和自动生成威胁/缓解措施的规则引擎.
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) -可以定义在受限环境中运行节点的启动文件，例如Docker容器或权限受限的单独用户帐户.
 * [wolfssl](https://github.com/wolfSSL/wolfssl) -TLS / SSL的一种小型，快速，可移植的实现，用于将嵌入式设备连接到云.
 * [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) -专有汽车协议的安全分析工具包.
@@ -1039,13 +1040,13 @@
 * [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) -具有像素精确度和特定于实例的人类注释的多样化街道级图像数据集，用于了解世界各地的街道场景.
 * [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/overview) -TensorFlow数据集提供许多公共数据集作为tf.data.Datasets.
 * [racetrack-database](https://github.com/TUMFTM/racetrack-database) -包含全球20多个赛道（主要是F1和DTM）的中心线（x和y坐标），赛道宽度和赛道.
-* [BlenderProc](https://github.com/DLR-RM/BlenderProc) -用于真实感训练图像生成的程序化Blender管道.
+* [BlenderProc](https://github.com/DLR-RM/BlenderProc) - A procedural Blender pipeline for photorealistic training image generation.
 * [Atlatec Sample Map Data](https://www.atlatec.de/getsampledata.html) -旧金山市区内仅由两个摄像头和GPS组成的3D自动驾驶和仿真地图.
 * [Lyft Level 5 Dataset](https://self-driving.lyft.com/level5/data/)  -Level 5正在开发Lyft网络的自动驾驶系统. 我们正在从我们的自主舰队收集和处理数据，并与您共享.
 * [holicity](https://github.com/zhou13/holicity) -用于学习整体3D结构的城市规模数据平台.
 * [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available.
 * [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) -用于深度学习的3D对象检测的汽车雷达数据集.
-* [Objectron](https://github.com/google-research-datasets/Objectron/) -一组简短的，以对象为中心的视频剪辑，并随附AR会话元数据，其中包括相机姿势，稀疏点云和周围环境中平面的特征.
+* [Objectron](https://github.com/google-research-datasets/Objectron/) -一组简短的，以对象为中心的视频剪辑，并随附AR会话元数据，其中包括相机姿势，稀疏点云以及周围环境中平面的特征.
 
 ## Footnotes
 

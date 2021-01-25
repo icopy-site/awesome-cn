@@ -19,7 +19,7 @@
 - [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
 - [Task automation with npm run](https://web.archive.org/web/20180302164842/http://substack.net/task_automation_with_npm_run)
 - [How to use npm as a build tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
-- [Install npm packages globally without sudo on macOS and Linux](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
+- [Install npm packages globally without sudo on macOS and Linux](https://github.com/sindresorhus/guides/blob/main/npm-global-without-sudo.md)
 - [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
 - [The Art of Node](https://github.com/maxogden/art-of-node#modules) -介绍Node.js和使用npm进行客户端开发.
 - [Why npm scripts?](https://css-tricks.com/why-npm-scripts/) -介绍具有常见软件包和脚本的npm脚本以及样板项目.
@@ -370,7 +370,7 @@ npm支持使用简写直接从GitHub存储库安装软件包：
 $ npm安装sindresorhus /粉笔
 ```
 
-我们以一个特定的提交作为目标，因为master是一个移动的目标：
+我们以一个特定的提交作为目标，因为主分支是一个移动的目标：
 
 ```
 $ npm install 'sindresorhus/chalk#51b8f32'

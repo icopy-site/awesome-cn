@@ -181,8 +181,8 @@ productboard是产品管理系统，可帮助您了解用户的需求，确定�
 - [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) -由Chip Heath和Dan Heath撰写.
 - [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287) -由Chip Heath和Dan Heath撰写.
 - [The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) -史蒂夫·布兰克（Steve Blank）和鲍勃·多夫（Bob Dorf）.
-- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) -亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
-- [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) -亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
+- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) -作者：亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
+- [Value Proposition Design: How to Create Products and Services Customers Want (Strategyzer)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050) -作者：亚历山大·奥斯特瓦尔德（Alexander Osterwalder）和伊夫·皮涅尔（Yves Pigneur）.
 - [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) -埃里克·里斯（Eric Ries）.
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205) -Ben Horowitz.
 - [The Four Steps to the Epiphany](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) -史蒂夫·布兰克（Steve Blank）.
@@ -212,7 +212,6 @@ productboard是产品管理系统，可帮助您了解用户的需求，确定�
 
 - [Women in Product](https://www.womenpm.org/) （_使用 [Facebook](https://facebook.com)_)
 - [Product School](https://www.productschool.com/) （_使用 [Slack](https://slack.com/)_)
-- [PMTrack](https://pmtrack.co) （_使用 [Slack](https://slack.com/)_)
 - [The Product Coalition](https://productcoalition.com/) （_使用 [Slack](https://slack.com/)_)
 - [Product Collective](https://productcollective.com/) （_使用 [Slack](https://slack.com/)_)
 

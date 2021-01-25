@@ -6,7 +6,7 @@
 
 #### Ask these people anything!
 
-- [Sindre Sorhus](https://github.com/sindresorhus/ama)  -有抱负的叛军. 神话般的. 创作者 [AVA](https://ava.li), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
+- [Sindre Sorhus](https://github.com/sindresorhus/ama)  -有抱负的叛军. 神话般的. 创作者 [AVA](https://avajs.dev), [TodoMVC](http://todomvc.com), [Yeoman](http://yeoman.io).
 - [Pascal Hartig](https://github.com/passy/ama)  -多种语言.  Twitter的工程师.  Yeoman，TodoMVC，WSK的贡献者.
 - [Stephen Sawchuk](https://github.com/stephenplusplus/ama)  -只是很开心. 有线创作者youmeyou.  ^的助手.
 - [Mark Otto](https://github.com/mdo/ama)  -GitHub上的设计师.  Bootstrap的创建者.
