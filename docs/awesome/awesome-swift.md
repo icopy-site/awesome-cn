@@ -12,7 +12,7 @@
 
  |  iOS应用| 太棒了 Linux | 项目| 更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1047 |  2021年1月24日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：penguin：|  1048 |  2021年1月25日
 
 
 
@@ -264,12 +264,12 @@
 *库建立机器人* [back to top](#readme) 
 
 * [Telegram Bot SDK](https://github.com/rapierorg/telegram-bot-swift) ：penguin：-非官方的SDK.
-* [Telegrammer](https://github.com/givip/Telegrammer)  ：penguin：-Telegram Bots开发人员的开源框架. 它建立在Apple / SwiftNIO之上，有助于展示出色的性能.
+* [Telegrammer](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
 ### Cache
 [back to top](#readme) 
 
-* [AwesomeCache](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
+* [AwesomeCache](https://github.com/aschuch/AwesomeCache) -轻松管理缓存.
 * [Cache](https://github.com/hyperoslo/Cache) -除了缓存.
 * [CachyKit](https://github.com/Sadmansamee/CachyKit) -缓存库，可以缓存JSON，图像，Zip或AnyObject（到期日期/ TTYL）并强制刷新.
 * [Cachyr](https://github.com/nrkno/yr-cachyr) -适用于iOS，macOS和tvOS的小型键值数据缓存.
@@ -640,7 +640,7 @@
 
 
 #### 3D Touch
-*由于这些库，易于处理新的3D触摸/强制触摸功能. [back to top](#readme) 
+*Easy handle new 3D Touch / Force Touch feature thanks to these libs.* [back to top](#readme) 
 
 
 #### Bluetooth
@@ -718,7 +718,7 @@
 * [Pixel](https://github.com/muukii/Pixel) -使用CoreImage的图像编辑器和引擎.
 * [Rough](https://github.com/bakhtiyork/Rough) -粗糙可让您以粗略的手绘风格绘制.
 * [Sharaku](https://github.com/makomori/Sharaku) -图像过滤UI库（如Instagram）.
-* [Snowflake](https://github.com/onmyway133/Snowflake) - Work with SVG.
+* [Snowflake](https://github.com/onmyway133/Snowflake) -使用SVG.
 * [SwiftGen-Assets](https://github.com/SwiftGen/SwiftGen#assets-catalogs) -一种从资产目录自动为所有UIImages生成enum的工具.
 * [SwiftGif](https://github.com/swiftgif/SwiftGif) -带有GIF支持的小型UIImage扩展.
 * [SwiftSVG](https://github.com/mchoe/SwiftSVG) -具有多个接口选项（字符串，NS / UIBezierPath，CAShapeLayer和NS / UIView）的单遍SVG解析器.
@@ -814,6 +814,7 @@
 * [Gedatsu](https://github.com/bannzai/gedatsu) -提供有关AutoLayout错误控制台日志的可读格式.
 * [HeliumLogger](https://github.com/Kitura/HeliumLogger) ：penguin：-IBM的轻量级日志记录框架.
 * [Printer](https://github.com/hemangshah/printer) -下一个应用程序的精美记录器.
+* [Puppy](https://github.com/sushichop/Puppy) ：penguin：-灵活的日志记录库，支持多种传输和平台.
 * [Puree](https://github.com/cookpad/puree-ios) -iOS的日志收集器.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) -Xcode和Google文档的日志记录实用程序.
 * [Rainbow](https://github.com/onevcat/Rainbow) ：penguin：-令人愉快的控制台输出.
@@ -1102,7 +1103,7 @@
 * [DockProgress](https://github.com/sindresorhus/DockProgress) -在macOS应用的Dock图标中显示进度.
 * [Dodo](https://github.com/evgenyneu/Dodo) -适用于iOS的消息栏.
 * [Doric Design System Foundation](https://github.com/jayeshk/Doric) -适用于iOS的面向协议，类型安全，可扩展的设计系统基础框架.
-* [DropDown](https://github.com/AssistoLab/DropDown) -适用于iOS的Material Design下拉菜单.
+* [DropDown](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS.
 * [Element](https://github.com/eonist/Element) -适用于macOS的程序化UI框架.
 * [Elissa](https://github.com/KitchenStories/Elissa) -在UITabBarItem或任何UIView锚视图的顶部显示通知，以显示其他信息.
 * [EstMusicIndicator](https://github.com/Aufree/ESTMusicIndicator) -音乐播放指示器，如iTunes.
@@ -1417,7 +1418,7 @@
 #### UICollectionView
 [back to top](#readme) 
 
-* [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) - Lightweight custom collection view inspired by Airbnb.
+* [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) -受Airbnb启发的轻量级自定义集合视图.
 * [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) -将分页与CollectionView中的虚拟视图集成的简便方法，使Instagram Discover只需几分钟.
 * [Blueprints](https://github.com/zenangst/Blueprints) -一个框架，旨在简化使用集合视图流程布局时的工作.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) -集合视图的布局，使您的单元格反弹.
@@ -1455,7 +1456,7 @@
 * [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) -将视差标头添加到UIScrollView / UITableView的简单方法.
 * [Persei](https://github.com/Yalantis/Persei) -UITableView / UICollectionView / UIScrollView的动画顶部菜单.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) -PullToRefresh库.
-* [QuickTableViewController](https://github.com/bcylin/QuickTableViewController) -创建用于设置的UITableView的简单方法.
+* [QuickTableViewController](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension) -UITableView扩展，可从表格视图的底部插入单元格.
 * [SectionScrubber](https://github.com/3lvis/SectionScrubber) -在集合视图部分之间快速滚动的组件.
 * [SelectionList](https://github.com/yonat/SelectionList) -基于UITableView的简单单选或多选清单.
@@ -1540,7 +1541,7 @@
 * [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) -一个微框架，用于将[弱自我]和保护语句封装在闭包中.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) -在应用更新后展示类似于页面，数字和主题演讲的新功能.
 * [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) -展示您很棒的新应用功能.
-* [XestiMonitors](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework.
+* [XestiMonitors](https://github.com/eBardX/XestiMonitors) -可扩展的监视框架.
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) -微型实用程序和标准库，基础和UIKit扩展的集合.
 
 ### Validation

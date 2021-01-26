@@ -30,7 +30,7 @@
 * [AMPLab SIMR](http://databricks.github.io/simr/) -在Hadoop MapReduce v1上运行Spark.
 * [Apache APEX](https://apex.apache.org/) -用于大数据流和批处理的统一企业平台.
 * [Apache Beam](https://beam.apache.org/) -用于定义和执行数据处理工作流的统一模型和特定于语言的SDK集.
-* [Apache Crunch](http://crunch.apache.org/) -一个简单的Java API，用于执行诸如在简单MapReduce上实现的连接和数据聚合之类的任务.
+* [Apache Crunch](http://crunch.apache.org/) -一个简单的Java API，用于执行诸如在简单MapReduce上实现乏味的加入和数据聚合之类的任务.
 * [Apache DataFu](http://incubator.apache.org/projects/datafu.html) -LinkedIn开发的Hadoop和Pig用户定义功能集合.
 * [Apache Flink](http://flink.apache.org/) -高性能的运行时和自动程序优化.
 * [Apache Gearpump](http://gearpump.apache.org/) -基于Akka的实时大数据流引擎.
@@ -62,7 +62,7 @@
 * [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  -分布式处理和实时分析的平台. 提供了用于高级分析（如地理空间，时间序列等）的工具箱.
 * [JAQL](https://code.google.com/p/jaql/) -用于处理结构化，半结构化和非结构化数据的声明性编程语言.
 * [Kite](http://kitesdk.org/docs/current/) -是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的过程.
-* [Metamarkets Druid](http://druid.io/) - framework for real-time analysis of large datasets.
+* [Metamarkets Druid](http://druid.io/) -大型数据集实时分析的框架.
 * [Netflix PigPen](https://github.com/Netflix/PigPen) -Clojure的map-reduce，可编译为Apache Pig.
 * [Nokia Disco](http://discoproject.org/) -诺基亚开发的MapReduce框架.
 * [Onyx](http://www.onyxplatform.org/) -面向云的分布式计算.
@@ -71,7 +71,7 @@
 * [Ray](https://github.com/ray-project/ray) -用于构建和运行分布式应用程序的快速，简单的框架. 
 * [Rackerlabs Blueflood](http://blueflood.io/) -多租户分布式度量处理系统
 * [Skale](https://github.com/skale-me/skale-engine) -NodeJS中的高性能分布式数据处理.
-* [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
+* [Stratosphere](http://stratosphere.eu/) -通用集群计算框架.
 * [Streamdrill](https://streamdrill.com/) -可用于统计事件流在不同时间段内的活动并找到最活跃的事件流.
 * [streamsx.topology](https://github.com/IBMStreams/streamsx.topology) -支持在Java，Python或Scala中构建IBM Streams应用程序的库.
 * [Tuktu](https://github.com/UnderstandLingBV/Tuktu) -使用Scala，Akka和Play构建的易于使用的批处理和流计算平台！
@@ -119,7 +119,7 @@
 
 ## Key Map Data Model
 
- **注意**：行业中存在一些术语混乱，有两种不同的名称称为“列式数据库”. 这里列出的一些分布式持久数据库是围绕“键映射”数据模型构建的：所有数据都有一个（可能是复合的）键，键-值对映射与之关联. 在一些系统中，多个这样的值图可以与一个键相关联，并且这些图被称为“列族”（其中值图键被称为“列”）.
+ **注意**：行业中存在一些术语混乱，有两种不同的名称称为“列式数据库”. 这里列出的一些分布式持久数据库是围绕“键映射”数据模型构建的：所有数据都有一个（可能是复合的）键，键-值对映射与之关联. 在一些系统中，多个这样的值图可以与一个键相关联，并且这些图被称为“列族”（值图键被称为“列”）.
 
 另一组可以称为“列数据库”的技术的不同之处在于，它是如何在磁盘或内存中存储数据的-而不是像传统方式那样将数据存储在给定键的所有列值彼此相邻的位置上（按行），这些系统将所有*列*值彼此相邻存储. 因此，需要更多的工作来获取给定键的所有列，但是需要更少的工作来获取给定键的所有值.
 
@@ -184,7 +184,7 @@
 * [Google Cayley](https://github.com/cayleygraph/cayley) -开源图形数据库.
 * [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) -图形处理框架.
 * [GraphLab PowerGraph](https://turi.com/products/create/docs/) -核心C ++ GraphLab API和在GraphLab API之上构建的高性能机器学习和数据挖掘工具包的集合.
-* [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
+* [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) -Spark上的弹性分布式图系统.
 * [Gremlin](https://github.com/tinkerpop/gremlin) -图形遍历语言.
 * [Infovore](https://github.com/paulhoule/infovore) -以RDF为中心的Map / Reduce框架.
 * [Intel GraphBuilder](https://01.org/graphbuilder/) -在Hadoop之上构建大规模图形的工具.
@@ -230,7 +230,7 @@
 * [Cockroach](https://github.com/cockroachdb/cockroach) -可扩展，地理复制，事务性数据存储.
 * [Comdb2](https://github.com/bloomberg/comdb2) -基于乐观并发控制技术构建的集群RDBMS.
 * [Datomic](http://www.datomic.com/) -旨在支持可扩展，灵活和智能应用程序的分布式数据库.
-* [FoundationDB](https://foundationdb.com/) - distributed database, inspired by F1.
+* [FoundationDB](https://foundationdb.com/) -受F1启发的分布式数据库.
 * [Google F1](https://research.google.com/pubs/pub41344.html) -基于Spanner构建的分布式SQL数据库.
 * [Google Spanner](https://research.google.com/archive/spanner.html) -全球分布的半关系数据库.
 * [H-Store](http://hstore.cs.brown.edu/) -是一个实验性的主内存并行数据库管理系统，针对在线事务处理（OLTP）应用进行了优化.
@@ -341,7 +341,7 @@
 * [Apache Avro](http://avro.apache.org/) -数据序列化系统.
 * [Apache Curator](http://curator.apache.org/) -Apache ZooKeeper的Java库.
 * [Apache Karaf](http://karaf.apache.org/) -在任何OSGi框架之上运行的OSGi运行时.
-* [Apache Thrift](http://thrift.apache.org//) -构建二进制协议的框架.
+* [Apache Thrift](http://thrift.apache.org//) - framework to build binary protocols.
 * [Apache Zookeeper](http://zookeeper.apache.org/) -用于流程管理的集中服务.
 * [Google Chubby](https://research.google.com/archive/chubby.html) -松耦合的分布式系统的锁定服务.
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) -用于将Apache Spark分析作业和机器学习模型公开为实时，批处理或反应式Web服务的服务.
@@ -396,10 +396,12 @@
 * [MonkeyLearn](https://monkeylearn.com/)  -文本挖掘变得容易. 从文本中提取和分类数据.
 * [ND4J](https://github.com/deeplearning4j/nd4j)  -JVM的矩阵库.  Numpy for Java. 
 * [nupic](https://github.com/numenta/nupic) -Numenta智能计算平台：一个受大脑启发的机器智能平台，以及基于皮层学习算法的生物精确的神经网络.
-* [PredictionIO](http://predictionio.incubator.apache.org/index.html) -Hadoop，Mahout和Cascading上的机器学习服务器.
+* [PredictionIO](http://predictionio.incubator.apache.org/index.html) - machine learning server buit on Hadoop, Mahout and Cascading.
+* [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) -PyTorch几何图形的时间扩展库.
 * [RL4J](https://github.com/deeplearning4j/rl4j)  -Java和Scala的强化学习. 包括Deep-Q学习和A3C算法，并与Open AI的Gym集成. 在Deeplearning4j生态系统中运行. 
 * [SAMOA](http://samoa.incubator.apache.org/) -分布式流机器学习框架.
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) -scikit-learn：Python中的机器学习.
+* [Shapley](https://github.com/benedekrozemberczki/shapley) -数据驱动的框架，用于量化机器学习集合中分类器的价值. 
 * [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) -一些常见机器学习（ML）功能的Spark实现.
 * [Sibyl](https://users.soe.ucsc.edu/~niejiazhong/slides/chandra.pdf) -Google的大规模机器学习系统.
 * [TensorFlow](https://github.com/tensorflow/tensorflow) -Google的库，用于使用数据流图进行机器学习.
@@ -461,6 +463,7 @@
 * [Eclipse BIRT](http://www.eclipse.org/birt/) -基于Eclipse的报告系统.
 * [ElastAert](https://github.com/Yelp/elastalert) -ElastAlert是一个简单的框架，用于从ElasticSearch中的数据中发出异常，尖峰或其他感兴趣模式的警报.
 * [Eventhub](https://github.com/Codecademy/EventHub) -开源事件分析平台.
+* [HASH](https://hash.ai) -开源仿真和可视化平台.
 * [Hermes](https://github.com/allegro/hermes) -建立在Kafka之上的异步消息代理.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) -用于Hadoop的Splunk分析.
 * [Imhotep](http://opensource.indeedeng.io/imhotep/) -确实是大型分析平台.
@@ -489,7 +492,7 @@
 * [Google Caffeine](https://googleblog.blogspot.it/2010/06/our-new-search-index-caffeine.html) -连续索引系统.
 * [Google Percolator](https://research.google.com/pubs/pub36726.html) -连续索引系统.
 * [HBase Coprocessor](https://blogs.apache.org/hbase/entry/coprocessor_introduction) -实现Percolator，它是HBase的一部分.
-* [LinkedIn Bobo](http://senseidb.github.io/bobo/) -是完全用Java编写的Faceted Search实现，它是Apache Lucene的扩展.
+* [LinkedIn Bobo](http://senseidb.github.io/bobo/) - is a Faceted Search implementation written purely in Java, an extension to Apache Lucene.
 * [LinkedIn Cleo](https://github.com/linkedin/cleo) -是一个灵活的软件库，可用于快速开发部分，无序和实时的预输入搜索.
 * [LinkedIn Galene](https://engineering.linkedin.com/search/did-you-mean-galene) -LinkedIn的搜索架构.
 * [LinkedIn Zoie](https://github.com/senseidb/zoie) -是用Java编写的实时搜索/索引系统.
@@ -527,7 +530,7 @@
 
 * [Facebook McDipper](https://www.facebook.com/notes/facebook-engineering/mcdipper-a-key-value-cache-for-flash-storage/10151347090423920) -闪存的键/值缓存.
 * [Facebook Memcached](https://www.facebook.com/notes/facebook-engineering/scaling-memcache-at-facebook/10151411410803920) -Memcache的分叉.
-* [Twemproxy](https://github.com/twitter/twemproxy) -用于memcached和redis的快速轻量级代理.
+* [Twemproxy](https://github.com/twitter/twemproxy) -用于memcached和redis的快速，轻量级代理.
 * [Twitter Fatcache](https://github.com/twitter/fatcache) -闪存的键/值缓存.
 * [Twitter Twemcache](https://github.com/twitter/twemcache) -Memcache的分叉.
 
@@ -572,7 +575,7 @@
 * [Arbor](https://github.com/samizdatco/arbor) -使用Web Worker和jQuery的图形可视化库.
 * [Banana](https://github.com/LucidWorks/banana)  -可视化存储在Solr中的日志和带时间戳的数据. 基巴纳港口.
 * [Bloomery](https://github.com/ufukomer/bloomery) -Impala的Web UI.
-* [Bokeh](http://bokeh.pydata.org/en/latest/) -一个功能强大的Python交互式可视化库，该库针对现代Web浏览器进行演示，目标是以D3.js样式优雅，简洁地构造新颖的图形，同时还可以通过超大型或流媒体提供高性能的交互性数据集.
+* [Bokeh](http://bokeh.pydata.org/en/latest/) -一个功能强大的Python交互式可视化库，该库针对现代Web浏览器进行演示，目标是以D3.js样式优雅，简洁地构造新颖的图形，而且还可以通过超大型或流式传输提供高性能的交互性数据集.
 * [C3](http://c3js.org/) -基于D3的可重用图表库
 * [CartoDB](https://github.com/CartoDB/cartodb) -具有强大的前端编辑功能和强大的API的地理空间数据库的开源或免费增值托管.
 * [chartd](http://chartd.co/) -仅带有img标签的自适应视网膜兼容图表.
@@ -610,14 +613,14 @@
 * [ReCharts](http://recharts.org/) -基于React组件的可组合图表库
 * [Shiny](http://shiny.rstudio.com/) -R的Web应用程序框架.
 * [Sigma.js](https://github.com/jacomyal/sigma.js) -专门用于图形绘制的JavaScript库.
-* [Superset](https://github.com/apache/incubator-superset) -旨在可视化，直观和交互式的数据探索平台，使您可以轻松地对数据进行切片，切块和可视化，并以思想的速度进行分析.
+* [Superset](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
 * [Vega](https://github.com/vega/vega) -可视化语法.
 * [Zeppelin](https://github.com/ZEPL/zeppelin) -笔记本式协作数据分析.
 * [Zing Charts](https://www.zingchart.com/) -大数据的JavaScript图表库.
 * [DataSphere Studio](https://github.com/WeBankFinTech/DataSphereStudio) -一站式数据应用程序开发管理门户.
 
 ## Internet of things and sensor data
-* [Apache Edgent (Incubating)](http://edgent.apache.org/) -可以嵌入到网关和占用空间小的边缘设备中的编程模型和微内核样式运行时，可以在边缘设备上进行本地实时分析.
+* [Apache Edgent (Incubating)](http://edgent.apache.org/) -可以嵌入到网关和占用空间小的边缘设备中的编程模型和微内核样式运行时，从而可以在边缘设备上进行本地实时分析.
 * [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) -基于云的双向监视和消息传递中心
 * [TempoIQ](https://www.tempoiq.com/) -基于云的传感器分析.
 * [2lemetry](http://2lemetry.com/) -物联网平台.
@@ -689,8 +692,9 @@ Twitter上的数据分析.
 * [Big Data](https://www.manning.com/books/big-data) -大数据教您使用一种架构来构建大数据系统，该架构利用了集群硬件以及专门用于捕获和分析Web规模数据的新工具.
 * [Spark in Action](https://www.manning.com/books/spark-in-action) & [Spark in Action 2nd Ed.](https://www.manning.com/books/spark-in-action-second-edition)  -Spark in Action教您使用Spark有效处理批处理和流数据所需的理论和技能. 完全更新为Spark 2.0.
 * [Kafka in Action](https://www.manning.com/books/kafka-in-action) -《行动中的卡夫卡》快速介绍了与卡夫卡合作的各个方面，您确实需要从中受益.
-* [Fusion in Action](https://www.manning.com/books/fusion-in-action) -“行动中的融合”教您建立功能全面的数据分析管道，包括文档和数据搜索以及分布式数据集群.
+* [Fusion in Action](https://www.manning.com/books/fusion-in-action) -“行动中的融合”教您建立功能齐全的数据分析管道，包括文档和数据搜索以及分布式数据集群.
 * [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) -Reactive Data Handling是由Manuel Bernhardt选择的五个精选章节的集合，向您介绍构建能够处理大数据负载实时处理的反应式应用程序-免费电子书！ 
+* [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering) -有关一般数据工程和专门针对Azure平台的书 
 * [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems)  -Grokking流系统可以帮助您了解什么是流系统，它们如何工作以及它们是否适合您的业务. 不受工具约束，无论选择哪种框架，您都可以应用所学的知识.
 
 #### Distributed systems

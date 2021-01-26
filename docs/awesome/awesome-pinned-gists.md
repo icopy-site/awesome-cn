@@ -20,6 +20,7 @@
 - [waka-box-go](https://github.com/YouEclipse/waka-box-go)  -waka-box的Golang实现. 更新固定的要点，以包含您的每周WakaTime统计信息.
 - [strava-box](https://github.com/JohnPhamous/strava-box) -更新固定的要点，以包含Strava的YTD锻炼指标.
 - [music-box](https://github.com/jacc/music-box) -更新固定要点，以包含您在Last.fm上的每周收听报告.
+- [spotify-box](https://github.com/izayl/spotify-box) -更新固定要点，以在Spotify上包含您每周的热门曲目.
 - [netease-music-box](https://github.com/Leecason/netease-music-box) -更新固定要点，以包含您在网易云音乐上的每周收听报告.
 - [bilibili-box](https://github.com/KeJunMao/bilibili-box) -更新固定的要点，以包含您的最新Bilibili视频.
 - [rescue-box](https://github.com/joshghent/rescue-box) -更新固定要点，以包含RescueTime的每日生产率统计信息.
@@ -37,13 +38,14 @@
 - [codestats-box-python](https://github.com/aksh1618/codestats-box-python)  -codestats-box的Python实现. 更新固定的要点，以包含您的Code :: Stats统计信息.
 - [typeracer-box](https://github.com/tobimori/typeracer-box) -更新固定要领以包含最新的TypeRacer比赛
 - [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) -更新固定的要点，以包含您的Chess.com评分.
+- [blog-box](https://github.com/Aveek-Saha/blog-box) -更新固定要领，以显示您最新的dev.to博客文章.
+- [medium-stat-box](https://github.com/kylemocode/medium-stat-box) -更新固定要领，以显示您的中级统计信息和最新文章.
 
 ## GitHub
 
 以固定的方式显示更详细的GitHub用户数据.
 
 - [activity-box](https://github.com/JasonEtco/activity-box) -更新固定要点，以包含GitHub用户的最新活动.
-- [gh-box](https://github.com/sciencepal/Gist_GHData) -更新固定要点以包含您的GitHub个人资料数据.
 - [productive-box](https://github.com/maxam2017/productive-box) -更新固定的要点，以包含您白天最忙碌的时间.
 - [github-stats-box](https://github.com/bokub/github-stats-box) -更新固定要点以包含您的GitHub统计信息.
 

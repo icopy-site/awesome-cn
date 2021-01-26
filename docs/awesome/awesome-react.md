@@ -110,7 +110,7 @@
 - [next.js](https://github.com/vercel/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
 - [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
-- [remix](https://remix.run/) -最后，React Router的创建者提供了一个致命的React框架
+- [remix](https://remix.run/) -最后，React Router的创建者提供了一个杀手React的React框架
 - [aleph.js](https://github.com/alephjs/aleph.js) -Deno中的React框架
 
 ##### React Styling
@@ -202,6 +202,7 @@
 - [react-cookie](https://github.com/reactivestack/cookies) -用于React的通用cookie.
 - [react-slick](https://github.com/akiran/react-slick) -使用React构建的Carousel组件.
 - [react-gtm-module](https://github.com/alinemorelli/react-gtm) -适用于React的Google跟踪代码管理器模块.
+- [react-device-detect](https://github.com/duskload/react-device-detect) -检测设备的反应.
 
 ##### React for Command Line
 
@@ -322,6 +323,7 @@
 - [flux](http://facebook.github.io/flux/)
 - [recoil](https://github.com/facebookexperimental/Recoil)
 - [xState](https://github.com/davidkpiano/xstate)
+- [react-query](https://react-query.tanstack.com/)
 
 ##### React AR and VR
 

@@ -153,12 +153,13 @@
 -  [Grayscale Design](https://grayscale.design/) -基于亮度的调色板生成器.
 -  [Hypercolor](https://hypercolor.dev/) -带有方向选项的预配置Tailwind CSS渐变集合.
 -  [Palettolithic](https://palettolithic.com) -根据一种颜色生成和声调色板.
--  [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) -具有Tailwind CSS v2颜色的Figma库.
+-  [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
 -  [Colorkraken](https://github.com/Bouhoum/colorkraken) -Tailwind CSS的颜色阴影生成器.
 -  [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) -一个Babel插件，可在使用Babel编译代码时添加自定义深色类.
 -  [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) -由OpenAI GPT-3驱动的Tailwind CSS代码生成器.
 -  [Stitches](https://stitches.hyperyolo.com/) -带有Tailwind的模板生成器（在线）.
 -  [tail-animista](https://tail-animista.vercel.app) -Tailwind CSS的可配置自定义动画实用程序生成器.
+-  [brands-tail-color](https://brands-tail-color.vercel.app/) -使用各种品牌颜色的配置生成器.
 -  [Typography Playground](https://tailwind-typography-playground.vercel.app/) -使用Tailwind CSS Typography插件尝试不同Google字体组合的工具.
 -  [Play](https://play.tailwindcss.com/) -先进的Tailwind CSS在线游乐场.
 -  [tailwind.run](https://tailwind.run) -带有内置功能的Tailwind CSS提琴（在线）.
@@ -188,6 +189,7 @@
 -  [twin.macro](https://github.com/ben-rogerson/twin.macro) -在任何CSS-in-JS库中使用Tailwind类.
 -  [Tailwind Config Viewer](https://github.com/rogden/tailwind-config-viewer) -用于可视化Tailwind CSS配置文件的本地UI工具.
 -  [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) -使用Tailwind CSS自定义表单的刀片表单组件.
+-  [@ngneat/tailwind](https://github.com/ngneat/tailwind) -Angular的Tailwind CSS集成.
 -  [re-tailwind](https://github.com/phthhieu/re-tailwind) -生成Tailwind类的ReasonML实用程序.
 -  [Protoship Codegen](https://protoship.io) -代码生成器，可从Sketch设计创建基于Tailwind CSS的HTML和CSS.
 -  [create-tailwind-plugin](https://github.com/Landish/create-tailwind-plugin) -Tailwind CSS的插件脚手架.
@@ -269,7 +271,7 @@
 -  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
 -  [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
 -  [Eleventy Starter](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) -使用Tailwind CSS的可用于生产环境且SEO友好的博客启动器.
--  [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
+-  [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) -使用Vite，React和Tailwind CSS的样板.
 -  [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) -使用Vite，Vue，Vue Router和Tailwind CSS的入门模板.
 -  [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) -使用Vue和Tailwind CSS的Shopify主题开发入门.
 -  [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) -使用Tailwind CSS和Alpine JS的仪表板布局.

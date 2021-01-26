@@ -440,6 +440,7 @@ WebWorker中的大多数核心角度框架.
 * [lottie-angular2](https://github.com/chenqingspring/ng-lottie) -基于Bodymovin在Angular2上渲染After Effects动画.
 * [ng-animate](https://github.com/jiayihu/ng-animate) -一系列酷炫，可重复使用和灵活的Angular动画
 * [ngx-interactive-paycard](https://github.com/milantenk/ngx-interactive-paycard) -具有平滑动画的交互式支付卡库
+* [ng-particles](https://github.com/matteobruni/tsparticles/blob/master/components/angular) -轻松将“粒子”动画添加到Angular应用程序的组件
 
 #### Auth Components
 
@@ -494,7 +495,7 @@ WebWorker中的大多数核心角度框架.
 * [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) 易于使用的文件上传指令
 * [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader)  Angular库用于上传文件. 它支持：文件上载和预览（通过灯箱另外预览图像），验证，图像裁剪，拖放以及多语言支持.
 * [ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) -高度可定制的组件，用于处理文件删除和选择.
-* [ngx-flow](https://github.com/flowjs/ngx-flow) -Angular7 +包装器 [flow.js](https://github.com/flowjs/flow.js) for file upload
+* [ngx-flow](https://github.com/flowjs/ngx-flow) -Angular7 +包装器 [flow.js](https://github.com/flowjs/flow.js) 用于文件上传
 
 #### Form Controls
 
@@ -529,7 +530,7 @@ WebWorker中的大多数核心角度框架.
 #### Layout Components
 
 * [angular-fullpage](https://github.com/alvarotrigo/angular-fullpage) fullPage.js（全屏滚动库）的官方组件.
-* [angular-split](https://github.com/bertrandg/angular-split) 角剖分组件
+* [angular-split](https://github.com/bertrandg/angular-split) Angular split component
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) -Angular2的无限滚动指令（基于Observable）
 * [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) -根据各种布局类型（例如Angular的砌体）排列无限的卡片元素.
 * [ng2-card](https://github.com/c-bata/ng2-card) -Angular2的卡片视图组件

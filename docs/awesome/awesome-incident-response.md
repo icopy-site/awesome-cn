@@ -16,7 +16,7 @@
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) -小型且高度可移植的检测测试映射到Mitre ATT＆CK框架.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)  -自动化战术技术与程序. 手动重新运行复杂序列以进行回归测试，产品评估，并为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) -用于防御性安全培训的软件，它将使您的网络分析培训课程，事件响应演练和红色团队参与度提高到一个新水平.
-* [Caldera](https://github.com/mitre/caldera)  -自动化的攻击者仿真系统，可在Windows Enterprise网络中执行攻击后的攻击行为. 它在运行期间使用规划系统和基于对抗战术，技术和常识（ATT＆CK™）项目的预先配置的对抗模型来生成计划.
+* [Caldera](https://github.com/mitre/caldera)  -自动化的攻击者仿真系统，可在Windows Enterprise网络中执行攻击后的攻击行为. 它在运行过程中使用规划系统和基于对抗策略，技术和常识（ATT＆CK™）项目的预先配置的对抗模型来生成计划.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)  -模块化，菜单驱动的跨平台工具，用于构建可重复的，延时的分布式安全事件. 轻松为Blue Team演习和传感器/警报映射创建自定义事件链. 红队可以制造诱饵事件，分散注意力和引诱，以支持和扩大其行动.
 * [Metta](https://github.com/uber-common/metta) -进行对抗模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) -轻量级实用程序，用于生成恶意网络流量，并帮助安全团队评估安全控制和网络可见性.
@@ -31,8 +31,8 @@
 * [Cyber Triage](http://www.cybertriage.com)  -Cyber​​ Triage可以远程收集和分析端点数据，以帮助确定是否受到威胁. 它采用无代理方式，并专注于易用性和自动化，因此公司无需大型基础架构变更和法医专家团队即可做出响应. 其结果用于确定系统是否应删除或进一步研究.
 * [Doorman](https://github.com/mwielgoszewski/doorman)  -osquery队列管理器，允许远程管理节点检索的osquery配置. 它利用osquery的TLS配置，记录器和分布式读写端点的优势，以最小的开销和侵入性为管理员提供跨一组设备的可见性.
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) -基于Windows的可扩展应用程序，提供工作流自动化，案例管理和安全响应功能.
+* [Fleetdm](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continous updates, features and fast answers to big questions.
 * [GRR Rapid Response](https://github.com/google/grr)  -针对远程现场取证的事件响应框架. 它由安装在目标系统上的python代理（客户端）以及可以管理代理并与之通信的python服务器基础结构组成. 除了随附的Python API客户端外， [PowerGRR](https://github.com/swisscom/PowerGRR) 在Windows，Linux和macOS上的PowerShell中提供了API客户端库，用于GRR自动化和脚本编写.
-* [Kolide Fleet](https://kolide.com/fleet)  -为安全专家量身定制的最先进的主机监控平台. 利用Facebook经过久经考验的osquery项目，Kolide可为重大问题提供快速答案.
 * [Limacharlie](https://www.limacharlie.io/) -由一系列小项目组成的端点安全平台，这些小项目一起工作，可以为您提供跨平台（Windows，OSX，Linux，Android和iOS）的低级环境，用于管理其他模块并将其推入内存以扩展其功能.
 * [MozDef](https://github.com/mozilla/MozDef) -自动化安全事件处理流程，并促进事件处理程序的实时活动.
 * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse)  -使用ElasticSearch作为后端为异步取证数据表示而构建的应用程序. 它旨在吸收Redline集合.
@@ -135,7 +135,7 @@
 ### OSX Evidence Collection
 
 * [Knockknock](https://objective-see.com/products/knockknock.html) -显示设置为在OSX上自动执行的持久项（脚本，命令，二进制文件等）.
-* [macOS Artifact Parsing Tool (mac_apt)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
+* [macOS Artifact Parsing Tool (mac_apt)](https://github.com/ydkhatri/mac_apt) -基于插件的取证框架，可在实时计算机，磁盘映像或单个工件文件上进行快速Mac分流.
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) -免费的Mac OS X计算机取证工具.
 * [OSX Collector](https://github.com/yelp/osxcollector) -OSX Auditor分支以实时响应.
 
@@ -145,7 +145,7 @@
 
 ### Other Tools
 
-* [Cortex](https://thehive-project.org)  -Cortex允许您使用Web界面逐一或以批量模式分析可观察的内容，例如IP和电子邮件地址，URL，域名，文件或哈希. 分析师还可以使用其REST API自动执行这些操作.
+* [Cortex](https://thehive-project.org)  -Cortex允许您通过Web界面一一或以批量模式分析可观察到的内容，例如IP和电子邮件地址，URL，域名，文件或哈希. 分析师还可以使用其REST API自动执行这些操作.
 * [Crits](https://crits.github.io/) -基于网络的工具，将分析引擎与网络威胁数据库结合在一起.
 * [Diffy](https://github.com/Netflix-Skunkworks/diffy) -由Netflix的SIRT开发的DFIR工具，使调查人员可以在事件发生期间跨云实例（当前在AWS上的Linux实例）快速确定妥协范围，并通过显示与基准的差异有效地将这些实例分类以采取后续行动.
 * [domfind](https://github.com/diogo-fernan/domfind) -Python DNS搜寻器，用于在不同TLD下查找相同的域名.
@@ -222,7 +222,7 @@
 * [Invoke-LiveResponse](https://github.com/mgreen27/Invoke-LiveResponse) -Invoke-LiveResponse是用于目标收集的实时响应工具.
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html)  -Mandiant提供的免费工具，用于收集主机系统数据并报告威胁指标（IOC）的存在. 仅支持Windows. 不再维护. 仅完全支持Windows 7 / Windows Server 2008 R2.
 * [IRTriage](https://github.com/AJMartel/IRTriage) -事件响应分类-用于取证分析的Windows证据收集.
-* [LOKI](https://github.com/Neo23x0/Loki) -免费的红外扫描仪，可使用yara规则和其他指示器（IOC）扫描端点.
+* [LOKI](https://github.com/Neo23x0/Loki) -免费的IR扫描仪，可使用yara规则和其他指示器（IOC）扫描端点.
 * [MEERKAT](https://github.com/TonyPhipps/Meerkat) -Windows的基于PowerShell的分类和威胁搜寻.
 * [Panorama](https://github.com/AlmCo/Panorama) -实时Windows系统上的快速事件概述.
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) -使用PowerShell的实时磁盘取证平台.

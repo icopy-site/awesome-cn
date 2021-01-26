@@ -36,7 +36,6 @@
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) -测试 [jscodeshift](https://github.com/facebook/jscodeshift) 带AVA的codemods.
 - [ava-preact-init](https://github.com/avajs/ava-preact-init) -设置AVA for Preact.
 - [ava-fixture](https://github.com/unional/ava-fixture) -运行夹具/基准测试.
-- [ava-playback](https://github.com/dempfi/ava-playback) -记录和回放HTTP请求.
 - [ava-fast-check](https://github.com/dubzzz/ava-fast-check) -基于属性的测试.
 - [ava-fixture-docker-db](https://github.com/cdaringe/ava-fixture-docker-db) -将docker数据库添加到您的测试上下文中.
 - [ava-webcomponents](https://github.com/Wildhoney/ava-webcomponents) -通过Puppeteer测试Web组件.

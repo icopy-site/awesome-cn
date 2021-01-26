@@ -158,3 +158,8 @@ _任何包/模块和插件_
 您也可以与朋友共享该存储库和Web货币化. 
 
 如果要添加新的小图标，则高度必须为** 16px **. 放入`assets / small_icons / NAME.png`. 仅接受格式PNG.
+
+## Donate 
+随时帮助 [me](https://github.com/thomasbnt) 为这个项目的维护！ 
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/Support%20me-on%20Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/thomasbnt?via=thomasbnt)

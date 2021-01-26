@@ -47,7 +47,7 @@
  | 处理器| 费用| 闪电| 直接到您的钱包| 转换为菲亚特| 要求|
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
 | [Confirmo](https://confirmo.net/)  |  0.8％| 没有没有是的有关企业/网站的信息. 可能需要某些文件.  |
-| [CoinGate](https://coingate.com/accept-bitcoin)  |  1％| 是的没有是的需要某些文件.  |
+| [CoinGate](https://coingate.com/accept-bitcoin)  |  1％| 是的没有是的需要 [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq) ，正式翻译成英文.  |
 | [CoinPayments](https://www.coinpayments.net/)  |  0.5％| 是的没有是的提款可能需要多种形式的身份证明，并且需要结清任何未偿金额.  |
 | [GloBee](https://globee.com/)  |  1％或（$ 30-$ 300）/ mo | 是的没有通过 [Luno](https://www.luno.com) 和 [Uphold](https://uphold.com/)  | 有关企业/网站的信息. 可能需要某些文件.  |
 | [OpenNode](https://www.opennode.co/)  |  1％| 是的没有是的可能需要验证身份. 也可能需要核实有关已收款项的详细信息或资金来源.  |

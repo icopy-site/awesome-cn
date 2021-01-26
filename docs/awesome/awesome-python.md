@@ -33,7 +33,7 @@
     * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) -分类集合的快速和纯Python实现.
     * [TheAlgorithms](https://github.com/TheAlgorithms/Python) -用Python实现的所有算法.
 *设计模式
-    * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) -一个简单而有效的库，用于实现通用设计模式.
+    * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) -一个简单而有效的库，用于实现常见的设计模式.
     * [python-patterns](https://github.com/faif/python-patterns) -Python中的设计模式集合.
     * [transitions](https://github.com/pytransitions/transitions) -轻量级的，面向对象的有限状态机实现.
 
@@ -234,7 +234,7 @@
 * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) -（Python标准库）用于异步执行可调用对象的高级接口.
 * [eventlet](http://eventlet.net/) -具有WSGI支持的异步框架.
 * [gevent](http://www.gevent.org/) -使用基于协程的Python网络库 [greenlet](https://github.com/python-greenlet/greenlet).
-* [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) -（Python标准库）基于进程的并行性.
+* [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
 * [scoop](https://github.com/soravux/scoop) -Python中的可伸缩并行操作.
 * [uvloop](https://github.com/MagicStack/uvloop) -在`libuv`之上的`asyncio`事件循环的超快速实现.
 
@@ -290,7 +290,7 @@
     * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 * [diagrams](https://github.com/mingrammer/diagrams) -图表为代码.
 * [Matplotlib](http://matplotlib.org/) -Python 2D绘图库.
-* [plotnine](https://github.com/has2k1/plotnine) -基于ggplot2的Python图形语法.
+* [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
 * [Pygal](http://www.pygal.org/en/latest/) -Python SVG Charts Creator.
 * [PyGraphviz](https://pypi.org/project/pygraphviz/) -Python接口 [Graphviz](http://www.graphviz.org/).
 * [PyQtGraph](http://www.pyqtgraph.org/) -交互式和实时2D / 3D /图像绘制以及科学/工程部件.
@@ -335,7 +335,7 @@
 
 *用于处理日期和时间的库.*
 
-* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，它提供了一种明智且人性化的方法来创建，处理，格式化和转换日期，时间和时间戳.
+* [Arrow](https://arrow.readthedocs.io/en/latest/) -一个Python库，提供了一种明智且人性化的方法来创建，处理，格式化和转换日期，时间和时间戳.
 * [Chronyk](https://github.com/KoffeinFlummi/Chronyk) -一个Python 3库，用于解析人类编写的时间和日期.
 * [dateutil](https://github.com/dateutil/dateutil) -对标准Python的扩展 [datetime](https://docs.python.org/3/library/datetime.html) 模块.
 * [delorean](https://github.com/myusuf3/delorean/) -一个库，用于清除与日期时间有关的不便事实.
@@ -760,7 +760,7 @@
 
 *不属于上述类别的有用的库或工具.*
 
-* [blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
+* [blinker](https://github.com/jek/blinker) -快速的Python处理中信号/事件分配系统.
 * [boltons](https://github.com/mahmoud/boltons) -一组纯Python实用程序.
 * [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将可信数据传递到不可信环境.
 * [magenta](https://github.com/magenta/magenta) -使用人工智能产生音乐和艺术的工具.
@@ -916,7 +916,7 @@
 
 ## RPC Servers
 
-*RPC-compatible servers.*
+*与RPC兼容的服务器.*
 
 * [RPyC](https://github.com/tomerfiliba/rpyc) （远程Python调用）-用于Python的透明且对称的RPC库
 * [zeroRPC](https://github.com/0rpc/zerorpc-python) -zerorpc是基于以下内容的灵活RPC实现： [ZeroMQ](http://zeromq.org/) 和 [MessagePack](http://msgpack.org/).
@@ -1208,7 +1208,7 @@
 *与WSGI兼容的Web服务器.
 
 * [bjoern](https://github.com/jonashaag/bjoern) -异步，非常快，用C语言编写.
-* [gunicorn](https://github.com/benoitc/gunicorn) -预分叉，部分用C编写.
+* [gunicorn](https://github.com/benoitc/gunicorn) -预分支，从Ruby的Unicorn项目移植而来.
 * [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) -一个项目旨在使用C语言编写用于构建托管服务的完整堆栈.
 * [waitress](https://github.com/Pylons/waitress) -多线程，为金字塔供电.
 * [werkzeug](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.

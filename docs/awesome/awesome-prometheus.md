@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="roaldnefs/awesome-prometheus"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Prometheus  [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的Prometheus资源，项目和工具的精选清单.
 
+<!--lint ignore double-link-->
 [![Prometheus](https://raw.githubusercontent.com/roaldnefs/awesome-prometheus/master/media/prometheus.png)](https://prometheus.io/)
 
 Prometheus是一个开源系统监视和警报工具包.
@@ -12,6 +13,7 @@ Prometheus是一个开源系统监视和警报工具包.
 
 ## Official resources
 
+<!--lint ignore double-link-->
 - [Website](https://prometheus.io/) -Prometheus官方项目网站.
 - [GitHub repository](https://github.com/prometheus/prometheus) -Prometheus的源代码，问题讨论和协作.
 - [Documentation](https://prometheus.io/docs/introduction/overview/) -Prometheus官方文档.
@@ -36,32 +38,32 @@ Prometheus是一个开源系统监视和警报工具包.
 
 ## Books
 
-- [Monitoring with Prometheus](https://www.prometheusbook.com/) -詹姆斯·特恩布尔（James Turnbull）.
-- [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) -布莱恩·巴西（Brian Brazil）.
-- [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) -由Joel Bastos和PedroAraújo撰写，Brian Brazil评论.
+- [Monitoring with Prometheus](https://www.prometheusbook.com/) -James Turnbull的Prometheus监控
+- [Prometheus: Up & Running](http://shop.oreilly.com/product/0636920147343.do) -Prometheus：由Brian Brian执导.
+- [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) -Joel Bastos和PedroAraújo撰写的使用Prometheus进行动手基础设施监控，并由Brian Brian评论.
 
 ## Videos
-- [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) -PromCon慕尼黑-2019年11月7日至8日，PromCon EU 2019
+- [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) -PromCon慕尼黑-2019年11月7日至8日，PromCon EU 2019.
 - [PromCon 2018](https://www.youtube.com/playlist?list=PLoz-W_CUquUlml1wBtQVBKErwoszt5B0h) -PromCon慕尼黑-2018年8月9日至10日-慕尼黑PromCon 2018的谈话录音.
 - [PromCon 2017](https://www.youtube.com/playlist\?list\=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt) -PromCon慕尼黑-2017年8月17-18日-柏林PromCon 2017的谈话录音.
 - [PromCon 2016](https://www.youtube.com/playlist?list=PLoz-W_CUquUlCq-Q0hy53TolAhaED9vmU) -PromCon Berlin-2016年8月25日至26日-柏林PromCon 2016的谈话录音.
 - [Prometheus Monitoring for Java Developers](https://www.youtube.com/watch?v=jb9j_IYv4cU) -比利时Devoxx-2016年11月8日-FabianStäber.
 - [Prometheus: A Next Generation Monitoring System](https://www.youtube.com/watch?v=cwRmXqXKGtk) -FOSDEM 2016-2016年1月31日-Brian Brian.
-- [PromCon 2016: So You Want to Write an Exporter](https://www.youtube.com/watch?v=KXq5ibSj2qA) -PromCon 2016-所以你想写出口商-Brian Brazil
+- [PromCon 2016: So You Want to Write an Exporter](https://www.youtube.com/watch?v=KXq5ibSj2qA) -PromCon 2016-所以你想写一个出口商-Brian Brazil.
 - [Infrastructure and application monitoring using Prometheus](https://www.youtube.com/watch?v=5GYe_-qqP30) -Devoxx-2017年5月17日在英国Devoxx-Marco Pas.
 - [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) -比利时Devoxx-2017年11月7日-FabianStäber.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) -Docker-2016年10月14日-Julius Volz.
-- [Explain it Like I’m Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) -Monitorama PDX，2019年-Dave Cadwallader.
+- [Explain it Like I'm Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) -Monitorama PDX，2019年-Dave Cadwallader.
 - [Best Practices and Beastly Pitfalls](https://www.youtube.com/watch?v=_MNYuTNfTb4) -PromCon 2017：最佳实践和野兽陷阱-Julius Volz.
 - [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) -普罗米修斯计数-布赖恩·巴西（Brian Brazil），稳健的洞察力.
-- [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) -了解和扩展Prometheus AlertManager-SolarWinds的Lee Calcote
+- [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) -了解和扩展Prometheus AlertManager-SolarWinds的Lee Calcote.
 - [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) -PromCon 2016：Prometheus时间序列数据库-BjörnRabenstein.
 - [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) -GOTO 2019：Prometheus的系统和服务监控简介-Julius Volz.
 - [Prometheus Deep Dive](https://www.youtube.com/watch?v=Me-kZi4xkEs) -GitLab：Prometheus深潜-Ben Kochie.
 
 ## Podcasts and interviews
 
-- [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -  Julius Volz on the FLOSS Weekly TWiT.tv show.
+- [Prometheus on FLOSS Weekly 357](https://twit.tv/shows/floss-weekly/episodes/357) -朱莉叶斯·沃尔兹（Julius Volz）在FLOSS每周TWiT.tv节目中.
 - [Prometheus and Service Monitoring](https://changelog.com/podcast/168) -Changelog播客中的Julius Volz.
 - [Prometheus Monitoring with Brian Brazil](https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/) -Brian Brazil在《软件工程日报》播客中.
 
@@ -97,7 +99,7 @@ Prometheus是一个开源系统监视和警报工具包.
 
 - [Ansitheus](https://github.com/ntk148v/ansitheus) -Ansible剧本，由ntk148v_来容器化，配置和部署Prometheus生态系统.
 - [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) -负责管理Prometheus，Alertmanager，Grafana和CommonPrometheus出口商的角色.
-- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -用于安装Prometheus监控系统，出口商（例如：节点，snmp，黑匣子）的Ansible剧本，由Ernestas Poskus_制作警报管理器和推送网关.
+- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -用于安装Prometheus监控系统的Ansible剧本，出口商如：node，snmp，blackbox，因此由Ernestas Poskus_警报管理器和推送网关.
 - [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) -Google的来源单击以部署GoogleCloud Marketplace上列出的Prometheus解决方案_by GoogleCloudPlatform_.
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator) -Prometheus Operator通过CoreOS_在Kubernetes上创建/配置/管理Prometheus集群.
 
@@ -128,7 +130,7 @@ Prometheus是一个开源系统监视和警报工具包.
 
 - [Multi-prometheus proxy](https://github.com/matt-deboer/mpp) -使用选择器策略将传入的请求转发到部署为彼此的HA副本的多个Prometheus实例中的一个.
 - [Promxy](https://github.com/jacksontj/promxy) -对Prometheus HA对中的数据进行重复数据删除.
-- [Trickster](https://github.com/tricksterproxy/trickster) -用于HTTP应用程序的HTTP反向代理/缓存和用于时间序列数据库的仪表板查询加速器.
+- [Trickster](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy/cache for HTTP applications and a dashboard query accelerator for time series databases.
 - [exporter_proxy](https://github.com/mrichar1/exporter_proxy) -适用于Prometheus出口商的小巧，简单的纯Python反向代理，具有TLS支持.
 
 ## High Availability
@@ -142,10 +144,3 @@ Prometheus是一个开源系统监视和警报工具包.
 
 - [Prometheus Monitoring subreddit](https://www.reddit.com/r/PrometheusMonitoring/) -Subreddit收集Internet上所有与Prometheus相关的资源.
 - [PromCon](https://promcon.io/) -普罗米修斯会议.
-
-
-## License
-
-[![CC0](https://camo.githubusercontent.com/60561947585c982aee67ed3e3b25388184cc0aa3/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [Roald](https://github.com/roaldnefs/) 放弃了此作品的所有版权以及相关或邻近的权利.

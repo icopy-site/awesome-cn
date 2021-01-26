@@ -20,6 +20,7 @@
 
 - [Beaker](http://beakerx.com/) -具有从一种语言到另一种语言的无缝数据传输的开发环境.
 - [docker-stacks](https://github.com/jupyter/docker-stacks) -Docker中可立即运行的Jupyter应用程序的分层堆栈.
+- [Guild AI](https://my.guild.ai/docs/jupyter-notebook-experiments/) -将笔记本作为实验来执行，以随时间捕获和比较结果.
 - [Hydrogen](https://github.com/nteract/hydrogen) -使用Jupyter内核在Atom中内联运行代码.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) -主要的Jupyter笔记本运行时.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) -Jupyter的多用户服务器.
