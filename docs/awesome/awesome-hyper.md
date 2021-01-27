@@ -6,7 +6,7 @@
 
 &gt;甜蜜的Hyper精选清单 [packages](#packages), [themes](#themes)和 [resources](#resources).
 
-*灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 您可能还喜欢 [awesome-node](https://github.com/sindresorhus/awesome-nodejs) 和 [awesome-npm](https://github.com/sindresorhus/awesome-npm)，它们都具有可与Hyper！*一起使用的CLI内容.
+*灵感来自 [awesome](https://github.com/sindresorhus/awesome) 列出的东西. 你可能还喜欢 [awesome-node](https://github.com/sindresorhus/awesome-nodejs) 和 [awesome-npm](https://github.com/sindresorhus/awesome-npm)，它们都具有可与Hyper！*一起使用的CLI内容.
 
 *请阅读 [contribution guidelines](https://github.com/bnb/awesome-hyper/blob/master/CONTRIBUTING.md) 在捐款之前.*
 
@@ -140,7 +140,7 @@
 [hyper-cat](https://www.npmjs.com/package/hyper-cat)  -键入时将终端变成nyan cat.  | [![npm](https://img.shields.io/npm/dm/hyper-cat.svg?label=DL)](https://www.npmjs.com/package/hyper-cat)
 [hyper-cat-cursor](https://www.npmjs.com/package/hyper-cat-cursor)  -用猫表情符号序列替换光标.  | [![npm](https://img.shields.io/npm/dm/hyper-cat-cursor.svg?label=DL)](https://www.npmjs.com/package/hyper-cat-cursor)
 [gitrocket](https://www.npmjs.com/package/gitrocket)  -当您使用Git推送代码时，在您的终端发射火箭船！  | [![npm](https://img.shields.io/npm/dm/gitrocket.svg?label=DL)](https://www.npmjs.com/package/gitrocket)
-[hypergravity](https://www.npmjs.com/package/hypergravity)  -在您的终端机中添加一些奇特的物理原理！  | [![npm](https://img.shields.io/npm/dm/hypergravity.svg?label=DL)](https://www.npmjs.com/package/hypergravity)
+[hypergravity](https://www.npmjs.com/package/hypergravity)  -在您的终端中添加一些奇特的物理原理！  | [![npm](https://img.shields.io/npm/dm/hypergravity.svg?label=DL)](https://www.npmjs.com/package/hypergravity)
 [space-pull](https://www.npmjs.com/package/space-pull)  -使用git拉代码时，在您的终端中添加登陆火箭的动画.  | [![npm](https://img.shields.io/npm/dm/space-pull.svg?label=DL)](https://www.npmjs.com/package/space-pull)
 [hyper-bloodbath](https://www.npmjs.com/package/hyper-bloodbath)  -对超能力的残酷重新想象. 从光标上滴出鲜血.  | [![npm](https://img.shields.io/npm/dm/hyper-bloodbath.svg?label=DL)](https://www.npmjs.com/package/hyper-bloodbath)
 [hyper-postprocessing](https://www.npmjs.com/package/hyper-postprocessing)  -将片段着色器添加到Hyper终端.  | [![npm](https://img.shields.io/npm/dm/hyper-postprocessing.svg?label=DL)](https://www.npmjs.com/package/hyper-postprocessing)
@@ -190,6 +190,7 @@
 [hyper-nord](https://www.npmjs.com/package/hyper-nord)  -Hyper的Nord主题.  | [![npm](https://img.shields.io/npm/dm/hyper-nord.svg?label=DL)](https://www.npmjs.com/package/hyper-nord)
 [hyper-oceans16](https://www.npmjs.com/package/hyper-oceans16)  -基于Base16 Ocean语法的饱和主题.  | [![npm](https://img.shields.io/npm/dm/hyper-oceans16.svg?label=DL)](https://www.npmjs.com/package/hyper-oceans16)
 [hyper-oldschool](https://www.npmjs.com/package/hyper-oldschool)  -Hyper的旧学校终端主题.  | [![npm](https://img.shields.io/npm/dm/hyper-oldschool.svg?label=DL)](https://www.npmjs.com/package/hyper-oldschool)
+[hyper-omni-theme](https://www.npmjs.com/package/hyper-omni-theme)  -Hyper的Omni主题.  | [![npm](https://img.shields.io/npm/dm/hyper-omni-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-omni-theme)
 [hyper-one-dark-vivid](https://www.npmjs.com/package/hyper-one-dark-vivid)  -基于Atom One Dark的深色主题，具有更生动的文本颜色.  | [![npm](https://img.shields.io/npm/dm/hyper-one-dark-vivid.svg?label=DL)](https://www.npmjs.com/package/hyper-one-dark-vivid)
 [hyper-one-light](https://www.npmjs.com/package/hyper-one-light) -灯光-一个非常可爱的主题，具有基于 [Atom One Light](https://github.com/atom/one-light-syntax) 托盘.  | [![npm](https://img.shields.io/npm/dm/hyper-one-light.svg?label=DL)](https://www.npmjs.com/package/hyper-one-light)
 [hyper-papercolor](https://www.npmjs.com/package/hyper-papercolor) - [PaperColor](https://github.com/NLKNguyen/papercolor-theme)  Hyper的主题.  | [![npm](https://img.shields.io/npm/dm/hyper-papercolor.svg?label=DL)](https://www.npmjs.com/package/hyper-papercolor)

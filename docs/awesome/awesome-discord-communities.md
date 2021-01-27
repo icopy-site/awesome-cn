@@ -282,6 +282,12 @@ Notable Channels: `#release-branch`, `#development-branch`, `#installation-hassi
 
 ### Hardware
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/electronics_repair_school.webp" />
+
+[__Electronics Repair School__](http://invite.ers.repair/) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.youtube.com/channel/UCooKQlg-HZ0PFAPc4Ymg3RA) \
+Notable Channels: `#projects`, `#tools-and-parts`, `#networking`, `#automotive`, `#solar-energy`, `#beginners-area`, `#diy-arduino-rpi-stm32`, `#laptops`, `#pc-repair`, `#phones`, `#consoles`, `#tablets` \
+英语语言
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/ltt_official.webp" />
 
 [__LTT Official__](https://discord.com/invite/ltt) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.youtube.com/user/LinusTechTips) \
@@ -966,7 +972,7 @@ Notable Channels: `#big_sur_discussions`, `#development_discussions`, `#b550_dev
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/apple_betas.webp" />
 
-[__Apple Betas__](https://discord.com/invite/beta) [<img height="16px" width="16px" alt="Reddit Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.reddit.com/r/iOSBeta/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/23Aaron/JeffBot) \
+[__Apple Betas__](https://discord.com/invite/4EEkWjS) [<img height="16px" width="16px" alt="Reddit Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.reddit.com/r/iOSBeta/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/23Aaron/JeffBot) \
 Notable Channels: `#releases`, `#general`, `#ios`, `#ipados`, `#macos`, `#watchos`, `#tvos`, `#xcode`, `#development` \
 英语语言 \
 <br />
@@ -985,8 +991,8 @@ Notable Channels: `#showcase`, `#common-issues`, `#jailbreak`, `#general`, `#the
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/hackintosh_x86.webp" />
 
-[__Hackintosh x86__](https://discord.com/invite/55sDptx) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.hackintoshx86.com/) \
-Notable Channels: `#general-chat`, `#opencore`, `#acpi-ssdt`, `#bios-mods`, `#virtualization`, `#hardware`, `#gaming`, `#efi-database`, `#benchmarks` \
+[__Hackintosh x86 & Tech__](https://discord.com/invite/qc89CQkX7j) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](http://www.hackintoshx86.co.uk/) \
+Notable Channels: `#app-fixes`, `#hackintosh-help`, `#benchmarks-and-desks`, `#hack-art`, `#linux`, `#useful-files`, `#coding`, `#efi-database` \
 英语语言
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/shortcuts.webp" />
@@ -1332,7 +1338,7 @@ Notable Channels: `#metrix-discussion`, `#day_trading` \
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/nano.webp" />
 
-[__Nano__](https://discord.com/invite/UEezG6U) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://nano.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/nanocurrency) \
+[__Nano__](https://chat.nano.org/) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://nano.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/nanocurrency) \
 Notable Channels: `#general`, `#documentation`, `#development`, `#decentralization`, `#graphic-design`, `#business`, `#events`, `#integration`, `#protocol`, `#roadmap`, `#support` \
 语言：英语，西班牙语，俄语，巴哈萨语印度尼西亚语，意大利语，德语，英语，法语，葡萄牙语，图尔克语，蒂昂维斯特
 

@@ -122,7 +122,7 @@
 * [pgtune](https://github.com/gregs1104/pgtune/) -PostgreSQL配置向导.
 * [pgtune](https://github.com/le0pard/pgtune) -PostgreSQL配置向导的在线版本.
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) -PostgreSQL在线配置工具（也基于pgtune）.
-* [PoWA](https://powa.readthedocs.io/en/latest/) -PostgreSQL Workload Analyzer收集性能统计数据，并提供实时图表，以帮助监视和调整PostgreSQL服务器.
+* [PoWA](https://powa.readthedocs.io/en/latest/) -PostgreSQL Workload Analyzer收集性能统计信息并提供实时图表，以帮助监视和调整PostgreSQL服务器.
 * [pg_web_stats](https://github.com/kirs/pg_web_stats) -用于查看pg_stat_statements的Web UI.
 * [TimescaleDB Tune](https://github.com/timescale/timescaledb-tune) -一种程序，用于根据主机的资源（例如内存和CPU数量）调整TimescaleDB数据库以使其发挥最佳性能.
 
@@ -171,7 +171,7 @@
 * Clojure： [clj-postgresql](https://github.com/remodoy/clj-postgresql)
 *药剂： [postgrex](https://github.com/elixir-ecto/postgrex)
 * 走： [pq](https://github.com/lib/pq), [pgx](https://github.com/jackc/pgx)
-* Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
+* Haskell： [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java： [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net / .Net核心： [Npgsql](https://github.com/npgsql/npgsql)
 *节点： [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise), [pogi](https://github.com/holdfenytolvaj/pogi), [slonik](https://github.com/gajus/slonik), [postgres](https://github.com/porsager/postgres)
@@ -193,6 +193,7 @@
 * [ElephantSQL](https://www.elephantsql.com/)  -提供数据库，从用于较小项目的共享服务器到概念验证，再到企业级多服务器设置. 有免费计划，最多可容纳5个DB，每个DB 20 MB.
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) -完全托管的数据库服务，可轻松在Google Cloud Platform上设置，维护，管理和管理PostgreSQL关系数据库.
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql)  -由PostgreSQL专家操作的计划从免费到庞大. 不需要在Heroku上运行您的应用程序. 免费计划包括10,000行，20个连接，最多两个备份，并具有PostGIS支持.
+* [Scaleway Managed Database](https://www.scaleway.com/en/database/)  -在欧洲托管的具有HA，可伸缩性和自动备份的完全托管的PostgreSQL数据库. 每月10欧元起.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/)  -具有citus扩展名的Citus官方图片. 基于官方的Postgres容器.
@@ -209,7 +210,7 @@
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) -PostgreSQL上的教程非常丰富
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) -示例postgres模式的集合
 * [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/) -PostgreSQL中使用的最常用命令的集合
-* [pg-utils](https://github.com/dataegret/pg-utils) -Data Egret有用的DBA工具
+* [pg-utils](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) -PostgreSQL的博客聚合服务.
