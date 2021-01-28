@@ -104,6 +104,7 @@
 - [codesandbox](https://codesandbox.io/s/new) -使用集成的React DevTools进行快速React开发的在线IDE.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) -小型JavaScript编译器，可直接在网页上快速将JSX转换为JS
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) -猴子补丁反应可通知您有关可避免的重新渲染.
+- [Divjoy](https://divjoy.com) -React代码库和UI生成器以加快开发速度（收费）
 
 ##### React Frameworks
 
@@ -147,7 +148,7 @@
 - [rsuite](https://github.com/rsuite/rsuite) -一套React组件
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -Atlassian的官方UI库，根据Atlassian设计指南构建.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
-- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，其中包含50多个具有材质，引导程序和自定义主题的组件.
+- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，包含50多个具有材质，自举和自定义主题的组件.
 - [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
 - [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
 - [rbx](https://github.com/dfee/rbx) -React的综合Bulma UI框架
@@ -168,7 +169,7 @@
 - [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) -使用React构建的类似于Excel的网格组件
 - [react-draggable](https://github.com/mzabriskie/react-draggable) -反应可拖动组件
-- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -React的可调整大小和可拖动组件
+- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
 - [react-resizable](https://github.com/strml/react-resizable) -可通过手柄调整大小的简单React组件
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -用于React的可调整大小的组件
 - [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) -简约搜索框
@@ -235,7 +236,7 @@
 - [react-icons](https://github.com/gorangajic/react-icons) -svg反应常用图标包的图标
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) -很棒的免费插图作为反应成分.
 - [Keo](https://github.com/Wildhoney/Keo) -普通函数，用于创建React组件的更具功能性的Deku方法，并具有管道，备忘录等功能性功能.
-- [Bit](https://github.com/teambit/bit) -虚拟仓库，用于跨应用程序管理和使用React和其他Web组件
+- [Bit](https://github.com/teambit/bit) - A virtual repository for managing and using react and other web components across applications
 - [AtlasKit](https://atlaskit.atlassian.com/) -Atlassian的React UI库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) -Elasticsearch的UI组件库
 - [Slate](https://github.com/ianstormtaylor/slate) -用于构建富文本编辑器的完全可自定义的框架.
@@ -312,7 +313,7 @@
 - [react-three-renderer](https://github.com/toxicFork/react-three-renderer) -使用React渲染成three.js画布
 - [react-threejs](https://github.com/fritx/react-threejs) -React和Three.js之间最简单的绑定
 - [react-masonry-css](https://github.com/paulcollett/react-masonry-css) -由CSS提供支持的快速砌体布局，无依赖
-- [react-captcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
+- [react-captcha](https://github.com/appleboy/react-recaptcha) -适用于Google的react.js reCAPTCHA
 - [reaptcha](https://github.com/sarneeh/reaptcha) -干净，现代，简单的Google reCAPTCHA React包装器
 - [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) -适用于React的reCAPTCHA桥
 - [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) -用于React的官方CKEditor 4 RTF编辑器组件

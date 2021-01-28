@@ -1616,6 +1616,7 @@ ztheme是ZSH的小型快速主题引擎.
 * [unit-1](https://github.com/nerdbude/Unit-1) -带有ITWTB颜色的简约主题.
 * [vanan](https://github.com/avano/vanan-zsh-theme) -极简主义主题，带有用于黑暗终端的git信息.
 * [vinhnx](https://github.com/vinhnx/vinhnx.zsh-theme) -修改自themes / mgutz.zsh-theme.当与 [Solarized](https://github.com/altercation/solarized) 配色方案.
+* [vulcan](https://github.com/Bruceboy/vulcan-zsh-theme)  -最小的主题让人联想到默认的bash主题. 包括git装饰.
 * [wade](https://github.com/wadehammes/wade.zsh-theme) -流行的ZSH主题混搭 [Agnoster](https://gist.github.com/agnoster/3712874) 和 [Fishy](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fishy.zsh-theme)，并进行一些视觉上的调整.
 * [wang-iterm](https://github.com/0532/wang-iterm-zsh) -基于0532主题.
 * [whale](https://github.com/whalesea520/whale-zsh-theme) -快速重新实现鲸鱼主题.

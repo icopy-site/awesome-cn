@@ -442,6 +442,13 @@ Notable Channels: `#general`, `#show-your-work`, `#tools`, `#flixel`, `#heaps`, 
 
 ### Java
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/JavaDiscord.webp" />
+
+[__Java__](https://join.javadiscord.net) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://javadiscord.net) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/Java-Discord) \
+Notable Channels: `#question-of-the-week`, `#share-knowledge`, `#community-jam`, `#resources` \
+英语语言 \
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/together_java.webp" />
 
 [__Together Java__](https://discord.gg/hVtnwGd) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/Together-Java) \

@@ -22,7 +22,7 @@
 * [Chaos Communications Congress (CCC)](https://www.ccc.de/) -CCC举办了德国选拔锦标赛.
 * [DEF CON](https://defcon.org/) -年度信息安全行业会议，在许多带有locksport竞赛的锁选程序中很受欢迎.
 * [Hackers On Planet Earth (HOPE)](https://hope.net/) -年度会议通常以锁定体育比赛和有关物理安全的演示为特色.
-* [OzLockCon](https://ozlockcon.com/) -以澳大利亚人身安全为重点的开放社区活动，该活动举办了一次开锁和手铐逃脱比赛.
+* [OzSecCon](https://ozseccon.com/) -以澳大利亚人身安全为重点的开放社区活动，该活动举办了一次开锁和手铐逃脱比赛.
 * [LockCon](https://toool.nl/LockCon) -每年一次的国际邀请会议，涉及受尊敬的锁体育组织成员的锁.
 
 ## Hobby projects

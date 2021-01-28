@@ -5,7 +5,7 @@
 
 &gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要用于初学者/中级的资源.
 
-创意编码是与编程系统不同的学科. 我们的目标是创建具有表现力的东西，而不是功能性的东西.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表达为编码的艺术品.
+创意编码是与编程系统不同的学科. 我们的目标是创建具有表现力的东西，而不是功能性的东西.  **互动设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表达为编码的艺术品**.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在捐款之前.*
 
@@ -255,7 +255,7 @@
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
-- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -史蒂文·维滕斯（Steven Wittens）谈WebGL，GPU和数学.
+- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -Matt DesLauriers的FITC谈谈他对艺术创作的热情.
 
@@ -299,7 +299,7 @@
 - [THREE.js & instanced geometry](http://barradeau.com/blog/?p=1109) -具有three.js和实例几何的蓬松捕食者.
 - [Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/) -如何使用广告牌和WebGL创建粒子效果.
 - [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html) -如何使用Regl创建GPGPU粒子.
-- [WebGL Tutorial: Directional Shadow Mapping without extensions](https://github.com/terkelg/awesome-creative-coding/blob/master/9www.chinedufn.com/webgl-shadow-mapping-tutorial/) -实时定向光影映射背后的概念介绍.
+- [WebGL Tutorial: Directional Shadow Mapping without extensions](https://www.chinedufn.com/webgl-shadow-mapping-tutorial/) -实时定向光影映射背后的概念介绍.
 - [WebGL Quest](http://xem.github.io/articles/#webgl_quest_2) -一个教程和一系列有用的资源，可以轻松地使用WebGL raymarching和距离功能.
 - [Exploring bump mapping with WebGL](http://apoorvaj.io/exploring-bump-mapping-with-webgl.html) -介绍不同的凹凸贴图技术.
 - [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) -甲板上的OpenGL / GLSL着色器编程.

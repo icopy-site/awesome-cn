@@ -72,7 +72,7 @@
 * [Designer Pics](http://www.designerspics.com) - [:copyright:](http://www.designerspics.com/faq-and-terms/) 免费的个人和商业照片 [Jeshu John](https://twitter.com/jeshujohn).
 * [Foodies Feed](https://www.foodiesfeed.com/) -基于食物的免费图片. [:copyright:](https://www.foodiesfeed.com/faq/).
 * [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php) 用于商业和非商业用途的优质库存照片. 免费.
-* [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
+* [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) 每天免费添加一张免费使用的照片.
 * [ISO Republic](https://isorepublic.com/) - [:copyright:](https://isorepublic.com/terms/) ISO Republic为广告素材提供独家的免费库存照片.
 * [Kaboom Pics](https://kaboompics.com/) - [:copyright:](https://kaboompics.com/page/license-and-faq) 商业或个人项目获得令人惊叹的免费图片的好地方.
 * [morgueFile](https://morguefile.com/) - [:copyright:](https://morguefile.com/terms) 广告素材的免费照片存档，用于广告素材.
@@ -200,7 +200,7 @@ CSS和基于图像的模式资源的混合体.
 * [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) 认识Devicons，这是一种为开发人员，代码jedis，忍者，HTTPster，福音传播者和书呆子（sic）设计的标志性字体.  100多个图标可在您的下一个项目中使用.
 * [Iconfinder](https://www.iconfinder.com/)  -Iconfinder为数百万设计师和开发人员提供了精美的图标. 大多数图标在归因下可用. 有关更多详细信息，请参见各个许可证.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT许可的图标字体.
-* [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F)  -Fontello是一种将矢量图像快速打包到webfonts中的工具. 还包括部分股票图标.
+* [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](https://choosealicense.com/licenses/mit/) 来自基金会框架背后人员的Zurb的图标字体.
 * [IcoMoon](https://icomoon.io/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) 自定义和清晰的图标字体，正确完成.
 * [Ionicons](http://ionicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/)  Ionic Framework的高级图标字体.  100％免费和开源.
@@ -225,14 +225,14 @@ SVG图标资源的集合，可以在您的界面和网站设计中使用.
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) 越来越多的SVG图标集合主要针对视频游戏.
 * [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Tailwind CSS制造商提供的精美免费的SVG图标.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) 大量SVG和PNG格式的图标供您选择.
-* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon是世界上几乎每个国家/地区的免费地图收藏，有11种不同尺寸，尺寸从16x16像素到1024x1024像素，以及.svg格式.
+* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon是世界上几乎每个国家/地区的免费地图集合，有11种不同尺寸，从16x16像素到1024x1024像素，以及.svg格式.
 * [Material Design Icons](https://www.materialui.co/icons) -一组免费的材料设计样式图标.
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) 流行品牌的SVG图标.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) 来自世界各地的创作者设计了超过15万个图标. 免费用户必须感谢创建者.
 
 ## Colors
 
-一系列提供配色方案的网站.
+A selection of websites offering color schemes.
 
 * [0to255](http://www.0to255.com/) -一个简单的工具，可帮助网页设计师查找任何颜色的变体.
 * [0xrgb](http://0xrgb.com/) -用于知名调色板（材料，iOS，FlatUI，Metro，Tango，太阳能化调色板）的简约颜色选择器.
@@ -275,7 +275,7 @@ SVG图标资源的集合，可以在您的界面和网站设计中使用.
 * [Bensound](https://www.bensound.com) - [:copyright:](https://www.bensound.com/licensing) Bensound的免版税音乐.
 * [ccMixter](http://ccmixter.org/) - [:copyright:](http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org提供了30,000多个原始曲目，可在YouTube视频，混音，移动应用程序，游戏等中免费使用.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) 免费循环和音频剪辑.
-* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/)，是美国最著名的自由格式广播电台.
+* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) 一个交互式的高质量法律音频下载的图书馆，由 [WFMU](https://wfmu.org/)，是美国最著名的自由格式广播电台.
 * [Freesound](https://freesound.org/) - [:copyright:](https://freesound.org/help/about/) 音频片段，样本，录音和哔哔声的协作数据库.
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels收集主机完整，可免费下载/流式传输.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) 独立的音乐社区，拥有大量的创作共用许可音乐.

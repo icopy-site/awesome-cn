@@ -36,7 +36,7 @@
 
 ### JavaScript
 
-- [JavaScript Weekly](https://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](https://javascriptweekly.com/issues).
+- [JavaScript Weekly](https://javascriptweekly.com/) .  JavaScript新闻和文章的每周一次免费电子邮件摘要. [Archive](https://javascriptweekly.com/issues).
 - [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) . 每月两次向电子通讯发送电子邮件，其中包括针对设计人员和开发人员的有用提示，技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) . 每隔一周就会向您的收件箱发送一个快速的JavaScript提示.
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和Web设计新闻，重点关注工具.
@@ -57,7 +57,7 @@
 - [React Status](https://react.statuscode.com/) . 最新的React和React Native链接和教程的每周综述.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter) . 每周最受欢迎的React新闻，文章和库的概述.
 - [ActReact](https://www.actreact.io) . 每周在收件箱中从社区的最佳内容中学习React.
-- [This Week In React](https://this-week-in-react.org/) . 每周围绕React Core和React DOM进行有趣的请求请求，讨论和RFC的报道. 每个星期五出来.
+- [This Week In React](https://this-week-in-react.org/). Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM. Coming out every Friday.
 - [Tiny React](https://tinyreact.email) . 收件箱中本周排名前三的React文章.
 - [React Explained](https://www.getrevue.co/profile/react-explained) . 供人们学习React的每周新闻通讯.
 - [Next.js News](https://nextjsnews.com) . 每月发送一次关注Next.js的新闻通讯. 包含即将发布的功能，最佳文章，工具和插件的评论.
@@ -104,7 +104,7 @@
 - [Web Animation Weekly](http://webanimationweekly.com/) . 精选的文章，视频，书评以及与网络动画和动作设计的奇妙世界相关的其他商品！
 - [Design Systems News](http://news.design.systems/) . 有关设计系统，模式库和样式指南的最新新闻，文章，存储库，代码，框架，视频和播客. [Archive](http://news.design.systems/issues).
 - [Designgest](http://designgest.com/) .  Designgest是一种获取有关交互式设计趋势的最新信息的简便方法.
-- [Unreadit/Design](https://unread.it/n/design/). Design inspiration and great design-related content sourced from the best subreddits.
+- [Unreadit/Design](https://unread.it/n/design/) . 设计灵感和与最佳设计有关的优秀设计内容.
 - [realusers.club](https://realusers.club) . 每周进行的真实用户访谈.
 - [Figmalion](https://figmalion.com) . 每两周一次的时事通讯 [Figma](https://www.figma.com/).
 
@@ -116,7 +116,7 @@
 
 ### SVG
 
-- [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
+- [SVG Weekly](https://tinyletter.com/svgweekly) . 每周电子邮件关注可伸缩矢量图形（SVG），共享教程，工具，实验，演讲和数据.
 
 ### GraphQL
 
@@ -126,7 +126,7 @@
 
 ### Common Section
 
-- [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) . 每周接收来自业内人士的编程新闻和见解.
+- [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) . 每周接收来自行业内部人士的编程新闻和见解.
 - [Programming Digest](https://programmingdigest.net/) . 面向软件工程师的每周新闻，其中包含前5个链接. [Archive](https://programmingdigest.net/digests).
 - [Morning Cup of Coding](https://morningcupofcoding.com) . 每日新闻通讯，其中包含编程所有领域的长篇技术文章.
 - [Weekly Dev Tips](https://ardalis.com/tips) . 每个星期三发送一封电子邮件，其中包含来自的新软件开发提示 [Steve "ardalis" Smith](https://twitter.com/ardalis) . 主题范围从git到职业生涯到网站开发再到个人发展和团队合作.
@@ -167,7 +167,7 @@
 - [Go Newsletter](https://golangweekly.com/) . 关于Go编程语言的每周新闻. [Archive](https://golangweekly.com/issues).
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter) . 每周最受欢迎的Go新闻，文章和库的概述.
 - [Master the World of Golang](https://www.getrevue.co/profile/golang) . 每周新闻通讯，其中包含有关理论，趋势，工具和主题的精美故事.
-- [Go Gazette](http://www.go-gazette.com/) . 每周为Golang老年人策划的博客和工具.
+- [Go Gazette](http://www.go-gazette.com/). Weekly curated blogs and tools for Golang seniors.
 - [GoNotícias](https://gonoticias.substack.com/) . 关于葡萄牙语Go语言编程语言的每周新闻.
 
 ### R
@@ -178,7 +178,7 @@
 
 - [Ruby Weekly](https://rubyweekly.com/) . 每周一次免费的Ruby新闻和文章电子邮件摘要.
 - [Ruby Articles](https://thoughtbot.com/blog/tags/ruby) .  Ruby发帖人 [Thoughtbot](https://thoughtbot.com)
-- [Rails Weekly](https://rails-weekly.ongoodbits.com/) . 每周内从Rails中获取有趣的提交，拉取请求和更多内容的信息，每个星期五都发送到您的收件箱中.
+- [Rails Weekly](https://rails-weekly.ongoodbits.com/) . 每周内从Rails中获取有趣的提交，拉取请求和更多内容的信息，每个星期五都发送到您的收件箱.
 - [Volt Framework](http://voltframework.com/) .  Volt是一个用于快速构建数据丰富的Web应用程序的框架.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) . 很棒的Ruby宝石，工具，框架和软件的集合.
 
@@ -189,7 +189,7 @@
 - [Awesome PHP Newsletter](https://php.libhunt.com/newsletter) . 精选的PHP库和资源的精选列表.
 - [Freek.dev](https://freek.dev/newsletter/) . 有关现代PHP和Laravel的双周刊.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) Laravel社区的每周提示和技巧.
-- [La semana PHP](https://www.lasemanaphp.com/) . 每周用西班牙语发布有关PHP及其生态系统的新闻，教程和信息：Laravel，Symfony，WordPress，Drupal等...由JesúsAmieiro手动选择.
+- [La semana PHP](https://www.lasemanaphp.com/) . 每周以西班牙语发布有关PHP及其生态系统的新闻，教程和信息：Laravel，Symfony，WordPress，Drupal等...由JesúsAmieiro手动选择.
 - [Bootsity Newsletter](https://bootsity.com/) . 一个免费的两周一期的新闻通讯，用于整理精彩的文章，视频和新闻.
 
 ### Python
@@ -198,6 +198,7 @@
 - [Weekly Python Newsletter](https://importpython.com/newsletter/) . 每周Python新闻快讯，其中包含您的收件箱中提供的Python文章，项目，视频，推文. [Archive](https://importpython.com/newsletter/archive/).
 - [Pycoders Weekly](https://pycoders.com/) . 星期五，免费每周提供一次电子邮件时事通讯，以供对python开发和有关python各种主题感兴趣的人使用.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) . 每周最受欢迎的Python新闻，文章和软件包概述.
+- [Data Science Simplified](https://mathdatasimplified.com/) . 每天的Python和数据科学摘要.
 
 ### Groovy
 
@@ -328,7 +329,7 @@
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
-- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/) . 免费的每周新闻通讯，精选与数据科学相关的新闻，文章和工作.
+- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/). A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 - [Data Eng Weekly](https://dataengweekly.com) . 您的每周数据工程新闻（以前为Hadoop每周）. [Archive](https://dataengweekly.com/archive.html).
 - [Data Elixir](https://dataelixir.com/) . 每周一期的新闻通讯，介绍来自网络的最佳数据科学新闻和资源. [Archive](https://dataelixir.com/newsletters/).
 - [Artificial Intelligence Weekly](http://aiweekly.co/) . 每周收集有关人工智能和机器学习的最佳新闻和资源.
@@ -379,6 +380,7 @@
 - [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) . 一个特殊的仓库，可以在GitHub上以您喜欢的编程语言跟踪趋势项目. 每天或每周一次以GitHub通知的形式进行更新.
 - [HN Mail](https://hnmail.io) . 可自定义的每周新闻，根据您的兴趣提供Hacker News故事.
 - [Stratus Update](https://www.manifold.co/stratusupdate) . 每周拍摄一次迅速蒸发并凝结的云原生景观.
+- [Senior Mindset](https://seniormindset.com) . 以高级软件工程师的心态获取一系列精选论文.
 
 ## Resilience
 
@@ -403,7 +405,7 @@
 - [Code Cartoons](https://tinyletter.com/codecartoons) . 通过电子邮件通过卡通学习代码.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) . 可以在本地托管的免费软件解决方案和Web应用程序的目录.
 - [lkml.wtf](https://lkml.wtf/) . 每周一次的Linux Kernel Mailing List线程综述，但讽刺得多.
-- [The ListServe](http://thelistserve.com/) . 一个免费的，独特的“彩票”通讯，每天选择一个订阅者，并将其电子邮件提交发送给所有其他订阅者. 主题在主题和质量上都不同.
+- [Kleroteria](https://www.kleroteria.org) . 一个免费的，独特的“彩票”通讯，在其中选择一个订阅者，并将其电子邮件提交发送给所有其他订阅者. 主题在主题和质量上都不同.
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) . 工程团队经理的每周新闻，涵盖领导力，文化，扩展和软件开发生产力.
 - [tl;dr Marketing](https://tldrmarketing.com/) . 面向数字营销人员的每周新闻，涵盖有关SEO，PPC和社交媒体的新闻.
 - [Startup Watching](https://startupwatching.com/) . 为初创企业策划知识，灵感和背景故事. 每个星期一和星期四都发送到您的收件箱.

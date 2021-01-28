@@ -91,7 +91,7 @@
 * [Tensorflow detection model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) -在COCO，KITTI，AVA v2.1，iNaturalist Species数据集上进行了预培训.
 
 ## Ideas and Inspiration
-* [E2E TFLite Tutorials](https://github.com/ml-gde/e2e-tflite-tutorials)  -签出此仓库以获取示例应用程序构想，并为您的教程项目寻求帮助. 一旦项目完成，TensorFlow Lite模型，示例代码和教程的链接将被添加到这个很棒的列表中.
+* [E2E TFLite Tutorials](https://github.com/ml-gde/e2e-tflite-tutorials)  -签出此仓库以获取示例应用程序创意并寻求教程项目的帮助. 一旦项目完成，TensorFlow Lite模型，示例代码和教程的链接将被添加到这个很棒的列表中.
 
 ## ML Kit examples
 [ML Kit](https://developers.google.com/ml-kit) 是一种移动SDK，可将Google的ML专业知识带给移动开发人员.
@@ -129,6 +129,7 @@
 
 ### Blog posts
 
+* 2020-12-29 [YOLOv3 to TensorFlow Lite Conversion](https://medium.com/analytics-vidhya/yolov3-to-tensorflow-lite-conversion-4602cec5c239) -Nitin Tiwari.
 * 2020-04-20 [What is new in TensorFlow Lite](https://blog.tensorflow.org/2020/04/whats-new-in-tensorflow-lite-from-devsummit-2020.html) -Khanh LeViet.
 * 2020-04-17 [Optimizing style transfer to run on mobile with TFLite](https://blog.tensorflow.org/2020/04/optimizing-style-transfer-to-run-on-mobile-with-tflite.html) -Khanh LeViet和Luiz Gustavo Martins.
 * 2020-04-14 [How TensorFlow Lite helps you from prototype to product](https://blog.tensorflow.org/2020/04/how-tensorflow-lite-helps-you-from-prototype-to-product.html) -Khanh LeViet.

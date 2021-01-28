@@ -32,7 +32,7 @@ Graphics
 * ：自由： [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/)  -卡通用户界面资产包. 它作为分层的psd文件提供.
 * ：自由： [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) -420个RPG图标集，免费用于商业用途.
 * ：自由： [Blender 3D models](https://www.blender-models.com/) -3D模型，粒子系统/效果
-*：money_with_wings： [CGTextures](http://www.textures.com) -大量的纹理.
+*：money_with_wings： [CGTextures](http://www.textures.com) - A large collection of textures.
 *：money_with_wings： [GameDev Market](https://www.gamedevmarket.net/) -由社区驱动的市场，将独立游戏开发商与才华横溢的资产创建者联系起来.
 * ：自由： [Games-Icons Set](http://game-icons.net/) -游戏的免费图标.
 * ：自由： [Google Poly](https://poly.google.com/)  -具有可旋转预览的3D模型的可搜索数据库.  （仅可重新混合的模型可供下载.）
@@ -173,7 +173,7 @@ Code
 *： 然后： [Astera](https://github.com/tek256/astera) -2D C99跨平台游戏库/框架
 *： 然后： [Azul3D](http://azul3d.org/) -用Go语言编写的3D引擎.
 *： 然后： [Babylon.js](https://www.babylonjs.com/) -Javascript 3D库.
-*： 然后： [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
+*： 然后： [Bacon2D](http://bacon2d.com/) -简化2D游戏开发的框架，提供了代表大多数游戏所需的基本游戏实体的即用型QML元素.
 *： 然后： [Bevy](https://bevyengine.org/) -Rust内置的令人耳目一新的数据驱动游戏引擎
 *： 然后： [bgfx](https://github.com/bkaradzic/bgfx) -与跨平台，图形API无关的“自带引擎/框架”样式渲染库.
 *： 然后： [bitsy](https://ledoux.itch.io/bitsy)  -小游戏或世界的小编辑器. 目的是使制作游戏变得容易，使您可以四处走动并与人交谈并在某个地方.
@@ -202,7 +202,7 @@ Code
 *： 然后： [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 *： 然后： [ENGi](https://github.com/ajhager/engi) -用于Go的多平台2D游戏库.
 *： 然后： [engo](https://engoengine.github.io/) -Engo是用Go语言编写的开源2D游戏引擎.
-*： 然后： [Ebiten](https://ebiten.org/) - A dead simple 2D game library in Go.
+*： 然后： [Ebiten](https://ebiten.org/) -Go中死了的简单2D游戏库.
 *： 然后： [ecs-lib](https://github.com/nidorx/ecs-lib#readme)  -** ecs-lib **是一个小巧易用的ECS（实体组件系统）库，用于游戏编程. 它是用Typescript编写的，但是您也可以在node.js和Web浏览器上使用.
 *： 然后： [Ejecta](http://impactjs.com/ejecta) -适用于iOS的快速，开源JavaScript，画布和音频实现.
 *： 然后： [EnchantJS](http://enchantjs.com/) -用于创建游戏和应用程序的简单JavaScript框架.
@@ -223,7 +223,7 @@ Code
 *： 然后： [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
 *： 然后： [Grid](http://www.planimeter.org/grid-sdk/) -Lua的多人优先游戏引擎.
 * [Havok Vision](http://www.havok.com/vision-engine/) -跨平台的游戏引擎，提供了功能强大且用途广泛的多平台运行时技术.
-*： 然后： [HaxeFlixel](http://haxeflixel.com/) -轻松，免费创建跨平台游戏.
+*： 然后： [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 *： 然后： [Heaps](https://heaps.io/) -用于高性能游戏的跨平台图形.
 * [Hive3D](http://www.eyelead.com/hive/) -实时协作3D引擎.
 *： 然后： [Horde3D](http://www.horde3d.org/) -小型开源3D渲染引擎.
@@ -242,7 +242,7 @@ Code
 *： 然后： [KogGE](https://korge.soywiz.com)  -Kotlin的现代多平台游戏引擎. 使用Kotlin可以立即为JVM，JavaScript，Android和iOS编写游戏.
 *： 然后： [KiwiJS](http://www.kiwijs.org/)  -一个有趣且友好的开源HTML5游戏引擎. 有人称它为HTML5游戏引擎的WordPress
 *： 然后： [LibGDX](https://libgdx.badlogicgames.com/) -强大的Java库（完全免费），只需编写一次代码，即可在台式机，Android，Web和iOS上运行游戏.
-*： 然后： [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
+*： 然后： [LimeJS](http://www.limejs.com/) -HTML5游戏框架，可为所有现代触摸屏和
 *： 然后： [LITIengine](http://litiengine.com/)  -2D Java游戏引擎. 它提供了使用纯Java创建基于图块的2D游戏的所有基础结构
 *： 然后： [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
 * ：自由： [LuaStudio](http://scormpool.com/luastudio) -跨平台框架/开发工具，可使用Lua / LuaJIT，兼容的iOS，Android，Mac和Windows设备制作2D / 3D游戏.
@@ -268,7 +268,7 @@ Code
 *： 然后： [OpenRA](http://www.openra.net/) -OpenRA是一种免费/免费的实时策略游戏引擎.
 *：money_with_wings： [OpenXRay](https://github.com/OpenXRay/xray-16) -STALKER游戏系列中使用的社区修改X射线引擎.
 *： 然后： [Origamijs](http://origamijs.com/docs) -使用HTML5 Canvas创建的轻量级库.
-* ：钱袋子： [PICO-8](http://www.lexaloffle.com/pico-8.php) -用于制作，共享和玩小游戏和其他计算机程序的幻想控制台.
+* ：钱袋子： [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 *： 然后： [p2.js](http://schteppe.github.io/p2.js/) -JavaScript 2D物理库
 *： 然后： [Panda3D](https://www.panda3d.org/) -用于Python和C ++程序的3D渲染和游戏开发的框架.
 *： 然后： [PandaJS](http://www.pandajs.net/) -开源HTML5引擎.
@@ -288,7 +288,7 @@ Code
 *： 然后： [Rajawali](https://github.com/Rajawali/Rajawali) -Android OpenGL ES 2.0 / 3.0引擎
 *： 然后： [raylib](https://www.raylib.com/) -一个简单易用的库，用于享受视频游戏编程，并通过OpenGL（1.1、2.1、3.3或ES 2.0）加速硬件
 *： 然后： [Ren'Py](http://www.renpy.org/)  -使用Python语言的简化形式的开源视觉小说引擎. 它支持Windows，Mac OS X，Linux，Android和iOS.
-*： 然后： [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
+*： 然后： [Rpgboss](http://rpgboss.com)  -基于scala和libgdx的2d rpg游戏引擎和编辑器. 易于使用，无需编程知识.
 *： 然后： [SDL](http://libsdl.org/) -SDL是跨平台的库，旨在通过OpenGL和Direct3D提供对音频，键盘，鼠标，操纵杆和图形硬件的低级访问.
 *： 然后： [SFML](http://www.sfml-dev.org/) -简单快速的多媒体库.
 *： 然后： [Spring](http://springrts.com/) -强大的免费跨平台RTS引擎.
@@ -302,6 +302,7 @@ Code
 *： 然后： [Twine](http://twinery.org/)  -可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine不仅仅基于文本，还支持音乐，图像和声音效果. 基本的文字冒险游戏所需的编码知识很少.
 * ：自由： [Unreal Engine 4](https://www.unrealengine.com/) -Epic Games开发的新游戏引擎技术.
 *： 然后： [Urho3D](http://urho3d.github.io/) -跨平台渲染和游戏引擎.
+*： 然后： [ursina](https://www.ursinaengine.org/) -由python和panda3d驱动的游戏引擎.
 *： 然后： [Vassal](http://www.vassalengine.org/)  -Vassal是一个游戏引擎，用于构建和玩棋盘游戏和纸牌游戏的在线改编. 在Internet上或通过电子邮件实时播放.  Vassal在所有平台上运行，并且是免费的开源软件.
 *： 然后： [voxel.js](http://voxeljs.com/) -voxel.js是一个项目集合，这些项目使在浏览器中创建Minecraft之类的3D voxel游戏比以往更加容易.
 *： 然后： [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
@@ -345,7 +346,7 @@ Audio
 *： 然后： [MilkyTracker](https://github.com/milkytracker/MilkyTracker) -Mac / Linux / Windows平台的开源跟踪器.
 *： 然后： [musagi](http://www.drpetter.se/project_musagi.html) -开源，相当大和复杂的音乐编辑器和合成器
 *： 然后： [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) -开源MIDI音序器.
-* ：自由： [Soundation](https://soundation.com/) -在线专业音乐工作室.
+* ：自由： [Soundation](https://soundation.com/) - Online Professional music studio.
 * ：自由： [SunVox](http://www.warmplace.ru/soft/sunvox/) -小型，快速且功能强大的模块化合成器，具有基于模式的音序器（跟踪器）.
 * ：钱袋子： [Resemble](https://www.resemble.ai/unity) -类似于Unity中的语音克隆引擎
 
@@ -385,7 +386,7 @@ Audio
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门排行榜”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“热门排行榜”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)

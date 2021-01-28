@@ -29,6 +29,7 @@
 - [Raspberry Pi 3, Model A+](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/) （2018年11月）
 - [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) （2019年6月）
 - [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/) （2020年11月）
+- [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/) 2021年1月）
 
 ## OS Images
 
@@ -155,11 +156,11 @@
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) -设置Pi Zero，以扫描WiFi网络上的设备，并使用它来确定谁是“家”.
 - [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) -由Raspberry Pi驱动的Nixie Tube Clock.
 - [Occu-Pi](https://github.com/bww/occu-pi) -用于Occu-pi的控制器软件，这是一款非常出色的浴室门传感器.
-- [P4wnP1](https://github.com/mame82/P4wnP1) -P4wnP1是一个高度可定制的USB攻击平台，基于低成本的Raspberry Pi Zero或Raspberry Pi Zero W（HID后门需要）. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [P4wnP1](https://github.com/mame82/P4wnP1) -P4wnP1是一个高度可定制的USB攻击平台，基于低成本的Raspberry Pi Zero或Raspberry Pi Zero W（HID后门所需）. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) -捕获与Google IOT Cloud Platform生态系统集成的图像.
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) -基于RFID的支付模块.
 - [Pi-hole](https://pi-hole.net/) -互联网广告的黑洞.
-- [Pi-KVM](https://github.com/pikvm/pikvm) 通过IP的DIY KVM，可通过Web UI或VNC管理带有FullHD视频，鼠标，虚拟驱动器，IPMI，LAN唤醒和许多其他功能的远程计算机.
+- [Pi-KVM](https://github.com/pikvm/pikvm) DIY KVM over IP，可通过Web UI或VNC管理带有FullHD视频，鼠标，虚拟驱动器，IPMI，LAN唤醒和许多其他功能的远程计算机.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) -Rclone远程存储服务等提供的远程无头多功能PiCamera操作.
 - [Pi4j Project](http://pi4j.com) -Raspberry Pi的Java I / O库.
 - [PiAware](https://uk.flightaware.com/adsb/piaware/install) -使用Raspberry Pi进行实时飞行跟踪.
@@ -169,7 +170,7 @@
 - [PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) -使用Raspberry Pi的FM-RDS发射机.
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) -使用Raspberry PI + EAN扫描器临时制作Amazon Dash订单.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) -Node.js Slackbot（午餐机器人），托管在Resin上.
-- [PoisonTap](https://github.com/samyk/poisontap) -使用Raspberry Pi Zero和Node.js通过USB利用锁定/受密码保护的计算机，丢弃基于WebSocket的持久后门，公开内部路由器，并虹吸cookie. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [PoisonTap](https://github.com/samyk/poisontap) -通过USB利用锁定/受密码保护的计算机，使用基于Raspberry Pi Zero和Node.js的基于WebSocket的持久后门，暴露内部路由器并虹吸cookie. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) -封闭在配电盘中，嗅探网络数据.
 - [Project MyHouse](https://maxoffsky.com/research-progress/project-myhouse-a-smart-dollhouse-with-gesture-recognition/) -使用Raspberry Pi 3或Pi Zero和PSMove运动控制器，具有手势识别功能的智能娃娃屋.
 - [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) -Raspberry Pi 2上的Erlang集群.
@@ -204,7 +205,7 @@
 -** AndFTP **-备用FTP客户端应用程序. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
 -**家庭遥控器**-控制鼠标/键盘，音量，管理下载/上传文件，自定义命令，终端，将来执行任务，控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 -** Kore遥控器**-用于控制Kodi的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
- -** RasPi Check **-检查Pi的统计信息-频率，温度，伏特和更多系统信息（可用内存，运行时间，磁盘状态）. 您还可以重新启动或停止Raspberry Pi并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
+ -** RasPi Check **-检查Pi统计信息-频率，温度，伏特和更多系统信息（可用内存，运行时间，磁盘状态）. 您还可以重新启动或停止Raspberry Pi并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
 -** RaspController **-远程管理Raspberry Pi，控制GPIO端口，直接通过终端发送命令，从连接的摄像机查看图像并从不同的传感器获取数据. [Android](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller)
 -** Raspicast **-在Raspberry Pi上投放YouTube视频，来自Android设备的媒体内容，播放本地媒体文件，播放来自播放列表（m3u，请）的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 -**屏幕流镜像**-直接将手机屏幕流式传输到Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)

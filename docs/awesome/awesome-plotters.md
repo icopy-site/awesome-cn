@@ -22,6 +22,7 @@
 - [Polargraph](http://www.polargraph.co.uk) -原始的Polargraph硬件和软件项目.
 - [Makelangelo](http://www.makelangelo.com) -开源Polargraph Artbot.
 - [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) -一种便宜，简单的绘图仪，由棍棒，伺服器和运行Python的Raspberry Pi制成.
+- [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) -相当简单的3d打印AxiDraw样式绘图仪，带有良好的视频文档.
 
 ### Motor Controllers
 
@@ -150,11 +151,11 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 博客文章，文章，教程，画廊，视频等.
 
 - [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) -有关旧HPGL绘图仪入门的良好信息.
-- [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future) - Another intro to vintage pen plotters.
+- [1980s pen plotters of the future](https://notes.variogr.am/2012/08/12/1980s-pen-plotters-of-the-future) -老式笔式绘图仪的另一个介绍.
 - [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) -编程矢量路径的一些基础知识，包括排序，联接和简化.
 - [On Generative Algorithms](https://inconvergent.net/generative) -有趣的算法的漂亮的13部分演练.
 - [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) -罗兰平板绘图仪的快速入门指南.
-- [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) -有趣算法的详细说明和示例.
+- [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - Detailed explanation and examples of an interesting algorithm.
 - [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) -绘图员艺术家.
 - [Hektor](http://juerglehni.com/works/hektor) -2002年的原始基于电缆的牵引机器人.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) -分为两部分的介绍，介绍了如何生成绘图图形.

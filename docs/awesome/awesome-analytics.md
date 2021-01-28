@@ -9,13 +9,13 @@
     
 
 ## General analytics
-* [Panelbear](https://panelbear.com/)  -免费的实时网站分析. 支持自定义事件跟踪，电子邮件摘要和站点速度指标.
+* [Panelbear](https://panelbear.com/)  -免费的实时网站分析. 支持自定义事件跟踪，电子邮件摘要和站点速度指标.  `©``SaaS`
 * [PostHog](https://posthog.com)  -开源产品分析，以跟踪用户，事件，渠道和趋势. 替代混合面板/振幅/堆.  （[Source Code](https://github.com/posthog/posthog)）和Python
 * [Hotjar](https://www.hotjar.com/)  -真正了解您的网站和移动网站访问者的新型简便方法.  `©``SaaS`
 * [Matomo](https://matomo.org/)  -领先的开源分析平台，不仅为您提供强大的分析功能，而以前称为Piwik.  （[Source Code](https://github.com/matomo-org/)）`GPL-3.0``PHP`
 * [Heap](https://heap.io)  -跟踪您的应用用户，点击次数，表单提交以及其他任何内容.  `©``SaaS`
 * [Opentracker](http://www.opentracker.net/)  -实时报告，地理位置用户跟踪.  `©``SaaS`
-* [FoxMetrics](http://foxmetrics.com/)  -分析以跟踪用户的行为和活动.  `©``SaaS`
+* [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities. `©` `SaaS`
 * [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html)  -将网络数据转化为每个人都可以采取行动的见解.  `©``SaaS`
 * [Google Analytics](https://www.google.com/analytics/)  -Web分析空间中事实上的分析标准.  `©``SaaS`
 * [Screpy](https://screpy.com)  -Screpy是网络分析仪和监视工具. 由Google Lighthouse提供支持.  `©``SaaS`
@@ -37,29 +37,29 @@
 * [Sitemeter](http://sitemeter.com/)  -旧的分析工具.  `©``SaaS`
 * [Crawl Track](http://www.crawltrack.net/)  -另一个旧的分析工具.  `©``SaaS`
 * [Sitespect](https://www.sitespect.com/)  -全套Web应用程序分析工具，包括A / B测试.  `©``SaaS`
-* [Heap](https://heapanalytics.com/) -跟踪您的应用用户，点击次数，表单提交以及其他任何内容.
-* [FoxMetrics](http://foxmetrics.com/) -分析以跟踪用户的行为和活动.
-* [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) -将网络数据转化为每个人都可以采取行动的见解.
-* [Google Analytics](https://www.google.com/analytics/) -Web分析空间中事实上的分析标准.
-* [Screpy](https://screpy.com)  -Screpy是网络分析仪和监视工具. 由Google Lighthouse提供支持.
-* [Clicktale](https://www.clicktale.com) -记录并准确观察访问者如何使用您的网站.
-* [GoSquared](https://www.gosquared.com/) -带有访问者标记的分析，可帮助您更深入地研究一个用户的访问.
-* [Clicky](http://clicky.com/) -跟踪访问和转化，还可以跟踪视频和音频分析.
-* [Woopra](https://www.woopra.com/) -跟踪您的用户来自何处.
-* [Mint](https://haveamint.com/) -自托管的分析解决方案（不再销售）. 
-* [Going Up](https://www.goingup.com/) -使用一种工具管理SEO分析和Web应用程序分析.
-* [Gauges](http://get.gaug.es/) -实时网络分析工具.
+* [Heap](https://heapanalytics.com/)  -跟踪您的应用用户，点击次数，表单提交以及其他任何内容.  `©``SaaS`
+* [FoxMetrics](http://foxmetrics.com/) - analytics to track your user’s actions and activities. `©` `SaaS`
+* [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html)  -将网络数据转化为每个人都可以采取行动的见解.  `©``SaaS`
+* [Google Analytics](https://www.google.com/analytics/)  -Web分析空间中事实上的分析标准.  `©``SaaS`
+* [Screpy](https://screpy.com)  -Screpy是网络分析仪和监视工具. 由Google Lighthouse提供支持.  `©``SaaS`
+* [Clicktale](https://www.clicktale.com)  -记录并准确观察访问者如何使用您的网站.  `©``SaaS`
+* [GoSquared](https://www.gosquared.com/)  -带有访问者标记的分析，可帮助您更深入地研究一个用户的访问.  `©``SaaS`
+* [Clicky](http://clicky.com/)  -跟踪访问和转化，还可以跟踪视频和音频分析.  `©``SaaS`
+* [Woopra](https://www.woopra.com/)  -跟踪您的用户来自何处.  `©``SaaS`
+* [Mint](https://haveamint.com/)  -自托管的分析解决方案（不再销售）.  `©``SaaS`
+* [Going Up](https://www.goingup.com/)  -使用一种工具管理SEO分析和Web应用程序分析.  `©``SaaS`
+* [Gauges](http://get.gaug.es/)  -实时网络分析工具.  `©``SaaS`
 * [Indicative](https://www.indicative.com/) -Web和移动分析工具，重点放在细分和渠道可视化上.
 * [Open Web Analytics](http://www.openwebanalytics.com/)  -Google Analytics（分析）和Matomo替代.  （[Source Code](https://github.com/padams/Open-Web-Analytics)）`GPL-2.0``PHP`
-* [Statcounter](https://statcounter.com/) -可用的原始网络分析工具之一.
-* [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) -标准分析工具以及大型组织可以使用的一些工具.
-* [Hitslink.com](https://www.hitslink.com/) -实时分析，社交媒体流量报告和实时动态细分.
-* [Loggr](http://loggr.net/) -跟踪您的用户事件并监视您的Web应用程序.
-* [Kissmetrics](https://www.kissmetrics.com/) -实时标准同类群组分析工具.
-* [Crawl Track](http://www.crawltrack.net/) -另一个旧的分析工具.
-* [Sitespect](https://www.sitespect.com/) -全套Web应用程序分析工具，包括A / B测试.
+* [Statcounter](https://statcounter.com/)  -可用的原始网络分析工具之一.  `©``SaaS`
+* [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html)  -标准分析工具以及大型组织可以使用的一些工具.  `©``SaaS`
+* [Hitslink.com](https://www.hitslink.com/)  -实时分析，社交媒体流量报告和实时动态细分.  `©``SaaS`
+* [Loggr](http://loggr.net/)  -跟踪您的用户事件并监视您的Web应用程序.  `©``SaaS`
+* [Kissmetrics](https://www.kissmetrics.com/)  -实时标准同类群组分析工具.  `©``SaaS`
+* [Crawl Track](http://www.crawltrack.net/)  -另一个旧的分析工具.  `©``SaaS`
+* [Sitespect](https://www.sitespect.com/)  -全套Web应用程序分析工具，包括A / B测试.  `©``SaaS`
 * [Rakam](https://rakam.io/)  -自定义分析平台，可让您创建自己的分析服务. 与任何数据源（Web，移动，IoT等）集成，使用SQL分析数据并创建仪表板.  （[Source Code](https://github.com/rakam-io/rakam)）Apache-2.0`` Java`
-* [Metabase](https://www.metabase.com) -开源分析/ BI工具`©`SaaS`
+* [Metabase](https://www.metabase.com) - opensource analytics/BI tool  `©` `SaaS`
 * [LiveSession](https://livesession.io)  -会话重播用户分析.  `©``SaaS`
 * [Glassbox](https://glassboxdigital.com/)  -客户体验和会话记录分析.  `©``SaaS`
 * [Redash](https://redash.io/) -开源分析/ BI工具`©`SaaS`
@@ -105,9 +105,9 @@
 * [Kindmetrics](https://kindmetrics.io)  -干净，简单的分析，以隐私为中心，是开源的，可以自行托管. 不跟踪个人数据.
 * [Plausible Analytics](https://plausible.io/) -轻巧和 [open source](https://github.com/plausible-insights/plausible) 网站分析. 不使用Cookie，也不跟踪个人数据.  Google Analytics（分析）的一种隐私友好型替代方案.  （[Source Code](https://github.com/plausible/analytics/)）`万用药
 * [GoatCounter](https://www.goatcounter.com)  -简单的网络统计，无需跟踪个人数据；  SaaS`自托管`（[Source Code](https://github.com/zgoat/goatcounter)）`EUPL-1.2``Go`
-* [Simple Analytics](https://simpleanalytics.io/) -针对开发人员的简单，干净和友好的分析
-* [Nibspace](https://nibspace.com/) -负担得起的，轻便的，对隐私友好的网站分析
-* [Metrical](https://metrical.xyz/) -面向所有人的隐私优先的网络分析工具.
+* [Simple Analytics](https://simpleanalytics.io/) -为开发人员提供简单，干净和友好的分析服务©©SaaS
+* [Nibspace](https://nibspace.com/) -负担得起的，轻量级的，易于隐私的网站分析&#39;©`SaaS`
+* [Metrical](https://metrical.xyz/)  -面向所有人的隐私优先的网络分析工具.  `©``SaaS`
 * [Shynet](https://github.com/milesmcc/shynet)  -无需Cookie或JS即可使用的现代，隐私友好且详细的Web分析. 专为自托管而设计.  Apache-2.0 Python
 * [Umami](https://umami.is/)  -Umami是一个简单易用的自托管Web分析解决方案. 我们的目标是为您提供更友好，注重隐私的Google Analytics（分析）替代方案，以及免费，开源的付费解决方案替代方案.  （[Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code](https://github.com/mikecao/umami)）和Nodejs
 * [Koko Analytics](https://www.kokoanalytics.com/)  -适用于WordPress的隐私友好型开源分析插件.  （[Source Code](https://github.com/ibericode/koko-analytics/)）`GPL-3.0``PHP`
@@ -137,7 +137,7 @@
 此处列出的工具不一定仅是移动分析工具. 但是，它们显示出强大的移动焦点.
 
 * [Upsight](http://www.upsight.com/)  -针对开发人员的移动应用分析工具.  `©``SaaS`
-* [Appsflyer](http://www.appsflyer.com/) - all-in-one marketing tool with analytics. `©` `SaaS`
+* [Appsflyer](http://www.appsflyer.com/)  -具有分析功能的多合一营销工具.  `©``SaaS`
 * [Amazon Pinpoint](https://aws.amazon.com/pinpoint/)  -亚马逊的多平台基本移动分析工具.  `©``SaaS`
 * [Tapstream](https://tapstream.com/)  -用户生命周期分析.  `©``SaaS`
 * [Honeytracks](https://honeytracks.com/)  -游戏的移动应用分析.  `©``SaaS`
@@ -191,12 +191,12 @@
 * [GitSpo](https://gitspo.com/)  -开源分析.  `©``SaaS`
 * [Pull Panda](https://pullpanda.com/analytics) -工程团队的度量标准和见解`©`SaaS`
 * [Screenful](https://screenful.com/) -可视化并共享您的项目进度`©`SaaS`
-* [Haystack](https://usehaystack.io) -工程团队的指标和见解
-* [GitSpo](https://gitspo.com/) -开源分析.
-* [Pull Panda](https://pullpanda.com/analytics) -工程团队的指标和见解
-* [Plandek](https://plandek.com) -软件交付的指标和见解
-* [Screenful](https://screenful.com/) -可视化并共享您的项目进度
-* [Moiva.io](https://moiva.io/) -具有图表和图形的仪表板，用于评估和比较任何npm软件包.
+* [Haystack](https://usehaystack.io) -工程团队的度量标准和见解`©`SaaS`
+* [GitSpo](https://gitspo.com/)  -开源分析.  `©``SaaS`
+* [Pull Panda](https://pullpanda.com/analytics) -工程团队的度量标准和见解`©`SaaS`
+* [Plandek](https://plandek.com) -软件交付的度量标准和见解`©`SaaS`
+* [Screenful](https://screenful.com/) -可视化并共享您的项目进度`©`SaaS`
+* [Moiva.io](https://moiva.io/)  -具有图表和图形的仪表板，用于评估和比较任何npm软件包.  `©``SaaS`
 
 ## Analytics dashboards
 
