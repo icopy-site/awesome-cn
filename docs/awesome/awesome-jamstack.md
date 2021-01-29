@@ -56,7 +56,7 @@
 
 
 ## No-Code Platforms
-- [Jamstack.new](https://jamstack.new) -一键创建一个新的Jamstack网站，由Stackbit带给您
+- [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
 - [Draftbox](https://draftbox.co) -为您的WordPress或Ghost博客提供快速，安全的前端，无需编码.
 
 ## Jamstack Sites Showcase
@@ -115,7 +115,7 @@
 
 - [Auth0](https://auth0.com/) -单点登录和基于令牌的身份验证.
 - [Netlify Identity](https://www.netlify.com/docs/identity/) -提供一整套的身份验证功能，并由 [GoTrue API](https://www.gotrueapi.org).
-- [Jexia UMS](https://jexia.com) -带有JWT和其他功能的身份提供者的REST API用户管理系统，用于您的Web端. 
+- [Jexia UMS](https://jexia.com) -带有JWT和其他功能的身份提供者的REST API用户管理系统，用于您的网站. 
 
 ### Comments
 
@@ -153,7 +153,7 @@
 
 - [GraphQL](https://graphql.org) -API的查询语言和用于使用现有数据完成这些查询的运行时.
 - [Graphcool](https://graph.cool) -开源和自托管后端即服务，用于开发无服务器的GraphQL后端.
-- [FaunaDB](https://fauna.com) - Relational NoSQL database with joins, indexes, and multi-region ACID transactions in the cloud or on-premise.
+- [FaunaDB](https://fauna.com) -在云或本地具有连接，索引和多区域ACID事务的关系NoSQL数据库.
 - [Jexia DataSet](https://jexia.com) -带有内置验证器，关系，聚合功能的REST API架构和Shemaless云数据存储.
 
 ### File management
@@ -234,6 +234,7 @@
 - [Jamify Tutorials — Publish flaring fast blogs with Gatsby and Ghost](https://www.jamify.org)
 - [State of the Headless CMS Market 2020 report](https://tracker.kontent.ai/592920/state-of-the-headless-cms-market-2020)
 - [Why is Next.js my ultimate choice over Gatsby, Gridsome, and Nuxt?](https://kontent.ai/blog/gatsby-vs-next-gridsome-nuxt)
+- [Generating a Static Site with Flask and Deploying it to Netlify](https://testdriven.io/blog/static-site-flask-and-netlify/) -通过创建静态站点并将其部署到Netlify来利用具有Python和Flask的JAMstack.
 
 ## Podcasts
 

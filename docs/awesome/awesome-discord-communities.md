@@ -546,6 +546,13 @@ Notable Channels: `#brewery`, `#coding`, `#support`, `#internals`, `#multi-tenan
 
 ### Python
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/fastapi.webp" />
+
+[__FastAPI__](https://discord.com/invite/VQjSZaeJmf) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://fastapi.tiangolo.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/tiangolo/fastapi) \
+Notable Channels: `#discussion`, `#documentation`, `#advanced-questions`, `#articles-videos-podcasts`, `#showcase` \
+语言：英语，西班牙语，中文，русский，葡萄牙语，意大利语，Türkçe，українськамова\
+<br />
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/microsoft-python.webp" />
 
 [__microsoft-python__](https://discord.com/invite/b8YJQPx) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://twitter.com/pythonvscode) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/microsoft/vscode-python) \
@@ -561,7 +568,7 @@ Notable Channels: `#watercooler`, `#get-help`, `#sprint`, `#flask`, `#jinja`, `#
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/python.webp" />
 
-[__Python__](https://discord.com/invite/python) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://pythondiscord.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/python-discord/) \
+[__Python__](https://discord.com/invite/python) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://pythondiscord.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/python-discord/) \
 Notable Channels: `#python-discussion`, `#careers`, `#help`, `#async`, `#computer-science`, `#database`, `#data-science`, `#dev-ops`, `#discord-py`, `#game-development`, `#security`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
 英语语言
 
@@ -614,6 +621,12 @@ Notable Channels: `#webview`, `#didathing`, `#help`, `#gamedevs`, `#app-devs`, `
 
 [__The Rust Programming Language__](https://discord.com/invite/rust-lang) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.rust-lang.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/rust-lang) \
 Notable Channels: `#beginners`, `#contribute`, `#community-team`, `#rustbridge`, `#design`, `#compiler`, `#wg-grammar`, `#wg-async-foundation`, `#type-theory`, `#wg-wasm`, `#wg-gamedev`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
+英语语言
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/tokio.webp" />
+
+[__Tokio__](https://discord.com/invite/tokio) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://tokio.rs/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/tokio-rs) \
+Notable Channels: `#tokio-users`, `#tokio-dev`, `#tokio-docs`, `#ecosystem`, `#butte`, `#hyper`, `#h3`, `#kube`, `#mio`, `#prost`, `#reqwest`, `#tonic`, `#tower`, `#tracing`, `#warp`, `#loom`, `#rdbc`, `#metrics` \
 英语语言
 
 ### Swift
@@ -903,6 +916,18 @@ Notable Channels: `#discussion`, `#terminal-setups`, `#tech-support`, `#code`, `
 Notable Channels: `#work-in-progress-critique`, `#photoshop`, `#premiere-pro`, `#after-effects`, `#illustrator`, `#animate`, `#indesign`, `#xd`, `#lightroom`, `#other-programs` \
 英语语言
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/lospec.webp" />
+
+[__Lospec__](https://Lospec.com/Discord) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://lospec.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/lospec) \
+Notable Channels: `#chat`, `#feedback`, `#collaboration`, `#fydo-tiles`, `#pixel-art`, `#palettes`, `#voxel-art`, `#low-poly-3d`, `#textmode`, `#chpitune`, `#programming`, `#in-game-builds`, `#events`, `#jobs` \
+英语语言
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/pixel_art.webp" />
+
+[__Pixel Art__](https://discord.com/invite/HPdmz4P) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://twitter.com/PixelArtDiscord/) \
+Notable Channels: `#pixelart`, `#gamedev`, `#pixel-challenges`, `#featured-gallery`, `#art-gallery`, `#gallery-discussion`, `#pixelart-feedback`, `#animation-feedback`, `#tutorials` \
+英语语言
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/the_design_collective.webp" />
 
 [__The Design Collective__](https://discord.com/invite/zM5pgrc) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://medium.com/the-design-collective) \
@@ -984,10 +1009,10 @@ Notable Channels: `#releases`, `#general`, `#ios`, `#ipados`, `#macos`, `#watcho
 英语语言 \
 <br />
 
-<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/macos_on_unsupported_macs.webp" />
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/unsupported_macs.webp" />
 
-[__macOS on Unsupported Macs__](https://discord.com/invite/XbbWAsE) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://osxhackers.net) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/os-x-hackers) \
-Notable Channels: `#catwoman-patchers`, `#dosdude1-patchers`, `#parrotgeek1-patchers`, `#rmc-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks` \
+[__Unsupported Macs__](https://discord.com/invite/XbbWAsE) \
+Notable Channels: `#barrykn-patcher`, `#bensova-patcher`, `#dosdude1-patchers`, `#big-sur`, `#catalina`, `#mojave`, `#high-sieraa`, `#sierra`, `#el-capitan`, `#yosemite`, `#mavericks`, `#mountain-lion` \
 英语语言
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/r_jailbreak.webp" />

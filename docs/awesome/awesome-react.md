@@ -110,7 +110,7 @@
 
 - [next.js](https://github.com/vercel/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
-- [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
+- [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
 - [remix](https://remix.run/) -最后，React Router的创建者提供了一个杀手React的React框架
 - [aleph.js](https://github.com/alephjs/aleph.js) -Deno中的React框架
 
@@ -158,6 +158,7 @@
 - [geist-org/react](https://github.com/geist-org/react) -来自Vercel设计的现代简约的React UI库
 - [elastic ui framework](https://github.com/elastic/eui) -Elastic UI Framework是React UI组件的集合，用于在Elastic上快速构建用户界面.
 - [bugbag react ui kit](https://bumbag.style/) -Bumbag是一个友好的React UI套件，适用于MVP或大规模应用.
+- [ring-ui](https://github.com/JetBrains/ring-ui) -JetBrains Web UI组件
 
 ##### React Awesome Components
 
@@ -169,7 +170,7 @@
 - [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) -使用React构建的类似于Excel的网格组件
 - [react-draggable](https://github.com/mzabriskie/react-draggable) -反应可拖动组件
-- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) - A resizable and draggable component for React
+- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -React的可调整大小和可拖动组件
 - [react-resizable](https://github.com/strml/react-resizable) -可通过手柄调整大小的简单React组件
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -用于React的可调整大小的组件
 - [react-searchbox-awesome](https://github.com/axmz/react-searchbox-awesome) -简约搜索框
@@ -181,7 +182,7 @@
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
 - [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
-- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
+- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
 - [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型按键包装
 - [react-joyride](https://github.com/gilbarbara/react-joyride) -为您的应用程序创建导览
@@ -305,7 +306,7 @@
 - [react-clickdrag-mixin](https://github.com/tleunen/react-clickdrag-mixin) -用于React组件的ClickDrag mixin
 - [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)
 - [react-masonry-mixin](https://github.com/eiriklv/react-masonry-mixin) - Standalone mixin for Masonry (@desandro)
-- [react-packery-mixin](https://github.com/eiriklv/react-packery-mixin) - Standalone mixin for Packery (Metafizzy)
+- [react-packery-mixin](https://github.com/eiriklv/react-packery-mixin) -包装厂的独立Mixin（Metafizzy）
 - [react-dropzone](https://github.com/paramaggarwal/react-dropzone) -使用React.js的简单HTML5拖放区.
 - [aframe-react](https://github.com/ngokevin/aframe) -A-Frame VR + React
 - [react-three-fiber](https://github.com/react-spring/react-three-fiber) -用于threejs的React Reconciler（Web和react-native）

@@ -100,7 +100,7 @@
 * [clove](https://github.com/YoungNeer/clove) -帮助程序库，可让您快速加载大量资产
 * [hump](https://github.com/vrld/hump)  -用LÖVE开发游戏的工具集合（游戏状态，计时器/补间，向量，类，信号，摄像机）. 回购处于非活动状态，但仍在改进中 [this fork](https://github.com/HDictus/hump/tree/temp-master) （分支临时主）
 * [iffy](https://github.com/YoungNeer/iffy) -LÖVE的SpriteSheet和Tileset帮助程序库
-* [knife](https://github.com/airstruck/knife) -收集Lua有用的微模块（类，状态机，绑定，链，协程，事件，记忆，实体，测试，计时器）
+* [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
 * [shard](https://github.com/MineGame159/shard) -有用的迷你模块的集合
 * [lovely-windows](https://github.com/flamendless/lovely-windows) -虚拟窗口的窗口/屏幕管理器模块.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) -LuaLÖVE引擎的状态切换器类
@@ -128,6 +128,7 @@
 ## Lighting
 *照明和阴影库*
 
+* [lighter](https://github.com/speakk/lighter) -具有简单API的高性能动态照明实现
 * [Shädows](https://github.com/matiasah/shadows) -Löve的阴影和灯光引擎
 * [Light World](https://github.com/tanema/light_world.lua) -照明模型
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) -非常简单的光线投射灯实现
@@ -177,7 +178,7 @@
 ## Performance
 *性能测量工具*
 
-* [jprof](https://github.com/pfirsich/jprof) - Profiling library/tool for LÖVE
+* [jprof](https://github.com/pfirsich/jprof) -LÖVE的分析库/工具
 * [Piefiller](https://github.com/Polynominal/Piefiller) -LÖVE的图形轮廓
 * [profile.lua](https://bitbucket.org/itraykov/profile.lua/src/) -Profile.lua是一个小的非侵入式模块，用于在您的Lua代码中查找瓶颈
 * [ProFi](https://gist.github.com/rm-code/383c98a6af04652ed9f39b7ae536bcc5) -与LuaJIT一起使用的简单lua分析器，并在列中打印漂亮的报告文件

@@ -53,7 +53,7 @@
     * [Active Directory](https://azure.microsoft.com/services/active-directory/) -500,000个对象
     * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) -每月存储50,000个用户
     * [Azure DevOps](https://azure.microsoft.com/services/devops/) -5个活跃用户，无限的私人Git仓库
-    * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) —针对Linux，macOS和Windows的开源软件，有10个免费的并行作业，且无限制的分钟
+    * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) —针对Linux，macOS和Windows的开源软件，有10个免费的并行作业，且无限制地运行分钟
     * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) -每天8,000条消息
     * [Load Balancer](https://azure.microsoft.com/services/load-balancer/) -1个免费的公共负载平衡IP（VIP）
     * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) -一百万个推送通知
@@ -105,7 +105,7 @@
   * [github.com](https://github.com/) —带有CI / CD管道的无限的公共存储库和无限的私人存储库（具有无限的合作者）
   * [gitlab.com](https://about.gitlab.com/) —无限的公共和私人Git仓库，具有无限的合作者，带有CI / CD管道，每个仓库有10 GB的空间
   * [ionicframework.com](https://ionicframework.com/appflow) -回购和使用Ionic开发应用程序的工具，您也拥有离子回购
-  * [NotABug](https://notabug.org) — NotABug.org is a free-software code collaboration platform for freely licensed projects, Git-based
+  * [NotABug](https://notabug.org) — NotABug.org是用于基于Git的免费许可项目的免费软件代码协作平台
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) —免费的1GB Cloud和Git，Mercurial或SVN存储库.
   * [pijul.com](https://pijul.com/)  -无限的免费和开源分布式版本控制系统. 它的独特功能是建立在可靠的补丁理论基础上的，这使得它易于学习和使用，并且真正地分发. 解决了git / hg / svn / darcs的许多问题.
   * [plasticscm.com](https://plasticscm.com/) —对个人，OSS和非营利组织免费
@@ -361,7 +361,7 @@
   * [bitninja.io](https://bitninja.io/) —通过黑名单的免费计划进行的僵尸网络保护仅报告有关每次攻击的有限信息
   * [cloudsploit.com](https://cloudsploit.com/) — Amazon Web Services（AWS）安全和合规性审核和监控
   * [CodeNotary.io](https://www.codenotary.io/) —带有不可磨灭的证明的公证平台，用于公证代码，文件，目录或容器
-  * [crypteron.com](https://www.crypteron.com/) —面向开发人员的云优先，安全友好的安全平台可防止.NET和Java应用程序中的数据泄露
+  * [crypteron.com](https://www.crypteron.com/) —面向开发人员的云优先，对开发人员友好的安全平台可防止.NET和Java应用程序中的数据泄露
   * [Dependabot](https://dependabot.com/) 自动化的依赖项更新，适用于Ruby，JavaScript，Python，PHP，Elixir，Rust，Java（Maven和Gradle）、. NET，Go，Elm，Docker，Terraform，Git子模块和GitHub Actions.
   * [DJ Checkup](https://djcheckup.com)  —使用此免费，自动化的检查工具扫描Django站点中的安全漏洞. 从Pony Checkup网站派生.
   * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free for 10 users, all authentication methods, unlimited, integrations, hardware tokens
@@ -481,7 +481,7 @@
   * [thousandeyes.com](https://www.thousandeyes.com/)  —网络和用户体验监控. 免费提供3个位置和20个主要Web服务的数据馈送
   * [uptimerobot.com](https://uptimerobot.com/) —网站监控，免费提供50个监控器
   * [uptimetoolbox.com](https://uptimetoolbox.com/) —免费监视5个网站，间隔60秒，公共状态页.
-  * [zenduty.com](https://www.zenduty.com/)  —用于网络运营，站点可靠性工程和DevOps团队的端到端事件管理，警报，呼叫管理和响应协调平台. 最多5位用户免费.
+  * [zenduty.com](https://www.zenduty.com/) — End-to-end incident management, alerting, on-call management and response orchestration platform for network operations, site reliability engineering and DevOps teams. Free for upto 5 users.
   * [newrelic.com](https://www.newrelic.com)  —建立了可观察性平台，以帮助工程师创建更完善的软件. 从整体到无服务器，您可以检测所有内容，然后进行分析，故障排除和优化整个软件堆栈. 免费套餐提供每月100GB的免费数据摄取，1个免费的完全访问用户和无限的免费基本用户.
 
 ## Crash and Exception Handling
@@ -584,7 +584,7 @@
   * [Cloudflare](https://www.cloudflare.com/)
     * CDN以及免费的SSL
     *免费DNS，无限数量的域
-    *防火墙规则和页面规则
+    * Firewall rules and pagerules
     * Analytics
     * [TryCloudflare](https://developers.cloudflare.com/argo-tunnel/trycloudflare) —通过Argo隧道将本地HTTP服务器公开.
   * [ddos-guard.net](https://ddos-guard.net/store/web) —免费的CDN，DDoS保护和SSL证书
@@ -601,7 +601,7 @@
   * [speeder.io](https://speeder.io/)  —使用KeyCDN. 自动图像优化和免费CDN增强功能. 免费，不需要任何服务器更改
   * [staticaly.com](https://staticaly.com/) — CDN for Git仓库（GitHub，GitLab，Bitbucket），与WordPress相关的资产和图像
   * [toranproxy.com](https://toranproxy.com/)  — Packagist和GitHub的代理. 永不让CD失败. 免费供个人使用，1个开发人员，不支持
-  * [unpkg.com](https://unpkg.com/) -CDN上npm上的所有内容
+  * [unpkg.com](https://unpkg.com/) -CDN上npm的所有内容
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) —免费的DDoS保护
   * [BotFront](https://botfront.net/) —针对一个域和三个子域的免费CDN和DDoS保护
 
@@ -615,10 +615,10 @@
   * [dronahq.com](https://www.dronahq.com/)  —没有用于企业直观地开发应用程序，与现有系统集成以快速构建内部应用程序，流程和表单的代码应用程序开发平台. 免费计划每月提供200个任务，无限草稿应用程序和1个已发布应用程序
   * [firebase.google.com](https://firebase.google.com) —构建实时应用程序，免费计划具有最大100个连接，10 GB数据传输，1 GB数据存储，1 GB主机存储和10 GB主机传输
   * [gearhost.com](https://www.gearhost.com/pricing)  — .NET和PHP应用程序的平台. 在资源有限的共享服务器上免费提供256 MB RAM
-  * [gigalixir.com](https://gigalixir.com/) -Gigalixir为Elixir / Phoenix应用程序提供了1个永不休眠的免费实例，以及免费的PostgreSQL数据库限制为2个连接，10、000行且无备份.
+  * [gigalixir.com](https://gigalixir.com/) -Gigalixir为Elixir / Phoenix应用程序提供了1个永不休眠的免费实例，以及免费的PostgreSQL数据库限制为2个连接，10、000行且没有备份.
   * [glitch.com](https://glitch.com/)  —具有代码共享和实时协作等功能的免费公共/私人托管. 免费计划每月有1000个小时的限制.
   * [heroku.com](https://www.heroku.com/) —将您的应用托管在云中，单进程应用免费
-  * [KintoHub](https://www.kintohub.com/) — KintoHub是一个多合一的平台，可将您的后端服务，网站，cron作业，数据库以及您的应用程序所需的所有内容整合并部署到一个地方.
+  * [KintoHub](https://www.kintohub.com/) — KintoHub是一个多合一的平台，可将您的后端服务，网站，cron作业，数据库以及您的应用程序所需的一切都整合到一个位置.
   * [Krucible](https://usekrucible.com)  — Krucible是一个用于创建Kubernetes集群以进行测试和开发的平台. 免费套餐帐户每月有25个群集小时.
   * [ZARVIS](https://zarvis.ai)  -开源Github项目的免费托管Kubernetes命名空间. 释放1GB内存和1个vCPU.
   * [mendix.com](https://www.mendix.com/) —用于企业的快速应用程序开发，无限数量的免费沙箱环境，支持10个用户，100 MB的文件和100 MB的数据库存储
@@ -627,7 +627,7 @@
   * [outsystems.com](https://www.outsystems.com/) —用于本地或云的企业Web开发PaaS，免费的“个人环境”产品允许无限的代码和高达1 GB的数据库
   * [pipedream.com](https://pipedream.com)  -为开发人员构建的集成平台. 根据任何触发器开发任何工作流程. 工作流是代码，您可以运行 [for free](https://docs.pipedream.com/pricing/) . 无需管理服务器或云资源.
   * [pythonanywhere.com](https://www.pythonanywhere.com/)  — Cloud Python应用程序托管. 初学者帐户免费，在your-username.pythonanywhere.com域中有1个Python Web应用程序，512 MB私有文件存储，1个MySQL数据库
-  * [scn.sap.com](https://scn.sap.com/docs/DOC-56411) — The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1 GB structured, 1 GB unstructured, 1 GB of Git data and allow you to run HTML5, Java and HANA XS apps
+  * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)  — SAP提供的内存中平台即服务产品. 免费的开发人员帐户具有1 GB的结构化，1 GB的非结构化，1 GB的Git数据，并允许您运行HTML5，Java和HANA XS应用程序
   * [staroid.com](https://staroid.com)  -托管的Kubernetes命名空间服务，旨在为开源开发人员提供资金. 释放8个CPU和16GB的RAM名称空间，以测试分支并提取公共存储库的请求. 每30分钟免费关闭测试名称空间. 最多2个并发测试名称空间.
   * [workers.dev](https://workers.dev)  -在Cloudflare的全球网络上免费部署无服务器代码. 每天使用worker.dev子域的100,000个免费请求.
   * [Platform9](https://platform9.com/)  -专为开发人员设计的托管Kubernetes服务. 免费的开发人员帐户最多包含3个群集和20个节点群集.
@@ -961,6 +961,7 @@
    * [metrica.yandex.com](https://metrica.yandex.com/) -无限的免费分析
    * [mixpanel.com](https://mixpanel.com/) -在您的网站上免费获得25,000点或200,000点带有他们的徽章
    * [Moesif](https://www.moesif.com)  — REST和GraphQL的API分析.  （每月最多免费提供500,000个API调用）
+   * [Molasses](https://www.molasses.app)  -强大的功能标志和A / B测试. 释放多达3个环境，每个环境具有5个功能标志.
    * [optimizely.com](https://www.optimizely.com) — A / B测试解决方案，免费入门计划，1个网站，1个iOS和1个Android应用
    * [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) -无限的免费分析
    * [sematext.com](https://sematext.com/cloud/) —每月最多可进行5万次操作，1天数据保留，无限制仪表板，用户等，免费.

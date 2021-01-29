@@ -159,7 +159,7 @@
 - [Vuex For The Clueless — The Missing Primer On Vue’s Application Data Store](https://medium.com/js-dojo/vuex-for-the-clueless-the-missing-primer-on-vues-application-data-store-33fa51ffc3af#.2j25xpfui)
 - [Real-time Grid Component Laravel, Vue.js, Vuex & Socket.io](https://www.youtube.com/watch?v=Jxefsv5Zqkw&t=3s)
 - [VueJS 2 - The Complete Guide (incl. Vuex) - Udemy Tutorial](https://www.udemy.com/vuejs-2-the-complete-guide)
-- [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) on [egghead.io](https://egghead.io/)
+- [Develop Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js) 上 [egghead.io](https://egghead.io/)
 - [Vue.js 2 - Getting Started](https://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07)
 - [Vue.js 2 & Vuex (Basics)](https://www.youtube.com/playlist?list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)
 - [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) 在YouTube上 [Fatih Acet](http://fatihacet.com)
@@ -200,15 +200,15 @@
 - [Using localStorage with Vuex store without a plugin](https://www.mikestreety.co.uk/blog/vue-js-using-localstorage-with-the-vuex-store)
 - [Using props for accessing URL parameters within components with Vue Router](https://www.youtube.com/watch?v=ESg0k2zdME4)
 - [Deploy Vue.js — SSR(Vuetify) on Production with Pm2 and Nginx](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
-- [Testing Vue Components](http://testingvue.com) on [laracast](https://laracasts.com/series/testing-vue)
+- [Testing Vue Comp上ents](http://testingvue.com) 上 [laracast](https://laracasts.com/series/testing-vue)
 - [Building a Full Stack Web App with Vue.js and Express.js](https://www.youtube.com/watch?v=Fa4cRMaTDUI&t=) 通过 [@CodyLSeibert](https://twitter.com/CodyLSeibert)
 - [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video) 由Packt的Peter van Meijgaard撰写.  （2017年9月）
 - [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js)
 - [Building Your First Advanced CRUD Application with Vue 2 (Video)](https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video) 由Packt的Peter van Meijgaard撰写.  （2017年7月）
 - [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
-- [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) 通过 [Captain Pangyo](https://joshua1988.github.io/)
-- [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
-- [Getting Started with VueJS 2](https://www.udemy.com/getting-started-with-vue-js) 由Sachin Bhatnagar [@sachinbee](https://www.twitter.com/sachinbee) on [Udemy](https://udemy.com/)
+- [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) 上 [Inflearn](https://www.inflearn.com/) 通过 [Captain Pangyo](https://joshua1988.github.io/)
+- [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) 上 [Snipcart](https://snipcart.com/)
+- [Getting Started with VueJS 2](https://www.udemy.com/getting-started-with-vue-js) 由Sachin Bhatnagar [@sachinbee](https://www.twitter.com/sachinbee) 上 [Udemy](https://udemy.com/)
 - [Getting Started with Vuex: Managing State in Vue.js](https://sabe.io/tutorials/getting-started-with-vuex)
 - [Vue2 ACL using CASL](https://medium.com/@sergiy.stotskiy/vue-acl-with-casl-781a374b987a) 通过塞尔吉·斯托茨基
 - [Vuejs 2.5+ Authentication Tutorial using Auth0](https://www.storyblok.com/tp/how-to-auth0-vuejs-authentication) 在Storyblok博客上
@@ -264,7 +264,7 @@
 - [How to Dynamically Add a Class Name in Vue](https://michaelnthiessen.com/dynamically-add-class-name/) 通过迈克尔·蒂森（Michael Thiessen）
 - [Build a Library web application with Vue JS, Node JS, and SQL or MongoDB using ScaffoldHub](https://www.youtube.com/watch?v=FdC4Mjljd3k) 费利佩·利马（Felipe Lima） [@scaffoldhub_io](https://twitter.com/scaffoldhub_io)
 - [Building a Realtime Location tracking app with NativeScript + Vue](https://medium.com/saibbyweb/building-a-real-time-location-tracking-app-with-nativescript-vue-under-350-lines-of-code-8b51ad40d657) 通过Saibbyweb
-- [Vue: Getting Started, by John Papa](https://www.pluralsight.com/courses/vue-getting-started) on [Pluralsight](https://www.pluralsight.com)
+- [Vue: Getting Started, by John Papa](https://www.pluralsight.com/courses/vue-getting-started) 上 [Pluralsight](https://www.pluralsight.com)
 - [Building a Simple Pre-Rendered Web App Using Vue + Nuxt](https://mtlynch.io/simple-vue-pre-rendered/) 迈克尔·林奇（Michael Lynch）
 - [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp)
 - [Frontend and Fullstack VENM-stack coding tutorials by RabbitWerks JavaScript](https://www.youtube.com/c/rabbitwerksjavascript)
@@ -438,6 +438,9 @@
 - [vue-stack-cesium](https://github.com/meschg/vue-stack-cesium) -最少的样本配置项目 [CesiumJS](https://cesium.com/cesiumjs/) 以及所有很棒的Vue功能. 该项目包含许多示例，介绍了如何组合和使用某些软件包来上手.
 - [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) -使用Vue，Vuex和Tailwind CSS的Shopify主题开发入门
 - [Peer to Peer game of telephone](https://github.com/ably-labs/depict-it)  -一场适合4至8名玩家的聚会游戏（理想情况下！），您可以通过绘画和标题对短语进行变异，以与您的朋友组成有趣的场景. 该项目是如何使用Vue构建点对点游戏的示例.
+- [vue3-webpack](https://github.com/boussadjra/vue3-webpack) 查看3 + webpack 4入门.
+- [laravel-vue-3-starter](https://github.com/boussadjra/laravel-vue-3-starter) 使用Laravel 8和Vue 3的预配置项目.
+
 ### Books
 
 - [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) 由Packt的Alex Kyriakidis和Kostas Maniatis提供.  （2016年11月）
@@ -856,7 +859,7 @@
 - [HappyPlants](https://github.com/morkro/happy-plants) -用于组织植物的渐进式Web应用程序.
 - [Pocket Lists](https://pocketlists.com) -世界上最友好的待办事项列表应用程序.
 - [Padlet](https://padlet.com) -协作公告板
-- [Glovo](https://glovoapp.com/en/) - On-demand delivery
+- [Glovo](https://glovoapp.com/en/) -按需交付
 - [MySigMail](https://mysigmail.com/create) -MySigMail是一个免费的浏览器电子邮件签名生成器，无需创建帐户
 - [Wordguru](https://wordguru.netguru.com) -一个简单的口头游戏，您可以分成几个小组，并尝试猜测尽可能多的关键字.
 - [ApiFlash](https://apiflash.com) -基于AWS Lambda开发人员的基于Chrome的截图API
@@ -866,7 +869,7 @@
 - [Asciiur](https://www.asciiur.com) -互联网的ascii艺术收藏
 - [Tapestri Designer](https://tapestridesigner.com) -免费工具，可设计用于基因组测序实验（NGS）的PCR引物
 - [Remote-Access-SSH](https://github.com/mritunjaygoutam12/Remote-host) -使用node-ssh的基于Web的远程主机访问
-- [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) -一个免费的在线工具，可即时生成自定义地图图标
+- [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
 - [Monocle Reader](https://monoclereader.com/) -将资讯提供，Twitter，YouTube，网志和其他所有资讯集中在一处.
 - [前站导航](https://www.frontendjs.com/) - 前端社区、文档收录.
 - [Geenes](https://geenes.app) -生成调色板并将其应用到您的UI，然后将其导出到草图或代码.
@@ -1433,7 +1436,7 @@ _在日历中显示不可编辑的事件_
 - [vue-player](https://github.com/algoz098/vue-player) -Vue 2.x具有img占位符的简单html5视频播放器.
 - [vue-audio-better](https://github.com/forijk/vue-audio-better)  -易于为Vue 2.x创建自定义音频播放器组件. 有灵魂的进度条.
 - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) -易于添加声音到您的组件.
-- [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) - A custom Soundcloud player supporting single tracks & playlists
+- [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) -支持单个曲目和播放列表的自定义Soundcloud播放器
 - [vue-use-sound](https://github.com/Tahul/vue-use-sound) -用于播放音效的Vue挂钩.
 
 #### Infinite Scroll
@@ -1699,7 +1702,7 @@ _日期/日期时间/时间选择器_
 - [vuedt](https://github.com/nkoehring/vuedt) -疯狂的轻量级（&lt;5kb！）Vuejs日期和时间选择器组件，具有i18n支持，漂亮的动画和不太模糊的内容.
 - [vue-flatpickr-component](https://github.com/ankurk91/vue-flatpickr-component) 的Vue.js组件 [flatpickr](https://github.com/chmln/flatpickr) 日期时间选择器
 - [vue-jalaali-datepicker](https://github.com/pepour/vue-jalaali-datepicker) -vue.js的Jalaali日历和日期选择器2.
-- [vue-date-picker](https://github.com/ridewn/vue-date-picker) -受材料设计启发的Vue日期选择器组件
+- [vue-date-picker](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
 - [vue-monthly-picker](https://github.com/ittus/vue-monthly-picker) -仅适用于月份和年份选择器的Vue.js组件
 - [vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) -响应式日期范围选择器，显示所选的夜晚数量，允许自定义入住/退房规则，阻止日期，本地化支持等.
 - [vue2-persian-datepicker](https://github.com/dyonir/vue2-persian-datepicker)  -Vue的真棒波斯datepicker组件. 视图的日期选择组件.
@@ -2022,7 +2025,7 @@ _整体/主视图的布局_
 
 - [vue-waterfall](https://github.com/MopTym/vue-waterfall) -Vue.js的瀑布式布局组件.
 - [vueisotope](https://github.com/David-Desmaisons/Vue.Isotope) -同位素过滤器的Vue组件，可对神奇的布局进行排序.
-- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) -Vue.js的可拖动和可调整大小的网格布局.
+- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [vue-drag-zone](https://github.com/surmon-china/vue-drag-zone) -拖动Vue.js（2.x）的Zone组件.
 - [vue-masonry](https://github.com/shershen08/vue-masonry) - Vue.js directive for masonry blocks layouting.
 - [vue-fraction-grid](https://github.com/bkzl/vue-fraction-grid) -基于Flexbox的Vue.js响应式分数网格系统.

@@ -124,7 +124,7 @@
 - [Deploying Iris Classifications with FastAPI and Docker](https://towardsdatascience.com/deploying-iris-classifications-with-fastapi-and-docker-7c9b83fdec3a) -Docker化FastAPI应用程序.
 - [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) -使用Test-Driven Development使用FastAPI，Postgres，Pytest和Docker开发和测试异步API.
 - [FastAPI for Flask Users](https://amitness.com/2020/06/fastapi-vs-flask/) -通过与Flask的并行代码比较来学习FastAPI.
-- [FastAPI Microservice Patterns](https://florian-kromer.medium.com//fastapi-microservice-patterns-3052c1241019) -具有微服务模式的示例性实现的博客文章系列.
+- [FastAPI Microservice Patterns](https://florian-kromer.medium.com/fastapi-microservice-patterns-3052c1241019) -具有微服务模式的示例性实现的博客文章系列.
   - [Local Development Environment](https://florian-kromer.medium.com/fastapi-microservice-patterns-local-development-environment-12182e786f1c) -简而言之，Skaffold，docker，kubectl和minikube.
   - [Service discovery in Container Orchestration Platforms](https://florian-kromer.medium.com/fastapi-microservice-patterns-service-discovery-in-container-orchestration-platforms-290c00d1ad8) -说明了如何在Kubernetes中启用FastAPI服务通信.
   - [Asynchronous Communication](https://florian-kromer.medium.com/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8) -通过消息启用松散耦合的服务.

@@ -19,7 +19,7 @@
 为技术带来多样性的组织.
 
 - [1 Million Women To Tech](https://github.com/1millionwomentotech/toolkitten) -该组织的任务是到2020年为100万妇女提供免费编码教育.提供免费（DIY）和付费（认证）课程.
-- [Algorithmic Justice League](https://www.ajlunited.org/) - Collective that aims to fight algorithmic bias.
+- [Algorithmic Justice League](https://www.ajlunited.org/) -旨在对抗算法偏差的集体.
 - [AnyKey](https://www.anykey.org) -旨在帮助在游戏中为边缘化的游戏社区成员创造公平，包容的空间的组织.
 - [Black Compute HER](https://blackcomputeher.org/) -致力于支持黑人妇女和女孩的计算机技术教育和劳动力发展.
 - [Black Girls Code](http://www.blackgirlscode.com/) -致力于向世界展示黑人女孩可以编码的组织.
@@ -58,7 +58,7 @@
 - [Open Source Diversity](https://opensourcediversity.org/) -开源多样性是一个社区，旨在收集资源，建立网络并进行协作，以实现更多的多样性并融入自由和开源软件社区.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) -开源精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
 - [Out In Tech](https://outintech.com) -团结LGBTQ +技术社区的非营利组织.
-- [OpenCIDER](https://selgebali.gitbook.io/opencider/) - A community building effort to promote computational inclusion and serve as digital equity resource.
+- [OpenCIDER](https://selgebali.gitbook.io/opencider/) -社区建设工作，以促进计算包容性并充当数字资产资源.
 - [ParadigmIQ](https://www.paradigmiq.com/) -范式提供一系列的研讨会，培训和评估，以帮助实现多样性，包容性，归属感，保留性等等.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) -致力于建立共享机会，经验和思想的社区的组织，最终改善了整个创意产业中少数民族的代表权.
 - [PHP Women](http://phpwomen.org) -一个包容性的全球网络，在PHP社区内提供支持.
@@ -69,8 +69,9 @@
 - [PyLadies](http://www.pyladies.com/) -国际指导小组，致力于帮助更多女性成为Python开源社区的积极参与者和领导者.
 - [Q-Space](http://qhumanity.org/index.php/our-projects/q-space/) -位于中国北京的酷儿和女权主义制造者空间，提供了学习空间和社区为变革而采取的行动.
 - [Rails Girls](http://railsgirls.com/) -旨在为妇女提供工具和社区的组织，以使妇女了解技术并建立自己的想法.
-- [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) -Rails Girls Summer of Code是一项全球奖学金计划，旨在为开源带来更多多样性.
+- [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/) - Rails Girls Summer of Code is a global fellowship program aimed at bringing more diversity into Open Source.
 - [R-Ladies](https://rladies.org/) -在R社区中促进性别多样性的全球性组织.
+- [RightsTech Women](https://rightstech.org) -位于瑞士的非营利组织，结合了针对女孩和女性的机器人技术，技术和人权培训. 
 - [Scala Bridge](http://www.scalabridge.org/) -建立一个包容性的Scala社区，并为妇女提供入门编程讲习班.
 - [She++](https://sheplusplus.org) -非营利组织，致力于通过消除围绕技术职业的负面陈规定型观念来增强技术中代表性不足的群体的能力.
 - [She Can Code](https://shecancode.io/) -以赋予妇女权力进入和留在科技行业为使命的组织.
@@ -179,12 +180,12 @@
 - [Getting Free Of Toxic Tech Culture](https://blog.valerieaurora.org/2018/01/17/getting-free-of-toxic-tech-culture/) -Valerie Aurora和Susan Wu.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) -由
 Will Evans和Sinduja Rangarajan.
-- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) -作者：玛丽亚·阿里亚斯·德·雷纳·多明格斯（MaríaArias de ReynaDomínguez）.
+- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) -玛丽亚·阿里亚斯·德·雷纳·多明格斯（MaríaArias de ReynaDomínguez）.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) -Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) -温迪·李
 - [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) -AndréArko.
 - [How To Maintain A Predominantly White Workplace](https://qz.com/work/1334187/how-to-maintain-a-predominantly-white-workplace/) -Leniece Flowers Brissett.
-- [I'm Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) -Diane Rubino.
+- [I'm Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) - By Diane Rubino.
 - [If You Can't Find A Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) -Avivah Wittenberg-Cox.
 - [If You Think Women In Tech Is Just A Pipeline Problem, You Haven't Been Paying Attention](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) -Rachel Thomas.
 - [Important Women In CS Who Aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/) -希勒尔·韦恩（Hillel Wayne）.
