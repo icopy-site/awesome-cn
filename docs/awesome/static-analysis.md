@@ -111,7 +111,7 @@
 <h2 id="ada">有</h2>
 
 - [Codepeer](http://www.adacore.com/codepeer) ：copyright：-检测运行时和逻辑错误.
-- [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) ：copyright：-提供代码验证，以证明源代码中不存在溢出，除零，越界数组访问以及某些其他运行时错误.
+- [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) ：copyright：-提供代码验证，以证明源代码中不存在溢出，零除，越界数组访问以及某些其他运行时错误.
 - [SPARK](https://www.adacore.com/about-spark) ：copyright：-Ada的静态分析和形式验证工具集.
 
 
@@ -149,7 +149,7 @@
 - [PC-lint](https://www.gimpel.com)  ：copyright：-C / C ++的静态分析. 在Windows / Linux / MacOS下本机运行. 支持C11 / C18和C ++ 17的几乎任何平台的代码分析.
 - [Phasar](https://phasar.org) -基于LLVM的静态分析框架，带有污点和类型状态分析.
 - [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) ：copyright：-标识C和C ++嵌入式软件中的运行时错误，并发问题，安全漏洞和其他缺陷.
-- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中不存在溢出，零除，越界数组访问以及某些其他运行时错误.
+- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，被零除，越界数组访问以及某些其他运行时错误.
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) -在编译时使用LLVM分析C / C ++代码.
 - [splint](http://splint.org) -注释辅助的静态程序检查器.
 - [SVF](http://svf-tools.github.io/SVF) -静态工具，可对C和C ++程序进行可伸缩且精确的过程间依存关系分析.
@@ -197,7 +197,7 @@
 - [PC-lint](https://www.gimpel.com)  ：copyright：-C / C ++的静态分析. 在Windows / Linux / MacOS下本机运行. 支持C11 / C18和C ++ 17的几乎任何平台的代码分析.
 - [Phasar](https://phasar.org) -基于LLVM的静态分析框架，带有污点和类型状态分析.
 - [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) ：copyright：-标识C和C ++嵌入式软件中的运行时错误，并发问题，安全漏洞和其他缺陷.
-- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中不存在溢出，零除，越界数组访问以及某些其他运行时错误.
+- [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright：-提供代码验证，以证明C和C ++源代码中没有溢出，被零除，越界数组访问以及某些其他运行时错误.
 - [scan-build](https://clang-analyzer.llvm.org/scan-build.html) -在编译时使用LLVM分析C / C ++代码.
 - [splint](http://splint.org) -注释辅助的静态程序检查器.
 - [SVF](http://svf-tools.github.io/SVF) -静态工具，可对C和C ++程序进行可伸缩且精确的过程间依存关系分析.
@@ -248,12 +248,12 @@
 <h2 id="elm">榆树</h2>
 
 - [elm-analyse](https://stil4m.github.io/elm-analyse) -一种工具，可让您分析Elm代码，识别缺陷并应用最佳实践.
-- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) -分析整个Elm项目，重点放在用Elm编写的可共享和自定义规则上，这些规则可以确保Elm编译器不会提供给您.
+- [elm-review](https://package.elm-lang.org/packages/jfmengels/elm-review/latest) -分析整个Elm项目，重点放在用Elm编写的可共享和自定义规则上，这些规则可确保Elm编译器不会给您带来任何好处.
 
 
 <h2 id="erlang">Erlang</h2>
 
-- [dialyzer](https://erlang.org/doc/man/dialyzer.html)  -DIALYZER，一个用于ERlang程序的差异分析仪.  Dialyzer是一种静态分析工具，可在单个Erlang模块或整个（组）应用程序中识别软件差异，例如确定的类型错误，由于编程错误而变得无效或无法访问的代码以及不必要的测试.
+- [dialyzer](https://erlang.org/doc/man/dialyzer.html) - The DIALYZER, a DIscrepancy AnaLYZer for ERlang programs. Dialyzer is a static analysis tool that identifies software discrepancies,  such as definite type errors, code that has become dead or unreachable  because of programming error, and unnecessary tests,  in single Erlang modules or entire (sets of) applications.
  Dialyzer从调试编译的BEAM字节码或Erlang源代码开始分析. 报告差异的文件和行号以及有关差异的指示.  Dialyzer的分析基于成功类型的概念，该概念允许发出声音警告（无误报）.
 - [elvis](https://github.com/inaka/elvis) -Erlang样式审阅者.
 - [Primitive Erlang Security Tool (PEST)](https://github.com/okeuday/pest) -一种对Erlang源代码进行基本扫描并报告可能导致Erlang源代码不安全的函数调用的工具.
@@ -340,7 +340,7 @@
 - [ckjm](http://www.spinellis.gr/sw/ckjm) -通过处理已编译的Java文件的字节码来计算Chidamber和Kemerer的面向对象的度量.
 - [CogniCrypt](https://www.eclipse.org/cognicrypt) -检查Java源代码和字节码是否使用了错误的加密API.
 - [DesigniteJava](http://www.designite-tools.com/designitejava) ：copyright：-DesigniteJava支持各种体系结构，设计和实现气味的检测以及各种代码质量指标的计算.
-- [Doop](https://bitbucket.org/yanniss/doop)  -Doop是一个以指针分析算法为中心的，用于Java / Android程序静态分析的声明性框架.  Doop提供了各种各样的分析，还提供了周围的支架来进行端到端的分析（事实生成，处理，统计等）.
+- [Doop](https://bitbucket.org/yanniss/doop)  -Doop是一个以指针分析算法为中心的，用于Java / Android程序静态分析的声明性框架.  Doop提供了各种各样的分析，还提供了周围的脚手架来进行端到端的分析（事实生成，处理，统计等）.
 - [Error-prone](https://errorprone.info) -捕获常见的Java错误作为编译时错误.
 - [fb-contrib](http://fb-contrib.sourceforge.net) -FindBugs的插件，带有其他错误检测器.
 - [forbidden-apis](https://github.com/policeman-tools/forbidden-apis)  -检测并禁止调用特定的方法/类/字段（例如从没有字符集的文本流中读取）.  Maven / Gradle / Ant兼容.
@@ -388,12 +388,12 @@
 
 <h2 id="kotlin">科特林</h2>
 
-- [detekt](https://detekt.github.io/detekt) - Static code analysis for Kotlin code.
+- [detekt](https://detekt.github.io/detekt) -Kotlin代码的静态代码分析.
 - [diktat](https://www.cqfn.org/diKTat) -严格的Kotlin编码标准和可检测并自动修复编码异味的棉绒.
 - [ktlint](https://ktlint.github.io) -带有内置格式化程序的防骑自行车科特林短绒.
 
 
-<h2 id="lua">采取</h2>
+<h2 id="lua">a</h2>
 
 - [luacheck](https://github.com/mpeterv/luacheck) -用于Lua代码的整理和静态分析的工具.
 - [lualint](https://github.com/philips/lualint) -lualint对Lua源代码中的全局变量使用情况进行基于luac的静态分析.
@@ -413,7 +413,7 @@
 <h2 id="ocaml">迷彩</h2>
 
 - [Sys](https://github.com/PLSysSec/sys)  -用于在（浏览器）代码中查找错误的静态/符号工具. 它使用LLVM AST查找未初始化的内存访问之类的错误.
-- [VeriFast](https://github.com/verifast/verifast)  -用于对单线程和多线程C和Java程序的正确性进行模块化形式验证的工具，该工具带有用分隔逻辑编写的前置条件和后置条件. 为了表达丰富的规范，程序员可以定义归纳数据类型，这些数据类型上的原始递归纯函数以及抽象分隔逻辑谓词.
+- [VeriFast](https://github.com/verifast/verifast)  -一种用于对单线程和多线程C和Java程序的正确性进行模块化形式验证的工具，该工具带有以分隔逻辑编写的前置条件和后置条件. 为了表达丰富的规范，程序员可以定义归纳数据类型，这些数据类型上的原始递归纯函数以及抽象分隔逻辑谓词.
 
 
 <h2 id="php">的PHP</h2>
@@ -562,6 +562,7 @@
 <h2 id="sql">的SQL</h2>
 
 - [sqlcheck](https://github.com/jarulraj/sqlcheck) -自动识别SQL查询中的反模式.
+- [SQLFluff](https://www.sqlfluff.com/) - Multiple dialect SQL linter and formatter.
 - [sqlint](https://github.com/purcell/sqlint) -简单的SQL linter.
 - [tsqllint](https://github.com/tsqllint/tsqllint) -特定于T-SQL的linter.
 - [TSqlRules](https://github.com/ashleyglee/TSqlRules) -SQL Server的TSQL静态代码分析规则.
@@ -608,7 +609,7 @@
 
 <h2 id="vbscript">VB脚本</h2>
 
-- [Test Design Studio](http://patterson-consulting.net/tds) ：copyright：-具有静态代码分析功能的完整IDE，用于Micro Focus统一功能测试，基于VBScript的自动化测试.
+- [Test Design Studio](http://patterson-consulting.net/tds) ：copyright：-具有静态代码分析功能的完整IDE，用于Micro Focus统一功能测试基于VBScript的自动化测试.
 
 
 <h2 id="vim-script">Vim脚本</h2>
@@ -669,7 +670,7 @@
 - [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: - A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
 - [Go Meta Linter](https://github.com/alecthomas/gometalinter)  ：warning：-同时运行Go lint工具并标准化其输出. 将`golangci-lint`用于新项目.
 - [Goodcheck](https://sider.github.io/goodcheck) -基于Regexp的可定制短绒.
-- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) - Concurrently runs many linters and normalises their output to a report.
+- [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) -同时运行许多linter，并将其输出标准化为报告.
 - [graudit](http://www.justanotherhacker.com) -Grep粗略审核-源代码审核工具.
 - [Hopper](https://github.com/cuplv/hopper) ：warning：-用scala编写的针对JVM上运行的语言的静态分析工具.
 - [Hound CI](https://houndci.com)  -在GitHub拉取请求中评论样式违规. 支持Coffeescript，Go，HAML，JavaScript，Ruby，SCSS和Swift.
@@ -688,7 +689,7 @@
 - [Nitpick CI](https://nitpick-ci.com) ：copyright：-自动化PHP代码审查.
 - [NodeJSScan](https://opensecurity.in) -NodeJsScan是用于Node.js应用程序的静态安全代码扫描程序.
 - [oclint](http://oclint.org) -静态源代码分析工具，可提高C，C ++和Objective-C的质量并减少缺陷.
-- [ocular](https://www.shiftleft.io/ocular/)  ：copyright：-使代码审核员和安全团队可以交互地调查其独特的代码库，以发现传统SAST无法解决的业务逻辑缺陷和技术漏洞. 这是通过使分析师能够编写自己的自定义查询来完成的. 可以找到硬编码的机密，身份验证问题以及恶意代码，例如rootkit和后门程序.
+- [ocular](https://www.shiftleft.io/ocular/)  ：copyright：-使代码审核员和安全团队能够交互式地调查其独特的代码库，以发现传统SAST无法解决的业务逻辑缺陷和技术漏洞. 这是通过使分析师能够编写自己的自定义查询来完成的. 可以找到硬编码的机密，身份验证问题以及恶意代码，例如rootkit和后门程序.
 - [pfff](https://github.com/facebookarchive/pfff/wiki/Main) ：warning：-Facebook用于多种语言的代码分析，可视化或保留样式源转换的工具.
 - [PMD](https://pmd.github.io) -Java，Salesforce Apex，Javascript，PLSQL，XML，XSL等的源代码分析器.
 - [Polymer-analyzer](https://github.com/Polymer/tools/tree/master/packages/analyzer) -Web组件的静态分析框架.
@@ -709,7 +710,7 @@
 - [RIPS](https://www.ripstech.com) ：copyright：-用于PHP脚本中漏洞的静态源代码分析器.
 - [Rome](https://rome.tools/) -罗马是一个linter，编译器，捆绑器和 [more](https://rome.tools/#development-status) 适用于JavaScript，TypeScript，JSON，HTML，Markdown和CSS.
 - [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers) -基于Roslyn的FxCop分析仪实施.
-- [Roslyn Security Guard](https://security-code-scan.github.io) -该项目着重于识别潜在漏洞，例如SQL注入，跨站点脚本（XSS），CSRF，加密漏洞，硬编码密码等.
+- [Roslyn Security Guard](https://security-code-scan.github.io) -该项目侧重于识别潜在漏洞，例如SQL注入，跨站点脚本（XSS），CSRF，加密漏洞，硬编码密码等.
 - [Scrutinizer](https://scrutinizer-ci.com) ：copyright：-可以与GitHub集成的专有代码质量检查器.
 - [Security Code Scan](https://security-code-scan.github.io) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc. Integrates into Visual Studio 2015 and newer. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 - [Semgrep](https://semgrep.live)  -针对多种语言的免费开放源代码轻量级静态分析. 使用看起来像源代码的模式查找和阻止错误变体.
@@ -756,7 +757,7 @@
 加载地址：binbloom可以解析原始二进制固件并确定其加载地址. 字节序：binbloom可以使用启发式方法来确定固件的字节序.  UDS数据库：binbloom可以解析原始二进制固件，并检查其是否包含包含UDS命令ID的数组.
 - [BinSkim](https://github.com/Microsoft/binskim) -二进制静态分析工具，可为Windows可移植可执行文件提供安全性和正确性结果.
 - [Black Duck](https://www.blackducksoftware.com) ：copyright：-分析源代码和二进制文件以获取可重用代码，必要许可证和潜在安全方面的工具.
-- [bloaty](https://github.com/google/bloaty)  -想知道是什么使您的二进制文件变大了吗？  Bloaty McBloatface将为您显示二进制文件的大小配置文件，以便您了解内部文件占用了什么空间.  Bloaty对二进制文件进行了深入分析. 通过使用自定义的ELF，DWARF和Mach-O解析器，Bloatty旨在将二进制文件的每个字节准确地归因于产生它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
+- [bloaty](https://github.com/google/bloaty)  -想知道什么使您的二进制文件变大了吗？  Bloaty McBloatface将为您显示二进制文件的大小配置文件，以便您了解内部文件占用了什么空间.  Bloaty对二进制文件进行了深入分析. 通过使用自定义的ELF，DWARF和Mach-O解析器，Bloaty旨在将二进制文件的每个字节准确地归因于产生它的符号或编译单元. 它甚至会反汇编二进制文件以查找对匿名数据的引用.  F
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
 - [Ghidra](https://ghidra-sre.org) -国家安全局研究局开发的软件逆向工程（SRE）工具套件，用于支持网络安全使命
 - [IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware) ：copyright：-二进制代码分析工具.
@@ -959,7 +960,7 @@
 <h2 id="writing">写作</h2>
 
 - [After the Deadline](https://afterthedeadline.com) ：warning：-拼写，样式和语法检查器.
-- [alex](https://alexjs.com) - Catch insensitive, inconsiderate writing
+- [alex](https://alexjs.com) -捕捉不敏感，不体贴的文字
 - [codespell](https://github.com/codespell-project/codespell) -检查代码中常见的拼写错误.
 - [languagetool](https://languagetool.org)  -25种以上语言的样式和语法检查器. 它会发现许多简单的拼写检查器无法检测到的错误.
 - [misspell-fixer](https://github.com/vlajos/misspell-fixer) -用于修复源代码中常见拼写错误，错别字的快速工具.

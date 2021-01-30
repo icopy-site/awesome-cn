@@ -20,7 +20,7 @@
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索能力以及迭代解决方案的能力结合在一起. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出框框思考，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的许多方面的组合，例如技术，算法开发和数据干扰，以研究数据，分析数据并找到解决难题的创新方法. 基本上，数据科学就是关于分析数据并通过寻找创新方式来推动业务增长的.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _当今的数据科学家类似于1980年代和1990年代的华尔街“数量”. 那时，具有物理学和数学背景的人们涌向投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 然后，各式各样的大学开发了金融工程硕士学位课程，从而培养出了第二代人才，主流企业更容易获得这些人才. 在1990年代后期，搜索工程师重复了这种模式，搜索工程师的稀有技能很快就被计算机科学程序所教授.
-| [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
+| [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学的方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，负责收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学，统计学和数学. 他们分析，处理和建模数据，然后解释结果以为公司和其他组织创建可行的计划.
 | [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的一门学科-计算机科学结合起来的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家和其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
 
@@ -408,6 +408,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r)
+- [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) & [(cheaper PDF version)](http://gum.co/everydaydata)
 - [Exploring Data Science](https://www.manning.com/books/exploring-data-science) -免费的电子书采样器
 - [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) -免费的电子书采样器
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)

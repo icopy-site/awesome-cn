@@ -26,7 +26,7 @@
 
 ## Topic Areas 
 
-### Comprehensive Tutorials
+### Comprehensive R Tutorials
 
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) -这些教程按技能级别（初级，中级，专家）分组. 
 - [R CODER](https://r-coder.com) -这些教程分为几类（简介，数据结构，数据整理，编程，导入和导出，图形），涵盖了开始学习R编程语言的人员的所有基本需求. 
@@ -55,7 +55,7 @@
 
 - [Awesome R Shiny](https://github.com/grabear/awesome-rshiny)  -R Shiny的精选资源列表. 作者：Rob Gilmore.
 - [Building Shiny Applications with R Tutorial (Deprecated)](https://rstudio.github.io/shiny/tutorial/#)  -Shiny入门教程. 请注意，本教程已弃用. 作者：RStudio.
-- [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) - This tutorial is a hands-on activity complement to a set of [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) 学习如何构建Shiny应用程序. 作者：Dean Attali.
+- [Building Shiny apps - an interactive tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial/) -本教程是对一组实践活动的补充 [presentation slides](https://docs.google.com/presentation/d/1dXhqqsD7dPOOdcC5Y7RW--dEU7UfU52qlb0YD3kKeLw/edit) 学习如何构建Shiny应用程序. 作者：Dean Attali.
 - [How to Start with Shiny](https://vimeo.com/rstudioinc/review/131218530/212d8a5a7a)  -详细的入门视频教程. 作者：Garrett Grolemund.
 - [Learn Shiny](https://shiny.rstudio.com/tutorial/)  -此页面上的视频和书面教程主要是为Shiny刚接触并需要指导的用户设计的. 作者：RStudio.
 - [Shiny Articles](https://shiny.rstudio.com/articles/)  -各种文章，涵盖了更高级的各个闪亮主题. 作者：RStudio.
@@ -69,7 +69,7 @@
 
 ### Viz
 
-- [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)  -全面且易于遵循的教程，涉及使用轴，标题，图例，背景，网格线，边距，多面板图，颜色，主题，线条，文本，坐标，图表类型，功能区，平滑度和交互式图. 作者：塞德里克·谢勒（CédricScherer）.
+- [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/) - A comprehensive and easy to follow tutorial that covers working with axes, titles, legends, backgrounds, grid lines, margins, multi-panel plots, colors, themes, lines, text, coordinates, chart types, ribbons, smoothings, and interactive plots. Author: Cédric Scherer.
 - [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2) - A curated list of awesome ggplot2 tutorials, packages etc. Author: Erik Gahner Larsen.
 - [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) -作者：安德鲁·阿贝拉（Andrew Abela）博士
 - [Color Hex Color Codes](https://www.color-hex.com/) -作者：Color-Hex.
@@ -96,7 +96,8 @@
 
 ### Uncategorized
 
-- [A Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)  -R包data.table和dplyr的详细比较. 作者：Atrebas.
+- [Data.Table and Dplyr Tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#reshape-data)  -R包data.table和dplyr的详细比较. 作者：Atrebas.
+- [data.table: A gentle introduction](https://atrebas.github.io/post/2020-06-17-datatable-introduction/)  -快速介绍data.table. 主要目的是介绍data.table语法，显示如何执行基本但必不可少的数据整理任务. 作者：Atrebas.
 - [Fakir - Create Fake Data in R for Tutorials](https://thinkr-open.github.io/fakir/) -作者：Colin Fay.
 - [R - discoRd server](https://discord.gg/88uG5UVyE2) -具有以下基于主题的渠道的专用discoRd服务器：“ R-Main”（用于更一般性的讨论），“ R-Share”（用于炫耀您的数据视觉效果），“ General R Help”（用于询问问题和共享学习资源）以及“ Topical”帮助/讨论`，涉及统计，dbi，tidymodels，闪亮，自然科学，社会科学，贝叶斯，gis和金融等问题. 
 - [Subreddit - r/Rlanguage - R Programming Language](https://www.reddit.com/r/Rlanguage/new/) -Reddit subreddit专注于实现用于统计和数据科学的R编程语言.
@@ -127,17 +128,17 @@
 - [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) -本书旨在指导那些完全不熟悉R的人员使用R.作者：Derek L. Sonderegger.
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)  -本书介绍了统计学习方法. 作者：Gareth James，Daniela Witten，Trevor Hastie和Robert Tibshirani.
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) -本书专为希望加深对R语言的理解的R程序员以及其他语言的经验丰富的程序员而想了解R的不同之处和特殊之处. [Exercise Solutions](https://advanced-r-solutions.rbind.io/) 作者：Hadley Wickham.
-- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) -对R的介绍源于一组原始的注释，这些注释描述了1990年2月由阿德莱德大学的Bill Venables和David M. Smith撰写的S和S-Plus环境.
+- [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) -对R的介绍源于一组原始的笔记，这些笔记描述了1990年2月由Bill Venables和David M. Smith在阿德莱德大学任教的S和S-Plus环境.
 - [Answering Questions with Data](https://crumplab.github.io/statistics/)  -这是一本免费的教科书，供心理学专业的本科生入门. 该教科书的编写考虑了数学恐惧症，并试图减少与算术计算相关的恐惧症. 作者：Matthew JC Crump.
 - [Data Science in Education Using R](https://datascienceineducation.com/)  -本书主要是关于学习将R用作教育中数据科学的工具. 作者：Ryan A. Estrellado，Emily A. Bovee，Jesse Mostipak，Joshua M. Rosenberg和Isabella C.Velásquez.
 - [Efficient R programming](https://csgillespie.github.io/efficientR/)  -高效的R编程是要在给定的时间内增加R可以完成的工作量. 它与计算效率和程序员效率有关. 作者：Colin Gillespie，Robin Lovelace.
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)  -本书涵盖了构建Shiny应用程序的过程，该应用程序随后将被发送到生产环境. 作者：Colin Fay，SébastienRochette，Vincent Guyader，Cervan Girard.
-- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)  -本书介绍了使用R汇总数据的基本探索技术.这些技术通常在正式建模开始之前应用，并且可以帮助开发更复杂的统计模型. 作者：Roger D. Peng.
+- [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)  -本书介绍了使用R汇总数据的基本探索性技术.这些技术通常在正式建模开始之前应用，并且可以帮助开发更复杂的统计模型. 作者：Roger D. Peng.
 - [Geocomputation with R](https://geocompr.robinlovelace.net/)  -本书是关于利用计算机的功能来处理地理数据. 它教授一系列的空间技能，包括阅读，书写和处理地理数据； 制作静态和交互式地图； 应用地理计算来解决现实世界中的问题； 并模拟地理现象. 作者：罗宾·洛夫莱斯（Robin Lovelace），雅库布·诺沃萨德（Jakub Nowosad），珍妮丝·穆恩谢（Jannes Muenchow）.
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)  -本书提供了ggplot2的动手入门，其中包含许多示例代码和图形. 它还说明了ggplot2所基于的语法. 作者：Hadley Wickham.
-- [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) - This eBook aims to help you get started with manipulating strings in R. Author: Gaston Sanchez.
+- [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf) -这本电子书旨在帮助您开始使用R中的字符串进行操作.作者：Gaston Sanchez.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)  -Happy Git就如何安装Git以及如何使其在GitHub和RStudio IDE中与GitHub顺利运行提供了可靠的指导，开发了一些涵盖您最常见任务的关键工作流程，并将Git和GitHub集成到您的日常工作中R和R Markdown. 作者：珍妮·布赖恩（Jenny Bryan），STAT 545 TA，吉姆·海斯特（Jim Hester）.
-- [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)  -本书最初是哈佛数据科学丛书中使用的课堂笔记. 它介绍了可以帮助您应对现实数据分析挑战的概念和技能. 它涵盖了概率，统计推断，线性回归和机器学习等概念. 它还可以帮助您开发技能，例如R编程，使用dplyr进行数据整理，使用ggplot2进行数据可视化，使用插入符构建算法，使用UNIX / Linux shell进行文件组织，使用Git和GitHub进行版本控制以及使用knitr和R markdown进行可重现的文档准备. . 作者：Rafael A. Irizarry教授.
+- [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)  -本书最初是哈佛数据科学丛书中使用的课堂笔记. 它介绍了可以帮助您应对现实数据分析挑战的概念和技能. 它涵盖了概率，统计推断，线性回归和机器学习等概念. 它还可以帮助您开发技能，例如R编程，使用dplyr进行数据整理，使用ggplot2进行数据可视化，使用插入符号构建算法，使用UNIX / Linux shell进行文件组织，使用Git和GitHub进行版本控制以及使用knitr和R markdown进行可重现的文档准备. 作者：Rafael A. Irizarry教授.
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html)  -本文档简要介绍了R.它强调了您需要了解的才能在任何上下文中使用该语言. 作者：罗伯特·希曼斯教授.
 - [JavaScript for R](https://book.javascript-for-r.com/)  -这项工作的最终目的是向读者展示邀请JavaScript进入其数据科学工作流程可以带来的许多巨大好处. 作者：约翰·科恩（John Coene）.
 - [Learning Statistics with R](https://learningstatisticswithr.com/)  -使用R学习统计涵盖了入门统计课的内容，通常是针对本科心理学学生而讲授的，重点是R统计软件的使用. 作者：Danielle Navarro.
@@ -171,7 +172,7 @@
 
 ## Podcasts 
 
-- [Not so Standard Deviations](http://nssdeviations.com/) -数据科学播客，Roger Peng和Hilary Parker谈论学术界和行业中最新的数据科学和数据分析。
+- [Not so Standard Deviations](http://nssdeviations.com/) -数据科学播客，Roger Peng和Hilary Parker谈论学术界和行业中最新的数据科学和数据分析.
 - [The R-Podcast](https://r-podcast.org/)  -有关如何利用R来完成创新而强大的数据分析的实用建议. 由Eric Nantz主持.
 
 ## YouTube

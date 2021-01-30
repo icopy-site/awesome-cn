@@ -61,6 +61,7 @@
 - [AgroSense](https://bitbucket.org/corizon/agrosense) -使用Java构建的免费开放源代码服务器场管理套件.
 - [farmOS](https://github.com/farmOS/farmOS) -使用Drupal和PHP构建的基于Web的农场记录保存应用程序.
 - [Ekylibre](https://github.com/ekylibre/ekylibre) -使用Ruby on Rails和PostgreSQL / PostGIS构建的针对农民和小型企业的农场管理信息系统.
+- [Soil Mate](https://github.com/Open-Source-Agriculture/soil_mate) -旨在帮助收集土壤数据的助手应用程序.
 - [Tania](https://github.com/Tanibox/tania-core) -为使用Go和Vue.js构建的每个人免费和开源的农业管理系统.
 
 ## Geospatial and GIS

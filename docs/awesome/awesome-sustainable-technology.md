@@ -10,9 +10,6 @@ __列出旨在维持稳定的气候，能源供应和重要自然资源的全球
 <!--toc-->
 
 
-### Computation and Services
-
-
 
 <!--toc_end-->
 
@@ -319,7 +316,6 @@ __列出旨在维持稳定的气候，能源供应和重要自然资源的全球
 - [CPU Energy Meter](https://github.com/sosy-lab/cpu-energy-meter) -一种Linux工具，可以在精细的时间间隔内监视Intel CPU的功耗.
 - [PowerAPI](https://github.com/powerapi-ng/powerapi) -用于构建软件定义的功率计的中间件工具包.
 
-### Services and 
 
 ## Energy System Assessment
 

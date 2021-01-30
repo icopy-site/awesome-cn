@@ -52,11 +52,12 @@
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) -识别并减轻数字产品对个人和社会的风险.
 - [Fairwork Foundation](https://fair.work/) -一个旨在制定和衡量平台经济中的标准和认证的项目.
 - [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) -基于基本权利和道德原则的可信赖AI指南.
-- [Ethical Web Dev](https://edri.org/ethical-web-dev/) -符合道德规范的网站开发和维护指南.
+- [Ethical Web Dev](https://edri.org/our-work/ethical-web-dev-2/) -符合道德规范的网站开发和维护指南.
 - [Declaration of Digital Autonomy](https://techautonomy.org/) -我们的技术必须尊重使用它的人的权利和自由.
 - [A New Digital Manifesto](https://anewdigitalmanifesto.com) -我们在数字时代的不可剥夺的权利.
 - [Society Centered Design](https://societycentered.design/)  -超越以人为本的设计. 我们必须为集体，为社会而设计.
 - [The Hippocratic License](https://firstdonoharm.dev/) -开发人员的开放源代码许可证，可强制其代码以道德方式使用.
+- [The Ethical Source Movement](https://ethicalsource.dev/) -为其项目实践道德开放源原则的社区.
 
 ## Security
 
@@ -76,8 +77,8 @@
 - [ghacks user.js](https://github.com/ghacksuserjs/ghacks-user.js) -用于配置和强化Firefox隐私，安全性和防指纹功能的user.js模板.
 - [user.js](https://github.com/pyllyukko/user.js) -Firefox的配置，可强化浏览器设置并使其更加安全.
 - [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) -模拟内容交付网络的浏览器扩展，可改善您的在线隐私.
-- [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - Browser extension allows posing as another browser by changing User-Agent header.
-- [Random User-Agent](https://github.com/tarampampam/random-user-agent) - Browser extension that automatically replaces User-Agent after a specified time interval.
+- [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) -浏览器扩展允许通过更改User-Agent标头伪装成另一个浏览器.
+- [Random User-Agent](https://github.com/tarampampam/random-user-agent) -在指定的时间间隔后自动替换User-Agent的浏览器扩展.
 - [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smart-referer/smart-referer/) -浏览器扩展，可在更改域时自动隐藏引用.
 - [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) -浏览器扩展程序，可防止通过Javascript Canvas API进行指纹识别.
 - [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ChrisAntaki/disable-webrtc-firefox) -浏览器扩展程序，禁用WebRTC，以避免从VPN后面泄漏IP地址.
@@ -127,7 +128,7 @@
 
 - [re:consent](https://cliqz.com/en/magazine/re-consent) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/re-consent) -浏览器插件，用于查看/更改您对网站进行数据处理的同意.
 - [Trackless](https://github.com/ascorbic/trackless) -在您的网站上添加GDPR友好的Google Analytics（分析）选择加入/退出按钮.
-- [ConsentCookie](https://www.consentcookie.nl/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humanswitch/consentcookie) -可自定义的脚本，允许用户根据情况选择加入Cookie.
+- [ConsentCookie](https://www.consentcookie.nl/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humanswitch/consentcookie) - Customizable script that allow users to opt-in for cookies on a case-by-case basis.
 - [GDPR Transparency and Consent Framework](https://iabtechlab.com/standards/gdpr-transparency-and-consent-framework/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) -帮助遵守欧盟数据保护和隐私规则.
 - [Klaro](https://klaro.kiprotect.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/KIProtect/klaro) -一个简单而强大的工具，可以管理网站上的用户同意.
 
@@ -153,7 +154,7 @@
 
 ## Blocklists
 
-- [Hosts](https://github.com/StevenBlack/hosts) -合并多个信誉良好的主机文件，并将它们合并为一个统一的文件.
+- [Hosts](https://github.com/StevenBlack/hosts) - Consolidates several reputable hosts files, and merges them into a single unified one.
 - [Blocklists](https://github.com/jmdugan/blocklists) -人们可能希望使用主机文件阻止的问题域的共享列表.
 - [Referrer Spam List](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/referrer-spam-list) -社区推荐的垃圾邮件发送者阻止列表.
 - [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/collinbarrett/FilterLists) -广告，跟踪器，恶意软件和烦恼的过滤器和主机列表的目录.
@@ -191,7 +192,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) -Selenium脚本删除您所有的Facebook墙上帖子.
 - [Minimal Twitter](https://twang.dev/minimal-twitter/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) -新的Twitter UI的最小主题.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) -专注于更好对话的开源评论平台.
-- [Invidious](https://invidio.us) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/iv-org/invidious) -不带广告的YouTube替代前端.
+- [Invidious](https://invidious.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/iv-org/invidious) -不带广告的YouTube替代前端.
 - [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/deltachat) -通过电子邮件进行类似于Whatsapp的分散聊天，无需跟踪和中央控制.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zedeus/nitter) -另一个关注隐私的Twitter前端.
 - [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) -Firefox扩展程序，可将YouTube和Twitter请求重定向到其他选项.
@@ -206,6 +207,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [YouTubeSearchFixer](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/phoennix/youtubesearchfix) -Firefox插件，用于修复搜索，使主页整洁并减少UI的干扰.
 - [Teddit](https://teddit.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teddit/teddit) -替代Reddit前端专注于隐私.
 - [Libreddit](https://libredd.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/spikecodes/libreddit) -用Rust编写的私有Reddit前端.
+- [YouTube2PeerTube](https://github.com/mister-monster/YouTube2PeerTube) -一种自动将YouTube频道镜像到PeerTube频道的机器人.
 
 ## Freedom
 
@@ -267,7 +269,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 ## Mindfulness
 
 - [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mindfulness-at-the-computer/mindfulness-at-the-computer) -帮助您在使用计算机时注意呼吸.
-- [Chomper](https://addictedto.tech/chomper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/aniketpanjwani/chomper) - Internet blocker for Linux with allowLists/blockLists and timer to be more productive at work.
+- [Chomper](https://addictedto.tech/chomper/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/aniketpanjwani/chomper) -带有allowLists / blockLists和计时器的Linux互联网阻止程序，在工作中更具生产力.
 - [Jobs Done](https://jobs-done.now.sh/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/skidding/jobs-done) -一款受深度工作启发而结束工作日的礼仪应用程序.
 - [Break Timer](https://github.com/tom-james-watson/breaktimer-app) -定期休息并防止RSI，眼睛疲劳和疲劳的应用程序.
 - [MindBell](https://www.dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/udamken/mindbell) -Android的正念铃和冥想计时器.
@@ -313,7 +315,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [IMSI-Catcher Detector](https://cellularprivacy.github.io/Android-IMSI-Catcher-Detector/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/CellularPrivacy/Android-IMSI-Catcher-Detector) -一个用于检测IMSI-Catchers aka Stingrays（Alpha项目）的Android应用.
 - [Dogsheep](https://dogsheep.github.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/dogsheep) -将大公司（例如Google，Twitter）的数据导出到Sqlite中进行个人分析.
 - [Tracking Exposed](https://tracking.exposed/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tracking-exposed) -研究，浏览器附加程序，用于跟踪，分析和影响算法.
-- [Social Media Awareness Toolkit](https://foundation.mozilla.org/en/blog/new-open-source-tool-tracking-disinformation/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smat-project) -一种开放，直观的方式来检查互联网平台上的趋势.
+- [Social Media Awareness Toolkit](https://www.smat-app.com/about) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/smat-project) -一种开放，直观的方式来检查互联网平台上的趋势.
 
 ## Censorship
 
@@ -325,7 +327,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 本节适用于仍处于主题或代码状态的非活动项目.
 
 - [Wi-Fi Privacy Police](https://github.com/BramBonne/privacypolice) -防止智能手机或平板电脑通过Wi-Fi网络泄漏隐私敏感信息.
-- [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/d4t4x/data-selfie) -在Facebook上跟踪自己并分析您的数据（服务器 [discontinued](https://dataselfie.it/#/shutdown)，代码仍然可用）.
+- [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/d4t4x/data-selfie) -在Facebook上跟踪自己并分析您的数据（服务器 [discontinued](https://dataselfie.it/#/shutdown), code still usable).
 - [Breathe](http://breatheforpebble.tk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cheeseisdisgusting/exhale)  -花点时间呼吸. 一个用C语言编写的Pebble呼吸应用程序.
 
 ## Related awesomeness

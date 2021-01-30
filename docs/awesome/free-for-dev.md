@@ -62,7 +62,7 @@
     * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) —使用免费的SSL，身份验证/授权和自定义域来构建，部署和托管静态应用和无服务器功能
     * [Storage](https://azure.microsoft.com/services/storage/) -5GB LRS文件或Blob存储
     * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots...) with free tier including limited transactions
-    * [Cognitive Search](https://azure.microsoft.com/services/search/#features) -基于AI的搜索和索引服务，可免费处理10,000个文档
+    * [Cognitive Search](https://azure.microsoft.com/services/search/#features) - AI-based search and indexation service, free for 10,000 documents
     * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) -托管Kubernetes服务，免费集群管理
     * [Event Grid](https://azure.microsoft.com/services/event-grid/) -每月10万次运营
     *详细清单- [https://azure.microsoft.com/free/](https://azure.microsoft.com/free/)
@@ -155,14 +155,14 @@
   * [MockAPI](https://www.mockapi.io/)  — MockAPI是一个简单的工具，可让您轻松地模拟API，生成自定义数据并使用RESTful接口对其执行操作.  MockAPI旨在用作原型设计/测试/学习工具.  1个项目/每个项目50个免费资源.
   * [myfakeapi.com](https://myfakeapi.com) —为开发人员提供的免费的无服务器API模拟服务.
   * [microenv.com](https://microenv.com) —为开发人员创建伪造的REST API，并有可能在Docker容器中生成代码和应用程​​序.
-  * [OCR.Space](https://ocr.space/) — An OCR API which parses image and pdf files returning the text results in JSON format. 25,000 requests per month free.
+  * [OCR.Space](https://ocr.space/)  —一个OCR API，用于解析图像和pdf文件，并以JSON格式返回文本结果. 每月免费提供25,000个请求.
   * [OpenAPI3 Designer](https://openapidesigner.com/) —可视地免费创建Open API 3定义.
   * [parsehub.com](https://parsehub.com/) —从动态网站提取数据，将动态网站转换为API，免费提供5个项目.
   * [Pixela](https://pixe.la/)  -免费的日流数据库服务. 所有操作均由API执行. 热图和折线图的可视化也是可能的.
   * [Postbacks](https://postbacks.io/)  -稍后请求HTTP回调. 注册时有8,000个免费请求.
   * [Postman](https://postman.com)  —通过Postman（用于API开发的协作平台）简化工作流程并更快地创建更好的API. 永久免费使用Postman App. 邮递员云功能也是永久免费的，有一定的限制.
   * [ProxyCrawl](https://proxycrawl.com/)  —无需代理，基础架构或浏览器即可抓取和抓取网站. 我们为您解决验证码并防止您被阻止. 前1000个电话免费.
-  * [QuickMocker](https://quickmocker.com/)  —在您自己的子域下管理在线伪造的API端点，将请求转发到本地URL以进行Webhooks开发和测试，使用RegExp和多种HTTP方法进行URL路径，对端点进行优先级划分，使用100多个短代码（动态或伪造的响应值）进行响应模板化，从JSON格式的OpenAPI（Swagger）规范导入，代理请求，通过IP地址和授权标头限制端点. 免费帐户提供1个随机子域，10个端点，5个RegExp URL路径，每个端点50个简码，每天100个请求，请求日志中的50条历史记录.
+  * [QuickMocker](https://quickmocker.com/)  —在您自己的子域下管理在线假API端点，将请求转发到localhost URL以进行Webhooks开发和测试，使用RegExp和多个HTTP方法进行URL路径，对端点进行优先级划分，使用100多个短代码（动态或假响应值）进行响应模板化，从JSON格式的OpenAPI（Swagger）规范导入，代理请求，通过IP地址和授权标头限制端点. 免费帐户提供1个随机子域，10个端点，5个RegExp URL路径，每个端点50个简码，每天100个请求，请求日志中的50条历史记录.
   * [RequestBin.com](https://requestbin.com)  —创建一个可以向其发送HTTP请求的免费端点. 发送到该端点的所有HTTP请求都将与相关的有效负载和标头一起记录，因此您可以观察来自Webhooks和其他服务的请求.
   * [restlet.com](https://restlet.com/products/apispark/) — APISpark使任何API，应用程序或数据所有者都可以通过直观的浏览器界面在几分钟之内成为API提供者.
   * [ROBOHASH](https://robohash.org/) -Web服务，可从任何文本生成唯一的（酷：）图像.
@@ -237,7 +237,7 @@
   * [StatusPile](https://www.statuspile.com/)  -状态页的状态页. 跟踪上游提供商的状态页.
   * [talky.io](https://talky.io/)  —免费的小组视频聊天. 匿名. 点对点. 无需插件，注册或付款
   * [Tefter](https://tefter.io)  -具有强大的Slack集成功能的书签应用程序. 开源团队免费.
-  * [TeleType](https://teletype.oorja.io/)  —共享终端，语音，代码，白板等. 无需登录，面向开发人员的端到端加密协作.
+  * [TeleType](https://teletype.oorja.io/) — share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.
   * [Tree Schema](https://treeschema.com/)  —使用API​​的数据目录和元数据管理，以代码形式管理数据沿袭. 最多容纳5位用户的团队免费.
   * [twist.com](https://twist.com)  —异步友好的团队交流应用程序，其中的对话保持井井有条，并保持主题一致. 提供免费和无限计划. 为符合条件的团队提供折扣.
   * [typetalk.com](https://www.typetalk.com/) -通过网络或手机上的即时消息与团队共享和讨论想法
@@ -268,7 +268,7 @@
   * [beanstalkapp.com](https://beanstalkapp.com/) —编写，查看和部署代码的完整工作流程），1个用户的免费帐户和1个存储库（具有100 MB的存储空间）
   * [browserling.com](https://www.browserling.com/) —实时交互式跨浏览器测试，在1024 x 768分辨率下在Vista下使用MS IE 9仅免费提供3分钟的会话
   * [codacy.com](https://www.codacy.com/) —针对PHP，Python，Ruby，Java，JavaScript，Scala，CSS和CoffeeScript的自动代码审查，免费提供无限制的公共和私有存储库
-  * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev) - Automated Infrastructure as Code review tool for DevOps integrates with GitHub, Bitbucket and GitLab (even self-hosted). In addition to standard languages, it analyzes also Ansible, Terraform, CloudFormation, Kubernetes, and more. (open-source free)
+  * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev)  -用于DevOps的作为代码审查工具的自动化基础架构与GitHub，Bitbucket和GitLab（甚至是自托管）集成. 除了标准语言外，它还分析Ansible，Terraform，CloudFormation，Kubernetes等.  （免费开源）
   * [codeclimate.com](https://codeclimate.com/)  —自动化代码审查，免费提供给开源和不受组织限制的私人私有存储库（最多4个协作者）. 对学生和机构也免费.
   * [codecov.io](https://codecov.io/) —代码覆盖率工具（SaaS），免费提供给开源和1个免费的私有仓库
   * [CodeFactor](https://www.codefactor.io)  — Git的自动代码审查. 免费版包括无限的用户，无限的公共存储库和1个私人存储库.
@@ -380,7 +380,7 @@
   * [Okta](https://developer.okta.com/)  —用户管理，身份验证和授权. 免费，每月最多有1000位活跃用户.
   * [onelogin.com](https://www.onelogin.com/) —身份即服务（IDaaS），单一登录身份提供程序，Cloud SSO IdP，3个公司应用程序和5个个人应用程序，无限的用户
   * [opswat.com](https://www.opswat.com/) —安全监视计算机，设备，应用程序，配置，......免费25位用户和30天历史记录的用户.
-  * [pyup.io](https://pyup.io) — Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
+  * [pyup.io](https://pyup.io)  —监视Python依赖关系中的安全漏洞并自动更新它们. 一个私有项目免费，开放源代码无限项目.
   * [qualys.com](https://www.qualys.com/community-edition) —查找Web应用程序漏洞，审核OWASP风险
   * [report-uri.io](https://report-uri.io/) -CSP和HPKP违规报告
   * [ringcaptcha.com](https://ringcaptcha.com/) —免费使用电话号码作为ID的工具
@@ -603,7 +603,6 @@
   * [toranproxy.com](https://toranproxy.com/)  — Packagist和GitHub的代理. 永不让CD失败. 免费供个人使用，1个开发人员，不支持
   * [unpkg.com](https://unpkg.com/) -CDN上npm的所有内容
   * [Namecheap Supersonic](https://www.namecheap.com/supersonic-cdn/#free-plan) —免费的DDoS保护
-  * [BotFront](https://botfront.net/) —针对一个域和三个子域的免费CDN和DDoS保护
 
 ## PaaS
 
@@ -611,7 +610,7 @@
   * [appharbor.com](https://appharbor.com/) —一个提供1个免费工作人员的.Net PaaS
   * [configure.it](https://www.configure.it/) —移动应用开发平台，可免费使用2个项目，功能有限，但没有资源限制
   * [codenameone.com](https://www.codenameone.com/)  —适用于Java / Kotlin开发人员的开源，跨平台，移动应用程序开发工具链. 免费用于商业用途，项目数量不受限制
-  * [Deta](https://www.deta.sh)  –每月免费部署多达无限的Node.js和Python应用程序，数量多达5万个请求. 包括免费的数据库，身份验证和电子邮件.
+  * [Deta](https://www.deta.sh) – Deploy unlimited number of Node.js and Python apps for free up to 50k requests/month. Includes free DBs, Auth and email.
   * [dronahq.com](https://www.dronahq.com/)  —没有用于企业直观地开发应用程序，与现有系统集成以快速构建内部应用程序，流程和表单的代码应用程序开发平台. 免费计划每月提供200个任务，无限草稿应用程序和1个已发布应用程序
   * [firebase.google.com](https://firebase.google.com) —构建实时应用程序，免费计划具有最大100个连接，10 GB数据传输，1 GB数据存储，1 GB主机存储和10 GB主机传输
   * [gearhost.com](https://www.gearhost.com/pricing)  — .NET和PHP应用程序的平台. 在资源有限的共享服务器上免费提供256 MB RAM
@@ -634,6 +633,7 @@
   * [fly.io](https://fly.io/)  -Fly是需要全局运行的应用程序的平台. 它可以在靠近用户的地方运行您的代码，并在您的应用最繁忙的城市中扩展计算. 编写您的代码，将其打包到Docker映像中，将其部署到Fly的平台上，然后执行所有工作以保持您的应用程序灵敏. 附带项目免费，每月10美元的服务信用可自动应用于任何付费服务. 而且，如果您运行的是非常小的虚拟机，那么信誉将大有帮助.
   * [appfleet.com](https://appfleet.com/)  -appfleet是一个边缘平台，允许其用户同时将容器全局部署到多个区域. 它提供了易于使用的UI，同时自动化了诸如智能路由，集群，故障转移，监视等所有复杂性. 开源项目是免费的，所有用户都可以自动获得10美元来托管他们想要的任何东西.
   * [Divio](https://www.divio.com/)  -一个仅使用Docker管理云应用程序部署的平台. 可免费订阅开发项目.
+  * [Zeet.co](https://zeet.co/)  -Zeet是部署和扩展代码的最简单，最快的方法. 它支持来自GitHub或任何公共Docker映像的代码. 只有一个项目是免费的.
 
 ## BaaS
 
@@ -749,7 +749,7 @@
    * [InfluxDB](https://www.influxdata.com/) —时间序列数据库，最多可提供3MB / 5分钟的写入，30MB / 5分钟的读取和10,000个基数系列
    * [Quickmetrics](https://www.quickmetrics.io/) —包含仪表板的时间序列数据库，每天最多可释放10,000个事件，并且总共提供5个指标.
    * [restdb.io](https://restdb.io/)  -快速，简单的NoSQL云数据库服务. 使用restdb.io，您可以获得架构，关系，自动REST API（带有类似MongoDB的查询）以及用于处理数据的高效多用户管理UI. 免费计划允许每秒3个用户，2500条记录和1个API请求.
-   * [Unbounded](https://www.unbounded.cloud/)  -使用Javascript作为查询语言的NoSQL DBaaS. 免费套餐永久允许每月每月50,000次读写.
+   * [Unbounded](https://www.unbounded.cloud/) - a NoSQL DBaaS which uses Javascript as a query language. Free tier allows 50,000 reads and writes per month, forever.
    * [Freedb](https://freedb.tech)  -免费的MySQL云数据库，可通过PhpMyAdmin进行远程访问. 免费套餐允许数据库存储高达100Mb.  **如果超过100Mb的数据库将被删除，而不会发出任何警告.**
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
@@ -762,7 +762,7 @@
    * [segment.com](https://segment.com/)  —集线器，可将事件转换并路由到其他第三方服务. 每月100,000个事件免费
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) — Google STUN
-   * [webhookrelay.com](https://webhookrelay.com) — Manage, debug, fan-out and proxy all your webhooks to public or internal (ie: localhost) destinations. Also, expose servers running in a private network over a tunnel by getting a public HTTP endpoint (`https://yoursubdomain.webrelay.io <----> http://localhost:8080`).
+   * [webhookrelay.com](https://webhookrelay.com)  —管理，调试，扇出并将所有Webhook代理到公共或内部（即localhost）目标. 另外，通过获取公共HTTP端点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080），公开运行在专用网络上通过隧道的服务器.
    * [ZeroTier](https://www.zerotier.com)  — FOSS管理的虚拟以太网即服务. 免费计划的100个客户端的无限端到端加密网络. 台式机/手机/ NA的客户端；  Web界面，用于配置自定义路由规则并批准专用网络上的新客户端节点.
 
 ## Issue Tracking and Project Management

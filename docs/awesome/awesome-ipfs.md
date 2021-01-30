@@ -70,12 +70,12 @@
 - [IPFS Image Uploader](https://ipfs.talaikis.com/)  -IPFS图像上传器和查看器.  Minerva是Apache Drill的存储插件，可将IPFS的分散存储与Drill的灵活查询引擎连接起来. [Source](https://github.com/TalaikisInc/ipfs-uploader)
 - [IPFS with TiddlyWiki](https://github.com/xmaysonnave/tiddlywiki-ipfs) -带有TiddyWiki的IPFS是一个TiddlyWiki插件，旨在帮助开发人员，编辑者或用户通过IPFS保存其Wiki和附件.
 - [IPFS-forum](https://hub.textile.io/ipns/bafzbeib2jvsythibag52rncf56qflqye6iekponbt3u7txcbv2oz45sy5e/index.html) -一个web3论坛.您可以从该论坛中获得新的想法，报告，讨论，尽管您可能处于网络受限的区域，但是ipfs会快速更新所有内容. [Source](https://github.com/ReForum-ipfs/ReForum-ipfs)
-- [IPFS-FPS](http://ipfs-fps.zil.sh/)  -完全分散的第一人称射击游戏. 使用Unity，Fleek，势不可挡的Domans和Pinata构建. [Source](https://github.com/IPFS-FPS)
+- [IPFS-FPS](http://ipfs-fps.zil.sh/)  -完全分散的第一人称射击游戏. 使用Unity，Fleek，势不可挡的Domans和Pinata构建.
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) -基于ipfs和markdown构建Wiki系统.
 - [ipfs-search](https://ipfs-search.com) -自2016年起搜寻宇宙.
 嗅探DHT八卦，并索引文件和目录哈希. 元数据和搜索API可用. [Source](https://github.com/ipfs-search/ipfs-search)
 - [ipfs-share](https://github.com/rameshvarun/ipfs-share) -Pastebin /图像主机/文件共享应用程序
-- [ipfs.ink](https://ipfs.ink) -向ipfs发布和提交markdown文章. [Source](https://github.com/kpcyrd/ipfs.ink)
+- [ipfs.ink](https://github.com/kpcyrd/ipfs.ink) -向ipfs发布和提交markdown文章.
 - [ipfs.pics](https://github.com/ipfspics/ipfspics-server) -上传和分享图片.
 - [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) -Pastebin克隆版本.
 - [IPGit](https://github.com/meyer1994/ipgit) -将您的代码镜像到IPFS的远程Git存储库
@@ -113,6 +113,7 @@
 - [Tree3 Network](https://tree3.network/) -由Stellar和IPFS支持的小额支付，链下数据和博客的去中心化平台. [Source](https://github.com/tree3network/tree3)
 - [ujo](http://ujomusic.com/) -音乐家的区块链市场.
 - [uport](https://www.uport.me) -Uport是一个基于以太坊区块链的移动式，自我主权身份和密钥管理系统.
+- [Watchit](https://github.com/ZorrillosDev/watchit-desktop) -具有分散网络方法的电影平台.
 - [Wistful Books](https://wistfulbooks.com/) -单页离线应用程序，可欣赏librivox.org有声读物. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) -具有IPFS支持的xfce-screenshooter的分支！
 

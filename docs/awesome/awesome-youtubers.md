@@ -205,7 +205,7 @@ Featured Playlists: `C# Mastery Course (2020)`, `C# Programming (Beginners)`, `.
 
 [**DataDaft**](https://www.youtube.com/c/DataDaft) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：数据科学，Python，R，实用和理论\
-特色播放列表：“ Python for Data Analysis”，“ R简介”，“ Python编程实践”，“ Pandas”，“更多播放列表！”.  \
+精选播放列表：“ Python for Data Analysis”，“ R简介”，“ Python编程实践”，“ Pandas”，“更多播放列表！”.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Fun Fun Function channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwgZqkGaQtvrnuPj7jVsKzM61YR_Do0zPHZchlUFQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
@@ -301,6 +301,13 @@ Content about: C#, .NET, Azure, AWS, General Programming \
 特色播放列表：“ Hackerrank问题解决”，“ Machone /深度学习项目教程”.  \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Bro Code's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwngkLa2K2hztBjibf2pUaX9jdT9ytpNdPJqvRUUniw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ)
+
+[**Bro Code**](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+Content about: Java, Python, C#/C++ \
+精选播放列表：“这些语言的播放列表中有很多视频”.  \
+<br/>
+
 
 ## Web development
 
@@ -335,7 +342,7 @@ Featured playlists: `React.js Tutorial for Beginners`, `React.js Hooks Tutorial`
 
 [**Dani Krossing**](https://www.youtube.com/c/TheCharmefis) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容约：Web开发，后端
-精选播放列表：“ HTML和CSS教程”，“ JavaScript教程”，“ PHP教程”，“ jQuery教程”.  \
+Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutorials`, `jQuery Tutorials`. \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="JavaScript Mastery channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_1d5dpZETr6oOBANDbkDtqp9h4n9RWCXeKrWM0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaScriptMastery)
@@ -713,7 +720,7 @@ Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Mult
 [<img align="left" height="94px" width="94px" alt="Jonas Tyroller channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxjaeTFC1M-YAEpgSHasXcojzmv3vbpcOdojtjlug=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JonasTyroller)
 
 [**Jonas Tyroller**](https://www.youtube.com/c/JonasTyroller) \
-Content about: GameMaker Studio, Tips and planning playlists \
+内容有关：GameMaker Studio，提示和计划播放列表\
 精选播放列表：`您会蜗牛吗？  -全面开发.`，游戏开发技巧，`如何开始游戏开发.  \
 <br/>
 
@@ -772,7 +779,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**GDQuest**](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) \
 内容约：GODOT
-精选播放列表：“ Godot 3教程”，“ Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者创建游戏指南”.
+特色播放列表：“ Godot 3教程”，“ Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者创建游戏指南”.
 
 [<img align="left" height="94px" width="94px" alt="HeartBeast channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzoIjRlshuZqc2EyoOtY76mx1jOrnT_VE26BGFctg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/uheartbeast)
 
@@ -872,7 +879,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 ## Software in general
 
-此类别中列出的YouTuber可能不是编程教程或炫酷的设计卡，但每天都会为每个人使用一些其他有用的软件和应用程序. 精通您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
+此类别中列出的YouTuber可能不是编程教程或炫酷的设计卡，但每天都会为每个人使用一些其他有用的软件和应用程序. 掌握您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
 
 [<img align="left" height="94px" width="94px" alt="Learn Google Spreadsheets channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
 
@@ -892,7 +899,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：Excel，Office套件\
-精选播放列表：“ Excel 2020教程”，“高级Excel教程”，“ Microsoft Visio教程”，“ Windows 10教程”.  \
+特色播放列表：“ Excel 2020教程”，“高级Excel教程”，“ Microsoft Visio教程”，“ Windows 10教程”.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Simon Sez IT channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwY3ModHFJGHTdK25cpztQz8NPG8gFllfgWJEqvwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Simonsezit)

@@ -99,7 +99,7 @@
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) -隔离的React组件开发环境以及生活指南
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) -用于创建可重复使用的React组件的开发工具
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) -对ESLint的特定掉毛规则做出反应
-- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) -JSX元素上的a11y规则的静态AST检查器
+- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
 - [@axe-core/react](https://github.com/dequelabs/axe-core-npm) -React应用程序的可访问性审核
 - [codesandbox](https://codesandbox.io/s/new) -使用集成的React DevTools进行快速React开发的在线IDE.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) -小型JavaScript编译器，可直接在网页上快速将JSX转换为JS
@@ -110,7 +110,7 @@
 
 - [next.js](https://github.com/vercel/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
-- [react-admin](https://github.com/marmelab/react-admin) - Frontend Framework for building B2B applications on top of REST/GraphQL APIs
+- [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
 - [remix](https://remix.run/) -最后，React Router的创建者提供了一个杀手React的React框架
 - [aleph.js](https://github.com/alephjs/aleph.js) -Deno中的React框架
 
@@ -148,7 +148,7 @@
 - [rsuite](https://github.com/rsuite/rsuite) -一套React组件
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -Atlassian的官方UI库，根据Atlassian设计指南构建.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
-- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，包含50多个具有材质，自举和自定义主题的组件.
+- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，其中包含50多个具有材质，引导程序和自定义主题的组件.
 - [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
 - [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
 - [rbx](https://github.com/dfee/rbx) -React的综合Bulma UI框架
@@ -159,12 +159,13 @@
 - [elastic ui framework](https://github.com/elastic/eui) -Elastic UI Framework是React UI组件的集合，用于在Elastic上快速构建用户界面.
 - [bugbag react ui kit](https://bumbag.style/) -Bumbag是一个友好的React UI套件，适用于MVP或大规模应用.
 - [ring-ui](https://github.com/JetBrains/ring-ui) -JetBrains Web UI组件
+- [ChatUI](https://github.com/alibaba/ChatUI) -会话UI的UI设计语言和React库
 
 ##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-select](https://github.com/JedWatson/react-select) -React的选择组件
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) -使用React轻松美观地拖放列表
 - [react-dnd](https://github.com/react-dnd/react-dnd) -拖放进行React
 - [react-grid-layout](https://github.com/strml/react-grid-layout) -具有可响应的断点的可拖动和可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
@@ -178,11 +179,11 @@
 - [react-spaces](https://github.com/aeagle/react-spaces) -可调整大小的可嵌套，锚定，可滚动组件
 - [react-dates](https://github.com/airbnb/react-dates) -适用于网络的易于国际化，移动友好的日期选择器库
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
 - [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
-- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - A fully accessible React modal
+- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
 - [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
 - [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型按键包装
 - [react-joyride](https://github.com/gilbarbara/react-joyride) -为您的应用程序创建导览
@@ -346,7 +347,7 @@
 ##### Forms
 
 - [React Forms](http://facebook.github.io/react/docs/forms.html)
-- [react-formal](https://github.com/jquense/react-formal) -更好的React表单验证和价值管理，提供最少的接线
+- [react-formal](https://github.com/jquense/react-formal) - Better form validation and value management for React, Provides minimal wiring
 - [react-forms](https://github.com/prometheusresearch/react-forms) -React的表单库
 - [valuelink](https://github.com/Volicon/valuelink) -具有扩展的React链接的全功能双向数据绑定
 - [wingspan-forms](https://github.com/wingspan/wingspan-forms) -Facebook React的动态表单库
@@ -781,6 +782,6 @@
 
 ### Contribution
 
-该列表最初是关于React有趣的事情的个人收藏. 在启动React处于beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情. 请不要将此列表用作广告板或公开推广实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
+该列表最初是关于React有趣的事情的个人收藏. 在React刚开始处于Beta阶段时，有一些特殊的脚本可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情. 请不要将此列表用作广告板或公开推广实验的地方. 请只在这里提供完全免费的资源. 诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

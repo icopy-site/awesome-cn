@@ -57,7 +57,8 @@
 
 ### Code Quality
 
-- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) -检测错误和可疑模式的规则.
+- [Radar](https://github.com/es-joy/eslint-plugin-radar) - Rules detecting bugs and suspicious patterns (Fork of SonarJS).
+- [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs)  -检测错误和可疑模式的规则. 另请参阅当前维护的fork， [Radar](https://github.com/es-joy/eslint-plugin-radar).
 - [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) -各种很棒的ESLint规则.
 
 ### Compatiblity
@@ -85,7 +86,7 @@
 
 ### Embedded
 
-- [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - Linting for JavaScript inside of HTML `<script>` tags.
+- [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) -在HTML`中添加JavaScript <script>` tags.
 - [Markdown](https://github.com/eslint/eslint-plugin-markdown) -在Markdown内添加JavaScript脚本.
 
 ### Frameworks
@@ -162,6 +163,7 @@
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) -ESLint规则可禁用突变并在JavaScript和TypeScript中提升fp.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) -禁用JavaScript中的所有变异.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) -要求使用`new`抛出错误.
+- [no-constructor-bind](https://github.com/markalfred/eslint-plugin-no-constructor-bind) -通过报告将“ this”与“ bind”一起使用或在构造函数中设置状态来鼓励使用类属性.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -ESLint的自定义规则，用于检查对象文字中的推断方法名称.
 - [no-loops](https://github.com/buildo/eslint-plugin-no-loops) -是2019年，您仍然使用循环吗？
 - [no-restricted-syntax](https://github.com/brettz9/eslint-plugin-query) -在消息中显示查询语法的内容.
@@ -189,7 +191,8 @@
 
 ### Style
 
-- [editorconfig](https://github.com/platinumazure/eslint-plugin-editorconfig) -来自的规则 [`.editorconfig`](https://editorconfig.org/)
+- [const case](https://www.npmjs.com/package/eslint-plugin-const-case) -强制将常量原始文字大写.
+- [editorconfig](https://github.com/platinumazure/eslint-plugin-editorconfig) -来自的规则 [`.editorconfig`](https://editorconfig.org/).
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) -确保JavaScript文件的文件名一致.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) -易于自动修复的导入排序.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) -针对ESLint的开关案例特定的插入规则.
@@ -256,6 +259,8 @@
 - [eslint-watch](https://github.com/rizowski/eslint-watch) -在监视模式下运行ESLint.
 - [codacy-eslint](https://github.com/codacy/codacy-eslint) -Docker用于 [Codacy](https://www.codacy.com) 运行ESLint.
 - [esprint](https://github.com/pinterest/esprint) -跨多个线程运行ESLint.
+- [generator-eslint](https://github.com/eslint/generator-eslint) -生成ESLint
+  插件和规则 [Yeoman](http://yeoman.io/).
 
 ## Developing for ESLint
 

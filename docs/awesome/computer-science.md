@@ -383,7 +383,7 @@ CMOS技术
 这些Coursera专业化课程均以Capstone项目结束.
 根据课程的不同，您可以将Capstone用作该计算机科学课程的最终项目.
 请注意，最后使用Capstone进行专业化总是要花钱.
-因此，如果您不想花钱或将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
+因此，如果您不想花钱或不想将Capstone用作决赛，则可以通过手动搜索来免费获得“专业化”课程，但并非所有人都允许这样做.
 
 课程持续时间| 努力先决条件
 :-- | :--: | :--: | :--:
@@ -395,7 +395,7 @@ CMOS技术
 [Fullstack Open](https://fullstackopen.com/en)  |  12周| 每周6个小时| 程式设计
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science)  |  43周每周1-6个小时| 没有
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala)  |  29周| 每周4-5个小时| 一年编程经验
-[Game Design and Development (Specialization)](https://www.coursera.org/specializations/game-development)  |  6个月每周5小时| 编程，交互设计
+[Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development)  |  6个月每周5小时| 编程，交互设计
 
 ## Final project
 
@@ -480,7 +480,7 @@ or
 -“额外资源”：带有该标签的卡片代表该学生添加的课程.
 -“正在做”：带有该标签的卡片代表该学生当前正在做的课程.
 -“完成”：带有该标签的卡片代表该学生完成的课程.
-这些卡片还应具有至少一个项目/文章的链接，该项目/文章应使用在该课程中获得的知识构建.
+这些卡片还应具有至少一个项目/文章的链接，该项目/文章应使用在该课程中获得的知识来构建.
 -`Section`：带有该标签的卡片代表我们课程中的部分.
 带有“ Section”标签的卡片仅用于组织“完成”列.
 您应将*课程卡*放在其各自的*部门卡*下方.
