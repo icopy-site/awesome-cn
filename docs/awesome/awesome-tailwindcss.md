@@ -93,6 +93,7 @@
 -  [CSS Logical Properties](https://github.com/omarkhatibco/tailwind-css-logical-properties) -生成CSS逻辑属性的实用程序.
 -  [Tooltip Arrows After](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) -为带有可配置边框和背景的工具提示箭头添加CSS实用程序.
 -  [Bidirectional](https://github.com/20lives/tailwindcss-rtl) -添加了用于创建多语言双向布局的实用程序.
+-  [Bidirectional](https://github.com/yassinebridi/tailwind-direction) -将核心实用程序替换为双向兼容.
 -  [Background SVG](https://github.com/AndersNielsen85/tailwindcss-bg-svg) -将SVG注入具有多种颜色的背景图像.
 -  [Brand Colors](https://github.com/praveenjuge/tailwindcss-brand-colors) -为背景，边框和文字添加各种品牌颜色.
 -  [Bootstrap Grid](https://github.com/karolis-sh/tailwind-bootstrap-grid) -生成Bootstrap的样式flexbox网格系统.
@@ -153,7 +154,7 @@
 -  [Grayscale Design](https://grayscale.design/) -基于亮度的调色板生成器.
 -  [Hypercolor](https://hypercolor.dev/) -带有方向选项的预配置Tailwind CSS渐变集合.
 -  [Palettolithic](https://palettolithic.com) -根据一种颜色生成和声调色板.
--  [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) - Figma library with Tailwind CSS v2 colors.
+-  [Tailwind CSS v2 colors](https://www.figma.com/community/file/905719775911766776) -具有Tailwind CSS v2颜色的Figma库.
 -  [Colorkraken](https://github.com/Bouhoum/colorkraken) -Tailwind CSS的颜色阴影生成器.
 -  [babel-plugin-tailwind-dark](https://github.com/wowlusitong/babel-plugin-tailwind-dark) -一个Babel插件，可在使用Babel编译代码时添加自定义深色类.
 -  [GPT-3 Tailwind CSS code generator](http://gpt-tailwind.com/) -由OpenAI GPT-3驱动的Tailwind CSS代码生成器.
@@ -248,8 +249,8 @@
 -  [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的CRA样板.
 -  [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) -支持Tailwind CSS和TypeScript的CRA模板.
 -  [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) -使用Parcel的Tailwind CSS样板.
--  [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) -使用Tailwind CSS的Jekyll启动器.
--  [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) -使用Tailwind CSS的Jekyll启动器.
+-  [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
+-  [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
 -  [Gulp Starter](https://github.com/simonswiss/tailwind-starter) -使用Tailwind CSS的Gulp启动器.
 -  [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) -使用Tailwind CSS的盖茨比初学者.
 -  [Gatsby Starter Simplicity](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) -使用Tailwind CSS的盖茨比初学者.

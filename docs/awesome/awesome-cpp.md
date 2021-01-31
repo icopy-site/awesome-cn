@@ -61,6 +61,7 @@
 * [PyTorch](https://github.com/pytorch/pytorch) -具有强大GPU加速功能的Python中的张量和动态神经网络. [website](https://pytorch.org)
 * [Recast/Detour](https://github.com/recastnavigation/recastnavigation)  -（3D）导航网格生成器和探路器，主要用于游戏.  [zlib]
 * [TensorFlow](https://github.com/tensorflow/tensorflow) -使用数据流图进行数值计算的开源软件库[Apache]
+* [oneDNN](https://github.com/oneapi-src/oneDNN)  -深度学习应用程序的开源跨平台性能库.  [Apache] [website](https://01.org/onednn)
 * [CNTK](https://github.com/Microsoft/CNTK)  -Microsoft认知工具包（CNTK），这是一个开源的深度学习工具包.  [促进]
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)  -C ++ 11中仅标头，无依赖的深度学习框架.  [BSD]
 * [Veles](https://github.com/Samsung/veles)  -用于快速深度学习应用程序开发的分布式平台.  [Apache]
@@ -126,7 +127,7 @@
 * [LAMMPS](https://github.com/lammps/lammps)  -侧重于材料建模的经典分子动力学代码. 它是大规模原子/分子大规模并行模拟器的首字母缩写.  [GPL] [website](https://lammps.sandia.gov/)
 
 ## CLI
-*控制台/终端用户界面，命令行界面*
+*Console/Terminal User Interface, Command Line Interface*
 
  * [Argh!](https://github.com/adishavit/argh)  -极简，无挫折，仅标头的参数处理程序.  [BSD]
  * [Taywee/args](https://github.com/taywee/args)  -一个简单的仅标头C ++参数解析器库.  [麻省理工学院]
@@ -194,7 +195,7 @@
 * [HPX](https://github.com/STEllAR-GROUP/hpx/)  -适用于任何规模的并行和分布式应用程序的通用C ++运行时系统.  [促进]
 * [Intel Games Task Scheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler)  -专为游戏开发人员需求而设计的任务计划框架.  [麻省理工学院]
 * [Intel Parallel STL](https://github.com/intel/parallelstl)  -C ++ 11及更高版本的C ++ 17 STL的英特尔®实现.  [Apache2]
-* [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
+* [Intel TBB](https://www.threadingbuildingblocks.org/)  -英特尔®线程构建基块.  [Apache2]
 * [junction](https://github.com/preshing/junction)  -C ++中的并发数据结构库.  [BSD]
 * [Kokkos](https://github.com/kokkos/kokkos)  -用于并行执行和内存抽象的性能可移植编程模型.  [BSD]
 * [libcds](https://github.com/khizmax/libcds)  -并发数据结构的C ++库.  [BSD]
@@ -269,7 +270,7 @@
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)  -用于检测文件中SHA-1冲突的库和命令行工具.  [麻省理工学院]
 * [Tink](https://github.com/google/tink)  -一种多语言，跨平台的库，提供安全，易于正确使用且难以滥用的加密API.  [Apache-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) -C型小型便携式AES128 / 192/256.[PublicDomain]
-* [Themis](https://github.com/cossacklabs/themis)  -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有前向保密性的安全套接字.  [Apache2]
+* [Themis](https://github.com/cossacklabs/themis)  -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有向前保密性的安全套接字.  [Apache2]
 
 ## CSV
 *用于解析逗号分隔值（CSV）文件的库*
@@ -284,7 +285,7 @@
 * [hiberlite](https://github.com/paulftw/hiberlite)  -sqlite3的C ++对象关系映射.  [BSD]
 * [Hiredis](https://github.com/redis/hiredis)  -用于Redis数据库的简约C客户端库.  [BSD]
 * [LevelDB](https://github.com/google/leveldb)  -由Google编写的快速键值存储库，提供了从字符串键到字符串值的有序映射.  [BSD]
-* [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics. [OpenLDAP]
+* [LMDB](http://symas.com/mdb/)  -具有完整ACID语义的非常快速的嵌入式键/值存储.  [OpenLDAP]
 * [LMDB++](https://github.com/bendiken/lmdbxx)  -LMDB嵌入式数据库库的C ++ 11包装器.  [公共区域]
 * [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) -用于C的MongoDB客户端库.[Apache2]
 * [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver)  -MongoDB的C ++驱动程序.  [Apache2]
@@ -497,7 +498,7 @@
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons)  -用于JSON和类似JSON的二进制格式的C ++仅标头库，带有JSONPointer，JSONPatch，JSONPath和JMESPath.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间很低的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间非常小的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库. 支持C ++ 11. 无依赖关系，快速且对开发人员友好.  [Apache2]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
@@ -545,6 +546,7 @@
 * [Minerva](https://github.com/dmlc/minerva)  -快速，灵活的深度学习系统.  [Apache2]
 * [mlpack](https://github.com/mlpack/mlpack)  -可扩展的c ++机器学习库.  [LGPLv3] [website](http://www.mlpack.org/)
 * [OpenCV](https://github.com/Itseez/opencv)  ：zap：-开源计算机视觉库.  [BSD] [website](http://opencv.org/)
+* [oneDAL](https://github.com/oneapi-src/oneDAL)  -强大的机器学习库，可帮助加速大数据分析.  [Apache]
 * [Recommender](https://github.com/GHamrouni/Recommender)  -使用协作过滤（CF）的产品推荐/建议的C库.  [BSD]
 * [RNNLIB](https://github.com/szcom/rnnlib)  -RNNLIB是用于序列学习问题的循环神经网络库.  [GPLv3]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun)  -将军机器学习工具箱.  [GPLv3]
@@ -617,7 +619,7 @@
 * [Boost.Beast](https://github.com/boostorg/beast)  ：zap：-在C ++ 11中基于Boost.Asio构建的HTTP和WebSocket.  [BSL-1.0] [website](https://www.boost.org/libs/beast)
 * [Breep](https://github.com/Organic-Code/Breep)  -基于事件的高级C ++ 14对等库.  [EUPL-1.1（OSI批准）]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)  -C ++ REST SDK（以前称为Casablanca）.  [Apache2]
-* [Restbed](https://github.com/corvusoft/restbed)  -C ++ 11异步RESTful框架.  [AGPL]
+* [Restbed](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. [AGPL]
 * [Restinio](https://github.com/Stiffstream/restinio)  -仅标头的C ++ 14库，为您提供嵌入式HTTP / Websocket服务器.  [BSD]
 * [c-ares](https://github.com/c-ares/c-ares)  -用于异步DNS请求的AC库.  [麻省理工学院]
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)  -单个文件C ++ 11-only-Header HTTP / HTTPS服务器库.  [麻省理工学院]
@@ -758,7 +760,7 @@
 * [SIP](https://riverbankcomputing.com/software/sip/intro)  -适用于Python v2和v3的C或C ++绑定生成器.  [GPL]
 * [sol2](https://github.com/ThePhD/sol2)  -具有高级功能和一流性能的C ++ &lt;-&gt; Lua API包装器.  [麻省理工学院]
 * [SWIG](https://github.com/swig/swig)  -包装器/接口生成器，可用于将c ++代码链接到Javascript，Perl，PHP，Python，Tcl和Ruby.  [GPL /输出未获得许可] [website](http://www.swig.org/)
-* [V7](https://github.com/cesanta/v7)  -嵌入式JavaScript引擎.  [GPL2]
+* [V7](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](https://v8.dev)  -Google提供的快速JavaScript引擎，可以嵌入到任何C ++应用程序中.  [BSD]
 * [ChakraCore](https://github.com/Microsoft/ChakraCore)  -Microsoft的JavaScript引擎，可以嵌入到nodejs中.  [麻省理工学院]
 
@@ -811,7 +813,7 @@
 * [Crow](https://github.com/ipkn/crow)  -Crow是C ++微型网络框架（受Python Flask启发）.  [BSD]
 * [Cutelyst](https://github.com/cutelyst/cutelyst)  -使用Catalyst（Perl）框架的简单方法，在Qt之上构建的C ++ Web框架.  [LGPLv2.1 +] [website](https://cutelyst.org/)
 * [Drogon](https://github.com/an-tao/drogon)  -基于C ++ 14/17的高性能HTTP应用程序框架.  [麻省理工学院]
-* [facil.io](https://github.com/boazsegev/facil.io) - Evented, high performance C web framework supporting HTTP, WebSockets, SSE and more. [MIT] [website](http://facil.io)
+* [facil.io](https://github.com/boazsegev/facil.io)  -事件丰富的高性能C Web框架，支持HTTP，WebSocket，SSE等.  [麻省理工学院] [website](http://facil.io)
 * [Kore](https://kore.io/) -用C开发的用于Web应用程序的超快速和灵活的Web服务器/框架.[ISC]
 * [libOnion](http://www.coralbits.com/libonion/)  -轻量级的库，可帮助您使用C编程语言创建Web服务器.  [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan)  -实验性，可扩展的高性能HTTP服务器.  [GPL2]

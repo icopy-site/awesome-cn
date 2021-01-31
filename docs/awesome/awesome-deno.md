@@ -6,7 +6,7 @@
 
 Deno是使用V8并内置于Rust的JavaScript和TypeScript的简单，现代且安全的运行时.
 
-This list is a collection of the best Deno modules and resources.
+该列表是最佳Deno模块和资源的集合.
 
 
 
@@ -77,6 +77,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) -用于管理Deno本机插件依赖性的库.
 - [deno-pretty-assert](https://github.com/bokuweb/deno-pretty-assert) -五颜六色的assertEqual等于deno.
 - [deno-prettystring](https://github.com/OnikurYH/deno-prettystring) -格式化，修剪和删除字符串中字符之间的多余空格.
+- [deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) -提供高级API的库，可通过DevTools协议控制Chromium或Chrome.
 - [deno_random_interval](https://github.com/zekth/deno_random_interval) -帮助程序生成随机间隔.
 - [deno-redis](https://github.com/keroxp/deno-redis) -Redis客户端的实验实现.
 - [deno-slugify](https://github.com/jcardama/deno_slugify) -deno的字符串节流器.
@@ -134,7 +135,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [qrcode](https://github.com/denorg/qrcode) -用于Deno的QR码图像生成器.
 - [qs](https://github.com/denolib/qs) -具有嵌套支持的查询字符串解析器.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) -在Deno中递归读取目录.
-- [rhum](https://github.com/drashland/rhum) -用于Deno的轻量级测试框架.
+- [rhum](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
 - [router](https://github.com/zhmushan/router) -高性能基本路由器可在任何地方使用.
 - [rubico](https://github.com/richytong/rubico)  -[a]同步功能组成； 它只是工作.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) -从移植的SAX样式的XML解析器 [sax-js](https://github.com/isaacs/sax-js).

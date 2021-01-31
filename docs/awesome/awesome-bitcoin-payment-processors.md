@@ -47,12 +47,12 @@
  | 处理器| 费用| 闪电| 直接到您的钱包| 转换为菲亚特| 要求|
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
 | [Confirmo](https://confirmo.net/)  |  0.8％| 没有没有是的有关企业/网站的信息. 可能需要某些文件.  |
-| [CoinGate](https://coingate.com/accept-bitcoin)  |  1％| 是的没有是的需要 [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq) ，正式翻译成英文.  |
-| [CoinPayments](https://www.coinpayments.net/)  |  0.5％| 是的没有是的提款可能需要多种形式的身份证明，并且需要结清任何未偿金额.  |
-| [GloBee](https://globee.com/)  |  1％或（$ 30-$ 300）/ mo | 是的没有通过 [Luno](https://www.luno.com) 和 [Uphold](https://uphold.com/)  | 有关企业/网站的信息. 可能需要某些文件.  |
-| [OpenNode](https://www.opennode.co/)  |  1％| 是的没有是的可能需要验证身份. 也可能需要核实有关已收款项的详细信息或资金来源.  |
+| [CoinGate](https://coingate.com/accept-bitcoin)  |  1％（商家）+一些 [variable service fee](https://support.coingate.com/en/109/why-does-coingate-charge-service-fee)  （客户）| 是的没有是的需要 [a lot of information and business documents](https://blog.coingate.com/2019/05/verify-merchant-account-faq) ，正式翻译成英文.  |
+| [CoinPayments](https://www.coinpayments.net/)  |  0.5％| 是的没有没有提款可能需要多种形式的身份证明，并且需要结清任何未偿金额.  |
+| [GloBee](https://globee.com/)  |  1％（最低发票$ 10）| 是的没有通过 [Luno](https://www.luno.com) 和 [Uphold](https://uphold.com/)  | 有关企业/网站的信息. 可能需要某些文件.  |
+| [OpenNode](https://www.opennode.co/)  |  1％| 是的没有是的需要 [KYC/KYB documents](https://help.opennode.com/en/articles/3654899-kyc-and-kyb-requirements) |
 | [Strike](https://strike.acinq.co/)  |  1％| 仅| 没有没有对于公司，是公司名称和实际地址.  |
-| [Coinremitter](https://coinremitter.com/)  |  0.23％| 没有没有没有没有
+| [Coinremitter](https://coinremitter.com/)  |  0.23％+ 0.0001 | 没有没有没有没有
 | [Utrust](https://utrust.com/)  |  1％| 没有没有是的需要某些文件.  |
 | [NOWPayments](https://nowpayments.io/)  |  ≤0.5％| 没有没有没有 KYC / AML程序适用于某些客户，钱包地址和选定资产.  |
 

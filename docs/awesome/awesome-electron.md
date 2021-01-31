@@ -8,7 +8,7 @@
 
  Electron是一个开放源代码框架，用于使用Web技术创建桌面应用程序. 它结合了Chromium渲染引擎和Node.js运行时.
 
-**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.**
+**您现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.**
 
 <br>
 
@@ -21,11 +21,16 @@
 				<a href="https://github.com/sponsors/sindresorhus">我的开源工作得到了社区的支持</a>
 			</sup>
 		</p>
-		<sup>特别感谢：</sup>
+		<sup>Special thanks to:</sup>
 		<br>
 		<br>
 		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="200"/>
+			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="180"/>
+		</a>
+		<br>
+		<br>
+		<a href="https://retool.com/?utm_campaign=sindresorhus">
+			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="230"/>
 		</a>
 	</p>
 </div>
@@ -212,7 +217,7 @@
 - [MockingBot](https://mockingbot.com) -用于设计应用程序的原型工具.
 - [Caret](http://caret.io) -Markdown编辑器.
 - [Wantedly Chat](https://www.wantedly.com/chat)  -业务团队聊天.  *（日本）*
-- [Remember](https://rememberapp.co.kr) - Business card management. *(Korean)*
+- [Remember](https://rememberapp.co.kr)  -名片管理.  *（韩文）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) -官方的MongoDB应用程序.
 - [Freeter](https://freeter.io) -自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) -官方WhatsApp应用.
@@ -361,7 +366,7 @@
 - [window](https://github.com/jprichardson/electron-window) -创建和管理窗口.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) -使用React构建的macOS和Windows用户界面工具包.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) -输入元素的上下文菜单.
-- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -像Chrome一样的标签页.
+- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -类似于Chrome的标签页.
 - [titlebar](https://github.com/kapetan/titlebar) -模拟macOS窗口标题栏.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) -使用Photon和Etch构建和管理UI组件.
 - [Xel](https://xel-toolkit.org) -用于构建类似本机应用程序的小部件工具包.

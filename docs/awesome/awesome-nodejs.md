@@ -17,6 +17,11 @@
 		<a href="https://standardresume.co/tech">
 			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
 		</a>
+		<br>
+		<br>
+		<a href="https://retool.com/?utm_campaign=sindresorhus">
+			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
+		</a>
 	</p>
 	<br>
 	<br>
@@ -39,7 +44,7 @@
 	<br>
 </div>
 
-**你现在可以 [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) 就在此仓库中.**
+**您现在可以 [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) 就在此仓库中.**
 
 
 
@@ -68,7 +73,7 @@
 - [seedshot](https://github.com/twobucks/seedshot) -从浏览器共享临时P2P屏幕截图.
 - [js-git](https://github.com/creationix/js-git) -Git的JavaScript实现.
 - [skale](https://github.com/skale-me/skale-engine) -高性能分布式数据处理引擎.
-- [xlsx](https://github.com/sheetjs/js-xlsx) -纯JS Excel电子表格阅读器和编写器.
+- [xlsx](https://github.com/sheetjs/js-xlsx) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) -Git的纯JavaScript实现.
 
 ### Command-line apps
@@ -88,9 +93,9 @@
 - [is-online](https://github.com/sindresorhus/is-online) -检查互联网连接是否正常.
 - [public-ip](https://github.com/sindresorhus/public-ip) -获取您的公共IP地址.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) -复制并粘贴到终端上.
-- [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+- [XO](https://github.com/xojs/xo) -使用JavaScript幸福样式强制执行严格的代码样式.
 - [Standard](https://github.com/feross/standard) -JavaScript标准样式-一种样式来统治所有样式.
-- [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
+- [ESLint](https://github.com/eslint/eslint) -用于JavaScript的可插入的linting实用程序.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) -获取GitHub用户的当前本地时间.
 - [David](https://github.com/alanshaw/david) -告诉您软件包npm依赖项何时过时.
 - [http-server](https://github.com/indexzero/http-server) -简单的零配置命令行HTTP服务器.
@@ -273,7 +278,7 @@
 
 - [Hapi](https://github.com/hapijs/hapi) -用于构建应用程序和服务的框架.
 - [Koa](https://github.com/koajs/koa) -由Express背后的团队设计的框架，旨在为Web应用程序和API提供更小，更富表现力和更强大的基础.
-- [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+- [Express](https://github.com/expressjs/express) -Web应用程序框架，为构建单页和多页以及混合Web应用程序提供了一组强大的功能.
 - [Feathers](https://github.com/feathersjs/feathers) -本着Express精神构建的微服务框架.
 - [LoopBack](https://github.com/strongloop/loopback) -用于创建REST API并轻松连接到后端数据源的强大框架.
 - [Meteor](https://github.com/meteor/meteor)  -超简单，无处不在的数据库，在线数据，纯Javascript Web框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
@@ -310,7 +315,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) -递归删除“ rm -rf”之类的文件.
 - [make-dir](https://github.com/sindresorhus/make-dir) -递归创建目录，例如`mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) -直接替换`fs`模块，进行了各种改进.
-- [chokidar](https://github.com/paulmillr/chokidar) -文件系统监视程序，用于稳定来自fs.watch和fs.watchFile的事件，以及在macOS上使用本机fsevents的事件.
+- [chokidar](https://github.com/paulmillr/chokidar) -稳定来自fs.watch和fs.watchFile的事件以及在macOS上使用本机fsevents的文件系统监视程序.
 - [find-up](https://github.com/sindresorhus/find-up) -通过遍历父目录查找文件.
 - [proper-lockfile](https://github.com/IndigoUnited/node-proper-lockfile) -进程间和机器间锁文件实用程序.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) -读取并解析JSON文件.
@@ -351,7 +356,7 @@
 
 ### Streams
 
-- [through2](https://github.com/rvagg/through2) -围绕streams2的微小包装器.
+- [through2](https://github.com/rvagg/through2) -围绕streams2的微小包装器进行转换以避免显式的子类化噪声.
 - [from2](https://github.com/hughsk/from2) -ReadableStream的便利包装，灵感来自`through2`.
 - [get-stream](https://github.com/sindresorhus/get-stream) -获取流作为字符串或缓冲区.
 - [into-stream](https://github.com/sindresorhus/into-stream) -将缓冲区/字符串/数组/对象转换为流.
@@ -485,7 +490,7 @@
 ### Humanize
 
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) -将字节转换为人类可读的字符串：1337→1.34 kB.
-- [pretty-ms](https://github.com/sindresorhus/pretty-ms) -将毫秒转换为人类可读的字符串：`1337000000`→`15d 11h 23m 20s`.
+- [pretty-ms](https://github.com/sindresorhus/pretty-ms) -将毫秒转换为人类可读的字符串：“ 1337000000”→“ 15d 11h 23m 20s”.
 - [ms](https://github.com/rauchg/ms.js) -微小的毫秒转换工具.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) -错误更少.
 - [read-art](https://github.com/Tjatse/node-readability) -从任何页面提取可读内容.
@@ -515,7 +520,7 @@
 	- [LevelUP](https://github.com/Level/levelup) -LevelDB.
 	- [MySQL](https://github.com/mysqljs/mysql) -MySQL客户端.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) -CouchDB客户端.
-	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) -Aerospike客户.
+	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) -Couchbase客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -MongoDB驱动程序.
 -ODM / ORM
@@ -556,7 +561,7 @@
 - [Sinon.JS](https://github.com/sinonjs/sinon) -测试间谍，存根和模拟.
 - [navit](https://github.com/nodeca/navit) -PhantomJS / SlimerJS包装器可简化浏览器测试脚本.
 - [Nock](https://github.com/pgte/nock) -HTTP模拟和期望.
-- [intern](https://github.com/theintern/intern) -代码测试堆栈.
+- [intern](https://github.com/theintern/intern) - Code testing stack.
 - [toxy](https://github.com/h2non/toxy) -可入侵的HTTP代理，可模拟故障情况和网络状况.
 - [hook-std](https://github.com/sindresorhus/hook-std) -钩并修改stdout / stderr.
 - [testen](https://github.com/egoist/testen) -使用NVM在本地运行针对多个版本的Node.js的测试.
@@ -634,7 +639,7 @@
 
 ### Natural language processing
 
-- [retext](https://github.com/wooorm/retext) -可扩展的自然语言系统.
+- [retext](https://github.com/wooorm/retext) - An extensible natural language system.
 - [franc](https://github.com/wooorm/franc) -检测文字的语言.
 - [leven](https://github.com/sindresorhus/leven) -使用Levenshtein距离算法测量两个字符串之间的差异.
 - [natural](https://github.com/NaturalNode/natural) -自然语言设施.
@@ -671,7 +676,7 @@
 - [Charge](https://github.com/brandonweiss/charge) -使用JSX和MDX的自带零配置静态站点生成器.
 
 
-- [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
+- [KeystoneJS](https://github.com/keystonejs/keystone) -建立在Express和MongoDB上的CMS和Web应用程序平台.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) -基于Express和MongoDB的内容管理系统，重点在于直观的前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) -内容管理框架（headless-CMS），用于构建功能强大的API.
 - [Tipe](https://github.com/tipeio/tipe) -来自架构文件的具有GraphQL和REST API的开发人员优先的内容管理系统.
@@ -696,7 +701,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) -获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) -获取超级恶名.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) -得到一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄·͈·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) --`₍˄·͈·̑̑ෆ⃛（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”.
 - [nerds](https://github.com/SkyHacks/nerds) -从诸如哈利·波特，星球大战和神奇宝贝等讨厌的话题中获取数据.
 
 ### Serialization
@@ -753,7 +758,7 @@
 
 ### Tutorials
 
-- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) -Node.js最佳实践中排名最高的内容的摘要和整理，提供多种语言.
+- [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
 - [Nodeschool](https://github.com/nodeschool) -通过互动课程学习Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) -Node.js简介.
 - [stream-handbook](https://github.com/substack/stream-handbook) -如何使用流编写Node.js程序.
@@ -761,7 +766,7 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/实时流，可帮助您使用一些简单的库和核心Node.js模块来构建和部署真正的实时Web应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用少数简单的库和核心的Node.js模块来构建和部署真实的实时Web应用程序.
 
 ### Discovery
 
@@ -792,7 +797,7 @@
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [Nodetuts](http://nodetuts.com) -一系列讲座，包括TCP和HTTP API服务器，异步编程等.
-- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
+- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) -谈论V8垃圾收集器.
 - [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) -Node.js的创建者关于其某些局限性的深刻见解.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) -有关如何使用Node.js制作REST API的视频课程.
 
