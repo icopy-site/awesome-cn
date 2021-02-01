@@ -149,7 +149,7 @@
 -  [Tailwindow's Color Shades](https://color.tailwindow.com) -Tailwind CSS的颜色阴影生成器.
 -  [Tailwind Colors](https://tailwind-colors.meidev.co) -Tailwind CSS的颜色配置生成器.
 -  [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) -Tailwind CSS的颜色浏览器.
--  [TailwindInk](https://tailwind.ink/) -AI调色板生成器，受Tailwind CSS调色板训练.
+-  [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
 -  [Gradient Designer](https://gradient-designer.csspost.com/) -为Tailwind 2.0+生成渐变.
 -  [Grayscale Design](https://grayscale.design/) -基于亮度的调色板生成器.
 -  [Hypercolor](https://hypercolor.dev/) -带有方向选项的预配置Tailwind CSS渐变集合.
@@ -204,7 +204,7 @@
 **传奇**：官方资源·库·组件·模板
 
 -  [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
--  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
+- 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的，对开发人员友好的付费模板.
 -  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值模板，可轻松自定义模板.
@@ -226,7 +226,7 @@
 -  [Gust UI](https://www.gustui.com/) -用于React和HTML中Web应用程序的流畅Tailwind CSS组件.
 -  [Windstrap](https://windstrap.netlify.app) -带Bootstrap JS的Tailwind CSS.
 -  [WickedBlocks](https://blocks.wickedtemplates.com/) -收集了超过120个使用Tailwind CSS构建的布局块和组件.
--  [Daisy UI](https://github.com/saadeghi/daisyui) -Tailwind CSS的UI组件.  
+-  [Daisy UI](https://github.com/saadeghi/daisyui) -Tailwind CSS的UI组件.
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) -多主题，完全可访问的仪表板模板.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -带有Tailwind CSS的管理面板模板.
 -  [Landing Gradients](https://landing-gradients.netlify.app/) -使用渐变（1.7+）的目标网页模板.
@@ -249,8 +249,8 @@
 -  [Create React App with EmotionJS](https://github.com/muhajirframe/react-tailwind-emotion-starter) -使用Tailwind CSS和Emotion JS的CRA样板.
 -  [Create React App with TypeScript](https://github.com/dance2die/cra-template-tailwindcss-typescript) -支持Tailwind CSS和TypeScript的CRA模板.
 -  [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate) -使用Parcel的Tailwind CSS样板.
--  [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) - Jekyll starter using Tailwind CSS.
--  [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) - Jekyll starter using Tailwind CSS.
+-  [Jekyll Starter](https://github.com/taylorbryant/tailwind-jekyll) -使用Tailwind CSS的Jekyll启动器.
+-  [Jekyll Starter](https://github.com/mhanberg/jekyll-tailwind-starter) -使用Tailwind CSS的Jekyll启动器.
 -  [Gulp Starter](https://github.com/simonswiss/tailwind-starter) -使用Tailwind CSS的Gulp启动器.
 -  [Gatsby Starter](https://github.com/taylorbryant/gatsby-starter-tailwind) -使用Tailwind CSS的盖茨比初学者.
 -  [Gatsby Starter Simplicity](https://github.com/PlanFlowDev/Simplicity-Itself-Gatsby-Tailwind-Starter-Theme) -使用Tailwind CSS的盖茨比初学者.
@@ -314,7 +314,7 @@
 -  [Let's Build: Movie Production Landing Page](https://web-crunch.com/tailwind-css-movie-production-landing-page) -使用Tailwind CSS构建电影制作登录页面.
 -  [Lets Build: Responsive Navbar](https://web-crunch.com/lets-build-tailwind-css-responsive-navbar) -使用Tailwind CSS构建响应式导航栏.
 -  [Let's Build: Dribbble Shot](https://web-crunch.com/lets-build-tailwind-css-dribbble-shot) -用Tailwind CSS拍摄的运球.
--  [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) - Building a Tweet component with Tailwind CSS.
+-  [Let's Build: Tweet component](https://web-crunch.com/lets-build-tailwind-css-tweet) -使用Tailwind CSS构建Tweet组件.
 -  [Modal Dialog](https://codeburst.io/creating-a-modal-dialog-with-tailwind-css-42722c9aea4f) -使用Tailwind CSS创建模式对话框.
 -  [Building real-world UIs using Tailwind CSS](https://github.com/asvny/building-realworld-user-interfaces-using-tailwind) -构建Shopify，Spotify，Netlify和Atlassian的UI.
 -  [Rebuilding FreshBooks](http://joey.io/rebuilding-freshbooks-with-tailwind-css) -使用Tailwind CSS重建FreshBooks.
@@ -333,17 +333,6 @@
 -  [Rebuilding Spotify](https://youtu.be/SLGb2RLie9w)
 -  [Rebuilding Discord](https://youtu.be/t54tuaoHVLo)
 -  [Rebuilding Meetup](https://youtu.be/ULe6yKJrFuI)
-
-## Apps & Websites
-
-- [Josh Manders](https://joshmanders.com/) -思想，故事和想法.
-- [Primcloud](https://primcloud.com/) -快速，轻松地部署您的应用程序.
-- [Jack McDade](https://jackmcdade.com/) -厌倦了无聊的网站.
-- [Dance of Dawn](https://www.danceofdawn.com/) -被您的出生唤醒.
-- [Statamic](https://statamic.com/) -建立美观，易于管理的网站.
-- [Sitesauce](https://sitesauce.app/) -一键点击即可获得您网站的静态版本.
-- [Hello Sun](https://hellosun.brussels/) -帮助布鲁塞尔实现太阳能.
-- [Nuxt](https://nuxtjs.org/) -使用NuxtJS充满信心地构建您的下一个Vue.js应用程序.
 
 <p align="center">
   <br />

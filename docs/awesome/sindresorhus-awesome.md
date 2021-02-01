@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
-	<h3><a href="https://www.producthunt.com/posts/shareful">我的macOS应用程式Shareful正在搜寻产品</a></h3>
+	<h3><a href="https://www.producthunt.com/posts/shareful">My macOS app Shareful is on Product Hunt</a></h3>
 	<br>
 	<br>
 	<br>
@@ -103,6 +103,7 @@
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) -Google Assistant开发者平台.
 - [ESP](https://github.com/agucova/awesome-esp#readme) -具有WiFi和广泛的IoT应用的低成本微控制器.
 - [Deno](https://github.com/denolib/awesome-deno#readme) -使用V8并内置于Rust的JavaScript和TypeScript的安全运行时.
+- [DOS](https://github.com/balintkissdev/awesome-dos#readme) -在1980年代和1990年代初期流行的基于x86的个人计算机的操作系统.
 
 ## Programming Languages
 
@@ -462,7 +463,7 @@
 
 ## Learn
 
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
+- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) -互动教程.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
@@ -627,7 +628,7 @@
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) -“物联网”连接协议.
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
-- [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) -Node.js CLI框架.
+- [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) -低开销，跨平台的3D图形和计算API.
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) -排版语言.
 - [Economics](https://github.com/antontarasenko/awesome-economics#readme) -经济学家的入门工具包.
@@ -709,5 +710,5 @@
 - [All Awesome Lists](https://github.com/topics/awesome) -GitHub上的所有超赞列表.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
 - [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) -使用浏览器扩展程序从Awesome数据集中发现随机页面.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) -一个简单的命令行工具，可以深入研究真棒列表.

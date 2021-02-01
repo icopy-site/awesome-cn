@@ -48,6 +48,7 @@
 - [activity-box](https://github.com/JasonEtco/activity-box) -更新固定要点，以包含GitHub用户的最新活动.
 - [productive-box](https://github.com/maxam2017/productive-box) -更新固定的要点，以包含您白天最忙碌的时间.
 - [github-stats-box](https://github.com/bokub/github-stats-box) -更新固定要点以包含您的GitHub统计信息.
+- [lang-box](https://github.com/inokawa/lang-box) -更新固定要点以包含您最近在GitHub中提交的语言
 
 ## Resources
 

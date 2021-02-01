@@ -8,7 +8,7 @@
 
 [GNOME](https://www.gnome.org/) 是Linux和Unixes的桌面环境，旨在使用户掌控一切. 它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
 
-&gt;带有！[GNOME Core] [GNOME Core]标记的项目是GNOME项目正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为经典模式的一部分维护和分发的扩展.
+&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为Classic模式一部分维护和分发的扩展.
 
 &gt;标有！[GNOME Circle] [GNOME Circle]的项目是由 [GNOME Circle](https://www.gnome.org/Circle/) 旨在展示GNOME的最佳应用程序和库的计划.
 
@@ -23,25 +23,22 @@
 - [GNOME Web](https://wiki.gnome.org/Apps/Web)  -GNOME的官方Web浏览器项目.  ！[GNOME核心] [GNOME核心]
 - [Fragments](https://gitlab.gnome.org/World/Fragments)  -BitTorrent客户端.  ！[GNOME圈子] [GNOME圈子]
 - [Newsflash](https://gitlab.com/news-flash/news_flash_gtk)  -RSS提要阅读器.  ！[GNOME圈子] [GNOME圈子]
+- [Font Downloader](https://github.com/GustavoPeredo/font-downloader)  -从Google字体获取字体.  ！[GNOME圈子] [GNOME圈子]
+- [Tangram](https://github.com/sonnyp/Tangram)  -将您的Web应用程序分组为一个应用程序.  ！[GNOME圈子] [GNOME圈子]
 - [Eolie](https://gitlab.gnome.org/World/eolie) -使用垂直标签的Web浏览器.
 - [Midori](https://www.midori-browser.org/) -轻巧快速的网络浏览器.
 - [Geary](https://wiki.gnome.org/Apps/Geary) -现代邮件客户端，最初由Yorba创建.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) -RSS / Atom提要阅读器.
 - [Cawbird](https://ibboard.co.uk/cawbird/) -Twitter客户端.
 - [Jami](https://jami.net/) -Jami的客户端，一种安全的通讯工具.
-- [GNOME Twitch](http://gnome-twitch.vinszent.com/) -观看Twitch的客户端.
 - [Haguichi](https://www.haguichi.net/) -Hamachi的图形前端.
-- [Tangram](https://github.com/sonnyp/Tangram) -将您的Web应用程序分组为一个应用程序.
 
 ### Office
 
 - [Apostrophe](https://somas.pages.gitlab.gnome.org/apostrophe/)  -无干扰的Markdown编辑器.  ！[GNOME圈子] [GNOME圈子]
 - [NFO Viewer](https://github.com/otsaloma/nfoview) -用于NFO文件的简单查看器，击败了具有预设字体和编码设置以及可单击的超链接支持的文本编辑器.
 - [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) -个人文档管理器，用于扫描的文档和PDF.
-- [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) -电子书查看器.
-- [Bookworm](https://github.com/babluboy/bookworm) -简单，专注的eBook阅读器，在GNOME中看起来不错.
 - [Foliate](https://github.com/johnfactotum/foliate) -简单现代的电子书阅读器.
-- [Showdown](https://gitlab.com/craigbarnes/showdown) -简单的降价查看器.
 - [Pdftag](https://github.com/arrufat/pdftag) -简单的PDF元数据编辑器.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) -提取，合并，旋转和重新排列PDF文档页面的简单应用程序.
 - [Marker](https://github.com/fabiocolacio/Marker) -带有集成预览器的Markdown编辑器.
@@ -54,9 +51,16 @@
 - [Gnome Pomodoro](http://gnomepomodoro.org/) -简单的番茄计时器.
 - [Timetrack](https://gitlab.gnome.org/danigm/timetrack) -时间追踪器.
 
+### Well Being
+
+- [Blanket](https://flathub.org/apps/details/com.rafaelmardojai.Blanket)  -听不同的声音.  ！[GNOME圈子] [GNOME圈子]
+- [Health](https://flathub.org/apps/details/dev.Cogitri.Health) -健康追踪.
+
 ### Multimedia
 
 - [Shortwave](https://gitlab.gnome.org/World/Shortwave)  -基于网络的广播客户端.  ！[GNOME圈子] [GNOME圈子]
+- [Cozy](https://github.com/geigi/cozy)  -有声读物播放器.  ！[GNOME圈子] [GNOME圈子]
+- [Video Trimer](https://gitlab.gnome.org/YaLTeR/video-trimmer)  -快速修剪视频.  ！[GNOME圈子] [GNOME圈子]
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) -基于Web的音乐流服务的运行时，可提供更原生的用户体验并与Linux桌面环境集成.
 - [Vocal](https://github.com/needle-and-thread/vocal) -适用于现代免费桌面的强大，美观，简单的播客客户端.
 - [Celluloid](https://github.com/celluloid-player/celluloid) -mpv的简单前端.
@@ -64,16 +68,17 @@
 - [Parlatype](http://gkarsay.github.io/parlatype/) -专门用于转录的音频播放器.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) -为PulseAudio应用程序提供限制器，压缩器，混响，均衡器和自动音量效果.
 - [Curlew](https://curlew.sourceforge.io/) -多媒体转换器.
-- [Cozy](https://github.com/geigi/cozy) -有声读物播放器.
 - [Pitivi](http://www.pitivi.org/) -美丽而强大的视频编辑器.
 - [Podcasts](https://wiki.gnome.org/Apps/Podcasts) -听您喜欢的播客.
 
 ### Graphics
 
+- [Curtail](https://flathub.org/apps/details/com.github.huluti.Curtail)  -简单实用的图像压缩器.  ！[GNOME圈子] [GNOME圈子]
+- [Drawing](https://github.com/maoschanz/drawing)  -响应式绘图应用程序.  ！[GNOME圈子] [GNOME圈子]
+- [Identity](https://gitlab.gnome.org/YaLTeR/identity)  -比较图像和视频.  ！[GNOME圈子] [GNOME圈子]
 - [Coulr](https://github.com/Huluti/Coulr) -在RGB和十六进制代码之间转换颜色.
 - [Color Picker](https://gitlab.gnome.org/World/gcolor3/) -彩色泡菜，可在X11和Wayland上使用.
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) -强大而先进的应用程序可以管理您的照片和图像.
-- [Drawing](https://github.com/maoschanz/drawing) -响应式绘图应用程序.
 
 ### Gaming
 
@@ -83,7 +88,8 @@
 ### System and Customization
 
 - [Pika Backup](https://gitlab.gnome.org/World/pika-backup)  -基于borg的简单备份.  ！[GNOME圈子] [GNOME圈子]
-- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) -用于高级GNOME3设置的图形界面.
+- [Déjà Dup Backups](https://wiki.gnome.org/Apps/DejaDup)  -简单的备份工具.  ！[GNOME圈子] [GNOME圈子]
+- [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) -用于高级GNOME设置的图形界面.
 - [Tilix](https://github.com/gnunn1/terminix/) -平铺终端模拟器.
 - [Menulibre](https://smdavis.us/projects/menulibre/) -如果您使用传统的应用程序菜单（例如Arc或Application Menu），则管理您的应用程序类别.
 - [HydraPaper](https://gitlab.com/gabmus/HydraPaper) -为每台显示器设置不同的背景.
@@ -92,23 +98,29 @@
 
 ### Utilities
 
-- [Obfuscate](https://gitlab.gnome.org/World/obfuscate/)  -审查员私人信息.  ！[GNOME圈子] [GNOME圈子]
+- [Dialect](https://flathub.org/apps/details/com.github.gi_lom.dialect)  -翻译文字.  ！[GNOME圈子] [GNOME圈子]
+- [Markets](https://flathub.org/apps/details/com.bitstower.Markets)  -股票，货币和加密货币跟踪器.  ！[GNOME圈子] [GNOME圈子]
 - [GPaste](https://github.com/Keruspe/GPaste) -剪贴板管理器（由应用程序和gnome-shell扩展组成）.
 - [Peek](https://github.com/phw/peek) -简单的屏幕录像机，可将您的录像另存为GIF.
 - [Catfish](https://launchpad.net/catfish-search) -简单的搜索应用程序.
 - [Detwinner](https://neatdecisions.com/products/detwinner-linux/) -简单快速的工具，用于删除重复的文件.
-- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) -Keepass兼容的密码管理器.
-- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) -与freedesktop机密兼容的密码管理器.
 - [Recipes](https://gitlab.gnome.org/GNOME/recipes/) -烹饪应用.
 - [RecApp](https://github.com/amikha1lov/RecApp) -用户友好的开源截屏程序.
 - [Sunflower](http://sunflower-fm.org) -小型且高度可定制的双面板文件管理器.
 
+### Security and Privacy
+
+- [Obfuscate](https://gitlab.gnome.org/World/obfuscate/)  -审查员私人信息.  ！[GNOME圈子] [GNOME圈子]
+- [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner)  -查看和清除文件中的元数据.  ！[GNOME圈子] [GNOME圈子]
+- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe)  -Keepass兼容的密码管理器.  ！[GNOME圈子] [GNOME圈子]
+- [Passbook](https://gitlab.gnome.org/gnumdk/passbook) -与freedesktop机密兼容的密码管理器.
+
 ### Development and Design
 
-- [GNOME Builder](https://wiki.gnome.org/Apps/Builder) -用于创建GNOME应用程序的官方IDE.
+- [GNOME Builder](https://wiki.gnome.org/Apps/Builder)  -用于创建GNOME应用程序的官方IDE.  ！[GNOME核心] [GNOME核心]
+- [Gaphor](https://gaphor.org)  -用于UML和SysML的简单建模工具.  ！[GNOME圈子] [GNOME圈子]
+- [Webfont Kit Generator](https://github.com/rafaelmardojai/WebfontKitGenerator)  -轻松创建@ font-face工具包.  ！[GNOME圈子] [GNOME圈子]
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) -简单的Git提交消息编辑器.
-- [Sequeler](https://github.com/Alecaddd/sequeler) -内置于Vala中的SQL Client.
-- [Gaphor](https://gaphor.org) -用于UML和SysML的简单建模工具.
 
 #### Design Tooling
 
@@ -138,7 +150,7 @@
 ### Menus
 - [Application Menu](https://extensions.gnome.org/extension/6/applications-menu/)  -基于类别的应用程序菜单.  ！[GNOME Classic] [GNOME Core]
 - [Places Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)  -提供快速访问文件夹的菜单.  ！[GNOME Classic] [GNOME Core]
-- [Arc Menu](https://gitlab.com/arcmenu-team/Arc-Menu) -类似Windows7的应用程序菜单，灵感来自Zorin OS中的菜单.
+- [Arc Menu](https://gitlab.com/arcmenu/Arc-Menu) -类似Windows7的应用程序菜单，灵感来自Zorin OS中的菜单.
 
 ### Applets
 - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) -使您可以停用GNOME锁定屏幕的Applet.
@@ -148,32 +160,19 @@
 - [Clipboard Indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) -简单的剪贴板小程序.
 - [Desk Changer](https://github.com/BigE/desk-changer/) -壁纸幻灯片小程序.
 - [Emoji Selector](https://github.com/maoschanz/emoji-selector-for-gnome) -表情符号选择器小程序.
-- [Media Player Indicator](https://github.com/JasonLG1979/gnome-shell-extensions-mediaplayer) -先进的MPRIS小程序.
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) -todo.txt的界面.
 - [Time ++](https://extensions.gnome.org/extension/1238/time/) -一个todo.txt管理器，时间跟踪器，计时器，秒表，番茄和闹钟.
 - [GSConnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) -KDE Con​​nect实施.
 - [Docker Integration](https://github.com/gpouilloux/gnome-shell-extension-docker) -用于管理Docker容器的扩展
-- [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) -传统系统.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) -Appindicator系统.
-- [Argos](https://extensions.gnome.org/extension/1176/argos/) -将可执行文件的标准输出转换为面板下拉菜单.
-- [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) -将状态菜单分为几个小程序.
-- [Public IP](https://github.com/rostegg/public-ip-gnome-extension) -显示您的公共IP地址.
-- [LAN IP Address](https://github.com/Josholith/gnome-extension-lan-ip-address) -显示您的本地IP地址.
-- [Minimize to Tray](https://github.com/oae/gnome-shell-minimize-to-tray) -最小化所有应用程序.
 - [Extensions Sync](https://github.com/oae/gnome-shell-extensions-sync) -在所有gnome安装中，同步gnome shell键盘绑定，调整设置和扩展及其配置.
 
 
 ### Windows
-- [Window Corner Preview](https://github.com/medenagan/window-corner-preview) -创建窗口并将其预览锚定到屏幕的核心.
-- [Cascade Windows](https://extensions.gnome.org/extension/1240/cascade-windows/) -快速排列窗口.
-- [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) -合并活动栏和最大化窗口的标题栏.
-- [gTile](https://github.com/vibou/vibou.gTile) -更高级的拼贴.
-- [Shellshape](http://gfxmonk.net/shellshape/) -平铺窗口扩展名.
 - [PaperWM](https://github.com/paperwm/PaperWM) -平铺可滚动窗口管理.
 
 ### Docks and Panels
 - [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) -功能齐全的基座.
-- [Workspace-to-Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) -融合了工作区和扩展坞功能的现代扩展坞.
 
 ### Audio
 - [Application Volume Mixer](https://github.com/mymindstorm/gnome-volume-mixer) -控制每个应用程序的音量输出.
@@ -205,35 +204,24 @@
 
 &gt;扩展上游主题或与之兼容的主题.
 
-- [Minwaita](https://github.com/godlyranchdressing/Minwaita)  -Adwaita的紧凑型叉子.  （GTK，壳牌）
-- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks)  -Adwaita的精简版，比minwaita更忠实，但不那么精巧.  （GTK，壳牌）
 - [Yaru](https://github.com/ubuntu/yaru)  -Ubuntu的官方社区风格.  （GTK，壳牌）
-
-#### Look-a-like Themes
-
-&gt;模仿其他操作系统样式的主题
-
-- [GNOME OSC](https://github.com/paullinuxthemer/gnome-osc-themes)  -模仿macOS外观的主题.  （GTK，壳牌）
-- [United](https://github.com/godlyranchdressing/United-GNOME/)  -受Unity8启发的主题.  （GTK，壳牌）
+- [Pop](https://github.com/pop-os/gtk-theme/)  -System76的Pop！\ _ OS官方主题.  （GTK，壳牌）
 
 #### Material
 
 - [Materia](https://github.com/nana-4/materia-theme)  -类似于材料设计的主题.  （GTK，壳牌）
-- [Adapta](https://github.com/adapta-project/adapta-gtk-theme)  -基于“材料设计准则”的自适应主题.  （GTK，壳牌）
 - [Vimix](https://github.com/vinceliuice/vimix-gtk-themes)  -平面材料设计主题.  （GTK，壳牌）
 - [Plata](https://gitlab.com/tista500/plata-theme)  -基于Material Design Refresh的Gtk主题.  （GTK，壳牌）
 
 #### Flat
 
 - [Arc](https://github.com/jnsh/arc-theme)  -具有透明元素的平面主题.  （GTK，壳牌）
-- [Pop](https://github.com/pop-os/gtk-theme/)  -System76的Pop！\ _ OS官方主题.  （GTK，壳牌）
 - [Numix](https://github.com/numixproject/numix-gtk-theme)  -流行的扁平半暗主题，带有橙色触感.  （GTK）
 - [Zukitre](https://github.com/lassekongo83/zuki-themes)  -浅灰色主题，是zuki-theme套件的一部分.  （GTK，与Zuki-Shell一起用于shell主题）
 
 #### Skeumorphic
 
 - [Greybird](https://github.com/shimmerproject/Greybird/)  -官方的Xubuntu主题.  （GTK）
-- [Vertex](https://github.com/horst3180/Vertex-theme)  -由Arc的创建者horst3180创建的金属主题.  （GTK，壳牌）
 - [Zukitwo](https://github.com/lassekongo83/zuki-themes)  -变形灰色主题，是zuki-theme套件的一部分.  （GTK与Zuki-Shell一起用于shell主题）.
 
 ### Icons
@@ -254,7 +242,6 @@
 
 #### Homogeneous Icons
 
-- [Moka](https://snwh.org/moka) -简单的方形图标主题，大致基于Tango规范.
 - [Obsidian](https://github.com/madmaxms/iconpack-obsidian/) -延续著名的法恩扎主题.
 - [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) -扁圆形的图标主题.
 - [Numix Square](https://github.com/numixproject/numix-icon-theme-square) -平面正方形图标主题.
