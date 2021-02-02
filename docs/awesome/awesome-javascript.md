@@ -15,7 +15,7 @@
 
 * [npm](https://www.npmjs.com/) -npm是JavaScript的软件包管理器.
 * [Bower](https://github.com/bower/bower) -Web的软件包管理器.
-* [component](https://github.com/componentjs/component) -客户端软件包管理，用于构建更好的Web应用程序.
+* [component](https://github.com/componentjs/component) - Client package management for building better web applications.
 * [spm](https://github.com/spmjs/spm) -全新的静态软件包管理器.
 * [jam](https://github.com/caolan/jam) -使用针对浏览器且与RequireJS兼容的存储库的软件包管理器.
 * [jspm](https://github.com/jspm/jspm-cli) -无摩擦的浏览器包管理.
@@ -150,7 +150,7 @@
 * [riot](https://github.com/riot/riot) -类似React的程式库，但体积很小.
 * [thorax](https://github.com/walmartlabs/thorax) -加强骨干.
 * [chaplin](https://github.com/chaplinjs/chaplin) -使用Backbone.js库的JavaScript应用程序体系结构.
-* [marionette](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
+* [marionette](https://github.com/marionettejs/backbone.marionette) -Backbone.js的复合应用程序库，旨在简化大规模JavaScript应用程序的构建.
 * [ripple](https://github.com/ripplejs/ripple) -建立反应式视图的微小基础.
 * [rivets](https://github.com/mikeric/rivets) -轻巧而强大的数据绑定+模板解决方案.
 * [derby](https://github.com/derbyjs/derby) -MVC框架使编写可在Node.js和浏览器中运行的实时协作应用程序变得容易.
@@ -217,7 +217,7 @@
 * [fabric.js](https://github.com/kangax/fabric.js) -JavaScript画布库，SVG到画布（＆画布到SVG）解析器.
 * [peity](https://github.com/benpickles/peity)  -渐进式<svg>条形图，折线图和饼图.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) -JavaScript矢量库.
-* [echarts](https://github.com/ecomfe/echarts) -企业图表.
+* [echarts](https://github.com/apache/echarts) -企业图表.
 * [vis](https://github.com/almende/vis) -基于浏览器的动态可视化库.
 * [two.js](https://github.com/jonobr1/two.js) -用于Web的渲染器不可知二维绘图api.
 * [g.raphael](https://github.com/DmitryBaranovskiy/g.raphael) -拉斐尔的图表.
@@ -248,6 +248,8 @@
 * [mxGraph](https://github.com/jgraph/mxgraph) -图表库，可快速创建交互式图形和图表应用程序，并在其供应商支持的任何主要浏览器中以本机方式运行.
 * [Frappe Charts](https://github.com/frappe/charts) -GitHub启发的简单，现代的SVG图表，零依赖.
 * [Frappe Gantt](https://github.com/frappe/gantt) -用于网络的简单，交互式，现代的甘特图库.
+* [G2](https://github.com/antvis/G2) -用于统计图的高度交互式数据驱动的可视化语法.
+* [G2Plot](https://github.com/antvis/G2Plot)  -交互式和响应式图表库. 基于图形的语法.
 
 还有一些很棒的商业图书馆，例如 [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/)和 [highchart](http://www.highcharts.com/).
 
@@ -396,7 +398,7 @@
 * [Fraction.js](https://github.com/infusion/Fraction.js) -JavaScript的合理数字库.
 * [Complex.js](https://github.com/infusion/Complex.js) -JavaScript的复杂数字库.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) -JavaScript的多项式库.
-* [Quaternion.js](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+* [Quaternion.js](https://github.com/infusion/Quaternion.js) -JavaScript的四元数库
 
 
 ## Storage
@@ -423,7 +425,7 @@
 * [randomColor](https://github.com/davidmerfield/randomColor) -JavaScript的颜色生成器.
 * [chroma.js](https://github.com/gka/chroma.js) -用于各种颜色处理的JavaScript库.
 * [color](https://github.com/Qix-/color) -JavaScript颜色转换和操作库.
-* [colors](https://github.com/mrmrs/colors) -网络上颜色的默认设置更智能.
+* [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) -JavaScript库，用于创建随机的令人愉悦的颜色和配色方案.
 * [TinyColor](https://github.com/bgrins/TinyColor) -快速，小巧的颜色处理和JavaScript转换.
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) -从图像中提取突出的颜色.
@@ -475,7 +477,7 @@
 * [storyboard](http://guigrpa.github.io/storyboard/)  -通用日志库+ Chrome扩展程序； 它使您可以在一个位置查看由用户操作触发的所有客户端和服务器任务.
 
 ## RegExp
-* [RegEx101](https://regex101.com/#javascript) - Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE.
+* [RegEx101](https://regex101.com/#javascript)  -JavaScript的在线正则表达式测试器和调试器. 还支持Python，PHP和PCRE.
 * [RegExr](http://regexr.com) -基于HTML / JS的工具，用于创建，测试和学习正则表达式.
 
 
@@ -560,7 +562,7 @@
 * [Parsley.js](https://github.com/guillaumepotier/Parsley.js) -验证表单，前端，而无需编写任何JavaScript.
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation) -jQuery验证插件.
 * [validator.js](https://github.com/chriso/validator.js) -字符串验证和清理.
-* [validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
+* [validate.js](https://github.com/rickharrison/validate.js) -受CodeIgniter启发的轻量级JavaScript表单验证库.
 * [validatr](https://github.com/jaymorrow/validatr/) -跨浏览器HTML5表单验证.
 * [FormValidation](http://formvalidation.io/)  -验证表单字段的最佳jQuery插件. 以前是BootstrapValidator.
 * [is.js](https://github.com/arasatasaygin/is.js) -检查类型，正则表达式，状态，时间等.
@@ -606,13 +608,13 @@
 ## Sliders
 
 * [Swiper](https://github.com/nolimits4web/Swiper) -带有硬件加速过渡的移动触摸滑块和框架.
-* [slick](https://github.com/kenwheeler/slick) -您将需要的最后一个轮播.
+* [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 * [slidesJs](http://www.slidesjs.com) -是适用于JQuery（1.7.1+）的自适应幻灯片演示插件，具有触摸和CSS3过渡等功能
 * [FlexSlider](https://github.com/woothemes/FlexSlider) -一个很棒的，响应迅速的jQuery滑块插件.
 * [unslider](https://github.com/idiot/unslider) -有最简单的jQuery滑块.
 * [sly](https://github.com/darsain/sly) -JavaScript库，用于基于项目导航的单向滚动.
 * [vegas](https://github.com/jaysalvat/vegas)  -一个jQuery插件，可向您的网页添加漂亮的全屏背景. 它甚至允许幻灯片放映.
-* [Sequence](https://github.com/IanLunn/Sequence) -CSS动画框架，用于创建响应式滑块，演示文稿，横幅和其他基于步骤的应用程序.
+* [Sequence](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
 * [reveal.js](https://github.com/hakimel/reveal.js) -使用HTML轻松创建漂亮的演示文稿的框架.
 * [impress.js](https://github.com/impress/impress.js) -这是一个展示框架，它基于CSS3转换和转换在现代浏览器中的强大功能，并受到prezi.com背后思想的启发.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -DIY演示微框架
@@ -641,7 +643,7 @@
 
 * [typeahead.js](https://github.com/twitter/typeahead.js) -快速且功能齐全的自动完成库.
 * [tag-it](https://github.com/aehlke/tag-it) -一个jQuery UI插件，用于处理多标签字段以及标签建议/自动填充.
-* [At.js](https://github.com/ichord/At.js) -向您的应用程序添加GitHub，例如提及自动完成功能.
+* [At.js](https://github.com/ichord/At.js) - Add GitHub like mentions autocomplete to your application.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) -用于HTML5占位符属性的JavaScript polyfill.
 * [fancyInput](https://github.com/yairEO/fancyInput) -通过CSS3效果使输入字段的输入变得有趣.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) -使用此jQuery插件将简单的文本输入神奇地转换为很酷的标签列表.
@@ -693,7 +695,7 @@
 * [tooltipster](https://github.com/iamceege/tooltipster) -jQuery工具提示插件.
 * [simptip](https://github.com/arashmanteghi/simptip) -使用Sass制作的简单CSS工具提示.
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) -jQuery插件，用于响应式和可访问的模态窗口和工具提示.
-* [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
+* [toolbar](https://github.com/paulkinzett/toolbar) -工具提示样式的工具栏jQuery插件
 * [hint.css](https://github.com/chinchang/hint.css) -CSS中的工具提示库，用于您可爱的网站.
 
 ## Modals and Popups
@@ -795,7 +797,7 @@
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) -适用于YouTube的更漂亮的嵌入-具有精美的选项，例如高分辨率预览图像，嵌入选项的高级自定义以及可选的FitVids支持.
  * [html5media](https://github.com/etianen/html5media)  -启用<video>和<audio>所有主要浏览器中的标签.<https://html5media.info/>
- * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，它通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频轨道队列并播放一系列歌曲.
+ * [Play-em JS](https://github.com/adrienjoly/playemjs) -Play&#39;em是一个JavaScript组件，可通过将多个播放器嵌入包括Youtube，Soundcloud和Vimeo的HTML DIV中来管理音乐/视频曲目队列并播放一系列歌曲.
  * [polyplayer](https://github.com/Acconut/polyplayer) -使用一个API统治YouTube，Soundcloud和Vimeo播放器.
  * [flowplayer](https://github.com/flowplayer/flowplayer) -用于网络的HTML5视频播放器
  <https://flowplayer.org/>
@@ -825,7 +827,7 @@
 
 ## Animations
 
-* [velocity](https://github.com/julianshapiro/velocity) -加速的JavaScript动画.
+* [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) -jQuery的超平滑CSS3转换和过渡.
 * [impress.js](https://github.com/impress/impress.js) -在HTML文档中使用CSS3转换/转换进行类似Prezi的演示.
 * [bounce.js](https://github.com/tictail/bounce.js) -立即创建可口的CSS3动画.
@@ -895,7 +897,7 @@ http://www.listjs.com
 * [Clipboard.js](https://clipboardjs.com/) -不使用Flash或使用Framework的“复制到剪贴板”.
 * [ky](https://github.com/sindresorhus/ky) -基于浏览器Fetch API的小巧优雅的HTTP客户端.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
-* [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component
+* [emoji-button](https://github.com/joeattardi/emoji-button) -香草JavaScript表情符号选择器组件
 * [iooxa](https://github.com/iooxa/article) -交互式科学写作，反应性文档和可解释性说明的组成部分.
 * [Idyll](https://github.com/idyll-lang/idyll)  -创建可解释的解释和交互式讲故事的文章. 可 [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) -用JavaScript实现的算法和数据结构，并带有解释和进一步阅读的链接.

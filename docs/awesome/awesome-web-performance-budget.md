@@ -34,6 +34,7 @@
 
 - [Bundle Size](https://github.com/siddharthkp/bundlesize) -检查包的大小.
 - [Webpack Perf Budget](https://webpack.js.org/configuration/performance/) -如果您在项目中使用Webpack，则可以选择此选项.
+- [Lighthouse](https://web.dev/use-lighthouse-for-performance-budgets/) -如何使用 [lighthouse](https://developers.google.com/web/tools/lighthouse) 并自动使用 [Lighthouse bot](https://web.dev/using-lighthouse-bot-to-set-a-performance-budget/).
 - [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) -用于绩效预算的艰巨任务.
 - [Size Limit](https://github.com/ai/size-limit)  -计算运行JS应用或lib来保持良好性能的实际成本. 如果费用超出限制，则在拉取请求中显示错误.
 - [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) -跟踪压缩后的Webpack资产大小.

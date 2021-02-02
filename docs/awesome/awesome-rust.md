@@ -258,6 +258,7 @@
 * [gchp/iota](https://github.com/gchp/iota) -一个简单的文本编辑器 [![build badge](https://api.travis-ci.org/gchp/iota.svg?branch=master)](https://travis-ci.org/gchp/iota)
 * [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) —微型（≤1024LOC）文本编辑器，具有语法突出显示，增量搜索等功能. [![build badge](https://api.travis-ci.com/ilai-deutel/kibi.svg?branch=master)](https://travis-ci.com/ilai-deutel/kibi)
 * [mathall/rim](https://github.com/mathall/rim) -用Rust编写的类似Vim的文本编辑器
+* [ox](https://github.com/curlpipe/ox) -在终端中运行的独立Rust文本编辑器！ 
 * [Remacs](https://github.com/remacs/remacs) —由社区驱动的Emacs到Rust的端口. [![build badge](https://api.travis-ci.org/remacs/remacs.svg?branch=master)](https://travis-ci.org/remacs/remacs)
 * [xi-editor](https://github.com/xi-editor/xi-editor) —具有用Rust编写的后端的现代编辑器.
 * [xray](https://github.com/atom-archive/xray) —实验性的下一代基于电子的文本编辑器. [![build badge](https://api.travis-ci.org/atom/xray.svg?branch=master)](https://travis-ci.org/atom/xray)
@@ -336,7 +337,7 @@
 
 * [clippy](https://crates.io/crates/clippy) -锈皮屑 [![build badge](https://api.travis-ci.com/rust-lang/rust-clippy.svg?branch=master)](https://travis-ci.org/rust-lang/rust-clippy)
 * [clog-tool/clog-cli](https://github.com/clog-tool/clog-cli) —从git元数据生成一个变更日志（[conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html)) [![build badge](https://api.travis-ci.org/clog-tool/clog-cli.svg?branch=master)](https://travis-ci.org/clog-tool/clog-cli)
-* [dan-t/rusty-tags](https://github.com/dan-t/rusty-tags) -为货运项目及其所有依赖项创建ctags / etags [![build badge](https://api.travis-ci.org/dan-t/rusty-tags.svg?branch=master)](https://travis-ci.org/dan-t/rusty-tags)
+* [dan-t/rusty-tags](https://github.com/dan-t/rusty-tags) — create ctags/etags for a cargo project and all of its dependencies [![build badge](https://api.travis-ci.org/dan-t/rusty-tags.svg?branch=master)](https://travis-ci.org/dan-t/rusty-tags)
 * [delta](https://crates.io/crates/git-delta) — git和diff输出的语法突出显示 [![build badge](https://api.travis-ci.com/dandavison/delta.svg?branch=master)](https://travis-ci.com/dandavison/delta)
 * [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) —用于.env文件的Linter [![build badge](https://github.com/dotenv-linter/dotenv-linter/workflows/CI/badge.svg?branch=master)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
 * [frewsxcv/crate-deps](https://github.com/frewsxcv/crate-deps) —为crates.io上托管的板条箱生成依赖关系图的图像
@@ -494,7 +495,7 @@
 
   * [Atom](https://atom.io/)
     * [zargony/atom-language-rust](https://github.com/zargony/atom-language-rust)
-    * [rust-lang/atom-ide-rust](https://github.com/rust-lang/atom-ide-rust) — Rust IDE support for Atom, powered by the Rust Language Server (RLS) [![Build Status](https://api.travis-ci.com/rust-lang/atom-ide-rust.svg?branch=master)](https://travis-ci.com/rust-lang/atom-ide-rust)
+    * [rust-lang/atom-ide-rust](https://github.com/rust-lang/atom-ide-rust) —由Rust语言服务器（RLS）支持的对Atom的Rust IDE支持 [![Build Status](https://api.travis-ci.com/rust-lang/atom-ide-rust.svg?branch=master)](https://travis-ci.com/rust-lang/atom-ide-rust)
   * [Eclipse](https://www.eclipse.org/)
     * [Eclipse Corrosion](https://github.com/eclipse/corrosion)
     * [RustDT](https://github.com/RustDT/RustDT) — [![build badge](https://api.travis-ci.org/RustDT/RustDT.svg?branch=master)](https://travis-ci.org/RustDT/RustDT)
@@ -522,7 +523,7 @@
     * [vim-cargo](https://github.com/timonv/vim-cargo) —命令绑定以从vim快速运行货物.
     * [vim-racer](https://github.com/racer-rust/vim-racer) -允许vim使用 [Racer](https://github.com/racer-rust/racer) 用于Rust代码的完成和导航.
     * [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/) 客户. 在Rust中实现，并支持开箱即用.
-  * Visual Studio
+  * 视觉工作室
     * [PistonDevelopers/VisualRust](https://github.com/PistonDevelopers/VisualRust) — Rust的Visual Studio扩展 [![Build status](https://ci.appveyor.com/api/projects/status/5nw5no10jj0y4p3f?svg=true)](https://ci.appveyor.com/project/vosen/visualrust)
     * [dgriffen/rls-vs2017](https://github.com/ZoeyR/rls-vs2017) -Rust对Visual Studio 2017预览版的支持 [![build badge](https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true)](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
   * [Visual Studio Code](https://code.visualstudio.com/)
@@ -1074,7 +1075,7 @@
 *实体组件系统（ECS）
   * [amethyst/specs](https://github.com/amethyst/specs) —规格并行ECS [![build badge](https://api.travis-ci.org/amethyst/specs.svg?branch=master)](https://travis-ci.org/amethyst/specs)
   * [legion](https://github.com/amethyst/legion) —功能丰富的高性能ECS库，只需最少的样板 [![build badge](https://github.com/amethyst/legion/workflows/CI/badge.svg?branch=master)](https://github.com/amethyst/legion/actions)
-*游戏引擎
+* Game Engines
   * [Amethyst](https://amethyst.rs) -面向数据的游戏引擎- [![Crates.io](https://img.shields.io/crates/v/amethyst)](https://crates.io/crates/amethyst) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/amethyst/amethyst/blob/main/COPYING)
   * [Bevy](https://github.com/bevyengine/bevy) 是一款内置在Rust中的令人耳目一新的简单数据驱动游戏引擎.  -- [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bevyengine/bevy/blob/master/LICENSE)

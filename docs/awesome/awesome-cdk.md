@@ -31,7 +31,7 @@ AWS Cloud Development Kit（AWS CDK）是一个开源软件开发框架，用于
 ### Security
 
 * [cdk-passwordless](https://github.com/farminf/aws-cdk-passwordless) -使用userpool进行无密码身份验证的构造.
-* [cdk-iam-generator](https://github.com/srihariph/cdk-iam-generator) - Construct to generate IAM Managed Policies and IAM Roles using JSON Configuration.
+* [cdk-iam-generator](https://github.com/srihariph/cdk-iam-generator) -使用JSON配置生成IAM托管策略和IAM角色.
 * [c3](https://github.com/SSHcom/c3) -符合隐私和安全最佳做法.
 * [cdk-iam-floyd](https://github.com/udondan/iam-floyd) -具有流畅接口的IAM策略声明生成器.
 * [k9-cdk](https://github.com/k9securityio/k9-cdk) -轻松生成安全的S3存储桶策略.
@@ -66,6 +66,9 @@ AWS Cloud Development Kit（AWS CDK）是一个开源软件开发框架，用于
 * [Alexa Deployment Pipeline](https://github.com/taimos/cdk-constructs/tree/master/lib/alexa) -使用AWS SAM和DeployToAlexa操作创建一个CodePipeline来将Alexa Skills部署到Lambda和开发人员控制台的构造.
 * [cdk-developer-tools-notifications](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-developer-tools-notifications) -开发人员工具的Slack / Microsoft团队/电子邮件通知：CodeCommit，CodeBuild，CodeDeploy，CodePipeline.
 
+### Multi-accounts setup
+* [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) -使用AWS Organization，AWS SSO，DNS和AWS CodePipeline创建多账户设置.
+
 ## High-Level Frameworks
 
 * [punchcard](https://github.com/punchcard/punchcard) -TypeScript框架，用于统一CDK的基础结构和运行时代码，因此您可以在一个Node.js应用程序的上下文中声明构造并实现运行时逻辑.
@@ -81,7 +84,7 @@ AWS Cloud Development Kit（AWS CDK）是一个开源软件开发框架，用于
 
 ## Language Support
 
-* [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) -的包装器库 [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk) .  CI自动生成代码，并每天进行部署.
+* [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk) .  CI自动生成代码，并每天进行部署.
 * [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) -使用Java和Maven定义和部署AWS CDK应用程序的插件.
 * [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) -使用以下替代Node.js lambda CDK构造 [webpack](https://webpack.js.org/).
 * [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) -使用以下替代Node.js lambda CDK构造 [esbuild](https://github.com/evanw/esbuild).
@@ -89,7 +92,7 @@ AWS Cloud Development Kit（AWS CDK）是一个开源软件开发框架，用于
 ## Library Publishing
 
 * [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) -适用于AWS CDK的GitHub Action.
-* [jsii-publish](https://github.com/udondan/jsii-publish) - 一种 [Docker image](https://hub.docker.com/r/udondan/jsii-publish) 和 [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build 和 publish CDK constructs created via [JSII](https://github.com/aws/jsii).
+* [jsii-publish](https://github.com/udondan/jsii-publish) - 一个 [Docker image](https://hub.docker.com/r/udondan/jsii-publish) 和 [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build 和 publish CDK constructs created via [JSII](https://github.com/aws/jsii).
 
 ## Training Materials and Sample Code
 

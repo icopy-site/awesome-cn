@@ -35,7 +35,7 @@
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
 - [Dash Bio Components](https://dash.plot.ly/dash-bio) -生物信息学组件套件，可简化分析和可视化生物信息学数据并在Dash应用程序中与之交互的过程.
 - [Dash Canvas Components](https://dash.plot.ly/canvas) -使用Dash进行图像注释和图像处理的模块.
-- [Awesome React Components](https://github.com/brillout/awesome-react-components) -可能有趣的React.js组件目录，可以包装到Dash组件中.
+- [Awesome React Components](https://github.com/brillout/awesome-react-components) -React.js组件的目录可能会很有趣，可以包装到Dash组件中.
 - [Awesome React](https://github.com/enaqx/awesome-react) -开发React.js组件的有用资源.
 - [Dash Core Components](https://github.com/plotly/dash-core-components)
 - [Dash Cytoscape Component](https://dash.plot.ly/cytoscape) -图形可视化组件，用于创建易于定制的，高性能，交互式和基于Web的网络.
@@ -66,6 +66,7 @@
 - [VoxelViz](http://lukas-snoek.com/voxelviz) -获奖的（f）MRI数据可视化工具. [Source Code.](https://github.com/lukassnoek/VoxelViz)
 - [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) -探索2015年英国的140,008起交通事故. [Source Code.](https://github.com/richard-muir/uk-car-accidents)
 - [New York Taxi Rides](https://dash.vaex.io/)  -YellowCab Taxi公司从其主要数据中获取的全年数据，旅行次数超过1亿次. 具有超过1亿行的Dash + Vaex数据框. [Source Code.](https://github.com/vaexio/dash-120million-taxi-app)
+- [GutenSearch](https://gutensearch.com/) -看看古腾堡计划的书. [Source Code.](https://github.com/cordb/gutensearch)
 
 ## Idiomatic examples
 - [Dash recipes](https://github.com/plotly/dash-recipes) -在回答更大的Dash社区的问题时，为密谋团队创建的脚本和示例的集合.

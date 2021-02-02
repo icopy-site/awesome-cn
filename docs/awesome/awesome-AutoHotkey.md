@@ -262,6 +262,7 @@
 * [PAHK](https://code.google.com/archive/p/pahk) -论坛主题： [link](https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
 * [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) -文档 [link](https://pyahk.readthedocs.io/en/latest/).
 * [ahk](https://github.com/spyoungtech/ahk) -AutoHotkey的Python包装器-论坛线程： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=63184)
+* [AutoHotkey.py](https://github.com/Perlence/AutoHotkey.py) -用Python编写AutoHotkey脚本-论坛线程： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=86025)
 
 ## Tutorials
 *有用的AutoHotkey教程列表.*

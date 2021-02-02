@@ -65,6 +65,8 @@
 - [Cybrary](https://www.cybrary.it/) -_Cybrary_-基于订阅的在线课程，其中包含网络安全和DevSecOps的专用类别.
 - [PentesterLab](https://pentesterlab.com/) -_PentesterLab_-动手练习以了解和利用简单和高级的Web漏洞.
 - [Practical DevSecOps](https://www.practical-devsecops.com) -_实用DevSecOps_-使用基于浏览器的先进实验室，向具有实际DevSecOps的行业专家学习DevSecOps的概念，工具和技术.
+- [Secure Code Warrior](https://www.securecodewarrior.com/) -_安全代码战士_-游戏化和动手的安全开发培训，并支持课程，评估和锦标赛.
+- [SecureFlag](https://www.secureflag.com/platform.html) -_OWASP_-针对开发人员和构建/发布工程师的动手安全编码培训.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) -_Pager Duty_-由PagerDuty创建并开放源代码的演示文稿，旨在为软件工程师提供安全培训.
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) -_Pager Duty_-由PagerDuty创建并开放源代码的演示文稿，旨在为员工提供安全培训.
 - [Web Security Academy](https://portswigger.net/web-security) -_PortSwigger_-用于学习和利用常见Web漏洞的一组材料和实验室.

@@ -4,7 +4,7 @@
 
 &gt;与eBPF相关的杰出项目的精选列表.
 
- BPF与_Berkeley Packet Filter_中的一样，是内核内部虚拟机，运行从用户空间传递的程序. 最初在BSD上实现，然后在Linux（现在是旧的）“经典BPF”或cBPF机器上使用tcpdump之类的工具来过滤内核中的数据包，以避免对用户空间的无用复制. 最近，Linux中的BPF基础结构已被完全重做，并赋予了“扩展的BPF”（即eBPF）以生命，它获得了新功能（安全和终止检查，程序的JIT编译，持久性映射，标准库，硬件卸载支持等），现在用于许多任务. 在eBPF带来性能，可编程性和灵活性的几个示例中，以非常低的级别（XDP）处理数据包，跟踪和监视系统上的事件，或对cgroup实施访问控制.
+ BPF与_Berkeley Packet Filter_中的一样，是内核内部虚拟机，运行从用户空间传递的程序. 最初在BSD上实现，然后在Linux（现在是旧的）“经典BPF”或cBPF机器上使用tcpdump之类的工具来过滤内核中的数据包，以避免对用户空间的无用复制. 最近，Linux中的BPF基础结构已被完全重做，并赋予了“扩展的BPF”（即eBPF）以生命，它获得了新功能（安全性和终止检查，程序的JIT编译，持久性映射，标准库，硬件卸载）支持等），现在用于许多任务. 在eBPF带来性能，可编程性和灵活性的几个示例中，以非常低的级别（XDP）处理数据包，跟踪和监视系统上的事件，或对cgroup实施访问控制.
 
 Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，名为 [ebpf.io](https://ebpf.io/) . 它的作用类似于此列表， [an introduction to eBPF](https://ebpf.io/what-is-ebpf) 并链接到 [related projects](https://ebpf.io/projects).
 
@@ -16,7 +16,7 @@ Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，
 
 ### eBPF Essentials
 
-- [ebpf.io](https://ebpf.io/) -一个发现eBPF所有基础知识的门户，包括主要相关项目和社区资源的列表.
+- [ebpf.io](https://ebpf.io/) -发现eBPF的所有基础的网关，包括主要相关项目和社区资源的列表.
 - [Cilium's BPF and XDP Reference Guide](http://docs.cilium.io/en/latest/bpf/) -有关eBPF的大多数功能和方面的深入文档.
 
 ### Kernel Documentation
@@ -66,7 +66,7 @@ Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，
 - [Linux BPF Superpowers](http://www.slideshare.net/brendangregg/linux-bpf-superpowers) -简介，主要涵盖跟踪方面，第一部分带有火焰图.
 - [IO Visor](https://www.socallinuxexpo.org/sites/default/files/presentations/Room%20211%20-%20IOVisor%20-%20SCaLE%2014x.pdf) -还介绍 [IO Visor project](https://www.iovisor.org/).
 - [BPF -- in-kernel virtual machine](http://vger.kernel.org/netconf2015Starovoitov-bpf_collabsummit_2015feb20.pdf) -由eBPF的作者介绍.
-- [Extending extended BPF](https://lwn.net/Articles/603983/) -2014年的一篇博客文章，介绍BPF的开发，并演示了如何使用BPF将状态附加到套接字上的状态套接字过滤示例.
+- [Extending extended BPF](https://lwn.net/Articles/603983/) -2014年的一篇有关BPF开发的博客文章，并通过将eBPF程序附加到套接字上的状态套接字过滤示例，演示了如何使用BPF.
 -Greg Marsden编写了一些有关eBPF的文档：
   - [A Tour of Program Types](https://blogs.oracle.com/linux/notes-on-bpf-1) -对BPF程序类型的所有现有挂钩的描述及其关注之处.
   - [BPF helper functions](https://blogs.oracle.com/linux/notes-on-bpf-2) -审查可以在eBPF程序中调用的内核功能.
@@ -91,7 +91,7 @@ Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，
 
 ### Kernel Tracing
 
-- [Full-system dynamic tracing on Linux using eBPF and bpftrace](https://www.joyfulbikeshedding.com/blog/2019-01-31-full-system-dynamic-tracing-on-linux-using-ebpf-and-bpftrace.html) -从列出可用的跟踪点到正在运行的bpftrace程序，详细介绍了eBPF跟踪.
+- [Full-system dynamic tracing on Linux using eBPF and bpftrace](https://www.joyfulbikeshedding.com/blog/2019-01-31-full-system-dynamic-tracing-on-linux-using-ebpf-and-bpftrace.html) -从列出可用的跟踪点到正在运行的bpftrace程序，详细介绍了使用eBPF进行跟踪.
 - [Meet-cute between eBPF and Kernel Tracing](http://www.slideshare.net/vh21/meet-cutebetweenebpfandtracing) -Kprobes，暴发，ftrace.
 - [Linux Kernel Tracing](http://www.slideshare.net/vh21/linux-kernel-tracing) -Systemtap，Kernelshark，trace-cmd，LTTng，perf-tool，ftrace，hist-trigger，perf，function tracer，tracepoint，kprobe / uprobe等.
 -Brendan Gregg的博客，尤其是 [Linux BPF Superpowers](http://www.brendangregg.com/blog/2016-03-05/linux-bpf-superpowers.html) 文章.
@@ -127,7 +127,7 @@ Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，
 ### bpfilter
 
 - [Why is the kernel community replacing iptables with BPF?](https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/) -Cilium的博客文章，介绍了eBPF和bpfilter背后的动机，并提供了一些示例以及与其他使用eBPF和bpfilter的项目的链接.
-- [bpfilter: Linux firewall with eBPF sauce](https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf) -昆汀·莫内（Quentin Monnet）的演讲幻灯片，其中有eBPF的背景，并将bpfilter与iptables进行了比较.
+- [bpfilter: Linux firewall with eBPF sauce](https://qmo.fr/docs/talk_20180316_frnog_bpfilter.pdf) -昆汀·莫内（Quentin Monnet）的演讲幻灯片，其中有eBPF的背景知识，并将bpfilter与iptables进行了比较.
 
 ### BTF
 
@@ -154,7 +154,7 @@ Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，
 - [bcc Python Developer Tutorial](https://github.com/iovisor/bcc/blob/master/docs/tutorial_bcc_python_developer.md) -附带密件抄送，但针对17个“课程”中的Python位.
 - [Linux Tracing Workshops Materials](https://github.com/goldshtn/linux-tracing-workshop) -涉及使用多个BPF工具进行跟踪.
 - [Tracing a packet journey using Linux tracepoints, perf and eBPF](https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/) -使用perf和bcc程序对ping请求和答复进行故障排除.
-- [Open NFP platform](https://open-nfp.org/dataplanes-ebpf/technical-papers/) -由Netronome运营：一些与网络相关的eBPF用例的教程，包括eBPF卸载入门指南.
+- [Open NFP platform](https://open-nfp.org/dataplanes-ebpf/technical-papers/) -由Netronome操作：一些与网络相关的eBPF用例的教程，包括eBPF卸载入门指南.
 - [XDP for the Rest of Us](http://netdevconf.org/2.1/session.html?gospodarek) -开始使用XDP的研讨会的第一版.
 - [XDP for the Rest of Us](https://www.netdevconf.org/2.2/session.html?gospodarek-xdp-workshop) -第二版，新增内容.
 - [Load XDP programs using the ip (iproute2) command](https://medium.com/@fntlnz/load-xdp-programs-using-the-ip-iproute2-command-502043898263)
@@ -170,7 +170,8 @@ Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，
 - [bcc/examples](https://github.com/iovisor/bcc/tree/master/examples) -密件抄送工具附带的示例，主要涉及跟踪.
 - [bcc/tools](https://github.com/iovisor/bcc/tree/master/tools)  -这些工具本身可以视为BPF程序的示例用例，主要用于跟踪和监视.  bcc工具已打包用于某些Linux发行版.
 - [MPLSinIP sample](https://github.com/fzakaria/eBPF-mpls-encap-decap)  -大量评论的样本，展示了如何在IP内封装和解封装MPLS. 该代码针对BPF开发的新手进行了注释.
-- [ebpf-samples](https://github.com/vbpf/ebpf-samples) -从多个项目中收集的已编译（作为ELF对象文件）样本的集合，其主要目的是用作用户空间验证程序的测试用例.
+- [ebpf-samples](https://github.com/vbpf/ebpf-samples) -从多个项目中收集的已编译（作为ELF对象文件）样本的集合，主要用于充当用户空间验证程序的测试用例.
+- [ebpf-kill-example](https://github.com/niclashedam/ebpf-kill-example) -完整记录并经过测试的eBPF探针示例，可记录所有强制消灭并在用户空间中打印出来.
 
 ## eBPF Workflow: Tools and Utilities
 
@@ -190,7 +191,7 @@ Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，
 - [LLVM](https://llvm.org/)  -包含eBPF工作流程中使用的几种工具. 可以从以下位置获取Ubuntu / Debian最新版本的快照： [here](http://apt.llvm.org/).
 
    -clang用于以ELF格式（clang v3.7.1 +）将C编译为eBPF目标文件.  BPF后端添加了 [this commit](https://reviews.llvm.org/D6494).
-  -llvm-objdump用于以人类可读的格式转储目标文件的内容，可能带有初始C源代码（llvm-objdump v4.0 +）.
+  -llvm-objdump用于以人类可读格式转储目标文件的内容，可能带有初始C源代码（llvm-objdump v4.0 +）.
   -llvm-mc用于从LLVM中间表示形式编译为eBPF目标文件，以便可以从C编译为eBPF程序集，然后对程序集进行修补，然后再编译为ELF文件.
 
 ### libbpf
@@ -229,7 +230,7 @@ Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，
   - [Old documentation for P4 usage with eBPF](https://github.com/iovisor/bcc/tree/master/src/cc/frontends/p4)  -从密件抄送存储库； 由下面链接的P4_16后端弃用.
   - [P4_16 backend for eBPF](https://github.com/p4lang/p4c/blob/master/backends/ebpf/README.md)
 
--谁是项目（[GitHub repository](https://github.com/cilium/cilium) ）是一项依靠BPF和XDP来提供“基于即时生成的eBPF程序的容器的快速内核内联网和安全策略实施”的技术. 许多演示文稿可用（有重叠）：
+-谁是项目（[GitHub repository](https://github.com/cilium/cilium) ）是一种依靠BPF和XDP来提供“基于即时生成的eBPF程序的容器的快速内核内联网和安全策略实施”的技术. 许多演示文稿可用（有重叠）：
 
   - [Cilium: Networking & Security for Containers with BPF & XDP](http://www.slideshare.net/ThomasGraf5/clium-container-networking-with-bpf-xdp) -还具有负载均衡器用例
   - [Cilium: Networking & Security for Containers with BPF & XDP](http://www.slideshare.net/Docker/cilium-bpf-xdp-for-containers-66969823) - [video](https://www.youtube.com/watch?v=TnJF7ht3ZYc&list=PLkA60AVN3hh8oPas3cq2VA9xB7WazcIgs)
@@ -314,4 +315,4 @@ Recently [Cilium](https://cilium.io) 开设了一个有关eBPF的出色网站，
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，zoidberg将放弃该作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内，Zoidberg将放弃该作品的所有版权以及相关或邻近的权利.

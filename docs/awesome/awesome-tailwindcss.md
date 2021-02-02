@@ -100,6 +100,7 @@
 -  [CSS Filters](https://github.com/Larsklopstra/tailwindcss-css-filters) -添加带有默认值的`filter`和`backdrop-filter`实用程序.
 -  [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) -使用以下命令添加实用程序以修剪文本空白 [Capsize](https://github.com/seek-oss/capsize).
 -  [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) -添加`text-decoration-color`实用程序.
+-  [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) -为可视隐藏滚动条添加了“ scrollbar-hide”类.
 -  [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
 -  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) -添加了“ RTL”和“ LTR”变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) -添加`touch`变体.
@@ -207,7 +208,7 @@
 - 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的，对开发人员友好的付费模板.
--  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值模板，可轻松自定义模板.
+-  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值，易于自定义的模板.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
 -  [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) -模板，组件和资源.

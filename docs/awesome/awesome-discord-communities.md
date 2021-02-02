@@ -19,6 +19,7 @@
 
 ## Programming in General
 
+
 Some Discord counterpart communities to Stack Overflow.
 
 ### Support Communities
@@ -107,6 +108,7 @@ Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#i
 
 ## Art of Computer Science
 
+
 讨论现代和古典计算及其亲属背后的概念.
 
 ### Computer Science
@@ -172,6 +174,7 @@ Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#envir
 英语语言
 
 ## Electricals
+
 
 有关裸露电路板，微处理器和前沿硬件的讨论.
 
@@ -308,6 +311,7 @@ Notable Channels: `#build-help`, `#tech-support`, `#overclocking`, `#programming
 英语语言
 
 ## Programming Languages
+
 
 嵌入式系统，Web框架，自动化和移动应用程序中使用的编程语言.
 
@@ -679,6 +683,7 @@ Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`
 
 ## Web Development
 
+
  Web的后端，从单个静态页面到复杂的Web应用程序； 各种框架，模块，短绒，组件，包管理器，构建器，渐进式Web应用程序（PWA）的使用，这些都是推动现代Web发展的因素.
 
 ### Web Frameworks
@@ -914,6 +919,7 @@ Notable Channels: `#security`, `#general`, `#devops`, `#plugin-development`, `#t
 
 ## Development Environments
 
+
 软件工程师速写本；  IDE，文本编辑器，模块化编辑器，GUI终端，仿真器，或者开发工具如此复杂，无法用简单的文字来描述？
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/blink.webp" />
@@ -965,6 +971,7 @@ Notable Channels: `#discussion`, `#terminal-setups`, `#tech-support`, `#code`, `
 
 ## Design and Illustrations
 
+
 有关设计系统，图形插图，用户界面和用户体验的所有信息.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/adobe_systems_community.webp" />
@@ -998,6 +1005,7 @@ Notable Channels: `#the-spotlight`, `#discussions`, `#critique`, `#showcase`, `#
 英语语言
 
 ## Operating Systems
+
 
 负责管理应用程序进程的底层内核.
 
@@ -1197,6 +1205,7 @@ Notable Channels: `#chromeos`, `#chromium`, `#crostini`, `#purchase-advice`, `#d
 
 ## DevOps and System Administration
 
+
 [Continuous development](https://en.wikipedia.org/wiki/DevOps#Toolchains)，有关网络管理和基础架构，IT家庭实验室，容器，API，Kubernetes及其上运行的应用程序的讨论.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/r_sysadmin.webp" />
@@ -1322,6 +1331,7 @@ Notable Channels: `#general`, `#tech`, `#share-your-setup`, `#pi-hole-setup`, `#
 
 ## Computer Security
 
+
 红队和蓝队的一切活动都可以随意进行； 安全评估，逆向工程，网络漏洞，漏洞研究等.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/the_many_hats_club.webp" />
@@ -1398,6 +1408,7 @@ Notable Channels: `#general`, `#issues` \
 
 ## Blockchain and Cryptocurrency
 
+
 加密货币的开源开发和区块链的应用
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/cryptodevs.webp" />
@@ -1442,7 +1453,7 @@ Notable Channels: `#metrix-discussion`, `#day_trading` \
 
 [__Nano__](https://chat.nano.org/) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://nano.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/nanocurrency) \
 Notable Channels: `#general`, `#documentation`, `#development`, `#decentralization`, `#graphic-design`, `#business`, `#events`, `#integration`, `#protocol`, `#roadmap`, `#support` \
-语言：英语，西班牙语，俄语，印度尼西亚语，意大利语，意大利语，德语，法语，葡萄牙语，葡萄牙语，图尔克语，提翁格勒
+语言：英语，西班牙语，俄语，巴哈萨语印度尼西亚语，意大利语，德语，英语，法语，葡萄牙语，图尔克语，蒂昂维斯特
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/vertcoin.webp" />
 
@@ -1451,6 +1462,7 @@ Notable Channels: `#general`, `#trading`, `#marketing`, `#development`, `#mining
 语言：英语，韩语，русский
 
 ## Simulation
+
 
 在您喜欢的应用环境中，使用严格的物理和数学定律对自然或超自然现象进行计算建模.
 
@@ -1469,6 +1481,7 @@ Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `
 <br />
 
 ## Game Development
+
 
 游戏制作，光栅化或实时光线追踪，每个对象运动背后的复杂性以及在市场上发布之前的所有内容.
 
@@ -1709,6 +1722,7 @@ Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linu
 
 ## Virtual Reality
 
+
 为虚拟，增强和混合现实而开发； 头戴式显示器激发了我们对全新世界的感知.  VR的应用是无止境的.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/project_north_star.webp" />
@@ -1730,6 +1744,7 @@ Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#
 英语语言
 
 ## Machine Learning
+
 
 数据处理和可视化，机器学习框架和人工智能.
 
@@ -1788,6 +1803,7 @@ Notable Channels: `#machine-learning`, `#natural-language-processing`, `#analyti
 
 ## Career
 
+
 讨论编程方面的挑战，简历复习，工作机会.
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/cs_career_hackers.webp" />
@@ -1798,11 +1814,13 @@ Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#caree
 
 ## Discord Development
 
+
 工具包中用于通过其API构建Discord机器人或自动化程序所需的所有实用程序. 但是，这个清单
 很长而且很多样化，因此需要自己的超赞列表. 你可以看一下 [official wiki](https://www.reddit.com/r/discordapp/wiki/developers)
 关于著名的开发套件.
 
 ## Attribution
+
 
 徽章图标由 [Freepik](https://www.flaticon.com/authors/freepik) 和 [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
 

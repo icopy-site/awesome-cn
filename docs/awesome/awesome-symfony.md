@@ -12,6 +12,7 @@
 * [AdmingeneratorGeneratorBundle](https://github.com/symfony2admingenerator/AdmingeneratorGeneratorBundle) -Symfony2的Admingenerator，解析generator.yml文件以构建类
 * [EasyAdminBundle](https://github.com/javiereguiluz/EasyAdminBundle) -Symfony应用程序的简单管理生成器
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) -AdminBundle-缺少的Symfony2管理员生成器
+* [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) -基于AdminLTE模板的管理主题
 
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
@@ -205,6 +206,7 @@
 
 ## Reading
 
+* [Symfony 5: The Fast Track](https://symfony.com/book) -由Symfony的创作者撰写的书，在线免费.
 * [High Performance Websites with Symfony2](http://slides.seld.be/?file=2011-10-20+High+Performance+Websites+with+Symfony2.html)
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
 * [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
