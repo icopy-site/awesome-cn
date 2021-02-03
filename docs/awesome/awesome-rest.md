@@ -13,7 +13,7 @@
 基于网络的软件体系结构的设计]（https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm）-Roy Fielding的论文定义了REST
 * [HTTP API design guide extracted from work on the Heroku Platform API](https://github.com/interagent/http-api-design)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) -解决安全性，分页，过滤，版本控制，部分答案，CORS等的完整指南.
+* [How to design a REST API?](http://blog.octo.com/en/design-a-rest-api/) - Full guide tackling security, pagination, filtering, versioning, partial answers, CORS, etc.
 * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) -由Martin Fowler解释，最初由Leonard Richardson在 [QCon 2008](https://www.crummy.com/writing/speaking/2008-QCon/act3.html).
 * [Enterprise Integration Using REST](http://martinfowler.com/articles/enterpriseREST.html) -讨论非公开API所具有的约束和灵活性，以及​​在多个团队之间进行大规模RESTful集成所获得的经验教训.
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) -明确说明HATEOAS是什么，以及为什么要使用它.
@@ -65,7 +65,7 @@
 
 ### Go Clients
 
-* [gopencils](https://github.com/bndr/gopencils) -小而简单的程序包，可以轻松使用REST API.
+* [gopencils](https://github.com/bndr/gopencils) -小型且简单的程序包，可轻松使用REST API.
 * [resty](https://github.com/go-resty/resty) -受Ruby rest-client启发的Go的简单HTTP和REST客户端.
 
 ## Servers
@@ -73,7 +73,7 @@
 ### Directly On Top Of A RMDB
 
 * [postgrest](https://github.com/begriffs/postgrest) -直接从现有PostgreSQL数据库提供完全RESTful API.
-* [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
+* [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) -适用于任何MySQL数据库的简单的类似REST的/ CRUD服务器.
 * [pREST](https://github.com/prest/prest) -使用Go编写的任何现有PostgreSQL数据库中的完全RESTful API.
 
 ### Node.js
@@ -141,7 +141,7 @@
 * [go-json-rest](https://github.com/ant0ine/go-json-rest) -位于“ net / http”之上的薄层，可帮助轻松构建RESTful API.
 * [sleepy](https://github.com/dougblack/sleepy) -用Go编写的RESTful微框架.
 * [restit](https://github.com/yookoala/restit) -使用微型框架来帮助编写RESTful API集成测试.
-* [go-relax](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
+* [go-relax](https://github.com/codehack/go-relax) -用于构建RESTful API的可插入组件的框架.
 * [go-rest](https://github.com/ungerik/go-rest) -Go的小巧的REST框架.
 * [go-restful](https://github.com/emicklei/go-restful) -用于构建静态API的声明性高度可读的框架.
 * [Goat](https://github.com/bahlo/goat) -Go中的简约REST API服务器.
@@ -205,6 +205,7 @@
 * [raml2html](https://github.com/raml2html/raml2html) -从RAML文件生成HTML文档.
 * [ReDoc](https://github.com/Rebilly/ReDoc/) -由OpenAPI / Swagger支持的三面板文档.
 * [Slate](https://github.com/lord/slate) -使用Middleman的精美且响应迅速的三面板API文档.
+* [Optic](https://github.com/opticdev/optic)  -保持准确的API规范，而无需编写OpenAPI / Swagger. 适用于任何堆栈
 
 ## API Gateway
 
@@ -231,7 +232,7 @@
 ## Miscellaneous
 
 * [react-admin](https://github.com/marmelab/react-admin) -将ReactJS管理GUI添加到任何RESTful API.
-* [ng-admin](https://github.com/marmelab/ng-admin) -将AngularJS管理GUI添加到任何RESTful API.
+* [ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API.
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen) -根据OpenAPI规范（以前称为Swagger规范）自动生成客户端库或服务器存根.
 * [Lumber](https://github.com/ForestAdmin/lumber) -生成应用程序的管理界面.
 

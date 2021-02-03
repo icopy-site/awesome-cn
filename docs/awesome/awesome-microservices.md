@@ -44,7 +44,7 @@
 - [Open Liberty](https://openliberty.io/) -一个轻量级的开放框架，用于构建快速有效的云原生Java微服务.
 - [Orbit](https://github.com/orbit/orbit) -JVM语言的现代框架，使构建和维护分布式和可伸缩的在线服务变得更加容易.
 - [SmallRye](https://smallrye.io/) -专为云开发量身定制的API和实现，包括Eclipse MicroProfile.
-- [Thorntail](https://thorntail.io/) -通过将Java EE应用程序打包到足够的服务器运行时中来打包和运行Java EE应用程序的一种创新方法，以“ java -jar”您的应用程序.
+- [Thorntail](https://thorntail.io/) -一种新颖的打包和运行Java EE应用程序的方法，方法是将它们与足够的服务器运行时打包在一起，以“ java -jar”应用程序.
 - [ScaleCube](https://github.com/scalecube/scalecube) -用于为JVM构建响应式微服务的工具包：低延迟，高吞吐量，可扩展且具有弹性.
 - [Vert.X](http://vertx.io/) -用于在JVM上构建响应式应用程序的工具包.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) -一组Vert.x组件，用于构建响应式微服务应用程序.
@@ -206,7 +206,7 @@
 - [Restify](http://restify.com/) -专为使您能够构建正确的REST Web服务而构建的Node.js模块.
 - [Seneca](http://senecajs.org/) -用于Node.js的微服务工具包
 - [Serverless](https://github.com/serverless/serverless) -构建和维护在AWS Lambda和API网关（以前称为JAWS）上运行的Web，移动和IoT应用程序.
-- [Steriods Framework](https://github.com/99xt/steroidslibrary) -Steroids框架通过使开发人员能够将更多的精力放在业务/域逻辑上，而不是过多地关注技术细节，从而简化了使用TypeScript的无服务器微服务的开发.
+- [Steriods Framework](https://github.com/99xt/steroidslibrary) -类固醇框架通过使开发人员能够将更多的精力放在业务/域逻辑上，而不是过多地关注技术细节，从而简化了使用TypeScript的无服务器微服务的开发.
 
 ### Perl
 
@@ -258,7 +258,9 @@
 ## Frontend / UI
 
 - [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) -有关Micro Frontends的精选资源列表.
+- [Electrode](https://github.com/electrode-io) -通用React / Node.js应用平台.
 - [Micro Frontends](https://micro-frontends.org) -将微服务理念扩展到前端开发.
+- [MiniApp White Paper](https://w3c.github.io/miniapp/white-paper/) -MiniApp标准化白皮书.
 
 ## Capabilities
 
@@ -329,10 +331,10 @@
 
 - [Hazelcast](http://hazelcast.org/)  -开源内存数据网格. 允许您在服务器，群集和地理位置之间分布数据和计算，并管理非常大的数据集或很高的数据摄取率. 技术成熟.
 - [Helix](http://helix.apache.org/) -通用群集管理框架，用于自动管理节点群集上托管的分区，复制和分布式资源.
-- [Ignite](http://ignite.apache.org/) -高性能，集成和分布式内存平台，用于实时计算和处理大规模数据集，比传统的基于磁盘或闪存技术的速度快几个数量级.
+- [Ignite](http://ignite.apache.org/) -高性能，集成的分布式内存平台，用于实时处理和处理大规模数据集，比传统的基于磁盘或闪存的技术快几个数量级.
 - [Libp2p](https://libp2p.io/) -用于构建对等网络应用程序的协议框架和协议套件.
 - [Marathon](https://mesosphere.github.io/marathon/) -在Apache Mesos之上大规模部署和管理容器（包括Docker）.
-- [Mesos](https://mesos.apache.org/) -从计算机（物理或虚拟）中提取CPU，内存，存储和其他计算资源，从而可以轻松地构建和有效运行容错和弹性的分布式系统.
+- [Mesos](https://mesos.apache.org/) -从计算机（物理或虚拟）中提取CPU，内存，存储和其他计算资源，使容错和弹性的分布式系统易于构建和有效运行.
 - [Nomad](https://www.nomadproject.io/) -分布式，高可用性，数据中心感知的调度程序.
 - [Onyx](https://github.com/onyx-platform/onyx) -Clojure的分布式，无主控，高性能，容错数据处理.
 - [Ordasity](https://github.com/boundary/ordasity) -旨在将持久或长期存在的工作负载分散到多台计算机上.
@@ -596,7 +598,7 @@
 - [RFC7049](http://tools.ietf.org/search/rfc7049) -简洁的二进制对象表示（CBOR）.
 - [BSON](http://bsonspec.org/) -二进制JSON（BSON）.
 - [JSON-LD](http://json-ld.org/) -用于链接数据的JSON.
-- [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
+- [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) -简单二进制编码（SBE）.
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
 
 ### Vocabularies
@@ -634,8 +636,8 @@
 - [Benchmark Requirements for Microservices Architecture Research](https://goo.gl/14ElnV) <sup>：small_orange_diamond：PDF</sup> -设置的要求，可能在选择社区拥有的建筑基准，以支持重复的微服务研究是有用的.
 - [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) -基于实际经验的实用概述，介绍了构建微服务需要了解的内容.
 - [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) <sup>：small_orange_diamond：PDF</sup> -一致性，逻辑单调性.
-- [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) -通过将更改缓慢推广到一小部分用户，然后再将其推广到整个基础架构并提供给所有人的方式，来降低将新软件版本引入生产环境的风险.
-- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) -声明分布式计算机系统不可能同时提供以下三个保证：一致性，可用性和分区容限.
+- [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) -通过将更改缓慢推广到一小部分用户，然后再将其推广到整个基础架构并提供给所有人的方式，来降低在生产环境中引入新软件版本的风险的技术.
+- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) -  States that it is impossible for a distributed computer system to simultaneously provide all three of the following guarantees: Consistency, Availability and Partition tolerance.
 - [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf)  <sup>：small_orange_diamond：PDF</sup> -无服务器计算抽象公开了几个低级别的操作细节，使人们很难程序员对自己的代码写入和原因. 本文通过提出λ（无服务器计算本质的一种操作语义）阐明了这个问题.
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/) -Uber Engineering概述的微服务架构通用方法，称为“面向领域的微服务架构”（DOMA）.
 - [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)  -您可以使用本指南来了解什么是Java微服务，如何构建和构建它们. 另：看一下Java微服务库和常见问题.
@@ -654,7 +656,7 @@
 
 ### Sites & Organizations
 
-- [Cloud Native Computing Foundation](https://www.cncf.io/) -Cloud Native Computing Foundation建立了可持续的生态系统，并围绕一系列高质量的项目构建了社区，这些项目将容器编排为微服务架构的一部分.
+- [Cloud Native Computing Foundation](https://www.cncf.io/) -Cloud Native Computing Foundation建立了可持续的生态系统，并围绕一系列高质量的项目建立了社区，这些项目将容器编排为微服务架构的一部分.
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) -云原生技术的互动格局.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) -Martin Fowler的文章，视频，书籍和播客的选择可以教会您更多有关微服务架构风格的信息.
 - [Microservice Patterns](http://microservices.io/) -微服务架构模式和最佳实践.

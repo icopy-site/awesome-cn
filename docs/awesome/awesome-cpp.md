@@ -270,7 +270,7 @@
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)  -用于检测文件中SHA-1冲突的库和命令行工具.  [麻省理工学院]
 * [Tink](https://github.com/google/tink)  -一种多语言，跨平台的库，提供安全，易于正确使用且难以滥用的加密API.  [Apache-2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) -C型小型便携式AES128 / 192/256.[PublicDomain]
-* [Themis](https://github.com/cossacklabs/themis)  -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有向前保密性的安全套接字.  [Apache2]
+* [Themis](https://github.com/cossacklabs/themis)  -用于移动和服务器平台的无痛数据安全加密库，提供对称和非对称加密，具有前向保密性的安全套接字.  [Apache2]
 
 ## CSV
 *用于解析逗号分隔值（CSV）文件的库*
@@ -842,7 +842,7 @@
 *有用的库或工具不适合上述类别，或者可能尚未归类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)  -一种用于计算对c ++程序中成员变量的访问的工具.  [GPL3]
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在给定时间和最少示例输入的情况下自动发现错误.  [Apache2]
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在一定时间和最少示例输入的情况下自动发现错误.  [Apache2]
 * [Better String](http://bstring.sourceforge.net)  -C字符串库的替代方法，它的功能更强大，并且没有缓冲区溢出超限问题. 还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  -托管信号和时隙系统的实现.  [促进]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  -受Python内置函数和itertools库启发的基于范围的for循环插件.  [BSD-2-Clause]
@@ -1076,6 +1076,7 @@
 * [Standard C++](https://isocpp.org/) ：zap：-有关标准C ++的新闻，状态和讨论.
 * [CppCon](http://cppcon.org/) -C ++会议.
 * [C++ reference](http://cppreference.com/) -C ++ 98，C ++ 03，C ++ 11，C ++ 14参考.
+* [C++ by Example](http://www.cbyexample.com/) -通过示例学习C ++.
 * [cplusplus.com](http://www.cplusplus.com/) -C ++资源网络.
 * [C FAQ](http://c-faq.com/) -C常见问题.
 * [C++ FAQ](http://www.parashift.com/c++-faq/) -C ++常见问题.

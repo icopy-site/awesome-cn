@@ -25,6 +25,7 @@
 - [Calibre](https://calibreapp.com) -Web性能监控SaaS.
 - [treo.sh](https://treo.sh/) -Web性能监控SaaS.
 - [SpeedCurve](https://speedcurve.com/) -Web性能监控SaaS.
+- [AwesomeTechStack](https://awesometechstack.com/) -网站性能监控工具.
 
 ---
 
@@ -52,7 +53,7 @@
 
 处理用户输入的浏览器主线程也是执行JavaScript的一个（在许多其他事物中）. 阻塞主线程时间过长会使页面无响应.
 
-用户将100ms内的任何视觉变化视为瞬间. 任何通过“花费超过50毫秒的时间来阻塞主线程”的任务都被认为是一项长任务**（因为这可能会使浏览器对用户输入无响应）.
+用户将100ms内的任何视觉变化视为瞬间. 任何通过“花费超过50毫秒的时间来阻塞主线程”的任务都被视为一项长任务**（因为这可能会使浏览器对用户输入无响应）.
 
 为了优化交互性指标，例如 [Total Blocking Time (TBT)](#total-blocking-time-tbt) 和 [First Input Delay (FID)](#first-input-delay-fid) you have to underst和 long tasks 和 how to avoid them as much as possible.
 

@@ -183,7 +183,7 @@ WebWorker中的大多数核心角度框架.
 
 ##### HTTP
 
- HttpClient为Angular应用程序提供了简化的客户端HTTP API，该API基于浏览器公开的XMLHttpRequest接口.  HttpClient的其他优点包括可测试性功能，类型化的请求和响应对象，请求和响应拦截，可观察的api和简化的错误处理.
+The HttpClient offers a simplified client HTTP API for Angular applications that rests on the XMLHttpRequest interface exposed by browsers. Additional benefits of HttpClient include testability features, typed request and response objects, request and response interception, Observable apis, and streamlined error handling.
 
 * [Official HttpClient](https://angular.io/guide/http)
 
@@ -297,7 +297,7 @@ WebWorker中的大多数核心角度框架.
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) 曼宁出版物
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉·沙玛（Ankit Sharma）`
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉尔·沙尔玛`
 
 #### On-Site Training
 
@@ -342,7 +342,7 @@ WebWorker中的大多数核心角度框架.
   * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-*赫里斯托（Hristo Georgiev）
+*赫里斯托·格奥尔基耶夫
 
   * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
 
@@ -530,7 +530,7 @@ WebWorker中的大多数核心角度框架.
 #### Layout Components
 
 * [angular-fullpage](https://github.com/alvarotrigo/angular-fullpage) fullPage.js（全屏滚动库）的官方组件.
-* [angular-split](https://github.com/bertrandg/angular-split) Angular split component
+* [angular-split](https://github.com/bertrandg/angular-split) 角剖分组件
 * [angular2-infinite-scroll](https://www.npmjs.com/package/angular2-infinite-scroll) -Angular2的无限滚动指令（基于Observable）
 * [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/tree/master/packages/ngx-infinitegrid) -根据各种布局类型（例如Angular的砌体）排列无限的卡片元素.
 * [ng2-card](https://github.com/c-bata/ng2-card) -Angular2的卡片视图组件
@@ -744,13 +744,14 @@ WebWorker中的大多数核心角度框架.
 * [angular-app-example](https://github.com/daixianceng/angular-app-example) -最新的Angular +材质+ Sass主题+更漂亮的功能，仪表板应用程序示例
 * [NG-MATERO](https://github.com/ng-matero/ng-matero) -此Ng-Matero是用Material组件制成的Angular管理模板.
 * [TinkoffCreditSystems/angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) -一个用于为Angular创建开源库的入门项目
+* [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) -完整的Angular 10，NgRx，Angular CLI和Angular Material入门项目
 * [**{{** add_your_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 ---
 
 #### Ionic 2 in Angular 2
 
-> Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
+&gt; Ionic是精美的开源前端SDK，用于使用Web技术开发混合移动应用程序.
 
 * [Ionic Framework](https://ionicframework.com) 离子框架官方网站
 * [Ionic Documentation](https://ionicframework.com/docs/) 离子框架官员
@@ -845,7 +846,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 #### Babel Plugins
 
-* [babel-preset-angular2](https://github.com/shuhei/babel-preset-angular2) Angular2的Babel预设
+* [babel-preset-angular2](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
 * [babel-plugin-type-assertion](https://github.com/shuhei/babel-plugin-type-assertion) rtts_assert的实验babel变压器插件
 
 ---
@@ -971,7 +972,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 #### Security
 
- *因此，您认为使用AngularJS安全吗？ 再想一想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) -Lewis Ardern在OWASP London 2017上的演讲
+ *因此，您认为使用AngularJS安全吗？ 再想想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) -Lewis Ardern在OWASP London 2017上的演讲
   ##### 认证方式
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)

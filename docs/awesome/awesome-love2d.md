@@ -9,7 +9,7 @@
 ## 3D
 *以3D为中心的图书馆*
 
-* [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) -LÖVE的绝佳3D引擎.
+* [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - An awesome 3D engine for LÖVE.
 * [anim9](https://github.com/excessive/anim9) -3D骨骼动画库（设计用于IQM和IQE）
 * [Brinevector3D](https://github.com/flamendless/brinevector3D) -启用FFI的3D矢量库（x，y，z）
 * [bump-3dpd](https://github.com/oniietzschan/bump-3dpd) -Lua的3D碰撞检测库.
@@ -17,7 +17,7 @@
 * [IQM](https://github.com/excessive/iqm-exm) -Inter-Quake模型加载器（二进制）
 * [love-gltf](https://gitlab.com/Alloyed/love-gltf)  -gltf资产加载器和测试渲染器； 支持骨骼动画和变形目标 
 * [Lovox](https://github.com/tjakka5/Lovox) -用于体素的伪3D库
-* [ss3d](https://github.com/groverburger/ss3d) -用于love2d的简单易用的3d引擎
+* [g3d](https://github.com/groverburger/g3d) -LÖVE的简单3D引擎.
 * [model_renderer](https://github.com/xiejiangzhi/model_renderer) -love2d的简单3d模型渲染器
 
 
@@ -54,7 +54,7 @@
 
 * [FPSGraph](https://github.com/icrawler/FPSGraph) -小型FPS绘图工具
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) -基于FPSGraph的小型OO FPS图形实用性
-* [Lovebird](https://github.com/rxi/lovebird) -基于浏览器的调试控制台
+* [Lovebird](https://github.com/rxi/lovebird) - Browser-based debug console
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) -内联控制台式调试器实用程序
 * [lurker](https://github.com/rxi/lurker) -在正在运行的游戏中自动交换已更改的Lua文件
 * [LÖVE API](https://github.com/love2d-community/love-api) -Lua表中LÖVE的完整API文档
@@ -94,13 +94,13 @@
 ## <a name="helper"></a>Helper Libraries
 *提供可重用功能的特定于游戏的库捆绑包*
 
-* [astray](https://github.com/SiENcE/astray) -Astray是基于lua的迷宫，房间和地下城生成库，用于地下城爬虫和类Rogue游戏
+* [astray](https://github.com/SiENcE/astray) -Astray是一个基于lua的迷宫，房间和地下城生成库，用于地下城爬虫和类Rogue游戏
 * [batteries](https://github.com/1bardesign/batteries/) -填写lua的稀疏标准库，并提供对游戏有用的通用算法和数据结构的实现.
 * [cartographer](https://github.com/tesselode/cartographer) -小瓷砖地图加载器和抽屉.
 * [clove](https://github.com/YoungNeer/clove) -帮助程序库，可让您快速加载大量资产
 * [hump](https://github.com/vrld/hump)  -用LÖVE开发游戏的工具集合（游戏状态，计时器/补间，向量，类，信号，摄像机）. 回购处于非活动状态，但仍在改进中 [this fork](https://github.com/HDictus/hump/tree/temp-master) （分支临时主）
 * [iffy](https://github.com/YoungNeer/iffy) -LÖVE的SpriteSheet和Tileset帮助程序库
-* [knife](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
+* [knife](https://github.com/airstruck/knife) -收集Lua有用的微模块（类，状态机，绑定，链，协程，事件，记忆，实体，测试，计时器）
 * [shard](https://github.com/MineGame159/shard) -有用的迷你模块的集合
 * [lovely-windows](https://github.com/flamendless/lovely-windows) -虚拟窗口的窗口/屏幕管理器模块.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) -LuaLÖVE引擎的状态切换器类
@@ -121,6 +121,7 @@
 
 * [baton](https://github.com/tesselode/baton) -LÖVE的输入库可弥合键盘和游戏手柄之间的距离
 * [boipushy](https://github.com/adnzzzzZ/boipushy) -简单易用的输入处理程序
+* [input](https://github.com/xiejiangzhi/input)  -简单而强大的输入库. 支持检查操作时间，顺序.
 * [love-microphone](https://github.com/LPGhatguy/love-microphone) -对LÖVE的简单麦克风支持
 * [LoveKeys](https://github.com/SpaceCat-Chan/LoveKeys) -一个简单的输入处理库，可为您跟踪情况
 * [tactile](https://github.com/tesselode/tactile) -简单易用的输入库
@@ -199,14 +200,15 @@
 * [LoveDos](https://github.com/rxi/lovedos) -用于2D DOS游戏的Lua框架，实现了LÖVEAPI的子集
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) -Windows Phone 8.1的进行中端口
 * [LovePotion](https://github.com/TurtleP/LovePotion) -用于Nintendo 3DS和Nintendo Switch Homebrew的LÖVEAPI的非官方正在进行中的实现
-* [Love.js](https://github.com/TannerRogalsky/love.js) -使用Emscripten将LÖVE移植到网络上
+* [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) -OneLua，lpp-vita和Lua Player PS3的小型包装
+* [Love.js](https://github.com/Davidobot/love.js) -使用Emscripten将LÖVE移植到网络上
 * [LÖVR](https://github.com/bjornbytes/lovr) -适用于虚拟现实设备的LÖVE
 
 ## Publishing
 *在第三方商店中分发LÖVE游戏的指南*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) -包装LÖVE游戏以在Snappy商店中分发的模板
-* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可运行在基于Linux的常见操作系统（例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上的AppImages； 一局=一局
+* [AppImageKit](https://github.com/AppImage/AppImageKit)  -使用AppImageKit，您可以将LÖVE游戏打包为可在基于Linux的常见操作系统（例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品）上运行的AppImages； 一局=一局
 
 ## Serialization
 *保存游戏和存储库*
@@ -237,7 +239,7 @@
 * [Lunatest](https://github.com/silentbicycle/lunatest) -xUnit风格的随机单元测试框架
 * [lust](https://github.com/bjornbytes/lust) -最小的测试框架
 * [Specl](http://gvvaughan.github.io/specl/) -行为驱动开发（BDD）工具
-* [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
+* [Telescope](http://norman.github.io/telescope/) -高度可定制的BDD风格的测试库
 
 ## Tweening
 *平滑和计时器库*

@@ -190,6 +190,7 @@
   1. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
+  1. [Bergamot](https://bergamot.io/)  -通过监视超过150,000家公司的职业页面，提供最广泛的远程技术工作选择. 全文搜索和内置AI的地理过滤器. 免费，无需注册.
   1. [Career Vault](https://www.careervault.io)  -每天从数千个公司职业页面上添加数百个远程工作. 免费，无需注册.
   1. [Findwork](https://findwork.dev/) 通过Glassdoor（审阅）和Crunchbase（资金）来搜寻多个工作委员会并丰富工作职位.
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)   –来自多个董事会和雇主地点的汇总，对位置，职位类型等敏感. 了解如何使用它 [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
@@ -277,7 +278,7 @@
   1. [AgentFire](https://agentfire.com/meet-our-team/) -由Wordpress提供支持的超级本地房地产网站.
   1. [Aha!](https://www.aha.io/company/careers/current-openings)  -啊哈！ 是为希望恢复魔力的PM的路线图软件.
   1. [AirTreks](https://www.airtreks.com/about/) -分布团队的多站国际飞行计划员.
-  1. [Alley](https://alley.co/jobs/)  -数字代理. 我们是战略家，研究人员，设计师和开发商，他们为出版商，非营利机构，博物馆和品牌提供定制的数字体验.
+  1. [Alley](https://alley.co/jobs/)  -数字代理. 我们是策略师，研究人员，设计师和开发商，他们为出版商，非营利机构，博物馆和品牌提供定制的数字体验.
   1. [ALICE](https://www.aliceplatform.com/careers/)  -远程友好的启动公司. 我们正在为酒店业创建全球运营平台. 爱丽丝（ALICE）为世界上最好的酒店提供强大的住宿体验.
   1. [amazee.io](https://www.amazee.io/careers)  -开源容器托管-高性能，灵活的解决方案.  Kubernetes，TypeScript（Node.js和React），Go，GraphQL.
   1. [Ameego](http://ameego.ca/) -餐厅调度软件.
@@ -345,7 +346,7 @@
   1. [General Assembly](https://generalassemb.ly/careers) -针对技术，商业和设计的体育和在线教育.
   1. [Ghost](https://ghost.org/about/#careers) -发布平台.
   1. [Giant Swarm](https://www.giantswarm.io/careers) -Giant Swarm的托管微服务基础架构使企业能够大规模运行敏捷，有弹性的分布式系统，同时消除与管理复杂的基础架构相关的任务
-  1. [Gigster](https://gigster.com/)  -审查了全球前5％自由职业者的网络. 下午，开发，销售职位可用.
+  1. [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
   1. [Gitbook](https://jobs.gitbook.com/)  -基于git发布工具链.  JavaScript，node.js，Go.
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) -GitHub的竞争对手.
@@ -362,7 +363,7 @@
   1. [Help Scout](https://www.helpscout.net/careers/) -适用于坚持提供愉快客户体验的团队的服务台.
   1. [Heroku](https://www.heroku.com/careers) -PaaS Cloud，使开发人员的体验很棒，包括Ruby，Erlang，JavaScript，Golang，Python.
   1. [Honeybadger](https://www.honeybadger.io/) 露比 100％远程.
-  1. [Hotjar](https://careers.hotjar.com/) - Analytics & Feedback tool.
+  1. [Hotjar](https://careers.hotjar.com/) -分析和反馈工具.
   1. [Hubstaff](https://hubstaff.com/jobs) -具有多个集成的时间跟踪解决方案.
   1. [Igalia](https://www.igalia.com/about-us/form)  -开源咨询. 总部设在西班牙.
   1. [Incsub](https://incsub.com/careers/) -建立WordPress专案的远端小组.

@@ -164,6 +164,7 @@
 -  [brands-tail-color](https://brands-tail-color.vercel.app/) -使用各种品牌颜色的配置生成器.
 -  [Typography Playground](https://tailwind-typography-playground.vercel.app/) -使用Tailwind CSS Typography插件尝试不同Google字体组合的工具.
 -  [Play](https://play.tailwindcss.com/) -先进的Tailwind CSS在线游乐场.
+-  [Updrafts.app](https://updrafts.app/) -用于Tailwind CSS的高级在线无代码拖放编辑器.
 -  [tailwind.run](https://tailwind.run) -带有内置功能的Tailwind CSS提琴（在线）.
 -  [tailzilla.app](https://tailzilla.app) -Tailwind CSS的在线游乐场.
 -  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) -Tailwind类的前缀工具.
@@ -205,7 +206,7 @@
 **传奇**：官方资源·库·组件·模板
 
 -  [Tailwind UI](https://tailwindui.com) -使用Tailwind CSS制作的组件库.
-- 💙📚 [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
+-  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的，对开发人员友好的付费模板.
 -  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值，易于自定义的模板.
@@ -273,7 +274,7 @@
 -  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
 -  [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
 -  [Eleventy Starter](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) -使用Tailwind CSS的可用于生产环境且SEO友好的博客启动器.
--  [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) -使用Vite，React和Tailwind CSS的样板.
+-  [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
 -  [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) -使用Vite，Vue，Vue Router和Tailwind CSS的入门模板.
 -  [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) -使用Vue和Tailwind CSS的Shopify主题开发入门.
 -  [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) -使用Tailwind CSS和Alpine JS的仪表板布局.
