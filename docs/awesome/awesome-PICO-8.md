@@ -69,7 +69,7 @@
 - [Pico-8 Carts Downloader - Bash ](https://github.com/kikookoubis/pico-8-carts-bash-downloader) -从BBS下载磁带（单个购物车，整个索引或转储您喜欢的条目）并根据其元数据对其进行重命名.
 - [p8 responsive webplayer transform](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) -使HTML导出页面具有响应能力的Python脚本.
 - [Color Palette](https://www.romanzolotarev.com/pico-8-color-palette/) -网络的十六进制和RGB颜色代码.
-- [PICO-8 font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view) -由 [RhythmLynx](https://www.lexaloffle.com/bbs/?uid=11704).
+- [PICO-8 font](https://www.lexaloffle.com/bbs/?tid=3760) -由 [RhythmLynx](https://www.lexaloffle.com/bbs/?uid=11704).
 - [pico-test](https://github.com/jozanza/pico-test) -PICO-8测试框架.
 - [Lib-Pico8](https://github.com/clowerweb/Lib-Pico8) -具有有用的常用功能的Pico-8库.
 - [pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins) -为pico8提供Lua内置功能.
@@ -91,6 +91,7 @@
 -原子： [language-pico8](https://atom.io/packages/language-pico8)
 -崇高： [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) -Sublime Text编辑器的PICO-8插件（配色方案，字体，构建系统，代码完成，代码段...）.
 - 我来了： [vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)
+-Emacs： [pico8-mode](https://github.com/Kaali/pico8-mode)
 
 ### Programming Fonts
 
@@ -144,4 +145,4 @@
 
 在法律允许的范围内， [Felipe Bueno](https://twitter.com/felipebueno) 放弃了此作品的所有版权以及相关或邻近的权利.
 
-See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 欲获得更多信息.
+See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 想要查询更多的信息.

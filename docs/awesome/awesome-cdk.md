@@ -3,7 +3,7 @@
 
 &gt;精选列表很棒 [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) （AWS CDK）开源项目，指南，博客和其他资源.
 
-AWS Cloud Development Kit（AWS CDK）是一个开源软件开发框架，用于在代码中定义云基础架构.
+The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework for defining cloud infrastructure in code.
 
 
 
@@ -35,6 +35,7 @@ AWS Cloud Development Kit（AWS CDK）是一个开源软件开发框架，用于
 * [c3](https://github.com/SSHcom/c3) -符合隐私和安全最佳做法.
 * [cdk-iam-floyd](https://github.com/udondan/iam-floyd) -具有流畅接口的IAM策略声明生成器.
 * [k9-cdk](https://github.com/k9securityio/k9-cdk) -轻松生成安全的S3存储桶策略.
+* [cdk-cloudfront-authorization](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) -使用Lambda @ Edge进行Cognito身份验证的CloudFront.
 
 ### Ops
 
@@ -84,7 +85,7 @@ AWS Cloud Development Kit（AWS CDK）是一个开源软件开发框架，用于
 
 ## Language Support
 
-* [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) - A Wrapper library of [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk) .  CI自动生成代码，并每天进行部署.
+* [AWS-CDK-Kotlin-DSL](https://github.com/justincase-jp/AWS-CDK-Kotlin-DSL) -的包装器库 [AWS CDK Java](https://mvnrepository.com/artifact/software.amazon.awscdk) .  CI自动生成代码，并每天进行部署.
 * [aws-cdk-maven-plugin](https://github.com/LinguaRobot/aws-cdk-maven-plugin) -使用Java和Maven定义和部署AWS CDK应用程序的插件.
 * [aws-lambda-nodejs-webpack](https://github.com/vvo/aws-lambda-nodejs-webpack) -使用以下替代Node.js lambda CDK构造 [webpack](https://webpack.js.org/).
 * [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild) -使用以下替代Node.js lambda CDK构造 [esbuild](https://github.com/evanw/esbuild).

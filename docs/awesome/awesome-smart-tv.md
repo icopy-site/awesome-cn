@@ -47,8 +47,8 @@
 #### Third-party remote control libraries
 * [lgtv2](https://github.com/hobbyquaker/lgtv2) -Node.js模块，用于通过WebSocket消息（JavaScript）远程控制LG webOS TV.
 * [node-red-contrib-lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) -模块 [Node-RED](https://nodered.org) 允许远程控制LG webOS智能电视（JavaScript）.
-* [node-webos](https://github.com/WeeJeWel/node-webos) -Node.js模块，用于发现和控制WebOS电视（JavaScript）.
-* [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT (JavaScript).
+* [node-webos](https://github.com/WeeJeWel/node-webos) - Node.js module to discover and control webOS TVs (JavaScript).
+* [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) -LG WebOS智能电视和MQTT（JavaScript）之间的接口.
 * [ares-webos-sdk](https://github.com/stevenvong/ares-webos-sdk) -webOS [CLI](http://webostv.developer.lge.com/sdk/using-webos-tv-cli/) 作为单独的NPM模块（JavaScript）.
 * [pylgtv](https://github.com/TheRealLink/pylgtv) -用于控制基于webOS的LG Tv设备的库（Python）.
 * [LGWebOSRemote](https://github.com/klattimer/LGWebOSRemote) -用于LG TV的webOS远程控制的命令行工具（Python）.
@@ -81,7 +81,7 @@
 * [TVs with Chromecast built-in](https://www.google.com/chromecast/built-in/tv/) -支持内置Chromecast的厂商列表以及相对于传统电视遥控器的优势.
 
 ## Cross-platform frameworks
-* [react-tv](https://github.com/raphamorim/react-tv) -TV的React开发：适用于低内存应用程序的渲染器，以及适用于WebOS，Tizen和Orsay的Packager.
+* [react-tv](https://github.com/raphamorim/react-tv) -TV的React开发：适用于低内存应用程序的渲染器以及适用于WebOS，Tizen和Orsay的Packager.
 * [TOAST](http://developer.samsung.com/tv/develop/extension-libraries/toast/) -开发多平台电视应用程序的三星开源框架.
 * [Enyo](http://enyojs.com) -LG框架，适用于从电话和平板电脑到PC和电视的所有主要平台的开发应用程序.
 * [Smartbox](https://github.com/immosmart/smartbox) -适用于三星，LG，飞利浦，SmartTV Aliance，STB Mag应用程序开发的智能电视通用库.
@@ -104,6 +104,7 @@
 
 ## Testing
 * [Suitest](https://suite.st) -用于智能电视，游戏机，流媒体棒等的测试自动化解决方案.
+* [stb-tester](https://github.com/stb-tester/stb-tester) -机顶盒和智能电视（python）的自动用户界面测试.
 
 ## Misc
 * [LIRC](http://lirc.org) -允许您解码和发送许多（但不是全部）常用遥控器的红外信号的软件包.

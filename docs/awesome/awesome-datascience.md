@@ -20,7 +20,7 @@
 | [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science)  |  _数据科学家将企业家精神与耐心，逐步建立数据产品的意愿，探索能力以及迭代解决方案的能力结合在一起. 它们本质上是跨学科的. 他们可以解决问题的所有方面，从初始数据收集和数据条件处理到得出结论. 他们可以跳出框框思考，提出解决问题的新方法，或者解决非常广泛定义的问题：“这里有很多数据，您可以从中得到什么？”
 | [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science)  | 数据科学是数据的许多方面的组合，例如技术，算法开发和数据干扰，以研究数据，分析数据并找到解决难题的创新方法. 基本上，数据科学就是关于分析数据并通过寻找创新方式来推动业务增长的.  |
 | [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)  |  _当今的数据科学家类似于1980年代和1990年代的华尔街“数量”. 那时，具有物理学和数学背景的人们涌向投资银行和对冲基金，在那里他们可以设计出全新的算法和数据策略. 然后，各式各样的大学开发了金融工程硕士学位课程，从而培养出了第二代人才，主流企业更容易获得这些人才. 在1990年代后期，搜索工程师重复了这种模式，搜索工程师的稀有技能很快就被计算机科学程序所教授.
-| [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学的方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
+| [Wikipedia](https://en.wikipedia.org/wiki/Data_science)  |  _数据科学是一个跨学科领域，它使用科学方法，过程，算法和系统从许多结构化和非结构化数据中提取知识和见解. 数据科学与数据挖掘，机器学习和大数据有关.
 | [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/)  |  _数据科学家是大数据争吵者，负责收集和分析大量结构化和非结构化数据. 数据科学家的角色结合了计算机科学，统计学和数学. 他们分析，处理和建模数据，然后解释结果以为公司和其他组织创建可行的计划.
 | [a very short history of #datascience](http://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/)  |  _有关数据科学家如何变得性感的故事主要是关于将成熟的统计学学科与非常年轻的一门学科-计算机科学结合起来的故事. 直到最近才出现“数据科学”一词，专门指代一种新的专业，有望理解大量的大数据存储. 但是，了解数据的历史由来已久，并且已经由科学家，统计学家，图书馆员，计算机科学家和其他人讨论了多年. 以下时间线追溯了“数据科学”一词的演变及其用途，对其进行定义的尝试以及相关术语.
 
@@ -51,7 +51,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
   -C4.5算法
 -合奏学习
 -提升
--套袋
+- Bagging
 -随机森林
 -AdaBoost
 
@@ -210,7 +210,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Optimus](https://github.com/ironmussa/Optimus)  | 带有PySpark后端的清理，预处理，功能工程，探索性数据分析和简易ML.  |
 | [Albumentations](https://github.com/albu/albumentations)  | 快速且与框架无关的图像增强库，可实现多种增强技术. 支持分类，细分，开箱即用的检测. 曾经在Kaggle，Topcoder和CVPR研讨会的一部分中赢得过许多深度学习竞赛.  |
 | [DVC](https://github.com/iterative/dvc)  | 开源数据科学版本控制系统. 它有助于跟踪，组织和使数据科学项目可重复. 在最基本的情况下，它有助于版本控制以及共享大数据和模型文件.  |
-| [Lambdo](https://github.com/asavinov/lambdo)  | 是一个工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.  |
+| [Lambdo](https://github.com/asavinov/lambdo)  | 是一种工作流引擎，通过将一个分析管道（i）特征工程和机器学习（ii）模型训练和预测（iii）表填充和列评估结合在一起，大大简化了数据分析.  |
 | [Feast](https://github.com/feast-dev/feast)  | 用于管理，发现和访问机器学习功能的功能存储.  Feast可为模型训练和模型服务提供一致的特征数据视图.  |
 | [Polyaxon](https://github.com/polyaxon/polyaxon)  | 可重现和可扩展的机器学习和深度学习的平台.  |
 | [LightTag](https://lighttag.io)  | 团队文字注释工具|
@@ -227,6 +227,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 | [Grid Studio](https://github.com/ricklamers/gridstudio)  |  Grid studio是基于Web的电子表格应用程序，与Python编程语言完全集成.  |
 |[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)| Python数据科学手册：Jupyter Notebooks中的全文|
 | [Shapley](https://github.com/benedekrozemberczki/shapley) | A data-driven framework to quantify the value of classifiers in a machine learning ensemble.  |
+| [DAGsHub](https://dagshub.com)  | 一个基于开源工具构建的平台，用于数据，模型和管道管理.  |
 
 
 ## Machine Learning in General Purpose
@@ -441,7 +442,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 
 ## Bloggers
 
-- [Wes McKinney](http://wesmckinney.com/archives.html) - Wes McKinney Archives.
+- [Wes McKinney](http://wesmckinney.com/archives.html) -韦斯·麦金尼档案馆.
 - [Matthew Russell](https://miningthesocialweb.com/) -挖掘社交网站.
 - [Greg Reda](http://www.gregreda.com/) -Greg Reda个人博客
 - [Kevin Davenport](http://kldavenport.com/) -凯文·达文波特个人博客
@@ -742,6 +743,7 @@ Our favorite programming language is _Python_ nowadays for #DataScience. Python'
 - [StackExchange Data Explorer](http://data.stackexchange.com) -一个开源工具，用于对来自Stack Exchange网络的公共数据运行任意查询.
 - [San Fransisco Government Open Data](https://data.sfgov.org/)
 - [IBM Blog about open data](http://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know)
+- [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 - [Open data Index](http://index.okfn.org/)
 - [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 - [GHTorrent](http://ghtorrent.org/)

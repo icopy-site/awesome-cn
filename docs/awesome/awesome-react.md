@@ -99,12 +99,13 @@
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) -隔离的React组件开发环境以及生活指南
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) -用于创建可重复使用的React组件的开发工具
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) -对ESLint的特定掉毛规则做出反应
-- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
+- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) -JSX元素上的a11y规则的静态AST检查器
 - [@axe-core/react](https://github.com/dequelabs/axe-core-npm) -React应用程序的可访问性审核
 - [codesandbox](https://codesandbox.io/s/new) -使用集成的React DevTools进行快速React开发的在线IDE.
 - [DataFormsJS JSX Loader](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.md) -小型JavaScript编译器，可直接在网页上快速将JSX转换为JS
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) -猴子补丁反应可通知您有关可避免的重新渲染.
 - [Divjoy](https://divjoy.com) -React代码库和UI生成器以加快开发速度（收费）
+- [Plasmic](https://www.plasmic.app/) -强大的设计工具，可直观地构建您的React组件.
 
 ##### React Frameworks
 
@@ -179,7 +180,7 @@
 - [react-spaces](https://github.com/aeagle/react-spaces) -可调整大小的可嵌套，锚定，可滚动组件
 - [react-dates](https://github.com/airbnb/react-dates) -适用于网络的易于国际化，移动友好的日期选择器库
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - ReactJS Datepicker
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
 - [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
 - [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
 - [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
@@ -192,7 +193,7 @@
 - [react-text-mask](https://github.com/text-mask/text-mask) -React的输入掩码
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) -创建自动适应您的应用程序的框架屏幕
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) -用CSS动画化的React加载指示器集合
-- [rheostat](https://github.com/airbnb/rheostat) -使用React构建的可访问滑块组件
+- [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
 - [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
 - [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) -为React制作的PDF查看器
@@ -238,7 +239,7 @@
 - [react-icons](https://github.com/gorangajic/react-icons) -svg反应常用图标包的图标
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) -很棒的免费插图作为反应成分.
 - [Keo](https://github.com/Wildhoney/Keo) -普通函数，用于创建React组件的更具功能性的Deku方法，并具有管道，备忘录等功能性功能.
-- [Bit](https://github.com/teambit/bit) - A virtual repository for managing and using react and other web components across applications
+- [Bit](https://github.com/teambit/bit) -虚拟仓库，用于跨应用程序管理和使用React和其他Web组件
 - [AtlasKit](https://atlaskit.atlassian.com/) -Atlassian的React UI库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) -Elasticsearch的UI组件库
 - [Slate](https://github.com/ianstormtaylor/slate) -用于构建富文本编辑器的完全可自定义的框架.
@@ -249,7 +250,7 @@
 - [Stator](https://github.com/cs01/stator) -简单，简单的JavaScript状态管理，内置对React的支持
 - [ClearX](https://github.com/Autodesk/clearx)  -零学习曲线的快速，轻松状态管理.  ClearX为React应用程序的关注点分离提供了极大的灵活性
 - [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态预呈现
-- [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
+- [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
 - [refract](https://github.com/fanduel-oss/refract) -利用反应式编程的力量为您的组件增压
 - [react-desktop](https://github.com/gabrielbull/react-desktop) -使用React构建的OS X和Windows UI组件
 - [Reapop](https://github.com/LouisBarranqueiro/reapop) -一个React＆Redux通知系统
@@ -347,14 +348,14 @@
 ##### Forms
 
 - [React Forms](http://facebook.github.io/react/docs/forms.html)
-- [react-formal](https://github.com/jquense/react-formal) - Better form validation and value management for React, Provides minimal wiring
+- [react-formal](https://github.com/jquense/react-formal) -更好的React表单验证和价值管理，提供最少的接线
 - [react-forms](https://github.com/prometheusresearch/react-forms) -React的表单库
 - [valuelink](https://github.com/Volicon/valuelink) -具有扩展的React链接的全功能双向数据绑定
 - [wingspan-forms](https://github.com/wingspan/wingspan-forms) -Facebook React的动态表单库
 - [newforms](https://github.com/insin/newforms) -React的同构表单处理
 - [formjs](https://github.com/zackify/formjs) -Reactjs的表单生成器
 - [react-form-builder](https://github.com/quri/react-form-builder) -React.js的表单生成器
-- [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) -使用JSON-Schema进行响应的动态表单组件
+- [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema
 - [tcomb-form](https://github.com/gcanti/tcomb-form) -UI库，用于开发较少编写代码的表单
 - [formsy-react](https://github.com/christianalfoni/formsy-react) -React JS的表单输入生成器和验证器
 - [Learn Raw React](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/) -荒谬的简单形式
@@ -641,7 +642,7 @@
 - [react-transmit](https://github.com/RickWong/react-transmit) -基于``JavaScript Promises&#39;&#39;的基于中继的库
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) -Facebook GraphQL的** Ruby **实现
 - [graphql-java](https://github.com/andimarek/graphql-java) -GraphQL ** Java **实现
-- [sangria](https://github.com/OlegIlyenko/sangria) -** Scala ** GraphQL客户端和服务器库
+- [sangria](https://github.com/OlegIlyenko/sangria) - **Scala** GraphQL client and server library
 - [graphql-php](https://github.com/webonyx/graphql-php) -GraphQL参考实现的** PHP **端口
 - [graphene](http://graphene-python.org/) -** Python **中的GraphQL变得简单
 - [graphqllib](https://github.com/dittos/graphqllib) -** Python **的GraphQL实现

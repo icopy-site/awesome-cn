@@ -174,11 +174,12 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 <!-- omit in toc -->
 #### Multi-Language Support
 
-- [DevSkim](https://github.com/microsoft/DevSkim) -_Microsoft_-一个IDE插件，可为多种编程语言提供内联安全性分析.
+- [DevSkim](https://github.com/microsoft/DevSkim) -_Microsoft_-一组IDE插件，CLI和其他工具，可为多种编程语言提供安全性分析.
 - [Graudit](https://github.com/wireghoul/graudit/) -_Eldar Marcussen_-Grep源代码，用于带有自定义或预配置正则表达式签名的潜在安全漏洞.
 - [Hawkeye](https://github.com/hawkeyesec/scanner-cli) -_Hawkeyesec_-用于项目安全性，漏洞和一般风险突出显示的模块化CLI工具.
 - [LGTM](https://lgtm.com/) -_Semmle_-使用自定义或内置CodeQL查询来扫描和监视代码中的安全漏洞.
 - [RIPS](https://www.ripstech.com/) -_RIPS Technologies_-针对PHP，Java和Node.js项目的自动化静态分析.
+- [SonarLint](https://www.sonarlint.org/) -_SonarSource_-一个IDE插件，突出显示潜在的安全性安全问题，代码质量问题和错误. 
 - [SonarQube](https://www.sonarqube.org/) -_SonarSource_-扫描代码以发现安全性和质量问题，并支持多种语言.
 
 <!-- omit in toc -->

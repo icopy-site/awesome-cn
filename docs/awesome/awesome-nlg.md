@@ -18,8 +18,8 @@
 - [WebNLG](https://github.com/ThiagoCF05/webnlg) -WebNLG的增强版本-用于评估常见NLG任务的资源，包括话语排序，词汇化和引用表达生成.
 - [WikiBio - wikipedia biography dataset](https://github.com/DavidGrangier/wikipedia-biography-dataset)  -该数据集从Wikipedia收集了728321份传记. 它旨在评估文本生成算法. 对于每篇文章，我们提供第一段和信息框（均标记化）.
 - [The Schema-Guided Dialogue Dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) -模式指导对话（SGD）数据集由人类和虚拟助手之间超过20k的带注释的多域，面向任务的对话组成.
-- [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus)  -从Wikipedia收集的公司描述. 数据集包含英语的51K公司的语义表示，简短描述和详细描述.
-- [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) - YelpNLG provides resources for natural language generation of restaurant reviews.
+- [The Wikipedia company corpus](https://gricad-gitlab.univ-grenoble-alpes.fr/getalp/wikipediacompanycorpus) - Company descriptions collected from Wikipedia. The dataset contains semantic representations, short, and long descriptions for 51K companies in English.
+- [YelpNLG](https://nlds.soe.ucsc.edu/yelpnlg) -YelpNLG提供自然语言生成餐厅评论的资源.
 
 ## Dialog
 
@@ -33,6 +33,7 @@
 
 - [BLEURT: a Transfer Learning-Based Metric for Natural Language Generation](https://github.com/google-research/bleurt)
 - [compare-mt](https://github.com/neulab/compare-mt) -全面分析语言生成系统的工具.
+- [GEM](https://gem-benchmark.com/) -NLG的基准环境，其重点是通过人工注释和自动指标进行评估.
 - [NLG-eval](https://github.com/Maluuba/nlg-eval) -用于自然语言生成的各种无监督自动度量的评估代码.
 - [VizSeq](https://github.com/facebookresearch/vizseq) -用于文本生成任务的可视化分析工具包.
 

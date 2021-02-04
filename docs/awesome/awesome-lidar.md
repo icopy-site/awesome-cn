@@ -23,7 +23,7 @@
 - [Velodyne](https://velodynelidar.com/)  -Velodyne是一家机械和固态激光雷达制造商. 总部位于美国加利福尼亚州圣何塞.
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VelodyneLiDAR)
   - [ROS driver :octocat:](https://github.com/ros-drivers/velodyne)
-- [Ouster](https://ouster.com/) - LIDAR manufacturer, specializing in digital-spinning LiDARs. Ouster is headquartered in San Francisco, USA.
+- [Ouster](https://ouster.com/)  -激光雷达制造商，专门从事数字旋转激光雷达.  Ouster的总部位于美国旧金山.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/Ouster-lidar)
   - [GitHub organization :octocat:](https://github.com/ouster-lidar)
 - [Livox](https://www.livoxtech.com/) -激光雷达制造商.
@@ -66,7 +66,7 @@
   - [GitHub repository :octocat:](https://github.com/Ford/AVData)
 - [Audi A2D2 Dataset](https://www.a2d2.audi) -数据集具有2D语义分割，3D点云，3D边界框和车辆总线数据的功能.
 - [Waymo Open Dataset](https://waymo.com/open/) -数据集包含激光雷达和相机数据的独立生成的标签，而不仅仅是投影.
-- [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) -牛津机器人汽车数据集包含100多次重复的，经过一年多的时间捕获的贯穿英国牛津的一致路线. 
+- [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. 
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
 - [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是在法国Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）中，使用我们的自动驾驶汽车收集的（当然是人为驾驶模式），配备了11个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
@@ -81,6 +81,8 @@
 - [UofTPed50 Dataset](https://www.autodrive.utoronto.ca/uoftped50)  -多伦多大学，autoronto的自动驾驶汽车数据集，其中包含GPS / IMU，3D LIDAR和单眼相机数据. 它可以用于3D行人检测.
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.08758.pdf)
 - [PandaSet Open Dataset](https://scale.com/open-datasets/pandaset)  -Hesai＆Scale提供的用于自动驾驶的公共大型数据集. 它使研究人员能够使用真正的自动驾驶汽车的全套传感器套件研究具有挑战性的城市驾驶情况.
+- [Cirrus dataset](https://developer.volvocars.com/open-datasets/cirrus/) 来自LIDAR扫描模式不均匀分布的公共数据集，重点是远距离. 在该数据集中使用了Luminar Hydra LIDAR. 该数据集可从沃尔沃汽车创新门户网站获得.
+  - [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
 
 ## Libraries
 

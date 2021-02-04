@@ -57,7 +57,7 @@
 
 ### Code Quality
 
-- [Radar](https://github.com/es-joy/eslint-plugin-radar) - Rules detecting bugs and suspicious patterns (Fork of SonarJS).
+- [Radar](https://github.com/es-joy/eslint-plugin-radar) -检测错误和可疑模式的规则（SonarJS的分支）.
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs)  -检测错误和可疑模式的规则. 另请参阅当前维护的fork， [Radar](https://github.com/es-joy/eslint-plugin-radar).
 - [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) -各种很棒的ESLint规则.
 
@@ -115,6 +115,7 @@
 - 流
   - [Flow](https://github.com/gajus/eslint-plugin-flowtype) -流型起毛规则.
   - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) -将Flow作为ESLint插件运行.
+- [HTML](https://github.com/yeonjuan/html-eslint) -用于HTML的ESLint插件.
 -JSON
   - [JSON](https://github.com/azeemba/eslint-plugin-json) -整理您的JSON文件.
   - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format)  -整理，格式化和自动修复JSON文件. 对您的“ package.json”进行排序.
@@ -219,7 +220,7 @@
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) -抹茶规则.
   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 - [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) -QUnit的Linting规则.
-- [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) -Testcafe的上等规则.
+- [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) - Linting rules for Testcafe.
 - [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) -测试库的整理规则.
 
 ## Parsers

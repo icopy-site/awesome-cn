@@ -133,7 +133,7 @@
 - [SimilarWeb](https://www.similarweb.com/)  -使用SameWeb.com的高级访问量估算器工具比较网站访问量. 查看任何网站的流量来源并了解其在线营销策略.
 - [SpyFu](https://www.spyfu.com/)  -无限搜索任何竞争对手的SEO或Google Ads关键字. 研究关键字，找到任何域中最强的内容及其最主要的广告文案.
 - [Twitter Analytics](https://analytics.twitter.com/) -衡量并增强您对Twitter的影响.
-- [Plausible](https://plausible.io/) -Google Analytics（分析）的一种简单且对隐私友好的替代方案.
+- [Plausible](https://plausible.io/) -Google Analytics（分析）的一种简单且对隐私友好的选择.
 
 ### Optimization
 
@@ -151,6 +151,7 @@
 - [Keyword Tool](http://keywordtool.io/)  -Google关键字工具的最佳免费替代软件，可用于SEO和PPC关键字研究！ 只需几秒钟即可从Google建议中获取750多个相关的长尾关键字！
 - [Moz Keyword Explorer](https://moz.com/explorer) -付费关键字工具，可提供精确的搜索量，关键字难度，SERP功能和自然的点击率数据.
 - [Keyword Clarity](https://keywordclarity.io)  -免费的关键字分析工具，可让您使用树形图可视化和分组关键字指标. 该工具可用于Google Search Console API和CSV中的数据.
+- [SEOwl](https://www.seowl.co) -跟踪您的关键字排名超时情况并监控反向链接 
 
 ### Links
 

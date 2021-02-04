@@ -54,6 +54,7 @@
 - [vast](https://github.com/lydiandy/vast) -一个简单的vlang工具，可将v源文件生成为AST json文件.
 - [symlinker](https://github.com/serkonda7/symlinker) -用于管理符号链接的小型Linux工具.
 - [runner](https://github.com/Naheel-Azawy/runner) -一种工具，用于自动运行/编译以各种编程语言编写的代码.
+- [vspect](https://github.com/zakuro9715/vspect) -检查vlang源文件的工具.
 
 ### Project management
 

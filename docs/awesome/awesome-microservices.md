@@ -123,7 +123,7 @@
 - [Gorilla](http://www.gorillatoolkit.org/) -用于Go编程语言的Web工具包.
 - [Iris](https://github.com/kataras/iris) -用于Go的快速，简单和高效的微型Web框架.
 - [Kite](https://github.com/koding/kite) -Go中的微服务框架.
-- [KrakenD](https://github.com/devopsfaith/krakend) -使用中间件构建超高性能API网关的框架.
+- [KrakenD](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
 - [Libchan](https://github.com/docker/libchan) -超轻量级的网络库，该网络库使网络服务的通信方式与goroutine使用通道进行通信的方式相同.
 - [Micro](https://github.com/micro/micro) -适用于云及其他环境的分布式系统运行时.
 - [Nano](https://github.com/pasztorpisti/nano) -简约，与运输无关且易于测试的微服务框架.
@@ -203,7 +203,7 @@
 - [Micro](http://github.com/zeithq/micro) -异步HTTP微服务.
 - [Micro Panda](https://github.com/zhaoyao91/micro-panda) -Node.js工具包，可帮助构建微服务.
 - [Micro-Whalla](https://github.com/czerwonkabartosz/Micro-Whalla) -用于在Node.js中编写微服务的简单，快速框架，使用RPC / IPC进行通信.
-- [Restify](http://restify.com/) -专为使您能够构建正确的REST Web服务而构建的Node.js模块.
+- [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) -用于Node.js的微服务工具包
 - [Serverless](https://github.com/serverless/serverless) -构建和维护在AWS Lambda和API网关（以前称为JAWS）上运行的Web，移动和IoT应用程序.
 - [Steriods Framework](https://github.com/99xt/steroidslibrary) -类固醇框架通过使开发人员能够将更多的精力放在业务/域逻辑上，而不是过多地关注技术细节，从而简化了使用TypeScript的无服务器微服务的开发.
@@ -252,7 +252,8 @@
 
 ### Rust
 
-- [Are we web yet?](http://www.arewewebyet.org/) -Rust中Web编程的当前状态的摘要.
+- [Actix](https://actix.rs/) -强大，实用，快速的Rust Web框架.
+- [Are we web yet?](https://www.arewewebyet.org/) -Rust中Web编程的当前状态的摘要.
 - [Tarpc](https://github.com/google/tarpc) -Rust的RPC框架，着重于易用性.
 
 ## Frontend / UI
@@ -293,10 +294,10 @@
 - [Otoroshi](https://www.otoroshi.io/) -具有轻量级API管理的现代HTTP反向代理.
 - [Skipper](https://github.com/zalando/skipper) -HTTP路由器，用于将路由与服务逻辑解耦.
 - [Spring Cloud Gateway](https://cloud.spring.io/spring-cloud-gateway/)  -Spring MVC之上的API网关. 旨在提供一种简单而有效的路由到API的方法.
-- [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
+- [Tengine](http://tengine.taobao.org/) -具有某些高级功能的Nginx发行版.
 - [Træfɪk](http://traefik.io/) -现代HTTP反向代理和负载均衡器，可轻松部署微服务.
 - [Traffic Server](https://github.com/apache/trafficserver) -云服务的高性能构建块.
-- [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
+- [Tyk](https://tyk.io/) -开源，快速且可扩展的API网关，门户和API管理平台.
 - [Vulcand](https://github.com/vulcand/vulcand) -由Etcd支持的程序化负载均衡器.
 - [Zuul](https://github.com/Netflix/zuul) -提供动态路由，监视，弹性，安全性等的边缘服务.
 
@@ -311,6 +312,7 @@
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) -基于REST的服务，主要在AWS云中用于定位服务，以实现负载均衡和中间层服务器的故障转移.
 - [Microconfig](https://microconfig.io) -微服务配置管理的现代，简单方法.
 - [Microphone](https://github.com/rogeralsing/Microphone) -轻巧的.NET框架，可在Consul或Etcd群集之上使用Web Api或NancyFx运行自托管REST服务.
+- [Nacos](https://github.com/alibaba/nacos) -易于使用的动态服务发现，配置和服务管理平台.
 - [Registrator](https://github.com/gliderlabs/registrator)  -Docker的服务注册表网桥. 支持可插拔服务注册表，当前包括Consul，Etcd和SkyDNS 2.
 - [Shaman](https://github.com/nanopack/shaman) -小型，轻量，API驱动的DNS服务器.
 - [SkyDNS](https://github.com/skynetservices/skydns)  -用于发布和发现基于etcd的服务的分布式服务. 它利用DNS查询来发现可用的服务.
@@ -378,7 +380,7 @@
 - [Mist](https://github.com/nanopack/mist) -分布式的，基于标签的发布/订阅服务.
 - [Mosca](http://www.mosca.io/) -MQTT代理作为模块.
 - [Mosquitto](http://mosquitto.org/) -实现MQTT协议的开源消息代理.
-- [Nanomsg](http://nanomsg.org/) - Socket library that provides several common communication patterns for building distributed systems.
+- [Nanomsg](http://nanomsg.org/) -套接字库，为构建分布式系统提供了几种常见的通信模式.
 - [Nanomsg-NG](https://nng.nanomsg.org/) -轻量级无代理消息传递.
 - [NATS](https://nats.io/) -开源，高性能，轻量级的云消息传递系统.
 - [NSQ](http://nsq.io/) -实时分布式消息传递平台.
@@ -444,6 +446,7 @@
 ### Serialization
 
 - [Avro](https://avro.apache.org/) -Apache数据序列化系统以紧凑，快速的二进制数据格式提供丰富的数据结构.
+- [Bond](https://github.com/microsoft/bond/) -用于处理架构化数据的跨平台框架，在Microsoft的大规模服务中广泛使用.
 - [BooPickle](https://github.com/ochrons/boopickle)  -二进制序列化库，用于有效的网络通信. 对于Scala和Scala.js
 - [Cap’n Proto](https://capnproto.org/) -快速的数据交换格式和基于功能的RPC系统.
 - [CBOR](http://cbor.io/) -以多种语言实现的CBOR标准（RFC 7049）.
@@ -471,7 +474,7 @@
 - [AtlasDB](https://github.com/palantir/atlasdb) -在键值存储之上的事务层.
 - [ClickHouse](https://clickhouse.yandex/) -面向列的数据库管理系统，可实时生成分析数据报告.
 -[CockroachDB！[c]]（https://www.cockroachlabs.com/）-以Google Spanner为模型的云原生SQL数据库.
-- [Couchbase](http://www.couchbase.com/) -为提高性能，可伸缩性和简化管理而设计的分布式数据库.
+- [Couchbase](http://www.couchbase.com/) - A distributed database engineered for performance, scalability, and simplified administration.
 -[Crate！[c]]（https://crate.io/）-具有NoSQL优点的可扩展SQL数据库.
 - [Datomic](http://www.datomic.com/) -完全可交易的，可用于云的分布式数据库.
 - [Druid](http://druid.io/) -快速的面向列的分布式数据存储.
@@ -598,8 +601,8 @@
 - [RFC7049](http://tools.ietf.org/search/rfc7049) -简洁的二进制对象表示（CBOR）.
 - [BSON](http://bsonspec.org/) -二进制JSON（BSON）.
 - [JSON-LD](http://json-ld.org/) -用于链接数据的JSON.
-- [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) -简单二进制编码（SBE）.
-- [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) - MessagePack Specification.
+- [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
+- [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) -MessagePack规范.
 
 ### Vocabularies
 
@@ -637,7 +640,7 @@
 - [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) -基于实际经验的实用概述，介绍了构建微服务需要了解的内容.
 - [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) <sup>：small_orange_diamond：PDF</sup> -一致性，逻辑单调性.
 - [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) -通过将更改缓慢推广到一小部分用户，然后再将其推广到整个基础架构并提供给所有人的方式，来降低在生产环境中引入新软件版本的风险的技术.
-- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) -  States that it is impossible for a distributed computer system to simultaneously provide all three of the following guarantees: Consistency, Availability and Partition tolerance.
+- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) -声明分布式计算机系统不可能同时提供以下三个保证：一致性，可用性和分区容限.
 - [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf)  <sup>：small_orange_diamond：PDF</sup> -无服务器计算抽象公开了几个低级别的操作细节，使人们很难程序员对自己的代码写入和原因. 本文通过提出λ（无服务器计算本质的一种操作语义）阐明了这个问题.
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/) -Uber Engineering概述的微服务架构通用方法，称为“面向领域的微服务架构”（DOMA）.
 - [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)  -您可以使用本指南来了解什么是Java微服务，如何构建和构建它们. 另：看一下Java微服务库和常见问题.
@@ -664,9 +667,8 @@
 
 ## Emerging Technologies
 
-- [Enso](https://enso.org/) -视觉和文本功能编程语言，重点关注生产力，协作和开发人体工程学.
 - [Holochain](https://holochain.org/)  -分布式应用程序的框架，允许您构建不受网络限制的应用程序. 这意味着每个用户都可以控制自己的数据，并且不能将其出售或暴露给第三方.
-- [Ops](https://ops.city/) -免费的开源工具，可将现有的Linux应用程序作为unikernels构建，运行和部署.
+- [Ops](https://ops.city/) - Free open source tool to build, run and deploy existing linux applications as unikernels.
 - [SAFE Network](https://safenetwork.tech/)  -在日常计算机的闲置容量的支持下，SAFE用分散的自治网络取代了现有Web的脆弱结构. 一种安全的方法，每个人都可以使用.
 - [Solid](https://solid.inrupt.com/) - Empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
 

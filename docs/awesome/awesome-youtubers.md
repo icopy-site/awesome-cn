@@ -78,7 +78,7 @@ Content about: C, C#, C++ \
 [<img align="left" height="94px" width="94px" alt="David Bombal channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxXEBqSlbr0Gm-VRnA6Q7alt4cZA_kfu1fkWdgr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DavidBombal)
 
 [**David Bombal**](https://www.youtube.com/c/DavidBombal) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容有关：道德黑客，Linux
+Content about: Ethical hacking, Linux \
 特色播放列表：“ CCNA考试：200-125、100-105和200-105”，“思科播放列表”，“ SDN视频”.  \
 <br/>
 
@@ -156,12 +156,12 @@ Content about: C, C#, C++ \
 
 [**sentdex**](https://www.youtube.com/c/sentdex) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) \
 内容有关：用于AI和金融的Python \
-精选播放列表：“ Python财务编程”，“使用Python进行机器学习”，“从头开始用Python编写的神经网络”.
+精选播放列表：“ Python财务编程”，“使用Python进行机器学习”，“从头开始使用Python进行神经网络”.
 
 [<img align="left" height="94px" width="94px" alt="Java Brains channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlKpaj19DmFWS8cuYfwKNHY-k9vBmNlH0N72rGKQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaBrainsChannel)
 
 [**Java Brains**](https://www.youtube.com/c/JavaBrainsChannel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容约：Spring，Java
+Content about: Spring, Java \
 特色播放列表：“ Spring框架课程播放列表”，“ Spring Boot微服务-完整课程播放列表”，“ Java EE课程播放列表”.
 
 [<img align="left" height="94px" width="94px" alt="IAmTimCorey channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxRGfv1YCCh9tamNue4H4J1Ih_5i9hlr5cVtrGd=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/IAmTimCorey)
@@ -205,7 +205,7 @@ Featured Playlists: `C# Mastery Course (2020)`, `C# Programming (Beginners)`, `.
 
 [**DataDaft**](https://www.youtube.com/c/DataDaft) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：数据科学，Python，R，实用和理论\
-精选播放列表：“ Python for Data Analysis”，“ R简介”，“ Python编程实践”，“ Pandas”，“更多播放列表！”.  \
+特色播放列表：“ Python for Data Analysis”，“ R简介”，“ Python编程实践”，“ Pandas”，“更多播放列表！”.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Fun Fun Function channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwgZqkGaQtvrnuPj7jVsKzM61YR_Do0zPHZchlUFQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
@@ -232,7 +232,7 @@ Featured playlists: `MongoDB - NoSQL Database`, `PHP - Programming Language`, `C
 [<img align="left" height="94px" width="94px" alt="The Cherno Project's avatar" src="https://yt3.ggpht.com/a/AATXAJwnC9ATEyVr8Mf-Vz3K1hAUMzPXjxz_rp2LZL6JVg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/TheChernoProject)
 
 [**The Cherno**](https://www.youtube.com/user/TheChernoProject) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容有关：C ++和游戏开发
+内容有关：C ++，游戏开发
 特色播放列表：“游戏引擎”，“ C ++”，“ OpenGL”和“ Java 3D游戏编程”.  \
 <br/>
 
@@ -308,6 +308,12 @@ Content about: Java, Python, C#/C++ \
 精选播放列表：“这些语言的播放列表中有很多视频”.  \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="NullPointer Exception's channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjNuAEn_s-yPHJAT4w-d-r4rUHdEZow5w0fyg47=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCmWDlvMYYEbW42B8JyxFBcA)
+
+[**NullPointer Exception**](https://www.youtube.com/channel/UCmWDlvMYYEbW42B8JyxFBcA) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
+内容约：理论，数据
+特色播放列表：“数据结构简介”，“排序算法讲座/可视化”，“面向对象程序设计简介”.
+
 
 ## Web development
 
@@ -317,7 +323,7 @@ Content about: Java, Python, C#/C++ \
 
 [**Codevolution**](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：React.js，JavaScript，TypeScript \
-Featured playlists: `React.js Tutorial for Beginners`, `React.js Hooks Tutorial`, `React.js Redux Tutorial`, `React.js Storybook Tutorial`, `React.js Formik Tutorial`, `Practical React.js`.
+特色播放列表：“ React.js初学者教程”，“ React.js Hooks教程”，“ React.js Redux教程”，“ React.js故事书教程”，“ React.js Formik教程”，“ Practical React.js” .
 
 [<img align="left" height="94px" width="94px" alt="Flux channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxWvA615Onz5us60u38fgK3eq-fnQVDmeW_4Rr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FluxWithRanSegall)
 
@@ -342,7 +348,7 @@ Featured playlists: `React.js Tutorial for Beginners`, `React.js Hooks Tutorial`
 
 [**Dani Krossing**](https://www.youtube.com/c/TheCharmefis) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容约：Web开发，后端
-Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutorials`, `jQuery Tutorials`. \
+精选播放列表：“ HTML和CSS教程”，“ JavaScript教程”，“ PHP教程”，“ jQuery教程”.  \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="JavaScript Mastery channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_1d5dpZETr6oOBANDbkDtqp9h4n9RWCXeKrWM0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaScriptMastery)
@@ -375,7 +381,7 @@ Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutor
 
 [**DesignCourse**](https://www.youtube.com/c/DesignCourse) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：网页设计，设计，UI / UX，Adobe XD \
-精选播放列表：“插画家教程”，“ Adob​​e XD教程”，“ Photoshop教程”，“最新开发者”，“最新设计者”.
+Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tutorials`, `LATEST DEV TUTS`, `LATEST DESIGN TUTS`.
 
 [<img align="left" height="94px" width="94px" alt="Traversy Media channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw6qBlNzbAweKz7UlC44hYLoEtdoXGmzN8IJno3mg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TraversyMedia)
 
@@ -392,7 +398,7 @@ Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutor
 [<img align="left" height="94px" width="94px" alt="Red Stapler channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw9rDLrDqNFCAsI1Umf8K3b87ORxhmEC9AL6opQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RedStapler_channel)
 
 [**Red Stapler**](https://www.youtube.com/c/RedStapler_channel) \
-内容有关：JavaScript，CSS \
+Content about: JavaScript, CSS \
 精选播放列表：“ CSS技巧和窍门”，“一些有关JavaScript库的播放列表”.  \
 <br/>
 
@@ -420,7 +426,7 @@ Featured playlists: `HTML and CSS Tutorials`, `JavaScript Tutorials`, `PHP Tutor
 [<img align="left" height="94px" width="94px" alt="Florin Pop channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyTPRJfE-AcekIPpfXRf3fxAMe6Nkobv-oHCgoV=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FlorinPop)
 
 [**Florin Pop**](https://www.youtube.com/c/FlorinPop) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容有关：JavaScript，CSS \
+Content about: JavaScript, CSS \
 精选播放列表：“学习JavaScript”，“学习React.js”，“学习CSS”，“ JavaScript数组方法”.  \
 <br/>
 
@@ -697,7 +703,7 @@ Featured playlists: `JavaScript Tutorials`, `JavaScript frameworks videos`, `Pyt
 
 [**Two Minute Papers**](https://www.youtube.com/c/K%C3%A1rolyZsolnai) [<img height="16px" width="16px" alt="Badge for verified YouTube channels" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-verified.svg?sanitize=true" title="Is a verified YouTube channel"/>](badges.md#verified-youtube-channel) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
 内容有关：机器学习和AI研究，科学论文\
-Featured playlists: `Two Minute Papers`, `AlphaGo`, `Fluid, Cloth and Hair Simulations`, `AI and Deep Learning`, `Light Transport, Ray Tracing and Global Illumination`.
+精选播放列表：“两分钟论文”，“ AlphaGo”，“流体，布料和头发模拟”，“ AI和深度学习”，“轻型运输，光线追踪和全局照明”.
 
 
 ## Game development
@@ -779,7 +785,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 [**GDQuest**](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) \
 内容约：GODOT
-特色播放列表：“ Godot 3教程”，“ Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者创建游戏指南”.
+精选播放列表：“ Godot 3教程”，“ Godot中的3d迷宫游戏”，“与Godot制作您的第一个2D游戏”，“ Godot-初学者创建游戏指南”.
 
 [<img align="left" height="94px" width="94px" alt="HeartBeast channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzoIjRlshuZqc2EyoOtY76mx1jOrnT_VE26BGFctg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/uheartbeast)
 
@@ -879,7 +885,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 ## Software in general
 
-此类别中列出的YouTuber可能不是编程教程或炫酷的设计卡，但每天都会为每个人使用一些其他有用的软件和应用程序. 掌握您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
+此类别中列出的YouTuber可能不是编程教程或炫酷的设计卡，但每天都会为每个人使用一些其他有用的软件和应用程序. 精通您经常使用的套件，或了解有关公司为您提供的特定服务的更多信息.
 
 [<img align="left" height="94px" width="94px" alt="Learn Google Spreadsheets channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
 
@@ -936,7 +942,7 @@ Featured playlists: `Introduction to Game Development (Unity and C#)`, `Procedur
 
 ## Digital design
 
-Web design tutorials are listed in the [web development section](#web-development) . 但是，当然，数字设计非常庞大，其中包括漂亮的图片和有关名人的图像或吸引人的宣传视频. 获得有关如何做这些事情的知识，并成为设计程序专家.
+网站设计教程列在 [web development section](#web-development) . 但是，当然，数字设计非常庞大，其中包括漂亮的图片和有关名人的图像或吸引人的宣传视频. 获得有关如何做这些事情的知识，并成为设计程序专家.
 
 [<img align="left" height="94px" width="94px" alt="How to Graphic Design channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxyZLmMiocMlFDS5BkCFVJdNb5Z_6LIVtxOLVyS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HowtoGraphicDesign)
 
@@ -960,7 +966,7 @@ Web design tutorials are listed in the [web development section](#web-developmen
 [<img align="left" height="94px" width="94px" alt="Pixel & Bracket channel's avatar" src="https://yt3.ggpht.com/a/AATXAJygq4Pq_23OEZs2MZbLitD4i8YHBVe7NsNvcnsFag=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Pixelandbracket)
 
 [**Pixel & Bracket**](https://www.youtube.com/c/Pixelandbracket) [<img height="16px" width="16px" alt="Badge for youtubers that upload videos weekly" src="https://raw.githubusercontent.com/JoseDeFreitas/awesome-youtubers/master/media/badge-weekly.svg?sanitize=true" title="Uploads videos weekly"/>](badges.md#weekly-video-upload) \
-内容有关：Adobe Illustrator，Adobe Photoshop \
+Content about: Adobe Illustrator, Adobe Photoshop \
 精选播放列表：“插画家教程”，“ Photoshop教程”，“其他设计视频”.  \
 <br/>
 

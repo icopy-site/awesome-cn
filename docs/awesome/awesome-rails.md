@@ -111,9 +111,9 @@
 - [calagator](https://github.com/calagator/calagator) -社区日历应用程序-**使用Rails 4.2 **
 - [calcentral](https://github.com/ets-berkeley-edu/calcentral) -电子邮件，日历，共享文档和班级协作空间管理应用程序-**使用Rails 4.2 **- [:earth_africa:](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) -论坛应用-**使用Rails 4.2 **- [:earth_africa:](http://codecampo.com)
-- [canvas-lms](https://github.com/instructure/canvas-lms) - A learning management app - **using Rails 5.2**
+- [canvas-lms](https://github.com/instructure/canvas-lms) -一个学习管理应用程序-**使用Rails 5.2 **
 - [catarse](https://github.com/catarse/catarse) -创意项目的众筹平台-**使用Rails 4.2 **- [:earth_africa:](https://catarse.me/)
-- [chatwoot](https://github.com/chatwoot/chatwoot) - A simple and elegant live chat software - **using Rails 6.0**
+- [chatwoot](https://github.com/chatwoot/chatwoot) -一个简单而优雅的实时聊天软件-**使用Rails 6.0 **
 - [ciao](https://github.com/brotandgames/ciao) -URL状态检查应用-**使用Rails 6.0 **
 - [coRM](https://github.com/SIGIRE/CoRM) -客户关系管理应用程序-**使用Rails 3.2 **- [:earth_africa:](http://www.corm.fr)
 - [coderwall (legacy)](https://github.com/coderwall/coderwall-legacy) -面向软件工程师的社交网络应用-**使用Rails 3.2 **
@@ -134,6 +134,7 @@
 - [diaper](https://github.com/rubyforgood/diaper) -尿布银行的库存管理应用程序-**使用Rails 6.0 **- [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) -社交网络应用-**使用Rails 5.1 **- [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) -社区讨论的平台-**使用Rails 6.0 **- [:earth_africa:](https://try.discourse.org/)
+- [dollarjobs](https://github.com/mittaltiger/dollarjobs) -作业板创建应用-**使用Rails 6.0 **- [:redwebtigers](https://www.redwebtigers.com/products/dollarjobs/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) -农场管理应用程序-**使用Rails 4.2 **
 - [postal](https://github.com/postalhq/postal) -邮件传递平台-**使用Rails 5.2 **
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) -具有加密支持的消息传递应用程序-**使用Rails 4.2 **
@@ -182,7 +183,7 @@
 - [reservations](https://github.com/YaleSTC/reservations) -库存管理应用-**使用Rails 6.0 **- [:earth_africa:](http://yalestc.github.io/reservations)
 - [rletters](https://github.com/rletters/rletters) -研究人员期刊文章数据库的前端-**使用Rails 6.0 **- [:earth_africa:](http://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) -一个宝石托管平台-**使用Rails 6.0 **- [:earth_africa:](https://rubygems.org)
-- [sanataro](https://github.com/kaznum/sanataro) -帐户跟踪器-**使用Rails 4.2 **- [:earth_africa:](http://sanataro.herokuapp.com)
+- [sanataro](https://github.com/kaznum/sanataro) - An account tracker - **using Rails 4.2** - [:earth_africa:](http://sanataro.herokuapp.com)
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) -一个数字资产管理应用程序-**使用Rails 5.1 **
 - [selfstarter](https://github.com/apigy/selfstarter) -众筹应用程序-**使用Rails 4.0 **
 - [sharetribe](https://github.com/sharetribe/sharetribe) -点对点市场平台-**使用Rails 5.2 **- [:earth_africa:](https://www.sharetribe.com)
@@ -226,11 +227,13 @@
 -** active_enum **-提供枚举类的gem- [rubygems](https://rubygems.org/gems/active_enum) - [source code](https://github.com/adzap/active_enum)
 -** activeadmin **-提供管理面板的瑰宝- [rubygems](https://rubygems.org/gems/activeadmin) - [source code](https://github.com/activeadmin/activeadmin)
 -** activity_notification **-整合用户活动通知的瑰宝- [rubygems](https://rubygems.org/gems/activity_notification) - [source code](https://github.com/simukappu/activity_notification)
+-** aggregate_root **-处理事件来源的瑰宝- [rubygems](https://rubygems.org/gems/aggregate_root) - [source code](https://github.com/RailsEventStore/rails_event_store/tree/master/aggregate_root)
 -** ahoy_email **-提供邮件分析的工具- [rubygems](https://rubygems.org/gems/ahoy_email) - [source code](https://github.com/ankane/ahoy_email)
 -** algoliasearch-rails **-整合Algolia搜索的瑰宝- [rubygems](https://rubygems.org/gems/algoliasearch-rails) - [source code](https://github.com/algolia/algoliasearch-rails)
 -** annotate **-用于用架构和路由信息注释rails类的gem- [rubygems](https://rubygems.org/gems/annotate) - [source code](https://github.com/ctran/annotate_models)
 -** anycable-rails **-处理websocket服务器的瑰宝- [rubygems](https://rubygems.org/gems/anycable-rails) - [source code](https://github.com/anycable/anycable-rails)
 -** apipie-rails **-REST API文档工具- [rubygems](https://rubygems.org/gems/apipie-rails) - [source code](https://github.com/apipie/apipie-rails)
+-** auther **-提供简单的，基于表单的身份验证的瑰宝- [rubygems](https://rubygems.org/gems/auther) - [source code](https://github.com/bkuhlmann/auther)
 -** autoprefixer-rails **-将供应商前缀添加到样式表的瑰宝- [rubygems](https://rubygems.org/gems/autoprefixer-rails) - [source code](https://github.com/ai/autoprefixer-rails)
 -** avo **-基于配置，无需维护，可扩展的Ruby on Rails管理员 [rubygems](https://rubygems.org/gems/avo) - [source code](https://github.com/avo-hq/avo) - [:earth_africa:](https://avohq.io)
 -**更好的错误**-提供更好错误页面的工具- [rubygems](https://rubygems.org/gems/better_errors) - [source code](https://github.com/BetterErrors/better_errors)
@@ -238,23 +241,33 @@
 -** breadcrumbs_on_rails **-创建和管理面包屑式导航的瑰宝- [rubygems](https://rubygems.org/gems/breadcrumbs_on_rails) - [source code](https://github.com/weppos/breadcrumbs_on_rails)
 -** bulma-rails **-bulma的包装器，基于flexbox的CSS框架- [rubygems](https://rubygems.org/gems/bulma-rails) - [source code](https://github.com/joshuajansen/bulma-rails)
 -** cancancan **-可以处理授权的宝石- [rubygems](https://rubygems.org/gems/cancancan) - [source code](https://github.com/cancancommunity/cancancan)
+-** caxlsx_rails **-生成实体关系图的宝石- [rubygems](https://rubygems.org/gems/caxlsx_rails) - [source code](https://github.com/caxlsx/caxlsx_rails)
 -** counter_culture **-提供计数器缓存的宝石- [rubygems](https://rubygems.org/gems/counter_culture) - [source code](https://github.com/magnusvk/counter_culture)
 -**设计**-提供身份验证的宝石- [rubygems](https://rubygems.org/gems/devise) - [source code](https://github.com/heartcombo/devise)
 -** doorkeeper **-引入oauth2提供程序功能的瑰宝- [rubygems](https://rubygems.org/gems/doorkeeper) - [source code](https://github.com/doorkeeper-gem/doorkeeper)
 -** draper **-添加演示逻辑的瑰宝- [rubygems](https://rubygems.org/gems/draper) - [source code](https://github.com/drapergem/draper)
 -** factory_bot_rails **-用于在Rails中进行测试的夹具替换- [rubygems](https://rubygems.org/gems/factory_bot_rails) - [source code](https://github.com/thoughtbot/factory_bot_rails)
 -** filestack-rails **-集成文件堆栈的瑰宝- [rubygems](https://rubygems.org/gems/filestack-rails) - [source code](https://github.com/filestack/filestack-rails)
+-** formtastic **-具有语义丰富且可访问的标记的Rails表单构建器gem- [rubygems](https://rubygems.org/gems/formtastic) - [source code](https://github.com/formtastic/formtastic)
 -** friendly_id **-用于处理子弹和永久链接的宝石- [rubygems](https://rubygems.org/gems/friendly_id) - [source code](https://github.com/norman/friendly_id)
+-** geokit-rails **-一种将“ geokit” gem集成到rails应用程序中的宝石- [rubygems](https://rubygems.org/gems/geokit-rails) - [source code](https://github.com/geokit/geokit-rails)
+-** good_job **-提供基于Postgres的ActiveJob后端的瑰宝- [rubygems](https://rubygems.org/gems/good_job) - [source code](https://github.com/bensheldon/good_job)
 -** gretel **-生成面包屑的工具- [rubygems](https://rubygems.org/gems/gretel) - [source code](https://github.com/kzkn/gretel)
 -** groupdate **-管理时态数据的瑰宝- [rubygems](https://rubygems.org/gems/groupdate) - [source code](https://github.com/ankane/groupdate)
+-** hotwire-rails **-将hotwire集成到rails应用程序中的瑰宝- [rubygems](https://rubygems.org/gems/hotwire-rails) - [source code](https://github.com/hotwired/hotwire-rails)
+-** image_optim_rails **-用于处理图片优化的宝石- [rubygems](https://rubygems.org/gems/image_optim_rails) - [source code](https://github.com/toy/image_optim_rails)
 -** js-routes **-一种将所有Rails路线生成为javascript助手的工具- [rubygems](https://rubygems.org/gems/js-routes) - [source code](https://github.com/railsware/js-routes)
 -** kaminari **-提供分页功能的宝石- [rubygems](https://rubygems.org/gems/kaminari) - [source code](https://github.com/kaminari/kaminari)
 -**密码盒**-处理加密的瑰宝- [rubygems](https://rubygems.org/gems/lockbox) - [source code](https://github.com/ankane/lockbox)
 -** lograge **-用于自定义日志记录Rails应用程序的宝石- [rubygems](https://rubygems.org/gems/lograge) - [source code](https://github.com/roidrage/lograge)
 -** mailkick **-处理邮件退订的工具- [rubygems](https://rubygems.org/gems/mailkick) - [source code](https://github.com/ankane/mailkick)
+-** metka **-使用Postgresql数组列管理标签的gem- [rubygems](https://rubygems.org/gems/metka) - [source code](https://github.com/jetrockets/metka)
+-** money-rails **-一种将“ money” gem集成到rails应用程序中的宝石- [rubygems](https://rubygems.org/gems/money-rails) - [source code](https://github.com/RubyMoney/money-rails)
 -** paloma **-在Rails中管理页面特定javascript的瑰宝- [rubygems](https://rubygems.org/gems/paloma) - [source code](https://github.com/gnclmorais/paloma)
 -** pgcli-rails **-替换了`rails：dbconsole`命令来管理PostgreSQL- [rubygems](https://rubygems.org/gems/pgcli-rails) - [source code](https://github.com/mattbrictson/pgcli-rails)
+-** premailer-rails **-处理电子邮件样式的瑰宝- [rubygems](https://rubygems.org/gems/premailer-rails) - [source code](https://github.com/fphilipe/premailer-rails)
 -** prerender_rails **-预先渲染javascript渲染页面的宝石- [rubygems](https://rubygems.org/gems/prerender_rails) - [source code](https://github.com/prerender/prerender_rails)
+-** rails-erd **-生成实体关系图的宝石- [rubygems](https://rubygems.org/gems/rails-erd) - [source code](https://github.com/voormedia/rails-erd)
 -** rails-settings-cached **-用于将全局设置作为键值对管理的gem- [rubygems](https://rubygems.org/gems/rails-settings-cached) - [source code](https://github.com/huacnlee/rails-settings-cached)
 -** rails_admin **-创建和管理Rails应用程序管理面板的瑰宝- [rubygems](https://rubygems.org/gems/rails_admin) - [source code](https://github.com/sferik/rails_admin)
 -** rails_event_store **-在Rails中实现事件存储的瑰宝- [rubygems](https://rubygems.org/gems/rails_event_store) - [source code](https://github.com/RailsEventStore/rails_event_store)
@@ -271,11 +284,17 @@
 -** rubocop-rails **-代码样式检查工具- [rubygems](https://rubygems.org/gems/rubocop-rails) - [source code](https://github.com/rubocop-hq/rubocop-rails)
 -**场景**-管理数据库视图的瑰宝- [rubygems](https://rubygems.org/gems/scenic) - [source code](https://github.com/scenic-views/scenic)
 -** searchkick **-可提供搜索功能的宝石- [rubygems](https://rubygems.org/gems/searchkick) - [source code](https://github.com/ankane/searchkick)
+-** select2-rails **-将select2库集成到Rails应用程序中的瑰宝- [rubygems](https://rubygems.org/gems/select2-rails) - [source code](https://github.com/argerim/select2-rails)
 -** simple_form **-处理表格的瑰宝- [rubygems](https://rubygems.org/gems/simple_form) - [source code](https://github.com/heartcombo/simple_form)
--** spree **-Spree是一个开放源代码的电子商务平台- [rubygems](https://rubygems.org/gems/spree) - [source code](https://github.com/spree/spree)
+-** solidus **-一个“ spree” gem（一个开放源代码电子商务平台）的分支- [rubygems](https://rubygems.org/gems/solidus) - [source code](https://github.com/solidusio/solidus)
+-** sorbet-rails **-一种将“ sorbet”宝石集成到rails应用程序中的宝石- [rubygems](https://rubygems.org/gems/sorbet-rails) - [source code](https://github.com/chanzuckerberg/sorbet-rails/)
+-**狂欢**-开源电子商务平台- [rubygems](https://rubygems.org/gems/spree) - [source code](https://github.com/spree/spree)
 -** spring **-预加载Rails应用程序的宝石- [rubygems](https://rubygems.org/gems/spring) - [source code](https://github.com/rails/spring)
 -**链轮**-编译和投放网络资产的瑰宝- [rubygems](https://rubygems.org/gems/sprockets) - [source code](https://github.com/rails/sprockets)
+-** stimulus-rails **-将stimulus.js集成到Rails应用程序中的宝石- [rubygems](https://rubygems.org/gems/stimulus-rails) - [source code](https://github.com/hotwired/stimulus-rails)
 -** tinymce-rails **-将tinymce集成到Rails资产管道中的瑰宝- [rubygems](https://rubygems.org/gems/tinymce-rails) - [source code](https://github.com/spohlenz/tinymce-rails)
+-**探索**-处理机器学习模型部署的瑰宝- [rubygems](https://rubygems.org/gems/trove) - [source code](https://github.com/ankane/trove)
+-** turbo-rails **-将Turbo集成到rails应用程序中的宝石- [rubygems](https://rubygems.org/gems/turbo-rails) - [source code](https://github.com/hotwired/turbo-rails)
 -** view_component **-介绍视图组件的瑰宝- [rubygems](https://rubygems.org/gems/view_component) - [source code](https://github.com/github/view_component)
 -** webpacker **-使用webpack捆绑网络资产的瑰宝- [rubygems](https://rubygems.org/gems/webpacker) - [source code](https://github.com/rails/webpacker)
 -** zeitwerk **-处理线程安全代码加载的宝石- [rubygems](https://rubygems.org/gems/zeitwerk) - [source code](https://github.com/fxn/zeitwerk)
@@ -294,7 +313,7 @@
 
 ### Generators
 
- | 发电机| 准备运行| 复杂应用| 设置git |  Heroku |
+| Generator | Ready to run | Complex Apps | Sets git | Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
 | [Rails Composer](https://github.com/RailsApps/rails-composer) | 是的，但需要配置Stripe | 带有条带化的SaaS的示例应用程序.  | 是的是
 | [Hix on Rails](https://hixonrails.com) | 是的监控，Redis前哨，Sidekiq.  | 是的没有
