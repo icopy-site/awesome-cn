@@ -26,7 +26,7 @@ them.
   （C，BSD，GitHub）
 - [LAPACK](https://www.netlib.org/lapack/) -求解线性方程组，线性最小二乘，特征值问题等的例程.
   （Fortran，BSD， [GitHub](https://github.com/Reference-LAPACK/lapack))
-- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) -用于线性代数的C ++模板库.
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) -用于线性代数的C ++模板库.
   （C ++，MPL 2， [GitLab](https://gitlab.com/libeigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) -高性能manycore线性代数库，专注于稀疏系统.
   （C ++，BSD， [GitHub](https://github.com/ginkgo-project/ginkgo))
@@ -38,7 +38,7 @@ them.
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) -由PDE建模的科学应用的并行解决方案.
   （C，2句BSD， [GitLab](https://gitlab.com/petsc/petsc))
-- [DUNE Numerics](https://www.dune-project.org) -使用基于网格的方法求解PDE的工具箱.
+- [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
   （C ++，GPL 2， [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) -用于统计，优化，积分，线性代数等的Python模块
   （Python，主要是BSD， [GitHub](https://github.com/scipy/scipy/))
@@ -71,7 +71,7 @@ them.
 
 ## Meshing
 
-- [Gmsh](http://gmsh.info) -具有预处理和后处理功能的三维有限元网格生成器.
+- [Gmsh](https://gmsh.info) -具有预处理和后处理功能的三维有限元网格生成器.
   （C ++，GPL， [GitLab](https://gitlab.onelab.info/gmsh/gmsh))
 - [pygmsh](https://github.com/nschloe/pygmsh) -Gmsh的Python界面.
   （Python，GPL 3，GitHub）
@@ -85,16 +85,8 @@ them.
   （Python，GPL 3，GitHub）
 - [mshr](https://bitbucket.org/fenics-project/mshr/) -FEniCS的网格生成组件.
   （Python，GPL 3，Bitbucket）
-- [MOAB](https://press3.mcs.anl.gov/sigma/moab-library/) -表示和评估网格数据.
+- [MOAB](https://sigma.mcs.anl.gov/moab-library/) -表示和评估网格数据.
   （C ++，主要是LGPL 3， [Bitbucket](https://bitbucket.org/fathomteam/moab/))
-- [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) -用于面向阵列的科学数据的软件库和数据格式.
-  （C / C ++ / Fortran / Java / Python，[自定义开源
-  许可]（https://www.unidata.ucar.edu/software/netcdf/copyright.html），
-  [GitHub](https://github.com/Unidata/netcdf-c/))
-- [HDF5](https://support.hdfgroup.org/HDF5/) -用于存储和管理数据的数据模型，库和文件格式.
-  （C / Fortran，BSD）
-- [XDMF](http://www.xdmf.org/index.php/Main_Page) -可扩展数据模型和格式，用于来自高性能计算代码的数据.
-  （C ++， [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) -优质的四面体网格生成器和3D Delaunay三角剖分器.
   （C ++，AGPLv3）
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) -二维质量网格生成器和Delaunay三角剖分器.
@@ -122,6 +114,20 @@ them.
   （C ++，MPL 2， [GitHub](https://github.com/wildmeshing/fTetWild))
 - [SeismicMesh](https://github.com/krober10nd/SeismicMesh) -平行的2D / 3D三角形/四面体网格生成，带子去除.
    （Python和C ++，GPL 3，GitHub）
+
+## Data formats
+
+- [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) -用于面向阵列的科学数据的软件库和数据格式.
+  （C / C ++ / Fortran / Java / Python，[自定义开源
+  许可]（https://www.unidata.ucar.edu/software/netcdf/copyright.html），
+  [GitHub](https://github.com/Unidata/netcdf-c/))
+- [HDF5](https://support.hdfgroup.org/HDF5/) -用于存储和管理数据的数据模型，库和文件格式.
+  （C / Fortran，BSD， [GitHub](https://github.com/HDFGroup/hdf5))
+- [XDMF](https://www.xdmf.org/index.php/Main_Page) -可扩展数据模型和格式，用于来自高性能计算代码的数据.
+  （C ++， [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
+- [Zarr](https://zarr.readthedocs.io/en/stable/) -用于存储分块，压缩的N维数组的格式.
+  （Python，麻省理工学院， [GitHub](https://github.com/zarr-developers/zarr-python))
+
 ## Sparse linear solvers
 
 - [SuperLU](https://portal.nersc.gov/project/sparse/superlu/) -大型，稀疏，非对称线性方程组的直接解.
@@ -182,9 +188,11 @@ them.
 - [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) -非等距快速傅立叶变换.
   （C / MATLAB，GPL 2， [GitHub](https://github.com/NFFT/nfft))
 - [preCICE](https://www.precice.org/) -用于分区多物理场模拟（FSI，CHT等）的耦合库.
-  (C++, LGPL 3, [GitHub](https://github.com/precice/))
+  （C ++，LGPL 3， [GitHub](https://github.com/precice/))
 - [orthopy](https://github.com/nschloe/orthopy) -有效地计算正交多项式.
   （Python，GPL 3，GitHub）
+- [pyGAM](https://pygam.readthedocs.io/en/latest/) -Python中的通用加性模型.
+  （Python，Apache 2.0， [GitHub](https://github.com/dswah/pyGAM))
 
 ## Community
 

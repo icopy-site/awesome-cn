@@ -28,7 +28,7 @@
  * [Getting Started with Next.js — Setting Up Your App](https://labs.redantler.com/getting-started-with-next-js-article-one-a1d9780ea9e0#.863nl4wnq)
  * [Getting Started with Next.js — Bringing Data In](https://labs.redantler.com/getting-started-with-next-js-bringing-data-in-bf40558698e2#.twjv5xk5w)
  * [How to build a Next.js React Universal App](https://medium.com/cosmicjs/how-to-build-a-next-js-react-universal-app-e610a0bc2124#.b8ayt9f39)
- * [Next on Next.js](https://jsmantra.com/next-on-next-js-1a134505f346#.sf2f64u4r)
+ * [Next on Next.js](https://web.archive.org/web/20170202170122if_/https://jsmantra.com/next-on-next-js-1a134505f346#.bhihzecyc)
  * [Accept payments on your site with nextjs, stripe, and micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5?source=activity---post_recommended)
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
@@ -43,7 +43,6 @@
  * [SEO in Next.js and Prismic](https://www.garymeehan.ie/blog/handling-seo-with-nextjs-and-prismic)
  * [SEO in Next.js with next-seo](https://www.garymeehan.ie/blog/seo-in-nextjs-with-next-seo)
  * [Next.js 7](https://nextjs.org/blog/next-7)
- * [Using Next.js with Github Pages](https://hipstersmoothie.com/blog/next-pages/)
  * [Create SSR Next.js websites using GraphQL with Postgres](https://blog.hasura.io/create-next-js-sites-using-graphql-on-postgres-199224ad1a39)
  * [Cooking a Deliveroo clone with Next.js (React), GraphQL, Strapi and Stripe - Setup (part 1/7)](https://blog.strapi.io/strapi-next-setup)
  * [Next.js E-commerce Tutorial: Quick Shopping Cart Integration](https://snipcart.com/blog/next-js-ecommerce-tutorial)
@@ -68,7 +67,6 @@
 * [nextjs-starter](https://github.com/pbteja1998/nextjs-starter)  -SEO优化的Next.js 10入门套件模板，其中包含React 17 + Typescript + Tailwind CSS 2 + React Query 3 +（GitHub Auth +无密码Auth），使用（NextAuth.js和Fauna DB），ESLint，Prettier，Pre-commit挂钩与赫斯基. 不同的页面可以有不同的布局.
 * [RAN!](https://github.com/sly777/ran) -生产就绪样板，支持GraphQL，SSR，热重载，CSS-in-JS，缓存等.
 * [Next Simple Blog](https://github.com/tscanlin/next-blog) -使用Next.js构建的基于Markdown的简单博客，具有静态导出功能.
-* [Create-Next-App](https://open.segment.com/create-next-app) -Facebook的create-react-app分支，用于创建下一个应用程序.
 * [phox](https://github.com/herschel666/phox) -创建静态照片博客.
 * [Next Express Bootstrap Boilerplate](https://github.com/MustansirZia/next-express-bootstrap-boilerplate) -使用Next，Express，react-bootstrap，SCSS和SSR和eslint构建的全栈应用程序样板.
 * [Next Blog Firestore](https://github.com/suevalov/next-blog-firestore) -博客，其中包含使用Next.js，Firebase Firestore，样式组件和mobx-state-tree构建的简单CMS.
@@ -86,7 +84,7 @@
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) -全栈Web应用程序框架（Next.js，Redux，RxJS，Immutable，Express）
 * [Next-Postgres-With-Typescript](https://github.com/brandontle/next-postgres-with-typescript) -具有Next 7.0.2 + Sequelize 4 / Postgres + Typescript + Redux + Passport Local Auth + Emotion的类似论坛的全栈Web应用程序
 * [Next.js with Express and Babel](https://github.com/pd-smith/next-express-babel) -适用于想要使用Babel转换Express以及Next.js代码的用户的应用程序框架.
-* [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/boilerplates/nextjs-postgres-graphql) -使用GraphQL和Postgres（Next.js，Postgres，GraphQL）创建SSR Next.js网站
+* [next-postgres-graphql](https://github.com/hasura/graphql-engine/tree/master/community/sample-apps/nextjs-postgres-graphql) -使用GraphQL和Postgres（Next.js，Postgres，GraphQL）创建SSR Next.js网站
 * [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) -由Next.JS和MongoDB制作的成熟应用程序，具有身份验证等功能（Next.js 9，MongoDB）
 * [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) -：rocket：使用nextJS，最佳开发实践和开发人员社区中流行的库来减少项目配置的基础.
 * [The-Nextjs-starter](https://github.com/novellito/the-nextjs-starter) -打字稿+ redux +样式化的组件+ react-testing-library + eslint + fontawesome
@@ -131,7 +129,6 @@
 * [CourseLit](https://github.com/codelit/courselit) -Thinkific，Teachable等的开源替代品
 * [Feednext](https://github.com/feednext/feednext) -开源社交媒体应用程序.
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) -简单的Next.js应用程序，展示了《权力的游戏》角色.
-* [Next Episode](https://github.com/timneutkens/next-episode) -示例Next.js应用程序，显示电影片段.
 * [Relate](https://github.com/RelateNow/relate) -正念社区-React，GraphQL，Next.js.
 * [Next News](https://github.com/now-examples/next-news) -用Next.js编写的HackerNews.
 * [Password](https://github.com/dotcypress/password) -一个密码，正确的方法.
@@ -151,16 +148,15 @@
 * [Cookie handler with server render](https://github.com/estrada9166/cookie-handler-next.js) -具有服务器渲染的Cookie处理程序，在渲染之前访问cookie.
 * [Gank](https://github.com/OrangeXC/gank) -Next.js应用程序使用gank-api，mobx和antd
 * [Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
-* [DS](https://github.com/divyenduz/ds) -个人网站管理员.
 * [Mozilla VR Home](https://vr.mozilla.org/) -Mozilla VR主页
 * [Elton John's website](https://www.eltonjohn.com) -艾尔顿·约翰（Elton John）的网站
 * [IOTA's Data Market Place](https://data.iota.org/) -IOTA市场
 * [magicleap.com](https://www.magicleap.com/) -魔法飞跃
-* [NPM.js Search Page](https://www.npmjs.com/search) -NPM的搜索页面
+* [NPM.js Search Page](https://www.npmjs.com/search) - NPM's Search Page
 * [Docker Success Center](https://success.docker.com) -Docker成功中心
 * [Urteile & Gesetze](https://github.com/neo-search/urteile-gesetze-web) -根据GPLv3许可的德国法律信息系统.
 * [TikTok's HomePage](https://www.tiktok.com/) -TikTok的主页
-* [njt.now.sh](https://njt.now.sh)  -npm跳至（您梦about以求的软件包导航快捷方式）. 部分静态渲染，部分部署为lambda. 在每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)， 谢谢 [Now integration](https://github.com/apps/now).
+* [njt.now.sh](https://njt.now.sh)  -npm跳至（您梦about以求的软件包导航快捷方式）. 部分静态渲染，部分部署为lambda. 在每次提交时自动更新 [github repo](https://github.com/kachkaev/njt)，这要归功于Now集成.
 * [caseconverter.pro](https://caseconverter.pro) -文本大小写转换器.
 * [Tottem](https://github.com/poulainv/tottem) -使用NextJs / Auth0 / Apollo Tools / Prisma2构建的类固醇的书签管理器
 * [Slow TV Map](https://slowtvmap.com)  -一种有趣的方式来发现轻松的虚拟体验.  Vercel上托管了Next.js + Chakra UI + MySQL.
@@ -168,7 +164,6 @@
 ## Books
 * [Hands On Next.js](https://www.honext.io/) -一本关于反应应用程序通用（服务器）渲染的实用全书.
 * [Next.js Quick Start Guide](https://www.packtpub.com/web-development/nextjs-quick-start-guide) -使用Next.js创建，构建和部署通用JavaScript应用程序
-* [Next.js in Action](https://www.manning.com/books/next-js-in-action) -使用通用React框架构建应用程序的实用指南.
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) -构建一个前端React应用程序，为您透明地处理服务器端渲染.
 
 ## Videos
@@ -188,7 +183,7 @@
 * [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 * [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
 * [Mastering Next.js](https://masteringnextjs.com/) -使用Next.js和React构建应用程序的50多个课程视频课程.
-* [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) - In depth Next.js tutorials.
+* [Next.js Tutorial](https://www.youtube.com/watch?v=7J4iL1HDshQ&list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40) -深入的Next.js教程.
 * [Next.js Conf 2020](https://www.youtube.com/playlist?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD) -2020 Next.js会议的所有视频
 
 ## Newsletters

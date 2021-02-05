@@ -196,7 +196,7 @@
     * [PathPicker](https://github.com/facebook/PathPicker) -从bash输出中选择文件.
     * [percol](https://github.com/mooz/percol) -在UNIX上的传统管道概念中增加了交互选择的味道.
     * [thefuck](https://github.com/nvbn/thefuck) -更正先前的控制台命令.
-    * [tmuxp](https://github.com/tony/tmuxp) - 一种 [tmux](https://github.com/tmux/tmux) 会话管理器.
+    * [tmuxp](https://github.com/tony/tmuxp) - 一个 [tmux](https://github.com/tmux/tmux) 会话管理器.
     * [try](https://github.com/timofurrer/try) -一个简单的CLI来试用python软件包-从未如此简单.
 * CLI增强功能
     * [httpie](https://github.com/jakubroztocil/httpie) -命令行HTTP客户端，方便用户的cURL替换.
@@ -716,7 +716,7 @@
 * [doit](http://pydoit.org/) -任务运行器和构建工具.
 * [gunnery](https://github.com/gunnery/gunnery) -具有基于Web界面的分布式系统的多功能任务执行工具.
 * [Joblib](https://joblib.readthedocs.io/) -一组用于在Python中提供轻量级流水线的工具.
-* [Plan](https://github.com/fengsp/plan) -像用魅惑一样用Python编写crontab文件.
+* [Plan](https://github.com/fengsp/plan) -用Python编写crontab文件就像一个魅力.
 * [Prefect](https://github.com/PrefectHQ/prefect) -现代的工作流程编排框架，可轻松构建，调度和监视强大的数据管道.
 * [schedule](https://github.com/dbader/schedule) -针对人类的Python作业调度.
 * [Spiff](https://github.com/knipknap/SpiffWorkflow) -用纯Python实现的功能强大的工作流引擎.
@@ -728,7 +728,7 @@
 
 * [logbook](http://logbook.readthedocs.io/en/stable/) -记录Python的替代品.
 * [logging](https://docs.python.org/3/library/logging.html) -（Python标准库）Python的日志记录工具.
-* [loguru](https://github.com/Delgan/loguru) -旨在以Python带来令人愉悦的日志记录的库.
+* [loguru](https://github.com/Delgan/loguru) -旨在以Python带来愉快日志记录的库.
 * [sentry-python](https://github.com/getsentry/sentry-python) -适用于Python的Sentry SDK.
 * [structlog](https://www.structlog.org/en/stable/) -结构化日志变得容易.
 
@@ -1030,7 +1030,7 @@
 *用于处理任务队列的库.
 
 * [celery](https://docs.celeryproject.org/en/stable/) -基于分布式消息传递的异步任务队列/作业队列.
-* [daramatiq](https://github.com/Bogdanp/dramatiq) -适用于Python 3的快速可靠的后台任务处理库.
+* [dramatiq](https://github.com/Bogdanp/dramatiq) -适用于Python 3的快速可靠的后台任务处理库.
 * [huey](https://github.com/coleifer/huey) -很少的多线程任务队列.
 * [mrq](https://github.com/pricingassistant/mrq) -使用Redis和gevent的Python中的分布式工作者任务队列.
 * [rq](https://github.com/rq/rq) -适用于Python的简单作业队列.

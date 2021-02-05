@@ -80,7 +80,7 @@
 -  [Caret Color](https://github.com/GraxMonzo/tailwind-caret-color) -添加`caret`颜色实用程序.
 -  [Blend Mode](https://github.com/hacknug/tailwindcss-blend-mode) -添加`blend-mode`工具.
 -  [Colorize](https://github.com/philippbosch/tailwindcss-colorize) -添加`filter`实用程序.
--  [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) -添加了“写入模式”实用程序.
+-  [Writing Mode](https://github.com/magicspon/tailwindcss-writing-mode) - Adds `writing-mode` utilities.
 -  [Hyphens](https://github.com/philippbosch/tailwindcss-hyphens) -添加了“连字符”实用程序.
 -  [Border Gradients](https://github.com/cossssmin/tailwindcss-border-gradients) -添加了“边界图像”渐变实用程序.
 -  [RFS](https://github.com/aerni/tailwindcss-rfs) -添加 [`RFS`](https://github.com/twbs/rfs) 实用程序.
@@ -150,7 +150,7 @@
 -  [Tailwindow's Color Shades](https://color.tailwindow.com) -Tailwind CSS的颜色阴影生成器.
 -  [Tailwind Colors](https://tailwind-colors.meidev.co) -Tailwind CSS的颜色配置生成器.
 -  [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) -Tailwind CSS的颜色浏览器.
--  [TailwindInk](https://tailwind.ink/) - AI palette generator, trained with the Tailwind CSS palette.
+-  [TailwindInk](https://tailwind.ink/) -AI调色板生成器，受Tailwind CSS调色板训练.
 -  [Gradient Designer](https://gradient-designer.csspost.com/) -为Tailwind 2.0+生成渐变.
 -  [Grayscale Design](https://grayscale.design/) -基于亮度的调色板生成器.
 -  [Hypercolor](https://hypercolor.dev/) -带有方向选项的预配置Tailwind CSS渐变集合.
@@ -167,8 +167,8 @@
 -  [Updrafts.app](https://updrafts.app/) -用于Tailwind CSS的高级在线无代码拖放编辑器.
 -  [tailwind.run](https://tailwind.run) -带有内置功能的Tailwind CSS提琴（在线）.
 -  [tailzilla.app](https://tailzilla.app) -Tailwind CSS的在线游乐场.
--  [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) -Tailwind类的前缀工具.
--  [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) -通过建议最匹配的类将CSS转换为Tailwind CSS.
+- 🔼🌍 [Tailwind Automatic Prefix Applicator](https://github.vue.tailwind-prefix.cbass.dev) -Tailwind类的前缀工具.
+- 🔼🌍 [CSS to Tailwind CSS Converter](https://transform.tools/css-to-tailwind) -通过建议最匹配的类将CSS转换为Tailwind CSS.
 -  [Tailwindo](https://github.com/awssat/tailwindo) -引导到Tailwind CSS转换器.
 -  [Tailupgrade](https://github.com/virkillz/tailupgrade) -转换工具，用于将HTML文件从Tailwind CSS v0.x升级到v1.0.
 -  [Tailwind Shift](https://github.com/awssat/tailwind-shift) -用于从Tailwind CSS v0.7升级到v1.0的升级工具.
@@ -209,7 +209,7 @@
 -  [Headless UI](https://github.com/tailwindlabs/headlessui) -完全无样式的，完全可访问的UI组件.
 -  [VueTailwind](https://github.com/alfonsobries/vue-tailwind) -使用Tailwind CSS的Vue.js UI库.
 -  [Tailwind Made](https://tailwindmade.com/) -使用Tailwind CSS制作的，对开发人员友好的付费模板.
--  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值，易于自定义的模板.
+-  [EasyTailwind](https://easytailwind.now.sh) -使用Tailwind CSS制作的免费增值模板，可轻松自定义模板.
 -  [TailBlocks](https://mertjf.github.io/tailblocks) -60多种不同的准备使用Tailwind CSS块.
 -  [Tailwind Components](https://tailwindcomponents.com) -社区驱动的Tailwind CSS组件存储库.
 -  [Tailwind Toolbox](https://www.tailwindtoolbox.com) -模板，组件和资源.
@@ -229,6 +229,7 @@
 -  [Windstrap](https://windstrap.netlify.app) -带Bootstrap JS的Tailwind CSS.
 -  [WickedBlocks](https://blocks.wickedtemplates.com/) -收集了超过120个使用Tailwind CSS构建的布局块和组件.
 -  [Daisy UI](https://github.com/saadeghi/daisyui) -Tailwind CSS的UI组件.
+-  [Kometa UI Kit](https://kitwind.io/products/kometa/components) -使用Tailwind CSS构建的免费多功能UI套件.
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) -多主题，完全可访问的仪表板模板.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -带有Tailwind CSS的管理面板模板.
 -  [Landing Gradients](https://landing-gradients.netlify.app/) -使用渐变（1.7+）的目标网页模板.
@@ -274,7 +275,7 @@
 -  [Gatsby Serif](https://github.com/windedge/gatsby-tailwind-serif) -使用Tailwind CSS的Gatsby的衬线主题.
 -  [Seminyak Hugo Theme](https://git.habd.as/jhabdas/seminyak) -使用Tailwind CSS的Hugo主题.
 -  [Eleventy Starter](https://github.com/ixartz/Eleventy-Starter-Boilerplate/) -使用Tailwind CSS的可用于生产环境且SEO友好的博客启动器.
--  [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) - Boilerplate using Vite, React and Tailwind CSS.
+-  [Vite + React + Tailwind Starter](https://github.com/wobsoriano/vite-react-tailwind-starter) -使用Vite，React和Tailwind CSS的样板.
 -  [Vite + Vue 3.x + Tailwind 2.x Starter](https://github.com/web2033/vite-vue3-tailwind-starter) -使用Vite，Vue，Vue Router和Tailwind CSS的入门模板.
 -  [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) -使用Vue和Tailwind CSS的Shopify主题开发入门.
 -  [Starter Dashboard Layout](https://github.com/Kamona-WD/starter-dashboard-layout) -使用Tailwind CSS和Alpine JS的仪表板布局.

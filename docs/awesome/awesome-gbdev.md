@@ -180,7 +180,7 @@
 
 - [Reverse Engineering fine details of Game Boy hardware](https://www.youtube.com/watch?v=GBYwjch6oEE) -Gekkio在Disobey 2018上的43分钟演讲（[errata](https://gekkio.fi/blog/2018-02-05-errata-for-reverse-engineering-fine-details-of-game-boy-hardware.html)).
 - [Emulation of Nintendo Game Boy](https://github.com/Baekalfen/PyBoy/blob/master/PyBoy.pdf) -从构建仿真器的角度概述Game Boy硬件.
-- [DMG-01](http://blog.ryanlevick.com/DMG-01/public/book/)  -Rust中的教育性Gameboy模拟器和一本解释其发展的随书.  *[Oh Boy! Creating a Game Boy Emulator in Rust](https://media.ccc.de/v/rustfest-rome-3-gameboy-emulator)-在Rust Fest 18上对此进行了演讲.
+- [DMG-01](https://rylev.github.io/DMG-01/public/book/)  -Rust中的教育性Gameboy模拟器和一本解释其发展的随书.  *[Oh Boy! Creating a Game Boy Emulator in Rust](https://media.ccc.de/v/rustfest-rome-3-gameboy-emulator)-在Rust Fest 18上对此进行了演讲.
 - [Building a Game Boy emulator in JavaScript](http://imrannazar.com/gameboy-Emulation-in-JavaScript) -分步教程.
 - [Writing a Game Boy emulator, Cinoop](https://cturt.github.io/cinoop.html)
 - [0dmg](https://jeremybanks.github.io/0dmg/2018/05/23/getting-started.html) -通过构建部分Game Boy模拟器学习Rust.
@@ -208,7 +208,7 @@
 
 ## Software Development
 
-The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d615409fd) 文章概述了Game Boy的功能，讨论了可用开发工具的优缺点，并提供了编写更高效代码的技巧.
+The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d615409fd) 本文概述了Game Boy的功能，讨论了可用开发工具的优缺点，并提供了编写更高效代码的技巧.
 
 ### Assemblers
 
@@ -218,8 +218,8 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 ### Compilers
 
-+ [GBDK](http://gbdk.sourceforge.net/)  -一套可以在** C **中进行开发的工具. 包括一组最常见要求的库，并生成就绪的ROM文件. 最近更新于2001年. [Documentation](http://gbdk.sourceforge.net/doc/gbdk-doc.pdf).
-  - [GBDK-2020](https://github.com/Zal0/gbdk-2020/)  -带有更新的SDCC工具链（支持ROM库），错误修复，文档和其他改进的现代化GBDK. 支持Windows，Linux和MacOS.
+- [GBDK](http://gbdk.sourceforge.net/)  -一套可以在** C **中进行开发的工具. 包括一组最常见要求的库，并生成就绪的ROM文件. 最近更新于2001年. [Documentation](http://gbdk.sourceforge.net/doc/gbdk-doc.pdf).
+  - [GBDK-2020](https://github.com/Zal0/gbdk-2020/)  -带有更新的SDCC工具链（支持ROM库），错误修复，文档和其他改进的现代化GBDK. 支持Windows，Linux和macOS.
   - [gbdk-osx](https://github.com/x43x61x69/gbdk-osx) -为macOS上的最新编译器修补了GBDK 2.96a.
   - [gbdk-n](https://github.com/rotmoset/gbdk-n)  -旨在更新gbdk库以使其与新版本的SDCC兼容，并为构建rom提供帮助. 不支持ROM库，因此将ROM大小限制为32K.
   
@@ -244,7 +244,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Gambatte](https://github.com/sinamas/gambatte) -跨平台和准确的模拟器.
 - [MetroBoy](https://github.com/aappleby/MetroBoy) -整个Game Boy的可播放电路级仿真.
 - [gbe-plus](https://github.com/shonumi/gbe-plus) -最近重写的仿真器，它在保留晦涩的附件（例如IR链接，移动网络GB，条形码男孩，GB打印机，本地和在线GB串行链接电缆等）上付出了巨大的努力.
-- [Emulicious](https://emulicious.net/) -提供准确的仿真，并包括强大的工具，例如通过ASM和C对ASM和C进行探查器和源代码级调试 [VS Code debug adapter](https://marketplace.visualstudio.com/items?itemName=emulicious.emulicious-debugger).
+- [Emulicious](https://emulicious.net/) -提供准确的仿真，并包括强大的工具，例如，通过 [VS Code debug adapter](https://marketplace.visualstudio.com/items?itemName=emulicious.emulicious-debugger).
 
 [Complete list of open source emulators](EMULATORS.md)
 
@@ -378,7 +378,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线播放（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
+- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线玩（也可以通过移动/触摸）：社区领导试图收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
 - [Infinity](https://github.com/infinity-gbc/infinity)  -由Affinix Software开发的RPG，主要在1999年至2001年之间开发.该游戏从未找到发行商，并最终被取消了. 最近发布了完整的源代码，开发工具和工作流程.
 
 ### ASM
@@ -448,7 +448,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Roboto Demo](https://github.com/naavis/roboto-demo)
 - [matrix-rain-gb](https://github.com/wtjones/matrix-rain-gb) -汇编程序中的矩阵数字雨效果.
 - [GBVideoPlayer](https://github.com/LIJI32/GBVideoPlayer) -一个技术演示，演示了如何破解Game Boy LCD控制器以使Game Boy Color播放彩色全动态视频以及音乐.
-- [GBVideoPlayer2](https://github.com/LIJI32/GBVideoPlayer2) -以上演示的第二次迭代，提高了分辨率，添加了*立体声PCM音频，并引入了视频压缩.
+- [GBVideoPlayer2](https://github.com/LIJI32/GBVideoPlayer2) -以上演示的第二次迭代，提高了分辨率，添加了“立体声PCM音频”，并引入了视频压缩*.
 
 ## Reverse Engineering
 
@@ -522,9 +522,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 ### Websites
 
 - [devrs.com/gb](http://devrs.com/gb) -场景的故乡：示例，源，完整的文档，指南，教程和各种工具.
-- [GBDK Developers](http://gbdk-developers.com/)  -有关该场景的所有内容的活跃博客. 包括功能，见解和访谈.
 - [pdroms.de](http://pdroms.de/news/gameboy/) -Game Boy发布.
-- [Game Boy Demospotting](http://gameboy.modermodemet.se/en) -演示集.
 - [Handheld Underground](http://hhug.me) -未经许可的游戏，有关Game Boy的博客文章，hhugboy模拟器的家.
 
 
@@ -537,7 +535,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 ### License
 
 根据** GPLv3 **许可.
-See [LICENSE](LICENSE) 欲获得更多信息.
+See [LICENSE](LICENSE) 想要查询更多的信息.
 
 ### Acknowledgements
 
