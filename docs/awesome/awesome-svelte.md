@@ -80,7 +80,7 @@ _关于Svelte框架的研究和研究.
 ### UI Libraries
 
 - [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) -受vuetify启发的Material UI设计组件库.
-- [Sveltestrap](https://github.com/bestguy/sveltestrap) -Bootstrap 4组件.
+- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 components.
 - [Smelte](https://github.com/matyunya/smelte) -具有使用Tailwind CSS构建的材质组件的UI框架.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) -材质UI组件.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) -IBM Carbon Design System的精简实施.
@@ -92,6 +92,7 @@ _关于Svelte框架的研究和研究.
 
 _表和数据网格.
 
+- [svelte-simple-datatables](https://github.com/vincjo/svelte-simple-datatables) -Svelte的数据表组件
 - [svelte-table](https://github.com/dasDaniel/svelte-table) -允许排序和过滤的表实现.
 - [svelte-generic-crud-table](https://github.com/ivosdc/svelte-generic-crud-table) -具有CRUD功能的对象数组的不可知Web组件.
 
@@ -158,7 +159,7 @@ _对于单页应用程序（SPA）以及更多.
 - [svelte-router-spa](https://github.com/jorgegorka/svelte-router)  -路由器将路由添加到您的单页应用程序（SPA）. 包括本地化，防护和嵌套布局.
 - [svelte-routing](https://github.com/EmilTholin/svelte-routing) -具有SSR支持的声明性Svelte路由库.
 - [tinro](https://github.com/AlexxNB/tinro) -小型，无依赖和高度声明性的路由器.
-- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
+- [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) -针对单页应用程序（SPA）进行了优化，具有基于哈希的路由并支持参数.
 
 ### UI Utilities
 

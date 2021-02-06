@@ -84,7 +84,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) -SMTP的SMTP邮件发件人.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) -deno的模板渲染器.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) -deno的简单标记器.
-- [deno-using](https://github.com/hayd/deno-using) -带有deno语句的python样式.
+- [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) -deno的UUID模块.
 - [deno-ws](https://github.com/keroxp/deno-ws) -用于deno.ts的websocket服务器的实验性实现.
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) -一个简单的WebSocket库，例如node.js库的ws.
@@ -135,7 +135,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [qrcode](https://github.com/denorg/qrcode) -用于Deno的QR码图像生成器.
 - [qs](https://github.com/denolib/qs) -具有嵌套支持的查询字符串解析器.
 - [recursive-readdir](https://github.com/denorg/recursive-readdir) -在Deno中递归读取目录.
-- [rhum](https://github.com/drashland/rhum) - A lightweight testing framework for Deno.
+- [rhum](https://github.com/drashland/rhum) -用于Deno的轻量级测试框架.
 - [router](https://github.com/zhmushan/router) -高性能基本路由器可在任何地方使用.
 - [rubico](https://github.com/richytong/rubico)  -[a]同步功能组成； 它只是工作.
 - [sax-ts](https://github.com/Maxim-Mazurok/sax-ts) -从移植的SAX样式的XML解析器 [sax-js](https://github.com/isaacs/sax-js).
@@ -173,6 +173,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 
 - [commands](https://github.com/buttercubz/commands) -为节点js和deno创建命令快捷方式
 - [clone](https://github.com/ekaragodin/clone) -用于方便克隆的简单实用程序.
+- [decense](https://github.com/vinliao/decense) -使用一个“ deno run”命令生成许可证.
 - [dedep](https://github.com/egoist/dedep) -管理依赖版本.
 - [denoget](https://github.com/syumai/denoget) -Denoget安装可执行的Deno脚本.
 - [denoify](https://github.com/garronej/denoify) -对于希望支持Deno但不想编写和维护端口的NPM模块作者.

@@ -18,7 +18,7 @@
 
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) -大卫·坎普（David Kemp）的量子门计算交互式学习.
 - [CNOT](https://cnot.io/) -易于理解，逐步介绍了量子计算概念.
-- [Chris Ferrie](https://csferrie.medium.com/) -澳大利亚悉尼大学教授，《量子计算婴儿》（以及更多）的作者，以及有关“中等”的出色量子计算讲座.
+- [Chris Ferrie](https://csferrie.medium.com/) -澳大利亚悉尼的大学教授，《量子计算》（婴儿）（以及更多）的作者，以及关于介质的出色《量子计算》讲座.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) -Rigetti Computing SDK的教程.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) -有关光子连续变量量子计算方法的背景信息，以及Xanadu SDK的教程.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) -演示和教育资源，以及对D-Wave量子计算机的访问.
@@ -61,7 +61,7 @@
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) -在线量子编辑器，可在真实的量子计算硬件上运行实验.
 - [Mitiq](https://mitiq.readthedocs.io/) -用于在量子计算机上实施错误缓解技术的Python工具包.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) -用于在近期量子计算机上执行量子人工智能的库.
-- [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) - D-Wave's SDK for developing on their quantum computers using Python.
+- [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) -D-Wave的SDK，可使用Python在其量子计算机上进行开发.
 - [Orquestra](https://www.zapatacomputing.com/orquestra/) -Zapata Computing的统一量子操作环境，支持启用量子的工作流程.
 - [Paddle Quantum](https://github.com/PaddlePaddle/Quantum) -百度用于量子机器学习的python工具包.
 - [PennyLane](http://github.com/XanaduAI/pennylane) -用于量子计算和量子机器学习的开源框架，该框架集成了其他各种平台.
@@ -69,7 +69,7 @@
 - [pyQuil](https://github.com/rigetticomputing/pyquil) -使用Rigetti的Quil进行量子编程的Python库.
 - [pytket](https://cqcl.github.io/pytket/build/html/index.html)  -用于与Cambridge Quantum Computing的t | ket&gt;接口的Python模块； 电路优化和量子位分配的工具.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html)  -较旧的C语言，用于量子计算机. 仅具有模拟器和调试器.
-- [Qiskit SDK](https://qiskit.org) - Software development kit by IBM for writing and running quantum algorithms on simulators and real hardware.
+- [Qiskit SDK](https://qiskit.org) -IBM的软件开发套件，用于在模拟器和真实硬件上编写和运行量子算法.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) -IBM生产的JavaScript的Qiskit.
 - [Qrack](https://vm6502q.readthedocs.io) -高性能LGPL许可的C ++量子模拟器库，文档和测试代码.
 - [Quantum++](https://github.com/vsoftco/qpp) -高性能的现代C ++ 11量子计算库.
@@ -84,7 +84,7 @@
 
 ## Blogs
 
-- [Algorithmic Assertions](http://algassert.com/) -关于量子计算以及Google量子计算小组成员Craig Gidney的一般文章.
+- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google量子计算团队的成员.
 - [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享他们的研究和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.
@@ -97,11 +97,11 @@
 - [Quantum Zeitgeist](https://quantumzeitgeist.com/) -报道量子计算以及质量控制公司和职业方面的最新消息. 
 - [Q# Blog](https://devblogs.microsoft.com/qsharp/) -Microsoft Quantum开发更新. 
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) -Scott Aaronson关于量子计算的思想很重要.
-- [The Quantum Aviary](https://thequantumaviary.blogspot.com/) -没有大肆宣传量子硬件发展的博客. 
+- [The Quantum Aviary](https://thequantumaviary.blogspot.com/) - Blog without the hype talking about developments in quantum hardware. 
 - [The Quantum Daily](https://thequantumdaily.com/) -提供有关量子计算的最新新闻的插座，为研究科学家和好奇的周日报纸读者提供文章.
 
 ## Books
-
+- [An Introduction to Quantum Computing](https://www.amazon.com/Introduction-Quantum-Computing-Phillip-Kaye/dp/019857049X/)  -在易用性和数学严谨性之间取得良好的平衡. 适合大学生.
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) -经典和量子计算基础知识简介.
 - [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) -量子计算的工作原理及其如何改变世界.
 - [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) -涵盖了开源教科书
@@ -115,6 +115,11 @@
 - [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993) -用对话方法解释有效解决方案的量子计算.
 - [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965) -使用大学计算机科学专业的学生可以使用的方法解释量子计算.
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) -通过其实际实现的角度解释量子计算.
+
+## Popular Science
+- [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)  -量子计算和计算复杂性理论的可爱介绍. 该课程面向最广泛的目标受众，并包含一些与哲学相关的主题.
+- [Seth Lloyd. Programming the Universe_ A Quantum Computer Scientist Takes on the Cosmos](https://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist-ebook/dp/B000GCFBP6)  -如果宇宙是一台巨型量子计算机怎么办？ 它带给读者遍历宇宙计算模型的历程及其对物理学的启示.
+- [The Fabric of Reality: The Science of Parallel Universes and Its Implications](https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X) -关于揭示现实解释的统一结构是一种哲学精神.
 
 ## Videos
 
@@ -141,7 +146,7 @@
 - [Quantum Inferiority](https://matrix.to/#/#quantum_inferiority:chat.weho.st) -关于矩阵的量子编程聊天，与语言无关，不需要专业知识.
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) -用于量子研究讨论的Facebook小组.
 - [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
-- [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA) -用于Rigetti和量子计算讨论的Slack Channel.
+- [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA) - Slack Channel for Rigetti and quantum computing discussions.
 - [Strawberry Fields Community](https://u.strawberryfields.ai/slack) -Xanadu和Strawberry Fields光子/ CV量子计算讨论的松弛通道.
 
 ## Podcasts

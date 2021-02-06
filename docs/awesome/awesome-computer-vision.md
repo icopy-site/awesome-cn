@@ -57,6 +57,15 @@
  - [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
  - [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
  - [Awesome Makeup Transfer](https://github.com/thaoshibe/awesome-makeup-transfer)
+ - [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
+ - [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
+ - [Awsome Deep Geometry Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
+ - [Awesome Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
+ - [Awesome Neuron Segmentation in EM Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
+ - [Awsome Delineation](https://github.com/subeeshvasu/Awsome_Delineation)
+ - [Awesome ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
+ - [Awsome GAN Training](https://github.com/subeeshvasu/Awsome-GAN-Training)
+ 
 
 ## Books
 
@@ -83,7 +92,7 @@
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) -2007年Christopher M.Bishop
 * [Neural Networks for Pattern Recognition](http://www.engineering.upm.ro/master-ie/sacpi/mat_did/info068/docum/Neural%20Networks%20for%20Pattern%20Recognition.pdf) -克里斯托弗·M·毕晓普1995
 * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) -Daphne Koller和Nir Friedman 2009
-* [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) -彼得·E·哈特（Peter E.Hart），大卫·史托克（David G.Stork）和理查德·奥·达（Richard O.Duda）2000
+* [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) -彼得·哈特（Peter E.
 * [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) 汤姆·米切尔1997
 * [Gaussian processes for machine learning](http://www.gaussianprocess.org/gpml/) -卡尔·爱德华·拉斯穆森和克里斯托弗·基·威廉姆斯2005
 * [Learning From Data](https://work.caltech.edu/telecourse.html)-Yaser S.Abu-Mostafa，Malik Magdon-Ismail和Hsuan-Tien Lin 2012
@@ -198,7 +207,7 @@
 
 #### Internet Vision
  * [The Distributed Camera](http://www.technologyreview.com/video/426265/meet-2011-tr35-winner-noah-snavely/) -Noah Snavely（康奈尔大学）2011
- * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) -2014年（康奈尔大学）诺亚·斯内维利
+ * [Planet-Scale Visual Understanding](https://www.youtube.com/watch?v=UHkCa9-Z1Ps) -2014年（康奈尔大学）诺亚·斯内维利（Noah Snavely）
  * [A Trillion Photos](https://www.youtube.com/watch?v=6MWEfpKUfRc) -史蒂夫·塞茨（华盛顿大学）2013
 
 #### Computational Photography
@@ -342,7 +351,7 @@ BM3D，KSVD，
  * [Multi-frame image super-resolution](http://www.robots.ox.ac.uk/~vgg/software/SR/)
     *皮卡，多帧图像超分辨率的LC机器学习，博士学位论文2008
  * [Markov Random Fields for Super-Resolution](http://people.csail.mit.edu/billf/project%20pages/sresCode/Markov%20Random%20Fields%20for%20Super-Resolution.html)
-     * W. T. Freeman和C. Liu. 马尔可夫随机场用于超分辨率和纹理合成. 参见A. Blake，P.Kohli和C. Rother编，《视觉和图像处理的马尔可夫随机场的进展》，第10章，麻省理工学院出版社，2011
+     * W. T. Freeman和C. Liu. 马尔可夫随机场用于超分辨率和纹理合成. 摘自A. Blake，P.Kohli和C. Rother编，《视觉和图像处理的马尔可夫随机场的进展》，第10章，麻省理工学院出版社，2011年
  * [Sparse regression and natural image prior](https://people.mpi-inf.mpg.de/~kkim/supres/supres.htm)
      * KI Kim和Y. Kwon，“使用稀疏回归和自然图像先验的单图像超分辨率”，IEEE Trans. 模式分析和机器智能，第一卷.  32号 6，第1127-1133页，2010年.
  * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
