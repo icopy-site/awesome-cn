@@ -12,10 +12,10 @@
 
 ## How to Navigate
 
-如果您熟悉其他热门 [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md) ，您可能会发现此列表有些异常. 对于初学者来说，看看可用 [badges](https://github.com/mhxion/awesome-discord-communities/blob/master/./badges.md) .  “值得注意的频道”是探索性的，可用于查找特定主题. 社区可以提供专用于不止一种“语言”的一种口头语言的频道. 您可以开始从 [here](https://github.com/mhxion/awesome-discord-communities/blob/master/./CONTRIBUTING.md) . 读这个 [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/master/./FAQ.md#what-about-discords-poor-privacy-policy) 关于Discord的__privacy policy__以及其他常见问题的解答.
+如果您熟悉其他热门 [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md) ，您可能会发现此列表有些异常. 对于初学者来说，看看可用 [badges](https://github.com/mhxion/awesome-discord-communities/blob/master/./badges.md) .  “值得注意的频道”是探索性的，可用于查找特定主题. 社区可以提供专用于不止一种“语言”的一种口头语言的频道. 您可以开始从 [here](https://github.com/mhxion/awesome-discord-communities/blob/master/./CONTRIBUTING.md) . 读这个 [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/master/./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's __privacy policy__ and answers to other frequent questions.
 
-- A quick lookup from browser `ctrl + f` may help to find communities by a topic
--点击 [<img height="18px" width="18px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-disc要么d-communities/master/images/badges/homepage.webp">](#) 要么 [<img height="18px" width="18px" alt="Git Reposit要么y" src="https://raw.githubusercontent.com/mhxion/awesome-disc要么d-communities/master/images/badges/git.webp">](#) icon to visit the community's official website 要么 git reposit要么y page
+-通过浏览器“ ctrl + f”快速查找可能有助于按主题查找社区
+- Click on the [<img height="18px" width="18px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-disc要么d-communities/master/images/badges/homepage.webp">](#) 要么 [<img height="18px" width="18px" alt="Git Reposit要么y" src="https://raw.githubusercontent.com/mhxion/awesome-disc要么d-communities/master/images/badges/git.webp">](#) icon to visit the community's official website 要么 git reposit要么y page
 
 ## Programming in General
 
@@ -215,7 +215,7 @@ Notable Channels: `#the-library-discussions`, `#study-and-career-help`, `#sustai
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/amulius___embedded_engineering__.webp">
 
 [__Amulius - Embedded Engineering__](https://discord.com/invite/SrJEYjq) \
-Notable Channels: `#general`, `#arm`, `#arduino-avr`, `#c-cpp`, `#esp32-espressif`, `#linux`, `#pic`, `#rust`, `#risc-v`, `#rtos-gpos`, `#projects-advice`, `#careeer-advice`, `#projects-showcase` \
+Notable Channels: `#general`, `#arm`, `#c-cpp`, `#esp32-espressif`, `#linux`, `#pic`, `#rust`, `#risc-v`, `#rtos-gpos`, `#projects-advice`, `#career`, `#dsp-machine-learning`, `#fpga`, `#pcb`, `#protocols-rf` \
 英语语言
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/arduino.webp">
@@ -939,7 +939,7 @@ Notable Channels: `#i-made-this`, `#issues`, `#ideas`, `#ssr`, `#design`, `#disc
 
 [__Vuetify__](https://discord.com/invite/s93b7Fv) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://vuetifyjs.com/en/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/vuetifyjs) \
 Notable Channels: `#help`, `#beginner-questions`, `#bug-reporting`, `#updating-versions`, `#tooling`, `#testing`, `#nuxt`, `#premium-theme-support`, `#women-who-vuetify`, `#frontend` \
-语言：英语，德语，法语，西班牙语，西班牙语，日本语，한국어，葡萄牙语，波兰语，俄语
+语言：英语，德语，法语，西班牙语，西班牙语，日语、,、葡萄牙语，波兰语，俄语
 
 ### WebAssembly Frameworks
 
@@ -1583,6 +1583,20 @@ Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `
 英语语言 \
 <br>
 
+### Flight Simulation
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/coders_craft.webp">
+
+[__Coders Craft__](https://discord.com/invite/DA9qDXF) \
+Notable Channels: `#general`, `#xpl-res`, `#dev-chat`, `#lua`, `#c-cpp`, `#microsoft-flight-simulation-dev-chat`, `#modeling-texture` \
+英语语言
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/flybywire_simulations.webp">
+
+[__FlyByWire Simulations__](https://discord.com/invite/UjzuHMU) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/flybywiresim/a32nx) \
+Notable Channels: `#help`, `#aviation-chat`, `#hardware-chat`, `#a32nx-chat`, `#a380x-chat`, `#dev-support`, `#atsu-api`, `#lighting`, `#modeling`, `#sound`, `#your-controls` \
+英语语言
+
 ## Game Development
 
 
@@ -1636,7 +1650,7 @@ Notable Channels: `#mathematics`, `#questions`, `#ray-tracing`, `#techniques`, `
 
 [__OpenVFX: The Blender Hub__](https://discord.com/invite/blender) \
 Notable Channels: `#cgi-general`, `#resources`, `#3d-printing`, `#animation-rigging`, `#coding`, `#grease-pencil`, `#materials`, `#modeling`, `#physics`, `#rendering`, `#roblox`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
-语言：英语，德语，葡萄牙语，西班牙语，荷兰语，荷兰语，suomi，Magyar，svenska，dansk和हिन्हि
+语言：英语，德语，葡萄牙语，西班牙语，荷兰语，荷兰语，suomi，Magyar，svenska，dansk，
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/shadertoy.webp">
 
@@ -1931,6 +1945,6 @@ Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#caree
 ## Attribution
 
 
-徽章图标由 [Freepik](https://www.flaticon.com/authors/freepik) 和 [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
+徽章图标由 [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
 
 将此列表归为真棒（受许可证限制），请参见 [how to attribute](https://github.com/mhxion/awesome-discord-communities/blob/master/FAQ.md#FAQ.md#how-to-properly-attribute-to-compliment-the-license-cc-by-40).

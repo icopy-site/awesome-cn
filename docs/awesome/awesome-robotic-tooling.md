@@ -510,7 +510,7 @@
 * [pointcloud_to_laserscan](https://github.com/ros-perception/pointcloud_to_laserscan) -将3D点云转换为2D激光扫描.
 * [octomap](https://github.com/OctoMap/octomap) -基于八进制的高效概率3D映射框架.
 * [pptk](https://github.com/heremaps/pptk) -来自HEREMaps的点处理工具包.
-* [gpu-voxels](https://www.gpu-voxels.org/) -GPU-Voxels是基于CUDA的库，可在各种类型的3D传感器的动画3D模型和实时点云之间进行高分辨率的体积碰撞检测.
+* [gpu-voxels](https://www.gpu-voxels.org/) -GPU-Voxels是基于CUDA的库，可在各种3D传感器的动画3D模型和实时点云之间进行高分辨率的体积碰撞检测.
 * [spatio_temporal_voxel_layer](https://github.com/SteveMacenski/spatio_temporal_voxel_layer) -利用现代3D图形工具的新体素层使导航环境表示现代化.
 * [LAStools](https://github.com/LAStools/LAStools) -屡获殊荣的软件，可实现高效的LiDAR处理.
 * [PCDet](https://github.com/sshaoshuai/PCDet) -用于从点云进行3D对象检测的基于PyTorch的通用代码库.
@@ -546,7 +546,7 @@
 * [kaolin](https://github.com/NVIDIAGameWorks/kaolin) -用于加速3D深度学习研究的PyTorch库.
 * [CamVox](https://github.com/ISEE-Technology/CamVox) -基于相机和Livox激光雷达的低成本SLAM系统.
 * [SA-SSD](https://github.com/skyhehe123/SA-SSD) -从点云进行结构感知的单阶段3D对象检测.
-
+* [cuda-pcl](https://github.com/NVIDIA-AI-IOT/cuda-pcl) -通过基于NVIDIA CUDA的PCL加速Lidar for Robotics.
 
 ## Localization and State Estimation
 * [evo](https://github.com/MichaelGrupp/evo) -用于评估里程表和SLAM的Python软件包.
@@ -607,7 +607,7 @@
 * [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) -健壮和多功能的多传感器视觉惯性状态估计器.
 * [openvslam](https://github.com/xdspacelab/openvslam) -OpenVSLAM：一种多功能的Visual SLAM框架.
 * [basalt](https://gitlab.com/VladyslavUsenko/basalt) -具有非线性因子恢复的视觉惯性映射.
-* [Kimera](https://github.com/MIT-SPARK/Kimera) -用于实时度量-语义同时定位和映射的C ++库，该库使用摄像机图像和惯性数据来构建环境的语义注释3D网格.
+* [Kimera](https://github.com/MIT-SPARK/Kimera) -用于实时度量-语义同时定位和映射的C ++库，该库使用相机图像和惯性数据来构建环境的语义注释3D网格.
 * [tagslam](https://github.com/berndpfrommer/tagslam) -使用AprilTag基准标记同时进行本地化和制图的基于ROS的程序包.
 * [LARVIO](https://github.com/PetWorm/LARVIO) -基于多状态约束卡尔曼滤波器的轻巧，准确和强大的单目视觉惯性里程表.
 * [fiducials](https://github.com/UbiquityRobotics/fiducials) -使用基准标记同时定位和映射.
@@ -727,7 +727,7 @@
 * [ag](https://github.com/ggreer/the_silver_searcher) -一种类似于ack的代码搜索工具，但速度更快.
 * [fzf](https://github.com/junegunn/fzf) -命令行模糊查找器.
 * [pkgtop](https://github.com/orhun/pkgtop) -为GNU / Linux设计的交互式软件包管理器和资源监视器.
-* [asciimatics](https://github.com/peterbrittain/asciimatics) -一个跨平台的程序包，可进行类似curses的操作，以及更高级别的API和小部件，可创建文本UI和ASCII艺术动画.
+* [asciimatics](https://github.com/peterbrittain/asciimatics) -一个跨平台的程序包，可以执行类似curses的操作，以及更高级别的API和小部件来创建文本UI和ASCII艺术动画.
 * [gocui](https://github.com/jroimartin/gocui) -极简主义Go软件包，旨在创建控制台用户界面.
 * [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) -小型C ++程序，用于使用RGB ANSI代码和unicode块图形字符在（现代）终端中显示图像.
 * [rosshow](https://github.com/dheera/rosshow) -使用Unicode / ASCII艺术图在终端内可视化ROS主题.
@@ -885,7 +885,7 @@
 * [meta-ros](https://github.com/ros/meta-ros/tree/thud-draft) -用于ROS应用程序的OpenEmbedded层.
 * [meta-balena](https://github.com/balena-os/meta-balena) -在嵌入式设备上运行Docker容器.
 * [micro-ros](https://micro-ros.github.io/) -与“常规” ROS 2相比，主要变化是微型ROS使用实时操作系统（RTOS）代替Linux，并使用DDS用于极端资源受限的环境.
-* [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime/) -NVIDIA容器运行时是可识别GPU的容器运行时，与Docker，CRI-O和其他流行的容器技术所使用的开放容器倡议（OCI）规范兼容.
+* [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime/) -NVIDIA Container Runtime是可识别GPU的容器运行时，与Docker，CRI-O和其他流行的容器技术所使用的Open Containers Initiative（OCI）规范兼容.
 * [fusesoc](https://github.com/olofk/fusesoc) -用于FPGA / ASIC开发的软件包管理器和构建抽象工具.
 * [jetson_easy](https://github.com/rbonghi/jetson_easy) -自动脚本来设置和配置NVIDIA Jetson.
 * [docker-jetpack-sdk](https://github.com/trn84/docker-jetpack-sdk) -允许在Docker容器中使用NVIDIA JetPack SDK进行下载，刷新和安装.
@@ -905,7 +905,7 @@
 * [performance_test](https://github.com/ApexAI/performance_test) -测试基于发布/订阅的通信框架性能的工具.
 * [realtime_support](https://github.com/ros2/realtime_support) -用于测量抖动和延迟的最小实时测试工具.
 * [ros1_bridge](https://github.com/ros2/ros1_bridge) -ROS 2软件包，提供ROS 1和ROS 2之间的双向通信.
-* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -一种协议，它通过对象管理组（OMG）联盟定义和维护的不可靠传输（例如UDP）提供发布者与订阅者的通信.
+* [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -协议，由对象管理组（OMG）联盟定义和维护，它通过UDP等不可靠的传输方式提供发布者与订阅者的通信.
 * [protobuf](https://github.com/protocolbuffers/protobuf) -Google的数据交换格式.
 * [opensplice](https://github.com/ADLINK-IST/opensplice) -Vortex OpenSplice社区版.
 * [cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) -Eclipse Cyclone DDS是一种高性能且健壮的开源DDS实现.
@@ -993,7 +993,7 @@
 ## Security
 * [owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) -Threat Dragon是一款免费的开源跨平台威胁建模应用程序，包括系统图表和自动生成威胁/缓解措施的规则引擎.
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) -可以定义在受限环境中运行节点的启动文件，例如Docker容器或权限受限的单独用户帐户.
-* [wolfssl](https://github.com/wolfSSL/wolfssl) -TLS / SSL的一种小型，快速，可移植的实现，用于将嵌入式设备连接到云.
+* [wolfssl](https://github.com/wolfSSL/wolfssl) -TLS / SSL的小型，快速，可移植实施，用于将嵌入式设备连接到云.
 * [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) -专有汽车协议的安全分析工具包.
 * [RSF](https://github.com/aliasrobotics/RSF) -机器人安全框架（RSF）是在机器人技术中执行安全评估的标准化方法.
 * [How-to-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) -不断发展的方法指南，用于保护Linux服务器.
@@ -1007,7 +1007,7 @@
 * [brutespray](https://github.com/x90skysn3k/brutespray) -自动对找到的服务尝试默认凭据.
 * [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors.
 * [DependencyCheck](https://github.com/jeremylong/DependencyCheck) -一种软件组成分析实用程序，用于检测应用程序依赖项中公开披露的漏洞.
-* [Firejail](https://github.com/netblue30/firejail) -SUID沙箱程序，该程序通过使用Linux名称空间，seccomp-bpf和Linux功能来限制不受信任的应用程序的运行环境，从而降低了违反安全性的风险.
+* [Firejail](https://github.com/netblue30/firejail) -SUID沙箱程序，使用Linux名称空间，seccomp-bpf和Linux功能来限制不受信任的应用程序的运行环境，从而降低安全漏洞的风险.
 * [RVD](https://github.com/aliasrobotics/RVD)  -机器人漏洞数据库. 社区提供的机器人漏洞和弱点存档.
 * [ros2_dds_security](http://design.ros2.org/articles/ros2_dds_security.html) 通过定义服务插件接口（SPI）体系结构，一组SPI的内置实现以及由SPI实施的安全模型来增加安全性.
 * [Security-Enhanced Linux](https://github.com/SELinuxProject/selinux) -Linux内核安全模块，提供了支持访问控制安全策略（包括强制访问控制（MAC））的机制.

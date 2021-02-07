@@ -198,7 +198,7 @@
   1. [Meerkad](https://meerkad.com/) -由来自最流行的远程工作委员会，公司网站，Facebook组，Twitter搜索，Reddit，StackOverflow，HackerNews，Dribbble，Behance等的社区工作精选和策划  
   1. [Remote.io](https://www.remote.io/) -远程工作（主要是技术）的工作板和聚集器.
   1. [Remote 4 Me](https://remote4me.com/) -从事技术和非技术领域远程工作的聚合器.
-  1. [Remote Leaf](https://remoteleaf.com) -从40多个远程工作委员会，1500多个公司职业页面，Twitter提要，Linkedin，Reddit，Hacker News Hiring手工挑选的远程工作，并仅发送适用于您的职位.
+  1. [Remote Leaf](https://remoteleaf.com) -从40多个远程工作委员会，1500多个公司职业页面，Twitter提要，Linkedin，Reddit，Hacker News Hiring手工挑选的远程工作，仅发送适用于您的职位.
   1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供偏远职位使用.
   1. [Remote Python](https://www.remotepython.com/) -专门用于远程Python作业的作业板和聚合器.
   1. [Theo](https://theojobs.com/) -所有远程设计工作，一处.
@@ -216,11 +216,11 @@
   1. [Coworking in the Sun](https://www.coworkinginthesun.com/) -西班牙特内里费岛的集体办公空间
   1. [Hive Arena](https://hivearena.com/coworking/) -韩国首尔的共享办公空间
   1. [HubBOG](https://hubbog.com/)  -协同工作空间+启动加速器. 哥伦比亚波哥大
-  1. [Mokrin House](https://www.mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
+  1. [Mokrin House](https://www.mokrinhouse.com/) -塞尔维亚农村地区的集体办公空间
   1. [Nest Copenhagen](https://nestcopenhagen.dk/) -丹麦哥本哈根的收集空间
   1. [NoHatDigital](https://www.nohatdigital.com/mansionpage/) -在墨西哥收集空间
   1. [Nomad House](https://nomadhouse.io) -全球游牧住房网络
-  1. [Roam](https://www.roam.co/) -大肠杆菌空间的全球网络
+  1. [Roam](https://www.roam.co/) - Global network of coliving spaces
   1. [Sende](https://sende.co/) -西班牙北部的集体办公空间
   1. [Sun Desk](https://www.sun-desk.com/) -摩洛哥Taghazout的集体办公空间
   1. [Talent Garden](https://talentgarden.org/coworking/) -联合办公空间主要在意大利，但在其他一些国家也可以使用
@@ -346,7 +346,7 @@
   1. [General Assembly](https://generalassemb.ly/careers) -针对技术，商业和设计的体育和在线教育.
   1. [Ghost](https://ghost.org/about/#careers) -发布平台.
   1. [Giant Swarm](https://www.giantswarm.io/careers) -Giant Swarm的托管微服务基础架构使企业能够大规模运行敏捷，有弹性的分布式系统，同时消除与管理复杂的基础架构相关的任务
-  1. [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
+  1. [Gigster](https://gigster.com/)  -审查了全球前5％自由职业者的网络. 下午，开发，销售职位可用.
   1. [Gitbook](https://jobs.gitbook.com/)  -基于git发布工具链.  JavaScript，node.js，Go.
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) -GitHub的竞争对手.
@@ -376,11 +376,11 @@
   1. [iRonin.IT](https://careers.ironin.it)  -软件公司. 波兰语.  Ruby on Rails，Node.js，JavaScript，React，Angular，Vue.js
   1. [Isos Technology](https://careers.isostech.com/) -杰出的Atlassian白金和企业解决方案合作伙伴，使用Atlassian工具帮助组织解决复杂的开发和业务问题.
   1. [Jackson River](https://www.jacksonriver.com/about/jobs) -非营利组织的数字优先技术和策略.
-  1. [Jibble Group](http://careers.jibblegroup.com/) -在15个不同国家/地区的远程团队构建了下一个世界一流的劳动力管理和薪资管理软件即服务.
+  1. [Jibble Group](http://careers.jibblegroup.com/) -在15个不同国家/地区的远程团队构建了下一个世界一流的劳动力管理和薪资软件即服务.
   1. [journy.io](https://angel.co/company/journy-io/jobs) -客户数据平台.
   1. [Judge.me](https://judge.me/)  -电子商务审查平台. 我们的公司遍布四大洲.
   1. [Keepsafe](https://www.getkeepsafe.com) -移动优先的隐私产品，使世界更容易选择隐私.
-  1. [Khan Academy](https://www.khanacademy.org/careers)  -EdTech. 专注于K-12 STEM的非营利组织. 更少，React，Flux，Backbone，jQuery，Python，Google App Engine，Swift和Objective-C.
+  1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
   1. [Knack](https://www.knack.com/jobs)  -简单的在线数据库，可帮助客户简化业务流程并自动化工作流程. 该产品为DIY，无代码/低代码. 该公司是100％偏远地区.
   1. [LaterPay](https://www.laterpay.net/)  -（微）付款支持器. 德国慕尼黑.  Python，JavaScript，AWS.
   1. [LaunchPotato](https://launchpotato.com/careers) -位于佛罗里达州德拉海滩的创业工作室.
@@ -399,6 +399,7 @@
   1. [Mapbox](https://www.mapbox.com/jobs/) -适用于各种平台的地图集成工具.
   1. [MCFTech](https://www.mcftech.com/careers/) -可帮助您成功开展业务的应用程序.
   1. [MeetEdgar](https://meetedgar.com/careers/)  -自动化的社交分享. 美国遥控器.
+  1. [Merico](https://merico.dev/) -代码深度分析引擎.
   1. [Mixmax](https://careers.mixmax.com/) -具有超能力的电子邮件.
   1. [Mobile Jazz](https://mobilejazz.com/)  -我们是一支由高素质的工程师，设计师和市场营销专家组成的敬业团队，其使命是建立更加美丽的数字世界. 我们是一家远程友好的公司，总部位于巴塞罗那.
   1. [Modern Tribe](https://tri.be/careers)  -具有现代特色的数字代理商. 所有自由职业者. 所有专家.
@@ -530,7 +531,7 @@
   1. [Fleep](https://fleep.io/) -开发团队的内部聊天和协作工具
   1. [Floobits](https://floobits.com)  -带有屏幕共享的远程配对编程. 与Sublime，IntelliJ，Atom等集成
   1. [Flowdock](https://www.flowdock.com/)  –基于浏览器的团队聊天. 与GitHub，Jira，Jenkins等集成
-  1. [Gather](https://gather.town/) -Gather是一个视频通话空间，可让多个人并行进行单独的对话，就像在现实生活中一样轻松地进出这些对话.
+  1. [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
   1. [IRCCloud](https://www.irccloud.com) –具有永久存储的基于浏览器的IRC客户端.
   1. [Jitsi](https://jitsi.org) -多平台开源视频会议
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix是分布式团队的在线开源工作场所.
@@ -542,7 +543,7 @@
   1. [Skype](https://www.skype.com/) –视频通话.
   1. [Slack](https://slack.com/) –具有大量集成选项的文本，语音和视频聊天系统，包括 [ScreenHero](https://screenhero.com)，一个实时的高清屏幕共享系统，可进行团队协作
   1. [Talky](https://talky.io/) -群组的真正简单的视频聊天和屏幕共享
-  1. [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
+  1. [TeamHub](https://teamhub.app/) -直接在IDE内部实时报告状态和进度
   1. [Tips for immersive video calls](https://www.benkuhn.net/vc/) —沉浸式视频通话的提示
   1. [Twist](https://twist.com/) —一个交流平台，长时间的讨论和随意的消息传递和谐相处.
   1. [Whereby](https://whereby.com) –基于浏览器的无插件群组视频通话.

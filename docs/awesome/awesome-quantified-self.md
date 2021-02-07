@@ -7,7 +7,7 @@
 
 &gt;精心挑选了很棒的量化自我资源.
 
-The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，食物消耗，周围空气的质量），状态（例如，情绪，唤醒，血氧水平）和性能（精神和身体）方面将技术整合到有关人们日常生活方面的技术的运动.
+The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项在输入（例如，所食用的食物，周围空气的质量），状态（例如，情绪，唤醒，血氧水平）和性能（心理和身体）方面将技术纳入人的日常生活方面的技术的运动.
 
 欢迎捐款. 通过拉取请求添加链接或创建问题以开始讨论.
 
@@ -49,7 +49,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
 - [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) -加里·沃尔夫（Tary）的泰德（Ted）关于量化自我运动的演讲.
 - [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) -劳伦·科斯坦蒂尼（Lauren Costantini）探索了量化自我时代对人类的意义.
-- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) -克里斯·丹西（Chris Dancy，《地球上最连通的人》）的主题演讲，探讨了技术如何通过关注他收集的有关他的生活的数据帮助他成为一个更好的人.
+- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) -克里斯·丹西（Chris Dancy，“地球上最连通的人”）的主题演讲，探讨了技术如何通过关注他收集的有关他的生活的数据来帮助他变得更好.
 
 ## Applications and Platforms
 
@@ -127,6 +127,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Cardiio](http://www.cardiio.com/) -非接触式心率监测器（iOS）.
 - [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) -快速准确的移动心率监测器（iOS，Android，Windows）.
 - [HRV4Training](https://www.hrv4training.com/) -使用智能手机摄像头跟踪心率变异性，压力和其他上下文数据点，并接收个性化建议以优化您的健康状况和训练（iOS，Android）.
+- [Welltory](https://www.welltory.com/) -转到健康应用程序，使用户可以跟踪他们的心率变异性，压力和能量水平，以及来自不同可穿戴设备和应用程序的汇总健康和健身分析.
 
 ### Media Consumption
 - [Goodreads](https://www.goodreads.com/) -允许用户跟踪书籍并与其他读者（网络，iOS，Android）和网络进行评分. 
