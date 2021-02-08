@@ -5,9 +5,9 @@
  &gt;在准备发布V2时，我正在准备一个新的“超赞列表”. 请待命！  ：波：
 
 
-精选的超赞清单 [Hyperapp](https://hyperapp.dev) 资源.
+精选的超赞清单 [Hyperapp](https://github.com/jorgebucaran/hyperapp) 资源.
 
-要做出贡献，请分叉该存储库，添加精彩的条目并发送给我们PR. 看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 欲获得更多信息.
+要做出贡献，请分叉该存储库，添加精彩的条目并发送给我们PR. 看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 想要查询更多的信息.
 
 <!-- TOC -->
 
@@ -16,18 +16,19 @@
 
 ## Official Resources
 
-* [Homepage](https://hyperapp.dev/)
-* [Tutorial](https://hyperapp.dev/tutorial)
 * [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp)
-* [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
-* [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
+* [Hyperapp Tutorial](https://github.com/jorgebucaran/hyperapp/blob/main/docs/tutorial.md)
+* [Hyperapp API Reference](https://github.com/jorgebucaran/hyperapp/blob/main/docs/reference.md)
+* [Hyperapp Community on Discord](https://discord.gg/5CtfCYEq8V)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
+* [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 
 
 ## Articles & Tutorials
 
 * [A Walk through Hyperapp 2](https://medium.com/hyperapp/a-walk-through-hyperapp-2-b1f642fca172)
 * [Hyperapp in Under 5 Minutes](https://medium.com/@NickDodson/hyperapp-v2-in-under-5-minutes-7e9fa49f7f5)
+* [Hyperapp Code-along](https://zaceno.github.io/codealong-hyperapp) –从“ Hello World”到完整的TodoMVC的视频系列，其中包含一些实用技巧和想法.
 
 ## Utilities
 
@@ -41,6 +42,12 @@
 
 * [RealWorld with Hyperapp](https://github.com/kwasniew/hyperapp2-real-world-example)
 * [7GUIs with Hyperapp](https://github.com/zaceno/sevenguis-hyperapp)
+
+## Starters
+
+* [bonniss/hyparcel](https://github.com/bonniss/hyparcel) -Hyperapp v2 + TailwindCSS + Parcel样板，在生产中集成了PurgeCSS.
+* [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) 专注于开发人员经验的Clean PWA启动程序-包裹，CSS模块，可靠的配置
+
 
 ---
 
@@ -114,14 +121,3 @@
 
 * [Deployable](https://github.com/lukejacksonn/deployable) -使用Hyperapp构建的随时可部署的静态Web应用程序模板.
 * [Linkcast](https://github.com/ajaxtown/linkcast) -使用Hyperapp构建的Chrome扩展程序，可共享组中的链接并利用离线功能进行社交.
-
----
-
-## V2
-
-以下这些资源仅适用于Hyperapp的V2.
-
-## Boilerplates V2
-
-* [bonniss/hyparcel](https://github.com/bonniss/hyparcel) -Hyperapp v2 + TailwindCSS + Parcel样板，在生产中集成了PurgeCSS.
-* [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) 专注于开发人员经验的Clean PWA启动程序-包裹，CSS模块，可靠的配置

@@ -17,6 +17,7 @@
 - [Managing your dotfiles](https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304)
 - [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 - [Dotfile discovery](https://wynnnetherland.com/journal/dotfiles-discovery/)
+- [I do Dotfiles!](https://jogendra.dev/i-do-dotfiles)
 
 ### Tutorials
 
@@ -42,8 +43,8 @@
 
 ## Find dotfiles repos
 
-有很多很棒的dotfile仓库，每个仓库都有自己的灵感和宝石. 我认为最好的之一
-通过它们的方法是 [searching GitHub for "dotfiles"](https://github.com/search?q=dotfiles&type=Repositories).
+有很多很棒的dotfile仓库，每个仓库都有自己的灵感和宝石. 一种方法
+他们是为了 [search GitHub for "dotfiles"](https://github.com/search?q=dotfiles&type=Repositories).
 
 另请参阅：
 
@@ -55,8 +56,8 @@
 ## Example dotfiles repos
 
 一组最流行，维护良好且协作的点文件存储库和框架. 一些项目
-仅包含点文件. 其他人则通过允许您轻松添加自己的自定义点文件和/或包括
-脚本来管理点文件/插件.
+仅包含点文件. 其他一些则允许您轻松添加自己的自定义点文件，从而进一步扩展了某些功能，其中包括
+脚本来管理点文件和插件.
 
 ### Bash
 
@@ -67,7 +68,7 @@
 | [Maximum Awesome](https://github.com/square/maximum-awesome)         |  vim和tmux的配置文件|  Vim，tmux. 为Mac OS X内置.
 | [webpro's dotfiles](https://github.com/webpro/dotfiles)              |  macOS点文件|  Bash，Homebrew，Brew Cask，Git，Node.js，Hammerspoon.  |
 | [rootbeersoup's dotfiles](https://github.com/rootbeersoup/dotfiles)  | 轻松的Bash，Vim和macOS配置|  `curl \ |  sh`安装程序和Makefile为永久性或临时性配置提供了可轻松进行的设置.  |
-| [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)          |  Arch Linux dotfile引导程序| 无精打采，经常无精打采的软件 Vim配置，用于在Markdown或Latex中编辑文档|
+| [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)          |  Arch Linux dotfile引导程序| 无精打采，经常无精打采的软件.  Vim配置，用于在Markdown或Latex中编辑文档|
 
 ### Zsh
 
@@ -119,10 +120,11 @@
 - [mackup](https://github.com/lra/mackup) -使您的应用程序设置保持同步（OS X / Linux）.
 - [Pearl](https://github.com/pearl-core/pearl) -包管理器，允许以以下方式控制，同步，共享点文件
   在shell或编辑器启动期间自动激活的软件包. 已经有各种各样的软件包
-  in the [Official Pearl Hub](https://github.com/pearl-hub) （对于Linux和OSX）.
+  在里面 [Official Pearl Hub](https://github.com/pearl-hub) （对于Linux和OSX）.
 - [rcm](https://github.com/thoughtbot/rcm) -rc文件（dotfile）管理.
 - [themer](https://github.com/mjswensen/themer) -从内部管理和生成跨开发工具的主题
   您的点文件.
+- [toml-bombadil](https://github.com/oknozor/toml-bombadil) -模板化和管理您的dotfile.
 - [yadm](https://github.com/TheLocehiliosan/yadm) -用于管理多台计算机中文件集合的工具，
   使用共享的Git存储库和一些其他功能.
 
@@ -182,4 +184,4 @@
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内， [Lars Kappert](https://www.webpro.nl) 放弃了所有版权及相关或
-这项工作的邻接权.
+neighboring rights to this work.

@@ -29,13 +29,14 @@
 
 ### Other Prominent Configs (100 stars or so)
 
+- [Auto](https://github.com/davidjbradshaw/eslint-config-auto) -根据项目的依赖关系自动配置ESLint.
 - [Canonical](https://github.com/gajus/eslint-config-canonical) -可共享的配置 [Canonical style guide](https://github.com/gajus/canonical).
 - [Standard](https://github.com/feross/eslint-config-standard) -JavaScript的共享配置 [Standard Style](https://github.com/feross/standard).
 - [XO](https://github.com/xojs/eslint-config-xo) -可共享的配置 [XO](https://github.com/xojs/xo).
 
 ### Other Configs
 
-- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -与主要esLint配置一起使用的合理的插件集合.
+- [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) -可以与您的主要ESLint配置一起使用的合理的插件集合.
 - [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) -一个配置来统治所有人！
 - [Cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) -出色项目的ESLint配置.
 - [ES](https://github.com/thenativeweb/eslint-config-es) -可共享的配置，用于非常严格的代码.
@@ -123,6 +124,7 @@
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) -用于MDX的ESLint解析器/插件.
 - [Node](https://github.com/mysticatea/eslint-plugin-node) -针对Node.js的其他ESLint规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) -ESLint的SQL插入规则.
+- [TOML](https://github.com/ota-meshi/eslint-plugin-toml) -用于TOML的ESLint插件.
 - [TypeScript](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) -TypeScript的Linting规则.
 - [YAML](https://github.com/ota-meshi/eslint-plugin-yml) -YAML的ESLint插件.
 
@@ -172,7 +174,7 @@
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) -兑现承诺时的最佳做法.
 - [pure](https://github.com/purely-functional/eslint-plugin-pure) -强制执行纯功能（无副作用）.
 - [RegExp](https://github.com/ota-meshi/eslint-plugin-regexp) -用于查找正则表达式错误和违反样式指南的ESLint插件.
-- [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) -为ESLint`sort-keys`规则添加了修复程序.
+- [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
 - [this](https://github.com/matijs/eslint-plugin-this) -写纯函数，不允许`this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) -eslint插件，可避免在模块顶层产生副作用.
 
@@ -220,7 +222,7 @@
   - [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) -抹茶规则.
   - [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/)
 - [QUnit](https://github.com/platinumazure/eslint-plugin-qunit) -QUnit的Linting规则.
-- [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) - Linting rules for Testcafe.
+- [Testcafe](https://github.com/miherlosev/eslint-plugin-testcafe) -Testcafe的上等规则.
 - [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) -测试库的整理规则.
 
 ## Parsers

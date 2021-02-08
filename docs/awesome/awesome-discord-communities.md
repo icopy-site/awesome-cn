@@ -12,10 +12,10 @@
 
 ## How to Navigate
 
-如果您熟悉其他热门 [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md) ，您可能会发现此列表有些异常. 对于初学者来说，看看可用 [badges](https://github.com/mhxion/awesome-discord-communities/blob/master/./badges.md) .  “值得注意的频道”是探索性的，可用于查找特定主题. 社区可以提供专用于不止一种“语言”的一种口头语言的频道. 您可以开始从 [here](https://github.com/mhxion/awesome-discord-communities/blob/master/./CONTRIBUTING.md) . 读这个 [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/master/./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's __privacy policy__ and answers to other frequent questions.
+如果您熟悉其他热门 [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md) ，您可能会发现此列表有些异常. 对于初学者来说，看看可用 [badges](https://github.com/mhxion/awesome-discord-communities/blob/master/./badges.md) .  “值得注意的频道”是探索性的，可用于查找特定主题. 社区可以提供专用于不止一种“语言”的一种口头语言的频道. 您可以开始从 [here](https://github.com/mhxion/awesome-discord-communities/blob/master/./CONTRIBUTING.md) . 读这个 [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/master/./FAQ.md#what-about-discords-poor-privacy-policy) 关于Discord的__privacy policy__以及其他常见问题的解答.
 
 -通过浏览器“ ctrl + f”快速查找可能有助于按主题查找社区
-- Click on the [<img height="18px" width="18px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-disc要么d-communities/master/images/badges/homepage.webp">](#) 要么 [<img height="18px" width="18px" alt="Git Reposit要么y" src="https://raw.githubusercontent.com/mhxion/awesome-disc要么d-communities/master/images/badges/git.webp">](#) icon to visit the community's official website 要么 git reposit要么y page
+-点击 [<img height="18px" width="18px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-disc要么d-communities/master/images/badges/homepage.webp">](#) 要么 [<img height="18px" width="18px" alt="Git Reposit要么y" src="https://raw.githubusercontent.com/mhxion/awesome-disc要么d-communities/master/images/badges/git.webp">](#) icon to visit the community's official website 要么 git reposit要么y page
 
 ## Programming in General
 
@@ -404,6 +404,26 @@ Notable Channels: `#general`, `#support`, `#purchase-advice`, `#showcase`, `#act
 
 [__QMK__](https://discord.com/invite/Uq7gcHh) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://qmk.fm/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/qmk) \
 Notable Channels: `#help`, `#firmware`, `#cli`, `#configurator`, `#via`, `#toolbox`, `#webhooks`, `#configurator_log`, `#hardware`, `#ergonomics`, `#programming` \
+英语语言
+
+### Retro Computers
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/amigadev.webp">
+
+[__AmigaDev__](https://discord.com/invite/Dfba7Yb) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.amigadev.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/AmigaPorts) \
+Notable Channels: `#ace`, `#milkytracker`, `#sdl`, `#website`, `#scummvm`, `#68k-arm`, `#python`, `#arexx`, `#amos`, `#c-and-cpp`, `#amiga-68k`, `#amiga-ppc`, `#aros`, `#morphos`, `#warpos-sonnet`, `#vbcc` \
+英语语言
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/official_commodore_64.webp">
+
+[__Official Commodore 64__](https://discord.com/invite/trDvARJ) \
+Notable Channels: `#general`, `#hardware`, `#emulation`, `#programming`, `#support`, `#other-commodore-machines`, `#other-classic-computers` \
+英语语言
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/official_commodore_amiga.webp">
+
+[__Official Commodore Amiga__](https://discord.com/invite/TPpQv2H) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://forum.amiga.org) \
+Notable Channels: `#general`, `#amigashell`, `#next-gen`, `#emulation-and-fpga`, `#hardware`, `#multimedia`, `#coding`, `#accessory-port` \
 英语语言
 
 ## Programming Languages
@@ -1821,7 +1841,7 @@ Notable Channels: `#d3d9-users`, `#d3d9-dev`, `#d3d11-users`, `#d3d11-dev`, `#wi
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/gamingonlinux.webp">
 
-[__GamingOnLinux__](https://discord.gg/0rxBtcSOonvGzXr4) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.gamingonlinux.com/) \
+[__GamingOnLinux__](https://discord.com/invite/AghnYbMjYg) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://www.gamingonlinux.com/) \
 Notable Channels: `#linux-gaming`, `#proton-steamplay-gaming`, `#wine-gaming`, `#cloud-streaming-stadia`, `#tech-support`, `#emulation`, `#developer-stuff`, `#hardware`, `#vr_and_ar`, `#your-content` \
 英语语言
 
@@ -1945,6 +1965,6 @@ Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#caree
 ## Attribution
 
 
-徽章图标由 [Freepik](https://www.flaticon.com/authors/freepik) and [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
+徽章图标由 [Freepik](https://www.flaticon.com/authors/freepik) 和 [Pixel Buddha](https://www.flaticon.com/authors/pixel-buddha).
 
 将此列表归为真棒（受许可证限制），请参见 [how to attribute](https://github.com/mhxion/awesome-discord-communities/blob/master/FAQ.md#FAQ.md#how-to-properly-attribute-to-compliment-the-license-cc-by-40).
