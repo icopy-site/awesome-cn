@@ -43,10 +43,9 @@
 
 ### Games
 
-- [Vlang the Game](https://github.com/alula/vlang-the-game) -一个用vSDL2用V编写的小平台游戏，纯粹是为了模因和乐趣而制作.
 - [Boundstone](https://github.com/organization/boundstone) -高性能/快速编译/轻量级Minecraft：Bedrock Edition Server.
 - [v-pong](https://github.com/thebigsmileXD/v-pong) -经典的桨游戏通过V的力量重生.
-- [flappylearning-v](https://github.com/uxnow/flappylearning-v) -v中的一个简单易用的学习演示.
+- [flappylearning-v](https://github.com/uxnow/flappylearning-v) -v.中的一个简单易用的学习演示（已存档）
 
 ### Command-line
 
@@ -68,7 +67,7 @@
 
 ### Command line interface
 
-- [vargs](https://github.com/nedpals/vargs) -V库，用于解析类似argv的数组的参数.
+- [vargs](https://github.com/nedpals/vargs)  -V库，用于解析类似argv的数组的参数.  （存档）
 - [progressbar](https://github.com/Waqar144/progressbar) -易于使用的V库，可在cli中创建进度条.
 - [boxx](https://github.com/thecodrr/boxx) -创建高度可定制的接线盒，看起来也很棒！ 
 - [lol](https://github.com/0xLeif/lol) -lolcat的V版本（文本/字符Rainbowizer）.
@@ -96,10 +95,10 @@
 
 ### Web
 
-- [validate](https://github.com/endeveit/v-validate) -一个简单的库来验证V中的字符串.
-- [valval](https://github.com/taojy123/valval) -用V编写的Web框架，由vweb改进.
 - [vex](https://github.com/nedpals/vex) -受Express和Sinatra启发，用V编写的Web框架.
 - [vweb](https://github.com/vlang/v/tree/master/vlib/vweb)  -V的内置Web框架. 由Vorum使用.
+- [validate](https://github.com/endeveit/v-validate) -一个简单的库来验证V中的字符串.
+- [valval](https://github.com/taojy123/valval) -用V编写的Web框架，由vweb改进.
 - [v-jsonrpc](https://github.com/nedpals/v-jsonrpc) -用V编写的基本JSON-RPC 2.0兼容服务器.
 - [pico.v](https://github.com/S-YOU/pico.v) -V中基于picoev和picohttpparser的Web服务器.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) -用于vweb的简约Xbox Live身份验证器.

@@ -486,6 +486,7 @@
 * [AliceVision](https://github.com/alicevision/AliceVision) -摄影测量计算机视觉框架，提供3D重建和相机跟踪算法. 
 * [satpy](https://github.com/pytroll/satpy) -用于读取和处理气象遥感数据并将其写入各种图像和数据文件格式的python库.
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) -一组开源Python软件包，这些软件包已经开发出来，可以及时，自动地无缝访问和处理任何卫星机队获取的时空图像序列.
+* [libvips](https://github.com/libvips/libvips) -具有低内存需求的快速图像处理库.
 
 
 ### Radar Processing
@@ -556,7 +557,7 @@
 * [ntripbrowser](https://github.com/emlid/ntripbrowser) -用于浏览NTRIP（通过Internet协议的RTCM的网络传输）的Python API.
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) -与IMU相关的过滤器和可视化器.
 * [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) -RTKLIB版本针对单频和双频低成本GPS接收器（尤其是u-blox接收器）进行了优化.
-* [gLAB](https://gage.upc.edu/gLAB/) -在厘米级别对GNSS观测值（伪距和载波相位）进行精确建模，从而可以独立进行GPS定位，PPP，SBAS和DGNSS.
+* [gLAB](https://gage.upc.edu/gLAB/) -在厘米级执行GNSS可观测值（伪距和载波相位）的精确建模，从而可以独立进行GPS定位，PPP，SBAS和DGNSS.
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) -包含仅基于IMU的轮式车辆航位推算的新颖精确方法的代码.
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) -使用Jupyter Notebook的Kalman筛选器书.
 * [mcl_3dl](https://github.com/at-wat/mcl_3dl) -ROS节点，用于为具有3-D LIDAR的移动机器人执行概率3-D / 6-DOF定位系统.
@@ -727,7 +728,7 @@
 * [ag](https://github.com/ggreer/the_silver_searcher) -一种类似于ack的代码搜索工具，但速度更快.
 * [fzf](https://github.com/junegunn/fzf) -命令行模糊查找器.
 * [pkgtop](https://github.com/orhun/pkgtop) -为GNU / Linux设计的交互式软件包管理器和资源监视器.
-* [asciimatics](https://github.com/peterbrittain/asciimatics) -一个跨平台的程序包，可以执行类似curses的操作，以及更高级别的API和小部件来创建文本UI和ASCII艺术动画.
+* [asciimatics](https://github.com/peterbrittain/asciimatics) -一个跨平台的程序包，可进行类似curses的操作，以及更高级别的API和小部件，可创建文本UI和ASCII艺术动画.
 * [gocui](https://github.com/jroimartin/gocui) -极简主义Go软件包，旨在创建控制台用户界面.
 * [TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) -小型C ++程序，用于使用RGB ANSI代码和unicode块图形字符在（现代）终端中显示图像.
 * [rosshow](https://github.com/dheera/rosshow) -使用Unicode / ASCII艺术图在终端内可视化ROS主题.
@@ -884,7 +885,7 @@
 * [rosserial](https://github.com/ros-drivers/rosserial) -用于小型嵌入式设备（例如Arduino）的ROS客户端库.
 * [meta-ros](https://github.com/ros/meta-ros/tree/thud-draft) -用于ROS应用程序的OpenEmbedded层.
 * [meta-balena](https://github.com/balena-os/meta-balena) -在嵌入式设备上运行Docker容器.
-* [micro-ros](https://micro-ros.github.io/) -与“常规” ROS 2相比，主要变化是微型ROS使用实时操作系统（RTOS）代替Linux，并使用DDS用于极端资源受限的环境.
+* [micro-ros](https://micro-ros.github.io/) -与“常规” ROS 2相比，主要变化是微型ROS使用实时操作系统（RTOS）而不是Linux，并在极端资源受限的环境中使用DDS.
 * [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime/) -NVIDIA Container Runtime是可识别GPU的容器运行时，与Docker，CRI-O和其他流行的容器技术所使用的Open Containers Initiative（OCI）规范兼容.
 * [fusesoc](https://github.com/olofk/fusesoc) -用于FPGA / ASIC开发的软件包管理器和构建抽象工具.
 * [jetson_easy](https://github.com/rbonghi/jetson_easy) -自动脚本来设置和配置NVIDIA Jetson.
@@ -993,7 +994,7 @@
 ## Security
 * [owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) -Threat Dragon是一款免费的开源跨平台威胁建模应用程序，包括系统图表和自动生成威胁/缓解措施的规则引擎.
 * [launch_ros_sandbox](https://github.com/ros-tooling/launch_ros_sandbox) -可以定义在受限环境中运行节点的启动文件，例如Docker容器或权限受限的单独用户帐户.
-* [wolfssl](https://github.com/wolfSSL/wolfssl) -TLS / SSL的小型，快速，可移植实施，用于将嵌入式设备连接到云.
+* [wolfssl](https://github.com/wolfSSL/wolfssl) -TLS / SSL的一种小型，快速，可移植的实现，用于将嵌入式设备连接到云.
 * [CANalyzat0r](https://github.com/schutzwerk/CANalyzat0r) -专有汽车协议的安全分析工具包.
 * [RSF](https://github.com/aliasrobotics/RSF) -机器人安全框架（RSF）是在机器人技术中执行安全评估的标准化方法.
 * [How-to-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) -不断发展的方法指南，用于保护Linux服务器.
@@ -1023,6 +1024,7 @@
 
 
 ## Datasets
+* [Papers With Code](https://www.paperswithcode.com/datasets) -Papers With Code提供的成千上万的机器学习数据集.
 * [KITTI-360](https://github.com/autonomousvision/kitti360Scripts) -该大型数据集包含73.2 km的行驶距离中的320k图像和100k激光扫描.
 * [waymo_ros](https://github.com/YonoHub/waymo_ros) -这是一个ROS软件包，用于将Waymo开放数据集连接到ROS.
 * [waymo-open-dataset](https://github.com/waymo-research/waymo-open-dataset) -Waymo开放数据集由Waymo自动驾驶汽车在各种条件下收集的高分辨率传感器数据组成.

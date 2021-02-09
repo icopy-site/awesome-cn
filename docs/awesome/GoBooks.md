@@ -66,7 +66,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
-  Go中的编程将评估Go，在Go中进行思考以及使用Go编写高性能软件所需的全部知识汇总在一起. 萨默菲尔德（Summerfield）提供了多个成语比较，以准确显示Go如何改进旧语言，并特别注意Go的关键创新. 在此过程中，他解释了从绝对基础到Go的无锁基于通道的并发以及它灵活而又不寻常的“鸭式”类型安全的面向对象方法的所有内容.
+  Go中的编程将评估Go，在Go中进行思考以及使用Go编写高性能软件所需的全部知识汇总在一起. 萨默菲尔德（Summerfield）提供了多个成语比较，以准确显示Go如何改进旧语言，并特别注意Go的关键创新. 在此过程中，他解释了从绝对基础到Go的无锁基于通道的并发以及它灵活而又不寻常的鸭子类型类型安全的面向对象方法的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
@@ -150,13 +150,13 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 深入研究网络体系结构和Go中的关键主题，例如数据序列化，应用程序级别协议，字符集和编码. 本书涵盖了网络体系结构，并概述了Go语言作为入门知识，涵盖了最新的Go版本.
 
-除了基础知识之外，Go网络编程还涵盖了关键的网络和安全性问题，例如HTTP和HTTPS，模板，远程过程调用（RPC），包括HTML5 Web套接字的Web套接字等.
+除了基础知识之外，Go的网络编程还涵盖关键的网络和安全性问题，例如HTTP和HTTPS，模板，远程过程调用（RPC），包括HTML5 Web套接字的Web套接字等.
 
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783983483/lrg.jpg" width="120px"/>
 
-本书将带您了解并发的历史，Go的使用方式，Go与其他语言的不同之处以及Go并发核心的功能和结构. 本书的每一步，都将提供真实，可用的示例，并详细说明所用方法. 最后，您将在Go中设计一个安全，数据一致，高性能的并发应用程序，感到很自在.
+本书将带您了解并发的历史，Go的用法，Go与其他语言的不同之处以及Go并发核心的功能和结构. 本书的每一步，都将提供真实，可用的示例，并详细说明所用方法. 最后，您将在Go中设计一个安全，数据一致，高性能的并发应用程序，感到很自在.
 
 ### [Go in Practice](http://www.manning.com/butcher/)
 
@@ -241,7 +241,7 @@ code.
 
 <img src="http://akamaicovers.oreilly.com/images/9781783981304/lrg.jpg" width="120px"/>
 
-本书将引导您完成使用惯用的REST实践设计，构建和部署Web服务的最重要方面，重点是速度，安全性和灵活性. 您将开始使用HTTP包在Go中构建第一个API. 您将研究设计和构建应用程序，包括流行的设计结构，例如Model-View-Controller. 您还将了解将代码部署到登台和开发的方法. 最后，您将看到如何使用Go中的安全功能来防止SQL注入和敏感数据泄露.
+本书将带您了解使用惯用的REST实践设计，构建和部署Web服务的最重要方面，重点是速度，安全性和灵活性. 您将开始使用HTTP包在Go中构建第一个API. 您将研究设计和构建应用程序，包括流行的设计结构，例如Model-View-Controller. 您还将了解将代码部署到登台和开发的方法. 最后，您将看到如何使用Go中的安全功能来防止SQL注入和敏感数据泄露.
 
 ### [Level Up Your Web Apps With Go](https://learnable.com/books/level-up-your-web-apps-with-go)
 
@@ -321,6 +321,7 @@ Resources
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 ### [Coursera Specialization: Programming with Go](https://www.coursera.org/specializations/google-golang/)
+### [Course: Understand Go's In-Depth Mechanics](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37)
 ### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
 ### [Course: Web Development with Google’s Go Programming Language](https://www.udemy.com/course/go-programming-language)
 ### [Golangbot.com Articles](https://golangbot.com/)
