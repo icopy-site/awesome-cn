@@ -112,7 +112,7 @@
 - [next.js](https://github.com/vercel/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
 - [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
-- [remix](https://remix.run/) -最后，React Router的创建者提供了一个杀手React的React框架
+- [remix](https://remix.run/) -最后，React Router的创建者提供了一个致命的React框架
 - [aleph.js](https://github.com/alephjs/aleph.js) -Deno中的React框架
 
 ##### React Styling
@@ -133,7 +133,7 @@
 
 ##### React Component Libraries
 
-- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
+- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快更轻松地进行Web开发
 - [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
 - [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
 - [Fluent UI](https://github.com/microsoft/fluentui) -一组用于构建Microsoft Web体验的React组件
@@ -147,9 +147,9 @@
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) -用于React的Font Awesome 5组件库
 - [reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
 - [rsuite](https://github.com/rsuite/rsuite) -一套React组件
-- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -Atlassian的官方UI库，根据Atlassian设计指南构建.
+- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
-- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，包含50多个具有材质，自举和自定义主题的组件.
+- [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，其中包含50多个具有材质，引导程序和自定义主题的组件.
 - [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
 - [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
 - [rbx](https://github.com/dfee/rbx) -React的综合Bulma UI框架
@@ -218,7 +218,7 @@
 - [jest](https://github.com/facebook/jest) -令人愉快的JavaScript测试框架
 - [enzyme](https://github.com/airbnb/enzyme) -用于React的JavaScript测试实用程序
 - [react-testing-library](https://github.com/testing-library/react-testing-library) -简单而完整的React DOM测试实用程序
-- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -React钩子测试实用程序，鼓励良好的测试实践
+- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities that encourage good testing practices
 - [majestic](https://github.com/Raathigesh/majestic) -玩笑的零配置GUI
 
 ##### React Libraries
@@ -247,10 +247,9 @@
 - [compose-state](https://github.com/tvler/compose-state) -在React中编写多个setState或getDerivedStateFromProps更新器
 - [react-lodash](https://github.com/typicode/react-lodash) -Lodash作为React组件
 - [react-helmet](https://github.com/nfl/react-helmet) -React的文档主管
-- [Stator](https://github.com/cs01/stator) -简单，简单的JavaScript状态管理，内置对React的支持
 - [ClearX](https://github.com/Autodesk/clearx)  -零学习曲线的快速，轻松状态管理.  ClearX为React应用程序的关注点分离提供了极大的灵活性
 - [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态预呈现
-- [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors
+- [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
 - [refract](https://github.com/fanduel-oss/refract) -利用反应式编程的力量为您的组件增压
 - [react-desktop](https://github.com/gabrielbull/react-desktop) -使用React构建的OS X和Windows UI组件
 - [Reapop](https://github.com/LouisBarranqueiro/reapop) -一个React＆Redux通知系统
@@ -331,7 +330,7 @@
 
 ##### React AR and VR
 
-- [React 360](https://facebook.github.io/react-360/) -使用React创建令人兴奋的360和VR体验
+- [React 360](https://github.com/facebookarchive/react-360) -使用React创建令人兴奋的360和VR体验（已存档，只读）
 - [Viro React](https://viromedia.com/viroreact/) -使用React Native快速构建AR / VR应用程序的平台
 
 ##### React Renderers
@@ -340,7 +339,7 @@
 - [React Sketch.app](https://github.com/airbnb/react-sketchapp) -将React组件渲染到Sketch
 - [React Figma](https://github.com/react-figma/react-figma) -Figma的React渲染器
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) -Three.js的React渲染器（Web和react-native）
-- [React 360](https://facebook.github.io/react-360/)
+- [React 360](https://github.com/facebookarchive/react-360) -（已归档，只读）
 - [react-nil](https://github.com/pmndrs/react-nil) -React null渲染器
 - [React PDF](https://github.com/diegomura/react-pdf) -使用React创建PDF文件
 - [React Hardware](https://github.com/iamdustan/react-hardware) -硬件的React渲染器
@@ -374,7 +373,7 @@
 
 ##### Autocomplete
 
-- [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete) -符合WAI-ARIA的React自动完成
+- [react-autocomplete by @rackt](https://github.com/rackt/react-autocomplete) -符合WAI-ARIA的React自动完成功能（已归档，只读）
 - [react-autosuggest by @moroshko](https://github.com/moroshko/react-autosuggest) -符合WAI-ARIA的React自动建议组件
 - [react-autocomplete by @eliseumds](https://github.com/eliseumds/react-autocomplete) -只是品尝一些ReactJS + RxJS
 - [react-autocomplete by @prometheusresearch](https://github.com/prometheusresearch/react-autocomplete) -基于React的自动完成小部件
@@ -428,7 +427,7 @@
 - [react-map-gl](https://github.com/uber/react-map-gl) -适用于MapboxGL-js的React包装器以及叠加API
 - [google-map-react](https://github.com/istarkov/google-map-react) -同构的Google Map React组件
 - [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl) -一个使API反应友好的mapbox-gl-js包装器
-- [google-maps-react](https://github.com/fullstackreact/ - A declarative Google Map React component using React, lazy-loading dependencies, current-location finder and a test-driven approach by the Fullstack React team.google-maps-react)
+- [google-maps-react](https://github.com/fullstackreact/google-maps-react) -声明式Google Map React组件，使用React，延迟加载依赖项，当前位置查找器以及Fullstack React团队的测试驱动方法.
 - [react-leaflet](https://react-leaflet.js.org/) -用于传单地图的React组件
 - [react-geo](https://github.com/terrestris/react-geo) -使用react，antd和ol的一组与地理相关的组件
 - [pigeon-maps](https://github.com/mariusandra/pigeon-maps) -无外部依赖的ReactJS映射
@@ -546,14 +545,14 @@
 - [redux-form](https://github.com/erikras/redux-form) -使用react-redux保持表单状态的高阶组件
 - [redux-thunk](https://github.com/gaearon/redux-thunk) -用于redux的Thunk中间件
 - [redux-logger](https://github.com/theaqua/redux-logger) -Redux的Logger中间件
-- [reselect](https://github.com/reactjs/reselect) -Redux选择器库
+- [reselect](https://github.com/reduxjs/reselect) -Redux选择器库
 - [normalizr](https://github.com/paularmstrong/normalizr) -根据架构规范嵌套的JSON
-- [redux-saga](https://github.com/yelouafi/redux-saga) -Redux应用程序的替代副作用模型
+- [redux-saga](https://github.com/redux-saga/redux-saga) -Redux应用程序的替代副作用模型
 - [redux-data-fx](https://github.com/matthieu-beteille/redux-data-fx) -Redux的声明性副作用
 - [redux-observable](https://github.com/redux-observable/redux-observable) -用于Redux的RxJS中间件
 - [redux-analytics](https://github.com/markdalgleish/redux-analytics) -Redux的分析中间件
 - [redux-undo](https://github.com/omnidan/redux-undo) -高阶reducer将撤销/重做功能添加到redux状态容器
-- [redux-search](https://github.com/treasure-data/redux-search) -用于客户端搜索的Redux绑定
+- [redux-search](https://github.com/bvaughn/redux-search) -用于客户端搜索的Redux绑定
 - [redux-mock-store](https://github.com/arnaudbenard/redux-mock-store) -模拟商店，供您测试Redux异步操作创建者和中间件
 - [redux-immutable](https://github.com/gajus/redux-immutable) -创建与Immutable.js状态一起使用的Redux CombineReducers的等效功能
 - [redux-react-i18n](https://github.com/derzunov/redux-react-i18n) -用于还原/反应的i18n解决方案
@@ -565,8 +564,8 @@
 #### Redux Tutorials
 
 - [Building Applications with React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6)
-- [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-- [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
+- [Getting Started with Redux](https://app.egghead.io/courses/getting-started-with-redux)
+- [Building React Applications with Idiomatic Redux](https://app.egghead.io/courses/building-react-applications-with-idiomatic-redux)
 - [Redux Tutorial](https://github.com/happypoulp/redux-tutorial)
 - [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 1](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
 - [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 2](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)
@@ -591,7 +590,7 @@
 #### MobX General Resources
 
 - [MobX GitHub](https://github.com/mobxjs/mobx)
-- [MobX Official Site](https://mobxjs.github.io/mobx/)
+- [MobX Official Site](https://mobx.js.org/README.html)
 
 #### MobX Tools
 
@@ -599,7 +598,7 @@
 
 #### MobX Tutorials
 
-- [Ten minute introduction to MobX and React](https://mobxjs.github.io/mobx/getting-started.html)
+- [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started)
 - [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 - [Refactor your application from Redux to MobX](http://www.robinwieruch.de/mobx-react)
 - [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
@@ -622,7 +621,7 @@
 - [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms)
 - [Mongoose schema To GraphQL](https://github.com/sarkistlt/mongoose-schema-to-graphql)
 - [GraphQL bridge to REST API](https://github.com/dacz/apollo-bridge-link)
-- [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphcool/graphql-playground)
+- [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphql/graphql-playground)
 
 #### GraphQL Tutorials
 
@@ -639,12 +638,12 @@
 #### GraphQL Implementations
 
 - [graphql-js](https://github.com/graphql/graphql-js) -GraphQL ** JavaScript **的参考实现
-- [react-transmit](https://github.com/RickWong/react-transmit) -基于``JavaScript Promises&#39;&#39;的基于中继的库
+- [react-transmit](https://github.com/RickWong/react-transmit) -基于** JavaScript Promise **的基于中继的库（已归档，只读）
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) -Facebook GraphQL的** Ruby **实现
-- [graphql-java](https://github.com/andimarek/graphql-java) -GraphQL ** Java **实现
-- [sangria](https://github.com/OlegIlyenko/sangria) - **Scala** GraphQL client and server library
+- [graphql-java](https://github.com/howtographql/graphql-java) -GraphQL ** Java **实现
+- [sangria](https://github.com/sangria-graphql/sangria) -** Scala ** GraphQL客户端和服务器库
 - [graphql-php](https://github.com/webonyx/graphql-php) -GraphQL参考实现的** PHP **端口
-- [graphene](http://graphene-python.org/) -** Python **中的GraphQL变得简单
+- [graphene](https://graphene-python.org/) -** Python **中的GraphQL变得简单
 - [graphqllib](https://github.com/dittos/graphqllib) -** Python **的GraphQL实现
 - [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) -适用于**.NET **的GraphQL
 - [graphql-go](https://github.com/graphql-go/graphql) -用于Go / Golang的GraphQL
@@ -652,7 +651,7 @@
 #### Server Integration
 
 - [express-graphql](https://github.com/graphql/express-graphql) -使用** Express **创建GraphQL HTTP服务器
-- [graphql-yoga](https://github.com/graphcool/graphql-yoga) -运行GraphQL服务器的最简单方法
+- [graphql-yoga](https://github.com/prisma-labs/graphql-yoga) -运行GraphQL服务器的最简单方法
 
 #### Database Integration
 
@@ -672,7 +671,7 @@
 
 #### Relay General Resources
 
-- [Relay Offical Site](https://facebook.github.io/relay/)
+- [Relay Offical Site](https://relay.dev/)
 - [Relay GitHub](https://github.com/facebook/relay)
 
 #### Relay Tutorials
@@ -698,7 +697,7 @@
 #### Apollo General Resources
 
 - [Apollo Official Site](http://www.apollostack.com/)
-- [Apollo GitHub](https://github.com/apollostack)
+- [Apollo GitHub](https://github.com/apollographql)
 - [Apollo Blog](https://medium.com/apollo-stack)
 - [Apollo Slack](https://apollostack.slack.com/)
 

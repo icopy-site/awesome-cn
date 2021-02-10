@@ -63,7 +63,7 @@ _与CLI相关的所有库.
 - [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) -控制台的图形基元.
 - [JCommander](http://jcommander.org) -具有自定义类型和通过实现接口进行验证的命令行参数解析框架.
 - [jbock](https://github.com/h908714124/jbock) -类型安全，无反射，基于注释的命令行解析器.
-- [Jexer](https://gitlab.com/klamonte/jexer)  -先进的控制台（和Swing）文本用户界面（TUI）库，带有可拖动鼠标的窗口，内置的终端窗口管理器和sixel图像支持. 好像 [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
+- [Jexer](https://gitlab.com/klamonte/jexer)  -先进的控制台（和Swing）文本用户界面（TUI）库，带有可拖动鼠标的窗口，内置的终端窗口管理器和sixel图像支持. 看起来像 [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [JLine](https://github.com/jline/jline3) -包括来自现代炮弹的功能，例如完成或历史记录.
 - [JOpt Simple](https://jopt-simple.github.io/jopt-simple/) - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.
 - [picocli](https://picocli.info) -使用中的ANSI颜色和样式有助于基于注释的POSIX / GNU /任何语法，子命令，选项和位置参数的强类型化.
@@ -283,6 +283,7 @@ _分布式事务提供了一种机制，用于确保在存在并发访问和部�
 
 _以本机格式处理应用程序分发的工具.
 
+- [Artipie](https://github.com/artipie/artipie) -二进制工件管理工具包，将它们托管在文件系统或S3上.
 -[Boxfuse！[c]]（https://boxfuse.com）-使用不可变基础结构原理将JVM应用程序部署到AWS.
 - [Capsule](https://github.com/puniverse/capsule)  -简单而强大的打包和部署. 类固醇上的胖JAR，或支持JVM优化的容器的“ Java Docker”.
 - [Central Repository](https://search.maven.org)  -最大的二进制组件存储库，可作为开源社区的免费服务.  Apache Maven使用的默认值，并且在所有其他构建工具中可用.
@@ -362,7 +363,7 @@ _用于处理地理空间数据和算法的库.
 - [H2GIS](http://www.h2gis.org)  -H2数据库的空间扩展.  （仅限LGPL-3.0）
 - [Jgeohash](https://astrapi69.github.io/jgeohash/) -使用GeoHash算法的库.
 - [Mapsforge](https://github.com/mapsforge/mapsforge)  -基于OpenStreetMap数据的地图渲染.  （仅限LGPL-3.0）
-- [Spatial4j](https://github.com/locationtech/spatial4j) - General-purpose spatial/geospatial library.
+- [Spatial4j](https://github.com/locationtech/spatial4j) -通用空间/地理空间库.
 
 ### GUI
 
@@ -519,7 +520,7 @@ _提供用于从数据中学习的特定统计算法的工具._
 - [Oryx 2](https://github.com/OryxProject/oryx)  -用于构建实时，大规模机器学习应用程序的框架. 包括用于协同过滤，分类，回归和集群化的端到端应用程序.
 - [Siddhi](https://github.com/siddhi-io/siddhi) -云原生流和复杂事件处理引擎.
 - [Smile](https://github.com/haifengl/smile) -统计机器智能和学习引擎提供了一组机器学习算法和可视化库.
-- [Tribuo](https://tribuo.org/) -提供用于分类，回归，聚类，模型开发以及与其他库（例如scikit-learn，pytorch和TensorFlow）接口的工具.
+- [Tribuo](https://tribuo.org/) -提供用于分类，回归，聚类，模型开发的工具，并提供与scikit-learn，pytorch和TensorFlow等其他库的接口.
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/)  -收集用于从预处理到可视化的数据挖掘任务的算法.  （仅限GPL-3.0）
 
 ### Messaging
@@ -532,7 +533,7 @@ _帮助客户端之间发送消息以确保协议独立性的工具._
 - [Apache Kafka](https://kafka.apache.org) -高吞吐量的分布式消息传递系统.
 - [Apache Pulsar](https://pulsar.apache.org) -分布式发布/子消息系统.
 - [Apache RocketMQ](https://rocketmq.apache.org) -快速，可靠和可扩展的分布式消息传递平台.
-- [Apache Qpid](https://qpid.apache.org) - Apache Qpid makes messaging tools that speak AMQP and support many languages and platforms.
+- [Apache Qpid](https://qpid.apache.org) -Apache Qpid开发了使用AMQP并支持多种语言和平台的消息传递工具.
 - [EventBus](https://github.com/greenrobot/EventBus) -简单的发布/订阅事件总线.
 - [Hermes](http://hermes.allegro.tech) -建立在Kafka之上的快速可靠的消息代理.
 - [JeroMQ](https://github.com/zeromq/jeromq) -实施ZeroMQ.
@@ -563,7 +564,7 @@ _其他一切._
 - [CQEngine](https://github.com/npgall/cqengine) -对Java集合的超快速，类似SQL的查询.
 - [Design Patterns](https://github.com/iluwatar/java-design-patterns) -实施和解释最常见的设计模式.
 - [FF4J](https://github.com/ff4j/ff4j) -Java的功能标志.
-- [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)  -由严肃的商人出于严肃的商业目的而制作的FizzBu​​zz，这是胡说八道.  （无明确许可）
+- [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)  -由严肃的商人出于严肃的商业目的而制作的FizzBu​​zz，这是胡扯.  （无明确许可）
 - [J2ObjC](https://github.com/google/j2objc) -Java-to-Objective-C转换器，用于将Android库移植到iOS.
 - [JBake](https://jbake.org) -静态网站生成器.
 - [JBot](https://github.com/rampatra/jbot)  -构建聊天机器人的框架.  （仅限GPL-3.0）
@@ -751,7 +752,7 @@ _框架是包含多个类别的多个库的套件.
 - [JXPath](http://commons.apache.org/proper/commons-jxpath/) -使用XPath语法处理Java Bean的实用程序.
 - [Lang](http://commons.apache.org/proper/commons-lang/) -为java.lang中的类提供额外的功能.
 - [Logging](https://commons.apache.org/proper/commons-logging/) -各种日志API实现的包装器.
-- [Math](http://commons.apache.org/proper/commons-math/) -轻巧，独立的数学和统计组件.
+- [Math](http://commons.apache.org/proper/commons-math/) - Lightweight, self-contained mathematics and statistics components.
 - [Monitoring](http://commons.apache.org/sandbox/commons-monitoring/) -监视旨在为Java应用程序提供一个简单但可扩展的监视解决方案.
 - [Nabla](http://commons.apache.org/sandbox/commons-nabla/) -Nabla提供了自动区分类，可以生成以Java语言实现的任何功能的派生类.
 - [Net](http://commons.apache.org/proper/commons-net/) -收集网络实用程序和协议实现.
@@ -846,7 +847,7 @@ _处理安全性，身份验证，授权或会话管理的库.
 - [Apache Shiro](https://shiro.apache.org) -执行身份验证，授权，加密和会话管理.
 - [Bouncy Castle](https://www.bouncycastle.org/java.html) -通用的加密库和JCA提供程序，提供从基本帮助程序到PGP / SMIME操作的广泛功能.
 - [Cryptomator](https://cryptomator.org)  -云中文件的多平台，透明，客户端加密.  （仅限GPL-3.0）
-- [Hdiv](https://github.com/hdiv/hdiv) -排除OWASP Top 10中包含的应用程序安全风险的运行时应用程序，包括SQL注入，跨站点脚本，跨站点请求伪造，数据篡改和暴力攻击.
+- [Hdiv](https://github.com/hdiv/hdiv) - Runtime application that repels application security risks included in the OWASP Top 10, including SQL injection, cross-site scripting, cross-site request forgery, data tampering, and brute force attacks.
 - [jjwt](https://github.com/jwtk/jjwt) -适用于Java和Android的JSON网络令牌.
 - [Jwks RSA](https://github.com/auth0/jwks-rsa-java) -JSON Web密钥集解析器.
 - [Kalium](https://github.com/abstractj/kalium) -绑定网络和密码学（NaCl）库.
@@ -855,6 +856,7 @@ _处理安全性，身份验证，授权或会话管理的库.
 - [Nbvcxz](https://github.com/GoSimpleLLC/nbvcxz) -高级密码强度估算.
 - [OACC](http://oaccframework.org) -提供基于权限的授权服务.
 - [pac4j](https://github.com/pac4j/pac4j) -安全引擎.
+- [Password4j](https://github.com/Password4j/password4j) -用户友好的加密库，支持Argon2，Bcrypt，Scrypt，PBKDF2和其他各种加密哈希函数.
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) -用于JCA和JSSE类（尤其是X.509证书）的Fluent Builder API.
 - [SSLContext-Kickstart](https://github.com/Hakky54/sslcontext-kickstart) -用于使用SSL / TLS配置HTTP客户端的高级SSL上下文构建器.
 - [Themis](https://github.com/cossacklabs/themis) 多平台高级密码库提供了易于使用的加密来保护敏感数据：具有前向保密性的安全消息传递，安全数据存储（AES256GCM）； 适用于构建端到端的加密应用程序.

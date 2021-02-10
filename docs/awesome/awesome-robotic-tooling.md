@@ -176,7 +176,7 @@
 * [Launch](https://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects) -有关如何为大型项目创建启动文件的模板.
 * [Bash](https://github.com/ralish/bash-script-template) -结合了最佳实践和一些有用功能的bash脚本模板.
 * [URDF](https://wiki.ros.org/urdf/Examples) -有关如何为不同类型的机器人创建统一机器人描述格式（URDF）的示例.
-* [Python](http://wiki.ros.org/PyStyleGuide) - Style guide to be followed in writing Python code for ROS.
+* [Python](http://wiki.ros.org/PyStyleGuide) -为ROS编写Python代码时要遵循的风格指南.
 * [Docker](https://ade-cli.readthedocs.io/en/latest/create-custom-base-image.html) -minimal-ade项目中的Dockerfile显示了如何创建自定义基础映像的最小示例.
 * [VS Code ROS2 Workspace Template](https://github.com/athackst/vscode_ros2_workspace) -用于将VSCode用作ROS2开发的IDE的模板.
 
@@ -265,7 +265,7 @@
 * [meld](https://github.com/GNOME/meld) -Meld是一个可视化的差异和合并工具，可帮助您比较文件，目录和版本控制的项目.
 * [tig](https://github.com/jonas/tig) -git的文本模式界面.
 * [gitg](https://github.com/GNOME/gitg) -git的图形用户界面.
-* [git-cola](https://github.com/git-cola/git-cola) -高度咖啡因的Git GUI.
+* [git-cola](https://github.com/git-cola/git-cola) - The highly caffeinated Git GUI.
 * [python-gitlab](https://github.com/python-gitlab/python-gitlab) -提供访问GitLab服务器API的Python软件包.
 * [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) -删除像git-filter-branch一样大或麻烦的斑点，但速度更快.
 * [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
@@ -343,7 +343,7 @@
 * [solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) -SolidWorks到URDF导出器.
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) -您自己的3D参数建模器.
 * [kicad](http://www.kicad-pcb.org/) -跨平台和开源电子设计自动化套件.
-* [PcbDraw](https://github.com/yaqwsx/PcbDraw) -将您的KiCAD板转换成适合引出线图的漂亮2D工程图.
+* [PcbDraw](https://github.com/yaqwsx/PcbDraw) -将您的KiCAD板转换成适合引出线图的漂亮2D图.
 * [kicad-3rd-party-tools](https://github.com/xesscorp/kicad-3rd-party-tools) -其他人用来增强KiCad PCB EDA套件的工具.
 * [PandaPower](http://www.pandapower.org) -易于使用的开源工具，可高度自动化地用于电力系统建模，分析和优化.
 * [LibrePCB](https://github.com/LibrePCB/LibrePCB) -面向所有人的强大，创新和直观的EDA工具.
@@ -367,6 +367,7 @@
 * [OpenMDAO](https://github.com/OpenMDAO/OpenMDAO) -用于有效的多学科优化的开源框架.
 * [ODrive](https://github.com/madcowswe/ODrive) -目的是使在高性能机器人项目中使用廉价的无刷电机成为可能.
 * [OpenTirePython](https://github.com/OpenTire/OpenTirePython) -开源数学轮胎建模库.
+* [Inkscape Ray Optics](https://github.com/damienBloch/inkscape-raytracing) -Inkscape的扩展，可以更轻松地绘制光学图.
 
 ## Sensor Processing
 ### Calibration and Transformation

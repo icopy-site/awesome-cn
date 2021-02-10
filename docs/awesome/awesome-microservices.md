@@ -44,7 +44,7 @@
 - [Open Liberty](https://openliberty.io/) -一个轻量级的开放框架，用于构建快速有效的云原生Java微服务.
 - [Orbit](https://github.com/orbit/orbit) -JVM语言的现代框架，使构建和维护分布式和可伸缩的在线服务变得更加容易.
 - [SmallRye](https://smallrye.io/) -专为云开发量身定制的API和实现，包括Eclipse MicroProfile.
-- [Thorntail](https://thorntail.io/) -一种新颖的打包和运行Java EE应用程序的方法，方法是将它们与足够的服务器运行时打包在一起，以“ java -jar”应用程序.
+- [Thorntail](https://thorntail.io/) -通过将Java EE应用程序打包到足够的服务器运行时中来打包和运行Java EE应用程序的一种创新方法，以“ java -jar”您的应用程序.
 - [ScaleCube](https://github.com/scalecube/scalecube) -用于为JVM构建响应式微服务的工具包：低延迟，高吞吐量，可扩展且具有弹性.
 - [Vert.X](http://vertx.io/) -用于在JVM上构建响应式应用程序的工具包.
 - [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) -一组Vert.x组件，用于构建响应式微服务应用程序.
@@ -83,6 +83,7 @@
 
 ### CSharp
 
+- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) ：star：-很棒的培训系列，文章，视频，书籍，课程，示例项目以及.NET Core中微服务工具的​​集合.
 - [Akka.NET](http://getakka.net/) -用于在.NET和Mono上构建高度并发，分布式和容错事件驱动的应用程序的工具包和运行时.
 - [Microdot](https://github.com/gigya/microdot) -开源.NET微服务框架.
 - [Nancy](http://nancyfx.org/) -轻量级的Web框架.
@@ -123,7 +124,7 @@
 - [Gorilla](http://www.gorillatoolkit.org/) -用于Go编程语言的Web工具包.
 - [Iris](https://github.com/kataras/iris) -用于Go的快速，简单和高效的微型Web框架.
 - [Kite](https://github.com/koding/kite) -Go中的微服务框架.
-- [KrakenD](https://github.com/devopsfaith/krakend) - Framework to build ultra performance API Gateways with middlewares.
+- [KrakenD](https://github.com/devopsfaith/krakend) -使用中间件构建超高性能API网关的框架.
 - [Libchan](https://github.com/docker/libchan) -超轻量级的网络库，该网络库使网络服务的通信方式与goroutine使用通道进行通信的方式相同.
 - [Micro](https://github.com/micro/micro) -适用于云及其他环境的分布式系统运行时.
 - [Nano](https://github.com/pasztorpisti/nano) -简约，与运输无关且易于测试的微服务框架.
@@ -187,7 +188,7 @@
 
 ### Node.js
 
-- [Actionhero](http://www.actionherojs.com/) -具有集成集群功能和延迟任务的多传输Node.js API服务器.
+- [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
 - [Baucis](https://github.com/wprl/baucis) -构建和维护可扩展的HATEOAS / Level 3 REST API.
 - [BeeMS](https://github.com/umuplus/beems) -基于Bee Queue的极简工具包，用于构建快速，分散，可扩展和容错的微服务.
 - [ClaudiaJS](https://claudiajs.com/) -易于将Node.js项目部署到AWS Lambda和API网关.
@@ -203,7 +204,7 @@
 - [Micro](http://github.com/zeithq/micro) -异步HTTP微服务.
 - [Micro Panda](https://github.com/zhaoyao91/micro-panda) -Node.js工具包，可帮助构建微服务.
 - [Micro-Whalla](https://github.com/czerwonkabartosz/Micro-Whalla) -用于在Node.js中编写微服务的简单，快速框架，使用RPC / IPC进行通信.
-- [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
+- [Restify](http://restify.com/) -专为使您能够构建正确的REST Web服务而构建的Node.js模块.
 - [Seneca](http://senecajs.org/) -用于Node.js的微服务工具包
 - [Serverless](https://github.com/serverless/serverless) -构建和维护在AWS Lambda和API网关（以前称为JAWS）上运行的Web，移动和IoT应用程序.
 - [Steriods Framework](https://github.com/99xt/steroidslibrary) -类固醇框架通过使开发人员能够将更多的精力放在业务/域逻辑上，而不是过多地关注技术细节，从而简化了使用TypeScript的无服务器微服务的开发.
@@ -218,7 +219,7 @@
 - [API Platform](https://api-platform.com/) -Symfony之上具有JSON-LD，Schema.org和Hydra支持的API优先的Web框架.
 - [Fat-Free](https://fatfreeframework.com/) -一个功能强大但易于使用的PHP微框架.
 - [Flight](https://github.com/mikecao/flight) -可扩展的微框架.
-- [Hyperf](https://github.com/hyperf/hyperf) -Hyperf是基于Swoole 4.5+的高性能和灵活的PHP CLI框架，由最新的协程服务器和大量经过测试的组件提供支持.
+- [Hyperf](https://github.com/hyperf/hyperf) - Hyperf is an extremely performant and flexible PHP CLI framework based on Swoole 4.5+, powered by the state-of-the-art coroutine server and a large number of battle-tested components.
 - [Lumen](https://lumen.laravel.com/) -惊人的快速微框架.
 - [Phalcon](https://phalconphp.com/) -作为C扩展提供的全栈PHP框架.
 - [Slim](http://www.slimframework.com/) -微框架，可帮助您快速编写简单但功能强大的Web应用程序和API.
@@ -237,7 +238,7 @@
 - [Nameko](https://github.com/onefinestay/nameko) -用于构建微服务的Python框架.
 - [Sanic](https://github.com/channelcat/sanic) -Sanic是类似于Flask的Python 3.5+ Web服务器，其编写速度很快.
 - [Tornado](http://www.tornadoweb.org/) -Web框架和异步网络库.
-- [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
+- [Twisted](https://twistedmatrix.com/trac/) -事件驱动的网络编程引擎.
 - [Web.py](https://github.com/webpy/webpy/) -适用于Python的简约Web框架.
 - [Zappa](https://github.com/Miserlou/Zappa) -用于构建和部署无服务器Python事件驱动的Web应用程序的框架.
 
@@ -252,13 +253,13 @@
 
 ### Rust
 
+- [Are we web yet?](https://www.arewewebyet.org/) ：star：-Rust中Web编程的当前状态的摘要.
 - [Actix](https://actix.rs/) -强大，实用，快速的Rust Web框架.
-- [Are we web yet?](https://www.arewewebyet.org/) -Rust中Web编程的当前状态的摘要.
 - [Tarpc](https://github.com/google/tarpc) -Rust的RPC框架，着重于易用性.
 
 ## Frontend / UI
 
-- [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) -有关Micro Frontends的精选资源列表.
+- [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) ：star：-关于Micro Frontends的精选资源列表.
 - [Electrode](https://github.com/electrode-io) -通用React / Node.js应用平台.
 - [Micro Frontends](https://micro-frontends.org) -将微服务理念扩展到前端开发.
 - [MiniApp White Paper](https://w3c.github.io/miniapp/white-paper/) -MiniApp标准化白皮书.
@@ -369,7 +370,7 @@
 - [ActiveMQ](http://activemq.apache.org/) -强大的开源消息传递和集成模式服务器.
 - [Aeron](https://github.com/real-logic/Aeron) -高效可靠的UDP单播，UDP组播和IPC消息传输.
 - [Apollo](http://activemq.apache.org/apollo/) -更快，更可靠，更易于维护的消息代理，该消息代理是基于原始ActiveMQ的基础构建的.
-- [Ascoltatori](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
+- [Ascoltatori](https://github.com/mcollina/ascoltatori) -Node的发布/订阅库.
 - [Beanstalk](https://beanstalkd.github.io/) -简单，快速的工作队列.
 - [Bull](https://github.com/OptimalBits/bull) -快速可靠的基于Redis的Node队列.
 - [Crossbar](https://github.com/crossbario/crossbar)  -用于分布式和微服务应用程序的开源网络平台. 它实现了开放的Web应用程序消息协议（WAMP）.
@@ -400,7 +401,7 @@
 - [Graphite](http://graphite.wikidot.com/) -可扩展的实时图形.
 -[IOpipe！[c]]（https://www.iopipe.com/）-监控Amazon Lambda的应用程序性能.
 - [Jaeger](https://www.jaegertracing.io/) -开源的端到端分布式跟踪
-- [Microservice Graph Explorer](https://github.com/hootsuite/microservice-graph-explorer) -使用实际的应用程序连接实时浏览和浏览应用程序中的所有微服务.
+- [Microservice Graph Explorer](https://github.com/hootsuite/microservice-graph-explorer) - Navigate and explore all of the microservices in your application in real time using the real application connections.
 - [OpenTracing](https://opentracing.io/) -与供应商无关的API和用于分布式跟踪的工具.
 - [Parallec](https://github.com/eBay/parallec) -快速并行异步HTTP / SSH / TCP / Ping客户端Java库.
 - [Prometheus](http://prometheus.io/) -开源服务监视系统和时间序列数据库.
@@ -422,7 +423,7 @@
 
 ### Resilience
 
-- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) -精选的超棒混沌工程资源列表.
+- [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) ：star：-精选的超棒混沌工程资源列表.
 - [Hystrix](https://github.com/Netflix/Hystrix) 延迟和容错库旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障，并在不可避免发生故障的复杂分布式系统中实现弹性.
 - [Pathod](http://pathod.net/) -精心制作的恶意代码，用于折磨HTTP客户端和服务器.
 - [Raft Consensus](http://raftconsensus.github.io/)  -易于理解的共识算法. 它在容错和性能上与Paxos等效.
@@ -507,7 +508,7 @@
 
 ## Continuous Integration & Delivery
 
-- [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) -精选的工具，用于持续集成，持续交付和DevOps.
+- [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) ：star：-精选的工具，用于持续集成，持续交付和DevOps.
 
 ## Web API Modeling & Documentation
 
@@ -601,7 +602,7 @@
 - [RFC7049](http://tools.ietf.org/search/rfc7049) -简洁的二进制对象表示（CBOR）.
 - [BSON](http://bsonspec.org/) -二进制JSON（BSON）.
 - [JSON-LD](http://json-ld.org/) -用于链接数据的JSON.
-- [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) - Simple Binary Encoding (SBE).
+- [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) -简单二进制编码（SBE）.
 - [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) -MessagePack规范.
 
 ### Vocabularies
@@ -640,10 +641,10 @@
 - [Building Microservices? Here is What You Should Know](https://cloudncode.blog/2016/07/22/msa-getting-started/) -基于实际经验的实用概述，介绍了构建微服务需要了解的内容.
 - [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) <sup>：small_orange_diamond：PDF</sup> -一致性，逻辑单调性.
 - [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) -通过将更改缓慢推广到一小部分用户，然后再将其推广到整个基础架构并提供给所有人的方式，来降低在生产环境中引入新软件版本的风险的技术.
-- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) -声明分布式计算机系统不可能同时提供以下三个保证：一致性，可用性和分区容限.
+- [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) -  States that it is impossible for a distributed computer system to simultaneously provide all three of the following guarantees: Consistency, Availability and Partition tolerance.
 - [Formal Foundations of Serverless Computing](https://arxiv.org/pdf/1902.05870.pdf)  <sup>：small_orange_diamond：PDF</sup> -无服务器计算抽象公开了几个低级别的操作细节，使人们很难程序员对自己的代码写入和原因. 本文通过提出λ（无服务器计算本质的一种操作语义）阐明了这个问题.
 - [Introducing Domain-Oriented Microservice Architecture](https://eng.uber.com/microservice-architecture/) -Uber Engineering概述的微服务架构通用方法，称为“面向领域的微服务架构”（DOMA）.
-- [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)  -您可以使用本指南来了解什么是Java微服务，如何构建和构建它们. 另：看一下Java微服务库和常见问题.
+- [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide) - You can use this guide to understand what Java microservices are, how you architect and build them. Also: A look at Java microservice libraries & common questions.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) -将软件应用程序设计为可独立部署的服务套件的特殊方式.
 - [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) -有关微服务方法的一些问题的重要建议.
 - [Microservices RefCard](https://dzone.com/refcardz/getting-started-with-microservices) -微服务入门.
@@ -652,7 +653,7 @@
 - [Reactive Streams](http://www.reactive-streams.org/) -主动提供具有无阻塞背压的异步流处理标准.
 - [ROCAS](http://resources.1060research.com/docs/2015/Resource-Oriented-Computing-Adaptive-Systems-ROCAS-1.2.pdf) <sup>：small_orange_diamond：PDF</sup> -面向资源的计算的自适应系统.
 - [SECO](http://ceur-ws.org/Vol-746/IWSECO2011-6-DengYu.pdf) <sup>：small_orange_diamond：PDF</sup> -了解软件的生态系统：一个战略建模方法.
-- [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) -发现和注册模式概述.
+- [Service Discovery in a Microservice Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/) - Overview of discovery and registration patterns.
 - [Testing Strategies in a Microservice Architecture](http://martinfowler.com/articles/microservice-testing/) -管理多个可独立部署的组件的额外测试复杂性的方法.
 - [Your Server as a Function](http://monkey.org/~marius/funsrv.pdf) <sup>：small_orange_diamond：PDF</sup> -介绍了三种抽象组合后可以呈现出强大的编程模型，为构建安全，模块化，高效的服务器软件：可组合的期货，服务和过滤器.
 - [Microservices - The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354433) <sup>：small_orange_diamond：PDF</sup> -微服务在工业和学术界的状态概述.
@@ -670,7 +671,7 @@
 - [Holochain](https://holochain.org/)  -分布式应用程序的框架，允许您构建不受网络限制的应用程序. 这意味着每个用户都可以控制自己的数据，并且不能将其出售或暴露给第三方.
 - [Ops](https://ops.city/) - Free open source tool to build, run and deploy existing linux applications as unikernels.
 - [SAFE Network](https://safenetwork.tech/)  -在日常计算机的闲置容量的支持下，SAFE用分散的自治网络取代了现有Web的脆弱结构. 一种安全的方法，每个人都可以使用.
-- [Solid](https://solid.inrupt.com/) - Empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
+- [Solid](https://solid.inrupt.com/)  -使用户和组织能够将其数据与使用该数据的应用程序分开. 它使人们可以同时使用不同的应用查看相同的数据. 它为创造力，解决问题和商业活动开辟了崭新的途径.
 
 ## License
 

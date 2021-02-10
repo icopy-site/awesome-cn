@@ -80,7 +80,7 @@
 
 ### Comments
 
-- [Staticman](https://github.com/eduardoboucas/staticman)  -Staticman是一个Node.js应用程序，它接收用户生成的内容并将其作为数据文件上传到GitHub存储库. 实际上，这允许您将动态内容（例如，博客文章评论）作为完全静态的网站的一部分，只要您的网站在每次推送到GitHub时自动部署（如GitHub Pages，Netlify等）上所示.
+- [Staticman](https://github.com/eduardoboucas/staticman)  -Staticman是一个Node.js应用程序，它接收用户生成的内容并将其作为数据文件上传到GitHub存储库. 实际上，这允许您将动态内容（例如，博客文章评论）作为完全静态的网站的一部分，只要您的站点在每次推送到GitHub时自动部署（如GitHub Pages，Netlify等）上所示.
 - [Disqus](https://disqus.com/) -带有嵌套回复，多种登录方法和电子邮件通知的易于嵌入的注释.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) -Facebook为您的网站嵌入的评论.
 - [IntenseDebate Comments](http://www.intensedebate.com/) -具有嵌套回复，多种登录方法和电子邮件通知的可嵌入评论.
@@ -94,18 +94,19 @@
 #### Really Simple Forms
 
 - [Formspree](http://formspree.io/) -从您的静态网站上的表单接收电子邮件.
-- [elFormo](https://www.elformo.com/) -通过电子邮件进行简单的表单处理和响应检索.
-- [Flipmail](http://flipmail.co/) -通过电子邮件进行简单的表单处理和响应检索.
+- [elFormo](https://www.elformo.com/) - Simple form processing and response retrieval via email.
+- [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
 - [MailThis](http://mailthis.to/) -通过电子邮件以可选附件的形式提交简单表格.
 - [Simple Form](https://getsimpleform.com/) -带有可选文件附件，电子邮件通知和在线提交查看的简单表单.
 - [Brisk Forms](https://github.com/stevensona/briskforms) -免费表单提交服务通过电子邮件发送您的回复，同时保持电子邮件地址的私密性，并且是开源的.
 - [99 Inbound](https://www.99inbound.com) -通过电子邮件/闲置通知和第三方应用程序集成（例如MailChimp）形成端点服务
 - [Getform](http://getform.io/) -通过电子邮件和集成为设计师和开发人员提供表单后端平台.
+- [Form.taxi](https://form.taxi/) -后端通过电子邮件通知，文件上传和符合GDPR的数据处理功能，轻松，可靠地处理表单提交.
 
 #### Normal Forms
 
 - [Formcarry](https://formcarry.com) -适用于表单的无障碍HTML表单端点，功能强大的仪表板，可靠的垃圾邮件阻止功能，附件上传功能和Zapier集成.
-- [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
+- [Formcake](https://formcake.com) -为开发人员构建的表单后端：Zapier集成，简单的端点API，无限制的表单.
 - [Google Forms](https://www.google.com/forms/about/) -将结果保存到Google表格中，可以在提交时通过电子邮件发送给您.
 - [FormKeep](https://formkeep.com/)  -付费-在漂亮的Web界面中查看表单提交. 它具有垃圾邮件过滤功能，并且与Gmail，Trello和Basecamp等Webhooks集成.
 - [123 Contact Form](http://www.123contactform.com/)  -连接到其他在线服务，例如MailChimp，Salesforce和Google Drive. 它还与付款处理程序集成，包括安全性和分析功能.
@@ -206,6 +207,10 @@ Self-hosted:
 
 - [Google Analytics](http://www.google.com/analytics/) -Google提供的免费增值网络分析服务.
 - [Simple Analytics](https://simpleanalytics.io/) --简单，干净且友好的分析.
+
+## Authentication
+
+- [Uthentic](https://uthentic.net) -用两行代码进行静态站点的无服务器，无密码登录.
 
 ## Other
 
