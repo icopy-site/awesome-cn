@@ -449,7 +449,7 @@
 - [obandit](http://freux.fr/oss/obandit.html) -OCaml库，用于多臂匪徒.
 - [onumerical](https://github.com/cheshire/onumerical) – OCaml的数字库.
 - [oml](https://github.com/hammerlab/oml) -用于一般数值工作的OCaml库.
-- [ocephes](https://github.com/rleonid/ocephes) -绑定到常用的`C`特殊函数库.
+- [ocephes](https://github.com/rleonid/ocephes) -绑定到常用的`C`特殊功能库.
 - [slap](https://github.com/akabe/slap) -OCaml中的线性代数库，具有用于矩阵运算的基于类型的静态大小检查.
 - [tensorflow-ocaml](https://github.com/LaurentMazare/tensorflow-ocaml) – TensorFlow的OCaml绑定.
 - [owl](https://github.com/owlbarn/owl) -OCaml数值库：密集和稀疏矩阵，线性代数，回归，数学和统计函数.

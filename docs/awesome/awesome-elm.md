@@ -312,7 +312,8 @@
 * [elm-live](https://github.com/wking-io/elm-live)  -Elm的灵活开发服务器. 包括实时重新加载.
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) -Elm webpack 4入门模板.
 * [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) -示例显示Elm 0.19和Webpack的热模块重新加载
-* [Elm Batteries](https://github.com/cedricss/elm-batteries) -Elm，Parcel，Cypress和Netlify的项目模板和生成器  
+* [Elm Batteries](https://github.com/cedricss/elm-batteries) -Elm，Parcel，Cypress和Netlify的项目模板和生成器
+* [IHP + Elm](https://www.youtube.com/watch?v=b9ULHutH6ag) -IHP Haskell框架提供了内置的Elm样板，在前端使用elm和在后端使用haskell时非常有用
 
 ### Outdated Boilerplates
 
@@ -410,6 +411,7 @@
 * [Iced](https://github.com/hecrj/iced) -受Elm启发的Rust跨平台GUI库
 * [Redux](https://redux.js.org/introduction/prior-art) -JavaScript应用程序的可预测状态容器.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) -.NET多平台应用程序用户界面
 
 
 ---
@@ -427,7 +429,7 @@
 
 ## Who to follow
 
- *免费跟随新更新. 采用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *免费跟随新更新. 利用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---

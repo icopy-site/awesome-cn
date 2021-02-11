@@ -51,7 +51,7 @@
 * [Impressionist](https://github.com/charlotte-ruby/impressionist) -跟踪印象和页面浏览量的Rails插件.
 * [Legato](https://github.com/tpitale/legato) -根据官方的Google Analytics（分析）Reporting API对分析报告和查询进行建模.
 * [Rack::Tracker](https://github.com/railslove/rack-tracker) -可以连接到多个服务并以统一方式公开的机架中间件.
-* [Staccato](https://github.com/tpitale/staccato) -将分析跟踪到正式的Google Analytics（分析）Collection API.
+* [Staccato](https://github.com/tpitale/staccato) -将分析跟踪到官方的Google Analytics Collection API.
 
 ## API Builder and Discovery
 
@@ -92,7 +92,7 @@
 ## Authentication and OAuth
 
 * [Authlogic](https://github.com/binarylogic/authlogic) -Authlogic是一种干净，简单且通俗的ruby身份验证解决方案.
-* [Clearance](https://github.com/thoughtbot/clearance) -小巧，简单的基于电子邮件和密码的Rails身份验证.
+* [Clearance](https://github.com/thoughtbot/clearance) -小巧，简单的基于电子邮件和密码的Rails认证.
 * [Devise](https://github.com/plataformatec/devise) -基于Warden的Rails灵活的身份验证解决方案.
 * [JWT](https://github.com/jwt/ruby-jwt) -Ruby中的JSON Web令牌实现.
 * [Knock](https://github.com/nsarno/knock) -Rails API的无缝JWT身份验证.
@@ -574,7 +574,7 @@
 
 * [Glimmer](https://github.com/AndyObtiva/glimmer) -SWT的Ruby DSL
 * [qtbindings](https://github.com/ryanmelt/qtbindings) -允许从Ruby使用QT Gui工具箱.
-* [RubyGnome2](http://ruby-gnome2.sourceforge.jp/) -用于GNOME 2.0开发环境的Ruby语言绑定.
+* [Ruby-GNOME](https://github.com/ruby-gnome/ruby-gnome) -用于GNOME开发环境的Ruby语言绑定.
 * [Shoes](http://shoesrb.com) -Shoes使针对Mac，Windows和Linux的小图形程序的构建变得非常简单.
 
 ## HTML/XML Parsing
@@ -683,7 +683,7 @@
 * [fastlane](https://github.com/fastlane/fastlane) -将所有iOS部署工具连接到一个简化的工作流程中.
 * [PubNub](https://github.com/pubnub/ruby) -云中的实时推送服务.
 * [Ruboto](https://github.com/ruboto/ruboto) -一个使用Ruby语言和库为Android开发完整的独立应用程序的平台.
-* [RubyMotion](http://www.rubymotion.com) -革命性的工具链，可让您快速开发和测试适用于iPhone，iPad，Mac和Android的完整的本机iOS和OS X应用程序.
+* [RubyMotion](http://www.rubymotion.com) -革命性的工具链，可让您快速开发和测试适用于iPhone，iPad，Mac和Android的成熟的本地iOS和OS X应用程序.
 
 ## Money
 
@@ -885,7 +885,7 @@
 * [Que](https://github.com/chanks/que) -使用PostgreSQL的咨询锁以提高速度和可靠性的Ruby作业队列.
 * [RocketJob](http://rocketjob.io)  -企业批处理系统侧重于系统中每个作业的性能，可伸缩性，可靠性和可见性. 现有解决方案已不复存在？ 或者，从小处开始，然后扩大规模.
 * [Shoryuken](https://github.com/phstc/shoryuken) -面向Ruby的基于AWS SQS线程的超高效消息处理器.
-* [Sidekiq](https://sidekiq.org)  -Ruby的全功能后台处理框架. 它的目标是易于与任何现代Rails应用程序集成，并具有比其他现有解决方案更高的性能.
+* [Sidekiq](https://sidekiq.org)  -Ruby的全功能后台处理框架. 它旨在与任何现代Rails应用程序集成起来简单，并且比其他现有解决方案具有更高的性能.
 * [Sneakers](https://github.com/jondot/sneakers) -用于Ruby和RabbitMQ的快速后台处理框架.
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch)  -使用Celluloid的单进程后台处理库. 旨在成为Sidekiq的弟弟.
 

@@ -13,6 +13,7 @@
 * [Building C code using sbt-jni](https://github.com/nadavwr/scala-native-sbt-jni-example) -使用以下命令在Scala Native项目中编译C代码的示例 [sbt-jni](https://github.com/jodersky/sbt-jni).
 * [Example project with external dependencies](https://github.com/lihaoyi/scala-native-example-app) -使用外部依赖项生成HTML并运行测试套件的示例项目.
 * [Starter for Gtk+ Projects](https://github.com/jokade/scalanative-gtk-seed.g8) - [Giter8](http://www.foundweekends.org/giter8/) Scala Native GUI项目的模板，使用 [Gtk+](https://developer.gnome.org/gtk3/stable/index.html).
+* [Modern systems programming with scala native](https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/) 书.
 
 ## Build Tools
 * [sbt](https://www.scala-sbt.org/) -Scala的标准构建工具.

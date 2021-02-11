@@ -109,7 +109,6 @@
 - [blackCandy](https://github.com/aidewoode/black_candy) -音乐流媒体应用-**使用Rails 6.0 **
 - [brimir](https://github.com/ivaldi/brimir) -电子邮件帮助台应用程序-**使用Rails 5.2 **-**存档**
 - [calagator](https://github.com/calagator/calagator) -社区日历应用程序-**使用Rails 4.2 **
-- [calcentral](https://github.com/ets-berkeley-edu/calcentral) -电子邮件，日历，共享文档和班级协作空间管理应用程序-**使用Rails 4.2 **- [:earth_africa:](https://calcentral.berkeley.edu)
 - [campo](https://github.com/chloerei/campo) -论坛应用-**使用Rails 4.2 **- [:earth_africa:](http://codecampo.com)
 - [canvas-lms](https://github.com/instructure/canvas-lms) -一个学习管理应用程序-**使用Rails 5.2 **
 - [catarse](https://github.com/catarse/catarse) -创意项目的众筹平台-**使用Rails 4.2 **- [:earth_africa:](https://catarse.me/)
@@ -141,8 +140,9 @@
 - [eol](https://github.com/EOL/eol) -百科全书应用-**使用Rails 3.2 **- [:earth_africa:](http://eol.org)
 - [expertiza](https://github.com/expertiza/expertiza) -学习资料共享应用-**使用Rails 4.2 **
 - [fairmondo](https://github.com/fairmondo/fairmondo) -一个市场应用程序-**使用Rails 4.2 **- [:earth_africa:](https://www.fairmondo.de)
+- [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm) -开源的Ruby on Rails客户关系管理平台（CRM）-**使用Rails 5.2 **- [:earth_africa:](http://www.fatfreecrm.com/)
 - [feedbin](https://github.com/feedbin/feedbin) -一个RSS阅读器应用程序-**使用Rails 6.0 **- [:earth_africa:](https://feedbin.com)
-- [feedi](https://github.com/davidesantangelo/feedi) -一个RSS feed转换（到API）应用程序-**使用Rails 5.2 **
+- [feedi](https://github.com/davidesantangelo/feedi) - A RSS feed conversion (to API) app - **using Rails 5.2**
 - [follow-all](https://github.com/codeforamerica/follow-all) -Twitter帐户管理应用程序-**使用Rails 4.2 **-**已存档**
 - [fromthepage](https://github.com/benwbrum/fromthepage) -类似于Wiki的应用，用于众包手写文档的转录-**使用Rails 4.1 **- [:earth_africa:](https://www.fromthepage.com/)
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) -代码协作应用-**使用Rails 6.0 **
@@ -189,7 +189,7 @@
 - [sharetribe](https://github.com/sharetribe/sharetribe) -点对点市场平台-**使用Rails 5.2 **- [:earth_africa:](https://www.sharetribe.com)
 - [socify](https://github.com/scaffeinate/socify) -社交网络平台-**使用Rails 5.0 **
 - [splits-io](https://github.com/glacials/splits-io)  -Speedrun数据存储和分析引擎.  -**使用Rails 6.0 **- [:earth_africa:](https://splits.io)
-- [spokenvote](https://github.com/Spokenvote/spokenvote) -社交投票应用程序-**使用Rails 4.2 **-  [:earth_africa:](http://www.spokenvote.org)
+- [spokenvote](https://github.com/Spokenvote/spokenvote) -社交投票应用-**使用Rails 4.2 **
 - [stackneveroverflow](https://github.com/liaoziyang/stackneveroverflow) -一个问与答平台-**使用Rails 5.0 **
 - [teambox](https://github.com/redbooth/teambox) -协作应用-**使用Rails 3.0 **- [:earth_africa:](https://redbooth.com) -**存档**
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) -教学平台-**使用Rails 5.2 **- [:earth_africa:](https://www.theodinproject.com/)
@@ -313,7 +313,7 @@
 
 ### Generators
 
-| Generator | Ready to run | Complex Apps | Sets git | Heroku |
+ | 发电机| 准备运行| 复杂应用| 设置git |  Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
 | [Rails Composer](https://github.com/RailsApps/rails-composer) | 是的，但需要配置Stripe | 带有条带化的SaaS的示例应用程序.  | 是的是
 | [Hix on Rails](https://hixonrails.com) | 是的监控，Redis前哨，Sidekiq.  | 是的没有
