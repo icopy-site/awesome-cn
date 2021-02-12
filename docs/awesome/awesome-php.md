@@ -30,6 +30,7 @@
 
 * [Composed](https://github.com/joshdifabio/composed) -一个在运行时解析项目的Composer环境的库.
 * [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) -一个composer插件，用于合并多个composer.json文件.
+* [Composer Patches](https://github.com/cweagans/composer-patches) -供Composer应用补丁程序的插件.
 * [Prestissimo](https://github.com/hirak/prestissimo) -一个composer插件，可实现并行安装过程.
 * [Repman](https://repman.io) -私有PHP软件包存储库管理器和Packagist代理.
 * [Satis](https://github.com/composer/satis) -静态Composer资源库生成器.
@@ -92,7 +93,7 @@
 * [Slim](https://www.slimframework.com/) -另一个简单的微框架.
 
 ### Micro Framework Extras
-*与微框架和路由器有关的其他内容.
+*Extras related to micro frameworks and routers.*
 
 * [Slim Skeleton](https://github.com/slimphp/Slim-Skeleton) -Slim的骨架.
 * [Slim Twig View](https://github.com/slimphp/Slim-Views) -将Twig整合到Slim中.
@@ -132,8 +133,8 @@
 * [Nyholm PSR-7](https://github.com/Nyholm/psr7)  -超轻量级的PSR-7实现. 非常严格而且非常快速.
 * [PHP VCR](https://php-vcr.github.io/) -用于记录和重放HTTP请求的库.
 * [Requests](https://github.com/rmccue/Requests) -一个简单的HTTP库.
-* [Retrofit](https://github.com/tebru/retrofit-php) -简化REST API客户端创建的库.
-* [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
+* [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
+* [Symfony HTTP Client](https://github.com/symfony/http-client) -同步或异步获取HTTP资源的组件.
 * [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) -PSR-7 HTTP消息实现.
 
 ### Scraping
@@ -234,6 +235,7 @@
 * [Phake](https://github.com/mlively/Phake) -另一个用于测试的模拟对象库.
 * [Pho](https://github.com/danielstjules/pho) -另一个行为驱动的开发测试框架.
 * [PHP-Mock](https://github.com/php-mock/php-mock) -内置PHP函数（例如time（））的模拟库.
+* [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -用纯PHP编写的MySQL引擎. 
 * [PHPSpec](https://github.com/phpspec/phpspec) -按规格设计的单元测试库.
 * [PHPT](https://qa.php.net/write-test.php) -PHP本身使用的测试工具.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) -单元测试框架.
@@ -274,7 +276,7 @@
 * [PHPSecLib](http://phpseclib.sourceforge.net/) -一个纯PHP安全通信库.
 * [random_compat](https://github.com/paragonie/random_compat) -PHP 5.x支持`random_bytes（）`和`random_int（）`
 * [RandomLib](https://github.com/ircmaxell/RandomLib) -用于生成随机数和字符串的库.
-* [Symfony Security Monitoring](https://security.symfony.com/) -一种用于检查Composer依赖关系的安全性工具的网络工具，以前称为“ SensioLabs安全性检查”.
+* [Symfony Security Monitoring](https://security.symfony.com/) -用于检查Composer依赖关系的安全性工具的Web工具，以前称为“ SensioLabs安全性检查”.
 * [SQLMap](https://github.com/sqlmapproject/sqlmap) -自动SQL注入和数据库接管工具. 
 * [TCrypto](https://github.com/timoh6/TCrypto) -一个简单的加密键值存储库.
 * [VAddy](https://vaddy.net/) -用于Web应用程序的连续安全测试平台.
@@ -375,7 +377,7 @@
 *用于自动化和运行任务的库.
 
 * [Bldr](https://bldr.io/) -基于Symfony组件的PHP TaskRunner.
-* [Jobby](https://github.com/jobbyphp/jobby) -一个无需修改crontab的PHP cron作业管理器.
+* [Jobby](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
 * [Robo](https://github.com/consolidation/Robo) -具有面向对象配置的PHP TaskRunner.
 * [Task](https://taskphp.github.io/) -受Grunt和Gulp启发的纯PHP任务执行器.
 
@@ -391,7 +393,7 @@
 * [JShrink](https://github.com/tedious/JShrink) -一个JavaScript缩小程序库.
 * [Laravel Mix](https://github.com/JeffreyWay/laravel-mix) -80％的用例围绕Webpack的优雅包装.
 * [Symfony Asset](https://github.com/symfony/asset) -管理网址的生成和网络资产的版本控制.
-* [Symfony Encore](https://github.com/symfony/webpack-encore) -一个简单但功能强大的API，用于处理和编译围绕Webpack构建的资产.
+* [Symfony Encore](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
 
 ### Geolocation
 *用于对地址进行地理编码以及使用纬度和经度的库.*
@@ -417,7 +419,7 @@
 * [CakePHP Event](https://github.com/cakephp/event) -事件调度程序库.
 * [Elephant.io](https://github.com/Wisembly/Elephant.io) -另一个Web套接字库.
 * [Evenement](https://github.com/igorw/evenement) -事件调度程序库.
-* [Event](https://github.com/thephpleague/event) -重点关注域事件的事件库.
+* [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 * [Hoa EventSource](https://github.com/hoaproject/Eventsource) -事件源库.
 * [Hoa WebSocket](https://github.com/hoaproject/Websocket) -另一个Web套接字库.
 * [Prooph Event Store](https://github.com/prooph/event-store) -事件源组件，用于保留事件消息
@@ -489,7 +491,7 @@
 ### NoSQL
 *用于“ NoSQL”后端的库.*
 
-* [PHPMongo](https://github.com/sokil/php-mongo) - A MongoDB ORM.
+* [PHPMongo](https://github.com/sokil/php-mongo) -MongoDB ORM.
 * [Predis](https://github.com/predis/predis) -功能齐全的Redis库.
 
 ### Queue
@@ -513,7 +515,7 @@
 * [SphinxQL query builder](https://foolcode.github.io/SphinxQL-Query-Builder/) -的查询库 [Sphinx](https://sphinxsearch.com/) 搜索引擎.
 
 ### Command Line
-*Libraries related to the command line.*
+*与命令行相关的库.
 
 * [Aura.Cli](https://github.com/auraphp/Aura.Cli) -为命令行界面提供等效的request（Context）和response（Stdio）对象，包括Getopt支持，以及用于描述命令的独立Help对象.
 * [Boris](https://github.com/borisrepl/boris) -一个很小的PHP REPL.
@@ -535,7 +537,7 @@
 * [Aura.Auth](https://github.com/auraphp/Aura.Auth) -使用各种适配器提供身份验证功能和会话跟踪.
 * [SocialConnect Auth](https://github.com/socialConnect/auth) -开源社交符号（OAuth1 \ OAuth2 \ OpenID \ OpenIDConnect）.
 * [Json Web Token](https://github.com/lcobucci/jwt) -Json令牌，用于认证和传输信息.
-* [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+* [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) -OAuth 1.0客户端库.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) -OAuth 2.0客户端库.
 * [OAuth2 Server](https://bshaffer.github.io/oauth2-server-php-docs/) -另一个OAuth2服务器实现.
 * [OAuth2 Server](https://oauth2.thephpleague.com/) -OAuth2身份验证服务器，资源服务器和客户端库.
@@ -558,7 +560,7 @@
 * [PHP Markdown](https://github.com/michelf/php-markdown) -Markdown解析器.
 
 ### Strings
-*用于解析和处理字符串的库.
+*Libraries for parsing and manipulating strings.*
 
 * [Agent](https://github.com/jenssegers/agent) -基于Mobiledetect的PHP桌面/移动用户代理解析器.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) -ANSI到HTML5的转换器库.
@@ -594,7 +596,7 @@
 * [CakePHP Validation](https://github.com/cakephp/validation) -另一个验证库.
 * [Filterus](https://github.com/ircmaxell/filterus) -一个简单的PHP过滤库.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) -一个用于根据许多国家/地区的ISO，国际金融，公共管理，GS1，图书行业，电话号码和邮政编码标准验证输入的库.
-* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](https://json-schema.org/) 验证库.
+* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](https://json-schema.org/) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) -支持YAML，JSON和XML的架构验证库.
 * [Respect Validation](https://github.com/Respect/Validation) -一个简单的验证库.
 * [Upload](https://github.com/brandonsavage/Upload) -用于处理文件上传和验证的库.
@@ -680,7 +682,7 @@
 
 * [Amazon Web Service SDK](https://github.com/aws/aws-sdk-php) -官方的PHP AWS开发工具包库.
 * [AsyncAWS](https://async-aws.com/) -非官方的异步PHP AWS开发工具包.
-* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
+* [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) -正式的Campaign Monitor PHP库.
 * [Github](https://github.com/KnpLabs/php-github-api) -与Github API接口的库.
 * [Mailgun](https://github.com/mailgun/mailgun-php) 官方Mailgun PHP API.
 * [Square](https://github.com/square/connect-php-sdk) -用于付款和其他Square API的官方Square PHP SDK.
@@ -795,6 +797,7 @@
 
 * [libs.garden: PHP](https://libs.garden/php) -增长最快的PHP库的概述.
 * [Nomad PHP](https://nomadphp.com/) -在线PHP学习资源.
+* [Laravel News](https://laravel-news.com/) -官方Laravel博客.
 * [PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/) -PHP新闻的每月摘要.
 * [PHP Best Practices](https://phpbestpractices.org/) -PHP最佳做法指南.
 * [PHP FIG](https://www.php-fig.org/) -PHP框架互操作性组.
@@ -804,6 +807,7 @@
 * [PHP The Right Way](https://phptherightway.com/) -PHP最佳做法快速参考指南.
 * [PHP UG](https://php.ug) -一个帮助人们找到他们最近的PHP用户组（UG）的网站.
 * [PHP Versions](http://phpversions.info/) -列出了几个流行的Web主机上可用的PHP版本.
+* [PHP Watch](https://php.watch/) -PHP文章，新闻，即将发生的变化，RFC等.
 * [PHP Weekly](http://www.phpweekly.com/archive.html) -每周的PHP新闻通讯.
 * [Securing PHP](https://www.securingphp.com/) -有关PHP安全性和库建议的新闻通讯.
 * [Seven PHP](https://7php.com/) -一个访问PHP社区成员的网站.
@@ -828,11 +832,13 @@
 ### PHP Videos
 *与PHP相关的精彩视频.*
 
-* [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) - 10 to 15 minute Lightning Talks by PHP community members.
+* [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) -PHP社区成员进行的10到15分钟的闪电讲座.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) -来自PHP UK Conference的视频集合.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) -安东尼·费拉拉（Anthony Ferrara）的视频系列.
 * [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) -Facebook的Keith Adams概述了PHP的优势.
 * [Laracasts](https://laracasts.com) -有关Laravel，Vue JS等的截屏视频.
+* [Laravel YouTube Channel](https://www.youtube.com/channel/UCfO2GiQwb-cwJTb1CuRSkwg) -Laravel YouTube官方频道.
+* [SymfonyCasts](https://symfonycasts.com/) -有关PHP和Symfony的截屏视频和教程.
 
 ### PHP Podcasts
 *有关PHP主题的播客.

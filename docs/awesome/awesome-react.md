@@ -112,7 +112,7 @@
 - [next.js](https://github.com/vercel/next.js) -React框架
 - [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
 - [react-admin](https://github.com/marmelab/react-admin) -用于在REST / GraphQL API之上构建B2B应用程序的前端框架
-- [remix](https://remix.run/) -最后，React Router的创建者提供了一个致命的React框架
+- [remix](https://remix.run/) -最后，React Router的创建者提供了一个杀手React的React框架
 - [aleph.js](https://github.com/alephjs/aleph.js) -Deno中的React框架
 
 ##### React Styling
@@ -133,7 +133,7 @@
 
 ##### React Component Libraries
 
-- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快更轻松地进行Web开发
+- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
 - [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
 - [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
 - [Fluent UI](https://github.com/microsoft/fluentui) -一组用于构建Microsoft Web体验的React组件
@@ -147,7 +147,7 @@
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) -用于React的Font Awesome 5组件库
 - [reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
 - [rsuite](https://github.com/rsuite/rsuite) -一套React组件
-- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
+- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -Atlassian的官方UI库，根据Atlassian设计指南构建.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
 - [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，其中包含50多个具有材质，引导程序和自定义主题的组件.
 - [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
@@ -160,7 +160,7 @@
 - [elastic ui framework](https://github.com/elastic/eui) -Elastic UI Framework是React UI组件的集合，用于在Elastic上快速构建用户界面.
 - [bugbag react ui kit](https://bumbag.style/) -Bumbag是一个友好的React UI套件，适用于MVP或大规模应用.
 - [ring-ui](https://github.com/JetBrains/ring-ui) -JetBrains Web UI组件
-- [ChatUI](https://github.com/alibaba/ChatUI) -会话UI的UI设计语言和React库
+- [ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 
 ##### React Awesome Components
 
@@ -193,11 +193,12 @@
 - [react-text-mask](https://github.com/text-mask/text-mask) -React的输入掩码
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) -创建自动适应您的应用程序的框架屏幕
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) -用CSS动画化的React加载指示器集合
-- [rheostat](https://github.com/airbnb/rheostat) - Accessible slider component built with React
+- [rheostat](https://github.com/airbnb/rheostat) -使用React构建的可访问滑块组件
 - [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
 - [react-archer](https://github.com/pierpo/react-archer) -在React元素之间绘制箭头
 - [react-pdf-viewer](https://github.com/phuoc-ng/react-pdf-viewer) -为React制作的PDF查看器
 - [react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) -在React组件上轻松应用倾斜悬停效果
+- [react-popper](https://github.com/popperjs/react-popper) -以优雅，高效的方式放置工具提示和弹出窗口
 - [react-tsparticles](https://github.com/matteobruni/tsparticles/blob/master/components/react/README.md) -一个可以轻松将粒子动画添加到您的React应用程序的组件
 - [react-spring](https://www.react-spring.io/) -用于React应用程序的基于春季物理学的动画库.
 - [framer-motion](https://www.framer.com/motion/) -一个React库，可为生产就绪的动画提供动力.
@@ -218,7 +219,7 @@
 - [jest](https://github.com/facebook/jest) -令人愉快的JavaScript测试框架
 - [enzyme](https://github.com/airbnb/enzyme) -用于React的JavaScript测试实用程序
 - [react-testing-library](https://github.com/testing-library/react-testing-library) -简单而完整的React DOM测试实用程序
-- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) - React hooks testing utilities that encourage good testing practices
+- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -React钩子测试实用程序，鼓励良好的测试实践
 - [majestic](https://github.com/Raathigesh/majestic) -玩笑的零配置GUI
 
 ##### React Libraries
@@ -236,13 +237,13 @@
 - [riotjs](https://github.com/muut/riotjs) -一个类似React的3.5KB用户界面库
 - [Maple.js](https://github.com/Wildhoney/Maple.js) -将Web组件的概念引入React
 - [react-i13n](https://github.com/yahoo/react-i13n) -高性能，可扩展和可插拔的方法来检测您的React应用程序
-- [react-icons](https://github.com/gorangajic/react-icons) -svg反应常用图标包的图标
+- [react-icons](https://github.com/gorangajic/react-icons) - svg react icons of popular icon packs
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) -很棒的免费插图作为反应成分.
 - [Keo](https://github.com/Wildhoney/Keo) -普通函数，用于创建React组件的更具功能性的Deku方法，并具有管道，备忘录等功能性功能.
 - [Bit](https://github.com/teambit/bit) -虚拟仓库，用于跨应用程序管理和使用React和其他Web组件
 - [AtlasKit](https://atlaskit.atlassian.com/) -Atlassian的React UI库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) -Elasticsearch的UI组件库
-- [Slate](https://github.com/ianstormtaylor/slate) -用于构建富文本编辑器的完全可自定义的框架.
+- [Slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
 - [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) -通过将JSON定义映射到您公开的React组件，从JSON构造React元素.
 - [compose-state](https://github.com/tvler/compose-state) -在React中编写多个setState或getDerivedStateFromProps更新器
 - [react-lodash](https://github.com/typicode/react-lodash) -Lodash作为React组件
@@ -354,7 +355,7 @@
 - [newforms](https://github.com/insin/newforms) -React的同构表单处理
 - [formjs](https://github.com/zackify/formjs) -Reactjs的表单生成器
 - [react-form-builder](https://github.com/quri/react-form-builder) -React.js的表单生成器
-- [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) - A dynamic form component for react using JSON-Schema
+- [plexus-form](https://github.com/AppliedMathematicsANU/plexus-form) -使用JSON-Schema进行响应的动态表单组件
 - [tcomb-form](https://github.com/gcanti/tcomb-form) -UI库，用于开发较少编写代码的表单
 - [formsy-react](https://github.com/christianalfoni/formsy-react) -React JS的表单输入生成器和验证器
 - [Learn Raw React](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/) -荒谬的简单形式
@@ -641,7 +642,7 @@
 - [react-transmit](https://github.com/RickWong/react-transmit) -基于** JavaScript Promise **的基于中继的库（已归档，只读）
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) -Facebook GraphQL的** Ruby **实现
 - [graphql-java](https://github.com/howtographql/graphql-java) -GraphQL ** Java **实现
-- [sangria](https://github.com/sangria-graphql/sangria) -** Scala ** GraphQL客户端和服务器库
+- [sangria](https://github.com/sangria-graphql/sangria) - **Scala** GraphQL client and server library
 - [graphql-php](https://github.com/webonyx/graphql-php) -GraphQL参考实现的** PHP **端口
 - [graphene](https://graphene-python.org/) -** Python **中的GraphQL变得简单
 - [graphqllib](https://github.com/dittos/graphqllib) -** Python **的GraphQL实现

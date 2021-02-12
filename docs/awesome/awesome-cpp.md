@@ -22,6 +22,7 @@
 * [ASL](http://stlab.adobe.com/)  -Adobe Source Libraries提供了经过同行评审的可移植C ++源库.  [麻省理工学院]
 * [Boost](https://github.com/boostorg)  ：zap：-大量的通用C ++库.  [促进] [website](http://www.boost.org/)
 * [BDE](https://github.com/bloomberg/bde)  -彭博实验室的BDE开发环境.  [Apache2]
+* [C++ Workflow](https://github.com/sogou/workflow)  -C ++并行计算和异步网络引擎.  [Apache2]
 * [Cinder](https://libcinder.org/)  -社区开发的免费开放源代码库，用于提供专业质量的创意编码.  [BSD]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)  -一个小的仅标头的库，它将各种功能从最新的C ++标准向后移植到C ++ 03及更高版本.  [麻省理工学院]
 * [Dlib](https://github.com/davisking/dlib)  ：zap：-使用契约式编程和现代C ++技术设计的通用跨平台C ++库.  [促进] [website](http://dlib.net/)
@@ -92,7 +93,7 @@
 * [miniaudio](https://github.com/dr-soft/miniaudio)  -单文件音频播放和捕获库.  [无牌]
 * [Opus](http://opus-codec.org/)  -完全开放，免版税，功能广泛的音频编解码器.  [BSD]
 * [PortAudio](http://www.portaudio.com/) - PortAudio is a free, cross-platform, open-source, audio I/O library. [MIT]
-* [SELA](https://github.com/sahaRatul/sela)  -简单的无损音频.  [与]
+* [SELA](https://github.com/sahaRatul/sela)  -简单的无损音频.  [和]
 * [SoLoud](https://github.com/jarikomppa/soloud)  -简单，便携式的游戏音频引擎.  [zlib]
 * [Speex](http://www.speex.org/)  -用于言论自由的免费编解码器. 被Opus淘汰.  [BSD]
 * [Tonic](https://github.com/TonicAudio/Tonic)  -在C ++中轻松高效地进行音频合成.  [无牌]
@@ -498,7 +499,7 @@
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [jsoncons](https://github.com/danielaparker/jsoncons)  -用于JSON和类似JSON的二进制格式的C ++仅标头库，带有JSONPointer，JSONPatch，JSONPath和JMESPath.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
-* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间非常小的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间非常小的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [麻省理工学院]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库. 支持C ++ 11. 无依赖关系，快速且对开发人员友好.  [Apache2]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
@@ -676,7 +677,7 @@
 * [PoDoFo](http://podofo.sourceforge.net/)  -使用PDF文件格式的库.  [LGPL]
 * [Poppler](https://poppler.freedesktop.org/)  -基于xpdf-3.0代码库的开源多后端PDF渲染库.  [GPLv2 / GPLv3]
 * [Xpdf](https://www.xpdfreader.com/)  -Xpdf是免费的PDF查看器和工具包，包括文本提取器，图像转换器，HTML转换器等.  [GPL v2 / GPL v3]
-* [DynaPDF](http://www.dynaforms.com/)  -易于使用的PDF生成库.  [商业]
+* [DynaPDF](http://www.dynaforms.com/)  -易于使用的PDF生成库.  [商业的]
 
 ## Physics
 *动力学仿真引擎*
@@ -842,7 +843,7 @@
 *有用的库或工具不适合上述类别，或者可能尚未归类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)  -一种用于计算对c ++程序中成员变量的访问的工具.  [GPL3]
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在一定时间和最少示例输入的情况下自动发现错误.  [Apache2]
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在给定时间和最少示例输入的情况下自动发现错误.  [Apache2]
 * [Better String](http://bstring.sourceforge.net)  -C字符串库的替代方法，它的功能更强大，并且没有缓冲区溢出超限问题. 还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  -托管信号和时隙系统的实现.  [促进]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  -受Python内置函数和itertools库启发的基于范围的for循环插件.  [BSD-2-Clause]

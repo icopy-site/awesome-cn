@@ -82,7 +82,7 @@ _使用开源许可证发布的项目.
 - [Termux](https://www.patreon.com/termux) -Android终端模拟器.
 - [The Lounge](https://opencollective.com/thelounge) -现代网络IRC客户端. 
 - [Thirthy Bees](https://www.patreon.com/thirtybees) -电子商务软件. 
-- [Tiled](https://www.patreon.com/bjorn) - A 2D game level editor. 
+- [Tiled](https://www.patreon.com/bjorn) -2D游戏关卡编辑器. 
 - [Transmission](https://transmissionbt.com/donate/) -BitTorrent客户端.
 - [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0&country.x=US&locale.x=US) -受Goeron，Rust，Swift影响的类似于Go的静态类型编译语言.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) -VLC视频播放器的制造商.
@@ -125,7 +125,7 @@ _操作系统和Linux发行版.
 
 - [Elementary OS](https://www.patreon.com/elementary) -Ubuntu版本.
 - [FreeDOS](https://www.patreon.com/freedos) -与MS-DOS兼容的操作系统.
-- [GhostBSD](https://www.patreon.com/GhostBSD) -面向桌面的BSD操作系统.
+- [GhostBSD](https://www.patreon.com/GhostBSD) - Desktop-focused BSD OS.
 - [LineageOS](https://www.paypal.me/LineageOS), [#2](https://www.patreon.com/LineageOS) -CyanogenMod的前叉. 
 - [Linux Lite](https://www.patreon.com/linuxlite) -Linux发行版.
 - [Parrot](https://www.patreon.com/parrot) -与安全相关的Debian发行版.
@@ -152,7 +152,7 @@ _游戏和与游戏相关的项目._
 - [Xenia](https://www.patreon.com/xenia_project) -Xbox 360模拟器.
 - [yuzu](https://www.patreon.com/yuzuteam) -Nintendo Switch模拟器.
 - [vvctre](https://www.patreon.com/vvctre) -Nintendo 3DS模拟器.
-
+- [Interstellar Despot Sim](https://www.patreon.com/BaileyBurnsed) -Space Roughlike / 4x Hybrid
 
 ## People Doing Open Source Work
 _为要求支持其工作的多个项目做出贡献的开发人员.
@@ -166,6 +166,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) -编程教程，游戏和模组.
 - [Andrius Štikonas](https://liberapay.com/stikonas) -KDE贡献者，主要是KDE分区管理器.
 - [Attogram Project](https://www.patreon.com/attogram) -共享媒体标记器，开放翻译引擎以及更多项目.
+- [Bailey Burnsed](https://www.patreon.com/BaileyBurnsed) -FOSS Nerd在Godot和Rust中开发开源游戏
 - [byuu](https://www.patreon.com/byuu) -模拟器和游戏保存.
 - [Daniel Gultsch](https://github.com/users/iNPUTmice/sponsorship) -会话Jabber客户.
 - [Daniël Klabbers](https://www.patreon.com/luceos) -Flarum和其他PHP项目的贡献者.
@@ -173,7 +174,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [David Hewitt](https://github.com/users/davidmhewitt/sponsorship) -ElementaryOS贡献者，Torrential，已剪裁.
 - [Dimitri Fontaine](https://github.com/sponsors/dimitri) -对PostgreSQL生态系统（pgloader，pg_auto_failover），Emacs库（el-get），作者的各种贡献.
 - [Dominik Honnef](https://www.patreon.com/dominikh), [#2](https://github.com/users/dominikh/sponsorship) -致力于Go编程语言的工具.
-- [Dragan Djuric](https://www.patreon.com/draganrocks) - Creator of Uncomplicate, a family of Clojure libraries for AI, ML, and GPU high performance computing.
+- [Dragan Djuric](https://www.patreon.com/draganrocks) -Uncomplicate的创建者，这是一个用于AI，ML和GPU高性能计算的Clojure库系列.
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) -sway，wlroots，sr.ht，scdoc，aerc等.
 - [Duduf](https://www.patreon.com/duduf) -动画和电影制作工具. 
 - [Eevee](https://www.patreon.com/eevee) -游戏，应用程序和文章.
@@ -231,7 +232,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) -无数的开源项目.
 - [skypjack](https://www.patreon.com/skypjack) -C ++库，例如uvw和EnTT.
 - [Stéphane Peter](https://github.com/sponsors/megastep) -AudioKit贡献者，Makeself和其他库和项目.
-- [Steve Purcell](https://www.patreon.com/sanityinc) -MELPA Lisp软件包存档和其他软件工具.
+- [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp package archive and other software tooling.
 - [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) -各种iOS / macOS软件. 
 - [Stjepan Glavina](https://www.patreon.com/stjepang) -防锈横梁.
 - [Tanu Kaskinen](https://www.patreon.com/tanuk), [#2](https://liberapay.com/tanuk) -PulseAudio声音服务器贡献者. 

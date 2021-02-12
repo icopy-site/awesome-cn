@@ -28,7 +28,7 @@
 - [Applying Domain Driven Design with CQRS and Event Sourcing](https://buildplease.com/pages/now-what/) -使用EventStorming和其他建模技术为虚构的业务领域构建基于CQRS和基于事件源的原型的演练.
 - [CQRS](https://leanpub.com/cqrs)  -Mark Nijhof从Greg Young学习DDD和CQRS的经验中获得的笔记. 本书附带了一个广泛的示例项目.
 - [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215)  -创造了领域驱动设计一词的经典书籍. 也称为“蓝皮书”.
-- [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) -阅读前非常好的入门书 [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) 要么 [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215).
+- [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) -阅读前非常好的入门书 [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) 或者 [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215).
 - [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) -用PHP编写的真实示例展示了DDD建筑风格，战术设计和有限的上下文集成.
 - [Domain-Driven Rails](https://blog.arkency.com/domain-driven-rails/) -域驱动的Rails描述了11种技术（从绑定上下文到事件源），您可以在新的和旧的Rails应用程序中单独使用这些技术，或者将它们一起使用，以实现更好的体系结构.
 - [Domain Modeling Made Functional](https://pragprog.com/book/swdddf/domain-modeling-made-functional) - Tackle Software Complexity with Domain-Driven Design and F#.
@@ -74,11 +74,11 @@
 - [Event Sourcery](https://eventsourcery.com/) -DDD，CQRS和事件源简介.
 - [Mixter](https://github.com/DevLyon/mixter) -CQRS和事件源Koans.
 - [Pluralsight](https://pluralsight.com)
-	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) -通过演示客户交互和复杂的演示应用程序以及Eric Evans的建议，来学习域驱动设计（DDD）的基础知识.
+	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) -通过演示客户交互和复杂的演示应用程序以及Eric Evans的建议，学习域驱动设计（DDD）的基础知识.
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) -在实践中应用域驱动设计原则的描述性深入演练.
 	 - [Modern Software Architecture: Domain Models, CQRS, and Event Sourcing](https://www.pluralsight.com/courses/modern-software-architecture-domain-models-cqrs-event-sourcing)  -本课程涵盖DDD分析模式，有助于发现业务领域的顶级体系结构. 架构师和开发人员将找到实现模式的详细信息，例如域模型，CQRS和事件源.
 - [Rails + Domain Driven Design Workshop](https://blog.arkency.com/ddd-training/) -DDD简介，Ruby / Rails开发人员的CQRS和事件源基础.
-- [Reactive Architecture: Domain Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd/)  -使用DDD将问题域分解为可管理的部分. 了解这些部分如何成为反应式微服务和反应式架构的基础. 免费，在线，自定进度. 完成后提供证书.
+- [Reactive Architecture: Domain Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd/) - Use DDD to decompose a problem domain into manageable parts. Learn how those parts can become the foundation of Reactive Microservices and Reactive Architecture. Free, online, self-paced. Certificate offered upon completion.
 - [Reactive Architecture: CQRS and Event Sourcing](https://cognitiveclass.ai/courses/reactive-architecture-cqrs/)  -本课程将讨论我们使用CQRS / ES的原因，它为我们提供的好处以及使用的成本. 我们将看到CQRS / ES如何影响应用程序的可伸缩性，一致性和可用性.
 - [DDD Workshop by Xebia](https://xebia.com/academy/en/search?query=Domain-driven%20design) -从基础到专业级别的公共和内部域驱动设计研讨会.
 
@@ -132,7 +132,7 @@
 - [Jérémie Chassaing](http://thinkbeforecoding.com/) - Various articles about DDD/CQRS.  Implemented Greg Young's SimpleCQRS sample in F#.
 - [Vaughn Vernon](https://vaughnvernon.co) -沃恩·弗农（Vaughn Vernon）了解软件开发的独特需求以及在快速发展的行业中提高自己的技能时所面临的挑战.
 - [Vladik Khononov](http://vladikk.com/) -各种与DDD相关的文章.
-- [Eventsourcing Publications](https://blog.eventsourcing.com) -实用的事件源.
+- [Eventsourcing Publications](https://blog.eventsourcing.com) - Practical event sourcing.
 - [Jef Claes](http://www.jefclaes.be/) -关于域驱动设计的优秀文章和讲座.
 - [Udi Dahan](http://udidahan.com/articles/) -来自NServiceBus的创建者.
 - [Chris Patterson](https://lostechies.com/chrispatterson/) -来自MassTransit分布式应用程序框架的创建者.
@@ -217,9 +217,9 @@
 ### .NET
 - [Aggregates.NET](https://github.com/volak/Aggregates.NET) -通过NServicebus和GetEventStore的.NET事件源域驱动的设计模型.
 - [AggregateSource](https://github.com/yreynhout/aggregateSource) -轻量级基础架构，用于使用聚合进行事件外包.
-- [Akka.NET](http://getakka.net/) -Akka.NET是一个工具包和运行时，用于在.NET＆Mono上构建高度并发，分布式和容错的事件驱动应用程序.
-- [ABP](https://abp.io) -ASP.NET Boilerplate的继任者-基于ASP.NET Core的应用程序框架，用于创建NLayered，域驱动设计的Web应用程序，具有以微服务为中心的模块化体系结构
-- [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
+- [Akka.NET](http://getakka.net/) -Akka.NET是一个工具包和运行时，用于在.NET和Mono上构建高度并发，分布式和容错的事件驱动应用程序.
+- [ABP](https://abp.io) -ASP.NET Boilerplate的后继者-基于ASP.NET Core的应用程序框架，用于创建具有面向微服务的模块化体系结构的NLayered，域驱动设计的Web应用程序
+- [ASP.NET Boilerplate](http://aspnetboilerplate.com/) -基于ASP.NET MVC，Web API和ASP.NET Core的应用程序框架，可创建实现最佳实践的NLayered，域驱动设计的Web应用程序.
 - [ByValue](https://github.com/sm-g/ByValue) -该库有助于创建具有正确实现的相等行为的ValueObjects（即使具有集合属性）.
 - [Cedar.CommandHandling](https://github.com/damianh/Cedar.CommandHandling)  -通过HTTP处理命令的中间件； 通常在CQRS应用程序中使用.
 - [Cirqus](https://github.com/d60/Cirqus) -d60事件源+ CQRS框架.
@@ -247,10 +247,11 @@
 ### Databases
 - [Event Store](https://geteventstore.com) -具有JavaScript中复杂事件处理功能的开源功能数据库.
 - [Eventsourcing](https://eventsourcing.com) -业务事件捕获和查询框架.
+- [Message DB](https://github.com/message-db/message-db)  -用于Postgres的微服务本机事件存储和消息存储. 在PostgreSQL中为发布/订阅，事件源，消息传递和事件化微服务应用程序实现的功能齐全的事件存储和消息存储.
 - [Serialized](https://serialized.io) -事件搜索和CQRS的完整平台.
 
 ### Elixir
-- [Commanded](https://github.com/slashdotdash/commanded) -适用于CQRS / ES应用程序的命令处理中间件，用于集合和流程管理器的纯功能数据结构，点对点消息路由以及Elixir（Erlang VM）中的更多功能-Actor并发模型中的所有功能.
+- [Commanded](https://github.com/slashdotdash/commanded) -适用于CQRS / ES应用程序的命令处理中间件，用于聚合和流程管理器的纯功能数据结构，点对点消息路由以及Elixir（Erlang VM）中的更多功能-Actor并发模型中的所有功能.
 - [Event Bus](https://github.com/otobus/event_bus) -具有内置事件存储和基于ETS的事件观察器的Elixir可追溯，可扩展且极简的事件总线实现.
 - [eventstore](https://github.com/slashdotdash/eventstore) -使用PostgreSQL进行持久化的CQRS事件存储.
 
@@ -278,6 +279,7 @@
 - [dry-python](https://github.com/dry-python) -一组用于可插入业务逻辑组件的库.
 
 ### Ruby
+- [Eventide](https://eventide-project.org)  -用于Ruby的事件源和微服务堆栈. 一组用于编写事件驱动的自主服务的库.
 - [Rails Event Store](https://railseventstore.org)  -Rails Event Store（RES）是一个用于发布，使用，存储和检索事件的库. 它是为Rails应用程序使用事件驱动的体系结构的最佳伴侣.
 
 ## Podcasts and Interviews
