@@ -91,9 +91,10 @@
 
 - [Bcrypt](http://bcrypt.sourceforge.net/) -跨平台文件加密实用程序.
 - [blackbox](https://github.com/StackExchange/blackbox) -将机密安全存储在Git / Mercurial / Subversion中.
-- [certbot](https://github.com/certbot/certbot)  -以前是Let&#39;s Encrypt Client，是EFF的工具，用于从Let&#39;s Encrypt获取证书，并（可选）在服务器上自动启用HTTPS. 它也可以充当使用ACME协议的任何其他CA的客户端.
+- [certbot](https://github.com/certbot/certbot)  -以前是Let&#39;s Encrypt Client，它是EFF的工具，用于从Let&#39;s Encrypt获取证书，并（可选）在服务器上自动启用HTTPS. 它也可以充当使用ACME协议的任何其他CA的客户端.
 - [Coherence](https://github.com/liesware/coherence/) -用于现代Web应用程序的加密服务器.
 - [cryptomator](https://github.com/cryptomator/cryptomator) -云中文件的多平台透明客户端加密.
+- [Databunker](https://databunker.org/) -建立符合GDPR和CCPA的基于API的个人数据或PII存储服务.
 - [gpg](https://www.gnupg.org/)  -完全免费地实施OpenPGP标准. 它允许对数据和通信进行加密和签名，并具有通用的密钥管理系统.  GnuPG是一种命令行工具，具有易于与其他应用程序集成的功能.
 - [ironssh](https://github.com/IronCoreLabs/ironssh)  -使用sftp / scp端到端加密传输的文件，并选择性地与他人共享. 自动密钥管理可用于任何SSH服务器. 加密文件与gpg兼容.
 - [Nipe](https://github.com/GouveaHeitor/nipe) -Nipe是一个使Tor Network成为默认网关的脚本.
@@ -167,13 +168,13 @@
 
 - [DelphiEncryptionCompendium](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) -Delphi的密码库.
 - [LockBox](https://sourceforge.net/projects/tplockbox/) -LockBox 3是用于加密的Delphi库.
-- [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) -快速加密例程（哈希和密码），实现AES，XOR，RC4，ADLER32，MD5，SHA1，SHA256算法，并针对速度进行了优化.
+- [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) -快速的加密例程（散列和密码），实现AES，XOR，RC4，ADLER32，MD5，SHA1，SHA256算法，并针对速度进行了优化.
 - [TForge](https://bitbucket.org/sergworks/tforge) -TForge是用Delphi编写的开源加密货币库，与FPC兼容.
 
 ### Elixir
 
 - [cipher](https://github.com/rubencaro/cipher) -Elixir加密库可加密/解密任意二进制文件.
-- [cloak](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+- [cloak](https://github.com/danielberkompas/cloak) -伪装使使用Ecto加密变得容易.
 - [comeonin](https://github.com/elixircnx/comeonin) -Elixir的密码授权（bcrypt）库.
 - [elixir-rsa](https://github.com/trapped/elixir-rsa) -`：public_key` Elixir的加密包装.
 - [elixir_tea](https://github.com/keichan34/elixir_tea) -在Elixir中实施TEA.
@@ -238,7 +239,7 @@
   - [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) — secp256k1 Koblitz曲线（加密，ECDH，信号）
 - [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) -用于NodeJS的bcrypt.
 - [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) -JavaScript的OpenPGP实现.
-- [PolyCrypt](https://github.com/polycrypt/polycrypt) -WebCrypto API的纯JS实现.
+- [PolyCrypt](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
 - [rusha](https://github.com/srijs/rusha) -高性能的纯JavaScript SHA1实现，适用于大型二进制数据，最高可达原始速度的一半.
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl) -斯坦福Javascript加密库.
 - [URSA](https://github.com/quartzjer/ursa) -节点的RSA公钥/私钥OpenSSL绑定.
@@ -369,7 +370,7 @@ algorithm.
 
 ### Web-tools
 
-- [Boxentriq](https://www.boxentriq.com/code-breaking) -易于使用的工具，用于分析和解密最常见的密码，包括维格涅尔，博福特，凯撒凯撒，换位密码等.
+- [Boxentriq](https://www.boxentriq.com/code-breaking) -易于使用的工具，用于分析和加密最常见的密码，包括维格涅尔，博福特，凯撒凯撒，换位密码等.
 - [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) -是一组与密码相关的工具.
 - [CrypTool](http://www.cryptool-online.org/) -经常介绍各种密码，加密方法和分析工具，并附带图解示例.
 - [CyberChef](https://gchq.github.io/CyberChef/) -用于加密，编码，压缩和数据分析的网络应用.
@@ -380,7 +381,7 @@ algorithm.
 - [Applied Crypto Hardening](https://bettercrypto.org/) -准备使用最佳实践示例来保护Web服务器等的安全.
 - [Cryptography Stackexchange](http://crypto.stackexchange.com/) -密码学Stack Exchange是软件开发人员，数学家和其他对密码学感兴趣的人的问答网站.
 - [Cryptohack](https://cryptohack.org/) -与Cryptopals类似的具有许多交互式密码学挑战的平台.
-- [Cryptopals Crypto Challenges](http://cryptopals.com/) -一系列应用密码学挑战，从非常基本的挑战（例如十六进制到基础64个挑战）开始，逐渐将难度提高到抽象代数.
+- [Cryptopals Crypto Challenges](http://cryptopals.com/) -一系列应用密码学挑战，从非常基本的挑战（例如十六进制到基础64个挑战）开始，并逐渐增加难度，直至抽象代数.
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) -密码学概述.
 - [IACR](https://www.iacr.org/) -国际密码学研究协会是一个非营利性的科学组织，其目的是进一步研究密码学及相关领域.
 - [Learn Cryptography](https://learncryptography.com/) -致力于帮助人们了解他们日常使用的密码系统的方式和原因，而无需实现保护和保护其隐私的工作.
@@ -389,7 +390,7 @@ algorithm.
 
 ## Contributing
 
-永远欢迎您的贡献！ 请看看 [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) 第一.
+永远欢迎您的贡献！ 请看看 [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) 第一的.
 
 ## License
 

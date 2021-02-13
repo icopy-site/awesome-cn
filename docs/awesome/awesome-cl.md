@@ -17,7 +17,7 @@ _awesome_ Common Lisp库的精选列表.
 坚信他们成为社区标准. 你不会错
 他们.  Quicklisp，BordeauxThreads和
 这样. 标有a的库是我们喜欢并想要
-在Awesome-cl列表中进行推广. 他们证明是可靠的，他们可能会解决
+promote here at the Awesome-cl list. They proved solid, they may solve
 一个比社区标准更好的问题，但事实并非如此
 普遍存在，或不被认为是稳定的. 例如，我们更喜欢
 Cl-Who上的喷丝板.
@@ -181,8 +181,8 @@ Tools
 
 *  [str](https://github.com/vindarel/cl-str)  -一个现代，简单且一致的字符串操作库.  [MIT] [200].
 *  [FSet](https://common-lisp.net/project/fset)  -功能性的，集合论的集合数据结构库.  [LLGPL] [8].
-* [trivial-extensible-sequences](https://github.com/Shinmera/trivial-extensible-sequences) -可扩展序列协议的可移植性库（[SBCL documentation](http://www.sbcl.org/manual/#Extensible-Sequences)). [zlib][33].
-* [bst](https://github.com/glv2/bst)  -二进制搜索树.  [GPL3] [2].
+* [trivial-extensible-sequences](https://github.com/Shinmera/trivial-extensible-sequences) -可扩展序列协议的可移植性库（[SBCL documentation](http://www.sbcl.org/manual/#Extensible-Sequences) ）.  [zlib] [33].
+* [bst](https://github.com/glv2/bst) - Binary Search Tree. [GPL3][2].
 * [pileup](http://nikodemus.github.io/pileup/)  -Common Lisp的可移植，高性能和线程安全的二进制堆.  [MIT] [200].
 * [sycamore](https://github.com/ndantam/sycamore)  -快速，纯功能的数据结构库.  [BSD_3Clause] [15].
 * [genhash](https://github.com/pnathan/genhash)  –使用通用方法中的API实现哈希表. 公共区域.
@@ -292,7 +292,7 @@ Graphics
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD] [39].
 * [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [Expat] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
-* [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -SDL的一组绑定.  [Expat] [14].
+* [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat][14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15]. 不在Quicklisp中.
 * [okra](https://www.common-lisp.net/project/okra/manual.html)  -CFFI绑定到Ogre. 在Quicklisp上不可用.  [3子BSD] [15].
 * [opticl](https://github.com/slyrus/opticl)  -用于表示和处理图像的库.  [BSD_2Clause] [17].
@@ -428,7 +428,7 @@ CLOS扩展
 功能扩展
 -------------------
 
-* [cl-hooks](https://github.com/scymtym/architecture.hooks/)  -钩子扩展点机制（例如，从GNU Emacs中已知）.  LGPL.
+* [cl-hooks](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
 * [method-hooks](https://gitlab.com/Gnuxie/method-hooks)  -如果CLOS方法组合每个方法只允许一个钩子，则此库允许任意数目的钩子.  Mozilla公共许可证.
 * [cl-advice](https://github.com/lisp-mirror/budden-tools/blob/213ab2b52a1b0c0b496efd30c3b5143f5c8e1ff2/cl-advice/README.md)  -尝试用于SBCL，CCL，LispWorks和Allegro的便携式层建议库. 不在Quicklisp中.
 
@@ -454,7 +454,7 @@ Iteration
 Lambda速记
 -----------------
 
-* [fn](https://github.com/cbaggers/fn) - a couple of lambda shorthand macros. `(fn* (+ _ _))  -->  (lambda (_) (+ _ _))`. Public domain.
+* [fn](https://github.com/cbaggers/fn)  -几个lambda速记宏.  `（fn *（+ _ _））-&gt;（lambda（_）（+ _ _））. 公共区域.
 * [f-underscore](https://gitlab.common-lisp.net/bpm/f-underscore)  -一个小的函数式编程工具库.  `（f_（+ _ _））-&gt;（lambda（_）（+ _ _））. 公共区域.
 * [cl-punch](https://github.com/windymelt/cl-punch/)  -类似于Scala的匿名Lambda文字.  `（mapcar ^（* 2 _）&#39;（1 2 3 4 5））`.  [MIT] [200].
 
@@ -466,7 +466,7 @@ Lambda速记
 非确定性逻辑编程
 ------------------------------------
 
-* [cl-prolog2](https://github.com/guicho271828/cl-prolog2) - Common Interface to ISO Prolog implementations from Common Lisp. [MIT][200].
+* [cl-prolog2](https://github.com/guicho271828/cl-prolog2)  -从Common Lisp到ISO Prolog实施的通用接口.  [MIT] [200].
 * [Screamer](https://github.com/nikodemus/screamer) -增加普通
   Lisp具有Prolog和Prolog的几乎所有功能
   约束逻辑编程
@@ -478,7 +478,7 @@ Lambda速记
 反应式编程
 --------------------
 
-* [Cells](https://github.com/kennytilton/cells)  -数据流编程范例的实现，类似于CLOS的反应式电子表格. 用于建造 [algebra learning system](http://tiltontec.com/) . 用 [documentation](https://github.com/stefano/cells-doc/) .  Lisp LGPL.
+* [Cells](https://github.com/kennytilton/cells)  -数据流编程范例的实现，类似于CLOS的反应式电子表格. 用于建造 [algebra learning system](http://tiltontec.com/) . 和 [documentation](https://github.com/stefano/cells-doc/) .  Lisp LGPL.
 
 合同编制
 --------------------
@@ -661,7 +661,7 @@ HTTP服务器
 
 * [clack-errors](https://github.com/eudoxia0/clack-errors)  -Clack的错误页面中间件.  [LLGPL] [8].
 * [clath](https://github.com/BnMcGn/clath) -单一登录
-  middleware for Clack. It allows basic login with OAuth1.0a, OAuth2
+   Clack的中间件. 它允许使用OAuth1.0a，OAuth2进行基本登录
   和OpenID. 在撰写本文时，它支持来自
    Google，Twitter，LinkedIn，StackExchange，Reddit和Github.  [Apache2.0] [51].
 * [clack-pretend](https://github.com/BnMcGn/clack-pretend) -测试
@@ -676,11 +676,10 @@ Web框架
 * [Caveman](https://github.com/fukamachi/caveman)  -强大的网络框架.  [LLGPL] [8].
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web)  -用于构建现代Web应用程序的框架.  [Expat] [14].
-* [ningle](https://github.com/fukamachi/ningle)  -超微型网络框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的ingle（通常更易于处理查询参数）.  [MIT] [200].
-* [radiance](https://github.com/Shirakumo/radiance) - A web application environment and framework . [Artistic License 2.0][51].
+* [ningle](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL][8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，这是一种扩展的，对noob友好的ingle（通常更易于处理查询参数）.  [MIT] [200].
+* [radiance](https://github.com/Shirakumo/radiance)  -Web应用程序环境和框架.  [Artistic License 2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)  -受Flask启发，基于Clack构建的最小Web框架.  [MIT] [200].
-* [Snooze](https://github.com/joaotavora/snooze) - A RESTful web framework, built on Clack, where routes are just functions and HTTP conditions are just Lisp conditions. [LLGPL][8].
-* [Weblocks](https://github.com/40ants/weblocks)  -基于窗口小部件的框架，具有内置的ajax更新机制，可“解决JavaScript问题”.  [LLGPL] [8].
+* [Snooze](https://github.com/joaotavora/snooze)  -基于Clack构建的RESTful Web框架，其中路由仅是函数，HTTP条件仅是Lisp条件.  [LLGPL] [8].
 
 以REST为重点的框架：
 
@@ -690,8 +689,17 @@ Web框架
 
 有更多的项目，或多或少地中止了但很有趣. 请参阅其他资源.
 
+同构Web框架
+-------------------------
 
-资产管理
+* [CLOG](https://github.com/rabbibotton/clog)  -Common Lisp Omnificent GUI. 使用Web技术为本地或远程应用程序生成图形用户界面.  [BSD_3Clause] [15].
+  -CLOG基于GNOGA的思想，该框架是作者为Ada编写的框架，自2013年以来已在商业生产代码中使用.
+* [Interactive SSR](https://github.com/interactive-ssr/client/blob/master/main.org/)  -ISSR使您无需编写客户端脚本即可制作交互式网页. 不需要有关Javascript或DOM的知识.
+  -它与Phoenix LiveView或Hotwire不同.
+* [Weblocks](https://github.com/40ants/weblocks)  -基于窗口小部件的框架，具有内置的ajax更新机制，可“解决JavaScript问题”.  [LLGPL] [8].
+
+
+Assets management
 -----------------
 
 * [Rock](https://github.com/eudoxia0/rock) -的资产经理
@@ -722,7 +730,7 @@ HTML生成器和模板
 * [clip](https://shinmera.github.io/clip)  -HTML模板处理器，其中模板以HTML编写.  [Artistic License 2.0] [51].
 * [lsx](https://github.com/fukamachi/lsx/) 和 [markup](https://github.com/moderninterpreters/markup)  -两个类似JSX的模板引擎，其中HTML标记是Common Lisp代码.  `markup`带有一个Emacs软件包.
 
-URI处理
+URI handling
 ------------
 
 * [quri](https://github.com/fukamachi/quri) -另一个URI库
@@ -733,9 +741,9 @@ URI处理
 Javascript
 ----------
 
-* ：星星： [Parenscript](https://common-lisp.net/project/parenscript/)  -从Common Lisp到Javascript的翻译器.  [3子BSD] [15]. 看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，可提供与浏览器的实时交互.[unlicence] [5].
+* ：星星： [Parenscript](https://common-lisp.net/project/parenscript/)  -从Common Lisp到Javascript的翻译器.  [3子BSD] [15]. 看 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，可提供与浏览器的实时交互.[unlicence] [5].
   * [paren6](https://github.com/BnMcGn/paren6/) -一组用于Parenscript的ES6宏.
-* [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
+* [parse-js](http://marijnhaverbeke.nl/parse-js/) -用于解析ECMAScript 3的软件包.[zlib] [33].
 * [JSCL](https://github.com/jscl-project/jscl)  -从一开始就设计为自托管的CL到JS编译器. 缺少CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)  -从Javascript到Common Lisp的翻译器. 在Quicklisp上不可用.  [Expat] [14].
 * [Wuwei](https://github.com/mtravers/wuwei/)  -用于构建基于Ajax的网页的工具包.  [MIT] [200].
@@ -770,13 +778,13 @@ Websockets
 ----------------------
 
 * [coleslaw](https://github.com/kingcons/coleslaw) 及其
-  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) -灵活
+  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - 灵活
    Lisp Blogware与Frog，Jekyll或Hakyll类似.  [BSD] [15].
 
 Deployment
 ----------
 
-* [heroku-buildpack-common-lisp](https://gitlab.com/duncan-bayne/heroku-buildpack-common-lisp) - A Heroku buildpack that uses Roswell to compile Common Lisp applications. LGPL3.
+* [heroku-buildpack-common-lisp](https://gitlab.com/duncan-bayne/heroku-buildpack-common-lisp)  -使用Roswell编译Common Lisp应用程序的Heroku构建包.  LGPL3.
 * [cube](https://github.com/xh4/cube)  -从Swagger规范生成的通用LISP的Kubernetes客户端库.  [MIT] [200].
 * [s2i-lisp](https://github.com/container-lisp/s2i-lisp)  -基于CentOS或RHEL7的“源到映像”构建器映像，用于为OpenShift（以及Docker）构建Common LISP映像. 它具有可与Quicklisp安装，SLIME或SLY集成的最新SBCL，并允许通过环境变量进行自定义.  [Apache2] [89]
 * [deploy](https://shinmera.github.io/deploy)  -用于Lisp应用程序二进制部署的工具包，并具有对外部共享库的额外支持.  [Artistic License 2.0] [51].
@@ -809,7 +817,7 @@ Monitoring
 * [avatar-api](https://github.com/eudoxia0/avatar-api)  -从Google +，Gravatar和其他人那里获取化身.  [Expat] [14].
 * [chirp](https://github.com/Shinmera/chirp)  -Twitter客户端库.  [Artistic License 2.0] [51].
 * [tooter](https://github.com/Shinmera/tooter)  -为Mastodon实现完整的v1 REST API协议的客户端库.  [ArtisticLicense2.0] [51].
-* [cl-irc](https://www.common-lisp.net/project/cl-irc/) - An IRC client library. [Expat][14].
+* [cl-irc](https://www.common-lisp.net/project/cl-irc/)  -IRC客户端库.  [Expat] [14].
 * [cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki)  -MediaWiki API的包装.  [MIT] [200].
 * [cl-openid](https://github.com/cl-openid/cl-openid)  -OpenID的实现.  [LLGPL] [8].
 * [cl-pushover](https://github.com/TeMPOraL/cl-pushover)  -通用Lisp绑定到Pushover.  [MIT] [200].
@@ -834,7 +842,7 @@ Others
 * [GSLL](https://common-lisp.net/project/gsll/)  -GNU Lisp科学图书馆； 允许使用Common Lisp提供的GSL.  [GNU LGPL2.1] [11].
 * [maxima](http://maxima.sourceforge.net/)  -计算机代数系统. 在Quicklisp上不可用.  [GNU GPL3] [2].
 * [Xecto](https://github.com/pkhuong/Xecto)  -用于常规数组并行性的库.  [3子BSD] [15].
-* [Petalisp](https://github.com/marcoheisig/Petalisp) -试图
+* [Petalisp](https://github.com/marcoheisig/Petalisp) - an attempt to
   通过以下方式为并行计算机生成高性能代码
    JIT编译数组定义. 它适用于更多
   通过提供更强大的功能，比NumPy具有更高的基本水平
@@ -925,7 +933,7 @@ Utils
 
 * [SBCL's timers](http://www.sbcl.org/manual/#Timers)，系统范围内的事件调度程序.
 * [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理. 受Ruby的Sidekiq启发，并与其Web UI兼容.  [LLGPL] [8].
-* [cl-cron](https://github.com/ciel-lang/cl-cron)  -提供cron类设施的简单工具.  [GPL3] [2].
+* [cl-cron](https://github.com/ciel-lang/cl-cron) - A simple tool that provides cron like facilities. [GPL3][2].
 * [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的类似cron的调度程序.  [MIT] [200].
 
 
@@ -990,7 +998,7 @@ Readline，ncurses和其他图形助手
    *`uiop：run-program`（同步）和`uiop：launch-program`（异步）随ASDF一起提供，并且在所有现代实现中都可用. 见 [CL Cookbook: running external programs](https://lispcookbook.github.io/cl-cookbook/os.html#running-external-programs).
 * [Clesh](https://github.com/Neronus/Clesh)  -以类似于perl的反引号的方式扩展Common Lisp以嵌入Shell代码.  [FreeBSD] [39].
 
-系统管理
+System administration
 ---------------------
 
 * [Adams](https://github.com/cl-adams/adams)  -Common Lisp中的UNIX系统管理. 与Ansible，Chef或Puppet一样.  [ISC] [22].
@@ -1075,7 +1083,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 
 ## REPLs ##
 
-* [cl-repl](https://github.com/koji-kojiro/cl-repl)  -类似于ipython的REPL. 完成后，将执行shell命令，魔术命令，调试器等.[MIT] [200]. 用 [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+* [cl-repl](https://github.com/koji-kojiro/cl-repl)  -类似于ipython的REPL. 完成后，将执行shell命令，魔术命令，调试器等.[MIT] [200]. 和 [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes).
 * [sbcli](https://github.com/hellerve/sbcli)  -SBCL的readline REPL. 具有完成功能，快速命令，可选的语法高亮显示（带有pygments），并且没有交互式调试器.  [GPL3] [2].
 
 ## Online editors ##
@@ -1136,7 +1144,7 @@ Tools
   论点.  [MIT] [200].
 * [Check-it](https://github.com/DalekBaldwin/check-it)  -一种QuickCheck样式的基于属性的随机测试.  [LLGPL] [8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) -帮手
-  库将测试覆盖范围发布到Coveralls. 看到
+  库将测试覆盖范围发布到Coveralls. 看
   [continuous-integration on lisp-lang.org](http://lisp-lang.org/learn/continuous-integration)
   和
   [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD] [39].
@@ -1208,7 +1216,7 @@ REPL的常见任务（打印文档，打印外部符号，
 * [cl-debug](https://github.com/LowH/cl-debug)  -跨包调试工具. 提供启用或禁用特定于调试的代码的统一方法. 相对于用符号或关键字表示的程序功能，可以启用或禁用调试代码.  ISC许可证.
 * [supertrace](https://github.com/fukamachi/supertrace)  -出色的Common Lisp`trace`功能，用于调试/分析. 一次跟踪许多功能，在钩子之前和之后使用.  [BSD_2Clause] [17].
 * [GTFL](http://www.martin-loetzsch.de/gtfl/)  -Lisp的图形终端，供想要调试或可视化自己算法的Lisp程序员使用. 浏览器中的图形跟踪.  BSD风格.
-* [trivial-with-current-source-from](https://github.com/scymtym/trivial-with-current-source-form/) - Helps macro writers produce better errors for macro users. [GPL3][2].
+* [trivial-with-current-source-from](https://github.com/scymtym/trivial-with-current-source-form/)  -帮助宏编写器为宏用户产生更好的错误.  [GPL3] [2].
 * [trivial-benchmark](https://github.com/Shinmera/trivial-benchmark)  -小型基准测试库.  [Artistic License 2.0] [51].
 * [glyphs](https://github.com/ahungry/glyphs/)  -用于减少Common Lisp的详细信息的库.  [GNU GPL3] [2].
 * [Lisp REPL core dumper](https://gitlab.com/ambrevar/lisp-repl-core-dumper/) -
@@ -1320,7 +1328,7 @@ Plotting
 * [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一个
    lispy，无结构的Gnuplot库. 与它
   [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLGPL] [8]
-* [kai](https://github.com/komi1230/kai) - A high-level plotter library for Common Lisp. A wrapper around the [Plotly](https://plotly.com/javascript/)  JS库.  [MIT] [200].
+* [kai](https://github.com/komi1230/kai)  -Common Lisp的高级绘图仪库. 包装纸 [Plotly](https://plotly.com/javascript/)  JS库.  [MIT] [200].
 * [ADW-Charting](https://common-lisp.net/project/adw-charting/)  -完全用Common Lisp编写的简单图表绘图库. 还包括Google图表服务的后端. 类似于BSD.
 * [cl-spark](https://github.com/tkych/cl-spark)  -控制台的迷你图字符串：`（spark&#39;（1 1 2 3 5 8））`=&gt;“▂▃▅▇”.  [MIT] [200].
 
@@ -1369,7 +1377,7 @@ Contributing
 -绝对的事实库，例如BordeauxThreads或Quicklisp，
   应该用：star：（在markdown中用`：star：`）表示.
 -范围非常相似的两个库应并排放置，或放在一个
-  自己的部分.
+  section of their own.
 -根据我们的经验和状态进行一些策划
   图书馆的文件. 我们*不*旨在列出所有现有
   CL库（请参阅Cliki）也不列出每个库

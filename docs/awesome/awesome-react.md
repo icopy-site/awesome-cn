@@ -87,8 +87,6 @@
 
 ##### React Development Tools
 
-- [create-react-app](https://github.com/facebook/create-react-app) -通过运行一个命令来设置现代Web应用程序
-- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) -同构Web应用程序样板
 - [react-devtools](https://github.com/facebook/react-devtools) -在Chrome和Firefox开发人员工具中检查React组件的层次结构
 - [react-hot-loader](https://github.com/gaearon/react-hot-loader) -实时调整React组件
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) -用于加载具有承诺的组件的高阶组件
@@ -106,6 +104,14 @@
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) -猴子补丁反应可通知您有关可避免的重新渲染.
 - [Divjoy](https://divjoy.com) -React代码库和UI生成器以加快开发速度（收费）
 - [Plasmic](https://www.plasmic.app/) -强大的设计工具，可直观地构建您的React组件.
+
+##### React Starter Kits and Toolchains
+
+- [create-react-app](https://github.com/facebook/create-react-app) -通过运行一个命令来设置现代Web应用程序
+- [Razzle](https://razzlejs.org/)  -构建准备就绪的React应用程序.  Razzle是用于现代静态和动态网站以及Web应用程序的工具链.
+- [Neutrino React Preset](https://neutrinojs.org/packages/react/) -@ neutrinojs / react是一个Neutrino预设，支持构建React Web应用程序.
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) -同构Web应用程序样板
+- [create-react-library](https://github.com/transitive-bullshit/create-react-library) -CLI，用于使用Rollup和create-react-app创建可重用的现代React库.
 
 ##### React Frameworks
 
@@ -160,7 +166,7 @@
 - [elastic ui framework](https://github.com/elastic/eui) -Elastic UI Framework是React UI组件的集合，用于在Elastic上快速构建用户界面.
 - [bugbag react ui kit](https://bumbag.style/) -Bumbag是一个友好的React UI套件，适用于MVP或大规模应用.
 - [ring-ui](https://github.com/JetBrains/ring-ui) -JetBrains Web UI组件
-- [ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
+- [ChatUI](https://github.com/alibaba/ChatUI) -会话UI的UI设计语言和React库
 
 ##### React Awesome Components
 
@@ -237,13 +243,13 @@
 - [riotjs](https://github.com/muut/riotjs) -一个类似React的3.5KB用户界面库
 - [Maple.js](https://github.com/Wildhoney/Maple.js) -将Web组件的概念引入React
 - [react-i13n](https://github.com/yahoo/react-i13n) -高性能，可扩展和可插拔的方法来检测您的React应用程序
-- [react-icons](https://github.com/gorangajic/react-icons) - svg react icons of popular icon packs
+- [react-icons](https://github.com/gorangajic/react-icons) -svg反应常用图标包的图标
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) -很棒的免费插图作为反应成分.
 - [Keo](https://github.com/Wildhoney/Keo) -普通函数，用于创建React组件的更具功能性的Deku方法，并具有管道，备忘录等功能性功能.
 - [Bit](https://github.com/teambit/bit) -虚拟仓库，用于跨应用程序管理和使用React和其他Web组件
 - [AtlasKit](https://atlaskit.atlassian.com/) -Atlassian的React UI库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) -Elasticsearch的UI组件库
-- [Slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors.
+- [Slate](https://github.com/ianstormtaylor/slate) -用于构建富文本编辑器的完全可自定义的框架.
 - [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) -通过将JSON定义映射到您公开的React组件，从JSON构造React元素.
 - [compose-state](https://github.com/tvler/compose-state) -在React中编写多个setState或getDerivedStateFromProps更新器
 - [react-lodash](https://github.com/typicode/react-lodash) -Lodash作为React组件
@@ -275,7 +281,7 @@
 - [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) -为Coffeescript提供React JSX支持
 - [sprockets-coffee-react](https://github.com/jsdf/sprockets-coffee-react) -CJSX的链轮预处理器
 - [react-kup](https://github.com/snd/react-kup) -用于咖啡脚本的jsx的简单，非侵入式替代方法
-- [turbo-react](https://github.com/ssorallen/turbo-react) -结合Turbolinks和React来应用DOM差异
+- [turbo-react](https://github.com/ssorallen/turbo-react) - Combine Turbolinks and React to apply DOM diffs
 - [react-bacon](https://github.com/jamesmacaulay/react-bacon) -一个用于在Bacon.js中使用React的小模块
 - [msx](https://github.com/insin/msx) -React的JSX变形金刚，已调整为输出对秘银的调用
 - [React.withBackbone](https://github.com/beanworks/React.withBackbone) -React 16准备好主干绑定
@@ -388,7 +394,7 @@
 - [react-canvas](https://github.com/Flipboard/react-canvas)  -高性能`<canvas>  `React组件的渲染
 - [react-famous](https://github.com/pilwon/react-famous) -使用Famo.us以60 FPS进行复杂的3D动画UI
 - [react-kinetic](https://github.com/freiksenet/react-kinetic) -使用React通过KineticJS通过HTML5 Canvas
-- [react-svg-morph](https://github.com/gorangajic/react-svg-morph) -将svg组件彼此变形
+- [react-svg-morph](https://github.com/gorangajic/react-svg-morph) - morph your svg components one into another
 - [react-hooks-svgdrawing](https://github.com/kmkzt/react-hooks-svgdrawing) -带React钩子的SVG绘图
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) -一个React组件，为SVG添加了平移和缩放功能.
 
@@ -413,7 +419,7 @@
 - [Hydux](https://github.com/hydux/hydux) -Elm-Like状态经理，负责“带有电池”的React
 - [ReSub](https://github.com/Microsoft/ReSub) -用于编写更好的React组件和数据存储的库
 - [ProppyJS](https://proppyjs.com) -一个小小的功能道具库
-- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) -用于强大的React和React Native应用程序的下一代数据库，可扩展至10,000条记录并保持快速
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast
 - [RxDB](https://github.com/pubkey/rxdb) -JavaScript应用程序的实时数据库
 - [Effector](https://github.com/zerobias/effector)  -快速而强大的反应状态管理器. 使您可以编写简单，快速和安全的代码，并轻松管理响应状态.
 - [reactn](https://github.com/CharlesStover/reactn) -反应，但具有内置的全局状态管理
@@ -642,7 +648,7 @@
 - [react-transmit](https://github.com/RickWong/react-transmit) -基于** JavaScript Promise **的基于中继的库（已归档，只读）
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) -Facebook GraphQL的** Ruby **实现
 - [graphql-java](https://github.com/howtographql/graphql-java) -GraphQL ** Java **实现
-- [sangria](https://github.com/sangria-graphql/sangria) - **Scala** GraphQL client and server library
+- [sangria](https://github.com/sangria-graphql/sangria) -** Scala ** GraphQL客户端和服务器库
 - [graphql-php](https://github.com/webonyx/graphql-php) -GraphQL参考实现的** PHP **端口
 - [graphene](https://graphene-python.org/) -** Python **中的GraphQL变得简单
 - [graphqllib](https://github.com/dittos/graphqllib) -** Python **的GraphQL实现
@@ -763,7 +769,7 @@
 
 ### Demo React Apps
 
-- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) -使用React和GraphQL用通用JavaScript重写了Hacker News克隆
+- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
 - [react-reduction](https://github.com/reduction-admin/react-reduction) -使用React和Bootstrap4构建的免费管理模板
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) -响应式反应电影数据库应用程序
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) -使用React Redux构建的简单电子商务购物车应用程序

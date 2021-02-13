@@ -18,6 +18,7 @@
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) -从iTunes，Skype或Safari等任何应用程序录制音频，或者从麦克风和混音器等硬件设备录制音频.
 - [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)  -允许您为连接的设备的每种特定组合固定输入/输出设备. 可能会抑制选择HDMI显示.
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)  -记录系统音频，控制单个应用程序的音频级别，并在其他音频开始播放时自动暂停音乐播放器，然后将其取消暂停.  [！[开源软件] [OSS图标]]（https://github.com/kyleneideck/BackgroundMusic）！[免费软件] [免费软件图标]
+- [Plug](https://plugformac.com)  -从Hype Machine发现并听音乐.  [！[开源软件] [OSS图标]]（https://github.com/wulkano/Plug）！[免费软件] [免费软件图标]
 - [Recordia](https://sindresorhus.com/recordia) -直接从菜单栏或使用全局键盘快捷键录制音频.
 - [VOX Player](https://coppertino.com/vox/mac) -播放多种有损和无损音频格式.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html)  -翻录/解码/转换/播放各种“无损”音频文件.  [！[开源软件] [OSS图标]]（https://code.google.com/archive/p/xld/source）！[免费软件] [免费软件图标]
@@ -47,7 +48,6 @@
 - [Dash](https://kapeli.com/dash) -API文档浏览器和代码段管理器.
 - [Gas Mask](https://github.com/2ndalpha/gasmask)  -一个简单的主机文件管理器，允许编辑主机文件并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/2ndalpha/gasmask）！[免费软件] [免费软件图标]
 - [gitbar](https://github.com/Shikkic/gitbar)  -菜单栏上的开源github贡献统计信息.  [！[开源软件] [OSS图标]]（https://github.com/Shikkic/gitbar）！[免费软件] [免费软件图标]
-- [GitHub Desktop](https://desktop.github.com/)  -使用GitHub的GUI.  ！[免费软件] [免费软件图标]
 - [GitUp](http://gitup.co/)  -一个简单但功能强大的Git macOS应用程序.  [！[开源软件] [OSS图标]]（https://github.com/git-up/GitUp）！[免费软件] [免费软件图标]
 - [GitX-dev](https://rowanj.github.io/gitx/)  -GitX的分叉（变体），通过针对生产力的更改进行维护和增强.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 - [Hopper Dissassembler](https://www.hopperapp.com)  -适用于MacOS和Linux的反汇编程序. 具有演示选项，可提高30分钟的工作效率.
@@ -192,7 +192,7 @@
 - [CloudApp](https://www.getcloudapp.com/) -立即捕获并共享文件和屏幕截图.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906)  -实时文件共享应用程序，支持即时共享代码/ Markdown，注释屏幕截图，屏幕录制和语音录制.  ！[免费软件] [免费软件图标]
 - [mac2imgur](https://github.com/mileswd/mac2imgur)  -将图像和屏幕截图上传到Imgur.  [！[开源软件] [OSS图标]]（https://github.com/mileswd/mac2imgur）！[免费软件] [免费软件图标]
-- [Monosnap](https://monosnap.com) -注释并上传图像和屏幕截图，支持许多后端，如S3，SFTP，WebDAV，Dropbox等.！[免费软件] [免费软件图标]
+- [Monosnap](https://monosnap.com) -注释并上传图像和屏幕截图，支持许多后端，如S3，SFTP，WebDAV，Dropbox等.[免费软件] [免费软件图标]
 - [Transmission](https://www.transmissionbt.com/)  -简单，轻巧，多平台的torrent客户端.  [！[开源软件] [OSS图标]]（https://github.com/transmission/transmission）！[免费软件] [免费软件图标]
 
 
@@ -261,7 +261,7 @@
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) -从Internet自动下载网站.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt)  -管理窗口的大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)  -防止意外的Cmd-Q.  [！[开源软件] [OSS图标]]（https://github.com/dteoh/SlowQuitApps）！[免费软件] [免费软件图标]
-- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，这样，当意外激活键时，即使您不想启动，也可以开始大喊，您只需选择大喊大叫的文本，然后再次按该键即可立即修复其大小写，而不用键入一切都重新开始.
+- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，这样，当意外激活该键时，即使您不想启动，您也可以开始大喊，您只需选择大吼大叫的文本，然后再次按下该键即可立即修复其大小写，而不用键入一切都重新开始.
 - [Soulver](http://www.acqualia.com/soulver/) -美丽的表现力计算器.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) -管理与macOS Keychain紧密集成的SSH隧道，安全且直观.
 - [TeamViewer](https://www.teamviewer.com/en/) -远程控制另一台计算机.

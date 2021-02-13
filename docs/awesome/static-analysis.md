@@ -139,12 +139,12 @@
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) -C代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) -C和C预处理程序代码的复杂性和质量指标.
 - [ESBMC](http://esbmc.org) -ESBMC是基于可满足性模理论的开放源代码，未经许可的，有上下文约束的模型检查器，用于验证单线程和多线程C / C ++程序.
-- [flawfinder](https://www.dwheeler.com/flawfinder) -查找可能的安全漏洞.
+- [flawfinder](http://dwheeler.com/flawfinder/) -查找可能的安全漏洞.
 - [flint++](https://github.com/JossWhittle/FlintPlusPlus) -flint的跨平台，零依赖端口，这是Facebook开发和使用的C ++ lint程序.
 - [Frama-C](http://frama-c.com) -完善的C代码静态分析器.
 - [Helix QAC](https://www.perforce.com/products/helix-qac)  ：copyright：-嵌入式软件的企业级静态分析. 支持MISRA，CERT和AUTOSAR编码标准.
 - [IKOS](https://github.com/nasa-sw-vnv/ikos) -基于LLVM的C / C ++代码的声音静态分析器.
-- [Joern](https://joern.io) -基于代码属性图的C / C ++开源代码分析平台
+- [Joern](https://joern.io) - Open-source code analysis platform for C/C++ based on code property graphs
 - [LDRA](https://ldra.com) ：copyright：-一个工具套件，包括对各种标准的静态分析（TBVISION），包括MISRA C＆C ++，JSF ++ AV，CWE，CERT C，CERT C ++和自定义规则.
 - [PC-lint](https://www.gimpel.com)  ：copyright：-C / C ++的静态分析. 在Windows / Linux / MacOS下本机运行. 支持C11 / C18和C ++ 17的几乎任何平台的代码分析.
 - [Phasar](https://phasar.org) -基于LLVM的静态分析框架，带有污点和类型状态分析.
@@ -187,12 +187,12 @@
 - [cqmetrics](https://github.com/dspinellis/cqmetrics) -C代码的质量指标.
 - [CScout](https://www.spinellis.gr/cscout) -C和C预处理程序代码的复杂性和质量指标.
 - [ESBMC](http://esbmc.org) -ESBMC是基于可满足性模理论的开放源代码，未经许可的，有上下文约束的模型检查器，用于验证单线程和多线程C / C ++程序.
-- [flawfinder](https://www.dwheeler.com/flawfinder) -查找可能的安全漏洞.
+- [flawfinder](http://dwheeler.com/flawfinder/) -查找可能的安全漏洞.
 - [flint++](https://github.com/JossWhittle/FlintPlusPlus) -flint的跨平台，零依赖端口，这是Facebook开发和使用的C ++ lint程序.
 - [Frama-C](http://frama-c.com) -完善的C代码静态分析器.
 - [Helix QAC](https://www.perforce.com/products/helix-qac)  ：copyright：-嵌入式软件的企业级静态分析. 支持MISRA，CERT和AUTOSAR编码标准.
 - [IKOS](https://github.com/nasa-sw-vnv/ikos) -基于LLVM的C / C ++代码的声音静态分析器.
-- [Joern](https://joern.io) -基于代码属性图的C / C ++开源代码分析平台
+- [Joern](https://joern.io) - Open-source code analysis platform for C/C++ based on code property graphs
 - [LDRA](https://ldra.com) ：copyright：-一个工具套件，包括对各种标准的静态分析（TBVISION），包括MISRA C＆C ++，JSF ++ AV，CWE，CERT C，CERT C ++和自定义规则.
 - [PC-lint](https://www.gimpel.com)  ：copyright：-C / C ++的静态分析. 在Windows / Linux / MacOS下本机运行. 支持C11 / C18和C ++ 17的几乎任何平台的代码分析.
 - [Phasar](https://phasar.org) -基于LLVM的静态分析框架，带有污点和类型状态分析.
@@ -319,7 +319,7 @@
 - [CodeNarc](https://codenarc.github.io/CodeNarc) -用于Groovy源代码的静态分析工具，可以监视和执行许多编码标准和最佳实践.
 
 
-<h2 id="haskell">哈斯克尔</h2>
+<h2 id="haskell">Haskell</h2>
 
 - [brittany](https://github.com/lspitzner/brittany) -Haskell源代码格式化程序
 - [HLint](https://github.com/ndmitchell/hlint) -HLint是用于建议对Haskell代码进行可能的改进的工具.
@@ -329,7 +329,7 @@
 
 <h2 id="haxe">哈克斯</h2>
 
-- [Haxe Checkstyle](http://haxecheckstyle.github.io/docs/haxe-checkstyle/home.html) - A static analysis tool to help developers write Haxe code that adheres to a coding standard.
+- [Haxe Checkstyle](http://haxecheckstyle.github.io/docs/haxe-checkstyle/home.html) -静态分析工具，可帮助开发人员编写符合编码标准的Haxe代码.
 
 
 <h2 id="java">爪哇</h2>
@@ -393,7 +393,7 @@
 - [ktlint](https://ktlint.github.io) -带有内置格式化程序的防骑自行车科特林短绒.
 
 
-<h2 id="lua">a</h2>
+<h2 id="lua">拿</h2>
 
 - [luacheck](https://github.com/mpeterv/luacheck) ：warning：-用于Lua代码的整理和静态分析的工具.
 - [lualint](https://github.com/philips/lualint) -lualint对Lua源代码中的全局变量使用情况进行基于luac的静态分析.
@@ -428,7 +428,7 @@
 - [Mondrian](http://trismegiste.github.io/Mondrian) ：警告：-使用图论的一组静态分析和重构工具.
 - [parallel-lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) -该工具检查PHP文件的语法的速度比串行检查的速度更快，输出结果也更出色.
 - [Parse](https://github.com/psecio/parse) -静态安全扫描程序.
-- [pdepend](https://pdepend.org) - Calculates software metrics like cyclomatic complexity for PHP code.
+- [pdepend](https://pdepend.org) -计算软件度量，例如PHP代码的圈复杂度.
 - [phan](https://github.com/phan/phan/wiki) -etsy的现代静电分析仪.
 - [PHP Architecture Tester](https://github.com/carlosas/phpat) -易于使用的PHP体系结构测试工具.
 - [PHP Assumptions](https://github.com/rskuipers/php-assumptions) ：警告：-检查弱假设.
@@ -446,7 +446,7 @@
 - [phpca](https://github.com/wapmorgan/PhpCodeAnalyzer) ：warning：-查找非内置扩展名的用法.
 - [phpcpd](https://github.com/sebastianbergmann/phpcpd) -用于PHP代码的复制/粘贴检测器.
 - [phpdcd](https://github.com/sebastianbergmann/phpdcd) ：warning：-死代码检测器（DCD）用于PHP代码.
-- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) :warning: - Builds a dependency graph for a project.
+- [PhpDependencyAnalysis](https://mamuz.github.io/PhpDependencyAnalysis) ：warning：-为项目建立依赖图.
 - [PhpDeprecationDetector](https://github.com/wapmorgan/PhpDeprecationDetector)  -PHP代码分析器，用于在较新的解释器版本中搜索过时功能的问题. 它查找已删除的对象（函数，变量，常量和ini指令），不赞成使用的函数功能以及禁止使用的名称或技巧（例如，较新版本中的保留标识符）.
 - [phpdoc-to-typehint](https://github.com/dunglas/phpdoc-to-typehint) -添加标量类型提示，并使用PHPDoc注释将类型返回给现有的PHP项目.
 - [phpDocumentor](https://www.phpdoc.org) -分析PHP源代码以生成文档.
@@ -472,7 +472,7 @@
 - [Perl::Critic](https://metacpan.org/pod/Perl::Critic) -Critique Perl最佳实践的源代码.
 
 
-<h2 id="python">蟒蛇</h2>
+<h2 id="python">Python</h2>
 
 - [bandit](https://bandit.readthedocs.io/en/latest) -查找Python代码中常见安全问题的工具.
 - [bellybutton](https://github.com/hchasestevens/bellybutton) -支持自定义项目特定规则的整理引擎.
@@ -524,7 +524,7 @@
 - [Querly](https://github.com/soutaro/querly) -基于模式的Ruby检查工具.
 - [Railroader](https://railroader.org) ：warning：-针对Ruby on Rails应用程序的开源静态分析安全漏洞扫描程序.
 - [rails_best_practices](https://rails-bestpractices.com) -Rails项目的代码度量工具
-- [reek](https://github.com/troessner/reek) -用于Ruby的代码气味检测器.
+- [reek](https://github.com/troessner/reek) - Code smell detector for Ruby.
 - [RuboCop](https://docs.rubocop.org/rubocop) -基于社区Ruby样式指南的Ruby静态代码分析器.
 - [Rubrowser](https://github.com/blazeeboy/rubrowser) -Ruby类交互式依赖图生成器.
 - [ruby-lint](http://code.yorickpeterse.com/ruby-lint/latest) ：warning：-Ruby的静态代码分析.
@@ -576,7 +576,7 @@
 - [WartRemover](https://www.wartremover.org) -灵活的Scala代码整理工具.
 
 
-<h2 id="shell">贝壳</h2>
+<h2 id="shell">壳</h2>
 
 - [bashate](https://github.com/openstack/bashate)  -bash程序的代码风格实施. 输出格式旨在遵循pycodestyle（pep8）默认输出格式.
 - [i-Code CNES for Shell](https://github.com/lequal/i-CodeCNES) -用于Shell和Fortran（77和90）的开源静态代码分析工具.
@@ -637,7 +637,7 @@
 - [ciocheck](https://github.com/ContinuumIO/ciocheck)  ：warning：-Linter，格式化程序和测试套件帮助器. 作为短绒棉，它是包裹在“ pep8”，“ pydocstyle”，“ flake8”和“ pylint”周围的包装纸.
 - [ClassGraph](https://github.com/classgraph/classgraph) -用于查询或可视化类元数据或类相关性的类路径和模块路径扫描器.
 - [Clayton](https://www.getclayton.com/)  ：版权所有：-基于AI的Salesforce代码审查. 确保您的开发，执行最佳实践并实时控制您的技术债务.
-- [coala](https://coala.io) -用于创建代码分析的语言独立框架-支持 [over 60 languages](https://coala.io/languages) 默认.
+- [coala](https://coala.io) -用于创建代码分析的语言独立框架-支持 [over 60 languages](https://coala.io/languages) 默认情况下.
 - [Cobra](http://spinroot.com/cobra) ：版权所有：-NASA喷气推进实验室的结构源代码分析器.
 - [Codacy](https://www.codacy.com) ：copyright：-代码分析可以更快地发布更好的代码.
 - [Code Inspector](https://www.code-inspector.com) ：copyright：-支持10多种语言的代码质量和技术债务管理平台.
@@ -647,7 +647,7 @@
 - [codechecker](https://codechecker.readthedocs.io/en/latest) -具有Web GUI的Clang静态分析器的缺陷数据库和查看器扩展.
 - [CodeFactor](https://codefactor.io) ：copyright：-在GitHub或BitBucket上针对仓库的自动代码分析.
 - [CodeFlow](https://www.getcodeflow.com)  ：copyright：-自动化的代码分析工具来处理技术深度. 与Bitbucket和Gitlab集成.  （对于开源项目免费）
-- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: - CodeIt.Right&trade; provides a fast, automated way to ensure that your source code adheres to (your) predefined design and style guidelines as well as best coding practices.
+- [CodeIt.Right](https://submain.com/products/codeit.right.aspx) ：版权所有：-CodeIt.Right™提供了一种快速，自动化的方法，以确保您的源代码符合（您）预定义的设计和样式指南以及最佳编码实践.
 - [CodePatrol](https://cyber-security.claranet.fr/en/codepatrol) ：copyright：-由安全性驱动的自动SAST代码检查，支持15种以上的语言，并包括安全性培训.
 - [codeql](https://github.com/github/codeql) -深入的代码分析-带有VSCode插件支持的几种语言的语义查询和数据流.
 - [Coderrect](https://coderrect.com/)  ：copyright：-用于多线程软件的高级静态分析器. 支持OpenMP，Pthread，std :: thread和GPU / CUDA.
@@ -682,7 +682,6 @@
 - [Kiuwan](https://www.kiuwan.com/code-security-sast) :copyright: - Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more.
 - [Klocwork](https://www.perforce.com/products/klocwork) :copyright: - Quality and Security Static analysis for C/C++, Java and C#.
 - [LGTM.com](https://lgtm.com)  ：copyright：-针对GitHub和Bitbucket的深入代码分析，以发现安全漏洞和关键代码质量问题（使用Semmle QL）. 自动查看拉取请求的代码； 免费用于公共存储库.
-- [Lumnify](https://lumnify.com) :copyright: - Benchmark against thousands of projects, and analyse code for structural quality with focus on maintainability.
 - [Mega-Linter](https://nvuillam.github.io/mega-linter/) -凭借其70多个嵌入式Linter，Mega-Linter可以处理任何类型的项目，
  可在任何CI系统或本地运行的高级报告，
  具有辅助的安装和配置，能够应用格式和修复
@@ -711,7 +710,7 @@
 - [RIPS](https://www.ripstech.com) ：copyright：-用于PHP脚本中漏洞的静态源代码分析器.
 - [Rome](https://rome.tools/) -罗马是一个linter，编译器，捆绑器和 [more](https://rome.tools/#development-status) 适用于JavaScript，TypeScript，JSON，HTML，Markdown和CSS.
 - [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers) -基于Roslyn的FxCop分析仪实施.
-- [Roslyn Security Guard](https://security-code-scan.github.io) -该项目侧重于识别潜在漏洞，例如SQL注入，跨站点脚本（XSS），CSRF，加密漏洞，硬编码密码等.
+- [Roslyn Security Guard](https://security-code-scan.github.io) - Project that focuses on the identification of potential vulnerabilities such as SQL injection, cross-site scripting (XSS), CSRF, cryptography weaknesses, hardcoded passwords and many more.
 - [Scrutinizer](https://scrutinizer-ci.com) ：copyright：-可以与GitHub集成的专有代码质量检查器.
 - [Security Code Scan](https://security-code-scan.github.io) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc. Integrates into Visual Studio 2015 and newer. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 - [Semgrep](https://semgrep.live)  -针对多种语言的免费开放源代码轻量级静态分析. 使用看起来像源代码的模式查找和阻止错误变体.
@@ -729,7 +728,7 @@
 - [Sonatype](https://www.sonatype.com) ：copyright：-报告常见依赖项中的已知漏洞，并建议更新软件包以最大程度地减少重大更改
 - [SourceMeter](https://www.sourcemeter.com/) :copyright: - Static Code Analysis for C/C++, Java, C#, Python, and RPG III and RPG IV versions (including free-form).
 - [standard](http://standardjs.com) -一个npm模块，用于检查Javascript Styleguide问题.
-- [Super-Linter](https://github.com/github/super-linter) -结合了多个linter，以作为GitHub Action安装.
+- [Super-Linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action.
 - [Synopsys](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: - A commercial static analysis platform that allows for scanning of multiple languages (C/C++, Android, C#, Java, JS, PHP, Python, Node.JS, Ruby, Fortran, and Swift).
 - [Teamscale](http://www.teamscale.com)  ：copyright：-支持超过25种语言并直接集成IDE的静态和动态分析工具. 可应要求免费托管开源项目. 提供免费的学术许可证.
 - [todocheck](https://github.com/preslavmihaylov/todocheck) -Linter用于将带注释的TODO与您的问题跟踪器集成
@@ -789,7 +788,7 @@
 - [PostCSS](https://postcss.org)  -使用JS插件转换样式的工具. 这些插件可以使您的CSS更加整洁，支持变量和混合，可以转换将来的CSS语法，内联图像等等.
 - [Project Wallace CSS Analyzer](https://www.projectwallace.com) -CSS的分析，属于 [Project Wallace](https://www.projectwallace.com).
 - [sass-lint](https://github.com/sasstools/sass-lint) ：warning：-用于sass和scss语法的仅节点Sass linter.
-- [scsslint](https://github.com/brigade/scss-lint) -用于SCSS文件的Linter.
+- [scsslint](https://github.com/brigade/scss-lint) - Linter for SCSS files.
 - [Specificity Graph](https://jonassebastianohlsson.com/specificity-graph) -CSS特异性图生成器.
 - [Stylelint](http://stylelint.io) -用于SCSS / CSS文件的Linter.
 
@@ -862,7 +861,7 @@
 - [Spectral](https://stoplight.io/open-source/spectral) -灵活的JSON / YAML linter，不支持OpenAPI v2 / v3和AsyncAPI v2.
 
 
-<h2 id="latex">胶乳</h2>
+<h2 id="latex">乳胶</h2>
 
 - [ChkTeX](http://www.nongnu.org/chktex) -适用于LaTex的短绒棉布，可捕获LaTeX监督的某些印刷错误.
 - [lacheck](https://www.ctan.org/pkg/lacheck) -查找LaTeX文档中常见错误的工具.
@@ -890,7 +889,7 @@
 - [iblessing](https://www.kitploit.com/2020/08/iblessing-ios-security-exploiting.html)  -iblessing是iOS安全利用工具包. 它可以用于逆向工程，二进制分析和漏洞挖掘.
 - [Oversecured](https://oversecured.com)  ：copyright：-一个移动应用程序漏洞扫描程序，专为安全研究人员和漏洞赏金黑客使用. 它还允许将集成到企业的DevOps流程中.
 - [paprika](https://github.com/GeoffreyHecht/paprika) ：warning：-一个工具包，用于检测已分析的Android应用程序中的某些代码异味.
-- [qark](https://github.com/linkedin/qark) :warning: - Tool to look for several security related Android application vulnerabilities.
+- [qark](https://github.com/linkedin/qark) ：warning：-查找一些与安全相关的Android应用程序漏洞的工具.
 - [redex](https://fbredex.com)  -Redex提供了一个用于读取，写入和分析.dex文件的框架，以及使用该框架来改进字节码的一组优化过程. 由Redex优化的APK应该更小，更快.
 
 

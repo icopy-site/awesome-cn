@@ -9,7 +9,6 @@
 
 <!-- MarkdownTOC depth=4 -->
 
-	- [Julia](#lib-julia)	
 
 <!-- /MarkdownTOC -->
 
@@ -82,7 +81,7 @@
 * [graphql-request](https://github.com/prisma/graphql-request) -适用于Node和浏览器的最小GraphQL客户端.
 * [FetchQL](https://github.com/gucheen/FetchQL) -使用Fetch的简单GraphQL查询客户端.
 * [urql](https://github.com/FormidableLabs/urql) -用于React的简单缓存GraphQL客户端.
-* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  -用于将GraphQL添加到React的轻量级实用程序. 组件. 包括简单的缓存并使用GET请求，该请求还可以通过服务工作者进行缓存.
+* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)  -用于将GraphQL添加到React的轻量级实用程序. 成分. 包括简单的缓存并使用GET请求，该请求还可以通过服务工作者进行缓存.
 * [Lokka](https://github.com/kadirahq/lokka) -用于GraphQL的简单JavaScript客户端，您可以在任何地方使用.
 * [react-reach](https://github.com/kennetpostigo/react-reach) -通过Redux与Graphql通信的库.
 * [Grafoo](https://github.com/grafoojs/grafoo) -基于微型但功能齐全的缓存的GraphQL客户端
@@ -228,14 +227,14 @@
 * [graphql-java-codegen-maven-plugin](https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin)  -Schema-first maven插件，用于生成Java类型和Resolver接口. 与graphql-java-tools完美结合使用. 受启发 [swagger-codegen-maven-plugin](https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen-maven-plugin).
 * [graphql-java-codegen-gradle-plugin](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin)  -Schema-first gradle插件，用于生成Java类型和Resolver接口. 与graphql-java-tools完美结合使用. 受启发 [gradle-swagger-generator-plugin](https://github.com/int128/gradle-swagger-generator-plugin).
 * [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) -与框架无关的Java Servlet，用于通过GET，POST和分段上传来公开graphql-java查询端点.
-* [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  -全面的GraphQL客户端使用. 架构优先. 类型安全的GraphQL类型，查询和结果，没有代码生成器，没有POJO，没有注释. 优秀 [IDE support](http://manifold.systems/images/graphql.mp4) 与IntelliJ IDEA. 见 [Java example](#example-java) 下面.
+* [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql)  -全面的GraphQL客户端使用. 架构优先. 类型安全的GraphQL类型，查询和结果，没有代码生成器，没有POJO，没有注释. 出色 [IDE support](http://manifold.systems/images/graphql.mp4) 与IntelliJ IDEA. 见 [Java example](#example-java) 下面.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) -Spring Framework GraphQL库.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) -GraphQL和GraphiQL Spring框架启动器.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) -异步GraphQL服务发现和微服务查询.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) -Facebook DataLoader的端口，用于在集群化的GraphQL环境中进行高效的异步批处理和缓存
 * [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) -Java 8+ API，用于快速开发GraphQL服务.
 * [Light Java GraphQL](https://github.com/networknt/light-graphql-4j)：一个轻量级的，快速的微服务框架，解决了所有跨领域的问题，可以插入GraphQL模式.
-* [Elide](https://elide.io)：一个Java库，可以在任何关系数据库上将JPA注释的数据模型公开为GraphQL服务. 
+* [Elide](https://elide.io)：一个Java库，可以在任何关系数据库上将JPA注释的数据模型公开为GraphQL服务.
 
 <a name="lib-kotlin" />
 
@@ -386,7 +385,7 @@
 * [juniper](https://github.com/mhallin/juniper) -Rust的GraphQL服务器库.
 * [graphql-client](https://github.com/tomhoule/graphql-client) -具有WebAssembly（wasm）支持的Rust的GraphQL客户端库.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) -用于Rust的GraphQL查询和模式定义语言的解析器，格式化程序和AST.
- 
+
 <a name="lib-d" />
 
 ### D (dlang) Libraries
@@ -401,12 +400,12 @@
 
 <a name="lib-crystal" />
 
+### Crystal Libraries
+
 * [graphql](https://github.com/graphql-crystal/graphql) -GraphQL服务器库
 * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) -受启发的图书馆 [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) & [go-graphql](https://github.com/playlyfe/go-graphql) & [graphql-parser](https://github.com/graphql-dotnet/parser)
 * [crystal-gql](https://github.com/itsezc/crystal-gql) -受Apollo客户端启发的GraphQL客户端碎片
 * [graphql.cr](https://github.com/garymardell/graphql.cr) -GraphQL分片
-
-### Crystal Libraries
 
 <a name="tools" />
 
@@ -621,7 +620,7 @@
 ## Books
 
 * [The GraphQL Guide](https://graphql.guide) 约翰·雷西格（John Resig）和罗兰·桑兹（Loren Sands-Ramshaw）
-* [Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/) 夏娃·波切洛（Eve Porcello）和亚历克斯·班克斯（Alex Banks）
+* [Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/) 伊芙·波切洛（Eve Porcello）和亚历克斯·班克斯（Alex Banks）
 * [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) 布鲁斯·威廉姆斯和本·威尔逊
 * [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
 * [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) 通过朱利安·梅奥尔加（Julian Mayorga）
@@ -710,7 +709,7 @@
 ## Workshoppers
 
 * [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/)  -完整的初学者教程仅关注GraphQL，而没有所有工具. 在“学习”和“演奏”模式之间交替扮演“权力的游戏”角色.
-* [How to GraphQL](https://www.howtographql.com) -具有所有主要框架和语言（包括React，Apollo，Relay，JavaScript，Ruby，Java，Elixir等）的全栈教程网站
+* [How to GraphQL](https://www.howtographql.com) -Fullstack教程网站，包含所有主要框架和语言的曲目，包括React，Apollo，Relay，JavaScript，Ruby，Java，Elixir等
 * [learning-graphql](https://github.com/mugli/learning-graphql) -尝试学习GraphQL.
 * [Let's Learn GraphQL](https://learngraphql.com) -GraphQL概念的课程/演练.
 

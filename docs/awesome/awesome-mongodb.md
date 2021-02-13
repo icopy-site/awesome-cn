@@ -21,7 +21,7 @@
 
  - [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB/)
  - [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (Ahmad Awais)](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
- - [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) -有关MongoDB设计模式的系列文章，以及带有实际示例的每种设计模式的常见用例.
+ - [Building with Patterns](https://www.mongodb.com/blog/post/building-with-patterns-a-summary) -有关MongoDB设计模式的系列文章以及每个设计模式的常见用例以及真实示例.
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) -规模101
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) -您需要/必须了解的有关索引的所有信息
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
@@ -247,7 +247,7 @@ Services:
 
 这些开源应用程序在其堆栈中的某个位置具有MongoDB：
 
- - [Builder Book App](https://github.com/builderbook/builderbook) -用于发布使用React和Express构建的书籍或文档的Web应用程序
+ - [Builder Book App](https://github.com/async-labs/builderbook) -用于发布使用React和Express构建的书籍或文档的Web应用程序
  - [CodeCombat](https://github.com/codecombat/codecombat) -用于学习如何编码的多人编程游戏
  - [Countly](https://github.com/countly/countly-server) -使用Node.js构建的移动和Web分析和营销平台
  - [FactorJS](https://github.com/fiction-com/factor) -用Mongoose构建的JavaScript CMS

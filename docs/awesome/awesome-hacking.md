@@ -70,6 +70,7 @@
  * [plasma](https://github.com/joelpx/plasma)  -用于x86 / ARM / MIPS的交互式反汇编程序. 生成带有彩色语法代码的缩进伪代码.
  * [ScratchABit](https://github.com/pfalcon/ScratchABit) -使用与IDAPython兼容的插件API可以轻松地重定向和黑客入侵的交互式反汇编程序
  * [Capstone](https://github.com/aquynh/capstone)
+ * [Ghidra](https://ghidra-sre.org/) -国家安全局研究局开发的软件逆向工程（SRE）工具套件，用于支持网络安全使命
 
 ### Decompilers
 *基于JVM的语言
@@ -143,7 +144,7 @@
 ## Web
 
 ## Tools
- * [Spyse](https://spyse.com/)  -数据收集服务，可使用OSINT收集Web信息. 提供的信息：IPv4主机，域/域名，端口/横幅/协议，技术，操作系统，自治系统，维护着巨大的SSL / TLS数据库，以及更多...所有数据都存储在其自己的数据库中，无需扫描即可获取数据.
+ * [Spyse](https://spyse.com/)  -数据收集服务，可使用OSINT收集Web信息. 提供的信息：IPv4主机，域/域名，端口/横幅/协议，技术，操作系统，自治系统，维护着巨大的SSL / TLS DB，以及更多...所有数据都存储在其自己的数据库中，无需扫描即可获取数据.
  * [sqlmap](https://github.com/sqlmapproject/sqlmap) -自动SQL注入和数据库接管工具
  * [NoSQLMap](https://github.com/codingo/NoSQLMap) -自动化的NoSQL数据库枚举和Web应用程序开发工具.
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) -base64 base85 md4,5哈希，sha1哈希编码/解码
@@ -213,8 +214,8 @@
 
 ## Reverse Engineering
  * [Reversing.kr](http://www.reversing.kr/) -该站点测试您的破解和反向代码工程能力
- * [CodeEngn](http://codeengn.com/challenges/) -（韩文）
- * [simples.kr](http://simples.kr/) -（韩文）
+ * [CodeEngn](http://codeengn.com/challenges/) - （韩国人）
+ * [simples.kr](http://simples.kr/) - （韩国人）
  * [Crackmes.de](http://crackmes.de/) -世界上第一个也是最大的社区网站，提供有关破解和恢复的信息.
 
 ## Web

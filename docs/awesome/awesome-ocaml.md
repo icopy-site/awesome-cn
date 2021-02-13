@@ -11,7 +11,7 @@
 
 如果您正在寻找有关OCaml的全面的社区驱动内容，请访问 [OCamlverse](https://ocamlverse.github.io/)!
 
-有关现代OCaml开发工作流程的快速介绍，请参阅 [**OCaml for the impatient**](https://adambard.com/blog/getting-started-with-ocaml/) 指南.
+有关现代OCaml开发工作流程的快速介绍，请参阅 [**OCaml for the impatient**](https://adambard.com/blog/getting-started-with-ocaml/) 指导.
 
 您最喜欢的包装没有列出？ 叉和 [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) 添加它！
 
@@ -80,7 +80,7 @@
 - [Using, Understanding, and Unraveling OCaml](https://caml.inria.fr/pub/docs/u3-ocaml) –本书介绍了OCaml语言及其强大的类型系统背后的理论基础.
 - [Purely Functional Data Structures](https://www.amazon.co.uk/Purely-Functional-Structures-Chris-Okasaki/dp/0521631246/ref=sr_1_1?ie=UTF8&qid=1406279836&sr=8-1&keywords=functional+data+structures)  -这是针对FP世界中各种数据结构的第一本或唯一一本书籍. 必读的.
 - [OCaml for Scientists](http://www.ffconsultancy.com/products/ocaml_for_scientists/) -乔恩·哈罗普（Jon Harrop）.
-- [Functional Programming in OCaml: A Principled Approach](https://www.cs.cornell.edu/courses/cs3110/2020fa/textbook/) -康奈尔大学CS 3110数据结构和功能编程教科书.
+- [Functional Programming in OCaml: A Principled Approach](https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/) -康奈尔大学OCaml的CS 3110函数式编程教材.
 
 
 
@@ -96,7 +96,7 @@
 - [Camelot](https://github.com/upenn-cis1xx/camelot) -Camelot是一个模块化且完全可配置的OCaml棉绒和样式检查器.
 
 ## Program analysis
-- [BAP](https://github.com/BinaryAnalysisPlatform/bap) -BAP是针对二进制程序的反向工程和程序分析平台.
+- [BAP](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
 - [BinCat](https://github.com/airbus-seclab/bincat) -BinCat是一个二进制代码静态分析工具包.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) -cwe_checker在二进制可执行文件中找到易受攻击的模式.
 
@@ -124,8 +124,8 @@
   - [Opal](https://github.com/pyrocat101/opal) –用于OCaml的独立式Monadic解析器组合器.
   - [Sedlex](https://github.com/ocaml-community/sedlex) 是现代的，与编码无关的（阅读：支持Unicode的）词法分析器生成器（基于ppx的后继生成器） [ulex](http://www.cduce.org/download.html#side).)
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) – Menhir是OCaml的LR（1）解析器生成器.
-    -看 [ocaml-parsing](https://github.com/smolkaj/ocaml-parsing) 有关使用Menhir和Sedlex生成有用的解析器的更清晰示例，
-    -...和 [Obelisk](https://github.com/Lelio-Brun/Obelisk)，一个精巧的项目，可为您的语法生成可读的LaTeX，HTML或纯文本EBNF样式的文档.
+    - 看 [ocaml-parsing](https://github.com/smolkaj/ocaml-parsing) 有关使用Menhir和Sedlex生成有用的解析器的更清晰示例，
+    - ... 和 [Obelisk](https://github.com/Lelio-Brun/Obelisk)，一个精巧的项目，可为您的语法生成可读的LaTeX，HTML或纯文本EBNF样式的文档.
   - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – OCaml的lex和yacc实现.
   - [Angstrom](https://github.com/inhabitedtype/angstrom) -解析器组合器，旨在提高速度和内存效率
 -**文章**：
@@ -144,7 +144,7 @@
   - [A user gives up on Async](http://rgrinberg.com/posts/abandoning-async/)
   - [Cooperative Concurrency in OCaml: A Core.Std.Async Example](http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/).
 
-还有一个正在进行的实验项目可以使OCaml多处理器和多核在 [OCaml multicore](https://github.com/ocamllabs/ocaml-multicore) 叉子.
+还有一个正在进行的实验项目可以使OCaml多处理器和多核在 [OCaml multicore](https://github.com/ocamllabs/ocaml-multicore) 叉.
 
 ## Databases
 
@@ -194,7 +194,7 @@
 - [utop](https://github.com/ocaml-community/utop) – OCaml的通用顶层，支持多行版本，历史记录，实时和上下文相关的补全，颜色等.
 - [ocamlformat](https://github.com/ocaml-ppx/ocamlformat) -格式化OCaml代码的命令行工具.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html)  –使用LablTk编写的源代码和编译界面浏览器. 包含在ocaml &lt;= 4.01的标准发行版中，以及包含在labml&gt; = 4.02的labltk中.
-- [ghim](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
+- [ghim](https://github.com/samoht/ghim) –用于管理Github问题的命令行工具.
 - [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) –支架式OCaml模块的Yeoman发电机.
 
 -**外部功能接口**：
@@ -392,7 +392,7 @@
 
 
 ## Package Management
--**分布**：
+- **分配**：
   - [OPAM](http://opam.ocamlpro.com/) –具有多个编译器支持的灵活的Git友好软件包管理器.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html)  —本地OCaml库管理器. 被大多数OCaml生态系统使用.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) -适用于Windows的opam存储库和实验版本.
@@ -457,7 +457,7 @@
 
 ## Regular Expressions
 
-- [Re](https://github.com/ocaml/ocaml-re) –具有合并器的纯OCaml正则表达式库，支持多种格式（glob，posix，str ...）
+- [Re](https://github.com/ocaml/ocaml-re) –具有组合器的纯OCaml正则表达式库，支持多种格式（glob，posix，str ...）
 - [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) –绑定到PCRE库（与perl兼容的正则表达式）
 - [Humane-re](https://github.com/rgrinberg/humane-re) –人性化的尝试为您90％的正则表达式提供简单的界面感谢ocaml-re
 - [Tyre](https://github.com/Drup/tyre) -Tire是一组组合器，用于构建类型安全的正则表达式，从而允许自动提取和修改匹配的组.
@@ -508,7 +508,7 @@
 - [Alcotest](https://github.com/mirage/alcotest) –轻巧而丰富多彩的测试框架.
 - [OUnit](http://ounit.forge.ocamlcore.org/)  – OUnit是OCaml的单元测试框架. 它使人们可以轻松地为OCaml代码创建单元测试. 它基于HUnit，这是Haskell的单元测试框架.
 - [QCheck](https://github.com/c-cube/qcheck) — QCheck是一个受Haskell QuickCheck启发的属性测试库
-- [iTeML](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/)）-支持内联编译指示生成测试.
+- [iTeML](https://github.com/vincent-hugot/iTeML) （原名 [qtest](http://batteries.vhugot.com/qtest/)）-支持内联编译指示生成测试.
 - [Kaputt](http://kaputt.x9c.fr/) —全面的测试框架.
 - [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —常规的内联测试宏.
 - [TestSimple](https://github.com/hcarty/ocaml-testsimple) -与 [Test Anything Protocol](https://testanything.org/).
@@ -529,7 +529,7 @@
   - [incr_dom](https://github.com/janestreet/incr_dom) -使用Js_of_ocaml构建动态Web应用程序的库
   - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) -Elm体系结构和OCaml的（V）DOM
 
--**工具**：
+- **工具**：
   - [COW](https://github.com/mirage/ocaml-cow) – Web上的Caml（COW）是一组解析器和语法扩展，可让您直接从OCaml代码中操作HTML，CSS，XML，JSON和Markdown.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)
     有许多相关的网络库-
@@ -543,7 +543,7 @@
     用于MIME处理等.请参见[
     模块]（http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html）
     在Ocamlnet的手册中.
-  - [tyxml](http://ocsigen.org/tyxml) —用于构建有效的Html和Svg树（根据W3C规范）的库.
+  - [tyxml](http://ocsigen.org/tyxml) — Library to build valid (according to the W3C spec) Html and Svg trees.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml)  – Js_of_ocaml是OCaml字节码到Javascript的编译器. 这样就可以在Web浏览器中运行Ocaml程序.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) -从js_of_ocaml项目轻松导入和导出CommonJS模块.
   - [BuckleScript](https://github.com/bloomberg/bucklescript)  -BuckleScript是OCaml生成可调试Javascript的后端. 它使OCaml能够无缝集成Java平台.
