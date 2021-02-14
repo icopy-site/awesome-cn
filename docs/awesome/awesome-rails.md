@@ -53,43 +53,131 @@
 
 ### Articles
 
+&gt;从** dev.to **：
+
+- [More than "Hello World" in Docker: Build Rails + Sidekiq web apps in Docker](https://dev.to/jamby1100/more-than-hello-world-in-docker-run-rails-sidekiq-web-apps-in-docker-1b37)
+- [Design Patterns with Ruby on Rails part 1: Introduction and Policy Object](https://dev.to/renatamarques97/design-patterns-with-ruby-on-rails-part-1-introduction-and-policy-object-1c37) - [Part 2](https://dev.to/renatamarques97/design-patterns-with-ruby-on-rails-part-2-query-object-1h65)
+- [The Progressive Rails App](https://dev.to/coorasse/the-progressive-rails-app-46ma)
+- [Modern Rails flash messages (part 1): ViewComponent, Stimulus & Tailwind CSS](https://dev.to/citronak/modern-rails-flash-messages-part-1-viewcomponent-stimulus-tailwind-css-3alm) - [Part 2](https://dev.to/citronak/modern-rails-flash-messages-part-2-the-undo-action-for-deleted-items-2a50)
+- [Building a Rails App With Multiple Subdomains](https://dev.to/appsignal/building-a-rails-app-with-multiple-subdomains-g05)
+- [Reactive Rails applications with StimulusReflex](https://dev.to/finiam/reactive-rails-applications-with-stimulusreflex-48kn)
+- [1 Backend, 5 Frontends - Todo List with Rails, React, Angular, Vue, Svelte, and jQuery](https://dev.to/alexmercedcoder/1-backend-5-frontends-todo-list-with-rails-react-angular-vue-svelte-and-jquery-18kp)
+- [Create a Video Party App With Rails Part 1: Building the Backend](https://dev.to/vonagedev/create-a-video-party-app-with-rails-part-1-building-the-backend-2p4k) - [Part 2](https://dev.to/vonagedev/create-a-video-party-app-with-rails-part-2-building-the-frontend-hfe)
+- [The Rails Model Introduction I Wish I Had](https://dev.to/maxwell_dev/the-rails-model-introduction-i-wish-i-had-5h2d)
+- [How to create a gem in Ruby on Rails? -From Scratch-](https://dev.to/solutelabs/how-to-create-a-gem-in-ruby-on-rails-fromscratch-3f4p)
+- [Multiple Foreign Keys for the Same Relationship in Rails 6](https://dev.to/luchiago/multiple-foreign-keys-for-the-same-model-in-rails-6-7ml)
+- [QR Code Reader on Rails](https://dev.to/morinoko/qr-code-reader-on-rails-5816)
+- [Magic Links with Ruby On Rails and Devise](https://dev.to/matiascarpintini/magic-links-with-ruby-on-rails-and-devise-4e3o)
+- [I created the same application with Rails and no Javascript](https://dev.to/mario_chavez/i-created-the-same-application-with-rails-and-no-javascript-288o)
+- [Instantly speed up your Rails application by self-hosting your fonts](https://dev.to/andrewmcodes/instantly-speed-up-your-rails-application-by-self-hosting-your-fonts-526d)
+- [Reactive Map with Rails, Stimulus Reflex and Mapbox](https://dev.to/ilrock__/reactive-map-with-rails-stimulus-reflex-and-mapbox-1po4)
+- [A Future for Rails: StimulusReflex](https://dev.to/drews256/a-future-for-rails-stimulusreflex-48kb)
+- [Introduction to Ruby on Rails Patterns and Anti-patterns Part 1](https://dev.to/appsignal/introduction-to-ruby-on-rails-patterns-and-anti-patterns-2mhc) - [Part 2](https://dev.to/appsignal/ruby-on-rails-model-patterns-and-anti-patterns-32k9)
+- [Rails Concerns: To Concern Or Not To Concern](https://dev.to/appsignal/rails-concerns-to-concern-or-not-to-concern-3n94)
+- [Building an Event Sourcing System in Rails, Part 1: What is Event Sourcing?](https://dev.to/isalevine/building-an-event-sourcing-system-in-rails-part-1-what-is-event-sourcing-46db) - [Part 2](https://dev.to/isalevine/building-an-event-sourcing-pattern-in-rails-from-scratch-355h)
+- [Real Time Notification System with Sidekiq, Redis and Devise in Rails 6](https://dev.to/matiascarpintini/real-time-notification-system-with-sidekiq-redis-and-devise-in-rails-6-33l9)
+- [Deploying Your Rails 6 App](https://dev.to/render/deploying-your-rails-6-app-4an4)
+
+&gt;来自** shopify.engineering **：
+
+- [How to Write Fast Code in Ruby on Rails](https://shopify.engineering/write-fast-code-ruby-rails)
+- [How to Introduce Composite Primary Keys in Rails](https://shopify.engineering/how-to-introduce-composite-primary-keys-in-rails)
+- [Enforcing Modularity in Rails Apps with Packwerk](https://shopify.engineering/enforcing-modularity-rails-apps-packwerk)
+
+&gt;来自** blog.planetargon.com **：
+
+- [8 Useful Ruby on Rails Gems We Couldn't Live Without](https://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without)
+- [Ruby on Rails Code Audits: 8 Steps to Review Your App](https://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
+- [Rails 6.1 is Out! How to Prepare Your App Now](https://blog.planetargon.com/entries/rails-61-is-coming-soon-how-to-prepare-your-app-now)
+- [When Should You Upgrade Your Rails Application?](https://blog.planetargon.com/entries/when-should-you-upgrade-your-rails-application)
+- [Helpful Resources for Upgrading Your Rails App Version](https://blog.planetargon.com/entries/helpful-resources-for-your-rails-upgrade)
+- [Upgrading Rails: Interview with Eileen Uchitelle](https://blog.planetargon.com/entries/upgrading-rails-an-interview-with-eileen-uchitelle)
+
+&gt;来自** blog.arkency.com **：
+
+- [nil?, empty?, blank? in Ruby on Rails - what's the difference actually?](https://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/)
+- [How well Rails developers actually test their apps](https://blog.arkency.com/how-well-rails-developers-actually-test-their-apps/)
+- [Rails multitenancy story in 11 snippets of code](https://blog.arkency.com/rails-multitenancy-story-in-11-snippets-of-code/)
+- [Painless Rails upgrades](https://blog.arkency.com/painless-rails-upgrades/)
+- [Comparison of approaches to multitenancy in Rails apps](https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/)
+- [Managing Rails Event Store Subscriptions — How To](https://blog.arkency.com/managing-rails-event-store-subscriptions-how-to/)
+- [Rails connections, pools and handlers](https://blog.arkency.com/rails-connections-pools-and-handlers/)
+
+&gt;来自** scotch.io **：
+
+- [File Upload in Rails with PaperClip](https://scotch.io/tutorials/file-upload-in-rails-with-paperclip)
+- [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1) - [Part 2](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-2)
+- [Build a RESTful JSON API With Rails 5](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one) - [Part 2](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-two)
+- [Uploading Files With Rails and ActionCable](https://scotch.io/tutorials/uploading-files-with-rails-and-actioncable)
+- [Create an Online Streaming Radio With Rails and Icecast](https://scotch.io/tutorials/creating-online-streaming-radio-with-rails-and-icecast)
+- [Integrating Social Login in a Ruby on Rails Application](https://scotch.io/tutorials/integrating-social-login-in-a-ruby-on-rails-application)
+- [Asynchronous Chat With Rails and ActionCable](https://scotch.io/tutorials/asynchronous-chat-with-rails-and-actioncable)
+
+&gt;来自** sitepoint.com **：
+
+- [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
+- [Building APIs with Ruby on Rails and GraphQL](https://www.sitepoint.com/building-apis-ruby-rails-graphql/)
+- [Understanding the Model-View-Controller (MVC) Architecture in Rails](https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/)
+- [Beyond Rails Abstractions: A Dive into Database Internals](https://www.sitepoint.com/beyond-rails-abstractions-dive-database-internals/)
+- [Search and Autocomplete in Rails Apps](https://www.sitepoint.com/search-autocomplete-rails-apps/)
+- [Start Your SEO Right with Sitemaps on Rails](https://www.sitepoint.com/start-your-seo-right-with-sitemaps-on-rails/)
+- [Handle Password and Email Changes in Your Rails API](https://www.sitepoint.com/handle-password-and-email-changes-in-your-rails-api/)
+- [Master Many-to-Many Associations with ActiveRecord](https://www.sitepoint.com/master-many-to-many-associations-with-activerecord/)
+- [Common Rails Security Pitfalls and Their Solutions](https://www.sitepoint.com/common-rails-security-pitfalls-and-their-solutions/)
+
+&gt;来自** pganalyze.com **：
+
+- [Efficient GraphQL queries in Ruby on Rails & Postgres](https://pganalyze.com/blog/efficient-graphql-queries-in-ruby-on-rails-and-postgres)
+- [Similarity in Postgres and Rails using Trigrams](https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams)
+- [Effectively Using Materialized Views in Ruby on Rails](https://pganalyze.com/blog/materialized-views-ruby-rails)
+- [Full Text Search in Milliseconds with Rails and PostgreSQL](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
+- [Advanced Active Record: Using Subqueries in Rails](https://pganalyze.com/blog/active-record-subqueries-rails)
+- [PostGIS vs. Geocoder in Rails](https://pganalyze.com/blog/postgis-rails-geocoder)
+
+&gt;来自** semaphoreci.com **：
+
+- [Integration Testing Ruby on Rails with Minitest and Capybara](https://semaphoreci.com/community/tutorials/integration-testing-ruby-on-rails-with-minitest-and-capybara)
+- [Mocking in Ruby with Minitest](https://semaphoreci.com/community/tutorials/mocking-in-ruby-with-minitest)
+- [How to Test Rails Models with RSpec](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
+- [Dockerizing a Ruby on Rails Application](https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application)
+
+&gt;来自** evilmartians.com **：
+
+- [Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
+- [How to GraphQL with Ruby, Rails, Active Record, and no N+1](https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one)
+- [Keep up with the Tines: Rails frontend revamp](https://evilmartians.com/chronicles/keep-up-with-the-tines-a-rails-frontend-revamp)
+- [Pulling the trigger: How to update counter caches in your Rails app without Active Record callbacks](https://evilmartians.com/chronicles/pulling-the-trigger-how-to-update-counter-caches-in-you-rails-app-without-active-record-callbacks)
+- [GraphQL on Rails: On the way to perfection](https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection)
+- [Danger on Rails: make robots do some code review for you!](https://evilmartians.com/chronicles/danger-on-rails-make-robots-do-some-code-review-for-you)
+- [GraphQL on Rails: From zero to the first query](https://evilmartians.com/chronicles/graphql-on-rails-1-from-zero-to-the-first-query)
+- [A fixture-based approach to interface testing in Rails](https://evilmartians.com/chronicles/a-fixture-based-approach-to-interface-testing-in-rails)
+
+&gt;来自尚未分类的来源：
+
 - [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App)
-- [Ruby on Rails Code Audits: 8 Steps to Review Your App](http://blog.planetargon.com/entries/ruby-on-rails-code-audits-8-steps-to-review-your-app)
-- [nil?, empty?, blank? in Ruby on Rails - what's the difference actually?](http://blog.arkency.com/2017/07/nil-empty-blank-ruby-rails-difference/)
 - [The 3 Tenets of Service Objects in Ruby on Rails](https://hackernoon.com/the-3-tenets-of-service-objects-c936b891b3c2)
 - [Famous Web Apps Built with Ruby on Rails](https://railsware.com/blog/2017/06/23/famous-web-apps-built-with-ruby-on-rails/)
 - [Connecting to Snowflake with Ruby on Rails](http://eng.localytics.com/connecting-to-snowflake-with-ruby-on-rails/)
 - [Building a JSON API with Rails 5](https://blog.codeship.com/building-a-json-api-with-rails-5/)
-- [Building APIs with Ruby on Rails and GraphQL](https://www.sitepoint.com/building-apis-ruby-rails-graphql/)
-- [Five Practices for Robust Ruby on Rails Applications](https://blog.codeship.com/five-practices-for-robust-ruby-on-rails-applications/)
-- [8 Useful Ruby on Rails Gems We Couldn't Live Without](http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without)
-- [File Upload in Rails with PaperClip](https://scotch.io/tutorials/file-upload-in-rails-with-paperclip)
-- [Integration Testing Ruby on Rails with Minitest and Capybara](https://semaphoreci.com/community/tutorials/integration-testing-ruby-on-rails-with-minitest-and-capybara)
-- [Mocking in Ruby with Minitest](https://semaphoreci.com/community/tutorials/mocking-in-ruby-with-minitest)
-- [Build a RESTful JSON API With Rails 5](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
+- [Five Practices for Robust Ruby on Rails Applications](https://www.cloudbees.com/blog/five-practices-for-robust-ruby-on-rails-applications/)
 - [Crafting APIs With Rails](https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695)
-- [10 Ruby on Rails Best Practices](https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/)
-- [Build a Blog with Ruby on Rails](https://scotch.io/tutorials/build-a-blog-with-ruby-on-rails-part-1)
 - [Working with the SQL ‘time’ type in Ruby on Rails](https://engineering.ezcater.com/youre-not-in-the-zone)
 - [Upgrading Rails apps with dual boot](https://medium.com/oreilly-engineering/upgrading-rails-apps-with-dual-boot-e5c271e68a6e)
 - [What Are Rails Parameters & How to Use Them Correctly](https://www.rubyguides.com/2019/06/rails-params/)
 - [How to Remove Single Table Inheritance from Your Rails Monolith](https://medium.com/flatiron-labs/how-to-remove-single-table-inheritance-from-your-rails-monolith-c6009239defb)
 - [Build a Rails application with VueJS using JSX](https://nebulab.it/blog/build-rails-application-vuejs-using-jsx/)
 - [How To Add Stimulus to a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-add-stimulus-to-a-ruby-on-rails-application)
-- [How to Write Fast Code in Ruby on Rails](https://engineering.shopify.com/blogs/engineering/write-fast-code-ruby-rails)
-- [Efficient GraphQL queries in Ruby on Rails & Postgres](https://pganalyze.com/blog/efficient-graphql-queries-in-ruby-on-rails-and-postgres)
 - [Fetching millions of rows from PostgreSQL with Rails](https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5)
 - [Implementing Multi-Table Full Text Search with Postgres in Rails](https://thoughtbot.com/blog/implementing-multi-table-full-text-search-with-postgres)
 - [Ruby on Rails ActiveRecord PostgreSQL Data Integrity and Validations](https://pawelurbanek.com/rails-postgresql-data-integrity)
 - [Programming Community Curated Resources For Learning Ruby on Rails](https://hackr.io/tutorials/learn-ruby-on-rails)
 - [Choosing ruby on rails for your next web development project (business guide)](https://ideamotive.co/ruby-on-rails-development-guide/)
-- [Dockerizing Ruby and Rails development](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
 - [Dockerizing a Rails application](https://iridakos.com/tutorials/2019/04/07/dockerizing-a-rails-application.html)
 - [How to painlessly set up your Ruby on Rails dev environment with Docker](https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/)
 - [How I used Docker with Rails](https://medium.com/@admatbandara/how-i-used-docker-with-rails-45601c43ed8f)
-- [More than "Hello World" in Docker: Build Rails + Sidekiq web apps in Docker](https://dev.to/jamby1100/more-than-hello-world-in-docker-run-rails-sidekiq-web-apps-in-docker-1b37)
 - [Rails 6 Features: What's New and Why It Matters](https://www.toptal.com/ruby-on-rails/rails-6-features)
 - [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
+
 
 
 ## Open Source Rails Apps
@@ -133,7 +221,6 @@
 - [diaper](https://github.com/rubyforgood/diaper) -尿布银行的库存管理应用程序-**使用Rails 6.0 **- [:earth_africa:](https://diaper.app/)
 - [diaspora](https://github.com/diaspora/diaspora) -社交网络应用-**使用Rails 5.1 **- [:earth_africa:](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) -社区讨论的平台-**使用Rails 6.0 **- [:earth_africa:](https://try.discourse.org/)
-- [dollarjobs](https://github.com/mittaltiger/dollarjobs) -作业板创建应用-**使用Rails 6.0 **- [:redwebtigers](https://www.redwebtigers.com/products/dollarjobs/)
 - [ekylibre](https://github.com/ekylibre/ekylibre) -农场管理应用程序-**使用Rails 4.2 **
 - [postal](https://github.com/postalhq/postal) -邮件传递平台-**使用Rails 5.2 **
 - [encrypt.to](https://github.com/encrypt-to/encrypt.to) -具有加密支持的消息传递应用程序-**使用Rails 4.2 **
@@ -142,7 +229,7 @@
 - [fairmondo](https://github.com/fairmondo/fairmondo) -一个市场应用程序-**使用Rails 4.2 **- [:earth_africa:](https://www.fairmondo.de)
 - [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm) -开源的Ruby on Rails客户关系管理平台（CRM）-**使用Rails 5.2 **- [:earth_africa:](http://www.fatfreecrm.com/)
 - [feedbin](https://github.com/feedbin/feedbin) -一个RSS阅读器应用程序-**使用Rails 6.0 **- [:earth_africa:](https://feedbin.com)
-- [feedi](https://github.com/davidesantangelo/feedi) - A RSS feed conversion (to API) app - **using Rails 5.2**
+- [feedi](https://github.com/davidesantangelo/feedi) -一个RSS feed转换（到API）应用程序-**使用Rails 5.2 **
 - [follow-all](https://github.com/codeforamerica/follow-all) -Twitter帐户管理应用程序-**使用Rails 4.2 **-**已存档**
 - [fromthepage](https://github.com/benwbrum/fromthepage) -类似于Wiki的应用，用于众包手写文档的转录-**使用Rails 4.1 **- [:earth_africa:](https://www.fromthepage.com/)
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) -代码协作应用-**使用Rails 6.0 **
@@ -183,7 +270,7 @@
 - [reservations](https://github.com/YaleSTC/reservations) -库存管理应用-**使用Rails 6.0 **- [:earth_africa:](http://yalestc.github.io/reservations)
 - [rletters](https://github.com/rletters/rletters) -研究人员期刊文章数据库的前端-**使用Rails 6.0 **- [:earth_africa:](http://www.rletters.net)
 - [rubygems.org](https://github.com/rubygems/rubygems.org) -一个宝石托管平台-**使用Rails 6.0 **- [:earth_africa:](https://rubygems.org)
-- [sanataro](https://github.com/kaznum/sanataro) - An account tracker - **using Rails 4.2** - [:earth_africa:](http://sanataro.herokuapp.com)
+- [sanataro](https://github.com/kaznum/sanataro) -帐户跟踪器-**使用Rails 4.2 **- [:earth_africa:](http://sanataro.herokuapp.com)
 - [scholarsphere](https://github.com/psu-stewardship/scholarsphere) -一个数字资产管理应用程序-**使用Rails 5.1 **
 - [selfstarter](https://github.com/apigy/selfstarter) -众筹应用程序-**使用Rails 4.0 **
 - [sharetribe](https://github.com/sharetribe/sharetribe) -点对点市场平台-**使用Rails 5.2 **- [:earth_africa:](https://www.sharetribe.com)
@@ -202,7 +289,7 @@
 
 ## Gems
 
--** rails **-完整的Web开发框架- [rubygems](https://rubygems.org/gems/rails) - [source code](https://github.com/rails/rails/)
+- **rails** - A full-stack web development framework - [rubygems](https://rubygems.org/gems/rails) - [source code](https://github.com/rails/rails/)
 
 &gt;“ rails” gem的直接依赖项：
 
@@ -315,14 +402,14 @@
 
  | 发电机| 准备运行| 复杂应用| 设置git |  Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
-| [Rails Composer](https://github.com/RailsApps/rails-composer) | 是的，但需要配置Stripe | 带有条带化的SaaS的示例应用程序.  | 是的是
+| [Rails Composer](https://github.com/RailsApps/rails-composer) | 是的，但需要配置Stripe | 示例应用程序达到带条纹的SaaS.  | 是的是
 | [Hix on Rails](https://hixonrails.com) | 是的监控，Redis前哨，Sidekiq.  | 是的没有
 
 
 ### DevTools
 
 - [rails-dashboard](https://github.com/y-takey/rails-dashboard) -用于改善Rails日志的开发工具.
-- [Optic](https://github.com/opticdev/optic) -Optic自动记录和测试您的API
+- [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs
 
 
 ### Notable Awesome Stuffs

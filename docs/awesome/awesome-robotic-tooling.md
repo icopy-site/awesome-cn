@@ -80,6 +80,7 @@
 * [mkdocs](https://github.com/mkdocs/mkdocs/) -快速，简单，完整的华丽静态站点生成器，用于生成项目文档.
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) -用于绘制报告和演示的神经网络的乳胶代码.
 * [Excalidraw](https://github.com/excalidraw/excalidraw) -虚拟白板，用于绘制手绘的示意图.
+* [SVGrepo](https://www.svgrepo.com/) -下载免费的SVG载体用于商业用途.
 
 
 ## Requirements and Safety
@@ -265,7 +266,7 @@
 * [meld](https://github.com/GNOME/meld) -Meld是一个可视化的差异和合并工具，可帮助您比较文件，目录和版本控制的项目.
 * [tig](https://github.com/jonas/tig) -git的文本模式界面.
 * [gitg](https://github.com/GNOME/gitg) -git的图形用户界面.
-* [git-cola](https://github.com/git-cola/git-cola) - The highly caffeinated Git GUI.
+* [git-cola](https://github.com/git-cola/git-cola) -高度咖啡因的Git GUI.
 * [python-gitlab](https://github.com/python-gitlab/python-gitlab) -提供访问GitLab服务器API的Python软件包.
 * [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) -删除像git-filter-branch一样大或麻烦的斑点，但速度更快.
 * [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
@@ -310,7 +311,7 @@
 * [morse](https://github.com/morse-simulator) -基于Blender游戏引擎和Bullet Physics引擎的学术型机器人模拟器.
 * [ROSIntegrationVision](https://github.com/code-iai/ROSIntegrationVision) -在虚幻引擎项目中支持启用ROS的RGBD数据采集.
 * [fetch_gazebo](https://github.com/fetchrobotics/fetch_gazebo) -包含用于Fetch Robotics Fetch和Freight Research Edition Robots的凉亭模拟.
-* [rotors_simulator](https://github.com/ethz-asl/rotors_simulator) - Provides some multirotor models.
+* [rotors_simulator](https://github.com/ethz-asl/rotors_simulator) -提供一些多转子模型.
 * [flow](https://github.com/flow-project/flow) -用于交通微观模拟的深度RL和控制实验的计算框架.
 * [gnss-ins-sim](https://github.com/Aceinna/gnss-ins-sim)  -GNSS +惯性导航，传感器融合模拟器. 运动轨迹生成器，传感器模型和导航.
 * [Ignition Robotics](https://ignitionrobotics.org) -在安全方面测试控制策略，并在连续集成测试中利用仿真优势.
@@ -343,7 +344,7 @@
 * [solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) -SolidWorks到URDF导出器.
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) -您自己的3D参数建模器.
 * [kicad](http://www.kicad-pcb.org/) -跨平台和开源电子设计自动化套件.
-* [PcbDraw](https://github.com/yaqwsx/PcbDraw) -将您的KiCAD板转换成适合引出线图的漂亮2D图.
+* [PcbDraw](https://github.com/yaqwsx/PcbDraw) -将您的KiCAD板转换成适合引出线图的漂亮2D工程图.
 * [kicad-3rd-party-tools](https://github.com/xesscorp/kicad-3rd-party-tools) -其他人用来增强KiCad PCB EDA套件的工具.
 * [PandaPower](http://www.pandapower.org) -易于使用的开源工具，可高度自动化地用于电力系统建模，分析和优化.
 * [LibrePCB](https://github.com/LibrePCB/LibrePCB) -面向所有人的强大，创新和直观的EDA工具.
@@ -507,7 +508,7 @@
 * [CSF](https://github.com/jianboqi/CSF) -基于布料模拟的LiDAR点云地面滤波/分割（稀土萃取）方法.
 * [robot_body_filter](https://github.com/peci1/robot_body_filter) -高度可配置的LaserScan / PointCloud2过滤器，可从测量中动态删除机器人的3D身体.
 * [grid_map](https://github.com/ANYbotics/grid_map) -用于移动机器人制图的通用网格图库.
-* [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) -以机器人为中心的海拔地图，用于崎rough的地形导航.
+* [elevation_mapping](https://github.com/ANYbotics/elevation_mapping) -以机器人为中心的海拔地图，用于崎rough地形导航.
 * [rangenet_lib](https://github.com/PRBonn/rangenet_lib) -包含有关RangeNet ++推理如何与TensorRT和C ++接口一起使用的简单用法说明.
 * [pointcloud_to_laserscan](https://github.com/ros-perception/pointcloud_to_laserscan) -将3D点云转换为2D激光扫描.
 * [octomap](https://github.com/OctoMap/octomap) -基于八进制的高效概率3D映射框架.
@@ -558,7 +559,7 @@
 * [ntripbrowser](https://github.com/emlid/ntripbrowser) -用于浏览NTRIP（通过Internet协议的RTCM的网络传输）的Python API.
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) -与IMU相关的过滤器和可视化器.
 * [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) -RTKLIB版本针对单频和双频低成本GPS接收器（尤其是u-blox接收器）进行了优化.
-* [gLAB](https://gage.upc.edu/gLAB/) -在厘米级执行GNSS可观测值（伪距和载波相位）的精确建模，从而可以独立进行GPS定位，PPP，SBAS和DGNSS.
+* [gLAB](https://gage.upc.edu/gLAB/) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing standalone GPS positioning, PPP, SBAS and DGNSS.
 * [ai-imu-dr](https://github.com/mbrossar/ai-imu-dr) -包含仅基于IMU的轮式车辆航位推算的新颖精确方法的代码.
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) -使用Jupyter Notebook的Kalman筛选器书.
 * [mcl_3dl](https://github.com/at-wat/mcl_3dl) -ROS节点，用于为具有3-D LIDAR的移动机器人执行概率3-D / 6-DOF定位系统.
@@ -762,7 +763,7 @@
 * [marvros](https://github.com/mavlink/mavros) -具有地面控制站代理的MAVLink到ROS网关.
 * [octave](https://www.gnu.org/software/octave/) -提供了一个方便的命令行界面，用于数值求解线性和非线性问题，并使用与Matlab最兼容的语言进行其他数值实验.
 * [streetscape.gl](https://github.com/uber/streetscape.gl) -Streetscape.gl是一个工具包，用于可视化XVIZ协议中的自治数据和机器人数据.
-* [urdf-loaders](https://github.com/gkjohnson/urdf-loaders) -Unity和THREE.js的URDF加载器，带有示例ATHURE URDF文件.
+* [urdf-loaders](https://github.com/gkjohnson/urdf-loaders) - URDF Loaders for Unity and THREE.js with example ATHLETE URDF File.
 * [obs-studio](https://github.com/obsproject/obs-studio) -用于实时流媒体和屏幕录制的免费和开源软件.
 * [K3D-tools](https://github.com/K3D-tools) -Jupyter笔记本扩展程序，用于3D可视化.
 * [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) -用于科学/工程应用的快速数据可视化和GUI工具.
@@ -1052,7 +1053,7 @@
 * [holicity](https://github.com/zhou13/holicity) -用于学习整体3D结构的城市规模数据平台.
 * [UTD19](https://utd19.ethz.ch/) - Largest multi-city traffic dataset publically available.
 * [ASTYX HIRES2019 DATASET](http://www.pinchofintelligence.com/visualising-lidar-and-radar-in-virtual-reality/) -用于深度学习的3D对象检测的汽车雷达数据集.
-* [Objectron](https://github.com/google-research-datasets/Objectron/) -一组简短的，以对象为中心的视频剪辑，并随附AR会话元数据，其中包括相机姿势，稀疏点云和周围环境中平面的特征.
+* [Objectron](https://github.com/google-research-datasets/Objectron/) -一组简短的，以对象为中心的视频剪辑，并随附AR会话元数据，其中包括相机姿势，稀疏点云以及周围环境中平面的特征.
 
 ## Footnotes
 

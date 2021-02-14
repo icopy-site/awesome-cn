@@ -65,11 +65,12 @@
   - [Paper :newspaper:](https://arxiv.org/pdf/2003.07969.pdf)
   - [GitHub repository :octocat:](https://github.com/Ford/AVData)
 - [Audi A2D2 Dataset](https://www.a2d2.audi) -数据集具有2D语义分割，3D点云，3D边界框和车辆总线数据的功能.
+  - [Paper :newspaper:](https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf)
 - [Waymo Open Dataset](https://waymo.com/open/) -数据集包含激光雷达和相机数据的独立生成的标签，而不仅仅是投影.
 - [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. 
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
-- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是在法国Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）中，使用我们的自动驾驶汽车收集的（当然是人为驾驶模式），配备了11个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
+- [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/)  -该数据集是使用我们的自动驾驶汽车（当然是在人类驾驶模式下）收集的，该机器人在法国的Montbéliard的市区（用于长期数据）和郊区（用于回旋处数据）配备了十一个异构传感器. 根据法国的交通规则，车速限制为每小时50公里.
 - [NuScenes](https://www.nuscenes.org/) -用于自动驾驶的公共大规模数据集.
   - [Paper :newspaper:](https://arxiv.org/pdf/1903.11027.pdf)
 - [Lyft](https://level5.lyft.com/dataset/) -由配备激光雷达和摄像头的福特Fusion车队收集的公共数据集.
