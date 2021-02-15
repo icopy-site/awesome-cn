@@ -8,7 +8,7 @@
 
  Electron是一个开放源代码框架，用于使用Web技术创建桌面应用程序. 它结合了Chromium渲染引擎和Node.js运行时.
 
-**您现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.**
+**你现在可以 [discuss and ask Electron-related questions](https://github.com/sindresorhus/awesome-electron/discussions) 就在此仓库中.**
 
 <br>
 
@@ -21,7 +21,7 @@
 				<a href="https://github.com/sponsors/sindresorhus">我的开源工作得到了社区的支持</a>
 			</sup>
 		</p>
-		<sup>Special thanks to:</sup>
+		<sup>特别感谢：</sup>
 		<br>
 		<br>
 		<a href="https://standardresume.co/tech">
@@ -50,7 +50,7 @@
 ###### Featured
 
 - [Beaker](https://github.com/beakerbrowser/beaker) -具有点对点Web协议的浏览器.
-- [Hyper](https://github.com/zeit/hyper) - 终奌站.
+- [Hyper](https://github.com/zeit/hyper) - 终端.
 - [WebTorrent](https://github.com/feross/webtorrent-app) -流洪流客户端.
 - [Kap](https://github.com/wulkano/kap) -具有GIF支持的屏幕录像机.
 - [Min](https://github.com/minbrowser/min) -最小的网络浏览器.
@@ -154,7 +154,7 @@
 - [DBGlass](https://github.com/web-pal/DBGlass) -PostgreSQL客户端.
 - [Slide Beacon](https://github.com/dermike/slide-beacon-app) -物理网络信标广播.
 - [Rambox](https://github.com/saenzramiro/rambox) -结合了Discord，环聊，Gmail和Outlook等多种服务的聊天和电子邮件应用程序.
-- [Extraterm](https://github.com/sedwards2009/extraterm) - 终奌站.
+- [Extraterm](https://github.com/sedwards2009/extraterm) - 终端.
 - [Materialette](https://github.com/mike-schultz/materialette) -菜单栏中的材料设计调色板.
 - [Dext](https://github.com/vutran/dext) -启动器.
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop) -Pushbullet客户端.
@@ -216,8 +216,8 @@
 - [Spreaker Studio](https://www.spreaker.com/download) -录音和广播.
 - [MockingBot](https://mockingbot.com) -用于设计应用程序的原型工具.
 - [Caret](http://caret.io) -Markdown编辑器.
-- [Wantedly Chat](https://www.wantedly.com/chat)  -业务团队聊天.  *（日本）*
-- [Remember](https://rememberapp.co.kr)  -名片管理.  *（韩文）*
+- [Wantedly Chat](https://www.wantedly.com/chat)  -业务团队聊天.  *（日本人）*
+- [Remember](https://rememberapp.co.kr)  -名片管理.  *（韩国人）*
 - [MongoDB Compass](https://www.mongodb.com/products/compass) -官方的MongoDB应用程序.
 - [Freeter](https://freeter.io) -自由职业者和创意者的组织者.
 - [WhatsApp](https://www.whatsapp.com/download/) -官方WhatsApp应用.
@@ -236,7 +236,7 @@
 - [Cleavr](https://cleavr.io) -设置服务器并部署Web应用程序.
 - [Brandy](https://getbrandy.io) -菜单栏的品牌资产经理.
 - [Cacher](https://www.cacher.io) -具有Gist同步功能的基于云的，团队支持的代码段管理器.
-- [MusicPlus](https://musicplus.io) -适用于macOS和Windows的免费音乐应用程序.
+- [MusicPlus](https://musicplus.io) - Free music app for macOS and Windows.
 - [Mingo](https://mingo.io) -MongoDB GUI.
 - [Moon Modeler](https://datensen.com) -适用于MongoDB，Mongoose和MariaDB的架构设计工具.
 - [Notion](https://notion.so) -便笺，任务，Wiki和数据库的多合一工作区.
@@ -366,7 +366,7 @@
 - [window](https://github.com/jprichardson/electron-window) -创建和管理窗口.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) -使用React构建的macOS和Windows用户界面工具包.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) -输入元素的上下文菜单.
-- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -类似于Chrome的标签页.
+- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -像Chrome一样的标签页.
 - [titlebar](https://github.com/kapetan/titlebar) -模拟macOS窗口标题栏.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) -使用Photon和Etch构建和管理UI组件.
 - [Xel](https://xel-toolkit.org) -用于构建类似本机应用程序的小部件工具包.
@@ -386,7 +386,6 @@
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
 - [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) -新的Electron API可以以更少的错误和更高的性能嵌入Web应用程序.
 - [Migrating Slack's Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -Slack用“ BrowserView”，Redux，Rx和TypeScript重写了自己的Electron应用程序，以解决其性能问题.
-- [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -Realm使用Electron重写了他们的数据库浏览器应用程序，以提供跨平台支持.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) -由5部分组成的系列，介绍了将Electron应用制作和发布到Mac App Store的过程.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) -专注于设计和代码决策以及电子安全性.
 - [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) -如何收集匿名用户统计信息.
@@ -432,7 +431,7 @@
 - [`@electronjs` on Twitter](https://twitter.com/electronjs)
 - [`#atom-shell` on Freenode](http://webchat.freenode.net/?channels=atom-shell)
 - [`#electron` on Atom Slack](https://discuss.atom.io/t/join-us-on-slack/16638)
-- [electron-jp](https://electron-jp-slackin.herokuapp.com) *（日本）*
+- [electron-jp](https://electron-jp-slackin.herokuapp.com) *（日本人）*
 - [electron-br](https://electron-br.slack.com) *（巴西葡萄牙语）*
 - [electron-pl](https://electronpl.github.io) *（抛光）*
 - [`@electron_ru` on Telegram](https://telegram.me/electron_ru) *（俄语）*
@@ -441,7 +440,7 @@
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) 第一的.
 
 ## Related
 

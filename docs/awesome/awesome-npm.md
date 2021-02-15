@@ -43,6 +43,7 @@
 - [npm-stats](http://www.npm-stats.com) -显示有关程序包的指标.
 - [ghub.io](https://ghub.io) -重定向到npm软件包的GitHub存储库.
 - [npm addict](https://npmaddict.com) -您每天注入npm软件包.
+- [moiva](https://moiva.io) -发现和比较软件包.
 
 ### Browser extensions
 
@@ -240,7 +241,7 @@ npm run有一个--silent选项，在组合npm脚本时特别有用.
 }
 ```
 
- *使用`--silent`选项会减少终端的输出. 看到 [this comparison](https://twitter.com/mkuehnel/status/957965749473210369).*
+ *使用`--silent`选项会减少终端的输出. 看 [this comparison](https://twitter.com/mkuehnel/status/957965749473210369).*
 
 ### Lifecycle scripts
 
@@ -260,7 +261,7 @@ npm带有预定义 [lifecyle scripts](https://docs.npmjs.com/misc/scripts) 如�
 
 这将在您的npm软件包通过“ npm publish”发布到注册表之前自动执行，以检查依赖项中的已知漏洞.
 
- *注意：** prepublishOnly **自npm v4.0.0起可用. 看到 [npm docs](https://docs.npmjs.com/misc/scripts#deprecation-note).*
+ *注意：** prepublishOnly **自npm v4.0.0起可用. 看 [npm docs](https://docs.npmjs.com/misc/scripts#deprecation-note).*
 
 #### `npm start` and `npm test`
 
@@ -342,7 +343,7 @@ Bentley
 
 ### Run commands with different Node.js versions
 
-使用`npx`（与npm v5.2.0或更高版本捆绑在一起）和 [`node-bin`](https://www.npmjs.com/package/node-bin) 软件包，您可以轻松试用不同Node.js版本中的代码，而不必使用版本管理器，例如 [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave)， 要么 [`n`](https://github.com/tj/n).
+使用`npx`（与npm v5.2.0或更高版本捆绑在一起）和 [`node-bin`](https://www.npmjs.com/package/node-bin) 软件包，您可以轻松试用不同Node.js版本中的代码，而不必使用版本管理器，例如 [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave)， 或者 [`n`](https://github.com/tj/n).
 
 ```
 $ npx --package=node-bin@6.11.0-节点--version

@@ -177,6 +177,7 @@
 * [Insomnia](https://github.com/getinsomnia/insomnia) -跨平台HTTP和GraphQL客户端
 * [ExtendsClass](https://extendsclass.com/rest-client-online.html) -使用基于Web的简单HTTP客户端发出HTTP请求.
 * [TestMace](https://testmace.com) -用于API自动化测试的跨平台简单但功能强大的IDE.
+* [Milkman](https://github.com/warmuuh/milkman) -可扩展的跨平台请求/响应工作台，不仅适用于http调用.
 
 ### Mocking
 

@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Engineering for Machine Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SE-ML/awesome-seml/blob/master/contributing.md)
 
-机器学习软件工程是构建ML应用程序的技术和准则，这些技术和指南与核心ML问题无关-例如开发新算法-而是围绕周围的活动，例如数据提取，编码，测试，版本控制，部署，质量控制，以及团队协作.
+机器学习软件工程是构建ML应用程序的技术和指南，这些技术和指南与核心ML问题无关-例如开发新算法-而是围绕周围的活动，例如数据提取，编码，测试，版本控制，部署，质量控制，以及团队协作.
 良好的软件工程实践可使用机器学习组件来增强生产级应用程序的开发，部署和维护.
 
 ⭐必须阅读
@@ -70,6 +70,7 @@
 如何在生产环境中部署和操作模型.
 
 - [Best Practices in Machine Learning Infrastructure](https://algorithmia.com/blog/best-practices-in-machine-learning-infrastructure)
+- [Building Continuous Integration Services for Machine Learning](http://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdfhttp://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf) 
 - [Continuous Delivery for Machine Learning](https://martinfowler.com/articles/cd4ml.html) ⭐
 - [Continuous Training for Production ML in the TensorFlow Extended (TFX) Platform](https://www.usenix.org/system/files/opml19papers-baylor.pdf) 
 - [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) 

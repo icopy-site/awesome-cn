@@ -51,11 +51,12 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [autopilot](https://github.com/divy-work/autopilot-deno) -自动驾驶-使用Deno进行跨平台的Web自动化.
 - [bytes_formater](https://github.com/manyuanrong/bytes_formater) -格式化字节（Uint8Array，ArrayBufferView等）输出，在调试IO功能时很有用.
 - [cac](https://github.com/cacjs/cac) -用于构建命令行应用程序的简单而强大的框架.
-- [camelcase](https://github.com/denolib/camelcase) -将破折号/点号/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
+- [camelcase](https://github.com/denolib/camelcase) -将破折号/点/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
 - [coffee](https://github.com/irandeno/coffee) -Deno配置-一种类型安全，易于使用的Deno配置管理器.
 - [colors](https://deno.land/std/fmt/colors.ts) -用于Deno的基本控制台颜色库.
-- [computed_types](https://github.com/neuledge/computed-types) -Joi喜欢Typescript和Deno的验证器.
+- [computed_types](https://github.com/neuledge/computed-types) - Joi like validators for Typescript and Deno.
 - [cli-spinner](https://github.com/ameerthehacker/cli-spinners) -在执行长任务时，在终端中显示微调框.
+- [cliffy](https://github.com/c4spar/deno-cliffy) -用于构建交互式命令行工具的完整解决方案.
 - [csv](https://github.com/hashrock/deno-fnparse/blob/master/parsers/csv.ts) -一个简单的CSV解析器.
 - [dcc](https://github.com/BoltDoggy/deno#dcc) -Deno Cache Clean，在下次运行时重新加载dep.
 - [dejs](https://github.com/syumai/dejs) -用于Edeno的Ejs模板引擎.
@@ -84,7 +85,7 @@ __NOTICE__：Deno有一些官方模块，可以在以下位置找到 [deno_std](
 - [deno-smtp](https://github.com/manyuanrong/deno-smtp) -SMTP的SMTP邮件发件人.
 - [deno_tiny_templates](https://github.com/zekth/deno_tiny_templates) -deno的模板渲染器.
 - [deno_tokenizer](https://github.com/eliassjogreen/deno_tokenizer) -deno的简单标记器.
-- [deno-using](https://github.com/hayd/deno-using) - An python-style with statements for deno.
+- [deno-using](https://github.com/hayd/deno-using) -带有deno语句的python样式.
 - [deno-uuid](https://github.com/lucascaro/deno-uuid) -deno的UUID模块.
 - [deno-ws](https://github.com/keroxp/deno-ws) -用于deno.ts的websocket服务器的实验性实现.
 - [deno-websocket](https://github.com/ryo-ma/deno-websocket) -一个简单的WebSocket库，例如node.js库的ws.

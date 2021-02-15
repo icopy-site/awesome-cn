@@ -17,13 +17,13 @@ Git和Git Flow速查表 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/
 5. [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
 6. [Greek Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-el.md)
 
-Git备忘单可让您免于全心学习所有命令.
+Git备忘单让您免于全心学习所有命令.
 
- 自由贡献，更新语法错误.  您也可以自由添加语言文件.
+自由贡献，更新语法错误. 您也可以自由添加语言文件.
 
 <hr>
 
-Git作弊表英文
+Git作弊表英语
 ===============
 ### Index
 
@@ -117,7 +117,7 @@ $ git init
 
 ##### Create a new local repository in a specific directory:
 ```
-$ git init <directory>
+$ git init<directory>
 ```
 
 <hr>
@@ -136,7 +136,7 @@ $ git diff
 
 ##### See changes/difference of a specific file:
 ```
-$ git diff <file>
+$ git diff<file>
 ```
 
 ##### Add all current changes to the next commit:
@@ -146,7 +146,12 @@ $ git添加.
 
 ##### Add some changes in &lt;file&gt; to the next commit:
 ```
-$ git add -p <file>
+$ git add -p<file>
+```
+
+##### Add only the mentioned files to the next commit:
+```
+$ git添加<filename1><filename2>
 ```
 
 ##### Commit all local changes in tracked files:
@@ -171,7 +176,7 @@ $ git commit -am&#39;消息在这里&#39;
 
 ##### Commit to some previous date:
 ```
- $ git commit --date =“`date --date =&#39;n day ago&#39;`” -am“ <Commit Message Here>  ”
+ $ git commit --date =“`date --date =&#39;n day ago&#39;`” -am“<Commit Message Here>  ”
 ```
 
 ##### Change last commit:<br>
@@ -228,7 +233,7 @@ $ git隐藏
 
 ##### A text search on all files in the directory:
 ```
-$ git抓住“你好”
+$ git grep“你好”
 ```
 
 ##### In any version of a text search:
@@ -257,12 +262,12 @@ $ git log --author =“用户名”
 
 ##### Show changes over time for a specific file:
 ```
-$ git log -p <file>
+$ git log -p<file>
 ```
 
 ##### Display commits that are present only in remote/branch in right side
 ```
- $ git log --oneline <origin/master>  .. <remote/master>   - 左右
+ $ git log --oneline<origin/master>  ..<remote/master>  - 左右
 ```
 
 ##### Who changed, what and when in &lt;file&gt;:
@@ -312,29 +317,29 @@ $ git branch -r
 
 ##### Switch HEAD branch:
 ```
-$ git checkout <branch>
+$ git checkout<branch>
 ```
 
 ##### Checkout single file from different branch
 ```
- $ git checkout <branch>  - <filename>
+ $ git checkout<branch>  -<filename>
 ```
 
 ##### Create and switch new branch:
 ```
-$ git checkout -b <branch>
+$ git checkout -b<branch>
 ```
 
 
 ##### Create a new branch from an exiting branch and switch to new branch:
 ```
-$ git checkout -b <new_branch><existing_branch>
+$ git checkout -b<new_branch><existing_branch>
 ```
 
 
 #### Checkout and create a new branch from existing commit
 ```
- $ git checkout <commit-hash>  -b <new_branch_name>
+ $ git checkout<commit-hash>  -b<new_branch_name>
 ```
 
 
@@ -345,24 +350,24 @@ $ git分支<new-branch>
 
 ##### Create a new tracking branch based on a remote branch:
 ```
-$ git branch --track <new-branch><remote-branch>
+$ git branch --track<new-branch><remote-branch>
 ```
 
 ##### Delete a local branch:
 ```
-$ git branch -d <branch>
+$ git branch -d<branch>
 ```
 
 ##### Rename current branch to new branch name
 ```shell
-$ git branch -m <new_branch_name>
+$ git branch -m<new_branch_name>
 ```
 
 ##### Force delete a local branch:
 <em><sub>您将丢失未合并的更改！</sub></em>
 
 ```
-$ git branch -D <branch>
+$ git分支-D<branch>
 ```
 
 ##### Mark `HEAD` with a tag:
@@ -372,12 +377,12 @@ $ git标签<tag-name>
 
 ##### Mark `HEAD` with a tag and open the editor to include a message:
 ```
-$ git标签-a <tag-name>
+$ git标签-a<tag-name>
 ```
 
 ##### Mark `HEAD` with a tag that includes a message:
 ```
- $ git标签 <tag-name>  -am&#39;这里的消息&#39;
+ $ git标签<tag-name> -am&#39;这里的消息&#39;
 ```
 
 ##### List all tags:
@@ -401,12 +406,12 @@ $ git remote -v
 
 ##### Show information about a remote:
 ```
-$ git remote show <remote>
+$ git remote show<remote>
 ```
 
 ##### Add new remote repository, named &lt;remote&gt;:
 ```
-$ git remote add <remote><url>
+$ git remote add<remote><url>
 ```
 
 ##### Rename a remote repository, from &lt;remote&gt; to &lt;new_remote&gt;:
@@ -416,10 +421,10 @@ $ git远程重命名<remote><new_remote>
 
 ##### Remove a remote:
 ```
-$ git remote rm <remote>
+$ git远程rm<remote>
 ```
 
- <em><sub>注意：git remote rm不会从服务器删除远程存储库.</sub></em>  <em><sub>它只是从本地存储库中删除远程及其引用.</sub></em>
+<em><sub>注意：git remote rm不会从服务器删除远程存储库.</sub></em> <em><sub>它只是从本地存储库中删除远程及其引用.</sub></em>
 
 ##### Download all changes from &lt;remote&gt;, but don't integrate into HEAD:
 ```
@@ -428,7 +433,7 @@ $ git获取<remote>
 
 ##### Download changes and directly merge/integrate into HEAD:
 ```
-$ git remote pull <remote><url>
+$ git remote pull<remote><url>
 ```
 
 ##### Get all changes from HEAD to local repository:
@@ -438,21 +443,21 @@ $ git pull origin master
 
 ##### Get all changes from HEAD to local repository without a merge:
 ```
-$ git pull --rebase <remote><branch>
+$ git pull --rebase<remote><branch>
 ```
 
 ##### Publish local changes on a remote:
 ```
-$ git push remote <remote><branch>
+$ git push remote<remote><branch>
 ```
 
 ##### Delete a branch on the remote:
 ```
- $ git push <remote>  ： <branch>  （自Git v1.5.0起）
+ $ git push<remote>  ：<branch>  （自Git v1.5.0起）
 ```
 OR
 ```
- $ git push <remote>   - 删除 <branch>  （自Git v1.7.0起）
+ $ git push<remote>  - 删除<branch> （自Git v1.7.0起）
 ```
 
 ##### Publish your tags:
@@ -475,14 +480,14 @@ $ git mergetool
 
 ##### Merge branch into your current HEAD:
 ```
-$ git的作品<branch>
+$ git合并<branch>
 ```
 
 ##### Rebase your current HEAD onto &lt;branch&gt;:<br>
-<em><sub>不要对已发布的提交进行重新设置！</sub></em>
+<em><sub>不要改变发布的提交！</sub></em>
 
 ```
-$ git rebase <branch>
+$ git rebase<branch>
 ```
 
 ##### Abort a rebase:
@@ -492,7 +497,7 @@ $ git rebase --abort
 
 ##### Continue a rebase after resolving conflicts:
 ```
-$ git overrun-继续
+$ git rebase-继续
 ```
 
 ##### Use your editor to manually solve conflicts and (after resolving) mark file as resolved:
@@ -501,26 +506,26 @@ $ git添加<resolved-file>
 ```
 
 ```
-$去rm <resolved-file>
+$ git rm<resolved-file>
 ```
 
 ##### Squashing commits:
 ```
-$ git over-i <commit-just-before-first>
+$ git rebase -i<commit-just-before-first>
 ```
 
 现在更换它，
 
 ```
-挑<commit_id>
-挑<commit_id2>
-挑<commit_id3>
+挑选<commit_id>
+挑选<commit_id2>
+挑选<commit_id3>
 ```
 
 为此，
 
 ```
-挑<commit_id>
+挑选<commit_id>
 壁球<commit_id2>
 壁球<commit_id3>
 ```
@@ -540,7 +545,7 @@ $ git reset HEAD
 
 ##### Discard local changes in a specific file:
 ```
-$ git checkout HEAD <file>
+$ git checkout HEAD<file>
 ```
 
 ##### Revert a commit (by producing a new commit with contrary changes):
@@ -550,22 +555,22 @@ $ git还原<commit>
 
 ##### Reset your HEAD pointer to a previous commit and discard all changes since then:
 ```
-$ git reset --hard <commit>
+$ git reset --hard<commit>
 ```
 
 ##### Reset your HEAD pointer to a remote branch current state.
 ```
- $ git reset --hard <remote/branch>  例如，上游/母版，来源/我的功能
+ $ git reset --hard<remote/branch> 例如，上游/母版，来源/我的功能
 ```
 
 ##### Reset your HEAD pointer to a previous commit and preserve all changes as unstaged changes:
 ```
-$ git reset <commit>
+$ git reset<commit>
 ```
 
 ##### Reset your HEAD pointer to a previous commit and preserve uncommitted local changes:
 ```
-$ git reset --keep <commit>
+$ git reset --keep<commit>
 ```
 
 ##### Remove files that were accidentally committed before they were added to .gitignore
@@ -604,7 +609,7 @@ $ sudo apt-get安装git-flow
 ##### Windows (Cygwin):
 ###### You need wget and util-linux to install git-flow.
 ```bash
- $ wget -q -O---no-check-certificate https://raw.githubusercontent.com/petervanderdoes/gitflow/develop/contrib/gitflow-installer.sh安装 <state>  |  重击
+ $ wget -q -O---no-check-certificate https://raw.githubusercontent.com/petervanderdoes/gitflow/develop/contrib/gitflow-installer.sh安装<state> | 重击
 ```
 <hr>
 

@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;精选的macOS应用程序，软件，工具和出色工具清单.
+&gt;精选的macOS应用程序，软件，工具和功能强大的清单.
 
  &gt; *标有！[开源软件] [OSS图标]的项目是开源软件，并链接到源代码. 标有！[免费软件] [免费软件图标]的项目是免费的（与免费啤酒一样）.*
 
@@ -68,7 +68,7 @@
 - [QorumLogs](https://github.com/goktugyil/QorumLogs)  -适用于Xcode和Google文档的Swift日志记录实用程序.  [！[开源软件] [OSS图标]]（https://github.com/goktugyil/QorumLogs）！[免费软件] [免费软件图标]
 - [Quiver](http://happenapps.com/#quiver) -给程序员的令人愉悦的笔记本，允许混合使用富文本，代码，降价，LaTeX和图形.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace)  -MySQL和MariaDB数据库管理器.  [！[开源软件] [OSS图标]]（https://github.com/Sequel-Ace/Sequel-Ace）！[免费软件] [免费软件图标]
-- [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro) ![Freeware][Freeware Icon]
+- [Sequel Pro](http://www.sequelpro.com/)  -MySQL数据库管理器.  [！[开源软件] [OSS图标]]（https://github.com/sequelpro/sequelpro）！[免费软件] [免费软件图标]
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) -管理和组织代码段.
 - [SourceTree](https://www.sourcetreeapp.com/)  -免费的Git和Mercurial客户.  ！[免费软件] [免费软件图标]
 - [Swiftify](https://objectivec2swift.com/#/xcode-extension/) -从Objective-C到Swift的代码转换器以及Xcode和Finder扩展.
@@ -151,7 +151,7 @@
 
 ### Productivity
 
-- [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
+- [Alfred](https://www.alfredapp.com/) -提高效率和生产力.
 - [BetterTouchTool](https://folivora.ai) -配置鼠标手势和键盘快捷键动作.
 - [ClipMenu](http://www.clipmenu.com/)  -ClipBoard历史记录管理器.  [！[开源软件] [OSS图标]]（https://github.com/naotaka/ClipMenu）！[免费软件] [免费软件图标]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/)  -在Mac和iOS设备之间同步剪贴板.  ！[免费软件] [免费软件图标]
@@ -189,10 +189,10 @@
 
 ### Sharing Files
 
-- [CloudApp](https://www.getcloudapp.com/) -立即捕获并共享文件和屏幕截图.
+- [CloudApp](https://www.getcloudapp.com/) - Capture and share files and screenshots instantly.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906)  -实时文件共享应用程序，支持即时共享代码/ Markdown，注释屏幕截图，屏幕录制和语音录制.  ！[免费软件] [免费软件图标]
-- [mac2imgur](https://github.com/mileswd/mac2imgur)  -将图像和屏幕截图上传到Imgur.  [！[开源软件] [OSS图标]]（https://github.com/mileswd/mac2imgur）！[免费软件] [免费软件图标]
-- [Monosnap](https://monosnap.com) -注释并上传图像和屏幕截图，支持许多后端，如S3，SFTP，WebDAV，Dropbox等.[免费软件] [免费软件图标]
+- [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon]](https://github.com/mileswd/mac2imgur) ![Freeware][Freeware Icon]
+- [Monosnap](https://monosnap.com) -注释并上传图像和屏幕截图，支持许多后端，如S3，SFTP，WebDAV，Dropbox等.！[免费软件] [免费软件图标]
 - [Transmission](https://www.transmissionbt.com/)  -简单，轻巧，多平台的torrent客户端.  [！[开源软件] [OSS图标]]（https://github.com/transmission/transmission）！[免费软件] [免费软件图标]
 
 
@@ -261,13 +261,13 @@
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) -从Internet自动下载网站.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt)  -管理窗口的大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)  -防止意外的Cmd-Q.  [！[开源软件] [OSS图标]]（https://github.com/dteoh/SlowQuitApps）！[免费软件] [免费软件图标]
-- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，这样，当意外激活该键时，即使您不想启动，您也可以开始大喊，您只需选择大吼大叫的文本，然后再次按下该键即可立即修复其大小写，而不用键入一切都重新开始.
+- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，这样，当意外激活键时，即使您不想启动，也可以开始大喊，您只需选择大喊大叫的文本，然后再次按该键即可立即修复其大小写，而不用键入一切都重新开始.
 - [Soulver](http://www.acqualia.com/soulver/) -美丽的表现力计算器.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) -管理与macOS Keychain紧密集成的SSH隧道，安全且直观.
 - [TeamViewer](https://www.teamviewer.com/en/) -远程控制另一台计算机.
 - [TextBar](http://www.richsomerfield.com/apps/) -TextBar是一个小巧但功能强大的应用程序，可让您将任何文本添加到MenuBar.
 - [Typeeto](http://mac.eltima.com/bluetooth-keyboard.html) -可让您将Mac的键盘用作蓝牙键盘在其他设备上键入.
-- [Typora](http://www.typora.io/) - Another minimal Markdown editor. ![Freeware][Freeware Icon]
+- [Typora](http://www.typora.io/)  -另一个最小的Markdown编辑器.  ！[免费软件] [免费软件图标]
 - [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)  -Unicode键盘布局编辑器.  ！[免费软件] [免费软件图标]
 - [Übersicht](http://tracesof.net/uebersicht/)  -运行系统命令并将其输出作为小部件显示在桌面上.  [！[开源软件] [OSS图标]]（https://github.com/felixhageloh/uebersicht）！[免费软件] [免费软件图标]
 - [The Unarchiver](https://theunarchiver.com/)  -取消存档许多不同种类的存档文件.  ！[免费软件] [免费软件图标]
@@ -291,8 +291,8 @@
 - [Moom](https://manytricks.com/moom/) -移动和缩放窗口，超轻量且可定制.
 - [Phoenix](https://github.com/kasper/phoenix)  -可使用JavaScript编写脚本的轻量级窗口和应用程序管理器.  [！[开源软件] [OSS图标]]（https://github.com/Hammerspoon/hammerspoon）！[免费软件] [免费软件图标]
 - [Rectangle](https://rectangleapp.com/)  -无需使用鼠标即可轻松组织窗口.  [！[开源软件] [OSS图标]]（https://github.com/rxhanson/Rectangle）！[免费软件] [免费软件图标]
-- [Stay](https://cordlessdog.com/stay/) - Resize/position windows when displays change.
-- [yabai](https://github.com/koekeishiya/yabai)  -具有焦点的平铺窗口管理器跟随鼠标.  [！[开源软件] [OSS图标]]（https://github.com/koekeishiya/yabai）！[免费软件] [免费软件图标]
+- [Stay](https://cordlessdog.com/stay/) -当显示改变时，调整窗口大小/位置.
+- [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager with focus follows mouse. [![Open-Source Software][OSS Icon]](https://github.com/koekeishiya/yabai) ![Freeware][Freeware Icon]
 
 ### Others
 
@@ -438,4 +438,4 @@ Ansible剧本，用于从全新的macOS安装中配置开发和桌面环境.
 
 [chitchat]：https：//github.com/stonesam92/ChitChat
 [OSS图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[免费软件图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg

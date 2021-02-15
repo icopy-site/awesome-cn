@@ -49,7 +49,7 @@
 -  [IntelliSense for Code](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) -Visual Studio Code的IntelliSense扩展.
 - [Styled Snippets for Code](https://marketplace.visualstudio.com/items?itemName=muhajirframe.tailwind-styled-snippets) -Visual Studio Code的代码段扩展.
 - [Headwind for Code](https://github.com/heybourn/headwind) -Visual Studio Code的类排序器扩展.
-- [Shades for Code](https://github.com/bourhaouta/vscode-tailwindshades) - Color palette generator extension for Visual Studio Code.
+- [Shades for Code](https://github.com/bourhaouta/vscode-tailwindshades) -Visual Studio Code的调色板生成器扩展.
 - [IntelliSense for Neovim](https://github.com/iamcco/coc-tailwindcss) -Neovim的IntelliSense扩展.
 - [Tailwind CSS Explorer for Code](https://marketplace.visualstudio.com/items?itemName=PeterMekhaeil.vscode-tailwindcss-explorer) -探索项目的Tailwind CSS设置中可用的类.
 
@@ -101,6 +101,7 @@
 -  [Leading Trim](https://github.com/stormwarning/tailwindcss-capsize) -使用以下命令添加实用程序以修剪文本空白 [Capsize](https://github.com/seek-oss/capsize).
 -  [Text Decoration Color](https://github.com/ahmadawais/tailwind-text-decoration-color) -添加`text-decoration-color`实用程序.
 -  [Scrollbar Hide](https://github.com/reslear/tailwind-scrollbar-hide) -为可视隐藏滚动条添加了“ scrollbar-hide”类.
+-  [Downwind CSS Easings](https://github.com/downwindcss/easings) -扩展了“转换计时功能”实用程序.
 -  [Pseudo](https://github.com/Log1x/tailwindcss-pseudo) -将自定义变体添加到Tailwind CSS的配置中.
 -  [Direction](https://github.com/RonMelkhior/tailwindcss-dir) -添加了“ RTL”和“ LTR”变体.
 -  [Touch](https://github.com/SteadfastCollective/tailwindcss-touch) -添加`touch`变体.
@@ -112,7 +113,7 @@
 -  [Marker](https://github.com/RadishIO/tailwindcss-marker)  -提供实用的样式列表和`<summary>  `标记.
 -  [Pseudo selectors](https://github.com/Microwawe/tailwindcss-pseudo-selectors) -为Tailwind CSS默认没有的伪类和伪元素添加变体.
 -  [Debug Screens](https://github.com/jorenvanhee/tailwindcss-debug-screens) -添加显示当前活动屏幕（响应断点）的组件.
--  [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) -添加 [Hero Patterns](https://www.heropatterns.com) 组件.
+-  [Heropatterns](https://github.com/AndreaMinato/tailwind-heropatterns) -添加 [Hero Patterns](https://www.heropatterns.com) 成分.
 -  [Responsive Embed](https://github.com/drdogbot7/tailwindcss-responsive-embed) -添加了“响应嵌入”组件.
 -  [Bootstrap Tables](https://github.com/drehimself/tailwindcss-tables) -根据Bootstrap的表添加表组件.
 -  [Card](https://github.com/NathanHeffley/tailwindcss-card) -添加卡组件.
@@ -152,7 +153,7 @@
 -  [Tailwind Colors](https://tailwind-colors.meidev.co) -Tailwind CSS的颜色配置生成器.
 -  [Tailwind Color Explorer](https://stefanbuck.com/tailwind-color-theme-explorer) -Tailwind CSS的颜色浏览器.
 -  [TailwindInk](https://tailwind.ink/) -AI调色板生成器，受Tailwind CSS调色板训练.
--  [Gradient Designer](https://gradient-designer.csspost.com/) -为Tailwind 2.0+生成渐变.
+-  [Gradient Designer](https://gradient-designer.csspost.com/) - Generate gradients for Tailwind 2.0+.
 -  [Grayscale Design](https://grayscale.design/) -基于亮度的调色板生成器.
 -  [Hypercolor](https://hypercolor.dev/) -带有方向选项的预配置Tailwind CSS渐变集合.
 -  [Palettolithic](https://palettolithic.com) -根据一种颜色生成和声调色板.

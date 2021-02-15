@@ -4,7 +4,7 @@
 
 &gt;精选列表，可以为您提供出色的程序员和软件项目！
 
-通过Github帮助个人程序员或开放源代码项目资助您喜欢的软件的开发，并通过他们的Patreon帐户或使用其他形式的赞助来赞助他们. 
+帮助个人程序员或开放源代码项目通过Github赞助他们喜欢的软件的开发，赞助他们的Patreon帐户或使用其他形式的赞助. 
 
 回馈开源社区的切实方法！
 
@@ -151,7 +151,6 @@ _游戏和与游戏相关的项目._
 - [Rpcs3](https://www.patreon.com/Nekotekina) -PS3仿真器.
 - [Xenia](https://www.patreon.com/xenia_project) -Xbox 360模拟器.
 - [yuzu](https://www.patreon.com/yuzuteam) -Nintendo Switch模拟器.
-- [vvctre](https://www.patreon.com/vvctre) -Nintendo 3DS模拟器.
 - [Interstellar Despot Sim](https://www.patreon.com/BaileyBurnsed) -Space Roughlike / 4x Hybrid
 
 ## People Doing Open Source Work
@@ -210,7 +209,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Nate Graham](https://liberapay.com/ngraham) -KDE贡献者.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) -Sony DualShock控制器和其他驱动程序的Windows驱动程序.
 - [Nick Sweeting](https://github.com/sponsors/pirate) -ArchiveBox和OSS贡献，还有文章和文档.
-- [Nicolas Hafner](https://github.com/users/Shinmera/sponsorship) -各种常见的Lisp库.
+- [Nicolas Hafner](https://github.com/users/Shinmera/sponsorship) - Various Common Lisp libraries.
 - [Nils Maier](https://www.patreon.com/nmaier)  -全部下载！  Firefox和Chrome扩展程序.
 - [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) -GNU Emacs插件，Ivy / Swiper / Counsel，Hydra，Avy，Lissy等的维护者.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) -Debian打包器.
@@ -232,7 +231,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) -无数的开源项目.
 - [skypjack](https://www.patreon.com/skypjack) -C ++库，例如uvw和EnTT.
 - [Stéphane Peter](https://github.com/sponsors/megastep) -AudioKit贡献者，Makeself和其他库和项目.
-- [Steve Purcell](https://www.patreon.com/sanityinc) - MELPA lisp package archive and other software tooling.
+- [Steve Purcell](https://www.patreon.com/sanityinc) -MELPA Lisp软件包存档和其他软件工具.
 - [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) -各种iOS / macOS软件. 
 - [Stjepan Glavina](https://www.patreon.com/stjepang) -防锈横梁.
 - [Tanu Kaskinen](https://www.patreon.com/tanuk), [#2](https://liberapay.com/tanuk) -PulseAudio声音服务器贡献者. 
@@ -305,7 +304,7 @@ _与硬件相关的项目和制造商.
 
 ## Contributing
 
-请快速浏览一下 [contribution guidelines](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) 第一. 谢谢大家 [contributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors) ; 你摇滚！
+请快速浏览一下 [contribution guidelines](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) 第一的. 谢谢大家 [contributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors) ; 你摇滚！
 
 
 ## License
