@@ -32,12 +32,12 @@
 
 ---
 
-*您可能还喜欢 [awesome-javascript](https://github.com/sorrycc/awesome-javascript).*
+*你可能还喜欢 [awesome-javascript](https://github.com/sorrycc/awesome-javascript).*
 *请阅读 [contribution guidelines](https://github.com/ember-community-russia/awesome-ember/blob/master/contributing.md) 在捐款之前.*
 
 ---
 
-- [Awesome Ember.js ![Awesome](https://github.com/sindresorhus/awesome)]
+-很棒的Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ## Packages
@@ -52,7 +52,7 @@
 
 - [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) -插件可帮助识别开发过程中的可访问性冲突.
 - [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) -用于可访问的Ember.js应用程序的简单模式.
-- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) -Ember.js插件可帮助具有里程碑意义的角色，以实现更好的可访问性.
+- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) -Ember.js插件可帮助具有里程碑意义的角色，以实现更好的辅助功能.
 - [ember-a11y](https://github.com/ember-a11y/ember-a11y) -用于构建可访问的Ember.js应用程序的工具集合.
 - [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) -用于将方法添加到Ember.js组件的混合器，可帮助您管理当前关注的元素.
 - [ember-gestures](https://github.com/html-next/ember-gestures) -Ember.js手势通过在整个应用程序中轻松定义和使用HammerJS管理器和识别器，提供了一种使用手势的简便方法.
@@ -170,7 +170,7 @@
 ### Command-line apps
 
 - [ember-cli-create](https://github.com/gossi/ember-cli-create) -CLI向导创建一个新的余烬项目.
-- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -该插件可让您轻松启用/禁用ember-source中的可选功能. 为了弄清楚我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认情况下将启用的功能. 它仅适用于与应用程序结合使用，而不能与插件一起使用.
+- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  -该插件可让您轻松启用/禁用ember-source中的可选功能. 为了弄清我们所说的“可选”的含义，这些功能是可以选择加入/退出的，并且在可预见的将来是可选的，而不是默认情况下将启用的功能. 它仅适用于与应用程序结合使用，而不能与插件一起使用.
 - [ember-cli-rename](https://github.com/trabus/ember-cli-rename) -ember-cli的插件，提供“ ember重命名”命令.
 
 ### Command-line utilities
@@ -283,7 +283,7 @@
 
 ### Documentation
 
-- [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) -您的Ember.js插件的简单，美观的文档.
+- [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) -适用于您的Ember.js插件的简单，美观的文档.
 - [ember-cli-jsdoc](https://github.com/softlayer/ember-cli-jsdoc) -一个Ember.js CLI插件，用于从源代码中的JSDoc注释生成HTML文档.
 - [ember-freestyle](https://github.com/chrislopresto/ember-freestyle) -Ember-freestyle是Ember.js插件，可让您快速为Ember.js应用创建组件浏览器.
 
@@ -302,11 +302,11 @@
 - [ember-named-yields](https://github.com/knownasilya/ember-named-yields) -命名为Ember.js组件的收益.
 - [ember-islands](https://github.com/mitchlloyd/ember-islands) -在服务器渲染页面上的任意位置渲染Ember.js组件，以创建“丰富岛屿”.
 - [ember-wormhole](https://github.com/yapplabs/ember-wormhole) -在DOM中的其他位置渲染子视图.
-- [ember-stargate](https://github.com/kaliber5/ember-stargate) -使用所谓的“门户”将事物渲染到DOM树中与应用程序中逻辑定义的不同位置的现代方法.
+- [ember-stargate](https://github.com/kaliber5/ember-stargate) -使用所谓的“门户”将事物呈现在DOM树不同于应用程序中逻辑定义的其他位置的现代方法.
 
 ### ES6
 
-- [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) -  Decorator syntax for declaring/configuring ember-concurrency tasks.
+- [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) -用于声明/配置余烬并发任务的装饰语法.
 - [ember-decorators](https://github.com/ember-decorators/ember-decorators) -Ember.js应用程序的有用装饰器.
 - [@ember-decorators/argument](https://github.com/ember-decorators/argument) -Ember.js中组件和对象参数的装饰器.
 - [sparkles-decorators](https://github.com/gossi/sparkles-decorators) -Sparkles / Glimmer.js组件的装饰器.
@@ -330,13 +330,13 @@
 ### Functional programming
 
 - [Bacon.js](http://baconjs.github.io) -功能反应式编程.
-- [Folktale](http://folktale.origamitower.com) -使用JavaScript进行通用功能编程的库套件，使您可以编写优雅的模块化应用程序，并减少错误并增加重用.
+- [Folktale](http://folktale.origamitower.com) -使用JavaScript进行通用功能编程的库套件，使您可以编写优雅的模块化应用程序，减少错误并增加重用.
 - [immutable](https://github.com/facebook/immutable-js) -不可变的数据收集.
 - [Kefir.js](https://github.com/rpominov/kefir) -反应性库，专注于高性能和低内存使用.
 - [Lazy.js](https://github.com/dtao/lazy.js) -类似于lodash / Underscore的实用程序库，但具有懒惰的评估，在许多情况下可以转换为出色的性能.
 - [lodash](https://lodash.com)  -实用程序库，可提供一致性，自定义，性能和其他功能. 更好更快的Underscore.js.
 - [mori](http://swannodette.github.io/mori/) -用于使用ClojureScript的持久数据结构并从原始JavaScript的舒适性开始支持API的库.
-- [Mout](http://moutjs.com) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
+- [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 - [Ramda](http://ramdajs.com)  -实用程序库，侧重于通过自动计算和相反的参数顺序实现的灵活功能组合. 避免变异数据.
 - [RxJS](http://reactivex.io) -功能性反应式库，用于转换，合成和查询各种数据.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) -Underscore的腰带上的黄铜扣.
@@ -395,7 +395,7 @@
 
 - [ember-data-tasks](https://github.com/knownasilya/ember-data-tasks)
 - [ember-concurrency](http://ember-concurrency.com)
-- [ember-custom-actions](https://github.com/Exelord/ember-custom-actions) -Ember.js应用程序的自定义API操作.
+- [ember-custom-actions](https://github.com/Exelord/ember-custom-actions) - Custom API actions for Ember.js applications.
 - [ember-pipeline](https://github.com/poteto/ember-pipeline)
 - [ember-lifeline](https://github.com/ember-lifeline/ember-lifeline) -一个ember插件，用于管理对象中异步行为的生命周期.
 
@@ -446,7 +446,7 @@
 - [ember-ref-modifier](https://github.com/lifeart/ember-ref-modifier) -`{{ref}}`元素修饰符的实现.
 - [ember-render-modifiers](https://github.com/emberjs/ember-render-modifiers) - Implements did-insert / did-update / will-destroy modifiers for RFC #415.
 - [ember-functional-modifiers](https://github.com/spencer516/ember-functional-modifiers) -Ember.js的功能修饰符.
-- [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) - This addon provides a {{style}} element modifier to set element's style. 
+- [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) -该插件提供了{{style}}元素修饰符，用于设置元素的样式. 
 - [ember-simple-animate](https://github.com/abhilashlr/ember-simple-animate) -用于基于CSS的动画的简单余烬动画插件.
 
 ### Parcel
@@ -498,7 +498,7 @@
 
 ### Security
 
-- [ember-can](https://github.com/minutebase/ember-can) -简单 [authorisation addon](http://ember-can.com) 适用于Ember.js应用.
+- [ember-can](https://github.com/minutebase/ember-can) - 简单 [authorisation addon](http://ember-can.com) 适用于Ember.js应用.
 - [ember-permissions](https://github.com/Bagaar/ember-permissions) -Ember应用程序的权限管理.
 
 ### Service Workers
@@ -774,6 +774,8 @@
 - [Ember.js: Our Secret Weapon](https://www.prototypal.io/blog/)
 - [How Ember.js Enables Us to Focus on Shipping Features](http://blog.nightwatch.io/ember-js-shipping-features)
 - [When you should not pick Ember.js as your next front-end tool](https://medium.com/selleo/when-you-should-not-pick-emberjs-as-your-next-front-end-tool-203697c2e0f0)
+- [Moving from React to Ember 2020](http://medium.com/@nowims/moving-from-react-to-ember-2020-86e082477d45)
+- [Essential Ember Addons: The State of the Ember Addon Ecosystem in 2019](https://0xadada.pub/2019/06/17/essential-ember-addons/)
 
 ### Jump-Start Articles
 - [The simplest possible Ember Data CRUD Tutorial](https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6)
@@ -840,6 +842,7 @@
 - [Write Tests Like a Mathematician: Part 1](https://crunchingnumbers.live/2019/08/04/write-tests-like-a-mathematician-part-1/)
 - [Write Tests Like a Mathematician: Part 2](https://crunchingnumbers.live/2019/08/06/write-tests-like-a-mathematician-part-2/)
 - [Write Tests Like a Mathematician: Part 3](https://crunchingnumbers.live/2019/10/11/write-tests-like-a-mathematician-part-3/)
+- [Setting up Coveralls for your Ember Addons](http://hangaroundtheweb.com/2020/05/setting-up-coveralls-for-your-ember-addons/)
 
 ### Articles FastBoot
 - [How to integrate Ember FastBoot in Cloud Functions for Firebase](https://cenchat.com/blog/2019/06/06/how-to-setup-ember-fastboot-in-cloud-functions-for-firebase.html)
@@ -872,9 +875,12 @@
 
 - [ember-best-practices](https://github.com/ember-best-practices)
 - [An Ember.js Debugging Flowchart](https://www.mutuallyhuman.com/blog/2016/08/12/an-ember-debugging-flowchart)
+- [Built-in input helpers in Ember.js: when should they be used?](https://balinterdi.com/blog/built-in-input-helpers-in-ember-js-when-and-whether-they-should-be-used/)
 
 ### Nice to know
+
 - [Codemods](https://caseywatts.com/2018/08/23/codemods.html)
+- [Creating runtime assisted Codemods using Telemetry helpers](http://hangaroundtheweb.com/2019/10/creating-runtime-assisted-codemods-using-telemetry-helpers/)
 
 ### Blogs
 

@@ -16,6 +16,7 @@ Git和Git Flow速查表 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/
 4. [Turkish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-tr.md)
 5. [Spanish Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-es.md)
 6. [Greek Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-el.md)
+7. [Brazilian Portuguese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-pt_BR.md)
 
 Git备忘单让您免于全心学习所有命令.
 
@@ -239,6 +240,16 @@ $ git grep“你好”
 ##### In any version of a text search:
 ```
 $ git grep“ Hello” v2.5
+```
+
+##### Show commits that introduced a specific keyword
+```
+$ git log -S&#39;关键字&#39;
+```
+
+##### Show commits that introduced a specific keyword (using a regular expression)
+```
+$ git log -S&#39;关键字&#39;--pickaxe-regex
 ```
 
 <hr>

@@ -69,6 +69,7 @@
 - [create-webextension](https://github.com/rpl/create-webextension) -纱线WebExtension生成器.
 - [extensionizr.com](https://extensionizr.com) -Web UI，可帮助您创建初始配置和文件.
 - [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) -WebExtension生成器，创建跨浏览器Web扩展开发入门所需的一切.
+- [vue-web-extension](https://github.com/Kocal/vue-web-extension) -Vue CLI 3+预设，可使用Vue，Babel，ESLint等快速启动Web扩展！
 
 ## Sample Extensions
 

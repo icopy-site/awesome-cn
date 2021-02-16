@@ -37,7 +37,7 @@
 - [Singh et al. 2015](https://doi.org/10.1371/journal.pone.0131370) -U2OS细胞中来自RNA干扰（RNAi）的41个基因的3,072个细胞绘画图谱（[Access from GitHub](https://github.com/carpenterlab/2016_bray_natprot/blob/6dcdcf72cd90bb2dbf238b3ecf94691246d8f104/supplementary_files/profiles.csv.zip)).
 - [Rohban et al. 2017](https://doi.org/10.7554/eLife.24060.001) -来自U2OS细胞中220个过表达基因的细胞绘画数据（来自公共S3存储桶：`s3：// cytodata / datasets / TA-ORF-BBBC037-Rohban / profiles_cp / TA-ORF-BBBC037-Rohban /`）.
 -未发表-A549细胞中53个基因的596个过表达等位基因的细胞绘画图谱（来自公共S3存储桶：`s3：// cytodata / datasets / LUAD-BBBC043-Caicedo / profiles_cp / LUAD-BBBC043-Caicedo /`）
-- Unpublished - 3,456 cell painting profiles from CRISPR experiments knocking down 59 genes in A549, ES2, and HCC44 cells ([Access from GitHub](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
+-未发表-CRISPR实验中3,456个细胞绘画图谱，敲除A549，ES2和HCC44细胞中的59个基因（[Access from GitHub](https://github.com/broadinstitute/cell-health/tree/master/0.generate-profiles/data/profiles)).
 
 ## Software
 
@@ -55,14 +55,14 @@
 与基于图像的性能分析有关的出版物.
 
 ### Reviews
-
+- [Image-based profiling for drug discovery: due for a machine-learning upgrade?](https://www.nature.com/articles/s41573-020-00117-w) -从Carpenter实验室/制药角度对2020年基于图像的配置文件中的应用程序进行了审查.
 - [Data-analysis strategies for image-based cell profiling](https://doi.org/10.1038/nmeth.4397) -介绍从显微镜图像集中创建高质量的基于图像（即形态学）的轮廓所需的步骤.
 - [High-content screening for quantitative cell biology](https://doi.org/10.1016/j.tcb.2016.03.008) -描述HCS的一些最新应用，从特定生物学过程所需的基因鉴定到遗传相互作用的表征.
-- [Microscopy-based high-content screening](https://doi.org/10.1016/j.cell.2015.11.007) -描述基于图像的筛选实验的最新技术，描述实验方法和图像分析方法以及讨论挑战和未来方向，包括利用CRISPR / Cas9介导的基因组工程.
-- [Applications in image-based profiling of perturbations](https://doi.org/10.1016/j.copbio.2016.04.003) -描述基于图像的轮廓分析的应用，包括靶标和MOA识别，铅跳跃，文库富集，基因注释和疾病特异性表型的识别
+- [Microscopy-based high-content screening](https://doi.org/10.1016/j.cell.2015.11.007) - Describe the state of the art for image-based screening experiments and delineate experimental approaches and image-analysis approaches as well as discussing challenges and future directions, including leveraging CRISPR/Cas9-mediated genome engineering.
+- [Applications in image-based profiling of perturbations](https://doi.org/10.1016/j.copbio.2016.04.003) -描述基于图像的轮廓分析的应用，包括靶标和MOA识别，铅跳变，文库富集，基因注释和疾病特异性表型的识别
 
 ### Applications
-
+- [Expanding the antibacterial selectivity of polyether ionophore antibiotics through diversity-focused semisynthesis](https://rdcu.be/ccBFH) -Poulsen于2020年发表的实验论文，其中根据Cell Painting分析法对抗生素离开哺乳动物细胞的能力进行了尽可能完整的测试.
 - [Image-based multivariate profiling of drug responses from single cells](https://doi.org/10.1038/nmeth1032) -基于约300个单细胞表型测量结果对未治疗和已治疗的人类癌细胞进行分类的多变量方法.
 - [Discovering metabolic disease gene interactions by correlated effects on cellular morphology](https://doi.org/10.1016/j.molmet.2019.03.001) -在脂肪细胞分化过程中分析疾病与基因的相互作用.
 - [Phenotypic profiling of the human genome by time-lapse microscopy reveals cell division genes](https://doi.org/10.1038/nature08869) -这项研究提供了对细胞分裂表型的深入分析，并使整个高内涵数据集可作为资源提供给社区.
@@ -86,7 +86,7 @@
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/cytodata/awesome-cytodata/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/cytodata/awesome-cytodata/blob/master/contributing.md) 第一的.
 
 ## License
 

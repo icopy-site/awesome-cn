@@ -112,6 +112,7 @@
 - [Neutrino React Preset](https://neutrinojs.org/packages/react/) -@ neutrinojs / react是一个Neutrino预设，支持构建React Web应用程序.
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit) -同构Web应用程序样板
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) -CLI，用于使用Rollup和create-react-app创建可重用的现代React库.
+- [tsdx](https://tsdx.io/) -用于TypeScript软件包开发的零配置CLI
 
 ##### React Frameworks
 
@@ -139,7 +140,7 @@
 
 ##### React Component Libraries
 
-- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
+- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快更轻松地进行Web开发
 - [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
 - [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
 - [Fluent UI](https://github.com/microsoft/fluentui) -一组用于构建Microsoft Web体验的React组件
@@ -152,7 +153,7 @@
 - [rebass](https://github.com/rebassjs/rebass) -反应使用样式系统构建的原始UI组件
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) -用于React的Font Awesome 5组件库
 - [reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
-- [rsuite](https://github.com/rsuite/rsuite) -一套React组件
+- [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -Atlassian的官方UI库，根据Atlassian设计指南构建.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
 - [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，其中包含50多个具有材质，引导程序和自定义主题的组件.
@@ -245,12 +246,12 @@
 - [react-i13n](https://github.com/yahoo/react-i13n) -高性能，可扩展和可插拔的方法来检测您的React应用程序
 - [react-icons](https://github.com/gorangajic/react-icons) -svg反应常用图标包的图标
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) -很棒的免费插图作为反应成分.
-- [Keo](https://github.com/Wildhoney/Keo) -普通函数，用于创建React组件的更具功能性的Deku方法，并具有管道，备忘录等功能性功能.
+- [Keo](https://github.com/Wildhoney/Keo) -普通函数，用于创建React组件的更具功能性的Deku方法，并具有管道，备忘录等功能性功能
 - [Bit](https://github.com/teambit/bit) -虚拟仓库，用于跨应用程序管理和使用React和其他Web组件
 - [AtlasKit](https://atlaskit.atlassian.com/) -Atlassian的React UI库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) -Elasticsearch的UI组件库
 - [Slate](https://github.com/ianstormtaylor/slate) -用于构建富文本编辑器的完全可自定义的框架.
-- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) -通过将JSON定义映射到您公开的React组件，从JSON构造React元素.
+- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - Construct React elements from JSON by mapping JSON definitions to React components that you expose.
 - [compose-state](https://github.com/tvler/compose-state) -在React中编写多个setState或getDerivedStateFromProps更新器
 - [react-lodash](https://github.com/typicode/react-lodash) -Lodash作为React组件
 - [react-helmet](https://github.com/nfl/react-helmet) -React的文档主管
@@ -369,7 +370,7 @@
 - [Redux-Autoform](https://github.com/redux-autoform/redux-autoform) -利用元数据动态创建Redux-Forms
 - [uniforms](https://github.com/vazco/uniforms) -一堆React组件和帮助程序，可轻松生成和验证表单
 - [formik](https://github.com/jaredpalmer/formik) -React中的形式，无泪
-- [NeoForm](https://github.com/zero-plus-x/neoform) -用于表单状态管理和验证的模块化HOC
+- [NeoForm](https://github.com/zero-plus-x/neoform) - Modular HOCs for form state management and validation
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) -一个用于从JSON模式构建Web表单的React组件
 - [List View Select](https://github.com/JamesWatling/react-native-list-view-select) -具有本机组件的React Native的可切换选择框
 - [Final Form 🏁](https://github.com/final-form/react-final-form) -
@@ -394,7 +395,7 @@
 - [react-canvas](https://github.com/Flipboard/react-canvas)  -高性能`<canvas>  `React组件的渲染
 - [react-famous](https://github.com/pilwon/react-famous) -使用Famo.us以60 FPS进行复杂的3D动画UI
 - [react-kinetic](https://github.com/freiksenet/react-kinetic) -使用React通过KineticJS通过HTML5 Canvas
-- [react-svg-morph](https://github.com/gorangajic/react-svg-morph) - morph your svg components one into another
+- [react-svg-morph](https://github.com/gorangajic/react-svg-morph) -将svg组件彼此变形
 - [react-hooks-svgdrawing](https://github.com/kmkzt/react-hooks-svgdrawing) -带React钩子的SVG绘图
 - [react-svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom) -一个React组件，为SVG添加了平移和缩放功能.
 
@@ -419,7 +420,7 @@
 - [Hydux](https://github.com/hydux/hydux) -Elm-Like状态经理，负责“带有电池”的React
 - [ReSub](https://github.com/Microsoft/ReSub) -用于编写更好的React组件和数据存储的库
 - [ProppyJS](https://proppyjs.com) -一个小小的功能道具库
-- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) -用于强大的React和React Native应用程序的下一代数据库，可扩展至10,000条记录并保持快速
 - [RxDB](https://github.com/pubkey/rxdb) -JavaScript应用程序的实时数据库
 - [Effector](https://github.com/zerobias/effector)  -快速而强大的反应状态管理器. 使您可以编写简单，快速和安全的代码，并轻松管理响应状态.
 - [reactn](https://github.com/CharlesStover/reactn) -反应，但具有内置的全局状态管理
@@ -532,6 +533,7 @@
 - [sentry-react-native](https://github.com/getsentry/sentry-react-native) -针对您的Web应用程序，移动应用程序和游戏的实时崩溃报告.
 - [realm-js](https://github.com/realm/realm-js) -Realm是一个移动数据库：SQLite和键值存储的替代品
 - [react-native-device-info](https://github.com/react-native-community/react-native-device-info) -React Native iOS和Android的设备信息
+- [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) -一个工具集，用于在React Native中运行React Web应用并处理它们之间的通信.
 
 ### Redux
 
@@ -769,7 +771,7 @@
 
 ### Demo React Apps
 
-- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL
+- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) -使用React和GraphQL用通用JavaScript重写了Hacker News克隆
 - [react-reduction](https://github.com/reduction-admin/react-reduction) -使用React和Bootstrap4构建的免费管理模板
 - [reactjs-tmdb-app](https://github.com/SKempin/reactjs-tmdb-app) -响应式反应电影数据库应用程序
 - [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) -使用React Redux构建的简单电子商务购物车应用程序
