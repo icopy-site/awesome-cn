@@ -32,7 +32,7 @@
   奇偶校验赞助的链.
 - [`subport`](https://github.com/paritytech/subport/issues) -支持资料库.
 - [Parity Blog](https://www.parity.io/blog/) -了解底物生态系统中的更新.
-- [Parity Events](https://www.parity.io/events/) - 接下来的活动.
+- [Parity Events](https://www.parity.io/events/) - 即将举行的活动.
 - [Twitter](https://twitter.com/substrate_io) -跟着我们保持最新.
 - [Polkassembly](https://polkassembly.io/) -在草间和波卡多上进行讨论和投票的地方
   治理.
@@ -69,8 +69,9 @@
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/substrate) -带标签的问题
   底物
 - [Reddit](https://www.reddit.com/r/substrate/) -官方subreddit.
-- [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) -另一个
-  awesome list maintained by our friends at [Web3 Foundation](https://web3.foundation/).
+- [Polkadot Stack](https://github.com/w3f/General-Grants-Program/blob/master/grants/polkadot_stack.md) - 其他
+  由我们的朋友维护的很棒的清单 [Web3 Foundation](https://web3.foundation/).
+- [PolkaView](https://polkaview.network/dot) -有关最低赌注的历史数据将得到奖励.
 - [Subsocial](https://subsocial.network/) -Polkadot / Kusama的去中心化社交网络
   生态系统. 建立在底物+ IPFS上.
 - [DOTspot](https://www.dotspot.io/) -底物生态系统项目共享其开放空间
@@ -82,8 +83,8 @@
 
 ### Community Resources - Guides
 
-- [Build Substrate in a few minutes at a low cost](https://medium.com/@yangWao/build-substrate-in-few-minutes-with-fraction-costs-26fce6aa5066) -指南
-  使用 [`cargo remote`](https://github.com/sgeisler/cargo-remote) 和 [Google Cloud](https://cloud.google.com/) 至
+- [Build Substrate in a few minutes at a low cost](https://medium.com/@yangWao/build-substrate-in-few-minutes-with-fraction-costs-26fce6aa5066) - 指导
+  使用 [`cargo remote`](https://github.com/sgeisler/cargo-remote) 和 [Google Cloud](https://cloud.google.com/) 到
   减少基材的建造时间； 由基板社区成员撰写 [Matej Nemček](https://medium.com/@yangWao).
 
 ## Frameworks
@@ -100,7 +101,7 @@
 - [SubstraTEE](https://www.substratee.com) -使用的可信链外执行框架
   [Intel SGX](https://en.wikipedia.org/wiki/Software_Guard_Extensions) 可信执行
   环境.
-- [FRAME Benchmarking](https://github.com/paritytech/substrate/tree/master/frame/benchmarking) -
+- [FRAME Benchmarking](https://github.com/paritytech/substrate/tree/master/frame/benchmarking) - 这
   用于运行时开发的FRAME系统的官方基准测试框架.
 
 ## Templates
@@ -118,7 +119,7 @@
 
 ## Pallets
 
-- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) -社区
+- [Open Runtime Module Library (ORML)](https://github.com/open-web3-stack/open-runtime-module-library) - 社区
   维护了Substrate运行时模块的集合.
 - [Sunshine Bounty](https://github.com/sunshine-protocol/sunshine-bounty/tree/master/pallets) - 分散式
   自治组织（DAO），用于管理赏金计划.
@@ -145,6 +146,7 @@
 - [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) -由Usetech维护.
 - [SubstrateNetApi](https://github.com/darkfriend77/SubstrateNetApi) -由基板社区成员Cedric维护
   减速器（[@darkfriend77 on GitHub](https://github.com/darkfriend77)).
+- [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) -由维护 [Nodle.io](https://github.com/NodleCode)
 
 ## Ecosystem Tools
 
@@ -152,6 +154,10 @@
   用于基于基质的链.
 - [Polkadot-JS Extension](https://github.com/polkadot-js/extension) -的浏览器扩展
   与基于基质的链进行交互.
+- [Polkadot Tool Index](https://wiki.polkadot.network/docs/en/build-tools-index#tools) - 这是
+  **非常有用的**列表，可用于开发w / Polkadot和
+  any substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting,
+  客户，基准测试，模糊测试，分叉，SCALE编解码器，CLI工具等等.
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) -与REST服务同时运行
   基板节点.
 - [Archive](https://github.com/paritytech/substrate-archive) -用于底物链的索引引擎.
@@ -161,7 +167,7 @@
   使用加密密钥.
 - [Polkascan](https://polkascan.io/) -Polkascan维护的多链区块浏览器
   基础.
-- [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) -官方
+- [VSCode Substrate](https://marketplace.visualstudio.com/items?itemName=paritytech.vscode-substrate) - 官方
   Visual Studio Code的插件.
 - [Parity Signer](https://www.parity.io/signer/) -将未使用的手机升级为空白
   硬件钱包.
@@ -208,7 +214,7 @@
 - [`polkadot-launch`](https://github.com/shawntabrizi/polkadot-launch) -简单的CLI工具可启动
   本地Polkadot测试网络.
 - [`substrate-js-utils`](https://github.com/shawntabrizi/substrate-js-utilities) -一组有用
-  用于使用Polkadot {JS} API的Substrate的JavaScript实用程序. 也
+  用于使用Polkadot {JS} API的Substrate的JavaScript实用程序. 还
   [deployed as a website](https://www.shawntabrizi.com/substrate-js-utilities/).
 - [`substrate-graph-benchmarks`](https://github.com/shawntabrizi/substrate-graph-benchmarks) -图
   FRAME托盘的基准输出.
@@ -222,6 +228,7 @@
   FRAME协会托盘.
 - [Aleph.im](https://aleph.im) -可扩展，去中心化的数据库，文件存储和计算
   为底物链等提供服务.
+- [`subsee`](https://github.com/ascjones/subsee) -CLI，用于检查衬底节点的元数据是否为JSON.
 
 ## Alternative Implementations
 
@@ -229,13 +236,13 @@
   [ChainSafe](https://chainsafe.io/).
 - [Kagome](https://kagome.readthedocs.io/en/latest/) -Polkadot客户端的C ++ 17实现；
   从 [Soramitsu](http://www.soramitsu.co.jp/).
-- [LimeChain AssemblyScript Runtime](https://github.com/LimeChain/as-substrate-runtime) -一个
+- [LimeChain AssemblyScript Runtime](https://github.com/LimeChain/as-substrate-runtime) - 一个
   用AssemblyScript编写的基于帐户的Substrate概念验证运行时； 从
   [LimeChain](https://limechain.tech/).
 
 ## SCALE Codec
 
-- [Codec Definition](https://substrate.dev/docs/en/knowledgebase/advanced/codec) -官方
+- [Codec Definition](https://substrate.dev/docs/en/knowledgebase/advanced/codec) - 官方
   编解码器文档.
 
 ### SCALE Codec - Implementations

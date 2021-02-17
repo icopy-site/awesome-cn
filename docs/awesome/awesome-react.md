@@ -137,6 +137,7 @@
 - [curi](https://github.com/pshrmn/curi) -单页应用程序的JavaScript路由器
 - [reach](https://github.com/reach/router) -下一代React路由
 - [universal-router](https://github.com/kriasoft/universal-router) -用于同构JavaScript Web应用程序的简单中间件样式路由器
+- [wouter](https://github.com/molefrog/wouter) -极简的〜1.3KB路由库
 
 ##### React Component Libraries
 
@@ -153,11 +154,11 @@
 - [rebass](https://github.com/rebassjs/rebass) -反应使用样式系统构建的原始UI组件
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) -用于React的Font Awesome 5组件库
 - [reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
-- [rsuite](https://github.com/rsuite/rsuite) - A suite of React components
+- [rsuite](https://github.com/rsuite/rsuite) -一套React组件
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -Atlassian的官方UI库，根据Atlassian设计指南构建.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
 - [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，其中包含50多个具有材质，引导程序和自定义主题的组件.
-- [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
+- [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
 - [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
 - [rbx](https://github.com/dfee/rbx) -React的综合Bulma UI框架
 - [trunx](https://github.com/fibo/trunx) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
@@ -215,6 +216,7 @@
 - [react-slick](https://github.com/akiran/react-slick) -使用React构建的Carousel组件.
 - [react-gtm-module](https://github.com/alinemorelli/react-gtm) -适用于React的Google跟踪代码管理器模块.
 - [react-device-detect](https://github.com/duskload/react-device-detect) -检测设备的反应.
+- [react-colorful](https://github.com/omgovich/react-colorful) -一个很小的（2,5 KB），无依赖项，快速且可访问的颜色选择器组件.
 
 ##### React for Command Line
 
@@ -251,7 +253,7 @@
 - [AtlasKit](https://atlaskit.atlassian.com/) -Atlassian的React UI库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) -Elasticsearch的UI组件库
 - [Slate](https://github.com/ianstormtaylor/slate) -用于构建富文本编辑器的完全可自定义的框架.
-- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) - Construct React elements from JSON by mapping JSON definitions to React components that you expose.
+- [react-json-schema](https://github.com/TechniqueSoftware/react-json-schema) -通过将JSON定义映射到您公开的React组件，从JSON构造React元素.
 - [compose-state](https://github.com/tvler/compose-state) -在React中编写多个setState或getDerivedStateFromProps更新器
 - [react-lodash](https://github.com/typicode/react-lodash) -Lodash作为React组件
 - [react-helmet](https://github.com/nfl/react-helmet) -React的文档主管
@@ -282,7 +284,7 @@
 - [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) -为Coffeescript提供React JSX支持
 - [sprockets-coffee-react](https://github.com/jsdf/sprockets-coffee-react) -CJSX的链轮预处理器
 - [react-kup](https://github.com/snd/react-kup) -用于咖啡脚本的jsx的简单，非侵入式替代方法
-- [turbo-react](https://github.com/ssorallen/turbo-react) - Combine Turbolinks and React to apply DOM diffs
+- [turbo-react](https://github.com/ssorallen/turbo-react) -结合Turbolinks和React来应用DOM差异
 - [react-bacon](https://github.com/jamesmacaulay/react-bacon) -一个用于在Bacon.js中使用React的小模块
 - [msx](https://github.com/insin/msx) -React的JSX变形金刚，已调整为输出对秘银的调用
 - [React.withBackbone](https://github.com/beanworks/React.withBackbone) -React 16准备好主干绑定
@@ -325,7 +327,7 @@
 - [react-masonry-css](https://github.com/paulcollett/react-masonry-css) -由CSS提供支持的快速砌体布局，无依赖
 - [react-captcha](https://github.com/appleboy/react-recaptcha) -适用于Google的react.js reCAPTCHA
 - [reaptcha](https://github.com/sarneeh/reaptcha) -干净，现代，简单的Google reCAPTCHA React包装器
-- [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) -适用于React的reCAPTCHA桥
+- [react-recaptcha-that-works](https://github.com/douglasjunior/react-recaptcha-that-works) - A reCAPTCHA bridge for React that works
 - [ckeditor4-react](https://github.com/ckeditor/ckeditor4-react) -用于React的官方CKEditor 4 RTF编辑器组件
 - [ckeditor5-react](https://github.com/ckeditor/ckeditor5-react) -用于React的官方CKEditor 5 RTF编辑器组件
 
@@ -370,7 +372,7 @@
 - [Redux-Autoform](https://github.com/redux-autoform/redux-autoform) -利用元数据动态创建Redux-Forms
 - [uniforms](https://github.com/vazco/uniforms) -一堆React组件和帮助程序，可轻松生成和验证表单
 - [formik](https://github.com/jaredpalmer/formik) -React中的形式，无泪
-- [NeoForm](https://github.com/zero-plus-x/neoform) - Modular HOCs for form state management and validation
+- [NeoForm](https://github.com/zero-plus-x/neoform) -用于表单状态管理和验证的模块化HOC
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) -一个用于从JSON模式构建Web表单的React组件
 - [List View Select](https://github.com/JamesWatling/react-native-list-view-select) -具有本机组件的React Native的可切换选择框
 - [Final Form 🏁](https://github.com/final-form/react-final-form) -
@@ -403,7 +405,7 @@
 
 - [Immutable.js](https://github.com/immutable-js/immutable-js) -JavaScript的不可变数据收集
 - [cortex](https://github.com/mquan/cortex) -使用React集中管理数据的JavaScript库
-- [avers](https://github.com/wereHamster/avers) -现代的客户端模型抽象库
+- [avers](https://github.com/wereHamster/avers) - A modern client-side model abstraction library
 - [imvvm](https://github.com/entrendipity/imvvm) -React的不可变Model-View-ViewModel
 - [morearty.js](https://github.com/moreartyjs/moreartyjs) -在纯JavaScript中对React进行更好的状态管理
 - [valuable](https://github.com/josephsavona/valuable) -React的不可变数据存储
@@ -670,7 +672,7 @@
 - [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) -适用于** PostgreSQL **的GraphQL
 - [graffiti](https://github.com/RisingStack/graffiti) -Node.js GraphQL ORM
 - [sql-to-graphql](https://github.com/vaffel/sql-to-graphql) -根据您的SQL数据库结构生成GraphQL API
-- [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) -通过Sequelize实现GraphQL和MySQL和Postgres的Relay
+- [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) - GraphQL & Relay for MySQL & Postgres via Sequelize
 
 ---
 

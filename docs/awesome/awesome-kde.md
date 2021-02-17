@@ -18,7 +18,7 @@
 
 ### Internet & Networking
 
-- [Falkon](https://community.kde.org/Incubator/Projects/Falkon) -基于QtWebEngine的跨平台Web浏览器.
+- [Falkon](https://www.falkon.org/) -基于QtWebEngine的跨平台Web浏览器.
 - [Konqueror](https://konqueror.org/) -使用KHTML渲染引擎（和可选的Webkit），因此它支持最新的Web标准，例如HTML5，JavaScript，CSS3等.
 - [Qt WebBrowser](http://doc.qt.io/QtWebBrowser/) -Qt WebBrowser是使用Qt和Qt WebEngine功能开发的嵌入式设备的浏览器.
 - [Otter Browser](https://otter-browser.org/) -Otter Browser旨在使用Qt5重新创建经典Opera（12.x）UI的最佳方面.
@@ -26,15 +26,15 @@
 - [KGet](https://www.kde.org/applications/internet/kget/) -多功能且用户友好的下载管理器.
 - [KTorrent](https://www.kde.org/applications/internet/ktorrent/) -一个BitTorrent应用程序，可让您使用BitTorrent协议下载文件.
 - [qBittorrent](https://www.qbittorrent.org/) -基于Qt工具箱和libtorrent-rasterbar的高级C ++客户端程序.
-- [KMail](https://www.kde.org/applications/internet/kmail/) -KMail是Kontact（KDE的集成个人信息管理器）的电子邮件组件.
-- [KDE Connect](https://community.kde.org/KDEConnect) -在所有设备上进行通信的项目：在台式计算机上接收电话通知，通过电话控制桌面等.
+- [KMail](https://apps.kde.org/en/kmail2) -KMail是Kontact（KDE的集成个人信息管理器）的电子邮件组件.
+- [KDE Connect](https://kdeconnect.kde.org/) -在所有设备上进行通信的项目：在台式计算机上接收电话通知，通过电话控制桌面等.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) -KDE Con​​nect的完整实现，特别是与Nautilus，Chrome和Firefox集成的GNOME Shell.
 - [Plasma-browser-integration](https://userbase.kde.org/Plasma-browser-integration) -一系列新功能 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/), [Chrome](https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai) 和基于Chromium的浏览器可在您的桌面上使用.
 - [KRDC](https://www.kde.org/applications/internet/krdc/) -客户端应用程序，允许您查看或控制另一台运行兼容服务器（VNC＆RDP）的计算机上的桌面会话.
 - [Konversation](https://konversation.kde.org/) -建立在KDE平台上的用户友好型Internet中继聊天（IRC）客户端.
 - [Akregator](https://www.kde.org/applications/internet/akregator/) -使您能够关注新闻站点，博客和其他启用RSS / Atom的网站.
 - [KNetworkManager](https://userbase.kde.org/KNetworkManager) -后端NetworkManager软件的KDE客户端.
-- [Smb4K](https://sourceforge.net/projects/smb4k/) -高级网络邻居浏览器和Samba共享安装实用程序.
+- [Smb4K](https://apps.kde.org/en/smb4k) -高级网络邻居浏览器和Samba共享安装实用程序.
 
 ### Graphics & Imaging
 
@@ -53,7 +53,7 @@
 - [SMPlayer](https://www.smplayer.info/) -带有内置编解码器的媒体播放器，几乎可以播放所有视频和音频格式.
 - [Elisa](https://community.kde.org/Elisa) -由KDE社区开发的音乐播放器，力求简单易用.
 - [KMix](https://kde.org/applications/multimedia/org.kde.kmix) -声音通道混音器和音量控制.
-- [KWave](http://kwave.sourceforge.net/) -基于KDE框架5的声音编辑器.
+- [KWave](https://apps.kde.org/en/kwave) -基于KDE框架5的声音编辑器.
 
 ### Office & Productivity
 
@@ -69,11 +69,11 @@
 - [Discover](https://userbase.kde.org/Discover) -适用于终端不是用于安装应用程序和附件或更新的最佳解决方案的用户和发行版.
 - [Konsole](https://www.kde.org/applications/system/konsole/) -KDE桌面中包含的终端仿真器.
 - [Yakuake](https://userbase.kde.org/Yakuake) -基于KDE的Konsole技术的下拉终端仿真器.
-- [KDiskFree](https://www.kde.org/applications/system/kdiskfree/) -显示可用的文件设备（硬盘驱动器分区，驱动器等），以及有关它们的容量，可用空间，类型和安装点的信息.
-- [KInfoCenter](https://www.kde.org/applications/system/kinfocenter/) -提供有关计算机系统的详细信息的实用程序.
+- [KDiskFree](https://apps.kde.org/en/kdf) -显示可用的文件设备（硬盘驱动器分区，驱动器等），以及有关它们的容量，可用空间，类型和安装点的信息.
+- [KInfoCenter](https://userbase.kde.org/KInfoCenter) -提供有关计算机系统的详细信息的实用程序.
 - [KSystemLog](https://www.kde.org/applications/system/ksystemlog/) -系统日志查看器工具.
 - [Sweeper](https://www.kde.org/applications/utilities/sweeper) -清除程序有助于清除用户在系统上留下的不需要的痕迹，并重新获得磁盘空间，以删除未使用的临时文件.
-- [Kup](https://github.com/spersson/Kup) -KDE Plasma桌面的备份调度程序.
+- [Kup](https://invent.kde.org/system/kup) -KDE等离子桌面的备份调度程序.
 - [Krusader](https://krusader.org/) -KDE的高级双面板（指挥官风格）文件管理器.
 
 ### Utilities & Tools
@@ -87,6 +87,7 @@
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) -具有简约UI的可靠MTP客户端.
 - [KRename](https://userbase.kde.org/KRename) -重命名多个文件的实用程序.
 - [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) -尝试减少在KDE中使用的流行KWin合成器中的延迟和卡顿现象.
+- [KWinFT](https://gitlab.com/kwinft/kwinft) -Wayland合成器和X11窗口管理器.
 - [Yin-Yang](https://github.com/daehruoydeef/Yin-Yang) -Linux的自动夜间模式.
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) -风扇控制的GUI，它是lm_sensors的一部分.
 - [Wacom GUI](https://github.com/tb2097/wacom-gui) -KDE的Python / PyQt Wacom GUI.
@@ -111,7 +112,7 @@
 #### Extensions
 
 - [Latte-Dock](https://github.com/psifidotos/Latte-Dock) -Latte是基于Plasma框架的扩展坞，可为您的任务和等离子体提供优雅而直观的体验.
-- [Kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum) -用于Qt4 / Qt5，KDE和LXQt的基于SVG的主题引擎，重点是优雅，可用性和实用性.
+- [Kvantum](https://github.com/tsujan/Kvantum) -用于Qt4 / Qt5，KDE和LXQt的基于SVG的主题引擎，重点是优雅，可用性和实用性.
 - [Window Title Applet](https://github.com/psifidotos/applet-window-title/) -Plasma 5小程序，可在面板中显示当前窗口标题和图标.
 - [Hoppla](https://github.com/Fuchs/hoppla-sa) -KDE Plasma桌面小部件，用于控制Philips Hue灯.
 - [Places Widget](https://github.com/dfaust/plasma-applet-places-widget) -Plasma 5小部件，可访问用户位置.
@@ -120,8 +121,8 @@
 
 #### KCM Modules and Systems
 
-- [kde-gtk-config](https://cgit.kde.org/kde-gtk-config.git) -用于KDE的GTK2和GTK3配置器.
-- [kcm-wacomtablet](https://cgit.kde.org/wacomtablet.git) -Wacom Linux驱动程序的KDE GUI.
+- [kde-gtk-config](https://invent.kde.org/plasma/kde-gtk-config) -用于KDE的GTK2和GTK3配置器.
+- [kcm-wacomtablet](https://apps.kde.org/en/wacomtablet) -Wacom Linux驱动程序的KDE GUI.
 - [kded_rotation](https://github.com/dos1/kded_rotation) -小巧的KDED模块，用于处理平板电脑和混合笔记本电脑上的自动屏幕旋转.
 
 #### Themes

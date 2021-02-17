@@ -341,6 +341,10 @@ $ git checkout<branch>
 $ git checkout -b<branch>
 ```
 
+##### Switch to the previous branch, without saying the name explicitly:
+```
+$ git checkout-
+```
 
 ##### Create a new branch from an exiting branch and switch to new branch:
 ```
@@ -492,6 +496,11 @@ $ git mergetool
 ##### Merge branch into your current HEAD:
 ```
 $ git合并<branch>
+```
+
+#### List merged branches
+```
+$ git branch-合并
 ```
 
 ##### Rebase your current HEAD onto &lt;branch&gt;:<br>

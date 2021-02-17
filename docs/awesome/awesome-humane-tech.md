@@ -11,14 +11,14 @@
 
 ## About this list
 
-科技和社交媒体正在对我们的社会产生重大影响. 尽管许多创新技术发明正在改善我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如大规模隐私入侵，监视资本主义和技术垄断. 它们导致社交媒体上瘾，心理健康问题，甚至正在侵蚀我们的社会结构.
+科技和社交媒体正在对我们的社会产生重大影响. 尽管许多创新技术发明都在改善我们的生活，但人们对这些趋势带来的负面影响的意识日益增强，例如大规模隐私入侵，监视资本主义和技术垄断. 它们导致社交媒体上瘾，心理健康问题，甚至正在侵蚀我们的社会结构.
 
 此列表汇总了与人文科技主题直接相关的开源项目. 请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送您的PR之前.
 
  &gt; **重要**：以下列出的资源是本列表的贡献者真诚收集的，希望对您有用. 但是根据 [License](#license) 我们不能保证所引用软件的质量或适用性. 因此，在安装任何东西之前，请先正确告知自己，如果遇到不适当或错误的事情，请在我们的系统中提出问题. [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) 因此我们可以采取适当的措施. 谢谢！
 
 
-如果您的项目在此列表中，则您有权自豪地佩戴我们的人文技术徽章. 看到 [instructions](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md#after-you-were-added).
+如果您的项目在此列表中，则您有权自豪地佩戴我们的人文技术徽章. 看 [instructions](https://github.com/humanetech-community/awesome-humane-tech/blob/main/contributing.md#after-you-were-added).
 
 ## Community
 
@@ -97,16 +97,17 @@
 - [Image Scrubber](https://github.com/everestpipkin/image-scrubber) -基于浏览器的工具，用于匿名化照片和清理EXIF元数据.
 - [LocalCDN](https://www.localcdn.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/nobody/LocalCDN) -一种浏览器扩展，可模拟内容交付网络以改善您的在线隐私.
 - [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater) -去除非根目录的智能手机，以改善隐私，安全性和电池寿命.
+- [RethinkDNS](https://www.rethinkdns.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/celzero/rethink-app) -适用于Android的基于HTTPS和Tor的DNS，DNSCrypt客户端，防火墙和连接跟踪器.
 
 ## Tracking
 
 - [Privacy Badger](https://www.eff.org/privacybadger) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/privacybadger) -Electronic Frontier Foundation的Privacy Badger阻止了间谍广告和隐形跟踪器.
 - [uBlock Origin](https://github.com/gorhill/uBlock)  -适用于各种浏览器的高效拦截器插件. 快速，有力且精益.
-- [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
-- [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) -适用于Exodus隐私的应用程序，可让您知道应用程序中嵌入了哪些跟踪器.
+- [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) -分析Android应用程序中的隐私问题.
+- [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) -Exodus隐私应用程序，可让您知道应用程序中嵌入了哪些跟踪器.
 - [Exodify](https://github.com/FacettsOpen/exodify)  -想知道应用程式是否在追踪您吗？ 现在，您可以直接在Play商店中看到它.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/multi-account-containers) -将您的在线生活分隔成不同颜色的标签，以保护隐私.
-- [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/contain-facebook) - Isolates Facebook activity from the rest of your web activity, to prevent tracking.
+- [Mozilla Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/contain-facebook) -将Facebook活动与其他网络活动隔离开，以防止跟踪.
 - [Google Container](https://addons.mozilla.org/en-US/firefox/addon/google-container/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/containers-everywhere/contain-google) -将您的Google活动与其他网络活动隔离开，以防止跟踪.
 - [Tracking Token Stripper](https://github.com/jparise/chrome-utm-stripper) -浏览器扩展程序，可从URL查询字符串中剥离Google Analytics（分析）（UTM）令牌.
 - [SilverDog](https://ubeacsec.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ubeacsec/Silverdog) -阻止超声波跟踪应用程序的音频防火墙.
@@ -129,7 +130,7 @@
 
 - [re:consent](https://cliqz.com/en/magazine/re-consent) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/re-consent) -浏览器插件，用于查看/更改您对网站进行数据处理的同意.
 - [Trackless](https://github.com/ascorbic/trackless) -在您的网站上添加GDPR友好的Google Analytics（分析）选择加入/退出按钮.
-- [ConsentCookie](https://www.consentcookie.nl/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humanswitch/consentcookie) - Customizable script that allow users to opt-in for cookies on a case-by-case basis.
+- [ConsentCookie](https://www.consentcookie.nl/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humanswitch/consentcookie) -可自定义的脚本，允许用户根据情况选择加入Cookie.
 - [GDPR Transparency and Consent Framework](https://iabtechlab.com/standards/gdpr-transparency-and-consent-framework/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/InteractiveAdvertisingBureau/GDPR-Transparency-and-Consent-Framework) -帮助遵守欧盟数据保护和隐私规则.
 - [Klaro](https://klaro.kiprotect.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/KIProtect/klaro) -一个简单而强大的工具，可以管理网站上的用户同意.
 
@@ -167,7 +168,7 @@
 
 ## Fediverse
 
-The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面人性化技术的希望之地. 仅最知名的应用程序（摘自 [fediverse.party](https://fediverse.party) 前页）. 看到 [Feneas Watchlists](https://git.feneas.org/feneas/fediverse/-/wikis/home#watchlists) 以获得完整的概述.
+The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面人性化技术的希望之地. 仅最知名的应用程序（摘自 [fediverse.party](https://fediverse.party) 前页）. 看 [Feneas Watchlists](https://git.feneas.org/feneas/fediverse/-/wikis/home#watchlists) 以获得完整的概述.
 
 - [Mastodon](https://joinmastodon.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tootsuite/mastodon) -您的自托管，全球互连的微博社区.
 - [Pleroma](https://pleroma.social/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.pleroma.social/pleroma/pleroma/) -基于开放协议的免费的联合社交微博客服务器.
@@ -192,13 +193,13 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snarfed/granary) -通过在社交网络之间转换数据来打破筒仓的社交网络翻译器.
 - [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) -社交网络，可恢复失去的个人网络创造力.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) -Selenium脚本删除您所有的Facebook墙上帖子.
-- [Minimal Twitter](https://www.wang.sh/minimal-twitter) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) -新的Twitter UI的最小主题.
+- [Minimal Twitter](https://www.wang.sh/minimal-twitter) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - Minimal Theme for the new Twitter UI.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) -专注于更好对话的开源评论平台.
 - [Invidious](https://invidious.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/iv-org/invidious) -不带广告的YouTube替代前端.
 - [Delta Chat](https://delta.chat/en) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/deltachat) -通过电子邮件进行类似于Whatsapp的分散聊天，无需跟踪和中央控制.
 - [Nitter](https://nitter.net) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/zedeus/nitter) -另一个关注隐私的Twitter前端.
 - [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/Booteille/Invidition) -Firefox扩展程序，可将YouTube和Twitter请求重定向到其他选项.
-- [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://sr.ht/~cadence/bibliogram/) -Instagram的替代前端.
+- [Bibliogram](https://bibliogram.art) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/sourcehut.svg?sanitize=true" width="16"/>](https://sr.ht/~cadence/bibliogram/) - An alternative front-end for Instagram.
 - [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) -将Twitter，YouTube，Instagram和Google Maps请求重定向到隐私友好的替代方案.
 - [UnTrackMe](https://framagit.org/tom79/nitterizeme) -可将Twitter，YouTube链接到Nitter，Invidious并委托给另一个应用程序的应用程序.
 - [FreeTube](https://freetubeapp.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/FreeTubeApp/FreeTube) -适用于Windows，MacOS和Linux的专用YouTube客户端.
@@ -223,10 +224,9 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 
 ## Geolocation
 
-- [OpenStreetMap](https://www.openstreetmap.org) -由您这样的人创建的世界地图，可以在开放许可下免费使用.
+- [OpenStreetMap](https://www.openstreetmap.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/openstreetmap/openstreetmap-website) -由您这样的人创建的世界地图，可以在开放许可下免费使用.
 - [OSM StreetComplete](https://github.com/westnordost/StreetComplete) -适用于Android的Surveyor应用程序，允许用户轻松地为OpenStreetMap做出贡献.
-- [Mozilla Ichnaea](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/ichnaea) -从其他来源（蓝牙，手机或WiFi，GeoIP等）获取地理位置坐标的API.
-- [Mozilla Stumbler](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/MozStumbler) -扫描仪，可为我们的众包位置数据库收集GPS和无线网络数据.
+- [Mozilla Ichnaea](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/ichnaea) - API to get geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/QwantResearch/qwantmaps/) -基于OpenStreetMap的地图应用程序，尊重您的隐私.
 - [Owntracks](https://owntracks.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/owntracks/android) -尊重隐私的移动应用，可让您跟踪自己的位置.
 - [Hauk](https://github.com/bilde2910/Hauk) -完全开源的自托管位置共享服务.
@@ -331,6 +331,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 - [Wi-Fi Privacy Police](https://github.com/BramBonne/privacypolice) -防止智能手机或平板电脑通过Wi-Fi网络泄漏隐私敏感信息.
 - [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/d4t4x/data-selfie) -在Facebook上跟踪自己并分析您的数据（服务器 [discontinued](https://dataselfie.it/#/shutdown)，代码仍然可用）.
 - [Breathe](http://breatheforpebble.tk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cheeseisdisgusting/exhale)  -花点时间呼吸. 一个用C语言编写的Pebble呼吸应用程序.
+- [Mozilla Stumbler](https://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/MozStumbler) -扫描仪，可为我们的众包位置数据库收集GPS和无线网络数据.
 
 ## Related awesomeness
 
@@ -357,7 +358,7 @@ The [Fediverse](https://en.wikipedia.org/wiki/Fediverse) 是社交网络方面�
 
 ## Contributing
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 第一的.
 
 ## License
 

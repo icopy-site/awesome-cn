@@ -154,6 +154,7 @@
  * [badtouch](https://github.com/kpcyrd/badtouch) -可编写脚本的网络身份验证破解程序
  * [PhpSploit](https://github.com/nil0x42/phpsploit) -功能齐全的C2框架，可通过邪恶的PHP oneliner静默保留在Web服务器上
  * [Git-Scanner](https://github.com/HightechSec/git-scanner) -一种用于寻找漏洞或进行渗透测试的工具，用于定位具有公开可用的`.git`存储库的网站
+ * [CSP Scanner](https://cspscanner.com/) -分析网站的内容安全政策（CSP），以查找绕过和丢失的指令.
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) -详尽的清单，可帮助对node.js Web服务进行源代码安全性分析.

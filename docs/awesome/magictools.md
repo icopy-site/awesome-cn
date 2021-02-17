@@ -241,7 +241,7 @@ Code
 *： 然后： [Kivy](http://kivy.org) -用于为Linux，Windows，OS X，Android和iOS创建应用和游戏的跨平台Python框架
 *： 然后： [KogGE](https://korge.soywiz.com)  -Kotlin的现代多平台游戏引擎. 使用Kotlin可以立即为JVM，JavaScript，Android和iOS编写游戏.
 *： 然后： [KiwiJS](http://www.kiwijs.org/)  -一个有趣且友好的开源HTML5游戏引擎. 有人称它为HTML5游戏引擎的WordPress
-*： 然后： [LibGDX](https://libgdx.badlogicgames.com/) -强大的Java库（完全免费），只需编写一次代码，即可在台式机，Android，Web和iOS上运行游戏.
+*： 然后： [LibGDX](https://libgdx.com/) -强大的Java库（完全免费），只需编写一次代码，即可在台式机，Android，Web和iOS上运行游戏.
 *： 然后： [LimeJS](http://www.limejs.com/) -HTML5游戏框架，可为所有现代触摸屏和
 *： 然后： [LITIengine](http://litiengine.com/)  -2D Java游戏引擎. 它提供了使用纯Java创建基于图块的2D游戏的所有基础结构
 *： 然后： [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
@@ -386,7 +386,7 @@ Audio
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和竞争激烈的“热门排行榜”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门排行榜”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)

@@ -79,7 +79,6 @@
 - [crayon](https://github.com/thecodrr/crayon)  -画出像毕加索一样的终端输出.  ️
 - [cjson](https://github.com/lydiandy/cjson) -将cJSON包装为vlang.
 - [ascii_robot](https://github.com/Delta456/ascii_robot) -用V编写的ASCII机器人生成器.
-- [props](https://github.com/StunxFS/props) -属性支持，例如Java forV.
 
 ### Graphics
 

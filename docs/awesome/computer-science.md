@@ -38,7 +38,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 
 如果没有课程符合以上条件，则以书为辅.
 如果课程或书籍不符合课程要求，但质量较高，
-他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 要么 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
+他们属于 [extras/courses](https://github.com/ossu/computer-science/blob/master/extras/courses.md) 或者 [extras/readings](https://github.com/ossu/computer-science/blob/master/extras/readings.md).
 
  **组织**. 课程设计如下：
 -*简介CS *：让学生尝试CS，看看是否适合他们
@@ -46,15 +46,15 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 -*高级CS *：大致对应于计算机科学课程的最后一年，根据学生的兴趣选择选修课
 -*最终项目*：供学生验证，巩固和展示其知识的项目，供世界各地的同行评估
 
- **持续时间**. 如果您仔细计划并每周花大约20个小时学习，大约2年内即可完成学习. 学习者可以使用 [this spreadsheet](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/edit#gid=1428855662) 估计他们的结束日期. 如果您制作个人副本，则可以在“课程数据”表中输入您的实际课程结业日期，并获取更新的结业估算.
+ **期间**. 如果您仔细计划并每周花大约20个小时学习，大约2年内即可完成学习. 学习者可以使用 [this spreadsheet](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/edit#gid=1428855662) 估计他们的结束日期. 如果您制作个人副本，则可以在“课程数据”表中输入您的实际课程结业日期，并获取更新的结业估算.
 
  **成本**. 所有或几乎所有课程资料都是免费提供的. 但是，有些课程可能会为要评分的作业/测试/项目收取费用.
-请注意，Coursera提供 [financial aid](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid).
+注意两者 [Coursera](https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid) 和 [edX](https://courses.edx.org/financial-assistance/) 提供经济援助.
 
 根据您自己的时间和预算来决定要花多少钱；
 请记住，您无法购买成功！
 
- **处理**. 学生可以按顺序或按顺序单独或分组学习课程.
+ **过程**. 学生可以按顺序或按顺序单独或分组学习课程.
 -我们建议您在Core CS中完成所有课程，仅在确定您以前已经学习过这些材料后才跳过课程.
 -为简单起见，我们建议您按照从上到下的顺序学习课程（尤其是Core CS） [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) 根据他们的先决条件.
  -高级CS课程为选修课. 选择一个您想成为专家的科目（例如高级编程），并选择该标题下的所有课程. 您也可以创建自己的自定义主题，但是我们建议您从社区中就所选主题进行验证.
@@ -70,7 +70,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 -我们有一个不和谐的服务器！ [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2) ]（https://discord.gg/wuytwK5s9h）这应该是您与其他OSSU学生交谈的第一站. 您为什么现在不自我介绍？ [Join the OSSU Discord](https://discord.gg/wuytwK5s9h)
  -您还可以通过GitHub问题进行互动. 如果课程有问题，或者需要对课程进行更改，这是开始对话的地方. 阅读更多 [here](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
 -订阅我们 [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
--将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 个人资料！
+-将**开源社会大学**添加到您 [Linkedin](https://www.linkedin.com/school/11272443/) 轮廓！
  -注意：在搜索OSSU时，可能会找到一个未维护且已弃用的Firebase应用程序. 您可以放心地忽略它. 阅读更多 [FAQ](https://github.com/ossu/computer-science/blob/master/./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
 ## Curriculum
@@ -97,7 +97,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 简单的程序
 简单的数据结构
 
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [Python for Everybody](https://www.py4e.com/lessons)  |  10周每周10个小时| 无| [chat](https://discord.gg/syA242Z)
 
@@ -111,7 +111,7 @@ OSSU课程是使用在线材料进行的“计算机科学完全教育”.
 基本数据结构和算法
 还有更多
 
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ）|  9周每周15小时| [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
 
@@ -136,7 +136,7 @@ Lisp家庭语言（通过球拍）
 
 《如何编写代码》课程基于教科书 [How to Design Programs](https://htdp.org/2003-09-26/) . 第一版可在线免费获得，其中包括问题集和解决方案. 鼓励学生做这些作业.
 
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)  |  7周每周8-10个小时| 无| [chat](https://discord.gg/RfqAmGJ)
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  |  6周每周8-10个小时| 如何编码：简单数据 [chat](https://discord.gg/kczJzpm)
@@ -149,25 +149,25 @@ Lisp家庭语言（通过球拍）
 
 #### Calculus
 
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)  |  13周| 每周6-10个小时| [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/mPCt45F)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)  |  13周| 每周5-10个小时| 微积分1A | [chat](https://discord.gg/sddAsZg)
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series)  |  6周每周5-10个小时| 微积分1B | [chat](https://discord.gg/FNEcNNq)
 
 #### Linear Algebra
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)  |  14周| 每周12小时| 线性代数的本质 [chat](https://discord.gg/k7nSWJH)
 
 #### Logic
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)  |  10周每周4-8小时| [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
 
 #### Probability
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [Probability](https://projects.iq.harvard.edu/stat110/home)  |  24周| 每周12小时| [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
 
@@ -182,9 +182,9 @@ Lisp家庭语言（通过球拍）
 离散概率
 还有更多
 
-课程持续时间| 努力注意事项前提条件| 讨论区
+课程持续时间| 努力注意事项前提条件| 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
-[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) ）|  13周| 每周5小时| 带有问题集解决方案的备用版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) . 挣扎的学生可以考虑 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一. 它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) ）|  13周| 每周5小时| 带有问题集解决方案的备用版本是 [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/) . 挣扎的学生可以考虑 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) 第一的. 它更具交互性，但不全面，并且花费金钱才能实现完全的交互性.  | 微积分1C | [chat](https://discord.gg/EuTzNbF)
 
 
 ### CS Tools
@@ -197,7 +197,7 @@ Lisp家庭语言（通过球拍）
 版本控制
 还有更多
 
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)  |  2周每周12小时|  -| [chat](https://discord.gg/5FvKycS)
 
@@ -219,7 +219,7 @@ Lisp家庭语言（通过球拍）
 网络协议
 还有更多
 
-课程持续时间| 努力其他文字/作业| 前提条件| 讨论区
+课程持续时间| 努力其他文字/作业| 前提条件| 讨论
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/) ）|  6周每周7到13个小时|  -| 类似于C的编程语言| [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)  |  6周每周12-18个小时|  -| 之一 [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png)，从南德到俄罗斯方块第一部分| [chat](https://discord.gg/AsUXcPu)
@@ -241,7 +241,7 @@ Lisp家庭语言（通过球拍）
 `NP-completeness`
 还有更多
 
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer)  |  4周每周4-8小时| 任何编程语言，计算机科学数学| [chat](https://discord.gg/mKRS7tY)
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)  |  4周每周4-8小时| 分而治之，排序和搜索以及随机算法 [chat](https://discord.gg/Qstqe4t)
@@ -260,14 +260,14 @@ Lisp家庭语言（通过球拍）
 
 注意：** _这些课程是临时推荐的_ **. 有一个开放 [Request For Comment](https://github.com/ossu/computer-science/issues/639) 关于安全课程的选择. 鼓励贡献者比较RFC中的各种课程并提供反馈.
 
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data)  |  5周每周3个小时|  -| [chat](https://discord.gg/8h6Rz8g)
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) |  4周每周4小时|  -| [chat](https://discord.gg/5gMdeSK)
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)  |  4周每周4小时|  -| [chat](https://discord.gg/V78MjUS)
 
 选择以下一项：
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)  |  4周每周5小时|  -| [chat](https://discord.gg/Vbxce7A)
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications)  |  4周每周5小时|  -| [chat](https://discord.gg/QxC22rR)
@@ -289,10 +289,10 @@ Lisp家庭语言（通过球拍）
 `raytracing`
 还有更多
 
-课程持续时间| 努力前提条件| 讨论区
+课程持续时间| 努力前提条件| 讨论
 :-- | :--: | :--: | :--: | :--:
-[Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) |  2周每周10个小时| 核心编程| [chat](https://discord.gg/P8SPPyF)
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) |  2周每周10个小时| 核心编程| [chat](https://discord.gg/pMFqNf4)
+[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) |  2周每周10个小时| 核心编程| [chat](https://discord.gg/P8SPPyF)
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) |  2周每周10个小时| 核心编程| [chat](https://discord.gg/duCJ3GN)
 [Machine Learning](https://www.coursera.org/learn/machine-learning) |  11周| 每周4-6个小时| 线性代数| [chat](https://discord.gg/NcXHDjy)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) |  6周每周12小时|  C ++或Java，线性代数| [chat](https://discord.gg/68WqMNV)
@@ -480,7 +480,7 @@ or
 -“额外资源”：带有该标签的卡片代表该学生添加的课程.
 -“正在做”：带有该标签的卡片代表该学生当前正在做的课程.
 -“完成”：带有该标签的卡片代表该学生完成的课程.
-这些卡片还应具有至少一个项目/文章的链接，该项目/文章应使用在该课程中获得的知识来构建.
+这些卡片还应具有至少一个项目/文章的链接，该项目/文章应使用在该课程中获得的知识构建.
 -`Section`：带有该标签的卡片代表我们课程中的部分.
 带有“ Section”标签的卡片仅用于组织“完成”列.
 您应将*课程卡*放在其各自的*部门卡*下方.
