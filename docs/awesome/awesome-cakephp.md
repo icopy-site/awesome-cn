@@ -6,7 +6,7 @@
 带有“：strawberry：”图标的插件也具有CakePHP 4兼容版本.
 
 如果您正在寻找CakePHP 2.x资源，请访问：
-- [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) 这个很棒的清单
+- 这 [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) 这个很棒的清单
 -这个维基 [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x)
 
 您可能会发现有用的其他列表：
@@ -84,6 +84,7 @@
 *用于调试的插件.*
 
 - [Airbrake plugin](https://github.com/chrisShick/AirbrakeCake) 一个将Airbrake与CakePHP无缝集成以解决错误和异常的插件.
+- [AssociationsDebugger plugin](https://github.com/zunnu/associations-debugger) -一个将您的模型关联绘制为图表的插件.
 - ：草莓： [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) -酷孩子的PHP错误和例外 [filp/whoops](https://github.com/filp/whoops).
 - ：草莓： [DebugKit plugin](https://github.com/cakephp/debug_kit) -用于调试的实际标准.
 - [ErrorEmail plugin](https://github.com/ebrigham1/cakephp-error-email) -一个将异常/错误信息通过电子邮件发送给您的开发团队的插件.
@@ -125,7 +126,7 @@
 - ：草莓： [FileStorage plugin](https://github.com/burzum/cakephp-file-storage) -抽象文件存储和上传插件.
 - [FlyPie plugin](https://github.com/WyriHaximus/FlyPie) -使用Flysystem进行抽象文件系统访问.
 - [Image plugin](https://github.com/josbeir/image) -图像行为与Cake在TranslateBehavior中内置的行为非常相似.
-- ：草莓： [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) -摘要 [Flysystem](https://flysystem.thephpleague.com/) +基于文件实体的上传插件.
+- ：草莓： [Josbeir/Filesystem plugin](https://github.com/josbeir/cakephp-filesystem) - 抽象 [Flysystem](https://flysystem.thephpleague.com/) +基于文件实体的上传插件.
 - ：草莓： [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) -使用的可自定义插件 [Flysystem](https://flysystem.thephpleague.com/) 写入多个后端（Dropbox，FTP，S3，本地等）.
 - [Proffer plugin](https://github.com/davidyell/CakePHP3-Proffer) -具有缩略图生成功能的可自定义上传插件.
 - [Xety/Cake3Upload plugin](https://github.com/Xety/Cake3-Upload) -一个用于上传文件的小插件.
@@ -200,7 +201,7 @@
 - ：草莓： [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) -易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) -带有内置管理区域的不稳定用户管理插件.
 - [CakeDC/Enum plugin](https://github.com/CakeDC/enum) -一个向您的应用添加枚举列表支持的插件.
-- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组，并通过键入提示和自动完成功能来利用您的IDE.
+- ：草莓： [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) -快速为您的应用程序生成有用的数据传输对象（可变/不可变），替换混乱的数组并通过键入提示和自动完成功能来利用您的IDE.
 - ：草莓： [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)  -存储当前身份验证会话并创建用于模拟用户的新会话的组件. 用户可以恢复到原始身份验证会话，而无需重新登录.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -Cakephp中间件的集合.
 - ：草莓： [Calendar plugin](https://github.com/dereuromark/cakephp-calendar)  -用于生成基本日历. 包括用于ICS日历文件生成的IcalView.
@@ -227,7 +228,7 @@
 ## Navigation
 *用于构建导航结构的工具.*
 
-- ：草莓： [Icings/Menu plugin](https://github.com/icings/menu) - 一个 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP的经验丰富的菜单插件.
+- ：草莓： [Icings/Menu plugin](https://github.com/icings/menu) - 一种 [KnpMenu](https://github.com/KnpLabs/KnpMenu) CakePHP的经验丰富的菜单插件.
 
 ## NoSQL
 *用于“ NoSQL”后端的插件.*
@@ -365,7 +366,7 @@
 - ：草莓： [CakephpFixtureFactories plugin](https://github.com/pakacuda/cakephp-fixture-factories) -在测试的基础上动态创建夹具，加速测试的编写和维护.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) 支持CakePHP固定装置.
 - [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) -灯具插件可读取现有灯具并创建表格/插入数据，以快速启动应用.
-- [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) -在运行测试套件时，通过减少插入量来更有效地插入固定装置（仅限mysql）.
+- [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) -在运行测试套件时，通过减少插入量来更有效地插入固定装置（仅适用于mysql）.
 - [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) 支持CakePHP夹具记录.
 
 ## Third Party APIs
@@ -480,4 +481,4 @@
 请参阅 [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) 有关详细信息.
 
 ## Credits
-awesome-cakephp由创建 [dereuromark](https://github.com/dereuromark) 目前由他和FriendsOfCake小组维护. 谢谢你们 [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors)也一样
+awesome-cakephp由创建 [dereuromark](https://github.com/dereuromark) 目前由他和FriendsOfCake小组维护. 谢谢你们 [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors)， 也.

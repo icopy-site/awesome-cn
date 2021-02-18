@@ -213,6 +213,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 
 * [Official web page](https://cli.angular.io/)
 * [Official repository](https://github.com/angular/angular-cli)
+* [ng-cli-hooks](https://github.com/smartin85/ng-cli-hooks) -挂钩Angular CLI自定义构建
 
 #### Webpack
 
@@ -297,7 +298,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) 曼宁出版物
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉尔·沙尔玛`
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `安吉·沙玛（Ankit Sharma）`
 
 #### On-Site Training
 
@@ -342,7 +343,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
   * [Writing Angular 2 code in ES5](https://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-*赫里斯托·格奥尔基耶夫
+*赫里斯托（Hristo Georgiev）
 
   * [Debugging Angular 2 Applications](https://www.pluralsight.com/guides/debugging-angular-2-applications)
 
@@ -919,7 +920,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 ### Angular 2 in Haxe
 
  &gt; Haxe是基于现代，高级，严格类型的编程语言，交叉编译器，完整的跨平台标准库以及访问每个平台的本机功能的方式的开源工具包. 使用Haxe的通用语言，您可以轻松地针对本地所有主流平台构建跨平台工具.  “强大的功能，易于扩展的宏系统”，以及功能强大，高度优化的DCE编译器（以及使用内联构造函数的fe），“在任何地方写入一次编译”. 可以用于服务器端渲染并以同构方式使用-可以与javascript和pyhton（或java / php / node-可以在以后选择/缩放时更改）共享客户端中编译的相同源代码.  Haxe代码可以包含（内联）任何目标语言片段（可用于逐步移植），externs机制提供了以类型安全的方式访问本机API和库的功能.
-&gt;服务器，客户端，移动设备（可同时使用Android和iOS），台式机，嵌入式（Raspbery，屡获殊荣的TIVO机顶盒），Playstation ...可以通过更少的打字，更防错，更稳定的方式本地访问所有这些即使对于非类型安全目标（例如JavaScript，PHP），也要进行编译时类型检查的代码！
+&gt;服务器，客户端，移动设备（可同时使用Android和iOS），台式机，嵌入式（Raspbery，屡获殊荣的TIVO机顶盒），Playstation ...可以通过更少的打字，更防错，更稳定的方式本地访问即使对于非类型安全目标（例如JavaScript，PHP），也要进行编译时类型检查的代码！
 
 ##### Haxe General Resources
 
@@ -928,7 +929,7 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 * [Haxe Playground ](https://try.haxe.org/)
 * [Haxe compiler targets](https://haxe.org/documentation/introduction/compiler-targets.html) compiler targets: C++, C#, Java, Python, PHP, ActionScript 3, and Flash or Neko bytecode
 * [Haxe Usage Survey results](https://github.com/PatrickJS/awesome-angular/blob/master/blog.onthewings.net/2015/11/14/haxe_usage_survey/)
-* [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) -社区
+* [Haxe discussion group](https://groups.google.com/forum/#!forum/haxelang) - 社区
 * [Haxe and Node.js](https://github.com/PatrickJS/awesome-angular/blob/master/matthijskamstra.github.io/haxenode/)
 * [Haxe: working with JavaScript libraries](https://philippe.elsass.me/2014/11/haxe-working-with-javascript-libraries/)
 * [Learn haxe in Y minutes](https://learnxinyminutes.com/docs/haxe/)
@@ -972,8 +973,8 @@ Apache Cordova是使用CSS3，HTML5和JavaScript而不依赖于平台特定的AP
 
 #### Security
 
- *因此，您认为使用AngularJS安全吗？ 再想想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) -Lewis Ardern在OWASP London 2017上的演讲
-  ##### 认证方式
+ *因此，您认为使用AngularJS安全吗？ 再想一想！ [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) -Lewis Ardern在OWASP London 2017上的演讲
+  ##### 验证
 * [Angular 2 with OpenID Connect Implicit Flow from Damien Bowden](https://damienbod.com/2016/03/02/angular2-openid-connect-implicit-flow-with-identityserver4/)
 * [Angular 2 bootstrap4 OAuth2 Webpack from Michael Oryl](https://github.com/michaeloryl/angular2-bootstrap4-oauth2-webpack)
 * [Angular 2 OAuth2 OIDC from Manfred Steyer](https://www.softwarearchitekt.at/post/2016/07/03/authentication-in-angular-2-with-oauth2-oidc-and-guards-for-the-newest-new-router-english-version.aspx)

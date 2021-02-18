@@ -19,6 +19,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Official Prometheus demo](https://demo.do.prometheus.io) -由Cloud Alchemy Ansible角色管理的Prometheus官方演示站点，每天使用来自 [Prometheus repository](https://github.com/prometheus/demo-site).
 
 ## Tutorials
+- [Kubernetes monitoring with Prometheus, the ultimate guide](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) -使用Mateo Burillo的最终指南Prometheus进行Kubernetes监视.
 - [How To Install Prometheus using Docker on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-using-docker-on-centos-7) -深入探讨如何在CentOS 7上安装Prometheus.
 - [How to Use Prometheus to Monitor Your CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-use-prometheus-to-monitor-your-centos-7-server) -深入探讨如何使用Prometheus监视CentOS 7服务器.
 - [How To Add a Prometheus Dashboard to Grafana](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) -逐步介绍如何将Prometheus仪表板添加到Grafana.
@@ -60,7 +61,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Prometheus Monitoring with Brian Brazil](https://softwareengineeringdaily.com/2016/08/10/prometheus-monitoring-with-brian-brazil/) -Brian Brazil在《软件工程日报》播客中.
 
 ## Presentations
-- [Prometheus Overview](http://www.slideshare.net/brianbrazil/prometheus-overview) -布赖恩·巴西（Brian Brazil）的普罗米修斯（Promethean）监视理想.
+- [Prometheus Overview](http://www.slideshare.net/brianbrazil/prometheus-overview) -布赖恩·巴西（Brian Brazil）的普罗米修斯主义理想的监视.
 - [System Monitoring with Prometheus](http://www.slideshare.net/brianbrazil/devops-ireland-systems-monitoring-with-prometheus) -布赖恩·巴西（Brian Brazil）在都柏林Devops爱尔兰聚会上.
 - [OMG! Prometheus](https://www.dropbox.com/s/0l7kxhjqjbabtb0/prometheus%20site-ops%20preso.pdf?dl=0) -Fitbit网站运营公司的Benjamin Staffin向他的团队解释了Prometheus的情况.
 - [Deploying Prometheus](https://fosdem.org/2017/schedule/event/deploying_prometheus_at_wikimedia_foundation/attachments/slides/1773/export/events/attachments/deploying_prometheus_at_wikimedia_foundation/slides/1773/Prometheus_at_WMF_Fosdem_2017.pdf) -Filippo Giunchedi，2017年FOSDEM维基媒体基金会.
@@ -88,7 +89,7 @@ Prometheus是一个开源系统监视和警报工具包.
 ## Deployment tools
 - [Ansitheus](https://github.com/ntk148v/ansitheus) -Ansible剧本，由ntk148v_来容器化，配置和部署Prometheus生态系统.
 - [Cloud Alchemy Ansible roles](https://github.com/cloudalchemy) -负责管理Prometheus，Alertmanager，Grafana和CommonPrometheus出口商的角色.
-- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -用于安装Prometheus监控系统，出口商（例如：节点，snmp，黑盒）的Ansible手册，因此由Ernestas Poskus_发出警报管理器和推送网关.
+- [Ansible-prometheus](https://github.com/ernestas-poskus/ansible-prometheus) -Ansible剧本，用于安装Prometheus监控系统，出口商，例如：node，snmp，blackbox，从而由Ernestas Poskus_生成警报管理器和推送网关.
 - [Click-to-deploy Prometheus](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s/prometheus) -Google的来源单击以部署GoogleCloud Marketplace上列出的Prometheus解决方案_by GoogleCloudPlatform_.
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator) -Prometheus Operator通过CoreOS_在Kubernetes上创建/配置/管理Prometheus集群.
 
@@ -97,7 +98,7 @@ Prometheus是一个开源系统监视和警报工具包.
 - [Prometheus Monitoring with Grafana](http://logz.io/blog/prometheus-monitoring/) -由logz.io_使用Grafana _tutorial进行Prometheus监视.
 
 ## Exporters
-以下列表包含了由Proxeus维护的所有官方Prometheus出口商 [Prometheus GitHub 要么ganization](https://github.com/prometheus) . 有关包括任何非官方出口商在内的出口商的完整列表，请参见 [prometheus.io](https://prometheus.io/docs/instrumenting/exp要么ters/) 要么 [exp要么terhub.io](https://exp要么terhub.io) f要么 a curated list of Prometheus exp要么ters.
+以下列表包含了由Proxeus维护的所有官方Prometheus出口商 [Prometheus GitHub 或者ganization](https://github.com/prometheus) . 有关包括任何非官方出口商在内的出口商的完整列表，请参见 [prometheus.io](https://prometheus.io/docs/instrumenting/exp或者ters/) 或者 [exp或者terhub.io](https://exp或者terhub.io) f或者 a curated list of Prometheus exp或者ters.
 
 ### Databases
 - [Consol exporter](https://github.com/prometheus/consul_exporter) -领事指标的导出器.

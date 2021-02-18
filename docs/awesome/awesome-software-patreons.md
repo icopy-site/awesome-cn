@@ -18,6 +18,7 @@ _使用开源许可证发布的项目.
 
 - [Akira](https://www.patreon.com/akiraux), [#2](https://liberapay.com/AkiraUX/) -用于UI和UX设计的Linux应用程序.
 - [Albert launcher](https://www.patreon.com/albertlauncher) -用C ++ / Qt编写的键盘启动器.
+- [AngouriMath](https://www.patreon.com/AngouriMath) -.NET的计算机/符号代数库.
 - [Armory](https://armory3d.org/fund) -Blender的3D游戏引擎.
 - [bcachefs](https://www.patreon.com/bcachefs) -Linux文件系统.
 - [Blender](https://fund.blender.org/) -3D创作套件.

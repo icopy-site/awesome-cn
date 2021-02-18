@@ -49,9 +49,10 @@
 
 ## Commercial integrations
 
+- [Bill.do](https://bill.do) -免费的DigitalOcean计费监控和见解工具
 - [HostLaunch](https://hostlaunch.io) -建立一个基于DigitalOcean和ServerPilot的托管公司.
 - [SimpleBackups](https://simplebackups.io) -用于在自动驾驶仪上计划DigitalOcean备份（文件和数据库）的工具.
-- [SnapShooter](https://snapshooter.io/daily-hourly-digital-ocean-backups/) -用于每日备份和每小时备份小滴和卷的工具
+- [SnapShooter](https://snapshooter.io/digitalocean) -用于每日备份和每小时备份小滴和卷的工具
 - [Weap.io](https://weap.io)  -每小时到每日DigitalOcean备份. 安排更频繁的DigitalOcean备份的工具
 
 ## Community OSS projects

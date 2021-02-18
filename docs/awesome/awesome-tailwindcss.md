@@ -233,7 +233,6 @@
 -  [Daisy UI](https://github.com/saadeghi/daisyui) -Tailwind CSS的UI组件.
 -  [Kometa UI Kit](https://kitwind.io/products/kometa/components) -使用Tailwind CSS构建的免费多功能UI套件.
 -  [Mamba UI](https://mambaui.com) -免费的Tailwind CSS组件，部分和模板.
--  [Wiked Templates](https://blocks.wickedtemplates.com/) -免费的标题，网格，身份验证，页脚（和其他类别）块.
 -  [Windmill Dashboard](https://windmill-dashboard.vercel.app/) -多主题，完全可访问的仪表板模板.
 -  [Tailwind Admin](https://github.com/tailwindadmin/admin) -带有Tailwind CSS的管理面板模板.
 -  [Landing Gradients](https://landing-gradients.netlify.app/) -使用渐变（1.7+）的目标网页模板.
@@ -312,6 +311,7 @@
 -  [Tailwind CSS with GatsbyJS](https://dev.to/jakedohm_34/using-tailwind-with-gatsby-js-10fj) -如何在Gatsby中使用Tailwind CSS.
 -  [Tailwind CSS with Phoenix 1.4](https://equimper.com/blog/how-to-setup-tailwindcss-in-phoenix-1.4) -如何在Phoenix 1.4中设置Tailwind CSS.
 -  [Extend Tailwind CSS](https://web-crunch.com/how-to-extend-tailwind-css) -如何扩展Tailwind CSS.
+-  [Web2Tailwind](https://web2tailwind.com) -如何使用带有AlpineJS的Tailwind CSS构建Web组件.
 -  [Rebuilding Laravel.io](https://www.youtube.com/watch?v=ZrRRMBaz5Z0) -使用Tailwind CSS重建Laravel.io.
 -  [Rebuilding Coinbase](https://www.youtube.com/watch?v=7gX_ApBeSpQ) -使用Tailwind CSS重建Coinbase [see the [Codepen](https://codepen.io/adamwathan/pen/RxWrZr)].
 -  [Rebuilding Twitter](https://www.youtube.com/watch?v=Pg_5Ni1_bg4) -使用Tailwind CSS重建Twitter [see the [CodePen](https://codepen.io/drehimself/full/vpeVMx)].

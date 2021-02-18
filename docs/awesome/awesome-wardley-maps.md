@@ -19,7 +19,7 @@
 - [Wardley Mapping Forum](https://community.wardleymaps.com/) -一个讨论与沃德利地图有关的一切的地方.
 - [mapcamp.slack.com](https://mapcamp.slack.com/) -加入Slack上的Map Camp [here](https://map-camp-slack-invite.herokuapp.com/).
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) -沃德利地图社区.
-- [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) -订阅 [here](https://bit.ly/2QlF0Wx) . 通讯 [archive](https://bit.ly/2P9MEPu).
+- [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) - 订阅 [here](https://bit.ly/2QlF0Wx) . 通讯 [archive](https://bit.ly/2P9MEPu).
 - [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) -加入对话.
 
 ## Reading
@@ -52,7 +52,6 @@
 ## Maps in the Wild
 
 博客文章和Wardley地图的其他有趣示例. 按日期排序，最新的优先.
-
 - [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a)  - 三思而后行.  2020年10月22日.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) -2020年9月15日.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/)  -与西蒙·沃德利的对话.  2020年8月4日.
@@ -70,6 +69,7 @@
 - [From HS2 to China and … back again](https://swardley.medium.com/from-hs2-to-china-and-back-again-6bce5764ea14)  -在不断变化的地缘政治世界中.  2020年2月23日.
 - [Mapping Alignment](https://medium.com/@chrisvmcd/mapping-alignment-b333e4fe0eda) -2020年2月9日，查看组织中的团队和层级以及用于满足组织需求的做法，例如结盟，报告等.
 - [Blockchain brokers trust in a fragmented world](https://leadingedgeforum.com/research/blockchain-brokers-trust-in-a-fragmented-world/)  -Wardley映射显示，区块链的成熟度演变与其他主流技术相同.  2020年1月28日.
+- [Some initial thoughts about ERP systems](https://www.feststelltaste.de/some-initial-thoughts-about-erp-systems/) -2020年1月23日.
 - [Structural Deepening](https://latticecut.github.io/wardleymaps/2020/01/05/structural-deepening.html)  -使用Wardley地图查看喷气发动机的演变.  2020年1月5日.
 - [Map Your Improvement Strategy](https://hackernoon.com/improvements-experts-and-the-elusive-silver-bullet-knp321x)  -因为您雇用的专家没有神奇的子弹.  2019年11月4日.
 - [Embedded in memory](https://swardley.medium.com/embedded-in-memory-b05b0e7c183f)  -文化周期.  2019年10月2日.
@@ -86,6 +86,7 @@
 - [Plotting a path to a greener web with Wardley mapping](https://www.thegreenwebfoundation.org/news/plotting-a-path-to-a-greener-web-with-wardley-mapping/)  -绿色网络基金会.  2019年3月20日.
 - [UN Global Platform - Handbook on Information Technology Strategy](https://marketplace.officialstatistics.org/un-global-platform-handbook-on-information-technology-strategy)  -使用Wardley Maps预测您的未来，了解哪种策略最适合开发和交付信息管理系统，从而涵盖您的IT策略的开发. 下载 [Wardley map source files](https://marketplace.officialstatistics.org/template-wardley-maps) 用于创建《 IT战略手册》.  2019年3月13日.
 - [UN Privacy Preserving Techniques Handbook](https://marketplace.officialstatistics.org/privacy-preserving-techniques-handbook)  -两个用例：使NSO能够访问（敏感）大数据的新来源； 并跨多个NSO启用大数据协作. 下载 [Wardley maps slide deck](https://docs.google.com/presentation/d/1hIcTcwp7SEnh3SEfRCiJ7SDPZGeFRWLhzHYDDkSfKTc) .  2019年3月12日.
+- [The Art of Strategy](https://erik-schon.medium.com/the-art-of-strategy-811c00a96fad)  -沃德利精选地图集映射示例.  2019年3月6日至今
 - [Burja Mapping](https://medium.com/@tasshin/why-map-power-e97969527d57)  -将萨莫·巴贾（Samo Burja）的帝国理论与类似于西蒙·沃德利（Simon Wardley）所倡导的地图形式相结合.  2019年1月2日.
 - [Research heresies](https://www.myddelton.co.uk/blog/research-heresies)  -考虑用户需求和用户研究的三种方式，以及Wardley地图如何帮助我们考虑在哪里进行用户研究.  2018年11月2日.
 - [What is an expert?](https://swardley.medium.com/what-is-an-expert-886274b2c1aa) -2018年10月31日.
@@ -117,7 +118,7 @@
 ## Research Papers
 
 - [Building Situational Awareness in the Age of Service Ecosystems](https://aisel.aisnet.org/ecis2019_rp/178/)  -Pujadas，R; 汤普森，男；  W，Venters； 等.  2019年3月.
-- [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper)  -Leading Edge论坛发布的一系列立场文件.  2018年6月13日至2019年1月28日.
+- [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
 ## Apps
 
@@ -158,7 +159,7 @@
 
 ## Events
 
-- [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) - A free all-day online event on October 13, 2020.
+- [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) -2020年10月13日全天免费在线活动.
 - [Map Camp](https://www.map-camp.com/) -跟随Map Camp [Twitter](https://twitter.com/map_camp) 和 [LinkedIn](https://www.linkedin.com/company/map-camp/).
 
 ## Workshops
@@ -168,36 +169,33 @@
 
 ## Meetups
 
--澳大利亚
+- 澳大利亚
   - [Melbourne](https://www.meetup.com/Wardley-Mapping-Online-Meetup-AEST-AEDT-timezone/)
--欧洲
-  -比利时
+- 欧洲
+  - 比利时
     - [Antwerp](https://www.meetup.com/Wardley-Mapping-In-Belgium/)
   - 捷克共和国
     - [Prague](https://www.meetup.com/Prague-Mapping-Meetup)
-  -法国
+  - 法国
     - [Paris](https://www.meetup.com/Strategic-Map-Meetup-Paris/)
-  -德国
+  - 德国
     - [Cologne](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/)
     - [Hamburg](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/)
     - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)    
-  -荷兰
+  - 荷兰
     - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
   - 挪威
     - [Oslo](https://www.meetup.com/oslo-wardley-mapping)    
   -塞尔维亚
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
-  -西班牙
+  - 西班牙
     - [Barcelona](https://www.meetup.com/Organizational-Change-BCN-AUS/) -组织变革-沃德利地图
     - [Barcelona](https://www.meetup.com/en-AU/wardley-maps-strategy-meetup-group-by-aktia-solutions/) -沃德利地图策略
-  -瑞士
+  - 瑞士
     - [Basel](https://www.meetup.com/de-DE/Wardley-Mapping-Group-Switzerland/)
-  -英国
+  - 英国
     - [London](https://www.meetup.com/Wardley-Maps-London/)
 - 北美
-  -加拿大
-    -魁北克
-       -蒙特利尔. 通过伸出手 [mapcamp.slack.com](https://mapcamp.slack.com/) in the #canada channel, we don't have an official meetup group yet.
   - 美国
     -加利福尼亚
       - [San Diego](https://www.meetup.com/San-Diego-Business-Strategy-Meetup-Group/)
