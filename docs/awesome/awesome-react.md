@@ -141,7 +141,7 @@
 
 ##### React Component Libraries
 
-- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快更轻松地进行Web开发
+- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
 - [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
 - [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
 - [Fluent UI](https://github.com/microsoft/fluentui) -一组用于构建Microsoft Web体验的React组件
@@ -158,7 +158,7 @@
 - [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2) -Atlassian的官方UI库，根据Atlassian设计指南构建.
 - [baseweb](https://github.com/uber/baseweb) -基础Web是启动，发展和统一Web产品的基础.
 - [primereact](https://github.com/primefaces/primereact) -一个用于React的完整UI框架，其中包含50多个具有材质，引导程序和自定义主题的组件.
-- [react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
+- [react-bulma-components](https://github.com/couds/react-bulma-components) -Bulma框架的React组件
 - [react-bulma](https://github.com/kulakowka/react-bulma) -基于Flexbox的现代CSS框架的React.js组件
 - [rbx](https://github.com/dfee/rbx) -React的综合Bulma UI框架
 - [trunx](https://github.com/fibo/trunx) -超级赛亚人React组件，真棒布尔玛之子，以TypeScript实现
@@ -169,6 +169,7 @@
 - [bugbag react ui kit](https://bumbag.style/) -Bumbag是一个友好的React UI套件，适用于MVP或大规模应用.
 - [ring-ui](https://github.com/JetBrains/ring-ui) -JetBrains Web UI组件
 - [ChatUI](https://github.com/alibaba/ChatUI) -会话UI的UI设计语言和React库
+- [react-spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) - Adobe's collection of libraries and tools that help you build adaptive, accessible, and robust user experiences
 
 ##### React Awesome Components
 
@@ -248,7 +249,7 @@
 - [react-i13n](https://github.com/yahoo/react-i13n) -高性能，可扩展和可插拔的方法来检测您的React应用程序
 - [react-icons](https://github.com/gorangajic/react-icons) -svg反应常用图标包的图标
 - [react-open-doodles](https://github.com/lunahq/react-open-doodles) -很棒的免费插图作为反应成分.
-- [Keo](https://github.com/Wildhoney/Keo) -普通函数，用于创建React组件的更具功能性的Deku方法，并具有管道，备忘录等功能性功能
+- [Keo](https://github.com/Wildhoney/Keo) -普通函数，用于创建React组件的更具功能性的Deku方法，并具有管道，备忘录等功能性功能.
 - [Bit](https://github.com/teambit/bit) -虚拟仓库，用于跨应用程序管理和使用React和其他Web组件
 - [AtlasKit](https://atlaskit.atlassian.com/) -Atlassian的React UI库
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) -Elasticsearch的UI组件库
@@ -270,6 +271,8 @@
 - [react-esi](https://github.com/dunglas/react-esi) -反应边缘侧包括
 - [hookstate](https://github.com/avkonst/hookstate) -基于钩子的React的现代，非常快速和可扩展的状态管理
 - [universal-model-react](https://github.com/universal-model/universal-model-react) -React的统一状态管理解决方案
+- [react-aria](https://react-spectrum.adobe.com/react-aria/index.html) -Adobe的React Hooks库，可为您的设计系统提供可访问的UI原语
+- [react-uploady](https://github.com/rpldy/react-uploady) -用于React的现代文件上传组件和挂钩.
 
 ##### React Integration
 
@@ -353,6 +356,7 @@
 - [react-nil](https://github.com/pmndrs/react-nil) -React null渲染器
 - [React PDF](https://github.com/diegomura/react-pdf) -使用React创建PDF文件
 - [React Hardware](https://github.com/iamdustan/react-hardware) -硬件的React渲染器
+- [remotion](https://github.com/JonnyBurger/remotion) -在React中创建运动图形
 
 ##### Forms
 

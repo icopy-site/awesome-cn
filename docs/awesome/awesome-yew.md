@@ -8,7 +8,7 @@
 
 [Yew](https://github.com/yewstack/yew) 是受Elm和React启发的现代Rust框架，用于使用WebAssembly创建多线程前端应用程序.
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/jetli/awesome-yew/blob/master/CONTRIBUTING.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/jetli/awesome-yew/blob/master/CONTRIBUTING.md) 第一的.
 
 
 
@@ -20,6 +20,7 @@
 - [API Docs](https://docs.rs/yew) -docs.rs上的文档.
 - [Website](https://yew.rs/) - 官方网站.
 - [Chatroom](https://discord.gg/VQck8X4) -非常活跃，是提问的好地方.
+- [Reddit](https://www.reddit.com/r/yew_web/) -专用Sub Reddit.
 - [Financial Contribute](https://opencollective.com/yew) -成为财务贡献者，并帮助我们维持我们的社区.
 - [Yewtify](https://github.com/yewstack/yewtify) -为Yew框架提供Vuetify组件.
 
@@ -47,7 +48,7 @@
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) -颇有建树的样板，可用于使用Rust创建全栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) -在此Rust / Yew / WebAssembly应用中练习识别和弦.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) -使用Rust，Wasm和Yew编写的单页应用程序（SPA）.
-- [DevAndDev](https://github.com/alepez/devand)  -一个网站，开发人员可以在该网站上找到配对编程合作伙伴. 用红豆杉前端写在Rust中.
+- [DevAndDev](https://github.com/alepez/devand)  -一个网站，开发人员可以在该网站上找到配对编程伙伴. 用红豆杉前端写在Rust中.
 - [yew-octicons](https://github.com/io12/yew-octicons) -在Yew项目中使用Octicons的简单界面.
 - [Pipe](https://github.com/pipe-fun/pipe) -这是一个Rust / Wasm客户端Web应用程序，它是一个任务控制中心.
 - [note-to-yew](https://github.com/GalAster/note-to-yew) -在线将您的标记转换为Yew宏，这也是Yew制作的.
@@ -55,6 +56,7 @@
 - [dotdotyew](https://github.com/shaunbennett/dotdotyew) - [Dot-voting](https://en.wikipedia.org/wiki/Dot-voting) 使用Yew，Rust为后端API提供支持.
 - [wasm-2048](https://github.com/dev-family/wasm-2048) -用Rust和Yew实现的2048游戏并编译为Wasm.
 - [website-wasm](https://github.com/kamiyaa/website-wasm) -我通过Yew / Wasm用Rust编写的个人网站.
+- [KeyPress](https://github.com/rayylee/keypress) -Rust WebAssembly网站示例，用于为中文练习英语.
 
 ## Templates
 
@@ -85,7 +87,7 @@
 
 - [yew-state](https://github.com/intendednull/yew-state) -Yew组件的人体工程学共享状态，以及可选的持久性本地和会话存储.
 - [reacty_yew](https://github.com/hobofan/reacty_yew) -通过Typescript类型定义从React组件生成Yew组件.
-- [styled-yew](https://github.com/IcyDefiance/styled-yew) -Rust中的CSS，类似于样式组件，但适用于Yew.
+- [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
 
 ### Wasm
 
@@ -96,8 +98,8 @@
 
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) -您最喜欢的Rust-&gt; WebAssembly工作流程工具.
 - [wasm-pack-action](https://github.com/jetli/wasm-pack-action) -Github动作，通过下载可执行文件以加速CI / CD来安装“ wasm-pack”.
-- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) -Github动作，通过下载可执行文件来安装`wasm-bindgen`，以加速CI / CD.
-- [cargo-web](https://github.com/koute/cargo-web) - A Cargo subcommand for the client-side Web.
+- [wasm-bindgen-action](https://github.com/jetli/wasm-bindgen-action) -Github动作，通过下载可执行文件来安装`wasm-bindgen`，以加快CI / CD的速度.
+- [cargo-web](https://github.com/koute/cargo-web) -客户端Web的Cargo子命令.
 - [Trunk](https://github.com/thedodd/trunk) -构建，捆绑并将Rust Wasm应用程序发送到Web.
 - [wabt](https://github.com/WebAssembly/wabt) -WebAssembly Binary Toolkit，用于`wasm-strip`和`wasm-objdump`工具，以减少.wasm文件的大小.
 - [binaryen](https://github.com/WebAssembly/binaryen) -WebAssembly的编译器基础结构和工具链库，用于减小.wasm文件大小的`wasm-opt`工具.

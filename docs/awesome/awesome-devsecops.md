@@ -57,7 +57,7 @@
 
 ### Toolchains
 
-- [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/) -_XebiaLabs_-按工具功能分类的DevSDevOps和安全ecOps工具集合.
+- [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/) -_XebiaLabs_-按工具功能分类的DevSecOps工具集合.
 - [Secure DevOps Toolchain](https://www.sans.org/security-resources/posters/secure-devops-toolchain-swat-checklist/60/download) -_SANS_-特定于安全性的实践和工具的列表，分为管道阶段和工具功能.
 
 ### Training
@@ -85,14 +85,14 @@
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) -_OWASP_-使用CLI或构建服务器插件扫描依赖项，以查找公开披露的漏洞.
 - [Dependency-Track](https://dependencytrack.org/) -_OWASP_-随时间监视多个项目中易受攻击的依赖项的数量和严重性.
 - [JFrog XRay](https://jfrog.com/xray/) -_JFrog_-对JFrog Artifactory中存储的工件的安全性和合规性分析.
-- [NPM Audit](https://docs.npmjs.com/cli/audit) -_NPM_-npm CLI中内置的节点程序包的漏洞程序包审核.
+- [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
 - [Renovate](https://renovate.whitesourcesoftware.com/) -_WhiteSource_-使用CLI或git仓库应用程序自动监视和更新多种框架和语言的软件依赖关系.
 - [Requires.io](https://requires.io/) -_Olivier Mansion和Alexis Tabary_-针对Python项目的自动化漏洞依赖项监视和升级.
 - [Snyk Open Source](https://snyk.io/) -_Snyk_-使用Snyk的专用漏洞数据库自动进行漏洞依赖项监视和升级.
 
 ### Dynamic Analysis
 
-Dynamic Analysis Security Testing (DAST) is a form of black-box security testing where a security scanner interacts with a running instance of an application, emulating malicious activity to find common vulnerabilities. DAST tools are commonly used in the initial phases of a penetration test, and can find vulnerabilities such as cross-site scripting, SQL injection, cross-site request forgery and information disclosure.
+动态分析安全测试（DAST）是黑盒安全测试的一种形式，其中安全扫描程序与正在运行的应用程序实例进行交互，以模拟恶意活动以查找常见漏洞.  DAST工具通常用于渗透测试的初始阶段，并且可以发现漏洞，例如跨站点脚本，SQL注入，跨站点请求伪造和信息泄露.
 
 - [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) -_Imperva_-根据API规范对API执行自动安全扫描.
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) -_PortSwigger_-BurpSuite的Web应用程序漏洞扫描程序已由渗透测试人员广泛使用，并通过CI / CD集成进行了修改，并可以持续监控多个Web应用程序.

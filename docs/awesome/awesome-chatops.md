@@ -56,7 +56,6 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ## Services
 
-* [WorkflowCI](https://www.workflowci.com)  –针对开发人员的IFTTT（免费）. 与Slack，GitHub，CircleCI，Google Cloud Build集成.
 * [AWS ChatBot](https://aws.amazon.com/chatbot/) -用于监视Slack中的AWS资源并与之交互的交互式代理.
 
 ## Frameworks and libraries
@@ -70,8 +69,8 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ### Campfire
 
-* [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/err-backend-campfire) （蟒蛇）
-* [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/campfire.html) （走）
+* [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/err-backend-campfire) （Python）
+* [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/campfire.html) （去）
 * [Hubot](https://hubot.github.com/) + [adapter](https://hubot.github.com/docs/adapters/campfire/) （CoffeeScript，Node.js）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/josacar/lita-campfire) （红宝石）
 
@@ -87,7 +86,7 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 ### Discord
 
 * [Discordrb](https://github.com/meew0/discordrb) （红宝石）
-* [Errbot](http://errbot.io/) + [adapter](https://github.com/gbin/err-backend-discord) （蟒蛇）
+* [Errbot](http://errbot.io/) + [adapter](https://github.com/gbin/err-backend-discord) （Python）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/kyleboe/lita-discord) （红宝石）
 
 ### Facebook Messenger
@@ -96,7 +95,7 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 * [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) （红宝石）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/ClaudeBot/hubot-messenger-bot) （CoffeeScript，Node.js）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/ASoftCo/lita-facebook) （红宝石）
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-facebook) （蟒蛇）
+* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-facebook) （Python）
 
 ### Fleep
 
@@ -109,21 +108,21 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ### Gitter
 
-* [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/err-backend-gitter) （蟒蛇）
+* [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/err-backend-gitter) （Python）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/huafu/hubot-gitter2) （CoffeeScript，Node.js）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/braiden-vasco/lita-gitter) （红宝石）
 
 ### HipChat
 
 * [Cog](https://operable.io/) （任何语言）
-* [Errbot](http://errbot.io/) （蟒蛇）
-* [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/hipchat.html) （走）
+* [Errbot](http://errbot.io/) （Python）
+* [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/hipchat.html) （去）
 * [Hipbot](https://github.com/pewniak747/hipbot) （红宝石）
 * [Hipchat](https://github.com/daneharrigan/hipchat) 通过XMPP（Go）
 * [Hipchat-go](https://github.com/tbruyelle/hipchat-go) 通过HipChat API v2（Go）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/hipchat/hubot-hipchat) （CoffeeScript，Node.js）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-hipchat) （红宝石）
-* [Will](https://skoczen.github.io/will/) （蟒蛇）
+* [Will](https://skoczen.github.io/will/) （Python）
 
 ### Idobata
 
@@ -136,8 +135,8 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 ### IRC
 
 * [Cinch](https://github.com/cinchrb/cinch) （红宝石）
-* [Errbot](http://errbot.io/) （蟒蛇）
-* [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/irc.html) （走）
+* [Errbot](http://errbot.io/) （Python）
+* [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/irc.html) （去）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/nandub/hubot-irc) （CoffeeScript，Node.js）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-irc) （红宝石）
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) （红宝石）
@@ -157,11 +156,11 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ### Matrix
 
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-matrix) （蟒蛇）
+* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-matrix) （Python）
 
 ### Mattermost
 
-* [Errbot](http://errbot.io) + [adapter](https://github.com/Vaelor/errbot-mattermost-backend) （蟒蛇）
+* [Errbot](http://errbot.io) + [adapter](https://github.com/Vaelor/errbot-mattermost-backend) （Python）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/renanvicente/hubot-mattermost) （CoffeeScript，Node.js）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/loafoe/hubot-matteruser) 通过Websockets（CoffeeScript，Node.js）
 
@@ -175,12 +174,12 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ### Rocket.Chat
 
-* [Errbot](http://errbot.io) + [adapter](https://github.com/AoiKuiyuyou/AoikRocketChatErrbot) （蟒蛇）
+* [Errbot](http://errbot.io) + [adapter](https://github.com/AoiKuiyuyou/AoikRocketChatErrbot) （Python）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/RocketChat/hubot-rocketchat) （CoffeeScript，Node.js）
 
 ### Skype
 
-* [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/errbot-backend-skype) （蟒蛇）
+* [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/errbot-backend-skype) （Python）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/netpro2k/hubot-skype) （CoffeeScript，Node.js）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/sdimkov/hubot-skype-web) 通过Web（CoffeeScript，Node.js）
 
@@ -194,13 +193,13 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 * [Bolt](https://slack.dev/bolt/concepts) （JavaScript，Node.js）
 * [Cog](https://operable.io/) （任何语言）
 * [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) （长生不老药）
-* [Errbot](http://errbot.io/) （蟒蛇）
-* [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/slack.html) （走）
+* [Errbot](http://errbot.io/) （Python）
+* [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/slack.html) （去）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/slackhq/hubot-slack) （CoffeeScript，Node.js）
 * [Jubot](https://github.com/liquidz/jubot) （Clojure）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/litaio/lita-slack) （红宝石）
 * [Multivac](https://github.com/vektorlab/multivac) （Python，Docker）
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-slack) （蟒蛇）
+* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-slack) （Python）
 * [PagerBot](https://github.com/stripe-contrib/pagerbot) （红宝石）
 * [PoshBot](https://github.com/poshbotio/PoshBot) （电源外壳）
 * [Slack-Ruby-Bot](https://github.com/dblock/slack-ruby-bot) （红宝石）
@@ -210,7 +209,7 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ### Spark
 
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-ciscospark) （蟒蛇）
+* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-ciscospark) （Python）
 
 ### Talker
 
@@ -218,17 +217,17 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ### Telegram
 
-* [Errbot](http://errbot.io/) （蟒蛇）
+* [Errbot](http://errbot.io/) （Python）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/lukefx/hubot-telegram) （CoffeeScript，Node.js）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/wonderbread/lita-telegram) （红宝石）
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-telegram) （蟒蛇）
+* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-telegram) （Python）
 * [Telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) （红宝石）
 * [TelegramBot](https://github.com/hangyas/TelegramBot) （水晶）
 * [TelegramBot](https://github.com/eljojo/telegram_bot) （红宝石）
 
 ### Tox
 
-* [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/err-backend-tox) （蟒蛇）
+* [Errbot](http://errbot.io/) + [adapter](https://github.com/errbotio/err-backend-tox) （Python）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/braiden-vasco/lita-tox) （红宝石）
 
 ### Twilio
@@ -242,7 +241,7 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 * [Chatterbot](https://muffinista.github.io/chatterbot/) （红宝石）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/MathildeLemee/hubot-twitter) （CoffeeScript，Node.js）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/fukayatsu/lita-twitter) （红宝石）
-* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-twitter) （蟒蛇）
+* [opsdroid](https://opsdroid.github.io/) + [connector](https://github.com/opsdroid/connector-twitter) （Python）
 
 ### Typetalk
 
@@ -258,7 +257,7 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ### Vkontakte
 
-* [Errbot](http://errbot.io) + [adapter](https://github.com/Ax3Effect/errbot-vk) （蟒蛇）
+* [Errbot](http://errbot.io) + [adapter](https://github.com/Ax3Effect/errbot-vk) （Python）
 * [Lita](https://www.lita.io/) + [adapter](https://github.com/braiden-vasco/lita-vkontakte) （红宝石）
 
 ### WeChat
@@ -267,7 +266,7 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ### XMPP / Jabber
 
-* [Errbot](http://errbot.io/) （蟒蛇）
+* [Errbot](http://errbot.io/) （Python）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/markstory/hubot-xmpp) （CoffeeScript，Node.js）
 * [Jabberjay](https://github.com/vbauer/jabberjay) （Clojure）
 
@@ -277,7 +276,7 @@ ChatOps是一种协作模型，可帮助将人员，流程，工具和自动化�
 
 ### Zulip
 
-* [Errbot](http://errbot.io/) + [adapter](https://github.com/zulip/errbot-backend-zulip) （蟒蛇）
+* [Errbot](http://errbot.io/) + [adapter](https://github.com/zulip/errbot-backend-zulip) （Python）
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/zulip/hubot-zulip) （CoffeeScript，Node.js）
 
 ---

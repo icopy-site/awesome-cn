@@ -155,6 +155,8 @@ them.
   （Python，麻省理工学院， [GitHub](https://github.com/marcomusy/vedo))
 - [yt](https://yt-project.org/) -用于分析和可视化体积数据的工具包.
   （Python，BSD， [GitHub](https://github.com/yt-project/yt))
+- [F3D](https://kitware.github.io/F3D/) -带有科学可视化工具的跨平台，快速，简约的3D查看器.
+  （C ++，BSD， [GitLab](https://gitlab.kitware.com/f3d/f3d))
 
 ## Other libraries and tools
 

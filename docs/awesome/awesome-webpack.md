@@ -13,7 +13,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 &gt;精选的Webpack资源，库，工具和应用程序的精选列表
 
-受启发 [awesome](https://github.com/sindresorhus/awesome) 清单. 随时通过以下方式改进此列表 [contributing](https://github.com/webpack-contrib/awesome-webpack/blob/master/contributing.md)!
+受启发 [awesome](https://github.com/sindresorhus/awesome) 列表. 随时通过以下方式改进此列表 [contributing](https://github.com/webpack-contrib/awesome-webpack/blob/master/contributing.md)!
 <!--lint disable list-item-indent-->
 
 
@@ -43,7 +43,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 *对Webpack充满热情的人（无特定顺序）*
 
-- [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn) TPM [Microsoft](https://twitter.com/MSEdgeDev). Developer Advocate and webpack core team member.
+- [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn) TPM [Microsoft](https://twitter.com/MSEdgeDev) . 开发者倡导者和webpack核心团队成员.
 - [Juho Vepsäläinen - @bebraw](https://twitter.com/bebraw) 从 [SurviveJS](https://twitter.com/survivejs) 和webpack核心团队成员.
 - [Eric Clemmons - @ericclemmons](https://twitter.com/ericclemmons) 的软件开发副总裁 [HigherEdHQ](https://twitter.com/HigherEdHQ) .  Webpack成员.
 - [Patrick Stapleton - @gdi2290](https://twitter.com/gdi2290) 从 [AngularClass](https://angularclass.com), [AngularAir](https://angularair.com) 和 [Angular Universal](https://github.com/angular/universal) .  Webpack成员.
@@ -81,7 +81,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 - [Angular2 Template Loader](https://github.com/TheLarkInn/angular2-template-loader) ：在Angular2组件中内嵌html和样式.  -* Maintainer *：`Sean Larkin` [！[Github] [githubicon]]（https://github.com/TheLarkInn）[！[Twitter] [twittericon]]（https://twitter.com/TheLarkInn）
 - [Handlebars Loader](https://github.com/pcardune/handlebars-loader) ：Webpack的车把模板加载器.  -* Maintainer *：`Paul Carduner` [！[Github] [githubicon]]（https://github.com/pcardune）[！[Twitter] [twittericon]]（https://twitter.com/pcardune）
-- [Vue Loader](https://github.com/vuejs/vue-loader) ：用于Vue.js组件的Webpack加载程序.  -* Maintainer *：`Vuejs Team` [！[Github] [githubicon]]（https://github.com/vuejs）[！[Twitter] [twittericon]]（https://twitter.com/vuejs）
+- [Vue Loader](https://github.com/vuejs/vue-loader) ：用于Vue.js组件的Webpack加载器.  -* Maintainer *：`Vuejs Team` [！[Github] [githubicon]]（https://github.com/vuejs）[！[Twitter] [twittericon]]（https://twitter.com/vuejs）
 - [SVG React Loader](https://github.com/jhamlet/svg-react-loader)  -Webpack SVG到React Component Loader.  -* Maintainer *：`Jerry Hamlet` [！[Github] [githubicon]]（https://github.com/jhamlet）[！[Twitter] [twittericon]]（https://twitter.com/jerryhamlet）
 - [Underscore Loader](https://github.com/emaphp/underscore-template-loader)  -下划线和Lodash模板加载器.  -* Maintainer *：`Emmanuel Antico` [！[Github] [githubicon]]（https://github.com/emaphp）[！[Twitter] [twittericon]]（https://twitter.com/emaphp）
 - [ngTemplate Loader](https://github.com/WearyMonkey/ngtemplate-loader)  -Angular1模板加载器.  -* Maintainer *：`Toby Rahilly` [！[Github] [githubicon]]（https://github.com/WearyMonkey）
@@ -98,7 +98,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 - [Style Loader](https://github.com/webpack/style-loader) ：Webpack的样式加载器模块.  -* Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [PostCSS Loader](https://github.com/postcss/postcss-loader) ：用于Webpack的PostCSS加载程序.  -* Maintainer *：`PostCSS Team` [！[Github] [githubicon]]（https://github.com/postcss）[！[Twitter] [twittericon]]（https://twitter.com/PostCSS）
-- [CSS Loader](https://github.com/webpack/css-loader) ：用于Webpack的CSS加载器模块.  -* Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
+- [CSS Loader](https://github.com/webpack/css-loader): CSS loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [SASS Loader](https://github.com/jtangelder/sass-loader) ：用于Webpack的SASS加载程序.  -* Maintainer *：`Jorik Tangelder` [！[Github] [githubicon]]（https://github.com/jtangelder）[！[Twitter] [twittericon]]（https://twitter.com/jorikdelaporik）
 - [Less Loader](https://github.com/webpack/less-loader) ：更少的Webpack加载程序模块.  -* Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Stylus Loader](https://github.com/shama/stylus-loader) ：用于Webpack的手写笔加载器.  -* Maintainer *：`Kyle Robinson Young` [！[Github] [githubicon]]（https://github.com/shama）[！[Twitter] [twittericon]]（https://twitter.com/shamakry ）
@@ -135,6 +135,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Lingui Loader](https://github.com/lingui/js-lingui/tree/master/packages/loader) -为jsLingui，i18n库即时编译消息目录-* Maintainer *：`TomášEhrlich` [！[Github] [githubicon]]（https://github.com/tricoder42）[！[Twitter] [twittericon] ]（https://twitter.com/tomas_ehrlich）
 - [Shell Loader](https://github.com/localjo/shell-loader)  -在源文件上运行任意的Shell脚本.  -* Maintainer *：`Jo Sprague` [！[Github] [githubicon]]（https://github.com/localjo）
 - [EXIF Loader](https://github.com/herschel666/exif-loader)  -在构建期间从JPG提取EXIF和IPTC数据.  -* Maintainer *：`Emanuel Kluge` [！[Github] [githubicon]]（https://github.com/herschel666/exif-loader）[！[Twitter] [twittericon]]（https：// twitter. com / herschel_r）
+- [esbuild Loader](https://github.com/privatenumber/esbuild-loader) -由Babel装载机，ts装载机和Terser提供动力的快速替代品 [esbuild](https://github.com/evanw/esbuild) .  -* Maintainer *：`Hiroki Osame` [！[Github] [githubicon]]（https://github.com/privatenumber/esbuild-loader）[！[Twitter] [twittericon]]（https：// twitter. com / privatenumbr）
 
 #### Testing
 
@@ -149,7 +150,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Terse Webpack](https://github.com/ericclemmons/terse-webpack)  -在带有预设的流利API中简化了Webpack.  -* Maintainer *：`Eric Clemmons` [！[Github] [githubicon]]（https://github.com/ericclemmons）[！[Twitter] [twittericon]]（https://twitter.com/ericclemmons）
 - [SystemJS Webpack](https://github.com/guybedford/systemjs-webpack-plugin)  -用于SystemJS的Webpack捆绑.  -* Maintainer *：`Guy Bedford` [！[Github] [githubicon]]（https://github.com/guybedford）[！[Twitter] [twittericon]]（https://twitter.com/guybedford）
 - [Gulp Webpack Stream](https://github.com/shama/webpack-stream)  -通过流界面运行webpack.  -* Maintainer *：`Kyle Robinson Young` [！[Github] [githubicon]]（https://github.com/shama）[！[Twitter] [twittericon]]（https://twitter.com/shamakry ）
-- [Webpack Blocks](https://github.com/andywer/webpack-blocks) - Configure webpack using functional feature blocks.  -- *Maintainer*: `Andy Wermke` [![Github][githubicon]](https://github.com/andywer) [![Twitter][twittericon]](https://twitter.com/andywritescode)
+- [Webpack Blocks](https://github.com/andywer/webpack-blocks)  -使用功能块配置webpack.  -* Maintainer *：`Andy Wermke` [！[Github] [githubicon]]（https://github.com/andywer）[！[Twitter] [twittericon]]（https://twitter.com/andywritescode）
 - [Webpacker](https://github.com/rails/webpacker)  -官方webpack宝石，可集成到rails项目中的ruby中.  -* Maintainer *：`Rails` [！[Github] [githubicon]]（https://github.com/rails）
 - [WebpackAspnetMiddleware](https://github.com/frankwallis/WebpackAspnetMiddleware) -ASP.NET 5的开发中间件.-* Maintainer *：`Frank Wallis` [！[Github] [githubicon]]（https://github.com/frankwallis）
 - [Consul Key/Value Webpack](https://github.com/marlonmleite/consul-env-webpack-plugin)：通过以下方式将环境变量编译到您的包中 [Consul KV-store](https://www.consul.io/api/kv.html) .  -* Maintainer *：`Marlon Maxwel` [！[Github] [githubicon]]（https://github.com/marlonmleite）
@@ -161,7 +162,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [DefinePlugin](https://webpack.js.org/plugins/define-plugin/) ：创建可以在编译时配置的全局常量.  -* Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Compression Plugin](https://github.com/webpack/compression-webpack-plugin) ：准备资产以使用Content-Encoding.  -* Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Offline Plugin](https://github.com/NekR/offline-plugin) ：Webpack的脱机插件（ServiceWorker，AppCache）.  -* Maintainer *：`Arthur Stolyar` [！[Github] [githubicon]]（https://github.com/NekR）[！[Twitter] [twittericon]]（https://twitter.com/nekrtemplar）
-- [Rewire Plugin](https://github.com/jhnns/rewire-webpack): Dependency injection for Webpack bundles. -- *Maintainer*: `Johannes Ewald` [![Github][githubicon]](https://github.com/jhnns) [![Twitter][twittericon]](https://twitter.com/Jhnnns)
+- [Rewire Plugin](https://github.com/jhnns/rewire-webpack) ：Webpack捆绑包的依赖注入.  -* Maintainer *：`Johannes Ewald` [！[Github] [githubicon]]（https://github.com/jhnns）[！[Twitter] [twittericon]]（https://twitter.com/Jhnnns）
 - [HTML Webpack Plugin](https://github.com/ampedandwired/html-webpack-plugin) ：简化HTML文件的创建.  -* Maintainer *：`Jan Nicklas` [！[Github] [githubicon]]（https://github.com/jantimon）[！[Twitter] [twittericon]]（https://twitter.com/jantimon）
 - [Copy Webpack Plugin](https://github.com/kevlened/copy-webpack-plugin) ：复制webpack中的文件和目录.  -* Maintainer *：`Len Boyette` [！[Github] [githubicon]]（https://github.com/kevlened）[！[Twitter] [twittericon]]（https://twitter.com/kevlened）
 - [Split By Path](https://github.com/BohdanTkachenko/webpack-split-by-path) ：按路径拆分Webpack插件.  -* Maintainer *：`Bohdan Tkachenko` [！[Github] [githubicon]]（https://github.com/BohdanTkachenko）[！[Twitter] [twittericon]]（https://twitter.com/bohdantkachenko）
@@ -199,7 +200,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Shell Script Webpack Plugin](https://github.com/drewloomer/hook-shell-script-webpack-plugin) -在以下情况下运行任意shell脚本的插件 [compiler hooks](https://webpack.js.org/api/compiler-hooks/) 被触发.  -* Maintainer *`Drew Loomer` [！[Github] [githubicon]]（https://github.com/drewloomer）[！[Twitter] [twittericon]]（https://twitter.com/drewloomer）
 - [Stylelint Webpack Plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin) ：用于Webpack的Stylelint插件.  -* Maintainer *：`Ricardo Gobbo de Souza` [！[Github] [githubicon]]（https://github.com/ricardogobbosouza）
 - [ESLint Webpack Plugin](https://github.com/webpack-contrib/eslint-webpack-plugin)：适用于webpack的ESLint插件
- .  -* Maintainer *：`Ricardo Gobbo de Souza` [！[Github] [githubicon]]（https://github.com/ricardogobbosouza）
+. -- *Maintainer*: `Ricardo Gobbo de Souza` [![Github][githubicon]](https://github.com/ricardogobbosouza)
 - [Webpack Shell Plugin Next](https://github.com/s00d/webpack-shell-plugin-next) ：插件允许您在Webpack构建之前或之后运行任何Shell命令.  -* Maintainer *：`Kuzmin Pavel` [！[Github] [githubicon]]（https://github.com/s00d）
 - [Gettext Webpack Plugin](https://github.com/juanluispaz/gettext-webpack-plugin) ：使用gettext将本地化嵌入包中.  -* Maintainer *：`Juan Luis Paz` [！[Github] [githubicon]]（https://github.com/juanluispaz）
 - [Node Polyfill Plugin](https://github.com/Richienb/node-polyfill-webpack-plugin) ：Polyfill Node.js核心模块.  -* Maintainer *：`Richie Bendall` [！[Github] [githubicon]]（https://github.com/Richienb）[！[Twitter] [twittericon]]（https://twitter.com/Richienb2）
@@ -277,7 +278,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 - [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/) -使用Webpack解决常见的Web性能问题 [Sean Larkin](https://twitter.com/thelarkinn)
 - [Intro to webpack (playlist)](https://egghead.io/playlists/intro-to-webpack-4ca2d994) -Egghead.io播放的一些视频的播放列表 [Kent C. Dodds](https://twitter.com/kentcdodds) （第一个是免费的）.
 - [Angular and Webpack for modular applications](https://egghead.io/courses/angular-and-webpack-for-modular-applications) -Egghead.io课程 [Kent C. Dodds](https://twitter.com/kentcdodds)
-- [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications) -Egghead.io课程 [Kent C. Dodds](https://twitter.com/kentcdodds) （高级）
+- [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications) -Egghead.io课程 [Kent C. Dodds](https://twitter.com/kentcdodds) （先进的）
 - [Webpack Fundamentals](https://www.pluralsight.com/courses/webpack-fundamentals) - [Joe Eames](https://twitter.com/josepheames) 适用于Pluralsight（中级）
 - [Webpack Academy](https://webpack.academy) -全面的webpack学习资源.
 - [Webpack workshops](https://slashgear.github.io/webpack-workshop/) -Antoine Caron收集了从新手到高级水平的Webpack课程
@@ -311,8 +312,8 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 
 - [Create React App](https://github.com/facebookincubator/create-react-app) -创建没有构建配置的React应用 [Dan Abramov](https://github.com/gaearon).
 - [React Starter Kit](https://github.com/kriasoft/react-starter-kit) -来自的同构Web应用样板 [Kriasoft Team](https://github.com/kriasoft).
-- [React Redux Universal](https://github.com/erikras/react-redux-universal-hot-example) -通用Web应用程序的入门样板来自 [Erik Rasmussen](https://github.com/erikras).
-- [Frontend Boilerplate](https://github.com/tj/frontend-boilerplate) -大部分不应该存在的事物的样板 [TJ Holowaychuk](https://github.com/tj).
+- [React Redux Universal](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp from [Erik Rasmussen](https://github.com/erikras).
+- [Frontend Boilerplate](https://github.com/tj/frontend-boilerplate) - A boilerplate of things that mostly shouldn't exist from [TJ Holowaychuk](https://github.com/tj).
 - [ReactGo](https://github.com/reactGo/reactGo) -您的一站式全栈通用Redux解决方案 [Ken Ding](https://github.com/choonkending).
 - [React Native Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) -具有相同代码的移动，桌面和网站应用 [Benoit Vallon](https://github.com/benoitvallon).
 - [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) -来自的Cordova的React的TodoMVC示例 [Yuval Saraf](https://github.com/unimonkiez).
@@ -328,7 +329,7 @@ webpack接收具有依赖性的模块，并生成代表这些模块的静态资�
 ### Other
 
 - [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) 播客
-- [Webpack interview questions](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
+- [Webpack interview questions](https://github.com/styopdev/webpack-interview-questions) -面试问题和答案.
 - [Visual config tool for webpack](https://webpack.jakoblind.no) -用于在浏览器中创建Webpack配置的可视化工具
 
 

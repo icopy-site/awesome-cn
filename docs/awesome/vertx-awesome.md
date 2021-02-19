@@ -5,7 +5,7 @@
 [<img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-logo.svg?sanitize=true" align="right" width="250">](http://vertx.io)
 
 * Awesome Vert.x *是一系列令人敬畏的框架，库或其他组件，它们可以一起使用或
-[Vert.x](https://github.com/eclipse/vert.x) 版.
+[Vert.x](https://github.com/eclipse/vert.x) 版本.
 
 如果要在此处显示组件，请向该存储库发送拉取请求以添加它.
 
@@ -86,11 +86,11 @@
   * [jEaSSE](https://github.com/mariomac/jeasse)  -Java Easy SSE.  SSE的简单，轻量级实现.
   * [vertx-sse](https://github.com/aesteve/vertx-sse) -Vert.x SSE实现+事件总线SSE桥.
 
-*邮件
+* 邮件
   * [SMTP](https://github.com/vert-x3/vertx-mail-client) <img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/vertx-favicon.svg?sanitize=true" alt="(stack)" title="Vert.x Stack" height="16px"> -异步SMTP客户端.
   * [vertx-smtp-server](https://github.com/cinterloper/vertx-smtp-server) -桥接到EventBus的SMTP服务器.
 
-*休息
+* 休息
   * [Vert.x REST Client](https://github.com/hubrick/vertx-rest-client) -Vert.x的REST客户端，支持RxJava和请求缓存.
   * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) -用于Vert.x改造的高度可扩展适配器.
   * [openapi4j adapter for Vert.x](https://github.com/openapi4j/openapi4j/tree/master/openapi-operation-adapters/openapi-operation-vertx) -OpenAPI 3请求验证器和路由器工厂替代品.
@@ -119,7 +119,7 @@
   * [Weld](https://github.com/weld/weld-vertx) -将CDI编程模型引入Vert.x生态系统（将CDI观察者方法注册为Vert.x消息使用者，CDI支持的Verticles，以声明的方式定义路由等）.
 
 *流星
-  * [Meteor](https://github.com/jmusacchio/vertxbus/) -通过Vert.x事件总线的流星集成支持.
+  * [Meteor](https://github.com/jmusacchio/vertxbus/) - Meteor integration support through Vert.x event bus.
 
 *指标
   * [Hawkular metrics](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) Vert.x Metrics SPI的实现.
@@ -195,7 +195,7 @@
 * Vert.x集群管理器SPI的实现*
 
 * [JGroups Cluster Manager](https://github.com/vert-x3/vertx-jgroups) -JGroups集群管理器.
-* [Atomix Cluster Manager](https://github.com/atomix/atomix-vertx) -一个 [Atomix](http://atomix.io) 基于Vert.x 3的群集管理器实现.
+* [Atomix Cluster Manager](https://github.com/atomix/atomix-vertx) - 一个 [Atomix](http://atomix.io) 基于Vert.x 3的群集管理器实现.
 * [Consul Cluster Manager](https://github.com/reactiverse/consul-cluster-manager) -领事群集管理器.
 
 ## Cloud Support
@@ -211,7 +211,7 @@
 * [Vert.x GraphQL Service Discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) 服务发现和查询您的Vert.x微服务.
 * [HTTP Request Multiplexer - Kalfor](https://github.com/derveloper/kalfor)  -将多个HTTP GET请求合并到一个POST中.  Facebook的简单替代品 [GraphQL](http://graphql.org/) 和Netflix [Falcor](http://netflix.github.io/falcor/).
 * [Resilience4j](https://github.com/resilience4j/resilience4j)  -Resilience4j是为Java8和功能编程设计的容错库.  Resilience4j提供用于断路，速率限制，隔离，自动重试，响应缓存和度量标准测量的模块.
-* [Autonomous Services](https://github.com/mikand13/autonomous-services)  -用于创建自主服务的工具包. 利用vert.x和nannoq工具的体系结构可提供基于事件的反应式体系结构，而无需用于通信或数据的集中式组件，从而在整个体系结构上提供了理论上的线性可伸缩性.
+* [Autonomous Services](https://github.com/mikand13/autonomous-services)  -用于创建自主服务的工具包. 利用vert.x和nannoq工具的体系结构可提供基于事件的反应式体系结构，而无需用于通信或数据的集中组件，从而在整个体系结构上提供了理论上线性的可伸缩性.
 * [Apache ServiceComb Java Chassis](https://github.com/apache/servicecomb-java-chassis) -ServiceComb Java Chassis是一个软件开发套件（SDK），用于在Java中快速开发微服务，提供服务注册，服务发现，动态路由和服务管理功能.
 
 ## Search Engines
@@ -253,10 +253,10 @@
 
 * [Vert.x health check](https://github.com/vert-x3/vertx-health-check) -允许在Vert.x项目中进行远程运行状况检查.
 * [Vert.x Hot](https://github.com/dazraf/vertx-hot) -一个用于Maven Vert.x项目热部署的Maven插件.
-* [slush-vertx](https://www.npmjs.com/package/slush-vertx) -模板驱动的Vert.x项目生成器，用于不同的语言和构建工具.
+* [slush-vertx](https://www.npmjs.com/package/slush-vertx) - A template driven Vert.x project generator for different languages and build tools.
 * [Vert.x for Visual Studio Code](https://github.com/pmlopes/VertxSnippet)  -用于Vert.x的Visual Studio代码（多语言）插件. 也可以从 [Marketplace](https://marketplace.visualstudio.com/items?itemName=pmlopes.vertxsnippet).
 * [Vert.x Starter](http://www.jetdrone.xyz/vertx-starter/) -基于浏览器的Vert.x应用程序的项目启动器和项目模板.
-* [Vert.x LiveReload](https://github.com/ybonnel/vertx-livereload) - A simple livereload server for Vert.x applications.
+* [Vert.x LiveReload](https://github.com/ybonnel/vertx-livereload) -用于Vert.x应用程序的简单livereload服务器.
 * [openapi-generator](https://github.com/OpenAPITools/openapi-generator) -OpenAPI Generator可以根据给定的OpenAPI规范（v2，v3）自动生成API客户端库（SDK生成），服务器存根，文档和配置.
 
 ## Miscellaneous
@@ -286,7 +286,7 @@
 * [Crabzilla](https://github.com/crabzilla/crabzilla)  -另一个事件来源实验. 一个探索Vert.x的项目，以开发Event Sourcing / CQRS应用程序.
 * [Vert.x PostgreSQL Starter](https://github.com/BillyYccc/vertx-postgresql-starter) -使用Vert.x堆栈和PostgreSQL构建整体CRUD RESTful Web服务的入门者.
 * [Cloud Foundry](https://github.com/amdelamar/vertx-cloudfoundry) -示例Vert.x，用于部署到 [Cloud Foundry](https://www.cloudfoundry.org/) 服务提供者.
-* [Knative](https://github.com/knative/docs/tree/master/serving/samples/helloworld-vertx) -有关如何使用的示例应用程序 [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) 与 [Knative](https://github.com/knative).
+* [Knative](https://github.com/knative/docs/tree/master/serving/samples/helloworld-vertx) -有关如何使用的示例应用程序 [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) 和 [Knative](https://github.com/knative).
 * [Starter Single Verticle API](https://github.com/jgarciasm/ssv-api) -REST API Starter和Project模板准备就绪，可以使用大量管道代码，示例和文档进行部署，从而几乎无需vert.x即可快速开发API，并且不会浪费任何时间.
 ## Deployment
 
@@ -306,6 +306,7 @@
 * [Vert.x Web Accesslog](https://github.com/romanpierson/vertx-web-accesslog) -只需在Vert.x Web中使用一个简单的处理程序即可生成访问日志.
 * [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) -路由处理程序和Vert.x兼容的接口，用于处理Vert.x和Vert.x Web中的GraphQL查询.
 * [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) -Nannoq-Tools是用于利用Vert.x构建健壮，可扩展和分布式应用程序的工具包，其中包括用于身份验证，集群管理，Firebase Cloud Messaging，DynamoDB，完全通用查询，REST等的模块.
+* [Contextual logging](https://github.com/reactiverse/reactiverse-contextual-logging) -与Vert.x事件循环模型一起使用的映射诊断上下文（MDC）.
 
 ## Presentations
 
@@ -350,4 +351,4 @@
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/vert-x3/vertx-awesome/blob/master/CONTRIBUTING.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/vert-x3/vertx-awesome/blob/master/CONTRIBUTING.md) 第一的.

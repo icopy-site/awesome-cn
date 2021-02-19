@@ -12,13 +12,6 @@ Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser 
 如果您需要搜索此列表，则可以尝试以下出色的网站： [Awesome Blazor Browser](https://jsakamoto.github.io/awesome-blazor-browser/).
 感谢@jsakamoto！ [Source code](https://github.com/jsakamoto/awesome-blazor-browser) ![stars](https://img.shields.io/github/stars/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/jsakamoto/awesome-blazor-browser?style=flat-square&cacheSeconds=86400).
 
-## Event: "A conversation with Chris Sainty" (February 9, 2021).
-[<img src="https://pbs.twimg.com/media/EtvGnCnU0AM3Gha?format=jpg&name=medium" align="center" width="100%">](https://dotnet.microsoft.com/live)
--ASP.NET社区站立：与Chris Sainty的对话.
--在这次演讲中，我们与Blazor爱好者和开源社区成员Chris Sainty聊了聊Blazor，他的开源工作等等.
- -太平洋时间上午10:00 | 世界标准时间18:00 
-- 居住： [live.dot.net](https://dotnet.microsoft.com/live), [YouTube](https://youtu.be/v8UWYwAhKZA).
-
 
 ## Introduction
 
@@ -49,6 +42,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/aspnet/core/) -ASP.NET Core简介.
 * [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/aspnet/Blazor?style=flat-square&cacheSeconds=86400) 构建一个完整的Blazor应用程序，并逐步了解Blazor框架的各种功能.
 * [Blazor WebAssembly performance best practices](https://docs.microsoft.com/aspnet/core/blazor/webassembly-performance-best-practices) -ASP.NET Core Blazor WebAssembly性能最佳实践，作者是Pranav Krishnamoorthy和Steve Sanderson. 
+* [themesof.net](https://themesof.net/) -.NET 6规划过程.
 
 ## Sample Projects
 ### Authentication
@@ -191,6 +185,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 
 ## Tutorials
 * [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800&logo=microsoft) Blazor app building workshop by [.NET Foundation](https://www.dotnetfoundation.org/)，令人眼花Pizza乱的披萨.
+* [Blazor on Desktop](https://www.telerik.com/blogs/blazor-on-desktop) -2021年2月17日-这篇文章探讨了如何使Blazor Web应用程序在桌面上运行.
 * [Using source generators to generate a menu component in a Blazor app](https://andrewlock.net/using-source-generators-to-generate-a-nav-component-in-a-blazor-app) -2021年2月16日-使用源生成器在Blazor应用中生成菜单组件.
 * [The tablet app – part 1](https://mac-digital.blog/2021/02/12/the-tablet-app-part-1/) -2021年2月12日-使用.NET和Mobile Blazor绑定使智能咖啡机更智能.
 * [Download Files from Azure with .NET Core Web API and Blazor WebAssembly](https://code-maze.com/download-files-from-azure-with-net-core-web-api-and-blazor-webassembly/)  -2021年2月9日-在本文中，我们将学习如何使用ASP.NET Core Web API作为服务器端项目以及Blazor WebAssembly作为客户端从Azure下载文件. 本文是上一篇文章的续篇，在该文章中我们了解了有关将文件上传到Azure的知识. 在该文章中，我们还创建了Azure存储，因此，如果您还没有创建Azure存储，则可以按照上述文章中的说明进行操作. [Source code](https://github.com/CodeMazeBlog/download-files-azure-netcore-blazor-wasm) ![stars](https://img.shields.io/github/stars/CodeMazeBlog/download-files-azure-netcore-blazor-wasm?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CodeMazeBlog/download-files-azure-netcore-blazor-wasm?style=flat-square&cacheSeconds=86400).
@@ -339,7 +334,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Logging](https://github.com/BlazorExtensions/Logging) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Logging?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Logging?style=flat-square&cacheSeconds=86400) Blazor的Microsoft Extension Logging实现.
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) - ![GitHub stars](https://img.shields.io/github/stars/cloudcrate/BlazorStorage?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/cloudcrate/BlazorStorage?style=flat-square&cacheSeconds=86400) Local and session storage support for Blazor.
 * [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) - ![stars](https://img.shields.io/github/stars/Pegazux/Blazor.Auth0?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Pegazux/Blazor.Auth0?style=flat-square&cacheSeconds=86400) 使用的库 [Auth0](https://auth0.com/) 在Blazor应用程序中.
-* [TextCopy](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square&cacheSeconds=86400) 一个跨平台软件包，用于在剪贴板之间复制文本. [Supports Blazor](https://github.com/CopyText/TextCopy#blazor-webassembly) via the [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
+* [TextCopy](https://github.com/CopyText/TextCopy) - ![GitHub stars](https://img.shields.io/github/stars/CopyText/TextCopy?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CopyText/TextCopy?style=flat-square&cacheSeconds=86400) 一个跨平台软件包，用于在剪贴板之间复制文本. [Supports Blazor](https://github.com/CopyText/TextCopy#blazor-webassembly) 通过 [Clipboard Browser API](https://developer.mozilla.org/docs/Web/API/Clipboard).
 * [CssBuilder](https://github.com/EdCharbeneau/CssBuilder) - ![GitHub stars](https://img.shields.io/github/stars/EdCharbeneau/CssBuilder?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/EdCharbeneau/CssBuilder?style=flat-square&cacheSeconds=86400) CssBuilder是用于Razor组件的CSS类的构建器模式.
 * [Notifications](https://github.com/BlazorExtensions/Notifications) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Notifications?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/BlazorExtensions/Notifications?style=flat-square&cacheSeconds=86400) Microsoft Blazor的HTML5 Notifications API实现.
 * [Blazor.Polyfill](https://github.com/Daddoon/Blazor.Polyfill) - ![GitHub stars](https://img.shields.io/github/stars/Daddoon/Blazor.Polyfill?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Daddoon/Blazor.Polyfill?style=flat-square&cacheSeconds=86400) Blazor的Polyfills（用于Internet Explorer 11支持和某些其他浏览器）.
@@ -560,6 +555,8 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Archives](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2020](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2020.md#videos), [2019](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2019.md#videos), [2018](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#videos), [2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos).
 
 ## Articles
+* [ASP.NET Core updates in .NET 6 Preview 1](https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-1/) -2021年2月17日-.NET 6 Preview 1中的ASP.NET Core更新.
+* [Announcing .NET 6 Preview 1](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/) -2021年2月17日-宣布.NET 6 Preview 1.
 * [Blazor Component Testing](https://edcharbeneau.com/Blazor-Component-Testing/) -2021年2月16日-Ed Charbeneau撰写的Blazor Component Testing.
 * [Blash: Twitter Dashboard Using Blazor Wasm, Web API, SignalR & Twitter API (Part 1)](https://www.roundthecode.com/dotnet/blazor/blash-twitter-dashboard-using-blazor-web-api-signalr-twitter-api) -2021年2月5日，-Blash：使用Blazor Wasm，Web API，SignalR和Twitter API（第1部分）制作的Twitter仪表板，由Round The Code撰写.
 * [.NET 6 Desktop Dev Options: WPF, WinForms, UWP, .NET MAUI, Blazor ...](https://visualstudiomagazine.com/articles/2021/02/03/net-6-desktop.aspx) -2021年2月3日-.NET 6桌面开发选项：WPF，WinForms，UWP，.NET MAUI，Blazor ...
@@ -654,7 +651,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Lazy load assemblies in a Blazor WebAssembly application](https://www.meziantou.net/lazy-load-assemblies-in-a-blazor-webassembly-application.htm) -2020年9月14日-Blazor WebAssembly应用程序中的延迟加载程序集.
 * [.NET Blazor for Rails Developers](https://yagudaev.com/posts/dot-net-blazor-for-rails-developers) -2020年9月12日-适用于Rails开发人员的.NET Blazor.
 * [WebAssembly Beyond the Browser: Running WASM in .NET Core Applications With WASI & Wasmtime](https://www.thinktecture.com/en/webassembly/with-dotnet/) -2020年9月10日-浏览器之外的WebAssembly：使用WASI和Wasmtime在.NET Core应用程序中运行WASM. [Source code](https://github.com/thinktecture-labs/article-webassembly-dotnet-server) ![stars](https://img.shields.io/github/stars/thinktecture-labs/article-webassembly-dotnet-server?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/thinktecture-labs/article-webassembly-dotnet-server?style=flat-square&cacheSeconds=86400).
-* [Blazor.Animate adds support for running animations manually](https://mikaelkoskinen.net/post/blazor-animate-animations-manual-onclick) -2020年9月10日-Blazor.Animate增加了对手动运行动画的支持.
+* [Blazor.Animate adds support for running animations manually](https://mikaelkoskinen.net/post/blazor-animate-animations-manual-onclick) - September 10, 2020 - Blazor.Animate adds support for running animations manually.
 * [Use CSS isolation in your Blazor projects](https://daveabrock.com/2020/09/10/blazor-css-isolation) -2020年9月10日-我们讨论将CSS限定到Blazor组件的范围-所有这些都没有样式表参考.
 * [Blazor Server CRUD App Using Visual Studio Code](https://dev.to/rineshpk/blazor-server-crud-app-using-visual-studio-code-2b2g) -2020年9月9日-使用Visual Studio Code的Blazor Server CRUD应用程序.
 * [Working with Local Storage in a Blazor Progressive Web App](https://visualstudiomagazine.com/articles/2020/09/08/blazor-pwa-local-storage.aspx) -2020年9月9日-在Visual Studio Magazine的Blazor Progressive Web App中使用本地存储.

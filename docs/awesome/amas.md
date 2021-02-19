@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) →随便问我
+> [AMA](https://en.wikipedia.org/wiki/R/IAmA) →随便问我
 
 #### Ask these people anything!
 
@@ -103,7 +103,7 @@
 - [Adrian Mejia](https://github.com/amejiarosario/ama)  -思科软件工程师. 博客在 [adrianmejia.com](http://adrianmejia.com) . 的作者 ["E-commerce Application built with the MEAN stack"](https://github.com/amejiarosario/meanshop) .  JavaScript爱好者. 波士顿位于.
 - [Jon Kuperman](https://github.com/jkup/ama)  -我喜欢JavaScript！ 我在博客 [Codeplanet](https://codeplanet.io)，在以下位置制作视频 [Nodecasts](https://nodecasts.io) 和播客 [The Web Behind](https://webbehind.com).
 - [Max Stoiber](https://github.com/mxstbr/ama) -Thinkmill的开源开发者倡导者，正在开发 [KeystoneJS](https://github.com/keystonejs/keystone) 和 [ElementalUI](https://github.com/elementalui/elemental) . 创作者 [react-boilerplate](https://github.com/mxstbr/react-boilerplate)，是React Vienna的一部分.
-- [Joe Lencioni](https://github.com/lencioni/ama) - 建造 [ImportJS](https://github.com/Galooshi/import-js) 和 [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f) . 网络基础 [Airbnb](https://www.airbnb.com).
+- [Joe Lencioni](https://github.com/lencioni/ama) - 建筑 [ImportJS](https://github.com/Galooshi/import-js) 和 [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f) . 网络基础 [Airbnb](https://www.airbnb.com).
 - [Lindsey Bieda](https://github.com/lindseyb/ama) -后端开发人员，游戏开发商和硬件黑客.
 - [Jeroen Engels](https://github.com/jfmengels/ama) -JS开发人员和开源爱好者.
 - [Tim Smith](https://github.com/smithtimmytim/ama) -前端设计师，书呆子和咖啡迷.
@@ -188,7 +188,7 @@
 - [HackCU](https://github.com/HackCU/ama) -科罗拉多大学的大学黑客马拉松，每两年举办一次免费活动，让学生学习编码或推动他们的技能建设.
 - [Ansible Taiwan](https://github.com/ansible-tw/ama) -协助台湾的Ansible用户.
 - [IIIT Vadodara](https://github.com/iiitv/aua) -由大学生维护的开源组织.
-- [Nikita Voloboev](https://github.com/nikitavoloboev/ama) -爱 [making](https://nikitavoloboev.xyz/projects/) 和 [sharing](https://wiki.nikitavoloboev.xyz/sharing) 东西. 建造 [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) 和 [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
+- [Nikita Voloboev](https://github.com/nikitavoloboev/ama) -爱 [making](https://nikitavoloboev.xyz/projects/) 和 [sharing](https://wiki.nikitavoloboev.xyz/sharing) 事物. 建筑 [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) 和 [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
 
 
 ---
