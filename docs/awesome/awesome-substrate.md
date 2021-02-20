@@ -144,8 +144,10 @@
 - [Substrate C++ API](https://github.com/usetech-llc/polkadot_api_cpp) -由维护
   [Usetech](https://usetech.com/blockchain/).
 - [Substrate .Net API](https://github.com/usetech-llc/polkadot_api_dotnet) -由Usetech维护.
-- [SubstrateNetApi](https://github.com/darkfriend77/SubstrateNetApi) -由基板社区成员Cedric维护
-  减速器（[@darkfriend77 on GitHub](https://github.com/darkfriend77)).
+- [Substrate .NET Standard API](https://github.com/dotmog/SubstrateNetApi) 在
+  [nuget](https://www.nuget.org/packages/SubstrateNetApi/)， 和
+  [Unity 3D integration example](https://github.com/darkfriend77/Unity3DExample) -
+  维护者 [DOTMog](https://dotmog.com/).
 - [Kotlin Substrate Client](https://github.com/NodleCode/substrate-client-kotlin) -由维护 [Nodle.io](https://github.com/NodleCode)
 
 ## Ecosystem Tools
@@ -156,7 +158,7 @@
   与基于基质的链进行交互.
 - [Polkadot Tool Index](https://wiki.polkadot.network/docs/en/build-tools-index#tools) - 这是
   **非常有用的**列表，可用于开发w / Polkadot和
-  any substrate chain including Block Explorers, Wallets, Network Monitoring & Reporting,
+  任何基础链，包括区块浏览器，钱包，网络监控和报告，
   客户，基准测试，模糊测试，分叉，SCALE编解码器，CLI工具等等.
 - [Sidecar](https://github.com/paritytech/substrate-api-sidecar) -与REST服务同时运行
   基板节点.
@@ -183,7 +185,7 @@
   与官方Substrate Developer Hub资源一起使用的实用程序.
 - [Subscan](https://www.subscan.io/) -基于基质的链的多网络资源管理器.
 - [Substrate Docker Builders](https://github.com/ETeissonniere/substrate-nodeops) - 一套
-  Dockerfiles和GitHub Actions可自动构建和推送基于Substrate的链的Docker映像.
+  Dockerfiles and GitHub Actions to auto-build and push a Docker image for Substrate-based chains.
 - [Halva](https://github.com/halva-suite/halva) -改善体验的工具链
   在底材上进行显影.
 - [`offchain::ipfs`](https://rs-ipfs.github.io/offchain-ipfs-manual/) -注入底物

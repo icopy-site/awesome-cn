@@ -52,7 +52,7 @@
 11. [Tools](#Tools) 
 	1. [Verification](#Verification)   
 12. [Libraries](#Libraries)   
-	1. [Math](#Math)   
+	2. [Science](#Science)  
 13. [Hardware and Embedded](#Hardware-and-Embedded)   
 	1. [Frameworks](#Frameworks)   
 	2. [Firmwares](#Firmwares)   
@@ -99,13 +99,13 @@
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) -Wikibooks上的Ada编程书.
 - [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) -Ada为Ada 2005蒸馏.
 - [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) -Ada 95：面向对象编程的技巧.
-- [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
+- [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) -适用于C ++或Java开发人员的Ada.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) -通过SPARK的实施指南.
 - [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf)  -安全可靠的软件.  2012年Ada邀请函.
 - [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) -Ada 95中从初学者到高级概念的本书，并附带源文件.
 
 #### Books
-<img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) -全面.  
+<img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - 综合的.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - 介绍.    
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41SQC2F542L._SX347_BO1,204,203,200_.jpg">[Ada 95: The Craft of Object-Oriented Programming](https://www.amazon.com/Ada-95-Craft-Object-Oriented-Programming/dp/0132303507) -一般，中级.    
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.springer.com/gp/book/9781848823136) - 数据结构.   
@@ -140,7 +140,7 @@
 - [matrix-ada](https://matrix.to/#/#ada-lang:matrix.org) -Matrix的Ada房间.
 
 #### News and Resources
-- [adacore-blog](https://blog.adacore.com/) - An insight into the AdaCore ecosystem.
+- [adacore-blog](https://blog.adacore.com/) -深入了解AdaCore生态系统.
 - [ada-europe](http://www.ada-europe.org/) -Ada-Europe是一个国际组织，旨在促进Ada的使用.
 - [acm-sig-ada](https://www.sigada.org/) -关于Ada的特别兴趣小组.
 - [ada-resource-association](http://www.adaic.org/community/) -自1990年以来，Ada资源协会的主要任务是“确保Ada用户的持续成功并促进Ada在软件行业的使用”.
@@ -244,13 +244,13 @@
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) -Ada中的Tetris，用于Unity游戏引擎.
 - [tictactoe](https://github.com/AdaCore/tictactoe) -用SPARK / Ada编写并证明的单轮游戏.
 - [ada-gate](https://github.com/fastrgv/AdaGate) -AdaGate是适用于Windows，OS-X和Linux的Stargate / Portal幻想设置中的第一人称3D推箱子益智游戏.
-- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏...它看起来像一个红宝石立方体，但它是一个滑块，而不是扭曲的东西.
+- [rufas-cube](https://github.com/fastrgv/RufasCube) -RufasCube是一款适用于Windows，OS-X和GNU Linux的益智游戏……它看起来像一个魔方，但它是一个滑块，而不是一个扭曲的对象.
 - [ada-venture](https://github.com/fastrgv/AdaVenture) -AdaVenture是一款儿童友好型复古点击游戏，带有迷宫，龙，蝙蝠和蛇.
 - [terminal-apps](https://github.com/fastrgv/TerminalApps) -有趣的益智游戏，可在任何OS的任何终端上运行.
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) -在任何平台上的终端上运行的复古游戏.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) -MiniPac是Pacman的儿童友好型ASCII字符版本，可在命令行终端中播放.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) -这是一款以足球为主题的3D推箱子益智游戏，可在Windows，Mac OS-X和GNU Linux上运行.
-- [pasta](http://pasta.phyrama.com/)  - 意大利面条！ 是“ match-3”类型的游戏.
+- [pasta](http://pasta.phyrama.com/)  - 意大利面！ 是“ match-3”类型的游戏.
 - [buttons](https://github.com/andreacervetti/buttons) -一个简单的Gtkada Button Mania游戏.
 - [mine-detector](https://github.com/jrcarter/Mine_Detector) -地雷探测器：一种无需猜测的寻雷游戏.
 
@@ -258,13 +258,14 @@
 ## Frameworks
 
 #### Components
-- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm)  -ASN.1，MQTT客户端和服务器/代理实现，B树，多重连接TCP服务器，Chebyshev系列，互斥体，密码术，对象和句柄，双链接的Web和列表，ODBC绑定，黑板（无锁） ，OpenSSL绑定，ELV / eQ-3 MAX！ 客户端实现，解析器，事件（纯文本，脉冲，数组），持久对象和句柄，GNUTLS绑定，持久存储和句柄，图形（定向，加权，非循环，树），池，HTTP实现，集合和映射， FIFO（无锁），SMTP客户端实现，IEEE 754，SQLite绑定，进程间通信，堆栈，Julia语言接口，流，JSON，字符串编辑，LDAP，表（字符串映射），MODBUS客户端实现，无界数组.
+- [simple-components](http://www.dmitry-kazakov.de/ada/components.htm)  -ASN.1，MQTT客户端和服务器/代理实现，B树，多连接TCP服务器，Chebyshev系列，互斥体，密码术，对象和句柄，双链接的Web和列表，ODBC绑定，黑板（无锁） ，OpenSSL绑定，ELV / eQ-3 MAX！ 客户端实现，解析器，事件（纯文本，脉冲，数组），持久对象和句柄，GNUTLS绑定，持久存储和句柄，图形（定向，加权，非循环，树），池，HTTP实现，集合和映射， FIFO（无锁），SMTP客户端实现，IEEE 754，SQLite绑定，进程间通信，堆栈，Julia语言接口，流，JSON，字符串编辑，LDAP，表（字符串映射），MODBUS客户端实现，无界数组.
 - [ada-util](https://github.com/stcarrez/ada-util/) -接近Java log4j框架的日志记录框架，支持属性，XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），组合流框架（原始文件，文件，缓冲区，管道，套接字），多个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库位于CURL或AWS.
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) -这是GNAT组件集合的核心模块.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) -这是GNAT组件集合的绑定模块.
-- [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection.
+- [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) -这是GNAT组件集合的DB模块.
 - [gnatcoll-json](https://github.com/persan/gnatcoll-json) -这是一组用于编写JSON接口的帮助程序，其中包含大多数Ada运行时组件的JSON解析.
 - [gneiss](https://github.com/Componolit/gneiss)  -Gneiss是一个接口集合，可与基于组件的系统的应用程序一起使用. 它旨在易于携带/与平台无关，并与 [ada-runtime](https://github.com/Componolit/ada-runtime).
+- [lace](https://github.com/charlie5/lace) -一组Ada组件，允许在Ada中进行3D模拟，游戏和GUI.
 
 #### Distributed
 - [poly-orb](https://github.com/AdaCore/PolyORB) -PolyORB提供了一个统一的解决方案，以依赖于中间件标准来构建分布式应用程序.
@@ -297,7 +298,7 @@
 #### Web
 - [aws](https://github.com/AdaCore/aws) -AWS是在Ada中开发基于Web的应用程序的完整框架.
 - [awa](https://github.com/stcarrez/ada-awa)  -Ada Web应用程序是在Ada 2012中构建Web应用程序的框架.该框架提供了许多Web应用程序共有的几个即用型和可扩展模块. 这包括登录名，身份验证，用户，权限，管理注释，标签，投票，文档，图像.
-    - [dynamo](https://github.com/stcarrez/dynamo) -代码生成器，用于从类似休眠的XML描述，YAML理论模型或UML模型生成Ada Web应用程序或数据库映射. 
+    - [dynamo](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) -Ada Wiki是提供Wiki引擎的小型图书馆.
     - [ada-security](https://github.com/stcarrez/ada-security) -OAuth 2.0客户端和服务器框架，可保护Web应用程序的安全.
     - [ada-el](https://github.com/stcarrez/ada-el) -该库提供了一种与Java统一表达语言（EL）接近的简单表达语言的支持.
@@ -319,6 +320,10 @@
 #### Machine Learning
 - [fuzzyml](https://sourceforge.net/projects/fuzzyml/) -模糊机器学习框架.
 
+#### Automation
+- [aicwl](http://www.dmitry-kazakov.de/ada/aicwl.htm) -提供用于设计Ada应用程序的高质量工业控制小部件的软件包集合.
+- [ada-for-automation](https://gitlab.com/ada-for-automation/ada-for-automation) -A4A是使用Ada语言设计工业自动化应用程序的框架.
+
 ## Tools
 
 #### Verification
@@ -330,7 +335,7 @@
 
 #### Generation
 - [asn1scc](https://github.com/ttsiodras/asn1scc) -ASN1SCC：Ada类型声明和编码器/解码器的开源ASN.1生成器.
-- [ocarina](https://github.com/OpenAADL/ocarina)  -AADL模型处理器：映射到Ada代码；  Petri网； 调度工具（MAST，切达）；  WCET; 真实.
+- [ocarina](https://github.com/OpenAADL/ocarina)  -AADL模型处理器：映射到Ada代码；  Petri网； 调度工具（MAST，切达）；  WCET; 真实的.
 - [fmt](http://www.inspirel.com/fmt/)  -形式化方法工具包是Mathematica的一组扩展软件包，支持软件. 与建模，验证和Ada代码生成有关的工程活动.
 - [automate](https://github.com/Blady-Com/Automate) -有限状态机发电机.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) -Ada中与JUnit兼容的XML报告的生成器.
@@ -339,6 +344,7 @@
 #### UML
 - [ada-ml](https://github.com/rocher/AdaML) -量身定制的UML建模语言.
 - [coldframe](https://github.com/simonjwright/coldframe) -ColdFrame从UML模型生成Ada框架代码和文档.
+- [umbrello](https://umbrello.kde.org/)  -基于KDE技术的统一建模语言（UML）图程序. 输出Ada.
 
 #### Encryption
 - [ada-keystore](https://github.com/stcarrez/ada-keystore) -Ada Keystore-通过安全存储保护您的敏感数据.
@@ -350,6 +356,9 @@
 - [mathpaqs](https://github.com/zertovitch/mathpaqs) -Mathpaqs是Ada编程语言中100％可移植的数学软件包的集合.
 - [mandelbrot-ascii](https://github.com/mosteo/mandelbrot_ascii) -Mandelbrot渲染器为“ ASCII”（实际上是unicode，但仍然是文本）.
 - [lalg](https://github.com/jhumphry/LALG) -密集线性代数包的接口.
+
+#### Science
+- [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) -SI单位已选中和未选中.
 
 #### Algorithms, Containers and Protocols
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) -Ada和SPARK的Microsoft语言协议的Adacore服务器实现.
@@ -372,7 +381,7 @@
 - [charles](http://home.earthlink.net/~matthewjheaney/charles/) -Charles是Ada 95容器库，是Ada 2005+标准容器的前身.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) -Ada中的简单区块链.
 - [adagio](https://github.com/mosteo/adagio) -Gnutella2（G2）网络服务器叶.
-- [agpl](https://github.com/mosteo/agpl) -Ada通用库（杂项实用程序，具有机器人功能）.
+- [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 - [az3](https://github.com/Componolit/AZ3) -Z3具有约束力
 
 #### Cryptography
@@ -427,7 +436,7 @@
 - [jwx](https://github.com/Componolit/jwx) -SPARK中经过正式验证的JSON库.
 - [xmlada](https://github.com/AdaCore/xmlada) -XML / Ada工具包.
 - [xml-ez](http://www.mckae.com/xmlEz.html) -用于从Ada程序发出XML的库.
-- [spark-xml](https://github.com/Componolit/SXML) -SPARK中经过正式验证的XML库.
+- [spark-xml](https://github.com/Componolit/SXML) - A formally verified XML library in SPARK.
 - [excel-writer](https://github.com/zertovitch/excel-writer) -创建具有基本格式的Excel文件.
 - [generic-image-decoder](https://github.com/zertovitch/gid) -Ada的多格式图像解码器库.
 - [ada-pdf-writer](https://github.com/zertovitch/ada-pdf-writer) -Ada软件包，可通过Ada程序轻松，自动地生成带有文本，矢量图形，图像（JPEG）的PDF文件.
@@ -472,7 +481,7 @@
 - [oto](https://github.com/darkestkhan/oto) -Ada与OpenAL的绑定，该OpenAL在使用Ada类型时尝试模仿原始API.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) -在Ada中实现的声音合成器库.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
-- [scala](http://www.huygens-fokker.org/scala) -Scala是一款功能强大的软件工具，可用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微调和大调音阶以及非西方音阶.
+- [scala](http://www.huygens-fokker.org/scala) -Scala是功能强大的软件工具，可用于进行音乐调律的实验，例如音准音阶，均等和历史气质，微音阶和大音阶音阶以及非西方音阶.
 - [ada-portable-sound](https://github.com/fastrgv/portable-linux-sound)  -用于Ada应用程序的linux声音播放程序包，该程序包可以异步启动和停止音乐循环，以及启动瞬态声音. 适用于游戏.
 
 #### Localization
@@ -484,7 +493,7 @@
 - [ssprep](https://github.com/persan/ssprep.git) -类似于jinja的可扩展模板引擎，但使用 [template-parser](https://github.com/AdaCore/templates-parser) 并用于命令行.
 - [licensing](https://github.com/mosteo/licensing) -Ada的开源许可证库.
 - [simple-logging](https://github.com/mosteo/simple_logging) -易于使用的日志记录功能，可输出到Ada程序中的控制台.
-- [rsfile](https://github.com/mosteo/rsfile) - Command-line utility that picks a file from a folder hierarchy with probability proportional to its size.
+- [rsfile](https://github.com/mosteo/rsfile) -命令行实用程序，它从文件夹层次结构中选择一个文件，其概率与文件大小成正比.
 - [cstrings](https://github.com/mosteo/cstrings) -与C字符串进行交互的便捷子程序.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) -用于将在Ada合格评定机构上共享的CVS存储库导入Git存储库的工具.
 - [ada-bundler](https://github.com/flyx/ada-bundler)  -用于透明处理Ada应用程序中的数据和配置文件访问的库和工具. 支持MacOSX，Linux和Windows.
@@ -530,7 +539,7 @@
 - [sensortile](https://github.com/morbos/STM32/tree/master/L/L476/sensortile) -该项目显示了如何初始化SensorTile，以及如何通过BLE将Sensor数据从SensorTile发送到合适的主机.
 
 #### Libraries
-- [giza](https://github.com/Fabien-Chouteau/Giza) -吉萨（Giza）试图成为嵌入式平台的简单小部件工具套件.
+- [giza](https://github.com/Fabien-Chouteau/Giza) -吉萨（Giza）试图成为嵌入式平台的简单窗口小部件工具套件.
 - [ada-synth-lib](https://github.com/raph-amiard/ada-synth-lib) -简单的音频合成库.
 - [geste](https://github.com/Fabien-Chouteau/GESTE) -GESTE是Sprite和Tile 2D渲染引擎，旨在在微控制器上运行.
 - [sancta](https://github.com/mosteo/sancta) -SANCTA多机器人任务分配库.
@@ -541,7 +550,7 @@
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) -SPARK / Ada中的模拟铁路网络.
 - [micro-tem-pi](https://github.com/jklmnn/MicroTemPi) -使用BBC Micro：Bit作为温度传感器的Raspberry Pi.
 - [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) -Wee Noise Maker是一款开源袖珍合成器.
-- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) -与AdaFruit BNO055转接板交互以将定位数据发送到主机的程序.
+- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer.
 - [railway-simulation](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo)  -用火车，转换和信号模拟铁路网络的程序. 信号系统已通过SPARK / Ada验证，可确保火车不会发生碰撞.
 - [etherscope](https://github.com/stcarrez/etherscope) -STM32F746板上的以太网流量监控器.
 
@@ -594,6 +603,7 @@
 - [gsh](https://github.com/AdaCore/gsh)  -GSH是用于Windows的非交互式POSIX外壳，旨在用于GNU软件版本. 比Cygwin快2-3倍.
 - [gnatcoll-scripts-shell](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) -GNATCOLL.Scripts.Shell是一种简单的可嵌入脚本语言，是GNATCOLL Core的一部分.
 - [analytical-engine](https://github.com/simonjwright/analytical-engine) -Charles Babbage的分析引擎的Ada 2012模拟.
+- [a-shell](https://github.com/charlie5/aShell) -有助于在Ada中编写类似shell的应用程序的组件.
 
 #### Programming Languages
 - [para-sail](http://parasail-lang.org/)  -ParaSail是一种高度并行的实验语言，类似于Go和Erlang. 它最初是SofCheck（现为AdaCore）所有，它是一个尝试新想法的测试项目. 可扩展指针是即将引入SPARK和Ada的示例功能. 实际上有4种实验语言：ParaSail，Sparkel，Javallel，Parython，它们都共享字节码解释器和LLVM引擎.
@@ -608,7 +618,7 @@
 - [pcsc-ada](http://www.codelabs.ch/pcscada)  -PCSC / Ada提供了对PC / SC中间件的浓厚Ada绑定. 该库允许使用Ada编写的程序使用SCard API与智能卡进行通信.
 - [areadline](https://github.com/samueltardieu/areadline) -Readline库的Ada接口.
 - [tp7-ada-gtkada](https://github.com/Blady-Com/tp7ada-gtkada) -用GTKAda实现Turbo Pascal 7.0单元.
-- [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) - Implementation of Turbo Pascal 7.0 units with Gnoga.
+- [tp7-ada-gnoga](https://github.com/Blady-Com/tp7ada-gnoga) -使用Gnoga实现Turbo Pascal 7.0单元.
 - [ada-bfd](https://github.com/stcarrez/ada-bfd)  -Ada BFD是GNU Binutils BFD库的Ada绑定. 它允许使用GNU BFD读取二进制ELF，COFF文件.
 - [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) -将Ada绑定到Boehm-Demers-Weiser保守垃圾收集器.
 - [tcl-ada-shell](https://github.com/simonjwright/tcladashell) -Tcl Ada SHell（Tash）是绑定到Tcl / Tk的Ada.

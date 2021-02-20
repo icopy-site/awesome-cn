@@ -85,7 +85,7 @@
 - [screenster.io](http://screenster.io) -用于Web和移动UI的基于云的自动化测试平台.
 - [browserling](https://www.browserling.com) -实时交互式跨浏览器测试.
 - [Browser Shots](http://browsershots.org) -仅屏幕截图.
-- [Ghost Inspector](https://ghostinspector.com) -看 [introduction video](https://vimeo.com/ghostinspector/intro).
+- [Ghost Inspector](https://ghostinspector.com) - 看 [introduction video](https://vimeo.com/ghostinspector/intro).
 - [CrossBrowserTesting](https://crossbrowsertesting.com) -在1500多种真实浏览器和移动设备上进行手动和探索性测试.
 - [Argos-CI](https://www.argos-ci.com) -自动化视觉回归测试.
 - [Diffy](https://diffy.website)  -基于云的视觉回归工具. 使用操纵符和专有比较算法（检测布局偏移）.  AWS Lambda具有出色的可扩展性.
@@ -98,6 +98,7 @@
 - [Vidiff](https://vidiff.com) -跨阶段的基于云的视觉回归测试.
 - [Reflect](https://reflect.run) -视觉回归测试和测试自动化工具.
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) -用于视觉回归测试的开源自托管服务
+- [Micoo](https://github.com/Mikuu/Micoo) -所有UI应用程序视觉回归解决方案的开源服务
 
 ## Blog posts
 
@@ -117,18 +118,19 @@
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
 - [theheadless.dev](https://theheadless.dev) -有关Playwright和Puppeteer的实用指南和可运行示例的博客.
 - [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) -如何使用BackstopJS自动化Hugo的回归测试
+- [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) -关于如何使用Micoo服务进行视觉回归测试的简介 
 
 
 ## Slideshows, talks and videos
 
-- [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) -截屏视频：幽灵的基本介绍，一种截图比较工具.
+- [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - Screencast: Basic introduction to wraith, a screenshot comparison tool.
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) -如何设置shoov并编写您的第一个测试.
 - [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) -乔恩·贝拉（Jon Bellah）谈论如何在wordpress开发过程中使用PhantomCSS.
 - [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) -包含代码演示和最佳实践的截屏视频.
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) -有关如何使用Screenster创建可视化自动化测试的教程.
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) -演示Chrome扩展程序的外观，功能，工作方式以及构建原因.
 - [Screencast on CSS critic - a lightweight testing framework for CSS](https://youtu.be/AqQ2bNPtF60) -如何与CSS评论家一起编写您的第一个CSS测试，使其通过，中断并再次通过.
-- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者：Nikhil Verma-Badoo的移动Web团队如何将PhantomCSS转换并集成到他们的工作流程中，并将其连接到CI流程.
+- [Visual Regression Testing - from a tool to a process](https://speakerdeck.com/nikhilverma/visual-regression-testing-from-a-tool-to-a-process) 作者：Nikhil Verma-Badoo的移动网络团队如何将PhantomCSS转换并集成到他们的工作流程中，并将其连接到他们的CI流程.
 
 ## Deprecated
 
@@ -158,7 +160,7 @@
 贡献者和维护者保证参与我们的项目，并且
 我们的社区为每个人，不论年龄，身材，提供无骚扰的体验
 大小，残疾，种族，性别认同和表达，经验水平，
-nationality, personal appearance, race, religion, or sexual identity and orientation.
+国籍，外貌，种族，宗教或性身份和性取向.
 
 ### License
 

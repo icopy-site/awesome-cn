@@ -5,7 +5,7 @@
 很棒的Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
-由社区驱动的有用的Scala库，框架和软件列表. 这不是所有库的目录，只是您探索的起点. 受启发 [awesome-python](https://github.com/vinta/awesome-python) . 其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 清单.
+由社区驱动的有用的Scala库，框架和软件列表. 这不是所有库的目录，只是您探索的起点. 受启发 [awesome-python](https://github.com/vinta/awesome-python) . 其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表.
 
 还很棒 [Scaladex](https://index.scala-lang.org/)，Scala库的可搜索，标记和集中索引.
 
@@ -18,6 +18,12 @@
 不要在拉取请求中修改`README.md`. 它是自动生成的. 修改`template.md`.
 
 
+
+### Archive and Compression
+
+姓名| 描述 GitHub活动
+---- | ----------- | ---------------
+[SevenZ4S](https://github.com/gonearewe/SevenZ4S)  | 用于Scala的SevenZip库，易于使用.  | ![GitHub stars](https://img.shields.io/github/stars/gonearewe/SevenZ4S) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gonearewe/SevenZ4S)
 
 ### Artificial Intelligence
 
@@ -69,7 +75,7 @@
 [**scalikejdbc**](https://github.com/scalikejdbc/scalikejdbc)  | 为Scala开发人员提供的基于SQL的整洁数据库访问库. 该库自然包装了JDBC API，并为您提供了易于使用的API.  | ![GitHub stars](https://img.shields.io/github/stars/scalikejdbc/scalikejdbc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalikejdbc/scalikejdbc)
 [scanamo](https://github.com/scanamo/scanamo)  |  Scala的DynamoDB更简单的访问 ![GitHub stars](https://img.shields.io/github/stars/scanamo/scanamo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scanamo/scanamo)
 [scredis](https://github.com/Livestream/scredis)  | 基于Akka IO构建的无阻塞，超快速的Scala Redis客户端，用于Livestream | ![GitHub stars](https://img.shields.io/github/stars/Livestream/scredis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Livestream/scredis)
-[scruid](https://github.com/ing-bank/scruid)  |  Scala + Druid：严厉. 一个库，使您可以在Scala中编写查询，并将结果解析回类型安全类.  | ![GitHub stars](https://img.shields.io/github/stars/ing-bank/scruid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ing-bank/scruid)
+[scruid](https://github.com/ing-bank/scruid) | Scala + Druid: Scruid. A library that allows you to compose queries in Scala, and parse the result back into typesafe classes. | ![GitHub stars](https://img.shields.io/github/stars/ing-bank/scruid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ing-bank/scruid)
 [shade](https://github.com/monix/shade)  |  Scala的Memcached客户端| ![GitHub stars](https://img.shields.io/github/stars/monix/shade) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/monix/shade)
 [**slick**](https://github.com/slick/slick)  |  Scala语言集成连接套件| ![GitHub stars](https://img.shields.io/github/stars/slick/slick) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/slick/slick)
 [**slick-pg**](https://github.com/tminglei/slick-pg)  |  PostgreSQL的平滑扩展| ![GitHub stars](https://img.shields.io/github/stars/tminglei/slick-pg) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/tminglei/slick-pg)
@@ -155,7 +161,7 @@
 ---- | ----------- | ---------------
 [akka-http-session](https://github.com/softwaremill/akka-http-session)  | 具有可选JWT支持的Web和移动客户端akka-http会话| ![GitHub stars](https://img.shields.io/github/stars/softwaremill/akka-http-session) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/akka-http-session)
 [aws-request-signer](https://github.com/ticofab/aws-request-signer)  |  Scala库用于签署对AWS服务的HTTP请求.  | ![GitHub stars](https://img.shields.io/github/stars/ticofab/aws-request-signer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ticofab/aws-request-signer)
-[OAuth2-mock-play](https://github.com/zalando-stups/OAuth2-mock-play) | An implementation of an OAuth2 server designed for mocking/testing | ![GitHub stars](https://img.shields.io/github/stars/zalando-stups/OAuth2-mock-play) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zalando-stups/OAuth2-mock-play)
+[OAuth2-mock-play](https://github.com/zalando-stups/OAuth2-mock-play)  | 专为模拟/测试而设计的OAuth2服务器的实现| ![GitHub stars](https://img.shields.io/github/stars/zalando-stups/OAuth2-mock-play) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/zalando-stups/OAuth2-mock-play)
 [play-googleauth](https://github.com/guardian/play-googleauth)  | 针对Google进行身份验证的简单播放模块| ![GitHub stars](https://img.shields.io/github/stars/guardian/play-googleauth) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/guardian/play-googleauth)
 [play-pac4j](https://github.com/pac4j/play-pac4j)  |  Java和Scala中Play框架2的安全性库：OAuth，CAS，SAML，OpenID Connect，LDAP，JWT ... ![GitHub stars](https://img.shields.io/github/stars/pac4j/play-pac4j) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pac4j/play-pac4j)
 [**play-silhouette**](https://github.com/mohiva/play-silhouette)  |  Silhouette是用于Play Framework应用程序的身份验证库，它支持几种身份验证方法，包括OAuth1，OAuth2，OpenID，CAS，2FA，TOTP，凭据，基本身份验证或自定义身份验证方案.  | ![GitHub stars](https://img.shields.io/github/stars/mohiva/play-silhouette) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mohiva/play-silhouette)
@@ -291,7 +297,7 @@
 [swiftlearner](https://github.com/valdanylchuk/swiftlearner)  |  SwiftLearner：Scala机器学习库| ![GitHub stars](https://img.shields.io/github/stars/valdanylchuk/swiftlearner) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/valdanylchuk/swiftlearner)
 [Synapses](https://github.com/mrdimosthenis/Synapses)  | 在任何地方运行的轻量级神经网络库| ![GitHub stars](https://img.shields.io/github/stars/mrdimosthenis/Synapses) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrdimosthenis/Synapses)
 [**tensorflow_scala**](https://github.com/eaplatanios/tensorflow_scala)  | 用于Scala编程语言的TensorFlow API ![GitHub stars](https://img.shields.io/github/stars/eaplatanios/tensorflow_scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/eaplatanios/tensorflow_scala)
-[tyche](https://github.com/neysofu/tyche)  |  JVM的统计实用程序-在Scala中！  | ![GitHub stars](https://img.shields.io/github/stars/neysofu/tyche) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neysofu/tyche)
+[tyche](https://github.com/neysofu/tyche) | Statistics utilities for the JVM - in Scala! | ![GitHub stars](https://img.shields.io/github/stars/neysofu/tyche) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/neysofu/tyche)
 [**zeppelin**](https://github.com/apache/zeppelin)  | 基于Web的笔记本，可通过SQL，Scala等实现数据驱动的交互式数据分析和协作文档.  | ![GitHub stars](https://img.shields.io/github/stars/apache/zeppelin) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/apache/zeppelin)
 
 ### Big Data
@@ -304,7 +310,7 @@
 [gridscale](https://github.com/openmole/gridscale)  |  Scala库用于访问各种文件，批处理系统，作业计划程序和网格中间件.  | ![GitHub stars](https://img.shields.io/github/stars/openmole/gridscale) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openmole/gridscale)
 [**kafka**](https://github.com/apache/kafka)  |  Apache Kafka的镜像 ![GitHub stars](https://img.shields.io/github/stars/apache/kafka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/apache/kafka)
 [**alpakka-kafka**](https://github.com/akka/alpakka-kafka)  |  Alpakka Kafka连接器-Alpakka是基于Reactive Streams和Akka的Java和Scala的Reactive Enterprise Integration库.  | ![GitHub stars](https://img.shields.io/github/stars/akka/alpakka-kafka) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/akka/alpakka-kafka)
-[**scalding**](https://github.com/twitter/scalding) | A Scala API for Cascading | ![GitHub stars](https://img.shields.io/github/stars/twitter/scalding) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/scalding)
+[**scalding**](https://github.com/twitter/scalding)  | 用于级联的Scala API ![GitHub stars](https://img.shields.io/github/stars/twitter/scalding) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/twitter/scalding)
 [schemer](https://github.com/indix/schemer)  |  CSV，TSV，JSON，AVRO和Parquet架构的架构注册表. 支持模式推断和GraphQL API.  | ![GitHub stars](https://img.shields.io/github/stars/indix/schemer) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/indix/schemer)
 [**scio**](https://github.com/spotify/scio)  | 用于Apache Beam和Google Cloud Dataflow的Scala API.  | ![GitHub stars](https://img.shields.io/github/stars/spotify/scio) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spotify/scio)
 [Scrunch](http://crunch.apache.org/scrunch.html)  | 一个Scala包装器 [Apache Crunch](http://crunch.apache.org/index.html) 它提供了用于编写，测试和运行MapReduce管道的框架.  |
@@ -345,7 +351,7 @@
 
 ### Functional Reactive Programming
 
-*事件流，信号，可观察物等*
+*Event streams, signals, observables, etc.*
 
 姓名| 描述 GitHub活动
 ---- | ----------- | ---------------
@@ -414,7 +420,7 @@
 [each](https://github.com/ThoughtWorksInc/each)  | 将本机命令式语法转换为scalaz的单子表达式的宏库| ![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/each) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ThoughtWorksInc/each)
 [eff](https://github.com/atnos-org/eff)  | 猫的Eff Monad-https://atnos-org.github.io/eff | ![GitHub stars](https://img.shields.io/github/stars/atnos-org/eff) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/atnos-org/eff)
 [enableIf.scala](https://github.com/ThoughtWorksInc/enableIf.scala) | A library that toggles Scala code at compile-time, like #if in C/C++ | ![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/enableIf.scala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ThoughtWorksInc/enableIf.scala)
-[**enumeratum**](https://github.com/lloydmeta/enumeratum) | A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations. | ![GitHub stars](https://img.shields.io/github/stars/lloydmeta/enumeratum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lloydmeta/enumeratum)
+[**enumeratum**](https://github.com/lloydmeta/enumeratum)  | 具有详尽模式匹配警告和有用集成的Scala类型安全，无反射，功能强大的枚举实现.  | ![GitHub stars](https://img.shields.io/github/stars/lloydmeta/enumeratum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lloydmeta/enumeratum)
 [Freasy-Monad](https://github.com/Thangiee/Freasy-Monad)  | 使用具有一流Intellij支持的Scala宏轻松创建Free Monad的简便方法.  | ![GitHub stars](https://img.shields.io/github/stars/Thangiee/Freasy-Monad) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Thangiee/Freasy-Monad)
 [freedsl](https://github.com/ISCPIF/freedsl)  | 基于抽象包装类型和免费monad的实用效果合成库| ![GitHub stars](https://img.shields.io/github/stars/ISCPIF/freedsl) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ISCPIF/freedsl)
 [**freestyle**](https://github.com/frees-io/freestyle)  | 以FP为中心的Scala库的内聚和实用框架| ![GitHub stars](https://img.shields.io/github/stars/frees-io/freestyle) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/frees-io/freestyle)
@@ -438,7 +444,7 @@
 [Scalactic](http://www.scalactic.org/)  | 与质量相关的小型实用程序库，可帮助确保代码清晰和正确.  |
 [**scalaz**](https://github.com/scalaz/scalaz)  |  Scala中的原则函数式编程 ![GitHub stars](https://img.shields.io/github/stars/scalaz/scalaz) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaz/scalaz)
 [scribe](https://github.com/outr/scribe)  | 世界上最快的日志记录库. 从头开始在Scala中构建，并且可以通过程序配置.  | ![GitHub stars](https://img.shields.io/github/stars/outr/scribe) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/scribe)
-[**shapeless**](https://github.com/milessabin/shapeless) | Generic programming for Scala | ![GitHub stars](https://img.shields.io/github/stars/milessabin/shapeless) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/milessabin/shapeless)
+[**shapeless**](https://github.com/milessabin/shapeless)  |  Scala的通用编程 ![GitHub stars](https://img.shields.io/github/stars/milessabin/shapeless) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/milessabin/shapeless)
 [**simulacrum**](https://github.com/typelevel/simulacrum)  |  Scala中对类型类的一流语法支持 ![GitHub stars](https://img.shields.io/github/stars/typelevel/simulacrum) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/typelevel/simulacrum)
 [squid](https://github.com/epfldata/squid)  |  Squid – Scala的类型安全的元编程和编译框架 ![GitHub stars](https://img.shields.io/github/stars/epfldata/squid) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/epfldata/squid)
 [stateless-future](https://github.com/qifun/stateless-future)  | 功能齐全的Scala语法的异步编程.  | ![GitHub stars](https://img.shields.io/github/stars/qifun/stateless-future) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/qifun/stateless-future)
@@ -468,7 +474,7 @@
 [pdf4s](https://github.com/outr/pdf4s)  | 简化的包装器，可在Scala中创建PDF ![GitHub stars](https://img.shields.io/github/stars/outr/pdf4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/pdf4s)
 [play-swagger](https://github.com/iheartradio/play-swagger)  |  Swagger Spec播放器框架生成器| ![GitHub stars](https://img.shields.io/github/stars/iheartradio/play-swagger) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/iheartradio/play-swagger)
 [powerscala](https://github.com/outr/powerscala)  | 强大的框架在Scala语言之上提供了许多有用的实用程序和功能.  | ![GitHub stars](https://img.shields.io/github/stars/outr/powerscala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/outr/powerscala)
-[PPrint](https://github.com/lihaoyi/PPrint)  |  Scala中漂亮打印的值，类型和类型签名| ![GitHub stars](https://img.shields.io/github/stars/lihaoyi/PPrint) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lihaoyi/PPrint)
+[PPrint](https://github.com/lihaoyi/PPrint) | Pretty-printing value, types and type-signatures in Scala | ![GitHub stars](https://img.shields.io/github/stars/lihaoyi/PPrint) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lihaoyi/PPrint)
 [**pureconfig**](https://github.com/pureconfig/pureconfig)  | 免样板库，用于加载配置文件| ![GitHub stars](https://img.shields.io/github/stars/pureconfig/pureconfig) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/pureconfig/pureconfig)
 [REPLesent](https://github.com/marconilanna/REPLesent)  | 使用Scala REPL构建演示文稿的简洁工具. ![GitHub stars](https://img.shields.io/github/stars/marconilanna/REPLesent) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/marconilanna/REPLesent)
 [scala-ssh](https://github.com/sirthias/scala-ssh)  |  Scala应用程序通过SSH进行远程Shell访问| ![GitHub stars](https://img.shields.io/github/stars/sirthias/scala-ssh) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sirthias/scala-ssh)
@@ -478,7 +484,7 @@
 [service-chassis](https://github.com/allawala/service-chassis)  | 一个可快速启动您的应用程序和服务的scala机箱| ![GitHub stars](https://img.shields.io/github/stars/allawala/service-chassis) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/allawala/service-chassis)
 [settler](https://github.com/lucastorri/settler)  |  Scala中无样板的键入设置生成 ![GitHub stars](https://img.shields.io/github/stars/lucastorri/settler) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/lucastorri/settler)
 [YahooFinanceScala](https://github.com/openquant/YahooFinanceScala)  | 非阻塞Yahoo Finance Scala客户| ![GitHub stars](https://img.shields.io/github/stars/openquant/YahooFinanceScala) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/openquant/YahooFinanceScala)
-[figlet4s](https://github.com/ColOfAbRiX/figlet4s)  | 适用于Scala和Java的纯Scala中的FIGlet实现| ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
+[figlet4s](https://github.com/ColOfAbRiX/figlet4s)  |  Scala中的ASCII艺术横幅| ![GitHub stars](https://img.shields.io/github/stars/ColOfAbRiX/figlet4s) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ColOfAbRiX/figlet4s)
 
 ### Android
 
@@ -508,9 +514,10 @@
 [RosHTTP](https://github.com/hmil/RosHTTP)  | 统一的Scala.js + Scala HTTP客户端API | ![GitHub stars](https://img.shields.io/github/stars/hmil/RosHTTP) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/hmil/RosHTTP)
 [**scalaj-http**](https://github.com/scalaj/scalaj-http)  |  HttpURLConnection的简单scala包装器. 包含OAuth.  | ![GitHub stars](https://img.shields.io/github/stars/scalaj/scalaj-http) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalaj/scalaj-http)
 [scalaxb](https://github.com/eed3si9n/scalaxb)  |  scalaxb是Scala的XML数据绑定工具.  | ![GitHub stars](https://img.shields.io/github/stars/eed3si9n/scalaxb) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/eed3si9n/scalaxb)
-[**spray**](https://github.com/spray/spray)  | 一套用于在Akka之上构建和使用RESTful Web服务的Scala库：轻量级，异步，无阻塞，基于actor，可测试| ![GitHub stars](https://img.shields.io/github/stars/spray/spray) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spray/spray)
+[**spray**](https://github.com/spray/spray)  | 一套用于在Akka之上构建和使用RESTful Web服务的Scala库：轻量级，异步，非阻塞，基于actor，可测试| ![GitHub stars](https://img.shields.io/github/stars/spray/spray) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/spray/spray)
 [**sttp**](https://github.com/softwaremill/sttp)  | 您一直想要的Scala HTTP客户端！  | ![GitHub stars](https://img.shields.io/github/stars/softwaremill/sttp) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/sttp)
 [tubesocks](https://github.com/softprops/tubesocks)  | 与现代Web服务器进行双向对话的一种舒适而时尚的方式.  | ![GitHub stars](https://img.shields.io/github/stars/softprops/tubesocks) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softprops/tubesocks)
+[**tapir**](https://github.com/softwaremill/tapir)  |  ir或类型化API描述| ![GitHub stars](https://img.shields.io/github/stars/softwaremill/tapir) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/softwaremill/tapir)
 
 ### Semantic Web
 
@@ -550,12 +557,12 @@
 
 姓名| 描述 GitHub活动
 ---- | ----------- | ---------------
-[**better-monadic-for**](https://github.com/oleg-py/better-monadic-for)  | 在不使用隐式`withFilter`s的情况下对scala`for`进行解糖| ![GitHub stars](https://img.shields.io/github/stars/oleg-py/better-monadic-for) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/oleg-py/better-monadic-for)
+[**better-monadic-for**](https://github.com/oleg-py/better-monadic-for)  | 在没有隐式`withFilter`s的情况下对scala`for`进行解糖| ![GitHub stars](https://img.shields.io/github/stars/oleg-py/better-monadic-for) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/oleg-py/better-monadic-for)
 [**coursier**](https://github.com/coursier/coursier)  | 纯Scala神器获取| ![GitHub stars](https://img.shields.io/github/stars/coursier/coursier) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/coursier/coursier)
 [mdoc](https://github.com/scalameta/mdoc)  |  Scala的Typechecked markdown文档| ![GitHub stars](https://img.shields.io/github/stars/scalameta/mdoc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/scalameta/mdoc)
 [sbt-api-mappings](https://github.com/ThoughtWorksInc/sbt-api-mappings)  | 一个Sbt插件，用于填充常见Scala库的apiMappings.  | ![GitHub stars](https://img.shields.io/github/stars/ThoughtWorksInc/sbt-api-mappings) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ThoughtWorksInc/sbt-api-mappings)
 [sbt-apidoc](https://github.com/valydia/sbt-apidoc)  |  apidocjs https://apidocjs.com到sbt的端口，用于记录REST Api | ![GitHub stars](https://img.shields.io/github/stars/valydia/sbt-apidoc) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/valydia/sbt-apidoc)
-[**sbt-assembly**](https://github.com/sbt/sbt-assembly) | Deploy fat JARs. Restart processes. (port of codahale/assembly-sbt) | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-assembly) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-assembly)
+[**sbt-assembly**](https://github.com/sbt/sbt-assembly)  | 部署胖JAR. 重新启动进程.  （哥打哈拉港口/ assembly-sbt）| ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-assembly) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-assembly)
 [sbt-buildinfo](https://github.com/sbt/sbt-buildinfo)  | 我知道这一点，因为build.sbt知道这一点.  | ![GitHub stars](https://img.shields.io/github/stars/sbt/sbt-buildinfo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/sbt/sbt-buildinfo)
 [sbt-ci-release](https://github.com/olafurpg/sbt-ci-release)  |  sbt插件可自动实现Travis CI发布Sonatype版本| ![GitHub stars](https://img.shields.io/github/stars/olafurpg/sbt-ci-release) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/olafurpg/sbt-ci-release)
 [sbt-classfinder](https://github.com/ruippeixotog/sbt-classfinder)  |  SBT插件，用于检索有关项目中的类和特征的运行时信息| ![GitHub stars](https://img.shields.io/github/stars/ruippeixotog/sbt-classfinder) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ruippeixotog/sbt-classfinder)

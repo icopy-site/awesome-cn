@@ -38,7 +38,7 @@ them.
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) -由PDE建模的科学应用的并行解决方案.
   （C，2句BSD， [GitLab](https://gitlab.com/petsc/petsc))
-- [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
+- [DUNE Numerics](https://www.dune-project.org) -使用基于网格的方法求解PDE的工具箱.
   （C ++，GPL 2， [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) -用于统计，优化，积分，线性代数等的Python模块
   （Python，主要是BSD， [GitHub](https://github.com/scipy/scipy/))
@@ -157,6 +157,8 @@ them.
   （Python，BSD， [GitHub](https://github.com/yt-project/yt))
 - [F3D](https://kitware.github.io/F3D/) -带有科学可视化工具的跨平台，快速，简约的3D查看器.
   （C ++，BSD， [GitLab](https://gitlab.kitware.com/f3d/f3d))
+- [TTK](https://topology-tool-kit.github.io/) -拓扑数据分析和可视化.
+  （C ++ / Python，BSD， [GitHub](https://github.com/topology-tool-kit/ttk)).
 
 ## Other libraries and tools
 
@@ -187,7 +189,7 @@ them.
   （Python，Apache 2.0， [GitHub](https://github.com/cvxgrp/cvxpy))
 - [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) -Python中的小波变换.
   （Python，麻省理工学院， [GitHub](https://github.com/PyWavelets/pywt))
-- [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) -非等距快速傅立叶变换.
+- [NFFT](https://www-user.tu-chemnitz.de/~potts/nfft/) - Nonequispaced fast Fourier transform.
   （C / MATLAB，GPL 2， [GitHub](https://github.com/NFFT/nfft))
 - [preCICE](https://www.precice.org/) -用于分区多物理场模拟（FSI，CHT等）的耦合库.
   （C ++，LGPL 3， [GitHub](https://github.com/precice/))
