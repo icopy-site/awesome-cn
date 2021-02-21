@@ -25,12 +25,12 @@
 ## Entertainment
 
 - [football-cli](https://github.com/ManrajGrover/football-cli) -获取几乎每个足球比赛/联赛的实时比分，赛程，排名.
-- [pockyt](https://github.com/arvindch/pockyt) -阅读，管理和自动化您 [Pocket](https://getpocket.com) 采集.
+- [pockyt](https://github.com/arvindch/pockyt) -阅读，管理和自动化您 [Pocket](https://getpocket.com) 收藏.
 - [newsboat](https://github.com/newsboat/newsboat) -用于文本终端的可扩展RSS feed阅读器.
 
 ### Music
 
-- [cmus](https://github.com/cmus/cmus) -小型，快速和强大的控制台音乐播放器.
+- [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) -即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) -通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
@@ -100,7 +100,7 @@
 
 ### Web Development
 
-- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Search [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 有关功能的浏览器支持.
+- [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 有关功能的浏览器支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) -检查网站是否正常.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) -捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) -从CSS中删除注释.
@@ -136,8 +136,6 @@
 ### Devops
 
 - [htconvert](https://github.com/lukechilds/htconvert) -将.htaccess重定向转换为nginx.conf重定向.
-- [aws-cli](https://github.com/aws/aws-cli) -Amazon Web Services的通用接口.
-- [azure-cli](https://github.com/Azure/azure-cli) -Azure的命令行工具.
 - [SAWS](https://github.com/donnemartin/saws) -增压的AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) -功能齐全的S3客户端.
 - [lstags](https://github.com/ivanilves/lstags) -跨不同的注册表同步Docker映像.
@@ -145,7 +143,7 @@
 - [dockly](https://github.com/lirantal/dockly) -交互式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose接口.
-- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
+- [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 - [docker-shell](https://github.com/Trendyol/docker-shell) -简单的交互式docker界面.
 
@@ -308,7 +306,7 @@
 - [brightness-cli](https://github.com/kevva/brightness-cli) -更改屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
 - [yank](https://github.com/mptre/yank) -将Yank终端输出到剪贴板.
 - [screensaver](https://github.com/gillstrom/screensaver) -启动屏幕保护程序.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) -在您的本地计算机上下载并安装Google Web字体.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine.
 - [neofetch](https://github.com/dylanaraps/neofetch) -系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) -系统监控工具.
 
@@ -499,7 +497,7 @@
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) -取消所有Chrome标签页，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) -使用Levenshtein距离算法测量两个字符串之间的差异.
 - [mdlt](https://github.com/metadelta/mdlt) -从命令行直接进行快速数学运算.
-- [medium-cli](https://github.com/djadmin/medium-cli) -阅读 [medium.com](https://medium.com/) 终端中的故事，也可以提供热门故事.
+- [medium-cli](https://github.com/djadmin/medium-cli) - 读 [medium.com](https://medium.com/) 终端中的故事，也可以提供热门故事.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) -从浏览器中的网络快捷文件中打开URL.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) -从网络快捷方式文件获取网址.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) -将匹配的单引号转换为双引号：我“爱”独角兽=&gt;我“爱”独角兽.

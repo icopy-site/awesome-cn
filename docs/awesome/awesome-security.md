@@ -22,7 +22,7 @@
 - [Kali](https://www.kali.org/)  -Kali Linux是Debian衍生的Linux发行版，专门用于数字取证和渗透测试.  Kali Linux预先安装了许多渗透测试程序，包括nmap（端口扫描程序），Wireshark（数据包分析器），John Ripper（密码破解程序）和Aircrack-ng（用于渗透测试无线LAN的软件套件）. .
 - [pig](https://github.com/rafael-santiago/pig) -Linux数据包制作工具.
 - [scapy](https://github.com/gpotter2/awesome-scapy) -Scapy：基于python的交互式数据包处理程序和库.
-- [Pompem](https://github.com/rfunix/Pompem) - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...
+- [Pompem](https://github.com/rfunix/Pompem)  -Pompem是一个开放源代码工具，旨在自动搜索主要数据库中的漏洞利用程序. 用Python开发的系统具有高级搜索系统，因此可以促进渗透测试人员和道德黑客的工作. 在当前版本中，在数据库中执行搜索：Exploit-db，1337day，Packetstorm Security ...
 - [Nmap](https://nmap.org) -Nmap是一个免费的开源实用程序，用于网络发现和安全审核.
 - [Amass](https://github.com/caffix/amass) -Amass通过抓取最多数量的不同数据源，递归蛮行强制，爬网Web档案，排列和更改名称，反向DNS扫描和其他技术来执行DNS子域枚举.
 - [Anevicon](https://github.com/rozgo/anevicon) -用Rust编写的最强大的基于UDP的负载生成器.
@@ -42,16 +42,16 @@
 - [sagan](http://sagan.quadrantsec.com/) -Sagan使用“类似Snort”引擎和规则来分析日志（syslog /事件日志/ snmptrap / netflow / etc）.
 - [Node Security Platform](https://nodesecurity.io/) -与Snyk相似的功能，但是在大多数情况下是免费的，而对于其他人则非常便宜.
 - [ntopng](http://www.ntop.org/products/traffic-analysis/ntop/) -Ntopng是一个网络流量探测器，它显示网络使用情况，类似于流行的top Unix命令所执行的操作.
-- [Fibratus](https://github.com/rabbitstack/fibratus) - Fibratus is a tool for exploration and tracing of the Windows kernel. It is able to capture the most of the Windows kernel activity - process/thread creation and termination, file system I/O, registry, network activity, DLL loading/unloading and much more. Fibratus has a very simple CLI which encapsulates the machinery to start the kernel event stream collector, set kernel event filters or run the lightweight Python modules called filaments.
+- [Fibratus](https://github.com/rabbitstack/fibratus)  -Fibratus是用于Windows内核探索和跟踪的工具. 它能够捕获大多数Windows内核活动-进程/线程创建和终止，文件系统I / O，注册表，网络活动，DLL加载/卸载等等.  Fibratus有一个非常简单的CLI，该CLI封装了用于启动内核事件流收集器，设置内核事件过滤器或运行称为“细丝”的轻量级Python模块的机制.
 - [opensnitch](https://github.com/evilsocket/opensnitch) -OpenSnitch是Little Snitch应用程序防火墙的GNU / Linux端口
 
 ### IDS / IPS / Host IDS / Host IPS
 
 - [Snort](https://www.snort.org/)  -Snort是由Martin Roesch于1998年创建的免费开放源代码网络入侵防御系统（NIPS）和网络入侵检测系统（NIDS）.Snort现在由Sourcefire开发，其中Roesch是其创始人和CTO.  2009年，Snort作为“有史以来最伟大的开源软件之一”进入InfoWorld的开源名人堂.
-- [Bro](https://www.bro.org/) -Bro是功能强大的网络分析框架，与您可能知道的典型IDS有很大不同.
+- [Zeek](https://zeek.org/) -Zeek是功能强大的网络分析框架，与您可能知道的典型IDS有很大不同.
 - [OSSEC](https://ossec.github.io/)  -全面的开源HIDS. 不是为了胆小的人. 需要一点时间来了解它的工作原理. 执行日志分析，文件完整性检查，策略监视，rootkit检测，实时警报和主动响应. 它可以在大多数操作系统上运行，包括Linux，MacOS，Solaris，HP-UX，AIX和Windows. 大量合理的文档. 最佳位置是大中型部署.
 - [Suricata](http://suricata-ids.org/)  -Suricata是高性能的网络IDS，IPS和网络安全监视引擎. 开源，由社区运营的非营利基金会开放信息安全基金会（OISF）拥有.  Suricata由OISF及其支持供应商开发.
-- [Security Onion](http://blog.securityonion.net/)  -Security Onion是一个Linux发行版，用于入侵检测，网络安全监视和日志管理. 它基于Ubuntu，包含Snort，Suricata，Bro，OSSEC，Sguil，Squit，Snorby，ELSA，Xplico，NetworkMiner和许多其他安全工具. 易于使用的设置向导使您可以在几分钟之内为企业构建大量的分布式传感器！
+- [Security Onion](http://blog.securityonion.net/)  -Security Onion是一个Linux发行版，用于入侵检测，网络安全监视和日志管理. 它基于Ubuntu，包含Snort，Suricata，Zeek，OSSEC，Sguil，Squit，Snorby，ELSA，Xplico，NetworkMiner和许多其他安全工具. 易于使用的设置向导使您可以在几分钟之内为企业构建大量的分布式传感器！
 - [sshwatch](https://github.com/marshyski/sshwatch)  -SSH的IPS，类似于用Python编写的DenyHosts. 它还可以在攻击过程中在日志中收集有关攻击者的信息.
 - [Stealth](https://fbb-git.github.io/stealth/)  -文件完整性检查程序，几乎没有沉积物. 控制器从另一台计算机上运行，​​这使攻击者很难知道正在通过SSH以定义的伪随机间隔检查文件系统. 强烈建议用于中小型部署.
 - [AIEngine](https://bitbucket.org/camp0/aiengine) - AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
@@ -106,23 +106,25 @@
 - [DPDK](http://dpdk.org/) -DPDK是一组用于快速数据包处理的库和驱​​动程序.
 - [PFQ](https://github.com/pfq/PFQ) PFQ是为Linux操作系统设计的功能性网络框架，该框架允许高效的数据包捕获/传输（10G及更高版本），内核内功能处理以及跨套接字/端点的数据包控制.
 - [PF_RING](http://www.ntop.org/products/packet-capture/pf_ring/) -PF_RING是一种新型的网络套接字，可显着提高数据包捕获速度.
-- [PF_RING ZC (Zero Copy)](http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/)  -PF_RING ZC（零复制）是一种灵活的数据包处理框架，可让您在任何数据包大小下实现1/10 Gbit线速数据包处理（RX和TX）. 它实现了零复制操作，包括用于进程间和VM间（KVM）通信的模式.
+- [PF_RING ZC (Zero Copy)](http://www.ntop.org/products/packet-capture/pf_ring/pf_ring-zc-zero-copy/)  -PF_RING ZC（零复制）是一种灵活的数据包处理框架，它使您可以在任何数据包大小下实现1/10 Gbit线速数据包处理（RX和TX）. 它实现了零复制操作，包括用于进程间和VM间（KVM）通信的模式.
 - [PACKET_MMAP/TPACKET/AF_PACKET](https://elixir.bootlin.com/linux/latest/source/Documentation/networking/packet_mmap.rst) -使用PACKET_MMAP可以改善Linux中捕获和传输过程的性能.
 - [netmap](http://info.iet.unipi.it/~luigi/netmap/)  -netmap是用于高速数据包I / O的框架. 与其配套的VALE软件开关一起，它被实现为单个内核模块，并且可用于FreeBSD，Linux和Windows.
 
 ### Firewall
+
 - [pfSense](https://www.pfsense.org/) -防火墙和路由器FreeBSD分发.
 - [OPNsense](https://opnsense.org/)  -是一个基于FreeBSD的开源，易于使用和易于构建的防火墙和路由平台.  OPNsense包含昂贵的商用防火墙中可用的大多数功能，并且在许多情况下还包含更多功能. 它带来了具有开放性和可验证资源优势的商业产品的丰富功能集.
 - [fwknop](https://www.cipherdyne.org/fwknop/) -通过防火墙中的“单包授权”保护端口.
 
 ### Anti-Spam
+
 - [Spam Scanner](https://github.com/spamscanner) -反垃圾邮件扫描服务和反垃圾邮件API [@niftylettuce](https://github.com/niftylettuce).
 - [rspamd](https://github.com/rspamd/rspamd) -快速，免费和开源的垃圾邮件过滤系统.
 - [SpamAssassin](https://spamassassin.apache.org/) -使用各种检测技术的强大而流行的电子邮件垃圾邮件过滤器.
 - [Scammer-List](https://scammerlist.now.sh/) -具有免费API的免费开源基于AI的骗局和垃圾邮件查找器
 
-
 ### Docker Images for Penetration Testing & Security
+
 -`docker pull kalilinux / kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
 -`docker pull owasp / zap2docker-stable`- [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
 -`docker pull wpscanteam / wpscan`- [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
@@ -174,7 +176,7 @@
 - [Quark-Engine](https://github.com/quark-engine/quark-engine) -一个忽略了Android恶意软件的评分系统.
 - [dotPeek](https://www.jetbrains.com/decompiler/) -基于ReSharper捆绑的反编译器的免费独立工具.
 - [hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)  -专为现代系统设计的硬化分配器. 它已集成到Android的Bionic libc中，并且可以与musl和glibc一起在外部用作动态库，以在其他基于Linux的平台上使用. 随着时间的推移，它将获得更多的可移植性/集成性.
-- [AMExtractor](https://github.com/ir193/AMExtractor) -即使没有内核源代码，AMExtractor仍可以转储Android设备的物理内容.
+- [AMExtractor](https://github.com/ir193/AMExtractor) - AMExtractor can dump out the physical content of your Android device even without kernel source code.
 - [frida](https://github.com/frida/frida) -针对开发人员，逆向工程人员和安全研究人员的动态工具包.
 
 ### Forensics
@@ -186,7 +188,7 @@
 - [Logdissect](https://github.com/dogoncouch/logdissect) -CLI工具和Python API，用于分析日志文件和其他数据.
 - [Meerkat](https://github.com/TonyPhipps/Meerkat) -基于PowerShell的Windows工件收集，用于威胁搜寻和事件响应.
 - [Rekall](https://github.com/google/rekall) -Rekall框架是一个完全开放的工具集合，根据Apache和GNU通用公共许可证在Python中实现，用于提取和分析数字工件计算机系统.
-- [LiME](https://github.com/504ensicsLabs/LiME.git) - Linux Memory Extractor
+- [LiME](https://github.com/504ensicsLabs/LiME.git) -Linux内存提取器
 
 ## Threat Intelligence
 
@@ -194,7 +196,7 @@
 - [Emerging Threats - Open Source](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)  -新兴威胁始于10年前，它是一个开放源代码社区，用于收集Suricata和SNORT®规则，防火墙规则以及其他IDS规则集. 开源社区在Internet安全中仍然发挥着积极作用，每天有200,000多位活跃用户下载该规则集.  ETOpen规则集对任何用户或组织开放，只要您遵循一些基本准则即可. 我们的ETOpen规则集可随时下载.
 - [PhishTank](http://www.phishtank.com/)  -PhishTank是一个协作式票据交换所，用于收集有关Internet上网络钓鱼的数据和信息. 此外，PhishTank为开发人员和研究人员提供了一个开放的API，可将反网络钓鱼数据免费集成到其应用程序中.
 - [SBL / XBL / PBL / DBL / DROP / ROKSO](http://www.spamhaus.org/) -Spamhaus Project是一个国际性非营利组织，其任务是跟踪Internet的垃圾邮件操作和来源，为Internet网络提供可靠的实时反垃圾邮件保护，与执法机构合作在全球范围内识别和追踪垃圾邮件和恶意软件团伙，以及游说政府制定有效的反垃圾邮件立法.
-- [Internet Storm Center](https://www.dshield.org/reports.html)  -ISC是在成功检测，分析并广泛传播Li0n蠕虫之后于2001年创建的. 如今，ISC为成千上万的Internet用户和组织提供了免费的分析和警告服务，并且正在与Internet服务提供商积极合作，以对抗最恶意的攻击者.
+- [Internet Storm Center](https://www.dshield.org/reports.html)  -ISC是在成功检测，分析并广泛传播Li0n蠕虫之后于2001年创建的. 如今，ISC为成千上万的Internet用户和组织提供了免费的分析和警告服务，并且正在与Internet服务提供商积极合作，以对付最恶意的攻击者.
 - [AutoShun](https://www.autoshun.org/) -AutoShun是一个Snort插件，可让您将Snort IDS日志发送到集中式服务器，该服务器会将来自传感器日志的攻击与来自世界各地的其他Snort传感器，蜜罐和邮件过滤器相关联.
 - [DNS-BH](http://www.malwaredomains.com/)  -DNS-BH项目创建并维护一个已知用于传播恶意软件和间谍软件的域的列表. 该项目创建了绑定和Windows区域文件，这些文件用于为对本地主机的任何请求提供对本地主机的虚假答复，从而防止了许多间谍软件的安装和报告.
 - [AlienVault Open Threat Exchange](http://www.alienvault.com/open-threat-exchange/dashboard) -AlienVault开放式威胁交换（OTX），可帮助您保护网络免受恶意IP地址引起的数据丢失，服务中断和系统损害.
@@ -206,7 +208,6 @@
 - [virustotal](https://www.virustotal.com/)  -VirusTotal是Google的子公司，是一项免费的在线服务，可分析文件和URL，以识别由防病毒引擎和网站扫描程序检测到的病毒，蠕虫，特洛伊木马和其他种类的恶意内容. 同时，它可以用作检测误报的手段，即被一个或多个扫描仪检测为恶意的无害资源.
 - [IntelMQ](https://github.com/certtools/intelmq/)  -IntelMQ是用于CERT的解决方案，用于使用消息队列协议收集和处理安全性提要，pastebins，tweet. 这是一个由社区推动的举措，称为IHAP（事件处理自动化项目），由欧洲CERT在几次InfoSec活动期间进行概念设计. 其主要目标是为事件响应者提供一种简便的方法来收集和处理威胁情报，从而改善CERT的事件处理流程. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 - [CIFv2](https://github.com/csirtgadgets/massive-octo-spice)  -CIF是网络威胁情报管理系统.  CIF允许您组合来自许多来源的已知恶意威胁信息，并将该信息用于标识（事件响应），检测（IDS）和缓解（无效路由）.
-- [CriticalStack](https://intel.criticalstack.com/) -用于Bro网络安全监控平台的免费汇总威胁情报.
 - [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/)  -MISP威胁共享平台是一个免费的开源软件，可帮助共享威胁情报（包括网络安全指标）的信息. 一个威胁情报平台，用于收集，共享，存储和关联针对性攻击，威胁情报，财务欺诈信息，漏洞信息甚至是反恐信息的危害指标.  MISP项目包括软件，通用库（[taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)），一个广泛的数据模型，可使用 [objects](https://www.misp-project.org/objects.html) 和默认 [feeds](https://www.misp-project.org/feeds/).
 - [PhishStats](https://phishstats.info/) -网络钓鱼统计信息，用于搜索IP，域名和网站标题.
 
@@ -214,8 +215,8 @@
 
 ### Organization
 
-- [OWASP](http://www.owasp.org) -开放式Web应用程序安全性项目（OWASP）是一家致力于提高软件安全性的全球性501（c）（3）非营利性慈善组织.
-- [Portswigger](https://portswigger.net)  -PortSwigger提供用于Web应用程序安全性，测试和扫描的工具. 从广泛的安全工具中进行选择，并确定最新的漏洞.
+- [OWASP](http://www.owasp.org) -开放式Web应用程序安全性项目（OWASP）是一家致力于提高软件安全性的全球性501（c）（3）非营利慈善组织.
+- [Portswigger](https://portswigger.net) - PortSwigger offers tools for web application security, testing & scanning. Choose from a wide range of security tools & identify the very latest vulnerabilities.
 
 ### Web Application Firewall
 
@@ -227,7 +228,7 @@
 ### Scanning / Pentesting
 
 - [Spyse](https://spyse.com/)  -Spyse是OSINT搜索引擎，可提供有关整个Web的新鲜数据. 所有数据都存储在其自己的数据库中以进行即时访问，并相互互连以进行灵活的搜索.
-提供的数据：IPv4主机，子/域/ hois，端口/横幅/协议，技术，操作系统，AS，广泛的SSL / TLS DB等.
+提供的数据：IPv4主机，子/域/ whois，端口/横幅/协议，技术，操作系统，AS，宽SSL / TLS DB等.
 - [sqlmap](http://sqlmap.org/)  -sqlmap是一种开源渗透测试工具，它可以自动检测和利用SQL注入漏洞并接管数据库服务器的过程. 它具有强大的检测引擎，针对最终渗透测试仪的众多利基功能，以及从数据库指纹识别，从数据库获取数据到访问基础文件系统以及通过外出在操作系统上执行命令的广泛开关带内连接.
 - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)  -Zed攻击代理（ZAP）是易于使用的集成渗透测试工具，用于发现Web应用程序中的漏洞. 它被设计为具有广泛的安全经验的人使用，因此，它是渗透测试新手的开发人员和功能测试人员的理想选择.  ZAP提供自动扫描程序以及一系列工具，可让您手动查找安全漏洞.
 - [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist)  -在网络漏洞评估期间要测试的一些控件的列表. 可以找到Markdown版本 [here](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
@@ -260,17 +261,14 @@
 
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) -Web应用程序安全性和Pentest / CTF的有用负载和绕过列表
 
-
-
 ## Red Team Infrastructure Deployment
 
 - [Redcloud](https://github.com/khast3x/Redcloud) -使用Docker的自动化Red Team Infrastructure部署.
-
+- [Axiom](https://github.com/pry0cc/axiom) -Axiom是一个动态的基础架构框架，可以有效地与多云环境一起使用，构建和部署专注于攻防防御性的可重复基础架构.
 
 ## Usability
 
-- [Usable Security Course](https://pt.coursera.org/learn/usable-security)  -在Coursera的可用安全课程. 对于那些寻求安全性和可用性如何相交的人来说，这是非常好的.
-
+- [Usable Security Course](https://pt.coursera.org/learn/usable-security)  -Coursera的可用安全课程. 对于那些寻求安全性和可用性如何相交的人来说，这是非常好的.
 
 ## Big Data
 
@@ -287,6 +285,7 @@
 - [Securing DevOps](https://manning.com/books/securing-devops) -有关DevOps的安全技术的书，其中回顾了用于保护Web应用程序及其基础结构的最新实践.
 - [ansible-os-hardening](https://github.com/dev-sec/ansible-os-hardening) -强化操作系统的角色
 - [bunkerized-nginx](https://github.com/bunkerity/bunkerized-nginx) -默认情况下，nginx Docker镜像安全
+- [Trivy](https://github.com/aquasecurity/trivy) -适用于CI的用于容器和其他工件的简单而全面的漏洞扫描程序. 
 
 ## Operating Systems
 
@@ -305,12 +304,12 @@
 
 ## Datastores
 
-- [acra](https://github.com/cossacklabs/acra) - Database security suite: proxy for data protection with transparent "on the fly" data encryption, data masking and tokenization, SQL firewall (SQL injections prevention), intrusion detection system.
-- [blackbox](https://github.com/StackExchange/blackbox) -使用GPG将机密安全存储在VCS存储库中
+- [acra](https://github.com/cossacklabs/acra) -数据库安全套件：具有透明的“实时”数据加密，数据屏蔽和标记化，SQL防火墙（防止SQL注入），入侵检测系统的数据保护代理.
+- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
 - [confidant](https://github.com/lyft/confidant) -将机密存储在AWS DynamoDB中，静态加密并与IAM集成
 - [dotgpg](https://github.com/ConradIrwin/dotgpg) -一种用于安全轻松地备份和版本化生产机密或共享密码的工具.
 - [redoctober](https://github.com/cloudflare/redoctober) -两人规则样式文件加密和解密的服务器.
-- [aws-vault](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
+- [aws-vault](https://github.com/99designs/aws-vault) -将AWS凭证存储在OSX钥匙串或加密文件中
 - [credstash](https://github.com/fugue/credstash) -使用AWS KMS和DynamoDB存储机密
 - [chamber](https://github.com/segmentio/chamber) -使用AWS KMS和SSM参数存储存储机密
 - [Safe](https://github.com/starkandwayne/safe) -Vault CLI，使读取和写入Vault更容易.
@@ -328,14 +327,14 @@
 - [How to Investigate Like a Rockstar](https://books2read.com/u/4jDWoZ) -经历一场真正的危机以掌握法医分析的秘密，Sparc Flow，2017年
 - [Real World Cryptography](https://www.manning.com/books/real-world-cryptography) -这本抢先体验的书教您应用密码技术来理解和应用系统和应用程序各个级别的安全性.
 - [AWS Security](https://www.manning.com/books/aws-security?utm_source=github&utm_medium=organic&utm_campaign=book_shields_aws_1_31_20) -这本抢先阅读的书涵盖了常见的AWS安全问题以及有关访问策略，数据保护，审计，连续监控和事件响应的最佳实践.
-- [The Art of Network Penetration Testing](https://www.manning.com/books/the-art-of-network-penetration-testing)  -这本书是在企业网络上运行自己的渗透测试的动手指南.  （早期访问，不断发布，最终版本于2020年12月发布）
+- [The Art of Network Penetration Testing](https://www.manning.com/books/the-art-of-network-penetration-testing) - Book that is a hands-on guide to running your own penetration test on an enterprise network. (early access, published continuously, final release December 2020)
 
 ## Other Awesome Lists
 
 ### Other Security Awesome Lists
 
 - [Android Security Awesome](https://github.com/ashishb/android-security-awesome) -android安全相关资源的集合.
-- [Awesome ARM Exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) -精选的ARM开发资源列表.
+- [Awesome ARM Exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) -CTF框架，库，资源和软件的精选列表.
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) -精选的黑客环境列表，您可以在其中合法安全地培训网络技能.
 - [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) -精选的数字安全和隐私提示列表，以及指向更多资源的链接.
@@ -360,7 +359,6 @@
 - [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) -一系列有趣，有趣且令人沮丧的搜索查询，可插入Shodan.io.
 - [Awesome Anti Forensics](https://github.com/remiflavien1/awesome-anti-forensic) -用来对付取证活动的强大工具的集合.
 - [Awesome Security Talks & Videos](https://github.com/PaulSec/awesome-sec-talks) -精选的很棒的安全性演讲清单，按年份组织，然后再进行会议. 
-
 
 ### Other Common Awesome Lists
 

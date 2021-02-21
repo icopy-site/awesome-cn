@@ -103,7 +103,7 @@
   - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) -整理React Hooks的规则.
   - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) -响应本机特定的掉毛规则.
   - [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) -React-Redux特定的掉毛规则.
--查看
+- 看法
   - [VueJS](https://github.com/vuejs/eslint-plugin-vue) -VueJS插件.
   - [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) -VueJS中的范围CSS插件.
 
@@ -113,7 +113,7 @@
 -ES5
   - [Babel](https://github.com/babel/eslint-plugin-babel) -添加了内置规则的替代，以包括Babel功能.
   - [import](https://github.com/benmosher/eslint-plugin-import) -整理ES2015 +导入/导出语法，并防止文件路径和导入名称拼写错误.
-- 流
+- 流动
   - [Flow](https://github.com/gajus/eslint-plugin-flowtype) -流型起毛规则.
   - [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) -将Flow作为ESLint插件运行.
 - [HTML](https://github.com/yeonjuan/html-eslint) -用于HTML的ESLint插件.
@@ -121,6 +121,7 @@
   - [JSON](https://github.com/azeemba/eslint-plugin-json) -整理您的JSON文件.
   - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format)  -整理，格式化和自动修复JSON文件. 对您的“ package.json”进行排序.
   - [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) -用于JSON，JSONC和JSON5的ESLint插件.
+  - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) -使用JSON Schema Validator验证在JavaScript，JSON，YAML和TOML中定义的数据.
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) -用于MDX的ESLint解析器/插件.
 - [Node](https://github.com/mysticatea/eslint-plugin-node) -针对Node.js的其他ESLint规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) -ESLint的SQL插入规则.
@@ -138,7 +139,7 @@
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -JSDoc注释的规则（包括@example中的JavaScript）.
 -罗达斯
   - [Lodash](https://github.com/wix/eslint-plugin-lodash) -Lodash特定的起毛规则.
-  - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) -Lodash / fp特定的起毛规则.
+  - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules.
   - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -Lodash模板/下划线模板的插件.
   - [Microtemplates](https://github.com/platinumazure/eslint-plugin-microtemplates) （用于Lodash和Underscore.js）
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) -Mongodb本机Node.js驱动程序添加规则.
@@ -174,7 +175,7 @@
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) -兑现承诺时的最佳做法.
 - [pure](https://github.com/purely-functional/eslint-plugin-pure) -强制执行纯功能（无副作用）.
 - [RegExp](https://github.com/ota-meshi/eslint-plugin-regexp) -用于查找正则表达式错误和违反样式指南的ESLint插件.
-- [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) - Adds fixer for ESLint `sort-keys` rule.
+- [sort-keys-fix](https://github.com/leo-buneev/eslint-plugin-sort-keys-fix) -为ESLint`sort-keys`规则添加了修复程序.
 - [this](https://github.com/matijs/eslint-plugin-this) -写纯函数，不允许`this`.
 - [toplevel](https://github.com/HKalbasi/eslint-plugin-toplevel) -eslint插件，可避免在模块顶层产生副作用.
 
@@ -213,7 +214,7 @@
 - [Cucumber](https://github.com/darrinholst/eslint-plugin-cucumber) -黄瓜的整理规则.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) -赛普拉斯的绒毛规则.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) -茉莉花的整理规则.
--是
+- 是
   - [Enforcing practices](https://github.com/jest-community/eslint-plugin-jest) -嘲笑的规则.
   - [Enforcing consistent formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) -开玩笑的格式设置规则.
   - [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) -开玩笑的异步整理规则.

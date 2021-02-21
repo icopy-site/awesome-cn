@@ -25,7 +25,7 @@
 * [C++ Workflow](https://github.com/sogou/workflow)  -C ++并行计算和异步网络引擎.  [Apache2]
 * [Cinder](https://libcinder.org/)  -社区开发的免费开放源代码库，用于提供专业质量的创意编码.  [BSD]
 * [Cxxomfort](http://ryan.gulix.cl/fossil.cgi/cxxomfort/)  -一个小的仅标头的库，它将各种功能从最新的C ++标准向后移植到C ++ 03及更高版本.  [麻省理工学院]
-* [Dlib](https://github.com/davisking/dlib)  ：zap：-使用契约式编程和现代C ++技术设计的通用跨平台C ++库.  [促进] [website](http://dlib.net/)
+* [Dlib](https://github.com/davisking/dlib) ：zap：-使用C ++制作现实世界中的机器学习和数据分析应用程序的工具包 [website](http://dlib.net/)
 * [EASTL](https://github.com/electronicarts/EASTL)  -电子艺术标准模板库.  [BSD]
 * [ETL](https://github.com/ETLCPP/etl)  -嵌入式模板库.  [麻省理工学院]
 * [ffead-cpp](https://github.com/sumeetchhetri/ffead-cpp)  -企业应用程序开发框架.  [Apache2]
@@ -117,7 +117,7 @@
 * [jech/dht](https://github.com/jech/dht) -C中的BitTorrent DHT库.[MIT]
 * [libtorrent](https://github.com/arvidn/libtorrent)  （aka libtorrent-rasterbar）-高效的功能完整的C ++ bittorrent实现.  [BSD]
 * [LibTorrent](https://github.com/rakshasa/libtorrent)  （aka libtorrent-rakshasa）-BitTorrent库.  [GPL]
-* [libutp](https://github.com/bittorrent/libutp)  -uTorrent传输协议库.  [麻省理工学院]
+* [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. [MIT]
 
 ## Chemistry
 *Chemistry, Geochemistry, Biochemistry*
@@ -144,7 +144,7 @@
  * [linenoise-ng](https://github.com/arangodb/linenoise-ng)  -用于Linux，Windows和MacOS的小型便携式GNU readline替代品，能够处理UTF-8字符.  [BSD]
  * [Lyra](https://github.com/bfgroup/Lyra)  -简单易用，可组合的C ++ 11及更高版本的命令行解析器.  [促进]
  * [Ncurses](http://invisible-island.net/ncurses/)  -终端用户界面.  [麻省理工学院]
- * [PDCurses](https://github.com/wmcbrine/PDCurses)  -具有源代码和预编译库的公共领域curses库.  [公共区域]
+ * [PDCurses](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
  * [replxx](https://github.com/AmokHuginnsson/replxx)  -支持UTF-8，语法突出显示，提示的readline和libedit替换，可在Unix和Windows上使用.  [BSD]
  * [tabulate](https://github.com/p-ranav/tabulate) -现代C ++的表格制作工具[MIT]
  * [TCLAP](http://tclap.sourceforge.net)  -一个成熟，稳定且功能丰富的库，用于在ANSI C ++中定义和访问命令行参数.  [麻省理工学院]
@@ -453,7 +453,7 @@
 * [MagickWnd](http://www.imagemagick.org/script/api.php) -C的ImageMagick程序接口.[Apache2]
 * [OpenCV](http://opencv.org/)  ：zap：-开源计算机视觉.  [BSD]
 * [OpenEXR](http://www.openexr.com/)  -用于高动态范围成像的跨平台库.  [修改后的BSDF]
-* [OpenImageIO](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
+* [OpenImageIO](https://github.com/OpenImageIO/oiio)  -强大的图像和纹理处理库，支持多种常见的有损和RAW格式.  [修改后的BSD]
 * [Simd](https://github.com/ermig1979/Simd)  -使用SIMD的C ++图像处理库：SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON for ARM.  [麻省理工学院]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)  -STB单头图像加载库.  [公共区域]
 * [tesseract-ocr](https://github.com/tesseract-ocr)  -OCR引擎.  [Apache2]
@@ -498,7 +498,7 @@
 * [JSON++](https://github.com/hjiang/jsonxx)  -C ++中的JSON解析器.  [麻省理工学院]
 * [json.h](https://github.com/sheredom/json.h)  -在C和C ++中解析JSON的简单的单头/单源解决方案.  [无牌]
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
-* [jsoncons](https://github.com/danielaparker/jsoncons)  -使用JSONPointer，JSONPatch，JSONPath和JMESPath的JSON和类似JSON二进制格式的C ++仅标头库.  [促进]
+* [jsoncons](https://github.com/danielaparker/jsoncons)  -用于JSON和类似JSON的二进制格式的C ++仅标头库，带有JSONPointer，JSONPatch，JSONPath和JMESPath.  [促进]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [麻省理工学院]
 * [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间很低的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [麻省理工学院]
@@ -754,7 +754,7 @@
 * [djinni](https://github.com/dropbox/djinni)  -生成跨语言类型声明和接口绑定的工具.  [Apache2]
 * [Duktape](https://github.com/svaarala/duktape)  -占用空间小的嵌入式Javascript引擎.  [麻省理工学院] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)  -Java和本机C ++之间缺少的桥梁.  [Apache2]
-* [libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library. [MIT] [website](https://sourceware.org/libffi/)
+* [libffi](https://github.com/libffi/libffi)  -便携式外部功能接口库.  [麻省理工学院] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/)  -用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [麻省理工学院]
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge)  -轻量级，无依赖的库，用于将Lua绑定到C ++.  [麻省理工学院]
 * [luacxx](https://github.com/dafrito/luacxx)  -用于创建Lua绑定的C ++ 11 API.  [麻省理工学院]

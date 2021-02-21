@@ -404,7 +404,7 @@
 *一些项目受到榆木的影响*
 
 * [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
-* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) 基于OCaml的Elm架构/ Reason and [Bucklescript](https://bucklescript.github.io/)
+* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) -基于OCaml的Elm架构/ Reason and [Bucklescript](https://bucklescript.github.io/)
 * [Elchemy](https://github.com/wende/elchemy) -使用静态类型的类似Elm的语法编写Elixir代码
 * [Elmish](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
 * [Fabulous](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
@@ -412,6 +412,7 @@
 * [Redux](https://redux.js.org/introduction/prior-art) -JavaScript应用程序的可预测状态容器.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) -.NET多平台应用程序用户界面
+* [Oolong](https://oolong-kt.org/) -Elm启发的Kotlin跨平台模型视图更新（MVU）实现.
 
 
 ---
@@ -429,7 +430,7 @@
 
 ## Who to follow
 
- *免费跟随新更新. 利用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *免费跟随新更新. 使用 [#elmlang](https://twitter.com/search?q=%23elmlang) 或者 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---

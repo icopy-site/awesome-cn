@@ -15,7 +15,7 @@
 ### Samsung Tizen
 #### Official resources
 * [Samsung TV Developers site](http://developer.samsung.com/tv) -新闻，文档和SDK下载.
-* [Tizen TV Developers site](https://developer.tizen.org/tizen/tv) -有关开发Tizen TV应用程序的完整API文档和指南.
+* [Tizen TV Developers site](https://developer.tizen.org/tizen/tv) - Full API documentation and guides for developing Tizen TV apps.
 * [Tizen Studio](https://developer.tizen.org/development/tizen-studio/download) -用于电视应用程序开发的IDE，包括Tizen TV Emulator.
 * [Smart View SDK](http://developer.samsung.com/tv/develop/extension-libraries/smart-view-sdk/download/) -官方Android，IOS和JavaScript SDK，用于在远程设备和Samsung Smart TV之间进行通信.
 * [Samsung TV Developers Forum](http://developer.samsung.com/forum/?topCtgy=06) -在使用Samsung SDK开发应用程序时提出问题并分享提示.
@@ -47,7 +47,7 @@
 #### Third-party remote control libraries
 * [lgtv2](https://github.com/hobbyquaker/lgtv2) -Node.js模块，用于通过WebSocket消息（JavaScript）远程控制LG webOS TV.
 * [node-red-contrib-lgtv](https://github.com/hobbyquaker/node-red-contrib-lgtv) -模块 [Node-RED](https://nodered.org) 允许远程控制LG webOS智能电视（JavaScript）.
-* [node-webos](https://github.com/WeeJeWel/node-webos) - Node.js module to discover and control webOS TVs (JavaScript).
+* [node-webos](https://github.com/WeeJeWel/node-webos) -Node.js模块，用于发现和控制WebOS电视（JavaScript）.
 * [lgtv2mqtt](https://github.com/hobbyquaker/lgtv2mqtt) -LG WebOS智能电视和MQTT（JavaScript）之间的接口.
 * [ares-webos-sdk](https://github.com/stevenvong/ares-webos-sdk) -webOS [CLI](http://webostv.developer.lge.com/sdk/using-webos-tv-cli/) 作为单独的NPM模块（JavaScript）.
 * [pylgtv](https://github.com/TheRealLink/pylgtv) -用于控制基于webOS的LG Tv设备的库（Python）.
@@ -81,7 +81,7 @@
 * [TVs with Chromecast built-in](https://www.google.com/chromecast/built-in/tv/) -支持内置Chromecast的厂商列表以及相对于传统电视遥控器的优势.
 
 ## Cross-platform frameworks
-* [react-tv](https://github.com/raphamorim/react-tv) -TV的React开发：适用于低内存应用程序的渲染器以及适用于WebOS，Tizen和Orsay的Packager.
+* [react-tv](https://github.com/raphamorim/react-tv) -TV的React开发：适用于低内存应用程序的渲染器，以及适用于WebOS，Tizen和Orsay的Packager.
 * [TOAST](http://developer.samsung.com/tv/develop/extension-libraries/toast/) -开发多平台电视应用程序的三星开源框架.
 * [Enyo](http://enyojs.com) -LG框架，适用于从电话和平板电脑到PC和电视的所有主要平台的开发应用程序.
 * [Smartbox](https://github.com/immosmart/smartbox) -适用于三星，LG，飞利浦，SmartTV Aliance，STB Mag应用程序开发的智能电视通用库.
@@ -108,7 +108,6 @@
 
 ## Misc
 * [LIRC](http://lirc.org) -允许您解码和发送许多（但不是全部）常用遥控器的红外信号的软件包.
-* [smart-tv-app-dev-guidelines](https://github.com/ruiposse/smart-tv-app-dev-guidelines)  -Smart TV App开发示例，教程，最佳做法和文档. 上次更新时间为2015年.
 * [awesome-smarttv](https://github.com/linuxenko/awesome-smarttv)  -另一个智能电视资源列表. 在完成此操作后发现：roll_eyes:.
 * [docker-tizen-webos-sdk](https://github.com/vitalets/docker-tizen-webos-sdk)  -使用Samsung Tizen CLI和LG webOS CLI的Docker映像. 无需安装Tizen Studio和webOS SDK，即可开发，构建，启动和调试智能电视应用程序.
 
@@ -117,8 +116,8 @@
 * [Reddit](https://www.reddit.com/r/smarttv)
 
 ## Contribute
-随时分享您的经验，并通过创建来贡献有用的扩展资源 [new issue](https://github.com/vitalets/awesome-smart-tv/issues) 要么 [pull request](https://github.com/vitalets/awesome-smart-tv/pulls).
-请阅读 [contribution guidelines](https://github.com/vitalets/awesome-smart-tv/blob/master/CONTRIBUTING.md) 第一. 谢谢！
+随时分享您的经验，并通过创建来贡献有用的扩展资源 [new issue](https://github.com/vitalets/awesome-smart-tv/issues) 或者 [pull request](https://github.com/vitalets/awesome-smart-tv/pulls).
+请阅读 [contribution guidelines](https://github.com/vitalets/awesome-smart-tv/blob/master/CONTRIBUTING.md) 第一的. 谢谢！
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

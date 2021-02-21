@@ -243,6 +243,7 @@
 - [FATpick](https://www.fatpick.com) -吉他弹奏器查看器，可在演奏时为您的演奏评分.
 - [Taskade](https://www.taskade.com) -用于具有任务，注释和聊天功能的分布式团队的实时组织和协作工具.
 - [Coloban](https://www.coloban.com) -具有聊天，看板，甘特图，通话，屏幕共享等功能的多合一项目管理工具.
+- [Dynobase](https://dynobase.dev) - AWS DynamoDB GUI.
 
 ### Samples
 

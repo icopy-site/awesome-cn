@@ -18,9 +18,9 @@
 <!-- DO NOT EDIT THIS LIST DIRECTLY. Rather you need to update data.json -->
 
 
-Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
+在GitHub上收到新通知时显示通知，并提供对弹出式窗口中所有通知的快速访问.
 
-安装次数：204 | 星级：50 | 最近更新：2021年1月21日
+安装次数：206 | 星级：50 | 最近更新：2021年1月21日
 
 
 通过自动标记为不值得查看的已查看文件，从拉取请求中消除混乱.
@@ -45,12 +45,12 @@ GitHub Chrome扩展程序的CoderStats链接显示指向GitHub上当前显示的
 
 显示每个文件的大小，下载链接以及将文件内容直接复制到剪贴板的选项
 
-安装次数：30184 | 星级：1112 | 最近更新：2021年1月2日
+安装次数：30187 | 星级：1112 | 最近更新：2021年1月2日
 
 
 轻松搜索GIPHY以将GIF添加到任何GitHub注释框中.
 
-安装次数：1227 | 星级：48 | 最后更新：2020年11月15日
+安装次数：1232 | 星级：48 | 最后更新：2020年11月15日
 
 
 为您的出色拉取请求找到最佳的GIF.
@@ -60,7 +60,7 @@ GitHub Chrome扩展程序的CoderStats链接显示指向GitHub上当前显示的
 
 从任何git存储库中快速浏览文件的历史记录.
 
-安装：6253 | 星级：12420 | 最近更新：2020年5月6日
+安装次数：6256 | 星级：12422 | 最近更新：2020年5月6日
 
 
 简单而谨慎的扩展，增强了GitHub的搜索功能，使您可以比以往更快地搜索存储库和人员.
@@ -68,9 +68,9 @@ GitHub Chrome扩展程序的CoderStats链接显示指向GitHub上当前显示的
 安装次数：10000 | 星级：1012 | 最近更新：2018年2月22日
 
 
-代码折叠-有选择地隐藏和显示代码部分的能力-在许多文本编辑器和IDE中都是无价的功能. 现在，开发人员可以在GitHub上通过Web浏览源代码的同时使用相同样式的代码折叠. 适用于任何类型的缩进空格或制表符.
+Code folding - the ability to selectively hide and display sections of a code - is an invaluable feature in many text editors and IDEs. Now, developers can utilize that same style code-folding while poring over source code on the web in GitHub. Works for any type of indentation- spaces or tabs.
 
-安装次数：2173 | 星级：227 | 最近更新：2019年4月10日
+安装次数：2175 | 星级：227 | 最近更新：2019年4月10日
 
 
 在GitHub.com上为代码视图设置自定义标签大小
@@ -88,9 +88,9 @@ GitHub.com的黑暗模式
 安装次数：194 | 星级：12 | 最近更新：2018年9月7日
 
 
-一个浏览器扩展，在GitHub上为不同的文件类型提供了不同的图标.
+A browser extension which gives different filetypes different icons on GitHub.
 
-安装数量：10718 | 星级：903 | 最后更新：2020年10月9日
+安装次数：10725 | 星级：903 | 最后更新：2020年10月9日
 
 
 在GitHub源代码视图中突出显示选定的单词，例如Sublime Text.
@@ -100,7 +100,7 @@ GitHub.com的黑暗模式
 
 GitHub的简洁悬浮卡.
 
-安装次数：19918 | 星级：1557 | 最近更新：2021年1月15日
+安装次数：19940 | 星级：1557 | 最近更新：2021年1月15日
 
 
 为问题和PR链接着色，以查看其状态（打开，关闭，合并）.
@@ -130,12 +130,12 @@ Chrome扩展程序可查看GitHub项目中的故事点.
 
 该扩展为GitHub中的问题，评论，拉取请求，Wiki和讨论增加了所见即所得编辑的简便性. 它从表开始接受Markdown输入并提供富有成效的书写.
 
-安装次数：1006 | 星级：217 | 最近更新：2021年1月27日
+安装次数：1015 | 星级：217 | 最近更新：2021年1月27日
 
 
 Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在资源库浏览器中.
 
-安装次数：1207 | 星级：110 | 最近更新：2021年2月14日
+安装次数：1208 | 星级：111 | 最近更新：2021年2月14日
 
 
 创建，保存，编辑，固定，搜索和删除在Github Issues和Pull Requests页面上常用的过滤器. 您可以将过滤器的范围设置为全局（在每个存储库中）显示，或者仅使它们显示在您创建它们的存储库中. 固定过滤器也是此扩展允许您执行的功能. 因此，如果您每天使用多个过滤器，则可以在列表顶部找到快速访问它们的方法.
@@ -145,7 +145,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在资源库�
 
 扩展以获取当前和最长的条纹.
 
-安装次数：725 | 星级：197 | 最近更新：2021年2月7日
+安装数量：726 | 星级：197 | 最近更新：2021年2月7日
 
 
 用GitHub趋势项目替换浏览器的新选项卡屏幕.
@@ -170,12 +170,12 @@ Chrome扩展程序，它在浏览器中添加了一个按钮，并将该按钮�
 
 请参见存储库名称下星号最多的叉子.
 
-安装次数：1222 | 星级：360 | 最后更新：2020年12月26日
+安装次数：1225 | 星级：360 | 最后更新：2020年12月26日
 
 
-一个扩展，可在GitHub的源代码上创建到外部或内部导入模块的直接链接. 支持多种语言，包括Rust，Go，Python和Ruby等常见语言，以及Nim，Haskell，Julia和Elm等奇数语言.
+<i>An extension that creates direct links to imported modules, external or internal, on source code on GitHub.</i><b>一个扩展，可在GitHub的源代码上创建到外部或内部导入模块的直接链接。</b> <i>Supports multiple languages, including common ones like Rust, Go, Python and Ruby, but also odd ones like Nim, Haskell, Julia and Elm.</i><b>支持多种语言，包括Rust，Go，Python和Ruby等常见语言，以及Nim，Haskell，Julia和Elm等奇数语言。</b>
 
-安装次数：1099 | 星级：229 | 最后更新：2019年11月27日
+安装次数：1101 | 星级：229 | 最后更新：2019年11月27日
 
 
 Chrome扩展程序，可帮助您避免错过与回购相关的新闻线程中的重要更改
@@ -185,12 +185,12 @@ Chrome扩展程序，可帮助您避免错过与回购相关的新闻线程中�
 
 Chrome和Firefox扩展程序，可在弹出窗口中快速查看您的通知，而无需离开当前页面.
 
-安装次数：324 | 星级：98 | 最后更新：2020年12月10日
+安装次数：326 | 星级：98 | 最后更新：2020年12月10日
 
 
 显示您的GitHub通知未读计数. 支持GitHub Enterprise，并提供仅显示您正在参与的问题的未读计数的选项.您可以单击图标以快速查看未读通知.
 
-安装次数：10359 | 星级：1243 | 最后更新：2020年11月19日
+安装次数：10369 | 星级：1243 | 最后更新：2020年11月19日
 
 
 Octohint向GitHub添加了IntelliSense提示功能.
@@ -205,7 +205,7 @@ Octohint向GitHub添加了IntelliSense提示功能.
 
  OctoLinker是在GitHub上的文件和项目之间导航的最简单，最好的方法. 它支持JavaScript，Ruby，Go，PHP，JAVA等语言. 它适用于package.json以及Gemfiles.
 
-安装次数：30123 | 星级：4637 | 最近更新：2021年1月2日
+安装次数：30139 | 星级：4636 | 最近更新：2021年1月2日
 
 
  OctoPermalinker是一个浏览器扩展程序，它在GitHub注释/文件中搜索到分支上文件的链接，并在创建/更新注释/文件时将链接添加到分支指向的位置. 这有助于您避免跟踪发布后断开的链接. 对于上下文，这里是有关断开的GitHub链接的一些讨论： [Don't link to line numbers in GitHub](https://news.ycombinator.com/item?id=8046710).
@@ -217,12 +217,12 @@ Octohint向GitHub添加了IntelliSense提示功能.
 
 对于经常在GitHub上阅读源代码并且不想下载或签出太多存储库的开发人员很有用.
 
-安装：331051 | 星级：20998 | 最近更新：2021年1月19日
+安装：331207 | 星数：21000 | 最近更新：2021年1月19日
 
 
 帮助您跟踪传入和传出的PR，并在GitHub上收到拉取请求时通知您.
 
-安装次数：516 | 星级：44 | 最近更新：2020年6月5日
+安装次数：517 | 星级：44 | 最近更新：2020年6月5日
 
 
 浏览器扩展，显示哪些拉取请求包含与文件相关的更改.
@@ -232,12 +232,12 @@ Octohint向GitHub添加了IntelliSense提示功能.
 
 该扩展程序简化了GitHub界面并添加了有用的功能.
 
-安装：45245 | 星级：13738 | 最近更新：2021年2月9日
+安装次数：45325 | 星级：13746 | 最近更新：2021年2月19日
 
 
 他们是标签吗？ 他们是空格吗？ 多少？ 再也不要怀疑了！ 在GitHub上的所有代码中，将空格呈现为“·”，将制表符呈现为“→”.
 
-安装次数：643 | 星级：64 | 最后更新：2018年8月25日
+安装次数：644 | 星级：64 | 最后更新：2018年8月25日
 
 
 在拉取请求界面中引入“浏览”选项卡，您可以在其中查看按重要性排序的更改，并查看每个更改周围的语义上下文.
@@ -253,7 +253,7 @@ Octohint向GitHub添加了IntelliSense提示功能.
 4.悬停工具提示
 5.文件树导航
 
-Installs: 100000 | Stars: 4425 | Last update: 17 Feb 2021
+安装次数：100000 | 星：4428 | 最近更新：2021年2月17日
 
 
 通过将制表符的大小强制为4而不是8，使制表符缩进的代码更具可读性.
@@ -268,7 +268,7 @@ Installs: 100000 | Stars: 4425 | Last update: 17 Feb 2021
 
  ZenHub是第一个也是唯一一个可以在GitHub内部运行的项目管理套件. 通过专门为初创公司，快速发展的工程团队和开源社区构建的功能来增强您的工作流程. 该产品是一个浏览器扩展，可注入高级功能，包括实时拖放式发行任务板，通过+1按钮提供的对等反馈以及支持将任何文件类型直接上传到GitHub界面.  ZenHub可以轻松地将所有流程集中到GitHub，从而保持团队的精简和敏捷性.
 
-安装次数：70000 | 星级：n / a | 最近更新：2021年2月17日
+安装次数：70000 | 星级：n / a | 最近更新：2021年2月19日
 
 
 在1400px，1600px和1800px处添加断点，以便在大屏幕上获得完整的GitHub体验. 还可以在资源库浏览器中删除文件名和目录名的截断.
@@ -278,4 +278,4 @@ Installs: 100000 | Stars: 4425 | Last update: 17 Feb 2021
 
 当在github.com上查看具有package.json文件的存储库时，此扩展将内省package.json中的依赖项，并在回购协议的README下方显示每个依赖项的链接和描述.
 
-安装次数：2145 | 星：535 | 最近更新：2021年1月31日
+安装次数：2147 | 星数：536 | 最近更新：2021年1月31日

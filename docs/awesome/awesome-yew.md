@@ -29,7 +29,7 @@
 - [Realworld example](https://github.com/jetli/rust-yew-realworld-example-app) -使用Rust + Yew + WebAssembly构建的示例现实世界应用程序.
 - [webapp.rs](https://github.com/saschagrunert/webapp.rs) -使用Yew构建完全用Rust编写的Web应用程序.
 - [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) -易于测试且工作正常的Rust代码以及博客文章以对其进行解释.
-- [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) -完全用Rust编写的网络应用，用于傻瓜派对游戏.
+- [Bucket Questions](https://github.com/hgzimmerman/BucketQuestions) - A webapp written entirely in Rust for a dumb party game.
 - [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) -演示如何将yew用于编译为WebAssembly并捆绑为轻量级（〜2mb）桌面应用程序的todomvc [web-view](https://github.com/Boscop/web-view)作为电子的替代品， [web-view](https://github.com/Boscop/web-view) 也有一个 [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew).
 - [yew-react-example](https://github.com/hobofan/yew-react-example) -该项目展示了如何使用Yew组件内部的React组件创建Web应用程序.
 - [Kirk](https://github.com/stkevintan/Kirk) -只是Rust WebAssembly博客.
@@ -48,7 +48,7 @@
 - [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) -颇有建树的样板，可用于使用Rust创建全栈应用程序.
 - [Chord Quiz](https://github.com/Stigjb/chord-quiz) -在此Rust / Yew / WebAssembly应用中练习识别和弦.
 - [RustMart](https://github.com/sheshbabu/rustmart-yew-example) -使用Rust，Wasm和Yew编写的单页应用程序（SPA）.
-- [DevAndDev](https://github.com/alepez/devand)  -一个网站，开发人员可以在该网站上找到配对编程伙伴. 用红豆杉前端写在Rust中.
+- [DevAndDev](https://github.com/alepez/devand)  -一个网站，开发人员可以在该网站上找到配对编程合作伙伴. 用红豆杉前端写在Rust中.
 - [yew-octicons](https://github.com/io12/yew-octicons) -在Yew项目中使用Octicons的简单界面.
 - [Pipe](https://github.com/pipe-fun/pipe) -这是一个Rust / Wasm客户端Web应用程序，它是一个任务控制中心.
 - [note-to-yew](https://github.com/GalAster/note-to-yew) -在线将您的标记转换为Yew宏，这也是Yew制作的.
@@ -76,6 +76,7 @@
 - [Yewprint](https://github.com/cecton/yewprint) -blueprintjs.com到Yew的端口.
 - [ybc](https://github.com/thedodd/ybc) -基于Bulma CSS框架的Yew组件库.
 - [patternfly-yew](https://github.com/ctron/patternfly-yew) -紫杉的Patternfly组件.
+- [yew-feather](https://github.com/pedrodesu/yew-feather) -紫杉的羽毛图标组件.
 
 ### Components
 
@@ -87,7 +88,7 @@
 
 - [yew-state](https://github.com/intendednull/yew-state) -Yew组件的人体工程学共享状态，以及可选的持久性本地和会话存储.
 - [reacty_yew](https://github.com/hobofan/reacty_yew) -通过Typescript类型定义从React组件生成Yew组件.
-- [styled-yew](https://github.com/IcyDefiance/styled-yew) - CSS in Rust, similar to styled-components, but for Yew.
+- [styled-yew](https://github.com/IcyDefiance/styled-yew) -Rust中的CSS，类似于样式组件，但适用于Yew.
 
 ### Wasm
 

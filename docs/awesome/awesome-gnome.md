@@ -8,7 +8,7 @@
 
 [GNOME](https://www.gnome.org/) 是Linux和Unixes的桌面环境，旨在使用户掌控一切. 它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
 
-&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为Classic模式一部分维护和分发的扩展.
+&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为经典模式的一部分维护和分发的扩展.
 
 &gt;标有！[GNOME Circle] [GNOME Circle]的项目是由 [GNOME Circle](https://www.gnome.org/Circle/) 旨在展示GNOME的最佳应用程序和库的计划.
 
@@ -286,7 +286,7 @@
 
 ### Examples
 
-- [Hello](https://github.com/chergert/hello) -不同语言的GNOME / GTK的Hello World示例集.
+- [Hello](https://gitlab.gnome.org/chergert/hello) -不同语言的GNOME / GTK的Hello World示例集.
 
 ### Documentations
 

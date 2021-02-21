@@ -129,7 +129,7 @@
 * [cli](https://github.com/mkideal/cli) -基于golang struct标签的功能丰富且易于使用的命令行包.
 * [cli](https://github.com/teris-io/cli) -用于在Go中构建命令行界面的简单而完整的API.
 * [climax](http://github.com/tucnak/climax) -根据Go命令的精神，具有“人脸”功能的替代CLI.
-* [clîr](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
+* [clîr](https://github.com/leaanthony/clir)  -简单明了的CLI库. 无依赖关系.
 * [cmd](https://github.com/posener/cmd) -扩展了标准的flag软件包，以支持子命令，并且以idomatic方式提供更多支持.
 * [cmdr](https://github.com/hedzr/cmdr) -POSIX / GNU样式，类似于getopt的命令行UI Go库.
 * [cobra](https://github.com/spf13/cobra) -用于现代Go CLI交互的指挥官.
@@ -183,7 +183,7 @@
 * [gookit/color](https://github.com/gookit/color) -终端色彩渲染工具库，支持16色，256色，RGB色彩渲染输出，与Windows兼容.
 * [mpb](https://github.com/vbauerster/mpb) -终端应用程序的多进度条.
 * [progressbar](https://github.com/schollz/progressbar) -适用于每个操作系统的基本线程安全进度条.
-* [pterm](https://github.com/pterm/pterm) -一个库，可通过许多可组合组件美化每个平台上的控制台输出.
+* [pterm](https://github.com/pterm/pterm) - A library to beautify console output on every platform with many combinable components.
 * [simpletable](https://github.com/alexeyco/simpletable) -使用Go在终端中创建简单表.
 * [tabby](https://github.com/cheynewallace/tabby) -一个用于超级简单Golang表的小型库.
 * [table](https://github.com/tomlazar/table) -用于基于终端颜色的表的小型库.
@@ -664,7 +664,7 @@
 * [gut/yos](https://github.com/1set/gut) -简单可靠的文件操作包，例如文件，目录和符号链接上的复制/移动/差异/列表.
 * [notify](https://github.com/rjeczalik/notify) -具有简单API的文件系统事件通知库，类似于os / signal.
 * [opc](https://github.com/qmuntal/opc) -加载Go的开放式包装约定（OPC）文件.
-* [parquet](https://github.com/parsyl/parquet) - 读和写 [parquet](https://parquet.apache.org) 文件.
+* [parquet](https://github.com/parsyl/parquet) - Read and write [parquet](https://parquet.apache.org) 文件.
 * [pdfcpu](https://github.com/pdfcpu/pdfcpu) -PDF处理器.
 * [skywalker](https://github.com/dixonwille/skywalker) -允许一个人同时轻松地通过文件系统的软件包.
 * [stl](https://gitlab.com/russoj88/stl)  -读取和写入STL（立体光刻）文件的模块. 并发读取算法.
@@ -1538,7 +1538,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [bel](https://github.com/32leaves/bel)  -从Go结构/接口生成TypeScript接口. 对JSON RPC有用.
 * [binstruct](https://github.com/ghostiam/binstruct) -Golang二进制解码器，用于将数据映射到结构中.
 * [cbor](https://github.com/fxamacker/cbor) -小型，安全和容易的CBOR编码和解码库.
-* [colfer](https://github.com/pascaldekloe/colfer) - Code generation for the Colfer binary format.
+* [colfer](https://github.com/pascaldekloe/colfer) -Colfer二进制格式的代码生成.
 * [csvutil](https://github.com/jszwec/csvutil) -高性能，惯用的CSV记录对本地Go结构的编码和解码.
 * [elastic](https://github.com/epiclabs-io/elastic) -无论何时，都可以在运行时跨不同类型转换切片，映射或任何其他未知值.
 * [fixedwidth](https://github.com/huydang284/fixedwidth) -固定宽度的文本格式（支持UTF-8）.
@@ -1874,7 +1874,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [backscanner](https://github.com/icza/backscanner) -类似于bufio.Scanner的扫描仪，但是它以相反的顺序读取和返回行，从给定位置开始并向后移动.
 * [beyond](https://github.com/wesovilabs/beyond) -Go工具将带您进入AOP世界！
 * [blank](https://github.com/Henry-Sarabia/blank) -验证或删除字符串中的空格和空格.
-* [bleep](https://github.com/sinhashubham95/bleep) - Perform any number of actions on any set of OS signals in Go.
+* [bleep](https://github.com/sinhashubham95/bleep) -在Go中对任意一组OS信号执行任意数量的操作.
 * [boilr](https://github.com/tmrts/boilr) -快速，快速的CLI工具，用于从样板模板创建项目.
 * [changie](https://github.com/miniscruff/changie) -自动化的changelog工具，用于准备带有许多自定义选项的发行版.
 * [chyle](https://github.com/antham/chyle) -使用git存储库的Changelog生成器具有多种配置可能性.
@@ -1935,6 +1935,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [goseaweedfs](https://github.com/linxGnu/goseaweedfs) -具有几乎全部功能的SeaweedFS客户端库.
 * [gostrutils](https://github.com/ik5/gostrutils) -字符串操作和转换函数的集合.
 * [gotenv](https://github.com/subosito/gotenv) -从Go中的.env或任何io.Reader加载环境变量.
+* [goval](https://github.com/maja42/goval) -在Go中评估任意表达式.
 * [gpath](https://github.com/tenntenn/gpath) -通过Go的表达来简化访问结构字段的库.
 * [gubrak](https://github.com/novalagung/gubrak)  -Golang实用程序库，带有语法糖. 就像lodash，但对于golang.
 * [handy](https://github.com/miguelpragier/handy) -许多实用程序和帮助程序，例如字符串处理程序/格式化程序和验证程序.
@@ -2008,7 +2009,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [UNIS](https://github.com/esemplastic/unis) -Go中字符串实用程序的Common Architecture™.
 * [usql](https://github.com/knq/usql) -usql是SQL数据库的通用命令行界面.
 * [util](https://github.com/shomali11/util)  -收集有用的实用程序功能.  （字符串，并发，操作...）.
-* [wuzz](https://github.com/asciimoo/wuzz) -用于HTTP检查的交互式cli工具.
+* [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
 * [xferspdy](https://github.com/monmohan/xferspdy) -Xferspdy在golang中提供了二进制差异和补丁库.
 
 ## UUID
