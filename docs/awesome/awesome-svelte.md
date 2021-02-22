@@ -54,6 +54,8 @@
 - [An Introduction to Actions](https://svelte.school/tutorials/introduction-to-actions) -斯维尔特学校.
 - [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) -网络忍者（YouTube）.
 - [SvelteJS Series - tutorials and talks](https://www.youtube.com/playlist?list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd) -SpinSpire（YouTube）.
+- [Svelte Stores](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3fG-XOSwsPHtnV8FUY6lgK) -@lihautan（YouTube）.
+- [Svelte Actions](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK) -@lihautan（YouTube）.
 
 ### Studies
 
@@ -80,7 +82,7 @@ _关于Svelte框架的研究和研究.
 ### UI Libraries
 
 - [Svelte Materialify](https://github.com/TheComputerM/svelte-materialify) -受vuetify启发的Material UI设计组件库.
-- [Sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 components.
+- [Sveltestrap](https://github.com/bestguy/sveltestrap) -Bootstrap 4组件.
 - [Smelte](https://github.com/matyunya/smelte) -具有使用Tailwind CSS构建的材质组件的UI框架.
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui) -材质UI组件.
 - [carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) -IBM Carbon Design System的精简实施.
@@ -207,7 +209,7 @@ _SSR框架.
 
 ### Lint
 
-_整理代码并设置其格式._
+_Lint and format your code._
 
 - [eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) -用于组件的ESLint插件.
 - [prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) -使用更漂亮的格式格式化组件.

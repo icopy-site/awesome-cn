@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://github.com/manuzhang/awesome-streaming/workflows/build/badge.svg)](https://github.com/manuzhang/awesome-streaming/actions)
 
-精选的超赞清单 [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 框架，应用程序，阅读材料和其他资源. 受启发 [other awesome projects](https://github.com/sindresorhus/awesome). 
+精选的超赞清单 [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects](https://github.com/sindresorhus/awesome). 
 
 ## Website
 
@@ -18,15 +18,16 @@
 - [Apache Samza](https://github.com/apache/samza) [Scala / Java]-基于Kafka（消息，存储）和YARN（容错，处理器隔离，安全性和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala]-使构建可扩展的容错流应用程序变得容易.
 - [Apache Storm](https://github.com/apache/storm)  [Clojure / Java]-分布式实时计算系统.  Storm是流处理，而Hadoop是批处理. 
-- [AthenaX](https://github.com/uber/AthenaX) [Java] - Uber's Stream Analytics Framework used in production
+- [AthenaX](https://github.com/uber/AthenaX) [Java]-生产中使用的Uber流分析框架
 - [Faust](https://github.com/robinhood/faust) [Python]-流处理库，将想法从Kafka Streams移植到Python
 - [Gearpump](https://github.com/gearpump/gearpump) [Scala]-基于Akka构建的轻量级实时分布式流引擎.
 - [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) [Java]-基于Hazelcast构建的通用分布式数据处理引擎.
 - [hailstorm](https://github.com/hailstorm-hs/hailstorm) [Haskell]-基于Storm的具有精确一次语义的分布式流处理.
+- [Maki Nage](https://github.com/maki-nage/makinage) [Python]-基于Kafka和ReactiveX的数据科学家流处理框架.
 - [mantis](https://github.com/Netflix/mantis) [Java]-Netflix建立实时流处理应用程序生态系统的平台
 - [mupd8(muppet)](https://github.com/walmartlabs/mupd8) [Scala / Java]-用于处理快速/流数据的mapReduce样式的框架.
 - [Onyx](https://github.com/onyx-platform/onyx) [Clojure]-分布式，无主控，高性能，容错数据处理.
-- [s4](https://github.com/apache/incubator-s4) [Java]-通用的，分布式的，可伸缩的，容错的，可插拔的平台，允许程序员轻松开发用于处理连续无限制数据流的应用程序.
+- [s4](https://github.com/apache/incubator-s4) [Java]-通用的，分布式的，可伸缩的，容错的，可插拔的平台，允许程序员轻松开发用于处理连续的无限制数据流的应用程序.
 - [SABER](https://github.com/lsds/Saber) [Java / C]-基于窗口的混合CPU / GPU流处理引擎.
 - [SPQR](https://github.com/ottogroup/SPQR) [Java]-用于通过管道处理大量数据流的动态框架.
 - [tigon](https://github.com/caskdata/tigon) [C ++ / Java]-基于Hadoop和HBase构建的高吞吐量实时流处理框架.
@@ -48,7 +49,7 @@ Mesos专为需要灵活性和控制性的高性能数据处理作业而设计.
 - [Swave](https://github.com/sirthias/swave) [Scala]-用于Scala的轻量级Reactive Streams基础结构工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python]-用于构建管道以管理连续数据流的轻量级库； 支持涉及分支，连接，流量控制，反馈，背压等的复杂管道.
 - [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java]-Java的完全可嵌入的数据流引擎和流处理API.
-- [Tributary](https://github.com/timkpaine/tributary)  [Python]-用于构造数据流图的python库. 支持使用可模拟复杂事件处理器的python生成器构建的同步，反应性数据流，以及惰性评估的非循环图和功能性流.
+- [Tributary](https://github.com/timkpaine/tributary)  [Python]-用于构造数据流图的python库. 支持使用可模拟复杂事件处理器的python生成器构建的同步，反应性数据流，以及惰性计算的非循环图和函数性currying流.
 
 ### Streaming Application
 

@@ -103,6 +103,7 @@
 - [qri](https://qri.io) -数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
 - [QuestNetwork Messenger](https://github.com/QuestNetwork/quest-messenger-js)  -IPFS PubSub上的多平台端到端加密Messenger. 使用可以使用邀请码共享的文件夹模拟服务器/社区. 它是免费和开源的. 有望成为IPFS上最全面，最用户友好的使者.
 - [Request](https://request.network/) -金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
+- [RocketPad](https://rocketpad.aboutdavid.me/) -使用WYSIWYG编辑器创建小论文/文档，然后通过IPFS将其发布到分布式Web. [Source](https://github.com/aboutDavid/rocketpad)
 - [SimpleAsWater Bot](https://simpleaswater.com/ipfs-cluster-twitter-pinbot/) -一个推特机器人，使用IPFS群集将推文添加，固定或取消固定到公共IPFS网络. [Source](https://github.com/simpleaswater/twitter-pinbot)
 - [SimpleID](https://simpleid.xyz/) -用于将以太坊身份验证和内容固定到您的应用程序的开发人员工具. [Source](https://github.com/simplesecure/)
 - [Skyhook](https://github.com/deedeecx330/skyhook) -安全地发送和接收文件
@@ -181,7 +182,7 @@
 ## Tools
 
 - [Almonit Browser Extension](https://almonit.com/#/extension/) -解决了ENS域，这使用户可以在访问.eth网站的同时最大程度地分散权力. [Source](https://github.com/almonit/almonit-plugin)
-- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监视以太坊区块链的当前区块编号，并设置警报（通过特定区块高度时，使用PouchDB在本地存储在浏览器中）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
+- [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) -监视以太坊区块链的当前区块号，并设置警报（通过特定区块高度时，使用PouchDB在本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) -捐赠ipfs网关以缓存其他人的内容
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) -Dillo Web浏览器的IPFS集成.
 - [galacteek](https://galacteek.github.io) -用于分布式Web的基于Qt5的多平台浏览器 [Source](https://github.com/pinnaculum/galacteek)

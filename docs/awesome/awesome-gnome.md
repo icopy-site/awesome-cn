@@ -10,7 +10,7 @@
 
 &gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为经典模式的一部分维护和分发的扩展.
 
-&gt;标有！[GNOME Circle] [GNOME Circle]的项目是由 [GNOME Circle](https://www.gnome.org/Circle/) 旨在展示GNOME的最佳应用程序和库的计划.
+&gt;标有！[GNOME Circle] [GNOME Circle]的项目是由 [GNOME Circle](https://circle.gnome.org/) 旨在展示GNOME的最佳应用程序和库的计划.
 
 
 
