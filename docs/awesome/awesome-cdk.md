@@ -3,7 +3,7 @@
 
 &gt;精选列表很棒 [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) （AWS CDK）开源项目，指南，博客和其他资源.
 
-The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework for defining cloud infrastructure in code.
+AWS Cloud Development Kit（AWS CDK）是一个开源软件开发框架，用于在代码中定义云基础架构.
 
 
 
@@ -14,7 +14,7 @@ The AWS Cloud Development Kit (AWS CDK) is an open-source software development f
 ### APIs
 
 * [cdk-chalice](https://github.com/alexpulver/cdk-chalice) -适用于AWS Chalice（适用于AWS的Python无服务器微框架）的AWS CDK构造.
-* [auto-cdk](https://github.com/wulfmann/auto-cdk) -自动生成与文件系统（beta）的api-gateway / lambda集成.
+* [auto-cdk](https://github.com/wulfmann/auto-cdk) - Automatically generate api-gateway/lambda integrations with the filesystem (beta).
 
 ### Databases
 
@@ -93,7 +93,7 @@ The AWS Cloud Development Kit (AWS CDK) is an open-source software development f
 ## Library Publishing
 
 * [GitHub Action](https://github.com/marketplace/actions/aws-cdk-action) -适用于AWS CDK的GitHub Action.
-* [jsii-publish](https://github.com/udondan/jsii-publish) - 一个 [Docker image](https://hub.docker.com/r/udondan/jsii-publish) 和 [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build 和 publish CDK constructs created via [JSII](https://github.com/aws/jsii).
+* [jsii-publish](https://github.com/udondan/jsii-publish) - 一种 [Docker image](https://hub.docker.com/r/udondan/jsii-publish) 和 [GitHub action](https://github.com/marketplace/actions/jsii-publish) to build 和 publish CDK constructs created via [JSII](https://github.com/aws/jsii).
 
 ## Training Materials and Sample Code
 
@@ -108,13 +108,14 @@ The AWS Cloud Development Kit (AWS CDK) is an open-source software development f
 * [Open CDK Guide](https://github.com/kevinslin/open-cdk) -关于CDK和最佳做法的开源指南.
 * [Colorteller Example](https://github.com/denmat/colorteller-aws-cdk) -使用Fargate和Appmesh的出色示例项目.
 * [CDK Patterns](https://github.com/cdk-patterns/serverless) -使用CDK构建的无服务器架构模式的开源集合.
-* [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - [cra-pipeline](https://github.com/sbstjn/cra-pipeline) GitHub上的项目显示了带有AWS CodeBuild的AWS CodePipeline，用于部署静态React应用程序.
-* [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - [cra-serverless](https://github.com/sbstjn/cra-serverless) 项目是一种无服务器架构，可向使用以下命令创建的React网站添加预渲染 [create-react-app](https://create-react-app.dev).
+* [Create a CI/CD pipeline using CodePipeline and CodeBuild](https://sbstjn.com/deploy-react-cra-with-cdk-codepipeline-and-codebuild.html) - 这 [cra-pipeline](https://github.com/sbstjn/cra-pipeline) GitHub上的项目显示了带有AWS CodeBuild的AWS CodePipeline，用于部署静态React应用程序.
+* [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html) - 这 [cra-serverless](https://github.com/sbstjn/cra-serverless) 项目是一种无服务器架构，可向使用以下命令创建的React网站添加预渲染 [create-react-app](https://create-react-app.dev).
 * [Mini Tutorial: Setup AWS Lambda + ACM + API Gateway with AWS Cloud Development Kit](https://github.com/shaftoe/api-gateway-lambda-cdk-example) -部署接收HTML表单（例如/contact_us.html）POST请求的功能性公共API，并将其数据传递给Pushover通知服务.
 * [Example of REST API built with CDK](https://github.com/shaftoe/api-l3x-in) -通过https://api.l3x.in/提供支持REST API的源代码.
 * [dilbert-feed](https://github.com/mlafeldt/dilbert-feed) -用Go语言编写的无服务器应用程序，使您无需任何广告即可在RSS feed阅读器中欣赏Dilbert.
 * [django-postgres-vue-gitlab-ecs](https://gitlab.com/verbose-equals-true/django-postgres-vue-gitlab-ecs) -使用GitLab CI与CDK一起部署的示例Django + Vue.js Web应用程序.
 * [nextjs-vercel-aws-cdk-example](https://github.com/vvo/nextjs-vercel-aws-cdk-example) -一个PostgreSQL（RDS），EventBridge（crons）和SNS（后台作业）示例以及Next.js应用程序.
+* [Create and Publish CDK Constructs Using projen and jsii](https://github.com/seeebiii/projen-test) -使用示例代码的循序渐进指南，使用以下代码创建新的CDK结构 [projen](https://github.com/projen/projen) 和jsii并将其发布到npm，Maven Central，PyPi和NuGet.
 
 ## Blog Posts & Talks
 
@@ -167,4 +168,4 @@ The AWS Cloud Development Kit (AWS CDK) is an open-source software development f
 
 ## Contributing
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/kolomied/awesome-cdk/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/kolomied/awesome-cdk/blob/master/contributing.md) 第一的.

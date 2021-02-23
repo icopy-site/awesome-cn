@@ -22,11 +22,12 @@
 
 &gt;学习Ansible的教程和课程.
 
-- [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) -DigitalOcean.com上的基本教程.
+- [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/tutorial_series/how-to-manage-remote-servers-with-ansible) -本教程介绍了如何使用Ansible管理远程服务器.
 - [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) -Ansible的12步骤教程.
 - [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) -推荐资源列表.
 - [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) -有关如何安装和使用Ansible的教程.
 - [Official Ansible labs by Red Hat](https://ansible.github.io/workshops/exercises/ansible_rhel/) -Ansible自动化平台培训课程.
+- [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) -DigitalOcean.com上的基本教程.
 
 ## Books
 
@@ -34,6 +35,7 @@
 
 - [Ansible for DevOps](https://www.ansiblefordevops.com/)  -本书有助于开始使用Ansible来配置和管理从一到数千台服务器的任何位置. 免费样品可以阅读 [here](https://leanpub.com/ansible-for-devops/read_sample).
 - [Ansible for Kubernetes](https://www.ansibleforkubernetes.com/) -使用Ansible部署和维护现实世界中的大规模可扩展和高可用性应用程序.
+- [How To Manage Remote Servers with Ansible eBook](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) -本书基于“如何使用Ansible管理远程服务器”教程系列.
 
 ## Videos
 
@@ -56,7 +58,7 @@
 - [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) -简单的注释，例如基于Jinja2模板的Ansible角色的文档生成器.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) -获取Ansible事实收集的输出，并将其转换为静态HTML页面.
 - [ARA, Ansible Run Analysis](https://github.com/ansible-community/ara) -ARA记录Ansible Playbook运行，并使记录的数据对用户和系统可用且直观.
-- [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) -与Mitogen一起大幅提升Ansible.
+- [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) -使用Mitogen大大加快Ansible的速度.
 - [Molecule](https://molecule.readthedocs.io/en/latest/) -分子有助于Ansible角色的开发和测试.
 - [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) -此预配器可用于通过具有Ansible的Packer自动执行VM映像创建.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) -将所有Excel电子表格都转换为Ansible库存.

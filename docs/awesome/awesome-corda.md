@@ -31,10 +31,11 @@
 ## Tools
 
 - [Braid Corda](https://gitlab.com/bluebank/braid/tree/master/braid-corda) -从您的Corda节点创建Braid端点和流.
+- [Codaptor](https://github.com/180Protocol/codaptor) -为在Corda节点上自动运行的任何CorDapp创建REST API.
 - [Corbeans](https://manosbatsis.github.io/corbeans) -用于Spring Boot的Corda集成.
 - [Cordage](https://github.com/LayerXcom/cordage) -提供使Corda与其他区块链之间互操作成为可能的模块，而无需进一步信任的第三方.
 - [Cordalo](https://github.com/cordalo-ch) -提供Corda框架以加快您在分散空间中的开发.
-- [Cordentity](https://github.com/hyperledger-labs/cordentity) -整合 [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) 能力融入Corda.
+- [Cordentity](https://github.com/hyperledger-labs/cordentity) - 整合 [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) 能力融入Corda.
 - [DAML for Corda](https://github.com/chainstack/awesome-corda) -Corda的DAML智能合约.
 - [DemoBench](https://www.corda.net/demobench/) -一个独立的桌面应用程序，用于配置和启动本地Corda节点.
 - [Interact with nodes](https://docs.chainstack.com/operations/corda/tools) -通过独立的外壳，来自应用程序或Web服务器的Corda节点进行交互.

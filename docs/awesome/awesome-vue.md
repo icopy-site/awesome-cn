@@ -41,7 +41,7 @@
 - [WebTechSurvey.com](https://webtechsurvey.com/technology/vue.js) -使用Vue.js Javascript框架创建的大量网站.
 - [Vue Mastery](https://www.vuemastery.com/) -Vue开发人员的终极学习资源
 - [Vue 3 Video Playlist](https://www.youtube.com/playlist?list=PLMLZt4pr7Aq6AfC_ynfeDbEk2hbMFGpHO) -惊人的Vue 3教程和实验
-- [Vue.js Workshops](https://public.vuejsworkshops.com) -通过构建3个应用程序，在浏览器中学习Vue 2：登陆页面，Todos App和Podcasts聚合器.（Vue.js，Vue-Router，Vuex，Vue-Axios，Vue-Apollo）
+- [Vue.js Workshops](https://public.vuejsworkshops.com) -通过构建3个应用程序，在浏览器中学习Vue 2：登陆页面，Todos应用程序和Podcast聚合器.（Vue.js，Vue-Router，Vuex，Vue-Axios，Vue-Apollo）
  - [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) -各种Vue 2和3教程和文章.
 
 ### Job Portal
@@ -608,7 +608,7 @@
 - [XMR Paper](https://github.com/bradoyler/xmr-paper) -使用Vue.js构建的Monero钱包生成器
 - [JoyProxy](https://github.com/sh0cked/joy-proxy) -Chrome扩展程序，用于处理代理设置
 - [activity-automation](https://github.com/mubaidr/activity-automation) -管理日常活动并及时获取报告.
-- [jsettlers-web](https://github.com/generateui/jsettlers-web) -流行的德国棋盘游戏，可利用赚来的资源建造六角形，住区，城市，道路
+- [jsettlers-web](https://github.com/generateui/jsettlers-web) -流行的德国棋盘游戏，可利用赚来的资源建造六角形，定居点，城市，道路
 - [Tamiat CMS](https://github.com/tamiat/tamiat) -Tamiat是面向前端的CMS，使用Vue.JS作为前端，并与Firebase集成了后端功能.
 - [vuegg](https://github.com/vuegg/vuegg)  -vue GUI生成器：一口气创建模型和代码！ 它通过其可视化编辑器利用页面，组件和样式的创建. 为您的下一个vuejs项目生成所有脚手架代码.
 - [Podlove Web Player](https://github.com/podlove/podlove-web-player) -经过播客优化的，基于HTML5的音频播放器，具有章节，字幕和嵌入功能.
@@ -634,7 +634,7 @@
 - [Bael Blog Template](https://bael-theme.jake101.com/)  -静态生成的博客模板，该模板使用Netlify CMS作为后端，使用Netlify作为托管. 具有野蛮美学，模糊搜索，无服务器电子邮件注册等功能.
 - [Buefy Shop](https://github.com/14nrv/buefy-shop) -示例商店，开源，具有Nuxt，Stripe，Firebase，Bulma和无服务器功能.
 - [sysmon](https://github.com/Lt0/sysmon)  -适用于Linux的AB / S模式系统监视器. 您可以在任何地方通过Web浏览器远程查看系统资源的使用情况.
-- [eth-vue](https://github.com/DOkwufulueze/eth-vue)  -一个松露盒子，为您提供快速构建以Vue.js身份验证功能的以太坊dApp所需的一切，包括易于部署到Ropsten网络的配置. 它还具有Gravatar功能.
+- [eth-vue](https://github.com/DOkwufulueze/eth-vue)  -一个松露盒子，提供您快速构建带有Vue.js身份验证功能的以太坊dApp所需的一切，包括易于部署到Ropsten网络的配置. 它还具有Gravatar功能.
 - [Nippon-color](https://github.com/ssshooter/nippon-color)  -受nipponcolors dot com启发. 这是使用vue-cli 3的日本彩色PWA版本.
 - [Saleina CMS](https://github.com/saleina/SaleinaCMS) -使用git作为后端使用vue构建的静态站点内容管理系统.
 - [Vuido](https://github.com/mimecorg/vuido)  -用于创建本机桌面应用程序的框架. 它可以使用本机GUI组件在Windows，OS X和Linux上运行.
@@ -1194,7 +1194,7 @@ _叠加/模态/警报/对话框/灯箱/弹出窗口_
 - [xmodal-vue](https://github.com/XeniacDev/xmodal) -组件周围的简单易用包装器，可帮助您从组件中创建自定义和动态模态.
 - [@kouts/vue-modal](https://github.com/kouts/vue-modal) -一个可自定义，可堆栈和轻型的模式组件，该组件遵循W3C的“ WAI-ARIA对话框（模式）”部分中设置的准则.
 - [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) 顺风顺风，高度可定制，可堆叠的模态组件.
-- [vuesence-modal-window](https://github.com/altrusl/vuesence-modal-window) -简单的Modal窗口Vue.js组件，它负责覆盖，居中，动画，外部单击/“ Escape”键/“ X-mark”关闭，并允许您仅关注其内容.
+- [vuesence-modal-window](https://github.com/altrusl/vuesence-modal-window) -简单的Modal窗口Vue.js组件，负责覆盖，居中，动画，外部单击/“ Escape”键/“ X-mark”关闭，并允许您仅专注于其内容.
 
 #### Parallax
 
@@ -1223,7 +1223,7 @@ _叠加/模态/警报/对话框/灯箱/弹出窗口_
 - [vue-eva-icons](https://github.com/antonreshetov/vue-eva-icons) -简单漂亮的开源eva图标作为Vue组件.
 - [vue-unicons](https://github.com/antonreshetov/vue-unicons) -下一项目中有1000多个像素完美的svg unicon，作为Vue组件.
 - [vue-fa](https://github.com/Cweili/vue-fa) -简单的FontAwesome 5 Vue.js 2组件.
-- [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) -美丽的像素完美的400+加密货币和10+菲亚特货币图标.
+- [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) -美丽的像素完美的400+加密货币和10+法定货币图标.
 - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) -一组源自SVG的高质量图标 [@refactoringui/heroicons](https://github.com/refactoringui/heroicons)，作为Vue功能组件.
 - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) -104保费的Vue组件 [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg图标
 - [vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons) -查看组件 [Tabler Icons](https://github.com/tabler/tabler-icons) SVG图标.
@@ -1336,7 +1336,7 @@ _叠加/模态/警报/对话框/灯箱/弹出窗口_
 - [vgauge](https://github.com/amroessam/vgauge) -GaugeJS的Vue包装器-创建漂亮的量规
 - [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) -包装 [plotly.js](https://plot.ly/javascript/) 声明性图表库，提供20种图表类型，包括3D图表，统计图和SVG地图.
 - [vue-funnel-graph-js](https://github.com/greghub/vue-funnel-graph-js)  -Vue.js的漏斗图绘制库. 创建垂直和水平动画SVG漏斗图，并添加标签，值，图例和其他信息.
-- [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) -实现了轻量级的Vue图表，没有任何图表库依赖性
+- [pure-vue-chart](https://github.com/djaxho/pure-vue-chart) -实现了轻量级Vue图表，没有任何图表库依赖
 - [f2-vue](https://github.com/justice47/f2-vue) -F2的Vue包装器-优雅，交互式且灵活的移动图表库
 - [ZingChart-Vue](https://github.com/zingchart/zingchart-vue) -ZingChart制作的Vue组件具有35种以上的图表类型.
 - [jscharting-vue](https://github.com/jscharting/jscharting-vue) -Vue图表组件提供了完整的图表类型集，并通过 [JSCharting](https://jscharting.com/).
@@ -1697,7 +1697,7 @@ _让用户创建和编辑数据_
 - [vue-form-builder](https://github.com/openfext/vue-form-builder) -使用JSON模式和composition api构建功能强大的vue表单，支持流行的ui框架，例如Element UI，View UI，Ant Design Vue. [Online Demo](https://openfext.github.io/vue-form-builder)
 - [vue-dynamic-inputs](https://github.com/taverasady/vue-dynamic-inputs) -从json创建动态表单 [Online Demo](https://codepen.io/taverasady/pen/LYVzevo)
 - [Vue Flow Form](https://github.com/ditdot-dev/vue-flow-form) -使用Vue.js创建对话式条件逻辑表单. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
-- [Vue Described Data Form](https://github.com/marekmensa/vue-dd-form) -仅通过描述数据节点来构建表单-无需编程！ [Online Demo](https://marekmensa.github.io/vue-dd-form/)
+- [vue-dd-form](https://github.com/marekmensa/vue-dd-form) -仅通过描述数据节点来构建表单-无需编程！ [Online Demo](https://marekmensa.github.io/vue-dd-form/)
 
 ###### Date Picker
 
@@ -2110,7 +2110,7 @@ _组件集+响应式布局系统_
 - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) -⚡轻巧且可自定义的组件库，可帮助您快速构建可访问的Vue应用程序和站点.
 - [vue-canvas](https://github.com/loo41/vuc) -Vue画布组件 [vuc-identify](http://vuc.tianchenyong.top)
 - [oruga](https://github.com/oruga-ui/oruga) -没有CSS框架依赖性的Vue.js的UI组件.
-- [Wave UI](https://github.com/antoniandre/wave-ui)  -面向Vue.js的新兴UI框架，但只有一面.  ☀️
+- [Wave UI](https://github.com/antoniandre/wave-ui)  -面向Vue.js的新兴UI框架，但只有光明的一面.  ☀️
 - [vectre](https://github.com/vectrejs/vectre) -基于以下内容的轻量级，简单且响应迅速的组件框架 [Spectre CSS](https://picturepan2.github.io/spectre/)
 - [element3](https://github.com/kkbjs/element3) -用于Web的Vue.js 3.0 UI工具包基于element-ui
 - [superBVue](https://github.com/superbvue/SuperBVue) -Web的Vue 3 UI组件基于boostrap v5
@@ -3039,7 +3039,7 @@ _文本编辑器插件_
 - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets) -Vue组件文件的Atom代码段.
 - [vue-autocompile@atom.io](https://github.com/paulpflug/vue-autocompile) -保存时自动编译vue文件.
 - [lint-sass-vue@atom.io](https://github.com/fsblemos/lint-sass-vue) -Atom.io包，用于在.vue文件中添加Sass / SCSS.
-- [vuejs2-snippets@atom.io](https://github.com/CorentinAndre/Vuejs-snippets) -用于javascript和组件的Atom代码段，包括生命周期挂钩，指令，属性，vuex，vue-router，vue-i18n支持.
+- [vuejs2-snippets@atom.io](https://github.com/CorentinAndre/Vuejs-snippets) -用于javascript和组件的Atom代码段，包括生命周期挂钩，指令，属性，vuex，vue-router和vue-i18n支持.
 - [vue2-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue2-autocomplete) -Atom的Vue.js 2.0+自动完成功能.
 
 ##### Sublime Text
@@ -3127,7 +3127,7 @@ _仅在浏览器中渲染Rue Vue应用程序_
 - [vue-tachyons-template](https://github.com/colorful-tones/vue-tachyons-template) -带Tachyons，Webpack和ESLint的Vue 2项目入门模板
 - [Vuets](https://github.com/AkiraLaine/Vuets) -使用类样式的组件，vue插件选项，webpack和vue-cli的Vue，支持TypeScript的样板.
 - [MMF-FE/vue-typescript](https://github.com/MMF-FE/vue-typescript) -vue2.x打字稿模板.
-- [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) -通过Apollo客户端（Vuex，Vue-router，Vue-i18n，Webpack 3，Eslint，Prettier等）具有GraphQL支持的全功能Vue.js入门项目
+- [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) -通过Apollo客户端（Vuex，Vue-router，Vue-i18n，Webpack 3，Eslint，Prettier等）通过GraphQL支持的全功能Vue.js入门项目
 - [vue-ts-amd](https://github.com/Micene09/vue-ts-amd) -使用AMD模式（RequireJS）和Typescript的功能齐全的Vue.js 2样板.
 - [**vue-2-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) -Vue 2样板，用于开发中型到大型单页应用程序 [petervmeijgaard](https://github.com/petervmeijgaard/)
 - [vue-cli-template-library](https://github.com/julon/vue-cli-template-library) -用于使用Rollup + Jest + Babel + Storybook + TravisCI + SemanticRelease开发开源vue.js库的模板.
