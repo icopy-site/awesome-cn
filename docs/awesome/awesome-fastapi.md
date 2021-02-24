@@ -68,7 +68,7 @@
 - [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) -API版本控制.
 - [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) -将Jupyter笔记本作为RESTful API端点运行.
 - [Manage FastAPI](https://github.com/ycd/manage-fastapi) -用于生成和管理FastAPI项目的CLI工具.
-- [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) -自动 [MessagePack](https://msgpack.org/) 内容协商.
+- [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) - 自动 [MessagePack](https://msgpack.org/) 内容协商.
 
 ### Email
 
@@ -86,6 +86,8 @@
 - [FastAPI ServiceUtils](https://github.com/skallfass/fastapi_serviceutils) -用于创建API服务的生成器.
 - [FastAPI SocketIO](https://github.com/pyropy/fastapi-socketio) -轻松集成FastAPI和SocketIO.
 - [FastAPI Utilities](https://github.com/dmontagu/fastapi-utils) -可重用的实用程序：基于类的视图，推理路由器，周期性任务，定时中间件，SQLAlchemy会话，OpenAPI规范简化.
+- [FastAPI Websocket Pub/Sub](https://github.com/authorizon/fastapi_websocket_pubsub) -经典的发布/订阅模式可轻松在Web上和整个云中实时访问和扩展.
+- [FastAPI Websocket RPC](https://github.com/authorizon/fastapi_websocket_rpc) -通过Websockets进行的RPC（双向JSON RPC）变得容易，健壮并可以进行生产.
 - [Prerender Python Starlette](https://github.com/BeeMyDesk/prerender-python-starlette) -用于Prerender的Starlette中间件.
 - [Prometheus FastAPI Instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) -适用于FastAPI应用程序的可配置模块化Prometheus Instrumentator.
 - [SlowApi](https://github.com/laurents/slowapi) -速率限制器（基于 [Flask-Limiter](https://flask-limiter.readthedocs.io)).
@@ -109,7 +111,7 @@
 
 ### Podcasts
 
-- [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) -在这集 [Podcast Init](https://www.pythonpodcast.com/)，创建FastAPI， [Sebastián Ramirez](https://tiangolo.com/)，分享了他构建FastAPI的动机以及它在后台的工作方式.
+- [Build The Next Generation Of Python Web Applications With FastAPI](https://www.pythonpodcast.com/fastapi-web-application-framework-episode-259/) -在这集 [Podcast Init](https://www.pythonpodcast.com/)，创建FastAPI， [Sebastián Ramirez](https://tiangolo.com/)，分享了他构建FastAPI的动机以及它在幕后的工作方式.
 - [FastAPI on PythonBytes](https://pythonbytes.fm/episodes/show/123/time-to-right-the-py-wrongs?time_in_sec=855) -该项目的概述.
 
 ### Articles
@@ -133,7 +135,7 @@
   - [Serverless Deployment](https://medium.com/swlh/fastapi-microservice-serverless-deployment-41a6d21e5cb3) -关于FastAPI和Kubernetes原生FaaS平台之间的兼容性的当前状态.
 - [How to deploy your ConvNet classifier with Keras and FastAPI](https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/) -通过基于Web的API部署机器学习模型.
 - [How to monitor your FastAPI service](https://guitton.co/posts/fastapi-monitoring/) -说明如何使用OpenTelemetry和Datadog / Jaeger实施应用程序性能监视（APM）.
-- [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) -FastAPI应用程序和服务结构，可维护性更高的代码库.
+- [Implementing FastAPI Services – Abstraction and Separation of Concerns](https://camillovisini.com/article/abstracting-fastapi-services/) - FastAPI application and service structure for a more maintainable codebase.
 - [Introducing FARM Stack - FastAPI, React, and MongoDB](https://developer.mongodb.com/how-to/FARM-Stack-FastAPI-React-MongoDB/) -完整的FastAPI Web应用程序堆栈入门.
 - [Introduction to the FastAPI Python Framework](https://www.errietta.me/blog/python-fastapi-intro/) -快速介绍FastAPI.
 - [Porting Flask to FastAPI for ML Model Serving](https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/) -Flask与FastAPI的比较.
@@ -143,7 +145,7 @@
 
 ### Talks
 
-- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) - From the talk by Sebastian Ramirez you will learn how to easily build a production-ready web (JSON) API for your ML models with FastAPI, including best practices by default.
+- [PyConBY 2020: Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8) -通过Sebastian Ramirez的演讲，您将学习如何使用FastAPI轻松为ML模型构建生产就绪的Web（JSON）API，包括默认的最佳实践.
 - [PyCon UK 2019: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA) -此演讲显示了如何使用FastAPI从头开始为数据库构建简单的REST API.
 
 ### Videos
@@ -222,7 +224,7 @@ Compute:
   - [Async flavor](https://github.com/testdrivenio/fastapi-crud-async)
   - [Sync Flavor](https://github.com/testdrivenio/fastapi-crud-sync)
 - [FastAPI Websocket Broadcast](https://github.com/cthwaite/fastapi-websocket-broadcast) -Websocket“广播”演示.
-- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) -最小化示例，该示例将FastAPI和Celery与RabbitMQ一起用于任务队列，将Redis用于Celery后端，以及Flower用于监视Celery任务.
+- [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) -最小化示例，该示例将FastAPI和Celery与RabbitMQ一起用于任务队列，将Redis用于Celery后端，并使用Flower监视Celery任务.
 - [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) -基于FastAPI的JSON-RPC服务器.
 - [Mailer](https://github.com/rclement/mailer) -用于静态网站的简单死信邮件微服务.
 - [RealWorld Example App - mongo](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)

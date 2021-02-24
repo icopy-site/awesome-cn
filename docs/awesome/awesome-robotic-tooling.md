@@ -6,7 +6,7 @@
 
  &gt;要停止重新发明轮子，您需要了解轮子. 该列表试图显示软件和硬件开发中的各种开放和免费工具，这些工具在专业机器人开发中很有用.
 
-您的贡献对于保持此列表的有效性，提高质量和扩大范围至关重要. 您可以详细了解其起源以及如何参与 [contribution guide](https://github.com/protontypes/awesome-robotic-tooling/blob/master/CONTRIBUTING.md) 和相关 [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics) . 所有新项目条目都会有一条来自的推文 [protontypes](https://twitter.com/protontypes). 
+您的贡献对于使此列表保持有效，提高质量和扩展范围至关重要. 您可以详细了解其起源以及如何参与 [contribution guide](https://github.com/protontypes/awesome-robotic-tooling/blob/master/CONTRIBUTING.md) 和相关 [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics) . 所有新项目条目都会有一条来自的推文 [protontypes](https://twitter.com/protontypes). 
 
 <!--lint ignore double-link-->
 [<img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="60%" />](https://raw.githubusercontent.com/leggedrobotics/xpp) 
@@ -81,13 +81,14 @@
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) -用于绘制报告和演示的神经网络的乳胶代码.
 * [Excalidraw](https://github.com/excalidraw/excalidraw) -虚拟白板，用于绘制手绘的示意图.
 * [SVGrepo](https://www.svgrepo.com/) -下载免费的SVG载体用于商业用途.
+* [gollum](https://github.com/gollum/gollum) -一个简单的，由Git支持的Wiki，具有精美的API和本地前端.
 
 
 ## Requirements and Safety
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) -有关用于编写安全关键软件的编程实践的资源列表.
 * [open-autonomous-safety](https://github.com/voyage/open-autonomous-safety) -OAS是Voyage安全流程和测试程序的完全开放源代码库，旨在补充世界各地自动驾驶汽车初创公司的现有安全程序.
 * [CarND-Functional-Safety-Project](https://github.com/udacity/CarND-Functional-Safety-Project) -在此Udacity项目中创建功能安全文档.
-* [Automated Valet Parking Safety Documents](https://avp-project.uk/publication-of-safety-documents) -旨在支持在停车场中使用StreetDrone测试车辆对自动代客停车功能进行安全测试.
+* [Automated Valet Parking Safety Documents](https://avp-project.uk/publication-of-safety-documents) -旨在支持在停车场使用StreetDrone测试车辆对自动代客停车功能进行安全测试.
 * [safe_numerics](https://github.com/boostorg/safe_numerics) -替换标准数字类型，该数字类型会引发错误.
 * [Air Vehicle C++ development coding standards](http://www.stroustrup.com/JSF-AV-rules.pdf) -向C ++程序员提供指导和指导，使他们能够采用良好的编程风格和可靠的编程实践，从而开发出安全，可靠，可测试和可维护的代码.
 * [AUTOSAR Coding Standard](https://www.autosar.org/fileadmin/user_upload/standards/adaptive/17-10/AUTOSAR_RS_CPP14Guidelines.pdf) -在关键和安全相关系统中使用C ++ 14语言的准则.
@@ -231,7 +232,7 @@
 * [ros2_tracing](https://gitlab.com/ros-tracing/ros2_tracing) -ROS 2的跟踪工具.
 * [Linuxperf](http://www.brendangregg.com/linuxperf.html) -各种Linux性能资料.
 * [lptrace](https://github.com/khamidou/lptrace) -它使您可以实时查看Python程序正在运行的功能.
-* [pyre-check](https://github.com/facebook/pyre-check) -python的性能类型检查.
+* [pyre-check](https://github.com/facebook/pyre-check) -对python进行性能类型检查.
 * [FlameGraph](https://github.com/brendangregg/FlameGraph) -可视化分析代码.
 * [gpuvis](https://github.com/mikesart/gpuvis) -GPU跟踪可视化器.
 * [sanitizer](https://github.com/google/sanitizers) -AddressSanitizer，ThreadSanitizer，MemorySanitizer.
@@ -282,7 +283,7 @@
 
 ## Simulation
 * [Drake](https://github.com/RobotLocomotion/drake) -Drake旨在模拟甚至非常复杂的机器人动力学.
-* [Webots](https://github.com/cyberbotics/webots) -Webots是与以下设备兼容的开源机器人模拟器 [ROS](http://wiki.ros.org/webots_ros) 和 [ROS2](http://wiki.ros.org/webots_ros2).
+* [Webots](https://github.com/cyberbotics/webots) -Webots是一个开源机器人模拟器，与其他机器人兼容 [ROS](http://wiki.ros.org/webots_ros) 和 [ROS2](http://wiki.ros.org/webots_ros2).
 * [lgsv](https://github.com/lgsvl/simulator) -LG电子美国研发中心为自动驾驶汽车开发商开发了基于HDRP Unity的多机器人模拟器.
 * [carla](https://github.com/carla-simulator/carla) -用于自动驾驶研究的开源模拟器.
 * [awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) -精选的CARLA教程，博客和相关项目的精选列表.
@@ -480,7 +481,7 @@
 * [fawkes](https://github.com/Shawn-Shan/fawkes) -针对面部识别系统的隐私保护工具.
 * [anonymizer](https://github.com/understand-ai/anonymizer) -匿名器，用于混淆面部和车牌.
 * [opendatacam](https://github.com/opendatacam/opendatacam) -仅保存被调查的元数据，特别是对象移动的路径或特定点处计数对象的数量.
-* [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) -考虑到多个车载摄像机的图像，TensorFlow实现用于计算语义分割的鸟瞰图（BEV）图像.
+* [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) -考虑到多个车载摄像头的图像，TensorFlow实现用于计算语义分割的鸟瞰图（BEV）图像.
 * [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) -FlowNet 2.0的Pytorch实施：深度网络的光流量估算的发展.
 * [Simd](https://github.com/ermig1979/Simd) -使用SIMD的C ++图像处理和机器学习库：SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON for ARM .
 * [AliceVision](https://github.com/alicevision/AliceVision) -摄影测量计算机视觉框架，提供3D重建和相机跟踪算法. 
@@ -607,7 +608,7 @@
 * [CubeSLAM and ORB SLAM](https://github.com/shichaoy/cube_slam) -CubeSLAM和ORB SLAM的单眼3D对象检测和SLAM软件包.
 * [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) -健壮和多功能的多传感器视觉惯性状态估计器.
 * [openvslam](https://github.com/xdspacelab/openvslam) -OpenVSLAM：一种多功能的Visual SLAM框架.
-* [basalt](https://gitlab.com/VladyslavUsenko/basalt) -具有非线性因子恢复的视觉惯性映射.
+* [basalt](https://gitlab.com/VladyslavUsenko/basalt) -具有非线性因素恢复的视觉惯性映射.
 * [Kimera](https://github.com/MIT-SPARK/Kimera) -用于实时度量-语义同时定位和映射的C ++库，该库使用摄像机图像和惯性数据来构建环境的语义注释3D网格.
 * [tagslam](https://github.com/berndpfrommer/tagslam) -使用AprilTag基准标记同时进行本地化和制图的基于ROS的程序包.
 * [LARVIO](https://github.com/PetWorm/LARVIO) -基于多状态约束卡尔曼滤波器的轻巧，准确和强大的单目视觉惯性里程表.
@@ -665,7 +666,7 @@
 * [path_planner](https://github.com/karlkurzer/path_planner) -KTH研究概念车的混合A *路径规划器.
 * [open_street_map](https://github.com/ros-geographic-info/open_street_map) -用于处理“开放街道地图”地理信息的ROS软件包.
 * [Open Source Car Control](https://github.com/PolySync/oscc) -使计算机能够控制现代汽车的软件和硬件设计组合，以促进自动驾驶汽车技术的发展.
-* [fastrack](https://github.com/HJReachability/fastrack) -快速和安全跟踪（FaSTrack）的ROS实现.
+* [fastrack](https://github.com/HJReachability/fastrack) -快速安全跟踪（FaSTrack）的ROS实现.
 * [commonroad](https://commonroad.in.tum.de/) -道路运动规划的可组合基准.
 * [traffic-editor](https://github.com/osrf/traffic-editor) -机器人交通流的图形编辑器.
 * [steering_functions](https://github.com/hbanzhaf/steering_functions) -包含一个C ++库，该库实现了具有有限转弯半径的类似汽车的机器人的转向功能.
@@ -765,7 +766,7 @@
 * [obs-studio](https://github.com/obsproject/obs-studio) -用于实时流媒体和屏幕录制的免费和开源软件.
 * [K3D-tools](https://github.com/K3D-tools) -Jupyter笔记本扩展程序，用于3D可视化.
 * [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) -用于科学/工程应用的快速数据可视化和GUI工具.
-* [ipygany](https://github.com/QuantStack/ipygany) -Jupyter Notebook中的3-D科学可视化.
+* [ipygany](https://github.com/QuantStack/ipygany) -Jupyter笔记本电脑中的3-D科学可视化.
 
 
 ### Annotation
@@ -1019,7 +1020,7 @@
 * [gopass](https://github.com/gopasspw/gopass) -用Go编写的命令行密码管理器.
 * [pass](https://www.passwordstore.org/) -标准的Unix密码管理器.
 * [Vault](https://github.com/hashicorp/vault)  -用于安全访问机密的工具. 秘密是您想要严格控制访问权限的所有内容，例如API密钥，密码，证书等.
-* [legion](https://github.com/GoVanguard/legion) -一个开源，易于使用，超扩展和半自动化的网络渗透测试框架，可帮助发现，侦察和利用信息系统.
+* [legion](https://github.com/GoVanguard/legion) -开源，易于使用，超扩展和半自动化的网络渗透测试框架，可帮助发现，侦察和利用信息系统.
 * [openscap](https://github.com/OpenSCAP/openscap) -oscap程序是一个命令行工具，允许用户加载，扫描，验证，编辑和导出SCAP文档.
 
 
@@ -1035,7 +1036,7 @@
 * [utbm_robocar_dataset](https://github.com/epan-utbm/utbm_robocar_dataset) -具有用于自动驾驶的多个传感器的EU长期数据集.
 * [DBNet](https://github.com/driving-behavior/DBNet) -用于驾驶行为学习的大规模数据集.
 * [argoverse-api](https://github.com/argoai/argoverse-api) -Argoverse数据集的官方GitHub存储库.
-* [DDAD](https://github.com/TRI-ML/DDAD) -TRI（丰田研究所）提出的新的自动驾驶基准，用于在挑战性和多样化的城市条件下进行远距离（最大250m）和密集深度估算.
+* [DDAD](https://github.com/TRI-ML/DDAD) -TRI（丰田研究所）提出的新的自动驾驶基准，用于在挑战性和多样化的城市环境中进行远距离（最大250m）和密集深度估算.
 * [pandaset-devkit](https://github.com/scaleapi/pandaset-devkit) -Hesai＆Scale提供的用于自动驾驶的公共大型数据集.
 * [a2d2_to_ros](https://gitlab.com/MaplessAI/external/a2d2_to_ros) -将A2D2数据集转换为ROS包的实用程序.
 * [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) -带有计算机视觉和深度学习注释的卫星图像训练数据集列表.

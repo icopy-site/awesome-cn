@@ -144,7 +144,7 @@ _任何包/模块和插件_
 
 ### Community
 
-- [grantfortheweb.org forum](https://forum.grantfortheweb.org/)
+- [Web Monetization Community Space](https://community.webmonetization.org/)
 - [@GrantForTheWeb on Twitter](https://twitter.com/GrantForTheWeb)
 - [@Coil on Twitter](https://twitter.com/Coil)
 - [@CinnamonVideo on Twitter](https://twitter.com/CinnamonVideo)
@@ -154,7 +154,7 @@ _任何包/模块和插件_
 
 ## Contribute
 
-欢迎捐款！ 阅读 [contribution guidelines](https://github.com/thomasbnt/awesome-web-monetization/blob/master/contributing.md) 第一.
+欢迎捐款！ 阅读 [contribution guidelines](https://github.com/thomasbnt/awesome-web-monetization/blob/master/contributing.md) 第一的.
 您也可以与朋友共享该存储库和Web货币化. 
 
 如果要添加新的小图标，则高度必须为** 16px **. 放入`assets / small_icons / NAME.png`. 仅接受格式PNG.

@@ -22,10 +22,11 @@
 - ["skill" tag on learn.sparkfun.com](https://learn.sparkfun.com/tutorials/tags/skill) -各种与EE相关技能有关的技术教程.
 - [Soldering is Easy](https://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/) -涉及焊接基础知识的漫画书已翻译成多种语言.
 - [Uses of Different Soldering Iron Tips](https://www.instructables.com/id/Uses-of-Different-Soldering-Iron-Tips/) -涵盖所有这些不同烙铁头的优点.
+- [How to design a motherboard for your electronics project](https://www.staycaffeinated.com/2021/02/21/how-to-design-a-motherboard-for-your-project-part-1) -原理图和PCB设计入门教程
 
 ### Theory and Courses
 
-- [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) - Free high quality textbooks and worksheets with emphasis on theory, simulation, and the socratic method.
+- [Lessons In Electric Circuits](https://www.ibiblio.org/kuphaldt/electricCircuits/) -免费的高质量教科书和工作表，重点放在理论，模拟和苏格拉底式方法上.
 - [Ultimate Electronics: Practical Circuit Design and Analysis](https://ultimateelectronicsbook.com/) -CircuitLab免费的在线书籍，其中包含交互式原理图和仿真（正在开发中）.
 - [Khan Academy - Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering) -非营利性学习平台，提供有关电气工程和相关主题的完整课程.
 - [NEETS (Navy Electricity and Electronics Training Series)](https://www.fcctests.com/neets/Neets.htm) -美国海军非居民培训课程资料.
@@ -34,7 +35,7 @@
 
 - [Berkeley EECS](http://inst.eecs.berkeley.edu/classes-eecs.html) -全面的EE和CS课程网站档案.
 - [Dr. Jacob Baker](http://cmosedu.com) -课程和教程，内华达大学拉斯维加斯分校教授.
-- [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/)和 [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) -课程资料，UT Austin教授
+- [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/)， 和 [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) -课程资料，UT Austin教授
 
 ## Simulators
 
@@ -47,9 +48,9 @@
 - [Qucs](http://qucs.sourceforge.net/) -开源，跨平台，非基于SPICE的电路仿真器，具有S参数和谐波平衡功能.
 - [QucsStudio](http://dd6um.darc.de/QucsStudio/qucsstudio.html) -Qucs的免费，开源，仅Windows分支，具有相似的界面，新引擎和更多功能.
 - [Open Circuit Design Software](http://opencircuitdesign.com) -开源，完整的EDA套件芯片设计套件，专注于跟上商业工具的发展.
-- [TINA-TI](http://www.ti.com/tool/TINA-TI) -独家 [DesignSoft-TINA](https://www.tina.com) 与德州仪器模型捆绑在一起的德州仪器（TI）版本.
+- [TINA-TI](http://www.ti.com/tool/TINA-TI) - 独家 [DesignSoft-TINA](https://www.tina.com) 与德州仪器模型捆绑在一起的德州仪器（TI）版本.
 - [CppSim](https://www.cppsim.com/) -利用C ++语言实现非常快速的仿真时间的免费开放源电路仿真器.
-- [Scilab with Xcos](https://www.scilab.org/)  -MATLAB的免费开放源代码数值计算替代方案.  Xcos提供类似于Simulink的电气系统建模功能.
+- [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
 - [iCircuit](http://icircuitapp.com/) -易于使用的电子电路模拟器，其先进的模拟引擎可以处理模拟和数字电路，并具有实时始终在线分析功能.
 - [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) -具有多种交互式仿真类型的专业级混合信号仿真器.
 
@@ -90,7 +91,7 @@
 - [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) -更全面的初学者到中级视频教程.
 - [KiCad.info Forums](https://forum.kicad.info) -用户讨论和帮助论坛.
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -全面的书面教程，可指导您创建键盘PCB.
-- [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) （也 [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)）-简短的PDF，可通过菜单和键盘快捷键进行最常用的操作.
+- [Cheatsheet](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet.pdf) （还 [in landscape](https://silica.io/wp-content/uploads/2018/06/kicad-cheatsheet-landscape.pdf)）-简短的PDF，可通过菜单和键盘快捷键进行最常用的操作.
 - [Footprint Collection](https://github.com/kitspace/kicad_footprints) -可在线收集所有KiCad脚印以及一些脚本来管理它们.
 - [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) -用于手动拾取和放置的html BOM生成工具.
 - [kicad-exports](https://github.com/nerdyscout/kicad-exports)  -自动为任何KiCAD项目生成文件（示意图，gerbers，BoM，图，3D模型）. 在本地运行，或在每个`git push`上运行，如Github Actions.
@@ -171,12 +172,12 @@
 
 ## Videos
 - [EEVblog](https://www.youtube.com/user/EEVblog) -最早和最成功的YouTube频道之一，戴夫·琼斯（Dave Jones）负责制作拆解，教程等内容.
-- [BigClive](http://bigclive.com) - [YouTube channel](https://www.youtube.com/user/bigclivedotcom) about teardowns (including dangerous products), circuit reverse-engineering and tutorials.
+- [BigClive](http://bigclive.com) - [YouTube channel](https://www.youtube.com/user/bigclivedotcom) 有关拆卸（包括危险产品），电路反向工程和教程的信息.
 - [ElectroBOOM](https://www.youtube.com/user/msadaghd) -YouTube频道，对EE主题进行揭穿并解释了很多喜剧内容.
 - [Micah Scott](https://www.youtube.com/user/micahjd) -反向工程的视频日志，并以创新的方式重新利用消费类电子硬件.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) -有关电子项目的教程，通常也适合初学者.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) -非常深入地拆卸，维修和审查实验室设备和原型产品.
-- [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) -关于基本和复杂模拟硬件的优秀教程.
+- [w2aew](https://www.youtube.com/channel/UCiqd3GLTluk2s_IBt7p_LjA) - Excellent tutorials about basic and complex analog hardware.
 - [Mr. Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab) -拆解，维修和修复，重点是经典电子设备.
 - [GreatScott](https://www.youtube.com/user/greatscottlab) -电子教程，项目以及操作方法.
 - [Julian Ilett](https://www.youtube.com/user/julius256) -购买他能找到的最便宜的电子模块，并尝试用它们做有用的事情.

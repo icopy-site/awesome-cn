@@ -67,7 +67,7 @@
 - [Magento 2 Dockerize](https://github.com/arvatoSCM/dockerize-magento2) -用于docker化Magento 2的作曲家软件包.
 - [Mage2 Vagrant](https://github.com/rgranadino/mage2_vagrant) -简单的Magento 2流浪汉盒.
 - [frontools](https://github.com/SnowdogApps/magento2-frontools) -基于Gulp.js的Magento 2前端工具集.
-- [Magento 2 gulpfile](https://github.com/rocketweb-fed/magento2-gulpfile) - Useful frontend workflow gulp tasks for less-based themes.
+- [Magento 2 gulpfile](https://github.com/rocketweb-fed/magento2-gulpfile) -针对主题较少的有用的前端工作流任务.
 - [Scopehints](https://github.com/avstudnitz/AvS_ScopeHint2) -在“存储配置”中显示附加信息 [Andreas von Studnitz](https://commercehero.io/avstudnitz).
 - [PreferencesInfoCommand](https://github.com/dmanners/DavidAndVinai_PreferencesInfoCommand) -bin / magento命令显示类或接口的已配置首选项
 - [m2install](https://github.com/yvoronoy/m2install) -Magento 2 Bash安装/还原脚本
@@ -87,7 +87,7 @@
 
 ### Deployment
 
-- [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) -Magento 2部署 [Capistrano](http://capistranorb.com) 通过 [David Alger](http://davidalger.com).
+- [Capistrano::Magento2](https://github.com/davidalger/capistrano-magento2) -Magento 2部署 [Capistrano](http://capistranorb.com) 经过 [David Alger](http://davidalger.com).
 - [MageDeploy2](https://github.com/mwr/magedeploy2-base) -自动Magento2部署 [robo](http://robo.li/) 和 [deployer](https://deployer.org/).
 - [Magento 2 Deployment Tool](https://github.com/staempfli/magento2-deployment-tool) -具有PHing功能的Magento2部署工具 [Juan Alonso](https://commercehero.io/juan.alonso).
 - [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) -Magento2部署配方 [deployer](https://deployer.org/).
@@ -170,8 +170,8 @@
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) -重置UI书签允许管理员用户重置其自己的UI书签，例如过滤器的状态，列位置和应用的排序（例如Sales&gt; Orders）.
 - [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) -将第三方扩展合并到单个菜单.
 - [auroraextensions/simplereturns](https://github.com/auroraextensions/simplereturns) -Magento2的自助RMA.
-- [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors)  -Magento 2网格颜色模块，用于为管理网格着色. 支持借助网格书签保存状态. 通过 [Dmitry Shkoliar](https://shkoliar.com/)
-- [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2)  -Magento 2仪表板，用于显示已安装的扩展. 通过 [Magento Extension Developers Network](https://extdn.org/)
+- [shkoliar/magento-grid-colors](https://github.com/shkoliar/magento-grid-colors)  -Magento 2网格颜色模块，用于为管理网格着色. 支持借助网格书签保存状态. 经过 [Dmitry Shkoliar](https://shkoliar.com/)
+- [extdn/extension-dashboard-m2](https://github.com/extdn/extension-dashboard-m2)  -Magento 2仪表板，用于显示已安装的扩展. 经过 [Magento Extension Developers Network](https://extdn.org/)
 
 ### Security
 
@@ -203,7 +203,8 @@
 
 ### Mobile Application
 
-- [Magento React Native](https://github.com/troublediehard/magento-react-native) -Magento 2的React Native移动应用模板
+- [Magento React Native REST](https://github.com/dimaportenko/magento-react-native) -Magento 2的React Native移动应用模板
+- [Magento React Native GraphQL](https://github.com/dimaportenko/magento-react-native-community) -使用GraphQL API和 [YouTube tutorials](https://youtube.com/playlist?list=PL97fL9DAn9QyNAWAh-X-mFJdXKm96AqVM).
 
 ---
 
@@ -359,7 +360,7 @@
 
 ### Other Magento 2 related Awesome Lists
 
-- [Mageres](https://github.com/aleron75/mageres) -Alessandro Ronchi的Magento 1和Magento 2的资源列表.
+- [Mageres](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
 - [Awesome PHP](https://github.com/ziadoz/awesome-php) -精选的PHP资源列表.
 - [Awesome Magento](https://github.com/sunel/awesome-magento) -混合了M1和M2内容的真棒Magento列表 [sunel](https://github.com/sunel).
 - [Headless Magento 2](https://github.com/sitewards/headless-magento2-resources) -有关运行无头Magento 2的资源列表 [Sitewards](https://commercehero.io/sitewards)

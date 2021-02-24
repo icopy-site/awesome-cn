@@ -36,7 +36,8 @@
 - [Crop Yield Prediction](https://github.com/JiaxuanYou/crop_yield_prediction) -基于遥感数据的深高斯过程，用于作物产量的预测.
 - [CWFID](https://github.com/cwfid/dataset) -数据集，包括田野图像，植被分割蒙版和农作物/杂草植物类型注释.
 - [Deep Learning for Biologists with Keras](https://github.com/totti0223/deep_learning_for_biologists_with_keras) -基于深度学习的分析教程（主要针对生物相关主题）.
-- [PlantCV](https://github.com/danforthcenter/plantcv) -使用计算机视觉进行植物表型分析.
+- [PlantCV](https://github.com/danforthcenter/plantcv) -使用计算机视觉的植物表型分析软件.
+- [TERRA REF](https://terraref.org) -&gt;高粱育种试验中的1PB公共领域高分辨率传感器数据（[data publication](https://doi.org/10.5061/dryad.4b8gtht99) 带有大文件 [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103&origin_path=%2F))
 
 ## Data Standardization, Interoperability and APIs
 

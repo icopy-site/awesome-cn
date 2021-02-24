@@ -8,9 +8,9 @@
 
 此列表最初是的克隆 [StackOverflow - List of Freely Available Programming Books](http://web.archive.org/web/20130824154208/http://stackoverflow.com/a/392926) 由Karan Bhangui和George Stocker提供.
 
-该列表已由Victor Felder移至GitHub，以进行协作更新和维护. 它已成长为其中之一 [Github's most popular repositories](https://octoverse.github.com/)，拥有160,000+颗星，6000 +个提交，1600 +个贡献者和39,000+个分叉.
+该列表已由Victor Felder移至GitHub，以进行协作更新和维护. 它已成长为其中之一 [GitHub's most popular repositories](https://octoverse.github.com/)，拥有160,000+颗星，6000 +个提交，1600 +个贡献者和39,000+个分叉.
 
-The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组织回购所管理，该组织致力于促进免费电子书的创建，发行，存档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) Free Ebook Foundation的免税额在美国可免税.
+The [Free Ebook Foundation](https://ebookfoundation.org) 现在由非营利组织回购组织管理，该组织致力于促进免费电子书的创建，发行，归档和可持续性. [Donations](https://ebookfoundation.org/contributions.html) Free Ebook Foundation的免税额在美国可免税.
 
 
 ### How To Contribute

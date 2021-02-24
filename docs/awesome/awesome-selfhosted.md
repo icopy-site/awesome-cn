@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://img.shields.io/travis/awesome-selfhosted/awesome-selfhosted/master?label=link%20checks)](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2266)
 
-自托管是在本地托管和管理应用程序的一种做法，而不是从 [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
+自托管是在本地托管和管理应用程序的一种做法，而不是从 [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) 提供者.
 
 这是一个清单 [Free](https://en.wikipedia.org/wiki/Free_software) 软件 [network services](https://en.wikipedia.org/wiki/Network_service) 和 [web applications](https://en.wikipedia.org/wiki/Web_application) 可以在本地托管. 非免费软件列在 [Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) 页.
 
@@ -74,7 +74,7 @@ _也可以看看 [Internet of Things (IoT)](#internet-of-things-iot)_
 - [Podgrab](https://github.com/akhilrex/podgrab)  -轻量级播客管理器和自动播客情节下载器. 它将监视您的播客，并在新节目上线时自动下载.  `GPL-3.0``Docker / Go`
 - [pyLoad](https://pyload.net/)  -轻量级，可自定义且可远程管理的下载器，用于一键式托管网站，如Rapidshare.com或upload.to.  （[Source Code](https://github.com/pyload/pyload)）`GPL-3.0`` Python`
 - [Radarr](https://radarr.video/)  -Radarr是Sonarr的一个独立分支，经过重新设计，可以通过Usenet和BitTorrent（位于Couchpotato）自动下载电影.  （[Source Code](https://github.com/Radarr/Radarr)) `GPL-3.0` `C#`
-- [StackStorm](https://stackstorm.com)  -StackStorm（又称“ IFTTT for Ops”）是事件驱动的自动化，可进行自动修复，安全响应，故障排除，部署等. 包括规则引擎，工作流，具有6000多个动作的160个集成包和ChatOps.  （[Source Code](https://github.com/StackStorm/st2)）`Apache-2.0`` Python`
+- [StackStorm](https://stackstorm.com)  -StackStorm（又名“ IFTTT for Ops”）是事件驱动的自动化，可进行自动修复，安全响应，故障排除，部署等. 包括规则引擎，工作流，具有6000多个动作的160个集成包和ChatOps.  （[Source Code](https://github.com/StackStorm/st2)）`Apache-2.0`` Python`
 - [SickRage](http://sickrage.github.io/)  -SickRage是用于电视节目的自动视频库管理器. 您可以根据自己的需求自动搜索，下载和处理torrent / nzb.  （[Source Code](https://github.com/SickRage/SickRage)）`GPL-3.0`` Python`
 - [SiteInspector](https://www.getsiteinspector.com/)  -基于Web的工具，用于在网站上捕获拼写错误，语法错误，链接断开以及其他错误.  （[Demo](https://demo.getsiteinspector.com/reports), [Source Code](https://github.com/siteinspector/siteinspector)）`AGPL-3.0``Ruby`
 - [Sonarr](https://sonarr.tv/)  -Usenet和BitTorrent的自动电视节目下载和管理器. 它可以抓取，排序和重命名新的情节，并在质量更好的格式可用时自动升级已经下载的文件的质量.  （[Source Code](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#`
@@ -104,7 +104,7 @@ _也可以看看 [Static Site Generators](#static-site-generators), [Content Man
 - [Hexo](https://hexo.io/)  -由Node.js提供支持的快速，简单且功能强大的博客框架.  （[Source Code](https://github.com/hexojs/hexo)）和Nodejs
 - [Hotglue](https://hotglue.me/)  -Freehand CMS，它允许直接在Web浏览器中构建网站. 它使用平面文件进行存储，并提供直观的GUI.  （[Demo](https://hotglue.me/demo/), [Source Code](https://github.com/k0a1a/hotglue2)）`GPL-3.0``PHP`
 - [htmly](https://www.htmly.com/)  -无数据库博客平台（平面文件博客）.  （[Demo](https://www.htmly.com/demo/), [Source Code](https://github.com/danpros/htmly)）`GPL-2.0``PHP`
-- [Known](https://withknown.com/)  -您所有内容的单一网站.  （[Source Code](https://github.com/idno/idno)）`Apache-2.0``PHP`
+- [Known](https://withknown.com/)  -您所有内容的单一网站.  （[Source Code](https://github.com/idno/idno)) `Apache-2.0` `PHP`
 - [Plume](https://joinplu.me/)  -基于ActivityPub的联合博客引擎.  （[Source Code](https://github.com/Plume-org/Plume)）`AGPL-3.0``Rust`
 - [PluXml](http://www.pluxml.org/)  -基于XML的Blog / CMS平台.  （[Source Code](https://github.com/pluxml/PluXml)）`GPL-1.0``PHP`
 - [Postleaf](https://www.postleaf.org/)  -具有内联编辑，车把模板和漂亮用户界面的开源博客平台.  （[Source Code](https://github.com/Postleaf/postleaf)）和Nodejs
@@ -121,12 +121,12 @@ _也可以看看 [Static Site Generators](#static-site-generators), [Content Man
 - [Geekmarks](https://geekmarks.dmitryfrank.com/)  -个人书签服务侧重于使用分层标签的速度和组织.  （[Source Code](https://github.com/dimonomid/geekmarks)）`BSD-2-Clause``Go`
 - [golinks](https://github.com/prologic/golinks)  -Web应用程序，通过将Web浏览器的默认搜索引擎指向正在运行的实例，您可以创建智能书签，命令和别名. 与bunny1或yubnub相似.  （[Demo](https://search.mills.io)）MIT``去
 - [Hackershare](https://github.com/hackershare/hackershare)  -黑客社交书签网站.  （[Demo](https://hackershare.dev)）`MIT`` Ruby`
-- [linkding](https://github.com/sissbruecker/linkding)  -通过快速干净的UI最小化书签管理. 通过Docker进行简单安装，可以在您的Raspberry Pi上运行.  （[Demo](https://demo.linkding.link/)）MIT Docker / Python / Node.js
+- [linkding](https://github.com/sissbruecker/linkding)  -通过快速干净的UI最小化书签管理. 通过Docker进行简单安装，可以在您的Raspberry Pi上运行.  （[Demo](https://demo.linkding.link/)）`MIT`` Docker / Python / Nodejs`
 - [LinkAce](https://www.linkace.org/)  -具有自动备份到Internet存档，链接监视和完整REST API的书签存档. 安装是通过Docker或简单的PHP应用程序完成的.  （[Demo](https://demo.linkace.org/), [Source Code](https://github.com/Kovah/LinkAce/)）`GPL-3.0``PHP`
 - [Lobsters](https://lobste.rs)  -运行您自己的链接聚合站点.  （[Source Code](https://github.com/jcs/lobsters)）`BSD-3-Clause``Ruby`
 - [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html)  -非常简单的软件和服务，用于存储专门为黑客设计的书签（不需要精美的界面，但需要漂亮的API）.  （[Source Code](https://github.com/mapio/nofussbm)）`GPL-3.0`` Python`
 - [Pinry](http://getpinry.com/)  -适用于想要保存，标记和共享图像，视频和网页的人员的平铺图像板系统.  （[Source Code](https://github.com/pinry/pinry)）`BSD-2-Clause`` Python`
-- [Reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager. `AGPL-3.0` `Python`
+- [Reminiscence](https://github.com/kanishka-linux/reminiscence)  -自托管的书签和存档管理器.  AGPL-3.0 Python
 - [Shaarli](https://github.com/shaarli/Shaarli)  -个人，极简，超快速，无数据库书签和链接共享平台.  （[Demo](https://demo.shaarli.org)）`Zlib``PHP`
 - [Shiori](https://github.com/RadhiFadlillah/shiori)  -使用Go构建的简单书签管理器. 麻省理工学院
 - [unmark](https://github.com/plainmade/unmark)  -开源做链接的应用程序. 麻省理工学院PHP
@@ -137,7 +137,7 @@ _也可以看看 [Static Site Generators](#static-site-generators), [Content Man
 
 **[`^        back to top        ^`](#)**
 
-_Some [Groupware](#groupware) 解决方案还具有日历/通讯录的编辑和同步功能._
+_Some [Groupware](#groupware) 解决方案还具有日历/通讯录的编辑和同步功能.
 
 _请参阅https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_implementations_
 
@@ -145,7 +145,7 @@ _请参阅https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_impleme
 
 - [Baïkal](http://sabre.io/baikal/)  -基于sabre / dav的轻量级CalDAV和CardDAV服务器.  （[Source Code](https://github.com/sabre-io/Baikal)）`GPL-3.0``PHP`
 - [CalendarServer](https://www.calendarserver.org/)  -Apple，Inc.的标准服务器，实现了macOS Server随附的CalDAV和CardDAV协议.  （[Source Code](https://github.com/apple/ccs-calendarserver)）`Apache-2.0`` Python`
-- [calypso](https://keithp.com/calypso/)  -从Radicale派生的基于Python的CalDAV和CardDAV服务器.  （[Source Code](https://keithp.com/git/calypso.git)）`GPL-3.0`` Python`
+- [calypso](https://keithp.com/calypso/)  -基于Python的CalDAV和CardDAV服务器，由Radicale分叉.  （[Source Code](https://keithp.com/git/calypso.git)）`GPL-3.0`` Python`
 - [DAViCal](https://www.davical.org/)  -使用PostgreSQL数据库作为数据存储的日历共享服务器（CalDAV）.  （[Source Code](https://gitlab.com/davical-project/davical)）`GPL-2.0``PHP`
 - [Davis](https://github.com/tchapi/davis/)  -基于Symfony 5和Bootstrap 4的sabre / dav的简单，可泊坞窗化且可完全翻译的管理界面，灵感主要来自Baïkal. 麻省理工学院PHP
 - [DecSync CC](https://f-droid.org/packages/org.decsync.cc/) -无服务器联系人，使用您自己的文件同步方法（即Syncthing，Nextcloud等）进行日历同步（[Source Code](https://github.com/39aldo39/DecSyncCC)）`GPL-3.0``Kotlin`
@@ -184,10 +184,10 @@ _请参阅https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_impleme
 - [LeapChat](https://github.com/cryptag/leapchat)  -临时的，加密的浏览器内聊天室.  AGPL-3.0 JavaScript
 - [Lets-Chat](http://sdelements.github.io/lets-chat/)  -用Node编写的自托管聊天套件.  （[Source Code](https://github.com/sdelements/lets-chat)）和Nodejs
 - [LibreNews](https://librenews.io/)  -分散和安全的突发新闻通知系统.  （[Source Code](https://github.com/milesmcc/LibreNews-Server/)）`GPL-3.0`` Python`
-- [Live Helper Chat](http://livehelperchat.com/)  -您的网站的实时支持聊天.  （[Source Code](https://github.com/LiveHelperChat/livehelperchat)）`Apache-2.0``PHP`
+- [Live Helper Chat](http://livehelperchat.com/)  -您的网站的实时支持聊天.  （[Source Code](https://github.com/LiveHelperChat/livehelperchat)) `Apache-2.0` `PHP`
 - [Mattermost](http://www.mattermost.org/)  -开源，本地Slack替代. 它可以与Gitlab集成.  （[Source Code](https://github.com/mattermost/mattermost-server)）`AGPL-3.0 / Apache-2.0``Go`
 - [MiAOU](https://miaou.dystroy.org/login)  -多房间持久聊天服务器.  （[Source Code](https://github.com/Canop/miaou)）和Nodejs
-- [Mibew](https://mibew.org)  -Mibew Messenger是一个用PHP和MySQL编写的开源实时支持应用程序. 它可以直接从您的网站实时进行一对一聊天帮助.  （[Demo](https://mibew.org/demo2), [Source Code](https://github.com/Mibew/mibew)）`Apache-2.0``PHP`
+- [Mibew](https://mibew.org)  -Mibew Messenger是一个用PHP和MySQL编写的开源实时支持应用程序. 它可以直接从您的网站实时进行一对一聊天帮助.  （[Demo](https://mibew.org/demo2), [Source Code](https://github.com/Mibew/mibew)) `Apache-2.0` `PHP`
 - [Mumble](https://wiki.mumble.info/wiki/Main_Page)  -低延迟，高质量的语音/文本聊天软件.  （[Source Code](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)）`BSD-3-Clause``C ++`
 - [Node-Chat](https://github.com/IgorAntun/node-chat)  -具有管理功能的不太基本的开源聊天.  MIT`Nodejs`
 - [OTS](https://ots.fyi/)  -一次性保密共享平台，在浏览器中采用对称的256位AES加密.  （[Source Code](https://github.com/Luzifer/ots)）Apache-2.0`Go`
@@ -205,10 +205,10 @@ _请参阅https://en.wikipedia.org/wiki/Comparison_of_CalDAV_and_CardDAV_impleme
 - [Syndie](https://syndie.de)  -Syndie是用于运行分布式论坛的自由系统.  `CC0-1.0``Java`
 - [TextBelt](https://github.com/typpo/textbelt)  ⚠-外发SMS API，该API使用运营商特定的网关免费发送您的短信，且没有广告.  MIT Java语言
 - [Tinode](https://github.com/tinode)  -即时通讯平台.  Go中的后端. 客户端：Swift iOS，Java Android，JS webapp，可编写脚本的命令行； 聊天机器人.  （[Demo](https://sandbox.tinode.co/), [Source Code](https://github.com/tinode/chat), [Clients](https://github.com/tinode/webapp)）`GPL-3.0``Go`
-- [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video chat capabilities. ([Source Code](https://github.com/irungentoo/toxcore)）`GPL-3.0`` C`
+- [Tox](https://tox.chat/)  -具有音频和视频聊天功能的分布式安全Messenger.  （[Source Code](https://github.com/irungentoo/toxcore)）`GPL-3.0`` C`
 - [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/)  -对等视频聊天有效.  （[Source Code](https://github.com/trailofbits/tubertc)）和Javascript
 - [WBO](https://github.com/lovasoa/whitebophir#wbo)  -Web白板，可在模式，图形和注释上进行实时协作.  （[Demo](https://wbo.ophir.dev/)）`AGPL-3.0``Nodejs / Docker`
-- [ZeroNet](https://zeronet.io/)  `⚠`-使用比特币加密技术和BitTorrent网络的开放，免费和不可审查的网站.  （[Source Code](https://github.com/HelloZeroNet/ZeroNet)）`GPL-2.0`` Python`
+- [ZeroNet](https://zeronet.io/) `⚠` - Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network. ([Source Code](https://github.com/HelloZeroNet/ZeroNet)）`GPL-2.0`` Python`
 - [Zulip](https://zulip.org)  -Zulip是功能强大的开源群聊应用程序.  （[Source Code](https://github.com/zulip/zulip)）`Apache-2.0 / Other``Python`
 
 ### Email
@@ -221,13 +221,13 @@ _邮件服务器的简单部署，例如对于没有经验或急躁的管理员.
 
 - [AnonAddy](https://anonaddy.com)  -用于创建别名的开源电子邮件转发服务.  （[Source Code](https://github.com/anonaddy/anonaddy)用PHP`
 - [DebOps](https://debops.org/)  -将您基于Debian的数据中心放在一个盒子中. 一组通用Ansible角色，可用于管理Debian或Ubuntu主机.  （[Source Code](https://github.com/debops/debops)）`仅GPL-3.0``YAML / Ansible / Python`
-- [docker-mailserver](https://github.com/tomav/docker-mailserver)  -全栈式但简单的邮件服务器（smtp，imap，反垃圾邮件，防病毒等）. 仅配置文件，无SQL数据库. 保持简单和版本化. 易于部署和升级.  MIT码头工人
-- [Excision Mail](https://github.com/Excision-Mail/Excision-Mail)  -基于ansible的基于OpenSMTPD for OpenBSD的全栈，注重安全性的邮件服务器.  `ISC``Shell / Ansible`
+- [docker-mailserver](https://github.com/tomav/docker-mailserver) - Fullstack but simple mail server (smtp, imap, antispam, antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade. `MIT` `Docker`
+- [Excision Mail](https://github.com/Excision-Mail/Excision-Mail)  -基于ansible的基于OpenSMTPD for OpenBSD的全栈，注重安全的邮件服务器.  `ISC``Shell / Ansible`
 - [Inboxen](https://inboxen.org)  -收件箱是一项可为您提供无限数量的唯一收件箱的服务.  （[Source Code](https://github.com/Inboxen/Inboxen)）`GPL-3.0`` Python`
 - [homebox](https://github.com/progmaticltd/homebox)  -Ansible脚本套件，用于在Debian上部署功能齐全的邮件服务器. 尽可能不干扰和自动执行，着眼于稳定性和安全性.  `GPL-3.0``Shell`
 - [iRedMail](http://www.iredmail.org/)  -基于Postfix和Dovecot的全功能邮件服务器解决方案.  （[Source Code](https://github.com/iredmail/iRedMail)）`GPL-3.0``Shell`
-- [Mailcow](https://mailcow.email/)  -基于Dovecot，Postfix和其他开源软件的邮件服务器套件，提供了用于管理的现代Web UI.  （[Source Code](https://github.com/mailcow/mailcow-dockerized)）`GPL-2.0``Docker / PHP`
-- [Mailu](https://mailu.io/)  -Mailu是一个简单而功能齐全的邮件服务器，它是一组Docker映像.  （[Demo](https://github.com/Mailu/Mailu/wiki/Demo-server), [Source Code](https://github.com/Mailu/Mailu)）`MIT`` Docker / Python`
+- [Mailcow](https://mailcow.email/)  -基于Dovecot，Postfix和其他开源软件的邮件服务器套件，提供用于管理的现代Web UI.  （[Source Code](https://github.com/mailcow/mailcow-dockerized)）`GPL-2.0``Docker / PHP`
+- [Mailu](https://mailu.io/)  -Mailu是简单而功能齐全的邮件服务器，是一组Docker映像.  （[Demo](https://github.com/Mailu/Mailu/wiki/Demo-server), [Source Code](https://github.com/Mailu/Mailu)）`MIT`` Docker / Python`
 - [Mail-in-a-Box](https://mailinabox.email/)  -使用一个命令将任何Ubuntu服务器变成功能齐全的邮件服务器.  （[Source Code](https://github.com/mail-in-a-box/mailinabox)）`CC0-1.0``Shell`
 - [Modoboa](http://modoboa.org/en/)  -Modoboa是一个邮件托管和管理平台，包括现代且经过简化的Web用户界面.  （[Source Code](https://github.com/tonioo/modoboa)）和Python
 - [Ptorx](https://ptorx.com/)  -电子邮件隐私. 通过别名转发匿名发送和接收.  （[Source Code](https://github.com/xyfir/ptorx)）`GPL-3.0`Node.js`
@@ -282,7 +282,7 @@ _邮寄列出服务器和群发邮件软件-一封邮件给许多收件人.
 #### Webmail clients
 
 - [Afterlogic WebMail Lite](http://www.afterlogic.org/webmail-lite)  -用于现有IMAP邮件服务器，Plesk或cPanel的快速，易于使用的Webmail前端.  （[Demo](https://lite.afterlogic.com/), [Source Code](https://github.com/afterlogic/webmail-lite)）`AGPL-3.0``PHP`
-- [Cypht](http://cypht.org/index.html)  -Feed阅读器提供您的电子邮件帐户.  （[Source Code](https://github.com/jasonmunro/hm3)）`GPL-2.0``PHP`
+- [Cypht](http://cypht.org/index.html) - Feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/hm3)）`GPL-2.0``PHP`
 - [IMP](https://www.horde.org/apps/imp/)  -HORDE应用程序，可通过Webmail访问IMAP和POP3帐户.  （[Demo](http://demo.horde.org/), [Source Code](https://www.horde.org/download/imp)）`GPL-2.0``PHP`
 - [Isotope Mail](https://blog.marcnuri.com/isotope-mail-client-introduction/)  -使用ReactJS和Spring构建的基于微服务的Webmail客户端.  （[Source Code](https://github.com/manusa/isotope-mail)）`Apache-2.0``Docker / Java`
 - [MailCare](https://mailcare.io)  -开源一次性电子邮件地址服务.  （[Source Code](https://github.com/mailcare/mailcare)用PHP`
@@ -321,12 +321,12 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https:/
 - [ASTPP](https://www.astppbilling.org/)  -是Freeswitch的开源VoIP计费解决方案. 它支持带有通话评级和信用控制的预付费和后付费账单. 它还提供了许多其他功能.  （[Source Code](https://github.com/iNextrix/ASTPP)）`AGPL-3.0``PHP`
 - [Freepbx](http://www.freepbx.org)  -控制和管理星号的基于Web的开源GUI.  （[Source Code](http://git.freepbx.org/projects/FREEPBX)）`GPL-2.0``PHP`
 - [FreeSWITCH](https://freeswitch.org/)  -可扩展的开源跨平台电话平台.  （[Source Code](https://freeswitch.org/stash/projects/FS/repos/freeswitch/browse)）`MPL-2.0``C`
-- [FusionPBX](https://www.fusionpbx.com/)  -开源项目，为称为FreeSWITCH的功能强大且高度可扩展的多平台语音交换机提供了可自定义的灵活Web界面.  （[Source Code](https://github.com/fusionpbx/fusionpbx)）`MPL-1.1``PHP`
+- [FusionPBX](https://www.fusionpbx.com/)  -开源项目，为称为FreeSWITCH的功能强大且高度可扩展的多平台语音开关提供可自定义的灵活Web界面.  （[Source Code](https://github.com/fusionpbx/fusionpbx)）`MPL-1.1``PHP`
 - [Homer](https://www.sipcapture.org/)  -对VoIP呼叫进行故障排除和监视.  （[Source Code](https://github.com/sipcapture/homer)）`AGPL-3.0``Angular / C`
 - [Kamailio](http://www.kamailio.org/w/)  -模块化SIP服务器（注册商/代理/路由器/等）.  （[Source Code](https://github.com/kamailio/kamailio)）`GPL-2.0`` C`
 - [Kazoo](http://2600hz.org/)  -KAZOO是一个开源，高度可扩展的软件平台，旨在提供电信级VoIP交换机功能和特性.  （[Source Code](https://github.com/2600hz/KAZOO)) `MPL-1.1` `Erlang`
 - [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation)  -采用ZRTP加密的安全SIP电话设置.  GPL-3.0`Ruby`
-- [Routr](https://routr.io)  -轻巧的SIP代理，位置服务器和注册器，可提供可靠且可扩展的SIP基础架构.  （[Demo](https://demo.routr.io/login), [Source Code](https://github.com/fonoster/routr)）和JavaScript
+- [Routr](https://routr.io)  -轻量级的SIP代理，位置服务器和注册器，可提供可靠且可扩展的SIP基础结构.  （[Demo](https://demo.routr.io/login), [Source Code](https://github.com/fonoster/routr)）和JavaScript
 - [SipXcom](http://sipxcom.org/)  -开源统一通信系统.  （[Source Code](https://github.com/sipXcom/sipxecs)）`AGPL-3.0``Java`
 - [SIP3](https://sip3.io/)  -VoIP故障排除和监视平台.  （[Demo](https://demo.sip3.io), [Source Code](https://github.com/sip3io/)）`Apache-2.0``Kotlin`
 - [Wazo](http://wazo-platform.org/)  -功能强大的IPBX解决方案建立在Asterisk之上，具有集成的Web管理界面和REST-ful API.  （[Source Code](https://github.com/wazo-platform)）`GPL-3.0`` Python`
@@ -372,7 +372,7 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https:/
 - [Patchwork](https://github.com/ssbc/patchwork)  -基于Secure Scuttlebutt（SSB）构建的分散式消息传递和共享应用程序. 仅适用于AGPL-3.0的NodeJS
 - [phpBB](https://www.phpbb.com/)  -平板论坛公告板软件解决方案，可用于与一群人保持联系或为整个网站提供动力.  （[Source Code](https://github.com/phpbb/phpbb)）`GPL-2.0``PHP`
 - [PixelFed](https://pixelfed.social)  -Pixelfed是Instagram的开源，联合平台.  （[Source Code](http://github.com/pixelfed/pixelfed)）`AGPL-3.0`` PHP \ HTML \ Vue`
-- [Pleroma](https://pleroma.social) - Federated microblogging server, Mastodon, GNU social, & ActivityPub compatible. ([Source Code](https://git.pleroma.social/pleroma/pleroma)）`AGPL-3.0``长生不老药
+- [Pleroma](https://pleroma.social)  -联合微博服务器，Mastodon，GNU social和ActivityPub兼容.  （[Source Code](https://git.pleroma.social/pleroma/pleroma)）`AGPL-3.0``长生不老药
 - [PPnet](https://github.com/pixelpark/ppnet)  -创建并托管自己的社交网络.  MIT Java语言
 - [Pump.io](http://pump.io/)  -流服务器完成人们从社交网络真正想要的大部分工作.  （[Source Code](https://github.com/e14n/pump.io)）`Apache-2.0`` Nodejs`
 - [remark42](https://remark42.com/)  -轻巧简单的注释引擎，不会对用户构成监视. 可以将其嵌入博客，文章或读者在其中添加评论的任何其他地方.  （[Demo](https://remark42.com/demo/), [Source Code](https://github.com/umputun/remark)）MIT``去
@@ -441,8 +441,8 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [CMS Made Simple](http://www.cmsmadesimple.org/)  -开源内容管理系统，可更快，更轻松地管理网站内容，可从小型企业扩展到大型公司.  （[Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)）`GPL-1.0``PHP`
 - [Cockpit](http://getcockpit.com)  -用于管理任何结构化内容的简单内容平台.  （[Source Code](https://github.com/agentejo/cockpit)用PHP`
 - [Concrete 5 CMS](http://www.concrete5.org/)  -开源内容管理系统.  （[Source Code](https://github.com/concrete5/concrete5)用PHP`
-- [Contao](https://contao.org/)  -Contao是功能强大的开源CMS，可让您创建专业的网站和可扩展的Web应用程序.  （[Source Code](https://github.com/contao/contao/)）`LGPL-3.0``PHP`
-- [CouchCMS](http://www.couchcms.com/)  -适用于设计人员的简单开源CMS.  （[Source Code](https://github.com/CouchCMS/CouchCMS)）`CPAL-1.0``PHP`
+- [Contao](https://contao.org/) - Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ([Source Code](https://github.com/contao/contao/)）`LGPL-3.0``PHP`
+- [CouchCMS](http://www.couchcms.com/)  -设计人员的简单开源CMS.  （[Source Code](https://github.com/CouchCMS/CouchCMS)）`CPAL-1.0``PHP`
 - [Directus](http://getdirectus.com/)  -Directus是功能强大且直观的无头CMS，用于管理具有自定义体系结构的SQL数据库. 这种分离的内容管理框架基于健壮且可扩展的API构建，非常适合网站，应用程序或多客户端项目.  （[Source Code](https://github.com/directus/directus)）`GPL-3.0``PHP`
 - [Drupal](https://www.drupal.org/)  -先进的开源内容管理平台.  （[Source Code](http://cgit.drupalcode.org/drupal)）`GPL-2.0``PHP`
 - [eLabFTW](http://www.elabftw.net)  -用于研究实验室的在线实验室笔记本. 存储实验，使用数据库查找试剂或方案，使用可信的时间戳记以合法的方式为实验加上时间戳，导出为pdf或zip存档，与合作者共享….  （[Demo](https://demo.elabftw.net), [Source Code](https://github.com/elabftw/elabftw)）`AGPL-3.0``PHP`
@@ -454,9 +454,9 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [Neos](https://www.neos.io)  -Neos或TYPO3 Neos（对于版本1）是现代的开源CMS.  （[Source Code](https://git.typo3.org/Packages/TYPO3.Neos.git)）`GPL-3.0``PHP`
 - [Noosfero](https://gitlab.com/noosfero/noosfero)  -Noosfero是社交和团结经济网络的Web平台，在同一系统中具有博客，e-Portfolios，CMS，RSS，主​​题讨论，事件议程和集体智慧，用于团结经济.  AGPL-3.0`Ruby
 - [october](http://octobercms.com/)  -免费，开放源代码，自托管的CMS平台.  （[Source Code](https://github.com/octobercms/october)用PHP`
-- [Omeka](http://omeka.org)  -创建复杂的叙述并共享丰富的收藏，并遵循Omeka在服务器上的都柏林核心标准，专为学者，博物馆，图书馆，档案馆和爱好者设计.  （[Demo](http://omeka.org/showcase/), [Source Code](https://github.com/omeka/Omeka)）`GPL-3.0``PHP`
+- [Omeka](http://omeka.org)  -创建复杂的叙述并分享丰富的收藏，并遵循Omeka在服务器上的都柏林核心标准，专为学者，博物馆，图书馆，档案馆和发烧友而设计.  （[Demo](http://omeka.org/showcase/), [Source Code](https://github.com/omeka/Omeka)）`GPL-3.0``PHP`
 - [Pagekit](https://pagekit.com/)  -创建和共享新的现代CMS.  （[Source Code](https://github.com/pagekit/pagekit)用PHP`
-- [Pico](http://picocms.org/)  -极其简单，快速，扁平的文件CMS.  （[Source Code](https://github.com/picocms/Pico)用PHP`
+- [Pico](http://picocms.org/)  -非常简单，快速，扁平的文件CMS.  （[Source Code](https://github.com/picocms/Pico)用PHP`
 - [Pimcore](https://www.pimcore.org/)  -多渠道体验和参与管理平台.  （[Source Code](https://github.com/pimcore/pimcore)）`GPL-3.0或更高版本``PHP`
 - [Plone](https://plone.org/)  -强大的开源CMS系统.  （[Source Code](https://github.com/plone)）ZPL-2.0`` Python`
 - [ProcessWire](https://processwire.com/)  -ProcessWire是一个开放源代码内容管理系统（CMS）和Web应用程序框架，旨在满足设计人员，开发人员及其客户的需求.  （[Source Code](https://github.com/ryancramerdesign/ProcessWire)）`MPL-2.0``PHP`
@@ -471,7 +471,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [Strapi](https://strapi.io/)  -最先进的开源内容管理框架（headless-CMS），可轻松构建强大的API.  （[Source Code](https://github.com/strapi/strapi)）和Nodejs
 - [Subrion](http://www.subrion.org)  -Subrion是免费的开源内容管理系统，可让您出于任何目的构建网站. 是的，从博客到企业大型门户.  （[Demo](http://demos.subrion.com), [Source Code](https://github.com/intelliants/subrion)）`GPL-3.0``PHP`
 - [Textpattern](http://textpattern.com/)  -灵活，优雅且易于使用的CMS.  （[Demo](http://textpattern.co/demo), [Source Code](https://github.com/textpattern/textpattern)）`GPL-2.0``PHP`
-- [Typemill](https://typemill.net/)  -具有基于vue.js的可视Markdown编辑器的友好作者flat-file-cms.  （[Source Code](https://github.com/typemill/typemill)用PHP`
+- [Typemill](https://typemill.net/)  -具有基于vue.js的可视Markdown编辑器的友好作者的flat-file-cms.  （[Source Code](https://github.com/typemill/typemill)用PHP`
 - [TYPO3](https://typo3.org/)  -大型社区强大而先进的CMS.  （[Source Code](https://github.com/TYPO3/TYPO3.CMS)）`GPL-2.0``PHP`
 - [Umbraco](https://umbraco.com/)  -友好的CMS. 具有令人惊叹的社区的免费和开源.  （[Source Code](https://github.com/umbraco/Umbraco-CMS)）.NET
 - [Wagtail](https://wagtail.io/)  -专注于灵活性和用户体验的Django内容管理系统.  （[Source Code](https://github.com/wagtail/wagtail)）`BSD-3-Clause`` Python`
@@ -491,8 +491,8 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [CoreShop](https://www.coreshop.org)  -CoreShop是Pimcore的电子商务插件.  （[Source Code](https://github.com/coreshop/CoreShop)）`GPL-3.0``PHP`
 - [Drupal Commerce](https://drupalcommerce.org)  -Drupal Commerce是Drupal CMS受欢迎的电子商务模块，支持数十种与付款，运输和购物相关的模块.  （[Source Code](https://github.com/drupalcommerce/commerce)）`GPL-2.0``PHP`
 - [Magento](https://magento.com/)  -开放式全渠道创新的领先提供商.  （[Demo](https://magento.com/schedule-a-demo), [Source Code](https://github.com/magento/magento2)）OSL-3.0`PHP
-- [Microweber](https://microweber.com/)  -拖放CMS和在线商店.  （[Demo](http://demo.microweber.org/), [Source Code](https://github.com/microweber/microweber)）`Apache-2.0``PHP`
-- [OpenBazaar](https://www.openbazaar.org)  -使用加密货币的分散市场.  （[Source Code](https://github.com/openbazaar/openbazaar-go)）MIT``去
+- [Microweber](https://microweber.com/)  -拖放CMS和在线商店.  （[Demo](http://demo.microweber.org/), [Source Code](https://github.com/microweber/microweber)) `Apache-2.0` `PHP`
+- [OpenBazaar](https://www.openbazaar.org) - Decentralized marketplace using cryptocurrency. ([Source Code](https://github.com/openbazaar/openbazaar-go)）MIT``去
 - [OpenCart](https://www.opencart.com)  -免费的开源购物车解决方案.  （[Source Code](https://github.com/opencart/opencart)）`GPL-3.0``PHP`
 - [Open Classifieds](http://open-classifieds.com/)  -用于分类网站的免费开源，自托管CMS.  （[Source Code](https://github.com/open-classifieds/openclassifieds2)）`GPL-3.0``PHP`
 - [Open Source POS](https://www.opensourcepos.org/)  -开源销售点是基于Web的销售点系统.  （[Source Code](https://github.com/opensourcepos/opensourcepos)用PHP`
@@ -502,7 +502,7 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [Pretix](https://pretix.eu/)  -基于Django的活动门票销售平台.  （[Source Code](https://github.com/pretix)）`Apache-2.0`` Python`
 - [Reaction Commerce](https://reactioncommerce.com/)  -可定制的实时响应式JavaScript商业平台.  （[Source Code](https://github.com/reactioncommerce/reaction)）`GPL-3.0`` Nodejs`
 - [Saleor](http://getsaleor.com/)  -基于Django的开源电子商务店面.  （[Demo](https://demo.getsaleor.com/), [Source Code](https://github.com/mirumee/saleor)）`BSD-3-Clause`` Python`
-- [Shuup](https://www.shuup.com/)  -适用于大小网站的Django支持的完全可自定义的开源电子商务框架.  （[Source Code](https://github.com/shuup/shuup)）`AGPL-3.0``Python`
+- [Shuup](https://www.shuup.com/)  -适用于大小网站的Django支持的完全可定制的开源电子商务框架.  （[Source Code](https://github.com/shuup/shuup)）`AGPL-3.0``Python`
 - [Shopware Community Edition](https://shopware.com/community/)  -德国制造的基于PHP的开源电子商务软件.  （[Demo](https://www.shopware.com/en/test-demo/), [Source Code](https://github.com/shopware/platform)用PHP`
 - [Spree Commerce](https://spreecommerce.org)  -Spree是针对Ruby on Rails的完整，模块化和API驱动的开源电子商务解决方案.  （[Demo](http://new-ux.spreecommerce.org/), [Source Code](https://github.com/spree/spree)）`BSD-3-Clause``Ruby`
 - [Sylius](http://sylius.org/)  -Symfony2支持的开放源代码全栈电子商务平台.  （[Demo](http://sylius.org/demo), [Source Code](https://github.com/Sylius/Sylius)用PHP`
@@ -525,7 +525,7 @@ _See https://github.com/n1trux/awesome-sysadmin#dns_
 
 **[`^        back to top        ^`](#)**
 
-- [DOCAT](https://github.com/randombenj/docat)  -托管您的文档. 简单的. 版本化. 想要.  MIT python /泊坞窗
+- [DOCAT](https://github.com/randombenj/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/docker`
 - [Docspell](https://docspell.org)  -自动标记文档组织者和存档.  （[Source Code](https://github.com/eikek/docspell)）`GPL-3.0`` Scala / Java`
 - [EdPaper](https://github.com/Edraens/EdPaper)  -具有用户管理功能的PDF组织者. 麻省理工学院PHP
 - [EveryDocs](https://github.com/jonashellmann/everydocs-core/)  -一个供个人使用的简单文档管理系统，具有基本功能以数字方式组织您的文档.  GPL-3.0`Ruby`
@@ -560,11 +560,11 @@ _Some [Content Management System](#content-management-systems-cms) 和 [Archivin
 
 ### Institutional repository and digital library software.
 
-- [DSpace](http://dspace.org/)  -交钥匙存储库应用程序提供对数字资源的持久访问.  （[Source Code](https://github.com/DSpace/DSpace)）`BSD-3-Clause`` Java`
+- [DSpace](http://dspace.org/)  -交钥匙存储库应用程序，可以持久访问数字资源.  （[Source Code](https://github.com/DSpace/DSpace)）`BSD-3-Clause`` Java`
 - [EPrints](https://www.eprints.org/)  -具有主要针对学术机构的灵活的元数据和工作流模型的数字文档管理系统.  （[Demo](http://demoprints.eprints.org/), [Source Code](https://github.com/eprints/eprints)）`GPL-3.0`` Perl`
 - [Fedora Commons Repository](https://fedorarepository.org/)  -用于管理和传播数字内容的健壮和模块化的存储系统，特别适合于数字图书馆和档案馆的访问和保存.  （[Source Code](https://github.com/fcrepo4/fcrepo4)）Apache-2.0`` Java`
 - [Islandora](https://islandora.ca/)  -Drupal模块，用于浏览和管理基于Fedora的数字存储库.  （[Source Code](https://github.com/Islandora/islandora)）`GPL-3.0``PHP`
-- [Samvera Hyrax](https://samvera.org/)  -Samvera框架的前端，该框架本身是Ruby on Rails应用程序，用于浏览和管理基于Fedora的数字存储库.  （[Source Code](https://github.com/samvera/hyrax)）`Apache-2.0``Ruby`
+- [Samvera Hyrax](https://samvera.org/)  -Samvera框架的前端，该框架本身是Ruby on Rails应用程序，用于浏览和管理基于Fedora的数字存储库.  （[Source Code](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 ## Federated Identity/Authentication
 
@@ -610,7 +610,7 @@ _RSS / Atom自动化_
 - [Goeland](https://github.com/slurdge/goeland)  -读取RSS / Atom提要并过滤/消化它们以创建精美的电子邮件. 麻省理工学院
 - [PolitePol](https://github.com/taroved/pol)  -用于为任何网页创建RSS提要的在线工具.  （[Demo](http://politepol.com)）和Python
 - [RSS Fulltext Proxy](https://github.com/Kombustor/rss-fulltext-proxy)  -镜像RSS feed，以返回从网站提取的项目的全部内容.  `MIT``NodeJS`
-- [RSS Merger](https://github.com/taophp/rss-merger) - PHP script which will take multiple RSS / Atom feeds as input and merge them into a single RSS feed. `GPL-2.0` `PHP`
+- [RSS Merger](https://github.com/taophp/rss-merger)  -PHP脚本，它将多个RSS / Atom提要作为输入并将它们合并为一个RSS提要.  `GPL-2.0``PHP`
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge)  -rss-bridge是一个PHP项目，能够为没有网站的网站生成ATOM供稿.  `Unlicense``PHP`
 - [RSS2EMail](https://github.com/rss2email/rss2email)  -提取RSS / Atom提要并将新内容推送到任何电子邮件接收者，支持OPML.  GPL-2.0 Python
 - [Screaming Liquid Tiger](https://github.com/herrbischoff/screaming-liquid-tiger)  -简单的脚本，可从同一文件夹中的媒体文件列表自动生成有效的RSS和Atom提要. 麻省理工学院PHP
@@ -639,9 +639,9 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 - [Pydio](https://pydio.com/)  -将任何Web服务器变成功能强大的文件管理系统，并替代主流云存储提供商.  （[Source Code](https://github.com/pydio/pydio-core)）`AGPL-3.0``PHP`
 - [Samba](https://www.samba.org/)  -Samba是用于Linux和Unix的标准Windows互操作性程序套件. 它使用SMB / CIFS协议为所有客户端提供安全，稳定和快速的文件和打印服务.  （[Source Code](https://git.samba.org/samba.git/)）`GPL-3.0`` C`
 - [Seafile](https://www.seafile.com/en/home/)  -团队和组织主要的文件托管和共享解决方案.  （[Source Code](https://github.com/haiwen/seafile)）`GPL-2.0 / GPL-3.0 / AGPL-3.0 / Apache-2.0`` C`
-- [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file sync. ([Source Code](https://github.com/hbons/SparkleShare)) `GPL-3.0` `C#`
+- [SparkleShare](http://sparkleshare.org/)  -自托管，即时，安全的文件同步.  （[Source Code](https://github.com/hbons/SparkleShare)) `GPL-3.0` `C#`
 - [Syncany](https://www.syncany.org/)  -用于任意存储后端的安全文件同步软件，一个开源云存储和文件共享应用程序. 安全地将文件同步到任何类型的存储.  GPL-3.0 Java
-- [Syncthing](https://syncthing.net/)  -同步是一个开源的对等文件同步工具.  （[Source Code](https://github.com/syncthing/syncthing)）`MPL-2.0``Go`
+- [Syncthing](https://syncthing.net/)  -同步是开源的对等文件同步工具.  （[Source Code](https://github.com/syncthing/syncthing)）`MPL-2.0``Go`
 - [Unison](https://www.cis.upenn.edu/~bcpierce/unison/)  -Unison是OSX，Unix和Windows的文件同步工具.  GPL-3.0`OCaml
 - [Z-Push](http://z-push.org/) -微软的实施 [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) 协议.  （[Source Code](https://stash.z-hub.io/projects/ZP/repos/z-push)）`AGPL-3.0``PHP`
 
@@ -650,7 +650,7 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 - [bittorrent-tracker](https://webtorrent.io/)  -简单，强大的BitTorrent跟踪器（客户端和服务器）实施.  （[Source Code](https://github.com/feross/bittorrent-tracker)）和Nodejs
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent)  -具有HTTP可检索或可流式下载文件的Torrent Web客户端.  AGPL-3.0`Go
 - [Dat Project](https://datproject.org)  -由大型模块生态系统构建的强大的分散式文件共享应用程序.  （[Source Code](https://github.com/datproject)）和Nodejs
-- [FilePizza](http://file.pizza/)  -在浏览器中进行点对点文件传输.  （[Source Code](https://github.com/kern/filepizza)）`BSD-3-Clause``Nodejs`
+- [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser. ([Source Code](https://github.com/kern/filepizza)）`BSD-3-Clause``Nodejs`
 - [instant.io](https://github.com/feross/instant.io)  -通过WebTorrent进行流文件传输.  （[Demo](https://instant.io)）和Nodejs
 - [Magnetico](https://github.com/boramalper/magnetico)  -Magnetico是第一个为最终用户设计的自主（自托管）BitTorrent DHT搜索引擎套件.  AGPL-3.0 Python
 - [Magnetissimo](https://github.com/sergiotapia/magnetissimo)  -搜索引擎为所有流行的洪流站点编制索引. 麻省理工学院的长生不老药
@@ -660,7 +660,7 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 - [rartracker](https://github.com/swetorrentking/rartracker)  -完整的私人bittorrent跟踪器.  `WTFPL``PHP`
 - [Send](https://github.com/timvisee/send)  -简单，私有，端到端的加密临时文件共享，最初由Mozilla构建.  （[Clients](https://github.com/timvisee/send#clients)）`MPL-2.0`Nodejs`
 - [Torrents.csv](https://gitlab.com/dessalines/torrents.csv)  -可自我托管的洪流搜索引擎.  GPL-3.0`Rust
-- [Transmission](https://transmissionbt.com/) - Fast, easy, Free Bittorrent client. ([Source Code](https://github.com/transmission/transmission)）`GPL-3.0`` C`
+- [Transmission](https://transmissionbt.com/)  -快速，轻松，免费的Bittorrent客户端.  （[Source Code](https://github.com/transmission/transmission)）`GPL-3.0`` C`
 
 #### Object storage/file servers
 
@@ -682,15 +682,16 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 - [imgpush](https://github.com/hauxir/imgpush)  -imgpush是一种自托管文件上传服务，可以轻松集成到其他Web应用程序中. 麻省理工学院Python
 - [ipfs.pics](https://github.com/ipfspics/server)  -ipfs.pics是一个分布式图像托管网站.  `AGPL-3.0``PHP`
 - [Jirafeau](https://gitlab.com/mojo42/Jirafeau)  -Jirafeau是允许以简单方式上传文件并提供唯一链接的网站.  （[Demo](http://jirafeau.net/)）`AGPL-3.0``PHP`
-- [linx-server](https://github.com/andreimarcu/linx-server)  -带有API，自动到期，删除密钥和网络种子支持的简单文件共享和pastebin.  （[Demo](https://demo.linx-server.net/)）`GPL-3.0``Go`
+- [Kleeja](https://kleeja.net/) -文件上传/共享应用程序，自2007年以来已被成千上万的网站管理员使用.[Source Code](https://github.com/kleeja-official/kleeja)）`GPL-2.0``PHP`
+- [linx-server](https://github.com/andreimarcu/linx-server)  -带有API，自动到期，删除密钥和Web种子支持的简单文件共享和pastebin.  （[Demo](https://demo.linx-server.net/)）`GPL-3.0``Go`
 - [lufi](https://framagit.org/fiat-tux/hat-softwares/lufi)  -让我们上传客户端加密的文件.  （[Demo](https://demo.lufi.io), [Source Code](https://framagit.org/fiat-tux/hat-softwares/lufi/tree/master)）`AGPL-3.0``Perl`
 - [lutim](https://github.com/ldidry/lutim)  -让我们上传该图像.  `AGPL-3.0``Perl`
 - [OnionShare](https://github.com/micahflee/onionshare)  -安全匿名共享任何大小的文件.  GPL-2.0 Python
-- [PictShare](https://www.pictshare.net/)  -PictShare是一种多语言，开源图像托管服务，具有简单的调整大小和上传API.  （[Source Code](https://github.com/chrisiaut/pictshare)）`Apache-2.0``PHP`
+- [PictShare](https://www.pictshare.net/)  -PictShare是一种多语言，开源图像托管服务，具有简单的调整大小和上传API.  （[Source Code](https://github.com/chrisiaut/pictshare)) `Apache-2.0` `PHP`
 - [Plik](https://github.com/root-gg/plik)  -Plik是可扩展且友好的临时文件上传系统.  （[Demo](https://plik.root.gg/)）MIT``去
 - [Pomf](https://github.com/Pomf/Pomf)  -简单的文件上传和共享，这是现已关闭的网站Pomf.se的来源. 麻省理工学院PHP
 - [ProjectSend](http://www.projectsend.org/)  -上传文件并将其分配给您创建的特定客户端. 将这些文件的访问权限授予客户.  （[Source Code](https://github.com/ignacionelson/ProjectSend)）`GPL-2.0``PHP`
-- [PsiTransfer](https://github.com/psi-4ward/psitransfer)  -简单的开源自托管文件共享解决方案，具有强大的上传/下载恢复和密码保护功能.  BSD-2-Clause NodeJS
+- [PsiTransfer](https://github.com/psi-4ward/psitransfer)  -简单的开放源代码自托管文件共享解决方案，具有强大的上载/下载恢复和密码保护功能.  BSD-2-Clause NodeJS
 - [Pste](https://dev.pste.pw/)  -只是一个受pomf.se和teknik.io等公司启发的简单文件托管应用程序.  （[Source Code](https://github.com/FoxDev/pste)）`GPL-3.0`` Python`
 - [Share](https://github.com/MrDemonWolf/share)  -简单但高级的上载器-使用管理员的调节工具上载文件，图像和文本. 可用于朋友和家人，也可仅用于您. 与ShareX等集成.  MIT`Nodejs`
 - [Sharry](https://github.com/eikek/sharry)  -通过可恢复的上载和下载，在经过身份验证的用户和匿名用户之间（两种方式）轻松地通过Internet共享文件.  `GPL-3.0``Scala / Java`
@@ -709,13 +710,13 @@ _See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems_
 #### Web based file managers
 
 - [Apaxy](https://oupala.github.io/apaxy/)  -使用mod_autoindex Apache模块和一些CSS来覆盖目录列表的默认样式，以增强浏览网页目录的体验.  （[Source Code](https://github.com/AdamWhitcroft/Apaxy)）`Unlicense``HTML`
-- [DirectoryLister](http://www.directorylister.com/)  -基于PHP的简单目录列表器，列出了目录及其所有子目录，并允许您在其中导航.  （[Source Code](https://github.com/DirectoryLister/DirectoryLister)用PHP`
+- [DirectoryLister](http://www.directorylister.com/) - Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ([Source Code](https://github.com/DirectoryLister/DirectoryLister)用PHP`
 - [Encode Explorer](http://encode-explorer.siineiolekala.net/)  -Encode Explorer是一个单页文件浏览器，它既简单又实用.  （[Demo](http://encode-explorer.siineiolekala.net/explorer/index.php), [Source Code](https://github.com/marekrei/encode-explorer)用PHP`
 - [explorer](https://soyuka.github.io/explorer/)  -使用nodejs创建的高度可配置的目录列表.  （[Source Code](https://github.com/soyuka/explorer)）和Nodejs
 - [filebrowser](https://filebrowser.org/)  -具有Material Design Web界面的Web文件浏览器.  （[Source Code](https://github.com/filebrowser/filebrowser)）Apache-2.0`Go`
 - [Filestash](https://www.filestash.app/)  -一个网络文件管理器，可让您在任何位置管理数据：FTP，SFTP，WebDAV，Git，S3，Minio，Dropbox或Google云端硬盘.  （[Demo](https://demo.filestash.app/), [Source Code](https://github.com/mickael-kerjean/filestash)）`AGPL-3.0``Go`
 - [goBrowser](https://github.com/xataz/gobrowser)  -简单的http文件浏览器.  GPL-3.0`Go`
-- [Gossa](https://github.com/pldubouilh/gossa)  -Gossa是您文件的轻便简单的Web服务器. 麻省理工学院
+- [Gossa](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 - [h5ai](https://larsjung.de/h5ai/)  -用于HTTP Web服务器的现代文件索引器，重点放在您的文件上. 目录以吸引人的方式显示，并且通过不同的视图，面包屑和树概述来增强对目录的浏览.  （[Demo](https://larsjung.de/h5ai/demo/), [Source Code](https://github.com/lrsjng/h5ai)用PHP`
 - [IFM](https://github.com/misterunknown/ifm)  -单个脚本文件管理器. 麻省理工学院PHP
 - [ResourceSpace](https://www.resourcespace.com)  -ResourceSpace开源数字资产管理软件是组织数字资产的简单，快速和免费的方式.  （[Demo](https://www.resourcespace.com/trial), [Source Code](https://www.resourcespace.com/svn)）`其他``PHP`
@@ -734,7 +735,7 @@ _游戏，游戏服务器和控制面板.
 - [battlecraft](https://github.com/jbreindel/battlecraft)  -完全分布式的多人浏览器游戏.  `Apache-2.0``Erlang`
 - [elevatorsaga](http://play.elevatorsaga.com/)  -电梯编程游戏.  （[Source Code](https://github.com/magwo/elevatorsaga)）和Javascript
 - [Hextris](https://github.com/Hextris/hextris)  -受俄罗斯方块启发的快节奏HTML5益智游戏.  （[Demo](https://hextris.github.io/hextris)）`GPL-3.0`` HTML5`
-- [Legend of the Green Dragon](https://github.com/lotgd/core)  -《绿龙传说》是基于文本的RPG，最初由埃里克·史蒂文斯和JT Traub开发，是对塞斯·阿布尔·鲁滨逊的经典BBS门游戏《红龙传说》的翻版和致敬.  （[Demo](http://lotgd.net/)）`AGPL-3.0``PHP`
+- [Legend of the Green Dragon](https://github.com/lotgd/core)  -《绿龙传说》是基于文本的RPG，最初由Eric Stevens和JT Traub开发，是对Seth Able Robinson的经典BBS Door游戏《红龙传说》的翻版和致敬.  （[Demo](http://lotgd.net/)）`AGPL-3.0``PHP`
 - [Lila](https://lichess.org/)  -永久免费，无广告和开放源代码的国际象棋服务器，为lichess.org提供支持，并带有官方的iOS和Android客户端应用程序.  （[Source Code](https://github.com/ornicar/lila)）`AGPL-3.0`` Scala`
 - [Mindustry](https://mindustrygame.github.io/)  -类似于Factorio的塔防游戏. 建立生产链以收集更多资源，并建立复杂的设施.  （[Source Code](https://github.com/Anuken/Mindustry)）`GPL-3.0`` Java`
 - [Minetest](https://www.minetest.net/)  -开源体素游戏引擎. 玩我们的许多游戏之一，根据自己的喜好修改游戏，制作自己的游戏，或在多人服务器上玩.  （[Source Code](https://github.com/minetest/minetest)）LGPL-2.1 / CC-BY-SA-3.0 / Other`C ++
@@ -768,7 +769,7 @@ _游戏，游戏服务器和控制面板.
 **[`^        back to top        ^`](#)**
 
 - [BlueMind](https://www.bluemind.net/en/)  -带有电子邮件，日历，地址簿的组件，交换活动同步，交换“ mapi”协议支持.  （[Source Code](https://forge.bluemind.net/stash/projects/BM/repos/bluemind-public/browse)）`AGPL-3.0``Java`
-- [Citadel](http://www.citadel.org/doku.php) - Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. ([Source Code](http://www.citadel.org/doku.php/installation:source)）`GPL-3.0`` C`
+- [Citadel](http://www.citadel.org/doku.php)  -组件，包括电子邮件，日历/计划，通讯录，论坛，邮件列表，IM，Wiki和博客引擎，RSS聚合等.  （[Source Code](http://www.citadel.org/doku.php/installation:source)）`GPL-3.0`` C`
 - [Corteza](https://cortezaproject.org)  -CRM，包括统一的工作区，企业消息传递和低代码环境，用于快速安全地交付基于记录的管理解决方案.  （[Demo](https://latest.cortezaproject.org), [Source Code](https://github.com/cortezaproject/corteza-server)）Apache-2.0`Go`
 - [Cozy Cloud](https://cozy.io)  -个人云，您可以在其中管理和同步联系人，文件和日历，并通过充满社区贡献的应用商店来管理预算.  （[Source Code](https://github.com/cozy)）`GPL-3.0`` Nodejs`
 - [egroupware](http://www.egroupware.org/)  -软件套件，包括日历，通讯录，记事本，项目管理工具，客户关系管理工具（CRM），知识管理工具，Wiki和CMS.  （[Source Code](https://github.com/EGroupware/egroupware)）`GPL-2.0``PHP`
@@ -788,7 +789,7 @@ _游戏，游戏服务器和控制面板.
 **[`^        back to top        ^`](#)**
 
 - [admidio](https://www.admidio.org/)  -Admidio是针对组织和团体网站的免费开源用户管理系统. 该系统具有灵活的角色模型，因此可以反映组织的结构和权限.  （[Demo](https://www.admidio.org/demo/), [Source Code](https://github.com/Admidio/admidio)）`GPL-2.0``PHP`
-- [IceHrm](https://icehrm.com/)  -IceHrm员工管理系统允许公司集中员工的机密信息.  （[Demo](https://icehrm.com/demo.php), [Source Code](https://github.com/gamonoid/icehrm)）`Apache-2.0``PHP`
+- [IceHrm](https://icehrm.com/)  -IceHrm员工管理系统允许公司集中员工的机密信息.  （[Demo](https://icehrm.com/demo.php), [Source Code](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`
 - [OrangeHRM](https://www.orangehrm.com/)  -OrangeHRM是一个全面的HRM系统，可捕获任何企业所需的所有基本功能.  （[Source Code](https://sourceforge.net/projects/orangehrm/)）`GPL-2.0``PHP`
 - [Sentrifugo](http://www.sentrifugo.com/)  -Sentrifugo是一种HRM系统，可以轻松配置以满足您的组织需求.  （[Source Code](https://github.com/sapplica/sentrifugo)）`GPL-3.0``PHP`
 - [TimeOff.Management](https://timeoff.management)  -适用于中小型企业的简单但功能强大的缺勤管理软件.  （[Demo](https://app.timeoff.management), [Source Code](https://github.com/timeoff-management/application)）和Nodejs
@@ -841,7 +842,7 @@ _也可以看看 [awesome-gis](https://github.com/sshuair/awesome-gis)._
 
 - [Geo2tz](https://github.com/noandrea/geo2tz)  -从地理坐标中获取时区（纬度，经度）. 麻省理工学院Go / Docker
 - [GraphHopper](https://graphhopper.com/)  -使用OpenStreetMap的快速路由库和服务器.  （[Source Code](https://github.com/graphhopper/graphhopper)）Apache-2.0`` Java`
-- [Hauk](https://github.com/bilde2910/Hauk)  -易于设置的位置共享平台，可让您临时与任何人实时共享位置.  （[Demo](https://github.com/bilde2910/Hauk#demo-server)）`Apache-2.0``PHP`
+- [Hauk](https://github.com/bilde2910/Hauk)  -易于设置的位置共享平台，可让您临时与任何人实时共享位置.  （[Demo](https://github.com/bilde2910/Hauk#demo-server)) `Apache-2.0` `PHP`
 - [MapBBCodeShare](https://github.com/MapBBCode/share.mapbbcode.org)  -共享自定义OSM映射的工具. 支持带注释的标记，多边形，线，多种格式的导入/导出，多层，短链接.  （[Demo](http://share.mapbbcode.org/)）`WTFPL / Other``PHP`
 - [Open Source Routing Machine (OSRM)](http://project-osrm.org/)  -高性能路由引擎，旨在在OpenStreetMap数据上运行，并提供HTTP API，C ++库接口和NodeJS包装器.  （[Demo](https://map.project-osrm.org/), [Source Code](https://github.com/Project-OSRM/osrm-backend)）`BSD-2-Clause``C ++`
 - [Nominatim](https://nominatim.org/)  -对OpenStreetMap数据进行反向地理编码（地址-&gt;坐标）的服务器应用程序.  （[Source Code](https://github.com/openstreetmap/Nominatim)）`GPL-2.0`` C`
@@ -882,7 +883,7 @@ _也可以看看 [awesome-gis](https://github.com/sshuair/awesome-gis)._
 
 - [Ampache](http://ampache.org/)  -基于Web的音频/视频流应用程序.  （[Demo](http://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache)）`AGPL-3.0``PHP`
 - [Airsonic](https://airsonic.github.io/)  -开源的基于Web的媒体流媒体和点唱机.  Subsonic的最后一个开源发行版的一个分支，在它切换许可证之前.  （[Source Code](https://github.com/airsonic/airsonic), [Clients](https://airsonic.github.io/docs/apps/)）`GPL-3.0`` Java`
-- [AzuraCast](https://www.azuracast.com/)  -现代化且可访问的自托管网络广播管理套件.  （[Source Code](https://github.com/AzuraCast/AzuraCast)）`Apache-2.0``PHP`
+- [AzuraCast](https://www.azuracast.com/)  -现代化且可访问的自托管网络广播管理套件.  （[Source Code](https://github.com/AzuraCast/AzuraCast)) `Apache-2.0` `PHP`
 - [Audioserve](https://github.com/izderadicka/audioserve)  -简单的个人服务器，可提供目录（有声读物，音乐，播客等）中的音频文件. 专注于简单性，并支持客户端之间的播放位置同步. 麻省理工学院
 - [Beets](http://beets.io/)  -音乐库管理器和MusicBrainz标记器（命令行和Web界面）.  （[Source Code](https://github.com/beetbox/beets)）和Python
 - [Black Candy](https://github.com/aidewoode/black_candy)  -使用Rails和Stimulus构建的音乐流服务器. 麻省理工学院Ruby
@@ -924,7 +925,7 @@ _也可以看看 [awesome-gis](https://github.com/sshuair/awesome-gis)._
 - [Open Streaming Platform](https://openstreamingplatform.com)  -Twitch和Youtube Live的自托管替代方案，用于实时和点播视频流.  （[Source Code](https://gitlab.com/Deamos/flask-nginx-rtmp-manager)）和Python
 - [Olaris](https://gitlab.com/olaris/olaris-server)  -Olaris是一个开源，社区驱动的媒体管理器和转码服务器.  GPL-3.0`Go`
 - [PeerTube](https://joinpeertube.org/en/)  -直接在网络浏览器中使用P2P（BitTorrent）的分散式视频流平台.  （[Source Code](https://github.com/Chocobozzz/PeerTube)）`AGPL-3.0`` Nodejs`
-- [Rapidbay](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
+- [Rapidbay](https://github.com/hauxir/rapidbay/)  -自托管的洪流视频流服务/洪流客户端，允许从浏览器中的洪流或Chromecast / AppleTV / Smart TV中搜索和播放洪流视频. 麻省理工学院Python / Docker
 - [Restreamer](https://datarhei.github.io/restreamer/)  -Restreamer允许您在没有流媒体提供商的情况下在网站上进行h.264实时视频流.  （[Source Code](https://github.com/datarhei/restreamer)）`Apache-2.0`Nodejs / Docker`
 - [Radium](https://github.com/Zibbp/Radium)  -通过HLS使用VOD功能同步流和视频播放. 专为电影之夜而开发，但有许多用例.  （[Demo](https://radium-demo.herokuapp.com)）`MIT`` Nodejs / Docker`
 - [ShinobiCE](https://gitlab.com/Shinobi-Systems/ShinobiCE)  -用Node编写的开源CCTV软件，同时支持IP和本地摄像机.  AGPL-3.0 / GPL-3.0 Node.js
@@ -940,7 +941,7 @@ _也可以看看 [awesome-gis](https://github.com/sshuair/awesome-gis)._
 
 - [2FAuth](https://github.com/Bubka/2FAuth)  -一个Web应用程序，用于管理您的双向认证（2FA）帐户并生成其安全代码.  （[Demo](https://demo.2fauth.app/)）`AGPL-3.0``PHP`
 - [411](https://github.com/etsy/411)  -警报管理Web应用程序. 麻省理工学院PHP
-- [AlertHub](https://github.com/Ardakilic/alerthub)  `⚠`-AlertHub是一个简单的工具，可以从GitHub版本中获得警报.  MIT`Nodejs`
+- [AlertHub](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`
 - [Anchr](https://anchr.io)  -Anchr是一个工具箱，用于处理Internet上的微小任务，包括书签集合，URL缩短和（加密的）图像上传.  （[Source Code](https://github.com/n1try/anchr)）`GPL-3.0`` Nodejs`
 - [Anuko](https://www.anuko.com/time_tracker/index.htm)  -Anuko在自托管的基础上提供了简单的时间和项目跟踪.  （[Demo](https://timetracker.anuko.com/), [Source Code](https://github.com/anuko/timetracker)）`其他``PHP`
 - [asciiflow](http://asciiflow.com/)  -流程图绘制工具.  （[Source Code](https://github.com/lewish/asciiflow2)）`GPL-3.0``Java / JavaScript`
@@ -971,7 +972,7 @@ _也可以看看 [awesome-gis](https://github.com/sshuair/awesome-gis)._
 - [nnmm](https://github.com/Mechazawa/nnmm)  -超级微型pastebin / url缩小程序“微服务”.  `Beerware``PHP`
 - [Notica](https://notica.us)  -可让您将浏览器通知从终端发送到台式机或手机. 无需安装或注册.  （[Source Code](https://github.com/tannercollin/Notica)）和Nodejs
 - [Ombi](https://ombi.io/)  -用于Plex / Emby的内容请求系统，通过不断增长的功能集连接到SickRage，CouchPotato，Sonarr.  （[Demo](https://app.ombi.io/), [Source Code](https://github.com/tidusjar/Ombi)) `GPL-2.0` `C#`
-- [oTranscribe](https://github.com/oTranscribe/oTranscribe)  -免费的网络应用程序，可消除抄录采访记录的痛苦.  （[Demo](https://otranscribe.com/)）和JavaScript
+- [oTranscribe](https://github.com/oTranscribe/oTranscribe) - Free web app to take the pain out of transcribing recorded interviews. ([Demo](https://otranscribe.com/)）和JavaScript
 - [PassCheck](https://apacketofsweets.github.io/PassCheck/)  -具有某些方便的密码工具的Web应用程序，包括密码生成器，强度检查器和HaveIBeenPwned违规检查器.  （[Source Code](https://github.com/apacketofsweets/PassCheck)）和JavaScript
 - [Reactive Resume](http://rxresu.me/)  -独一无二的简历构建器，牢记您的隐私. 完全安全，可定制，可移植，开源且永久免费.  （[Demo](https://rxresu.me/app/dashboard/), [Source Code](https://github.com/AmruthPillai/Reactive-Resume)）`MIT`` Docker / Nodejs`
 - [ReleaseBell](https://releasebell.com/)  -发送已加星标的Github仓库的发布通知.  （[Source Code](https://git.cloudron.io/cloudron/releasebell)）和Nodejs
@@ -982,7 +983,7 @@ _也可以看看 [awesome-gis](https://github.com/sshuair/awesome-gis)._
 - [Trello Burndown](https://github.com/swordbeta/trello-burndown)  ⚠-Trello板易于使用的SCRUM燃尽图. 麻省理工学院Go / Docker
 - [ViMbAdmin](http://www.vimbadmin.net/)  -提供基于Web的虚拟邮箱管理系统，使邮件管理员可以轻松管理域，邮箱和别名.  （[Demo](http://www.vimbadmin.net/demo/auth/login), [Source Code](https://github.com/opensolutions/ViMbAdmin)）`GPL-3.0``PHP`
 - [Web fonts repository](https://github.com/Finesse/web-fonts-repository)  -简单的webfont托管.  Google字体替代您自己的字体. 麻省理工学院PHP
-- [webtrees](https://www.webtrees.net) - Webtrees is the web's leading on-line collaborative genealogy application. ([Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)）`GPL-3.0``PHP`
+- [webtrees](https://www.webtrees.net)  -Webtrees是Web上领先的在线协作家谱应用程序.  （[Demo](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo), [Source Code](https://github.com/fisharebest/webtrees)）`GPL-3.0``PHP`
 
 ## Money, Budgeting and Management
 
@@ -994,11 +995,11 @@ _See also https://github.com/n1trux/awesome-sysadmin#it-asset-management_
 - [BTCPay Server](https://btcpayserver.org/)  -自托管的比特币和其他加密货币支付处理器.  （[Demo](https://mainnet.demo.btcpayserver.org/), [Source Code](https://github.com/btcpayserver/)) `MIT` `C#`
 - [Boodle](https://github.com/manuel-uberti/boodle)  -Clojure和ClojureScript中的简单会计单页应用程序.  `EPL-1.0``Java`
 - [Budget App](https://github.com/paukiatwee/budgetapp)  -Budget App是一个开源的个人预算应用程序.  Apache-2.0 Java
-- [Dot Ledger](https://www.dotledger.com/)  -基于Web的个人理财管理工具.  （[Demo](https://demo.dotledger.com/), [Source Code](https://github.com/dotledger/dotledger)）`Apache-2.0``Ruby`
+- [Dot Ledger](https://www.dotledger.com/)  -基于Web的个人理财管理工具.  （[Demo](https://demo.dotledger.com/), [Source Code](https://github.com/dotledger/dotledger)) `Apache-2.0` `Ruby`
 - [Economizzer](http://www.economizzer.org/)  -一个简单而安全的系统，可让您管理个人资金并实现目标，并且可以通过计算机，平板电脑或智能手机进行访问.  （[Demo](https://github.com/gugoan/economizzer#live-demo), [Source Code](https://github.com/gugoan/economizzer)用PHP`
 - [ExMoney](https://github.com/gaynetdinov/ex_money)  -自托管的个人理财应用程序.  ISC长生不老药
 - [Firefly III](https://firefly-iii.org/)  -Firefly III是一位现代财务经理. 它可以帮助您跟踪资金状况并进行预算预测. 它支持信用卡，具有高级规则引擎，可以从许多银行导入数据.  （[Demo](https://demo.firefly-iii.org/), [Source Code](https://github.com/firefly-iii/firefly-iii)）`AGPL-3.0``PHP`
-- [Family Accounting Tool](https://github.com/nymanjens/facto)  -基于Web的财务管理工具，适用于有部分费用共享的合作伙伴.  `Apache-2.0``Scala`
+- [Family Accounting Tool](https://github.com/nymanjens/facto)  -基于Web的财务管理工具，用于合作伙伴承担部分费用.  `Apache-2.0``Scala`
 - [Fava](https://beancount.github.io/fava/)  -Fava是Beancount的Web前端，Beancount是基于文本的重复输入记帐系统.  （[Demo](https://fava.pythonanywhere.com/example-with-budgets/income_statement/), [Source Code](https://github.com/beancount/fava)）和Python
 - [Galette](http://galette.eu/dc/)  -Galette是面向非营利组织的会员管理Web应用程序.  （[Source Code](http://git.tuxfamily.org/galette/galette.git/)）`GPL-3.0``PHP`
 - [GRR](http://grr.devome.com/?lang=en)  -中小型公司的资产管理和预订.  （[Source Code](https://github.com/JeromeDevome/GRR)）`GPL-2.0``PHP`
@@ -1013,7 +1014,7 @@ _See also https://github.com/n1trux/awesome-sysadmin#it-asset-management_
 - [PartKeepr](https://www.partkeepr.org)  -PartKeepr是电子零件库存管理软件. 它可以帮助您跟踪可用零件并协助您重新订购零件.  （[Demo](https://demo.partkeepr.org/), [Source Code](https://github.com/partkeepr/PartKeepr)）`GPL-3.0``PHP`
 - [SilverStrike](https://silverstrike.org/)  -个人理财变得容易.  （[Demo](https://demo.silverstrike.org/), [Source Code](https://github.com/agstrike/silverstrike)）`MIT`` Python / Django`
 - [StockazNG](https://dev.sigpipe.me/dashie/StockazNG)  -资产管理系统. 有Python
-- [Tabby](https://github.com/bertvandepoel/tabby)  -一种管理朋友之间共同费用的工具，例如餐厅费用或外卖食品，而无需每个人都创建一个帐户. 包括电子邮件提醒和跟踪谁（已）偿还了什么. 仅适用于AGPL-3.0的PHP
+- [Tabby](https://github.com/bertvandepoel/tabby)  -一种管理朋友之间共同费用的工具，例如餐厅费用或外卖食品，而无需每个人都创建一个帐户. 包括电子邮件提醒和跟踪谁（重新）偿还了什么. 仅适用于AGPL-3.0的PHP
 
 ## Monitoring
 
@@ -1036,21 +1037,21 @@ _也可以看看 [Wikis](#wikis)_
 - [draw.io](https://draw.io)  -用于制作流程图，流程图，组织图，UML，ER和网络图的图表软件.  （[Source Code](https://github.com/jgraph/drawio)）Apache-2.0 JavaScript
 - [HedgeDoc](https://demo.hedgedoc.org/)  -在所有平台上的实时协作降价注释，以前称为CodiMD和HackMD CE.  （[Source Code](https://github.com/hedgedoc/hedgedoc)）AGPL-3.0` TypeScript
 - [Joplin](https://joplin.cozic.net/)  -Joplin是一个记笔记应用程序，具有Markdown编辑器以及对移动和桌面平台的加密支持. 运行客户端并通过自托管的Nextcloud或类似服务器进行同步. 将其视为Evernote的开源替代方案.  （[Source Code](https://github.com/laurent22/joplin)）和Nodejs
-- [Leanote](http://leanote.org/) - Leanote, Not Just A Notepad! Open source cloud notepad. ([Demo](https://leanote.com/note), [Source Code](https://github.com/leanote/leanote)）`GPL-2.0``Go`
+- [Leanote](http://leanote.org/)  -Leanote，不只是记事本！ 开源云记事本.  （[Demo](https://leanote.com/note), [Source Code](https://github.com/leanote/leanote)）`GPL-2.0``Go`
 - [Markdown Edit](http://georgeosddev.github.com/markdown-edit/)  -在线降价编辑器/查看器.  （[Source Code](https://github.com/georgeOsdDev/markdown-edit)）`MIT`` HTML5`
 - [Meemo](https://meemo.minimal-space.de/)  -带有Markdown支持的个人笔记流.  （[Source Code](https://github.com/nebulade/meemo)）和Nodejs
-- [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)  -简约的notepad.cc克隆.  （[Demo](https://notes.orga.cat/)）`Apache-2.0``PHP`
+- [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)  -简约的notepad.cc克隆.  （[Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
 - [MiniNote](https://github.com/n1try/mininote)  -具有持久性的简单Markdown笔记应用程序.  MIT`Nodejs`
 - [Oddmuse](https://oddmuse.org/)  -用Perl编写的简单Wiki引擎. 无需数据库.  （[Source Code](https://github.com/kensanata/oddmuse)）`GPL-3.0`` Perl`
 - [OpenNote](https://github.com/FoxUSA/OpenNote)  -OpenNote被构建为Microsoft OneNote（T）和EverNote的基于Web的开放式替代方案.  （[Demo](https://foxusa.github.io/OpenNote/OpenNote/#/folder)）`MIT`` HTML5`
 - [Overleaf](https://www.overleaf.com/)  -基于Web的协作LaTeX编辑器.  （[Source Code](https://github.com/overleaf/overleaf)）`AGPL-3.0``Ruby`
-- [Paperwork](https://paperwork.cloud) - OpenSource note-taking and archiving alternative to Evernote, Microsoft OneNote and Google Keep. ([Source Code](https://github.com/paperwork/paperwork)用PHP`
+- [Paperwork](https://paperwork.cloud)  -Evernote，Microsoft OneNote和Google Keep的开源笔记和存档替代品.  （[Source Code](https://github.com/paperwork/paperwork)用PHP`
 - [Plainpad](https://alextselegidis.com/get/plainpad/)  -利用渐进式Web应用程序技术的最佳功能，用于云计算的现代笔记记录应用程序.  （[Demo](https://alextselegidis.com/try/plainpad/), [Source Code](https://github.com/alextselegidis/plainpad)）`GPL-3.0``PHP`
 - [savepad](https://github.com/shelltr/textpad)  -基于notepad.cc的简约记事本. 麻省理工学院PHP
 - [Standard Notes](https://standardnotes.org)  -简单和私人笔记应用程序. 在完成更多工作的同时保护您的隐私. 这是标准注释.  （[Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)）`GPL-3.0`` Ruby`
 - [turndown](https://domchristie.github.io/turndown/)  -用JavaScript编写的HTML到Markdown转换器.  （[Source Code](https://github.com/domchristie/turndown)）和Javascript
 - [Trilium Notes](https://github.com/zadam/trilium)  -Trilium Notes是一个分层的笔记应用程序，专注于建立大型个人知识库.  AGPL-3.0 NodeJS
-- [Turtl](https://turtl.it/) - Totally private personal database and note taking app. ([Source Code](https://github.com/turtl)）``3.0` GPL CommonLisp`
+- [Turtl](https://turtl.it/)  -完全私人的个人数据库和笔记应用程序.  （[Source Code](https://github.com/turtl)）``3.0` GPL CommonLisp`
 - [Wreeto](https://wreeto.com)  -Wreeto是建立在Ruby on Rails框架之上的开源笔记，知识管理和Wiki系统.  （[Source Code](https://github.com/chrisvel/wreeto_official)）`AGPL-3.0``Ruby`
 - [Writing](https://josephernest.github.io/writing/)  -浏览器中的轻量级无干扰文本编辑器（支持Markdown和LaTeX）. 写作时没有滞后.  （[Source Code](https://github.com/josephernest/writing)）和Javascript
 
@@ -1058,7 +1059,7 @@ _也可以看看 [Wikis](#wikis)_
 
 **[`^        back to top        ^`](#)**
 
-- [ Collabora Online Development Edition](https://www.collaboraoffice.com/code)  -Collabora在线开发版（CODE）是基于LibreOffice的强大在线办公室，支持所有主要文档，电子表格和演示文稿文件格式，您可以将其集成到自己的基础架构中.  （[Source Code](https://cgit.freedesktop.org/libreoffice/online/)）`MPL-2.0``C ++`
+- [ Collabora Online Development Edition](https://www.collaboraoffice.com/code)  -Collabora在线开发版（CODE）是基于LibreOffice的强大在线办公室，支持所有主要文档，电子表格和演示文稿文件格式，您可以将其集成到自己的基础架构中.  （[Source Code](https://cgit.freedesktop.org/libreoffice/online/)) `MPL-2.0` `C++`
 - [CryptPad](https://cryptpad.fr/)  -CryptPad是零知识实时协作编辑器（RTF，文本，文件，源代码等）.  （[Source Code](https://github.com/xwiki-labs/cryptpad)）`AGPL-3.0`` Nodejs`
 - [EtherCalc](https://ethercalc.net/)  -网络电子表格.  （[Source Code](https://github.com/audreyt/ethercalc)）CPAL-1.0 / Other` Node.js
 - [Etherpad](http://etherpad.org/)  -Etherpad是高度可定制的开源在线编辑器，可提供实时的协作编辑.  （[Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code](https://github.com/ether/etherpad-lite)）`Apache-2.0`` Nodejs`
@@ -1077,8 +1078,8 @@ _也可以看看 [Wikis](#wikis)_
 - [Padloc](https://padloc.app/)  -适用于个人和团队的现代，开源密码管理器.  （[Source Code](https://github.com/padloc/padloc)）`GPL-3.0`` Nodejs`
 - [Passbolt](https://www.passbolt.com/)  -密码管理器，专用于使用MySQL数据库后端在任何Web服务器上以协作方式管理密码.  （[Source Code](https://github.com/passbolt/passbolt_api)）`AGPL-3.0``PHP`
 - [PassIt](https://passit.io/)  -简单的密码管理，具有按组和用户共享的功能，但没有管理界面.  （[Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)）`AGPL-3.0``Python`
-- [PassWall](https://github.com/passwall/passwall-server)  -开源密码管理器.  AGPL-3.0`Go
-- [Psono](https://psono.com/)  -面向团队的功能齐全的有前途的密码管理员.  （[Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)）`Apache-2.0`` Python`
+- [PassWall](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`
+- [Psono](https://psono.com/)  -面向团队的功能齐全的有前途的密码管理器.  （[Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)）`Apache-2.0`` Python`
 - [Shaark](https://github.com/MarceauKa/shaark)  -用于链接，故事，密码和相册的多平台平台. 使用Laravel和Vue.js构建. 麻省理工学院PHP
 - [sysPass](http://www.syspass.org/)  -多用户密码管理系统.  （[Demo](http://demo.syspass.org/), [Source Code](https://github.com/nuxsmin/sysPass)）`GPL-3.0``PHP`
 - [Teampass](http://teampass.net/)  -专用于以协作方式管理密码的密码管理器. 一个对称密钥用于加密所有共享/组密码以及存储在文件和数据库中的服务器端. 适用于任何服务器Apache，MySQL和PHP.  （[Source Code](https://github.com/nilsteampassnet/TeamPass)）`GPL-3.0``PHP`
@@ -1097,12 +1098,13 @@ _也可以看看 [Wikis](#wikis)_
 - [Fugacious](https://fugacio.us)  -开源短期安全消息传递（OSSSM）.  （[Source Code](https://github.com/fugacious/fugacious)）`CC0-1.0``Ruby`
 - [Hastebin](https://haste.zneix.eu/about.md)  -用Node.js编写的开源pastebin（这是具有扩展维护功能的分支）.  （[Demo](https://haste.zneix.eu), [Source Code](https://github.com/zneix/haste-server)）MIT Node.js
 - [mojopaste](http://search.cpan.org/dist/App-mojopaste/)  -基于Perl的pastebin.  （[Demo](http://p.thorsen.pm/), [Source Code](https://github.com/jhthorsen/app-mojopaste)）`Artistic-2.0`` Perl`
+- [MokinToken](https://mokintoken.ramsay.xyz)  -使用tweetnacl的客户端加密pastebin.  （[Source Code](https://github.com/nexus-uw/mokintoken)）`Unlicense``PHP`
 - [NoteHub](https://github.com/chmllr/NoteHub)  -用于Markdown页面的免费且轻松的Pastebin. 简单，干净，提供密码，生成短链接.  MIT`Nodejs`
 - [Paste](https://phpaste.sourceforge.io/)  -粘贴是从购买前使用的原始来源pastebin.com派生的.  （[Source Code](https://github.com/jordansamuel/PASTE)）`GPL-3.0``PHP`
 - [pastebin](https://github.com/prologic/pastebin)  -具有便捷的api和CLI的简单pastebin服务.  （[Demo](https://paste.mills.io)）MIT``去
-- [pastebin](https://github.com/mkaczanowski/pastebin) - Simple, fast, feature-rich, standalone pastebin service. `MIT` `Rust`
+- [pastebin](https://github.com/mkaczanowski/pastebin)  -简单，快速，功能丰富的独立粘贴框服务. 麻省理工学院
 - [pb](https://github.com/ptpb/pb)  -使用长颈瓶打造的轻便型pastebin（和网址缩短器）.  GPL-3.0 Python
-- [PrivateBin](https://privatebin.info/) - PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data. ([Demo](https://privatebin.net/), [Source Code](https://github.com/PrivateBin/PrivateBin)）`Zlib``PHP`
+- [PrivateBin](https://privatebin.info/)  -PrivateBin是一个极简的开源在线粘贴/讨论板，服务器对托管数据了解为零.  （[Demo](https://privatebin.net/), [Source Code](https://github.com/PrivateBin/PrivateBin)）`Zlib``PHP`
 - [PurritoBin](https://github.com/PurritoBin/PurritoBin)  -超快速，简约，加密的命令行粘贴框，其中服务器不了解粘贴数据.  ISC C ++
 - [SharpPaste](https://github.com/phonicmouse/SharpPaste) - Cross-platform C# pastebin with client-side AES-256 encryption that just works. `MIT` `C#/NancyFX`
 - [Snibox](https://snibox.github.io/)  -代码片段管理器，具有吸引人的面向标签的界面.  （[Demo](https://snibox-demo.herokuapp.com/), [Source Code](https://github.com/snibox/snibox)）`MIT`` Ruby`
@@ -1131,7 +1133,7 @@ _也可以看看 [Monitoring](#monitoring)_
 - [simple-dash](https://github.com/kutyla-philipp/simple-dash)  -一个简单，响应迅速的仪表板，可转发到您选择的服务.  （[Demo](https://kutyla-philipp.github.io/simple-dash/)）和Javascript
 - [Tipboard](http://allegro.tech/tipboard/)  -内部，美味的本地仪表板系统.  （[Source Code](https://github.com/allegro/tipboard)）`Apache-2.0`` Python`
 - [wger](http://wger.de/)  -基于网络的个人锻炼，健身和体重记录器/追踪器. 它也可以用作简单的健身房管理实用程序，并提供完整的REST API.  （[Demo](http://wger.de), [Source Code](https://github.com/rolandgeider/wger)）`AGPL-3.0``Python`
-- [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+- [Your Spotify](https://github.com/Yooooomi/your_spotify)  ⚠-允许您记录您的Spotify监听活动，并通过Web应用程序提供有关它们的统计信息.  MIT节点Nodejs / Docker
 
 ## Photo and Video Galleries
 
@@ -1166,7 +1168,7 @@ _也可以看看 [Monitoring](#monitoring)_
 
 **[`^        back to top        ^`](#)**
 
-- [Calagator](http://calagator.org/)  -事件汇总器.  （[Source Code](https://github.com/calagator/calagator)）`MIT`` Ruby`
+- [Calagator](http://calagator.org/) - Event aggregator. ([Source Code](https://github.com/calagator/calagator)）`MIT`` Ruby`
 - [Clerk](https://github.com/chr15m/Clerk)  -简单的事件记录器，可跟踪发生的定期事件，习惯等.  `GPL-3.0``PHP`
 - [Croodle](https://github.com/jelhan/croodle)  -Croodle是一个端到端的加密Web应用程序，用于安排日期或对任何主题进行民意调查.  MIT JavaScript
 - [dudle](http://primelife.ercim.eu/results/opensource/63-dudle)  -在线计划应用程序.  （[Demo](https://dudle.inf.tu-dresden.de/), [Source Code](https://github.com/kellerben/dudle)）`AGPL-3.0``Ruby`
@@ -1178,7 +1180,7 @@ _也可以看看 [Monitoring](#monitoring)_
 - [JD Esurvey](https://www.jdsoft.com/jd-esurvey.html)  -开源企业调查Web应用程序.  （[Source Code](https://github.com/JD-Software/JDeSurvey)）`AGPL-3.0``Java`
 - [Kyélà](http://kyela.net/)  -参加团体活动的民意测验.  （[Demo](https://kyela.net/concert/), [Source Code](https://github.com/abienvenu/Kyela)）`AGPL-3.0``PHP`
 - [LimeSurvey](https://www.limesurvey.org)  -功能丰富的基于开源Web的轮询软件. 支持广泛的调查逻辑.  （[Demo](https://demo.limesurvey.org), [Source Code](https://github.com/LimeSurvey/LimeSurvey)）`GPL-2.0``PHP`
-- [Meetable](https://meetable.org)  -事件汇总器.  （[Demo](https://events.indieweb.org), [Source Code](https://github.com/aaronpk/Meetable)用PHP`
+- [Meetable](https://meetable.org) - Event aggregator. ([Demo](https://events.indieweb.org), [Source Code](https://github.com/aaronpk/Meetable)用PHP`
 - [Mobilizon](https://mobilizon.org)  -联合工具，可帮助您查找，创建和组织事件和组.  （[Demo](https://demo.mobilizon.org/), [Source Code](https://framagit.org/framasoft/mobilizon/)）`GPL-3.0``Elixir`
 - [Open Event Server](https://github.com/fossasia/open-event-server)  -使组织者能够管理从音乐会到会议和聚会的活动.  GPL-3.0 Python
 - [PHPBack](http://www.phpback.org)  -开源反馈系统.  （[Demo](http://www.phpback.org/demo/), [Source Code](https://github.com/ivandiazwm/phpback)）`GPL-3.0``PHP`
@@ -1201,10 +1203,10 @@ _也可以看看 [Monitoring](#monitoring)_
 - [PHP-Proxy](https://www.php-proxy.com/)  -专为快速，轻松修改并支持YouTube等视频网站而构建的Web代理脚本.  （[Demo](https://unblockvideos.com/), [Source Code](https://github.com/Athlon1600/php-proxy-app)用PHP`
 - [Pomerium](https://pomerium.io)  -身份识别的反向代理，是现在已经过时的oauth_proxy的后继代理. 在将您的请求代理到后端之前，它会插入一个OAuth步骤，以便您可以安全地将自托管网站公开到公共Internet.  （[Source Code](https://github.com/pomerium/pomerium)）Apache-2.0`Go`
 - [Pound](http://www.apsis.ch/pound/)  -轻量级的反向代理和HTTP / HTTPS负载平衡器.  GPL-2.0 C
-- [Privoxy](http://www.privoxy.org)  -具有高级过滤功能的非缓存Web代理，可增强隐私，修改网页数据和HTTP标头，控制访问权限以及删除广告和其他令人讨厌的Internet垃圾.  GPL-2.0 C
+- [Privoxy](http://www.privoxy.org)  -具有高级过滤功能的非缓存Web代理，可增强隐私，修改网页数据和HTTP标头，控制访问以及删除广告和其他令人讨厌的Internet垃圾.  GPL-2.0 C
 - [Redbird](https://github.com/OptimalBits/redbird)  -节点的现代反向代理，包括群集，HTTP2，LetsEncrypt和Docker支持.  BSD-2-Clause Javascript
 - [sish](https://github.com/antoniomika/sish)  -开源servo / ngrok替代方案，仅使用SSH提供到本地主机的HTTP（S）/ WS（S）/ TCP隧道. 麻省理工学院
-- [socks5-proxy-server](https://github.com/nskondratev/socks5-proxy-server)  -带有内置身份验证和Telegram-bot的SOCKS5代理服务器，用于用户管理和用户统计使用的数据（按GB数据付费时非常方便）. 它被docker化并且易于安装.  `Apache-2.0``NodeJS`
+- [socks5-proxy-server](https://github.com/nskondratev/socks5-proxy-server)  -带有内置身份验证和Telegram-bot的SOCKS5代理服务器，用于用户管理和用户统计使用的数据（按GB数据付费非常方便）. 它被docker化并且易于安装.  `Apache-2.0``NodeJS`
 - [SOCKS5Engine](https://github.com/VeeSecurity/SOCKS5Engine)  -轻巧且资源高效的SOCKS5代理服务器，针对高负载进行了优化.  AGPL-3.0`Go
 - [Squid](http://www.squid-cache.org/)  -支持HTTP，HTTPS，FTP等的Web缓存代理. 通过缓存和重用经常请求的网页，它减少了带宽并缩短了响应时间.  （[Source Code](https://code.launchpad.net/squid)）`GPL-2.0`` C`
 - [Swiperproxy](https://swiperproxy.github.io/)  -快速，开源的Web代理，您可以轻松运行和自定义.  （[Source Code](https://github.com/swiperproxy/swiperproxy)）和Python
@@ -1229,7 +1231,7 @@ _也可以看看 [Monitoring](#monitoring)_
 
 ### Enterprise Resource Planning
 
-- [Dolibarr](https://www.dolibarr.org/)  -Dolibarr ERP CRM是一个现代软件包，可以管理您的公司或基金会活动（联系人，供应商，发票，订单，库存，议程，会计等）.  （[Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code](https://github.com/Dolibarr/dolibarr)）`GPL-3.0或更高版本``PHP`
+- [Dolibarr](https://www.dolibarr.org/)  -Dolibarr ERP CRM是一个现代软件包，用于管理公司或基金会的活动（联系人，供应商，发票，订单，库存，议程，会计等）.  （[Demo](https://www.dolibarr.org/onlinedemo.php), [Source Code](https://github.com/Dolibarr/dolibarr)）`GPL-3.0或更高版本``PHP`
 - [ERPNext](https://erpnext.com)  -免费的开源ERP系统.  （[Demo](https://demo.erpnext.com), [Source Code](https://github.com/frappe/erpnext)）`GPL-3.0`` Python`
 - [LedgerSMB](https://ledgersmb.org/)  -适用于中小型企业的集成会计和ERP系统，具有双重记帐，预算，发票，报价，项目，订单和库存管理，运输等.  （[Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code](https://github.com/ledgersmb/LedgerSMB)）`GPL-2.0`` Perl`
 - [Odoo](http://odoo.com)  -免费的开源ERP系统.  （[Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)）LGPL-3.0`Python
@@ -1278,7 +1280,7 @@ _也可以看看 [Ticketing](#ticketing), [Task management/To-do lists](#task-ma
 - [Octobox](https://octobox.io/)  `⚠`-收回对GitHub通知的控制权.  （[Source Code](https://github.com/octobox/octobox)）`AGPL-3.0``Ruby`
 - [OpenProject](https://www.openproject.org)  -OpenProject是一个基于Web的项目管理系统.  （[Source Code](https://github.com/opf/openproject)）`GPL-3.0`` Ruby`
 - [Pagure](https://pagure.io/pagure)  -轻巧，强大且灵活的以git为中心的伪造，其功能为联合和分散开发奠定了基础.  （[Demo](https://pagure.io/)）`GPL-2.0`` Python`
-- [Phabricator](http://phabricator.org/)  -收集有助于构建更好软件的Web应用程序.  （[Demo](https://secure.phabricator.com/), [Source Code](https://github.com/phacility/phabricator)）`Apache-2.0``PHP`
+- [Phabricator](http://phabricator.org/)  -收集有助于构建更好软件的Web应用程序.  （[Demo](https://secure.phabricator.com/), [Source Code](https://github.com/phacility/phabricator)) `Apache-2.0` `PHP`
 - [Phproject](http://www.phproject.org/)  -高性能的功能齐全的项目管理系统.  （[Demo](http://demo.phproject.org/), [Source Code](https://github.com/Alanaktion/phproject)）`GPL-3.0``PHP`
 - [ProjeQtOr](https://www.projeqtor.org/)  -完整，成熟的多用户项目管理系统，在项目的所有阶段均具有广泛的功能.  （[Demo](https://demo.projeqtor.org/), [Source Code](https://sourceforge.net/p/projectorria/code/HEAD/tree/branches/)）`AGPL-3.0``PHP`
 - [Re:Backlogs](https://github.com/kaishuu0123/rebacklogs)  -由Ruby on Rails和VueJS支持的项目管理和协作工具.  （[Demo](https://rebacklogs.saino.me/users/sign_up)）`MIT`` Ruby`
@@ -1299,7 +1301,7 @@ _See [Ticketing](#ticketing)_
 ### IDE/Tools
 
 - [Atheos](https://www.atheos.io)  -Codiad继续提供基于Web的IDE框架，该框架占地面积小且要求最低.  （[Source Code](https://github.com/Atheos/Atheos)用PHP`
-- [Babelfish](https://github.com/bblfsh/bblfshd)  -用于源代码解析的自托管服务器. 它可以以任何受支持的语言解析任何文件，从文件中提取一个抽象语法树，并将其转换为通用抽象语法树，从而可以进行进一步的分析和转换.  GPL-3.0`Go`
+- [Babelfish](https://github.com/bblfsh/bblfshd)  -用于源代码解析的自托管服务器. 它可以使用任何支持的语言解析任何文件，从中提取一个抽象语法树，并将其转换为通用抽象语法树，从而可以进行进一步的分析和转换.  GPL-3.0`Go`
 - [Code-Server](https://coder.com/)  -浏览器中的Visual Studio代码，位于远程服务器上.  （[Source Code](https://github.com/cdr/code-server)）`MIT`` Nodejs / Docker`
 - [Eclipse Che](http://www.eclipse.org/che/)  -开源工作区服务器和云IDE.  （[Source Code](https://github.com/eclipse/che)）`EPL-1.0``Docker / Java`
 - [Gitpod](https://gitpod.io/)  -适用于GitHub和GitLab的在线IDE.  （[Demo](https://gitpod.io/#https://github.com/awesome-selfhosted/awesome-selfhosted), [Source Code](https://github.com/gitpod-io/self-hosted)）`EPL-2.0``Go / Docker`
@@ -1340,7 +1342,7 @@ _[Serverless computing on Wikipedia](https://en.wikipedia.org/wiki/Serverless_co
 
 ### API Management
 
-- [DreamFactory](https://www.dreamfactory.com/)  -将任何SQL / NoSQL /结构化数据转换为Restful API.  （[Source Code](https://github.com/dreamfactorysoftware/dreamfactory)）`Apache-2.0``PHP`
+- [DreamFactory](https://www.dreamfactory.com/)  -将任何SQL / NoSQL /结构化数据转换为Restful API.  （[Source Code](https://github.com/dreamfactorysoftware/dreamfactory)) `Apache-2.0` `PHP`
 - [Fusio](http://www.fusio-project.org/)  -开源API管理平台，可帮助构建和管理REST API.  （[Demo](http://fusio-project.org/demo), [Source Code](https://github.com/apioo/fusio)）`AGPL-3.0``PHP`
 - [Hapttic](https://github.com/jsoendermann/hapttic)  -简单的HTTP服务器，它将所有请求转发到Shell脚本以处理您收到的Webhook.  `Apache-2.0``Go`
 - [Hasura](https://hasura.io)  -具有细粒度访问控制的Postgres上的快速，即时实时GraphQL API，也可以触发数据库事件的webhooks.  （[Source Code](https://github.com/hasura/graphql-engine)）`Apache-2.0``Haskell`
@@ -1364,8 +1366,8 @@ _也可以看看 [Static site generators](#static-site-generators)_
 
 - [Accent](https://www.accent.reviews/)  -开源，自托管，面向开发人员的翻译工具.  （[Source Code](https://github.com/mirego/accent)）`BSD-3-Clause``Elixir`
 - [Pootle](http://pootle.translatehouse.org)  -在线翻译和本地化工具.  （[Source Code](https://github.com/translate/pootle)）`GPL-3.0`` Python`
-- [Traduora](https://traduora.com)  -团队翻译管理平台.  （[Source Code](https://github.com/traduora/traduora)）`AGPL-3.0``Docker / Nodejs`
-- [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)）`GPL-3.0`` Python`
+- [Traduora](https://traduora.com)  -团队翻译管理平台.  （[Source Code](https://github.com/traduora/traduora)) `AGPL-3.0` `Docker/Nodejs`
+- [Weblate](https://weblate.org)  -具有紧密版本控制集成的基于Web的翻译工具.  （[Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate)）`GPL-3.0`` Python`
 - [Zanata](http://zanata.org)  -基于Web的翻译平台，供翻译人员，内容创建者和开发人员管理本地化项目.  （[Source Code](https://github.com/zanata/zanata-platform)）`GPL-2.0`` Java`
 
 ## Static site generators
@@ -1382,7 +1384,7 @@ _也可以看看 [Project Management](#project-management) 和 [Ticketing](#tick
 
 - [Kanbana](https://github.com/SrGMC/kanbana)  -创建公告板以从纯减价文件跟踪用户和项目. 从Crepido分叉.  MIT`Nodejs`
 - [Kanboard](http://kanboard.net/)  -简单和开源的可视任务板.  （[Source Code](https://github.com/kanboard/kanboard)用PHP`
-- [myTinyTodo](http://www.mytinytodo.net/)  -以AJAX样式管理待办事项列表的简单方法. 使用PHP，jQuery，SQLite / MySQL. 符合GTD.  （[Demo](http://www.mytinytodo.net/demo/), [Source Code](https://github.com/maxpozdeev/mytinytodo/)）`GPL-2.0``PHP`
+- [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. ([Demo](http://www.mytinytodo.net/demo/), [Source Code](https://github.com/maxpozdeev/mytinytodo/)）`GPL-2.0``PHP`
 - [Nullboard](https://github.com/apankrat/nullboard)  -单页极简看板； 紧凑，易读且使用迅速.  （[Demo](https://nullboard.io/preview)）`BSD-2-Clause``Javascript`
 - [PHP Task/Todo list](https://github.com/lgg/tasks.php)  -使用JSON文本文件执行任务的简单任务/待办事项列表. 麻省理工学院PHP
 - [Planka](https://planka.app/)  -开源Trello替代.  （[Demo](https://plankanban.github.io/planka/#/), [Source Code](https://github.com/plankanban/planka)）和Nodejs
@@ -1412,11 +1414,11 @@ _也可以看看 [Task management/To-do lists](#task-managementto-do-lists) 和 
 - [Bumpy Booby](http://bumpy-booby.derivoile.fr/)  -简单，响应迅速且高度可定制的PHP错误跟踪系统.  （[Source Code](https://github.com/piero-la-lune/Bumpy-Booby)用PHP`
 - [DiamanteDesk](http://diamantedesk.com/)  -DiamanteDesk是免费的开源易于使用的帮助台解决方案.  （[Demo](http://diamantedesk.com/demo/), [Source Code](https://github.com/eltrino/diamantedesk-application)）OSL-3.0`PHP
 - [django-todo](http://django-todo.org/)  -django-todo是一个可插入的，多用户，多组，多列表的待办事项和票务系统-一种可重用的应用程序，旨在放入任何现有的Django项目中.  （[Source Code](https://github.com/shacker/django-todo)）`BSD-3-Clause`` Python / Django`
-- [Erxes](https://erxes.io/install/)  -营销，销售和客户服务平台，旨在帮助企业吸引更多参与的客户.  （[Demo](https://demo.erxes.io/), [Source Code](https://github.com/erxes/erxes)) `GPL-3.0` `Javascript`
+- [Erxes](https://erxes.io/install/)  -营销，销售和客户服务平台，旨在帮助企业吸引更多参与的客户.  （[Demo](https://demo.erxes.io/), [Source Code](https://github.com/erxes/erxes)）`GPL-3.0``Javascript`
 - [Flyspray](http://www.flyspray.org/)  -简单，基于Web的错误跟踪系统.  （[Source Code](https://github.com/Flyspray/flyspray)）`GPL-2.0``PHP`
 - [FreeScout](https://github.com/freescout-helpdesk/freescout)  -Help Scout的开源克隆：基于电子邮件的客户支持应用程序，帮助台和共享邮箱.  `AGPL-3.0``PHP`
 - [Helpy](https://helpy.io)  -Helpy是一种现代的开源帮助台客户支持应用程序. 功能包括知识库，社区讨论以及与电子邮件集成的支持票证.  （[Demo](https://demo.helpy.io), [Source Code](https://github.com/helpyio/helpy)）`MIT`` Ruby`
-- [HuBoard](https://github.com/huboard/huboard)  `⚠`-您的GitHub问题的即时项目管理（直接连接GitHub API）. 麻省理工学院Ruby
+- [HuBoard](https://github.com/huboard/huboard) `⚠` - Instant project management for your GitHub issues (Connects directly GitHub API). `MIT` `Ruby`
 - [MantisBT](https://www.mantisbt.org/)  -自托管的错误跟踪器，最适合软件开发.  （[Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code](https://github.com/mantisbt/mantisbt)）`GPL-2.0``PHP`
 - [OpenSupports](https://www.opensupports.com/)  -具有常见问题，角色管理，指标和罐头响应功能的多语言票证系统.  （[Demo](https://www.opensupports.com/demo/), [Source Code](https://github.com/opensupports/opensupports)）`GPL-3.0``PHP`
 - [osTicket](http://osticket.com/)  -在一个地方管理，组织和存档所有支持请求和响应.  （[Source Code](https://github.com/osTicket/osTicket)）`GPL-2.0``PHP`
@@ -1479,7 +1481,7 @@ _也可以看看 [Documentation Generators](#documentation-generators), [Wikimat
 - [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki)  -MediaWiki是使用PHP编写的免费开源Wiki软件包. 它是Wikipedia和其他Wikimedia项目的平台，每月有成千上万人使用.  （[Demo](https://en.wikipedia.org/wiki/Main_Page), [Source Code](https://phabricator.wikimedia.org/diffusion/MW/)）`GPL-2.0``PHP`
 - [MoinMoin](https://moinmo.in/)  -拥有大量用户的先进，易用且可扩展的WikiEngine.  （[Source Code](https://github.com/moinwiki/moin-1.9)）`GPL-2.0`` Python`
 - [Outline](https://www.getoutline.com/)  `⚠`-使用React和Node.js为您的团队提供的开放，可扩展的Wiki.  （[Source Code](https://github.com/outline/outline)）`BSD-3-Clause``Nodejs`
-- [Pepperminty Wiki](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)）`MPL-2.0``PHP`
+- [Pepperminty Wiki](https://github.com/sbrl/Pepperminty-Wiki)  -完整的由markdown支持的Wiki，包含在单个PHP文件中.  （[Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)）`MPL-2.0``PHP`
 - [PineDocs](https://github.com/xy2z/PineDocs)  -简单，快速，可自定义且轻量级的网站，用于浏览文件.  `GPL-3.0``PHP`
 - [PmWiki](http://www.pmwiki.org)  -基于Wiki的系统，用于协作创建和维护网站.  `GPL-3.0``PHP`
 - [Raneto](http://raneto.com/)  -Raneto是一个开源知识库平台，该平台使用静态Markdown文件为您的知识库提供动力.  MIT`Nodejs`
@@ -1511,7 +1513,7 @@ _也可以看看 [Documentation Generators](#documentation-generators), [Wikimat
 - [NextCloudPi](https://nextcloudpi.com/)  -预安装和预配置了Nextcloud，具有文本和Web管理界面以及自托管私有数据所需的所有工具. 带有Raspberry Pi，Odroid，Rock64，Docker的安装映像，以及Armbian / Debian的curl安装程序.  （[Source Code](https://github.com/nextcloud/nextcloudpi)）`GPL-2.0或更高版本``Bash / PHP`
 - [OpenMediaVault](http://www.openmediavault.org/)  -OpenMediaVault是基于Debian Linux的下一代网络附加存储（NAS）解决方案. 它包含SSH，（S）FTP，SMB / CIFS，DAAP媒体服务器，RSync，BitTorrent客户端等服务.  （[Source Code](https://github.com/openmediavault/openmediavault)）`GPL-3.0``PHP`
 - [Sandstorm](https://sandstorm.io/)  -用于轻松，安全地运行自托管应用程序的个人服务器.  （[Demo](https://demo.sandstorm.io/), [Source Code](https://github.com/sandstorm-io/sandstorm)）`Apache-2.0``C ++ / Other`
-- [sovereign](https://github.com/sovereign/sovereign)  -Ansible剧本集，用于建立和维护自己的私有云：电子邮件，日历，联系人，文件同步，IRC保镖，VPN等.  `GPL-3.0``YAML /其他`
+- [sovereign](https://github.com/sovereign/sovereign)  -用于构建和维护自己的私有云的Ansible剧本集：电子邮件，日历，联系人，文件同步，IRC保镖，VPN等.  `GPL-3.0``YAML /其他`
 - [Syncloud](https://syncloud.org/)  -您自己的在线文件存储，社交网络或电子邮件服务器.  （[Source Code](https://github.com/syncloud/platform)）GPL-3.0`Python / Other`
 - [UBOS](http://ubos.net/)  -在独立盒（个人服务器和IoT设备）上运行的Linux发行版. 应用程序的单命令安装和管理-Jenkins，Mediawiki，Owncloud，WordPress等，以及其他功能.  `GPL-3.0``Perl / Other`
 - [WikiSuite](https://wikisuite.org)  -最全面，集成程度最高的免费/自由/开源企业软件套件.  （[Source Code](https://wikisuite.org/Source-Code)）`多个`ClearOS`
@@ -1550,9 +1552,9 @@ _也可以看看 [Documentation Generators](#documentation-generators), [Wikimat
 -`EPL-1.0`- [Eclipse Public License, Version 1.0](https://www.eclipse.org/legal/epl-v10.html)
 -`EPL-2.0`- [Eclipse Public License, Version 2.0](https://www.eclipse.org/legal/epl-v20.html)
 -`EUPL-1.2`- [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12)
--`仅限GFDL-1.1`- [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-only.html)
+- `GFDL-1.1-only` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-only.html)
 -`GFDL-1.1或更高版本- [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-or-later.html)
--`仅GFDL-1.2`- [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-only.html)
+-`仅限GFDL-1.2`- [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-only.html)
 -`GFDL-1.2或更高版本- [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-or-later.html)
 -`仅限GFDL-1.3`- [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-only.html)
 -`GFDL-1.3或更高版本- [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-or-later.html)
@@ -1567,14 +1569,14 @@ _也可以看看 [Documentation Generators](#documentation-generators), [Wikimat
 -LGPL-2.1`- [Lesser General Public License 2.1](http://opensource.org/licenses/LGPL-2.1)
 -LGPL-3.0`- [Lesser General Public License 3.0](http://opensource.org/licenses/LGPL-3.0)
 -`有`- [MIT License](http://opensource.org/licenses/MIT)
--``MPL-1.1&#39;&#39;- [Mozilla Public License Version 1.1](https://www.mozilla.org/media/MPL/1.1/index.txt)
+- `MPL-1.1` - [Mozilla Public License Version 1.1](https://www.mozilla.org/media/MPL/1.1/index.txt)
 -``MPL-2.0&#39;&#39;- [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
 -`Multiple`-各种不同的许可证，用于项目软件的不同组件.
 -`OSL-3.0`- [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
 -`Other`-非标准许可证，通常是项目本身唯一的.
 -`Sendmail`-- [Sendmail License](https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf)
 -`SSPL-1.0`- [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
-- `Unlicense` - [The Unlicense](http://unlicense.org/)
+-`无证`- [The Unlicense](http://unlicense.org/)
 -`WTFPL`- [Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
 -`Zlib`- [Zlib/libpng License](https://opensource.org/licenses/Zlib)
 -`ZPL-1.2`- [Zope Public License 1.2](http://zpl.pub/page/zplv12)

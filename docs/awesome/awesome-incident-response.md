@@ -31,7 +31,7 @@
 * [Cyber Triage](http://www.cybertriage.com)  -Cyber​​ Triage可以远程收集和分析端点数据，以帮助确定是否受到威胁. 它采用无代理方式，并专注于易用性和自动化，因此公司无需大型基础架构变更和法医专家团队即可做出响应. 其结果用于确定系统是否应删除或进一步研究.
 * [Doorman](https://github.com/mwielgoszewski/doorman)  -osquery队列管理器，允许远程管理节点检索的osquery配置. 它利用osquery的TLS配置，记录器和分布式读写端点的优势，以最小的开销和侵入性为管理员提供跨一组设备的可见性.
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) -基于Windows的可扩展应用程序，提供工作流自动化，案例管理和安全响应功能.
-* [Fleetdm](https://github.com/fleetdm/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Fleetdm delivers continous updates, features and fast answers to big questions.
+* [Fleetdm](https://github.com/fleetdm/fleet)  -为安全专家量身定制的最先进的主机监控平台. 利用Facebook经过久经考验的osquery项目，Fleetdm可以提供持续更新，功能以及对重大问题的快速解答.
 * [GRR Rapid Response](https://github.com/google/grr)  -针对远程现场取证的事件响应框架. 它由安装在目标系统上的python代理（客户端）以及可以管理代理并与之通信的python服务器基础结构组成. 除了随附的Python API客户端外， [PowerGRR](https://github.com/swisscom/PowerGRR) 在Windows，Linux和macOS上的PowerShell中提供了API客户端库，用于GRR自动化和脚本编写.
 * [Limacharlie](https://www.limacharlie.io/) -由一系列小项目组成的端点安全平台，这些小项目一起工作，可以为您提供跨平台（Windows，OSX，Linux，Android和iOS）的低级环境，用于管理其他模块并将其推入内存以扩展其功能.
 * [MozDef](https://github.com/mozilla/MozDef) -自动化安全事件处理流程，并促进事件处理程序的实时活动.
@@ -72,12 +72,12 @@
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -Windows Batch脚本和Unix Bash脚本，可在事件响应期间全面收集主机取证数据.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) -自动化工具，可从Windows，OSX和基于* nix的操作系统收集易失性数据.
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) -命令行实用程序（可与或不与Amazon EC2实例一起使用）并行化远程内存获取.
-* [UAC](https://github.com/tclahr/uac)  -利用内置工具自动收集系统工件的Shell脚本. 支持的系统：AIX，FreeBSD，Linux，macOS，NetBSD，Netscaler，OpenBSD和Solaris.
+* [UAC](https://github.com/tclahr/uac)  -UAC（类Unix工件收集器）是针对事件响应的实时响应收集工具，它使用内置工具来自动收集类Unix系统工件. 支持的系统：AIX，FreeBSD，Linux，macOS，NetBSD，Netscaler，OpenBSD和Solaris.
 
 ### Incident Management
 
 * [CyberCPR](https://www.cybercpr.com) -内置了“需要知道”功能的社区和商业事件管理工具，可在处理敏感事件时支持GDPR合规性.
-* [Cyphon](https://www.cyphon.io/)  -Cyphon通过一个平台简化了许多相关任务，从而消除了事件管理的麻烦. 它接收，处理和分类事件，为您的分析工作流提供全方位的解决方案-汇总数据，对警报进行捆绑和优先排序，并赋予分析人员调查和记录事件的能力.
+* [Cyphon](https://www.cyphon.io/)  -Cyphon通过一个平台简化了许多相关任务，从而消除了事件管理的麻烦. 它接收，处理和分类事件，为您的分析工作流提供全方位的解决方案-汇总数据，对警报进行绑定和优先级排序，并赋予分析人员调查和记录事件的能力.
 * [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) -Paloalto安全业务流程，自动化和响应平台，具有完整的事件生命周期管理以及许多集成，可以增强自动化.
 * [DFIRTrack](https://github.com/stuhli/dfirtrack) -事件响应跟踪应用程序处理许多受影响的系统中的一个重大事件，这在APT案例中经常观察到.
 * [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR/)  -网络安全事件管理平台的设计考虑了敏捷性和速度. 它可以轻松创建，跟踪和报告网络安全事件，对于CSIRT，CERT和SOC都非常有用.
@@ -145,7 +145,7 @@
 
 ### Other Tools
 
-* [Cortex](https://thehive-project.org)  -Cortex允许您通过Web界面一一或以批量模式分析可观察到的内容，例如IP和电子邮件地址，URL，域名，文件或哈希. 分析师还可以使用其REST API自动执行这些操作.
+* [Cortex](https://thehive-project.org)  -Cortex允许您使用Web界面逐一或以批量模式分析可观察的内容，例如IP和电子邮件地址，URL，域名，文件或哈希. 分析师还可以使用其REST API自动执行这些操作.
 * [Crits](https://crits.github.io/) -基于网络的工具，将分析引擎与网络威胁数据库结合在一起.
 * [Diffy](https://github.com/Netflix-Skunkworks/diffy) -由Netflix的SIRT开发的DFIR工具，使调查人员可以在事件发生期间跨云实例（当前在AWS上的Linux实例）快速确定妥协范围，并通过显示与基准的差异有效地将这些实例分类以采取后续行动.
 * [domfind](https://github.com/diogo-fernan/domfind) -Python DNS搜寻器，用于在不同TLD下查找相同的域名.
@@ -155,7 +155,7 @@
 * [Hindsight](https://github.com/obsidianforensics/hindsight) -Google Chrome / Chromium的互联网历史取证.
 * [Hostintel](https://github.com/keithjjones/hostintel) -每个主机获取智能.
 * [imagemounter](https://github.com/ralphje/imagemounter) -命令行实用程序和Python软件包，可简化（取消）法医磁盘映像的安装.
-* [Kansa](https://github.com/davehull/Kansa/) -Powershell中的模块化事件响应框架.
+* [Kansa](https://github.com/davehull/Kansa/) - Modular incident response framework in Powershell.
 * [Munin](https://github.com/Neo23x0/munin) -Virustotal和其他服务的在线哈希检查器.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) -PowerSponse是一个PowerShell模块，专注于在安全事件响应期间进行有针对性的遏制和修复.
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) -非常简单的多线程多规则多文件YARA扫描Python脚本的恶意软件动物园和IR.
